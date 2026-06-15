@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Bonneville spirituális gyökereinek felfedezésével az Église Saint-Martin templomban. Sétáljon a folyópart felé, és élvezze a friss alpesi levegőt, miközben a történelmi központba ér.\n\nA dél a történelmi örökség elmélyüléséről szól a lenyűgöző Pont de l'Europe hídon és az impozáns Château de Bonneville várban. Ezek az építmények a város múltját mesélik el.\n\nDélután találjon egy csendes pillanatot a Sainte-Catherine templomban, mielőtt tempót váltana. A kőépületektől a természeti látnivalókig vezető út frissítő perspektívát kínál.\n\nZárja a napot a Cascade du Dard vízeséshez tett sétával, amely tökéletes természeti finálé. A vízesés nyugtató hangja békés befejezést nyújt bonneville-i gyalogos felfedezéséhez.",
         "ro": "Începeți dimineața descoperind rădăcinile spirituale din Bonneville la Biserica Saint-Martin. Plimbați-vă spre malurile liniștite ale râului, lăsând aerul alpin să vă revigoreze pe măsură ce avansați.\n\nAmiaza vă invită la o incursiune în istorie la impresionantul Pod al Europei, urmat de Castelul de Bonneville. Aceste monumente vorbesc despre trecutul strategic al orașului.\n\nDupă-amiaza, găsiți un moment de liniște în Biserica Sfânta Ecaterina, înainte de a schimba ritmul. Trecerea de la arhitectura din piatră la peisajul natural oferă o perspectivă revigorantă.\n\nÎncheiați-vă ziua cu o plimbare spre Cascade du Dard, un final natural perfect. Sunetul liniștitor al cascadei oferă o concluzie pașnică explorării dumneavoastră pietonale prin Bonneville.",
         "en": "Begin your morning tracing the spiritual roots of Bonneville at Église Saint-Martin. Stroll towards the serene riverbanks, letting the crisp Alpine air invigorate your senses as you approach the historic core.\n\nMidday invites a deep dive into heritage at the striking Pont de l'Europe, followed closely by the imposing Château de Bonneville. These landmarks speak volumes of the town's strategic past.\n\nIn the afternoon, find a quiet moment in the Sainte-Catherine Church before changing the pace. The transition from stone architecture to natural sights offers a refreshing perspective on the local landscape.\n\nEnd your day walking out to the Cascade du Dard, a perfect natural finale. The soothing sounds of the waterfall provide a tranquil conclusion to your pedestrian exploration of Bonneville."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach der Église Saint-Martin, während der Regen sanft gegen die Fenster trommelt. Mittags führt der Weg über den Pont de l'Europe, wo der Fluss Arve unter einem grauen Himmel kraftvoll anschwillt. Am Nachmittag bieten die dicken Mauern des Château de Bonneville einen historischen Zufluchtsort. Den Abend lassen wir in der ruhigen Atmosphäre der Kirchenhallen ausklingen, weit weg von der Nässe.",
+            "hu": "A reggel az Église Saint-Martin oltalmazó tetője alatt indul, miközben az eső halkan kopog az üvegablakokon. Délben az út a Pont de l'Europe hídján át vezet, ahol az Arve folyó szürkén hömpölyög a lábak alatt. Délután a Château de Bonneville vastag falai kínálnak történelmi menedéket a csapadék elől. Az estét a városi templomok meghitt csendjében zárjuk, távol a kültéri sártól és hideg szélviharoktól.",
+            "ro": "Dimineața începe sub acoperișul protector al Bisericii Saint-Martin, în timp ce ploaia bate ușor în ferestre. La prânz, drumul trece peste Pont de l'Europe, unde râul Arve curge cu forță sub cerul gri. După-amiaza, zidurile groase ale Castelului Bonneville oferă un refugiu istoric împotriva umezelii. Seara se încheie în atmosfera liniștită a bisericilor din oraș, departe de frigul și ploaia de afară.",
+            "en": "The morning starts under the protective roof of Église Saint-Martin as rain taps gently on the stained glass. At noon, the walk crosses Pont de l'Europe, where the Arve river swells powerfully under a leaden sky. In the afternoon, the thick walls of Château de Bonneville provide a historical sanctuary from the wet. The evening concludes in the quiet solace of the town's churches, safe from the damp."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innendetails der Kirche, während Sie draußen dem Regen lauschen; ein Regenschirm ist für den kurzen Weg zum Eingang unverzichtbar.",
+                "hu": "Csodálja meg a templom belső díszeit, miközben hallgatja a kinti eső neszét; egy strapabíró esernyő elengedhetetlen a bejáratig tartó rövid úton.",
+                "ro": "Admirați detaliile interioare ale bisericii în timp ce ascultați ploaia de afară; o umbrelă este indispensabilă pentru scurta plimbare până la intrare.",
+                "en": "Admire the church's interior details while listening to the rain outside; a sturdy umbrella is essential for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de l'Europe",
+                "hu": "Pont de l'Europe",
+                "ro": "Podul Europei",
+                "en": "Pont de l'Europe"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wassermassen der Arve von der Brücke aus; achten Sie auf rutschige Pflastersteine und tragen Sie wasserfeste Schuhe.",
+                "hu": "Figyelje meg az Arve folyó drámai víztömegét a hídról; ügyeljen a csúszós macskakövekre és viseljen teljesen vízhatlan lábbelit a séta során.",
+                "ro": "Observați masele dramatice de apă ale râului Arve de pe pod; atenție la pavajul alunecos și purtați încălțăminte impermeabilă pe parcursul plimbării.",
+                "en": "Observe the dramatic water volume of the Arve from the bridge; watch out for slippery cobblestones and wear waterproof shoes during the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bonneville",
+                "hu": "Château de Bonneville",
+                "ro": "Castelul de Bonneville",
+                "en": "Château de Bonneville"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die herrschaftliche Architektur, die auch bei Regen imposant wirkt; nutzen Sie die überdachten Bereiche, um die Fassade trocken zu studieren.",
+                "hu": "Fedezze fel az uradalmi építészetet, amely esőben is lenyűgöző; használja a fedett részeket a homlokzat tanulmányozására, hogy szárazon maradjon.",
+                "ro": "Explorați arhitectura impunătoare care rămâne impresionantă chiar și pe ploaie; folosiți zonele acoperite pentru a studia fațada fără a vă uda.",
+                "en": "Explore the stately architecture that remains impressive even in the rain; use the covered areas to study the facade while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Catherine Church",
+                "hu": "Sainte-Catherine Church",
+                "ro": "Biserica Sfânta Ecaterina",
+                "en": "Sainte-Catherine Church"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort bietet eine perfekte Pause vom Wetter für einen Moment der Besinnung; prüfen Sie Ihre Regenkleidung auf Dichtigkeit, bevor Sie weitergehen.",
+                "hu": "Ez a hely tökéletes pihenőt nyújt az időjárás elől egy rövid elmélkedésre; ellenőrizze esőkabátja szigetelését, mielőtt folytatná az utat a vízesés felé.",
+                "ro": "Acest loc oferă o pauză perfectă de la vreme pentru un moment de reflexie; verificați etanșeitatea hainei de ploaie înainte de a merge mai departe.",
+                "en": "This place offers a perfect break from the weather for a moment of reflection; check your rain gear's integrity before heading to the waterfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade du Dard",
+                "hu": "Cascade du Dard",
+                "ro": "Cascade du Dard",
+                "en": "Cascade du Dard"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist nach Regenfällen besonders spektakulär, aber der Pfad ist schlammig; treten Sie vorsichtig auf und meiden Sie die steilen Ränder.",
+                "hu": "A vízesés esőzés után különösen látványos, de az ösvény ilyenkor sáros; lépjen óvatosan és kerülje a meredek, csúszós széleket a kilátópontnál.",
+                "ro": "Cascada este deosebit de spectaculoasă după ploi, dar poteca este noroioasă; pășiți cu grijă și evitați marginile abrupte și alunecoase.",
+                "en": "The waterfall is especially spectacular after rain, but the path is muddy; tread carefully and avoid the steep, slippery edges at the viewpoint."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Église Saint-Martin, wo der Atem in der kalten Luft gefriert. Mittags bietet der Pont de l'Europe einen weiten Blick auf die schneebedeckten Alpengipfel in der Ferne. Am Nachmittag taucht die tiefstehende Wintersonne das Château de Bonneville in ein goldenes Licht. Da die Dämmerung bereits um 17:00 Uhr einsetzt, endet die Tour in der warmen Geborgenheit des Stadtzentrums.",
+            "hu": "A fagyos reggel az Église Saint-Martin falai között indul, ahol a lehelet látszik a csípős alpesi levegőben. Délben a Pont de l'Europe hídról pazar kilátás nyílik a távoli, hófödte hegycsúcsokra. Délután az alacsonyan járó téli nap arany fénybe vonja a Château de Bonneville tornyait. Mivel a sötétedés már 17:00 körül beáll, a túrát a városközpont meleg fényeinél fejezzük be.",
+            "ro": "O dimineață geroasă începe la Biserica Saint-Martin, unde respirația îngheață în aerul tăios al Alpilor. La prânz, Pont de l'Europe oferă o vedere panoramică asupra vârfurilor înzăpezite din depărtare. După-amiaza, soarele palid de iarnă scaldă Castelul Bonneville într-o lumină aurie. Deoarece amurgul se lasă deja la ora 17:00, turul se încheie în confortul cald al centrului orașului.",
+            "en": "A frosty morning begins at Église Saint-Martin, where your breath mists in the crisp Alpine air. At noon, Pont de l'Europe offers a wide vista of the snow-capped peaks in the distance. In the afternoon, the low winter sun bathes Château de Bonneville in a golden glow. With dusk falling as early as 17:00, the tour concludes in the warm embrace of the city center's glowing lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Die Stille der Kirche passt perfekt zur winterlichen Ruhe draußen; tragen Sie dicke Wollsocken, da der Steinboden der Kirche sehr kalt sein kann.",
+                "hu": "A templom csendje tökéletesen illik a téli nyugalomhoz; viseljen vastag gyapjúzoknit, mert a templom kőpadlója ilyenkor rendkívül hideg tud lenni.",
+                "ro": "Liniștea bisericii se potrivește perfect cu calmul iernii; purtați șosete groase de lână, deoarece podeaua de piatră poate fi foarte rece acum.",
+                "en": "The church's silence fits the winter calm perfectly; wear thick wool socks, as the stone floor can be extremely cold during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de l'Europe",
+                "hu": "Pont de l'Europe",
+                "ro": "Podul Europei",
+                "en": "Pont de l'Europe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und den Blick auf die Berge; Handschuhe sind wichtig, wenn Sie Fotos von der gefrorenen Flusslandschaft machen.",
+                "hu": "Élvezze a tiszta téli levegőt és a hegyi panorámát; a kesztyű elengedhetetlen, ha fotókat készít a jeges folyóparti tájról a hídon állva.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de panorama montană; mănușile sunt esențiale dacă faceți poze peisajului înghețat de pe pod.",
+                "en": "Enjoy the clear winter air and the mountain panorama; gloves are essential if you plan to take photos of the frozen river landscape from the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bonneville",
+                "hu": "Château de Bonneville",
+                "ro": "Castelul de Bonneville",
+                "en": "Château de Bonneville"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winter wie aus einem Märchen, besonders bei Reif; achten Sie auf vereiste Stellen auf den Außenwegen des Schlossgeländes.",
+                "hu": "A kastély télen olyan, mint egy tündérmese, különösen zúzmarás időben; ügyeljen a jeges foltokra a várudvar és a külső utak mentén.",
+                "ro": "Castelul arată ca într-un basm iarna, mai ales când este promoroacă; atenție la porțiunile înghețate de pe potecile exterioare ale domeniului.",
+                "en": "The castle looks like something out of a fairy tale in winter, especially with frost; watch out for icy patches on the exterior paths of the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Catherine Church",
+                "hu": "Sainte-Catherine Church",
+                "ro": "Biserica Sfânta Ecaterina",
+                "en": "Sainte-Catherine Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz im Innenraum auf, bevor die Sonne untergeht; die frühe Dämmerung sorgt für eine besonders mystische Lichtstimmung in der Kirche.",
+                "hu": "Melegedjen fel kicsit a belső térben, mielőtt a nap végleg lebukik; a korai szürkület különösen misztikus fényeket teremt a templomhajóban.",
+                "ro": "Încălziți-vă puțin în interior înainte ca soarele să apună; amurgul timpuriu creează o lumină mistică deosebită în interiorul bisericii.",
+                "en": "Warm up briefly inside before the sun sets completely; the early dusk creates a particularly mystical lighting mood within the church nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade du Dard",
+                "hu": "Cascade du Dard",
+                "ro": "Cascade du Dard",
+                "en": "Cascade du Dard"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Frost bilden sich beeindruckende Eiszapfen am Wasserfall; bleiben Sie auf dem Hauptweg, da der Zugang zum Wasser bei Eis gefährlich ist.",
+                "hu": "Erős fagyban lenyűgöző jégcsapok alakulnak ki a vízesésnél; maradjon a kijelölt úton, mert a vízpart megközelítése jeges időben életveszélyes.",
+                "ro": "În caz de ger, se formează țurțuri impresionanți la cascadă; rămâneți pe poteca principală, deoarece accesul la apă este periculos pe gheață.",
+                "en": "In hard frost, impressive icicles form at the waterfall; stay on the main path, as approaching the water's edge is dangerous during icy weather."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a túrát a látványos Gorges du Borne-nál, élvezve a hűvös reggeli levegőt és a geológiai szépséget. A városközpont felé pedálozva energikusan indul a nap.\n\nDélben váltson a természetről a kultúrára: tekerjen el az Église Saint-Martin templomhoz, és guruljon át a Pont de l'Europe hídon. A folyóparti utak kiváló kerékpáros terepet kínálnak.\n\nDélután fedezze fel a történelmi Château de Bonneville várat. A középkori elmélyülés után egy gyors tekerés a külváros felé elvezeti a Cascade du Dard vízeséshez.\n\nZárja kerékpáros utazását a Grand Château lenyűgöző homlokzatának megtekintésével. A műemléktől való esti visszautazás tökéletesen kerekíti le ezt a kétkerekes kalandot.",
         "ro": "Începeți traseul la spectaculosul Gorges du Borne, bucurându-vă de aerul proaspăt. Pedalând spre centrul orașului, veți prinde energia necesară pentru restul zilei.\n\nLa amiază, treceți de la natură la patrimoniu, pedalând spre Biserica Saint-Martin și Podul Europei. Pista de-a lungul râului oferă un teren excelent, cu fundaluri pitorești.\n\nPetreceți după-amiaza explorând istoricul Castel de Bonneville. După această imersiune medievală, o cursă rapidă spre periferie vă va duce la Cascade du Dard.\n\nÎncheiați călătoria pe două roți vizitând fațada impresionantă a Grand Château. Cursa lină de întoarcere în amurg completează perfect această aventură echilibrată.",
         "en": "Kick off your ride at the spectacular Gorges du Borne, embracing the cool morning air and raw geological beauty. Pedaling towards the town center sets an energetic tone for the hours ahead.\n\nBy midday, transition from nature to heritage as you cycle to Église Saint-Martin and roll across the Pont de l'Europe. The riverside paths provide excellent cycling terrain with scenic backdrops.\n\nSpend your afternoon exploring the historic Château de Bonneville. Following this medieval immersion, a swift ride towards the outskirts will lead you to the refreshing mist of the Cascade du Dard.\n\nConclude your cycling journey by visiting the grand facade of the Grand Château. The gentle twilight ride back from this monumental sight rounds out a perfectly balanced two-wheeled adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet bei Nieselregen in den Gorges du Borne, wo die Felsen feucht glänzen. Mittags geht es zügig zur Église Saint-Martin, um die erste Trockenpause einzulegen. Nachmittags erkunden wir das Schloss, während der Wind den Regen vor sich her treibt. Die Tour endet bei der Cascade du Dard, deren Rauschen den prasselnden Regen übertönt, bevor wir durchnässt, aber zufrieden zurückkehren.",
+            "hu": "A biciklitúra szemerkélő esőben indul a Gorges du Borne szurdokában, ahol a sziklák nedvesen csillognak. Délben gyorsan az Église Saint-Martin felé vesszük az irányt egy kis száraz pihenőre. Délután a kastélyt fedezzük fel, miközben a szél kergeti a felhőket. A túra a Cascade du Dard vízesésnél zárul, melynek zúgása túlharsogja az eső kopogását a sisakunkon.",
+            "ro": "Turul cu bicicleta începe pe o ploaie măruntă în Gorges du Borne, unde stâncile strălucesc umede. La prânz, ne îndreptăm rapid spre Biserica Saint-Martin pentru o primă pauză uscată. După-amiaza explorăm castelul, în timp ce vântul alungă norii de ploaie. Turul se încheie la Cascada du Dard, al cărei vuiet acoperă sunetul ploii pe căștile noastre înainte de întoarcere.",
+            "en": "The bike tour starts in drizzling rain through Gorges du Borne, where the cliffs glisten with moisture. At noon, we pedal quickly to Église Saint-Martin for a much-needed dry break. In the afternoon, we explore the castle as the wind drives the rain across the valley. The tour ends at Cascade du Dard, its roar drowning out the patter of rain on our helmets before we head back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gorges du Borne",
+                "hu": "Gorges du Borne",
+                "ro": "Cheile Borne",
+                "en": "Gorges du Borne"
+              },
+              "tip_5lang": {
+                "de": "Die Schlucht ist bei Regen sehr dramatisch, aber die Straße kann rutschig sein; fahren Sie in den Kurven besonders vorsichtig und tragen Sie Neonkleidung.",
+                "hu": "A szurdok esőben rendkívül drámai, de az út ilyenkor csúszós; kanyarodjon óvatosan és viseljen feltűnő, fényvisszaverő esőruházatot.",
+                "ro": "Cheile sunt dramatice pe ploaie, dar drumul poate fi alunecos; conduceți cu prudență în curbe și purtați haine reflectorizante de ploaie.",
+                "en": "The gorge is very dramatic in the rain, but the road can be slippery; cycle carefully through bends and wear high-visibility rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang, um kurz zu verschnaufen und die Bremsen zu prüfen; das Innere bietet einen trockenen Kontrast zur nassen Fahrt.",
+                "hu": "Használja a templombejáratot egy kis pihenőre és a fékek ellenőrzésére; a belső tér száraz kontrasztot nyújt a vizes és sáros biciklizés után.",
+                "ro": "Folosiți intrarea bisericii pentru a vă trage sufletul și a verifica frânele; interiorul oferit un contrast uscat față de drumul ud.",
+                "en": "Use the church entrance to take a breather and check your brakes; the interior offers a dry contrast to the wet and muddy cycling session."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de l'Europe",
+                "hu": "Pont de l'Europe",
+                "ro": "Podul Europei",
+                "en": "Pont de l'Europe"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke langsam, da Metallfugen bei Nässe tückisch sind; genießen Sie den Blick auf das aufgewühlte Wasser der Arve.",
+                "hu": "Lassan keljen át a hídon, mert a fém illesztések nedvesen alattomosan csúsznak; élvezze a kilátást az Arve felkorbácsolt, szürke vizére.",
+                "ro": "Traversați podul încet, deoarece îmbinările metalice sunt înșelătoare pe ploaie; bucurați-vă de vederea asupra apelor agitate ale râului Arve.",
+                "en": "Cross the bridge slowly as metal joints are treacherous when wet; enjoy the view of the Arve's churned-up, grey waters from the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bonneville",
+                "hu": "Château de Bonneville",
+                "ro": "Castelul de Bonneville",
+                "en": "Château de Bonneville"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und erkunden Sie die Anlage; die alten Steine leuchten bei Regen in tiefen Grautönen.",
+                "hu": "Parkolja le kerékpárját egy védett helyen és fedezze fel az épületet; a régi kövek esőben mélyszürke árnyalatokban tündökölnek.",
+                "ro": "Parcați bicicleta într-un loc protejat și explorați incinta; pietrele vechi strălucesc în nuanțe gri profunde atunci când sunt ude.",
+                "en": "Park your bike in a sheltered spot and explore the grounds; the old stones glow in deep grey tones when drenched by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade du Dard",
+                "hu": "Cascade du Dard",
+                "ro": "Cascade du Dard",
+                "en": "Cascade du Dard"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Wasserfall ist für Räder nicht geeignet; lassen Sie das Rad oben stehen und achten Sie beim Gehen auf den matschigen Untergrund.",
+                "hu": "A vízeséshez vezető ösvény nem alkalmas kerékpározásra; hagyja a gépet fent, és gyalogosan ügyeljen a felázott, sáros talajra.",
+                "ro": "Poteca spre cascadă nu este potrivită pentru biciclete; lăsați bicicleta sus și atenție la solul noroios în timp ce mergeți pe jos.",
+                "en": "The path to the waterfall is not suitable for bikes; leave your cycle at the top and watch out for the muddy ground while walking down."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Château",
+                "hu": "Grand Château",
+                "ro": "Grand Château",
+                "en": "Grand Château"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf das majestätische Gebäude im Regen; wischen Sie den Sattel trocken, bevor Sie die letzte Etappe der Rückfahrt antreten.",
+                "hu": "Egy utolsó pillantás a fenséges épületre az esőben; törölje szárazra a nyerget, mielőtt nekivágna a hazaút utolsó, vizes szakaszának.",
+                "ro": "O ultimă privire asupra clădirii maiestuoase pe ploaie; ștergeți șaua înainte de a porni pe ultima etapă a drumului de întoarcere.",
+                "en": "One last look at the majestic building in the rain; wipe your saddle dry before starting the final leg of your wet journey home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt morgens durch die eisigen Gorges du Borne, wo Frost die Felswände verziert. Mittags wärmen wir uns kurz an der Église Saint-Martin auf. Nachmittags radeln wir zum Schloss, während die Wintersonne die Landschaft verzaubert. Um 17:00 Uhr sinken die Temperaturen rapide, sodass wir rechtzeitig vor der Dunkelheit und der Glätte das Ziel erreichen.",
+            "hu": "A téli biciklitúra reggel az olykor jeges Gorges du Borne szurdokon át vezet, ahol zúzmara díszíti a falakat. Délben az Église Saint-Martin falai között melegszünk fel. Délután a kastély felé tekerünk a szikrázó téli napsütésben. 17:00 körül a hőmérséklet hirtelen zuhanni kezd, így még a sötétedés és a jegesedés előtt célba érünk.",
+            "ro": "Turul de iarnă cu bicicleta trece dimineața prin Cheile Borne, unde promoroaca împodobește pereții de stâncă. La prânz, ne încălzim scurt la Biserica Saint-Martin. După-amiaza pedalăm spre castel în lumina sclipitoare a soarelui de iarnă. La ora 17:00 temperaturile scad brusc, așa că ajungem la destinație înainte de întuneric și îngheț.",
+            "en": "The winter bike tour passes through the icy Gorges du Borne in the morning, where frost decorates the rock walls. At noon, we take a warm-up break at Église Saint-Martin. In the afternoon, we pedal towards the castle in the sparkling winter sun. By 17:00, temperatures drop sharply, so we aim to finish before the dark and ice set in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gorges du Borne",
+                "hu": "Gorges du Borne",
+                "ro": "Cheile Borne",
+                "en": "Gorges du Borne"
+              },
+              "tip_5lang": {
+                "de": "Die Kälte steht in der Schlucht; tragen Sie windfeste Kleidung und achten Sie auf schwarzes Eis in den schattigen Bereichen der Straße.",
+                "hu": "A hideg megül a szurdokban; viseljen szélálló ruházatot és figyeljen a „fekete jégre” az út árnyékos, fagypont alatti részein.",
+                "ro": "Frigul stăruie în chei; purtați haine rezistente la vânt și atenție la gheața neagră în zonele umbrite ale drumului.",
+                "en": "The cold lingers in the gorge; wear windproof clothing and watch out for black ice in the shaded sections of the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Eine willkommene Pause von der kalten Fahrt; bewegen Sie Ihre Finger und Zehen, um die Durchblutung während des Stopps anzuregen.",
+                "hu": "Hálás pihenő a hideg tekerés után; mozgassa meg az ujjait és lábujjait a templomban, hogy serkentse a keringését a rövid megálló alatt.",
+                "ro": "O pauză binevenită după drumul rece; mișcați-vă degetele de la mâini și picioare pentru a stimula circulația în timpul opririi.",
+                "en": "A welcome break from the freezing ride; move your fingers and toes while inside the church to stimulate circulation during the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont de l'Europe",
+                "hu": "Pont de l'Europe",
+                "ro": "Podul Europei",
+                "en": "Pont de l'Europe"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann beißend kalt sein; halten Sie den Stopp kurz und genießen Sie den Blick auf die verschneite Umgebung.",
+                "hu": "A szél a hídon metszően hideg lehet; tartsa rövidre a megállót és élvezze a gyors kilátást a hófödte környékre a nyeregből.",
+                "ro": "Vântul de pe pod poate fi tăios; mențineți oprirea scurtă și bucurați-vă de vederea rapidă asupra împrejurimilor înzăpezite.",
+                "en": "The wind on the bridge can be biting; keep the stop brief and enjoy the quick view of the snow-covered surroundings from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bonneville",
+                "hu": "Château de Bonneville",
+                "ro": "Castelul de Bonneville",
+                "en": "Château de Bonneville"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht in der Wintersonne fantastisch aus; parken Sie vorsichtig, da Metallständer bei Frost an den Händen festfrieren können.",
+                "hu": "A kastély fantasztikusan fest a téli napsütésben; parkoljon óvatosan, mert a fém kerékpártámaszok fagyban a kézhez ragadhatnak kesztyű nélkül.",
+                "ro": "Castelul arată fantastic în soarele de iarnă; parcați cu grijă, deoarece suporturile metalice pot îngheța de mâini pe timp de ger.",
+                "en": "The castle looks fantastic in the winter sun; park carefully, as metal bike racks can freeze to bare hands in extreme cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade du Dard",
+                "hu": "Cascade du Dard",
+                "ro": "Cascade du Dard",
+                "en": "Cascade du Dard"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt des Wasserfalls kann am Boden gefrieren; tragen Sie festes Schuhwerk mit Profil, wenn Sie das Rad für einen Blick abstellen.",
+                "hu": "A vízesés permete ráfagyhat a talajra; viseljen barázdált talpú cipőt, ha leszáll a bicikliről, hogy közelebbről is megnézze a látványt.",
+                "ro": "Vaporii cascadei pot îngheța pe sol; purtați încălțăminte cu talpă aderentă dacă coborâți de pe bicicletă pentru a vedea cascada.",
+                "en": "The waterfall's mist can freeze on the ground; wear boots with good grip if you dismount your bike to take a closer look at the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Château",
+                "hu": "Grand Château",
+                "ro": "Grand Château",
+                "en": "Grand Château"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Sonne nun tief steht; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "Fejezze be gyorsan a túrát, mert a nap már alacsonyan jár; győződjön meg róla, hogy a kerékpár lámpái működnek a hazavezető úton.",
+                "ro": "Încheiați rapid turul, deoarece soarele este acum jos; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Finish the tour promptly as the sun is low; ensure your bike lights are functioning correctly for the final stretch of the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós túráját a lélegzetelállító Gorges du Borne-nál, ahol kényelmesen leparkolhat és megcsodálhatja a szurdokot. Ez egy lenyűgöző geológiai kezdete a helyi utazásnak.\n\nDélben navigáljon a városközpontba, könnyedén összekötve az Église Saint-Martin templomot és a történelmi Château de Bonneville várat. A rövid autózások egyszerűvé teszik a látnivalók felfedezését.\n\nDélután egy rövid út elviszi az impozáns Église Saint-Pierre-hez és a közeli Grand Château-hoz. Az autó kényelme lehetővé teszi, hogy fáradtság nélkül csodálja meg a szétszórt műemlékeket.\n\nEste vezessen északra a Lac du Môle felé. A nyugodt tó csodálatos naplemente-tükröződést kínál, ami festői és pihentető lezárása az átfogó autós útitervnek.",
         "ro": "Începeți turul auto la uluitorul Gorges du Borne, unde parcarea generoasă vă permite să admirați defileul. Este un început geografic impresionant pentru excursia dumneavoastră.\n\nNavigați spre centru la amiază, legând ușor Biserica Saint-Martin de istoricul Castel de Bonneville. Distanțele scurte de condus fac simplă acoperirea eficientă a acestor comori.\n\nDupă-amiaza, un scurt drum vă aduce la impunătoarea Biserică Saint-Pierre și la Grand Château. Confortul mașinii vă permite să apreciați aceste monumente dispersate fără oboseală.\n\nConduceți spre nord la apropierea serii pentru a ajunge la Lacul Môle. Lacul liniștit oferă o reflexie superbă a apusului, reprezentând un final pitoresc și relaxant.",
         "en": "Start your driving tour at the breathtaking Gorges du Borne, where ample parking lets you easily step out and marvel at the ravine. It’s an awe-inspiring geographical start to your local road trip.\n\nNavigate to the town center by midday, easily connecting Église Saint-Martin and the historic Château de Bonneville. Short driving hops make it simple to cover these central architectural treasures efficiently.\n\nIn the afternoon, a brief drive brings you to the stately Église Saint-Pierre and the nearby Grand Château. The convenience of a car allows you to appreciate these scattered monuments without the fatigue.\n\nDrive north as evening approaches to reach Lac du Môle. The tranquil lake offers a stunning sunset reflection, providing a picturesque and relaxing end to your comprehensive driven itinerary."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt morgens in den nebligen Gorges du Borne, sicher und trocken im Auto. Mittags besuchen wir die Église Saint-Martin und das Schloss, während der Regen auf das Autodach trommelt. Nachmittags geht es zur Église Saint-Pierre und zum Grand Château. Den Abend verbringen wir am Lac du Môle, dessen Ufer im Regen eine melancholische, aber wunderschöne Ruhe ausstrahlen.",
+            "hu": "Az autós túra a ködös Gorges du Borne szurdokban indul, biztonságban és szárazon az utastérben. Délben az Église Saint-Martin templomot és a kastélyt látogatjuk meg, miközben az eső a tetőn kopog. Délután az Église Saint-Pierre és a Grand Château következik. Az estét a Lac du Môle tavánál zárjuk, melynek partja esőben melankolikus, de csodálatos nyugalmat áraszt.",
+            "ro": "Călătoria începe dimineața în Cheile Borne pline de ceață, în siguranță și uscat în mașină. La prânz vizităm Biserica Saint-Martin și castelul, în timp ce ploaia bate pe plafonul mașinii. După-amiaza mergem la Biserica Saint-Pierre și la Grand Château. Seara se încheie la Lac du Môle, al cărui mal emană o liniște melancolică dar superbă pe ploaie.",
+            "en": "The drive begins in the misty Gorges du Borne, safe and dry inside the car. At noon, we visit Église Saint-Martin and the castle while rain drums on the roof. In the afternoon, we head to Église Saint-Pierre and the Grand Château. The evening concludes at Lac du Môle, where the shoreline radiates a melancholy but beautiful tranquility in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gorges du Borne",
+                "hu": "Gorges du Borne",
+                "ro": "Cheile Borne",
+                "en": "Gorges du Borne"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss aus dem Fenster; schalten Sie das Abblendlicht ein, da die Sicht in der engen Schlucht bei Regen stark abnimmt.",
+                "hu": "Élvezze a folyóra nyíló kilátást az ablakból; kapcsolja be a tompított fényszórót, mert a látási viszonyok a szűk szurdokban esőben sokat romlanak.",
+                "ro": "Bucurați-vă de vederea spre râu de la fereastră; aprindeți faza scurtă, deoarece vizibilitatea în cheile înguste scade mult pe ploaie.",
+                "en": "Enjoy the river views from your window; keep your low-beam headlights on as visibility in the narrow gorge decreases significantly during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; der Innenraum bietet eine wunderbare Akustik, wenn der Regen gegen die Mauern schlägt.",
+                "hu": "Parkoljon a bejárat közelében, hogy elkerülje az ázást; a templom belső tere csodálatos akusztikát nyújt, amikor az eső veri a vastag falakat.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda; interiorul oferă o acustică minunată atunci când ploaia bate în zidurile groase.",
+                "en": "Park close to the entrance to avoid getting wet; the church interior offers wonderful acoustics when the rain beats against the thick walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bonneville",
+                "hu": "Château de Bonneville",
+                "ro": "Castelul de Bonneville",
+                "en": "Château de Bonneville"
+              },
+              "tip_5lang": {
+                "de": "Die dramatische Architektur passt perfekt zum grauen Himmel; lassen Sie keine Wertsachen sichtbar im Auto, wenn Sie das Schloss besichtigen.",
+                "hu": "A drámai építészet tökéletesen illik a szürke égbolthoz; ne hagyjon értéktárgyat látható helyen az autóban, amíg a kastélyt járja körbe.",
+                "ro": "Arhitectura dramatică se potrivește perfect cu cerul gri; nu lăsați obiecte de valoare la vedere în mașină în timp ce vizitați castelul.",
+                "en": "The dramatic architecture suits the grey sky perfectly; do not leave valuables visible in the car while you are exploring the castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer friedlicher Stopp im Trockenen; prüfen Sie Ihre Scheibenwischer, da die Fahrt über Landstraßen bei Starkregen anstrengend sein kann.",
+                "hu": "Újabb békés megálló szárazon; ellenőrizze az ablaktörlőket, mert a vidéki utakon a vezetés heves esőzésben fárasztó lehet a szemnek.",
+                "ro": "O altă oprire liniștită la adăpost; verificați ștergătoarele, deoarece condusul pe drumurile rurale în ploaie torențială poate fi obositor.",
+                "en": "Another peaceful stop in the dry; check your wipers, as driving on country roads in heavy rain can be tiring for the eyes after a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Château",
+                "hu": "Grand Château",
+                "ro": "Grand Château",
+                "en": "Grand Château"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade kurz vom Parkplatz aus; nutzen Sie die kurzen Regenpausen für ein schnelles Foto des herrschaftlichen Anwesens.",
+                "hu": "Csodálja meg a homlokzatot a parkolóból; használja ki az eső rövid szüneteit egy gyors fotóra erről az impozáns uradalmi birtokról.",
+                "ro": "Admirați fațada direct din parcare; profitați de scurtele pauze de ploaie pentru o poză rapidă a acestui domeniu impunător.",
+                "en": "Admire the facade briefly from the parking area; take advantage of short breaks in the rain for a quick photo of this stately manor."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Môle",
+                "hu": "Lac du Môle",
+                "ro": "Lac du Môle",
+                "en": "Lac du Môle"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt im Regen geheimnisvoll; bleiben Sie im Auto und genießen Sie die Aussicht oder machen Sie einen kurzen Gang mit festen Gummistiefeln.",
+                "hu": "A tó esőben titokzatos arcát mutatja; maradjon az autóban élvezni a látványt, vagy tegyen egy rövid kört egy strapabíró gumicsizmában.",
+                "ro": "Lacul pare misterios pe ploaie; rămâneți în mașină pentru a vă bucura de vedere sau faceți o scurtă plimbare cu cizme de cauciuc rezistente.",
+                "en": "The lake appears mysterious in the rain; stay in the car to enjoy the view or take a very short walk wearing sturdy rubber boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens führt die Fahrt durch die tief verschneiten Gorges du Borne, wobei das Auto wohlige Wärme bietet. Mittags besichtigen wir die Kirchen und das Schloss von Bonneville, deren Dächer weiß glänzen. Nachmittags geht die Fahrt zum Grand Château und schließlich zum Lac du Môle. Der gefrorene See bietet bei Sonnenuntergang um 17:00 Uhr eine atemberaubende Kulisse.",
+            "hu": "Reggel az út a mélyen hófödte Gorges du Borne szurdokon át vezet, miközben az autó kellemes meleget nyújt. Délben a templomokat és a kastélyt nézzük meg, melyek tetői fehéren csillognak. Délután a Grand Château, majd végül a Lac du Môle következik. A befagyott tó lélegzetelállító látványt nyújt a korai, 17:00-ás naplementében.",
+            "ro": "Dimineața drumul trece prin Cheile Borne înzăpezite, în timp ce mașina oferă o căldură plăcută. La prânz vizităm bisericile și castelul, ale căror acoperișuri strălucesc alb. După-amiaza mergem la Grand Château și în final la Lac du Môle. Lacul înghețat oferă un peisaj uluitor la apusul soarelui de la ora 17:00.",
+            "en": "In the morning, the drive goes through the deeply snow-covered Gorges du Borne, with the car providing cozy warmth. At noon, we visit the churches and the castle, their roofs glistening white. In the afternoon, we head to Grand Château and finally Lac du Môle. The frozen lake provides a breathtaking backdrop at the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gorges du Borne",
+                "hu": "Gorges du Borne",
+                "ro": "Cheile Borne",
+                "en": "Gorges du Borne"
+              },
+              "tip_5lang": {
+                "de": "Die vereisten Felswände sind beeindruckend; stellen Sie sicher, dass Ihr Auto Winterreifen hat, da die Schlucht oft nicht geräumt ist.",
+                "hu": "A jeges sziklafalak lenyűgözőek; győződjön meg róla, hogy autója téli gumival szerelt, mert a szurdokot nem mindig takarítják azonnal.",
+                "ro": "Pereții de stâncă înghețați sunt impresionanți; asigurați-vă că mașina are anvelope de iarnă, deoarece cheile nu sunt mereu deszăpezite.",
+                "en": "The icy rock walls are impressive; ensure your car is equipped with winter tires, as the gorge road is often not cleared immediately."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Zuflucht vor der Kälte; parken Sie vorsichtig, da die Parkflächen oft vereist oder matschig sind.",
+                "hu": "A templom békés menedéket nyújt a kinti hideg elől; parkoljon óvatosan, mert a parkolóhelyek gyakran jegesek vagy latyakosak ilyenkor.",
+                "ro": "Biserica oferă un refugiu liniștit împotriva frigului; parcați cu grijă, deoarece locurile de parcare sunt adesea înghețate sau cu noroi.",
+                "en": "The church offers a peaceful refuge from the cold outside; park carefully, as parking spaces are often icy or slushy during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bonneville",
+                "hu": "Château de Bonneville",
+                "ro": "Castelul de Bonneville",
+                "en": "Château de Bonneville"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Schnee majestätisch; tragen Sie Schuhe mit gutem Grip für den kurzen Weg vom Parkplatz zum Schlosseingang.",
+                "hu": "A kastély fenségesen mutat a hóban; viseljen jó tapadású cipőt a parkolótól a kastély bejáratáig tartó rövid, de csúszós sétaúton.",
+                "ro": "Castelul arată maiestuos în zăpadă; purtați încălțăminte cu aderență bună pentru scurta plimbare de la parcare până la intrare.",
+                "en": "The castle looks majestic in the snow; wear shoes with good grip for the short but potentially slippery walk from the parking lot to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Ort für eine kurze Pause; prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Meleg hely egy rövid pihenőre; ellenőrizze a szélvédőmosó fagyállóságát, mielőtt folytatná az utat a befagyott tó felé.",
+                "ro": "Un loc cald pentru o scurtă pauză; verificați nivelul antigelului din lichidul de parbriz înainte de a continua drumul spre lac.",
+                "en": "A warm place for a short break; check the frost protection in your windshield washer fluid before continuing towards the frozen lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Château",
+                "hu": "Grand Château",
+                "ro": "Grand Château",
+                "en": "Grand Château"
+              },
+              "tip_5lang": {
+                "de": "Das Anwesen glänzt herrlich im Winterlicht; halten Sie Ihre Kamera bereit für die kontrastreichen Bilder des Schlosses im Schnee.",
+                "hu": "Az uradalom gyönyörűen csillog a téli fényben; tartsa készenlétben a fényképezőgépét a kastély és a hó kontrasztos látványához.",
+                "ro": "Domeniul strălucește superb în lumina iernii; țineți aparatul foto pregătit pentru imaginile contrastante ale castelului în zăpadă.",
+                "en": "The estate glows beautifully in the winter light; have your camera ready for high-contrast photos of the castle against the white snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Môle",
+                "hu": "Lac du Môle",
+                "ro": "Lac du Môle",
+                "en": "Lac du Môle"
+              },
+              "tip_5lang": {
+                "de": "Der See ist oft zugefroren und bietet eine tolle Kulisse; betreten Sie das Eis keinesfalls, da die Tragfähigkeit im Winter unvorhersehbar ist.",
+                "hu": "A tó gyakran befagy és csodás látványt nyújt; semmiképp ne lépjen a jégre, mert a teherbírása télen is kiszámíthatatlan és veszélyes.",
+                "ro": "Lacul este adesea înghețat și oferă un decor superb; nu pășiți sub nicio formă pe gheață, deoarece grosimea ei este imprevizibilă.",
+                "en": "The lake is often frozen and offers a great backdrop; do not step onto the ice under any circumstances as its thickness is unpredictable."
+              }
+            }
+          ]
+        }
       }
     }
   }

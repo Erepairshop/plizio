@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Hohen Neuendorf történelmi központjának felfedezésével, a bájos falusi templomtól a Városházáig.\n\nDélben elérheti a lenyűgöző Víztornyot, amelyet egy séta követ a kulturális Szobor körúton.\n\nTöltse a délutánt a friss levegőn, és elmélkedjen az út menti szabadtéri műalkotásokon.\n\nEstefelé találjon nyugalmat a Mönchsee-nél, és fejezze be a napot a természet szépségében.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Hohen Neuendorf, de la fermecătoarea Biserică până la Primărie.\n\nLa amiază ajungeți la impresionantul Turn de Apă, urmat de o plimbare pe Bulevardul Sculpturilor.\n\nPetreceți după-amiaza la aer curat, reflectând asupra operelor de artă în aer liber de pe traseu.\n\nSpre seară, găsiți liniștea la Mönchsee, încheind ziua în frumusețea tăcută a naturii.",
         "en": "Start your morning exploring the historic heart of Hohen Neuendorf, from the charming Village Church to the stately brick architecture of the Town Hall.\n\nMidday takes you to the towering Water Tower, an industrial gem, followed by a leisurely stroll down the cultural Sculpture Boulevard.\n\nSpend your afternoon taking in the fresh air and reflecting on the open-air artworks that line the pathway.\n\nAs evening approaches, find serenity at the Mönchsee, ending your day immersed in the quiet natural beauty of the local landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit sanftem Regen an der Kirche, wo die Stille zum Verweilen einlädt. Mittags bietet das Rathaus einen sicheren Zufluchtsort vor den Schauern. Am Nachmittag erkunden wir den Skulpturenboulevard unter dem Schutz bunter Regenschirme. Der Abend klingt mit einem mystischen Spaziergang am nebligen Mönchsee aus, wobei das Wasser sanft unter den Tropfen kräuselt.",
+            "hu": "A reggel esőben indul a templomnál, ahol a belső csend nyújt menedéket a szürkeség elől. Délben a városháza falai között vészeljük át a záport, megcsodálva az épület részleteit. Délután az esernyők alatt sétálva a szobrok különleges, vizes fényben úsznak. Az este a ködös Mönchsee partján zárul, ahol a lámpák fénye sejtelmesen tükröződik a tó felszínén.",
+            "ro": "Dimineața începe cu ploaie ușoară la biserică, unde liniștea interioară ne protejează de intemperii. La prânz, primăria oferă un refugiu sigur împotriva averselor trecătoare. După-amiaza explorăm bulevardul sculpturilor sub protecția umbrelelor colorate. Seara se încheie cu o plimbare mistică pe malul lacului Mönchsee, unde picăturile creează cercuri hipnotizante pe apă.",
+            "en": "The morning starts with gentle rain at the church, where the interior silence provides a dry sanctuary. At noon, the town hall offers a safe haven from the passing showers. In the afternoon, we explore the sculpture boulevard under the protection of colorful umbrellas. The evening concludes with a mystical walk by the misty Mönchsee, with rain dancing on the water surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dorfkirche",
+                "hu": "Falusi templom",
+                "ro": "Biserica rurală",
+                "en": "Village Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte Architektur im Trockenen; achten Sie beim Hinausgehen auf die rutschigen Stufen im Eingangsbereich und halten Sie den Schirm bereit.",
+                "hu": "Csodálja meg a belső teret az eső elől menekülve; a kijáratnál vigyázzon a csúszós lépcsőkre, és készítse elő az esernyőjét a következő szakaszhoz.",
+                "ro": "Admirați arhitectura simplă la adăpost de ploaie; aveți grijă la treptele alunecoase de la intrare când ieșiți și pregătiți umbrela pentru drum.",
+                "en": "Admire the simple architecture while staying dry; be careful of slippery steps at the entrance when leaving and have your umbrella ready for the next part."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Hohen Neuendorf",
+                "hu": "Hohen Neuendorf Városháza",
+                "ro": "Primăria Hohen Neuendorf",
+                "en": "Hohen Neuendorf Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Lobby des Rathauses für eine längere Pause; hier können Sie Infomaterial lesen, während draußen der stärkste Regen an die Scheiben prasselt.",
+                "hu": "Használja ki a városháza előcsarnokát egy hosszabb pihenőre; olvasson helyi brossúrákat, amíg kint a legerősebben kopog az eső az üvegtáblákon.",
+                "ro": "Folosiți holul primăriei pentru o pauză prelungită; puteți citi materiale informative în timp ce afară ploaia bate puternic în geamurile mari.",
+                "en": "Use the town hall lobby for an extended break; you can read local brochures while the heaviest rain drums against the large window panes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserturm",
+                "hu": "Víztorony",
+                "ro": "Turnul de Apă",
+                "en": "Water Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt im Regen besonders monumental; halten Sie den Aufenthalt kurz, da es kaum Unterstand gibt, und tragen Sie eine wasserdichte Regenjacke.",
+                "hu": "A torony esőben különösen monumentálisnak hat; tartsuk rövidre a látogatást, mert nincs fedett rész, és viseljünk teljesen vízhatlan esőkabátot.",
+                "ro": "Turnul pare deosebit de monumental în ploaie; scurtați vizita deoarece nu există adăpost și purtați o jachetă de ploaie complet impermeabilă.",
+                "en": "The tower looks particularly monumental in the rain; keep the visit short as there is no shelter available, and wear a fully waterproof raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenboulevard",
+                "hu": "Szobor körút",
+                "ro": "Bulevardul Sculpturilor",
+                "en": "Sculpture Boulevard"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Oberflächen der Skulpturen erzeugen faszinierende Reflexionen; tragen Sie festes Schuhwerk, da die Wege zwischen den Kunstwerken matschig sein können.",
+                "hu": "A szobrok nedves felületei izgalmas fényvisszaverődéseket produkálnak; viseljen zárt cipőt, mert a műalkotások közötti ösvények sárossá válhatnak.",
+                "ro": "Suprafețele umede ale sculpturilor creează reflexii fascinante; purtați încălțăminte solidă, deoarece potecile dintre operele de artă pot deveni noroioase.",
+                "en": "The wet surfaces of the sculptures create fascinating reflections; wear sturdy shoes, as the paths between the artworks can become quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Mönchsee",
+                "hu": "Mönchsee",
+                "ro": "Mönchsee",
+                "en": "Mönchsee"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Ruhe am Seeufer; ein wetterfestes Cape schützt vor dem Wind und lässt Sie die Natur trotz der Nässe entspannt erleben.",
+                "hu": "Élvezze a tóparti melankolikus nyugalmat; egy viharálló köpeny megvéd a széltől, így a nedves idő ellenére is pihentető élményben lesz része.",
+                "ro": "Bucurați-vă de liniștea melancolică de pe malul lacului; o pelerină rezistentă la vânt vă va proteja, oferindu-vă o experiență relaxantă în ciuda umezelii.",
+                "en": "Enjoy the melancholy peace by the lakeshore; a storm-proof cape will protect you from the wind, ensuring a relaxing experience despite the wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen hüllt die Kirche in frostiges Weiß, ein idealer Ort zum Aufwärmen. Mittags leuchtet das Rathaus warm in der tiefstehenden Sonne. Der Nachmittag gehört den gefrorenen Details am Skulpturenboulevard, bevor es gegen 17:00 Uhr dunkel wird. Den Abend verbringen wir am Mönchsee, wo die klare Winterluft und die ersten Lichter eine festliche Stille erzeugen.",
+            "hu": "A téli reggel deres fehérségbe öltözteti a templomot, amely tökéletes hely a bemelegedésre. Délben a városháza téglái melegen ragyognak az alacsony napfényben. A délután a szobrok jeges részleteié, mielőtt 17 óra körül leszáll az éj. Az estét a Mönchsee-nél töltjük, ahol a tiszta téli levegő és az első fények ünnepi csendet árasztanak.",
+            "ro": "Dimineața de iarnă îmbracă biserica în alb sclipitor, fiind un loc ideal pentru a ne încălzi. La prânz, primăria strălucește cald în lumina soarelui jos. După-amiaza este dedicată detaliilor înghețate de pe bulevardul sculpturilor, înainte de apusul de la ora 17:00. Seara o petrecem la Mönchsee, unde aerul curat și primele lumini creează o liniște festivă.",
+            "en": "The winter morning wraps the church in frosty white, an ideal place to warm up. At noon, the town hall glows warmly in the low sun. The afternoon is dedicated to the frozen details on the sculpture boulevard before darkness falls around 5 PM. We spend the evening at Mönchsee, where the crisp winter air and the first lights create a festive silence."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dorfkirche",
+                "hu": "Falusi templom",
+                "ro": "Biserica rurală",
+                "en": "Village Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für eine erste Aufwärmpause; achten Sie auf den Temperaturunterschied und ziehen Sie Ihre Handschuhe erst drinnen aus.",
+                "hu": "Használja a fűtött belső teret egy első melegedőre; ügyeljen a hőmérséklet-különbségre, és csak bent vegye le a kesztyűjét.",
+                "ro": "Folosiți interiorul încălzit pentru o primă pauză de încălzire; atenție la diferența de temperatură și scoateți-vă mănușile doar odată intrați.",
+                "en": "Use the heated interior for a first warming break; pay attention to the temperature difference and only take off your gloves once inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Hohen Neuendorf",
+                "hu": "Hohen Neuendorf Városháza",
+                "ro": "Primăria Hohen Neuendorf",
+                "en": "Hohen Neuendorf Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das rote Backsteingebäude bildet einen wunderschönen Kontrast zum Schnee; verbringen Sie Zeit im Inneren, um der klirrenden Kälte draußen kurz zu entkommen.",
+                "hu": "A vörös téglaépület csodás kontrasztot alkot a hóval; töltsön több időt bent, hogy elmeneküljön a kinti metsző hideg elől.",
+                "ro": "Clădirea din cărămidă roșie creează un contrast minunat cu zăpada; petreceți timp în interior pentru a scăpa scurt de gerul de afară.",
+                "en": "The red brick building creates a wonderful contrast with the snow; spend some time inside to briefly escape the biting cold outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserturm",
+                "hu": "Víztorony",
+                "ro": "Turnul de Apă",
+                "en": "Water Tower"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm vor 16 Uhr für das beste Licht; tragen Sie winddichte Kleidung, da es auf dem freien Gelände um den Turm herum sehr zugig sein kann.",
+                "hu": "Látogassa meg a tornyot 16 óra előtt a legjobb fényekért; viseljen szélálló ruhát, mert a nyitott területen a torony körül nagyon huzatos lehet.",
+                "ro": "Vizitați turnul înainte de ora 16 pentru cea mai bună lumină; purtați haine rezistente la vânt, deoarece zona deschisă din jur poate fi foarte gerosă.",
+                "en": "Visit the tower before 4 PM for the best light; wear windproof clothing as it can be very drafty on the open grounds around the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenboulevard",
+                "hu": "Szobor körút",
+                "ro": "Bulevardul Sculpturilor",
+                "en": "Sculpture Boulevard"
+              },
+              "tip_5lang": {
+                "de": "Die Statuen wirken mit einer Schnehaube wie aus einer anderen Welt; bewegen Sie sich vorsichtig auf dem vereisten Untergrund zwischen den Kunstwerken.",
+                "hu": "A szobrok a hósapkákkal úgy festenek, mintha egy másik világból jöttek volna; mozogjon óvatosan a jeges talajon a műalkotások között.",
+                "ro": "Statuile cu acoperământ de zăpadă par din altă lume; deplasați-vă cu atenție pe solul înghețat dintre operele de artă.",
+                "en": "The statues look otherworldly with their snow caps; move carefully on the icy ground between the various artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Mönchsee",
+                "hu": "Mönchsee",
+                "ro": "Mönchsee",
+                "en": "Mönchsee"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Seeoberfläche reflektiert das restliche Tageslicht; tragen Sie Thermosocken, da die Kälte vom Boden am Seeufer besonders schnell hochzieht.",
+                "hu": "A befagyott tó felszíne visszaveri a maradék nappali fényt; viseljen termozoknit, mert a vízparton a talaj felől gyorsan felszökik a hideg.",
+                "ro": "Suprafața înghețată a lacului reflectă lumina rămasă a zilei; purtați șosete termice, deoarece frigul de la sol se simte puternic pe mal.",
+                "en": "The frozen lake surface reflects the remaining daylight; wear thermal socks as the cold rises quickly from the ground at the lakeshore."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a hidegháborús történelemmel a Mauerweg kiállításon, mielőtt a történelmi központ felé indulna.\n\nDélben elteker a klasszikus falusi templom, a Városháza és az ikonikus Víztorony mellett.\n\nTöltse a délutánt a Clara-Zetkin emlékhelyen, majd egy festői tekerés következik a Boddensee felé.\n\nEste élvezze az utolsó békés utat az erdős Briesesee-hez, a tónál befejezve a napot.",
         "ro": "Începeți turul cu bicicleta cu istoria Războiului Rece la Expoziția Mauerweg, înainte de a merge spre centru.\n\nLa amiază pedalați pe lângă Biserica clasică, Primăria impunătoare și emblematicul Turn de Apă.\n\nPetreceți după-amiaza la memorialul Clara-Zetkin, urmată de o plimbare pitorească spre Boddensee.\n\nSpre seară, bucurați-vă de o ultimă plimbare senină către Briesesee, încheind ziua pe malul lacului.",
         "en": "Kick off your cycling tour with a dive into Cold War history at the Mauerweg Ausstellung before riding towards the historic town center.\n\nMidday finds you pedaling past the classic Village Church, the imposing Town Hall, and the iconic Water Tower.\n\nSpend the afternoon exploring the Clara-Zetkin memorial, followed by a scenic ride toward the peaceful shores of Boddensee.\n\nAs the evening sets in, enjoy a final serene ride to the deeply forested Briesesee, ending your day with tranquil lake views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisch beginnt die Tour auf dem Mauerweg, wo wasserfeste Ausrüstung unerlässlich ist. Mittags erreichen wir die Kirche und das Rathaus für kurze, trockene Pausen. Am Nachmittag führt die Fahrt zum Wasserturm und zur Clara-Zetkin-Gedenkstätte über nasse Asphaltwege. Der Abend endet an den Seen, deren neblige Ufer eine stille, fast geheimnisvolle Atmosphäre ausstrahlen.",
+            "hu": "Esős reggel indul a túra a Mauerwegen, ahol a vízálló felszerelés elengedhetetlen. Délben érjük el a templomot és a városházát rövid, száraz pihenőkre. Délután a víztoronyhoz és a Clara-Zetkin emlékhelyhez tekerünk a vizes aszfalton. Az este a tavaknál ér véget, melyek ködös partjai csendes, már-már titokzatos hangulatot árasztanak.",
+            "ro": "Turul începe ploios pe Mauerweg, unde echipamentul impermeabil este esențial. La prânz ajungem la biserică și primărie pentru scurte pauze uscate. După-amiaza, drumul duce la turnul de apă și memorialul Clara-Zetkin pe asfalt umed. Seara se încheie la lacuri, ale căror maluri cețoase emană o atmosferă liniștită și misterioasă.",
+            "en": "The tour starts rainy on the Berlin Wall Trail, where waterproof gear is essential. At noon, we reach the church and town hall for brief dry breaks. In the afternoon, the ride continues to the water tower and Clara-Zetkin Memorial over wet asphalt. The evening ends at the lakes, whose misty shores radiate a quiet, almost mysterious atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mauerweg Ausstellung",
+                "hu": "Mauerweg Kiállítás",
+                "ro": "Expoziția Mauerweg",
+                "en": "Berlin Wall Trail Exhibition"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Infostelen als kleinen Regenschutz; fahren Sie auf dem Mauerweg besonders vorsichtig, da nasses Laub die Bodenhaftung verringern kann.",
+                "hu": "Használja az információs oszlopokat esővédőként; tekerjen óvatosan a Mauerwegen, mert a nedves levelek miatt csúszóssá válhat az út.",
+                "ro": "Folosiți panourile informative ca protecție împotriva ploii; pedalați cu prudență pe Mauerweg, deoarece frunzele ude pot reduce aderența.",
+                "en": "Use the info pillars as small rain shelters; ride carefully on the trail as wet leaves can significantly reduce your tire grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorfkirche",
+                "hu": "Falusi templom",
+                "ro": "Biserica rurală",
+                "en": "Village Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und wärmen Sie sich kurz in der Kirche auf; prüfen Sie vor der Weiterfahrt den Sitz Ihrer Regenbekleidung.",
+                "hu": "Parkolja le a bringát fedett helyen, és melegedjen fel a templomban; indulás előtt ellenőrizze, hogy jól zár-e az esőruhája.",
+                "ro": "Parcați bicicleta într-un loc protejat și încălziți-vă scurt în biserică; verificați dacă hainele de ploaie sunt bine fixate înainte de a pleca.",
+                "en": "Park your bike in a sheltered spot and warm up briefly in the church; check your rain gear's fit before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Hohen Neuendorf",
+                "hu": "Hohen Neuendorf Városháza",
+                "ro": "Primăria Hohen Neuendorf",
+                "en": "Hohen Neuendorf Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus bietet im Foyer einen trockenen Rastplatz; nutzen Sie die Zeit, um die Bremsen Ihres Fahrrads kurz auf Schmutz und Nässe zu kontrollieren.",
+                "hu": "A városháza előcsarnoka száraz pihenőhely; használja ki az időt a fékek ellenőrzésére, mert a sár és a víz ronthatja a féktávot.",
+                "ro": "Foaierul primăriei oferă un loc de odihnă uscat; profitați de timp pentru a verifica frânele bicicletei, deoarece umezeala le poate afecta.",
+                "en": "The town hall foyer provides a dry resting spot; use this time to check your bike's brakes, as dirt and wetness can affect stopping power."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserturm",
+                "hu": "Víztorony",
+                "ro": "Turnul de Apă",
+                "en": "Water Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den Turm ist auch im Regen lohnenswert; halten Sie den Stopp kurz und tragen Sie einen Helmüberzug, um den Kopf trocken zu halten.",
+                "hu": "A torony látványa esőben is megéri; tartsuk rövidre a megállót, és viseljünk sisakhuzatot, hogy a fejünk száraz maradjon.",
+                "ro": "Vedere turnului merită chiar și pe ploaie; scurtați oprirea și purtați o husă de cască pentru a vă menține capul uscat.",
+                "en": "The view of the tower is worthwhile even in the rain; keep the stop short and wear a helmet cover to keep your head dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Clara-Zetkin-Gedenkstätte",
+                "hu": "Clara-Zetkin Emlékhely",
+                "ro": "Memorialul Clara-Zetkin",
+                "en": "Clara-Zetkin Memorial"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume der Gedenkstätte bieten Schutz vor Schauern; stellen Sie sicher, dass Ihre Satteltasche wasserdicht ist, bevor Sie das Rad draußen lassen.",
+                "hu": "Az emlékhely belső terei védelmet nyújtanak a záporok ellen; győződjön meg róla, hogy a nyeregtáskája vízhatlan, mielőtt kint hagyja a gépet.",
+                "ro": "Interioarele memorialului oferă protecție împotriva averselor; asigurați-vă că geanta de șa este impermeabilă înainte de a lăsa bicicleta afară.",
+                "en": "The memorial's interiors offer protection from showers; make sure your saddlebag is waterproof before leaving the bike outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Boddensee",
+                "hu": "Boddensee",
+                "ro": "Boddensee",
+                "en": "Boddensee"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege zum See können bei Regen schlammig sein; reduzieren Sie den Reifendruck minimal für bessere Traktion auf dem weichen Waldboden.",
+                "hu": "A tóhoz vezető erdei utak esőben sárosak lehetnek; csökkentse minimálisan a guminyomást a jobb tapadás érdekében a puha talajon.",
+                "ro": "Potecile forestiere spre lac pot fi noroioase; reduceți presiunea în anvelope pentru o tracțiune mai bună pe solul moale de pădure.",
+                "en": "The forest paths to the lake can be muddy in the rain; slightly reduce your tire pressure for better traction on the soft forest ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Briesesee",
+                "hu": "Briesesee",
+                "ro": "Briesesee",
+                "en": "Briesesee"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss trotz Nässe; wischen Sie nach der Tour Kette und Rahmen trocken, um Korrosion durch das Regenwasser zu vermeiden.",
+                "hu": "A túra méltó lezárása a nedves idő ellenére; a túra után törölje szárazra a láncot és a vázat, hogy megelőzze az esővíz okozta korróziót.",
+                "ro": "Finalul perfect în ciuda umezelii; ștergeți lanțul și cadrul după tură pentru a preveni coroziunea cauzată de apa de ploaie.",
+                "en": "A worthy conclusion despite the wetness; wipe your chain and frame dry after the ride to prevent corrosion from the rainwater."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klar und frostig beginnt die Fahrt auf dem Mauerweg, wobei die Wintersonne die kahlen Bäume beleuchtet. Mittags bieten Kirche und Rathaus willkommene Wärme. Der Nachmittag am Wasserturm und der Gedenkstätte erfordert windfeste Kleidung. Mit dem frühen Sonnenuntergang gegen 17:00 Uhr erreichen wir die Seen, die in der blauen Stunde eine unbeschreibliche winterliche Ruhe ausstrahlen.",
+            "hu": "Tiszta és fagyos reggel indul a tekerés a Mauerwegen, ahol a téli nap megvilágítja a kopár fákat. Délben a templom és a városháza nyújt menedéket a hideg elől. A délután a víztoronynál és az emlékhelynél szélálló ruházatot igényel. A korai, 17 óra körüli naplementével érjük el a tavakat, melyek a kék órában leírhatatlan nyugalmat árasztanak.",
+            "ro": "Dimineața senină și geroasă începe pe Mauerweg, cu soarele de iarnă luminând copacii goi. La prânz, biserica și primăria oferă căldură binevenită. După-amiaza la turnul de apă și memorial necesită haine rezistente la vânt. Odată cu apusul timpuriu de la ora 17:00, ajungem la lacuri, care emană o liniște hibernală în ora albastră.",
+            "en": "Clear and frosty, the ride begins on the Wall Trail with winter sun lighting the bare trees. At noon, the church and town hall offer welcome warmth. The afternoon at the water tower and memorial requires windproof gear. With the early sunset around 5 PM, we reach the lakes, which radiate an indescribable winter calm during the blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mauerweg Ausstellung",
+                "hu": "Mauerweg Kiállítás",
+                "ro": "Expoziția Mauerweg",
+                "en": "Berlin Wall Trail Exhibition"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe auf dem Asphalt; tragen Sie Thermohandschuhe, da der Fahrtwind bei Minustemperaturen besonders stark kühlt.",
+                "hu": "Ügyeljen a jegesedésre az aszfalton; viseljen termokesztyűt, mert a menetszél mínuszokban különösen erősen hűti az ujjait.",
+                "ro": "Atenție la porțiunile înghețate de pe asfalt; purtați mănuși termice, deoarece curentul de aer răcește puternic mâinile la temperaturi negative.",
+                "en": "Watch out for black ice on the asphalt; wear thermal gloves, as the wind chill at freezing temperatures cools your fingers very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorfkirche",
+                "hu": "Falusi templom",
+                "ro": "Biserica rurală",
+                "en": "Village Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Glieder aufzuwärmen; prüfen Sie Ihren Reifendruck, da kalte Luft den Druck in den Schläuchen sinken lässt.",
+                "hu": "Ideális hely a tagok átmelegítésére; ellenőrizze a guminyomást, mert a hideg levegő miatt csökkenhet a nyomás a tömlőkben.",
+                "ro": "Un loc ideal pentru a vă dezmorți; verificați presiunea în anvelope, deoarece aerul rece face ca presiunea să scadă în camere.",
+                "en": "An ideal place to warm your limbs; check your tire pressure, as cold air causes the pressure in the tubes to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Hohen Neuendorf",
+                "hu": "Hohen Neuendorf Városháza",
+                "ro": "Primăria Hohen Neuendorf",
+                "en": "Hohen Neuendorf Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht besonders plastisch; nutzen Sie den Stopp, um einen heißen Tee aus Ihrer Thermoskanne zu trinken.",
+                "hu": "Az építészet a téli fényben különösen plasztikusnak hat; használja ki a megállót, hogy igyon egy forró teát a termoszából.",
+                "ro": "Arhitectura pare deosebit de tridimensională în lumina iernii; profitați de oprire pentru a bea un ceai fierbinte din termos.",
+                "en": "The architecture looks particularly vivid in the winter light; use the stop to have a hot tea from your thermos."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserturm",
+                "hu": "Víztorony",
+                "ro": "Turnul de Apă",
+                "en": "Water Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist an klaren Wintertagen am besten; tragen Sie eine Sturmhaube unter dem Helm, um Ohren und Gesicht vor Frost zu schützen.",
+                "hu": "A kilátás tiszta téli napokon a legjobb; viseljen maszkot a sisak alatt, hogy védje a fülét és az arcát a fagyos széltől.",
+                "ro": "Vizibilitatea la distanță este optimă în zilele senine de iarnă; purtați o cagulă sub cască pentru a vă proteja fața de îngheț.",
+                "en": "Distance visibility is best on clear winter days; wear a balaclava under your helmet to protect your ears and face from frostbite."
+              }
+            },
+            {
+              "name": {
+                "de": "Clara-Zetkin-Gedenkstätte",
+                "hu": "Clara-Zetkin Emlékhely",
+                "ro": "Memorialul Clara-Zetkin",
+                "en": "Clara-Zetkin Memorial"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen bieten eine perfekte Pause von der Kälte; achten Sie beim Abstellen des Rades auf vereiste Metallteile am Schloss.",
+                "hu": "A kiállítások tökéletes szünetet nyújtanak a hidegben; a bringa lezárásakor ügyeljen a lakat jeges fémrészeire.",
+                "ro": "Expozițiile oferă o pauză perfectă de la frig; când parcați bicicleta, atenție la părțile metalice înghețate ale antifurtului.",
+                "en": "The exhibitions provide a perfect break from the cold; when locking your bike, be careful of icy metal parts on the lock."
+              }
+            },
+            {
+              "name": {
+                "de": "Boddensee",
+                "hu": "Boddensee",
+                "ro": "Boddensee",
+                "en": "Boddensee"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt in der Winterstille fast magisch; meiden Sie bei Dämmerung unbeleuchtete Pfade und schalten Sie Ihre Fahrradbeleuchtung frühzeitig ein.",
+                "hu": "A tó a téli csendben szinte varázslatos; szürkületkor kerülje a kivilágítatlan ösvényeket, és kapcsolja be időben a lámpákat.",
+                "ro": "Lacul pare aproape magic în liniștea iernii; evitați potecile neluminate la amurg și porniți din timp luminile bicicletei.",
+                "en": "The lake seems almost magical in the winter silence; avoid unlit paths at dusk and turn on your bike lights early."
+              }
+            },
+            {
+              "name": {
+                "de": "Briesesee",
+                "hu": "Briesesee",
+                "ro": "Briesesee",
+                "en": "Briesesee"
+              },
+              "tip_5lang": {
+                "de": "Ein frostiger Abschluss der Tour; bewegen Sie Ihre Zehen während der Fahrt regelmäßig, um die Durchblutung trotz der Kälte zu fördern.",
+                "hu": "A túra fagyos lezárása; tekerés közben mozgassa rendszeresen a lábujjait, hogy a hideg ellenére is fenntartsa a vérkeringést.",
+                "ro": "Un final înghețat al turului; mișcați-vă degetele de la picioare regulat în timp ce pedalați pentru a stimula circulația.",
+                "en": "A frosty end to the tour; move your toes regularly while riding to stimulate circulation despite the intense cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós túrája a történelem határán kezdődik a Mauerweg kiállítással, majd a Clara-Zetkin emlékhely következik.\n\nDélben a zöld északi természetvédelmi területek felé cirkál, az erdővel szegélyezett Briesesee-nél kezdve.\n\nA délután egy tókerülő kaland a hatalmas Mühlenbecker See és a vadregényes Kiessee között.\n\nNaplemente közeledtével fedezze fel a Köppchensee-t, mielőtt útját a Waldsee teljes elszigeteltségében fejezné be.",
         "ro": "Turul cu mașina începe la marginea istoriei cu Expoziția Mauerweg, urmată de memorialul Clara-Zetkin.\n\nLa amiază, veți conduce spre rezervațiile naturale din nord, începând cu apele lacului Briesesee.\n\nDupă-amiaza este o aventură între lacuri, conducând ușor între Mühlenbecker See și țărmurile Kiessee.\n\nLa apus, explorați zonele umede de la Köppchensee înainte de a încheia în izolarea completă de la Waldsee.",
         "en": "Your driving tour begins at the edge of history with the Mauerweg Ausstellung, followed by an educational stop at the Clara-Zetkin-Gedenkstätte.\n\nBy midday, you will cruise to the northern nature reserves, starting with the beautiful forest-fringed waters of Briesesee.\n\nThe afternoon is a lake-hopping adventure, driving easily between the vast Mühlenbecker See and the rugged shores of Kiessee.\n\nAs sunset approaches, explore the wetlands of Köppchensee before finishing your journey in the complete seclusion of Waldsee."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt beginnt entspannt am Mauerweg, während der Regen auf das Dach trommelt. Mittags besuchen wir die Clara-Zetkin-Gedenkstätte, ein idealer Indoor-Stopp. Der Nachmittag führt uns zu den verschiedenen Seen der Region, wobei wir die Landschaft bequem vom trockenen Auto aus genießen können. Der Abend endet am Waldsee, wo das Plätschern des Regens eine beruhigende Kulisse bildet.",
+            "hu": "Az autós túra nyugodtan indul a Mauerwegen, miközben az eső kopog a tetőn. Délben meglátogatjuk a Clara-Zetkin emlékhelyet, amely ideális fedett megálló. A délután a régió különböző tavaihoz vezet, ahol a tájat kényelmesen, a száraz autóból élvezhetjük. Az este a Waldsee-nél zárul, ahol az eső csepergése megnyugtató hátteret biztosít.",
+            "ro": "Călătoria cu mașina începe relaxat pe Mauerweg, în timp ce ploaia bate în plafon. La prânz vizităm memorialul Clara-Zetkin, un popas interior ideal. După-amiaza ne duce la diversele lacuri din regiune, admirând peisajul confortabil din mașina uscată. Seara se încheie la Waldsee, unde susurul ploii creează un fundal sonor liniștitor.",
+            "en": "The car trip starts relaxed on the Wall Trail while rain drums on the roof. At noon, we visit the Clara-Zetkin Memorial, an ideal indoor stop. The afternoon takes us to the various lakes in the region, where we can enjoy the scenery comfortably from the dry car. The evening ends at Waldsee, where the patter of rain provides a soothing backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mauerweg Ausstellung",
+                "hu": "Mauerweg Kiállítás",
+                "ro": "Expoziția Mauerweg",
+                "en": "Berlin Wall Trail Exhibition"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Infotafeln, um die Wege kurz zu halten; achten Sie bei der Abfahrt auf Aquaplaning-Gefahr auf den Zufahrtsstraßen.",
+                "hu": "Parkoljon közel az információs táblákhoz, hogy ne ázzon el; induláskor ügyeljen az aquaplaning veszélyre a bekötőutakon.",
+                "ro": "Parcați aproape de panourile informative pentru a scurta drumul; atenție la riscul de acvaplanare pe drumurile de acces la plecare.",
+                "en": "Park close to the info boards to keep your walk short; watch out for aquaplaning risks on the access roads when leaving."
+              }
+            },
+            {
+              "name": {
+                "de": "Clara-Zetkin-Gedenkstätte",
+                "hu": "Clara-Zetkin Emlékhely",
+                "ro": "Memorialul Clara-Zetkin",
+                "en": "Clara-Zetkin Memorial"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um dem Regen für längere Zeit zu entfliehen; nutzen Sie den Parkplatz direkt am Haus für einen trockenen Zugang zur Ausstellung.",
+                "hu": "Tökéletes hely, hogy hosszabb időre elmeneküljön az eső elől; használja a közvetlen parkolót a száraz bejutáshoz a kiállításra.",
+                "ro": "Locul perfect pentru a scăpa de ploaie mai mult timp; folosiți parcarea de lângă casă pentru un acces uscat la expoziție.",
+                "en": "A perfect place to escape the rain for a longer period; use the parking lot right by the house for dry access to the exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Briesesee",
+                "hu": "Briesesee",
+                "ro": "Briesesee",
+                "en": "Briesesee"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See durch die Windschutzscheibe; bei einem kurzen Spaziergang am Ufer schützen die Bäume teilweise vor dem Regen.",
+                "hu": "Élvezze a tó látványát a szélvédőn keresztül; egy rövid parti séta során a fák részben védelmet nyújtanak az eső ellen.",
+                "ro": "Bucurați-vă de vederea lacului prin parbriz; în timpul unei scurte plimbări pe mal, copacii oferă protecție parțială contra ploii.",
+                "en": "Enjoy the lake view through the windshield; during a short walk on the shore, the trees provide some protection from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühlenbecker See",
+                "hu": "Mühlenbecker See",
+                "ro": "Mühlenbecker See",
+                "en": "Mühlenbecker See"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen rutschig sein; schalten Sie das Abblendlicht ein, um die Sichtbarkeit in der grauen Witterung zu erhöhen.",
+                "hu": "A bekötőút erős esőben csúszós lehet; kapcsolja be a tompított fényszórót, hogy javítsa a láthatóságot a szürke időben.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie puternică; aprindeți faza scurtă pentru a crește vizibilitatea în condiții de vreme gri.",
+                "en": "The access road can be slippery in heavy rain; turn on your dipped headlights to increase visibility in the gray weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Kiessee",
+                "hu": "Kiessee",
+                "ro": "Kiessee",
+                "en": "Kiessee"
+              },
+              "tip_5lang": {
+                "de": "Das Ufergelände kann nach Regen sehr aufgeweicht sein; tragen Sie Gummistiefel für den Weg vom Parkplatz zum Aussichtspunkt am Wasser.",
+                "hu": "A tóparti terület eső után nagyon felázhat; viseljen gumicsizmát a parkolótól a vízparti kilátópontig vezető úton.",
+                "ro": "Zona malului poate fi foarte moale după ploaie; purtați cizme de cauciuc pentru drumul de la parcare până la punctul de observație.",
+                "en": "The lakeshore area can be very soft after rain; wear rubber boots for the path from the parking lot to the waterfront viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Köppchensee",
+                "hu": "Köppchensee",
+                "ro": "Köppchensee",
+                "en": "Köppchensee"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wasservögel bequem vom Auto aus; beschlagene Scheiben lassen sich durch Einschalten der Klimaanlage schnell klären.",
+                "hu": "Megfigyelheti a vízimadarakat kényelmesen az autóból; a párás szélvédőt a légkondicionáló bekapcsolásával gyorsan páramentesítheti.",
+                "ro": "Observați păsările de apă confortabil din mașină; geamurile aburite se pot curăța rapid prin pornirea aerului condiționat.",
+                "en": "Observe the waterfowl comfortably from your car; foggy windows can be cleared quickly by turning on the air conditioning."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldsee",
+                "hu": "Waldsee",
+                "ro": "Waldsee",
+                "en": "Waldsee"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Abschluss unter Regenwolken; prüfen Sie vor der Heimfahrt Ihre Scheibenwischerblätter auf einwandfreie Funktion bei Dunkelheit.",
+                "hu": "Hangulatos lezárás az esőfelhők alatt; hazaút előtt ellenőrizze az ablaktörlő lapátokat a sötétben való biztonságos vezetéshez.",
+                "ro": "Un final atmosferic sub norii de ploaie; înainte de plecare, verificați starea ștergătoarelor pentru o conduită sigură pe întuneric.",
+                "en": "An atmospheric conclusion under rain clouds; before heading home, check your wiper blades for proper function in the dark."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostig und klar beginnt die winterliche Autotour am Mauerweg. Mittags bietet die Clara-Zetkin-Gedenkstätte eine warme Zuflucht mit kulturellem Tiefgang. Der Nachmittag führt uns zu den verschneiten Seen der Umgebung, deren Stille wir gut gewärmt im Wagen genießen können. Mit dem frühen Sonnenuntergang um 17:00 Uhr endet der Tag am Waldsee in einer magischen, blauen Winterdämmerung.",
+            "hu": "Fagyosan és tisztán indul a téli autós túra a Mauerwegen. Délben a Clara-Zetkin emlékhely nyújt meleg menedéket kulturális élménnyel fűszerezve. A délután a környék hófödte tavaihoz vezet, melyek csendjét jól befűtött kocsiból élvezhetjük. A korai, 17 órás naplementével a nap a Waldsee-nél ér véget egy varázslatos, kék téli szürkületben.",
+            "ro": "Călătoria de iarnă începe geros și senin pe Mauerweg. La prânz, memorialul Clara-Zetkin oferă un refugiu cald și cultural. După-amiaza ne poartă spre lacurile înzăpezite din jur, a căror liniște o admirăm din mașina bine încălzită. Odată cu apusul de la ora 17:00, ziua se încheie la Waldsee într-un amurg hibernal magic.",
+            "en": "Frosty and clear, the winter car tour starts on the Wall Trail. At noon, the Clara-Zetkin Memorial offers a warm sanctuary with cultural depth. The afternoon takes us to the snowy lakes of the area, whose silence we can enjoy from the well-heated car. With the early sunset at 5 PM, the day ends at Waldsee in a magical, blue winter twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mauerweg Ausstellung",
+                "hu": "Mauerweg Kiállítás",
+                "ro": "Expoziția Mauerweg",
+                "en": "Berlin Wall Trail Exhibition"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigten Flächen, um nicht im Schneematsch stecken zu bleiben; halten Sie einen Eiskratzer für die Scheiben immer griffbereit.",
+                "hu": "Parkoljon szilárd burkolaton, hogy ne akadjon el a hókásában; tartsa a jégkaparót mindig kéznél a szélvédők tisztításához.",
+                "ro": "Parcați pe suprafețe consolidate pentru a nu rămâne blocat în zăpadă; păstrați racleta pentru gheață la îndemână pentru geamuri.",
+                "en": "Park on paved surfaces to avoid getting stuck in slush; always keep an ice scraper handy for clearing the car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Clara-Zetkin-Gedenkstätte",
+                "hu": "Clara-Zetkin Emlékhely",
+                "ro": "Memorialul Clara-Zetkin",
+                "en": "Clara-Zetkin Memorial"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Station zum Aufwärmen zwischen den Fahrten; achten Sie beim Aussteigen auf glatte Stellen direkt vor der Autotür auf dem Parkplatz.",
+                "hu": "Ideális állomás a felmelegedésre az utak között; kiszálláskor ügyeljen a jeges foltokra közvetlenül az autó ajtaja előtt a parkolóban.",
+                "ro": "Stația ideală pentru încălzire între drumuri; la coborâre, atenție la porțiunile alunecoase din parcare, chiar lângă portieră.",
+                "en": "The ideal station to warm up between drives; watch out for icy patches right outside the car door in the parking lot when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Briesesee",
+                "hu": "Briesesee",
+                "ro": "Briesesee",
+                "en": "Briesesee"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt mit Reif am Ufer besonders schön; lassen Sie den Motor nicht unnötig im Stand laufen, während Sie die Aussicht genießen.",
+                "hu": "A tópart a dérrel különösen szép látvány; ne járassa feleslegesen a motort álló helyzetben, miközben a kilátást élvezi.",
+                "ro": "Malul lacului arată superb acoperit de chiciură; nu lăsați motorul să meargă inutil la ralanti în timp ce admirați vederea.",
+                "en": "The lakeshore looks especially beautiful with frost; do not leave the engine idling unnecessarily while you enjoy the scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühlenbecker See",
+                "hu": "Mühlenbecker See",
+                "ro": "Mühlenbecker See",
+                "en": "Mühlenbecker See"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Weiterfahrt den Frostschutz in der Scheibenwaschanlage; die tiefstehende Sonne kann im Winter auf nasser Fahrbahn stark blenden.",
+                "hu": "Indulás előtt ellenőrizze a fagyállót a szélvédőmosóban; az alacsonyan járó nap télen erősen vakíthat a nedves útfelületen.",
+                "ro": "Verificați antigelul din instalația de spălare a parbrizului; soarele jos poate orbi puternic pe carosabilul umed în timpul iernii.",
+                "en": "Check the antifreeze in your windshield washer system before moving on; the low sun can cause strong glare on wet winter roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Kiessee",
+                "hu": "Kiessee",
+                "ro": "Kiessee",
+                "en": "Kiessee"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie eine warme Decke im Auto für die Pausen am See; achten Sie auf Wildwechsel in der Dämmerung auf den bewaldeten Zufahrtsstraßen.",
+                "hu": "Használjon meleg takarót az autóban a tavi szünetekhez; ügyeljen a vadakra a szürkületben az erdős bekötőutakon.",
+                "ro": "Folosiți o pătură caldă în mașină pentru pauzele la lac; atenție la animalele sălbatice la amurg pe drumurile împădurite.",
+                "en": "Use a warm blanket in the car for breaks by the lake; watch out for wildlife crossing the wooded access roads at dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Köppchensee",
+                "hu": "Köppchensee",
+                "ro": "Köppchensee",
+                "en": "Köppchensee"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Wasserfläche bietet tolle Fotomotive vom warmen Innenraum aus; halten Sie die Scheinwerfer von Schnee und Salzresten sauber.",
+                "hu": "A befagyott vízfelület remek fotótéma a meleg utastérből; tartsa tisztán a fényszórókat a hótól és a sómaradványoktól.",
+                "ro": "Suprafața înghețată oferă motive foto excelente din interiorul cald; mențineți farurile curate de zăpadă și resturi de sare.",
+                "en": "The frozen water surface offers great photo opportunities from the warm interior; keep your headlights clean of snow and salt residue."
+              }
+            },
+            {
+              "name": {
+                "de": "Waldsee",
+                "hu": "Waldsee",
+                "ro": "Waldsee",
+                "en": "Waldsee"
+              },
+              "tip_5lang": {
+                "de": "Ein magischer Abschluss der Tour in der Dunkelheit; prüfen Sie vor der Rückfahrt den Reifendruck, da dieser bei Kälte oft deutlich sinkt.",
+                "hu": "Varázslatos lezárása a túrának a sötétben; hazaút előtt ellenőrizze a guminyomást, mert a hidegben gyakran jelentősen visszaesik.",
+                "ro": "Un final magic al turului pe întuneric; înainte de drumul de întoarcere, verificați presiunea în pneuri, deoarece scade adesea la ger.",
+                "en": "A magical conclusion to the tour in the dark; check your tire pressure before heading back, as it often drops significantly in the cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

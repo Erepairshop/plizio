@@ -183,6 +183,224 @@
         "de": "Morning: Beginnen Sie Ihre Tour mit Blick auf die ruhige Flussmündung von oben und atmen Sie die frische kantabrische Luft ein, während Sie die Küstenlandschaft überblicken. Midday: Wechseln Sie zu den lebhaften Sandstränden der Stadt und spüren Sie die goldenen Ufer von Ribera und Concha unter den Füßen im strahlenden Sonnenschein. Afternoon: Steigen Sie leicht an für den spektakulären Blick von La Coteruca, bevor Sie die beeindruckende Silhouette der alten Burg Ceruti am Himmel erreichen. Evening: Beenden Sie Ihre Wanderung am ikonischen Leuchtturm von Suances und genießen Sie einen herrlichen Sonnenuntergang, der den Horizont über dem weiten Atlantik malt.",
         "hu": "Morning: Kezdje sétáját a nyugodt torkolat megcsodálásával a magaslati pontokról, és lélegezze be a friss kantábriai levegőt, miközben végigtekint a tengerparti tájon. Midday: Térjen át a város nyüzsgő homokos partjaira, süllyessze lábát a Ribera és a Concha aranyszínű strandjaiba, miközben élvezi a tengerparti napsütést. Afternoon: Emelkedjen fel kissé a La Coteruca látványos kilátásáért, mielőtt megközelítené a régi Ceruti kastély tekintélyes sziluettjét, amely az égre rajzolódik. Evening: Zárja gyalogos útját az ikonikus suancesi világítótoronynál, és gyönyörködjön a lenyűgöző naplementében, amely befest a horizontot az Atlanti-óceán felett.",
         "ro": "Morning: Începeți turul admirând estuarul liniștit din punctele de belvedere înalte, respirând aerul proaspăt cantabric în timp ce contemplați peisajul de coastă fermecător. Midday: Treceți la țărmurile nisipoase animate ale orașului, scufundându-vă picioarele în plajele aurii Ribera și Concha, în timp ce vă bucurați de soarele coastei. Afternoon: Urcați ușor pentru o vedere spectaculoasă la La Coteruca, înainte de a vă apropia de silueta impunătoare a vechiului castel Ceruti profilat pe cer. Evening: Încheiați călătoria pe jos la iconicul far din Suances, savurând un apus superb care colorează orizontul peste apele vaste și strălucitoare ale Atlanticului."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning mist blankets the cliffs, creating a mystical atmosphere at the viewpoints. By noon, the rain intensifies along the beaches, making the sand dark and firm. Afternoon leads to the castle, where stone walls offer a brief respite from the wind. Evening at the lighthouse is dramatic as waves crash against the rocks; paths are slippery, so watch your step on the wet pavement.",
+            "de": "Morgennebel hüllt die Klippen in eine mystische Atmosphäre. Mittags intensiviert sich der Regen an den Stränden und färbt den Sand dunkel. Der Nachmittag führt zum Schloss, dessen Mauern Schutz vor dem Wind bieten. Der Abend am Leuchtturm ist dramatisch, wenn die Wellen gegen die Felsen schlagen; die Wege sind rutschig, achten Sie also auf Ihre Schritte auf dem nassen Pflaster.",
+            "hu": "A reggeli köd misztikus hangulatot áraszt a sziklák felett. Délben az eső elmélyíti a part menti színeket, a homok sötétté válik. Délután a várkastély falai között kereshetünk menedéket a szél elől. Este a világítótoronynál a viharos tenger látványa lenyűgöző; a járdák és ösvények vizesen nagyon csúsznak, így csak óvatosan haladjunk a parti úton.",
+            "ro": "Ceața de dimineață acoperă stâncile, creând o atmosferă mistică. La prânz, ploaia se intensifică de-a lungul plajelor, făcând nisipul închis la culoare. După-amiaza duce la castel, unde zidurile oferă un scurt răgaz de vânt. Seara la far este dramatică, valurile spărgându-se de stânci; potecile sunt alunecoase, așa că atenție la pași pe pavajul ud."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Viewpoint of Suances",
+                "de": "Viewpoint of Suances",
+                "hu": "Viewpoint of Suances",
+                "ro": "Viewpoint of Suances"
+              },
+              "tip_5lang": {
+                "en": "The misty coastline offers a moody, atmospheric photo opportunity; use a waterproof camera cover and stay far from the slippery cliff edges.",
+                "de": "Die neblige Küste bietet stimmungsvolle Fotomotive; nutzen Sie einen Regenschutz für die Kamera und halten Sie Abstand von den rutschigen Klippenkanten.",
+                "hu": "A ködös partvonal drámai fotótémát kínál; használjunk esővédőt a fényképezőgéphez, és tartsunk biztonságos távolságot a csúszós sziklaszélektől.",
+                "ro": "Coasta cețoasă oferă o oportunitate foto atmosferică; folosiți o protecție impermeabilă pentru cameră și stați departe de marginile alunecoase."
+              }
+            },
+            {
+              "name": {
+                "en": "Mirador de La Cuba",
+                "de": "Mirador de La Cuba",
+                "hu": "Mirador de La Cuba",
+                "ro": "Mirador de La Cuba"
+              },
+              "tip_5lang": {
+                "en": "Watch the rainfall ripple across the estuary from this high vantage point; a sturdy windproof umbrella is essential against the coastal gusts.",
+                "de": "Beobachten Sie von diesem hohen Punkt aus, wie der Regen auf die Flussmündung fällt; ein windfester Regenschirm ist gegen die Böen unerlässlich.",
+                "hu": "Figyeljük meg a torkolat felett táncoló esőfüggönyt erről a magaslati pontról; a szélálló esernyő itt kötelező felszerelés a parti lökések miatt.",
+                "ro": "Priviți ploaia căzând peste estuar de la acest punct de înălțime; o umbrelă rezistentă la vânt este esențială împotriva rafalelor de coastă."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Ribera",
+                "de": "Playa de la Ribera",
+                "hu": "Playa de la Ribera",
+                "ro": "Playa de la Ribera"
+              },
+              "tip_5lang": {
+                "en": "The wet sand is perfect for a brisk walk in waterproof boots; notice how the rain flattens the waves in the protected harbor area.",
+                "de": "Der nasse Sand eignet sich perfekt für einen Spaziergang in Gummistiefeln; bemerken Sie, wie der Regen die Wellen im Hafenbecken glättet.",
+                "hu": "A nedves homok ideális egy gyors sétához vízálló bakancsban; figyeljük meg, hogyan csendesíti el az eső a hullámokat a védett kikötői részen.",
+                "ro": "Nisipul umed este perfect pentru o plimbare rapidă în cizme impermeabile; observați cum ploaia aplatizează valurile în zona protejată a portului."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Concha",
+                "de": "Playa de la Concha",
+                "hu": "Playa de la Concha",
+                "ro": "Playa de la Concha"
+              },
+              "tip_5lang": {
+                "en": "Take shelter under the promenade overhangs if the downpour gets too heavy; the gray sea looks powerful and majestic under a rainy sky.",
+                "de": "Suchen Sie Schutz unter den Vorsprüngen der Promenade, wenn der Regen zu stark wird; das graue Meer wirkt unter dem Regen herrlich majestätisch.",
+                "hu": "Húzódjunk a sétány fedett részei alá, ha felerősödik a zápor; a szürke tenger látványa esős időben is méltóságteljes és erőt sugárzó.",
+                "ro": "Adăpostiți-vă sub zonele acoperite ale falezei dacă ploaia devine prea puternică; marea gri arată maiestuos sub cerul încărcat de ploaie."
+              }
+            },
+            {
+              "name": {
+                "en": "Mirador de La Coteruca",
+                "de": "Mirador de La Coteruca",
+                "hu": "Mirador de La Coteruca",
+                "ro": "Mirador de La Coteruca"
+              },
+              "tip_5lang": {
+                "en": "The path up here can be muddy, so stick to the paved sections; the view of the town roofs glistening in the rain is quite unique.",
+                "de": "Der Weg hierher kann schlammig sein, bleiben Sie auf den gepflasterten Abschnitten; der Blick auf die im Regen glänzenden Dächer ist einmalig.",
+                "hu": "A felfelé vezető út sáros lehet, maradjunk a kövezett szakaszokon; az esőben csillogó háztetők látványa különleges perspektívát ad a városnak.",
+                "ro": "Poteca poate fi noroioasă, așa că rămâneți pe secțiunile pavate; vederea acoperișurilor orașului strălucind în ploaie este unică."
+              }
+            },
+            {
+              "name": {
+                "en": "Castillo de Florencio Ceruti",
+                "de": "Castillo de Florencio Ceruti",
+                "hu": "Castillo de Florencio Ceruti",
+                "ro": "Castillo de Florencio Ceruti"
+              },
+              "tip_5lang": {
+                "en": "The castle provides the best architectural windbreak on the cliff; its stone facade looks particularly historic and dark when soaked with rain.",
+                "de": "Das Schloss bietet den besten Windschutz an der Klippe; die Steinfassade wirkt besonders historisch, wenn sie vom Regen durchnässt ist.",
+                "hu": "A kastély épülete nyújtja a legjobb szélárnyékot a szikla tetején; a kőfalak különösen ódon hangulatot árasztanak, amikor átáznak az esőtől.",
+                "ro": "Castelul oferă cel mai bun adăpost împotriva vântului pe stâncă; fațada de piatră arată deosebit de istorică atunci când este udată de ploaie."
+              }
+            },
+            {
+              "name": {
+                "en": "Faro de Suances",
+                "de": "Faro de Suances",
+                "hu": "Faro de Suances",
+                "ro": "Faro de Suances"
+              },
+              "tip_5lang": {
+                "en": "Experience the raw power of the Atlantic wind at this exposed point; ensure your raincoat is fully zipped and watch for deep puddles near the light.",
+                "de": "Erleben Sie die rohe Kraft des Atlantikwinds an diesem exponierten Punkt; schließen Sie Ihre Regenjacke und achten Sie auf tiefe Pfützen.",
+                "hu": "Tapasztaljuk meg az Atlanti-óceán nyers erejét ezen a kitett ponton; húzzuk fel az esőkabát cipzárját, és kerüljük a mély tócsákat a torony körül.",
+                "ro": "Experimentați puterea brută a vântului Atlantic la acest punct expus; asigurați-vă că pelerina este închisă și atenție la bălțile adânci."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "The crisp winter morning air brings exceptional visibility to the coastal peaks. By noon, the low sun casts long, golden shadows across the quiet harbor. Afternoon walks are brisk, requiring layers against the biting sea breeze. Sunset arrives early around 17:00, painting the cliffs in deep reds; head back to the cozy town center for a warm drink to end the day.",
+            "de": "Die klare Wintermorgenluft bietet eine außergewöhnliche Sicht auf die Küstengipfel. Mittags wirft die tiefstehende Sonne lange, goldene Schatten über den ruhigen Hafen. Nachmittagsspaziergänge sind frisch und erfordern warme Kleidung gegen die Meeresbrise. Der Sonnenuntergang gegen 17:00 Uhr färbt die Klippen tiefrot, bevor es in die Stadt geht.",
+            "hu": "A friss téli reggeli levegő kivételes láthatóságot biztosít a parti sziklákról. Délben az alacsonyan járó nap hosszú, arany árnyékokat vet a csendes kikötőre. A délutáni séta frissítő, de a metsző tengeri szél miatt fontos a réteges öltözködés. A naplemente korán, 17:00 körül érkezik; a vöröses sziklák látványa után érdemes behúzódni egy forró italra.",
+            "ro": "Aerul rece al dimineții de iarnă aduce o vizibilitate excepțională. La prânz, soarele jos lasă umbre lungi și aurii peste portul liniștit. Plimbările de după-amiază sunt revigorante, necesitând haine groase împotriva brizei marine. Apusul soarelui vine devreme, în jurul orei 17:00, pictând stâncile în nuanțe de roșu închis."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Viewpoint of Suances",
+                "de": "Viewpoint of Suances",
+                "hu": "Viewpoint of Suances",
+                "ro": "Viewpoint of Suances"
+              },
+              "tip_5lang": {
+                "en": "The winter clarity allows you to see further down the coast than in summer; bring binoculars and wear a warm hat to protect against the wind.",
+                "de": "Die winterliche Klarheit ermöglicht eine weitere Sicht als im Sommer; bringen Sie ein Fernglas mit und tragen Sie eine warme Mütze gegen den Wind.",
+                "hu": "A téli tiszta időben messzebbre elláthatunk a part mentén, mint nyáron; hozzunk távcsövet és viseljünk meleg sapkát a jeges szél ellen.",
+                "ro": "Claritatea iernii vă permite să vedeți mai departe de-a lungul coastei decât vara; aduceți binoclu și purtați o căciulă groasă pentru vânt."
+              }
+            },
+            {
+              "name": {
+                "en": "Mirador de La Cuba",
+                "de": "Mirador de La Cuba",
+                "hu": "Mirador de La Cuba",
+                "ro": "Mirador de La Cuba"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the peaceful silence of the off-season overlooking the estuary; the winter light is perfect for high-contrast landscape photography.",
+                "de": "Genießen Sie die friedliche Stille der Nebensaison mit Blick auf die Mündung; das Winterlicht ist perfekt für kontrastreiche Landschaftsfotos.",
+                "hu": "Élvezzük a szezonon kívüli csendet a torkolatra nézve; a téli fények tökéletesek a nagy kontrasztú tájképek készítéséhez.",
+                "ro": "Bucurați-vă de liniștea sezonului rece privind spre estuar; lumina de iarnă este perfectă pentru fotografii de peisaj cu contrast ridicat."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Ribera",
+                "de": "Playa de la Ribera",
+                "hu": "Playa de la Ribera",
+                "ro": "Playa de la Ribera"
+              },
+              "tip_5lang": {
+                "en": "The harbor feels cozy even in winter; take a short walk on the sand and notice the winter birds that frequent the sheltered waters.",
+                "de": "Der Hafen wirkt auch im Winter gemütlich; machen Sie einen kurzen Spaziergang im Sand und beobachten Sie die Wintervögel im Wasser.",
+                "hu": "A kikötő télen is barátságos hangulatot áraszt; tegyünk egy rövid sétát a homokban, és figyeljük meg a védett vízparti madarakat.",
+                "ro": "Portul pare primitor chiar și iarna; faceți o scurtă plimbare pe nisip și observați păsările de iarnă care frecventează apele adăpostite."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Concha",
+                "de": "Playa de la Concha",
+                "hu": "Playa de la Concha",
+                "ro": "Playa de la Concha"
+              },
+              "tip_5lang": {
+                "en": "A brisk walk along the shoreline will warm you up; keep an eye on the tide as winter swells can be more unpredictable and reach higher.",
+                "de": "Ein zügiger Spaziergang am Ufer wird Sie aufwärmen; achten Sie auf die Flut, da der Winterwellengang unberechenbarer sein kann.",
+                "hu": "Egy tempós séta a parton segít felmelegedni; ügyeljünk a dagályra, mert a téli hullámok kiszámíthatatlanabbak és magasabbra csaphatnak.",
+                "ro": "O plimbare rapidă de-a lungul țărmului vă va încălzi; supravegheați marea, deoarece valurile de iarnă pot fi imprevizibile și mai înalte."
+              }
+            },
+            {
+              "name": {
+                "en": "Mirador de La Coteruca",
+                "de": "Mirador de La Coteruca",
+                "hu": "Mirador de La Coteruca",
+                "ro": "Mirador de La Coteruca"
+              },
+              "tip_5lang": {
+                "en": "The ascent will keep your blood pumping; from here, the winter sunset over the Picos de Europa in the distance is often visible on clear days.",
+                "de": "Der Aufstieg hält den Kreislauf in Schwung; von hier aus ist bei klarem Wetter oft der winterliche Sonnenuntergang über den Picos de Europa zu sehen.",
+                "hu": "A kaptató segít mozgásban maradni a hidegben; tiszta napokon innen gyakran látni a távoli Picos de Europa havas csúcsait a lemenő napfényben.",
+                "ro": "Urcarea vă va menține circulația activă; de aici, apusul peste Picos de Europa în depărtare este adesea vizibil în zilele senine."
+              }
+            },
+            {
+              "name": {
+                "en": "Castillo de Florencio Ceruti",
+                "de": "Castillo de Florencio Ceruti",
+                "hu": "Castillo de Florencio Ceruti",
+                "ro": "Castillo de Florencio Ceruti"
+              },
+              "tip_5lang": {
+                "en": "The castle gardens are quiet and frost-tipped in the early hours; the stone walls absorb the little heat the winter sun provides.",
+                "de": "Die Schlossgärten sind in den frühen Stunden oft frostig; die Steinmauern absorbieren die wenige Wärme, die die Wintersonne spendet.",
+                "hu": "A kastély kertje a kora reggeli órákban dértől csillog; a vastag kőfalak jól elnyelik azt a kevés hőt, amit a téli napsütés áraszt.",
+                "ro": "Grădinile castelului sunt liniștite și brumate în orele dimineții; zidurile de piatră absorb puțină căldură oferită de soarele de iarnă."
+              }
+            },
+            {
+              "name": {
+                "en": "Faro de Suances",
+                "de": "Faro de Suances",
+                "hu": "Faro de Suances",
+                "ro": "Faro de Suances"
+              },
+              "tip_5lang": {
+                "en": "This is the best spot for the 17:00 sunset; the cold wind is strongest here, so bring a thermal flask with a hot beverage to stay warm.",
+                "de": "Dies ist der beste Ort für den Sonnenuntergang um 17:00 Uhr; der kalte Wind ist hier am stärksten, bringen Sie eine Thermoskanne mit.",
+                "hu": "Ez a legjobb hely az 17:00 órai naplemente megtekintéséhez; a hideg szél itt a legerősebb, vigyünk magunkkal termoszban forró teát.",
+                "ro": "Acesta este cel mai bun loc pentru apusul de la ora 17:00; vântul rece este cel mai puternic aici, aduceți un termos cu ceai cald."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "de": "Morning: Beginnen Sie Ihre Radroute am alten Kloster, tauchen Sie in die historischen Wurzeln der Stadt ein und radeln Sie dann entlang der malerischen Kurven des Flussufers. Midday: Radeln Sie hinunter zu den geschützten Gewässern der zentralen Strände, wo die breiten Promenaden eine tolle Strecke bieten, um die entspannte Atmosphäre zu genießen. Afternoon: Navigieren Sie zu den rauen Landzungen und halten Sie am berühmten Leuchtturm, um die unerbittliche Kraft des Ozeans zu bewundern, der an die Felsen kracht. Evening: Beenden Sie die Tour mit einer Fahrt zur Playa de los Locos, einem stimmungsvollen Surferparadies, wo die Abenddämmerung dramatische Schatten auf die hohen Klippen wirft.",
         "hu": "Morning: Indítsa kerékpártúráját az ősi kolostornál, elmerülve a város gazdag történelmi gyökereiben, mielőtt a helyi folyópart festői kanyarulatai mentén pedálozna. Midday: Tekerjen le a központi strandok védett vizeihez, ahol a széles sétányok kiváló szakaszt kínálnak a tengerparti atmoszféra megcsodálásához menet közben. Afternoon: Keresse meg útját a zord hegyfokok felé, megállva az ikonikus világítótoronynál, hogy értékelje a sziklás partoknak csapódó óceán megállíthatatlan erejét. Evening: Zárja a napot egy varázslatos ereszkedéssel a Playa de los Locosra, a szörfösök paradicsomába, ahol az alkony drámai árnyékokat vet a magas parti sziklákra.",
         "ro": "Morning: Începeți traseul de ciclism la vechea mănăstire, aprofundând rădăcinile istorice ale orașului înainte de a pedala de-a lungul curbelor pitorești ale malului râului. Midday: Ciclism spre apele adăpostite ale plajelor centrale, unde promenadele largi oferă o întindere excelentă pentru a pedala admirând atmosfera relaxată de la malul mării. Afternoon: Navigați spre promontoriile stâncoase, oprindu-vă la farul iconic pentru a aprecia puterea neînduplecată a oceanului care se izbește de țărmurile de piatră. Evening: Încheiați cu o coborâre fascinantă spre Playa de los Locos, un paradis al surferilor unde amurgul aruncă umbre dramatice pe stâncile înalte ale coastei."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Cycling through the morning rain requires extra caution on the paved paths near the monastery. By noon, the riverside route offers misty views but slippery turns. Afternoon takes you past the beaches, where the wind might challenge your balance. Finish the day by the cliffs of Los Locos, where the salt spray and rain blend into a raw coastal experience; keep your mudguards ready.",
+            "de": "Radfahren im Morgenregen erfordert auf den Wegen am Kloster besondere Vorsicht. Mittags bietet die Route am Fluss neblige Ausblicke, aber rutschige Kurven. Der Nachmittag führt an den Stränden vorbei, wo der Wind das Gleichgewicht fordern kann. Beenden Sie den Tag an den Klippen von Los Locos; halten Sie Ihre Schutzbleche bereit.",
+            "hu": "A reggeli esőben való biciklizés fokozott óvatosságot igényel a monostor környéki aszfalton. Délben a folyóparti út ködös kilátást, de csúszós kanyarokat tartogat. Délután a strandok mellett tekerve a szél próbára teheti az egyensúlyunkat. A napot a Los Locos szikláinál zárjuk, ahol a sós tengeri permet és az eső keveredik; a sárvédő használata elengedhetetlen.",
+            "ro": "Ciclismul prin ploaia de dimineață necesită prudență sporită pe potecile de lângă mănăstire. La prânz, traseul de pe malul râului oferă vederi cețoase, dar viraje alunecoase. După-amiaza treceți pe lângă plaje, unde vântul vă poate pune la încercare echilibrul. Finalizați ziua la stâncile Los Locos; pregătiți-vă apărătorile de noroi."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Monasterio de Santo Domingo de la Barquera",
+                "de": "Monasterio de Santo Domingo de la Barquera",
+                "hu": "Monasterio de Santo Domingo de la Barquera",
+                "ro": "Monasterio de Santo Domingo de la Barquera"
+              },
+              "tip_5lang": {
+                "en": "Park your bike under the monastery arches if the rain gets heavy; the old stones look darker and more solemn in the damp weather.",
+                "de": "Stellen Sie Ihr Fahrrad unter den Böden des Klosters ab, wenn der Regen stärker wird; die alten Steine wirken im feuchten Wetter feierlicher.",
+                "hu": "Parkoljunk a monostor árkádjai alatt, ha felerősödik az eső; az ódon kövek sötétebbnek és méltóságteljesebbnek tűnnek a nyirkos időben.",
+                "ro": "Parcați bicicleta sub arcadele mănăstirii dacă ploaia devine puternică; pietrele vechi par mai întunecate și mai solemne pe vreme umedă."
+              }
+            },
+            {
+              "name": {
+                "en": "Mirador Curva El Río",
+                "de": "Mirador Curva El Río",
+                "hu": "Mirador Curva El Río",
+                "ro": "Mirador Curva El Río"
+              },
+              "tip_5lang": {
+                "en": "The road curve can be very slick when wet; brake gently and enjoy the view of the river meeting the sea through the silver raindrops.",
+                "de": "Die Straßenkurve kann bei Nässe sehr glatt sein; bremsen Sie vorsichtig und genießen Sie den Blick auf den Fluss im silbernen Regen.",
+                "hu": "Az útkanyar nagyon csúszós lehet esőben; fékezzünk óvatosan, és élvezzük a torkolat látványát az ezüstös esőcseppeken keresztül.",
+                "ro": "Curba drumului poate fi foarte alunecoasă când este udă; frânați ușor și bucurați-vă de vederea râului prin picăturile argintii de ploaie."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Ribera",
+                "de": "Playa de la Ribera",
+                "hu": "Playa de la Ribera",
+                "ro": "Playa de la Ribera"
+              },
+              "tip_5lang": {
+                "en": "Ride slowly along the promenade to avoid splashing pedestrians; the harbor smells strongly of sea salt and fresh rain today.",
+                "de": "Fahren Sie langsam auf der Promenade, um Passanten nicht zu bespritzen; der Hafen duftet heute intensiv nach Meersalz und frischem Regen.",
+                "hu": "Hajtsunk lassan a sétányon, hogy ne fröccsenjünk a gyalogosokra; a kikötőben ma különösen érezni a tengeri só és a friss eső illatát.",
+                "ro": "Mergeți încet pe faleză pentru a nu stropi pietonii; portul miroase puternic a sare de mare și ploaie proaspătă astăzi."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Concha",
+                "de": "Playa de la Concha",
+                "hu": "Playa de la Concha",
+                "ro": "Playa de la Concha"
+              },
+              "tip_5lang": {
+                "en": "Check your tire pressure as slightly softer tires provide better grip on wet asphalt; watch out for slippery painted lines on the road.",
+                "de": "Prüfen Sie den Reifendruck, da weichere Reifen besseren Grip auf nassem Asphalt bieten; achten Sie auf rutschige Fahrbahnmarkierungen.",
+                "hu": "Ellenőrizzük a keréknyomást, a puhább gumi jobb tapadást biztosít a vizes aszfalton; vigyázzunk a csúszós útburkolati jelekre.",
+                "ro": "Verificați presiunea în anvelope pentru o aderență mai bună pe asfalt ud; atenție la marcajele rutiere pictate care devin alunecoase."
+              }
+            },
+            {
+              "name": {
+                "en": "Faro de Suances",
+                "de": "Faro de Suances",
+                "hu": "Faro de Suances",
+                "ro": "Faro de Suances"
+              },
+              "tip_5lang": {
+                "en": "The climb to the lighthouse is a great workout even in the rain; keep your waterproof hood tight as the wind is strong at the summit.",
+                "de": "Der Anstieg zum Leuchtturm ist auch im Regen ein tolles Training; halten Sie Ihre Kapuze fest, da der Wind oben stark weht.",
+                "hu": "A világítótoronyhoz vezető emelkedő esőben is remek edzés; húzzuk szorosra a kapucnit, mert a tetőn erős szélre kell számítani.",
+                "ro": "Urcarea spre far este un antrenament excelent chiar și pe ploaie; strângeți gluga impermeabilă, deoarece vântul este puternic în vârf."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de los Locos",
+                "de": "Playa de los Locos",
+                "hu": "Playa de los Locos",
+                "ro": "Playa de los Locos"
+              },
+              "tip_5lang": {
+                "en": "The view of the stormy waves is worth the wet ride; give your bike a quick rinse afterward to remove the corrosive sea salt.",
+                "de": "Der Blick auf die stürmischen Wellen ist die Fahrt wert; spülen Sie Ihr Rad danach kurz ab, um das korrosive Meersalz zu entfernen.",
+                "hu": "A viharos hullámok látványa megéri a vizes tekerést; utána gyorsan öblítsük le a biciklit, hogy eltávolítsuk a korrozív tengeri sót.",
+                "ro": "Vederea valurilor învijurate merită plimbarea prin ploaie; clătiți bicicleta după aceea pentru a îndepărta sarea corozivă de mare."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Winter cycling offers crisp air and empty roads starting from the monastery. By noon, the riverside path is peaceful, with the low sun reflecting off the water. Afternoon stretches to the lighthouse involve cold winds, so high-visibility gear and gloves are essential. The 17:00 sunset at Playa de los Locos is a spectacular reward before the winter chill deepens for the evening.",
+            "de": "Winterradfahren bietet klare Luft und leere Straßen ab dem Kloster. Mittags ist der Weg am Fluss friedlich, während die Sonne im Wasser glitzert. Der Nachmittag zum Leuchtturm bringt kalte Winde mit sich. Der Sonnenuntergang um 17:00 Uhr am Playa de los Locos ist eine spektakuläre Belohnung.",
+            "hu": "A téli biciklizés friss levegőt és üres utakat kínál a monostortól indulva. Délben a folyóparti ösvény békés, az alacsony napfény megcsillan a vízen. Délután a világítótorony felé haladva erős szélre kell számítani, így a kesztyű és láthatósági mellény fontos. Az 17:00-kor kezdődő naplemente a Los Locos strandon csodás jutalom.",
+            "ro": "Ciclismul de iarnă oferă aer curat și drumuri goale pornind de la mănăstire. La prânz, traseul de pe malul râului este liniștit, cu soarele reflectându-se în apă. După-amiaza spre far implică vânturi reci, deci mănușile sunt esențiale. Apusul de la ora 17:00 la Playa de los Locos este o recompensă spectaculoasă."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Monasterio de Santo Domingo de la Barquera",
+                "de": "Monasterio de Santo Domingo de la Barquera",
+                "hu": "Monasterio de Santo Domingo de la Barquera",
+                "ro": "Monasterio de Santo Domingo de la Barquera"
+              },
+              "tip_5lang": {
+                "en": "The morning frost on the ancient stones creates a beautiful scene; make sure to warm up your muscles before starting the ride.",
+                "de": "Der morgendliche Frost auf den alten Steinen ist wunderschön; wärmen Sie Ihre Muskeln gut auf, bevor Sie mit der Fahrt beginnen.",
+                "hu": "A kora reggeli dér az ódon köveken festői látványt nyújt; alaposan melegítsük be izmainkat, mielőtt elkezdenénk a tekerést.",
+                "ro": "Bruma dimineții pe pietrele vechi creează o scenă frumoasă; asigurați-vă că vă încălziți mușchii înainte de a începe plimbarea."
+              }
+            },
+            {
+              "name": {
+                "en": "Mirador Curva El Río",
+                "de": "Mirador Curva El Río",
+                "hu": "Mirador Curva El Río",
+                "ro": "Mirador Curva El Río"
+              },
+              "tip_5lang": {
+                "en": "Stop here briefly for photos as the cold wind can be sharp; the winter light gives the estuary a unique, silvery hue.",
+                "de": "Halten Sie hier kurz für Fotos an, da der Wind scharf sein kann; das Winterlicht verleiht der Mündung einen silbrigen Glanz.",
+                "hu": "Csak rövid időre álljunk meg fotózni, mert a szél itt metsző lehet; a téli fények ezüstös csillogást adnak a torkolatnak.",
+                "ro": "Opriți aici scurt pentru fotografii, deoarece vântul poate fi tăios; lumina de iarnă oferă estuarului o nuanță argintie unică."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Ribera",
+                "de": "Playa de la Ribera",
+                "hu": "Playa de la Ribera",
+                "ro": "Playa de la Ribera"
+              },
+              "tip_5lang": {
+                "en": "The harbor route is well-sheltered from the north wind; enjoy the quiet atmosphere as the summer crowds are long gone.",
+                "de": "Die Hafenroute ist gut vor dem Nordwind geschützt; genießen Sie die ruhige Atmosphäre fernab der sommerlichen Menschenmassen.",
+                "hu": "A kikötői útvonal jól védett az északi széltől; élvezzük a nyugodt hangulatot, hiszen a nyári tömeg már rég eltűnt.",
+                "ro": "Traseul portului este bine adăpostit de vântul de nord; bucurați-vă de atmosfera liniștită, deoarece mulțimile de vară au plecat."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Concha",
+                "de": "Playa de la Concha",
+                "hu": "Playa de la Concha",
+                "ro": "Playa de la Concha"
+              },
+              "tip_5lang": {
+                "en": "Wear windproof layers as you cycle along the open bay; the sea spray can feel very cold on your face in winter.",
+                "de": "Tragen Sie winddichte Kleidung, wenn Sie an der Bucht entlangfahren; die Meeresgischt kann sich im Winter sehr kalt anfühlen.",
+                "hu": "Viseljünk szélálló rétegeket az öböl mentén tekerve; a tengeri permet ilyenkor télen nagyon hidegnek érződik az arcunkon.",
+                "ro": "Purtați haine rezistente la vânt pe lângă golf; stropii de mare se pot simți foarte reci pe față în timpul iernii."
+              }
+            },
+            {
+              "name": {
+                "en": "Faro de Suances",
+                "de": "Faro de Suances",
+                "hu": "Faro de Suances",
+                "ro": "Faro de Suances"
+              },
+              "tip_5lang": {
+                "en": "The final climb will warm you up, but don't stay stationary too long at the top; keep moving to maintain your body heat.",
+                "de": "Der letzte Anstieg wird Sie aufwärmen, aber bleiben Sie oben nicht zu lange stehen; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "Az utolsó emelkedő felmelegít, de a tetőn ne álljunk meg túl hosszú időre; maradjunk mozgásban a testhőmérséklet megőrzéséhez.",
+                "ro": "Ultima urcare vă va încălzi, dar nu staționați prea mult în vârf; continuați să vă mișcați pentru a menține căldura corpului."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de los Locos",
+                "de": "Playa de los Locos",
+                "hu": "Playa de los Locos",
+                "ro": "Playa de los Locos"
+              },
+              "tip_5lang": {
+                "en": "Catch the golden hour before the 17:00 sunset; ensure your bike lights are working as it gets dark very quickly afterward.",
+                "de": "Nutzen Sie die goldene Stunde vor dem Sonnenuntergang um 17:00 Uhr; prüfen Sie Ihre Lichter, da es danach schnell dunkel wird.",
+                "hu": "Csípjük el az aranyórát az 17:00 órai naplemente előtt; ellenőrizzük a lámpákat, mert utána hirtelen sötétedik be.",
+                "ro": "Surprindeți ora de aur înainte de apusul de la 17:00; asigurați-vă că luminile bicicletei funcționează, se întunecă repede."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "de": "Morning: Beginnen Sie Ihre Fahrt am ruhigen Kloster im Landesinneren, bevor Sie in die Stadt fahren, um die beeindruckende Größe der Flussmündung von einem Aussichtspunkt zu sehen. Midday: Fahren Sie elegant zum markanten Küstenleuchtturm und der nahen Burg und erleben Sie die nahtlose Mischung aus robustem architektonischem Erbe und maritimer Schönheit. Afternoon: Fahren Sie zur berühmten Surferbucht, um die Küstenenergie zu spüren, und dann weiter auf den kurvigen Klippenstraßen für atemberaubende, unberührte Naturkulissen. Evening: Beenden Sie Ihren Roadtrip an der wilden Playa de la Tablía und atmen Sie die reine Meeresgischt ein, wenn das letzte Licht des Tages über den dramatischen Felsen schwindet.",
         "hu": "Morning: Kezdje autós útját a csendes szárazföldi kolostornál, mielőtt a városba hajtana, hogy egy központi kilátóból megértse a torkolat lenyűgöző és gigantikus méreteit. Midday: Guruljon el a kiemelkedő tengerparti világítótoronyhoz és a közeli kastélyhoz, tanúbizonyságul a robusztus építészeti örökség és a tengeri szépség tökéletes összhangjának. Afternoon: Látogasson el a híres szörfös öbölbe a partvidék energiájának átéléséhez, majd hajtson tovább a kanyargós sziklafalak mentén az érintetlen, lélegzetelállító tájakért. Evening: Zárja autós kirándulását a távoli és vad Playa de la Tablía strandon, tiszta óceáni permetet lélegezve be, ahogy az utolsó fények elhalványulnak a sziklák felett.",
         "ro": "Morning: Porniți la drum de la mănăstirea liniștită din interior, înainte de a merge în oraș pentru a cuprinde scara uimitoare a estuarului de la un punct de belvedere central. Midday: Conduceți grațios către farul de coastă proeminent și castelul din apropiere, martori ai amestecului perfect dintre moștenirea arhitecturală robustă și frumusețea maritimă. Afternoon: Mutați-vă la faimosul golf al surferilor pentru a simți energia coastei, apoi conduceți mai departe pe drumurile șerpuite de pe stânci pentru peisaje naturale uluitoare. Evening: Încheiați călătoria cu mașina la sălbatica și îndepărtata Playa de la Tablía, respirând spray-ul pur al oceanului pe măsură ce ultima lumină se stinge peste stânci."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Driving is the ideal choice for a rainy day in Suances, using the car as a mobile shelter. Morning visits to the monastery are peaceful despite the downpour. By noon, coastal roads offer stunning views through the wipers. Afternoon stops at the castle and lighthouse allow for quick, dry transitions between sights. Evening ends with a drive to the stormy cliffs, safe and warm inside.",
+            "de": "Autofahren ist die ideale Wahl für einen Regentag in Suances. Morgendliche Besuche im Kloster sind trotz des Regens friedlich. Mittags bieten die Küstenstraßen tolle Ausblicke durch die Scheibenwischer. Nachmittagsstopps ermöglichen trockene Übergänge zwischen den Sehenswürdigkeiten. Der Abend endet warm und sicher an den stürmischen Klippen.",
+            "hu": "Az autó tökéletes választás egy esős napon, hiszen mozgó menedékként szolgál. A reggeli monostor-látogatás a szakadó eső ellenére is békés. Délben a parti utakon az ablaktörlők mögül is csodás a panoráma. A délutáni megállók a várnál és a világítótoronynál száraz váltást biztosítanak a helyszínek között. Az este a viharos szikláknál zárul, az utastér melegéből.",
+            "ro": "Mașina este alegerea ideală pentru o zi ploioasă în Suances, servind ca adăpost mobil. Vizitele de dimineață la mănăstire sunt liniștite în ciuda ploii. La prânz, drumurile de coastă oferă vederi uimitoare prin ștergătoare. Opririle de după-amiază permit tranziții uscate între obiective. Seara se încheie la stâncile învijurate, în siguranță și la căldură."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Monasterio de Santo Domingo de la Barquera",
+                "de": "Monasterio de Santo Domingo de la Barquera",
+                "hu": "Monasterio de Santo Domingo de la Barquera",
+                "ro": "Monasterio de Santo Domingo de la Barquera"
+              },
+              "tip_5lang": {
+                "en": "The parking area can have large puddles; wear waterproof shoes for the short walk from the car to the monastery entrance.",
+                "de": "Auf dem Parkplatz kann es große Pfützen geben; tragen Sie wasserfeste Schuhe für den kurzen Weg zum Klostereingang.",
+                "hu": "A parkolóban nagy tócsák alakulhatnak ki; viseljünk vízálló cipőt a rövid sétához az autótól a monostor bejáratáig.",
+                "ro": "Parcarea poate avea bălți mari; purtați încălțăminte impermeabilă pentru scurta plimbare de la mașină la intrarea mănăstirii."
+              }
+            },
+            {
+              "name": {
+                "en": "Viewpoint of Suances",
+                "de": "Viewpoint of Suances",
+                "hu": "Viewpoint of Suances",
+                "ro": "Viewpoint of Suances"
+              },
+              "tip_5lang": {
+                "en": "You can enjoy the view directly from your car window if the wind is too strong; it's a great spot for 'storm watching' in comfort.",
+                "de": "Genießen Sie die Aussicht direkt aus dem Autofenster, wenn der Wind zu stark ist; ein toller Ort für komfortables 'Storm Watching'.",
+                "hu": "Az autó ablakából is élvezhetjük a kilátást, ha túl erős a szél; tökéletes hely a kényelmes viharfigyeléshez.",
+                "ro": "Puteți savura vederea direct de la fereastra mașinii dacă vântul e prea puternic; este un loc grozav pentru observarea furtunii."
+              }
+            },
+            {
+              "name": {
+                "en": "Faro de Suances",
+                "de": "Faro de Suances",
+                "hu": "Faro de Suances",
+                "ro": "Faro de Suances"
+              },
+              "tip_5lang": {
+                "en": "The lighthouse parking is exposed; be careful when opening car doors as sudden gusts can catch them during a storm.",
+                "de": "Der Parkplatz am Leuchtturm ist exponiert; seien Sie vorsichtig beim Öffnen der Türen, da Böen sie erfassen können.",
+                "hu": "A világítótorony parkolója nagyon kitett; óvatosan nyissuk ki az autó ajtaját, mert a hirtelen széllökések belekaphatnak.",
+                "ro": "Parcarea farului este expusă; fiți atenți când deschideți ușile mașinii, deoarece rafalele bruște le pot smulge."
+              }
+            },
+            {
+              "name": {
+                "en": "Castillo de Florencio Ceruti",
+                "de": "Castillo de Florencio Ceruti",
+                "hu": "Castillo de Florencio Ceruti",
+                "ro": "Castillo de Florencio Ceruti"
+              },
+              "tip_5lang": {
+                "en": "The castle gardens look lovely in the rain; keep an umbrella handy for the transition from the parking area to the viewpoint.",
+                "de": "Die Schlossgärten sehen im Regen bezaubernd aus; halten Sie einen Schirm für den Weg vom Parkplatz zum Aussichtspunkt bereit.",
+                "hu": "A kastély kertje bájosan fest az esőben; tartsunk kéznél esernyőt a parkolótól a kilátóig tartó rövid szakaszra.",
+                "ro": "Grădinile castelului arată minunat în ploaie; țineți o umbrelă la îndemână pentru drumul de la parcare la punctul de observație."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de los Locos",
+                "de": "Playa de los Locos",
+                "hu": "Playa de los Locos",
+                "ro": "Playa de los Locos"
+              },
+              "tip_5lang": {
+                "en": "Watch the surfers brave the rainy waves from the safety of the cliffside parking; keep your wipers on low to maintain the view.",
+                "de": "Beobachten Sie die Surfer in den Regenwellen sicher vom Klippenparkplatz aus; lassen Sie die Wischer auf niedriger Stufe laufen.",
+                "hu": "Figyeljük a szörfösöket a parti parkoló biztonságából; hagyjuk az ablaktörlőt lassú fokozaton, hogy folyamatos legyen a kilátás.",
+                "ro": "Observați surferii înfruntând valurile de pe faleză, din siguranța parcării; lăsați ștergătoarele pornite la nivel mic."
+              }
+            },
+            {
+              "name": {
+                "en": "Mirador de Sopico",
+                "de": "Mirador de Sopico",
+                "hu": "Mirador de Sopico",
+                "ro": "Mirador de Sopico"
+              },
+              "tip_5lang": {
+                "en": "The narrow access road can be slippery with wet leaves; drive slowly and use your fog lights if the visibility drops in the mist.",
+                "de": "Die schmale Zufahrt kann durch nasses Laub glatt sein; fahren Sie langsam und nutzen Sie bei Nebel die Nebelscheinwerfer.",
+                "hu": "A szűk bekötőút a vizes levelek miatt csúszós lehet; hajtsunk lassan, és használjuk a ködlámpát, ha a látótávolság lecsökken.",
+                "ro": "Drumul de acces îngust poate fi alunecos din cauza frunzelor ude; conduceți încet și folosiți farurile de ceață dacă e necesar."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Tablía",
+                "de": "Playa de la Tablía",
+                "hu": "Playa de la Tablía",
+                "ro": "Playa de la Tablía"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the rhythmic sound of rain hitting the car roof while overlooking the wild beach; the atmosphere is incredibly peaceful and private.",
+                "de": "Genießen Sie das rhythmische Geräusch des Regens auf dem Autodach am wilden Strand; die Atmosphäre ist sehr friedlich und privat.",
+                "hu": "Élvezzük az autó tetején kopogó eső ritmusát a vadregényes part felett; a hangulat ilyenkor rendkívül békés és privát.",
+                "ro": "Bucurați-vă de sunetul ritmic al ploii pe plafonul mașinii privind plaja sălbatică; atmosfera este incredibil de liniștită și privată."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Winter driving in Suances allows for warm, comfortable exploration of the Cantabrian coast. Morning starts at the monastery where the air is fresh and cold. By noon, the scenic coastal routes are empty of tourists, offering clear views of the sea. Afternoon castle visits are brief due to the wind, but the car heater stays on between stops. End the day at the 17:00 sunset, then enjoy the town lights.",
+            "de": "Winterfahrten in Suances ermöglichen eine warme Erkundung der kantabrischen Küste. Der Morgen beginnt am Kloster bei frischer, kalter Luft. Mittags sind die Küstenrouten leer und bieten klare Sicht. Schlossbesuche am Nachmittag sind kurz, aber die Heizung läuft. Beenden Sie den Tag beim Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli autózás kényelmes és meleg felfedezést tesz lehetővé a kantábriai parton. A reggel a monostornál indul, ahol a levegő friss és csípős. Délben a parti panorámautak üresek, tiszta kilátást nyújtva a tengerre. A délutáni megállók rövidek a szél miatt, de az autó fűtése segít. A napot az 17:00-kor kezdődő naplementével zárjuk.",
+            "ro": "Condusul pe timp de iarnă în Suances permite o explorare caldă a coastei cantabrice. Dimineața începe la mănăstire unde aerul este proaspăt. La prânz, rutele panoramice sunt goale, oferind vederi clare. Vizitele de după-amiază sunt scurte din cauza vântului, dar căldura din mașină ajută. Încheiați ziua la apusul de la 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Monasterio de Santo Domingo de la Barquera",
+                "de": "Monasterio de Santo Domingo de la Barquera",
+                "hu": "Monasterio de Santo Domingo de la Barquera",
+                "ro": "Monasterio de Santo Domingo de la Barquera"
+              },
+              "tip_5lang": {
+                "en": "The winter morning light illuminates the monastery beautifully; check the tire pressure as cold temperatures can cause it to drop.",
+                "de": "Das Licht am Wintermorgen beleuchtet das Kloster wunderschön; prüfen Sie den Reifendruck, da er bei Kälte sinken kann.",
+                "hu": "A téli reggeli fények gyönyörűen világítják meg a monostort; ellenőrizzük a keréknyomást, mert a hidegben lecsökkenhet.",
+                "ro": "Lumina dimineții de iarnă luminează frumos mănăstirea; verificați presiunea în anvelope, scade la temperaturi scăzute."
+              }
+            },
+            {
+              "name": {
+                "en": "Viewpoint of Suances",
+                "de": "Viewpoint of Suances",
+                "hu": "Viewpoint of Suances",
+                "ro": "Viewpoint of Suances"
+              },
+              "tip_5lang": {
+                "en": "The clarity of the winter air makes for spectacular long-distance views; keep your winter coat in the back seat for quick photo stops.",
+                "de": "Die klare Winterluft sorgt für spektakuläre Fernsichten; halten Sie Ihren Wintermantel für kurze Fotostopps griffbereit.",
+                "hu": "A téli levegő tisztasága lenyűgöző távlati kilátást tesz lehetővé; tartsuk a kabátot a hátsó ülésen a gyors fotómegállókhoz.",
+                "ro": "Claritatea aerului de iarnă oferă vederi spectaculoase la distanță; țineți haina groasă pe bancheta din spate pentru opriri foto."
+              }
+            },
+            {
+              "name": {
+                "en": "Faro de Suances",
+                "de": "Faro de Suances",
+                "hu": "Faro de Suances",
+                "ro": "Faro de Suances"
+              },
+              "tip_5lang": {
+                "en": "The wind at the lighthouse is biting in winter; enjoy the panorama from the car for a few minutes before stepping out for the full experience.",
+                "de": "Der Wind am Leuchtturm ist im Winter beißend; genießen Sie das Panorama kurz vom Auto aus, bevor Sie nach draußen gehen.",
+                "hu": "A világítótoronynál metsző a szél télen; élvezzük a panorámát pár percig az autóból, mielőtt kiszállnánk a teljes élményért.",
+                "ro": "Vântul la far este tăios iarna; savurați panorama din mașină câteva minute înainte de a ieși afară pentru experiența completă."
+              }
+            },
+            {
+              "name": {
+                "en": "Castillo de Florencio Ceruti",
+                "de": "Castillo de Florencio Ceruti",
+                "hu": "Castillo de Florencio Ceruti",
+                "ro": "Castillo de Florencio Ceruti"
+              },
+              "tip_5lang": {
+                "en": "The stone castle looks noble against the winter sky; the nearby parking is usually very empty, giving you the best choice of spots.",
+                "de": "Die Steinburg wirkt vor dem Winterhimmel edel; der nahe Parkplatz ist meist leer, sodass Sie die beste Platzwahl haben.",
+                "hu": "A kővár nemes látványt nyújt a téli égbolt előtt; a közeli parkoló általában üres, így könnyen találunk kiváló helyet.",
+                "ro": "Castelul de piatră arată nobil pe cerul de iarnă; parcarea din apropiere este de obicei goală, oferindu-vă cele mai bune locuri."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de los Locos",
+                "de": "Playa de los Locos",
+                "hu": "Playa de los Locos",
+                "ro": "Playa de los Locos"
+              },
+              "tip_5lang": {
+                "en": "The winter swells are impressive from above; park facing the sea and use your car as a warm windbreak while enjoying the view.",
+                "de": "Der winterliche Wellengang ist von oben beeindruckend; parken Sie mit Blick aufs Meer und nutzen Sie das Auto als Windschutz.",
+                "hu": "A téli hullámzás fentről lenyűgöző látvány; parkoljunk a tenger felé fordulva, és használjuk az autót szélfogóként nézelődés közben.",
+                "ro": "Valurile de iarnă sunt impresionante de sus; parcați cu fața spre mare și folosiți mașina ca paravânt în timp ce priviți."
+              }
+            },
+            {
+              "name": {
+                "en": "Mirador de Sopico",
+                "de": "Mirador de Sopico",
+                "hu": "Mirador de Sopico",
+                "ro": "Mirador de Sopico"
+              },
+              "tip_5lang": {
+                "en": "Ensure your windshield is clear of frost for the drive up; the low winter sun can create strong glare, so keep your sunglasses ready.",
+                "de": "Sorgen Sie für frostfreie Scheiben für die Fahrt nach oben; die tiefstehende Sonne kann blenden, halten Sie die Sonnenbrille bereit.",
+                "hu": "Indulás előtt győződjünk meg a szélvédő jégmentességéről; az alacsony téli nap erősen vakíthat, tartsuk kéznél a napszemüveget.",
+                "ro": "Asigurați-vă că parbrizul este dezghețat pentru drum; soarele jos de iarnă poate fi orbitor, țineți ochelarii de soare la îndemână."
+              }
+            },
+            {
+              "name": {
+                "en": "Playa de la Tablía",
+                "de": "Playa de la Tablía",
+                "hu": "Playa de la Tablía",
+                "ro": "Playa de la Tablía"
+              },
+              "tip_5lang": {
+                "en": "This is a prime spot for the 17:00 sunset from your car; the isolation of the beach feels especially poetic in the winter cold.",
+                "de": "Ein idealer Ort für den Sonnenuntergang um 17:00 Uhr aus dem Auto; die Einsamkeit des Strandes wirkt im Winter besonders poetisch.",
+                "hu": "Kiváló helyszín az 17:00-as naplemente megtekintéséhez az autóból; a part elszigeteltsége különösen költői a téli hidegben.",
+                "ro": "Un loc ideal pentru apusul de la 17:00 din mașină; izolarea plajei pare deosebit de poetică în frigul iernii."
+              }
+            }
+          ]
+        }
       }
     }
   }

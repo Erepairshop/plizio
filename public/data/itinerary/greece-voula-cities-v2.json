@@ -137,6 +137,168 @@
         "hu": "A reggel kulturális betekintéssel indul a helyi színházban és a közeli Aithousa Ionia teremben. Délben a B' plaz Boulas homokos partjain pihenhet a tengeri szellőt élvezve. A délután a történelmi Agios Nikolaos Pallon meglátogatására invitál, mielőtt a nap egy békés sétával zárulna a Mikro Kavouri parton. Csodálatos tengerparti estére számíthat.",
         "ro": "Dimineața începe cu perspective culturale la teatrul municipal local și la apropiata Aithousa Ionia. Până la prânz, vă veți relaxa pe malurile nisipoase de la B' plaz Boulas. După-amiaza invită la o vizită la istorica Agios Nikolaos Pallon înainte de a încheia ziua cu o plimbare liniștită la Mikro Kavouri. Așteptați-vă la o seară minunată de coastă.",
         "en": "Your morning starts with cultural insights at the local municipal theater and the nearby Aithousa Ionia. By midday, you'll relax on the sandy shores of B' plaz Boulas, enjoying the sea breeze. The afternoon invites a visit to the historic Agios Nikolaos Pallon before ending the day with a peaceful stroll at Mikro Kavouri. Expect a beautiful coastal evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt im Sophia-Bempo-Theater, wo Sie im Trockenen Kultur genießen können. Mittags bietet die Ionia-Halle Schutz vor den Schauern. Der Spaziergang zur Plage und Kirche erfordert einen stabilen Regenschirm, da der Wind vom Meer zunimmt. Am Abend wirkt die Küste von Mikro Kavouri im grauen Licht besonders mystisch und ruhig.",
+            "hu": "Az esős reggel a Sophia Bempo színháznál indul, ahol fedett helyen kezdhetjük a napot. Délben az Iónia csarnok nyújt menedéket a záporok elől. A tengerparti séta esernyővel is élvezhető, de a köves utak csúszósak lehetnek. Az estét a Mikro Kavouri öbölben zárjuk, ahol a szürke tenger látványa és a sós pára különleges, melankolikus hangulatot áraszt.",
+            "ro": "O dimineață ploioasă începe la teatrul Sophia Bempo, oferind un refugiu cultural. La prânz, sala Ionia servește ca adăpost excelent împotriva stropilor. Plimbarea spre plajă și biserică necesită o umbrelă solidă din cauza vântului de coastă. Seara, Mikro Kavouri oferă o priveliște dramatică asupra mării cenușii, fiind o experiență liniștită sub sunetul ploii.",
+            "en": "A rainy morning starts at the Sophia Bempo theater, providing a dry cultural start. At noon, the Ionia Hall offers a perfect shelter from the downpour. The walk towards the beach and the church requires a sturdy umbrella as coastal winds pick up. In the evening, the coast of Mikro Kavouri looks mystical in the grey light, offering a calm atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "hu": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "ro": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "en": "Demotiko Theatro Boulas \"Sophia Bempo\""
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur dieses Theaters, während es draußen regnet; der überdachte Eingangsbereich ist ideal, um die Ausrüstung wetterfest zu machen.",
+                "hu": "Csodálja meg a színház épületét, amíg kint esik az eső; a fedett bejárat tökéletes hely az esőkabát és a felszerelés kényelmes megigazításához.",
+                "ro": "Admirați arhitectura acestui teatru în timp ce plouă afară; intrarea acoperită este ideală pentru a vă pregăti echipamentul de ploaie în confort.",
+                "en": "Enjoy the architecture of this theater while it rains outside; the covered entrance area is perfect for adjusting your waterproof gear comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Aithousa Ionia",
+                "hu": "Aithousa Ionia",
+                "ro": "Aithousa Ionia",
+                "en": "Aithousa Ionia"
+              },
+              "tip_5lang": {
+                "de": "Dieser kulturelle Raum ist ein hervorragender Zufluchtsort bei Starkregen; nutzen Sie die Zeit für Innenaufnahmen der lokalen Ausstellungen.",
+                "hu": "Ez a kulturális tér kiváló menedék heves esőzés idején; használja ki az időt a helyi kiállítások belső tereinek lefotózására és megtekintésére.",
+                "ro": "Acest spațiu cultural este un refugiu excelent în timpul ploilor abundente; folosiți timpul pentru a explora expozițiile locale la adăpost.",
+                "en": "This cultural space is an excellent refuge during heavy rain; use the time to explore and photograph the indoor local exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "B' plaz Boulas",
+                "hu": "B' plaz Boulas",
+                "ro": "B' plaz Boulas",
+                "en": "B' plaz Boulas"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das aufgewühlte Meer von einer der Strandhütten aus; tragen Sie unbedingt wasserfeste Schuhe für den nassen Sandweg.",
+                "hu": "Figyelje a haragos tengert a parti épületek védelméből; mindenképpen vízálló cipőt viseljen a vizes homokon és a nedves sétányon való átkeléshez.",
+                "ro": "Priviți marea agitată de la adăpostul cabinelor de pe plajă; purtați neapărat încălțăminte impermeabilă pentru drumul prin nisipul ud.",
+                "en": "Watch the turbulent sea from the shelter of the beach structures; be sure to wear waterproof shoes for the trek across the wet sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos Pallon",
+                "hu": "Agios Nikolaos Pallon",
+                "ro": "Agios Nikolaos Pallon",
+                "en": "Agios Nikolaos Pallon"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet eine friedliche Atmosphäre bei Regen; achten Sie auf die rutschigen Steinstufen vor dem Kircheneingang.",
+                "hu": "A kis kápolna békés hangulatot áraszt az esőben; vigyázzon a templom bejárata előtti kőlépcsőkkel, mert vizesen rendkívül csúszóssá válnak.",
+                "ro": "Mica capelă oferă o atmosferă liniștită pe ploaie; aveți grijă la treptele de piatră de la intrare, care devin foarte alunecoase când sunt ude.",
+                "en": "The small chapel offers a peaceful atmosphere in the rain; be careful with the stone steps at the entrance, as they become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikro Kavouri",
+                "hu": "Mikro Kavouri",
+                "ro": "Mikro Kavouri",
+                "en": "Mikro Kavouri"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt im Regen sehr dramatisch; suchen Sie sich einen Platz unter den Bäumen oder Vordächern, um die Aussicht trocken zu genießen.",
+                "hu": "Az öböl drámai látványt nyújt az esőben; keressen egy helyet a fák vagy előtetők alatt, hogy szárazon élvezhesse a viharos tengeri panorámát.",
+                "ro": "Golful arată dramatic pe ploaie; căutați un loc sub copaci sau sub streșini pentru a savura panorama maritimă fără a vă uda prea tare.",
+                "en": "The bay looks dramatic in the rain; find a spot under the trees or awnings to enjoy the stormy sea panorama while staying relatively dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen in Voula lädt zu einem belebenden Spaziergang zum Theater ein. Mittags wärmt die Sonne in der Ionia-Halle. Die Küstenluft ist klar und kalt, ideal für weite Sicht auf den Saronischen Golf. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen Sie Mikro Kavouri rechtzeitig für ein spektakuläres Farbspiel am Winterhimmel.",
+            "hu": "A friss téli reggel Voulában élénkítő sétára hív a színház felé. Délben az Iónia csarnok védett tereiben melegedhetünk fel. A tengerparti levegő tiszta és hideg, ilyenkor a legszebb a kilátás a távoli szigetekre. Mivel a nap 17:00 körül nyugszik, érdemes időben Mikro Kavourira érni, hogy elcsípjük a téli égbolt drámai színeit.",
+            "ro": "O dimineață răcoroasă de iarnă în Voula invită la o plimbare revigorantă spre teatru. La prânz, sala Ionia oferă un spațiu cald. Aerul de coastă este clar și rece, perfect pentru vizibilitate maximă spre golf. Deoarece soarele apune în jur de ora 17:00, ajungeți la Mikro Kavouri la timp pentru spectacolul de culori al cerului de iarnă.",
+            "en": "A crisp winter morning in Voula invites an invigorating walk to the theater. At noon, warm up in the sheltered spaces of Ionia Hall. The coastal air is clear and cold, offering the best visibility across the gulf. Since the sun sets around 17:00, reach Mikro Kavouri in time to catch the dramatic colors of the winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "hu": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "ro": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "en": "Demotiko Theatro Boulas \"Sophia Bempo\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Vorplatz des Theaters für eine erste Pause; tragen Sie eine warme Mütze gegen die kühle Brise vom Meer.",
+                "hu": "Használja ki a színház szélvédett előterét egy rövid pihenőre; viseljen meleg sapkát a tenger felől érkező hűvös téli szél ellen.",
+                "ro": "Folosiți esplanada ferită de vânt a teatrului pentru o primă pauză; purtați o căciulă groasă împotriva brizelor reci de iarnă de pe mare.",
+                "en": "Take advantage of the theater's wind-sheltered forecourt for a break; wear a warm hat against the chilly winter breeze coming from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Aithousa Ionia",
+                "hu": "Aithousa Ionia",
+                "ro": "Aithousa Ionia",
+                "en": "Aithousa Ionia"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume sind im Winter angenehm temperiert; ideal, um sich aufzuwärmen, bevor es zurück an die windige Küstenstraße geht.",
+                "hu": "A belső terek télen is kellemes hőmérsékletűek; ideális hely a felmelegedésre, mielőtt visszatérne a szeles tengerparti sétányra.",
+                "ro": "Spațiile interioare sunt încălzite plăcut iarna; este locul ideal pentru a vă încălzi înainte de a reveni pe faleza bătută de vânt.",
+                "en": "The indoor spaces are comfortably warm in winter; an ideal spot to heat up before heading back to the windy coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "B' plaz Boulas",
+                "hu": "B' plaz Boulas",
+                "ro": "B' plaz Boulas",
+                "en": "B' plaz Boulas"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und wunderschön; bringen Sie eine Thermoskanne mit Tee mit, um die Einsamkeit am Ufer zu genießen.",
+                "hu": "A strand télen szinte teljesen üres és gyönyörű; vigyen magával egy termosz forró teát, hogy élvezhesse a tengerparti magányt a hidegben.",
+                "ro": "Plaja este aproape pustie și superbă iarna; aduceți un termos cu ceai fierbinte pentru a savura liniștea malului mării în frig.",
+                "en": "The beach is nearly empty and beautiful in winter; bring a thermos of hot tea to enjoy the seaside solitude in the cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos Pallon",
+                "hu": "Agios Nikolaos Pallon",
+                "ro": "Agios Nikolaos Pallon",
+                "en": "Agios Nikolaos Pallon"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle für einen Moment der Stille; das Innere bietet Schutz vor dem kalten Nordwind, der oft an der Küste weht.",
+                "hu": "Látogassa meg a kápolnát egy csendes pillanatra; a belső tér védelmet nyújt a hideg északi szél ellen, amely gyakran fúj a parton.",
+                "ro": "Vizitați capela pentru un moment de liniște; interiorul oferă protecție împotriva vântului rece din nord care bate adesea pe coastă.",
+                "en": "Visit the chapel for a quiet moment; the interior provides protection from the cold north wind that often blows along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikro Kavouri",
+                "hu": "Mikro Kavouri",
+                "ro": "Mikro Kavouri",
+                "en": "Mikro Kavouri"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne erzeugt hier fantastische Lichteffekte; achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "Az alacsonyan járó téli nap fantasztikus fényhatásokat kelt az öbölben; figyeljen a korai, 17:00 körüli naplementére, ne maradjon sötétben.",
+                "ro": "Soarele de iarnă aflat la înălțime mică creează efecte de lumină superbe; atenție la apusul devreme, în jur de ora 17:00.",
+                "en": "The low winter sun creates fantastic light effects in the bay; watch out for the early sunset around 17:00 so you don't get caught in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a biciklizést a festői Mikro Kavouri partján, majd tekerjen a közeli Agios Nikolaos templomhoz. A déli szakasz Voula kulturális központján át a lenyűgöző PIKPA bunkerhez vezet. Délután fedezze fel a lenyűgöző 5. századi bazilika romjait. A kerékpáros kaland Glyfada nyüzsgő partvidékén, naplementével zárul.",
         "ro": "Începeți plimbarea la pitorescul Mikro Kavouri și pedalați către biserica Agios Nikolaos. Traseul de prânz vă poartă pe lângă inima culturală a Voulei spre fascinantul adăpost PIKPA. După-amiaza, descoperiți impresionantele ruine ale bazilicii creștine din secolul V. Aventura cu bicicleta se încheie de-a lungul coastei pline de viață a Glyfadei.",
         "en": "Kick off your ride at the scenic Mikro Kavouri and pedal to the nearby Agios Nikolaos church. The midday stretch takes you past Voula's cultural heart towards the fascinating PIKPA World War II shelter. In the afternoon, discover the impressive 5th-century Christian basilica ruins. Your cycling adventure concludes along the lively coast of Glyfada."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Mikro Kavouri erfordert Vorsicht auf den rutschigen Küstenwegen. Mittags bietet das Theater einen trockenen Halt für eine Pause. Die Fahrt zum PIKPA-Bunker ist auf nassem Asphalt anspruchsvoll, aber die historischen Ruinen wirken im Regen sehr atmosphärisch. Der Tag endet an der Glyfada-Küste, wo man das Meer unter dem Regenschutz beobachten kann.",
+            "hu": "A vizes kezdés Mikro Kavourinál óvatosságot igényel a csúszós parti utakon. Délben a színház épülete nyújt száraz pihenőt a bicikliseknek. A PIKPA bunker felé vezető út nedves aszfalton nehezebb, de a romok az esőben rendkívül hangulatosak. A nap a Glyfada parton ér véget, ahol fedett helyről nézhetjük a hullámokat.",
+            "ro": "Un început umed la Mikro Kavouri necesită prudență pe pistele de coastă alunecoase. La prânz, teatrul oferă o oprire uscată pentru bicicliști. Drumul spre buncărul PIKPA este solicitant pe asfalt ud, dar ruinele istorice par foarte atmosferice pe ploaie. Ziua se încheie pe coasta Glyfada, privind marea de sub un adăpost.",
+            "en": "A wet start at Mikro Kavouri requires caution on the slippery coastal paths. At noon, the theater building provides a dry break for cyclists. The ride to the PIKPA bunker is challenging on wet asphalt, but the historical ruins look very atmospheric in the rain. The day ends at Glyfada beach, watching the waves from under a shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mikro Kavouri",
+                "hu": "Mikro Kavouri",
+                "ro": "Mikro Kavouri",
+                "en": "Mikro Kavouri"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Bodenmarkierungen bei der Abfahrt; nutzen Sie Schutzbleche an Ihrem Fahrrad, um sich vor Spritzwasser zu schützen.",
+                "hu": "Vigyázzon a csúszós útburkolati jelekre az induláskor; használjon sárvédőt a kerékpárján, hogy megvédje magát a felverődő víztől.",
+                "ro": "Atenție la marcajele rutiere alunecoase la plecare; folosiți aripi la bicicletă pentru a vă proteja de apa împroșcată de roți.",
+                "en": "Watch out for slippery road markings when starting; use mudguards on your bike to protect yourself from water splashing up from the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos Pallon",
+                "hu": "Agios Nikolaos Pallon",
+                "ro": "Agios Nikolaos Pallon",
+                "en": "Agios Nikolaos Pallon"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Vordächern nahe der Kirche Schutz; prüfen Sie Ihre Bremsen, da sie auf dem nassen Weg zur Küste langsamer reagieren könnten.",
+                "hu": "Keressen menedéket a templom melletti előtetők alatt; ellenőrizze a fékeket, mert a nedves úton lassabban reagálhatnak a lejtős szakaszokon.",
+                "ro": "Căutați adăpost sub streșinile de lângă biserică; verificați frânele, deoarece pot reacționa mai lent pe drumul ud spre coastă.",
+                "en": "Seek shelter under the eaves near the church; check your brakes, as they might react more slowly on the wet road towards the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "hu": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "ro": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "en": "Demotiko Theatro Boulas \"Sophia Bempo\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich des Theaters, um Ihre Karte trocken zu prüfen; wischen Sie den Sattel vor der Weiterfahrt gründlich ab.",
+                "hu": "Használja a színház fedett részét az útvonal ellenőrzésére; alaposan törölje le a nyerget, mielőtt továbbindulna a következő szakaszra.",
+                "ro": "Folosiți zona acoperită a teatrului pentru a verifica harta; ștergeți bine șaua înainte de a pleca mai departe spre buncăr.",
+                "en": "Use the covered area of the theater to check your route; wipe your saddle thoroughly before continuing to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiaeroporiko kataphugio PIKPA",
+                "hu": "Antiaeroporiko kataphugio PIKPA",
+                "ro": "Antiaeroporiko kataphugio PIKPA",
+                "en": "Antiaeroporiko kataphugio PIKPA"
+              },
+              "tip_5lang": {
+                "de": "Der Bunker bietet perfekten Schutz vor einem plötzlichen Schauer; seien Sie vorsichtig auf den erdigen Wegen rund um den Eingang, da sie aufweichen.",
+                "hu": "A bunker tökéletes menedéket nyújt egy hirtelen zápor elől; legyen óvatos a bejárat körüli földutakon, mert sár esetén nagyon csúszósak.",
+                "ro": "Buncărul oferă un adăpost perfect împotriva unei averse bruște; aveți grijă pe potecile de pământ de la intrare, deoarece devin noroioase.",
+                "en": "The bunker provides perfect shelter from a sudden downpour; be careful on the dirt paths around the entrance, as they can get muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhristianike basilike tou 5ou aiona",
+                "hu": "Palaiokhristianike basilike tou 5ou aiona",
+                "ro": "Palaiokhristianike basilike tou 5ou aiona",
+                "en": "Palaiokhristianike basilike tou 5ou aiona"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine glänzen im Regen wunderschön; halten Sie auf festem Untergrund, um ein Einsinken der Fahrradreifen im weichen Boden zu vermeiden.",
+                "hu": "A régi kövek csodásan csillognak az esőben; álljon meg szilárd burkolaton a biciklivel, hogy elkerülje a kerekek sárba süllyedését.",
+                "ro": "Pietrele vechi strălucesc superb în ploaie; opriți bicicleta pe o suprafață solidă pentru a evita afundarea roților în solul moale.",
+                "en": "The ancient stones shine beautifully in the rain; park your bike on a solid surface to avoid tires sinking into the soft, wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Gluphadas Akte D",
+                "hu": "Paralia Gluphadas Akte D",
+                "ro": "Paralia Gluphadas Akte D",
+                "en": "Paralia Gluphadas Akte D"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie ein Café an der Küste, um die Fahrt trocken zu beenden; reflektierende Kleidung ist bei schlechter Sicht durch Regen lebenswichtig.",
+                "hu": "Keressen egy parti kávézót a túra száraz befejezéséhez; a láthatósági ruházat elengedhetetlen a sötétszürke, esős időben a forgalomban.",
+                "ro": "Căutați o cafenea pe mal pentru a încheia tura la uscat; vestele reflectorizante sunt vitale când vizibilitatea este redusă de ploaie.",
+                "en": "Find a coastal cafe to end your ride in the dry; reflective clothing is vital when visibility is reduced by rain and grey skies."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine kalte Brise am Mikro Kavouri, die Radler schnell wach macht. Die Route führt über geschichtsträchtige Stätten wie den PIKPA-Bunker, die im Winterlicht klar hervortreten. Nachmittags ist die Fahrt entlang der Küste von Glyfada erfrischend, erfordert aber gute Handschuhe. Beenden Sie die Tour vor 17:00 Uhr, um nicht in der frühen Dunkelheit radeln zu müssen.",
+            "hu": "Reggel hideg szél fúj Mikro Kavourinál, ami gyorsan felébreszti a kerékpárost. Az útvonal olyan történelmi helyeken vezet át, mint a PIKPA bunker, melyek a téli fényben élesen kirajzolódnak. Délután a Glyfada menti tekerés frissítő, de meleg kesztyű kötelező. Fejezze be a túrát 17:00 előtt, hogy elkerülje a korai sötétséget.",
+            "ro": "Dimineața, o briză rece la Mikro Kavouri trezește rapid bicicliștii. Traseul trece prin locuri istorice precum buncărul PIKPA, care ies în evidență în lumina iernii. După-amiaza, plimbarea de-a lungul coastei Glyfada este revigorantă, dar necesită mănuși bune. Încheiați tura înainte de 17:00 pentru a nu pedala pe întuneric.",
+            "en": "In the morning, a cold breeze at Mikro Kavouri quickly wakes up any cyclist. The route passes through historical sites like the PIKPA bunker, which stand out clearly in the winter light. In the afternoon, riding along Glyfada is refreshing but requires good gloves. Finish the tour before 17:00 to avoid cycling in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mikro Kavouri",
+                "hu": "Mikro Kavouri",
+                "ro": "Mikro Kavouri",
+                "en": "Mikro Kavouri"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist morgens sehr beißend; tragen Sie einen Schal oder Buff, um Ihre Atemwege vor der kalten Meeresluft beim Treten zu schützen.",
+                "hu": "A levegő reggel csípős lehet; viseljen sálat vagy csőmaszkot, hogy védje légutait a hideg tengeri levegőtől tekerés közben.",
+                "ro": "Aerul este tăios dimineața; purtați un fular sau un buff pentru a vă proteja căile respiratorii de aerul rece de mare în timp ce pedalați.",
+                "en": "The air can be biting in the morning; wear a scarf or buff to protect your airways from the cold sea air while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos Pallon",
+                "hu": "Agios Nikolaos Pallon",
+                "ro": "Agios Nikolaos Pallon",
+                "en": "Agios Nikolaos Pallon"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und kann blenden; eine Sonnenbrille ist auch im Winter wichtig, um die Hindernisse auf dem Radweg sicher zu erkennen.",
+                "hu": "Az alacsonyan járó nap vakíthat; a napszemüveg télen is fontos, hogy biztonságosan lássa az úthibákat a kerékpárúton a parton.",
+                "ro": "Soarele jos poate fi orbitor; ochelarii de soare sunt importanți și iarna pentru a vedea clar denivelările de pe pista de biciclete.",
+                "en": "The low sun can be blinding; sunglasses are important even in winter to clearly see any road hazards on the coastal bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "hu": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "ro": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+                "en": "Demotiko Theatro Boulas \"Sophia Bempo\""
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich kurz im Innenhof auf, um die Beine aufzuwärmen; Radfahren bei Kälte entzieht dem Körper schnell Energie, essen Sie einen Snack.",
+                "hu": "Pihenjen meg röviden az udvaron, hogy átmozgassa és melegítse a lábait; a hidegben való biciklizés sok energiát emészt fel, egyen pár falatot.",
+                "ro": "Opriți-vă scurt în curte pentru a vă încălzi picioarele; pedalatul în frig consumă multă energie, așa că luați o gustare rapidă.",
+                "en": "Stop briefly in the courtyard to stretch and warm up your legs; cycling in the cold consumes a lot of energy, so have a quick snack."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiaeroporiko kataphugio PIKPA",
+                "hu": "Antiaeroporiko kataphugio PIKPA",
+                "ro": "Antiaeroporiko kataphugio PIKPA",
+                "en": "Antiaeroporiko kataphugio PIKPA"
+              },
+              "tip_5lang": {
+                "de": "Der Bunker bietet Schutz vor kaltem Wind; prüfen Sie Ihren Reifendruck, da Luft bei niedrigen Temperaturen an Volumen verliert.",
+                "hu": "A bunker jó szélvédett hely a pihenésre; ellenőrizze a guminyomást, mivel a hidegben csökkenhet a kerekekben lévő levegő térfogata.",
+                "ro": "Buncărul oferă protecție împotriva vântului rece; verificați presiunea în pneuri, deoarece aerul își pierde volumul la temperaturi scăzute.",
+                "en": "The bunker is a good wind-sheltered spot to rest; check your tire pressure, as air volume decreases in cold temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Palaiokhristianike basilike tou 5ou aiona",
+                "hu": "Palaiokhristianike basilike tou 5ou aiona",
+                "ro": "Palaiokhristianike basilike tou 5ou aiona",
+                "en": "Palaiokhristianike basilike tou 5ou aiona"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern keine Wärme mehr; vermeiden Sie langes Sitzen auf den antiken Überresten, um Auskühlung zu verhindern.",
+                "hu": "A kövek ilyenkor már nem tartják a meleget; kerülje a hosszas ücsörgést az antik romokon, hogy ne fázzon fel a hideg felületeken.",
+                "ro": "Pietrele nu mai rețin căldura acum; evitați să stați mult timp așezați pe ruinele antice pentru a nu răci de la suprafețele reci.",
+                "en": "The stones no longer hold heat in winter; avoid sitting for long periods on the ancient remains to prevent getting chilled from the cold surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Gluphadas Akte D",
+                "hu": "Paralia Gluphadas Akte D",
+                "ro": "Paralia Gluphadas Akte D",
+                "en": "Paralia Gluphadas Akte D"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihr Fahrradlicht spätestens um 16:30 Uhr ein; die Dämmerung setzt im Winter sehr plötzlich ein und erhöht das Unfallrisiko.",
+                "hu": "Kapcsolja be a kerékpárlámpát legkésőbb 16:30-kor; a szürkület télen hirtelen áll be, és a látni és látszani elv ilyenkor életmentő.",
+                "ro": "Aprindeți luminile bicicletei cel târziu la 16:30; amurgul se instalează brusc iarna, crescând riscul de accidente în trafic.",
+                "en": "Turn on your bike lights by 16:30 at the latest; twilight sets in very suddenly in winter, and visibility is key for your safety in traffic."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Indítsa a reggelt az ősi Kalampoka birtok romjainál és a történelmi Agios Nikolaosnál. A dél a második világháborús PIKPA bunkerhez és az elegáns Déli Galériához vezet. A délután a klasszikus Aixóné területének felfedezéséé. Végül vezessen fel a Glyfada Erkélyére egy felejthetetlen, panorámás naplementés élményért.",
         "ro": "Începeți dimineața conducând spre ruinele anticei moșii Kalampoka și istorica Agios Nikolaos. Prânzul vă aduce la adăpostul PIKPA și la eleganta Galerie a Sudului. După-amiaza este rezervată explorării sitului clasic Aixone. La final, conduceți spre Balconul Glyfadei pentru o panoramă de neuitat la apus.",
         "en": "Start your morning driving to the ancient Kalampoka estate ruins and the historic Agios Nikolaos. Midday brings you to the WWII PIKPA shelter and the elegant Gallery of the South. Your afternoon is reserved for exploring the classical Aixone site. Finally, drive up to the Balcony of Glyfada for an unforgettable panoramic sunset view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken bei den Ausgrabungen von Kalampoka, während der Regen auf das Autodach trommelt. Mittags bietet die Fahrt zum PIKPA-Bunker Sicherheit vor Windböen. Der Nachmittag in der Gkaleri tou Notou ist perfekt, um Kunst im Trockenen zu genießen. Beenden Sie den Tag am Mpalkoni Gluphadas, wo Sie das stürmische Meer gemütlich vom warmen Auto oder Café aus sehen.",
+            "hu": "Kezdje szárazon a napot a Kalampoka ásatásoknál, miközben az eső kopog az autótetőn. Délben a PIKPA bunker felé vezető út biztonságos menedéket nyújt a szél elől. A délután a Gkaleri tou Notou falai között tökéletes a művészet élvezetéhez. A napot a Mpalkoni Gluphadas-nál zárja, ahol az autó kényelméből nézheti a viharos tengert.",
+            "ro": "Începeți ziua la adăpost în situl Kalampoka, în timp ce ploaia bate în plafonul mașinii. La prânz, drumul spre buncărul PIKPA oferă protecție contra vântului. După-amiaza la Gkaleri tou Notou este perfectă pentru a savura arta la uscat. Încheiați ziua la Mpalkoni Gluphadas, privind marea agitată din confortul mașinii sau al unei cafenele.",
+            "en": "Start your day dry at the Kalampoka excavations while rain drums on the car roof. At noon, the drive to the PIKPA bunker provides safety from wind gusts. The afternoon at Gkaleri tou Notou is perfect for enjoying art in the dry. End the day at Mpalkoni Gluphadas, watching the stormy sea comfortably from your car or a warm cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arkhaiologikos Khoros Boulas Ktema Kalampoka",
+                "hu": "Arkhaiologikos Khoros Boulas Ktema Kalampoka",
+                "ro": "Arkhaiologikos Khoros Boulas Ktema Kalampoka",
+                "en": "Arkhaiologikos Khoros Boulas Ktema Kalampoka"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Anlage bei leichtem Regen; Parken Sie so nah wie möglich am Eingang, um die Zeit im Freien bei Schauern zu minimieren.",
+                "hu": "Tekintse meg a területet két zápor között; parkoljon minél közelebb a bejárathoz, hogy minimalizálja az esőben töltött időt a romoknál.",
+                "ro": "Vizitați situl între două averse; parcați cât mai aproape de intrare pentru a minimiza timpul petrecut în ploaie în zona ruinelor.",
+                "en": "View the site between showers; park as close to the entrance as possible to minimize time spent out in the rain while exploring the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos Pallon",
+                "hu": "Agios Nikolaos Pallon",
+                "ro": "Agios Nikolaos Pallon",
+                "en": "Agios Nikolaos Pallon"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Aussichtspunkt auf die Kapelle und das Meer; achten Sie beim Aussteigen auf tiefe Pfützen auf dem unbefestigten Parkplatz.",
+                "hu": "Használja az autót kilátópontként a kápolnára és a tengerre; kiszálláskor ügyeljen a mély tócsákra a burkolatlan parkoló területén.",
+                "ro": "Folosiți mașina ca punct de observație spre capelă și mare; la coborâre, atenție la bălțile adânci din zona de parcare neasfaltată.",
+                "en": "Use your car as a viewpoint for the chapel and the sea; watch out for deep puddles in the unpaved parking area when getting out of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiaeroporiko kataphugio PIKPA",
+                "hu": "Antiaeroporiko kataphugio PIKPA",
+                "ro": "Antiaeroporiko kataphugio PIKPA",
+                "en": "Antiaeroporiko kataphugio PIKPA"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei starkem Regen matschig sein; schalten Sie die Nebelscheinwerfer ein, wenn die Gischt der Küste die Sicht auf der Straße einschränkt.",
+                "hu": "Az odavezető út heves esőben sáros lehet; kapcsolja be a ködlámpát, ha a tengeri pára és az eső jelentősen rontja a látási viszonyokat.",
+                "ro": "Accesul poate fi noroios în caz de ploaie torențială; aprindeți luminile de ceață dacă vaporii de apă de pe coastă reduc vizibilitatea pe drum.",
+                "en": "The access road can be muddy in heavy rain; turn on your fog lights if coastal spray and rain significantly reduce visibility on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Gkaleri tou Notou",
+                "hu": "Gkaleri tou Notou",
+                "ro": "Gkaleri tou Notou",
+                "en": "Gkaleri tou Notou"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort für einen Regentag; Parkplätze sind in der Nähe vorhanden, sodass Sie fast ohne nass zu werden ins Gebäude gelangen.",
+                "hu": "Ez a legjobb helyszín egy esős napra; a közelben vannak parkolók, így szinte száraz lábbal juthat be a művészeti galéria épületébe.",
+                "ro": "Acesta este cel mai bun loc pentru o zi ploioasă; există parcări în apropiere, deci puteți intra în galerie fără a vă uda prea tare.",
+                "en": "This is the best location for a rainy day; parking is available nearby, allowing you to enter the gallery building almost completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Aixone",
+                "hu": "Aixone",
+                "ro": "Aixone",
+                "en": "Aixone"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die antiken Überreste kurz vom Fenster aus; prüfen Sie die Wischerblätter, da die salzige Meeresluft Schlieren bilden kann.",
+                "hu": "Élvezze az antik romok látványát röviden az autó ablakából; ellenőrizze az ablaktörlőket, mert a sós tengeri pára maszatolhat a szélvédőn.",
+                "ro": "Admirați ruinele antice scurt de la geamul mașinii; verificați ștergătoarele, deoarece aerul sărat de mare poate lăsa urme pe parbriz.",
+                "en": "Enjoy the view of the ancient remains briefly from your car window; check your wipers, as salty sea air can cause streaks on the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Mpalkoni Gluphadas",
+                "hu": "Mpalkoni Gluphadas",
+                "ro": "Mpalkoni Gluphadas",
+                "en": "Mpalkoni Gluphadas"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Ort, um den Sturm über dem Meer zu beobachten; bleiben Sie im Auto und lassen Sie die Heizung laufen, während Sie die Aussicht genießen.",
+                "hu": "Látványos hely a tenger feletti vihar megfigyeléséhez; maradjon az autóban és járassa a fűtést, miközben gyönyörködik a panorámában.",
+                "ro": "Un loc spectaculos pentru a observa furtuna deasupra mării; rămâneți în mașină cu căldura pornită în timp ce admirați panorama dramatică.",
+                "en": "A spectacular spot to observe the storm over the sea; stay in the car and keep the heater running while enjoying the dramatic panorama."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kalter Wintermorgen beginnt bequem im beheizten Auto bei den Kalampoka-Ruinen. Mittags führt die Tour zum PIKPA-Bunker, wo das klare Licht weite Blicke ermöglicht. In der Gkaleri tou Notou wärmen Sie sich bei moderner Kunst auf. Den Sonnenuntergang erleben Sie am Mpalkoni Gluphadas gegen 17:00 Uhr, bevor Sie im Schutze der Dunkelheit zurückfahren.",
+            "hu": "A napos, de hideg téli reggel kényelmesen, a fűtött autóban indul a Kalampoka romoknál. Délben a PIKPA bunker felé vesszük az irányt, ahol a tiszta téli levegőben messzire ellátni. A Gkaleri tou Notou falai között felmelegedhetünk a modern művészet társaságában. A naplementét 17:00 körül a Mpalkoni Gluphadas-nál élvezhetjük.",
+            "ro": "O dimineață de iarnă însorită, dar rece, începe confortabil în mașina încălzită la ruinele Kalampoka. La prânz, tura continuă spre buncărul PIKPA, unde aerul clar permite vederi panoramice. La Gkaleri tou Notou vă puteți încălzi admirând arta modernă. Savurați apusul la Mpalkoni Gluphadas în jur de ora 17:00, înainte de lăsarea serii.",
+            "en": "A sunny but cold winter morning starts comfortably in your heated car at the Kalampoka ruins. At noon, head to the PIKPA bunker, where the clear winter air allows for expansive views. Warm up with modern art at Gkaleri tou Notou. Enjoy the sunset at Mpalkoni Gluphadas around 17:00 before the early winter darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arkhaiologikos Khoros Boulas Ktema Kalampoka",
+                "hu": "Arkhaiologikos Khoros Boulas Ktema Kalampoka",
+                "ro": "Arkhaiologikos Khoros Boulas Ktema Kalampoka",
+                "en": "Arkhaiologikos Khoros Boulas Ktema Kalampoka"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die antiken Fundamente gut zur Geltung; stellen Sie die Fahrzeugheizung moderat ein, um beim Aussteigen keinen Kälteschock zu erleben.",
+                "hu": "A téli napfény szépen megvilágítja az antik alapfalakat; állítsa a fűtést mérsékeltre, hogy kiszálláskor ne érje túl nagy hidegsokk a szervezetét.",
+                "ro": "Soarele de iarnă scoate în evidență fundațiile antice; reglați căldura în mașină moderat pentru a nu simți un șoc termic prea mare la coborâre.",
+                "en": "The winter sun highlights the ancient foundations beautifully; set the car heater to a moderate level to avoid a thermal shock when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos Pallon",
+                "hu": "Agios Nikolaos Pallon",
+                "ro": "Agios Nikolaos Pallon",
+                "en": "Agios Nikolaos Pallon"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter meist leer; nutzen Sie die Gelegenheit für ein kurzes Picknick im warmen Auto mit Blick auf die einsame Kapelle am Meer.",
+                "hu": "A parkoló télen többnyire üres; használja ki az alkalmat egy rövid piknikre a meleg autóban, miközben a magányos parti kápolnát figyeli.",
+                "ro": "Parcarea este de obicei goală iarna; profitați de ocazie pentru un scurt picnic în mașina caldă, privind capela solitară de pe malul mării.",
+                "en": "The parking area is mostly empty in winter; take the opportunity for a short picnic in your warm car while watching the lonely seaside chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiaeroporiko kataphugio PIKPA",
+                "hu": "Antiaeroporiko kataphugio PIKPA",
+                "ro": "Antiaeroporiko kataphugio PIKPA",
+                "en": "Antiaeroporiko kataphugio PIKPA"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Anlage am frühen Nachmittag für das beste Licht; achten Sie auf die Batteriespannung, da Kälte die Autobatterie stärker belastet.",
+                "hu": "Látogassa meg a helyszínt kora délután a legjobb fényviszonyokért; ügyeljen az akkumulátor állapotára, mert a hideg jobban igénybe veszi az autót.",
+                "ro": "Vizitați situl la începutul după-amiezii pentru cea mai bună lumină; atenție la baterie, deoarece frigul solicită mai mult acumulatorul mașinii.",
+                "en": "Visit the site in the early afternoon for the best lighting conditions; monitor your battery, as cold weather puts more strain on the car's electrical system."
+              }
+            },
+            {
+              "name": {
+                "de": "Gkaleri tou Notou",
+                "hu": "Gkaleri tou Notou",
+                "ro": "Gkaleri tou Notou",
+                "en": "Gkaleri tou Notou"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um die kälteste Stunde des Nachmittags im Warmen zu verbringen; genießen Sie die Ruhe, da im Winter deutlich weniger Touristen hier sind.",
+                "hu": "Ideális helyszín a délután leghidegebb órájának melegben való eltöltéséhez; élvezze a nyugalmat, hiszen télen sokkal kevesebb a látogató.",
+                "ro": "Locul ideal pentru a petrece cea mai rece oră a după-amiezii la căldură; savurați liniștea, deoarece iarna sunt mult mai puțini turiști.",
+                "en": "Ideal for spending the coldest hour of the afternoon in the warm; enjoy the peace and quiet, as there are far fewer tourists here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Aixone",
+                "hu": "Aixone",
+                "ro": "Aixone",
+                "en": "Aixone"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Berge ist im Winter oft klarer; halten Sie kurz an, aber lassen Sie den Motor nicht unnötig im Stand laufen, um die Umwelt zu schonen.",
+                "hu": "A távoli hegyekre nyíló kilátás télen gyakran tisztább; álljon meg egy pillanatra, de ne járassa feleslegesen a motort álló helyzetben.",
+                "ro": "Vizibilitatea spre munții îndepărtați este adesea mai clară iarna; opriți scurt, dar nu lăsați motorul pornit inutil pentru a proteja natura.",
+                "en": "Visibility towards the distant mountains is often clearer in winter; stop for a moment, but don't leave the engine idling unnecessarily."
+              }
+            },
+            {
+              "name": {
+                "de": "Mpalkoni Gluphadas",
+                "hu": "Mpalkoni Gluphadas",
+                "ro": "Mpalkoni Gluphadas",
+                "en": "Mpalkoni Gluphadas"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie spätestens um 16:30 Uhr an, um den Sonnenuntergang zu sehen; die Farben im Winter sind oft intensiver und bieten tolle Fotomotive.",
+                "hu": "Érkezzen meg legkésőbb 16:30-ra a naplementéhez; a téli színek gyakran intenzívebbek, és kiváló fotótémát nyújtanak a panorámaponton.",
+                "ro": "Ajungeți cel târziu la 16:30 pentru apus; culorile iernii sunt adesea mai intense și oferă oportunități foto superbe în acest punct panoramic.",
+                "en": "Arrive by 16:30 at the latest to catch the sunset; winter sky colors are often more intense, providing great photo opportunities at this viewpoint."
+              }
+            }
+          ]
+        }
       }
     }
   }

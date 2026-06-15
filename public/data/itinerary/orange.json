@@ -160,6 +160,196 @@
         "hu": "A reggel a monumentális Diadalívnél kezdődik, amely a hangulatos utcákon át az elegáns Városházához vezet. Délben elsétál a fenséges katedrális mellett, és megmássza a Saint-Eutrope dombot. A délutánt a látványos római színháznak szenteljük, majd a napot csendesen a Saint-Florent templomnál zárjuk.",
         "ro": "Dimineața începe la monumentalul Arc de Triumf, conducându-vă prin străzile fermecătoare către elegantul Hôtel de Ville. La prânz, veți trece pe lângă măreața Catedrală și veți urca pe colina Saint-Eutrope. După-amiaza este dedicată spectaculosului Teatru Roman, încheind ziua în liniște la biserica Saint-Florent.",
         "en": "Your morning starts at the monumental Triumphal Arch, leading you through the charming streets to the elegant Hôtel de Ville. By midday, you'll wander past the majestic Cathedral and hike up Saint-Eutrope Hill for breathtaking views. The afternoon is dedicated to the spectacular Roman Theatre, ending the day quietly at Saint-Florent Church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Bogen mit einem Regenschirm. Suchen Sie mittags Schutz im Rathaus und in der Kathedrale. Der Nachmittag bietet einen nassen, aber stimmungsvollen Spaziergang auf den Hügel und zum Theater. Beenden Sie den Tag sicher in der Kirche.",
+            "hu": "Kezdje a Diadalívnél esernyővel, mivel szabadtéri. Délben keressen menedéket a Városházán és a Katedrálisban. A délután egy vizes, de hangulatos sétát tartogat a dombon és a Színházban. Zárja a napot biztonságban a templomban.",
+            "ro": "Începeți la Arc cu o umbrelă, fiind în aer liber. La prânz, adăpostiți-vă în Primărie și Catedrală. După-amiaza implică o plimbare umedă, dar plină de atmosferă pe deal și la Teatru. Încheiați ziua la biserică, la adăpost de ploaie.",
+            "en": "Start at the Arch with an umbrella, as it is outdoors. Seek shelter in the City Hall and Cathedral by midday. The afternoon involves a wet but atmospheric walk up the hill and exploring the Theatre. End your day safely at the church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Triumphal Arch of Orange",
+                "hu": "Triumphal Arch of Orange",
+                "ro": "Triumphal Arch of Orange",
+                "en": "Triumphal Arch of Orange"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Schnitzereien unter einem Regenschirm. Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Csodálja meg az ősi faragványokat egy esernyő alól. Legyen óvatos a nedves, csúszós macskaköveken az emlékmű körül.",
+                "ro": "Admirați sculpturile antice de sub o umbrelă. Aveți grijă la pietrele cubice umede din jurul monumentului.",
+                "en": "Admire the ancient carvings from beneath an umbrella. Be careful on the wet cobblestones around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Ville",
+                "hu": "Hôtel de Ville",
+                "ro": "Hôtel de Ville",
+                "en": "Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in dieses schöne Gebäude ein, um dem Regen zu entkommen. Die Architektur ist perfekt für einen trockenen Besuch.",
+                "hu": "Lépjen be ebbe a gyönyörű polgári épületbe a felhőszakadás elől. A nagyszerű építészet tökéletes egy száraz benti sétához.",
+                "ro": "Pășiți în această frumoasă clădire civică pentru a scăpa de ploaie. Arhitectura este perfectă pentru o vizită uscată.",
+                "en": "Step inside this beautiful civic building to escape the downpour. The grand architecture is perfect for a dry, indoor visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-de-Nazareth Cathedral",
+                "hu": "Notre-Dame-de-Nazareth Cathedral",
+                "ro": "Notre-Dame-de-Nazareth Cathedral",
+                "en": "Notre-Dame-de-Nazareth Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie trockene Zuflucht in dieser atemberaubenden Kathedrale. Das regnerische Wetter draußen steht im schönen Kontrast.",
+                "hu": "Keressen száraz menedéket ebben a lenyűgöző katedrálisban. Az esős sötétség gyönyörűen kontrasztol a békés, kivilágított belsővel.",
+                "ro": "Căutați un sanctuar uscat în această catedrală uimitoare. Vremea ploioasă contrastează frumos cu interiorul senin și luminat.",
+                "en": "Seek dry sanctuary inside this stunning cathedral. The rainy gloom outside contrasts beautifully with the serene, lit interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Eutrope Hill",
+                "hu": "Saint-Eutrope Hill",
+                "ro": "Saint-Eutrope Hill",
+                "en": "Saint-Eutrope Hill"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserdichte Stiefel, da die Wege schlammig sein können. Der Nebel über den Bäumen schafft eine mystische Atmosphäre.",
+                "hu": "Hozzon vízálló csizmát, mert az ösvények sarasak lehetnek. A fák feletti köd titokzatos, egyedi atmoszférát teremt.",
+                "ro": "Purtați cizme impermeabile, deoarece potecile pot fi noroioase. Ceața de peste copaci creează o atmosferă misterioasă.",
+                "en": "Bring sturdy, waterproof boots as the paths can be muddy. The moody mist over the trees creates a mysterious, unique atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Theatre of Orange",
+                "hu": "Roman Theatre of Orange",
+                "ro": "Roman Theatre of Orange",
+                "en": "Roman Theatre of Orange"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine gute Regenjacke für die antiken Sitzplätze mit. Die massive Steinbühne ist bei Nässe rutschig, seien Sie vorsichtig.",
+                "hu": "Hozzon jó esőkabátot az ősi lelátó felfedezéséhez. A hatalmas kőszínpad nedvesen csúszik, ezért vigyázzon hova lép.",
+                "ro": "Aduceți o pelerină bună de ploaie pentru scaunele antice. Scena de piatră este alunecoasă când este udă, așa că aveți grijă.",
+                "en": "Bring a good raincoat to explore the ancient seating. The massive stone stage is slippery when wet, so watch your footing."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Florent Church",
+                "hu": "Saint-Florent Church",
+                "ro": "Saint-Florent Church",
+                "en": "Saint-Florent Church"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Ort, um Ihren Mantel zu trocknen. Das friedliche Innere bietet Schutz und schöne religiöse Kunst.",
+                "hu": "Tökéletes száraz menedék a kabát szárítására és a pihenésre. A békés belső tér menedéket és gyönyörű helyi vallási művészetet kínál.",
+                "ro": "Un refugiu perfect uscat pentru a vă usca haina. Interiorul liniștit oferă adăpost și artă religioasă locală frumoasă.",
+                "en": "A perfect dry haven to dry your coat and reflect. The peaceful interior offers shelter and beautiful local religious art."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich für den Morgen am Bogen warm an. Wärmen Sie sich mittags im Rathaus und in der Kathedrale auf. Genießen Sie die klare Winterluft auf dem Hügel, bevor die frühe Dämmerung das Theater erreicht. Beenden Sie den Tag in der Kirche.",
+            "hu": "Öltözzön melegen a Diadalívhez. Délben melegedjen fel a Városháza és a Katedrális falai között. Élvezze a friss téli levegőt a dombon, mielőtt a korai sötétedés eléri a Színházat. Zárja a fagyos délutánt a hangulatos templomban.",
+            "ro": "Îmbrăcați-vă gros pentru o dimineață răcoroasă la Arc. Încălziți-vă în Primărie și Catedrală la prânz. Bucurați-vă de aerul rece pe deal înainte ca apusul devreme să atingă Teatrul. Încheiați după-amiaza la biserica primitoare.",
+            "en": "Bundle up for a brisk morning at the Arch. Warm up inside the City Hall and Cathedral around noon. Enjoy the crisp winter air on the hill before the early sunset hits the Roman Theatre. End your chilly afternoon at the cozy church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Triumphal Arch of Orange",
+                "hu": "Triumphal Arch of Orange",
+                "ro": "Triumphal Arch of Orange",
+                "en": "Triumphal Arch of Orange"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost hebt die Details des Bogens hervor. Tragen Sie eine warme Mütze und Handschuhe gegen den Wind.",
+                "hu": "A reggeli dér kiemeli a diadalív bonyolult részleteit. Viseljen meleg sapkát és kesztyűt a hideg szél ellen.",
+                "ro": "Înghețul dimineții evidențiază detaliile arcului. Purtați o căciulă caldă și mănuși pentru a înfrunta vântul rece.",
+                "en": "The morning frost highlights the intricate details of the arch. Wear a warm hat and gloves to brave the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de Ville",
+                "hu": "Hôtel de Ville",
+                "ro": "Hôtel de Ville",
+                "en": "Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historischen Säle als warmen Rückzugsort vor der Winterkälte. Der beheizte Innenraum ist sehr gemütlich.",
+                "hu": "Élvezze a történelmi termeket meleg menedékként a téli hideg elől. A fűtött belső tér otthonosabbá teszi a felfedezést.",
+                "ro": "Bucurați-vă de sălile istorice ca un refugiu cald din calea frigului. Interiorul încălzit face explorarea mult mai confortabilă.",
+                "en": "Enjoy the historic halls as a warm retreat from the winter chill. The heated interior makes exploring the details much cozier."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-de-Nazareth Cathedral",
+                "hu": "Notre-Dame-de-Nazareth Cathedral",
+                "ro": "Notre-Dame-de-Nazareth Cathedral",
+                "en": "Notre-Dame-de-Nazareth Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten den kalten Winterwind ab. Nehmen Sie sich Zeit für die Buntglasfenster und wärmen Sie sich auf.",
+                "hu": "A vastag kőfalak kint tartják a zord téli szelet. Szánjon időt az ólomüveg csodálatára, miközben felmelegíti a kezét.",
+                "ro": "Zidurile groase de piatră țin la distanță vântul aspru de iarnă. Admirați vitraliile în timp ce vă încălziți mâinile înghețate.",
+                "en": "The thick stone walls keep the harsh winter wind at bay. Take your time admiring the stained glass while warming your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Eutrope Hill",
+                "hu": "Saint-Eutrope Hill",
+                "ro": "Saint-Eutrope Hill",
+                "en": "Saint-Eutrope Hill"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie früh vor dem Sonnenuntergang um 17 Uhr auf. Die kahlen Winterbäume bieten einen klaren Blick auf die Stadt.",
+                "hu": "Mássza meg a dombot még a korai sötétedés előtt. A lombtalan téli fák tiszta, pazar kilátást nyújtanak az alatta elterülő városra.",
+                "ro": "Urcați dealul devreme, înainte de apusul de la ora 17. Copacii fără frunze oferă vederi panoramice clare asupra orașului.",
+                "en": "Climb the hill early before the 5 PM sunset. The leafless winter trees offer clear, sweeping views of the city below."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Theatre of Orange",
+                "hu": "Roman Theatre of Orange",
+                "ro": "Roman Theatre of Orange",
+                "en": "Roman Theatre of Orange"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da das offene Amphitheater den Wind kanalisiert. Die Winterschatten werfen dramatische Formen.",
+                "hu": "Öltözzön fel jól, mert a nyitott amfiteátrum felerősíti a hideg szelet. A téli árnyékok drámai formákat vetnek a romokra.",
+                "ro": "Îmbrăcați-vă gros, deoarece amfiteatrul deschis canalizează vântul rece. Umbrele de iarnă creează forme dramatice pe ruine.",
+                "en": "Bundle up tightly, as the open amphitheater channels the cold wind. The winter shadows cast dramatic shapes on the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Florent Church",
+                "hu": "Saint-Florent Church",
+                "ro": "Saint-Florent Church",
+                "en": "Saint-Florent Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um der Abendkälte zu entfliehen. Das gemütliche, schwach beleuchtete Innere ist einladend, wenn die Nacht hereinbricht.",
+                "hu": "Lépjen be, hogy elmeneküljön az esti hideg elől. A hangulatos, gyengén megvilágított belső tér hívogató a korai téli éjszakában.",
+                "ro": "Pășiți înăuntru pentru a scăpa de frigul serii. Interiorul confortabil, slab luminat, este primitor odată cu lăsarea nopții de iarnă.",
+                "en": "Step inside to escape the evening chill. The cozy, dimly lit interior is welcoming as the early winter night sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje kerékpártúráját a fenséges Diadalívnél, majd guruljon le a pezsgő Városi Színházhoz. Dél körül eléri az ikonikus római színházat, majd továbbteker a buja Saint-Eutrope domb felé. A délután egy pihentető utazást tartogat a Piscine L'attente felé, ahol kikapcsolódhat.",
         "ro": "Începeți-vă turul cu bicicleta la mărețul Arc de Triumf înainte de a pedala către vibrantul Teatru Municipal. În jurul prânzului, veți ajunge la emblematicul Teatru Roman, continuând spre luxurianta colină Saint-Eutrope. După-amiaza aduce o plimbare relaxantă spre Piscine L'attente, unde vă puteți relaxa.",
         "en": "Kick off your cycling tour at the majestic Triumphal Arch before cruising down to the vibrant Municipal Theatre. Around noon, you will reach the iconic Roman Theatre, pedaling onward to the lush Saint-Eutrope Hill. The afternoon brings a relaxing ride towards Piscine L'attente, where you can unwind and reflect on the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig auf nassen Straßen zum Bogen. Machen Sie mittags eine Pause im Stadttheater. Der Nachmittag erfordert Vorsicht beim Radfahren zum Theater und Hügel. Beenden Sie die Fahrt im Hallenbad.",
+            "hu": "Óvatosan tekerjen a Diadalívhez a nedves utakon. Délben pihenjen meg a fedett Színházban. Délután óvatosan kerékpározzon a Római Színházhoz és a dombra. Zárja az esős napot a fedett uszodában, szárazon.",
+            "ro": "Pedalați cu grijă spre Arc pe drumurile umede. La prânz, faceți o pauză în Teatrul Municipal. După-amiaza necesită prudență spre Teatrul Roman și deal. Încheiați cursa ploioasă cu distracție la piscină.",
+            "en": "Ride carefully to the Arch on wet roads. Take an indoor break at the Theatre by noon. The afternoon requires caution biking to the Roman Theatre and hill. Finish your rainy ride with family fun at the pool to stay dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Triumphal Arch of Orange",
+                "hu": "Triumphal Arch of Orange",
+                "ro": "Triumphal Arch of Orange",
+                "en": "Triumphal Arch of Orange"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie früh beim Bogen, da die Straßen rutschig sind. Parken Sie Ihr Fahrrad und betrachten Sie Details unter einem Schirm.",
+                "hu": "Fékezzen korán a diadalívhez közeledve, mert az utak csúszósak. Parkolja le a biciklit, és nézze meg a részleteket esernyő alól.",
+                "ro": "Frânați devreme la apropierea de arc, drumurile sunt alunecoase. Parcați bicicleta și vizionați detaliile sub o umbrelă.",
+                "en": "Brake early approaching the arch, as the wet roads are slick. Park your bike and view the details from under an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Theatre",
+                "hu": "Municipal Theatre",
+                "ro": "Municipal Theatre",
+                "en": "Municipal Theatre"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad und betreten Sie diesen trockenen Ort. Eine tolle Indoor-Alternative, um einen Schauer abzuwarten.",
+                "hu": "Zárja le a kerékpárt, és térjen be ebbe a száraz kulturális térbe. Remek benti alternatíva, amíg kivárja a heves zápor végét.",
+                "ro": "Securizați bicicleta și intrați în acest loc cultural uscat. Este o alternativă interioară excelentă pentru a aștepta trecerea ploii.",
+                "en": "Secure your bike and head inside this dry, cultural spot. It is a great indoor alternative while waiting out a heavy shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Theatre of Orange",
+                "hu": "Roman Theatre of Orange",
+                "ro": "Roman Theatre of Orange",
+                "en": "Roman Theatre of Orange"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Moos auf den antiken Stufen. Behalten Sie Ihre Regenkleidung an, während Sie dieses Erbe bewundern.",
+                "hu": "Ügyeljen a csúszós mohára az ősi lépcsőkön. Tartsa magán az esőruhát, miközben ezt a hatalmas szabadtéri világörökséget csodálja.",
+                "ro": "Atenție la mușchiul alunecos de pe treptele antice. Păstrați pelerina de ploaie în timp ce admirați acest sit deschis UNESCO.",
+                "en": "Watch for slippery moss on the ancient steps. Keep your rain gear on while admiring this massive, open-air UNESCO site."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Eutrope Hill",
+                "hu": "Saint-Eutrope Hill",
+                "ro": "Saint-Eutrope Hill",
+                "en": "Saint-Eutrope Hill"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die nasse Steigung hinauf. Der Regen hebt die grünen Farben des Parks hervor, Wege können schlammig sein.",
+                "hu": "Óvatosan tekerjen fel a nedves emelkedőn. Az eső kiemeli a park buja zöld színeit, bár az ösvények kissé sarasak lehetnek.",
+                "ro": "Pedalați cu grijă pe panta umedă. Ploaia scoate în evidență culorile verzi ale parcului, deși traseele pot fi noroioase.",
+                "en": "Bike carefully up the wet incline. The rain brings out the lush green colors of the park, though trails might be slightly muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine L'attente",
+                "hu": "Piscine L'attente",
+                "ro": "Piscine L'attente",
+                "en": "Piscine L'attente"
+              },
+              "tip_5lang": {
+                "de": "Tauschen Sie den Regen gegen ein warmes Hallenbad! Ein perfekter Ort, um Ihre Muskeln zu entspannen und dem Wetter zu entfliehen.",
+                "hu": "Cserélje az esőt egy meleg, fedett medencére! Tökéletes hely a fáradt kerékpáros izmok ellazítására a rossz idő elől.",
+                "ro": "Schimbați ploaia cu o piscină interioară caldă! Un loc perfect pentru a vă relaxa mușchii de ciclism, ferit de vremea rea.",
+                "en": "Trade the rain for a warm, indoor pool! A perfect spot to relax your cycling muscles and stay completely out of the bad weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tragen Sie Thermo-Radbekleidung für die Fahrt zum Bogen. Wärmen Sie sich mittags im Stadttheater auf. Fahren Sie zum Römischen Theater und Hügel, bevor es dunkel wird. Beenden Sie den kalten Tag mit einem warmen Bad im Schwimmbad.",
+            "hu": "Viseljen termo kerékpáros ruhát a reggeli tekeréshez a Diadalívhez. Délben melegedjen fel a Városi Színházban. Érjen a Római Színházhoz és a dombra sötétedés előtt. Zárja a hideg napot a helyi uszodában felmelegedve.",
+            "ro": "Purtați echipament termo pentru cursa de dimineață spre Arc. Încălziți-vă la Teatrul Municipal la prânz. Pedalați spre Teatrul Roman și deal înainte de lăsarea întunericului. Încheiați ziua rece încălzindu-vă la piscina locală.",
+            "en": "Wear thermal cycling gear for your morning ride to the Arch. Warm up at the Municipal Theatre at noon. Ride to the Roman Theatre and hill before the temperature drops and it gets dark. Finish your cold day warming up at the local pool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Triumphal Arch of Orange",
+                "hu": "Triumphal Arch of Orange",
+                "ro": "Triumphal Arch of Orange",
+                "en": "Triumphal Arch of Orange"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Fahrt wird frisch, tragen Sie Thermo-Handschuhe. Der Frost auf dem antiken Stein ist ein schöner Anblick.",
+                "hu": "A reggeli tekerés hűvös lesz, viseljen termo kerékpáros kesztyűt. Az ősi kövön megülő dér gyönyörű látványt nyújt.",
+                "ro": "Călătoria de dimineață va fi răcoroasă, purtați mănuși termo. Înghețul pe piatra antică este o priveliște frumoasă.",
+                "en": "The morning ride here will be brisk, so wear thermal cycling gloves. The frost on the ancient stone is a beautiful sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Theatre",
+                "hu": "Municipal Theatre",
+                "ro": "Municipal Theatre",
+                "en": "Municipal Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um Füße und Gesicht zu wärmen. Die großartige Theateratmosphäre ist perfekt für einen Wintermorgen.",
+                "hu": "Használja ezt a benti megállót a lába és arca felmelegítésére. A nagyszerű színházi atmoszféra tökéletes egy csípős téli reggelen.",
+                "ro": "Folosiți această oprire interioară pentru a vă încălzi picioarele. Atmosfera teatrală grandioasă este perfectă iarna.",
+                "en": "Use this indoor stop to warm your feet and face. The grand theatrical atmosphere is perfect for a chilly winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Theatre of Orange",
+                "hu": "Roman Theatre of Orange",
+                "ro": "Roman Theatre of Orange",
+                "en": "Roman Theatre of Orange"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und ermöglicht tolle Fotos. Tragen Sie eine Windjacke, da der Wind stark durch die Ruinen weht.",
+                "hu": "A téli nap alacsonyan jár, lenyűgöző fotókat készíthet a színházról. Viseljen széldzsekit, mert a romok között erős a huzat.",
+                "ro": "Soarele de iarnă este jos, creând fotografii uimitoare. Purtați o geacă de vânt, deoarece curenții bat puternic prin ruine.",
+                "en": "The winter sun sits low, creating striking photos of the theater. Wear a windbreaker, as drafts blow strongly through the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Eutrope Hill",
+                "hu": "Saint-Eutrope Hill",
+                "ro": "Saint-Eutrope Hill",
+                "en": "Saint-Eutrope Hill"
+              },
+              "tip_5lang": {
+                "de": "Ein kräftiges Treten bergauf wärmt Sie auf! Erreichen Sie den Gipfel vor der Dämmerung um 17 Uhr für die tolle Winteraussicht.",
+                "hu": "Egy erőteljes tekerés felfelé garantáltan felmelegíti! Érjen fel az 5 órás szürkület előtt, hogy élvezze a pazar téli kilátást.",
+                "ro": "O pedalare viguroasă la deal vă va încălzi! Ajungeți în vârf înainte de amurgul de la ora 17 pentru priveliști de iarnă.",
+                "en": "A vigorous pedal uphill will warm you right up! Reach the top before the 5 PM dusk to enjoy the sweeping winter views."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine L'attente",
+                "hu": "Piscine L'attente",
+                "ro": "Piscine L'attente",
+                "en": "Piscine L'attente"
+              },
+              "tip_5lang": {
+                "de": "Eine heiße Dusche und ein beheizter Pool nach der kalten Fahrt sind purer Genuss. Entspannen Sie sich drinnen, wenn es dunkel wird.",
+                "hu": "Egy forró zuhany és fűtött medence a hideg tekerés végén maga a mámor. Mártózzon meg bent, miközben kint leszáll a téli éj.",
+                "ro": "Un duș fierbinte și o piscină încălzită la finalul cursei reci reprezintă un vis. Relaxați-vă la interior când cade noaptea de iarnă.",
+                "en": "A hot shower and heated pool at the end of a cold ride is pure bliss. Soak indoors as the early winter night falls outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Először hajtson a történelmi Diadalívhez, és csodálja meg a város ősi kapuját. Délben parkoljon le a kolosszális római színház közelében, és fedezze fel a Saint-Florent templomot. Délután a Piscine L'attente felé veszi az irányt, és az autós utazást az aliya star családi élményeivel zárja.",
         "ro": "Conduceți mai întâi la istoricul Arc de Triumf, admirând poarta antică a orașului. La prânz, parcați lângă colosalul Teatru Roman și explorați biserica Saint-Florent. După-amiaza, vă veți îndrepta spre Piscine L'attente pentru timp liber, încheind excursia la aliya star.",
         "en": "Drive first to the historic Triumphal Arch, admiring the ancient gateway to the city. By midday, park near the colossal Roman Theatre and explore the nearby Saint-Florent Church on foot. In the afternoon, you will head further out to Piscine L'attente for some leisure time, ending your road trip with family fun at aliya star."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie sicher zum Bogen und lassen Sie die Scheibenwischer an. Erkunden Sie mittags das Theater mit Regenschirm. Die Kirche bietet nachmittags eine trockene Zuflucht. Verbringen Sie den Rest des Tages im Hallenbad und Familienzentrum.",
+            "hu": "Vezessen óvatosan a Diadalívhez az esőben. Délben fedezze fel a Római Színházat esernyővel. A templom száraz menedéket nyújt a délutáni zápor elől. Töltse a nap hátralévő részét zárt térben, az uszodában és a családi központban.",
+            "ro": "Conduceți prudent spre Arc în ploaie. La prânz, explorați Teatrul Roman cu o umbrelă. Biserica oferă un refugiu uscat după-amiaza. Petreceți restul zilei ploioase la interior, la piscină și la centrul pentru familii.",
+            "en": "Drive safely to the Arch, keeping wipers on. By midday, explore the Roman Theatre with an umbrella. The church offers a dry refuge from the afternoon rain. Spend the rest of the rainy day indoors at the pool and the family center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Triumphal Arch of Orange",
+                "hu": "Triumphal Arch of Orange",
+                "ro": "Triumphal Arch of Orange",
+                "en": "Triumphal Arch of Orange"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nutzen Sie das Auto als trockene Basis. Schnappen Sie den Schirm und bewundern Sie die Schnitzereien.",
+                "hu": "Parkoljon a közelben, és használja az autót száraz bázisként. Kapja elő esernyőjét, és csodálja meg a nedvesen fénylő ősi faragványokat.",
+                "ro": "Parcați în apropiere și folosiți mașina ca bază uscată. Luați umbrela pentru a admira scurt sculpturile antice strălucitoare.",
+                "en": "Park nearby and use the car as a dry base. Grab your umbrella to briefly admire the wet, shining ancient carvings."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Theatre of Orange",
+                "hu": "Roman Theatre of Orange",
+                "ro": "Roman Theatre of Orange",
+                "en": "Roman Theatre of Orange"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nah heran, um den Regen zu meiden. Tragen Sie eine wasserdichte Jacke, um die rutschigen Steinstufen zu erkunden.",
+                "hu": "Parkoljon közel, hogy elkerülje a sétát a záporban. Hozzon vízálló kabátot a hatalmas, csúszós kőlépcsők biztonságos bejárásához.",
+                "ro": "Conduceți aproape pentru a evita ploaia. Aduceți o geacă impermeabilă pentru a explora în siguranță treptele de piatră alunecoase.",
+                "en": "Drive close to avoid walking in the downpour. Bring a waterproof jacket to safely explore the massive, slippery stone tiers."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Florent Church",
+                "hu": "Saint-Florent Church",
+                "ro": "Saint-Florent Church",
+                "en": "Saint-Florent Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto bringt Sie in dieses trockene Heiligtum. Das ruhige Innere ist eine friedliche Flucht vor dem Regen.",
+                "hu": "Egy rövid futás a parkoló autótól, és máris a száraz szentélyben van. A csendes belső tér békés menedék a kinti eső elől.",
+                "ro": "Un scurt sprint de la mașină vă aduce în acest sanctuar uscat. Interiorul liniștit este o evadare pașnică din ploaia de afară.",
+                "en": "A short dash from your parked car brings you to this dry sanctuary. The quiet interior is a peaceful escape from the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine L'attente",
+                "hu": "Piscine L'attente",
+                "ro": "Piscine L'attente",
+                "en": "Piscine L'attente"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Schirme im Auto und springen Sie ins beheizte Becken. Der perfekte familienfreundliche Weg, das Wetter zu ignorieren.",
+                "hu": "Hagyja az esernyőket az autóban, és ugorjon be a fűtött medencébe. Ez a tökéletes családbarát módja a rossz idő elfelejtésének.",
+                "ro": "Lăsați umbrelele în mașină și scufundați-vă în piscina interioară. Este modul perfect pentru familii de a ignora ploaia.",
+                "en": "Leave the umbrellas in the car and dive into the heated indoor pool. It is the ultimate family-friendly way to ignore the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "aliya star",
+                "hu": "aliya star",
+                "ro": "aliya star",
+                "en": "aliya star"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt zu diesem Indoor-Zentrum. Es bietet tolle Aktivitäten für Groß und Klein und hält alle trocken und unterhalten.",
+                "hu": "Vezessen egyenesen ehhez a szórakoztató benti központhoz. Remek programokat kínál kicsiknek és nagyoknak, miközben mindenki száraz marad.",
+                "ro": "Conduceți direct la acest centru interior distractiv. Oferă activități excelente pentru toate vârstele, ținând pe toată lumea la uscat.",
+                "en": "Drive directly to this fun indoor center. It offers great activities for kids and adults alike, keeping everyone completely dry and entertained."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie früh für einen kalten Besuch am Bogen. Das Römische Theater ist im Winter beeindruckend, wenn auch kühl. Wärmen Sie sich in der Kirche auf. Genießen Sie nachmittags beheizte Innenaktivitäten im Schwimmbad und Familienzentrum.",
+            "hu": "Induljon korán a Diadalív hideg látogatásához. A Római Színház lenyűgöző télen, bár délben csípős az idő. Melegedjen fel a templomban. Élvezze a fűtött benti programokat az uszodában és a családi központban a korai sötétedéskor.",
+            "ro": "Porniți devreme pentru o vizită rece la Arc. Teatrul Roman este uimitor iarna, deși răcoros la prânz. Încălziți-vă în biserică. Bucurați-vă de activități interioare încălzite la piscină și centrul familial la lăsarea întunericului.",
+            "en": "Start your engine early for a cold visit to the Arch. The Roman Theatre is stunning in winter, though chilly at noon. Warm up inside the church. Enjoy heated indoor activities at the pool and family center as the early sunset arrives."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Triumphal Arch of Orange",
+                "hu": "Triumphal Arch of Orange",
+                "ro": "Triumphal Arch of Orange",
+                "en": "Triumphal Arch of Orange"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung für eine schnelle Rückkehr laufen. Der frostbedeckte Bogen ist an einem Wintermorgen spektakulär.",
+                "hu": "Hagyja járni a fűtést a gyors visszatéréshez. A dérrel borított diadalív látványos egy csípős, tiszta téli reggelen.",
+                "ro": "Lăsați căldura mașinii pornită pentru o întoarcere rapidă. Arcul acoperit de îngheț este spectaculos într-o dimineață de iarnă.",
+                "en": "Keep the car heater running for a quick return. The frost-covered arch is a spectacular sight on a crisp winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Theatre of Orange",
+                "hu": "Roman Theatre of Orange",
+                "ro": "Roman Theatre of Orange",
+                "en": "Roman Theatre of Orange"
+              },
+              "tip_5lang": {
+                "de": "Die große Steinstruktur verstärkt die Kälte. Tragen Sie einen dicken Mantel und kehren Sie danach in Ihr warmes Auto zurück.",
+                "hu": "A színház hatalmas kőszerkezete felerősíti a téli hideget. Viseljen vastag kabátot, és utána melegedjen fel az autóban.",
+                "ro": "Structura mare de piatră a teatrului amplifică frigul. Purtați o haină groasă și întoarceți-vă în mașina caldă pentru a vă dezgheța.",
+                "en": "The theater’s vast stone structure amplifies the winter chill. Wear a thick coat and return to your warm car to thaw out after."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Florent Church",
+                "hu": "Saint-Florent Church",
+                "ro": "Saint-Florent Church",
+                "en": "Saint-Florent Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in die Kirche ein, um sich vor dem eisigen Wind zu schützen. Die ruhige Atmosphäre ist eine tröstliche Winterpause.",
+                "hu": "Lépjen be a templomba, hogy megvédje magát a metsző széltől. A nyugodt atmoszféra megnyugtató déli téli pihenőt nyújt.",
+                "ro": "Intrați în biserică pentru a vă proteja de vântul tăios. Atmosfera liniștită este o pauză reconfortantă de iarnă la prânz.",
+                "en": "Step into the church to shield yourself from the biting wind. The tranquil atmosphere is a comforting midday winter pause."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine L'attente",
+                "hu": "Piscine L'attente",
+                "ro": "Piscine L'attente",
+                "en": "Piscine L'attente"
+              },
+              "tip_5lang": {
+                "de": "Die Flucht vor dem Frost ist hier einfach. Das Hallenbad bietet tolle, warme Erholung, während die Nachmittagssonne untergeht.",
+                "hu": "Itt könnyű elmenekülni a téli fagy elől. A fedett medence fantasztikus, meleg kikapcsolódást nyújt, ahogy a délutáni nap lemegy.",
+                "ro": "Evadarea din înghețul iernii este ușoară aici. Piscina oferă o recreere caldă și fantastică pe măsură ce soarele apune devreme.",
+                "en": "Escaping the winter freeze is easy here. The indoor pool provides fantastic, warm recreation as the afternoon sun begins to set."
+              }
+            },
+            {
+              "name": {
+                "de": "aliya star",
+                "hu": "aliya star",
+                "ro": "aliya star",
+                "en": "aliya star"
+              },
+              "tip_5lang": {
+                "de": "Wenn es um 17 Uhr dunkel und eiskalt ist, ist dieser Indoor-Spielplatz ideal. Lassen Sie die Familie in einer warmen Umgebung spielen.",
+                "hu": "Amikor 5 órára már sötét és fagyos kint, ez a benti játszóház ideális. Hagyja a családot energiát levezetni egy fűtött, otthonos környezetben.",
+                "ro": "Când e întuneric la ora 17 și înghețat, acest loc de joacă interior e ideal. Lăsați familia să-și consume energia într-un mediu cald.",
+                "en": "When it is dark by 5 PM and freezing outside, this indoor playground is ideal. Let the family burn off energy in a cozy, heated environment."
+              }
+            }
+          ]
+        }
       }
     }
   }

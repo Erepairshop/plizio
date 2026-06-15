@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Mirecourt történelmi központjában. Merüljön el a zenei örökségben a hegedűkészítő múzeumban, majd sétáljon át a folyón az idilli kápolnához. Egy pihentető este a hangulatos utcákon tökéletes befejezés.",
         "ro": "Începeți ziua în centrul istoric al Mirecourt. Explorați moștenirea muzicală la muzeul viorilor, apoi plimbați-vă peste râu până la idilica capelă. O seară relaxantă pe străzile fermecătoare completează perfect ziua.",
         "en": "Start the day in the historic core of Mirecourt. Delve into the musical heritage at the violin making museum, then stroll across the river to the idyllic chapel. A relaxing evening in the charming streets rounds off the day perfectly."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen mit dem Rathaus und der überdachten Markthalle. Suchen Sie mittags Schutz in der schönen Notre-Dame Kirche. Verbringen Sie den nassen Nachmittag im faszinierenden Geigenbaumuseum. Beenden Sie den Spaziergang sicher an der Chapelle de la Oultre; Vorsicht auf rutschigem Kopfsteinpflaster.",
+            "hu": "Kezdje az esős reggelt a városháza és a fedett vásárcsarnok felfedezésével. Délben keressen menedéket a gyönyörű Notre-Dame templomban. A csapadékos délutánt töltse a lenyűgöző Hegedűkészítő Múzeumban. Zárja esős sétáját a biztonságot nyújtó Oultre kápolnánál, vigyázva a csúszós macskaköveken.",
+            "ro": "Începeți dimineața ploioasă explorând primăria și piața acoperită. La prânz, adăpostiți-vă în frumoasa biserică Notre-Dame. Petreceți după-amiaza ploioasă în interior, la fascinantul Muzeu al Viorilor. Încheiați plimbarea umedă în siguranță la Capela de la Oultre, având grijă la piatra cubică alunecoasă.",
+            "en": "Start your rainy morning exploring the town hall and the covered market. By midday, find shelter in the beautiful Notre-Dame Church. Spend the rainy afternoon indoors at the fascinating Violin Museum. Conclude your wet walk safely at the Chapelle de la Oultre, taking care on slippery cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Mirecourt",
+                "hu": "Mirecourt Városháza",
+                "ro": "Primăria Mirecourt",
+                "en": "Mirecourt Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Schirm; der Eingang bietet eine kurze Zuflucht vor dem Regen.",
+                "hu": "Csodálja meg az építészetet esernyő alól; a bejárat rövid menedéket nyújt az eső elől.",
+                "ro": "Admirați arhitectura de sub umbrelă; intrarea oferă un scurt refugiu din calea ploii.",
+                "en": "Admire the civic architecture from under an umbrella; the entrance offers a brief respite from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle Mirecourt",
+                "hu": "Mirecourt Vásárcsarnok",
+                "ro": "Hala Pieței Mirecourt",
+                "en": "Mirecourt Market Hall"
+              },
+              "tip_5lang": {
+                "de": "Diese historische, überdachte Struktur ist ideal, um sich vor Schauern zu verstecken und die Holzbalken zu bewundern.",
+                "hu": "Tökéletes menedék a felhőszakadások elől ez a történelmi fedett csarnok, ahol megcsodálhatja a fagerendákat.",
+                "ro": "Această structură istorică acoperită este perfectă pentru a vă ascunde de ploaie în timp ce admirați grinzile din lemn.",
+                "en": "This historical covered structure is perfect for hiding from downpours while admiring its massive wooden beams."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem Nieselregen zu entkommen, und lassen Sie die Buntglasfenster den trüben Tag erhellen.",
+                "hu": "Lépjen be a szitáló eső elől, és hagyja, hogy a lenyűgöző ólomüveg ablakok felvidítsák a borús napot.",
+                "ro": "Pășiți înăuntru pentru a scăpa de burniță și lăsați vitraliile uimitoare să lumineze ziua mohorâtă.",
+                "en": "Step inside to escape the drizzle and let the stunning stained glass windows brighten the gloomy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Geigenbaumuseum",
+                "hu": "Hegedűkészítő Múzeum",
+                "ro": "Muzeul Viorilor",
+                "en": "Musée de la lutherie et de l’archèterie"
+              },
+              "tip_5lang": {
+                "de": "Der beste Rückzugsort an einem nassen Tag; tauchen Sie in die warme Akustik und die Geschichte des Instrumentenbaus ein.",
+                "hu": "A legjobb beltéri program egy nedves napon; merüljön el a hangszerkészítés meleg akusztikájában és történetében.",
+                "ro": "Cea mai bună evadare pe timp de ploaie; scufundați-vă în acustica caldă și istoria fabricării instrumentelor.",
+                "en": "The best indoor escape on a wet day; immerse yourself in the warm acoustics and history of instrument making."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Oultre",
+                "hu": "Oultre Kápolna",
+                "ro": "Capela de la Oultre",
+                "en": "Chapelle de la Oultre"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort zum Trocknen nach dem Spaziergang, aber Vorsicht auf dem nassen, rutschigen Weg dorthin.",
+                "hu": "Kellemes menedék, ahol megszáradhat a séta után, de vigyázzon a kápolnához vezető nedves és csúszós ösvényen.",
+                "ro": "Un sanctuar confortabil pentru a vă usca după plimbare, dar aveți grijă pe aleea umedă și alunecoasă.",
+                "en": "A cozy sanctuary to dry off after your walk, but watch your step on the wet path leading up to it."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am Rathaus und der historischen Markthalle. Wärmen Sie sich mittags in der Notre-Dame Kirche auf. Der Nachmittag bringt kulturelle Wärme im Geigenbaumuseum vor dem frühen Sonnenuntergang. Beenden Sie den kühlen Tag an der Chapelle de la Oultre unter dem Winterhimmel.",
+            "hu": "A csípős téli reggel a városházánál és a történelmi piacon indul. Délben melegedjen fel a Notre-Dame templom vastag falai között. A délután kulturális meleget hoz a Hegedűkészítő Múzeumban a korai naplemente előtt. Zárja a hűvös napot az Oultre kápolnánál a kora esti téli égbolt alatt.",
+            "ro": "O dimineață de iarnă proaspătă începe la primărie și piața istorică. La prânz, încălziți-vă în interiorul bisericii Notre-Dame. După-amiaza aduce căldură culturală la Muzeul Viorilor înainte de apusul timpuriu. Încheiați ziua friguroasă la Capela de la Oultre sub cerul seral de iarnă.",
+            "en": "A crisp winter morning starts at the town hall and historic market. At noon, warm up inside the thick walls of the Notre-Dame Church. The afternoon brings cultural warmth at the Violin Museum before the early sunset. End the chilly day at the Chapelle de la Oultre under the early evening winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Mirecourt",
+                "hu": "Mirecourt Városháza",
+                "ro": "Primăria Mirecourt",
+                "en": "Mirecourt Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, um die Fassade zu schätzen, bevor die eisige Morgenluft zu sehr beißt.",
+                "hu": "Öltözzön rétegesen, hogy megcsodálhassa a homlokzatot, mielőtt a fagyos reggeli levegő túlságosan csípne.",
+                "ro": "Îmbrăcați-vă în straturi calde pentru a aprecia fațada înainte ca aerul înghețat al dimineții să vă pătrundă.",
+                "en": "Dress in warm layers to appreciate the civic facade before the frosty morning air bites too hard."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle Mirecourt",
+                "hu": "Mirecourt Vásárcsarnok",
+                "ro": "Hala Pieței Mirecourt",
+                "en": "Mirecourt Market Hall"
+              },
+              "tip_5lang": {
+                "de": "Die offenen Seiten lassen den Winterwind durch, also behalten Sie den Schal bei der Erkundung des Daches an.",
+                "hu": "A nyitott oldalak beengedik a téli szelet, így tartsa magán a sálat a történelmi fatető felfedezése közben.",
+                "ro": "Părțile deschise lasă briza de iarnă să treacă, așa că păstrați fularul în timp ce explorați acoperișul istoric.",
+                "en": "The open sides let the winter breeze through, so keep your scarf on while exploring the historic timber roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten eine stille Winterkälte und machen die ruhige Atmosphäre drinnen magischer.",
+                "hu": "A vastag kőfalak csendes téli hideget árasztanak, ami a benti békés atmoszférát még varázslatosabbá teszi.",
+                "ro": "Pereții groși de piatră mențin un frig tăcut de iarnă, făcând atmosfera senină din interior și mai magică.",
+                "en": "The heavy stone walls hold a quiet winter chill, making the serene atmosphere inside even more magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Geigenbaumuseum",
+                "hu": "Hegedűkészítő Múzeum",
+                "ro": "Muzeul Viorilor",
+                "en": "Musée de la lutherie et de l’archèterie"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekt beheizte Zuflucht vor den eisigen Temperaturen mit tiefen Einblicken in das musikalische Erbe.",
+                "hu": "Tökéletesen fűtött menedék a fagyos hőmérséklet elől, amely mély bepillantást nyújt a helyi zenei örökségbe.",
+                "ro": "Un refugiu perfect încălzit împotriva temperaturilor de îngheț, oferind o incursiune în moștenirea muzicală.",
+                "en": "A perfectly heated refuge from the freezing temperatures, offering deep dives into local musical heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Oultre",
+                "hu": "Oultre Kápolna",
+                "ro": "Capela de la Oultre",
+                "en": "Chapelle de la Oultre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Ort vor dem Sonnenuntergang um 17 Uhr, um das letzte Winterlicht auf den alten Mauern zu sehen.",
+                "hu": "Látogasson el ide a délután 5 órás naplemente előtt, hogy elcsípje az ősi kápolnafalakon megcsillanó utolsó téli fényeket.",
+                "ro": "Vizitați înainte de apusul de la ora 17:00 pentru a prinde ultima lumină de iarnă strălucind pe zidurile antice.",
+                "en": "Visit before the 5 PM sunset to catch the last winter light glowing against the ancient chapel walls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon a központba a régi vásárcsarnokhoz és a múzeumhoz. Délben tekerjen át a folyón Mattaincourt felé, hogy felfedezze a lenyűgöző bazilikát és a békés kápolnákat. Kellemes visszatérés este.",
         "ro": "Ciclism spre centru, la vechea hală a pieței și muzeul de instrumente. La prânz, mergeți peste râu spre Mattaincourt pentru a descoperi bazilica impresionantă și capelele liniștite. O întoarcere blândă seara.",
         "en": "Cycle into the center to the old market hall and the luthiery museum. At midday, ride across the river and on to Mattaincourt to discover the impressive basilica and peaceful chapels. A gentle ride back in the evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre regnerische Radtour beginnt unter dem schützenden Dach der Markthalle. Parken Sie mittags das Rad und trocknen Sie sich im Museum. Fahren Sie am feuchten Nachmittag vorsichtig zur Chapelle de la Oultre. Beenden Sie den nassen Abend bei den Basiliken, bremsen Sie sanft auf rutschigen Straßen.",
+            "hu": "Esős kerékpártúrája a Vásárcsarnok védelmet nyújtó teteje alatt kezdődik. Délben parkolja le a bringát és szárítkozzon a Múzeumban. A nedves délutánt óvatos pedálozással töltse az Oultre kápolnáig. Zárja a vizes estét a bazilikáknál, mindig finoman fékezve a csúszós utakon.",
+            "ro": "Turul ploios cu bicicleta începe sub acoperișul protector al Halei Pieței. La prânz, parcați bicicleta și uscați-vă la Muzeu. Petreceți după-amiaza umedă pedalând cu grijă spre Capela de la Oultre. Încheiați seara umedă vizitând bazilicile, frânând mereu ușor pe drumurile alunecoase.",
+            "en": "Your rainy bike tour begins under the protective roof of the Market Hall. By midday, park your bike and dry off inside the Violin Museum. Spend the damp afternoon riding carefully to the Chapelle de la Oultre. End your wet evening visiting the basilicas, always braking gently on slippery roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Markthalle Mirecourt",
+                "hu": "Mirecourt Vásárcsarnok",
+                "ro": "Hala Pieței Mirecourt",
+                "en": "Mirecourt Market Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Startpunkt, um die Regenkleidung unter dem großen Holzdach vor den nassen Straßen anzupassen.",
+                "hu": "Remek kiindulópont, ahol a hatalmas fa menedék alatt beállíthatja esőruházatát a vizes utcák előtt.",
+                "ro": "Un punct excelent pentru a vă ajusta pelerina de ploaie sub marele adăpost de lemn înainte de străzile ude.",
+                "en": "Great starting point to adjust your rain gear under the vast wooden shelter before hitting the wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Geigenbaumuseum",
+                "hu": "Hegedűkészítő Múzeum",
+                "ro": "Muzeul Viorilor",
+                "en": "Musée de la lutherie et de l’archèterie"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad im Regen sicher ab und betreten Sie diese trockene Oase, um mehr über Instrumente zu lernen.",
+                "hu": "Zárja le biztonságosan a biciklit az esőben, és lépjen be ebbe a száraz kulturális menedékbe a hangszerekért.",
+                "ro": "Legați bicicleta bine în ploaie și intrați în acest refugiu cultural uscat pentru a învăța despre instrumente.",
+                "en": "Lock your bike securely in the rain and step into this dry cultural haven to learn about string instruments."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Oultre",
+                "hu": "Oultre Kápolna",
+                "ro": "Capela de la Oultre",
+                "en": "Chapelle de la Oultre"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg hierhin kann Pfützen haben; fahren Sie langsam und genießen Sie die regnerische Atmosphäre.",
+                "hu": "Az idevezető kerékpárút pocsolyás lehet; haladjon lassan, és élvezze a hangulatos, eső áztatta atmoszférát.",
+                "ro": "Pista de biciclete de aici poate avea bălți; mergeți încet și bucurați-vă de atmosfera umedă și melancolică.",
+                "en": "The cycle path here might have puddles; take it slow and enjoy the moody, rain-swept atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Pierre-Fourier",
+                "hu": "Saint-Pierre-Fourier Bazilika",
+                "ro": "Bazilica Saint-Pierre-Fourier",
+                "en": "Basilique Saint-Pierre-Fourier"
+              },
+              "tip_5lang": {
+                "de": "Der riesige Innenraum bietet eine hervorragende Flucht vor den Schauern; halten Sie nasse Ausrüstung nahe der Tür.",
+                "hu": "A grandiózus belső tér kiváló menedéket nyújt a záporok elől; vizes felszerelését tartsa az ajtó közelében.",
+                "ro": "Interiorul grandios oferă o evadare excelentă din calea averselor; păstrați echipamentul ud lângă ușă.",
+                "en": "The grand interior provides an excellent escape from the showers; keep your wet gear near the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des guten Saint-Pierre-Fourier",
+                "hu": "Jó Saint-Pierre-Fourier Kápolna",
+                "ro": "Capela Bunului Saint-Pierre-Fourier",
+                "en": "Chapelle du Bon Saint-Pierre-Fourrier"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze, feuchte Fahrt führt zu diesem kleinen Heiligtum, wo Sie dem anhaltenden Regen entfliehen können.",
+                "hu": "Rövid, nedves tekerés vezet ehhez a kis szentélyhez, ahol egy kis időre elmenekülhet a kitartó eső elől.",
+                "ro": "O pedalare scurtă și umedă vă duce la acest mic sanctuar, unde puteți scăpa pentru scurt timp de ploaie.",
+                "en": "A short, damp ride leads to this small sanctuary where you can briefly escape the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kapelle",
+                "hu": "Notre-Dame Kápolna",
+                "ro": "Capela Notre-Dame",
+                "en": "Chapelle Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Regenfahrt mit stiller Reflexion, aber achten Sie auf dem Rückweg auf rutschiges Laub.",
+                "hu": "Zárja esős útját csendes elmélkedéssel itt, de visszafelé különösen ügyeljen a csúszós falevelekre.",
+                "ro": "Încheiați cursa ploioasă cu o reflecție liniștită aici, dar fiți foarte atenți la frunzele alunecoase la întoarcere.",
+                "en": "Finish your rainy ride with quiet reflection here, but be extra cautious of slippery leaves on your way back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für die frostige Morgenfahrt ab der Markthalle. Mittags erwartet Sie Wärme im faszinierenden Museum. Treten Sie am frischen Nachmittag zügig zur Chapelle de la Oultre und der Basilika. Beenden Sie die Tour, bevor die frühe Dunkelheit über den Kapellen hereinbricht.",
+            "hu": "Öltözzön melegen a fagyos reggeli tekeréshez, amely a történelmi Vásárcsarnoktól indul. Délben a Múzeum melege várja. A csípős délutánon pedálozzon tempósan az Oultre kápolna és a Bazilika felé. Fejezze be a túrát, mielőtt a korai sötétség leszáll a csendes kápolnák körül.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală geroasă, pornind de la Hala Pieței. Căldura de la prânz vă așteaptă la Muzeu. În după-amiaza rece, pedalați rapid spre Capela de la Oultre și Bazilică. Încheiați turul înainte ca întunericul timpuriu să se lase peste capelele liniștite.",
+            "en": "Bundle up for a frosty morning ride starting at the historic Market Hall. Midday warmth awaits at the fascinating Violin Museum. During the crisp afternoon, pedal quickly to the Chapelle de la Oultre and the Basilica. Wrap up before the early dark descends around the quiet chapels."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Markthalle Mirecourt",
+                "hu": "Mirecourt Vásárcsarnok",
+                "ro": "Hala Pieței Mirecourt",
+                "en": "Mirecourt Market Hall"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie die Radhandschuhe an, während Sie die Holzstruktur bewundern, da der Winterwind hindurchweht.",
+                "hu": "Tartsa magán a kerékpáros kesztyűt, miközben megcsodálja a faszerkezetet, mert a téli szél átfúj rajta.",
+                "ro": "Păstrați mănușile de ciclism în timp ce admirați structura de lemn, deoarece vântul de iarnă o străbate.",
+                "en": "Keep your cycling gloves on while marveling at the timber structure, as the winter wind sweeps right through."
+              }
+            },
+            {
+              "name": {
+                "de": "Geigenbaumuseum",
+                "hu": "Hegedűkészítő Múzeum",
+                "ro": "Muzeul Viorilor",
+                "en": "Musée de la lutherie et de l’archèterie"
+              },
+              "tip_5lang": {
+                "de": "Ein gut geheizter Boxenstopp, um die Finger aufzutauen und das reiche Erbe des Instrumentenbaus zu entdecken.",
+                "hu": "Jól fűtött pihenő, ahol kiolvaszthatja ujjait, miközben felfedezi a város gazdag hangszerkészítő örökségét.",
+                "ro": "O oprire bine încălzită pentru a vă dezgheța degetele în timp ce descoperiți moștenirea fabricării instrumentelor.",
+                "en": "A well-heated pit stop to thaw your fingers while discovering the town's rich string instrument heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Oultre",
+                "hu": "Oultre Kápolna",
+                "ro": "Capela de la Oultre",
+                "en": "Chapelle de la Oultre"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft ist bei der Fahrt erfrischend; die kahlen Bäume bieten einen wunderschönen Blick auf die Kapelle.",
+                "hu": "A téli levegő üdítő az idevezető úton; a csupasz fák rideg, de gyönyörű kilátást nyújtanak a kápolnára.",
+                "ro": "Aerul de iarnă este revigorant la pedalare; copacii goi oferă vederi clare și frumoase ale capelei.",
+                "en": "The winter air is bracing on the ride here; the bare trees offer stark, beautiful views of the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Pierre-Fourier",
+                "hu": "Saint-Pierre-Fourier Bazilika",
+                "ro": "Bazilica Saint-Pierre-Fourier",
+                "en": "Basilique Saint-Pierre-Fourier"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das majestätische, wenn auch kühle Kirchenschiff, bevor die Wintersonne verblasst.",
+                "hu": "Lépjen be a fenséges, bár hűvös főhajóba, hogy megcsodálja az építészetet, mielőtt a téli nap lebukik.",
+                "ro": "Pășiți în nava maiestuoasă, deși răcoroasă, pentru a-i admira arhitectura înainte ca soarele de iarnă să apună.",
+                "en": "Step into the majestic, albeit chilly, nave to admire its architecture before the winter sun fades."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des guten Saint-Pierre-Fourier",
+                "hu": "Jó Saint-Pierre-Fourier Kápolna",
+                "ro": "Capela Bunului Saint-Pierre-Fourier",
+                "en": "Chapelle du Bon Saint-Pierre-Fourrier"
+              },
+              "tip_5lang": {
+                "de": "Eine flotte Fahrt bringt Sie zu diesem stillen Ort; die winterliche Einsamkeit macht den Besuch sehr friedlich.",
+                "hu": "Tempós tekerés visz ehhez a csendes helyhez; a téli magány hihetetlenül békéssé teszi a látogatást.",
+                "ro": "O pedalare rapidă vă aduce în acest loc liniștit; singurătatea iernii face vizita incredibil de pașnică.",
+                "en": "A brisk pedal brings you to this quiet spot; the winter solitude makes the visit incredibly peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kapelle",
+                "hu": "Notre-Dame Kápolna",
+                "ro": "Capela Notre-Dame",
+                "en": "Chapelle Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass das Fahrradlicht an ist, da sich die winterlichen Abendschatten hier schnell sammeln.",
+                "hu": "Gondoskodjon róla, hogy a kerékpárlámpák fel legyenek kapcsolva, mert a téli esti árnyékok gyorsan gyülekeznek.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt aprinse, deoarece umbrele serale de iarnă se adună rapid aici.",
+                "en": "Ensure your bike lights are on for this final stop, as the winter evening shadows gather quickly here."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Először vezessen Poussay-ba, mielőtt felfedezné Mirecourt vásárcsarnokát és hegedűkészítő múzeumát. Délután kényelmesen utazzon Mattaincourt-ba a nagy bazilikához és a szomszédos kápolnákhoz.",
         "ro": "Conduceți mai întâi spre Poussay, înainte de a explora hala pieței și muzeul de viori din Mirecourt. După-amiaza, mergeți confortabil la Mattaincourt la marea bazilică și capelele învecinate.",
         "en": "Drive first to Poussay before exploring the market hall and violin making museum in Mirecourt. In the afternoon, travel comfortably to Mattaincourt to see the grand basilica and neighboring chapels."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am regnerischen Morgen sicher zur St. Mauritius Kirche und zur Markthalle. Verbringen Sie den Mittag trocken im weitläufigen Museum. Der feuchte Nachmittag erfordert kurze Sprints vom Auto zur Chapelle de la Oultre. Beenden Sie den Abend mit einer vorsichtigen Fahrt zu den Basiliken.",
+            "hu": "Vezessen óvatosan az esős reggelen a Szent Móric templomhoz és a Vásárcsarnokhoz. A delet töltse teljesen szárazon a tágas Múzeumban. A vizes délutánon tegyen rövid sprinteket az autótól az Oultre kápolnáig. Az estét zárja a bazilikák gondos, esőben történő megközelítésével.",
+            "ro": "Conduceți în siguranță în dimineața ploioasă spre Biserica St. Maurice și Hala Pieței. Petreceți prânzul complet uscat în spațiosul Muzeu. După-amiaza umedă necesită alergări scurte de la mașină la Capela de la Oultre. Încheiați seara conducând cu atenție spre marile bazilici în ploaie.",
+            "en": "Drive safely through the rainy morning to St. Maurice Church and the Market Hall. Spend midday completely dry inside the expansive Violin Museum. The wet afternoon calls for short dashes from the car to the Chapelle de la Oultre. Conclude the evening driving carefully to the grand basilicas in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Mauritius Kirche",
+                "hu": "Szent Móric Templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Église Saint-Maurice"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Regenschirm im Auto bereit für den kurzen Weg zu den beeindruckenden gotischen Details der Kirche.",
+                "hu": "Tartson kéznél egy esernyőt az autóban a rövid sétához, hogy megnézze a templom lenyűgöző gótikus részleteit.",
+                "ro": "Păstrați o umbrelă la îndemână în mașină pentru scurta plimbare spre detaliile gotice impresionante ale bisericii.",
+                "en": "Keep an umbrella handy in the car for the short walk to see the church's impressive Gothic details."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle Mirecourt",
+                "hu": "Mirecourt Vásárcsarnok",
+                "ro": "Hala Pieței Mirecourt",
+                "en": "Mirecourt Market Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und treten Sie unter das historische Dach, ein perfekter architektonischer Schutz vor Starkregen.",
+                "hu": "Parkoljon a közelben, és lépjen be a hatalmas történelmi tető alá, amely tökéletes építészeti menedék az eső elől.",
+                "ro": "Parcați aproape și pășiți sub acoperișul istoric masiv, un adăpost arhitectural perfect împotriva ploii torențiale.",
+                "en": "Park close by and step under the massive historical roof, a perfect architectural shelter from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Geigenbaumuseum",
+                "hu": "Hegedűkészítő Múzeum",
+                "ro": "Muzeul Viorilor",
+                "en": "Musée de la lutherie et de l’archèterie"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Indoor-Heiligtum für Regentage; lassen Sie das nasse Wetter hinter sich und erkunden Sie die Musikgeschichte.",
+                "hu": "A végső beltéri menedék egy esős napon; hagyja maga mögött a nedves időt, és fedezze fel a zenei történelmet.",
+                "ro": "Sanctuarul interior suprem pentru zile ploioase; lăsați vremea umedă în urmă și explorați istoria muzicală.",
+                "en": "The ultimate indoor sanctuary for a rainy day; leave the wet weather behind and explore the musical history."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Oultre",
+                "hu": "Oultre Kápolna",
+                "ro": "Capela de la Oultre",
+                "en": "Chapelle de la Oultre"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz könnte matschig sein, tragen Sie also wasserdichte Schuhe für den kurzen Spaziergang zur Kapelle.",
+                "hu": "A parkoló saras lehet, így viseljen erős, vízálló cipőt a kápolnához vezető rövid sétához.",
+                "ro": "Parcarea poate fi noroioasă, deci purtați încălțăminte rezistentă la apă pentru scurta plimbare până la capelă.",
+                "en": "The parking area might be muddy, so wear sturdy waterproof shoes for the brief walk to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Pierre-Fourier",
+                "hu": "Saint-Pierre-Fourier Bazilika",
+                "ro": "Bazilica Saint-Pierre-Fourier",
+                "en": "Basilique Saint-Pierre-Fourier"
+              },
+              "tip_5lang": {
+                "de": "Der große Innenraum bietet einen trockenen, friedlichen Rückzugsort vor dem unerbittlichen Regen draußen.",
+                "hu": "A tágas belső tér száraz, békés menedéket nyújt a kint zuhogó könyörtelen eső elől.",
+                "ro": "Interiorul spațios oferă o retragere uscată și pașnică din calea ploii neîncetate care cade afară.",
+                "en": "The large interior offers a dry, peaceful retreat from the relentless rain pouring outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des guten Saint-Pierre-Fourier",
+                "hu": "Jó Saint-Pierre-Fourier Kápolna",
+                "ro": "Capela Bunului Saint-Pierre-Fourier",
+                "en": "Chapelle du Bon Saint-Pierre-Fourrier"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen Straßen; die Kapelle bietet einen letzten ruhigen Moment abseits des Nieselregens.",
+                "hu": "Vezessen óvatosan a nedves helyi utakon; a kápolna egy utolsó csendes pillanatot nyújt a szitáló eső elől.",
+                "ro": "Conduceți cu grijă pe drumurile locale ude; capela oferă un ultim moment de liniște departe de burniță.",
+                "en": "Drive carefully on the wet local roads; the chapel offers a final quiet moment out of the drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kalte Wintermorgenfahrt führt zur St. Mauritius Kirche und zur frostigen Markthalle. Genießen Sie eine beheizte Mittagsflucht im faszinierenden Museum. Machen Sie am eisigen Nachmittag kurze Stopps an der Chapelle de la Oultre. Beenden Sie den Tag an den Basiliken vor der frühen Winternacht.",
+            "hu": "Egy hideg téli reggeli autózás a Szent Móric templomhoz és a deres Vásárcsarnokhoz viszi. Élvezze a fűtött déli menedéket a Múzeumban. A fagyos délután során tegyen rövid, festői megállókat az Oultre kápolnánál. Fejezze be a napot a bazilikáknál, még mielőtt leszáll a korai téli éjszaka.",
+            "ro": "O plimbare matinală rece cu mașina vă duce la Biserica St. Maurice și Hala Pieței acoperită de brumă. Bucurați-vă de o evadare încălzită la prânz în Muzeu. În după-amiaza geroasă, faceți scurte opriri pitorești la Capela de la Oultre. Încheiați ziua la bazilici înainte de căderea nopții timpurii.",
+            "en": "A cold winter morning drive takes you to St. Maurice Church and the frosty Market Hall. Enjoy a heated midday escape at the fascinating Violin Museum. During the freezing afternoon, make short scenic stops at the Chapelle de la Oultre. Finish your day at the basilicas before the early winter night falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Mauritius Kirche",
+                "hu": "Szent Móric Templom",
+                "ro": "Biserica Saint-Maurice",
+                "en": "Église Saint-Maurice"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung wird nach der Bewunderung der frostigen Steinfassade dieser gotischen Kirche sehr gut tun.",
+                "hu": "Remekül fog esni az autófűtés, miután kiszállt megcsodálni ennek a gótikus templomnak a deres kőkülsejét.",
+                "ro": "Încălzirea mașinii va fi excelentă după ce ieșiți să admirați exteriorul de piatră înghețată al bisericii.",
+                "en": "The car heater will feel great after stepping out to admire the frosty stone exterior of this gothic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Markthalle Mirecourt",
+                "hu": "Mirecourt Vásárcsarnok",
+                "ro": "Hala Pieței Mirecourt",
+                "en": "Mirecourt Market Hall"
+              },
+              "tip_5lang": {
+                "de": "Obwohl überdacht, bieten die offenen Seiten keinen Schutz vor dem Winterwind, also packen Sie sich warm ein.",
+                "hu": "Bár van teteje, a nyitott oldalak nem védenek a téli széltől, ezért öltözzön fel nagyon melegen.",
+                "ro": "Deși are acoperiș, părțile deschise nu oferă protecție împotriva vântului de iarnă, deci îmbrăcați-vă gros.",
+                "en": "Although it has a roof, the open sides offer no protection from the winter wind, so bundle up warmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Geigenbaumuseum",
+                "hu": "Hegedűkészítő Múzeum",
+                "ro": "Muzeul Viorilor",
+                "en": "Musée de la lutherie et de l’archèterie"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar warmes Inneres erwartet Sie – der perfekte winterliche Rückzugsort, um über Geigenbauer zu lernen.",
+                "hu": "Kellemesen meleg belső tér várja, ami tökéletes téli menedékké teszi a helyi hegedűkészítők megismeréséhez.",
+                "ro": "Un interior minunat de cald vă așteaptă, fiind refugiul perfect de iarnă pentru a învăța despre lutieri.",
+                "en": "A blissfully warm interior awaits you, making it the perfect winter retreat to learn about local luthiers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Oultre",
+                "hu": "Oultre Kápolna",
+                "ro": "Capela de la Oultre",
+                "en": "Chapelle de la Oultre"
+              },
+              "tip_5lang": {
+                "de": "Die Winterlandschaft um die Kapelle ist fotogen; halten Sie den Motor warm für einen schnellen Rückzug.",
+                "hu": "A kápolna körüli téli táj nagyon fotogén; tartsa melegen a motort a gyors visszavonuláshoz.",
+                "ro": "Peisajul de iarnă din jurul capelei este fotogenic; păstrați motorul cald pentru o retragere rapidă la căldură.",
+                "en": "The winter landscape around the chapel is photogenic; keep the engine warm for a quick retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Pierre-Fourier",
+                "hu": "Saint-Pierre-Fourier Bazilika",
+                "ro": "Bazilica Saint-Pierre-Fourier",
+                "en": "Basilique Saint-Pierre-Fourier"
+              },
+              "tip_5lang": {
+                "de": "Die gewaltige Steinbasilika hält die Winterkälte; lassen Sie den Mantel zu, während Sie das Kirchenschiff bewundern.",
+                "hu": "A hatalmas kőbazilika megtartja a téli hideget, így tartsa begombolva a kabátját a főhajó megcsodálásakor.",
+                "ro": "Bazilica masivă din piatră reține frigul iernii; păstrați paltonul închis în timp ce admirați nava.",
+                "en": "The vast stone basilica can hold the winter chill, so keep your coat buttoned while admiring the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des guten Saint-Pierre-Fourier",
+                "hu": "Jó Saint-Pierre-Fourier Kápolna",
+                "ro": "Capela Bunului Saint-Pierre-Fourier",
+                "en": "Chapelle du Bon Saint-Pierre-Fourrier"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Ort vor 17 Uhr bei Tageslicht und achten Sie auf eisige Stellen auf dem Parkplatz.",
+                "hu": "Látogasson el délután 5 előtt, hogy nappali fényben lássa a kápolnát, és ügyeljen a jeges foltokra a parkolóban.",
+                "ro": "Vizitați înainte de ora 17:00 pentru lumina zilei și fiți atenți la porțiunile de gheață din zona de parcare.",
+                "en": "Visit before 5 PM to see the chapel in daylight, and watch for icy patches in the parking area."
+              }
+            }
+          ]
+        }
       }
     }
   }

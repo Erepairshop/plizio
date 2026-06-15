@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az ókori vízvezeték ösvényén, csodálva a római mérnöki munkát. Délben találjon békét az Agia Thekla-nál, és fedezze fel a római romokat. A délutánt töltse a mitológiában elmerülve Athéné szentélyénél. Ahogy közeledik az este, fejezze be történelmi sétáját egy bizánci templom gyönyörű, békés maradványai között a lemenő nap aranyló fényében fürdőzve.",
         "ro": "Începeți dimineața pe calea apeductului antic, admirând ingineria romană. La prânz, găsiți liniște la Agia Thekla și explorați ruinele romane. Petreceți după-amiaza descoperind mitologia la sanctuarul Atenei. Pe măsură ce se apropie seara, încheiați-vă călătoria istorică pe jos printre rămășițele frumoase și liniștite ale unui templu bizantin.",
         "en": "Begin your morning tracing the path of the ancient aqueduct, admiring the brilliance of Roman engineering. By midday, find peace at Agia Thekla and explore the late Roman ruins nearby. Spend your afternoon diving into mythology at the sanctuary of Athena. As evening approaches, conclude your historical walking journey among the beautiful, serene remains of a Byzantine temple."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag beim Aquädukt mit festem Schuhwerk. Mittags bietet die Kirche Agia Thekla Schutz vor Schauern. Erkunden Sie die römischen Ruinen vorsichtig auf rutschigen Pfaden. Beenden Sie die Tour frühzeitig in einem gemütlichen lokalen Café mit einem heißen Getränk, während der Regen draußen an die Scheiben prasselt.",
+            "hu": "Kezdje a reggelt az akveduktnál vízálló cipőben. Délben az Agia Thekla templom nyújt némi menedéket az eső elől. A római kori romokat óvatosan járja be a csúszós talaj miatt. A napot fejezze be egy meleg teával a városban, élvezve a csendes, esős görög délutánt egy barátságos helyen.",
+            "ro": "Începeți dimineața la apeduct cu încălțăminte impermeabilă. La prânz, biserica Agia Thekla oferă adăpost împotriva ploii. Explorați ruinele romane cu mare atenție pe potecile alunecoase. Încheiați ziua devreme într-o cafenea locală primitoare, savurând o băutură caldă în timp ce plouă liniștit afară.",
+            "en": "Start the morning at the aqueduct with waterproof shoes. At noon, Agia Thekla church provides shelter from the showers. Explore the Roman ruins carefully due to slippery ground. End the day early with a warm drink in town, taking in the misty atmosphere of the Greek landscape under the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Adrianeio Udragogeio Agias Paraskeues",
+                "hu": "Adrianeio Udragogeio Agias Paraskeues",
+                "ro": "Adrianeio Udragogeio Agias Paraskeues",
+                "en": "Adrianeio Udragogeio Agias Paraskeues"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antike Ingenieurskunst; bei Regen glänzen die Steine besonders schön, tragen Sie jedoch unbedingt rutschfeste Wanderschuhe für die Pfade.",
+                "hu": "Csodálja meg az akvedukt ókori mérnöki munkáját; esőben a kövek különleges fényt kapnak, de a sár miatt mindenképpen viseljen csúszásmentes túrabakancsot.",
+                "ro": "Admirați ingineria antică a apeductului; pe ploaie pietrele strălucesc spectaculos, dar asigurați-vă că purtați bocanci aderenți pentru a evita alunecarea pe noroi.",
+                "en": "Admire the ancient engineering of the aqueduct; the stones shine beautifully in the rain, but be sure to wear non-slip hiking boots for the muddy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Thekla",
+                "hu": "Agia Thekla",
+                "ro": "Agia Thekla",
+                "en": "Agia Thekla"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche bietet einen trockenen Rückzugsort; nutzen Sie die Zeit für eine meditative Pause, während Sie das rhythmische Trommeln des Regens genießen.",
+                "hu": "Ez a kis templom száraz menedéket nyújt; használja ki az időt egy rövid, meditatív pihenőre, miközben hallgatja az eső ritmusos kopogását a tetőn.",
+                "ro": "Această mică biserică oferă un refugiu uscat; folosiți timpul pentru o scurtă pauză meditativă în timp ce ascultați ropotul ploii pe acoperiș.",
+                "en": "This small church offers a dry sanctuary; use the time for a short, meditative break while listening to the rhythmic sound of rain on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Usteroromaiko ktisma",
+                "hu": "Usteroromaiko ktisma",
+                "ro": "Usteroromaiko ktisma",
+                "en": "Usteroromaiko ktisma"
+              },
+              "tip_5lang": {
+                "de": "Die römischen Strukturen wirken im grauen Licht sehr atmosphärisch; halten Sie einen großen Regenschirm bereit, da es vor Ort keinerlei Überdachung gibt.",
+                "hu": "A római kori építmények nagyon hangulatosak a szürke fényben; tartson készenlétben egy nagy esernyőt, mivel a helyszínen egyáltalán nincs fedett rész.",
+                "ro": "Structurile romane par foarte atmosferice în lumina gri; pregătiți o umbrelă mare, deoarece la fața locului nu există deloc zone acoperite.",
+                "en": "The Roman structures look very atmospheric in the grey light; keep a large umbrella ready as there are no covered areas at the site at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Iero Pallenidos Athenas",
+                "hu": "Iero Pallenidos Athenas",
+                "ro": "Iero Pallenidos Athenas",
+                "en": "Iero Pallenidos Athenas"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Heiligtum der Athene; die nassen Ausgrabungen offenbaren Details, die bei Trockenheit oft verborgen bleiben, aber Vorsicht vor Pfützen.",
+                "hu": "Fedezze fel Athéné szentélyét; a nedves köveken olyan részletek is látszanak, amik szárazon nem, de vigyázzon a mélyebb pocsolyákra az út mentén.",
+                "ro": "Explorați sanctuarul Atenei; săpăturile umede dezvăluie detalii care rămân ascunse la secetă, dar aveți grijă la bălțile adânci de pe drum.",
+                "en": "Explore the sanctuary of Athena; the wet excavations reveal details often hidden when dry, but watch out for deep puddles along the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Ereipeia Buzantinou Naou",
+                "hu": "Ereipeia Buzantinou Naou",
+                "ro": "Ereipeia Buzantinou Naou",
+                "en": "Ereipeia Buzantinou Naou"
+              },
+              "tip_5lang": {
+                "de": "Die byzantinischen Ruinen wirken im Regen mystisch; ein Regenponcho ist hier ideal, um beide Hände für Fotos der glänzenden Mauerreste frei zu haben.",
+                "hu": "A bizánci romok misztikusnak tűnnek az esőben; egy esőponcho ideális választás, hogy mindkét keze szabad maradjon a csillogó falak fotózásához.",
+                "ro": "Ruinele bizantine par mistice în ploaie; o pelerină de ploaie este ideală pentru a avea ambele mâini libere pentru fotografierea zidurilor lucioase.",
+                "en": "The Byzantine ruins look mystical in the rain; a rain poncho is ideal here to keep both hands free for photographing the shiny remains of the walls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens am Aquädukt ist die Luft klar und kalt. Mittags wärmt die Wintersonne die antiken Steine der Agia Thekla. Achten Sie nachmittags auf das besondere Licht bei den Ruinen. Da die Sonne gegen 17 Uhr untergeht, kehren Sie rechtzeitig zurück, bevor die Abendkälte einsetzt.",
+            "hu": "Kora reggel az akveduktnál friss és hideg a levegő. Délben a téli napsütés kellemesen melegíti az Agia Thekla köveit. Délután csodálja meg a romokat a súroló fényben. Mivel a nap 17 órakor lemegy, időben érjen vissza a városba, mielőtt beállna az éjszakai fagy.",
+            "ro": "Dimineața devreme la apeduct aerul este rece și curat. La prânz, soarele de iarnă încălzește pietrele de la Agia Thekla. După-amiaza admirați ruinele în lumina caldă a soarelui jos. Deoarece soarele apune la ora 17, reveniți la timp înainte de lăsarea frigului.",
+            "en": "Early morning at the aqueduct is crisp and cold. At noon, the winter sun warms the ancient stones of Agia Thekla. In the afternoon, enjoy the ruins in the low winter light. Since the sun sets at 17:00, return to town in time before the evening chill takes over."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Adrianeio Udragogeio Agias Paraskeues",
+                "hu": "Adrianeio Udragogeio Agias Paraskeues",
+                "ro": "Adrianeio Udragogeio Agias Paraskeues",
+                "en": "Adrianeio Udragogeio Agias Paraskeues"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Aquädukt am besten direkt am Morgen; die klare Winterluft ermöglicht weite Sicht auf die Konstruktion, tragen Sie warme Handschuhe.",
+                "hu": "Látogassa meg az akveduktot rögtön reggel; a tiszta téli levegőben messzire ellátni a szerkezet mentén, de viseljen meleg kesztyűt a szél ellen.",
+                "ro": "Vizitați apeductul chiar dimineața; aerul curat de iarnă permite o vizibilitate excelentă asupra construcției, dar purtați mănuși groase contra vântului.",
+                "en": "Visit the aqueduct first thing in the morning; the clear winter air allows for great views along the structure, but wear warm gloves against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Thekla",
+                "hu": "Agia Thekla",
+                "ro": "Agia Thekla",
+                "en": "Agia Thekla"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, der in der Wintersonne golden leuchtet; nutzen Sie die windgeschützte Seite der Kirche für eine kurze Aufwärmpause in der Sonne.",
+                "hu": "Békés hely, amely aranylóan ragyog a téli napfényben; használja ki a templom szélvédett oldalát egy rövid, napos melegedő pihenőre.",
+                "ro": "Un loc pașnic care strălucește auriu în lumina iernii; folosiți partea ferită de vânt a bisericii pentru o scurtă pauză de încălzire la soare.",
+                "en": "A peaceful spot glowing golden in the winter sun; use the leeward side of the church for a short, sunny break to warm up during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Usteroromaiko ktisma",
+                "hu": "Usteroromaiko ktisma",
+                "ro": "Usteroromaiko ktisma",
+                "en": "Usteroromaiko ktisma"
+              },
+              "tip_5lang": {
+                "de": "Die spätrömischen Mauern sind im Winter gut sichtbar, da die Vegetation zurückgegangen ist; bringen Sie eine Thermoskanne mit Tee für die Pause mit.",
+                "hu": "A késő római falak télen jól látszanak a gyérebb növényzet miatt; hozzon magával egy termosz meleg teát a romok közötti rövid pihenőhöz.",
+                "ro": "Zidurile romane târzii sunt bine vizibile iarna datorită vegetației rare; aduceți un termos cu ceai cald pentru o pauză scurtă printre ruine.",
+                "en": "The late Roman walls are clearly visible in winter due to sparse vegetation; bring a thermos of hot tea for a quick break among the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Iero Pallenidos Athenas",
+                "hu": "Iero Pallenidos Athenas",
+                "ro": "Iero Pallenidos Athenas",
+                "en": "Iero Pallenidos Athenas"
+              },
+              "tip_5lang": {
+                "de": "Das Heiligtum liegt auf offenem Gelände; kleiden Sie sich im Zwiebelprinzip, um gegen den kalten Nordwind auf der Anhöhe geschützt zu sein.",
+                "hu": "A szentély nyitott területen fekszik; öltözzön rétegesen, hogy védekezzen a dombtetőn fújó hideg északi szél ellen a nézelődés közben.",
+                "ro": "Sanctuarul se află pe un teren deschis; îmbrăcați-vă în straturi pentru a vă proteja de vântul rece din nord pe vârful dealului în timpul vizitei.",
+                "en": "The sanctuary lies in an open area; dress in layers to stay protected from the cold northern wind blowing on the hilltop during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Ereipeia Buzantinou Naou",
+                "hu": "Ereipeia Buzantinou Naou",
+                "ro": "Ereipeia Buzantinou Naou",
+                "en": "Ereipeia Buzantinou Naou"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen vor 16 Uhr, um das warme Licht der untergehenden Sonne zu nutzen; danach sinken die Temperaturen spürbar ab.",
+                "hu": "Látogassa meg a romokat 16 óra előtt, hogy kihasználja a lemenő nap meleg fényeit; ezután a hőmérséklet érezhetően és gyorsan zuhanni kezd.",
+                "ro": "Vizitați ruinele înainte de ora 16 pentru a profita de lumina caldă a apusului; după aceea, temperatura scade brusc și sesizabil.",
+                "en": "Visit the ruins before 16:00 to catch the warm light of the setting sun; after that, temperatures drop noticeably and very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpártúráját a fenséges Kantzas oroszlánnál. Amikor a déli nap melegít, tekerjen el az elhagyatott bányák mellett a csodás római vízvezetékhez. A délután egy csendes kápolnához és Athéné ókori szentélyéhez vezeti Önt. Zárja a napot azzal, hogy még sötétedés előtt felfedezi a helyi tűzoltómúzeum lenyűgöző veterán járműveit és gazdag felszereléseit.",
         "ro": "Începeți turul cu bicicleta la maiestuosul Leu Kantzas. Când soarele amiezii încălzește, pedalați pe lângă minele abandonate spre magnificul apeduct roman. După-amiaza vă aduce la o capelă liniștită și la sanctuarul antic al Atenei. Terminați ziua explorând mașinile de epocă fascinante la muzeul local al pompierilor înainte de lăsarea serii peste oraș.",
         "en": "Kick off your cycling tour at the majestic Kantzas Lion, a stark reminder of antiquity. As the midday sun warms up, pedal past the intriguing abandoned mines towards the magnificent Roman aqueduct. Your afternoon brings you to a quiet chapel and the ancient sanctuary of Athena. Finish the day exploring the fascinating vintage engines at the local fire brigade museum before dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert volle Konzentration. Starten Sie beim Liontari und achten Sie auf rutschige Straßen. Die Steinbrüche sind bei Regen oft schlammig. Mittags bietet das Feuerwehrmuseum einen trockenen und informativen Rückzugsort für mehrere Stunden.",
+            "hu": "Az esős kerékpározás teljes koncentrációt igényel. Induljon a Liontaritól, ügyelve a csúszós aszfaltra. A kőbányák környéke ilyenkor sáros lehet. Délben a Tűzoltómúzeum nyújt száraz és tartalmas menedéket akár több órára is.",
+            "ro": "O tură cu bicicleta pe ploaie necesită concentrare maximă. Porniți de la Liontari, având grijă la asfaltul alunecos. Zona carierelor poate fi noroioasă acum. La prânz, Muzeul Pompierilor oferă un refugiu uscat și interesant pentru câteva ore.",
+            "en": "Cycling in the rain requires full focus. Start at Liontari, being mindful of slippery asphalt. The quarries area can be muddy now. At noon, the Fire Museum provides a dry and informative sanctuary for several hours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liontari Kantzas",
+                "hu": "Liontari Kantzas",
+                "ro": "Liontari Kantzas",
+                "en": "Liontari Kantzas"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start bei dieser antiken Löwenstatue; der Asphalt in der Umgebung wird bei Nässe extrem rutschig.",
+                "hu": "Ellenőrizze a fékeit ennél az ókori oroszlánszobornál; a környék aszfaltja esőben rendkívül csúszóssá válik, közlekedjen óvatosan.",
+                "ro": "Verificați frânele la această statuie antică a leului; asfaltul din zonă devine extrem de alunecos pe ploaie, circulați cu prudență.",
+                "en": "Check your brakes at this ancient lion statue; the surrounding asphalt becomes extremely slippery in the rain, so ride with caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Orukheia Phure",
+                "hu": "Orukheia Phure",
+                "ro": "Orukheia Phure",
+                "en": "Orukheia Phure"
+              },
+              "tip_5lang": {
+                "de": "Die Steinbrüche bieten wenig Schutz; halten Sie den Stopp kurz und achten Sie auf lose Steine, die durch den Regen auf den Weg gespült wurden.",
+                "hu": "A kőbányák kevés menedéket nyújtanak; legyen rövid a megálló, és figyeljen az eső által az útra mosott kavicsokra és laza kövekre.",
+                "ro": "Carierele oferă puțin adăpost; faceți o oprire scurtă și atenție la pietrișul și pietrele aduse de ploaie pe drumul de acces.",
+                "en": "The quarries offer little shelter; keep the stop short and watch out for gravel and loose stones washed onto the path by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Adrianeio Udragogeio Agias Paraskeues",
+                "hu": "Adrianeio Udragogeio Agias Paraskeues",
+                "ro": "Adrianeio Udragogeio Agias Paraskeues",
+                "en": "Adrianeio Udragogeio Agias Paraskeues"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter Bäumen ab, um den Sattel trocken zu halten, während Sie das Aquädukt im Regenschleier bewundern.",
+                "hu": "Parkoljon a fák alá, hogy a nyereg száraz maradjon, miközben az esőfüggönyön keresztül csodálja az akvedukt monumentális íveit.",
+                "ro": "Parcați sub copaci pentru a menține șaua uscată în timp ce admirați arcadele monumentale ale apeductului prin perdeaua de ploaie.",
+                "en": "Park under trees to keep your saddle dry while you admire the monumental arches of the aqueduct through the veil of rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Thekla",
+                "hu": "Agia Thekla",
+                "ro": "Agia Thekla",
+                "en": "Agia Thekla"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach der Kirche für einen schnellen Snack; wischen Sie die Felgen ab, um die Bremsleistung für die Weiterfahrt zu sichern.",
+                "hu": "Használja a templom előtetőjét egy gyors tízóraihoz; törölje át a felniket, hogy biztosítsa a fékhatást a további guruláshoz.",
+                "ro": "Folosiți copertina bisericii pentru o gustare rapidă; ștergeți jantele pentru a asigura eficiența frânării pentru continuarea drumului.",
+                "en": "Use the church porch for a quick snack; wipe down your rims to ensure braking performance for the rest of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Iero Pallenidos Athenas",
+                "hu": "Iero Pallenidos Athenas",
+                "ro": "Iero Pallenidos Athenas",
+                "en": "Iero Pallenidos Athenas"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem unbefestigten Gelände des Heiligtums; tiefe Pfützen können Schlaglöcher im weichen Boden verbergen.",
+                "hu": "Hajtson lassan a szentély burkolatlan területén; a mély pocsolyák alattomos kátyúkat rejthetnek a felázott, puha talajban.",
+                "ro": "Mergeți încet pe terenul neasfaltat al sanctuarului; bălțile adânci pot ascunde gropi periculoase în solul moale și îmbibat.",
+                "en": "Ride slowly on the unpaved ground of the sanctuary; deep puddles can hide treacherous potholes in the soaked, soft soil."
+              }
+            },
+            {
+              "name": {
+                "de": "Purosbestiko Mouseio",
+                "hu": "Purosbestiko Mouseio",
+                "ro": "Purosbestiko Mouseio",
+                "en": "Purosbestiko Mouseio"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight für Regentage; parken Sie das Rad sicher und genießen Sie die riesige Sammlung historischer Löschfahrzeuge im Trockenen.",
+                "hu": "Az esős napok fénypontja; parkoljon le biztonságban, és élvezze a történelmi tűzoltóautók hatalmas gyűjteményét a száraz csarnokban.",
+                "ro": "Punctul culminant al zilelor ploioase; parcați în siguranță și bucurați-vă de colecția uriașă de mașini de pompieri în hala uscată.",
+                "en": "The highlight for rainy days; park safely and enjoy the massive collection of historical fire engines in the dry hall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert warme Kleidung und gute Planung. Die klare Sicht beim Löwen von Kantza ist fantastisch. Mittags wärmt die Sonne auf den Hügeln bei den Steinbrüchen. Planen Sie das Feuerwehrmuseum als krönenden Abschluss ein, bevor es nach 17 Uhr dunkel wird.",
+            "hu": "A téli biciklizéshez meleg ruházat és jó tervezés kell. A tiszta kilátás a kantzai oroszlánnál fantasztikus. Délben a nap kellemesen süt a kőbányák feletti dombokon. A Tűzoltómúzeumot tegye a túra végére, mielőtt 17 óra után sötétedni kezdene.",
+            "ro": "Ciclismul de iarnă necesită haine groase și planificare. Vizibilitatea clară la leul din Kantza este fantastică. La prânz, soarele strălucește plăcut pe dealurile carierelor. Vizitați Muzeul Pompierilor la final, înainte de lăsarea întunericului după ora 17.",
+            "en": "Winter cycling requires warm gear and good planning. The clear views at the Lion of Kantza are fantastic. At noon, the sun shines pleasantly on the hills by the quarries. Visit the Fire Museum last, before it gets dark after 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liontari Kantzas",
+                "hu": "Liontari Kantzas",
+                "ro": "Liontari Kantzas",
+                "en": "Liontari Kantzas"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einem warmen Getränk bei diesem beeindruckenden Löwen; die Wintersonne lässt das Gestein am Vormittag hell leuchten.",
+                "hu": "Kezdje a túrát egy meleg itallal ennél a lenyűgöző oroszlánnál; a téli napfény délelőtt gyönyörűen megvilágítja az ősi kőtömböt.",
+                "ro": "Începeți tura cu o băutură caldă la acest leu impresionant; lumina iernii luminează superb blocul antic de piatră în timpul dimineții.",
+                "en": "Start your ride with a warm drink at this impressive lion; the winter sunlight illuminates the ancient stone block beautifully in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Orukheia Phure",
+                "hu": "Orukheia Phure",
+                "ro": "Orukheia Phure",
+                "en": "Orukheia Phure"
+              },
+              "tip_5lang": {
+                "de": "Die Steinbrüche sind im Winter weniger staubig; genießen Sie die kühle Brise, aber tragen Sie ein Stirnband unter dem Helm gegen den Fahrtwind.",
+                "hu": "A kőbányák télen kevésbé porosak; élvezze a hűvös szellőt, de viseljen vékony sapkát a sisak alatt a menetszél okozta fülfájás ellen.",
+                "ro": "Carierele sunt mai puțin prăfuite iarna; bucurați-vă de briza răcoroasă, dar purtați o căciulă subțire sub cască contra curentului.",
+                "en": "The quarries are less dusty in winter; enjoy the cool breeze, but wear a thin cap under your helmet to protect your ears from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Adrianeio Udragogeio Agias Paraskeues",
+                "hu": "Adrianeio Udragogeio Agias Paraskeues",
+                "ro": "Adrianeio Udragogeio Agias Paraskeues",
+                "en": "Adrianeio Udragogeio Agias Paraskeues"
+              },
+              "tip_5lang": {
+                "de": "Ein schattiger Stopp, der im Winter recht kühl sein kann; halten Sie sich durch Bewegung warm, während Sie die römischen Bögen erkunden.",
+                "hu": "Árnyékos megálló, amely télen meglehetősen hűvös lehet; maradjon mozgásban, miközben felfedezi a római kori boltívek maradványait.",
+                "ro": "O oprire umbrită care poate fi destul de răcoroasă iarna; rămâneți în mișcare în timp ce explorați resturile arcadelor romane.",
+                "en": "A shaded stop that can be quite chilly in winter; keep moving while you explore the remains of the Roman arches to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Thekla",
+                "hu": "Agia Thekla",
+                "ro": "Agia Thekla",
+                "en": "Agia Thekla"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist ein guter Ort für eine kurze Pause; die Steinmauern speichern mittags ein wenig Wärme der tiefstehenden Sonne.",
+                "hu": "A kis templom remek hely egy rövid pihenőre; a kőfalak délidőben raktároznak egy kevés meleget az alacsonyan járó téli naptól.",
+                "ro": "Mica biserică este un loc bun pentru o scurtă pauză; zidurile de piatră înmagazinează puțină căldură de la soarele de iarnă la amiază.",
+                "en": "The small church is a great spot for a quick break; the stone walls store a bit of warmth from the low-hanging winter sun at noon."
+              }
+            },
+            {
+              "name": {
+                "de": "Iero Pallenidos Athenas",
+                "hu": "Iero Pallenidos Athenas",
+                "ro": "Iero Pallenidos Athenas",
+                "en": "Iero Pallenidos Athenas"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den eisigen Wind auf der Freifläche; Handschuhe sind hier ein Muss, um die Kontrolle über den Lenker nicht zu verlieren.",
+                "hu": "Vigyázzon a jeges szélre a nyílt területen; a kesztyű itt kötelező, hogy ne veszítse el az uralmát a kormány felett a hidegtől.",
+                "ro": "Atenție la vântul înghețat pe terenul deschis; mănușile sunt obligatorii aici pentru a nu pierde controlul asupra ghidonului de frig.",
+                "en": "Watch out for the icy wind in the open area; gloves are a must here so you don't lose control of the handlebars due to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Purosbestiko Mouseio",
+                "hu": "Purosbestiko Mouseio",
+                "ro": "Purosbestiko Mouseio",
+                "en": "Purosbestiko Mouseio"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss, um der Kälte zu entkommen; das Museum bietet eine windgeschützte Umgebung für das Ende Ihrer winterlichen Tour.",
+                "hu": "Ideális befejezés, hogy elmeneküljön a hideg elől; a múzeum szélvédett környezetet biztosít a téli kerékpártúra méltó lezárásához.",
+                "ro": "Finalul ideal pentru a scăpa de frig; muzeul oferă un mediu ferit de vânt pentru încheierea potrivită a turei de iarnă cu bicicleta.",
+                "en": "The ideal finish to escape the cold; the museum provides a wind-protected environment for a fitting end to your winter bike tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós útját korán a titokzatos Korakobouniou őrtoronynál. Délben zökkenőmentesen kösse össze az ókori oroszlánszobrot, egy rejtett denevérbarlangot és a történelmi bányákat. Délután merüljön el a főutak közelében megbúvó késő római és bizánci építészeti csodákban. Az estéje csodálatosan zárul a tűzoltómúzeumban, annak lenyűgöző járműparkjával és történetével.",
         "ro": "Începeți excursia devreme la misteriosul turn de veghe Korakobouniou. La prânz, conectați statuia leului, o peșteră ascunsă și mine istorice. După-amiaza, descoperiți minunile arhitecturale romane târzii și bizantine ascunse în siguranță lângă drumurile principale. Seara se încheie minunat la muzeul pompierilor cu flota sa impresionantă de vehicule istorice.",
         "en": "Start your road trip early at the mysterious Korakobouniou watchtower. By midday, seamlessly connect the ancient lion statue, a hidden bat cave, and vast historical mines. In the afternoon, dive deep into late Roman and Byzantine architectural marvels safely tucked away near the main roads. Your evening concludes wonderfully at the fire brigade museum with its impressive fleet."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Glyka Nera auch bei Regen komfortabel zu erkunden. Genießen Sie die Aussicht vom Korakobouniou-Turm durch die beschlagenen Scheiben. Mittags können Sie die Steinbrüche bequem vom Wagen aus betrachten. Das Feuerwehrmuseum bleibt das perfekte Ziel für den Nachmittag.",
+            "hu": "Autóval Glyka Nera esőben is kényelmesen felfedezhető. Élvezze a kilátást a Korakobouniou toronytól a párás szélvédő mögül. Délben a kőbányákat akár az autóból is megcsodálhatja. A Tűzoltómúzeum marad a délután legtökéletesebb és legszárazabb célpontja.",
+            "ro": "Cu mașina, Glyka Nera poate fi explorată confortabil chiar și pe ploaie. Admirați vederea de la turnul Korakobouniou prin parbrizul aburit. La prânz, puteți vedea carierele direct din mașină. Muzeul Pompierilor rămâne destinația perfectă pentru după-amiază.",
+            "en": "By car, Glyka Nera is comfortable to explore even in the rain. Enjoy the view from Korakobouniou tower through the misty windshield. At noon, you can admire the quarries right from the vehicle. The Fire Museum remains the perfect afternoon destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Purgos Korakobouniou",
+                "hu": "Purgos Korakobouniou",
+                "ro": "Purgos Korakobouniou",
+                "en": "Purgos Korakobouniou"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die schmale Straße hinauf; der Turm wirkt im Nebel sehr dramatisch, bleiben Sie für Fotos nah am Auto.",
+                "hu": "Hajtson óvatosan felfelé a keskeny úton; a torony drámaian mutat a ködben, a fotózáshoz pedig maradjon az autó közelében.",
+                "ro": "Urcați cu atenție pe drumul îngust; turnul arată dramatic în ceață, iar pentru fotografii rămâneți aproape de mașină.",
+                "en": "Drive carefully up the narrow road; the tower looks dramatic in the mist, and stay close to the car for quick photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Liontari",
+                "hu": "Liontari",
+                "ro": "Liontari",
+                "en": "Liontari"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt daneben; die nasse Steinoberfläche des Löwen zeigt feine Details, die bei hellem Sonnenlicht oft überstrahlt werden.",
+                "hu": "Parkoljon le közvetlenül mellette; az oroszlán nedves kőfelülete olyan finom részleteket mutat meg, amik erős napsütésben nem látszanak.",
+                "ro": "Parcați chiar lângă el; suprafața umedă de piatră a leului dezvăluie detalii fine care sunt adesea invizibile în lumina puternică.",
+                "en": "Park right next to it; the wet stone surface of the lion reveals fine details that are often washed out in bright sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Spelaio nukhteridas",
+                "hu": "Spelaio nukhteridas",
+                "ro": "Spelaio nukhteridas",
+                "en": "Spelaio nukhteridas"
+              },
+              "tip_5lang": {
+                "de": "Der Höhleneingang kann bei Regen extrem rutschig sein; betrachten Sie die Formation lieber von der sicheren Straße aus.",
+                "hu": "A barlang bejárata esőben rendkívül csúszós lehet; inkább csak a biztonságos útról nézze meg a sziklaformációkat.",
+                "ro": "Intrarea în peșteră poate fi extrem de alunecoasă pe ploaie; mai bine priviți formațiunile stâncoase de pe drumul sigur.",
+                "en": "The cave entrance can be extremely slippery in the rain; it's better to just view the rock formations from the safety of the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Orukheia Phure",
+                "hu": "Orukheia Phure",
+                "ro": "Orukheia Phure",
+                "en": "Orukheia Phure"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zu den Steinbrüchen kann matschig sein; bleiben Sie auf dem befestigten Weg, um nicht mit den Reifen steckenzubleiben.",
+                "hu": "A kőbányákhoz vezető út sáros lehet; maradjon a burkolt részen, hogy elkerülje a kerekek elpörgését a felázott talajon.",
+                "ro": "Drumul spre cariere poate fi noroios; rămâneți pe porțiunea asfaltată pentru a evita patinarea roților pe solul moale.",
+                "en": "The road to the quarries can be muddy; stay on the paved sections to avoid your wheels spinning on the soaked ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Usteroromaiko ktisma",
+                "hu": "Usteroromaiko ktisma",
+                "ro": "Usteroromaiko ktisma",
+                "en": "Usteroromaiko ktisma"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist hier ideal; nutzen Sie die kurzen Regenpausen, um die römischen Fundamente aus der Nähe zu betrachten.",
+                "hu": "Egy gyors megálló itt ideális; használja ki a rövid esőszüneteket, hogy közelebbről is megnézze a római kori alapfalakat.",
+                "ro": "O oprire rapidă este ideală aici; profitați de scurtele pauze de ploaie pentru a vedea de aproape fundațiile romane.",
+                "en": "A quick stop is ideal here; take advantage of short breaks in the rain to get a closer look at the Roman foundations."
+              }
+            },
+            {
+              "name": {
+                "de": "Ereipeia Buzantinou Naou",
+                "hu": "Ereipeia Buzantinou Naou",
+                "ro": "Ereipeia Buzantinou Naou",
+                "en": "Ereipeia Buzantinou Naou"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich; die Ruinen wirken in der grauen, regnerischen Atmosphäre besonders geschichtsträchtig und einsam.",
+                "hu": "Parkoljon a lehető legközelebb; a romok a szürke, esős hangulatban különösen történelminek és magányosnak tűnnek.",
+                "ro": "Parcați cât mai aproape posibil; ruinele par deosebit de istorice și solitare în atmosfera cenușie și ploioasă de astăzi.",
+                "en": "Park as close as possible; the ruins look particularly historical and solitary in the grey, rainy atmosphere today."
+              }
+            },
+            {
+              "name": {
+                "de": "Purosbestiko Mouseio",
+                "hu": "Purosbestiko Mouseio",
+                "ro": "Purosbestiko Mouseio",
+                "en": "Purosbestiko Mouseio"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort, um das Auto abzustellen und lange im Trockenen zu bleiben; das Museum ist bei schlechtem Wetter ein echtes Highlight.",
+                "hu": "A legjobb hely, hogy leállítsa az autót és sokáig szárazon maradjon; a múzeum rossz időben is igazi, tartalmas élményt nyújt.",
+                "ro": "Cel mai bun loc pentru a parca mașina și a rămâne la adăpost; muzeul este o experiență veritabilă chiar și pe vreme rea.",
+                "en": "The best place to park the car and stay dry for a while; the museum is a true highlight even when the weather is poor."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Glyka Nera im Winter bequem mit Sitzheizung. Die klare Sicht vom Berg Korakobouniou ist bei kalter Luft atemberaubend. Mittags laden die antiken Stätten zu kurzen Fotostopps ein. Beenden Sie die Fahrt im Feuerwehrmuseum, bevor die frühe Dunkelheit den Tag beendet.",
+            "hu": "Fedezze fel Glyka Nerát télen, élvezve az autó kényelmét és fűtését. A tiszta kilátás a Korakobouniou hegyről lenyűgöző a hideg levegőben. Délben az ókori helyszínek rövid fotómegállókra csábítanak. A napot zárja a Tűzoltómúzeumban a korai sötétedés előtt.",
+            "ro": "Explorați Glyka Nera iarna, bucurându-vă de confortul și căldura mașinii. Vederea clară de pe muntele Korakobouniou este uluitoare în aerul rece. La prânz, siturile antice sunt perfecte pentru opriri foto scurte. Încheiați ziua la Muzeul Pompierilor.",
+            "en": "Explore Glyka Nera in winter, enjoying the comfort and heat of your car. The clear view from Mount Korakobouniou is breathtaking in the cold air. At noon, the ancient sites invite you for short photo stops. End the day at the Fire Museum before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Purgos Korakobouniou",
+                "hu": "Purgos Korakobouniou",
+                "ro": "Purgos Korakobouniou",
+                "en": "Purgos Korakobouniou"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist im Winter durch die fehlende Dunstschicht extrem weit; nutzen Sie die Heizung im Auto zwischen den kurzen Fotomomenten.",
+                "hu": "A kilátás télen a hiányzó páraréteg miatt rendkívül messzire nyúlik; használja az autó fűtését a rövid fotós szünetek között.",
+                "ro": "Vizibilitatea iarna este excelentă datorită lipsei de umezeală; folosiți căldura din mașină între scurte sesiuni de fotografiere.",
+                "en": "The view in winter is extremely far-reaching due to the lack of haze; use the car heater between short photo sessions outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Liontari",
+                "hu": "Liontari",
+                "ro": "Liontari",
+                "en": "Liontari"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Straßenrand; der antike Löwe wirkt in der kühlen Wintersonne besonders majestätisch und gut ausgeleuchtet.",
+                "hu": "Gyors megálló az út mentén; az ókori oroszlán a hűvös téli napsütésben különösen fenségesnek tűnik és remekül megvilágított.",
+                "ro": "O oprire rapidă la marginea drumului; leul antic pare deosebit de maiestuos și bine iluminat în soarele rece de iarnă.",
+                "en": "A quick roadside stop; the ancient lion looks particularly majestic and well-lit in the cool winter sunshine."
+              }
+            },
+            {
+              "name": {
+                "de": "Spelaio nukhteridas",
+                "hu": "Spelaio nukhteridas",
+                "ro": "Spelaio nukhteridas",
+                "en": "Spelaio nukhteridas"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet Schutz vor dem kalten Wind; steigen Sie kurz aus, um die geologischen Formationen in der klaren Luft zu bewundern.",
+                "hu": "A barlang bejárata védelmet nyújt a hideg szél ellen; szálljon ki egy pillanatra, hogy megcsodálja a sziklaformációkat a tiszta levegőben.",
+                "ro": "Intrarea în peșteră oferă protecție contra vântului rece; coborâți un moment pentru a admira formațiunile în aerul curat.",
+                "en": "The cave entrance provides shelter from the cold wind; hop out for a moment to admire the formations in the crisp, clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Orukheia Phure",
+                "hu": "Orukheia Phure",
+                "ro": "Orukheia Phure",
+                "en": "Orukheia Phure"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Steinbrüche angenehm ruhig; parken Sie so, dass Sie die Aussicht auf die Abbaukanten direkt vom warmen Innenraum genießen.",
+                "hu": "Télen a kőbányák kellemesen csendesek; parkoljon úgy, hogy a kilátást a bányaoldalakra közvetlenül a meleg autóból élvezhesse.",
+                "ro": "Iarna carierele sunt plăcut de liniștite; parcați astfel încât să vă bucurați de vederea pereților carierei direct din mașina caldă.",
+                "en": "In winter the quarries are pleasantly quiet; park so you can enjoy the view of the quarry walls directly from your warm car interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Usteroromaiko ktisma",
+                "hu": "Usteroromaiko ktisma",
+                "ro": "Usteroromaiko ktisma",
+                "en": "Usteroromaiko ktisma"
+              },
+              "tip_5lang": {
+                "de": "Die römischen Ruinen sind im Winterlicht gut für Makrofotos der Steine geeignet; achten Sie auf den schnellen Temperaturabfall bei Schattenwurf.",
+                "hu": "A római romok a téli fényben kiválóak a kövek makrofotózásához; ügyeljen a hőmérséklet gyors zuhanására az árnyékos részeken.",
+                "ro": "Ruinele romane sunt excelente pentru macrofotografii în lumina iernii; atenție la scăderea rapidă a temperaturii în zonele cu umbră.",
+                "en": "The Roman ruins are great for macro photography in winter light; watch out for the quick temperature drop in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Ereipeia Buzantinou Naou",
+                "hu": "Ereipeia Buzantinou Naou",
+                "ro": "Ereipeia Buzantinou Naou",
+                "en": "Ereipeia Buzantinou Naou"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang um die Mauern lohnt sich vor Sonnenuntergang; danach kühlt es am offenen Hang sehr schnell aus.",
+                "hu": "Egy rövid séta a falak körül megéri a naplemente előtt; utána a nyitott domboldalon rendkívül gyorsan lehűl a levegő.",
+                "ro": "O scurtă plimbare în jurul zidurilor merită înainte de apus; după aceea, aerul se răcește foarte rapid pe versantul deschis.",
+                "en": "A short walk around the walls is worth it before sunset; after that, the air cools down very quickly on the open hillside."
+              }
+            },
+            {
+              "name": {
+                "de": "Purosbestiko Mouseio",
+                "hu": "Purosbestiko Mouseio",
+                "ro": "Purosbestiko Mouseio",
+                "en": "Purosbestiko Mouseio"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag gemütlich ausklingen zu lassen; das große Gebäude schützt vor der winterlichen Abendkälte.",
+                "hu": "A tökéletes hely a nap kényelmes befejezéséhez; a tágas épület hatékonyan véd a téli esti lehűlés és a szél ellen.",
+                "ro": "Locul perfect pentru a încheia ziua confortabil; clădirea spațioasă vă protejează eficient de frigul serii de iarnă și de vânt.",
+                "en": "The perfect place to end the day comfortably; the spacious building effectively protects you from the winter evening chill and wind."
+              }
+            }
+          ]
+        }
       }
     }
   }

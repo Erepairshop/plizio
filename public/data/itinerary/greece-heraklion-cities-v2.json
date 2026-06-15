@@ -183,6 +183,224 @@
         "hu": "A reggel a mínoszi ókorba tett mélyreható utazással indul a Régészeti Múzeumban, majd a békés Agios Titos templomot fedezzük fel. Délben a Morosini és Bembo szökőkutak mellett sétálunk a nyüzsgő városközpontban. Délután a fenséges Agios Minas katedrálist és a Krétai Történeti Múzeumot látogatjuk meg. Az estét a lenyűgöző tengeri kilátást nyújtó Koules erőd megmászásával zárjuk.",
         "ro": "Dimineața începe cu o incursiune în antichitatea minoică la Muzeul Arheologic, urmată de o vizită la Biserica Agios Titos. La prânz, admirați fântânile Morosini și Bembo în inima vibrantă a orașului. După-amiaza vă aduce la maiestuoasa Catedrală Agios Minas și la Muzeul Istoric al Cretei. Seara se încheie cu o plimbare pitorească până la impunătoarea Fortăreață Koules.",
         "en": "Morning begins with a deep dive into Minoan antiquity at the renowned Archaeological Museum, before exploring the peaceful Agios Titos Church. Midday takes you past the iconic Morosini and Bembo Fountains in the city's lively heart. Afternoon shifts to the majestic Agios Minas Cathedral and the Historical Museum of Crete. Evening concludes with a scenic walk up the imposing Koules Fortress."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Tag in den geschützten Räumen der Museen, um dem Regen zu entfliehen. Mittags bieten die Kirchen der Altstadt einen trockenen Zufluchtsort. Am Nachmittag ist die Hafenfestung trotz Wind und Nässe beeindruckend, achten Sie jedoch auf festes Schuhwerk. Am Abend spiegeln sich die Lichter der Stadt wunderschön in den nassen Gassen der Fußgängerzone.",
+            "hu": "Kezdje a napot a múzeumok fedett termeiben, így elkerülheti a reggeli záporokat. Délben az óváros templomai nyújtanak száraz menedéket és nyugalmat. Délután a kikötői erőd a szél és az eső ellenére is lenyűgöző látvány, de figyeljen a csúszós kövekre. Este a város fényei gyönyörűen tükröződnek a sétálóutcák nedves kövezetén.",
+            "ro": "Începeți ziua în sălile protejate ale muzeelor pentru a scăpa de ploaia de dimineață. La prânz, bisericile din centrul vechi oferă un refugiu uscat și liniștit. După-amiaza, cetatea portului este impresionantă în ciuda vântului, dar atenție la încălțăminte. Seara, luminile orașului se oglindesc superb pe pavajul umed al străzilor pietonale.",
+            "en": "Start your day in the sheltered halls of the museums to escape the morning showers. At noon, the old town churches provide a dry sanctuary and peace. In the afternoon, the harbor fortress is impressive despite the wind and rain, but pay attention to slippery stones. In the evening, the city lights reflect beautifully on the wet pavement of the pedestrian streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum Heraklion",
+                "hu": "Heraklioni Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Heraklion",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenmorgen für die minoischen Schätze; geben Sie nasse Schirme an der Garderobe ab, um die Säle trocken zu genießen.",
+                "hu": "Használja ki az esős reggelt a minószi kincsek felfedezésére; a ruhatárban hagyhatja vizes ernyőjét, így kényelmesen és szárazon nézelődhet.",
+                "ro": "Profită de dimineața ploioasă pentru a explora comorile minoice; lasă umbrela la garderobă pentru a vizita sălile confortabil și uscat.",
+                "en": "Take advantage of the rainy morning to explore Minoan treasures; leave your wet umbrella at the cloakroom to enjoy the halls comfortably dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Titos Kirche",
+                "hu": "Agios Titos Templom",
+                "ro": "Biserica Agios Titos",
+                "en": "Agios Titos Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern dieser historischen Kirche bieten perfekten Schutz vor einem Schauer; bewundern Sie die Ikonen, während es draußen regnet.",
+                "hu": "A történelmi templom vastag falai tökéletes védelmet nyújtanak egy zápor elől; csodálja meg az ikonokat, amíg odakint eláll az eső.",
+                "ro": "Zidurile groase ale acestei biserici istorice oferă protecție perfectă împotriva averselor; admiră icoanele în timp ce plouă afară.",
+                "en": "The thick walls of this historic church offer perfect protection from a shower; admire the icons while waiting for the rain to stop outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Morosini-Brunnen",
+                "hu": "Morosini Szökőkút",
+                "ro": "Fântâna Morosini",
+                "en": "Morosini Fountain"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Foto am Brunnen lohnt sich auch bei Regen, da die Cafés unter den Arkaden drumherum trockene Plätze zum Beobachten bieten.",
+                "hu": "Egy gyors fotó az esőben is megéri, a környékbeli árkádos kávézók pedig száraz helyet kínálnak a tér figyelésére.",
+                "ro": "O fotografie rapidă la fântână merită chiar și pe ploaie, deoarece cafenelele cu arcade din jur oferă locuri uscate pentru observație.",
+                "en": "A quick photo at the fountain is worth it even in the rain, as the surrounding arcaded cafes offer dry spots to watch the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Bembo-Brunnen",
+                "hu": "Bembo Szökőkút",
+                "ro": "Fântâna Bembo",
+                "en": "Bembo Fountain"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Verzierungen wirken bei Nässe oft kontrastreicher; nutzen Sie einen stabilen Regenschirm für den kurzen Halt im Freien.",
+                "hu": "A történelmi díszítések nedvesen gyakran kontrasztosabbak; használjon stabil esernyőt a rövid szabadtéri megállóhoz.",
+                "ro": "Decorațiunile istorice par adesea mai contrastante pe ploaie; folosește o umbrelă stabilă pentru scurta oprire în aer liber.",
+                "en": "The historic decorations often appear more contrasting when wet; use a sturdy umbrella for the short outdoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Minas Kathedrale",
+                "hu": "Agios Minas Katedrális",
+                "ro": "Catedrala Agios Minas",
+                "en": "Agios Minas Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die riesige Kathedrale ist der ideale Ort, um ein schweres Gewitter auszusitzen; die Akustik des Regens auf der Kuppel ist beeindruckend.",
+                "hu": "A hatalmas katedrális ideális hely egy komolyabb zivatar átvészelésére; a kupolán kopogó eső hangja lenyűgöző akusztikát teremt.",
+                "ro": "Catedrala imensă este locul ideal pentru a aștepta trecerea unei furtuni; sunetul ploii pe cupolă creează o acustică impresionantă.",
+                "en": "The vast cathedral is the ideal place to wait out a major storm; the sound of rain hitting the dome creates an impressive acoustics."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Museum von Kreta",
+                "hu": "Krétai Történeti Múzeum",
+                "ro": "Muzeul Istoric al Cretei",
+                "en": "Historical Museum of Crete"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie vor dem Nachmittagsregen in dieses moderne Museum; die El Greco Gemälde sind bei trübem Wetter besonders atmosphärisch.",
+                "hu": "Meneküljön a délutáni eső elől ebbe a modern múzeumba; El Greco festményei a borús időben különösen hangulatosak.",
+                "ro": "Refugiază-te de ploaia de după-amiază în acest muzeu modern; picturile lui El Greco sunt deosebit de atmosferice pe vreme mohorâtă.",
+                "en": "Escape the afternoon rain in this modern museum; El Greco's paintings are particularly atmospheric in gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Koules",
+                "hu": "Koules Erőd",
+                "ro": "Fortăreața Koules",
+                "en": "Koules Fortress"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Molenweg, die Wellen können bei Regen überschlagen; im Inneren der Festung bleiben Sie jedoch vollkommen trocken.",
+                "hu": "Vigyázzon a mólón, esőben a hullámok kicsaphatnak; az erőd belsejében azonban teljesen szárazon maradhat a vastag kőfalak között.",
+                "ro": "Atenție pe dig, valurile pot trece peste el pe ploaie; în interiorul cetății vei rămâne însă complet uscat între zidurile groase.",
+                "en": "Be careful on the pier as waves can splash over in the rain; however, inside the fortress you will stay completely dry within the thick walls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die milden Wintertage in Heraklion eignen sich perfekt für lange Spaziergänge ohne die Sommerhitze. Vormittags ist die Luft frisch, ideal für Museumsbesuche. Mittags wärmt die tiefstehende Sonne die Plätze der Altstadt. Beachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr am Hafen, wenn es schlagartig kühler wird.",
+            "hu": "A hűvös, de enyhe téli napok Heraklionban tökéletesek a hosszú sétákhoz a nyári hőség nélkül. Délelőtt a friss levegő ideális a múzeumi barangoláshoz. Délben a laposan tűző nap kellemesen melegíti az óváros tereit. Figyeljen a korai, 17:00 körüli naplementére a kikötőben, ami után hirtelen lehűl a levegő.",
+            "ro": "Zilele blânde de iarnă din Heraklion sunt perfecte pentru plimbări lungi fără canicula verii. Dimineața aerul este proaspăt, ideal pentru vizite la muzee. La prânz, soarele blând încălzește piețele din centrul vechi. Atenție la apusul devreme, în jur de ora 17:00, când temperatura scade brusc în port.",
+            "en": "Mild winter days in Heraklion are perfect for long walks without the summer heat. In the morning, the air is fresh, ideal for museum visits. At noon, the low sun pleasantly warms the old town squares. Note the early sunset around 17:00 at the harbor, after which it cools down abruptly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum Heraklion",
+                "hu": "Heraklioni Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Heraklion",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Winter ohne Touristenmassen; die klimatisierten Räume bieten eine angenehme Wärme für den Start in den Tag.",
+                "hu": "Élvezze a téli nyugalmat turistatömegek nélkül; a fűtött termek kellemes meleget adnak a nap kezdéséhez.",
+                "ro": "Bucură-te de liniștea iernii fără mulțimi de turiști; sălile climatizate oferă o căldură plăcută pentru începutul zilei.",
+                "en": "Enjoy the winter tranquility without the tourist crowds; the climate-controlled rooms offer a pleasant warmth to start your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Titos Kirche",
+                "hu": "Agios Titos Templom",
+                "ro": "Biserica Agios Titos",
+                "en": "Agios Titos Church"
+              },
+              "tip_5lang": {
+                "de": "In der kühlen Jahreszeit wirkt das Kerzenlicht in der Kirche besonders einladend und warm; ein stiller Ort für eine kurze Pause.",
+                "hu": "A hűvös évszakban a templomi gyertyák fénye különösen hívogató és meleg; csendes helyszín egy rövid pihenőhöz.",
+                "ro": "În sezonul rece, lumina lumânărilor din biserică pare deosebit de primitoare și caldă; un loc liniștit pentru o scurtă pauză.",
+                "en": "In the cool season, the candlelight in the church feels especially inviting and warm; a quiet place for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Morosini-Brunnen",
+                "hu": "Morosini Szökőkút",
+                "ro": "Fântâna Morosini",
+                "en": "Morosini Fountain"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen griechischen Kaffee in einem der umliegenden Cafés und beobachten Sie das lokale Winterleben am Brunnen.",
+                "hu": "Vigyen magával egy forró görög kávét a környező kávézók egyikéből, és figyelje a helyiek téli életét a kút körül.",
+                "ro": "Ia o cafea grecească fierbinte de la una dintre cafenelele din jur și observă viața locală de iarnă de lângă fântână.",
+                "en": "Grab a hot Greek coffee from one of the nearby cafes and watch the local winter life around the fountain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bembo-Brunnen",
+                "hu": "Bembo Szökőkút",
+                "ro": "Fântâna Bembo",
+                "en": "Bembo Fountain"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne fällt mittags in einem schönen Winkel auf den Brunnen; tragen Sie eine leichte Jacke für den Aufenthalt im Schatten.",
+                "hu": "A téli nap délben gyönyörű szögben világítja meg a kutat; viseljen könnyű kabátot az árnyékos részeken való tartózkodáshoz.",
+                "ro": "Soarele de iarnă luminează fântâna la prânz dintr-un unghi superb; poartă o jachetă ușoară pentru momentele petrecute la umbră.",
+                "en": "The winter sun hits the fountain at a beautiful angle at noon; wear a light jacket for your time spent in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Minas Kathedrale",
+                "hu": "Agios Minas Katedrális",
+                "ro": "Catedrala Agios Minas",
+                "en": "Agios Minas Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvolle Innenausstattung bietet einen farbenfrohen Kontrast zum oft grauen Winterhimmel; ideale Aufwärmpause während des Stadtbummels.",
+                "hu": "A pompás belső tér színes kontrasztot nyújt az olykor szürke téli égbolttal; ideális melegedőhely a városi séta közben.",
+                "ro": "Interiorul splendid oferă un contrast colorat cu cerul de iarnă uneori gri; loc ideal de încălzire în timpul plimbării prin oraș.",
+                "en": "The magnificent interior provides a colorful contrast to the sometimes gray winter sky; an ideal warm-up spot during your city walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Museum von Kreta",
+                "hu": "Krétai Történeti Múzeum",
+                "ro": "Muzeul Istoric al Cretei",
+                "en": "Historical Museum of Crete"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den späten Nachmittag für das Museum, wenn es draußen kühler wird; die moderne Heizung macht den Besuch sehr komfortabel.",
+                "hu": "Használja ki a késő délutánt a múzeumlátogatásra, amikor kint lehűl az idő; a modern fűtés nagyon kényelmessé teszi a nézelődést.",
+                "ro": "Profită de sfârșitul după-amiezii pentru a vizita muzeul când se face răcoare afară; încălzirea modernă face vizita foarte confortabilă.",
+                "en": "Use the late afternoon for the museum visit when it cools down outside; the modern heating makes the visit very comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Koules",
+                "hu": "Koules Erőd",
+                "ro": "Fortăreața Koules",
+                "en": "Koules Fortress"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang am Meer gegen 17:00 Uhr; eine windfeste Jacke ist für den Weg auf der Kaimauer unbedingt erforderlich.",
+                "hu": "Nézze meg a tengeri naplementét 17:00 körül; egy szélálló kabát feltétlenül szükséges a gáton vezető úthoz a hűvös szélben.",
+                "ro": "Vezi apusul peste mare în jur de ora 17:00; o jachetă rezistentă la vânt este absolut necesară pentru drumul pe dig în briza rece.",
+                "en": "Watch the sunset over the sea around 17:00; a windproof jacket is absolutely necessary for the walk along the pier in the cool breeze."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "A reggel a Természettudományi Múzeum lenyűgöző kiállításával és az Agios Minas katedrális felfedezésével indul. Délben a hatalmas velencei falak mentén kerékpározunk a nyüzsgő Morosini szökőkútig. A délután a híres Régészeti Múzeumé és a Kotsanas Múzeum ókori szerkentyűié. Az esti szürkületet a festői kikötőnél álló robusztus Koules erőd falai között élvezhetjük.",
         "ro": "Dimineața începe cu minunile de la Muzeul de Istorie Naturală și explorarea Catedralei Agios Minas. La prânz pedalați de-a lungul masivelor ziduri venețiene înainte de a opri la Fântâna Morosini. După-amiaza este rezervată faimosului Muzeu Arheologic și ingeniozităților antice de la Muzeul Kotsanas. Amurgul serii se instalează la impresionanta Fortăreață Koules din port.",
         "en": "Morning starts with engaging natural wonders at the Natural History Museum and exploring the grandeur of Agios Minas Cathedral. Midday involves cycling along the massive Venetian Walls before stopping by the bustling Morosini Fountain. Afternoon is reserved for the world-famous Archaeological Museum and the clever ancient gadgets at Kotsanas Museum. Evening twilight sets in at Koules Fortress."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Heraklion Vorsicht, da die Steine rutschig sein können. Vormittags bieten Museen eine gute Basis. Mittags ist das Radfahren entlang der Mauern bei Meeresbrise erfrischend, wenn man wasserfest gekleidet ist. Nachmittags sind Indoor-Aktivitäten ratsam, bevor man den Tag am Hafen ausklingen lässt.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Heraklionban, mivel a kövek csúszósak lehetnek. Délelőtt a múzeumok jó bázist jelentenek. Délben a falak menti tekerés a tengeri szélben frissítő, ha van vízálló ruházata. Délután javasoltak a beltéri programok, mielőtt a napot a kikötőben zárná.",
+            "ro": "Ciclismul pe ploaie necesită prudență în Heraklion, deoarece pietrele pot fi alunecoase. Dimineața, muzeele oferă o bază bună. La prânz, plimbarea pe lângă ziduri în briza mării este revigorantă dacă ai haine impermeabile. După-amiaza sunt recomandate activitățile indoor înainte de a încheia ziua în port.",
+            "en": "Cycling in the rain requires caution in Heraklion, as the stones can be slippery. In the morning, museums provide a good base. At noon, riding along the walls in the sea breeze is refreshing if you have waterproof clothing. Indoor activities are recommended in the afternoon before ending the day at the port."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Naturhistorisches Museum von Kreta",
+                "hu": "Krétai Természettudományi Múzeum",
+                "ro": "Muzeul de Istorie Naturală din Creta",
+                "en": "Natural History Museum of Crete"
+              },
+              "tip_5lang": {
+                "de": "Sicherer Fahrradabstellplatz vorhanden; verbringen Sie den Regenvormittag bei der Erdbebensimulation im trockenen Innenraum.",
+                "hu": "Biztonságos biciklitároló áll rendelkezésre; töltse az esős délelőttöt a földrengésszimulátorral a száraz belső térben.",
+                "ro": "Parcare sigură pentru biciclete disponibilă; petrece dimineața ploioasă la simulatorul de cutremur în interiorul uscat.",
+                "en": "Secure bike parking available; spend the rainy morning at the earthquake simulator in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Minas Kathedrale",
+                "hu": "Agios Minas Katedrális",
+                "ro": "Catedrala Agios Minas",
+                "en": "Agios Minas Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad kurz unter einem Vordach; die Kathedrale bietet einen ruhigen, trockenen Rückzugsort vor dem nächsten Schauer.",
+                "hu": "Parkolja le biciklijét rövid időre egy előtető alá; a katedrális nyugodt, száraz menedéket nyújt a következő zápor előtt.",
+                "ro": "Parchează bicicleta scurt sub un acoperiș; catedrala oferă un refugiu liniștit și uscat înainte de următoarea aversă.",
+                "en": "Park your bike briefly under an overhang; the cathedral offers a calm, dry sanctuary before the next shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianische Mauern",
+                "hu": "Velencei Falak",
+                "ro": "Zidurile Venețiene",
+                "en": "Venetian Walls"
+              },
+              "tip_5lang": {
+                "de": "Der befestigte Weg oben auf den Mauern ist gut befahrbar, aber Vorsicht in den Kurven bei Nässe; Regenkleidung gegen Wind ist Pflicht.",
+                "hu": "A falak tetején lévő út jól járható, de esőben vigyázzon a kanyarokban; a szél elleni esővédő ruházat kötelező.",
+                "ro": "Drumul de pe ziduri este practicabil, dar atenție la curbe pe ploaie; îmbrăcămintea de protecție împotriva vântului este obligatorie.",
+                "en": "The path on top of the walls is manageable, but be careful in curves when wet; windproof rain gear is a must."
+              }
+            },
+            {
+              "name": {
+                "de": "Morosini-Brunnen",
+                "hu": "Morosini Szökőkút",
+                "ro": "Fântâna Morosini",
+                "en": "Morosini Fountain"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist bei Regen oft weniger belebt, was das Manövrieren mit dem Rad erleichtert; halten Sie unter den nahen Arkaden an.",
+                "hu": "A tér esőben gyakran kevésbé zsúfolt, ami megkönnyíti a biciklivel való manőverezést; álljon meg a közeli árkádok alatt.",
+                "ro": "Piața este adesea mai puțin aglomerată pe ploaie, facilitând manevrarea bicicletei; oprește-te sub arcadele din apropiere.",
+                "en": "The square is often less crowded in the rain, making it easier to maneuver your bike; stop under the nearby arcades."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Heraklion",
+                "hu": "Heraklioni Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Heraklion",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Trockenpause; Ihre Ausrüstung kann während der Besichtigung im Schließfach trocknen.",
+                "hu": "Használja a múzeumlátogatást egy hosszabb száradási szünetnek; felszerelése a szekrényben száradhat a nézelődés alatt.",
+                "ro": "Folosește vizita la muzeu pentru o pauză lungă de uscare; echipamentul tău se poate usca în vestiar în timpul vizitei.",
+                "en": "Use the museum visit for a longer dry break; your gear can dry in a locker while you explore the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Kotsanas Museum für antike griechische Technologie",
+                "hu": "Kotsanas Ókori Görög Technológiai Múzeum",
+                "ro": "Muzeul Kotsanas al Tehnologiei Greciei Antice",
+                "en": "Heraklion Museum of Ancient Greek Technology Kostas Kotsanas"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um den Nachmittagsregen zu überbrücken; die interaktiven Exponate lassen Sie das Wetter draußen schnell vergessen.",
+                "hu": "Kiváló hely a délutáni eső átvészelésére; az interaktív kiállítások mellett gyorsan elfelejtheti a kinti rossz időt.",
+                "ro": "Un loc excelent pentru a aștepta trecerea ploii de după-amiază; exponatele interactive te vor face să uiți repede de vremea rea.",
+                "en": "An excellent spot to wait out the afternoon rain; the interactive exhibits will quickly make you forget the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Koules",
+                "hu": "Koules Erőd",
+                "ro": "Fortăreața Koules",
+                "en": "Koules Fortress"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf der Hafenmole, da der Boden extrem rutschig sein kann; die Festung bietet am Ende einen trockenen Aussichtspunkt.",
+                "hu": "Tolja a biciklit a mólón, mert a talaj rendkívül csúszós lehet; az erőd a végén száraz kilátópontot kínál a tengerre.",
+                "ro": "Împinge bicicleta pe dig, deoarece pavajul poate fi extrem de alunecos; cetatea oferă la final un punct de observație uscat.",
+                "en": "Push your bike on the pier as the ground can be extremely slippery; the fortress at the end offers a dry viewpoint over the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die beste Zeit zum Radfahren in Heraklion, da die Temperaturen angenehm kühl sind. Vormittags ist die Sicht oft kristallklar. Mittags ist eine Tour entlang der Mauern in der Sonne herrlich. Beachten Sie, dass es nach dem frühen Sonnenuntergang um 17:00 Uhr schnell abkühlt; Licht am Rad ist Pflicht.",
+            "hu": "A tél a legjobb időszak a biciklizéshez Heraklionban, mivel a hőmérséklet kellemesen hűvös. Délelőtt a látási viszonyok gyakran kristálytiszták. Délben a falak menti túra a napsütésben gyönyörű. Figyeljen rá, hogy a korai, 17:00-s naplemente után gyorsan hűl az idő; a lámpa kötelező.",
+            "ro": "Iarna este cea mai bună perioadă pentru ciclism în Heraklion, deoarece temperaturile sunt plăcut de răcoroase. Dimineața vizibilitatea este adesea cristalină. La prânz, o tură pe ziduri la soare este superbă. Atenție că se răcește repede după apusul de la ora 17:00; luminile la bicicletă sunt obligatorii.",
+            "en": "Winter is the best time for cycling in Heraklion as temperatures are pleasantly cool. In the morning, visibility is often crystal clear. At noon, a tour along the walls in the sun is wonderful. Note that it cools down quickly after the early sunset at 17:00; bike lights are mandatory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Naturhistorisches Museum von Kreta",
+                "hu": "Krétai Természettudományi Múzeum",
+                "ro": "Muzeul de Istorie Naturală din Creta",
+                "en": "Natural History Museum of Crete"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für den Besuch; im Inneren ist es warm, perfekt um die kretische Natur gemütlich kennenzulernen.",
+                "hu": "Használja ki a hűvös reggelt a látogatáshoz; belül meleg van, tökéletes a krétai természet kényelmes megismeréséhez.",
+                "ro": "Profită de dimineața răcoroasă pentru vizită; în interior este cald, perfect pentru a cunoaște natura cretană în confort.",
+                "en": "Take advantage of the cool morning for the visit; it's warm inside, perfect for getting to know Cretan nature comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Minas Kathedrale",
+                "hu": "Agios Minas Katedrális",
+                "ro": "Catedrala Agios Minas",
+                "en": "Agios Minas Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Winter bietet Besinnlichkeit ohne die Hitze; binden Sie Ihr Rad sicher am Platz vor der Kirche fest.",
+                "hu": "Egy rövid téli megálló nyugalmat kínál a hőség nélkül; rögzítse biciklijét biztonságosan a templom előtti téren.",
+                "ro": "O scurtă oprire iarna oferă liniște fără caniculă; asigură-ți bicicleta în siguranță în piața din fața bisericii.",
+                "en": "A short winter stop offers reflection without the heat; secure your bike safely in the square in front of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianische Mauern",
+                "hu": "Velencei Falak",
+                "ro": "Zidurile Venețiene",
+                "en": "Venetian Walls"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne macht die Radtour auf den Mauern zum Genuss; am Grab von Kazantzakis haben Sie eine klare Fernsicht bis zu den Bergen.",
+                "hu": "A téli napsütés élvezetessé teszi a biciklitúrát a falakon; Kazantzakisz sírjánál tiszta tálkilátás nyílik egészen a hegyekig.",
+                "ro": "Soarele de iarnă face tura cu bicicleta pe ziduri o plăcere; la mormântul lui Kazantzakis ai o vedere clară până la munți.",
+                "en": "The winter sun makes the bike tour on the walls a delight; at Kazantzakis' grave, you'll have a clear view all the way to the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Morosini-Brunnen",
+                "hu": "Morosini Szökőkút",
+                "ro": "Fântâna Morosini",
+                "en": "Morosini Fountain"
+              },
+              "tip_5lang": {
+                "de": "Im Winter können Sie mit dem Rad näher an den Brunnen heran; genießen Sie die lebendige Atmosphäre bei milden Temperaturen.",
+                "hu": "Télen biciklivel is közelebb juthat a kúthoz; élvezze a pezsgő hangulatot az enyhe téli időben.",
+                "ro": "Iarna poți ajunge cu bicicleta mai aproape de fântână; bucură-te de atmosfera vibrantă la temperaturi blânde.",
+                "en": "In winter, you can get closer to the fountain by bike; enjoy the lively atmosphere in the mild winter weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Heraklion",
+                "hu": "Heraklioni Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Heraklion",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für eine Pause von der kühlen Brise; der Innenhof bietet auch im Winter ein schönes, geschütztes Ambiente.",
+                "hu": "Tökéletes hely egy szünetre a hűvös szél elől; a belső udvar télen is szép, védett környezetet nyújt.",
+                "ro": "Locul perfect pentru o pauză de la briza rece; curtea interioară oferă un ambient frumos și protejat chiar și iarna.",
+                "en": "Perfect place for a break from the cool breeze; the inner courtyard offers a beautiful, sheltered environment even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kotsanas Museum für antike griechische Technologie",
+                "hu": "Kotsanas Ókori Görög Technológiai Múzeum",
+                "ro": "Muzeul Kotsanas al Tehnologiei Greciei Antice",
+                "en": "Heraklion Museum of Ancient Greek Technology Kostas Kotsanas"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei den faszinierenden Erfindungen auf; im Winter ist das Museum deutlich leerer und entspannter zu besichtigen.",
+                "hu": "Melegedjen fel a lenyűgöző találmányok között; télen a múzeum sokkal üresebb és nyugodtabban bejárható.",
+                "ro": "Încălzește-te printre invențiile fascinante; iarna muzeul este mult mai liber și poate fi vizitat în liniște.",
+                "en": "Warm up among the fascinating inventions; in winter, the museum is much emptier and can be visited more relaxedly."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Koules",
+                "hu": "Koules Erőd",
+                "ro": "Fortăreața Koules",
+                "en": "Koules Fortress"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour vor 17:00 Uhr, um den klaren Winterhimmel über dem Meer zu bewundern; Handschuhe für die Fahrt am Hafen sind ratsam.",
+                "hu": "Zárja a túrát 17:00 előtt, hogy megcsodálja a tiszta téli eget a tenger felett; kesztyű ajánlott a kikötői tekeréshez.",
+                "ro": "Încheie tura înainte de ora 17:00 pentru a admira cerul senin de iarnă deasupra mării; mănușile sunt recomandate pentru plimbarea în port.",
+                "en": "End your tour before 17:00 to admire the clear winter sky over the sea; gloves are recommended for the ride along the harbor."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "A reggelt a legendás knósszoszi palotának szenteljük, ahol a minószi civilizáció életre kel. Délben visszatérünk a városba, hogy sétáljunk a történelmi velencei falakon és elmerüljünk a Régészeti Múzeum kincseiben. A délután az elegáns Agios Titos templomra és a híres Morosini szökőkútra fókuszál. A nap a Krétai Történeti Múzeum lenyűgöző kiállításainak megtekintésével zárul.",
         "ro": "Dimineața este dedicată legendarului Palat Knossos, unde prinde viață vechea civilizație minoică. Prânzul vă aduce înapoi pentru a explora zidurile venețiene și a vizita Muzeul Arheologic. După-amiaza se concentrează pe eleganta Biserică Agios Titos și pe emblematica Fântână Morosini. Seara încheie călătoria dumneavoastră explorând detaliat Muzeul Istoric al Cretei.",
         "en": "Morning is dedicated to the legendary Knossos Palace, where the ancient Minoan civilization comes to life. Midday brings you back to the city to walk the historic Venetian Walls and dive into the brilliant Archaeological Museum. Afternoon focuses on the elegant Agios Titos Church and the iconic Morosini Fountain. Evening wraps up your journey delving into the Historical Museum of Crete."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie in Heraklion bei Regen bestens mobil. Vormittags ist Knossos trotz Nässe ein Erlebnis, da die Farben der Ruinen kräftiger wirken. Mittags bietet die Fahrt entlang der Stadtmauern gute Ausblicke aus dem Trockenen. Nachmittags sind die zentralen Museen und Kirchen bequeme Stopps mit nahen Parkmöglichkeiten.",
+            "hu": "Autóval esőben is kényelmesen közlekedhet Heraklionban. Délelőtt Knósszosz az eső ellenére is élmény, a romok színei ilyenkor intenzívebbek. Délben a városfalak menti autózás száraz rálátást biztosít a városra. Délután a központi múzeumok és templomok kényelmes megállók, közeli parkolási lehetőséggel.",
+            "ro": "Cu mașina ești foarte mobil în Heraklion pe ploaie. Dimineața Knossos este o experiență chiar și pe umezeală, culorile ruinelor fiind mai intense. La prânz, drumul pe lângă zidurile orașului oferă vederi bune din interiorul uscat. După-amiaza, muzeele centrale și bisericile sunt opriri accesibile cu parcări în apropiere.",
+            "en": "By car, you are perfectly mobile in Heraklion during rain. In the morning, Knossos is an experience despite the wetness as the ruins' colors appear more vivid. At noon, driving along the city walls offers good views from the dry. In the afternoon, the central museums and churches are convenient stops with nearby parking."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palast von Knossos",
+                "hu": "Knósszoszi Palota",
+                "ro": "Palatul Knossos",
+                "en": "Knossos Palace"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist weitläufig und teils offen; nutzen Sie feste Wanderschuhe wegen rutschiger Steine und parken Sie direkt am Eingang, um nass zu werden.",
+                "hu": "A terület nagy része nyitott; viseljen túracipőt a csúszós kövek miatt, és parkoljon közvetlenül a bejáratnál, hogy elkerülje az ázást.",
+                "ro": "Zona este în mare parte deschisă; poartă încălțăminte de munte din cauza pietrelor alunecoase și parchează direct la intrare pentru a nu te uda.",
+                "en": "The site is mostly open; wear hiking shoes due to slippery stones and park directly at the entrance to avoid getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern",
+                "hu": "Városfalak",
+                "ro": "Zidurile Orașului",
+                "en": "CITY WALLS"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Panoramastraße entlang der Mauern ab; bei Regen haben Sie aus dem Auto einen tollen Blick auf die befestigte Stadt.",
+                "hu": "Autózzon végig a falak menti panorámaúton; esőben az autóból is remek kilátás nyílik az erődített városrészekre.",
+                "ro": "Condu pe drumul panoramic de lângă ziduri; pe ploaie ai o vedere excelentă din mașină asupra părților fortificate ale orașului.",
+                "en": "Drive along the panoramic road by the walls; in the rain, you have a great view of the fortified city from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Heraklion",
+                "hu": "Heraklioni Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Heraklion",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus; so kommen Sie fast trocken in eines der bedeutendsten Museen Europas und können den Regen ignorieren.",
+                "hu": "Használja a közeli parkolóházat; így szinte szárazon juthat be Európa egyik legjelentősebb múzeumába, és teljesen kizárhatja az esőt.",
+                "ro": "Folosește parcarea etajată din apropiere; astfel poți intra aproape uscat în unul dintre cele mai importante muzee din Europa.",
+                "en": "Use the nearby parking garage; this way you can enter one of Europe's most significant museums almost dry and ignore the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Titos Kirche",
+                "hu": "Agios Titos Templom",
+                "ro": "Biserica Agios Titos",
+                "en": "Agios Titos Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Fußgängerzone; der kurze Weg zur Kirche lohnt sich, um im Inneren die kunstvollen Glasfenster bei Regenlicht zu sehen.",
+                "hu": "Parkoljon a sétálóövezet közelében; a rövid út a templomig megéri, hogy bent megcsodálja a művészi ablakokat az esős fényekben.",
+                "ro": "Parchează lângă zona pietonală; drumul scurt până la biserică merită pentru a admira ferestrele artistice în lumina ploioasă.",
+                "en": "Park near the pedestrian zone; the short walk to the church is worth it to admire the artistic windows inside in the rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Morosini-Brunnen",
+                "hu": "Morosini Szökőkút",
+                "ro": "Fântâna Morosini",
+                "en": "Morosini Fountain"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Zentrum; nutzen Sie die Parkplätze am Rande der Altstadt und flüchten Sie schnell unter die Markisen der Cafés.",
+                "hu": "Gyors megálló a központban; használja az óváros szélén lévő parkolókat, és meneküljön gyorsan a kávézók napellenzői alá az eső elől.",
+                "ro": "O scurtă oprire în centru; folosește parcările de la marginea centrului vechi și refugiază-te repede sub copertinele cafenelelor.",
+                "en": "A quick stop in the center; use the parking lots at the edge of the old town and escape quickly under the cafe awnings from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Museum von Kreta",
+                "hu": "Krétai Történeti Múzeum",
+                "ro": "Muzeul Istoric al Cretei",
+                "en": "Historical Museum of Crete"
+              },
+              "tip_5lang": {
+                "de": "Das Museum liegt direkt an der Küstenstraße mit guten Parkmöglichkeiten; ideal, um den Tag trocken und kulturell anspruchsvoll zu beenden.",
+                "hu": "A múzeum közvetlenül a part menti úton található, jó parkolással; ideális a nap száraz és kulturális befejezéséhez.",
+                "ro": "Muzeul este situat direct pe drumul de coastă, cu parcare bună; ideal pentru a încheia ziua într-un mod uscat și cultural.",
+                "en": "The museum is located directly on the coastal road with good parking; ideal for ending the day in a dry and cultural way."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist Autofahren in Heraklion entspannt, da weniger Verkehr herrscht. Vormittags ist Knossos bei milden Temperaturen ohne Warteschlangen ein Genuss. Mittags bietet die Fahrt zu den Stadtmauern klare Fernsichten. Da es um 17:00 Uhr dunkel wird, planen Sie Ihre Fahrten zwischen den Museen so, dass Sie den Sonnenuntergang am Hafen erleben.",
+            "hu": "Télen az autózás Heraklionban nyugodt, mivel kisebb a forgalom. Délelőtt Knósszosz az enyhe időben, sorban állás nélkül igazi élmény. Délben a városfalak menti autózás tiszta tálkilátást nyújt. Mivel 17:00-kor sötétedik, tervezze a múzeumok közötti utakat úgy, hogy a naplementét már a kikötőben érje.",
+            "ro": "Iarna condusul în Heraklion este relaxat, traficul fiind redus. Dimineața Knossos este o plăcere la temperaturi blânde, fără cozi. La prânz, drumul pe lângă ziduri oferă vederi clare la distanță. Deoarece se întunecă la ora 17:00, planifică drumurile între muzee pentru a prinde apusul în port.",
+            "en": "In winter, driving in Heraklion is relaxed as there is less traffic. In the morning, Knossos is a delight in mild temperatures without queues. At noon, driving along the city walls offers clear long-distance views. Since it gets dark at 17:00, plan your trips between museums to catch the sunset at the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palast von Knossos",
+                "hu": "Knósszoszi Palota",
+                "ro": "Palatul Knossos",
+                "en": "Knossos Palace"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Palast am kühlen Wintermorgen; ohne die Sommerhitze können Sie die weitläufige Anlage viel intensiver und stressfreier erkunden.",
+                "hu": "Látogassa meg a palotát a hűvös téli reggelen; a nyári hőség nélkül sokkal intenzívebben és stresszmentesebben fedezheti fel a hatalmas területet.",
+                "ro": "Vizitează palatul în dimineața răcoroasă de iarnă; fără canicula verii, poți explora zona vastă mult mai intens și fără stres.",
+                "en": "Visit the palace on a cool winter morning; without the summer heat, you can explore the vast site much more intensively and stress-free."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern",
+                "hu": "Városfalak",
+                "ro": "Zidurile Orașului",
+                "en": "CITY WALLS"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto, um verschiedene Abschnitte der Mauern anzusteuern; im Winter ist die Fernsicht auf die schneebedeckten Berge im Süden fantastisch.",
+                "hu": "Használja az autót a falak különböző szakaszainak felkereséséhez; télen fantasztikus kilátás nyílik a déli, hófödte hegyekre.",
+                "ro": "Folosește mașina pentru a ajunge la diferite secțiuni ale zidurilor; iarna, vederea spre munții înzăpeziți din sud este fantastică.",
+                "en": "Use the car to reach different sections of the walls; in winter, the distant view of the snow-capped mountains to the south is fantastic."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Heraklion",
+                "hu": "Heraklioni Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Heraklion",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und genießen Sie die Wärme der Ausstellungsräume; im Winter sind die Exponate ohne Gedränge viel besser zu fotografieren.",
+                "hu": "Parkoljon kényelmesen a közelben, és élvezze a kiállítótermek melegét; télen a műtárgyak tömeg nélkül sokkal jobban fotózhatók.",
+                "ro": "Parchează confortabil în apropiere și bucură-te de căldura sălilor; iarna exponatele pot fi fotografiate mult mai bine fără aglomerație.",
+                "en": "Park conveniently nearby and enjoy the warmth of the exhibition rooms; in winter, the artifacts are much easier to photograph without the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Titos Kirche",
+                "hu": "Agios Titos Templom",
+                "ro": "Biserica Agios Titos",
+                "en": "Agios Titos Church"
+              },
+              "tip_5lang": {
+                "de": "In der Winterdämmerung ist die beleuchtete Kirche ein magischer Anblick; kurze Parkstopps sind in der Nebensaison leichter zu finden.",
+                "hu": "A téli szürkületben a kivilágított templom varázslatos látvány; a főszezonon kívül könnyebb rövid időre parkolót találni a közelben.",
+                "ro": "În amurgul de iarnă, biserica iluminată este o priveliște magică; locurile de parcare pe termen scurt sunt mai ușor de găsit în extrasezon.",
+                "en": "In the winter twilight, the illuminated church is a magical sight; short-term parking spots are easier to find in the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Morosini-Brunnen",
+                "hu": "Morosini Szökőkút",
+                "ro": "Fântâna Morosini",
+                "en": "Morosini Fountain"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum ist im Winter authentischer; parken Sie am Rand und genießen Sie die festliche Beleuchtung der umliegenden Gassen am späten Nachmittag.",
+                "hu": "A központ télen hitelesebb; parkoljon a szélen, és élvezze a környező utcák ünnepi kivilágítását a késő délutáni órákban.",
+                "ro": "Centrul este mai autentic iarna; parchează la margine și bucură-te de iluminatul festiv al străzilor din jur spre seară.",
+                "en": "The center is more authentic in winter; park at the edge and enjoy the festive lighting of the surrounding alleys in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Museum von Kreta",
+                "hu": "Krétai Történeti Múzeum",
+                "ro": "Muzeul Istoric al Cretei",
+                "en": "Historical Museum of Crete"
+              },
+              "tip_5lang": {
+                "de": "Ideal für den Abschluss eines Wintertages; nach dem Museumsbesuch können Sie direkt von der Küstenstraße aus den frühen Sonnenuntergang im Auto genießen.",
+                "hu": "Ideális egy téli nap lezárásához; a múzeumlátogatás után közvetlenül a part menti útról, az autóból is élvezheti a korai naplementét.",
+                "ro": "Ideal pentru încheierea unei zile de iarnă; după vizită poți admira apusul devreme chiar de pe drumul de coastă, din mașină.",
+                "en": "Ideal for ending a winter day; after the museum visit, you can enjoy the early sunset directly from the coastal road, even from your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

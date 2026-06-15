@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Teltow óvárosában, ahol magába szívhatja a történelmi hangulatot. A sekély medence frissítő szünetet kínál ezután.\nDélben merüljön el a régió gazdag történelmében a helyi múzeumban. A kiállítások rendkívül informatívak és érdekesek.\nA délután a természeté. A Heinrich-Laehr-Park hatalmas fáival és árnyékos ösvényeivel hosszú, pihentető sétára csábít.\nA nap lezárásaként a Schönower Park zöld pázsitján pihenhet, és kényelmesen élvezheti az estét.",
         "ro": "Începeți ziua în orașul vechi din Teltow, unde puteți absorbi atmosfera istorică. Piscina puțin adâncă oferă apoi o pauză revigorantă.\nLa prânz, aprofundați istoria bogată a regiunii la muzeul local. Expozițiile de aici sunt extrem de informative și captivante.\nDupă-amiaza este dedicată naturii. Parcul Heinrich-Laehr vă invită la o plimbare lungă și relaxantă pe sub copaci uriași.\nPentru a încheia ziua, vă puteți relaxa pe pajiștile verzi din Parcul Schönower și puteți lăsa seara să se stingă confortabil.",
         "en": "Start your day in the old town of Teltow, where you can soak up the historical atmosphere. The shallow pool nearby offers a refreshing pause.\nAt midday, dive deep into the rich history of the region at the local museum. The exhibitions are informative and engaging.\nThe afternoon is all about nature. The Heinrich-Laehr-Park invites you for an extended, relaxing walk under massive, old trees.\nTo round off the day, relax on the green lawns of Schönower Park, enjoying a peaceful and comforting evening in the fresh air."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir in den Gassen der Altstadt Schutz unter den Dachvorsprüngen vor dem Nieselregen. Mittags trocknen wir im Heimatmuseum und vertiefen uns in die lokale Geschichte. Nachmittags bieten die Parkbäume begrenzten Schutz, doch auf den rutschigen Wegen ist Vorsicht geboten. Abends bricht die Dämmerung früh herein, sodass wir die Tour mit dem Schirm in der Hand bei Stadtlicht beenden.",
+            "hu": "Reggel az óváros szűk utcáin az eresz alatt keresünk menedéket a szemerkélő eső elől. Délben a helytörténeti múzeum vastag falai között száradunk meg, elmerülve a múlt emlékeiben. Délután a parkok fái adnak némi oltalmat, de a csúszós ösvényeken óvatosan lépkedünk. Este a szürkület hamar leszáll, így a sétát a városi fényeknél, ernyővel a kézben fejezzük be.",
+            "ro": "Dimineața căutăm adăpost sub streșinile străduțelor din centrul vechi pentru a ne feri de ploaie. La prânz ne uscăm în muzeul local, explorând istoria zonei în siguranță. După-amiaza, copacii din parcuri oferă o protecție parțială, dar atenție la potecile alunecoase. Seara, amurgul coboară rapid, așa că încheiem plimbarea sub umbrelă, printre luminile orașului.",
+            "en": "In the morning, we find shelter under the eaves of Altstadt's narrow streets to escape the drizzle. At noon, the museum provides a dry refuge while we explore local history. In the afternoon, park trees offer some cover, but be careful on the slippery paths. By evening, the grey skies bring an early twilight, and we finish our walk with umbrellas under the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Teltow",
+                "hu": "Altstadt Teltow",
+                "ro": "Altstadt Teltow",
+                "en": "Altstadt Teltow"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Gassen unter dem Schutz Ihres Regenschirms und achten Sie auf das Kopfsteinpflaster, das bei Nässe sehr rutschig sein kann.",
+                "hu": "Fedezze fel az óváros történelmi hangulatát az esernyő alól, és figyeljen a macskakövekre, amelyek nedvesen rendkívül csúszóssá válhatnak a séta során.",
+                "ro": "Explorați străduțele istorice sub protecția umbrelei și aveți grijă la pavajul de piatră, care devine foarte alunecos atunci când este ud.",
+                "en": "Explore the historic alleys from under your umbrella and watch your step on the cobblestones, which can become very slippery when wet during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Nichtschwimmer Becken",
+                "hu": "Nichtschwimmer Becken",
+                "ro": "Nichtschwimmer Becken",
+                "en": "Nichtschwimmer Becken"
+              },
+              "tip_5lang": {
+                "de": "Dieses Außenbecken wirkt im Regen sehr stimmungsvoll; nutzen Sie die befestigten Wege am Rand, um nasse Füße im tiefen Gras zu vermeiden.",
+                "hu": "Ez a kültéri medence esőben különleges hangulatot áraszt; használja a szegélyezett utakat, hogy elkerülje a vizes füvet és a beázott cipőket.",
+                "ro": "Bazinul exterior are o atmosferă melancolică în ploaie; folosiți potecile pavate de pe margine pentru a evita iarba udă și noroiul.",
+                "en": "This outdoor pool area feels quite atmospheric in the rain; stick to the paved perimeter paths to keep your feet dry and avoid the soaked grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum Teltow",
+                "hu": "Heimatmuseum Teltow",
+                "ro": "Heimatmuseum Teltow",
+                "en": "Heimatmuseum Teltow"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Rückzugsort bei Regen, um im Trockenen die Stadtgeschichte zu erleben; nutzen Sie die Garderobe für Ihre nassen Jacken.",
+                "hu": "Tökéletes menedék esőben a város történetének megismeréséhez; használja a múzeum ruhatárát a vizes kabátok és esernyők kényelmes tárolására.",
+                "ro": "Refugiul perfect pe timp de ploaie pentru a învăța istoria orașului la adăpost; folosiți garderoba pentru a lăsa hainele ude și umbrela.",
+                "en": "The perfect rainy day retreat to learn about local history while staying dry; use the museum's cloakroom for your wet jackets and umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Heinrich-Laehr-Park",
+                "hu": "Heinrich-Laehr-Park",
+                "ro": "Heinrich-Laehr-Park",
+                "en": "Heinrich-Laehr-Park"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten natürlichen Schutz vor Schauern, achten Sie jedoch auf von Ästen herabtropfendes Regenwasser nach dem Guss.",
+                "hu": "A sűrű lombok természetes védelmet nyújtanak a záporok elől, de ügyeljen az ágakról lecsöpögő vízre még az eső elállta után is a parkban.",
+                "ro": "Coroanele dese ale copacilor oferă adăpost natural, dar aveți grijă la apa care picură de pe ramuri chiar și după ce ploaia s-a oprit.",
+                "en": "The dense tree canopy offers natural shelter from showers, but watch out for water dripping from branches even after the rain has stopped."
+              }
+            },
+            {
+              "name": {
+                "de": "Schönower Park",
+                "hu": "Schönower Park",
+                "ro": "Schönower Park",
+                "en": "Schönower Park"
+              },
+              "tip_5lang": {
+                "de": "Ein erfrischender Spaziergang durch das Grün; bleiben Sie auf den Hauptwegen, da die Wiesenflächen bei Regen schnell matschig werden.",
+                "hu": "Frissítő séta a zöldben az eső után; maradjon a főbb aszfaltozott utakon, mivel a füves területek ilyenkor gyorsan felázhatnak és sárosak lehetnek.",
+                "ro": "O plimbare revigorantă prin verdeață; rămâneți pe aleile principale, deoarece zonele cu iarbă devin rapid noroioase în timpul ploii.",
+                "en": "A refreshing stroll through the greenery; stick to the main paved paths as the grassy areas can become muddy and waterlogged very quickly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die frostige Altstadt in dicker Winterkleidung. Mittags wärmen wir uns ausgiebig im Heimatmuseum auf, bevor die Kälte wieder spürbar wird. Nachmittags genießen wir die karge Schönheit der Parks im fahlen Sonnenlicht. Da die Sonne bereits gegen 17:00 Uhr untergeht, beenden wir den Tag zeitig und suchen die gemütliche Wärme in einem der örtlichen Cafés.",
+            "hu": "Reggel a fagyos óvárost fedezzük fel, alaposan felöltözve a téli hideg ellen. Délben a helytörténeti múzeumban melegszünk fel, élvezve a benti nyugalmat. Délután a kopár parkok különleges látványát csodáljuk meg a bágyadt napsütésben. Mivel a nap korán, 17:00 körül lebukik, a sétát időben befejezzük, és egy közeli meleg helyre húzódunk be.",
+            "ro": "Dimineața explorăm centrul vechi înghețat, bine îmbrăcați împotriva frigului de iarnă. La prânz ne încălzim în muzeul local, bucurându-ne de liniștea din interior. După-amiaza admirăm frumusețea austeră a parcurilor în lumina slabă a soarelui. Deoarece soarele apune devreme, în jurul orei 17:00, încheiem ziua din timp și căutăm căldura unui loc primitor.",
+            "en": "In the morning, we explore the frosty Altstadt bundled up in warm layers. At noon, the museum offers a welcome chance to thaw out and enjoy the exhibits in peace. In the afternoon, we admire the stark beauty of the bare parks in the pale sunlight. With sunset arriving early at 5 PM, we finish our tour promptly and retreat to a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Teltow",
+                "hu": "Altstadt Teltow",
+                "ro": "Altstadt Teltow",
+                "en": "Altstadt Teltow"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fachwerkhäuser in der klaren Winterluft; halten Sie sich in Bewegung, um trotz der Kälte warm zu bleiben.",
+                "hu": "Csodálja meg a fagerendás házakat a tiszta téli levegőn; maradjon folyamatos mozgásban a városnézés alatt, hogy megőrizze teste melegét a hidegben.",
+                "ro": "Admirați casele cu bârne de lemn în aerul rece de iarnă; rămâneți în mișcare pe parcursul vizitei pentru a vă menține căldura corporală.",
+                "en": "Admire the half-timbered houses in the crisp winter air; keep moving during your sightseeing to stay warm against the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Nichtschwimmer Becken",
+                "hu": "Nichtschwimmer Becken",
+                "ro": "Nichtschwimmer Becken",
+                "en": "Nichtschwimmer Becken"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort im Winter; tragen Sie isolierte Stiefel, da der Boden in Wassernähe oft gefroren und besonders rutschig ist.",
+                "hu": "Csendes hely a téli szezonban; viseljen bélelt bakancsot, mert a víz közeli talaj gyakran lefagyhat és meglepően csúszós lehet ilyenkor.",
+                "ro": "Un loc liniștit iarna; purtați ghete izolate, deoarece solul din apropierea apei este adesea înghețat și deosebit de alunecos.",
+                "en": "A peaceful spot in winter; wear insulated boots as the ground near the water is often frozen and can be surprisingly slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum Teltow",
+                "hu": "Heimatmuseum Teltow",
+                "ro": "Heimatmuseum Teltow",
+                "en": "Heimatmuseum Teltow"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich nach dem Spaziergang aufzuwärmen; genießen Sie die behagliche Atmosphäre im Inneren des historischen Gebäudes.",
+                "hu": "Ideális hely a felmelegedésre a kinti séta után; élvezze a történelmi épület belső tereinek barátságos melegét és a nyugodt kiállításokat.",
+                "ro": "Locul ideal pentru a vă încălzi după plimbarea de afară; bucurați-vă de atmosfera primitoare din interiorul clădirii istorice.",
+                "en": "The ideal place to warm up after your walk; enjoy the cozy atmosphere inside the historic building while exploring the quiet exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Heinrich-Laehr-Park",
+                "hu": "Heinrich-Laehr-Park",
+                "ro": "Heinrich-Laehr-Park",
+                "en": "Heinrich-Laehr-Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick durch die kahlen Bäume; denken Sie an eine warme Mütze, da der Wind im offenen Park kräftig wehen kann.",
+                "hu": "Élvezze a kilátást a kopár fák között; hozzon meleg sapkát, mert a nyitott parkban a téli szél sokkal erősebben érezhető a séta során.",
+                "ro": "Bucurați-vă de priveliștea deschisă printre copacii golași; purtați o căciulă groasă, deoarece vântul poate fi puternic în zonele deschise.",
+                "en": "Enjoy the long views through the bare trees; remember to wear a warm hat as the winter wind can feel much stronger in the open park."
+              }
+            },
+            {
+              "name": {
+                "de": "Schönower Park",
+                "hu": "Schönower Park",
+                "ro": "Schönower Park",
+                "en": "Schönower Park"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang durch die Baumreihen; die Wege können bei Frost glatt sein, gehen Sie daher besonders vorsichtig.",
+                "hu": "Figyelje meg a korai naplementét a fák között; a fagyott utak helyenként jegesek lehetnek, ezért haladjon óvatosan a parki séta alatt.",
+                "ro": "Admirați apusul timpuriu printre rândurile de copaci; aleile pot fi înghețate, așa că mergeți cu atenție sporită prin parcul liniștit.",
+                "en": "Watch the early sunset through the rows of trees; the paths can be icy after a frost, so walk with extra caution through the park."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája az óváros szívében kezdődik, mielőtt a helytörténeti múzeumba pedálozna, hogy megismerje a helyi kultúrát.\nDélben érkezik az állatkertbe, ahol a természet lágy ölén piknikezhet és megfigyelheti a kedves helyi állatokat.\nDélután a Heinrich-Laehr-Park és a Schönower Park zöld oázisain halad keresztül, amelyek mindkettő csodálatos kerékpárutakat kínálnak.\nA túra a festői Teltow-csatornánál ér véget. Élvezze az esti hangulatot a vízparton, és figyelje az elhaladó hajókat.",
         "ro": "Turul cu bicicleta începe în inima orașului vechi, înainte de a pedala spre muzeul local pentru a afla mai multe despre cultura zonei.\nLa prânz veți ajunge la zoo, unde puteți face un picnic în mijlocul naturii și puteți observa animalele locale drăguțe.\nDupă-amiaza veți pedala prin oazele verzi ale Parcului Heinrich-Laehr și Parcului Schönower, ambele oferind piste de biciclete minunate.\nTurul se termină la pitorescul Canal Teltow. Bucurați-vă de atmosfera de seară pe malul apei și urmăriți bărcile care trec.",
         "en": "Your bike tour begins in the heart of the old town before pedaling to the local history museum to learn about the area's culture.\nAround midday, you will reach the animal park, where you can picnic surrounded by nature and observe the friendly local animals.\nIn the afternoon, cycle through the green oases of Heinrich-Laehr-Park and Schönower Park, both offering wonderful, flat bike paths.\nThe tour concludes at the scenic Teltow Canal. Enjoy the tranquil evening atmosphere by the water and watch the passing boats."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour in Regenbekleidung durch die Altstadt. Mittags ist das Museum ein willkommener Stopp, um die Kleidung etwas zu lüften. Nachmittags fordern nasse Radwege im Tiergarten und den Parks erhöhte Konzentration. Die Tour endet am Kanal, wo wir trotz grauer Wolken die frische Luft genießen, bevor die Sicht im Regen schlechter wird.",
+            "hu": "Esőruházatban vágunk neki a kerékpáros túrának az óvároson át. Délben a múzeum kiváló pihenőpont a száradáshoz és pihenéshez. Délután a vizes bicikliutak a Tiergarten és a parkok környékén fokozott figyelmet igényelnek a csúszásveszély miatt. A túrát a csatornánál zárjuk, élvezve a friss levegőt a szürke fellegek alatt is.",
+            "ro": "Pornim turul cu bicicleta prin centrul vechi echipați cu haine impermeabile. La prânz, muzeul este un popas binevenit pentru a ne odihni. După-amiaza, pistele umede din Tiergarten și parcuri necesită o concentrare sporită din cauza riscului de derapare. Încheiem traseul la canal, bucurându-ne de aerul curat în ciuda norilor cenușii.",
+            "en": "We set off on our bike tour through Altstadt wearing waterproof gear. At noon, the museum is a perfect stop to take a break from the rain. In the afternoon, the wet cycle paths near Tiergarten and the parks require extra focus due to slippery surfaces. We end at the canal, enjoying the fresh air even under the heavy grey clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Teltow",
+                "hu": "Altstadt Teltow",
+                "ro": "Altstadt Teltow",
+                "en": "Altstadt Teltow"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über das nasse Kopfsteinpflaster und nutzen Sie eine wasserfeste Sattelabdeckung für die Pausen in der Altstadt.",
+                "hu": "Hajtson óvatosan a nedves macskaköveken, és használjon vízálló nyeregvédőt a megállók során, hogy száraz maradjon a nadrágja az út alatt.",
+                "ro": "Pedalați cu atenție pe pavajul ud și folosiți o protecție impermeabilă pentru șa în timpul pauzelor din centrul vechi al orașului.",
+                "en": "Ride carefully over the wet cobblestones and use a waterproof saddle cover during your stops in the old town to keep your gear dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum Teltow",
+                "hu": "Heimatmuseum Teltow",
+                "ro": "Heimatmuseum Teltow",
+                "en": "Heimatmuseum Teltow"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Trockenen und nutzen Sie die Pause im Museum, um Ihre Regenbekleidung für die Weiterfahrt zu richten.",
+                "hu": "Parkolja le kerékpárját egy védettebb helyen, és használja ki a múzeumi pihenőt az esőruházat megigazítására a folytatás előtt.",
+                "ro": "Parcați bicicleta într-un loc ferit și folosiți pauza de la muzeu pentru a vă aranja echipamentul de ploaie înainte de a continua drumul.",
+                "en": "Park your bike in a sheltered spot and use the museum break to adjust your rain gear and rest before continuing the cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiergarten Teltow",
+                "hu": "Tiergarten Teltow",
+                "ro": "Tiergarten Teltow",
+                "en": "Tiergarten Teltow"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei Regen matschig sein; passen Sie Ihren Reifendruck leicht an, um mehr Grip auf den unbefestigten Flächen zu haben.",
+                "hu": "Az utak esőben sarasak lehetnek; vezessen óvatosan a kanyarokban, és figyeljen a sárvédőkre, hogy elkerülje a felverődő vizet a Tiergartenben.",
+                "ro": "Potecile pot fi noroioase; conduceți cu prudență în curbe și verificați dacă aripile bicicletei vă protejează eficient împotriva stropilor.",
+                "en": "The paths can be muddy; ride cautiously through corners and ensure your mudguards are adjusted to protect you from splashes in Tiergarten."
+              }
+            },
+            {
+              "name": {
+                "de": "Heinrich-Laehr-Park",
+                "hu": "Heinrich-Laehr-Park",
+                "ro": "Heinrich-Laehr-Park",
+                "en": "Heinrich-Laehr-Park"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie starkes Bremsen auf nassem Laub in den Parkalleen, da dies die Rutschgefahr für Radfahrer erheblich steigert.",
+                "hu": "Kerülje az erős fékezést a nedves avaron a parki utakon, mivel az elázott levelek rendkívül csúszós felületet alkothatnak a kerekek alatt.",
+                "ro": "Evitați frânarea bruscă pe frunzele ude de pe aleile parcului, deoarece acestea pot crea o suprafață foarte alunecoasă pentru bicicletă.",
+                "en": "Avoid heavy braking on wet leaves along the park paths, as the soaked foliage can create a very slippery surface for your bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Schönower Park",
+                "hu": "Schönower Park",
+                "ro": "Schönower Park",
+                "en": "Schönower Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Radwege und meiden Sie die Grasnarben, die bei Regen aufweichen und die Fahrt erschweren können.",
+                "hu": "Használja az aszfaltozott kerékpárutakat, és kerülje a füves padkát, amely esőben felpuhulhat és instabillá teheti a biciklit haladás közben.",
+                "ro": "Folosiți pistele de biciclete asfaltate și evitați marginile cu iarbă, care se înmoaie la ploaie și pot deveni instabile sub roți.",
+                "en": "Stick to the paved cycling paths and avoid the grassy edges, which can soften in the rain and make your bike feel unstable while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Teltowkanal",
+                "hu": "Teltowkanal",
+                "ro": "Teltowkanal",
+                "en": "Teltowkanal"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg ist windanfällig; tragen Sie eine windfeste Regenjacke, um gegen die Böen am Wasser beim Radfahren geschützt zu sein.",
+                "hu": "A csatornaparti út szélérzékeny terület; viseljen szélálló esőkabátot, hogy védve legyen a víztől érkező hűvös széllökések ellen.",
+                "ro": "Drumul de pe malul canalului este expus vântului; purtați o jachetă impermeabilă și rezistentă la vânt pentru a vă proteja în timpul pedalării.",
+                "en": "The path along the canal is exposed to wind; wear a windproof rain jacket to stay protected against the gusts coming off the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour beginnt mit einer frischen Fahrt durch die Altstadt. Mittags dient das Museum als wichtiger Aufwärmpunkt für Hände und Füße. Nachmittags durchqueren wir den Tiergarten und die Parks, während das Reif auf den Wegen knirscht. Den Sonnenuntergang erleben wir am Kanal bei klirrender Kälte, bevor wir die Tour im Licht unserer Fahrradlampen sicher beenden.",
+            "hu": "A téli kerékpártúra frissítő tekeréssel indul az óvároson át. Délben a múzeum kritikus fontosságú melegedőpont a kezeknek és lábaknak. Délután a Tiergarten és a parkok deres útjain haladunk át, figyelve a lefagyásokra. A naplementét a csatornánál érjük el a metsző hidegben, majd kerékpáros lámpáink fényénél fejezzük be a túrát.",
+            "ro": "Turul de iarnă cu bicicleta începe cu o cursă revigorantă prin centrul vechi. La prânz, muzeul este un punct vital de încălzire pentru mâini și picioare. După-amiaza traversăm Tiergarten și parcurile pe poteci înghețate, fiind atenți la gheață. Prindem apusul la canal în frigul pătrunzător, încheind traseul la lumina farurilor.",
+            "en": "Our winter bike tour starts with a brisk ride through the old town. At noon, the museum serves as a vital warm-up point for cold hands and feet. In the afternoon, we cycle through Tiergarten and the parks as frost crunches under our tires. We catch the sunset at the canal in the biting cold before finishing safely with our bike lights on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Teltow",
+                "hu": "Altstadt Teltow",
+                "ro": "Altstadt Teltow",
+                "en": "Altstadt Teltow"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, um die Bremshebel sicher bedienen zu können; achten Sie auf Glätte auf dem Kopfsteinpflaster.",
+                "hu": "Viseljen vastag, de rugalmas kesztyűt, hogy biztonságosan kezelhesse a fékeket; ügyeljen a jegesedésre a macskaköves utcaszakaszokon.",
+                "ro": "Purtați mănuși groase pentru a putea acționa frânele în siguranță; fiți atenți la porțiunile cu gheață de pe pavajul din centrul vechi.",
+                "en": "Wear warm yet flexible gloves to operate your brakes safely; watch out for icy patches on the cobblestone streets of the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum Teltow",
+                "hu": "Heimatmuseum Teltow",
+                "ro": "Heimatmuseum Teltow",
+                "en": "Heimatmuseum Teltow"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Museumspause, um Ihre Akkus warm zu halten, falls Sie mit einem E-Bike unterwegs sind, da Kälte die Kapazität senkt.",
+                "hu": "E-bike használata esetén ügyeljen az akkumulátorra, mert a hideg csökkenti a kapacitást; a múzeumi pihenő alatt tartsa melegen az eszközt.",
+                "ro": "Dacă folosiți o bicicletă electrică, aveți grijă de baterie, deoarece frigul îi scade capacitatea; păstrați-o la adăpost în timpul pauzei.",
+                "en": "If using an e-bike, be aware that the cold reduces battery capacity; keep your equipment protected during your warm-up break at the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiergarten Teltow",
+                "hu": "Tiergarten Teltow",
+                "ro": "Tiergarten Teltow",
+                "en": "Tiergarten Teltow"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können gefroren sein; fahren Sie mit reduziertem Tempo, um auf dem harten, glatten Untergrund im Tiergarten nicht wegzurutschen.",
+                "hu": "Az utak teljesen átfagyhatnak; haladjon lassabb tempóval a Tiergartenben, hogy elkerülje a megcsúszást a kemény és sima téli talajon.",
+                "ro": "Potecile pot fi complet înghețate; pedalați cu viteză redusă prin Tiergarten pentru a evita derapajele pe solul dur și alunecos.",
+                "en": "The paths can be completely frozen; ride at a reduced speed through Tiergarten to avoid slipping on the hard and slick winter ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Heinrich-Laehr-Park",
+                "hu": "Heinrich-Laehr-Park",
+                "ro": "Heinrich-Laehr-Park",
+                "en": "Heinrich-Laehr-Park"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie schattige Waldwege, auf denen sich Glatteis länger hält; bleiben Sie für mehr Sicherheit auf den sonnenexponierten Pfaden.",
+                "hu": "Kerülje az árnyékos erdei utakat, ahol a jég sokkal tovább megmaradhat; a biztonság érdekében maradjon a naposabb, nyitottabb ösvényeken.",
+                "ro": "Evitați potecile umbrite din pădure, unde gheața persistă mai mult; rămâneți pe traseele expuse la soare pentru o siguranță sporită.",
+                "en": "Avoid shaded wooded paths where black ice tends to linger longer; stay on the sunnier, more open trails for better safety and traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Schönower Park",
+                "hu": "Schönower Park",
+                "ro": "Schönower Park",
+                "en": "Schönower Park"
+              },
+              "tip_5lang": {
+                "de": "Kontrollieren Sie vor der Weiterfahrt Ihre Fahrradbeleuchtung, da es im Park unter den Bäumen bereits vor Sonnenuntergang dunkel wird.",
+                "hu": "A továbbhaladás előtt ellenőrizze a kerékpáros világítást, mivel a parki fák alatt már naplemente előtt is jelentősen romlanak a látási viszonyok.",
+                "ro": "Verificați luminile bicicletei înainte de a continua, deoarece sub copacii din parc vizibilitatea scade semnificativ înainte de apus.",
+                "en": "Check your bike lights before moving on, as visibility under the park trees drops significantly even before the actual winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Teltowkanal",
+                "hu": "Teltowkanal",
+                "ro": "Teltowkanal",
+                "en": "Teltowkanal"
+              },
+              "tip_5lang": {
+                "de": "Der Kanalwind kühlt stark aus; tragen Sie Funktionskleidung nach dem Zwiebelprinzip, um am Wasser nicht zu unterkühlen.",
+                "hu": "A csatorna menti szél gyorsan lehűtheti a testet; öltözzön rétegesen, és használjon szélálló ruházatot a túra utolsó szakaszán a víz mellett.",
+                "ro": "Vântul de pe canal vă poate răci rapid; îmbrăcați-vă în straturi și folosiți haine rezistente la vânt pe ultima porțiune a traseului.",
+                "en": "The wind along the canal can chill you quickly; dress in functional layers and use windproof gear for this final stretch by the water."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje kényelmesen Teltow óvárosában, ahol megcsodálhatja az építészetet, mielőtt gyorsan továbbhajtana a helytörténeti múzeumba.\nDélben az állatkert nagyszerű élményt kínál az egész család számára, amely tökéletes egy nyugodt, közös sétához.\nDélután a Schönower Parkba vezet az útja, amely széles pázsitjával és árnyékos fáival tiszta kikapcsolódást ígér minden látogatónak.\nA tökéletes befejezést a Teltow-csatorna nyújtja. Itt a parton pihenve fejezheti be a napot, miközben a nap lassan lenyugszik.",
         "ro": "Începeți confortabil în orașul vechi din Teltow pentru a admira arhitectura, înainte de a conduce rapid spre muzeul local de istorie.\nLa prânz, parcul de animale oferă o experiență grozavă pentru întreaga familie, perfectă pentru o plimbare relaxantă și educativă.\nDupă-amiaza veți conduce către Parcul Schönower, care promite o relaxare pură cu peluzele sale largi și copacii umbroși.\nCanalul Teltow oferă finalul perfect. Aici vă puteți încheia ziua relaxându-vă pe mal, în timp ce soarele apune încet.",
         "en": "Start comfortably in the old town of Teltow to admire the historic architecture before driving quickly to the local history museum.\nAt midday, the animal park offers a great experience for the whole family, providing the perfect setting for a relaxed stroll.\nIn the afternoon, drive over to Schönower Park, which promises pure relaxation with its wide, open lawns and large shady trees.\nThe Teltow Canal provides the perfect finale. Here you can end your day relaxing by the banks as the sun slowly sets over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist das Auto ideal für Teltow. Wir parken nah an der Altstadt und bleiben zwischen den Stopps trocken. Mittags genießen wir den Museumsbesuch ohne Sorgen um das Wetter. Nachmittags betrachten wir den Tiergarten und die Parks oft aus dem Fenster oder wagen nur kurze Gänge. Die Fahrt endet am Kanal, während die Scheibenwischer den grauen Tag begleiten.",
+            "hu": "Esőben az autó ideális választás Teltow felfedezéséhez. Az óvároshoz közel parkolunk, és szárazon maradunk a megállók között. Délben a múzeumban töltjük az időt, nem törődve a kinti felhőszakadással. Délután a Tiergartent és a parkokat gyakran csak az ablakból csodáljuk. A napot a csatornánál zárjuk, miközben az ablaktörlők ütemesen járnak.",
+            "ro": "Pe ploaie, mașina este ideală pentru a explora Teltow. Parcăm aproape de centrul vechi și rămânem uscați între opriri. La prânz ne bucurăm de vizita la muzeu fără grija vremii. După-amiaza admirăm parcurile de la fereastră sau facem doar plimbări scurte. Încheiem ziua la canal, în timp ce ștergătoarele bat în ritmul zilei cenușii.",
+            "en": "In the rain, the car is the ideal way to explore Teltow comfortably. We park near the Altstadt and stay dry between stops. At noon, we enjoy the museum visit without worrying about the downpour outside. In the afternoon, we often view the parks from the car window or take only brief walks. The day ends at the canal with the wipers rhythmic in the grey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Teltow",
+                "hu": "Altstadt Teltow",
+                "ro": "Altstadt Teltow",
+                "en": "Altstadt Teltow"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Rand der Altstadt, um die Wege im Regen so kurz wie möglich zu halten und trocken ans Ziel zu kommen.",
+                "hu": "Használja az óváros szélén található parkolókat, hogy a lehető legrövidebb ideig kelljen az esőben gyalogolnia a történelmi épületekig.",
+                "ro": "Folosiți parcările de la marginea centrului vechi pentru a scurta la maximum distanța parcursă pe jos prin ploaie până la obiective.",
+                "en": "Use the parking spaces right at the edge of the old town to keep your walking distance in the rain as short as possible to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum Teltow",
+                "hu": "Heimatmuseum Teltow",
+                "ro": "Heimatmuseum Teltow",
+                "en": "Heimatmuseum Teltow"
+              },
+              "tip_5lang": {
+                "de": "Ein ausgezeichneter Stopp bei Regen; parken Sie in der Nähe des Eingangs und lassen Sie nasse Schirme im Auto, um das Museum trocken zu genießen.",
+                "hu": "Kiváló megálló esős időben; parkoljon a bejárat közelében, és az esernyőket hagyja az autóban, hogy kényelmesen nézhesse végig a tárlatot.",
+                "ro": "O oprire excelentă pe ploaie; parcarea aproape de intrare vă permite să lăsați umbrelele ude în mașină și să vizitați muzeul relaxat.",
+                "en": "An excellent stop for a rainy day; park near the entrance and consider leaving your wet umbrellas in the car to enjoy the museum comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiergarten Teltow",
+                "hu": "Tiergarten Teltow",
+                "ro": "Tiergarten Teltow",
+                "en": "Tiergarten Teltow"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf unbefestigte Parkflächen, die bei starkem Regen aufweichen können; wählen Sie einen festen Untergrund für Ihr Fahrzeug.",
+                "hu": "Ügyeljen a nem aszfaltozott parkolóhelyekre, amelyek heves esőzéskor felázhatnak; válasszon szilárd burkolatú helyet az autó számára.",
+                "ro": "Aveți grijă la parcările neamenajate care se pot înmuia la ploaie torențială; alegeți o suprafață solidă pentru a parca vehiculul în siguranță.",
+                "en": "Watch out for unpaved parking areas that can become soft during heavy rain; choose a solid surface for your vehicle to avoid getting stuck."
+              }
+            },
+            {
+              "name": {
+                "de": "Schönower Park",
+                "hu": "Schönower Park",
+                "ro": "Schönower Park",
+                "en": "Schönower Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Parklandschaft aus dem warmen Auto oder unternehmen Sie nur einen kurzen, wetterfesten Abstecher zu den Teichen.",
+                "hu": "Élvezze a park látványát a meleg autóból, vagy tegyen csak egy rövid, vízálló ruházatban végzett kitérőt a tavakhoz a friss levegőért.",
+                "ro": "Bucurați-vă de priveliștea parcului din mașina încălzită sau faceți doar o scurtă plimbare până la iazuri cu echipament impermeabil.",
+                "en": "Enjoy the view of the park landscape from your warm car, or take only a very brief, waterproof-clad detour to the ponds for some air."
+              }
+            },
+            {
+              "name": {
+                "de": "Teltowkanal",
+                "hu": "Teltowkanal",
+                "ro": "Teltowkanal",
+                "en": "Teltowkanal"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bei schlechter Sicht durch Regen besonders vorsichtig entlang der Uferstraßen und nutzen Sie das Abblendlicht für mehr Sicherheit.",
+                "hu": "Rossz látási viszonyok és eső esetén vezessen különösen óvatosan a parti utakon, és használja a tompított fényszórót a biztonság érdekében.",
+                "ro": "Conduceți cu prudență sporită pe drumurile de pe malul canalului în condiții de vizibilitate redusă și folosiți faza scurtă pentru siguranță.",
+                "en": "Drive with extra caution along the riverside roads during low visibility and rain, and ensure your headlights are on for maximum safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto startet gemütlich beheizt in der Altstadt. Mittags bietet das Museum eine kulturelle Pause in wohliger Wärme. Nachmittags fahren wir durch die frostige Landschaft zum Tiergarten und den Parks, wobei wir die kurzen Gehwege im Schnee genießen. Da es um 17:00 Uhr dunkel wird, bewundern wir den Kanal im Scheinwerferlicht, bevor wir den Tag beenden.",
+            "hu": "A téli autós túra kellemesen fűtött utastérben indul az óvárosnál. Délben a múzeum nyújt kulturális kikapcsolódást a benti melegben. Délután a fagyos tájon át autózunk a Tiergartenhez és a parkokhoz, élvezve a rövid sétákat a tiszta levegőn. Mivel 17:00-kor sötétedik, a csatornát már a fényszórók fényénél csodáljuk meg a nap végén.",
+            "ro": "Turul de iarnă cu mașina începe confortabil, cu căldură, în centrul vechi. La prânz, muzeul oferă o pauză culturală într-o atmosferă primitoare. După-amiaza conducem prin peisajul înghețat către Tiergarten și parcuri, bucurându-ne de scurte plimbări. Deoarece se întunecă la ora 17:00, admirăm canalul la lumina farurilor înainte de a încheia ziua.",
+            "en": "Our winter car tour starts in a comfortably heated cabin near the old town. At noon, the museum offers a cultural break in cozy warmth. In the afternoon, we drive through the frosty landscape to Tiergarten and the parks, enjoying brief walks in the crisp air. As it gets dark by 5 PM, we admire the canal in the glow of our headlights before ending the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt Teltow",
+                "hu": "Altstadt Teltow",
+                "ro": "Altstadt Teltow",
+                "en": "Altstadt Teltow"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto in einer gut beleuchteten Zone; achten Sie beim Aussteigen auf glatte Stellen durch gefrorenes Tauwasser auf der Straße.",
+                "hu": "Parkoljon jól megvilágított helyen; kiszálláskor ügyeljen az úttesten lévő jegesedésekre, amelyeket a visszafagyott hólé okozhat az óvárosban.",
+                "ro": "Parcați într-o zonă bine iluminată; la coborâre, aveți grijă la porțiunile înghețate de pe carosabil create de apa care a înghețat peste noapte.",
+                "en": "Park in a well-lit area; be careful when stepping out of the car, as frozen runoff can create very slippery patches on the old town streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum Teltow",
+                "hu": "Heimatmuseum Teltow",
+                "ro": "Heimatmuseum Teltow",
+                "en": "Heimatmuseum Teltow"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um das Auto etwas abkühlen zu lassen, damit die Scheiben bei der Weiterfahrt durch den Temperaturunterschied nicht beschlagen.",
+                "hu": "Használja ki a múzeumi időt; a továbbhaladás előtt ellenőrizze, hogy a szélvédők nincsenek-e párásodva a kinti hideg és a benti meleg különbsége miatt.",
+                "ro": "Bucurați-vă de timpul petrecut la muzeu și asigurați-vă că dezaburiți bine geamurile înainte de a pleca mai departe din cauza diferenței de temperatură.",
+                "en": "Use your time at the museum; before driving on, ensure your windows are clear as the temperature difference can cause them to fog up quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiergarten Teltow",
+                "hu": "Tiergarten Teltow",
+                "ro": "Tiergarten Teltow",
+                "en": "Tiergarten Teltow"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Anfahrt den Zustand der Parkwege im Tiergarten, da diese bei Frost sehr fest, aber auch tückisch glatt sein können.",
+                "hu": "Érkezés előtt ellenőrizze a Tiergarten környéki utak állapotát, mivel a fagyott talaj kemény, de rendkívül csalóka és csúszós lehet az autó számára.",
+                "ro": "Verificați starea drumurilor din zona Tiergarten înainte de sosire, deoarece solul înghețat poate fi dur, dar extrem de înșelător și alunecos.",
+                "en": "Check the road conditions near Tiergarten before arrival, as the frozen ground can be very hard but also deceptively slick for your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Schönower Park",
+                "hu": "Schönower Park",
+                "ro": "Schönower Park",
+                "en": "Schönower Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher und unternehmen Sie einen kurzen Winterspaziergang; die klare Luft im Park ist besonders erfrischend nach der Fahrt im warmen Auto.",
+                "hu": "Parkoljon biztonságos helyen, és tegyen egy rövid téli sétát; a park friss, tiszta levegője különösen üdítő a fűtött autóban töltött idő után.",
+                "ro": "Parcați în siguranță și faceți o scurtă plimbare de iarnă; aerul curat din parc este foarte revigorant după timpul petrecut în mașina încălzită.",
+                "en": "Park safely and take a short winter stroll; the crisp, clear air in the park is especially refreshing after spending time in a heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Teltowkanal",
+                "hu": "Teltowkanal",
+                "ro": "Teltowkanal",
+                "en": "Teltowkanal"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Nebelbildung am Wasser bei tiefen Temperaturen; fahren Sie mit angemessener Geschwindigkeit und nutzen Sie Ihre Winterbeleuchtung.",
+                "hu": "Ügyeljen a víz feletti ködképződésre alacsony hőmérséklet esetén; vezessen mérsékelt sebességgel és használja a megfelelő világítást a csatornánál.",
+                "ro": "Atenție la formarea ceții deasupra apei la temperaturi scăzute; conduceți cu viteză adaptată și folosiți iluminarea corespunzătoare la canal.",
+                "en": "Watch out for fog forming over the water in low temperatures; drive at a moderate speed and ensure your winter lighting is functioning correctly."
+              }
+            }
+          ]
+        }
       }
     }
   }

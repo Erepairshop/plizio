@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját a történelmi Caddebostan Zsinagógánál. Itt azonnal megérezheti a negyed kulturális gazdagságát és békés hangulatát. \nEzt követően kényelmesen sétáljon végig a tengerparton az első homokos strandszakaszig, ahol élvezheti a friss tengeri szellőt. \nAz út a második strandhoz vezet, majd a szárazföld belseje felé a Galeri ARK modern művészeti terébe, amely lenyűgöző alkotásokat rejt. \nVégül a Haldun Taner Múzeumban elmerülhet a török irodalomtörténetben, tökéletesen zárva ezt a Márvány-tenger parti napot.",
         "ro": "Începeți plimbarea la istorica Sinagogă Caddebostan. Aici veți simți imediat bogăția culturală și atmosfera pașnică a cartierului. \nApoi, plimbați-vă pe îndelete de-a lungul coastei până la prima secțiune de plajă, unde vă puteți bucura de briza proaspătă a mării. \nTraseul continuă spre a doua plajă, apoi spre interior la Galeri ARK, unde veți descoperi opere de artă modernă fascinante. \nÎn cele din urmă, la Casa Muzeu Haldun Taner, vă veți cufunda în istoria literaturii turcești. O zi perfectă pe coasta Mării Marmara.",
         "en": "Begin your walk at the historic Caddebostan Synagogue, where you can easily sense the cultural richness of the entire neighborhood. \nAfterwards, take a leisurely stroll along the scenic coast to the first beach section, enjoying the fresh sea breeze on your face. \nThe path continues to the second beach, then heads inland to the modern Galeri ARK, where local and contemporary artworks inspire. \nFinally, at the Haldun Taner Museum House, immerse yourself deeply in Turkish literary history. A perfect day by the Sea of Marmara."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Caddebostan-Ufer mit grauem Himmel und dem Rauschen des Regens. Mittags führt der Weg an den Stränden vorbei, wo die stürmische See eine dramatische Kulisse bietet. Am Nachmittag bieten die Galerien einen perfekten, trockenen Zufluchtsort vor den Pfützen. Der Abend endet gemütlich in den warmen Museumsräumen, während draußen der Regen auf die Straßen peitscht.",
+            "hu": "A reggel szürke égbolttal és az eső kopogásával indul a Caddebostan parton. Délben a strandok mentén haladunk, ahol a viharos tenger drámai látványt nyújt a vizes sétányról. Délután a galériák nyújtanak tökéletes, száraz menedéket a tócsák elől. Az este meghitt hangulatban, a múzeum meleg falai között ér véget, miközben odakint az eső mossa az utcákat.",
+            "ro": "Dimineața începe pe malul Caddebostan sub un cer gri și sunetul ploii. La prânz, traseul trece pe lângă plaje, unde marea agitată oferă un spectacol dramatic. După-amiaza, galeriile oferă un refugiu uscat perfect împotriva bălților de pe trotuar. Seara se încheie confortabil în interiorul muzeului, în timp ce afară ploaia continuă să bată pe străzile orașului.",
+            "en": "The morning starts on the Caddebostan shore with grey skies and the sound of falling rain. At noon, the route passes the beaches, where the stormy sea provides a dramatic backdrop from the wet promenade. In the afternoon, the galleries offer a perfect, dry refuge from the puddles. The evening ends cozily within the warm museum walls while the rain washes the streets outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caddebostan Sinagogu",
+                "hu": "Caddebostan Sinagogu",
+                "ro": "Caddebostan Sinagogu",
+                "en": "Caddebostan Sinagogu"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die markante Fassade der Synagoge und suchen Sie bei plötzlichen Schauern Schutz unter den Vordächern der Nachbargebäude; ein Schirm ist hier Pflicht.",
+                "hu": "Csodálja meg a zsinagóga különleges homlokzatát, hirtelen zápor esetén pedig keressen menedéket a szomszédos épületek ereszei alatt; az esernyő itt kötelező.",
+                "ro": "Admirați fațada distinctivă a sinagogii și căutați adăpost sub streșinile clădirilor învecinate în caz de ploaie bruscă; umbrela este obligatorie aici.",
+                "en": "Admire the synagogue's distinctive facade and seek shelter under the eaves of neighboring buildings during sudden showers; a sturdy umbrella is a must here."
+              }
+            },
+            {
+              "name": {
+                "de": "Caddebostan Plajı",
+                "hu": "Caddebostan Plajı",
+                "ro": "Caddebostan Plajı",
+                "en": "Caddebostan Plajı"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die aufgewühlte Marmarasee von den befestigten Wegen aus; meiden Sie die rutschigen Sandbereiche und tragen Sie wasserfeste Schuhe.",
+                "hu": "Élvezze a felkorbácsolt Márvány-tenger látványát a kiépített sétányról; kerülje a csúszós homokos részeket és viseljen vízálló lábbelit a parton.",
+                "ro": "Bucurați-vă de vederea Mării Marmara agitate de pe aleile pavate; evitați zonele cu nisip alunecos și purtați încălțăminte impermeabilă pe plajă.",
+                "en": "Enjoy the view of the churning Marmara Sea from the paved paths; avoid the slippery sandy areas and wear waterproof footwear along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Caddebostan Plajı 2",
+                "hu": "Caddebostan Plajı 2",
+                "ro": "Caddebostan Plajı 2",
+                "en": "Caddebostan Plajı 2"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Wasseroberfläche vom Schutz der nahen Cafés aus; nutzen Sie die befestigten Wege, um nasse Füße zu vermeiden.",
+                "hu": "Figyelje az esőcseppek játékát a vízfelszínen a közeli kávézók védelméből; használja a kövezett utakat, hogy elkerülje a sárban való elakadást.",
+                "ro": "Urmăriți jocul picăturilor de ploaie pe suprafața apei din protecția cafenelelor din apropiere; folosiți potecile pavate pentru a evita noroiul.",
+                "en": "Watch the raindrops dance on the water's surface from the safety of nearby cafes; use the paved paths to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri ARK",
+                "hu": "Galeri ARK",
+                "ro": "Galeri ARK",
+                "en": "Galeri ARK"
+              },
+              "tip_5lang": {
+                "de": "Diese Galerie ist der ideale Ort, um dem Regen zu entfliehen und moderne Kunst in aller Ruhe zu genießen; stellen Sie Ihren nassen Schirm im Eingangsbereich ab.",
+                "hu": "Ez a galéria ideális hely az eső elöli meneküléshez és a modern művészet nyugodt élvezetéhez; hagyja a vizes esernyőt a bejárati tárolóban.",
+                "ro": "Această galerie este locul ideal pentru a scăpa de ploaie și a savura arta modernă în liniște; lăsați umbrela udă în suportul de la intrare.",
+                "en": "This gallery is the ideal spot to escape the rain and enjoy modern art in peace; leave your wet umbrella in the designated stand at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Haldun Taner Müze Evi",
+                "hu": "Haldun Taner Müze Evi",
+                "ro": "Haldun Taner Müze Evi",
+                "en": "Haldun Taner Müze Evi"
+              },
+              "tip_5lang": {
+                "de": "Das Museumshaus bietet eine warme Atmosphäre und Schutz vor dem Wetter; nutzen Sie die Zeit für eine vertiefte Besichtigung der Exponate, während es draußen regnet.",
+                "hu": "A múzeumház meleg légkört és védelmet nyújt az időjárás elől; szánjon időt a kiállítás alapos megtekintésére, amíg odakint szakad az eső.",
+                "ro": "Casa muzeu oferă o atmosferă caldă și protecție împotriva vremii; profitați de timp pentru o vizită detaliată a exponatelor cât timp afară plouă.",
+                "en": "The museum house offers a warm atmosphere and protection from the weather; take your time to explore the exhibits thoroughly while it pours outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Caddebostan empfängt Sie mit frischer, kalter Meeresbrise. Mittags spazieren wir am frostigen Ufer entlang, wo die Sonne tief über dem Horizont steht. Am Nachmittag suchen wir die wohlige Wärme der lokalen Galerien und Museen auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, endet der Tag in der stimmungsvollen Dämmerung des winterlichen Istanbuls.",
+            "hu": "A tiszta téli reggel friss, hideg tengeri szellővel köszönti Önt Caddebostanban. Délben a fagyos parton sétálunk, ahol a nap alacsonyan jár a látóhatár felett. Délután a helyi galériák és múzeumok barátságos melegét keressük fel. Mivel a nap már 17:00 körül lenyugszik, a nap a téli Isztambul hangulatos szürkületében ér véget.",
+            "ro": "O dimineață senină de iarnă în Caddebostan vă întâmpină cu o briză marină proaspătă și rece. La prânz, ne plimbăm pe malul înghețat, sub soarele palid. După-amiaza, căutăm căldura primitoare a galeriilor și muzeelor locale. Deoarece soarele apune deja în jurul orei 17:00, ziua se încheie în amurgul atmosferic al Istanbulului hibernal.",
+            "en": "A clear winter morning in Caddebostan greets you with a fresh, cold sea breeze. At noon, we walk along the frosty shore under the low winter sun. In the afternoon, we seek the cozy warmth of local galleries and museums. Since the sun sets around 17:00, the day ends in the atmospheric twilight of wintry Istanbul."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caddebostan Sinagogu",
+                "hu": "Caddebostan Sinagogu",
+                "ro": "Caddebostan Sinagogu",
+                "en": "Caddebostan Sinagogu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im klaren Winterlicht; tragen Sie winddichte Kleidung, da die Kälte in den schmalen Gassen oft deutlicher zu spüren ist.",
+                "hu": "Csodálja meg az építészetet a tiszta téli fényben; viseljen szélálló ruházatot, mert a hideg a szűk utcákban gyakran intenzívebbnek érződik.",
+                "ro": "Admirați arhitectura în lumina clară de iarnă; purtați haine rezistente la vânt, deoarece frigul se simte mai puternic pe străzile înguste.",
+                "en": "Admire the architecture in the clear winter light; wear windproof clothing as the cold often feels more intense in the narrow side streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Caddebostan Plajı",
+                "hu": "Caddebostan Plajı",
+                "ro": "Caddebostan Plajı",
+                "en": "Caddebostan Plajı"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter herrlich leer und ruhig; eine Thermoskanne mit heißem Tee macht den Aufenthalt im kalten Wind deutlich angenehmer.",
+                "hu": "A strand télen csodálatosan üres és csendes; egy termosz forró tea sokkal élvezetesebbé teszi a tartózkodást a metsző tengeri szélben.",
+                "ro": "Plaja este minunat de goală și liniștită iarna; un termos cu ceai fierbinte face șederea în vântul rece mult mai plăcută.",
+                "en": "The beach is wonderfully empty and quiet in winter; a thermos of hot tea makes your stay in the biting sea wind much more enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Caddebostan Plajı 2",
+                "hu": "Caddebostan Plajı 2",
+                "ro": "Caddebostan Plajı 2",
+                "en": "Caddebostan Plajı 2"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Meer; achten Sie auf glatte Stellen auf dem gefrorenen Boden der Strandpromenade.",
+                "hu": "Élvezze a tágas kilátást a téli tengerre; ügyeljen a csúszós foltokra a tengerparti sétány esetlegesen jeges burkolatán.",
+                "ro": "Bucurați-vă de vederea panoramică asupra mării iarna; aveți grijă la porțiunile alunecoase de pe pavajul înghețat al falezei.",
+                "en": "Enjoy the expansive view over the wintry sea; watch out for slippery patches on the potentially icy pavement of the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri ARK",
+                "hu": "Galeri ARK",
+                "ro": "Galeri ARK",
+                "en": "Galeri ARK"
+              },
+              "tip_5lang": {
+                "de": "Die gut beheizte Galerie bietet eine willkommene Pause von der Kälte; nutzen Sie das weiche Nachmittagslicht für eine bessere Sicht auf die Kunstwerke.",
+                "hu": "A jól fűtött galéria kellemes pihenőt kínál a hideg elől; használja ki a lágy délutáni fényeket a műalkotások jobb megfigyeléséhez.",
+                "ro": "Galeria bine încălzită oferă o pauză binevenită de la frig; profitați de lumina blândă de după-amiază pentru o mai bună vizibilitate a operelor.",
+                "en": "The well-heated gallery offers a welcome break from the cold; take advantage of the soft afternoon light to better observe the artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Haldun Taner Müze Evi",
+                "hu": "Haldun Taner Müze Evi",
+                "ro": "Haldun Taner Müze Evi",
+                "en": "Haldun Taner Müze Evi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag in der Wärme dieses Kulturdenkmals; da es draußen früh dunkel wird, kommen die beleuchteten Ausstellungsstücke besonders gut zur Geltung.",
+                "hu": "Zárja a napot e kulturális emlékhely melegében; mivel odakint korán sötétedik, a megvilágított kiállítási tárgyak különösen jól érvényesülnek.",
+                "ro": "Încheiați ziua în căldura acestui monument cultural; deoarece se întunecă devreme, exponatele iluminate ies în evidență în mod deosebit.",
+                "en": "End your day in the warmth of this cultural landmark; as it gets dark early outside, the illuminated exhibits look particularly striking."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája a TCDD Kulturális és Művészeti Központnál indul, amely tele van nosztalgiával és művészettörténettel a sínek közelében. \nInnen a Venüs Sanat felé teker, majd a Haldun Taner Múzeumházhoz, ahol felfedezheti a gazdag irodalmi múltat és emlékeket. \nDélután az útvonal a lenyűgöző Justinianus-ciszternához vezet, amely a környék egyik elrejtett, varázslatos bizánci ékköve. \nA túra a zöldellő Fenerbahçe Parkban és a szomszédos elegáns mecsetnél ér véget, ahol békésen pihenheti ki a nap fáradalmait.",
         "ro": "Turul dvs. cu bicicleta începe la Centrul Cultural TCDD, un loc plin de nostalgie și istorie a artei, situat lângă șinele de tren. \nDe acolo pedalați spre Venüs Sanat și mai departe spre Casa Muzeu Haldun Taner, unde veți descoperi un bogat trecut literar. \nDupă-amiaza, traseul duce la fascinanta Cisternă a lui Iustinian, o bijuterie bizantină ascunsă în acest cartier plin de viață. \nTurul se încheie relaxant în verdele Parc Fenerbahçe și la moscheea alăturată, unde puteți încheia ziua într-o atmosferă pașnică.",
         "en": "Your cycling tour starts at the TCDD Culture and Art Center, a place full of nostalgia and art history located near the railway tracks. \nFrom there, ride to Venüs Sanat and onwards to the Haldun Taner Museum House, where you will discover a rich literary past. \nIn the afternoon, the route leads to the fascinating Justinian Cistern, a truly magical hidden Byzantine jewel in the neighborhood. \nThe tour ends in the green Fenerbahçe Park and at the adjacent mosque, where you can peacefully relax after an active day of exploring."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet unter wolkenverhangenem Himmel im Kulturzentrum. Mittags führt die Fahrt zu den Galerien, wobei Vorsicht auf den nassen Straßen geboten ist. Nachmittags erkunden wir die Zisterne, die einen natürlichen Schutz bietet, bevor wir den Park streifen. Der Abend endet bei Regen in Fenerbahçe, wo die Lichter der Moschee auf dem nassen Asphalt glänzen.",
+            "hu": "A kerékpártúra felhős ég alatt indul a kulturális központtól. Délben a galériák felé tekerünk, fokozott óvatossággal a vizes utakon. Délután a természetes védelmet nyújtó ciszternát fedezzük fel, majd érintjük a parkot. Az este esőben zárul Fenerbahçéban, ahol a mecset fényei megcsillannak a vizes aszfalton.",
+            "ro": "Turul cu bicicleta pornește sub un cer înnorat de la centrul cultural. La prânz, pedalăm spre galerii, cu prudență sporită pe străzile ude. După-amiaza explorăm cisterna care oferă protecție naturală, apoi trecem prin parc. Seara se încheie pe ploaie în Fenerbahçe, unde luminile moscheii sclipesc pe asfaltul umed.",
+            "en": "The bike tour starts under overcast skies at the cultural center. At noon, we cycle towards the galleries, taking extra care on the wet roads. In the afternoon, we explore the cistern which provides natural shelter, then pass through the park. The evening ends in the rain in Fenerbahçe, where the mosque lights glisten on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "TCDD Kültür Sanat Merkezi",
+                "hu": "TCDD Kültür Sanat Merkezi",
+                "ro": "TCDD Kültür Sanat Merkezi",
+                "en": "TCDD Kültür Sanat Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie im Trockenen und prüfen Sie Ihre Bremsen; das Zentrum bietet ausreichend überdachte Flächen, um die Ausrüstung vor dem Regen zu schützen.",
+                "hu": "Induljon száraz helyről és ellenőrizze a fékeit; a központ tágas fedett területeket kínál a felszerelés eső elleni védelmére.",
+                "ro": "Porniți dintr-un loc uscat și verificați frânele; centrul oferă zone acoperite generoase pentru a proteja echipamentul de ploaie.",
+                "en": "Start from a dry spot and check your brakes; the center offers ample covered areas to protect your gear from the initial rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Venüs Sanat",
+                "hu": "Venüs Sanat",
+                "ro": "Venüs Sanat",
+                "en": "Venüs Sanat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer in der Nähe und wärmen Sie sich im Inneren auf; die Galerie ist eine perfekte Pause bei starkem Regen.",
+                "hu": "Használja a közeli fedett kerékpártárolót és melegedjen fel odabent; a galéria tökéletes megálló heves esőzés esetén.",
+                "ro": "Folosiți suportul de biciclete acoperit din apropiere și încălziți-vă în interior; galeria este un popas perfect în caz de ploaie torențială.",
+                "en": "Use the nearby covered bike rack and warm up inside; the gallery is a perfect pit stop during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Haldun Taner Müze Evi",
+                "hu": "Haldun Taner Müze Evi",
+                "ro": "Haldun Taner Müze Evi",
+                "en": "Haldun Taner Müze Evi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und genießen Sie die Ausstellung im Trockenen; der kurze Weg vom Rad zum Eingang lässt sich auch bei Regen leicht bewältigen.",
+                "hu": "Parkolja le biztonságosan a biciklit és élvezze a kiállítást szárazon; a kerékpártól a bejáratig tartó rövid út esőben is könnyen megtehető.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de expoziție la uscat; drumul scurt de la bicicletă la intrare este ușor de parcurs chiar și pe ploaie.",
+                "en": "Park your bike securely and enjoy the exhibition in the dry; the short path from the bike to the entrance is easily manageable even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Justinianus Cistern",
+                "hu": "Justinianus Cistern",
+                "ro": "Justinianus Cistern",
+                "en": "Justinianus Cistern"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdische Zisterne ist der beste Ort, um einem Wolkenbruch zu entgehen; achten Sie beim Abstieg auf die durch Feuchtigkeit rutschigen Stufen.",
+                "hu": "A föld alatti ciszterna a legjobb hely egy felhőszakadás elkerülésére; lefelé menet ügyeljen a pára miatt csúszós lépcsőfokokra.",
+                "ro": "Cisterna subterană este cel mai bun loc pentru a evita o aversă; aveți grijă la treptele care pot fi alunecoase din cauza umidității.",
+                "en": "The underground cistern is the best place to avoid a downpour; be careful on the steps which may be slippery due to the humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Fenerbahçe Parkı",
+                "hu": "Fenerbahçe Parkı",
+                "ro": "Fenerbahçe Parkı",
+                "en": "Fenerbahçe Parkı"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Parkwegen, die bei Regen rutschig sein können; die dichten Bäume bieten einen teilweisen Schutz vor leichtem Nieseln.",
+                "hu": "Tekerjen óvatosan a park útjain, amik esőben csúszósak lehetnek; a sűrű lombok részleges védelmet nyújtanak a könnyű szemerkélés ellen.",
+                "ro": "Pedalați cu atenție pe aleile parcului care pot fi alunecoase; coronamentul des al copacilor oferă o protecție parțială împotriva burniței.",
+                "en": "Cycle carefully on the park paths, which can be slippery when wet; the dense canopy provides partial protection against light drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Fenerbahçe Camii",
+                "hu": "Fenerbahçe Camii",
+                "ro": "Fenerbahçe Camii",
+                "en": "Fenerbahçe Camii"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour unter dem schützenden Vordach der Moschee; trocknen Sie Ihren Sattel ab, bevor Sie die Heimreise antreten.",
+                "hu": "Zárja a túrát a mecset védelmet nyújtó előtere alatt; törölje szárazra a nyerget, mielőtt elindulna hazafelé.",
+                "ro": "Încheiați turul sub pridvorul protector al moscheii; ștergeți șaua bicicletei înainte de a porni spre casă.",
+                "en": "End your tour under the mosque's protective porch; wipe your saddle dry before heading back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour beginnt frisch am Kulturzentrum. Mittags radeln wir durch die kühle Luft zu den warmen Museen, wobei Handschuhe unerlässlich sind. Am Nachmittag genießen wir die klare Sicht im Park und an der Zisterne. Da die Dämmerung gegen 17:00 Uhr einsetzt, sorgen wir für gute Beleuchtung am Rad für den Abschluss in Fenerbahçe.",
+            "hu": "A téli kerékpártúra frissen indul a kulturális központnál. Délben a hűvös levegőn tekerünk a meleg múzeumok felé, a kesztyű használata elengedhetetlen. Délután élvezzük a tiszta kilátást a parkban és a ciszternánál. Mivel 17:00 körül sötétedik, gondoskodunk a jó világításról a fenerbahçei befejezéshez.",
+            "ro": "Turul de iarnă cu bicicleta începe vioi la centrul cultural. La prânz pedalăm prin aerul rece spre muzeele încălzite; mănușile sunt esențiale. După-amiaza ne bucurăm de vizibilitatea clară din parc și de la cisternă. Deoarece se întunecă în jur de 17:00, ne asigurăm că avem lumini bune pentru finalul în Fenerbahçe.",
+            "en": "The winter bike tour starts briskly at the cultural center. At noon, we cycle through the cool air towards the warm museums; gloves are essential. In the afternoon, we enjoy the clear views in the park and at the cistern. Since it gets dark around 17:00, we ensure good lighting for the finish in Fenerbahçe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "TCDD Kültür Sanat Merkezi",
+                "hu": "TCDD Kültür Sanat Merkezi",
+                "ro": "TCDD Kültür Sanat Merkezi",
+                "en": "TCDD Kültür Sanat Merkezi"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Ausstellung auf, bevor Sie losfahren; eine winddichte Jacke ist für den ersten Abschnitt gegen den kalten Fahrtwind sehr zu empfehlen.",
+                "hu": "Melegedjen át a kiállításon indulás előtt; egy szélálló dzseki erősen ajánlott az első szakaszon a hideg menetszél ellen.",
+                "ro": "Încălziți-vă la expoziție înainte de plecare; o jachetă rezistentă la vânt este recomandată pentru prima etapă împotriva curentului rece.",
+                "en": "Warm up at the exhibition before heading out; a windproof jacket is highly recommended for the first leg against the cold headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Venüs Sanat",
+                "hu": "Venüs Sanat",
+                "ro": "Venüs Sanat",
+                "en": "Venüs Sanat"
+              },
+              "tip_5lang": {
+                "de": "Diese Galerie bietet die perfekte Möglichkeit, die Hände aufzuwärmen; das helle Winterlicht durch die Fenster setzt die Exponate wunderbar in Szene.",
+                "hu": "Ez a galéria tökéletes lehetőséget nyújt a kezek átmelegítésére; az ablakokon besütő világos téli fény csodásan emeli ki a kiállított tárgyakat.",
+                "ro": "Această galerie oferă ocazia perfectă de a vă încălzi mâinile; lumina clară de iarnă care intră pe ferestre scoate frumos în evidență exponatele.",
+                "en": "This gallery provides the perfect opportunity to warm up your hands; the bright winter light through the windows highlights the exhibits beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Haldun Taner Müze Evi",
+                "hu": "Haldun Taner Müze Evi",
+                "ro": "Haldun Taner Müze Evi",
+                "en": "Haldun Taner Müze Evi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt im warmen Museumshaus für eine Pause; stellen Sie sicher, dass Ihre Muskeln vor der Weiterfahrt nicht zu sehr auskühlen.",
+                "hu": "Használja ki a meleg múzeumházban töltött időt egy pihenőre; ügyeljen rá, hogy az izmai ne hűljenek ki túlságosan a továbbindulás előtt.",
+                "ro": "Folosiți timpul petrecut în casa muzeu încălzită pentru o pauză; asigurați-vă că mușchii nu se răcesc prea tare înainte de a continua drumul.",
+                "en": "Take advantage of the time in the warm museum house for a rest; make sure your muscles don't cool down too much before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Justinianus Cistern",
+                "hu": "Justinianus Cistern",
+                "ro": "Justinianus Cistern",
+                "en": "Justinianus Cistern"
+              },
+              "tip_5lang": {
+                "de": "Die Zisterne hält im Winter eine konstante, oft mildere Temperatur als draußen; achten Sie auf Kondenswasser an Ihrer Brille beim Eintreten.",
+                "hu": "A ciszterna télen állandó, gyakran a kintinél enyhébb hőmérsékletet tart; ügyeljen a szemüvegére lecsapódó párára a belépéskor.",
+                "ro": "Cisterna menține iarna o temperatură constantă, adesea mai blândă decât afară; atenție la condensul de pe ochelari la intrare.",
+                "en": "The cistern maintains a constant, often milder temperature than outside in winter; watch out for condensation on your glasses when entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Fenerbahçe Parkı",
+                "hu": "Fenerbahçe Parkı",
+                "ro": "Fenerbahçe Parkı",
+                "en": "Fenerbahçe Parkı"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft im Park ist erfrischend; fahren Sie zügig, um warm zu bleiben, und meiden Sie schattige, möglicherweise gefrorene Stellen.",
+                "hu": "A tiszta téli levegő a parkban frissítő; tekerjen tempósan, hogy melegen tartsa magát, és kerülje az árnyékos, jegesedésre hajlamos részeket.",
+                "ro": "Aerul curat de iarnă din parc este revigorant; pedalați vioi pentru a vă menține căldura și evitați zonele umbroase care pot fi înghețate.",
+                "en": "The clear winter air in the park is refreshing; cycle at a steady pace to stay warm and avoid shaded areas that might be frozen."
+              }
+            },
+            {
+              "name": {
+                "de": "Fenerbahçe Camii",
+                "hu": "Fenerbahçe Camii",
+                "ro": "Fenerbahçe Camii",
+                "en": "Fenerbahçe Camii"
+              },
+              "tip_5lang": {
+                "de": "Da es nun dunkel ist, prüfen Sie Ihre Fahrradbeleuchtung für den Rückweg; die beleuchtete Moschee bietet ein wunderschönes Fotomotiv in der Kälte.",
+                "hu": "Mivel már sötét van, ellenőrizze a kerékpár világítását a hazaúthoz; a kivilágított mecset csodás fotótéma a hidegben.",
+                "ro": "Deoarece s-a întunecat, verificați luminile bicicletei pentru drumul de întoarcere; moscheea iluminată oferă un subiect foto superb în frig.",
+                "en": "As it's now dark, check your bike lights for the ride back; the illuminated mosque provides a wonderful photo subject in the cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A nap a Don Kişot Sanat Suadiye-ben kezdődik, ahol a kortárs művészet és kultúra tökéletes kiindulópontja az autós kirándulásnak. \nEgy rövid út elviszi a Caddebostan Zsinagógához és a Recai Yahya Mecsethez, amelyek mindketten lenyűgöző építészettel büszkélkednek. \nTovábbhaladva meglátogatja a Tuğlacıbaşı Mecsetet és a szokatlan Repülőgép-emlékművet, a modern török történelem feltűnő darabját. \nAz útvonal a Venüs Sanat kiállításainál éri el csúcspontját, mielőtt kényelmesen, a város pezsgésében töltené el a kellemes estét.",
         "ro": "Ziua începe la Don Kişot Sanat Suadiye, unde arta și cultura contemporană formează preludiul perfect pentru turul dvs. cu mașina. \nO scurtă plimbare vă duce la Sinagoga Caddebostan și la Moscheea Recai Yahya, ambele impresionând prin arhitectura lor detaliată. \nMai departe, veți vizita Moscheea Tuğlacıbaşı și neobișnuitul monument cu avion, o piesă uimitoare a istoriei moderne turcești. \nTraseul culminează cu expozițiile de la Venüs Sanat, înainte de a vă relaxa confortabil în atmosfera plină de viață a orașului.",
         "en": "The day begins at Don Kişot Sanat Suadiye, where contemporary art and vibrant culture form the perfect start for your driving tour. \nA short drive takes you to the Caddebostan Synagogue and the Recai Yahya Mosque, both of which impress with beautiful architecture. \nMoving on, you will visit the Tuğlacıbaşı Mosque and the unusual Jet Monument, a striking piece of modern Turkish history. \nYour route reaches its grand finale at the exhibitions in Venüs Sanat, before you comfortably relax into the vibrant evening city atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt entspannt im regnerischen Suadiye. Mittags besuchen wir die religiösen Stätten, wobei die Parkplatzsuche bei Regen etwas länger dauern kann. Nachmittags besichtigen wir Denkmäler und Galerien aus dem Schutz des Wagens heraus. Der Abend klingt bei einer Fahrt entlang der nassen Küstenstraße aus, während die Scheibenwischer den Rhythmus angeben.",
+            "hu": "Az autós túra kényelmesen indul az esős Suadiyében. Délben vallási helyszíneket látogatunk meg, az esőben a parkolás kicsit több időt vehet igénybe. Délután emlékműveket és galériákat nézünk meg az autó védelméből. Az este a vizes tengerparti úton való autózással zárul, miközben az ablaktörlők adják az ütemet.",
+            "ro": "Turul cu mașina începe relaxat în Suadiye ploios. La prânz vizităm lăcașurile de cult; căutarea parcării pe ploaie poate dura puțin mai mult. După-amiaza vizităm monumente și galerii din confortul mașinii. Seara se încheie cu o plimbare pe șoseaua de coastă umedă, în ritmul ștergătoarelor de parbriz.",
+            "en": "The car tour starts relaxedly in rainy Suadiye. At noon, we visit religious sites; finding parking in the rain might take a bit longer. In the afternoon, we view monuments and galleries from the protection of the car. The evening ends with a drive along the wet coastal road, with the windshield wipers setting the rhythm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Don Kişot Sanat Suadiye",
+                "hu": "Don Kişot Sanat Suadiye",
+                "ro": "Don Kişot Sanat Suadiye",
+                "en": "Don Kişot Sanat Suadiye"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken ins Gebäude zu gelangen; die Galerie bietet eine inspirierende Zuflucht vor dem trüben Wetter.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy szárazon jusson be; a galéria inspiráló menedéket nyújt a borongós idő elől.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în interior; galeria oferă un refugiu plin de inspirație împotriva vremii mohorâte.",
+                "en": "Park as close to the entrance as possible to stay dry; the gallery provides an inspiring sanctuary from the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Caddebostan Sinagogu",
+                "hu": "Caddebostan Sinagogu",
+                "ro": "Caddebostan Sinagogu",
+                "en": "Caddebostan Sinagogu"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Eingang bewahrt Sie vor dem Regen; achten Sie auf tiefe Pfützen am Straßenrand beim Aussteigen.",
+                "hu": "Egy rövid vágta az autótól a bejáratig megvédi az esőtől; kiszálláskor ügyeljen az útmenti mély tócsákra.",
+                "ro": "Un sprint scurt de la mașină până la intrare vă va feri de ploaie; atenție la bălțile adânci de la marginea drumului când coborâți.",
+                "en": "A short dash from the car to the entrance will keep you dry; watch out for deep puddles at the roadside when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Recai Yahya Camii",
+                "hu": "Recai Yahya Camii",
+                "ro": "Recai Yahya Camii",
+                "en": "Recai Yahya Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee bietet einen ruhigen und trockenen Ort für eine Pause; nutzen Sie die Zeit im Auto, um Ihre Route bei den aktuellen Sichtverhältnissen zu planen.",
+                "hu": "A mecset csendes és száraz helyet kínál a pihenéshez; használja ki az autóban töltött időt az útvonal tervezésére a jelenlegi látási viszonyok mellett.",
+                "ro": "Moscheea oferă un loc liniștit și uscat pentru odihnă; profitați de timpul în mașină pentru a planifica traseul în condițiile actuale de vizibilitate.",
+                "en": "The mosque offers a quiet and dry place for a rest; use the time in the car to plan your route given the current visibility conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuğlacıbaşı Camii",
+                "hu": "Tuğlacıbaşı Camii",
+                "ro": "Tuğlacıbaşı Camii",
+                "en": "Tuğlacıbaşı Camii"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig auf den nassen Parkflächen; im Inneren der Moschee finden Sie Schutz vor dem prasselnden Regen und eine friedliche Atmosphäre.",
+                "hu": "Parkoljon óvatosan a vizes várakozóhelyeken; a mecset belsejében menedéket talál a kopogó eső elől és békés hangulat fogadja.",
+                "ro": "Parcați cu atenție pe locurile de parcare umede; în interiorul moscheii veți găsi adăpost de ploaia torențială și o atmosferă pașnică.",
+                "en": "Park carefully on the wet parking surfaces; inside the mosque, you'll find shelter from the pattering rain and a peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Jet Uçağı Anıtı",
+                "hu": "Jet Uçağı Anıtı",
+                "ro": "Jet Uçağı Anıtı",
+                "en": "Jet Uçağı Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal lässt sich auch gut durch die Windschutzscheibe betrachten; für ein schnelles Foto empfiehlt sich eine wetterfeste Kamera oder ein Regenschutz fürs Handy.",
+                "hu": "Az emlékmű a szélvédőn keresztül is jól megtekinthető; egy gyors fotóhoz időjárásálló kamera vagy a telefonra húzott tok ajánlott.",
+                "ro": "Monumentul poate fi admirat bine și prin parbriz; pentru o fotografie rapidă se recomandă o cameră rezistentă la apă sau protecție pentru telefon.",
+                "en": "The monument can be viewed well through the windshield; for a quick photo, a weather-resistant camera or phone case is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Venüs Sanat",
+                "hu": "Venüs Sanat",
+                "ro": "Venüs Sanat",
+                "en": "Venüs Sanat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den Stopps; die Galerie bietet einen trockenen Abschluss der Tour mit viel Raum für kulturelle Entdeckungen.",
+                "hu": "Használja az autó fűtését a megállók között; a galéria száraz befejezést kínál a túrának, rengeteg térrel a kulturális felfedezésekhez.",
+                "ro": "Folosiți încălzirea mașinii între opriri; galeria oferă un final de tur uscat, cu mult spațiu pentru descoperiri culturale.",
+                "en": "Use the car heater between stops; the gallery offers a dry conclusion to the tour with plenty of space for cultural exploration."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt im kühlen Suadiye, wo wir die Kunstszene erkunden. Mittags besuchen wir die religiösen Bauwerke, deren warme Innenräume einen schönen Kontrast zur Kälte bilden. Nachmittags stehen Denkmäler und Galerien auf dem Programm. Da es früh dunkel wird, genießen wir den Abend bei einer Fahrt entlang der beleuchteten Bağdat Avenue.",
+            "hu": "A téli autós túra a hűvös Suadiyében indul a művészeti szcéna felfedezésével. Délben vallási épületeket látogatunk, melyek meleg belső terei szép kontrasztot adnak a kinti hideggel. Délután emlékművek és galériák szerepelnek a programban. Mivel korán sötétedik, az estét a kivilágított Bağdat sugárúton autózva élvezzük.",
+            "ro": "Turul de iarnă cu mașina începe în Suadiye răcoros, explorând scena artistică. La prânz vizităm edificii religioase ale căror interioare calde contrastează frumos cu frigul de afară. După-amiaza programul include monumente și galerii. Deoarece se întunecă devreme, savurăm seara conducând pe bulevardul iluminat Bağdat.",
+            "en": "The winter car tour starts in cool Suadiye, exploring the art scene. At noon, we visit religious buildings whose warm interiors contrast beautifully with the cold outside. In the afternoon, monuments and galleries are on the agenda. Since it gets dark early, we enjoy the evening driving along the illuminated Bağdat Avenue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Don Kişot Sanat Suadiye",
+                "hu": "Don Kişot Sanat Suadiye",
+                "ro": "Don Kişot Sanat Suadiye",
+                "en": "Don Kişot Sanat Suadiye"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie im Wagen, bis die Heizung voll läuft, bevor Sie zur Galerie aufbrechen; die Kunstwerke wirken im sanften Winterlicht besonders intensiv.",
+                "hu": "Várjon az autóban, amíg a fűtés teljesen beindul, mielőtt a galériához indulna; a műalkotások a lágy téli fényben különösen intenzívnek hatnak.",
+                "ro": "Așteptați în mașină până când încălzirea funcționează complet înainte de a pleca spre galerie; operele de artă par deosebit de intense în lumina blândă de iarnă.",
+                "en": "Wait in the car until the heater is fully running before heading to the gallery; the artworks look particularly intense in the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Caddebostan Sinagogu",
+                "hu": "Caddebostan Sinagogu",
+                "ro": "Caddebostan Sinagogu",
+                "en": "Caddebostan Sinagogu"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur lässt sich bei klarem Winterhimmel hervorragend fotografieren; achten Sie beim Parken auf gefrorenes Laub auf dem Boden.",
+                "hu": "Az építészet tiszta téli égbolt mellett kiválóan fotózható; parkoláskor ügyeljen az úton lévő fagyott falevelekre.",
+                "ro": "Arhitectura poate fi fotografiată excelent sub un cer senin de iarnă; aveți grijă la frunzele înghețate de pe jos când parcați.",
+                "en": "The architecture can be photographed excellently under a clear winter sky; watch out for frozen leaves on the ground when parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Recai Yahya Camii",
+                "hu": "Recai Yahya Camii",
+                "ro": "Recai Yahya Camii",
+                "en": "Recai Yahya Camii"
+              },
+              "tip_5lang": {
+                "de": "In der Moschee finden Sie eine willkommene Aufwärmpause; die tiefstehende Wintersonne wirft lange, stimmungsvolle Schatten auf das Gebäude.",
+                "hu": "A mecsetben szívesen látott melegedőre lelhet; az alacsonyan járó téli nap hosszú, hangulatos árnyékokat vet az épületre.",
+                "ro": "În moschee veți găsi o pauză de încălzire binevenită; soarele de iarnă aflat jos pe cer proiectează umbre lungi și atmosferice pe clădire.",
+                "en": "You will find a welcome warming break in the mosque; the low winter sun casts long, atmospheric shadows on the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuğlacıbaşı Camii",
+                "hu": "Tuğlacıbaşı Camii",
+                "ro": "Tuğlacıbaşı Camii",
+                "en": "Tuğlacıbaşı Camii"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der klaren Außenluft und dem warmen Interieur; prüfen Sie den Reifendruck Ihres Wagens bei den sinkenden Temperaturen.",
+                "hu": "Élvezze a tiszta külső levegő és a meleg belső tér közötti kontrasztot; a süllyedő hőmérséklet miatt ellenőrizze az autó guminyomását.",
+                "ro": "Bucurați-vă de contrastul dintre aerul curat de afară și interiorul cald; verificați presiunea pneurilor mașinii din cauza temperaturilor în scădere.",
+                "en": "Enjoy the contrast between the clear outside air and the warm interior; check your car's tire pressure due to the falling temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Jet Uçağı Anıtı",
+                "hu": "Jet Uçağı Anıtı",
+                "ro": "Jet Uçağı Anıtı",
+                "en": "Jet Uçağı Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Der Metallglanz des Flugzeugs ist im winterlichen Licht besonders markant; betrachten Sie das Denkmal kurz vom Auto aus, um nicht auszukühlen.",
+                "hu": "A repülőgép fémfénye a téli fényben különösen markáns; nézze meg az emlékművet röviden az autóból, hogy ne hűljön ki.",
+                "ro": "Luciul metalic al avionului este deosebit de pronunțat în lumina iernii; admirați monumentul scurt timp din mașină pentru a nu vă răci.",
+                "en": "The metal gleam of the aircraft is particularly striking in the winter light; view the monument briefly from the car to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Venüs Sanat",
+                "hu": "Venüs Sanat",
+                "ro": "Venüs Sanat",
+                "en": "Venüs Sanat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in der gemütlichen Galerie; da es nun bereits dunkel ist, genießen Sie die beleuchteten Straßenzüge auf der Rückfahrt im warmen Auto.",
+                "hu": "Zárja a túrát a hangulatos galériában; mivel már sötét van, élvezze a kivilágított utcákat a hazaúton a meleg autóban ülve.",
+                "ro": "Încheiați turul în galeria primitoare; deoarece s-a întunecat deja, bucurați-vă de străzile iluminate pe drumul de întoarcere în mașina caldă.",
+                "en": "Conclude your tour in the cozy gallery; since it's already dark, enjoy the illuminated streets on the drive back in the warm car."
+              }
+            }
+          ]
+        }
       }
     }
   }

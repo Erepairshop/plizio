@@ -137,6 +137,168 @@
         "hu": "A reggel a város nyüzsgő szívében indul, mielőtt egyenesen a Grande Plage hívogató homokjára indulna. A telet a központi strandok közötti ugrándozással tölti, magába szívva a mediterrán napsütést. Délután a part mentén haladva a csendesebb Plage du Parc szakasza felé veszi az irányt egy frissítő úszásra. Az este a nyüzsgő kikötőben csúcsosodik ki, ahol a jachtokat figyelheti a naplementében.",
         "ro": "Dimineața începe în inima vibrantă a orașului, înainte de a vă îndrepta direct către nisipurile vaste de la Grande Plage. Prânzul este petrecut sărind între plajele centrale, bucurându-vă de soarele mediteranean și de un prânz relaxant. După-amiaza, veți urma țărmul spre porțiunea mai liniștită a Plage du Parc pentru o baie răcoroasă. Seara culminează la portul de agrement, admirând iahturile la apus.",
         "en": "Morning begins in the vibrant heart of the town, enjoying the local atmosphere before heading straight to the vast, inviting sands of Grande Plage. Midday is spent hopping between the central beaches, soaking up the Mediterranean sun and enjoying a leisurely coastal lunch. In the afternoon, you will follow the shoreline towards the quieter stretch of Plage du Parc for a refreshing swim. The evening culminates at the bustling marina, watching yachts against the sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am geschützten Platz unter den Platanen. Mittags bietet der Strandspaziergang trotz Regen eine dramatische Kulisse, wenn die Wellen höher schlagen. Nachmittags führt der Weg am Ufer entlang, wo Sie schnell Schutz in den Strandcafés finden. Am Abend glitzern die Lichter des Hafens besonders schön auf dem nassen Asphalt der Promenade.",
+            "hu": "Kezdje a reggelt a téren, ahol a sűrű lombozat némi védelmet nyújt az eső elől. Délben a tengerparti séta különleges élmény a viharosabb hullámokkal, de viseljen vízálló cipőt. Délután a parti sétány mentén haladunk, ahol bármikor beugorhatunk egy fedett teraszra. Este a kikötő fényei csodásan tükröződnek a vizes kövezeten, meghitt hangulatot árasztva.",
+            "ro": "Începeți dimineața în piață, unde copacii oferă o protecție naturală împotriva ploii ușoare. La prânz, plimbarea pe plajă oferă un peisaj dramatic cu valuri agitate, dar aveți grijă la porțiunile alunecoase. După-amiaza continuăm de-a lungul falezei, unde terasele acoperite sunt refugii perfecte. Seara, luminile portului se reflectă superb pe asfaltul umed al promenadei.",
+            "en": "Start your morning at the square, where trees provide some shelter from the drizzle. At noon, the beach walk offers a dramatic view of the choppy sea, just ensure you wear waterproof footwear. In the afternoon, follow the coastline where beach bars offer covered seating. By evening, the marina lights reflect beautifully on the wet pavement, creating a moody, atmospheric end to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Albert Gleizes",
+                "hu": "Albert Gleizes tér",
+                "ro": "Piața Albert Gleizes",
+                "en": "Square Albert Gleizes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichten Baumkronen als natürlichen Regenschutz und bewundern Sie die Kunstwerke, während Sie trocken bleiben.",
+                "hu": "Használja a sűrű lombkoronákat természetes esernyőként, és csodálja meg a szobrokat a fák védelmében.",
+                "ro": "Folosiți coronamentul des al copacilor ca adăpost natural și admirați sculpturile în timp ce rămâneți la adăpost.",
+                "en": "Use the thick tree canopy as a natural umbrella and admire the sculptures while staying relatively dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage de Cavalaire",
+                "hu": "Grande Plage de Cavalaire",
+                "ro": "Grande Plage de Cavalaire",
+                "en": "Grande Plage de Cavalaire"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht dem Sand eine dunkle Farbe; genießen Sie die Einsamkeit am Ufer mit einer guten Regenjacke.",
+                "hu": "Az eső mély tónust ad a homoknak; élvezze a part nyugalmát egy jó esőkabátban a tömeg nélkül.",
+                "ro": "Ploaia oferă nisipului o nuanță închisă; bucurați-vă de liniștea țărmului purtând o pelerină de ploaie de calitate.",
+                "en": "The rain deepens the color of the sand; enjoy the solitude of the shore with a good raincoat and no crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Centre-ville",
+                "hu": "Plage du Centre-ville",
+                "ro": "Plage du Centre-ville",
+                "en": "Plage du Centre-ville"
+              },
+              "tip_5lang": {
+                "de": "Sollte der Guss stärker werden, bieten die nahegelegenen Arkaden der Stadtmitte schnellen und trockenen Unterschlupf.",
+                "hu": "Ha felerősödne az eső, a közeli városközpont árkádjai gyors és száraz menedéket nyújtanak a sétálók számára.",
+                "ro": "Dacă ploaia se întețește, arcadele din apropiere ale centrului orașului oferă un adăpost rapid și uscat.",
+                "en": "If the downpour intensifies, the nearby city center arcades provide quick and dry shelter for walkers."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Parc",
+                "hu": "Plage du Parc",
+                "ro": "Plage du Parc",
+                "en": "Plage du Parc"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Regentropfen auf die Meeresoberfläche treffen, ein beruhigendes Naturschauspiel direkt am Wasserrand.",
+                "hu": "Figyelje meg, ahogy az esőcseppek táncolnak a tenger felszínén; megnyugtató látvány a vízpart közvetlen közelében.",
+                "ro": "Observați cum picăturile de ploaie lovesc suprafața mării; un spectacol natural liniștitor chiar la marginea apei.",
+                "en": "Watch the raindrops dancing on the sea surface; it is a calming natural spectacle right at the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Cavalaire",
+                "hu": "Cavalaire Kikötő",
+                "ro": "Portul Cavalaire",
+                "en": "Cavalaire Marina"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie ein Café mit verglaster Terrasse am Hafenbecken, um das Treiben der Boote im Regen warm und trocken zu verfolgen.",
+                "hu": "Válasszon egy üvegfalú terasszal rendelkező kávézót a kikötőben, hogy szárazon nézhesse a hajók ringatózását.",
+                "ro": "Alegeți o cafenea cu terasă vitrată în port pentru a urmări mișcarea bărciilor rămânând la căldură și uscat.",
+                "en": "Pick a cafe with a glass terrace at the marina to watch the boats swaying in the rain while staying cozy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Platz ist frisch und belebend. Mittags wärmt die tiefe Sonne beim Spaziergang am leeren Strand, der nun eine ganz eigene Stille ausstrahlt. Nachmittags zieht die kühle Brise auf, was den Weg zum Hafen besonders erfrischend macht. Da es gegen 17:00 Uhr dunkel wird, endet der Tag früh bei einer heißen Schokolade mit Blick auf die winterliche Bucht.",
+            "hu": "A téli reggel friss és élénkítő a főtéren. Délben a laposan sütő nap kellemesen melenget az üres strandon, amely ilyenkor különleges csendet áraszt. Délután a hűvös tengeri szellő miatt érdemes rétegesen öltözni a kikötő felé menet. Mivel 17:00 körül sötétedik, a napot korán, egy forró ital mellett zárjuk, figyelve az öböl téli fényeit.",
+            "ro": "Dimineața de iarnă în piață este proaspătă și revigorantă. La prânz, soarele blând încălzește plimbarea pe plaja pustie, care emană o liniște aparte. După-amiaza, briza rece de mare face necesară o vestimentație stratificată spre port. Deoarece se întunecă în jurul orei 17:00, încheiați ziua devreme cu o băutură caldă privind golful hibernal.",
+            "en": "The winter morning at the square is crisp and invigorating. At noon, the low sun warms your walk along the empty beach, which radiates a unique tranquility this time of year. In the afternoon, the cool sea breeze picks up, making the stroll to the marina refreshing. Since it gets dark around 17:00, end the day early with a hot drink overlooking the bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Albert Gleizes",
+                "hu": "Albert Gleizes tér",
+                "ro": "Piața Albert Gleizes",
+                "en": "Square Albert Gleizes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft auf den Bänken; die fehlende Sommerhitze macht die Details der Statuen besser sichtbar.",
+                "hu": "Élvezze a tiszta téli levegőt a padokon; a nyári hőség hiánya miatt a szobrok részletei is jobban érvényesülnek.",
+                "ro": "Bucurați-vă de aerul curat de iarnă pe bănci; absența căldurii estivale face detaliile statuilor mult mai vizibile.",
+                "en": "Enjoy the crisp winter air on the benches; the lack of summer haze makes the statue details much clearer."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage de Cavalaire",
+                "hu": "Grande Plage de Cavalaire",
+                "ro": "Grande Plage de Cavalaire",
+                "en": "Grande Plage de Cavalaire"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen langen, zügigen Marsch; die kühle Luft und das weite Panorama sind im Winter besonders erholsam.",
+                "hu": "Tökéletes helyszín egy gyors tempójú sétához; a hűvös levegő és a tágas panoráma télen rendkívül pihentető.",
+                "ro": "Locul perfect pentru o plimbare rapidă; aerul rece și panorama vastă sunt extrem de revigorante iarna.",
+                "en": "Perfect for a brisk walk; the cool air and wide panorama are exceptionally relaxing during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Centre-ville",
+                "hu": "Plage du Centre-ville",
+                "ro": "Plage du Centre-ville",
+                "en": "Plage du Centre-ville"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und glitzert auf dem Wasser; ein idealer Ort für Winterfotos ohne Touristen im Hintergrund.",
+                "hu": "A nap alacsonyan jár és csillog a vízen; ideális helyszín téli fotókhoz, turisták nélküli háttérrel.",
+                "ro": "Soarele apune jos și sclipeste pe apă; un loc ideal pentru fotografii de iarnă fără turiști în fundal.",
+                "en": "The sun stays low and sparkles on the water; an ideal spot for winter photos without tourists in the frame."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Parc",
+                "hu": "Plage du Parc",
+                "ro": "Plage du Parc",
+                "en": "Plage du Parc"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich eine windgeschützte Ecke in den Dünen, um die Wintersonne für ein paar Minuten im Gesicht zu spüren.",
+                "hu": "Keressen egy szélvédett sarkot a dűnék között, hogy pár percig élvezhesse a téli napsütést az arcán.",
+                "ro": "Căutați un colț ferit de vânt printre dune pentru a simți soarele de iarnă pe față preț de câteva minute.",
+                "en": "Find a wind-sheltered spot among the dunes to feel the winter sun on your face for a few peaceful minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Cavalaire",
+                "hu": "Cavalaire Kikötő",
+                "ro": "Portul Cavalaire",
+                "en": "Cavalaire Marina"
+              },
+              "tip_5lang": {
+                "de": "Kehren Sie vor Sonnenuntergang um 17 Uhr ein; die festliche Winterbeleuchtung im Hafen sorgt für eine magische Stimmung.",
+                "hu": "Térjen be valahova a 17 órai naplemente előtt; a kikötő ünnepi téli kivilágítása mágikus hangulatot áraszt.",
+                "ro": "Intrați la căldură înainte de apusul de la ora 17; iluminatul festiv de iarnă din port creează o atmosferă magică.",
+                "en": "Head indoors before the 17:00 sunset; the festive winter lighting in the harbor creates a magical atmosphere."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpáros kalandja a Természet Házának ökológiai felfedezésével kezdődik, ahol megismerkedhet a gyönyörű helyi tájjal. A késő délelőtt egy festői utazással jutalmazza a rejtett Bonporteau strandig. A délután ütemváltást hoz, miközben a nyüzsgő kikötőn át a népszerű Dauphin homokjára teker. A nap egy sima úttal ér véget Pardigonba, megpihenve a megőrzött természet lágy ölén.",
         "ro": "Aventura pe bicicletă începe cu descoperiri ecologice la Casa Naturii, familiarizându-vă cu peisajul local. Dimineața târzie vă răsplătește cu o plimbare pitorească până la ascunsa plajă Bonporteau. După-amiaza aduce o schimbare de ritm în timp ce pedalați prin portul vibrant spre nisipurile populare de la Dauphin. Ziua se încheie cu o plimbare lină către Pardigon, relaxându-vă în natură.",
         "en": "Your cycling adventure starts with ecological discovery at the Nature House, getting familiar with the beautiful local landscape. Late morning rewards you with a scenic ride down to the hidden, picturesque Bonporteau Beach. Afternoon brings a shift in pace as you pedal through the vibrant marina and onto the popular Dauphin sands. The day ends with a smooth ride to Pardigon, unwinding amidst preserved natural beauty."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Naturhaus, da die Waldwege rutschig sein können. Mittags radeln wir zur Bonporteau-Bucht, wo die Gischt des Meeres mit dem Regen verschmilzt. Nachmittags geht es zurück zum Hafen, nutzen Sie die asphaltierten Straßen statt der Küstenpfade. Abends beenden wir die Tour im Schutz der Hafenanlagen, während das Licht im nassen Asphalt reflektiert.",
+            "hu": "Kezdje óvatosan a Természet Házánál, mivel az erdei utak csúszósak lehetnek. Délben a Bonporteau-öböl felé tekerünk, ahol a tenger permete és az eső összeér. Délután a kikötő felé vegyük az irányt, a parti ösvények helyett az aszfaltos utakat preferálva. Este a kikötő védelmében zárjuk a túrát, figyelve az eső áztatta városi fényeket.",
+            "ro": "Începeți cu atenție la Casa Naturii, deoarece potecile prin pădure pot fi alunecoase. La prânz pedalăm spre golful Bonporteau, unde aerosolii mării se amestecă cu ploaia. După-amiaza ne îndreptăm spre port, preferând drumurile asfaltate în locul potecilor de coastă. Seara încheiem turul sub protecția zonei portuare, admirând reflexiile luminilor pe asfalt.",
+            "en": "Start carefully at the Nature House as forest paths can be slippery. At noon, cycle to Bonporteau Beach where the sea spray mingles with the rain. In the afternoon, head back to the marina, opting for paved roads instead of coastal trails. By evening, conclude the tour in the sheltered harbor area, watching the city lights shimmer on the wet surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haus der Natur",
+                "hu": "Természet Háza",
+                "ro": "Casa Naturii",
+                "en": "Nature House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume für eine Pause; prüfen Sie Ihre Bremsen, bevor Sie die nassen Wege im Wald befahren.",
+                "hu": "Használja ki a belső kiállításokat egy pihenőre; ellenőrizze a fékeket, mielőtt a vizes erdei utakra indulna.",
+                "ro": "Vizitați expozițiile interioare pentru o pauză; verificați frânele înainte de a porni pe potecile umede de pădure.",
+                "en": "Take advantage of the indoor exhibits for a break; check your brakes before heading onto the wet forest paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Bonporteau",
+                "hu": "Bonporteau Strand",
+                "ro": "Plaja Bonporteau",
+                "en": "Bonporteau Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad auf festem Grund; der Weg zum Strand kann bei Regen schlammig und rutschig sein.",
+                "hu": "Parkolja a biciklit szilárd talajon; a partra vezető ösvény esőben sáros és csúszós lehet, legyen óvatos.",
+                "ro": "Parcați bicicleta pe teren solid; poteca spre plajă poate fi noroioasă și alunecoasă pe timp de ploaie.",
+                "en": "Park your bike on solid ground; the path down to the beach can be muddy and slippery when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Cavalaire",
+                "hu": "Cavalaire Kikötő",
+                "ro": "Portul Cavalaire",
+                "en": "Cavalaire Marina"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen Boxenstopp; viele Cafés bieten überdachte Plätze, um die Regenkleidung kurz zu lüften.",
+                "hu": "Ideális hely egy pihenőre; sok kávézó kínál fedett teraszt, ahol megszáríthatja az esőkabátját egy tea mellett.",
+                "ro": "Un loc ideal pentru o oprire; multe cafenele oferă terase acoperite unde vă puteți scutura pelerina de ploaie.",
+                "en": "An ideal pit stop; many cafes offer covered terraces where you can dry off your gear over a warm drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Dauphin",
+                "hu": "Plage du Dauphin",
+                "ro": "Plaja Dauphin",
+                "en": "Plage du Dauphin"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der Promenade an; der Blick auf die graue See ist auch vom Radweg aus beeindruckend.",
+                "hu": "Álljon meg egy pillanatra a sétányon; a szürke tenger látványa a kerékpárútról is lenyűgöző esőben.",
+                "ro": "Opriți scurt pe promenadă; vederea spre marea cenușie este impresionantă chiar și de pe pista de biciclete.",
+                "en": "Stop briefly on the promenade; the view of the grey sea is impressive even from the cycle path in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Pardigon",
+                "hu": "Plage de Pardigon",
+                "ro": "Plaja Pardigon",
+                "en": "Plage de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf dem Rückweg vorsichtig; die Markierungen auf dem Radweg können bei Nässe extrem glatt sein.",
+                "hu": "A visszaúton tekerjen óvatosan; a kerékpárút felfestései nedvesen rendkívül csúszóssá válhatnak.",
+                "ro": "Pedalați cu atenție la întoarcere; marcajele de pe pista de biciclete pot fi extrem de alunecoase pe ud.",
+                "en": "Cycle carefully on your way back; the road markings on the cycle path can become extremely slick when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen im Wald am Naturhaus beginnt die Tour. Mittags radeln wir bei strahlender, aber kühler Sonne zur Bonporteau-Bucht, ideal für aktive Bewegung. Nachmittags geht es zügig am Hafen vorbei, um die Körperwärme zu halten. Da die Sonne gegen 17:00 Uhr sinkt, beenden wir die Tour rechtzeitig mit warmen Handschuhen und einer Schicht extra Kleidung.",
+            "hu": "Friss téli reggelen indul a túra az erdei környezetben. Délben a ragyogó, de hűvös napsütésben tekerünk a Bonporteau-öböl felé, ami kiváló a testmozgáshoz. Délután tartsunk élénk tempót a kikötő mentén, hogy megőrizzük testhőmérsékletünket. Mivel 17:00 körül lemegy a nap, fejezzük be időben a tekerést, réteges öltözetben.",
+            "ro": "Turul începe într-o dimineață răcoroasă de iarnă în pădure. La prânz pedalăm sub soarele strălucitor dar rece spre golful Bonporteau, ideal pentru mișcare activă. După-amiaza mențineți un ritm alert pe lângă port pentru a păstra căldura corpului. Deoarece soarele apune la 17:00, încheiați turul la timp purtând mănuși groase.",
+            "en": "The tour begins on a crisp winter morning in the woods. At noon, cycle under the bright but cool sun towards Bonporteau Beach, perfect for staying active. In the afternoon, maintain a steady pace by the marina to keep warm. Since the sun sets around 17:00, finish your ride early and make sure to wear layered clothing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Haus der Natur",
+                "hu": "Természet Háza",
+                "ro": "Casa Naturii",
+                "en": "Nature House"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit warmen Schichten; die schattigen Waldwege sind im Winter deutlich kühler als die Küste.",
+                "hu": "Induljon meleg rétegekben; az árnyékos erdei utak télen sokkal hűvösebbek, mint a napsütötte tengerpart.",
+                "ro": "Porniți cu haine groase în straturi; potecile umbrite din pădure sunt mult mai reci iarna decât coasta.",
+                "en": "Start with warm layers; the shaded forest paths are significantly cooler than the coast during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Bonporteau",
+                "hu": "Bonporteau Strand",
+                "ro": "Plaja Bonporteau",
+                "en": "Bonporteau Beach"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft bietet eine fantastische Sicht auf den Horizont; machen Sie eine kurze Pause, bevor es kühl wird.",
+                "hu": "A tiszta levegő fantasztikus kilátást nyújt a horizontra; tartson egy rövid pihenőt, mielőtt átfázna a szélben.",
+                "ro": "Aerul curat oferă o vizibilitate fantastică spre orizont; faceți o scurtă pauză înainte ca vântul să devină prea rece.",
+                "en": "The crisp air provides fantastic visibility to the horizon; take a short break before the chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Cavalaire",
+                "hu": "Cavalaire Kikötő",
+                "ro": "Portul Cavalaire",
+                "en": "Cavalaire Marina"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht perfekt für Fotos im Hafen; nutzen Sie die ruhige Zeit ohne die sommerlichen Menschenmassen.",
+                "hu": "A téli napfény tökéletes a kikötői fotókhoz; használja ki a nyugodt időszakot a nyári tömeg nélkül.",
+                "ro": "Soarele de iarnă este perfect pentru fotografii în port; profitați de liniștea locului fără aglomerația de vară.",
+                "en": "The winter sun is perfect for harbor photography; enjoy the quiet atmosphere without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Dauphin",
+                "hu": "Plage du Dauphin",
+                "ro": "Plaja Dauphin",
+                "en": "Plage du Dauphin"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg ist im Winter fast leer; genießen Sie die freie Fahrt, aber achten Sie auf kühle Windböen vom Meer.",
+                "hu": "A kerékpárút télen szinte üres; élvezze a szabad haladást, de ügyeljen a tengerről érkező hűvös széllökésekre.",
+                "ro": "Pista de biciclete este aproape goală iarna; bucurați-vă de drum, dar atenție la rafalele reci de vânt dinspre mare.",
+                "en": "The cycle path is nearly empty in winter; enjoy the freedom but watch out for cool gusts coming off the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Pardigon",
+                "hu": "Plage de Pardigon",
+                "ro": "Plaja Pardigon",
+                "en": "Plage de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Nach 16:30 Uhr sinkt die Temperatur rapide; treten Sie kräftig in die Pedale, um den Rückweg warm zu überstehen.",
+                "hu": "16:30 után a hőmérséklet gyorsan süllyed; tekerjen élénken, hogy melegen tartsa magát a hazaúton.",
+                "ro": "După ora 16:30 temperatura scade rapid; pedalați energic pentru a vă menține căldura pe drumul de întoarcere.",
+                "en": "After 16:30 the temperature drops quickly; pedal vigorously to stay warm on your way back home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje a reggelt magasan a part felett a Montjean-i Oppidum-nál, és élvezze a lenyűgöző kilátást és az ősi történelmet. Hajtson le egy kulturális megállóra a Természet Házába, hogy megismerje az egyedi ökoszisztémákat. A délutánt a látványos nyugati strandoknak szentelik, békés megállókkal Rayolban és Canadelben. Végül vezessen kelet felé Pardigon hatalmas kiterjedésű partjára egy fenséges naplementéért.",
         "ro": "Începeți dimineața sus deasupra coastei la Oppidum din Montjean, admirând priveliștile panoramice și istoria antică. Coborâți pentru o oprire culturală la Casa Naturii pentru a înțelege ecosistemele unice de coastă. După-amiaza este dedicată spectaculoaselor plaje vestice, cu opriri senine la Rayol și Canadel. În cele din urmă, conduceți spre est către întinderea vastă a plajei Pardigon pentru un apus de soare magnific.",
         "en": "Start your morning high above the coast at the Oppidum of Montjean, taking in sweeping views and ancient history. Drive down for a cultural stop at the Nature House to understand the unique coastal ecosystems you will soon visit. The afternoon is dedicated to the spectacular western beaches, with serene stops at Rayol and Canadel. Finally, drive eastward to the vast expanse of Pardigon for a majestic coastal sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie beim Oppidum, wo der Regen die antiken Steine mystisch glänzen lässt. Mittags bietet das Naturhaus eine perfekte Indoor-Alternative zum Wetter. Nachmittags fahren wir entlang der Küstenstraße nach Rayol, wo die Aussichtspunkte im Nebel fast magisch wirken. Den Abend lassen wir sicher im Auto und später in einem gemütlichen Restaurant ausklingen, während es draußen stürmt.",
+            "hu": "Kezdje a Montjean-i Oppidumnál, ahol az eső misztikus fényt ad az antik köveknek. Délben a Természet Háza tökéletes fedett programot kínál az időjárás elől. Délután a tengerparti úton autózunk Rayol felé, ahol a ködös kilátópontok varázslatosak. Az estét biztonságban, az autóban, majd egy kellemes étteremben zárjuk, miközben kint tombol az eső.",
+            "ro": "Începeți la Oppidum, unde ploaia face pietrele antice să strălucească mistic. La prânz, Casa Naturii oferă o alternativă interioară perfectă la vremea de afară. După-amiaza conducem pe drumul de coastă spre Rayol, unde punctele de belvedere par magice în ceață. Încheiem seara în siguranță, la un restaurant primitor, în timp ce afară plouă torențial.",
+            "en": "Start at the Oppidum, where the rain gives the ancient stones a mystical glow. At noon, the Nature House provides a perfect indoor alternative to escape the weather. In the afternoon, drive along the coastal road to Rayol, where viewpoints look magical in the mist. Conclude the evening safely in a cozy restaurant while watching the storm from behind the glass."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oppidum von Montjean",
+                "hu": "Montjean-i Oppidum",
+                "ro": "Oppidum din Montjean",
+                "en": "Oppidum of Montjean"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen; die Steine und Wege am Oppidum können bei Nässe sehr rutschig sein. Kurzer Besuch lohnt dennoch.",
+                "hu": "Vigyázat kiszálláskor; az Oppidum kövei és ösvényei nedvesen nagyon csúszósak lehetnek. Rövid látogatás is megéri.",
+                "ro": "Atenție la coborârea din mașină; pietrele și potecile de la Oppidum pot fi foarte alunecoase pe ploaie.",
+                "en": "Be careful when getting out; the stones and paths at the Oppidum can be very slippery when wet. A short visit is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Natur",
+                "hu": "Természet Háza",
+                "ro": "Casa Naturii",
+                "en": "Nature House"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Rückzugsort bei Regen; parken Sie nah am Eingang und genießen Sie die Ausstellungen im Trockenen.",
+                "hu": "Ideális búvóhely esőben; parkoljon közel a bejárathoz, és élvezze a kiállításokat szárazon és kényelemben.",
+                "ro": "Refugiul ideal pe timp de ploaie; parcați aproape de intrare și bucurați-vă de expoziții la adăpost.",
+                "en": "The ideal retreat during rain; park close to the entrance and enjoy the indoor exhibits in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Rayol",
+                "hu": "Plage du Rayol",
+                "ro": "Plaja Rayol",
+                "en": "Plage du Rayol"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die raue See bequem aus dem warmen Auto vom Parkplatz oberhalb der Bucht.",
+                "hu": "Élvezze a haragos tenger látványát kényelmesen a fűtött autóból az öböl feletti parkolóból.",
+                "ro": "Admirați marea agitată direct din confortul mașinii încălzite, din parcarea situată deasupra golfului.",
+                "en": "Enjoy the view of the rough sea comfortably from your warm car at the parking lot above the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Canadel",
+                "hu": "Plage du Canadel",
+                "ro": "Plaja Canadel",
+                "en": "Plage du Canadel"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stop für ein Foto der nebligen Küste genügt; die Straße hier erfordert bei Regen volle Konzentration.",
+                "hu": "Egy rövid megálló a ködös partvidék fotózásához elég; az itteni út esőben teljes koncentrációt igényel.",
+                "ro": "O scurtă oprire pentru o fotografie a coastei cețoase este suficientă; drumul necesită concentrare maximă pe ploaie.",
+                "en": "A short stop for a photo of the misty coastline is enough; the road here requires full focus in rainy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Pardigon",
+                "hu": "Plage de Pardigon",
+                "ro": "Plaja Pardigon",
+                "en": "Plage de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Strandnähe für einen kurzen, erfrischenden Lauf zum Wasser, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "Használja ki a part közelségét egy rövid, frissítő futásra a vízig, mielőtt visszatérne a fűtött autóba.",
+                "ro": "Profitați de proximitatea plajei pentru o scurtă fugă revigorantă până la apă înainte de a porni căldura în mașină.",
+                "en": "Take advantage of the beach proximity for a quick, refreshing dash to the water before cranking up the car heater."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Tour am Oppidum in der klaren Wintermorgenluft. Mittags ist das Naturhaus ein informativer und warmer Zwischenstopp. Die Panoramafahrt nach Rayol und Canadel bietet im Winter ungestörte Ausblicke auf die tiefblaue See ohne Verkehrsstau. Da es um 17:00 Uhr dunkel wird, planen Sie die Rückfahrt entlang der beleuchteten Küstenstraße ein, um die Abendstimmung einzufangen.",
+            "hu": "Kezdje a túrát az Oppidumnál a kristálytiszta téli reggelen. Délben a Természet Háza informatív és meleg megállóhely. A Rayol és Canadel felé vezető panorámaút télen forgalom nélkül kínál zavartalan kilátást a mélykék tengerre. Mivel 17:00-kor sötétedik, tervezze a hazautat a kivilágított part menti úton, élvezve az esti fényeket.",
+            "ro": "Începeți turul la Oppidum în aerul curat al dimineții de iarnă. La prânz, Casa Naturii este o oprire informativă și caldă. Drumul panoramic spre Rayol și Canadel oferă iarna vederi neîntrerupte spre marea albastră, fără trafic. Deoarece se întunecă la ora 17:00, planificați întoarcerea pe drumul de coastă iluminat.",
+            "en": "Start your tour at the Oppidum in the crisp winter morning air. At noon, the Nature House is an informative and warm stopover. The scenic drive to Rayol and Canadel offers undisturbed views of the deep blue sea without the summer traffic. Since it gets dark by 17:00, plan your return along the illuminated coastal road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oppidum von Montjean",
+                "hu": "Montjean-i Oppidum",
+                "ro": "Oppidum din Montjean",
+                "en": "Oppidum of Montjean"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter durch die klare Luft am besten; bringen Sie ein Fernglas für die Küstenpanorama mit.",
+                "hu": "A kilátás télen a legtisztább a száraz levegő miatt; hozzon távcsövet a tengerparti panoráma megcsodálásához.",
+                "ro": "Vizibilitatea la distanță este optimă iarna datorită aerului curat; aduceți un binoclu pentru panorama de coastă.",
+                "en": "Long-distance views are best in winter due to the clear air; bring binoculars for the coastal panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Natur",
+                "hu": "Természet Háza",
+                "ro": "Casa Naturii",
+                "en": "Nature House"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Ort für den Mittag; die Ausstellungen zur lokalen Flora und Fauna sind im Winter eine tolle Abwechslung.",
+                "hu": "Meleg helyszín délidőben; a helyi élővilágot bemutató kiállítások télen remek kikapcsolódást nyújtanak.",
+                "ro": "Un loc călduros pentru prânz; expozițiile despre flora și fauna locală sunt o alternativă excelentă iarna.",
+                "en": "A warm spot for midday; the exhibits on local flora and fauna are a great indoor activity during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Rayol",
+                "hu": "Plage du Rayol",
+                "ro": "Plaja Rayol",
+                "en": "Plage du Rayol"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze sind leer; nutzen Sie die Zeit für einen kurzen Spaziergang im goldenen Licht der tiefstehenden Sonne.",
+                "hu": "A parkolók üresek; használja ki az időt egy rövid sétára az alacsonyan járó nap aranyló fényében.",
+                "ro": "Parcările sunt goale; profitați de timp pentru o scurtă plimbare în lumina aurie a soarelui de iarnă.",
+                "en": "Parking lots are empty; take time for a short walk in the golden light of the low-hanging winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Canadel",
+                "hu": "Plage du Canadel",
+                "ro": "Plaja Canadel",
+                "en": "Plage du Canadel"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist im Winter ein Genuss; halten Sie an den Buchten für Fotos der einsamen, blauen Küste.",
+                "hu": "A part menti út télen igazi élvezet; álljon meg az öblöknél fotózni az elhagyatott, kék tengerpartot.",
+                "ro": "Drumul de coastă este o plăcere iarna; opriți în golfuri pentru fotografii cu țărmul albastru și pustiu.",
+                "en": "The coastal road is a joy in winter; stop at the bays for photos of the lonely, deep blue coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Pardigon",
+                "hu": "Plage de Pardigon",
+                "ro": "Plaja Pardigon",
+                "en": "Plage de Pardigon"
+              },
+              "tip_5lang": {
+                "de": "Bevor es um 17 Uhr dunkel wird, bietet der Strand weite Sicht; schalten Sie das Abblendlicht für die Rückfahrt rechtzeitig ein.",
+                "hu": "Mielőtt 17 órakor besötétedik, a strand tágas kilátást nyújt; kapcsolja fel a fényszórókat a hazaúthoz időben.",
+                "ro": "Înainte de a se întuneca la ora 17, plaja oferă o vedere largă; aprindeți farurile din timp pentru drumul de întoarcere.",
+                "en": "Before it gets dark at 17:00, the beach offers wide views; remember to turn on your headlights for the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

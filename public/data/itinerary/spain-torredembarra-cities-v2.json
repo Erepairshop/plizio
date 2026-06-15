@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az altafullai néprajzi múzeum és a Castell de Montserrat felfedezésével. Délben sétáljon délre, hogy megnézze Els Munts lenyűgöző római romjait. A délután a Miradorhoz vezet a lenyűgöző tengerparti panorámáért és a világítótoronyhoz. Fejezze be a napot a Capellans-öböl aranyhomokos partján pihenve, miközben közeledik az este.",
         "ro": "Începeți dimineața explorând muzeul etnografic din Altafulla și marele Castell de Montserrat. La prânz, mergeți spre sud pentru a descoperi ruinele romane Els Munts. După-amiaza vă duce la Mirador pentru panorame uluitoare ale coastei și la falnicul far. Încheiați-vă ziua relaxându-vă pe nisipurile aurii ale golfului Capellans, odată cu lăsarea serii.",
         "en": "Start the morning exploring Altafulla's ethnographic museum and the grand Castell de Montserrat. By midday, wander south to uncover the impressive Roman ruins of Els Munts, a fascinating glimpse into ancient coastal life. The afternoon takes you to the Mirador for stunning coastal panoramas and the towering lighthouse. End your day relaxing on the golden sands of Capellans cove as the evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Schutz des Museums, während der Regen auf die Altstadt prasselt. Mittags führen nasse Gassen zur römischen Villa, wo die Mosaike im feuchten Licht glänzen. Am Nachmittag bietet der Leuchtturm einen dramatischen Blick auf die aufgewühlte See. Der Abend endet mit einem kurzen Spaziergang am Strand, wobei das Rauschen der Wellen den Regen übertönt; Regenjacke ist Pflicht.",
+            "hu": "A reggelt kezdje a néprajzi múzeum védelmében, amíg elvonul a zápor. Délben a kastély és a római villa romjai között sétálva figyeljen a nedves kövekre. Délután a világítótoronynál az eső utáni friss tengeri illat dominál. Az este közeledtével a part menti sziklák látványa a szürke égbolt alatt is lenyűgöző, de legyen kéznél egy megbízható esernyő a csúszós partszakaszokon is.",
+            "ro": "Începeți dimineața la adăpostul muzeului în timp ce ploaia cade peste orașul vechi. La prânz, străzile ude duc spre vila romană, unde mozaicurile strălucesc în lumina umedă. După-amiaza, farul oferă o vedere dramatică asupra mării agitate. Seara se încheie cu o plimbare scurtă pe plajă, sunetul valurilor acoperind ploaia; o jachetă impermeabilă este absolut necesară pe traseu.",
+            "en": "Start your morning sheltered in the museum while the rain taps on the old town. At noon, wet alleys lead to the Roman villa, where mosaics glisten in the damp light. In the afternoon, the lighthouse offers a dramatic view of the churning sea. The evening ends with a brief beach stroll, the waves drowning out the rain; a waterproof jacket is essential for the slippery coastal paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ethnografisches Museum Altafulla",
+                "hu": "Altafulla Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic din Altafulla",
+                "en": "Ethnographic Museum of Altafulla"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die ländliche Geschichte im trockenen Innenraum des Museums und nutzen Sie die Zeit, um den stärksten Regen unter dem festen Dach abzuwarten.",
+                "hu": "Fedezze fel a helyi paraszti élet emlékeit a fedett múzeumban, amely tökéletes menedék az eső elől; vigyázzon a múzeum bejárata előtti csúszós macskakövekre.",
+                "ro": "Explorați istoria rurală în interiorul uscat al muzeului și profitați de timp pentru a aștepta oprirea ploii sub un acoperiș solid și primitor.",
+                "en": "Explore rural history in the dry interior of the museum and use the time to wait out the heaviest rain under a solid roof before continuing outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Montserrat",
+                "hu": "Montserrat Kastély",
+                "ro": "Castelul Montserrat",
+                "en": "Montserrat Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die mächtigen Mauern von außen und suchen Sie bei plötzlichen Schauern Schutz unter den Arkaden der nahegelegenen Häuser in der Altstadt.",
+                "hu": "Csodálja meg a várkastély monumentális falait kívülről, hirtelen jött zápor esetén pedig keressen menedéket az óváros közeli árkádjai és ereszei alatt.",
+                "ro": "Admirați zidurile masive de afară și căutați adăpost sub arcadele caselor din apropiere în cazul unei averse neprevăzute în centrul vechi al orașului.",
+                "en": "Admire the massive walls from the outside and seek shelter under the nearby townhouse arcades if a sudden downpour starts while exploring the old streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Els Munts",
+                "hu": "Els Munts Római Villa",
+                "ro": "Vila Romană Els Munts",
+                "en": "Roman Villa of Els Munts"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die antiken Ruinen und nutzen Sie die überdachten Bereiche bei den Mosaiken, um trocken zu bleiben; die Wege zwischen den Resten können rutschig sein.",
+                "hu": "Járja be az antik romokat és használja ki a mozaikok feletti fedett részeket az eső elleni védekezéshez; a köves utak mentén figyeljen a lába elé.",
+                "ro": "Vizitați ruinele antice și profitați de zonele acoperite de deasupra mozaicurilor pentru a rămâne uscați; cărările dintre ziduri pot deveni destul de alunecoase.",
+                "en": "Visit the ancient ruins and take advantage of the covered sections over the mosaics to stay dry; be careful as the paths between the ruins can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Munts",
+                "hu": "Munts Kilátó",
+                "ro": "Punct de Belvedere Munts",
+                "en": "Munts Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den wolkenverhangenen Blick auf die Küste und achten Sie auf den starken Wind am Geländer, der den Regen oft seitlich unter den Schirm peitscht.",
+                "hu": "Élvezze a felhőbe burkolózott tengerparti kilátást, de vigyázzon a korlátnál fújó erős széllel, amely az esernyő alá fújhatja a vizet a magaslaton.",
+                "ro": "Bucurați-vă de priveliștea de coastă învăluită în nori și aveți grijă la vântul puternic de lângă balustradă, care poate sufla ploaia direct sub umbrelă.",
+                "en": "Enjoy the cloud-covered coastal views and watch out for the strong wind near the railing, which often blows rain sideways right under your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Punta de la Galera",
+                "hu": "Punta de la Galera Világítótorony",
+                "ro": "Farul Punta de la Galera",
+                "en": "Punta de la Galera Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt im Regen besonders atmosphärisch; halten Sie sich von den nassen Felskanten fern, da der Untergrund hier extrem rutschig und instabil ist.",
+                "hu": "A világítótorony esőben különlegesen hangulatos látványt nyújt; maradjon távol a nedves sziklaszélektől, mert a talaj ilyenkor rendkívül csúszós és veszélyes.",
+                "ro": "Farul oferă o atmosferă deosebită pe timp de ploaie; stați departe de marginile stâncoase ude, deoarece terenul devine extrem de alunecos și periculos.",
+                "en": "The lighthouse looks incredibly atmospheric in the rain; stay well back from the wet cliff edges as the limestone surface becomes very slick and unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Capellans und Canyadell",
+                "hu": "Capellans és Canyadell Strand",
+                "ro": "Plaja Capellans și Canyadell",
+                "en": "Capellans and Canyadell Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Strandspaziergang im Regen ist erfrischend; nutzen Sie die Felsvorsprünge als natürlichen Unterstand und tragen Sie festes, wasserdichtes Schuhwerk.",
+                "hu": "Egy rövid tengerparti séta az esőben is frissítő élmény; használja a sziklakiszögelléseket természetes menedékként és viseljen vízálló túrabakancsot.",
+                "ro": "O scurtă plimbare pe plajă în ploaie este revigorantă; folosiți proeminențele stâncoase ca adăpost natural și purtați încălțăminte impermeabilă aderentă.",
+                "en": "A short beach walk in the rain is refreshing; use the rocky overhangs as natural shelters and ensure you are wearing sturdy, waterproof footwear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Wintermorgenluft in Altafulla ist belebend. Mittags wärmt die tiefstehende Sonne die Mauern der römischen Villa, ideal für eine ausgiebige Erkundung. Am frühen Nachmittag führt der Weg zum windigen Kap, wo der Leuchtturm in klarem Licht erstrahlt. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Strandbesuch zeitig planen, um das goldene Abendlicht zu genießen.",
+            "hu": "A hűvös téli reggeli levegő Altafullában igazán frissítő. Délben az alacsonyan járó nap melegíti a római villa falait, ami ideális a kényelmes nézelődéshez. Kora délután a szeles fok felé vegye az irányt, ahol a világítótorony kristálytiszta fényben úszik. Mivel a nap már 17:00 körül lemegy, tervezze korábbra a tengerparti pihenőt, hogy még elcsípje az aranyló fényeket.",
+            "ro": "Aerul răcoros de dimineață în Altafulla este revigorant. La prânz, soarele blând încălzește zidurile vilei romane, fiind momentul ideal pentru explorare. După-amiaza devreme, drumul duce spre capul vântos unde farul strălucește în lumina clară. Deoarece soarele apune în jur de ora 17:00, planificați vizita la plajă din timp pentru a prinde lumina aurie.",
+            "en": "The crisp winter morning air in Altafulla is invigorating. At noon, the low winter sun warms the Roman villa's walls, ideal for a leisurely exploration. In the early afternoon, head to the windy cape where the lighthouse shines in the clear air. As the sun sets around 17:00, plan your beach visit early to catch the beautiful golden hour over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ethnografisches Museum Altafulla",
+                "hu": "Altafulla Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic din Altafulla",
+                "en": "Ethnographic Museum of Altafulla"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im windgeschützten Innenraum; die dicken Mauern halten die Kälte draußen, aber eine warme Jacke ist für die Gänge ratsam.",
+                "hu": "Látogassa meg a kiállításokat a szélvédett belső térben; a vastag falak kint tartják a hideget, de a folyosókon ajánlott egy meleg pulóver viselése.",
+                "ro": "Vizitați expozițiile în interiorul ferit de vânt; zidurile groase țin frigul afară, dar o jachetă călduroasă este recomandată pentru coridoarele răcoroase.",
+                "en": "Visit the exhibits in the wind-sheltered interior; the thick walls keep the winter chill out, but a warm layer is still recommended for the hallways."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Montserrat",
+                "hu": "Montserrat Kastély",
+                "ro": "Castelul Montserrat",
+                "en": "Montserrat Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt den gelben Stein des Schlosses besonders schön leuchten; idealer Zeitpunkt für Fotos ohne die Touristenmassen des Sommers.",
+                "hu": "A téli napsütésben a kastély sárgás kövei különlegesen szépen ragyognak; ez a tökéletes időpont a fotózáshoz a nyári tömeg és hőség nélkül.",
+                "ro": "Soarele de iarnă face ca piatra galbenă a castelului să strălucească frumos; este momentul ideal pentru fotografii fără mulțimile de turiști din vară.",
+                "en": "The winter sun makes the castle's golden stone glow beautifully; it is the perfect time for photography without the usual summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Els Munts",
+                "hu": "Els Munts Római Villa",
+                "ro": "Vila Romană Els Munts",
+                "en": "Roman Villa of Els Munts"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für die Außenanlage, wenn die Sonne am höchsten steht; tragen Sie mehrere Schichten Kleidung gegen die kühle Meeresbrise.",
+                "hu": "Használja ki a déli órákat a kültéri maradványok megtekintésére, amikor a legmelegebb a nap; öltözzön rétegesen a hűvös tengeri szellő ellen.",
+                "ro": "Profitate de orele prânzului pentru exterior, când soarele este cel mai sus; purtați mai multe straturi de haine împotriva brizelor reci de coastă.",
+                "en": "Use the midday hours to tour the outdoor ruins when the sun is at its peak; wear multiple layers to protect yourself against the chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Munts",
+                "hu": "Munts Kilátó",
+                "ro": "Punct de Belvedere Munts",
+                "en": "Munts Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft klarer als im Sommer; bringen Sie ein Fernglas mit, um die schneebedeckten Berge im Hinterland besser sehen zu können.",
+                "hu": "A kilátás télen gyakran sokkal tisztább, mint nyáron; hozzon távcsövet, hogy jobban láthassa a távoli, ilyenkor néha havas szárazföldi hegycsúcsokat.",
+                "ro": "Vizibilitatea este adesea mai clară iarna decât vara; aduceți un binoclu pentru a vedea mai bine munții din depărtare, uneori acoperiți de zăpadă.",
+                "en": "The views are often much clearer in winter than in summer; bring binoculars to spot the distant mountains inland which might be snow-capped now."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Punta de la Galera",
+                "hu": "Punta de la Galera Világítótorony",
+                "ro": "Farul Punta de la Galera",
+                "en": "Punta de la Galera Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Hier weht im Winter oft ein scharfer Wind; schützen Sie Ohren und Hals mit Schal und Mütze, während Sie die einsame Küstenlandschaft bestaunen.",
+                "hu": "Itt télen gyakran fúj éles, hideg szél; védje fülét és nyakát sállal és sapkával, miközben a magányos tengerparti táj szépségében gyönyörködik.",
+                "ro": "Aici bate adesea un vânt tăios iarna; protejați-vă urechile și gâtul cu un fular și căciulă în timp ce admirați peisajul costier solitar.",
+                "en": "A sharp wind often blows here in winter; protect your ears and neck with a scarf and hat while you marvel at the quiet, lonely coastal landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Capellans und Canyadell",
+                "hu": "Capellans és Canyadell Strand",
+                "ro": "Plaja Capellans și Canyadell",
+                "en": "Capellans and Canyadell Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um den Sonnenuntergang zu erleben; der Sand ist im Winter oft nass und kalt, bleiben Sie daher lieber auf den festen Wegen.",
+                "hu": "Érkezzen 16:30 előtt, hogy átélje a naplementét; a homok télen gyakran nedves és fagyos maradhat, ezért maradjon inkább a kijelölt sétányokon.",
+                "ro": "Sosiți înainte de 16:30 pentru a vedea apusul; nisipul este adesea umed și rece iarna, așa că este mai bine să rămâneți pe potecile consolidate.",
+                "en": "Arrive before 16:30 to witness the sunset; the sand is often damp and cold in winter, so it is better to stay on the solid, established footpaths."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Indítsa kerékpártúráját a fenséges Castell de Montserratnál, majd nézze meg a történelmi Era d'en Gatellt. Dél előtt tekerjen le a tágas Platja d'Altafulla strandra egy kis pihenésre. A délután az Els Munts római romjaihoz és a Punta de la Galera világítótoronyhoz vezető úttal folytatódik. Zárja aktív napját a békés Platja Naturista Benamocarra strandon.",
         "ro": "Începeți turul cu bicicleta la maiestuosul Castell de Montserrat înainte de a vedea istorica Era d'en Gatell. Înainte de prânz, pedalați până la întinsa Platja d'Altafulla pentru o pauză. După-amiaza continuă cu o plimbare spre ruinele romane Els Munts și impresionantul far Punta de la Galera. Încheiați-vă ziua activă la liniștita Platja Naturista Benamocarra.",
         "en": "Kick off your cycling tour at the majestic Castell de Montserrat before checking out the historic Era d'en Gatell. Before noon, pedal down to the expansive Platja d'Altafulla for a refreshing coastal break. The afternoon continues with a ride to the Roman ruins of Els Munts and the dramatic Punta de la Galera lighthouse. Finish your active day at the peaceful Platja Naturista Benamocarra."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Küstenstraßen. Starten Sie am Schloss und fahren Sie vorsichtig durch Altafulla zum Strand. Mittags bietet die römische Villa einen kulturellen Stopp mit Unterstellmöglichkeiten. Der Weg zum Leuchtturm führt über rutschige Klippenpfade, fahren Sie also langsam. Den Tag beenden Sie am Benamocarra-Strand, wobei wasserdichte Packtaschen ratsam sind.",
+            "hu": "Az esőben való kerékpározás fokozott figyelmet igényel a parti utakon. Kezdjen a kastélynál, majd óvatosan guruljon le a tengerpartra. Délben a római villa kínál kulturális pihenőt és fedelet a feje fölé. A világítótoronyhoz vezető út csúszós lehet, hajtson lassan. A napot a Benamocarra strandnál zárja; a vízhatlan táska elengedhetetlen a felszerelése védelmében.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile de coastă. Începeți la castel și coborâți cu grijă spre plajă. La prânz, vila romană oferă un popas cultural cu locuri de adăpost. Drumul spre far trece peste poteci ce pot deveni alunecoase, deci pedalați încet. Încheiați ziua la plaja Benamocarra; gențile de bicicletă impermeabile sunt foarte recomandate.",
+            "en": "Cycling in the rain requires extra focus on the coastal roads. Start at the castle and ride carefully down to the beach. At noon, the Roman villa provides a cultural break and a place to dry off. The route to the lighthouse involves potentially slick paths, so keep your speed low. End the day at Benamocarra beach; waterproof panniers are essential to protect your gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Montserrat",
+                "hu": "Montserrat Kastély",
+                "ro": "Castelul Montserrat",
+                "en": "Montserrat Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Vorplatz für ein schnelles Foto und suchen Sie bei starkem Regen Schutz unter dem Torbogen des gegenüberliegenden Gebäudes.",
+                "hu": "Használja a tágas előteret egy gyors fotóra, és heves esőzés esetén húzódjon be a szemközti épület kapualja alá a kerékpárjával együtt.",
+                "ro": "Folosiți curtea largă pentru o fotografie rapidă și, în caz de ploaie torențială, căutați adăpost sub poarta clădirii de peste drum.",
+                "en": "Use the spacious front area for a quick photo and seek shelter under the archway of the building opposite if the rain becomes too heavy to ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreschplatz Era d'en Gatell",
+                "hu": "Era d'en Gatell Szérű",
+                "ro": "Aria de Treierat Era d'en Gatell",
+                "en": "Era d'en Gatell Threshing Floor"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das Kopfsteinpflaster rund um den Platz; es wird bei Nässe extrem rutschig für schmale Fahrradreifen. Fahren Sie besonders vorsichtig.",
+                "hu": "Vigyázzon a szérű körüli macskakövekre; vizesen rendkívül csúszóssá válnak a vékony kerékpárgumik számára. Itt haladjon különösen óvatosan.",
+                "ro": "Aveți grijă la pavajul din jurul ariei; devine extrem de alunecos pentru anvelopele înguste de bicicletă când este ud. Pedalați cu mare prudență.",
+                "en": "Be careful on the cobblestones surrounding the floor; they become extremely slippery for narrow bike tires when wet. Ride through this section slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Altafulla",
+                "hu": "Altafulla Strand",
+                "ro": "Plaja Altafulla",
+                "en": "Altafulla Beach"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad auf festem Untergrund ab; der nasse Sand kann klebrig werden und die Kette verschmutzen. Nutzen Sie die Cafés als Regenschutz.",
+                "hu": "Szilárd talajon parkolja le a kerékpárt; a vizes homok rátapadhat a láncra és tönkreteheti azt. Használja a parti kávézókat eső elleni menedékként.",
+                "ro": "Parcați bicicleta pe teren solid; nisipul ud poate deveni lipicios și poate murdări lanțul. Folosiți cafenelele de pe mal ca adăpost contra ploii.",
+                "en": "Park your bike on solid ground; wet sand can be very sticky and get into your chain. Use the beachfront cafes as a shelter to wait out any passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Els Munts",
+                "hu": "Els Munts Római Villa",
+                "ro": "Vila Romană Els Munts",
+                "en": "Roman Villa of Els Munts"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Fahrradständer am Eingang; nutzen Sie die Pause für einen Rundgang in den überdachten Bereichen, um sich vor der Weiterfahrt aufzuwärmen.",
+                "hu": "A bejáratnál kerékpártárolók találhatók; használja ki a szünetet a fedett részek bejárására, hogy megszáradjon egy kicsit a következő szakasz előtt.",
+                "ro": "Există suporturi de biciclete la intrare; profitați de pauză pentru a vizita zonele acoperite și pentru a vă usca puțin înainte de a porni iar la drum.",
+                "en": "There are bike racks at the entrance; use the break to tour the covered areas of the villa to dry off a bit before the next leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Punta de la Galera",
+                "hu": "Punta de la Galera Világítótorony",
+                "ro": "Farul Punta de la Galera",
+                "en": "Punta de la Galera Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Kap kann das Radfahren erschweren; halten Sie den Lenker fest und meiden Sie die unbefestigten Randstreifen, die durch Regen aufgeweicht sind.",
+                "hu": "A foknál fújó szél megnehezítheti a haladást; tartsa erősen a kormányt és kerülje a felázott útszéleket a világítótorony környékén.",
+                "ro": "Vântul de la cap poate îngreuna pedalarea; țineți bine ghidonul și evitați marginile drumului care sunt înmuiate de ploaie în apropierea farului.",
+                "en": "The wind at the cape can make cycling tricky; hold your handlebars firmly and avoid the unpaved edges of the road which are softened by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand Benamocarra",
+                "hu": "Benamocarra Naturista Strand",
+                "ro": "Plaja Nudiștilor Benamocarra",
+                "en": "Benamocarra Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Nach der Tour im Regen sollten Sie Ihre Bremsen und Kette reinigen, da Salz und Sand bei Nässe besonders aggressiv auf das Fahrrad wirken.",
+                "hu": "Az esős túra után mindenképpen tisztítsa meg a fékeket és a láncot, mivel a nedves sós pára és homok rendkívül gyorsan korrodálja a kerékpárt.",
+                "ro": "După tura prin ploaie, curățați neapărat frânele și lanțul, deoarece sarea și nisipul umed sunt extrem de corozive pentru componentele bicicletei.",
+                "en": "After your rainy ride, be sure to clean your brakes and chain, as the wet salt spray and sand are particularly corrosive to your bike's components."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise macht das Radfahren im Winter angenehm und schweißfrei. Starten Sie vormittags am Schloss und erkunden Sie die historische Era. Mittags lädt der leere Strand von Altafulla zu einer Fahrt entlang der Promenade ein. Die römische Villa liegt sonnig und geschützt. Da es früh dunkel wird, sollten Sie den Leuchtturm und den Benamocarra-Strand bis 16:30 Uhr erreicht haben.",
+            "hu": "A hűvös szellő kellemessé és izzadásmentessé teszi a téli biciklizést. Kezdje a délelőttöt a kastélynál, majd fedezze fel a történelmi szérűt. Délben az üres Altafulla strand hívogat egy kis tekerésre a korzón. A római villa fekvése napos és szélvédett. Mivel korán sötétedik, a világítótornyot és a Benamocarra strandot már 16:30-ig érje el.",
+            "ro": "Briza răcoroasă face ciclismul de iarnă plăcut și fără efort. Începeți dimineața la castel și explorați aria istorică. La prânz, plaja goală din Altafulla vă invită la o plimbare pe faleză. Vila romană are o poziție însorită și ferită de vânt. Deoarece se întunecă devreme, vizitați farul și plaja Benamocarra până la ora 16:30.",
+            "en": "The cool winter breeze makes cycling pleasant and sweat-free. Start your morning at the castle and explore the historic threshing floor. At noon, the empty Altafulla beach is perfect for a ride along the promenade. The Roman villa is sunny and sheltered. Since it gets dark early, reach the lighthouse and Benamocarra beach by 16:30."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Montserrat",
+                "hu": "Montserrat Kastély",
+                "ro": "Castelul Montserrat",
+                "en": "Montserrat Castle"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrt vom Schloss; der kalte Fahrtwind kann die Finger schnell auskühlen lassen.",
+                "hu": "Viseljen szélálló kesztyűt a kastélytól induló lejtőn; a hideg menetszél gyorsan lehűtheti az ujjait a téli délelőttön.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborârea de la castel; curentul de aer rece vă poate îngheța rapid degetele pe timp de iarnă.",
+                "en": "Wear windproof gloves for the descent from the castle; the cold headwind can quickly chill your fingers during a winter morning ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Dreschplatz Era d'en Gatell",
+                "hu": "Era d'en Gatell Szérű",
+                "ro": "Aria de Treierat Era d'en Gatell",
+                "en": "Era d'en Gatell Threshing Floor"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft hier im Winter lange Schatten; ein idealer Ort für eine kurze Trinkpause an einem sonnigen, geschützten Plätzchen.",
+                "hu": "Az alacsony téli nap hosszú árnyékokat vet a szérűnél; ez egy remek hely egy rövid frissítő szünetre egy napos, szélvédett sarokban.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste arie; este un loc ideal pentru o scurtă pauză de hidratare într-un colț însorit și ferit.",
+                "en": "The low winter sun casts long shadows here; it is a great spot for a short water break in a sunny, sheltered corner of the old village."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Altafulla",
+                "hu": "Altafulla Strand",
+                "ro": "Plaja Altafulla",
+                "en": "Altafulla Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die freie Fahrt auf der Promenade; achten Sie jedoch auf feuchte Stellen im Schatten der Gebäude, die rutschig sein könnten.",
+                "hu": "Élvezze a szabad haladást a korzón; ügyeljen azonban az épületek árnyékában maradó nedves foltokra, amelyek ilyenkor csúszósak lehetnek.",
+                "ro": "Bucurați-vă de drumul liber de pe faleză; totuși, atenție la porțiunile umede din umbra clădirilor, care pot fi destul de alunecoase.",
+                "en": "Enjoy the clear ride along the promenade; however, watch out for damp patches in the shadows of buildings, which can remain slippery in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Els Munts",
+                "hu": "Els Munts Római Villa",
+                "ro": "Vila Romană Els Munts",
+                "en": "Roman Villa of Els Munts"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauern speichern tagsüber die Wärme; nutzen Sie den Besuch, um sich in der Sonne kurz aufzuwärmen, bevor Sie zum windigen Kap weiterfahren.",
+                "hu": "Az antik falak napközben jól tárolják a hőt; használja ki a látogatást egy kis napozásra, mielőtt továbbtekerne a szelesebb tengerparti fok felé.",
+                "ro": "Zidurile antice stochează bine căldura în timpul zilei; profitați de vizită pentru a vă încălzi la soare înainte de a pleca spre capul vântos.",
+                "en": "The ancient walls store heat well during the day; take advantage of your visit to warm up in the sun before cycling on to the windier cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Punta de la Galera",
+                "hu": "Punta de la Galera Világítótorony",
+                "ro": "Farul Punta de la Galera",
+                "en": "Punta de la Galera Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Vergewissern Sie sich, dass Ihre Fahrradbeleuchtung funktioniert; auf dem Rückweg vom Leuchtturm bricht die Dunkelheit im Winter sehr schnell herein.",
+                "hu": "Ellenőrizze, hogy működnek-e a lámpái; a világítótoronytól visszafelé menet télen meglepően gyorsan ránk törhet a sötétség.",
+                "ro": "Verificați dacă luminile bicicletei funcționează; la întoarcerea de la far, întunericul se lasă foarte rapid în timpul iernii.",
+                "en": "Make sure your bike lights are working properly; on the way back from the lighthouse, darkness can fall very quickly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand Benamocarra",
+                "hu": "Benamocarra Naturista Strand",
+                "ro": "Plaja Nudiștilor Benamocarra",
+                "en": "Benamocarra Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; genießen Sie die Ruhe, aber ziehen Sie sich nach dem Stehenbleiben sofort eine warme Schicht über.",
+                "hu": "A strand télen szinte teljesen néptelen; élvezze a csendet, de amint megáll a biciklivel, azonnal vegyen fel egy plusz meleg réteget.",
+                "ro": "Plaja este aproape pustie iarna; bucurați-vă de liniște, dar imediat ce vă opriți, puneți pe voi un strat suplimentar de haine călduroase.",
+                "en": "The beach is almost deserted in winter; enjoy the peace, but put on an extra warm layer as soon as you stop cycling to avoid catching a chill."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Kezdje festői autózását Altafulla kulturális szívében, a néprajzi múzeum és a gyönyörű magánkastély meglátogatásával. Délben tegyen egy rövid utat délre Els Munts hatalmas római romjaihoz. Délután parkoljon le a fenséges világítótorony közelében, hogy megcsodálja a sziklás partokat. Fejezze be tengerparti utazását a félreeső Benamocarra strand nyugalmában.",
         "ro": "Începeți plimbarea cu mașina în inima culturală a Altafullei, vizitând muzeul etnografic și frumosul castel privat. La prânz, faceți o scurtă excursie spre sud, la vastele ruine romane Els Munts. După-amiaza, parcați lângă farul maiestuos pentru a admira stâncile abrupte. Încheiați-vă călătoria pe coastă relaxându-vă la plaja izolată Benamocarra.",
         "en": "Begin your scenic drive in the cultural heart of Altafulla, visiting the ethnographic museum and the beautiful private castle nearby. Midday offers a short trip south to the extensive Roman ruins of Els Munts, where ancient history comes alive. In the afternoon, park near the majestic lighthouse to admire the rugged cliffs and the endless Mediterranean horizon. Conclude your coastal journey unwinding at the secluded Benamocarra beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl für diesen Regentag. Beginnen Sie im Museum und parken Sie nahe am Eingang. Mittags fahren Sie zum Schloss und zur römischen Villa, wobei Sie die kurzen Wege zwischen Auto und Sehenswürdigkeit im Trockenen zurücklegen können. Nachmittags bietet die Fahrt zum Leuchtturm tolle Ausblicke aus dem Autofenster. Der Tag endet sicher am Benamocarra-Strand.",
+            "hu": "Az autó a legjobb választás erre az esős napra. Kezdjen a múzeumban, parkoljon közvetlenül a bejárat mellett. Délben guruljon át a kastélyhoz és a római villához, így csak rövid távokat kell az esőben megtennie a látnivalókig. Délután a világítótoronyhoz vezető út az autó ablakából is látványos. A napot a Benamocarra strandnál zárhatja, védve az elemektől.",
+            "ro": "Mașina este cea mai bună alegere pentru această zi ploioasă. Începeți la muzeu și parcați aproape de intrare. La prânz, mergeți spre castel și vila romană, parcurgând distanțe scurte în ploaie între mașină și obiective. După-amiaza, drumul spre far oferă vederi spectaculoase prin geamul mașinii. Ziua se încheie în siguranță la plaja Benamocarra.",
+            "en": "The car is the best choice for this rainy day. Start at the museum and park right by the entrance. At noon, drive to the castle and the Roman villa, keeping the time spent in the rain between the car and the sites to a minimum. In the afternoon, the drive to the lighthouse offers great views from the dry interior. End your day safely at Benamocarra beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ethnografisches Museum Altafulla",
+                "hu": "Altafulla Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic din Altafulla",
+                "en": "Ethnographic Museum of Altafulla"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem nahegelegenen Platz; der Weg zum Museum ist kurz, sodass Sie auch bei starkem Regen kaum nass werden.",
+                "hu": "Parkoljon a közeli téren; a múzeum bejárata csak pár lépés, így heves esőben is szinte szárazon juthat be a kiállításra.",
+                "ro": "Parcați în piața din apropiere; intrarea în muzeu este la doar câțiva pași, astfel încât nu vă veți uda aproape deloc chiar dacă plouă tare.",
+                "en": "Park in the nearby square; the museum entrance is only a few steps away, so you can get inside while staying mostly dry even in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Montserrat",
+                "hu": "Montserrat Kastély",
+                "ro": "Castelul Montserrat",
+                "en": "Montserrat Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Schlossvorplatz für ein schnelles Foto aus dem Auto, falls der Regen zu stark für einen Spaziergang im Freien ist.",
+                "hu": "Hajtson egészen a kastély előtti térig egy gyors fotóra az autóból, ha az eső túl intenzív lenne egy szabadtéri sétához az óvárosban.",
+                "ro": "Mergeți cu mașina până în piața din fața castelului pentru o fotografie rapidă din interior dacă ploaia este prea densă pentru o plimbare.",
+                "en": "Drive right up to the castle square for a quick photo from the car if the rain is too intense for a walk around the historic old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Els Munts",
+                "hu": "Els Munts Római Villa",
+                "ro": "Vila Romană Els Munts",
+                "en": "Roman Villa of Els Munts"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz der Villa; von dort führt ein kurzer, meist flacher Weg direkt zum überdachten Eingangsbereich der Ausgrabung.",
+                "hu": "Használja a villa melletti szilárd burkolatú parkolót; onnan rövid, többnyire sík út vezet közvetlenül az ásatások fedett fogadóteréhez.",
+                "ro": "Folosiți parcarea amenajată a vilei; de acolo, un drum scurt și plan duce direct către zona de recepție acoperită a sitului arheologic.",
+                "en": "Use the paved parking lot at the villa; from there, a short and mostly level path leads directly to the site's covered entrance and reception area."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Punta de la Galera",
+                "hu": "Punta de la Galera Világítótorony",
+                "ro": "Farul Punta de la Galera",
+                "en": "Punta de la Galera Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Fahrt zum Kap; die unbefestigten Abschnitte können bei Regen aufweichen. Bleiben Sie mit dem Wagen auf dem Asphalt.",
+                "hu": "Legyen óvatos a fokhoz vezető úton; az aszfaltozatlan részek esőben felázhatnak. Maradjon a kocsival a szilárd burkolatú útszakaszokon.",
+                "ro": "Fiți atenți pe drumul spre cap; porțiunile neasfaltate se pot înmuia la ploaie. Rămâneți cu mașina pe secțiunile de drum asfaltate.",
+                "en": "Be careful on the road to the cape; unpaved sections can become soft and muddy in the rain. Keep your car on the paved parts of the access road."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand Benamocarra",
+                "hu": "Benamocarra Naturista Strand",
+                "ro": "Plaja Nudiștilor Benamocarra",
+                "en": "Benamocarra Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie das Meer sehen können; so genießen Sie die Aussicht auf die Brandung gemütlich im trockenen und warmen Auto.",
+                "hu": "Úgy parkoljon le, hogy rálásson a tengerre; így a száraz és meleg autóban ülve is élvezheti a hullámverés látványát a parton.",
+                "ro": "Parcați astfel încât să aveți vedere la mare; astfel vă puteți bucura de priveliștea valurilor stând confortabil în mașina caldă și uscată.",
+                "en": "Park your car with a view of the sea; this way you can enjoy the sight of the crashing waves from the comfort of your dry and warm vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die perfekte Zeit, um Torredembarra ohne Parkplatznot zu erkunden. Starten Sie vormittags am Museum. Mittags erreichen Sie bequem das Schloss und die römische Villa, während die Klimaanlage für angenehme Wärme sorgt. Am Nachmittag führt die Panoramafahrt zum Leuchtturm. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie den Benamocarra-Strand für den frühen Abend ein.",
+            "hu": "A tél tökéletes időpont Torredembarra felfedezésére, hiszen nincs parkolási gond. Kezdje a délelőttöt a múzeumnál. Délben kényelmesen elérheti a kastélyt és a római villát, miközben az autóban kellemes meleg várja. Délután tegyen egy panorámás autózást a világítótoronyhoz. Mivel 17:00 körül lemegy a nap, a Benamocarra strandot tervezze kora estére.",
+            "ro": "Iarna este momentul perfect pentru a explora Torredembarra fără stresul parcării. Începeți dimineața la muzeu. La prânz ajungeți ușor la castel și vila romană, bucurându-vă de căldura din mașină. După-amiaza faceți o plimbare panoramică până la far. Deoarece soarele apune în jur de 17:00, vizitați plaja Benamocarra devreme.",
+            "en": "Winter is the perfect time to explore Torredembarra without the usual parking stress. Start your morning at the museum. At noon, you can easily reach the castle and Roman villa while staying warm in your car. In the afternoon, take a scenic drive to the lighthouse. Since the sun sets around 17:00, visit Benamocarra beach early to enjoy the twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ethnografisches Museum Altafulla",
+                "hu": "Altafulla Néprajzi Múzeum",
+                "ro": "Muzeul Etnografic din Altafulla",
+                "en": "Ethnographic Museum of Altafulla"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leicht einen Parkplatz direkt vor dem Museum; genießen Sie den Besuch im Warmen, bevor Sie die kühle Außenluft wieder betreten.",
+                "hu": "Télen könnyen talál parkolóhelyet közvetlenül a múzeum előtt; élvezze a fűtött kiállítóteret, mielőtt újra kilépne a hűvös téli levegőre.",
+                "ro": "Iarna veți găsi ușor un loc de parcare chiar în fața muzeului; bucurați-vă de vizită la căldură înainte de a ieși din nou în aerul rece de afară.",
+                "en": "In winter, you will easily find a parking spot right in front of the museum; enjoy the indoor warmth before stepping back into the crisp outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Montserrat",
+                "hu": "Montserrat Kastély",
+                "ro": "Castelul Montserrat",
+                "en": "Montserrat Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Gassen rund um das Schloss sind im Winter ruhig; parken Sie etwas außerhalb und machen Sie einen kurzen Spaziergang in der klaren Winterluft.",
+                "hu": "A kastély körüli szűk utcák télen nagyon csendesek; parkoljon le kicsit távolabb, és tegyen egy rövid sétát a kristálytiszta téli levegőn.",
+                "ro": "Străzile din jurul castelului sunt foarte liniștite iarna; parcați puțin mai departe și faceți o scurtă plimbare în aerul curat de iarnă.",
+                "en": "The streets around the castle are very quiet in winter; park a bit further away and enjoy a short, brisk walk in the clear winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa Els Munts",
+                "hu": "Els Munts Római Villa",
+                "ro": "Vila Romană Els Munts",
+                "en": "Roman Villa of Els Munts"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht mittags ideal für Besichtigungen der Außenanlagen; lassen Sie keine Wertsachen im Auto, da der Parkplatz im Winter einsam ist.",
+                "hu": "A téli nap délben ideális a kültéri romok megtekintéséhez; ne hagyjon értéket az autóban, mert a parkoló télen meglehetősen néptelen és elszigetelt.",
+                "ro": "Soarele de iarnă este ideal la prânz pentru vizitarea ruinelor exterioare; nu lăsați obiecte de valoare în mașină, parcarea fiind izolată iarna.",
+                "en": "The winter sun is ideal at noon for touring the outdoor ruins; do not leave valuables in the car as the parking lot is quite deserted in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Punta de la Galera",
+                "hu": "Punta de la Galera Világítótorony",
+                "ro": "Farul Punta de la Galera",
+                "en": "Punta de la Galera Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das Mittelmeer direkt vom Parkplatz am Leuchtturm aus; der Wind kann hier im Winter sehr heftig und kalt sein.",
+                "hu": "Élvezze a végtelen kilátást a Földközi-tengerre közvetlenül a világítótorony melletti parkolóból; a szél itt télen nagyon erős és fagyos lehet.",
+                "ro": "Bucurați-vă de vederea largă spre Mediterană direct din parcarea de lângă far; vântul poate fi foarte puternic și rece aici pe timp de iarnă.",
+                "en": "Enjoy the sweeping views of the Mediterranean directly from the lighthouse parking area; the wind can be very strong and cold here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK-Strand Benamocarra",
+                "hu": "Benamocarra Naturista Strand",
+                "ro": "Plaja Nudiștilor Benamocarra",
+                "en": "Benamocarra Naturist Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist hier im Winter fantastisch; nutzen Sie das Auto als warmen Rückzugsort nach einem kurzen Spaziergang am Ufer.",
+                "hu": "A késő délutáni fények télen fantasztikusak ezen a parton; használja az autót meleg menedékként egy rövid tengerparti séta után.",
+                "ro": "Lumina de după-amiază târziu este fantastică aici iarna; folosiți mașina ca refugiu călduros după o scurtă plimbare pe malul mării.",
+                "en": "The late afternoon light is fantastic here in winter; use your car as a warm sanctuary after a short, refreshing walk along the shoreline."
+              }
+            }
+          ]
+        }
       }
     }
   }

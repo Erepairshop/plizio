@@ -160,6 +160,196 @@
         "hu": "1: A nap lelki nyugalommal indul a lenyűgöző San Domenico bazilikában, mielőtt megközelítenénk a fenséges sziénai dómot.\n2: Délben megcsodáljuk a varázslatos keresztelőkápolnát, majd kényelmesen átsétálunk a világhírű Piazza del Campo térre.\n3: Délután a Palazzo Pubblico falai között elmélyedünk a sziénai köztársaság gazdag történelmében és művészetében.\n4: A kirándulás a Torre del Mangia toronyból nyíló látványos naplementével zárul, amely meleg fénybe öltözteti Sziénát.",
         "ro": "1: Ziua începe cu liniște spirituală la impresionanta Basilica di San Domenico, înainte de a ne apropia de magnificul Duomo di Siena.\n2: La prânz admirăm fascinantul baptisteriu și ne plimbăm relaxat pe străduțe către celebra Piazza del Campo.\n3: După-amiaza ne scufundăm în istoria și arta Republicii Sieneze în sălile monumentale ale Palazzo Pubblico.\n4: Excursia culminează cu un apus spectaculos de pe Torre del Mangia, care scaldă întreaga Siena într-o lumină caldă.",
         "en": "1: The day begins with spiritual tranquility at the impressive Basilica di San Domenico before approaching the magnificent Duomo di Siena.\n2: At midday, we admire the fascinating Baptistery and take a relaxed stroll through the alleys to the Piazza del Campo.\n3: In the afternoon, we dive deep into the history and art of the Sienese Republic within the halls of the Palazzo Pubblico.\n4: The excursion culminates with a spectacular sunset from the Torre del Mangia, bathing all of Siena in a warm, golden light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen an der Basilica di San Domenico, wo das Backsteingebäude im Grau leuchtet. Mittags bietet der Dom perfekten Schutz vor dem Guss. Nachmittags erkunden wir die Säle des Palazzo Pubblico trocken. Abends spiegelt sich das Licht in den Pfützen der Piazza del Campo, ein magischer Anblick trotz Schirm.",
+            "hu": "Esős reggel a San Domenico bazilikánál, ahol a téglafalak mély színt kapnak a párában. Délben a dóm belső tere nyújt menedéket a zivatar elől. Délután a Palazzo Pubblico múzeumában maradunk szárazon. Este a Piazza del Campo kövein megcsillanó fényeket csodáljuk az esernyők alól, figyelve a csúszós útburkolatra.",
+            "ro": "Dimineață ploioasă la Basilica di San Domenico, unde cărămida roșie capătă nuanțe intense. La prânz, Domul oferă adăpostul perfect împotriva aversei. După-amiaza explorăm muzeele din Palazzo Pubblico, feriți de umezeală. Seara, luminile se reflectă în bălțile din Piazza del Campo, creând un tablou spectaculos sub umbrelă.",
+            "en": "A rainy morning at Basilica di San Domenico where the brickwork glows in the mist. At noon, the Cathedral provides the perfect sanctuary from the downpour. Afternoon is spent dry inside the Palazzo Pubblico. By evening, the wet stones of Piazza del Campo reflect the city lights beautifully; watch your step on the slick pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica di San Domenico",
+                "hu": "Basilica di San Domenico",
+                "ro": "Basilica di San Domenico",
+                "en": "Basilica di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Reliquien der Heiligen Katharina im trockenen Innenraum und achten Sie auf die rutschigen Stufen am Eingang bei starkem Regenfall.",
+                "hu": "Csodáld meg Szent Katalin ereklyéit a tágas és száraz belső térben, de vigyázz a bejáratnál, mert a kőburkolat vizesen rendkívül csúszóssá válhat.",
+                "ro": "Admirați moaștele Sfintei Ecaterina în interiorul vast și uscat, având grijă la treptele de la intrare care devin foarte alunecoase când plouă torențial.",
+                "en": "Admire the relics of Saint Catherine in the vast, dry interior and be careful on the entrance steps which become quite slippery during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Siena",
+                "hu": "Sziénai dóm",
+                "ro": "Domul din Siena",
+                "en": "Siena Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Der schwarz-weiß gestreifte Marmor wirkt an dunklen Regentagen besonders dramatisch; nutzen Sie die Zeit für die Details der Bodenmosaike im trockenen Schutz.",
+                "hu": "A fekete-fehér márványcsíkok drámai látványt nyújtanak a borús időben; használd ki a benti menedéket a híres padlómozaikok alapos megtekintésére.",
+                "ro": "Marmura în dungi albe și negre pare dramatică în zilele ploioase; profitați de adăpostul interior pentru a studia detaliile incredibile ale mozaicurilor.",
+                "en": "The black and white striped marble looks particularly dramatic on gloomy days; use the indoor shelter to study the intricate floor mosaics in detail."
+              }
+            },
+            {
+              "name": {
+                "de": "Baptisterium",
+                "hu": "Keresztelőkápolna",
+                "ro": "Baptisteriu",
+                "en": "Baptistery"
+              },
+              "tip_5lang": {
+                "de": "Die Fresken leuchten im sanften Licht eines Regentages wunderbar; der kurze Weg vom Dom ist steil, halten Sie sich am Geländer fest.",
+                "hu": "A freskók színei csodásan érvényesülnek a kinti szórt fényben; a dóm felől vezető rövid lejtő meredek és vizesen csúszik, használd a korlátot.",
+                "ro": "Culorile frescelor ies în evidență sub lumina difuză a unei zile ploioase; drumul scurt de la Dom este abrupt, deci folosiți balustrada pe ploaie.",
+                "en": "The colors of the frescoes stand out beautifully in the diffused light; the short path from the Cathedral is steep and slick, so use the handrails."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza del Campo",
+                "hu": "Piazza del Campo",
+                "ro": "Piazza del Campo",
+                "en": "Piazza del Campo"
+              },
+              "tip_5lang": {
+                "de": "Die muschelförmige Piazza wirkt wie ein riesiger Spiegel; suchen Sie Schutz unter den Arkaden der umliegenden Gebäude, um das Panorama trocken zu genießen.",
+                "hu": "A kagyló alakú tér ilyenkor hatalmas tükörként ver vissza minden fényt; húzódj a környező épületek árkádjai alá, hogy szárazon élvezhesd a látványt.",
+                "ro": "Piața în formă de scoică reflectă lumina ca o oglindă uriașă; căutați adăpost sub arcadele clădirilor din jur pentru a vedea panorama fără a vă uda.",
+                "en": "The shell-shaped square acts like a giant mirror when wet; seek shelter under the surrounding arcades to enjoy the panoramic view while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pubblico",
+                "hu": "Palazzo Pubblico",
+                "ro": "Palazzo Pubblico",
+                "en": "Palazzo Pubblico"
+              },
+              "tip_5lang": {
+                "de": "Die prächtigen Säle des Museo Civico sind der ideale Zufluchtsort vor dem Wetter; bewundern Sie die Allegorien der guten Regierung im trockenen Inneren.",
+                "hu": "A Museo Civico pompás termei ideális menedéket nyújtanak a vihar elől; csodáld meg a jó kormányzás allegóriáit a falak védelmében.",
+                "ro": "Sălile splendide ale Museo Civico sunt refugiul ideal împotriva vremii; admirați alegoriile bunei guvernări în interiorul cald și primitor.",
+                "en": "The splendid halls of the Museo Civico are an ideal refuge from the storm; admire the allegories of good government while sheltered by the thick walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Mangia",
+                "hu": "Torre del Mangia",
+                "ro": "Torre del Mangia",
+                "en": "Torre del Mangia"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Feuchtigkeit anstrengend und die Aussichtsplattform kann windig sein; tragen Sie eine regen feste Jacke statt eines unhandlichen Schirms.",
+                "hu": "A lépcsőzés a párás levegőben fárasztó lehet, fent pedig fújhat a szél; esernyő helyett inkább szélálló esőkabátot viselj a kilátóban.",
+                "ro": "Urcarea poate fi obositoare din cauza umidității, iar sus vântul suflă tare; purtați o pelerină de ploaie în loc de o umbrelă greu de manevrat.",
+                "en": "The climb can be humid and the top platform very windy; wear a waterproof jacket instead of using an umbrella, which is hard to hold up there."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Wintermorgen bei San Domenico mit Blick auf die Stadt im kühlen Licht. Mittags wärmen wir uns im prächtigen Dom auf. Nachmittags sinkt die Sonne früh über die Piazza del Campo. Abends funkeln die Lichter der Altstadt in der frühen Dunkelheit, während wir uns durch die Gassen bewegen.",
+            "hu": "Friss téli reggel a San Domenico bazilikánál, ahonnan tiszta rálátás nyílik a városra. Délben a dóm belső tere nyújt kellemes meleget a hideg ellen. Délután a nap hamar nyugovóra tér a Piazza del Campo felett. Este az óváros fényei korán felgyúlnak, varázslatos hangulatot árasztva a szűk utcákban.",
+            "ro": "Dimineață rece de iarnă la San Domenico, cu o priveliște clară asupra orașului în lumina tăioasă. La prânz, ne încălzim în interiorul grandios al Domului. După-amiaza, soarele apune devreme peste Piazza del Campo. Seara, luminile orașului vechi strălucesc în întunericul prematur, creând o atmosferă magică.",
+            "en": "A crisp winter morning at San Domenico with clear views of the city in the sharp light. At noon, warm up inside the magnificent Cathedral. By afternoon, the sun dips early behind the buildings of Piazza del Campo. Evening lights sparkle prematurely in the narrow streets as the winter chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica di San Domenico",
+                "hu": "Basilica di San Domenico",
+                "ro": "Basilica di San Domenico",
+                "en": "Basilica di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Das massive Mauerwerk hält die Kälte draußen; genießen Sie die Ruhe am Morgen und ziehen Sie sich warm an für den windigen Vorplatz der Kirche.",
+                "hu": "A vaskos falak jól kint tartják a téli fagyot; élvezd a reggeli csendet odabent, de öltözz rétegesen a templom előtti szeles tér miatt.",
+                "ro": "Zidurile masive țin frigul afară; bucurați-vă de liniștea dimineții în interior, dar îmbrăcați-vă gros pentru esplanada expusă vântului.",
+                "en": "The massive walls keep the winter frost at bay; enjoy the morning silence inside, but dress in layers for the windy square in front of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Siena",
+                "hu": "Sziénai dóm",
+                "ro": "Domul din Siena",
+                "en": "Siena Cathedral"
+              },
+              "tip_5lang": {
+                "de": "In den Wintermonaten sind die Bodenmosaike oft vollständig sichtbar; nutzen Sie das weiche Licht der tiefstehenden Sonne für Fotos ohne harte Schatten.",
+                "hu": "A téli hónapokban a padlómozaikok gyakran teljes egészében láthatóak; használd ki az alacsonyan járó nap fényét a lágy tónusú fotók készítéséhez.",
+                "ro": "În lunile de iarnă, mozaicurile de pe podea sunt adesea complet vizibile; folosiți lumina blândă a soarelui pentru fotografii fără umbre dure.",
+                "en": "During winter months, the floor mosaics are often fully uncovered; use the soft light of the low sun for photos without harsh, dark shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Baptisterium",
+                "hu": "Keresztelőkápolna",
+                "ro": "Baptisteriu",
+                "en": "Baptistery"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle ist im Winter ein gemütlicher Ort; bewundern Sie das Taufbecken von Donatello ohne die großen Touristenströme des Sommers.",
+                "hu": "A kis kápolna télen kifejezetten meghitt; csodáld meg Donatello keresztelőmedencéjét a nyári nagy turistatömeg és a hőség nélkül.",
+                "ro": "Mica capelă este un loc intim iarna; admirați cristelnița lui Donatello fără mulțimile mari de turiști care vin de obicei în timpul verii.",
+                "en": "The small chapel is very intimate in winter; admire Donatello's font without the large crowds and heat that characterize the summer season."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza del Campo",
+                "hu": "Piazza del Campo",
+                "ro": "Piazza del Campo",
+                "en": "Piazza del Campo"
+              },
+              "tip_5lang": {
+                "de": "Gegen 16:30 Uhr beginnt die Piazza in warmem Abendlicht zu leuchten; setzen Sie sich kurz auf die Steine, solange sie noch Restwärme vom Tag haben.",
+                "hu": "Délután fél öt körül a tér meleg fényekben kezd tündökölni; ülj le egy percre a kövekre, amíg még őriznek valamennyit a nappali napsütés erejéből.",
+                "ro": "În jurul orei 16:30, piața începe să strălucească în lumina caldă a apusului; așezați-vă scurt pe pietre cât încă mai păstrează căldura zilei.",
+                "en": "Around 4:30 PM, the square starts to glow in the warm sunset light; sit for a moment on the stones while they still hold some residual daytime heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pubblico",
+                "hu": "Palazzo Pubblico",
+                "ro": "Palazzo Pubblico",
+                "en": "Palazzo Pubblico"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume bieten Schutz vor der winterlichen Abendkühle; erkunden Sie die Geschichte Sienas, während draußen die Dämmerung über die Stadt hereinbricht.",
+                "hu": "A belső termek védelmet nyújtanak a téli este hűvöse elől; merülj el Siena történelmében, miközben kint lassan leszáll az alkony a városra.",
+                "ro": "Sălile interioare oferă protecție împotriva răcorii serii de iarnă; explorați istoria Sienei în timp ce afară amurgul se așterne peste oraș.",
+                "en": "The interior rooms provide protection from the winter evening chill; explore Siena's history as twilight settles over the city outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Mangia",
+                "hu": "Torre del Mangia",
+                "ro": "Torre del Mangia",
+                "en": "Torre del Mangia"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz vor Sonnenuntergang hinauf, um das Lichtermeer Sienas zu sehen; Handschuhe sind wichtig, da das Steingeländer oben eisig sein kann.",
+                "hu": "Menj fel nem sokkal naplemente előtt, hogy lásd Siena fényeit; vigyél kesztyűt, mert a fenti kőkorlát jéghideg lehet ilyenkor.",
+                "ro": "Urcați chiar înainte de apus pentru a vedea marea de lumini a Sienei; mănușile sunt esențiale, deoarece balustrada de piatră poate fi înghețată.",
+                "en": "Climb up just before sunset to see the sea of city lights; gloves are essential as the stone railing at the top can be icy to the touch."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "1: A napot friss reggeli szellővel kezdjük a Fortezza Medicea erődítményénél, majd a tiszteletre méltó San Domenico felé kerekezünk.\n2: A déli órákat a lenyűgöző Dóm körül töltjük, majd hamarosan elérjük a város nyüzsgő, élettel teli szívét.\n3: Délután leparkoljuk a kerékpárokat a Piazza del Campo téren, hogy felfedezzük a Fonte Gaiát és a Palazzo Pubblicót.\n4: Este a Torre del Mangia megmászása felejthetetlen kilátással jutalmaz meg minket a sziénai terrakotta tetők felett.",
         "ro": "1: Începem cu o briză proaspătă de dimineață la Fortezza Medicea și pedalăm spre venerabila Basilica di San Domenico.\n2: Petrecem orele prânzului în jurul uimitorului Dom și ajungem curând în centrul plin de viață al orașului.\n3: După-amiaza parcăm bicicletele în Piazza del Campo pentru a explora fântâna Fonte Gaia și istoricul Palazzo Pubblico.\n4: Seara, urcarea pe Torre del Mangia ne răsplătește cu o priveliște de neuitat peste acoperișurile din teracotă ale Sienei.",
         "en": "1: We start with a fresh morning breeze at the Fortezza Medicea and cycle to the venerable Basilica di San Domenico.\n2: The midday hours are spent around the breathtaking Duomo before reaching the lively heart of the historic center.\n3: In the afternoon, we park the bikes at Piazza del Campo to explore the beautiful Fonte Gaia and Palazzo Pubblico.\n4: In the evening, the steep climb up the Torre del Mangia rewards us with an unforgettable view over the terracotta roofs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgenstart an der Fortezza mit vorsichtiger Fahrt auf nassen Wegen. Mittags erreichen wir die Basilika zum Unterstellen. Nachmittags parken wir die Räder sicher für einen Besuch im Dom. Abends radeln wir durch die glänzenden Gassen zurück, stets aufmerksam wegen der rutschigen Pflastersteine.",
+            "hu": "Reggeli kezdés a Fortezza falainál, óvatos tekeréssel a vizes utakon. Délben a bazilikánál keresünk fedezéket az eső elől. Délután biztonságos helyre zárjuk a bringákat a dóm meglátogatásához. Este a fénylő utcákon pedálozunk vissza, figyelve a csúszós macskakövekre a kanyarokban.",
+            "ro": "Pornim dimineața de la Fortezza, pedalând cu grijă pe drumurile ude. La prânz ajungem la basilică pentru a ne adăposti. După-amiaza parcăm bicicletele în siguranță pentru a vizita Domul. Seara ne întoarcem prin străzile lucioase, fiind atenți la pavajul alunecos în viraje.",
+            "en": "Morning start at the Fortezza with cautious riding on wet paths. At noon, we reach the Basilica to take cover. Afternoon involves parking the bikes securely for a Cathedral visit. By evening, we cycle back through glistening streets, staying alert for slippery cobblestones on the turns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Festung Medicea",
+                "hu": "Fortezza Medicea",
+                "ro": "Fortăreața Medicea",
+                "en": "Fortezza Medicea"
+              },
+              "tip_5lang": {
+                "de": "Die Wege auf den Wällen sind bei Regen matschig; bleiben Sie auf den gepflasterten Abschnitten und prüfen Sie Ihre Bremsen vor der Abfahrt in die Stadt.",
+                "hu": "A sáncokon lévő utak esőben sárosak lehetnek; maradj a kövezett részeken, és ellenőrizd a fékeket, mielőtt elindulsz lefelé a városba.",
+                "ro": "Căile de pe ziduri pot fi noroioase pe ploaie; rămâneți pe secțiunile pavate și verificați frânele înainte de a coborî spre centrul orașului.",
+                "en": "The paths on the ramparts can be muddy in the rain; stick to paved sections and check your brakes before descending into the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Domenico",
+                "hu": "Basilica di San Domenico",
+                "ro": "Basilica di San Domenico",
+                "en": "Basilica di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder und ziehen Sie Ihre Regenkleidung aus, bevor Sie die trockene Basilika betreten.",
+                "hu": "Használd a fedett bejárati részt a biciklik rövid idejű tárolására, és rázd le az esővédőt, mielőtt belépsz a száraz és csendes bazilikába.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicletele și scoateți pelerina de ploaie înainte de a intra în basilica uscată și liniștită.",
+                "en": "Use the covered entrance area to briefly park the bikes and shake off your rain gear before entering the dry and quiet interior of the basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Siena",
+                "hu": "Sziénai dóm",
+                "ro": "Domul din Siena",
+                "en": "Siena Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem festen Ständer und genießen Sie die kunstvolle Innenausstattung als ausgiebige Pause vom nassen Wetter draußen.",
+                "hu": "Zárd le a kerékpárt egy stabil tárolónál, és élvezd a pazar belső teret, mint egy alapos pihenőt a kinti barátságtalan, esős időjárás elől.",
+                "ro": "Parcați bicicleta la un suport stabil și bucurați-vă de interiorul somptuos ca o pauză prelungită de la vremea umedă de afară.",
+                "en": "Lock your bike at a stable rack and enjoy the lavish interior as an extended break from the unfriendly, wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza del Campo",
+                "hu": "Piazza del Campo",
+                "ro": "Piazza del Campo",
+                "en": "Piazza del Campo"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, bei Regen über die glatten Ziegelsteine zu fahren; schieben Sie Ihr Rad lieber über den äußeren Ring mit den griffigeren Steinen.",
+                "hu": "Kerüld a biciklizést a sima téglafelületen esőben; inkább told a gépet a külső gyűrűn, ahol a kövek érdesebbek és kevésbé csúsznak.",
+                "ro": "Evitați să pedalați pe cărămizile netede când plouă; mai degrabă împingeți bicicleta pe inelul exterior unde pietrele sunt mai aderente.",
+                "en": "Avoid cycling across the smooth bricks when it rains; instead, push your bike along the outer ring where the stones offer better grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte Gaia",
+                "hu": "Fonte Gaia",
+                "ro": "Fonte Gaia",
+                "en": "Fonte Gaia"
+              },
+              "tip_5lang": {
+                "de": "Der Brunnen wirkt bei Regen fast mystisch; halten Sie nur kurz an, da die Gischt und der Regen den Aufenthalt hier sehr feucht machen können.",
+                "hu": "A kút szinte misztikus látvány az esőben; csak rövid ideig állj meg, mert a felfröccsenő víz és az eső hamar átáztathatja a ruhádat.",
+                "ro": "Fântâna arată aproape mistic în ploaie; opriți-vă doar scurt, deoarece stropii și ploaia vă pot uda hainele foarte repede.",
+                "en": "The fountain looks almost mystical in the rain; stop only briefly as the splashing water and rain can soak your clothes quite quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pubblico",
+                "hu": "Palazzo Pubblico",
+                "ro": "Palazzo Pubblico",
+                "en": "Palazzo Pubblico"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen geschützten Abstellplatz für Ihr Rad und verbringen Sie viel Zeit im Museum, um sich vollständig aufzuwärmen und zu trocknen.",
+                "hu": "Keress védett helyet a bringának, és tölts el több időt a múzeumban, hogy teljesen megszáradj és átmelegedj a következő szakasz előtt.",
+                "ro": "Căutați un loc ferit pentru bicicletă și petreceți mai mult timp în muzeu pentru a vă usca și încălzi înainte de următoarea etapă.",
+                "en": "Find a sheltered spot for your bike and spend extra time in the museum to dry off and warm up completely before the next leg of your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Mangia",
+                "hu": "Torre del Mangia",
+                "ro": "Torre del Mangia",
+                "en": "Torre del Mangia"
+              },
+              "tip_5lang": {
+                "de": "Der Wind oben kann feuchten Nebel herantragen; tragen Sie eine enganliegende Regenjacke, die beim Aufstieg im engen Treppenhaus nicht behindert.",
+                "hu": "A fenti szél nedves párát hozhat; viselj testhezálló esőkabátot, amely nem akadályoz a szűk lépcsőházban való feljutás során.",
+                "ro": "Vântul de sus poate aduce o ceață umedă; purtați o jachetă de ploaie strâmtă care să nu vă încurce în scara îngustă a turnului.",
+                "en": "The wind at the top can bring in damp mist; wear a snug waterproof jacket that won't get in your way in the narrow staircase."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen auf dem Rad an der Fortezza mit herrlicher Fernsicht. Mittags radeln wir zur Basilika, wo die Luft still und kalt ist. Nachmittags besuchen wir den Dom und wärmen die Finger auf. Abends geht es im Scheinwerferlicht durch die festlich beleuchteten Gassen Sienas zurück.",
+            "hu": "Tiszta téli reggel kerékpáron a Fortezza körül, pazar kilátással a távolba. Délben a bazilikához tekerünk a csendes, hideg levegőben. Délután a dómban melegítjük fel elgémberedett ujjainkat. Este a bicikli lámpájának fényénél haladunk át a hangulatosan kivilágított óvároson.",
+            "ro": "Dimineață senină de iarnă pe bicicletă în jurul Fortezza, cu vederi superbe. La prânz pedalăm spre basilică în aerul rece și liniștit. După-amiaza ne încălzim degetele amorțite în interiorul Domului. Seara ne întoarcem la lumina farurilor prin centrul vechi iluminat festiv.",
+            "en": "A clear winter morning on the bike around the Fortezza with superb distant views. At noon, cycle to the Basilica through the still, cold air. In the afternoon, warm up your numb fingers inside the Cathedral. By evening, ride back by bike light through the festively lit old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Festung Medicea",
+                "hu": "Fortezza Medicea",
+                "ro": "Fortăreața Medicea",
+                "en": "Fortezza Medicea"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die winterlichen Hügel der Toskana ist fantastisch; tragen Sie Windstopper-Handschuhe für die Fahrt auf den exponierten Wällen.",
+                "hu": "A kilátás a téli toszkán dombokra lenyűgöző; viselj szélálló kesztyűt a sáncokon való tekeréshez, mert ott sokkal hidegebbnek érződik az idő.",
+                "ro": "Priveliștea asupra dealurilor toscane iarna este uimitoare; purtați mănuși rezistente la vânt pentru porțiunile expuse de pe zidurile cetății.",
+                "en": "The view over the winter Tuscan hills is stunning; wear windproof gloves for riding on the ramparts as it feels much colder up there."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Domenico",
+                "hu": "Basilica di San Domenico",
+                "ro": "Basilica di San Domenico",
+                "en": "Basilica di San Domenico"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im Windschatten der großen Mauern ab; der Kontrast zwischen der kalten Außenluft und der Stille im Inneren ist im Winter besonders spürbar.",
+                "hu": "Támasszad le a biciklit a falak szélvédett oldalán; a kinti hideg levegő és a benti csend közötti kontraszt télen különösen érezhető és megnyugtató.",
+                "ro": "Lăsați bicicleta la umbra zidurilor ferite de vânt; contrastul dintre aerul rece de afară și liniștea din interior este foarte plăcut iarna.",
+                "en": "Park your bike on the sheltered side of the walls; the contrast between the cold air outside and the inner silence is especially palpable in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Siena",
+                "hu": "Sziénai dóm",
+                "ro": "Domul din Siena",
+                "en": "Siena Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Aufwärmpause ein; das Licht der tiefstehenden Wintersonne fällt durch die Fenster und beleuchtet die Kunstwerke wunderschön.",
+                "hu": "Tervezz ide egy hosszabb pihenőt a melegedéshez; az alacsony téli nap fénye különleges szögben világítja meg a benti műalkotásokat és a mozaikokat.",
+                "ro": "Planificați o pauză mai lungă pentru a vă încălzi; lumina slabă a soarelui de iarnă pătrunde prin ferestre și luminează superb operele de artă.",
+                "en": "Plan a longer break here to warm up; the low winter sun shines through the windows at a unique angle, beautifully lighting the artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza del Campo",
+                "hu": "Piazza del Campo",
+                "ro": "Piazza del Campo",
+                "en": "Piazza del Campo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Piazza ohne die sommerlichen Sonnenschirme der Cafés; halten Sie kurz an, um das klare architektonische Ensemble im Winterlicht zu bewundern.",
+                "hu": "Élvezd a teret a kávézók nyári napernyői nélkül; állj meg egy pillanatra, hogy megcsodáld az épületek tiszta vonalait a téli világításban.",
+                "ro": "Bucurați-vă de piață fără umbrelele de vară ale cafenelelor; opriți-vă scurt pentru a admira liniile clare ale clădirilor în lumina iernii.",
+                "en": "Enjoy the square without the summer cafe umbrellas; stop briefly to admire the clean architectural lines in the sharp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte Gaia",
+                "hu": "Fonte Gaia",
+                "ro": "Fonte Gaia",
+                "en": "Fonte Gaia"
+              },
+              "tip_5lang": {
+                "de": "Bei Frost können sich an den Skulpturen kleine Eiszapfen bilden; ein kurzer Stopp reicht, da die Nähe zum Wasser die Kälte verstärkt.",
+                "hu": "Fagy esetén apró jégcsapok jelenhetnek meg a szobrokon; egy rövid megálló elég, mert a víz közelsége miatt itt sokkal hidegebbnek tűnik a levegő.",
+                "ro": "În caz de îngheț, pe sculpturi pot apărea mici țurțuri; o oprire scurtă este suficientă, deoarece apa face ca aerul să pară și mai rece.",
+                "en": "In case of frost, small icicles may form on the sculptures; a short stop is enough as the proximity to water makes the air feel much colder."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Pubblico",
+                "hu": "Palazzo Pubblico",
+                "ro": "Palazzo Pubblico",
+                "en": "Palazzo Pubblico"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, aber der Innenraum ist windgeschützt; nutzen Sie den Besuch, um die Beine nach der Fahrt auszuruhen.",
+                "hu": "A vastag falak tárolják a hideget, de a belső tér szélvédett; használd ki a látogatást, hogy pihentesd a lábaidat a tekerés után a melegben.",
+                "ro": "Zidurile groase păstrează frigul, dar interiorul este ferit de vânt; folosiți vizita pentru a vă odihni picioarele după pedalat în mediul cald.",
+                "en": "The thick walls hold the cold, but the interior is sheltered from the wind; use the visit to rest your legs in the warmth after cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Mangia",
+                "hu": "Torre del Mangia",
+                "ro": "Torre del Mangia",
+                "en": "Torre del Mangia"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg bringt den Kreislauf in Schwung; oben angekommen, schützt eine Mütze vor dem eisigen Winterwind, während Sie das Panorama genießen.",
+                "hu": "A lépcsőzés hamar felpezsdíti a vérkeringést; felérve egy meleg sapka elengedhetetlen a jeges téli szél ellen a panoráma csodálása közben.",
+                "ro": "Urcatul scărilor vă va pune sângele în mișcare; odată ajunși sus, o căciulă este vitală împotriva vântului înghețat de iarnă în timp ce admirați priveliștea.",
+                "en": "The climb will quickly boost your circulation; once at the top, a warm hat is vital against the icy winter wind as you admire the panorama."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "1: Az autós kirándulás a festői Lago di Monaciano tónál indul, amely békés, természetközeli kezdést biztosít számunkra.\n2: Délben a családbarát Ludoteca felé vesszük az irányt, mielőtt megközelítenénk az erődítmény impozáns téglafalait.\n3: Délután az út a történelmi szívbe, a sziénai dómhoz vezet, ahol a gótikus építészet mindenkit ámulatba ejt.\n4: A nap a legendás Piazza del Campo téren ér véget, ahol egy kellemes vacsora mellett élvezhetjük a város hangulatát.",
         "ro": "1: Excursia cu mașina începe relaxant la pitorescul Lago di Monaciano, oferindu-ne un start pașnic în mijlocul naturii.\n2: La prânz ne îndreptăm spre Ludoteca, un loc ideal pentru familii, înainte de a explora zidurile impunătoare ale fortăreței.\n3: După-amiaza, drumul ne poartă în inima istorică la Duomo di Siena, unde arhitectura gotică ne lasă fără cuvinte.\n4: Ziua se încheie în legendara Piazza del Campo, unde ne bucurăm de farmecul orașului la o cină liniștită.",
         "en": "1: The road trip begins in a relaxed manner at the picturesque Lago di Monaciano, offering a peaceful start in nature.\n2: Around midday, we head to the family-friendly Ludoteca before approaching the imposing walls of the Medici fortress.\n3: In the afternoon, our route takes us into the historic heart to the Duomo di Siena, where Gothic architecture amazes us.\n4: The day ends at the legendary Piazza del Campo, where we soak up the city's unique flair over a delightful dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start am Lago di Monaciano, wo der Nebel über dem Wasser hängt. Mittags bietet die Ludoteca in Siena den perfekten trockenen Spaß für die Familie. Nachmittags erkunden wir die Fortezza im Auto-Schutz. Abends parken wir nahe dem Zentrum für einen kurzen Besuch im Dom und auf der Piazza.",
+            "hu": "Esős kezdés a Lago di Monaciano partján, ahol a köd különleges hangulatot ad a tájnak. Délben a sienai Ludoteca nyújt tökéletes, száraz szórakozást a családnak. Délután a Fortezza környékét fedezzük fel, autónkból csodálva a várost. Este a központ közelében parkolunk egy rövid dóm- és térlátogatáshoz.",
+            "ro": "Început ploios la Lago di Monaciano, unde ceața plutește deasupra apei. La prânz, Ludoteca din Siena oferă distracția perfectă și uscată pentru familie. După-amiaza explorăm zona Fortezza, admirând orașul din mașină. Seara parcăm aproape de centru pentru o vizită scurtă la Dom și în piață.",
+            "en": "A rainy start at Lago di Monaciano where mist hangs low over the water. At noon, the Ludoteca in Siena provides perfect dry fun for the family. In the afternoon, explore the Fortezza area, admiring the views from the car. By evening, park near the center for a brief visit to the Cathedral and square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lago di Monaciano",
+                "hu": "Lago di Monaciano",
+                "ro": "Lago di Monaciano",
+                "en": "Lago di Monaciano"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege am See können schlammig sein; bleiben Sie auf dem Hauptweg und genießen Sie die mystische Atmosphäre vom Wagen aus.",
+                "hu": "A tó körüli földutak sárosak lehetnek; maradj a főúton, és élvezd a táj misztikus, párás hangulatát inkább az autó biztonságából.",
+                "ro": "Drumurile neasfaltate de lângă lac pot fi noroioase; rămâneți pe drumul principal și admirați atmosfera mistică din confortul mașinii.",
+                "en": "The unpaved roads near the lake can get muddy; stick to the main road and enjoy the mystical, misty atmosphere from the safety of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinderhaus Ludoteca Siena",
+                "hu": "Gyermekház Ludoteca Siena",
+                "ro": "Casa Copiilor Ludoteca Siena",
+                "en": "Children's House Ludoteca Siena"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um die Kinder bei Regen auszutoben; parken Sie direkt davor, damit niemand auf dem kurzen Weg nass wird.",
+                "hu": "Ez a legjobb hely, hogy a gyerekek levezessék az energiájukat esőben; parkolj közvetlenül az épület előtt, hogy senki ne ázzon meg a bejáratig.",
+                "ro": "Acesta este cel mai bun loc pentru ca micuții să își consume energia pe ploaie; parcați chiar în față pentru a nu vă uda până la intrare.",
+                "en": "This is the best place for kids to burn off energy during a downpour; park directly in front so nobody gets wet on the short walk to the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Medicea",
+                "hu": "Fortezza Medicea",
+                "ro": "Fortăreața Medicea",
+                "en": "Fortezza Medicea"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz an der Fortezza; bei Regen können Sie die mächtigen Mauern bei einer kurzen Runde zu Fuß mit Schirm erkunden.",
+                "hu": "Használd ki a Fortezza melletti nagy parkolót; esőben egy rövid, esernyős sétával is felfedezheted a hatalmas falakat a bejárat közelében.",
+                "ro": "Profitați de parcarea mare de lângă Fortezza; pe ploaie, puteți explora zidurile masive cu o scurtă plimbare cu umbrela lângă parcare.",
+                "en": "Take advantage of the large parking lot near the Fortezza; even in the rain, you can explore the massive walls with a short umbrella walk nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Siena",
+                "hu": "Sziénai dóm",
+                "ro": "Domul din Siena",
+                "en": "Siena Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Parkhaus 'Il Campo' für einen trockenen Zugang zur Altstadt; im Dom sind Sie sicher vor jedem Wolkenbruch und können Kunst genießen.",
+                "hu": "Parkolj az 'Il Campo' parkolóházban a városközpont száraz megközelítéséhez; a dómban védve leszel a felhőszakadástól, miközben a művészetet élvezed.",
+                "ro": "Parcați în garajul 'Il Campo' pentru un acces uscat spre centrul vechi; în Dom veți fi feriți de orice aversă în timp ce admirați arta.",
+                "en": "Park in the 'Il Campo' garage for a dry approach to the old town; inside the Cathedral, you'll be safe from any cloudburst while enjoying the art."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza del Campo",
+                "hu": "Piazza del Campo",
+                "ro": "Piazza del Campo",
+                "en": "Piazza del Campo"
+              },
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zur Piazza führt teils unter Arkaden; genießen Sie den Anblick des nassen Pflasters, bevor Sie schnell ins Auto zurückkehren.",
+                "hu": "A parkolóból a térre vezető út részben árkádok alatt halad; csodáld meg a vizes kövek látványát, mielőtt gyorsan visszatérnél a fűtött autóba.",
+                "ro": "Drumul de la parcare spre piață este parțial pe sub arcade; admirați pavajul ud înainte de a vă întoarce rapid la confortul mașinii.",
+                "en": "The path from the parking to the square is partly under arcades; admire the wet stones before returning quickly to the comfort of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Morgen am Lago di Monaciano mit glitzernden Feldern in der Umgebung. Mittags ist die warme Ludoteca ein Segen für die ganze Familie. Nachmittags genießen wir die tiefstehende Sonne an der Fortezza. Abends erleben wir das festliche Siena und kehren dann in den beheizten Wagen zurück.",
+            "hu": "Zúzmarás reggel a Lago di Monaciano partján, csillogó szántókkal a környéken. Délben a meleg Ludoteca igazi áldás az egész család számára. Délután a Fortezza falairól csodáljuk az alacsonyan járó téli napot. Este felfedezzük a díszkivilágításban úszó Sienát, majd visszatérünk a fűtött autóba.",
+            "ro": "Dimineață geroasă la Lago di Monaciano, cu câmpuri sclipitoare în jur. La prânz, Ludoteca caldă este o binecuvântare pentru întreaga familie. După-amiaza admirăm soarele slab de pe zidurile Fortezza. Seara explorăm Siena luminată festiv, apoi ne întoarcem în mașina încălzită.",
+            "en": "A frosty morning at Lago di Monaciano with glistening fields all around. At noon, the warm Ludoteca is a blessing for the whole family. In the afternoon, admire the low winter sun from the Fortezza walls. By evening, explore festively lit Siena before returning to your heated car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lago di Monaciano",
+                "hu": "Lago di Monaciano",
+                "ro": "Lago di Monaciano",
+                "en": "Lago di Monaciano"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Landschaft bietet tolle Fotomotive; achten Sie auf glatte Stellen auf den Zufahrtswegen und lassen Sie die Heizung im Auto laufen.",
+                "hu": "A fagyos táj fantasztikus fotótémákat kínál; vigyázz a jeges szakaszokra a bekötőutakon, és tartsd melegen az autót a rövid megállók alatt.",
+                "ro": "Peisajul înghețat oferă oportunități foto superbe; atenție la porțiunile cu polei pe drumurile de acces și păstrați mașina caldă în timpul opririi.",
+                "en": "The frozen landscape offers great photo opportunities; watch out for icy patches on the access roads and keep the car warm during short stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinderhaus Ludoteca Siena",
+                "hu": "Gyermekház Ludoteca Siena",
+                "ro": "Casa Copiilor Ludoteca Siena",
+                "en": "Children's House Ludoteca Siena"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kinder in einer warmen Umgebung spielen zu lassen, während es draußen winterlich kalt ist; Parkplätze sind im Winter meist frei.",
+                "hu": "Ideális hely, hogy a gyerekek meleg környezetben játszhassanak, miközben kint téliesen hideg az idő; a parkolóhelyek ilyenkor könnyen elérhetőek.",
+                "ro": "Un loc ideal pentru ca copiii să se joace într-un mediu cald cât timp afară este ger; locurile de parcare sunt de obicei libere în timpul iernii.",
+                "en": "An ideal spot for kids to play in a warm environment while it's winter cold outside; parking spaces are usually readily available this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Medicea",
+                "hu": "Fortezza Medicea",
+                "ro": "Fortăreața Medicea",
+                "en": "Fortezza Medicea"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über Siena im klaren Winterlicht; der Weg vom Auto zur Aussicht ist kurz, was bei Kälte sehr angenehm ist.",
+                "hu": "Élvezd a tiszta téli fényeket és a panorámát Siena felett; az autótól a kilátópontig vezető út rövid, ami kifejezetten kellemes a nagy hidegben.",
+                "ro": "Bucurați-vă de lumina clară de iarnă și de panorama asupra Sienei; drumul de la mașină până la punctul de belvedere este scurt, perfect pe frig.",
+                "en": "Enjoy the clear winter lights and the panorama over Siena; the walk from the car to the viewpoint is short, which is very pleasant in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Dom von Siena",
+                "hu": "Sziénai dóm",
+                "ro": "Domul din Siena",
+                "en": "Siena Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das warme Innere für eine ausgiebige Besichtigung; im Winter sind die Warteschlangen kurz, sodass Sie schnell vom Auto ins Warme kommen.",
+                "hu": "Használd ki a meleg belső teret egy alapos látogatásra; télen a sorok rövidek, így gyorsan bejuthatsz az autóból a fűtött épületbe.",
+                "ro": "Profitați de interiorul cald pentru o vizită detaliată; iarna cozile sunt scurte, așa că veți ajunge rapid de la mașină la adăpostul cald.",
+                "en": "Take advantage of the warm interior for a detailed visit; in winter, queues are short, so you'll get from the car to the warmth very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Piazza del Campo",
+                "hu": "Piazza del Campo",
+                "ro": "Piazza del Campo",
+                "en": "Piazza del Campo"
+              },
+              "tip_5lang": {
+                "de": "Die Piazza wirkt in der blauen Stunde nach Sonnenuntergang magisch; ein kurzer Spaziergang reicht, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A tér varázslatos látványt nyújt a naplemente utáni kék órában; egy rövid séta is elég, mielőtt újra felmelegednél a fűtött autóban.",
+                "ro": "Piața arată magic în ora albastră de după apus; o scurtă plimbare este suficientă înainte de a vă încălzi din nou în mașina primitoare.",
+                "en": "The square looks magical during the blue hour after sunset; a short walk is enough before warming up again in your inviting, heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

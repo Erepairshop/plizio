@@ -160,6 +160,196 @@
         "hu": "A reggel egy frissítő tengerparti sétával kezdődik a történelmi Volta des General mentén, amely a Penyal de s'Heura magaslataira vezet. A dél korolláris panorámát kínál a ses Planes kilátóban, majd visszatér a bájos teraszos domboldalakon. A délután lágyan ereszkedik a nyugati sziklák felé, lenyűgöző tengeri kilátást nyújtva a mirador des Rafalról. Az este tökéletesen zárul a Torre del Verger-nél, ahol a lemenő nap ragyogó színekre festi az ősi köveket.",
         "ro": "Dimineața începe cu o plimbare revigorantă pe coasta istorică Volta des General, ducând spre înălțimile uluitoare de la Penyal de s'Heura. Prânzul oferă recompense panoramice la observatorul ses Planes înainte de a traversa înapoi prin dealurile terasate. După-amiaza coboară blând spre stâncile vestice, oferind priveliști maritime uimitoare la mirador des Rafal. Seara se încheie perfect la Torre del Verger, unde soarele la apus pictează pietrele antice în culori strălucitoare.",
         "en": "Morning begins with a refreshing coastal walk along the historic Volta des General, leading to the breathtaking heights of Penyal de s'Heura. Midday offers panoramic rewards at the ses Planes observatory before transitioning back through the charming terraced hillsides. Afternoon descends gently toward the western cliffs, providing stunning maritime vistas from mirador des Rafal. Evening concludes perfectly at the iconic Torre del Verger, where the setting sun paints the ancient stones and endless sea in brilliant colors."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen auf der Volta des General mit nebligen Küstenausblicken und wasserfester Kleidung. Mittags navigieren Sie vorsichtig über die felsigen Pfade zum Observatorium. Nachmittags erkunden Sie die Aussichtspunkte Morera und Rafal mit Regenschutz. Beenden Sie den Tag am Torre del Verger, wo das stürmische Meer eine dramatische Atmosphäre schafft.",
+            "hu": "Kezdje a reggelt a Volta des General ködbe burkolózó parti ösvényén, vízálló cipőben. Délben óvatosan haladjon a sziklás részeken az obszervatórium felé. Délután fedezze fel a Morera és Rafal kilátókat, esőkabáttal felszerelkezve. Este a Torre del Verger várja, ahol a viharos tenger drámai és felejthetetlen hangulatot áraszt a sötétedés előtt.",
+            "ro": "Începeți dimineața pe Volta des General, admirând priveliștile de coastă învăluite în ceață. La prânz, navigați cu grijă pe cărările stâncoase spre observator. După-amiaza, explorați punctele de belvedere Morera și Rafal cu pelerina de ploaie pregătită. Încheiați la Torre del Verger, unde marea furtunoasă creează o atmosferă dramatică înainte de lăsarea serii.",
+            "en": "Start your morning walking the Volta des General, embracing the dramatic misty coastal views. By midday, navigate the rocky paths carefully towards the observatory. In the afternoon, explore the Morera and Rafal viewpoints, keeping rain gear handy. Conclude at Torre del Verger, where the stormy sea creates a spectacular, moody atmosphere before evening sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Volta des General",
+                "hu": "Volta des General",
+                "ro": "Volta des General",
+                "en": "Volta des General"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie auf diesem Küstenpfad im Nebel, aber tragen Sie feste, wasserdichte Schuhe, da die Wege schnell schlammig und rutschig werden.",
+                "hu": "Sétáljon ezen a parti ösvényen a ködben, de viseljen erős, vízálló bakancsot, mert a földutak hamar sárgossá és csúszóssá válhatnak.",
+                "ro": "Plimbați-vă pe acest traseu de coastă în ceață, dar purtați bocanci impermeabili, deoarece potecile de pământ devin alunecoase.",
+                "en": "Walk this coastal trail in the mist, but wear sturdy, waterproof boots as the dirt paths can quickly become muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Penyal de s'Heura",
+                "hu": "Penyal de s'Heura",
+                "ro": "Penyal de s'Heura",
+                "en": "Penyal de s'Heura"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markanten Felsformationen in den tiefen Wolken; bringen Sie eine gute Regenjacke mit, da es hier keinen Schutz gibt.",
+                "hu": "Csodálja meg az alacsony felhőkkel övezett sziklaképződményeket; hozzon megbízható esőkabátot, mivel itt egyáltalán nincs menedék.",
+                "ro": "Admirați formațiunile stâncoase înconjurate de nori joși; aduceți o pelerină de ploaie bună, deoarece nu există adăpost aici.",
+                "en": "Admire the striking rock formations surrounded by low clouds; bring a reliable rain jacket since there is zero shelter up here."
+              }
+            },
+            {
+              "name": {
+                "de": "observatori de ses Planes",
+                "hu": "observatori de ses Planes",
+                "ro": "observatori de ses Planes",
+                "en": "observatori de ses Planes"
+              },
+              "tip_5lang": {
+                "de": "Die Panoramablicke wirken im Regen besonders dramatisch; halten Sie sich von den Kanten fern, wenn der Stein nass und rutschig ist.",
+                "hu": "A panoráma drámai hangulatot áraszt az esőben; maradjon távol a peremektől, amikor a sziklák nedvesek és csúszósak.",
+                "ro": "Priveliștile panoramice capătă un ton dramatic în ploaie; stați departe de margini atunci când stânca este udă și alunecoasă.",
+                "en": "The panoramic views take on a moody, dramatic tone in the rain; stay away from the very edges when the stone is wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Collet d'en Morera",
+                "hu": "Collet d'en Morera",
+                "ro": "Collet d'en Morera",
+                "en": "Collet d'en Morera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die üppige, regengespeiste Vegetation an diesem Pass; ein Regenschirm ist bei Wind nutzlos, setzen Sie auf einen Poncho.",
+                "hu": "Élvezze a buja, eső áztatta növényzetet ezen a hágón; az esernyő a szélben haszontalan, bízzon inkább egy jó poncsóban.",
+                "ro": "Bucurați-vă de vegetația luxuriantă de pe această trecătoare; o umbrelă este inutilă în vânt, bazați-vă pe un poncho rezistent.",
+                "en": "Enjoy the lush, rain-fed vegetation along this mountain pass; an umbrella is useless in the wind, so rely on a good poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "mirador des Rafal",
+                "hu": "mirador des Rafal",
+                "ro": "mirador des Rafal",
+                "en": "mirador des Rafal"
+              },
+              "tip_5lang": {
+                "de": "Blicken Sie auf die im Regen glänzenden Terrassenhänge; treten Sie vorsichtig auf die Aussichtsplattform, da sie rutschig wird.",
+                "hu": "Tekintsen le az esőben csillogó teraszos hegyoldalakra; lépjen óvatosan a kilátóteraszon, mert a felülete nagyon síkossá válhat.",
+                "ro": "Priviți spre dealurile terasate strălucind în ploaie; pășiți cu grijă pe platforma de observare, deoarece suprafața devine alunecoasă.",
+                "en": "Look out over the terraced hillsides shining in the rain; step carefully on the viewing platform as the surface gets slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Verger",
+                "hu": "Torre del Verger",
+                "ro": "Torre del Verger",
+                "en": "Torre del Verger"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Kraft des stürmischen Mittelmeers an diesem Wachturm; seine dicken Mauern bieten kurzzeitig Schutz vor dem Wind.",
+                "hu": "Tapasztalja meg a viharos tenger félelmetes erejét az őrtoronynál; vastag falai rövid menedéket nyújtanak a zord szél elől.",
+                "ro": "Experimentați puterea mării furtunoase de la acest turn de veghe; zidurile sale groase oferă un scurt răgaz de la vântul puternic.",
+                "en": "Experience the awesome power of the stormy Mediterranean from this historic watchtower; its thick walls offer a brief reprieve from the wind."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den klaren Wintermorgen an der Volta des General mit weiten Blicken aufs Mittelmeer. Mittags genießen Sie eine Wanderung zum Observatorium in der sanften Wintersonne. Verbringen Sie den Nachmittag an den Aussichtspunkten Morera und Rafal. Beenden Sie die Tour früh am Torre del Verger, um den spektakulären Sonnenuntergang gegen 17:00 Uhr in warmen Schichten zu erleben.",
+            "hu": "Indítsa a csípős téli reggelt a Volta des General ösvényén, élvezve a kristálytiszta mediterrán kilátást. Délben a téli napsütésben túrázzon fel az obszervatóriumhoz. Délután fedezze fel a Morera és Rafal kilátókat, réteges meleg ruházatban. Érjen a Torre del Vergerhez még 17:00 előtt, hogy megcsodálja a lenyűgöző téli naplementét a tenger felett.",
+            "ro": "Începeți o dimineață răcoroasă de iarnă la Volta des General cu vederi clare spre Marea Mediterană. La prânz, bucurați-vă de o drumeție la soarele blând de iarnă spre observator. După-amiaza explorați punctele de belvedere Morera și Rafal. Terminați devreme la Torre del Verger pentru a prinde apusul spectaculos de iarnă în jur de 17:00, bine îmbrăcați.",
+            "en": "Kick off a crisp winter morning at Volta des General with clear, far-reaching Mediterranean views. Midday brings a pleasant hike up to the observatory in the gentle winter sun. Spend the afternoon taking in the sights at Morera and Rafal viewpoints. Finish early at Torre del Verger to catch the spectacular winter sunset around 17:00, bundled in warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Volta des General",
+                "hu": "Volta des General",
+                "ro": "Volta des General",
+                "en": "Volta des General"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie auf diesem Küstenpfad in der klaren Morgenluft; tragen Sie Schichten, da die Meeresbrise im Winter schneidend kalt sein kann.",
+                "hu": "Sétáljon ezen a parti ösvényen a csípős reggeli levegőn; öltözzön rétegesen, mert a tengeri szél metszően hideg lehet télen.",
+                "ro": "Plimbați-vă pe acest traseu de coastă în aerul proaspăt al dimineții; purtați straturi, deoarece briza mării poate fi tăioasă iarna.",
+                "en": "Walk this coastal trail in the crisp morning air to see Mallorca's rugged coastline; wear layers as the sea breeze can be biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Penyal de s'Heura",
+                "hu": "Penyal de s'Heura",
+                "ro": "Penyal de s'Heura",
+                "en": "Penyal de s'Heura"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Klippen unter der sanften Wintersonne; eine warme Mütze wird wegen des exponierten, windigen Geländes dringend empfohlen.",
+                "hu": "Fedezze fel ezeket a lenyűgöző sziklákat a lágy téli napsütésben; egy meleg sapka erősen ajánlott a kitett, szeles terep miatt.",
+                "ro": "Explorați aceste stânci sub soarele blând de iarnă; o căciulă călduroasă este foarte recomandată din cauza naturii expuse și vântoase.",
+                "en": "Explore these stunning cliffs under the soft winter sun; a warm hat is highly recommended due to the exposed, windy nature of the rock."
+              }
+            },
+            {
+              "name": {
+                "de": "observatori de ses Planes",
+                "hu": "observatori de ses Planes",
+                "ro": "observatori de ses Planes",
+                "en": "observatori de ses Planes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, ungetrübte Aussicht der Winteratmosphäre; machen Sie hier Pause für ein heißes Getränk aus der Thermoskanne.",
+                "hu": "Élvezze a téli atmoszféra nyújtotta tiszta, zavartalan kilátást; tartson itt egy rövid pihenőt egy forró italra a termoszából.",
+                "ro": "Bucurați-vă de priveliștile clare oferite de atmosfera de iarnă; faceți o pauză aici pentru o băutură caldă din termosul dumneavoastră.",
+                "en": "Take in the clear, unobstructed views afforded by the winter atmosphere; pause here for a warm drink from your thermos."
+              }
+            },
+            {
+              "name": {
+                "de": "Collet d'en Morera",
+                "hu": "Collet d'en Morera",
+                "ro": "Collet d'en Morera",
+                "en": "Collet d'en Morera"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie durch diesen malerischen Pass; bleiben Sie in Bewegung, um in den schattigen Bereichen Ihre Körperwärme zu erhalten.",
+                "hu": "Túrázzon ezen a festői hágón, ahol a tél kiemeli a kopár tájat; mozogjon folyamatosan, hogy megőrizze testhőjét az árnyékos részeken.",
+                "ro": "Faceți o drumeție prin această trecătoare pitorească; continuați să vă mișcați pentru a vă menține căldura corporală în zonele umbrite.",
+                "en": "Hike through this scenic pass where winter highlights the stark landscape; keep moving to maintain your body heat in the shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "mirador des Rafal",
+                "hu": "mirador des Rafal",
+                "ro": "mirador des Rafal",
+                "en": "mirador des Rafal"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die terrassierten Hügel im goldenen Nachmittagslicht; ein perfekter Fotospot, bevor es schnell kühl wird.",
+                "hu": "Csodálja meg a teraszos dombokat az aranyfényű, lapos délutáni napfényben; tökéletes fotóhelyszín, mielőtt a levegő gyorsan lehűl.",
+                "ro": "Admirați dealurile terasate scăldate în lumina aurie a după-amiezii; un loc perfect pentru fotografii înainte ca vremea să se răcească.",
+                "en": "See the terraced hills bathed in the golden, low-angle afternoon sunlight; a perfect photo spot before the day quickly cools down."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Verger",
+                "hu": "Torre del Verger",
+                "ro": "Torre del Verger",
+                "en": "Torre del Verger"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie am späten Nachmittag an, um den atemberaubenden Wintersonnenuntergang gegen 17:00 Uhr zu sehen; eine dicke Jacke ist Pflicht.",
+                "hu": "Érkezzen ide késő délután, hogy le ne maradjon a lélegzetelállító 17:00 órás téli naplementéről; vastag kabát mindenképp legyen önön.",
+                "ro": "Ajungeți aici după-amiaza târziu pentru apusul spectaculos de iarnă de la ora 17:00; asigurați-vă că aveți o jachetă groasă împotriva frigului.",
+                "en": "Arrive here by late afternoon to secure a spot for the breathtaking 17:00 winter sunset; ensure you have a thick jacket against the cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a reggelt kerékpározással a festői Volta des General ösvényen, gyorsan emelkedve a zord Penyal de s'Heura csúcs felé. A dél a ses Planes kilátóhoz vezet a lenyűgöző panorámáért, amit egy gyors ereszkedés követ a Torre del Verger felé. A délután kihívást jelent az állóképességnek a penyals des Boixar sziklaalakzatok melletti emelkedőn. Az este megjutalmazza erőfeszítéseit a fenséges Mola de Planícián, ahonnan a csendes ösvényekről belátni a sötétedő szigetet.",
         "ro": "Începeți dimineața pedalând pe traseul pitoresc Volta des General, câștigând altitudine rapid spre vârful accidentat Penyal de s'Heura. Prânzul vă aduce la observatorul ses Planes pentru priveliști vaste, urmat de o coborâre rapidă spre Torre del Verger. După-amiaza vă provoacă rezistența cu o plimbare la deal pe lângă formațiunile stâncoase penyals des Boixar. Seara vă răsplătește eforturile la maiestuoasa Mola de Planícia, oferind o perspectivă unică asupra peisajului insular.",
         "en": "Start your morning cycling along the scenic Volta des General path, gaining altitude quickly toward the rugged Penyal de s'Heura peak. Midday brings you to the ses Planes observatory for sweeping views, followed by a swift and exhilarating descent toward the 16th-century Torre del Verger. Afternoon challenges your stamina with an uphill ride past the imposing penyals des Boixar rock formations. Evening rewards your efforts at the majestic Mola de Planícia, where quiet trails overlook the darkening island landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Radtour an der Volta des General und achten Sie auf die rutschigen Wege. Mittags fahren Sie zum Observatorium, geschützt durch gute Regenkleidung. Nachmittags erfordert die Abfahrt am Torre del Verger auf nassem Asphalt perfekte Bremskontrolle. Beenden Sie die Tour auf dem felsigen Gelände von Planícia, bevor Sie abends Schutz suchen.",
+            "hu": "Kezdje az esős biciklizést a Volta des Generalnál, különös figyelmet fordítva a csúszós ösvényekre. Délben tekerjen az obszervatórium felé, bízva a jó esőruházatban a parti szitálás ellen. Délután a Torre del Verger környéki lejtőkön kiváló fékkezelésre lesz szükség a nedves aszfalton. Zárja a napot a Planícia sziklás terepén, majd keressen menedéket estére.",
+            "ro": "Începeți plimbarea ploioasă cu bicicleta la Volta des General, tratând traseele alunecoase cu respect. La prânz, pedalați spre observator, bazându-vă pe un echipament bun de ploaie. După-amiaza, coborârea pe lângă Torre del Verger necesită un control excelent al frânelor pe asfaltul umed. Încheiați pe terenul stâncos de la Planícia înainte de a vă adăposti.",
+            "en": "Kick off your rainy bike ride at Volta des General, treating the slippery trails with respect. Midday, push towards the observatory, relying on good rain gear to combat the coastal drizzle. In the afternoon, the descent past Torre del Verger demands excellent brake control on wet asphalt. End your demanding ride navigating the rocky terrain of Planícia before taking shelter for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Volta des General",
+                "hu": "Volta des General",
+                "ro": "Volta des General",
+                "en": "Volta des General"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie diese Küstenroute vorsichtig; die Mischung aus Schlamm und nassen Steinen erfordert Mountainbike-Reifen und geringes Tempo.",
+                "hu": "Óvatosan tekerjen ezen a parti úton; a sár és a nedves kövek hegyikerékpár-gumikat és csökkentett sebességet követelnek meg.",
+                "ro": "Pedalați cu prudență pe această rută de coastă; amestecul de noroi și pietre umede necesită anvelope de mountain bike.",
+                "en": "Cycle this coastal route cautiously; the mix of mud and wet stones requires mountain bike tires and reduced speed."
+              }
+            },
+            {
+              "name": {
+                "de": "Penyal de s'Heura",
+                "hu": "Penyal de s'Heura",
+                "ro": "Penyal de s'Heura",
+                "en": "Penyal de s'Heura"
+              },
+              "tip_5lang": {
+                "de": "Die hoch aufragenden Felsen wirken im Regen majestätisch, aber der Weg wird extrem schlammig; eine wasserdichte Radjacke ist Pflicht.",
+                "hu": "A magasodó sziklák fenségesek esőben, de a megközelítési út nagyon saras lesz; a vízálló kerékpáros kabát elengedhetetlen.",
+                "ro": "Stâncile impunătoare arată maiestuos în ploaie, dar traseul de apropiere devine extrem de noroios; o jachetă impermeabilă este esențială.",
+                "en": "The towering rocks look majestic in the rain, but the approach trail gets extremely muddy; a waterproof cycling jacket is essential."
+              }
+            },
+            {
+              "name": {
+                "de": "observatori de ses Planes",
+                "hu": "observatori de ses Planes",
+                "ro": "observatori de ses Planes",
+                "en": "observatori de ses Planes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das neblige Panorama von diesem Höhepunkt; lassen Sie die Fahrradlichter wegen der eingeschränkten Sicht eingeschaltet.",
+                "hu": "Élvezze a drámai, ködös panorámát erről a magaslatról; tartsa bekapcsolva a kerékpárlámpákat a jelentősen csökkent látási viszonyok miatt.",
+                "ro": "Bucurați-vă de panorama dramatică și cețoasă din acest punct înalt; țineți luminile bicicletei aprinse din cauza vizibilității reduse.",
+                "en": "Enjoy the dramatic, misty panorama from this high point; keep your bike lights on due to the significantly reduced visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Verger",
+                "hu": "Torre del Verger",
+                "ro": "Torre del Verger",
+                "en": "Torre del Verger"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die stürmischen Wellen zu bewundern; nasser Asphalt auf der Abfahrt erfordert frühes und sanftes Bremsen.",
+                "hu": "Rövid megálló a lent becsapódó viharos hullámok megcsodálására; a nedves aszfalt a lejtőn korai és finom fékezést követel meg.",
+                "ro": "O scurtă oprire pentru a admira valurile furtunoase; asfaltul umed de la coborâre înseamnă că trebuie să frânați devreme și ușor.",
+                "en": "A brief stop to admire the stormy waves crashing below; wet asphalt on the descent here means you must brake early and gently."
+              }
+            },
+            {
+              "name": {
+                "de": "penyals des Boixar",
+                "hu": "penyals des Boixar",
+                "ro": "penyals des Boixar",
+                "en": "penyals des Boixar"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie an diesen schroffen Felsen vorbei und achten Sie auf rutschige Baumwurzeln; Schutzbleche bewahren Sie vor Schlammspritzern.",
+                "hu": "Haladjon el ezen zord sziklák mellett, ügyelve az ösvényen lévő csúszós gyökerekre; a sárvédő megmenti a felverődő sártól.",
+                "ro": "Treceți de aceste stânci abrupte gestionând rădăcinile alunecoase; aripile de la bicicletă vă vor salva de stropii de noroi.",
+                "en": "Navigate past these rugged crags while managing slippery tree roots on the path; fenders on your bike will save you from mud spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Mola de Planícia",
+                "hu": "Mola de Planícia",
+                "ro": "Mola de Planícia",
+                "en": "Mola de Planícia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre harte Regentour auf diesem Plateau; steigen Sie ab, wenn die felsigen Abschnitte im strömenden Regen zu gefährlich werden.",
+                "hu": "Fejezze be kemény esős túráját ezen a széles fennsíkon; szálljon le a nyeregből, ha a sziklás részek túl veszélyessé válnak.",
+                "ro": "Încheiați cursa dificilă pe acest platou larg; descălecați dacă secțiunile stâncoase devin prea periculoase în ploaia torențială.",
+                "en": "Finish your tough rainy ride at this broad plateau; dismount if the rocky sections become too hazardous in the pouring rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihr winterliches Radabenteuer an der Volta des General in winddichten, warmen Schichten. Mittags wärmt Sie der steile Anstieg zum Observatorium unter der Wintersonne. Verbringen Sie den Nachmittag bei der Fahrt vorbei am Torre del Verger. Beenden Sie die Tour vor 17:00 Uhr an der Mola de Planícia, um die Dunkelheit und Kälte zu meiden.",
+            "hu": "Indítsa téli kerékpáros kalandját a Volta des Generalnál, szélálló és meleg rétegekben. Délben egy dinamikus kaptató vár az obszervatóriumhoz, ami melegen tartja a téli napfényben. Délután guruljon el a Torre del Verger és a Boixar sziklák mellett. Fejezze be a túrát a Mola de Planíciánál 17:00 előtt, elkerülve a sötét utakat és a fagyos hideget.",
+            "ro": "Începeți aventura de iarnă cu bicicleta la Volta des General, purtând straturi calde și rezistente la vânt. La prânz, urcarea viguroasă spre observator vă va încălzi sub soarele de iarnă. După-amiaza pedalați pe lângă Torre del Verger. Încheiați la Mola de Planícia înainte de ora 17:00, evitând astfel temperaturile scăzute și drumurile întunecate.",
+            "en": "Start your winter cycling adventure at Volta des General, wearing warm, windproof layers. Midday brings a vigorous climb to the observatory, keeping you warm under the mild winter sun. Spend the afternoon coasting by Torre del Verger and the Boixar crags. Conclude at Mola de Planícia before 17:00, ensuring you avoid the plunging temperatures and dark roads of the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Volta des General",
+                "hu": "Volta des General",
+                "ro": "Volta des General",
+                "en": "Volta des General"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Winterbrise, aber tragen Sie warme Thermo-Handschuhe, um die Hände an den Bremsen reaktionsschnell zu halten.",
+                "hu": "Élvezze a csípős téli parti szelet, de viseljen zárt termokesztyűt, hogy kezei megfelelően tudják kezelni a fékeket.",
+                "ro": "Bucurați-vă de briza de iarnă, dar purtați mănuși termice cu degete complete pentru a vă păstra mâinile receptive pe frâne.",
+                "en": "Enjoy the crisp winter coastal breeze, but wear full-finger thermal gloves to keep your hands responsive on the brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Penyal de s'Heura",
+                "hu": "Penyal de s'Heura",
+                "ro": "Penyal de s'Heura",
+                "en": "Penyal de s'Heura"
+              },
+              "tip_5lang": {
+                "de": "Der intensive Anstieg zu diesen Klippen wärmt Sie schnell auf; tragen Sie Schichten, die Sie zur Belüftung leicht öffnen können.",
+                "hu": "Az intenzív mászás ezekhez a sziklákhoz gyorsan bemelegíti; használjon könnyen kicipzározható rétegeket a felesleges hő leadásához.",
+                "ro": "Urcarea intensă spre aceste stânci vă va încălzi rapid; folosiți straturi ușor de descheiat pentru a elibera excesul de căldură.",
+                "en": "The intense climb to these cliffs will quickly warm you up; use layers that are easy to unzip to vent excess heat."
+              }
+            },
+            {
+              "name": {
+                "de": "observatori de ses Planes",
+                "hu": "observatori de ses Planes",
+                "ro": "observatori de ses Planes",
+                "en": "observatori de ses Planes"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause zum Auftanken; selbst in den kälteren Wintermonaten verbraucht das Radfahren auf dieser Höhe schnell Energie.",
+                "hu": "Tartson szünetet a feltöltődésre és hidratálásra; még a hidegebb téli hónapokban is gyorsan fogy az energia ezen a magasságon.",
+                "ro": "Faceți o pauză pentru a vă reface energia și hidrata; chiar și în lunile reci, pedalarea la această altitudine consumă rapid energia.",
+                "en": "Take a break to refuel and hydrate; even in the colder winter months, cycling to this elevation depletes your energy fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Verger",
+                "hu": "Torre del Verger",
+                "ro": "Torre del Verger",
+                "en": "Torre del Verger"
+              },
+              "tip_5lang": {
+                "de": "Das Wintersonnenlicht beleuchtet diesen historischen Turm wunderschön; achten Sie auf eisige Stellen in schattigen Kurven.",
+                "hu": "A téli napfény gyönyörűen megvilágítja a történelmi tornyot; vigyázzon az árnyékos kanyarokban esetlegesen előforduló jeges foltokra.",
+                "ro": "Lumina soarelui de iarnă iluminează frumos acest turn; atenție la peticele de gheață din curbele umbrite pe măsură ce vă apropiați.",
+                "en": "The winter sunlight beautifully illuminates this historic tower; watch out for icy patches on shaded curves as you approach."
+              }
+            },
+            {
+              "name": {
+                "de": "penyals des Boixar",
+                "hu": "penyals des Boixar",
+                "ro": "penyals des Boixar",
+                "en": "penyals des Boixar"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie an diesen imposanten Felsformationen vorbei; Thermo-Überschuhe werden dringend empfohlen, um Ihre Füße zu schützen.",
+                "hu": "Tekerjen el az impozáns sziklaképződmények mellett; termikus kamásli erősen ajánlott, hogy megvédje lábát a metsző széltől.",
+                "ro": "Pedalați pe lângă aceste formațiuni stâncoase; husele termice pentru pantofi sunt recomandate pentru a vă proteja picioarele de vânt.",
+                "en": "Cycle past these imposing rock formations; thermal shoe covers are highly recommended to protect your feet from the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mola de Planícia",
+                "hu": "Mola de Planícia",
+                "ro": "Mola de Planícia",
+                "en": "Mola de Planícia"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Plateau vor dem Sonnenuntergang um 17:00 Uhr; bringen Sie einen starken Scheinwerfer für die dunkle Abfahrt mit.",
+                "hu": "Érje el a végső fennsíkot a 17:00-es sötétedés előtt; hozzon erős fényszórót a sötét ereszkedéshez, ha esetleg későn végezne.",
+                "ro": "Ajungeți pe platoul final înainte de apusul de la 17:00; aduceți un far puternic pentru coborârea întunecată dacă întârziați.",
+                "en": "Reach the final plateau before the 17:00 sunset; bring a strong headlight for the dark descent if you get caught out late."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "A reggeli autózás mélyen a Finca Pública de Planícia területére visz, ahol a nyugodt vidéki tájak tökéletes kezdést biztosítanak a Mola de Planícia felé. A déli vezetés a kanyargós hegyi utakon a penyals des Boixar és a tengerparti Torre del Verger felé halad. A délutáni utazás visszahoz a város felé, felfedezve a Collet d'en Morera körüli gyönyörű teraszos völgyeket. Az este egy lélegzetelállító parti körúttal zárul, a horizontot figyelve az observatori de ses Planes-ből.",
         "ro": "Condusul de dimineață vă duce adânc în Finca Pública de Planícia, unde peisajele rurale senine oferă un început perfect înainte de a merge spre Mola de Planícia. La prânz navigați pe drumurile montane curbate spre penyals des Boixar și istoricul Torre del Verger de pe coastă. Croaziera de după-amiază vă aduce înapoi spre oraș, explorând văile terasate din jurul Collet d'en Morera. Seara se termină cu un circuit de coastă uluitor la observatori de ses Planes.",
         "en": "Your morning drive takes you deep into the Finca Pública de Planícia, where serene rural landscapes provide a perfect start before heading to the towering Mola de Planícia. Midday driving navigates the curving mountain roads to the majestic penyals des Boixar and the historic Torre del Verger right on the coastline. Afternoon cruising brings you back toward town, exploring the beautiful terraced valleys around Collet d'en Morera. Evening finishes with a breathtaking coastal circuit, watching the horizon from observatori de ses Planes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt an der Finca Pública de Planícia, wo der Nebel über das Anwesen zieht. Mittags navigieren Sie auf den kurvigen Bergstraßen zu den Boixar-Felsen, mit äußerster Vorsicht in nassen Haarnadelkurven. Nachmittags betrachten Sie die dramatische Küste vom Collet d'en Morera aus dem warmen Auto. Abends durchschneiden Ihre Scheinwerfer den Nebel nahe dem Observatorium.",
+            "hu": "Kezdje esős autózását a Finca Pública de Planíciánál, ahol a birtokon átgördülő köd varázslatos. Délben navigáljon a kanyargós hegyi utakon a Boixar sziklák és a Torre del Verger felé, különös óvatossággal a nedves hajtűkanyarokban. Délután az autó melegéből csodálja meg a drámai partvidéket a Collet d'en Morera kilátópontról. Este fényszórókkal vágjon át a ködön az obszervatórium felé.",
+            "ro": "Începeți plimbarea cu mașina la Finca Pública de Planícia, unde ceața care se rostogolește peste moșie este magică. La prânz, navigați pe drumurile de munte spre stâncile Boixar, având mare grijă în curbele umede. După-amiaza, admirați coasta dramatică de la Collet d'en Morera din căldura mașinii. Seara se apropie în timp ce conduceți cu farurile străpungând ceața.",
+            "en": "Start your rainy drive at Finca Pública de Planícia, where the mist rolling over the estate feels magical. Midday, navigate the winding mountain roads towards the Boixar crags and Torre del Verger, taking extreme care on wet hairpins. In the afternoon, view the dramatic coastline from Collet d'en Morera from the warmth of your car. Evening approaches as you carefully drive near observatori de ses Planes, with headlights piercing the fog."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Finca Pública de Planícia",
+                "hu": "Finca Pública de Planícia",
+                "ro": "Finca Pública de Planícia",
+                "en": "Finca Pública de Planícia"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Anwesen mit einem Regenschirm; die alten Olivenbäume wirken vor dem grauen, regnerischen Himmel spektakulär lebendig.",
+                "hu": "Fedezze fel a birtokot esernyővel; az ősi olajfák látványosan élénknek tűnnek a szürke, esős égbolt előtt.",
+                "ro": "Explorați domeniul cu o umbrelă; măslinii antici arată spectaculos de vii pe fundalul cerului gri și ploios.",
+                "en": "Explore the estate grounds with an umbrella; the ancient olive trees look spectacularly vivid against the grey, rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Mola de Planícia",
+                "hu": "Mola de Planícia",
+                "ro": "Mola de Planícia",
+                "en": "Mola de Planícia"
+              },
+              "tip_5lang": {
+                "de": "Die Panoramablicke können durch tiefe Wolken verdeckt sein; parken Sie sicher abseits von weichem Schlamm und genießen Sie die Stimmung von drinnen.",
+                "hu": "A panorámát eltakarhatják az alacsony felhők; parkoljon biztonságban a puha sártól távol, és élvezze a drámai hangulatot belülről.",
+                "ro": "Priveliștile panoramice pot fi ascunse de nori; parcați în siguranță, departe de noroiul moale și bucurați-vă de atmosferă din interior.",
+                "en": "The panoramic views may be obscured by low clouds; park safely away from soft mud and enjoy the moody atmosphere from inside."
+              }
+            },
+            {
+              "name": {
+                "de": "penyals des Boixar",
+                "hu": "penyals des Boixar",
+                "ro": "penyals des Boixar",
+                "en": "penyals des Boixar"
+              },
+              "tip_5lang": {
+                "de": "Starker Regen verwandelt die Schluchten in temporäre Wasserfälle; fahren Sie sehr langsam, da bei Stürmen manchmal Steine auf die Straße fallen.",
+                "hu": "A heves esőzés a közeli szakadékokat ideiglenes vízesésekké változtatja; vezessen nagyon lassan, mert viharok idején kövek hullhatnak az útra.",
+                "ro": "Ploaia abundentă transformă râpele în cascade temporare; conduceți foarte încet, deoarece uneori cad pietre pe drum în timpul furtunilor.",
+                "en": "Heavy rain turns the nearby ravines into temporary waterfalls; drive very slowly as rocks sometimes fall onto the road during storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Verger",
+                "hu": "Torre del Verger",
+                "ro": "Torre del Verger",
+                "en": "Torre del Verger"
+              },
+              "tip_5lang": {
+                "de": "Sprinten Sie vom geparkten Auto zu diesem stabilen Wachturm; sein Inneres bietet einen hervorragenden trockenen Unterschlupf.",
+                "hu": "Szaladjon át a parkolóból a masszív őrtoronyba; a belseje kiváló száraz menedéket nyújt a dühöngő tenger megfigyeléséhez.",
+                "ro": "Fugiți de la mașina parcată spre acest turn de veghe robust; interiorul său oferă un adăpost uscat excelent pentru a privi marea.",
+                "en": "Dash from your parked car to this sturdy watchtower; its interior provides an excellent dry shelter to watch the raging sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Collet d'en Morera",
+                "hu": "Collet d'en Morera",
+                "ro": "Collet d'en Morera",
+                "en": "Collet d'en Morera"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie die Fenster nur so weit herunter, um den frisch verregneten Kiefernwald zu riechen, ohne dass das Auto nass wird.",
+                "hu": "Csak annyira húzza le az ablakokat, hogy érezze a friss, eső áztatta fenyőerdő illatát, anélkül, hogy az autó belseje elázna.",
+                "ro": "Coborâți geamurile doar cât să simțiți mirosul pădurii de pini proaspăt plouată, fără a uda complet interiorul mașinii.",
+                "en": "Roll down your windows just enough to smell the fresh, rain-soaked pine forest without getting the car interior completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Volta des General",
+                "hu": "Volta des General",
+                "ro": "Volta des General",
+                "en": "Volta des General"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die raue Küste zu sehen; Regenkleidung ist unerlässlich, da es hier absolut keine überdachten Einrichtungen gibt.",
+                "hu": "Rövid megálló a zord partvidék megtekintéséhez; az esőruha elengedhetetlen, mivel ezen a kilátóponton egyáltalán nincs fedett létesítmény.",
+                "ro": "O scurtă oprire pentru a vedea coasta accidentată; echipamentul de ploaie este vital, deoarece nu există facilități acoperite aici.",
+                "en": "A brief stop to view the rugged coast; rain gear is vital as there are absolutely no covered facilities or shelters at this viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Penyal de s'Heura",
+                "hu": "Penyal de s'Heura",
+                "ro": "Penyal de s'Heura",
+                "en": "Penyal de s'Heura"
+              },
+              "tip_5lang": {
+                "de": "Die hoch aufragenden Klippen sind bei stürmischem Wetter imposant; achten Sie auf gutes Reifenprofil, da sich tiefe Pfützen bilden.",
+                "hu": "A magasodó sziklák viharos időben impozánsak; győződjön meg róla, hogy a gumik futófelülete jó, mert a bekötőutakon mély tócsák gyűlnek össze.",
+                "ro": "Stâncile impunătoare sunt impresionante pe vreme furtunoasă; asigurați-vă că anvelopele au un profil bun, deoarece se adună bălți adânci.",
+                "en": "The towering cliffs are imposing in stormy weather; ensure your tires have good tread, as the local access roads gather deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "observatori de ses Planes",
+                "hu": "observatori de ses Planes",
+                "ro": "observatori de ses Planes",
+                "en": "observatori de ses Planes"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt hier oben; lassen Sie die Nebelscheinwerfer an, und wenn die Sicht fast null ist, genießen Sie ein heißes Getränk im Auto.",
+                "hu": "Fejezze be az autózást itt fenn; tartsa bekapcsolva a ködlámpát, és ha a látótávolság nulla, élvezze a forró italt a fűtött autóban a túrázás helyett.",
+                "ro": "Încheiați călătoria aici; țineți farurile de ceață aprinse și, dacă vizibilitatea este aproape zero, bucurați-vă de o băutură caldă în mașină.",
+                "en": "Finish the drive up here; keep your fog lights on, and if visibility is near zero, enjoy a hot drink in your heated car instead of hiking out."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre klare Winterfahrt an der Finca Pública de Planícia und genießen Sie die Ruhe ohne Sommermassen. Mittags fahren Sie durch die atemberaubende Serra de Tramuntana zum Torre del Verger, während die Autoheizung wärmt. Bestaunen Sie nachmittags die Küstenklippen um den Penyal de s'Heura. Erreichen Sie das Observatorium vor 17:00 Uhr, bevor die Straßen völlig dunkel und eisig werden.",
+            "hu": "Induljon egy tiszta téli autózásra a Finca Pública de Planíciánál, élvezve a friss levegőt és a tömeg hiányát. Délben vezessen át a lenyűgöző Serra de Tramuntanán a Torre del Verger felé, miközben az autó fűtése melegen tartja. Délután csodálja meg a parti sziklákat a Penyal de s'Heura körül. Érjen az obszervatóriumhoz 17:00 előtt, hogy elkerülje a sötét, esetleg jeges utakat a naplemente után.",
+            "ro": "Porniți la o plimbare clară de iarnă la Finca Pública de Planícia, bucurându-vă de aerul proaspăt. La prânz, conduceți prin uimitoarea Serra de Tramuntana spre Torre del Verger, menținând căldura în mașină. Petreceți după-amiaza admirând stâncile din jurul Penyal de s'Heura. Ajungeți la observator înainte de ora 17:00 pentru a asista la un apus spectaculos înainte să se întunece complet.",
+            "en": "Embark on a clear winter drive starting at Finca Pública de Planícia, enjoying the crisp air and lack of summer crowds. Midday, drive through the stunning Serra de Tramuntana towards Torre del Verger, keeping the car heater cozy. Spend the afternoon marveling at the coastal cliffs around Penyal de s'Heura. Plan to reach the observatory before 17:00 to watch a spectacular sunset, as the roads get completely dark and icy later."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Finca Pública de Planícia",
+                "hu": "Finca Pública de Planícia",
+                "ro": "Finca Pública de Planícia",
+                "en": "Finca Pública de Planícia"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie in der ruhigen Winteratmosphäre über das Gelände; ziehen Sie sich warm an, da die dicken Steingebäude die Kälte halten.",
+                "hu": "Sétáljon a gyönyörű birtokon a csendes téli hangulatban; öltözzön melegen, mert a vastag kőépületek és az árnyékos részek tartják a hideget.",
+                "ro": "Plimbați-vă pe domeniul frumos în atmosfera liniștită de iarnă; îmbrăcați-vă călduros, deoarece clădirile din piatră groasă mențin frigul.",
+                "en": "Walk the beautiful grounds in the quiet winter atmosphere; dress warmly as the thick stone buildings and shaded areas hold the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mola de Planícia",
+                "hu": "Mola de Planícia",
+                "ro": "Mola de Planícia",
+                "en": "Mola de Planícia"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hinauf, um die spektakuläre Winterfernsicht zu genießen; eine Sonnenbrille ist wegen der tiefstehenden, blendenden Sonne Pflicht.",
+                "hu": "Vezessen fel a lenyűgöző, zavartalan téli látási viszonyokért; napszemüveg kötelező az alacsonyan járó, vakító napfény ellen.",
+                "ro": "Conduceți pentru a vă bucura de vizibilitatea spectaculoasă de iarnă; ochelarii de soare sunt obligatorii pentru a combate strălucirea soarelui.",
+                "en": "Drive up to enjoy the spectacular, unobstructed winter visibility; sunglasses are a must to combat the low, blinding sun glare."
+              }
+            },
+            {
+              "name": {
+                "de": "penyals des Boixar",
+                "hu": "penyals des Boixar",
+                "ro": "penyals des Boixar",
+                "en": "penyals des Boixar"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher an, um die dramatischen Klippen zu bewundern; in völlig schattigen Kurven kann sich gelegentlich Blitzeis bilden.",
+                "hu": "Húzódjon le biztonságosan, hogy megcsodálja a drámai sziklákat; az útfelületen az árnyékos kanyarokban esetenként fekete jég is kialakulhat.",
+                "ro": "Trageți pe dreapta pentru a admira stâncile dramatice; pe suprafața drumului se poate forma uneori gheață neagră în curbele complet umbrite.",
+                "en": "Pull over safely to admire the stark, dramatic cliffs; the road surface can occasionally develop black ice in completely shaded bends."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre del Verger",
+                "hu": "Torre del Verger",
+                "ro": "Torre del Verger",
+                "en": "Torre del Verger"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Mittagsstopp, wenn die Wintersonne am wärmsten ist; treten Sie in den Turm, um der ständigen, kühlen Küstenbrise zu entkommen.",
+                "hu": "Tökéletes déli megálló, amikor a téli nap a legmelegebb; lépjen be a toronyba, hogy elmeneküljön a folyamatos, hűsítő parti szél elől.",
+                "ro": "O oprire perfectă la prânz când soarele de iarnă este cel mai cald; intrați în turn pentru a scăpa de briza constantă și rece a coastei.",
+                "en": "A perfect midday stop when the winter sun is warmest; step inside the tower to escape the constant, chilling coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Collet d'en Morera",
+                "hu": "Collet d'en Morera",
+                "ro": "Collet d'en Morera",
+                "en": "Collet d'en Morera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch diesen Bergpass; lassen Sie die Autoheizung laufen, da die Temperaturen mit zunehmender Höhe stark fallen.",
+                "hu": "Élvezze a festői autózást ezen a hegyi hágón; tartsa bekapcsolva az autó fűtését, mert a hőmérséklet a magasság növekedésével meredeken esik.",
+                "ro": "Bucurați-vă de condusul pitoresc prin această trecătoare montană; mențineți căldura pornită, deoarece temperaturile scad odată cu altitudinea.",
+                "en": "Enjoy the scenic drive through this mountain pass; keep your car heater running as temperatures drop sharply as you gain elevation."
+              }
+            },
+            {
+              "name": {
+                "de": "Volta des General",
+                "hu": "Volta des General",
+                "ro": "Volta des General",
+                "en": "Volta des General"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz aus, um die winterliche Küste zu fotografieren; stellen Sie sicher, dass Sie eine dicke Windjacke haben, bevor Sie das Auto verlassen.",
+                "hu": "Szálljon ki röviden lefotózni a drámai téli partvidéket; győződjön meg róla, hogy van önön egy vastag széldzseki, mielőtt elhagyja az autót.",
+                "ro": "Ieșiți scurt pentru a fotografia coasta dramatică de iarnă; asigurați-vă că aveți o jachetă groasă de vânt înainte de a părăsi mașina.",
+                "en": "Step out briefly to photograph the dramatic winter coastline; ensure you have a thick windbreaker before leaving the comfort of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Penyal de s'Heura",
+                "hu": "Penyal de s'Heura",
+                "ro": "Penyal de s'Heura",
+                "en": "Penyal de s'Heura"
+              },
+              "tip_5lang": {
+                "de": "Das Nachmittagslicht taucht diese Felsen in eine goldene Farbe; beachten Sie, dass die Winterschatten schnell länger werden und die Sicht verringern.",
+                "hu": "A délutáni fény gyönyörű arany színűre festi ezeket a sziklákat; vegye figyelembe, hogy a téli árnyékok gyorsan megnyúlnak, csökkentve a látótávolságot.",
+                "ro": "Lumina după-amiezii transformă aceste stânci într-o culoare aurie; rețineți că umbrele de iarnă se lungesc rapid, reducând vizibilitatea.",
+                "en": "The afternoon light turns these rocks a beautiful golden color; be aware that winter shadows lengthen quickly, reducing visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "observatori de ses Planes",
+                "hu": "observatori de ses Planes",
+                "ro": "observatori de ses Planes",
+                "en": "observatori de ses Planes"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie hierher, um den Sonnenuntergang um 17:00 Uhr zu sehen; fahren Sie danach sofort bergab, da die kurvigen Straßen nachts unbeleuchtet sind.",
+                "hu": "Érkezzen ide a lélegzetelállító 17:00-es naplementére; utána azonnal induljon le a hegyről, mert a kanyargós utak kivilágítatlanok és veszélyesek éjjel.",
+                "ro": "Ajungeți aici pentru a privi apusul uluitor de la 17:00; coborâți muntele imediat după, deoarece drumurile curbe sunt neiluminate și periculoase noaptea.",
+                "en": "Arrive here to watch the breathtaking 17:00 sunset; head down the mountain immediately after, as the winding roads are unlit and dangerous at night."
+              }
+            }
+          ]
+        }
       }
     }
   }

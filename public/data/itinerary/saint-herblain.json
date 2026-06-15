@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Saint-Herblain történelmi központjának felfedezésével, majd sétáljon a kellemes helyi parkok felé. Délben a nyüzsgő Atlantis bevásárlóközpontba ér, ahol megebédelhet. A délutánt a modern Zénith megtekintésével zárja, amely a város kulturális életének kiemelkedő és modern központja.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Saint-Herblain înainte de a vă plimba spre parcurile locale pline de verdeață. La prânz ajungeți la centrul vibrant Atlantis pentru cumpărături și un prânz bine meritat. După-amiaza se încheie cu o plimbare spre modernul Zénith, un centru esențial al vieții culturale.",
         "en": "Start your morning exploring the historic heart of Saint-Herblain before strolling towards the vibrant local parks. Midday brings you to the expansive Atlantis center for shopping and a well-deserved lunch. The afternoon concludes with a walk to the modern Zénith, an impressive and iconic hub of the region's cultural life."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in der Saint-Hermeland Kirche. Der Weg durch den Cours Hermeland ist üppig grün, erfordert aber wasserfeste Schuhe für die nassen Pfade. Mittags bietet das Atlantis Einkaufszentrum den perfekten trockenen Zufluchtsort für eine Pause. Den Nachmittag verbringen Sie in der Nähe des Zénith, wo die moderne Architektur auch bei grauem Himmel beeindruckt.",
+            "hu": "Kezdje a napot a Saint-Hermeland templom fedett falai között. A Cours Hermeland menti séta esőben is gyönyörű, de vízálló cipőre szükség lesz a pocsolyák miatt. Délben az Atlantis bevásárlóközpont kínál tökéletes száraz menedéket a pihenéshez. A délutánt a Zénith modern épületénél zárja, amelynek különleges formái még borús időben is látványosak.",
+            "ro": "Începeți ziua la adăpost în biserica Saint-Hermeland. Plimbarea prin Cours Hermeland este luxuriantă pe ploaie, dar necesită încălțăminte impermeabilă pentru potecile umede. La prânz, centrul comercial Atlantis oferă refugiul uscat perfect pentru o pauză. Încheiați după-amiaza lângă Zénith, a cărui arhitectură modernă rămâne impresionantă chiar și sub cerul gri.",
+            "en": "Start your day sheltered within Saint-Hermeland Church. The walk through Cours Hermeland is lush in the rain, but waterproof shoes are a must for the damp paths. At noon, Atlantis Shopping Centre provides the perfect dry refuge for a break. Spend the afternoon near the Zénith, where the modern architecture remains striking even under gloomy skies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hermeland Church",
+                "hu": "Saint-Hermeland Church",
+                "ro": "Saint-Hermeland Church",
+                "en": "Saint-Hermeland Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ruhe im Inneren dieser historischen Kirche, während es draußen regnet; achten Sie beim Verlassen auf die glatten, nassen Stufen.",
+                "hu": "Csodálja meg a történelmi templom belső nyugalmát, miközben kint esik az eső; távozáskor ügyeljen a vizes és csúszós külső lépcsőfokokra.",
+                "ro": "Admirați liniștea din interiorul acestei biserici istorice în timp ce plouă afară; aveți grijă la treptele exterioare umede și alunecoase la ieșire.",
+                "en": "Admire the peaceful interior of this historic church while it rains outside; be careful of the slick, wet outer steps when you leave the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeu Jacqueline Auriol",
+                "hu": "Aire de jeu Jacqueline Auriol",
+                "ro": "Aire de jeu Jacqueline Auriol",
+                "en": "Aire de jeu Jacqueline Auriol"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der bunten Geräte im Regen; meiden Sie die Rutschen, da sie bei Nässe gefährlich schnell und rutschig werden.",
+                "hu": "Egy rövid megálló a színes játékok fotózására az esőben; kerülje a csúszdákat, mert vizesen veszélyesen felgyorsulhatnak és csúszóssá válnak.",
+                "ro": "O oprire scurtă pentru a fotografia echipamentele colorate în ploaie; evitați toboganele, deoarece devin periculos de rapide și alunecoase când sunt ude.",
+                "en": "A quick stop to photograph the colorful equipment in the rain; avoid the slides as they become dangerously fast and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cours Hermeland",
+                "hu": "Cours Hermeland",
+                "ro": "Cours Hermeland",
+                "en": "Cours Hermeland"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frischen Duft des nassen Grüns in diesem langen Park; bleiben Sie auf den asphaltierten Wegen, um tiefen Matsch zu vermeiden.",
+                "hu": "Élvezze a friss illatú, ázott növényzetet ebben a hosszú parkban; maradjon az aszfaltozott utakon, hogy elkerülje a mély sárban való elmerülést.",
+                "ro": "Bucurați-vă de mirosul proaspăt al vegetației umede în acest parc lung; rămâneți pe potecile asfaltate pentru a evita noroiul adânc de pe iarbă.",
+                "en": "Enjoy the fresh scent of the soaked greenery in this long park; stick to the paved paths to avoid sinking into deep mud on the grassy sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Atlantis Shopping Centre",
+                "hu": "Atlantis Shopping Centre",
+                "ro": "Atlantis Shopping Centre",
+                "en": "Atlantis Shopping Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses riesige Einkaufszentrum als idealen trockenen Stopp; verstauen Sie Ihren nassen Regenschirm am Eingang in einer Schutzhülle.",
+                "hu": "Használja ezt a hatalmas központot ideális száraz pihenőként; tegye a vizes esernyőjét a bejáratnál található védőhuzatba a kényelmes nézelődéshez.",
+                "ro": "Folosiți acest centru imens ca oprire ideală la uscat; puneți umbrela udă într-o husă la intrare pentru a explora magazinele în confort.",
+                "en": "Use this massive complex as the ultimate dry pitstop; place your wet umbrella in a cover at the entrance for comfortable indoor browsing."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Zénith Nantes Métropole",
+                "hu": "Le Zénith Nantes Métropole",
+                "ro": "Le Zénith Nantes Métropole",
+                "en": "Le Zénith Nantes Métropole"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die futuristische Fassade, die im Regen glänzt; suchen Sie Schutz unter dem breiten Vordach, während Sie auf den Bus warten.",
+                "hu": "Tekintse meg a futurisztikus homlokzatot, amely csillog az esőben; keressen menedéket a széles tető alatt, amíg a tömegközlekedésre vár.",
+                "ro": "Observați fațada futuristă care strălucește în ploaie; căutați adăpost sub streșina largă a clădirii în timp ce așteptați transportul.",
+                "en": "View the futuristic facade reflecting the rain; find shelter under the building's wide overhang while waiting for your return transport."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Saint-Hermeland Kirche. Ein kurzer Spaziergang hält Sie warm, bevor Sie den weitläufigen Cours Hermeland erreichen, der im Frost glitzert. Mittags bietet das Atlantis-Zentrum wohlige Wärme und eine Pause vom Wind. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen Sie das Zénith gerade rechtzeitig, um die Abendbeleuchtung zu sehen.",
+            "hu": "A téli reggel frissen indul a Saint-Hermeland templomnál. A gyors séta melegen tartja, mielőtt eléri a deres Cours Hermeland parkot. Délben az Atlantis központ kínál melengető pihenőt a szél elől. Mivel a nap már 17:00 körül lemegy, a Zénith-hez éppen időben érkezik, hogy megcsodálja az esti díszkivilágítást.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt la biserica Saint-Hermeland. O plimbare rapidă vă va ține cald înainte de a ajunge în parcul Cours Hermeland înghețat. La prânz, centrul Atlantis oferă căldură și o pauză de la vânt. Deoarece soarele apune pe la 17:00, veți ajunge la Zénith la timp pentru iluminatul de seară.",
+            "en": "The winter morning starts fresh at Saint-Hermeland Church. A brisk walk keeps you warm before reaching the frosty Cours Hermeland park. At noon, the Atlantis centre offers cozy warmth and a break from the wind. Since the sun sets early around 5 PM, you will reach the Zénith just in time to see the evening lights come on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hermeland Church",
+                "hu": "Saint-Hermeland Church",
+                "ro": "Saint-Hermeland Church",
+                "en": "Saint-Hermeland Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im Inneren, wo es oft wärmer ist als draußen; tragen Sie Handschuhe, da die alten Türklinken eiskalt sein können.",
+                "hu": "Élvezze a benti csendet, ahol gyakran melegebb van, mint kint; viseljen kesztyűt, mert a régi fém kilincsek jéghidegek lehetnek a fagyban.",
+                "ro": "Bucurați-vă de liniștea din interior, unde este adesea mai cald decât afară; purtați mănuși, deoarece clanțele vechi pot fi înghețate.",
+                "en": "Enjoy the quiet interior where it is often warmer than outside; wear gloves as the old metal door handles can be freezing to the touch."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeu Jacqueline Auriol",
+                "hu": "Aire de jeu Jacqueline Auriol",
+                "ro": "Aire de jeu Jacqueline Auriol",
+                "en": "Aire de jeu Jacqueline Auriol"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Aufenthalt, um die Kinder kurz toben zu lassen; prüfen Sie die Schaukeln auf Eisflächen, bevor die Kleinen sich setzen.",
+                "hu": "Rövid megálló, hogy a gyerekek kicsit mozogjanak a hidegben; ellenőrizze a hintákat, nincs-e rajtuk jégréteg, mielőtt a kicsik leülnének.",
+                "ro": "O oprire scurtă pentru ca cei mici să se miște în frig; verificați leagănele pentru gheață înainte ca aceștia să se așeze pe ele.",
+                "en": "A brief stop to let kids burn some energy in the cold; check the swings for thin layers of ice before letting them sit down."
+              }
+            },
+            {
+              "name": {
+                "de": "Cours Hermeland",
+                "hu": "Cours Hermeland",
+                "ro": "Cours Hermeland",
+                "en": "Cours Hermeland"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frostige Parklandschaft bei einem zügigen Marsch; achten Sie auf schattige Stellen, an denen Reif die Wege glatt machen kann.",
+                "hu": "Tapasztalja meg a deres park látványát egy tempós séta közben; ügyeljen az árnyékos részekre, ahol a zúzmara csúszóssá teheti az utat.",
+                "ro": "Experimentați peisajul înghețat al parcului în timpul unei plimbări rapide; atenție la zonele umbrite unde bruma poate face aleile alunecoase.",
+                "en": "Experience the frosty park landscape during a brisk walk; watch out for shaded areas where hoarfrost can make the paths surprisingly slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Atlantis Shopping Centre",
+                "hu": "Atlantis Shopping Centre",
+                "ro": "Atlantis Shopping Centre",
+                "en": "Atlantis Shopping Centre"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich bei einem heißen Getränk aufzuwärmen; nutzen Sie die Garderoben, damit Sie nicht in dicker Winterkleidung shoppen müssen.",
+                "hu": "Tökéletes hely felmelegedni egy forró ital mellett; használja a ruhatárat, hogy ne kelljen vastag télikabátban végigjárni az üzleteket.",
+                "ro": "Locul perfect pentru a vă încălzi cu o băutură fierbinte; folosiți garderoba pentru a nu face cumpărături îmbrăcat în haina groasă de iarnă.",
+                "en": "The perfect place to warm up with a hot drink; utilize the cloakrooms so you don't have to browse the shops in heavy winter layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Zénith Nantes Métropole",
+                "hu": "Le Zénith Nantes Métropole",
+                "ro": "Le Zénith Nantes Métropole",
+                "en": "Le Zénith Nantes Métropole"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das beleuchtete Gebäude in der frühen Dämmerung; halten Sie Schal und Mütze bereit, da es hier nach Sonnenuntergang zugig wird.",
+                "hu": "Csodálja meg a kivilágított épületet a korai sötétedésben; legyen kéznél a sál és sapka, mert naplemente után itt felerősödik a szél.",
+                "ro": "Admirați clădirea iluminată în amurgul timpuriu; țineți fularul și căciula la îndemână, deoarece vântul se intensifică după apus.",
+                "en": "Admire the illuminated building in the early dusk; keep your scarf and hat ready as the area becomes quite drafty after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a biciklis túrát a központi templomnál, és tekerjen át a csendes külvárosi zöldövezeteken. Délben tartson pihenőt az Atlantisban egy finom ebédre, mielőtt folytatná útját. A délutánt a festői parkok aktív felfedezésével tölti, amelynek igazán méltó fénypontja a csodálatos Château de la Gournerie.",
         "ro": "Începeți plimbarea la biserica centrală și pedalați pe drumurile verzi și pașnice din suburbii. La prânz, faceți o pauză binemeritată la Atlantis pentru o gustare înainte de a continua. Petreceți după-amiaza explorând parcurile pitorești, culminând turul la magnificul și istoricul Château de la Gournerie.",
         "en": "Kick off the bike ride at the central church and pedal through exceptionally tranquil suburban greenways. By midday, take a welcome break at Atlantis for refreshments before continuing your cycling tour. Spend the afternoon exploring the interconnected scenic parks, culminating gracefully at the grand Château de la Gournerie."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig von der Saint-Hermeland Kirche durch das grüne Cours Hermeland. Die Wege sind nass, aber die Bäume bieten etwas Schutz. Mittags ist das Atlantis-Zentrum der ideale Ort, um die Regenkleidung zu lüften. Nachmittags führen die Wege durch die Parks Bégraisière und Chézine zum Château de la Gournerie, das im Regen besonders mystisch wirkt.",
+            "hu": "Tekerjen óvatosan a Saint-Hermeland templomtól a zöldellő Cours Hermeland-on át. Az utak vizesek, de a fák némi védelmet nyújtanak. Délben az Atlantis központ ideális hely a vizes ruhák átszellőztetésére. Délután a Bégraisière és Chézine parkokon át vezet az út a Château de la Gournerie-hez, mely esőben különösen titokzatos.",
+            "ro": "Pedalați cu atenție de la biserica Saint-Hermeland prin verdele Cours Hermeland. Aleile sunt ude, dar copacii oferă protecție. La prânz, centrul Atlantis este locul ideal pentru a vă usca hainele. După-amiaza, drumul prin parcurile Bégraisière și Chézine duce la Château de la Gournerie, care pare mistic pe ploaie.",
+            "en": "Cycle carefully from Saint-Hermeland Church through the lush Cours Hermeland. The paths are wet, but the trees offer some shelter. At noon, the Atlantis centre is the ideal spot to air out your rain gear. In the afternoon, paths through Bégraisière and Chézine parks lead to Château de la Gournerie, which looks mystical in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hermeland Church",
+                "hu": "Saint-Hermeland Church",
+                "ro": "Saint-Hermeland Church",
+                "en": "Saint-Hermeland Church"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie unter dem Vordach; prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen von Saint-Herblain fahren.",
+                "hu": "Induljon az előtető alól; ellenőrizze a fékeket, mielőtt kimerészkedne Saint-Herblain vizes és néhol csúszós aszfaltjára.",
+                "ro": "Porniți de sub streașină; verificați frânele înainte de a ieși pe străzile ude și uneori alunecoase din Saint-Herblain.",
+                "en": "Start your ride from under the building's overhang; check your brakes before heading onto the wet streets of Saint-Herblain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cours Hermeland",
+                "hu": "Cours Hermeland",
+                "ro": "Cours Hermeland",
+                "en": "Cours Hermeland"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die Kurven im Park; nasses Laub auf dem Weg kann die Fahrt für Radfahrer sehr rutschig machen.",
+                "hu": "Haladjon lassan a park kanyarjaiban; az útra hullott vizes levelek rendkívül csúszóssá tehetik az utat a kerékpárosok számára.",
+                "ro": "Mergeți încet în curbele din parc; frunzele ude de pe potecă pot face drumul extrem de alunecos pentru bicicliști.",
+                "en": "Ride slowly through the park's curves; wet leaves on the path can make the surface extremely slippery for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Atlantis Shopping Centre",
+                "hu": "Atlantis Shopping Centre",
+                "ro": "Atlantis Shopping Centre",
+                "en": "Atlantis Shopping Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer; ein kurzer Stopp im Trockenen hilft Ihnen, sich für die Weiterfahrt zu sammeln.",
+                "hu": "Használja a fedett kerékpártárolókat; egy rövid száraz pihenő segít összeszedni magát a túra hátralévő, vizesebb szakaszára.",
+                "ro": "Utilizați rastelele acoperite pentru biciclete; o scurtă pauză la uscat vă va ajuta să vă reculegeți pentru restul traseului umed.",
+                "en": "Make use of the sheltered bike racks; a brief dry stop inside will help you regroup for the rest of your wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Bégraisière",
+                "hu": "Parc de la Bégraisière",
+                "ro": "Parc de la Bégraisière",
+                "en": "Parc de la Bégraisière"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege können matschig sein; bleiben Sie am Rand der Hauptwege, wo das Wasser besser abfließt und der Boden fester ist.",
+                "hu": "Az erdei utak sárosak lehetnek; maradjon a főútvonalak szélén, ahol a víz jobban lefolyik és a talaj szilárdabb marad.",
+                "ro": "Potecile din pădure pot fi noroioase; rămâneți la marginea drumurilor principale, unde apa se scurge mai bine și solul e mai ferm.",
+                "en": "Forest paths may be muddy; stay near the edges of main routes where water drains better and the ground remains firmer."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Val de Chézine",
+                "hu": "Parc du Val de Chézine",
+                "ro": "Parc du Val de Chézine",
+                "en": "Parc du Val de Chézine"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den Senken des Tals; tragen Sie Schutzbleche an Ihrem Fahrrad, um sich vor Spritzwasser zu schützen.",
+                "hu": "Ügyeljen a tócsákra a völgy mélyebb pontjain; használjon sárvédőt a kerékpárján, hogy megvédje magát a felverődő víztől.",
+                "ro": "Atenție la bălțile din zonele joase ale văii; folosiți apărători la bicicletă pentru a vă proteja de apa împroșcată.",
+                "en": "Watch out for large puddles in the lower parts of the valley; ensure your bike has fenders to protect you from splashes."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Gournerie",
+                "hu": "Château de la Gournerie",
+                "ro": "Château de la Gournerie",
+                "en": "Château de la Gournerie"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour am Schloss; die graue Steinfassade bildet einen tollen Kontrast zum dunklen, regnerischen Himmel.",
+                "hu": "Zárja túráját a kastélynál; a szürke kőfalak lenyűgöző kontrasztot alkotnak a sötét, esős égbolttal a nap végén.",
+                "ro": "Încheiați turul la castel; zidurile cenușii de piatră creează un contrast uimitor cu cerul întunecat și ploios la final de zi.",
+                "en": "End your tour at the castle; the grey stone walls create a stunning contrast with the dark, rainy sky at the day's end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintertag beginnt an der Saint-Hermeland Kirche. Die kühle Luft beim Radeln belebt, während Sie durch den Cours Hermeland fahren. Mittags bietet das Atlantis-Zentrum eine notwendige Aufwärmpause. Besuchen Sie die Parks Bégraisière und Chézine im nachmittäglichen Winterlicht, bevor Sie das Château de la Gournerie vor dem frühen Sonnenuntergang um 17:00 Uhr erreichen.",
+            "hu": "Deres téli nap indul a Saint-Hermeland templomnál. A hűvös levegő tekerés közben frissítő, ahogy a Cours Hermeland-on áthalad. Délben az Atlantis központ kínál szükséges meleg pihenőt. Látogasson el a Bégraisière és Chézine parkokba a délutáni téli fényekben, mielőtt 17:00 előtt elérné a kastélyt.",
+            "ro": "O zi de iarnă geroasă începe la biserica Saint-Hermeland. Aerul rece în timp ce pedalați este înviorător prin Cours Hermeland. La prânz, centrul Atlantis oferă o pauză necesară pentru încălzire. Vizitați parcurile Bégraisière și Chézine în lumina după-amiezii, înainte de apusul de la ora 17:00.",
+            "en": "A frosty winter day starts at Saint-Hermeland Church. The crisp air while cycling is invigorating as you pass through Cours Hermeland. At noon, the Atlantis centre offers a necessary warm-up break. Visit Bégraisière and Chézine parks in the afternoon light before reaching the castle by the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Hermeland Church",
+                "hu": "Saint-Hermeland Church",
+                "ro": "Saint-Hermeland Church",
+                "en": "Saint-Hermeland Church"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, besonders an den Händen; die Kirche bietet einen kurzen Moment der Windstille vor dem Start.",
+                "hu": "Öltözzön rétegesen, különösen a kezeire figyeljen; a templom fala melletti szélvédett hely tökéletes az indulás előtti készülődéshez.",
+                "ro": "Îmbrăcați-vă în straturi, atenție la mâini; zona adăpostită de lângă biserică este perfectă pentru pregătirea de dinainte de start.",
+                "en": "Dress in warm layers, paying extra attention to your hands; the sheltered area by the church is perfect for final prep before starting."
+              }
+            },
+            {
+              "name": {
+                "de": "Cours Hermeland",
+                "hu": "Cours Hermeland",
+                "ro": "Cours Hermeland",
+                "en": "Cours Hermeland"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick durch die blattlosen Bäume; halten Sie Ausschau nach vereisten Brücken über die kleinen Bäche.",
+                "hu": "Élvezze a tiszta kilátást a kopasz fák között; legyen óvatos a kis patakok feletti hidakon, melyek hamar lejegesedhetnek.",
+                "ro": "Bucurați-vă de vederea clară printre copacii golași; fiți atenți la podurile peste pâraie, care pot îngheța foarte repede.",
+                "en": "Enjoy the clear views through the leafless trees; be cautious on the small bridges over streams, as they can ice over quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Atlantis Shopping Centre",
+                "hu": "Atlantis Shopping Centre",
+                "ro": "Atlantis Shopping Centre",
+                "en": "Atlantis Shopping Centre"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an den Ständern nahe dem Eingang; nutzen Sie den Stopp, um Ihre Wasserflasche mit warmem Tee aufzufüllen.",
+                "hu": "Zárja le kerékpárját a bejárathoz közeli tárolóknál; használja ki a megállót, hogy kulacsát meleg teával töltse fel a folytatáshoz.",
+                "ro": "Încuiați bicicleta la rastelele de lângă intrare; profitați de oprire pentru a vă umple bidonul cu ceai cald pentru drum.",
+                "en": "Lock your bike at the racks near the entrance; use the stop to refill your water bottle with warm tea for the next leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Bégraisière",
+                "hu": "Parc de la Bégraisière",
+                "ro": "Parc de la Bégraisière",
+                "en": "Parc de la Bégraisière"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne zaubert lange Schatten auf die Wege; fahren Sie vorsichtig über festgetretenen Schnee oder Reif.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet az utakra; haladjon óvatosan a letaposott havon vagy a deres szakaszokon.",
+                "ro": "Soarele de iarnă aflat la înălțime mică aruncă umbre lungi; pedalați cu grijă pe zăpada bătătorită sau pe porțiunile cu brumă.",
+                "en": "The low winter sun casts long shadows across the paths; cycle carefully over any packed snow or frosty patches you encounter."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Val de Chézine",
+                "hu": "Parc du Val de Chézine",
+                "ro": "Parc du Val de Chézine",
+                "en": "Parc du Val de Chézine"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille des Tals im Winter; achten Sie auf gefrorenen Matsch, der harte und unebene Fahrspuren bilden kann.",
+                "hu": "Tapasztalja meg a völgy téli csendjét; ügyeljen a megfagyott sárra, amely kemény és egyenetlen keréknyomokat alkothat az úton.",
+                "ro": "Experimentați liniștea de iarnă a văii; atenție la noroiul înghețat, care poate crea urme de roți dure și denivelate pe traseu.",
+                "en": "Experience the winter silence of the valley; watch out for frozen mud, which can create hard and uneven ruts in the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Gournerie",
+                "hu": "Château de la Gournerie",
+                "ro": "Château de la Gournerie",
+                "en": "Château de la Gournerie"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor 17:00 Uhr, um das Schloss noch im Tageslicht zu sehen; die kalte Abendluft zieht hier schnell ein.",
+                "hu": "Tervezze érkezését 17:00 elé, hogy még nappali fényben lássa a kastélyt; a hideg esti levegő itt nagyon hamar érezhetővé válik.",
+                "ro": "Planificați sosirea înainte de ora 17:00 pentru a vedea castelul pe lumină; aerul rece de seară se simte foarte repede aici.",
+                "en": "Plan to arrive before 5 PM to see the castle in daylight; the cold evening air sets in very quickly in this open area."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen egyenesen az elegáns Château de la Gournerie-hez egy történelmi reggeli kezdéshez. Az útvonal ezután gyönyörű természeti parkokon és modern szórakozóhelyeken vezet keresztül. Fejezze be a napot a városközpont történelmi és nyüzsgő kereskedelmi nevezetességeinek maximálisan kényelmes autós felfedezésével.",
         "ro": "Conduceți direct la elegantul Château de la Gournerie pentru un început istoric și pitoresc al dimineții. Traseul trece apoi prin mai multe parcuri naturale și spații moderne de divertisment. Încheiați ziua explorând aspectele comerciale și istorice ale centrului orașului, bucurându-vă de un confort maxim pe tot parcursul zilei.",
         "en": "Drive directly to the elegant Château de la Gournerie for a deeply historical morning start. Your convenient route then weaves through multiple beautiful natural parks and modern interactive entertainment venues. Finish the day exploring the commercial and historical aspects of the city center with maximum driving convenience."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Saint-Herblain bequem trotz Regen. Beginnen Sie am Château de la Gournerie, wo das Parken einfach ist. Die Parks Chézine und Bégraisière lassen sich auch bei kurzen Schauern genießen. Mittags bietet das Arcadium und das Atlantis-Zentrum perfekte Indoor-Unterhaltung. Den Tag beenden Sie trocken an der Saint-Hermeland Kirche im Stadtzentrum.",
+            "hu": "Autóval kényelmesen felfedezheti Saint-Herblaint az eső ellenére is. Kezdje a Château de la Gournerie-nél, ahol a parkolás egyszerű. A Chézine és Bégraisière parkok rövid záporok között is élvezhetők. Délben az Arcadium és az Atlantis központ kínál tökéletes beltéri szórakozást. A napot szárazon zárhatja a Saint-Hermeland templomnál.",
+            "ro": "Cu mașina puteți explora Saint-Herblain confortabil în ciuda ploii. Începeți la Château de la Gournerie, unde parcarea este ușoară. Parcurile Chézine și Bégraisière pot fi savurate între averse. La prânz, Arcadium și centrul Atlantis oferă distracție perfectă la interior. Încheiați ziua la adăpost la biserica Saint-Hermeland.",
+            "en": "By car, you can explore Saint-Herblain comfortably despite the rain. Start at Château de la Gournerie, where parking is easy. Chézine and Bégraisière parks can be enjoyed between showers. At noon, Arcadium and the Atlantis centre offer perfect indoor entertainment. End your day dry at the Saint-Hermeland Church in the city centre."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Gournerie",
+                "hu": "Château de la Gournerie",
+                "ro": "Château de la Gournerie",
+                "en": "Château de la Gournerie"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nahe dem Schlosszugang; nutzen Sie Regenpausen für einen kurzen Spaziergang im Park und bewundern Sie die Spiegelungen im Wasser.",
+                "hu": "Parkoljon a kastély bejáratához közel; használja ki az esőszüneteket egy rövid sétára a parkban, és csodálja meg a vízi tükröződéseket.",
+                "ro": "Parcați aproape de intrarea în castel; profitați de pauzele dintre averse pentru o scurtă plimbare și admirați reflexiile din apă.",
+                "en": "Park close to the castle entrance; use breaks in the rain for a short stroll in the grounds and admire the reflections in the wet surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Val de Chézine",
+                "hu": "Parc du Val de Chézine",
+                "ro": "Parc du Val de Chézine",
+                "en": "Parc du Val de Chézine"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Parkrand genügt; genießen Sie den Blick auf das neblige Tal direkt aus dem Auto, wenn der Regen zu stark wird.",
+                "hu": "Egy rövid megálló a park szélén is elég; élvezze a ködös völgy látványát közvetlenül az autóból, ha túl erősen esne az eső.",
+                "ro": "O scurtă oprire la marginea parcului este suficientă; admirați valea cețoasă direct din mașină dacă ploaia devine prea puternică.",
+                "en": "A brief stop at the park's edge is enough; enjoy the view of the misty valley directly from your car if the rain gets too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Bégraisière",
+                "hu": "Parc de la Bégraisière",
+                "ro": "Parc de la Bégraisière",
+                "en": "Parc de la Bégraisière"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Platz; ein Schirm ist hier unerlässlich, da die hohen Bäume das Regenwasser noch lange nach dem Schauer abtropfen lassen.",
+                "hu": "Parkoljon a szilárd burkolatú helyeken; az esernyő itt elengedhetetlen, mert a magas fákról még jóval a zápor után is csöpög az esővíz.",
+                "ro": "Parcați pe locurile pavate; umbrela este indispensabilă aici, deoarece apa de ploaie continuă să picure din copaci mult timp după aversă.",
+                "en": "Park in the paved areas; an umbrella is essential here as the tall trees continue to drip rainwater long after the shower has passed."
+              }
+            },
+            {
+              "name": {
+                "de": "Arcadium",
+                "hu": "Arcadium",
+                "ro": "Arcadium",
+                "en": "Arcadium"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Indoor-Flucht bei Regen; nutzen Sie das Parkhaus, um völlig trocken vom Auto in die Spielhalle zu gelangen.",
+                "hu": "Ideális beltéri menekülés eső idején; használja a parkolóházat, hogy teljesen szárazon juthasson el az autótól a játékteremig.",
+                "ro": "Evadarea ideală la interior pe timp de ploaie; folosiți parcarea acoperită pentru a ajunge complet uscat de la mașină la sala de jocuri.",
+                "en": "The ideal indoor escape during rain; use the parking garage to stay completely dry while moving from your car to the gaming area."
+              }
+            },
+            {
+              "name": {
+                "de": "Atlantis Shopping Centre",
+                "hu": "Atlantis Shopping Centre",
+                "ro": "Atlantis Shopping Centre",
+                "en": "Atlantis Shopping Centre"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie einen Parkplatz nahe den überdachten Eingängen; genießen Sie das Shoppen ohne Sorge um das schlechte Wetter draußen.",
+                "hu": "Válasszon parkolóhelyet a fedett bejáratok közelében; élvezze a vásárlást anélkül, hogy aggódnia kellene a kinti rossz idő miatt.",
+                "ro": "Alegeți un loc de parcare lângă intrările acoperite; bucurați-vă de cumpărături fără grija vremii nefavorabile de afară.",
+                "en": "Choose a parking spot near the sheltered entrances; enjoy your shopping experience without worrying about the poor weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hermeland Church",
+                "hu": "Saint-Hermeland Church",
+                "ro": "Saint-Hermeland Church",
+                "en": "Saint-Hermeland Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Stadtzentrum; Parkplätze direkt an der Kirche ermöglichen einen schnellen, trockenen Zugang zum Gebäude.",
+                "hu": "Zárja a napot a városközpontban; a templom melletti parkolóhelyek gyors és száraz bejutást tesznek lehetővé az épületbe.",
+                "ro": "Încheiați ziua în centrul orașului; locurile de parcare de lângă biserică permit un acces rapid și uscat în interiorul clădirii.",
+                "en": "End the day in the city centre; parking spots right by the church allow for quick and dry access to the historic building."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Saint-Herblain im Winter komfortabel mit dem Auto. Starten Sie am Château de la Gournerie im morgendlichen Reif. Besuchen Sie die Parks Chézine und Bégraisière für kurze, erfrischende Spaziergänge. Mittags bieten das Arcadium und das Atlantis wohlige Wärme. Beenden Sie Ihre Tour an der Saint-Hermeland Kirche, wenn die Stadtlichter in der frühen Dunkelheit erstrahlen.",
+            "hu": "Fedezze fel Saint-Herblaint télen, kényelmesen az autóból. Kezdjen a Château de la Gournerie-nél a reggeli zúzmarában. Látogasson el a Chézine és Bégraisière parkokba egy-egy frissítő rövid sétára. Délben az Arcadium és az Atlantis kínál melengető pihenőt. Zárja túráját a Saint-Hermeland templomnál, amikor kigyúlnak a város fényei.",
+            "ro": "Descoperiți Saint-Herblain iarna, confortabil din mașină. Începeți la Château de la Gournerie în bruma dimineții. Vizitați parcurile Chézine și Bégraisière pentru scurte plimbări revigorante. La prânz, Arcadium și Atlantis oferă căldură. Încheiați turul la biserica Saint-Hermeland când se aprind luminile orașului.",
+            "en": "Discover Saint-Herblain in winter, comfortably from your car. Start at Château de la Gournerie in the morning frost. Visit Chézine and Bégraisière parks for short, refreshing walks. At noon, Arcadium and Atlantis offer cozy warmth. End your tour at Saint-Hermeland Church as the city lights come on in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Gournerie",
+                "hu": "Château de la Gournerie",
+                "ro": "Château de la Gournerie",
+                "en": "Château de la Gournerie"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht im Winterlicht prächtig aus; lassen Sie den Motor nicht unnötig laufen, während Sie kurz für ein Foto aussteigen.",
+                "hu": "A kastély pompásan fest a téli fényekben; ne járassa feleslegesen a motort, amíg kiszáll egy gyors fotó erejéig a deres parkban.",
+                "ro": "Castelul arată magnific în lumina iernii; nu lăsați motorul pornit inutil cât timp coborâți pentru o fotografie rapidă în parcul înghețat.",
+                "en": "The castle looks magnificent in the winter light; don't leave the engine idling while you hop out for a quick photo in the frosty park."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Val de Chézine",
+                "hu": "Parc du Val de Chézine",
+                "ro": "Parc du Val de Chézine",
+                "en": "Parc du Val de Chézine"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Landschaft; achten Sie beim Parken auf gefrorene Pfützen, die beim Aussteigen sehr glatt sein können.",
+                "hu": "Élvezze a téli táj látványát; parkoláskor ügyeljen a befagyott tócsákra, amelyek kiszálláskor rendkívül csúszósak lehetnek.",
+                "ro": "Bucurați-vă de peisajul de iarnă; la parcare, atenție la bălțile înghețate care pot fi extrem de alunecoase la coborârea din mașină.",
+                "en": "Enjoy the winter landscape; when parking, watch out for frozen puddles which can be extremely slippery when stepping out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Bégraisière",
+                "hu": "Parc de la Bégraisière",
+                "ro": "Parc de la Bégraisière",
+                "en": "Parc de la Bégraisière"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Rundgang durch den Wald hält den Kreislauf in Schwung; kehren Sie danach in Ihr vorgeheiztes Auto zurück.",
+                "hu": "Egy tempós körséta az erdőben felpezsdíti a vérkeringést a hidegben; utána térjen vissza az előmelegített autójába.",
+                "ro": "O plimbare rapidă prin pădure vă va pune sângele în mișcare; după aceea, întoarceți-vă în mașina preîncălzită.",
+                "en": "A brisk walk through the woods will get your circulation going in the cold; return to your pre-heated car afterwards to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Arcadium",
+                "hu": "Arcadium",
+                "ro": "Arcadium",
+                "en": "Arcadium"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei aktiven Spielen im Inneren auf; Parkplätze direkt vor der Tür ersparen Ihnen lange Wege in der Kälte.",
+                "hu": "Melegedjen fel az aktív benti játékokkal; a közvetlenül az ajtó előtti parkolóhelyek megkímélik a hidegben való hosszú gyaloglástól.",
+                "ro": "Încălziți-vă cu jocurile active din interior; locurile de parcare chiar în fața ușii vă scutesc de mersul lung prin frig.",
+                "en": "Warm up with the active indoor games; parking spots right in front of the door save you from a long walk in the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Atlantis Shopping Centre",
+                "hu": "Atlantis Shopping Centre",
+                "ro": "Atlantis Shopping Centre",
+                "en": "Atlantis Shopping Centre"
+              },
+              "tip_5lang": {
+                "de": "Ideal für eine ausgiebige Winterpause; nutzen Sie das Parkhaus, damit Ihr Auto während Ihres Aufenthalts nicht auskühlt.",
+                "hu": "Ideális egy hosszú téli pihenőhöz; használja a fedett parkolóházat, hogy autója ne hűljön ki teljesen, amíg Ön bent tartózkodik.",
+                "ro": "Ideal pentru o pauză lungă de iarnă; folosiți parcarea acoperită pentru ca mașina să nu se răcească complet cât timp sunteți înăuntru.",
+                "en": "Ideal for a long winter break; use the indoor parking garage so your car doesn't get completely cold while you are inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hermeland Church",
+                "hu": "Saint-Hermeland Church",
+                "ro": "Saint-Hermeland Church",
+                "en": "Saint-Hermeland Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag; die warmen Lichter im Inneren bilden einen gemütlichen Abschluss Ihres Wintertages.",
+                "hu": "Látogasson el a templomba késő délután; a benti meleg fények hangulatos lezárást nyújtanak a téli felfedezőútnak.",
+                "ro": "Vizitați biserica după-amiaza târziu; luminile calde din interior oferă o încheiere primitoare traseului dumneavoastră de iarnă.",
+                "en": "Visit the church in the late afternoon; the warm interior lights provide a cozy conclusion to your winter exploration day."
+              }
+            }
+          ]
+        }
       }
     }
   }

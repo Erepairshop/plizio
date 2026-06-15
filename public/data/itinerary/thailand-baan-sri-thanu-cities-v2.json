@@ -180,6 +180,196 @@
           "afternoon": "Spend your active afternoon splashing around the exciting floating obstacles at The Challenge Phangan, testing your balance and enjoying the lively aquatic environment.",
           "evening": "Wind down your day with a short walk to the tranquil shores of Haad Chao Phao, offering a secluded spot to watch the colors of the tropical sky deepen over the gentle waves."
         }
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Dächern des Wat Sri Thanu, während der Regen auf die Palmen trommelt. Mittags wandern wir durch die üppig grünen Pfade, die im Regen besonders intensiv duften. Am Nachmittag bietet die Küste ein dramatisches Schauspiel aus Wolken und Wellen. Den Abend lassen wir in einer der gemütlichen Strandbars ausklingen, während wir dem Rauschen der Tropennacht lauschen.",
+            "hu": "A reggel a Wat Sri Thanu díszes tetői alatt indul, biztonságban a trópusi záportól. Délben a sűrű növényzet mentén haladunk, ahol az eső illata felfrissíti a levegőt. Délután a tengerpart drámai arcát mutatja a szürke felhők alatt, a homok ilyenkor kemény és könnyen járható. Az estét egy fedett teraszon zárjuk, figyelve, ahogy az esőcseppek kopognak a pálmaleveleken.",
+            "ro": "Dimineața începe sub acoperișurile protectoare ale Wat Sri Thanu, în timp ce ploaia tobează pe palmieri. La prânz, mergem pe potecile verzi care miros intens a prospețime. După-amiaza, coasta oferă un spectacol dramatic de nori și valuri pe plajă. Seara ne relaxăm într-un bar acoperit de pe malul mării, ascultând sunetul liniștitor al ploii tropicale care cade peste junglă.",
+            "en": "The morning starts under the ornate roofs of Wat Sri Thanu, finding peace away from the tropical showers. At noon, we walk through lush paths where the rain brings out the deep scents of the jungle. In the afternoon, the coastline offers a dramatic view of gray clouds and crashing waves. We end the evening in a sheltered beach bar, listening to the rhythmic sound of rain on palm leaves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sri Thanu",
+                "hu": "Wat Sri Thanu",
+                "ro": "Wat Sri Thanu",
+                "en": "Wat Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Tempelarchitektur vom überdachten Gang aus; tragen Sie rutschfeste Sandalen, da die nassen Fliesen sehr glatt sein können.",
+                "hu": "Csodálja meg a templom építészetét a fedett folyosókról; viseljen csúszásmentes szandált, mert a vizes csempe rendkívül csúszós lehet.",
+                "ro": "Admirați arhitectura templului de pe coridoarele acoperite; purtați sandale antiderapante, deoarece plăcile umede pot fi foarte alunecoase.",
+                "en": "Admire the temple architecture from the covered walkways; wear non-slip sandals as the wet tiles can become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Sri Thanu",
+                "hu": "Ao Sri Thanu",
+                "ro": "Ao Sri Thanu",
+                "en": "Ao Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen mystisch; nutzen Sie die nahen Cafés als Unterschlupf und bewahren Sie Elektronik in wasserdichten Beuteln auf.",
+                "hu": "A strand misztikus arcát mutatja esőben; használja a közeli kávézókat menedékként, és tartsa az elektronikát vízhatlan tokban.",
+                "ro": "Plaja pare mistică în ploaie; folosiți cafenelele din apropiere ca adăpost și păstrați electronicele în pungi impermeabile.",
+                "en": "The beach looks mystical in the rain; use nearby cafes as shelter and keep your electronics in waterproof dry bags."
+              }
+            },
+            {
+              "name": {
+                "de": "Bliss Villas",
+                "hu": "Bliss Villas",
+                "ro": "Bliss Villas",
+                "en": "Bliss Villas"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die moderne Architektur im Kontrast zum grauen Himmel; ein großer Regenschirm ist hier wegen der offenen Flächen unerlässlich.",
+                "hu": "Figyelje meg a modern építészetet a szürke égbolttal szemben; a nyitott részek miatt egy nagy esernyő itt elengedhetetlen kellék.",
+                "ro": "Observați arhitectura modernă în contrast cu cerul gri; o umbrelă mare este esențială aici din cauza spațiilor deschise.",
+                "en": "Observe the modern architecture against the moody gray sky; a large umbrella is essential here due to the open exposed areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Sookpol Village",
+                "hu": "Sookpol Village",
+                "ro": "Sookpol Village",
+                "en": "Sookpol Village"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die dörflichen Wege, wo die Bäume natürlichen Schutz bieten; achten Sie auf Pfützen auf den unbefestigten Wegen.",
+                "hu": "Sétáljon a falu útjain, ahol a fák természetes védelmet nyújtanak; vigyázzon a tócsákra és a sárra a kiépítetlen ösvényeken.",
+                "ro": "Plimbați-vă pe drumurile satului, unde copacii oferă protecție naturală; atenție la bălțile de pe cărările neasfaltate.",
+                "en": "Walk through the village paths where trees provide natural shelter; watch out for puddles and mud on the unpaved sections."
+              }
+            },
+            {
+              "name": {
+                "de": "The Challenge Phangan",
+                "hu": "The Challenge Phangan",
+                "ro": "The Challenge Phangan",
+                "en": "The Challenge Phangan"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Geschehen vom überdachten Restaurant aus; die hölzernen Stege sind bei Nässe extrem rutschig, laufen Sie vorsichtig.",
+                "hu": "Figyelje a vízi kalandokat a fedett étteremből; a fapallók vizesen nagyon csúsznak, haladjon különös óvatossággal.",
+                "ro": "Urmăriți activitățile de la restaurantul acoperit; platformele de lemn sunt foarte alunecoase când sunt ude, mergeți cu mare grijă.",
+                "en": "Watch the water activities from the covered restaurant; the wooden walkways are very slippery when wet, so walk with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Chao Phao",
+                "hu": "Haad Chao Phao",
+                "ro": "Haad Chao Phao",
+                "en": "Haad Chao Phao"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Meeresbrise nach dem Schauer; ein leichtes Regencape schützt Sie vor plötzlichen, kurzen Wolkenbrüchen.",
+                "hu": "Élvezze a friss tengeri szellőt a zápor után; egy könnyű esőkabát megvédi Önt a hirtelen lezúduló, rövid felhőszakadásoktól.",
+                "ro": "Bucurați-vă de briza mării după ploaie; o pelerină ușoară de ploaie vă va proteja de aversele bruște și scurte.",
+                "en": "Enjoy the fresh sea breeze after the shower; a light raincoat will protect you from the sudden, short tropical downpours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise des Dezembers macht die morgendliche Erkundung des Wat Sri Thanu zum Vergnügen. Mittags spazieren wir bei milden Temperaturen am Ao Sri Thanu entlang, ohne die drückende Hitze des Sommers. Am Nachmittag färbt sich der Himmel bereits früh in sanften Tönen. Da die Sonne gegen 17:30 Uhr untergeht, suchen wir uns rechtzeitig einen Platz am Strand von Haad Chao Phao.",
+            "hu": "A decemberi hűvös szellő kellemessé teszi a reggeli sétát a Wat Sri Thanu templomnál. Délben az Ao Sri Thanu partján sétálunk, élvezve a lágy napsütést a nyári hőség nélkül. Délután az égbolt korán pasztell színekbe öltözik. Mivel a nap már fél hat körül nyugovóra tér, időben keressünk egy jó helyet a Haad Chao Phao homokján.",
+            "ro": "Briza răcoroasă de iarnă face ca explorarea de dimineață a Wat Sri Thanu să fie o plăcere. La prânz, ne plimbăm pe malul Ao Sri Thanu la temperaturi blânde, fără căldura toridă. După-amiaza, cerul capătă nuanțe calde mai devreme. Deoarece soarele apune în jur de 17:30, găsiți-vă din timp un loc bun pe Haad Chao Phao.",
+            "en": "The cool winter breeze makes the morning exploration of Wat Sri Thanu a true pleasure. At noon, we stroll along Ao Sri Thanu in mild temperatures, avoiding the intense summer heat. In the afternoon, the sky turns to pastel colors earlier than usual. As the sun sets around 17:30, find a spot on Haad Chao Phao beach in time for the view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sri Thanu",
+                "hu": "Wat Sri Thanu",
+                "ro": "Wat Sri Thanu",
+                "en": "Wat Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der goldenen Verzierungen; am frühen Morgen ist es hier jetzt angenehm kühl und ruhig.",
+                "hu": "Használja ki a tiszta téli fényeket a templom arany díszeinek fotózásához; kora reggel most kellemesen hűvös és nyugodt az idő.",
+                "ro": "Profită de lumina clară de iarnă pentru fotografii cu detaliile aurii; dimineața devreme este acum plăcut de răcoare și liniște.",
+                "en": "Take advantage of the clear winter light for photos of the golden details; early morning is now pleasantly cool and quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Sri Thanu",
+                "hu": "Ao Sri Thanu",
+                "ro": "Ao Sri Thanu",
+                "en": "Ao Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Ideal für lange Strandspaziergänge; nehmen Sie eine leichte Schicht Kleidung für die kühleren Windböen vom Meer mit.",
+                "hu": "Ideális idő a hosszú tengerparti sétákhoz; vigyen magával egy vékonyabb réteget a tenger felől érkező hűvösebb szellők ellen.",
+                "ro": "Ideal pentru plimbări lungi pe plajă; luați o haină subțire pentru rafalele de vânt mai răcoroase care vin dinspre mare.",
+                "en": "Perfect for long beach walks; bring a light layer of clothing to protect against the cooler breezes coming off the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Bliss Villas",
+                "hu": "Bliss Villas",
+                "ro": "Bliss Villas",
+                "en": "Bliss Villas"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne betont die Linien der Villen; planen Sie den Besuch vor 16 Uhr, um das beste Tageslicht zu nutzen.",
+                "hu": "Az alacsonyan járó nap kiemeli a villák vonalait; tervezze látogatását délután 4 előtt a legjobb fényviszonyok érdekében.",
+                "ro": "Soarele de după-amiază subliniază liniile vilelor; planificați vizita înainte de ora 16 pentru a profita de cea mai bună lumină.",
+                "en": "The low winter sun emphasizes the villas' lines; plan your visit before 16:00 to catch the best daylight for viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Sookpol Village",
+                "hu": "Sookpol Village",
+                "ro": "Sookpol Village",
+                "en": "Sookpol Village"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Dorfatmosphäre ohne die Mittagshitze; die Luft ist jetzt trockener, was das Laufen deutlich angenehmer macht.",
+                "hu": "Élvezze a falu hangulatát a déli hőség nélkül; a levegő most szárazabb, ami sokkal kényelmesebbé teszi a gyaloglást.",
+                "ro": "Bucurați-vă de atmosfera satului fără căldura de la prânz; aerul este mai uscat acum, ceea ce face mersul mult mai plăcut.",
+                "en": "Enjoy the village atmosphere without the midday heat; the air is drier now, making walking significantly more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "The Challenge Phangan",
+                "hu": "The Challenge Phangan",
+                "ro": "The Challenge Phangan",
+                "en": "The Challenge Phangan"
+              },
+              "tip_5lang": {
+                "de": "Die Wassertemperatur ist immer noch mild; bringen Sie ein Handtuch mit, da man nach dem Baden im Wind schnell frösteln kann.",
+                "hu": "A víz hőmérséklete még mindig kellemes; vigyen törölközőt, mert a szélben fürdés után gyorsan megfázhat az ember.",
+                "ro": "Temperatura apei este încă blândă; aduceți un prosop, deoarece vântul vă poate face să tremurați rapid după baie.",
+                "en": "The water temperature remains mild; bring a towel, as you might feel a bit chilly in the breeze after coming out of the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Chao Phao",
+                "hu": "Haad Chao Phao",
+                "ro": "Haad Chao Phao",
+                "en": "Haad Chao Phao"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den frühen Sonnenuntergang; bringen Sie eine Taschenlampe für den Rückweg nach 18 Uhr mit.",
+                "hu": "Tökéletes helyszín a korai naplemente megtekintéséhez; vigyen zseblámpát a 6 óra utáni visszatéréshez, mert hamar besötétedik.",
+                "ro": "Locul perfect pentru apusul devreme; aduceți o lanternă pentru drumul de întoarcere după ora 18, când se întunecă.",
+                "en": "The perfect spot for the early winter sunset; bring a flashlight for the walk back after 18:00 as it gets dark quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -376,6 +566,224 @@
           "midday": "Trade the quiet roads for adrenaline at The Challenge Phangan's inflatable water park, followed by a mindful pause to admire the spiritual ambiance of Samma Karuna.",
           "afternoon": "Continue your coastal ride up to Haad Son for some refreshing snorkeling, then push further north to climb up the whimsical wooden structures of the Bird's Nest.",
           "evening": "For the grand finale, cruise south along the scenic shoreline to the Sunset Low Tide Viewpoint, watching the receding waters perfectly mirror the spectacular twilight sky."
+        }
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad erkunden wir die Insel vorsichtig zwischen den Schauern. Morgens bietet der Wat Sri Thanu einen trockenen Start. Mittags radeln wir durch das dampfende Grün zum Sookpol Village. Am Nachmittag fordern uns die nassen Straßen heraus, belohnen uns aber mit menschenleeren Ausblicken. Abends suchen wir uns einen sicheren Unterstand und genießen die kühle, regenfrische Luft.",
+            "hu": "Óvatosan fedezzük fel a szigetet két zápor között két keréken. Reggel a Wat Sri Thanu nyújt száraz indulást. Délben a gőzölgő dzsungelen át tekerünk a Sookpol Village felé. Délután a vizes utak próbára tesznek, de üres kilátókkal jutalmaznak. Este keressünk egy biztonságos menedéket, és élvezzük a hűvös, friss, eső utáni levegőt.",
+            "ro": "Explorăm insula cu atenție pe bicicletă între reprizele de ploaie. Dimineața, Wat Sri Thanu oferă un start uscat. La prânz, pedalăm prin vegetația aburindă spre Sookpol Village. După-amiaza, drumurile ude sunt o provocare, dar oferă priveliști pustii. Seara, căutăm un adăpost sigur și ne bucurăm de aerul răcoros și proaspăt.",
+            "en": "Carefully explore the island on two wheels between the rain showers. In the morning, Wat Sri Thanu provides a dry start. At noon, cycle through the steaming jungle toward Sookpol Village. In the afternoon, the wet roads are challenging but reward you with empty viewpoints. In the evening, find a safe shelter and enjoy the cool, fresh post-rain air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sri Thanu",
+                "hu": "Wat Sri Thanu",
+                "ro": "Wat Sri Thanu",
+                "en": "Wat Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Platz; prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen aufbrechen.",
+                "hu": "Parkolja le a biciklit fedett helyen; ellenőrizze a fékeket, mielőtt elindulna a vizes és csúszós aszfalton.",
+                "ro": "Parcați bicicleta într-un loc acoperit; verificați frânele înainte de a porni pe drumurile ude și alunecoase.",
+                "en": "Park your bike in a sheltered spot; check your brakes thoroughly before heading out onto the wet and slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Sookpol Village",
+                "hu": "Sookpol Village",
+                "ro": "Sookpol Village",
+                "en": "Sookpol Village"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den sandigen Wegen des Dorfes; der Boden kann bei Regen weich und rutschig werden.",
+                "hu": "Haladjon lassan a falu homokos útjain; az eső miatt a talaj felázhat és csúszóssá válhat a kerékpár alatt.",
+                "ro": "Mergeți încet pe drumurile nisipoase ale satului; solul poate deveni moale și alunecos sub roțile bicicletei din cauza ploii.",
+                "en": "Ride slowly on the sandy village paths; the ground can become soft and slippery under your bike tires due to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "The Challenge Phangan",
+                "hu": "The Challenge Phangan",
+                "ro": "The Challenge Phangan",
+                "en": "The Challenge Phangan"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für eine Pause bei Regen; sichern Sie Ihr Rad gut gegen den Wind, falls ein Sturm aufzieht.",
+                "hu": "Remek hely egy pihenőre esőben; rögzítse jól a biciklit a szél ellen, ha hirtelen vihar kerekedne a tóparton.",
+                "ro": "Un loc excelent pentru o pauză în timpul ploii; asigurați bine bicicleta împotriva vântului dacă se stârnește o furtună.",
+                "en": "A great place for a break during the rain; secure your bike well against the wind if a sudden storm picks up."
+              }
+            },
+            {
+              "name": {
+                "de": "Samma Karuna",
+                "hu": "Samma Karuna",
+                "ro": "Samma Karuna",
+                "en": "Samma Karuna"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den offenen Hallen; nutzen Sie die Zeit für eine Meditation, während es draußen heftig regnet.",
+                "hu": "Keressen menedéket a nyitott csarnokokban; használja ki az időt egy meditációra, amíg kint szakad az eső.",
+                "ro": "Căutați adăpost în sălile deschise; folosiți timpul pentru o meditație în timp ce afară plouă torențial.",
+                "en": "Seek shelter in the open halls; use the time for a meditation session while the rain pours down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Son",
+                "hu": "Haad Son",
+                "ro": "Haad Son",
+                "en": "Haad Son"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen am 'Secret Beach' sind bei Regen extrem gefährlich; bleiben Sie auf den befestigten Wegen oben.",
+                "hu": "A 'Secret Beach' sziklái esőben rendkívül veszélyesek; maradjon a felső, kiépített utakon és ne másszon le.",
+                "ro": "Stâncile de la 'Secret Beach' sunt extrem de periculoase pe ploaie; rămâneți pe drumurile pavate de sus.",
+                "en": "The rocks at 'Secret Beach' are extremely dangerous in the rain; stay on the paved upper paths and avoid climbing."
+              }
+            },
+            {
+              "name": {
+                "de": "Bird's Nest",
+                "hu": "Bird's Nest",
+                "ro": "Bird's Nest",
+                "en": "Bird's Nest"
+              },
+              "tip_5lang": {
+                "de": "Der Dschungelpfad hierher ist steil und bei Regen matschig; schieben Sie Ihr Rad lieber, um Stürze zu vermeiden.",
+                "hu": "A dzsungelösvény ide meredek és esőben sáros; inkább tolja a biciklit, hogy elkerülje az eséseket a csúszós sárban.",
+                "ro": "Poteca prin junglă este abruptă și noroioasă pe ploaie; mai bine împingeți bicicleta pentru a evita căzăturile.",
+                "en": "The jungle path here is steep and muddy in the rain; it's safer to push your bike to avoid falling in the slippery mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Low Tide Viewpoint",
+                "hu": "Sunset Low Tide Viewpoint",
+                "ro": "Sunset Low Tide Viewpoint",
+                "en": "Sunset Low Tide Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Auch ohne Sonne ist der Blick dramatisch; achten Sie bei der Abfahrt im Regen auf Rollsplitt und rutschigen Schlamm.",
+                "hu": "Napsütés nélkül is drámai a látvány; az esőben való leereszkedéskor figyeljen a felázott útra és a kavicsokra.",
+                "ro": "Priveliștea este dramatică chiar și fără soare; la coborâre, atenție la noroiul alunecos și la pietriș pe ploaie.",
+                "en": "The view is dramatic even without sun; when descending in the rain, watch out for slippery mud and loose gravel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter auf Phangan bedeutet perfektes Radwetter. Morgens starten wir am Wat Sri Thanu bei angenehmer Kühle. Mittags radeln wir ohne Schweißausbrüche zum Samma Karuna. Am Nachmittag genießen wir die sanfte Sonne auf den Küstenstraßen. Da es früh dunkelt, erreichen wir den Viewpoint rechtzeitig vor dem Sonnenuntergang um 17:30 Uhr und rüsten uns für eine kühle Rückfahrt.",
+            "hu": "A tél Phanganon a tökéletes biciklis időt jelenti. Reggel kellemes hűvösben indulunk a Wat Sri Thanu-tól. Délben izzadás nélkül tekerünk a Samma Karuna felé. Délután élvezzük a lágy napsütést a parti utakon. Mivel korán sötétedik, fél hat előtt elérjük a kilátót, és felkészülünk a hűvös esti visszaútra.",
+            "ro": "Iarna în Phangan înseamnă vreme perfectă pentru bicicletă. Dimineața pornim de la Wat Sri Thanu pe o răcoare plăcută. La prânz pedalăm fără să transpirăm spre Samma Karuna. După-amiaza ne bucurăm de soarele blând pe drumurile de coastă. Fiindcă se întunecă devreme, ajungem la punct de belvedere înainte de 17:30.",
+            "en": "Winter in Phangan means perfect cycling weather. In the morning, we start from Wat Sri Thanu in pleasant coolness. At noon, we cycle to Samma Karuna without breaking a sweat. In the afternoon, we enjoy the gentle sun on the coastal roads. Since it gets dark early, we reach the viewpoint before 17:30 and prep for a cool ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sri Thanu",
+                "hu": "Wat Sri Thanu",
+                "ro": "Wat Sri Thanu",
+                "en": "Wat Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Die klare Morgenluft ist ideal zum Radfahren; genießen Sie die Ruhe im Tempel, bevor die Tagestouristen eintreffen.",
+                "hu": "A tiszta reggeli levegő ideális a biciklizéshez; élvezze a templom csendjét, mielőtt megérkeznek a napközbeni turisták.",
+                "ro": "Aerul curat de dimineață este ideal pentru ciclism; bucurați-vă de liniștea templului înainte de sosirea turiștilor.",
+                "en": "The clear morning air is ideal for cycling; enjoy the peace of the temple before the daytime tourists arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Sookpol Village",
+                "hu": "Sookpol Village",
+                "ro": "Sookpol Village",
+                "en": "Sookpol Village"
+              },
+              "tip_5lang": {
+                "de": "Die milden Temperaturen machen das Erkunden der Nebenwege zum Vergnügen; trinken Sie trotzdem ausreichend Wasser.",
+                "hu": "A hűvösebb időben igazi élvezet a mellékutak felfedezése; a kellemes hőmérséklet ellenére ne felejtsen el vizet inni.",
+                "ro": "Temperaturile blânde fac din explorarea drumurilor lăturalnice o plăcere; totuși, nu uitați să beți destulă apă.",
+                "en": "Mild temperatures make exploring the side roads a pleasure; despite the pleasant weather, remember to stay hydrated."
+              }
+            },
+            {
+              "name": {
+                "de": "The Challenge Phangan",
+                "hu": "The Challenge Phangan",
+                "ro": "The Challenge Phangan",
+                "en": "The Challenge Phangan"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist jetzt oft klarer; perfekt für eine Erfrischung, aber ein UV-Shirt ist wegen der Wintersonne ratsam.",
+                "hu": "A víz ilyenkor gyakran tisztább; tökéletes egy frissítő csobbanáshoz, de a téli nap ellen ajánlott az UV-szűrős póló.",
+                "ro": "Apa este adesea mai clară acum; perfect pentru o baie răcoritoare, dar un tricou UV este recomandat sub soarele de iarnă.",
+                "en": "The water is often clearer now; perfect for a quick dip, but a UV shirt is recommended under the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Samma Karuna",
+                "hu": "Samma Karuna",
+                "ro": "Samma Karuna",
+                "en": "Samma Karuna"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um im Schatten zu entspannen; die kühle Brise vom Meer ist hier im Winter besonders angenehm.",
+                "hu": "Kellemes hely a hűvösben való pihenéshez; a tenger felől érkező szellő télen itt különösen jól esik a biciklizés után.",
+                "ro": "Un loc plăcut pentru relaxare la umbră; briza răcoroasă a mării este deosebit de plăcută aici în timpul iernii.",
+                "en": "A lovely place to relax in the shade; the cool sea breeze is especially pleasant here during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Haad Son",
+                "hu": "Haad Son",
+                "ro": "Haad Son",
+                "en": "Haad Son"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Koh Raham Bereich für Fotos; das Winterlicht sorgt für fantastische Farben im kristallklaren Wasser.",
+                "hu": "Látogasson el a Koh Raham részre fotózni; a téli fények fantasztikus színeket kölcsönöznek a kristálytiszta víznek.",
+                "ro": "Vizitați zona Koh Raham pentru fotografii; lumina de iarnă oferă culori fantastice apei cristaline de aici.",
+                "en": "Visit the Koh Raham area for photos; the winter light creates fantastic colors in the crystal-clear water here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bird's Nest",
+                "hu": "Bird's Nest",
+                "ro": "Bird's Nest",
+                "en": "Bird's Nest"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei 25 Grad viel leichter als bei 35; genießen Sie den weiten Blick über die nun tiefgrüne Insel.",
+                "hu": "A felfelé tekerés 25 fokban sokkal könnyebb, mint 35-ben; élvezze a kilátást az ilyenkor üde zöld szigetre.",
+                "ro": "Urcarea este mult mai ușoară la 25 de grade decât la 35; bucurați-vă de priveliștea peste insula acum verde intens.",
+                "en": "The climb is much easier at 25 degrees than 35; enjoy the expansive view over the now lush green island."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Low Tide Viewpoint",
+                "hu": "Sunset Low Tide Viewpoint",
+                "ro": "Sunset Low Tide Viewpoint",
+                "en": "Sunset Low Tide Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 17:15 Uhr hier; nach Sonnenuntergang kühlt es schnell ab, eine Windjacke ist für den Rückweg gut.",
+                "hu": "Érkezzen meg legkésőbb 17:15-re; naplemente után gyorsan hűl a levegő, egy széldzseki jól jöhet a visszaúton.",
+                "ro": "Ajungeți cel târziu la 17:15; după apus aerul se răcește rapid, o jachetă de vânt este utilă pentru drumul de întoarcere.",
+                "en": "Arrive by 17:15 at the latest; the temperature drops quickly after sunset, so a windbreaker is good for the ride back."
+              }
+            }
+          ]
         }
       }
     },
@@ -619,6 +1027,280 @@
           "midday": "Briefly stop by the breathtaking Sunset Low Tide Viewpoint to see its daytime charm, followed by a quick peek at the lush surroundings of the hidden Monkeyland Resort.",
           "afternoon": "Drive back towards the vibrant center, relaxing at the picturesque Ao Sri Thanu before diving into the energetic fun at The Challenge Phangan water park.",
           "evening": "Conclude your comprehensive island tour with a peaceful stop near Samma Karuna, eventually reaching the natural heights of the Bird's Nest to gaze out over the dusky horizon."
+        }
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen auf Phangan nur eine Kulisse. Morgens besuchen wir den Wat Sri Thanu trocken und entspannt. Mittags fahren wir entlang der Küste, während die Scheibenwischer den Blick auf die raue See freigeben. Am Nachmittag erkunden wir die abgelegeneren Buchten ohne nass zu werden. Abends genießen wir das Prasseln des Regens auf das Autodach bei einer Panoramafahrt.",
+            "hu": "Az autóban az eső csak egy hangulatos háttér a szigeten. Reggel szárazon és kényelmesen látogatjuk meg a Wat Sri Thanu templomot. Délben a tengerpart mentén autózunk, miközben az ablaktörlő tisztítja a kilátást a hullámokra. Délután a távolabbi öblöket fedezzük fel anélkül, hogy bőrig áznánk. Este a tetőn kopogó eső hangját élvezzük egy panorámás autózás közben.",
+            "ro": "În mașină, ploaia din Phangan este doar un decor. Dimineața vizităm Wat Sri Thanu în mod confortabil și uscat. La prânz conducem de-a lungul coastei, în timp ce ștergătoarele ne dezvăluie marea agitată. După-amiaza explorăm golfurile izolate fără să ne udăm. Seara ne bucurăm de sunetul ploii pe plafonul mașinii în timpul unei plimbări panoramice.",
+            "en": "In a car, the rain on Phangan is just a scenic backdrop. In the morning, we visit Wat Sri Thanu comfortably dry. At noon, we drive along the coast as the wipers clear the view of the rough sea. In the afternoon, we explore remote bays without getting soaked. In the evening, we enjoy the sound of rain on the car roof during a panoramic drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sri Thanu",
+                "hu": "Wat Sri Thanu",
+                "ro": "Wat Sri Thanu",
+                "en": "Wat Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen zu vermeiden; die kunstvollen Details wirken bei diffusem Licht besonders plastisch.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt; a templom részletei a szórt fényben különösen szépen mutatnak.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; detaliile sculptate arată deosebit de bine în lumina difuză de ploaie.",
+                "en": "Park close to the entrance to avoid the rain; the intricate temple details look particularly striking in the diffused light."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Wok Tum",
+                "hu": "Ao Wok Tum",
+                "ro": "Ao Wok Tum",
+                "en": "Ao Wok Tum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die weite Bucht direkt aus dem Auto; die Mangroven wirken im Regen besonders geheimnisvoll.",
+                "hu": "Élvezze a kilátást az öbölre közvetlenül az autóból; a mangroveerdő esőben különösen titokzatos hangulatot áraszt.",
+                "ro": "Bucurați-vă de priveliștea golfului direct din mașină; mangrovele par deosebit de misterioase în timpul ploii.",
+                "en": "Enjoy the view of the wide bay directly from your car; the mangroves look especially mysterious during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hin Kong",
+                "hu": "Ao Hin Kong",
+                "ro": "Ao Hin Kong",
+                "en": "Ao Hin Kong"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist hier sehr nah am Wasser; fahren Sie langsam, da bei Sturm Gischt auf die Fahrbahn peitschen kann.",
+                "hu": "A parti út itt nagyon közel van a vízhez; vezessen lassan, mert viharban a tajték és a homok az útra csaphat.",
+                "ro": "Drumul de coastă este foarte aproape de apă aici; conduceți încet, deoarece valurile pot arunca apă pe carosabil.",
+                "en": "The coastal road is very close to the water here; drive slowly as sea spray and sand can lash onto the road during storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Low Tide Viewpoint",
+                "hu": "Sunset Low Tide Viewpoint",
+                "ro": "Sunset Low Tide Viewpoint",
+                "en": "Sunset Low Tide Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Tage, da man die Aussicht im Auto genießen kann; achten Sie auf rutschige Abschnitte bei der Auffahrt.",
+                "hu": "Tökéletes esős napokra, mivel a kilátást az autóból is élvezheti; figyeljen a felázott útburkolatra a felfelé vezető úton.",
+                "ro": "Perfect pentru zilele ploioase, deoarece puteți admira vederea din mașină; atenție la porțiunile alunecoase la urcare.",
+                "en": "Perfect for rainy days as you can enjoy the view from inside the car; watch out for slippery sections on the drive up."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkeyland Resort",
+                "hu": "Monkeyland Resort",
+                "ro": "Monkeyland Resort",
+                "en": "Monkeyland Resort"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Grünen; die Affen suchen bei Regen oft Schutz unter den Vordächern, was tolle Beobachtungen erlaubt.",
+                "hu": "Rövid megálló a zöldben; az majmok esőben gyakran az ereszek alá húzódnak, így közelről is megfigyelhetőek.",
+                "ro": "O scurtă oprire în natură; maimuțele caută adesea adăpost sub streșini când plouă, oferind ocazii bune de observare.",
+                "en": "A short stop in the lush greenery; monkeys often seek shelter under eaves during rain, allowing for great observations."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Sri Thanu",
+                "hu": "Ao Sri Thanu",
+                "ro": "Ao Sri Thanu",
+                "en": "Ao Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Die Cafés am Strand bieten überdachte Terrassen; ideal, um den Regen bei einem heißen Getränk und Meerblick abzuwarten.",
+                "hu": "A tengerparti kávézók fedett teraszokat kínálnak; ideális hely kivárni az esőt egy forró ital és a tengeri kilátás mellett.",
+                "ro": "Cafenelele de pe plajă au terase acoperite; locul ideal pentru a aștepta oprirea ploii cu o băutură caldă și vedere la mare.",
+                "en": "The beachside cafes offer covered terraces; the ideal spot to wait out the rain with a hot drink and a sea view."
+              }
+            },
+            {
+              "name": {
+                "de": "The Challenge Phangan",
+                "hu": "The Challenge Phangan",
+                "ro": "The Challenge Phangan",
+                "en": "The Challenge Phangan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund; die unbefestigten Parkplätze können bei starkem Regen schnell aufweichen und matschig werden.",
+                "hu": "Parkoljon szilárd talajon; a kiépítetlen parkolók heves esőzéskor gyorsan felázhatnak és sárossá válhatnak.",
+                "ro": "Parcați pe teren solid; parcările neamenajate se pot înmuia rapid și pot deveni noroioase în timpul ploilor abundente.",
+                "en": "Park on solid ground; the unpaved parking areas can quickly become soft and muddy during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Samma Karuna",
+                "hu": "Samma Karuna",
+                "ro": "Samma Karuna",
+                "en": "Samma Karuna"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort; die entspannte Atmosphäre passt hervorragend zum meditativen Klang des tropischen Regens.",
+                "hu": "Csendes menedékhely; a nyugodt légkör kiválóan illik a trópusi eső meditatív kopogásához a pálmatetőkön.",
+                "ro": "Un refugiu liniștit; atmosfera relaxată se potrivește de minune cu sunetul meditativ al ploii tropicale.",
+                "en": "A quiet retreat; the relaxed atmosphere fits perfectly with the meditative sound of tropical rain on the roofs."
+              }
+            },
+            {
+              "name": {
+                "de": "Bird's Nest",
+                "hu": "Bird's Nest",
+                "ro": "Bird's Nest",
+                "en": "Bird's Nest"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Allradantrieb, falls vorhanden; die schmale Zufahrt kann bei Nässe rutschig sein, fahren Sie vorsichtig.",
+                "hu": "Használja az összkerékhajtást, ha van; a keskeny feljáró vizesen csúszós lehet, vezessen fokozott figyelemmel.",
+                "ro": "Folosiți tracțiunea integrală dacă aveți; calea de acces îngustă poate fi alunecoasă pe umiditate, conduceți cu atenție.",
+                "en": "Use four-wheel drive if available; the narrow access road can be slippery when wet, so drive with extra care."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto genießen wir im Winter die Insel ohne Klimaanlagen-Dauerbetrieb. Morgens am Wat Sri Thanu ist die Luft erfrischend klar. Mittags gleiten wir bei offenem Fenster entlang der Küstenstraßen und spüren die milde Brise. Am Nachmittag erreichen wir mühelos alle Aussichtspunkte. Da es gegen 17:30 Uhr dunkel wird, planen wir unsere Fahrt so, dass wir den Sonnenuntergang bequem vom Auto aus erleben.",
+            "hu": "Télen az autóval klíma nélkül is élvezhetjük a szigetet. Reggel a Wat Sri Thanu-nál a levegő frissítően tiszta. Délben leengedett ablakokkal autózunk a parti utakon, érezve a lágy téli szellőt. Délután könnyedén elérjük az összes kilátópontot. Mivel fél hat körül sötétedik, úgy tervezzük az utat, hogy a naplementét kényelmesen, az autóból csodálhassuk meg.",
+            "ro": "Cu mașina, iarna ne bucurăm de insulă fără a folosi încontinuu aerul condiționat. Dimineața la Wat Sri Thanu, aerul este revigorant. La prânz conducem cu geamurile deschise pe drumurile de coastă, simțind briza blândă. După-amiaza ajungem ușor la toate punctele de belvedere. Deoarece se întunecă în jur de 17:30, planificăm traseul pentru a vedea apusul din mașină.",
+            "en": "In winter, we enjoy the island by car without needing the AC on full blast. In the morning at Wat Sri Thanu, the air is refreshingly clear. At noon, we glide along coastal roads with open windows, feeling the mild breeze. In the afternoon, we easily reach all the viewpoints. As it gets dark around 17:30, we plan our drive to enjoy the sunset comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Sri Thanu",
+                "hu": "Wat Sri Thanu",
+                "ro": "Wat Sri Thanu",
+                "en": "Wat Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen frühen Besuch; das sanfte Morgenlicht im Winter hebt die Farben des Tempels wunderbar hervor.",
+                "hu": "Tökéletes a korai látogatáshoz; a lágy téli reggeli fények gyönyörűen kiemelik a templom színeit és díszeit.",
+                "ro": "Perfect pentru o vizită timpurie; lumina blândă a dimineții de iarnă scoate în evidență culorile templului.",
+                "en": "Perfect for an early visit; the soft winter morning light beautifully highlights the temple's colors and ornaments."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Wok Tum",
+                "hu": "Ao Wok Tum",
+                "ro": "Ao Wok Tum",
+                "en": "Ao Wok Tum"
+              },
+              "tip_5lang": {
+                "de": "Stoppen Sie am Straßenrand für Fotos; das Wasser ist im Winter oft ruhiger und spiegelt den klaren blauen Himmel.",
+                "hu": "Álljon meg az út mentén fotózni; a víz télen gyakran nyugodtabb és gyönyörűen tükrözi a tiszta kék eget.",
+                "ro": "Opriți pe marginea drumului pentru fotografii; apa este adesea mai calmă iarna și reflectă cerul albastru clar.",
+                "en": "Stop along the roadside for photos; the water is often calmer in winter, reflecting the clear blue sky beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Hin Kong",
+                "hu": "Ao Hin Kong",
+                "ro": "Ao Hin Kong",
+                "en": "Ao Hin Kong"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Spaziergang am Ufer; die Temperaturen sind jetzt so mild, dass man die Mittagssonne genießen kann.",
+                "hu": "Ideális egy rövid sétára a parton; a hőmérséklet most olyan enyhe, hogy még a déli napsütés is kellemes.",
+                "ro": "Ideal pentru o scurtă plimbare pe mal; temperaturile sunt acum atât de blânde încât vă puteți bucura de soarele de la prânz.",
+                "en": "Ideal for a short walk along the shore; temperatures are so mild now that you can even enjoy the midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Low Tide Viewpoint",
+                "hu": "Sunset Low Tide Viewpoint",
+                "ro": "Sunset Low Tide Viewpoint",
+                "en": "Sunset Low Tide Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie kalte Getränke im Auto mit; die winterlichen Sonnenuntergänge sind hier oft besonders farbenprächtig und klar.",
+                "hu": "Vigyen magával hűtött italokat az autóban; a téli naplementék itt gyakran különösen színpompásak és tiszták.",
+                "ro": "Aduceți băuturi reci în mașină; apusurile de iarnă sunt adesea deosebit de colorate și clare în acest punct.",
+                "en": "Bring cold drinks in the car; the winter sunsets here are often especially colorful and clear, offering great views."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkeyland Resort",
+                "hu": "Monkeyland Resort",
+                "ro": "Monkeyland Resort",
+                "en": "Monkeyland Resort"
+              },
+              "tip_5lang": {
+                "de": "Die Affen sind bei diesem Wetter sehr aktiv; ein toller Stopp für Familien, da es im Schatten der Bäume nun kühl ist.",
+                "hu": "Az majmok ebben az időben nagyon aktívak; remek megálló családoknak, mivel a fák árnyékában most kellemesen hűvös van.",
+                "ro": "Maimuțele sunt foarte active pe această vreme; o oprire excelentă pentru familii, fiind răcoare la umbra copacilor.",
+                "en": "The monkeys are very active in this weather; a great stop for families as it's now pleasantly cool in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Sri Thanu",
+                "hu": "Ao Sri Thanu",
+                "ro": "Ao Sri Thanu",
+                "en": "Ao Sri Thanu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter den Palmen; die Wintersonne ist weniger intensiv, was lange Aufenthalte am Strand sehr angenehm macht.",
+                "hu": "Parkoljon a pálmák alatt; a téli nap kevésbé éget, így a tengerparti tartózkodás sokkal élvezetesebb és pihentetőbb.",
+                "ro": "Parcați sub palmieri; soarele de iarnă este mai puțin intens, ceea ce face șederea pe plajă mult mai plăcută.",
+                "en": "Park under the palms; the winter sun is less intense, making long stays on the beach much more enjoyable and relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "The Challenge Phangan",
+                "hu": "The Challenge Phangan",
+                "ro": "The Challenge Phangan",
+                "en": "The Challenge Phangan"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen späten Mittagssnack; das Licht am See ist am Nachmittag im Winter besonders sanft und fotogen.",
+                "hu": "Tökéletes hely egy késő délelőtti snackre; a tó feletti fények téli délutánokon különösen lágyak és fotogének.",
+                "ro": "Perfect pentru o gustare târzie; lumina de deasupra lacului este deosebit de blândă și fotogenică după-amiaza.",
+                "en": "Perfect for a late lunch or snack; the light over the lake is especially soft and photogenic on winter afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "Samma Karuna",
+                "hu": "Samma Karuna",
+                "ro": "Samma Karuna",
+                "en": "Samma Karuna"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehmen Temperaturen für einen Yoga-Kurs; die Winterluft sorgt für eine besonders klare Atmosphäre.",
+                "hu": "Használja ki a kellemes hőmérsékletet egy jógaórához; a téli levegő különösen tiszta és frissítő energiát ad.",
+                "ro": "Profită de temperaturile plăcute pentru o clasă de yoga; aerul de iarnă oferă o atmosferă deosebit de clară.",
+                "en": "Take advantage of the pleasant temperatures for a yoga class; the winter air provides a particularly clear atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Bird's Nest",
+                "hu": "Bird's Nest",
+                "ro": "Bird's Nest",
+                "en": "Bird's Nest"
+              },
+              "tip_5lang": {
+                "de": "Die beste Zeit für diesen Aussichtspunkt; im Winter hat man oft die beste Fernsicht bis zu den Nachbarinseln.",
+                "hu": "A legjobb időszak ennek a kilátónak a meglátogatására; télen gyakran ellátni egészen a szomszédos szigetekig is.",
+                "ro": "Cea mai bună perioadă pentru acest punct de belvedere; iarna aveți adesea cea mai bună vizibilitate până la insulele vecine.",
+                "en": "The best time to visit this viewpoint; in winter, you often have the best long-distance visibility to neighboring islands."
+              }
+            }
+          ]
         }
       }
     }

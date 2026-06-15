@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot Capileira magaslati szépségében elmerülve, a fenséges Sierra Nevada csúcsaira néző látványos kilátóknál. Hagyja, hogy a ropogós hegyi levegő energiával töltse fel, ahogy fokozatosan áttér a falu történelmi és hangulatos központjába.\nAhogy közeledik a dél, merüljön el az Alpujarras gazdag irodalmi és építészeti örökségében. Fedezze fel a szűk, fehérre meszelt utcákat, ahol a hagyományos múzeumok és a megőrzött helyi házak a múlt generációinak lenyűgöző történeteit mesélik el.\nA délután arra csábít, hogy tovább vándoroljon dél felé a festői Poqueira-szurdokban, az ősi helyi kereskedelmi útvonalak nyomdokaiba lépve. Szánjon időt a kulturális központok és az autentikus vidéki lakóhelyek alapos és kényelmes megtekintésére.\nFejezze be felfedezőútját a frissítő történelmi kutak és a nyugodt völgyre néző kilátók közelében, ahogy a nap egyre lejjebb ereszkedik. A halványuló fény varázslatos ragyogást vet a hagyományos kéményekre, tökéletes és békés lezárást nyújtva.",
         "ro": "Începeți-vă ziua cufundat în frumusețea la mare altitudine din Capileira, pornind de la punctele de belvedere spectaculoase cu vedere la munții Sierra Nevada. Lăsați aerul proaspăt de munte să vă energizeze pe măsură ce intrați în inima istorică.\nOdată cu apropierea prânzului, pătrundeți în bogata moștenire literară și arhitecturală a regiunii Alpujarras. Explorați străzile înguste și albe, unde muzeele tradiționale și casele locale conservate spun poveștile fascinante ale generațiilor trecute.\nDupă-amiaza vă invită să rătăciți mai departe spre sud, în pitorescul defileu Poqueira, urmând pașii rutelor comerciale antice. Alocați-vă timp pentru a vizita centre culturale și locuințe rurale autentice care prezintă viața de munte tradițională.\nÎncheiați-vă explorarea lângă fântânile istorice răcoritoare și punctele de belvedere senine pe măsură ce soarele coboară. Lumina care apune aruncă o strălucire magică peste hornurile tradiționale, oferind un final perfect și liniștit călătoriei.",
         "en": "Begin your day immersed in the high-altitude beauty of Capileira, starting at the spectacular viewpoints overlooking the majestic Sierra Nevada peaks. Let the crisp mountain air energize your morning as you transition into the village's historic heart.\nAs midday approaches, delve into the rich literary and architectural heritage of the Alpujarras. Explore the narrow, whitewashed streets, where traditional museums and preserved local houses tell the fascinating stories of past generations.\nThe afternoon invites you to wander further south down the scenic Poqueira Gorge, tracing the steps of ancient local trade routes. Take your time visiting cultural centers and authentic rural dwellings that showcase rural mountain life.\nConclude your exploration near the refreshing historic fountains and serene valley overlooks as the sun dips lower. The fading light casts a magical glow over the traditional chimneys, offering a perfect, tranquil end to your mountain journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nebligen Morgen in wasserfester Kleidung und bewundern Sie die dramatischen Wolken. Suchen Sie mittags Schutz in den lokalen Museen und Kulturhäusern, um sich aufzuwärmen. Der Nachmittagsspaziergang erfordert Vorsicht auf den rutschigen Pflastersteinen. Beenden Sie den Tag am historischen Brunnen, während der Regen fällt.",
+            "hu": "Kezdje a ködös reggelt vízálló ruházatban, megcsodálva a drámai felhőket a kilátókból. Délben keressen menedéket a helyi múzeumokban és a kultúrházban, hogy megszáradjon. A délutáni séta a nedves macskaköveken óvatosságot igényel. Zárja a napot a történelmi kútnál, hallgatva az esőt, mielőtt egy meleg helyre ülne.",
+            "ro": "Începeți dimineața cețoasă în haine impermeabile, admirând norii dramatici de la punctele de belvedere. La prânz, adăpostiți-vă în muzeele locale și casele de cultură pentru a vă usca. Plimbarea de după-amiază necesită prudență pe piatra cubică alunecoasă. Încheiați ziua ascultând ploaia la fântâna istorică înainte de a găsi un loc cald.",
+            "en": "Start your misty morning wrapped in waterproofs, admiring the dramatic clouds from the viewpoints. By midday, take shelter in the local museums and cultural houses to dry off. The afternoon walk between museums requires caution on slippery cobblestones. End the day listening to the rain at the historic fountain before finding a cozy spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Veleta y Mulhacén",
+                "hu": "Mirador Veleta y Mulhacén",
+                "ro": "Mirador Veleta y Mulhacén",
+                "en": "Mirador Veleta y Mulhacén"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die höchsten, in mystische Wolken gehüllten Gipfel; tragen Sie feste Schuhe, da der Aussichtspunkt schlammig wird.",
+                "hu": "Nézze meg a misztikus felhőkbe burkolózó legmagasabb csúcsokat; viseljen stabil cipőt, mert a kilátó saras lehet.",
+                "ro": "Vedeți cele mai înalte vârfuri ascunse parțial în nori mistici; purtați bocanci solizi, deoarece zona devine noroioasă.",
+                "en": "See the highest peaks partially hidden in mystical clouds; wear sturdy boots as the observation area gets muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Espeñuelas",
+                "hu": "Mirador de las Espeñuelas",
+                "ro": "Mirador de las Espeñuelas",
+                "en": "Mirador de las Espeñuelas"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt die tiefgrünen Farbtöne der Poqueira-Schlucht; halten Sie Ihren Regenschirm für plötzliche Schauer bereit.",
+                "hu": "Az eső kiemeli a Poqueira-szurdok mélyzöld árnyalatait; tartsa kéznél az esernyőjét a hirtelen záporok miatt.",
+                "ro": "Ploaia accentuează nuanțele de verde smarald ale defileului Poqueira; țineți umbrela la îndemână pentru averse.",
+                "en": "The rain enhances the deep green hues of the Poqueira gorge below; keep your umbrella handy for sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Pedro Antonio de Alarcon",
+                "hu": "Casa Museo Pedro Antonio de Alarcon",
+                "ro": "Casa Museo Pedro Antonio de Alarcon",
+                "en": "Casa Museo Pedro Antonio de Alarcon"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen im Haus dieses faszinierenden Autors; ein perfekter, trockener Rückzugsort.",
+                "hu": "Meneküljön az eső elől ebbe a lenyűgöző írói házba; tökéletes száraz menedék a helyi irodalom megismeréséhez.",
+                "ro": "Scăpați de ploaie în casa acestui autor fascinant; este un refugiu uscat perfect pentru a descoperi literatura locală.",
+                "en": "Escape the rain inside this fascinating author's house; it's a perfect dry retreat to learn about local literature."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Perchel",
+                "hu": "Mirador del Perchel",
+                "ro": "Mirador del Perchel",
+                "en": "Mirador del Perchel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die regenglänzenden flachen Dächer des Dorfes; achten Sie auf Ihre Schritte auf dem nassen Zugangsweg.",
+                "hu": "Csodálja meg a falu esőtől csillogó lapos tetőit; ügyeljen a lépéseire a kilátóhoz vezető nedves ösvényen.",
+                "ro": "Admirați acoperișurile plate ale satului strălucind în ploaie; fiți atenți la pași pe poteca umedă de acces.",
+                "en": "Admire the village's flat roofs shining with rain; watch your footing on the wet approach path to this viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie lokale Kunst in diesem gemütlichen Kulturzentrum; ein großartiger Ort, um starke Schauer abzuwarten.",
+                "hu": "Fedezze fel a helyi művészetet ebben a hangulatos kulturális központban; nagyszerű hely a heves záporok átvészelésére.",
+                "ro": "Descoperiți arta locală în acest centru cultural primitor; un loc excelent pentru a aștepta trecerea averselor puternice.",
+                "en": "Discover local art and exhibitions in this cozy cultural hub; a great spot to wait out passing heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa Alpujarreña",
+                "hu": "Museo Casa Alpujarreña",
+                "ro": "Museo Casa Alpujarreña",
+                "en": "Museo Casa Alpujarreña"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die ethnografische Geschichte ein und bleiben Sie trocken; lassen Sie nasse Ausrüstung im Eingangsbereich.",
+                "hu": "Merüljön el a néprajzi történelemben, miközben teljesen száraz marad; hagyja a nedves felszerelést a bejáratnál.",
+                "ro": "Aprofundați istoria etnografică rămânând complet uscat; lăsați echipamentul ud la intrare pentru a proteja artefactele.",
+                "en": "Dive into ethnographic history while staying perfectly dry; leave wet gear in the entrance to preserve the artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente de San Antonio",
+                "hu": "Fuente de San Antonio",
+                "ro": "Fuente de San Antonio",
+                "en": "Fuente de San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Der historische Brunnen fließt bei nassem Wetter wunderschön über; navigieren Sie vorsichtig auf den rutschigen Pflastersteinen.",
+                "hu": "A történelmi kút gyönyörűen túlcsordul csapadékos időben; óvatosan közlekedjen a körülötte lévő csúszós macskaköveken.",
+                "ro": "Fântâna istorică se revarsă frumos pe vreme umedă; navigați cu grijă pe pietrele cubice alunecoase din jurul ei.",
+                "en": "The historic fountain overflows beautifully during wet weather; carefully navigate the slick cobblestones around it."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den klaren Morgen in warmen Schichten und blicken Sie auf die schneebedeckten Gipfel. Verbringen Sie die Mittagszeit damit, die Geschichte in den beheizten Museen zu erkunden. Der Nachmittag bringt schönes, tief stehendes Sonnenlicht. Beenden Sie die Tour bis 17:00 Uhr am Brunnen, bevor der frühe Sonnenuntergang eiskalte Temperaturen bringt.",
+            "hu": "Élvezze a friss reggelt meleg rétegekben, megcsodálva a hófödte hegycsúcsokat a kilátókból. A telet töltse a fűtött múzeumok gazdag történelmének felfedezésével. A délután gyönyörű, lapos szögű napfényt hoz, amely ideális fotózáshoz. Fejezze be a túrát 17:00 órára a kútnál, mielőtt a korai sötétedés fagyos hegyi hőmérsékletet hozna.",
+            "ro": "Bucurați-vă de o dimineață proaspătă în haine groase, admirând vârfurile înzăpezite de la belvederi. Petreceți prânzul explorând istoria în muzeele locale încălzite. După-amiaza aduce o lumină solară superbă, perfectă pentru fotografii. Terminați până la 17:00 la fântână, înainte ca apusul timpuriu să aducă temperaturi montane înghețate.",
+            "en": "Enjoy a crisp morning wrapped in warm layers, taking in the snow-capped mountain peaks from the lookouts. Spend midday exploring the rich history inside the heated local museums. The afternoon brings beautiful low-angle sunlight, perfect for photography. Finish by 17:00 at the fountain before the early sunset brings freezing mountain temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Veleta y Mulhacén",
+                "hu": "Mirador Veleta y Mulhacén",
+                "ro": "Mirador Veleta y Mulhacén",
+                "en": "Mirador Veleta y Mulhacén"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den schneebedeckten Gipfel des Mulhacén; tragen Sie Thermokleidung gegen den beißenden Wind.",
+                "hu": "Csodálja meg a téli napsütésben csillogó hófödte Mulhacén csúcsot; viseljen termo rétegeket a metsző szél ellen.",
+                "ro": "Admirați vârful înzăpezit Mulhacén strălucind în soarele de iarnă; purtați straturi termice împotriva vântului tăios.",
+                "en": "Marvel at the snow-capped Mulhacén peak glistening in the winter sun; wear thermal layers against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Espeñuelas",
+                "hu": "Mirador de las Espeñuelas",
+                "ro": "Mirador de las Espeñuelas",
+                "en": "Mirador de las Espeñuelas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Aussicht auf das Tal; achten Sie auf Ihre Schritte, da die Steinwege morgens eisig sein können.",
+                "hu": "Élvezze a tiszta, tágas kilátást a völgyre; vigyázzon a lépéseire, mert a kőösvények reggelente jegesek lehetnek.",
+                "ro": "Bucurați-vă de priveliști clare și extinse asupra văii; fiți atenți unde călcați, deoarece cărările de piatră pot fi înghețate.",
+                "en": "Enjoy crisp, expansive views of the valley; watch your step as the stone pathways here can be icy in the mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Pedro Antonio de Alarcon",
+                "hu": "Casa Museo Pedro Antonio de Alarcon",
+                "ro": "Casa Museo Pedro Antonio de Alarcon",
+                "en": "Casa Museo Pedro Antonio de Alarcon"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen auf und erkunden Sie das traditionelle Leben; die dicken Wände bieten hervorragende Isolierung.",
+                "hu": "Melegedjen fel bent, miközben felfedezi a hagyományos alpujarrai életet; a vastag falak kiváló szigetelést nyújtanak.",
+                "ro": "Încălziți-vă înăuntru în timp ce explorați viața tradițională din Alpujarra; zidurile groase oferă o izolație excelentă.",
+                "en": "Warm up indoors while exploring traditional Alpujarran life; the thick walls provide excellent insulation from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Perchel",
+                "hu": "Mirador del Perchel",
+                "ro": "Mirador del Perchel",
+                "en": "Mirador del Perchel"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Rauch aus den Schornsteinen gegen den Winterhimmel aufsteigen; eine Windjacke ist hier unerlässlich.",
+                "hu": "Figyelje meg a falu kéményeiből felszálló füstöt a téli égbolton; egy széldzseki elengedhetetlen itt délután.",
+                "ro": "Observați fumul ridicându-se din hornurile satului pe cerul de iarnă; o geacă de vânt este esențială aici după-amiaza.",
+                "en": "See the smoke rising from village chimneys against the winter sky; a windbreaker is essential here in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie kulturelle Veranstaltungen drinnen abseits der Bergkälte; der beheizte Innenraum ist ideal für den Mittag.",
+                "hu": "Élvezze a benti kulturális eseményeket távol a hegyi hidegtől; a fűtött belső tér kényelmes déli megállót biztosít.",
+                "ro": "Bucurați-vă de evenimente culturale interioare departe de frigul montan; interiorul încălzit îl face o oprire confortabilă.",
+                "en": "Enjoy indoor cultural events away from the mountain chill; the heated interior makes it a comfortable midday stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa Alpujarreña",
+                "hu": "Museo Casa Alpujarreña",
+                "ro": "Museo Casa Alpujarreña",
+                "en": "Museo Casa Alpujarreña"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie alte Webstühle in einer gemütlichen Umgebung und entfliehen Sie den sinkenden Temperaturen am späten Nachmittag.",
+                "hu": "Fedezze fel az ősi szövőszékeket barátságos környezetben, elmenekülve a kinti csökkenő késő délutáni hőmérséklet elől.",
+                "ro": "Explorați războaie de țesut antice într-un mediu primitor; scăpând de temperaturile exterioare care scad rapid.",
+                "en": "Explore ancient weaving looms in a cozy environment; escaping the dropping late-afternoon temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente de San Antonio",
+                "hu": "Fuente de San Antonio",
+                "ro": "Fuente de San Antonio",
+                "en": "Fuente de San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie das Wasser des Brunnens wunderschöne Eisformationen bildet; besuchen Sie ihn vor 17:00 Uhr wegen der Dunkelheit.",
+                "hu": "Nézze meg, ahogy a kút vize gyönyörű jégképződményeket alkot; látogasson el 17:00 előtt a korai sötétedés miatt.",
+                "ro": "Vedeți apa fântânii creând formațiuni de gheață frumoase; vizitați înainte de 17:00 deoarece se întunecă rapid iarna.",
+                "en": "See the fountain's waters creating beautiful ice formations; visit before 17:00 as darkness falls rapidly in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kezdje a napot Capileira magaslati szépségében elmerülve, a fenséges Sierra Nevada csúcsaira néző látványos kilátóknál. Hagyja, hogy a ropogós hegyi levegő energiával töltse fel, ahogy fokozatosan áttér a falu történelmi és hangulatos központjába.\nAhogy közeledik a dél, merüljön el az Alpujarras gazdag irodalmi és építészeti örökségében. Fedezze fel a szűk, fehérre meszelt utcákat, ahol a hagyományos múzeumok és a megőrzött helyi házak a múlt generációinak lenyűgöző történeteit mesélik el.\nA délután arra csábít, hogy tovább vándoroljon dél felé a festői Poqueira-szurdokban, az ősi helyi kereskedelmi útvonalak nyomdokaiba lépve. Szánjon időt a kulturális központok és az autentikus vidéki lakóhelyek alapos és kényelmes megtekintésére.\nFejezze be felfedezőútját a frissítő történelmi kutak és a nyugodt völgyre néző kilátók közelében, ahogy a nap egyre lejjebb ereszkedik. A halványuló fény varázslatos ragyogást vet a hagyományos kéményekre, tökéletes és békés lezárást nyújtva.",
         "ro": "Începeți-vă ziua cufundat în frumusețea la mare altitudine din Capileira, pornind de la punctele de belvedere spectaculoase cu vedere la munții Sierra Nevada. Lăsați aerul proaspăt de munte să vă energizeze pe măsură ce intrați în inima istorică.\nOdată cu apropierea prânzului, pătrundeți în bogata moștenire literară și arhitecturală a regiunii Alpujarras. Explorați străzile înguste și albe, unde muzeele tradiționale și casele locale conservate spun poveștile fascinante ale generațiilor trecute.\nDupă-amiaza vă invită să rătăciți mai departe spre sud, în pitorescul defileu Poqueira, urmând pașii rutelor comerciale antice. Alocați-vă timp pentru a vizita centre culturale și locuințe rurale autentice care prezintă viața de munte tradițională.\nÎncheiați-vă explorarea lângă fântânile istorice răcoritoare și punctele de belvedere senine pe măsură ce soarele coboară. Lumina care apune aruncă o strălucire magică peste hornurile tradiționale, oferind un final perfect și liniștit călătoriei.",
         "en": "Begin your day immersed in the high-altitude beauty of Capileira, starting at the spectacular viewpoints overlooking the majestic Sierra Nevada peaks. Let the crisp mountain air energize your morning as you transition into the village's historic heart.\nAs midday approaches, delve into the rich literary and architectural heritage of the Alpujarras. Explore the narrow, whitewashed streets, where traditional museums and preserved local houses tell the fascinating stories of past generations.\nThe afternoon invites you to wander further south down the scenic Poqueira Gorge, tracing the steps of ancient local trade routes. Take your time visiting cultural centers and authentic rural dwellings that showcase rural mountain life.\nConclude your exploration near the refreshing historic fountains and serene valley overlooks as the sun dips lower. The fading light casts a magical glow over the traditional chimneys, offering a perfect, tranquil end to your mountain journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch den nebligen Morgen in heller, wasserdichter Kleidung. Nutzen Sie die Mittagszeit, um sich in den Museen aufzuwärmen. Das Fahren am Nachmittag erfordert auf den nassen, steilen Bergstraßen extreme Vorsicht. Beenden Sie Ihre feuchte Fahrt sicher, bevor die Dämmerung hereinbricht.",
+            "hu": "Óvatosan tekerjen a ködös reggelen, viseljen élénk, vízálló ruhát a láthatóság érdekében. Délben melegedjen fel a múzeumokban, amíg a kerékpárja kint pihen. A délutáni kerékpározás különös figyelmet igényel a nedves, meredek hegyi utakon. Fejezze be a nedves utat biztonságosan még szürkület előtt.",
+            "ro": "Bicicliți cu grijă în dimineața cețoasă, purtând echipament impermeabil și luminos. Folosiți prânzul pentru a vă încălzi în muzee în timp ce bicicleta se odihnește afară. Mersul de după-amiază necesită prudență maximă pe drumurile montane umede. Încheiați călătoria umedă în siguranță înainte de lăsarea întunericului.",
+            "en": "Cycle carefully through the misty morning, wearing bright, waterproof gear for visibility. Use midday to warm up inside the museums while your bike rests in the rain. Afternoon riding requires extreme caution on the wet, steep mountain roads. Conclude your damp ride safely before dusk sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Veleta y Mulhacén",
+                "hu": "Mirador Veleta y Mulhacén",
+                "ro": "Mirador Veleta y Mulhacén",
+                "en": "Mirador Veleta y Mulhacén"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die höchsten, in mystische Wolken gehüllten Gipfel; tragen Sie feste Schuhe, da der Aussichtspunkt schlammig wird.",
+                "hu": "Nézze meg a misztikus felhőkbe burkolózó legmagasabb csúcsokat; viseljen stabil cipőt, mert a kilátó saras lehet.",
+                "ro": "Vedeți cele mai înalte vârfuri ascunse parțial în nori mistici; purtați bocanci solizi, deoarece zona devine noroioasă.",
+                "en": "See the highest peaks partially hidden in mystical clouds; wear sturdy boots as the observation area gets muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Espeñuelas",
+                "hu": "Mirador de las Espeñuelas",
+                "ro": "Mirador de las Espeñuelas",
+                "en": "Mirador de las Espeñuelas"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt die tiefgrünen Farbtöne der Poqueira-Schlucht; halten Sie Ihren Regenschirm für plötzliche Schauer bereit.",
+                "hu": "Az eső kiemeli a Poqueira-szurdok mélyzöld árnyalatait; tartsa kéznél az esernyőjét a hirtelen záporok miatt.",
+                "ro": "Ploaia accentuează nuanțele de verde smarald ale defileului Poqueira; țineți umbrela la îndemână pentru averse.",
+                "en": "The rain enhances the deep green hues of the Poqueira gorge below; keep your umbrella handy for sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Tajo del Diablo",
+                "hu": "Mirador Tajo del Diablo",
+                "ro": "Mirador Tajo del Diablo",
+                "en": "Mirador Tajo del Diablo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den dramatischen Nebel in den tiefen Schluchten; halten Sie einen sicheren Abstand zur rutschigen Kante.",
+                "hu": "Figyelje, ahogy a drámai köd beszivárog a mély szakadékokba; tartson biztonságos távolságot a csúszós peremtől.",
+                "ro": "Priviți cum ceața dramatică se rostogolește în râpele adânci; păstrați o distanță sigură de marginea alunecoasă.",
+                "en": "Watch the dramatic mist roll into the deep ravines; maintain a safe distance from the slippery ledge while viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Pedro Antonio de Alarcon",
+                "hu": "Casa Museo Pedro Antonio de Alarcon",
+                "ro": "Casa Museo Pedro Antonio de Alarcon",
+                "en": "Casa Museo Pedro Antonio de Alarcon"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen im Haus dieses faszinierenden Autors; ein perfekter, trockener Rückzugsort.",
+                "hu": "Meneküljön az eső elől ebbe a lenyűgöző írói házba; tökéletes száraz menedék a helyi irodalom megismeréséhez.",
+                "ro": "Scăpați de ploaie în casa acestui autor fascinant; este un refugiu uscat perfect pentru a descoperi literatura locală.",
+                "en": "Escape the rain inside this fascinating author's house; it's a perfect dry retreat to learn about local literature."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Perchel",
+                "hu": "Mirador del Perchel",
+                "ro": "Mirador del Perchel",
+                "en": "Mirador del Perchel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die regenglänzenden flachen Dächer des Dorfes; achten Sie auf Ihre Schritte auf dem nassen Zugangsweg.",
+                "hu": "Csodálja meg a falu esőtől csillogó lapos tetőit; ügyeljen a lépéseire a kilátóhoz vezető nedves ösvényen.",
+                "ro": "Admirați acoperișurile plate ale satului strălucind în ploaie; fiți atenți la pași pe poteca umedă de acces.",
+                "en": "Admire the village's flat roofs shining with rain; watch your footing on the wet approach path to this viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie lokale Kunst in diesem gemütlichen Kulturzentrum; ein großartiger Ort, um starke Schauer abzuwarten.",
+                "hu": "Fedezze fel a helyi művészetet ebben a hangulatos kulturális központban; nagyszerű hely a heves záporok átvészelésére.",
+                "ro": "Descoperiți arta locală în acest centru cultural primitor; un loc excelent pentru a aștepta trecerea averselor puternice.",
+                "en": "Discover local art and exhibitions in this cozy cultural hub; a great spot to wait out passing heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa Alpujarreña",
+                "hu": "Museo Casa Alpujarreña",
+                "ro": "Museo Casa Alpujarreña",
+                "en": "Museo Casa Alpujarreña"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die ethnografische Geschichte ein und bleiben Sie trocken; lassen Sie nasse Ausrüstung im Eingangsbereich.",
+                "hu": "Merüljön el a néprajzi történelemben, miközben teljesen száraz marad; hagyja a nedves felszerelést a bejáratnál.",
+                "ro": "Aprofundați istoria etnografică rămânând complet uscat; lăsați echipamentul ud la intrare pentru a proteja artefactele.",
+                "en": "Dive into ethnographic history while staying perfectly dry; leave wet gear in the entrance to preserve the artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente de San Antonio",
+                "hu": "Fuente de San Antonio",
+                "ro": "Fuente de San Antonio",
+                "en": "Fuente de San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Der historische Brunnen fließt bei nassem Wetter wunderschön über; navigieren Sie vorsichtig auf den rutschigen Pflastersteinen.",
+                "hu": "A történelmi kút gyönyörűen túlcsordul csapadékos időben; óvatosan közlekedjen a körülötte lévő csúszós macskaköveken.",
+                "ro": "Fântâna istorică se revarsă frumos pe vreme umedă; navigați cu grijă pe pietrele cubice alunecoase din jurul ei.",
+                "en": "The historic fountain overflows beautifully during wet weather; carefully navigate the slick cobblestones around it."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für die eisige Morgenfahrt warm ein und genießen Sie die klare Sicht auf die Gipfel. Mittags können Sie sich beim Besuch der kulturellen Innenstationen aufwärmen. Das Radfahren am Nachmittag ist schön, erfordert aber Vorsicht vor Eisflächen. Beenden Sie Ihre Route bis 17:00 Uhr, bevor die Temperatur stark fällt.",
+            "hu": "Öltözzön fel melegen a fagyos reggeli kerékpározáshoz, élvezve a friss levegőt és a hegycsúcsok látványát. Délben olvadozzon ki a kulturális benti megállók felfedezése közben. A délutáni tekerés gyönyörű, de ügyeljen a jeges foltokra. Fejezze be az utat 17:00 órára, mielőtt a hőmérséklet hirtelen lecsökkenne.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală înghețată, bucurându-vă de aerul curat. Prânzul oferă o șansă de a vă dezgheța explorând atracțiile culturale interioare. Ciclismul de după-amiază este frumos, dar necesită atenție la porțiunile înghețate. Terminați traseul până la 17:00 înainte ca temperatura să scadă brusc.",
+            "en": "Bundle up for a freezing morning ride, enjoying the crisp air and clear views of the high peaks. Midday offers a chance to thaw out while exploring the cultural indoor stops. Afternoon cycling is beautiful but requires watching out for icy patches. Finish your route by 17:00 before the temperature drops sharply."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Veleta y Mulhacén",
+                "hu": "Mirador Veleta y Mulhacén",
+                "ro": "Mirador Veleta y Mulhacén",
+                "en": "Mirador Veleta y Mulhacén"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den schneebedeckten Gipfel des Mulhacén; tragen Sie Thermokleidung gegen den beißenden Wind.",
+                "hu": "Csodálja meg a téli napsütésben csillogó hófödte Mulhacén csúcsot; viseljen termo rétegeket a metsző szél ellen.",
+                "ro": "Admirați vârful înzăpezit Mulhacén strălucind în soarele de iarnă; purtați straturi termice împotriva vântului tăios.",
+                "en": "Marvel at the snow-capped Mulhacén peak glistening in the winter sun; wear thermal layers against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Espeñuelas",
+                "hu": "Mirador de las Espeñuelas",
+                "ro": "Mirador de las Espeñuelas",
+                "en": "Mirador de las Espeñuelas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Aussicht auf das Tal; achten Sie auf Ihre Schritte, da die Steinwege morgens eisig sein können.",
+                "hu": "Élvezze a tiszta, tágas kilátást a völgyre; vigyázzon a lépéseire, mert a kőösvények reggelente jegesek lehetnek.",
+                "ro": "Bucurați-vă de priveliști clare și extinse asupra văii; fiți atenți unde călcați, deoarece cărările de piatră pot fi înghețate.",
+                "en": "Enjoy crisp, expansive views of the valley; watch your step as the stone pathways here can be icy in the mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Tajo del Diablo",
+                "hu": "Mirador Tajo del Diablo",
+                "ro": "Mirador Tajo del Diablo",
+                "en": "Mirador Tajo del Diablo"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht auf die Teufelsschlucht; nehmen Sie eine heiße Thermoskanne mit.",
+                "hu": "A kopár téli fák akadálytalan kilátást nyújtanak az ördög szurdokára; vigyen magával forró termoszt, hogy felmelegedjen.",
+                "ro": "Copacii goi de iarnă oferă o vedere neobstrucționată asupra defileului diavolului; luați un termos fierbinte pentru a vă încălzi.",
+                "en": "The barren winter trees offer unobstructed views of the devil's gorge; pack a hot thermos to warm up your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Pedro Antonio de Alarcon",
+                "hu": "Casa Museo Pedro Antonio de Alarcon",
+                "ro": "Casa Museo Pedro Antonio de Alarcon",
+                "en": "Casa Museo Pedro Antonio de Alarcon"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen auf und erkunden Sie das traditionelle Leben; die dicken Wände bieten hervorragende Isolierung.",
+                "hu": "Melegedjen fel bent, miközben felfedezi a hagyományos alpujarrai életet; a vastag falak kiváló szigetelést nyújtanak.",
+                "ro": "Încălziți-vă înăuntru în timp ce explorați viața tradițională din Alpujarra; zidurile groase oferă o izolație excelentă.",
+                "en": "Warm up indoors while exploring traditional Alpujarran life; the thick walls provide excellent insulation from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Perchel",
+                "hu": "Mirador del Perchel",
+                "ro": "Mirador del Perchel",
+                "en": "Mirador del Perchel"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Rauch aus den Schornsteinen gegen den Winterhimmel aufsteigen; eine Windjacke ist hier unerlässlich.",
+                "hu": "Figyelje meg a falu kéményeiből felszálló füstöt a téli égbolton; egy széldzseki elengedhetetlen itt délután.",
+                "ro": "Observați fumul ridicându-se din hornurile satului pe cerul de iarnă; o geacă de vânt este esențială aici după-amiaza.",
+                "en": "See the smoke rising from village chimneys against the winter sky; a windbreaker is essential here in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie kulturelle Veranstaltungen drinnen abseits der Bergkälte; der beheizte Innenraum ist ideal für den Mittag.",
+                "hu": "Élvezze a benti kulturális eseményeket távol a hegyi hidegtől; a fűtött belső tér kényelmes déli megállót biztosít.",
+                "ro": "Bucurați-vă de evenimente culturale interioare departe de frigul montan; interiorul încălzit îl face o oprire confortabilă.",
+                "en": "Enjoy indoor cultural events away from the mountain chill; the heated interior makes it a comfortable midday stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa Alpujarreña",
+                "hu": "Museo Casa Alpujarreña",
+                "ro": "Museo Casa Alpujarreña",
+                "en": "Museo Casa Alpujarreña"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie alte Webstühle in einer gemütlichen Umgebung und entfliehen Sie den sinkenden Temperaturen am späten Nachmittag.",
+                "hu": "Fedezze fel az ősi szövőszékeket barátságos környezetben, elmenekülve a kinti csökkenő késő délutáni hőmérséklet elől.",
+                "ro": "Explorați războaie de țesut antice într-un mediu primitor; scăpând de temperaturile exterioare care scad rapid.",
+                "en": "Explore ancient weaving looms in a cozy environment; escaping the dropping late-afternoon temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente de San Antonio",
+                "hu": "Fuente de San Antonio",
+                "ro": "Fuente de San Antonio",
+                "en": "Fuente de San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie das Wasser des Brunnens wunderschöne Eisformationen bildet; besuchen Sie ihn vor 17:00 Uhr wegen der Dunkelheit.",
+                "hu": "Nézze meg, ahogy a kút vize gyönyörű jégképződményeket alkot; látogasson el 17:00 előtt a korai sötétedés miatt.",
+                "ro": "Vedeți apa fântânii creând formațiuni de gheață frumoase; vizitați înainte de 17:00 deoarece se întunecă rapid iarna.",
+                "en": "See the fountain's waters creating beautiful ice formations; visit before 17:00 as darkness falls rapidly in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -606,6 +1070,280 @@
         "hu": "Kezdje a napot Capileira magaslati szépségében elmerülve, a fenséges Sierra Nevada csúcsaira néző látványos kilátóknál. Hagyja, hogy a ropogós hegyi levegő energiával töltse fel, ahogy fokozatosan áttér a falu történelmi és hangulatos központjába.\nAhogy közeledik a dél, merüljön el az Alpujarras gazdag irodalmi és építészeti örökségében. Fedezze fel a szűk, fehérre meszelt utcákat, ahol a hagyományos múzeumok és a megőrzött helyi házak a múlt generációinak lenyűgöző történeteit mesélik el.\nA délután arra csábít, hogy tovább vándoroljon dél felé a festői Poqueira-szurdokban, az ősi helyi kereskedelmi útvonalak nyomdokaiba lépve. Szánjon időt a kulturális központok és az autentikus vidéki lakóhelyek alapos és kényelmes megtekintésére.\nFejezze be felfedezőútját a frissítő történelmi kutak és a nyugodt völgyre néző kilátók közelében, ahogy a nap egyre lejjebb ereszkedik. A halványuló fény varázslatos ragyogást vet a hagyományos kéményekre, tökéletes és békés lezárást nyújtva.",
         "ro": "Începeți-vă ziua cufundat în frumusețea la mare altitudine din Capileira, pornind de la punctele de belvedere spectaculoase cu vedere la munții Sierra Nevada. Lăsați aerul proaspăt de munte să vă energizeze pe măsură ce intrați în inima istorică.\nOdată cu apropierea prânzului, pătrundeți în bogata moștenire literară și arhitecturală a regiunii Alpujarras. Explorați străzile înguste și albe, unde muzeele tradiționale și casele locale conservate spun poveștile fascinante ale generațiilor trecute.\nDupă-amiaza vă invită să rătăciți mai departe spre sud, în pitorescul defileu Poqueira, urmând pașii rutelor comerciale antice. Alocați-vă timp pentru a vizita centre culturale și locuințe rurale autentice care prezintă viața de munte tradițională.\nÎncheiați-vă explorarea lângă fântânile istorice răcoritoare și punctele de belvedere senine pe măsură ce soarele coboară. Lumina care apune aruncă o strălucire magică peste hornurile tradiționale, oferind un final perfect și liniștit călătoriei.",
         "en": "Begin your day immersed in the high-altitude beauty of Capileira, starting at the spectacular viewpoints overlooking the majestic Sierra Nevada peaks. Let the crisp mountain air energize your morning as you transition into the village's historic heart.\nAs midday approaches, delve into the rich literary and architectural heritage of the Alpujarras. Explore the narrow, whitewashed streets, where traditional museums and preserved local houses tell the fascinating stories of past generations.\nThe afternoon invites you to wander further south down the scenic Poqueira Gorge, tracing the steps of ancient local trade routes. Take your time visiting cultural centers and authentic rural dwellings that showcase rural mountain life.\nConclude your exploration near the refreshing historic fountains and serene valley overlooks as the sun dips lower. The fading light casts a magical glow over the traditional chimneys, offering a perfect, tranquil end to your mountain journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an diesem nebligen Morgen vorsichtig; schalten Sie bei den Aussichtspunkten die Nebelscheinwerfer ein. Der Mittag ist perfekt, um in den historischen Museen Schutz zu suchen. Achten Sie nachmittags auf rutschige Kurven auf den schmalen Bergstraßen. Beenden Sie Ihre nasse Fahrt sicher, bevor der Abendnebel dichter wird.",
+            "hu": "Vezessen óvatosan ezen a ködös reggelen; használja a ködlámpákat a kilátók látogatásakor. A délidő tökéletes arra, hogy menedéket találjon a falu történelmi múzeumaiban. Délután ügyeljen a csúszós kanyarokra a keskeny hegyi utakon. Fejezze be a nedves, festői autózást biztonságosan, mielőtt az esti köd sűrűsödne.",
+            "ro": "Conduceți cu prudență în această dimineață cețoasă; folosiți farurile de ceață vizitând belvederile. Prânzul este perfect pentru a vă adăposti în muzeele istorice ale satului. După-amiaza, atenție la curbele alunecoase de pe drumurile montane înguste. Încheiați traseul umed în siguranță înainte ca ceața de seară să se îngroașe.",
+            "en": "Drive cautiously this misty morning; keep your fog lights on while visiting the spectacular viewpoints. Midday is perfect for taking shelter inside the village's historic museums. In the afternoon, watch out for slippery curves on the narrow mountain roads. Finish your wet scenic drive safely before the evening fog thickens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Veleta y Mulhacén",
+                "hu": "Mirador Veleta y Mulhacén",
+                "ro": "Mirador Veleta y Mulhacén",
+                "en": "Mirador Veleta y Mulhacén"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die höchsten, in mystische Wolken gehüllten Gipfel; tragen Sie feste Schuhe, da der Aussichtspunkt schlammig wird.",
+                "hu": "Nézze meg a misztikus felhőkbe burkolózó legmagasabb csúcsokat; viseljen stabil cipőt, mert a kilátó saras lehet.",
+                "ro": "Vedeți cele mai înalte vârfuri ascunse parțial în nori mistici; purtați bocanci solizi, deoarece zona devine noroioasă.",
+                "en": "See the highest peaks partially hidden in mystical clouds; wear sturdy boots as the observation area gets muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Espeñuelas",
+                "hu": "Mirador de las Espeñuelas",
+                "ro": "Mirador de las Espeñuelas",
+                "en": "Mirador de las Espeñuelas"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt die tiefgrünen Farbtöne der Poqueira-Schlucht; halten Sie Ihren Regenschirm für plötzliche Schauer bereit.",
+                "hu": "Az eső kiemeli a Poqueira-szurdok mélyzöld árnyalatait; tartsa kéznél az esernyőjét a hirtelen záporok miatt.",
+                "ro": "Ploaia accentuează nuanțele de verde smarald ale defileului Poqueira; țineți umbrela la îndemână pentru averse.",
+                "en": "The rain enhances the deep green hues of the Poqueira gorge below; keep your umbrella handy for sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Tajo del Diablo",
+                "hu": "Mirador Tajo del Diablo",
+                "ro": "Mirador Tajo del Diablo",
+                "en": "Mirador Tajo del Diablo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den dramatischen Nebel in den tiefen Schluchten; halten Sie einen sicheren Abstand zur rutschigen Kante.",
+                "hu": "Figyelje, ahogy a drámai köd beszivárog a mély szakadékokba; tartson biztonságos távolságot a csúszós peremtől.",
+                "ro": "Priviți cum ceața dramatică se rostogolește în râpele adânci; păstrați o distanță sigură de marginea alunecoasă.",
+                "en": "Watch the dramatic mist roll into the deep ravines; maintain a safe distance from the slippery ledge while viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Pedro Antonio de Alarcon",
+                "hu": "Casa Museo Pedro Antonio de Alarcon",
+                "ro": "Casa Museo Pedro Antonio de Alarcon",
+                "en": "Casa Museo Pedro Antonio de Alarcon"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen im Haus dieses faszinierenden Autors; ein perfekter, trockener Rückzugsort.",
+                "hu": "Meneküljön az eső elől ebbe a lenyűgöző írói házba; tökéletes száraz menedék a helyi irodalom megismeréséhez.",
+                "ro": "Scăpați de ploaie în casa acestui autor fascinant; este un refugiu uscat perfect pentru a descoperi literatura locală.",
+                "en": "Escape the rain inside this fascinating author's house; it's a perfect dry retreat to learn about local literature."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Perchel",
+                "hu": "Mirador del Perchel",
+                "ro": "Mirador del Perchel",
+                "en": "Mirador del Perchel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die regenglänzenden flachen Dächer des Dorfes; achten Sie auf Ihre Schritte auf dem nassen Zugangsweg.",
+                "hu": "Csodálja meg a falu esőtől csillogó lapos tetőit; ügyeljen a lépéseire a kilátóhoz vezető nedves ösvényen.",
+                "ro": "Admirați acoperișurile plate ale satului strălucind în ploaie; fiți atenți la pași pe poteca umedă de acces.",
+                "en": "Admire the village's flat roofs shining with rain; watch your footing on the wet approach path to this viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie lokale Kunst in diesem gemütlichen Kulturzentrum; ein großartiger Ort, um starke Schauer abzuwarten.",
+                "hu": "Fedezze fel a helyi művészetet ebben a hangulatos kulturális központban; nagyszerű hely a heves záporok átvészelésére.",
+                "ro": "Descoperiți arta locală în acest centru cultural primitor; un loc excelent pentru a aștepta trecerea averselor puternice.",
+                "en": "Discover local art and exhibitions in this cozy cultural hub; a great spot to wait out passing heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de los Tajos del Ángel",
+                "hu": "Mirador de los Tajos del Ángel",
+                "ro": "Mirador de los Tajos del Ángel",
+                "en": "Mirador de los Tajos del Ángel"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die durch Regen angeschwollenen Wasserfälle; nutzen Sie Ihr Auto als trockenen Unterstand zum Fotografieren.",
+                "hu": "Legyen szemtanúja a legutóbbi esőktől megduzzadt vízeséseknek; használja autóját száraz fedezékként a fotózáshoz.",
+                "ro": "Fiți martorii cascadelor dramatice umflate de ploaie; folosiți mașina ca adăpost uscat pentru a face fotografii.",
+                "en": "Witness the dramatic waterfalls swollen by recent rain; use your car as a dry blind for spectacular photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa Alpujarreña",
+                "hu": "Museo Casa Alpujarreña",
+                "ro": "Museo Casa Alpujarreña",
+                "en": "Museo Casa Alpujarreña"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die ethnografische Geschichte ein und bleiben Sie trocken; lassen Sie nasse Ausrüstung im Eingangsbereich.",
+                "hu": "Merüljön el a néprajzi történelemben, miközben teljesen száraz marad; hagyja a nedves felszerelést a bejáratnál.",
+                "ro": "Aprofundați istoria etnografică rămânând complet uscat; lăsați echipamentul ud la intrare pentru a proteja artefactele.",
+                "en": "Dive into ethnographic history while staying perfectly dry; leave wet gear in the entrance to preserve the artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente de San Antonio",
+                "hu": "Fuente de San Antonio",
+                "ro": "Fuente de San Antonio",
+                "en": "Fuente de San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Der historische Brunnen fließt bei nassem Wetter wunderschön über; navigieren Sie vorsichtig auf den rutschigen Pflastersteinen.",
+                "hu": "A történelmi kút gyönyörűen túlcsordul csapadékos időben; óvatosan közlekedjen a körülötte lévő csúszós macskaköveken.",
+                "ro": "Fântâna istorică se revarsă frumos pe vreme umedă; navigați cu grijă pe pietrele cubice alunecoase din jurul ei.",
+                "en": "The historic fountain overflows beautifully during wet weather; carefully navigate the slick cobblestones around it."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterfahrt früh und genießen Sie das schneebedeckte Bergpanorama aus dem warmen Auto. Verbringen Sie den Mittag in den beheizten Museen. Das Nachmittagslicht erzeugt magische Schatten auf den Gipfeln. Stellen Sie sicher, dass Sie Ihre Fahrt bis 17:00 Uhr beenden, da Bergstraßen nach Sonnenuntergang schnell vereisen.",
+            "hu": "Kezdje korán a téli autózást, élvezve a hóval borított hegyi panorámákat a meleg autóból. A délidőt töltse a fűtött múzeumok és kulturális központok felfedezésével. A délutáni fény varázslatos árnyékokat vet a csúcsokra. Fejezze be az utat 17:00 órára, mivel a hegyi utak naplemente után gyorsan lejegesedhetnek.",
+            "ro": "Începeți devreme plimbarea de iarnă, bucurându-vă de panoramele montane înzăpezite din mașina caldă. Petreceți prânzul explorând muzeele încălzite. Lumina după-amiezii creează umbre magice peste vârfuri. Asigurați-vă că finalizați traseul până la 17:00, deoarece drumurile montane pot îngheța rapid după apus.",
+            "en": "Start your winter drive early, enjoying the spectacular snow-dusted mountain panoramas from your warm car. Spend midday exploring the heated museums and cultural centers. The afternoon light creates magical shadows across the peaks. Make sure to complete your drive by 17:00, as mountain roads can quickly ice over after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Veleta y Mulhacén",
+                "hu": "Mirador Veleta y Mulhacén",
+                "ro": "Mirador Veleta y Mulhacén",
+                "en": "Mirador Veleta y Mulhacén"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den schneebedeckten Gipfel des Mulhacén; tragen Sie Thermokleidung gegen den beißenden Wind.",
+                "hu": "Csodálja meg a téli napsütésben csillogó hófödte Mulhacén csúcsot; viseljen termo rétegeket a metsző szél ellen.",
+                "ro": "Admirați vârful înzăpezit Mulhacén strălucind în soarele de iarnă; purtați straturi termice împotriva vântului tăios.",
+                "en": "Marvel at the snow-capped Mulhacén peak glistening in the winter sun; wear thermal layers against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Espeñuelas",
+                "hu": "Mirador de las Espeñuelas",
+                "ro": "Mirador de las Espeñuelas",
+                "en": "Mirador de las Espeñuelas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Aussicht auf das Tal; achten Sie auf Ihre Schritte, da die Steinwege morgens eisig sein können.",
+                "hu": "Élvezze a tiszta, tágas kilátást a völgyre; vigyázzon a lépéseire, mert a kőösvények reggelente jegesek lehetnek.",
+                "ro": "Bucurați-vă de priveliști clare și extinse asupra văii; fiți atenți unde călcați, deoarece cărările de piatră pot fi înghețate.",
+                "en": "Enjoy crisp, expansive views of the valley; watch your step as the stone pathways here can be icy in the mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Tajo del Diablo",
+                "hu": "Mirador Tajo del Diablo",
+                "ro": "Mirador Tajo del Diablo",
+                "en": "Mirador Tajo del Diablo"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht auf die Teufelsschlucht; nehmen Sie eine heiße Thermoskanne mit.",
+                "hu": "A kopár téli fák akadálytalan kilátást nyújtanak az ördög szurdokára; vigyen magával forró termoszt, hogy felmelegedjen.",
+                "ro": "Copacii goi de iarnă oferă o vedere neobstrucționată asupra defileului diavolului; luați un termos fierbinte pentru a vă încălzi.",
+                "en": "The barren winter trees offer unobstructed views of the devil's gorge; pack a hot thermos to warm up your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Pedro Antonio de Alarcon",
+                "hu": "Casa Museo Pedro Antonio de Alarcon",
+                "ro": "Casa Museo Pedro Antonio de Alarcon",
+                "en": "Casa Museo Pedro Antonio de Alarcon"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen auf und erkunden Sie das traditionelle Leben; die dicken Wände bieten hervorragende Isolierung.",
+                "hu": "Melegedjen fel bent, miközben felfedezi a hagyományos alpujarrai életet; a vastag falak kiváló szigetelést nyújtanak.",
+                "ro": "Încălziți-vă înăuntru în timp ce explorați viața tradițională din Alpujarra; zidurile groase oferă o izolație excelentă.",
+                "en": "Warm up indoors while exploring traditional Alpujarran life; the thick walls provide excellent insulation from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Perchel",
+                "hu": "Mirador del Perchel",
+                "ro": "Mirador del Perchel",
+                "en": "Mirador del Perchel"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Rauch aus den Schornsteinen gegen den Winterhimmel aufsteigen; eine Windjacke ist hier unerlässlich.",
+                "hu": "Figyelje meg a falu kéményeiből felszálló füstöt a téli égbolton; egy széldzseki elengedhetetlen itt délután.",
+                "ro": "Observați fumul ridicându-se din hornurile satului pe cerul de iarnă; o geacă de vânt este esențială aici după-amiaza.",
+                "en": "See the smoke rising from village chimneys against the winter sky; a windbreaker is essential here in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie kulturelle Veranstaltungen drinnen abseits der Bergkälte; der beheizte Innenraum ist ideal für den Mittag.",
+                "hu": "Élvezze a benti kulturális eseményeket távol a hegyi hidegtől; a fűtött belső tér kényelmes déli megállót biztosít.",
+                "ro": "Bucurați-vă de evenimente culturale interioare departe de frigul montan; interiorul încălzit îl face o oprire confortabilă.",
+                "en": "Enjoy indoor cultural events away from the mountain chill; the heated interior makes it a comfortable midday stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de los Tajos del Ángel",
+                "hu": "Mirador de los Tajos del Ángel",
+                "ro": "Mirador de los Tajos del Ángel",
+                "en": "Mirador de los Tajos del Ángel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die atemberaubende frostige Landschaft; lassen Sie die Autoheizung laufen, um die Fenster zu enteisen.",
+                "hu": "Gyönyörködjön a lélegzetelállító fagyos tájban a szurdok felett; járassa az autó fűtését az ablakok jégmentesítéséhez.",
+                "ro": "Admirați peisajul înghețat uluitor peste defileu; lăsați încălzirea mașinii pornită pentru a dezgheța geamurile.",
+                "en": "Take in the breathtaking frosty landscape over the gorge; keep the car heater running to defrost your windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa Alpujarreña",
+                "hu": "Museo Casa Alpujarreña",
+                "ro": "Museo Casa Alpujarreña",
+                "en": "Museo Casa Alpujarreña"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie alte Webstühle in einer gemütlichen Umgebung und entfliehen Sie den sinkenden Temperaturen am späten Nachmittag.",
+                "hu": "Fedezze fel az ősi szövőszékeket barátságos környezetben, elmenekülve a kinti csökkenő késő délutáni hőmérséklet elől.",
+                "ro": "Explorați războaie de țesut antice într-un mediu primitor; scăpând de temperaturile exterioare care scad rapid.",
+                "en": "Explore ancient weaving looms in a cozy environment; escaping the dropping late-afternoon temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente de San Antonio",
+                "hu": "Fuente de San Antonio",
+                "ro": "Fuente de San Antonio",
+                "en": "Fuente de San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie das Wasser des Brunnens wunderschöne Eisformationen bildet; besuchen Sie ihn vor 17:00 Uhr wegen der Dunkelheit.",
+                "hu": "Nézze meg, ahogy a kút vize gyönyörű jégképződményeket alkot; látogasson el 17:00 előtt a korai sötétedés miatt.",
+                "ro": "Vedeți apa fântânii creând formațiuni de gheață frumoase; vizitați înainte de 17:00 deoarece se întunecă rapid iarna.",
+                "en": "See the fountain's waters creating beautiful ice formations; visit before 17:00 as darkness falls rapidly in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

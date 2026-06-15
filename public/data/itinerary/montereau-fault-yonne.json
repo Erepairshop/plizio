@@ -137,6 +137,168 @@
         "hu": "A reggel egy könnyed sétával kezdődik a modern rekreációs területen, mielőtt észak felé vennénk az irányt Napóleon történelmének felfedezésére. Délben Montereau lenyűgöző középkori építészetére és a káptalantemplomra fókuszálunk. A délután folyamán elmélyedünk a régió híres kerámiagyártásában a lenyűgöző helyi múzeumban. Az este közeledtével a Parc des Noues fái alatt pihenünk meg, egy kellemes gyalogos napra visszatekintve.",
         "ro": "Dimineața începe cu o plimbare ușoară în zona modernă de recreere înainte de a merge spre nord pentru istoria lui Napoleon. La prânz, ne concentrăm pe uimitoarea arhitectură medievală de la Biserica Colegială. După-amiaza aduce o scufundare profundă în faimoasa ceramică a regiunii la fascinantul muzeu local. Seara se așterne în timp ce ne relaxăm sub bolta de copaci de la Parc des Noues, reflectând la o zi minunată pe jos.",
         "en": "Morning begins with a light stroll at the modern recreation area before walking north to uncover the grand history of Napoleon. By midday, we shift focus to Montereau's stunning medieval architecture and religious heritage at the Collegiate Church. The afternoon brings a deep dive into the region's famous earthenware at the fascinating local museum. Evening sets in as we relax under the canopy of trees at Parc des Noues, reflecting on a lovely day on foot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Christopher Nkunku Platz, wo der Asphalt bei Regen glänzt. Der Weg zur Napoleon-Statue führt durch nasse Gassen, halten Sie den Schirm fest. Mittags bieten die Kollegiatskirche und das Fayence-Museum trockenen Unterschlupf und tiefe Einblicke in die lokale Geschichte. Den Abschluss bildet ein stimmungsvoller Spaziergang durch den Parc des Noues, wo der Regen auf die Seine peitscht.",
+            "hu": "Kezdje a napot a Christopher Nkunku parkban, ahol az esőben csillogó burkolat különleges hangulatot áraszt. Sétáljon esernyővel Napóleon szobrához, majd délben keressen menedéket a monumentális társaskáptalani templomban. A délutánt töltse a kerámiamúzeum falai között, végül zárja a napot a Parc des Noues ártéri parkjában, figyelve a folyó felett gomolygó párát és a vízcseppek táncát.",
+            "ro": "Începeți ziua la zona de agrement Christopher Nkunku, unde asfaltul strălucește sub ploaie. Drumul către statuia lui Napoleon necesită o umbrelă rezistentă pe străzile umede. La prânz, biserica colegială și Muzeul de Faianță oferă adăpost uscat și o incursiune în istoria locală. Încheiați ziua cu o plimbare atmosferică prin Parc des Noues, admirând reflexiile ploii pe suprafața râului Sena.",
+            "en": "Start your day at the Christopher Nkunku area, where the wet paths glisten beautifully. Walk with an umbrella to Napoleon's statue, then find dry refuge at noon inside the majestic collegiate church. Spend the afternoon exploring the ceramics museum's treasures, and finish your walk in Parc des Noues, watching the rain create rhythmic patterns on the Yonne and Seine rivers' surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de loisirs Christopher Nkunku",
+                "hu": "Aire de loisirs Christopher Nkunku",
+                "ro": "Aire de loisirs Christopher Nkunku",
+                "en": "Aire de loisirs Christopher Nkunku"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Wege dieses modernen Sportplatzes, um Matsch zu vermeiden, und tragen Sie unbedingt wasserfeste Schuhe für den Aufenthalt im Freien.",
+                "hu": "Használja a modern sportpálya burkolt ösvényeit a sár elkerülése érdekében, és mindenképpen viseljen vízálló lábbelit a szabadban töltött idő alatt a kényelemért.",
+                "ro": "Folosiți potecile pavate ale acestui teren de sport modern pentru a evita noroiul și purtați neapărat încălțăminte impermeabilă pentru a rămâne uscat afară.",
+                "en": "Use the paved paths of this modern sports area to avoid mud, and be sure to wear waterproof shoes to stay comfortable while exploring the outdoor facilities."
+              }
+            },
+            {
+              "name": {
+                "de": "Equestrian Statue of Napoleon I",
+                "hu": "Equestrian Statue of Napoleon I",
+                "ro": "Equestrian Statue of Napoleon I",
+                "en": "Equestrian Statue of Napoleon I"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal schnell vom Brückenschutz aus; die Metalloberflächen der Statue können bei Regen stark glänzen und bieten tolle Fotomotive.",
+                "hu": "Csodálja meg az emlékművet a híd fedezékéből; a szobor fémfelületei esőben megcsillannak, ami különleges és drámai fotótémát kínál a látogatóknak a folyó felett.",
+                "ro": "Admirați monumentul rapid de la adăpostul podului; suprafețele metalice ale statuii strălucesc intens în ploaie, oferind oportunități fotografice dramatice.",
+                "en": "Admire the monument briefly from the bridge's shelter; the statue's metal surfaces glisten in the rain, providing dramatic photo opportunities over the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "hu": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "ro": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "en": "Collegiate Church of Notre-Dame-et-Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist der perfekte Ort, um dem Regen zu entfliehen; bewundern Sie das Schwert von Napoleon im Inneren, während es draußen ungemütlich ist.",
+                "hu": "Ez a templom tökéletes hely az eső elől való menekülésre; csodálja meg a bent őrzött Napóleon-kardot, miközben odakint barátságtalan az időjárás a városban.",
+                "ro": "Această biserică este locul perfect pentru a scăpa de ploaie; admirați sabia lui Napoleon păstrată în interior în timp ce afară vremea este neprietenoasă.",
+                "en": "This church is the perfect place to escape the rain; admire Napoleon's sword kept inside while staying dry and warm within the historic stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Faïence Museum",
+                "hu": "Faïence Museum",
+                "ro": "Faïence Museum",
+                "en": "Faïence Museum"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in diesem beheizten Museum und lassen Sie Ihre nassen Mäntel an der Garderobe, um die filigranen Keramiken zu genießen.",
+                "hu": "Hosszabbítsa meg tartózkodását ebben a fűtött múzeumban, és hagyja a vizes kabátokat a ruhatárban, hogy zavartalanul élvezhesse a filigrán kerámiákat.",
+                "ro": "Prelungiți vizita în acest muzeu încălzit și lăsați hainele ude la garderobă pentru a vă bucura în liniște de colecția fină de ceramică locală.",
+                "en": "Extend your stay in this heated museum and leave your wet coats at the cloakroom to fully enjoy the delicate ceramics and local history exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Noues",
+                "hu": "Parc des Noues",
+                "ro": "Parc des Noues",
+                "en": "Parc des Noues"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen, wenn ein Schauer kommt, aber meiden Sie die ufernahen Rasenflächen, da diese bei Regen sehr rutschig werden.",
+                "hu": "Keressen menedéket a nagy fák alatt, ha elered az eső, de kerülje a vízparti füves területeket, mivel azok ilyenkor rendkívül csúszóssá és sárossá válnak.",
+                "ro": "Căutați adăpost sub copacii mari dacă începe o aversă, dar evitați zonele cu iarbă de lângă apă, deoarece devin foarte alunecoase când plouă afară.",
+                "en": "Seek shelter under the large trees if a shower starts, but avoid the grassy areas near the water as they become very slippery and muddy in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Montereau im winterlichen Glanz. Der Morgen beginnt frisch am Nkunku-Platz, gefolgt von einem zügigen Marsch zur Statue. Die Kälte vertreiben Sie am besten in der Kollegiatskirche und im Fayence-Museum, wo die Geschichte wärmt. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen Sie das blaue Licht im Parc des Noues, bevor Sie sich in ein gemütliches Café zurückziehen.",
+            "hu": "Fedezze fel Montereau-t téli köntösben. A reggel frissen indul az Nkunku parkban, majd tempós séta következik Napóleon szobrához a fagyos szélben. A hideget a társaskáptalani templom és a kerámiamúzeum falai között űzheti el legkönnyebben. Mivel a nap már 17:00 körül lebukik, élvezze a kék órát a Parc des Noues-ban, mielőtt betérne egy közeli hangulatos teázóba melegedni.",
+            "ro": "Descoperiți Montereau în straie de iarnă. Dimineața începe cu aer proaspăt la parcul Nkunku, urmată de o plimbare rapidă către statuie în vântul tăios. Alungați frigul vizitând biserica colegială și Muzeul de Faianță, unde istoria vă va încălzi sufletul. Deoarece soarele apune în jur de ora 17:00, profitați de lumina albastră din Parc des Noues înainte de a vă retrage la căldură.",
+            "en": "Experience Montereau in its winter splendor. The morning starts with crisp air at Nkunku Park, followed by a brisk walk to Napoleon's statue. Beat the cold by visiting the collegiate church and the ceramics museum, where history provides a warm retreat. As the sun sets around 17:00, enjoy the blue hour in Parc des Noues before heading to a cozy local café."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de loisirs Christopher Nkunku",
+                "hu": "Aire de loisirs Christopher Nkunku",
+                "ro": "Aire de loisirs Christopher Nkunku",
+                "en": "Aire de loisirs Christopher Nkunku"
+              },
+              "tip_5lang": {
+                "de": "Die Metallgeräte können eiskalt sein; tragen Sie warme Handschuhe, wenn Sie die Fitnessgeräte nutzen oder sich auf die Bänke setzen möchten.",
+                "hu": "A fém sporteszközök jéghidegek lehetnek; viseljen meleg kesztyűt, ha használni szeretné a fitneszgépeket vagy leülne a padokra pihenni egy kicsit.",
+                "ro": "Echipamentele metalice pot fi extrem de reci; purtați mănuși groase dacă doriți să folosiți aparatele de fitness sau să vă așezați pe bănci.",
+                "en": "The metal equipment can be freezing cold; wear warm gloves if you plan to use the fitness machines or sit on the benches during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Equestrian Statue of Napoleon I",
+                "hu": "Equestrian Statue of Napoleon I",
+                "ro": "Equestrian Statue of Napoleon I",
+                "en": "Equestrian Statue of Napoleon I"
+              },
+              "tip_5lang": {
+                "de": "Auf der Brücke weht im Winter oft ein scharfer Wind; ziehen Sie sich eine winddichte Jacke an, um den Blick auf die zusammenfließenden Flüsse zu genießen.",
+                "hu": "A hídon télen gyakran fúj éles szél; vegyen fel szélálló kabátot, hogy kényelmesen élvezhesse a folyók összefolyásának látványát a szobor tövében.",
+                "ro": "Pe pod bate adesea un vânt tăios iarna; purtați o jachetă rezistentă la vânt pentru a admira confortabil panorama râurilor care se unesc aici.",
+                "en": "A sharp wind often blows across the bridge in winter; wear a windproof jacket to comfortably enjoy the view of the river confluence at the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "hu": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "ro": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "en": "Collegiate Church of Notre-Dame-et-Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; nutzen Sie die ruhige Atmosphäre für eine Besinnungspause fernab der frostigen Winterluft der Stadt.",
+                "hu": "A vastag kőfalak kint tartják a metsző hideget; használja ki a csendes légkört egy kis elcsendesedésre, távol a város fagyos téli levegőjétől.",
+                "ro": "Zidurile groase de piatră țin frigul la distanță; profitați de atmosfera liniștită pentru un moment de reculegere departe de aerul înghețat al orașului.",
+                "en": "The thick stone walls keep the biting cold out; use the quiet atmosphere for a peaceful break away from the city's freezing winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Faïence Museum",
+                "hu": "Faïence Museum",
+                "ro": "Faïence Museum",
+                "en": "Faïence Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt und bietet eine wunderbare Gelegenheit, sich aufzuwärmen, während man die feinen Details der Fayence-Sammlung studiert.",
+                "hu": "A múzeum jól fűtött, és remek alkalmat kínál a felmelegedésre, miközben alaposan áttanulmányozza a híres helyi kerámiagyűjtemény finom részleteit.",
+                "ro": "Muzeul este bine încălzit și oferă o ocazie excelentă de a vă încălzi în timp ce studiați detaliile fine ale colecției de faianță locală.",
+                "en": "The museum is well-heated and offers a great opportunity to warm up while studying the fine details of the famous local ceramics collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Noues",
+                "hu": "Parc des Noues",
+                "ro": "Parc des Noues",
+                "en": "Parc des Noues"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor 17:00 Uhr, um die Bäume im Resiflicht zu sehen; achten Sie auf glatte Wege, wenn die Temperaturen gegen Abend sinken.",
+                "hu": "Látogasson el a parkba 17:00 előtt, hogy lássa a fákat a lemenő nap fényében; ügyeljen a jeges utakra, ahogy az esti hőmérséklet hirtelen csökken.",
+                "ro": "Vizitați parcul înainte de ora 17:00 pentru a vedea copacii în lumina apusului; atenție la aleile înghețate când temperatura scade spre seară.",
+                "en": "Visit the park before 17:00 to see the trees in the sunset light; watch out for icy paths as the temperature drops quickly towards the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A reggel egy energikus pedálozással indul a nyugati peremről a Parc des Noues zöld oázisa felé. Délben kulturális üzemmódba kapcsolunk, és lezárjuk a kerékpárokat, hogy bejárjuk a lenyűgöző Kerámiamúzeumot. A délutáni tekerés a békés Saint-Martin perjelséghez vezet egy kis középkori elmélkedésre. Az este közeledtével a parancsnoki Napóleon-szoborhoz kerékpározunk, a történelmi összefolyásnál ünnepelve az út végét.",
         "ro": "Dimineața începe cu o pedalare energică de la marginea vestică spre oaza verde a parcului Parc des Noues. La prânz trecem în modul cultural, blocând bicicletele pentru a rătăci prin captivantul Muzeu al Faianței. Plimbarea de după-amiază ne duce la liniștitul Prioriu Saint-Martin pentru o notă de reflecție medievală. Seara se apropie pe măsură ce pedalăm la statuia lui Napoleon, sărbătorind sfârșitul călătoriei la confluență.",
         "en": "Morning kicks off with an energetic pedal from the western edge toward the green oasis of Parc des Noues. Midday sees us transitioning into cultural mode, locking up the bikes to wander through the captivating Faïence Museum. The afternoon ride takes us to the tranquil Saint-Martin Priory for a touch of medieval reflection. Evening approaches as we cycle to the commanding Napoleon Statue, celebrating the end of a great ride at the historic confluence."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht. Starten Sie an der Grande Garenne und nutzen Sie den Parc des Noues als schnelle Verbindung. Das Fayence-Museum ist der ideale Ort für eine längere Pause zum Trocknen. Besuchen Sie das Priorat Saint-Martin und die Napoleon-Statue zügig, da die nassen Straßen bei Bremsmanövern rutschig sein können. Ein Abenteuer für wetterfeste Radler.",
+            "hu": "Az esős biciklizés óvatosságot igényel. Kezdjen a Grande Garenne-nél, majd használja a Parc des Noues-t gyors összekötő útként. A kerámiamúzeum ideális hely egy hosszabb pihenőre, hogy megszáradjon. A Saint-Martin kolostort és a Napóleon-szobrot tempósan keresse fel, mivel a vizes utak csúszósak lehetnek a fékezésnél. Igazi kaland a legelszántabb bringásoknak.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență. Începeți la Grande Garenne și folosiți Parc des Noues ca legătură rapidă. Muzeul de Faianță este locul ideal pentru o pauză lungă de uscare. Vizitați Prioratul Saint-Martin și statuia lui Napoleon rapid, deoarece drumurile umede pot fi alunecoase la frânare. O aventură pentru bicicliști rezistenți la orice vreme.",
+            "en": "Cycling in the rain requires caution. Start at Grande Garenne and use Parc des Noues as a quick connection. The ceramics museum is the ideal spot for a long drying break. Visit the Saint-Martin Priory and Napoleon's statue efficiently, as wet roads can be slippery when braking. A true adventure for waterproof cyclists who aren't afraid of a little drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de jeux de la Grande Garenne",
+                "hu": "Aire de jeux de la Grande Garenne",
+                "ro": "Aire de jeux de la Grande Garenne",
+                "en": "Aire de jeux de la Grande Garenne"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf den nassen Wegen und nutzen Sie die überdachten Bereiche der Spielgeräte als kurzen Unterschlupf bei Schauern.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes utakon, és használja a játszótéri eszközök fedett részeit rövid menedékként egy hirtelen zivatar esetén.",
+                "ro": "Verificați frânele înainte de pornire pe aleile umede și folosiți zonele acoperite ale locului de joacă ca scurt adăpost în caz de aversă neprevăzută.",
+                "en": "Check your brakes before starting on the wet paths, and use the covered areas of the playground equipment as a brief shelter if a shower begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Noues",
+                "hu": "Parc des Noues",
+                "ro": "Parc des Noues",
+                "en": "Parc des Noues"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den asphaltierten Wegen, da nasses Laub die Kurven gefährlich glatt machen kann; halten Sie Abstand zu anderen Parkbesuchern.",
+                "hu": "Biciklizzen óvatosan az aszfaltozott utakon, mivel a vizes levelek veszélyesen csúszóssá tehetik a kanyarokat; tartson nagyobb távolságot a gyalogosoktól.",
+                "ro": "Circulați cu atenție pe aleile asfaltate, deoarece frunzele ude pot face curbele periculos de alunecoase; păstrați distanța față de ceilalți vizitatori.",
+                "en": "Ride carefully on the paved paths, as wet leaves can make corners dangerously slippery; maintain extra distance from other park visitors in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Faïence Museum",
+                "hu": "Faïence Museum",
+                "ro": "Faïence Museum",
+                "en": "Faïence Museum"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem stabilen Ständer und nutzen Sie den Besuch, um sich im Warmen gründlich abzutrocknen, bevor Sie die Tour fortsetzen.",
+                "hu": "Rögzítse kerékpárját egy stabil tárolóhoz, és használja ki a látogatást arra, hogy a melegben alaposan megszáradjon, mielőtt folytatná a városi túrát.",
+                "ro": "Asigurați bicicleta de un suport stabil și folosiți vizita pentru a vă usca bine la căldură înainte de a continua traseul prin orașul istoric.",
+                "en": "Lock your bike at a stable rack and use the visit to dry off thoroughly in the heat before continuing your tour through the historic city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Priory",
+                "hu": "Saint-Martin Priory",
+                "ro": "Saint-Martin Priory",
+                "en": "Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Priorat kann bei Nässe anstrengend sein; achten Sie auf lockere Steine auf dem Weg, die durch den Regen freigespült wurden.",
+                "hu": "A kolostorhoz vezető emelkedő megerőltető lehet nedves időben; ügyeljen az úton lévő laza kövekre, amelyeket az eső moshatott ki a talajból.",
+                "ro": "Urcarea spre priorat poate fi solicitantă pe vreme umedă; atenție la pietrele instabile de pe drum, care pot fi scoase la suprafață de ploaie.",
+                "en": "The climb to the priory can be strenuous in wet weather; watch out for loose stones on the path that might have been washed out by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Equestrian Statue of Napoleon I",
+                "hu": "Equestrian Statue of Napoleon I",
+                "ro": "Equestrian Statue of Napoleon I",
+                "en": "Equestrian Statue of Napoleon I"
+              },
+              "tip_5lang": {
+                "de": "Die Brückenoberfläche ist bei Regen extrem rutschig für Reifen; steigen Sie im Zweifel ab und schieben Sie Ihr Rad zum Denkmal für maximale Sicherheit.",
+                "hu": "A híd burkolata esőben rendkívül csúszós lehet a gumiknak; kétség esetén szálljon le és tolja a biciklit az emlékműhöz a maximális biztonságért.",
+                "ro": "Suprafața podului este extrem de alunecoasă pentru anvelope când plouă; dacă aveți dubii, coborâți și împingeți bicicleta până la monument.",
+                "en": "The bridge surface is extremely slippery for tires in the rain; if in doubt, dismount and push your bike to the monument for maximum safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biken in Montereau verlangt gute Vorbereitung. Starten Sie warm eingepackt an der Grande Garenne. Der Parc des Noues glänzt oft im Raureif, ein herrlicher Anblick. Das Fayence-Museum bietet die nötige Aufwärmpause. Beenden Sie die Tour am Priorat und der Statue zügig, da die Kälte beim Fahren durch den Fahrtwind verstärkt wird. Planen Sie das Ende vor Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli biciklizés Montereau-ban jó felkészülést igényel. Kezdjen melegen felöltözve a Grande Garenne-nél. A Parc des Noues gyakran zúzmarás fényben ragyog, ami csodálatos látvány. A kerámiamúzeum kínálja a szükséges melegedési szünetet. A túrát a kolostornál és a szobornál tempósan fejezze be, mivel a menetszél fokozza a hideget. Tervezze a befejezést a 17:00-s naplemente elé.",
+            "ro": "Ciclismul de iarnă în Montereau necesită o pregătire bună. Începeți bine îmbrăcat la Grande Garenne. Parc des Noues strălucește adesea în chiciură, o priveliște superbă. Muzeul de Faianță oferă pauza de încălzire necesară. Încheiați turul la priorat și statuie rapid, deoarece vântul intensifică senzația de frig. Planificați finalul înainte de apusul de la ora 17:00.",
+            "en": "Winter cycling in Montereau requires good preparation. Start warmly dressed at Grande Garenne. Parc des Noues often sparkles with frost, a magnificent sight. The ceramics museum provides the necessary warm-up break. Finish the tour at the priory and statue quickly, as the wind chill increases while riding. Plan to finish before the 17:00 sunset to avoid the cold dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de jeux de la Grande Garenne",
+                "hu": "Aire de jeux de la Grande Garenne",
+                "ro": "Aire de jeux de la Grande Garenne",
+                "en": "Aire de jeux de la Grande Garenne"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe im Schatten der Bäume und tragen Sie winddichte Kleidung, um den kalten Morgenwind beim Losfahren abzuwehren.",
+                "hu": "Ügyeljen a fák árnyékában lévő lefagyásokra, és viseljen szélálló ruházatot, hogy kivédje a hideg reggeli szelet az indulás pillanatától kezdve.",
+                "ro": "Atenție la porțiunile înghețate de la umbra copacilor și purtați haine rezistente la vânt pentru a face față aerului rece de dimineață la pornire.",
+                "en": "Watch out for icy patches in the shade of trees, and wear windproof clothing to ward off the cold morning breeze as you start your cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Noues",
+                "hu": "Parc des Noues",
+                "ro": "Parc des Noues",
+                "en": "Parc des Noues"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost glatt sein; fahren Sie mit geringerem Reifendruck für besseren Grip und genießen Sie den Anblick der frostigen Bäume.",
+                "hu": "A fagy miatt az utak csúszósak lehetnek; használjon kicsit alacsonyabb guminyomást a jobb tapadásért, és közben élvezze a zúzmarás fák látványát.",
+                "ro": "Aleile pot fi alunecoase din cauza înghețului; pedalați cu o presiune mai mică în pneuri pentru aderență și admirați copacii acoperiți de brumă.",
+                "en": "The paths can be slippery due to frost; ride with slightly lower tire pressure for better grip and enjoy the view of the frost-covered trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Faïence Museum",
+                "hu": "Faïence Museum",
+                "ro": "Faïence Museum",
+                "en": "Faïence Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizkörper im Museum, um Ihre klammen Finger aufzuwärmen; die warme Innenluft ist eine Wohltat nach der kühlen Fahrt durch die Stadt.",
+                "hu": "Használja a múzeum fűtőtesteit elgémberedett ujjai felmelegítésére; a meleg benti levegő valóságos áldás a városon átvezető hűvös biciklizés után.",
+                "ro": "Folosiți caloriferele din muzeu pentru a vă încălzi degetele amorțite; aerul cald din interior este o binecuvântare după tura răcoroasă prin oraș.",
+                "en": "Use the museum's radiators to warm up your numb fingers; the warm indoor air is a blessing after the chilly ride through the city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Priory",
+                "hu": "Saint-Martin Priory",
+                "ro": "Saint-Martin Priory",
+                "en": "Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Blick von hier oben besonders weit, da das Laub fehlt; ziehen Sie den Reißverschluss fest zu, wenn Sie oben im Wind stehen.",
+                "hu": "Télen a kilátás innen különösen messzire nyúlik, mivel hiányoznak a lombok; húzza fel jól a cipzárt, amikor fent áll a metsző téli szélben.",
+                "ro": "Iarna, panorama de aici este foarte vastă deoarece lipsesc frunzele; închideți bine fermoarul hainei când stați sus în vântul tăios de iarnă.",
+                "en": "In winter, the view from here is exceptionally clear as the leaves are gone; keep your jacket zipped up tight while standing in the hilltop wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Equestrian Statue of Napoleon I",
+                "hu": "Equestrian Statue of Napoleon I",
+                "ro": "Equestrian Statue of Napoleon I",
+                "en": "Equestrian Statue of Napoleon I"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stop kurz vor 17:00 Uhr ein, um die Statue im sanften Abendlicht zu sehen, bevor es schlagartig dunkel und noch kälter wird.",
+                "hu": "Ezt a megállót közvetlenül 17:00 elé tervezze, hogy lássa a szobrot a lágy alkonyi fényben, mielőtt hirtelen besötétedik és még hidegebb lesz.",
+                "ro": "Planificați această oprire chiar înainte de ora 17:00 pentru a vedea statuia în lumina blândă a serii, înainte de a se întuneca brusc și a se răci.",
+                "en": "Plan this stop just before 17:00 to see the statue in the soft evening light before it gets dark and even colder very quickly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "A reggel a hatalmas szabadidős bázisnál indul, mielőtt egy rövid autóút a város kedvenc parkjának szívébe visz minket. Délben leparkoljuk az autót, hogy könnyedén sétálhassunk a Kerámiamúzeum és a lélegzetelállító káptalantemplom között. A kora délután egy kicsit északabbra visz minket, hogy megcsodáljuk az impozáns Napóleon-emlékművet. Az este csendben leszáll, miközben felfedezzük a középkori Saint-Martin perjelséget.",
         "ro": "Dimineața începe la baza de agrement înainte ca o scurtă călătorie să ne aducă în inima parcului preferat al orașului. La prânz, parcăm mașina pentru a merge între expozițiile Muzeului Faianței și biserica din apropiere. După-amiaza ne duce spre nord pentru a ne minuna de impresionantul monument al lui Napoleon. Seara cade ușor pe măsură ce explorăm Prioratul medieval Saint-Martin, încheind o zi perfectă.",
         "en": "The morning starts out at the expansive leisure base before a short drive brings us right into the heart of the city's favorite park. By midday, we park the car to easily walk between the rich historical exhibits of the Faïence Museum and the breathtaking Collegiate Church nearby. Mid-afternoon takes us slightly north to marvel at the impressive monument to Napoleon. Evening gently falls as we explore the medieval Saint-Martin Priory, concluding a seamless day trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist Montereau bei Regen ein Genuss. Starten Sie an der Basis de Varennes und beobachten Sie die Tropfen auf den Seen. Der Parc des Noues bietet kurze Wege für frische Luft zwischen den Fahrten. Fayence-Museum und Kollegiatskirche sind perfekte regensichere Kulturhighlights. Den Abschluss bilden die Statue und das Priorat, die man bequem aus dem warmen Wagen betrachten kann.",
+            "hu": "Autóval Montereau esőben is igazi élmény. Kezdjen a Varennes-i bázisnál, és figyelje az esőcseppeket a tavakon. A Parc des Noues rövid sétákat kínál két megálló között egy kis friss levegőért. A kerámiamúzeum és a káptalani templom tökéletes esőbiztos kulturális látnivaló. A napot a szobor és a kolostor zárja, melyeket akár a kényelmes, meleg autóból is megcsodálhat.",
+            "ro": "Cu mașina, Montereau în ploaie este o plăcere. Începeți la baza din Varennes și priviți picăturile pe lacuri. Parc des Noues oferă distanțe scurte pentru aer curat între drumuri. Muzeul de Faianță și biserica colegială sunt repere culturale perfecte pe ploaie. Încheiați cu statuia și prioratul, pe care le puteți vedea confortabil din vehiculul încălzit.",
+            "en": "Montereau is a delight by car in the rain. Start at the Varennes base and watch the raindrops on the lakes. Parc des Noues offers short walks for fresh air between drives. The ceramics museum and collegiate church are perfect rain-safe cultural highlights. Finish with the statue and priory, which can be comfortably viewed from your warm and dry vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Base de loisirs de Varennes-sur-Seine",
+                "hu": "Base de loisirs de Varennes-sur-Seine",
+                "ro": "Base de loisirs de Varennes-sur-Seine",
+                "en": "Base de loisirs de Varennes-sur-Seine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser, um den Blick auf den See im Regen aus dem Auto zu genießen, ohne nass zu werden, falls ein starker Schauer niedergeht.",
+                "hu": "Parkoljon közel a vízhez, hogy az autóból élvezhesse a tó látványát az esőben, anélkül, hogy elázna, ha hirtelen lezúdulna egy nagyobb zápor.",
+                "ro": "Parcați aproape de apă pentru a vă bucura de vederea lacului în ploaie direct din mașină, fără a vă uda dacă începe o aversă puternică neașteptată.",
+                "en": "Park close to the water to enjoy the lake view in the rain from your car without getting wet if a heavy shower starts unexpectedly during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Noues",
+                "hu": "Parc des Noues",
+                "ro": "Parc des Noues",
+                "en": "Parc des Noues"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang für einen kurzen, erfrischenden Gang zum Ufer, bevor Sie sich wieder in den trockenen Wagen zurückziehen.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót egy rövid, frissítő sétához a parton, mielőtt újra visszavonulna a száraz és kényelmes autóba.",
+                "ro": "Folosiți parcarea de lângă intrare pentru o scurtă plimbare revigorantă pe mal, înainte de a vă retrage înapoi în interiorul uscat al mașinii.",
+                "en": "Use the parking lot right at the entrance for a short, refreshing walk to the bank before retreating back into the dry comfort of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Faïence Museum",
+                "hu": "Faïence Museum",
+                "ro": "Faïence Museum",
+                "en": "Faïence Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie den Wagen in der Nähe ab; das Museum bietet den perfekten trockenen Kontrast zum grauen Wetter draußen mit seinen farbenfrohen Ausstellungsstücken.",
+                "hu": "Parkoljon a közelben; a múzeum tökéletes száraz kontrasztot nyújt a kinti szürke időhöz színes és érdekes kiállítási tárgyaival és helytörténeti kincseivel.",
+                "ro": "Parcați în apropiere; muzeul oferă contrastul perfect uscat față de vremea gri de afară, cu exponatele sale colorate și atmosfera sa primitoare.",
+                "en": "Park nearby; the museum offers the perfect dry contrast to the grey weather outside with its colorful exhibits and welcoming indoor atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "hu": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "ro": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "en": "Collegiate Church of Notre-Dame-et-Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen majestätischen und absolut trockenen Ort für eine Pause; achten Sie beim Ein- und Aussteigen auf Pfützen in den Gassen.",
+                "hu": "A templom fenséges és teljesen száraz helyet kínál a pihenéshez; az autóba való be- és kiszálláskor ügyeljen a szűk utcákban kialakuló tócsákra.",
+                "ro": "Biserica oferă un loc maiestuos și complet uscat pentru o pauză; atenție la bălțile din străduțe când urcați sau coborâți din mașină în zonă.",
+                "en": "The church offers a majestic and completely dry place for a break; watch out for puddles in the narrow streets when getting in and out of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Equestrian Statue of Napoleon I",
+                "hu": "Equestrian Statue of Napoleon I",
+                "ro": "Equestrian Statue of Napoleon I",
+                "en": "Equestrian Statue of Napoleon I"
+              },
+              "tip_5lang": {
+                "de": "Sie können den Wagen kurz auf der Brücke halten (wo erlaubt), um ein Foto der Statue im Regen zu machen, ohne die gemütliche Wärme zu verlassen.",
+                "hu": "Rövid időre megállhat az autóval a hídon (ahol szabad), hogy készítsen egy fotót a szoborról az esőben, anélkül, hogy elhagyná a meghitt meleget.",
+                "ro": "Puteți opri mașina scurt pe pod (unde este permis) pentru a face o fotografie statuii în ploaie fără a părăsi căldura confortabilă a vehiculului.",
+                "en": "You can briefly stop the car on the bridge (where permitted) to take a photo of the statue in the rain without leaving the cozy warmth of the cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Priory",
+                "hu": "Saint-Martin Priory",
+                "ro": "Saint-Martin Priory",
+                "en": "Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Priorat ist bei Regen stimmungsvoll; genießen Sie den weiten Blick über die nebligen Flusstäler direkt durch die Windschutzscheibe.",
+                "hu": "A kolostorhoz vezető út esőben is hangulatos; élvezze a ködös folyóvölgyekre nyíló tágas kilátást közvetlenül a szélvédőn keresztül, kényelmesen ülve.",
+                "ro": "Drumul spre priorat este atmosferic în ploaie; admirați panorama văilor cețoase ale râurilor direct prin parbriz, stând confortabil în scaun.",
+                "en": "The drive to the priory is atmospheric in the rain; enjoy the wide view over the misty river valleys directly through your windshield while sitting comfortably."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Montereau im Winter per Auto ist komfortabel und malerisch. Starten Sie an der Basis de Varennes mit Blick auf frostige Seen. Der Parc des Noues lädt zu einem kurzen Wintergang ein, bevor die Heizung im Auto wieder wärmt. Fayence-Museum und Kirche bieten warme Kulturstopps. Besuchen Sie die Statue und das Priorat am späten Nachmittag, um die einsetzende Dämmerung gegen 17:00 Uhr zu erleben.",
+            "hu": "Montereau télen autóval kényelmes és festői. Kezdjen a Varennes-i bázisnál, ahonnan kilátás nyílik a fagyos tavakra. A Parc des Noues hívogat egy rövid téli sétára, mielőtt az autó fűtése újra felmelegítené. A kerámiamúzeum és a templom meleg kulturális megállókat kínál. A szobrot és a kolostort késő délután keresse fel, hogy átélje a 17:00 körül kezdődő szürkületet.",
+            "ro": "Montereau iarna cu mașina este confortabil și pitoresc. Începeți la baza din Varennes cu vedere spre lacurile înghețate. Parc des Noues vă invită la o scurtă plimbare de iarnă înainte ca mașina să vă reîncălzească. Muzeul de Faianță și biserica oferă opriri culturale calde. Vizitați statuia și prioratul după-amiaza târziu pentru a prinde amurgul de la ora 17:00.",
+            "en": "Montereau in winter by car is both comfortable and picturesque. Start at the Varennes base with a view of frosty lakes. Parc des Noues invites you for a short winter stroll before the car heater warms you up again. The ceramics museum and church provide warm cultural stops. Visit the statue and priory in the late afternoon to experience the gathering dusk around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Base de loisirs de Varennes-sur-Seine",
+                "hu": "Base de loisirs de Varennes-sur-Seine",
+                "ro": "Base de loisirs de Varennes-sur-Seine",
+                "en": "Base de loisirs de Varennes-sur-Seine"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Standheizung, während Sie den Blick auf das winterliche Wasser genießen; die Seen wirken in der klaren Winterluft oft besonders tiefblau.",
+                "hu": "Használja az autó fűtését, miközben a téli víz látványában gyönyörködik; a tavak a tiszta téli levegőben gyakran különlegesen mélykéknek tűnnek.",
+                "ro": "Folosiți încălzirea mașinii în timp ce admirați apa iarna; lacurile par adesea de un albastru profund în aerul curat și rece al iernii de aici.",
+                "en": "Use the car heater while enjoying the winter water view; the lakes often appear especially deep blue in the clear, crisp winter air of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Noues",
+                "hu": "Parc des Noues",
+                "ro": "Parc des Noues",
+                "en": "Parc des Noues"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stop für ein Winterfoto der schneebedeckten oder frostigen Bäume lohnt sich; die Parkwege sind meist geräumt und gut befahrbar.",
+                "hu": "Érdemes megállni egy rövid időre egy téli fotóért a havas vagy zúzmarás fákról; a park útjai általában takarítottak és jól járhatóak ilyenkor is.",
+                "ro": "O scurtă oprire pentru o fotografie de iarnă cu copacii înghețați merită efortul; aleile parcului sunt de obicei curățate și ușor de parcurs iarna.",
+                "en": "A brief stop for a winter photo of the snow-covered or frosty trees is worth it; the park paths are usually cleared and easy to walk even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Faïence Museum",
+                "hu": "Faïence Museum",
+                "ro": "Faïence Museum",
+                "en": "Faïence Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe, um den Weg durch die Kälte zu minimieren; die Wärme im Inneren des Museums ist nach dem Aussteigen besonders einladend.",
+                "hu": "Parkoljon a lehető legközelebb, hogy minimálisra csökkentse a hidegben való gyaloglást; a múzeumi meleg különösen hívogató a kiszállás után.",
+                "ro": "Parcați cât mai aproape pentru a merge cât mai puțin prin frig; căldura din interiorul muzeului este extrem de primitoare după ce coborâți din mașină.",
+                "en": "Park as close as possible to minimize walking in the cold; the warmth inside the museum is especially inviting after getting out of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "hu": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "ro": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+                "en": "Collegiate Church of Notre-Dame-et-Saint-Loup"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen vor dem Winterwind; genießen Sie die andächtige Stille im warmen Licht der Kerzen im Inneren des historischen Baus.",
+                "hu": "A vastag falak védenek a téli széltől; élvezze az áhítatos csendet és a bent lévő gyertyák meleg fényét a történelmi épület falai között.",
+                "ro": "Zidurile groase protejează de vântul de iarnă; bucurați-vă de liniștea solemnă și de lumina caldă a lumânărilor din interiorul clădirii istorice.",
+                "en": "The thick walls protect you from the winter wind; enjoy the prayerful silence and the warm light of candles inside this grand historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Equestrian Statue of Napoleon I",
+                "hu": "Equestrian Statue of Napoleon I",
+                "ro": "Equestrian Statue of Napoleon I",
+                "en": "Equestrian Statue of Napoleon I"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf der Brücke, wenn Sie für ein Foto aussteigen; die Statue wirkt im klaren Winterlicht oft noch monumentaler als sonst.",
+                "hu": "Ügyeljen a csúszós burkolatra a hídon, ha kiszáll egy fotóra; a szobor a tiszta téli fényben gyakran még monumentálisabbnak tűnik, mint máskor.",
+                "ro": "Atenție la carosabilul alunecos de pe pod dacă coborâți pentru o poză; statuia pare adesea și mai monumentală în lumina clară a iernii.",
+                "en": "Watch out for icy surfaces on the bridge if you get out for a photo; the statue often looks even more monumental in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Priory",
+                "hu": "Saint-Martin Priory",
+                "ro": "Saint-Martin Priory",
+                "en": "Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17:00 Uhr; der Blick auf das beleuchtete Montereau ist aus dem warmen Auto oben auf dem Hügel herrlich.",
+                "hu": "Érkezzen pontosan a 17:00-s naplementére; a kivilágított Montereau látványa a dombtetőn álló meleg autóból nézve egyszerűen csodálatos.",
+                "ro": "Sosiți exact pentru apusul de la ora 17:00; vederea orașului Montereau iluminat este superbă din mașina caldă de sus, de pe deal.",
+                "en": "Arrive exactly for the 17:00 sunset; the view of illuminated Montereau is magnificent from your warm car parked up on the priory hill."
+              }
+            }
+          ]
+        }
       }
     }
   }

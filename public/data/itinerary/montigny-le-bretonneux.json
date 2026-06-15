@@ -137,6 +137,168 @@
         "hu": "Kezdje gyalogos túráját Montigny-le-Bretonneux történelmi szívében, felfedezve az Église Saint-Martin csendes varázsát. Kelet felé haladva átér az újvárosba, amelyet az Église Saint-Pierre-du-Lac jellemez. Délben a hatalmas Parc des Sources de la Bièvre parkba ér, amely frissítő pihenést kínál a természetben. A délutánt a helyi kulturális és vallási építészet felfedezésével zárhatja.",
         "ro": "Începeți turul pe jos în inima istorică a Montigny-le-Bretonneux, descoperind farmecul liniștit al Bisericii Saint-Martin. Mergând spre est, treceți în orașul modern caracterizat de Biserica Saint-Pierre-du-Lac. La prânz ajungeți în vastul Parc des Sources de la Bièvre, care oferă o pauză răcoritoare în natură. Încheiați după-amiaza explorând arhitectura culturală și religioasă locală.",
         "en": "Begin your walking tour in the historic heart of Montigny-le-Bretonneux, discovering the quiet charm of Église Saint-Martin. Proceeding east, you transition to the modern town characterized by Église Saint-Pierre-du-Lac. Midday brings you to the sprawling Parc des Sources de la Bièvre, offering a refreshing nature break. End the afternoon exploring local cultural and religious architecture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in friedlichen Kirchen, wo Sie trocken bleiben. Spazieren Sie mittags mit einem Regenschirm über die befestigten Wege des Parks. Genießen Sie nachmittags die ruhige Atmosphäre der Kirche. Beenden Sie den Tag im Theater, das eine warme, kulturelle Zuflucht vor dem nassen Wetter bietet.",
+            "hu": "Kezdje az esős reggelt a békés templombelsők felfedezésével, ahol szárazon maradhat. Délben egy masszív esernyővel sétáljon végig a park burkolt ösvényein. Délután élvezze az utolsó templom meghitt hangulatát. A napot a helyi színházban zárja, amely meleg, fedett és kulturális menedéket nyújt a kinti eső elől.",
+            "ro": "Începeți dimineața ploioasă explorând interioarele liniștite ale bisericilor pentru a rămâne uscat. La prânz, plimbați-vă pe aleile pavate ale parcului cu o umbrelă robustă. După-amiaza, admirați liniștea din ultima biserică. Încheiați ziua perfect la teatru, un refugiu cultural cald și uscat împotriva ploii.",
+            "en": "Start your rainy morning discovering peaceful church interiors where you can stay dry. Midday, navigate the paved paths of the local park with a sturdy umbrella. In the afternoon, enjoy the indoor ambiance of the final church. End your day perfectly sheltered at the local theater, offering a warm and dry cultural escape from the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster von innen, um völlig trocken zu bleiben.",
+                "hu": "Csodálja meg az ólomüveg ablakokat belülről, hogy teljesen száraz maradjon.",
+                "ro": "Admirați vitraliile din interior pentru a rămâne complet uscat în timpul ploii.",
+                "en": "Admire the stained glass from inside to stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-du-Lac",
+                "hu": "Église Saint-Pierre-du-Lac",
+                "ro": "Église Saint-Pierre-du-Lac",
+                "en": "Église Saint-Pierre-du-Lac"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese moderne Kirche ein für einen ruhigen, regenfreien Moment.",
+                "hu": "Lépjen be ebbe a modern templomba egy békés, esőmentes elmélkedésre.",
+                "ro": "Pășiți în această biserică modernă pentru un moment de liniște, ferit de ploaie.",
+                "en": "Step inside this modern church for a peaceful, rain-free moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Sources de la Bièvre",
+                "hu": "Parc des Sources de la Bièvre",
+                "ro": "Parc des Sources de la Bièvre",
+                "en": "Parc des Sources de la Bièvre"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf befestigten Wegen, um Schlamm zu meiden; ein Schirm ist unerlässlich.",
+                "hu": "Maradjon a burkolt ösvényeken a sár elkerülése végett; az esernyő itt elengedhetetlen.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita noroiul; o umbrelă este absolut esențială aici.",
+                "en": "Stick to the paved pathways to avoid mud; an umbrella is absolutely essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Quentin-les-Sources",
+                "hu": "Église Saint-Quentin-les-Sources",
+                "ro": "Église Saint-Quentin-les-Sources",
+                "en": "Église Saint-Quentin-les-Sources"
+              },
+              "tip_5lang": {
+                "de": "Der ruhige Innenraum ist ideal, um den Schirm auszuschütteln und sich auszuruhen.",
+                "hu": "A nyugodt belső tér remek hely az esernyő lerázására és a lábak pihentetésére.",
+                "ro": "Interiorul calm este un loc minunat pentru a vă scutura umbrela și a vă odihni.",
+                "en": "The calm interior is a great place to shake off your umbrella and rest your feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Saint-Quentin-en-Yvelines",
+                "hu": "Théâtre de Saint-Quentin-en-Yvelines",
+                "ro": "Théâtre de Saint-Quentin-en-Yvelines",
+                "en": "Théâtre de Saint-Quentin-en-Yvelines"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Architektur im Inneren und bleiben Sie vor den Schauern geschützt.",
+                "hu": "Fedezze fel a lenyűgöző belső építészetet, miközben teljesen védve marad a záporoktól.",
+                "ro": "Explorați arhitectura interioară și rămâneți complet protejat de aversele de ploaie.",
+                "en": "Explore the stunning indoor architecture and stay completely protected from the showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen mit der Erkundung historischer Kirchen, um sich aufzuwärmen. Mittags genießen Sie einen Spaziergang durch den frostigen Park. Nachmittags bietet die moderne Kirche einen gemütlichen Rückzugsort. Beenden Sie den Tag im hell erleuchteten Theater, wenn die Sonne bereits gegen 17:00 Uhr untergeht.",
+            "hu": "Indítsa a fagyos téli reggelt a történelmi templomok felfedezésével, ahol felmelegedhet. Délben tegyen egy frissítő sétát a dérlepte parkban. Délután az újabb templom nyújt barátságos menedéket. Fejezze be a napot a kivilágított színházban, amely tökéletes beltéri programot kínál a korai, 17:00 órai sötétedés után.",
+            "ro": "Începeți dimineața rece de iarnă explorând bisericile istorice pentru a vă încălzi. La prânz, bucurați-vă de o plimbare revigorantă prin parcul înghețat. După-amiaza, biserica modernă oferă un refugiu primitor. Încheiați ziua devreme la teatrul luminat, perfect pentru a vă adăposti de întunericul care cade în jurul orei 17:00.",
+            "en": "Kick off a brisk winter morning exploring historic local churches to stay warm. By midday, enjoy a crisp, invigorating walk through the frost-touched park. In the afternoon, the modern church offers a cozy respite. Conclude your evening early at the brightly lit theater, a perfect indoor retreat as the sun sets around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten einen gemütlichen Rückzugsort vor dem Morgenfrost.",
+                "hu": "A vastag kőfalak meglepően barátságos menedéket nyújtanak a csípős reggeli fagy elől.",
+                "ro": "Zidurile groase de piatră oferă un refugiu surprinzător de confortabil împotriva gerului.",
+                "en": "The thick stone walls offer a surprisingly cozy retreat from the biting morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-du-Lac",
+                "hu": "Église Saint-Pierre-du-Lac",
+                "ro": "Église Saint-Pierre-du-Lac",
+                "en": "Église Saint-Pierre-du-Lac"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Schönheit des Sees, bevor Sie sich im Heiligtum aufwärmen.",
+                "hu": "Élvezze a tó fagyos szépségét, mielőtt felmelegedne a szentély belsejében.",
+                "ro": "Bucurați-vă de frumusețea rece a lacului înainte de a vă încălzi în sanctuar.",
+                "en": "Enjoy the quiet, chilly beauty of the lake views before warming up inside the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Sources de la Bièvre",
+                "hu": "Parc des Sources de la Bièvre",
+                "ro": "Parc des Sources de la Bièvre",
+                "en": "Parc des Sources de la Bièvre"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; die kahlen Bäume vor dem Winterhimmel sind ein tolles Motiv.",
+                "hu": "Öltözzön rétegesen; a csupasz fák a téli égbolt előtt remek fotótémát nyújtanak.",
+                "ro": "Îmbrăcați-vă în straturi calde; copacii goi pe cerul de iarnă arată excelent în poze.",
+                "en": "Dress in warm layers; the barren trees against the winter sky make for great photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Quentin-les-Sources",
+                "hu": "Église Saint-Quentin-les-Sources",
+                "ro": "Église Saint-Quentin-les-Sources",
+                "en": "Église Saint-Quentin-les-Sources"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Hände aufzuwärmen und die sanft beleuchtete Atmosphäre zu genießen.",
+                "hu": "Tökéletes megálló a kezek felmelegítésére és a békés, lágyan megvilágított tér élvezetére.",
+                "ro": "Un popas perfect pentru a vă încălzi mâinile și a aprecia atmosfera senină, slab luminată.",
+                "en": "A perfect stop to thaw your hands and appreciate the serene, softly lit atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Saint-Quentin-en-Yvelines",
+                "hu": "Théâtre de Saint-Quentin-en-Yvelines",
+                "ro": "Théâtre de Saint-Quentin-en-Yvelines",
+                "en": "Théâtre de Saint-Quentin-en-Yvelines"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie bei früher Dämmerung hinein, um den warmen, lebendigen Kulturraum zu genießen.",
+                "hu": "Irány a belső tér a korai sötétedéskor, hogy élvezze a meleg, vibráló kulturális teret.",
+                "ro": "Intrați când se întunecă devreme pentru a vă bucura de spațiul cultural cald și vibrant.",
+                "en": "Head inside as darkness falls early to enjoy the warm, vibrant cultural space."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen a hangulatos utcákon az eredeti faluközponttól, majd haladjon a modern tavak felé. A dél körüli órákban egy kellemes utazást élvezhet a Parc des Sources de la Bièvre kiterjedt területén. A délután folyamán lenyűgöző nevezetességek felé veszi az irányt, megállva a színháznál, mielőtt elérné a félelmetes Nemzeti Velodromot. Fejezze be kerékpártúráját a történelmi Erődnél.",
         "ro": "Pedalați pe străzile fermecătoare pornind din centrul original al satului, apoi alunecați spre lacurile moderne. Prânzul vă aduce o plimbare plăcută prin vastul Parc des Sources de la Bièvre. După-amiaza se îndreaptă spre repere impresionante, oprindu-vă la teatru înainte de a ajunge la impresionantul Velodrom Național. Încheiați-vă plimbarea cu bicicleta la Fortul istoric din zonă.",
         "en": "Pedal through the charming streets starting from the original village center at Église Saint-Martin, then glide towards the modern lakes. Midday features a pleasant ride through the expansive Parc des Sources de la Bièvre. Your afternoon gears up towards impressive landmarks, stopping by the theater before reaching the awe-inspiring National Velodrome. Conclude your ride at the historic Fort."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit regenfester Kleidung auf dem Fahrrad zu den historischen Kirchen. Fahren Sie mittags vorsichtig über die nassen Wege des Parks. Trocknen Sie sich nachmittags im Theater auf, bevor Sie das überdachte Velodrom besuchen. Beenden Sie die Tour mit einer vorsichtigen Fahrt zum Fort auf rutschigem Untergrund.",
+            "hu": "Vízálló felszerelésben induljon kerékpárral a város történelmi templomainak felfedezésére. Délben óvatosan tekerjen a park csúszós ösvényein. Délután szárítkozzon meg a színházban, majd irány a lenyűgöző, fedett Velodrome. Zárásként óvatosan guruljon el az erődhöz, ügyelve a csúszós, nedves macskakövekre.",
+            "ro": "Porniți pe bicicletă cu echipament impermeabil pentru a vizita bisericile istorice. La prânz, navigați cu atenție pe aleile alunecoase ale parcului. După-amiaza, uscați-vă la teatru înainte de a vizita impresionantul Velodrom acoperit. Încheiați cu o plimbare precaută spre Fort, având grijă la pietrele alunecoase.",
+            "en": "Set out on your bike wearing waterproof gear to explore the town's historical churches. By noon, carefully navigate the slick paths of the nature park. In the afternoon, dry off at the theater before experiencing the impressive indoor Velodrome. Conclude with a cautious ride to the Fort, watching for slippery cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad vorsichtig, da das Kopfsteinpflaster am Eingang sehr rutschig ist.",
+                "hu": "Óvatosan parkolja le a bringát, mert a bejárat körüli macskakövek nagyon csúszósak.",
+                "ro": "Parcați bicicleta cu grijă, deoarece pietrele cubice de la intrare pot fi foarte alunecoase.",
+                "en": "Park your bike carefully, as cobblestones near the entrance can be extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-du-Lac",
+                "hu": "Église Saint-Pierre-du-Lac",
+                "ro": "Église Saint-Pierre-du-Lac",
+                "en": "Église Saint-Pierre-du-Lac"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Sachen auf der Veranda und bewundern Sie die modernen Buntglasfenster.",
+                "hu": "Hagyja a vizes felszerelést a tornácon, és csodálja meg a modern ólomüveg ablakokat.",
+                "ro": "Lăsați echipamentul ud pe verandă și admirați vitraliile moderne.",
+                "en": "Leave your wet gear in the porch and take a moment to admire the modern stained glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Sources de la Bièvre",
+                "hu": "Parc des Sources de la Bièvre",
+                "ro": "Parc des Sources de la Bièvre",
+                "en": "Parc des Sources de la Bièvre"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam! Nasses Laub und schlammige Wege erfordern gute Bremsen und Regenjacken.",
+                "hu": "Lassan tekerjen! A nedves levelek és sáros ösvények erős féket és vízálló kabátot igényelnek.",
+                "ro": "Mergeți încet! Frunzele ude și traseele noroioase necesită frâne bune și jachetă impermeabilă.",
+                "en": "Ride slowly! The wet leaves and muddy trails demand strong brakes and a waterproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Saint-Quentin-en-Yvelines",
+                "hu": "Théâtre de Saint-Quentin-en-Yvelines",
+                "ro": "Théâtre de Saint-Quentin-en-Yvelines",
+                "en": "Théâtre de Saint-Quentin-en-Yvelines"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im großen Foyer Schutz, ein perfekter Ort, um den Helm zu trocknen.",
+                "hu": "Keressen menedéket a hatalmas előcsarnokban, ami tökéletes hely a sisak szárítására.",
+                "ro": "Adăpostiți-vă în foaierul mare, un loc perfect pentru a vă usca casca și a vă încălzi.",
+                "en": "Take shelter in the grand foyer, a perfect spot to dry your helmet and warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "National Velodrome",
+                "hu": "National Velodrome",
+                "ro": "National Velodrome",
+                "en": "National Velodrome"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem Regen und bestaunen Sie diese riesige, trockene Radsportarena.",
+                "hu": "Lépjen ki teljesen az esőből, és csodálja meg ezt a hatalmas, száraz fedett arénát.",
+                "ro": "Ieșiți complet din ploaie pentru a admira această arenă masivă de ciclism acoperită.",
+                "en": "Step completely out of the rain to marvel at this massive, dry indoor cycling arena."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort of Saint-Cyr",
+                "hu": "Fort of Saint-Cyr",
+                "ro": "Fort of Saint-Cyr",
+                "en": "Fort of Saint-Cyr"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Warnkleidung; der Regen verringert die Sicht auf dem letzten Stück erheblich.",
+                "hu": "Viseljen láthatósági mellényt; az eső jelentősen rontja a látási viszonyokat az úton.",
+                "ro": "Purtați haine reflectorizante; ploaia reduce semnificativ vizibilitatea pe ultima porțiune.",
+                "en": "Wear high-visibility gear; the rain reduces visibility significantly on the final stretch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für eine winterliche Radtour zu den Kirchen der Stadt. Mittags fahren Sie durch den kühlen, aber schönen Park mit seinen kahlen Bäumen. Wärmen Sie sich nachmittags im Theater und im überdachten Velodrom auf. Fahren Sie vor 17:00 Uhr zum Fort und schalten Sie wegen der frühen Dämmerung Ihr Licht ein.",
+            "hu": "Öltözzön meleg rétegekbe a csípős téli biciklizéshez a helyi templomokhoz. A dél hideg, de gyönyörű tekerést tartogat a park csupasz fái között. Délután melegedjen fel a színházban és a fedett kerékpáros arénában. Érjen az erődhöz 17:00 előtt, és kapcsolja be a lámpákat a korai téli sötétedés miatt.",
+            "ro": "Îmbrăcați-vă cu straturi termice pentru o plimbare de iarnă spre bisericile locale. Prânzul aduce o pedalare rece prin parcul cu copaci goi. După-amiaza, încălziți-vă la teatru și la pista de ciclism acoperită. Mergeți spre Fort înainte de ora 17:00, asigurându-vă că farurile sunt aprinse pentru amurgul timpuriu.",
+            "en": "Bundle up in thermal layers for a crisp winter ride to the local churches. Midday brings a chilly but beautiful cycle through the quiet, bare trees of the park. In the afternoon, warm up at the theater and the indoor cycling track. Head to the Fort before 17:00, ensuring your bike lights are on for the early winter dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Handschuhe; die Fahrt ist kühl, aber das historische Innere ist einladend.",
+                "hu": "Viseljen bélelt kesztyűt; az út ide hűvös, de a történelmi belső tér barátságos.",
+                "ro": "Purtați mănuși izolate; drumul este rece, dar interiorul istoric este primitor.",
+                "en": "Wear insulated gloves; the ride here is chilly, but the historic interior is welcoming."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-du-Lac",
+                "hu": "Église Saint-Pierre-du-Lac",
+                "ro": "Église Saint-Pierre-du-Lac",
+                "en": "Église Saint-Pierre-du-Lac"
+              },
+              "tip_5lang": {
+                "de": "Ein guter kurzer Halt, um die Hände aufzuwärmen, bevor Sie zum Park radeln.",
+                "hu": "Gyors megálló a vérkeringés helyreállítására a kezekben, mielőtt a park felé tekerne.",
+                "ro": "O oprire rapidă excelentă pentru a vă încălzi mâinile înainte de a pedala spre parc.",
+                "en": "A great quick stop to restore circulation in your hands before cycling towards the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Sources de la Bièvre",
+                "hu": "Parc des Sources de la Bièvre",
+                "ro": "Parc des Sources de la Bièvre",
+                "en": "Parc des Sources de la Bièvre"
+              },
+              "tip_5lang": {
+                "de": "Frost auf den Wegen erfordert Vorsicht, aber die Winterlandschaft ist sehr lohnend.",
+                "hu": "Az ösvényeken lévő dér óvatos kormányzást igényel, de a téli táj nagyon hálás látvány.",
+                "ro": "Gerul de pe alei necesită prudență, dar peisajul de iarnă este extrem de plin de satisfacții.",
+                "en": "Frost on the paths requires careful steering, but the winter landscape is deeply rewarding."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Saint-Quentin-en-Yvelines",
+                "hu": "Théâtre de Saint-Quentin-en-Yvelines",
+                "ro": "Théâtre de Saint-Quentin-en-Yvelines",
+                "en": "Théâtre de Saint-Quentin-en-Yvelines"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie draußen und trinken Sie im Café ein Heißgetränk gegen die eisigen Temperaturen.",
+                "hu": "Parkoljon le, és igyon egy forró italt a kávézóban a fagyos hőmérséklet leküzdésére.",
+                "ro": "Parcați afară și beți o băutură caldă la cafenea pentru a combate temperaturile scăzute.",
+                "en": "Park outside and head in for a hot drink at the café to combat the freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "National Velodrome",
+                "hu": "National Velodrome",
+                "ro": "National Velodrome",
+                "en": "National Velodrome"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der eisigen Luft und der beheizten Innenbahn.",
+                "hu": "Élvezze a kontrasztot a fagyos kinti levegő és a fűtött beltéri kerékpárpálya között.",
+                "ro": "Bucurați-vă de contrastul dintre aerul înghețat și această pistă interioară încălzită.",
+                "en": "Enjoy the stark contrast between the freezing outdoor air and this heated indoor track."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort of Saint-Cyr",
+                "hu": "Fort of Saint-Cyr",
+                "ro": "Fort of Saint-Cyr",
+                "en": "Fort of Saint-Cyr"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an und prüfen Sie Ihr Fahrradlicht für die dunkle Heimfahrt.",
+                "hu": "Érkezzen 17:00 előtt, és győződjön meg róla, hogy a kerékpárlámpák erős fényt adnak.",
+                "ro": "Ajungeți înainte de ora 17:00 și asigurați-vă că luminile bicicletei sunt aprinse pentru întoarcere.",
+                "en": "Arrive before 17:00 and ensure your bike lights are bright for the dark ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós útját messze délen, a lenyűgöző Musée National de Port Royal des Champs-ban, és merüljön el a történelemben. Vezessen vissza északra, hogy nyomon kövesse Montigny fejlődését a régi templomtól a feltűnő Saint-Pierre-du-Lac-ig. A parkban tett séta után a délutánt a monumentális építmények megcsodálására fordítsa, majd fejezze be útját nagyszerűen a Saint-Cyr erődnél.",
         "ro": "Începeți itinerarul auto în sud la fascinantul Musée National de Port Royal des Champs. Conduceți spre nord pentru a urmări evoluția orașului Montigny, de la vechea biserică la impresionanta Saint-Pierre-du-Lac. După o plimbare prin parc, folosiți după-amiaza pentru a vă minuna de structurile monumentale de mari dimensiuni, terminând spectaculos la Fortul militar Saint-Cyr.",
         "en": "Start your driving itinerary far south at the evocative Musée National de Port Royal des Champs, delving into deep regional history. Drive back north to trace Montigny's evolution from the old Église Saint-Martin to the striking Saint-Pierre-du-Lac. After a serene stroll in the Bièvre springs park, use the afternoon to marvel at monumental structures, ending grandly at the Fort of Saint-Cyr."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie trocken im Auto zum weitläufigen Nationalmuseum. Fahren Sie mittags zwischen den Kirchen hin und her und nutzen Sie nahe Parkplätze im Regen. Besuchen Sie nachmittags kurz den Park mit Schirm und dann das warme Theater. Beenden Sie den Tag im überdachten Velodrom und mit einem kurzen Fort-Besuch.",
+            "hu": "Élvezze a száraz indulást az autójából a nagy nemzeti múzeum felé. Délben ugorjon be a templomokba, a közeli parkolókat használva az eső elkerülésére. Délután egy esernyővel röviden nézze meg a parkot, majd irány a meleg színház. Zárjon a fedett Velodrome-mal és az erőd gyors, esernyős megtekintésével.",
+            "ro": "Bucurați-vă de un început uscat în mașină vizitând muzeul național. La prânz, mergeți între biserici folosind parcări apropiate pentru a evita ploaia. După-amiaza, vizitați scurt parcul cu umbrela, apoi mergeți la teatrul cald. Încheiați cu Velodromul acoperit și o vizită rapidă la Fort, protejați de umbrelă.",
+            "en": "Enjoy a dry start inside your car as you visit the expansive national museum. By midday, hop between local churches, utilizing close parking to dodge the rain. In the afternoon, brave the park briefly with an umbrella, then head to the warm theater. Finish with the impressive indoor Velodrome and a quick, umbrella-shielded Fort visit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée National de Port Royal des Champs",
+                "hu": "Musée National de Port Royal des Champs",
+                "ro": "Musée National de Port Royal des Champs",
+                "en": "Musée National de Port Royal des Champs"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Start im Regen; parken Sie nah und erkunden Sie die trockenen Ausstellungen.",
+                "hu": "Ideális esős kezdés; parkoljon közel, és fedezze fel a száraz, beltéri kiállításokat.",
+                "ro": "Un început ploios ideal; parcați aproape și explorați expozițiile interioare uscate.",
+                "en": "An ideal rainy start; park close and explore the extensive, dry indoor exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie mit Schirm vom Auto zum Eingang, um das historische Heiligtum zu bewundern.",
+                "hu": "Esernyővel szaladjon az autótól a bejáratig, hogy megcsodálja a történelmi szentélyt.",
+                "ro": "Fugiți de la mașină la intrare cu umbrela pentru a admira sanctuarul istoric.",
+                "en": "Dash from your car to the entrance with an umbrella to admire the historic sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-du-Lac",
+                "hu": "Église Saint-Pierre-du-Lac",
+                "ro": "Église Saint-Pierre-du-Lac",
+                "en": "Église Saint-Pierre-du-Lac"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz, um lange Fußwege im Platzregen zu vermeiden.",
+                "hu": "Használja a közeli parkolót, hogy elkerülje a hosszú sétát a felhőszakadásban.",
+                "ro": "Folosiți parcarea din apropiere pentru a evita plimbările lungi în ploaie spre biserică.",
+                "en": "Use the nearby parking to avoid long walks in the downpour to this modern marvel."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Sources de la Bièvre",
+                "hu": "Parc des Sources de la Bièvre",
+                "ro": "Parc des Sources de la Bièvre",
+                "en": "Parc des Sources de la Bièvre"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den See bei Regen vom Auto aus oder machen Sie einen kurzen Spaziergang.",
+                "hu": "Szakadó esőben nézze az autóból a tavat, vagy tegyen egy gyors, esernyős sétát.",
+                "ro": "Priviți lacul din mașină dacă plouă torențial sau faceți o scurtă plimbare cu umbrela.",
+                "en": "View the rain-swept lake from the car if it's pouring, or take a quick umbrella stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Saint-Quentin-en-Yvelines",
+                "hu": "Théâtre de Saint-Quentin-en-Yvelines",
+                "ro": "Théâtre de Saint-Quentin-en-Yvelines",
+                "en": "Théâtre de Saint-Quentin-en-Yvelines"
+              },
+              "tip_5lang": {
+                "de": "Ein trockener Halt; nutzen Sie die Tiefgarage, falls verfügbar, um Pfützen zu meiden.",
+                "hu": "Tökéletesen száraz megálló; használja a mélygarázst, ha lehet, a tócsák elkerülésére.",
+                "ro": "O oprire culturală perfect uscată; folosiți parcarea subterană pentru a evita bălțile.",
+                "en": "A perfectly dry cultural stop; use the underground parking if available to dodge puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "National Velodrome",
+                "hu": "National Velodrome",
+                "ro": "National Velodrome",
+                "en": "National Velodrome"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie Weltklassesport in einer riesigen, regensicheren Anlage. Ein toller Ort.",
+                "hu": "Nézzen világklasszis sportot egy hatalmas, esőálló létesítményben. Remek menedék.",
+                "ro": "Asistați la sporturi de clasă mondială într-o facilitate masivă, protejată de ploaie.",
+                "en": "Witness world-class sports in a massive, rain-proof facility. A great indoor escape."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort of Saint-Cyr",
+                "hu": "Fort of Saint-Cyr",
+                "ro": "Fort of Saint-Cyr",
+                "en": "Fort of Saint-Cyr"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe; das Gelände um das historische Fort kann sehr matschig werden.",
+                "hu": "Viseljen vízálló cipőt; a történelmi erőd körüli terület hihetetlenül sáros lehet.",
+                "ro": "Purtați încălțăminte impermeabilă; terenul din jurul fortului istoric poate deveni noroios.",
+                "en": "Wear waterproof shoes; the grounds around the historic fort can get incredibly muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Heizung Ihres Autos, wenn Sie den Wintermorgen im Museum beginnen. Fahren Sie mittags bequem zu den örtlichen Kirchen. Machen Sie einen frostigen Spaziergang im Park, bevor Sie sich im Theater aufwärmen. Beenden Sie den Tag am Velodrom und am Fort und fahren Sie bei früher Dämmerung gegen 17:00 Uhr vorsichtig.",
+            "hu": "Használja az autó fűtését, miközben a történelmi múzeumban kezdi a téli reggelt. Délben kényelmesen vezessen a lenyűgöző helyi templomok között. Tegyen egy rövid, fagyos sétát a parkban, majd melegedjen fel a színházban. A napot a Velodrome-ban és az erődnél zárja, óvatosan vezetve a 17:00 órakor beálló sötétségben.",
+            "ro": "Folosiți căldura mașinii în timp ce începeți dimineața de iarnă la muzeul istoric. La prânz, conduceți confortabil între bisericile locale. Faceți o scurtă plimbare geroasă în parc înainte de a vă încălzi în teatru. Încheiați ziua la Velodrom și Fort, conducând cu prudență pe măsură ce se întunecă la ora 17:00.",
+            "en": "Use your car's heater as you start the winter morning at the historic museum. Midday, comfortably drive between the striking local churches. Take a brief, frosty stroll in the park before warming up inside the theater. End your day at the Velodrome and the historic Fort, ensuring you drive carefully as darkness falls around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée National de Port Royal des Champs",
+                "hu": "Musée National de Port Royal des Champs",
+                "ro": "Musée National de Port Royal des Champs",
+                "en": "Musée National de Port Royal des Champs"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh, um dem Frost zu entgehen und das gut beheizte Museum zu genießen.",
+                "hu": "Érkezzen korán, hogy elkerülje a fagyot, és kényelmesen élvezze a fűtött múzeumot.",
+                "ro": "Ajungeți devreme pentru a evita gerul și bucurați-vă de coridoarele bine încălzite.",
+                "en": "Arrive early to beat the frost and enjoy the well-heated museum corridors in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung etwas länger laufen, bevor Sie in die kühle Steinarchitektur gehen.",
+                "hu": "Járassa kicsit tovább az autó fűtését, mielőtt dacolna a fagyos kőépítészettel.",
+                "ro": "Lăsați căldura mașinii să meargă mai mult înainte de a înfrunta arhitectura rece.",
+                "en": "Leave the car heater running slightly longer before braving the chilly stone architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-du-Lac",
+                "hu": "Église Saint-Pierre-du-Lac",
+                "ro": "Église Saint-Pierre-du-Lac",
+                "en": "Église Saint-Pierre-du-Lac"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt, bei dem das Winterlicht durch die großen Glasscheiben atemberaubend wirkt.",
+                "hu": "Gyors megálló, ahol a fényes téli napsütés lenyűgözően mutat a nagy üvegtáblákon át.",
+                "ro": "O oprire rapidă unde lumina de iarnă arată uimitor prin ferestrele mari de sticlă.",
+                "en": "A swift stop where the bright winter light looks stunning through the large glass panes."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Sources de la Bièvre",
+                "hu": "Parc des Sources de la Bièvre",
+                "ro": "Parc des Sources de la Bièvre",
+                "en": "Parc des Sources de la Bièvre"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an; der Frost auf dem Gras ist magisch, bevor Sie zurückkehren.",
+                "hu": "Öltözzön be a sétához; a fűvön lévő dér varázslatos, mielőtt visszatérne az autóba.",
+                "ro": "Îmbrăcați-vă gros pentru o plimbare; gerul de pe iarbă este magic înainte de a vă întoarce.",
+                "en": "Bundle up for a brisk walk; the frost on the grass is magical before returning to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Saint-Quentin-en-Yvelines",
+                "hu": "Théâtre de Saint-Quentin-en-Yvelines",
+                "ro": "Théâtre de Saint-Quentin-en-Yvelines",
+                "en": "Théâtre de Saint-Quentin-en-Yvelines"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Halt am kühlen Nachmittag mit warmer Architektur im Inneren.",
+                "hu": "Hangulatos megálló a délutáni lehűléskor, amely meleg belső építészetet kínál.",
+                "ro": "O oprire primitoare pe măsură ce se răcește, oferind o arhitectură interioară caldă.",
+                "en": "A cozy, vibrant stop as the afternoon cools down, offering warm indoor architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "National Velodrome",
+                "hu": "National Velodrome",
+                "ro": "National Velodrome",
+                "en": "National Velodrome"
+              },
+              "tip_5lang": {
+                "de": "Die intensive Action auf der Bahn kontrastiert perfekt mit den eisigen Temperaturen draußen.",
+                "hu": "A pályán zajló intenzív akció tökéletes kontrasztot alkot a kinti fagyos hőmérséklettel.",
+                "ro": "Acțiunea intensă de pe pistă contrastează perfect cu temperaturile înghețate de afară.",
+                "en": "The intense action on the track perfectly contrasts with the freezing temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort of Saint-Cyr",
+                "hu": "Fort of Saint-Cyr",
+                "ro": "Fort of Saint-Cyr",
+                "en": "Fort of Saint-Cyr"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie das Ende vor 17:00 Uhr ein; die frühe Dämmerung macht dunkle Bereiche gefährlich.",
+                "hu": "Tervezze a befejezést 17:00 elé; a korai sötétedés veszélyessé teszi a kivilágítatlan részeket.",
+                "ro": "Terminați înainte de ora 17:00; amurgul devreme face zonele neiluminate periculoase.",
+                "en": "Plan to finish before 17:00; the early sunset makes the unlit historical areas treacherous."
+              }
+            }
+          ]
+        }
       }
     }
   }

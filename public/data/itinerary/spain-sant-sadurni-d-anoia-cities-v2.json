@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot a város szívében, csodálja meg a főtemplom építészetét, majd merüljön el a cava pezsgők világában a közeli legendás Freixenet pincészetben.\nMidday: Folytassa sétáját észak felé a középkori Castell de Vilarnau felé, ahol festői ebédszünetet tarthat az ősi kövek és a régió hullámzó szőlőültetvényei között.\nAfternoon: Fedezze fel a történelmi mezőgazdasági gyökereket a Cal Xurriu birtokon, élvezze a békés vidéki hangulatot és a hagyományos katalán gazdaságokra nyíló pazar kilátást.\nEvening: Zárja a sétát a lenyűgöző Pou de gel jégkútnál, élvezze a késő délutáni napsütést, mielőtt visszatérne a központba egy jól megérdemelt pohár helyi pezsgőre.",
         "ro": "Morning: Începeți ziua în inima orașului, admirând arhitectura frumoasă a bisericii principale, înainte de a pătrunde în lumea spumantelor Cava la cramele legendare Freixenet.\nMidday: Continuați plimbarea spre nord până la medievalul Castell de Vilarnau, unde vă puteți bucura de o pauză pitorească de prânz printre pietrele antice și podgoriile colinare.\nAfternoon: Explorați rădăcinile agricole istorice de la Cal Xurriu, bucurându-vă de atmosfera rurală liniștită și de priveliștile ample asupra peisajelor tradiționale catalane.\nEvening: Încheiați turul la fascinantul puț de gheață Pou de gel, savurând soarele după-amiezii înainte de a vă întoarce în centrul orașului pentru un pahar de vin spumant local.",
         "en": "Morning: Begin your day at the heart of the town, admiring the beautiful architecture of the main church before delving into the world of Cava at the legendary Freixenet cellars nearby.\nMidday: Continue your walk northwards to the medieval Castell de Vilarnau, where you can enjoy a scenic lunch break amidst the ancient stones and rolling vineyards of the region.\nAfternoon: Explore the historical agricultural roots at Cal Xurriu, taking in the tranquil rural atmosphere and the expansive views over the traditional Catalan farming landscapes.\nEvening: Conclude your walking tour at the fascinating Pou de gel ice well, soaking up the afternoon sun before heading back to the town center for a well-deserved glass of local sparkling wine."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen in der Kirche und flüchten Sie dann in die überdachten Freixenet-Keller. Mittags führt ein nasser Spaziergang zur Burgruine Vilarnau. Nachmittags weichen Sie den Pfützen in Richtung Cal Xurriu aus. Beenden Sie den Tag geschützt im historischen Eiskeller, perfekt für das Wetter.",
+            "hu": "Esős reggelét a központi templomban kezdje, majd meneküljön be a Freixenet fedett pincéibe. Délben egy hangulatos, esős séta vezet a Vilarnau kastély romjaihoz. Délután óvatosan kerülgesse a pocsolyákat a Cal Xurriu felé. A napot a történelmi jégverem védelmében zárja, amely tökéletes menedék a záporok elől.",
+            "ro": "Începeți dimineața ploioasă la biserica centrală, apoi refugiați-vă în pivnițele acoperite Freixenet. La prânz, o plimbare umedă duce la ruinele castelului Vilarnau. După-amiaza, navigați printre bălți spre Cal Xurriu. Încheiați ziua adăpostiți în puțul istoric de gheață, ideal pentru explorarea pe timp de ploaie.",
+            "en": "Start your rainy morning exploring the central church before heading to the covered cellars of Freixenet. Midday brings a wet but atmospheric walk to the Vilarnau castle ruins. In the afternoon, navigate the puddles towards Cal Xurriu. End your wet day sheltering inside the historic ice well, perfect for rainy exploration."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Sadurní",
+                "hu": "Sant Sadurní",
+                "ro": "Sant Sadurní",
+                "en": "Sant Sadurní"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Innere der Kirche, um dem Regen zu entkommen; halten Sie für den Platz einen Regenschirm bereit.",
+                "hu": "Csodálja meg a templom belsejét, hogy menedéket találjon az eső elől; legyen kéznél esernyő a nyílt téren.",
+                "ro": "Admirați interiorul bisericii pentru a scăpa de ploaia matinală; țineți o umbrelă la îndemână pentru piață.",
+                "en": "Admire the church interior to escape the morning rain; keep an umbrella handy for the exposed open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Freixenet",
+                "hu": "Freixenet",
+                "ro": "Freixenet",
+                "en": "Freixenet"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die unterirdischen Cava-Keller, die einen perfekten, trockenen Schutz vor dem Dauerregen bieten.",
+                "hu": "Fedezze fel a föld alatti pezsgőpincéket, amelyek tökéletes, száraz és izgalmas menedéket nyújtanak az eső elől.",
+                "ro": "Explorați cramele subterane de cava, oferind un adăpost perfect și uscat de ploaia persistentă de afară.",
+                "en": "Tour the vast underground cava cellars, offering a perfect, dry shelter from the persistent rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Vilarnau",
+                "hu": "Castell de Vilarnau",
+                "ro": "Castell de Vilarnau",
+                "en": "Castell de Vilarnau"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine wirkt im Regen dramatisch; tragen Sie wasserdichte Schuhe, da die Wege schnell schlammig werden.",
+                "hu": "A romok drámaian festenek az esőben; viseljen vízálló cipőt, mivel a történelmi ösvények nagyon sárosak lesznek.",
+                "ro": "Ruinele castelului arată dramatic în ploaie; purtați cizme impermeabile, deoarece potecile devin noroioase.",
+                "en": "The castle ruins look dramatic in the rain; wear waterproof boots as the historical paths become very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Xurriu",
+                "hu": "Cal Xurriu",
+                "ro": "Cal Xurriu",
+                "en": "Cal Xurriu"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Architektur rasch unter Ihrem Regenschirm, bevor die Nachmittagsschauer zunehmen.",
+                "hu": "Gyorsan tekintse meg a történelmi építészetet az esernyője alól, mielőtt a délutáni záporok tovább erősödnének.",
+                "ro": "Vizualizați rapid arhitectura istorică sub umbrelă, înainte ca aversele de după-amiază să se intensifice.",
+                "en": "View the historic architecture quickly under your umbrella before the afternoon showers intensify further."
+              }
+            },
+            {
+              "name": {
+                "de": "Pou de gel",
+                "hu": "Pou de gel",
+                "ro": "Pou de gel",
+                "en": "Pou de gel"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diesen alten Eiskeller; die dicken Steinmauern halten Sie vom abendlichen Nieselregen komplett trocken.",
+                "hu": "Lépjen be ebbe az ősi jégverembe; vastag kőfalai teljesen szárazon tartják a felerősödő esti szitáló esőtől.",
+                "ro": "Pășiți în acest vechi puț de gheață; pereții groși de piatră vă mențin complet uscat de burnița de seară.",
+                "en": "Step inside this ancient ice well; its thick stone walls keep you completely dry from the evening drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt an der Kirche, gefolgt von einer wärmenden Verkostung bei Freixenet. Mittags ist das Wetter ideal für die Burgruine Vilarnau. Ziehen Sie sich nachmittags für Cal Xurriu warm an. Beenden Sie den Tag am Eiskeller, bevor der Sonnenuntergang um 17:00 Uhr die Kälte bringt.",
+            "hu": "A csípős téli reggel a történelmi templomnál indul, amit egy lélekmelegítő kóstoló követ a Freixenet-nél. Délben a friss idő ideális a Vilarnau romokhoz. Délután öltözzön melegen a Cal Xurriu megtekintéséhez. Zárja a napot a jégveremnél még a 17:00 órai korai sötétedés és lehűlés előtt.",
+            "ro": "Dimineața rece de iarnă începe la biserică, urmată de o degustare caldă la Freixenet. La prânz, vremea este ideală pentru explorarea ruinelor Vilarnau. După-amiaza, îmbrăcați-vă gros pentru Cal Xurriu. Încheiați ziua la puțul de gheață înainte de apusul timpuriu de la ora 17:00.",
+            "en": "A crisp winter morning starts at the historic church, followed by a warming tasting at Freixenet. Midday offers brisk walking weather to explore the Vilarnau ruins under the sun. In the afternoon, bundle up as you visit Cal Xurriu. End the day at the ice well before the 17:00 sunset drops the temperature."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Sadurní",
+                "hu": "Sant Sadurní",
+                "ro": "Sant Sadurní",
+                "en": "Sant Sadurní"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das friedliche Kircheninnere; ziehen Sie sich warm an, da das Steingebäude im Winter sehr kühl ist.",
+                "hu": "Csodálja meg a békés templombelsőt; öltözzön rétegesen, mert az ősi kőépület télen kifejezetten hűvös.",
+                "ro": "Admirați interiorul liniștit al bisericii; îmbrăcați-vă în straturi, clădirea de piatră este foarte rece iarna.",
+                "en": "Marvel at the peaceful church interior; dress in warm layers as the historic stone building is chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Freixenet",
+                "hu": "Freixenet",
+                "ro": "Freixenet",
+                "en": "Freixenet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine wärmende Cava-Tour in den Kellern, eine tolle Flucht vor den eisigen Winterwinden draußen.",
+                "hu": "Élvezze a pezsgőtúrát a pincékben, amely nagyszerű és hangulatos menedék a kinti metsző téli szelek elől.",
+                "ro": "Bucurați-vă de un tur cald cu cava în crame, o evadare excelentă din vânturile tăioase de iarnă de afară.",
+                "en": "Enjoy a warming cava tour in the historic cellars, a great escape from the biting winter winds outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Vilarnau",
+                "hu": "Castell de Vilarnau",
+                "ro": "Castell de Vilarnau",
+                "en": "Castell de Vilarnau"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Burgruine unter der Wintersonne; die Aussicht ist klar, aber das offene Gelände ist sehr kalt.",
+                "hu": "Fedezze fel a kastély romjait az alacsonyan járó téli napfényben; a kilátás tiszta, de a nyílt terep hideg.",
+                "ro": "Explorați ruinele castelului sub soarele de iarnă; priveliștile sunt clare, dar zona deschisă este foarte rece.",
+                "en": "Explore the castle ruins under the low winter sun; the views are clear, but the exposed open area gets very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Xurriu",
+                "hu": "Cal Xurriu",
+                "ro": "Cal Xurriu",
+                "en": "Cal Xurriu"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie historische Details schnell; die winterlichen Nachmittagsschatten werden hier recht früh lang.",
+                "hu": "Fotózza le a történelmi részleteket gyorsan; a téli délutáni árnyékok korán megnyúlnak ezen a szűk részen.",
+                "ro": "Fotografiați rapid detaliile istorice; umbrele după-amiezii de iarnă se lungesc devreme în această zonă îngustă.",
+                "en": "Photograph the historic details quickly; the winter afternoon shadows lengthen early in this narrow area."
+              }
+            },
+            {
+              "name": {
+                "de": "Pou de gel",
+                "hu": "Pou de gel",
+                "ro": "Pou de gel",
+                "en": "Pou de gel"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Eiskeller vor dem Sonnenuntergang um 17:00 Uhr; es ist faszinierend zu sehen, wo Eis gelagert wurde.",
+                "hu": "Látogassa meg a jégvermet a 17:00 órai naplemente előtt; lenyűgöző látni, hol tárolták egykor a téli jeget.",
+                "ro": "Vizitați puțul de gheață înainte de apusul de la 17:00; este fascinant să vedeți unde se depozita gheața de iarnă.",
+                "en": "Visit the ice well before the 17:00 sunset; it is fascinating to see where winter ice was historically stored."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Tekerjen a központi templomtól délre a szőlőültetvények felé, fedezze fel a hiteles szárazkő menedékeket, és ötvözze a spirituális örökséget a régió történelmével.\nMidday: Pedálozzon a Torrota de Can Llopard romjaihoz a panorámáért, majd térjen vissza a városba, hogy felfedezze a világhírű Freixenet pincéket és azok gazdag múltját.\nAfternoon: Induljon északra a Castell de Vilarnau felé, hagyja, hogy kerékpárja könnyedén elvigye a buja szőlőültetvények mellett, miközben felfedezi a terület középkori múltját.\nEvening: Fejezze be útját a békés Miranda d'Espiells kilátónál, gyönyörködjön a Penedès régió felett lemenő aranyló naplementében, mielőtt kényelmesen visszagurulna a városba.",
         "ro": "Morning: Mergeți de la biserica centrală spre sud în podgorii pentru a descoperi adăposturi autentice din piatră seacă, îmbinând moștenirea spirituală cu istoria agricolă.\nMidday: Pedalați spre ruinele Torrota de Can Llopard pentru priveliști panoramice, apoi întoarceți-vă în oraș pentru a explora faimoasele crame Freixenet și istoria lor bogată.\nAfternoon: Îndreptați-vă spre nord către Castell de Vilarnau, lăsând bicicleta să vă poarte pe lângă podgoriile luxuriante, descoperind trecutul medieval al zonei.\nEvening: Terminați plimbarea la punctul de belvedere Miranda d'Espiells, surprinzând un apus auriu uluitor peste regiunea Penedès înainte de a vă întoarce ușor în oraș.",
         "en": "Morning: Ride from the central church south into the vineyards to discover authentic dry stone shelters, merging spiritual heritage with the raw agricultural history of the region.\nMidday: Pedal towards the ruins of Torrota de Can Llopard for panoramic vistas, then cycle back towards town to explore the world-renowned Freixenet cellars and their rich history.\nAfternoon: Head north to the Castell de Vilarnau, letting your bike carry you effortlessly past lush vineyards as you uncover more layers of the area's medieval and noble past.\nEvening: Finish your ride at the serene Miranda d'Espiells viewpoint, catching a breathtaking golden sunset over the Penedès region before a gentle coast back into the bustling town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren nassen Radtag an der Kirche, bevor Sie zur Steinhütte navigieren. Mittags radeln Sie vorsichtig zum Torrota-Turm. Nachmittags finden Sie im Freixenet-Keller trockenes Asyl. Beenden Sie die schlammige Fahrt an der Burgruine und an der Miranda in voller Regenmontur.",
+            "hu": "Kezdje a nedves biciklis napot a templomnál, majd tekerjen óvatosan a kőkunyhóhoz. Délben a sáros utakon haladjon a Torrota torony felé. Délután találjon száraz menedéket a Freixenet pincéiben. A sáros túrát a Vilarnau és a Miranda kilátó felé zárja teljes vízálló felszerelésben.",
+            "ro": "Începeți ziua de ciclism umed la biserică, apoi navigați pe drumurile alunecoase spre coliba de piatră. La prânz, pedalați spre turnul Torrota. După-amiaza, găsiți un refugiu uscat la Freixenet. Încheiați cursa noroioasă spre ruine și Miranda, purtând echipament impermeabil.",
+            "en": "Kick off your wet cycling day at the church before navigating slick roads to the stone hut. By midday, carefully pedal towards the Torrota tower. In the afternoon, find dry refuge inside Freixenet's cellars. End your muddy ride past the Vilarnau ruins to the Miranda in waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Sadurní",
+                "hu": "Sant Sadurní",
+                "ro": "Sant Sadurní",
+                "en": "Sant Sadurní"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Bremsen vor der Abfahrt im Regen; die Kirche bietet einen trockenen Ort für die Ausrüstung.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes utak miatt; a templom egy száraz hely a felszerelés beállítására.",
+                "ro": "Verificați frânele înainte de a pleca pe ploaie; biserica oferă un loc uscat pentru ajustarea echipamentului.",
+                "en": "Check your brakes before setting off in the rain; the church offers a quick dry spot to adjust your cycle gear."
+              }
+            },
+            {
+              "name": {
+                "de": "barraca de pedra seca 3926",
+                "hu": "barraca de pedra seca 3926",
+                "ro": "barraca de pedra seca 3926",
+                "en": "barraca de pedra seca 3926"
+              },
+              "tip_5lang": {
+                "de": "Diese Steinhütte ist ein historischer Schutz vor Platzregen; Vorsicht vor rutschigem Schlamm bei der Anfahrt.",
+                "hu": "Ez a száraz kőkunyhó nagyszerű történelmi menedék a záporok elől; vigyázzon a csúszós sárra a megközelítéskor.",
+                "ro": "Această colibă din piatră este un refugiu istoric excelent; atenție la noroiul alunecos la apropierea cu bicicleta.",
+                "en": "This dry stone hut is a great historical shelter from sudden downpours; beware of slippery mud on your approach."
+              }
+            },
+            {
+              "name": {
+                "de": "la Torrota de Can Llopard",
+                "hu": "la Torrota de Can Llopard",
+                "ro": "la Torrota de Can Llopard",
+                "en": "la Torrota de Can Llopard"
+              },
+              "tip_5lang": {
+                "de": "Der Wachturm wirkt vor grauen Wolken markant; steigen Sie vorsichtig ab, nasses Gras ist hier sehr tückisch.",
+                "hu": "Az őrtorony lenyűgöző a szürke felhők előtt; óvatosan szálljon le, mert a nedves fű nagyon csúszós lehet.",
+                "ro": "Turnul de veghe arată impresionant sub nori; coborâți cu grijă, iarba umedă din jurul său este înșelătoare.",
+                "en": "The watchtower looks striking against grey clouds; dismount carefully as the wet grass around it is treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Freixenet",
+                "hu": "Freixenet",
+                "ro": "Freixenet",
+                "en": "Freixenet"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad ab und trocknen Sie sich im Untergrund; die Führung ist eine perfekte Nachmittagsaktivität.",
+                "hu": "Parkolja le a biciklit és száradjon meg a föld alatt; a pincetúra tökéletes esős délutáni benti program.",
+                "ro": "Parcați bicicleta și uscați-vă în subteran; turul cramei este activitatea perfectă pentru o zi ploioasă.",
+                "en": "Park your bike and dry off safely underground; the winery tour is the perfect rainy afternoon indoor activity."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Vilarnau",
+                "hu": "Castell de Vilarnau",
+                "ro": "Castell de Vilarnau",
+                "en": "Castell de Vilarnau"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam zur Burgruine; nasser Asphalt und Laub erfordern besondere Vorsicht mit den Fahrradreifen.",
+                "hu": "Tekerjen lassan a romok felé; a nedves aszfalt és a lehullott falevelek extra óvatosságot igényelnek a gumikon.",
+                "ro": "Pedalați încet spre ruinele castelului; asfaltul umed și frunzele căzute necesită o precauție suplimentară.",
+                "en": "Ride slowly towards the castle ruins; the wet pavement and fallen leaves require extra caution on your tires."
+              }
+            },
+            {
+              "name": {
+                "de": "la Miranda d'Espiells",
+                "hu": "la Miranda d'Espiells",
+                "ro": "la Miranda d'Espiells",
+                "en": "la Miranda d'Espiells"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist im Regen neblig; tragen Sie eine helle, wasserdichte Jacke für gute Sichtbarkeit.",
+                "hu": "A természetes kilátó ködös az esőben; viseljen élénk színű, vízálló kabátot, hogy jól látható és száraz maradjon.",
+                "ro": "Punctul de belvedere este cețos; purtați o jachetă impermeabilă strălucitoare pentru a fi vizibil și uscat.",
+                "en": "The natural viewpoint is misty in the rain; wear a bright, waterproof jacket to stay visible and completely dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich für die Winterfahrt warm an, vom Start an der Kirche bis zur Steinhütte. Mittags wärmt schwache Sonne am Torrota-Turm. Nachmittags wärmen Sie sich bei Freixenet auf, bevor Sie an der Burgruine vorbeifahren. Beenden Sie die Tour an der Miranda beim Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Öltözzön be a csípős téli reggeli tekeréshez, kezdve a templomnál, majd a kőkunyhó felé véve az irányt. Délben gyenge, de jóleső napsütés fogadja a Torrota toronynál. Délután melegedjen fel a Freixenetben. Zárja a napot a Miranda kilátónál, amikor a korai 17:00 órai naplemente megfesti az eget.",
+            "ro": "Îmbrăcați-vă bine pentru cursa de iarnă, începând de la biserică spre coliba de piatră. La prânz, soarele slab încălzește la turnul Torrota. După-amiaza, încălziți-vă la Freixenet înainte de ruinele Vilarnau. Finalizați la Miranda, când apusul timpuriu de la 17:00 colorează cerul înghețat.",
+            "en": "Bundle up for a crisp winter morning ride, starting at the church before hitting the trails to the stone hut. Midday provides weak but welcome sun at the Torrota tower. In the afternoon, warm up inside Freixenet before passing the Vilarnau ruins. Finish at Miranda as the early 17:00 sunset begins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Sadurní",
+                "hu": "Sant Sadurní",
+                "ro": "Sant Sadurní",
+                "en": "Sant Sadurní"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Fahrt an der Kirche; Thermohandschuhe sind für den kalten Lenker im Winter unerlässlich.",
+                "hu": "Kezdje a frissítő tekerést a templomnál; a termo kesztyű elengedhetetlen a jéghideg téli biciklikormányhoz.",
+                "ro": "Începeți plimbarea admirând biserica; mănușile termice sunt esențiale pentru ghidonul rece de iarnă.",
+                "en": "Start your brisk ride admiring the church facade; thermal gloves are essential for the cold winter handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "barraca de pedra seca 3926",
+                "hu": "barraca de pedra seca 3926",
+                "ro": "barraca de pedra seca 3926",
+                "en": "barraca de pedra seca 3926"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie Landarbeiter sich hier vor Winterwinden schützten; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "Nézze meg, hogyan védekeztek a földművesek a szél ellen a kőkunyhóban; maradjon mozgásban, hogy ne fázzon át.",
+                "ro": "Vedeți cum muncitorii agricoli se adăposteau de vântul de iarnă în colibă; mișcați-vă pentru a vă încălzi.",
+                "en": "See how agricultural workers once sheltered from winter winds in this stone hut; keep moving to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "la Torrota de Can Llopard",
+                "hu": "la Torrota de Can Llopard",
+                "ro": "la Torrota de Can Llopard",
+                "en": "la Torrota de Can Llopard"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht beleuchtet den Turm wunderschön; ziehen Sie Schichten an, da die Weinberge keinen Schutz bieten.",
+                "hu": "A téli fény csodásan megvilágítja a tornyot; öltözzön rétegesen, mert a csupasz szőlők nem védenek a széltől.",
+                "ro": "Lumina de iarnă luminează frumos acest turn; îmbrăcați-vă în straturi, podgoriile nu oferă protecție la vânt.",
+                "en": "The winter light beautifully illuminates this medieval tower; layer up as the bare vineyards offer no windbreak."
+              }
+            },
+            {
+              "name": {
+                "de": "Freixenet",
+                "hu": "Freixenet",
+                "ro": "Freixenet",
+                "en": "Freixenet"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie die Keller für eine Verkostung; das Raumklima ist eine willkommene Erleichterung von der Kälte.",
+                "hu": "Lépjen be a legendás pincékbe egy kóstolóra; a kellemes benti klíma igazi felüdülés a kinti fagyos levegő után.",
+                "ro": "Intrați în crame pentru o degustare; climatul interior controlat este o ușurare binevenită de frigul de afară.",
+                "en": "Step inside the legendary cellars for a tasting; the controlled indoor climate is a welcome relief from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Vilarnau",
+                "hu": "Castell de Vilarnau",
+                "ro": "Castell de Vilarnau",
+                "en": "Castell de Vilarnau"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie an den frostigen Burgruinen vorbei; stellen Sie sicher, dass Fahrradlichter für die Dämmerung bereit sind.",
+                "hu": "Tekerjen el a kastély deres romjai mellett; győződjön meg róla, hogy a lámpák készen állnak a gyors alkonyatra.",
+                "ro": "Pedalați pe lângă ruinele înghețate; asigurați-vă că luminile bicicletei sunt pregătite pentru amurgul rapid.",
+                "en": "Pedal past the frosty ruins of the castle; ensure your bike lights are completely ready for the approaching dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "la Miranda d'Espiells",
+                "hu": "la Miranda d'Espiells",
+                "ro": "la Miranda d'Espiells",
+                "en": "la Miranda d'Espiells"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang um 17:00 Uhr; schalten Sie das Licht für die dunkle Rückfahrt sofort ein.",
+                "hu": "Csípje el a korai 17:00 órai naplementét a táj felett; kapcsolja be a lámpákat azonnal a sötét visszautazáshoz.",
+                "ro": "Prindeți apusul timpuriu de la 17:00; porniți imediat farurile pentru întoarcerea sigură pe întuneric deplin.",
+                "en": "Catch the early 17:00 sunset across the Penedès region; switch on your headlights immediately for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Morning: Indítsa a napot a központi templomnál, majd hajtson át a nagyszerű Freixenet pincészetbe, lenyűgöző építészettel és a híres cava pezsgő örökségével kezdve a túrát.\nMidday: Autózzon délre, hogy felfedezze a szárazkő menedékeket és a Torrota de Can Llopard romos védelmi tornyát, ahonnan látványos hegyvidéki panoráma nyílik.\nAfternoon: Cirkáljon a festői utakon a Miranda d'Espiells kilátóhoz, majd vegye az irányt a Cal Xurriu történelmi birtok felé a mezőgazdasági hagyományok megismerésére.\nEvening: Zárja autós kirándulását a folyóparti Molí de l'Aixartell ősi vízimalom romjainál, amely nyugodt és elgondolkodtató befejezést nyújt ennek a változatos napnak.",
         "ro": "Morning: Porniți de la biserica centrală înainte de a trece ușor la marile crame Freixenet, începând ziua cu o arhitectură impresionantă și moștenirea bogată a vinului Cava.\nMidday: Conduceți spre sud pentru a explora adăposturile din piatră seacă și turnul defensiv ruinat Torrota de Can Llopard, care oferă panorame spectaculoase de pe deal.\nAfternoon: Călătoriți pe drumurile pitorești de țară până la punctul de belvedere Miranda d'Espiells, apoi îndreptați-vă spre moșia istorică Cal Xurriu pentru tradiții agricole.\nEvening: Încheiați călătoria cu mașina lângă râu la Molí de l'Aixartell, unde ruinele vechii mori de apă oferă un sfârșit liniștit și contemplativ pentru o zi diversă.",
         "en": "Morning: Start your engine at the central church before smoothly transitioning to the grand Freixenet cellars, kicking off your day with impressive architecture and Cava heritage.\nMidday: Drive south to explore the rural ingenuity of dry stone shelters and the ruined defensive tower of Torrota de Can Llopard, offering spectacular hilltop panoramas.\nAfternoon: Cruise along the scenic country roads to the Miranda d'Espiells viewpoint, then weave your way to the historical estate of Cal Xurriu to delve into agricultural traditions.\nEvening: Conclude your road trip by the river at Molí de l'Aixartell, where the ancient watermill ruins provide a tranquil and reflective end to a diverse day of sightseeing."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie die verregnete Fahrt an der Kirche und eilen Sie hinein. Der Vormittag bietet Schutz im Freixenet-Keller. Fahren Sie mittags vorsichtig zur Steinhütte und zum Turm. Nachmittags beobachten Sie den Regen vom Auto aus an der Miranda, bevor Sie Cal Xurriu und die alte Mühle erkunden.",
+            "hu": "Kezdje esős autózását a templomnál, gyorsan leparkolva és beszaladva. Délelőtt a Freixenet pincéi nyújtanak menedéket. Vezessen óvatosan a déli záporokban a kőkunyhó és a torony felé. Délután az autóból figyelje az esőt a Miranda kilátónál, majd biztonságosan fedezze fel a malmot.",
+            "ro": "Începeți cursa ploioasă la biserică, parcând rapid. Dimineața oferă adăpost în cramele Freixenet. Conduceți cu grijă prin averse spre coliba de piatră și turn. După-amiaza, priviți din mașină ploaia la Miranda, apoi explorați în siguranță Cal Xurriu și vechea moară istorică.",
+            "en": "Start your rainy drive at the church, quickly parking to dash inside. Mid-morning offers perfect shelter at Freixenet's cellars. Drive carefully through midday downpours to view the stone hut and tower. In the afternoon, watch the rain sweep over the Miranda viewpoint from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Sadurní",
+                "hu": "Sant Sadurní",
+                "ro": "Sant Sadurní",
+                "en": "Sant Sadurní"
+              },
+              "tip_5lang": {
+                "de": "Eilen Sie vom Auto in die Kirche; nehmen Sie einen großen Regenschirm für den kurzen Fußweg mit sich.",
+                "hu": "Szaladjon be az autóból a templomba, hogy megcsodálja szépségét; vigyen nagy esernyőt a rövid nyílt sétához.",
+                "ro": "Alergați din mașină în biserică pentru a-i admira frumusețea; luați o umbrelă mare pentru scurta plimbare.",
+                "en": "Dash from your car into the church to admire its beauty; carry a large umbrella for the brief outdoor walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Freixenet",
+                "hu": "Freixenet",
+                "ro": "Freixenet",
+                "en": "Freixenet"
+              },
+              "tip_5lang": {
+                "de": "Die Keller sind ideal für einen Regentag; genießen Sie eine trockene Tour, ohne sich ums Wetter zu sorgen.",
+                "hu": "A föld alatti pincék ideálisak esős napokra; élvezze a száraz, lenyűgöző túrát az időjárás miatti aggodalom nélkül.",
+                "ro": "Cramele subterane sunt ideale într-o zi ploioasă; bucurați-vă de un tur uscat, fără a vă face griji de vreme.",
+                "en": "The underground cellars are ideal for a rainy day; enjoy a dry, fascinating tour without worrying about the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "barraca de pedra seca 3926",
+                "hu": "barraca de pedra seca 3926",
+                "ro": "barraca de pedra seca 3926",
+                "en": "barraca de pedra seca 3926"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher an, um diese Steinhütte zu sehen; lassen Sie die Scheibenwischer bei starken Schauern an.",
+                "hu": "Húzódjon le biztonságosan, hogy megnézze a kőkunyhót; erős záporok idején járassa a maximumon az ablaktörlőt.",
+                "ro": "Trageți pe dreapta pentru a vedea coliba de piatră; mențineți ștergătoarele pe viteză mare în timpul averselor.",
+                "en": "Pull over safely to see this agricultural dry stone hut; keep your wipers on high during heavy showers here."
+              }
+            },
+            {
+              "name": {
+                "de": "la Torrota de Can Llopard",
+                "hu": "la Torrota de Can Llopard",
+                "ro": "la Torrota de Can Llopard",
+                "en": "la Torrota de Can Llopard"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Wachturm aus dem warmen Auto, wenn der schlammige, nasse Weg dorthin zu rutschig aussieht.",
+                "hu": "Tekintse meg az őrtornyot a fűtött és száraz autóból, ha a sáros, nedves ösvény túlságosan csúszósnak tűnik.",
+                "ro": "Priviți turnul de veghe din căldura mașinii dacă poteca noroioasă de acces pare vizibil prea alunecoasă.",
+                "en": "View this medieval watchtower from the warmth of your car if the muddy, wet approach trail looks too slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "la Miranda d'Espiells",
+                "hu": "la Miranda d'Espiells",
+                "ro": "la Miranda d'Espiells",
+                "en": "la Miranda d'Espiells"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick durch nasse Fenster; perfekt, um Stürme über den Weinbergen zu beobachten.",
+                "hu": "Élvezze a panorámát az eső áztatta ablakokon át; tökéletes hely a szőlőhegyeken átvonuló viharok megfigyelésére.",
+                "ro": "Bucurați-vă de priveliști panoramice prin ferestrele umede; un loc perfect pentru a vedea furtunile pe podgorii.",
+                "en": "Enjoy the panoramic views through rain-streaked windows; a perfect spot to watch storms roll across the vineyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Xurriu",
+                "hu": "Cal Xurriu",
+                "ro": "Cal Xurriu",
+                "en": "Cal Xurriu"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie vorsichtig durch nasse Straßen zu diesem Gebäude; Sie benötigen dringend wasserdichte Schuhe.",
+                "hu": "Óvatosan vezessen a szűk, nedves utcákon az épülethez; a kiszálláshoz feltétlenül megfelelő vízálló cipő szükséges.",
+                "ro": "Navigați cu atenție pe străzile înguste și umede până la clădire; coborârea necesită încălțăminte impermeabilă.",
+                "en": "Navigate the narrow, wet streets carefully to reach this historic building; stepping out requires waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de l'Aixartell",
+                "hu": "Molí de l'Aixartell",
+                "ro": "Molí de l'Aixartell",
+                "en": "Molí de l'Aixartell"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt an der alten Mühle; der Bach schwillt an, aber meiden Sie schlammige, rutschige Ufer.",
+                "hu": "Zárja a vezetést az öreg malomnál; a közeli patak gyönyörűen megduzzad az esőben, de kerülje a sáros partot.",
+                "ro": "Încheiați la vechea moară; pârâul din apropiere se umflă frumos pe ploaie, dar evitați malurile noroioase.",
+                "en": "End the drive at the old mill; the nearby stream swells beautifully in the rain, but stay clear of muddy banks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Morgenfahrt beginnt an der Kirche und führt in die warmen Freixenet-Keller. Mittags genießen Sie die Wintersonne an der Steinhütte und am Turm aus dem geheizten Auto. Nachmittags erwartet Sie die goldene Stunde an der Miranda. Beenden Sie den Tag pünktlich zum frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A fagyos reggeli vezetés a templomnál kezdődik, majd a Freixenet meleg pincéi felé veszi az irányt. Délben a fűtött autóból élvezheti a téli napsütést a kőkunyhónál. Délután az aranyóra várja a Mirandánál. Zárja a napot az öreg malomnál, ahogy a korai 17:00 órai naplemente elhozza a hideget.",
+            "ro": "O cursă matinală geroasă începe la biserică, îndreptându-se spre cramele calde Freixenet. La prânz, admirați soarele de iarnă la coliba de piatră și turn din mașina încălzită. După-amiaza aduce ora de aur la Miranda. Încheiați ziua la vechea moară exact când apusul de la 17:00 scade temperatura.",
+            "en": "A frosty morning drive begins at the historic church, moving quickly to the warm cellars of Freixenet. Midday lets you enjoy crisp winter sun at the dry stone hut and watchtower from your heated car. Afternoon brings golden hour views at Miranda before finishing at the mill before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Sadurní",
+                "hu": "Sant Sadurní",
+                "ro": "Sant Sadurní",
+                "en": "Sant Sadurní"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kirchenarchitektur in der Winterluft; stellen Sie sicher, dass die Autoheizung warm läuft.",
+                "hu": "Csodálja meg a templom építészetét a friss téli levegőn; gondoskodjon róla, hogy a fűtés készen álljon a visszatérésre.",
+                "ro": "Admirați arhitectura bisericii în aerul rece de iarnă; asigurați-vă că încălzirea mașinii este gata la întoarcere.",
+                "en": "Admire the church architecture in the crisp winter air; ensure your car heater is ready for when you return inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Freixenet",
+                "hu": "Freixenet",
+                "ro": "Freixenet",
+                "en": "Freixenet"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie an einer gemütlichen Kellereiführung teil, um dem Frost zu entkommen, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Vegyen részt egy meleg és hangulatos pincetúrán, hogy elmeneküljön a metsző fagy elől a vidéki autózás folytatása előtt.",
+                "ro": "Faceți un tur cald și confortabil al cramei pentru a scăpa de ger înainte de a continua plimbarea prin mediul rural.",
+                "en": "Take a warm and cozy winery tour to escape the biting winter frost before continuing your scenic countryside drive."
+              }
+            },
+            {
+              "name": {
+                "de": "barraca de pedra seca 3926",
+                "hu": "barraca de pedra seca 3926",
+                "ro": "barraca de pedra seca 3926",
+                "en": "barraca de pedra seca 3926"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie diese Steinhütte vor kahlen Winterreben; achten Sie auf eisige Stellen, wenn Sie aus dem Fahrzeug steigen.",
+                "hu": "Nézze meg a történelmi kőkunyhót a csupasz téli szőlőtőkék között; vigyázzon a jeges foltokra, ha kiszáll a járműből.",
+                "ro": "Vedeți coliba de piatră lângă vița de vie goală; atenție la peticele de gheață absolut alunecoase dacă ieșiți din mașină.",
+                "en": "See this historic stone hut set against bare winter vines; watch carefully for icy patches if you step out of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "la Torrota de Can Llopard",
+                "hu": "la Torrota de Can Llopard",
+                "ro": "la Torrota de Can Llopard",
+                "en": "la Torrota de Can Llopard"
+              },
+              "tip_5lang": {
+                "de": "Die Winterschatten lassen diesen Turm imposant wirken; Sie haben eine klare Sicht aus dem warmen Fahrersitz.",
+                "hu": "A téli árnyékok lenyűgözővé teszik a középkori tornyot; remek, tiszta kilátás nyílik rá a meleg vezetőülésből.",
+                "ro": "Umbrele de iarnă fac acest turn medieval să pară impunător; aveți o vedere clară din scaunul cald al șoferului.",
+                "en": "The winter shadows make this medieval tower look imposing; you get a great, clear view from the warm driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "la Miranda d'Espiells",
+                "hu": "la Miranda d'Espiells",
+                "ro": "la Miranda d'Espiells",
+                "en": "la Miranda d'Espiells"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum Aussichtspunkt für eine klare Wintersicht über die ruhende Landschaft; halten Sie eine dicke Jacke bereit.",
+                "hu": "Vezessen fel a kilátóhoz a lenyűgöző, tiszta panorámáért a téli táj felett; tartson kéznél egy meleg télikabátot.",
+                "ro": "Conduceți la punctul de belvedere pentru o vizibilitate clară asupra peisajului adormit; păstrați o jachetă caldă.",
+                "en": "Drive up to the viewpoint for stunning, crisp winter visibility over the dormant landscape; keep a warm jacket handy."
+              }
+            },
+            {
+              "name": {
+                "de": "Cal Xurriu",
+                "hu": "Cal Xurriu",
+                "ro": "Cal Xurriu",
+                "en": "Cal Xurriu"
+              },
+              "tip_5lang": {
+                "de": "Enge Straßen können kalte Luft stauen; genießen Sie historische Sehenswürdigkeiten schnell vor der Rückkehr ins Auto.",
+                "hu": "A szűk utcák megrekesztik a hideg levegőt; gyorsan élvezze a történelmi látnivalókat, mielőtt visszatérne a fűtött autóba.",
+                "ro": "Străzile înguste pot capta aerul rece; bucurați-vă rapid de atracțiile istorice înainte de a reveni în mașina încălzită.",
+                "en": "The narrow streets can trap cold winter air; enjoy the historic sights quickly before returning to your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de l'Aixartell",
+                "hu": "Molí de l'Aixartell",
+                "ro": "Molí de l'Aixartell",
+                "en": "Molí de l'Aixartell"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Mühle vor dem Sonnenuntergang um 17:00 Uhr; das schwindende Winterlicht auf dem Mauerwerk ist malerisch.",
+                "hu": "Látogassa meg az öreg malmot a 17:00 órai naplemente előtt; a halványuló téli fény a köveken hihetetlenül festői.",
+                "ro": "Vizitați moara veche înainte de apusul de la 17:00; lumina de iarnă estompată peste zidărie este incredibil de pitorească.",
+                "en": "Visit the old mill just before the 17:00 sunset; the fading winter light over the stonework is incredibly picturesque."
+              }
+            }
+          ]
+        }
       }
     }
   }

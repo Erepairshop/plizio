@@ -137,6 +137,168 @@
         "hu": "A reggel a szerzetesek irodájánál tett kulturális látogatással kezdődik, majd elsétálunk a világítótoronyhoz. A délidő kikapcsolódást hoz a strand lágy ívei mentén. A délután egy kalandos bepillantást tartogat a kis barlangba. Este pedig nyugat felé vesszük az irányt, hogy megcsodáljuk a látványos naplementét.",
         "ro": "Dimineața începe cu o imersiune culturală la biroul călugărilor, urmată de o plimbare la farul istoric. Prânzul aduce relaxare de-a lungul curbelor blânde ale plajei. După-amiaza este rezervată unei priviri aventuroase în mica peșteră. Seara se apropie îndreptându-vă spre vest pentru un apus de soare spectaculos peste Marea Andaman.",
         "en": "Morning begins with cultural immersion at the Monks' Bureau, followed by a walk to the historic Lighthouse. Midday brings relaxation along the gentle curves of Kaw Kwang Beach. Afternoon is reserved for an adventurous peek into the Small Cave. Evening approaches as you head west to witness a spectacular sunset over the Andaman Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens finden wir unter dem Dach der Mönche Ruhe, während der Regen sanft fällt. Mittags führt uns der Weg zum Leuchtturm, doch die Pfade sind rutschig, also gehen wir vorsichtig. Nachmittags bietet die kleine Höhle einen natürlichen Schutz vor dem tropischen Guss. Am Abend beobachten wir, wie die Wolken den Himmel über der Bucht in dramatische Grautöne tauchen.",
+            "hu": "Reggel a szerzeteseknél keresünk békét a tető alatt, miközben odakint esik. Délben az öreg világítótorony felé vesszük az irányt, de az út csúszós, így óvatosan lépkedünk. Délután a barlang nyújt természetes menedéket a zápor elől. Estére a felhős égbolt drámai színeket fest az öböl fölé, mielőtt visszavonulnánk a város védett teraszaira.",
+            "ro": "Dimineața găsim liniște sub acoperișul călugărilor în timp ce ploaia cade ușor. La prânz ne îndreptăm spre far, dar cărările sunt alunecoase, așa că mergem cu grijă. După-amiaza, peștera mică oferă un adăpost natural împotriva ploii tropicale. Seara, norii pictează cerul deasupra golfului în nuanțe dramatice de gri înainte de a ne retrage.",
+            "en": "In the morning, we find peace under the monks' shelter while the rain falls gently. At noon, we head to the lighthouse, but the paths are slippery, so we walk carefully. In the afternoon, the small cave provides a natural refuge from the tropical downpour. By evening, the clouds paint the sky over the bay in dramatic shades of gray."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sala Dan Bureau of Monks",
+                "hu": "Sala Dan Bureau of Monks",
+                "ro": "Sala Dan Bureau of Monks",
+                "en": "Sala Dan Bureau of Monks"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Gebete vom Pavillon aus; das Trommeln des Regens auf dem Dach verstärkt die Atmosphäre; halten Sie Ihre Schuhe an einem trockenen Platz.",
+                "hu": "Figyeld a szertartást a pavilon védelméből; az eső kopogása a tetőn még meditatívabbá teszi a helyet; tartsd a cipőidet száraz ponton.",
+                "ro": "Observați ritualul din pavilion; sunetul ploii pe acoperiș face locul și mai meditativ; păstrați-vă încălțămintea într-un loc uscat.",
+                "en": "Observe the chanting from the pavilion; the rhythm of rain on the roof makes it even more meditative; keep your shoes in a dry spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse",
+                "hu": "Lighthouse",
+                "ro": "Lighthouse",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die stürmische See bietet vom Leuchtturm aus einen rauen Anblick; der Asphaltweg ist sicherer als die nassen Steine; ein stabiler Regenschirm ist bei Wind nötig.",
+                "hu": "A viharos tenger nyers látványt nyújt a toronytól; az aszfaltozott út biztonságosabb a vizes köveknél; egy stabil esernyő kötelező a szélben.",
+                "ro": "Marea furtunoasă oferă o priveliște spectaculoasă de la far; drumul asfaltat este mai sigur decât pietrele ude; o umbrelă solidă este necesară.",
+                "en": "The stormy sea offers a raw sight from the lighthouse; the paved path is safer than the wet rocks; a sturdy umbrella is necessary in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaw Kwang Beach",
+                "hu": "Kaw Kwang Beach",
+                "ro": "Kaw Kwang Beach",
+                "en": "Kaw Kwang Beach"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Sand ist fest und ideal für einen kurzen Spaziergang am Wasser; suchen Sie Schutz unter den dichten Kasuarinen; wasserfeste Taschen schützen Ihre Kamera.",
+                "hu": "A vizes homok kemény és ideális egy rövid parti sétához; keress menedéket a sűrű fenyők alatt; vízálló táska védi az értékeidet.",
+                "ro": "Nisipul ud este ferm și ideal pentru o scurtă plimbare la malul mării; căutați adăpost sub pinii deși; geanta impermeabilă vă protejează valorile.",
+                "en": "The wet sand is firm and ideal for a short walk along the shore; seek shelter under the dense casuarina trees; waterproof bags protect your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Small cave",
+                "hu": "Small cave",
+                "ro": "Small cave",
+                "en": "Small cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle ist der perfekte trockene Ort, um den Regen vorbeiziehen zu lassen; achten Sie auf Tropfsteine und rutschige Stufen; Taschenlampe hilft bei dunklem Himmel.",
+                "hu": "A barlang tökéletes száraz hely, ahol kivárhatod az eső végét; vigyázz a csöpögő vízre és a csúszós lépcsőkre; sötétedéskor jól jön egy lámpa.",
+                "ro": "Peștera este locul uscat perfect pentru a aștepta oprirea ploii; atenție la picăturile de apă și treptele alunecoase; o lanternă ajută pe cer înnorat.",
+                "en": "The cave is the perfect dry spot to wait out the rain; watch out for dripping water and slippery steps; a flashlight helps when the sky is dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Fantastic sunset viewpoint",
+                "hu": "Fantastic sunset viewpoint",
+                "ro": "Fantastic sunset viewpoint",
+                "en": "Fantastic sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Wolkendurchbrüche erzeugen nach dem Regen oft leuchtende Farben am Horizont; bleiben Sie im überdachten Bereich; Gore-Tex-Kleidung hält Sie angenehm trocken.",
+                "hu": "Az eső utáni felhőszakadások gyakran vibráló színeket festenek a horizontra; maradj a fedett részen; egy jó esőkabát segít elkerülni a megfázást.",
+                "ro": "Razele soarelui printre nori creează culori vibrante după ploaie; rămâneți în zona acoperită; o jachetă impermeabilă vă va ține uscat.",
+                "en": "Sunlight breaking through clouds often creates vibrant colors after rain; stay in the covered area; waterproof gear will keep you comfortable."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgenwind macht den Besuch bei den Mönchen besonders angenehm. Mittags glänzt der Leuchtturm unter der klaren Wintersonne, die nicht zu heiß brennt. Am Nachmittag genießen wir den Strandspaziergang bei niedriger Luftfeuchtigkeit. Da die Sonne bereits gegen 17:00 Uhr untergeht, suchen wir uns frühzeitig einen gemütlichen Platz für den Abend.",
+            "hu": "A hűvös reggeli szél különösen kellemessé teszi a látogatást a szerzeteseknél. Délben a világítótorony ragyog a tiszta téli napsütésben, ami ilyenkor nem éget annyira. Délután élvezzük a tengerparti sétát az alacsony páratartalomban. Mivel a nap már 17:00 körül nyugovóra tér, korán keresünk egy meleg fényű teraszt az estére.",
+            "ro": "Vântul răcoros de dimineață face vizita la călugări extrem de plăcută. La prânz, farul strălucește sub soarele clar de iarnă, care nu arde prea tare. După-amiaza ne bucurăm de plimbarea pe plajă datorită umidității scăzute. Deoarece soarele apune deja în jur de 17:00, căutăm din timp un loc primitor pentru seară.",
+            "en": "The cool morning breeze makes the visit to the monks especially pleasant. At noon, the lighthouse shines under the clear winter sun, which isn't too hot. In the afternoon, we enjoy the beach walk in the low humidity. Since the sun sets around 17:00, we find a cozy spot early for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sala Dan Bureau of Monks",
+                "hu": "Sala Dan Bureau of Monks",
+                "ro": "Sala Dan Bureau of Monks",
+                "en": "Sala Dan Bureau of Monks"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milde Morgenluft für die Besichtigung; die Mönche schätzen respektvolle Kleidung, die auch vor dem Wind schützt; ein dünner Schal ist ideal.",
+                "hu": "Használd ki az enyhe reggeli levegőt a nézelődéshez; a szerzetesek értékelik a tiszteletteljes öltözetet, ami a szél ellen is véd; egy vékony sál tökéletes.",
+                "ro": "Profită de aerul blând al dimineții pentru vizitare; călugării apreciază ținuta respectuoasă care protejează și de vânt; un șal subțire este ideal.",
+                "en": "Take advantage of the mild morning air for sightseeing; monks appreciate respectful clothing that also shields from the breeze; a light scarf is perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse",
+                "hu": "Lighthouse",
+                "ro": "Lighthouse",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Nachbarinseln ist im Winter am besten; die Sonne steht tiefer, was weicheres Licht für Fotos gibt; eine leichte Jacke schützt vor der Brise.",
+                "hu": "A távoli szigetek látványa télen a legtisztább; a nap alacsonyabban áll, így lágyabbak a fények a fotózáshoz; egy könnyű dzseki véd a hűvös széltől.",
+                "ro": "Vizibilitatea spre insulele vecine este cea mai bună iarna; soarele este mai jos, oferind lumină caldă pentru poze; o jachetă ușoară protejează de briză.",
+                "en": "Visibility to neighboring islands is best in winter; the sun is lower, providing softer light for photos; a light jacket protects against the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaw Kwang Beach",
+                "hu": "Kaw Kwang Beach",
+                "ro": "Kaw Kwang Beach",
+                "en": "Kaw Kwang Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den langen Strandspaziergang ohne die Hitze des Sommers; das Wasser ist etwas kühler, aber erfrischend; Sonnencreme ist trotz der Kühle wichtig.",
+                "hu": "Élvezd a hosszú parti sétát a nyári hőség nélkül; a víz kicsit hűvösebb, de frissítő; a naptej a hűvösebb idő ellenére is fontos.",
+                "ro": "Bucurați-vă de plimbarea lungă pe plajă fără arșița verii; apa este puțin mai rece, dar revigorantă; crema solară rămâne importantă și pe răcoare.",
+                "en": "Enjoy a long beach walk without the summer heat; the water is slightly cooler but refreshing; sunscreen is still important despite the cooler feel."
+              }
+            },
+            {
+              "name": {
+                "de": "Small cave",
+                "hu": "Small cave",
+                "ro": "Small cave",
+                "en": "Small cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet eine konstante, angenehme Temperatur; der trockene Boden macht den Zugang sehr einfach; perfekt für eine kurze Pause im Schatten.",
+                "hu": "A barlang állandó, kellemes hőmérsékletet biztosít; a száraz talaj miatt a bejutás nagyon egyszerű; tökéletes egy rövid árnyékos pihenőhöz.",
+                "ro": "Peștera oferă o temperatură constantă și plăcută; solul uscat face accesul foarte ușor; este locul perfect pentru o scurtă pauză la umbră.",
+                "en": "The cave provides a constant, pleasant temperature; the dry ground makes access very easy; it's perfect for a short break in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Fantastic sunset viewpoint",
+                "hu": "Fantastic sunset viewpoint",
+                "ro": "Fantastic sunset viewpoint",
+                "en": "Fantastic sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie wegen des frühen Sonnenuntergangs bereits vor 16:30 Uhr; die Winterfarben sind besonders intensiv; ein warmer Pullover für danach ist ratsam.",
+                "hu": "A korai naplemente miatt érkezz már 16:30 előtt; a téli színek különösen intenzívek; vigyél egy meleg pulóvert az esti lehűlésre.",
+                "ro": "Vino înainte de 16:30 pentru apusul timpuriu; culorile de iarnă sunt extrem de intense; un pulover călduros este recomandat pentru după apus.",
+                "en": "Arrive before 16:30 due to the early sunset; winter colors are exceptionally intense; bring a warm sweater for the evening chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel tekerjen a Klong Dao Beachre a friss levegőért, majd látogasson el a szerzetesekhez és a világítótoronyhoz. A délidő tökéletes a Kaw Kwang Beach felé való biciklizéshez. A délután lehetővé tesz egy különleges apályos kirándulást Ko Raengre. Az este egy lenyűgöző, lemenő nappal szemközti kilátóponton zárul tökéletesen.",
         "ro": "Pedalați mai întâi la plaja Klong Dao pentru briza matinală, apoi vizitați biroul călugărilor și farul istoric. Prânzul este perfect pentru a merge cu bicicleta spre plaja Kaw Kwang. După-amiaza permite o excursie unică la reflux spre Ko Raeng. Seara se încheie la un punct de belvedere uimitor orientat spre apusul soarelui.",
         "en": "Pedal first to Klong Dao Beach for a fresh morning breeze, then visit the Monks' Bureau and the historic Lighthouse. Midday is perfect for cycling towards Kaw Kwang Beach for a refreshing break. Afternoon allows a unique low-tide excursion to Ko Raeng. Evening wraps up perfectly at a stunning viewpoint facing the setting sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir radeln am Morgen vorsichtig zum Klong Dao Strand, wo der Regen die Luft reinigt. Mittags besuchen wir die Mönche und suchen Schutz vor den Schauern. Am Nachmittag geht es zum Leuchtturm, wobei wir auf Pfützen achten. Den Abend lassen wir an einem Aussichtspunkt ausklingen, während wir hoffen, dass die Wolkendecke für einen kurzen Moment aufbricht.",
+            "hu": "Reggel óvatosan tekerünk a Klong Dao partra, ahol az eső felfrissíti a levegőt. Délben a szerzeteseknél teszünk látogatást, behúzódva a záporok elől. Délután a világítótorony felé vesszük az irányt, kerülgetve a pocsolyákat. Az estét a kilátóponton zárjuk, remélve, hogy a felhőzet egy pillanatra felszakad a naplemente előtt.",
+            "ro": "Pedalăm cu atenție dimineața spre plaja Klong Dao, unde ploaia împrospătează aerul. La prânz vizităm călugării, adăpostindu-ne de averse. După-amiaza ne îndreptăm spre far, evitând bălțile de pe drum. Încheiem seara la punctul de observație, sperând ca norii să se risipească pentru o clipă înainte de apus.",
+            "en": "We cycle carefully in the morning to Klong Dao beach, where the rain refreshes the air. At noon, we visit the monks, taking shelter from the showers. In the afternoon, we head towards the lighthouse, avoiding puddles on the road. We end the evening at the viewpoint, hoping the clouds break for a moment before sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Klong Dao Beach",
+                "hu": "Klong Dao Beach",
+                "ro": "Klong Dao Beach",
+                "en": "Klong Dao Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist bei Regen leer und friedlich; radeln Sie nur auf befestigten Wegen, um Schlamm zu vermeiden; eine wasserdichte Handyhülle ist nützlich.",
+                "hu": "A strand esőben üres és békés; csak a szilárd burkolatú utakon tekerj, hogy elkerüld a sarat; egy vízálló telefontok nagyon hasznos lesz.",
+                "ro": "Plaja este pustie și liniștită pe ploaie; pedalați doar pe drumurile pavate pentru a evita noroiul; o husă de telefon impermeabilă este foarte utilă.",
+                "en": "The beach is empty and peaceful in the rain; cycle only on paved paths to avoid mud; a waterproof phone case will be very useful."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Dan Bureau of Monks",
+                "hu": "Sala Dan Bureau of Monks",
+                "ro": "Sala Dan Bureau of Monks",
+                "en": "Sala Dan Bureau of Monks"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad im Trockenen; die Ruhe des Klosters wird durch das Regengeräusch verstärkt; achten Sie auf glatte Fliesen im Eingangsbereich.",
+                "hu": "Parkold a biciklidet száraz helyre; a kolostor nyugalmát felerősíti az eső hangja; vigyázz a csúszós járólapokra a bejáratnál.",
+                "ro": "Parcați bicicleta la loc uscat; liniștea mănăstirii este accentuată de sunetul ploii; atenție la gresia alunecoasă de la intrare.",
+                "en": "Park your bike in a dry spot; the monastery's peace is enhanced by the sound of rain; watch out for slippery tiles at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse",
+                "hu": "Lighthouse",
+                "ro": "Lighthouse",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben stark sein; halten Sie den Lenker fest und meiden Sie die Klippenkanten; der Blick auf die graue See ist sehr atmosphärisch.",
+                "hu": "A szél itt felerősödhet; fogd erősen a kormányt és kerüld a sziklák szélét; a szürke tenger látványa nagyon hangulatos az esőben.",
+                "ro": "Vântul se poate intensifica aici; țineți bine ghidonul și evitați marginea stâncilor; marea cenușie este foarte atmosferică pe ploaie.",
+                "en": "The wind can pick up here; hold the handlebars firmly and avoid cliff edges; the view of the gray sea is very atmospheric in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaw Kwang Beach",
+                "hu": "Kaw Kwang Beach",
+                "ro": "Kaw Kwang Beach",
+                "en": "Kaw Kwang Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Palmen als natürlichen Regenschutz beim Parken; der Weg zum Strand kann matschig sein; Schutzbleche am Fahrrad sind jetzt ein Muss.",
+                "hu": "Használd a pálmákat természetes esővédőként a parkoláskor; a strandhoz vezető út sáros lehet; a sárvédő a biciklin most elengedhetetlen.",
+                "ro": "Folosiți palmierii ca protecție naturală când parcați; drumul spre plajă poate fi noroios; aripile la bicicletă sunt esențiale acum.",
+                "en": "Use palms as natural rain cover when parking; the path to the beach can be muddy; mudguards on your bike are essential now."
+              }
+            },
+            {
+              "name": {
+                "de": "Ko Raeng",
+                "hu": "Ko Raeng",
+                "ro": "Ko Raeng",
+                "en": "Ko Raeng"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen können bei Nässe extrem gefährlich sein; bleiben Sie auf den markierten Pfaden; das dunkle Meer bietet ein tolles Fotomotiv.",
+                "hu": "A sziklák vizesen rendkívül veszélyesek lehetnek; maradj a kijelölt ösvényeken; a sötét tenger és a ködös táj remek fotótéma.",
+                "ro": "Stâncile pot fi extrem de periculoase când sunt ude; rămâneți pe potecile marcate; marea întunecată și ceața oferă un cadru foto excelent.",
+                "en": "The rocks can be extremely dangerous when wet; stay on marked paths; the dark sea and misty landscape make for a great photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Fantastic sunset viewpoint",
+                "hu": "Fantastic sunset viewpoint",
+                "ro": "Fantastic sunset viewpoint",
+                "en": "Fantastic sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Rückweg im Regen erfordert gute Bremsen; fahren Sie langsam bergab; ein Regencape schützt Sie besser als ein Schirm auf dem Rad.",
+                "hu": "Az esőben való visszautazás jó fékeket igényel; ereszkedj lassan a lejtőn; egy esőponcsó jobban véd a biciklin, mint egy esernyő.",
+                "ro": "Drumul de întoarcere pe ploaie necesită frâne bune; coborâți panta încet; o pelerină de ploaie vă protejează mai bine pe bicicletă.",
+                "en": "The ride back in the rain requires good brakes; go down slopes slowly; a rain poncho protects you better than an umbrella while cycling."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Wintermorgenluft lädt zu einer entspannten Radtour zum Klong Dao Strand ein. Mittags genießen wir die Sonne ohne die extreme Hitze bei den Mönchen. Nachmittags radeln wir zum Leuchtturm und spüren die erfrischende Brise. Da die Dämmerung früh einsetzt, planen wir unseren Halt am Aussichtspunkt für den späten Nachmittag ein.",
+            "hu": "A hűvös téli reggeli levegő ideális egy pihentető biciklizéshez a Klong Dao partra. Délben élvezzük a napsütést az extrém hőség nélkül a szerzeteseknél. Délután a világítótoronyhoz tekerünk, ahol frissítő szellő fogad. Mivel hamar sötétedik, a kilátópontot már a késő délutáni órákra betervezzük.",
+            "ro": "Aerul răcoros de iarnă este ideal pentru o plimbare relaxantă cu bicicleta spre plaja Klong Dao. La prânz ne bucurăm de soare fără căldura extremă la călugări. După-amiaza pedalăm spre far, unde ne întâmpină o briză revigorantă. Deoarece se întunecă repede, planificăm oprirea la belvedere pentru după-amiaza târzie.",
+            "en": "The cool winter morning air is ideal for a relaxing bike ride to Klong Dao beach. At noon, we enjoy the sun without the extreme heat at the monks' place. In the afternoon, we cycle to the lighthouse, greeted by a refreshing breeze. Since it gets dark early, we plan the viewpoint stop for late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Klong Dao Beach",
+                "hu": "Klong Dao Beach",
+                "ro": "Klong Dao Beach",
+                "en": "Klong Dao Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren am Strand ist bei Ebbe auf dem harten Sand fantastisch; die Wintersonne ist mild; trinken Sie trotzdem genug Wasser.",
+                "hu": "A kemény homokon való biciklizés apálykor fantasztikus élmény; a téli nap enyhébb, de ne felejts el elegendő vizet inni.",
+                "ro": "Pedalatul pe nisipul tare la reflux este o experiență fantastică; soarele de iarnă e blând, dar nu uitați să beți destulă apă.",
+                "en": "Cycling on the hard sand during low tide is a fantastic experience; the winter sun is mild, but remember to drink plenty of water."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Dan Bureau of Monks",
+                "hu": "Sala Dan Bureau of Monks",
+                "ro": "Sala Dan Bureau of Monks",
+                "en": "Sala Dan Bureau of Monks"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schatten der Bäume zum Parken; die kühle Brise weht angenehm durch die Tempelanlage; tragen Sie leichte, lange Kleidung.",
+                "hu": "Használd a fák árnyékát a parkoláshoz; a hűvös szellő kellemesen átjárja a templomkertet; viselj könnyű, de hosszú ruházatot.",
+                "ro": "Folosiți umbra copacilor pentru parcare; briza răcoroasă străbate plăcut grădina templului; purtați haine ușoare, dar lungi.",
+                "en": "Use the shade of the trees for parking; the cool breeze flows pleasantly through the temple grounds; wear light but long clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse",
+                "hu": "Lighthouse",
+                "ro": "Lighthouse",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Leuchtturm ist bei den kühleren Temperaturen weniger anstrengend; die Aussicht ist glasklar; eine Sonnenbrille ist wegen der Reflexion nötig.",
+                "hu": "A világítótoronyhoz vezető emelkedő a hűvösebb időben kevésbé fárasztó; a kilátás kristálytiszta; napszemüveg a csillogás miatt kötelező.",
+                "ro": "Urcarea spre far este mai puțin obositoare pe vreme răcoroasă; vederea este clară; ochelarii de soare sunt necesari din cauza reflexiilor.",
+                "en": "The climb to the lighthouse is less tiring in the cooler weather; the view is crystal clear; sunglasses are a must due to the glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaw Kwang Beach",
+                "hu": "Kaw Kwang Beach",
+                "ro": "Kaw Kwang Beach",
+                "en": "Kaw Kwang Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Radpause im Sand; die Meeresbrise kann im Winter kühl sein, nehmen Sie ein leichtes Tuch mit; genießen Sie die Ruhe.",
+                "hu": "Tökéletes hely egy biciklis pihenőhöz a homokban; a tengeri szél télen hűvös lehet, vigyél egy vékony kendőt; élvezd a csendet.",
+                "ro": "Loc perfect pentru o pauză cu bicicleta pe nisip; vântul mării poate fi răcoros iarna, luați o eșarfă subțire; bucurați-vă de liniște.",
+                "en": "Perfect spot for a bike break on the sand; the sea breeze can be cool in winter, take a light scarf; enjoy the peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Ko Raeng",
+                "hu": "Ko Raeng",
+                "ro": "Ko Raeng",
+                "en": "Ko Raeng"
+              },
+              "tip_5lang": {
+                "de": "Die trockenen Felsen bieten guten Halt für Erkundungen; achten Sie auf den frühen Schattenwurf; die Winteratmosphäre ist hier sehr entspannt.",
+                "hu": "A száraz sziklák jó tapadást biztosítanak a felfedezéshez; figyelj a korai árnyékokra; a téli hangulat itt nagyon megnyugtató.",
+                "ro": "Stâncile uscate oferă o aderență bună pentru explorare; atenție la umbrele timpurii; atmosfera de iarnă aici este foarte relaxantă.",
+                "en": "The dry rocks provide good grip for exploring; watch out for early shadows; the winter atmosphere here is very calming."
+              }
+            },
+            {
+              "name": {
+                "de": "Fantastic sunset viewpoint",
+                "hu": "Fantastic sunset viewpoint",
+                "ro": "Fantastic sunset viewpoint",
+                "en": "Fantastic sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie wegen des frühen Sonnenuntergangs pünktlich; die Abfahrt im Dunkeln erfordert ein funktionierendes Licht am Fahrrad; es wird schnell kühl.",
+                "hu": "A korai naplemente miatt érkezz időben; a sötétben való leereszkedéshez működő lámpa kell a biciklire; a levegő gyorsan lehűl.",
+                "ro": "Vino la timp pentru apusul timpuriu; coborârea pe întuneric necesită lumini funcționale la bicicletă; aerul se răcește rapid.",
+                "en": "Arrive early for the early sunset; riding back in the dark requires working bike lights; the air cools down very quickly after dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kora reggel vezessen a szerzetesek irodájához és a tengerparti világítótoronyhoz. Délben északra indul a csendes Langsod Beach és a nyüzsgő Rattana Waterpark felé. A délután folyamán a gyönyörű Kaw Kwang Beachhez autózunk. Az este fenségesen zárul a nyugati parton megtekinthető felejthetetlen naplementével.",
         "ro": "Conduceți devreme la biroul călugărilor și la farul de pe coastă. Prânzul vă duce spre nord, la nisipurile liniștite din Langsod și la parcul acvatic plin de viață. După-amiaza implică o croazieră pitorească spre frumoasa plajă Kaw Kwang. Seara se încheie maiestuos conducând spre marginea vestică pentru priveliști de neuitat.",
         "en": "Drive early to the Monks' Bureau and the coastal Lighthouse to start your day. Midday takes you north to the quiet sands of Langsod Beach and the lively Rattana Waterpark. Afternoon involves a scenic cruise to the beautiful Kaw Kwang Beach. Evening concludes majestically as you drive to the western edge for unforgettable sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto sind wir vor den starken Morgenschauern auf dem Weg zu den Mönchen geschützt. Mittags fahren wir sicher zum Leuchtturm, während die Scheibenwischer im Takt des Regens arbeiten. Am Nachmittag besuchen wir den Wasserpark, der auch bei Regen seinen Reiz hat. Den Abend verbringen wir trocken im Wagen an einem Aussichtspunkt und genießen die Lichtspiele.",
+            "hu": "Az autóban védve vagyunk a heves reggeli záporoktól a szerzetesek felé menet. Délben biztonságban autózunk a világítótoronyhoz, miközben az ablaktörlők az eső ütemére járnak. Délután ellátogatunk a víziparkba, ami esőben is különleges élmény. Az estét szárazon töltjük a kocsiban a kilátópontnál, a fényeket csodálva.",
+            "ro": "În mașină suntem protejați de aversele matinale în drum spre călugări. La prânz conducem în siguranță spre far, în timp ce ștergătoarele bat în ritmul ploii. După-amiaza vizităm parcul acvatic, care are farmecul lui și pe ploaie. Încheiem seara la adăpost în mașină, admirând jocurile de lumini de la belvedere.",
+            "en": "Inside the car, we're protected from heavy morning showers on our way to the monks. At noon, we drive safely to the lighthouse as the wipers match the rhythm of the rain. In the afternoon, we visit the waterpark, which is a unique experience even in the rain. We spend the evening dry in the car at the viewpoint, admiring the lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sala Dan Bureau of Monks",
+                "hu": "Sala Dan Bureau of Monks",
+                "ro": "Sala Dan Bureau of Monks",
+                "en": "Sala Dan Bureau of Monks"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; nutzen Sie den Schirm für den kurzen Weg zum Tempel; die Farben der Gebäude leuchten im Regen besonders.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz; használj esernyőt a templomig vezető rövid úton; az épületek színei az esőben különösen ragyognak.",
+                "ro": "Parcați cât mai aproape de intrare; folosiți umbrela pentru drumul scurt până la templu; culorile clădirilor strălucesc intens pe ploaie.",
+                "en": "Park as close to the entrance as possible; use an umbrella for the short walk to the temple; the building colors glow beautifully in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse",
+                "hu": "Lighthouse",
+                "ro": "Lighthouse",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die Aussicht durch die Fenster; die Straße zum Kap kann bei Nässe rutschig sein; fahren Sie langsam.",
+                "hu": "Heves esőben maradj az autóban és élvezd a kilátást az ablakon keresztül; a fokhoz vezető út vizesen csúszós lehet; vezess lassan és óvatosan.",
+                "ro": "Pe ploaie torențială, rămâneți în mașină și admirați vederea prin geam; drumul spre cap poate fi alunecos când e ud; conduceți încet și prudent.",
+                "en": "In heavy rain, stay in the car and enjoy the view through the window; the road to the cape can be slippery when wet; drive slowly and carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Langsod Beach",
+                "hu": "Langsod Beach",
+                "ro": "Langsod Beach",
+                "en": "Langsod Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist ideal für einen schnellen Blick aufs Meer vom Auto aus; die Gischt sieht bei Sturm beeindruckend aus; halten Sie die Fenster einen Spalt offen.",
+                "hu": "A strand ideális egy gyors tengerparti pillantáshoz az autóból; a viharos habok lenyűgözőek; tartsd résnyire nyitva az ablakot a friss levegőért.",
+                "ro": "Plaja este ideală pentru o privire rapidă spre mare din mașină; valurile înspumate sunt impresionante; lăsați geamul puțin deschis pentru aer curat.",
+                "en": "The beach is ideal for a quick sea view from the car; the stormy surf looks impressive; keep the window slightly open for the fresh sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattana Resort & Waterpark",
+                "hu": "Rattana Resort & Waterpark",
+                "ro": "Rattana Resort & Waterpark",
+                "en": "Rattana Resort & Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Resorts; das Schwimmen im Regen ist ein warmes Erlebnis; trockene Kleidung im Auto ist für die Weiterfahrt wichtig.",
+                "hu": "Használd a resort fedett részeit; az esőben való úszás különleges, meleg élmény; legyen száraz váltóruha az autóban a továbbinduláshoz.",
+                "ro": "Folosiți zonele acoperite ale complexului; înotul pe ploaie este o experiență caldă și specială; aveți haine de schimb uscate în mașină.",
+                "en": "Use the resort's covered areas; swimming in the rain is a warm, special experience; have dry clothes ready in the car for the onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaw Kwang Beach",
+                "hu": "Kaw Kwang Beach",
+                "ro": "Kaw Kwang Beach",
+                "en": "Kaw Kwang Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter den Bäumen für zusätzlichen Schutz; der Regen auf dem Autodach wirkt beruhigend; perfekt für eine kurze Meditationspause im Trockenen.",
+                "hu": "Parkolj a fák alá extra védelemért; az eső kopogása az autótetőn megnyugtató; tökéletes hely egy rövid, száraz meditációs szünethez.",
+                "ro": "Parcați sub copaci pentru protecție suplimentară; sunetul ploii pe plafonul mașinii e relaxant; loc perfect pentru o scurtă pauză meditativă.",
+                "en": "Park under trees for extra protection; the sound of rain on the car roof is relaxing; it's a perfect spot for a short, dry meditative break."
+              }
+            },
+            {
+              "name": {
+                "de": "Fantastic sunset viewpoint",
+                "hu": "Fantastic sunset viewpoint",
+                "ro": "Fantastic sunset viewpoint",
+                "en": "Fantastic sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Klimaanlage hilft gegen beschlagene Scheiben beim Warten auf die Dämmerung; genießen Sie die stimmungsvolle Musik im Auto; fahren Sie vorsichtig zurück.",
+                "hu": "A légkondi segít a párásodás ellen, miközben a szürkületet várod; élvezd a hangulatos zenét az autóban; óvatosan vezess vissza a városba.",
+                "ro": "Aerul condiționat ajută împotriva aburirii geamurilor în timp ce așteptați amurgul; bucurați-vă de muzică în mașină; conduceți prudent înapoi.",
+                "en": "Air conditioning helps prevent fogged windows while waiting for dusk; enjoy atmospheric music in the car; drive back to town carefully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft macht die Fahrt zu den Mönchen im Winter sehr angenehm. Mittags genießen wir die klare Sicht am Leuchtturm, während das Auto eine kühle Basis bietet. Nachmittags besuchen wir Langsod und den Wasserpark unter der milden Wintersonne. Da es bereits gegen 17:00 Uhr dämmert, erreichen wir den Aussichtspunkt genau rechtzeitig für das goldene Licht.",
+            "hu": "A hűvös reggeli levegő télen nagyon kellemessé teszi az autózást a szerzetesek felé. Délben élvezzük a tiszta kilátást a világítótoronynál, miközben az autó hűvös bázisként szolgál. Délután meglátogatjuk Langsodot és a víziparkot az enyhe téli napsütésben. Mivel 17:00-kor már sötétedik, pontosan a fénypontra érünk a kilátóhoz.",
+            "ro": "Aerul răcoros de dimineață face condusul spre călugări foarte plăcut iarna. La prânz ne bucurăm de vizibilitatea clară la far, mașina fiind o bază confortabilă. După-amiaza vizităm Langsod și parcul acvatic sub soarele blând de iarnă. Deoarece amurgul vine la 17:00, ajungem la belvedere exact la timp pentru ora aurie.",
+            "en": "The cool morning air makes driving to the monks very pleasant in winter. At noon, we enjoy the clear visibility at the lighthouse, with the car serving as a cool base. In the afternoon, we visit Langsod and the waterpark under the mild winter sun. Since dusk starts at 17:00, we arrive at the viewpoint just in time for the golden hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sala Dan Bureau of Monks",
+                "hu": "Sala Dan Bureau of Monks",
+                "ro": "Sala Dan Bureau of Monks",
+                "en": "Sala Dan Bureau of Monks"
+              },
+              "tip_5lang": {
+                "de": "Die milde Wintersonne beleuchtet die Tempel herrlich am Morgen; tragen Sie eine leichte Schicht Kleidung gegen die kühle Brise; Parkplätze sind gut verfügbar.",
+                "hu": "Az enyhe téli napfény gyönyörűen világítja meg a templomokat reggel; viselj réteges öltözetet a hűvös szél ellen; a parkolóhelyek könnyen elérhetőek.",
+                "ro": "Soarele blând de iarnă luminează superb templele dimineața; purtați haine în straturi contra brizei răcoroase; locurile de parcare sunt accesibile.",
+                "en": "The mild winter sunlight illuminates the temples beautifully in the morning; wear layers against the cool breeze; parking spots are easily available."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse",
+                "hu": "Lighthouse",
+                "ro": "Lighthouse",
+                "en": "Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Luft am klarsten für Fotos vom Kap; die Sonne brennt mittags nicht so stark, dennoch ist Sonnenschutz im Auto ratsam; genießen Sie die Brise.",
+                "hu": "Télen a legtisztább a levegő a foknál készült fotókhoz; a nap délben nem éget annyira, de a napvédelem az autóban is fontos; élvezd a friss szellőt.",
+                "ro": "Iarna aerul este cel mai clar pentru pozele de la cap; soarele nu arde tare la prânz, dar protecția solară e utilă și în mașină; bucurați-vă de briză.",
+                "en": "The air is clearest in winter for photos at the cape; the sun doesn't burn as much at noon, but sun protection in the car is still wise; enjoy the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Langsod Beach",
+                "hu": "Langsod Beach",
+                "ro": "Langsod Beach",
+                "en": "Langsod Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein Picknick am Strand ohne die Sommerhitze; das Wasser ist ruhig und klar; im Auto gelagerte Getränke bleiben länger kühl.",
+                "hu": "Tökéletes hely egy tengerparti piknikhez a nyári hőség nélkül; a víz nyugodt és tiszta; az autóban tárolt italok ilyenkor tovább maradnak hűvösek.",
+                "ro": "Loc perfect pentru un picnic pe plajă fără arșița verii; apa este calmă și clară; băuturile ținute în mașină rămân reci mai mult timp acum.",
+                "en": "Perfect for a beach picnic without the summer heat; the water is calm and clear; drinks stored in the car stay cool for longer in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattana Resort & Waterpark",
+                "hu": "Rattana Resort & Waterpark",
+                "ro": "Rattana Resort & Waterpark",
+                "en": "Rattana Resort & Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Pool bei angenehmen Temperaturen; die Wintersonne ist perfekt zum Bräunen; eine leichte Jacke für den Weg zurück zum Auto einplanen.",
+                "hu": "Élvezd a medencét a kellemes hőmérsékletben; a téli nap tökéletes a barnuláshoz; készíts be egy könnyű dzsekit az autóhoz való visszasétához.",
+                "ro": "Bucurați-vă de piscină la temperaturi plăcute; soarele de iarnă e perfect pentru bronzat; pregătiți o jachetă ușoară pentru drumul spre mașină.",
+                "en": "Enjoy the pool in pleasant temperatures; the winter sun is perfect for tanning; have a light jacket ready for the walk back to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaw Kwang Beach",
+                "hu": "Kaw Kwang Beach",
+                "ro": "Kaw Kwang Beach",
+                "en": "Kaw Kwang Beach"
+              },
+              "tip_5lang": {
+                "de": "Die niedrige Luftfeuchtigkeit macht den Strandbesuch sehr erholsam; das Meer schimmert im flachen Winterlicht azurblau; parken Sie direkt am Rand.",
+                "hu": "Az alacsony páratartalom miatt a strandolás nagyon pihentető; a tenger azúrkékben csillog a téli fényben; parkolj közvetlenül a part szélén.",
+                "ro": "Umiditatea scăzută face vizita la plajă foarte odihnitoare; marea strălucește în azuriu sub lumina iernii; parcați chiar la marginea plajei.",
+                "en": "The low humidity makes the beach visit very relaxing; the sea shimmers in azure blue under the winter light; park right by the beach edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Fantastic sunset viewpoint",
+                "hu": "Fantastic sunset viewpoint",
+                "ro": "Fantastic sunset viewpoint",
+                "en": "Fantastic sunset viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie pünktlich um 16:45 Uhr für den frühen Sonnenuntergang; im Winter sind die Farben besonders satt; die Heimfahrt im Dunkeln ist im Auto sicher.",
+                "hu": "Érkezz pontosan 16:45-re a korai naplemente miatt; télen a színek különösen teltek; a sötétben való hazautazás autóval a legbiztonságosabb.",
+                "ro": "Vino fix la 16:45 pentru apusul timpuriu; iarna culorile sunt extrem de saturate; drumul spre casă pe întuneric este cel mai sigur cu mașina.",
+                "en": "Arrive at 16:45 sharp for the early sunset; winter colors are especially rich; driving home in the dark is safest and most comfortable by car."
+              }
+            }
+          ]
+        }
       }
     }
   }

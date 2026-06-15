@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a helyi tengeri és mezőgazdasági örökség felfedezésével a Sargaço Múzeumban. Délben élvezze Castelo do Neiva strandjának homokját, mielőtt a folyami strand vizéhez indulna. A délután lenyűgöző panorámás parti kilátást tartogat a Neiva folyó kilátójából. Végül elmélkedjen a nap szépségén a békés Santa Tecla kápolnában.",
         "ro": "Începeți ziua explorând moștenirea maritimă și agricolă locală la Muzeul Sargaço. La prânz, bucurați-vă de nisipurile plajei Castelo do Neiva înainte de a vă îndrepta spre apele blânde ale plajei fluviale. După-amiaza oferă priveliști panoramice de coastă uimitoare de la punctul de belvedere al râului Neiva. La final, reflectați asupra frumuseții zilei la liniștita Capelă Santa Tecla.",
         "en": "Begin your day delving into local maritime and farming heritage at the Sargaço Museum. By midday, enjoy the pristine sands of Castelo do Neiva Beach before heading towards the gentle waters of the river beach. Your afternoon features stunning panoramic coastal views from the Neiva River viewpoint. Finally, reflect on the day's beauty at the peaceful Santa Tecla Chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Museum, wo Sie vor dem Regen geschützt sind. Mittags führt der Weg an die Küste, wo die raue See bei Regen eine besondere Mystik entfaltet. Am Nachmittag bietet die Kapelle einen ruhigen Zufluchtsort. Achten Sie auf die rutschigen Pfade an der Flussmündung und tragen Sie feste, wasserfeste Wanderschuhe für die sandigen Abschnitte.\n\nAbends kehren Sie gemütlich zurück.",
+            "hu": "Kezdje a napot a múzeum fedett termei között, védve az esőtől. Délben a tengerparti séta a borús ég alatt különleges, vadregényes arcát mutatja a tájnak. Délután a kápolna nyújt csendes menedéket. A torkolatnál ügyeljen a csúszós ösvényekre, és viseljen vízálló túrabakancsot a homokos szakaszokon.\n\nAz este közeledtével a falu békés, esőáztatta utcáin pihenhet meg.",
+            "ro": "Începeți ziua la muzeu, la adăpost de ploaie. La prânz, plimbarea pe coastă sub cerul înnorat oferă o perspectivă dramatică asupra oceanului. După-amiaza, capela oferă un refugiu liniștit. Atenție la potecile alunecoase de lângă estuar și purtați încălțăminte impermeabilă pentru porțiunile cu nisip.\n\nSeara, relaxați-vă în atmosfera liniștită a satului proaspăt spălat de ploaie.",
+            "en": "Start your day inside the museum, safely sheltered from the rain. At noon, the coastal walk under grey skies reveals a dramatic, mystical side of the Atlantic. In the afternoon, the chapel provides a quiet sanctuary. Be careful on the slippery paths near the estuary and wear waterproof boots for the sandy sections.\n\nAs evening falls, enjoy the peaceful atmosphere of the rain-soaked village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sargaço-Museum und Archäologisches Zentrum Castro de Moldes",
+                "hu": "Sargaço Múzeum és Castro de Moldes Régészeti Központ",
+                "ro": "Muzeul Sargaço și Centrul Arheologic Castro de Moldes",
+                "en": "Sargaço Museum and Castro de Moldes Archaeological Core"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die lokalen Traditionen im Trockenen; das Museum bietet den perfekten Schutz vor dem Regen, während Sie in die maritime Geschichte eintauchen.",
+                "hu": "Fedezze fel a helyi hagyományokat szárazon; a múzeum tökéletes menedéket nyújt az eső elől, miközben elmerül a tengeri gazdálkodás történetében.",
+                "ro": "Explorați tradițiile locale la uscat; muzeul oferă adăpostul perfect împotriva ploii în timp ce descoperiți istoria maritimă a regiunii.",
+                "en": "Explore local traditions while staying dry; the museum offers the perfect shelter from the rain as you dive into the history of maritime farming."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Castelo do Neiva",
+                "hu": "Castelo do Neiva Strand",
+                "ro": "Plaja Castelo do Neiva",
+                "en": "Castelo do Neiva Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die kraftvolle Brandung des Atlantiks; nutzen Sie die Fischerhütten als kurzen Unterstand, falls ein heftiger Schauer aufzieht.",
+                "hu": "Csodálja meg az Atlanti-óceán erejét az esőben; használja a halászkunyhókat rövid menedékként, ha hirtelen intenzívebbé válna a zápor.",
+                "ro": "Admirați puterea Atlanticului pe timp de ploaie; folosiți colibele pescarilor ca scurt adăpost dacă aversa devine prea intensă.",
+                "en": "Admire the power of the Atlantic in the rain; use the fisherman huts as a brief shelter if a sudden heavy downpour occurs during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Flussstrand von Castelo do Neiva",
+                "hu": "Castelo do Neiva Folyami Strand",
+                "ro": "Plaja Fluvială Castelo do Neiva",
+                "en": "Castelo do Neiva River Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Flussnebel schafft hier eine einzigartige Atmosphäre; ein langer Regenmantel ist wichtig, da die Feuchtigkeit am Flussufer oft höher ist.",
+                "hu": "A folyó feletti pára egyedülálló hangulatot áraszt; egy hosszú esőkabát elengedhetetlen, mivel a folyóparton a páratartalom ilyenkor igen magas.",
+                "ro": "Ceața de deasupra râului creează o atmosferă unică; o pelerină lungă de ploaie este esențială, deoarece umiditatea pe malul râului este ridicată.",
+                "en": "The mist over the river creates a unique atmosphere; a long raincoat is essential as humidity levels are very high near the riverbank today."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Neiva-Mündung - Antas",
+                "hu": "Neiva Torkolat Kilátó - Antas",
+                "ro": "Punct de Belvedere Estuarul Neiva - Antas",
+                "en": "Neiva Estuary Viewpoint - Antas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das graue Meer; halten Sie sich an den Geländern fest, da die Holzstege bei Nässe extrem rutschig werden können.",
+                "hu": "Élvezze a szürke tenger látványát; kapaszkodjon erősen a korlátokba, mert a fa pallók vizesen rendkívül csúszóssá és veszélyessé válhatnak.",
+                "ro": "Bucurați-vă de vederea mării cenușii; țineți-vă bine de balustrade, deoarece podețele de lemn devin extrem de alunecoase când sunt ude.",
+                "en": "Enjoy the view of the grey sea; hold onto the railings firmly as the wooden walkways can become extremely slippery and dangerous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Tecla Kapelle",
+                "hu": "Santa Tecla Kápolna",
+                "ro": "Capela Santa Tecla",
+                "en": "Santa Tecla Chapel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im schützenden Inneren der Kapelle; der Duft von altem Holz und Weihrauch ist bei Regen besonders intensiv und beruhigend.",
+                "hu": "Zárja a túrát a kápolna védelmező belső terében; a régi fa és a tömjén illata esőben különösen intenzív és megnyugtató élményt nyújt.",
+                "ro": "Încheiați turul în interiorul protector al capelei; mirosul de lemn vechi și tămâie este deosebit de intens și liniștitor pe timp de ploaie.",
+                "en": "End your tour inside the protective interior of the chapel; the scent of old wood and incense is particularly intense and calming in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen beginnt mit Kultur im Museum. Der Winterwind an den Dünen ist erfrischend, erfordert aber warme Schichten. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das Tageslicht für die Wanderung zur Flussmündung. Die klare Winterluft bietet oft eine weite Sicht bis zum Horizont.\n\nAbends wärmen Sie sich in einem lokalen Café bei einem Heißgetränk auf.",
+            "hu": "A hűvös reggel kultúrával indul a múzeumban. A dűnék közötti téli szél frissítő, de meleg réteges öltözetet igényel. Mivel a nap már 17:00 körül lemegy, használja ki a nappali fényt a torkolati túrához. A tiszta téli levegőben gyakran ellátni egészen a távoli horizontig.\n\nEste keressen egy helyi kávézót, és melegedjen fel egy forró itallal.",
+            "ro": "O dimineață răcoroasă începe cu cultură la muzeu. Vântul de iarnă printre dune este revigorant, dar necesită haine groase în straturi. Deoarece soarele apune în jur de ora 17:00, profitați de lumina zilei pentru drumeția la estuar. Aerul curat de iarnă oferă adesea o vizibilitate excelentă.\n\nSeara, încălziți-vă într-o cafenea locală cu o băutură fierbinte.",
+            "en": "A chilly morning starts with culture at the museum. The winter wind among the dunes is refreshing but requires warm layers. Since the sun sets around 5:00 PM, use the daylight for the hike to the estuary. The crisp winter air often provides excellent visibility all the way to the horizon.\n\nIn the evening, warm up in a local café with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sargaço-Museum und Archäologisches Zentrum Castro de Moldes",
+                "hu": "Sargaço Múzeum és Castro de Moldes Régészeti Központ",
+                "ro": "Muzeul Sargaço și Centrul Arheologic Castro de Moldes",
+                "en": "Sargaço Museum and Castro de Moldes Archaeological Core"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Morgenwärme in den Ausstellungsräumen; es ist der ideale Ort, um sich akklimatisieren, bevor es an die zugige Küste geht.",
+                "hu": "Használja ki a reggeli meleget a kiállítótermekben; ez az ideális hely az akklimatizálódásra, mielőtt kimenne a szeles és hűvös tengerpartra.",
+                "ro": "Profitați de căldura dimineții în sălile de expoziție; este locul ideal pentru a vă aclimatiza înainte de a ieși pe coasta bătută de vânt.",
+                "en": "Take advantage of the morning warmth in the exhibition halls; it's the ideal place to acclimatize before heading out to the windy coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Castelo do Neiva",
+                "hu": "Castelo do Neiva Strand",
+                "ro": "Plaja Castelo do Neiva",
+                "en": "Castelo do Neiva Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Strandspaziergang regt den Kreislauf an; tragen Sie eine winddichte Mütze, da die Meeresbrise im Winter empfindlich kalt sein kann.",
+                "hu": "Egy tempós tengerparti séta felpezsdíti a keringést; viseljen szélálló sapkát, mert a tengeri szél télen metszően hideg tud lenni a parton.",
+                "ro": "O plimbare vioaie pe plajă stimulează circulația; purtați o căciulă rezistentă la vânt, deoarece briza mării poate fi extrem de rece iarna.",
+                "en": "A brisk beach walk will boost your circulation; wear a windproof hat as the sea breeze can be piercingly cold on the shore during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Flussstrand von Castelo do Neiva",
+                "hu": "Castelo do Neiva Folyami Strand",
+                "ro": "Plaja Fluvială Castelo do Neiva",
+                "en": "Castelo do Neiva River Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Flussufer ohne die Sommermassen; Thermosocken in den Wanderschuhen schützen vor der Bodenkälte in Ufernähe.",
+                "hu": "Élvezze a folyóparti nyugalmat a nyári tömeg nélkül; a bakancsba húzott termozokni megvédi lábait a vízparti talaj menti hidegtől.",
+                "ro": "Bucurați-vă de liniștea malului râului fără mulțimile de vară; șosetele termice în ghete vă vor proteja de frigul solului de lângă apă.",
+                "en": "Enjoy the riverside tranquility without the summer crowds; thermal socks in your boots will protect your feet from the ground cold near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Neiva-Mündung - Antas",
+                "hu": "Neiva Torkolat Kilátó - Antas",
+                "ro": "Punct de Belvedere Estuarul Neiva - Antas",
+                "en": "Neiva Estuary Viewpoint - Antas"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht bietet fantastische Fotomotive; beeilen Sie sich, da das goldene Licht im Winter nur von kurzer Dauer ist.",
+                "hu": "Az alacsony téli napállás fantasztikus fotótémákat kínál; siessen, mert az aranyló fények télen csak rövid ideig tartanak a torkolat felett.",
+                "ro": "Lumina joasă a soarelui oferă oportunități foto fantastice; grăbiți-vă, deoarece lumina aurie de iarnă durează puțin deasupra estuarului.",
+                "en": "The low winter sun offers fantastic photo opportunities; hurry up, as the golden light only lasts for a short time over the estuary in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Tecla Kapelle",
+                "hu": "Santa Tecla Kápolna",
+                "ro": "Capela Santa Tecla",
+                "en": "Santa Tecla Chapel"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kapelle vor der Dämmerung; das alte Gestein speichert die Kälte, also lassen Sie Ihre Winterjacke beim Besichtigen lieber an.",
+                "hu": "Érjen a kápolnához még alkonyat előtt; a régi kövek tartják a hideget, ezért a látogatás alatt is érdemes magán hagynia a télikabátot.",
+                "ro": "Ajungeți la chapelă înainte de amurg; pietrele vechi mențin frigul, așa că este recomandat să păstrați haina de iarnă pe parcursul vizitei.",
+                "en": "Reach the chapel before dusk; the old stones hold the cold, so it is recommended to keep your winter jacket on during the visit."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját lenyűgöző kulturális betekintéssel a helyi múzeumban. Ebédidő közeledtével térjen át a hatalmas óceáni strandról a folyami strand nyugodt környezetébe. Délután tekerjen a szárazföld belseje felé, hogy felfedezze a festői Fehér Vízimalmot és a Castro de Moldes ősi erődítményt. Zárja aktív napját a történelmi, sziklába vájt borprés megcsodálásával.",
         "ro": "Începeți turul cu bicicleta cu perspective culturale fascinante la muzeul local. Pe măsură ce se apropie prânzul, treceți de la plaja întinsă la mediul calm al plajei fluviale. După-amiaza, pedalați spre interior pentru a descoperi pitoreasca Moară Albă și vechea fortăreață Castro de Moldes. Încheiați-vă ziua activă minunându-vă de presa de vin istorică sculptată în stâncă.",
         "en": "Kick off your cycling tour with fascinating cultural insights at the local museum. As lunchtime approaches, transition from the sweeping ocean beach to the calm, shaded environment of the river beach. In the afternoon, pedal inland to discover the picturesque White Watermill and the ancient Castro de Moldes hillfort. End your active day marveling at the historic rock-hewn wine press."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert volle Konzentration und gute Ausrüstung. Beginnen Sie im Museum, um die erste Regenfront abzuwarten. Die Wege zum Strand können schlammig sein, planen Sie also mehr Zeit für die Fahrt ein. Nutzen Sie die asphaltierten Straßenabschnitte, um sicher voranzukommen, und achten Sie besonders auf die Bremswege bei nasser Fahrbahn.\n\nAbends trocknen Sie Ihre Ausrüstung.",
+            "hu": "A vizes kerékpártúra teljes koncentrációt és jó felszerelést igényel. Kezdjen a múzeumban, várja meg az első esőhullám elvonulását. A strandhoz vezető utak sárosak lehetnek, így számoljon hosszabb menetidővel. Használja az aszfaltozott szakaszokat a biztonság érdekében, és figyeljen a megnövekedett fékútra.\n\nEste szárítsa ki felszerelését egy fedett helyen.",
+            "ro": "O tură cu bicicleta pe ploaie necesită concentrare maximă și echipament bun. Începeți la muzeu pentru a aștepta trecerea primului val de ploaie. Drumurile spre plajă pot fi noroioase, deci planificați mai mult timp. Folosiți secțiunile asfaltate pentru siguranță și atenție sporită la distanța de frânare.\n\nSeara, puneți echipamentul la uscat.",
+            "en": "A wet bike tour requires full concentration and proper gear. Start at the museum to wait out the first wave of rain. Paths to the beach can be muddy, so allow extra travel time. Stick to paved sections for safety whenever possible and pay close attention to increased braking distances on wet roads.\n\nIn the evening, dry your gear in a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sargaço-Museum und Archäologisches Zentrum Castro de Moldes",
+                "hu": "Sargaço Múzeum és Castro de Moldes Régészeti Központ",
+                "ro": "Muzeul Sargaço și Centrul Arheologic Castro de Moldes",
+                "en": "Sargaço Museum and Castro de Moldes Archaeological Core"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Platz; nutzen Sie die Zeit im Museum, um Ihre Regenbekleidung für die Weiterfahrt optimal zu richten.",
+                "hu": "Parkolja le kerékpárját fedett helyen; használja a múzeumban töltött időt arra, hogy megigazítsa esőfelszerelését a további szakaszok előtt.",
+                "ro": "Parcați bicicleta într-un loc acoperit; folosiți timpul petrecut în muzeu pentru a vă ajusta echipamentul de ploaie pentru drumul următor.",
+                "en": "Park your bike in a covered spot; use the time in the museum to properly adjust your rain gear before heading to the next stages."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Castelo do Neiva",
+                "hu": "Castelo do Neiva Strand",
+                "ro": "Plaja Castelo do Neiva",
+                "en": "Castelo do Neiva Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über sandige Passagen; Regen macht den Sand fest, aber Pfützen können tiefe Schlaglöcher auf den Uferwegen verbergen.",
+                "hu": "Óvatosan tekerjen a homokos részeken; az eső tömöríti a homokot, de a tócsák mély kátyúkat rejthetnek a tengerparti utak mentén.",
+                "ro": "Pedalați cu atenție pe porțiunile cu nisip; ploaia compactează nisipul, dar bălțile pot ascunde gropi adânci pe drumurile de coastă.",
+                "en": "Cycle carefully over sandy sections; rain compacts the sand, but puddles can hide deep potholes along the coastal paths today."
+              }
+            },
+            {
+              "name": {
+                "de": "Flussstrand von Castelo do Neiva",
+                "hu": "Castelo do Neiva Folyami Strand",
+                "ro": "Plaja Fluvială Castelo do Neiva",
+                "en": "Castelo do Neiva River Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen nach der Fahrt durch den nassen Sand; die Feuchtigkeit am Fluss kann die Sichtbarkeit durch beschlagene Brillen einschränken.",
+                "hu": "Ellenőrizze a fékeket a vizes homokban tekerés után; a folyóparti pára miatt a szemüveg könnyen bepárásodhat, rontva a látási viszonyokat.",
+                "ro": "Verificați frânele după ce ați pedalat prin nisip ud; umiditatea de lângă râu poate aburi ochelarii, reducând vizibilitatea pe traseu.",
+                "en": "Check your brakes after cycling through wet sand; the river mist can easily fog up your glasses, reducing visibility on the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Weißes Wassermühlenhaus",
+                "hu": "Fehér Vízimalom Ház",
+                "ro": "Casa Morii de Apă Albe",
+                "en": "White Watermill House"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Wände leuchten im Regen besonders hell; Vorsicht beim Absteigen auf den kopfsteingepflasterten Wegen rund um die alte Mühle.",
+                "hu": "A fehér falak szinte világítanak az esőben; legyen nagyon óvatos a leszálláskor az öreg malom körüli vizes, macskaköves útszakaszokon.",
+                "ro": "Pereții albi strălucesc în ploaie; fiți foarte atenți la descălecare pe porțiunile cu piatră cubică umedă din jurul vechii mori.",
+                "en": "The white walls shine brightly in the rain; be very careful when dismounting on the wet cobblestone sections around the old mill."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Moldes",
+                "hu": "Castro de Moldes",
+                "ro": "Castro de Moldes",
+                "en": "Castro de Moldes"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Castro kann rutschig sein; schieben Sie Ihr Rad bei steilen, nassen Grasstücken lieber, um Stürze im Gelände zu vermeiden.",
+                "hu": "A Castro felé vezető emelkedő csúszós lehet; a meredek, vizes füves részeken inkább tolja a bringát az esések elkerülése érdekében.",
+                "ro": "Urcarea spre Castro poate fi alunecoasă; pe porțiunile cu iarbă udă și pantă mare, mai bine împingeți bicicleta pentru a evita căzăturile.",
+                "en": "The climb to the Castro can be slippery; on steep, wet grassy sections, it's better to push your bike to avoid any falls in the terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fels-Weinpresse von Penedo das Chaves",
+                "hu": "Penedo das Chaves Sziklába Vájt Borprése",
+                "ro": "Presa de Vin în Stâncă Penedo das Chaves",
+                "en": "Rock-hewn Wine Press of Penedo das Chaves"
+              },
+              "tip_5lang": {
+                "de": "Die in den Stein gehauenen Strukturen füllen sich mit Regenwasser; tragen Sie Handschuhe mit gutem Grip, da die Lenkergriffe bei Nässe rutschen.",
+                "hu": "A sziklába vájt mélyedések megtelnek esővízzel; viseljen jó tapadású kesztyűt, mert a kormány markolata vizesen könnyen megcsúszhat a kézben.",
+                "ro": "Adânciturile săpate în stâncă se umplu cu apă; purtați mănuși cu aderență bună, deoarece manșoanele ghidonului pot aluneca pe ploaie.",
+                "en": "The rock-hewn cavities fill with rainwater; wear gloves with good grip, as the handlebar grips can easily slip in your hands when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Luft und leere Wege. Starten Sie mit der Wärme des Museums im Rücken. Die kühle Brise an der Küste erfordert winddichte Kleidung. Achten Sie auf die Zeit, da es ab 16:30 Uhr dämmert; eine funktionierende Fahrradbeleuchtung ist für den Rückweg durch das Dorf Castelo do Neiva unerlässlich.\n\nAbends genießen Sie die wohlverdiente Ruhe.",
+            "hu": "A téli kerékpártúra friss levegőt és üres utakat kínál. Induljon a múzeum melegéből. A tengerparti hűvös szellő szélálló ruházatot igényel. Ügyeljen az időre, mert 16:30-tól már szürkül; a jól működő kerékpáros világítás elengedhetetlen a falun átvezető úton.\n\nEste élvezze a jól megérdemelt pihenést és a csendes falusi hangulatot.",
+            "ro": "O tură de iarnă cu bicicleta oferă aer curat și drumuri libere. Începeți cu căldura muzeului. Briza rece de pe coastă necesită haine rezistente la vânt. Atenție la timp, amurgul începe la ora 16:30; iluminarea adecvată a bicicletei este esențială pentru drumul de întoarcere.\n\nSeara, bucurați-vă de odihna binemeritată și de liniștea satului.",
+            "en": "A winter bike tour offers crisp air and empty paths. Start with the museum's warmth. The cool coastal breeze requires windproof clothing. Watch the time, as dusk begins at 4:30 PM; functioning bike lights are essential for the ride back through the village of Castelo do Neiva.\n\nIn the evening, enjoy a well-deserved rest and the quiet village atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sargaço-Museum und Archäologisches Zentrum Castro de Moldes",
+                "hu": "Sargaço Múzeum és Castro de Moldes Régészeti Központ",
+                "ro": "Muzeul Sargaço și Centrul Arheologic Castro de Moldes",
+                "en": "Sargaço Museum and Castro de Moldes Archaeological Core"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln im Museum auf, bevor Sie losfahren; eine gute Grundwärme hilft gegen die steife Winterbrise auf dem Fahrrad.",
+                "hu": "Melegítse be izmait a múzeumban a bringázás előtt; a jó alapmeleg segít elviselni a metsző téli szelet a kerékpáron ülve.",
+                "ro": "Încălziți-vă mușchii în muzeu înainte de a porni; o temperatură corporală bună vă va ajuta să suportați vântul tăios de iarnă pe bicicletă.",
+                "en": "Warm up your muscles in the museum before starting your ride; good core warmth helps you endure the biting winter wind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Castelo do Neiva",
+                "hu": "Castelo do Neiva Strand",
+                "ro": "Plaja Castelo do Neiva",
+                "en": "Castelo do Neiva Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Wind ist hier am stärksten; ein Multifunktionstuch unter dem Helm schützt Ohren und Gesicht vor dem eisigen Fahrtwind am Meer.",
+                "hu": "Itt a legerősebb a szél; egy többfunkciós csősál a sisak alatt megvédi fülét és arcát a tengerparti jeges menetszéltől.",
+                "ro": "Vântul este cel mai puternic aici; o eșarfă multifuncțională sub cască vă va proteja urechile și fața de curentul de aer înghețat.",
+                "en": "The wind is strongest here; a multifunctional neck gaiter under your helmet will protect your ears and face from the icy sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Flussstrand von Castelo do Neiva",
+                "hu": "Flussstrand von Castelo do Neiva",
+                "ro": "Plaja Fluvială Castelo do Neiva",
+                "en": "Castelo do Neiva River Beach"
+              },
+              "tip_5lang": {
+                "de": "Schattenbereiche am Fluss können sehr kühl sein; halten Sie sich in Bewegung, um die Körpertemperatur trotz der winterlichen Feuchtigkeit hoch zu halten.",
+                "hu": "A folyóparti árnyékos részek igen hűvösek lehetnek; maradjon mozgásban, hogy testhőmérséklete a téli pára ellenére is megfelelő maradjon.",
+                "ro": "Zonele umbrite de lângă râu pot fi foarte reci; rămâneți în mișcare pentru a vă menține temperatura corpului în ciuda umidității de iarnă.",
+                "en": "Shaded areas by the river can be very chilly; stay in motion to keep your body temperature up despite the winter dampness."
+              }
+            },
+            {
+              "name": {
+                "de": "Weißes Wassermühlenhaus",
+                "hu": "Fehér Vízimalom Ház",
+                "ro": "Casa Morii de Apă Albe",
+                "en": "White Watermill House"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt das Weiß der Mühle sanft schimmern; ziehen Sie beim Fotografieren dünne Unterziehhandschuhe an, um keine kalten Finger zu bekommen.",
+                "hu": "A téli fényekben a malom fehérsége lágyan csillog; a fotózáshoz húzzon vékony belső kesztyűt, hogy ujjai ne gémberedjenek el a hidegben.",
+                "ro": "Lumina de iarnă face ca albul morii să sclipească ușor; purtați mănuși subțiri când faceți poze pentru ca degetele să nu vă înghețe.",
+                "en": "In the winter light, the mill's whiteness shimmers softly; wear thin liner gloves while taking photos to keep your fingers from getting numb."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Moldes",
+                "hu": "Castro de Moldes",
+                "ro": "Castro de Moldes",
+                "en": "Castro de Moldes"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird Sie aufwärmen; oben angekommen, ziehen Sie sofort Ihre Windjacke wieder zu, um auf dem exponierten Hügel nicht auszukühlen.",
+                "hu": "Az emelkedő segít bemelegedni; felérve azonnal húzza vissza a szélkabát cipzárját, nehogy megfázzon a dombtetőn a kitett terepen.",
+                "ro": "Urcarea vă va ajuta să vă încălziți; odată ajunși sus, închideți imediat jacheta pentru a nu răci pe dealul expus vântului.",
+                "en": "The climb will help you warm up; once at the top, zip up your windbreaker immediately to avoid catching a cold on the exposed hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Fels-Weinpresse von Penedo das Chaves",
+                "hu": "Penedo das Chaves Sziklába Vájt Borprése",
+                "ro": "Presa de Vin în Stâncă Penedo das Chaves",
+                "en": "Rock-hewn Wine Press of Penedo das Chaves"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig vor Sonnenuntergang; prüfen Sie Ihre Beleuchtung, da die Waldwege in der Dämmerung schnell sehr dunkel werden.",
+                "hu": "Zárja a túrát tempósan naplemente előtt; ellenőrizze a lámpákat, mert az erdei utak szürkületben hirtelen sötétté és veszélyessé válhatnak.",
+                "ro": "Încheiați turul rapid înainte de apus; verificați luminile, deoarece potecile prin pădure devin brusc întunecate la amurg.",
+                "en": "Finish your tour promptly before sunset; check your lights as the forest paths become dark and dangerous very quickly at dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje átfogó autós túráját az ősi Mamoa de Chafé-nél, mielőtt a Lordelo strand homokjához hajtana. Délben folytassa a parti felfedezést a fő strandon, és merüljön el a hagyományokban a Sargaço Múzeumban. A délután időutazást ígér a Castro de Moldes-ben, látványos torkolati kilátást, és egy csendes befejezést a történelmi tengerparti kápolnánál.",
         "ro": "Începeți turul cuprinzător cu mașina la vechea Mamoa de Chafé înainte de a vă îndrepta spre nisipurile expansive ale plajei Lordelo. La prânz, explorați plaja principală Castelo do Neiva și tradițiile locale la Muzeul Sargaço. După-amiaza implică o călătorie în timp la Castro de Moldes, priveliști spectaculoase asupra estuarului și un final liniștit la capela istorică.",
         "en": "Start your comprehensive driving tour at the ancient Mamoa de Chafé before heading to the expansive sands of Lordelo Beach. By midday, continue your coastal exploration at the main Castelo do Neiva beach and delve into local traditions at the Sargaço Museum. Your afternoon involves a journey back in time at Castro de Moldes, spectacular estuary views, and a quiet finish at the historic coastal chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Castelo do Neiva bequem vom Auto aus. Starten Sie beim geschützten Mamoa-Hügelgrab und setzen Sie den Tag mit Küstenstopps fort, bei denen Sie die Meeresgischt aus dem trockenen Innenraum beobachten können. Das Museum bietet ein langes, trockenes Highlight am Nachmittag. Parken Sie stets auf festem Untergrund, da unbefestigte Randstreifen bei Regen aufweichen.\n\nAbends fahren Sie sicher heim.",
+            "hu": "Élvezze Castelo do Neivát kényelmesen az autóból. Kezdjen a védett Mamoa sírhalomnál, majd folytassa a napot tengerparti megállókkal, ahol a száraz utastérből figyelheti a hullámverést. A múzeum hosszú, száraz programot kínál délután. Mindig szilárd talajon parkoljon, mert a nem aszfaltozott útpadkák esőben feláznak.\n\nEste biztonságosan vezessen haza a nedves utakon.",
+            "ro": "Bucurați-vă de Castelo do Neiva confortabil din mașină. Începeți la tumulul protejat Mamoa, apoi continuați cu opriri pe coastă, admirând valurile din interiorul uscat. Muzeul oferă un program lung și ferit de ploaie după-amiaza. Parcați mereu pe teren solid, deoarece marginile drumului se înmoaie pe ploaie.\n\nSeara, conduceți cu prudență spre casă pe drumurile ude.",
+            "en": "Enjoy Castelo do Neiva comfortably from your car. Start at the sheltered Mamoa burial mound, then continue with coastal stops where you can watch the sea spray from the dry cabin. The museum provides a long, dry indoor highlight in the afternoon. Always park on firm ground as unpaved roadsides can soften significantly in the rain.\n\nIn the evening, drive home safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hügelgrab Mamoa de Chafé",
+                "hu": "Mamoa de Chafé Sírhalom",
+                "ro": "Tumulul Funerar Mamoa de Chafé",
+                "en": "Mamoa de Chafé Burial Mound"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Zugang; nutzen Sie einen stabilen Regenschirm, da der kurze Weg zum Hügelgrab auf den unbefestigten Flächen matschig sein kann.",
+                "hu": "Parkoljon minél közelebb a bejárathoz; használjon strapabíró esernyőt, mert a sírhalomhoz vezető rövid út a felázott talajon saras lehet.",
+                "ro": "Parcați cât mai aproape de intrare; folosiți o umbrelă rezistentă, deoarece drumul scurt spre tumul poate fi noroios din cauza solului îmbibat.",
+                "en": "Park as close to the entrance as possible; use a sturdy umbrella as the short path to the mound can be muddy due to the soaked ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Lordelo",
+                "hu": "Lordelo Strand",
+                "ro": "Plaja Lordelo",
+                "en": "Lordelo Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen über dem Atlantik vom Parkplatz aus; die Frontscheibe bietet einen tollen Rahmen für stürmische Meeresfotos im Trockenen.",
+                "hu": "Figyelje az esőt az Atlanti-óceán felett a parkolóból; az autó szélvédője tökéletes keretet ad a viharos tengeri fotókhoz a száraz utastérből.",
+                "ro": "Urmăriți ploaia deasupra Atlanticului din parcare; parbrizul mașinii oferă cadrul perfect pentru poze cu marea agitată din confortul uscat.",
+                "en": "Watch the rain over the Atlantic from the parking lot; the car's windshield provides a perfect frame for stormy sea photos from the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Castelo do Neiva",
+                "hu": "Castelo do Neiva Strand",
+                "ro": "Plaja Castelo do Neiva",
+                "en": "Castelo do Neiva Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Parkplätze am Fischerhafen; von hier aus ist der Weg zu den überdachten Fischhallen kurz und weitgehend regenfrei.",
+                "hu": "Használja a halászkikötő aszfaltozott parkolóit; innen rövid az út a fedett csarnokokhoz, így minimális esőben kell gyalogolnia a látványért.",
+                "ro": "Folosiți parcările asfaltate din portul pescăresc; de aici drumul spre halele acoperite este scurt, minimizând expunerea la ploaie.",
+                "en": "Use the paved parking areas at the fishing port; the walk to the covered halls is short from here, minimizing your exposure to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sargaço-Museum und Archäologisches Zentrum Castro de Moldes",
+                "hu": "Sargaço Múzeum és Castro de Moldes Régészeti Központ",
+                "ro": "Muzeul Sargaço și Centrul Arheologic Castro de Moldes",
+                "en": "Sargaço Museum and Castro de Moldes Archaeological Core"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen ausgiebigen Stopp bei starkem Regen; das Auto steht sicher auf dem Museumsparkplatz, während Sie drinnen im Warmen sind.",
+                "hu": "Ideális helyszín egy hosszabb megálláshoz intenzív esőben; az autó biztonságban van a parkolóban, amíg ön a meleg múzeumban nézelődik.",
+                "ro": "Locație ideală pentru o oprire lungă în caz de ploaie intensă; mașina este în siguranță în parcare în timp ce vizitați muzeul la căldură.",
+                "en": "An ideal location for a long stop during heavy rain; your car is safe in the parking lot while you explore the museum in the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Moldes",
+                "hu": "Castro de Moldes",
+                "ro": "Castro de Moldes",
+                "en": "Castro de Moldes"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt erfolgt über schmale Straßen; achten Sie auf tief hängende, nasse Äste und weichen Untergrund an den Straßenrändern beim Rangieren.",
+                "hu": "A helyszín szűk utakon érhető el; figyeljen a mélyre lógó vizes ágakra és a felázott útpadkára, amikor a keskeny úton manőverezik az autóval.",
+                "ro": "Accesul se face pe drumuri înguste; atenție la ramurile ude care atârnă jos și la marginile moi ale drumului când manevrați mașina.",
+                "en": "Access is via narrow roads; watch out for low-hanging wet branches and soft road edges when maneuvering your car on the narrow lane."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Neiva-Mündung - Antas",
+                "hu": "Neiva Torkolat Kilátó - Antas",
+                "ro": "Punct de Belvedere Estuarul Neiva - Antas",
+                "en": "Neiva Estuary Viewpoint - Antas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama durch das Seitenfenster; bei starkem Wind am Aussichtspunkt sollten Sie die Autotür beim Öffnen gut festhalten.",
+                "hu": "Élvezze a panorámát az oldalablakon keresztül; az erős szélben a kilátónál fogja meg jól az ajtót nyitáskor, nehogy kikapja a szél a kezéből.",
+                "ro": "Bucurați-vă de panoramă prin geamul lateral; în caz de vânt puternic la belvedere, țineți bine ușa mașinii când o deschideți.",
+                "en": "Enjoy the panorama through the side window; in strong winds at the viewpoint, hold the car door firmly when opening it to avoid damage."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Tecla Kapelle",
+                "hu": "Santa Tecla Kápolna",
+                "ro": "Capela Santa Tecla",
+                "en": "Santa Tecla Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Stopp bietet eine spirituelle Atmosphäre; schalten Sie das Abblendlicht ein, da die Sichtverhältnisse im Regen oft eingeschränkt sind.",
+                "hu": "Az utolsó állomás spirituális hangulatot áraszt; kapcsolja be a tompított fényszórót, mert az esőben a látási viszonyok korlátozottak lehetnek.",
+                "ro": "Ultima oprire oferă o atmosferă spirituală; aprindeți faza scurtă, deoarece vizibilitatea în ploaie poate fi destul de limitată pe drum.",
+                "en": "The final stop offers a spiritual atmosphere; keep your headlights on as visibility in the rain can be quite limited on the narrow roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch die Küstenlandschaft. Starten Sie morgens mit der Sitzheizung und erkunden Sie die historischen Stätten. Die Strände sind im Winter leer und bieten weite Ausblicke. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie die Fahrt zur Santa Tecla Kapelle als krönenden Abschluss bei Dämmerung ein.\n\nAbends parken Sie geschützt und genießen die winterliche Ruhe im Ort.",
+            "hu": "Téli autós kirándulás a tengerparti tájon. Indítsa a reggelt ülésfűtéssel, és fedezze fel a történelmi helyszíneket. A strandok télen üresek, tágas kilátást nyújtva. Mivel a nap 17:00 körül lemegy, tervezze a Santa Tecla kápolnát a nap végére, az alkonyi fényekhez.\n\nEste parkoljon le védett helyen, és élvezze a téli falu nyugalmát a túra után.",
+            "ro": "O excursie de iarnă cu mașina prin peisajul de coastă. Începeți dimineața cu încălzirea în scaune și explorați siturile istorice. Plajele sunt pustii iarna, oferind vederi largi. Deoarece soarele apune la ora 17:00, vizitați capela Santa Tecla la final, sub luminile amurgului.\n\nSeara, parcați într-un loc sigur și bucurați-vă de liniștea satului după tur.",
+            "en": "A winter road trip through the coastal landscape. Start your morning with seat heating and explore the historical sites. The beaches are empty in winter, offering expansive views. Since the sun sets around 5:00 PM, plan to visit the Santa Tecla chapel at the end for the twilight lights.\n\nIn the evening, park in a sheltered spot and enjoy the quiet winter village atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hügelgrab Mamoa de Chafé",
+                "hu": "Mamoa de Chafé Sírhalom",
+                "ro": "Tumulul Funerar Mamoa de Chafé",
+                "en": "Mamoa de Chafé Burial Mound"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben vor dem Aussteigen zu enteisen; der Wintermorgen kann hier oft sehr frostig und klar sein.",
+                "hu": "Hagyja járni a motort, hogy a szélvédő leolvadjon kiszállás előtt; a téli reggelek ezen a környéken gyakran fagyosak és párásak lehetnek.",
+                "ro": "Lăsați motorul pornit puțin pentru a dezgheța parbrizul; diminețile de iarnă pot fi foarte geroase și umede în această zonă de coastă.",
+                "en": "Let the engine run for a bit to defrost the windshield before getting out; winter mornings here can often be very frosty and damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Lordelo",
+                "hu": "Lordelo Strand",
+                "ro": "Plaja Lordelo",
+                "en": "Lordelo Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Ozean; im Winter ist die Luft so klar, dass man oft Schiffe am Horizont messerscharf erkennen kann.",
+                "hu": "Élvezze a tágas kilátást az óceánra; télen a levegő annyira tiszta, hogy a horizonton lévő hajókat is éles kontúrokkal láthatja az autóból.",
+                "ro": "Bucurați-vă de vederea largă asupra oceanului; iarna aerul este atât de curat încât puteți vedea navele la orizont cu o claritate maximă.",
+                "en": "Enjoy the expansive view of the ocean; in winter, the air is so clear that you can see ships on the horizon with sharp outlines from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Castelo do Neiva",
+                "hu": "Castelo do Neiva Strand",
+                "ro": "Plaja Castelo do Neiva",
+                "en": "Castelo do Neiva Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt am Meer sind im Winter leicht zu finden; nutzen Sie die Wärme des Wagens für eine kurze Kaffeepause mit Meerblick.",
+                "hu": "A közvetlen tengerparti parkolók télen könnyen elérhetők; használja az autó melegét egy rövid kávészünetre a tengerparti panoráma mellett.",
+                "ro": "Parcările de lângă mare sunt ușor de găsit iarna; folosiți căldura mașinii pentru o scurtă pauză de cafea cu vedere directă la ocean.",
+                "en": "Beachfront parking is easy to find in winter; use the car's warmth for a short coffee break while enjoying the coastal panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Sargaço-Museum und Archäologisches Zentrum Castro de Moldes",
+                "hu": "Sargaço Múzeum és Castro de Moldes Régészeti Központ",
+                "ro": "Muzeul Sargaço și Centrul Arheologic Castro de Moldes",
+                "en": "Sargaço Museum and Castro de Moldes Archaeological Core"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter angenehm beheizt; parken Sie so, dass Sie beim Verlassen des Museums keine weiten Wege in der Kälte haben.",
+                "hu": "A múzeum télen kellemesen fűtött; parkoljon úgy, hogy a múzeumból kijövet ne kelljen sokat gyalogolnia a hidegben a fűtött autóig.",
+                "ro": "Muzeul este încălzit plăcut iarna; parcați astfel încât la ieșirea din muzeu să nu aveți mult de mers prin frig până la mașina încălzită.",
+                "en": "The museum is pleasantly heated in winter; park nearby so you don't have to walk far in the cold back to your warm car after the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Moldes",
+                "hu": "Castro de Moldes",
+                "ro": "Castro de Moldes",
+                "en": "Castro de Moldes"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen auf den schattigen Hügelwegen; fahren Sie im niedrigen Gang, um auf den winterlichen Straßen mehr Kontrolle zu haben.",
+                "hu": "Vigyázzon a jeges foltokra az árnyékos domboldali utakon; vezessen alacsony sebességfokozatban a téli utakon a jobb kontroll érdekében.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile umbrite de deal; conduceți într-o treaptă inferioară pentru un control mai bun pe drum.",
+                "en": "Watch out for icy patches on shaded hillside roads; drive in a lower gear for better control on the winter surfaces today."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Neiva-Mündung - Antas",
+                "hu": "Neiva Torkolat Kilátó - Antas",
+                "ro": "Punct de Belvedere Estuarul Neiva - Antas",
+                "en": "Neiva Estuary Viewpoint - Antas"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Winterlicht bei Sonnenuntergang ist spektakulär; bleiben Sie im Auto sitzen und genießen Sie das Farbenspiel windgeschützt.",
+                "hu": "Az aranyló téli fények naplementekor látványosak; maradjon az autóban, és élvezze a színek játékát a szélvédett, meleg utastérből.",
+                "ro": "Luminile aurii de iarnă la apus sunt spectaculoase; rămâneți în mașină și admirați jocul culorilor din interiorul ferit de vântul rece.",
+                "en": "The golden winter lights at sunset are spectacular; stay in your car and enjoy the display of colors from the wind-sheltered, warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Tecla Kapelle",
+                "hu": "Santa Tecla Kápolna",
+                "ro": "Capela Santa Tecla",
+                "en": "Santa Tecla Chapel"
+              },
+              "tip_5lang": {
+                "de": "Beleuchtete Fassaden wirken im Winter besonders feierlich; prüfen Sie den Reifendruck, da dieser bei sinkenden Temperaturen oft leicht nachlässt.",
+                "hu": "A megvilágított homlokzatok télen ünnepi hangulatot árasztanak; ellenőrizze a keréknyomást, mert a hidegben az abroncsok nyomása csökkenhet.",
+                "ro": "Fațadele luminate par festive iarna; verificați presiunea în pneuri, deoarece aceasta poate scădea ușor odată cu scăderea temperaturii.",
+                "en": "The illuminated facades look especially festive in winter; check your tire pressure, as it often drops slightly when temperatures fall."
+              }
+            }
+          ]
+        }
       }
     }
   }

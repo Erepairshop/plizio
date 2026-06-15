@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a Sani-kalandot egy békés úszással a beltéri medencében. Ezután sétáljon át a nyüzsgő Blue Dream területére, és szívja magába a reggeli napsugarakat. Midday: Másszon fel a Sani Hillre a lélegzetelállító kilátásért és fantasztikus fotókért. Afternoon: Ereszkedjen le az Amphitheatronhoz, majd lazítson a Bousoulas strand finom, puha homokján. Evening: Élvezze a naplementét a tengerparton sétálva, mielőtt visszatérne az üdülőhely központjába egy finom vacsorára.",
         "ro": "Morning: Începeți aventura în Sani cu o înotare liniștită la piscina interioară. Apoi, faceți o plimbare relaxantă spre zona vibrantă Blue Dream pentru soarele dimineții. Midday: Urcați pe Sani Hill pentru o vedere uluitoare asupra stațiunii, perfectă pentru fotografii. Afternoon: Coborâți spre Amphitheatron pentru a-i admira arhitectura, apoi relaxați-vă pe nisipul fin de la Bousoulas. Evening: Bucurați-vă de o plimbare la apus de-a lungul coastei înainte de cină.",
         "en": "Morning: Start your Sani adventure with a peaceful swim at the Indoor pool. From there, take a leisurely stroll towards the vibrant Blue Dream area to soak up the morning sun. Midday: Head up to Sani Hill for breathtaking views across the resort, capturing incredible photos. Afternoon: Descend to the Amphitheatron to appreciate its architecture, then unwind on the soft sands of Bousoulas beach. Evening: Enjoy a sunset walk along the pristine coast before returning to the resort center for dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im beheizten Innenpool, während der Regen gegen die Glasfront peitscht. Mittags führt ein kurzer Spaziergang unter dem Schirm zum Hafen, wo die Yachten im Nebel tanzen. Am Nachmittag bietet der Sani Hill eine mystische Aussicht durch die Regenwolken. Den Abend verbringen wir in der gemütlichen Atmosphäre eines überdachten Cafés am Meer, dem Prasseln lauschend.",
+            "hu": "A reggel az elegáns beltéri medence nyugalmában indul, ahol az üvegtetőn kopogó eső csak fokozza a hangulatot. Déltájban a kikötő felé vesszük az irányt, ernyő alatt csodálva a hajókat. Délután a dombtetőn a ködbe vesző horizont misztikus látványt nyújt, majd az estét egy fedett teraszon zárjuk, hallgatva a tenger morajlását és az eső illatát a fenyvesek közt.",
+            "ro": "Dimineața începe la adăpost în piscina interioară, ascultând ploaia care bate în geam. La prânz, o plimbare scurtă cu umbrela spre port dezvăluie iahturile învăluite în ceață. După-amiaza, dealul Sani oferă o perspectivă mistică printre nori. Seara se încheie pe o terasă acoperită, savurând aroma pinilor umezi și sunetul liniștitor al picăturilor de ploaie pe mare.",
+            "en": "Morning starts sheltered in the indoor pool, watching the rain dance on the glass roof. Midday involves a quick umbrella stroll to the marina, where yachts look ethereal in the mist. By afternoon, Sani Hill offers a moody, dramatic view of the Aegean through the clouds. The evening concludes under a covered terrace, enjoying the fresh scent of rain-soaked pines and the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Indoor pool",
+                "hu": "Indoor pool",
+                "ro": "Indoor pool",
+                "en": "Indoor pool"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Flucht vor dem Regen; genießen Sie das warme Wasser mit Blick auf die stürmische See. Nutzen Sie die Handtuchwärmer für extra Komfort.",
+                "hu": "Tökéletes menedék az eső elől; élvezze a fűtött vizet, miközben az üvegen túl tombol a vihar. Vigyen magával vízálló táskát a vizes ruháknak.",
+                "ro": "Refugiul ideal împotriva ploii; bucurați-vă de apa caldă în timp ce priviți furtuna prin geam. Folosiți vestiarele încălzite pentru confort maxim.",
+                "en": "The perfect sanctuary from the rain; enjoy the heated water while watching the storm through the glass. Use a waterproof bag for your damp swimwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dream",
+                "hu": "Blue Dream",
+                "ro": "Blue Dream",
+                "en": "Blue Dream"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Anlegen der Boote unter den Arkaden. Vorsicht auf den nassen Marmorböden der Marina; tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Figyelje a kikötő forgalmát az árkádok alól védve. Vigyázzon a vizes márványburkolaton, mert rendkívül csúszós; viseljen tapadós talpú cipőt.",
+                "ro": "Observați manevrele bărcilor de sub arcadele portului. Atenție pe marmura udă din marina, este foarte alunecoasă; purtați încălțăminte aderentă.",
+                "en": "Watch the boats from the safety of the covered arcades. Be careful on the wet marble floors of the marina; wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Sani Hill",
+                "hu": "Sani Hill",
+                "ro": "Sani Hill",
+                "en": "Sani Hill"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine wirkt im Regen besonders geschichtsträchtig. Der Pfad kann schlammig sein; feste Wanderschuhe sind für den Aufstieg unerlässlich.",
+                "hu": "A várrom esőben különösen misztikus arcát mutatja. Az ösvény sáros lehet; a feljutáshoz elengedhetetlen a zárt, vízálló túrabakancs használata.",
+                "ro": "Ruinele cetății par desprinse din legende sub ploaie. Poteca poate fi noroioasă; bocancii impermeabili sunt esențiali pentru urcarea în siguranță.",
+                "en": "The ruins look incredibly atmospheric in the rain. The path can be muddy; waterproof hiking boots are essential for reaching the top safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheatron",
+                "hu": "Amphitheatron",
+                "ro": "Amphitheatron",
+                "en": "Amphitheatron"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Akustik des leeren Theaters im Regen. Die Steinstufen sind rutschig; bleiben Sie auf den unteren, geschützten Randbereichen.",
+                "hu": "Csodálja meg az üres színház akusztikáját az esőben. A kőlépcsők csúsznak; maradjon az alsó, védettebb részeken a balesetek elkerülése végett.",
+                "ro": "Admirați acustica teatrului gol sub ropotul ploii. Treptele de piatră sunt alunecoase; rămâneți în zonele inferioare, mai protejate de vânt.",
+                "en": "Admire the acoustics of the empty theater during the rainfall. Stone steps are slippery; stay in the lower, more sheltered areas for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Bousoulas",
+                "hu": "Bousoulas",
+                "ro": "Bousoulas",
+                "en": "Bousoulas"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die wilde Brandung des Ägäischen Meeres. Suchen Sie Schutz unter den dichten Pinien, die einen natürlichen Schirm gegen den Regen bilden.",
+                "hu": "Tapasztalja meg az Égei-tenger vad hullámzását esőben. Keressen menedéket a sűrű fenyvesek alatt, melyek természetes ernyőként védenek az esőtől.",
+                "ro": "Experimentați valurile sălbatice ale Egeei pe ploaie. Căutați adăpost sub pinii deși, care formează o umbrelă naturală împotriva stropilor.",
+                "en": "Experience the wild Aegean waves during a rainstorm. Seek shelter under the dense pine trees, which act as a natural umbrella against the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermorgensonne glitzert kühl auf dem Innenpool. Ein zügiger Marsch zum Sani Hill wärmt den Körper auf, bevor die Brise am Hafen auffrischt. Am Nachmittag taucht das tiefstehende Sonnenlicht das Amphitheater in Gold, bevor es gegen 17:00 Uhr schnell dunkel wird. Der Abend gehört der wohligen Wärme des Hotels, während draußen die klare Winternacht einkehrt.",
+            "hu": "A téli napsütés hűvösen csillan meg a beltéri medencén. Egy tempós séta a Sani Hillre segít bemelegedni a kikötői szél előtt. Délután a lemenő nap aranyba öltözteti az Amphitheatront, mielőtt 17 óra körül hirtelen leszáll az est. A napot a kandalló melletti pihenéssel zárjuk, élvezve a csendes, téli tengerparti nyugalmat.",
+            "ro": "Soarele de iarnă strălucește rece peste piscina interioară. O plimbare alertă spre dealul Sani vă va încălzi înainte de briza tăioasă din port. După-amiaza, lumina caldă îmbracă amfiteatrul în nuanțe aurii, până la apusul devreme de la ora 17:00. Seara se încheie la căldură, savurând liniștea deplină a stațiunii în extrasezon.",
+            "en": "Winter sun glitters coldly on the indoor pool. A brisk morning walk to Sani Hill warms you up before the harbor breeze kicks in. By afternoon, the low sun paints the Amphitheatre in gold before darkness falls quickly around 17:00. The evening is spent in cozy warmth, enjoying the rare, peaceful silence of the winter coastline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Indoor pool",
+                "hu": "Indoor pool",
+                "ro": "Indoor pool",
+                "en": "Indoor pool"
+              },
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen kühler Winterluft und warmem Wasser ist belebend. Tragen Sie nach dem Baden unbedingt eine Mütze gegen den kalten Wind.",
+                "hu": "A hűvös téli levegő és a meleg víz kontrasztja frissítő. Úszás után viseljen vastag sapkát, hogy megvédje fülét a metsző tengeri széltől.",
+                "ro": "Contrastul dintre aerul rece și apa caldă este revigorant. După baie, purtați neapărat o căciulă pentru a vă proteja de vântul rece de iarnă.",
+                "en": "The contrast between chilly winter air and warm water is invigorating. Ensure you wear a warm hat after swimming to block the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dream",
+                "hu": "Blue Dream",
+                "ro": "Blue Dream",
+                "en": "Blue Dream"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille im fast menschenleeren Hafen. Eine winddichte Jacke ist hier Pflicht, da die Meeresbrise im Winter sehr scharf sein kann.",
+                "hu": "Élvezze a néptelen kikötő békéjét. Itt kötelező a szélálló kabát, mivel a téli tengeri szél a mólónál különösen éles és átható tud lenni.",
+                "ro": "Bucurați-vă de liniștea portului aproape pustiu. O jachetă rezistentă la vânt este obligatorie, briza mării fiind tăioasă în lunile de iarnă.",
+                "en": "Enjoy the silence of the nearly empty marina. A windproof jacket is mandatory here, as the winter sea breeze can be very sharp and cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Sani Hill",
+                "hu": "Sani Hill",
+                "ro": "Sani Hill",
+                "en": "Sani Hill"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet die beste Fernsicht des Jahres. Packen Sie Handschuhe ein, da das Metallgeländer am Aussichtspunkt eiskalt sein kann.",
+                "hu": "A tiszta téli levegő biztosítja az év legjobb távoli kilátását. Vigyen kesztyűt, mert a kilátó fémkorlátja jéghideg lehet ilyenkor.",
+                "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate spre Olimp. Luați mănuși, deoarece balustrada metalică a punctului de observație e rece.",
+                "en": "The crisp winter air offers the best long-distance visibility. Pack gloves, as the metal railings at the viewpoint can be freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheatron",
+                "hu": "Amphitheatron",
+                "ro": "Amphitheatron",
+                "en": "Amphitheatron"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Theater gegen 15:30 Uhr für das schönste Licht. Der Stein speichert die Kälte; ein kurzes Verweilen reicht für tolle Fotos.",
+                "hu": "Látogasson el 15:30 körül a legszebb fényekért. A kő ilyenkor ontja a hideget; egy rövid látogatás is elég a tökéletes téli fotókhoz.",
+                "ro": "Vizitați teatrul în jur de 15:30 pentru lumina perfectă de iarnă. Piatra reține frigul; o vizită scurtă e suficientă pentru fotografii superbe.",
+                "en": "Visit around 15:30 for the most beautiful winter lighting. The stone stays very cold; a brief stop is enough for amazing photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Bousoulas",
+                "hu": "Bousoulas",
+                "ro": "Bousoulas",
+                "en": "Bousoulas"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang vor Sonnenuntergang um 17:00 Uhr. Die Pinien schützen etwas vor Wind, aber warme Schichten sind unerlässlich.",
+                "hu": "Magányos tengerparti séta a korai, 17 órai naplemente előtt. A fenyők védenek a széltől, de a réteges öltözködés nélkülözhetetlen ilyenkor.",
+                "ro": "O plimbare solitară pe plajă înainte de apusul de la ora 17:00. Pinii oferă protecție, dar straturile termice sunt absolut necesare.",
+                "en": "A solitary beach walk before the early 17:00 sunset. The pines offer some protection, but thermal layers are essential to stay warm."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Morning: Tekerjen fel a Sani Hillre kora reggel, hogy a lágy fényben csodálhassa meg a lenyűgöző tengerparti panorámát. Midday: Kerékpározzon le a kulturális Amphitheatronhoz, és fedezze fel ezt a lenyűgöző szabadtéri helyszínt. Afternoon: Folytassa útját a Bousoulas strandhoz egy frissítő csobbanásra, majd látogasson el az eldugott nudista strandra. Evening: Fejezze be kerékpártúráját a nyüzsgő Blue Dream strandon, ahol végignézheti a gyönyörű naplementét.",
         "ro": "Morning: Porniți cu bicicleta spre Sani Hill dis-de-dimineață pentru a prinde vederile panoramice în lumina blândă. Midday: Pedalați până la Amphitheatronul cultural, luându-vă timp pentru a explora acest loc impresionant în aer liber. Afternoon: Continuați plimbarea spre Bousoulas pentru o baie revigorantă, urmată de o vizită la plaja de nudiști. Evening: Încheiați turul la plaja animată Blue Dream, unde puteți admira apusul peste Marea Egee în liniște.",
         "en": "Morning: Pedal your way to Sani Hill first thing in the morning to catch the panoramic coastal views in the soft, early light. Midday: Cycle down to the cultural Amphitheatron, taking time to explore this impressive open-air venue at your own pace. Afternoon: Continue your ride to Bousoulas for a refreshing dip, followed by a visit to the secluded Nudist Beach. Evening: Finish your cycling tour at the lively Blue Dream beach, where you can watch the sunset over the Aegean Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Piniennadel-bedeckten Wegen. Wir starten am Sani Hill, wo die Steigung bei Nässe rutschig sein kann. Mittags bieten die dichten Wälder auf dem Weg zum Bousoulas natürlichen Schutz. Der Nachmittag führt uns entlang der Küste, wobei wir Pfützen meiden. Der Tag endet am Hafen, wo wir die Räder sicher unterstellen und uns aufwärmen.",
+            "hu": "Az esős biciklizés óvatosságot igényel a fenyőtűkkel borított utakon. A Sani Hillnél kezdünk, ahol a kapaszkodó csúszós lehet. Délben az erdő sűrű lombjai természetes védelmet nyújtanak a Bousoulas felé. Délután a parton haladunk, kerülgetve a pocsolyákat, majd a kikötőben zárjuk a napot, ahol biztonságban leparkolhatunk.",
+            "ro": "Ciclismul pe ploaie necesită atenție sporită pe potecile cu ace de pin. Începem la dealul Sani, unde pantele pot fi alunecoase. La prânz, pădurea oferă protecție naturală spre Bousoulas. După-amiaza pedalăm de-a lungul coastei, evitând bălțile mari, și încheiem în marina, unde putem parca bicicletele la adăpost.",
+            "en": "Biking in the rain requires extra caution on the pine-needle-covered paths. We start at Sani Hill, where the incline can be slick. By midday, the dense forest provides natural cover on the way to Bousoulas. The afternoon route follows the coast, avoiding deep puddles, ending at the marina where we can safely park the bikes and warm up indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sani Hill",
+                "hu": "Sani Hill",
+                "ro": "Sani Hill",
+                "en": "Sani Hill"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; nasser Asphalt ist tückisch. Der Blick auf die aufgewühlte See belohnt den anstrengenden Aufstieg.",
+                "hu": "Ereszkedés előtt ellenőrizze a fékeket; a vizes út trükkös lehet. A haragos tenger látványa kárpótolja a fárasztó, esős emelkedőért.",
+                "ro": "Verificați frânele înainte de coborâre; asfaltul ud e înșelător. Vederea mării agitate merită efortul urcării pe o ploaie ușoară.",
+                "en": "Check your brakes before the descent; wet asphalt is tricky. The view of the churning sea rewards the effort of the rainy climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheatron",
+                "hu": "Amphitheatron",
+                "ro": "Amphitheatron",
+                "en": "Amphitheatron"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Baum ab, um den Sattel trocken zu halten. Ein kurzer Halt reicht, um die besondere Atmosphäre zu genießen.",
+                "hu": "Parkoljon egy sűrűbb fa alá, hogy a nyereg száraz maradjon. Egy rövid megálló elég, hogy átélje a hely különleges, esős hangulatát.",
+                "ro": "Parcați bicicleta sub un copac des pentru a păstra șaua uscată. O oprire scurtă e suficientă pentru a simți atmosfera mistică a locului.",
+                "en": "Park your bike under a dense tree to keep the saddle dry. A short stop is enough to soak in the unique, atmospheric rainy vibe."
+              }
+            },
+            {
+              "name": {
+                "de": "Bousoulas",
+                "hu": "Bousoulas",
+                "ro": "Bousoulas",
+                "en": "Bousoulas"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fest, aber die Waldwege können schlammig sein. Bleiben Sie auf den befestigten Pfaden, um nicht steckenzubleiben.",
+                "hu": "A homok esőben keményebb, de az erdei utak sárosak lehetnek. Maradjon a kijelölt ösvényeken, hogy elkerülje az elakadást a sárban.",
+                "ro": "Nisipul e mai ferm pe ploaie, dar potecile din pădure pot fi noroioase. Rămâneți pe drumurile principale pentru a nu vă împotmoli.",
+                "en": "The sand is firmer in the rain, but forest tracks can be muddy. Stick to the main paved paths to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Nudist Beach",
+                "hu": "Nudist Beach",
+                "ro": "Nudist Beach",
+                "en": "Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein abgelegener Ort, ideal um die Macht der Natur zu spüren. Achten Sie auf tiefe Pfützen im Waldabschnitt; fahren Sie hier langsam.",
+                "hu": "Távoli hely, ideális a természet erejének megéléséhez. Ügyeljen a mély pocsolyákra az erdei szakaszon; haladjon lassan és körültekintően.",
+                "ro": "Un loc izolat, ideal pentru a simți forța naturii. Atenție la bălțile adânci din porțiunea de pădure; pedalați încet și cu prudență.",
+                "en": "A remote spot, ideal for witnessing nature's power. Watch out for deep puddles in the forest section; cycle slowly and cautiously."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dream",
+                "hu": "Blue Dream",
+                "ro": "Blue Dream",
+                "en": "Blue Dream"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im Hafen und nutzen Sie die überdachten Fahrradständer. Belohnen Sie sich mit einem warmen Getränk in einem Café.",
+                "hu": "Zárja a túrát a kikötőben, használja a fedett kerékpártárolókat. Jutalmazza meg magát egy forró itallal az egyik közeli kávézóban.",
+                "ro": "Încheiați tura în marina folosind rastelele acoperite. Răsplătiți-vă cu o băutură caldă la o cafenea din apropierea portului.",
+                "en": "End your tour at the marina using the covered bike racks. Reward yourself with a warm drink at one of the nearby cafes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterluft macht das Radfahren heute erfrischend. Wir erklimmen den Sani Hill, um die Betriebstemperatur zu erreichen. Mittags radeln wir durch das Amphitheater und den Pinienwald, der uns vor dem scharfen Wind schützt. Am späten Nachmittag erreichen wir die einsamen Strände. Wir müssen die Tour bis 16:30 Uhr beenden, da die Kälte nach Sonnenuntergang schnell zunimmt.",
+            "hu": "A hűvös téli levegő frissítővé teszi a mai biciklizést. A Sani Hill emelkedőjével kezdünk, hogy bemelegedjenek az izmok. Napközben az Amphitheatron és a fenyvesek felé vesszük az irányt, melyek védenek a széltől. Késő délután elérjük a néptelen strandokat, de 16:30-ig be kell fejeznünk a túrát a lehűlés előtt.",
+            "ro": "Aerul rece de iarnă face ciclismul de azi extrem de revigorant. Urcăm dealul Sani pentru a ne încălzi mușchii. În timpul zilei traversăm amfiteatrul și pădurea de pini, care ne protejează de vânt. După-amiaza ajungem la plajele pustii, dar trebuie să încheiem tura până la 16:30, înainte de ger.",
+            "en": "The crisp winter air makes today's cycle very refreshing. We climb Sani Hill first to warm up our muscles. During the day, we pass the Amphitheatre and pine forests, which offer shelter from the wind. Late afternoon leads to the deserted beaches, but we must finish by 16:30 before the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sani Hill",
+                "hu": "Sani Hill",
+                "ro": "Sani Hill",
+                "en": "Sani Hill"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt gut auf, aber oben zieht es stark. Tragen Sie ein Halstuch, um die Atemwege vor der kalten Winterluft zu schützen.",
+                "hu": "Az emelkedő jól bemelegít, de a tetőn erős a szél. Viseljen csősálat, hogy megvédje torkát a metsző, hideg téli levegőtől tekerés közben.",
+                "ro": "Urcarea vă va încălzi bine, dar sus vântul suflă tare. Purtați un fular tip buf pentru a vă proteja gâtul de aerul rece de iarnă.",
+                "en": "The climb warms you up well, but it's windy at the top. Use a neck gaiter to protect your throat from the biting winter air while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheatron",
+                "hu": "Amphitheatron",
+                "ro": "Amphitheatron",
+                "en": "Amphitheatron"
+              },
+              "tip_5lang": {
+                "de": "Ideal für Fotos ohne Touristenmassen. Bewegen Sie sich weiter, um nicht auszukühlen; die schattigen Bereiche sind im Winter sehr kalt.",
+                "hu": "Ideális helyszín fotózáshoz a tömegek nélkül. Maradjon mozgásban, hogy ne hűljön ki; az árnyékos részeken télen kifejezetten hideg van.",
+                "ro": "Locul perfect pentru poze fără mulțimi de turiști. Rămâneți în mișcare pentru a nu îngheța; zonele umbrite sunt foarte reci iarna.",
+                "en": "The perfect spot for photos without the tourist crowds. Keep moving to stay warm; the shaded areas are significantly colder in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bousoulas",
+                "hu": "Bousoulas",
+                "ro": "Bousoulas",
+                "en": "Bousoulas"
+              },
+              "tip_5lang": {
+                "de": "Radfahren gegen den Winterwind kann anstrengend sein. Nutzen Sie den Waldweg parallel zum Strand, um die Windbelastung zu minimieren.",
+                "hu": "A téli széllel szemben tekerni fárasztó lehet. Használja a parttal párhuzamos erdei utat, hogy minimalizálja a szél elleni küzdelmet.",
+                "ro": "Pedalatul contra vântului de iarnă poate fi epuizant. Folosiți poteca din pădure, paralelă cu plaja, pentru a vă proteja de rafale.",
+                "en": "Cycling against the winter wind can be tiring. Use the forest path parallel to the beach to minimize the wind's direct impact on you."
+              }
+            },
+            {
+              "name": {
+                "de": "Nudist Beach",
+                "hu": "Nudist Beach",
+                "ro": "Nudist Beach",
+                "en": "Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Völlige Einsamkeit am winterlichen Meer. Starten Sie rechtzeitig den Rückweg, da es im Wald nach 16:00 Uhr sehr schnell dämmrig wird.",
+                "hu": "Teljes magány a téli tengerparton. Időben induljon vissza, mivel az erdőben 16 óra után már nagyon gyorsan sötétedni kezd és hűl a levegő.",
+                "ro": "Singurătate deplină pe malul mării iarna. Plecați din timp înapoi, deoarece în pădure se înserează rapid după ora 16:00 și devine frig.",
+                "en": "Complete solitude by the winter sea. Head back early, as the forest becomes dark and significantly colder very quickly after 16:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Dream",
+                "hu": "Blue Dream",
+                "ro": "Blue Dream",
+                "en": "Blue Dream"
+              },
+              "tip_5lang": {
+                "de": "Die Lichter des Hafens leuchten in der frühen Dämmerung besonders hell. Ein toller Ort, um die Tour vor der Abendkälte abzuschließen.",
+                "hu": "A kikötő fényei az adventi időszakban különösen szépen ragyognak. Kiváló helyszín a túra befejezéséhez az esti nagy lehűlés előtt.",
+                "ro": "Luminile portului strălucesc superb în amurgul timpuriu. Un loc excelent pentru a încheia tura înainte de gerul serii de iarnă.",
+                "en": "The marina lights shine beautifully in the early winter dusk. A great place to wrap up your tour before the evening chill sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Morning: Kezdje autós túráját a pezsgő élménymedencénél, majd látogasson el a közeli csendes medencéhez egy kis megnyugvásért. Midday: Vezessen délre, és fedezze fel Akroterio Purgos, Ormos Kupsas és Malamo zord, vadregényes természeti tájait. Afternoon: Autózzon vissza az üdülőhely központja felé, és álljon meg az Amphitheatronnál, hogy megcsodálja modern dizájnját. Evening: Parkoljon le a Sani Hill közelében, és élvezze a lenyűgöző naplementét ezen a festői helyen.",
         "ro": "Morning: Începeți turul cu mașina la piscina de activități înainte de a merge la piscina liniștită pentru o pauză relaxantă. Midday: Conduceți spre sud pentru a explora peisajele naturale accidentate de la Akroterio Purgos, Ormos Kupsas și Malamo. Afternoon: Întoarceți-vă spre centrul stațiunii și opriți la Amphitheatron pentru a aprecia designul său modern. Evening: Parcați aproape de Sani Hill pentru a surprinde o panoramă spectaculoasă la apus, încheind ziua.",
         "en": "Morning: Start your driving tour at the vibrant activity pool before heading to the nearby quiet pool to balance out the energy. Midday: Drive south to explore the rugged natural landscapes of Akroterio Purgos, Ormos Kupsas, and Malamo. Afternoon: Cruise back up towards the resort center, stopping at the Amphitheatron to appreciate its modern design and atmosphere. Evening: Park near Sani Hill to take in a spectacular sunset panorama, concluding your scenic resort drive."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute unser bester Freund gegen den Regen. Wir hüpfen bequem zwischen den verschiedenen Poolanlagen hin und her, ohne nass zu werden. Mittags genießen wir die dramatische Aussicht am Akroterio Purgos direkt aus dem warmen Wagen. Der Nachmittag führt uns zum geschichtsträchtigen Hügel, bevor wir den Tag entspannt und trocken in der Hotelanlage ausklingen lassen.",
+            "hu": "Az autó ma a legjobb szövetségesünk az eső ellen. Kényelmesen, szárazon ingázhatunk a különböző medencekomplexumok között. Délben az Akroterio Purgos drámai kilátását a meleg utastérből csodálhatjuk meg. Délután a történelmi domb környékét fedezzük fel, majd a napot stílusosan és teljesen szárazon zárjuk a szálloda kényelmében.",
+            "ro": "Mașina este azi cel mai bun aliat împotriva ploii. Ne deplasăm confortabil între complexele cu piscine fără a ne uda deloc. La prânz admirăm priveliștea dramatică de la Akroterio Purgos direct din interiorul cald. După-amiaza explorăm zona istorică a dealului, încheind ziua relaxați și perfect uscați în incinta hotelului.",
+            "en": "The car is our best ally against the rain today. We can hop comfortably between different pool complexes without getting soaked. At midday, enjoy the dramatic views at Akroterio Purgos from the warmth of the cabin. The afternoon is spent exploring the historic hill area, ending the day relaxed and perfectly dry within the hotel's comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "activity pool",
+                "hu": "activity pool",
+                "ro": "activity pool",
+                "en": "activity pool"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang. Lassen Sie Ihre nassen Sachen im Kofferraum, damit der Innenraum des Wagens trocken bleibt.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz. A vizes holmikat tartsa a csomagtartóban, hogy az utastér száraz és páramentes maradjon.",
+                "ro": "Parcați cât mai aproape de intrare. Păstrați lucrurile ude în portbagaj pentru a menține interiorul mașinii uscat și fără abur.",
+                "en": "Park as close to the entrance as possible. Keep your wet gear in the trunk to ensure the car's interior stays dry and fog-free."
+              }
+            },
+            {
+              "name": {
+                "de": "quiet pool",
+                "hu": "quiet pool",
+                "ro": "quiet pool",
+                "en": "quiet pool"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung auf der kurzen Fahrt zwischen den Pools. So kühlen Sie nach dem Schwimmen im Regen nicht aus.",
+                "hu": "Használja az ülésfűtést a medencék közötti rövid úton. Így elkerülheti a lehűlést az esős, párás időben az úszások között.",
+                "ro": "Folosiți încălzirea în scaune pe drumul scurt dintre piscine. Astfel veți evita răceala după baie în această zi ploioasă și umedă.",
+                "en": "Use the seat heaters on the short drive between pools. This prevents catching a chill after swimming on a damp, rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Akroterio Purgos - Ormos Kupsas - Malamo",
+                "hu": "Akroterio Purgos - Ormos Kupsas - Malamo",
+                "ro": "Akroterio Purgos - Ormos Kupsas - Malamo",
+                "en": "Akroterio Purgos - Ormos Kupsas - Malamo"
+              },
+              "tip_5lang": {
+                "de": "Die stürmische See sieht aus dem sicheren Auto fantastisch aus. Halten Sie an den markierten Buchten für die besten Panoramafotos.",
+                "hu": "A viharos tenger látványa fantasztikus a biztonságos autóból. Álljon meg a kijelölt öblökben a legjobb esős panorámafotók elkészítéséhez.",
+                "ro": "Marea agitată arată fantastic din siguranța mașinii. Opriți în refugii pentru a face cele mai bune poze panoramice pe timp de ploaie.",
+                "en": "The stormy sea looks fantastic from the safety of your car. Pull over at the designated laybys for the best rainy panoramic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheatron",
+                "hu": "Amphitheatron",
+                "ro": "Amphitheatron",
+                "en": "Amphitheatron"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint mit dem Schirm vom Parkplatz zum Theater lohnt sich. Nutzen Sie die Defroster-Funktion des Wagens gegen beschlagene Scheiben.",
+                "hu": "Egy rövid sprint ernyővel a parkolótól a színházig megéri a fáradtságot. Használja a páramentesítőt a kocsiban a vizes ruhák miatti pára ellen.",
+                "ro": "Un sprint scurt cu umbrela de la parcare la teatru merită efortul. Folosiți funcția de dezaburire a mașinii pentru vizibilitate maximă.",
+                "en": "A quick dash with an umbrella from the parking lot to the theater is worth it. Use the car's defroster to clear fog from wet clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Sani Hill",
+                "hu": "Sani Hill",
+                "ro": "Sani Hill",
+                "en": "Sani Hill"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Starkregen rutschig sein; fahren Sie vorsichtig. Genießen Sie den Ausblick, bevor Sie im warmen Hotel einchecken.",
+                "hu": "Az emelkedő heves esőzéskor csúszós lehet; vezessen óvatosan. Élvezze a kilátást, mielőtt visszatérne a szálloda meleg kényelmébe.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie torențială; conduceți cu grijă. Admirați vederea înainte de a reveni la confortul hotelului.",
+                "en": "The drive up can be slippery during heavy rain; drive cautiously. Enjoy the view before retreating to the warm comfort of your hotel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Luxus bedeutet heute: Pool-Hopping mit dem beheizten Auto. Die kurzen Wege zwischen den Anlagen sind im Winter ideal, um nicht auszukühlen. Mittags bietet die Küstenstraße atemberaubende Ausblicke auf den Olymp. Das Amphitheater besuchen wir im weichen Nachmittagslicht, bevor wir pünktlich zum frühen Sonnenuntergang um 17:00 Uhr wieder im Warmen sind.",
+            "hu": "A téli luxus ma a fűtött autóval történő medencelátogatást jelenti. A rövid utak ideálisak, hogy két úszás között ne hűljünk ki a hűvös levegőn. Délben a parti út lenyűgöző kilátást nyújt a havas Olümposzra. Az Amphitheatront a lágy délutáni fényekben látogatjuk meg, majd 17 órakor már a melegben pihenünk.",
+            "ro": "Luxul de iarnă înseamnă azi vizitarea piscinelor cu mașina încălzită. Drumurile scurte sunt ideale pentru a nu răci între sesiunile de înot. La prânz, drumul de coastă oferă vederi superbe spre muntele Olimp. Vizităm amfiteatrul în lumina caldă a după-amiezii, fiind înapoi la căldură până la ora 17:00.",
+            "en": "Winter luxury today means pool-hopping with a heated car. Short drives between complexes are ideal to avoid catching a chill in the winter air. At midday, the coastal road offers breathtaking views of Mount Olympus. We visit the Amphitheatre in the soft afternoon light, returning to warmth by the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "activity pool",
+                "hu": "activity pool",
+                "ro": "activity pool",
+                "en": "activity pool"
+              },
+              "tip_5lang": {
+                "de": "Heizen Sie den Wagen vor, während Sie sich umziehen. So steigen Sie nach dem Bad in ein wohlig warmes Auto und vermeiden Erkältungen.",
+                "hu": "Fűtse fel az autót, amíg átöltözik. Így a fürdés után egy kellemesen meleg utastérbe ülhet be, elkerülve a téli megfázás veszélyét.",
+                "ro": "Preîncălziți mașina în timp ce vă schimbați. Astfel veți urca într-un interior cald după baie, evitând riscul unei răceli de iarnă.",
+                "en": "Pre-heat the car while you change. This way, you'll step into a cozy interior after your swim, avoiding the risk of a winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "quiet pool",
+                "hu": "quiet pool",
+                "ro": "quiet pool",
+                "en": "quiet pool"
+              },
+              "tip_5lang": {
+                "de": "In der Nebensaison ist es hier herrlich leer. Der Wagen hält Ihre Handtücher und Bademäntel zwischen den Stopps angenehm warm.",
+                "hu": "Szezonon kívül itt csodálatos nyugalom várja. Az autóban a törölközők és köntösök kellemesen melegek maradnak a következő megállóig.",
+                "ro": "În extrasezon este o liniște deplină aici. Mașina vă păstrează prosoapele și halatele calde între opriri, asigurând un confort sporit.",
+                "en": "It's wonderfully peaceful here in the off-season. The car keeps your towels and robes warm between stops for maximum winter comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Akroterio Purgos - Ormos Kupsas - Malamo",
+                "hu": "Akroterio Purgos - Ormos Kupsas - Malamo",
+                "ro": "Akroterio Purgos - Ormos Kupsas - Malamo",
+                "en": "Akroterio Purgos - Ormos Kupsas - Malamo"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief über dem Meer; Sonnenbrille nicht vergessen. Genießen Sie das Panorama windgeschützt hinter der Glasscheibe.",
+                "hu": "A téli nap alacsonyan jár a tenger felett; ne felejtse el a napszemüveget. Élvezze a panorámát a szélvédő mögül, a hideg szél elől védve.",
+                "ro": "Soarele de iarnă e jos deasupra mării; nu uitați ochelarii de soare. Admirați panorama la adăpost de vântul tăios, prin parbrizul cald.",
+                "en": "The winter sun hangs low over the sea; don't forget your sunglasses. Enjoy the panorama from behind the glass, protected from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheatron",
+                "hu": "Amphitheatron",
+                "ro": "Amphitheatron",
+                "en": "Amphitheatron"
+              },
+              "tip_5lang": {
+                "de": "Perfektes Licht für Architekturfotos um 15:00 Uhr. Da es im Winter früh schattet, ist dies die beste Zeit für einen kurzen Besuch mit dem Wagen.",
+                "hu": "Tökéletes fények az építészeti fotókhoz 15 óra körül. Mivel télen korán árnyékba borul a táj, ez a legjobb időpont az autós látogatáshoz.",
+                "ro": "Lumină perfectă pentru poze de arhitectură în jur de ora 15:00. Deoarece umbrele apar devreme iarna, e momentul optim pentru vizită.",
+                "en": "Perfect lighting for architectural photos around 15:00. Since shadows fall early in winter, this is the best time for a quick car visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Sani Hill",
+                "hu": "Sani Hill",
+                "ro": "Sani Hill",
+                "en": "Sani Hill"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr direkt vom Parkplatz aus. Die Standheizung sorgt für ein gemütliches Erlebnis bei fallenden Temperaturen.",
+                "hu": "Nézze meg a 17 órai naplementét közvetlenül a parkolóból. Az állóhelyzeti fűtés kényelmessé teszi a látványt a gyorsan hűlő téli estén.",
+                "ro": "Urmăriți apusul de la ora 17:00 direct din parcare. Încălzirea mașinii vă va oferi confort în timp ce temperaturile scad rapid afară.",
+                "en": "Watch the 17:00 sunset directly from the parking area. The car's heater will keep you cozy as temperatures drop sharply after dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

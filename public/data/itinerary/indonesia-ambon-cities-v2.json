@@ -137,6 +137,168 @@
         "de": "Beginnen Sie den Morgen am Tugu Trikora, um Ambons Geschichte zu verstehen. Mittags erreichen Sie die atemberaubende Katedral und die Gereja Syaloom, die das christliche Erbe zeigen. Am Nachmittag erweisen Sie der Pattimura-Statue unter der tropischen Sonne die Ehre. Beenden Sie Ihre Tour, indem Sie am bunten Weltfriedensgong über Frieden und Einheit nachdenken.",
         "hu": "Kezdje a reggelt a lenyűgöző Tugu Trikoránál, hogy megértse Ambon történelmét. Délben elérkezik a lenyűgöző Katedrálishoz és a Gereja Syaloomhoz, amelyek a keresztény örökséget mutatják be. Délután tisztelegjen a Pattimura-szobornál a trópusi nap alatt. Fejezze be sétáját a békéről és az egységről elmélkedve a vibráló Világbéke Gongnál.",
         "ro": "Începeți dimineața la impresionantul Tugu Trikora pentru a înțelege istoria Ambonului. La prânz veți vizita superba Catedrală și Gereja Syaloom, vitrine ale moștenirii creștine. După-amiaza, aduceți un omagiu la Statuia Pattimura sub soarele tropical. Încheiați turul pietonal contemplând pacea și unitatea la vibrantul Gong al Păcii Mondiale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning rain in Ambon brings a refreshing but humid start; keep your umbrella ready as you explore the Trikora monolith. By noon, the cathedrals offer a dry sanctuary from the tropical showers, where you can admire the architecture in peace. Afternoon walks through the park require staying on paved paths to avoid mud. The evening settles with the rhythmic sound of rain on tin roofs.",
+            "de": "Der Morgenregen in Ambon sorgt für einen erfrischenden, aber feuchten Start; halten Sie den Schirm bereit, während Sie das Trikora-Denkmal erkunden. Mittags bieten die Kathedralen einen trockenen Zufluchtsort vor den tropischen Güssen. Nachmittagsspaziergänge erfordern befestigte Wege, um Schlamm zu vermeiden. Der Abend klingt mit dem rhythmischen Geräusch des Regens auf den Blechdächern aus.",
+            "hu": "A reggeli eső Ambonban frissítő, de párás kezdést hoz; tartsa készenlétben esernyőjét a Trikora monolit felfedezése közben. Délben a katedrálisok száraz menedéket nyújtanak a trópusi záporok elől, ahol békében csodálhatja az építészetet. A délutáni séta során maradjon a kövezett utakon a sár elkerülése érdekében. Az este a bádogtetőkön kopogó eső ritmikus zajával zárul.",
+            "ro": "Ploaia de dimineață în Ambon aduce un început revigorant, dar umed; țineți umbrela pregătită în timp ce explorați monoliții Trikora. La prânz, catedralele oferă un sanctuar uscat în fața averselor tropicale. Plimbările de după-amiază prin parc necesită rămânerea pe potecile pavate pentru a evita noroiul. Seara se așterne cu sunetul ritmic al ploii pe acoperișurile de tablă."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Tugu Trikora (Monolith)",
+                "de": "Tugu Trikora (Monolith)",
+                "hu": "Tugu Trikora (Monolit)",
+                "ro": "Tugu Trikora (Monolit)"
+              },
+              "tip_4lang": {
+                "en": "Observe the monument's height while shielding yourself under the nearby trees; be careful of the slippery concrete base during heavy tropical rain.",
+                "de": "Betrachten Sie das Denkmal im Schutz der Bäume; achten Sie bei starkem Regen auf den rutschigen Sockel, der gefährlich glatt werden kann.",
+                "hu": "Csodálja meg az emlékmű magasságát a közeli fák oltalma alól; ügyeljen a csúszós betonfelületre a heves trópusi esőzések idején.",
+                "ro": "Admirați înălțimea monumentului sub protecția copacilor din apropiere; atenție la baza de beton care devine alunecoasă în timpul ploilor tropicale."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja Katedral Ambon",
+                "de": "Gereja Katedral Ambon",
+                "hu": "Ambon Katolikus Katedrális",
+                "ro": "Catedrala Catolică Ambon"
+              },
+              "tip_4lang": {
+                "en": "Step inside to escape the downpour and admire the stained glass; the interior provides a dry, serene sanctuary for reflection during storms.",
+                "de": "Treten Sie ein, um dem Regen zu entkommen und die Glasmalereien zu bewundern; das Innere bietet einen trockenen, ruhigen Ort für die Besinnung.",
+                "hu": "Lépjen be, hogy elmeneküljön a felhőszakadás elől, és csodálja meg az üvegablakokat; a belső tér száraz, nyugodt menedéket nyújt az eső idején.",
+                "ro": "Intrați în interior pentru a scăpa de ploaie și a admira vitraliile; interiorul oferă un sanctuar uscat și liniștit pentru reflecție în timpul furtunilor."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja Syaloom",
+                "de": "Gereja Syaloom",
+                "hu": "Syaloom Templom",
+                "ro": "Biserica Syaloom"
+              },
+              "tip_4lang": {
+                "en": "This historic church offers excellent cover from the rain; check the intricate wood carvings inside while your gear dries in the entrance hall.",
+                "de": "Diese historische Kirche bietet hervorragenden Schutz vor Regen; betrachten Sie die Holzschnitzereien, während Ihre Kleidung im Eingangsbereich trocknet.",
+                "hu": "Ez a történelmi templom kiváló fedezéket nyújt az eső elől; nézze meg a fafaragásokat, amíg ruházata megszárad a bejárati csarnokban.",
+                "ro": "Această biserică istorică oferă un adăpost excelent împotriva ploii; admirați sculpturile în lemn în timp ce echipamentul se usucă în hol."
+              }
+            },
+            {
+              "name": {
+                "en": "Pattimura Statue",
+                "de": "Pattimura-Statue",
+                "hu": "Pattimura-szobor",
+                "ro": "Statuia Pattimura"
+              },
+              "tip_4lang": {
+                "en": "View the hero of Maluku through the mist of a downpour; stay on the tiled sections of the square to avoid the soft, muddy grass patches.",
+                "de": "Betrachten Sie den Helden von Maluku im Regendunst; bleiben Sie auf den gefliesten Abschnitten, um die weichen, schlammigen Rasenflächen zu meiden.",
+                "hu": "Tekintse meg Maluku hősét a szakadó eső ködén át; maradjon a tér kövezett részein, hogy elkerülje a felázott, sáros füves területeket.",
+                "ro": "Vedeți eroul din Maluku prin mătasea ploii; rămâneți pe secțiunile pavate ale pieței pentru a evita zonele cu iarbă moale și noroioasă."
+              }
+            },
+            {
+              "name": {
+                "en": "World Peace Gong",
+                "de": "Weltfriedensgong",
+                "hu": "Világbéke Gong",
+                "ro": "Gongul Păcii Mondiale"
+              },
+              "tip_4lang": {
+                "en": "The large gong is partially sheltered, allowing you to study the world flags even in wet weather; the wet ground reflects the monument beautifully.",
+                "de": "Der große Gong ist teilweise überdacht, sodass Sie die Flaggen auch bei Nässe studieren können; der nasse Boden spiegelt das Monument schön wider.",
+                "hu": "A nagy gong részben fedett, így esőben is tanulmányozhatja a világ zászlóit; a nedves talaj gyönyörűen tükrözi vissza az emlékművet.",
+                "ro": "Gongul mare este parțial adăpostit, permițându-vă să studiați steagurile lumii chiar și pe ploaie; solul umed reflectă frumos monumentul."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "The mild Ambon winter brings cooler breezes and clear skies in the morning. Midday is perfect for exploring the cathedrals as the sun feels less intense. Shadows lengthen quickly in the afternoon, so aim to reach the monuments before the early 17:00 sunset. As darkness falls early, the city lights create a cozy atmosphere for an evening stroll.",
+            "de": "Der milde Winter in Ambon bringt morgens kühle Brisen und klaren Himmel. Der Mittag ist ideal, um die Kathedralen zu erkunden, da die Sonne weniger brennt. Nachmittags werden die Schatten schnell länger; erreichen Sie die Denkmäler vor dem frühen Sonnenuntergang um 17:00 Uhr. Die Stadtlichter sorgen abends für eine gemütliche Atmosphäre.",
+            "hu": "Az enyhe amboni tél hűvös szellőket és tiszta eget hoz reggel. A délidő tökéletes a katedrálisok felfedezéséhez, mivel a nap kevésbé éget. Délután az árnyékok gyorsan nyúlnak, így próbálja elérni az emlékműveket a korai, 17:00-s naplemente előtt. A korai sötétedés után a városi fények barátságos hangulatot árasztanak.",
+            "ro": "Iarna blândă din Ambon aduce brize răcoroase și cer senin dimineața. Amiaza este perfectă pentru a explora catedralele, deoarece soarele este mai puțin intens. Umbrele se lungesc rapid după-amiaza, așa că vizitați monumentele înainte de apusul de la ora 17:00. Pe măsură ce se întunecă devreme, luminile orașului creează o atmosferă primitoare."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Tugu Trikora (Monolith)",
+                "de": "Tugu Trikora (Monolith)",
+                "hu": "Tugu Trikora (Monolit)",
+                "ro": "Tugu Trikora (Monolit)"
+              },
+              "tip_4lang": {
+                "en": "Visit this historic tower in the mild morning air; the low winter sun creates long, dramatic shadows perfect for photography before the midday heat.",
+                "de": "Besuchen Sie den Turm in der milden Morgenluft; die tiefstehende Wintersonne wirft lange Schatten, ideal für Fotos vor der Mittagshitze.",
+                "hu": "Látogassa meg a tornyot a hűvös reggeli szélben; az alacsony téli nap hosszú árnyékai tökéletesek a fotózáshoz a déli hőség előtt.",
+                "ro": "Vizitați turnul istoric în briza ușoară a dimineții; soarele de iarnă creează umbre lungi și dramatice, perfecte pentru fotografii înainte de arșiță."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja Katedral Ambon",
+                "de": "Gereja Katedral Ambon",
+                "hu": "Ambon Katolikus Katedrális",
+                "ro": "Catedrala Catolică Ambon"
+              },
+              "tip_4lang": {
+                "en": "The cathedral's thick walls keep the interior pleasantly cool during the sunny winter noon; enjoy the quiet atmosphere without the usual summer humidity.",
+                "de": "Die dicken Mauern halten das Innere am sonnigen Wintermittag angenehm kühl; genießen Sie die Ruhe ohne die übliche sommerliche Luftfeuchtigkeit.",
+                "hu": "A katedrális vastag falai kellemesen hűvösen tartják a belsőt a napos téli délidőben; élvezze a csendes hangulatot a szokásos nyári pára nélkül.",
+                "ro": "Zidurile groase ale catedralei mențin interiorul răcoros în amiaza însorită de iarnă; bucurați-vă de liniște fără umiditatea obișnuită a verii."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja Syaloom",
+                "de": "Gereja Syaloom",
+                "hu": "Syaloom Templom",
+                "ro": "Biserica Syaloom"
+              },
+              "tip_4lang": {
+                "en": "A perfect mid-afternoon stop to rest in a warm, wood-scented environment; notice how the golden hour light filters through the high windows.",
+                "de": "Ein idealer Stopp am Nachmittag, um in einer warmen, nach Holz duftenden Umgebung zu ruhen; achten Sie auf das goldene Licht in den hohen Fenstern.",
+                "hu": "Tökéletes délutáni megálló, hogy megpihenjen a meleg, fával bélelt környezetben; figyelje meg, ahogy az aranyóra fényei átszűrődnek az ablakokon.",
+                "ro": "O oprire perfectă după-amiaza pentru a vă odihni într-un mediu cald, cu miros de lemn; observați cum lumina aurie trece prin ferestrele înalte."
+              }
+            },
+            {
+              "name": {
+                "en": "Pattimura Statue",
+                "de": "Pattimura-Statue",
+                "hu": "Pattimura-szobor",
+                "ro": "Statuia Pattimura"
+              },
+              "tip_4lang": {
+                "en": "The statue glows in the early afternoon sun; bring a light jacket for the cooler evening breeze that starts right after the 17:00 sunset.",
+                "de": "Die Statue leuchtet in der frühen Nachmittagssonne; bringen Sie eine leichte Jacke für die kühle Brise mit, die direkt nach dem Sonnenuntergang beginnt.",
+                "hu": "A szobor ragyog a kora délutáni napsütésben; hozzon egy könnyű dzsekit a hűvös esti szél ellen, amely rögtön a 17:00-s naplemente után feltámad.",
+                "ro": "Statuia strălucește în soarele după-amiezii; aduceți o jachetă ușoară pentru briza răcoroasă care începe imediat după apusul de la 17:00."
+              }
+            },
+            {
+              "name": {
+                "en": "World Peace Gong",
+                "de": "Weltfriedensgong",
+                "hu": "Világbéke Gong",
+                "ro": "Gongul Păcii Mondiale"
+              },
+              "tip_4lang": {
+                "en": "Arrive shortly before 17:00 to witness the sunset over the park; the cooler air makes it pleasant to linger and read the descriptions of the gong.",
+                "de": "Kommen Sie kurz vor 17:00 Uhr, um den Sonnenuntergang im Park zu erleben; die kühle Luft lädt dazu ein, die Beschreibungen des Gongs zu lesen.",
+                "hu": "Érkezzen nem sokkal 17:00 előtt, hogy tanúja legyen a naplementének a parkban; a hűvösebb levegőben kellemes elidőzni a gong leírásait olvasva.",
+                "ro": "Sosiți puțin înainte de ora 17:00 pentru a vedea apusul în parc; aerul răcoros face plăcută zăbovirea pentru a citi descrierile gongului."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "de": "Radeln Sie gleich morgens zum Tugu Trikora, um der Hitze zu entgehen. Mittags fahren Sie zum Weltfriedensgong und zur Pattimura-Statue, um die Geschichte aufzusaugen. Ihre Nachmittagsfahrt führt Sie vorbei an der Gereja Joseph Kham zur großen Masjid Agung An Nur. Gegen Abend beenden Sie Ihre Reise in ruhiger Besinnung in der Masjid Baiturrahman.",
         "hu": "Tekerjen a Tugu Trikorához kora reggel, hogy elkerülje a hőséget. Délre biciklizzen a Világbéke Gonghoz és a Pattimura-szoborhoz, hogy elmerüljön a helyi történelemben. A délutáni túra a történelmi Gereja Joseph Kham mellett a hatalmas Masjid Agung An Nurhoz vezet. Ahogy közeledik az este, fejezze be útját csendes elmélkedéssel a Masjid Baiturrahmanban.",
         "ro": "Pedați spre Tugu Trikora la prima oră pentru a evita căldura. Până la prânz, mergeți la Gongul Păcii și la Statuia Pattimura pentru a absorbi istoria. Plimbarea de după-amiază vă duce pe lângă istorica Gereja Joseph Kham spre marea Masjid Agung An Nur. Spre seară, încheiați-vă călătoria cu o reflecție liniștită la Masjid Baiturrahman."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Cycling in Ambon's rain requires caution on the slippery city streets. The morning mist at the monolith is beautiful, but keep your speed low. By noon, the World Peace Gong park offers some shelter under trees. Afternoon riding through puddles near the mosques can be a challenge, so wear waterproof gear. The day ends with a humid evening breeze.",
+            "de": "Radfahren im Regen von Ambon erfordert Vorsicht auf den rutschigen Straßen. Der Morgennebel am Denkmal ist schön, aber fahren Sie langsam. Mittags bietet der Park am Weltfriedensgong Schutz unter Bäumen. Die Nachmittagsfahrt durch Pfützen bei den Moscheen ist eine Herausforderung; tragen Sie Regenkleidung. Der Tag endet mit einer feuchten Brise.",
+            "hu": "A kerékpározás az amboni esőben óvatosságot igényel a csúszós városi utcákon. A reggeli köd a monolitnál gyönyörű, de tartsa alacsonyan a sebességet. Délben a Világbéke Gong parkja némi menedéket nyújt a fák alatt. A délutáni tekerés a mecsetek környéki tócsákban kihívás lehet, viseljen vízálló felszerelést. A nap párás esti széllel zárul.",
+            "ro": "Ciclismul pe ploaie în Ambon necesită prudență pe străzile alunecoase. Ceața de dimineață la monolit este frumoasă, dar păstrați viteza scăzută. La prânz, parcul Gongului Păcii oferă adăpost sub copaci. Mersul prin bălți lângă moschei după-amiaza poate fi o provocare; purtați echipament impermeabil. Ziua se încheie cu o briză umedă."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Tugu Trikora (Monolith)",
+                "de": "Tugu Trikora (Monolith)",
+                "hu": "Tugu Trikora (Monolit)",
+                "ro": "Tugu Trikora (Monolit)"
+              },
+              "tip_4lang": {
+                "en": "Park your bike on level ground to avoid it sliding on the wet pavement; the metal base of the monument can be extremely slippery when wet.",
+                "de": "Stellen Sie Ihr Rad auf ebenem Boden ab, damit es nicht wegrutscht; der Metallsockel des Denkmals ist bei Nässe extrem rutschig.",
+                "hu": "Parkolja le kerékpárját sík talajon, hogy ne csússzon el a nedves aszfalton; az emlékmű fém alapja rendkívül csúszós lehet esőben.",
+                "ro": "Parcați bicicleta pe teren plat pentru a evita alunecarea pe pavajul umed; baza metalică a monumentului poate fi extrem de alunecoasă."
+              }
+            },
+            {
+              "name": {
+                "en": "World Peace Gong",
+                "de": "Weltfriedensgong",
+                "hu": "Világbéke Gong",
+                "ro": "Gongul Păcii Mondiale"
+              },
+              "tip_4lang": {
+                "en": "The paved paths around the gong are safer than the grass during rain; use the covered areas nearby to dry your bike seat and take a break.",
+                "de": "Die befestigten Wege um den Gong sind bei Regen sicherer als der Rasen; nutzen Sie überdachte Stellen, um den Sattel zu trocknen.",
+                "hu": "A gong körüli kövezett utak biztonságosabbak esőben a fűnél; használja a közeli fedett részeket a nyereg megszárításához és egy pihenőhöz.",
+                "ro": "Potecile pavate din jurul gongului sunt mai sigure decât iarba pe ploaie; folosiți zonele acoperite pentru a usca șaua și a vă odihni."
+              }
+            },
+            {
+              "name": {
+                "en": "Pattimura Statue",
+                "de": "Pattimura-Statue",
+                "hu": "Pattimura-szobor",
+                "ro": "Statuia Pattimura"
+              },
+              "tip_4lang": {
+                "en": "Be cautious of splashing cars as you cycle to the statue; the surrounding drains can overflow during heavy showers, creating deep puddles.",
+                "de": "Achten Sie auf spritzendes Wasser von Autos; die Abflüsse können bei starkem Regen überlaufen und tiefe Pfützen bilden.",
+                "hu": "Vigyázzon az autók által felcsapott vízre a szobor felé tekerve; a környék vízelvezetői heves esőben túlcsordulhatnak, mély tócsákat okozva.",
+                "ro": "Atenție la mașinile care stropesc în timp ce pedalați spre statuie; canalele se pot revărsa în timpul ploilor grele, creând bălți adânci."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja Joseph Kham",
+                "de": "Gereja Joseph Kham",
+                "hu": "Joseph Kham Templom",
+                "ro": "Biserica Joseph Kham"
+              },
+              "tip_4lang": {
+                "en": "The entrance area provides a dry spot to park your bike briefly; use this stop to check your brakes and wipe down your lights for better visibility.",
+                "de": "Der Eingangsbereich bietet einen trockenen Platz zum Parken; nutzen Sie den Stopp, um Bremsen zu prüfen und Lichter für bessere Sicht abzuwischen.",
+                "hu": "A bejárati rész száraz helyet biztosít a rövid parkoláshoz; használja ezt a megállót a fékek ellenőrzésére és a lámpák letörlésére a láthatóságért.",
+                "ro": "Zona de intrare oferă un loc uscat pentru a parca scurt; folosiți oprirea pentru a verifica frânele și a șterge farurile pentru vizibilitate."
+              }
+            },
+            {
+              "name": {
+                "en": "Masjid Agung An Nur",
+                "de": "Masjid Agung An Nur",
+                "hu": "An Nur Nagymecset",
+                "ro": "Marea Moschee An Nur"
+              },
+              "tip_4lang": {
+                "en": "Remove your wet shoes before entering the mosque's dry interior; the marble floors inside stay dry and offer a peaceful rest from the rainy ride.",
+                "de": "Ziehen Sie Ihre nassen Schuhe aus, bevor Sie das trockene Innere betreten; die Marmorböden bieten eine ruhige Pause vom Regen.",
+                "hu": "Vegye le nedves cipőjét, mielőtt belépne a mecset száraz belsejébe; a márványpadló békés pihenőt nyújt az esős tekerés után.",
+                "ro": "Scoateți încălțămintea umedă înainte de a intra; podelele de marmură din interior rămân uscate și oferă o pauză liniștită după ploaie."
+              }
+            },
+            {
+              "name": {
+                "en": "Masjid Baiturrahman",
+                "de": "Masjid Baiturrahman",
+                "hu": "Baiturrahman Mecset",
+                "ro": "Moscheea Baiturrahman"
+              },
+              "tip_4lang": {
+                "en": "Finish your ride carefully as evening rain often intensifies; check that your bike's reflectors are clean to stay visible to drivers in the gloom.",
+                "de": "Beenden Sie die Fahrt vorsichtig, da der Regen abends oft stärker wird; prüfen Sie Ihre Reflektoren für bessere Sichtbarkeit in der Dämmerung.",
+                "hu": "Óvatosan fejezze be a túrát, mert az esti eső gyakran felerősödik; ellenőrizze, hogy a prizmák tiszták-e a jobb láthatóság érdekében a szürkületben.",
+                "ro": "Încheiați cursa cu atenție, deoarece ploaia de seară se intensifică; verificați reflectoarele bicicletei pentru a fi vizibil în amurg."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Winter cycling in Ambon is a joy with cooler temperatures and fresh air. Start your morning ride at the monolith when the breeze is crisp. Midday stops at the monuments are comfortable without the scorching heat. Afternoon light is golden but short; plan to finish your route by 17:00. The evening air is surprisingly cool, perfect for a fast ride home.",
+            "de": "Winter-Radfahren in Ambon ist bei kühleren Temperaturen ein Genuss. Beginnen Sie Ihre Morgentour am Denkmal in der frischen Brise. Mittagsstopps sind ohne die sengende Hitze sehr angenehm. Das Nachmittagslicht ist golden, aber kurz; beenden Sie die Tour bis 17:00 Uhr. Die kühle Abendluft ist ideal für die Heimfahrt.",
+            "hu": "A téli kerékpározás Ambonban öröm a hűvösebb hőmérsékletnek és friss levegőnek köszönhetően. Kezdje a reggeli túrát a monolitnál a friss szélben. A déli megállók kényelmesek a perzselő hőség nélkül. A délutáni fények gyönyörűek, de rövidek; tervezze az út végét 17:00-ra. Az esti levegő frissítően hűvös.",
+            "ro": "Ciclismul de iarnă în Ambon este o plăcere datorită temperaturilor scăzute. Începeți tura de dimineață la monolit când briza este proaspătă. Opririle de la amiază sunt confortabile fără căldura arzătoare. Lumina de după-amiază este aurie, dar scurtă; terminați ruta până la 17:00. Aerul serii este surprinzător de răcoros."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Tugu Trikora (Monolith)",
+                "de": "Tugu Trikora (Monolith)",
+                "hu": "Tugu Trikora (Monolit)",
+                "ro": "Tugu Trikora (Monolit)"
+              },
+              "tip_4lang": {
+                "en": "The uphill ride to the monolith is much easier in the cool winter morning air; enjoy the panoramic views without breaking a sweat in the low humidity.",
+                "de": "Die Fahrt bergauf zum Denkmal ist in der kühlen Wintermorgenluft viel einfacher; genießen Sie die Aussicht ohne die übliche Feuchtigkeit.",
+                "hu": "A monolithoz vezető emelkedő sokkal könnyebb a hűvös téli reggeli levegőben; élvezze a panorámát anélkül, hogy megizzadna az alacsony páratartalomban.",
+                "ro": "Urcarea spre monolit este mult mai ușoară în aerul răcoros de dimineață; bucurați-vă de priveliștea panoramică fără a transpira din cauza umidității."
+              }
+            },
+            {
+              "name": {
+                "en": "World Peace Gong",
+                "de": "Weltfriedensgong",
+                "hu": "Világbéke Gong",
+                "ro": "Gongul Păcii Mondiale"
+              },
+              "tip_4lang": {
+                "en": "The open park catches the winter breeze, making it a great place to rest; visit before 16:30 to catch the best shadows on the gong's carvings.",
+                "de": "Der offene Park fängt die Winterbrise ein und ist ein toller Ort zum Ausruhen; kommen Sie vor 16:30 Uhr für das beste Licht auf den Schnitzereien.",
+                "hu": "A nyitott park befogja a téli szellőt, így remek hely a pihenésre; érkezzen 16:30 előtt, hogy a legjobb fényeket lássa a gong faragásain.",
+                "ro": "Parcul deschis prinde briza de iarnă, fiind un loc grozav de odihnă; vizitați înainte de 16:30 pentru cele mai bune umbre pe sculpturile gongului."
+              }
+            },
+            {
+              "name": {
+                "en": "Pattimura Statue",
+                "de": "Pattimura-Statue",
+                "hu": "Pattimura-szobor",
+                "ro": "Statuia Pattimura"
+              },
+              "tip_4lang": {
+                "en": "Cycle through the square while the air is still crisp; the surrounding trees offer a pleasant, non-humid shade for a quick water break during winter.",
+                "de": "Radeln Sie über den Platz, solange die Luft noch frisch ist; die Bäume bieten angenehmen, nicht feuchten Schatten für eine kurze Trinkpause.",
+                "hu": "Tekerjen át a téren, amíg a levegő még friss; a környező fák kellemes, nem párás árnyékot nyújtanak egy gyors vizes pihenőhöz télen.",
+                "ro": "Pedalați prin piață cât timp aerul este încă proaspăt; copacii oferă o umbră plăcută și uscată pentru o scurtă pauză de hidratare în timpul iernii."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja Joseph Kham",
+                "de": "Gereja Joseph Kham",
+                "hu": "Joseph Kham Templom",
+                "ro": "Biserica Joseph Kham"
+              },
+              "tip_4lang": {
+                "en": "A quiet religious stop where the lack of summer heat allows you to appreciate the details; the stone walls feel cold to the touch in this season.",
+                "de": "Ein ruhiger Stopp, wo Sie ohne Sommerhitze die Details schätzen können; die Steinmauern fühlen sich in dieser Jahreszeit kühl an.",
+                "hu": "Csendes vallási megálló, ahol a nyári hőség hiánya lehetővé teszi a részletek értékelését; a kőfalak érintése hűvös ebben az évszakban.",
+                "ro": "O oprire liniștită unde lipsa căldurii de vară vă permite să apreciați detaliile; zidurile de piatră se simt reci la atingere în acest sezon."
+              }
+            },
+            {
+              "name": {
+                "en": "Masjid Agung An Nur",
+                "de": "Masjid Agung An Nur",
+                "hu": "An Nur Nagymecset",
+                "ro": "Marea Moschee An Nur"
+              },
+              "tip_4lang": {
+                "en": "Arrive in the late afternoon as the winter sun highlights the domes; the natural ventilation of the mosque is very effective in the cooler breeze.",
+                "de": "Kommen Sie am späten Nachmittag, wenn die Wintersonne die Kuppeln beleuchtet; die natürliche Belüftung ist bei der kühlen Brise sehr effektiv.",
+                "hu": "Érkezzen késő délután, amikor a téli nap megvilágítja a kupolákat; a mecset természetes szellőzése nagyon hatékony a hűvösebb szélben.",
+                "ro": "Sosiți după-amiaza târziu când soarele de iarnă evidențiază cupolele; ventilația naturală a moscheii este eficientă în briza răcoroasă."
+              }
+            },
+            {
+              "name": {
+                "en": "Masjid Baiturrahman",
+                "de": "Masjid Baiturrahman",
+                "hu": "Baiturrahman Mecset",
+                "ro": "Moscheea Baiturrahman"
+              },
+              "tip_4lang": {
+                "en": "The early 17:00 sunset provides a stunning backdrop for your final stop; wear your bike lights as it gets dark very quickly once the sun goes down.",
+                "de": "Der frühe Sonnenuntergang um 17:00 Uhr bietet eine tolle Kulisse; schalten Sie das Licht ein, da es nach Sonnenuntergang sehr schnell dunkel wird.",
+                "hu": "A korai, 17:00-s naplemente lenyűgöző hátteret biztosít az utolsó megállóhoz; kapcsolja be a lámpákat, mert napnyugta után gyorsan sötétedik.",
+                "ro": "Apusul devreme de la ora 17:00 oferă un decor superb pentru ultima oprire; aprindeți luminile, deoarece se întunecă rapid după ce soarele apune."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "de": "Fahren Sie früh zum Tugu Trikora und zur prächtigen Katedral Ambon für einen historischen Start. Wenn es wärmer wird, navigieren Sie zur Pattimura-Statue und zum Weltfriedensgong. Am Nachmittag fahren Sie nach Osten, um die beeindruckende Masjid Agung An Nur und eine lebhafte Viertelmoschee zu bestaunen. Beenden Sie Ihre Fahrt an der modernen Gereja GBI Gosyen.",
         "hu": "Vezessen korán a Tugu Trikorához és a csodálatos Katedrálishoz egy spirituális és történelmi kezdésért. Ahogy melegszik a nap, navigáljon a Pattimura-szoborhoz és a Világbéke Gonghoz. Délután induljon keletre, hogy megcsodálja a Masjid Agung An Nurt és egy nyüzsgő környékbeli mecsetet. Fejezze be a városi autózást a modern Gereja GBI Gosyennél.",
         "ro": "Conduceți devreme spre Tugu Trikora și magnifica Catedrală Ambon pentru un început istoric. Când se încălzește, navigați spre Statuia Pattimura și Gongul Păcii Mondiale. După-amiaza, îndreptați-vă spre est pentru a admira impresionanta Masjid Agung An Nur și o moschee de cartier. Încheiați-vă turul auto la moderna biserică Gereja GBI Gosyen."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Exploring Ambon by car during the rainy season is the most comfortable option. The morning drive to the monolith is safe from sudden downpours. Midday visits to cathedrals are easy as you can park close to the entrances. Afternoon traffic near the mosques might be slower due to rain, but you'll stay dry. The evening concludes with a peaceful drive through rain-washed streets.",
+            "de": "Ambon mit dem Auto in der Regenzeit zu erkunden, ist am bequemsten. Die Morgenfahrt zum Denkmal ist sicher vor Güssen. Mittagsbesuche der Kathedralen sind einfach, da man nah am Eingang parken kann. Der Nachmittagsverkehr bei den Moscheen kann durch den Regen langsamer sein. Der Tag endet mit einer Fahrt durch regennasse Straßen.",
+            "hu": "Ambon felfedezése autóval az esős évszakban a legkényelmesebb opció. A reggeli út a monolithoz védett a hirtelen záporoktól. A déli látogatások a katedrálisoknál egyszerűek, mivel közel parkolhat a bejáratokhoz. A délutáni forgalom a mecseteknél lassabb lehet az eső miatt. A nap békés autózással zárul az esőmosta utcákon.",
+            "ro": "Explorarea Ambonului cu mașina în sezonul ploios este cea mai confortabilă opțiune. Drumul de dimineață este protejat de averse. Vizitele de la prânz la catedrale sunt ușoare, deoarece puteți parca aproape. Traficul de după-amiază lângă moschei poate fi mai lent din cauza ploii. Ziua se încheie cu o plimbare liniștită pe străzile spălate de ploaie."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Tugu Trikora (Monolith)",
+                "de": "Tugu Trikora (Monolith)",
+                "hu": "Tugu Trikora (Monolit)",
+                "ro": "Tugu Trikora (Monolit)"
+              },
+              "tip_4lang": {
+                "en": "Enjoy the view from the comfort of your car if the rain is too heavy; the monument is clearly visible from the parking area near the base.",
+                "de": "Genießen Sie die Aussicht vom Auto aus, wenn der Regen zu stark ist; das Denkmal ist vom Parkplatz am Sockel aus gut sichtbar.",
+                "hu": "Élvezze a kilátást az autó kényelméből, ha túl heves az eső; az emlékmű jól látható az alap közelében lévő parkolóból.",
+                "ro": "Bucurați-vă de priveliște din mașină dacă ploaia este prea puternică; monumentul este clar vizibil din zona de parcare de la bază."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja Katedral Ambon",
+                "de": "Gereja Katedral Ambon",
+                "hu": "Ambon Katolikus Katedrális",
+                "ro": "Catedrala Catolică Ambon"
+              },
+              "tip_4lang": {
+                "en": "Drop off passengers right at the cathedral door to keep them dry; the interior is a perfect place to wait out a heavy tropical noon shower.",
+                "de": "Lassen Sie Mitfahrer direkt vor der Tür aussteigen, damit sie trocken bleiben; das Innere ist ideal, um einen schweren Mittagsregen abzuwarten.",
+                "hu": "Tegye ki utasait közvetlenül a katedrális ajtajánál, hogy szárazon maradjanak; a belső tér tökéletes hely egy heves déli zápor kivárásához.",
+                "ro": "Lăsați pasagerii chiar la ușa catedralei pentru a-i păstra uscați; interiorul este locul perfect pentru a aștepta trecerea unei averse de prânz."
+              }
+            },
+            {
+              "name": {
+                "en": "Pattimura Statue",
+                "de": "Pattimura-Statue",
+                "hu": "Pattimura-szobor",
+                "ro": "Statuia Pattimura"
+              },
+              "tip_4lang": {
+                "en": "The square can have large puddles; use the car to circle the monument for different photo angles without stepping into the wet grass.",
+                "de": "Der Platz kann große Pfützen haben; umfahren Sie das Denkmal mit dem Auto für Fotos aus verschiedenen Winkeln, ohne ins nasse Gras zu treten.",
+                "hu": "A téren nagy tócsák lehetnek; használja az autót az emlékmű megkerülésére a fotózáshoz, így nem kell a vizes fűbe lépnie.",
+                "ro": "Piața poate avea bălți mari; folosiți mașina pentru a înconjura monumentul pentru unghiuri foto diferite fără a călca în iarba udă."
+              }
+            },
+            {
+              "name": {
+                "en": "World Peace Gong",
+                "de": "Weltfriedensgong",
+                "hu": "Világbéke Gong",
+                "ro": "Gongul Păcii Mondiale"
+              },
+              "tip_4lang": {
+                "en": "Parking is available close to the gong, making it an easy rainy-day stop; the covered structure protecting the gong will keep you dry while exploring.",
+                "de": "Parkplätze direkt am Gong machen ihn zu einem idealen Stopp bei Regen; das Dach über dem Gong hält Sie beim Erkunden trocken.",
+                "hu": "A gong közelében van parkoló, így egyszerű megálló esős napokon; a gongot védő tetőszerkezet alatt szárazon maradhat nézelődés közben.",
+                "ro": "Parcarea este disponibilă aproape de gong, fiind o oprire ușoară pe ploaie; structura acoperită vă va menține uscat în timp ce explorați."
+              }
+            },
+            {
+              "name": {
+                "en": "Masjid Agung An Nur",
+                "de": "Masjid Agung An Nur",
+                "hu": "An Nur Nagymecset",
+                "ro": "Marea Moschee An Nur"
+              },
+              "tip_4lang": {
+                "en": "The mosque's entrance has a covered portico which is very helpful for arriving by car in a storm; leave your wet umbrella in the designated rack.",
+                "de": "Der Eingang der Moschee hat einen überdachten Portikus, ideal bei Sturm; lassen Sie Ihren nassen Schirm im dafür vorgesehenen Ständer.",
+                "hu": "A mecset bejáratánál fedett oszlopcsarnok található, ami viharban nagyon hasznos; hagyja nedves esernyőjét a kijelölt tartóban.",
+                "ro": "Intrarea moscheii are un portic acoperit, util pentru sosirea cu mașina pe furtună; lăsați umbrela udă în locul special amenajat."
+              }
+            },
+            {
+              "name": {
+                "en": "Masjid",
+                "de": "Masjid",
+                "hu": "Helyi Mecset",
+                "ro": "Moscheea Locală"
+              },
+              "tip_4lang": {
+                "en": "Drive slowly through the local neighborhood as roads can be slippery and narrow; the car provides a safe, dry base for this short spiritual stop.",
+                "de": "Fahren Sie langsam durch das Viertel, da die Straßen eng und glatt sein können; das Auto bietet eine sichere Basis für diesen kurzen Stopp.",
+                "hu": "Vezessen lassan a helyi negyedben, mert az utak csúszósak és szűkek lehetnek; az autó biztonságos, száraz bázist nyújt ehhez a rövid megállóhoz.",
+                "ro": "Conduceți încet prin cartier, deoarece drumurile pot fi alunecoase și înguste; mașina oferă o bază sigură și uscată pentru această oprire."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja GBI Gosyen",
+                "de": "Gereja GBI Gosyen",
+                "hu": "GBI Gosyen Templom",
+                "ro": "Biserica GBI Gosyen"
+              },
+              "tip_4lang": {
+                "en": "The evening rain creates a cozy atmosphere inside the car; park in the well-lit area and enjoy the church's modern architecture from your window.",
+                "de": "Der Abendregen sorgt für eine gemütliche Stimmung im Auto; parken Sie im hellen Bereich und betrachten Sie die Architektur vom Fenster aus.",
+                "hu": "Az esti eső barátságos hangulatot teremt az autóban; parkoljon a jól megvilágított részen, és csodálja az építészetet az ablakból.",
+                "ro": "Ploaia de seară creează o atmosferă plăcută în mașină; parcați în zona luminată și admirați arhitectura modernă de la fereastră."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Ambon's winter is perfect for a scenic car tour with the AC set to a mild temperature. The morning sun at the monolith is bright but not scorching. Midday explorations of the cathedrals are pleasant as the humidity is lower. Early sunset at 17:00 means you should reach the final mosques by late afternoon. The evening drive offers clear views of the city lights.",
+            "de": "Der Winter in Ambon ist ideal für eine Autotour bei milder Klimaanlage. Die Morgensonne am Denkmal ist hell, aber nicht brennend. Mittagsbesuche der Kathedralen sind bei geringerer Feuchtigkeit angenehm. Der frühe Sonnenuntergang um 17:00 Uhr erfordert eine gute Zeitplanung. Die Abendfahrt bietet klare Sicht auf die Stadtlichter.",
+            "hu": "Az amboni tél tökéletes egy látványos autós túrához enyhe klímával. A reggeli nap a monolitnál ragyogó, de nem égető. A déli katedrális-látogatások kellemesek az alacsonyabb páratartalom miatt. A korai, 17:00-s naplemente miatt az utolsó mecseteket már késő délután el kell érni. Az esti autózás tiszta kilátást nyújt a fényekre.",
+            "ro": "Iarna în Ambon este perfectă pentru un tur cu mașina cu aerul condiționat la o temperatură blândă. Soarele de dimineață la monolit este strălucitor, nu arzător. Explorările de la amiază sunt plăcute datorită umidității scăzute. Apusul de la 17:00 înseamnă că trebuie să ajungeți la ultimele moschei după-amiaza. Seara oferă vederi clare asupra orașului."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Tugu Trikora (Monolith)",
+                "de": "Tugu Trikora (Monolith)",
+                "hu": "Tugu Trikora (Monolit)",
+                "ro": "Tugu Trikora (Monolit)"
+              },
+              "tip_4lang": {
+                "en": "The cool morning breeze at the top is refreshing; keep the windows down as you approach the monument to enjoy the fresh winter air of Ambon.",
+                "de": "Die kühle Morgenbrise oben ist erfrischend; lassen Sie die Fenster bei der Anfahrt offen, um die frische Winterluft von Ambon zu genießen.",
+                "hu": "A hűvös reggeli szél a csúcson frissítő; tartsa lehúzva az ablakokat a megközelítéskor, hogy élvezze Ambon friss téli levegőjét.",
+                "ro": "Briza răcoroasă de dimineață este revigorantă; lăsați geamurile jos în timp ce vă apropiați pentru a savura aerul proaspăt de iarnă."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja Katedral Ambon",
+                "de": "Gereja Katedral Ambon",
+                "hu": "Ambon Katolikus Katedrális",
+                "ro": "Catedrala Catolică Ambon"
+              },
+              "tip_4lang": {
+                "en": "Park in the shade to keep the car interior cool while you explore; the lower winter humidity makes walking from the car to the cathedral very pleasant.",
+                "de": "Parken Sie im Schatten, um das Auto kühl zu halten; die geringere Luftfeuchtigkeit macht den kurzen Weg vom Auto zur Kathedrale sehr angenehm.",
+                "hu": "Parkoljon árnyékban, hogy az autó belseje hűvös maradjon; az alacsonyabb téli páratartalom miatt nagyon kellemes a séta az autótól a katedrálisig.",
+                "ro": "Parcați la umbră pentru a menține interiorul mașinii răcoros; umiditatea scăzută de iarnă face plimbarea de la mașină la catedrală foarte plăcută."
+              }
+            },
+            {
+              "name": {
+                "en": "Pattimura Statue",
+                "de": "Pattimura-Statue",
+                "hu": "Pattimura-szobor",
+                "ro": "Statuia Pattimura"
+              },
+              "tip_4lang": {
+                "en": "The early afternoon light is ideal for photos of the hero statue; the winter sky is usually clear, providing a bright blue backdrop for the monument.",
+                "de": "Das frühe Nachmittagslicht ist ideal für Fotos der Statue; der Winterhimmel ist meist klar und bietet einen strahlend blauen Hintergrund.",
+                "hu": "A kora délutáni fény ideális a hős szobrának fotózásához; a téli ég általában tiszta, ragyogó kék hátteret biztosítva az emlékműnek.",
+                "ro": "Lumina de după-amiază este ideală pentru fotografii; cerul de iarnă este de obicei senin, oferind un fundal albastru strălucitor pentru monument."
+              }
+            },
+            {
+              "name": {
+                "en": "World Peace Gong",
+                "de": "Weltfriedensgong",
+                "hu": "Világbéke Gong",
+                "ro": "Gongul Păcii Mondiale"
+              },
+              "tip_4lang": {
+                "en": "Arrive before 16:30 as the park is best enjoyed in the late winter sun; the car's clock will help you track the early 17:00 sunset time.",
+                "de": "Kommen Sie vor 16:30 Uhr, da der Park in der späten Wintersonne am schönsten ist; achten Sie auf die Zeit vor dem Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Érkezzen 16:30 előtt, mert a park a késő téli napsütésben a legszebb; az autó órája segít követni a korai, 17:00-s naplemente idejét.",
+                "ro": "Sosiți înainte de 16:30, deoarece parcul este cel mai frumos în soarele de iarnă; ceasul mașinii vă va ajuta să urmăriți ora apusului de la 17:00."
+              }
+            },
+            {
+              "name": {
+                "en": "Masjid Agung An Nur",
+                "de": "Masjid Agung An Nur",
+                "hu": "An Nur Nagymecset",
+                "ro": "Marea Moschee An Nur"
+              },
+              "tip_4lang": {
+                "en": "The golden hour starts early in winter; the domes of the mosque reflect the setting sun beautifully just as you arrive by car.",
+                "de": "Die goldene Stunde beginnt im Winter früh; die Kuppeln der Moschee spiegeln die untergehende Sonne wunderschön wider, wenn Sie ankommen.",
+                "hu": "Az aranyóra korán kezdődik télen; a mecset kupolái gyönyörűen tükrözik a lemenő napot, éppen amikor megérkezik autóval.",
+                "ro": "Ora aurie începe devreme iarna; cupolele moscheii reflectă frumos soarele la apus exact când sosiți cu mașina."
+              }
+            },
+            {
+              "name": {
+                "en": "Masjid",
+                "de": "Masjid",
+                "hu": "Helyi Mecset",
+                "ro": "Moscheea Locală"
+              },
+              "tip_4lang": {
+                "en": "Notice the local evening prayers starting as the sun sets at 17:00; the car allows you to move quickly between these religious sites in the fading light.",
+                "de": "Beobachten Sie die Abendgebete bei Sonnenuntergang um 17:00 Uhr; das Auto ermöglicht schnelle Wechsel zwischen den Orten im schwindenden Licht.",
+                "hu": "Figyelje meg a helyi esti imák kezdetét, ahogy a nap 17:00-kor lemegy; az autó lehetővé teszi a gyors mozgást a helyszínek között a fogyatkozó fényben.",
+                "ro": "Observați rugăciunile de seară care încep la apusul de la ora 17:00; mașina vă permite să vă deplasați rapid între site-uri în lumina care scade."
+              }
+            },
+            {
+              "name": {
+                "en": "Gereja GBI Gosyen",
+                "de": "Gereja GBI Gosyen",
+                "hu": "GBI Gosyen Templom",
+                "ro": "Biserica GBI Gosyen"
+              },
+              "tip_4lang": {
+                "en": "Finish your tour as the winter darkness sets in early; the church is beautifully illuminated at night, providing a grand conclusion to your drive.",
+                "de": "Beenden Sie die Tour bei der frühen Dunkelheit; die Kirche ist nachts wunderschön beleuchtet und bietet einen grandiosen Abschluss der Fahrt.",
+                "hu": "Fejezze be a túrát a korán beálló téli sötétségben; a templom éjszaka gyönyörűen ki van világítva, nagyszerű zárást nyújtva az autózásnak.",
+                "ro": "Încheiați turul pe măsură ce întunericul se lasă devreme; biserica este frumos iluminată noaptea, oferind o concluzie grandioasă călătoriei."
+              }
+            }
+          ]
+        }
       }
     }
   }

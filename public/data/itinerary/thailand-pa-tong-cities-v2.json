@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Patong Beach puha homokján, majd irány a Patong Bay a lenyűgöző kilátásért. Dél közeledtével sétáljon végig a Boyz Town színes utcáin. Délután merüljön el a nyüzsgő Banzaan piacon, ahol megkóstolhatja a thaiföldi utcai ételeket. Zárja a napot egy kirándulással a Mountain View-hoz, és gyönyörködjön a lélegzetelállító trópusi naplementében.",
         "ro": "Începeți dimineața pe nisipul fin al plajei Patong înainte de a vă bucura de priveliștile din golful Patong. La prânz, plimbați-vă pe străzile colorate din Boyz Town. După-amiaza, vizitați Banzaan Fresh Market pentru a experimenta mâncarea stradală thailandeză autentică. Încheiați ziua cu o drumeție la Mountain View pentru a admira un apus tropical uluitor.",
         "en": "Start your morning feeling the soft sands of Patong Beach before heading up to Patong Bay for sweeping views. As midday approaches, wander through the colorful streets of Boyz Town, enjoying a quieter perspective. In the afternoon, dive into the bustling Banzaan Fresh Market to experience authentic Thai street food. End your day hiking up to Mountain View for a breathtaking tropical sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Patong Beach bietet der Regen eine dramatische Kulisse, während man unter den Vordächern der Strandbars trocken bleibt. Mittags ist der Banzaan Market der perfekte Rückzugsort, um lokale Köstlichkeiten im Trockenen zu genießen. Nachmittags erkunden wir die farbenfrohen Gassen von Boyz Town. Abends steigen wir zum Mountain View auf; Vorsicht auf den rutschigen Wegen im feuchten Wald.",
+            "hu": "Reggel a Patong parton kezdünk, a zivatar ellenére a tenger látványa lenyűgöző a fedett teraszokról. Délben a Banzaan piac csarnokaiban keresünk menedéket a trópusi eső elől. Délután a Boyz Town színes utcáin sétálunk, ahol a beugrók védenek a nedvességtől. Az estét a kilátónál zárjuk; a csúszós ösvényeken legyen óvatos a párás, esős időben.",
+            "ro": "Dimineața la Patong Beach, cerul furtunos oferă un spectacol dramatic, vizibil de la adăpostul teraselor. La prânz, piața Banzaan este refugiul ideal pentru a savura mâncare locală la interior. După-amiaza explorăm străzile din Boyz Town sub umbrelă. Seara urcăm spre punctul de belvedere; atenție sporită pe potecile alunecoase din cauza umidității ridicate.",
+            "en": "Morning at Patong Beach offers a dramatic stormy atmosphere while staying dry under beach club awnings. At noon, Banzaan Market provides the perfect indoor shelter to enjoy local flavors. In the afternoon, explore the vibrant Boyz Town with a sturdy umbrella. End the evening at the viewpoint; be extra careful on the slippery paths caused by the humid, rainy conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patong Beach",
+                "hu": "Patong Beach",
+                "ro": "Patong Beach",
+                "en": "Patong Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer von einem der vielen Strandcafés aus; ein Regenponcho ist hier bei plötzlichen Güssen unerlässlich.",
+                "hu": "Figyelje a viharos tengert a számos partmenti kávézó egyikéből; egy esőponcho itt elengedhetetlen a hirtelen lezúduló záporok idején.",
+                "ro": "Observați marea agitată de la una dintre numeroasele cafenele de pe plajă; o pelerină de ploaie este esențială în cazul averselor bruște.",
+                "en": "Watch the stormy Andaman Sea from the safety of a beachside café; a rain poncho is essential here during sudden tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "อ่าวป่าตอง",
+                "hu": "อ่าวป่าตong",
+                "ro": "อ่าวป่าตอง",
+                "en": "อ่าวป่าตอง"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt wirkt im Nebel mystisch; tragen Sie rutschfeste Schuhe, da die Steine bei Nässe extrem glatt werden können.",
+                "hu": "A kilátóhely misztikus hangulatot áraszt a ködben; viseljen csúszásmentes cipőt, mert a kövek nedvesen rendkívül simák lehetnek.",
+                "ro": "Punctul de belvedere pare mistic în ceață; purtați încălțăminte antiderapantă, deoarece pietrele devin extrem de alunecoase când sunt ude.",
+                "en": "The viewpoint looks mystical shrouded in mist; wear non-slip shoes as the stones can become extremely slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Patong Boyz Town",
+                "hu": "Patong Boyz Town",
+                "ro": "Patong Boyz Town",
+                "en": "Patong Boyz Town"
+              },
+              "tip_5lang": {
+                "de": "Die Neonlichter spiegeln sich wunderschön in den Pfützen; nutzen Sie die überdachten Passagen der Bars, um trocken von Ort zu Ort zu kommen.",
+                "hu": "A neonfények gyönyörűen tükröződnek a tócsákban; használja a bárok fedett átjáróit, hogy szárazon juthasson egyik helyről a másikra.",
+                "ro": "Luminile de neon se reflectă superb în bălți; folosiți pasajele acoperite ale barurilor pentru a vă deplasa uscat dintr-un loc în altul.",
+                "en": "The neon lights reflect beautifully in the puddles; use the covered bar passages to move from place to place while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Banzaan Fresh Market (Night)",
+                "hu": "Banzaan Fresh Market",
+                "ro": "Banzaan Fresh Market",
+                "en": "Banzaan Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Die obere Etage bietet großartigen Schutz vor Regen; probieren Sie die frischen Meeresfrüchte im überdachten Food-Court-Bereich.",
+                "hu": "Az emeleti rész kiváló védelmet nyújt az eső elől; kóstolja meg a friss tengeri herkentyűket a teljesen fedett étkezdében.",
+                "ro": "Etajul superior oferă o protecție excelentă împotriva ploii; gustați fructele de mare proaspete în zona de food court acoperită.",
+                "en": "The upper floor provides great shelter from the rain; try the fresh seafood in the fully covered food court area."
+              }
+            },
+            {
+              "name": {
+                "de": "Mountain View",
+                "hu": "Mountain View",
+                "ro": "Mountain View",
+                "en": "Mountain View"
+              },
+              "tip_5lang": {
+                "de": "Die Wolken hängen tief über dem Dschungel; bleiben Sie auf den befestigten Wegen, um Schlamm und rutschige Abhänge zu vermeiden.",
+                "hu": "A felhők alacsonyan szállnak a dzsungel felett; maradjon a kijelölt ösvényeken, hogy elkerülje a sárban való elcsúszást.",
+                "ro": "Norii plutesc jos deasupra junglei; rămâneți pe potecile marcate pentru a evita noroiul și pantele alunecoase.",
+                "en": "Clouds hang low over the jungle canopy; stay on the paved paths to avoid mud and treacherous slippery slopes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die frische Brise am Patong Beach bei milden Temperaturen. Mittags bietet der Banzaan Market eine willkommene Wärme und herzhafte Speisen. Nachmittags wandern wir zum Aussichtspunkt, um das klare Licht zu nutzen. Der Sonnenuntergang erfolgt bereits gegen 17:00 Uhr; planen Sie Ihre Rückkehr vom Berg frühzeitig ein, bevor es kühl wird.",
+            "hu": "Reggel a friss szellőt élvezzük a Patong parton az enyhébb hőmérsékletben. Délben a Banzaan piac forgatagában melegedünk fel a friss ételek mellett. Délután a kilátó felé vesszük az irányt a tiszta látási viszonyok miatt. A naplemente már 17 óra körül beköszönt; érdemes időben elindulni a hegyről, mielőtt lehűl a levegő.",
+            "ro": "Dimineața ne bucurăm de briza răcoroasă la Patong Beach în temperaturi plăcute. La prânz, piața Banzaan oferă o căldură primitoare și mâncăruri consistente. După-amiaza urcăm la belvedere pentru vizibilitate maximă. Apusul are loc în jur de ora 17:00; planificați coborârea de pe munte din timp, înainte de răcirea serii.",
+            "en": "Morning brings a refreshing breeze at Patong Beach with milder temperatures. At noon, Banzaan Market offers a warm atmosphere and hearty local dishes. In the afternoon, head to the viewpoint for crystal clear vistas. Sunset arrives early around 17:00; plan your descent from the hill before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patong Beach",
+                "hu": "Patong Beach",
+                "ro": "Patong Beach",
+                "en": "Patong Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist angenehm, aber der Wind kann kühl sein; bringen Sie ein leichtes Handtuch zum Abtrocknen nach dem Schwimmen mit.",
+                "hu": "A víz kellemes, de a szél hűvös lehet; hozzon magával egy könnyű törölközőt a gyors száradáshoz az úszás után.",
+                "ro": "Apa este plăcută, dar vântul poate fi răcoros; aduceți un prosop ușor pentru a vă usca rapid după baie.",
+                "en": "The water is pleasant but the wind can be brisk; bring a lightweight towel to dry off quickly after a swim."
+              }
+            },
+            {
+              "name": {
+                "de": "อ่าวป่าตอง",
+                "hu": "อ่าวป่าตอง",
+                "ro": "อ่าวป่าตอง",
+                "en": "อ่าวป่าตอง"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht bei geringer Luftfeuchtigkeit; eine dünne Jacke schützt Sie vor dem kühleren Winterwind am Hang.",
+                "hu": "Élvezze a tiszta kilátást az alacsony páratartalom mellett; egy vékony dzseki jól jöhet a domboldalon fújó hűvösebb szél ellen.",
+                "ro": "Bucurați-vă de vizibilitatea clară datorită umidității scăzute; o jachetă subțire vă va proteja de vântul mai rece de pe versant.",
+                "en": "Enjoy the clear long-distance views due to low humidity; a thin jacket will protect you from the cooler winter breeze on the slope."
+              }
+            },
+            {
+              "name": {
+                "de": "Patong Boyz Town",
+                "hu": "Patong Boyz Town",
+                "ro": "Patong Boyz Town",
+                "en": "Patong Boyz Town"
+              },
+              "tip_5lang": {
+                "de": "Die Abende sind lebhaft und die Temperaturen ideal für Spaziergänge; besuchen Sie die Innenbars für eine gemütlichere, wärmere Atmosphäre.",
+                "hu": "Az esték élénkek, a hőmérséklet pedig ideális a sétákhoz; válassza a belső bárokat a meghittebb és melegebb hangulatért.",
+                "ro": "Serile sunt animate, iar temperaturile sunt ideale pentru plimbări; vizitați barurile interioare pentru o atmosferă mai caldă și intimă.",
+                "en": "Evenings are lively and temperatures are ideal for walking; visit the indoor bars for a cozier and warmer atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Banzaan Fresh Market (Night)",
+                "hu": "Banzaan Fresh Market",
+                "ro": "Banzaan Fresh Market",
+                "en": "Banzaan Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer heißen Nudelsuppe auf; der Markt schließt früh, also kommen Sie vor der frühen winterlichen Dämmerung an.",
+                "hu": "Melegedjen fel egy forró tésztalevessel; a piac korán zárhat, így érdemes még a téli szürkület előtt megérkezni.",
+                "ro": "Încălziți-vă cu o supă fierbinte de tăieței; piața se poate închide devreme, deci sosiți înainte de amurgul hibernal.",
+                "en": "Warm up with a bowl of hot noodle soup; the market can close early, so arrive well before the winter twilight begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Mountain View",
+                "hu": "Mountain View",
+                "ro": "Mountain View",
+                "en": "Mountain View"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr für den Sonnenuntergang; nach Einbruch der Dunkelheit fallen die Temperaturen in der Höhe spürbar ab.",
+                "hu": "Érkezzen 17:00 előtt a naplemente megtekintéséhez; sötétedés után a hőmérséklet jelentősen visszaesik itt a magasban.",
+                "ro": "Sosiți înainte de ora 17:00 pentru apus; după lăsarea întunericului, temperatura scade considerabil aici, la înălțime.",
+                "en": "Arrive before 17:00 to catch the sunset; after dark, the temperature drops noticeably at this higher elevation."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a napot egy kis adrenalinnal a Zorbing Rollerballnál, majd kerekezzen le a Kalim strandra. Délben élvezze a pezsgő hangulatot a Patong Beachen, és pihenjen a napon. A délutánt a Banzaan piacon töltheti helyi finomságokat kóstolva. Este pedig biciklizzen el a híres Simon Cabaret-ba egy látványos, ragyogó jelmezekkel teli előadásra.",
         "ro": "Începeți ziua cu adrenalina de la Zorbing Rollerball înainte de a pedala spre plaja Kalim. La prânz, alăturați-vă atmosferei vibrante de pe plaja Patong. Petreceți după-amiaza degustând bunătăți la Banzaan Fresh Market. Seara, pedalați către celebrul Phuket Simon Cabaret pentru a vedea un spectacol impresionant cu costume orbitoare.",
         "en": "Kick off your day with an adrenaline rush at Zorbing Rollerball before cycling down to the quieter Kalim Beach. By midday, join the vibrant atmosphere at Patong Beach, relaxing under the sun. Spend your afternoon sampling local treats at Banzaan Fresh Market. In the evening, pedal over to the famous Phuket Simon Cabaret for a spectacular show full of dazzling costumes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zum Zorbing, wo der Regen für extra Rutschspaß sorgt. Mittags suchen wir Schutz am Kalim Beach in den gemütlichen Küstenlokalen. Nachmittags geht es zum Patong Beach; achten Sie auf die rutschigen Straßenbeläge. Abends endet die Tour im Simon Cabaret, wo wir uns im trockenen Theatersaal bei einer farbenfrohen Show aufwärmen können.",
+            "hu": "Reggel óvatosan tekerünk a zorbinghoz, ahol az eső extra csúszós élményt ad a guruláshoz. Délben Kalim Beach partmenti étkezdéiben keresünk fedezéket. Délután a Patong part felé vesszük az irányt; ügyeljen a vizes aszfaltra a kanyarokban. Az estét a Simon Cabaret-ben zárjuk, ahol a száraz és elegáns nézőtéren élvezhetjük a látványos műsort.",
+            "ro": "Dimineața pedalăm cu grijă spre zorbing, unde ploaia adaugă un plus de distracție alunecoasă. La prânz căutăm adăpost în localurile de pe malul Kalim Beach. După-amiaza mergem spre Patong; atenție la asfaltul ud în curbe. Seara se încheie la Simon Cabaret, unde ne putem usca în sala de teatru în timp ce urmărim spectacolul.",
+            "en": "Morning cycling requires caution on the way to Zorbing, where rain adds extra slippery fun. At noon, seek shelter in the seaside eateries at Kalim Beach. In the afternoon, head towards Patong Beach; watch out for slick road surfaces in the turns. End the evening at Simon Cabaret, enjoying the spectacular show in the dry and comfortable theater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zorbing Rollerball",
+                "hu": "Zorbing Rollerball",
+                "ro": "Zorbing Rollerball",
+                "en": "Zorbing Rollerball"
+              },
+              "tip_5lang": {
+                "de": "Regen macht die Bahn schneller und lustiger; bringen Sie unbedingt Wechselkleidung mit, da Sie garantiert nass werden.",
+                "hu": "Az eső gyorsabbá és viccesebbé teszi a pályát; hozzon váltóruhát, mert garantáltan vizes lesz a kaland során.",
+                "ro": "Ploaia face pista mai rapidă și mai distractivă; aduceți haine de schimb, deoarece veți fi cu siguranță uzi după cursă.",
+                "en": "Rain makes the track faster and more fun; bring a change of clothes as you are guaranteed to get wet during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalim Beach",
+                "hu": "Kalim Beach",
+                "ro": "Kalim Beach",
+                "en": "Kalim Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher unter einem Dach; die Felsen am Ufer sind bei Regen extrem rutschig beim Fotografieren.",
+                "hu": "Parkolja le a kerékpárját biztonságban egy tető alatt; a parton lévő sziklák esőben rendkívül csúszósak fotózáskor.",
+                "ro": "Parcați bicicleta în siguranță sub un acoperiș; stâncile de pe mal sunt extrem de alunecoase la fotografiere pe timp de ploaie.",
+                "en": "Park your bike safely under cover; the shoreline rocks are extremely slippery for photos during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Patong Beach",
+                "hu": "Patong Beach",
+                "ro": "Patong Beach",
+                "en": "Patong Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf der Uferpromenade; Pfützen können tiefe Schlaglöcher verbergen, die das Radfahren gefährlich machen.",
+                "hu": "Hajtson lassan a tengerparti sétányon; a tócsák mély kátyúkat rejthetnek, ami veszélyessé teheti a kerékpározást.",
+                "ro": "Conduceți încet pe faleză; bălțile pot ascunde gropi adânci, ceea ce face pedalarea periculoasă.",
+                "en": "Ride slowly along the beach promenade; puddles can hide deep potholes that make cycling hazardous."
+              }
+            },
+            {
+              "name": {
+                "de": "Banzaan Fresh Market",
+                "hu": "Banzaan Fresh Market",
+                "ro": "Banzaan Fresh Market",
+                "en": "Banzaan Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradparkplatz am Eingang; genießen Sie warme, frische Speisen, während der Regen draußen nachlässt.",
+                "hu": "Használja a bejáratnál lévő fedett kerékpártárolót; élvezze a meleg, friss ételeket, amíg kint alábbhagy a zápor.",
+                "ro": "Folosiți parcarea acoperită pentru biciclete de la intrare; savurați mâncare caldă în timp ce ploaia se potolește afară.",
+                "en": "Use the covered bicycle parking at the entrance; enjoy some warm, fresh food while the downpour subsides outside."
+              }
+            },
+            {
+              "name": {
+                "de": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "hu": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "ro": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "en": "Phuket Simon Cabaret"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist klimatisiert und trocken; kommen Sie rechtzeitig an, um Ihr nasses Regenzeug an der Garderobe abzugeben.",
+                "hu": "A belső tér légkondicionált és száraz; érkezzen időben, hogy a vizes esőkabátját le tudja adni a ruhatárban.",
+                "ro": "Interiorul este climatizat și uscat; sosiți la timp pentru a vă lăsa echipamentul de ploaie ud la garderobă.",
+                "en": "The interior is climate-controlled and dry; arrive early to store your wet rain gear in the cloakroom before the show."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft perfekt zum Radfahren, ohne die extreme Hitze. Mittags erkunden wir den Markt und Kalim Beach, wo die Meeresbrise erfrischend wirkt. Nachmittags ist die Fahrt zum Patong Beach angenehm mild. Der Abend bricht früh an, gegen 17:00 Uhr sinkt die Sonne; beenden Sie die Tour im Simon Cabaret, um der kühlen Abendluft zu entgehen.",
+            "hu": "Reggel a levegő tökéletes a kerékpározáshoz az extrém hőség nélkül. Délben a piacot és a Kalim partot fedezzük fel, ahol a tengeri szellő frissítő. Délután a Patong part felé tekerünk a kellemesen enyhe időben. Az este korán köszönt be, 17 óra körül lemegy a nap; fejezze be a túrát a Simon Cabaret melegében.",
+            "ro": "Dimineața aerul este perfect pentru pedalat, fără căldura extremă. La prânz explorăm piața și plaja Kalim, unde briza mării este revigorantă. După-amiaza plimbarea spre Patong este plăcută. Seara se lasă devreme, apusul fiind în jur de ora 17:00; încheiați turul în căldura de la Simon Cabaret.",
+            "en": "Morning air is perfect for cycling without the extreme tropical heat. At noon, explore the market and Kalim Beach, where the sea breeze feels refreshing. Afternoon riding to Patong is pleasantly mild. Evening falls early with sunset around 17:00; finish your tour in the warmth of the Simon Cabaret theater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zorbing Rollerball",
+                "hu": "Zorbing Rollerball",
+                "ro": "Zorbing Rollerball",
+                "en": "Zorbing Rollerball"
+              },
+              "tip_5lang": {
+                "de": "Die kühlere Winterluft macht die körperliche Aktivität angenehmer; ein dünnes Langarmshirt schützt vor dem Fahrtwind beim Radeln.",
+                "hu": "A hűvösebb téli levegő kellemesebbé teszi a fizikai aktivitást; egy vékony hosszú ujjú póló véd a menetszéltől tekerés közben.",
+                "ro": "Aerul mai rece de iarnă face activitatea fizică mai plăcută; o bluză subțire cu mânecă lungă vă protejează de vânt în timp ce pedalați.",
+                "en": "Cooler winter air makes the physical activity more enjoyable; a thin long-sleeve shirt will protect you from the wind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalim Beach",
+                "hu": "Kalim Beach",
+                "ro": "Kalim Beach",
+                "en": "Kalim Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang am Horizont; nehmen Sie für die Rückfahrt nach 17:00 Uhr Lichter für Ihr Fahrrad mit.",
+                "hu": "Élvezze a tiszta naplementét a horizonton; a 17:00 utáni visszaúthoz mindenképpen legyen lámpa a kerékpárján a korai sötét miatt.",
+                "ro": "Bucurați-vă de apusul clar la orizont; pentru drumul de întoarcere după ora 17:00, asigurați-vă că aveți lumini pe bicicletă.",
+                "en": "Enjoy the clear sunset on the horizon; make sure you have lights on your bike for the return trip after the 17:00 early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Patong Beach",
+                "hu": "Patong Beach",
+                "ro": "Patong Beach",
+                "en": "Patong Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Gezeiten sind im Winter oft ruhiger; das klare Wasser lädt zum Verweilen ein, bevor die frühe Dämmerung gegen 17:00 Uhr einsetzt.",
+                "hu": "Az apály-dagály télen gyakran nyugodtabb; a tiszta víz maradásra csábít, mielőtt a korai szürkület 17:00 körül elkezdődik.",
+                "ro": "Mareele sunt adesea mai calme iarna; apa clară vă invită să zăboviți înainte de amurgul devreme de la ora 17:00.",
+                "en": "Tides are often calmer in winter; the clear water is inviting before the early twilight begins around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Banzaan Fresh Market",
+                "hu": "Banzaan Fresh Market",
+                "ro": "Banzaan Fresh Market",
+                "en": "Banzaan Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie frisches Obst für Energie; der Markt ist im Winter sehr belebt, kommen Sie vor dem frühen abendlichen Ansturm.",
+                "hu": "Vásároljon friss gyümölcsöt az energiapótláshoz; a piac télen nagyon forgalmas, érkezzen a korai esti csúcs előtt.",
+                "ro": "Cumpărați fructe proaspete pentru energie; piața este foarte aglomerată iarna, sosiți înainte de aglomerația de seară.",
+                "en": "Buy some fresh fruit for energy; the market is very busy in winter, so arrive before the early evening rush sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "hu": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "ro": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "en": "Phuket Simon Cabaret"
+              },
+              "tip_5lang": {
+                "de": "Das Theater bietet eine gemütliche Wärme nach der Radfahrt; die Show endet nach Sonnenuntergang, halten Sie eine Jacke bereit.",
+                "hu": "A színház kellemes meleget nyújt a kerékpározás után; a műsor naplemente után ér véget, legyen kéznél egy könnyű dzseki.",
+                "ro": "Teatrul oferă o căldură plăcută după plimbarea cu bicicleta; spectacolul se termină după apus, aveți o jachetă la îndemână.",
+                "en": "The theater provides a cozy warmth after your bike ride; the show ends after sunset, so have a light jacket ready for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Hajtson fel korán a Radar Hillre a páratlan szigeti panorámáért. Később vegye az irányt a Mountain View felé egy újabb lenyűgöző kilátásért. A dél a Simon Cabaret környékének felfedezésével telik. Délután ússzon a Tri Trang Beach eldugott vizeiben, távol a tömegtől. Zárja a napot a Patong-öbölnél, végül élvezze az estét a Zorbing Rollerballnál.",
         "ro": "Conduceți devreme la Radar Hill pentru o panoramă de neegalat. Mai târziu, îndreptați-vă spre Mountain View. Prânzul aduce o pauză culturală la Simon Cabaret. Petreceți după-amiaza înotând în apele izolate ale plajei Tri Trang, departe de aglomerație. Încheiați ziua explorând golful Patong și oprindu-vă la Zorbing pentru distracție.",
         "en": "Drive up to Radar Hill early for an unmatched island panorama. Later, wind your way to Mountain View for another stunning perspective. Midday calls for a cultural break at the Simon Cabaret grounds. Spend your afternoon swimming in the secluded waters of Tri Trang Beach, away from the crowds. End the day touring Patong Bay and stopping at Zorbing Rollerball for some sunset fun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir sicher zum Radar Hill, wo wir die mystische Aussicht aus dem Auto genießen. Mittags bietet Mountain View ein Dach über dem Kopf für ein gemütliches Essen. Nachmittags besuchen wir das Simon Cabaret im Trockenen. Den Tag lassen wir am Tri Trang Beach und beim Zorbing ausklingen; Vorsicht vor Aquaplaning auf den steilen Küstenstraßen bei starkem Regen.",
+            "hu": "Reggel biztonságban autózunk a Radar Hill-re, ahol az autóból élvezzük a misztikus kilátást. Délben a Mountain View fedett teraszai nyújtanak menedéket az ebédhez. Délután a Simon Cabaret száraz nézőterén pihenünk. A napot a Tri Trang parton és a zorbingnál zárjuk; ügyeljen a vízenúszásra a meredek parti utakon a nagy esőben.",
+            "ro": "Dimineața conducem în siguranță spre Radar Hill, admirând peisajul mistic din mașină. La prânz, Mountain View oferă terase acoperite pentru o masă relaxată. După-amiaza vizităm Simon Cabaret, feriți de ploaie. Încheiem ziua la plaja Tri Trang și la zorbing; atenție la acvaplanare pe drumurile de coastă abrupte.",
+            "en": "Morning drive to Radar Hill allows you to enjoy mystical views from the safety of your car. At noon, Mountain View's covered decks offer shelter for a scenic lunch. Spend the afternoon dry inside Simon Cabaret. End the day at Tri Trang Beach and Zorbing; be cautious of aquaplaning on steep coastal roads during heavy rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Radar hill",
+                "hu": "Radar hill",
+                "ro": "Radar hill",
+                "en": "Radar hill"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die steile Straße kann bei Nässe extrem rutschig und gefährlich sein.",
+                "hu": "Ellenőrizze a fékeket az indulás előtt; a meredek út nedvesen rendkívül csúszós és veszélyes lehet az autósok számára.",
+                "ro": "Verificați frânele înainte de plecare; drumul abrupt poate fi extrem de alunecos și periculos pe timp de ploaie.",
+                "en": "Check your brakes before starting the descent; the steep road can be extremely slippery and hazardous for drivers when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mountain View",
+                "hu": "Mountain View",
+                "ro": "Mountain View",
+                "en": "Mountain View"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem Fenster; der Parkplatz ist befestigt, sodass Sie nicht im Schlamm stecken bleiben.",
+                "hu": "Élvezze a panorámát az ablak mögül; a parkoló burkolt, így nem kell tartania attól, hogy elakad a sárban az esőben.",
+                "ro": "Bucurați-vă de panoramă de la fereastră; parcarea este pavată, deci nu trebuie să vă faceți griji că veți rămâne împotmoliți în noroi.",
+                "en": "Enjoy the panoramic view from behind the glass; the parking area is paved so you won't get stuck in the mud during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "hu": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "ro": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "en": "Phuket Simon Cabaret"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem Regen für zwei Stunden zu entfliehen; nutzen Sie den Valet-Parkservice, um trocken ins Gebäude zu gelangen.",
+                "hu": "Ideális hely az eső elől való menekülésre két órára; használja a parkolószolgálatot, hogy szárazon jusson be az épületbe.",
+                "ro": "Locul ideal pentru a scăpa de ploaie timp de două ore; folosiți serviciul de parcare pentru a intra uscați în clădire.",
+                "en": "An ideal spot to escape the rain for two hours; use the valet parking service to get into the building without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Tri Trang Beach",
+                "hu": "Tri Trang Beach",
+                "ro": "Tri Trang Beach",
+                "en": "Tri Trang Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen sicher aus dem Fahrzeug; die Zufahrtsstraße ist eng, fahren Sie bei Regen besonders vorsichtig.",
+                "hu": "Figyelje a hullámokat biztonságban az autóból; a bekötőút keskeny, esőben vezessen különösen óvatosan a kanyarokban.",
+                "ro": "Observați valurile în siguranță din mașină; drumul de acces este îngust, conduceți cu prudență sporită în curbe pe ploaie.",
+                "en": "Watch the waves safely from inside your vehicle; the access road is narrow, so drive with extra caution during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "อ่าวป่าตอง",
+                "hu": "อ่าวป่าตอง",
+                "ro": "อ่าวป่าตอง",
+                "en": "อ่าวป่าตอง"
+              },
+              "tip_5lang": {
+                "de": "Die Wolkenstimmung über der Bucht ist perfekt für Fotos; halten Sie an den offiziellen Haltebuchten, um Unfälle bei schlechter Sicht zu vermeiden.",
+                "hu": "Az öböl feletti felhők látványa tökéletes fotótéma; álljon meg a hivatalos pihenőkben a rossz látási viszonyok miatti balesetek elkerülésére.",
+                "ro": "Norii deasupra golfului sunt perfecți pentru fotografii; opriți în locurile special amenajate pentru a evita accidentele din cauza vizibilității scăzute.",
+                "en": "The cloud formations over the bay are perfect for photos; stop only at official turnouts to avoid accidents in low visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Zorbing Rollerball",
+                "hu": "Zorbing Rollerball",
+                "ro": "Zorbing Rollerball",
+                "en": "Zorbing Rollerball"
+              },
+              "tip_5lang": {
+                "de": "Das Personal hilft Ihnen, auch bei Regen trocken zum Startpunkt zu kommen; legen Sie ein Handtuch auf Ihren Autositz für danach.",
+                "hu": "A személyzet segít szárazon eljutni az indítóponthoz; tegyen egy törölközőt az autósülésre a vizes kaland utánra.",
+                "ro": "Personalul vă ajută să ajungeți uscați la punctul de start; puneți un prosop pe scaunul mașinii pentru după aventura umedă.",
+                "en": "Staff will help you get to the start point while staying dry; put a towel on your car seat for after your wet zorbing ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die Hügel bei klarer, kühlerer Luft. Mittags genießen wir die Sonne am Tri Trang Beach, bevor die Hitze zunimmt. Nachmittags ist die Fahrt entlang der Küste bei milden Temperaturen ein Traum. Der Sonnenuntergang am Radar Hill gegen 17:00 Uhr ist ein Muss; halten Sie für die Rückfahrt nach Einbruch der Dunkelheit eine leichte Jacke im Auto bereit.",
+            "hu": "Reggel a dombokat fedezzük fel a tiszta, hűvösebb levegőben. Délben a Tri Trang parton élvezzük a napsütést, mielőtt a hőség fokozódna. Délután a parti autózás a kellemes hőmérsékletben valódi élmény. A 17:00 körüli naplemente a Radar Hill-en kötelező látnivaló; tartson egy vékony dzsekit az autóban az esti lehűlésre.",
+            "ro": "Dimineața explorăm dealurile în aerul curat și răcoros. La prânz ne bucurăm de soare la plaja Tri Trang înainte ca zăpușeala să crească. După-amiaza condusul pe coastă în temperaturi plăcute este o plăcere. Apusul de pe Radar Hill în jur de ora 17:00 este obligatoriu; aveți o jachetă în mașină pentru răcoarea serii.",
+            "en": "Morning exploration of the hills is refreshing in the clear, cooler air. At noon, enjoy the sunshine at Tri Trang Beach before the midday heat. Afternoon coastal driving is a delight in the mild temperatures. Sunset at Radar Hill around 17:00 is a must-see; keep a light jacket in the car for the evening temperature drop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Radar hill",
+                "hu": "Radar hill",
+                "ro": "Radar hill",
+                "en": "Radar hill"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter am besten; planen Sie Ihre Ankunft vor 17:00 Uhr, um das goldene Licht des frühen Sonnenuntergangs zu erleben.",
+                "hu": "A távoli kilátás télen a legtisztább; tervezze az érkezést 17:00 előtt, hogy elcsípje a korai naplemente aranyló fényeit.",
+                "ro": "Vizibilitatea la distanță este optimă iarna; planificați sosirea înainte de ora 17:00 pentru a surprinde lumina aurie a apusului timpuriu.",
+                "en": "Long-distance visibility is best in winter; plan your arrival before 17:00 to catch the golden light of the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Mountain View",
+                "hu": "Mountain View",
+                "ro": "Mountain View",
+                "en": "Mountain View"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Zeit für Fotos ohne den Dunst des Sommers; die Außenterrassen sind jetzt angenehm kühl für eine kurze Kaffeepause.",
+                "hu": "Tökéletes időszak a fotózáshoz a nyári pára nélkül; a külső teraszok most kellemesen hűvösek egy rövid kávészünethez.",
+                "ro": "Perioada perfectă pentru fotografii fără pâcla verii; terasele exterioare sunt acum plăcut de răcoroase pentru o pauză de cafea.",
+                "en": "Perfect time for photography without the summer haze; outdoor terraces are now pleasantly cool for a quick coffee break."
+              }
+            },
+            {
+              "name": {
+                "de": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "hu": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "ro": "ภูเก็ต ไซม่อน คาบาเรต์",
+                "en": "Phuket Simon Cabaret"
+              },
+              "tip_5lang": {
+                "de": "Die Klimaanlage kann im Winter recht kalt wirken; bringen Sie ein Tuch oder eine leichte Strickjacke für die Vorstellung mit.",
+                "hu": "A légkondicionálás télen hűvösebbnek tűnhet; hozzon magával egy sálat vagy könnyű kardigánt az előadás idejére.",
+                "ro": "Aerul condiționat poate părea destul de rece iarna; aduceți o eșarfă sau un cardigan subțire pentru durata spectacolului.",
+                "en": "The air conditioning can feel quite chilly in winter; bring a scarf or a light cardigan to wear during the performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Tri Trang Beach",
+                "hu": "Tri Trang Beach",
+                "ro": "Tri Trang Beach",
+                "en": "Tri Trang Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die warmen Mittagsstunden zum Sonnenbaden; ab 16:30 Uhr sinkt die Sonne tief und es wird im Schatten der Bäume kühl.",
+                "hu": "Használja ki a meleg déli órákat a napozáshoz; 16:30 után a nap alacsonyan jár, és a fák árnyékában hűvös lehet.",
+                "ro": "Profitați de orele calde de la prânz pentru plajă; după ora 16:30 soarele coboară, iar la umbra copacilor se face răcoare.",
+                "en": "Make the most of the warm midday hours for sunbathing; after 16:30 the sun dips low and it gets cool in the shade of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "อ่าวป่าตอง",
+                "hu": "อ่าวป่าตอง",
+                "ro": "อ่าวป่าตอง",
+                "en": "อ่าวป่าตอง"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Luft sorgt für leuchtende Farben am Abend; parken Sie rechtzeitig vor 17:00 Uhr für den besten Blick auf die Bucht.",
+                "hu": "A száraz levegő élénk színeket eredményez este; parkoljon le időben 17:00 előtt a legjobb kilátásért az öbölre.",
+                "ro": "Aerul uscat oferă culori vibrante seara; parcați din timp înainte de ora 17:00 pentru cea mai bună vedere asupra golfului.",
+                "en": "The dry air results in vibrant evening colors; park your car well before 17:00 for the best vantage point over the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Zorbing Rollerball",
+                "hu": "Zorbing Rollerball",
+                "ro": "Zorbing Rollerball",
+                "en": "Zorbing Rollerball"
+              },
+              "tip_5lang": {
+                "de": "Die Aktivität hält Sie warm, auch wenn die Sonne bereits tief steht; trocknen Sie sich danach schnell ab, um eine Erkältung zu vermeiden.",
+                "hu": "Az aktivitás melegen tartja, még ha a nap már alacsonyan is jár; száradjon meg gyorsan utána, hogy elkerülje a megfázást.",
+                "ro": "Activitatea vă va menține calzi, chiar dacă soarele este jos; uscați-vă rapid după cursă pentru a evita răceala.",
+                "en": "The activity will keep you warm even as the sun sets; dry yourself quickly afterward to avoid catching a chill in the evening air."
+              }
+            }
+          ]
+        }
       }
     }
   }

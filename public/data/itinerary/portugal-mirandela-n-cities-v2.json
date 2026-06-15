@@ -137,6 +137,168 @@
         "hu": "Délelőtt: Kezdje a napot a helyi hagyományok felfedezésével a kulturális múzeumokban, és ismerje meg Miranda egyedülálló örökségét.\nDél: Fedezze fel a középkori vár romjait, miközben végigsétál a város történelmi központján.\nDélután: Ismerkedjen meg a helyi biodiverzitással a folyó környezetének szentelt nemzetközi állomáson.\nEste: Zárja a napot egy lenyűgöző kilátással a szurdokra, figyelve a szürkületi árnyalatokat a vízen.",
         "ro": "Dimineața: Începeți ziua scufundându-vă în tradițiile locale la muzeele culturale, învățând despre moștenirea distinctă a orașului Miranda.\nPrânz: Descoperiți rămășițele castelului medieval în timp ce explorați centrul istoric al orașului.\nDupă-amiaza: Interacționați cu biodiversitatea locală la stația internațională dedicată mediului fluvial.\nSeara: Încheiați cu o vedere uimitoare asupra defileului, privind nuanțele amurgului reflectându-se pe ape.",
         "en": "Morning: Start the day immersing yourself in local traditions at the cultural museums, learning about the distinct heritage of Miranda.\nMidday: Discover the remnants of the medieval castle as you explore the town's historical center.\nAfternoon: Engage with the local biodiversity at the international station dedicated to the river environment.\nEvening: Conclude with a stunning view over the gorge, watching the twilight hues reflect on the river waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Trockenen der Museen. Mittags erkunden Sie die Burgruine, wobei Vorsicht auf den nassen Steinen geboten ist. Nachmittags besuchen Sie die biologische Station und bewundern die neblige Flussaussicht. Ein guter Regenschirm ist heute unverzichtbar.",
+            "hu": "A reggelt a múzeumok fedett termeiben kezdjük, menedéket lelve az eső elől. Délben óvatosan sétáljunk a vár romjainál a csúszós köveken. Délután a biológiai állomást követően élvezzük a ködös, drámai folyóparti kilátást. Vízálló cipő és esernyő ma kötelező felszerelés.",
+            "ro": "Începeți dimineața ploioasă explorând tradițiile locale în muzeele acoperite. La prânz, vizitați ruinele castelului, având grijă pe pietrele alunecoase. După-amiaza, descoperiți stația biologică și admirați priveliștea dramatică, învăluită în ceață. Umbrela și încălțămintea impermeabilă sunt esențiale.",
+            "en": "Begin your rainy morning indoors exploring local traditions at the museums. Around midday, navigate the wet stones of the castle ruins carefully. In the afternoon, visit the biological station before admiring the misty, dramatic river views. A sturdy umbrella and waterproof shoes are essential today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu de la Tierra de Miranda",
+                "hu": "Museu de la Tierra de Miranda",
+                "ro": "Museu de la Tierra de Miranda",
+                "en": "Museu de la Tierra de Miranda"
+              },
+              "tip_5lang": {
+                "de": "Hervorragender Zufluchtsort vor dem Regen, um die lokale Kultur im Trockenen zu entdecken.",
+                "hu": "Kiváló fedett menedék a reggeli esőben, ahol megismerheti a helyi kultúra gazdagságát.",
+                "ro": "Un refugiu perfect pentru a descoperi cultura locală la adăpost de ploaia de dimineață.",
+                "en": "Excellent indoor refuge to learn about local culture while the morning rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Cultura Mirandesa",
+                "hu": "Casa da Cultura Mirandesa",
+                "ro": "Casa da Cultura Mirandesa",
+                "en": "Casa da Cultura Mirandesa"
+              },
+              "tip_5lang": {
+                "de": "Setzen Sie Ihre kulturelle Reise im Trockenen fort und genießen Sie die regionale Kunst.",
+                "hu": "Folytassa a kulturális elmélyülést a száraz falak között, lenyűgöző helyi művészettel.",
+                "ro": "Continuați incursiunea culturală în spații uscate, admirând arta și tradițiile locale.",
+                "en": "Continue your dry cultural immersion here with fascinating local art and dry corridors."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Miranda do Douro",
+                "hu": "Castelo de Miranda do Douro",
+                "ro": "Castelo de Miranda do Douro",
+                "en": "Castelo de Miranda do Douro"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine wirkt im Regen besonders mystisch; achten Sie jedoch auf rutschige Stufen.",
+                "hu": "A várromok különleges, komor hangulatot árasztanak esőben; vigyázzon a csúszós lépcsőkkel.",
+                "ro": "Ruinele castelului au o atmosferă misterioasă pe ploaie; atenție la treptele alunecoase.",
+                "en": "The historic castle ruins take on a moody atmosphere in the rain; watch out for slippery steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Estação Biológica internacional Douro",
+                "hu": "Estação Biológica internacional Douro",
+                "ro": "Estação Biológica internacional Douro",
+                "en": "Estação Biológica internacional Douro"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie drinnen die lokale Tierwelt kennen – eine ideale Pause vor den Regenschauern.",
+                "hu": "Lépjen be, és ismerje meg a helyi élővilágot, ami remek menedék a futó záporok idején.",
+                "ro": "Un adăpost educativ ideal pe timp de ploaie pentru a descoperi fauna și flora locală.",
+                "en": "Step inside to learn about local wildlife, a perfect educational break from the passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "hu": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "ro": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "en": "Miradouro do Centro de Interpretação Turistico e Ambiental"
+              },
+              "tip_5lang": {
+                "de": "Die Flussschlucht sieht durch Regen und Nebel dramatisch aus; tragen Sie eine Regenjacke.",
+                "hu": "A folyó kanyonja drámai látványt nyújt a ködben és esőben; vegyen fel egy jó esőkabátot.",
+                "ro": "Canionul râului este spectaculos în ceață și ploaie; asigurați-vă că aveți o pelerină.",
+                "en": "The river canyon looks stunningly dramatic through the rain and mist; wear a good raincoat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie einen klaren Wintermorgen in den warmen Museen. Mittags genießen Sie die kalte, aber weite Aussicht von der Burg. Nachmittags besuchen Sie die Station und den Aussichtspunkt vor dem frühen Sonnenuntergang gegen 17 Uhr. Tragen Sie warme Kleidungsschichten.",
+            "hu": "Töltsön egy csípős téli reggelt a meleg múzeumokban, felfedezve a helyi örökséget. Délben csodálja meg a tiszta, de hideg kilátást a várból. Délután látogassa meg az állomást és a kilátót, mielőtt a nap korán, 17:00 körül lemenne. Öltözzön meleg, réteges ruházatba.",
+            "ro": "Bucurați-vă de o dimineață rece de iarnă în muzeele încălzite. La prânz, admirați priveliștile clare, dar reci, de la castelul medieval. După-amiaza, vizitați stația și punctul de belvedere înainte de apusul timpuriu din jurul orei 17:00. Îmbrăcați-vă cu haine groase.",
+            "en": "Enjoy a crisp winter morning discovering local heritage inside the warm museums. By midday, take in the chilly but clear views from the medieval castle. Spend the afternoon at the biological station and the main viewpoint before the sun sets early around 5 PM. Dress in warm layers to stay comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu de la Tierra de Miranda",
+                "hu": "Museu de la Tierra de Miranda",
+                "ro": "Museu de la Tierra de Miranda",
+                "en": "Museu de la Tierra de Miranda"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich auf und entdecken Sie die spannenden winterlichen Traditionen der Region.",
+                "hu": "Melegedjen fel bent, miközben felfedezi a mirandai régió lenyűgöző téli népszokásait.",
+                "ro": "Încălziți-vă în interior explorând fascinantele obiceiuri tradiționale de iarnă ale regiunii.",
+                "en": "Warm up inside while exploring the fascinating traditional winter customs of the Miranda region."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Cultura Mirandesa",
+                "hu": "Casa da Cultura Mirandesa",
+                "ro": "Casa da Cultura Mirandesa",
+                "en": "Casa da Cultura Mirandesa"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Halt im Warmen, um der eisigen Winterkälte zu entfliehen und Kunst zu genießen.",
+                "hu": "Hangulatos benti megálló, ahol elmenekülhet a csípős hideg elől, és élvezheti a művészetet.",
+                "ro": "O oprire interioară primitoare, perfectă pentru a scăpa de frigul iernii și a admira arta.",
+                "en": "A cozy indoor stop offering deep dives into local arts away from the biting winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Miranda do Douro",
+                "hu": "Castelo de Miranda do Douro",
+                "ro": "Castelo de Miranda do Douro",
+                "en": "Castelo de Miranda do Douro"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft hält die Massen fern und bietet freie, frostige Ausblicke auf die Burg.",
+                "hu": "A csípős téli levegő távol tartja a tömeget, így zavartalanul élvezheti a fagyos várromokat.",
+                "ro": "Aerul rece de iarnă ține mulțimile la distanță, oferind vederi clare și geroase ale ruinelor.",
+                "en": "The brisk winter air keeps the crowds away, offering unobstructed, frosty views of the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Estação Biológica internacional Douro",
+                "hu": "Estação Biológica internacional Douro",
+                "ro": "Estação Biológica internacional Douro",
+                "en": "Estação Biológica internacional Douro"
+              },
+              "tip_5lang": {
+                "de": "Ein beheizter Raum, um mehr über die winterlichen Veränderungen des Douro-Ökosystems zu erfahren.",
+                "hu": "Kényelmes, fűtött tér, ahol megismerheti a Douro ökoszisztémájának téli változásait.",
+                "ro": "Un spațiu încălzit unde veți descoperi transformările de iarnă ale ecosistemului Douro.",
+                "en": "A comfortable heated space to learn about the Douro ecosystem's unique winter transformations."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "hu": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "ro": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "en": "Miradouro do Centro de Interpretação Turistico e Ambiental"
+              },
+              "tip_5lang": {
+                "de": "Spektakuläres Licht für Winterfotos, aber der Wind ist eisig – packen Sie sich gut ein.",
+                "hu": "Látványos fényviszonyok a téli fotókhoz, de a szél metsző lehet, ezért öltözzön fel melegen.",
+                "ro": "Lumină spectaculoasă pentru fotografii de iarnă, dar vântul e rece, așa că îmbrăcați-vă gros.",
+                "en": "Spectacular golden hour lighting for winter photos, but the wind can be biting, so wrap up well."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Délelőtt: Kerekezzen végig Miranda hangulatos utcáin, és kezdje útját a gazdag kulturális és történelmi kiállításokkal.\nDél: Tekerjen fel az ősi várromokhoz, és élvezze a Trás-os-Montes régió friss levegőjét.\nDélután: Merészkedjen el a határ menti erődítményekhez és a biológiai kutatóállomáshoz, megcsodálva a zord természetet.\nEste: Fejezze be túráját a kilátóponton, és örökítse meg a lenyűgöző naplementét a kanyon felett.",
         "ro": "Dimineața: Pedalați prin străzile fermecătoare din Miranda, începându-vă călătoria cu expozițiile sale culturale și istorice bogate.\nPrânz: Urcați până la ruinele castelului antic și bucurați-vă de aerul proaspăt al regiunii Trás-os-Montes.\nDupă-amiaza: Aventură-te spre fortificațiile de graniță și stația de cercetare biologică, admirând frumusețea naturală.\nSeara: Încheiați-vă plimbarea la punctul de belvedere, surprinzând apusul magnific peste canion.",
         "en": "Morning: Pedal through the charming streets of Miranda, starting your journey with its rich cultural and historical exhibits.\nMidday: Ride up to the ancient castle ruins and enjoy the crisp air of the Trás-os-Montes region.\nAfternoon: Venture out to the border fortifications and biological research station, taking in the rugged natural beauty.\nEvening: End your ride at the interpretation center viewpoint, capturing the magnificent sunset over the canyon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens vorsichtig zu den Museen, die Schutz vor Schauern bieten. Mittags fahren Sie zur Burg und Station, achten Sie auf nasse Wege. Die Nachmittagsfahrt zum Fort Torregamones erfordert auf rutschigen Pfaden Vorsicht. Eine wasserdichte Warnweste ist Pflicht.",
+            "hu": "Óvatosan tekerjen reggel a múzeumokhoz, melyek menedéket nyújtanak a záporok elől. Délben haladjon a vár és az állomás felé, figyelve a vizes utakra. A délutáni túra a Torregamones erődhöz fokozott figyelmet igényel a csúszós ösvényeken. Láthatósági esőkabát viselése ajánlott.",
+            "ro": "Pedalați cu grijă dimineața spre muzee pentru a vă adăposti de ploaie. La prânz, mergeți spre castel și stație, evitând bălțile. Cursa de după-amiază către Fortul Torregamones necesită atenție sporită pe traseele alunecoase. O pelerină reflectorizantă este obligatorie.",
+            "en": "Cycle carefully to the museums this morning, using them as shelter from heavy showers. Around midday, ride toward the castle and biological station, taking care on wet paths. The afternoon ride to Fort Torregamones requires extra caution on slippery trails. A high-vis waterproof jacket and good brakes are a must."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu de la Tierra de Miranda",
+                "hu": "Museu de la Tierra de Miranda",
+                "ro": "Museu de la Tierra de Miranda",
+                "en": "Museu de la Tierra de Miranda"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad ab und trocknen Sie sich beim Betrachten der historischen Exponate.",
+                "hu": "Parkolja le a kerékpárt és száradjon meg bent, miközben a helyi történeti kiállítást élvezi.",
+                "ro": "Parcați bicicleta și uscați-vă în interior admirând expozițiile fascinante de istorie locală.",
+                "en": "Park your bike and dry off inside while enjoying the extensive local history exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Cultura Mirandesa",
+                "hu": "Casa da Cultura Mirandesa",
+                "ro": "Casa da Cultura Mirandesa",
+                "en": "Casa da Cultura Mirandesa"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Ausrüstung im Trockenen, während Sie diese kulturelle Einrichtung erkunden.",
+                "hu": "Tartsa felszerelését szárazon, amíg felfedezi ezt a kiváló fedett kulturális helyszínt.",
+                "ro": "Păstrați echipamentul la adăpost de ploaie în timp ce vizitați acest centru cultural.",
+                "en": "Keep your gear out of the rain while you explore this excellent indoor cultural venue."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Miranda do Douro",
+                "hu": "Castelo de Miranda do Douro",
+                "ro": "Castelo de Miranda do Douro",
+                "en": "Castelo de Miranda do Douro"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad nahe der Burgruine; nasses Kopfsteinpflaster ist extrem rutschig.",
+                "hu": "Tolja a kerékpárt a várromok közelében, mert a vizes macskakövek és a fű nagyon csúsznak.",
+                "ro": "Mergeți pe lângă bicicletă la ruine; pietrele cubice și iarba udă sunt foarte alunecoase.",
+                "en": "Walk your bike near the castle ruins; the wet cobblestones and grass are extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Estação Biológica internacional Douro",
+                "hu": "Estação Biológica internacional Douro",
+                "ro": "Estação Biológica internacional Douro",
+                "en": "Estação Biológica internacional Douro"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für eine Pause vom Regenradeln, um mehr über den Flussschutz zu lernen.",
+                "hu": "Remek hely egy kis pihenőre az esős tekerés közben, hogy tanuljon a folyóvédelemről.",
+                "ro": "Un loc excelent pentru a face o pauză de la pedalat în ploaie și a învăța lucruri noi.",
+                "en": "A great place to take a break from cycling in the rain and learn about river conservation."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Torregamones",
+                "hu": "Fort Torregamones",
+                "ro": "Fort Torregamones",
+                "en": "Fort Torregamones"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Fort wird matschig; steigen Sie bei starkem Regen zur Sicherheit lieber ab.",
+                "hu": "Az erődbe vezető földút sárossá válik; heves esőben szálljon le a biztonság kedvéért.",
+                "ro": "Poteca spre fort devine noroioasă; coborâți de pe bicicletă dacă plouă abundent pentru siguranță.",
+                "en": "The dirt trail to the fort gets muddy; dismount if the rain is heavy to stay safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "hu": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "ro": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "en": "Miradouro do Centro de Interpretação Turistico e Ambiental"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie das Rad und achten Sie auf den rutschigen Rand des Aussichtspunkts.",
+                "hu": "Zárja le a biciklit, és vigyázzon a lépéseire a kilátó peremén, amely esőben csúszós.",
+                "ro": "Asigurați bicicleta și aveți grijă la marginea punctului de belvedere, care alunecă la ploaie.",
+                "en": "Secure your bike and watch your step at the viewpoint edge, which is slick in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie die frostige Winterfahrt mit aufwärmenden Museumsbesuchen. Mittags bietet die Sonne an der Burg etwas Wärme. Halten Sie nachmittags ein gutes Tempo zum Fort Torregamones und beenden Sie die Tour vor Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Kezdje a frissítő téli tekerést a meleg múzeumokban. Délben a várnál és az állomásnál élvezheti a gyenge téli napsütést. Délután tartson jó tempót a Torregamones erőd felé, és fejezze be a túrát a 17:00 órás naplemente és a fagyok beállta előtt.",
+            "ro": "Începeți cursa de iarnă cu vizite încălzitoare la muzee. La prânz, soarele poate oferi puțină căldură la castel. Mențineți un ritm constant după-amiaza spre Fortul Torregamones și terminați traseul înainte de apusul de la 17:00, când se face foarte frig.",
+            "en": "Start your brisk winter ride with warming indoor museum visits. Midday sunshine might offer slight warmth at the castle and station. Keep a steady pace in the afternoon toward Fort Torregamones to beat the chill, and finish your route before the 17:00 sunset drops temperatures drastically."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu de la Tierra de Miranda",
+                "hu": "Museu de la Tierra de Miranda",
+                "ro": "Museu de la Tierra de Miranda",
+                "en": "Museu de la Tierra de Miranda"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, beheizter Startpunkt, um sich die Hände vor der Wintertour aufzuwärmen.",
+                "hu": "Tökéletes fűtött indulási pont, ahol felmelegítheti a kezét a hosszú téli tekerés előtt.",
+                "ro": "Punctul de plecare perfect pentru a vă încălzi mâinile înainte de o zi de pedalat pe timp de iarnă.",
+                "en": "The perfect heated starting point to warm up your hands before a long winter cycling day."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Cultura Mirandesa",
+                "hu": "Casa da Cultura Mirandesa",
+                "ro": "Casa da Cultura Mirandesa",
+                "en": "Casa da Cultura Mirandesa"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihre Muskeln im Museum warm, während Sie das reiche Kulturerbe aufnehmen.",
+                "hu": "Tartsa melegen izmait a múzeumban, miközben magába szívja a gazdag kulturális örökséget.",
+                "ro": "Păstrați-vă mușchii calzi în interiorul muzeului în timp ce admirați patrimoniul cultural bogat.",
+                "en": "Keep your muscles warm inside this museum while absorbing the rich cultural heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Miranda do Douro",
+                "hu": "Castelo de Miranda do Douro",
+                "ro": "Castelo de Miranda do Douro",
+                "en": "Castelo de Miranda do Douro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wunderschöne Winterlandschaft; achten Sie auf eisige Stellen im Schatten.",
+                "hu": "Élvezze a rideg, gyönyörű téli tájat a várból; vigyázzon az árnyékos részek jegesedésével.",
+                "ro": "Admirați peisajul de iarnă frumos și auster; atenție la porțiunile înghețate din umbră.",
+                "en": "Enjoy the stark, beautiful winter landscape from the castle; beware of icy patches in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Estação Biológica internacional Douro",
+                "hu": "Estação Biológica internacional Douro",
+                "ro": "Estação Biológica internacional Douro",
+                "en": "Estação Biológica internacional Douro"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Wind und entdecken Sie, wie sich die Flusslandschaft der Kälte anpasst.",
+                "hu": "Lépjen be a szél elől, és fedezze fel, hogyan alkalmazkodik a folyami környezet a hideghez.",
+                "ro": "Adăpostiți-vă de vânt și descoperiți cum se adaptează mediul fluvial la sezonul rece.",
+                "en": "Step inside to escape the wind and discover how the river environment adapts to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Torregamones",
+                "hu": "Fort Torregamones",
+                "ro": "Fort Torregamones",
+                "en": "Fort Torregamones"
+              },
+              "tip_5lang": {
+                "de": "Die Anstrengung hält Sie warm, aber der Wind auf dem Hügel beim Fort ist eiskalt.",
+                "hu": "Az erődhöz való feltekerés melegen tartja, de a dombtetőn fújó szél rendkívül fagyos.",
+                "ro": "Efortul fizic de a pedala până la fort vă încălzește, dar vântul de pe deal este extrem de rece.",
+                "en": "The physical exertion of biking to the fort keeps you warm, but the hilltop winds are freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "hu": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "ro": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+                "en": "Miradouro do Centro de Interpretação Turistico e Ambiental"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das fantastische späte Winterlicht ein, aber kehren Sie vor Einbruch der Dunkelheit um.",
+                "hu": "Csípje el a lenyűgöző késő délutáni téli fényeket, de induljon vissza sötétedés előtt.",
+                "ro": "Surprindeți lumina superbă de iarnă târzie, dar pregătiți-vă să vă întoarceți înainte de întuneric.",
+                "en": "Catch the stunning late afternoon winter light, but be ready to head back before dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Délelőtt: Vezessen az impozáns Albufeira de Miranda víztározóhoz, hogy megcsodálja az északi gát hatalmas méreteit.\nDél: Térjen vissza a történelmi városközpontba, hogy felfedezze a középkori várat és a hagyományos helyi múzeumot.\nDélután: Látogasson el a határ menti erődhöz és a környezetvédelmi központokhoz, kényelmesen utazva a fennsíkon.\nEste: Utazzon délre a békés Albufeira de Picote-hoz, ahol egy látványos, sziklákkal körülvett alkonyati élmény várja.",
         "ro": "Dimineața: Conduceți la impresionanta Albufeira de Miranda pentru a aprecia scara vastă a barajului din nord.\nPrânz: Întoarceți-vă în centrul istoric al orașului pentru a explora castelul medieval și muzeul local tradițional.\nDupă-amiaza: Traversați spre fortul de graniță și centrele de mediu, navigând ușor platoul cu mașina.\nSeara: Călătoriți spre sud către serena Albufeira de Picote pentru un final spectaculos înconjurat de stânci abrupte.",
         "en": "Morning: Drive to the impressive Albufeira de Miranda to appreciate the vast scale of the northern dam and reservoir.\nMidday: Return to the historic town center to explore the medieval castle and the traditional local museum.\nAfternoon: Cross towards the border fort and environmental centers, easily navigating the plateau by car.\nEvening: Journey south to the serene Albufeira de Picote for a spectacular twilight finish surrounded by towering cliffs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit nebligen Ausblicken auf die Albufeira aus dem Auto. Parken Sie mittags nahe der Burg und den Museen, um dem Regen auszuweichen. Nachmittags fahren Sie vorsichtig auf nassen Straßen zur Station, zum Fort und schließlich zur Albufeira de Picote.",
+            "hu": "Kezdje a reggelt az Albufeira ködbe burkolózó, hangulatos látványával a meleg autóból. Délben parkoljon közel a várhoz és a múzeumokhoz, hogy keveset kelljen az esőben sétálnia. Délután vezessen óvatosan a vizes utakon az állomás, az erőd, majd a Picote-víztározó felé.",
+            "ro": "Începeți dimineața cu priveliști pline de ceață ale Albufeirei din confortul mașinii. La prânz, parcați aproape de castel și muzee pentru a evita ploaia. După-amiaza, conduceți cu prudență pe drumurile ude spre stație, fort și, în final, Albufeira de Picote.",
+            "en": "Start your morning with moody, mist-covered views of the Albufeira right from your car. At midday, park close to the castle and museums to minimize time walking in the rain. In the afternoon, drive carefully to the biological station and fort, ending at Albufeira de Picote. Wet roads demand cautious, unhurried driving today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Albufeira de Miranda",
+                "hu": "Albufeira de Miranda",
+                "ro": "Albufeira de Miranda",
+                "en": "Albufeira de Miranda"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatischen Regenwolken über dem Stausee bequem aus dem trockenen Auto.",
+                "hu": "Élvezze a víztározó fölött gyülekező drámai esőfelhők látványát a száraz autó kényelméből.",
+                "ro": "Admirați norii dramatici de deasupra rezervorului din confortul și căldura mașinii dumneavoastră.",
+                "en": "Enjoy the dramatic rain clouds rolling over the reservoir from the comfort of your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Miranda do Douro",
+                "hu": "Castelo de Miranda do Douro",
+                "ro": "Castelo de Miranda do Douro",
+                "en": "Castelo de Miranda do Douro"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz, um die regennassen mittelalterlichen Mauern zu sehen.",
+                "hu": "Gyors séta a parkolóból az esőtől csillogó középkori falak és ősi romok megtekintéséhez.",
+                "ro": "Fugiți rapid de la parcare pentru a vedea zidurile medievale și ruinele udate de ploaie.",
+                "en": "Quick dash from the parking area to see the rain-slicked medieval walls and ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Tierra de Miranda",
+                "hu": "Museu de la Tierra de Miranda",
+                "ro": "Museu de la Tierra de Miranda",
+                "en": "Museu de la Tierra de Miranda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und tauchen Sie im Trockenen in die faszinierende lokale Kultur ein.",
+                "hu": "Parkoljon a közelben, és lépjen be, hogy elmerüljön a helyi kultúrában, távol a záporoktól.",
+                "ro": "Parcați în apropiere și intrați pentru a descoperi cultura locală la adăpost de averse.",
+                "en": "Park nearby and step inside to immerse yourself in local culture away from the downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Estação Biológica internacional Douro",
+                "hu": "Estação Biológica internacional Douro",
+                "ro": "Estação Biológica internacional Douro",
+                "en": "Estação Biológica internacional Douro"
+              },
+              "tip_5lang": {
+                "de": "Bequemes Parken ermöglicht einen schnellen Wechsel in diese hervorragende Bildungseinrichtung.",
+                "hu": "A kényelmes parkolás lehetővé teszi a gyors átjutást ebbe a kiváló fedett oktatási térbe.",
+                "ro": "Parcarea facilă permite o trecere rapidă în acest excelent spațiu educațional interior.",
+                "en": "Easy parking allows for a quick transition into this excellent indoor educational space."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Torregamones",
+                "hu": "Fort Torregamones",
+                "ro": "Fort Torregamones",
+                "en": "Fort Torregamones"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie so nah wie möglich heran; der kurze Weg zum Fort wird matschig sein, tragen Sie Stiefel.",
+                "hu": "Vezessen a lehető legközelebb; a rövid séta az erődhöz sáros lesz, viseljen megfelelő csizmát.",
+                "ro": "Conduceți cât mai aproape; plimbarea scurtă spre fort va fi noroioasă, purtați cizme.",
+                "en": "Drive as close as permitted; the short walk to the fort will be muddy, so wear proper boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira de Picote",
+                "hu": "Albufeira de Picote",
+                "ro": "Albufeira de Picote",
+                "en": "Albufeira de Picote"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Endpunkt, an dem der Regen die wilde Atmosphäre des tiefen Flusstals verstärkt.",
+                "hu": "Látványos végpont, ahol az eső felerősíti a mély folyóvölgy vad, zabolátlan hangulatát.",
+                "ro": "Un punct final spectaculos, unde ploaia accentuează atmosfera sălbatică a văii adânci a râului.",
+                "en": "A spectacular ending point where the rain enhances the wild, untamed feel of the deep river valley."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einer frostigen Fahrt zur Albufeira de Miranda. Mittags genießen Sie das beheizte Auto zwischen Burg und Museen. Nutzen Sie den kurzen Winternachmittag für die Station und das Fort, bevor Sie an der Albufeira de Picote enden. Beenden Sie die Fahrt vor Einbruch der Dunkelheit gegen 17:00 Uhr.",
+            "hu": "A reggel egy festői, fagyos autózással indul az Albufeira de Miranda felé. Délben élvezze a fűtött autó kényelmét a vár és a múzeumok között. A rövid téli délutánt használja ki az állomás és az erőd meglátogatására, mielőtt a Picote-víztározónál zárna. Érjen vissza a sötétedés és az esti fagyok előtt.",
+            "ro": "Dimineața începe cu o plimbare pitorească și geroasă spre Albufeira de Miranda. La prânz, bucurați-vă de mașina încălzită între castel și muzee. Folosiți scurta după-amiază de iarnă pentru a vizita stația și fortul, încheind la Albufeira de Picote. Terminați traseul rural înainte ca întunericul și gheața să apară la 17:00.",
+            "en": "Your morning starts with a scenic, frosty drive to Albufeira de Miranda. At midday, enjoy the convenience of your heated car while hopping between the castle and museums. Use the short winter afternoon to visit the station and fort, concluding at Albufeira de Picote. Make sure to finish navigating the rural roads before the 17:00 sunset brings icy conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Albufeira de Miranda",
+                "hu": "Albufeira de Miranda",
+                "ro": "Albufeira de Miranda",
+                "en": "Albufeira de Miranda"
+              },
+              "tip_5lang": {
+                "de": "Morgendlicher Frost lässt den Stausee magisch wirken; genießen Sie die Heizung im Auto.",
+                "hu": "A reggeli dér varázslatossá teszi a hatalmas víztározót; élvezze a fűtést, mielőtt kiszállna.",
+                "ro": "Gerul dimineții face rezervorul să pară magic; bucurați-vă de căldură înainte de a ieși afară.",
+                "en": "Morning frost makes the massive reservoir look magical; enjoy the heater before stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Miranda do Douro",
+                "hu": "Castelo de Miranda do Douro",
+                "ro": "Castelo de Miranda do Douro",
+                "en": "Castelo de Miranda do Douro"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft passt perfekt zur rauen mittelalterlichen Geschichte dieser Steinruinen.",
+                "hu": "A hideg téli levegő tökéletesen illik ezeknek az impozáns kőromoknak a zord középkori történelméhez.",
+                "ro": "Aerul rece de iarnă se potrivește perfect cu istoria medievală aspră a acestor ruine impunătoare.",
+                "en": "The cold winter air perfectly suits the rugged medieval history of these imposing stone ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de la Tierra de Miranda",
+                "hu": "Museu de la Tierra de Miranda",
+                "ro": "Museu de la Tierra de Miranda",
+                "en": "Museu de la Tierra de Miranda"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener, warmer Zwischenstopp, um mehr über das traditionelle portugiesische Winterleben zu erfahren.",
+                "hu": "Kellemes, meleg benti megálló az úton, ahol megismerheti a hagyományos portugál téli életet.",
+                "ro": "O oprire interioară caldă și primitoare pentru a învăța despre viața tradițională de iarnă.",
+                "en": "A welcome, warm indoor stop on your road trip to learn about traditional Portuguese winter life."
+              }
+            },
+            {
+              "name": {
+                "de": "Estação Biológica internacional Douro",
+                "hu": "Estação Biológica internacional Douro",
+                "ro": "Estação Biológica internacional Douro",
+                "en": "Estação Biológica internacional Douro"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine gemütliche Pause von der Winterkälte und entdecken Sie lokale Umweltprojekte.",
+                "hu": "Tartson egy kényelmes szünetet a téli hidegben, és ismerje meg a helyi környezetvédelmi munkát.",
+                "ro": "Luați o pauză confortabilă de la frigul iernii și descoperiți eforturile locale de mediu.",
+                "en": "Take a comfortable break from the winter chill while discovering local environmental efforts."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Torregamones",
+                "hu": "Fort Torregamones",
+                "ro": "Fort Torregamones",
+                "en": "Fort Torregamones"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich gut ein; der Weg vom Auto zu den windgepeitschten Fortmauern ist sehr kalt.",
+                "hu": "Öltözzön fel jól; az autótól a szélfútta erőd falaiig tartó séta télen rendkívül hideg.",
+                "ro": "Îmbrăcați-vă bine; plimbarea de la mașină la zidurile fortului bătute de vânt este foarte rece.",
+                "en": "Wrap up well; the walk from the car to the windswept fort walls is incredibly chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira de Picote",
+                "hu": "Albufeira de Picote",
+                "ro": "Albufeira de Picote",
+                "en": "Albufeira de Picote"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor Sonnenuntergang an, um die letzten goldenen Strahlen über der Schlucht zu sehen.",
+                "hu": "Érkezzen meg a 17:00 órás naplemente előtt, hogy elcsípje az utolsó sugarakat a téli szurdok felett.",
+                "ro": "Ajungeți înainte de apusul de la 17:00 pentru a prinde ultimele raze deasupra defileului înghețat.",
+                "en": "Arrive before the 5 PM sunset to catch the last golden rays over the deep, wintry river gorge."
+              }
+            }
+          ]
+        }
       }
     }
   }

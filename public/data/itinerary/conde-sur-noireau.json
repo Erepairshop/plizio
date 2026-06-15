@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Kezdje a napot a történelmi központban, fedezze fel Condé-sur-Noireau civil szívét a Városházán, és csodálja meg építészetének figyelemre méltó rugalmasságát.\nDél: Váltson a városi életről a spirituális örökségre a központi Église Saint-Sauveur és a város szívében található békés protestáns templom felfedezésével.\nDélután: Élvezze a pihentető sétát a Noireau folyó partján, majd merüljön el a gazdag helyi művészetben és történelemben a modern Charles Léandre Múzeumban.\nEste: Fejezze be gyalogos utazását a bájos Église Saint-Pierre-nél, és szánjon időt az elmélkedésre a nyugodt környezetben, ahogy a város csendes estébe burkolózik.",
         "ro": "Dimineață: Începeți ziua în centrul istoric, descoperind inima civică a orașului Condé-sur-Noireau la Primărie și admirând reziliența reflectată în arhitectura sa.\nAmiază: Faceți tranziția de la viața civică la moștenirea spirituală, explorând centrala Église Saint-Sauveur și pașnicul Templu protestant, situate în inima orașului.\nDupă-amiază: Bucurați-vă de o plimbare relaxantă de-a lungul malurilor râului Noireau, apoi cufundați-vă în arta și istoria locală la Muzeul Charles Léandre.\nSeară: Încheiați-vă călătoria pietonală la fermecătoarea Église Saint-Pierre, făcându-vă timp pentru a reflecta în ambianța liniștită pe măsură ce seara se lasă peste oraș.",
         "en": "Morning: Begin your day in the historic center, discovering the civic heart of Condé-sur-Noireau at the Town Hall and admiring the resilience in its architecture.\nMidday: Transition from civic life to spiritual heritage by exploring the central Église Saint-Sauveur and the peaceful Protestant Temple located right in the heart of town.\nAfternoon: Enjoy a relaxing stroll along the banks of the Noireau river, then immerse yourself in rich local art and history at the Charles Léandre Museum.\nEvening: Conclude your walking journey at the charming Église Saint-Pierre, taking time to reflect in the tranquil ambiance as the town settles into a quiet evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus, dessen Vorplatz Schutz vor dem normannischen Nieselregen bietet.\n\nMittags bieten die Innenräume der Kirchen trockene Zuflucht und Raum für stille Betrachtung.\n\nAm Nachmittag besuchen wir das Museum, den idealen Ort, um lokale Kunst zu bewundern, während es draußen regnet.\n\nDer Abend endet bei Saint-Pierre, wo dicke Granitwände uns vor dem feuchten Wind schützen.",
+            "hu": "A reggel a városháza környékén indul, ahol az árkádok menedéket nyújtanak a szemerkélő eső elől.\n\nDélben a modern és a hagyományos templomok belső tereiben találunk nyugalmat és száraz pihenőt.\n\nDélután a folyóparti séta után a múzeumba húzódunk be a komolyabb záporok elől.\n\nAz este a Saint-Pierre templom gránitfalai között ér minket, biztonságban a széltől és az esőtől.",
+            "ro": "Dimineața începe la Primărie, unde pridvorul oferă adăpost împotriva burniței normande.\n\nLa prânz, interioarele bisericilor oferă un răgaz uscat și momente de liniște pentru reflexie.\n\nDupă-amiaza ne retragem la muzeu, refugiul perfect pentru a admira arta locală în timp ce ploaia se intensifică.\n\nSeara se încheie la Saint-Pierre, unde zidurile groase de granit ne protejează de vântul umed de afară.",
+            "en": "Morning starts at the Town Hall, where the porch provides shelter from the drizzle.\n\nBy noon, the interiors of the modern and historic churches offer dry respite and quiet reflection.\n\nAfternoon brings us to the museum, the perfect indoor escape to admire local art while the rain intensifies outside.\n\nEvening concludes at Saint-Pierre, where thick granite walls protect us from the damp winds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Nachkriegsarchitektur vom geschützten Eingang des Rathauses aus und bleiben Sie trocken, während Sie die geometrischen Linien beobachten.",
+                "hu": "Csodáld meg a háború utáni építészetet a városháza védett bejárata alól, így szárazon maradva figyelheted meg az újjáépítés geometrikus vonalait.",
+                "ro": "Admiră arhitectura postbelică de la intrarea adăpostită a Primăriei, rămânând uscat în timp ce observi liniile geometrice ale reconstrucției.",
+                "en": "Admire the post-war architecture from the sheltered entrance of the Town Hall, keeping dry while observing the geometric lines of the reconstruction."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Biserica Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die modernen Glasmalereien zu bewundern; das Innere bietet den perfekten Schutz vor einem plötzlichen normannischen Regenschauer.",
+                "hu": "Lépj be a templomba, hogy megcsodáld a modern üvegablakokat; a belső tér tökéletes menedéket nyújt egy hirtelen jött normandiai zápor elől.",
+                "ro": "Intră pentru a admira vitraliile moderne; interiorul oferă adăpostul perfect împotriva unei averse bruște normande în timpul plimbării tale.",
+                "en": "Step inside to admire the modern stained glass; the interior provides the perfect shelter from a sudden Norman rain shower during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Protestáns templom",
+                "ro": "Templul protestant",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die schlichte Betonarchitektur dieses Tempels von innen, wo es trocken ist und der Regen auf dem Dach eine meditative Atmosphäre schafft.",
+                "hu": "Figyeld meg a templom letisztult betonépítészetét belülről, ahol szárazon maradhatsz, miközben az eső kopogása különleges, meditatív hangulatot áraszt.",
+                "ro": "Observă arhitectura sobră din beton a acestui templu din interior, unde este uscat, iar sunetul ploii pe acoperiș creează o atmosferă meditativă.",
+                "en": "Observe the sleek concrete architecture of this temple from the dry interior, where the sound of rain on the roof creates a meditative atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Noireau",
+                "hu": "A Noireau partja",
+                "ro": "Malurile râului Noireau",
+                "en": "Banks of the Noireau"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Fluss von der Brücke aus, aber tragen Sie wasserfeste Schuhe, da die Uferwege bei Regen stellenweise rutschig sein können.",
+                "hu": "Élvezd a folyóra nyíló kilátást a híd fedezékéből, de viselj vízálló cipőt, mert a parti ösvények esőben helyenként csúszósak lehetnek.",
+                "ro": "Bucură-te de vederea spre râu de la adăpostul podului, dar poartă încălțăminte impermeabilă, deoarece potecile pot fi alunecoase pe timp de ploaie.",
+                "en": "Enjoy the river views from the shelter of the bridge, but wear waterproof shoes as the riverside paths can be slippery in places when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Charles Léandre Museum",
+                "hu": "Charles Léandre Múzeum",
+                "ro": "Muzeul Charles Léandre",
+                "en": "Charles Léandre Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausgiebigen Museumsbesuch; es ist der beste Ort, um Stunden im Trockenen zwischen faszinierender Kunst zu verbringen.",
+                "hu": "Használd ki az esőt egy hosszabb múzeumlátogatásra; ez a legjobb hely a városban, hogy órákat tölts el szárazon a lenyűgöző műalkotások között.",
+                "ro": "Profită de ploaie pentru o vizită prelungită la acest muzeu; este cel mai bun loc pentru a petrece ore în șir la adăpost, printre opere de artă.",
+                "en": "Take advantage of the rain for an extended museum visit; it is the best place in town to spend hours in the dry among fascinating artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag in dieser robusten Granitkirche, deren dicke Mauern jeglichen Lärm des Regens und Windes draußen halten und für Stille sorgen.",
+                "hu": "Zárd a napot ebben a robusztus gránittemplomban, melynek vastag falai teljesen kirekesztik a kinti eső és szél zaját, biztosítva a belső csendet.",
+                "ro": "Încheie ziua în această biserică robustă de granit, ale cărei ziduri groase izolează perfect zgomotul ploii și al vântului de afară.",
+                "en": "End your day in this robust granite church, whose thick walls shut out all noise of the rain and wind outside, ensuring a peaceful atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt am Rathausplatz, wo die klare Luft die Konturen des Gebäudes scharf hervortreten lässt.\n\nMittags bieten die beheizten Innenräume der Kirchen einen warmen Zufluchtsort während des Spaziergangs.\n\nAm Nachmittag lädt das Museum mit seiner reichen Sammlung ein, wo man sich gemütlich zwischen den Kunstwerken aufwärmen kann.\n\nDer Abend bricht früh gegen 17 Uhr an, daher besuchen wir Saint-Pierre, bevor die Dunkelheit einsetzt.",
+            "hu": "A fagyos reggelt a városháza előtti téren kezdjük, ahol a hideg levegőben élesebben látszanak az épület kontúrjai.\n\nDélben a fűtött templomok belső terei nyújtanak meleg menedéket és lelki feltöltődést a séta közben.\n\nDélután a múzeum gazdag gyűjteménye vár, ahol kényelmesen átmelegedhetünk a műalkotások között.\n\nAz este korán, már öt óra körül leszáll, így a Saint-Pierre templomot még a sötétedés előtt érdemes meglátogatni.",
+            "ro": "Dimineața geroasă începe în piața Primăriei, unde aerul rece face ca contururile clădirii să iasă în evidență cu claritate.\n\nLa prânz, interioarele încălzite ale bisericilor oferă un sanctuar cald și relaxare în timpul plimbării.\n\nDupă-amiaza ne invită la colecția bogată a muzeului, unde ne putem încălzi confortabil printre operele de artă.\n\nSeara cade devreme, în jurul orei 17:00, așa că vizităm Biserica Saint-Pierre înainte de lăsarea întunericului.",
+            "en": "The frosty morning begins at the Town Hall square, where the crisp air makes the building's contours stand out sharply.\n\nAt noon, the heated interiors of the churches provide a warm sanctuary and spiritual refreshment during the walk.\n\nThe afternoon invites us to the museum's rich collection, where we can comfortably warm up among the artworks.\n\nEvening falls early around 5 PM, so visit Saint-Pierre Church before the winter darkness sets in completely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Frostmuster auf dem Platz und tragen Sie Thermokleidung, um die Erklärungen zur Wiederaufbaugeschichte der Stadt im Freien zu genießen.",
+                "hu": "Figyeld meg a zúzmarát a téren, és viselj réteges öltözetet, hogy kényelmesen hallgasd végig a város újjáépítésének történetét a szabadban.",
+                "ro": "Observă modelele de chiciură din piață și poartă haine termice pentru a te bucura de explicațiile despre reconstrucția orașului în aer liber.",
+                "en": "Notice the frost patterns on the square and wear thermal layers to enjoy the outdoor explanation of the city's reconstruction history comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Biserica Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das moderne Buntglas, das selbst bei tiefstehender Wintersonne ein einzigartiges Leuchten erzeugt und eine warme Pause bietet.",
+                "hu": "Csodáld meg a modern üvegablakokat, melyek még az alacsonyan járó téli napfényben is különleges fényt árasztanak, miközben bent megpihensz.",
+                "ro": "Admiră vitraliile moderne care creează o strălucire unică chiar și sub soarele slab de iarnă, oferind o pauză caldă de la frigul de afară.",
+                "en": "Appreciate the modern stained glass which creates a unique glow even with the low winter sun, providing a peaceful and warm break from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Protestáns templom",
+                "ro": "Templul protestant",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die schlichte Schönheit dieses Tempels, der in der ruhigen, grauen Winteratmosphäre der Normandie besonders feierlich wirkt.",
+                "hu": "Figyeld meg a templom minimalista szépségét, amely különösen ünnepélyesnek hat Normandia csendes, szürke téli hangulatában a séta során.",
+                "ro": "Observă frumusețea minimalistă a acestui templu, care pare deosebit de solemn în atmosfera liniștită și gri de iarnă a regiunii Normandia.",
+                "en": "Observe the minimalist beauty of this temple, which feels particularly solemn in the quiet, grey winter atmosphere of Normandy during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Noireau",
+                "hu": "A Noireau partja",
+                "ro": "Malurile râului Noireau",
+                "en": "Banks of the Noireau"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Morgennebel über dem kalten Fluss, aber gehen Sie zügig und tragen Sie warme Stiefel, um eventuelle vereiste Stellen zu meiden.",
+                "hu": "Figyeld meg a reggeli párát a hideg folyó felett, de haladj tempósan és viselj meleg bakancsot az esetleges jeges foltok elkerülése érdekében.",
+                "ro": "Observă ceața dimineții deasupra râului rece, dar mergi vioi și poartă cizme călduroase pentru a evita eventualele porțiuni înghețate.",
+                "en": "Watch the morning mist rise from the cold river water, but keep your walk brisk and wear warm boots to handle any potential icy patches on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Charles Léandre Museum",
+                "hu": "Charles Léandre Múzeum",
+                "ro": "Muzeul Charles Léandre",
+                "en": "Charles Léandre Museum"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger in den beheizten Galerien; dies ist der beste Ort, um dem beißenden Nachmittagswind und der Kälte draußen zu entkommen.",
+                "hu": "Tölts el több időt a fűtött galériákban; ez a legjobb hely a városban, hogy elmenekülj a csípős délutáni szél és a kinti hideg elől.",
+                "ro": "Petrece mai mult timp în galeriile încălzite; acesta este cel mai bun loc pentru a scăpa de vântul tăios de după-amiază și de frigul de afară.",
+                "en": "Spend extra time in the heated galleries; this is the best place in town to escape the biting afternoon wind and the freezing cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem Sonnenuntergang um 17 Uhr an, um die Granitstruktur im Licht der blauen Stunde zu sehen, und tragen Sie eine warme Mütze.",
+                "hu": "Érkezz meg az ötszöri naplemente előtt, hogy még lásd a gránit falakat a kék óra fényeiben, és ne felejts el meleg sapkát húzni.",
+                "ro": "Sosește înainte de apusul de la ora 17:00 pentru a vedea textura granitului în lumina orei albastre și asigură-te că ai o căciulă călduroasă.",
+                "en": "Arrive here before the 5 PM sunset to see the granite texture in the blue hour light, and ensure you have a warm hat for the final stretch."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Délelőtt: Kezdje kerékpáros kalandját a város szélén álló békés Chapelle Saint-Jacques meglátogatásával, mielőtt a nyüzsgő központba indulna a Városháza felé.\nDél: Merüljön el a helyi örökségben egy alapos látogatással a Charles Léandre Múzeumban, felfedezve a hihetetlen regionális alkotásokat a város vibráló szívében.\nDélután: Kövesse kerékpárral a Noireau folyó megnyugtató áramlását, majd tekerjen ki a kiterjedt Maurice Piard Parkba egy jól megérdemelt pihenésre a természet lágy ölén.\nEste: Fejezze be a napot egy festői kerékpározással a vidéki Chapelle Saint-Martin-des-Champs felé, élvezve a csendes vidéki utakat, ahogy a nap lassan lenyugszik.",
         "ro": "Dimineață: Începeți aventura cu bicicleta vizitând senina Chapelle Saint-Jacques la marginea orașului, înainte de a vă îndrepta spre centrul plin de viață pentru Primărie.\nAmiază: Pătrundeți în moștenirea locală cu o vizită extinsă la Muzeul Charles Léandre, descoperind opere de artă regionale incredibile chiar în nucleul vibrant al orașului.\nDupă-amiază: Urmați curgerea liniștitoare a râului Noireau pe bicicletă, apoi mergeți către parcul spațios Maurice Piard pentru o odihnă binemeritată în mijlocul naturii.\nSeară: Încheiați ziua cu o plimbare pitorească spre rurala Chapelle Saint-Martin-des-Champs, bucurându-vă de drumurile de țară liniștite pe măsură ce soarele apune.",
         "en": "Morning: Kick off your cycling adventure by visiting the serene Chapelle Saint-Jacques on the town's edge before heading into the bustling center to see the Town Hall.\nMidday: Dive into the local heritage with an extensive visit to the Charles Léandre Museum, discovering incredible regional artwork right in the vibrant core of the city.\nAfternoon: Follow the soothing flow of the Noireau river on your bike, then ride out to the expansive Maurice Piard Park for a well-deserved rest amidst nature.\nEvening: Finish your day with a scenic ride out to the rural Chapelle Saint-Martin-des-Champs, enjoying the quiet countryside roads as the sun slowly begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einer feuchten Fahrt zur Kapelle, wobei die regnerischen Hügel eine mystische Atmosphäre schaffen.\n\nMittags suchen wir Schutz im Stadtzentrum, wo das Rathaus einen trockenen Punkt für eine kurze Pause bietet.\n\nDer Nachmittag ist dem Museum gewidmet, der perfekten Gelegenheit, um Kleidung zu trocknen und Kunst zu genießen.\n\nAm Abend radeln wir vorsichtig auf nassen Straßen zurück, während die Lichter der Stadt im Regen glänzen.",
+            "hu": "A reggel nedves úton indul a kápolna felé, az esős dombok misztikus hangulatot árasztanak. Délben a központban keresünk menedéket, ahol a városháza száraz pontot kínál a pihenéshez. A délután a múzeumé, ami tökéletes hely a ruhák megszárítására és a művészet élvezetére. Este óvatosan kerekezünk a vizes utakon, miközben a város fényei megcsillannak a tócsákban.",
+            "ro": "Dimineața începe cu o plimbare umedă spre capelă, dealurile ploioase creând o atmosferă mistică în peisaj.\n\nLa prânz căutăm adăpost în centrul orașului, unde zona Primăriei oferă un punct uscat pentru o scurtă pauză.\n\nDupă-amiaza este dedicată muzeului, ocazia perfectă pentru a usca hainele și a te bucura de artă la adăpost.\n\nSeara pedalăm cu atenție pe străzile ude, în timp ce luminile orașului se reflectă în ploaie.",
+            "en": "The morning starts with a damp ride to the chapel, with the rainy hills creating a mystical atmosphere in the landscape.\n\nAt noon we seek shelter in the town center, where the Town Hall area offers a dry spot for a quick break.\n\nThe afternoon is dedicated to the museum, the perfect opportunity to dry off clothes and enjoy art away from the rain.\n\nIn the evening, we cycle back carefully on wet roads as the city lights shimmer in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Jacques",
+                "hu": "Chapelle Saint-Jacques",
+                "ro": "Capela Saint-Jacques",
+                "en": "Chapelle Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig beim Aufstieg, da die Straße zur Kapelle bei Nässe rutschig sein kann; der Blick auf das Tal ist im Regen sehr stimmungsvoll.",
+                "hu": "Légy óvatos az emelkedőn, mert a kápolnához vezető út nedvesen csúszós lehet; a völgyre nyíló kilátás esőben is rendkívül hangulatos.",
+                "ro": "Fii atent la urcare, deoarece drumul spre capelă poate fi alunecos când este ud; vederea spre vale este foarte pitorească chiar și pe ploaie.",
+                "en": "Use caution on the ascent as the road to the chapel can be slippery when wet; the view of the valley is moody and beautiful in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause unter dem Dachvorsprung des Rathauses, um Ihre Ausrüstung zu überprüfen; der zentrale Ort bietet guten Schutz für Radfahrer.",
+                "hu": "Tarts egy rövid szünetet a városháza eresze alatt, hogy ellenőrizd a felszerelésedet; a központi helyszín jó védelmet nyújt a kerékpárosoknak.",
+                "ro": "Fă o scurtă pauză sub streașina Primăriei pentru a-ți verifica echipamentul; locația centrală oferă un adăpost bun pentru bicicliști pe ploaie.",
+                "en": "Take a short break under the town hall's overhang to check your gear; the central location provides good shelter for cyclists during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Charles Léandre Museum",
+                "hu": "Charles Léandre Múzeum",
+                "ro": "Muzeul Charles Léandre",
+                "en": "Charles Léandre Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um Ihre Fahrradkleidung trocknen zu lassen, während Sie die faszinierenden Kunstsammlungen im Inneren erkunden.",
+                "hu": "Ez a tökéletes helyszín, hogy hagyd megszáradni a kerékpáros ruházatodat, miközben felfedezed a bent található lenyűgöző művészeti gyűjteményt.",
+                "ro": "Acesta este locul perfect pentru a-ți lăsa hainele de ciclism să se usuce în timp ce explorezi colecțiile fascinante de artă din interior.",
+                "en": "This is the perfect long stop to let your cycling clothes dry off while you explore the fascinating art and history collections indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Noireau",
+                "hu": "A Noireau partja",
+                "ro": "Malurile râului Noireau",
+                "en": "Banks of the Noireau"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am Flussweg entlang, um Spritzer zu vermeiden, und genießen Sie die satten grünen Farben, die der Regen hervorbringt.",
+                "hu": "Kerekezz lassan a folyóparti úton, hogy elkerüld a felfröccsenő vizet, és élvezd a buja zöld színeket, amiket az eső csal elő a tájból.",
+                "ro": "Pedalează încet pe poteca de lângă râu pentru a evita stropirea și bucură-te de culorile verzi intense pe care ploaia le scoate în evidență.",
+                "en": "Cycle slowly along the river path to avoid splashing, and enjoy the lush green colors that the rain brings out in the Norman landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Maurice Piard Park",
+                "hu": "Maurice Piard Park",
+                "ro": "Parcul Maurice Piard",
+                "en": "Maurice Piard Park"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen im Park, um Schlamm zu vermeiden, und suchen Sie unter großen Bäumen Schutz, wenn es stark regnet.",
+                "hu": "Maradj a park fő aszfaltozott útjain, hogy elkerüld a sarat, és keress menedéket a nagy fák alatt, ha eleredne a hevesebb eső.",
+                "ro": "Rămâi pe aleile principale asfaltate din parc pentru a evita noroiul și caută adăpost sub copacii mari dacă începe o ploaie torențială.",
+                "en": "Stick to the main paved avenues within the park to avoid mud, and find shelter under the large trees if a heavy shower starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Martin-des-Champs",
+                "hu": "Chapelle Saint-Martin-des-Champs",
+                "ro": "Capela Saint-Martin-des-Champs",
+                "en": "Chapelle Saint-Martin-des-Champs"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zu dieser Kapelle; nasse Felgen erfordern längere Bremswege in dieser ländlichen Gegend.",
+                "hu": "Ellenőrizd a fékeket a lejtő előtt ennél a kápolnánál; a vizes felnik hosszabb fékutat igényelnek ezen a csúszós vidéki szakaszon.",
+                "ro": "Verifică-ți frânele înainte de coborârea spre această chapelă izolată; jantele ude necesită distanțe de frânare mai mari în această zonă.",
+                "en": "Check your brakes before the final descent to this secluded chapel, as wet rims require longer stopping distances in this rural area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen erfordert warme Schichten für die Fahrt zur Kapelle, wo die klare Winterluft weite Ausblicke ermöglicht.\n\nMittags machen wir einen schnellen Halt im Zentrum, bevor wir uns im beheizten Museum wieder aufwärmen.\n\nDer Nachmittag führt uns durch den winterlichen Park, wo die kahlen Bäume eine ganz eigene Schönheit entfalten.\n\nAm Abend müssen wir die Tour früh beenden, da die Temperaturen nach 16 Uhr drastisch sinken und es schnell dunkel wird.",
+            "hu": "A fagyos reggel meleg rétegeket igényel a kápolnáig vezető úton, ahol a tiszta téli levegő messzi kilátást enged. Délben gyors megállót tartunk a központban, mielőtt a fűtött múzeumban engednénk fel a hideg után. A délután a téli parkon át vezet, ahol a kopár fák különleges szépséget mutatnak. Este korán be kell fejeznünk a túrát, mivel 16 óra után a hőmérséklet drasztikusan esik.",
+            "ro": "Dimineața geroasă necesită straturi calde pentru drumul spre capelă, unde aerul curat de iarnă permite vederi panoramice asupra văii.\n\nLa prânz facem o scurtă oprire în centru, înainte de a ne încălzi din nou în muzeul primitor.\n\nDupă-amiaza ne poartă prin parcul hibernal, unde copacii golași dezvăluie o frumusețe aparte.\n\nSeara trebuie să încheiem turul devreme, deoarece se întunecă repede după ora 16:00.",
+            "en": "The frosty morning requires warm layers for the ride to the chapel, where the clear winter air allows for distant views over the valley.\n\nAt noon we make a quick stop in the center before warming up again in the heated museum.\n\nThe afternoon takes us through the winter park, where the bare trees reveal a unique, raw beauty in the low sun.\n\nIn the evening, we must finish the tour early as temperatures drop drastically after 4 PM and it gets dark quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Jacques",
+                "hu": "Chapelle Saint-Jacques",
+                "ro": "Capela Saint-Jacques",
+                "en": "Chapelle Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für den Aufstieg zur Kapelle; die klare Winterluft bietet dort oben eine außergewöhnlich gute Fernsicht.",
+                "hu": "Viselj szélálló kesztyűt a kápolnához vezető emelkedőn; a tiszta téli levegő kivételesen messzi kilátást biztosít onnan fentről.",
+                "ro": "Poartă mănuși rezistente la vânt pentru urcarea spre capelă; aerul curat de iarnă oferă o vizibilitate excepțional de bună de acolo de sus.",
+                "en": "Wear windproof gloves for the uphill climb to the chapel; the clear winter air offers exceptionally clear views over the valley from up there."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt auf dem Platz reicht bei der Kälte; bemerken Sie, wie die tiefe Sonne die Betonstrukturen der Nachkriegsbauten betont.",
+                "hu": "Egy rövid megálló a téren elég a hidegben; figyeld meg, hogyan emeli ki az alacsony napállás a háború utáni épületek betontextúráit.",
+                "ro": "O scurtă oprire în piață este suficientă pe frigul acesta; observă cum soarele jos scoate în evidență texturile de beton ale clădirilor postbelice.",
+                "en": "A quick stop at the square is enough in the cold; notice how the low sun highlights the post-war concrete textures of the central buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Charles Léandre Museum",
+                "hu": "Charles Léandre Múzeum",
+                "ro": "Muzeul Charles Léandre",
+                "en": "Charles Léandre Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause, um das Gefühl in Ihren Fingern wiederzuerlangen, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Használd a múzeumlátogatást fő melegedő szünetként, hogy visszanyerd az érzést az ujjaidban, mielőtt folytatnád a tekerést a hidegben.",
+                "ro": "Folosește vizita la muzeu ca pauză principală de încălzire pentru a-ți recăpăta sensibilitatea în degete înainte de a continua drumul.",
+                "en": "Use the museum visit as a primary warm-up break to regain feeling in your fingers before continuing your ride through the cold countryside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer der Noireau",
+                "hu": "A Noireau partja",
+                "ro": "Malurile râului Noireau",
+                "en": "Banks of the Noireau"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis am Flussufer, besonders am frühen Morgen oder in schattigen Abschnitten der Strecke; fahren Sie vorsichtig.",
+                "hu": "Vigyázz a felfagyásokkal a folyópart mentén, különösen kora reggel vagy az árnyékos szakaszokon; kerekezz fokozott figyelemmel.",
+                "ro": "Ai grijă la polei pe malul râului, în special dimineața devreme sau pe secțiunile umbrite ale traseului; pedalează cu maximă prudență.",
+                "en": "Be mindful of black ice near the water's edge on the river path, especially in the early morning or shaded sections of the route."
+              }
+            },
+            {
+              "name": {
+                "de": "Maurice Piard Park",
+                "hu": "Maurice Piard Park",
+                "ro": "Parcul Maurice Piard",
+                "en": "Maurice Piard Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die herbe Schönheit der Winterbäume, aber beenden Sie Ihren Besuch im Park bis 15:30 Uhr wegen der sinkenden Temperaturen.",
+                "hu": "Élvezd a téli fák nyers szépségét, de tervezd úgy, hogy 15:30-ig befejezd a parklátogatást a gyorsan csökkenő hőmérséklet miatt.",
+                "ro": "Bucură-te de frumusețea austeră a copacilor de iarnă, dar încearcă să închei vizita în parc până la ora 15:30 din cauza frigului.",
+                "en": "Enjoy the stark beauty of the winter trees, but aim to finish your park visit by 3:30 PM to avoid the rapidly dropping temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Martin-des-Champs",
+                "hu": "Chapelle Saint-Martin-des-Champs",
+                "ro": "Capela Saint-Martin-des-Champs",
+                "en": "Chapelle Saint-Martin-des-Champs"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da das Licht an dieser Kapelle nach 16:30 Uhr schnell nachlässt.",
+                "hu": "Győződj meg róla, hogy a lámpáid működnek, mivel a fény ennél az elszigetelt kápolnánál 16:30 után már nagyon gyorsan fogyatkozik.",
+                "ro": "Asigură-te că luminile bicicletei funcționează, deoarece lumina scade rapid lângă această capelă izolată după ora 16:30.",
+                "en": "Ensure your bike lights are working for the return trip, as the light fades fast near this remote chapel after 4:30 PM in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Délelőtt: Kezdje festői autózását Condé-sur-Noireau külvárosában, felfedezve a zöldellő völgyekkel körülvett, gyönyörűen felújított Chapelle Notre-Dame-des-Vallées-t.\nDél: Folytassa vidéki felfedezését az időtlen Chapelle Saint-Martin-des-Champs-nál, mielőtt a városközpontba hajtana, hogy megcsodálja a modern önkormányzati építészetet.\nDélután: Merüljön el a város művészeti örökségében a Charles Léandre Múzeum alapos meglátogatásával, amely a főbb központi körutakon keresztül könnyen megközelíthető.\nEste: Zárja utazását egy rövid északi autózással a Maurice Piard Parkba, ahol kinyújtóztathatja lábait és élvezheti a békés sétát, ahogy a nap lassan a végéhez közeledik.",
         "ro": "Dimineață: Începeți-vă plimbarea pitorească cu mașina la periferia orașului Condé-sur-Noireau, descoperind frumos restaurata Chapelle Notre-Dame-des-Vallées, înconjurată de văi verzi.\nAmiază: Continuați-vă explorarea rurală la atemporala Chapelle Saint-Martin-des-Champs înainte de a conduce în centrul urban pentru a admira arhitectura municipală modernă.\nDupă-amiază: Cufundați-vă în moștenirea artistică a orașului cu o vizită detaliată la Muzeul Charles Léandre, ușor accesibil prin bulevardele centrale principale.\nSeară: Încheiați călătoria cu mașina cu o scurtă deplasare spre nord, spre parcul Maurice Piard, unde vă puteți dezmorți picioarele și vă puteți bucura de o plimbare liniștită.",
         "en": "Morning: Start your scenic drive on the outskirts of Condé-sur-Noireau, discovering the beautifully restored Chapelle Notre-Dame-des-Vallées surrounded by green valleys.\nMidday: Continue your rural exploration at the timeless Chapelle Saint-Martin-des-Champs before driving into the urban center to admire the modern municipal architecture.\nAfternoon: Immerse yourself in the town's artistic legacy with a thorough visit to the Charles Léandre Museum, easily accessible via the main central boulevards.\nEvening: Conclude your road trip with a short drive north to Maurice Piard Park, where you can stretch your legs and enjoy a peaceful stroll as the day comes to a close."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einer Fahrt zur Aussichtskapelle, wobei wir die regnerische Landschaft bequem vom Auto aus betrachten.\n\nMittags steuern wir das Stadtzentrum an, wo wir in der Nähe der Sehenswürdigkeiten parken, um den Regen zu minimieren.\n\nDer Nachmittag gehört ganz dem Museum, dem idealen Rückzugsort für einen längeren Aufenthalt im Trockenen.\n\nAm Abend fahren wir sicher durch die nassen Gassen der Stadt zurück, während die Scheibenwischer den Takt des Regens vorgeben.",
+            "hu": "A reggel az autóból figyelve indul a panorámás kápolna felé, élvezve az esős táj látványát a kényelmes utastérből. Délben a központ felé vesszük az irányt, ahol a látnivalók közelében parkolunk, hogy minimalizáljuk a kinti ázást. A délután teljesen a múzeumé, ami ideális menedék egy tartalmas és teljesen száraz programhoz. Este biztonságban autózunk vissza a vizes utcákon.",
+            "ro": "Dimineața începe cu o plimbare spre capela panoramică, admirând peisajul ploios din confortul mașinii, la adăpost și uscat.\n\nLa prânz ne îndreptăm spre centrul orașului, unde parcăm aproape de obiective pentru a minimiza expunerea la ploaie.\n\nDupă-amiaza aparține în întregime muzeului, refugiul ideal pentru un program prelungit și complet uscat.\n\nSeara conducem în siguranță pe străzile umede ale orașului.",
+            "en": "The morning starts with a drive to the panoramic chapel, enjoying the rainy landscape from the dry comfort of the car.\n\nAt noon we head to the town center, parking near the main sights to minimize walking in the rain between stops.\n\nThe afternoon belongs entirely to the museum, the ideal indoor retreat for an extended and completely dry visit.\n\nIn the evening we drive back safely through the wet city streets as the wipers beat to the rhythm of the falling rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Vallées",
+                "hu": "Chapelle Notre-Dame-des-Vallées",
+                "ro": "Capela Notre-Dame-des-Vallées",
+                "en": "Chapelle Notre-Dame-des-Vallées"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf das regnerische Tal bequem vom Auto aus, bevor Sie mit dem Regenschirm kurz zur Kapelle huschen.",
+                "hu": "Élvezd a panorámás kilátást az esős völgyre az autó kényelméből, mielőtt egy esernyővel gyorsan átugranál a kápolnához.",
+                "ro": "Bucură-te de vederea panoramică asupra văii ploioase din confortul mașinii, înainte de o scurtă vizită la capelă cu umbrela.",
+                "en": "Enjoy the panoramic views of the rainy valley from the comfort of your car before a quick, umbrella-assisted dash to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Martin-des-Champs",
+                "hu": "Chapelle Saint-Martin-des-Champs",
+                "ro": "Capela Saint-Martin-des-Champs",
+                "en": "Chapelle Saint-Martin-des-Champs"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Landwegen; Pfützen können Schlaglöcher verbergen und die Straßenoberflächen können rutschig sein.",
+                "hu": "Vezess óvatosan a szűk vidéki utakon; a tócsák kátyúkat rejthetnek, és az útfelület helyenként váratlanul csúszós lehet az esőben.",
+                "ro": "Condu cu atenție pe drumurile rurale înguste; bălțile pot ascunde gropi, iar suprafața drumului poate fi alunecoasă pe timp de ploaie.",
+                "en": "Drive carefully on the narrow rural lanes leading here, as puddles can hide potholes and the road surfaces may be slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem zentralen Parkplatz und gehen Sie kurz zum geschützten Eingang des Rathauses, um mehr über die Stadtgeschichte zu erfahren.",
+                "hu": "Parkolj le a központi parkolóban, és tegyél egy rövid sétát a városháza védett bejáratáig, hogy megismerd a város újjáépítésének történetét.",
+                "ro": "Parchează în parcarea centrală și fă o scurtă plimbare până la intrarea adăpostită a Primăriei pentru a afla despre istoria orașului.",
+                "en": "Park in the central lot and take a brief walk to the town hall's sheltered entrance to learn about the town's impressive reconstruction history."
+              }
+            },
+            {
+              "name": {
+                "de": "Charles Léandre Museum",
+                "hu": "Charles Léandre Múzeum",
+                "ro": "Muzeul Charles Léandre",
+                "en": "Charles Léandre Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist das Highlight an einem Regentag und bietet eine warme und trockene Umgebung, um Stunden in der Kunst einzutauchen.",
+                "hu": "Ez a múzeum az esős nap fénypontja, meleg és száraz környezetet biztosítva, hogy órákat merülhess el a helyi művészetben és kultúrában.",
+                "ro": "Acest muzeu este punctul culminant al unei zile ploioase, oferind un mediu cald și uscat pentru a te imersa ore în șir în arta locală.",
+                "en": "This museum is the highlight of a rainy day, offering a warm and dry environment to spend several hours immersed in local art and culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Maurice Piard Park",
+                "hu": "Maurice Piard Park",
+                "ro": "Parcul Maurice Piard",
+                "en": "Maurice Piard Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch die erlaubten Parkbereiche oder parken Sie nah an den Hauptsehenswürdigkeiten, um den Fußweg im Regen zu minimieren.",
+                "hu": "Hajts át a megengedett parki területeken, vagy parkolj a főbb látnivalók közelében, hogy minimalizáld az esőben való gyaloglást.",
+                "ro": "Condu prin zonele permise ale parcului sau parchează aproape de principalele atracții pentru a minimiza mersul pe jos prin ploaie.",
+                "en": "Drive through the park areas where permitted or park close to the main sights to minimize walking in the rain while enjoying the greenery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt mit einer Fahrt zu den Höhenzügen, wobei die Heizung im Auto für wohlige Wärme sorgt.\n\nMittags machen wir einen kurzen Stopp im Zentrum, um die winterliche Architektur zu bewundern, bevor wir ins Museum gehen.\n\nDer Nachmittag führt uns zum Park, wo wir das klare Winterlicht für Fotos nutzen, solange die Sonne noch tief am Horizont steht.\n\nAm Abend treten wir die Heimreise früh an, da der Sonnenuntergang gegen 17 Uhr die Temperaturen schnell sinken lässt.",
+            "hu": "A fagyos reggel autós túrával indul a dombtetőkre, miközben a fűtés kellemes meleget ad a zúzmarás táj ellenére. Délben rövid megállót tartunk a központban, hogy megcsodáljuk az építészetet, mielőtt a fűtött múzeumba vonulnánk. A délután a parkba vezet, kihasználva a tiszta téli fényeket a fotózáshoz. Este korán hazaindulunk, mivel az ötszöri naplemente után a hőmérséklet gyorsan esik.",
+            "ro": "Dimineața geroasă începe cu o plimbare spre înălțimi, în timp ce căldura din mașină oferă confort împotriva peisajului înghețat.\n\nLa prânz facem o scurtă oprire în centru pentru a admira arhitectura hibernală, înainte de a ne refugia în muzeul încălzit.\n\nDupă-amiaza ne îndreptăm spre parc, unde profităm de lumina clară de iarnă pentru fotografii.\n\nSeara pornim spre casă devreme, deoarece apusul face ca temperaturile să scadă rapid.",
+            "en": "The frosty morning begins with a drive to the heights, while the car's heater provides cozy warmth against the frozen landscape.\n\nAt noon we make a short stop in the center to admire the winter architecture before heading into the heated museum.\n\nThe afternoon takes us to the park, where we take advantage of the clear winter light for photos while the sun is still out.\n\nIn the evening we head back early, as the sunset around 5 PM causes temperatures to drop quickly across the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Vallées",
+                "hu": "Chapelle Notre-Dame-des-Vallées",
+                "ro": "Capela Notre-Dame-des-Vallées",
+                "en": "Chapelle Notre-Dame-des-Vallées"
+              },
+              "tip_5lang": {
+                "de": "Der hohe Aussichtspunkt bietet einen atemberaubenden Blick auf das frostbedeckte Tal; stellen Sie sicher, dass Ihre Autoheizung gut funktioniert.",
+                "hu": "A magaslati pontról lenyűgöző kilátás nyílik a zúzmarás völgyre; győződj meg róla, hogy az autó fűtése jól működik a felfelé úton.",
+                "ro": "Punctul de observație înalt oferă o vedere uimitoare asupra văii acoperite de chiciură; asigură-te că încălzirea mașinii funcționează bine.",
+                "en": "The high vantage point offers stunning views of the frost-covered valley; ensure your car's heater is working well for the drive up."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Martin-des-Champs",
+                "hu": "Chapelle Saint-Martin-des-Champs",
+                "ro": "Capela Saint-Martin-des-Champs",
+                "en": "Chapelle Saint-Martin-des-Champs"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen in den schattigen Kurven der kleinen Straßen, die zu dieser Kapelle führen, und genießen Sie die stille Landschaft.",
+                "hu": "Figyelj a jeges foltokra a kápolnához vezető kis utak árnyékos kanyarjaiban, és élvezd a békés, tiszta téli táj látványát menet közben.",
+                "ro": "Ai grijă la porțiunile înghețate de pe curbele umbrite ale drumurilor mici care duc la această capelă și bucură-te de peisajul liniștit.",
+                "en": "Check for icy patches on the shaded curves of the small roads leading to this chapel, and enjoy the serene winter landscape while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall (Hôtel de Ville)"
+              },
+              "tip_5lang": {
+                "de": "Der zentrale Platz sieht mit Winterbeleuchtung wunderschön aus; ein kurzer Spaziergang vom Auto aus reicht, um die Architektur ohne Kälte zu sehen.",
+                "hu": "A központi tér gyönyörű a téli fényekkel; egy rövid séta az autótól éppen elég, hogy megnézd az építészetet anélkül, hogy túlságosan áthűlnél.",
+                "ro": "Piața centrală arată minunat cu luminile de iarnă; o scurtă plimbare de la mașină este suficientă pentru a vedea arhitectura fără a îngheța.",
+                "en": "The central square looks beautiful with winter lights; a short walk from the car is perfect to see the architecture without getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Charles Léandre Museum",
+                "hu": "Charles Léandre Múzeum",
+                "ro": "Muzeul Charles Léandre",
+                "en": "Charles Léandre Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und genießen Sie das Museum als Hauptaktivität im Haus, das Schutz vor den eisigen Nachmittagstemperaturen bietet.",
+                "hu": "Parkolj le a közelben, és élvezd a múzeumot mint fő benti programot, mely védelmet nyújt a fagyos délutáni hőmérsékletek elől a városban.",
+                "ro": "Parchează în apropiere și bucură-te de muzeu ca activitate principală la interior, oferind protecție împotriva temperaturilor scăzute.",
+                "en": "Park nearby and enjoy the museum as your main indoor activity, providing a cozy atmosphere and protection from the freezing afternoon temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Maurice Piard Park",
+                "hu": "Maurice Piard Park",
+                "ro": "Parcul Maurice Piard",
+                "en": "Maurice Piard Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park am frühen Nachmittag, um das beste Licht einzufangen, da die Wintersonne früh untergeht und die Kälte danach zunimmt.",
+                "hu": "Látogasd meg a parkot kora délután, hogy elkapd a legszebb fényeket, mivel a téli nap korán nyugszik, és utána hirtelen hűl le a levegő.",
+                "ro": "Vizitează parcul după-amiaza devreme pentru a surprinde cea mai bună lumină, deoarece soarele apune devreme și frigul se intensifică.",
+                "en": "Visit the park in the early afternoon to catch the best light, as the winter sun sets early and the temperatures drop quickly after 4 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

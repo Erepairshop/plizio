@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Saint-Cyprien kulturális lüktetésének felfedezésével, magába szívva a művészeti gyűjteményeket és a békés plébániai légkört. Ahogy közeledik a dél, kövesse a vizet a nyüzsgő kikötő felé, amely a tengeri tevékenységek központja. A délután békés kikapcsolódást kínál a buja botanikus kertek és a homokos tengerpartok között. Zárja a napot a csendes mediterrán hullámok és az aranyórai fények ölelésében.",
         "ro": "Începeți-vă dimineața descoperind ritmul cultural din Saint-Cyprien, absorbind colecțiile sale artistice și atmosfera pașnică a parohiei. Pe măsură ce se apropie prânzul, urmați apa spre portul plin de viață, un centru vibrant al activității maritime. După-amiaza oferă o evadare senină printre grădinile botanice luxuriante și țărmurile nisipoase de coastă. Încheiați ziua îmbrățișând valurile liniștite ale Mediteranei și nuanțele aurii.",
         "en": "Begin your morning discovering the cultural heartbeat of Saint-Cyprien, absorbing its rich artistic collections and peaceful parish atmosphere. As midday approaches, follow the water towards the bustling port, a vibrant hub of maritime activity. The afternoon offers a serene escape among lush botanical gardens and sandy coastal shores. End your day embracing the tranquil Mediterranean waves and golden hour hues."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Spaziergang im Schutz des Museums. Mittags bietet die Pfarrkirche einen trockenen Rückzugsort. Am Nachmittag erleben Sie die Lagune und den Hafen in einer dramatischen, regnerischen Atmosphäre. Der Tag endet mit einem erfrischenden, aber nassen Strandspaziergang unter dem Regenschirm.",
+            "hu": "Kezdje a sétát a múzeum fedett tereiben. Délben a plébániatemplom nyújt száraz menedéket. Délután a lagúna és a kikötő drámai, esős arcát fedezheti fel. A napot egy frissítő, esernyős tengerparti séta zárja, ahol a hullámok morajlása dominál.",
+            "ro": "Începeți plimbarea în interiorul muzeului. La prânz, biserica parohială oferă un refugiu uscat. După-amiaza, descoperiți laguna și portul sub o atmosferă ploioasă dramatică. Ziua se încheie cu o plimbare revigorantă pe plajă sub umbrelă.",
+            "en": "Start your walk inside the shelter of the museum. At noon, the parish church provides a dry retreat. In the afternoon, explore the lagoon and harbor in a dramatic, rainy atmosphere. The day ends with a refreshing beach walk under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Collections de Saint-Cyprien",
+                "hu": "Les Collections de Saint-Cyprien",
+                "ro": "Les Collections de Saint-Cyprien",
+                "en": "Les Collections de Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regentag, um die Kunstsammlungen in aller Ruhe trocken zu bewundern; die Innenräume sind perfekt klimatisiert und einladend.",
+                "hu": "Használja ki az esős időt a művészeti gyűjtemény nyugodt megtekintésére; a belső terek tökéletes menedéket nyújtanak a csapadék elől.",
+                "ro": "Profită de ploaie pentru a admira colecțiile de artă în liniște și la adăpost; spațiile interioare sunt primitoare și perfect uscate.",
+                "en": "Take advantage of the rain to admire the art collections in peace and shelter; the interior spaces are welcoming and perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Saint-Cyprien",
+                "hu": "Saint-Cyprien Plébániatemplom",
+                "ro": "Biserica Parohială Saint-Cyprien",
+                "en": "Saint-Cyprien Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Das massive Mauerwerk schirmt das Geräusch des Regens ab; genießen Sie die spirituelle Stille, während Sie auf eine Regenpause warten.",
+                "hu": "A vastag falak kizárják az eső kopogását; élvezze a spirituális csendet, miközben megvárja, amíg alábbhagy a zápor.",
+                "ro": "Zidurile masive izolează sunetul ploii; bucurați-vă de liniștea spirituală în timp ce așteptați să se oprească precipitațiile.",
+                "en": "The thick walls block out the sound of the rain; enjoy the spiritual silence while waiting for the shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagune von Saint-Cyprien",
+                "hu": "Saint-Cyprien Lagúna",
+                "ro": "Laguna Saint-Cyprien",
+                "en": "Saint-Cyprien Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade können rutschig sein; tragen Sie wasserfeste Schuhe, um die Vögel zu beobachten, die im Regen besonders aktiv sind.",
+                "hu": "Az ösvények csúszósak lehetnek; viseljen vízálló cipőt a madarak megfigyeléséhez, amelyek esőben gyakran közelebb merészkednek.",
+                "ro": "Potecile pot fi alunecoase; purtați încălțăminte impermeabilă pentru a observa păsările care sunt foarte active pe ploaie.",
+                "en": "The paths can be slippery; wear waterproof shoes to observe the birds, which are often very active during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Saint-Cyprien",
+                "hu": "Saint-Cyprien Kikötője",
+                "ro": "Portul Saint-Cyprien",
+                "en": "Port of Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Tanzen der Regentropfen auf dem Meerwasser vom Schutz der überdachten Hafenmole aus; Vorsicht vor glatten Steinen.",
+                "hu": "Figyelje az esőcseppek táncát a tengeren a kikötő fedett részeiről; vigyázzon a móló csúszós köveire a séta közben.",
+                "ro": "Urmăriți picăturile de ploaie pe mare din zona acoperită a portului; atenție la pietrele alunecoase de pe dig în timpul mersului.",
+                "en": "Watch the raindrops dancing on the sea from the sheltered areas of the port; watch out for slippery stones on the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Capellans",
+                "hu": "Capellans Botanikus Kert",
+                "ro": "Grădina Botanică Capellans",
+                "en": "Capellans Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Die exotischen Pflanzen wirken im Regen besonders satt; suchen Sie Schutz unter den großen Palmenblättern oder in den Pavillons.",
+                "hu": "Az egzotikus növények színe esőben még élénkebb; keressen menedéket a nagy pálmalevelek alatt vagy a kerti pavilonokban.",
+                "ro": "Plantele exotice par mai vii pe ploaie; căutați adăpost sub frunzele mari de palmier sau în pavilioanele din grădină.",
+                "en": "Exotic plants look more vibrant in the rain; seek shelter under large palm leaves or in the garden pavilions."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand de la Lagune",
+                "hu": "La Lagune Strand",
+                "ro": "Plaja de la Lagune",
+                "en": "Plage de la Lagune"
+              },
+              "tip_5lang": {
+                "de": "Ein Strandspaziergang im Regen bietet eine einzigartige Melancholie; halten Sie Abstand zur Brandung, da der Sand instabil sein kann.",
+                "hu": "Az esős tengerparti séta különleges melankóliát áraszt; tartson távolságot a hullámveréstől, mert a homok ilyenkor lazább lehet.",
+                "ro": "O plimbare pe plajă pe ploaie oferă o melancolie aparte; păstrați distanța de valuri, deoarece nisipul poate fi instabil.",
+                "en": "A beach walk in the rain offers a unique melancholy; keep your distance from the surf as the wet sand can be unstable."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch im Museum. Mittags wärmt der Besuch der Kirche Körper und Geist. Am Nachmittag leuchtet die Lagune im klaren Winterlicht, bevor die Sonne gegen 17:00 Uhr untergeht. Genießen Sie die winterliche Stille am Strand, dick eingepackt in Ihre Winterjacke.",
+            "hu": "A téli reggel frissen indul a múzeumban. Délben a templom látogatása melengeti meg a lelket. Délután a lagúna tiszta téli fényben tündököl, mielőtt a nap 17:00 körül nyugovóra tér. Élvezze a tengerparti csendet vastag kabátba burkolózva.",
+            "ro": "Dimineața de iarnă începe proaspăt la muzeu. La prânz, vizita la biserică vă va încălzi sufletul. După-amiaza, laguna strălucește în lumina clară de iarnă, înainte ca soarele să apună în jur de ora 17:00.",
+            "en": "The winter morning starts freshly at the museum. At noon, visiting the church warms the soul. In the afternoon, the lagoon shines in clear winter light before the sun sets around 17:00. Enjoy the coastal silence wrapped in a thick coat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Collections de Saint-Cyprien",
+                "hu": "Les Collections de Saint-Cyprien",
+                "ro": "Les Collections de Saint-Cyprien",
+                "en": "Les Collections de Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um der Morgenkälte zu entfliehen; die beheizten Galerien bieten einen gemütlichen Ort für Kunstliebhaber.",
+                "hu": "Kezdje itt a napot, hogy elkerülje a reggeli fagyot; a fűtött galériák meghitt helyszínt biztosítanak a művészetkedvelőknek.",
+                "ro": "Începeți aici pentru a evita frigul dimineții; galeriile încălzite oferă un loc primitor pentru iubitorii de artă.",
+                "en": "Start here to escape the morning chill; the heated galleries provide a cozy setting for art lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Saint-Cyprien",
+                "hu": "Saint-Cyprien Plébániatemplom",
+                "ro": "Biserica Parohială Saint-Cyprien",
+                "en": "Saint-Cyprien Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist windgeschützt und friedlich; bewundern Sie die historischen Details in der ruhigen Atmosphäre der Nebensaison.",
+                "hu": "A templom belső tere szélvédett és békés; csodálja meg a történelmi részleteket a holtszezon nyugodt hangulatában.",
+                "ro": "Interiorul este protejat de vânt și liniștit; admirați detaliile istorice în atmosfera calmă a extrasezonului.",
+                "en": "The interior is wind-sheltered and peaceful; admire the historical details in the calm atmosphere of the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagune von Saint-Cyprien",
+                "hu": "Saint-Cyprien Lagúna",
+                "ro": "Laguna Saint-Cyprien",
+                "en": "Saint-Cyprien Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie einen winddichten Mantel, da die Brise an der Lagune im Winter schneidend sein kann; perfekt für klare Fotomotive.",
+                "hu": "Viseljen szélálló kabátot, mert a lagúna felőli szél télen metsző lehet; a tiszta levegő miatt a látótávolság viszont kiváló.",
+                "ro": "Purtați o haină rezistentă la vânt, deoarece briza lagunei poate fi tăioasă iarna; aerul curat oferă o vizibilitate excelentă.",
+                "en": "Wear a windproof coat as the lagoon breeze can be biting in winter; however, the clear air offers excellent visibility for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Saint-Cyprien",
+                "hu": "Saint-Cyprien Kikötője",
+                "ro": "Portul Saint-Cyprien",
+                "en": "Port of Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter angenehm leer; genießen Sie den Blick auf die schneebedeckten Pyrenäen im Hintergrund bei klarer Sicht.",
+                "hu": "A kikötő télen kellemesen üres; tiszta időben élvezze a háttérben magasodó, hófödte Pireneusok látványát a mólóról.",
+                "ro": "Portul este plăcut de gol iarna; bucurați-vă de vederea Pirineilor înzăpeziți în fundal în zilele senine.",
+                "en": "The port is pleasantly empty in winter; enjoy the view of the snow-capped Pyrenees in the background on clear days."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Capellans",
+                "hu": "Capellans Botanikus Kert",
+                "ro": "Grădina Botanică Capellans",
+                "en": "Capellans Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die winterharten Pflanzenarten; die Wege sind weniger belebt, was einen sehr meditativen Spaziergang ermöglicht.",
+                "hu": "Figyelje meg a télálló növényfajokat; az ösvények kevésbé zsúfoltak, ami meditatív hangulatú sétát tesz lehetővé.",
+                "ro": "Observați speciile de plante rezistente la iarnă; aleile sunt mai puțin aglomerate, permițând o plimbare meditativă.",
+                "en": "Observe the winter-hardy plant species; the paths are less crowded, allowing for a meditative walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand de la Lagune",
+                "hu": "La Lagune Strand",
+                "ro": "Plaja de la Lagune",
+                "en": "Plage de la Lagune"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor 17:00 Uhr, um den winterlichen Sonnenuntergang zu erleben; die Farben über dem Meer sind oft spektakulär.",
+                "hu": "Érkezzen 17:00 előtt, hogy elcsípje a téli naplementét; a tenger feletti színek ilyenkor gyakran látványosabbak.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a surprinde apusul de iarnă; culorile de deasupra mării sunt adesea spectaculoase.",
+                "en": "Arrive before 17:00 to catch the winter sunset; the colors over the sea are often spectacular this time of year."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a reggelt Saint-Cyprien kulturális lüktetésének felfedezésével, magába szívva a művészeti gyűjteményeket. Ahogy közeledik a dél, kövesse a vizet a nyüzsgő kikötő felé kerékpárral. A délután egy kellemes tekerést kínál a buja botanikus kertekhez és tovább a csodálatos északi strandokhoz. Zárja a napot a csendes mediterrán hullámok ölelésében, békés hangulatban.",
         "ro": "Începeți-vă dimineața descoperind ritmul cultural din Saint-Cyprien, absorbind colecțiile sale artistice. Pe măsură ce se apropie prânzul, urmați apa spre portul plin de viață pe bicicletă. După-amiaza oferă o plimbare plăcută spre grădinile botanice luxuriante și mai departe către plajele superbe din nord. Încheiați ziua îmbrățișând valurile liniștite ale Mediteranei într-o atmosferă liniștită.",
         "en": "Begin your morning discovering the cultural heartbeat of Saint-Cyprien, absorbing its rich artistic collections before cycling to the lagoon. As midday approaches, follow the water towards the bustling port, a vibrant hub of maritime activity. The afternoon offers a two-wheeled journey to lush botanical gardens and further up to the magnificent northern beaches. End your day embracing the tranquil Mediterranean waves in peace."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf glatten Wegen. Starten Sie bei den Sammlungen, um trocken zu bleiben. Mittags bietet die Lagune ein graues Panorama. Der Hafen und der Garten sind schnell erreichbar, bevor Sie die Küstenabschnitte befahren. Vorsicht bei Kurven auf nassem Asphalt.",
+            "hu": "Az esős biciklitúra óvatosságot igényel a csúszós utakon. Kezdje a múzeumban, hogy száraz maradjon. Délben a lagúna szürke panorámát kínál. A kikötő és a kert gyorsan elérhető, mielőtt a part menti szakaszokra indulna. Vigyázzon a kanyarokban a nedves aszfalton.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile alunecoase. Începeți la muzeu pentru a rămâne uscați. La prânz, laguna oferă o panoramă gri. Portul și grădina sunt ușor accesibile înainte de a porni spre coastă.",
+            "en": "A rainy bike tour requires caution on slippery roads. Start at the museum to stay dry. At noon, the lagoon offers a grey panorama. The port and garden are quickly reachable before heading to the coastal sections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Collections de Saint-Cyprien",
+                "hu": "Les Collections de Saint-Cyprien",
+                "ro": "Les Collections de Saint-Cyprien",
+                "en": "Les Collections de Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Ort und genießen Sie die Ausstellung, bis der stärkste Regen nachlässt.",
+                "hu": "Parkolja le kerékpárját egy fedett helyen, és élvezze a kiállítást, amíg a legerősebb eső el nem vonul.",
+                "ro": "Parcați bicicleta într-un loc acoperit și bucurați-vă de expoziție până când trece ploaia torențială.",
+                "en": "Park your bike in a covered spot and enjoy the exhibition until the heaviest rain subsides."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagune von Saint-Cyprien",
+                "hu": "Saint-Cyprien Lagúna",
+                "ro": "Laguna Saint-Cyprien",
+                "en": "Saint-Cyprien Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege um die Lagune können Pfützen bilden; fahren Sie langsam, um Spritzwasser zu vermeiden und die Aussicht zu genießen.",
+                "hu": "A lagúna körüli kerékpárutakon tócsák alakulhatnak ki; hajtson lassan, hogy elkerülje a felverődő vizet.",
+                "ro": "Pistele de biciclete din jurul lagunei pot avea bălți; conduceți încet pentru a evita stropirea și pentru a admira peisajul.",
+                "en": "Bike paths around the lagoon may have puddles; ride slowly to avoid splashing water and to enjoy the view safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Saint-Cyprien",
+                "hu": "Saint-Cyprien Kikötője",
+                "ro": "Portul Saint-Cyprien",
+                "en": "Port of Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Der Bodenbelag am Hafen ist bei Nässe extrem glatt; steigen Sie gegebenenfalls ab und schieben Sie Ihr Rad in Hafennähe.",
+                "hu": "A kikötő burkolata nedvesen rendkívül csúszós; szükség esetén szálljon le, és tolja a kerékpárt a mólók közelében.",
+                "ro": "Pavajul din port este extrem de alunecos când este ud; dacă este necesar, coborâți și împingeți bicicleta lângă dane.",
+                "en": "The port pavement is extremely slippery when wet; if necessary, dismount and push your bike near the docks."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Capellans",
+                "hu": "Capellans Botanikus Kert",
+                "ro": "Grădina Botanică Capellans",
+                "en": "Capellans Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Garten für eine kurze Pause vom Regen; die dichte Vegetation bietet natürlichen Schutz vor leichtem Tröpfeln.",
+                "hu": "Használja a kertet egy rövid pihenőre az eső elől; a sűrű növényzet természetes védelmet nyújt az enyhébb csapadék ellen.",
+                "ro": "Folosiți grădina pentru o scurtă pauză de ploaie; vegetația deasă oferă protecție naturală împotriva burniței ușoare.",
+                "en": "Use the garden for a short break from the rain; the dense vegetation offers natural protection against light drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand du Pont Tournant",
+                "hu": "Pont Tournant Strand",
+                "ro": "Plaja du Pont Tournant",
+                "en": "Plage du Pont Tournant"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor Sand auf dem Radweg, der bei Regen zu klebrigem Schlamm werden kann; halten Sie Ihre Bremsen sauber.",
+                "hu": "Vigyázzon a kerékpárútra felhordott homokkal, amely esőben ragacsos sárgá válhat; tartsa tisztán a fékeket.",
+                "ro": "Atenție la nisipul de pe pista de biciclete, care se poate transforma în noroi lipicios pe ploaie; păstrați frânele curate.",
+                "en": "Watch out for sand on the bike path, which can turn into sticky mud in the rain; keep your brakes clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand de l'Art",
+                "hu": "L'Art Strand",
+                "ro": "Plaja de l'Art",
+                "en": "Plage de l'Art"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist dem Wind und Regen voll ausgesetzt; tragen Sie eine hochwertige Regenjacke mit Kapuze.",
+                "hu": "A parti út teljes mértékben ki van téve a szélnek és az esőnek; viseljen jó minőségű, kapucnis esőkabátot.",
+                "ro": "Drumul de coastă este complet expus vântului și ploii; purtați o jachetă de ploaie de calitate cu glugă.",
+                "en": "The coastal road is fully exposed to wind and rain; wear a high-quality rain jacket with a hood."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Nord",
+                "hu": "Északi Strand",
+                "ro": "Plaja de Nord",
+                "en": "Plage Nord"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour zügig, da die Sicht bei Regen schnell abnehmen kann; schalten Sie unbedingt Ihr Fahrradlicht ein.",
+                "hu": "Fejezze be gyorsan a túrát, mert esőben a látótávolság hirtelen csökkenhet; feltétlenül kapcsolja be a kerékpárlámpát.",
+                "ro": "Încheiați rapid tura, deoarece vizibilitatea poate scădea brusc pe ploaie; asigurați-vă că aveți luminile aprinse.",
+                "en": "Finish your tour promptly as visibility can drop suddenly in the rain; make sure to turn on your bike lights."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert warme Kleidung gegen den Fahrtwind. Starten Sie im warmen Museum. Die Lagune und der Hafen zeigen sich in klarer, kalter Luft. Am Nachmittag radeln Sie entlang der Strände, während das Licht weicher wird. Beenden Sie die Tour am Nordstrand vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli kerékpározáshoz meleg öltözet szükséges a menetszél ellen. Kezdjen a fűtött múzeumban. A lagúna és a kikötő tiszta, hideg levegőben mutatja meg magát. Délután tekerjen a strandok mentén. Fejezze be a túrát az északi strandon a korai, 17:00-ás naplemente előtt.",
+            "ro": "Ciclismul de iarnă necesită haine groase împotriva vântului. Începeți la muzeul încălzit. Laguna și portul se dezvăluie în aerul rece și clar. După-amiaza pedalați de-a lungul plajelor. Încheiați tura înainte de apusul de la ora 17:00.",
+            "en": "Winter cycling requires warm clothing against the wind chill. Start at the heated museum. The lagoon and port show themselves in clear, cold air. In the afternoon, cycle along the beaches. Finish the tour at North Beach before the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Collections de Saint-Cyprien",
+                "hu": "Les Collections de Saint-Cyprien",
+                "ro": "Les Collections de Saint-Cyprien",
+                "en": "Les Collections de Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier auf, bevor Sie Ihre Fahrt fortsetzen; die Ausstellungen sind eine perfekte Pause von der Winterkälte.",
+                "hu": "Melegedjen fel itt, mielőtt folytatná az utat; a kiállítások tökéletes pihenőt jelentenek a téli hidegben.",
+                "ro": "Încălziți-vă aici înainte de a continua drumul; expozițiile sunt o pauză perfectă de la frigul iernii.",
+                "en": "Warm up here before continuing your ride; the exhibitions are a perfect break from the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagune von Saint-Cyprien",
+                "hu": "Saint-Cyprien Lagúna",
+                "ro": "Laguna Saint-Cyprien",
+                "en": "Saint-Cyprien Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Der Fahrtwind an der Lagune ist im Winter sehr kalt; tragen Sie Handschuhe und ein Halstuch, um nicht auszukühlen.",
+                "hu": "A menetszél a lagúnánál télen nagyon hideg; viseljen kesztyűt és sálat, hogy ne fázzon meg tekerés közben.",
+                "ro": "Vântul în timpul mersului pe lângă lagună este foarte rece iarna; purtați mănuși și fular pentru a nu răci.",
+                "en": "The wind chill by the lagoon is very cold in winter; wear gloves and a scarf to stay warm while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Saint-Cyprien",
+                "hu": "Saint-Cyprien Kikötője",
+                "ro": "Portul Saint-Cyprien",
+                "en": "Port of Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Hafen ohne die sommerlichen Menschenmassen; die klare Winterluft bietet eine weite Fernsicht.",
+                "hu": "Élvezze a kikötői nyugalmat a nyári tömeg nélkül; a tiszta téli levegő fantasztikus távolsági kilátást tesz lehetővé.",
+                "ro": "Bucurați-vă de liniștea portului fără mulțimea de vară; aerul curat de iarnă oferă o vizibilitate excelentă la distanță.",
+                "en": "Enjoy the harbor's tranquility without the summer crowds; the clear winter air offers fantastic long-distance views."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Capellans",
+                "hu": "Capellans Botanikus Kert",
+                "ro": "Grădina Botanică Capellans",
+                "en": "Capellans Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und machen Sie einen kurzen Spaziergang, um die Blutzirkulation in den Beinen anzuregen.",
+                "hu": "Tegye le a kerékpárt, és tegyen egy rövid sétát, hogy felpezsdítse a vérkeringését a hidegben.",
+                "ro": "Lăsați bicicleta și faceți o scurtă plimbare pentru a vă stimula circulația sângelui în picioare.",
+                "en": "Park your bike and take a short walk to stimulate your circulation in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand du Pont Tournant",
+                "hu": "Pont Tournant Strand",
+                "ro": "Plaja du Pont Tournant",
+                "en": "Plage du Pont Tournant"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren blenden; eine Sonnenbrille ist trotz der Kälte empfehlenswert.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat tekerés közben; a hideg ellenére egy napszemüveg ajánlott.",
+                "ro": "Soarele jos de iarnă vă poate orbi în timp ce pedalați; o pereche de ochelari de soare este recomandată în ciuda frigului.",
+                "en": "The low winter sun can blind you while riding; sunglasses are recommended despite the cold temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand de l'Art",
+                "hu": "L'Art Strand",
+                "ro": "Plaja de l'Art",
+                "en": "Plage de l'Art"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für Fotos; die Strände wirken im Winterlicht beinahe surreal und weitläufig.",
+                "hu": "Használja ki az utolsó nappali fényeket fotózáshoz; a strandok a téli világításban szinte szürreálisnak és tágasnak tűnnek.",
+                "ro": "Profitați de ultima lumină a zilei pentru fotografii; plajele par aproape ireale și vaste în lumina iernii.",
+                "en": "Use the last daylight for photos; the beaches look almost surreal and vast in the winter lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Nord",
+                "hu": "Északi Strand",
+                "ro": "Plaja de Nord",
+                "en": "Plage Nord"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie bis 17:00 Uhr zurück sind, da es danach sehr schnell dunkel und empfindlich kälter wird.",
+                "hu": "Ügyeljen rá, hogy 17:00-ig visszaérjen, mert utána hirtelen besötétedik és jelentősen lehűl a levegő.",
+                "ro": "Asigurați-vă că vă întoarceți până la ora 17:00, deoarece după aceea se întunecă rapid și devine mult mai frig.",
+                "en": "Ensure you are back by 17:00, as it gets dark very quickly and the temperature drops significantly afterwards."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kezdje a reggelt Saint-Cyprien szívében, a békés plébániatemplom és a történelmi múzeum megtekintésével. Folytassa útját autóval a buja botanikus kertekhez, majd élvezze a nyüzsgő kikötői ebédet. A délután a strandok felfedezéséről szól dél felé haladva, megtapasztalva az érintetlen homokos partokat. Fejezze be autós kalandját Argelès-sur-Mer határánál, ahol a Pireneusok hegyei találkoznak a tengerrel.",
         "ro": "Începeți-vă dimineața în inima orașului Saint-Cyprien, vizitând biserica parohială liniștită și muzeul istoric. Continuați-vă călătoria cu mașina către grădinile botanice luxuriante, urmată de un prânz plin de viață în port. După-amiaza este dedicată explorării plajelor îndreptându-vă spre sud, experimentând nisipuri imaculate. Încheiați-vă aventura cu mașina la granița cu Argelès-sur-Mer, unde Munții Pirinei întâlnesc marea.",
         "en": "Begin your morning in the heart of Saint-Cyprien, visiting the tranquil parish church and historic museum. Continue your drive to the lush Botanical Gardens before a lively harbor-side lunch. The afternoon is all about beach hopping downwards to the south, experiencing pristine stretches of sand. Conclude your driving adventure on the border of Argelès-sur-Mer, where the Pyrenees mountains dramatically meet the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Begleiter. Starten Sie trocken bei der Kirche und dem Museum. Mittags fahren Sie zum Garten und Hafen, wobei Sie die Regenschauer aus dem warmen Fahrzeug beobachten. Nachmittags bieten die Strände von Argelès dramatische Ausblicke auf die aufgewühlte See, alles bequem vom Fahrersitz aus.",
+            "hu": "Az autó ma a legjobb választás. Kezdje szárazon a templomnál és a múzeumban. Délben látogasson el a kertbe és a kikötőbe, miközben a fűtött járműből figyeli a záporokat. Délután az Argelès strandjai drámai kilátást nyújtanak a háborgó tengerre, mindezt kényelmesen a vezetőülésből.",
+            "ro": "Mașina este cea mai bună alegere astăzi. Începeți la biserică și la muzeu, feriți de ploaie. La prânz, vizitați grădina și portul. După-amiaza, plajele din Argelès oferă vederi dramatice asupra mării agitate, totul din confortul scaunului șoferului.",
+            "en": "The car is your best companion today. Start dry at the church and museum. At noon, visit the garden and port, watching the showers from your warm vehicle. In the afternoon, the Argelès beaches offer dramatic views of the choppy sea, all from the comfort of the driver's seat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pfarrkirche Saint-Cyprien",
+                "hu": "Saint-Cyprien Plébániatemplom",
+                "ro": "Biserica Parohială Saint-Cyprien",
+                "en": "Saint-Cyprien Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um den Weg im Regen so kurz wie möglich zu halten; das Innere bietet eine trockene Zuflucht.",
+                "hu": "Parkoljon közvetlenül előtte, hogy az esőben megtett utat a lehető legrövidebbre fogja; a belső tér száraz menedéket kínál.",
+                "ro": "Parcați direct în față pentru a scurta cât mai mult drumul prin ploaie; interiorul oferă un refugiu uscat.",
+                "en": "Park directly in front to keep the distance in the rain as short as possible; the interior offers a dry refuge."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Collections de Saint-Cyprien",
+                "hu": "Les Collections de Saint-Cyprien",
+                "ro": "Les Collections de Saint-Cyprien",
+                "en": "Les Collections de Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Dauerregen; verbringen Sie hier mehr Zeit, um die Kunstwerke ohne Eile im Trockenen zu studieren.",
+                "hu": "Ideális megálló tartós esőben; töltsön itt több időt, és tanulmányozza a műalkotásokat sietség nélkül, száraz helyen.",
+                "ro": "O oprire ideală în caz de ploaie persistentă; petreceți mai mult timp aici studiind operele de artă fără grabă.",
+                "en": "An ideal stop during persistent rain; spend more time here studying the artworks without rush in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Capellans",
+                "hu": "Capellans Botanikus Kert",
+                "ro": "Grădina Botanică Capellans",
+                "en": "Capellans Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschirm für einen kurzen Rundgang; die Pflanzen verströmen bei Nässe oft einen intensiveren Duft.",
+                "hu": "Használjon esernyőt egy rövid körsétához; a növények esőben gyakran intenzívebb illatot árasztanak.",
+                "ro": "Folosiți o umbrelă pentru o scurtă plimbare; plantele emană adesea un miros mai intens atunci când sunt udate de ploaie.",
+                "en": "Use an umbrella for a quick tour; the plants often emit a more intense fragrance when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Saint-Cyprien",
+                "hu": "Saint-Cyprien Kikötője",
+                "ro": "Portul Saint-Cyprien",
+                "en": "Port of Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Sie können im Auto am Hafenrand parken und das geschäftige Treiben der Fischerboote beobachten, ohne nass zu werden.",
+                "hu": "A kikötő szélén az autóban ülve is megfigyelheti a halászhajók mozgását anélkül, hogy bőrig ázna.",
+                "ro": "Puteți parca la marginea portului și urmări activitatea bărcilor de pescuit din mașină, fără a vă uda.",
+                "en": "You can park at the edge of the port and watch the fishing boats' activity from your car without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Sud",
+                "hu": "Déli Strand",
+                "ro": "Plaja de Sud",
+                "en": "Plage Sud"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen durch die Windschutzscheibe; die raue See wirkt im Regen besonders kraftvoll.",
+                "hu": "Élvezze a hullámok látványát a szélvédőn keresztül; a zord tenger esőben különösen erőteljesnek tűnik.",
+                "ro": "Bucurați-vă de vederea valurilor prin parbriz; marea agitată pare deosebit de puternică pe timp de ploaie.",
+                "en": "Enjoy the view of the waves through the windshield; the rough sea looks particularly powerful in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturiststrand du Bocal du Tech",
+                "hu": "Bocal du Tech Naturista Strand",
+                "ro": "Plaja naturistă du Bocal du Tech",
+                "en": "Plage naturiste du Bocal du Tech"
+              },
+              "tip_5lang": {
+                "de": "Dieser naturbelassene Strand ist im Regen menschenleer und bietet eine fast mystische Atmosphäre für Naturfotografen.",
+                "hu": "Ez az érintetlen strand esőben teljesen néptelen, szinte misztikus hangulatot áraszt a természetfotósok számára.",
+                "ro": "Această plajă naturală este pustie pe ploaie, oferind o atmosferă aproape mistică pentru fotografii de natură.",
+                "en": "This natural beach is deserted in the rain, offering an almost mystical atmosphere for nature photographers."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Argelès-sur-Mer",
+                "hu": "Argelès-sur-Mer Strandja",
+                "ro": "Plaja d'Argelès-sur-Mer",
+                "en": "Plage d'Argelès-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz in Strandnähe; beobachten Sie das Spiel der grauen Wolken über der Küstenlinie.",
+                "hu": "Hajtson el a strand közeli parkolóig; figyelje a szürke felhők játékát a partvonal felett a meleg autóból.",
+                "ro": "Conduceți până la parcarea de lângă plajă; urmăriți jocul norilor gri deasupra liniei de coastă din mașina caldă.",
+                "en": "Drive to the parking lot near the beach; watch the play of grey clouds over the coastline from your warm car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour verbindet Kultur und Küste. Vormittags wärmen Kirche und Museum. Mittags genießen Sie die botanische Vielfalt und den Hafen in der klaren Winterluft. Die Fahrt zu den südlichen Stränden bietet weite Ausblicke, bevor Sie den spektakulären Sonnenuntergang in Argelès vor 17:00 Uhr erleben.",
+            "hu": "A téli autós kirándulás összeköti a kultúrát és a partvidéket. Délelőtt a templom és a múzeum melegít fel. Délben a botanikai változatosságot és a kikötőt élvezheti a tiszta téli levegőben. Az út a déli strandokhoz tágas kilátást nyújt a 17:00-ás naplemente előtt.",
+            "ro": "O excursie de iarnă cu mașina îmbină cultura cu zona de coastă. Dimineața, biserica și muzeul vă vor încălzi. La prânz, bucurați-vă de diversitatea botanică și de port. Drumul spre plajele din sud oferă vederi largi înainte de apusul de la ora 17:00.",
+            "en": "A winter drive combines culture and coast. In the morning, the church and museum warm you up. At noon, enjoy the botanical variety and the harbor in the clear winter air. The drive to the southern beaches offers wide views before the spectacular sunset in Argelès before 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pfarrkirche Saint-Cyprien",
+                "hu": "Saint-Cyprien Plébániatemplom",
+                "ro": "Biserica Parohială Saint-Cyprien",
+                "en": "Saint-Cyprien Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Das dicke Mauerwerk speichert die Kühle, aber es ist windstill; ideal für einen Moment der Ruhe am frostigen Morgen.",
+                "hu": "A vastag falak tartják a hűvöst, de szélcsendesek; ideális egy pillanatnyi nyugalomhoz a fagyos reggelen.",
+                "ro": "Zidurile groase mențin răcoarea, dar nu este vânt; ideal pentru un moment de liniște în dimineața geroasă.",
+                "en": "The thick walls keep the interior cool but windless; ideal for a moment of peace on a frosty morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Collections de Saint-Cyprien",
+                "hu": "Les Collections de Saint-Cyprien",
+                "ro": "Les Collections de Saint-Cyprien",
+                "en": "Les Collections de Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung des Museums, um sich nach dem Aussteigen aufzuwärmen; die Ausstellungen sind im Winter besonders ruhig.",
+                "hu": "Használja ki a múzeum fűtését, hogy felmelegedjen; a kiállítások télen különösen nyugodt körülmények között tekinthetők meg.",
+                "ro": "Profitați de încălzirea muzeului pentru a vă încălzi; expozițiile pot fi vizitate în condiții deosebit de liniștite iarna.",
+                "en": "Take advantage of the museum's heating to warm up; the exhibitions can be viewed in especially peaceful conditions in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Capellans",
+                "hu": "Capellans Botanikus Kert",
+                "ro": "Grădina Botanică Capellans",
+                "en": "Capellans Botanical Garden"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang durch die winterliche Vegetation; die tiefstehende Sonne erzeugt tolle Lichteffekte im Laub.",
+                "hu": "Tegyen egy élénk sétát a téli növényzet között; az alacsonyan járó nap izgalmas fényhatásokat hoz létre a lombok között.",
+                "ro": "Faceți o plimbare revigorantă prin vegetația de iarnă; soarele jos creează efecte de lumină interesante printre frunze.",
+                "en": "Take a brisk walk through the winter vegetation; the low sun creates exciting lighting effects among the foliage."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Saint-Cyprien",
+                "hu": "Saint-Cyprien Kikötője",
+                "ro": "Portul Saint-Cyprien",
+                "en": "Port of Saint-Cyprien"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter stressfrei; genießen Sie den Blick auf die leeren Bootsstege und das glitzernde Wasser.",
+                "hu": "A parkolás télen teljesen stresszmentes; élvezze az üres hajómólók és a csillogó víz látványát a mólóról.",
+                "ro": "Parcarea este total lipsită de stres iarna; bucurați-vă de vederea pontoanelor goale și a apei sclipitoare.",
+                "en": "Parking is completely stress-free in winter; enjoy the view of the empty boat piers and the sparkling water from the dock."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Sud",
+                "hu": "Déli Strand",
+                "ro": "Plaja de Sud",
+                "en": "Plage Sud"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Strand lohnt sich für die frische Meeresbrise; tragen Sie eine Mütze gegen den kalten Wind.",
+                "hu": "Egy rövid megálló a strandon megéri a friss tengeri szellő miatt; viseljen sapkát a hideg szél ellen.",
+                "ro": "O scurtă oprire pe plajă merită pentru briza marină proaspătă; purtați o căciulă împotriva vântului rece.",
+                "en": "A short stop at the beach is worth it for the fresh sea breeze; wear a hat to protect against the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturiststrand du Bocal du Tech",
+                "hu": "Bocal du Tech Naturista Strand",
+                "ro": "Plaja naturistă du Bocal du Tech",
+                "en": "Plage naturiste du Bocal du Tech"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist dies ein Ort der absoluten Isolation und Ruhe; bewundern Sie die unberührte Küstenlandschaft vom Auto aus.",
+                "hu": "Télen ez a hely a tökéletes elszigeteltség és nyugalom szigete; csodálja meg az érintetlen tájat az autóból.",
+                "ro": "Iarna, acest loc este o insulă de izolare și liniște perfectă; admirați peisajul virgin din mașină.",
+                "en": "In winter, this place is an island of perfect isolation and peace; admire the untouched landscape from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Argelès-sur-Mer",
+                "hu": "Argelès-sur-Mer Strandja",
+                "ro": "Plaja d'Argelès-sur-Mer",
+                "en": "Plage d'Argelès-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie unbedingt vor 17:00 Uhr hier, um das spektakuläre Abendrot über den Pyrenäenausläufern am Meer zu erleben.",
+                "hu": "Feltétlenül érkezzen meg 17:00 előtt, hogy lássa a látványos alkonyi fényeket a Pireneusok lábainál a tengerparton.",
+                "ro": "Sosiți neapărat înainte de ora 17:00 pentru a vedea luminile spectaculoase ale amurgului la poalele Pirineilor, pe malul mării.",
+                "en": "Be sure to arrive before 17:00 to see the spectacular twilight colors at the foot of the Pyrenees by the sea."
+              }
+            }
+          ]
+        }
       }
     }
   }

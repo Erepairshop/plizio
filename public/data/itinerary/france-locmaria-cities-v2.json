@@ -160,6 +160,196 @@
         "hu": "A reggel a gyönyörű part menti építészettel és a helyi templom nyugodt légkörével kezdődik, mielőtt belemerülne a múzeum tengerészeti történetébe. A délután egy békés öbölbe és egy ősi, óceánra néző erődbe vezet. A délutáni kikapcsolódás Port Blanc érintetlen homokján várja Önt. Az estét egy drámai naplemente koronázza meg a történelmi déli sáncnál.",
         "ro": "Dimineața începe cu arhitectura frumoasă de coastă și atmosfera senină a bisericii locale, înainte de a pătrunde în istoria maritimă la muzeu. Amiaza vă aduce într-un golf pașnic și o fortăreață străveche cu vedere la oceanul albastru. Relaxarea de după-amiază vă așteaptă pe nisipurile imaculate din Port Blanc. Seara se încheie cu o vedere dramatică a apusului de la redutul istoric sudic.",
         "en": "Your morning starts with the beautiful coastal architecture and serene atmosphere of the local church before delving into maritime history at the museum. The midday brings you to a peaceful cove and an ancient fortress overlooking the blue ocean. Afternoon relaxation awaits at the pristine sands of Port Blanc. Evening concludes with a dramatic sunset view from the historic southern redoubt."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der historischen Kirche, während draußen der Regen auf die Küste peitscht. Mittags bietet die Kunstwerkstatt L’Atelier den perfekten trockenen Rückzugsort. Am Nachmittag trotzen wir den Elementen an den Klippen, wo die Brandung bei Regen besonders dramatisch wirkt. Den Abend lassen wir sicher im Ortskern ausklingen, weit weg von den rutschigen Pfaden.",
+            "hu": "A reggel a templom védelmében indul, miközben az eső mossa a partvidéket. Délben az L’Atelier műhelye nyújt tökéletes száraz menedéket és kulturális feltöltődést. Délután a sziklák mentén sétálva csodálhatjuk meg a drámai hullámzást, de a sár és a csúszós kövek miatt óvatosság kell. Estére a falu biztonságos fényei közé húzódunk vissza a nedves ösvényekről.",
+            "ro": "Dimineața începe la adăpost în biserica istorică, în timp ce ploaia spală coasta. La prânz, atelierul de artă oferă refugiul perfect și uscat. După-amiaza, explorăm falezele unde valurile sunt dramatice pe ploaie, dar atenție la potecile noroioase. Seara ne retragem în siguranța satului, evitând zonele alunecoase de pe marginea mării.",
+            "en": "The morning begins sheltered inside the historic church while rain lashes the coast. At midday, L’Atelier provides the perfect dry refuge for cultural exploration. In the afternoon, we witness the dramatic surf from the cliffs, though caution is needed on muddy paths. By evening, we retreat to the village center, staying clear of the slippery coastal trails."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille der Kirche, um den Regenschauer abzuwarten; bewundern Sie die Votivschiffe im Inneren, während Sie im Trockenen bleiben.",
+                "hu": "Használja ki a templom csendjét a zápor átvészelésére; csodálja meg a belső fogadalmi hajómodelleket, amíg kint esik az eső.",
+                "ro": "Folosiți liniștea bisericii pentru a aștepta trecerea ploii; admirați machetele de corăbii din interior în timp ce rămâneți la adăpost.",
+                "en": "Use the church's tranquility to wait out the rain shower; admire the ex-voto ship models inside while staying perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "L’Atelier",
+                "hu": "L’Atelier",
+                "ro": "L’Atelier",
+                "en": "L’Atelier"
+              },
+              "tip_5lang": {
+                "de": "Dieses Atelier ist der ideale Ort für regnerische Stunden; beobachten Sie die Töpfer bei der Arbeit und genießen Sie das warme Ambiente.",
+                "hu": "Ez a műhely ideális hely az esős órákra; nézze meg a fazekasokat munka közben, és élvezze a benti meleg, barátságos légkört.",
+                "ro": "Acest atelier este locul ideal pentru orele ploioase; observați olarii la lucru și bucurați-vă de ambianța caldă din interior.",
+                "en": "This studio is the ideal spot for rainy hours; watch the potters at work and enjoy the warm, welcoming indoor atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Crique de Port Maria",
+                "hu": "Crique de Port Maria",
+                "ro": "Crique de Port Maria",
+                "en": "Crique de Port Maria"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen mystisch, aber Vorsicht beim Abstieg; die Steine sind extrem rutschig, tragen Sie unbedingt feste Wanderschuhe.",
+                "hu": "Az öböl misztikus esőben, de vigyázzon a leereszkedésnél; a kövek rendkívül csúszósak, mindenképpen viseljen tapadós talpú túracipőt.",
+                "ro": "Golful pare mistic pe ploaie, dar atenție la coborâre; pietrele sunt extrem de alunecoase, purtați neapărat încălțăminte de munte.",
+                "en": "The cove looks mystical in the rain, but be careful descending; the rocks are extremely slippery, so wear sturdy hiking boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Port Maria",
+                "hu": "Fortin de Port Maria",
+                "ro": "Fortin de Port Maria",
+                "en": "Fortin de Port Maria"
+              },
+              "tip_5lang": {
+                "de": "Die alten Mauern bieten etwas Schutz vor dem Wind; nutzen Sie die Vorsprünge als Unterstand, um das graue Meer sicher zu beobachten.",
+                "hu": "A régi falak némi védelmet nyújtanak a szél ellen; használja a kiszögelléseket menedékként, hogy biztonságban figyelhesse a szürke tengert.",
+                "ro": "Zidurile vechi oferă puțin adăpost împotriva vântului; folosiți proeminențele ca paravan pentru a observa marea gri în siguranță.",
+                "en": "The old walls offer some protection from the wind; use the alcoves as shelter to watch the grey sea from a safe vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Blanc",
+                "hu": "Port Blanc",
+                "ro": "Port Blanc",
+                "en": "Port Blanc"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen leuchten die weißen Felsen besonders hell; bleiben Sie auf den markierten Wegen, da der Küstenpfad jetzt sehr schlammig ist.",
+                "hu": "Esőben a fehér sziklák különösen világítanak; maradjon a kijelölt utakon, mert a parti ösvény ilyenkor nagyon sáros és nehezen járható.",
+                "ro": "Pe ploaie, stâncile albe strălucesc intens; rămâneți pe potecile marcate, deoarece drumul de coastă este acum foarte noroios.",
+                "en": "In the rain, the white rocks glow intensely; stay on the marked paths as the coastal trail becomes very muddy and difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Réduit de la Pointe-d'Arzic",
+                "hu": "Réduit de la Pointe-d'Arzic",
+                "ro": "Réduit de la Pointe-d'Arzic",
+                "en": "Réduit de la Pointe-d'Arzic"
+              },
+              "tip_5lang": {
+                "de": "Ein dramatischer Abschluss im Regen; suchen Sie die windgeschützte Seite der Festung und achten Sie auf die Wellen am Kap.",
+                "hu": "Drámai befejezés az esőben; keresse az erőd szélvédett oldalát, és figyelje a foknál megtörő hatalmas hullámokat.",
+                "ro": "Un final dramatic pe ploaie; căutați partea adăpostită de vânt a fortăreței și observați valurile mari de la cap.",
+                "en": "A dramatic finish in the rain; seek the wind-sheltered side of the fortress and watch the massive waves breaking at the point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter beginnt der Tag mit klarer, kalter Luft in der stillen Kirche. Mittags wärmen wir uns bei der lokalen Handwerkskunst im L’Atelier auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Nachmittagslicht an der Küste intensiv. Der Abend bricht früh herein und wir genießen die winterliche Ruhe des fast menschenleeren Locmaria.",
+            "hu": "Télen a nap friss, hideg levegővel indul a csendes templomban. Délben az L’Atelier kézműves műhelyében melegedhetünk fel és inspirálódhatunk. Mivel a nap már 17:00 körül lemegy, a délutáni arany órákat a parton töltjük. Az este korán köszönt be, ilyenkor Locmaria téli nyugalma és a sziget magányos szépsége a legvonzóbb.",
+            "ro": "Iarna, ziua începe cu aer rece și curat în biserica liniștită. La prânz, ne încălzim în atelierul de meșteșuguri locale. Deoarece soarele apune deja în jur de ora 17:00, profităm din plin de lumina aurie de după-amiază pe coastă. Seara vine devreme, oferind ocazia de a savura calmul hibernal al satului.",
+            "en": "In winter, the day starts with crisp, cold air in the quiet church. At midday, we warm up while admiring local crafts at L’Atelier. As the sun sets around 17:00, we make the most of the golden afternoon light on the coast. Evening falls early, highlighting the serene winter solitude of Locmaria."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine Pause vom kalten Seewind; ziehen Sie sich warm an, da die historischen Gemäuer im Winter recht kühl sind.",
+                "hu": "A templom menedéket nyújt a hideg tengeri szél elől; öltözzön rétegesen, mert a történelmi falak télen elég hűvösek.",
+                "ro": "Biserica oferă un moment de răgaz de vântul rece; îmbrăcați-vă gros, deoarece zidurile istorice sunt destul de reci iarna.",
+                "en": "The church provides a break from the cold sea wind; dress in layers as the historic stone walls can be quite chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "L’Atelier",
+                "hu": "L’Atelier",
+                "ro": "L’Atelier",
+                "en": "L’Atelier"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich mitten am Tag aufzuwärmen; genießen Sie die kreative Energie, während es draußen winterlich stürmt.",
+                "hu": "Tökéletes hely a napközbeni felmelegedéshez; élvezze a kreatív energiákat, miközben kint a téli szél fúj.",
+                "ro": "Locul perfect pentru a vă încălzi în mijlocul zilei; bucurați-vă de energia creativă în timp ce afară este vânt de iarnă.",
+                "en": "The perfect place to warm up in the middle of the day; enjoy the creative energy while the winter wind howls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Crique de Port Maria",
+                "hu": "Crique de Port Maria",
+                "ro": "Crique de Port Maria",
+                "en": "Crique de Port Maria"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Strand verlassen und wild; eine winddichte Jacke ist hier Pflicht, um die raue Schönheit der Küste zu genießen.",
+                "hu": "Télen a strand elhagyatott és vad; egy szélálló dzseki itt kötelező, hogy élvezni tudja a partvidék nyers szépségét.",
+                "ro": "Iarna, plaja este pustie și sălbatică; o jachetă rezistentă la vânt este obligatorie pentru a savura frumusețea brută a coastei.",
+                "en": "In winter, the beach is deserted and wild; a windproof jacket is mandatory here to enjoy the raw beauty of the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Port Maria",
+                "hu": "Fortin de Port Maria",
+                "ro": "Fortin de Port Maria",
+                "en": "Fortin de Port Maria"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Winterlicht setzt die alten Festungsmauern perfekt in Szene; ideal für Fotos ohne die sommerlichen Touristenmassen.",
+                "hu": "Az alacsonyan járó téli napfény tökéletesen megvilágítja a régi erődöt; ideális fotózáshoz a nyári tömeg nélkül.",
+                "ro": "Lumina joasă de iarnă pune în valoare zidurile vechii fortărețe; este locul ideal pentru fotografii fără aglomerația de vară.",
+                "en": "The low winter sun perfectly highlights the old fortress walls; it is ideal for photography without the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Port Blanc",
+                "hu": "Port Blanc",
+                "ro": "Port Blanc",
+                "en": "Port Blanc"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am weißen Ufer; achten Sie auf die Zeit, da das Licht hier am späten Nachmittag sehr schnell schwindet.",
+                "hu": "Élvezze a magányt a fehér partnál; ügyeljen az időre, mert a fény itt késő délután nagyon gyorsan fogyni kezd.",
+                "ro": "Bucurați-vă de singurătate pe malul alb; aveți grijă la timp, deoarece lumina scade foarte repede aici după-amiaza târziu.",
+                "en": "Enjoy the solitude on the white shore; keep an eye on the time, as the light begins to fade very quickly here in late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Réduit de la Pointe-d'Arzic",
+                "hu": "Réduit de la Pointe-d'Arzic",
+                "ro": "Réduit de la Pointe-d'Arzic",
+                "en": "Réduit de la Pointe-d'Arzic"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17 Uhr direkt am Kap; bringen Sie eine Taschenlampe für den Rückweg im Dunkeln mit.",
+                "hu": "Nézze meg a korai naplementét 17 óra körül közvetlenül a foknál; hozzon zseblámpát a sötétben való visszatéréshez.",
+                "ro": "Observați apusul devreme, în jur de ora 17, direct de la cap; aduceți o lanternă pentru drumul de întoarcere pe întuneric.",
+                "en": "Watch the early sunset around 5 PM directly from the point; bring a flashlight for the walk back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros utazását a központi történelmi látnivalók felfedezésével, majd tekerjen a frissítő tengerparti öblök felé. A dél a lenyűgöző természetes kilátóhoz hívja, megragadva a sziklás partvonal zord szépségét. A délutánt a nyüzsgő helyi strandok aranyhomokján pihenve töltheti. A napját egy lenyűgöző északi part menti bástya meglátogatásával zárhatja.",
         "ro": "Începeți călătoria cu bicicleta explorând obiectivele istorice centrale înainte de a pedala spre golfurile revigorante de coastă. Amiaza invită la o plimbare spre un punct de belvedere natural uimitor, surprinzând frumusețea stâncoasă. După-amiaza este petrecută relaxându-vă pe plajele locale aurii. Ziua se încheie cu o explorare a unui bastion de coastă nordic impresionant și masiv.",
         "en": "Kick off your cycling journey exploring the central historical sights before pedaling out to the refreshing coastal coves. Midday invites a brisk ride to a stunning natural viewpoint, capturing the rugged beauty of the rocky shoreline. The afternoon is spent relaxing on the golden sands of vibrant local beaches. Your day ends with an exploration of an impressive northern coastal bastion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour durch Locmaria ein erfrischendes Erlebnis, wenn man passend gekleidet ist. Wir starten an der Kirche und radeln zu versteckten Buchten, wo das Wasser bei Regen in tiefem Grau schimmert. Die Küstenwege können rutschig sein, daher ist Vorsicht geboten. Der Nachmittag endet an der Festung Port-Andro, bevor wir im Regen zurückgleiten.",
+            "hu": "Az eső ellenére a kerékpározás Locmaria környékén frissítő élmény a megfelelő ruházatban. A templomtól indulva rejtett öblök felé tekerünk, ahol a víz szürkén csillog. A parti utak csúszósak lehetnek, így óvatosság és jó fékek szükségesek. A délutánt a Port-Andro erődnél zárjuk, mielőtt az esőben visszagurulnunk a központba.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin Locmaria este o experiență revigorantă cu echipament adecvat. Pornim de la biserică spre golfuri ascunse, unde apa strălucește în gri. Drumurile de coastă pot fi alunecoase, deci este nevoie de prudență. După-amiaza se încheie la fortul Port-Andro, înainte de a pedala înapoi prin ploaie.",
+            "en": "Despite the rain, cycling around Locmaria is a refreshing experience with the right gear. Starting from the church, we pedal toward hidden coves where the water shimmers in deep grey. Coastal paths can be slick, so caution and good brakes are vital. The afternoon concludes at Fort Port-Andro before we glide back through the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen im Trockenen unter dem Vordach der Kirche, bevor Sie die nassen Küstenstraßen befahren.",
+                "hu": "Ellenőrizze a fékeit a szárazon, a templom előtetője alatt, mielőtt elindulna a vizes és csúszós parti utakra.",
+                "ro": "Verificați frânele la uscat, sub streașina bisericii, înainte de a porni pe drumurile de coastă umede.",
+                "en": "Check your brakes in the dry under the church's porch before heading out onto the wet coastal roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Crique de Port Maria",
+                "hu": "Crique de Port Maria",
+                "ro": "Crique de Port Maria",
+                "en": "Crique de Port Maria"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher oben ab; der Pfad zum Strand ist bei Regen zu schlammig für das Fahrrad.",
+                "hu": "Hagyja a kerékpárt biztonságosan fent; a strandhoz vezető ösvény túl sáros a biciklizéshez ilyenkor.",
+                "ro": "Lăsați bicicleta în siguranță sus; poteca spre plajă este prea noroioasă pentru bicicletă pe timp de ploaie.",
+                "en": "Park your bike safely at the top; the path down to the beach is too muddy for cycling during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe de Kerzo",
+                "hu": "Pointe de Kerzo",
+                "ro": "Pointe de Kerzo",
+                "en": "Pointe de Kerzo"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr windiger Ort bei Regen; halten Sie den Lenker fest und achten Sie auf plötzliche Böen vom Meer.",
+                "hu": "Nagyon szeles pont esőben; fogja erősen a kormányt, és figyeljen a tenger felől érkező hirtelen széllökésekre.",
+                "ro": "Un loc foarte vântos pe ploaie; țineți bine ghidonul și fiți atenți la rafalele bruște dinspre mare.",
+                "en": "A very windy spot in the rain; keep a firm grip on the handlebars and watch for sudden gusts from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Crique de la Reine Victoria",
+                "hu": "Crique de la Reine Victoria",
+                "ro": "Crique de la Reine Victoria",
+                "en": "Crique de la Reine Victoria"
+              },
+              "tip_5lang": {
+                "de": "Die Farben der Kieselsteine wirken im Regen intensiver; ein kurzer Stopp reicht, um die raue Atmosphäre zu genießen.",
+                "hu": "A kavicsok színei intenzívebbek az esőben; egy rövid megálló elég, hogy élvezze a part nyers hangulatát.",
+                "ro": "Culorile pietrelor par mai intense pe ploaie; o scurtă oprire este suficientă pentru a savura atmosfera brută.",
+                "en": "The colors of the pebbles appear more intense in the rain; a short stop is enough to enjoy the raw atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Port Andro",
+                "hu": "Plage de Port Andro",
+                "ro": "Plage de Port Andro",
+                "en": "Plage de Port Andro"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann rutschig sein; drosseln Sie das Tempo auf dem nassen Asphalt, wenn Sie zum Strand hinunterrollen.",
+                "hu": "A levezető út csúszós lehet; mérsékelje a tempót a vizes aszfalton, amikor legurul a strand felé.",
+                "ro": "Drumul de acces poate fi alunecos; reduceți viteza pe asfaltul ud când coborâți spre plajă.",
+                "en": "The access road can be slippery; reduce your speed on the wet asphalt as you roll down toward the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Port-Andro",
+                "hu": "Fortin de Port-Andro",
+                "ro": "Fortin de Port-Andro",
+                "en": "Fortin de Port-Andro"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Ruinen des Forts, bevor Sie den Rückweg im Regen antreten; Licht am Rad einschalten!",
+                "hu": "Keressen menedéket az erőd romjai között, mielőtt elindulna vissza az esőben; kapcsolja be a világítást a biciklin!",
+                "ro": "Căutați adăpost în ruinele fortului înainte de a porni înapoi prin ploaie; aprindeți luminile la bicicletă!",
+                "en": "Seek shelter in the fort's ruins before heading back through the rain; make sure to turn on your bike lights!"
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die klare, kalte Meeresluft von Belle-Île. Wir erkunden die Küstenwege, wobei die tiefstehende Sonne lange Schatten wirft und die Landschaft verzaubert. Warme Handschuhe sind bei der Abfahrt unverzichtbar. Da es früh dunkel wird, planen wir die Route so, dass wir vor 17:00 Uhr wieder sicher in Locmaria sind.",
+            "hu": "A téli kerékpártúra a Belle-Île tiszta, hideg tengeri levegőjén vezet keresztül. A parti utakat járjuk, ahol az alacsonyan lévő nap hosszú árnyékokat vet és elvarázsolja a tájat. Meleg kesztyű kötelező a lejtőkön. Mivel korán sötétedik, úgy tervezzük az utat, hogy 17:00 előtt biztonságban visszaérjünk Locmariába.",
+            "ro": "Turul de iarnă cu bicicleta trece prin aerul curat și rece de pe Belle-Île. Explorăm drumurile de coastă, unde soarele jos proiectează umbre lungi, fermecând peisajul. Mănușile groase sunt esențiale la coborâri. Deoarece se întunecă devreme, ne planificăm ruta pentru a reveni în siguranță înainte de ora 17:00.",
+            "en": "The winter bike tour leads through the crisp, cold sea air of Belle-Île. We explore coastal paths where the low sun casts long shadows, enchanting the landscape. Warm gloves are essential for the descents. Since it gets dark early, we plan the route to be safely back in Locmaria before 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie nicht zu früh; warten Sie, bis der Frost auf den Wegen geschmolzen ist, um sicher zu radeln.",
+                "hu": "Ne induljon túl korán; várja meg, amíg az utakon az esetleges zúzmara elolvad a biztonságos tekeréshez.",
+                "ro": "Nu porniți prea devreme; așteptați ca bruma de pe drumuri să se topească pentru a pedala în siguranță.",
+                "en": "Don't start too early; wait until any frost on the paths has melted to ensure a safe ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Crique de Port Maria",
+                "hu": "Crique de Port Maria",
+                "ro": "Crique de Port Maria",
+                "en": "Crique de Port Maria"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter herrlich ruhig; machen Sie nur eine kurze Pause, um nicht auszukühlen.",
+                "hu": "Az öböl télen csodálatosan nyugodt; csak rövid szünetet tartson, hogy ne hűljön ki a teste a megállás alatt.",
+                "ro": "Golful este minunat de liniștit iarna; faceți doar o scurtă pauză pentru a nu vă răci corpul prin oprire.",
+                "en": "The cove is wonderfully peaceful in winter; take only a short break so your body doesn't cool down too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Pointe de Kerzo",
+                "hu": "Pointe de Kerzo",
+                "ro": "Pointe de Kerzo",
+                "en": "Pointe de Kerzo"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind kann hier sehr beißend sein; eine Sturmhaube unter dem Helm schützt das Gesicht vor der Kälte.",
+                "hu": "A téli szél itt nagyon metsző lehet; a sisak alá vett maszk vagy csősál védi az arcot a hidegtől.",
+                "ro": "Vântul de iarnă poate fi tăios aici; o cagulă sub cască vă va proteja fața de frigul intens.",
+                "en": "The winter wind can be very biting here; a neck warmer or balaclava under your helmet will protect your face."
+              }
+            },
+            {
+              "name": {
+                "de": "Crique de la Reine Victoria",
+                "hu": "Crique de la Reine Victoria",
+                "ro": "Crique de la Reine Victoria",
+                "en": "Crique de la Reine Victoria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos; der Kontrast zwischen blauem Meer und Felsen ist jetzt am stärksten.",
+                "hu": "Használja ki a tiszta téli fényt a fotózáshoz; a kék tenger és a sziklák kontrasztja most a legerősebb.",
+                "ro": "Profitate de lumina clară de iarnă pentru fotografii; contrastul dintre marea albastră și stânci este maxim acum.",
+                "en": "Take advantage of the clear winter light for photos; the contrast between the blue sea and rocks is strongest now."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Port Andro",
+                "hu": "Plage de Port Andro",
+                "ro": "Plage de Port Andro",
+                "en": "Plage de Port Andro"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winter wie aus einer anderen Welt; ein kurzer Spaziergang im Sand wärmt die Füße wieder auf.",
+                "hu": "A strand télen olyan, mintha egy másik világban járna; egy rövid séta a homokban felmelegíti a lábait a tekerés után.",
+                "ro": "Plaja pare iarna dintr-o altă lume; o scurtă plimbare prin nisip vă va reîncălzi picioarele după pedalat.",
+                "en": "The beach in winter feels like another world; a short walk in the sand will warm up your feet after cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Port-Andro",
+                "hu": "Fortin de Port-Andro",
+                "ro": "Fortin de Port-Andro",
+                "en": "Fortin de Port-Andro"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zeitig; ab 16:30 Uhr sinken die Temperaturen rapide, sobald die Sonne am Horizont verschwindet.",
+                "hu": "Fejezze be időben a túrát; 16:30 után a hőmérséklet gyorsan süllyed, amint a nap eltűnik a látóhatáron.",
+                "ro": "Încheiați turul devreme; după ora 16:30 temperaturile scad rapid imediat ce soarele dispare după orizont.",
+                "en": "Finish your tour early; after 4:30 PM, the temperature drops rapidly as soon as the sun disappears below the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós túrája a környék kulturális szívében kezdődik, ahol megismerheti a helyi művészetet és történelmet, mielőtt észak felé venné az irányt. Délben egy festői parti úton fedezhet fel elszigetelt történelmi sáncokat és fenséges világítótornyokat. Délután a szomszédos védelmi romokat és élénk homokos partokat élvezheti. Az este visszavezeti Önt a nyugodt tengerparti faluközpontba.",
         "ro": "Turul cu mașina începe în inima culturală a zonei, explorând arta și istoria locală înainte de a merge spre nord. Amiaza vă duce într-o plimbare pitorească pe coastă pentru a descoperi reduturi izolate și faruri operaționale mărețe. Pe măsură ce după-amiaza se desfășoară, explorați ruinele defensive și vă relaxați pe țărmuri nisipoase. Seara vă readuce în centrul senin al satului.",
         "en": "Your driving tour begins at the cultural heart of the area, exploring local artistry and history before heading north. Midday takes you on a scenic coastal drive to discover isolated historic redoubts and majestic operational lighthouses. As the afternoon unfolds, you can explore adjacent defensive ruins and relax by lively sandy shores. The evening returns you to the serene village center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Locmaria ganz entspannt, während der Regen gegen die Scheiben trommelt. Die Fahrt führt uns von gemütlichen Werkstätten zu nebligen Festungen und Leuchttürmen an der Küste. Im Auto bleiben wir trocken und können die dramatischen Wetterwechsel sicher beobachten. Der Abend endet warm und komfortabel, nachdem wir die wilde Natur aus geschützter Distanz erlebt haben.",
+            "hu": "Autóval kényelmesen fedezzük fel Locmariát, miközben az eső kopog a szélvédőn. Az út barátságos műhelyektől ködös erődökön át a parti világítótoronyig vezet. Az autóban szárazon maradunk, és biztonságban figyelhetjük a drámai időjárási változásokat. Az este melegen és komfortosan zárul, miután védett távolságból éltük át a természet vad erejét.",
+            "ro": "Cu mașina explorăm Locmaria relaxați, în timp ce ploaia bate în parbriz. Traseul ne duce de la ateliere primitoare la fortărețe cețoase și farul de pe coastă. În mașină rămânem uscați și putem observa în siguranță schimbările dramatice de vreme. Seara se încheie confortabil, după ce am trăit forța naturii de la o distanță protejată.",
+            "en": "By car, we explore Locmaria comfortably while rain drums against the windows. The drive takes us from cozy workshops to misty fortresses and the coastal lighthouse. Inside the car, we stay dry and can safely observe the dramatic weather shifts. The evening ends warmly and comfortably after experiencing nature's wild power from a sheltered distance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "L’Atelier",
+                "hu": "L’Atelier",
+                "ro": "L’Atelier",
+                "en": "L’Atelier"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte trockene Start; parken Sie direkt davor, um den Regen zu meiden, und genießen Sie die Handwerkskunst.",
+                "hu": "Tökéletes száraz kezdés; parkoljon közvetlenül előtte, hogy elkerülje az esőt, és élvezze a helyi kézművesek munkáját.",
+                "ro": "Un început perfect la uscat; parcați direct în față pentru a evita ploaia și bucurați-vă de munca artizanilor locali.",
+                "en": "The perfect dry start; park right in front to avoid the rain and enjoy watching the local artisans at work."
+              }
+            },
+            {
+              "name": {
+                "de": "Réduit de La Biche",
+                "hu": "Réduit de La Biche",
+                "ro": "Réduit de La Biche",
+                "en": "Réduit de La Biche"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen matschig sein; bleiben Sie auf befestigten Flächen, um nicht im Schlamm steckenzubleiben.",
+                "hu": "A behajtó út nagy esőben sáros lehet; maradjon a kövezett felületeken, hogy elkerülje az elakadást a sárban.",
+                "ro": "Drumul de acces poate fi noroios la ploaie mare; rămâneți pe suprafețele pavate pentru a evita împotmolirea în noroi.",
+                "en": "The access road can be muddy during heavy rain; stay on the paved areas to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Kerdonis",
+                "hu": "Phare de Kerdonis",
+                "ro": "Phare de Kerdonis",
+                "en": "Phare de Kerdonis"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Leuchtturm durch die Scheibe; bei Regen wirkt das Lichtsignal im Nebel besonders atmosphärisch.",
+                "hu": "Élvezze a kilátást a világítótoronyra az ablakon keresztül; esőben a fényjelzés a ködben különlegesen hangulatos.",
+                "ro": "Bucurați-vă de vederea spre far prin geamul mașinii; pe ploaie, semnalul luminos în ceață este extrem de atmosferic.",
+                "en": "Enjoy the view of the lighthouse through your car window; in the rain, the light signal in the mist is especially atmospheric."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Kerdonis",
+                "hu": "Fortin de Kerdonis",
+                "ro": "Fortin de Kerdonis",
+                "en": "Fortin de Kerdonis"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Sprint vom Auto zur Festung lohnt sich; die dicken Mauern schützen Sie vor den schlimmsten Böen.",
+                "hu": "Egy rövid, vizes sprint az autótól az erődig megéri; a vastag falak megvédik Önt a leghevesebb széllökésektől.",
+                "ro": "Un sprint scurt și ud de la mașină până la fort merită; zidurile groase vă vor proteja de cele mai violente rafale.",
+                "en": "A short, wet sprint from the car to the fort is worth it; the thick walls will protect you from the fiercest gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Port Andro",
+                "hu": "Plage de Port Andro",
+                "ro": "Plage de Port Andro",
+                "en": "Plage de Port Andro"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufgewühlte See bequem von der Parkbucht aus; ideal für Naturbeobachtungen, ohne nass zu werden.",
+                "hu": "Figyelje a felkorbácsolt tengert kényelmesen a parkolóból; ideális természetfigyelés anélkül, hogy bőrig ázna az esőben.",
+                "ro": "Observați marea agitată confortabil din parcare; este ideal pentru a vedea natura fără a vă uda până la piele.",
+                "en": "Watch the churning sea comfortably from the parking bay; it's ideal for nature watching without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag trocken in der Kirche; prüfen Sie die Scheibenwischer für die Rückfahrt bei Dunkelheit und Regen.",
+                "hu": "Zárja a napot szárazon a templomban; ellenőrizze az ablaktörlőket a sötétben és esőben történő visszautazás előtt.",
+                "ro": "Încheiați ziua la uscat în biserică; verificați ștergătoarele pentru drumul de întoarcere pe întuneric și ploaie.",
+                "en": "End your day dry inside the church; check your wipers before the return drive in the dark and rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt führt uns durch die ruhigen, menschenleeren Straßen von Locmaria. Wir genießen die geheizte Kabine zwischen den Stopps an geschichtsträchtigen Festungen und dem einsamen Leuchtturm. Das klare Licht des Winters lässt die Küste in besonderen Farben erstrahlen. Wir beenden die Tour rechtzeitig zum Sonnenuntergang um 17:00 Uhr und genießen die Stille der Insel.",
+            "hu": "A téli autózás Locmaria csendes, elhagyatott útjain vezet keresztül. Élvezzük a fűtött utasteret a történelmi erődök és a magányos világítótorony közötti megállók során. A tél tiszta fénye különleges színekbe öltözteti a partvidéket. A túrát időben, a 17:00 órai naplemente előtt fejezzük be, átadva magunkat a sziget nyugalmának.",
+            "ro": "Traseul de iarnă cu mașina ne poartă prin străzile liniștite și pustii din Locmaria. Ne bucurăm de căldura din mașină între opririle la forturile istorice și farul singuratic. Lumina clară a iernii îmbracă coasta în culori deosebite. Încheiem turul la timp pentru apusul de la ora 17:00, savurând liniștea insulei.",
+            "en": "The winter drive takes us through the quiet, deserted streets of Locmaria. We enjoy the heated cabin between stops at historic forts and the lonely lighthouse. The clear winter light bathes the coast in unique colors. We finish the tour in time for the 5 PM sunset, soaking in the island's seasonal peace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "L’Atelier",
+                "hu": "L’Atelier",
+                "ro": "L’Atelier",
+                "en": "L’Atelier"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Ort für den Start; im Winter sind die Künstler oft entspannter und haben Zeit für ein kurzes Gespräch.",
+                "hu": "Meleg hely a kezdéshez; télen a művészek gyakran nyugodtabbak, és van idejük egy rövid, baráti beszélgetésre.",
+                "ro": "Un loc cald pentru început; iarna, artiștii sunt adesea mai relaxați și au timp pentru o scurtă conversație.",
+                "en": "A warm spot to start; in winter, the artists are often more relaxed and have time for a brief, friendly chat."
+              }
+            },
+            {
+              "name": {
+                "de": "Réduit de La Biche",
+                "hu": "Réduit de La Biche",
+                "ro": "Réduit de La Biche",
+                "en": "Réduit de La Biche"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man einen tollen Blick; im Winter ist die Sicht durch die kahle Vegetation oft besser als im Sommer.",
+                "hu": "A parkolóból nagyszerű a kilátás; télen a kopár növényzet miatt a látási viszonyok gyakran jobbak, mint nyáron.",
+                "ro": "Din parcare aveți o priveliște excelentă; iarna, vizibilitatea este adesea mai bună decât vara datorită lipsei vegetației.",
+                "en": "The view from the parking area is great; in winter, visibility is often better than in summer due to the sparse vegetation."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Kerdonis",
+                "hu": "Phare de Kerdonis",
+                "ro": "Phare de Kerdonis",
+                "en": "Phare de Kerdonis"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt in der winterlichen Einsamkeit besonders stolz; halten Sie kurz an, um die frische Meeresbrise zu atmen.",
+                "hu": "A világítótorony a téli magányban különösen büszkének tűnik; álljon meg egy pillanatra, hogy beszívja a friss tengeri szellőt.",
+                "ro": "Farul pare deosebit de mândru în singurătatea iernii; opriți scurt pentru a respira briza proaspătă a mării.",
+                "en": "The lighthouse looks especially proud in its winter solitude; stop briefly to breathe in the fresh sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortin de Kerdonis",
+                "hu": "Fortin de Kerdonis",
+                "ro": "Fortin de Kerdonis",
+                "en": "Fortin de Kerdonis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis, um die Umgebung zu erkunden; kehren Sie zum Aufwärmen schnell wieder in die Heizung zurück.",
+                "hu": "Használja az autót bázisként a környék felfedezéséhez; térjen vissza gyorsan a fűtött utastérbe felmelegedni.",
+                "ro": "Folosiți mașina ca bază pentru a explora împrejurimile; reveniți rapid la căldură pentru a vă reîncălzi.",
+                "en": "Use the car as your base for exploring; return quickly to the heated cabin to warm up between walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Port Andro",
+                "hu": "Plage de Port Andro",
+                "ro": "Plage de Port Andro",
+                "en": "Plage de Port Andro"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter fast leer; genießen Sie die Ruhe und das Rauschen der Wellen bei herrlich klarer Sicht.",
+                "hu": "A parkoló télen szinte üres; élvezze a csendet és a hullámok morajlását a csodálatosan tiszta látótávolság mellett.",
+                "ro": "Parcarea este aproape goală iarna; bucurați-vă de liniște și de vuietul valurilor la o vizibilitate clară.",
+                "en": "The parking lot is almost empty in winter; enjoy the silence and the sound of the waves with wonderful visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein spiritueller Abschluss der Tour; achten Sie auf die Zeit, da es ab 17 Uhr bereits stockfinster auf den Landstraßen wird.",
+                "hu": "A túra spirituális lezárása; ügyeljen az időre, mert 17 óra után már koromsötét lesz az országutakon.",
+                "ro": "O încheiere spirituală a turului; fiți atenți la timp, deoarece după ora 17 se face întuneric beznă pe drumuri.",
+                "en": "A spiritual conclusion to the tour; mind the time, as it will be pitch dark on the country roads after 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

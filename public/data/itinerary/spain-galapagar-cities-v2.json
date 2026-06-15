@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt inspiráló helyi művészettel a Recrearte központban. Ezután sétáljon el a Centro Cultural La Pocilla felé, hogy megcsodálja a modern építészetet és kulturális kincseket. Délután a Piscina municipal frissítő kikapcsolódást kínál a szabad ég alatt. Zárja a napot a szabadtéri Anfiteatro és a történelmi Fuente del Pozuelo kútjánál, ahol az esti hangulat varázslatos.",
         "ro": "Începeți dimineața cu artă locală inspiratoare la centrul Recrearte. Apoi plimbați-vă spre Centro Cultural La Pocilla pentru a admira arhitectura modernă și comorile culturale. După-amiaza, Piscina municipală oferă o pauză răcoritoare sub cerul liber. Încheiați ziua la Anfiteatro în aer liber și la istorica Fuente del Pozuelo, unde atmosfera serală devine cu adevărat magică.",
         "en": "Start your morning with inspiring local art and exhibitions at Recrearte. Then walk to the Centro Cultural La Pocilla to admire its modern architecture and discover more cultural treasures. In the afternoon, the municipal pool offers a refreshing and lively break under the open sky. End your day at the open-air Anfiteatro and the historic Fuente del Pozuelo, where the evening mood is truly magical."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen im überdachten Recrearte, um dem Regen zu entgehen.\n\nMittags bieten das Kulturzentrum und das Hallenbad eine trockene Zuflucht.\n\nBesuchen Sie nachmittags das Amphitheater, aber achten Sie auf die rutschigen Steine.\n\nBeenden Sie den Abend am Brunnen mit einem Regenschirm, bevor Sie einkehren.",
+            "hu": "Kezdje a reggelt a Recrearte fedett terében, menedéket találva az eső elől.\n\nDélben fedezze fel a kulturális központot és ússzon egyet a benti medencében.\n\nDélután látogassa meg az amfiteátrumot, de vigyázzon a csúszós, vizes köveken.\n\nEste a kútnál fejezze be a sétát esernyővel a kezében, mielőtt visszatér.",
+            "ro": "Începeți dimineața la Recrearte pentru a scăpa de ploaia rece.\n\nLa prânz, explorați centrul cultural și înotați în piscina interioară încălzită.\n\nDupă-amiaza, vizitați amfiteatrul, dar pășiți cu grijă pe pietrele umede și alunecoase.\n\nÎncheiați seara la fântână sub umbrelă, înainte de a vă retrage la interior.",
+            "en": "Start your morning at the Recrearte indoor space to escape the heavy rain.\n\nMidday brings dry refuge at the cultural center and a swim in the indoor pool.\n\nIn the afternoon, visit the amphitheater, but step carefully on the wet, slippery stones.\n\nEnd the evening at the fountain under your umbrella before heading inside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Recrearte",
+                "hu": "Recrearte",
+                "ro": "Recrearte",
+                "en": "Recrearte"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen im Trockenen; vergessen Sie nicht, Ihren Regenschirm am Eingang auszuschütteln.",
+                "hu": "Élvezze a benti kiállításokat teljesen szárazon; ne felejtse el lerázni az esernyőjét a bejáratnál.",
+                "ro": "Bucurați-vă de expozițiile interioare la adăpost; nu uitați să scuturați umbrela la intrare.",
+                "en": "Enjoy indoor exhibitions to stay completely dry; don't forget to shake off your umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural La Pocilla",
+                "hu": "Centro Cultural La Pocilla",
+                "ro": "Centro Cultural La Pocilla",
+                "en": "Centro Cultural La Pocilla"
+              },
+              "tip_5lang": {
+                "de": "Dieses Kulturzentrum ist der perfekte Zufluchtsort an Regentagen; erkunden Sie die weiten Hallen trocken.",
+                "hu": "Ez a nagy kulturális központ tökéletes esős menedék; fedezze fel tágas termeit anélkül, hogy megázna.",
+                "ro": "Acest mare centru cultural este un refugiu perfect pe ploaie; explorați sălile sale spațioase fără a vă uda.",
+                "en": "This large cultural center is a perfect rainy-day refuge; explore its spacious halls without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal de Galapagar",
+                "hu": "Piscina municipal de Galapagar",
+                "ro": "Piscina municipal de Galapagar",
+                "en": "Piscina municipal de Galapagar"
+              },
+              "tip_5lang": {
+                "de": "Ein beheiztes Hallenbad lässt den Regen draußen vergessen; packen Sie unbedingt Ihre Badesachen ein.",
+                "hu": "A fűtött benti medence a legjobb módja, hogy elfelejtse a kinti borús esőt; hozzon fürdőruhát.",
+                "ro": "O piscină interioară încălzită vă face să uitați de ploaia mohorâtă; aduceți echipamentul de înot.",
+                "en": "A heated indoor pool is the best way to forget the gloomy rain outside; bring your swimming gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro",
+                "hu": "Anfiteatro",
+                "ro": "Anfiteatro",
+                "en": "Anfiteatro"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Freilufttheater schnell unter dem Schirm; die nassen Steinstufen sind sehr rutschig.",
+                "hu": "Nézze meg a szabadtéri építményt esernyő alatt; a vizes kőlépcsők rendkívül csúszósak lehetnek.",
+                "ro": "Vedeți structura în aer liber sub umbrelă; treptele de piatră umede pot fi foarte alunecoase.",
+                "en": "See the open-air structure quickly under an umbrella; the wet stone steps can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente del Pozuelo",
+                "hu": "Fuente del Pozuelo",
+                "ro": "Fuente del Pozuelo",
+                "en": "Fuente del Pozuelo"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto vom historischen Brunnen mit wasserdichten Schuhen gegen den Matsch.",
+                "hu": "Készítsen egy gyors fotót a történelmi kútról, vízálló cipőben, hogy elkerülje a sáros tócsákat.",
+                "ro": "Faceți o fotografie rapidă fântânii istorice purtând încălțăminte impermeabilă pentru a evita noroiul.",
+                "en": "Take a quick photo of the historic fountain while wearing waterproof shoes to avoid muddy puddles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für den morgendlichen Spaziergang zum Recrearte.\n\nMittags können Sie sich im Kulturzentrum und im beheizten Hallenbad aufwärmen.\n\nNachmittags wirkt das Amphitheater in der tief stehenden Wintersonne wunderschön.\n\nSonnenuntergang ist früh gegen 17:00 Uhr, packen Sie sich am Abend am Brunnen gut ein.",
+            "hu": "Öltözzön melegen a csípős reggeli sétához a Recrearte központ felé.\n\nDélben melegedjen fel a kulturális központban és a fűtött benti medencében.\n\nDélután az amfiteátrum lenyűgöző az alacsonyan járó téli napsütésben.\n\nA nap már 17:00 körül lenyugszik, így este a kútnál mindenképp viseljen vastag kabátot.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală răcoroasă spre Recrearte.\n\nLa prânz vă puteți încălzi la centrul cultural și în piscina interioară.\n\nDupă-amiaza, amfiteatrul arată superb în lumina soarelui de iarnă.\n\nSoarele apune devreme pe la 17:00, așa că înfofoliți-vă pentru seara la fântână.",
+            "en": "Wrap up warm for a crisp morning walk to the Recrearte space.\n\nMidday offers a chance to thaw out at the cultural center and the heated indoor pool.\n\nIn the afternoon, the amphitheater looks stunning in the low, golden winter sun.\n\nSunset is early around 17:00, so bundle up as you finish your evening walk by the fountain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Recrearte",
+                "hu": "Recrearte",
+                "ro": "Recrearte",
+                "en": "Recrearte"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen bei lokaler Kunst auf; lassen Sie Ihren dicken Wintermantel an der Garderobe.",
+                "hu": "Melegedjen fel bent a helyi művészetet felfedezve; a vastag télikabátot hagyja a ruhatárban.",
+                "ro": "Încălziți-vă înăuntru explorând arta locală; lăsați haina groasă de iarnă la garderobă.",
+                "en": "Warm up inside while exploring local art; leave your heavy winter coat in the cloakroom."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural La Pocilla",
+                "hu": "Centro Cultural La Pocilla",
+                "ro": "Centro Cultural La Pocilla",
+                "en": "Centro Cultural La Pocilla"
+              },
+              "tip_5lang": {
+                "de": "Das gut beheizte Gebäude ist ideal für den Winter; genießen Sie Events abseits der eisigen Winde.",
+                "hu": "A jól fűtött épület ideális téli megálló; élvezze a kulturális programokat távol a jeges széltől.",
+                "ro": "Clădirea bine încălzită este ideală iarna; bucurați-vă de evenimentele culturale departe de vântul înghețat.",
+                "en": "The well-heated building is ideal for a winter stop; enjoy the cultural events away from the icy winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal de Galapagar",
+                "hu": "Piscina municipal de Galapagar",
+                "ro": "Piscina municipal de Galapagar",
+                "en": "Piscina municipal de Galapagar"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte mit einem entspannten Schwimmen im gemütlich beheizten Hallenbad.",
+                "hu": "Meneküljenek a téli hideg elől egy pihentető úszással a kellemesen fűtött városi uszodában.",
+                "ro": "Scăpați de frigul iernii cu o baie relaxantă în piscina municipală interioară încălzită.",
+                "en": "Escape the winter cold with a relaxing swim in the comfortably heated indoor municipal pool."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro",
+                "hu": "Anfiteatro",
+                "ro": "Anfiteatro",
+                "en": "Anfiteatro"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Amphitheater wirkt dramatisch im Winterlicht; tragen Sie eine warme Mütze gegen den Wind.",
+                "hu": "A kő amfiteátrum drámaian fest a téli napfényben; viseljen meleg sapkát a hideg szél ellen.",
+                "ro": "Amfiteatrul de piatră arată dramatic în lumina soarelui de iarnă; purtați o căciulă caldă.",
+                "en": "The stone amphitheater looks dramatic in the winter sunlight; wear a warm hat against the cold breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente del Pozuelo",
+                "hu": "Fuente del Pozuelo",
+                "ro": "Fuente del Pozuelo",
+                "en": "Fuente del Pozuelo"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann an Wintermorgen gefroren sein; tragen Sie warme Handschuhe für Fotos.",
+                "hu": "A víz téli reggeleken befagyhat; viseljen meleg kesztyűt, ha fényképezni szeretne a hidegben.",
+                "ro": "Apa poate fi înghețată în diminețile de iarnă; purtați mănuși groase dacă stați la poze.",
+                "en": "The water might be frozen during winter mornings; wear warm gloves if you plan to stay and take pictures."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpártúrája a Centro Cultural La Pocilla épületénél kezdődik, rengeteg kulturális élménnyel. Tekerjen tovább a Recrearte felé, majd élvezze a jól megérdemelt pihenést a Piscina municipalnál. Délután fedezze fel a hangulatos Anfiteatro-t és a történelmi Fuente del Pozuelo-t. Az este a lenyűgöző Santiago Apóstol templomé és a nyüzsgő Teatro Municipalé, ahol a helyi kultúra életre kel.",
         "ro": "Turul pe bicicletă începe la Centro Cultural La Pocilla, plin de un aer cultural deosebit. Pedalați mai departe spre Recrearte și bucurați-vă de o pauză binemeritată la Piscina municipală. După-amiaza explorați fermecătorul Anfiteatro și istorica Fuente del Pozuelo în lumina caldă. Seara aparține impresionantei biserici Santiago Apóstol și animatului Teatro Municipal.",
         "en": "Your cycling tour begins at Centro Cultural La Pocilla, absorbing its vibrant cultural flair. Pedal onwards to Recrearte before enjoying a well-deserved break at the bustling municipal pool. In the afternoon, explore the charming open-air Anfiteatro and the historic Fuente del Pozuelo. The evening belongs to the impressive Santiago Apóstol church and the lively Teatro Municipal nearby."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die regnerische Fahrt am Kulturzentrum mit guter Regenkleidung.\n\nMittags bieten Recrearte und das Hallenbad eine trockene und entspannte Pause.\n\nBremsen Sie nachmittags auf dem Weg zum Amphitheater vorsichtig auf nassen Straßen.\n\nBeenden Sie den feuchten Abend sicher und trocken im Bürgerzentrum.",
+            "hu": "Kezdje az esős biciklizést a kulturális központnál, jó vízálló felszerelésben.\n\nDélben tartson száraz pihenőt a Recrearte-ban és a benti medencében.\n\nDélután az amfiteátrum felé vezető úton óvatosan fékezzen a csúszós aszfalton.\n\nAz estét biztonságban, a nedvesség elől elzárva a civil központban töltse.",
+            "ro": "Începeți plimbarea ploioasă la centrul cultural cu echipament impermeabil.\n\nLa prânz faceți o pauză uscată la Recrearte și o baie în piscina interioară.\n\nDupă-amiaza, frânați cu prudență pe drumurile umede spre amfiteatru.\n\nÎncheiați seara umedă la adăpost, în siguranța centrului civic.",
+            "en": "Start your rainy ride at the cultural center, wearing good waterproof gear.\n\nMidday provides a dry break at Recrearte and a refreshing indoor swim.\n\nBrake carefully on wet roads during the afternoon ride to the amphitheater.\n\nEnd the damp evening safely indoors at the civic center, avoiding the heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural La Pocilla",
+                "hu": "Centro Cultural La Pocilla",
+                "ro": "Centro Cultural La Pocilla",
+                "en": "Centro Cultural La Pocilla"
+              },
+              "tip_5lang": {
+                "de": "Dieses Kulturzentrum ist der perfekte Zufluchtsort an Regentagen; erkunden Sie die weiten Hallen trocken.",
+                "hu": "Ez a nagy kulturális központ tökéletes esős menedék; fedezze fel tágas termeit anélkül, hogy megázna.",
+                "ro": "Acest mare centru cultural este un refugiu perfect pe ploaie; explorați sălile sale spațioase fără a vă uda.",
+                "en": "This large cultural center is a perfect rainy-day refuge; explore its spacious halls without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Recrearte",
+                "hu": "Recrearte",
+                "ro": "Recrearte",
+                "en": "Recrearte"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen im Trockenen; vergessen Sie nicht, Ihren Regenschirm am Eingang auszuschütteln.",
+                "hu": "Élvezze a benti kiállításokat teljesen szárazon; ne felejtse el lerázni az esernyőjét a bejáratnál.",
+                "ro": "Bucurați-vă de expozițiile interioare la adăpost; nu uitați să scuturați umbrela la intrare.",
+                "en": "Enjoy indoor exhibitions to stay completely dry; don't forget to shake off your umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal de Galapagar",
+                "hu": "Piscina municipal de Galapagar",
+                "ro": "Piscina municipal de Galapagar",
+                "en": "Piscina municipal de Galapagar"
+              },
+              "tip_5lang": {
+                "de": "Ein beheiztes Hallenbad lässt den Regen draußen vergessen; packen Sie unbedingt Ihre Badesachen ein.",
+                "hu": "A fűtött benti medence a legjobb módja, hogy elfelejtse a kinti borús esőt; hozzon fürdőruhát.",
+                "ro": "O piscină interioară încălzită vă face să uitați de ploaia mohorâtă; aduceți echipamentul de înot.",
+                "en": "A heated indoor pool is the best way to forget the gloomy rain outside; bring your swimming gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro",
+                "hu": "Anfiteatro",
+                "ro": "Anfiteatro",
+                "en": "Anfiteatro"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Freilufttheater schnell unter dem Schirm; die nassen Steinstufen sind sehr rutschig.",
+                "hu": "Nézze meg a szabadtéri építményt esernyő alatt; a vizes kőlépcsők rendkívül csúszósak lehetnek.",
+                "ro": "Vedeți structura în aer liber sub umbrelă; treptele de piatră umede pot fi foarte alunecoase.",
+                "en": "See the open-air structure quickly under an umbrella; the wet stone steps can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente del Pozuelo",
+                "hu": "Fuente del Pozuelo",
+                "ro": "Fuente del Pozuelo",
+                "en": "Fuente del Pozuelo"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto vom historischen Brunnen mit wasserdichten Schuhen gegen den Matsch.",
+                "hu": "Készítsen egy gyors fotót a történelmi kútról, vízálló cipőben, hogy elkerülje a sáros tócsákat.",
+                "ro": "Faceți o fotografie rapidă fântânii istorice purtând încălțăminte impermeabilă pentru a evita noroiul.",
+                "en": "Take a quick photo of the historic fountain while wearing waterproof shoes to avoid muddy puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Santiago Apóstol",
+                "hu": "Santiago Apóstol",
+                "ro": "Santiago Apóstol",
+                "en": "Santiago Apóstol"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese historische Kirche ein, um sich zu trocknen und die Architektur vor dem Sturm zu bewundern.",
+                "hu": "Lépjen be ebbe a történelmi templomba, hogy megszáradjon és megcsodálja az építészetét a vihar elől védve.",
+                "ro": "Intrați în această biserică istorică pentru a vă usca și a-i admira arhitectura ferită de furtună.",
+                "en": "Step inside this historic church to dry off and admire its stunning architecture protected from the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "hu": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "ro": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "en": "Centro Cívico - Teatro Municipal de Colmenarejo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer trockenen Theatervorstellung; die perfekte Flucht vor dem Regen.",
+                "hu": "Zárja a napot egy száraz, benti színházi előadással; tökéletes menedék egy esős estén.",
+                "ro": "Încheiați ziua cu o piesă de teatru în interior; este evadarea perfectă într-o seară ploioasă.",
+                "en": "End your day with a dry, indoor theater performance; it's the perfect escape from a rainy evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tragen Sie Thermohandschuhe für den frostigen Morgenstart am Kulturzentrum.\n\nMittags können Sie Ihre Hände im Recrearte und im beheizten Pool wärmen.\n\nDie nachmittägliche Fahrt zum Amphitheater ist schön, wird aber schnell kühl.\n\nBeenden Sie die Fahrt am Bürgerzentrum, bevor es um 17:00 Uhr dunkel wird.",
+            "hu": "Vegyen fel termokesztyűt a fagyos reggeli induláshoz a kulturális központnál.\n\nDélben melegítse fel kezét a Recrearte-ban és a fűtött uszodában.\n\nA délutáni tekerés az amfiteátrum felé gyönyörű, de a levegő gyorsan hűl.\n\nFejezze be a túrát a civil központban, mielőtt 17:00-kor sötét és veszélyes lesz.",
+            "ro": "Purtați mănuși groase pentru un început de dimineață înghețat la centrul cultural.\n\nLa prânz, încălziți-vă la Recrearte și în piscina municipală încălzită.\n\nCursa de după-amiază spre amfiteatru este frumoasă, dar se răcește rapid.\n\nTerminați la centrul civic înainte ca întunericul de la 17:00 să facă drumul periculos.",
+            "en": "Wear thermal gloves for a frosty morning start at the cultural center.\n\nBy midday, warm your cold hands at Recrearte and the heated municipal pool.\n\nThe afternoon ride past the amphitheater is beautiful but quickly getting chilly.\n\nFinish at the civic center before the early 17:00 darkness makes the roads dangerous."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural La Pocilla",
+                "hu": "Centro Cultural La Pocilla",
+                "ro": "Centro Cultural La Pocilla",
+                "en": "Centro Cultural La Pocilla"
+              },
+              "tip_5lang": {
+                "de": "Das gut beheizte Gebäude ist ideal für den Winter; genießen Sie Events abseits der eisigen Winde.",
+                "hu": "A jól fűtött épület ideális téli megálló; élvezze a kulturális programokat távol a jeges széltől.",
+                "ro": "Clădirea bine încălzită este ideală iarna; bucurați-vă de evenimentele culturale departe de vântul înghețat.",
+                "en": "The well-heated building is ideal for a winter stop; enjoy the cultural events away from the icy winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Recrearte",
+                "hu": "Recrearte",
+                "ro": "Recrearte",
+                "en": "Recrearte"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen bei lokaler Kunst auf; lassen Sie Ihren dicken Wintermantel an der Garderobe.",
+                "hu": "Melegedjen fel bent a helyi művészetet felfedezve; a vastag télikabátot hagyja a ruhatárban.",
+                "ro": "Încălziți-vă înăuntru explorând arta locală; lăsați haina groasă de iarnă la garderobă.",
+                "en": "Warm up inside while exploring local art; leave your heavy winter coat in the cloakroom."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal de Galapagar",
+                "hu": "Piscina municipal de Galapagar",
+                "ro": "Piscina municipal de Galapagar",
+                "en": "Piscina municipal de Galapagar"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte mit einem entspannten Schwimmen im gemütlich beheizten Hallenbad.",
+                "hu": "Meneküljenek a téli hideg elől egy pihentető úszással a kellemesen fűtött városi uszodában.",
+                "ro": "Scăpați de frigul iernii cu o baie relaxantă în piscina municipală interioară încălzită.",
+                "en": "Escape the winter cold with a relaxing swim in the comfortably heated indoor municipal pool."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro",
+                "hu": "Anfiteatro",
+                "ro": "Anfiteatro",
+                "en": "Anfiteatro"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Amphitheater wirkt dramatisch im Winterlicht; tragen Sie eine warme Mütze gegen den Wind.",
+                "hu": "A kő amfiteátrum drámaian fest a téli napfényben; viseljen meleg sapkát a hideg szél ellen.",
+                "ro": "Amfiteatrul de piatră arată dramatic în lumina soarelui de iarnă; purtați o căciulă caldă.",
+                "en": "The stone amphitheater looks dramatic in the winter sunlight; wear a warm hat against the cold breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente del Pozuelo",
+                "hu": "Fuente del Pozuelo",
+                "ro": "Fuente del Pozuelo",
+                "en": "Fuente del Pozuelo"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann an Wintermorgen gefroren sein; tragen Sie warme Handschuhe für Fotos.",
+                "hu": "A víz téli reggeleken befagyhat; viseljen meleg kesztyűt, ha fényképezni szeretne a hidegben.",
+                "ro": "Apa poate fi înghețată în diminețile de iarnă; purtați mănuși groase dacă stați la poze.",
+                "en": "The water might be frozen during winter mornings; wear warm gloves if you plan to stay and take pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Santiago Apóstol",
+                "hu": "Santiago Apóstol",
+                "ro": "Santiago Apóstol",
+                "en": "Santiago Apóstol"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten das Innere kühl, behalten Sie Ihre Winterschichten bei der Besichtigung an.",
+                "hu": "A vastag falak bent is hűvösek, így tartsa magán a téli rétegeket, miközben a csendes hajót felfedezi.",
+                "ro": "Zidurile groase mențin interiorul rece, așa că păstrați hainele de iarnă în timp ce explorați naosul.",
+                "en": "The thick walls keep the interior cool, so keep your winter layers on while exploring the quiet nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "hu": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "ro": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "en": "Centro Cívico - Teatro Municipal de Colmenarejo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang um 17:00 Uhr für eine Show im beheizten Saal.",
+                "hu": "Érkezzen a korai 17:00 órás naplemente előtt, és élvezze az esti műsort a fűtött nézőtéren.",
+                "ro": "Ajungeți înainte de apusul de la 17:00 pentru a vă bucura de un spectacol în sala încălzită.",
+                "en": "Arrive before the early 17:00 sunset to enjoy an evening show in the comfortably heated auditorium."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje útját a jellegzetes Canto del Peso nevű, lenyűgöző geológiai nevezetességnél. Délelőtt látogasson el a La Pocilla és a Recrearte kulturális központokba, mielőtt nyugat felé indulna. Az ősi Pilas del Navazo-nál tett megálló után fedezze fel az idilli Fuente del Pozuelo-t. A kirándulás Colmenarejóban ér véget, a Santiago Apóstol templomnál és a nyüzsgő helyi színháznál.",
         "ro": "Începeți călătoria cu mașina la impresionantul Canto del Peso, un reper geologic fascinant. În prima parte a zilei vizitați centrele culturale La Pocilla și Recrearte, înainte de a conduce spre vest. După o oprire la anticele Pilas del Navazo, descoperiți idilica Fuente del Pozuelo. Excursia se încheie la Colmenarejo cu biserica Santiago Apóstol și frumosul teatru municipal.",
         "en": "Kick off your scenic drive at the striking Canto del Peso, a fascinating local geological landmark. Spend your morning exploring the cultural hubs of La Pocilla and Recrearte before driving westwards. After a stop at the ancient Pilas del Navazo troughs, discover the idyllic Fuente del Pozuelo. Your road trip concludes with the Santiago Apóstol church and the municipal theater."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig durch den Regen zum Felsen Canto del Peso.\n\nMittags bieten La Pocilla und Recrearte hervorragende trockene Kulturangebote.\n\nHalten Sie nachmittags Regenschirme für die rutschigen Wege zu den Denkmälern bereit.\n\nBeenden Sie den nassen Abend sicher vor dem Sturm im Theater von Colmenarejo.",
+            "hu": "Vezessen óvatosan a reggeli esőben, hogy megnézze a Canto del Peso sziklákat.\n\nDélben a La Pocilla és a Recrearte nyújt kiváló benti kulturális menedéket.\n\nDélután tartsa kéznél az esernyőt a csúszós, rövid sétákhoz a nevezetességekhez.\n\nZárja a nedves estét a Colmenarejo színházban, biztonságban a vihartól.",
+            "ro": "Conduceți cu prudență prin ploaia matinală pentru a vedea rocile Canto del Peso.\n\nPrânzul oferă refugii culturale interioare excelente la La Pocilla și Recrearte.\n\nDupă-amiaza, țineți umbrela la îndemână pentru plimbări scurte și alunecoase.\n\nÎncheiați seara umedă în interiorul teatrului Colmenarejo, la adăpost de furtună.",
+            "en": "Drive carefully through the morning rain to see the Canto del Peso rocks.\n\nMidday offers excellent indoor cultural escapes at La Pocilla and Recrearte.\n\nIn the afternoon, keep umbrellas handy for brief slippery walks to the landmarks.\n\nConclude the wet evening inside the Colmenarejo theatre, safe from the storm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Canto del Peso",
+                "hu": "Canto del Peso",
+                "ro": "Canto del Peso",
+                "en": "Canto del Peso"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Felsformation bequem aus dem Auto oder steigen Sie kurz mit Schirm aus.",
+                "hu": "Nézze meg a lenyűgöző sziklaalakzatot kényelmesen az autóból, vagy lépjen ki rövid időre esernyővel.",
+                "ro": "Vedeți formațiunea stâncoasă impresionantă din confortul mașinii sau ieșiți scurt cu o umbrelă.",
+                "en": "View the impressive rock formation from the comfort of your car, or step out briefly with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural La Pocilla",
+                "hu": "Centro Cultural La Pocilla",
+                "ro": "Centro Cultural La Pocilla",
+                "en": "Centro Cultural La Pocilla"
+              },
+              "tip_5lang": {
+                "de": "Dieses Kulturzentrum ist der perfekte Zufluchtsort an Regentagen; erkunden Sie die weiten Hallen trocken.",
+                "hu": "Ez a nagy kulturális központ tökéletes esős menedék; fedezze fel tágas termeit anélkül, hogy megázna.",
+                "ro": "Acest mare centru cultural este un refugiu perfect pe ploaie; explorați sălile sale spațioase fără a vă uda.",
+                "en": "This large cultural center is a perfect rainy-day refuge; explore its spacious halls without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Recrearte",
+                "hu": "Recrearte",
+                "ro": "Recrearte",
+                "en": "Recrearte"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ausstellungen im Trockenen; vergessen Sie nicht, Ihren Regenschirm am Eingang auszuschütteln.",
+                "hu": "Élvezze a benti kiállításokat teljesen szárazon; ne felejtse el lerázni az esernyőjét a bejáratnál.",
+                "ro": "Bucurați-vă de expozițiile interioare la adăpost; nu uitați să scuturați umbrela la intrare.",
+                "en": "Enjoy indoor exhibitions to stay completely dry; don't forget to shake off your umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Pilas del Navazo",
+                "hu": "Pilas del Navazo",
+                "ro": "Pilas del Navazo",
+                "en": "Pilas del Navazo"
+              },
+              "tip_5lang": {
+                "de": "Der Regen macht diese historischen Steine sehr rutschig; tragen Sie feste Schuhe und passen Sie auf.",
+                "hu": "Az eső rendkívül csúszóssá teszi ezeket a történelmi köveket; viseljen strapabíró cipőt és vigyázzon.",
+                "ro": "Ploaia face aceste pietre istorice extrem de alunecoase; purtați bocanci solizi și fiți atenți.",
+                "en": "The rain makes these historic stones extremely slippery; wear sturdy boots and watch your footing."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente del Pozuelo",
+                "hu": "Fuente del Pozuelo",
+                "ro": "Fuente del Pozuelo",
+                "en": "Fuente del Pozuelo"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto vom historischen Brunnen mit wasserdichten Schuhen gegen den Matsch.",
+                "hu": "Készítsen egy gyors fotót a történelmi kútról, vízálló cipőben, hogy elkerülje a sáros tócsákat.",
+                "ro": "Faceți o fotografie rapidă fântânii istorice purtând încălțăminte impermeabilă pentru a evita noroiul.",
+                "en": "Take a quick photo of the historic fountain while wearing waterproof shoes to avoid muddy puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Santiago Apóstol",
+                "hu": "Santiago Apóstol",
+                "ro": "Santiago Apóstol",
+                "en": "Santiago Apóstol"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese historische Kirche ein, um sich zu trocknen und die Architektur vor dem Sturm zu bewundern.",
+                "hu": "Lépjen be ebbe a történelmi templomba, hogy megszáradjon és megcsodálja az építészetét a vihar elől védve.",
+                "ro": "Intrați în această biserică istorică pentru a vă usca și a-i admira arhitectura ferită de furtună.",
+                "en": "Step inside this historic church to dry off and admire its stunning architecture protected from the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "hu": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "ro": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "en": "Centro Cívico - Teatro Municipal de Colmenarejo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer trockenen Theatervorstellung; die perfekte Flucht vor dem Regen.",
+                "hu": "Zárja a napot egy száraz, benti színházi előadással; tökéletes menedék egy esős estén.",
+                "ro": "Încheiați ziua cu o piesă de teatru în interior; este evadarea perfectă într-o seară ploioasă.",
+                "en": "End your day with a dry, indoor theater performance; it's the perfect escape from a rainy evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostigen Canto del Peso Felsen sehen auf der morgendlichen Fahrt toll aus.\n\nMittags bieten La Pocilla und Recrearte perfekt beheizte kulturelle Pausen.\n\nDie nachmittäglichen Besuche sind frisch; tragen Sie warme Schichten gegen den Wind.\n\nErreichen Sie das Bürgerzentrum, wenn der frühe Sonnenuntergang um 17:00 Frost bringt.",
+            "hu": "A dérlepte Canto del Peso sziklák lenyűgözőek a hideg reggeli autózás során.\n\nDélben a La Pocilla és a Recrearte biztosít kellemesen fűtött kulturális pihenőt.\n\nDélután öltözzön rétegesen a nevezetességek melletti csípős, hideg szél ellen.\n\nÉrkezzen a civil központba, amikor a 17:00 órás naplemente fagyos időt hoz.",
+            "ro": "Rocile înghețate Canto del Peso arată uimitor într-o dimineață rece de condus.\n\nPauzele de prânz la La Pocilla și Recrearte oferă refugii culturale bine încălzite.\n\nVizitele de după-amiază sunt geroase; purtați haine groase împotriva vântului.\n\nAjungeți la centrul civic la apusul devreme de la 17:00, când se lasă gerul.",
+            "en": "The frosty Canto del Peso rocks look stunning on a cold morning drive.\n\nMidday stops at La Pocilla and Recrearte provide perfectly heated cultural breaks.\n\nAfternoon landmark visits are brisk; wear warm layers against the crisp wind.\n\nArrive at the civic center as the early sunset at 17:00 brings freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Canto del Peso",
+                "hu": "Canto del Peso",
+                "ro": "Canto del Peso",
+                "en": "Canto del Peso"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen sehen im Morgenfrost spektakulär aus; Vorsicht, der Boden kann eisig sein.",
+                "hu": "A sziklák látványosak a reggeli zúzmarában; legyen óvatos, mert a talaj körülöttük jeges lehet.",
+                "ro": "Rocile arată spectaculos acoperite de brumă; aveți grijă, solul din jur poate fi înghețat.",
+                "en": "The rocks look spectacular covered in morning frost; be careful as the ground around it can be icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural La Pocilla",
+                "hu": "Centro Cultural La Pocilla",
+                "ro": "Centro Cultural La Pocilla",
+                "en": "Centro Cultural La Pocilla"
+              },
+              "tip_5lang": {
+                "de": "Das gut beheizte Gebäude ist ideal für den Winter; genießen Sie Events abseits der eisigen Winde.",
+                "hu": "A jól fűtött épület ideális téli megálló; élvezze a kulturális programokat távol a jeges széltől.",
+                "ro": "Clădirea bine încălzită este ideală iarna; bucurați-vă de evenimentele culturale departe de vântul înghețat.",
+                "en": "The well-heated building is ideal for a winter stop; enjoy the cultural events away from the icy winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Recrearte",
+                "hu": "Recrearte",
+                "ro": "Recrearte",
+                "en": "Recrearte"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen bei lokaler Kunst auf; lassen Sie Ihren dicken Wintermantel an der Garderobe.",
+                "hu": "Melegedjen fel bent a helyi művészetet felfedezve; a vastag télikabátot hagyja a ruhatárban.",
+                "ro": "Încălziți-vă înăuntru explorând arta locală; lăsați haina groasă de iarnă la garderobă.",
+                "en": "Warm up inside while exploring local art; leave your heavy winter coat in the cloakroom."
+              }
+            },
+            {
+              "name": {
+                "de": "Pilas del Navazo",
+                "hu": "Pilas del Navazo",
+                "ro": "Pilas del Navazo",
+                "en": "Pilas del Navazo"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich mit Schal und Mantel ein, um die Steine im beißenden Winterwind zu erkunden.",
+                "hu": "Vegyen fel sálat és vastag kabátot, hogy felfedezze ezeket a köveket a csípős téli szélben.",
+                "ro": "Înfășurați-vă cu un fular și o haină groasă pentru a explora pietrele în vântul tăios de iarnă.",
+                "en": "Wrap up with a scarf and thick coat to explore these exposed stones against the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente del Pozuelo",
+                "hu": "Fuente del Pozuelo",
+                "ro": "Fuente del Pozuelo",
+                "en": "Fuente del Pozuelo"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann an Wintermorgen gefroren sein; tragen Sie warme Handschuhe für Fotos.",
+                "hu": "A víz téli reggeleken befagyhat; viseljen meleg kesztyűt, ha fényképezni szeretne a hidegben.",
+                "ro": "Apa poate fi înghețată în diminețile de iarnă; purtați mănuși groase dacă stați la poze.",
+                "en": "The water might be frozen during winter mornings; wear warm gloves if you plan to stay and take pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Santiago Apóstol",
+                "hu": "Santiago Apóstol",
+                "ro": "Santiago Apóstol",
+                "en": "Santiago Apóstol"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten das Innere kühl, behalten Sie Ihre Winterschichten bei der Besichtigung an.",
+                "hu": "A vastag falak bent is hűvösek, így tartsa magán a téli rétegeket, miközben a csendes hajót felfedezi.",
+                "ro": "Zidurile groase mențin interiorul rece, așa că păstrați hainele de iarnă în timp ce explorați naosul.",
+                "en": "The thick walls keep the interior cool, so keep your winter layers on while exploring the quiet nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "hu": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "ro": "Centro Cívico - Teatro Municipal de Colmenarejo",
+                "en": "Centro Cívico - Teatro Municipal de Colmenarejo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang um 17:00 Uhr für eine Show im beheizten Saal.",
+                "hu": "Érkezzen a korai 17:00 órás naplemente előtt, és élvezze az esti műsort a fűtött nézőtéren.",
+                "ro": "Ajungeți înainte de apusul de la 17:00 pentru a vă bucura de un spectacol în sala încălzită.",
+                "en": "Arrive before the early 17:00 sunset to enjoy an evening show in the comfortably heated auditorium."
+              }
+            }
+          ]
+        }
       }
     }
   }

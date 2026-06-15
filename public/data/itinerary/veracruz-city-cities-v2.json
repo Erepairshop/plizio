@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy békés sétával a buja Parque Zoológico-ban, majd csodálja meg a fenséges várkapu másolatát. Délben irány a nyüzsgő Acuario Tecnomarine, ahol az öböl lenyűgöző tengeri élővilágát fedezheti fel. A délután folyamán kényelmesen beszerezheti a jegyeket, majd a Ripley's bizarr csodái várják a látogatókat. Az este felejthetetlen vizuális élményekkel zárul Veracruz pezsgő szívében.",
         "ro": "Începeți dimineața cu o plimbare liniștită prin luxuriantul Parque Zoológico, înainte de a admira replica maiestuoasă a porții castelului. La amiază, îndreptați-vă spre animatul Acuario Tecnomarine pentru a explora fascinanta viață marină a Golfului. După-amiaza vă oferă o oportunitate convenabilă de a lua bilete, urmată de minunile bizare de la Ripley's. Seara se încheie cu impresii de neuitat în centrul orașului Veracruz.",
         "en": "Start your morning with a peaceful stroll through the lush Parque Zoológico before admiring the majestic castle replica gate nearby. Midday brings you to the lively Acuario Tecnomarine, where you can explore the fascinating marine life of the Gulf. The afternoon offers a convenient stop for tickets at the central landmark, followed by the bizarre wonders of Ripley's. The evening concludes with unforgettable impressions in the heart of Veracruz."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir den Zoo, wo die dichte Vegetation Schutz vor leichtem Regen bietet. Mittags machen wir einen kurzen Stopp am Burgtor, bevor wir ins trockene Aquarium flüchten. Der Nachmittag gehört den kuriosen Exponaten im Ripley's Museum. Abends genießen wir die beleuchtete Promenade unter dem Schutz der Arkaden, während der Regen auf das Kopfsteinpflaster trommelt.",
+            "hu": "Reggel az állatkerttel kezdünk, ahol a sűrű növényzet védelmet nyújt a szemerkélő esőben. Délben egy gyors fotó a várkapunál, majd az akvárium fedett csarnokaiba vonulunk. Délután a Ripley's múzeum különlegességei várnak szárazon. Este a kivilágított sétányt csodáljuk meg az árkádok védelméből, miközben az eső kopog a macskaköveken.",
+            "ro": "Dimineața vizităm grădina zoologică, unde vegetația deasă oferă adăpost împotriva ploii ușoare. La prânz facem o scurtă oprire la poarta castelului, apoi ne refugiem în acvariu. După-amiaza aparține exponatelor curioase de la Muzeul Ripley's. Seara admirăm faleza iluminată de sub protecția arcadelor, în timp ce ploaia bate pe caldarâm.",
+            "en": "In the morning, we visit the zoo, where dense vegetation provides shelter from light rain. At noon, a quick stop at the castle gate before escaping to the dry aquarium. The afternoon is dedicated to the curious exhibits at Ripley's Museum. In the evening, enjoy the illuminated promenade from under the arches as rain patters on the cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoologischer Park Miguel Ángel de Quevedo",
+                "hu": "Miguel Ángel de Quevedo Állatkert",
+                "ro": "Parcul Zoologic Miguel Ángel de Quevedo",
+                "en": "Miguel Ángel de Quevedo Zoological Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die bewaldeten Wege als natürlichen Schirm und besuchen Sie das Reptilienhaus, um trocken zu bleiben; feste Schuhe verhindern das Ausrutschen auf feuchten Blättern.",
+                "hu": "Használd az erdős ösvényeket természetes ernyőként, és látogasd meg a hüllőházat, hogy száraz maradj; a zárt cipő segít elkerülni a csúszkálást a nedves leveleken.",
+                "ro": "Folosiți potecile împădurite ca umbrelă naturală și vizitați casa reptilelor pentru a rămâne uscat; încălțămintea aderentă previne alunecarea pe frunzele umede.",
+                "en": "Use the forested paths as a natural umbrella and visit the reptile house to stay dry; sturdy shoes prevent slipping on damp leaves and muddy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachbildung des Burgtors",
+                "hu": "Óriás várkapu másolat",
+                "ro": "Replica Porții Castelului",
+                "en": "Replica Gate with Giant"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal ist im Freien, also halten Sie Ihren Regenschirm bereit für ein schnelles Foto vor der beeindruckenden Replik des historischen Stadttores.",
+                "hu": "Ez az emlékmű szabadtéri, így tartsd készenlétben az esernyődet egy gyors fotóhoz a történelmi városkapu lenyűgöző másolata előtt.",
+                "ro": "Acest monument este în aer liber, așa că țineți umbrela pregătită pentru o fotografie rapidă în fața replicii impresionante a porții istorice a orașului.",
+                "en": "This monument is outdoors, so keep your umbrella ready for a quick photo in front of the impressive replica of the historical city gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Tecnomarine",
+                "hu": "Tecnomarine Akvárium",
+                "ro": "Acvariul Tecnomarine",
+                "en": "Acuario Tecnomarine"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zufluchtsort bei Regen; verbringen Sie zusätzliche Zeit in den Unterwasser-Tunneln, um die Haie zu beobachten, ohne nass zu werden.",
+                "hu": "Ideális búvóhely esőben; tölts el több időt a víz alatti alagutakban, hogy megfigyeld a cápákat anélkül, hogy eláznál a kinti felhőszakadásban.",
+                "ro": "Un refugiu ideal pe timp de ploaie; petreceți timp suplimentar în tunelurile subacvatice pentru a observa rechinii fără a vă uda deloc.",
+                "en": "An ideal refuge during rain; spend extra time in the underwater tunnels to watch the sharks without getting wet in the downpour outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentraler Ticketverkauf",
+                "hu": "Központi jegyiroda",
+                "ro": "Vânzare Bilete Centrală",
+                "en": "Venta de tiquetes"
+              },
+              "tip_5lang": {
+                "de": "Die Warteschlangen sind bei Regen kürzer; nutzen Sie die Überdachung des Gebäudes, um Ihre nächste Tour in Ruhe zu planen und trocken zu bleiben.",
+                "hu": "Esőben rövidebbek a sorok; használd az épület előtetőjét, hogy nyugodtan megtervezd a következő túrádat, miközben szárazon maradsz a fedél alatt.",
+                "ro": "Cozile sunt mai scurte pe ploaie; folosiți copertina clădirii pentru a vă planifica următoarea etapă a turului în liniște și la adăpost.",
+                "en": "Queues are shorter during rain; use the building's overhang to plan your next tour step in peace while staying dry under the cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley's Museum der Kuriositäten",
+                "hu": "Ripley's Különlegességek Múzeuma",
+                "ro": "Muzeul Ripley's",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss eines regnerischen Tages; die interaktiven Exponate befinden sich alle im Innenbereich und bieten stundenlange, trockene Unterhaltung.",
+                "hu": "Tökéletes befejezése egy esős napnak; az interaktív kiállítások mind beltéren vannak, és több órányi száraz szórakozást nyújtanak minden korosztálynak.",
+                "ro": "Finalul perfect pentru o zi ploioasă; exponatele interactive sunt toate în interior și oferă ore întregi de divertisment uscat și captivant.",
+                "en": "The perfect end to a rainy day; the interactive exhibits are all indoors and offer hours of dry entertainment for visitors of all ages."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Veracruz ist mild, ideal für einen ausgiebigen Morgenspaziergang im Zoo. Mittags genießen wir die Sonne am Burgtor, bevor wir das kühle Aquarium besuchen. Am Nachmittag erkunden wir Ripley's, während das Licht weicher wird. Da die Sonne gegen 17:00 Uhr untergeht, lassen wir den Tag gemütlich in einem Café im Zentrum ausklingen.",
+            "hu": "A veracruzi tél enyhe, ideális egy kiadós reggeli sétához az állatkertben. Délben élvezzük a napsütést a várkapunál, majd meglátogatjuk a hűvösebb akváriumot. Délután a Ripley's kiállításait fedezzük fel, miközben a fények lágyulnak. Mivel a nap 17:00 körül nyugszik, a napot egy központi kávézóban zárjuk.",
+            "ro": "Iarna în Veracruz este blândă, ideală pentru o plimbare lungă de dimineață la zoo. La prânz ne bucurăm de soare la poarta castelului, apoi vizităm acvariul. După-amiaza explorăm Ripley's, în timp ce lumina devine mai caldă. Deoarece soarele apune pe la ora 17:00, încheiem ziua la o cafenea centrală.",
+            "en": "Winter in Veracruz is mild, ideal for a long morning walk in the zoo. At noon, enjoy the gentle sun at the castle gate before visiting the aquarium. In the afternoon, explore Ripley's as the light softens. Since the sun sets around 17:00, we end the day comfortably in a central cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoologischer Park Miguel Ángel de Quevedo",
+                "hu": "Miguel Ángel de Quevedo Állatkert",
+                "ro": "Parcul Zoologic Miguel Ángel de Quevedo",
+                "en": "Miguel Ángel de Quevedo Zoological Park"
+              },
+              "tip_5lang": {
+                "de": "Das kühlere Winterwetter macht die Tiere aktiver; tragen Sie Schichten, da es im Schatten der Bäume ohne die Sommerhitze frisch sein kann.",
+                "hu": "A hűvösebb téli időjárás aktívabbá teszi az állatokat; öltözz rétegesen, mert a fák árnyékában a nyári hőség nélkül friss lehet a levegő.",
+                "ro": "Vremea mai răcoroasă de iarnă face animalele mai active; purtați straturi de haine, deoarece la umbra copacilor poate fi răcoare fără canicula verii.",
+                "en": "The cooler winter weather makes the animals more active; wear layers as it can be fresh in the shade of the trees without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachbildung des Burgtors",
+                "hu": "Óriás várkapu másolat",
+                "ro": "Replica Porții Castelului",
+                "en": "Replica Gate with Giant"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos ohne den Dunst der feuchten Jahreszeit; ein dünner Schal schützt vor der kühlen Brise am Vormittag.",
+                "hu": "Használd ki a tiszta téli fényeket a fotózáshoz a párás évszak köde nélkül; egy vékony sál megvéd a hűvös délelőtti szellőtől.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii fără negura sezonului umed; o eșarfă subțire vă protejează de briza răcoroasă de dimineață.",
+                "en": "Take advantage of the clear winter light for photos without the humid season's haze; a thin scarf protects against the cool morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Tecnomarine",
+                "hu": "Tecnomarine Akvárium",
+                "ro": "Acvariul Tecnomarine",
+                "en": "Acuario Tecnomarine"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier weniger überlaufen; genießen Sie die Ruhe vor den Becken, aber denken Sie daran, dass die Klimatisierung innen kühl wirken kann.",
+                "hu": "Télen itt kevésbé van tömeg; élvezd a nyugalmat a medencék előtt, de ne feledd, hogy a benti légkondicionálás hűvösnek tűnhet ilyenkor.",
+                "ro": "Iarna este mai puțin aglomerat aici; bucurați-vă de liniștea din fața bazinelor, dar rețineți că aerul condiționat interior poate părea destul de rece.",
+                "en": "It's less crowded here in winter; enjoy the peace in front of the tanks, but keep in mind that the indoor air conditioning can feel quite cool now."
+              }
+            },
+            {
+              "name": {
+                "de": "Zentraler Ticketverkauf",
+                "hu": "Központi jegyiroda",
+                "ro": "Vânzare Bilete Centrală",
+                "en": "Venta de tiquetes"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Touren frühzeitig, da die Öffnungszeiten im Winter leicht variieren können und die Dämmerung früher einsetzt als im Sommer.",
+                "hu": "Tervezd meg a túráidat időben, mivel a nyitvatartás télen némileg változhat, és a szürkület is sokkal korábban köszönt be, mint nyáron.",
+                "ro": "Planificați-vă tururile din timp, deoarece programul de iarnă poate varia ușor și amurgul se instalează mult mai devreme decât în timpul verii.",
+                "en": "Plan your tours early, as winter opening hours may vary slightly and dusk sets in much earlier than it does during the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley's Museum der Kuriositäten",
+                "hu": "Ripley's Különlegességek Múzeuma",
+                "ro": "Muzeul Ripley's",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort am späten Nachmittag; wenn Sie das Museum verlassen, ist es bereits dunkel und die Stadtlichter von Veracruz funkeln besonders schön.",
+                "hu": "Hangulatos hely késő délután; mire elhagyod a múzeumot, már sötét lesz, és Veracruz városi fényei különösen szépen csillognak a téli estén.",
+                "ro": "Un loc primitor după-amiaza târziu; când ieșiți din muzeu, va fi deja întuneric, iar luminile orașului Veracruz vor sclipi deosebit de frumos.",
+                "en": "A cozy spot for late afternoon; by the time you leave the museum, it will be dark, and Veracruz's city lights will sparkle beautifully."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon reggel a védett lagúnák szigetvilágában, élvezve az érintetlen természetet, mielőtt meglátogatná a helyi állatkertet. Dél körül érkezik az Acuario Tecnomarine-hoz, amely tökéletes helyszín egy családbarát pihenőre. Délután felfedezheti a Ripley's furcsa illúzióit, majd egy pihentető tekerés következik a Playa Regatas strandra. Az estét a történelmi fotózásnak szentelheti az elegáns Fototeca épületében.",
         "ro": "Pedalați dimineața prin arhipelagul protejat de lagune, bucurându-vă de natura virgină, înainte de a vizita parcul zoologic local. În jurul prânzului ajungeți la Acuario Tecnomarine, un loc perfect pentru o pauză relaxantă în familie. După-amiaza descoperiți iluziile ciudate de la Ripley's, urmată de o plimbare liniștită spre Playa Regatas. Seara este dedicată fotografiei istorice în clădirea elegantă Fototeca de Veracruz.",
         "en": "Cycle through the protected lagoon archipelago in the morning, enjoying the untouched nature before visiting the local zoological park. Around midday, you will arrive at the Acuario Tecnomarine, providing a perfect spot for a family-friendly break. The afternoon invites you to discover the quirky illusions at Ripley's, followed by a relaxing ride to Playa Regatas. Spend your evening exploring historic photography at the elegant Fototeca."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig durch das Lagunen-Schutzgebiet, wo die Wege rutschig sein können. Mittags bietet der Zoo Schutz unter Bäumen. Nach dem Aquarium und Ripley's lassen wir den Strandbesuch bei Regen kurz aus und flüchten in die Fototeca. Abends reflektieren die Pfützen die bunten Lichter der Stadt auf unserem Heimweg.",
+            "hu": "Reggel óvatosan tekerünk a lagúnák mentén, ahol az utak csúszósak lehetnek. Délben az állatkert fái nyújtanak menedéket. Az akvárium és a Ripley's után az esős strandot most csak érintjük, és a Fotótékába menekülünk. Este a tócsák tükrözik a város színes fényeit a hazaúton.",
+            "ro": "Dimineața pedalăm cu atenție prin rezervația lagunelor, unde potecile pot fi alunecoase. La prânz, grădina zoologică oferă adăpost sub copaci. După acvariu și Ripley's, scurtăm vizita la plajă și ne refugiem în Fototeca. Seara, bălțile reflectă luminile colorate ale orașului pe drumul spre casă.",
+            "en": "In the morning, we cycle carefully through the lagoon reserve, where paths can be slippery. At noon, the zoo offers shelter under the trees. After the aquarium and Ripley's, we skip the rainy beach for the Fototeca. In the evening, puddles reflect the city's colorful lights on our ride home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schutzgebiet Archipel der Lagunen",
+                "hu": "Lagúnák Szigetvilága Természetvédelmi Terület",
+                "ro": "Aria Protejată Arhipelagul Lagunelor",
+                "en": "Área Natural Protegida Archipiélago de Lagunas Interdunarias"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können sehr schlammig werden; fahren Sie langsam und achten Sie auf Wasserlachen, die tiefe Löcher verbergen könnten.",
+                "hu": "A földutak nagyon sárosak lehetnek; tekerj lassan, és ügyelj a tócsákra, amelyek mély gödröket rejthetnek az eső után a kerékpárút mentén.",
+                "ro": "Drumurile neasfaltate pot deveni foarte noroioase; pedalați încet și atenție la bălțile care ar putea ascunde gropi adânci pe traseul de bicicletă.",
+                "en": "The unpaved paths can become very muddy; ride slowly and watch out for puddles that might hide deep holes after the rain along the bike trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoologischer Park Miguel Ángel de Quevedo",
+                "hu": "Miguel Ángel de Quevedo Állatkert",
+                "ro": "Parcul Zoologic Miguel Ángel de Quevedo",
+                "en": "Miguel Ángel de Quevedo Zoological Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem überdachten Platz am Eingang; im Inneren bieten die Pavillons Schutz vor plötzlichen tropischen Regenschauern.",
+                "hu": "Parkold a biciklidet egy fedett helyen a bejáratnál; odabent a pavilonok védelmet nyújtanak a hirtelen lezúduló trópusi esőzések ellen.",
+                "ro": "Parcați bicicleta într-un loc acoperit la intrare; în interior, pavilioanele oferă protecție împotriva averselor tropicale bruște de ploaie.",
+                "en": "Park your bike in a covered spot at the entrance; inside, the pavilions provide protection against sudden tropical rain showers during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Tecnomarine",
+                "hu": "Tecnomarine Akvárium",
+                "ro": "Acvariul Tecnomarine",
+                "en": "Acuario Tecnomarine"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Regenkleidung zu lüften; nutzen Sie die Schließfächer für Ihre nassen Sachen, während Sie die Meereswelt erkunden.",
+                "hu": "Tökéletes megálló az esőruházat szellőztetésére; használd az értékmegőrzőket a nedves holmiknak, amíg felfedezed a tengeri világot szárazon.",
+                "ro": "O oprire perfectă pentru a vă aerisi echipamentul de ploaie; folosiți vestiarele pentru lucrurile ude în timp ce explorați lumea marină la adăpost.",
+                "en": "A perfect stop to air out your rain gear; use the lockers for your wet things while you explore the marine world in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley's Museum der Kuriositäten",
+                "hu": "Ripley's Különlegességek Múzeuma",
+                "ro": "Muzeul Ripley's",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den nassen Asphalt; das Museum bietet eine lange, trockene Pause von der feuchten Fahrt durch die Stadt.",
+                "hu": "Vigyázz a vizes aszfaltra leszálláskor; a múzeum hosszú, száraz pihenőt kínál a városi tekerés után a csapadékos időben.",
+                "ro": "Atenție la asfaltul ud când coborâți de pe bicicletă; muzeul oferă o pauză lungă și uscată după pedalarea prin oraș pe vreme ploioasă.",
+                "en": "Watch out for wet asphalt when dismounting; the museum offers a long, dry break from cycling through the city in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Regatas",
+                "hu": "Regatas Strand",
+                "ro": "Plaja Regatas",
+                "en": "Playa Regatas"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist der Sand fest, aber das Meer unruhig; suchen Sie Schutz in einem der Strandrestaurants und genießen Sie den Blick auf die Wellen.",
+                "hu": "Esőben a homok keményebb, de a tenger nyugtalan; keress menedéket az egyik strandközeli étteremben, és élvezd a hullámok látványát szárazon.",
+                "ro": "Pe ploaie nisipul este compact, dar marea este agitată; căutați adăpost într-unul dintre restaurantele de pe plajă și admirați valurile de la distanță.",
+                "en": "During rain, the sand is firm but the sea is restless; seek shelter in one of the beachside restaurants and enjoy the view of the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Fototeca von Veracruz",
+                "hu": "Veracruz Fotótéka",
+                "ro": "Fototeca din Veracruz",
+                "en": "Fototeca de Veracruz"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Gebäude ist ideal, um den Tag trocken zu beenden; die Fotoausstellungen sind in wunderschön restaurierten, wetterfesten Räumen untergebracht.",
+                "hu": "Ez a történelmi épület ideális a nap száraz befejezéséhez; a fotókiállítások gyönyörűen felújított, időjárásálló termekben kaptak helyet.",
+                "ro": "Această clădire istorică este ideală pentru a încheia ziua la uscat; expozițiile foto sunt găzduite în săli frumos restaurate și protejate de intemperii.",
+                "en": "This historic building is ideal for ending the day dry; the photo exhibitions are housed in beautifully restored, weather-proof rooms."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft in den Lagunen frisch und belebend. Wir radeln zum Zoo, wo die milden Temperaturen ideal für Tiere und Besucher sind. Nachmittags geht es über das Aquarium und Ripley's zum Strand von Regatas, um die Wintersonne zu genießen. Den Tag beenden wir in der Fototeca, bevor die kühle Abendbrise gegen 17:30 Uhr einsetzt.",
+            "hu": "Reggel a lagúnák felett friss és élénkítő a levegő. Az állatkertbe tekerünk, ahol a téli hőmérséklet ideális az állatoknak és nekünk is. Délután az akvárium és a Ripley's után a Regatas strandon élvezzük a téli napsütést. A napot a Fotótékában zárjuk, mielőtt 17:30 körül feltámad a hűvös esti szél.",
+            "ro": "Dimineața aerul de deasupra lagunelor este proaspăt și revigorant. Pedalăm spre grădina zoologică, unde temperaturile blânde sunt ideale. După-amiaza, după acvariu și Ripley's, mergem la plaja Regatas pentru soarele de iarnă. Încheiem ziua la Fototeca, înainte ca briza răcoroasă de seară să apară pe la 17:30.",
+            "en": "In the morning, the air over the lagoons is fresh and invigorating. Cycle to the zoo, where mild temperatures are ideal for everyone. In the afternoon, after the aquarium and Ripley's, enjoy the winter sun at Regatas beach. End the day at the Fototeca before the cool evening breeze starts around 17:30."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schutzgebiet Archipel der Lagunen",
+                "hu": "Lagúnák Szigetvilága Természetvédelmi Terület",
+                "ro": "Aria Protejată Arhipelagul Lagunelor",
+                "en": "Área Natural Protegida Archipiélago de Lagunas Interdunarias"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermonate sind perfekt für die Vogelbeobachtung; bringen Sie ein Fernglas mit und tragen Sie eine leichte Jacke gegen den Wind von den Lagunen.",
+                "hu": "A téli hónapok tökéletesek a madárleshez; hozz távcsövet, és viselj könnyű kabátot a lagúnák felől fújó szél ellen a reggeli túrán.",
+                "ro": "Lunile de iarnă sunt perfecte pentru observarea păsărilor; aduceți binoclu și purtați o jachetă ușoară împotriva vântului dinspre lagune.",
+                "en": "Winter months are perfect for birdwatching; bring binoculars and wear a light jacket against the wind from the lagoons during your morning ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoologischer Park Miguel Ángel de Quevedo",
+                "hu": "Miguel Ángel de Quevedo Állatkert",
+                "ro": "Parcul Zoologic Miguel Ángel de Quevedo",
+                "en": "Miguel Ángel de Quevedo Zoological Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Radfahrt im milden Winterklima; die fehlende Hitze macht den Besuch viel angenehmer, aber achten Sie auf das frühere Schließen der Tore.",
+                "hu": "Élvezd a biciklizést az enyhe téli klímában; a hőség hiánya sokkal kellemesebbé teszi a látogatást, de ügyelj a kapuk korábbi zárására.",
+                "ro": "Bucurați-vă de plimbarea cu bicicleta în climatul blând de iarnă; lipsa caniculei face vizita mult mai plăcută, dar atenție la închiderea mai devreme a porților.",
+                "en": "Enjoy the bike ride in the mild winter climate; the lack of heat makes the visit much more pleasant, but watch out for earlier gate closings."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Tecnomarine",
+                "hu": "Tecnomarine Akvárium",
+                "ro": "Acvariul Tecnomarine",
+                "en": "Acuario Tecnomarine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Schatten; die Wintersonne ist zwar milder, kann aber dennoch intensiv sein, wenn Sie das kühle Innere verlassen.",
+                "hu": "Parkold a biciklidet biztonságosan az árnyékban; a téli nap ugyan enyhébb, de mégis intenzív lehet, amikor elhagyod a hűvös belső teret.",
+                "ro": "Parcați bicicleta în siguranță la umbră; soarele de iarnă este mai blând, dar poate fi totuși intens când părăsiți interiorul răcoros.",
+                "en": "Park your bike safely in the shade; the winter sun is milder but can still be intense when you leave the cool interior of the aquarium."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley's Museum der Kuriositäten",
+                "hu": "Ripley's Különlegességek Múzeuma",
+                "ro": "Muzeul Ripley's",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittag für diesen Indoor-Stopp, wenn die Wintersonne am stärksten ist; so entgehen Sie der direkten UV-Strahlung beim Radfahren.",
+                "hu": "Használd ki a délutánt erre a beltéri megállóra, amikor a téli nap a legerősebb; így elkerülheted a közvetlen UV-sugárzást tekerés közben.",
+                "ro": "Folosiți după-amiaza pentru această oprire în interior când soarele de iarnă este cel mai puternic; astfel evitați radiațiile UV directe în timp ce pedalați.",
+                "en": "Use the afternoon for this indoor stop when the winter sun is strongest; this way you avoid direct UV radiation while cycling through town."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Regatas",
+                "hu": "Regatas Strand",
+                "ro": "Plaja Regatas",
+                "en": "Playa Regatas"
+              },
+              "tip_5lang": {
+                "de": "Die Winterabende am Strand sind magisch; packen Sie eine Weste ein, da die Meeresbrise nach Sonnenuntergang um 17:00 Uhr deutlich kühler wird.",
+                "hu": "A téli esték a strandon varázslatosak; csomagolj egy mellényt, mert a tengeri szellő a 17:00-s napnyugta után érezhetően hűvösebbé válik.",
+                "ro": "Serile de iarnă pe plajă sunt magice; luați o vestă, deoarece briza mării devine vizibil mai rece după apusul soarelui de la ora 17:00.",
+                "en": "Winter evenings at the beach are magical; pack a vest as the sea breeze becomes noticeably cooler after the 17:00 sunset by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Fototeca von Veracruz",
+                "hu": "Veracruz Fotótéka",
+                "ro": "Fototeca din Veracruz",
+                "en": "Fototeca de Veracruz"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter kultureller Abschluss; das warme Licht in den Galerien bietet einen schönen Kontrast zur beginnenden winterlichen Dunkelheit draußen.",
+                "hu": "Tökéletes kulturális zárás; a galériák meleg fénye szép kontrasztot alkot a kinti téli sötétséggel, ami már korán beköszönt a városba.",
+                "ro": "Un final cultural perfect; lumina caldă din galerii oferă un contrast frumos cu întunericul de iarnă care începe să se lase afară destul de devreme.",
+                "en": "A perfect cultural end; the warm light in the galleries offers a beautiful contrast to the winter darkness starting early outside the building."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kora reggel vezessen a Tembladeras ökológiai rezervátumhoz, ahol testközelből tapasztalhatja meg a vizes élőhelyek gazdag biológiai sokféleségét. Délben megcsodálhatja a Teatro Tamsa-t, és elmerülhet a mexikói zenetörténetben a Casa de Agustín Lara múzeumban. Délután meglátogatja a monumentális várkaput és az állatkertet, mielőtt felfedezné a Ripley's furcsaságait. Az estét egy pihentető tengerparti sétával zárhatja a Playa Regatas partján.",
         "ro": "Conduceți dimineața devreme spre rezervația ecologică Tembladeras, unde puteți experimenta îndeaproape biodiversitatea bogată a zonelor umede. La prânz admirați Teatro Tamsa și pătrundeți în istoria muzicii mexicane la Casa de Agustín Lara. După-amiaza vizitați poarta monumentală a castelului și grădina zoologică, înainte de a explora curiozitățile de la Ripley's. Încheiați seara cu o plimbare relaxantă pe plaja plină de viață Playa Regatas.",
         "en": "Drive early morning to the Tembladeras ecological reserve, where you can experience the rich biodiversity of the wetlands up close. At midday, admire the grand Teatro Tamsa and delve into Mexican music history at the Casa de Agustín Lara. In the afternoon, visit the monumental castle gate and the local zoo before exploring the intriguing oddities at Ripley's. Conclude your vibrant evening with a relaxing sunset stroll along the lively Playa Regatas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir morgens das Reservat, während der Regen die Natur zum Leuchten bringt. Mittags genießen wir die Aufführung im Theater Tamsa trocken und warm. Nach dem Besuch im Lara-Museum und dem kurzen Fotostopp am Burgtor verbringen wir den Nachmittag im Zoo und bei Ripley's. Der Strandbesuch wird durch den Blick aus dem Autofenster ergänzt.",
+            "hu": "Autóval reggel a rezervátumot fedezzük fel, miközben az eső élénkíti a természet színeit. Délben a Tamsa Színházban szárazon és melegben élvezhetjük a műsort. A Lara-múzeum és a várkapu után az állatkertben és a Ripley's-ben folytatjuk a napot. A strandot végül az autó ablakából csodáljuk meg.",
+            "ro": "Cu mașina explorăm dimineața rezervația, în timp ce ploaia face natura să strălucească. La prânz ne bucurăm de teatru la Tamsa, la căldură și uscat. După muzeul Lara și poarta castelului, petrecem după-amiaza la zoo și la Ripley's. Vizita la plajă este completată de priveliștea de la fereastra mașinii.",
+            "en": "By car, we explore the reserve in the morning as rain brightens nature's colors. At noon, enjoy a show at Teatro Tamsa, dry and warm. After the Lara Museum and the castle gate, we spend the afternoon at the zoo and Ripley's. The beach visit is enjoyed through the car window today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ökologisches Reservat Tembladeras-Laguna Olmeca",
+                "hu": "Tembladeras-Laguna Olmeca Ökológiai Rezervátum",
+                "ro": "Rezervația Ecologică Tembladeras-Laguna Olmeca",
+                "en": "Reserva Ecológica Tembladeras-Laguna Olmeca"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Tierwelt vom Auto aus, wenn der Regen zu stark wird; die Lagunen wirken bei bewölktem Himmel besonders mystisch und friedlich.",
+                "hu": "Figyeld meg a vadvilágot az autóból, ha túl erősen esne az eső; a lagúnák felhős égbolt alatt különösen misztikusnak és békésnek tűnnek.",
+                "ro": "Observați fauna din mașină dacă ploaia devine prea puternică; lagunele par deosebit de mistice și liniștite sub cerul înnorat de deasupra lor.",
+                "en": "Observe the wildlife from the car if the rain gets too heavy; the lagoons look especially mystical and peaceful under the cloudy sky above."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater Tamsa",
+                "hu": "Tamsa Színház",
+                "ro": "Teatrul Tamsa",
+                "en": "Teatro Tamsa"
+              },
+              "tip_5lang": {
+                "de": "Das Parken in der Nähe des Eingangs spart Ihnen den Weg durch den Regen; genießen Sie die hervorragende Akustik in diesem modernen, trockenen Saal.",
+                "hu": "A bejárat közeli parkolás megkímél az esőtől; élvezd a kiváló akusztikát ebben a modern, fedett és teljesen száraz színházi csarnokban.",
+                "ro": "Parcarea aproape de intrare vă scutește de ploaie; bucurați-vă de acustica excelentă în această sală modernă, uscată și primitoare pentru oaspeți.",
+                "en": "Parking near the entrance saves you from the rain; enjoy the excellent acoustics in this modern, indoor, and completely dry theater hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Agustín Lara",
+                "hu": "Agustín Lara Múzeum",
+                "ro": "Casa lui Agustín Lara",
+                "en": "Casa de Agustín Lara"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um bei Regen in die Musikgeschichte einzutauchen; die Innenräume sind gut belüftet, aber bieten vollen Schutz vor dem Wetter.",
+                "hu": "Csodálatos hely, ahol esőben is elmerülhetsz a zenetörténelemben; a belső terek jól szellőznek, de teljes védelmet nyújtanak az időjárás ellen.",
+                "ro": "Un loc minunat pentru a explora istoria muzicii pe timp de ploaie; interioarele sunt bine ventilate și oferă protecție deplină împotriva vremii.",
+                "en": "A wonderful place to immerse yourself in music history during rain; the interiors are well-ventilated but offer full protection from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachbildung des Burgtors",
+                "hu": "Óriás várkapu másolat",
+                "ro": "Replica Porții Castelului",
+                "en": "Replica gate with giant"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der Straßenseite für ein photo an; das Tor ist auch bei Regen ein beeindruckender Anblick direkt von Ihrem Fahrzeug aus.",
+                "hu": "Állj meg egy pillanatra az út szélén egy fotóhoz; a kapu esőben is lenyűgöző látványt nyújt közvetlenül a járműved kényelméből nézve.",
+                "ro": "Opriți scurt pe marginea drumului pentru o fotografie; poarta este o priveliște impresionantă chiar și pe ploaie, direct din confortul mașinii.",
+                "en": "Stop briefly by the roadside for a photo; the gate is an impressive sight even in the rain, viewed directly from the comfort of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoologischer Park Miguel Ángel de Quevedo",
+                "hu": "Miguel Ángel de Quevedo Állatkert",
+                "ro": "Parcul Zoologic Miguel Ángel de Quevedo",
+                "en": "Parque Zoológico Miguel Ángel de Quevedo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Zoo-Parkplatz und nehmen Sie einen Regenschirm mit; die Tiere sind oft bei Regen aktiver, da die Hitze der Tropensonne nachlässt.",
+                "hu": "Használd az állatkert parkolóját, és vigyél magaddal esernyőt; az állatok gyakran aktívabbak esőben, mivel a trópusi nap hősége ilyenkor enyhül.",
+                "ro": "Folosiți parcarea grădinii zoologice și luați o umbrelă; animalele sunt adesea mai active pe ploaie, deoarece căldura soarelui tropical scade.",
+                "en": "Use the zoo parking and take an umbrella; the animals are often more active during rain as the tropical sun's heat eases significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley's Museum der Kuriositäten",
+                "hu": "Ripley's Különlegességek Múzeuma",
+                "ro": "Muzeul Ripley's",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nahegelegenen Parkhaus, um trocken ins Museum zu gelangen; die Vielfalt der Exponate lässt Sie das schlechte Wetter draußen schnell vergessen.",
+                "hu": "Parkolj a közeli parkolóházban, hogy szárazon juss be a múzeumba; a kiállítások sokszínűsége miatt hamar elfelejted a kinti rossz időt.",
+                "ro": "Parcați în parcarea acoperită din apropiere pentru a ajunge uscat; diversitatea exponatelor vă va face să uitați rapid de vremea rea de afară.",
+                "en": "Park in the nearby parking garage to get to the museum dry; the variety of exhibits will make you quickly forget the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Regatas",
+                "hu": "Regatas Strand",
+                "ro": "Plaja Regatas",
+                "en": "Playa Regatas"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie entlang des Boulevards und genießen Sie die dramatische Aussicht auf das stürmische Meer; ein kurzer Stopp für ein Foto lohnt sich dennoch.",
+                "hu": "Hajts végig a sugárúton, és élvezd a viharos tenger drámai látványát; egy rövid megállót egy fotó erejéig még az esőben is érdemes megtenni.",
+                "ro": "Conduceți de-a lungul bulevardului și admirați vederea dramatică a mării agitate; o scurtă oprire pentru o fotografie merită chiar și pe ploaie.",
+                "en": "Drive along the boulevard and enjoy the dramatic view of the stormy sea; a short stop for a photo is still worth it even in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zum Reservat ist bei klarem Winterhimmel wunderschön. Mittags besuchen wir das Theater und das Lara-Museum, bevor wir die historische Replik des Burgtors bewundern. Der Nachmittag im Zoo und bei Ripley's ist angenehm kühl. Da es früh dunkel wird, nutzen wir das Auto, um abends bequem die beleuchtete Küste zu erkunden.",
+            "hu": "A reggeli út a rezervátumba gyönyörű a tiszta téli égbolt alatt. Délben meglátogatjuk a színházat és a Lara-múzeumot, majd megcsodáljuk a várkaput. Az állatkertben és a Ripley's-ben töltött délután kellemesen hűvös. Mivel korán sötétedik, autóval kényelmesen fedezzük fel a kivilágított partot.",
+            "ro": "Drumul de dimineață spre rezervație este superb sub cerul senin de iarnă. La prânz vizităm teatrul și muzeul Lara, apoi admirăm poarta castelului. După-amiaza la zoo și la Ripley's este plăcută și răcoroasă. Deoarece se întunecă devreme, folosim mașina pentru a explora faleza iluminată.",
+            "en": "The morning drive to the reserve is beautiful under clear winter skies. At noon, visit the theater and Lara Museum before admiring the castle gate. The afternoon at the zoo and Ripley's is pleasantly cool. Since it gets dark early, use the car to comfortably explore the lit coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ökologisches Reservat Tembladeras-Laguna Olmeca",
+                "hu": "Tembladeras-Laguna Olmeca Ökológiai Rezervátum",
+                "ro": "Rezervația Ecologică Tembladeras-Laguna Olmeca",
+                "en": "Reserva Ecológica Tembladeras-Laguna Olmeca"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht ist ideal für Naturfotografie aus dem Auto; die Temperaturen sind perfekt für kurze Spaziergänge am Ufer der Lagune.",
+                "hu": "A téli fények ideálisak a természetfotózáshoz az autóból; a hőmérséklet pedig tökéletes rövid sétákhoz a lagúna partján a friss levegőn.",
+                "ro": "Lumina de iarnă este ideală pentru fotografia de natură din mașină; temperaturile sunt perfecte pentru scurte plimbări pe malul lagunei.",
+                "en": "Winter light is ideal for nature photography from the car; temperatures are perfect for short walks along the lagoon shore in the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater Tamsa",
+                "hu": "Tamsa Színház",
+                "ro": "Teatrul Tamsa",
+                "en": "Teatro Tamsa"
+              },
+              "tip_5lang": {
+                "de": "Im Winter gibt es oft spezielle saisonale Aufführungen; prüfen Sie das Programm im Voraus, um einen gemütlichen Nachmittag im Warmen zu verbringen.",
+                "hu": "Télen gyakran vannak különleges ünnepi előadások; ellenőrizd a programot előre, hogy egy kellemes, meleg délutánt tölthess a színházban.",
+                "ro": "Iarna există adesea spectacole sezoniere speciale; verificați programul în avans pentru a petrece o după-amiază plăcută și caldă la teatru.",
+                "en": "In winter, there are often special seasonal performances; check the schedule in advance to spend a cozy and warm afternoon at the theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Agustín Lara",
+                "hu": "Agustín Lara Múzeum",
+                "ro": "Casa lui Agustín Lara",
+                "en": "Casa de Agustín Lara"
+              },
+              "tip_5lang": {
+                "de": "Die Klimaanlage ist im Winter weniger stark eingestellt, was den Besuch angenehmer macht; parken Sie direkt davor für schnellen Zugang.",
+                "hu": "A légkondicionálás télen kevésbé erős, ami kellemesebbé teszi a látogatást; parkolj közvetlenül az épület előtt a gyors bejutás érdekében.",
+                "ro": "Aerul condiționat este mai puțin intens iarna, făcând vizita mai plăcută; parcați direct în față pentru un acces rapid și ușor în muzeu.",
+                "en": "The air conditioning is less intense in winter, making the visit more pleasant; park directly in front for quick and easy access to the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachbildung des Burgtors",
+                "hu": "Óriás várkapu másolat",
+                "ro": "Replica Porții Castelului",
+                "en": "Replica gate with giant"
+              },
+              "tip_5lang": {
+                "de": "In der Wintersonne kommen die Details der Replik besonders gut zur Geltung; ein kurzer Halt reicht aus, um die historische Atmosphäre aufzusaugen.",
+                "hu": "A téli napsütésben a másolat részletei különösen jól érvényesülnek; egy rövid megálló is elég, hogy magadba szívd a történelmi hangulatot.",
+                "ro": "În soarele de iarnă, detaliile replicii sunt evidențiate frumos; o scurtă oprire este suficientă pentru a absorbi atmosfera istorică a locului.",
+                "en": "In the winter sun, the replica's details are beautifully highlighted; a short stop is enough to soak up the historical atmosphere of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoologischer Park Miguel Ángel de Quevedo",
+                "hu": "Miguel Ángel de Quevedo Állatkert",
+                "ro": "Parcul Zoologic Miguel Ángel de Quevedo",
+                "en": "Parque Zoológico Miguel Ángel de Quevedo"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am frühen Nachmittag nutzt das beste Licht und die angenehmsten Temperaturen aus, bevor es gegen 17:00 Uhr kühler wird.",
+                "hu": "A kora délutáni látogatás során kihasználhatod a legjobb fényeket és a legkellemesebb hőmérsékletet, mielőtt 17:00 körül lehűlne a levegő.",
+                "ro": "O vizită la începutul după-amiezii profită de cea mai bună lumină și temperaturi plăcute, înainte ca aerul să se răcească pe la ora 17:00.",
+                "en": "A visit in the early afternoon takes advantage of the best light and pleasant temperatures before it gets cooler around 17:00 in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley's Museum der Kuriositäten",
+                "hu": "Ripley's Különlegességek Múzeuma",
+                "ro": "Muzeul Ripley's",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Wenn Sie nach dem Museumsbesuch zum Auto zurückkehren, genießen Sie die festliche Winterbeleuchtung der Stadt, die bereits in voller Pracht erstrahlt.",
+                "hu": "Amikor a múzeumlátogatás után visszatérsz az autóhoz, élvezd a város ünnepi téli kivilágítását, amely már teljes pompájában ragyog a sötétben.",
+                "ro": "Când vă întoarceți la mașină după vizită, bucurați-vă de iluminatul festiv de iarnă al orașului, care strălucește deja în toată splendoarea sa.",
+                "en": "When you return to the car after the visit, enjoy the city's festive winter lighting, which is already shining in all its glory in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Regatas",
+                "hu": "Regatas Strand",
+                "ro": "Plaja Regatas",
+                "en": "Playa Regatas"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ruhig und perfekt für einen Abendspaziergang; im Auto haben Sie immer eine warme Jacke griffbereit für die Brise.",
+                "hu": "A strand télen csendes és tökéletes egy esti sétához; az autóban mindig legyen kéznél egy meleg kabát a hirtelen feltámadó tengeri szélhez.",
+                "ro": "Plaja este liniștită iarna și perfectă pentru o plimbare de seară; în mașină aveți mereu o jachetă caldă la îndemână pentru briza mării.",
+                "en": "The beach is quiet in winter and perfect for an evening walk; keep a warm jacket ready in the car for the sudden sea breeze after sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

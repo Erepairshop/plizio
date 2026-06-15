@@ -137,6 +137,168 @@
         "hu": "Napunk Tepic szívében indul, ahol a Foro Cultural kiállításai adnak betekintést a helyi művészetbe. Délelőtt átsétálunk a CECUPI-ba, hogy felfedezzük Nayarit állam gazdag őslakos gyökereit és hagyományait. Kora délután a Constituyentes emlékműnél időzünk, majd Amado Nervo szülőházában merülünk el a költészetben. A sétát a lenyűgöző Casa Fenelón épületénél fejezzük be, gyönyörködve a klasszikus építészetben.",
         "ro": "Ziua noastră începe în inima orașului Tepic cu o vizită la Foro Cultural, pentru a explora arta locală. Dimineața continuă la CECUPI, unde descoperim rădăcinile și tradițiile indigene fascinante ale statului Nayarit. După-amiaza onorăm istoria la Monumentul Constituienților, apoi ne adâncim în poezie la Casa Museo Amado Nervo. Ne încheiem traseul la eleganta Casa Fenelón, admirând detaliile arhitecturii sale clasice.",
         "en": "Our day starts in the heart of Tepic, immersing ourselves in the local art scene at the Foro Cultural. Mid-morning, we walk to CECUPI to discover the fascinating indigenous roots and traditions of Nayarit state. Early afternoon is spent honoring history at the Constituyentes Monument, before delving into poetry at the Casa Museo Amado Nervo. We conclude our walking tour at the elegant Casa Fenelón, admiring its classic architecture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Tepic beginnt unter grauen Wolken, ideal für den Aufenthalt in Kulturzentren. Mittags bieten die Museen im Zentrum perfekten Schutz vor den heftigen tropischen Schauern. Nachmittags glänzen die kolonialen Gassen im Regen; ein Regenschirm ist zwischen den Stationen unerlässlich. Abends atmet die Stadt die frische, feuchte Luft ein, während die Lichter in den Pfützen tanzen.",
+            "hu": "Tepic reggelje felhős ég alatt indul, a kulturális központok ilyenkor kiváló menedéket nyújtanak. Délben a heves trópusi záporok elől a belvárosi múzeumok falai közé érdemes húzódni. Délután a vizes aszfalton tükröződnek a koloniális épületek; az esernyő kötelező kellék az utcák között. Este a friss, eső utáni illat járja át a várost, ahogy a fények megcsillannak a tócsákban.",
+            "ro": "Dimineața în Tepic începe sub nori cenușii, perfectă pentru vizitarea centrelor culturale. La prânz, muzeele din centru oferă adăpostul ideal împotriva averselor tropicale intense. După-amiaza, străzile coloniale strălucesc sub ploaie; umbrela este indispensabilă între obiective. Seara, aerul proaspăt de după ploaie umple orașul, în timp ce luminile se oglindesc în bălți.",
+            "en": "The morning in Tepic starts under gray skies, ideal for staying in cultural centers. At noon, the downtown museums provide perfect shelter from heavy tropical showers. In the afternoon, the colonial streets glisten in the rain; an umbrella is essential when moving between sites. In the evening, the fresh post-rain air fills the city as lights reflect in the puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Foro Cultural Ofelia Dominguez A.C.",
+                "hu": "Foro Cultural Ofelia Dominguez A.C.",
+                "ro": "Foro Cultural Ofelia Dominguez A.C.",
+                "en": "Foro Cultural Ofelia Dominguez A.C."
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die intime Atmosphäre dieser Galerie, während es draußen regnet; die überdachten Räume sind perfekt, um lokale Kunst trocken zu bewundern.",
+                "hu": "Élvezze a galéria meghitt hangulatát, miközben kint esik; a fedett terek tökéletesek a helyi művészet zavartalan, száraz megtekintéséhez.",
+                "ro": "Bucurați-vă de atmosfera intimă a acestei galerii în timp ce plouă afară; spațiile acoperite sunt perfecte pentru a admira arta locală la adăpost.",
+                "en": "Enjoy the intimate atmosphere of this gallery while it rains outside; the covered spaces are perfect for admiring local art while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "hu": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "ro": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "en": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet einen hervorragenden Unterschlupf vor dem Regen; nutzen Sie die Zeit, um die farbenfrohe Huichol-Kunst in den trockenen Sälen zu studieren.",
+                "hu": "A múzeum kiváló menedéket nyújt az eső elől; használja ki az időt a színes hicsol művészet tanulmányozására a száraz, fedett kiállítótermekben.",
+                "ro": "Muzeul oferă un adăpost excelent împotriva ploii; profitați de timp pentru a studia arta colorată Huichol în sălile de expoziție uscate.",
+                "en": "The museum offers excellent shelter from the rain; use the time to study the colorful Huichol art in the dry, indoor exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a los Constituyentes",
+                "hu": "Monumento a los Constituyentes",
+                "ro": "Monumento a los Constituyentes",
+                "en": "Monumento a los Constituyentes"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto ist auch im Regen möglich; achten Sie auf den rutschigen Marmor rund um das Monument bei nassen Bedingungen.",
+                "hu": "Egy gyors fotómegálló esőben is belefér; ügyeljen a csúszós márványfelületekre az emlékmű körül, amikor vizes az időjárás.",
+                "ro": "O oprire scurtă pentru fotografii este posibilă și pe ploaie; atenție la marmura alunecoasă din jurul monumentului în condiții de umiditate.",
+                "en": "A quick photo stop is possible even in the rain; watch out for the slippery marble surfaces around the monument during wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Amado Nervo",
+                "hu": "Casa Museo Amado Nervo",
+                "ro": "Casa Museo Amado Nervo",
+                "en": "Casa Museo Amado Nervo"
+              },
+              "tip_5lang": {
+                "de": "Die Innenhöfe dieses Dichterhauses wirken bei Regen besonders melancholisch und schön; bleiben Sie unter den Kolonnaden, um trocken zu bleiben.",
+                "hu": "A költő házának belső udvarai esőben különösen melankolikusak és szépek; maradjon az oszlopsorok alatt, hogy szárazon élvezhesse a látványt.",
+                "ro": "Curțile interioare ale casei poetului sunt deosebit de melancolice și frumoase pe ploaie; stați sub colonade pentru a rămâne uscați.",
+                "en": "The interior courtyards of the poet's house look particularly melancholic and beautiful in the rain; stay under the colonnades to keep dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fenelón",
+                "hu": "Casa Fenelón",
+                "ro": "Casa Fenelón",
+                "en": "Casa Fenelón"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang in der trockenen Eleganz dieses historischen Hauses; die dicken Mauern lassen das Prasseln des Regens draußen vergessen.",
+                "hu": "Zárja a túrát e történelmi ház száraz eleganciájában; a vastag falak között hamar elfelejti a kinti eső kopogását a látnivalók mellett.",
+                "ro": "Încheiați turul în eleganța uscată a acestei case istorice; zidurile groase vă vor face să uitați de ploaia de afară în timp ce vizitați.",
+                "en": "End your tour in the dry elegance of this historic house; the thick walls make you forget the rain tapping outside as you explore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Tepic ist erfrischend kühl und klar. Mittags wärmt die milde Sonne die historischen Plätze, perfekt für ausgiebige Spaziergänge. Nachmittags sinken die Temperaturen spürbar, weshalb eine leichte Jacke für die Museumsbesuche ratsam ist. Da die Sonne bereits gegen 17:30 Uhr untergeht, hüllt sich die Stadt früh in ein gemütliches, abendliches Licht.",
+            "hu": "A téli reggel Tepicben frissítően hűvös és tiszta. Délben az enyhe napsütés kellemesen melengeti a történelmi tereket, ideális a gyalogos felfedezéshez. Délután a hőmérséklet érezhetően csökkenni kezd, egy könnyű dzseki ajánlott a múzeumlátogatáshoz. Mivel a nap fél 6 körül nyugszik, a város korán hangulatos esti fényekbe öltözik.",
+            "ro": "Dimineața de iarnă în Tepic este răcoritoare și senină. La prânz, soarele blând încălzește plăcut piețele istorice, ideal pentru explorarea pe jos. După-amiaza, temperaturile încep să scadă, așa că o jachetă ușoară este recomandată pentru vizite. Deoarece soarele apune în jurul orei 17:30, orașul se îmbracă devreme în lumini de seară.",
+            "en": "Winter mornings in Tepic are refreshingly cool and clear. At noon, the mild sun pleasantly warms the historic squares, perfect for walking tours. In the afternoon, temperatures start to drop noticeably, so a light jacket is recommended for museum visits. Since the sun sets around 5:30 PM, the city is early to glow with cozy evening lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Foro Cultural Ofelia Dominguez A.C.",
+                "hu": "Foro Cultural Ofelia Dominguez A.C.",
+                "ro": "Foro Cultural Ofelia Dominguez A.C.",
+                "en": "Foro Cultural Ofelia Dominguez A.C."
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den Besuch der Galerie besonders angenehm; genießen Sie die klare Sicht auf die Exponate in der frischen Winterluft.",
+                "hu": "A hűvös reggeli levegő különösen kellemessé teszi a galéria felkeresését; élvezze a kiállítások tiszta látványát a friss téli időben.",
+                "ro": "Aerul răcoros de dimineață face vizitarea galeriei deosebit de plăcută; bucurați-vă de claritatea exponatelor în atmosfera proaspătă de iarnă.",
+                "en": "The cool morning air makes visiting the gallery particularly pleasant; enjoy the clear views of the exhibits in the fresh winter weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "hu": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "ro": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "en": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)"
+              },
+              "tip_5lang": {
+                "de": "In den schattigen Innenhöfen kann es im Winter kühl sein; tragen Sie Schichten, um die indigene Handwerkskunst bei idealen Temperaturen zu erkunden.",
+                "hu": "Az árnyékos belső udvarokon télen hűvös lehet; öltözzön rétegesen, hogy ideális hőmérsékletben fedezhesse fel az őslakos kézműves alkotásokat.",
+                "ro": "Curțile interioare umbrite pot fi răcoroase iarna; purtați haine în straturi pentru a explora meșteșugurile indigene la temperaturi ideale.",
+                "en": "Shaded courtyards can be cool in winter; dress in layers to explore the indigenous crafts at ideal temperatures comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a los Constituyentes",
+                "hu": "Monumento a los Constituyentes",
+                "ro": "Monumento a los Constituyentes",
+                "en": "Monumento a los Constituyentes"
+              },
+              "tip_5lang": {
+                "de": "Das warme Mittagslicht des Winters ist perfekt für Fotos des Monuments; die klare Luft bietet einen weiten Blick über die umliegenden Straßen.",
+                "hu": "A tél meleg déli fénye tökéletes az emlékmű fotózásához; a tiszta levegő messzire engedi látni a környező belvárosi utcákat.",
+                "ro": "Lumina caldă de prânz a iernii este perfectă pentru a fotografia monumentul; aerul curat oferă o vizibilitate excelentă asupra străzilor din jur.",
+                "en": "The warm winter noon light is perfect for photographing the monument; the clear air offers excellent visibility across the surrounding streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Amado Nervo",
+                "hu": "Casa Museo Amado Nervo",
+                "ro": "Casa Museo Amado Nervo",
+                "en": "Casa Museo Amado Nervo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Museum am frühen Nachmittag, um das schwindende Sonnenlicht in den Räumen zu erleben; im Winter wirkt das Haus besonders gemütlich.",
+                "hu": "Látogassa meg a múzeumot kora délután, hogy elcsípje a szobákba besütő téli napfényt; az épület ilyenkor különösen meghitt hangulatot áraszt.",
+                "ro": "Vizitați muzeul după-amiaza devreme pentru a surprinde lumina iernii în camere; casa are o atmosferă deosebit de primitoare în acest sezon.",
+                "en": "Visit the museum in the early afternoon to catch the winter sunlight in the rooms; the house feels particularly cozy and inviting during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fenelón",
+                "hu": "Casa Fenelón",
+                "ro": "Casa Fenelón",
+                "en": "Casa Fenelón"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, sollten Sie diesen Stopp rechtzeitig planen; die Winterdämmerung verleiht der Fassade eine magische, goldene Färbung.",
+                "hu": "Mivel korán sötétedik, tervezze ezt a megállót időben; a téli szürkület mágikus, aranyló színeket kölcsönöz az épület patinás homlokzatának.",
+                "ro": "Deoarece se întunecă devreme, planificați această oprire din timp; amurgul de iarnă oferă fațadei nuanțe magice, aurii.",
+                "en": "As it gets dark early, plan this stop in time; the winter twilight lends the facade magical, golden hues for a perfect ending."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggelt a belvárosban kezdjük a CECUPI őslakos kultúrájával és a Constituyentes emlékműnél tett rövid látogatással. Délben a Casa Fenelón építészetét csodáljuk, majd nyeregbe pattanunk. A délután sportosan telik: feltekerünk a Zitacua kilátópontjához a városi panorámáért. Később kényelmesen gurulunk dél felé a Függetlenség Angyalát érintve, majd a napot a La Loma parkban, a szimbolikus padnál fejezzük be.",
         "ro": "Dimineața începe central la CECUPI cu cultură indigenă, urmată de Monumentul Constituienților. La prânz vizităm eleganta Casa Fenelón înainte de a pedala mai serios. După-amiaza urcăm la Zitacua pentru o priveliște superbă asupra orașului, o recompensă pe măsura efortului. Spre seară coborâm lin spre sud, trecem pe la Îngerul Independenței și ne relaxăm complet în parcul La Loma.",
         "en": "We kick off our morning in the center exploring indigenous heritage at CECUPI, followed by the Constituyentes Monument. Midday brings us to the elegant Casa Fenelón before we hit the pedals hard. The afternoon features a challenging but rewarding climb to the Zitacua natural viewpoint. As evening approaches, we cruise southward past the Angel of Independence, finishing with a relaxing rest at the iconic bench in La Loma park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen durch Tepic erfordert Vorsicht auf den glatten Straßen. Morgens ist der Verkehr ruhig, ideal für den Weg zum CECUPI. Mittags dienen die Museen als trockene Raststationen während der Schauer. Nachmittags ist die Fahrt zum Zitacua-Hügel anstrengend, aber der Blick auf die vernebelten Berge belohnt die Mühe. Abends empfiehlt sich ein früher Abschluss der Tour.",
+            "hu": "Az esős kerékpártúra Tepicben óvatosságot igényel a csúszós utakon. Reggel még csendes a forgalom, ideális az út a CECUPI-hoz. Délben a múzeumok száraz pihenőhelyként szolgálnak a záporok alatt. Délután a Zitacua dombra való feljutás nehézkes lehet, de a ködös hegyek látványa kárpótol. Este javasolt a túra mielőbbi befejezése.",
+            "ro": "O tură cu bicicleta prin Tepic pe ploaie necesită prudență pe drumurile alunecoase. Dimineața traficul este liniștit, ideal spre CECUPI. La prânz, muzeele servesc ca puncte de odihnă uscate în timpul averselor. După-amiaza, urcarea spre dealul Zitacua este grea, dar peisajul cețos merită efortul. Seara se recomandă încheierea rapidă a traseului.",
+            "en": "A rainy bike tour in Tepic requires caution on the slippery roads. In the morning, traffic is light, ideal for riding to CECUPI. At noon, museums serve as dry rest stops during the showers. In the afternoon, the climb to Zitacua hill can be challenging, but the misty mountain views are rewarding. In the evening, an early finish is recommended."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "hu": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "ro": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "en": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem sicheren, trockenen Ort und nutzen Sie den Besuch, um den Regenschauer abzuwarten; drinnen gibt es viel zu entdecken.",
+                "hu": "Parkolja le biciklijét biztonságos, száraz helyen, és használja ki a látogatást a zápor kivárására; odabent rengeteg látnivaló várja.",
+                "ro": "Parcați bicicleta într-un loc sigur și uscat și folosiți vizita pentru a aștepta trecerea ploii; interiorul oferă multe de explorat.",
+                "en": "Park your bike in a safe, dry spot and use the visit to wait out the shower; there is plenty to explore inside the cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a los Constituyentes",
+                "hu": "Monumento a los Constituyentes",
+                "ro": "Monumento a los Constituyentes",
+                "en": "Monumento a los Constituyentes"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Pflaster rund um das Monument; ein kurzes Foto ist trotz Regen ein Muss für Radfahrer.",
+                "hu": "Fékezzen időben a monument körüli vizes aszfalton; egy rövid fotómegálló az eső ellenére is kötelező program a kerékpárosoknak.",
+                "ro": "Frânați din timp pe pavajul ud din jurul monumentului; o scurtă oprire pentru poze este obligatorie chiar și pe ploaie.",
+                "en": "Brake early on the wet pavement around the monument; a quick photo stop is a must for cyclists even in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fenelón",
+                "hu": "Casa Fenelón",
+                "ro": "Casa Fenelón",
+                "en": "Casa Fenelón"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Gebäude bietet Schutz für eine längere Pause; prüfen Sie Ihre Ausrüstung, während Sie die koloniale Architektur bewundern.",
+                "hu": "Ez a történelmi épület védelmet nyújt egy hosszabb pihenőhöz; ellenőrizze felszerelését, miközben a koloniális építészetben gyönyörködik.",
+                "ro": "Această clădire istorică oferă protecție pentru o pauză mai lungă; verificați-vă echipamentul în timp ce admirați arhitectura colonială.",
+                "en": "This historic building offers protection for a longer break; check your gear while admiring the colonial architecture inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitacua",
+                "hu": "Zitacua",
+                "ro": "Zitacua",
+                "en": "Zitacua"
+              },
+              "tip_5lang": {
+                "de": "Der Weg bergauf kann rutschig sein; oben angekommen, bietet der Blick auf Tepic durch den Nebel eine einzigartige, mystische Atmosphäre.",
+                "hu": "A felfelé vezető út csúszós lehet; felérve a ködön át felsejlő Tepic látványa egyedülálló, misztikus élményt nyújt az esőben.",
+                "ro": "Drumul la deal poate fi alunecos; odată ajunși sus, priveliștea orașului Tepic prin ceață oferă o experiență mistică unică.",
+                "en": "The path uphill can be slippery; once at the top, the view of Tepic through the mist offers a unique, mystical experience in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ángel de la Independencia",
+                "hu": "Ángel de la Independencia",
+                "ro": "Ángel de la Independencia",
+                "en": "Ángel de la Independencia"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen in der Nähe des Denkmals, um nicht nass zu werden; ein schneller Stopp ist ideal, bevor der nächste Guss kommt.",
+                "hu": "Kerülje el a tócsákat az emlékmű közelében, hogy ne ázzon el; egy gyors megálló ideális, mielőtt megérkezne a következő zápor.",
+                "ro": "Evitați bălțile de lângă monument pentru a nu vă uda; o oprire rapidă este ideală înainte de următoarea repriză de ploaie.",
+                "en": "Avoid puddles near the monument to keep your feet dry; a quick stop is ideal before the next downpour arrives."
+              }
+            },
+            {
+              "name": {
+                "de": "Banca de la Loma de 2010",
+                "hu": "Banca de la Loma de 2010",
+                "ro": "Banca de la Loma de 2010",
+                "en": "Banca de la Loma de 2010"
+              },
+              "tip_5lang": {
+                "de": "Die Bank kann nass sein, daher ist ein Handtuch oder eine Regenjacke als Unterlage ratsam, um den Blick über die nasse Stadt zu genießen.",
+                "hu": "A pad vizes lehet, így egy törölköző vagy esőkabát hasznos alátétnek, hogy élvezhesse a kilátást a vizes város felett.",
+                "ro": "Banca poate fi udă, deci un prosop sau o pelerină de ploaie sunt utile pentru a putea admira orașul umed de la înălțime.",
+                "en": "The bench might be wet, so a towel or raincoat is useful to sit on while enjoying the view over the damp city."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Winterklima in Tepic ist perfekt für Radfahrer, da es trocken und nicht zu heiß ist. Morgens ist die Luft klar und kühl, ideal für den Start im Zentrum. Mittags lädt die milde Sonne zu Pausen an den Monumenten ein. Nachmittags ist die Fahrt zum Zitacua bei niedrigerer Luftfeuchtigkeit sehr angenehm. Beachten Sie den frühen Sonnenuntergang gegen 17:30 Uhr für Ihre Rückfahrt.",
+            "hu": "Tepic téli klímája tökéletes a bicikliseknek, mert száraz és nincs túl meleg. Reggel a levegő tiszta és hűvös, ideális a belvárosi kezdéshez. Délben az enyhe napsütés pihenőre csábít az emlékműveknél. Délután a Zitacua felé tekerés a kisebb páratartalom miatt nagyon kellemes. Ügyeljen a korai, fél 6-os naplementére a visszaút során.",
+            "ro": "Clima de iarnă în Tepic este perfectă pentru bicicliști, fiind uscată și nu prea caldă. Dimineața aerul este curat și răcoros, ideal pentru start. La prânz, soarele blând vă invită la pauze lângă monumente. După-amiaza, drumul spre Zitacua este plăcut datorită umidității scăzute. Atenție la apusul devreme de la 17:30 pentru drumul de întoarcere.",
+            "en": "Tepic's winter climate is perfect for cyclists as it's dry and not too hot. In the morning, the air is clear and cool, ideal for starting downtown. At noon, the mild sun invites breaks at monuments. In the afternoon, riding to Zitacua is very pleasant due to lower humidity. Mind the early sunset around 5:30 PM for your return ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "hu": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "ro": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+                "en": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier mit einer leichten Jacke; die kühle Morgenluft ist perfekt, um die Ausstellungen ohne Hitze zu genießen.",
+                "hu": "Induljon innen egy könnyű dzsekiben; a hűvös reggeli levegő tökéletes a kiállítások megtekintéséhez a tikkasztó hőség nélkül.",
+                "ro": "Începeți aici cu o jachetă ușoară; aerul răcoros de dimineață este perfect pentru a savura expozițiile fără căldură excesivă.",
+                "en": "Start here with a light jacket; the cool morning air is perfect for enjoying the exhibits without the sweltering heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a los Constituyentes",
+                "hu": "Monumento a los Constituyentes",
+                "ro": "Monumento a los Constituyentes",
+                "en": "Monumento a los Constituyentes"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Sonnenlicht des Winters wirft lange Schatten auf das Monument; nutzen Sie die klare Sicht für spektakuläre Radfotos.",
+                "hu": "A tél alacsony napállása hosszú árnyékokat vet az emlékműre; használja ki a tiszta látási viszonyokat látványos biciklis fotókhoz.",
+                "ro": "Lumina joasă a soarelui de iarnă proiectează umbre lungi pe monument; profitați de vizibilitate pentru poze spectaculoase cu bicicleta.",
+                "en": "The low winter sun casts long shadows on the monument; take advantage of the clear visibility for spectacular cycling photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Fenelón",
+                "hu": "Casa Fenelón",
+                "ro": "Casa Fenelón",
+                "en": "Casa Fenelón"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle; ein idealer Ort für eine Pause im Winter, um die prachtvollen Innenräume trocken und mild zu erleben.",
+                "hu": "A vastag falak jól tartják a hűvöset; ideális pihenőhely télen, ahol száraz és enyhe környezetben csodálhatja meg a belső tereket.",
+                "ro": "Zidurile groase păstrează răcoarea; un loc de odihnă ideal iarna pentru a admira interioarele somptuoase într-un mediu plăcut.",
+                "en": "The thick walls keep the cool air inside; an ideal winter rest stop to admire the grand interiors in a dry and mild environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitacua",
+                "hu": "Zitacua",
+                "ro": "Zitacua",
+                "en": "Zitacua"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist im Winter viel leichter zu bewältigen als im Sommer; oben erwartet Sie eine klare Fernsicht auf die Vulkane der Umgebung.",
+                "hu": "Az emelkedő télen sokkal könnyebben leküzdhető, mint nyáron; a csúcson tiszta távlatok várják a környékbeli vulkánok felé.",
+                "ro": "Urcarea este mult mai ușoară iarna decât vara; sus vă așteaptă o panoramă clară asupra vulcanilor din împrejurimi.",
+                "en": "The climb is much easier to manage in winter than in summer; at the top, clear vistas of the surrounding volcanoes await you."
+              }
+            },
+            {
+              "name": {
+                "de": "Ángel de la Independencia",
+                "hu": "Ángel de la Independencia",
+                "ro": "Ángel de la Independencia",
+                "en": "Ángel de la Independencia"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Engel am späten Nachmittag, wenn das goldene Winterlicht das Denkmal in eine warme Farbe hüllt; perfekt für Radfahrer.",
+                "hu": "Keresse fel az angyalt késő délután, amikor az aranyló téli fények meleg színekbe öltöztetik az emlékművet; fotósoknak ajánlott.",
+                "ro": "Vizitați îngerul după-amiaza târziu, când lumina aurie de iarnă îmbracă monumentul în culori calde; perfect pentru bicicliști.",
+                "en": "Visit the angel in the late afternoon when the golden winter light dresses the monument in warm colors; perfect for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Banca de la Loma de 2010",
+                "hu": "Banca de la Loma de 2010",
+                "ro": "Banca de la Loma de 2010",
+                "en": "Banca de la Loma de 2010"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier pünktlich zum Sonnenuntergang; die Winterluft macht die Lichter der Stadt Tepic besonders brillant.",
+                "hu": "Zárja itt a túrát pontosan a naplementére időzítve; a téli levegőben Tepic városának fényei különösen élesen ragyognak.",
+                "ro": "Încheiați turul aici exact la apus; aerul de iarnă face ca luminile orașului Tepic să strălucească cu o claritate deosebită.",
+                "en": "End your tour here exactly at sunset; the winter air makes the lights of Tepic city sparkle with exceptional brilliance."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Utunk Tepic északi részén, a Bellavista textilgyár lenyűgöző ipari romjainál és a La Cuadránál indul. Délben a belvárosba autózunk, hogy megtekintsük Amado Nervo szülőházát és tisztelegjünk az irodalom előtt. Délután felkapaszkodunk a Zitacua kilátójához egy látványos városi panorámáért. Végül dél felé vesszük az irányt a Nervo-emlékműhöz, majd a napot a Tepic óriásbetűinél lőtt tökéletes emlékfotóval zárjuk.",
         "ro": "Traseul auto începe în nord cu istoria industrială fascinantă de la fosta fabrică de textile Bellavista și La Cuadra. La prânz conducem spre centrul orașului pentru a onora moștenirea lui Amado Nervo vizitându-i casa memorială. După-amiaza urcăm cu mașina spre Zitacua pentru a admira priveliștea spectaculoasă a orașului de sus. Călătoria se încheie în sud la monumentul Nervo și cu o fotografie de neuitat la literele colorate Maxiletras.",
         "en": "Our drive begins in the north of Tepic with the fascinating industrial history of the Ex-Fábrica Textil de Bellavista and nearby La Cuadra. At midday, we navigate into the city's heart to honor the literary legacy at Casa Museo Amado Nervo. The afternoon takes us driving uphill to the Zitacua natural area for spectacular city views. We finally cruise south to the Nervo Monument and conclude our road trip snapping a colorful souvenir photo at the Maxiletras."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Tepic auch bei Regen komfortabel zu erkunden. Morgens führt die Fahrt zur Fabrik in Bellavista durch grüne, nasse Landschaften. Mittags bietet der Wagen Schutz vor den intensivsten Schauern zwischen den Museen im Zentrum. Nachmittags ist die Sicht auf den Zitacua-Hügel durch den Nebel begrenzt, aber stimmungsvoll. Abends ist Vorsicht bei Aquaplaning geboten.",
+            "hu": "Autóval Tepic esőben is kényelmesen felfedezhető. Reggel a bellavistai gyárhoz vezető út buja, vizes tájakon át vezet. Délben az autó védelmet nyújt a leghevesebb záporok elől a belvárosi múzeumok között közlekedve. Délután a Zitacua domb kilátása ködbe veszhet, de így is hangulatos. Este óvatosan vezessen a vizes utakon az aquaplaning veszélye miatt.",
+            "ro": "Cu mașina, Tepic este confortabil de explorat chiar și pe ploaie. Dimineața, drumul spre fabrica din Bellavista trece prin peisaje verzi și umede. La prânz, mașina oferă protecție împotriva ploilor torențiale între muzeele din centru. După-amiaza, vizibilitatea spre dealul Zitacua este redusă de ceață, dar pitorească. Seara, atenție la drumurile ude.",
+            "en": "By car, Tepic is comfortable to explore even in the rain. In the morning, the drive to the Bellavista factory passes through lush, wet landscapes. At noon, the car provides shelter from the heaviest showers while moving between downtown museums. In the afternoon, the view from Zitacua hill may be misty but remains atmospheric. In the evening, drive carefully on wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ex-Fabrica Textil de Bellavista",
+                "hu": "Ex-Fabrica Textil de Bellavista",
+                "ro": "Ex-Fabrica Textil de Bellavista",
+                "en": "Ex-Fabrica Textil de Bellavista"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; die alten Fabrikhallen bieten viel Platz, um den Regen im Trockenen zu bewundern.",
+                "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el; a régi gyárcsarnokok bőséges teret kínálnak az eső szárazon történő megfigyeléséhez.",
+                "ro": "Parcați aproape de intrare pentru a nu vă uda; vechile hale ale fabricii oferă mult spațiu pentru a admira ploaia de la adăpost.",
+                "en": "Park close to the entrance to avoid getting wet; the old factory halls offer plenty of space to enjoy the rainy view while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cuadra",
+                "hu": "La Cuadra",
+                "ro": "La Cuadra",
+                "en": "La Cuadra"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp direkt am Straßenrand reicht aus, um dieses Wahrzeichen im Regen zu fotografieren, ohne den Wagen lange verlassen zu müssen.",
+                "hu": "Egy gyors megálló az út mentén elegendő, hogy lefotózza ezt a jelképet az esőben anélkül, hogy hosszú időre el kellene hagynia az autót.",
+                "ro": "O oprire rapidă la marginea drumului este suficientă pentru a fotografia acest simbol pe ploaie, fără a părăsi mașina prea mult timp.",
+                "en": "A quick roadside stop is enough to photograph this landmark in the rain without having to leave the comfort of your car for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Amado Nervo",
+                "hu": "Casa Museo Amado Nervo",
+                "ro": "Casa Museo Amado Nervo",
+                "en": "Casa Museo Amado Nervo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto, um direkt zum Museumszentrum zu gelangen; drinnen finden Sie eine trockene Oase der Literatur inmitten des Sturms.",
+                "hu": "Használja az autót, hogy közvetlenül a múzeumi negyedbe jusson; odabent az irodalom száraz oázisát találja a kinti viharos idő ellenére.",
+                "ro": "Folosiți mașina pentru a ajunge direct în zona muzeelor; în interior veți găsi o oază uscată de literatură în mijlocul ploii.",
+                "en": "Use the car to reach the museum district directly; inside, you'll find a dry oasis of literature despite the stormy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitacua",
+                "hu": "Zitacua",
+                "ro": "Zitacua",
+                "en": "Zitacua"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt mit dem Auto ist bei Regen der sicherste Weg; genießen Sie das Panorama von Tepic bequem aus dem trockenen Fahrzeuginnenraum.",
+                "hu": "Az autóval való felhajtás esőben a legbiztonságosabb mód; élvezze Tepic panorámáját kényelmesen, a száraz gépjármű utasteréből.",
+                "ro": "Urcarea cu mașina este cea mai sigură modalitate pe ploaie; bucurați-vă de panorama orașului Tepic din interiorul uscat al vehiculului.",
+                "en": "Driving up is the safest way in the rain; enjoy the panorama of Tepic comfortably from the dry interior of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Amado Nervo",
+                "hu": "Amado Nervo",
+                "ro": "Amado Nervo",
+                "en": "Amado Nervo"
+              },
+              "tip_5lang": {
+                "de": "Das Monument ist gut befahrbar; halten Sie kurz für ein Foto an, wenn der Regen nachlässt, und nutzen Sie den Wagen als Basis.",
+                "hu": "Az emlékmű jól megközelíthető autóval; álljon meg egy fotóra, amikor alábbhagy az eső, és használja a kocsit bázisként.",
+                "ro": "Monumentul este ușor accesibil cu mașina; opriți scurt pentru o fotografie când ploaia se domolește, folosind vehiculul ca bază.",
+                "en": "The monument is easily accessible by car; stop briefly for a photo when the rain eases off, using the car as your base."
+              }
+            },
+            {
+              "name": {
+                "de": "Maxiletras Tepic",
+                "hu": "Maxiletras Tepic",
+                "ro": "Maxiletras Tepic",
+                "en": "Maxiletras Tepic"
+              },
+              "tip_5lang": {
+                "de": "Dieser Stopp am Stadtrand ist perfekt mit dem Auto; bei Regen leuchten die Farben der Buchstaben besonders kräftig gegen den grauen Himmel.",
+                "hu": "Ez a város szélén található megálló tökéletes autóval; esőben a betűk színei különösen élénken virítanak a szürke égbolt előtt.",
+                "ro": "Această oprire la marginea orașului este perfectă cu mașina; pe ploaie, culorile literelor sunt deosebit de vibrante pe cerul cenușiu.",
+                "en": "This stop at the edge of town is perfect by car; in the rain, the colors of the letters stand out vibrantly against the gray sky."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermonate in Tepic sind ideal für Autoreisen, da das Wetter stabil und trocken ist. Morgens führt die Fahrt nach Bellavista durch klare, kühle Luft. Mittags ist es angenehm warm, perfekt für Stopps im Zentrum. Nachmittags sinken die Temperaturen, aber im Wagen bleibt es gemütlich. Denken Sie an den frühen Sonnenuntergang gegen 17:30 Uhr bei der Planung Ihrer ländlichen Stopps.",
+            "hu": "A téli hónapok Tepicben ideálisak az autós felfedezéshez, mivel az időjárás stabil és száraz. Reggel tiszta, hűvös időben autózhat Bellavista felé. Délben kellemes meleg van, tökéletes a belvárosi megállókhoz. Délután a hőmérséklet csökken, de az autóban kényelmes marad az út. Tervezze a távolabbi megállókat a korai, fél 6-os naplemente előtt.",
+            "ro": "Lunile de iarnă în Tepic sunt ideale pentru călătoriile cu mașina, vremea fiind stabilă și uscată. Dimineața, drumul spre Bellavista oferă un aer curat și răcoros. La prânz este plăcut de cald, perfect pentru opriri în centru. După-amiaza temperaturile scad, dar în mașină rămâne confortabil. Atenție la apusul devreme de la 17:30.",
+            "en": "The winter months in Tepic are ideal for car travel as the weather is stable and dry. In the morning, enjoy the clear, cool air on the way to Bellavista. At noon, it's pleasantly warm, perfect for downtown stops. In the afternoon, temperatures drop, but the car remains comfortable. Plan your further stops before the early sunset at 5:30 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ex-Fabrica Textil de Bellavista",
+                "hu": "Ex-Fabrica Textil de Bellavista",
+                "ro": "Ex-Fabrica Textil de Bellavista",
+                "en": "Ex-Fabrica Textil de Bellavista"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Wintermorgenluft macht den Spaziergang durch die Fabrikruinen sehr angenehm; die Sicht auf die Berge ist im Winter besonders klar.",
+                "hu": "A hűvös téli reggeli levegőben nagyon kellemes a séta a gyárromok között; a hegyekre nyíló kilátás télen különösen tiszta és éles.",
+                "ro": "Aerul răcoros de dimineață face plimbarea prin ruinele fabricii foarte plăcută; panorama spre munți este deosebit de clară iarna.",
+                "en": "The cool winter morning air makes walking through the factory ruins very pleasant; the mountain views are exceptionally clear in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cuadra",
+                "hu": "La Cuadra",
+                "ro": "La Cuadra",
+                "en": "La Cuadra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Mittagslicht für scharfe Fotos dieses Ortes; im Winter gibt es weniger Dunst, was die Aufnahmen professioneller wirken lässt.",
+                "hu": "Használja ki a tiszta déli fényt az éles fotókhoz; télen kevesebb a pára, ami miatt a felvételek sokkal professzionálisabbnak hatnak.",
+                "ro": "Profitați de lumina clară de prânz pentru fotografii reușite; iarna este mai puțină ceață, ceea ce face fotografiile să pară mai clare.",
+                "en": "Take advantage of the clear noon light for sharp photos; there's less haze in winter, making your shots look much more professional."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museo Amado Nervo",
+                "hu": "Casa Museo Amado Nervo",
+                "ro": "Casa Museo Amado Nervo",
+                "en": "Casa Museo Amado Nervo"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Besuch im Zentrum entspannter; Parkplätze sind leichter zu finden, und die kühlen Museumsräume sind eine willkommene Abwechslung.",
+                "hu": "Télen a belvárosi látogatás nyugodtabb; könnyebb parkolóhelyet találni, a múzeum hűvös belső terei pedig kellemes környezetet biztosítanak.",
+                "ro": "Iarna, vizitarea centrului este mai relaxată; locurile de parcare se găsesc mai ușor, iar muzeele oferă o ambianță interioară plăcută.",
+                "en": "In winter, visiting downtown is more relaxed; parking is easier to find, and the cool museum interiors provide a pleasant environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Zitacua",
+                "hu": "Zitacua",
+                "ro": "Zitacua",
+                "en": "Zitacua"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht vom Hügel ist im Winter am besten; parken Sie oben und genießen Sie den Blick auf Tepic in der trockenen, klaren Winterluft.",
+                "hu": "A dombról nyíló távlatok télen a legjobbak; parkoljon le fent, és élvezze Tepic látványát a száraz, tiszta téli levegőben.",
+                "ro": "Vizibilitatea de pe deal este optimă iarna; parcați sus și bucurați-vă de panorama orașului Tepic în aerul uscat și curat de iarnă.",
+                "en": "Visibility from the hill is best in winter; park at the top and enjoy the view of Tepic in the dry, clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Amado Nervo",
+                "hu": "Amado Nervo",
+                "ro": "Amado Nervo",
+                "en": "Amado Nervo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Monument am späten Nachmittag; das warme Winterlicht verleiht dem Ort eine besonders feierliche und ruhige Stimmung.",
+                "hu": "Keresse fel az emlékművet késő délután; a meleg téli fények különleges, ünnepélyes és nyugodt hangulatot árasztanak ezen a helyszínen.",
+                "ro": "Vizitați monumentul după-amiaza târziu; lumina caldă de iarnă oferă locului o atmosferă deosebit de solemnă și liniștită.",
+                "en": "Visit the monument in the late afternoon; the warm winter light lends the site a particularly solemn and peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Maxiletras Tepic",
+                "hu": "Maxiletras Tepic",
+                "ro": "Maxiletras Tepic",
+                "en": "Maxiletras Tepic"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre Tour hier kurz vor Sonnenuntergang ab; die Winterdämmerung am Stadtrand bietet eine tolle Kulisse für Ihr Abschiedsfoto.",
+                "hu": "Zárja itt a túrát közvetlenül naplemente előtt; a város szélén a téli szürkület nagyszerű hátteret biztosít a búcsúfotóhoz.",
+                "ro": "Încheiați turul aici chiar înainte de apus; amurgul de iarnă de la marginea orașului oferă un decor superb pentru fotografia de final.",
+                "en": "End your tour here just before sunset; the winter twilight at the edge of town provides a great backdrop for your final photo."
+              }
+            }
+          ]
+        }
       }
     }
   }

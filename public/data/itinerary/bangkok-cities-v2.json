@@ -206,6 +206,252 @@
         "hu": "Morning: Sétánkat az elegáns Wat Mahannapharam Worawihan templomnál kezdjük, elmerülve a nyugodt spirituális légkörben, mielőtt felfedezzük a közeli bolhapiac egyedi kincseit és hangulatát.\nMidday: Délben a Loha Prasat építészeti csodájához látogatunk, majd egy történelmi sétát teszünk a Mahakan Erőd területén, hogy megcsodáljuk a város ősi védelmi struktúráinak megmaradt részeit.\nAfternoon: Ezután belevetjük magunkat a helyi művészeti életbe a The Queen's Gallery és a Ratchadamnoen Art Center inspiráló látogatásával, amelyek hagyományos és kortárs műveket egyaránt bemutatnak.\nEvening: Kulturális napunkat a Rattanakosin Kiállítóteremben zárjuk, mielőtt felmásznánk az ikonikus Aranyhegyre, hogy megcsodáljuk a város felett lenyugvó nap varázslatos és felejthetetlen látványát.",
         "ro": "Morning: Începem turul nostru la elegantul Wat Mahannapharam Worawihan, absorbind atmosfera spirituală senină înainte de a explora descoperirile unice de la piața de vechituri a comunității din apropiere.\nMidday: Amiaza ne duce la minunea arhitecturală Loha Prasat, urmată de o plimbare istorică prin incinta Fortului Mahakan pentru a aprecia structurile defensive antice ale orașului care au rezistat timpului.\nAfternoon: Apoi, ne scufundăm în scena de artă locală cu vizite pline de inspirație la The Queen's Gallery și la Ratchadamnoen Art Center, evidențiind atât expresiile creative tradiționale, cât și pe cele contemporane.\nEvening: Încheiem ziua noastră culturală la Rattanakosin Exhibition Hall înainte de a urca în cele din urmă pe emblematicul Golden Mount pentru a prinde un apus de soare fascinant și de neuitat peste întregul oraș.",
         "en": "Morning: We begin our walking tour at the elegant Wat Mahannapharam Worawihan, soaking in the serene spiritual atmosphere before exploring the unique finds at the nearby community flea market.\nMidday: The afternoon takes us to the architectural marvel of Loha Prasat, followed by a historical stroll through the grounds of Mahakan Fort to appreciate the city's ancient defensive structures.\nAfternoon: Next, we dive into the local art scene with inspiring visits to The Queen's Gallery and the Ratchadamnoen Art Center, highlighting both traditional and contemporary creative expressions.\nEvening: We conclude our rich cultural day at the Rattanakosin Exhibition Hall before finally ascending the iconic Golden Mount to catch a mesmerizing and unforgettable sunset over the entire city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Dächern der Tempel, während der Regen gegen die Ziegel peitscht. Mittags bieten die großen Galerien am Ratchadamnoen Boulevard den perfekten trockenen Zufluchtsort. Am Nachmittag tauchen Sie in die klimatisierten Ausstellungen ein, um den Güssen zu entgehen. Der Abend am Golden Mount ist neblig und mystisch, erfordert aber Vorsicht auf den Stufen.",
+            "hu": "A reggel a templomok védelmező tetői alatt indul, miközben az eső a cserepeken kopog. Délben a Ratchadamnoen sugárút nagy galériái nyújtanak tökéletes, száraz menedéket a záporok elől. Délután a légkondicionált kiállításokon merülhet el a történelemben, elkerülve az égi áldást. Az este az Aranyhegynél ködös és misztikus, de a csúszós lépcsőkön ilyenkor fokozott óvatosságra van szükség.",
+            "ro": "Dimineața începe sub acoperișurile protectoare ale templelor, în timp ce ploaia bate în țigle. La prânz, marile galerii de pe bulevardul Ratchadamnoen oferă refugiul uscat perfect. După-amiaza, vă puteți refugia în expozițiile cu aer condiționat pentru a evita aversele tropicale. Seara la Muntele de Aur este cețoasă și mistică, dar necesită atenție sporită pe treptele umede.",
+            "en": "The morning begins under the protective roofs of temples as rain drums against the tiles. At noon, the grand galleries along Ratchadamnoen Boulevard provide the perfect dry sanctuary. In the afternoon, immerse yourself in air-conditioned exhibitions to escape the tropical downpours. The evening at Golden Mount is misty and mystical, though the wet steps require extra caution."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Mahannapharam Worawihan",
+                "hu": "Wat Mahannapharam Worawihan",
+                "ro": "Wat Mahannapharam Worawihan",
+                "en": "Wat Mahannapharam Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das weiße Buddha-Abbild im Inneren der Haupthalle, wo es vollkommen trocken bleibt; tragen Sie rutschfeste Sandalen für die nassen Tempelhöfe.",
+                "hu": "Csodálja meg a hófehér Buddha-szobrot a főcsarnok belsejében, ahol garantáltan száraz marad; viseljen csúszásmentes szandált a vizes udvarokon való átkeléshez.",
+                "ro": "Admirați imaginea albă a lui Buddha în interiorul halei principale, unde rămâneți perfect uscat; purtați sandale antiderapante pentru curțile umede ale templului.",
+                "en": "Admire the white Buddha image inside the main hall where it remains perfectly dry; wear non-slip sandals for crossing the wet temple courtyards between buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Lang Wat Ratchanatda Community Flea Market",
+                "hu": "Lang Wat Ratchanatda Közösségi Bolhapiac",
+                "ro": "Piața de vechituri Lang Wat Ratchanatda",
+                "en": "Lang Wat Ratchanatda Community Flea Market"
+              },
+              "tip_5lang": {
+                "de": "Stöbern Sie unter den Markisen nach Amuletten und Antiquitäten, während es draußen gießt; kaufen Sie hier einen günstigen Regenponcho, falls Sie Ihren vergessen haben.",
+                "hu": "Böngésszen az amulettek és régiségek között a sátortetők védelmében, amíg kint szakad az eső; vegyen itt egy olcsó esőponcsót, ha véletlenül a szálláson felejtette.",
+                "ro": "Răsfoiți printre amulete și antichități sub protecția copertinelor în timp ce plouă torențial; cumpărați o pelerină ieftină de aici dacă ați uitat-o pe a dumneavoastră.",
+                "en": "Browse through amulets and antiques under the protection of market awnings while it pours; buy a cheap rain poncho here if you happened to forget yours at the hotel."
+              }
+            },
+            {
+              "name": {
+                "de": "Loha Prasat",
+                "hu": "Loha Prasat",
+                "ro": "Loha Prasat",
+                "en": "Loha Prasat"
+              },
+              "tip_5lang": {
+                "de": "Die 37 Metallspitzen wirken bei grauem Regenwetter besonders dramatisch; nutzen Sie die überdachten Gänge im Inneren, um die Architektur ohne nass zu werden zu bestaunen.",
+                "hu": "A 37 fémcsúcs különösen drámai látványt nyújt a szürke, esős égbolt előtt; használja a belső fedett folyosókat az építészet megcsodálásához, így száraz marad.",
+                "ro": "Cele 37 de turle metalice par deosebit de dramatice pe fundalul cerului cenușiu; folosiți coridoarele interioare acoperite pentru a admira arhitectura fără a vă uda.",
+                "en": "The 37 metal spires look particularly dramatic against a gray rainy sky; use the interior covered corridors to admire the architecture without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahakan Fort",
+                "hu": "Mahakan Erőd",
+                "ro": "Fortul Mahakan",
+                "en": "Mahakan Fort"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Festungsmauern glänzen im Regen, bieten aber wenig Schutz; suchen Sie unter den großen Bäumen kurzzeitig Unterschlupf oder eilen Sie zum nächsten Gebäude.",
+                "hu": "A fehér erődfalak fényesen csillognak az esőben, de kevés védelmet nyújtanak; keressen rövid menedéket a nagy fák alatt, vagy siessen tovább a következő épületig.",
+                "ro": "Zidurile albe ale cetății strălucesc în ploaie, dar oferă puțin adăpost; căutați refugiu temporar sub copacii mari sau grăbiți-vă spre următoarea clădire vizată.",
+                "en": "The white fortress walls glisten in the rain but offer little shelter; seek temporary cover under the large trees or quicken your pace to the next indoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "The Queen's Gallery",
+                "hu": "A Királynő Galériája",
+                "ro": "The Queen's Gallery",
+                "en": "The Queen's Gallery"
+              },
+              "tip_5lang": {
+                "de": "Diese mehrstöckige Galerie ist der ideale Zufluchtsort bei Starkregen; verbringen Sie die Zeit mit zeitgenössischer thailändischer Kunst, bis das Wetter sich bessert.",
+                "hu": "Ez a többszintes galéria az ideális búvóhely heves esőzés esetén; töltse az időt kortárs thai művészetek felfedezésével, amíg az időjárás egy kicsit barátságosabb lesz.",
+                "ro": "Această galerie cu mai multe etaje este refugiul ideal în caz de ploaie abundentă; petreceți timpul explorând arta thailandeză contemporană până se îmbunătățește vremea.",
+                "en": "This multi-story gallery is the ideal sanctuary during heavy rain; spend your time exploring contemporary Thai art while waiting for the tropical storm to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Ratchadamnoen Art Center",
+                "hu": "Ratchadamnoen Művészeti Központ",
+                "ro": "Centrul de Artă Ratchadamnoen",
+                "en": "Ratchadamnoen Art Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die moderne Bibliothek im Erdgeschoss, um im Trockenen zu lesen; die großen Glasfenster bieten einen tollen Blick auf die regennasse Prachtstraße draußen.",
+                "hu": "Használja a földszinti modern könyvtárat egy kis száraz olvasgatáshoz; a hatalmas üvegablakokból kiváló kilátás nyílik a kinti esőtől áztatott, fényes sugárútra.",
+                "ro": "Folosiți biblioteca modernă de la parter pentru a citi la adăpost; ferestrele mari de sticlă oferă o priveliște excelentă asupra bulevardului strălucitor de ploaie.",
+                "en": "Use the modern library on the ground floor for some dry reading time; the large glass windows offer a great view of the rain-slicked boulevard outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattanakosin Exhibition Hall",
+                "hu": "Rattanakosin Kiállítóterem",
+                "ro": "Sala de Expoziții Rattanakosin",
+                "en": "Rattanakosin Exhibition Hall"
+              },
+              "tip_5lang": {
+                "de": "Die interaktiven Multimedia-Shows im Inneren lassen Sie das schlechte Wetter völlig vergessen; das Café im obersten Stock bietet einen Panoramablick auf das verregnete Viertel.",
+                "hu": "Az interaktív multimédiás bemutatók bent teljesen elfeledtetik a rossz időt; a legfelső emeleti kávézó panorámás kilátást nyújt az eső áztatta történelmi negyedre.",
+                "ro": "Spectacolele multimedia interactive din interior vă vor face să uitați de vremea rea; cafeneaua de la ultimul etaj oferă o vedere panoramică asupra cartierului ploios.",
+                "en": "The interactive multimedia shows inside will make you completely forget the bad weather; the top-floor cafe offers a panoramic view of the rain-drenched district."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Mount",
+                "hu": "Aranyhegy (Golden Mount)",
+                "ro": "Muntele de Aur",
+                "en": "Golden Mount"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich beim Aufstieg am Geländer fest, da die Stufen extrem rutschig sind; genießen Sie die mystische Aussicht auf Bangkok durch den feinen Regenschleier.",
+                "hu": "Kapaszkodjon erősen a korlátba felfelé menet, mert a lépcsők rendkívül csúszósak; élvezze a misztikus kilátást Bangkokra a finom esőfüggönyön keresztül.",
+                "ro": "Țineți-vă bine de balustradă la urcare, deoarece treptele sunt extrem de alunecoase; bucurați-vă de priveliștea mistică asupra Bangkokului prin perdeaua fină de ploaie.",
+                "en": "Hold onto the handrail tightly on your way up as the steps are extremely slippery when wet; enjoy the mystical view of Bangkok through the fine veil of rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgen ist ideal für einen Spaziergang durch die Tempelanlagen ohne die drückende Hitze. Mittags genießen Sie die milde Sonne auf dem Flohmarkt, während die Luft erfrischend bleibt. Am Nachmittag leuchten die Monumente im klaren Winterlicht besonders hell. Der Tag endet früh mit einem spektakulären Sonnenuntergang vom Gipfel des Golden Mount gegen 17:30 Uhr.",
+            "hu": "A hűvös reggel ideális a templomkertek felfedezéséhez a fojtogató hőség nélkül. Délben élvezze a lágy napsütést a bolhapiacon, miközben a levegő friss marad. Délután a műemlékek ragyognak a tiszta téli fényben. A nap korán ér véget egy látványos naplementével az Aranyhegy tetejéről, ami már fél hat körül beköszönt.",
+            "ro": "Dimineața răcoroasă este ideală pentru a explora curțile templelor fără căldura sufocantă. La prânz, bucurați-vă de soarele blând în piața de vechituri, în timp ce aerul rămâne proaspăt. După-amiaza, monumentele strălucesc în lumina clară de iarnă. Ziua se termină devreme cu un apus spectaculos de pe vârful Muntelui de Aur, în jurul orei 17:30.",
+            "en": "The cool morning is ideal for exploring temple grounds without the stifling heat. At noon, enjoy the mild sun at the flea market while the air remains refreshingly crisp. In the afternoon, monuments shine brightly in the clear winter light. The day ends early with a spectacular sunset from the top of Golden Mount around 5:30 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Mahannapharam Worawihan",
+                "hu": "Wat Mahannapharam Worawihan",
+                "ro": "Wat Mahannapharam Worawihan",
+                "en": "Wat Mahannapharam Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühle Morgenbrise, um die ruhigen Außenanlagen des Tempels zu erkunden; die Luftfeuchtigkeit ist niedrig, was das Gehen sehr angenehm macht.",
+                "hu": "Használja ki a hűvös reggeli szellőt a templom csendes udvarának felfedezéséhez; a páratartalom ilyenkor alacsony, ami nagyon kellemessé teszi a sétát.",
+                "ro": "Profitați de briza răcoroasă a dimineții pentru a explora terenurile liniștite ale templului; umiditatea este scăzută, ceea ce face mersul pe jos foarte plăcut.",
+                "en": "Take advantage of the cool morning breeze to explore the quiet temple grounds; the humidity is low, making the walk exceptionally pleasant compared to summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Lang Wat Ratchanatda Community Flea Market",
+                "hu": "Lang Wat Ratchanatda Közösségi Bolhapiac",
+                "ro": "Piața de vechituri Lang Wat Ratchanatda",
+                "en": "Lang Wat Ratchanatda Community Flea Market"
+              },
+              "tip_5lang": {
+                "de": "Bei den milden Wintertemperaturen macht das Wühlen in den Antiquitätenkisten doppelt Spaß; suchen Sie nach Vintage-Stücken im hellen Vormittagslicht.",
+                "hu": "A mérsékelt téli hőmérsékletben kétszer olyan élvezetes a régiségdobozok közötti kutatás; keressen különleges darabokat a ragyogó délelőtti napsütésben.",
+                "ro": "La temperaturile blânde de iarnă, scotocirea prin cutiile cu antichități este de două ori mai plăcută; căutați piese vintage în lumina strălucitoare a dimineții.",
+                "en": "In the mild winter temperatures, digging through boxes of antiques is twice as enjoyable; look for unique vintage pieces in the bright morning sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Loha Prasat",
+                "hu": "Loha Prasat",
+                "ro": "Loha Prasat",
+                "en": "Loha Prasat"
+              },
+              "tip_5lang": {
+                "de": "Erklimmen Sie die Ebenen des 'Eisenpalastes' ohne ins Schwitzen zu kommen; die kühle Brise auf den oberen Balkonen bietet eine wunderbare Erfrischung.",
+                "hu": "Mássza meg a „Vaskastély” emeleteit anélkül, hogy megizzadna; a felső erkélyeken lengedező hűvös szellő csodálatos felfrissülést nyújt a város felett.",
+                "ro": "Urcați etajele „Castelului de Fier” fără să transpirați; briza răcoroasă de pe balcoanele superioare oferă o reîmprospătare minunată deasupra orașului.",
+                "en": "Climb the levels of the 'Iron Castle' without breaking a sweat; the cool breeze on the upper balconies provides a wonderful refreshment above the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahakan Fort",
+                "hu": "Mahakan Erőd",
+                "ro": "Fortul Mahakan",
+                "en": "Mahakan Fort"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die parkähnliche Atmosphäre bei angenehmen 25 Grad; dies ist die beste Zeit, um die historischen Holzhäuser in der Umgebung des Forts zu bewundern.",
+                "hu": "Élvezze a parkszerű hangulatot a kellemes, 25 fokos időben; ez a legjobb alkalom a fennmaradt történelmi faházak megcsodálására az erőd környékén.",
+                "ro": "Bucurați-vă de atmosfera de parc la o temperatură plăcută de 25 de grade; acesta este cel mai bun moment pentru a admira casele istorice din lemn din jur.",
+                "en": "Enjoy the park-like atmosphere in the pleasant 25-degree weather; this is the best time to admire the remaining historic wooden houses around the fort."
+              }
+            },
+            {
+              "name": {
+                "de": "The Queen's Gallery",
+                "hu": "A Királynő Galériája",
+                "ro": "The Queen's Gallery",
+                "en": "The Queen's Gallery"
+              },
+              "tip_5lang": {
+                "de": "Auch im Winter ist die Mittagssonne intensiv; flüchten Sie für eine Stunde in die klimatisierten Räume, um thailändische Meisterwerke in Ruhe zu sehen.",
+                "hu": "A déli napsütés még télen is erős lehet; meneküljön be egy órára a légkondicionált termekbe, hogy nyugodt körülmények között láthassa a thai mesterműveket.",
+                "ro": "Soarele de la prânz poate fi puternic chiar și iarna; refugiați-vă pentru o oră în sălile cu aer condiționat pentru a vedea capodoperele thailandeze în liniște.",
+                "en": "The midday sun can be intense even in winter; escape into the air-conditioned rooms for an hour to see Thai masterpieces in quiet, cool comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Ratchadamnoen Art Center",
+                "hu": "Ratchadamnoen Művészeti Központ",
+                "ro": "Centrul de Artă Ratchadamnoen",
+                "en": "Ratchadamnoen Art Center"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur wirkt im klaren Winterhimmel besonders fotogen; nutzen Sie das weiche Licht des späten Nachmittags für perfekte Außenaufnahmen.",
+                "hu": "A modern építészet különösen fotogén a tiszta téli égbolt alatt; használja ki a késő délutáni lágy fényeket a tökéletes külső fotók készítéséhez.",
+                "ro": "Arhitectura modernă este deosebit de fotogenă sub cerul senin de iarnă; profitați de lumina slabă a după-amiezii târzii pentru fotografii exterioare perfecte.",
+                "en": "The modern architecture is particularly photogenic under the clear winter sky; take advantage of the soft late afternoon light for perfect exterior photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattanakosin Exhibition Hall",
+                "hu": "Rattanakosin Kiállítóterem",
+                "ro": "Sala de Expoziții Rattanakosin",
+                "en": "Rattanakosin Exhibition Hall"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Geschichte ein und beenden Sie die Tour im Panoramacafe; beobachten Sie von hier aus den frühen Wintersonnenuntergang über der Stadt.",
+                "hu": "Merüljön el a történelemben, majd fejezze be a látogatást a panorámakávézóban; innen tökéletesen megfigyelheti a korai téli naplementét a város felett.",
+                "ro": "Cufundați-vă în istorie și încheiați vizita la cafeneaua panoramică; de aici puteți observa perfect apusul timpuriu de iarnă peste oraș.",
+                "en": "Dive deep into history and end your visit at the panoramic cafe; it is the perfect spot to watch the early winter sunset unfold over the historic skyline."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Mount",
+                "hu": "Aranyhegy (Golden Mount)",
+                "ro": "Muntele de Aur",
+                "en": "Golden Mount"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang nicht zu verpassen; die kühle Abendluft am Gipfel ist die beste Belohnung für den kurzen Aufstieg.",
+                "hu": "Érkezzen meg 17:00 előtt, hogy ne maradjon le a naplementéről; a hűvös esti levegő a csúcson a legjobb jutalom a rövid, de meredek lépcsőzés után.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a nu rata apusul; aerul răcoros de seară de pe vârf este cea mai bună recompensă după urcarea scurtă, dar abruptă.",
+                "en": "Arrive before 5:00 PM so you don't miss the sunset; the cool evening air at the summit is the best reward after the short but steep climb up the stairs."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -406,6 +652,252 @@
         "hu": "Morning: Kezdje kerékpáros túráját a békés Wat Parinayok Worawihannál, szánjon időt a részletekre, mielőtt átkerekezik a The Queen's Gallery magával ragadó művészeti gyűjteményeinek felfedezésére.\nMidday: Tekerjen el a nyüzsgő Phanfa Leelard kereszteződéshez, majd parkolja le a kerékpárját, hogy megcsodálja a Loha Prasat fémtornyait, és helyi kincsekre vadásszon a szomszédos közösségi bolhapiacon.\nAfternoon: Az utazás a dinamikus Ratchadamnoen Art Center látogatásával folytatódik modern kiállítások megtekintéséhez, amelyet egy nyugodt megálló követ a közeli elegáns Wat Mahannapharam Worawihannál.\nEvening: Aktív napunkat úgy zárjuk, hogy a fenséges Aranyhegy felé pedálozunk, ott hagyjuk a kerékpárokat, hogy megmásszuk a lépcsőket, és a naplemente közben élvezzük a csodálatos panorámát.",
         "ro": "Morning: Începeți călătoria cu bicicleta la pașnicul Wat Parinayok Worawihan, făcându-vă timp pentru a admira detaliile înainte de a merge să explorați colecțiile de artă de la The Queen's Gallery.\nMidday: Mergeți cu bicicleta până la intersecția aglomerată Phanfa Leelard, apoi parcati bicicleta pentru a admira turlele Loha Prasat și a căuta comori locale la piața de vechituri din apropiere.\nAfternoon: Plimbarea continuă cu o vizită la dinamicul Ratchadamnoen Art Center pentru a vedea expoziții moderne, urmată de o oprire senină la elegantul Wat Mahannapharam Worawihan din apropiere.\nEvening: Încheiem ziua noastră activă pedalând spre baza maiestuosului Golden Mount, lăsând bicicletele pentru a urca treptele și a ne bucura de o vedere panoramică glorioasă la apus.",
         "en": "Morning: Kick off your cycling journey at the peaceful Wat Parinayok Worawihan, taking time to admire its details before riding over to explore the captivating art collections at The Queen's Gallery.\nMidday: Cycle to the bustling intersection of Phanfa Leelard, then park your bike to marvel at the distinct metal spires of Loha Prasat and hunt for local treasures at the adjacent community flea market.\nAfternoon: The ride continues with a visit to the dynamic Ratchadamnoen Art Center to view modern exhibitions, followed by a serene stop at the elegant Wat Mahannapharam Worawihan nearby.\nEvening: We wrap up our active day by pedaling toward the base of the majestic Golden Mount, leaving the bikes to climb the steps and enjoy a glorious panoramic view as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Bangkok volle Konzentration auf den glatten Straßen. Der Vormittag führt Sie durch überdachte Galerien, während Sie die Schauer abwarten. Mittags bieten die kleinen Gassen zwischen den Tempeln kurzen Schutz unter Vordächern. Am Nachmittag radeln Sie vorsichtig über nasse Brücken, bevor der Tag am stimmungsvollen Golden Mount endet.",
+            "hu": "Az esőben való kerékpározás Bangkokban teljes koncentrációt igényel a csúszós utakon. A délelőtt fedett galériákhoz vezet, ahol kivárhatja a nagyobb záporokat. Délben a templomok közötti szűk utcák nyújtanak rövid menedéket az ereszek alatt. Délután óvatosan tekerjen át a vizes hidakon, mielőtt a nap a hangulatos Aranyhegynél véget ér.",
+            "ro": "Mersul pe bicicletă în ploaie necesită concentrare maximă pe străzile alunecoase din Bangkok. Dimineața vă conduce spre galerii acoperite, unde puteți aștepta trecerea averselor. La prânz, străzile înguste dintre temple oferă scurte refugii sub streșini. După-amiaza, pedalați cu atenție pe podurile umede înainte ca ziua să se încheie la Muntele de Aur.",
+            "en": "Cycling in the rain requires full concentration on Bangkok's slick roads. The morning leads you to covered galleries where you can wait out the heaviest showers. At noon, narrow alleys between temples provide short shelter under eaves. In the afternoon, pedal carefully across wet bridges before the day concludes at the atmospheric Golden Mount."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Parinayok Worawihan",
+                "hu": "Wat Parinayok Worawihan",
+                "ro": "Wat Parinayok Worawihan",
+                "en": "Wat Parinayok Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem großen Baum am Eingang und suchen Sie Schutz in der Ordinationshalle; achten Sie auf die rutschigen Bodenfliesen im Hof.",
+                "hu": "Parkolja le a kerékpárt a bejáratnál lévő nagy fa alatt, és keressen menedéket a szentélyben; ügyeljen a rendkívül csúszós padlólapokra az udvaron.",
+                "ro": "Parcați bicicleta sub copacul mare de la intrare și căutați adăpost în sala de hirotonire; atenție la plăcile de pardoseală foarte alunecoase din curte.",
+                "en": "Park your bike under the large tree at the entrance and seek shelter in the ordination hall; watch out for the extremely slippery floor tiles in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "The Queen's Gallery",
+                "hu": "A Királynő Galériája",
+                "ro": "The Queen's Gallery",
+                "en": "The Queen's Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Kleidung zu trocknen und moderne Kunst zu genießen; nutzen Sie den bewachten Fahrradparkplatz, damit Ihr Sattel nicht nass wird.",
+                "hu": "Ideális megálló a ruhák megszárítására és a modern művészet élvezetére; használja az őrzött kerékpárparkolót, hogy a nyereg ne ázzon el a záporban.",
+                "ro": "O oprire ideală pentru a vă usca hainele și a vă bucura de arta modernă; folosiți parcarea păzită pentru biciclete pentru ca șaua să nu se ude în ploaie.",
+                "en": "An ideal stop to dry your clothes and enjoy modern art; use the guarded bike parking area to ensure your saddle stays dry during the heavy tropical shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Phanfa Leelard",
+                "hu": "Phanfa Leelard",
+                "ro": "Phanfa Leelard",
+                "en": "Phanfa Leelard"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der Brücke an, um das Wasser im Kanal zu beobachten, aber fahren Sie bei Regen wegen der glatten Metallfugen besonders langsam.",
+                "hu": "Álljon meg egy pillanatra a hídnál, hogy megfigyelje a csatorna vizét, de az esőben a csúszós fémillesztések miatt csak nagyon lassan haladjon át rajta.",
+                "ro": "Opriți-vă scurt la pod pentru a observa apa din canal, dar circulați foarte încet pe ploaie din cauza îmbinărilor metalice care devin extrem de alunecoase.",
+                "en": "Stop briefly at the bridge to observe the canal water, but ride very slowly in the rain due to the metal joints which become dangerously slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Loha Prasat",
+                "hu": "Loha Prasat",
+                "ro": "Loha Prasat",
+                "en": "Loha Prasat"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Metalltürme wirken bei Gewitterstimmung fast magisch; bleiben Sie in den unteren Arkaden, um die Architektur im Trockenen zu bewundern.",
+                "hu": "A sötét fémtornyok viharos hangulatban szinte mágikusnak tűnnek; maradjon az alsó árkádok alatt, hogy szárazon csodálhassa meg ezt a különleges építményt.",
+                "ro": "Turnurile metalice întunecate par aproape magice într-o atmosferă de furtună; rămâneți sub arcadele inferioare pentru a admira structura stând la uscat.",
+                "en": "The dark metal towers look almost magical in a stormy atmosphere; stay under the lower arcades to admire the unique structure while remaining completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lang Wat Ratchanatda Community Flea Market",
+                "hu": "Lang Wat Ratchanatda Közösségi Bolhapiac",
+                "ro": "Piața de vechituri Lang Wat Ratchanatda",
+                "en": "Lang Wat Ratchanatda Community Flea Market"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad durch die schmalen Marktgassen, um Passanten nicht zu bespritzen; die Vordächer bieten guten Schutz vor plötzlichen Wolkenbrüchen.",
+                "hu": "Tolja a kerékpárt a szűk piaci utcákon, hogy ne fröcskölje le a gyalogosokat; az ereszek jó védelmet nyújtanak a hirtelen lezúduló trópusi felhőszakadások elől.",
+                "ro": "Împingeți bicicleta pe străzile înguste ale pieței pentru a nu stropi pietonii; copertinele oferă o protecție bună împotriva ploilor tropicale bruște.",
+                "en": "Push your bike through the narrow market lanes to avoid splashing pedestrians; the awnings offer good protection from sudden tropical cloudbursts."
+              }
+            },
+            {
+              "name": {
+                "de": "Ratchadamnoen Art Center",
+                "hu": "Ratchadamnoen Művészeti Központ",
+                "ro": "Centrul de Artă Ratchadamnoen",
+                "en": "Ratchadamnoen Art Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich und nutzen Sie die Klimaanlage zur Erholung; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf nasser Straße fortsetzen.",
+                "hu": "Parkoljon a fedett részen, és használja a légkondicionált tereket a pihenésre; ellenőrizze a fékeket, mielőtt továbbindulna a vizes aszfalton.",
+                "ro": "Parcați în zona acoperită și folosiți spațiile cu aer condiționat pentru odihnă; verificați frânele înainte de a pleca din nou pe asfaltul ud.",
+                "en": "Park in the covered area and use the air-conditioned spaces to rest; check your brakes before heading out again on the wet and slippery asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Mahannapharam Worawihan",
+                "hu": "Wat Mahannapharam Worawihan",
+                "ro": "Wat Mahannapharam Worawihan",
+                "en": "Wat Mahannapharam Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Atmosphäre des Tempels lädt zum Verweilen ein, während der Regen nachlässt; stellen Sie sicher, dass Ihr Rad sicher und trocken untergestellt ist.",
+                "hu": "A templom csendes hangulata maradásra csábít, amíg az eső alábbhagy; győződjön meg róla, hogy a kerékpár biztonságos és száraz helyen várja az indulást.",
+                "ro": "Atmosfera liniștită a templului vă invită să zăboviți până când ploaia se potolește; asigurați-vă că bicicleta este parcată într-un loc sigur și uscat.",
+                "en": "The quiet atmosphere of the temple invites you to linger until the rain subsides; make sure your bike is parked in a safe and dry spot before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Mount",
+                "hu": "Aranyhegy (Golden Mount)",
+                "ro": "Muntele de Aur",
+                "en": "Golden Mount"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad am Fuße des Berges an und steigen Sie vorsichtig die nassen Stufen hinauf; der Nebel über der Stadt bietet ein einzigartiges Fotomotiv.",
+                "hu": "Zárja le a kerékpárt a hegy lábánál, és óvatosan menjen fel a vizes lépcsőkön; a város feletti köd és pára egyedülálló fotótémát kínál a csúcsról.",
+                "ro": "Încuiați bicicleta la baza muntelui și urcați cu atenție treptele umede; ceața și vaporii de deasupra orașului oferă un subiect fotografic unic de pe vârf.",
+                "en": "Lock your bike at the base of the hill and carefully climb the wet steps; the mist and vapor over the city offer a unique photographic subject from the top."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die beste Zeit für eine Radtour durch Bangkok, da die Luft trocken und angenehm kühl ist. Vormittags gleiten Sie mühelos an den Tempeln vorbei, ohne von der Hitze erschöpft zu werden. Mittags lockt der Flohmarkt mit sonnigen Plätzen zum Verweilen. Am Nachmittag genießen Sie das klare Licht für Fotos, bevor Sie zum Sonnenuntergang den Golden Mount erreichen.",
+            "hu": "A tél a legjobb időszak egy bangkoki kerékpártúrához, mivel a levegő száraz és kellemesen hűvös. Délelőtt erőfeszítés nélkül suhanhat el a templomok mellett, nem meríti ki a hőség. Délben a bolhapiac napos helyei csábítanak pihenésre. Délután élvezze a tiszta fényeket a fotózáshoz, mielőtt a naplementére elérné az Aranyhegyet.",
+            "ro": "Iarna este cea mai bună perioadă pentru un tur cu bicicleta prin Bangkok, deoarece aerul este uscat și plăcut de răcoros. Dimineața pedalați fără efort pe lângă temple, fără a fi epuizat de căldură. La prânz, locurile însorite din piața de vechituri vă invită la odihnă. După-amiaza, bucurați-vă de lumina clară pentru poze înainte de apus.",
+            "en": "Winter is the best time for a bike tour in Bangkok as the air is dry and pleasantly cool. In the morning, glide effortlessly past temples without being exhausted by the heat. At noon, the sunny spots of the flea market invite you to rest. In the afternoon, enjoy the clear light for photos before reaching Golden Mount for sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Parinayok Worawihan",
+                "hu": "Wat Parinayok Worawihan",
+                "ro": "Wat Parinayok Worawihan",
+                "en": "Wat Parinayok Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Morgenluft beim Radeln zum Tempel; die ruhigen Gassen in der Umgebung sind bei den kühleren Temperaturen ideal zum Erkunden.",
+                "hu": "Élvezze a friss reggeli levegőt a templomhoz való tekerés közben; a környék csendes utcái a hűvösebb időben ideálisak a felfedezésre.",
+                "ro": "Bucurați-vă de aerul proaspăt al dimineții în timp ce pedalați spre templu; străzile liniștite din jur sunt ideale pentru explorare la temperaturi mai scăzute.",
+                "en": "Enjoy the fresh morning air while cycling to the temple; the quiet surrounding alleys are ideal for exploration in the cooler winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "The Queen's Gallery",
+                "hu": "A Királynő Galériája",
+                "ro": "The Queen's Gallery",
+                "en": "The Queen's Gallery"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Pause vom Radfahren; auch wenn es kühler ist, bietet die Galerie eine angenehme Umgebung, um thailändische Kunstwerke in Ruhe zu betrachten.",
+                "hu": "Tökéletes pihenő a kerékpározás után; még ha hűvösebb is az idő, a galéria kellemes környezetet kínál a thai műalkotások nyugodt megtekintéséhez.",
+                "ro": "O pauză perfectă de la pedalat; chiar dacă este mai răcoare, galeria oferă un mediu plăcut pentru a vizualiza în liniște operele de artă thailandeze.",
+                "en": "A perfect break from cycling; even if it's cooler, the gallery offers a pleasant environment to view Thai artworks in quiet comfort before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Phanfa Leelard",
+                "hu": "Phanfa Leelard",
+                "ro": "Phanfa Leelard",
+                "en": "Phanfa Leelard"
+              },
+              "tip_5lang": {
+                "de": "Das glitzernde Wasser des Kanals sieht im klaren Winterlicht fantastisch aus; halten Sie für ein schnelles Foto an, bevor Sie zum Loha Prasat weiterfahren.",
+                "hu": "A csatorna csillogó vize fantasztikusan mutat a tiszta téli fényben; álljon meg egy gyors fotóra, mielőtt továbbindulna a Loha Prasat felé.",
+                "ro": "Apa sclipitoare a canalului arată fantastic în lumina clară de iarnă; opriți-vă pentru o fotografie rapidă înainte de a continua spre Loha Prasat.",
+                "en": "The glittering water of the canal looks fantastic in the clear winter light; stop for a quick photo before continuing your ride toward Loha Prasat."
+              }
+            },
+            {
+              "name": {
+                "de": "Loha Prasat",
+                "hu": "Loha Prasat",
+                "ro": "Loha Prasat",
+                "en": "Loha Prasat"
+              },
+              "tip_5lang": {
+                "de": "Die goldene Spitze des Metallschlosses leuchtet unter dem blauen Winterhimmel besonders hell; nutzen Sie die kühle Brise auf den oberen Etagen zur Erholung.",
+                "hu": "A fémkastély arany csúcsa különösen fényesen ragyog a kék téli égbolt alatt; használja a felső szintek hűvös szellőjét a rövid pihenésre.",
+                "ro": "Vârful auriu al castelului de metal strălucește puternic sub cerul albastru de iarnă; profitați de briza răcoroasă de la etajele superioare pentru odihnă.",
+                "en": "The golden top of the metal castle shines brightly under the blue winter sky; take advantage of the cool breeze on the upper floors for a short rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Lang Wat Ratchanatda Community Flea Market",
+                "hu": "Lang Wat Ratchanatda Közösségi Bolhapiac",
+                "ro": "Piața de vechituri Lang Wat Ratchanatda",
+                "en": "Lang Wat Ratchanatda Community Flea Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und schlendern Sie durch die Gassen; die milden Temperaturen machen die Suche nach Schätzen viel entspannter als im Sommer.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és sétáljon a sorok között; a hűvösebb idő sokkal pihentetőbbé teszi a kincskeresést, mint a nyári hőségben.",
+                "ro": "Parcați bicicleta în siguranță și plimbați-vă printre rânduri; vremea răcoroasă face căutarea de comori mult mai relaxantă decât în căldura verii.",
+                "en": "Park your bike securely and stroll through the lanes; the mild temperatures make treasure hunting much more relaxed than in the intense summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Ratchadamnoen Art Center",
+                "hu": "Ratchadamnoen Művészeti Központ",
+                "ro": "Centrul de Artă Ratchadamnoen",
+                "en": "Ratchadamnoen Art Center"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für zeitgenössische Kultur; genießen Sie die moderne Architektur und nutzen Sie die kühle Brise auf der Straße für die Weiterfahrt.",
+                "hu": "Nagyszerű hely a kortárs kultúra befogadására; élvezze a modern építészetet, és használja ki az utcán lengedező hűvös szelet a továbbinduláshoz.",
+                "ro": "Un loc minunat pentru cultura contemporană; admirați arhitectura modernă și profitați de briza răcoroasă de pe stradă pentru a continua drumul.",
+                "en": "A great place for contemporary culture; admire the modern architecture and take advantage of the cool breeze on the street as you continue your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Mahannapharam Worawihan",
+                "hu": "Wat Mahannapharam Worawihan",
+                "ro": "Wat Mahannapharam Worawihan",
+                "en": "Wat Mahannapharam Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Die ruhigen Tempelgründe sind ideal für eine letzte Pause; trinken Sie ausreichend Wasser, da die trockene Winterluft oft durstiger macht als man denkt.",
+                "hu": "A csendes templomudvar ideális egy utolsó pihenőre; igyon elegendő vizet, mert a száraz téli levegő gyakran jobban szomjaztat, mint gondolná.",
+                "ro": "Curtea liniștită a templului este ideală pentru o ultimă pauză; beți suficientă apă, deoarece aerul uscat de iarnă vă poate deshidrata rapid.",
+                "en": "The quiet temple grounds are ideal for a final rest; drink plenty of water as the dry winter air can often make you thirstier than you might expect."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Mount",
+                "hu": "Aranyhegy (Golden Mount)",
+                "ro": "Muntele de Aur",
+                "en": "Golden Mount"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour mit dem Aufstieg zum Sonnenuntergang ab; die Fernsicht ist im Winter durch die geringe Luftverschmutzung oft am besten.",
+                "hu": "Zárja a túrát az Aranyhegy megmászásával naplementekor; a látótávolság télen a legkisebb szmog miatt gyakran ilyenkor a legjobb a város felett.",
+                "ro": "Încheiați turul cu urcarea pe munte la apus; vizibilitatea la distanță este adesea cea mai bună iarna datorită nivelului scăzut de poluare a aerului.",
+                "en": "End your tour with a sunset climb; long-distance visibility is often at its best in winter due to lower air pollution and humidity levels over the city."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1075,224 @@
         "hu": "Morning: Kezdje kényelmes autós túráját a Wat Mahannapharam Worawihan békés meglátogatásával, majd tegyen egy rövid utat a gyönyű Wat Parinayok Worawihan lenyűgöző részleteinek felfedezéséhez.\nMidday: Vezessen kényelmesen a The Queen's Gallery felé a hagyományos textíliák megcsodálásához, majd álljon meg a történelmi Mahakan Erőd közelében, hogy végigsétáljon ősi és lenyűgöző védőfalain.\nAfternoon: Utazásunk a Loha Prasat egyedi építészetéhez vezet, amelyet egy magával ragadó és mélyen tanulságos kulturális élmény követ a neves Rattanakosin Kiállítóterem falai között.\nEvening: Gondosan összeállított útvonalunkat úgy fejezzük be, hogy elhajtunk az ikonikus Aranyhegy lábához, ahol egy rövid, de hálás mászás látványos kilátást nyújt az alkonyatban ragyogó Bangkokra.",
         "ro": "Morning: Începeți turul confortabil cu mașina cu o vizită liniștită la Wat Mahannapharam Worawihan, urmată de o scurtă excursie pentru a explora detaliile complexe ale frumosului Wat Parinayok Worawihan.\nMidday: Conduceți confortabil către The Queen's Gallery pentru a aprecia textilele tradiționale, apoi opriți-vă lângă Fortul istoric Mahakan pentru a vă plimba de-a lungul zidurilor sale defensive antice.\nAfternoon: Călătoria ne aduce la arhitectura unică a Loha Prasat, urmată perfect de o experiență culturală captivantă și profund educativă în interiorul renumitei Rattanakosin Exhibition Hall.\nEvening: Ne terminăm traseul conducând la baza emblematicului Golden Mount, unde o urcare scurtă, dar plină de satisfacții, oferă vederi spectaculoase și ample ale Bangkok-ului strălucind în amurg.",
         "en": "Morning: Start your comfortable driving tour with a peaceful visit to Wat Mahannapharam Worawihan, followed by a short trip to explore the intricate details of the beautiful Wat Parinayok Worawihan.\nMidday: Drive comfortably to The Queen's Gallery to appreciate exquisite traditional textiles, then stop near the historical Mahakan Fort to walk along its ancient and impressive defensive walls.\nAfternoon: Our journey brings us to the unique architecture of Loha Prasat, seamlessly followed by an immersive and deeply educational cultural experience inside the renowned Rattanakosin Exhibition Hall.\nEvening: We finish our carefully curated route by driving to the base of the iconic Golden Mount, where a short but rewarding climb offers spectacular, sweeping views of Bangkok glowing in the twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch das verregnete Bangkok bietet Komfort, erfordert aber Geduld wegen des dichten Verkehrs. Vormittags besuchen Sie Tempel, während das Auto direkt vor dem Eingang hält. Mittags bieten die Galerien eine trockene Kunstpause. Am Nachmittag gleiten Sie entspannt durch das Rattanakosin-Viertel, bevor Sie zum Golden Mount fahren, wo der Regen eine mystische Aura schafft.",
+            "hu": "Az autós túra az esős Bangkokban kényelmet nyújt, de türelmet igényel a megnövekedett forgalom miatt. Délelőtt a templomokat látogathatja meg, miközben az autó közvetlenül a bejáratnál teszi le. Délben a galériák nyújtanak száraz művészeti pihenőt. Délután kényelmesen gurulhat át a történelmi negyeden, majd az Aranyhegynél zárhatja a napot.",
+            "ro": "O călătorie cu mașina prin Bangkokul ploios oferă confort, dar necesită răbdare din cauza traficului intens. Dimineața vizitați templele, în timp ce mașina vă lasă chiar la intrare. La prânz, galeriile oferă o pauză artistică uscată. După-amiaza, plimbați-vă relaxat prin cartierul istoric înainte de a încheia ziua la Muntele de Aur.",
+            "en": "A car tour through rainy Bangkok offers comfort but requires patience due to heavy traffic. In the morning, visit temples as the car drops you off directly at the entrance. At noon, galleries provide a dry artistic break. In the afternoon, glide comfortably through the historic district before concluding the day at Golden Mount where the rain adds a mystical aura."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Mahannapharam Worawihan",
+                "hu": "Wat Mahannapharam Worawihan",
+                "ro": "Wat Mahannapharam Worawihan",
+                "en": "Wat Mahannapharam Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich vom Fahrer so nah wie möglich am Eingang absetzen; genießen Sie die Stille im Inneren der Haupthalle, während draußen der Regen prasselt.",
+                "hu": "Kérje meg a sofőrt, hogy a lehető legközelebb tegye le a bejárathoz; élvezze a belső csarnok csendjét, miközben kint hangosan kopog az eső a tetőn.",
+                "ro": "Rugați șoferul să vă lase cât mai aproape de intrare; bucurați-vă de liniștea din interiorul halei principale în timp ce afară ploaia bate în acoperiș.",
+                "en": "Ask your driver to drop you off as close to the entrance as possible; enjoy the silence inside the main hall while the rain drums loudly on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Parinayok Worawihan",
+                "hu": "Wat Parinayok Worawihan",
+                "ro": "Wat Parinayok Worawihan",
+                "en": "Wat Parinayok Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto ins Trockene lohnt sich für die Wandmalereien; halten Sie einen Schirm bereit für den Weg zwischen Parkplatz und Tempel.",
+                "hu": "Egy rövid sprint az autótól a bejáratig megéri a gyönyörű falfestményekért; tartson készenlétben egy esernyőt a parkoló és a templom közötti útra.",
+                "ro": "Un scurt sprint de la mașină până la adăpost merită pentru picturile murale; aveți o umbrelă pregătită pentru drumul dintre parcare și templu.",
+                "en": "A short sprint from the car to the dry interior is worth it for the murals; keep an umbrella ready for the short walk between the parking spot and the temple."
+              }
+            },
+            {
+              "name": {
+                "de": "The Queen's Gallery",
+                "hu": "A Királynő Galériája",
+                "ro": "The Queen's Gallery",
+                "en": "The Queen's Gallery"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um einen starken Regenguss abzuwarten; die Galerie ist voll klimatisiert und bietet auf vier Etagen reichlich Platz zum Erkunden.",
+                "hu": "Tökéletes hely egy heves zápor kivárására; a galéria teljesen légkondicionált, és négy emeleten kínál bőséges látnivalót a művészetek kedvelőinek.",
+                "ro": "Locul perfect pentru a aștepta trecerea unei averse puternice; galeria are aer condiționat și oferă multe de văzut pe patru etaje pentru iubitorii de artă.",
+                "en": "The perfect place to wait out a heavy downpour; the gallery is fully air-conditioned and offers plenty to see across four floors for art lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahakan Fort",
+                "hu": "Mahakan Erőd",
+                "ro": "Fortul Mahakan",
+                "en": "Mahakan Fort"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Fort bequem vom Auto aus, falls es zu stark regnet; für ein kurzes Foto eignen sich die überdachten Bereiche in der Nähe des Eingangs.",
+                "hu": "Tekintse meg az erődöt kényelmesen az autóból, ha túl erősen esne; egy gyors fotóhoz használja a bejárat közelében található fedett részeket.",
+                "ro": "Vizualizați cetatea confortabil din mașină dacă plouă prea tare; pentru o fotografie rapidă, folosiți zonele acoperite din apropierea intrării.",
+                "en": "View the fortress comfortably from the car if it's raining too hard; for a quick photo, use the covered areas located near the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Loha Prasat",
+                "hu": "Loha Prasat",
+                "ro": "Loha Prasat",
+                "en": "Loha Prasat"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur ist auch bei Regen beeindruckend; bleiben Sie in den inneren Gängen, um die 37 Metalltürme aus nächster Nähe im Trockenen zu sehen.",
+                "hu": "Az építészet esőben is lenyűgöző; maradjon a belső folyosókon, hogy szárazon is közelről láthassa a 37 különleges fémtorony szerkezetét.",
+                "ro": "Arhitectura este impresionantă chiar și pe ploaie; rămâneți pe coridoarele interioare pentru a vedea de aproape structura celor 37 de turnuri metalice.",
+                "en": "The architecture is stunning even in the rain; stay in the interior corridors to see the structure of the 37 unique metal towers up close while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattanakosin Exhibition Hall",
+                "hu": "Rattanakosin Kiállítóterem",
+                "ro": "Sala de Expoziții Rattanakosin",
+                "en": "Rattanakosin Exhibition Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgarage des Gebäudes für einen trockenen Zugang; die geführten Touren im Inneren sind die beste Unterhaltung an einem Regentag.",
+                "hu": "Használja az épület alatti parkolót a száraz bejutáshoz; a benti vezetett túrák a legjobb szórakozást nyújtják egy esős bangkoki délutánon.",
+                "ro": "Folosiți parcarea de sub clădire pentru acces uscat; tururile ghidate din interior oferă cea mai bună distracție într-o după-amiază ploioasă în Bangkok.",
+                "en": "Use the parking garage under the building for dry access; the guided tours inside provide the best entertainment on a rainy Bangkok afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Mount",
+                "hu": "Aranyhegy (Golden Mount)",
+                "ro": "Muntele de Aur",
+                "en": "Golden Mount"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg im Regen ist stimmungsvoll, aber die Stufen sind glatt; genießen Sie nach dem Abstieg die Rückfahrt im komfortabel temperierten Auto.",
+                "hu": "Az esős felkapaszkodás hangulatos, de a lépcsők csúszósak; a leereszkedés után élvezze a visszautat a kellemes hőmérsékletű, kényelmes autóban.",
+                "ro": "Urcarea pe ploaie este atmosferică, dar treptele sunt alunecoase; după coborâre, bucurați-vă de drumul de întoarcere în mașina confortabilă.",
+                "en": "The rainy climb is atmospheric but the steps are slippery; after descending, enjoy the ride back in the comfortably air-conditioned car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die Straßen von Bangkok belebt, aber das milde Wetter macht die Fahrt im Auto sehr angenehm. Vormittags erkunden Sie die Tempel bei klarem blauen Himmel. Mittags bietet das Auto eine kühle Basis für den Besuch des Flohmarkts. Am Nachmittag leuchten die Denkmäler im warmen Licht, bevor Sie rechtzeitig zum frühen Sonnenuntergang am Golden Mount ankommen.",
+            "hu": "Télen Bangkok utcái élettel telik, de a mérsékelt időjárás miatt az autózás nagyon kellemes élmény. Délelőtt a templomokat fedezheti fel a ragyogó kék égbolt alatt. Délben az autó hűvös bázisként szolgál a bolhapiac látogatásához. Délután a műemlékek meleg fényben úsznak, mielőtt a korai naplementére megérkezne.",
+            "ro": "Iarna, străzile din Bangkok sunt pline de viață, dar vremea blândă face condusul o experiență foarte plăcută. Dimineața explorați templele sub cerul albastru strălucitor. La prânz, mașina servește ca bază răcoroasă pentru vizitarea pieței. După-amiaza monumentele sunt scăldate în lumină caldă înainte de apus.",
+            "en": "In winter, Bangkok's streets are full of life, but the mild weather makes driving a very pleasant experience. In the morning, explore temples under the bright blue sky. At noon, the car serves as a cool base for visiting the flea market. In the afternoon, monuments are bathed in warm light before you arrive for the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Mahannapharam Worawihan",
+                "hu": "Wat Mahannapharam Worawihan",
+                "ro": "Wat Mahannapharam Worawihan",
+                "en": "Wat Mahannapharam Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den ruhigen Start in den Tag; die kühle Wintermorgenluft macht den kurzen Weg vom Auto zum Tempelgebäude besonders angenehm.",
+                "hu": "Élvezze a nap nyugodt kezdetét; a hűvös téli reggeli levegő különösen kellemessé teszi azt a rövid sétát, amíg az autótól a templomig eljut.",
+                "ro": "Bucurați-vă de un început de zi liniștit; aerul răcoros de dimineață de iarnă face ca scurta plimbare de la mașină la templu să fie foarte plăcută.",
+                "en": "Enjoy a quiet start to the day; the cool winter morning air makes the short walk from the car to the temple building particularly pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Parinayok Worawihan",
+                "hu": "Wat Parinayok Worawihan",
+                "ro": "Wat Parinayok Worawihan",
+                "en": "Wat Parinayok Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Tempeldetails kommen im klaren Sonnenlicht perfekt zur Geltung; nutzen Sie die kurzen Distanzen zwischen den Stopps für Fotos.",
+                "hu": "A templom pompás részletei tökéletesen érvényesülnek a tiszta napsütésben; használja ki a megállók közötti rövid távolságokat a fotózásra.",
+                "ro": "Detaliile magnifice ale templului sunt evidențiate perfect în lumina clară a soarelui; profitați de distanțele scurte dintre opriri pentru fotografii.",
+                "en": "The magnificent temple details are perfectly highlighted in the clear winter sunlight; take advantage of the short distances between stops for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "The Queen's Gallery",
+                "hu": "A Királynő Galériája",
+                "ro": "The Queen's Gallery",
+                "en": "The Queen's Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Stopp im Herzen der Stadt; die Galerie bietet eine wunderbare Abwechslung zum Verkehr und zeigt das Beste der thailändischen Kunst.",
+                "hu": "Egy pihentető megálló a város szívében; a galéria csodálatos kikapcsolódást nyújt a forgalom után, és bemutatja a thai művészet legjavát.",
+                "ro": "O oprire relaxantă în inima orașului; galeria oferă o relaxare minunată după trafic și prezintă tot ce este mai bun din arta thailandeză.",
+                "en": "A relaxing stop in the heart of the city; the gallery offers a wonderful break from the traffic and showcases the very best of contemporary Thai art."
+              }
+            },
+            {
+              "name": {
+                "de": "Mahakan Fort",
+                "hu": "Mahakan Erőd",
+                "ro": "Fortul Mahakan",
+                "en": "Mahakan Fort"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich für ein schnelles Foto am Fort absetzen; das klare Winterlicht lässt die weißen Mauern vor dem blauen Himmel erstrahlen.",
+                "hu": "Kérje meg a sofőrt, hogy tegye le egy gyors fotóra az erődnél; a tiszta téli fényben a fehér falak ragyognak a kék égbolt előtt.",
+                "ro": "Rugați șoferul să vă lase pentru o fotografie rapidă la cetate; în lumina clară de iarnă, zidurile albe strălucesc pe fundalul cerului albastru.",
+                "en": "Ask your driver to drop you off for a quick photo at the fort; in the clear winter light, the white walls shine brightly against the blue sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Loha Prasat",
+                "hu": "Loha Prasat",
+                "ro": "Loha Prasat",
+                "en": "Loha Prasat"
+              },
+              "tip_5lang": {
+                "de": "Die 37 Metallspitzen glänzen prachtvoll in der Wintersonne; steigen Sie hinauf, um die kühle Brise und den Panoramablick über die Stadt zu genießen.",
+                "hu": "A 37 fémcsúcs pompásan csillog a téli napsütésben; másszon fel a legfelső szintre, hogy élvezze a hűvös szellőt és a panorámás kilátást a városra.",
+                "ro": "Cele 37 de vârfuri metalice sclipesc magnific în soarele de iarnă; urcați la ultimul etaj pentru a vă bucura de briza răcoroasă și de priveliștea orașului.",
+                "en": "The 37 metal spires glitter magnificently in the winter sun; climb to the top floor to enjoy the cool breeze and the panoramic view over the historic city."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattanakosin Exhibition Hall",
+                "hu": "Rattanakosin Kiállítóterem",
+                "ro": "Sala de Expoziții Rattanakosin",
+                "en": "Rattanakosin Exhibition Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein Highlight jeder Tour; die interaktiven Ausstellungen sind perfekt temperiert und bieten einen tiefen Einblick in Bangkoks goldene Ära.",
+                "hu": "Bármely túra fénypontja; az interaktív kiállítások tökéletes hőmérsékletűek, és mély betekintést nyújtanak Bangkok aranykorának történelmébe.",
+                "ro": "Punctul culminant al oricărui tur; expozițiile interactive au o temperatură perfectă și oferă o perspectivă profundă asupra epocii de aur a Bangkokului.",
+                "en": "A highlight of any tour; the interactive exhibitions are perfectly temperature-controlled and offer a deep insight into Bangkok's historic golden era."
+              }
+            },
+            {
+              "name": {
+                "de": "Golden Mount",
+                "hu": "Aranyhegy (Golden Mount)",
+                "ro": "Muntele de Aur",
+                "en": "Golden Mount"
+              },
+              "tip_5lang": {
+                "de": "Pünktlich zum Sonnenuntergang ankommen; die trockene Winterluft garantiert oft eine klare Sicht bis zu den Wolkenkratzern im modernen Teil der Stadt.",
+                "hu": "Érkezzen pontosan a naplementére; a száraz téli levegő gyakran garantálja a tiszta kilátást egészen a modern városrész felhőkarcolóiig.",
+                "ro": "Sosiți exact la timp pentru apus; aerul uscat de iarnă garantează adesea o vedere clară până la zgârie-norii din partea modernă a orașului.",
+                "en": "Arrive exactly in time for sunset; the dry winter air often guarantees a crystal-clear view all the way to the skyscrapers in the modern part of the city."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt egy békés sétával Formby bájos utcáin és történelmi templomainál. Délben az út a gyönyörű fenyőerdőkbe vezet, ahol friss levegő és természet várja. A délutánt a híres vörös mókusoknak és a történelmi spárgaföldeknek szentelheti. Este a végtelen homokos partokon, a dűnék között sétálva zárhatja le a napot.",
         "ro": "Începeți dimineața cu o plimbare liniștită pe străzile fermecătoare din Formby și printre bisericile sale istorice. La prânz, drumul vă duce în frumoasele păduri de pini, pline de aer proaspăt. După-amiaza este dedicată faimoaselor veverițe roșii și câmpurilor istorice de sparanghel. Seara, relaxați-vă pe plajele întinse, la apus, ascultând valurile mării.",
         "en": "Start your morning with a peaceful walk through Formby's charming streets and historic churches. By midday, the trail leads into the beautiful pine woods, offering fresh air and nature. The afternoon is dedicated to spotting the famous red squirrels and exploring the historic asparagus fields. In the evening, unwind with a scenic walk along the expansive sandy beaches and rolling dunes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in den historischen Kirchen von Formby. Mittags bieten die dichten Pinienwälder einen natürlichen Schirm gegen den Nieselregen. Nachmittags erleben Sie die dramatische, wolkenverhangene Küste, bevor Sie den Tag gemütlich im Ortskern ausklingen lassen. Achten Sie auf rutschige Pfade in den Dünen und tragen Sie unbedingt festes, wasserdichtes Schuhwerk.",
+            "hu": "Kezdje a napot Formby történelmi templomainak oltalmában. Délben a sűrű fenyvesek természetes esernyőként védenek a szemerkélő esőtől. Délután élvezze a felhős tengerpart drámai látványát, mielőtt az estét a városközpontban zárná. Ügyeljen a dűnék csúszós ösvényeire, és mindenképpen viseljen vízálló bakancsot a sár elkerülése érdekében.",
+            "ro": "Începeți ziua la adăpost în bisericile istorice din Formby. La prânz, pădurile dese de pini oferă o umbrelă naturală împotriva ploii ușoare. După-amiaza, admirați coasta dramatică sub cerul înnorat înainte de a încheia ziua în centrul orașului. Atenție la potecile alunecoase din dune și purtați neapărat încălțăminte impermeabilă.",
+            "en": "Start your day sheltered within Formby's historic churches. At noon, the dense pinewoods provide a natural canopy against the drizzle. In the afternoon, experience the dramatic, clouded coastline before ending the day in the town center. Watch out for slippery paths in the dunes and be sure to wear sturdy, waterproof footwear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holy Trinity Church",
+                "hu": "Szentháromság Templom",
+                "ro": "Biserica Sfânta Treime",
+                "en": "Holy Trinity Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die feinen Details im Innenraum, während Sie dem Prasseln des Regens auf das Kirchendach lauschen – ein perfekter, trockener Start.",
+                "hu": "Csodálja meg a belső tér finom részleteit, miközben hallgatja az eső kopogását a templomtetőn; tökéletes száraz kezdés a sétához.",
+                "ro": "Admirați detaliile fine ale interiorului în timp ce ascultați ropotul ploii pe acoperișul bisericii, un început perfect uscat pentru plimbare.",
+                "en": "Admire the fine interior details while listening to the rain pattering on the church roof, providing a perfect dry start to your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "St Luke's Church",
+                "hu": "Szent Lukács Templom",
+                "ro": "Biserica Sfântul Luca",
+                "en": "St Luke's Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem steinernen Portal dieser idyllischen Kirche im Wald, die bei Regen eine besonders mystische Atmosphäre ausstrahlt.",
+                "hu": "Keressen menedéket az erdei templom kőportálja alatt, amely esőben különösen misztikus hangulatot áraszt a környező fák között.",
+                "ro": "Căutați adăpost sub portalul de piatră al acestei biserici din pădure, care emană o atmosferă mistică atunci când plouă printre copaci.",
+                "en": "Seek shelter under the stone porch of this woodland church, which radiates a particularly mystical atmosphere when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Pinienwälder",
+                "hu": "Formby Fenyvesek",
+                "ro": "Pădurile de Pini Formby",
+                "en": "Formby Pinewoods"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das dichte Blätterdach der Kiefern als natürlichen Regenschutz und genießen Sie den intensiven Duft der feuchten Nadeln.",
+                "hu": "Használja a fenyők sűrű lombozatát természetes esővédőként, és élvezze a nedves tűlevelek intenzív, friss illatát az erdei úton.",
+                "ro": "Folosiți coronamentul des al pinilor ca protecție naturală împotriva ploii și bucurați-vă de parfumul intens al acelor umede pe drum.",
+                "en": "Use the dense pine canopy as natural rain protection and enjoy the intense, fresh scent of damp needles along the forest path."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Spargelfelder",
+                "hu": "Spárgaföldek",
+                "ro": "Câmpurile de Sparanghel",
+                "en": "The Asparagus Fields"
+              },
+              "tip_5lang": {
+                "de": "Der sandige Boden kann bei Nässe klebrig werden; bleiben Sie auf den markierten Wegen, um die historische Anbaulandschaft sicher zu erkunden.",
+                "hu": "A homokos talaj nedvesen tapadóssá válhat, ezért maradjon a kijelölt ösvényeken a történelmi mezőgazdasági terület biztonságos felfedezéséhez.",
+                "ro": "Solul nisipos poate deveni lipicios când este ud, așa că rămâneți pe potecile marcate pentru a explora în siguranță zona agricolă.",
+                "en": "The sandy soil can become sticky when wet, so stay on the marked paths to safely explore this historic agricultural landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Rotes Eichhörnchen-Reservat",
+                "hu": "Formby Vörösmókus Rezervátum",
+                "ro": "Rezervația de Veverițe Roșii Formby",
+                "en": "Formby Red Squirrel Reserve"
+              },
+              "tip_5lang": {
+                "de": "Eichhörnchen verstecken sich bei starkem Regen oft; beobachten Sie die Futterstellen von den überdachten Infotafeln aus, um trocken zu bleiben.",
+                "hu": "A mókusok erős esőben gyakran elrejtőznek, ezért figyelje az etetőket a fedett információs táblák mellől, hogy Ön száraz maradjon.",
+                "ro": "Veverițele se ascund adesea în timpul ploii abundente, așa că urmăriți hrănitorile de lângă panourile informative acoperite.",
+                "en": "Squirrels often hide during heavy rain, so watch the feeders from near the covered information boards to stay dry yourself."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Strand",
+                "hu": "Formby Tengerpart",
+                "ro": "Plaja Formby",
+                "en": "Formby Beach"
+              },
+              "tip_5lang": {
+                "de": "Die weite Küste wirkt bei grauem Himmel majestätisch, aber meiden Sie die vordersten Dünenkanten, da der nasse Sand instabil sein kann.",
+                "hu": "A tágas part fenséges látvány a szürke ég alatt, de kerülje a dűnék szélét, mert a nedves homok instabillá válhat a lába alatt.",
+                "ro": "Țărmul vast este maiestuos sub cerul gri, dar evitați marginea dunelor, deoarece nisipul umed poate deveni instabil sub picioare.",
+                "en": "The vast shore is majestic under gray skies, but avoid the dune edges as the wet sand can become unstable underfoot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterspaziergang in Formby bietet klare Luft und eine ruhige Atmosphäre. Starten Sie früh, um das sanfte Vormittagslicht in den Kirchen zu nutzen. Mittags leuchten die Pinienwälder im tiefstehenden Sonnenlicht. Beenden Sie Ihre Tour bis 16:30 Uhr, da es danach schnell dunkel wird. Kleiden Sie sich in mehreren Schichten, da der Wind von der Irischen See sehr schneidend sein kann.",
+            "hu": "A téli séta Formbyban friss levegőt és csendes hangulatot ígér. Kezdjen korán, hogy kihasználja a templomok lágy délelőtti fényeit. Délben a fenyvesek ragyognak az alacsony napállásban. Fejezze be a túrát fél ötig, mert utána gyorsan sötétedik. Öltözzön rétegesen, mivel az Ír-tenger felől érkező szél nagyon metsző lehet.",
+            "ro": "O plimbare de iarnă în Formby oferă aer proaspăt și o atmosferă liniștită. Începeți devreme pentru a profita de lumina blândă a dimineții în biserici. La prânz, pinii strălucesc în soarele de joasă altitudine. Încheiați turul până la 16:30, deoarece se întunecă repede. Îmbrăcați-vă în straturi, vântul dinspre Marea Irlandei fiind tăios.",
+            "en": "A winter walk in Formby offers crisp air and a peaceful atmosphere. Start early to catch the soft morning light in the churches. At noon, the pinewoods glow in the low sunlight. Finish your tour by 4:30 PM, as it gets dark quickly afterwards. Dress in multiple layers, as the wind from the Irish Sea can be very biting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holy Trinity Church",
+                "hu": "Szentháromság Templom",
+                "ro": "Biserica Sfânta Treime",
+                "en": "Holy Trinity Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren der Kirche; die dicken Steinmauern bieten einen guten Schutz vor dem frostigen Winterwind draußen.",
+                "hu": "Élvezze a csendet a templom belsejében; a vastag kőfalak kiváló védelmet nyújtanak a kinti fagyos téli széllel szemben.",
+                "ro": "Bucurați-vă de liniștea din interiorul bisericii; zidurile groase de piatră oferă o protecție excelentă împotriva vântului înghețat.",
+                "en": "Enjoy the silence inside the church; the thick stone walls provide excellent protection against the freezing winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "St Luke's Church",
+                "hu": "Szent Lukács Templom",
+                "ro": "Biserica Sfântul Luca",
+                "en": "St Luke's Church"
+              },
+              "tip_5lang": {
+                "de": "Der Friedhof und die Kirche wirken im kahlen Winterwald besonders geschichtsträchtig; achten Sie auf glatte Stellen auf den Steinwegen.",
+                "hu": "A temető és a templom a kopár téli erdőben különösen történelmi hangulatú; ügyeljen a jeges foltokra a köves utakon.",
+                "ro": "Cimitirul și biserica au un aer istoric în pădurea golașă de iarnă; atenție la porțiunile înghețate de pe potecile cu piatră.",
+                "en": "The cemetery and church feel especially historic in the bare winter woods; watch out for icy patches on the stone paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Pinienwälder",
+                "hu": "Formby Fenyvesek",
+                "ro": "Pădurile de Pini Formby",
+                "en": "Formby Pinewoods"
+              },
+              "tip_5lang": {
+                "de": "Die immergrünen Kiefern bilden einen tollen Kontrast zum Winterhimmel; nutzen Sie das Tageslicht für Fotos, bevor die Sonne tief sinkt.",
+                "hu": "Az örökzöld fenyők remek kontrasztot alkotnak a téli éggel; használja ki a nappali fényt fotózáshoz, mielőtt a nap túl alacsonyra kerülne.",
+                "ro": "Pinii mereu verzi creează un contrast superb cu cerul de iarnă; profitați de lumina zilei pentru poze înainte ca soarele să apună.",
+                "en": "The evergreen pines create a great contrast with the winter sky; use the daylight for photos before the sun gets too low."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Spargelfelder",
+                "hu": "Spárgaföldek",
+                "ro": "Câmpurile de Sparanghel",
+                "en": "The Asparagus Fields"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ruhen die Felder unter einer oft frostigen Schicht; ein kurzer Stopp reicht aus, um die Weite der Dünenlandschaft zu bewundern.",
+                "hu": "Télen a mezők gyakran deres réteg alatt pihennek; egy rövid megálló is elég, hogy megcsodálja a dűnék fagyos tágasságát.",
+                "ro": "Iarna, câmpurile se odihnesc sub un strat de chiciură; o scurtă oprire este suficientă pentru a admira vastitatea dunelor.",
+                "en": "In winter, the fields rest under a frost-covered layer; a short stop is enough to admire the frozen vastness of the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Rotes Eichhörnchen-Reservat",
+                "hu": "Formby Vörösmókus Rezervátum",
+                "ro": "Rezervația de Veverițe Roșii Formby",
+                "en": "Formby Red Squirrel Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die roten Eichhörnchen sind im Winter wegen ihres dichten Fells gut zu sehen; bringen Sie ein Fernglas für die Baumkronen mit.",
+                "hu": "A vörös mókusok téli bundájukkal könnyen észrevehetők; hozzon távcsövet, hogy láthassa őket a kopaszabb ágak között.",
+                "ro": "Veverițele roșii sunt ușor de observat cu blana lor de iarnă; aduceți un binoclu pentru a le vedea printre ramurile golașe.",
+                "en": "The red squirrels are easy to spot with their thick winter coats; bring binoculars to see them among the clearer branches."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Strand",
+                "hu": "Formby Tengerpart",
+                "ro": "Plaja Formby",
+                "en": "Formby Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf die Irische See, aber kehren Sie rechtzeitig vor Sonnenuntergang um 16 Uhr zum Waldrand zurück.",
+                "hu": "Élvezze a tágas kilátást az Ír-tengerre, de forduljon vissza az erdő felé időben, még a korai, 4 órai naplemente előtt.",
+                "ro": "Bucurați-vă de vederea vastă spre Marea Irlandei, dar întoarceți-vă spre pădure la timp, înainte de apusul de la ora 16:00.",
+                "en": "Enjoy the expansive views of the Irish Sea, but head back toward the woods in time, before the early 4:00 PM sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a reggelt egy békés sétával Formby bájos utcáin és történelmi templomainál. Délben az út a gyönyörű fenyőerdőkbe vezet, ahol friss levegő és természet várja. A délutánt a híres vörös mókusoknak és a történelmi spárgaföldeknek szentelheti. Este a végtelen homokos partokon, a dűnék között sétálva zárhatja le a napot.",
         "ro": "Începeți dimineața cu o plimbare liniștită pe străzile fermecătoare din Formby și printre bisericile sale istorice. La prânz, drumul vă duce în frumoasele păduri de pini, pline de aer proaspăt. După-amiaza este dedicată faimoaselor veverițe roșii și câmpurilor istorice de sparanghel. Seara, relaxați-vă pe plajele întinse, la apus, ascultând valurile mării.",
         "en": "Start your morning with a peaceful walk through Formby's charming streets and historic churches. By midday, the trail leads into the beautiful pine woods, offering fresh air and nature. The afternoon is dedicated to spotting the famous red squirrels and exploring the historic asparagus fields. In the evening, unwind with a scenic walk along the expansive sandy beaches and rolling dunes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Formby lässt sich auch bei Regen gut mit dem Rad erkunden, sofern man Schutzbleche hat. Vormittags radeln Sie durch das Heideland, wo der Regen den Boden festigt. Mittags bieten die Kiefernwälder Schutz. Seien Sie vorsichtig auf nassen Holzstegen und in Kurven mit Piniennadeln. Planen Sie öfter Pausen unter festen Unterständen ein, um die Karte zu prüfen.",
+            "hu": "Formby esőben is jól felfedezhető kerékpárral, ha van sárvédője. Délelőtt tekerjen át a fenyéren, ahol az eső tömöríti a talajt. Délben a fenyvesek adnak menedéket. Legyen óvatos a nedves fapallókon és a tűleveles kanyarokban. Tervezzen be gyakori pihenőket a fedett beülők alatt, hogy ellenőrizze az útvonalat.",
+            "ro": "Formby poate fi explorat cu bicicleta și pe ploaie, dacă aveți apărători de noroi. Dimineața, pedalați prin landă, unde ploaia întărește solul. La prânz, pinii oferă adăpost. Atenție la punțile de lemn ude și la virajele cu ace de pin. Planificați pauze sub adăposturi pentru a verifica traseul.",
+            "en": "Formby can be explored by bike even in the rain, provided you have mudguards. In the morning, cycle through the heathland where rain firms the ground. At noon, the pines provide cover. Be careful on wet wooden boardwalks and on turns with pine needles. Plan frequent breaks under shelters to check your route."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freshfield Dünenheide",
+                "hu": "Freshfield Dűne Fenyér",
+                "ro": "Landa Dunelor Freshfield",
+                "en": "Freshfield Dune Heath"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können pfützig sein; tragen Sie eine wasserfeste Regenhose, um beim Treten gegen Spritzwasser geschützt zu sein.",
+                "hu": "Az utak tócsásak lehetnek; viseljen vízálló esőnadrágot, hogy tekerés közben védve legyen a felcsapódó víz ellen.",
+                "ro": "Drumurile pot avea bălți; purtați pantaloni de ploaie impermeabili pentru a vă proteja de apă în timp ce pedalați.",
+                "en": "The paths can be puddled; wear waterproof rain trousers to stay protected from splashes while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Spargelfelder",
+                "hu": "Spárgaföldek",
+                "ro": "Câmpurile de Sparanghel",
+                "en": "The Asparagus Fields"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an den Informationstafeln an, die ein wenig Schutz bieten, und meiden Sie tiefen, nassen Sand mit den Reifen.",
+                "hu": "Álljon meg rövid időre az információs tábláknál, amelyek némi védelmet nyújtanak, és kerülje a mély, nedves homokot a kerekekkel.",
+                "ro": "Opriți-vă scurt la panourile informative care oferă puțin adăpost și evitați nisipul adânc și ud cu roțile bicicletei.",
+                "en": "Stop briefly at the information boards which offer some shelter, and avoid deep, wet sand with your bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Rotes Eichhörnchen-Reservat",
+                "hu": "Formby Vörösmókus Rezervátum",
+                "ro": "Rezervația de Veverițe Roșii Formby",
+                "en": "Formby Red Squirrel Reserve"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an den vorgesehenen Ständern ab und nutzen Sie die Baumgruppen als natürlichen Unterstand bei Schauern.",
+                "hu": "Zárja le kerékpárját a kijelölt tárolóknál, és használja a sűrűbb facsoportokat természetes menedékként az eső elől.",
+                "ro": "Încuiați bicicleta la suporturile desemnate și folosiți grupurile de copaci ca adăpost natural în timpul averselor.",
+                "en": "Lock your bike at the designated racks and use the thicker groups of trees as natural shelter during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Strand",
+                "hu": "Formby Tengerpart",
+                "ro": "Plaja Formby",
+                "en": "Formby Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nicht zu nah ans Wasser, da der Sand dort sehr weich ist; genießen Sie den Blick auf die raue See vom festen Pfad aus.",
+                "hu": "Ne hajtson túl közel a vízhez, mert a homok ott nagyon puha; élvezze a viharos tenger látványát a szilárdabb ösvényről.",
+                "ro": "Nu pedalați prea aproape de apă, deoarece nisipul este foarte moale; admirați marea agitată de pe poteca mai solidă.",
+                "en": "Don't cycle too close to the water as the sand is very soft there; enjoy the view of the rough sea from the firmer path."
+              }
+            },
+            {
+              "name": {
+                "de": "Lifeboat Road",
+                "hu": "Mentőcsónak Út",
+                "ro": "Drumul Bărcilor de Salvare",
+                "en": "Lifeboat Road"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da nasse Felgen einen längeren Bremsweg haben; die Asphaltstücke sind hier oft rutschig.",
+                "hu": "Indulás előtt ellenőrizze a fékeket, mert a nedves felniken hosszabb a féktáv; az aszfaltos részek itt gyakran csúszósak.",
+                "ro": "Verificați frânele înainte de plecare, jantele ude mărind distanța de frânare; porțiunile cu asfalt sunt adesea alunecoase aici.",
+                "en": "Check your brakes before starting, as wet rims increase braking distance; the asphalt sections here are often slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "St Luke's Church",
+                "hu": "Szent Lukács Templom",
+                "ro": "Biserica Sfântul Luca",
+                "en": "St Luke's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Kircheneingang, um sich kurz trocken zu schütteln, bevor Sie die letzte Etappe durch den Ort antreten.",
+                "hu": "Használja a templom fedett bejáratát, hogy lerázza magáról a vizet, mielőtt megkezdené az utolsó szakaszt a városon keresztül.",
+                "ro": "Folosiți intrarea acoperită a bisericii pentru a vă scutura de apă înainte de a începe ultima etapă prin oraș.",
+                "en": "Use the covered church entrance to shake off the rain before starting the final leg of your journey through town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter erfordert warme Handschuhe und helle Kleidung. Vormittags gleiten Sie durch das frostige Heideland. Mittags steht die Sonne tief und wirft lange Schatten in den Pinienwäldern. Da es ab 16 Uhr dämmert, sollte Ihre Beleuchtung einwandfrei funktionieren. Planen Sie eine Route, die Sie bei extremer Kälte schnell zurück in den Ort führt.",
+            "hu": "A téli kerékpározáshoz meleg kesztyű és jól látható ruházat szükséges. Délelőtt suhanjon át a deres fenyéren. Délben a nap alacsonyan jár, hosszú árnyékokat vetve a fenyvesekben. Mivel 4 órától szürkül, a világításnak tökéletesen kell működnie. Tervezzen olyan útvonalat, amely nagy hideg esetén gyorsan visszaviszi a városba.",
+            "ro": "Ciclismul de iarnă necesită mănuși calde și haine vizibile. Dimineața, pedalați prin landa înghețată. La prânz, soarele este jos, aruncând umbre lungi în pădure. Deoarece se înserează de la ora 16, luminile trebuie să funcționeze perfect. Planificați un traseu care să vă readucă rapid în oraș în caz de ger.",
+            "en": "Winter cycling requires warm gloves and high-visibility clothing. In the morning, glide through the frosty heathland. At noon, the sun is low, casting long shadows in the pinewoods. As it dims from 4 PM, your lights must work perfectly. Plan a route that brings you back to town quickly in case of extreme cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freshfield Dünenheide",
+                "hu": "Freshfield Dűne Fenyér",
+                "ro": "Landa Dunelor Freshfield",
+                "en": "Freshfield Dune Heath"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade können bei Frost hart und schnell sein; tragen Sie einen Schal, um Ihr Gesicht vor dem kalten Fahrtwind zu schützen.",
+                "hu": "A fagyott ösvények kemények és gyorsak lehetnek; viseljen sálat, hogy védje arcát a hideg menetszéltől tekerés közben.",
+                "ro": "Potecile înghețate pot fi dure și rapide; purtați un fular pentru a vă proteja fața de vântul rece în timp ce pedalați.",
+                "en": "The paths can be hard and fast when frozen; wear a scarf to protect your face from the cold wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Spargelfelder",
+                "hu": "Spárgaföldek",
+                "ro": "Câmpurile de Sparanghel",
+                "en": "The Asparagus Fields"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die frostigen Dünen, aber steigen Sie bei vereisten Stellen kurz ab, um Stürze zu vermeiden.",
+                "hu": "Élvezze a kilátást a deres dűnékre, de a jeges szakaszokon szálljon le a nyeregből az esések elkerülése érdekében.",
+                "ro": "Bucurați-vă de vederea dunelor înghețate, dar coborâți de pe bicicletă în zonele cu gheață pentru a evita căzăturile.",
+                "en": "Enjoy the view of the frosty dunes, but dismount briefly on icy patches to avoid any falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Rotes Eichhörnchen-Reservat",
+                "hu": "Formby Vörösmókus Rezervátum",
+                "ro": "Rezervația de Veverițe Roșii Formby",
+                "en": "Formby Red Squirrel Reserve"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zu Fuß im Wald hilft, die Füße wieder aufzuwärmen; die Eichhörnchen sind im Winter besonders aktiv bei der Nahrungssuche.",
+                "hu": "Egy rövid gyalogos kitérő az erdőben segít felmelegíteni a lábait; a mókusok télen nagyon aktívan keresik a táplálékot.",
+                "ro": "O scurtă oprire pe jos în pădure ajută la încălzirea picioarelor; veverițele sunt foarte active în căutarea hranei iarna.",
+                "en": "A short walk in the woods will help warm up your feet; squirrels are particularly active searching for food in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Strand",
+                "hu": "Formby Tengerpart",
+                "ro": "Plaja Formby",
+                "en": "Formby Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Strand ist im Winter extrem kalt; bleiben Sie auf den oberen Pfaden, um den Sandflug bei starkem Wind zu vermeiden.",
+                "hu": "A tengerparti szél télen rendkívül hideg; maradjon a felső ösvényeken, hogy elkerülje az erős szél által hordott homokot.",
+                "ro": "Vântul de pe plajă este extrem de rece iarna; rămâneți pe potecile de sus pentru a evita nisipul purtat de vântul puternic.",
+                "en": "The beach wind is extremely cold in winter; stay on the upper paths to avoid wind-blown sand during strong gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Lifeboat Road",
+                "hu": "Mentőcsónak Út",
+                "ro": "Drumul Bărcilor de Salvare",
+                "en": "Lifeboat Road"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Asphalt; die tiefstehende Sonne kann Sie blenden, tragen Sie daher eine Sportbrille.",
+                "hu": "Ügyeljen a fagyott tócsákra az aszfalton; az alacsony napállás elvakíthatja, ezért érdemes sportnapszemüveget viselni.",
+                "ro": "Atenție la bălțile înghețate de pe asfalt; soarele jos vă poate orbi, așa că este recomandat să purtați ochelari de sport.",
+                "en": "Watch out for frozen puddles on the asphalt; the low sun can be blinding, so wearing sports sunglasses is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "St Luke's Church",
+                "hu": "Szent Lukács Templom",
+                "ro": "Biserica Sfântul Luca",
+                "en": "St Luke's Church"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie spätestens hier Ihr Licht für die Rückfahrt ein, da die Schatten im Wald am späten Nachmittag sehr dunkel werden.",
+                "hu": "Legkésőbb itt kapcsolja be a világítást a visszaúthoz, mert az erdei árnyékok késő délután már nagyon sötétek.",
+                "ro": "Aprindeți luminile pentru drumul de întoarcere cel târziu aici, deoarece umbrele pădurii devin foarte întunecate după-amiaza.",
+                "en": "Turn on your lights for the return journey here at the latest, as forest shadows become very dark in the late afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a reggelt egy békés sétával Formby bájos utcáin és történelmi templomainál. Délben az út a gyönyörű fenyőerdőkbe vezet, ahol friss levegő és természet várja. A délutánt a híres vörös mókusoknak és a történelmi spárgaföldeknek szentelheti. Este a végtelen homokos partokon, a dűnék között sétálva zárhatja le a napot.",
         "ro": "Începeți dimineața cu o plimbare liniștită pe străzile fermecătoare din Formby și printre bisericile sale istorice. La prânz, drumul vă duce în frumoasele păduri de pini, pline de aer proaspăt. După-amiaza este dedicată faimoaselor veverițe roșii și câmpurilor istorice de sparanghel. Seara, relaxați-vă pe plajele întinse, la apus, ascultând valurile mării.",
         "en": "Start your morning with a peaceful walk through Formby's charming streets and historic churches. By midday, the trail leads into the beautiful pine woods, offering fresh air and nature. The afternoon is dedicated to spotting the famous red squirrels and exploring the historic asparagus fields. In the evening, unwind with a scenic walk along the expansive sandy beaches and rolling dunes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour ist die komfortabelste Option bei Regen. Vormittags besuchen Sie die abgelegenen Naturgebiete im Norden. Mittags bietet das Reservat Waldschutz, während Ihr Auto trocken am Parkplatz wartet. Nachmittags genießen Sie die Aussicht auf die stürmische Küste direkt aus dem Fenster. Achten Sie auf überflutete Stellen auf den tiefliegenden Zufahrtswegen.",
+            "hu": "Az autós túra a legkényelmesebb opció esőben. Délelőtt látogassa meg az északi, távolabbi természetvédelmi területeket. Délben a rezervátum erdői védenek, miközben autója szárazon várja a parkolóban. Délután élvezze a viharos tengerparti kilátást közvetlenül az ablakból. Ügyeljen a vízátfolyásokra az alacsonyabban fekvő bekötőutakon.",
+            "ro": "Turul cu mașina este cea mai confortabilă opțiune pe ploaie. Dimineața, vizitați zonele naturale izolate din nord. La prânz, pădurea oferă protecție în timp ce mașina stă la loc uscat. După-amiaza, admirați coasta furtunoasă direct de la fereastră. Atenție la zonele inundate de pe drumurile de acces joase.",
+            "en": "The car tour is the most comfortable option in the rain. In the morning, visit the remote natural areas in the north. At noon, the reserve's woods provide cover while your car waits dry in the lot. In the afternoon, enjoy the stormy coastal views directly from your window. Watch out for flooded spots on low-lying access roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Long Slack",
+                "hu": "Long Slack",
+                "ro": "Long Slack",
+                "en": "Long Slack"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Dünenlandschaft vom Parkplatz aus, falls der Regen zu stark für einen Spaziergang ist.",
+                "hu": "Élvezze a tágas dűnevidék látványát a parkolóból, amennyiben az eső túl erős lenne egy kiadósabb sétához.",
+                "ro": "Bucurați-vă de peisajul vast al dunelor din parcare, în cazul în care ploaia este prea puternică pentru o plimbare.",
+                "en": "Enjoy the expansive dune landscape from the parking area if the rain is too heavy for an extended walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Golfclub",
+                "hu": "Formby Golf Klub",
+                "ro": "Clubul de Golf Formby",
+                "en": "Formby Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort des Clubhauses für eine trockene Pause und beobachten Sie den Regen über den perfekt gepflegten Greens.",
+                "hu": "Használja ki a klubház kényelmét egy száraz szünetre, és figyelje az esőt a tökéletesen karbantartott gyepek felett.",
+                "ro": "Profitați de confortul clubului pentru o pauză uscată și urmăriți ploaia peste gazonul întreținut impecabil.",
+                "en": "Take advantage of the clubhouse comfort for a dry break and watch the rain over the perfectly manicured greens."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Rotes Eichhörnchen-Reservat",
+                "hu": "Formby Vörösmókus Rezervátum",
+                "ro": "Rezervația de Veverițe Roșii Formby",
+                "en": "Formby Red Squirrel Reserve"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Waldrand; so können Sie bei Schauern schnell zurück ins trockene Fahrzeug flüchten.",
+                "hu": "Parkoljon közel az erdő széléhez, így hirtelen zápor esetén gyorsan vissza tud menekülni a száraz autóba.",
+                "ro": "Parcați aproape de marginea pădurii, astfel încât să vă puteți întoarce rapid în mașina uscată în caz de aversă.",
+                "en": "Park close to the woodland edge so you can quickly retreat to the dry vehicle in case of a sudden shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Strand",
+                "hu": "Formby Tengerpart",
+                "ro": "Plaja Formby",
+                "en": "Formby Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung ist bei Regen oft spektakulär; bleiben Sie im Auto und genießen Sie das Naturschauspiel bei laufenden Scheibenwischern.",
+                "hu": "A hullámverés esőben gyakran látványos; maradjon az autóban, és élvezze a természet erejét a működő ablaktörlők mögül.",
+                "ro": "Valurile sunt adesea spectaculoase pe ploaie; rămâneți în mașină și admirați spectacolul naturii prin parbrizul curățat.",
+                "en": "The surf is often spectacular in the rain; stay in the car and enjoy the spectacle of nature behind working wipers."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabin Hill",
+                "hu": "Cabin Hill",
+                "ro": "Cabin Hill",
+                "en": "Cabin Hill"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können bei Nässe rutschig sein; fahren Sie vorsichtig und parken Sie nur auf befestigten Flächen.",
+                "hu": "A bekötőutak nedvesen csúszósak lehetnek; vezessen óvatosan, és csak a szilárd burkolatú helyeken parkoljon.",
+                "ro": "Drumurile de acces pot fi alunecoase când sunt ude; conduceți cu prudență și parcați doar pe suprafețe consolidate.",
+                "en": "Access roads can be slippery when wet; drive cautiously and park only on stabilized, paved surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Taylor's Bank",
+                "hu": "Taylor's Bank",
+                "ro": "Bancul lui Taylor",
+                "en": "Taylor's Bank"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Tag im trockenen Auto zu beenden, während man den Blick auf die vorbeiziehenden Schiffe im Regen genießt.",
+                "hu": "Ideális hely a nap befejezéséhez a száraz autóban, miközben az esőben elhaladó hajók látványában gyönyörködik.",
+                "ro": "Un loc ideal pentru a încheia ziua în mașina uscată, admirând navele care trec prin ploaie în depărtare.",
+                "en": "An ideal place to end the day in the dry car while enjoying the sight of ships passing through the rain in the distance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Formby im Winter mit dem Auto und nutzen Sie die Heizung zwischen den Stopps. Vormittags besuchen Sie die nördlichen Dünen, wenn der Frost die Landschaft glitzern lässt. Mittags bietet die Waldnähe tolle Fotomotive bei tiefstehender Sonne. Beenden Sie Ihre Fahrt rechtzeitig, da die kurvigen Straßen bei früher Dunkelheit und möglichem Glatteis tückisch sein können.",
+            "hu": "Élvezze Formby-t télen autóval, kihasználva a fűtést a megállók között. Délelőtt látogassa meg az északi dűnéket, amikor a dér megcsillan a tájon. Délben az erdő széli részek remek fotótémát adnak az alacsony napállásban. Fejezze be az utat időben, mert a kanyargós utak a korai sötétben és esetleges jegesedésnél veszélyesek lehetnek.",
+            "ro": "Bucurați-vă de Formby iarna cu mașina, folosind încălzirea între opriri. Dimineața, vizitați dunele de nord când chiciura strălucește pe peisaj. La prânz, marginea pădurii oferă cadre superbe în soarele de joasă altitudine. Încheiați drumul devreme, căci drumurile virajate pot fi periculoase pe întuneric și gheață.",
+            "en": "Enjoy Formby in winter by car, taking advantage of the heater between stops. In the morning, visit the northern dunes when frost makes the landscape sparkle. At noon, the forest edges offer great photo ops in the low sun. Finish your trip early, as winding roads can be treacherous in the early darkness and potential ice."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Long Slack",
+                "hu": "Long Slack",
+                "ro": "Long Slack",
+                "en": "Long Slack"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh, um die unberührte Frostlandschaft zu sehen; die Parkplatzwege können am Morgen noch sehr glatt sein.",
+                "hu": "Érkezzen korán, hogy láthassa az érintetlen déres tájat; a parkolóhoz vezető utak reggel még nagyon csúszósak lehetnek.",
+                "ro": "Sosiți devreme pentru a vedea peisajul înghețat intact; căile de acces spre parcare pot fi foarte alunecoase dimineața.",
+                "en": "Arrive early to see the untouched frosty landscape; the parking area paths can be very slippery in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Golfclub",
+                "hu": "Formby Golf Klub",
+                "ro": "Clubul de Golf Formby",
+                "en": "Formby Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne leuchtet die Fairways spektakulär aus; ideal für einen kurzen Blick vom warmen Wagen aus.",
+                "hu": "Az alacsony téli napállás látványosan világítja meg a pályákat; ideális egy rövid pillantásra a meleg autóból.",
+                "ro": "Soarele jos de iarnă luminează spectaculos terenurile de golf; ideal pentru o scurtă privire din mașina încălzită.",
+                "en": "The low winter sun illuminates the fairways spectacularly; ideal for a short look from the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Rotes Eichhörnchen-Reservat",
+                "hu": "Formby Vörösmókus Rezervátum",
+                "ro": "Rezervația de Veverițe Roșii Formby",
+                "en": "Formby Red Squirrel Reserve"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter den Bäumen, um das Auto vor Frost zu schützen, während Sie einen kurzen, belebenden Spaziergang machen.",
+                "hu": "Parkoljon a fák védelmében, hogy óvja az autót a dértől, miközben tesz egy rövid, frissítő sétát az erdőben.",
+                "ro": "Parcați sub protecția copacilor pentru a feri mașina de chiciură în timp ce faceți o scurtă plimbare revigorantă.",
+                "en": "Park under the shelter of the trees to protect the car from frost while you take a short, bracing walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Formby Strand",
+                "hu": "Formby Tengerpart",
+                "ro": "Plaja Formby",
+                "en": "Formby Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt an den Dünen ist ideal, um das Winterlicht über dem Meer zu genießen, ohne zu lange in der Kälte zu stehen.",
+                "hu": "A közvetlenül a dűnéknél lévő parkoló ideális, hogy élvezze a téli fényeket a tenger felett anélkül, hogy túl sokat állna a hidegben.",
+                "ro": "Parcarea direct lângă dune este ideală pentru a admira lumina de iarnă peste mare fără a sta prea mult în frig.",
+                "en": "The parking lot right by the dunes is ideal for enjoying the winter light over the sea without standing in the cold too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabin Hill",
+                "hu": "Cabin Hill",
+                "ro": "Cabin Hill",
+                "en": "Cabin Hill"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Fahrt, da Kälte diesen beeinflusst; die einsamen Wege hier sind im Winter oft vereist.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást, mert a hideg befolyásolja; az itteni magányos utak télen gyakran jegesek.",
+                "ro": "Verificați presiunea pneurilor înainte de drum, deoarece frigul o influențează; drumurile izolate de aici sunt adesea înghețate.",
+                "en": "Check your tire pressure before driving as cold affects it; the lonely roads here are often icy in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Taylor's Bank",
+                "hu": "Taylor's Bank",
+                "ro": "Bancul lui Taylor",
+                "en": "Taylor's Bank"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier gegen 16 Uhr, um den Sonnenuntergang über dem Horizont zu sehen, bevor Sie die Scheinwerfer einschalten.",
+                "hu": "Fejezze be itt a napot 4 óra körül, hogy lássa a naplementét a látóhatár felett, mielőtt bekapcsolná a fényszórókat.",
+                "ro": "Încheiați ziua aici în jurul orei 16, pentru a vedea apusul peste orizont înainte de a aprinde farurile.",
+                "en": "End the day here around 4 PM to see the sunset over the horizon before switching on your headlights."
+              }
+            }
+          ]
+        }
       }
     }
   }

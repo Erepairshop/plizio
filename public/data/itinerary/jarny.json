@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a Saint-Maximin templomnál, elmerülve a békés hangulatban. Ezután váltson Jarny ipari múltjára a régi bánya területén.\n\nIrány a természet egy frissítő sétával a Marais de Droitaumont mocsárvidékén, amely tökéletes egy déli kikapcsolódáshoz.\n\nFedezze fel a Chapelle Saint-Joseph báját, mielőtt a grandiózus Château de Moncel és annak hatalmas parkja felé veszi az irányt.\n\nPihenjen a kastély kertjében a nap végén, visszagondolva a történelem, az ipar és a természet e tökéletes egyensúlyára.",
         "ro": "Începeți ziua la Biserica Saint-Maximin, bucurându-vă de atmosfera senină. Apoi, treceți la trecutul industrial la vechea mină.\n\nMergeți în natură cu o plimbare revigorantă prin Marais de Droitaumont, perfectă pentru o pauză de prânz înconjurată de zone umede.\n\nDescoperiți farmecul Capelei Saint-Joseph înainte de a vă îndrepta spre grandiosul Château de Moncel și parcul său imens.\n\nRelaxați-vă în grădinile castelului la lăsarea serii, reflectând asupra unei zile care a îmbinat perfect istoria, industria și natura.",
         "en": "Begin your day at Saint-Maximin Church, soaking in the serene local ambiance. Then, transition to Jarny's industrial past at the old mine site.\n\nHead into nature with a refreshing stroll through the Marais de Droitaumont, perfect for a midday break surrounded by local wildlife and wetlands.\n\nDiscover the quaint charm of Chapelle Saint-Joseph before making your way to the grand Château de Moncel and its beautiful, sprawling park grounds.\n\nRelax in the gardens of the château as the day winds down, reflecting on a journey that balanced history, industry, and the natural world perfectly."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Jarny beginnt in der schützenden Stille der Saint-Maximin Kirche. Mittags führt der Weg durch die Industriegeschichte, wobei die nassen Minenstrukturen eine melancholische Schönheit ausstrahlen. Am Nachmittag bietet das Sumpfgebiet eine mystische Atmosphäre im Nebel. Der Tag endet am Schloss Moncel, wo die grauen Wolken die Architektur dramatisch hervorheben.",
+            "hu": "A borús reggel Jarnyban a Saint-Maximin templom belső nyugalmával indul. Délben az egykori bánya rozsdás szerkezetei közt sétálunk, melyek az esőben különösen hangulatosak. Délután a Droitaumont-i mocsár titokzatos arcát mutatja a ködben, a pallókon figyelve a csúszásveszélyre. Az estét a Moncel kastély parkjában zárjuk, ahol a nedves kövek csillogása kíséri utunkat.",
+            "ro": "O dimineață ploioasă în Jarny începe în liniștea protectoare a Bisericii Saint-Maximin. La prânz, drumul trece prin istoria industrială, unde structurile minei umede emană o frumusețe melancolică. După-amiaza, zona mlaștinii oferă o atmosferă mistică prin ceață. Ziua se încheie la Castelul Moncel, unde norii cenușii scot în evidență arhitectura dramatică a domeniului.",
+            "en": "A rainy morning in Jarny starts in the protective silence of Saint-Maximin Church. At noon, the path leads through industrial history, where the wet mine structures radiate a melancholic beauty. In the afternoon, the marshland offers a mystical atmosphere in the mist. The day ends at Château de Moncel, where the grey clouds dramatically highlight the castle's architecture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Maximin",
+                "hu": "Saint-Maximin templom",
+                "ro": "Biserica Saint-Maximin",
+                "en": "Saint-Maximin Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasmalereien, während Sie im Trockenen bleiben; nutzen Sie die Zeit, um Ihren Regenschirm für den Weg zur Mine vorzubereiten.",
+                "hu": "Csodálja meg a színes üvegablakokat, miközben védve marad az esőtől; ezalatt készítse elő az esernyőjét a bánya felé vezető úthoz.",
+                "ro": "Admirați vitraliile în timp ce rămâneți la adăpost; folosiți acest timp pentru a pregăti umbrela pentru drumul spre mină.",
+                "en": "Admire the stained glass windows while staying dry; use this time to prepare your umbrella for the walk towards the mine."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Mine Jarny",
+                "hu": "Egykori Jarny bánya",
+                "ro": "Fosta mină Jarny",
+                "en": "Former Jarny Mine"
+              },
+              "tip_5lang": {
+                "de": "Das industrielle Erbe wirkt im Regen besonders imposant; achten Sie auf den kiesigen Wegen auf Pfützen und tragen Sie wasserfeste Schuhe.",
+                "hu": "Az ipari örökség különösen hatásos az esőben; ügyeljen a tócsákra a kavicsos ösvényeken és viseljen vízálló lábbelit a látogatáshoz.",
+                "ro": "Moștenirea industrială este deosebit de impunătoare în ploaie; aveți grijă la bălți pe potecile cu pietriș și purtați încălțăminte impermeabilă.",
+                "en": "The industrial heritage looks particularly imposing in the rain; watch out for puddles on the gravel paths and wear waterproof footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Marais de Droitaumont",
+                "hu": "Droitaumont-i mocsár Természetvédelmi Terület",
+                "ro": "Rezervația naturală Marais de Droitaumont",
+                "en": "Espace naturel sensible du marais de Droitaumont"
+              },
+              "tip_5lang": {
+                "de": "Das Feuchtgebiet ist bei Regen sehr evokativ; bleiben Sie auf den Holzstegen, um Schlamm zu vermeiden, und achten Sie auf rutschige Oberflächen.",
+                "hu": "A mocsárvilág rendkívül hangulatos esőben; maradjon a fapallókon a sár elkerülése érdekében, de ügyeljen a csúszós felületekre.",
+                "ro": "Zona mlaștinii este foarte evocatoare în ploaie; rămâneți pe pontoanele de lemn pentru a evita noroiul, dar atenție la suprafețele alunecoase.",
+                "en": "The wetland is very evocative in the rain; stay on the wooden pontoons to avoid the mud, but be careful of slippery surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Joseph",
+                "hu": "Saint-Joseph kápolna",
+                "ro": "Capela Saint-Joseph",
+                "en": "Chapelle Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Rückzugsort; betrachten Sie das Äußere kurz vom Eingang aus, bevor Sie zum nahegelegenen Schlossgelände weitergehen.",
+                "hu": "Kicsi, száraz menedék a sétán; vessen egy gyors pillantást a külső homlokzatra a bejárat alól, mielőtt a kastélypark felé indulna.",
+                "ro": "Un refugiu mic și uscat; priviți exteriorul scurt de la intrare înainte de a continua spre terenurile castelului din apropiere.",
+                "en": "A small, dry retreat; view the exterior briefly from the entrance before moving on to the nearby castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Moncel",
+                "hu": "Moncel kastély",
+                "ro": "Castelul Moncel",
+                "en": "Château de Moncel"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die geschützten Alleen des Parks; die architektonischen Details der Fassade wirken vor dem grauen Himmel besonders scharf.",
+                "hu": "Fedezze fel a park védettebb sétányait; a homlokzat építészeti részletei különösen élesen rajzolódnak ki a szürke égbolt előtt.",
+                "ro": "Explorați aleile protejate ale parcului; detaliile arhitecturale ale fațadei par deosebit de clare pe fundalul cerului cenușiu.",
+                "en": "Explore the sheltered alleys of the park; the architectural details of the facade look particularly sharp against the grey sky."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Jarny ist frisch und klar. Die Kirche Saint-Maximin bietet einen warmen Startpunkt. Mittags glitzert der Frost auf den alten Minenanlagen, was dem Ort eine friedliche Stille verleiht. Das Sumpfgebiet zeigt sich im Winterkleid mit gefrorenem Schilf. Da die Sonne bereits um 17:00 Uhr untergeht, genießen wir das Schloss Moncel im goldenen Licht der Dämmerung.",
+            "hu": "A téli reggel friss és tiszta Jarnyban, a Saint-Maximin templom vastag falai közt kezdünk. Délben a dér csillog az egykori bánya szerkezetein, békés csendet árasztva. A mocsárvilág téli arcát mutatja a jeges náddal és a fagyott talajjal. Mivel a nap korán, 17:00 körül nyugszik, a Moncel kastélyt már az alkonyat aranyló fényei közt csodálhatjuk meg.",
+            "ro": "Dimineața de iarnă în Jarny este proaspătă și senină. Biserica Saint-Maximin oferă un punct de plecare călduros. La prânz, chiciura strălucește pe vechile instalații miniere, oferind locului o liniște deplină. Zona mlaștinii se arată în haine de iarnă, cu stuf înghețat. Deoarece soarele apune deja la ora 17:00, ne bucurăm de Castelul Moncel în lumina aurie a amurgului.",
+            "en": "The winter morning in Jarny is fresh and clear. Saint-Maximin Church provides a warm starting point. At noon, frost glitters on the old mine structures, giving the site a peaceful silence. The marshland shows its winter face with frozen reeds. As the sun sets early around 17:00, we enjoy Château de Moncel in the golden light of dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Maximin",
+                "hu": "Saint-Maximin templom",
+                "ro": "Biserica Saint-Maximin",
+                "en": "Saint-Maximin Church"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie früh, um das Morgenlicht in den Fenstern einzufangen; die dicken Steinmauern halten die morgendliche Kälte effektiv ab.",
+                "hu": "Induljon korán, hogy elcsípje a reggeli fényeket az ablakokon; a vastag kőfalak hatékonyan tartják távol a kinti téli hideget.",
+                "ro": "Începeți devreme pentru a surprinde lumina dimineții în ferestre; zidurile groase de piatră țin la distanță frigul matinal în mod eficient.",
+                "en": "Start early to catch the morning light in the windows; the thick stone walls effectively keep the morning chill at bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Mine Jarny",
+                "hu": "Egykori Jarny bánya",
+                "ro": "Fosta mină Jarny",
+                "en": "Former Jarny Mine"
+              },
+              "tip_5lang": {
+                "de": "Die Industrielandschaft wirkt im Frost kahl und kraftvoll; tragen Sie feste Stiefel für den gefrorenen und teils unebenen Boden.",
+                "hu": "Az ipari táj kopár és erőteljes a zúzmarás időben; viseljen strapabíró bakancsot a fagyott és helyenként egyenetlen talajhoz.",
+                "ro": "Peisajul industrial pare auster și puternic în îngheț; purtați cizme rezistente pentru solul înghețat și parțial denivelat.",
+                "en": "The industrial landscape looks stark and powerful in the frost; wear sturdy boots for the frozen and partly uneven ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Marais de Droitaumont",
+                "hu": "Droitaumont-i mocsár Természetvédelmi Terület",
+                "ro": "Rezervația naturală Marais de Droitaumont",
+                "en": "Espace naturel sensible du marais de Droitaumont"
+              },
+              "tip_5lang": {
+                "de": "Gefrorenes Schilf schafft eine friedliche Winterszene; seien Sie vorsichtig auf möglicherweise vereisten Holzstegen während Ihres Spaziergangs.",
+                "hu": "A fagyott nádas békés téli látványt nyújt; legyen óvatos a pallókon, mert a fafelület télen könnyen jegessé és csúszóssá válhat.",
+                "ro": "Stuful înghețat creează o scenă de iarnă pașnică; fiți atenți pe pontoanele de lemn care pot fi înghețate în timpul plimbării.",
+                "en": "Frozen reeds create a peaceful winter scene; be careful on potentially icy wooden pontoons during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Joseph",
+                "hu": "Saint-Joseph kápolna",
+                "ro": "Capela Saint-Joseph",
+                "en": "Chapelle Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Besuch; die kleine Kapelle ist ein gemütlicher Orientierungspunkt vor dem letzten Weg zum Schloss.",
+                "hu": "Rövid, meghitt látogatás; a kis kápolna barátságos tájékozódási pont a kastély felé vezető utolsó szakaszon.",
+                "ro": "O vizită scurtă și contemplativă; mica capelă este un punct de reper primitor înainte de ultimul drum spre castel.",
+                "en": "A short, reflective visit; the small chapel is a cozy landmark before the final walk to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Moncel",
+                "hu": "Moncel kastély",
+                "ro": "Castelul Moncel",
+                "en": "Château de Moncel"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten freien Blick auf die Proportionen des Schlosses; erreichen Sie den Park vor dem Sonnenuntergang um 17:00 Uhr.",
+                "hu": "A csupasz fák között tiszta kilátás nyílik a kastély arányaira; érkezzen meg a parkba a 17:00 órakor esedékes napnyugta előtt.",
+                "ro": "Copacii golași oferă o vedere clară asupra proporțiilor castelului; ajungeți în parc înainte de apusul soarelui de la ora 17:00.",
+                "en": "The bare trees offer clear views of the castle's proportions; reach the park before the 17:00 sunset to enjoy the twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját a Chapelle Notre-Dame-du-Rail kápolnánál, majd tekerjen a Saint-Maximin templomhoz egy békés pillanatért.\n\nKerékpározzon el az egykori bánya területére, hogy elmerüljön a régió gazdag ipari múltjában, amely a nap izgalmas fénypontja.\n\nFolytassa útját a gyönyörű Château de Moncel felé, időt szánva a hatalmas nyilvános kertek bejárására és a birtok megcsodálására.\n\nZárja a délutánt egy festői úttal a Domaine de Tichémont felé. A vidéki környezet fantasztikus lezárást nyújt az aktív kalandnak.",
         "ro": "Începeți turul cu bicicleta la Chapelle Notre-Dame-du-Rail, pedalând apoi spre Biserica Saint-Maximin pentru un moment de liniște.\n\nMergeți cu bicicleta la fosta mină pentru a aprofunda era industrială a regiunii. Acesta este un punct central fascinant pentru explorarea de prânz.\n\nContinuați spre frumosul Château de Moncel, alocând timp pentru a vă plimba prin grădinile sale publice extinse și a-i admira măreția.\n\nÎncheiați după-amiaza cu o plimbare pitorească până la Domaine de Tichémont. Împrejurimile rurale oferă o relaxare perfectă la final de zi.",
         "en": "Kick off your cycling tour at Chapelle Notre-Dame-du-Rail, honoring local railway heritage. Pedal to Saint-Maximin Church for a peaceful historical moment.\n\nCycle over to the Former Jarny Mine to delve into the area's rich industrial era. This forms a fascinating centerpiece for your midday exploration.\n\nContinue riding to the beautiful Château de Moncel, taking time to walk through its expansive public gardens and appreciate the estate's grandeur.\n\nEnd the afternoon with a scenic ride out to the Domaine de Tichémont. The rural surroundings offer a fantastic wind-down to your active adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Straßen von Jarny. Der Tag beginnt an der Kapelle Notre-Dame-du-Rail. Mittags bietet die Mine einen herben, industriellen Anblick unter Wolken. Die Schlösser von Moncel und Tichémont wirken im Regen besonders herrschaftlich. Achten Sie auf rutschiges Kopfsteinpflaster und tragen Sie reflektierende Kleidung für bessere Sichtbarkeit.",
+            "hu": "A kerékpáros túra esőben óvatosságot igényel Jarny útjain. A nap a Notre-Dame-du-Rail kápolnánál indul. Délben a bánya zord, ipari látványt nyújt a felhők alatt. A monceli és tichémonti kastélyok az esőben különösen méltóságteljesek. Ügyeljen a csúszós útburkolatokra, és viseljen láthatósági kiegészítőket a biztonság érdekében.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile din Jarny. Ziua începe la Capela Notre-Dame-du-Rail. La prânz, mina oferă o vedere industrială aspră sub nori. Castelele Moncel și Tichémont par deosebit de impunătoare în ploaie. Atenție la carosabilul alunecos și purtați haine reflectorizante pentru o vizibilitate mai bună.",
+            "en": "A bike tour in the rain requires caution on the roads of Jarny. The day begins at Notre-Dame-du-Rail Chapel. At noon, the mine offers a rugged, industrial sight under the clouds. The castles of Moncel and Tichémont look particularly grand in the rain. Watch out for slippery road surfaces and wear reflective gear for better visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-du-Rail",
+                "hu": "Notre-Dame-du-Rail kápolna",
+                "ro": "Capela Notre-Dame-du-Rail",
+                "en": "Chapelle Notre-Dame-du-Rail"
+              },
+              "tip_5lang": {
+                "de": "Ein symbolischer Ort für Bergleute; die Metallteile können bei Nässe rutschig sein, stellen Sie Ihr Fahrrad daher vorsichtig ab.",
+                "hu": "Jelképes hely a bányászok számára; a fémszerkezetek nedvesen csúszhatnak, így körültekintően támassza le a kerékpárját.",
+                "ro": "Un loc simbolic pentru mineri; elementele metalice pot fi alunecoase când sunt ude, așa că parcați bicicleta cu atenție.",
+                "en": "A symbolic spot for miners; the metal details can be slippery when wet, so park your bike carefully and watch your step."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Maximin",
+                "hu": "Saint-Maximin templom",
+                "ro": "Biserica Saint-Maximin",
+                "en": "Saint-Maximin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenportal als kurzen Regenschutz, während Sie Ihre Route für den nächsten Abschnitt der Fahrt prüfen.",
+                "hu": "Használja a templom bejáratát rövid esővédőként, miközben ellenőrzi az útvonalat a túra következő szakaszához.",
+                "ro": "Folosiți portalul bisericii ca un scurt adăpost împotriva ploii în timp ce verificați traseul pentru următoarea etapă.",
+                "en": "Use the church porch as a brief rain shelter while checking your route for the next segment of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Mine Jarny",
+                "hu": "Egykori Jarny bánya",
+                "ro": "Fosta mină Jarny",
+                "en": "Former Jarny Mine"
+              },
+              "tip_5lang": {
+                "de": "Die rostigen Strukturen haben im Nieselregen eine einzigartige Atmosphäre; meiden Sie nasse Metalloberflächen mit den Reifen.",
+                "hu": "A rozsdás szerkezeteknek egyedi hangulata van szemerkélő esőben; kerülje el, hogy a kerekekkel a nedves fémfelületekre hajtson.",
+                "ro": "Structurile ruginite au o atmosferă unică în burniță; evitați să călcați cu anvelopele pe suprafețele metalice umede.",
+                "en": "The rusting structures have a unique atmosphere in the drizzle; avoid riding your tires over wet metal surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Moncel",
+                "hu": "Moncel kastély",
+                "ro": "Castelul Moncel",
+                "en": "Château de Moncel"
+              },
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind bei Regen sicherer zum Radfahren; genießen Sie den Blick auf die nassen Steine und den Park.",
+                "hu": "A szilárd burkolatú utak esőben biztonságosabbak a kerékpározáshoz; élvezze a nedves kövek és a park látványát.",
+                "ro": "Drumurile pavate sunt mai sigure pentru ciclism pe ploaie; bucurați-vă de vederea pietrelor umede și a parcului.",
+                "en": "The paved paths are safer for cycling in the rain; enjoy the view of the wet stones and the surrounding park."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss und Gutshof Tichémont",
+                "hu": "Tichémont kastély és birtok",
+                "ro": "Domeniul și castelul Tichémont",
+                "en": "Domaine de la ferme et du château de Tichémont"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann glatt sein; der Anblick des Herrenhauses durch den Nebel ist sehr eindrucksvoll und geheimnisvoll.",
+                "hu": "A bekötőút csúszós lehet az esőtől; a ködön át felsejlő udvarház látványa rendkívül hatásos és titokzatos.",
+                "ro": "Drumul de acces poate fi lunecos; vederea conacului prin ceață este foarte impresionantă și plină de mister.",
+                "en": "The approach road can be slick from rain; the sight of the manor through the mist is very evocative and mysterious."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour durch Jarny führt durch klare, kalte Luft. Beginnen Sie gut eingepackt an der Kapelle Notre-Dame-du-Rail. Die Industrielandschaft der Mine wirkt im Frost besonders scharf gezeichnet. Nachmittags bieten die Schlösser eine herrschaftliche Kulisse. Da es früh dunkel wird, stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+            "hu": "A téli kerékpáros túra Jarnyban tiszta, hideg levegőn vezet keresztül. Rétegesen öltözve induljon a Notre-Dame-du-Rail kápolnától. A bánya ipari tája különösen éles kontúrokkal jelenik meg a fagyban. Délután a kastélyok méltóságteljes díszletet nyújtanak. Mivel korán sötétedik, ellenőrizze, hogy a világítása tökéletesen működik-e.",
+            "ro": "Tura de iarnă cu bicicleta prin Jarny trece prin aer curat și rece. Începeți bine echipat la Capela Notre-Dame-du-Rail. Peisajul industrial al minei pare desenat cu linii ascuțite în îngheț. După-amiaza, castelele oferă un cadru impunător. Deoarece se întunecă devreme, asigurați-vă că luminile bicicletei funcționează perfect.",
+            "en": "The winter bike tour through Jarny takes you through crisp, cold air. Start well-layered at Notre-Dame-du-Rail Chapel. The industrial landscape of the mine appears with particularly sharp contours in the frost. In the afternoon, the castles provide a grand backdrop. Since it gets dark early, ensure your bike lights are in perfect working order."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-du-Rail",
+                "hu": "Notre-Dame-du-Rail kápolna",
+                "ro": "Capela Notre-Dame-du-Rail",
+                "en": "Chapelle Notre-Dame-du-Rail"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Startpunkt; tragen Sie winddichte Handschuhe, da der Fahrtwind bei den winterlichen Temperaturen besonders beißend sein kann.",
+                "hu": "Csendes kiindulópont; viseljen szélálló kesztyűt, mivel a menetszél a téli hőmérsékletben különösen metsző lehet a kezeknek.",
+                "ro": "Un punct de plecare liniștit; purtați mănuși rezistente la vânt, deoarece curentul de aer la temperaturi de iarnă poate fi tăios.",
+                "en": "A quiet starting point; wear windproof gloves, as the headwind can be particularly biting in winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Maximin",
+                "hu": "Saint-Maximin templom",
+                "ro": "Biserica Saint-Maximin",
+                "en": "Saint-Maximin Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine kurze Pause von der Kälte; nutzen Sie die Zeit, um die kunstvollen Details des Innenraums aufzuwärmen.",
+                "hu": "A templom rövid pihenőt kínál a hideg elől; használja ki az időt a belső tér művészi részleteinek megcsodálására, amíg felmelegszik.",
+                "ro": "Biserica oferă o scurtă pauză de la frig; folosiți timpul pentru a admira detaliile artistice ale interiorului în timp ce vă încălziți.",
+                "en": "The church offers a brief respite from the cold; use the time to admire the artistic interior details while you warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Mine Jarny",
+                "hu": "Egykori Jarny bánya",
+                "ro": "Fosta mină Jarny",
+                "en": "Former Jarny Mine"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Struktur wirkt im Winterlicht sehr eindrucksvoll; halten Sie die Pausen kurz, um während der Fahrt nicht auszukühlen.",
+                "hu": "Az ipari létesítmény rendkívül látványos a téli fényekben; tartsa röviden a megállókat, hogy ne hűljön ki túlságosan tekerés közben.",
+                "ro": "Structura industrială pare foarte impresionantă în lumina iernii; păstrați pauzele scurte pentru a nu vă răci prea tare în timpul mersului.",
+                "en": "The industrial structure looks very impressive in the winter light; keep breaks short to avoid getting too cold while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Moncel",
+                "hu": "Moncel kastély",
+                "ro": "Castelul Moncel",
+                "en": "Château de Moncel"
+              },
+              "tip_5lang": {
+                "de": "Die Alleen sind im Winter übersichtlicher; genießen Sie die Architektur, bevor die Dämmerung gegen 16:30 Uhr einsetzt.",
+                "hu": "A fasorok télen átláthatóbbak; élvezze az építészet látványát, mielőtt 16:30 körül elkezdené átvenni az uralmat a szürkület.",
+                "ro": "Aleile sunt mai clare iarna; bucurați-vă de arhitectură înainte ca amurgul să se instaleze în jurul orei 16:30.",
+                "en": "The avenues are clearer in winter; enjoy the architecture before the twilight starts to set in around 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss und Gutshof Tichémont",
+                "hu": "Tichémont kastély és birtok",
+                "ro": "Domeniul și castelul Tichémont",
+                "en": "Domaine de la ferme et du château de Tichémont"
+              },
+              "tip_5lang": {
+                "de": "Ein würdevoller Abschluss der Tour; stellen Sie sicher, dass Ihre Reflektoren sauber sind für die Rückfahrt bei einsetzender Dunkelheit.",
+                "hu": "A túra méltóságteljes lezárása; ügyeljen rá, hogy a prizmák tiszták legyenek a sötétben való visszatekeréshez.",
+                "ro": "Un final demn al turului; asigurați-vă că reflectorizantele sunt curate pentru drumul de întoarcere pe întuneric.",
+                "en": "A dignified end to the tour; make sure your reflectors are clean for the ride back as darkness falls early."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Kezdje autós útját a vidéki Église Saint-Vanne-nál, majd ugorjon át az Église Saint-Martin templomhoz annak időtlen eleganciájáért.\n\nVezessen a Chapelle Notre-Dame-du-Rail kápolnához, majd a régi bányához. Itt tisztán láthatóak a város mély ipari gyökerei.\n\nUtazzon kényelmesen a grandiózus Domaine de Tichémont birtokhoz, felfedezve a kastély parkját és élvezve a friss vidéki levegőt.\n\nFejezze be kirándulását az Église Saint-Gorgon templomnál. A békés környezet és a kilátás tökéletes, csendes lezárást biztosít.",
         "ro": "Începeți traseul auto la Église Saint-Vanne, apoi treceți scurt pe la Église Saint-Martin pentru a admira eleganța sa atemporală.\n\nConduceți spre Chapelle Notre-Dame-du-Rail, urmată de o vizită la fosta mină. Aici, rădăcinile industriale ale orașului sunt vizibile.\n\nCălătoriți confortabil până la grandiosul Domaine de Tichémont, explorând domeniul castelului și bucurându-vă de aerul proaspăt.\n\nÎncheiați călătoria la Église Saint-Gorgon. Cadrul pașnic și priveliștile din jur oferă un final de zi perfect și liniștit.",
         "en": "Start your drive at the rural Église Saint-Vanne, setting a calm tone. Quickly hop over to Église Saint-Martin to admire its timeless elegance.\n\nDrive to Chapelle Notre-Dame-du-Rail, followed by a visit to the Former Jarny Mine. Here, the deep industrial roots of the town are clearly visible.\n\nCruise comfortably out to the grand Domaine de Tichémont, exploring the sprawling castle grounds and taking in the fresh agricultural atmosphere.\n\nConclude your road trip at Église Saint-Gorgon. The peaceful setting and surrounding views provide a perfect, quiet wrap-up to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Jarny auch im Regen bequem zu erkunden. Die Route verbindet historische Kirchen und Kapellen, die trockene Zufluchtsorte bieten. Mittags besuchen wir die ehemalige Mine, gefolgt vom herrschaftlichen Tichémont. Der Tag endet an der Saint-Gorgon Kirche. Genießen Sie die Fahrt durch die regnerische Landschaft Lothringens bei guter Sicht durch die Windschutzscheibe.",
+            "hu": "Autóval Jarny kényelmesen felfedezhető esőben is. Az útvonal történelmi templomokat és kápolnákat köt össze, melyek száraz menedéket nyújtanak. Délben az egykori bányát keressük fel, majd a méltóságteljes Tichémont következik. A nap a Saint-Gorgon templomnál zárul. Élvezze az autózást a lotharingiai tájon, miközben az eső kopog a szélvédőn.",
+            "ro": "Cu mașina, Jarny poate fi explorat confortabil chiar și pe ploaie. Traseul leagă biserici și capele istorice care oferă refugii uscate. La prânz vizităm fosta mină, urmată de impunătorul Tichémont. Ziua se încheie la Biserica Saint-Gorgon. Bucurați-vă de drumul prin peisajul ploios al Lorenei cu o vizibilitate bună prin parbriz.",
+            "en": "By car, Jarny is easy to explore even in the rain. The route connects historical churches and chapels that offer dry sanctuaries. At noon we visit the former mine, followed by the grand Tichémont. The day ends at Saint-Gorgon Church. Enjoy the drive through the rainy Lorraine landscape with good visibility through the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Vanne",
+                "hu": "Saint-Vanne templom",
+                "ro": "Biserica Saint-Vanne",
+                "en": "Église Saint-Vanne"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter erster Innenstopp; genießen Sie die Ruhe im Inneren, während der stärkste Morgenregen draußen vorbeizieht.",
+                "hu": "Tökéletes első beltéri állomás; élvezze a belső nyugalmat, amíg a legerősebb reggeli eső elvonul odakint.",
+                "ro": "O primă oprire ideală în interior; bucurați-vă de liniștea dinăuntru în timp ce cea mai puternică ploaie de dimineață trece.",
+                "en": "A perfect first indoor stop; enjoy the quiet interior while the heaviest morning rain passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang; die robuste Architektur dieser ländlichen Kirche bietet auch bei grauem Wetter einen grandiosen Anblick.",
+                "hu": "Parkoljon közel a bejárathoz; e vidéki templom robusztus építészete még szürke időben is lenyűgöző látványt nyújt.",
+                "ro": "Parcați aproape de intrare; arhitectura robustă a acestei biserici rurale oferă o vedere grandioasă chiar și pe vreme gri.",
+                "en": "Park close to the entrance; the robust architecture of this rural church provides a grand sight even in grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-du-Rail",
+                "hu": "Notre-Dame-du-Rail kápolna",
+                "ro": "Capela Notre-Dame-du-Rail",
+                "en": "Chapelle Notre-Dame-du-Rail"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Design sticht hervor; machen Sie ein schnelles Foto aus dem Schutz Ihres Autos oder unter einem großen Schirm.",
+                "hu": "A modern dizájn messziről feltűnő; készítsen egy gyors fotót az autó védelméből vagy egy nagy esernyő alól.",
+                "ro": "Designul modern iese în evidență; faceți o fotografie rapidă din adăpostul mașinii sau de sub o umbrelă mare.",
+                "en": "The unique modern design stands out; take a quick photo from the shelter of your car or from under a large umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Mine Jarny",
+                "hu": "Egykori Jarny bánya",
+                "ro": "Fosta mină Jarny",
+                "en": "Former Jarny Mine"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um lokale Geschichte zu erleben; das Gelände ist weitläufig genug, um es gut von der Straße aus zu sehen.",
+                "hu": "Remek hely a helyi történelem megismeréséhez; a terület elég tágas ahhoz, hogy az útról vagy rövid sétával is jól belátható legyen.",
+                "ro": "Un loc minunat pentru a aprecia istoria locală; situl este suficient de mare pentru a fi văzut bine de la drum.",
+                "en": "A great spot to appreciate local history; the site is large enough to see well from the road or during a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss und Gutshof Tichémont",
+                "hu": "Tichémont kastély és birtok",
+                "ro": "Domeniul și castelul Tichémont",
+                "en": "Domaine de la ferme et du château de Tichémont"
+              },
+              "tip_5lang": {
+                "de": "Das Anwesen wirkt im Regen sehr würdevoll; halten Sie die Scheiben frei, um den Blick auf das weitläufige Gelände zu genießen.",
+                "hu": "A birtok méltóságteljes az esőben; tartsa páramentesen az ablakokat, hogy élvezhesse a kilátást a tágas kertre.",
+                "ro": "Domeniul arată foarte demn în ploaie; păstrați geamurile curate pentru a vă bucura de vederea terenurilor vaste.",
+                "en": "The estate looks very dignified in the rain; keep your windows clear to enjoy the view of the extensive grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gorgon",
+                "hu": "Saint-Gorgon templom",
+                "ro": "Biserica Saint-Gorgon",
+                "en": "Église Saint-Gorgon"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in diesem ruhigen Raum; die Akustik im Inneren ist wunderbar, wenn man den Regen auf dem Dach hört.",
+                "hu": "Zárja a napot ebben a békés térben; a belső akusztika csodálatos, amikor hallani az eső kopogását a tetőn.",
+                "ro": "Încheiați ziua în acest spațiu senin; acustica interioară este minunată când se aude ploaia pe acoperiș.",
+                "en": "End the day in this serene space; the indoor acoustics are wonderful when you can hear the rain pattering on the roof."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Jarny ist der beste Weg, um warm zu bleiben und dennoch die Sehenswürdigkeiten zu genießen. Die Route führt zu verschiedenen religiösen Stätten und Schlössern. Mittags erkunden wir die frostige Mine, gefolgt vom Tichémont-Anwesen. Da die Sonne gegen 17:00 Uhr untergeht, planen wir die letzte Kirche für die stimmungsvolle blaue Stunde ein.",
+            "hu": "A téli autós körút Jarnyban a legjobb módja annak, hogy melegen maradjunk, miközben élvezzük a látnivalókat. Az útvonal különféle vallási helyszíneket és kastélyokat érint. Délben a fagyos bányát, majd a Tichémont-birtokot keressük fel. Mivel a nap 17:00 körül nyugszik, az utolsó templomot a hangulatos kék órára időzítjük.",
+            "ro": "O plimbare de iarnă cu mașina prin Jarny este cea mai bună cale de a rămâne la căldură în timp ce vizitați atracțiile. Traseul duce la diverse situri religioase și castele. La prânz explorăm mina înghețată, urmată de domeniul Tichémont. Deoarece soarele apune în jur de 17:00, planificăm ultima biserică pentru ora albastră atmosferică.",
+            "en": "A winter drive through Jarny is the best way to stay warm while enjoying the sights. The route leads to various religious sites and castles. At noon we explore the frosty mine, followed by the Tichémont estate. As the sun sets around 17:00, we schedule the last church for the atmospheric blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Vanne",
+                "hu": "Saint-Vanne templom",
+                "ro": "Biserica Saint-Vanne",
+                "en": "Église Saint-Vanne"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Komfort Ihres Autos zwischen den Stopps; das Innere der Kirche ist im Winter angenehm still und andächtig.",
+                "hu": "Használja ki az autó fűtött kényelmét a megállók között; a templom belseje télen kellemesen csendes és áhítatos.",
+                "ro": "Folosiți confortul încălzit al mașinii între opriri; interiorul bisericii este plăcut de liniștit și pios iarna.",
+                "en": "Utilize the heated comfort of your car between stops; the church interior is pleasantly quiet and prayerful in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Die ländliche Lage bietet im Winter freie Sicht auf die umliegenden Felder; parken Sie sicher auf den befestigten Flächen.",
+                "hu": "A vidéki elhelyezkedés télen tiszta kilátást nyújt a környező mezőkre; parkoljon biztonságosan a szilárd burkolatú részeken.",
+                "ro": "Locația rurală oferă o vedere clară asupra câmpurilor din jur iarna; parcați în siguranță pe suprafețele pavate.",
+                "en": "The rural location offers clear views of the surrounding fields in winter; park safely on the paved areas near the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-du-Rail",
+                "hu": "Notre-Dame-du-Rail kápolna",
+                "ro": "Capela Notre-Dame-du-Rail",
+                "en": "Chapelle Notre-Dame-du-Rail"
+              },
+              "tip_5lang": {
+                "de": "Ein interessanter Kontrast zur winterlichen Natur; die moderne Kapelle wirkt im klaren Winterlicht besonders geometrisch und klar.",
+                "hu": "Érdekes kontraszt a téli természettel; a modern kápolna a tiszta téli fényben különösen geometrikusnak és világosnak tűnik.",
+                "ro": "Un contrast interesant cu natura de iarnă; capela modernă pare deosebit de geometrică și clară în lumina rece a iernii.",
+                "en": "An interesting contrast to winter nature; the modern chapel looks particularly geometric and clear in the crisp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Mine Jarny",
+                "hu": "Egykori Jarny bánya",
+                "ro": "Fosta mină Jarny",
+                "en": "Former Jarny Mine"
+              },
+              "tip_5lang": {
+                "de": "Die Metallgerüste heben sich scharf vom Winterhimmel ab; ein kurzer Spaziergang um das Gelände ist erfrischend und informativ.",
+                "hu": "A fémvázak élesen rajzolódnak ki a téli égbolton; egy rövid séta a terület körül frissítő és rendkívül tanulságos.",
+                "ro": "Scheletele metalice se profilează clar pe cerul de iarnă; o scurtă plimbare în jurul sitului este revigorantă și informativă.",
+                "en": "The metal frameworks stand out sharply against the winter sky; a short walk around the site is refreshing and informative."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss und Gutshof Tichémont",
+                "hu": "Tichémont kastély és birtok",
+                "ro": "Domeniul și castelul Tichémont",
+                "en": "Domaine de la ferme et du château de Tichémont"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winterschlaf sehr ruhig; genießen Sie die herrschaftliche Atmosphäre bequem vom Fahrersitz aus.",
+                "hu": "A kastély rendkívül csendes a téli álom idején; élvezze a méltóságteljes hangulatot kényelmesen, a vezetőülésből nézelődve.",
+                "ro": "Castelul pare foarte liniștit în timpul somnului de iarnă; bucurați-vă de atmosfera impunătoare confortabil din scaunul șoferului.",
+                "en": "The castle is very quiet during its winter sleep; enjoy the grand atmosphere comfortably while viewing from your car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gorgon",
+                "hu": "Saint-Gorgon templom",
+                "ro": "Biserica Saint-Gorgon",
+                "en": "Église Saint-Gorgon"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag vor der Rückfahrt ausklingen zu lassen; die einsetzende Dunkelheit verleiht der Kirche ein mystisches Flair.",
+                "hu": "Tökéletes hely a nap lezárására a hazaindulás előtt; a leszálló sötétség misztikus hangulatot kölcsönöz a templomnak.",
+                "ro": "Locul perfect pentru a încheia ziua înainte de plecare; întunericul care coboară conferă bisericii un aer mistic.",
+                "en": "The perfect place to end the day before the drive back; the falling darkness gives the church a mystical flair."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a történelmi Matinkartano felfedezésével, mielőtt átadná magát a szórakozásnak az izgalmas Duudsonit Parkban.\nKényeztesse magát egy pihentető tengerparti szünettel a Matinkylän rantauimala strandon, élvezve az egyedülálló finn tengeri hangulatot.\nDélután fedezze fel a bájos Villa Koli építészetét, amely betekintést nyújt a régió történelmi parti mindennapjaiba.\nZárja a napot a titokzatos Haukilahden romoknál, ahol a lenyűgöző alkonyati fények varázslatos és békés hangulatot teremtenek.",
         "ro": "Începeți ziua cu o vizită la istoricul Matinkartano, înainte de a vă distra de minune în parcul plin de acțiune Duudsonit.\nRăsfățați-vă cu o pauză relaxantă la plaja Matinkylän rantauimala, bucurându-vă de atmosfera maritimă unică și liniștită.\nDupă-amiaza, explorați arhitectura fermecătoare a Vilei Koli, care oferă o perspectivă asupra vieții istorice de pe coasta finlandeză.\nÎncheiați ziua la misterioasele ruine Haukilahden, unde puteți experimenta atmosfera magică și pașnică a crepusculului nordic.",
         "en": "Start your day with an engaging visit to the historic Matinkartano before having some active fun at the exciting Duudsonit Park.\nTreat yourself to a relaxing seaside break at the Matinkylän rantauimala beach, fully enjoying the unique and peaceful maritime atmosphere.\nIn the afternoon, explore the charming architecture of Villa Koli, which offers a great glimpse into the historical coastal lifestyle.\nEnd your day at the mysterious Haukilahden ruins, where you can truly experience the magical and calming atmosphere of the Nordic twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen erkunden wir Matinkartano unter einem grauen Himmel, wobei die Regentropfen auf den alten Holzwänden trommeln. Mittags bietet der Duudsonit Activity Park den perfekten trockenen Zufluchtsort für aktive Unterhaltung. Am Nachmittag trotzen wir dem Wetter am Matinkylä-Strand, wo die raue Ostsee besonders eindrucksvoll wirkt. Den Abend lassen wir bei den Ruinen von Haukilahti ausklingen, wo die nasse Vegetation einen intensiven Duft verströmt.",
+            "hu": "Reggel a Matinkartano történelmi épületénél kezdünk, ahol az eső kopogása különleges atmoszférát teremt a kertben. Délben a Duudsonit Activity Park fedett terei nyújtanak tökéletes menedéket és aktív kikapcsolódást. Délután a tengerparti sétányon a szürke hullámok erejét figyelhetjük meg, de vízálló cipő kötelező. Este a haukilahti romoknál zárjuk a napot, ahol a nedves kövek és a köd misztikus látványt nyújtanak.",
+            "ro": "Dimineața explorăm Matinkartano sub un cer plumburiu, unde picăturile de ploaie creează o atmosferă nostalgică pe fațadele de lemn. La prânz, Duudsonit Activity Park oferă refugiul ideal și distracție activă la adăpost. După-amiaza ne plimbăm pe plaja Matinkylä, admirând marea agitată, protejați de pelerine impermeabile. Seara se încheie la ruinele din Haukilahti, unde vegetația umedă emană un parfum pământiu specific zonei.",
+            "en": "In the morning, we explore Matinkartano as raindrops drum on the historic wooden walls, creating a melancholic charm. At noon, Duudsonit Activity Park provides the perfect indoor shelter for high-energy fun. In the afternoon, we brave the coastal path at Matinkylä beach, where the grey Baltic Sea looks powerful under the rain. The evening concludes at the Haukilahti ruins, where the wet stones and mist create a mysterious atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Matinkartano",
+                "hu": "Matinkartano",
+                "ro": "Matinkartano",
+                "en": "Matinkartano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur des Gutshofs von den überdachten Veranden aus, um trotz des Regens die feinen Holzschnitzereien der Fassade in Ruhe zu studieren.",
+                "hu": "Csodálja meg a kúria építészetét a fedett teraszok oltalmából, így az eső ellenére is alaposan szemügyre veheti a homlokzat finom fafaragásait és történelmi részleteit.",
+                "ro": "Admirați arhitectura istorică a conacului de sub protecția verandelor acoperite, studiind detaliile sculptate în lemn ale fațadei chiar și în timpul averselor de ploaie.",
+                "en": "Admire the historic architecture of the manor from the shelter of the covered porches, allowing you to study the fine wood carvings of the facade even during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Duudsonit Activity Park",
+                "hu": "Duudsonit Activity Park",
+                "ro": "Duudsonit Activity Park",
+                "en": "Duudsonit Activity Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen großzügigen Indoor-Park als idealen Rückzugsort vor dem Wetter, wo Trampoline und Kletterwände trockenen und sicheren Fahrspaß für alle Altersgruppen garantieren.",
+                "hu": "Használja ki ezt a tágas beltéri parkot, amely tökéletes menekülést kínál az eső elől, a trambulinok és falmászó pályák pedig garantálják a száraz és biztonságos szórakozást.",
+                "ro": "Profită de acest parc interior generos ca refugiu ideal împotriva vremii rele, unde trambulinele și pereții de escaladă garantează distracție uscată și sigură pentru toți.",
+                "en": "Take advantage of this spacious indoor park as the perfect escape from the rain, where trampolines and climbing walls guarantee dry and safe fun for all ages to enjoy."
+              }
+            },
+            {
+              "name": {
+                "de": "Matinkylän rantauimala",
+                "hu": "Matinkylän rantauimala",
+                "ro": "Matinkylän rantauimala",
+                "en": "Matinkylän rantauimala"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das faszinierende Spiel der Regentropfen auf der Meeresoberfläche vom kleinen Unterstand am Steg aus; Gummistiefel sind für den sandigen Uferweg absolut ratsam.",
+                "hu": "Figyelje meg az esőcseppek játékát a tenger felszínén a mólón található kis esőbeálló alól; a homokos parton való közlekedéshez a gumicsizma viselése kifejezetten ajánlott.",
+                "ro": "Observați jocul picăturilor de ploaie pe suprafața mării de la micul adăpost de pe dig; cizmele de gumă sunt esențiale pentru parcurgerea potecii nisipoase de pe mal.",
+                "en": "Watch the play of raindrops on the sea surface from the small shelter on the pier; rubber boots are highly recommended for navigating the sandy shore paths comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Koli",
+                "hu": "Villa Koli",
+                "ro": "Villa Koli",
+                "en": "Villa Koli"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den alten Bäumen nahe der Villa, um die neoklassizistischen Züge des Gebäudes zu bewundern, während der Regen die Farben des Gartens intensiviert.",
+                "hu": "Keressen menedéket a villa melletti idős fák alatt, ahonnan megcsodálhatja az épület neoklasszicista jegyeit, miközben az eső mélyebbé varázsolja a kert zöld színeit.",
+                "ro": "Căutați adăpost sub copacii bătrâni de lângă vilă pentru a admira trăsăturile neoclasice ale clădirii, în timp ce ploaia intensifică culorile naturale ale grădinii din jur.",
+                "en": "Seek shelter under the mature trees near the villa to admire the building's neoclassical features while the rain intensifies the vibrant green colors of the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Haukilahden rauniot",
+                "hu": "Haukilahden rauniot",
+                "ro": "Haukilahden rauniot",
+                "en": "Haukilahden rauniot"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf den glatten Steinen der Ruinen; der nasse Granit glänzt im Regen wunderschön, erfordert aber festes Schuhwerk und langsame, bedachte Schritte beim Erkunden.",
+                "hu": "Legyen óvatos a romok csúszós kövein; a nedves gránit gyönyörűen csillog az esőben, de a biztonságos felfedezéshez stabil túracipő és megfontolt lépések szükségesek.",
+                "ro": "Aveți grijă pe pietrele alunecoase ale ruinelor; granitul umed strălucește frumos în ploaie, dar necesită încălțăminte aderentă și pași precauți în timpul explorării sitului.",
+                "en": "Be careful on the slippery stones of the ruins; the wet granite shines beautifully in the rain but requires sturdy footwear and cautious steps while exploring the area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frostig bei Matinkartano, wo der Raureif die Bäume in weiße Skulpturen verwandelt. Mittags wärmen wir uns im lebhaften Activity Park auf, bevor wir die klare Winterluft am Strand genießen. Der Nachmittag führt uns zur Villa Koli, deren gelbe Fassade herrlich mit dem weißen Schnee kontrastiert. Da die Sonne bereits gegen 16:00 Uhr untergeht, erreichen wir die Ruinen von Haukilahti in der stimmungsvollen blauen Stunde.",
+            "hu": "A téli reggel fagyosan indul a Matinkartano udvarán, ahol a zúzmara fehér szobrokká változtatja a fákat. Délben az Activity Park belső melegében engedünk fel, majd a jeges tengerparti friss levegőt élvezzük. Délután a Villa Koli sárga falai gyönyörűen fénylenek a hófehér környezetben. Mivel a nap már 16:00 körül lemegy, a haukilahti romokat a kék óra hangulatos fényeiben fedezzük fel.",
+            "ro": "Dimineața de iarnă începe geroasă la Matinkartano, unde chiciura transformă copacii în sculpturi albe. La prânz ne încălzim în interiorul Activity Park, înainte de a respira aerul rece de pe plajă. După-amiaza ne poartă spre Villa Koli, a cărei fațadă galbenă contrastează superb cu zăpada albă. Deoarece soarele apune deja în jur de ora 16:00, ajungem la ruinele din Haukilahti în ora albastră.",
+            "en": "The winter morning starts frosty at Matinkartano, where rime ice transforms trees into white sculptures. At noon, we warm up inside the Activity Park before enjoying the crisp winter air at the beach. The afternoon leads us to Villa Koli, its yellow facade contrasting beautifully with the white snow. As the sun sets around 16:00, we reach the Haukilahti ruins during the atmospheric blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Matinkartano",
+                "hu": "Matinkartano",
+                "ro": "Matinkartano",
+                "en": "Matinkartano"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des verschneiten Gutshofs am frühen Morgen; achten Sie auf vereiste Wege im Garten und tragen Sie warme Schichten, da der Wind hier oft eisig weht.",
+                "hu": "Élvezze a hófedte kúria látványát a kora reggeli fényekben; ügyeljen a jeges kerti ösvényekre és öltözzön rétegesen, mert a tenger felől fújó szél itt gyakran metsző.",
+                "ro": "Bucurați-vă de vederea conacului înzăpezit în lumina dimineții; atenție la potecile înghețate din grădină și purtați haine groase, deoarece vântul de aici poate fi tăios.",
+                "en": "Enjoy the sight of the snow-covered manor in the early morning light; watch out for icy paths in the garden and wear warm layers as the coastal wind can be biting here."
+              }
+            },
+            {
+              "name": {
+                "de": "Duudsonit Activity Park",
+                "hu": "Duudsonit Activity Park",
+                "ro": "Duudsonit Activity Park",
+                "en": "Duudsonit Activity Park"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist perfekt, um die Winterkälte für eine Weile zu vergessen; nutzen Sie die Schließfächer für Ihre dicke Winterkleidung, damit Sie sich beim Sport frei bewegen können.",
+                "hu": "Ez a hely tökéletes arra, hogy egy időre elfelejtse a kinti hideget; használja az öltözőszekrényeket a vastag téli ruhákhoz, hogy szabadon mozoghasson az aktivitások során.",
+                "ro": "Acest loc este perfect pentru a uita de gerul de afară; folosiți vestiarele pentru hainele groase de iarnă, astfel încât să vă puteți mișca liber în timpul activităților.",
+                "en": "This place is perfect for forgetting the winter cold for a while; use the lockers for your heavy winter gear so you can move freely during the various indoor activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Matinkylän rantauimala",
+                "hu": "Matinkylän rantauimala",
+                "ro": "Matinkylän rantauimala",
+                "en": "Matinkylän rantauimala"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die magische Stille der gefrorenen Ostsee; betreten Sie das Eis jedoch niemals ohne offizielle Freigabe und halten Sie sich für die Aussicht lieber an den geräumten Steg.",
+                "hu": "Tapasztalja meg a befagyott tenger varázslatos csendjét; soha ne lépjen a jégre hivatalos engedély nélkül, inkább maradjon a letakarított mólón a pazar téli kilátásért.",
+                "ro": "Experimentați liniștea magică a mării înghețate; nu pășiți niciodată pe gheață fără confirmarea siguranței și rămâneți pe digul curățat pentru a admira panorama hibernală.",
+                "en": "Experience the magical silence of the frozen Baltic Sea; never step onto the ice without official safety clearance, staying on the cleared pier for the best winter views."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Koli",
+                "hu": "Villa Koli",
+                "ro": "Villa Koli",
+                "en": "Villa Koli"
+              },
+              "tip_5lang": {
+                "de": "Die Villa wirkt im Winterschnee wie aus einem Märchen; nutzen Sie das letzte Tageslicht gegen 15:30 Uhr für Fotos, bevor die dämmrige Kälte des späten Nachmittags einsetzt.",
+                "hu": "A villa a téli hóban olyan, mintha egy meséből lépett volna elő; használja ki az utolsó fényeket 15:30 körül a fotózáshoz, mielőtt beállna a késő délutáni fagyos szürkület.",
+                "ro": "Vila arată ca dintr-un basm sub zăpada iernii; profitați de ultima lumină a zilei în jur de ora 15:30 pentru fotografii, înainte ca gerul amurgului să devină prea pătrunzător.",
+                "en": "The villa looks like something out of a fairy tale in the winter snow; use the last daylight around 15:30 for photos before the late afternoon freezing twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Haukilahden rauniot",
+                "hu": "Haukilahden rauniot",
+                "ro": "Haukilahden rauniot",
+                "en": "Haukilahden rauniot"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen bei Einbruch der Dunkelheit; eine Taschenlampe hilft Ihnen, die unebenen, oft schneebedeckten Pfade sicher zu begehen und die Steinmetzkunst zu sehen.",
+                "hu": "Látogassa meg a romokat sötétedéskor; egy zseblámpa segít biztonságosan közlekedni az egyenetlen, gyakran hóval fedett ösvényeken és megvilágítani a kövek érdekes textúráját.",
+                "ro": "Vizitați ruinele la lăsarea întunericului; o lanternă vă va ajuta să parcurgeți în siguranță potecile denivelate și adesea înzăpezite pentru a observa detaliile pietrei.",
+                "en": "Visit the ruins at dusk; a small flashlight will help you safely navigate the uneven, often snow-covered paths and illuminate the interesting textures of the ancient stones."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpározzon el a Villa Rulludd múzeumhoz, majd élvezze a békés természetet a Suomenojan lintuallas madármedence környékén.\nMássza meg a Suomenoja madártornyot a kilátásért, majd tekerjen át a modern és építészetileg lenyűgöző Finnevikinsilta hídon.\nAz útvonal a történelmi Matinkartano felé vezet, és időt kínál az elmélkedésre a modern Espoon helluntaiseurakunta templomban.\nÉlvezze az esti békét a Haukilahden romoknál, és hagyja, hogy a változatos kerékpártúra élményei nyugodtan leülepedjenek.",
         "ro": "Pedalați spre muzeul Villa Rulludd în zorii zilei, urmat de natura pașnică din jurul bazinului de păsări Suomenojan lintuallas.\nUrcați în turnul de păsări Suomenoja pentru priveliști și apoi traversați podul modern și atractiv din punct de vedere arhitectural Finnevikinsilta.\nTraseul vă duce mai departe la istoricul Matinkartano și oferă timp de reflecție în biserica modernă Espoon helluntaiseurakunta.\nBucurați-vă de liniștea serii la ruinele Haukilahden și lăsați impresiile turului variat cu bicicleta să se decanteze în tihnă.",
         "en": "Cycle to the Villa Rulludd house museum in the morning, followed by the peaceful nature around the Suomenojan lintuallas bird basin.\nClimb the Suomenoja bird tower for grand views and then ride your bike across the modern and architecturally appealing Finnevikinsilta bridge.\nThe route takes you further to the historic Matinkartano and offers a moment of reflection in the modern Espoon helluntaiseurakunta church.\nEnjoy the evening tranquility at the Haukilahden ruins, taking a moment to fully process all the great impressions of your varied cycling tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir unsere Radtour beim Hausmuseum Villa Rulludd, wo die feuchten Kiefernwälder wunderbar duften. Die Route führt uns entlang der Küste zum Suomenojan-Becken, wobei wir auf den asphaltierten Wegen bleiben, um Schlamm zu vermeiden. Mittags erreichen wir Matinkartano, eine willkommene Pause im historischen Ambiente. Die Tour endet bei den Ruinen von Haukilahti, wobei wir besonders vorsichtig in den Kurven auf nassem Laub fahren.",
+            "hu": "Az eső ellenére kerékpárra pattanunk a Villa Rulludd múzeumnál, ahol a nedves fenyőerdő illata kísér minket. Az útvonal a tengerpart mentén vezet a Suomenojan madármegfigyelőhöz, az aszfaltozott utakon maradva elkerülhetjük a sarat. Délben elérjük a Matinkartanót, amely kellemes pihenőt kínál a történelmi falak között. A túra a haukilahti romoknál zárul, különösen figyelve a kanyarokban a nedves levelekre.",
+            "ro": "În ciuda ploii, pornim tura cu bicicleta de la Villa Rulludd, unde pădurea de pini umedă are un parfum intens. Traseul ne poartă de-a lungul coastei spre Suomenojan, rămânând pe pistele asfaltate pentru a evita noroiul. La prânz ajungem la Matinkartano, o pauză binevenită într-un cadru istoric. Turul se încheie la ruinele din Haukilahti, pedalând cu mare atenție în curbe pe frunzele umede.",
+            "en": "Despite the rain, we start our bike tour at the Villa Rulludd museum, where the damp pine forests smell wonderful. The route takes us along the coast to the Suomenojan basin, sticking to paved paths to avoid mud. At noon, we reach Matinkartano, a welcome break in a historical setting. The tour ends at the Haukilahti ruins, requiring extra caution while cycling through corners covered in wet leaves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hausmuseum Villa Rulludd",
+                "hu": "Villa Rulludd Házmúzeum",
+                "ro": "Casa memorială Villa Rulludd",
+                "en": "House museum Villa Rulludd"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um den stärksten Regen abzuwarten; die überdachten Fahrradständer am Eingang halten Ihren Sattel trocken, während Sie die Exponate im Inneren bestaunen.",
+                "hu": "Használja ki a múzeumlátogatást a legerősebb eső kivárására; a bejáratnál lévő fedett kerékpártárolók szárazon tartják a nyerget, amíg Ön bent a kiállításokat böngészi.",
+                "ro": "Folosiți vizita la muzeu pentru a aștepta trecerea ploii torențiale; suporturile de biciclete acoperite de la intrare vă vor păstra șaua uscată în timp ce explorați interiorul.",
+                "en": "Use the museum visit to wait out the heaviest rain; the covered bike racks at the entrance will keep your saddle dry while you enjoy the fascinating exhibits inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Suomenojan lintuallas",
+                "hu": "Suomenojan lintuallas",
+                "ro": "Suomenojan lintuallas",
+                "en": "Suomenojan lintuallas"
+              },
+              "tip_5lang": {
+                "de": "Die Vögel sind auch bei Regen aktiv; parken Sie Ihr Rad sicher am Rand und nutzen Sie ein wasserfestes Fernglas, um die seltene Fauna im dichten Schilf besser beobachten zu können.",
+                "hu": "A madarak esőben is aktívak; parkoljon le biztonságosan az út szélén, és használjon vízálló távcsövet, hogy jobban megfigyelhesse a nádasban rejtőzködő különleges állatvilágot.",
+                "ro": "Păsările sunt active și pe ploaie; parcați bicicleta în siguranță și folosiți un binoclu rezistent la apă pentru a observa mai bine fauna rară ascunsă în stuful des al bazinului.",
+                "en": "Birds are active even in the rain; park your bike safely at the edge and use waterproof binoculars to get a better look at the rare fauna hiding in the thick reeds of the basin."
+              }
+            },
+            {
+              "name": {
+                "de": "Suomenoja Vogelturm",
+                "hu": "Suomenoja madártorony",
+                "ro": "Turnul de păsări Suomenoja",
+                "en": "Suomenoja bird tower"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtsturm bietet eine hervorragende Überdachung vor plötzlichen Schauern; klettern Sie hinauf, um das Panorama zu genießen und gleichzeitig Ihre Ausrüstung kurz zu trocknen.",
+                "hu": "A kilátótorony kiváló fedett menedéket nyújt a hirtelen záporok elől; másszon fel a panorámáért, és közben tartson egy rövid pihenőt, hogy megszárítsa átázott felszerelését.",
+                "ro": "Turnul de observație oferă un adăpost excelent împotriva averselor bruște; urcați pentru a vă bucura de panoramă și pentru a vă usca echipamentul în timpul unei scurte pauze.",
+                "en": "The observation tower provides excellent overhead shelter from sudden showers; climb up to enjoy the panorama while taking a moment to dry off your gear during a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Finnevikinsilta",
+                "hu": "Finnevikinsilta",
+                "ro": "Finnevikinsilta",
+                "en": "Finnevikinsilta"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die Brücke, da die Holzplanken bei Nässe extrem rutschig sein können; halten Sie kurz an, um den dramatischen Wolkenhimmel über der Bucht zu fotografieren.",
+                "hu": "Haladjon lassan a hídon, mert a fapallók nedvesen rendkívül csúszósak lehetnek; álljon meg egy pillanatra, hogy lefotózza az öböl feletti drámai, felhős égboltot.",
+                "ro": "Traversați podul cu viteză redusă, deoarece scândurile de lemn pot fi extrem de alunecoase când sunt ude; opriți scurt pentru a fotografia cerul dramatic de deasupra golfului.",
+                "en": "Cycle slowly across the bridge as the wooden planks can become extremely slippery when wet; stop briefly to photograph the dramatic cloudy sky over the bay from this point."
+              }
+            },
+            {
+              "name": {
+                "de": "Matinkartano",
+                "hu": "Matinkartano",
+                "ro": "Matinkartano",
+                "en": "Matinkartano"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den weiten Dachüberständen ab; die Kieswege können weich sein, daher empfiehlt es sich, die festgetretenen Pfade für einen kurzen Rundgang zu nutzen.",
+                "hu": "Állítsa le kerékpárját a széles tetőereszek alá; a kavicsos utak felázhatnak, ezért érdemes a kitaposott ösvényeken maradni egy rövid, esőmentes sétára az épület körül.",
+                "ro": "Parcați bicicleta sub streșinile largi ale conacului; aleile cu pietriș pot fi moi, deci este recomandat să rămâneți pe potecile bătătorite pentru o scurtă plimbare în jurul clădirii.",
+                "en": "Park your bike under the wide eaves of the manor; the gravel paths can be soft when wet, so stick to the well-trodden areas for a short walk around the historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Espoon helluntaiseurakunta",
+                "hu": "Espoon helluntaiseurakunta",
+                "ro": "Espoon helluntaiseurakunta",
+                "en": "Espoon helluntaiseurakunta"
+              },
+              "tip_5lang": {
+                "de": "Der Eingangsbereich der Kirche bietet kurzzeitig Schutz; nutzen Sie die ruhige Lage für eine Trinkpause, bevor Sie die letzte Etappe Ihrer regenfesten Tour in Angriff nehmen.",
+                "hu": "A templom bejárati része rövid ideig védelmet nyújt az eső elől; használja ki a csendes helyszínt egy frissítő pihenőre, mielőtt belevágna az esős túra utolsó szakaszába.",
+                "ro": "Zona de intrare a bisericii oferă un scurt adăpost împotriva ploii; profitați de locația liniștită pentru o pauză de hidratare înainte de ultima etapă a traseului dumneavoastră.",
+                "en": "The entrance area of the church offers brief protection from the rain; use this quiet spot for a hydration break before tackling the final stage of your waterproof bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Haukilahden rauniot",
+                "hu": "Haukilahden rauniot",
+                "ro": "Haukilahden rauniot",
+                "en": "Haukilahden rauniot"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf den Ruinensteinen; stellen Sie Ihr Rad stattdessen auf dem befestigten Weg ab und erkunden Sie die historische Stätte vorsichtig zu Fuß.",
+                "hu": "Kerülje a közvetlen kerékpározást a romok kövein; inkább parkoljon le a szilárd burkolatú úton, és gyalogosan, óvatos léptekkel fedezze fel ezt a különleges történelmi helyszínt.",
+                "ro": "Evitați să pedalați direct pe pietrele ruinelor; parcați bicicleta pe drumul pavat și explorați situl istoric pe jos, cu mare atenție la suprafețele umede și denivelate.",
+                "en": "Avoid cycling directly on the stones of the ruins; instead, park your bike on the paved path and explore the historic site carefully on foot to prevent any accidental slips."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eingepackt in Thermokleidung starten wir die Wintertour bei Villa Rulludd, während die Reifen im frischen Schnee knirschen. Der Weg entlang der Suomenojan-Becken ist oft geräumt und bietet spektakuläre Ausblicke auf die frostige Natur. Mittags erreichen wir Matinkartano, wo wir die winterliche Stille des Gartens genießen. Am Nachmittag führt die Route über Finnevikinsilta zurück, wobei wir die tiefstehende Wintersonne und die früh einsetzende Dämmerung erleben.",
+            "hu": "Termo ruházatba bújva indulunk a téli túrára a Villa Rulluddnál, miközben a kerekek csikorognak a friss hóban. A Suomenojan-medence melletti utakat gyakran letakarítják, így pazar kilátás nyílik a fagyos természetre. Délben elérjük a Matinkartanót, ahol a kert téli csendjét élvezhetjük. Délután az útvonal a Finnevikinsilta hídon vezet vissza, a korai szürkületben pedig a mélyen járó nap fényeit csodáljuk.",
+            "ro": "Îmbrăcați în haine termice, începem tura de iarnă la Villa Rulludd, în timp ce pneurile scârțâie pe zăpada proaspătă. Drumul pe lângă bazinele Suomenojan este adesea curățat, oferind vederi spectaculoase asupra naturii înghețate. La prânz ajungem la Matinkartano, unde ne bucurăm de liniștea hibernală a grădinii. După-amiaza traseul revine prin Finnevikinsilta, experimentând soarele jos și amurgul timpuriu.",
+            "en": "Wrapped in thermal layers, we start our winter tour at Villa Rulludd with tires crunching on fresh snow. The paths along Suomenojan are often cleared, offering spectacular views of the frozen landscape. At noon, we reach Matinkartano to enjoy the winter silence of the manor garden. In the afternoon, the route returns via Finnevikinsilta, letting us experience the low winter sun and the early onset of twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hausmuseum Villa Rulludd",
+                "hu": "Villa Rulludd Házmúzeum",
+                "ro": "Casa memorială Villa Rulludd",
+                "en": "House museum Villa Rulludd"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt den Reifendruck, da kalte Luft diesen senken kann; genießen Sie die winterliche Atmosphäre des Anwesens, bevor Sie sich wieder in den kalten Wind wagen.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást, mert a hideg levegő hatására az csökkenhet; élvezze a birtok téli hangulatát, mielőtt újra nekivágna a tengerparti fagyos szélnek.",
+                "ro": "Verificați presiunea pneurilor înainte de plecare, deoarece aerul rece o poate reduce; bucurați-vă de atmosfera de iarnă a domeniului înainte de a înfrunta din nou vântul rece.",
+                "en": "Check your tire pressure before departing as cold air can lower it; enjoy the manor's winter atmosphere for a few minutes before braving the biting coastal wind once more."
+              }
+            },
+            {
+              "name": {
+                "de": "Suomenojan lintuallas",
+                "hu": "Suomenojan lintuallas",
+                "ro": "Suomenojan lintuallas",
+                "en": "Suomenojan lintuallas"
+              },
+              "tip_5lang": {
+                "de": "In den eisfreien Stellen des Beckens sammeln sich oft Wasservögel; tragen Sie warme Handschuhe, da das Halten des Lenkers bei den eisigen Temperaturen schnell unangenehm werden kann.",
+                "hu": "A medence jégmentes részein gyakran gyülekeznek vízimadarak; viseljen meleg kesztyűt, mert a kormány fogása a fagyos hőmérsékletben gyorsan kellemetlenné válhat a kezeinek.",
+                "ro": "În locurile neînghețate ale bazinului se adună adesea păsări de apă; purtați mănuși groase, deoarece prinderea ghidonului la temperaturi negative poate deveni rapid inconfortabilă.",
+                "en": "Waterfowl often gather in the ice-free parts of the basin; wear warm gloves as holding the handlebars in freezing temperatures can quickly become very uncomfortable for your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Suomenoja Vogelturm",
+                "hu": "Suomenoja madártorony",
+                "ro": "Turnul de păsări Suomenoja",
+                "en": "Suomenoja bird tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet einen weiten Blick über die verschneite Küstenlandschaft; seien Sie beim Aufstieg auf den eventuell vereisten Holzstufen besonders vorsichtig und halten Sie sich fest.",
+                "hu": "A toronyból pazar kilátás nyílik a havas tengerparti tájra; legyen különösen óvatos a lépcsőzésnél az esetlegesen jeges fafokokon, és mindenképpen kapaszkodjon a korlátba.",
+                "ro": "Turnul oferă o vedere amplă asupra peisajului de coastă înzăpezit; fiți extrem de precauți la urcare pe treptele de lemn care pot fi înghețate și folosiți balustrada cu încredere.",
+                "en": "The tower offers a vast view over the snow-covered coastal landscape; be extra cautious when climbing the wooden steps as they may be icy, and always hold onto the handrail."
+              }
+            },
+            {
+              "name": {
+                "de": "Finnevikinsilta",
+                "hu": "Finnevikinsilta",
+                "ro": "Finnevikinsilta",
+                "en": "Finnevikinsilta"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke ist oft den starken Winterwinden ausgesetzt; treten Sie kräftig in die Pedale und genießen Sie den Anblick der glitzernden Eiskristalle auf dem Wasser der Bucht.",
+                "hu": "A híd gyakran ki van téve az erős téli szeleknek; tekerjen kitartóan, és közben gyönyörködjön az öböl vizén és a nádas szélén csillogó jégkristályok varázslatos látványában.",
+                "ro": "Podul este adesea expus vânturilor puternice de iarnă; pedalați cu energie și admirați cristalele de gheață sclipitoare de pe apa golfului în timp ce traversați spre Matinkylä.",
+                "en": "The bridge is often exposed to strong winter winds; pedal steadily and enjoy the sight of glittering ice crystals on the bay's water and frozen reeds as you cross over."
+              }
+            },
+            {
+              "name": {
+                "de": "Matinkartano",
+                "hu": "Matinkartano",
+                "ro": "Matinkartano",
+                "en": "Matinkartano"
+              },
+              "tip_5lang": {
+                "de": "Der verschneite Gutshof bietet ein tolles Fotomotiv; halten Sie nur kurz an, um nicht auszukühlen, und nutzen Sie die festgefahrenen Schneespuren für eine stabilere Fahrt durch den Garten.",
+                "hu": "A havas kúria remek fotótéma; csak rövid időre álljon meg, hogy ne hűljön ki a teste, és használja a letaposott nyomvonalakat a stabilabb haladáshoz a kerti utakon.",
+                "ro": "Conacul înzăpezit oferă un cadru excelent pentru fotografii; opriți doar scurt pentru a nu vă răci corpul și folosiți urmele de zăpadă bătătorită pentru o rulare mai stabilă.",
+                "en": "The snow-covered manor is a great photo opportunity; stop only briefly to avoid getting too cold, and use the packed snow tracks for more stable cycling through the garden area."
+              }
+            },
+            {
+              "name": {
+                "de": "Espoon helluntaiseurakunta",
+                "hu": "Espoon helluntaiseurakunta",
+                "ro": "Espoon helluntaiseurakunta",
+                "en": "Espoon helluntaiseurakunta"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gestreute Wege rund um die Kirche, um Ausrutscher zu vermeiden; reflektierende Kleidung ist bei der nun einsetzenden frühen Dämmerung für Ihre Sicherheit unerlässlich.",
+                "hu": "Ügyeljen a templom körüli felszórt utakra a megcsúszások elkerülése érdekében; a korai szürkület miatt a fényvisszaverő ruházat viselése elengedhetetlen a biztonsága érdekében.",
+                "ro": "Atenție la aleile presărate cu material antiderapant din jurul bisericii; îmbrăcămintea reflectorizantă este esențială pentru siguranța dumneavoastră în amurgul care se lasă devreme.",
+                "en": "Watch out for gritted paths around the church to avoid slipping; reflective clothing is essential for your safety as the early winter twilight begins to set in during this stage."
+              }
+            },
+            {
+              "name": {
+                "de": "Haukilahden rauniot",
+                "hu": "Haukilahden rauniot",
+                "ro": "Haukilahden rauniot",
+                "en": "Haukilahden rauniot"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände kann bei Frost sehr tückisch sein; beenden Sie die Tour vorsichtig und prüfen Sie Ihre Beleuchtung, bevor Sie den Rückweg durch die dunkle Winterlandschaft antreten.",
+                "hu": "A terep fagyban nagyon csalóka lehet; óvatosan fejezze be a túrát, és ellenőrizze a kerékpár világítását, mielőtt elindulna a sötét téli tájon keresztül a végpont felé.",
+                "ro": "Terenul poate fi foarte înșelător pe timp de îngheț; încheiați turul cu atenție și verificați iluminarea bicicletei înainte de a porni la drum prin peisajul întunecat de iarnă.",
+                "en": "The terrain can be very deceptive in freezing conditions; finish your tour carefully and check your bike lights before heading back through the dark winter landscape."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdjen lendületesen a HopLop Espoo-ban, majd fedezze fel a történelmi Kaitans Själörberget lenyűgöző és vad sziklaképződményeit.\nLátogassa meg a csodálatos Villa Rulludd-ot, mielőtt felfedezné a sokszínű madárvilágot az idilli Suomenojan lintuallas környékén.\nAutózzon el kényelmesen a Kalvholmsklackarna természetes szikláihoz, és élvezze a finn szigetvilág érintetlen és békés szépségét.\nFejezze be az autós utazást egy pihentető sétával a Matinkylän rantauimala strandon, miközben a nap lassan lenyugszik a tenger felett.",
         "ro": "Începeți în forță la HopLop Espoo și apoi explorați fascinantele formațiuni stâncoase de la istoricul Kaitans Själörberget.\nVizitați superba Villa Rulludd înainte de a descoperi avifauna diversă de la idilicul bazin Suomenojan lintuallas.\nConduceți relaxat spre stâncile naturale Kalvholmsklackarna și bucurați-vă de frumusețea neatinsă și sălbatică a arhipelagului finlandez.\nÎncheiați excursia cu mașina printr-o plimbare relaxantă la plaja Matinkylän rantauimala, în timp ce soarele apune încet peste mare.",
         "en": "Start with a burst of energy at HopLop Espoo and then explore the fascinating rock formations at the historic Kaitans Själörberget.\nVisit the magnificent Villa Rulludd before easily discovering the diverse birdlife at the completely idyllic Suomenojan lintuallas basin.\nDrive comfortably to the natural cliffs of Kalvholmsklackarna and enjoy the totally untouched, rugged beauty of the gorgeous archipelago.\nEnd your road trip with a very relaxing stroll along the Matinkylän rantauimala beach as the sun slowly sets over the completely calm sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto genießen wir eine regenfreie Fahrt durch Matinkylä, beginnend beim HopLop in Suomenoja, wo Kinder sich im Trockenen austoben können. Danach erkunden wir historische Stätten wie Villa Rulludd, wobei der kurze Weg vom Parkplatz zum Eingang kaum stört. Mittags beobachten wir die Vögel am Suomenojan-Becken gemütlich aus dem trockenen Fahrzeug. Der Tag endet am Strand von Matinkylä, wo wir den Sturm sicher hinter Glas beobachten.",
+            "hu": "Autóval kényelmesen és szárazon járjuk be Matinkylä környékét, kezdve a suomenojai HopLopnál, ahol a gyerekek fedett helyen játszhatnak. Ezután olyan történelmi helyszíneket látogatunk meg, mint a Villa Rulludd, ahol a parkolótól csak pár lépés a bejárat. Délben a Suomenojan-medence madárvilágát a fűtött autóból figyelhetjük meg. A nap a matinkyläi parton zárul, ahol az ablak mögül nézzük a vihart.",
+            "ro": "Cu mașina ne bucurăm de o călătorie ferită de ploaie prin Matinkylä, începând la HopLop în Suomenoja, unde copiii se pot juca la adăpost. Apoi explorăm situri istorice precum Villa Rulludd, distanța scurtă de la parcare la intrare fiind un avantaj. La prânz observăm păsările de la Suomenojan confortabil din vehiculul uscat. Ziua se încheie pe plaja Matinkylä, admirând furtuna în siguranță din spatele geamului.",
+            "en": "By car, we enjoy a dry journey through Matinkylä, starting at HopLop in Suomenoja where children can play safely indoors. Next, we visit historical sites like Villa Rulludd, where the short walk from the car park to the entrance is convenient. At noon, we observe the birdlife at Suomenojan basin from the comfort of our warm vehicle. The day ends at Matinkylä beach, watching the storm safely from behind the glass."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "HopLop Espoo, Suomenoja",
+                "hu": "HopLop Espoo, Suomenoja",
+                "ro": "HopLop Espoo, Suomenoja",
+                "en": "HopLop Espoo, Suomenoja"
+              },
+              "tip_5lang": {
+                "de": "Das Parkhaus bietet direkten Zugang, sodass Sie völlig trocken bleiben; ideal für regnerische Vormittage, um die Energie der Kinder in einer sicheren Umgebung abzubauen.",
+                "hu": "A parkoló közvetlen bejutást biztosít, így teljesen szárazon maradhat; ideális választás esős délelőttökre, hogy a gyerekek biztonságos, fedett környezetben vezessék le energiájukat.",
+                "ro": "Parcarea oferă acces direct, astfel încât să rămâneți complet uscat; este ideal pentru diminețile ploioase, oferind copiilor un mediu sigur pentru a-și consuma energia la joacă.",
+                "en": "The parking area provides direct access so you stay completely dry; it's ideal for rainy mornings to let children burn off energy in a safe and stimulating indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaitans Själörberget",
+                "hu": "Kaitans Själörberget",
+                "ro": "Kaitans Själörberget",
+                "en": "Kaitans Själörberget"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Pfad zum Hügel; der Aufstieg kann bei Regen schlammig sein, daher empfiehlt es sich, wasserfeste Schuhe direkt im Auto anzuziehen.",
+                "hu": "Parkoljon a lehető legközelebb a dombra vezető ösvényhez; az emelkedő esőben sáros lehet, ezért javasolt a vízálló cipőt már az autóban felvenni a kényelmesebb séta érdekében.",
+                "ro": "Parcați cât mai aproape de poteca spre deal; urcușul poate fi noroios pe ploaie, deci se recomandă să vă încălțați cu pantofi impermeabili direct în mașină înainte de a porni.",
+                "en": "Park as close as possible to the path leading to the hill; the climb can be muddy in the rain, so it is recommended to put on waterproof shoes while still inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Rulludd",
+                "hu": "Villa Rulludd",
+                "ro": "Villa Rulludd",
+                "en": "Villa Rulludd"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen schnellen Sprint ins Trockene; die Villa bietet bei Regen eine gemütliche historische Kulisse für Fotos der dramatischen Küste.",
+                "hu": "Használja a közeli parkolót egy gyors befutáshoz a fedett épületbe; a villa esőben is hangulatos történelmi hátteret biztosít a drámai tengerparti fotók készítéséhez.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost; vila oferă un cadru istoric primitor în timpul ploii pentru fotografii reușite ale coastei dramatice din jur.",
+                "en": "Use the nearby parking for a quick dash to the indoor area; the villa provides a cozy historical backdrop during rain for taking dramatic photos of the surrounding coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Suomenojan lintuallas",
+                "hu": "Suomenojan lintuallas",
+                "ro": "Suomenojan lintuallas",
+                "en": "Suomenojan lintuallas"
+              },
+              "tip_5lang": {
+                "de": "Sie können viele Vögel direkt vom Autofenster aus am Straßenrand beobachten; halten Sie Ihre Kamera mit Zoomobjektiv bereit, um die Tiere ohne nass zu werden zu filmen.",
+                "hu": "Számos madárfajt közvetlenül az autó ablakából is megfigyelhet az út széléről; tartsa készenlétben zoomos kameráját, hogy anélkül örökíthesse meg az állatokat, hogy Ön elázna.",
+                "ro": "Puteți observa multe păsări direct de la fereastra mașinii, de la marginea drumului; pregătiți camera cu zoom pentru a surprinde fauna fără a fi nevoie să ieșiți în ploaie.",
+                "en": "You can observe many bird species directly from your car window at the roadside; keep your zoom camera ready to capture the wildlife without having to step out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvholmsklackarna",
+                "hu": "Kalvholmsklackarna",
+                "ro": "Kalvholmsklackarna",
+                "en": "Kalvholmsklackarna"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen können bei Nässe extrem glatt sein; genießen Sie den Blick auf die Meeresbucht lieber von der befestigten Straße aus Ihrem warmen und trockenen Fahrzeug.",
+                "hu": "A sziklák nedvesen rendkívül csúszósak lehetnek; élvezze a kilátást az öbölre inkább a szilárd burkolatú útról, a meleg és száraz autó kényelméből a biztonság kedvéért.",
+                "ro": "Stâncile pot fi extrem de alunecoase când sunt ude; admirați vederea spre golf mai degrabă de pe drumul asfaltat, din interiorul vehiculului dumneavoastră cald și uscat.",
+                "en": "The rocks can be extremely slippery when wet; enjoy the view over the bay from the safety of the paved road inside your warm and dry vehicle instead of climbing up."
+              }
+            },
+            {
+              "name": {
+                "de": "Matinkylän rantauimala",
+                "hu": "Matinkylän rantauimala",
+                "ro": "Matinkylän rantauimala",
+                "en": "Matinkylän rantauimala"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Strand, um das Wetterphänomen über der Ostsee zu bewundern; das Auto dient hier als perfekter, privater Aussichtspunkt vor dem Wind und Regen.",
+                "hu": "Parkoljon le a strand felé nézve, hogy megcsodálhassa a Balti-tenger feletti időjárási jelenségeket; az autó tökéletes, privát kilátópontként szolgál a szél és az eső ellen.",
+                "ro": "Parcați cu fața spre plajă pentru a admira fenomenele meteorologice de deasupra mării; mașina servește ca punct de observație privat perfect împotriva vântului și ploii.",
+                "en": "Park facing the beach to admire the weather patterns over the Baltic Sea; your car serves as the perfect private observation point against the strong wind and heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Matinkylä bietet Komfort und Wärme, beginnend bei HopLop für aktiven Indoor-Spaß. Wir besuchen die verschneite Küste bei Själörberget und Villa Rulludd, wobei die Sitzheizung nach jedem kurzen Fotostopp für schnelle Erholung sorgt. Mittags bietet das Suomenojan-Becken tolle Motive eisfreier Wasserstellen. Der Tag endet am Strand von Matinkylä, wo wir den Sonnenuntergang über der gefrorenen See gemütlich im Auto erleben.",
+            "hu": "A téli autós körút Matinkylä környékén kényelmet és meleget kínál, kezdve a HopLop beltéri kalandjaival. Meglátogatjuk a havas tengerpartot a Själörbergetnél és a Villa Rulluddnál, ahol az ülésfűtés minden fotómegálló után gyorsan felmelegít. Délben a Suomenojan-medence jégmentes foltjai kínálnak remek látványt. A nap a matinkyläi strandon zárul, ahol az autóban ülve nézzük a naplementét a befagyott tenger felett.",
+            "ro": "O călătorie de iarnă cu mașina prin Matinkylä oferă confort și căldură, începând la HopLop pentru distracție activă la interior. Vizităm coasta înzăpezită la Själörberget și Villa Rulludd, unde încălzirea în scaune asigură recuperarea rapidă după fiecare oprire foto. La prânz, bazinele Suomenojan oferă cadre superbe cu zonele neînghețate. Ziua se încheie la plaja Matinkylä, urmărind apusul peste marea înghețată din mașină.",
+            "en": "A winter drive through Matinkylä offers comfort and warmth, starting at HopLop for high-energy indoor fun. We visit the snowy coast at Själörberget and Villa Rulludd, where seat heating provides quick recovery after every short photo stop. At noon, the Suomenojan basin offers great views of ice-free water spots. The day ends at Matinkylä beach, where we watch the sunset over the frozen sea from the comfort of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "HopLop Espoo, Suomenoja",
+                "hu": "HopLop Espoo, Suomenoja",
+                "ro": "HopLop Espoo, Suomenoja",
+                "en": "HopLop Espoo, Suomenoja"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kinder bei Minusgraden aufzuwärmen; das Parkhaus sorgt dafür, dass das Auto nicht auskühlt, während Sie drinnen die winterliche Kälte vergessen.",
+                "hu": "Ideális hely a gyerekek bemelegítésére a kinti mínuszokban; a parkolóhely gondoskodik róla, hogy az autó ne hűljön ki teljesen, amíg Önök bent elfelejtik a téli hideget.",
+                "ro": "Locul ideal pentru a încălzi copiii când temperaturile sunt negative; parcarea asigură că mașina nu se răcește prea tare în timp ce uitați de gerul de afară la interior.",
+                "en": "An ideal spot to warm up the kids during sub-zero temperatures; the parking area helps keep your car from getting too cold while you enjoy the indoor fun away from the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaitans Själörberget",
+                "hu": "Kaitans Själörberget",
+                "ro": "Kaitans Själörberget",
+                "en": "Kaitans Själörberget"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeverwehungen am Straßenrand beim Parken; der kurze Weg zum Aussichtspunkt bietet einen tollen Blick auf die verschneiten Schären der finnischen Küste.",
+                "hu": "Parkoláskor ügyeljen az útmenti hóakadályokra; a kilátóponthoz vezető rövid séta pazar rálátást nyújt a finn tengerpart hóval borított, festői szigetvilágára.",
+                "ro": "Atenție la troienele de zăpadă de la marginea drumului când parcați; drumul scurt spre punctul de observație oferă o vedere superbă asupra arhipelagului înzăpezit al coastei.",
+                "en": "Watch out for snow drifts at the roadside when parking; the short walk to the viewpoint offers a fantastic look at the snow-covered archipelagos along the Finnish coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Rulludd",
+                "hu": "Villa Rulludd",
+                "ro": "Villa Rulludd",
+                "en": "Villa Rulludd"
+              },
+              "tip_5lang": {
+                "de": "Die Villa sieht im Schnee bezaubernd aus; lassen Sie den Motor nicht unnötig laufen und genießen Sie die klare Winterluft bei einem kurzen Spaziergang am Uferweg.",
+                "hu": "A villa elragadó látványt nyújt a hóban; ne járassa feleslegesen a motort, inkább élvezze a friss téli levegőt egy rövid sétával a tengerparti ösvényen a parkoló mellett.",
+                "ro": "Vila arată încântător în zăpadă; nu lăsați motorul pornit inutil și bucurați-vă de aerul curat de iarnă în timpul unei scurte plimbări pe poteca de pe malul mării.",
+                "en": "The villa looks enchanting in the snow; avoid idling the engine and instead enjoy the crisp winter air during a short walk on the coastal path right next to the parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Suomenojan lintuallas",
+                "hu": "Suomenojan lintuallas",
+                "ro": "Suomenojan lintuallas",
+                "en": "Suomenojan lintuallas"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Treiben der Enten in den eisfreien Kanälen direkt vom warmen Auto aus; ein Fernglas hilft, Details im Frostgefieder der Vögel besser zu erkennen.",
+                "hu": "Figyelje meg a récék nyüzsgését a jégmentes csatornákban közvetlenül a fűtött autóból; egy távcső segít jobban látni a madarak deres tollazatának legapróbb részleteit is.",
+                "ro": "Observați activitatea rațelor în canalele neînghețate direct din mașina caldă; un binoclu vă va ajuta să vedeți mai bine detaliile penajului înghețat al păsărilor de apă.",
+                "en": "Observe the busy ducks in the ice-free channels directly from your warm car; binoculars will help you see the fine details of the birds' frosty plumage more clearly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalvholmsklackarna",
+                "hu": "Kalvholmsklackarna",
+                "ro": "Kalvholmsklackarna",
+                "en": "Kalvholmsklackarna"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können glatt sein; genießen Sie das Winterpanorama der gefrorenen Bucht von einem sicheren Haltepunkt aus, ohne die steilen Felsen besteigen zu müssen.",
+                "hu": "A bekötőutak jegesek lehetnek; gyönyörködjön a befagyott öböl téli panorámájában egy biztonságos megállóból, anélkül, hogy meg kellene másznia a meredek, csúszós sziklákat.",
+                "ro": "Drumurile de acces pot fi alunecoase; admirați panorama de iarnă a golfului înghețat dintr-un punct de oprire sigur, fără a fi nevoie să urcați pe stâncile abrupte și înghețate.",
+                "en": "The access roads can be icy; enjoy the winter panorama of the frozen bay from a safe stopping point without having to climb the steep and potentially slippery rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Matinkylän rantauimala",
+                "hu": "Matinkylän rantauimala",
+                "ro": "Matinkylän rantauimala",
+                "en": "Matinkylän rantauimala"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Winter-Sonnenuntergang gegen 15:45 Uhr direkt aus dem Auto; die Wärme im Inneren macht das Warten auf die Blaue Stunde besonders angenehm.",
+                "hu": "Élje át a látványos téli naplementét 15:45 körül közvetlenül az autóból; a benti meleg különösen kellemessé teszi a várakozást a kék óra varázslatos fényeire a parton.",
+                "ro": "Trăiți apusul spectaculos de iarnă în jur de ora 15:45 direct din mașină; căldura din interior face așteptarea orei albastre deasupra mării înghețate deosebit de plăcută.",
+                "en": "Experience the spectacular winter sunset around 15:45 directly from your car; the warmth inside makes waiting for the magical blue hour over the frozen sea very comfortable."
+              }
+            }
+          ]
+        }
       }
     }
   }

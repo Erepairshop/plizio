@@ -137,6 +137,168 @@
         "hu": "Sétája Moena élettel teli központjában kezdődik, ahol a történelmi igazgatási építészet elegáns alaphangot ad. Sétáljon néhány percet, hogy felfedezze az ősi freskókat. A déli órák a régió intenzív történelmére összpontosítanak egy átfogó első világháborús múzeum felfedezésével. Egy kellemes délutáni séta békés környékbeli templomokhoz vezet, mielőtt a napot a Nagy Háború fotóarchívumában zárná.",
         "ro": "Plimbarea dvs. începe în centrul plin de viață al orașului Moena, unde arhitectura istorică dă un ton elegant. Plimbați-vă câteva minute pentru a descoperi fresce vechi care șoptesc povești din trecut. Atenția de la prânz se mută pe istoria intensă a regiunii, explorând un muzeu complex al Primului Război Mondial. O plimbare ușoară de după-amiază duce spre biserici de cartier pașnice, înainte de a încheia ziua cu arhivele fotografice.",
         "en": "Your walk starts in the lively core of Moena, where historic administrative architecture sets an elegant tone. Stroll just a few minutes to uncover ancient frescoes that whisper tales of the past. The midday focus shifts to the intense history of the region, exploring a comprehensive World War I museum. A gentle afternoon walk leads to peaceful neighborhood churches, before capping off the day immersed in expansive photographic archives of the Great War."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag in Moena beginnt im historischen Zentrum, wo Gebäude Schutz bieten. Mittags erkunden Sie die bewegende Geschichte der Weltkriege in trockenen Museumsräumen. Der Nachmittag führt Sie durch mystische, nasse Gassen zu stillen Kirchen. Am Abend genießen Sie die gemütliche Atmosphäre der beleuchteten Stadt, während der Regen gegen die alten Fenster prasselt.",
+            "hu": "A borús reggelt Moena városházájánál kezdjük, ahol az árkádok védelmet nyújtanak. Délben a háborús múzeumok fedett kiállításai között merülünk el a múltban, elkerülve a záporokat. Délután a templomok csendje ad menedéket a vizes utcák elől. Estére a kivilágított város fényei tükröződnek a vizes aszfalton, ami különleges hangulatot áraszt a hegyek lábánál.",
+            "ro": "O dimineață ploioasă în Moena începe la primărie, unde arhitectura oferă adăpost. La prânz, explorăm istoria războiului în muzee bine protejate de intemperii. După-amiaza continuă cu vizite la biserici liniștite, ideale pentru a rămâne uscat. Seara, orașul luminat capătă un farmec aparte, cu reflexii strălucitoare pe pavajul umed de munte.",
+            "en": "A rainy morning in Moena starts at the town hall, where the historic architecture provides some cover. By noon, dive into the poignant history of the World Wars in dry, indoor museums. The afternoon is spent visiting quiet, sheltered churches as the mist rolls over the mountains. In the evening, the illuminated wet streets create a magical, reflective atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Moena",
+                "hu": "Comune di Moena",
+                "ro": "Comune di Moena",
+                "en": "Comune di Moena"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade des Rathauses unter dem Schutz Ihres Regenschirms und achten Sie auf die kunstvollen Details am Eingang, die auch bei trübem Wetter glänzen.",
+                "hu": "Csodáld meg a városháza homlokzatát az esernyőd védelméből, és keresd a bejárat feletti míves díszítéseket, amelyek még borús időben is méltóságteljesek.",
+                "ro": "Admirați fațada primăriei sub protecția umbrelei și observați detaliile sculptate de la intrare, care par mai dramatice pe fundalul norilor de munte.",
+                "en": "Admire the town hall's facade from under your umbrella, focusing on the intricate carvings at the entrance that stand out beautifully even on a grey, misty day."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Volfango",
+                "hu": "Chiesa di San Volfango",
+                "ro": "Chiesa di San Volfango",
+                "en": "Chiesa di San Volfango"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen spirituellen Ort als trockenen Rückzugsort, um die wertvollen Fresken in aller Ruhe zu betrachten, während draußen der Regen sanft gegen die Mauern schlägt.",
+                "hu": "Használd ki ezt a spirituális helyszínt száraz menedékként, ahol a csodás freskók megtekintése közben hallgathatod a falakon doboló eső megnyugtató neszét.",
+                "ro": "Folosiți acest lăcaș spiritual ca refugiu uscat pentru a studia frescele valoroase în liniște, în timp ce ploaia bate ușor în zidurile vechi de piatră.",
+                "en": "Use this spiritual site as a dry retreat to study the precious frescoes in peace, while the sound of rain against the stone walls creates a serene atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "La Gran Vera: museo prima guerra mondiale",
+                "hu": "La Gran Vera: museo prima guerra mondiale",
+                "ro": "La Gran Vera: museo prima guerra mondiale",
+                "en": "La Gran Vera: museo prima guerra mondiale"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Ort für Regentage; vertiefen Sie sich stundenlang in die detaillierten Exponate zum Ersten Weltkrieg in einer völlig trockenen Umgebung.",
+                "hu": "Ez a múzeum tökéletes választás esőben; órákra elmerülhetsz az első világháború részletes emlékei között a teljesen fedett és fűtött kiállítóterekben.",
+                "ro": "Acest muzeu este locația ideală pentru zilele ploioase; aprofundați istoria Primului Război Mondial timp de câteva ore într-un mediu complet protejat și uscat.",
+                "en": "This museum is the perfect rainy-day choice; spend hours exploring the detailed WWI exhibits in a completely indoor and climate-controlled environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche bietet eine intime Atmosphäre zum Aufwärmen; achten Sie auf die barocke Ausstattung, die im gedämpften Licht des Regentages besonders warm wirkt.",
+                "hu": "A kis templom meghitt hangulatot áraszt; figyeld meg a barokk belső teret, amely az esős nap szűrt fényében különösen barátságos és meleg látványt nyújt.",
+                "ro": "Această biserică mică oferă o atmosferă intimă; admirați decorul baroc care pare mai cald sub lumina difuză a unei zile ploioase de munte.",
+                "en": "The small church offers an intimate atmosphere; notice the Baroque interior which feels especially warm and inviting under the muted light of a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo \"La Grande Guerra\"",
+                "hu": "Museo \"La Grande Guerra\"",
+                "ro": "Museo \"La Grande Guerra\"",
+                "en": "Museo \"La Grande Guerra\""
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang in diesem weiteren großartigen Museum; die umfangreichen Sammlungen lassen Sie das schlechte Wetter draußen völlig vergessen.",
+                "hu": "Zárd a sétát ebben a másik kiváló múzeumban; a gazdag gyűjtemény és a katonai emlékek között barangolva teljesen megfeledkezhetsz a kinti rossz időről.",
+                "ro": "Încheiați turul în acest alt muzeu excelent; colecțiile vaste de artefacte militare vă vor face să uitați complet de vremea nefavorabilă de afară.",
+                "en": "End your walk in this extensive museum; the fascinating military collections will make you completely forget about the poor weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Moena beginnt in der klaren Bergluft bei frostigen Temperaturen. Mittags wärmen Sie sich in den geschichtsträchtigen Museen auf, während der Schnee die Stadt in Weiß hüllt. Der Nachmittag bietet kurze Wege zwischen den Sehenswürdigkeiten, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend endet früh bei einer heißen Schokolade in der gemütlichen Altstadt.",
+            "hu": "A fagyos téli reggel Moena kristálytiszta levegőjében indul. Napközben a történelmi múzeumok nyújtanak meleg menedéket a hófúvás elől, miközben a város fehér takarót kap. Délután érdemes sietni, mert a nap már 17:00 körül lebukik a hegyek mögött. Az este korán kezdődik, a kivilágított főtéren a forralt bor illata csalogatja a megfáradt vándort.",
+            "ro": "O dimineață de iarnă în Moena începe în aerul tăios de munte, cu peisaje înghețate. La prânz, vizităm muzeele pentru a ne încălzi și a descoperi istoria locului la adăpost. După-amiaza profităm de ultimele raze de soare, care apune devreme, în jur de ora 17:00. Seara se așterne rapid peste străzile înzăpezite, invitându-ne în cafenele primitoare.",
+            "en": "A crisp winter morning in Moena begins with frost-covered streets and mountain air. At noon, warm up in the historical museums as the snow transforms the town into a wonderland. The afternoon is short, with sunset arriving around 17:00, so move briskly between the sites. The evening is best spent enjoying the cozy lights and alpine charm of the snowy center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Moena",
+                "hu": "Comune di Moena",
+                "ro": "Comune di Moena",
+                "en": "Comune di Moena"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus wirkt vor der schneebedeckten Kulisse wie aus einem Märchen; ziehen Sie sich warm an, um die winterliche Pracht des Platzes kurz zu genießen.",
+                "hu": "A városháza a hófödte hegyek előtt olyan, mintha egy mesekönyvből lépett volna elő; öltözz rétegesen, hogy nyugodtan fotózhass a téli főtéren.",
+                "ro": "Primăria arată ca dintr-o poveste pe fundalul munților înzăpeziți; îmbrăcați-vă gros pentru a savura splendoarea iernatică a pieței centrale.",
+                "en": "The town hall looks like something from a fairy tale against the snowy mountain backdrop; dress warmly to enjoy the winter splendor of the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Volfango",
+                "hu": "Chiesa di San Volfango",
+                "ro": "Chiesa di San Volfango",
+                "en": "Chiesa di San Volfango"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche finden Sie Schutz vor dem kalten Wind; bewundern Sie die Stille und die Fresken, während der Schnee draußen leise die Wege bedeckt.",
+                "hu": "A templom belsejében menedéket találsz a metsző szél elől; csodáld meg a csendet és a freskókat, miközben kint halkan hull a hó az ösvényekre.",
+                "ro": "În interiorul bisericii veți găsi protecție împotriva vântului rece; admirați liniștea și frescele în timp ce zăpada acoperă încet potecile de afară.",
+                "en": "Inside the church, you'll find shelter from the biting cold wind; admire the silence and the frescoes while the snow gently covers the paths outside."
+              }
+            },
+            {
+              "name": {
+                "de": "La Gran Vera: museo prima guerra mondiale",
+                "hu": "La Gran Vera: museo prima guerra mondiale",
+                "ro": "La Gran Vera: museo prima guerra mondiale",
+                "en": "La Gran Vera: museo prima guerra mondiale"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Museum ist perfekt, um den Körper aufzuwärmen und gleichzeitig tief in die dramatische Geschichte der Alpen im Winter einzutauchen.",
+                "hu": "A jól fűtött múzeum tökéletes hely a felmelegedésre, miközben mélyen elmerülhetsz az Alpok téli hadviselésének drámai és lenyűgöző történetében.",
+                "ro": "Muzeul bine încălzit este locul perfect pentru a vă dezmorți, în timp ce explorați istoria dramatică a luptelor montane desfășurate iarna în Alpi.",
+                "en": "The well-heated museum is the perfect place to warm up while diving deep into the dramatic and fascinating history of winter warfare in the Alps."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in dieser kleinen Kirche bietet eine willkommene Pause von der Kälte; die goldene Barockpracht strahlt im Winterlicht besondere Wärme aus.",
+                "hu": "Egy rövid megálló ebben a kis templomban felüdülés a fagyban; az aranyozott barokk díszek a téli fényben különleges melegséget árasztanak magukból.",
+                "ro": "O scurtă oprire în această bisericuță este o binecuvântare pe timp de ger; ornamentele baroce aurite par să radieze căldură în lumina iernii.",
+                "en": "A short stop in this small church is a welcome break from the freezing temperatures; the golden Baroque details glow with warmth in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo \"La Grande Guerra\"",
+                "hu": "Museo \"La Grande Guerra\"",
+                "ro": "Museo \"La Grande Guerra\"",
+                "en": "Museo \"La Grande Guerra\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die letzte Stunde vor Sonnenuntergang für dieses Museum; die packenden Exponate bieten einen idealen Abschluss des kalten Wintertages.",
+                "hu": "Használd ki a naplemente előtti utolsó órát ebben a múzeumban; a magával ragadó kiállítások ideális zárást jelentenek a hideg, téli felfedezőútnak.",
+                "ro": "Profită de ultima oră înainte de apus pentru a vizita acest muzeu; exponatele fascinante oferă o încheiere ideală pentru o zi rece de explorare.",
+                "en": "Take advantage of the last hour before sunset to visit this museum; the gripping exhibits provide an ideal conclusion to a cold day of exploration."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpározást Moena főigazgatási teréről, magába szívva a friss alpesi reggeli hangulatot. Egy rövid emelkedő egy lenyűgöző erődítményhez vezet, kilátással a völgyre. Térjen vissza a városba a hadtörténetért, mielőtt északra, Soraga faluba kerekezne. A délutánt a soragai városháza és a központi templom csodálásával tölti, majd egy festői tekeréssel zárul a nap egy magányos vidéki kápolnához.",
         "ro": "Începeți să pedalați din piața administrativă principală din Moena, bucurându-vă de atmosfera dimineții alpine. O scurtă urcare vă duce la o fortăreață impunătoare, oferind priveliști uluitoare ale văii. Întoarceți-vă în oraș pentru istoria războiului înainte de a pedala spre satul vecin Soraga. După-amiaza este petrecută admirând primăria și biserica centrală din Soraga, încheindu-se cu o plimbare spre o capelă rurală solitară.",
         "en": "Begin pedaling from Moena's main administrative square, soaking in the crisp alpine morning atmosphere. A short uphill ride takes you to a commanding fortress, offering breathtaking valley views. Return to the town for a deep dive into war history before cycling north to the neighboring village of Soraga. The afternoon is spent admiring Soraga’s charming town hall and central church, winding down with a picturesque ride to a solitary rural chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Fahrradausflug im Regen erfordert Vorsicht auf den nassen Wegen Richtung Soraga. Vormittags nutzen Sie Museen für Pausen im Trockenen. Mittags führt die Tour durch die neblige, aber wunderschöne Landschaft des Fassatals. Nachmittags besuchen Sie historische Kirchen als Schutz vor Schauern. Abends kehren Sie mit wetterfester Kleidung zurück und genießen die frische, reine Bergluft.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel a Soraga felé vezető csúszós utakon. Délelőtt a múzeumokban pihenhetünk meg a záporok elől. Délben a ködös, de látványos Fassa-völgyben tekerünk, ahol a természet illata intenzívebb. Délután a templomok nyújtanak menedéket a zivatarok ellen. Estére a vizes aszfalton visszagurulva élvezhetjük a hegyek tiszta, eső utáni levegőjét.",
+            "ro": "O excursie cu bicicleta pe ploaie necesită prudență pe drumurile umede spre Soraga. Dimineața folosim muzeele ca puncte de oprire pentru a rămâne uscați. La prânz, pedalăm prin peisajul cețos, dar spectaculos al văii Fassa. După-amiaza, bisericile istorice devin refugii ideale. Seara, ne întoarcem echipați corespunzător, savurând aerul proaspăt de munte după ploaie.",
+            "en": "A rainy bike trip requires caution on the slick paths towards Soraga. In the morning, use museums as dry rest stops to escape the showers. At noon, pedal through the misty but beautiful Fassa Valley landscape. In the afternoon, historic churches provide the perfect shelter from downpours. By evening, return with waterproof gear, enjoying the crisp and clean post-rain alpine air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Moena",
+                "hu": "Comune di Moena",
+                "ro": "Comune di Moena",
+                "en": "Comune di Moena"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig am Rathaus; prüfen Sie Ihre Bremsen, bevor Sie auf das nasse Kopfsteinpflaster fahren, und tragen Sie eine gute Regenjacke.",
+                "hu": "Kezdd óvatosan a városházánál; ellenőrizd a fékeidet, mielőtt a vizes macskakövekre hajtanál, és viselj megbízható esőkabátot.",
+                "ro": "Începeți cu prudență la primărie; verificați frânele înainte de a intra pe pavajul umed și asigurați-vă că aveți o pelerină de ploaie de calitate.",
+                "en": "Start cautiously at the town hall; check your brakes before heading out onto the wet cobblestones and make sure you're wearing reliable rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Someda",
+                "hu": "Forte Someda",
+                "ro": "Forte Someda",
+                "en": "Forte Someda"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Fort kann bei Nässe rutschig sein; genießen Sie den Schutz der alten Mauern und den dramatischen Blick auf das wolkenverhangene Tal.",
+                "hu": "Az erődbe vezető út csúszós lehet az esőben; élvezd a vastag falak nyújtotta biztonságot és a drámai kilátást a felhőkbe burkolózó völgyre.",
+                "ro": "Urcarea spre fort poate fi alunecoasă pe ploaie; bucurați-vă de protecția zidurilor groase și de vederea dramatică asupra văii acoperite de nori.",
+                "en": "The climb to the fort can be slippery in the rain; enjoy the shelter of the thick walls and the dramatic views of the cloud-covered valley below."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo \"La Grande Guerra\"",
+                "hu": "Museo \"La Grande Guerra\"",
+                "ro": "Museo \"La Grande Guerra\"",
+                "en": "Museo \"La Grande Guerra\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Pause im Trockenen; parken Sie Ihr Rad an einem geschützten Ort und vertiefen Sie sich in die Historie.",
+                "hu": "Használd ki a múzeumlátogatást egy hosszabb száraz pihenőre; parkolj a bringával védett helyen, és merülj el a történelemben, amíg kint esik.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză lungă și uscată; parcați bicicleta într-un loc ferit și aprofundați istoria cât timp plouă afară.",
+                "en": "Use this museum visit for a long, dry break; park your bike in a sheltered spot and immerse yourself in history while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Soraga",
+                "hu": "Municipio di Soraga",
+                "ro": "Municipio di Soraga",
+                "en": "Municipio di Soraga"
+              },
+              "tip_5lang": {
+                "de": "In Soraga bietet das Rathausumfeld Schutz vor plötzlichen Güssen; bewundern Sie die alpine Architektur, während Sie auf eine Regenpause warten.",
+                "hu": "Soragában a városháza környéke védelmet nyújt a hirtelen záporok elől; csodáld meg az alpesi építészetet, miközben várod az eső csendesedését.",
+                "ro": "În Soraga, zona primăriei oferă adăpost împotriva averselor bruște; admirați arhitectura alpină în timp ce așteptați ca ploaia să se oprească.",
+                "en": "In Soraga, the area around the town hall offers shelter from sudden downpours; admire the alpine architecture while you wait for the rain to ease up."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Pietro e Paolo",
+                "hu": "Chiesa dei Santi Pietro e Paolo",
+                "ro": "Chiesa dei Santi Pietro e Paolo",
+                "en": "Chiesa dei Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser Kirche Unterschlupf; die friedliche Innenatmosphäre ist der perfekte Ort, um sich vor der Weiterfahrt im Regen kurz zu sammeln.",
+                "hu": "Keress menedéket ebben a templomban; a békés belső tér tökéletes hely a rövid pihenőre és lelki feltöltődésre, mielőtt továbbtekernél az esőben.",
+                "ro": "Căutați refugiu în această biserică; interiorul liniștit este locul perfect pentru o scurtă pauză și reculegere înainte de a continua drumul prin ploaie.",
+                "en": "Seek refuge in this church; the peaceful interior is the perfect spot for a quick rest and some reflection before continuing your ride through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Nepomuceno",
+                "hu": "Chiesa di San Giovanni Nepomuceno",
+                "ro": "Chiesa di San Giovanni Nepomuceno",
+                "en": "Chiesa di San Giovanni Nepomuceno"
+              },
+              "tip_5lang": {
+                "de": "Die letzte Station bietet einen trockenen Abschluss; achten Sie auf den Heiligen Nepomuk, den Schutzpatron gegen Wassergefahren – sehr passend heute!",
+                "hu": "Az utolsó állomás száraz zárást ígér; keresd Nepomuki Szent János szobrát, a vízi veszélyek elleni védőszentet – ma különösen aktuális!",
+                "ro": "Ultima oprire oferă o încheiere uscată; căutați statuia Sfântului Ioan Nepomuc, protectorul împotriva pericolelor apei – foarte potrivit astăzi!",
+                "en": "The final stop offers a dry conclusion; look for the statue of Saint John Nepomuk, the patron saint against water hazards – very fitting for today!"
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Moena erfordert warme Schichten gegen den Fahrtwind. Vormittags gleiten Sie durch die glitzernde Schneelandschaft auf geräumten Wegen. Mittags bieten Museen eine wichtige Gelegenheit zum Aufwärmen der Hände und Füße. Der Nachmittag ist kurz, nutzen Sie das Licht bis 17:00 Uhr für die Fahrt nach Soraga. Abends genießen Sie die beleuchtete Winterwelt auf dem Rückweg.",
+            "hu": "A téli bringázás Moenában réteges öltözködést igényel a menetszél miatt. Délelőtt a csillogó havas tájon tekerhetünk a letakarított utakon. Délben a múzeumok nyújtanak nélkülözhetetlen alkalmat a végtagok átmelegítésére. A délután rövid, így használd ki a világosságot 17:00-ig a Soraga felé vezető úton. Estére a kivilágított, téli csodaország látványa kárpótol a hidegért.",
+            "ro": "Biciclismul iarna în Moena necesită straturi groase de haine împotriva vântului rece. Dimineața, pedalați prin peisajul sclipitor de zăpadă pe drumurile curățate. La prânz, muzeele oferă ocazia vitală de a vă încălzi mâinile și picioarele. După-amiaza este scurtă, profitați de lumină până la 17:00 pentru drumul spre Soraga. Seara, lumea iernii luminată vă va încânta.",
+            "en": "Winter cycling in Moena requires thermal layers to combat the wind chill. In the morning, glide through the sparkling snowscapes on cleared paths. At noon, museums provide an essential opportunity to warm up your frozen hands and feet. The afternoon is short, so use the daylight until 17:00 for the trip to Soraga. In the evening, enjoy the magic of the illuminated winter world."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Moena",
+                "hu": "Comune di Moena",
+                "ro": "Comune di Moena",
+                "en": "Comune di Moena"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie am festlich geschmückten Rathaus; achten Sie auf glatte Stellen auf dem Platz und tragen Sie winddichte Handschuhe für die Abfahrt.",
+                "hu": "Indulj az ünnepi díszben tündöklő városházától; figyelj a jeges foltokra a téren, és viselj szélálló kesztyűt a guruláshoz.",
+                "ro": "Porniți de la primăria decorată festiv; atenție la porțiunile înghețate din piață și purtați mănuși rezistente la vânt pentru coborâre.",
+                "en": "Start at the festively decorated town hall; watch out for icy patches in the square and wear windproof gloves for the ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Someda",
+                "hu": "Forte Someda",
+                "ro": "Forte Someda",
+                "en": "Forte Someda"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, doch oben weht oft ein kalter Wind; nutzen Sie die massiven Mauern als Windschutz und genießen Sie das schneeweiße Panorama.",
+                "hu": "Az emelkedő segít melegen tartani, de fent gyakran fúj a jeges szél; használd a vaskos falakat szélfogóként, és élvezd a vakítóan fehér panorámát.",
+                "ro": "Urcușul vă va ține de cald, dar sus vântul este adesea tăios; folosiți zidurile masive ca paravan și admirați panorama albă ca zăpada.",
+                "en": "The climb will keep you warm, but a cold wind often blows at the top; use the massive walls as a windbreak and enjoy the brilliant snowy panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo \"La Grande Guerra\"",
+                "hu": "Museo \"La Grande Guerra\"",
+                "ro": "Museo \"La Grande Guerra\"",
+                "en": "Museo \"La Grande Guerra\""
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und tauchen Sie in die Wärme des Museums ein; die Ausstellungen über die Soldaten im ewigen Eis sind im Winter besonders eindrucksvoll.",
+                "hu": "Tedd le a bringát és merülj el a múzeum melegében; az örök jég fogságában harcoló katonákról szóló kiállítás télen különösen átérezhető és hatásos.",
+                "ro": "Lăsați bicicleta și intrați la căldură; expozițiile despre soldații care au luptat în ghețuri sunt deosebit de impresionante pe timp de iarnă.",
+                "en": "Park your bike and step into the museum's warmth; the exhibits about soldiers fighting in the ice and snow are especially moving during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Soraga",
+                "hu": "Municipio di Soraga",
+                "ro": "Municipio di Soraga",
+                "en": "Municipio di Soraga"
+              },
+              "tip_5lang": {
+                "de": "Soraga wirkt im Winter wie ein Postkartenidyll; machen Sie ein kurzes Foto am Rathaus, bevor Sie wegen der sinkenden Temperaturen zügig weiterfahren.",
+                "hu": "Soraga télen olyan, mint egy megelevenedett képeslap; készíts egy gyors fotót a városházánál, mielőtt a süllyedő hőmérséklet miatt továbbindulnál.",
+                "ro": "Soraga arată ca o carte poștală iarna; faceți o fotografie rapidă la primărie înainte de a pleca mai departe din cauza temperaturilor în scădere.",
+                "en": "Soraga looks like a postcard in winter; take a quick photo at the town hall before moving on briskly as the temperatures begin to drop further."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Pietro e Paolo",
+                "hu": "Chiesa dei Santi Pietro e Paolo",
+                "ro": "Chiesa dei Santi Pietro e Paolo",
+                "en": "Chiesa dei Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine stille, warme Zuflucht; bewundern Sie den Kontrast zwischen der Kälte draußen und der prachtvollen, barocken Geborgenheit im Inneren.",
+                "hu": "A templom csendes és meleg menedéket nyújt; csodáld meg a kinti fagy és a benti díszes, barokk biztonság közötti lenyűgöző kontrasztot.",
+                "ro": "Biserica oferă un refugiu cald și liniștit; admirați contrastul dintre gerul de afară și siguranța decorului baroc somptuos din interior.",
+                "en": "The church provides a quiet and warm refuge; admire the contrast between the freezing cold outside and the ornate, Baroque sanctuary within."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Nepomuceno",
+                "hu": "Chiesa di San Giovanni Nepomuceno",
+                "ro": "Chiesa di San Giovanni Nepomuceno",
+                "en": "Chiesa di San Giovanni Nepomuceno"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an dieser geschützten Stelle; das warme Licht der Kirche ist ein schöner Empfang, bevor die frühe Winterdämmerung endgültig einsetzt.",
+                "hu": "Zárd a túrát ezen a védett ponton; a templom barátságos fényei kellemes fogadtatást nyújtanak, mielőtt a korai téli szürkület végleg leszállna.",
+                "ro": "Încheiați turul în acest punct ferit; luminile calde ale bisericii sunt o primire plăcută înainte ca amurgul timpuriu de iarnă să se lase definitiv.",
+                "en": "End your tour at this sheltered spot; the church's warm lights are a welcome sight before the early winter twilight settles in completely."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós túrája Moena elegáns önkormányzati szívéből indul, ízelítőt adva a helyi kultúrából. Gyorsan emelkedjen fel egy csodálatos természetes kilátóponthoz, amely páratlan panorámát nyújt a Dolomitokra. A déli órák tökéletesek a történelmi alpesi erődítmények felfedezésére. Egy gyors autózás után fedezze fel Soraga hangulatos központját, és késő délután érkezzen meg egy gyönyörű, elszigetelt kápolnához.",
         "ro": "Turul dvs. cu mașina pornește din inima municipală elegantă a orașului Moena, oferindu-vă o mostră din cultura locală. Urcați rapid la un punct de belvedere natural magnific, oferind o panoramă inegalabilă asupra Dolomiților. Orele prânzului sunt perfecte pentru explorarea fortificațiilor alpine istorice. După un scurt drum, descoperiți centrul pitoresc din Soraga, ajungând în cele din urmă la o capelă izolată frumoasă.",
         "en": "Your driving tour launches from the elegant municipal heart of Moena, giving you a taste of the local culture. Quickly ascend to a magnificent natural viewpoint, offering an unparalleled panorama of the Dolomites. The midday hours are perfect for exploring historic alpine fortifications nearby. After a quick drive, discover the quaint administrative and spiritual centers of Soraga, finally arriving at a beautiful, isolated chapel by late afternoon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt im Regen bietet den Komfort, trocken zu bleiben, während Sie Moena und Soraga erkunden. Vormittags besuchen Sie Museen, die bei jedem Wetter zugänglich sind. Mittags fahren Sie zum Piz Meda, wo die Wolken tief hängen und eine mystische Stimmung erzeugen. Der Nachmittag führt Sie zu historischen Forts und Kirchen. Abends genießen Sie die Fahrt durch das neblige, beleuchtete Tal.",
+            "hu": "Az esős autós kirándulás kényelmet és szárazságot biztosít Moena és Soraga felfedezése közben. Délelőtt a könnyen elérhető múzeumokat látogatjuk meg. Délben felautózunk a Piz Medához, ahol az alacsonyan szálló felhők misztikus hangulatot árasztanak. A délutáni órákban történelmi erődöket és templomokat keresünk fel. Estére a völgy ködös, fénylő útjai teszik teljessé az élményt.",
+            "ro": "O excursie cu mașina pe ploaie oferă confortul de a rămâne uscat în timp ce explorați Moena și Soraga. Dimineața vizităm muzee ușor accesibile. La prânz, urcăm spre Piz Meda, unde norii joși creează o atmosferă mistică. După-amiaza este dedicată forturilor și bisericilor istorice. Seara, bucurați-vă de condusul prin valea cețoasă și frumos luminată.",
+            "en": "A rainy car trip offers the comfort of staying dry while exploring Moena and Soraga. In the morning, visit easily accessible museums regardless of the weather. At noon, drive to Piz Meda, where low-hanging clouds create a mystical mountain atmosphere. The afternoon is dedicated to historic forts and churches. By evening, enjoy driving through the misty, beautifully lit valley roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Moena",
+                "hu": "Comune di Moena",
+                "ro": "Comune di Moena",
+                "en": "Comune di Moena"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und betrachten Sie das Rathaus; die nassen Fassadenfarben wirken im Regen oft kräftiger und fotogener.",
+                "hu": "Parkolj kényelmesen a közelben és nézd meg a városházát; a vizes homlokzat színei esőben gyakran élénkebbnek és fotogénebbnek tűnnek.",
+                "ro": "Parcați confortabil în apropiere și admirați primăria; culorile fațadei umede par adesea mai intense și mai fotogenice pe timp de ploaie.",
+                "en": "Park conveniently nearby and view the town hall; the wet facade colors often appear more vibrant and photogenic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Piz Meda",
+                "hu": "Piz Meda",
+                "ro": "Piz Meda",
+                "en": "Piz Meda"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt bergauf bietet tolle Ausblicke aus dem trockenen Auto; oben angekommen, erleben Sie die dramatische Wolkenstimmung über den Dolomiten.",
+                "hu": "A felfelé vezető út során élvezd a kilátást a száraz autóból; a csúcsra érve éld át a Dolomitok felett kavargó drámai felhők látványát.",
+                "ro": "Drumul în urcare oferă priveliști superbe din mașina uscată; odată ajunși sus, experimentați atmosfera dramatică a norilor deasupra Dolomiților.",
+                "en": "The drive up offers great views from the dry car; once at the top, experience the dramatic cloud formations swirling over the Dolomites."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Someda",
+                "hu": "Forte Someda",
+                "ro": "Forte Someda",
+                "en": "Forte Someda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Parkplatz zum Fort; die massiven Steine erzählen bei Regen eine besonders düstere und authentische Geschichte.",
+                "hu": "Használd ki a parkolótól az erődig tartó rövid sétát; a vizes, masszív kövek esőben különösen komor és hiteles hangulatot árasztanak.",
+                "ro": "Profitați de drumul scurt de la parcare la fort; pietrele masive și umede spun o poveste deosebit de sumbră și autentică pe timp de ploaie.",
+                "en": "Take advantage of the short walk from the parking area to the fort; the wet, massive stones exude an especially somber and authentic aura."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Soraga",
+                "hu": "Municipio di Soraga",
+                "ro": "Municipio di Soraga",
+                "en": "Municipio di Soraga"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Stopp im Herzen von Soraga; bewundern Sie das Rathaus und die umliegende alpine Architektur gemütlich aus dem Fenster oder bei einer kurzen Regenpause.",
+                "hu": "Kellemes megálló Soraga szívében; csodáld meg a városházát és a környék alpesi házait az autó ablakából vagy egy rövid esőszünetben.",
+                "ro": "O oprire relaxată în inima satului Soraga; admirați primăria și arhitectura alpină din jur confortabil din mașină sau într-o scurtă pauză de ploaie.",
+                "en": "A relaxed stop in the heart of Soraga; admire the town hall and surrounding alpine architecture from your car window or during a brief break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Pietro e Paolo",
+                "hu": "Chiesa dei Santi Pietro e Paolo",
+                "ro": "Chiesa dei Santi Pietro e Paolo",
+                "en": "Chiesa dei Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in der Kirche Schutz vor dem Wetter; das prachtvolle Innere bietet einen wunderbaren Kontrast zum grauen Regentag draußen.",
+                "hu": "Keress menedéket a templomban az időjárás elől; a pompás belső tér csodálatos kontrasztot alkot a kinti szürke, esős nappallal.",
+                "ro": "Căutați adăpost în biserică împotriva vremii; interiorul somptuos oferă un contrast minunat cu ziua cenușie și ploioasă de afară.",
+                "en": "Seek shelter from the weather inside the church; the magnificent interior provides a wonderful contrast to the grey, rainy day outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Nepomuceno",
+                "hu": "Chiesa di San Giovanni Nepomuceno",
+                "ro": "Chiesa di San Giovanni Nepomuceno",
+                "en": "Chiesa di San Giovanni Nepomuceno"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre Tour mit diesem geschützten Juwel ab; die Fahrt zurück zum Ausgangspunkt führt durch die erfrischte, nasse Natur.",
+                "hu": "Zárd a túrát ezzel a védett kis ékszerdobozzal; a visszavezető út a kiindulópontig a felfrissült, vizes természetben vezet keresztül.",
+                "ro": "Încheiați turul cu această mică bijuterie protejată; drumul de întoarcere spre punctul de plecare trece prin natura revigorată de ploaie.",
+                "en": "Conclude your tour with this sheltered gem; the drive back to the starting point takes you through the refreshed, rain-soaked landscape."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch das verschneite Fassatal ist ein komfortables Erlebnis. Vormittags besuchen Sie Moenas Wahrzeichen bei angenehmer Wärme im Wagen. Mittags führt die Fahrt zum Piz Meda, wo Winterreifen für die schneebedeckten Gipfelstraßen unerlässlich sind. Der Nachmittag bietet geschichtsträchtige Stopps, bevor die Dämmerung um 17:00 Uhr einsetzt. Der Abend endet bei einer gemütlichen Fahrt durch das festlich beleuchtete Tal.",
+            "hu": "A téli autózás a hófödte Fassa-völgyben kényelmes és biztonságos élmény. Délelőtt Moena jelképeit keressük fel a fűtött utastér melegéből. Délben a Piz Medához hajtunk, ahol a téli gumi elengedhetetlen a havas hegyi utakon. A délután történelmi állomásokat tartogat, mielőtt 17:00-kor leszállna az éj. Az estét a völgy ünnepi fényeiben való autózás teszi varázslatossá.",
+            "ro": "O călătorie cu mașina prin valea Fassa înzăpezită este o experiență confortabilă și sigură. Dimineața vizităm simbolurile orașului Moena din căldura mașinii. La prânz, urcăm spre Piz Meda, unde anvelopele de iarnă sunt esențiale pe drumurile alpine. După-amiaza oferă opriri istorice înainte de lăsarea serii la ora 17:00. Seara se încheie cu o plimbare prin valea luminată festiv.",
+            "en": "A winter drive through the snow-covered Fassa Valley is a comfortable and safe experience. In the morning, visit Moena's landmarks while staying warm inside your car. At noon, head to Piz Meda, where winter tires are essential for the snowy mountain roads. The afternoon holds historical stops before darkness falls at 17:00. The evening is made magical by driving through the festively lit valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Moena",
+                "hu": "Comune di Moena",
+                "ro": "Comune di Moena",
+                "en": "Comune di Moena"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das winterliche Rathaus direkt vom Parkplatz aus; der Kontrast zwischen den warmen Fassadenfarben und dem weißen Schnee ist herrlich.",
+                "hu": "Csodáld meg a téli városházát közvetlenül a parkolóból; a homlokzat meleg színei és a fehér hó közötti kontraszt egyszerűen gyönyörű.",
+                "ro": "Admirați primăria iernatică direct din parcare; contrastul dintre culorile calde ale fațadei și zăpada albă este de-a dreptul superb.",
+                "en": "Admire the winter town hall directly from the parking area; the contrast between the warm facade colors and the white snow is simply beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Piz Meda",
+                "hu": "Piz Meda",
+                "ro": "Piz Meda",
+                "en": "Piz Meda"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die Serpentinen hinauf; oben erwartet Sie eine atemberaubende, tief verschneite Gipfelwelt, die im Winterlicht magisch funkelt.",
+                "hu": "Hajts óvatosan a szerpentineken; a csúcson lélegzetelállító, mély hóval borított világ vár, amely varázslatosan csillog a téli napsütésben.",
+                "ro": "Conduceți cu atenție pe serpentine; sus vă așteaptă o lume montană spectaculoasă, acoperită de zăpadă, care sclipește magic în lumina iernii.",
+                "en": "Drive carefully up the switchbacks; at the summit, a breathtaking world of deep snow awaits, sparkling magically in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Someda",
+                "hu": "Forte Someda",
+                "ro": "Forte Someda",
+                "en": "Forte Someda"
+              },
+              "tip_5lang": {
+                "de": "Die alte Festung wirkt im Schnee besonders imposant; nutzen Sie die kurzen Wege und genießen Sie die Stille der winterlichen Geschichte in den Bergen.",
+                "hu": "A régi erőd különösen impozáns látványt nyújt a hóban; használd ki a rövid sétát, és élvezd a hegyek téli, történelmi csendjét.",
+                "ro": "Vechea fortăreață arată deosebit de impunător în zăpadă; profitați de drumul scurt și savurați liniștea istorică a munților pe timp de iarnă.",
+                "en": "The old fortress looks especially imposing in the snow; take the short walk and enjoy the quiet, historical winter atmosphere of the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Soraga",
+                "hu": "Municipio di Soraga",
+                "ro": "Municipio di Soraga",
+                "en": "Municipio di Soraga"
+              },
+              "tip_5lang": {
+                "de": "Ein Halt in Soraga ist im Winter ein Muss; das beleuchtete Dorfzentrum rund um das Rathaus strahlt eine wunderbare, alpine Gemütlichkeit aus.",
+                "hu": "Egy megálló Soragában télen kötelező; a városháza körüli kivilágított faluközpont csodálatos alpesi meghittséget és nyugalmat áraszt.",
+                "ro": "O oprire în Soraga este obligatorie iarna; centrul luminat al satului din jurul primăriei emană o ospitalitate alpină minunată.",
+                "en": "A stop in Soraga is a must in winter; the lit village center around the town hall radiates a wonderful sense of alpine coziness."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Pietro e Paolo",
+                "hu": "Chiesa dei Santi Pietro e Paolo",
+                "ro": "Chiesa dei Santi Pietro e Paolo",
+                "en": "Chiesa dei Santi Pietro e Paolo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah bei der Kirche und genießen Sie die Wärme im Inneren; die barocken Altäre strahlen im Winter eine besondere Geborgenheit aus.",
+                "hu": "Parkolj közel a templomhoz és élvezd a benti meleget; a barokk oltárok télen különleges biztonságot és nyugalmat sugároznak.",
+                "ro": "Parcați aproape de biserică și bucurați-vă de căldura din interior; altarele baroce par să ofere o protecție specială pe timp de iarnă.",
+                "en": "Park close to the church and enjoy the warmth inside; the Baroque altars seem to radiate a special sense of sanctuary during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Nepomuceno",
+                "hu": "Chiesa di San Giovanni Nepomuceno",
+                "ro": "Chiesa di San Giovanni Nepomuceno",
+                "en": "Chiesa di San Giovanni Nepomuceno"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag an dieser kleinen Kapelle; das warme Licht und die winterliche Ruhe sind der perfekte Abschluss vor der Heimfahrt.",
+                "hu": "Zárd a napot ennél a kis kápolnánál; a meleg fények és a téli csend tökéletes befejezést jelentenek a hazavezető út előtt.",
+                "ro": "Încheiați ziua la această mică capelă; luminile calde și liniștea iernii sunt finalul perfect înainte de drumul spre casă.",
+                "en": "End your day at this small chapel; the warm lights and winter silence are the perfect conclusion before your drive home."
+              }
+            }
+          ]
+        }
       }
     }
   }

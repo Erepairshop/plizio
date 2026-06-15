@@ -160,6 +160,196 @@
         "hu": "Kezdje sétáját a kikötő közelében, megcsodálva a műemlékeket és a város ősi alapjait.\n\nDélben fedezze fel a masszív Kerek Tornyot, mielőtt elmerülne a helyi hagyományokban a Cyprus House-ban.\n\nDélután csodálja meg a sziklasírokat, majd látogasson el a híres hajóroncs múzeumba.\n\nEste élvezze a naplementét a történelmi kikötő falainál, és elmélkedjen Kyrenia gazdag tengeri múltján.",
         "ro": "Începeți plimbarea lângă port, admirând monumentele și fundațiile antice ale orașului.\n\nLa amiază, explorați robustul Turn Rotund înainte de a vă cufunda în tradițiile locale la Cyprus House.\n\nDupă-amiaza, minunați-vă de mormintele din stâncă și vizitați renumitul muzeu al epavei.\n\nSeara, bucurați-vă de apusul soarelui la zidurile istorice ale portului, reflectând asupra trecutului maritim al Kyreniei.",
         "en": "Start your walk near the harbor, admiring the monuments and ancient foundations of the city.\n\nAt midday, explore the sturdy Round Tower before diving into local traditions at the Cyprus House.\n\nIn the afternoon, marvel at the ancient rock graves and visit the renowned Shipwreck museum.\n\nIn the evening, enjoy the sunset by the historic harbor walls, reflecting on Kyrenia's rich maritime past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Denkmal mit einem Schirm. Die Altstadtgassen können bei Regen rutschig sein, daher ist Vorsicht geboten. Mittags bieten die Museen im Hafen einen trockenen Rückzugsort. Den Nachmittag verbringen wir in den dicken Mauern der Festung, wo das Schiffswrack-Museum Schutz bietet. Abends glänzt der Hafen im Regenlicht, ideal für einen kurzen Spaziergang unter Arkaden.",
+            "hu": "Kezdje a napot az Atatürk-emlékműnél, esernyővel felszerelkezve. Az óváros macskaköves utcái esőben csúszósak, így lépkedjen óvatosan. Délben a kikötő múzeumai nyújtanak száraz menedéket a záporok elől. A délutánt a vár vastag falai között, a hajóroncs-múzeumban töltheti biztonságban. Este a vizes aszfalton megcsillanó fények különleges hangulatot adnak a kikötői sétának.",
+            "ro": "Începeți ziua la monument cu o umbrelă pregătită. Străzile înguste pot fi alunecoase când plouă, așa că mergeți cu atenție. La prânz, muzeele din port oferă un refugiu uscat și interesant. Petreceți după-amiaza între zidurile groase ale cetății, unde Muzeul Naufragiului vă protejează de ploaie. Seara, luminile portului reflectate în apă creează o atmosferă magică pentru o scurtă plimbare.",
+            "en": "Start your day at the monument with a sturdy umbrella. The old town streets get slippery in the rain, so watch your step on the cobblestones. By noon, the harbor's museums provide a dry haven from the showers. Spend the afternoon inside the thick fortress walls at the Shipwreck Museum. In the evening, the harbor lights reflecting on wet surfaces create a cinematic atmosphere for a stroll."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Atatürk Anıtı",
+                "hu": "Atatürk Anıtı",
+                "ro": "Atatürk Anıtı",
+                "en": "Atatürk Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp am Denkmal; achten Sie auf Pfützen auf dem Platz und tragen Sie wasserfeste Schuhe für den Start.",
+                "hu": "Gyors fotómegálló az emlékműnél; ügyeljen a téren kialakuló tócsákra, és viseljen vízálló cipőt a városnézéshez.",
+                "ro": "O oprire rapidă pentru poze la monument; atenție la bălțile din piață și purtați încălțăminte impermeabilă la început.",
+                "en": "A quick photo stop at the monument; watch out for puddles in the square and wear waterproof shoes to start your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                "hu": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                "ro": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                "en": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Ruinen zwischen den Regenschauern; die Felsen sind bei Nässe extrem rutschig, Vorsicht beim Gehen.",
+                "hu": "Fedezze fel az ókori romokat a záporok között; a sziklák nedvesen rendkívül csúszósak, óvatosan járjon a területen.",
+                "ro": "Explorați ruinele antice între reprizele de ploaie; stâncile sunt extrem de alunecoase când sunt ude, mergeți cu mare grijă.",
+                "en": "Explore the ancient ruins between the showers; the rocks are extremely slippery when wet, so walk with great caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Round Tower",
+                "hu": "Round Tower",
+                "ro": "Round Tower",
+                "en": "Round Tower"
+              },
+              "tip_5lang": {
+                "de": "Dieser massive Turm bietet perfekten Schutz vor starkem Regen; genießen Sie die historische Atmosphäre im trockenen Inneren.",
+                "hu": "Ez a masszív torony tökéletes védelmet nyújt a heves esőzés ellen; élvezze a történelmi hangulatot a száraz belső térben.",
+                "ro": "Acest turn masiv oferă protecție perfectă împotriva ploii abundente; bucurați-vă de atmosfera istorică în interiorul uscat.",
+                "en": "This massive tower offers perfect shelter from heavy rain; enjoy the historical atmosphere within its dry, stone interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Cyprus Housr",
+                "hu": "Cyprus Housr",
+                "ro": "Cyprus Housr",
+                "en": "Cyprus Housr"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für regnerische Mittage; bewundern Sie traditionelles Handwerk in den gemütlichen, überdachten Räumen des Hauses.",
+                "hu": "Ideális helyszín esős délidőben; csodálja meg a hagyományos kézműves tárgyakat a ház hangulatos, fedett helyiségeiben.",
+                "ro": "Locul ideal pentru prânzurile ploioase; admirați obiectele de artizanat tradițional în interiorul primitor și protejat.",
+                "en": "An ideal location for rainy middays; admire traditional handicrafts inside the cozy, sheltered rooms of this historic house."
+              }
+            },
+            {
+              "name": {
+                "de": "Greko-Roman rock graves",
+                "hu": "Greko-Roman rock graves",
+                "ro": "Greko-Roman rock graves",
+                "en": "Greko-Roman rock graves"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Gräber aus der Ferne, wenn der Boden zu matschig ist; die in den Fels gehauene Kunst wirkt im Regen dramatisch.",
+                "hu": "Nézze meg a sírokat távolabbról, ha a talaj túl sáros; a sziklába vájt művészet esőben különösen drámai látványt nyújt.",
+                "ro": "Vizitați mormintele de la distanță dacă solul este prea noroios; arta sculptată în stâncă are un aspect dramatic pe ploaie.",
+                "en": "View the graves from a distance if the ground is too muddy; the rock-cut art looks particularly dramatic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Shipwreck museum",
+                "hu": "Shipwreck museum",
+                "ro": "Shipwreck museum",
+                "en": "Shipwreck museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum in der Burg ist der beste trockene Zufluchtsort; erkunden Sie das antike Wrack, ohne nass zu werden.",
+                "hu": "A várban található múzeum a legjobb száraz menedék; fedezze fel az ókori hajóroncsot anélkül, hogy elázna a kinti esőben.",
+                "ro": "Muzeul din interiorul cetății este cel mai bun refugiu uscat; explorați epava antică fără a vă uda în ploaia de afară.",
+                "en": "The museum inside the castle is the best dry refuge; explore the ancient shipwreck without getting wet in the outside rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Winterluft am Morgen ist erfrischend für den Start am Atatürk-Denkmal. Ein zügiger Spaziergang durch die archäologischen Stätten hält warm. Mittags bieten die Museen eine angenehme Pause von der Meeresbrise. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie die Festung am frühen Nachmittag besuchen. Abends lockt die beleuchtete Altstadt mit ihrer gemütlichen Winterruhe.",
+            "hu": "A friss téli reggeli levegő élénkítően hat az Atatürk-emlékműnél. Egy tempós séta a régészeti helyszíneken segít melegen maradni. Délben a múzeumok kellemes pihenőt nyújtanak a tengeri szél elől. Mivel a nap 17:00 körül nyugszik, érdemes a várat kora délután meglátogatni. Este a kivilágított óváros csendes, meghitt téli nyugalmával várja a sétálókat.",
+            "ro": "Aerul proaspăt de iarnă este revigorant pentru începutul zilei la monument. O plimbare vioaie prin siturile arheologice vă va ține de cald. La prânz, muzeele oferă o pauză plăcută de briza rece a mării. Deoarece soarele apune în jur de ora 17:00, vizitați cetatea devreme. Seara, orașul vechi luminat vă întâmpină cu o atmosferă liniștită și primitoare.",
+            "en": "The crisp winter morning air is refreshing for your start at the Atatürk monument. A brisk walk through archaeological sites helps keep you warm. At noon, museums offer a pleasant break from the sea breeze. Since the sun sets around 17:00, visit the fortress in the early afternoon. In the evening, the illuminated old town awaits with its quiet winter charm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Atatürk Anıtı",
+                "hu": "Atatürk Anıtı",
+                "ro": "Atatürk Anıtı",
+                "en": "Atatürk Anıtı"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht ist ideal für Fotos; tragen Sie mehrere Schichten Kleidung gegen den kühlen Morgenwind am Platz.",
+                "hu": "A tiszta téli fény ideális a fotózáshoz; öltözzön rétegesen a téren fújó hűvös reggeli szél ellen a városnézés kezdetén.",
+                "ro": "Lumina clară de iarnă este ideală pentru fotografii; purtați haine stratificate împotriva vântului rece de dimineață din piață.",
+                "en": "The clear winter light is ideal for photography; wear layered clothing against the cool morning wind in the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                "hu": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                "ro": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                "en": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruinen ohne die Sommerhitze; die tiefstehende Wintersonne wirft faszinierende Schatten auf die alten Steine.",
+                "hu": "Élvezze a romokat a nyári hőség nélkül; az alacsonyan járó téli nap lenyűgöző árnyékokat vet az ősi kövekre a területen.",
+                "ro": "Bucurați-vă de ruine fără căldura verii; soarele jos de iarnă creează umbre fascinante pe pietrele antice din sit.",
+                "en": "Enjoy the ruins without the summer heat; the low winter sun casts fascinating shadows on the ancient stones throughout the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Round Tower",
+                "hu": "Round Tower",
+                "ro": "Round Tower",
+                "en": "Round Tower"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Wärme; ein gemütlicher Stopp, um sich auf halbem Weg durch die Stadt aufzuwärmen.",
+                "hu": "A vastag falak jól tartják a hőt; hangulatos megálló, hogy kicsit felmelegedjen a városi séta felénél a hideg szél után.",
+                "ro": "Zidurile groase rețin căldura; o oprire primitoare pentru a vă încălzi puțin la jumătatea plimbării prin orașul vechi.",
+                "en": "The thick stone walls retain heat well; a cozy stop to warm up midway through your city walk after the cold sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Cyprus Housr",
+                "hu": "Cyprus Housr",
+                "ro": "Cyprus Housr",
+                "en": "Cyprus Housr"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über das traditionelle zyprische Leben im Winter; die Innenräume sind windgeschützt und sehr einladend.",
+                "hu": "Ismerje meg a hagyományos ciprusi életmódot télen; a belső terek szélvédettek és nagyon barátságosak a hideg napokon.",
+                "ro": "Aflați despre viața tradițională cipriotă pe timp de iarnă; interioarele sunt ferite de vânt și foarte primitoare.",
+                "en": "Learn about traditional Cypriot life in winter; the interiors are sheltered from the wind and very inviting on cold days."
+              }
+            },
+            {
+              "name": {
+                "de": "Greko-Roman rock graves",
+                "hu": "Greko-Roman rock graves",
+                "ro": "Greko-Roman rock graves",
+                "en": "Greko-Roman rock graves"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen zügigen Spaziergang am Nachmittag; die klare Sicht ermöglicht einen tollen Blick auf das ferne Meer.",
+                "hu": "Tökéletes egy tempós délutáni sétához; a tiszta téli látási viszonyok révén remek kilátás nyílik a távoli tengerre.",
+                "ro": "Perfect pentru o plimbare vioaie de după-amiază; vizibilitatea clară de iarnă oferă o priveliște excelentă spre mare.",
+                "en": "Perfect for a brisk afternoon walk; the clear winter visibility allows for a great view of the distant Mediterranean sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Shipwreck museum",
+                "hu": "Shipwreck museum",
+                "ro": "Shipwreck museum",
+                "en": "Shipwreck museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang hier vor Einbruch der Dunkelheit; die klimatisierte Halle bietet Schutz vor der Abendkälte.",
+                "hu": "Fejezze be a körutat itt még sötétedés előtt; a klimatizált csarnok védelmet nyújt az esti lehűlés és a szél ellen.",
+                "ro": "Încheiați turul aici înainte de lăsarea întunericului; sala climatizată oferă protecție împotriva frigului de seară.",
+                "en": "Finish your tour here before dark; the climate-controlled hall provides protection from the evening chill and wind."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpározzon reggel a békés Phaneromeni templomtól a modern Ciprust formáló monumentális nevezetességekig.\n\nDélben érkezzen meg a középkori Kerek Toronyhoz, hogy felfedezze a város lenyűgöző építészeti örökségét.\n\nDélután tekerjen el a híres hajóroncs múzeumhoz, és böngésszen kortárs műveket a helyi művészeti galériában.\n\nZárja útját a fenséges amfiteátrumnál, élvezve a panorámát, miközben lassan leszáll az est.",
         "ro": "Pedalați dimineața de la serena Biserică Phaneromeni către reperele monumentale care modelează Ciprul modern.\n\nAjungeți la amiază la Turnul Rotund medieval pentru a descoperi moștenirea arhitecturală robustă a orașului.\n\nPedalați după-amiaza către faimosul muzeu al epavei și răsfoiți piese contemporane la galeria locală de artă.\n\nÎncheiați-vă plimbarea la maiestuosul amfiteatru, bucurându-vă de vederi panoramice pe măsură ce se lasă amurgul.",
         "en": "Cycle in the morning from the serene Phaneromeni Church to the monumental landmarks shaping modern Cyprus.\n\nArrive at midday at the medieval Round Tower to discover the city's robust architectural heritage.\n\nPedal in the afternoon to the famous Shipwreck museum and browse contemporary pieces at the local art gallery.\n\nConclude your ride at the majestic amphitheater, enjoying panoramic views as dusk settles over the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht an der Phaneromeni-Kirche. Die Straßen zum Denkmal können glatt sein, fahren Sie langsam. Mittags bieten der Turm und das Museum trockene Pausen für Radfahrer. Nachmittags ist die Kunstgalerie ein perfekter Ort, um das Fahrrad zu parken und drinnen zu bleiben. Beenden Sie die Tour am Amphitheater, wenn der Regen nachlässt, und achten Sie auf Pfützen.",
+            "hu": "Az esős bringázás óvatosságot igényel a Phaneromeni templomnál. Az emlékmű felé vezető utak csúszósak lehetnek, tekerjen lassan. Délben a torony és a múzeum kínál száraz pihenőt a kerékpárosoknak. Délután a művészeti galéria tökéletes hely a bringa leparkolására és a benti nézelődésre. Az amfiteátrumnál fejezze be a túrát, ügyelve a vizes lelátókra.",
+            "ro": "Ciclismul pe ploaie necesită prudență la Biserica Phaneromeni. Drumurile spre monument pot fi alunecoase, pedalați încet. La prânz, turnul și muzeul oferă pauze uscate pentru bicicliști. După-amiaza, galeria de artă este locul perfect pentru a parca bicicleta și a rămâne în interior. Încheiați turul la amfiteatru, fiind atenți la bălți și suprafețele umede.",
+            "en": "Cycling in the rain requires caution near Phaneromeni Church. Roads to the monument can be slick, so pedal slowly. At noon, the tower and museum offer dry breaks for cyclists. In the afternoon, the art gallery is the perfect place to park your bike and stay indoors. Finish the tour at the amphitheater as the rain eases, but watch out for wet surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phaneromeni Church",
+                "hu": "Phaneromeni Church",
+                "ro": "Phaneromeni Church",
+                "en": "Phaneromeni Church"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen; bewundern Sie die Fassade kurz, bevor Sie schnell zum nächsten trockenen Punkt radeln.",
+                "hu": "Ellenőrizze a fékeket az esős indulás előtt; csodálja meg a homlokzatot, mielőtt gyorsan a következő száraz pont felé tekerne.",
+                "ro": "Verificați frânele înainte de a pleca pe ploaie; admirați fațada scurt înainte de a pedala spre următorul punct uscat.",
+                "en": "Check your brakes before starting in the rain; admire the facade briefly before cycling to the next dry point quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Dr. Fazıl Küçük Monument",
+                "hu": "Dr. Fazıl Küçük Monument",
+                "ro": "Dr. Fazıl Küçük Monument",
+                "en": "Dr. Fazıl Küçük Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; halten Sie Ihr Regenzeug fest und achten Sie auf vorbeifahrende Autos, die Wasser aufspritzen könnten.",
+                "hu": "Rövid megálló egy fotóra; tartsa szorosan az esőkabátját, és figyeljen a vizet felverő autókra az emlékmű környékén.",
+                "ro": "O oprire scurtă pentru o poză; țineți bine pelerina de ploaie și atenție la mașinile care pot stropi cu apă în jur.",
+                "en": "A short stop for a photo; keep your rain gear tight and watch out for passing cars splashing water near the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Round Tower",
+                "hu": "Round Tower",
+                "ro": "Round Tower",
+                "en": "Round Tower"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vorsprung und nutzen Sie diesen massiven Turm, um sich komplett abzutrocknen und aufzuwärmen.",
+                "hu": "Parkolja le a bringát egy eresztélék alá, és használja ezt a masszív tornyot a teljes megszáradáshoz és melegedéshez.",
+                "ro": "Parcați bicicleta sub o streașină și folosiți acest turn masiv pentru a vă usca complet și a vă încălzi puțin.",
+                "en": "Park your bike under an overhang and use this massive tower as a place to dry off completely and warm up for a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Shipwreck museum",
+                "hu": "Shipwreck museum",
+                "ro": "Shipwreck museum",
+                "en": "Shipwreck museum"
+              },
+              "tip_5lang": {
+                "de": "Tief in der Burg gelegen, ist dies der beste Schutz vor Sturm; lassen Sie sich Zeit, während es draußen regnet.",
+                "hu": "A vár mélyén található, így ez a legjobb védelem a vihar ellen; szánjon bőséges időt a látogatásra, amíg kint esik.",
+                "ro": "Situat adânc în cetate, acesta este cel mai bun adăpost contra furtunii; acordați timp vizitei cât timp plouă afară.",
+                "en": "Located deep within the castle, this is the best protection from the storm; take your time while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Istanbul Art Gallery",
+                "hu": "Istanbul Art Gallery",
+                "ro": "Istanbul Art Gallery",
+                "en": "Istanbul Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein ausgezeichneter Indoor-Stopp, um moderne Kunst zu sehen, während es gießt; der perfekte Ort für eine längere Pause.",
+                "hu": "Kiváló beltéri megálló, ahol modern művészetet láthat, amíg odakint szakad az eső; tökéletes hely egy hosszabb pihenőre.",
+                "ro": "O excelentă oprire în interior pentru a vedea artă modernă în timp ce plouă torențial; locul perfect pentru o pauză.",
+                "en": "An excellent indoor stop to see modern art while it pours outside; the perfect place for a longer, dry break."
+              }
+            },
+            {
+              "name": {
+                "de": "Girne Belediyesi Anfitiyatro",
+                "hu": "Girne Belediyesi Anfitiyatro",
+                "ro": "Girne Belediyesi Anfitiyatro",
+                "en": "Girne Belediyesi Anfitiyatro"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die nassen Stufen beim Erkunden; das Bauwerk wirkt im Regen sehr majestätisch, aber gehen Sie vorsichtig.",
+                "hu": "Ügyeljen a vizes lépcsőkre a felfedezés közben; az építmény esőben is fenséges, de csak óvatosan sétáljon fel rá.",
+                "ro": "Atenție la treptele umede în timp ce explorați; structura arată maiestuos pe ploaie, dar mergeți cu mare prudență.",
+                "en": "Watch out for the wet steps while exploring; the structure looks majestic in the rain, but walk with great caution."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kühle Brise an der Phaneromeni-Kirche ist ideal für einen aktiven Start. Die Fahrt zum Denkmal ist im Winter weniger anstrengend. Mittags bieten der Turm und das Schiffswrack-Museum Schutz vor dem kühlen Seewind. Am Nachmittag lockt die Kunstgalerie mit hellen Innenräumen. Besuchen Sie das Amphitheater vor 17:00 Uhr, um das letzte Tageslicht auf dem Rad zu nutzen.",
+            "hu": "A hűvös szellő a Phaneromeni templomnál ideális az aktív kezdéshez. Az emlékmű felé tekerés télen kevésbé megterhelő. Délben a torony és a hajóroncs-múzeum nyújt védelmet a hűvös tengeri szél elől. Délután a művészeti galéria világos belső terei hívogatnak. Az amfiteátrumot 17:00 előtt látogassa meg, hogy kihasználja az utolsó fényeket.",
+            "ro": "O briză rece la Biserica Phaneromeni este ideală pentru un început activ. Pedalatul spre monument este mai puțin obositor iarna. La prânz, turnul și muzeul oferă adăpost de vântul rece al mării. După-amiaza, galeria de artă vă atrage cu interioarele sale luminoase. Vizitați amfiteatrul înainte de ora 17:00 pentru a profita de lumină.",
+            "en": "A cool breeze at Phaneromeni Church is ideal for an active start. Cycling to the monument is less taxing in winter. At noon, the tower and shipwreck museum provide shelter from the chilly sea wind. In the afternoon, the art gallery’s bright interiors are very inviting. Visit the amphitheater before 17:00 to catch the last daylight on your bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phaneromeni Church",
+                "hu": "Phaneromeni Church",
+                "ro": "Phaneromeni Church",
+                "en": "Phaneromeni Church"
+              },
+              "tip_5lang": {
+                "de": "Ruhige Wintermorgen-Atmosphäre; tragen Sie Handschuhe beim Radfahren, da der Wind am Morgen noch recht beißend sein kann.",
+                "hu": "Csendes téli reggeli hangulat; viseljen kesztyűt a bringázáshoz, mert a reggeli szél még elég metsző lehet a templomnál.",
+                "ro": "Atmosferă liniștită de dimineață de iarnă; purtați mănuși pe bicicletă, deoarece vântul poate fi destul de tăios dimineața.",
+                "en": "Quiet winter morning atmosphere; wear gloves while cycling, as the morning wind can still be quite biting near the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Dr. Fazıl Küçük Monument",
+                "hu": "Dr. Fazıl Küçük Monument",
+                "ro": "Dr. Fazıl Küçük Monument",
+                "en": "Dr. Fazıl Küçük Monument"
+              },
+              "tip_5lang": {
+                "de": "Klare Sicht auf die fernen Berge; die Luft ist sehr frisch, ideal für einen kurzen Halt und ein paar tiefe Atemzüge.",
+                "hu": "Tiszta kilátás a távoli hegyekre; a levegő nagyon friss, ideális egy rövid megállóra és néhány mély lélegzetvételre itt.",
+                "ro": "Vedere clară spre munții îndepărtați; aerul este foarte proaspăt, ideal pentru o scurtă oprire și câteva respirații adânce.",
+                "en": "Clear views of the distant mountains; the air is very fresh, ideal for a short stop and a few deep breaths during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Round Tower",
+                "hu": "Round Tower",
+                "ro": "Round Tower",
+                "en": "Round Tower"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher historischer Stopp; das Innere ist vor dem Wind geschützt und bietet eine gute Pause vom Radfahren.",
+                "hu": "Hangulatos történelmi megálló; a belső tér védett a széltől, és remek pihenőt kínál a bringázás után a hidegben.",
+                "ro": "O oprire istorică primitoare; interiorul este protejat de vânt și oferă o pauză bună de la pedalat prin aerul rece.",
+                "en": "A cozy historical stop; the interior is sheltered from the wind and offers a good break from cycling in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Shipwreck museum",
+                "hu": "Shipwreck museum",
+                "ro": "Shipwreck museum",
+                "en": "Shipwreck museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier mehr Zeit, um der kühlen Brise im Freien zu entgehen; die Atmosphäre in der Burg ist im Winter sehr ruhig.",
+                "hu": "Töltsön itt több időt, hogy elkerülje a kinti hűvös fuvallatokat; a vár hangulata télen kifejezetten nyugodt és csendes.",
+                "ro": "Petreceți mai mult timp aici pentru a evita briza rece de afară; atmosfera cetății este foarte liniștită pe timp de iarnă.",
+                "en": "Spend more time here to avoid the chilly outdoor breeze; the castle's atmosphere is remarkably peaceful during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Istanbul Art Gallery",
+                "hu": "Istanbul Art Gallery",
+                "ro": "Istanbul Art Gallery",
+                "en": "Istanbul Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Heller Innenraum, ideal für eine wärmende Kulturpause; parken Sie Ihr Rad sicher am Eingang und genießen Sie die Kunst.",
+                "hu": "Világos belső tér, remek egy melengető kulturális pihenőhöz; parkolja le a bringát a bejáratnál, és élvezze a kiállítást.",
+                "ro": "Spațiu interior luminos, excelent pentru o pauză culturală; parcați bicicleta la intrare și bucurați-vă de artă la căldură.",
+                "en": "Bright indoor space, great for a warming cultural break; park your bike securely at the entrance and enjoy the art inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Girne Belediyesi Anfitiyatro",
+                "hu": "Girne Belediyesi Anfitiyatro",
+                "ro": "Girne Belediyesi Anfitiyatro",
+                "en": "Girne Belediyesi Anfitiyatro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das goldene Licht vor dem Sonnenuntergang um 17:00 Uhr; ziehen Sie eine extra Schicht an, sobald die Sonne weg ist.",
+                "hu": "Használja ki az aranyórát a 17:00 órai naplemente előtt; vegyen fel még egy réteget, amint a nap eltűnik a horizonton.",
+                "ro": "Profitați de lumina de aur înainte de apusul de la ora 17:00; puneți o haină în plus imediat ce soarele dispare.",
+                "en": "Catch the golden hour light before the 17:00 sunset; put on an extra layer as soon as the sun disappears behind the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Vezessen reggel nyugat felé egy pihentető délelőttért, felfedezve Kyrenia érintetlen Riviéráját és történelmi strandjait.\n\nDélben induljon vissza a városközpontba, álljon meg a műemlékeknél, mielőtt elérné az ikonikus Kerek Tornyot.\n\nDélután fedezzen fel ősi tengerészeti titkokat a hajóroncs múzeumban, és látogasson el a közeli művészeti galériába.\n\nEste hajtson fel a szabadtéri amfiteátrumhoz egy lenyűgöző alkonyati panorámáért a Földközi-tenger partvidékén.",
         "ro": "Conduceți dimineața spre vest pentru a explora Riviera virgină și plajele istorice ale Kyreniei într-o dimineață relaxantă.\n\nÎndreptați-vă la amiază înapoi spre centrul orașului, oprindu-vă la monumente înainte de a ajunge la iconicul Turn Rotund.\n\nDescoperiți după-amiaza secrete maritime antice la muzeul epavei și vizitați galeria de artă din apropiere.\n\nConduceți seara până la amfiteatrul în aer liber pentru o panoramă uluitoare a coastei mediteraneene la amurg.",
         "en": "Drive west in the morning for a relaxing exploration of Kyrenia's pristine Riviera and historic beaches.\n\nHead back toward the city center at midday, stopping at monuments before reaching the iconic Round Tower.\n\nDiscover ancient maritime secrets in the afternoon at the Shipwreck museum and visit the nearby art gallery.\n\nDrive up to the open-air amphitheater in the evening for a stunning twilight panorama over the Mediterranean coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Küstenfahrt im Regen bietet dramatische Ausblicke auf das Meer von Riviera Beach aus. Besuchen Sie die Strände kurz vom Auto aus. Mittags bieten der Rundturm und das Museum in der Festung ideale trockene Ziele. Parken Sie in der Nähe des Hafens, um die Wege im Regen kurz zu halten. Den Nachmittag verbringen wir in der Kunstgalerie, bevor wir die Tour am Amphitheater beenden.",
+            "hu": "A tengerparti autózás esőben drámai kilátást nyújt a Riviera Beach-nél. A strandokat csak rövid időre hagyja el az autó kényelméből. Délben a kerek torony és a vár múzeuma ideális száraz célpontok. Parkoljon a kikötő közelében, hogy lerövidítse a gyaloglást az esőben. A délutánt a művészeti galériában tölthetjük, mielőtt a túrát az amfiteátrumnál zárnánk.",
+            "ro": "O plimbare cu mașina pe coastă oferă vederi dramatice la Riviera Beach pe timp de ploaie. Vizitați plajele scurt din confortul mașinii. La prânz, turnul rotund și muzeul cetății sunt destinații ideale și uscate. Parcați aproape de port pentru a scurta mersul prin ploaie. Petreceți după-amiaza la galeria de artă înainte de a încheia turul la amfiteatru.",
+            "en": "A coastal drive in the rain offers dramatic sea views from Riviera Beach. Visit the beaches briefly from the comfort of your car. At noon, the Round Tower and the castle museum are ideal dry destinations. Park near the harbor to keep walking distances in the rain short. Spend the afternoon at the art gallery before finishing the tour at the amphitheater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Riviera Beach",
+                "hu": "Riviera Beach",
+                "ro": "Riviera Beach",
+                "en": "Riviera Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen von Ihrem Auto oder einer überdachten Veranda aus; die stürmische See wirkt im Regen sehr beeindruckend.",
+                "hu": "Figyelje a hullámokat az autóból vagy egy fedett teraszról; a viharos tenger esőben rendkívül lenyűgöző látványt nyújt.",
+                "ro": "Observați valurile din mașină sau de pe o terasă acoperită; marea învolburată arată impresionant sub ploaie.",
+                "en": "Watch the waves from your car or a covered porch; the stormy sea looks very impressive and dramatic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Karaoğlanoğlu Plajı",
+                "hu": "Karaoğlanoğlu Plajı",
+                "ro": "Karaoğlanoğlu Plajı",
+                "en": "Karaoğlanoğlu Plajı"
+              },
+              "tip_5lang": {
+                "de": "Ein windiger Stopp am Strand; lassen Sie die Fenster oben, wenn das Wasser spritzt, und genießen Sie die raue Natur.",
+                "hu": "Szeles megálló a tengerparton; tartsa felhúzva az ablakokat, ha fröccsen a víz, és élvezze a vad természet látványát.",
+                "ro": "O oprire vântoasă la plajă; țineți geamurile sus dacă apa stropește și bucurați-vă de natura sălbatică de afară.",
+                "en": "A windy beach stop; keep the windows up if the water is splashing and enjoy the view of raw nature from safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Nusret Ertürk",
+                "hu": "Nusret Ertürk",
+                "ro": "Nusret Ertürk",
+                "en": "Nusret Ertürk"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Halt für geschichtliche Einblicke; halten Sie den Schirm für den kurzen Weg vom Parkplatz zum Denkmal bereit.",
+                "hu": "Gyors megálló a történelmi háttér megismeréséhez; tartsa készenlétben az esernyőt a parkolótól az emlékműig tartó rövid útra.",
+                "ro": "O oprire rapidă pentru context istoric; aveți umbrela pregătită pentru drumul scurt de la parcare până la monument.",
+                "en": "Fast stop for historical context; keep your umbrella ready for the short walk from the parking area to the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Round Tower",
+                "hu": "Round Tower",
+                "ro": "Round Tower",
+                "en": "Round Tower"
+              },
+              "tip_5lang": {
+                "de": "Starke Steinmauern bieten einen perfekten trockenen Zufluchtsort; parken Sie so nah wie möglich am Eingang des Turms.",
+                "hu": "Az erős kőfalak tökéletes száraz menedéket nyújtanak; parkoljon a lehető legközelebb a torony bejáratához az esőben.",
+                "ro": "Zidurile de piatră oferă un refugiu perfect; parcați cât mai aproape de intrarea turnului pentru a evita ploaia.",
+                "en": "Strong stone walls provide a perfect dry haven; park as close as possible to the tower entrance to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Shipwreck museum",
+                "hu": "Shipwreck museum",
+                "ro": "Shipwreck museum",
+                "en": "Shipwreck museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und laufen Sie zum Burgeingang für eine ausführliche Indoor-Erkundung des antiken Schiffswracks.",
+                "hu": "Parkoljon a közelben, és siessen a vár bejáratához az ókori hajóroncs alapos, beltéri felfedezéséhez a szakadó esőben.",
+                "ro": "Parcați în apropiere și mergeți repede la intrarea cetății pentru explorarea epavei antice în interior, la adăpost.",
+                "en": "Park nearby and head to the castle entrance for an extensive indoor exploration of the ancient shipwreck while it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Istanbul Art Gallery",
+                "hu": "Istanbul Art Gallery",
+                "ro": "Istanbul Art Gallery",
+                "en": "Istanbul Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Moderner Indoor-Veranstaltungsort, perfekt für einen regnerischen Nachmittag; genießen Sie die Kunst ohne Wind und Nässe.",
+                "hu": "Modern beltéri helyszín, tökéletes egy esős délutánra; élvezze a művészetet a szél és a nedvesség zavarása nélkül.",
+                "ro": "Locație modernă în interior, perfectă pentru o după-amiază ploioasă; bucurați-vă de artă fără vânt sau umezeală.",
+                "en": "Modern indoor venue, perfect for a rainy afternoon; enjoy the art without the wind and wetness bothering you."
+              }
+            },
+            {
+              "name": {
+                "de": "Girne Belediyesi Anfitiyatro",
+                "hu": "Girne Belediyesi Anfitiyatro",
+                "ro": "Girne Belediyesi Anfitiyatro",
+                "en": "Girne Belediyesi Anfitiyatro"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Bauwerk von oben; der nasse Stein sieht wunderschön aus, aber bleiben Sie für Fotos lieber im Auto.",
+                "hu": "Tekintse meg az építményt felülről; a vizes kő gyönyörűen fest, de a fotózáshoz inkább maradjon az autó közelében.",
+                "ro": "Vizualizați structura de sus; piatra umedă arată superb, dar pentru poze ar fi mai bine să rămâneți lângă mașină.",
+                "en": "View the structure from above; the wet stone looks beautiful, but for photos, it's better to stay close to the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine malerische Winterfahrt entlang der Küste zu den ruhigen Stränden. Riviera Beach ist im Winter friedlich und leer. Mittags locken die Museen am Hafen mit angenehmen Temperaturen im Inneren. Da es früh dunkel wird, sollten Sie die Festung am frühen Nachmittag besuchen. Beenden Sie die Fahrt am Amphitheater, um den Wintersonnenuntergang über dem Meer zu genießen.",
+            "hu": "Gleccseres téli autózás a part mentén a csendes strandokhoz. A Riviera Beach télen békés és üres, remek a látvány. Délben a kikötői múzeumok vonzóak a kellemes benti hőmérsékletükkel. Mivel korán sötétedik, a várat kora délután látogassa meg. A túrát az amfiteátrumnál fejezze be, hogy élvezze a téli naplementét a tenger felett.",
+            "ro": "O plimbare pitorească de iarnă pe coastă spre plajele liniștite. Riviera Beach este pașnică și goală iarna. La prânz, muzeele din port sunt atractive datorită temperaturii plăcute din interior. Deoarece se întunecă devreme, vizitați cetatea după-amiaza devreme. Încheiați drumul la amfiteatru pentru a vedea apusul de iarnă peste mare.",
+            "en": "A scenic winter drive along the coast to the quiet beaches. Riviera Beach is peaceful and empty in winter. At noon, the harbor museums are attractive with their comfortable indoor temperatures. Since it gets dark early, visit the fortress in the early afternoon. Finish your drive at the amphitheater to enjoy the winter sunset over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Riviera Beach",
+                "hu": "Riviera Beach",
+                "ro": "Riviera Beach",
+                "en": "Riviera Beach"
+              },
+              "tip_5lang": {
+                "de": "Verlassener Winterstrand; ideal für einen kurzen, erfrischenden Spaziergang im Sand bei klarer, kühler Meeresluft.",
+                "hu": "Elhagyatott téli strand; ideális egy rövid, frissítő sétára a homokban a tiszta, hűvös tengeri levegőn itt.",
+                "ro": "Plajă de iarnă pustie; ideală pentru o scurtă plimbare revigorantă pe nisip în aerul curat și rece al mării.",
+                "en": "Deserted winter beach; ideal for a short, refreshing walk on the sand in the clear, crisp sea air during the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Karaoğlanoğlu Plajı",
+                "hu": "Karaoğlanoğlu Plajı",
+                "ro": "Karaoğlanoğlu Plajı",
+                "en": "Karaoğlanoğlu Plajı"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Meerblick ohne die Menschenmassen; die Luft ist im Winter sehr sauber und die Sicht hervorragend.",
+                "hu": "Élvezze a tengeri kilátást tömeg nélkül; a levegő télen nagyon tiszta, és a látási viszonyok kiválóak a parton.",
+                "ro": "Bucurați-vă de vederea la mare fără mulțime; aerul este foarte curat iarna, iar vizibilitatea este excelentă aici.",
+                "en": "Enjoy the sea view without the crowds; the air is very clean in winter and the visibility is outstanding at the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Nusret Ertürk",
+                "hu": "Nusret Ertürk",
+                "ro": "Nusret Ertürk",
+                "en": "Nusret Ertürk"
+              },
+              "tip_5lang": {
+                "de": "Schneller Stopp für historische Hintergründe; das weiche Winterlicht ist perfekt für stimmungsvolle Fotos am Denkmal.",
+                "hu": "Gyors megálló a történelmi háttér megismeréséhez; a lágy téli fény tökéletes a hangulatos fotókhoz az emlékműnél.",
+                "ro": "Oprire rapidă pentru fundal istoric; lumina caldă de iarnă este perfectă pentru fotografii de atmosferă la monument.",
+                "en": "Fast stop for historical background; the soft winter light is perfect for atmospheric photos at the monument today."
+              }
+            },
+            {
+              "name": {
+                "de": "Round Tower",
+                "hu": "Round Tower",
+                "ro": "Round Tower",
+                "en": "Round Tower"
+              },
+              "tip_5lang": {
+                "de": "Die historische Atmosphäre wird durch die ruhige Wintersaison verstärkt; nutzen Sie den Stopp für eine kurze Pause im Warmen.",
+                "hu": "A történelmi hangulatot fokozza a csendes téli szezon; használja ki a megállót egy rövid pihenőre a torony melegében.",
+                "ro": "Atmosfera istorică este sporită de sezonul liniștit de iarnă; profitați de oprire pentru o scurtă pauză la căldură.",
+                "en": "The historical atmosphere is enhanced by the quiet winter season; use this stop for a short break in the tower's warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Shipwreck museum",
+                "hu": "Shipwreck museum",
+                "ro": "Shipwreck museum",
+                "en": "Shipwreck museum"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Burg halten die Innentemperatur stabil; ein perfekter Ort, um der kühlen Brise zu entkommen.",
+                "hu": "A vár vastag falai stabilan tartják a benti hőmérsékletet; tökéletes hely, hogy elmeneküljön a hűvös kinti szél elől.",
+                "ro": "Zidurile groase ale cetății mențin temperatura interioară stabilă; locul perfect pentru a scăpa de briza rece de afară.",
+                "en": "The castle's thick walls keep the internal temperature stable; a perfect place to escape the chilly outdoor breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Istanbul Art Gallery",
+                "hu": "Istanbul Art Gallery",
+                "ro": "Istanbul Art Gallery",
+                "en": "Istanbul Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Warme und einladende Galerie, ideal für den späten Nachmittag; genießen Sie die moderne Kunst in entspannter Atmosphäre.",
+                "hu": "Meleg és barátságos galéria, ideális késő délutánra; élvezze a modern művészetet nyugodt, téli környezetben.",
+                "ro": "Galerie caldă și primitoare, ideală pentru după-amiaza târzie; bucurați-vă de arta modernă într-o ambianță relaxată.",
+                "en": "Warm and inviting gallery, ideal for the late afternoon; enjoy modern art in a relaxed, cozy winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Girne Belediyesi Anfitiyatro",
+                "hu": "Girne Belediyesi Anfitiyatro",
+                "ro": "Girne Belediyesi Anfitiyatro",
+                "en": "Girne Belediyesi Anfitiyatro"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf den Sonnenuntergang ist hier spektakulär; kommen Sie bis 16:30 Uhr an, um das Schauspiel nicht zu verpassen.",
+                "hu": "A kilátás a naplementére itt látványos; érkezzen meg 16:30-ig, hogy ne maradjon le a tenger feletti téli színjátékról.",
+                "ro": "Vedere spectaculoasă la apus; ajungeți până la ora 16:30 pentru a nu rata spectacolul soarelui peste mare iarna.",
+                "en": "Sunset views are spectacular here; arrive by 16:30 to make sure you don't miss the winter spectacle over the sea."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje gyalogtúráját Endersbach szívében, fedezze fel a helyi örökséget a Heimatmuseumban, mielőtt magába szívná a falu reggeli hangulatát. A déli séta Beutelsbach felé viszi, ahol a Stiftskirche lenyűgöző építészete és a Württemberg-Haus mély történelmi betekintést nyújt. Délután túrázzon fel a hangulatos Ruine Kappelberghez, élvezve a természetes környezetet és a középkori maradványokat. Zárja a napot egy festői sétával Großheppach felé, ahol az elegáns kastély méltó befejezést nyújt történelmi utazásának ezen a gyönyörű vidéken.",
         "ro": "Începeți turul de mers pe jos în inima Endersbach, explorând patrimoniul local la Heimatmuseum înainte de a vă bucura de atmosfera matinală. Tranziția de la prânz vă poartă spre Beutelsbach, unde arhitectura bisericii Stiftskirche și Württemberg-Haus oferă o perspectivă istorică profundă. După-amiaza, urcați spre evocatoarea Ruine Kappelberg, bucurându-vă de împrejurimile naturale și de rămășițele medievale. Încheiați ziua cu o plimbare pitorească spre Großheppach, unde elegantul castel oferă un final grandios călătoriei dumneavoastră istorice prin Weinstadt.",
         "en": "Begin your walking tour in the heart of Endersbach, exploring the rich local heritage at the Heimatmuseum before soaking in the morning atmosphere of the village. The midday transition takes you towards Beutelsbach, where the stunning architecture of the Stiftskirche and the nearby Württemberg-Haus offer deep historical insights. In the afternoon, hike up to the evocative Ruine Kappelberg, enjoying the natural surroundings and the remnants of medieval times. Conclude your day with a scenic stroll towards Großheppach, where the elegant Schloss Großheppach provides a grand finale to your historical journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz im Heimatmuseum und vertiefen uns in die lokale Geschichte. Mittags führt der Weg unter Schirmen zur Stiftskirche, deren Stille bei Regen besonders intensiv wirkt. Nachmittags bietet das Württemberg-Haus trockene Einblicke, bevor wir vorsichtig zur Ruine aufsteigen. Abends endet die Tour am Schloss Großheppach, das im Nebel eine geheimnisvolle Atmosphäre ausstrahlt.",
+            "hu": "Reggel az eső elől a múzeum falai közé menekülünk, ahol a helyi történelem vár. Délben az ernyők alatt sétálunk át a templomhoz, élvezve a csendes utcák hangulatát. Délután a Württemberg-Ház kínál fedett programot, majd a várrom felé vesszük az irányt, figyelve a csúszós ösvényekre. Estére a kastély környéke a párában különleges, misztikus látványt nyújt a túra végén.",
+            "ro": "Dimineața ne adăpostim de ploaie în muzeu, descoperind istoria locală într-un mediu uscat. La prânz mergem cu umbrelele spre biserică, admirând străzile liniștite. După-amiaza vizităm Casa Württemberg, apoi urcăm cu grijă spre ruine pe potecile umede. Seara, castelul învăluit în ceață oferă un decor mistic pentru finalul traseului nostru prin orașul istoric.",
+            "en": "In the morning, we take refuge from the rain in the museum, exploring local heritage. At noon, we walk to the church under umbrellas, enjoying the quiet streets. Afternoon is spent at the Württemberg-Haus, followed by a careful hike to the ruins on slippery paths. By evening, the misty atmosphere around the castle provides a mysterious conclusion to our rainy day walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Heimatmuseum Pflaster 14",
+                "hu": "Heimatmuseum Pflaster 14",
+                "ro": "Heimatmuseum Pflaster 14",
+                "en": "Heimatmuseum Pflaster 14"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen im Inneren dieses historischen Gebäudes; ein idealer Ort, um trocken zu bleiben und etwas über das lokale Handwerk zu erfahren.",
+                "hu": "Fedezze fel a történelmi épület belső kiállításait; ideális hely, hogy szárazon maradjon, miközben megismeri a helyi kézművesség és életmód múltját.",
+                "ro": "Explorați expozițiile din interiorul acestei clădiri istorice; locul ideal pentru a rămâne la adăpost și a învăța despre meșteșugurile și tradițiile locale.",
+                "en": "Explore the indoor exhibits of this historical building; it is a perfect spot to stay dry while learning about local craftsmanship and heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Beutelsbach",
+                "hu": "Stiftskirche Beutelsbach",
+                "ro": "Stiftskirche Beutelsbach",
+                "en": "Stiftskirche Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und den Schutz des Kirchenschiffs vor dem Regen; achten Sie beim Betreten auf die eventuell rutschigen Steinstufen am Eingang.",
+                "hu": "Élvezze a templomhajó csendjét és az eső elleni menedéket; belépéskor ügyeljen a külső kőlépcsőkre, amelyek nedves időben csúszóssá válhatnak.",
+                "ro": "Bucurați-vă de liniștea navei bisericii și de adăpostul împotriva ploii; atenție la treptele de piatră de la intrare care pot fi alunecoase când sunt ude.",
+                "en": "Enjoy the silence of the church interior and the shelter from the rain; watch your step on the stone entrance stairs which can become slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Württemberg-Haus Beutelsbach",
+                "hu": "Württemberg-Haus Beutelsbach",
+                "ro": "Württemberg-Haus Beutelsbach",
+                "en": "Württemberg-Haus Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiges Museum mit umfassenden Informationen zur Geschichte Württembergs; nutzen Sie die Zeit im Trockenen, um die Exponate ausführlich zu studieren.",
+                "hu": "Kiváló múzeum részletes információkkal Württemberg történelméről; használja ki a fedett időt a kiállítási tárgyak alapos és kényelmes megtekintésére.",
+                "ro": "Un muzeu excelent cu informații detaliate despre istoria Württemberg; folosiți timpul petrecut la interior pentru a studia exponatele în detaliu.",
+                "en": "A great museum with extensive information on the history of Württemberg; use this time indoors to study the exhibits thoroughly and comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruine Kappelberg",
+                "hu": "Ruine Kappelberg",
+                "ro": "Ruine Kappelberg",
+                "en": "Ruine Kappelberg"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Ruine bietet auch bei Regen eine dramatische Aussicht; tragen Sie unbedingt festes, wasserdichtes Schuhwerk für die teils erdigen Wege.",
+                "hu": "A romokhoz vezető út esőben is drámai kilátást nyújt; viseljen vízálló, tapadós talpú cipőt, mert az ösvények sárgossá és csúszóssá válhatnak.",
+                "ro": "Urcarea spre ruine oferă o priveliște dramatică chiar și pe ploaie; purtați încălțăminte impermeabilă pentru potecile care pot deveni noroioase.",
+                "en": "The climb to the ruins offers dramatic views even in the rain; be sure to wear waterproof boots as the paths can become muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Großheppach",
+                "hu": "Schloss Großheppach",
+                "ro": "Schloss Großheppach",
+                "en": "Schloss Großheppach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Schlosses von den überdachten Bereichen aus; die umliegenden Gärten wirken im Regen besonders grün und frisch.",
+                "hu": "Csodálja meg a kastély építészetét a fedettebb részekről; a környező kertek esőben különösen zöldnek és frissnek tűnnek, ideálisak egy rövid sétára.",
+                "ro": "Admirați arhitectura castelului din zonele protejate; grădinile din jur par deosebit de verzi și proaspete pe ploaie, oferind un decor relaxant.",
+                "en": "Admire the castle's architecture from the sheltered areas; the surrounding gardens look especially lush and green in the rain, perfect for a photo."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kalte Wintermorgen beginnt im beheizten Heimatmuseum, wo wir uns aufwärmen. Mittags nutzen wir das rare Tageslicht für den Spaziergang zur Kirche. Nachmittags besuchen wir das Württemberg-Haus, bevor wir die Ruine erreichen, während die Sonne bereits tief steht. Da es gegen 17 Uhr dunkel wird, bewundern wir das Schloss Großheppach im warmen Licht der Dämmerung.",
+            "hu": "A hideg téli reggelt a fűtött múzeumban indítjuk, ahol kellemes melegben vághatunk bele a napba. Délidőben a téli napfényben látogatjuk meg a templomot. Délután a Württemberg-Házban melegedünk fel újra, mielőtt a korai szürkületben elérnénk a várromot. 17 óra körül már sötétedik, így a kastélyt már az alkonyati fényekben csodáljuk meg.",
+            "ro": "Dimineața rece de iarnă începe în muzeul încălzit, unde ne putem pregăti pentru zi. La prânz profităm de lumina zilei pentru o plimbare spre biserică. După-amiaza vizităm Casa Württemberg, apoi urcăm la ruine înainte de apus. Deoarece se întunecă în jurul orei 17:00, admirăm castelul în lumina caldă a amurgului.",
+            "en": "The cold winter morning starts in the heated museum, warming up before the day begins. At noon, we take advantage of the daylight for the walk to the church. In the afternoon, we warm up again at the Württemberg-Haus before reaching the ruins as the sun sets. Since it gets dark around 5 PM, we view the castle in the twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Heimatmuseum Pflaster 14",
+                "hu": "Heimatmuseum Pflaster 14",
+                "ro": "Heimatmuseum Pflaster 14",
+                "en": "Heimatmuseum Pflaster 14"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als warmen Startpunkt für den Tag; die dicken Mauern des alten Gebäudes bieten einen gemütlichen Schutz vor dem Winterwind.",
+                "hu": "Használja a múzeumot meleg kiindulópontként; a régi épület vastag falai kellemes védelmet nyújtanak a kinti metsző téli széllel szemben.",
+                "ro": "Folosiți muzeul ca punct de pornire călduros; pereții groși ai clădirii vechi oferă un adăpost primitor împotriva vântului rece de iarnă.",
+                "en": "Use the museum as a warm starting point for your day; the thick walls of the old building provide a cozy refuge from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Beutelsbach",
+                "hu": "Stiftskirche Beutelsbach",
+                "ro": "Stiftskirche Beutelsbach",
+                "en": "Stiftskirche Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie, dass Kirchen im Winter oft kühl sind; behalten Sie Ihre warme Jacke an, während Sie die beeindruckenden Altäre und Fenster betrachten.",
+                "hu": "Vegye figyelembe, hogy a templomok télen hűvösek lehetnek; tartsa magán a meleg kabátot, miközben az impozáns oltárokat és ablakokat csodálja.",
+                "ro": "Rețineți că bisericile sunt adesea răcoroase iarna; păstrați haina groasă pe dvs. în timp ce admirați altarele și ferestrele impresionante.",
+                "en": "Keep in mind that churches are often chilly in winter; keep your warm coat on while admiring the impressive altars and stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Württemberg-Haus Beutelsbach",
+                "hu": "Württemberg-Haus Beutelsbach",
+                "ro": "Württemberg-Haus Beutelsbach",
+                "en": "Württemberg-Haus Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich nach dem Fußweg aufzuwärmen; die Ausstellungen zur Weingeschichte sind auch an grauen Wintertagen sehr inspirierend.",
+                "hu": "Ideális hely a felmelegedésre a séta után; a borászati történelemről szóló kiállítások még a szürke téli napokon is rendkívül inspirálóak.",
+                "ro": "Un loc ideal pentru a vă încălzi după plimbare; expozițiile despre istoria vinului sunt foarte inspirate chiar și în zilele gri de iarnă.",
+                "en": "A perfect spot to warm up after your walk; the exhibits on wine history are very inspiring even on the greyest and coldest winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruine Kappelberg",
+                "hu": "Ruine Kappelberg",
+                "ro": "Ruine Kappelberg",
+                "en": "Ruine Kappelberg"
+              },
+              "tip_5lang": {
+                "de": "Bei klarer Winterluft ist die Fernsicht von hier oben oft am besten; achten Sie auf vereiste Stellen auf dem Weg zur Ruine und gehen Sie vorsichtig.",
+                "hu": "A tiszta téli levegőben gyakran innen a legjobb a távoli kilátás; ügyeljen a jeges foltokra a romokhoz vezető úton, és haladjon óvatosan.",
+                "ro": "În aerul curat de iarnă, vizibilitatea de aici este adesea excelentă; atenție la porțiunile înghețate de pe drumul spre ruine, mergeți cu grijă.",
+                "en": "In the crisp winter air, the distant views from here are often at their best; watch out for icy patches on the path and walk carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Großheppach",
+                "hu": "Schloss Großheppach",
+                "ro": "Schloss Großheppach",
+                "en": "Schloss Großheppach"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt in der frühen winterlichen Dämmerung besonders festlich; planen Sie Ihre Ankunft vor 17 Uhr, um noch etwas Tageslicht zu haben.",
+                "hu": "A kastély a korai téli szürkületben különösen ünnepi hangulatot áraszt; tervezze az érkezést 17 óra elé, hogy még lássa az épület részleteit.",
+                "ro": "Castelul pare deosebit de festiv în amurgul timpuriu de iarnă; planificați sosirea înainte de ora 17:00 pentru a profita de ultima lumină.",
+                "en": "The castle looks especially festive in the early winter twilight; plan your arrival before 5 PM to see the architectural details in daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját északon, a Steinzeitmuseumban, felfedezve a történelem előtti leleteket, majd pedálozzon tovább a reggeli ködben. Guruljon a fenséges Großheppach kastélyhoz, majd folytassa útját Beutelsbach felé a lenyűgöző Stiftskirche felfedezéséhez. A délután a Württemberg-Haus regionális történelmével várja, amelyet egy jutalmazó emelkedő követ az Aussichtspunkt kilátóhoz. Zárja a napot Strümpfelbach felé gurulva, ahol a szabadtéri Skulpturenpfad gyönyörűen ötvözi a művészetet és a szőlőhegyi esti fényeket.",
         "ro": "Începeți aventura pe bicicletă în nord la Steinzeitmuseum, descoperind artefacte preistorice înainte de a pedala prin ceața dimineții. Mergeți spre maiestuosul Schloss Großheppach și continuați spre Beutelsbach pentru a explora impunătoarea Stiftskirche. După-amiaza vă invită la Württemberg-Haus pentru o doză de istorie regională, urmată de o urcare plină de satisfacții către Aussichtspunkt Luitenbächer Höhe. Încheiați ziua alunecând spre Strümpfelbach, unde Skulpturenpfad îmbină frumos arta și lumina serii în podgoriile locale.",
         "en": "Start your cycling adventure in the north at the Steinzeitmuseum, uncovering prehistoric artifacts before pedaling through the morning mist. Roll onwards to the majestic Schloss Großheppach and continue towards Beutelsbach to explore the majestic Stiftskirche at your own pace. The afternoon invites you to the Württemberg-Haus for a dose of regional history, followed by a rewarding climb to the panoramic Aussichtspunkt Luitenbächer Höhe. Finish the day gliding down to Strümpfelbach, where the outdoor Skulpturenpfad beautifully merges art and evening light in the vineyards."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour zum Steinzeitmuseum auf gut ausgebauten Wegen. Mittags radeln wir vorsichtig zum Schloss Großheppach, wobei wir auf Pfützen achten. Nachmittags bieten die Kirchen und Museen in Beutelsbach trockene Pausen. Die Fahrt zu den Aussichtspunkten ist bei Regen kürzer, aber die frische, feuchte Luft macht die Skulpturenpfade besonders lebendig.",
+            "hu": "Az eső ellenére a kőkorszaki múzeum felé indulunk kerékpárral a jól kiépített utakon. Délben óvatosan tekerünk a kastélyhoz, kerülgetve a tócsákat. Délután a beutelsbachi templom és múzeum nyújt száraz pihenőt. A kilátópontoknál rövidebb ideig maradunk, de a friss, párás levegőben a szoborpark látványa különösen életteli.",
+            "ro": "În ciuda ploii, începem tura de bicicletă spre muzeul epocii de piatră pe drumuri bine întreținute. La prânz pedalăm cu grijă spre castel, evitând bălțile. După-amiaza, biserica și muzeele oferă pauze uscate. Vizita la punctele de belvedere este mai scurtă, dar aerul proaspăt face parcul de sculpturi foarte viu.",
+            "en": "Despite the rain, we start our bike tour to the Stone Age museum on well-maintained paths. At noon, we cycle carefully to the castle, avoiding puddles. In the afternoon, the church and museums provide dry breaks. Visits to viewpoints are shorter, but the fresh, moist air makes the sculpture path feel vibrant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Steinzeitmuseum",
+                "hu": "Steinzeitmuseum",
+                "ro": "Steinzeitmuseum",
+                "en": "Steinzeitmuseum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab und genießen Sie die faszinierende Ausstellung zur Vorzeit im trockenen Museumsgebäude.",
+                "hu": "Parkolja le kerékpárját egy védettebb helyen, és élvezze a történelem előtti idők kiállítását a múzeum száraz és kényelmes épületében.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de expoziția fascinantă despre preistorie în interiorul uscat al muzeului.",
+                "en": "Park your bike in a sheltered spot and enjoy the fascinating prehistoric exhibition inside the dry and comfortable museum building."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Großheppach",
+                "hu": "Schloss Großheppach",
+                "ro": "Schloss Großheppach",
+                "en": "Schloss Großheppach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg zum Schloss auf rutschiges Kopfsteinpflaster; die historische Anlage bietet gute Unterstellmöglichkeiten bei einem Schauer.",
+                "hu": "A kastélyhoz vezető úton ügyeljen a csúszós macskakövekre; a történelmi épületegyüttes jó menedéket nyújt egy hirtelen jött zápor esetén.",
+                "ro": "Atenție la pavajul alunecos în drum spre castel; ansamblul istoric oferă bune posibilități de adăpost în cazul unei ploi bruște.",
+                "en": "Watch out for slippery cobblestones on your way to the castle; the historic complex offers good shelter options during a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Beutelsbach",
+                "hu": "Stiftskirche Beutelsbach",
+                "ro": "Stiftskirche Beutelsbach",
+                "en": "Stiftskirche Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Kleidung etwas zu trocknen und die spirituelle Ruhe der historischen Kirche auf sich wirken zu lassen.",
+                "hu": "Tökéletes megálló, hogy egy kicsit megszárítsa ruháit és átadja magát a történelmi templom spirituális nyugalmának az eső elől menekülve.",
+                "ro": "O oprire perfectă pentru a vă usca puțin hainele și a vă bucura de liniștea spirituală a bisericii istorice în timp ce plouă afară.",
+                "en": "A perfect stop to dry off your gear slightly and soak in the spiritual peace of the historic church while avoiding the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Württemberg-Haus Beutelsbach",
+                "hu": "Württemberg-Haus Beutelsbach",
+                "ro": "Württemberg-Haus Beutelsbach",
+                "en": "Württemberg-Haus Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen längeren Aufenthalt im Museum, um den stärksten Regen abzuwarten, bevor Sie die Tour durch die Weinberge fortsetzen.",
+                "hu": "Használja ki ezt a hosszabb múzeumi tartózkodást a hevesebb eső kivárására, mielőtt folytatná a kerékpártúrát a szép szőlőültetvények között.",
+                "ro": "Folosiți această vizită prelungită la muzeu pentru a aștepta trecerea ploii torențiale înainte de a continua tura prin podgorii.",
+                "en": "Use this longer museum visit to wait out the heaviest rain before continuing your bike tour through the scenic surrounding vineyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Luitenbächer Höhe",
+                "hu": "Aussichtspunkt Luitenbächer Höhe",
+                "ro": "Aussichtspunkt Luitenbächer Höhe",
+                "en": "Aussichtspunkt Luitenbächer Höhe"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie bei der Abfahrt auf den nassen Wegen besonders vorsichtig; die neblige Aussicht über das Tal hat ihren ganz eigenen, mystischen Reiz.",
+                "hu": "Legyen különösen óvatos a lejtőkön a nedves utakon; a ködös kilátás a völgyre sajátos, misztikus bájjal rendelkezik ilyen időben is.",
+                "ro": "Fiți deosebit de atenți la coborâre pe drumurile ude; vederea cețoasă asupra văii are un farmec mistic propriu în aceste condiții.",
+                "en": "Be extra careful during the descent on wet paths; the misty view over the valley has its own unique, mystical charm even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenpfad Strümpfelbach",
+                "hu": "Skulpturenpfad Strümpfelbach",
+                "ro": "Skulpturenpfad Strümpfelbach",
+                "en": "Skulpturenpfad Strümpfelbach"
+              },
+              "tip_5lang": {
+                "de": "Die Bronzeskulpturen glänzen im Regen besonders schön; achten Sie auf den unbefestigten Abschnitten des Pfades auf weichen oder rutschigen Boden.",
+                "hu": "A bronzszobrok esőben különösen szépen csillognak; az ösvény nem aszfaltozott szakaszain ügyeljen a felázott, csúszós talajra tekerés közben.",
+                "ro": "Sculpturile din bronz strălucesc frumos pe ploaie; pe secțiunile neasfaltate ale potecii, atenție la solul moale sau alunecos.",
+                "en": "The bronze sculptures glisten beautifully in the rain; watch out for soft or slippery ground on the unpaved sections of the trail."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf dem Rad führt uns zum Steinzeitmuseum. Mittags radeln wir durch die klare, kalte Luft zum Schloss Großheppach. Die Pausen in der Kirche und im Württemberg-Haus sind wichtig zum Aufwärmen. Der Aussichtspunkt bietet eine weite Sicht über die winterliche Landschaft, bevor wir den Skulpturenpfad erreichen, kurz bevor die Dämmerung einsetzt.",
+            "hu": "Friss, csípős téli reggelen indulunk kerékpárral a kőkorszaki múzeumhoz. Délben a tiszta, hideg levegőben tekerünk a kastélyhoz. A templomi és múzeumi megállók fontosak a felmelegedéshez. A kilátópontról messzire ellátni a téli táj felett, mielőtt elérnénk a szoborparkot, éppen mielőtt a korai sötétség leszállna.",
+            "ro": "O dimineață proaspătă de iarnă pe bicicletă ne duce spre muzeu. La prânz pedalăm prin aerul rece și curat spre castel. Pauzele la biserică și muzeu sunt esențiale pentru încălzire. Belvedere oferă o vedere largă asupra peisajului hibernal înainte de a ajunge la parcul de sculpturi, chiar înainte de apus.",
+            "en": "A crisp winter morning on the bike leads us to the Stone Age museum. At noon, we cycle through the clear, cold air to the castle. Breaks at the church and museum are essential for warming up. The viewpoint offers a wide view of the winter landscape before we reach the sculpture path just before twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Steinzeitmuseum",
+                "hu": "Steinzeitmuseum",
+                "ro": "Steinzeitmuseum",
+                "en": "Steinzeitmuseum"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour mit einem Besuch im warmen Museum; stellen Sie sicher, dass Ihre Fahrradlichter für die spätere Fahrt einwandfrei funktionieren.",
+                "hu": "Kezdje a túrát a meleg múzeumban; győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek a korai sötétedés miatti esti visszaúthoz.",
+                "ro": "Începeți tura cu o vizită la muzeul călduros; asigurați-vă că luminile bicicletei funcționează perfect pentru drumul de întoarcere pe seară.",
+                "en": "Start your tour in the warm museum; make sure your bike lights are functioning perfectly for the ride back in the early winter darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Großheppach",
+                "hu": "Schloss Großheppach",
+                "ro": "Schloss Großheppach",
+                "en": "Schloss Großheppach"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft macht die historische Kulisse besonders klar; tragen Sie Schichten und warme Handschuhe, um beim Radfahren nicht auszukühlen.",
+                "hu": "A hideg levegőben a történelmi környezet különösen tisztán látszik; viseljen réteges ruházatot és meleg kesztyűt, hogy ne fázzon tekerés közben.",
+                "ro": "Aerul rece face decorul istoric foarte clar; purtați haine stratificate și mănuși groase pentru a nu îngheța în timp ce pedalați.",
+                "en": "The cold air makes the historical setting look very crisp; wear layers and warm gloves to avoid getting too cold while cycling between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Beutelsbach",
+                "hu": "Stiftskirche Beutelsbach",
+                "ro": "Stiftskirche Beutelsbach",
+                "en": "Stiftskirche Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenraum für eine kurze Rast, aber denken Sie daran, dass es innen kühler sein kann als in beheizten Museen.",
+                "hu": "Használja a szélvédett belső teret egy rövid pihenőre, de ne feledje, hogy odabent hűvösebb lehet, mint a fűtött múzeumi termekben.",
+                "ro": "Folosiți interiorul protejat de vânt pentru o scurtă odihnă, dar rețineți că înăuntru poate fi mai răcoare decât în muzeele încălzite.",
+                "en": "Use the wind-protected interior for a short rest, but remember that it can be cooler inside than in the properly heated museum buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Württemberg-Haus Beutelsbach",
+                "hu": "Württemberg-Haus Beutelsbach",
+                "ro": "Württemberg-Haus Beutelsbach",
+                "en": "Württemberg-Haus Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie sich vor der Weiterfahrt gründlich aufwärmen und die interessante Ausstellung zur Regionalgeschichte in Ruhe genießen.",
+                "hu": "Itt alaposan felmelegedhet a továbbindulás előtt, miközben nyugodtan élvezi a régió történelméről szóló érdekes kiállítást.",
+                "ro": "Aici vă puteți încălzi bine înainte de a pleca mai departe, în timp ce vă bucurați de expoziția interesantă despre istoria regională.",
+                "en": "Here you can warm up thoroughly before moving on, while peacefully enjoying the interesting exhibition about the region's local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Luitenbächer Höhe",
+                "hu": "Aussichtspunkt Luitenbächer Höhe",
+                "ro": "Aussichtspunkt Luitenbächer Höhe",
+                "en": "Aussichtspunkt Luitenbächer Höhe"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Fernsicht ist oft atemberaubend; achten Sie auf Raureif oder Glätte auf den höher gelegenen Wegen während der Auffahrt.",
+                "hu": "A téli távoli kilátás gyakran lélegzetelállító; ügyeljen a zúzmarára vagy a csúszós szakaszokra a magasabban fekvő utakon a felfelé menet során.",
+                "ro": "Vizibilitatea de iarnă este adesea uluitoare; atenție la chiciură sau polei pe drumurile mai înalte în timpul urcării cu bicicleta.",
+                "en": "The winter views from here are often breathtaking; watch out for frost or icy spots on the higher paths during your ascent to the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenpfad Strümpfelbach",
+                "hu": "Skulpturenpfad Strümpfelbach",
+                "ro": "Skulpturenpfad Strümpfelbach",
+                "en": "Skulpturenpfad Strümpfelbach"
+              },
+              "tip_5lang": {
+                "de": "Die Figuren wirken in der kahlen Winterlandschaft besonders markant; beenden Sie den Besuch rechtzeitig, bevor es gegen 17 Uhr dunkel wird.",
+                "hu": "A szobrok a kopár téli tájban különösen hangsúlyosnak tűnnek; fejezze be a látogatást időben, mielőtt 17 óra körül teljesen besötétedik.",
+                "ro": "Figurile par deosebit de marcante în peisajul golaș de iarnă; finalizați vizita la timp, înainte de a se întuneca complet în jur de ora 17:00.",
+                "en": "The figures look particularly striking in the barren winter landscape; finish your visit in time before it gets completely dark around 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós utazását a Großheppach kastély királyi varázsával, amely kiváló reggeli helyszín a regionális reneszánsz építészet megcsodálásához. Vezessen Endersbachba, hogy visszalépjen az időben a Heimatmuseumban, majd Beutelsbachba a történelmi Stiftskirche megtekintésére. Töltse a délutánt a Württemberg-Haus kiállításainak és a Museum Weinstadt helyi örökségének felfedezésével. Este utazzon délre Strümpfelbachba, hogy végigsétáljon a lenyűgöző Skulpturenpfadon, és művészettel körülvéve zárja az utazást a szőlőültetvényeknél.",
         "ro": "Începeți excursia cu mașina cu farmecul regal al Schloss Großheppach, un loc excelent dimineața pentru a aprecia arhitectura renascentistă regională. Conduceți spre Endersbach pentru a vă întoarce în timp la Heimatmuseum, înainte de a vizita istorica Stiftskirche. Petreceți după-amiaza descoperind expozițiile de la Württemberg-Haus și moștenirea locală la Museum Weinstadt. Seara, mergeți la sud spre Strümpfelbach pentru a vă plimba pe fascinantul Skulpturenpfad, încheind excursia înconjurați de artă și podgorii.",
         "en": "Kick off your road trip with the regal charm of Schloss Großheppach, an excellent morning spot to appreciate regional renaissance architecture. Drive over to Endersbach to step back in time at the Heimatmuseum, before moving on to Beutelsbach to admire the historical Stiftskirche. Spend your afternoon discovering the exhibitions at the Württemberg-Haus and the local heritage preserved at the Museum Weinstadt. In the evening, drive south to Strümpfelbach to wander the fascinating Skulpturenpfad, ending your trip surrounded by art and picturesque vineyards."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Tour auch bei starkem Regen komfortabel. Wir starten am Schloss und fahren dann zum Heimatmuseum. Mittags besuchen wir die Stiftskirche und das Württemberg-Haus, wobei wir nur kurze Wege im Freien haben. Nachmittags erkunden wir das Museum Weinstadt und lassen den Tag am Skulpturenpfad ausklingen, geschützt durch gute Kleidung bei kurzen Spaziergängen.",
+            "hu": "Autóval a túra heves esőben is kényelmes. A kastélynál kezdünk, majd a helytörténeti múzeumhoz hajtunk. Délben a templomot és a Württemberg-Házat látogatjuk meg, minimális időt töltve a szabadban. Délután a Weinstadt Múzeumot fedezzük fel, a napot pedig a szoborparknál zárjuk, jó esőkabátban téve rövid sétákat.",
+            "ro": "Cu mașina, tura este confortabilă chiar și pe ploaie torențială. Începem la castel, apoi mergem la muzeu. La prânz vizităm biserica și Casa Württemberg, având doar scurte segmente în aer liber. După-amiaza explorăm Muzeul Weinstadt și încheiem ziua la parcul de sculpturi, protejați de haine impermeabile.",
+            "en": "By car, the tour remains comfortable even in heavy rain. We start at the castle and drive to the museum. At noon, we visit the church and Württemberg-Haus with minimal time outdoors. In the afternoon, we explore the Weinstadt Museum and end the day at the sculpture path, taking short walks with good rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Großheppach",
+                "hu": "Schloss Großheppach",
+                "ro": "Schloss Großheppach",
+                "en": "Schloss Großheppach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Schlosses, um die Außenanlagen bei Regenpausen schnell erkunden zu können; das Gebäude selbst ist ein tolles Fotomotiv.",
+                "hu": "Parkoljon a kastély közelében, hogy az esőszünetekben gyorsan felfedezhesse a kertet; maga az épület nagyszerű fotótéma borús időben is.",
+                "ro": "Parcați aproape de castel pentru a explora exteriorul în pauzele dintre ploi; clădirea în sine este un subiect excelent pentru fotografii.",
+                "en": "Park close to the castle to quickly explore the grounds during breaks in the rain; the building itself is a great photo subject even when cloudy."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum Pflaster 14",
+                "hu": "Heimatmuseum Pflaster 14",
+                "ro": "Heimatmuseum Pflaster 14",
+                "en": "Heimatmuseum Pflaster 14"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp; nutzen Sie die Zeit, um die lokalen Ausstellungen zu besichtigen, während draußen der Regen auf die historischen Dächer prasselt.",
+                "hu": "Ideális fedett megálló; használja ki az időt a helyi kiállítások megtekintésére, miközben kint az eső kopog a történelmi épületek tetőin.",
+                "ro": "O oprire ideală la interior; folosiți timpul pentru a vizita expozițiile locale în timp ce afară ploaia bate în acoperișurile istorice.",
+                "en": "A perfect indoor stop; use the time to visit the local exhibits while the rain drums on the historic roofs of the surrounding old buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Beutelsbach",
+                "hu": "Stiftskirche Beutelsbach",
+                "ro": "Stiftskirche Beutelsbach",
+                "en": "Stiftskirche Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, trockenen Rückzugsort; achten Sie beim Aussteigen aus dem Auto auf Pfützen in den gepflasterten Gassen.",
+                "hu": "A templom csendes, száraz menedéket nyújt; az autóból kiszállva ügyeljen a tócsákra a környék szűk, kövezett kis utcáiban.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat; atenție la bălți când coborâți din mașină pe străduțele pavate din jurul bisericii.",
+                "en": "The church provides a quiet, dry retreat; watch out for puddles when getting out of the car in the narrow, cobbled streets nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Württemberg-Haus Beutelsbach",
+                "hu": "Württemberg-Haus Beutelsbach",
+                "ro": "Württemberg-Haus Beutelsbach",
+                "en": "Württemberg-Haus Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den markierten Flächen und genießen Sie den kurzen Weg ins warme Museum, das viel Wissenswertes über die Region bietet.",
+                "hu": "Parkoljon a kijelölt helyeken, és élvezze a rövid utat a meleg múzeumba, amely sok érdekességet kínál a régió borászatáról és múltjáról.",
+                "ro": "Parcați în locurile marcate și bucurați-vă de drumul scurt spre muzeul călduros, care oferă multe informații interesante despre regiune.",
+                "en": "Park in the designated areas and enjoy the short walk into the warm museum, which offers many interesting facts about the local region."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Weinstadt",
+                "hu": "Museum Weinstadt",
+                "ro": "Museum Weinstadt",
+                "en": "Museum Weinstadt"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer exzellenter Ort, um dem Wetter zu entfliehen; die vielfältigen Exponate lassen Sie den Regen draußen schnell vergessen.",
+                "hu": "Újabb kiváló hely az időjárás elöli menekülésre; a változatos kiállítási tárgyak feledtetik Önnel a kinti esős, barátságtalan időt.",
+                "ro": "Un alt loc excelent pentru a scăpa de vremea rea; exponatele variate vă vor face să uitați rapid de ploaia de afară.",
+                "en": "Another excellent spot to escape the weather; the diverse exhibits will quickly make you forget about the rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenpfad Strümpfelbach",
+                "hu": "Skulpturenpfad Strümpfelbach",
+                "ro": "Skulpturenpfad Strümpfelbach",
+                "en": "Skulpturenpfad Strümpfelbach"
+              },
+              "tip_5lang": {
+                "de": "Die Skulpturen wirken im nassen Glanz besonders edel; ein kurzer Spaziergang mit Regenschirm lohnt sich für die künstlerischen Eindrücke.",
+                "hu": "A szobrok a nedves csillogásban különösen nemesnek tűnnek; egy rövid esernyős séta megéri a művészi élményt még ilyen időben is.",
+                "ro": "Sculpturile par deosebit de nobile în strălucirea ploii; o scurtă plimbare cu umbrela merită pentru impresiile artistice deosebite.",
+                "en": "The sculptures look especially elegant in the wet sheen; a short walk with an umbrella is well worth it for the artistic impressions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An diesem kalten Wintertag bietet das Auto angenehme Wärme zwischen den Stopps. Wir beginnen am Schloss Großheppach und fahren weiter zu den Museen und der Stiftskirche. Die beheizten Innenräume der Ausstellungen sind perfekt zum Aufwärmen. Da die Dämmerung früh einsetzt, planen wir den Besuch des Skulpturenpfades für den späten Nachmittag, um die Werke noch im Tageslicht zu sehen.",
+            "hu": "Ezen a hideg téli napon az autó kellemes meleget nyújt a megállók között. A kastélynál kezdünk, majd a múzeumok és a templom felé vesszük az irányt. A kiállítások fűtött belső terei tökéletesek a felmelegedéshez. Mivel korán sötétedik, a szoborpark meglátogatását késő délutánra időzítjük, hogy még lássuk a műveket.",
+            "ro": "În această zi rece de iarnă, mașina oferă o căldură plăcută între opriri. Începem la castel și continuăm spre muzee și biserică. Interioarele încălzite ale expozițiilor sunt perfecte pentru încălzire. Deoarece se întunecă devreme, planificăm vizita la parcul de sculpturi pentru după-amiază.",
+            "en": "On this cold winter day, the car provides welcome warmth between stops. We begin at the castle and continue to the museums and church. The heated interiors of the exhibitions are perfect for warming up. Since twilight begins early, we plan the sculpture path visit for late afternoon to see the works."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Großheppach",
+                "hu": "Schloss Großheppach",
+                "ro": "Schloss Großheppach",
+                "en": "Schloss Großheppach"
+              },
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten direkt vor Ort machen den Besuch auch bei Minusgraden komfortabel; bewundern Sie die Fassade kurz im klaren Winterlicht.",
+                "hu": "A közvetlen parkolási lehetőség még mínuszok esetén is kényelmessé teszi a látogatást; csodálja meg a homlokzatot a tiszta téli fényben.",
+                "ro": "Posibilitățile de parcare direct la fața locului fac vizita confortabilă chiar și pe ger; admirați fațada în lumina clară de iarnă.",
+                "en": "Parking options right on-site make the visit comfortable even in freezing temperatures; admire the facade briefly in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Heimatmuseum Pflaster 14",
+                "hu": "Heimatmuseum Pflaster 14",
+                "ro": "Heimatmuseum Pflaster 14",
+                "en": "Heimatmuseum Pflaster 14"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Ort, um in die Geschichte einzutauchen; genießen Sie die behagliche Atmosphäre im Inneren des alten Fachwerkhauses.",
+                "hu": "Csodálatosan fűtött hely a történelemben való elmélyüléshez; élvezze a régi favázas ház belsejének barátságos, meleg atmoszféráját.",
+                "ro": "Un loc minunat încălzit pentru a pătrunde în istorie; bucurați-vă de atmosfera primitoare din interiorul vechii case cu structură de lemn.",
+                "en": "A wonderfully heated place to dive into history; enjoy the cozy atmosphere inside the old half-timbered house while avoiding the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Beutelsbach",
+                "hu": "Stiftskirche Beutelsbach",
+                "ro": "Stiftskirche Beutelsbach",
+                "en": "Stiftskirche Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie, dass die Kirche im Winter recht kühl sein kann; ein kurzer Besuch reicht aus, um die beeindruckende Architektur zu würdigen.",
+                "hu": "Vegye figyelembe, hogy a templom télen elég hűvös lehet; egy rövid látogatás is elég, hogy méltassa a lenyűgöző építészeti megoldásokat.",
+                "ro": "Rețineți că biserica poate fi destul de răcoroasă iarna; o vizită scurtă este suficientă pentru a aprecia arhitectura impresionantă.",
+                "en": "Note that the church can be quite chilly in winter; a shorter visit is sufficient to appreciate the impressive architecture without getting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Württemberg-Haus Beutelsbach",
+                "hu": "Württemberg-Haus Beutelsbach",
+                "ro": "Württemberg-Haus Beutelsbach",
+                "en": "Württemberg-Haus Beutelsbach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; die Räume sind gut temperiert und bieten einen tiefen Einblick in die regionale Weinkultur.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetként; a termek jól fűtöttek és mély betekintést nyújtanak a régió borkultúrájába.",
+                "ro": "Folosiți vizita la muzeu ca pauză de încălzire; sălile sunt bine temperate și oferă o perspectivă profundă asupra culturii vinului regional.",
+                "en": "Use the museum visit as a warming break; the rooms are well-heated and offer a deep insight into the regional wine culture and history."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Weinstadt",
+                "hu": "Museum Weinstadt",
+                "ro": "Museum Weinstadt",
+                "en": "Museum Weinstadt"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen kalten Winternachmittag; die Ausstellungen sind informativ und bieten Schutz vor dem oft beißenden Wind in den Gassen.",
+                "hu": "Tökéletes egy hideg téli délutánra; a kiállítások informatívak és védelmet nyújtanak a sikátorokban gyakran metsző szél elől.",
+                "ro": "Perfect pentru o după-amiază rece de iarnă; expozițiile sunt informative și oferă protecție împotriva vântului tăios de pe străzi.",
+                "en": "Perfect for a cold winter afternoon; the exhibits are informative and provide shelter from the often biting wind in the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Skulpturenpfad Strümpfelbach",
+                "hu": "Skulpturenpfad Strümpfelbach",
+                "ro": "Skulpturenpfad Strümpfelbach",
+                "en": "Skulpturenpfad Strümpfelbach"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Pfad vor 16:30 Uhr, um die Skulpturen noch im letzten Tageslicht zu sehen; bei Frost können die Wege rutschig sein.",
+                "hu": "Látogassa meg az ösvényt 16:30 előtt, hogy a szobrokat még az utolsó nappali fényben lássa; fagy esetén az utak csúszósak lehetnek.",
+                "ro": "Vizitați poteca înainte de ora 16:30 pentru a vedea sculpturile în ultima lumină a zilei; în caz de îngheț, drumurile pot fi alunecoase.",
+                "en": "Visit the trail before 4:30 PM to see the sculptures in the last daylight; paths can be slippery if there is frost or ice on the ground."
+              }
+            }
+          ]
+        }
       }
     }
   }

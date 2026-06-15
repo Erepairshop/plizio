@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi történelem felfedezésével a bájos Mortehoe Múzeumban, mielőtt a Rockham Beach partjára sétálna. Délben érje el a lenyűgöző Bull Point világítótornyot, ahonnan csodálatos kilátás nyílik a partra. A délutánt a Grunta Beach békés öbleinek felfedezésével töltheti, ami tökéletes pihenést nyújt. Zárja a napot a Combesgate kilátóponton, ahonnan megcsodálhatja a naplementét.",
         "ro": "Începeți dimineața descoperind istoria locală la fermecătorul Muzeu Mortehoe, înainte de o plimbare spre țărmurile stâncoase ale plajei Rockham. La prânz veți ajunge la dramaticul Far Bull Point, unde priveliștile de coastă sunt uimitoare. Petreceți după-amiaza explorând golfurile liniștite din jurul Grunta Beach. Încheiați ziua la punctul de belvedere Combesgate, admirând un apus de neuitat.",
         "en": "Start your morning absorbing local history at the charming Mortehoe Museum before a scenic walk to the rugged shores of Rockham Beach. Midday brings you to the dramatic Bull Point Lighthouse where the coastal views are absolutely breathtaking. Spend the afternoon exploring the peaceful coves around Grunta Beach, perfect for a relaxing break. End the day at the Combesgate view, taking in the sunset over the Atlantic Ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mortehoe zeigt sich bei Regen von seiner dramatischen Seite. Am Vormittag bietet das Museum Schutz, bevor es an die Küste geht. Mittags peitscht der Wind am Rockham Beach, wasserfeste Kleidung ist hier Pflicht. Nachmittags wandern wir entlang der rutschigen Pfade zum Leuchtturm, wo die Gischt hochspritzt. Abends wärmen wir uns in den urigen Gassen des Dorfes bei einer Tasse Tee auf.",
+            "hu": "Mortehoe esőben is lenyűgöző, de felkészültséget igényel. Reggel a múzeum fedett kiállításai nyújtanak menedéket a záporok elől. Délben a tengerparti sziklák mentén a sár és a csúszós fű nehezíti a haladást, a vízálló bakancs elengedhetetlen. Délután a világítótoronynál a viharos tenger látványa drámai. Estére a falu fényeit követve térünk vissza a biztonságos, száraz szállásra.",
+            "ro": "Mortehoe capătă un aspect dramatic în zilele ploioase. Dimineața, muzeul oferă un adăpost perfect. La prânz, vântul suflă cu putere pe plaja Rockham, făcând pelerina de ploaie indispensabilă. După-amiaza, potecile spre far devin noroioase și alunecoase, necesitând atenție sporită. Seara ne retragem în sat, bucurându-ne de atmosfera caldă din interior în timp ce afară plouă torențial.",
+            "en": "Mortehoe reveals a dramatic coastal character in the rain. Spend your morning inside the museum before heading to the cliffs. At midday, the wind at Rockham Beach demands high-quality waterproofs. In the afternoon, the paths to the lighthouse can be muddy and slippery, so watch your footing. By evening, follow the village lights back to a cozy spot to dry off and relax."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mortehoe Museum",
+                "hu": "Mortehoe Múzeum",
+                "ro": "Muzeul Mortehoe",
+                "en": "Mortehoe Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen trockenen Ort, um die Geschichte der Schiffswracks zu studieren, während draußen der Regen prasselt; ideal für den Start an nassen Tagen.",
+                "hu": "Használja ki a múzeum fedett tereit a hajótörések történetének megismerésére, amíg kint esik; ideális kezdőpont egy esős és szeles nap indításához.",
+                "ro": "Profită de interiorul muzeului pentru a studia istoria naufragiilor în timp ce afară plouă; este locul ideal pentru a începe traseul într-o zi umedă.",
+                "en": "Take advantage of the indoor exhibits to learn about local shipwrecks while it pours outside; the perfect sheltered start for a wet day in Devon."
+              }
+            },
+            {
+              "name": {
+                "de": "Rockham Beach",
+                "hu": "Rockham tengerpart",
+                "ro": "Plaja Rockham",
+                "en": "Rockham Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen sind bei Nässe extrem rutschig; genießen Sie den Blick auf die raue See von den Stufen aus und tragen Sie unbedingt feste Wanderschuhe.",
+                "hu": "A sziklák nedvesen rendkívül csúszósak; élvezze a haragos tenger látványát a lépcsőkről, és mindenképpen viseljen stabil, bordázott talpú túrabakancsot.",
+                "ro": "Stâncile sunt extrem de alunecoase când sunt ude; admiră marea agitată de pe trepte și poartă neapărat încălțăminte de drumeție cu talpă aderentă.",
+                "en": "The rocks are treacherous when wet; enjoy the view of the churning sea from the steps and ensure you are wearing sturdy hiking boots with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Bull Point Lighthouse",
+                "hu": "Bull Point Világítótorony",
+                "ro": "Farul Bull Point",
+                "en": "Bull Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht hier bei Regen oft waagerecht; ziehen Sie die Kapuze fest und bewundern Sie, wie das Leuchtfeuer durch den dichten Nebel schneidet.",
+                "hu": "A szél itt esőben gyakran vízszintesen fúj; húzza szorosra a kapucnit, és csodálja meg, ahogy a jelzőfény átvág a sűrű ködön és a párán.",
+                "ro": "Vântul suflă adesea orizontal aici pe ploaie; strânge bine gluga pelerinei și admiră cum lumina farului străpunge ceața densă și stropii de apă.",
+                "en": "Wind often blows horizontally here during rain; pull your hood tight and admire how the beacon cuts through the thick mist and driving spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Grunta Beach",
+                "hu": "Grunta tengerpart",
+                "ro": "Plaja Grunta",
+                "en": "Grunta Beach"
+              },
+              "tip_5lang": {
+                "de": "Dieser kleine Strand ist bei Regen sehr einsam; achten Sie auf den Gezeitenstand, da der schmale Zugangspfad bei Nässe schwieriger zu begehen ist.",
+                "hu": "Ez a kis öböl esőben magányos menedék; figyeljen az árapályra, mert a keskeny levezető ösvény sárosan sokkal nehezebben járható, mint napsütésben.",
+                "ro": "Această plajă mică este foarte izolată pe ploaie; verifică mareea, deoarece poteca îngustă de acces devine dificilă și noroioasă când plouă.",
+                "en": "This small beach is very secluded in the rain; check the tide times as the narrow access path is much trickier to navigate when muddy and wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Combesgate View",
+                "hu": "Combesgate kilátópont",
+                "ro": "Punctul de belvedere Combesgate",
+                "en": "Combesgate view"
+              },
+              "tip_5lang": {
+                "de": "Die Farben der Küste wirken bei grauem Himmel besonders intensiv; halten Sie den Regenschirm fest, da Böen hier oben sehr unerwartet kommen können.",
+                "hu": "A part színei a szürke ég alatt különösen mélynek tűnnek; fogja szorosan az esernyőt, mert a széllökések itt fent váratlanul érhetik a vándort.",
+                "ro": "Culorile coastei par deosebit de intense sub cerul gri; ține bine umbrela, deoarece rafalele de vânt pot apărea pe neașteptate aici, la înălțime.",
+                "en": "The coastal colors appear deeply intense under grey skies; hold your umbrella firmly as sudden gusts can be quite unexpected at this high vantage point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Mortehoe bedeutet klare Luft und einsame Wege. Am Morgen ist es frostig, die Sonne steht tief über dem Atlantik. Mittags wandern wir zügig, um warm zu bleiben, während die Wellen gegen die gefrorenen Klippen schlagen. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir den Nachmittag für den Rückweg. Abends lockt die Wärme des Dorfes hinter dicken Steinmauern.",
+            "hu": "A téli Mortehoe kristálytiszta levegővel és néma csenddel vár. Reggel a fagyos fű ropog a talpunk alatt, a nap alacsonyan jár az Atlanti-óceán felett. Délben a tempós gyaloglás segít megőrizni a testhőt a metsző szélben. Mivel a nap 17:00 körül lenyugszik, a délutánt már a visszaútra szánjuk. Este a falu kivilágított ablakai és a kandallók melege nyújtanak vigaszt.",
+            "ro": "Iarna în Mortehoe aduce aer curat și poteci pustii. Dimineața este geroasă, cu soarele reflectându-se în iarba înghețată. La prânz, mergem alert pentru a ne menține căldura corporală în briza tăioasă. Deoarece soarele apune în jurul orei 17:00, folosim după-amiaza pentru întoarcere. Seara, căldura satului ne atrage în spatele zidurilor groase de piatră.",
+            "en": "Winter in Mortehoe means crisp air and peaceful solitude. Mornings are frosty with the sun hanging low over the Atlantic. At midday, keep a brisk pace to stay warm as waves crash against the cold cliffs. Since the sun sets around 17:00, plan to finish your trek early. By evening, the village’s warm lights and stone-walled comfort offer a perfect retreat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mortehoe Museum",
+                "hu": "Mortehoe Múzeum",
+                "ro": "Muzeul Mortehoe",
+                "en": "Mortehoe Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar beheizter Ort, um die Kälte des Morgens zu vertreiben; bewundern Sie die alten Fischerboote und wärmen Sie sich für die Wanderung auf.",
+                "hu": "Kiválóan fűtött helyszín a reggeli fagy elől; csodálja meg a régi halászhajókat és melegedjen át alaposan a tengerparti túra megkezdése előtt.",
+                "ro": "Un loc încălzit minunat pentru a alunga gerul dimineții; admiră bărcile vechi de pescuit și încălzește-te bine înainte de a porni la drum.",
+                "en": "A wonderfully heated space to escape the morning frost; admire the vintage fishing boats and warm up thoroughly before starting your coastal hike."
+              }
+            },
+            {
+              "name": {
+                "de": "Rockham Beach",
+                "hu": "Rockham tengerpart",
+                "ro": "Plaja Rockham",
+                "en": "Rockham Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winterlicht fast surreal; tragen Sie Schal und Handschuhe, da der Seewind hier besonders beißend und unerbittlich sein kann.",
+                "hu": "A part a téli fényekben szinte szürreális látványt nyújt; viseljen sálat és kesztyűt, mert a tengeri szél itt különösen metsző és könyörtelen tud lenni.",
+                "ro": "Plaja arată aproape ireal în lumina iernii; poartă fular și mănuși, deoarece vântul de pe mare poate fi extrem de tăios și necruțător aici.",
+                "en": "The beach looks almost surreal in the crisp winter light; wear a scarf and gloves, as the sea breeze can be particularly biting and relentless here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bull Point Lighthouse",
+                "hu": "Bull Point Világítótorony",
+                "ro": "Farul Bull Point",
+                "en": "Bull Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Das weiße Gebäude leuchtet im klaren Winterlicht besonders hell; achten Sie auf den Weg, da Pfützen am Nachmittag oft schon wieder überfrieren.",
+                "hu": "A fehér épület ragyog a tiszta téli fényben; ügyeljen a lépteire az ösvényen, mert a pocsolyák délutánra gyakran már újra fagyottá és csúszóssá válnak.",
+                "ro": "Clădirea albă strălucește în lumina clară de iarnă; ai grijă pe potecă, deoarece bălțile încep adesea să înghețe din nou spre după-amiază.",
+                "en": "The white structure gleams brightly in the clear winter light; watch your step on the path as puddles often begin to refreeze by mid-afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Grunta Beach",
+                "hu": "Grunta tengerpart",
+                "ro": "Plaja Grunta",
+                "en": "Grunta Beach"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Gezeitenpools oft mit einer dünnen Eisschicht bedeckt; nutzen Sie das Restlicht vor 16:00 Uhr für einen kurzen, sicheren Besuch.",
+                "hu": "Télen a sziklák közötti kis medencéket gyakran vékony jéghártya fedi; használja ki a maradék fényt 16:00 előtt egy rövid, biztonságos látogatásra.",
+                "ro": "Iarna, micile bazine dintre stânci sunt adesea acoperite de o peliculă de gheață; profită de lumină înainte de ora 16:00 pentru o vizită scurtă.",
+                "en": "In winter, the rock pools are often covered with a thin film of ice; make the most of the remaining light before 16:00 for a brief, safe visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Combesgate View",
+                "hu": "Combesgate kilátópont",
+                "ro": "Punctul de belvedere Combesgate",
+                "en": "Combesgate view"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das goldene Licht kurz vor dem frühen Sonnenuntergang; beeilen Sie sich für den Rückweg, sobald die Sonne hinter dem Horizont verschwindet.",
+                "hu": "Élvezze az aranyló fényeket közvetlenül a korai naplemente előtt; siessen vissza a faluba, amint a nap eltűnik a horizont alatt 17:00 körül.",
+                "ro": "Bucură-te de lumina aurie chiar înainte de apusul timpuriu; grăbește-te spre sat imediat ce soarele dispare după orizont în jurul orei 17:00.",
+                "en": "Enjoy the golden light just before the early sunset; head back to the village quickly as soon as the sun dips below the horizon around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a kerékpártúrát a Mortehoe Múzeumban a falu gyökereinek megismerésével, majd tekerjen el a rejtélyes Standing Stone felé. Délben élvezze az aktív kikapcsolódást a Segway Safarin, mielőtt a The Greystone nevű történelmi helyszínre indul. Délután látogasson el a gyönyörű Woolacombe templomba és a két falu történetét bemutató kiállításra. Végül pihenjen meg a lenyűgöző Barricane strandon.",
         "ro": "Începeți turul pe bicicletă la Muzeul Mortehoe pentru a înțelege rădăcinile satului, apoi pedalați spre misteriosul Standing Stone. La prânz, bucurați-vă de distracție activă la Segway Safari înainte de a merge la istoricul The Greystone. După-amiaza include o oprire la frumoasa Biserică Woolacombe și expoziția Povestea a Două Sate. La final, relaxați-vă pe impresionanta plajă Barricane.",
         "en": "Kick off your cycling tour at the Mortehoe Museum to understand the village's roots, then pedal out to the mysterious Standing Stone. For midday, enjoy some active fun at the Segway Safari before heading to the historic site of The Greystone. Your afternoon features a stop at the beautiful Woolacombe Parish Church and the engaging Story of Two Villages exhibit. Finally, relax at the stunning Barricane Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Mortehoe bei Regen ist eine Herausforderung für Abenteurer. Der Vormittag startet nass am Museum, während die Reifen auf dem Asphalt zischen. Mittags führen die Wege über aufgeweichte Pfade zu historischen Steinen, Vorsicht bei Bremsmanövern ist geboten. Am Nachmittag trotzen wir dem Wind an der Küste. Abends belohnen wir uns für die Strapazen in einer warmen, trockenen Unterkunft.",
+            "hu": "A biciklizés Mortehoe környékén esőben igazi kalandoroknak való. A délelőtt vizesen indul a múzeumnál, miközben a gumik suttognak a vizes aszfalton. Délben a történelmi kövek felé vezető utak feláznak, a fékezésnél fokozott óvatosság szükséges. Délután a parton a széllel dacolunk az esőben. Este a szálláson pihenjük ki a sárral és vízzel vívott küzdelem fáradalmait.",
+            "ro": "Ciclismul în Mortehoe pe ploaie este o provocare pentru aventurieri. Dimineața începe cu umezeală la muzeu, în timp ce anvelopele șuieră pe asfaltul ud. La prânz, drumurile spre pietrele istorice devin noroioase, necesitând frânări prudente. După-amiaza înfruntăm vântul pe coastă sub ploaie. Seara ne relaxăm la adăpost, lăsând în urmă oboseala luptei cu noroiul.",
+            "en": "Cycling around Mortehoe in the rain is a true adventurer's challenge. The morning starts wet at the museum as tires hiss on the damp tarmac. By midday, trails to historical sites become muddy, requiring cautious braking. In the afternoon, we battle the coastal wind through the downpour. By evening, dry off and reward yourself for conquering the muddy Devon terrain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mortehoe Museum",
+                "hu": "Mortehoe Múzeum",
+                "ro": "Muzeul Mortehoe",
+                "en": "Mortehoe Museum"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen im Trockenen, bevor Sie losfahren; das Museum bietet den letzten festen Schutz vor der nassen Tour durch das Umland.",
+                "hu": "Ellenőrizze a fékeket még fedett helyen az indulás előtt; a múzeum az utolsó biztos menedék a környékbeli vizes és sáros túra megkezdése előtt.",
+                "ro": "Verifică frânele la adăpost înainte de a pleca; muzeul este ultimul refugiu sigur înainte de a începe tura umedă și noroioasă prin împrejurimi.",
+                "en": "Check your brakes under shelter before setting off; the museum provides the last solid refuge before starting your wet and muddy ride inland."
+              }
+            },
+            {
+              "name": {
+                "de": "Standing Stone",
+                "hu": "Standing Stone",
+                "ro": "Piatra în Picioare",
+                "en": "Standing Stone"
+              },
+              "tip_5lang": {
+                "de": "Die Wiesen um den Stein sind extrem tiefgründig und matschig; stellen Sie Ihr Rad auf festem Grund ab und gehen Sie die letzten Meter zu Fuß.",
+                "hu": "A kő körüli mező rendkívül mély és sáros ilyenkor; hagyja a kerékpárt szilárdabb talajon, és gyalog tegye meg az utolsó pár métert a fűben.",
+                "ro": "Pajiștea din jurul pietrei este foarte moale și noroioasă; lasă bicicleta pe un teren mai solid și parcurge ultimii metri pe jos prin iarbă.",
+                "en": "The fields around the stone get very soft and boggy; leave your bike on firmer ground and walk the final few meters through the wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Segway Safari",
+                "hu": "Segway Szafari",
+                "ro": "Safari cu Segway",
+                "en": "Segway Safari"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Passagen auf dem Übungsgelände; auch bei Regen ist das Gelände befahrbar, aber die Bodenhaftung ist deutlich reduziert.",
+                "hu": "Figyeljen a csúszós szakaszokra a gyakorlópályán; esőben is használható a terep, de a tapadás jelentősen csökken, ezért óvatosan manőverezzen.",
+                "ro": "Atenție la porțiunile alunecoase de pe traseu; terenul poate fi parcurs și pe ploaie, dar aderența este redusă, așa că manevrează cu prudență.",
+                "en": "Watch out for slippery patches on the track; the terrain is still accessible in rain, but traction is reduced, so handle the controls carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "The Greystone",
+                "hu": "The Greystone",
+                "ro": "The Greystone",
+                "en": "The Greystone"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft von Moos bedeckt, das bei Nässe spiegelglatt wird; halten Sie Abstand zu steilen Böschungen beim Abstellen der Räder.",
+                "hu": "A talajt itt gyakran moha borítja, ami nedvesen tükörsima és csúszós; tartson távolságot a meredek rézsűktől, amikor leparkolja a kerékpárokat.",
+                "ro": "Solul este adesea acoperit de mușchi, care devine foarte alunecos când e ud; păstrează distanța față de pantele abrupte când parchezi bicicleta.",
+                "en": "The ground here is often moss-covered and becomes mirror-slick when wet; keep a safe distance from steep banks when parking your bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Woolacombe Parish Church",
+                "hu": "Woolacombe Plébániatemplom",
+                "ro": "Biserica Parohială Woolacombe",
+                "en": "Woolacombe Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang, um kurz zu verschnaufen und die Regenjacke zu richten; die ruhige Atmosphäre bietet eine willkommene Pause.",
+                "hu": "Használja a templom bejáratát egy rövid pihenőre és az esőkabát megigazítására; a csendes belső tér üdítő megállót kínál a zord időben.",
+                "ro": "Folosește intrarea bisericii pentru un scurt popas și pentru a-ți aranja pelerina; interiorul liniștit oferă o pauză binevenită de la vremea rea.",
+                "en": "Use the church porch for a quick breather and to adjust your wet gear; the peaceful interior offers a welcome respite from the driving rain."
+              }
+            },
+            {
+              "name": {
+                "de": "The Story of Two Villages",
+                "hu": "A Két Falu Története",
+                "ro": "Povestea a Două Sate",
+                "en": "The Story of Two Villages"
+              },
+              "tip_5lang": {
+                "de": "Lesen Sie die Informationstafeln schnell, bevor die Sicht durch Regen beschlägt; die Geschichte der Orte ist auch im grauen Dunst faszinierend.",
+                "hu": "Olvassa el gyorsan az információs táblákat, mielőtt a pára elhomályosítja a látást; a falvak története a szürke ködben is rendkívül izgalmas.",
+                "ro": "Citește rapid panourile informative înainte ca vizibilitatea să scadă din cauza ploii; istoria satelor este fascinantă chiar și prin burniță.",
+                "en": "Read the info boards quickly before the mist obscures the view; the history of these villages is fascinating even through the grey Devon drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Barricane Beach (SSSI)",
+                "hu": "Barricane tengerpart (SSSI)",
+                "ro": "Plaja Barricane (SSSI)",
+                "en": "Barricane Beach (SSSI)"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im Sand nach den berühmten Muschelschalen, die bei Regen besonders glänzen; achten Sie auf den sandigen Boden an der Zufahrt.",
+                "hu": "Keresse a homokban a híres kagylóhéjakat, amelyek az esőben különösen csillognak; ügyeljen a homokos, csúszós talajra a strandhoz vezető úton.",
+                "ro": "Caută în nisip faimoasele cochilii care strălucesc deosebit pe ploaie; ai grijă la solul nisipos și alunecos de pe drumul de acces spre plajă.",
+                "en": "Look for the famous seashells in the sand, which gleam beautifully in the rain; be careful on the sandy, slick surface of the access road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour auf zwei Rädern bietet atemberaubende Ausblicke bei klirrender Kälte. Am Morgen liegt oft Reif auf den Wegen, was volle Konzentration erfordert. Mittags wärmt die tiefstehende Sonne nur schwach, winddichte Kleidung ist entscheidend. Am Nachmittag erreichen wir die Küstendörfer, bevor das Licht schwindet. Da es um 17:00 Uhr dunkel wird, sind funktionierende Lichter am Rad absolut notwendig.",
+            "hu": "A téli kétkerekű túra lélegzetelállító kilátást kínál a metsző hidegben. Reggel gyakran zúzmara fedi az utakat, ami teljes koncentrációt igényel. Délben az alacsonyan járó nap csak gyengén melegít, a szélálló öltözet döntő fontosságú. Délután elérjük a parti falvakat, még mielőtt elfogyna a fény. Mivel 17:00-kor sötétedik, a működő lámpák elengedhetetlenek.",
+            "ro": "Turul pe două roți iarna oferă vederi uluitoare în ciuda frigului pătrunzător. Dimineața, promoroaca acoperă adesea drumurile, necesitând concentrare maximă. La prânz, soarele jos încălzește slab, hainele rezistente la vânt fiind esențiale. După-amiaza ajungem în satele de pe coastă înainte de lăsarea întunericului. Deoarece la ora 17:00 se înnoptează, farurile sunt obligatorii.",
+            "en": "A winter ride on two wheels offers breathtaking views despite the biting cold. Mornings often bring frost to the trails, demanding full concentration. At midday, the low sun provides little warmth, so windproof layers are crucial. By afternoon, reach the coastal villages before the light fades. Since it’s dark by 17:00, ensure your bike lights are fully functional."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mortehoe Museum",
+                "hu": "Mortehoe Múzeum",
+                "ro": "Muzeul Mortehoe",
+                "en": "Mortehoe Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um die Gliedmaßen vor der kalten Fahrt aufzuwärmen; im Winter ist die Ausstellung ein gemütlicher Rückzugsort.",
+                "hu": "Használja ki a látogatást a végtagok átmelegítésére a hideg túra előtt; télen a kiállítás barátságos és nyugodt menedéket nyújt a bringásoknak.",
+                "ro": "Profită de vizită pentru a-ți încălzi extremitățile înainte de tura geroasă; iarna, expoziția este un refugiu primitor și liniștit.",
+                "en": "Use this visit to warm your extremities before the freezing ride; in winter, the exhibition is a cozy and quiet retreat for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Standing Stone",
+                "hu": "Standing Stone",
+                "ro": "Piatra în Picioare",
+                "en": "Standing Stone"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist oft hart gefroren, was das Abstellen der Räder erleichtert; genießen Sie die Stille der kargen Winterlandschaft um den Stein.",
+                "hu": "A talaj gyakran keményre fagyott, ami megkönnyíti a kerékpárok letámasztását; élvezze a kő körüli kopár téli táj különleges és néma csendjét.",
+                "ro": "Solul este adesea înghețat bocnă, ceea ce facilitează parcarea bicicletelor; bucură-te de liniștea deplină a peisajului hibernal din jurul pietrei.",
+                "en": "The ground is often frozen solid, making it easier to park your bikes; enjoy the profound silence of the stark winter landscape around the stone."
+              }
+            },
+            {
+              "name": {
+                "de": "Segway Safari",
+                "hu": "Segway Szafari",
+                "ro": "Safari cu Segway",
+                "en": "Segway Safari"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Handschuhe, da die Finger am Lenker schnell auskühlen; die kalte Luft macht die Fahrt über das Gelände besonders erfrischend.",
+                "hu": "Viseljen vastag kesztyűt, mert az ujjak gyorsan áthűlnek a kormányon; a hideg levegő különösen frissítővé teszi a száguldást a terepen.",
+                "ro": "Poartă mănuși groase, deoarece degetele îngheață rapid pe ghidon; aerul rece face parcurgerea traseului deosebit de revigorantă.",
+                "en": "Wear thick gloves as fingers cool down rapidly on the handlebars; the crisp winter air makes the ride across the terrain extra refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "The Greystone",
+                "hu": "The Greystone",
+                "ro": "The Greystone",
+                "en": "The Greystone"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie schattige Stellen, an denen sich Eis halten kann; der historische Ort wirkt unter einer Reifschicht besonders mystisch.",
+                "hu": "Kerülje az árnyékos részeket, ahol megmaradhat a jég; a történelmi helyszín a zúzmarás réteg alatt különösen misztikus és méltóságteljes.",
+                "ro": "Evită zonele umbrite unde gheața poate persista; situl istoric arată deosebit de mistic și impunător sub stratul de chiciură.",
+                "en": "Avoid shaded spots where ice may linger; the historical site looks especially mystical and dignified under a delicate layer of frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Woolacombe Parish Church",
+                "hu": "Woolacombe Plébániatemplom",
+                "ro": "Biserica Parohială Woolacombe",
+                "en": "Woolacombe Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Wind ab; eine perfekte Gelegenheit, um die Thermoskanne auszupacken und sich kurz auszuruhen.",
+                "hu": "A vastag falak távol tartják a jeges szelet; tökéletes alkalom, hogy elővegye a termoszt egy forró teára és egy rövid pihenőre.",
+                "ro": "Zidurile groase țin la distanță vântul înghețat; este ocazia perfectă pentru a scoate termosul cu ceai fierbinte și a te odihni puțin.",
+                "en": "The thick stone walls keep the icy wind at bay; it's a perfect opportunity to bring out your thermos for some hot tea and a quick rest."
+              }
+            },
+            {
+              "name": {
+                "de": "The Story of Two Villages",
+                "hu": "A Két Falu Története",
+                "ro": "Povestea a Două Sate",
+                "en": "The Story of Two Villages"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Infotafeln; nutzen Sie das helle Licht am frühen Nachmittag für Fotos.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet az információs táblákra; használja ki a kora délutáni éles fényeket a fényképezéshez.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste panourile informative; profită de lumina puternică de la începutul după-amiezii pentru fotografii.",
+                "en": "The low winter sun casts long, dramatic shadows over the info boards; take advantage of the bright early afternoon light for clear photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Barricane Beach (SSSI)",
+                "hu": "Barricane tengerpart (SSSI)",
+                "ro": "Plaja Barricane (SSSI)",
+                "en": "Barricane Beach (SSSI)"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; genießen Sie die raue Schönheit des Atlantiks, bevor Sie sich vor Einbruch der Dunkelheit aufmachen.",
+                "hu": "A part télen szinte teljesen néptelen; élvezze az Atlanti-óceán nyers szépségét, mielőtt a sötétedés beállta előtt elindulna visszafelé.",
+                "ro": "Plaja este aproape pustie iarna; bucură-te de frumusețea brută a Atlanticului înainte de a porni înapoi, înainte de lăsarea întunericului.",
+                "en": "The beach is almost deserted in winter; enjoy the raw beauty of the Atlantic before heading back well before the 17:00 darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje az utat a Két Falu Története című lenyűgöző kiállításnál, majd álljon meg a festői Woolacombe templomnál. Délben utazzon beljebb a The Greystone felfedezéséhez, próbálja ki a Segway Safarit, és csodálja meg az ősi Standing Stone-t. A délutánt a Bull Point világítótoronynál és a Mortehoe Múzeum felfedezésével töltheti. Zárja a napot egy kellemes pihenéssel a Combesgate tengerparton.",
         "ro": "Începeți cu fascinanta Poveste a Două Sate, urmată de o oprire liniștită la pitoreasca Biserică Woolacombe. La prânz mergeți spre interior pentru a vedea istoricul Greystone, testați-vă abilitățile la Segway Safari și admirați vechiul Standing Stone. Petreceți după-amiaza la Farul Bull Point și explorând Muzeul Mortehoe. Încheiați călătoria relaxându-vă pe frumoasa plajă Combesgate.",
         "en": "Begin your drive exploring the fascinating Story of Two Villages, followed by a serene morning stop at the picturesque Woolacombe Parish Church. Midday takes you inland to see the historic Greystone, test your skills at the Segway Safari, and admire the ancient Standing Stone. Spend the afternoon marveling at Bull Point Lighthouse and exploring Mortehoe Museum. Finish your road trip unwinding on Combesgate Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Mortehoe auch bei Dauerregen komfortabel erkunden. Am Vormittag steuern wir die Dörfer an, während die Scheibenwischer im Takt arbeiten. Mittags bieten Kirchen und Museen trockene Haltepunkte. Nachmittags fahren wir zu den Aussichtspunkten an der Küste, wo wir das Wetterdrama sicher aus dem Fahrzeug beobachten können. Abends ist die Rückfahrt zum Hotel stressfrei.",
+            "hu": "Autóval Mortehoe környéke tartós esőben is kényelmesen felfedezhető. Délelőtt a falvak között kanyargunk, miközben az ablaktörlők ütemesen dolgoznak. Délben a templomok és múzeumok kínálnak száraz megállókat. Délután a parti kilátópontokhoz hajtunk, ahonnan a kocsi biztonságából figyelhetjük a vihart. Este a visszatérés a szállásra gyors és zökkenőmentes.",
+            "ro": "Cu mașina, împrejurimile orașului Mortehoe pot fi explorate confortabil chiar și pe ploaie continuă. Dimineața parcurgem drumurile dintre sate în timp ce ștergătoarele lucrează ritmic. La prânz, bisericile și muzeele oferă opriri uscate. După-amiaza conducem spre punctele de belvedere de pe coastă, admirând furtuna din siguranța vehiculului. Seara, drumul spre hotel este rapid.",
+            "en": "By car, Mortehoe's surroundings can be explored comfortably even in persistent rain. In the morning, we wind through the villages while wipers beat rhythmically. At midday, churches and museums provide dry stops. In the afternoon, drive to coastal viewpoints to witness the weather's drama from the safety of your vehicle. By evening, returning to your accommodation is quick and easy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Story of Two Villages",
+                "hu": "A Két Falu Története",
+                "ro": "Povestea a Două Sate",
+                "en": "The Story of Two Villages"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich an den Schautafeln, um beim Lesen nicht völlig durchnässt zu werden; die Geschichte der Region lohnt den kurzen Ausstieg.",
+                "hu": "Parkoljon a lehető legközelebb az információs táblákhoz, hogy ne ázzon el teljesen olvasás közben; a régió története megéri a rövid kiszállást.",
+                "ro": "Parchează cât mai aproape de panourile informative pentru a nu te uda complet în timp ce citești; istoria regiunii merită o scurtă coborâre din mașină.",
+                "en": "Park as close as possible to the display boards to avoid getting soaked while reading; the local history is well worth the short dash out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Woolacombe Parish Church",
+                "hu": "Woolacombe Plébániatemplom",
+                "ro": "Biserica Parohială Woolacombe",
+                "en": "Woolacombe Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem prasselnden Regen auf dem Autodach für einen Moment zu entkommen; bewundern Sie die Architektur im weichen, grauen Licht.",
+                "hu": "Ideális helyszín, hogy egy pillanatra elmeneküljön az autótetőn kopogó eső elől; csodálja meg az építészetet a lágy, szürke nappali fényben.",
+                "ro": "Un loc ideal pentru a scăpa un moment de sunetul ploii pe plafonul mașinii; admiră arhitectura în lumina difuză și gri a amiezii.",
+                "en": "An ideal spot to escape the drumming of rain on the car roof for a moment; admire the architecture in the soft, grey light of a rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "The Greystone",
+                "hu": "The Greystone",
+                "ro": "The Greystone",
+                "en": "The Greystone"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Ein- und Ausparken auf unbefestigten Seitenstreifen, da der Boden aufgeweicht sein kann; der Stein wirkt im Regen besonders alt.",
+                "hu": "Vigyázzon a parkolással a burkolatlan padkán, mert a talaj felázhatott és puha; a kő az esőben különösen ősi és titokzatos hangulatot áraszt.",
+                "ro": "Atenție la parcarea pe acostamentele neamenajate, deoarece solul poate fi moale; piatra emană o atmosferă străveche și misterioasă pe ploaie.",
+                "en": "Be careful when parking on unpaved verges as the ground may be soft and muddy; the stone exudes a particularly ancient and mysterious vibe in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Segway Safari",
+                "hu": "Segway Szafari",
+                "ro": "Safari cu Segway",
+                "en": "Segway Safari"
+              },
+              "tip_5lang": {
+                "de": "Erkundigen Sie sich vorab, ob die Touren bei starkem Regen stattfinden; oft gibt es wasserfeste Ponchos für die mutigen Fahrer vor Ort.",
+                "hu": "Érdeklődjön előre, hogy a túrákat megtartják-e szakadó esőben; a helyszínen gyakran biztosítanak vízálló ponchót a legbátrabb résztvevőknek.",
+                "ro": "Interesează-te din timp dacă tururile se țin pe ploaie torențială; adesea se oferă pelerine impermeabile pentru participanții cei mai curajoși.",
+                "en": "Check in advance if tours proceed during heavy rain; waterproof ponchos are often provided on-site for the more adventurous participants."
+              }
+            },
+            {
+              "name": {
+                "de": "Standing Stone",
+                "hu": "Standing Stone",
+                "ro": "Piatra în Picioare",
+                "en": "Standing Stone"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Zoom Ihrer Kamera aus dem trockenen Autofenster, falls es zu stark regnet; der Stein steht markant in der nassen Landschaft.",
+                "hu": "Használja a kamera zoomját a száraz autóablakból, ha túl erősen esne az eső; a kő markánsan emelkedik ki a vizes, páradús tájból.",
+                "ro": "Folosește zoom-ul camerei din confortul mașinii dacă plouă prea tare; piatra se înalță impunător în peisajul umed și învăluit în ceață.",
+                "en": "Use your camera's zoom from the dry car window if the rain is too heavy; the stone stands out strikingly in the misty, wet landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Bull Point Lighthouse",
+                "hu": "Bull Point Világítótorony",
+                "ro": "Farul Bull Point",
+                "en": "Bull Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist eng, fahren Sie bei schlechter Sicht besonders vorsichtig; der Blick auf den Atlantik ist auch bei Regen spektakulär.",
+                "hu": "Az odavezető út keskeny, rossz látási viszonyok között vezessen nagyon óvatosan; az Atlanti-óceán látványa esőben is lenyűgözően látványos.",
+                "ro": "Drumul de acces este îngust, condu cu mare prudență în condiții de vizibilitate scăzută; vederea spre Atlantic este spectaculoāsa și pe ploaie.",
+                "en": "The access road is narrow, so drive extra cautiously in poor visibility; the view of the Atlantic is spectacular even through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mortehoe Museum",
+                "hu": "Mortehoe Múzeum",
+                "ro": "Muzeul Mortehoe",
+                "en": "Mortehoe Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem offiziellen Parkplatz und huschen Sie schnell ins Trockene; die Ausstellungen lassen Sie das schlechte Wetter vergessen.",
+                "hu": "Parkoljon a kijelölt parkolóban, és fusson be gyorsan a fedett térbe; a kiállítások segítenek teljesen elfelejteni a kinti barátságtalan időt.",
+                "ro": "Parchează în locul amenajat și grăbește-te în interior; expozițiile te vor ajuta să uiți complet de vremea neprietenoasă de afară.",
+                "en": "Park in the designated area and dash inside to stay dry; the fascinating exhibits will make you completely forget the unfriendly weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Combesgate Beach",
+                "hu": "Combesgate tengerpart",
+                "ro": "Plaja Combesgate",
+                "en": "Combesgate Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Wellen sicher vom Parkplatz aus; bei Regen wirken die dunklen Klippen und die weiße Gischt besonders kontrastreich.",
+                "hu": "Figyelje a hullámok játékát biztonságban a parkolóból; esőben a sötét sziklák és a fehér tajték különösen kontrasztos látványt nyújtanak.",
+                "ro": "Observă jocul valurilor din siguranța parcării; pe ploaie, stâncile întunecate și spuma albă oferă un spectacol vizual plin de contrast.",
+                "en": "Watch the crashing waves safely from your parking spot; in the rain, the dark cliffs and white spray create a deeply contrasting spectacle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Mortehoe verspricht gemütliche Entdeckungen. Am Morgen sind die Straßen oft glatt, fahren Sie vorausschauend durch die Kurven. Mittags genießen wir die Sonne durch die Windschutzscheibe, während wir historische Stätten besuchen. Da es gegen 17:00 Uhr dunkel wird, planen wir die letzte Station am späten Nachmittag ein. Abends lassen wir den Tag bei Heizungswärme im Wagen ausklingen.",
+            "hu": "A téli autós túra Mortehoe környékén kényelmes és hangulatos felfedezéseket ígér. Reggel az utak gyakran csúszósak, vezessen óvatosan a kanyarokban. Délben a szélvédőn át élvezzük a napsütést, miközben történelmi helyszíneket látogatunk meg. Mivel 17:00 körül sötétedik, az utolsó megállót késő délutánra időzítjük. Este a kocsi fűtött melegében zárjuk a napot.",
+            "ro": "O plimbare de iarnă cu mașina prin Mortehoe promite descoperiri confortabile. Dimineața drumurile sunt adesea alunecoase, deci condu prudent în curbe. La prânz ne bucurăm de soare prin parbriz în timp ce vizităm siturile istorice. Deoarece se înnoptează în jur de 17:00, planificăm ultima oprire spre seară. Încheiem ziua în căldura plăcută a sistemului de climatizare.",
+            "en": "A winter drive through Mortehoe promises cozy discoveries. In the morning, roads can be icy, so drive cautiously through the winding lanes. At midday, enjoy the sun through the windshield while visiting historical sites. Since it gets dark around 17:00, plan your final stop for late afternoon. End your day enjoying the heater's warmth as you return to base."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Story of Two Villages",
+                "hu": "A Két Falu Története",
+                "ro": "Povestea a Două Sate",
+                "en": "The Story of Two Villages"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Heizung warm zu halten, während Sie die Infotafeln lesen; das Winterlicht ist ideal für klare Fotos.",
+                "hu": "Hagyja járni a motort egy rövid ideig a fűtés miatt, amíg elolvassa a táblákat; a téli fényviszonyok ideálisak a tiszta, éles fotókhoz.",
+                "ro": "Lasă motorul pornit scurt timp pentru căldură în timp ce citești panourile; lumina de iarnă este ideală pentru fotografii clare și reușite.",
+                "en": "Keep the heater running briefly to stay warm while reading the boards; the winter light conditions are ideal for clear and sharp photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Woolacombe Parish Church",
+                "hu": "Woolacombe Plébániatemplom",
+                "ro": "Biserica Parohială Woolacombe",
+                "en": "Woolacombe Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; tragen Sie eine warme Jacke für den kurzen Besuch im Inneren der stimmungsvollen Kirche.",
+                "hu": "A vastag falak jól tartják a hideget; viseljen meleg kabátot a hangulatos templom belső terében tett rövid, elmélyült látogatás során is.",
+                "ro": "Zidurile groase păstrează frigul; poartă o jachetă groasă pentru vizita scurtă în interiorul bisericii pline de atmosferă și liniște.",
+                "en": "The thick stone walls hold the cold; wear a warm jacket even for a brief visit inside the atmospheric and peaceful interior of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "The Greystone",
+                "hu": "The Greystone",
+                "ro": "The Greystone",
+                "en": "The Greystone"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf gefrorene Pfützen; der historische Stein wirkt unter einer dünnen Reifschicht besonders imposant und zeitlos.",
+                "hu": "Ügyeljen a parkolásnál a befagyott pocsolyákra; a történelmi jelentőségű kő a vékony zúzmararéteg alatt különösen impozáns és időtlen látvány.",
+                "ro": "Atenție la bălțile înghețate când parchezi; piatra istorică arată deosebit de impunător și atemporală sub un strat subțire de chiciură.",
+                "en": "Watch out for frozen puddles when parking; the historical stone looks especially imposing and timeless under a thin, delicate layer of frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Segway Safari",
+                "hu": "Segway Szafari",
+                "ro": "Safari cu Segway",
+                "en": "Segway Safari"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund und wärmen Sie sich nach der rasanten Fahrt im Auto wieder auf; die Winterluft macht die Tour unvergesslich.",
+                "hu": "Parkoljon szilárd talajon, és a tempós túra után melegedjen vissza az autóban; a friss téli levegő felejthetetlenné teszi a száguldást.",
+                "ro": "Parchează pe teren solid și reîncălzește-te în mașină după tura rapidă; aerul proaspăt de iarnă face experiența una cu adevărat memorabilă.",
+                "en": "Park on firm ground and warm up in the car after your brisk ride; the crisp winter air makes the safari experience truly unforgettable."
+              }
+            },
+            {
+              "name": {
+                "de": "Standing Stone",
+                "hu": "Standing Stone",
+                "ro": "Piatra în Picioare",
+                "en": "Standing Stone"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das karge Hochland aus dem warmen Cockpit; der Kontrast zwischen Innenwärme und Außenkälte ist herrlich.",
+                "hu": "Élvezze a tágas kilátást a kopár fennsíkra a fűtött utastérből; a benti meleg és a kinti hideg közötti kontraszt itt különösen kellemes.",
+                "ro": "Admiră vederea panoramică asupra platoului golaș din interiorul încălzit; contrastul dintre căldura din mașină și gerul de afară este plăcut.",
+                "en": "Enjoy the expansive views over the stark moorland from your heated cabin; the contrast between indoor warmth and outdoor frost is delightful."
+              }
+            },
+            {
+              "name": {
+                "de": "Bull Point Lighthouse",
+                "hu": "Bull Point Világítótorony",
+                "ro": "Farul Bull Point",
+                "en": "Bull Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt kann im Winter bei Reif tückisch sein; das Licht des Turms wirkt in der frühen Dämmerung gegen 16:30 Uhr besonders magisch.",
+                "hu": "Az odavezető út zúzmarás időben csalóka lehet; a torony fénye a korai szürkületben, 16:30 körül tűnik a legvarázslatosabbnak és legszebbnek.",
+                "ro": "Drumul de acces poate fi înșelător pe timp de polei; lumina farului pare magică în amurgul timpuriu, în jurul orei 16:30.",
+                "en": "The access road can be treacherous during frost; the lighthouse beacon looks most magical in the early winter twilight around 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Mortehoe Museum",
+                "hu": "Mortehoe Múzeum",
+                "ro": "Muzeul Mortehoe",
+                "en": "Mortehoe Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für eine Pause von der winterlichen Kälte; die Exponate sind im Winter oft ohne großen Andrang zu sehen.",
+                "hu": "Használja ki a fűtött belső teret egy pihenőre a téli hideg elől; a kiállítások télen gyakran tömeg nélkül, nyugodtan megtekinthetőek.",
+                "ro": "Profită de interiorul încălzit pentru o pauză de la gerul iernii; expozițiile pot fi vizitate iarna în liniște, fără aglomerația obișnuită.",
+                "en": "Take advantage of the heated interior for a break from the winter chill; the exhibits can often be enjoyed without any crowds in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Combesgate Beach",
+                "hu": "Combesgate tengerpart",
+                "ro": "Plaja Combesgate",
+                "en": "Combesgate Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean und erleben Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt aus dem Auto; ein perfekter Abschluss.",
+                "hu": "Parkoljon az óceánra néző helyen, és nézze végig a korai naplementét 17:00 körül közvetlenül a kocsiból; tökéletes befejezése a napnak.",
+                "ro": "Parchează cu fața spre ocean și urmărește apusul timpuriu de la ora 17:00 direct din mașină; este finalul perfect pentru o zi de iarnă.",
+                "en": "Park with a view of the ocean and watch the early sunset at 17:00 directly from your car; it's a perfect conclusion to your winter tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

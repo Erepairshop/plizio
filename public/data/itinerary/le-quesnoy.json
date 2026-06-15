@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a történelmi erődítményeknél és a lenyűgöző városkapunál.\n\nDélben sétáljon végig a hangulatos utcákon, megcsodálva az elegáns városházát és a régi laktanyát.\n\nDélután a tónál egy zöld oázis várja, amely tökéletes egy pihentető sétához.\n\nAz estét vidám, családbarát kalandok vagy csendes, elmélyült pillanatok teszik felejthetetlenné.",
         "ro": "Începeți ziua explorând fortificațiile istorice și impresionanta poartă a orașului.\n\nLa prânz, plimbați-vă pe străduțele fermecătoare, admirând primăria elegantă și fosta cazarmă militară.\n\nDupă-amiaza vă așteaptă o oază verde lângă iaz, locul perfect pentru o scurtă relaxare.\n\nSeara se încheie fie cu aventuri în familie, fie cu momente de liniște spirituală.",
         "en": "Start the day exploring the historic fortifications and the impressive city gate.\n\nAt noon, stroll through the charming streets, admiring the elegant town hall and the former military barracks.\n\nIn the afternoon, a green oasis awaits by the pond, offering the perfect spot for a relaxing walk.\n\nThe evening concludes with either fun family adventures or quiet, contemplative moments."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen mit einem Regenschirm an den Stadttoren. Suchen Sie mittags Schutz nahe dem historischen Rathaus und der Kaserne. Verbringen Sie den Nachmittag auf den nassen, nebligen Wegen am See. Beenden Sie den Tag drinnen im Familienpark und entkommen Sie so den letzten Schauern.",
+            "hu": "Kezdje az esős reggelt esernyővel a várkapuknál. Délben keressen menedéket a történelmi városháza és a laktanya közelében. Délután óvatosan sétáljon a tó nedves ösvényein. Zárja a napot a fedett kalandparkban, teljesen elkerülve az esti záporokat.",
+            "ro": "Începeți dimineața ploioasă cu o umbrelă la porțile cetății. La prânz, căutați adăpost lângă primăria istorică și cazărmi. Petreceți după-amiaza pe potecile umede ale lacului. Încheiați ziua în parcul de aventură acoperit pentru a scăpa de ploaie.",
+            "en": "Start the rainy morning exploring the gates under an umbrella. At noon, seek shelter near the historic town hall and barracks. Spend the afternoon safely navigating the damp paths around the lake. Finish the day indoors at the family park, avoiding the heaviest evening showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porte de Valenciennes",
+                "hu": "Valenciennes-kapu",
+                "ro": "Poarta Valenciennes",
+                "en": "Valenciennes Gate"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die massiven Backsteinbefestigungen, aber achten Sie auf sehr rutschiges Kopfsteinpflaster im Regen.",
+                "hu": "Csodálja meg a masszív téglaerődítményt, de fokozottan vigyázzon a csúszós macskaköveken záporok idején.",
+                "ro": "Admirați fortificațiile masive din cărămidă, dar pășiți cu mare grijă pe piatra cubică alunecoasă.",
+                "en": "Admire the massive brick fortifications, but step carefully on the slippery cobblestones during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Le Quesnoy",
+                "hu": "Le Quesnoy Városháza",
+                "ro": "Primăria din Le Quesnoy",
+                "en": "Le Quesnoy Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das elegante Rathaus; treten Sie bei starkem Regen unter die Torbögen, um trocken zu bleiben.",
+                "hu": "Nézze meg az elegáns városházát és harangtornyát; húzódjon be az előcsarnokba, ha rákezdenek az esőre.",
+                "ro": "Vedeți primăria elegantă; intrați sub arcadele acoperite pentru a rămâne uscat dacă ploaia devine puternică.",
+                "en": "See the elegant civic building and its belfry; step inside the lobby to stay dry if the rain gets heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaserne Cernay",
+                "hu": "Cernay laktanya",
+                "ro": "Cazarma Cernay",
+                "en": "Caserne Cernay"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historische Kasernenarchitektur, die unter ihren weiten Bögen tollen Schutz bietet.",
+                "hu": "Fedezze fel a történelmi laktanyaépületet, melynek széles árkádjai alatt remek esővédett menedéket talál.",
+                "ro": "Explorați arhitectura istorică a cazărmii, care oferă un adăpost excelent sub arcadele sale largi.",
+                "en": "Explore the historic military barracks architecture, which offers great shelter under its wide archways."
+              }
+            },
+            {
+              "name": {
+                "de": "Teich Pont Rouge",
+                "hu": "Vörös Híd-tó",
+                "ro": "Iazul Pont Rouge",
+                "en": "Étang du Pont Rouge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die neblige Atmosphäre am See und tragen Sie wasserdichte Schuhe für die schlammigen Wege.",
+                "hu": "Élvezze a tó párás, misztikus hangulatát, de feltétlenül viseljen vízálló cipőt a saras ösvények miatt.",
+                "ro": "Bucurați-vă de atmosfera cețoasă a lacului, purtând cizme impermeabile pentru potecile noroioase.",
+                "en": "Enjoy the moody, misty atmosphere over the lake, wearing waterproof boots to tackle the muddy trails."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cité Déchaînée",
+                "hu": "La Cité Déchaînée Kalandpark",
+                "ro": "La Cité Déchaînée",
+                "en": "La Cité Déchaînée"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Indoor-Aktivitäten für Familien, um dem nasskalten Regenwetter draußen komplett zu entkommen.",
+                "hu": "Fedezze fel a benti családi zónákat, ahol mindenki jól szórakozhat, teljesen elmenekülve a szabadtéri eső elől.",
+                "ro": "Descoperiți zonele de activități interioare unde familia se poate distra, scăpând complet de vremea rea.",
+                "en": "Discover indoor activity zones where the family can have fun while completely escaping the rain outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen warm eingepackt an den alten Toren. Mittags wirken Rathaus und Kasernen in der klaren Luft imposant. Spazieren Sie nachmittags am zugefrorenen See. Besuchen Sie vor dem frühen Sonnenuntergang um 17 Uhr den warmen Familienpark.",
+            "hu": "Kezdje a csípős téli reggelt melegen felöltözve a régi városkapuknál. Délben a tiszta levegőben lenyűgöző a városháza és a laktanya. Délután sétáljon egyet a dérmepte tó körül. Sötétedés előtt, 17 óra tájékán keressen meleg benti szórakozást a kalandparkban.",
+            "ro": "Începeți o dimineață rece de iarnă bine îmbrăcat la vechile porți. La prânz, aerul proaspăt face primăria să arate impresionant. Plimbați-vă în jurul lacului înghețat după-amiaza. Căutați distracție la interior în parcul familial înainte de apusul de la 17:00.",
+            "en": "Start a brisk winter morning wrapped warmly at the old city gates. By noon, the crisp air makes the town hall and barracks look striking. Walk around the frosted lake early in the afternoon. Seek cozy indoor fun at the family park before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porte de Valenciennes",
+                "hu": "Valenciennes-kapu",
+                "ro": "Poarta Valenciennes",
+                "en": "Valenciennes Gate"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die frostigen Wälle im winterlichen Morgenlicht, aber achten Sie auf Eis auf der Brücke.",
+                "hu": "Csodálja meg a dérrel borított sáncokat a téli reggeli fényben, de vigyázzon a jeges foltokra a hídon.",
+                "ro": "Admirați meterezele acoperite de gheață în lumina dimineții, dar atenție la peticele alunecoase de pe pod.",
+                "en": "Marvel at the frost-covered ramparts in the winter morning light, but watch out for icy patches on the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Le Quesnoy",
+                "hu": "Le Quesnoy Városháza",
+                "ro": "Primăria din Le Quesnoy",
+                "en": "Le Quesnoy Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die majestätische Fassade gegen den Winterhimmel und wärmen Sie sich rasch in einem Café auf.",
+                "hu": "Fotózza le a fenséges homlokzatot a szürke téli égbolt előtt, majd melegedjen fel egy közeli kávézóban.",
+                "ro": "Fotografiați fațada maiestuoasă sub cerul de iarnă, apoi găsiți o cafenea pentru a vă încălzi rapid.",
+                "en": "Photograph the majestic facade against the gray winter sky, then find a nearby cafe to warm up quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaserne Cernay",
+                "hu": "Cernay laktanya",
+                "ro": "Cazarma Cernay",
+                "en": "Caserne Cernay"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die imposanten Militäranlagen, die mit Schnee auf den Dächern besonders dramatisch wirken.",
+                "hu": "Tekintse meg az impozáns katonai épületeket, amelyek különösen drámaian festenek egy kis hóval a tetejükön.",
+                "ro": "Vedeți structurile militare impunătoare care arată dramatic atunci când zăpada le acoperă acoperișurile.",
+                "en": "View the imposing military structures that look especially dramatic when winter snow dusts their rooftops."
+              }
+            },
+            {
+              "name": {
+                "de": "Teich Pont Rouge",
+                "hu": "Vörös Híd-tó",
+                "ro": "Iazul Pont Rouge",
+                "en": "Étang du Pont Rouge"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen ruhigen Spaziergang um den frostigen See und tragen Sie dicke Schichten gegen den rauen Wind.",
+                "hu": "Tegyen egy békés sétát a csendes, deres tó körül, nagyon vastag rétegekbe öltözve a csípős szél ellen.",
+                "ro": "Faceți o plimbare liniștită în jurul lacului înghețat, îmbrăcat în straturi groase împotriva vântului rece.",
+                "en": "Take a peaceful walk around the quiet, frosted lake, dressing in thick layers against the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cité Déchaînée",
+                "hu": "La Cité Déchaînée Kalandpark",
+                "ro": "La Cité Déchaînée",
+                "en": "La Cité Déchaînée"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang im beheizten Indoor-Park, um zu entspannen, wenn es draußen früh dunkel wird.",
+                "hu": "Zárja a sétát ebben a fűtött benti parkban, ahol kikapcsolódhat, ahogy kint leszáll a korai téli sötétség.",
+                "ro": "Încheiați plimbarea în acest parc interior încălzit pentru a vă relaxa, pe măsură ce întunericul cade devreme.",
+                "en": "End your walk in this heated indoor park to relax and play as the early winter darkness falls outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a napot a történelmi erődítményeknél és a lenyűgöző városkapunál.\n\nDélben sétáljon végig a hangulatos utcákon, megcsodálva az elegáns városházát és a régi laktanyát.\n\nDélután a tónál egy zöld oázis várja, amely tökéletes egy pihentető sétához.\n\nAz estét vidám, családbarát kalandok vagy csendes, elmélyült pillanatok teszik felejthetetlenné.",
         "ro": "Începeți ziua explorând fortificațiile istorice și impresionanta poartă a orașului.\n\nLa prânz, plimbați-vă pe străduțele fermecătoare, admirând primăria elegantă și fosta cazarmă militară.\n\nDupă-amiaza vă așteaptă o oază verde lângă iaz, locul perfect pentru o scurtă relaxare.\n\nSeara se încheie fie cu aventuri în familie, fie cu momente de liniște spirituală.",
         "en": "Start the day exploring the historic fortifications and the impressive city gate.\n\nAt noon, stroll through the charming streets, admiring the elegant town hall and the former military barracks.\n\nIn the afternoon, a green oasis awaits by the pond, offering the perfect spot for a relaxing walk.\n\nThe evening concludes with either fun family adventures or quiet, contemplative moments."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie früh mit wasserdichtem Poncho zu den Festungstoren. Radeln Sie mittags vorsichtig über nasses Pflaster am Rathaus. Verbringen Sie den Nachmittag auf den schlammigen, aber atmosphärischen Wegen am See. Beenden Sie die Tour an der Kirche, die einen trockenen Rückzugsort bietet.",
+            "hu": "Induljon korán vízálló poncsóban a várkapukhoz. Délben óvatosan tekerjen a vizes macskaköveken a városháza és a laktanya körül. Délután biciklizzen a tó saras ösvényein. Zárja a napot a templomnál, amely száraz és békés menedéket nyújt az eső elől.",
+            "ro": "Porniți devreme cu un poncho impermeabil la porțile cetății. La prânz, pedalați cu grijă pe piatra cubică udă lângă primărie. Petreceți după-amiaza pe potecile noroioase de lângă lac. Încheiați la biserică, un refugiu uscat și liniștit de ploaie.",
+            "en": "Ride out early with a waterproof poncho to see the fortress gates. At midday, pedal carefully over wet cobbles near the civic center and barracks. Spend the afternoon cycling on muddy paths by the lake. Finish at the church, offering a dry, peaceful retreat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porte de Valenciennes",
+                "hu": "Valenciennes-kapu",
+                "ro": "Poarta Valenciennes",
+                "en": "Valenciennes Gate"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die massiven Tore an, aber prüfen Sie Ihre Bremsen auf den nassen, extrem rutschigen Hängen.",
+                "hu": "Nézze meg a masszív kapukat, de győződjön meg róla, hogy a fékek jól fognak a csúszós, nedves lejtőkön.",
+                "ro": "Examinați porțile masive, dar asigurați-vă că frânele funcționează bine pe pantele umede și alunecoase.",
+                "en": "Check out the massive gates, but ensure your bike brakes are working well on the slick, wet defensive slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Le Quesnoy",
+                "hu": "Le Quesnoy Városháza",
+                "ro": "Primăria din Le Quesnoy",
+                "en": "Le Quesnoy Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter Markisen und bewundern Sie trocken die gotischen Details des schönen Rathauses.",
+                "hu": "Parkolja le a kerékpárt egy napellenző alatt, és szárazon szánjon egy percet a városháza gótikus részleteire.",
+                "ro": "Parcați bicicleta sub copertine și admirați pentru un moment detaliile în stil gotic ale primăriei.",
+                "en": "Park your bike under nearby awnings and take a moment to admire the town hall's Gothic-style details."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaserne Cernay",
+                "hu": "Cernay laktanya",
+                "ro": "Cazarma Cernay",
+                "en": "Caserne Cernay"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die weiten Bögen der alten Kaserne für eine Pause, falls ein starker Regenschauer durchzieht.",
+                "hu": "Használja a régi laktanya széles boltíveit pihenőre, ha épp áthalad egy hevesebb zápor a városon.",
+                "ro": "Folosiți arcadele largi ale cazărmii pentru o pauză de la pedalat dacă trece o aversă puternică de ploaie.",
+                "en": "Use the wide arches of the old barracks to take a break from cycling if a heavy rain shower passes over."
+              }
+            },
+            {
+              "name": {
+                "de": "Teich Pont Rouge",
+                "hu": "Vörös Híd-tó",
+                "ro": "Iazul Pont Rouge",
+                "en": "Étang du Pont Rouge"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie um das neblige Wasser und bleiben Sie auf gepflasterten Abschnitten, um tiefen Schlamm zu meiden.",
+                "hu": "Tekerje körbe a ködös tavat, de maradjon a burkolt szakaszokon, hogy ne süllyedjen bele a mély sárba.",
+                "ro": "Pedalați pe lângă apele cețoase, rămânând pe secțiunile pavate pentru a evita împotmolirea în noroi.",
+                "en": "Cycle around the misty waters, staying on the paved sections to avoid getting bogged down in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Éloi",
+                "hu": "Szent Elígiusz-templom",
+                "ro": "Biserica Saint-Éloi",
+                "en": "Église Saint-Éloi"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie in diese prächtige Kirche, um im Trockenen die bunten, im grauen Licht leuchtenden Fenster zu sehen.",
+                "hu": "Lépjen be a grandiózus templomba megszáradni, és csodálja meg a szürke fényben fürdő üvegablakokat.",
+                "ro": "Intrați în această biserică grandioasă pentru a vă usca și a admira vitraliile luminate de lumina gri.",
+                "en": "Step inside this grand church to dry off and enjoy the stunning stained glass illuminated by the soft, gray light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine morgendliche Fahrt zu den Festungsmauern gut ein. Genießen Sie mittags die winterliche Schönheit von Rathaus und Kaserne. Radeln Sie nachmittags am eisigen See. Beenden Sie die Tour an der warmen Kirche vor der Dunkelheit um 17 Uhr.",
+            "hu": "Öltözzön fel melegen a reggeli tekeréshez a várfalakhoz. Délben élvezze a városháza és a laktanya rideg téli szépségét. Délután biciklizzen a jeges tó körül. Fejezze be az utat korán a meleg templomnál, mielőtt 17 órakor beáll a sötétség.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală la cetate. La prânz, bucurați-vă de frumusețea de iarnă a cazărmii și primăriei. Pedalați în jurul lacului înghețat după-amiaza. Încheiați devreme la biserica caldă, înainte de a se întuneca la 17:00.",
+            "en": "Bundle up for a crisp morning ride to the fortress walls. By noon, enjoy the stark winter beauty of the barracks and town hall. Ride around the icy lake in the afternoon chill. Wrap up your cycling early at the warm church before the 5 PM darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porte de Valenciennes",
+                "hu": "Valenciennes-kapu",
+                "ro": "Poarta Valenciennes",
+                "en": "Valenciennes Gate"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die zugefrorenen Gräben vom Tor aus; tragen Sie dicke Radhandschuhe gegen den kalten Fahrtwind.",
+                "hu": "Csodálja meg a befagyott várárkokat a kaputól; viseljen vastag biciklis kesztyűt a fagyos menetszél ellen.",
+                "ro": "Admirați șanțurile înghețate de la poartă, purtând mănuși groase de ciclism pentru a vă menține mâinile calde.",
+                "en": "Marvel at the frozen moats from the gateway, wearing thick cycling gloves to keep your hands warm on the bars."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Le Quesnoy",
+                "hu": "Le Quesnoy Városháza",
+                "ro": "Primăria din Le Quesnoy",
+                "en": "Le Quesnoy Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Silhouette des Rathauses und machen Sie Halt für ein wärmendes Heißgetränk.",
+                "hu": "Csodálja meg a harangtorony téli sziluettjét, és álljon meg egy forró italra, hogy felengedjenek a lábujjai.",
+                "ro": "Admirați silueta de iarnă a turnului și opriți-vă pentru o băutură caldă pentru a vă dezgheța degetele.",
+                "en": "Admire the wintery silhouette of the belfry and consider stopping for a hot drink to thaw your freezing toes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaserne Cernay",
+                "hu": "Cernay laktanya",
+                "ro": "Cazarma Cernay",
+                "en": "Caserne Cernay"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie bei einer Radpause, wie die strengen Backsteinmauern der Kaserne dem rauen Winterwind trotzen.",
+                "hu": "Egy rövid pihenő alatt nézze meg, ahogy a laktanya zord téglafalai dacolnak a hideg, metsző téli széllel.",
+                "ro": "Vedeți zidurile austere de cărămidă ale cazărmii rezistând puternic împotriva vântului de iarnă în timpul pauzei.",
+                "en": "See the austere brick walls of the barracks standing strong against the winter wind during a brief cycling pause."
+              }
+            },
+            {
+              "name": {
+                "de": "Teich Pont Rouge",
+                "hu": "Vörös Híd-tó",
+                "ro": "Iazul Pont Rouge",
+                "en": "Étang du Pont Rouge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie flott vorbei an kahlen Bäumen; achten Sie auf den Radwegen unbedingt auf gefährliches Blitzeis.",
+                "hu": "Tekerjen gyorsan a kopár fák és fagyott vizek mellett, nagyon ügyelve a bicikliutakon lévő alattomos jégfoltokra.",
+                "ro": "Treceți rapid pe lângă copacii goi și apa înghețată, fiind atenți la peticele de gheață neagră de pe piste.",
+                "en": "Ride swiftly past the barren trees and frozen water, watching carefully for patches of black ice on the bike paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Éloi",
+                "hu": "Szent Elígiusz-templom",
+                "ro": "Biserica Saint-Éloi",
+                "en": "Église Saint-Éloi"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in diesem relativ warmen Gotteshaus, wenn der frühe Sonnenuntergang die Kälte bringt.",
+                "hu": "Keressen menedéket ebben a csendes, viszonylag meleg templomban, mielőtt a korai naplemente csípős hideget hoz.",
+                "ro": "Căutați refugiu în interiorul acestui lăcaș religios cald, pe măsură ce apusul devreme aduce frigul nopții.",
+                "en": "Seek refuge inside this quiet, relatively warm religious site as the early sunset brings biting evening cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje a napot a történelmi erődítményeknél és a lenyűgöző városkapunál.\n\nDélben sétáljon végig a hangulatos utcákon, megcsodálva az elegáns városházát és a régi laktanyát.\n\nDélután a tónál egy zöld oázis várja, amely tökéletes egy pihentető sétához.\n\nAz estét vidám, családbarát kalandok vagy csendes, elmélyült pillanatok teszik felejthetetlenné.",
         "ro": "Începeți ziua explorând fortificațiile istorice și impresionanta poartă a orașului.\n\nLa prânz, plimbați-vă pe străduțele fermecătoare, admirând primăria elegantă și fosta cazarmă militară.\n\nDupă-amiaza vă așteaptă o oază verde lângă iaz, locul perfect pentru o scurtă relaxare.\n\nSeara se încheie fie cu aventuri în familie, fie cu momente de liniște spirituală.",
         "en": "Start the day exploring the historic fortifications and the impressive city gate.\n\nAt noon, stroll through the charming streets, admiring the elegant town hall and the former military barracks.\n\nIn the afternoon, a green oasis awaits by the pond, offering the perfect spot for a relaxing walk.\n\nThe evening concludes with either fun family adventures or quiet, contemplative moments."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den verregneten Morgen geschützt an der historischen Kirche. Mittags fahren Sie zu den Toren und zum Rathaus, mit kurzen Wegen ins Trockene. Betrachten Sie nachmittags das Schloss durch nasse Fenster. Enden Sie sicher an der großen Kirche, fernab des Regens.",
+            "hu": "Kezdje az esős reggeli autózást a történelmi templomnál. Délben a várkapu és a városháza következik, gyorsan beszaladva a fedett bejáratok alá. Délután az esőáztatta ablakon át csodálja a kastélyt. Zárja a napot teljes biztonságban és szárazon a templomnál.",
+            "ro": "Începeți dimineața ploioasă cu mașina la biserica istorică. La prânz, vizitați porțile impunătoare și primăria, alergând scurt spre intrările acoperite. După-amiaza, priviți castelul prin ferestrele ude. Încheiați în siguranță la biserica grandioasă.",
+            "en": "Start your rainy morning drive at the historic church. Midday brings you to the imposing gates and town hall, where you can dash between the car and sheltered entryways. In the afternoon, view the castle through rain-streaked windows. End safely at the grand church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Innere der Kirche; schütteln Sie Ihren Regenschirm aus, bevor Sie die trockenen Schiffe erkunden.",
+                "hu": "Csodálja meg a templom belső terét, és rázza le jól az esernyőjét, mielőtt felfedezi a száraz hajókat.",
+                "ro": "Admirați interiorul liniștit al bisericii, scuturând umbrela înainte de a explora naosul uscat și tăcut.",
+                "en": "Admire the church's serene interior, shaking off your umbrella before exploring its quiet, dry naves."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Valenciennes",
+                "hu": "Valenciennes-kapu",
+                "ro": "Poarta Valenciennes",
+                "en": "Valenciennes Gate"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch oder parken Sie nah, um das nasse, im grauen Licht glänzende Mauerwerk zu sehen.",
+                "hu": "Hajtson át lassan, vagy parkoljon a kapuk közelében, hogy láthassa a szürke ég alatt csillogó nedves téglafalakat.",
+                "ro": "Conduceți încet sau parcați lângă porți pentru a aprecia zidăria udă strălucind sub cerul gri.",
+                "en": "Drive slowly through or park near the gates to appreciate the wet brickwork shining under the gray skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Le Quesnoy",
+                "hu": "Le Quesnoy Városháza",
+                "ro": "Primăria din Le Quesnoy",
+                "en": "Le Quesnoy Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Huschen Sie vom nahen Parkplatz ins Rathaus, um dessen Architektur zu sehen, ohne durchnässt zu werden.",
+                "hu": "Szaladjon be a parkolóból a városházára, hogy megcsodálja az építészetet anélkül, hogy elázna egy záportól.",
+                "ro": "Fugiți de la parcare în primărie pentru a vedea arhitectura fără a vă uda din cauza averselor bruște.",
+                "en": "Dash from your parking spot into the town hall to see its architecture without getting soaked by sudden showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Potelle",
+                "hu": "Potelle kastély",
+                "ro": "Castelul Potelle",
+                "en": "Château de Potelle"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses schöne Schloss bequem und trocken aus dem Auto heraus, wenn es draußen stark regnet.",
+                "hu": "Szemlélje meg ezt a gyönyörű magánkastélyt az autója kényelméből és melegéből, ha nagyon szakad az eső.",
+                "ro": "Priviți acest frumos castel privat din confortul și căldura uscată a mașinii dumneavoastră dacă plouă puternic.",
+                "en": "View this beautiful private castle from the comfort and dry warmth of your car if the rain is falling heavily."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Géry",
+                "hu": "Szent Gaugericus-templom",
+                "ro": "Biserica Saint-Géry",
+                "en": "Église Saint-Géry"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour in dieser majestätischen Kirche, einem perfekten Schutzraum mit beeindruckender Geschichte.",
+                "hu": "Zárja az esős túrát ebben a fenséges templomban, amely tökéletes menedék és lenyűgöző helytörténeti kincs.",
+                "ro": "Încheiați turul ploios în interiorul acestei biserici, un sanctuar perfect adăpostit plin de istorie.",
+                "en": "End the rainy tour inside this majestic church, a perfect sheltered sanctuary offering impressive local history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine warme morgendliche Fahrt zur Kirche. Mittags bieten sich winterliche Blicke auf Tore und Rathaus; nutzen Sie die Autoheizung. Nachmittags wirkt das frostige Schloss magisch. Beenden Sie die Tour an der Kirche vor dem frühen Einbruch der Dunkelheit.",
+            "hu": "Élvezze a fűtött reggeli autózást a templomhoz. Délben téli kilátás nyílik a kapukra és a városházára; melegedjen a kocsiban két megálló közt. Kora délután a deres kastély varázslatos. Zárja az utat a templomnál a korai, 17 órás sötétedés előtt.",
+            "ro": "Bucurați-vă de un drum matinal încălzit spre biserică. La prânz aveți vederi de iarnă cu porțile și primăria; încălziți-vă în mașină. După-amiaza devreme, castelul înghețat pare magic. Încheiați la biserică înainte să se întunece la 17:00.",
+            "en": "Enjoy a heated morning drive to the quiet church. Midday brings wintery views of the old gates and town hall; use the car heater between stops. In the early afternoon, the frosted castle looks magical. Finish at the historic church before the sun drops at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem Auto, um den Altar zu sehen; tragen Sie einen dicken Mantel, da die Steinmauern eiskalt sind.",
+                "hu": "Szálljon ki a meleg autóból az oltárhoz, de vegyen fel vastag kabátot, mert a régi kőfalak tartják a hideget.",
+                "ro": "Coborâți din mașina caldă pentru a vedea altarul, luând o haină groasă, deoarece zidurile de piatră țin frigul.",
+                "en": "Step from your warm car to see the altar, bringing a thick coat as the old stone walls hold the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Valenciennes",
+                "hu": "Valenciennes-kapu",
+                "ro": "Poarta Valenciennes",
+                "en": "Valenciennes Gate"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das frostige Mauerwerk; sorgen Sie für Winterreifen, falls das Kopfsteinpflaster gefährlich vereist ist.",
+                "hu": "Nézze meg az erőd deres téglafalát; győződjön meg a téli gumikról, ha a jeges macskaköveken vezet.",
+                "ro": "Vedeți zidăria impresionantă; asigurați-vă că aveți anvelope de iarnă dacă navigați pe piatra cubică înghețată.",
+                "en": "See the impressive frosted brickwork of the fortress; ensure your car has winter tires if navigating icy cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Le Quesnoy",
+                "hu": "Le Quesnoy Városháza",
+                "ro": "Primăria din Le Quesnoy",
+                "en": "Le Quesnoy Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das schneebedeckte Dach des Rathauses, bevor Sie schnell ins wohlig warme Auto zurückkehren.",
+                "hu": "Csodálja meg a harangtorony havas tetejét, mielőtt gyorsan visszatérne a járműve fűtött kényelmébe.",
+                "ro": "Admirați acoperișul înzăpezit al turnului înainte de a vă întoarce rapid la confortul încălzit al vehiculului.",
+                "en": "Admire the snowy roof of the belfry before quickly returning to the heated comfort of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Potelle",
+                "hu": "Potelle kastély",
+                "ro": "Castelul Potelle",
+                "en": "Château de Potelle"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie vorsichtig am winterlichen Randstreifen, um dieses märchenhafte, leicht verschneite Schloss zu fotografieren.",
+                "hu": "Húzódjon le óvatosan a téli útpadkán, hogy lefotózza ezt a friss hóval meghintett, mesébe illő kastélyt.",
+                "ro": "Trageți pe dreapta cu grijă pe marginea drumului pentru a fotografia acest castel acoperit cu zăpadă proaspătă.",
+                "en": "Pull over carefully on the wintery shoulders to photograph this storybook castle dusted beautifully with fresh snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Géry",
+                "hu": "Szent Gaugericus-templom",
+                "ro": "Biserica Saint-Géry",
+                "en": "Église Saint-Géry"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie vor der Dunkelheit drinnen Zuflucht und beenden Sie Ihren Roadtrip in feierlicher Winterdämmerung.",
+                "hu": "Keressen menedéket bent a korai sötétedés előtt, és zárja autós útját a békés, ünnepélyes téli szürkületben.",
+                "ro": "Căutați refugiu înăuntru înainte de întunericul de la 17:00, încheind călătoria în amurgul solemn de iarnă.",
+                "en": "Seek refuge inside before the 5 PM darkness, wrapping up your road trip in the peaceful, solemn winter twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Houdain szívében, felfedezve a klasszikus Városházát és a közeli történelmi templomot. A délelőtt lágy bevezetést nyújt a város barátságos, nyugodt életritmusába. \n\nNyugat felé haladva a séta csendes utcákon át vezet az Église Saint-Rémi felé. Ez a kellemes barangolás kiemeli a helyi építészet mindennapi báját. \n\nDélután irány a festői Château de Ranchicourt, egy gyönyörű birtok, amely lenyűgöző megjelenésével bőven megjutalmazza a hosszabb sétát. \n\nZárja a napot a közeli Église Notre-Dame-nál, hagyva, hogy a történelmi kastélynegyed békés környezete nyugodt befejezést nyújtson a gyalogtúrának.",
         "ro": "Începeți ziua în inima orașului Houdain, explorând Primăria clasică și biserica sa istorică. Dimineața oferă o introducere blândă în ritmul primitor și liniștit al orașului. \n\nContinuând spre vest, plimbarea vă poartă pe străzi liniștite către Église Saint-Rémi. Această promenadă plăcută evidențiază farmecul de zi cu zi al arhitecturii locale. \n\nDupă-amiaza, îndreptați-vă atenția spre pitorescul Château de Ranchicourt, o moșie superbă care recompensează plimbarea lungă prin prezența sa magnifică. \n\nÎncheiați-vă ziua la Église Notre-Dame din apropiere, permițând împrejurimilor pașnice ale cartierului castelului istoric să ofere un final calm turului dumneavoastră.",
         "en": "Begin your day at the heart of Houdain, exploring the classic Town Hall and its nearby historic church. The morning offers a gentle introduction to the town's welcoming pace. \n\nContinuing westward, the walk takes you through quiet streets towards Église Saint-Rémi. This pleasant stroll highlights the everyday charm of the local architecture. \n\nIn the afternoon, shift your focus towards the scenic Château de Ranchicourt, a beautiful estate that rewards the long walk with its magnificent presence. \n\nConclude your day at the nearby Église Notre-Dame, allowing the peaceful surroundings of the historical castle district to provide a calm end to your walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am Rathaus und suchen Sie Schutz in Saint-Jean-Baptiste.\n\nEin feuchter Spaziergang am Mittag zu Saint-Rémi erfordert einen stabilen Regenschirm.\n\nVerbringen Sie den Nachmittag drinnen im Château de Ranchicourt und erkunden Sie die überdachten Bereiche.\n\nBeenden Sie den nassen Abend sicher und trocken in der Kirche Notre-Dame.",
+            "hu": "Kezdje az esős reggelt a Városházánál, majd keressen menedéket a Keresztelő Szent János-templomban.\n\nA déli séta a Saint-Rémihez erős esernyőt és vízálló cipőt igényel.\n\nA délutánt töltse a Ranchicourt kastély fedett részein.\n\nAz estét a Notre-Dame templomban zárja, mielőtt hazatérne megszáradni.",
+            "ro": "Începeți dimineața ploioasă la Primărie, apoi adăpostiți-vă în Biserica Saint-Jean-Baptiste.\n\nPlimbarea umedă de prânz către Saint-Rémi necesită o umbrelă rezistentă.\n\nPetreceți după-amiaza la interior, explorând zonele acoperite de la Château de Ranchicourt.\n\nÎncheiați seara umedă în siguranță în biserica Notre-Dame.",
+            "en": "Start your rainy morning at the Town Hall, then seek immediate shelter in Saint-Jean-Baptiste.\n\nA wet midday walk to Saint-Rémi requires a sturdy umbrella to stay dry.\n\nSpend your afternoon indoors at Château de Ranchicourt, exploring the covered areas.\n\nConclude the damp evening safely inside Notre-Dame before heading home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Houdain",
+                "hu": "Houdain Városháza",
+                "ro": "Primăria Houdain",
+                "en": "Houdain Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter Ihrem Regenschirm; das Rathaus bietet eine kurze Pause vom Regen.",
+                "hu": "Csodálja meg az építészetet esernyő alól; a városháza rövid menedéket nyújt a reggeli záporok elől.",
+                "ro": "Admirați arhitectura de sub umbrelă; primăria oferă un scurt răgaz de la ploaia de dimineață.",
+                "en": "Admire the architecture from under your umbrella; the civic hall offers a brief respite from the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen Schutz, um die Buntglasfenster in Ruhe zu bewundern, während es draußen regnet.",
+                "hu": "Keressen menedéket bent, és csodálja meg az ólomüveg ablakokat, miközben kint esik az eső.",
+                "ro": "Adăpostiți-vă înăuntru pentru a admira vitraliile în liniște, în timp ce afară toarnă cu găleata.",
+                "en": "Take shelter inside to admire the stained glass windows in peace while the rain pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémi",
+                "hu": "Église Saint-Rémi",
+                "ro": "Église Saint-Rémi",
+                "en": "Église Saint-Rémi"
+              },
+              "tip_5lang": {
+                "de": "Die Steinböden können feucht sein, aber der ruhige Innenraum bietet perfekten Schutz. Tragen Sie wasserfeste Schuhe.",
+                "hu": "A kőpadló nedves lehet, de a csendes belső tér tökéletes menedék. Viseljen vízálló cipőt a csúszós utakon.",
+                "ro": "Podelele din piatră pot fi umede, dar interiorul liniștit oferă un adăpost perfect. Purtați încălțăminte impermeabilă.",
+                "en": "The stone floors might be damp, but the quiet interior provides perfect cover. Wear waterproof shoes for slippery paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Ranchicourt",
+                "hu": "Ranchicourt kastélya",
+                "ro": "Château de Ranchicourt",
+                "en": "Château de Ranchicourt"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Innenräume und überdachten Gehwege des Schlosses, um am Nachmittag trocken zu bleiben.",
+                "hu": "Fedezze fel a kastély belső termeit és fedett sétányait, hogy száraz maradjon délután. Vigyázzon a sárral.",
+                "ro": "Explorați camerele interioare și aleile acoperite ale castelului pentru a rămâne uscat după-amiaza.",
+                "en": "Explore the castle's indoor rooms and covered walkways to stay dry during the afternoon. Watch out for mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang sicher in dieser historischen Kirche, bevor Sie sich zu Hause aufwärmen.",
+                "hu": "Zárja nedves sétáját biztonságban ebben a történelmi templomban, mielőtt hazatérne megszáradni.",
+                "ro": "Încheiați plimbarea umedă în siguranță în această biserică istorică înainte de a merge acasă să vă uscați.",
+                "en": "Conclude your wet walk safely inside this historic church before heading home to dry off and warm up."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Rathaus und in Saint-Jean-Baptiste.\n\nGenießen Sie einen flotten Spaziergang zu Saint-Rémi, um Ihr Blut in Wallung zu bringen.\n\nVerbringen Sie den Nachmittag im Château de Ranchicourt und denken Sie an den frühen Sonnenuntergang um 17:00 Uhr.\n\nBeenden Sie Ihren kalten Abend an der Kirche Notre-Dame unter dem winterlichen Sternenhimmel.",
+            "hu": "A csípős téli reggel a Városházánál és a Szent János-templomnál indul.\n\nTegyen egy élénkítő déli sétát a Saint-Rémihez, hogy felmelegedjen.\n\nA délutánt a Ranchicourt kastélyban töltse, figyelve a korai 17:00 órás sötétedésre.\n\nA hideg estét a Notre-Dame-nál fejezze be a csillagos ég alatt.",
+            "ro": "O dimineață de iarnă geroasă începe la Primărie și Biserica Saint-Jean-Baptiste.\n\nBucurați-vă de o plimbare rapidă la prânz către Saint-Rémi pentru a vă încălzi.\n\nPetreceți după-amiaza la Château de Ranchicourt, având în vedere apusul devreme la ora 17:00.\n\nÎncheiați seara rece la Notre-Dame sub cerul înstelat de iarnă.",
+            "en": "A crisp winter morning begins at the Town Hall and Saint-Jean-Baptiste.\n\nEnjoy a brisk midday walk to Saint-Rémi to keep your blood flowing.\n\nSpend the afternoon at Château de Ranchicourt, keeping in mind the early 17:00 sunset.\n\nEnd your chilly evening at Notre-Dame under the starry winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Houdain",
+                "hu": "Houdain Városháza",
+                "ro": "Primăria Houdain",
+                "en": "Houdain Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Der Platz sieht im Winterfrost wunderschön aus; beginnen Sie den Tag mit einem flotten Spaziergang. Ziehen Sie sich warm an!",
+                "hu": "A tér gyönyörű a téli fagyban; kezdje a napot egy frissítő sétával a központban. Öltözzön fel rétegesen!",
+                "ro": "Piața arată superb în gerul iernii; începeți ziua cu o plimbare revigorantă prin centru. Îmbrăcați-vă gros!",
+                "en": "The square looks beautiful in the winter frost; start your day with a brisk walk around the civic center. Bundle up!"
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um Ihre Hände aufzuwärmen und den historischen Altar im kalten Morgenlicht zu bewundern.",
+                "hu": "Lépjen be, hogy felmelegítse a kezét, és csodálja meg a történelmi oltárt a tiszta, hideg reggeli fényben.",
+                "ro": "Pășiți înăuntru pentru a vă încălzi mâinile și a admira altarul istoric în lumina rece a dimineții.",
+                "en": "Step inside to warm your hands and admire the historic altar in the clear, cold morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémi",
+                "hu": "Église Saint-Rémi",
+                "ro": "Église Saint-Rémi",
+                "en": "Église Saint-Rémi"
+              },
+              "tip_5lang": {
+                "de": "Die frische Winterluft macht die Ankunft hier noch lohnender. Der Innenraum kann sehr kühl sein.",
+                "hu": "A csípős téli levegő még hálásabbá teszi az érkezést ehhez a kőtemplomhoz. A belső tér hűvös lehet.",
+                "ro": "Aerul rece de iarnă face sosirea la această biserică din piatră și mai plină de satisfacții. Înăuntru e frig.",
+                "en": "The brisk winter air makes arriving at this solid stone church even more rewarding. The interior can be chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Ranchicourt",
+                "hu": "Ranchicourt kastélya",
+                "ro": "Château de Ranchicourt",
+                "en": "Château de Ranchicourt"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände ist im Winter karg und schön; achten Sie auf gefrorene Wege bei Ihrer Erkundung.",
+                "hu": "A kastély kertje zord és gyönyörű télen; vigyázzon a lépéseire a fagyos utakon a felfedezés közben.",
+                "ro": "Domeniul castelului este frumos în timpul iernii; aveți grijă pe aleile înghețate în timp ce explorați.",
+                "en": "The castle grounds are stark and beautiful in winter; watch your step on frosty paths as you explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor 17:00 Uhr, um die letzten winterlichen Sonnenstrahlen vor dem frühen Sonnenuntergang zu sehen.",
+                "hu": "Látogasson el 17:00 óra előtt, hogy elcsípje a téli napfény utolsó sugarait a korai sötétedés előtt.",
+                "ro": "Vizitați înainte de ora 17:00 pentru a prinde ultimele raze de soare pe fațadă înainte de apusul devreme.",
+                "en": "Visit before 17:00 to catch the last rays of winter daylight hitting the church facade before the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpározást a központi Városházától, szívja magába a friss levegőt a templomnál, majd induljon el a város északi nevezetességei felé a délelőtt folyamán. \n\nTekerjen kényelmesen a Chapelle polonaise és a Roger Salengro emlékmű felé. Az itteni kerékpárutak könnyen összekapcsolják a város gazdag ipari múltjával. \n\nA délután egy megállót tartogat a lenyűgöző Art Deco uszodánál, amelyet egy kellemes déli irányú kerékpározás követ a hatalmas, lenyűgöző történelmi kastélyhoz. \n\nFejezze be kerékpáros kalandját a Château de Ranchicourt-nál, élvezve az esti fényeket a birtokon, mielőtt lassan visszaindulna a kiindulópontra.",
         "ro": "Începeți să pedalați de la Primăria centrală, bucurându-vă de aerul dimineții la biserică înainte de a vă îndrepta spre reperele din partea de nord a orașului. \n\nMergeți lin către Chapelle polonaise și monumentul Roger Salengro. Pistele de biciclete de aici vă conectează ușor cu trecutul industrial al orașului. \n\nDupă-amiaza include o oprire la uimitoarea Piscine Art déco, urmată de o plimbare relaxantă spre sud către grandiosul castel istoric. \n\nTerminați aventura pe bicicletă la Château de Ranchicourt, bucurându-vă de lumina serii pe moșie înainte de a vă întoarce încet.",
         "en": "Start pedaling from the central Town Hall, taking in the morning air as you quickly visit the central church before heading to the northern landmarks of the town. \n\nRide smoothly towards the Chapelle polonaise and the Roger Salengro monument. The bike paths here connect you easily with the town's rich industrial and cultural past. \n\nYour afternoon features a stop at the stunning Piscine Art déco, where the geometric architecture shines, followed by a breezy southern ride to the grand castle. \n\nFinish your cycling adventure at the Château de Ranchicourt, enjoying the evening light across the estate before slowly making your way back to your starting point."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Morgenfahrt beginnt am Rathaus und der Kirche Saint-Jean-Baptiste.\n\nNavigieren Sie mittags auf rutschigen Straßen zur Polnischen Kapelle und zum Salengro-Denkmal.\n\nWärmen Sie sich am regnerischen Nachmittag im Art-déco-Pool auf und trocknen Sie sich ab.\n\nBeenden Sie Ihre feuchte Fahrt am Schloss und bremsen Sie vorsichtig auf nassen Wegen.",
+            "hu": "A nedves reggeli tekerés a Városházánál és a templomnál kezdődik.\n\nCsúszós utakon haladjon délben a Lengyel kápolnához és a Salengro emlékműhöz.\n\nMelegedjen fel és száradjon meg a benti Art Deco uszodában a nedves délutánon.\n\nA vizes esti tekerést a kastélynál fejezze be, óvatosan fékezve az esőben.",
+            "ro": "O plimbare umedă de dimineață începe la Primărie și Biserica Saint-Jean-Baptiste.\n\nNavigați pe drumuri alunecoase la prânz către Capela Poloneză și monumentul Salengro.\n\nÎncălziți-vă la piscina interioară Art Deco în timpul după-amiezii ploioase.\n\nTerminați plimbarea umedă la Castel, având grijă la frânare pe aleile ude.",
+            "en": "A wet morning ride starts at the Town Hall and Saint-Jean-Baptiste.\n\nNavigate slippery roads midday to the Polish Chapel and the Salengro monument.\n\nWarm up and dry off inside the Art Deco pool during the damp afternoon.\n\nFinish your wet evening ride at the Castle, riding and braking carefully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Houdain",
+                "hu": "Houdain Városháza",
+                "ro": "Primăria Houdain",
+                "en": "Houdain Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserdichte Radkleidung; der Platz ist an regnerischen Morgen sehr ruhig. Bremsen Sie früh.",
+                "hu": "Viseljen vízálló kerékpáros felszerelést; a tér csendes az esős reggeleken. Fékezzen óvatosan.",
+                "ro": "Purtați echipament de ciclism impermeabil; piața este liniștită în diminețile ploioase. Frânați devreme.",
+                "en": "Wear your waterproof cycling gear; the square is quiet and reflective on rainy mornings. Brake carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad vorsichtig auf dem nassen Pflaster und gehen Sie für eine trockene Pause hinein.",
+                "hu": "Óvatosan parkolja le a kerékpárját a nedves kövön, és menjen be egy száraz pihenőre.",
+                "ro": "Parcați bicicleta cu grijă pe pavajul ud și intrați pentru o pauză uscată.",
+                "en": "Park your bike carefully on the wet pavement and head inside for a dry break and beautiful architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle polonaise",
+                "hu": "Lengyel kápolna",
+                "ro": "Chapelle polonaise",
+                "en": "Chapelle polonaise"
+              },
+              "tip_5lang": {
+                "de": "Die kurze Fahrt hierher kann matschig sein; genießen Sie die überdachte Veranda, um dem Nieselregen zu entkommen.",
+                "hu": "A rövid út ide sáros lehet; élvezze a kápolna fedett tornácát a szitáló eső elől menedéket keresve.",
+                "ro": "Scurta plimbare aici poate fi noroioasă; bucurați-vă de pridvorul acoperit pentru a scăpa de burniță.",
+                "en": "The short ride here might be muddy; enjoy the sheltered porch of this unique chapel to escape the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Roger Salengro",
+                "hu": "Roger Salengro",
+                "ro": "Roger Salengro",
+                "en": "Roger Salengro"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal schnell im Regen. Die gepflasterten Flächen können bei Nässe sehr rutschig sein.",
+                "hu": "Gyorsan nézze meg az emlékművet az esőben. A környező kövezett területek nagyon csúszósak lehetnek.",
+                "ro": "Vizualizați monumentul rapid în ploaie. Zonele pavate din jur pot fi foarte alunecoase când sunt ude.",
+                "en": "View the monument quickly in the rain. The surrounding paved areas can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine Art déco",
+                "hu": "Art Deco uszoda",
+                "ro": "Piscine Art déco",
+                "en": "Piscine Art déco"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp bei Regen! Genießen Sie das beheizte Hallenbad, während es draußen in Strömen gießt.",
+                "hu": "A tökéletes esős megálló! Élvezze a fűtött benti medencét, miközben kint zuhog az eső.",
+                "ro": "Oprirea perfectă într-o zi ploioasă! Bucurați-vă de piscina interioară încălzită în timp ce afară toarnă.",
+                "en": "The perfect rainy day stop! Spend extra time enjoying the indoor heated pool while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Ranchicourt",
+                "hu": "Ranchicourt kastélya",
+                "ro": "Château de Ranchicourt",
+                "en": "Château de Ranchicourt"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad überdacht an und erkunden Sie die Innenräume, um vor der Heimfahrt komplett zu trocknen.",
+                "hu": "Zárja le a kerékpárt fedett helyen, és fedezze fel a belső kiállításokat, hogy teljesen megszáradjon.",
+                "ro": "Lăsați bicicleta la adăpost și explorați exponatele interioare pentru a vă usca complet.",
+                "en": "Lock your bike under cover and explore the castle's indoor exhibits to dry off completely before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für eine frostige Morgenfahrt vom Rathaus zu den historischen Kirchen.\n\nDie frische Luft lässt die Polnische Kapelle und das Salengro-Denkmal am Mittag erstrahlen.\n\nWärmen Sie sich am gefrierenden Nachmittag im beheizten Hallenbad richtig auf.\n\nFangen Sie den goldenen Wintersonnenuntergang am Schloss ein, bevor die frühe Dämmerung hereinbricht.",
+            "hu": "Öltözzön fel a fagyos reggeli tekeréshez a Városházától a templomokig.\n\nA friss levegőn a Lengyel kápolna és a Salengro emlékmű is gyönyörű délben.\n\nDélután melegítse fel magát a fűtött benti uszodában a fagyos idő elől.\n\nCsípje el a téli naplementét a kastélynál a korai 17:00 órás esti sötétedés előtt.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare geroasă de dimineață de la Primărie la biserici.\n\nAerul rece face ca Capela Poloneză și monumentul Salengro să iasă în evidență la prânz.\n\nÎncălziți-vă la piscina interioară încălzită în timpul după-amiezii geroase.\n\nPrindeți apusul auriu de iarnă la Castel înainte de lăsarea devreme a întunericului.",
+            "en": "Bundle up for a frosty morning ride from the Town Hall to the historic churches.\n\nThe crisp air makes the Polish Chapel and Salengro monument stand out at midday.\n\nWarm your core at the indoor heated pool during the freezing afternoon.\n\nCatch the golden winter sunset at the Castle before the early evening dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Houdain",
+                "hu": "Houdain Városháza",
+                "ro": "Primăria Houdain",
+                "en": "Houdain Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermohandschuhe für Ihre Morgenfahrt; das Stadtzentrum ist friedlich, aber eiskalt im Winter.",
+                "hu": "Viseljen termo kesztyűt a reggeli útra; a városközpont békés, de fagyos a téli hidegben.",
+                "ro": "Purtați mănuși termice pentru plimbarea de dimineață; centrul orașului este liniștit, dar înghețat.",
+                "en": "Wear thermal cycling gloves for your morning ride; the town center is peaceful but freezing in the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp drinnen, um sich aufzuwärmen. Die dicken Steinmauern speichern die Winterkälte.",
+                "hu": "Gyors benti megálló a felmelegedésre a tekerés folytatása előtt. A kőfalak tartják a téli hideget.",
+                "ro": "O oprire rapidă la interior pentru a vă încălzi. Pereții de piatră păstrează frigul iernii.",
+                "en": "A quick indoor stop to warm your core before continuing your cycling tour. The stone walls hold the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle polonaise",
+                "hu": "Lengyel kápolna",
+                "ro": "Chapelle polonaise",
+                "en": "Chapelle polonaise"
+              },
+              "tip_5lang": {
+                "de": "Die karge Winterlandschaft hebt diese kleine Kapelle hervor. Achten Sie auf Eisflächen auf dem Weg.",
+                "hu": "A zord téli táj kiemeli ennek a kis kápolnának az egyedi építészetét. Figyeljen a jégfoltokra az úton.",
+                "ro": "Peisajul aspru de iarnă evidențiază această capelă mică. Atenție la peticele de gheață de pe drum.",
+                "en": "The stark winter landscape highlights the unique architecture of this small chapel. Watch for ice patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Roger Salengro",
+                "hu": "Roger Salengro",
+                "ro": "Roger Salengro",
+                "en": "Roger Salengro"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Umgebung verleiht diesem historischen Denkmal eine ruhige Winteratmosphäre. Bleiben Sie in Bewegung.",
+                "hu": "A fagyos környezet csendes téli hangulatot kölcsönöz az emlékműnek. Mozogjon folyamatosan, hogy melegen maradjon.",
+                "ro": "Împrejurimile înghețate oferă acestui monument o atmosferă liniștită de iarnă. Continuați să vă mișcați.",
+                "en": "The frosty surroundings give this historic monument a quiet winter atmosphere. Keep moving to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine Art déco",
+                "hu": "Art Deco uszoda",
+                "ro": "Piscine Art déco",
+                "en": "Piscine Art déco"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine lange, warme Pause im Inneren; das beheizte Schwimmbad ist ein perfekter Winterrückzugsort.",
+                "hu": "Tartson itt egy hosszú, meleg benti pihenőt; a fűtött uszoda tökéletes téli menedék a fázós kerékpárosoknak.",
+                "ro": "Faceți o pauză lungă și caldă la interior aici; piscina încălzită este un refugiu perfect de iarnă.",
+                "en": "Take a long, warm indoor break here; the heated indoor pool is a perfect winter refuge for cold cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Ranchicourt",
+                "hu": "Ranchicourt kastélya",
+                "ro": "Château de Ranchicourt",
+                "en": "Château de Ranchicourt"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie am späten Nachmittag an, um das Schloss in der goldenen Stunde vor der 17:00 Uhr Dämmerung zu sehen.",
+                "hu": "Érkezzen késő délután, hogy a kastélyt a téli aranyórában láthassa a 17:00 órás sötétedés előtt.",
+                "ro": "Ajungeți târziu după-amiaza pentru a vedea castelul în lumina aurie a iernii înainte de amurgul de la 17:00.",
+                "en": "Arrive by late afternoon to see the castle bathed in the golden hour of winter daylight before the 17:00 dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Autós túrája könnyedén indul a városközpontban, érintve a Városházát és a templomot, amíg a reggeli forgalom még viszonylag nyugodt és könnyen kezelhető. \n\nGyorsan haladjon át az északi kerületbe, hogy megcsodálja a lenyűgöző Art Deco uszodát, a Roger Salengro emlékművet és a jelentős lengyel kápolnát. \n\nDélután tegyen egy rövid utat délre, hogy megcsodálja a Château de Ranchicourt-t és a közeli Église Notre-Dame-t, élvezve a kényelmes helyváltoztatást. \n\nZárja átfogó túráját az Église Saint-Rémi-nél. Az autó kényelme biztosítja, hogy kipihenten gondoljon vissza a városi örökség és a kastélyok tökéletes egyensúlyára.",
         "ro": "Turul dumneavoastră auto începe fără efort în centrul orașului la Primărie și biserică, în timp ce traficul de dimineață este încă relativ calm și lejer. \n\nTreceți rapid în cartierul nordic pentru a admira uimitoarea piscină Art Deco, monumentul Roger Salengro și capela poloneză, plină de semnificație culturală. \n\nDupă-amiaza, conduceți puțin spre sud pentru a vă minuna de Château de Ranchicourt și Église Notre-Dame, bucurându-vă de confortul mașinii. \n\nÎncheiați turul cuprinzător la Église Saint-Rémi. Confortul unei mașini vă asigură că puteți reflecta asupra unei zile care echilibrează perfect patrimoniul urban.",
         "en": "Your driving tour begins effortlessly in the town center, checking off the Town Hall and Saint-Jean-Baptiste Church while the morning traffic is still relatively calm and light. \n\nQuickly transition to the northern district to admire the stunning Art Deco swimming pool, the Roger Salengro monument, and the culturally significant Polish chapel. \n\nIn the afternoon, take a short drive south to marvel at the Château de Ranchicourt and the nearby Église Notre-Dame, enjoying the comfort of transitioning between expansive historical sites. \n\nWrap up your comprehensive tour at Église Saint-Rémi. The convenience of a car ensures you can reflect on a day perfectly balancing urban heritage with grand chateau architecture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an einem regnerischen Morgen bequem vom Rathaus zur Kirche.\n\nEntfliehen Sie mittags dem Regen im Art-déco-Pool komplett und betrachten Sie Salengro aus dem Auto.\n\nVerbringen Sie den nassen Nachmittag in der Kapelle und den Innenräumen des Schlosses.\n\nBeenden Sie den Abend trocken und sicher in den beiden historischen Kirchen.",
+            "hu": "Vezessen kényelmesen a Városházától a templomig a záporos reggelen.\n\nDélben meneküljön a heves eső elől az uszodába, a Salengro emlékművet pedig az autóból nézze meg.\n\nA nedves délutánt a kápolna és a kastély benti részeinek felfedezésével töltse.\n\nAz estét biztonságban és szárazon zárja a két történelmi templomnál.",
+            "ro": "Conduceți confortabil de la Primărie la biserică într-o dimineață ploioasă.\n\nLa prânz, scăpați de ploaie la piscina Art Deco, apoi vedeți Salengro din mașina dvs.\n\nPetreceți după-amiaza umedă vizitând Capela și exponatele interioare ale Castelului.\n\nÎncheiați seara uscat și în siguranță la cele două biserici istorice.",
+            "en": "Drive comfortably from the Town Hall to the church on a rainy morning.\n\nEscape the midday downpour completely at the Art Deco pool, then view Salengro from your car.\n\nSpend the wet afternoon visiting the Chapelle and the Castle's indoor exhibits.\n\nEnd the evening dry and safe at the two historic churches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Houdain",
+                "hu": "Houdain Városháza",
+                "ro": "Primăria Houdain",
+                "en": "Houdain Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Einfaches Parken ermöglicht es Ihnen, schnell hineinzuhuschen oder das Gebäude bequem aus dem trockenen Auto zu sehen.",
+                "hu": "A könnyű parkolás révén gyorsan beszaladhat, vagy a száraz autóból kényelmesen megnézheti az épületet.",
+                "ro": "Parcarea ușoară vă permite să fugiți înăuntru sau să vedeți clădirea confortabil din mașina uscată.",
+                "en": "Easy parking lets you dash inside or view the building comfortably from your dry car in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Regenschirm für den kurzen Weg vom Auto zu diesem schönen, trockenen Heiligtum mit.",
+                "hu": "Hozzon esernyőt az autótól a gyönyörű, száraz szentélyig tartó rövid sétához. Vezessen óvatosan a vizes utakon.",
+                "ro": "Aduceți o umbrelă pentru scurta plimbare de la mașină la acest sanctuar frumos și uscat.",
+                "en": "Bring an umbrella for the short walk from your car to this beautiful, dry sanctuary. Drive carefully on wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine Art déco",
+                "hu": "Art Deco uszoda",
+                "ro": "Piscine Art déco",
+                "en": "Piscine Art déco"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen komplett, indem Sie nah parken und die Innenanlagen dieses architektonischen Juwels genießen.",
+                "hu": "Meneküljön az eső elől úgy, hogy közel parkol, és élvezi ennek az építészeti gyöngyszemnek a benti szolgáltatásait.",
+                "ro": "Scăpați complet de ploaie parcând aproape și bucurându-vă de facilitățile interioare ale acestei bijuterii arhitecturale.",
+                "en": "Escape the rain entirely by parking close and enjoying the indoor facilities of this stunning architectural gem."
+              }
+            },
+            {
+              "name": {
+                "de": "Roger Salengro",
+                "hu": "Roger Salengro",
+                "ro": "Roger Salengro",
+                "en": "Roger Salengro"
+              },
+              "tip_5lang": {
+                "de": "Sie können dieses imposante Denkmal leicht aus der Wärme und Trockenheit Ihres Autos betrachten, wenn der Regen zu stark ist.",
+                "hu": "Könnyedén megtekintheti ezt az impozáns emlékművet az autó melegéből és szárazságából, ha túl heves az eső.",
+                "ro": "Puteți vedea cu ușurință acest monument impunător din căldura și uscăciunea mașinii dvs. dacă plouă prea tare.",
+                "en": "You can easily view this imposing monument from the warmth and dryness of your car if the rain is too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle polonaise",
+                "hu": "Lengyel kápolna",
+                "ro": "Chapelle polonaise",
+                "en": "Chapelle polonaise"
+              },
+              "tip_5lang": {
+                "de": "Das feuchte Wetter verleiht eine melancholische Schönheit; achten Sie auf matschige Parkplätze in der Nähe der Kapelle.",
+                "hu": "A nedves időjárás melankolikus szépséget kölcsönöz; figyeljen a sáros parkolóhelyekre a kápolnához érve.",
+                "ro": "Vremea umedă adaugă o frumusețe melancolică; atenție la locurile de parcare noroioase când ajungeți la capelă.",
+                "en": "The damp weather adds a melancholic beauty; watch for muddy parking spots when pulling up to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Ranchicourt",
+                "hu": "Ranchicourt kastélya",
+                "ro": "Château de Ranchicourt",
+                "en": "Château de Ranchicourt"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sicher auf den nassen Straßen des Anwesens und konzentrieren Sie sich auf die faszinierenden Innenattraktionen.",
+                "hu": "Vezessen biztonságosan a birtok nedves útjain, és összpontosítson a kastély lenyűgöző benti látnivalóira.",
+                "ro": "Conduceți în siguranță pe drumurile umede ale domeniului și concentrați-vă vizita pe atracțiile interioare ale castelului.",
+                "en": "Drive safely on the wet estate roads and focus your visit on the castle's fascinating indoor attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an einem regnerischen Nachmittag; das Kircheninnere bietet eine friedliche Umgebung abseits des Sturms.",
+                "hu": "Gyors esős délutáni megálló; a templom belső tere békés, száraz környezetet kínál a vihar elől.",
+                "ro": "O oprire rapidă într-o după-amiază ploioasă; interiorul bisericii oferă un mediu pașnic, departe de furtună.",
+                "en": "A quick rainy afternoon stop; the church interior offers a peaceful, dry environment away from the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémi",
+                "hu": "Église Saint-Rémi",
+                "ro": "Église Saint-Rémi",
+                "en": "Église Saint-Rémi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre regnerische Fahrt hier und gehen Sie hinein, um die Schauer des späten Nachmittags zu vermeiden.",
+                "hu": "Fejezze be itt az esős autózást, lépjen be a templomba, hogy elkerülje a késő délutáni záporokat a hazaindulás előtt.",
+                "ro": "Terminați turul ploios cu mașina aici, pășind înăuntru pentru a evita aversele de după-amiază târziu.",
+                "en": "Finish your rainy driving tour here, stepping inside to avoid the late afternoon showers before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre beheizte Fahrt am Rathaus und der Kirche an einem frostigen Morgen.\n\nGenießen Sie eine warme Mittagspause im Hallenbad und besuchen Sie Salengro in der frischen Luft.\n\nErkunden Sie das Schloss am Nachmittag und behalten Sie den Sonnenuntergang um 17:00 Uhr im Auge.\n\nBeenden Sie den Tag an den beiden historischen Kirchen, gerade als die frühe Winterdämmerung über die Stadt fällt.",
+            "hu": "Kezdje a napot a fűtött autóban a Városházánál és a templomnál a fagyos reggelen.\n\nÉlvezze a meleg déli pihenőt az uszodában, és nézze meg a Salengro emlékművet a csípős levegőn.\n\nFedezze fel a kastélyt délután, szem előtt tartva a korai 17:00 órás naplementét.\n\nFejezze be a napot a két templomnál, amikor a korai téli sötétség leszáll a városra.",
+            "ro": "Începeți plimbarea cu mașina încălzită la Primărie și biserică într-o dimineață geroasă.\n\nBucurați-vă de o pauză caldă la prânz la piscina interioară și vizitați Salengro în aerul rece.\n\nExplorați Castelul după-amiaza, având în vedere apusul soarelui la 17:00.\n\nTerminați la cele două biserici istorice chiar când se lasă amurgul devreme de iarnă.",
+            "en": "Start your heated drive at the Town Hall and church on a frosty morning.\n\nEnjoy a warm midday break at the indoor pool and visit Salengro in the brisk air.\n\nExplore the Castle in the afternoon, keeping the 17:00 sunset in mind.\n\nFinish at the two historic churches just as the early winter dusk falls over the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Houdain",
+                "hu": "Houdain Városháza",
+                "ro": "Primăria Houdain",
+                "en": "Houdain Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die bereifte Bürgerarchitektur, bevor Sie schnell wieder in den Komfort Ihres vorgeheizten Autos steigen.",
+                "hu": "Élvezze a fagyos városi építészetet, mielőtt gyorsan visszaszállna az előmelegített autó kényelmébe.",
+                "ro": "Bucurați-vă de arhitectura civică înghețată înainte de a vă întoarce rapid în confortul mașinii preîncălzite.",
+                "en": "Enjoy the frosted civic architecture before quickly getting back into the comfort of your pre-heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist kühl, aber wunderschön im Winter; behalten Sie Ihren Wintermantel an, während Sie den ruhigen Innenraum bewundern.",
+                "hu": "A templom hűvös, de gyönyörű télen; tartsa magán a télikabátot, miközben a csendes belső teret csodálja.",
+                "ro": "Biserica este rece, dar frumoasă iarna; păstrați haina de iarnă pe dumneavoastră în timp ce admirați interiorul.",
+                "en": "The church is chilly but beautiful in winter; keep your winter coat on while admiring the quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine Art déco",
+                "hu": "Art Deco uszoda",
+                "ro": "Piscine Art déco",
+                "en": "Piscine Art déco"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer Winterausflug! Genießen Sie das warme Innenwasser, während sich draußen dichter Frost auf den Straßen absetzt.",
+                "hu": "Fantasztikus téli menedék! Élvezze a meleg benti vizet, miközben kint vastag fagy telepszik az utcákra.",
+                "ro": "O evadare fantastică de iarnă! Bucurați-vă de apele calde interioare, în timp ce pe străzi se așterne un ger gros.",
+                "en": "A fantastic winter escape! Enjoy the warm indoor waters while the thick frost settles on the streets outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Roger Salengro",
+                "hu": "Roger Salengro",
+                "ro": "Roger Salengro",
+                "en": "Roger Salengro"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der frischen Luft; das Denkmal ist deutlich gegen die kahlen Winterbäume sichtbar. Parken Sie in der Nähe.",
+                "hu": "Gyors megálló a csípős levegőn; az emlékmű élesen kirajzolódik a csupasz téli fák előtt. Parkoljon a közelben.",
+                "ro": "O scurtă oprire în aerul rece; monumentul este vizibil în contrast cu copacii goi de iarnă. Parcați în apropiere.",
+                "en": "A quick stop in the brisk air; the monument is starkly visible against the bare winter trees. Park nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle polonaise",
+                "hu": "Lengyel kápolna",
+                "ro": "Chapelle polonaise",
+                "en": "Chapelle polonaise"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten über diese historische Stätte; fahren Sie vorsichtig auf potenziell eisigen lokalen Straßen.",
+                "hu": "A téli nap hosszú árnyékokat vet erre a történelmi helyszínre; vezessen óvatosan a potenciálisan jeges helyi utakon.",
+                "ro": "Soarele de iarnă aruncă umbre lungi; conduceți cu atenție pe drumurile locale care pot fi acoperite de gheață.",
+                "en": "The winter sun casts long shadows over this historic site; drive carefully on potentially icy local roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Ranchicourt",
+                "hu": "Ranchicourt kastélya",
+                "ro": "Château de Ranchicourt",
+                "en": "Château de Ranchicourt"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht im Winterlicht magisch aus; packen Sie sich warm ein für den Weg vom Parkplatz zum Eingang.",
+                "hu": "A kastély varázslatosan fest a téli fényben; öltözzön fel melegen a parkolótól a bejáratig tartó sétához.",
+                "ro": "Castelul arată magic în lumina iernii; îmbrăcați-vă bine pentru plimbarea din parcare până la intrare.",
+                "en": "The castle looks magical in the winter light; wrap up warm for the walk from the car park to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie an, wenn die Wintersonne untergeht; die Steinfassade leuchtet am späten Nachmittag gegen 16:30 Uhr wunderschön.",
+                "hu": "Érkezzen, amikor a téli nap nyugovóra tér; a kőhomlokzat gyönyörűen ragyog a késő délutáni fényben, 16:30 körül.",
+                "ro": "Ajungeți când soarele de iarnă începe să apună; fațada de piatră strălucește frumos la sfârșitul după-amiezii, în jur de 16:30.",
+                "en": "Arrive as the winter sun begins to set; the stone facade glows beautifully in the late afternoon around 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rémi",
+                "hu": "Église Saint-Rémi",
+                "ro": "Église Saint-Rémi",
+                "en": "Église Saint-Rémi"
+              },
+              "tip_5lang": {
+                "de": "Ihr letzter Halt kurz vor dem Sonnenuntergang um 17:00 Uhr; der kalte Abend trägt zu seinem tiefen historischen Charme bei.",
+                "hu": "Az utolsó megálló épp a 17:00 órás naplemente előtt; a csendes, hideg este hozzájárul a mély történelmi varázsához.",
+                "ro": "Ultima dvs. oprire chiar înainte de apusul soarelui la ora 17:00; seara liniștită și rece îi adaugă un farmec istoric profund.",
+                "en": "Your final stop just before the 17:00 sunset; the quiet, cold evening adds to its profound historic charm."
+              }
+            }
+          ]
+        }
       }
     }
   }

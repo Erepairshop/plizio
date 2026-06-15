@@ -137,6 +137,168 @@
         "hu": "A gyalogos túra a Plaza de la PAX nyugodt hangulatával indul, megalapozva a történelmi élményt. Késő délelőtt az olmék régészeti múzeum lenyűgöző ősi történetébe merülhetünk el. A kora délutáni séta a part mentén tengerészeti emlékművek és a Benito Juárez történelmi emlékhely mellett halad el. A nap végén a szellős Playa Coatza tengerpartján pihenheti ki a fáradalmakat.",
         "ro": "Turul pietonal începe cu ambianța liniștită de la Plaza de la PAX, creând o atmosferă istorică relaxată. Spre prânz, vă veți scufunda în istoria antică locală la uimitorul Muzeu Olmeca. Plimbarea de după-amiază de-a lungul falezei vă poartă pe lângă monumente navale până la situl istoric Benito Juárez. În cele din urmă, relaxați-vă la valurile răcoroase de la Playa Coatza.",
         "en": "Your walking tour begins with the tranquil ambiance of Plaza de la PAX, setting a relaxed historical tone. By mid-morning, you will dive into ancient local history at the stunning Museo de Arqueología Olmeca. The afternoon stroll along the waterfront brings you past naval monuments to the Benito Juárez historical site. Finally, relax by the waves at the breezy Playa Coatza."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag mit einem Schirm am Plaza de la PAX, während Wolken über dem Golf hängen. Mittags bietet das Museum einen trockenen Rückzugsort zur Erkundung alter Kulturen. Später wandern Sie vorsichtig am rutschigen Malecon entlang zu den Denkmälern. Am Abend erzeugt der Regen am Strand eine neblige Atmosphäre, die die raue Schönheit der Küste unterstreicht.",
+            "hu": "Kezdje a napot esernyővel a Plaza de la PAX-nál, ahol az öböl felett sötét felhők gyülekeznek. Délben a múzeum tökéletes menedéket nyújt a záporok elől. Délután óvatosan sétáljon a csúszós parti sétányon az emlékművek mentén. Estére a tengerparti eső párás és drámai látványt nyújt, a szürke hullámok morajlása ilyenkor még fenségesebb.",
+            "ro": "Începeți ziua cu o umbrelă la Plaza de la PAX, sub norii grei de deasupra Golfului. La prânz, muzeul oferă un refugiu uscat pentru a explora culturile antice. Mai târziu, mergeți cu grijă pe faleza alunecoasă pe lângă monumente. Seara, ploaia de pe plajă creează o atmosferă cețoasă și dramatică, perfectă pentru reflecție pe malul mării.",
+            "en": "Start with an umbrella at Plaza de la PAX, as the clouds hang low over the Gulf. At noon, the museum provides a dry sanctuary to explore ancient cultures. Later, walk carefully past the monuments as the Malecon boardwalk gets slippery. By evening, the rain on the beach creates a misty, dramatic atmosphere that highlights the coast's raw beauty."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de la PAX",
+                "hu": "Plaza de la PAX",
+                "ro": "Plaza de la PAX",
+                "en": "Plaza de la PAX"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Pavillons und beobachten Sie das stürmische Meer; feste Schuhe verhindern das Ausrutschen auf den nassen Fliesen des Platzes.",
+                "hu": "Keressen menedéket a pavilonok alatt, és figyelje a viharos tengert; a tapadós talpú cipő elengedhetetlen a nedves, csúszós kövezeten való sétához.",
+                "ro": "Căutați adăpost sub pavilioane și observați marea agitată; încălțămintea aderentă previne alunecarea pe plăcile ude ale pieței în timpul ploii.",
+                "en": "Seek shelter under the pavilions and watch the stormy sea; wear shoes with good grip to avoid slipping on the wet plaza tiles during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología Olmeca",
+                "hu": "Olmék Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Olmeca",
+                "en": "Olmeca Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum in Schiffsform ist der ideale trockene Ort; bewundern Sie die Olmeken-Köpfe drinnen, während draußen der tropische Regen prasselt.",
+                "hu": "Ez a hajó alakú múzeum ideális száraz helyszín; csodálja meg az olmék fejeket odabent, miközben kint kopog a trópusi eső a tetőn.",
+                "ro": "Acest muzeu în formă de navă este locul ideal uscat; admirați capetele olmece în interior în timp ce ploaia tropicală bate puternic afară.",
+                "en": "This ship-shaped museum is an ideal dry venue; admire the colossal Olmec heads inside while the tropical rain patters on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento A La Armada De Mexico",
+                "hu": "Monumento A La Armada De Mexico",
+                "ro": "Monumento A La Armada De Mexico",
+                "en": "Monumento A La Armada De Mexico"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Foto am Denkmal ist trotz Regen lohnenswert; halten Sie Ihre Kamera unter einem Regenschirm geschützt vor der salzigen Gischt.",
+                "hu": "Egy gyors fotó az emlékműnél esőben is megéri; tartsa a fényképezőgépet az esernyő alatt, védve a sós permettől és a hirtelen széllökésektől.",
+                "ro": "O fotografie rapidă la monument merită chiar și pe ploaie; protejați aparatul foto sub umbrelă împotriva stropilor de mare și a vântului.",
+                "en": "A quick photo at the monument is worth it even in the rain; keep your camera protected under an umbrella from the salty and wet sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Benito Juárez",
+                "hu": "Benito Juárez",
+                "ro": "Benito Juárez",
+                "en": "Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die nahegelegenen Arkaden für einen trockenen Blick auf die Statue; die umliegenden Cafés bieten Schutz bei plötzlichen Güssen.",
+                "hu": "Használja a közeli árkádokat a szoborra nyíló száraz kilátáshoz; a környékbeli kávézók jó menedéket nyújtanak hirtelen felhőszakadáskor.",
+                "ro": "Folosiți arcadele din apropiere pentru o vedere uscată spre statuie; cafenelele din jur oferă adăpost bun în timpul averselor tropicale bruște.",
+                "en": "Use the nearby arcades for a dry view of the statue; surrounding cafes provide great shelter during sudden and heavy tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Coatza",
+                "hu": "Playa Coatza",
+                "ro": "Playa Coatza",
+                "en": "Playa Coatza"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen mystisch, aber meiden Sie die Brandung; ein wasserfester Poncho schützt am besten vor dem seitlichen Windregen.",
+                "hu": "A strand misztikus esőben, de kerülje a közvetlen vízpartot; egy vízhatlan poncsó véd a legjobban az oldalról érkező erős szeles esőtől.",
+                "ro": "Plaja pare mistică pe ploaie, dar evitați malul apei; un poncho impermeabil protejează cel mai bine împotriva ploii purtate de vânt pe coastă.",
+                "en": "The beach looks mystical in the rain, but stay away from the surf; a waterproof poncho is best against wind-driven coastal rain today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Platz ist frisch unter der kühlen Meeresbrise der Norte-Winde. Mittags bieten die Innenräume des Museums einen angenehmen Schutz vor den Böen. Genießen Sie am Nachmittag die klare Sicht auf die Denkmäler. Beenden Sie Ihren Strandbesuch vor 17:00 Uhr, wenn die Sonne untergeht und es merklich kühler wird.",
+            "hu": "A reggel friss a téren az északi szelek (Nortes) hűsítő fuvallatában. Délben a múzeum belső terei kellemes menedéket nyújtanak a széllökések elől. Délután élvezze a tiszta kilátást az emlékműveknél. 17:00 körül fejezze be a tengerparti sétát, mert a naplemente után hirtelen lehűl a levegő.",
+            "ro": "Dimineața în piață este răcoroasă sub briza vânturilor dinspre nord. La prânz, interiorul muzeului oferă un adăpost plăcut împotriva rafalelor. Bucurați-vă de vizibilitatea clară la monumente după-amiaza. Terminați vizita la plajă înainte de 17:00, când soarele apune și se lasă frigul.",
+            "en": "Morning at the plaza is crisp under the cooling breeze of the North winds. By noon, the museum's indoor galleries provide a pleasant shield from the gusts. Enjoy the clear views at the monuments during the afternoon. Finish your beach walk by 17:00, as the sun sets early and the evening chill sets in quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de la PAX",
+                "hu": "Plaza de la PAX",
+                "ro": "Plaza de la PAX",
+                "en": "Plaza de la PAX"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist hier mild, aber die Brise stark; tragen Sie eine windfeste Jacke, um die Aussicht auf den Hafen entspannt zu genießen.",
+                "hu": "A téli nap itt enyhe, de a szél erős lehet; viseljen szélálló kabátot, hogy kényelmesen élvezhesse a kikötőre nyíló panorámát.",
+                "ro": "Soarele de iarnă este blând aici, dar briza poate fi puternică; purtați o jachetă rezistentă la vânt pentru a admira portul relaxat.",
+                "en": "The winter sun is mild here, but the breeze can be strong; wear a wind-resistant jacket to enjoy the harbor views comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología Olmeca",
+                "hu": "Olmék Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Olmeca",
+                "en": "Olmeca Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Die geschlossenen Hallen sind im Winter ein perfekter Ort zum Aufwärmen; nutzen Sie das weiche Tageslicht für Fotos der großen Skulpturen.",
+                "hu": "A zárt csarnokok télen tökéletes helyszínt biztosítanak a felmelegedéshez; használja ki a lágy nappali fényt a nagy szobrok fotózásához.",
+                "ro": "Halele închise sunt un loc perfect pentru a vă încălzi iarna; profitați de lumina naturală blândă pentru fotografii cu sculpturile mari.",
+                "en": "The enclosed halls are a perfect spot to warm up in winter; take advantage of the soft daylight for photos of the large sculptures."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento A La Armada De Mexico",
+                "hu": "Monumento A La Armada De Mexico",
+                "ro": "Monumento A La Armada De Mexico",
+                "en": "Monumento A La Armada De Mexico"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermonate bringen oft eine stürmische See, die hier spektakulär aussieht; halten Sie sich am Geländer fest, falls starke Böen wehen.",
+                "hu": "A téli hónapok gyakran viharos tengert hoznak, ami itt látványos; kapaszkodjon a korlátba, ha erősebb északi széllökések érkeznek.",
+                "ro": "Lunile de iarnă aduc adesea o mare agitată, care arată spectaculos aici; țineți-vă de balustradă dacă suflă rafale puternice de nord.",
+                "en": "The winter months often bring a stormy sea that looks spectacular here; hold onto the railings if strong northern gusts blow in."
+              }
+            },
+            {
+              "name": {
+                "de": "Benito Juárez",
+                "hu": "Benito Juárez",
+                "ro": "Benito Juárez",
+                "en": "Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter weniger überlaufen; nutzen Sie die klare Luft für scharfe Aufnahmen der Statue gegen den blauen Himmel.",
+                "hu": "A tér télen kevésbé zsúfolt; használja ki a tiszta levegőt a szoborról készült éles felvételekhez a mélykék égbolt előtt.",
+                "ro": "Piața este mai puțin aglomerată iarna; profitați de aerul curat pentru fotografii clare cu statuia pe fundalul cerului albastru.",
+                "en": "The plaza is less crowded in winter; take advantage of the clear air for sharp shots of the statue against the deep blue sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Coatza",
+                "hu": "Playa Coatza",
+                "ro": "Playa Coatza",
+                "en": "Playa Coatza"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang um 17:00 Uhr; eine Thermoskanne mit Kaffee macht das Warten auf die Dämmerung im Wind gemütlich.",
+                "hu": "Nézze meg a korai naplementét 17:00-kor; egy termosz meleg kávé sokat segít a szeles alkonyatban való várakozás közben.",
+                "ro": "Urmăriți apusul devreme la ora 17:00; un termos cu cafea face așteptarea amurgului în vânt mult mai confortabilă pe plajă.",
+                "en": "Watch the early sunset at 17:00; a thermos with warm coffee makes waiting for the twilight in the wind much more cozy."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros kalandját a hatalmas világítótoronynál, élvezve a kora reggeli tengerparti kilátást. Tekerjen el a központi Plaza de la PAX térre, mielőtt meglátogatná a híres olmék múzeumot. A déli kerékpározás dél felé, a különleges Reloj de la Ford órához vezet. A túrát a La Granja Del Abuelo farm megmentett, barátságos állatainak társaságában zárhatja.",
         "ro": "Începeți aventura pe bicicletă la impunătorul Far, bucurându-vă de priveliștile matinale ale coastei. Pedalați ușor spre Plaza de la PAX centrală înainte de a vizita renumitul muzeu Olmeca. Traseul de prânz vă îndreaptă spre sud, la ineditul reper Reloj de la Ford. Încheiați cursa interacționând cu animalele salvate și prietenoase de la La Granja Del Abuelo.",
         "en": "Start your cycling adventure at the towering Faro de Coatzacoalcos, enjoying early coastal views. Ride smoothly to the central Plaza de la PAX before visiting the renowned Olmeca archaeology museum. Midday pedaling leads you southwards to the quirky Reloj de la Ford landmark. Conclude your ride by interacting with the friendly rescued animals at La Granja Del Abuelo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zum Faro, während der Regen die Sicht auf das Meer verschleiert. Mittags bieten die Museen am Malecon Schutz für Mensch und Rad. Passieren Sie das Reloj vorsichtig, da Metalloberflächen bei Nässe tückisch sind. Den Tag beenden Sie am besten in einem überdachten Unterstand bei der Granja, während der Regen die Natur belebt.",
+            "hu": "Tekerjen óvatosan a Faro felé, miközben az eső elhomályosítja a kilátást. Délben a parti múzeumok nyújtanak menedéket Önnek és a biciklinek is. Haladjon óvatosan a Reloj környékén, a fémfelületek nedvesen csúszósak. A napot a Granja fedett részén fejezze be, figyelve, ahogy az eső életre kelti a természetet.",
+            "ro": "Pedalați cu atenție spre Faro, în timp ce ploaia estompează vederea spre mare. La prânz, muzeele de pe faleză oferă adăpost pentru dvs. și bicicletă. Treceți cu grijă pe lângă Reloj, suprafețele metalice sunt înșelătoare pe ploaie. Încheiați ziua la adăpostul de la Granja, privind natura revigorată de ploaie.",
+            "en": "Cycle carefully towards the Faro as rain blurs the sea view. At noon, the coastal museums offer shelter for both you and your bike. Pass the Reloj with caution, as metal surfaces are treacherous when wet. Finish the day at a covered shelter near the Granja, watching the rain bring the surrounding nature to life."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro de Coatzacoalcos",
+                "hu": "Coatzacoalcos Világítótorony",
+                "ro": "Farul din Coatzacoalcos",
+                "en": "Faro de Coatzacoalcos"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen; der Leuchtturm bietet wenig Unterstand, also halten Sie Ihren Aufenthalt kurz und trocken.",
+                "hu": "Ellenőrizze a fékeket az indulás előtt; a világítótoronynál kevés a fedett rész, így tartsa röviden és szárazon a látogatást az esőben.",
+                "ro": "Verificați frânele înainte de plecare pe ploaie; farul oferă puțin adăpost, deci păstrați vizita scurtă și încercați să rămâneți uscat.",
+                "en": "Check your brakes before setting off in the rain; the lighthouse offers little shelter, so keep your visit brief and try to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la PAX",
+                "hu": "Plaza de la PAX",
+                "ro": "Plaza de la PAX",
+                "en": "Plaza de la PAX"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden ab, um die PAX-Plastik zu sehen; Schlamm auf den Wegen kann das Treten im Regen erschweren.",
+                "hu": "Parkoljon az árkádok alatt, hogy megnézze a PAX emlékművet; az utakon lévő sár megnehezítheti a tekerést a szakadó esőben.",
+                "ro": "Parcați bicicleta sub arcade pentru a vedea monumentul PAX; noroiul de pe drumuri poate îngreuna pedalarea în timpul ploii torențiale.",
+                "en": "Park your bike under the arcades to view the PAX monument; mud on the paths can make pedaling difficult during heavy tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología Olmeca",
+                "hu": "Olmék Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Olmeca",
+                "en": "Olmeca Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgedehnte Pause zum Abtrocknen; sichere Fahrradabstellplätze befinden sich nah am überdachten Eingang.",
+                "hu": "Használja a múzeumlátogatást hosszabb szünetként a száradáshoz; a biztonságos biciklitárolók gyakran a fedett bejárat közelében vannak.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă pentru a vă usca; rastelele sigure pentru biciclete sunt adesea aproape de intrarea acoperită.",
+                "en": "Use the museum visit as an extended break to dry off; secure bike parking is often available near the sheltered museum entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Reloj de la Ford",
+                "hu": "Reloj de la Ford",
+                "ro": "Reloj de la Ford",
+                "en": "Reloj de la Ford"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen die nassen Metallbahnen am Boden beim Turm; ein schnelles Foto im Regen reicht hier völlig aus.",
+                "hu": "Fékezéskor kerülje a torony körüli nedves fémcsíkokat a talajon; egy gyors fotó az esőben itt bőven elegendő látnivaló ma.",
+                "ro": "Evitați benzile metalice umede de pe sol când frânați lângă turn; o fotografie rapidă în ploaie este mai mult decât suficientă aici.",
+                "en": "Avoid wet metal strips on the ground when braking near the tower; a quick photo in the rain is more than enough at this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "La Granja Del Abuelo",
+                "hu": "La Granja Del Abuelo",
+                "ro": "La Granja Del Abuelo",
+                "en": "La Granja Del Abuelo"
+              },
+              "tip_5lang": {
+                "de": "Die Tiere ziehen sich oft unter Dächer zurück, wo Sie sie trocken beobachten können; achten Sie auf weichen Boden bei der Anfahrt.",
+                "hu": "Az állatok gyakran a tetők alá húzódnak, ahol szárazon megfigyelheti őket; ügyeljen a felázott, sáros talajra a megérkezéskor.",
+                "ro": "Animalele se retrag adesea sub acoperișuri, unde le puteți observa la uscat; atenție la solul moale și noroios la sosire.",
+                "en": "Animals often retreat under roofs where you can observe them while staying dry; watch out for soft, muddy ground upon arrival."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die kühle Morgenluft beim Radeln zum Faro ohne die Hitze des Sommers. Mittags bietet das Museum eine windstille Pause von den Küstenböen. Die Fahrt zum Reloj ist bei milden Temperaturen angenehm sportlich. Da es ab 17:00 Uhr dunkel wird, planen Sie die Rückfahrt von der Granja rechtzeitig mit Licht ein.",
+            "hu": "Élvezze a hűvös reggeli levegőt tekerés közben a Faro felé, a nyári hőség nélkül. Délben a múzeum szélmentes pihenőt nyújt a parti széllökések elől. A Reloj felé vezető út a téli enyheségben kellemesen sportos. Mivel 17:00-tól sötétedik, tervezze meg időben a visszautat.",
+            "ro": "Bucurați-vă de aerul răcoros al dimineții pedalând spre Faro fără căldura verii. La prânz, muzeul oferă o pauză ferită de vântul de pe coastă. Drumul spre Reloj este plăcut sportiv în temperaturile blânde de iarnă. Deoarece se întunecă de la 17:00, planificați drumul de întoarcere.",
+            "en": "Enjoy the cool morning air while cycling to the Faro without the summer heat. By noon, the museum offers a windless break from coastal gusts. The ride to the Reloj is pleasantly sporty in the mild winter weather. Since it gets dark from 17:00, plan your return from the Granja early and ensure your lights are on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro de Coatzacoalcos",
+                "hu": "Coatzacoalcos Világítótorony",
+                "ro": "Farul din Coatzacoalcos",
+                "en": "Faro de Coatzacoalcos"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter oft klarer; nutzen Sie die kühlen Vormittagsstunden für den Aufstieg, bevor der Wind am Mittag auffrischt.",
+                "hu": "Télen gyakran tisztább a kilátás; használja ki a hűvös délelőtti órákat a feljutáshoz, mielőtt délben felerősödne a tengeri szél.",
+                "ro": "Vizibilitatea este adesea mai clară iarna; profitați de orele răcoroase ale dimineții pentru urcare înainte ca vântul să se întețească.",
+                "en": "Visibility is often clearer in winter; take advantage of the cool morning hours for the climb before the coastal wind picks up at noon."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de la PAX",
+                "hu": "Plaza de la PAX",
+                "ro": "Plaza de la PAX",
+                "en": "Plaza de la PAX"
+              },
+              "tip_5lang": {
+                "de": "Der offene Platz ist windanfällig; tragen Sie Handschuhe beim Radfahren, um Ihre Hände vor dem kalten Fahrtwind zu schützen.",
+                "hu": "A nyitott tér szeles lehet; viseljen kesztyűt bringázás közben, hogy megvédje kezeit a hideg menetszéltől a téli napokon.",
+                "ro": "Piața deschisă este expusă vântului; purtați mănuși când pedalați pentru a vă proteja mâinile de curentul rece de aer iarna.",
+                "en": "The open plaza is prone to wind; wear gloves while cycling to protect your hands from the cold wind chill during the winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología Olmeca",
+                "hu": "Olmék Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Olmeca",
+                "en": "Olmeca Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen auf, nachdem Sie im Wind geradelt sind; die Exponate lassen sich ohne sommerliche Touristenmassen besser genießen.",
+                "hu": "Melegedjen fel odabent a szeles tekerés után; a kiállítási tárgyak a nyári turistatömeg nélkül sokkal jobban élvezhetőek télen.",
+                "ro": "Încălziți-vă în interior după pedalarea prin vânt; exponatele pot fi savurate mai bine fără mulțimile de turiști de vară.",
+                "en": "Warm up inside after cycling in the wind; the exhibits can be enjoyed much better without the usual summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Reloj de la Ford",
+                "hu": "Reloj de la Ford",
+                "ro": "Reloj de la Ford",
+                "en": "Reloj de la Ford"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet im Winter ein schönes Fotomotiv bei tiefstehender Sonne; achten Sie auf kurze Schatten für die beste Bildkomposition.",
+                "hu": "A torony télen gyönyörű fotótéma az alacsonyan járó nap fényében; figyeljen a rövid árnyékokra a legjobb kompozíció érdekében.",
+                "ro": "Turnul oferă un subiect foto frumos iarna în lumina soarelui care stă jos; atenție la umbrele scurte pentru cea mai bună compoziție.",
+                "en": "The tower is a beautiful photo subject in winter with the low sun; watch for short shadows to get the best image composition."
+              }
+            },
+            {
+              "name": {
+                "de": "La Granja Del Abuelo",
+                "hu": "La Granja Del Abuelo",
+                "ro": "La Granja Del Abuelo",
+                "en": "La Granja Del Abuelo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Farm am frühen Nachmittag; sorgen Sie für funktionierende Fahrradbeleuchtung für den Rückweg in der frühen Dämmerung.",
+                "hu": "Látogassa meg a farmot kora délután; gondoskodjon a működő kerékpáros világításról a kora esti szürkületben történő visszautazáshoz.",
+                "ro": "Vizitați ferma la începutul după-amiezii; asigurați-vă că aveți lumini funcționale la bicicletă pentru drumul de întoarcere prin amurg.",
+                "en": "Visit the farm in the early afternoon; ensure you have working bike lights for the return journey through the early winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje autós túráját a történelmi világítótoronynál, ahonnan lenyűgöző kilátás nyílik az öbölre. Egy rövid út az olmék múzeumhoz vezet, ahol egy délelőttnyi kulturális felfedezés vár Önre. A Reloj de la Ford óra rövid megtekintése után induljon nyugatra a hatalmas Expoferia térre. Zárja a napot az animatronikus csodák között sétálva a lenyűgöző Coatza Jurásico parkban.",
         "ro": "Începeți turul cu mașina la istoricul Far, admirând vederea panoramică a golfului. O scurtă cursă vă aduce la Muzeul Olmeca pentru o dimineață plină de descoperiri culturale. După ce vedeți pe scurt Reloj de la Ford, mergeți spre vest către vasta Explanada de la Expoferia. Încheiați ziua plimbându-vă printre minunile animatronice de la fascinantul Coatza Jurásico.",
         "en": "Kick off your driving tour at the historic Faro de Coatzacoalcos with its sweeping bay views. A short drive brings you to the culturally rich Museo de Arqueología Olmeca for a morning of discovery. After briefly spotting the Reloj de la Ford, head west to the expansive Explanada de la Expoferia. Wrap up your day walking among animatronic wonders at the fascinating Coatza Jurásico."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens im Trockenen zum Faro und genießen Sie den Blick aus dem Auto. Mittags ist das Museum ein bequemer Halt, um dem Regen zu entfliehen. Passieren Sie das Reloj und die Expoferia sicher auf asphaltierten Straßen. Beenden Sie den Tag im Coatza Jurásico, wo die Regenpfützen den Dinosauriern eine fast lebensechte Umgebung verleihen.",
+            "hu": "Hajtson reggel szárazon a Farohoz, élvezve az autóból nyíló kilátást. Délben a múzeum kényelmes megálló, hogy elkerülje az esőt. Haladjon biztonságosan a Reloj és az Expoferia felé az aszfaltozott utakon. Zárja a napot a Coatza Jurásico parkban, ahol az esővizes tócsák szinte élethű környezetet teremtenek.",
+            "ro": "Conduceți spre Faro dimineața stând la uscat și admirați vederea din mașină. La prânz, muzeul este o oprire confortabilă pentru a evita ploaia. Treceți în siguranță pe lângă Reloj și Expoferia pe drumurile asfaltate. Încheiați ziua la Coatza Jurásico, unde bălțile de ploaie creează un cadru preistoric real.",
+            "en": "Drive dry to the Faro in the morning, enjoying the coastal views from your car window. At noon, the museum is a convenient stop to escape the rain. Navigate safely past the Reloj and Expoferia on paved roads. Finish your day at Coatza Jurásico, where rain puddles create an almost lifelike prehistoric environment."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro de Coatzacoalcos",
+                "hu": "Coatzacoalcos Világítótorony",
+                "ro": "Farul din Coatzacoalcos",
+                "en": "Faro de Coatzacoalcos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nass zu werden zu vermeiden; genießen Sie die stürmische Aussicht sicher aus dem trockenen Innenraum Ihres Wagens.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az elázást; élvezze a viharos kilátást biztonságban az autó száraz belső teréből.",
+                "ro": "Parcați aproape de intrare pentru a evita umezirea; admirați vederea furtunoasă în siguranță din interiorul uscat al mașinii dvs.",
+                "en": "Park close to the entrance to avoid getting wet; enjoy the stormy coastal views safely from the dry interior of your car today."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología Olmeca",
+                "hu": "Olmék Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Olmeca",
+                "en": "Olmeca Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet ausreichend Parkplätze direkt davor; nutzen Sie die Klimaanlage im Auto, um die Feuchtigkeit aus Ihrer Kleidung zu vertreiben.",
+                "hu": "A múzeum előtt bőséges parkolóhely áll rendelkezésre; használja az autó klímáját a ruházatából eredő pára gyors elvezetéséhez.",
+                "ro": "Muzeul oferă locuri de parcare suficiente chiar în față; folosiți aerul condiționat din mașină pentru a elimina rapid umiditatea din haine.",
+                "en": "The museum has ample parking directly in front; use your car's AC to quickly clear any humidity from your clothes after getting in."
+              }
+            },
+            {
+              "name": {
+                "de": "Reloj de la Ford",
+                "hu": "Reloj de la Ford",
+                "ro": "Reloj de la Ford",
+                "en": "Reloj de la Ford"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Wahrzeichen einfach während der Fahrt; halten Sie kurz an einer sicheren Stelle für ein Foto durch das offene Fenster.",
+                "hu": "Tekintse meg a jelképet egyszerűen vezetés közben; álljon meg egy pillanatra egy biztonságos helyen egy ablakon keresztüli fotóhoz.",
+                "ro": "Admirați simbolul pur și simplu din mers; opriți scurt într-un loc sigur pentru o fotografie prin fereastra deschisă a mașinii.",
+                "en": "View the landmark simply while driving by; pull over briefly in a safe spot for a quick photo through the car window in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Explanada de la Expoferia",
+                "hu": "Explanada de la Expoferia",
+                "ro": "Explanada de la Expoferia",
+                "en": "Explanada de la Expoferia"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie unbefestigte Parkflächen, die bei Regen schlammig werden könnten; bleiben Sie auf den asphaltierten Bereichen der Expoferia.",
+                "hu": "Kerülje a burkolatlan parkolókat, amik esőben sárossá válhatnak; maradjon az Expoferia aszfaltozott területein a biztonság kedvéért.",
+                "ro": "Evitați parcările neasfaltate care pot deveni noroioase pe ploaie; rămâneți pe zonele asfaltate ale Expoferiei pentru siguranță.",
+                "en": "Avoid unpaved parking areas that might turn muddy in the rain; stick to the asphalted sections of the Expoferia for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Coatza Jurásico",
+                "hu": "Coatza Jurásico",
+                "ro": "Coatza Jurásico",
+                "en": "Coatza Jurásico"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade können rutschig sein, also tragen Sie wasserfeste Schuhe; die Beleuchtung der Figuren sieht bei Regen besonders dramatisch aus.",
+                "hu": "Az ösvények csúszósak lehetnek, viseljen vízálló cipőt; a figurák megvilágítása esőben különösen drámai látványt nyújt este.",
+                "ro": "Potecile pot fi alunecoase, deci purtați pantofi impermeabili; iluminarea figurinelor arată deosebit de dramatic pe ploaie la lăsarea serii.",
+                "en": "Paths can be slippery, so wear waterproof shoes; the lighting of the dinosaur figures looks especially dramatic in the tropical rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens im warmen Auto zum Faro und genießen Sie die klare Winterluft. Mittags bietet der Museumsbesuch eine angenehme Abwechslung zum Küstenwind. Die Fahrt durch die Stadt zum Reloj ist bei milden Temperaturen entspannt. Da es um 17:00 Uhr dunkel wird, bietet der Park Coatza Jurásico am Abend eine wunderschön beleuchtete Kulisse.",
+            "hu": "Induljon reggel a meleg autóból a Farohoz, élvezve a tiszta téli levegőt. Délben a múzeumlátogatás kellemes kikapcsolódás a parti szél elől. A városon átvezető út a Reloj felé az enyhe időben nyugodt. Mivel 17:00-kor sötétedik, a Coatza Jurásico park kivilágítva várja.",
+            "ro": "Porniți dimineața din confortul mașinii spre Faro, admirând aerul curat de iarnă. La prânz, vizita la muzeu este o relaxare plăcută ferită de vântul de coastă. Drumul prin oraș spre Reloj este relaxat în vremea blândă. Deoarece se întunecă la 17:00, parcul Coatza Jurásico oferă un decor iluminat.",
+            "en": "Start from your warm car in the morning heading to the Faro, enjoying the crisp winter air. At noon, a museum visit offers a pleasant break from the coastal wind. The drive through the city to the Reloj is relaxed in the mild weather. Since it gets dark by 17:00, the Coatza Jurásico park provides a beautifully lit backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro de Coatzacoalcos",
+                "hu": "Coatzacoalcos Világítótorony",
+                "ro": "Farul din Coatzacoalcos",
+                "en": "Faro de Coatzacoalcos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Panoramafotos vom Hafen; ein kurzer Spaziergang draußen ist erfrischend, bevor Sie wieder ins warme Auto steigen.",
+                "hu": "Használja ki a tiszta téli fényt a kikötői panorámafotókhoz; egy rövid séta kint felfrissítő, mielőtt visszaszállna a meleg autóba.",
+                "ro": "Profitate de lumina clară de iarnă pentru fotografii panoramice cu portul; o scurtă plimbare afară este revigorantă înainte de a reveni în mașină.",
+                "en": "Take advantage of the clear winter light for panoramic harbor photos; a short walk outside is refreshing before hopping back into the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología Olmeca",
+                "hu": "Olmék Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie Olmeca",
+                "en": "Olmeca Archaeology Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Klimatisierung im Winter sorgt drinnen für konstante Wärme; genießen Sie die Ruhe im Museum ohne die übliche sommerliche Feuchtigkeit.",
+                "hu": "A téli klímaszabályozás állandó meleget biztosít odabent; élvezze a múzeum nyugalmát a szokásos nyári páratartalom nélkül.",
+                "ro": "Climatizarea de iarnă asigură o căldură constantă în interior; bucurați-vă de liniștea muzeului fără umiditatea obișuită a verii.",
+                "en": "The climate control in winter ensures constant warmth inside; enjoy the museum's peace without the usual heavy summer humidity levels."
+              }
+            },
+            {
+              "name": {
+                "de": "Reloj de la Ford",
+                "hu": "Reloj de la Ford",
+                "ro": "Reloj de la Ford",
+                "en": "Reloj de la Ford"
+              },
+              "tip_5lang": {
+                "de": "Der Turm ist im Winter oft in ein goldenes Licht getaucht; ein schneller Halt für Fotos ist ideal, bevor der Abendverkehr zunimmt.",
+                "hu": "A torony télen gyakran aranyló fényben úszik; egy gyors megálló fotózáshoz ideális, mielőtt az esti forgalom felerősödne a városban.",
+                "ro": "Turnul este adesea scăldat într-o lumină aurie iarna; o scurtă oprire pentru fotografii este ideală înainte de aglomerația de seară.",
+                "en": "The tower is often bathed in golden light during winter; a quick stop for photos is ideal before the evening traffic increases."
+              }
+            },
+            {
+              "name": {
+                "de": "Explanada de la Expoferia",
+                "hu": "Explanada de la Expoferia",
+                "ro": "Explanada de la Expoferia",
+                "en": "Explanada de la Expoferia"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden hier oft saisonale Märkte statt; prüfen Sie lokale Aushänge und genießen Sie die festliche Atmosphäre am Nachmittag.",
+                "hu": "Télen gyakran szezonális vásárokat tartanak itt; figyelje a helyi hirdetményeket és élvezze az ünnepi hangulatot kora délután.",
+                "ro": "Iarna se organizează adesea târguri sezoniere aici; verificați anunțurile locale și bucurați-vă de atmosfera festivă după-amiaza.",
+                "en": "Seasonal markets are often held here in winter; check local announcements and enjoy the festive atmosphere during the winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Coatza Jurásico",
+                "hu": "Coatza Jurásico",
+                "ro": "Coatza Jurásico",
+                "en": "Coatza Jurásico"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor 17:00 Uhr an, um den Park im Tageslicht und beleuchtet zu sehen; die kühle Luft macht den Spaziergang sehr angenehm.",
+                "hu": "Érkezzen nem sokkal 17:00 előtt, hogy nappali fényben és kivilágítva is lássa a parkot; a hűvös levegő nagyon kellemessé teszi a sétát.",
+                "ro": "Sosiți puțin înainte de 17:00 pentru a vedea parcul atât la lumina zilei, cât și iluminat; aerul răcoros face plimbarea foarte plăcută.",
+                "en": "Arrive shortly before 17:00 to see the park both in daylight and lit up; the cool air makes the walk through the park very pleasant now."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Morning: A napot Morelia hagyományainak felfedezésével kezdjük, belevetve magunkat a helyi édességek és a lenyűgöző kézművesség világába.\nMidday: A délidő megőrzött gyarmati udvarokba vezet minket, csendes menedéket kínálva.\nAfternoon: Észak felé haladunk, hogy megcsodáljuk az egykori kapukat jelölő emlékműveket.\nEvening: Az este tökéletes alkalmat ad a történelmi városrészek nyugodt felidézésére.",
         "ro": "Morning: Începem ziua scufundându-ne în tradițiile bogate din Morelia, explorând deliciile locale și măiestria artizanală.\nMidday: Amiaza ne aduce în curți coloniale, oferind o evadare liniștită de pe străzile scăldate de soare.\nAfternoon: Ne îndreptăm spre nord, întâlnind monumente istorice care spun poveștile eroilor locali.\nEvening: Seara se încheie reflectând liniștit la porțile vechi ale orașului.",
         "en": "Morning: We start the day diving into the rich traditions of Morelia, exploring the sugary delights of local confectionery and incredible regional craftsmanship.\nMidday: The midday brings us to beautifully preserved colonial courtyards where art and history intersect.\nAfternoon: We walk north, encountering monuments that tell the epic tales of local heroes.\nEvening: Evening settles gently over the historic gates."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen im Süßigkeitenmuseum mit warmen Leckereien. Mittags spazieren Sie mit Schirm vorsichtig zum Handwerksmuseum. Der Nachmittag bietet trockenen Schutz in den Gängen des Kulturhauses. Beenden Sie den nassen Tag an den Denkmälern; wasserfeste Schuhe sind für die Pfützen unerlässlich.",
+            "hu": "Kezdje esős reggelét az édességmúzeumban, élvezve a meleg finomságokat. Délben esernyővel óvatosan sétáljon át a kézműves múzeumba. A délután biztos menedéket nyújt a kultúrház fedett folyosóin. Az estét a történelmi emlékműveknél zárja, ezért feltétlenül viseljen vízálló cipőt a tócsák miatt.",
+            "ro": "Începeți dimineața ploioasă la muzeul dulciurilor cu bunătăți calde. La prânz, mergeți cu grijă sub umbrelă spre muzeul de artizanat. După-amiaza vă oferă adăpost uscat pe coridoarele casei de cultură. Încheiați ziua umedă la monumentele istorice, așa că purtați încălțăminte impermeabilă pentru bălți.",
+            "en": "Start your rainy morning indoors at the sweet museum, enjoying warm treats. By noon, navigate carefully to the artisan museum with a sturdy umbrella. The afternoon offers dry shelter in the cultural house's grand corridors. End your wet day viewing the historical monuments, so wear waterproof shoes for the puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Dulce",
+                "hu": "Museo del Dulce",
+                "ro": "Museo del Dulce",
+                "en": "Museo del Dulce"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie drinnen traditionelle Süßigkeiten, während es regnet; ein toller Ort, um einen Schauer abzuwarten, lassen Sie den nassen Schirm am Eingang.",
+                "hu": "Kóstoljon hagyományos édességeket és melegedjen fel bent, míg kint esik az eső; tökéletes hely a záporok átvészelésére, de esernyőjét hagyja a bejáratnál.",
+                "ro": "Gustați dulciuri tradiționale și încălziți-vă înăuntru în timp ce plouă afară; un loc perfect pentru a aștepta trecerea ploii, lăsați umbrela udă la intrare.",
+                "en": "Taste traditional sweets and warm up indoors while the rain falls outside; it's a great spot to wait out a shower, just keep your wet umbrella near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Artesano Michoacano",
+                "hu": "Museo del Artesano Michoacano",
+                "ro": "Museo del Artesano Michoacano",
+                "en": "Museo del Artesano Michoacano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie lokales Handwerk im geschützten Gebäude, ohne nass zu werden; schütteln Sie Ihre durchtränkte Regenjacke gründlich aus, bevor Sie eintreten.",
+                "hu": "Csodálja meg a helyi kézműves termékeket ebben a fedett épületben anélkül, hogy elázna; mindenképpen rázza le nedves esőkabátját, mielőtt belép a termekbe.",
+                "ro": "Admirați meșteșugurile locale în această clădire acoperită fără a vă uda; asigurați-vă că scuturați bine pelerina de ploaie udă înainte de a intra în săli.",
+                "en": "Admire local crafts in this beautiful sheltered building without getting wet; be sure to thoroughly shake off your soaked raincoat before entering the halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura de Morelia",
+                "hu": "Casa de la Cultura de Morelia",
+                "ro": "Casa de la Cultura de Morelia",
+                "en": "Casa de la Cultura de Morelia"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die weiten, wunderschön gewölbten Gänge, die einen trockenen Weg bieten, während Sie dem starken Nachmittagsregen im Innenhof sicher lauschen.",
+                "hu": "Fedezze fel a hatalmas, gyönyörűen boltíves folyosókat, amelyek száraz menedéket nyújtanak, miközben biztonságban hallgathatja az udvaron kopogó heves esőt.",
+                "ro": "Explorați coridoarele vaste cu arcade frumoase care oferă un spațiu uscat în timp ce ascultați în siguranță ploaia puternică de după-amiază din curte.",
+                "en": "Explore the vast, beautifully arched corridors that offer a dry walking space while safely listening to the heavy afternoon rain echoing in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pípila",
+                "hu": "El Pípila",
+                "ro": "El Pípila",
+                "en": "El Pípila"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich das Steindenkmal in einer kurzen Regenpause an; seien Sie extra vorsichtig, da der gepflasterte Boden hier bei Nässe extrem rutschig wird.",
+                "hu": "Nézze meg a híres kőemlékművet gyorsan két zápor között; legyen különösen óvatos, mert a körülötte lévő burkolt talaj vizesen nagyon csúszóssá válhat.",
+                "ro": "Vizitați rapid monumentul iconic de piatră într-o scurtă pauză de ploaie; fiți foarte atenți deoarece solul pavat din jur devine destul de alunecos la umezeală.",
+                "en": "View the iconic stone monument quickly during a brief break in the rain; be extra careful as the paved ground around it gets quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento salida salamanca",
+                "hu": "Monumento salida salamanca",
+                "ro": "Monumento salida salamanca",
+                "en": "Monumento salida salamanca"
+              },
+              "tip_5lang": {
+                "de": "Ein massives historisches Wahrzeichen, das man am besten unter einem großen Schirm betrachtet, da dieser weite, offene Platz absolut keinen Regenschutz bietet.",
+                "hu": "Egy hatalmas történelmi mérföldkő, amelyet egy nagy, masszív esernyő alól a legjobb megcsodálni, mivel ez a széles, nyitott terület egyáltalán nem nyújt fedezéket.",
+                "ro": "Un reper istoric masiv care este cel mai bine apreciat sub o umbrelă mare și robustă, deoarece această zonă larg deschisă nu oferă deloc adăpost de ploaie.",
+                "en": "A massive historic landmark that is best appreciated from under a large, sturdy umbrella, as this wide open area offers absolutely no rain cover."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Wintermorgen erfordern warme Kleidung beim Besuch im Süßigkeitenmuseum. Mittags wärmt die Sonne den Weg zu den Handwerksausstellungen. Das Nachmittagslicht beleuchtet das Kulturhaus wunderschön. Da die Sonne früh um 17:00 Uhr untergeht, packen Sie sich für die Denkmäler in der Dämmerung warm ein.",
+            "hu": "A csípős téli reggeleken meleg rétegekre van szükség az édességmúzeum felfedezéséhez. Délben a nap felmelegíti a kézműves kiállításokhoz vezető sétát. A délutáni fény gyönyörűen megvilágítja a kultúrházat. A korai, 17:00 körüli naplemente után öltözzön melegen a szabadtéri emlékművekhez.",
+            "ro": "Diminețile geroase de iarnă cer haine călduroase la muzeul dulciurilor. La prânz, soarele vă încălzește plimbarea spre expozițiile de artizanat. Lumina după-amiezii iluminează frumos casa de cultură. Deoarece soarele apune devreme pe la 17:00, îmbrăcați-vă gros pentru monumentele în aer liber.",
+            "en": "Crisp winter mornings call for warm layers as you explore the sweet museum. By midday, the sun warms your walk to the artisan exhibits. The afternoon light beautifully illuminates the cultural house. As the early sunset arrives around 17:00, wrap up warmly to admire the outdoor monuments in the dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Dulce",
+                "hu": "Museo del Dulce",
+                "ro": "Museo del Dulce",
+                "en": "Museo del Dulce"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit heißer Schokolade und regionalen Süßigkeiten auf; ein perfekter, gemütlicher Rückzugsort an einem kühlen Wintermorgen vor dem Start.",
+                "hu": "Melegedjen fel forró csokoládéval és hagyományos édességekkel; ez egy tökéletes, hangulatos menedék a nap indításához egy hűvös téli reggelen indulás előtt.",
+                "ro": "Încălziți-vă cu ciocolată caldă și dulciuri regionale tradiționale; un refugiu perfect și confortabil pentru a începe ziua într-o dimineață rece de iarnă.",
+                "en": "Warm up with hot chocolate and traditional regional sweets; it is a perfect cozy retreat to start your day on a chilly winter morning before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Artesano Michoacano",
+                "hu": "Museo del Artesano Michoacano",
+                "ro": "Museo del Artesano Michoacano",
+                "en": "Museo del Artesano Michoacano"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie regionales Handwerk in diesem historischen, aber unbeheizten Kolonialbau, also halten Sie Ihren Wintermantel beim Rundgang besser fest geschlossen.",
+                "hu": "Nézze meg a régió bonyolult kézműves kincseit ebben a fűtetlen gyarmati épületben, ezért mindenképpen tartsa begombolva téli kabátját a séta során.",
+                "ro": "Vedeți meșteșuguri regionale complexe în această clădire colonială neîncălzită, deci asigurați-vă că țineți haina de iarnă încheiată în timp ce vă plimbați.",
+                "en": "See intricate regional crafts and colorful arts in this unheated colonial building, so make sure to keep your winter coat zipped up while walking around."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura de Morelia",
+                "hu": "Casa de la Cultura de Morelia",
+                "ro": "Casa de la Cultura de Morelia",
+                "en": "Casa de la Cultura de Morelia"
+              },
+              "tip_5lang": {
+                "de": "Die offenen, historischen Innenhöfe können im Winter überraschend zugig sein; tragen Sie einen warmen Schal, während Sie die Kolonialarchitektur bewundern.",
+                "hu": "A nyitott, történelmi udvarok a téli hónapokban meglepően huzatosak lehetnek, ezért viseljen meleg sálat, miközben a lenyűgöző gyarmati építészetet csodálja.",
+                "ro": "Curțile istorice deschise pot avea curenți reci surprinzători iarna, așa că purtați un fular cald în timp ce admirați arhitectura colonială uimitoare.",
+                "en": "The open, historic courtyards can be surprisingly drafty in winter months, so wear a warm scarf while admiring the stunning colonial architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pípila",
+                "hu": "El Pípila",
+                "ro": "El Pípila",
+                "en": "El Pípila"
+              },
+              "tip_5lang": {
+                "de": "Die Brise auf dem Hügel ist hier eisig, aber das klare, goldene Winternachmittagslicht bietet absolut perfekte Bedingungen, um die Statue zu fotografieren.",
+                "hu": "A dombtetőn fújó szél ezen a ponton fagyos, de a tiszta, aranyló téli délutáni fény abszolút tökéletes feltételeket biztosít a hatalmas szobor fotózásához.",
+                "ro": "Briza de pe deal este înghețată aici, dar lumina clară și aurie de iarnă după-amiaza oferă condiții absolut perfecte pentru a fotografia statuia.",
+                "en": "The hilltop breeze here is freezing, but the clear, golden winter afternoon light provides absolutely perfect conditions for photographing the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento salida salamanca",
+                "hu": "Monumento salida salamanca",
+                "ro": "Monumento salida salamanca",
+                "en": "Monumento salida salamanca"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch dieses imposanten Bauwerks deutlich vor dem Sonnenuntergang um 17:00 Uhr, da der riesige Platz nach Einbruch der Dunkelheit extrem kalt wird.",
+                "hu": "Tervezze be ezen impozáns építmény meglátogatását jócskán a 17:00-es naplemente előtt, mert a hatalmas nyitott tér sötétedés után rendkívül és kellemetlenül hideg lesz.",
+                "ro": "Planificați să vizitați această structură impunătoare mult înainte de apusul de la 17:00, deoarece spațiul imens deschis devine intens și incomod de rece odată cu lăsarea nopții.",
+                "en": "Plan to visit this imposing structure well before the 17:00 sunset, as the massive open space gets intensely and uncomfortably cold once night falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Kerékpárral gyorsan elérjük a városközpont történelmi múzeumait, ahol elmerülünk Morelia kultúrájában.\nMidday: Két keréken folytatjuk utunkat a függetlenség emlékművei felé.\nAfternoon: Az északi negyedeken át pedálozunk a lenyűgöző Chucho Monger Színházhoz.\nEvening: Zárásként egy ősi piramishoz érkezünk, amelyet bevilágít az aranyló lemenő nap.",
         "ro": "Morning: Cu bicicleta ajungem rapid la muzeele istorice din centrul orașului, unde ne scufundăm în cultura din Morelia.\nMidday: Continuăm pe două roți către monumentele independenței.\nAfternoon: Pedalăm prin cartierele nordice până la impresionantul Teatru Chucho Monger.\nEvening: Încheiem ziua la o veche piramidă, bucurându-ne de lumina aurie a serii.",
         "en": "Morning: Riding our bikes, we quickly reach the historic museums in the city core, diving deep into Morelia's culture.\nMidday: On two wheels, we continue to the monuments of independence.\nAfternoon: We pedal through the northern districts to the impressive Teatro Chucho Monger.\nEvening: We wind down our day arriving at an ancient pyramid bathed in golden evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre nasse Fahrt am Süßigkeitenmuseum und parken Sie überdacht. Fahren Sie mittags vorsichtig über das rutschige Pflaster zum Kulturhaus. Nachmittagsschauer bedeuten, dass Sie bei den Denkmälern gute Regenkleidung brauchen. Beenden Sie die Tour an der Pyramide; Schutzbleche sind heute Pflicht.",
+            "hu": "Kezdje nedves kerékpártúráját az édességmúzeumban, fedett helyen parkolva. Délben óvatosan tekerjen a csúszós macskaköveken a kultúrházhoz. A délutáni záporok idején viseljen vízálló esőkabátot az emlékműveknél. A napot a piramisnál zárja, és mindenképpen használjon sárvédőt a kerékpáron.",
+            "ro": "Începeți plimbarea umedă la muzeul dulciurilor, parcând la adăpost. La prânz, pedalați cu grijă pe străzile alunecoase spre casa de cultură. Aversele de după-amiază necesită o pelerină de ploaie robustă la monumente. Încheiați turul la piramidă, folosind neapărat apărători de noroi pentru bicicletă.",
+            "en": "Kick off your wet ride at the sweet museum, parking under cover. By midday, navigate the slippery historic streets carefully to the cultural house. Afternoon showers mean you should wear a solid raincoat while visiting the monuments. Finish your damp cycling tour at the pyramid, using bike mudguards."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Dulce",
+                "hu": "Museo del Dulce",
+                "ro": "Museo del Dulce",
+                "en": "Museo del Dulce"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie drinnen traditionelle Süßigkeiten, während es regnet; ein toller Ort, um einen Schauer abzuwarten, lassen Sie den nassen Schirm am Eingang.",
+                "hu": "Kóstoljon hagyományos édességeket és melegedjen fel bent, míg kint esik az eső; tökéletes hely a záporok átvészelésére, de esernyőjét hagyja a bejáratnál.",
+                "ro": "Gustați dulciuri tradiționale și încălziți-vă înăuntru în timp ce plouă afară; un loc perfect pentru a aștepta trecerea ploii, lăsați umbrela udă la intrare.",
+                "en": "Taste traditional sweets and warm up indoors while the rain falls outside; it's a great spot to wait out a shower, just keep your wet umbrella near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura de Morelia",
+                "hu": "Casa de la Cultura de Morelia",
+                "ro": "Casa de la Cultura de Morelia",
+                "en": "Casa de la Cultura de Morelia"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die weiten, wunderschön gewölbten Gänge, die einen trockenen Weg bieten, während Sie dem starken Nachmittagsregen im Innenhof sicher lauschen.",
+                "hu": "Fedezze fel a hatalmas, gyönyörűen boltíves folyosókat, amelyek száraz menedéket nyújtanak, miközben biztonságban hallgathatja az udvaron kopogó heves esőt.",
+                "ro": "Explorați coridoarele vaste cu arcade frumoase care oferă un spațiu uscat în timp ce ascultați în siguranță ploaia puternică de după-amiază din curte.",
+                "en": "Explore the vast, beautifully arched corridors that offer a dry walking space while safely listening to the heavy afternoon rain echoing in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pípila",
+                "hu": "El Pípila",
+                "ro": "El Pípila",
+                "en": "El Pípila"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich das Steindenkmal in einer kurzen Regenpause an; seien Sie extra vorsichtig, da der gepflasterte Boden hier bei Nässe extrem rutschig wird.",
+                "hu": "Nézze meg a híres kőemlékművet gyorsan két zápor között; legyen különösen óvatos, mert a körülötte lévő burkolt talaj vizesen nagyon csúszóssá válhat.",
+                "ro": "Vizitați rapid monumentul iconic de piatră într-o scurtă pauză de ploaie; fiți foarte atenți deoarece solul pavat din jur devine destul de alunecos la umezeală.",
+                "en": "View the iconic stone monument quickly during a brief break in the rain; be extra careful as the paved ground around it gets quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento salida salamanca",
+                "hu": "Monumento salida salamanca",
+                "ro": "Monumento salida salamanca",
+                "en": "Monumento salida salamanca"
+              },
+              "tip_5lang": {
+                "de": "Ein massives historisches Wahrzeichen, das man am besten unter einem großen Schirm betrachtet, da dieser weite, offene Platz absolut keinen Regenschutz bietet.",
+                "hu": "Egy hatalmas történelmi mérföldkő, amelyet egy nagy, masszív esernyő alól a legjobb megcsodálni, mivel ez a széles, nyitott terület egyáltalán nem nyújt fedezéket.",
+                "ro": "Un reper istoric masiv care este cel mai bine apreciat sub o umbrelă mare și robustă, deoarece această zonă larg deschisă nu oferă deloc adăpost de ploaie.",
+                "en": "A massive historic landmark that is best appreciated from under a large, sturdy umbrella, as this wide open area offers absolutely no rain cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Chucho Monger",
+                "hu": "Teatro Chucho Monger",
+                "ro": "Teatro Chucho Monger",
+                "en": "Teatro Chucho Monger"
+              },
+              "tip_5lang": {
+                "de": "Das markante Freilufttheater ist bei Nässe unglaublich rutschig; bewundern Sie die architektonische Gestaltung einfach von einem völlig sicheren, trockenen Punkt aus.",
+                "hu": "A lenyűgöző szabadtéri színház szerkezete nedvesen hihetetlenül csúszós; inkább egy teljesen biztonságos, száraz kilátópontról csodálja meg az építészeti kialakítását.",
+                "ro": "Structura teatrului uimitor în aer liber este incredibil de alunecoasă la umezeală; admirați-i designul arhitectural dintr-un punct de observație complet sigur și uscat.",
+                "en": "The striking outdoor theater structure is incredibly slippery when wet; simply admire its architectural layout from a completely safe, dry vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pirámide de El Barreno",
+                "hu": "La Pirámide de El Barreno",
+                "ro": "La Pirámide de El Barreno",
+                "en": "La Pirámide de El Barreno"
+              },
+              "tip_5lang": {
+                "de": "Das Navigieren am schlammigen Fuß dieser historischen Pyramide erfordert absolut feste, wasserdichte Stiefel, um ein Ausrutschen im Nachmittagsregen zu vermeiden.",
+                "hu": "Ennek a lenyűgöző történelmi piramisnak az ősi, sáros alapján való közlekedés masszív, vízálló csizmát igényel, hogy elkerülje a csúszkálást a heves esőben.",
+                "ro": "Explorarea bazei antice și noroioase a acestei piramide istorice fascinante necesită cizme impermeabile robuste pentru a evita alunecarea în ploaia torențială.",
+                "en": "Navigating the ancient, muddy base of this fascinating historical pyramid requires sturdy waterproof boots to avoid slipping in the heavy afternoon rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Radtour am kühlen Wintermorgen mit warmen Handschuhen zum Süßigkeitenmuseum. Die Mittagssonne macht die Fahrt zum Kulturhaus angenehm. Bleiben Sie nachmittags zwischen den Denkmälern in Bewegung, um warm zu bleiben. Die frühe Dämmerung an der Pyramide erfordert gutes Licht und eine warme Jacke.",
+            "hu": "Kezdje a kerékpározást a csípős téli reggelen meleg kesztyűben az édességmúzeum felé. A déli napsütés kellemessé teszi az utat a kultúrházhoz. Késő délután maradjon mozgásban az emlékművek között, hogy ne fázzon meg. A piramisnál a korai sötétedés miatt jó lámpákra és vastag kabátra lesz szükség.",
+            "ro": "Începeți să pedalați în dimineața de iarnă cu mănuși groase spre muzeul dulciurilor. Soarele amiezii face plimbarea spre casa de cultură plăcută. După-amiaza, rămâneți în mișcare între monumente pentru a vă încălzi. Amurgul devreme la piramidă necesită lumini bune la bicicletă și o jachetă groasă.",
+            "en": "Start cycling in the crisp winter morning with warm gloves towards the sweet museum. Midday sunshine makes the ride to the cultural house pleasant. As the afternoon cools down, keep moving between the historical monuments to stay warm. The early dusk at the pyramid requires good bike lights and a warm jacket."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Dulce",
+                "hu": "Museo del Dulce",
+                "ro": "Museo del Dulce",
+                "en": "Museo del Dulce"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit heißer Schokolade und regionalen Süßigkeiten auf; ein perfekter, gemütlicher Rückzugsort an einem kühlen Wintermorgen vor dem Start.",
+                "hu": "Melegedjen fel forró csokoládéval és hagyományos édességekkel; ez egy tökéletes, hangulatos menedék a nap indításához egy hűvös téli reggelen indulás előtt.",
+                "ro": "Încălziți-vă cu ciocolată caldă și dulciuri regionale tradiționale; un refugiu perfect și confortabil pentru a începe ziua într-o dimineață rece de iarnă.",
+                "en": "Warm up with hot chocolate and traditional regional sweets; it is a perfect cozy retreat to start your day on a chilly winter morning before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura de Morelia",
+                "hu": "Casa de la Cultura de Morelia",
+                "ro": "Casa de la Cultura de Morelia",
+                "en": "Casa de la Cultura de Morelia"
+              },
+              "tip_5lang": {
+                "de": "Die offenen, historischen Innenhöfe können im Winter überraschend zugig sein; tragen Sie einen warmen Schal, während Sie die Kolonialarchitektur bewundern.",
+                "hu": "A nyitott, történelmi udvarok a téli hónapokban meglepően huzatosak lehetnek, ezért viseljen meleg sálat, miközben a lenyűgöző gyarmati építészetet csodálja.",
+                "ro": "Curțile istorice deschise pot avea curenți reci surprinzători iarna, așa că purtați un fular cald în timp ce admirați arhitectura colonială uimitoare.",
+                "en": "The open, historic courtyards can be surprisingly drafty in winter months, so wear a warm scarf while admiring the stunning colonial architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pípila",
+                "hu": "El Pípila",
+                "ro": "El Pípila",
+                "en": "El Pípila"
+              },
+              "tip_5lang": {
+                "de": "Die Brise auf dem Hügel ist hier eisig, aber das klare, goldene Winternachmittagslicht bietet absolut perfekte Bedingungen, um die Statue zu fotografieren.",
+                "hu": "A dombtetőn fújó szél ezen a ponton fagyos, de a tiszta, aranyló téli délutáni fény abszolút tökéletes feltételeket biztosít a hatalmas szobor fotózásához.",
+                "ro": "Briza de pe deal este înghețată aici, dar lumina clară și aurie de iarnă după-amiaza oferă condiții absolut perfecte pentru a fotografia statuia.",
+                "en": "The hilltop breeze here is freezing, but the clear, golden winter afternoon light provides absolutely perfect conditions for photographing the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento salida salamanca",
+                "hu": "Monumento salida salamanca",
+                "ro": "Monumento salida salamanca",
+                "en": "Monumento salida salamanca"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch dieses imposanten Bauwerks deutlich vor dem Sonnenuntergang um 17:00 Uhr, da der riesige Platz nach Einbruch der Dunkelheit extrem kalt wird.",
+                "hu": "Tervezze be ezen impozáns építmény meglátogatását jócskán a 17:00-es naplemente előtt, mert a hatalmas nyitott tér sötétedés után rendkívül és kellemetlenül hideg lesz.",
+                "ro": "Planificați să vizitați această structură impunătoare mult înainte de apusul de la 17:00, deoarece spațiul imens deschis devine intens și incomod de rece odată cu lăsarea nopții.",
+                "en": "Plan to visit this imposing structure well before the 17:00 sunset, as the massive open space gets intensely and uncomfortably cold once night falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Chucho Monger",
+                "hu": "Teatro Chucho Monger",
+                "ro": "Teatro Chucho Monger",
+                "en": "Teatro Chucho Monger"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie deutlich vor der Dämmerung durch die offenen Ränge des Theaters, da die massiven Betonstufen die abendliche Kälte speichern und die Luft abkühlen.",
+                "hu": "Sétáljon körbe a színház nyitott soraiban jócskán sötétedés előtt, mivel a hatalmas betonlépcsők megtartják az esti hideget, és jelentősen lehűtik a levegőt.",
+                "ro": "Plimbați-vă printre rândurile deschise ale teatrului mult înainte de amurg, deoarece treptele masive de beton rețin frigul serii și răcesc considerabil aerul.",
+                "en": "Walk around the theater's open seating rows well before dusk, as the massive concrete steps hold onto the evening cold and chill the air considerably."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pirámide de El Barreno",
+                "hu": "La Pirámide de El Barreno",
+                "ro": "La Pirámide de El Barreno",
+                "en": "La Pirámide de El Barreno"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie genau dann an, wenn die frühe Sonne direkt hinter der Pyramide untergeht, aber packen Sie sich extrem warm gegen den schnell nahenden Abendfrost ein.",
+                "hu": "Érkezzen pontosan akkor, amikor a korai nap közvetlenül az ősi piramis mögött nyugszik le, varázslatot teremtve, de öltözzön be nagyon szorosan a közeledő fagy ellen.",
+                "ro": "Ajungeți exact când soarele apune devreme direct în spatele piramidei antice, creând magie, dar înfășurați-vă foarte strâns împotriva gerului care se apropie rapid.",
+                "en": "Arrive just as the early sun sets directly behind the ancient pyramid, creating magic, but wrap up very tightly against the fast-approaching evening frost."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Morning: Autóval kényelmesen bejárjuk a központ múzeumait, megismerve a művészetet és a helyi édességeket.\nMidday: Egy rövid vezetés után elérjük a függetlenség történelmi emlékműveit.\nAfternoon: Felfedezzük a város különböző pontjain található kulturális pavilonokat és modern színházakat.\nEvening: A kirándulás lenyűgöző módon egy ősi piramisnál ér véget.",
         "ro": "Morning: Cu mașina acoperim confortabil muzeele din centru, aflând despre arta și tradițiile dulciurilor din Morelia.\nMidday: O scurtă plimbare ne aduce la monumentele istorice ale independenței.\nAfternoon: Explorăm pavilioanele culturale și teatrele moderne răspândite prin oraș.\nEvening: Excursia se încheie impresionant la o veche structură piramidală.",
         "en": "Morning: By car, we comfortably cover the museums in the center, learning about the art and confectionery traditions of Morelia.\nMidday: A short drive brings us to the historic monuments of independence.\nAfternoon: We explore the cultural pavilions and modern theaters spread across the districts.\nEvening: The excursion concludes impressively at an ancient pyramid site."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den Morgenregen, um die überdachten Museen zu erkunden. Mittags huschen Sie vom Auto ins geschützte Kulturhaus. Nachmittagsschauer machen die Fahrt zu den Denkmälern gemütlich, auch wenn der Verkehr stockt. Beenden Sie den nassen Abend an der Pyramide mit griffbereitem Schirm.",
+            "hu": "Vezessen kényelmesen a reggeli esőben, hogy felfedezze a kézműves és édességmúzeumokat. Délben siessen az autótól a fedett kultúrházba. A délutáni záporok miatt az emlékművekhez vezető út hangulatos, bár a forgalom lelassulhat. Az esős estét a piramisnál zárja, de tartsa kéznél az esernyőjét.",
+            "ro": "Conduceți confortabil prin ploaia de dimineață pentru a explora muzeele de artizanat și dulciuri. La prânz, grăbiți-vă din mașină în casa de cultură. Aversele fac drumul spre monumente confortabil, deși traficul poate încetini. Încheiați seara umedă la piramidă, având mereu umbrela pregătită.",
+            "en": "Drive comfortably through the morning rain to explore the indoor artisan and sweet museums. By noon, dash from your parked car into the sheltered cultural house. Afternoon showers make driving to the historical monuments cozy, though traffic may slow down. End your wet evening at the pyramid with an umbrella ready."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Artesano Michoacano",
+                "hu": "Museo del Artesano Michoacano",
+                "ro": "Museo del Artesano Michoacano",
+                "en": "Museo del Artesano Michoacano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie lokales Handwerk im geschützten Gebäude, ohne nass zu werden; schütteln Sie Ihre durchtränkte Regenjacke gründlich aus, bevor Sie eintreten.",
+                "hu": "Csodálja meg a helyi kézműves termékeket ebben a fedett épületben anélkül, hogy elázna; mindenképpen rázza le nedves esőkabátját, mielőtt belép a termekbe.",
+                "ro": "Admirați meșteșugurile locale în această clădire acoperită fără a vă uda; asigurați-vă că scuturați bine pelerina de ploaie udă înainte de a intra în săli.",
+                "en": "Admire local crafts in this beautiful sheltered building without getting wet; be sure to thoroughly shake off your soaked raincoat before entering the halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Dulce",
+                "hu": "Museo del Dulce",
+                "ro": "Museo del Dulce",
+                "en": "Museo del Dulce"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie drinnen traditionelle Süßigkeiten, während es regnet; ein toller Ort, um einen Schauer abzuwarten, lassen Sie den nassen Schirm am Eingang.",
+                "hu": "Kóstoljon hagyományos édességeket és melegedjen fel bent, míg kint esik az eső; tökéletes hely a záporok átvészelésére, de esernyőjét hagyja a bejáratnál.",
+                "ro": "Gustați dulciuri tradiționale și încălziți-vă înăuntru în timp ce plouă afară; un loc perfect pentru a aștepta trecerea ploii, lăsați umbrela udă la intrare.",
+                "en": "Taste traditional sweets and warm up indoors while the rain falls outside; it's a great spot to wait out a shower, just keep your wet umbrella near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura de Morelia",
+                "hu": "Casa de la Cultura de Morelia",
+                "ro": "Casa de la Cultura de Morelia",
+                "en": "Casa de la Cultura de Morelia"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die weiten, wunderschön gewölbten Gänge, die einen trockenen Weg bieten, während Sie dem starken Nachmittagsregen im Innenhof sicher lauschen.",
+                "hu": "Fedezze fel a hatalmas, gyönyörűen boltíves folyosókat, amelyek száraz menedéket nyújtanak, miközben biztonságban hallgathatja az udvaron kopogó heves esőt.",
+                "ro": "Explorați coridoarele vaste cu arcade frumoase care oferă un spațiu uscat în timp ce ascultați în siguranță ploaia puternică de după-amiază din curte.",
+                "en": "Explore the vast, beautifully arched corridors that offer a dry walking space while safely listening to the heavy afternoon rain echoing in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pípila",
+                "hu": "El Pípila",
+                "ro": "El Pípila",
+                "en": "El Pípila"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich das Steindenkmal in einer kurzen Regenpause an; seien Sie extra vorsichtig, da der gepflasterte Boden hier bei Nässe extrem rutschig wird.",
+                "hu": "Nézze meg a híres kőemlékművet gyorsan két zápor között; legyen különösen óvatos, mert a körülötte lévő burkolt talaj vizesen nagyon csúszóssá válhat.",
+                "ro": "Vizitați rapid monumentul iconic de piatră într-o scurtă pauză de ploaie; fiți foarte atenți deoarece solul pavat din jur devine destul de alunecos la umezeală.",
+                "en": "View the iconic stone monument quickly during a brief break in the rain; be extra careful as the paved ground around it gets quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento salida salamanca",
+                "hu": "Monumento salida salamanca",
+                "ro": "Monumento salida salamanca",
+                "en": "Monumento salida salamanca"
+              },
+              "tip_5lang": {
+                "de": "Ein massives historisches Wahrzeichen, das man am besten unter einem großen Schirm betrachtet, da dieser weite, offene Platz absolut keinen Regenschutz bietet.",
+                "hu": "Egy hatalmas történelmi mérföldkő, amelyet egy nagy, masszív esernyő alól a legjobb megcsodálni, mivel ez a széles, nyitott terület egyáltalán nem nyújt fedezéket.",
+                "ro": "Un reper istoric masiv care este cel mai bine apreciat sub o umbrelă mare și robustă, deoarece această zonă larg deschisă nu oferă deloc adăpost de ploaie.",
+                "en": "A massive historic landmark that is best appreciated from under a large, sturdy umbrella, as this wide open area offers absolutely no rain cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Pabellón Don Vasco",
+                "hu": "Pabellón Don Vasco",
+                "ro": "Pabellón Don Vasco",
+                "en": "Pabellón Don Vasco"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie trockene Zuflucht in den Kulturpavillons, um die nasse Umgebung bequem zu beobachten, ohne dass Ihre Kleidung dabei komplett durchnässt wird.",
+                "hu": "Keressen ideiglenes és száraz menedéket a kulturális pavilonokban, hogy kényelmesen figyelhesse a nedves környezetet anélkül, hogy ruhája teljesen elázna.",
+                "ro": "Găsiți un refugiu temporar și uscat în pavilioanele culturale pentru a observa confortabil împrejurimile umede fără ca hainele să vi se ude complet.",
+                "en": "Find temporary and dry refuge inside the cultural pavilions to comfortably observe the wet surroundings without getting your clothes completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Chucho Monger",
+                "hu": "Teatro Chucho Monger",
+                "ro": "Teatro Chucho Monger",
+                "en": "Teatro Chucho Monger"
+              },
+              "tip_5lang": {
+                "de": "Das markante Freilufttheater ist bei Nässe unglaublich rutschig; bewundern Sie die architektonische Gestaltung einfach von einem völlig sicheren, trockenen Punkt aus.",
+                "hu": "A lenyűgöző szabadtéri színház szerkezete nedvesen hihetetlenül csúszós; inkább egy teljesen biztonságos, száraz kilátópontról csodálja meg az építészeti kialakítását.",
+                "ro": "Structura teatrului uimitor în aer liber este incredibil de alunecoasă la umezeală; admirați-i designul arhitectural dintr-un punct de observație complet sigur și uscat.",
+                "en": "The striking outdoor theater structure is incredibly slippery when wet; simply admire its architectural layout from a completely safe, dry vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pirámide de El Barreno",
+                "hu": "La Pirámide de El Barreno",
+                "ro": "La Pirámide de El Barreno",
+                "en": "La Pirámide de El Barreno"
+              },
+              "tip_5lang": {
+                "de": "Das Navigieren am schlammigen Fuß dieser historischen Pyramide erfordert absolut feste, wasserdichte Stiefel, um ein Ausrutschen im Nachmittagsregen zu vermeiden.",
+                "hu": "Ennek a lenyűgöző történelmi piramisnak az ősi, sáros alapján való közlekedés masszív, vízálló csizmát igényel, hogy elkerülje a csúszkálást a heves esőben.",
+                "ro": "Explorarea bazei antice și noroioase a acestei piramide istorice fascinante necesită cizme impermeabile robuste pentru a evita alunecarea în ploaia torențială.",
+                "en": "Navigating the ancient, muddy base of this fascinating historical pyramid requires sturdy waterproof boots to avoid slipping in the heavy afternoon rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Autoheizung am kalten Wintermorgen auf dem Weg zu den Museen. Mittags gibt es klare Sicht für die kurze Fahrt zum Kulturhaus. Nachmittags wirft der frühe Sonnenuntergang um 17:00 Uhr lange Schatten auf die Denkmäler. Beenden Sie den kühlen Abend an der Pyramide, in einen warmen Mantel gehüllt.",
+            "hu": "Élvezze az autó fűtését a hideg téli reggelen a kézműves és édességmúzeumok felé haladva. Délben a tiszta idő kedvez a kultúrházhoz vezető rövid útnak. Délután a korai, 17:00 órás naplemente hosszú árnyékokat vet a történelmi emlékművekre. A hűvös estét a piramisnál fejezze be egy meleg kabátba burkolózva.",
+            "ro": "Bucurați-vă de căldura mașinii în dimineața rece de iarnă spre muzeele de artizanat și dulciuri. Prânzul oferă vizibilitate clară spre casa de cultură. După-amiaza, apusul devreme de la 17:00 aruncă umbre lungi peste monumente. Încheiați seara răcoroasă la piramidă, înfășurați într-o haină groasă.",
+            "en": "Enjoy the car's heater on a cold winter morning heading to the artisan and sweet museums. Midday offers crisp, clear views for the short drive to the cultural house. In the afternoon, the early 17:00 sunset casts long shadows over the historical monuments. Finish your chilly evening at the pyramid wrapped in a warm coat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Artesano Michoacano",
+                "hu": "Museo del Artesano Michoacano",
+                "ro": "Museo del Artesano Michoacano",
+                "en": "Museo del Artesano Michoacano"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie regionales Handwerk in diesem historischen, aber unbeheizten Kolonialbau, also halten Sie Ihren Wintermantel beim Rundgang besser fest geschlossen.",
+                "hu": "Nézze meg a régió bonyolult kézműves kincseit ebben a fűtetlen gyarmati épületben, ezért mindenképpen tartsa begombolva téli kabátját a séta során.",
+                "ro": "Vedeți meșteșuguri regionale complexe în această clădire colonială neîncălzită, deci asigurați-vă că țineți haina de iarnă încheiată în timp ce vă plimbați.",
+                "en": "See intricate regional crafts and colorful arts in this unheated colonial building, so make sure to keep your winter coat zipped up while walking around."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Dulce",
+                "hu": "Museo del Dulce",
+                "ro": "Museo del Dulce",
+                "en": "Museo del Dulce"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit heißer Schokolade und regionalen Süßigkeiten auf; ein perfekter, gemütlicher Rückzugsort an einem kühlen Wintermorgen vor dem Start.",
+                "hu": "Melegedjen fel forró csokoládéval és hagyományos édességekkel; ez egy tökéletes, hangulatos menedék a nap indításához egy hűvös téli reggelen indulás előtt.",
+                "ro": "Încălziți-vă cu ciocolată caldă și dulciuri regionale tradiționale; un refugiu perfect și confortabil pentru a începe ziua într-o dimineață rece de iarnă.",
+                "en": "Warm up with hot chocolate and traditional regional sweets; it is a perfect cozy retreat to start your day on a chilly winter morning before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura de Morelia",
+                "hu": "Casa de la Cultura de Morelia",
+                "ro": "Casa de la Cultura de Morelia",
+                "en": "Casa de la Cultura de Morelia"
+              },
+              "tip_5lang": {
+                "de": "Die offenen, historischen Innenhöfe können im Winter überraschend zugig sein; tragen Sie einen warmen Schal, während Sie die Kolonialarchitektur bewundern.",
+                "hu": "A nyitott, történelmi udvarok a téli hónapokban meglepően huzatosak lehetnek, ezért viseljen meleg sálat, miközben a lenyűgöző gyarmati építészetet csodálja.",
+                "ro": "Curțile istorice deschise pot avea curenți reci surprinzători iarna, așa că purtați un fular cald în timp ce admirați arhitectura colonială uimitoare.",
+                "en": "The open, historic courtyards can be surprisingly drafty in winter months, so wear a warm scarf while admiring the stunning colonial architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pípila",
+                "hu": "El Pípila",
+                "ro": "El Pípila",
+                "en": "El Pípila"
+              },
+              "tip_5lang": {
+                "de": "Die Brise auf dem Hügel ist hier eisig, aber das klare, goldene Winternachmittagslicht bietet absolut perfekte Bedingungen, um die Statue zu fotografieren.",
+                "hu": "A dombtetőn fújó szél ezen a ponton fagyos, de a tiszta, aranyló téli délutáni fény abszolút tökéletes feltételeket biztosít a hatalmas szobor fotózásához.",
+                "ro": "Briza de pe deal este înghețată aici, dar lumina clară și aurie de iarnă după-amiaza oferă condiții absolut perfecte pentru a fotografia statuia.",
+                "en": "The hilltop breeze here is freezing, but the clear, golden winter afternoon light provides absolutely perfect conditions for photographing the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento salida salamanca",
+                "hu": "Monumento salida salamanca",
+                "ro": "Monumento salida salamanca",
+                "en": "Monumento salida salamanca"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch dieses imposanten Bauwerks deutlich vor dem Sonnenuntergang um 17:00 Uhr, da der riesige Platz nach Einbruch der Dunkelheit extrem kalt wird.",
+                "hu": "Tervezze be ezen impozáns építmény meglátogatását jócskán a 17:00-es naplemente előtt, mert a hatalmas nyitott tér sötétedés után rendkívül és kellemetlenül hideg lesz.",
+                "ro": "Planificați să vizitați această structură impunătoare mult înainte de apusul de la 17:00, deoarece spațiul imens deschis devine intens și incomod de rece odată cu lăsarea nopții.",
+                "en": "Plan to visit this imposing structure well before the 17:00 sunset, as the massive open space gets intensely and uncomfortably cold once night falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Pabellón Don Vasco",
+                "hu": "Pabellón Don Vasco",
+                "ro": "Pabellón Don Vasco",
+                "en": "Pabellón Don Vasco"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, erfrischende Winterluft an diesem Kulturort; bringen Sie unbedingt warme Handschuhe und eine Mütze für die Erkundung des Geländes mit.",
+                "hu": "Élvezze a csípős, frissítő téli levegőt ezen a nyüzsgő kulturális helyszínen; csak ne felejtsen el meleg kesztyűt és sapkát hozni a terület lassú felfedezéséhez.",
+                "ro": "Bucurați-vă de aerul proaspăt de iarnă în acest spațiu cultural vibrant; asigurați-vă că aduceți mănuși calde și o căciulă în timp ce explorați pe îndelete terenul.",
+                "en": "Enjoy the crisp, refreshing winter air in this vibrant cultural space; just make sure to bring warm gloves and a hat as you slowly explore the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Chucho Monger",
+                "hu": "Teatro Chucho Monger",
+                "ro": "Teatro Chucho Monger",
+                "en": "Teatro Chucho Monger"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie deutlich vor der Dämmerung durch die offenen Ränge des Theaters, da die massiven Betonstufen die abendliche Kälte speichern und die Luft abkühlen.",
+                "hu": "Sétáljon körbe a színház nyitott soraiban jócskán sötétedés előtt, mivel a hatalmas betonlépcsők megtartják az esti hideget, és jelentősen lehűtik a levegőt.",
+                "ro": "Plimbați-vă printre rândurile deschise ale teatrului mult înainte de amurg, deoarece treptele masive de beton rețin frigul serii și răcesc considerabil aerul.",
+                "en": "Walk around the theater's open seating rows well before dusk, as the massive concrete steps hold onto the evening cold and chill the air considerably."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pirámide de El Barreno",
+                "hu": "La Pirámide de El Barreno",
+                "ro": "La Pirámide de El Barreno",
+                "en": "La Pirámide de El Barreno"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie genau dann an, wenn die frühe Sonne direkt hinter der Pyramide untergeht, aber packen Sie sich extrem warm gegen den schnell nahenden Abendfrost ein.",
+                "hu": "Érkezzen pontosan akkor, amikor a korai nap közvetlenül az ősi piramis mögött nyugszik le, varázslatot teremtve, de öltözzön be nagyon szorosan a közeledő fagy ellen.",
+                "ro": "Ajungeți exact când soarele apune devreme direct în spatele piramidei antice, creând magie, dar înfășurați-vă foarte strâns împotriva gerului care se apropie rapid.",
+                "en": "Arrive just as the early sun sets directly behind the ancient pyramid, creating magic, but wrap up very tightly against the fast-approaching evening frost."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Délelőtt: Sétánkat Mutxamel szívében kezdjük a modern Centro Polivalente felfedezésével, majd a robusztus Torre Ferraznál visszalépünk az időben.\nDélben: A dél közeledtével elmerülünk a helyi művészetekben és örökségben a vibráló kultúrházban, amely az önkormányzat igazi kulturális központja.\nDélután: A séta a külváros felé folytatódik a Torre d'Ansaldo felfedezésével, amely egy lenyűgöző őrtorony-birtok, bepillantást engedve a vidéki történelembe.\nEste: Gyalogos utunkat a Torre Salafrancánál fejezzük be, ahol a festői mezők nyugodt és festői hátteret biztosítanak a nap végéhez.",
         "ro": "Dimineața: Începem turul nostru pietonal în inima orașului Mutxamel, explorând modernul Centro Polivalente înainte de a face un pas înapoi în timp la robustul Torre Ferraz.\nLa prânz: Pe măsură ce se apropie amiaza, ne cufundăm în artele locale la vibranta Casă de Cultură, un adevărat centru cultural al municipalității.\nDupă-amiaza: Plimbarea continuă spre periferie pentru a descoperi Torre d'Ansaldo, un domeniu fascinant care oferă perspective asupra istoriei rurale.\nSeara: Încheiem călătoria noastră la Torre Salafranca, unde câmpurile pitorești oferă un fundal senin și pitoresc pe măsură ce ziua se încheie.",
         "en": "Morning: We begin our walking tour in the heart of Mutxamel, exploring the modern Centro Polivalente before stepping back in time at the robust Torre Ferraz.\nMidday: As noon approaches, we immerse ourselves in local arts and heritage at the vibrant Casa de Cultura, a true cultural hub of the municipality.\nAfternoon: The walk continues towards the outskirts to discover Torre d'Ansaldo, a fascinating watchtower estate offering glimpses into rural history.\nEvening: We conclude our pedestrian journey at Torre Salafranca, where the scenic fields provide a serene and picturesque backdrop as the day winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Mutxamel bietet die perfekte Gelegenheit, die kulturellen Innenräume zu erkunden. Beginnen Sie im Centro Polivalente. Mittags bietet das Casa de Cultura Schutz vor den Schauern. Nachmittags glänzen die historischen Türme im Regen, doch Vorsicht auf glatten Wegen. Abends empfiehlt sich ein gemütlicher Rückzug in ein lokales Café im Stadtzentrum, um trocken zu bleiben.",
+            "hu": "Mutxamel esőben is felfedezhető, kezdje a napot a Centro Polivalente fedett tereiben, ahol kiállítások várják. Délben a Casa de Cultura nyújt menedéket a záporok elől. Délután a történelmi tornyok látványa a szürke égbolt alatt is lenyűgöző, de figyeljen a csúszós macskakövekre. Az este közeledtével keressen egy hangulatos beltéri helyszínt a városközpontban, ahol megszárítkozhat.",
+            "ro": "O zi ploioasă în Mutxamel este ocazia ideală pentru a descoperi spațiile culturale interioare. Începeți dimineața la Centro Polivalente. La prânz, Casa de Cultura oferă adăpost împotriva averselor. După-amiaza, turnurile istorice strălucesc sub ploaie, dar aveți grijă la trotuarele alunecoase. Seara, retrageți-vă într-o cafenea primitoare din centru pentru a încheia ziua într-un mod relaxant.",
+            "en": "A rainy day in Mutxamel is perfect for exploring indoor cultural spaces. Start your morning at the Centro Polivalente. At noon, the Casa de Cultura provides a dry sanctuary amidst the showers. Afternoon brings a dramatic look to the historical towers under grey skies, but watch out for slippery stones. In the evening, retreat to a cozy indoor spot in the city center to stay warm and dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Polivalente",
+                "hu": "Centro Polivalente",
+                "ro": "Centro Polivalente",
+                "en": "Centro Polivalente"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in diesem modernen Gebäude, das perfekten Schutz vor Regen bietet; nutzen Sie den überdachten Eingangsbereich, um Ihren Regenschirm bequem aufzuspannen.",
+                "hu": "Ez a modern kulturális központ kiváló menedék esőben, ahol benti kiállításokat nézhet meg szárazon; vigyen magával esernyőt, mert az épület bejárata előtti tér teljesen nyitott.",
+                "ro": "Vizitați expozițiile din această clădire modernă care oferă un adăpost perfect împotriva ploii; folosiți zona de intrare acoperită pentru a vă scutura umbrela în mod confortabil.",
+                "en": "Visit the exhibitions inside this modern building which offers perfect shelter from the rain; use the covered entrance area to conveniently open your umbrella before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ferraz",
+                "hu": "Torre Ferraz",
+                "ro": "Torre Ferraz",
+                "en": "Torre Ferraz"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen Wehrturm von der Straße aus, wo die nassen Steinmauern besonders glänzen; halten Sie sich unter den nahen Arkaden auf, um trocken einen Blick darauf zu werfen.",
+                "hu": "Csodálja meg ezt a védelmi tornyot az utcaszintről, ahol az eső áztatta kőfalak különleges fényt kapnak; a közeli árkádok alatt állva szárazon is szemügyre veheti az épületet.",
+                "ro": "Admirați acest turn de apărare de la nivelul străzii, unde zidurile de piatră umede strălucesc sub ploaie; stați sub arcadele din apropiere pentru a-l observa fără a vă uda prea tare.",
+                "en": "Admire this defense tower from the street level where the wet stone walls take on a special sheen; stand under nearby arches to get a good view while staying relatively dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Cultura de Mutxamel",
+                "hu": "Casa de Cultura de Mutxamel",
+                "ro": "Casa de Cultura de Mutxamel",
+                "en": "Casa de Cultura de Mutxamel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagspause für einen Besuch der Bibliothek oder der Galerien in diesem Kulturhaus; es ist der ideale Ort, um sich bei einem plötzlichen Regenguss aufzuwärmen.",
+                "hu": "Használja ki a délidőt a könyvtár vagy a galériák meglátogatására ebben a kulturális házban; ideális hely a melegedésre és a száradásra egy hirtelen jött nagyobb zápor esetén.",
+                "ro": "Folosiți pauza de prânz pentru a vizita biblioteca sau galeriile din această casă de cultură; este locul ideal pentru a vă încălzi și usca în timpul unei averse bruște.",
+                "en": "Use your midday break to visit the library or galleries inside this cultural house; it is the ideal spot to warm up and dry off if a sudden heavy downpour catches you outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'Ansaldo",
+                "hu": "Torre d'Ansaldo",
+                "ro": "Torre d'Ansaldo",
+                "en": "Torre d'Ansaldo"
+              },
+              "tip_5lang": {
+                "de": "Der markante Wohnturm wirkt bei grauem Himmel besonders imposant, aber der Weg dorthin kann schlammig sein; tragen Sie wasserfeste Schuhe für den Zugang über den unbefestigten Pfad.",
+                "hu": "A középkori lakótorony esőben is tekintélyt parancsoló, az ereszek alatt megállva megfigyelheti a falak textúráját; a vizes köveken óvatosan lépkedjen a megközelítéskor.",
+                "ro": "Turnul de locuit impunător pare și mai dramatic sub cerul gri, dar drumul poate fi noroios; purtați încălțăminte impermeabilă pentru a parcurge poteca neasfaltată spre el.",
+                "en": "The striking residential tower looks even more imposing under grey skies, but the approach can be muddy; wear waterproof shoes for the walk along the unpaved path to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Salafranca",
+                "hu": "Torre Salafranca",
+                "ro": "Torre Salafranca",
+                "en": "Torre Salafranca"
+              },
+              "tip_5lang": {
+                "de": "Die historische Anlage bietet einige überdachte Vorsprünge, unter denen Sie die Architektur studieren können; achten Sie auf die rutschigen Kanten der Gehwege bei Nässe.",
+                "hu": "A történelmi épület számos kiszögellése védelmet nyújt a szemerkélő esőben, miközben az építészetet tanulmányozza; ügyeljen a járdaszegélyeknél, amelyek vizesen csúszóssá válnak.",
+                "ro": "Complexul istoric oferă câteva cornișe sub care vă puteți adăposti pentru a studia arhitectura; aveți grijă la marginile alunecoase ale trotuarelor atunci când este umed afară.",
+                "en": "The historical site offers several ledges under which you can shelter while studying the architecture; watch out for the edges of the pavement, which become very slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mutxamel im Winter ist mild, erfordert aber Schichten für die kühlen Morgenstunden. Beginnen Sie historisch im Stadtkern. Mittags wärmen Sie sich in kulturellen Zentren auf. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie die Türme im goldenen Nachmittagslicht besichtigen. Den Abend verbringen Sie am besten in den beleuchteten Gassen des Zentrums.",
+            "hu": "A téli Mutxamel hűvös, de tiszta levegővel várja, a réteges öltözködés elengedhetetlen a reggeli sétához. Napközben a kulturális központok falai között melegedhet fel. Mivel a nap korán, 17 óra körül nyugszik, a tornyokat érdemes a kora délutáni fényekben megcsodálni. Az estét töltse a városközpont kivilágított utcáin, ahol a mediterrán tél hangulata várja.",
+            "ro": "Iarna în Mutxamel este blândă, dar necesită haine stratificate pentru diminețile răcoroase. Începeți vizita cu centrul istoric. La prânz, încălziți-vă în centrele culturale locale. Deoarece soarele apune în jurul orei 17:00, vizitați turnurile în lumina aurie a după-amiezii. Seara, bucurați-vă de străzile luminate ale centrului înainte ca temperatura să scadă.",
+            "en": "Winter in Mutxamel is mild but requires layers for the crisp mornings. Start your historical tour in the city core. Warm up in cultural centers at noon. Since the sun sets around 17:00, aim to visit the towers during the golden afternoon light. Spend your evening in the illuminated streets of the center, enjoying the Mediterranean winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Polivalente",
+                "hu": "Centro Polivalente",
+                "ro": "Centro Polivalente",
+                "en": "Centro Polivalente"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Tag in der Wärme dieses modernen Komplexes, um der morgendlichen Winterkühle zu entgehen; die großen Glasflächen lassen viel helles Wintersonnenlicht herein.",
+                "hu": "Kezdje a napot ebben a fűtött, modern épületben, hogy elkerülje a reggeli téli csípős levegőt; a nagy üvegfelületek pedig átengedik a gyenge, de kellemes téli napsütést.",
+                "ro": "Începeți ziua în căldura acestui complex modern pentru a evita răcoarea dimineții de iarnă; suprafețele mari vitrate permit pătrunderea luminii strălucitoare a soarelui de iarnă.",
+                "en": "Start your day in the warmth of this modern complex to avoid the morning winter chill; the large glass surfaces let in plenty of bright winter sunlight to keep the mood cheerful."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ferraz",
+                "hu": "Torre Ferraz",
+                "ro": "Torre Ferraz",
+                "en": "Torre Ferraz"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt im klaren Winterlicht besonders scharf gezeichnet, ideal für Fotos ohne Hitzeflimmern; tragen Sie eine warme Jacke, da es in den schattigen Gassen kühl bleiben kann.",
+                "hu": "A torony kontúrjai élesen kirajzolódnak a tiszta téli levegőben, ami kiváló fotótémát ad; viseljen meleg kabátot, mert a szűk utcák árnyékos oldalán sokkal hidegebb van.",
+                "ro": "Turnul apare foarte clar în lumina iernii, fiind ideal pentru fotografii fără distorsiuni termice; purtați o jachetă groasă, deoarece pe străzile umbrite poate rămâne frig.",
+                "en": "The tower appears very sharp in the clear winter light, ideal for photos without heat haze; wear a warm jacket as it can stay quite cool in the narrow, shaded streets nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Cultura de Mutxamel",
+                "hu": "Casa de Cultura de Mutxamel",
+                "ro": "Casa de Cultura de Mutxamel",
+                "en": "Casa de Cultura de Mutxamel"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für eine Aufwärmpause am Mittag, während Sie lokale Kunstwerke betrachten; prüfen Sie das Programm für winterliche Kulturveranstaltungen im Innenraum.",
+                "hu": "Tökéletes helyszín egy déli melegedő szünetre, miközben helyi műalkotásokat nézeget; keresse a benti téli kulturális eseményeket, amelyek ilyenkor gyakoriak az épületben.",
+                "ro": "Un loc perfect pentru o pauză de încălzire la prânz în timp ce priviți opere de artă locale; verificați programul pentru evenimente culturale de iarnă desfășurate în interior.",
+                "en": "A perfect spot for a midday warming break while browsing local artworks; check the schedule for indoor winter cultural events which are often held here during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'Ansaldo",
+                "hu": "Torre d'Ansaldo",
+                "ro": "Torre d'Ansaldo",
+                "en": "Torre d'Ansaldo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Turm am frühen Nachmittag, um die letzten warmen Sonnenstrahlen auf dem offenen Feld zu nutzen; die tiefstehende Wintersonne beleuchtet die Fassade wunderschön.",
+                "hu": "A téli alacsony napállás hosszú árnyékokat vet a torony falaira, ami különleges fotótémát kínál a kora délutáni órákban; a nyílt területen fújó szél ellen viseljen meleg sálat.",
+                "ro": "Vizitați acest turn la începutul după-amiezii pentru a profita de ultimele raze calde pe câmpul deschis; soarele jos de iarnă luminează fațada într-un mod spectaculos.",
+                "en": "Visit this tower in the early afternoon to catch the last warm rays of sun in the open field; the low winter sun illuminates the facade beautifully for golden hour photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Salafranca",
+                "hu": "Torre Salafranca",
+                "ro": "Torre Salafranca",
+                "en": "Torre Salafranca"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang hier kurz vor Sonnenuntergang um 17 Uhr, wenn die Steine orange leuchten; halten Sie Handschuhe bereit, da die Kälte nach dem Abklingen der Sonne zunimmt.",
+                "hu": "Zárja itt a sétát nem sokkal a 17 órai naplemente előtt, amikor a kövek narancssárgán izzanak; legyen kéznél kesztyű, mert a nap eltűnése után a hideg gyorsan erősödik.",
+                "ro": "Încheiați turul aici chiar înainte de apusul de la ora 17:00, când pietrele strălucesc în nuanțe portocalii; aveți mănușile pregătite, deoarece frigul se intensifică rapid după apus.",
+                "en": "Finish your walk here just before the 17:00 sunset when the stones glow orange; have gloves ready as the cold intensifies quickly once the sun disappears behind the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Délelőtt: Kezdje kerékpáros kalandját a lenyűgöző Assut del Campello felé tartva, és csodálja meg ezt az ősi mérnöki alkotást, mielőtt a városba indulna.\nDélben: Tekerjen vissza a központba, hogy magába szívja a kultúrház nyüzsgő légkörét, majd egy gyors utazással látogasson el a történelmi Torre d'Ansaldohoz.\nDélután: A kerékpáros útvonal mezőgazdasági tájakon keresztül vezet a Torre Salafranca felé, majd a nyugalom pillanatát kínálja az Ermita del Calvarinál.\nEste: Fejezze be dinamikus kerékpártúráját a fenséges Torre Les Paulines-nél, élvezve a lenyűgöző történelmi építészet felett halványuló fényt.",
         "ro": "Dimineața: Începeți aventura pe bicicletă îndreptându-vă spre impresionantul Assut del Campello, admirând această capodoperă înainte de a merge în oraș.\nLa prânz: Pedați înapoi spre centru pentru a vă bucura de atmosfera vibrantă de la Casa de Cultură, urmată de o scurtă plimbare la istoricul Torre d'Ansaldo.\nDupă-amiaza: Traseul pe bicicletă șerpuiește prin peisaje agricole spre Torre Salafranca, oferind apoi un moment de liniște la Ermita del Calvari.\nSeara: Încheiați turul dinamic cu bicicleta la maiestuosul Torre Les Paulines, bucurându-vă de lumina slabă a serii peste arhitectura sa uimitoare.",
         "en": "Morning: Kick off your cycling adventure by riding out to the impressive Assut del Campello, marveling at this ancient engineering feat before heading into town.\nMidday: Pedal back to the center to soak in the vibrant atmosphere of the Casa de Cultura, followed by a quick ride to the historic Torre d'Ansaldo.\nAfternoon: The cycling route weaves through agricultural landscapes towards Torre Salafranca, then offers a moment of quiet reflection at Ermita del Calvari.\nEvening: End your dynamic bike tour at the majestic Torre Les Paulines, enjoying the fading light over its stunning historical architecture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf glatten Straßen, aber die städtischen Abschnitte sind gut befahrbar. Beginnen Sie morgens beim Assut del Campello mit Vorsicht bei Schlamm. Mittags bietet das Kulturhaus eine trockene Pause. Nachmittags sollten Sie wasserfeste Kleidung tragen und die Tour beenden, bevor die Sicht durch den Regen stark nachlässt.",
+            "hu": "A kerékpározás esőben óvatosságot igényel a csúszós utakon, de a városi szakaszok jól járhatóak. Reggel az Assut del Campello környékén figyeljen a sárra. Délben a művelődési ház kínál száraz pihenőt. Délután a tornyok közötti pedálozás közben viseljen vízálló öltözetet, este pedig fejezze be a túrát időben.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile alunecoase, dar secțiunile urbane sunt accesibile. Dimineața, aveți grijă la noroi în zona Assut del Campello. La prânz, casa de cultură oferă o pauză uscată. După-amiaza, purtați haine impermeabile și încheiați turul înainte ca vizibilitatea să scadă din cauza precipitațiilor.",
+            "en": "Cycling in the rain requires caution on slippery roads, though urban sections remain manageable. Start your morning at Assut del Campello, being wary of mud. At noon, the culture house offers a dry respite. Wear waterproof gear while pedaling between towers in the afternoon, and finish your tour before rain significantly reduces visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Assut del Campello",
+                "hu": "Assut del Campello",
+                "ro": "Assut del Campello",
+                "en": "Assut del Campello"
+              },
+              "tip_5lang": {
+                "de": "Die Wege um das Wehr können bei Regen rutschig sein; fahren Sie langsam und achten Sie auf Pfützen, die die Tiefe von Schlaglöchern auf dem Radweg verbergen könnten.",
+                "hu": "Az egykori gát környéke esőben sárossá válhat, ezért tartsa a biztonságos távolságot a peremtől; a vízállás megfigyelése ilyenkor kerékpárról is különösen látványos lehet.",
+                "ro": "Potecile din jurul barajului pot fi alunecoase pe ploaie; pedalați încet și fiți atenți la bălțile care ar putea ascunde adâncimea gropilor de pe pista de biciclete.",
+                "en": "The paths around the weir can be slippery in the rain; ride slowly and watch out for puddles that might hide the depth of potholes on the unpaved cycling tracks nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Cultura de Mutxamel",
+                "hu": "Casa de Cultura de Mutxamel",
+                "ro": "Casa de Cultura de Mutxamel",
+                "en": "Casa de Cultura de Mutxamel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Ort und nutzen Sie die Innenräume für eine trockene Pause; prüfen Sie Ihre Bremsen, da nasse Beläge eine längere Reaktionszeit benötigen.",
+                "hu": "Parkoljon le egy fedett részen, és használja a belső tereket egy száraz pihenőre; ellenőrizze a fékeket, mert a vizes felniken a féktávolság kerékpárral jelentősen megnőhet.",
+                "ro": "Parcați bicicleta într-un loc acoperit și folosiți interiorul pentru o pauză uscată; verificați frânele, deoarece saboții uzi necesită un timp de reacție mai lung în trafic.",
+                "en": "Park your bike in a covered spot and use the indoor facilities for a dry break; check your brakes, as wet rims require a longer stopping distance when cycling in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'Ansaldo",
+                "hu": "Torre d'Ansaldo",
+                "ro": "Torre d'Ansaldo",
+                "en": "Torre d'Ansaldo"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um den Turm kann aufweichen; bleiben Sie auf den befestigten Rändern des Weges und tragen Sie eine Regenjacke mit Kapuze, die die Sicht beim Fahren nicht einschränkt.",
+                "hu": "A torony körüli talaj felázhat, ezért maradjon az út szilárdabb szélén; viseljen kapucnis esőkabátot, amely tekerés közben sem korlátozza a kilátást a forgalomra.",
+                "ro": "Solul din jurul turnului poate deveni moale; rămâneți pe marginile consolidate ale drumului și purtați o pelerină cu glugă care să nu vă blocheze vizibilitatea în timp ce pedalați.",
+                "en": "The ground around the tower can get soft; stay on the firmer edges of the path and wear a rain jacket with a hood that doesn't obstruct your peripheral vision while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Salafranca",
+                "hu": "Torre Salafranca",
+                "ro": "Torre Salafranca",
+                "en": "Torre Salafranca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Bäume als natürlichen Wind- und Regenschutz beim kurzen Stopp; achten Sie beim Wiederanfahren auf das Kopfsteinpflaster, das extrem glatt sein kann.",
+                "hu": "Használja a közeli fákat természetes szél- és esővédőként a rövid megálló során; az elindulásnál vigyázzon a macskakövekre, amelyek kerékpárral rendkívül csúszósak lehetnek.",
+                "ro": "Folosiți copacii din apropiere ca paravan natural împotriva vântului și ploii la oprire; la plecare, aveți grijă la pavaj, care poate fi extrem de alunecos pentru roțile bicicletei.",
+                "en": "Use the nearby trees as a natural wind and rain shield during your brief stop; when starting off again, be careful on the cobblestones, which can be extremely slick for bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Calvari",
+                "hu": "Ermita del Calvari",
+                "ro": "Ermita del Calvari",
+                "en": "Ermita del Calvari"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Kapelle ist steil; bei Regen ist besondere Vorsicht beim Abfahren geboten, da das Gefälle auf nassem Asphalt die Bremswirkung stark beeinträchtigt.",
+                "hu": "A kápolnához vezető út meredek, esőben pedig különös óvatosságot igényel a lejtőn való ereszkedés; a vizes aszfalton a fékhatás kerékpárral jelentősen csökkenhet.",
+                "ro": "Urcarea spre capelă este abruptă; pe ploaie, este necesară prudență maximă la coborâre, deoarece panta pe asfalt umed afectează grav eficiența frânării bicicletei.",
+                "en": "The climb to the chapel is steep; in the rain, extra caution is needed during the descent, as the incline on wet asphalt significantly reduces braking effectiveness for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Les Paulines",
+                "hu": "Torre Les Paulines",
+                "ro": "Torre Les Paulines",
+                "en": "Torre Les Paulines"
+              },
+              "tip_5lang": {
+                "de": "Dieser abgelegene Ort wirkt im Regen mystisch; beenden Sie Ihren Besuch zügig, um vor Einbruch der Dunkelheit und verstärktem Regen sicher zum Ausgangspunkt zurückzukehren.",
+                "hu": "Ez a távolabbi helyszín misztikus hangulatot áraszt esőben; fejezze be gyorsan a látogatást, hogy még a sötétedés és az eső erősödése előtt biztonságban visszaérjen a városba.",
+                "ro": "Acest loc izolat pare mistic pe ploaie; încheiați vizita rapid pentru a vă întoarce în siguranță la punctul de plecare înainte de lăsarea întunericului și intensificarea ploii.",
+                "en": "This more remote site feels mystical in the rain; conclude your visit quickly to return safely to your starting point before darkness falls and the rainfall potentially increases."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad in Mutxamel ist erfrischend, erfordert aber Windschutz. Beginnen Sie morgens am Assut del Campello, wo die Luft am Wasser kühl ist. Mittags wärmen Sie sich in der Casa de Cultura auf. Genießen Sie nachmittags die Türme im milden Licht, aber denken Sie daran, dass es ab 17 Uhr nach Sonnenuntergang sehr schnell abkühlt.",
+            "hu": "A téli kerékpározás Mutxamelben frissítő, de szélálló ruházatot igényel. Kezdje a reggelt az Assut del Campello-nál, ahol a vízparti levegő hűvös. Délben a Casa de Cultura falai között melegedhet fel. Délután élvezze a tornyok látványát a lágy fényekben, de ne feledje, 17 óra után a naplemente miatt gyorsan hűl az idő.",
+            "ro": "O zi de iarnă pe bicicletă în Mutxamel este revigorantă, dar necesită protecție împotriva vântului. Începeți dimineața la Assut del Campello, unde aerul lângă apă este rece. La prânz, încălziți-vă la Casa de Cultura. După-amiaza, bucurați-vă de turnuri în lumina blândă, dar rețineți că se răcește rapid după ora 17:00.",
+            "en": "A winter day on the bike in Mutxamel is refreshing but requires windproof layers. Start your morning at Assut del Campello, where the air near the water is crisp. Warm up at Casa de Cultura at noon. Enjoy the towers in the mild afternoon light, but remember it cools down very quickly after the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Assut del Campello",
+                "hu": "Assut del Campello",
+                "ro": "Assut del Campello",
+                "en": "Assut del Campello"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Luft am Wehr ist im Winter schneidend; tragen Sie unbedingt Handschuhe und ein Halstuch für die Fahrt dorthin, um sich vor dem kalten Fahrtwind zu schützen.",
+                "hu": "A téli reggeleken a vízparti levegő metsző lehet, így a kerékpározáshoz mindenképpen húzzon kesztyűt és sálat; a korai fények különleges csillogást kölcsönöznek a tájnak.",
+                "ro": "Aerul de dimineață la baraj este tăios iarna; purtați neapărat mănuși și un fular pentru drum, pentru a vă proteja de vântul rece în timp ce pedalați spre această locație.",
+                "en": "The morning air at the weir is biting in winter; be sure to wear gloves and a neck warmer for the ride there to protect yourself from the cold wind chill while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Cultura de Mutxamel",
+                "hu": "Casa de Cultura de Mutxamel",
+                "ro": "Casa de Cultura de Mutxamel",
+                "en": "Casa de Cultura de Mutxamel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Muskeln im geheizten Innenraum zu lockern; warme Getränke in den Cafés gegenüber helfen, die Körpertemperatur für die Weiterfahrt zu halten.",
+                "hu": "Használja ki a megállót az izmai kilazítására a fűtött belső térben; a szemközti kávézókban egy forró ital segít fenntartani a testhőt a túra következő szakaszához.",
+                "ro": "Folosiți oprirea pentru a vă relaxa mușchii în interiorul încălzit; o băutură caldă la cafenelele de vizavi vă va ajuta să vă mențineți temperatura corpului pentru drum.",
+                "en": "Use this stop to loosen your muscles in the heated interior; a hot drink at the cafes opposite will help maintain your core temperature for the next leg of your winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'Ansaldo",
+                "hu": "Torre d'Ansaldo",
+                "ro": "Torre d'Ansaldo",
+                "en": "Torre d'Ansaldo"
+              },
+              "tip_5lang": {
+                "de": "Die Nachmittagssonne wärmt das Feld um den Turm auf; nutzen Sie dieses Zeitfenster für Fotos, bevor der Schatten des Turms die Umgebung merklich kühler werden lässt.",
+                "hu": "A délutáni napsütés kellemesen felmelegíti a torony körüli mezőt; használja ki ezt az időszakot a fotózásra, mielőtt a torony hosszú árnyéka miatt hűvösebbé válna a levegő.",
+                "ro": "Soarele de după-amiază încălzește câmpul din jurul turnului; folosiți acest interval pentru fotografii înainte ca umbra lungă a turnului să facă aerul vizibil mai rece.",
+                "en": "The afternoon sun pleasantly warms the field around the tower; use this window for photos before the tower's long shadow makes the immediate surroundings noticeably cooler."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Salafranca",
+                "hu": "Torre Salafranca",
+                "ro": "Torre Salafranca",
+                "en": "Torre Salafranca"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Sichtweiten oft besser; halten Sie Ausschau nach den fernen Bergen, die jetzt klar am Horizont stehen, während Sie kurz am historischen Turm rasten.",
+                "hu": "Télen a látótávolság gyakran jobb; kerékpáros pihenő közben keressen távoli hegycsúcsokat a horizonton, amelyek ilyenkor kristálytisztán látszanak a torony mellől.",
+                "ro": "Iarna, vizibilitatea este adesea mai bună; căutați munții îndepărtați care apar clar la orizont în timp ce vă odihniți scurt lângă acest turn istoric pe bicicletă.",
+                "en": "Visibility is often better in winter; look for the distant mountains standing clearly on the horizon while taking a brief cycling rest next to this impressive historical tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Calvari",
+                "hu": "Ermita del Calvari",
+                "ro": "Ermita del Calvari",
+                "en": "Ermita del Calvari"
+              },
+              "tip_5lang": {
+                "de": "Die Anstrengung des Aufstiegs wärmt Sie auf, aber oben zieht der Winterwind; ziehen Sie Ihre Jacke für die Abfahrt sofort wieder an, um ein Auskühlen der Brust zu vermeiden.",
+                "hu": "A felfelé tekerés hamar kimelegíti, de a tetőn fújhat a téli szél; a lejtő előtt rögtön vegye vissza a kabátját, hogy elkerülje a megfázást a gyors ereszkedés során.",
+                "ro": "Efortul urcării vă va încălzi, dar sus vântul de iarnă poate fi tăios; puneți-vă jacheta imediat înainte de coborâre pentru a evita răceala din cauza vitezei pe bicicletă.",
+                "en": "The effort of the climb will warm you up, but the winter wind often blows at the top; put your jacket back on immediately before the descent to prevent catching a chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Les Paulines",
+                "hu": "Torre Les Paulines",
+                "ro": "Torre Les Paulines",
+                "en": "Torre Les Paulines"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier gegen 17 Uhr; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Dämmerung im Winter sehr schnell in völlige Dunkelheit übergeht.",
+                "hu": "Fejezze be a túrát 17 óra körül; győződjön meg róla, hogy a kerékpáros lámpái működnek, mert télen a szürkület rendkívül gyorsan megy át teljes sötétségbe.",
+                "ro": "Încheiați turul aici în jurul orei 17:00; asigurați-vă că luminile bicicletei funcționează, deoarece amurgul de iarnă trece foarte repede în întuneric deplin.",
+                "en": "Finish your tour here around 17:00; ensure your bike lights are working perfectly, as winter twilight transitions very rapidly into complete darkness in this open area."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Délelőtt: Kezdje útját a történelmi Assut del Campello gátnál, majd hajtson be a városközpontba a Centro Polivalente és a közeli Torre Ferraz meglátogatásához.\nDélben: Vezessen kényelmesen a Torre d'Ansaldohoz a birtok felfedezéséhez, majd álljon meg a nyüzsgő szombati piacon a helyi ízekért.\nDélután: Folytassa útját az impozáns Torre Bonanzához, amely a régió múltjának büszke bizonyítékaként álló jelentős védőtorony.\nEste: Az autós túra a csodálatos Torre Les Paulines-nél zárul, amely tökéletes helyen fekszik ahhoz, hogy festői és pihentető lezárást kínáljon.",
         "ro": "Dimineața: Începeți călătoria cu mașina la barajul istoric Assut del Campello, apoi mergeți spre centrul orașului pentru a vizita Centro Polivalente și Torre Ferraz.\nLa prânz: Conduceți confortabil până la Torre d'Ansaldo pentru a explora domeniul, urmat de o oprire plină de viață la piața tradițională de sâmbătă.\nDupă-amiaza: Continuați călătoria către impunătorul Torre Bonanza, un turn de apărare semnificativ care stă drept mărturie mândră a trecutului regiunii.\nSeara: Turul cu mașina se încheie la magnificul Torre Les Paulines, perfect situat pentru a oferi o concluzie pitorească și relaxantă a itinerariului de astăzi.",
         "en": "Morning: Start your drive at the historic Assut del Campello dam, then cruise into the town center to visit the Centro Polivalente and nearby Torre Ferraz.\nMidday: Drive comfortably to Torre d'Ansaldo to explore the estate, followed by a lively stop at the bustling Saturday Market for local flavors and crafts.\nAfternoon: Continue your road trip to the imposing Torre Bonanza, a significant defense tower that stands as a proud testament to the region's past.\nEvening: The driving tour wraps up at the magnificent Torre Les Paulines, perfectly situated to offer a picturesque and relaxing conclusion to the day's itinerary."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag mit dem Auto in Mutxamel ist komfortabel und ermöglicht es, alle Sehenswürdigkeiten trocken zu erreichen. Beginnen Sie morgens am Assut del Campello. Mittags bieten das Centro Polivalente und Torre Ferraz nahe Parkmöglichkeiten. Besuchen Sie nachmittags die Türme und den Markt, wobei das Auto als perfekter Rückzugsort zwischen den kurzen Fußwegen dient.",
+            "hu": "Az esős nap Mutxamelben autóval kényelmes, hiszen minden látnivaló szárazon elérhető. Kezdje a reggelt az Assut del Campello-nál. Délben a Centro Polivalente és a Torre Ferraz közelében könnyű parkolni. Délután látogassa meg a tornyokat és a piacot, az autó pedig tökéletes menedék marad a rövid séták között.",
+            "ro": "O zi ploioasă în Mutxamel cu mașina este confortabilă și vă permite să ajungeți la toate atracțiile fără a vă uda. Începeți dimineața la Assut del Campello. La prânz, Centro Polivalente și Torre Ferraz oferă parcări apropiate. După-amiaza, vizitați turnurile și piața, mașina fiind refugiul perfect.",
+            "en": "A rainy day in Mutxamel by car is convenient, allowing you to reach all sights while staying dry. Start your morning at Assut del Campello. At noon, the Centro Polivalente and Torre Ferraz offer nearby parking. Visit the towers and market in the afternoon, using the car as a perfect retreat between short walks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Assut del Campello",
+                "hu": "Assut del Campello",
+                "ro": "Assut del Campello",
+                "en": "Assut del Campello"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Bereich, um nicht im Schlamm steckenzubleiben; betrachten Sie das Wehr kurz von der Brücke aus, wo Sie schnell wieder ins Auto schlüpfen können.",
+                "hu": "Parkoljon a szilárd burkolatú részen, hogy elkerülje a sárba ragadást; a gátat a hídról szemlélje meg, ahonnan egy hirtelen zápor esetén gyorsan visszatérhet az autójához.",
+                "ro": "Parcați pe zona asfaltată pentru a evita blocarea în noroi; observați barajul de pe pod, de unde vă puteți întoarce rapid la mașină în caz de aversă puternică.",
+                "en": "Park on the paved section to avoid getting stuck in the mud; view the weir from the bridge, where you can quickly dash back to your car if the rain intensifies suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Polivalente",
+                "hu": "Centro Polivalente",
+                "ro": "Centro Polivalente",
+                "en": "Centro Polivalente"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt vor dem Gebäude, um den Weg im Regen zu minimieren; im Inneren können Sie sich in Ruhe die kulturellen Exponate ansehen, während es draußen gießt.",
+                "hu": "Használja az épület előtti parkolókat, hogy minimálisra csökkentse az esőben megtett utat; bent nyugodtan nézelődhet, amíg kint szakad az eső, az autója pedig a közelben várja.",
+                "ro": "Folosiți locurile de parcare direct din fața clădirii pentru a minimiza drumul prin ploaie; în interior puteți vizita expozițiile în liniște în timp ce afară plouă torențial.",
+                "en": "Use the parking spaces directly in front of the building to minimize your time in the rain; inside, you can enjoy the cultural exhibits while it pours outside, with your car nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ferraz",
+                "hu": "Torre Ferraz",
+                "ro": "Torre Ferraz",
+                "en": "Torre Ferraz"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der angrenzenden Straße, von wo aus Sie den Turm sogar durch die Windschutzscheibe bewundern können; ein kurzer Sprint bringt Sie zum Fuß des Turms.",
+                "hu": "Keressen parkolót a szomszédos utcában, ahonnan a tornyot akár a szélvédőn keresztül is megcsodálhatja; egy rövid futással pedig szárazon elérheti a torony lábát a fotózáshoz.",
+                "ro": "Căutați un loc de parcare pe strada adiacentă, de unde puteți admira turnul chiar și prin parbriz; un scurt sprint vă va duce la baza turnului pentru a-l vedea de aproape.",
+                "en": "Find a parking spot on the adjacent street from where you can admire the tower even through the windshield; a short dash will bring you to the foot of the tower for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'Ansaldo",
+                "hu": "Torre d'Ansaldo",
+                "ro": "Torre d'Ansaldo",
+                "en": "Torre d'Ansaldo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Zufahrten zum Turm, die bei Regen rutschig sein können; nutzen Sie den Kofferraumdeckel als Regenschutz, falls Sie Ihre Kameraausrüstung auspacken.",
+                "hu": "Hajtson óvatosan a toronyhoz vezető nem aszfaltozott utakon, amelyek esőben csúszósak lehetnek; használja a csomagtartó ajtaját esővédőként, ha fotós felszerelést pakol ki.",
+                "ro": "Conduceți cu atenție pe drumurile neasfaltate spre turn, care pot fi alunecoase pe ploaie; folosiți hayonul mașinii ca paravan dacă trebuie să scoateți echipamentul foto.",
+                "en": "Drive carefully on the unpaved access roads to the tower, as they can be slippery when wet; use the car's trunk lid as a rain shield if you need to unpack any camera equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Samstagsmarkt (Mercadillo)",
+                "hu": "Szombati piac (Mercadillo)",
+                "ro": "Piața de sâmbătă (Mercadillo)",
+                "en": "Saturday Market (Mercadillo)"
+              },
+              "tip_5lang": {
+                "de": "Der Markt bietet viele überdachte Stände, die Sie vor dem Schlimmsten schützen; parken Sie so nah wie möglich am Eingang, um Ihre Einkäufe schnell ins trockene Auto zu bringen.",
+                "hu": "A piac esőben is üzemel, de a látogatók száma kisebb, így kényelmesebb; parkoljon közel a bejárathoz, hogy a vásárolt holmikat gyorsan a száraz autóba juttathassa a záporban.",
+                "ro": "Piața are multe tarabe acoperite care vă protejează de ploaie; parcați cât mai aproape de intrare pentru a duce rapid cumpărăturile în mașina uscată în timpul averselor.",
+                "en": "The market has many covered stalls protecting you from the rain; park as close to the entrance as possible to quickly transfer your purchases to the dry car during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Bonanza",
+                "hu": "Torre Bonanza",
+                "ro": "Torre Bonanza",
+                "en": "Torre Bonanza"
+              },
+              "tip_5lang": {
+                "de": "Dieser Turm liegt direkt an der Straße und ist perfekt für einen 'Drive-by'-Stopp im Regen; steigen Sie nur kurz aus, da der Boden um das Denkmal bei Nässe sehr glatt sein kann.",
+                "hu": "A torony közvetlenül az út mellett fekszik, így tökéletes egy rövid megállásra esőben; csak pillanatokra szálljon ki, mert az emlékmű körüli talaj vizesen nagyon csúszós.",
+                "ro": "Acest turn este situat chiar lângă drum, fiind perfect pentru o oprire rapidă pe ploaie; coborâți doar scurt, deoarece terenul din jurul monumentului poate fi alunecos când e ud.",
+                "en": "This tower is located right by the road, making it perfect for a quick 'drive-by' stop in the rain; step out only briefly as the ground around the monument can be very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Les Paulines",
+                "hu": "Torre Les Paulines",
+                "ro": "Torre Les Paulines",
+                "en": "Torre Les Paulines"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung Ihres Autos auf dem Weg zu diesem abgelegenen Turm; bei starkem Regen bietet das Auto den besten Aussichtspunkt, um die historische Architektur zu bewundern.",
+                "hu": "Élvezze az autó fűtését, miközben ehhez a távolabbi toronyhoz utazik; heves esőzés esetén az autó marad a legjobb kilátópont, ahonnan megcsodálhatja a történelmi épületet.",
+                "ro": "Bucurați-vă de căldura mașinii în drum spre acest turn mai îndepărtat; în caz de ploaie torențială, mașina rămâne cel mai bun punct de observație pentru arhitectura istorică.",
+                "en": "Enjoy the car's heater while driving to this remote tower; during heavy rain, the car remains the best vantage point to admire the historical architecture without getting soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Mutxamel mit dem Auto ermöglicht es, die kühlen Temperaturen draußen zu lassen und die Landschaft gemütlich zu erkunden. Starten Sie morgens am Assut del Campello. Mittags bieten die Kulturzentren eine warme Abwechslung. Da es um 17 Uhr dunkel wird, planen Sie die Fahrten zu den Türmen für den frühen Nachmittag, um das beste Licht zu nutzen.",
+            "hu": "A téli Mutxamel autóval kényelmes felfedezést ígér, miközben elkerülheti a kinti hűvöset a megállók között. Kezdje a reggelt az Assut del Campello-nál. Délben a kulturális központok nyújtanak meleg felfrissülést. Mivel 17 órakor sötétedik, a toronyáttekintést időzítse kora délutánra.",
+            "ro": "Iarna în Mutxamel cu mașina vă permite să explorați peisajul confortabil, evitând frigul de afară între opriri. Începeți dimineața la Assut del Campello. La prânz, centrele culturale oferă o pauză caldă. Deoarece se întunecă la ora 17:00, vizitați turnurile după-amiaza devreme.",
+            "en": "Winter in Mutxamel by car allows for comfortable exploration while avoiding the outside chill between stops. Start your morning at Assut del Campello. At noon, cultural centers provide a warm break. Since it gets dark at 17:00, schedule your tower visits for the early afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Assut del Campello",
+                "hu": "Assut del Campello",
+                "ro": "Assut del Campello",
+                "en": "Assut del Campello"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermorgensonne glitzert wunderschön auf dem Wasser; lassen Sie den Motor nicht unnötig laufen, während Sie für ein schnelles Foto am Ufer aus dem geheizten Wagen steigen.",
+                "hu": "A téli reggeli napfény csodásan csillog a vízen; ne járassa feleslegesen a motort, amíg kiszáll a fűtött autóból egy gyors fotóra a part mentén a friss, hideg levegőben.",
+                "ro": "Soarele de dimineață strălucește frumos pe apă; nu lăsați motorul pornit inutil în timp ce coborâți din mașina încălzită pentru o fotografie rapidă pe mal în aerul rece.",
+                "en": "The winter morning sun sparkles beautifully on the water; don't leave the engine idling unnecessarily while you step out of the warm car for a quick photo along the bank."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Polivalente",
+                "hu": "Centro Polivalente",
+                "ro": "Centro Polivalente",
+                "en": "Centro Polivalente"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier drinnen angenehm temperiert; parken Sie in der Sonne, damit das Auto aufwärmt, während Sie die Ausstellungen im modernen Kulturzentrum besuchen.",
+                "hu": "Télen bent kellemes a hőmérséklet; érdemes a napos oldalon parkolni, hogy az autó felmelegedjen, amíg Ön a modern kulturális központ kiállításait böngészi a fűtött termekben.",
+                "ro": "Iarna, temperatura interioară este foarte plăcută; parcați la soare pentru ca mașina să se încălzească în timp ce vizitați expozițiile din centrul cultural modern.",
+                "en": "The interior is pleasantly warm in winter; try to park in the sun so the car stays warm while you browse the exhibits inside the modern and heated cultural center."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ferraz",
+                "hu": "Torre Ferraz",
+                "ro": "Torre Ferraz",
+                "en": "Torre Ferraz"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne beleuchtet den Turm im Winter besonders dramatisch; nutzen Sie den kurzen Fußweg vom Parkplatz für ein paar Aufnahmen in der klaren, kalten Winterluft.",
+                "hu": "Az alacsony napállás télen különösen drámaian világítja meg a torony falait; használja ki a parkolótól vezető rövid sétát pár felvételre a tiszta, hideg téli levegőben.",
+                "ro": "Soarele jos luminează turnul într-un mod dramatic iarna; profitați de scurta plimbare de la parcare pentru câteva fotografii în aerul curat și rece de iarnă.",
+                "en": "The low sun illuminates the tower dramatically in winter; take advantage of the short walk from your parking spot for some shots in the crisp, clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre d'Ansaldo",
+                "hu": "Torre d'Ansaldo",
+                "ro": "Torre d'Ansaldo",
+                "en": "Torre d'Ansaldo"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Boden hier meist fest und gut befahrbar; genießen Sie den Blick auf den Turm im goldenen Licht des frühen Nachmittags, bevor es im Auto wieder gemütlich wird.",
+                "hu": "Télen a talaj itt általában kemény és jól járható autóval; élvezze a torony látványát a kora délutáni aranyfényben, mielőtt visszatérne az autó kényelmes melegébe.",
+                "ro": "Iarna, solul este de obicei solid și ușor de parcurs cu mașina; bucurați-vă de vederea turnului în lumina aurie a după-amiezii înainte de a reveni la căldura mașinii.",
+                "en": "In winter, the ground here is usually firm and easy to navigate by car; enjoy the view of the tower in the golden early afternoon light before returning to the car's comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Samstagsmarkt (Mercadillo)",
+                "hu": "Szombati piac (Mercadillo)",
+                "ro": "Piața de sâmbătă (Mercadillo)",
+                "en": "Samstagsmarkt (Mercadillo)"
+              },
+              "tip_5lang": {
+                "de": "An kalten Wintertagen ist der Markt ein lebhafter Ort, um sich zu bewegen; kaufen Sie lokale Spezialitäten wie Turrón, die im Winter besonders gut schmecken und Energie geben.",
+                "hu": "A hideg téli napokon a piac pezsgése segít a mozgásban; vásároljon helyi specialitásokat, például turrónt, amely télen különösen finom és energiát ad a további úthoz.",
+                "ro": "În zilele reci de iarnă, agitația pieței vă ajută să rămâneți activi; cumpărați specialități locale precum turrón, care sunt delicioase iarna și vă oferă energie pentru drum.",
+                "en": "On cold winter days, the market's bustle is a great way to stay active; buy local specialties like turrón, which are especially good in winter and provide energy for your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Bonanza",
+                "hu": "Torre Bonanza",
+                "ro": "Torre Bonanza",
+                "en": "Torre Bonanza"
+              },
+              "tip_5lang": {
+                "de": "Die Steine des Turms speichern die Tagessonne und wirken im Winterlicht sehr warm; ein idealer Stopp für Autofahrer, da man direkt daneben parken und kurz die Aussicht genießen kann.",
+                "hu": "A torony kövei elnyelik a nappali fényt és meleg tónusúak a téli napon; ideális megálló autóval, mivel közvetlenül mellette parkolhat, és rövid ideig élvezheti a kilátást.",
+                "ro": "Pietrele turnului absorb lumina zilei și au tonuri calde în soarele de iarnă; este o oprire ideală cu mașina, deoarece puteți parca chiar lângă el pentru a admira priveliștea.",
+                "en": "The tower's stones absorb the daylight and look very warm in the winter sun; an ideal stop by car as you can park right next to it and enjoy the view for a brief moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Les Paulines",
+                "hu": "Torre Les Paulines",
+                "ro": "Torre Les Paulines",
+                "en": "Torre Les Paulines"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie hier vor 17 Uhr an, um den Turm in der blauen Stunde zu sehen; die Heizung im Auto sorgt für Komfort, während Sie auf die stimmungsvolle Dämmerung warten.",
+                "hu": "Érkezzen ide 17 óra előtt, hogy lássa a tornyot a kék órában; az autó fűtése biztosítja a kényelmet, miközben a hangulatos alkonyatra vár a történelmi falak tövében.",
+                "ro": "Ajungeți aici înainte de ora 17:00 pentru a vedea turnul în ora albastră; căldura din mașină vă oferă confort în timp ce așteptați amurgul atmosferic lângă zidurile istorice.",
+                "en": "Arrive here before 17:00 to see the tower during the blue hour; the car's heater ensures comfort while you wait for the atmospheric twilight next to the historical walls."
+              }
+            }
+          ]
+        }
       }
     }
   }

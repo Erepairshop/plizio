@@ -137,6 +137,168 @@
         "hu": "Kezdje gyalogos kalandját Tanaunella szívében a történelmi Chiesa di San Sebastiano-nál. Ezután induljon dél felé a Punta D'Abbaia zord kilátójához, ahol frissítő tengeri szellő és drámai tengerparti táj várja.\n\nFolytassa sétáját észak felé a hívogató Spiagge Porto Ainu felé. A sekély, tiszta víz lenyűgöző hátteret biztosít a déli pihenőhöz a finom homokon.\n\nDélután sétáljon végig a parton a csendes Spiaggia di Sant' Anna felé. Ez az illatos fenyőfákkal szegélyezett nyugodt szakasz tökéletes menedéket nyújt a hőség elől.\n\nZárja a napot egy rövid sétával a híres Spiaggia di Budoni strandhoz. Az élénk hangulat és a türkizkék hullámok feletti aranyfény felejthetetlen búcsút teremt.",
         "ro": "Începeți aventura la pas în inima orașului Tanaunella la istorica Chiesa di San Sebastiano. Apoi, mergeți spre sud pentru o briză răcoroasă de dimineață și peisaje de coastă dramatice la punctul de belvedere stâncos Punta D'Abbaia.\n\nContinuați plimbarea spre nord către primitoarea plajă Spiagge Porto Ainu. Apele limpezi și puțin adânci oferă un cadru uimitor pentru o pauză de prânz relaxantă pe nisipul cald.\n\nPe măsură ce după-amiaza avansează, rătăciți de-a lungul coastei spre liniștita Spiaggia di Sant' Anna, oferind refugiul perfect din calea căldurii la umbra pinilor.\n\nÎncheiați ziua cu o scurtă plimbare până la faimoasa Spiaggia di Budoni. Atmosfera vibrantă și lumina aurie de pe valurile turcoaz creează un rămas bun de neuitat.",
         "en": "Start your walking adventure in the heart of Tanaunella at the historic Chiesa di San Sebastiano, soaking in the local atmosphere. Then, head south for a refreshing morning breeze and dramatic coastal scenery at the rugged viewpoint of Punta D'Abbaia.\n\nContinue your stroll northward toward the inviting Spiagge Porto Ainu. Here, the shallow, clear waters provide a stunning backdrop for a midday break, allowing you to relax on the warm sands and enjoy a packed lunch by the shore.\n\nAs the afternoon unfolds, wander along the coast to the tranquil Spiaggia di Sant' Anna. This peaceful stretch bordered by fragrant pine trees offers the perfect escape from the heat and a chance to dip your toes in the refreshing sea.\n\nConclude your day with a short walk up to the famous Spiaggia di Budoni. As the sun begins to set, the vibrant atmosphere and golden light over the turquoise waves create an unforgettable farewell to your coastal exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Stille der Kirche von San Sebastiano. Mittags bietet Punta D'Abbaia einen dramatischen Blick auf das graue Meer; die Felsen sind bei Regen rutschig. Nachmittags führen die Wege unter Pinien entlang der Strände, die natürlichen Schutz bieten. Am Abend kehren Sie durch die erfrischte Luft zurück, während das ferne Grollen der Wellen den Tag ruhig ausklingen lässt.",
+            "hu": "A reggel a San Sebastiano templom csendjében indul, védve az esőtől. Délben a Punta D'Abbaia szikláiról figyelheti a drámai tengert; vigyázzon, a kövek csúszósak lehetnek. Délután a tengerparti fenyvesek alatt sétálhat, amelyek természetes ernyőként funkcionálnak. Este a friss levegőn térhet vissza a faluba, miközben a távoli hullámverés zaja festi alá a nedves utcák nyugalmát.",
+            "ro": "Dimineața începe la adăpost în liniștea bisericii San Sebastiano. La prânz, Punta D'Abbaia oferă o vedere dramatică asupra mării; atenție, stâncile sunt alunecoase pe ploaie. După-amiaza, potecile de sub pini oferă o umbrelă naturală în drum spre plajă. Seara, aerul proaspăt și sunetul valurilor îndepărtate însoțesc drumul de întoarcere pe străzile umede ale satului.",
+            "en": "Morning begins sheltered in the quiet of San Sebastiano church. At noon, Punta D'Abbaia offers dramatic sea views; be careful as the rocks can be slippery in the rain. In the afternoon, paths under pine trees provide a natural umbrella near the coast. By evening, the fresh air and the sound of distant waves accompany your walk back through the calm, wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Sebastiano",
+                "hu": "Chiesa di San Sebastiano",
+                "ro": "Chiesa di San Sebastiano",
+                "en": "Chiesa di San Sebastiano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine kurze Meditation während eines Schauers; achten Sie auf den Eingangsbereich, der bei Nässe glatt wird.",
+                "hu": "Használja ki a templom belső terét egy rövid elmélyülésre zápor idején; ügyeljen a bejáratnál, mert a kőburkolat esőben csúszóssá válhat.",
+                "ro": "Folosiți interiorul bisericii pentru o scurtă meditație în timpul ploii; atenție la intrare, deoarece pardoseala poate deveni alunecoasă.",
+                "en": "Use the church interior for a short meditation during a shower; watch your step at the entrance as the stone floor becomes slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta D'Abbaia",
+                "hu": "Punta D'Abbaia",
+                "ro": "Punta D'Abbaia",
+                "en": "Punta D'Abbaia"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stürmische Brandung von den oberen Pfaden aus und meiden Sie die nassen Felsen direkt am Wasser, um Unfälle zu vermeiden.",
+                "hu": "Csodálja meg a viharos hullámverést a felső ösvényekről, és kerülje a közvetlen vízparti sziklákat a balesetek megelőzése érdekében.",
+                "ro": "Admirați valurile furtunoase de pe cărările superioare și evitați stâncile umede de lângă apă pentru a preveni orice accidentare.",
+                "en": "Admire the stormy surf from the upper paths and avoid the wet rocks directly by the water to prevent any accidents."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiagge Porto Ainu",
+                "hu": "Spiagge Porto Ainu",
+                "ro": "Spiagge Porto Ainu",
+                "en": "Spiagge Porto Ainu"
+              },
+              "tip_5lang": {
+                "de": "Die Pinien am Strand bieten Schutz vor leichtem Regen; genießen Sie den herben Duft der nassen Nadeln während eines Spaziergangs.",
+                "hu": "A part menti fenyvesek menedéket nyújtanak a szemerkélő esőben; élvezze a nedves tűlevelek fanyar illatát egy frissítő séta közben.",
+                "ro": "Pinii de pe plajă oferă adăpost în timpul ploii ușoare; bucurați-vă de parfumul proaspăt al acelor umede în timpul unei scurte plimbări.",
+                "en": "The pine trees along the beach provide shelter during light rain; enjoy the crisp scent of wet needles during a refreshing stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sant' Anna",
+                "hu": "Spiaggia di Sant' Anna",
+                "ro": "Spiaggia di Sant' Anna",
+                "en": "Spiaggia di Sant' Anna"
+              },
+              "tip_5lang": {
+                "de": "Der feste Sand am Wasserrand ist bei Regen besser begehbar; tragen Sie wasserfeste Schuhe für diesen weitläufigen Strandabschnitt.",
+                "hu": "A vízparti tömör homok esőben is jól járható; viseljen vízálló cipőt ehhez a tágas parthoz, hogy lába száraz maradjon a séta alatt.",
+                "ro": "Nisipul compact de la malul apei este mai ușor de parcurs pe ploaie; purtați încălțăminte impermeabilă pentru această porțiune de plajă.",
+                "en": "The compact sand by the water is easier to walk on in the rain; wear waterproof shoes for this spacious beach section to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Budoni",
+                "hu": "Spiaggia di Budoni",
+                "ro": "Spiaggia di Budoni",
+                "en": "Spiaggia di Budoni"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Wolken über der Bucht von einem der überdachten Stege aus; ein großer Schirm ist hier unverzichtbar.",
+                "hu": "Figyelje meg a felhők játékát az öböl felett az egyik fedett pallóról; egy nagyméretű esernyő itt elengedhetetlen a kényelemhez.",
+                "ro": "Urmăriți jocul norilor deasupra golfului de pe o pasarelă acoperită; o umbrelă mare este indispensabilă aici pentru confort.",
+                "en": "Watch the play of clouds over the bay from a covered walkway; a large umbrella is essential here for a comfortable experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen empfängt Sie an der Kirche, wo die Wintersonne tief steht. Mittags wärmt die Bewegung beim Aufstieg nach Punta D'Abbaia, während die Luft kristallklar ist. Nachmittags leuchten die menschenleeren Strände in einem besonderen Goldton. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie den Rückweg frühzeitig antreten, um die Dämmerung im Dorf zu genießen.",
+            "hu": "Hűvös reggel fogadja a templomnál, ahol a téli nap alacsonyan jár. Délben a Punta D'Abbaia felé vezető séta felmelegíti, miközben a levegő kristálytiszta. Délután az elhagyatott strandok különleges arany fényben úsznak. Mivel a nap 17:00 körül nyugszik, induljon vissza időben, hogy még világosban elérje a falut és élvezze az alkonyati fényeket.",
+            "ro": "O dimineață răcoroasă vă întâmpină la biserică, unde soarele de iarnă stă jos pe cer. La prânz, urcarea spre Punta D'Abbaia vă va încălzi, iar aerul este de o claritate rară. După-amiaza, plajele pustii strălucesc într-o lumină aurie. Deoarece soarele apune în jur de ora 17:00, începeți drumul de întoarcere devreme pentru a savura amurgul în sat.",
+            "en": "A crisp morning greets you at the church, with the winter sun hanging low. By noon, the walk to Punta D'Abbaia warms you up while the air remains crystal clear. In the afternoon, the deserted beaches glow in a unique golden light. As the sun sets around 5 PM, start your return early to enjoy the twilight colors in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Sebastiano",
+                "hu": "Chiesa di San Sebastiano",
+                "ro": "Chiesa di San Sebastiano",
+                "en": "Chiesa di San Sebastiano"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte; tragen Sie eine warme Schicht, um die historische Atmosphäre im Inneren länger zu genießen.",
+                "hu": "A vastag falak ilyenkor tartják a hideget; viseljen meleg réteget, hogy kényelmesen megcsodálhassa a belső tér történelmi emlékeit.",
+                "ro": "Zidurile groase rețin frigul iarna; purtați un strat călduros de haine pentru a vă bucura de atmosfera istorică din interior.",
+                "en": "The thick walls retain the winter cold; wear a warm layer of clothing to comfortably enjoy the historical atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta D'Abbaia",
+                "hu": "Punta D'Abbaia",
+                "ro": "Punta D'Abbaia",
+                "en": "Punta D'Abbaia"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Fernsichten bis zu den Inseln; eine winddichte Jacke schützt Sie vor der frischen Meeresbrise.",
+                "hu": "A tiszta téli levegőben ellátni egészen a távoli szigetekig; egy szélálló dzseki megvédi Önt a friss és erős tengeri fuvallatoktól.",
+                "ro": "Aerul curat de iarnă permite vederi până la insulele îndepărtate; o jachetă rezistentă la vânt vă va proteja de briza rece.",
+                "en": "The clear winter air allows for views as far as the distant islands; a windproof jacket will protect you from the fresh sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiagge Porto Ainu",
+                "hu": "Spiagge Porto Ainu",
+                "ro": "Spiagge Porto Ainu",
+                "en": "Spiagge Porto Ainu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Winters am Ufer; der weiche Sand dämpft alle Geräusche und bietet absolute Ruhe für die Seele.",
+                "hu": "Élvezze a téli magányt a parton; a puha homok elnyeli a zajokat, tökéletes nyugalmat kínálva a léleknek az üres tengerparton.",
+                "ro": "Bucurați-vă de singurătatea iernii pe malul mării; nisipul moale atenuează sunetele, oferind o liniște deplină pentru suflet.",
+                "en": "Enjoy the solitude of winter on the shore; the soft sand muffles all sounds, offering perfect peace for the soul on the empty beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Sant' Anna",
+                "hu": "Spiaggia di Sant' Anna",
+                "ro": "Spiaggia di Sant' Anna",
+                "en": "Spiaggia di Sant' Anna"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte warme Sonnenlicht im geschützten Pinienwald; die tiefstehende Sonne zaubert hier lange, malerische Schatten.",
+                "hu": "Használja ki az utolsó meleg napsugarakat a védett fenyvesben; az alacsonyan járó nap festői hosszú árnyékokat rajzol a homokba.",
+                "ro": "Profitați de ultimele raze calde ale soarelui în pădurea de pini; soarele jos creează umbre lungi și pitorești pe nisip.",
+                "en": "Take advantage of the last warm sunlight in the sheltered pine forest; the low sun creates long, picturesque shadows on the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Budoni",
+                "hu": "Spiaggia di Budoni",
+                "ro": "Spiaggia di Budoni",
+                "en": "Spiaggia di Budoni"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang pünktlich zum Sonnenuntergang um 17 Uhr; die Farben über dem Wasser sind im Winter besonders intensiv.",
+                "hu": "Fejezze be a sétát pontban a 17 órai napnyugtára; a víz feletti színek télen különösen intenzívek és látványosak az öbölben.",
+                "ro": "Încheiați plimbarea la timp pentru apusul de la ora 17:00; culorile de deasupra apei sunt deosebit de intense pe timp de iarnă.",
+                "en": "Finish your walk in time for the 5 PM sunset; the colors over the water are particularly intense and beautiful during winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a Chiesa di San Sebastiano-nál, majd tekerjen a szárazföld belsejébe ősi rejtélyek felfedezésére. Hamarosan eléri a Nuraghe Conca 'e Bentu kőtornyát, majd a Domus de Janas di L'Agliola sírjait.\n\nDélben váltsa fel a történelmet a természettel, és tekerjen kelet felé az érintetlen Spiagge di Baia Sant'Anna strandhoz. A csendes öblök tökéletes pihenést kínálnak.\n\nDélután kerekezzen délre a festői Riviera dei Pini felé. Az illatos fenyők természetes árnyékot nyújtanak, így kiváló hely a hűsölésre és az aranyszínű homokon való lazításra.\n\nAz utolsó megállóhoz kerékpározzon nyugat felé a Punta D'Abbaia festői hegyfokához. Élvezze a késő délutáni szellőt, és figyelje a változó színeket erről a zord, természetes kilátóról.",
         "ro": "Începeți turul cu bicicleta la Chiesa di San Sebastiano înainte de a pedala spre interior pentru a descoperi mistere antice. Veți ajunge rapid la Nuraghe Conca 'e Bentu și la mormintele preistorice Domus de Janas di L'Agliola.\n\nSchimbați istoria cu natura la prânz, mergând spre est către neprihănita plajă Spiagge di Baia Sant'Anna. Golfurile stâncoase oferă un mediu liniștit pentru relaxare.\n\nDupă-amiaza, pedalați spre sud la pitoreasca Riviera dei Pini. Pinii parfumați de coastă oferă umbră naturală, făcând din acest loc unul excelent pentru a vă răcori pe nisipul auriu.\n\nPentru ultima oprire, mergeți spre vest către promontoriul pitoresc Punta D'Abbaia. Bucurați-vă de briza după-amiezii și priviți culorile cerului din acest punct de belvedere stâncos.",
         "en": "Kick off your cycling tour at Chiesa di San Sebastiano before pedaling inland to uncover ancient mysteries. You'll quickly reach Nuraghe Conca 'e Bentu, a fascinating stone tower, followed immediately by the prehistoric tombs of Domus de Janas di L'Agliola.\n\nSwap history for natural beauty by riding east toward the pristine Spiagge di Baia Sant'Anna. The less-crowded coves and reddish rocks offer a peaceful environment for a midday rest and perhaps a quick snorkeling session in the clear waters.\n\nCycle a short distance south to the picturesque Riviera dei Pini. The fragrant coastal pine trees provide much-needed natural shade, making it an excellent spot to cool off, relax on the golden sand, and listen to the gentle waves.\n\nFor your final stop, ride west along the coast to the scenic promontory of Punta D'Abbaia. Enjoy the late afternoon breeze and watch the changing colors of the sky from this rugged natural viewpoint before heading back into town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig an der Kirche, da das Pflaster rutschig ist. Mittags führt die Tour durch schlammige Wege zu den historischen Stätten; eine gute Federung ist hier Gold wert. Die Küstenabschnitte sind windig und regnerisch, bieten aber ein wildes Naturerlebnis. Planen Sie am Nachmittag Pausen unter dichten Bäumen ein, bevor Sie vor Einbruch der Dunkelheit sicher zurückkehren.",
+            "hu": "Kezdje óvatosan a templomnál, a vizes aszfalt csúszós lehet. Délben sárfoltok nehezíthetik a történelmi helyszínek felé vezető utat; a megfelelő guminyomás sokat segít. A tengerparti szakaszok szelesek és esősek, de vadregényes élményt nyújtanak. Délután tartson pihenőt a sűrű fenyvesek alatt, és induljon haza még a szürkület beállta előtt.",
+            "ro": "Porniți cu atenție de la biserică, deoarece asfaltul umed este alunecos. La prânz, noroiul poate îngreuna drumul spre siturile istorice; o suspensie bună va fi de mare ajutor. Porțiunile de coastă sunt vântoase și ploioase, oferind o experiență sălbatică. După-amiaza, planificați pauze sub copaci deși înainte de a vă întoarce în siguranță.",
+            "en": "Start carefully at the church as the wet pavement can be slippery. At noon, muddy patches may challenge your ride to the historical sites; good tire pressure is key. The coastal sections are windy and rainy but offer a wild, scenic experience. In the afternoon, take breaks under dense trees before returning safely before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Sebastiano",
+                "hu": "Chiesa di San Sebastiano",
+                "ro": "Chiesa di San Sebastiano",
+                "en": "Chiesa di San Sebastiano"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und prüfen Sie die Bremsen, bevor Sie die Tour auf den nassen Dorfstraßen fortsetzen.",
+                "hu": "Parkoljon fedett helyen, és ellenőrizze a fékeket, mielőtt továbbindulna a vizes és csúszós falusi utcákon a következő megálló felé.",
+                "ro": "Parcați bicicleta într-un loc protejat și verificați frânele înainte de a continua turul pe străzile umede ale satului.",
+                "en": "Park your bike in a sheltered spot and check your brakes before continuing the tour on the wet village streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Conca 'e Bentu",
+                "hu": "Nuraghe Conca 'e Bentu",
+                "ro": "Nuraghe Conca 'e Bentu",
+                "en": "Nuraghe Conca 'e Bentu"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Nuraghen kann bei Regen rutschig sein; tragen Sie Schuhe mit gutem Profil für die Erkundung der antiken Steine.",
+                "hu": "A nuraghe felé vezető emelkedő esőben csúszós lehet; viseljen jó tapadású cipőt az ősi kövek és a terep felfedezéséhez.",
+                "ro": "Urcarea spre nuraghe poate fi alunecoasă pe ploaie; purtați încălțăminte cu aderență bună pentru a explora pietrele antice.",
+                "en": "The climb to the nuraghe can be slippery in the rain; wear shoes with good grip for exploring the ancient stones and terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Domus de Janas di L'Agliola",
+                "hu": "Domus de Janas di L'Agliola",
+                "ro": "Domus de Janas di L'Agliola",
+                "en": "Domus de Janas di L'Agliola"
+              },
+              "tip_5lang": {
+                "de": "Schützen Sie Ihre Ausrüstung vor Schlammspritzern auf dem Weg zu den Gräbern; Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss.",
+                "hu": "Védje felszerelését a sárfelcsapódástól a sírok felé vezető úton; a sárvédő használata elengedhetetlen ilyen nedves időben.",
+                "ro": "Protejați-vă echipamentul de noroi în drum spre morminte; aripile la bicicletă sunt obligatorii pe acest tip de vreme.",
+                "en": "Protect your gear from mud splashes on the way to the tombs; fenders on your bike are a must in this wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiagge di Baia Sant'Anna",
+                "hu": "Spiagge di Baia Sant'Anna",
+                "ro": "Spiagge di Baia Sant'Anna",
+                "en": "Spiagge di Baia Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie schnelle Kurven auf den sandigen Wegen am Meer; der nasse Sand kann die Bodenhaftung Ihrer Reifen verringern.",
+                "hu": "Kerülje a hirtelen kanyarodást a parti homokos utakon; a vizes homok csökkentheti a gumi tapadását és instabillá teheti a biciklit.",
+                "ro": "Evitați virajele bruște pe drumurile nisipoase de lângă mare; nisipul umed poate reduce aderența anvelopelor.",
+                "en": "Avoid sharp turns on the sandy coastal paths; wet sand can reduce tire grip and make the bike unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "Riviera dei Pini",
+                "hu": "Riviera dei Pini",
+                "ro": "Riviera dei Pini",
+                "en": "Riviera dei Pini"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den dichten Pinienwald als natürlichen Schutz vor Regengüssen und machen Sie hier eine kurze Trinkpause im Trockenen.",
+                "hu": "Használja a sűrű fenyvest természetes menedékként a záporok elől, és tartson itt egy rövid frissítő szünetet szárazon.",
+                "ro": "Folosiți pădurea de pini ca adăpost natural împotriva ploii și faceți aici o scurtă pauză de hidratare la uscat.",
+                "en": "Use the dense pine forest as natural shelter from rain showers and take a short refreshment break here while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta D'Abbaia",
+                "hu": "Punta D'Abbaia",
+                "ro": "Punta D'Abbaia",
+                "en": "Punta D'Abbaia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die graue See von einem sicheren Standort aus und achten Sie auf starke Windböen, die das Radfahren erschweren können.",
+                "hu": "Figyelje a szürke tengert egy biztonságos pontról, és ügyeljen az erős széllökésekre, amelyek megnehezíthetik a biciklizést.",
+                "ro": "Observați marea gri dintr-un loc sigur și fiți atenți la rafalele puternice de vânt care pot îngreuna pedalatul.",
+                "en": "Observe the gray sea from a safe vantage point and watch out for strong wind gusts that can make cycling difficult."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den frischen Morgenwind auf dem Rad; die klare Luft bietet eine fantastische Sicht auf die Küste. Mittags wärmen die Steigungen zu den historischen Nuraghen den Körper auf. Die einsamen Küstenstraßen sind im Winter perfekt für Radfahrer, da kaum Autos unterwegs sind. Beenden Sie die Tour bis 16:30 Uhr, um nicht in die plötzliche Kälte nach Sonnenuntergang zu geraten.",
+            "hu": "Élvezze a friss reggeli szelet a nyeregben; a tiszta levegő fantasztikus kilátást nyújt a tengerpartra. Délben a nuraghe felé vezető emelkedők jól átmelegítik a testet. Az üres parti utak télen ideálisak a kerékpározáshoz a minimális forgalom miatt. Fejezze be a túrát 16:30-ig, hogy elkerülje a napnyugta utáni hirtelen lehűlést.",
+            "ro": "Bucurați-vă de briza proaspătă de dimineață pe bicicletă; aerul curat oferă o vizibilitate fantastică asupra coastei. La prânz, urcările spre nuraghe vă vor încălzi corpul. Drumurile de coastă pustii sunt ideale pentru bicicliști iarna. Încheiați turul până la ora 16:30 pentru a evita frigul brusc de după apus.",
+            "en": "Enjoy the fresh morning breeze on your bike; the clear air offers fantastic coastal views. At noon, the climbs to the nuraghe will keep you warm. Empty coastal roads are perfect for cycling in winter due to minimal traffic. Finish your tour by 4:30 PM to avoid the sudden drop in temperature after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Sebastiano",
+                "hu": "Chiesa di San Sebastiano",
+                "ro": "Chiesa di San Sebastiano",
+                "en": "Chiesa di San Sebastiano"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe für die Abfahrten im Dorf, da der Fahrtwind im Winter sehr kühl sein kann, besonders am frühen Morgen.",
+                "hu": "Viseljen kesztyűt a falusi lejtőkön, mivel a menetszél télen nagyon hideg lehet, különösen a kora reggeli órákban.",
+                "ro": "Purtați mănuși pentru coborârile din sat, deoarece curentul de aer poate fi foarte rece iarna, mai ales dimineața devreme.",
+                "en": "Wear gloves for the village descents, as the wind chill can be very cold in winter, especially early in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Conca 'e Bentu",
+                "hu": "Nuraghe Conca 'e Bentu",
+                "ro": "Nuraghe Conca 'e Bentu",
+                "en": "Nuraghe Conca 'e Bentu"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht vom Nuraghen ist bei der tiefstehenden Wintersonne besonders plastisch; machen Sie hier ein Foto im goldenen Licht.",
+                "hu": "A kilátás a nuraghe tetejéről az alacsonyan járó téli napfényben különösen plasztikus; készítsen egy fotót az aranyló fényekben.",
+                "ro": "Priveliștea de la nuraghe este spectaculoasă în lumina joasă a iernii; faceți o fotografie în lumina aurie de după-amiază.",
+                "en": "The view from the nuraghe is particularly striking in the low winter sun; take a photo in the golden light for a great memory."
+              }
+            },
+            {
+              "name": {
+                "de": "Domus de Janas di L'Agliola",
+                "hu": "Domus de Janas di L'Agliola",
+                "ro": "Domus de Janas di L'Agliola",
+                "en": "Domus de Janas di L'Agliola"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf trockene Kleidung nach der Anstrengung des Aufstiegs; der kalte Wind kann Sie bei Pausen schnell auskühlen lassen.",
+                "hu": "Ügyeljen a száraz ruházatra az emelkedő után; a hideg szél a megállók alatt gyorsan lehűtheti a felhevült testet.",
+                "ro": "Asigurați-vă că aveți haine uscate după efortul urcării; vântul rece vă poate răci rapid corpul în timpul pauzelor.",
+                "en": "Ensure you have dry clothing after the effort of the climb; the cold wind can quickly chill your body during breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiagge di Baia Sant'Anna",
+                "hu": "Spiagge di Baia Sant'Anna",
+                "ro": "Spiagge di Baia Sant'Anna",
+                "en": "Spiagge di Baia Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer; nutzen Sie die Ruhe für eine meditative Pause, bevor Sie den Rückweg antreten.",
+                "hu": "A part télen gyakran teljesen néptelen; használja ki a csendet egy meditatív pihenőre, mielőtt elkezdené a visszautat.",
+                "ro": "Plaja este adesea pustie iarna; profitați de liniște pentru o pauză meditativă înainte de a porni pe drumul de întoarcere.",
+                "en": "The beach is often deserted in winter; take advantage of the silence for a meditative break before starting your return trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Riviera dei Pini",
+                "hu": "Riviera dei Pini",
+                "ro": "Riviera dei Pini",
+                "en": "Riviera dei Pini"
+              },
+              "tip_5lang": {
+                "de": "Die Pinien bieten auch im Winter Schutz vor dem Wind; genießen Sie die milde Wärme, die sich hier zwischen den Bäumen sammelt.",
+                "hu": "A fenyőfák télen is védelmet nyújtanak a szél ellen; élvezze a fák között megrekedő enyhébb levegőt és a természet nyugalmát.",
+                "ro": "Pinii oferă protecție împotriva vântului chiar și iarna; bucurați-vă de căldura blândă care se adună aici între copaci.",
+                "en": "The pine trees provide wind protection even in winter; enjoy the mild warmth that gathers here between the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta D'Abbaia",
+                "hu": "Punta D'Abbaia",
+                "ro": "Punta D'Abbaia",
+                "en": "Punta D'Abbaia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Temperaturen sinken, sobald die Sonne hinter den Hügeln verschwindet; halten Sie Kurs aufs Dorf.",
+                "hu": "Fejezze be gyorsan a túrát, mert a hőmérséklet hirtelen leesik, amint a nap eltűnik a dombok mögött; tartson az irányt a falu felé.",
+                "ro": "Încheiați turul rapid, deoarece temperaturile scad imediat ce soarele dispare după dealuri; păstrați direcția spre sat.",
+                "en": "Finish the tour quickly as temperatures drop once the sun disappears behind the hills; keep your course towards the village."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje a festői autózást a sziget ősi múltjának felfedezésével a Domus de Janas di L'Agliola és a közeli Nuraghe Conca 'e Bentu meglátogatásával. Ezt követően csodálja meg a Chiesa di San Sebastiano rusztikus báját.\n\nVezessen a tengerpartra a nyüzsgő Spiaggia di Budoni felé, majd tegyen egy rövid utat a Spiagge Porto Ainu kristálytiszta öbléhez, amely tökéletes helyszín egy pihentető déli ebédszünethez.\n\nFolytassa útját délkelet felé a Spiagge di Baia Sant'Anna vadregényes partvonalához. Nem messze onnan a Riviera dei Pini fenyőfái kínálnak csodálatos természetes árnyékot a késő délutáni pihenéshez.\n\nZárja átfogó túráját egy rövid autózással a Punta D'Abbaia hegyfokához. Innen fenséges kilátás nyílik a drámai tengerpartra, tökéletes helyszínt biztosítva a nap lezárásához naplemente idején.",
         "ro": "Începeți traseul pitoresc explorând trecutul antic la Domus de Janas di L'Agliola și Nuraghe Conca 'e Bentu. Apoi, mergeți în centrul orașului pentru a admira farmecul rustic al Chiesa di San Sebastiano.\n\nConduceți spre coastă pentru a experimenta plaja plină de viață Spiaggia di Budoni. Apoi faceți o scurtă călătorie la Spiagge Porto Ainu, un golf idilic cu ape limpezi, perfect pentru pauza de prânz.\n\nContinuați călătoria spre sud-est către Spiagge di Baia Sant'Anna, o coastă stâncoasă minunată. Mai jos veți găsi Riviera dei Pini, unde pinii de coastă oferă o umbră naturală perfectă pentru relaxare.\n\nÎncheiați turul cuprinzător cu un scurt drum spre Punta D'Abbaia. Acest promontoriu natural oferă un punct de observație magnific pentru a privi coasta dramatică în timp ce soarele coboară spre orizont.",
         "en": "Begin your scenic drive by delving into Sardinia's ancient past at the captivating Domus de Janas di L'Agliola and the nearby Nuraghe Conca 'e Bentu. Afterward, head into the town center to admire the rustic charm of Chiesa di San Sebastiano.\n\nDrive up the coast to experience the lively Spiaggia di Budoni, where expansive sands invite you for a walk. Then, take a short trip to Spiagge Porto Ainu, an idyllic bay with incredibly clear, shallow waters perfect for a relaxing midday break.\n\nContinue your road trip southeast to Spiagge di Baia Sant'Anna, a rugged and beautiful coastline ideal for exploring. Just down the road, you'll find Riviera dei Pini, where coastal pines offer wonderful natural shade for a late afternoon rest.\n\nEnd your comprehensive tour with a short drive to Punta D'Abbaia. This natural promontory provides a magnificent vantage point to absorb the dramatic coastal views and reflect on your spectacular day as the sun lowers toward the horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto als gemütlichen Rückzugsort zwischen den historischen Stationen. Mittags erreichen Sie trockenen Fußes die Kirche und die Küstenstrände, während draußen der Regen die Landschaft in sattes Grün taucht. Die Aussichtspunkte bieten auch vom Fenster aus tolle Fotomotive der stürmischen See. Am Abend ist die Fahrt durch das verregnete Tanaunella besonders stimmungsvoll.",
+            "hu": "Használja az autót kényelmes menedékként a történelmi állomások között. Délben száraz lábbal érheti el a templomot és a tengerpartokat, miközben odakint az eső mélyzöldre festi a tájat. A kilátópontok az ablakból is remek fotótémát kínálnak a viharos tengerről. Este az esős Tanaunella utcáin való autózás különleges, meghitt hangulatot áraszt.",
+            "ro": "Folosiți mașina ca un refugiu confortabil între siturile istorice. La prânz, ajungeți cu picioarele uscate la biserică și plaje, în timp ce ploaia transformă peisajul într-un verde intens. Punctele de observație oferă oportunități foto excelente chiar și din mașină. Seara, plimbarea prin Tanaunella ploioasă este deosebit de atmosferică.",
+            "en": "Use your car as a cozy retreat between the historical stops. At noon, reach the church and beaches with dry feet while the rain outside turns the landscape a deep green. The viewpoints offer great photo opportunities of the stormy sea even from the car window. In the evening, driving through rainy Tanaunella feels particularly atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Domus de Janas di L'Agliola",
+                "hu": "Domus de Janas di L'Agliola",
+                "ro": "Domus de Janas di L'Agliola",
+                "en": "Domus de Janas di L'Agliola"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Pfad, um den Weg zu den Gräbern kurz zu halten; ein Regencape ist für die wenigen Gehminuten sehr praktisch.",
+                "hu": "Parkoljon minél közelebb az ösvényhez, hogy lerövidítse az utat a sírokig; egy esőponcsó praktikus lesz a pár perces séta alatt.",
+                "ro": "Parcați cât mai aproape de potecă pentru a scurta drumul spre morminte; o pelerină de ploaie este utilă pentru scurta plimbare.",
+                "en": "Park as close to the path as possible to shorten the walk to the tombs; a rain poncho is practical for the few minutes of walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Conca 'e Bentu",
+                "hu": "Nuraghe Conca 'e Bentu",
+                "ro": "Nuraghe Conca 'e Bentu",
+                "en": "Nuraghe Conca 'e Bentu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem Auto, falls der Regen zu stark wird; die Sicht auf die Bucht bleibt trotzdem beeindruckend.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból, ha túl erősen esne az eső; az öbölre nyíló kilátás így is lenyűgöző marad.",
+                "ro": "Bucurați-vă de panorama direct din mașină dacă ploaia devine prea puternică; vederea spre golf rămâne impresionantă oricum.",
+                "en": "Enjoy the panoramic view directly from the car if the rain gets too heavy; the view of the bay remains impressive nonetheless."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Sebastiano",
+                "hu": "Chiesa di San Sebastiano",
+                "ro": "Chiesa di San Sebastiano",
+                "en": "Chiesa di San Sebastiano"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen trockenen Ort für Kulturinteressierte; parken Sie auf dem Platz direkt davor für einen schnellen Zugang.",
+                "hu": "A templom száraz menedéket nyújt a kultúra iránt érdeklődőknek; parkoljon közvetlenül előtte a gyors és kényelmes bejutás érdekében.",
+                "ro": "Biserica oferă un loc uscat pentru cei interesați de cultură; parcați chiar în față pentru un acces rapid și ușor.",
+                "en": "The church offers a dry refuge for culture lovers; park directly in front for quick and easy access during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Budoni",
+                "hu": "Spiaggia di Budoni",
+                "ro": "Spiaggia di Budoni",
+                "en": "Spiaggia di Budoni"
+              },
+              "tip_5lang": {
+                "de": "Der große Parkplatz am Strand erlaubt es, das Meer ganz nah zu erleben, ohne nass zu werden; ideal für eine kurze Kaffeepause im Wagen.",
+                "hu": "A tágas tengerparti parkoló lehetővé teszi a tenger közeli élményét ázás nélkül; ideális hely egy rövid kávészünetre az autóban.",
+                "ro": "Parcarea mare de lângă plajă vă permite să vedeți marea de aproape fără să vă udați; ideal pentru o scurtă pauză de cafea în mașină.",
+                "en": "The large beach parking lot allows you to experience the sea up close without getting wet; ideal for a short coffee break in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiagge Porto Ainu",
+                "hu": "Spiagge Porto Ainu",
+                "ro": "Spiagge Porto Ainu",
+                "en": "Spiagge Porto Ainu"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf den unbefestigten Zufahrtswegen; fahren Sie langsam, um Schlamm am Auto und Spritzer zu vermeiden.",
+                "hu": "Ügyeljen a tócsákra a burkolatlan bekötőutakon; hajtson lassan, hogy elkerülje a sárfelcsapódást és az autó beszennyeződését.",
+                "ro": "Atenție la bălți pe drumurile de acces neasfaltate; conduceți încet pentru a evita noroiul și stropirea mașinii.",
+                "en": "Watch out for puddles on the unpaved access roads; drive slowly to avoid mud splashes and keep your car clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiagge di Baia Sant'Anna",
+                "hu": "Spiagge di Baia Sant'Anna",
+                "ro": "Spiagge di Baia Sant'Anna",
+                "en": "Spiagge di Baia Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Die Pinien dämpfen das Geräusch des Regens auf dem Autodach; genießen Sie die Ruhe dieses abgelegenen Ortes bei einem kurzen Halt.",
+                "hu": "A fenyőfák tompítják az eső kopogását az autó tetőlemezén; élvezze e távoli hely nyugalmát egy rövid, pihentető megálló során.",
+                "ro": "Pinii atenuează sunetul ploii pe plafonul mașinii; bucurați-vă de liniștea acestui loc izolat în timpul unei scurte opriri.",
+                "en": "The pine trees muffle the sound of rain on the car roof; enjoy the peace of this remote spot during a short, relaxing stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Riviera dei Pini",
+                "hu": "Riviera dei Pini",
+                "ro": "Riviera dei Pini",
+                "en": "Riviera dei Pini"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die geschützten Parkbuchten unter den Bäumen für einen Moment der Entspannung, während die Welt draußen nass wird.",
+                "hu": "Használja ki a fák alatti védett parkolóhelyeket egy pillanatnyi kikapcsolódásra, miközben odakint minden elázik a záporban.",
+                "ro": "Folosiți locurile de parcare protejate de sub copaci pentru un moment de relaxare în timp ce afară plouă torențial.",
+                "en": "Take advantage of the sheltered parking spots under the trees for a moment of relaxation while everything outside gets soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta D'Abbaia",
+                "hu": "Punta D'Abbaia",
+                "ro": "Punta D'Abbaia",
+                "en": "Punta D'Abbaia"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag mit dem Blick auf die schäumenden Wellen ausklingen; die Scheibenwischer sorgen für freie Sicht auf das Naturschauspiel.",
+                "hu": "Zárja a napot a habzó hullámok látványával; az ablaktörlők biztosítják a tiszta kilátást erre a vadregényes természeti jelenségre.",
+                "ro": "Încheiați ziua cu vederea valurilor înspumate; ștergătoarele vă vor asigura o vedere clară asupra acestui spectacol al naturii.",
+                "en": "End your day with a view of the foaming waves; the windshield wipers will ensure a clear view of this wild natural spectacle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die antiken Stätten am Morgen ganz ohne Hitze und Touristenströme. Mittags bietet die Fahrt entlang der Küste weite Ausblicke in der klaren Winterluft. Dank der Heizung im Wagen erreichen Sie alle entlegenen Strände komfortabel. Da es um 17:00 Uhr dunkel wird, bietet das Auto die nötige Flexibilität, um den Sonnenuntergang an der Spitze zu erleben und sicher heimzukehren.",
+            "hu": "Fedezze fel az ókori helyszíneket reggel, hőség és turistatömegek nélkül. Délben a tengerparti autózás tágas kilátást nyújt a tiszta téli levegőben. Az autó fűtése kényelmessé teszi a távoli strandok elérését is. Mivel 17:00 körül sötétedik, a kocsi rugalmasságot ad, hogy megnézze a naplementét és biztonságban hazaérjen.",
+            "ro": "Explorați siturile antice dimineața, fără căldură și fără mulțimi de turiști. La prânz, drumul de-a lungul coastei oferă vederi largi în aerul curat de iarnă. Datorită căldurii din mașină, ajungeți confortabil la toate plajele izolate. Deoarece se întunecă la ora 17:00, mașina vă oferă flexibilitatea de a vedea apusul și de a reveni acasă.",
+            "en": "Explore the ancient sites in the morning without the heat and tourist crowds. At noon, driving along the coast offers wide views in the clear winter air. Thanks to the car's heating, you can comfortably reach all remote beaches. As it gets dark by 5 PM, the car provides the flexibility to catch the sunset and return home safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Domus de Janas di L'Agliola",
+                "hu": "Domus de Janas di L'Agliola",
+                "ro": "Domus de Janas di L'Agliola",
+                "en": "Domus de Janas di L'Agliola"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Eingänge der Felsengräber am Vormittag perfekt; ideal für detailreiche Fotos der antiken Struktur.",
+                "hu": "A téli nap délelőtt tökéletesen megvilágítja a sziklasírok bejáratát; ideális időpont az ókori építmény részletgazdag fotózásához.",
+                "ro": "Soarele de iarnă luminează perfect intrările mormintelor în stâncă dimineața; ideal pentru fotografii detaliate ale structurii antice.",
+                "en": "The winter sun illuminates the entrances of the rock tombs perfectly in the morning; ideal for detailed photos of the ancient structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Conca 'e Bentu",
+                "hu": "Nuraghe Conca 'e Bentu",
+                "ro": "Nuraghe Conca 'e Bentu",
+                "en": "Nuraghe Conca 'e Bentu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht bis zum Horizont; im Winter sind keine Dunstschleier vorhanden, was die Aussicht besonders scharf macht.",
+                "hu": "Élvezze a tiszta kilátást a távoli horizontig; télen nincs pára, így a panoráma különösen éles és látványos a nuraghe tetejéről.",
+                "ro": "Bucurați-vă de vizibilitatea clară până la orizont; iarna nu există pâclă, ceea ce face ca panorama să fie extrem de clară.",
+                "en": "Enjoy the clear view to the horizon; in winter there is no haze, making the panorama particularly sharp and spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Sebastiano",
+                "hu": "Chiesa di San Sebastiano",
+                "ro": "Chiesa di San Sebastiano",
+                "en": "Chiesa di San Sebastiano"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche strahlt im Winter eine besondere Ruhe aus; nutzen Sie den Parkplatz direkt davor, um die Kälte beim Ein- und Aussteigen zu minimieren.",
+                "hu": "A templom télen különleges nyugalmat áraszt; parkoljon közvetlenül előtte, hogy minimálisra csökkentse a hidegben töltött időt.",
+                "ro": "Biserica emană o liniște deosebită iarna; parcați chiar în față pentru a minimiza timpul petrecut în frig la intrare și ieșire.",
+                "en": "The church radiates a special peace in winter; park directly in front to minimize the time spent in the cold when entering and leaving."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Budoni",
+                "hu": "Spiaggia di Budoni",
+                "ro": "Spiaggia di Budoni",
+                "en": "Spiaggia di Budoni"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ideal für einen einsamen Spaziergang; wärmen Sie sich danach schnell wieder im vorgeheizten Auto auf.",
+                "hu": "A tengerpart télen ideális egy magányos sétára; utána gyorsan melegedjen fel az előre felfűtött utastérben.",
+                "ro": "Plaja este ideală pentru o plimbare solitară iarna; reîncălziți-vă apoi rapid în interiorul preîncălzit al mașinii.",
+                "en": "The beach is ideal for a solitary walk in winter; warm up quickly afterwards in the pre-heated interior of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiagge Porto Ainu",
+                "hu": "Spiagge Porto Ainu",
+                "ro": "Spiagge Porto Ainu",
+                "en": "Spiagge Porto Ainu"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die wilden Winterwellen vom sicheren Ufer aus; die Parkplätze bieten oft eine gute Sicht auf das tosende Meer.",
+                "hu": "Figyelje a vad téli hullámokat a biztonságos partról; a parkolóból gyakran remek kilátás nyílik a tomboló tengerre.",
+                "ro": "Observați valurile sălbatice de iarnă de pe malul sigur; parcarea oferă adesea o vedere excelentă asupra mării învolburate.",
+                "en": "Observe the wild winter waves from the safety of the shore; the parking area often provides a great view of the churning sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiagge di Baia Sant'Anna",
+                "hu": "Spiagge di Baia Sant'Anna",
+                "ro": "Spiagge di Baia Sant'Anna",
+                "en": "Spiagge di Baia Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für ein tolles Lichtspiel im Pinienwald; perfekt für einen kurzen Stopp vor der Weiterfahrt zur Spitze.",
+                "hu": "Az alacsonyan járó nap lenyűgöző fényjátékot produkál a fenyvesben; tökéletes helyszín egy rövid megállóra a továbbhaladás előtt.",
+                "ro": "Soarele jos creează un joc de lumini superb în pădurea de pini; perfect pentru o scurtă oprire înainte de a continua drumul.",
+                "en": "The low sun creates a stunning play of light in the pine forest; a perfect spot for a short stop before heading to the point."
+              }
+            },
+            {
+              "name": {
+                "de": "Riviera dei Pini",
+                "hu": "Riviera dei Pini",
+                "ro": "Riviera dei Pini",
+                "en": "Riviera dei Pini"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die milde Wintersonne, die durch die Pinienwipfel bricht; ein kurzer Moment der Stille in der Natur tut gut.",
+                "hu": "Élvezze a fenyőágak között átszűrődő enyhe téli napsütést; egy rövid, csendes pillanat a természetben feltölti az embert.",
+                "ro": "Bucurați-vă de soarele blând de iarnă care trece printre pini; un scurt moment de liniște în natură vă va prinde bine.",
+                "en": "Enjoy the mild winter sun filtering through the pine branches; a short, quiet moment in nature is truly refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta D'Abbaia",
+                "hu": "Punta D'Abbaia",
+                "ro": "Punta D'Abbaia",
+                "en": "Punta D'Abbaia"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie pünktlich zum Sonnenuntergang um 17 Uhr hier; das Auto schützt Sie vor dem kalten Wind an diesem exponierten Aussichtspunkt.",
+                "hu": "Érkezzen pontosan a 17 órai napnyugtára; az autó megvédi Önt a hideg széltől ezen a kitett, de gyönyörű kilátóponton.",
+                "ro": "Fiți aici la timp pentru apusul de la ora 17:00; mașina vă va proteja de vântul rece în acest punct de observație expus.",
+                "en": "Be here in time for the 5 PM sunset; the car will protect you from the cold wind at this exposed but beautiful viewpoint."
+              }
+            }
+          ]
+        }
       }
     }
   }

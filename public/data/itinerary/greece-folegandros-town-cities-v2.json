@@ -160,6 +160,196 @@
         "hu": "A reggel a Néprajzi Múzeum kulturális elmerülésével kezdődik, mielőtt nekivágna a festői ösvényeknek. Délben Agios Nikolaos és Galifos kristálytiszta vizei frissítik fel. A délutánt Ormos Vathy és a Fira strand csendes öbleinek felfedezésével töltheti. Az estét a Paralia Voreina drámai partvidékén, a hullámokat figyelve zárhatja.",
         "ro": "Dimineața începe cu o imersiune culturală la Muzeul de Folclor înainte de a porni pe traseele pitorești. La amiază ajungeți la apele limpezi de la Agios Nikolaos și Galifos. După-amiaza este petrecută explorând golfurile liniștite de la Ormos Vathy și plaja Fira. Seara se încheie cu o plimbare spre Paralia Voreina pentru a privi valurile.",
         "en": "Morning starts with cultural immersion at the Folklore Museum before heading down the scenic trails. Midday brings you to the pristine waters of Agios Nikolaos and Galifos for a refreshing swim. Afternoon is spent exploring the quiet coves of Ormos Vathy and Fira beach. Evening concludes with a dramatic coastal walk to Paralia Voreina to watch the waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Folkloremuseum Schutz vor dem Regen und Einblicke in die Inselgeschichte. Mittags führen die Küstenpfade nach Agios Nikolaos, wo die aufgewühlte See ein wildes Schauspiel bietet. Nachmittags ist bei Galifos und Vathy wegen rutschiger Felsen Vorsicht geboten; Regenbekleidung ist Pflicht. Abends erreichen wir die Voreina-Bucht, deren raue Schönheit auch bei grauem Himmel fasziniert.",
+            "hu": "Reggel a Néprajzi Múzeum fedett tereiben kezdünk, elkerülve az első záporokat és megismerve a helyi múltat. Délben a tengerparti sziklák és az Agios Nikolaos öböl drámai arcát mutatja a szürke ég alatt. Délután a sárga esőkabát kötelező a Galifos és Fira strandok közötti csúszós ösvényeken. Este a sziget északi felén a Voreina-öböl vad hullámait csodáljuk meg, mielőtt a látótávolság lecsökkenne.",
+            "ro": "Dimineața începe la Muzeul de Folclor, un refugiu ideal împotriva ploii pentru a descoperi tradițiile locale. La prânz, drumul spre Agios Nikolaos dezvăluie o latură sălbatică a insulei sub nori grei. După-amiaza necesită prudență pe potecile spre Galifos și Fira, deoarece pietrele devin foarte alunecoase. Seara se încheie la Paralia Voreina, unde marea agitată oferă un spectacol vizual impresionant.",
+            "en": "Morning starts at the Folklore Museum, providing a dry sanctuary to explore local history. By noon, the coastal paths to Agios Nikolaos offer dramatic views of the churning Aegean under grey skies. Afternoon requires sturdy waterproof gear for the slippery trails leading to Galifos and Fira beach. Evening concludes at Paralia Voreina, where the raw power of the wind and waves is best seen from a safe distance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Folkloremuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul de Folclor",
+                "en": "Folklore museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die liebevoll kuratierte Innenausstellung über das Inselleben; es ist der perfekte Ort, um einen Regenschauer trocken zu überstehen.",
+                "hu": "Fedezze fel a szigeti életmódot bemutató gazdag belső gyűjteményt; ez a legjobb hely a reggeli záporok elkerülésére és a kultúra befogadására.",
+                "ro": "Explorați colecția interioară bogată care prezintă viața tradițională a insulei; este locul perfect pentru a evita ploaia în timp ce învățați istorie.",
+                "en": "Explore the rich indoor collection showcasing traditional island life; it is the perfect spot to stay dry while soaking up local culture and history."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen in der Bucht von einem geschützten Felsen aus; achten Sie auf den rutschigen Untergrund beim Abstieg zum Ufer.",
+                "hu": "Figyelje meg az öböl drámai hullámait egy védett szikla mellől; ügyeljen a csúszós talajra, miközben az esőben a parthoz közeli ösvényen halad.",
+                "ro": "Admirați valurile dramatice din golf de lângă o stâncă protejată; aveți mare grijă pe terenul alunecos în timp ce coborâți spre mal pe ploaie.",
+                "en": "Observe the dramatic waves in the bay from a sheltered rock; be extra careful on the slippery ground while navigating the coastal path in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Galifos",
+                "hu": "Galifos",
+                "ro": "Galifos",
+                "en": "Galifos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe dieser kleinen Bucht, die bei Regen fast mystisch wirkt; tragen Sie unbedingt wasserfeste Wanderschuhe für die Felswege.",
+                "hu": "Élvezze a kis öböl nyugalmát, amely esőben szinte misztikus hangulatot áraszt; viseljen vízálló túrabakancsot a sziklás és sáros szakaszokon.",
+                "ro": "Bucurați-vă de liniștea acestui mic golf care pare aproape mistic pe ploaie; purtați neapărat bocanci impermeabili pentru potecile stâncoase.",
+                "en": "Enjoy the serenity of this small bay which feels almost mystical in the rain; ensure you wear waterproof hiking boots for the rocky sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Ormos Vathy",
+                "hu": "Ormos Vathy",
+                "ro": "Ormos Vathy",
+                "en": "Ormos Vathy"
+              },
+              "tip_5lang": {
+                "de": "Dieser natürliche Hafen bietet einen faszinierenden Blick auf das graue Meer; suchen Sie unter den Felsvorsprüngen Schutz vor dem Wind.",
+                "hu": "Ez a természetes kikötő lenyűgöző kilátást nyújt a viharos tengerre; keressen menedéket a sziklakiszögellések alatt az erős szél elől.",
+                "ro": "Acest port natural oferă o vedere fascinantă asupra mării agitate; căutați adăpost sub formațiunile stâncoase pentru a vă feri de vântul puternic.",
+                "en": "This natural harbor offers a fascinating view of the stormy sea; look for shelter under the rocky overhangs to stay protected from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Fira-Strand",
+                "hu": "Fira strand",
+                "ro": "Plaja Fira",
+                "en": "Fira beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Bewölkung besonders wild; nutzen Sie die Zeit für stimmungsvolle Fotos, aber bleiben Sie wegen der Brandung fern vom Wasser.",
+                "hu": "A strand felhős időben különösen vadnak tűnik; használja ki az időt hangulatos fotók készítésére, de a hullámzás miatt maradjon távol a víztől.",
+                "ro": "Plaja pare deosebit de sălbatică sub nori; profitați de moment pentru fotografii atmosferice, dar stați departe de apă din cauza valurilor mari.",
+                "en": "The beach looks particularly wild under cloudy skies; use the time for atmospheric photos but stay clear of the waterline due to heavy swells."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Voreina",
+                "hu": "Paralia Voreina",
+                "ro": "Paralia Voreina",
+                "en": "Paralia Voreina"
+              },
+              "tip_5lang": {
+                "de": "Der steile Abstieg erfordert bei Nässe höchste Konzentration; bewundern Sie das tiefe Blau des Meeres, das bei Regen fast schwarz erscheint.",
+                "hu": "A meredek leereszkedés nedves időben maximális koncentrációt igényel; csodálja meg a tenger sötétkékjét, amely esőben majdnem feketének tűnik.",
+                "ro": "Coborârea abruptă necesită concentrare maximă pe timp umed; admirați albastrul profund al mării care pare aproape negru sub ploaie.",
+                "en": "The steep descent requires maximum concentration in wet conditions; admire the deep blue of the sea which appears almost black in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen beginnt im Museum, wo die Geschichte der Insel Wärme spendet. Mittags glitzert das Meer bei Agios Nikolaos im sanften Winterlicht. Nachmittags erkunden wir die verlassenen Pfade nach Vathy und Fira, bevor die Brise auffrischt. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Abschluss bei Paralia Voreina rechtzeitig ein. Schichtenkleidung ist ratsam.",
+            "hu": "A hűvös téli reggel a múzeumban indul, ahol a hagyományos kiállítások melengetik a lelket. Délben az Agios Nikolaos öbölben a tenger a lágy téli napfényben csillog. Délután a kihalt Galifos és Fira ösvényein sétálunk, mielőtt a szél felerősödne. Mivel a nap 17:00 körül nyugszik, a Voreina-öblöt még világosban látogatjuk meg. Réteges öltözködés és meleg tea ajánlott.",
+            "ro": "O dimineață răcoroasă de iarnă începe la muzeu, unde expozițiile tradiționale oferă căldură și context. La prânz, marea de la Agios Nikolaos strălucește sub lumina blândă a soarelui de iarnă. După-amiaza explorăm potecile pustii spre Vathy și Fira înainte ca briza să se intensifice. Apusul fiind la ora 17:00, vizităm Paralia Voreina din timp. Purtați haine în straturi.",
+            "en": "A crisp winter morning starts at the museum, where traditional exhibits provide a warm welcome. By noon, the sea at Agios Nikolaos glitters under the soft winter sun. Afternoon is spent exploring the deserted paths of Vathy and Fira before the chill sets in. As sunset arrives early around 17:00, ensure you reach Paralia Voreina in time. Layered clothing is essential for the wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Folkloremuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul de Folclor",
+                "en": "Folklore museum"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume bieten eine gemütliche Atmosphäre, um etwas über das karge Winterleben der Vorfahren zu erfahren; ideal zum Aufwärmen am Morgen.",
+                "hu": "A belső terek meghitt hangulatot árasztanak, bemutatva az ősök nehéz téli életét; ideális hely a reggeli bemelegítéshez a túra előtt.",
+                "ro": "Spațiile interioare oferă o atmosferă primitoare pentru a învăța despre viața aspră de iarnă a strămoșilor; ideal pentru încălzire dimineața.",
+                "en": "The interior spaces offer a cozy atmosphere to learn about the harsh winter life of ancestors; ideal for warming up before your hike begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille der Nebensaison an diesem Ufer; das Licht ist perfekt für Fotos ohne die harten Schatten des Sommers.",
+                "hu": "Élvezze a főszezonon kívüli abszolút csendet ezen a parton; a fények tökéletesek a fotózáshoz a nyári erős árnyékok nélkül.",
+                "ro": "Bucurați-vă de liniștea absolută a extrasezonului pe acest mal; lumina este perfectă pentru fotografii fără umbrele dure ale verii.",
+                "en": "Enjoy the absolute silence of the off-season on this shore; the lighting is perfect for photos without the harsh shadows of summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Galifos",
+                "hu": "Galifos",
+                "ro": "Galifos",
+                "en": "Galifos"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Siedlung wirkt im Winter wie im Dornröschenschlaf; ideal für eine meditative Pause, bevor der kühle Nachmittagswind weht.",
+                "hu": "A kis település télen olyan, mintha Csipkerózsika-álmát aludná; ideális egy meditatív szünetre, mielőtt a hűvös délutáni szél feltámadna.",
+                "ro": "Mica așezare pare că doarme somnul de frumusețe iarna; este locul ideal pentru o pauză meditativă înainte de vântul rece de după-amiază.",
+                "en": "The small settlement feels like it is in deep sleep during winter; ideal for a meditative break before the cool afternoon breeze kicks in."
+              }
+            },
+            {
+              "name": {
+                "de": "Ormos Vathy",
+                "hu": "Ormos Vathy",
+                "ro": "Ormos Vathy",
+                "en": "Ormos Vathy"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die kristallklare Sicht auf das Meer, die es nur an kalten Wintertagen gibt; eine Mütze gegen den Wind ist hier sehr nützlich.",
+                "hu": "Csodálja meg a kristálytiszta kilátást a tengerre, amely csak a hideg téli napokon ilyen; egy szélálló sapka itt nagyon hasznos lesz.",
+                "ro": "Admirați vizibilitatea de cristal asupra mării, specifică doar zilelor reci de iarnă; o căciulă împotriva vântului va fi foarte utilă aici.",
+                "en": "Admire the crystal-clear visibility over the sea that only exists on cold winter days; a windproof hat will be very useful here."
+              }
+            },
+            {
+              "name": {
+                "de": "Fira-Strand",
+                "hu": "Fira strand",
+                "ro": "Plaja Fira",
+                "en": "Fira beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am leeren Strand bietet Zeit zur Reflexion; nehmen Sie eine Thermoskanne mit Tee mit, da die Cafés im Winter geschlossen sind.",
+                "hu": "Egy séta az üres strandon lehetőséget ad az elmélyülésre; vigyen magával egy termoszt forró teával, mivel a kávézók télen zárva tartanak.",
+                "ro": "O plimbare pe plaja goală oferă timp pentru reflecție; luați un termos cu ceai fierbinte, deoarece cafenelele sunt închise iarna.",
+                "en": "A walk on the empty beach offers time for reflection; bring a thermos with hot tea, as the local cafes are closed during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Voreina",
+                "hu": "Paralia Voreina",
+                "ro": "Paralia Voreina",
+                "en": "Paralia Voreina"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Wanderung hier vor 17:00 Uhr, um das letzte Tageslicht zu nutzen; die Nordküste ist im Winter besonders windanfällig.",
+                "hu": "Fejezze be a túrát 17:00 előtt, hogy kihasználja az utolsó fényeket; az északi part télen különösen kitett az erős szélnek.",
+                "ro": "Încheiați drumeția înainte de ora 17:00 pentru a profita de ultima lumină; coasta de nord este deosebit de expusă vântului iarna.",
+                "en": "Finish your hike before 17:00 to catch the last rays of daylight; the northern coast is particularly exposed to strong winds in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "A reggel egy élénk kerékpározással indul a Paralia Voreina vad északi partjához. A dél a helyi történelem és a tengerparti pihenés keverékét nyújtja a Múzeumban és Agios Nikolaosban. Délután a sziget déli része felé tekerhet a parti úton. Az este Latinaki és Vitsentzou békés homokos partjainál ér véget a kikötő közelében.",
         "ro": "Dimineața începe cu o cursă vioaie spre țărmurile nordice accidentate de la Paralia Voreina. Amiaza oferă un mix de istorie la Muzeul de Folclor și relaxare la Agios Nikolaos. După-amiaza presupune o pedalare de coastă spre partea de sud a insulei. Seara se încheie pe nisipurile liniștite de la Latinaki și Vitsentzou.",
         "en": "Morning begins with a brisk ride to the rugged northern shores of Paralia Voreina. Midday offers a mix of local history at the Folklore Museum and relaxation at Agios Nikolaos. Afternoon involves a coastal cycle towards the southern part of the island. Evening winds down at the peaceful sands of Latinaki and Vitsentzou near the port."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bei Paralia Voreina, wo man das Fahrrad sicher abstellen und die Gischt beobachten kann. Mittags bietet das Folkloremuseum eine trockene Pause. Die Fahrt nach Agios Nikolaos und Latinaki erfordert wegen nasser Straßen und Windböen höchste Vorsicht. Abends endet die Tour bei Vitsentzou; achten Sie auf spritzendes Wasser und rutschige Kurven beim Bremsen.",
+            "hu": "A nap a Voreina-öbölben indul, ahol a kerékpárt biztonságban leparkolva figyelhetjük a tajtékot. Délben a múzeum nyújt száraz menedéket. Az Agios Nikolaos és Latinaki felé vezető út fokozott figyelmet igényel a vizes aszfalt és a széllökések miatt. Este a túra a Vitsentzou öbölnél ér véget; vigyázzon a felfröccsenő vízre és a csúszós kanyarokra fékezéskor.",
+            "ro": "Ziua începe la Paralia Voreina, unde puteți parca bicicleta pentru a observa marea agitată. La prânz, muzeul oferă o pauză binemeritată și uscată. Drumul spre Agios Nikolaos și Latinaki necesită atenție sporită din cauza asfaltului ud și a vântului. Seara, turul se încheie la Vitsentzou; aveți grijă la apă și la curbele alunecoase când frânați.",
+            "en": "The day starts at Paralia Voreina, where you can park and watch the sea spray under the rain. By noon, the museum offers a dry break from the elements. Riding towards Agios Nikolaos and Latinaki requires extra caution due to wet tarmac and sudden gusts. Evening ends at Vitsentzou; watch out for road spray and slippery corners while braking on the descent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paralia Voreina",
+                "hu": "Paralia Voreina",
+                "ro": "Paralia Voreina",
+                "en": "Paralia Voreina"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad fest und sicher, da der Wind hier stark wehen kann; genießen Sie den Blick auf die wilden Klippen im Regen.",
+                "hu": "Parkolja le a kerékpárt szilárdan, mert a szél itt erősen fújhat; élvezze a kilátást a vad sziklákra az esőben.",
+                "ro": "Parcați bicicleta în siguranță, deoarece vântul poate sufla puternic aici; bucurați-vă de priveliștea stâncilor sălbatice sub ploaie.",
+                "en": "Park your bike securely as the wind can blow strongly here; enjoy the view of the wild cliffs under the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Folkloremuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul de Folclor",
+                "en": "Folklore museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Trockenpause für sich und Ihre Ausrüstung; prüfen Sie vor der Weiterfahrt Ihre Bremsen.",
+                "hu": "Használja ki a múzeumlátogatást egy alapos száraz szünetre magának és felszerelésének; indulás előtt ellenőrizze a fékeket.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă și uscată pentru dvs. și echipament; verificați frânele înainte de a pleca mai departe.",
+                "en": "Use the museum visit as an extended dry break for yourself and your gear; double-check your brakes before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie defensiv auf den schmalen Wegen zur Bucht; die Aussicht auf das stürmische Meer ist die Anstrengung bei Regen wert.",
+                "hu": "Vezessen óvatosan az öbölhöz vezető keskeny utakon; a viharos tenger látványa megéri az erőfeszítést még esőben is.",
+                "ro": "Conduceți defensiv pe drumurile înguste spre golf; vederea mării furtunoase merită efortul depus chiar și pe ploaie.",
+                "en": "Ride defensively on the narrow roads to the bay; the view of the stormy sea is well worth the effort even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Latinaki",
+                "hu": "Latinaki",
+                "ro": "Latinaki",
+                "en": "Latinaki"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Löcher verbergen könnten; der Strandabschnitt ist ideal für einen kurzen, erfrischenden Stopp im Regen.",
+                "hu": "Vigyázzon a tócsákkal, amelyek mély kátyúkat rejthetnek; ez a szakasz ideális egy rövid, frissítő megállóra az esőben.",
+                "ro": "Aveți grijă la bălți, deoarece pot ascunde gropi adânci; porțiunea de plajă este ideală pentru o scurtă oprire revigorantă pe ploaie.",
+                "en": "Watch out for puddles that might hide deep potholes; this beach section is ideal for a quick, refreshing stop in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Vitsentzou",
+                "hu": "Vitsentzou",
+                "ro": "Vitsentzou",
+                "en": "Vitsentzou"
+              },
+              "tip_5lang": {
+                "de": "Das Ende der Tour bietet eine wilde Küstenatmosphäre; trocknen Sie Ihr Rad nach der Fahrt ab, um Korrosion durch Salzwasser zu vermeiden.",
+                "hu": "A túra vége vad tengerparti hangulatot kínál; törölje szárazra a kerékpárt a só és az eső okozta korrózió elkerülése érdekében.",
+                "ro": "Finalul turului oferă o atmosferă sălbatică de coastă; ștergeți bicicleta după cursă pentru a evita coroziunea cauzată de sare.",
+                "en": "The end of the tour offers a wild coastal vibe; wipe down your bike after the ride to prevent corrosion from salt and rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise bei Paralia Voreina; Handschuhe sind beim Radfahren unerlässlich. Mittags wärmen wir uns im Folkloremuseum auf, bevor wir die sonnigen Abschnitte Richtung Süden nutzen. Die Fahrt nach Latinaki bietet klare Fernsichten bis zu den Nachbarinseln. Da es ab 17:00 Uhr dunkel wird, endet die Tour bei Vitsentzou im letzten Licht. Achten Sie auf die Windkälte.",
+            "hu": "Reggel friss szellő fúj a Voreina-öbölnél; a kesztyű elengedhetetlen a kerékpározáshoz. Délben a múzeumban melegszünk fel, majd kihasználjuk a napsütötte déli szakaszokat. A Latinaki felé vezető út tiszta kilátást nyújt a szomszédos szigetekre. Mivel 17:00 után sötétedik, a túra a Vitsentzou-nál ér véget az utolsó fényekben. Ügyeljen a szél hűtő hatására.",
+            "ro": "Dimineața, o briză proaspătă suflă la Paralia Voreina; mănușile sunt esențiale pentru ciclism. La prânz ne încălzim la muzeu înainte de a profita de secțiunile însorite spre sud. Drumul spre Latinaki oferă vederi clare spre insulele vecine. Deoarece se întunecă după ora 17:00, turul se încheie la Vitsentzou în ultima lumină. Atenție la frigul accentuat de vânt.",
+            "en": "Morning brings a fresh breeze at Paralia Voreina; gloves are essential for cycling today. By noon, warm up at the museum before taking advantage of the sunny southern stretches. The ride to Latinaki offers clear views of neighboring islands. Since it gets dark after 17:00, the tour ends at Vitsentzou in the fading light. Be mindful of the wind chill on downhill sections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paralia Voreina",
+                "hu": "Paralia Voreina",
+                "ro": "Paralia Voreina",
+                "en": "Paralia Voreina"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt die Klippen in faszinierenden Farben leuchten; halten Sie kurz inne, aber bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "A téli fények lenyűgöző színekben ragyogtatják fel a sziklákat; álljon meg egy pillanatra, de maradjon mozgásban, hogy ne fázzon meg.",
+                "ro": "Lumina de iarnă face ca stâncile să strălucească în culori fascinante; opriți-vă scurt, dar rămâneți în mișcare pentru a vă menține căldura.",
+                "en": "The winter light makes the cliffs glow in fascinating colors; stop briefly for photos but keep moving to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Folkloremuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul de Folclor",
+                "en": "Folklore museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Hände aufzuwärmen und die kulturelle Seite der Insel ohne sommerliche Hitze zu genießen; parken Sie windgeschützt.",
+                "hu": "Ideális hely a kezek felmelegítésére és a sziget kulturális oldalának élvezetére a nyári hőség nélkül; parkoljon szélvédett helyen.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile și a vă bucura de latura culturală a insulei fără căldura verii; parcați ferit de vânt.",
+                "en": "An ideal place to warm your hands and enjoy the cultural side of the island without summer heat; park in a wind-sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolaos",
+                "hu": "Agios Nikolaos",
+                "ro": "Agios Nikolaos",
+                "en": "Agios Nikolaos"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter ein friedlicher Rückzugsort; genießen Sie den Snack, den Sie mitgebracht haben, an einem sonnigen, windstillen Platz.",
+                "hu": "Az öböl télen békés menedék; fogyassza el a magával hozott tízórait egy napsütötte, szélvédett ponton a parton.",
+                "ro": "Golful este un refugiu pașnic iarna; savurați gustarea adusă de acasă într-un loc însorit și ferit de vânt pe mal.",
+                "en": "The bay is a peaceful retreat in winter; enjoy the snack you brought at a sunny, wind-free spot on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Latinaki",
+                "hu": "Latinaki",
+                "ro": "Latinaki",
+                "en": "Latinaki"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Blicke über das Meer; achten Sie auf die tiefstehende Sonne, die beim Fahren blenden kann.",
+                "hu": "A tiszta téli levegő messzi kilátást tesz lehetővé a tengerre; ügyeljen az alacsonyan járó napra, amely vezetés közben elvakíthat.",
+                "ro": "Aerul curat de iarnă permite vederi îndepărtate peste mare; atenție la soarele care apune și care vă poate orbi în timp ce conduceți.",
+                "en": "The clear winter air allows for distant views over the sea; watch out for the low sun, which can be blinding while cycling southward."
+              }
+            },
+            {
+              "name": {
+                "de": "Vitsentzou",
+                "hu": "Vitsentzou",
+                "ro": "Vitsentzou",
+                "en": "Vitsentzou"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang direkt von der Küste aus; ziehen Sie für den Heimweg eine zusätzliche warme Schicht an.",
+                "hu": "Figyelje meg a korai naplementét közvetlenül a partról; vegyen fel egy extra meleg réteget a hazaútra a gyors lehűlés miatt.",
+                "ro": "Observați apusul timpuriu direct de pe coastă; puneți-vă un strat suplimentar de haine groase pentru drumul de întoarcere.",
+                "en": "Watch the early sunset directly from the coast; put on an extra warm layer for the ride back as the temperature drops quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A reggel egy kalanddal indul az Agios Georgios távoli északi strandjára. Délben meglátogathatja Abeli védett öblét és a kulturális múzeumot. A délután tökéletes a Paralia Voreina zabolátlan szépségének megcsodálására. Az este egy pihentető fürdőzéssel zárul Latinaki és Vitsentzou könnyen megközelíthető déli strandjain.",
         "ro": "Dimineața debutează cu o aventură la plaja nordică izolată Agios Georgios. La amiază vizitați golful adăpostit Abeli și descoperiți cultura locală la muzeu. După-amiaza este perfectă pentru a admira frumusețea sălbatică de la Paralia Voreina. Seara se termină relaxant la plajele sudice accesibile, Latinaki și Vitsentzou.",
         "en": "Morning kicks off with an adventure to the remote northern beach of Agios Georgios. Midday features a visit to the sheltered bay of Abeli and cultural insights at the museum. Afternoon is perfect for admiring the untamed beauty of Paralia Voreina. Evening finishes smoothly with a relaxing dip at the accessible southern beaches of Latinaki and Vitsentzou."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen ist die Inseltour im Auto komfortabel. Morgens erkunden wir Agios Georgios, während die Scheibenwischer die Sicht auf das graue Meer freigeben. Mittags bietet das Folkloremuseum ein trockenes Kulturerlebnis. Die Fahrt zur Voreina-Bucht und Latinaki zeigt die dramatische, stürmische Seite Folegandros'. Abends genießen wir den Ausblick bei Vitsentzou gemütlich vom Fahrzeug aus.",
+            "hu": "Az eső ellenére az autós túra kényelmes marad. Reggel Agios Georgios környékét járjuk be, miközben az ablaktörlők mögül figyeljük a szürke tengert. Délben a múzeum nyújt száraz kulturális élményt. A Voreina-öböl és Latinaki felé vezető út a sziget drámai, viharos oldalát mutatja meg. Este a Vitsentzou öbölnél a kocsiból élvezhetjük a sötétedő tenger látványát.",
+            "ro": "În ciuda ploii, turul cu mașina rămâne confortabil. Dimineața explorăm Agios Georgios, observând marea gri prin parbrizul ud. La prânz, muzeul oferă o experiență culturală uscată. Drumul spre Voreina și Latinaki dezvăluie latura dramatică și furtunoasă a insulei. Seara, la Vitsentzou, ne bucurăm de priveliștea mării direct din confortul vehiculului.",
+            "en": "Despite the rain, the car tour remains comfortable and dry. Morning is spent exploring Agios Georgios while watching the grey sea through the windshield. By noon, the museum provides a dry cultural highlight. The drive to Voreina and Latinaki showcases the dramatic, stormy side of Folegandros. Evening ends at Vitsentzou, enjoying the coastal views from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Agios Georgios",
+                "hu": "Agios Georgios",
+                "ro": "Agios Georgios",
+                "en": "Agios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Klippen aus dem warmen Auto; ein kurzer Spaziergang mit Schirm lohnt sich für die frische Meeresbrise.",
+                "hu": "Élvezze a sziklákra nyíló kilátást a meleg autóból; egy rövid séta esernyővel megéri a friss tengeri szellő és a látvány miatt.",
+                "ro": "Bucurați-vă de vederea stâncilor din mașina caldă; o scurtă plimbare cu umbrela merită pentru briza proaspătă a mării și peisaj.",
+                "en": "Enjoy the cliff views from the warmth of your car; a short walk with an umbrella is worth it for the fresh sea breeze and scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Abeli",
+                "hu": "Abeli",
+                "ro": "Abeli",
+                "en": "Abeli"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine gute Sicht auf die Bucht; bleiben Sie bei starkem Regen im Wagen und beobachten Sie die Muster der Tropfen auf dem Wasser.",
+                "hu": "A parkolóból jó rálátás nyílik az öbölre; heves esőzéskor maradjon a kocsiban, és figyelje az esőcseppek mintázatát a vízen.",
+                "ro": "Parcarea oferă o vedere bună asupra golfului; în caz de ploaie torențială, rămâneți în mașină și observați modelul picăturilor pe apă.",
+                "en": "The parking area provides a good vantage point; during heavy rain, stay inside and watch the patterns of the raindrops on the sea surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Folkloremuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul de Folclor",
+                "en": "Folklore museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um trocken ins Museum zu gelangen; nutzen Sie die Zeit, um die detaillierten Exponate in Ruhe zu studieren.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy szárazon jusson be a múzeumba; használja ki az időt a részletes tárlatok alapos tanulmányozására.",
+                "ro": "Parcați chiar lângă intrare pentru a ajunge uscat în muzeu; profitați de timp pentru a studia în liniște exponatele detaliate.",
+                "en": "Park right by the entrance to get into the museum dry; use the time to study the detailed exhibits at your own pace while it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Voreina",
+                "hu": "Paralia Voreina",
+                "ro": "Paralia Voreina",
+                "en": "Paralia Voreina"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie bei starkem Regen den steilen Pfad und genießen Sie das Panorama von der Straße aus; die Farben des Meeres sind jetzt tiefdunkel.",
+                "hu": "Heves esőben kerülje a meredek ösvényt, inkább élvezze a panorámát az útról; a tenger színei ilyenkor mélysötétre változnak.",
+                "ro": "Evitați poteca abruptă pe ploaie torențială și bucurați-vă de panoramă de la drum; culorile mării devin acum de un albastru închis.",
+                "en": "Avoid the steep path during heavy rain and enjoy the panorama from the roadside; the colors of the sea are now a deep, dark blue."
+              }
+            },
+            {
+              "name": {
+                "de": "Latinaki",
+                "hu": "Latinaki",
+                "ro": "Latinaki",
+                "en": "Latinaki"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Nässe rutschig sein; machen Sie einen kurzen Stopp am Strand, wenn der Regen kurz nachlässt.",
+                "hu": "A part menti út nedves időben csúszós lehet; tegyen egy rövid megállót a strandon, ha az eső éppen alábbhagy egy kicsit.",
+                "ro": "Drumul de coastă poate fi alunecos pe timp umed; faceți o scurtă oprire pe plajă dacă ploaia se mai domolește puțin.",
+                "en": "The coastal road can be slippery when wet; take a quick stop at the beach if the rain eases up for a few moments."
+              }
+            },
+            {
+              "name": {
+                "de": "Vitsentzou",
+                "hu": "Vitsentzou",
+                "ro": "Vitsentzou",
+                "en": "Vitsentzou"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den Tag bei stürmischer See ausklingen zu lassen; das Auto schützt Sie vor dem peitschenden Wind und Regen.",
+                "hu": "Tökéletes hely a nap lezárásához a viharos tenger mellett; az autó megvédi Önt a csapkodó széltől és a hideg esőtől.",
+                "ro": "Un loc perfect pentru a încheia ziua lângă marea furtunoasă; mașina vă protejează de vântul tăios și de ploaia rece.",
+                "en": "A perfect place to end the day by the stormy sea; the car protects you from the biting wind and the lashing rain outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer Panoramafahrt nach Agios Georgios, wo die Luft glasklar ist. Mittags bietet das Museum eine gemütliche Pause. Die winterliche Sonne lässt das Meer bei Latinaki herrlich funkeln. Da die Dämmerung gegen 17:00 Uhr einsetzt, erreichen wir Vitsentzou rechtzeitig für den Sonnenuntergang. Heizung im Auto sorgt für Komfort zwischen den Stopps.",
+            "hu": "A téli nap egy panorámás autózással indul Agios Georgios felé, ahol a levegő kristálytiszta. Délben a múzeum nyújt meghitt pihenőt. A téli napfényben Latinaki környékén csodásan csillog a tenger. Mivel 17:00 körül sötétedik, időben érkezünk a Vitsentzou öbölhöz a naplementére. Az autó fűtése kényelmessé teszi az utat a megállók között.",
+            "ro": "Ziua de iarnă începe cu o plimbare panoramică spre Agios Georgios, unde aerul este de cristal. La prânz, muzeul oferă o pauză relaxantă. Soarele de iarnă face ca marea să strălucească superb la Latinaki. Deoarece amurgul începe la ora 17:00, ajungem la Vitsentzou la timp pentru apus. Încălzirea din mașină asigură confortul total.",
+            "en": "The winter day begins with a scenic drive to Agios Georgios, where the air is crystal clear. By noon, the museum offers a cozy break. The winter sun makes the sea sparkle beautifully near Latinaki. As dusk falls around 17:00, we reach Vitsentzou in time for the sunset. Car heating ensures comfort between the scenic outdoor stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Agios Georgios",
+                "hu": "Agios Georgios",
+                "ro": "Agios Georgios",
+                "en": "Agios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist spektakulär; halten Sie an den Aussichtspunkten für Fotos der Nachbarinseln im klaren Licht.",
+                "hu": "A téli kilátás látványos; álljon meg a kilátópontoknál, hogy lefotózza a szomszédos szigeteket a tiszta téli fényben.",
+                "ro": "Vizibilitatea pe timp de iarnă este spectaculoasă; opriți la punctele de belvedere pentru fotografii cu insulele vecine în lumină clară.",
+                "en": "The winter visibility is spectacular; stop at the viewpoints for photos of the neighboring islands in the clear seasonal light."
+              }
+            },
+            {
+              "name": {
+                "de": "Abeli",
+                "hu": "Abeli",
+                "ro": "Abeli",
+                "en": "Abeli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den leeren Parkplatz für einen ungestörten Blick auf das ruhige Wintermeer; packen Sie eine warme Jacke für kurze Erkundungen ein.",
+                "hu": "Használja ki az üres parkolót a nyugodt téli tenger zavartalan élvezetéhez; vigyen magával meleg kabátot a rövid felfedező sétákhoz.",
+                "ro": "Profitați de parcarea goală pentru o vedere neîntreruptă asupra mării liniștite; luați o jachetă groasă pentru scurte explorări pe jos.",
+                "en": "Take advantage of the empty parking lot for an undisturbed view of the calm winter sea; pack a warm jacket for short explorations on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Folkloremuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul de Folclor",
+                "en": "Folklore museum"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders ruhig, was eine tiefere Auseinandersetzung mit der Geschichte ermöglicht; ideal zum Aufwärmen zwischendurch.",
+                "hu": "Télen itt különösen nagy a nyugalom, ami elmélyültebb ismerkedést tesz lehetővé a történelemmel; ideális köztes melegedőhely.",
+                "ro": "Iarna este deosebit de liniște aici, ceea ce permite o explorare mai profundă a istoriei; este un loc ideal pentru a vă încălzi.",
+                "en": "In winter, it is exceptionally quiet here, allowing for a deeper engagement with history; an ideal spot to warm up mid-journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Paralia Voreina",
+                "hu": "Paralia Voreina",
+                "ro": "Paralia Voreina",
+                "en": "Paralia Voreina"
+              },
+              "tip_5lang": {
+                "de": "Der Blick von oben ist im Winterlicht besonders scharf; achten Sie auf starke Windböen beim Öffnen der Autotüren an der Küste.",
+                "hu": "A fentről nyíló kilátás a téli fényben különösen éles; ügyeljen az erős széllökésekre az autó ajtajának kinyitásakor a parton.",
+                "ro": "Priveliștea de sus este deosebit de clară în lumina iernii; atenție la rafalele de vânt când deschideți portierele mașinii pe coastă.",
+                "en": "The view from above is particularly sharp in winter light; watch out for strong gusts of wind when opening car doors on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Latinaki",
+                "hu": "Latinaki",
+                "ro": "Latinaki",
+                "en": "Latinaki"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und taucht den Strand in ein goldenes Licht; perfekt für einen kurzen, erfrischenden Winterspaziergang am Wasser.",
+                "hu": "A nap alacsonyan áll, és aranyfénybe vonja a strandot; tökéletes helyszín egy rövid, frissítő téli sétához a vízparton.",
+                "ro": "Soarele este jos pe cer și scaldă plaja într-o lumină aurie; perfect pentru o scurtă plimbare revigorantă de iarnă pe malul apei.",
+                "en": "The sun stays low, bathing the beach in golden light; it is the perfect setting for a short, refreshing winter stroll by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Vitsentzou",
+                "hu": "Vitsentzou",
+                "ro": "Vitsentzou",
+                "en": "Vitsentzou"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr gemütlich aus dem Wagen; die Farben am Horizont sind im Winter oft besonders intensiv.",
+                "hu": "Élvezze a 17:00 körüli naplementét kényelmesen az autóból; a horizont színei télen gyakran különösen intenzívek.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 confortabil din mașină; culorile orizontului sunt adesea deosebit de intense iarna.",
+                "en": "Enjoy the sunset around 17:00 comfortably from your car; the colors on the horizon are often particularly intense during winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

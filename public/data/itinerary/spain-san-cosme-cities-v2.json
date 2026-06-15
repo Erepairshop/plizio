@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy kellemes sétával San Cosme történelmi központjában.\n\nDélben merüljön el az ősi kelta település lenyűgöző titkaiban.\n\nA délután rejtett vallási helyszínekhez vezet a festői tájon.\n\nAz estét a hazatért kivándorlók elegáns építészetének megcsodálásával zárhatja.",
         "ro": "Începeți dimineața cu o plimbare plăcută prin centrul istoric al orașului San Cosme.\n\nLa prânz, scufundați-vă în misterele fascinante ale vechii așezări celtice.\n\nDupă-amiaza vă duce la situri religioase ascunse din peisajul pitoresc.\n\nÎncheiați seara admirând arhitectura elegantă a emigranților întorși acasă.",
         "en": "Start your morning with a pleasant walk through the historical heart of San Cosme.\n\nAt noon, delve into the fascinating mysteries of the ancient Celtic settlement.\n\nThe afternoon leads you to hidden religious sites set within the picturesque landscape.\n\nConclude your evening admiring the elegant architecture built by the returned emigrants."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Rathaus beginnt der Tag unter grauen Wolken. Mittags bieten die keltischen Ruinen von Merille im Nebel eine mystische Atmosphäre. Nachmittags suchen wir in den Kirchen von San Pedro und Áspera Schutz vor den Schauern. Abends bewundern wir die Indiano-Architektur, deren Farben im nassen Glanz der Straßen besonders kräftig leuchten.",
+            "hu": "Reggel a városházánál kezdünk, az eső kopog a régi köveken. Délben a Merille-erőd romjai között a köd misztikus hangulatot áraszt a sár ellenére. Délután a templomok belső terei nyújtanak száraz menedéket a záporok elől. Estére az Indiano-házak díszes homlokzatai a vizes aszfalton tükröződve festői látványt nyújtanak a séta végén.",
+            "ro": "Dimineața la primărie începe sub nori gri. La prânz, ruinele celtice de la Merille oferă o atmosferă mistică prin ceață, în ciuda noroiului. După-amiaza, interiorul bisericilor oferă un refugiu uscat împotriva ploii. Seara, fațadele ornamentate ale caselor Indiano reflectate în asfaltul umed oferă o priveliște pitorească la finalul plimbării.",
+            "en": "Morning starts at the town hall under grey skies. At noon, the Celtic ruins of Merille offer a mystical atmosphere through the mist despite the mud. In the afternoon, the church interiors provide a dry refuge from the showers. By evening, the ornate facades of the Indiano houses reflected on the wet asphalt offer a picturesque sight to end the walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Barreiros",
+                "hu": "Barreiros Városháza",
+                "ro": "Primăria Barreiros",
+                "en": "Barreiros Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bürgerliche Architektur unter dem Schutz des Dachvorsprungs; die Steinfassade wirkt im Regen dunkler und imposanter. Nutzen Sie den Eingangsbereich als Regenschutz.",
+                "hu": "Csodálja meg a városháza épületét az ereszek védelméből; a nedves kőfalak sötétebb tónusa még tekintélyesebbnek tűnik. Használja a bejárat környékét száraz várakozóhelynek.",
+                "ro": "Admirați clădirea primăriei sub protecția streșinilor; tonul mai închis al pereților de piatră umedi pare și mai impunător. Folosiți zona de la intrare ca loc de așteptare uscat.",
+                "en": "Admire the town hall building from the shelter of the eaves; the darker tone of the wet stone walls appears even more imposing. Use the entrance area as a dry waiting spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Pedro de Barreiros",
+                "hu": "San Pedro de Barreiros templom",
+                "ro": "Biserica San Pedro de Barreiros",
+                "en": "Church of San Pedro de Barreiros"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist der perfekte Ort, um einen starken Guss abzuwarten und dabei die Ruhe und die religiöse Kunst zu genießen. Achten Sie auf die glatten Steinstufen am Kircheneingang.",
+                "hu": "Ez a templom tökéletes hely egy kiadós zápor átvészelésére, miközben a belső nyugalmat és a vallási művészetet élvezi. Vigyázzon a bejáratnál a vizes, csúszós kőlépcsőkre.",
+                "ro": "Această biserică este locul perfect pentru a aștepta trecerea unei averse, bucurându-vă de liniștea interioară și de arta religioasă. Atenție la treptele de piatră umede și alunecoase.",
+                "en": "This church is the perfect place to wait out a heavy downpour while enjoying the interior peace and religious art. Be careful of the wet, slippery stone steps at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Keltensiedlung Alto de Merille",
+                "hu": "Alto de Merille kelta erőd",
+                "ro": "Așezarea celtică Alto de Merille",
+                "en": "Alto de Merille Celtic Settlement"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel über den Ruinen verleiht dem Ort eine fast magische Aura aus der Eisenzeit. Tragen Sie unbedingt feste, wasserfeste Wanderschuhe, da die Pfade hier sehr schlammig werden können.",
+                "hu": "A romok feletti köd szinte mágikus, vaskori aurát kölcsönöz a helynek az esőben. Viseljen vízálló túrabakancsot, mert az ösvények ilyenkor rendkívül sárossá és csúszóssá válnak.",
+                "ro": "Ceața de deasupra ruinelor conferă locului o aură aproape magică din epoca fierului. Purtați bocanci de trekking impermeabili, deoarece potecile devin extrem de noroioase și alunecoase.",
+                "en": "The mist over the ruins gives the place an almost magical Iron Age aura in the rain. Wear waterproof hiking boots as the paths become extremely muddy and slippery at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Áspera",
+                "hu": "Áspera temploma",
+                "ro": "Biserica din Áspera",
+                "en": "Church of Áspera"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer Rückzugsort im Trockenen mit einer schlichten, aber würdevollen Atmosphäre, die zum Innehalten einlädt. Schütteln Sie Ihren Regenschirm vor dem Eintreten gründlich ab.",
+                "hu": "Újabb száraz menedék egyszerű, de méltóságteljes hangulattal, amely tökéletes a rövid pihenésre az eső elől. Alaposan rázza le az esernyőjét, mielőtt belépne a szentélybe.",
+                "ro": "Un alt refugiu uscat cu o atmosferă simplă dar demnă, perfect pentru o scurtă pauză de ploaie. Scuturați-vă bine umbrela înainte de a intra în sanctuar pentru a nu uda podeaua.",
+                "en": "Another dry refuge with a simple but dignified atmosphere, perfect for a short break from the rain. Shake your umbrella thoroughly before entering the sanctuary to keep it dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus von Manuel Maseda",
+                "hu": "Manuel Maseda Indiano-háza",
+                "ro": "Casa Indiano a lui Manuel Maseda",
+                "en": "Indiano House of Manuel Maseda"
+              },
+              "tip_5lang": {
+                "de": "Die leuchtenden Farben der Fassade kontrastieren wunderschön mit dem grauen Himmel und leuchten im Regen besonders intensiv. Suchen Sie Schutz unter dem Vordach gegenüber für Fotos.",
+                "hu": "A homlokzat élénk színei gyönyörűen kontrasztálnak a szürke éggel, és az esőben még intenzívebbnek tűnnek. Keressen menedéket a szemközti előtető alatt a legjobb fotók készítéséhez.",
+                "ro": "Culorile vii ale fațadei contrastează frumos cu cerul gri și par și mai intense în ploaie. Căutați adăpost sub copertina de vizavi pentru a face cele mai bune fotografii clădirii.",
+                "en": "The vivid colors of the facade contrast beautifully with the grey sky and appear even more intense in the rain. Find shelter under the opposite overhang for the best photo shots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise vom Meer, wenn wir am Rathaus starten. Mittags wärmt uns die tiefstehende Wintersonne beim Besuch der keltischen Siedlung. Nachmittags nutzen wir das sanfte Licht für Fotos der Indiano-Häuser. Da es gegen 17:00 Uhr dunkel wird, beenden wir den Tag gemütlich in einer der lokalen Bars bei einem warmen Getränk.",
+            "hu": "Reggel friss tengeri szellő fogad minket a városházánál, öltözzön rétegesen a hideg ellen. Délben a Merille-erődnél a téli napsütés éles fényei segítik a kilátást. Délután a templomok hűvös falaiból a gyorsan lemenő nap fényébe érünk. 17:00 körül besötétedik, így a napot egy meleg ital mellett, bent zárjuk le.",
+            "ro": "Dimineața, o briză marină proaspătă ne întâmpină la primărie; îmbrăcați-vă în straturi împotriva frigului. La prânz, soarele de iarnă oferă o vizibilitate excelentă la cetatea Merille. După-amiaza, ieșim din răceala bisericilor în lumina apusului rapid. Se întunecă în jur de ora 17:00, așa că încheiem ziua la căldură cu o băutură caldă.",
+            "en": "In the morning, a fresh sea breeze greets us at the town hall; dress in layers against the cold. At noon, the winter sun provides excellent visibility at the Merille fortress. In the afternoon, we emerge from the chill of the churches into the light of the rapid sunset. It gets dark around 17:00, so we end the day indoors with a warm drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Barreiros",
+                "hu": "Barreiros Városháza",
+                "ro": "Primăria Barreiros",
+                "en": "Barreiros Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Der Stein speichert die Kälte; bewundern Sie das Gebäude zügig und nutzen Sie die Morgensonne für erste Fotos. Ein warmer Schal ist wegen des Winds in den Gassen unerlässlich.",
+                "hu": "A kőfalak ilyenkor ontják a hideget; csodálja meg az épületet tempósan, és használja ki a reggeli súrolófényt a fotózáshoz. Egy meleg sál elengedhetetlen a sikátorok huzata miatt.",
+                "ro": "Pereții de piatră emană frig în acest sezon; admirați clădirea într-un ritm alert și profitați de lumina dimineții pentru fotografii. O eșarfă groasă este esențială din cauza curentului.",
+                "en": "The stone walls radiate cold now; admire the building at a brisk pace and take advantage of the morning light for photos. A warm scarf is essential due to the draft in the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Pedro de Barreiros",
+                "hu": "San Pedro de Barreiros templom",
+                "ro": "Biserica San Pedro de Barreiros",
+                "en": "Church of San Pedro de Barreiros"
+              },
+              "tip_5lang": {
+                "de": "Das Innere kann im Winter sehr kühl sein; behalten Sie Ihren Mantel während der Besichtigung der religiösen Kunst an. Die klare Winterluft lässt die Steindetails besonders scharf wirken.",
+                "hu": "A templombelső télen nagyon hűvös lehet; ne vegye le a kabátját a vallási műtárgyak megtekintése közben. A tiszta téli levegőben a kőfaragások részletei különösen élesen látszanak.",
+                "ro": "Interiorul bisericii poate fi foarte răcoros iarna; nu vă scoateți haina în timp ce vizionați obiectele de artă religioasă. În aerul curat de iarnă, detaliile pietrei par foarte clare.",
+                "en": "The church interior can be very cool in winter; keep your coat on while viewing the religious artifacts. In the clear winter air, the details of the stonework look particularly sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Keltensiedlung Alto de Merille",
+                "hu": "Alto de Merille kelta erőd",
+                "ro": "Așezarea celtică Alto de Merille",
+                "en": "Alto de Merille Celtic Settlement"
+              },
+              "tip_5lang": {
+                "de": "Ohne das hohe Sommergras sind die Grundrisse der Siedlung viel besser zu erkennen. Da es auf dem Hügel windig ist, sollten Sie unbedingt eine winddichte Jacke und Handschuhe tragen.",
+                "hu": "A magas nyári fű nélkül a település alaprajzai sokkal jobban kivehetők a téli terepen. Mivel a dombtetőn erősen fújhat a szél, szélálló dzseki és kesztyű viselése erősen ajánlott.",
+                "ro": "Fără iarba înaltă de vară, planurile așezării sunt mult mai ușor de descifrat pe terenul de iarnă. Deoarece pe deal vântul poate sufla tare, se recomandă o jachetă și mănuși.",
+                "en": "Without the tall summer grass, the layouts of the settlement are much easier to see on the winter terrain. Since the wind can blow hard on the hilltop, a windbreaker and gloves are recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Áspera",
+                "hu": "Áspera temploma",
+                "ro": "Biserica din Áspera",
+                "en": "Church of Áspera"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt im fahlen Winterlicht besonders andächtig und still. Besuchen Sie den Ort vor 16:30 Uhr, um die Umgebung noch bei Tageslicht sicher erkunden zu können.",
+                "hu": "A kis templom a bágyadt téli fényben különösen áhítatos és csendes hangulatot áraszt. Látogassa meg 16:30 előtt, hogy a környéket még természetes fénynél, biztonságosan bejárhassa.",
+                "ro": "Mica biserică emană o atmosferă deosebit de pioasă și liniștită în lumina palidă de iarnă. Vizitați-o înainte de 16:30 pentru a putea explora împrejurimile în siguranță pe lumină.",
+                "en": "The small church exudes a particularly pious and quiet atmosphere in the wan winter light. Visit before 16:30 to safely explore the surroundings in natural daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus von Manuel Maseda",
+                "hu": "Manuel Maseda Indiano-háza",
+                "ro": "Casa Indiano a lui Manuel Maseda",
+                "en": "Indiano House of Manuel Maseda"
+              },
+              "tip_5lang": {
+                "de": "Die warme Abendsonne lässt die Fassade kurz vor Sonnenuntergang golden leuchten. Planen Sie das Ende Ihrer Tour zeitnah zum Sonnenuntergang um 17:00 Uhr ein, um Kälte zu vermeiden.",
+                "hu": "A lemenő nap meleg fényei aranyba borítják a homlokzatot közvetlenül a sötétedés előtt. Tervezze a túra végét az 17:00 órai naplementéhez igazítva, hogy elkerülje az esti fagyokat.",
+                "ro": "Luminile calde ale soarelui la apus scaldă fațada în aur chiar înainte de lăsarea întunericului. Planificați finalul turului aproape de apusul de la ora 17:00 pentru a evita gerul serii.",
+                "en": "The warm lights of the setting sun bathe the facade in gold just before dark. Plan the end of your tour around the 17:00 sunset to avoid the biting evening cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A frissítő kerékpártúra a vallási központból indul, és szelíden vezet a zöldellő dombok felé.\n\nDélben másszon fel a kilátókhoz, hogy teljes mértékben élvezhesse a csodálatos tájat.\n\nA délután hűvös vízeséseket és rusztikus kápolnákat tár fel az erdők mélyén.\n\nA túra késő délután ér véget a történelmi Indiano-házak csodálatos homlokzata előtt.",
         "ro": "Un tur revigorant cu bicicleta începe din centrul religios și vă duce ușor în dealurile verzi.\n\nLa prânz, urcați la punctele de belvedere pentru a vă bucura din plin de peisajul magnific.\n\nDupă-amiaza dezvăluie cascade răcoroase și capele rustice adânc în pădure.\n\nTurul se termină târziu în după-amiaza în fața fațadelor magnifice ale caselor istorice Indiano.",
         "en": "A refreshing bike ride starts in the religious center and leads you gently into the green hills.\n\nAt noon, you will climb the viewpoints to fully enjoy the magnificent surrounding landscape.\n\nThe afternoon reveals cool waterfalls and rustic chapels hidden deep within the lush forests.\n\nThe tour concludes in the late afternoon before the magnificent facades of the historic Indiano houses."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zur Kirche San Pedro auf regennasser Fahrbahn. Mittags bietet die Auffahrt zum Alto de Merille eine sportliche Herausforderung bei rutschigem Untergrund. Nachmittags besuchen wir den Wasserfall, der nach dem Regen besonders kraftvoll tost. Wir beenden die Tour bei den Indiano-Häusern, wo wir unsere Kleidung trocknen können.",
+            "hu": "Reggel óvatosan tekerünk a vizes úton San Pedro templomához, ügyelve a csúszós kanyarokra. Délben a Merille-erőd felé vezető kaptató igazi sportélmény a szemerkélő esőben. Délután a Santo Estevo-vízesés dübörgése az eső után még lenyűgözőbb. A napot az Indiano-házaknál zárjuk, ahol fedett helyen pihenhetjük ki a vizes túra fáradalmait.",
+            "ro": "Dimineața pedalăm cu atenție pe drumul ud spre biserica San Pedro, având grijă la curbele alunecoase. La prânz, urcarea spre cetatea Merille este o experiență sportivă în ploaia ușoară. După-amiaza, vuietul cascadei Santo Estevo după ploaie este și mai impresionant. Încheiem ziua la casele Indiano, unde ne putem odihni după traseul umed.",
+            "en": "In the morning, we cycle carefully on the wet road to San Pedro church, watching out for slippery corners. At noon, the climb to Merille fortress is a true sporting experience in the drizzle. In the afternoon, the roar of the Santo Estevo waterfall after the rain is even more impressive. We end the day at the Indiano houses, resting in a sheltered spot after the damp tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche San Pedro de Barreiros",
+                "hu": "San Pedro de Barreiros templom",
+                "ro": "Biserica San Pedro de Barreiros",
+                "en": "Church of San Pedro de Barreiros"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Pause, um Ihre Regenbekleidung zu richten. Vorsicht beim Absteigen auf den nassen, glatten Pflastersteinen.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és használja ki a szünetet esővédő ruházata megigazítására. Legyen óvatos a leszállásnál a nedves, csúszós macskaköveken.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți pauza pentru a vă aranja echipamentul de ploaie. Fiți atenți la descălecare pe pietrele de pavaj ude și alunecoase.",
+                "en": "Park your bike in a protected spot and use the break to adjust your rain gear. Be careful when dismounting on the wet, slippery cobblestones around the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Keltensiedlung Alto de Merille",
+                "hu": "Alto de Merille kelta erőd",
+                "ro": "Așezarea celtică Alto de Merille",
+                "en": "Alto de Merille Celtic Settlement"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Nässe rutschig sein; schalten Sie in einen niedrigen Gang für mehr Traktion. Die Aussicht auf die neblige Küste entschädigt für die Mühen im Regen.",
+                "hu": "A felfelé vezető út csúszós lehet; váltson alacsonyabb sebességfokozatba a jobb tapadás érdekében. A ködös partvidék látványa minden esőben megtett méterért kárpótol.",
+                "ro": "Urcarea poate fi alunecoasă; treceți într-o treaptă inferioară pentru o aderență mai bună. Vederea coastei cețoase compensează efortul depus prin ploaie pe acest segment.",
+                "en": "The climb up can be slippery; switch to a lower gear for better traction on the incline. The view of the misty coastline compensates for every meter pedaled in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Penabor",
+                "hu": "Penabor kilátó",
+                "ro": "Punctul de belvedere Penabor",
+                "en": "Penabor Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen kann die Sicht eingeschränkt sein, aber die dramatischen Wolkenformationen sind ein tolles Fotomotiv. Wischen Sie Ihre Bremsbeläge vor der Abfahrt kurz trocken.",
+                "hu": "Esőben a látótávolság korlátozott lehet, de a drámai felhőformációk remek fotótémát szolgáltatnak. Indulás előtt törölje szárazra a fékfelületeket a biztonságos ereszkedéshez.",
+                "ro": "În ploaie vizibilitatea poate fi limitată, dar formațiunile dramatice de nori sunt un subiect foto excelent. Ștergeți suprafețele de frânare înainte de a pleca pentru siguranță.",
+                "en": "In the rain visibility may be limited, but the dramatic cloud formations provide a great photo subject. Wipe your brake surfaces dry before starting the descent for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Santo Estevo",
+                "hu": "Santo Estevo kápolna",
+                "ro": "Capela Santo Estevo",
+                "en": "Chapel of Santo Estevo"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Rast im Trockenen, bevor es zum Wasserfall weitergeht. Achten Sie auf Laub auf dem Weg, das bei Nässe extrem rutschig für Reifen ist.",
+                "hu": "Ideális hely egy rövid, száraz pihenőre, mielőtt továbbgurulna a közeli vízeséshez. Ügyeljen az úton lévő vizes levelekre, mert azok rendkívül csúszóssá teszik a burkolatot.",
+                "ro": "Un loc ideal pentru o scurtă pauză uscată înainte de a continua spre cascada din apropiere. Atenție la frunzele ude de pe drum, care fac carosabilul extrem de alunecos.",
+                "en": "An ideal place for a short dry break before rolling on to the nearby waterfall. Watch out for wet leaves on the road as they make the surface extremely slippery for tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserfall Santo Estevo",
+                "hu": "Santo Estevo-vízesés",
+                "ro": "Cascada Santo Estevo",
+                "en": "Santo Estevo Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Nach Regenfällen führt der Wasserfall viel Wasser und ist ein spektakulärer Anblick. Halten Sie Abstand zum Rand, da der Boden durch die Gischt und den Regen sehr weich ist.",
+                "hu": "Esőzés után a vízesés hatalmas vízhozammal dübörög, ami lenyűgöző látványt nyújt. Tartson biztonságos távolságot a szélétől, mert a talaj a permettől nagyon felázott.",
+                "ro": "După ploi, cascada curge cu un debit imens, oferind o priveliște impresionantă. Păstrați o distanță de siguranță față de margine, deoarece solul este foarte moale și instabil.",
+                "en": "After rainfall, the waterfall roars with huge water volume, providing an impressive sight. Keep a safe distance from the edge as the ground is very soaked and unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus von Manuel Maseda",
+                "hu": "Manuel Maseda Indiano-háza",
+                "ro": "Casa Indiano a lui Manuel Maseda",
+                "en": "Indiano House of Manuel Maseda"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier und suchen Sie ein Café in der Nähe auf, um sich aufzuwärmen. Reinigen Sie Ihre Kette nach der Fahrt im Regen, um Korrosion zu vermeiden.",
+                "hu": "Itt fejezze be a túrát, és keressen egy közeli kávézót a felmelegedéshez. A vizes gurulás után érdemes letisztítani a kerékpárláncot, hogy megelőzze a korróziót.",
+                "ro": "Încheiați turul aici și căutați o cafenea în apropiere pentru a vă încălzi. După plimbarea prin ploaie, este bine să curățați lanțul bicicletei pentru a preveni coroziunea.",
+                "en": "Finish your tour here and find a nearby cafe to warm up. After the wet ride, it is a good idea to clean your bike chain to prevent corrosion from the road grime."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist es klirrend kalt, wenn wir zur Kirche radeln – Handschuhe sind Pflicht. Mittags genießen wir die klare Sicht vom Penabor-Aussichtspunkt bei strahlendem Winterhimmel. Nachmittags erreichen wir den schattigen Wasserfall, wo die Luft besonders frisch ist. Wir beenden die sportliche Runde vor Einbruch der Dunkelheit um 17:00 Uhr bei den bunten Indiano-Häusern.",
+            "hu": "Reggel csípős hidegben indulunk a templom felé, a kesztyű és a réteges öltözet kötelező. Délben a Penabor kilátónál a tiszta téli égbolt alatt élvezhetjük a végtelen panorámát. Délután a vízesésnél a völgyben még hűvösebb az idő, ne álljunk meg hosszan. A sportos kört 17:00 előtt, még világosban fejezzük be az Indiano-házaknál.",
+            "ro": "Dimineața pornim spre biserică în frig tăios; mănușile și hainele stratificate sunt obligatorii. La prânz, la punctul de belvedere Penabor, ne bucurăm de o panoramă infinită sub cerul senin. După-amiaza, la cascadă, în vale este și mai răcoare, nu zăboviți mult. Încheiem tura sportivă înainte de ora 17:00, încă pe lumină, la casele Indiano.",
+            "en": "In the morning, we set off for the church in biting cold; gloves and layered clothing are mandatory. At noon, at the Penabor viewpoint, we enjoy an infinite panorama under the clear sky. In the afternoon, at the waterfall, it is even cooler in the valley, so don't linger too long. We finish the sporty circuit before 17:00 while still light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche San Pedro de Barreiros",
+                "hu": "San Pedro de Barreiros templom",
+                "ro": "Biserica San Pedro de Barreiros",
+                "en": "Church of San Pedro de Barreiros"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Aufwärmpause im Windschatten des Gebäudes. Prüfen Sie Ihren Reifendruck, da dieser bei niedrigen Temperaturen leicht abfallen kann.",
+                "hu": "Használja ki a megállót egy rövid melegedésre az épület szélvédett oldalán. Ellenőrizze a guminyomást, mert az alacsony hőmérséklet miatt az érték kissé lecsökkenhet.",
+                "ro": "Folosiți oprirea pentru o scurtă încălzire pe partea ferită de vânt a clădirii. Verificați presiunea în pneuri, deoarece aceasta poate scădea ușor din cauza frigului.",
+                "en": "Use the stop for a short warm-up on the sheltered side of the building. Check your tire pressure, as it can drop slightly due to the low winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Keltensiedlung Alto de Merille",
+                "hu": "Alto de Merille kelta erőd",
+                "ro": "Așezarea celtică Alto de Merille",
+                "en": "Alto de Merille Celtic Settlement"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist im Winter oft hart gefroren, was das Radfahren auf den Wegen erleichtert. Bleiben Sie in Bewegung, um bei der Besichtigung der Ruinen nicht auszukühlen.",
+                "hu": "A talaj télen gyakran keményre fagyott, ami megkönnyíti a kerékpározást az ösvényeken. Maradjon mozgásban a romok megtekintése közben is, hogy ne hűljön ki a teste.",
+                "ro": "Solul este adesea înghețat iarna, ceea ce facilitează pedalarea pe poteci. Rămâneți în mișcare chiar și în timp ce vizitați ruinele pentru a nu vă răci corpul prea tare.",
+                "en": "The ground is often frozen hard in winter, which makes cycling on the paths easier. Keep moving even while viewing the ruins so that your body doesn't cool down too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Penabor",
+                "hu": "Penabor kilátó",
+                "ro": "Punctul de belvedere Penabor",
+                "en": "Penabor Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser als im Sommer; genießen Sie den Blick über die kantabrische Küste. Schützen Sie Ihr Gesicht mit einer Sturmhaube vor dem kalten Fahrtwind.",
+                "hu": "A látótávolság télen gyakran sokkal jobb, mint nyáron; élvezze a kilátást a Kantábriai-partra. Védje arcát a hideg menetszéltől egy csősállal vagy arcmaszkkal az ereszkedéskor.",
+                "ro": "Vizibilitatea iarna este adesea mult mai bună decât vara; bucurați-vă de priveliștea coastei Cantabrice. Protejați-vă fața de vântul rece cu o mască sau un fular la coborâre.",
+                "en": "Visibility in winter is often much better than in summer; enjoy the view over the Cantabrian coast. Protect your face from the cold wind with a neck gaiter or face mask."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Santo Estevo",
+                "hu": "Santo Estevo kápolna",
+                "ro": "Capela Santo Estevo",
+                "en": "Chapel of Santo Estevo"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen ruhigen Moment abseits der Kälte. Trinken Sie einen Schluck warmen Tee aus Ihrer Thermoskanne, bevor Sie zum kühlen Wasserfall weiterfahren.",
+                "hu": "A kis kápolna csendes pillanatot kínál a hideg elől. Igyon egy korty meleg teát a termoszhuból, mielőtt továbbindulna a völgy mélyén fekvő hűvös vízeséshez.",
+                "ro": "Mica capelă oferă un moment de liniște departe de frig. Beți o gură de ceai cald din termos înainte de a pleca spre cascada răcoroasă din adâncul văii.",
+                "en": "The small chapel offers a quiet moment away from the cold. Take a sip of warm tea from your thermos before heading on to the cool waterfall deep in the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserfall Santo Estevo",
+                "hu": "Santo Estevo-vízesés",
+                "ro": "Cascada Santo Estevo",
+                "en": "Santo Estevo Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Die Luftfeuchtigkeit am Wasserfall lässt die gefühlte Temperatur sinken. Halten Sie den Stopp kurz und ziehen Sie eine zusätzliche Schicht an, um nicht zu frieren.",
+                "hu": "A vízesésnél a pára miatt a hőérzet sokkal alacsonyabb, mint máshol. Tartsa rövidre a megállót, és vegyen fel egy plusz réteget, hogy ne fázzon meg az árnyékban.",
+                "ro": "La cascadă, din cauza umidității, temperatura resimțită este mult mai scăzută. Păstrați oprirea scurtă și puneți-vă un strat suplimentar pentru a nu răci în umbră.",
+                "en": "At the waterfall, the humidity makes the perceived temperature much lower than elsewhere. Keep the stop short and put on an extra layer so you don't catch a cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus von Manuel Maseda",
+                "hu": "Manuel Maseda Indiano-háza",
+                "ro": "Casa Indiano a lui Manuel Maseda",
+                "en": "Indiano House of Manuel Maseda"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne betont die architektonischen Details des Hauses perfekt. Beenden Sie die Fahrt zügig, da die Temperaturen nach 17:00 Uhr drastisch sinken.",
+                "hu": "Az alacsonyan járó nap sugarai tökéletesen kiemelik a ház építészeti részleteit. Fejezze be a túrát időben, mert 17:00 után a hőmérséklet drasztikusan visszaesik.",
+                "ro": "Razele soarelui de iarnă scund scot în evidență perfect detaliile arhitecturale ale casei. Încheiați turul la timp, deoarece după ora 17:00 temperatura scade drastic.",
+                "en": "The low winter sun rays perfectly highlight the architectural details of the house. Finish the tour on time, as the temperature drops drastically after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Ez a kényelmes autós túra a közösség nyüzsgő adminisztratív központjában kezdődik.\n\nDélben fedezze fel a távoli természeti szépségeket és a festői vízeséseket a mély délen.\n\nDélután az útvonal finoman visszavezet, lenyűgöző kilátást nyújtva a tengerparti régióra.\n\nA kora estét teljes mértékben a csodálatos gyarmati Indiano-házak megcsodálásának szenteljük.",
         "ro": "Acest tur confortabil cu mașina începe în inima administrativă vibrantă a comunității.\n\nLa prânz, explorați frumusețea naturală îndepărtată și cascadele pitorești din sudul îndepărtat.\n\nDupă-amiaza, traseul vă duce ușor înapoi, oferind vederi uluitoare asupra regiunii de coastă.\n\nSeara devreme este dedicată în întregime admirării magnificelor case coloniale Indiano.",
         "en": "This comfortable driving tour begins in the vibrant administrative heart of the community.\n\nAt noon, you will explore the remote natural beauty and picturesque waterfalls in the deep south.\n\nIn the afternoon, the route gently guides you back, offering breathtaking views over the coastal region.\n\nThe early evening is entirely dedicated to admiring the magnificent colonial Indiano houses."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die bequeme Fahrt zum Rathaus, während der Regen gegen die Scheiben trommelt. Mittags erkunden wir die keltische Siedlung in einer Regenpause und fahren dann weiter zur Kapelle Santo Estevo. Nachmittags bewundern wir den tosenden Wasserfall und besuchen die verschiedenen Indiano-Häuser der Region. Der Tag endet trocken und entspannt im Auto.",
+            "hu": "Reggel kényelmesen autózunk a városházához, miközben az eső kopog a szélvédőn. Délben a Merille-erődöt egy esőszünetben fedezzük fel, majd továbbindulunk a Santo Estevo kápolna felé. Délután megcsodáljuk a bővizű vízesést, és sorra látogatjuk a környék díszes Indiano-házait. A napot szárazon és kényelemben zárjuk az autónknak köszönhetően.",
+            "ro": "Dimineața conducem confortabil spre primărie, în timp ce ploaia bate în parbriz. La prânz explorăm cetatea Merille într-o pauză de ploaie, apoi plecăm spre capela Santo Estevo. După-amiaza admirăm cascada bogată în apă și vizităm pe rând casele Indiano din zonă. Încheiem ziua la uscat și în confort datorită mașinii noastre.",
+            "en": "Morning, we drive comfortably to the town hall while rain beats on the windshield. At noon, we explore the Merille fortress during a break in the rain, then head to the Santo Estevo chapel. In the afternoon, we admire the water-rich waterfall and visit the ornate Indiano houses of the area. We end the day dry and in comfort thanks to our car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Barreiros",
+                "hu": "Barreiros Városháza",
+                "ro": "Primăria Barreiros",
+                "en": "Barreiros Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden. Das Gebäude wirkt bei bewölktem Himmel besonders majestätisch und solide.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást. Az épület borús égbolt mellett is rendkívül méltóságteljes és szilárd benyomást kelt.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita să vă udați. Clădirea emană o impresie extrem de demnă și solidă chiar și sub un cer înnorat.",
+                "en": "Park as close to the entrance as possible to avoid getting soaked. The building gives an extremely dignified and solid impression even under a cloudy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Keltensiedlung Alto de Merille",
+                "hu": "Alto de Merille kelta erőd",
+                "ro": "Așezarea celtică Alto de Merille",
+                "en": "Alto de Merille Celtic Settlement"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis und warten Sie eine Regenpause für die kurze Besichtigung der Ruinen ab. Die Zufahrt kann bei Starkregen etwas rutschig sein.",
+                "hu": "Használja az autót bázisként, és várjon meg egy esőszünetet a romok rövid megtekintéséhez. A felvezető út heves esőzés esetén kissé csúszós lehet, vezessen lassan.",
+                "ro": "Folosiți mașina ca bază și așteptați o pauză de ploaie pentru o scurtă vizită la ruine. Drumul de acces poate fi puțin alunecos în caz de ploaie torențială.",
+                "en": "Use the car as a base and wait for a break in the rain for a short visit to the ruins. The access road can be a bit slippery in case of heavy rain, drive slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Santo Estevo",
+                "hu": "Santo Estevo kápolna",
+                "ro": "Capela Santo Estevo",
+                "en": "Chapel of Santo Estevo"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Stopp, um die Stille zu genießen, während draußen der Regen fällt. Lassen Sie keine nassen Regenschirme auf den Autositzen liegen, um Feuchtigkeit zu vermeiden.",
+                "hu": "Szép megálló a csend élvezetéhez, miközben odakint esik az eső. Ne hagyja a vizes esernyőket az autó ülésén, hogy elkerülje az utastér párásodását.",
+                "ro": "O oprire frumoasă pentru a vă bucura de liniște în timp ce afară plouă. Nu lăsați umbrelele ude pe scaunele mașinii pentru a evita aburirea habitaclului.",
+                "en": "A beautiful stop to enjoy the silence while it rains outside. Do not leave wet umbrellas on the car seats to avoid fogging up the interior of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserfall Santo Estevo",
+                "hu": "Santo Estevo-vízesés",
+                "ro": "Cascada Santo Estevo",
+                "en": "Santo Estevo Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist nach dem Regen besonders beeindruckend; parken Sie sicher am Straßenrand. Achten Sie beim Aussteigen auf weichen, schlammigen Untergrund neben dem Asphalt.",
+                "hu": "A vízesés az eső után különösen lenyűgöző; parkoljon biztonságosan az út szélén. Kiszálláskor ügyeljen az aszfalt melletti felázott, sáros talajra.",
+                "ro": "Cascada este deosebit de impresionantă după ploaie; parcați în siguranță pe marginea drumului. La coborâre, atenție la solul moale și noroios de lângă asfalt.",
+                "en": "The waterfall is particularly impressive after the rain; park safely on the roadside. When getting out, watch out for the soaked, muddy ground next to the asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Penabor",
+                "hu": "Penabor kilátó",
+                "ro": "Punctul de belvedere Penabor",
+                "en": "Penabor Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem trockenen Auto, falls der Regen zu stark ist. Die Wolken über dem Meer bieten ein dramatisches Schauspiel.",
+                "hu": "Élvezze a panorámát közvetlenül a száraz autóból, ha az eső túl erősen esne. A tenger feletti vonuló felhők drámai látványt nyújtanak a magasból.",
+                "ro": "Bucurați-vă de panoramă direct din mașina uscată, dacă ploaia este prea puternică. Norii care trec peste mare oferă o priveliște dramatică de la înălțime.",
+                "en": "Enjoy the panorama directly from the dry car if the rain is falling too hard. The clouds passing over the sea provide a dramatic sight from the height."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus von Manuel Maseda",
+                "hu": "Manuel Maseda Indiano-háza",
+                "ro": "Casa Indiano a lui Manuel Maseda",
+                "en": "Indiano House of Manuel Maseda"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Hauses leuchten im Regen besonders intensiv; ideal für Fotos aus dem Fenster. Nutzen Sie die Sitzheizung, falls Ihnen durch die kurzen Stopps kalt geworden ist.",
+                "hu": "A ház színei az esőben különösen intenzíven ragyognak; ideális fotótéma akár az autó ablakából is. Használja az ülésfűtést, ha a rövid kiszállások során átfázott volna.",
+                "ro": "Culorile casei strălucesc intens în ploaie; subiect foto ideal chiar și de pe geamul mașinii. Folosiți încălzirea în scaune dacă ați înghețat în timpul scurtelor coborâri.",
+                "en": "The colors of the house shine intensely in the rain; an ideal photo subject even from the car window. Use the seat heating if you got cold during the short stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus im Viertel Carreira",
+                "hu": "Carreira negyed Indiano-háza",
+                "ro": "Casa Indiano din cartierul Carreira",
+                "en": "Indiano House of Carreira Neighborhood"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Architektur bequem beim Vorbeifahren oder kurzen Halten. Achten Sie auf Pfützen in der schmalen Straße, um Passanten nicht zu bespritzen.",
+                "hu": "Csodálja meg az építészeti részleteket kényelmesen, elhajtva mellette vagy rövid időre megállva. Ügyeljen a tócsákra a szűk utcában, hogy ne fröccsenjen víz a járókelőkre.",
+                "ro": "Admirați detaliile arhitecturale confortabil, trecând pe lângă ele sau oprindu-vă scurt. Atenție la bălțile de pe strada îngustă pentru a nu stropi pietonii.",
+                "en": "Admire the architectural details comfortably while driving by or stopping briefly. Watch out for puddles in the narrow street so as not to splash pedestrians."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus do Pero",
+                "hu": "Do Pero Indiano-háza",
+                "ro": "Casa Indiano do Pero",
+                "en": "Indiano House do Pero"
+              },
+              "tip_5lang": {
+                "de": "Ein krönender Abschluss der Tour, der auch bei Regen seinen Charme behält. Prüfen Sie die Scheibenwischerblätter vor der Rückfahrt für optimale Sicht bei Dunkelheit.",
+                "hu": "A túra méltó lezárása, amely esőben is megőrzi varázsát a vizes környezetben. Indulás előtt ellenőrizze az ablaktörlőket a biztonságos, esti hazavezetéshez.",
+                "ro": "O încheiere demnă a turului, care își păstrează farmecul și în ploaie în mediul umed. Înainte de plecare, verificați ștergătoarele pentru o conducere sigură seara.",
+                "en": "A worthy conclusion to the tour, which retains its charm even in the rain in the damp environment. Before leaving, check the wipers for safe evening driving."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir die Tour im warmen Auto und besuchen das Rathaus bei frischer Winterluft. Mittags führt uns die Fahrt zum Alto de Merille, wo die Wintersonne die Landschaft in klares Licht taucht. Nachmittags genießen wir den Blick vom Penabor und die Indiano-Häuser der Gegend. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir unsere Stopps effizient.",
+            "hu": "Reggel a fűtött autóban kezdjük a túrát, és friss téli levegőn látogatjuk meg a városházát. Délben a Merille-erőd felé vesszük az irányt, ahol a téli nap éles fényei segítik a fotózást. Délután a Penabor kilátónál élvezzük a panorámát, majd az Indiano-házak következnek. Mivel 17:00-kor már sötétedik, hatékonyan tervezzük meg a megállókat.",
+            "ro": "Dimineața începem turul în mașina încălzită și vizităm primăria în aerul curat de iarnă. La prânz ne îndreptăm spre cetatea Merille, unde lumina clară a soarelui ajută la fotografiere. După-amiaza ne bucurăm de panoramă la Penabor, apoi urmează casele Indiano. Deoarece se întunecă deja la ora 17:00, planificăm opririle eficient.",
+            "en": "In the morning we start the tour in the heated car and visit the town hall in the fresh winter air. At noon we head to the Merille fortress, where the clear sunlight helps with photography. In the afternoon we enjoy the panorama at Penabor, followed by the Indiano houses. Since it gets dark at 17:00, we plan the stops efficiently."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Barreiros",
+                "hu": "Barreiros Városháza",
+                "ro": "Primăria Barreiros",
+                "en": "Barreiros Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne lässt den Stein des Rathauses in warmen Tönen erscheinen. Schalten Sie die Klimaanlage ein, um das Beschlagen der Scheiben bei der Weiterfahrt zu verhindern.",
+                "hu": "A reggeli téli napsütés meleg tónusokkal világítja meg a városháza köveit. Kapcsolja be a klímát, hogy megakadályozza a szélvédő párásodását a továbbinduláskor.",
+                "ro": "Soarele de dimineață luminează pietrele primăriei în tonuri calde. Porniți aerul condiționat pentru a preveni aburirea parbrizului la plecare.",
+                "en": "The morning winter sun illuminates the stones of the town hall in warm tones. Turn on the air conditioning to prevent the windshield from fogging up when starting off."
+              }
+            },
+            {
+              "name": {
+                "de": "Keltensiedlung Alto de Merille",
+                "hu": "Alto de Merille kelta erőd",
+                "ro": "Așezarea celtică Alto de Merille",
+                "en": "Alto de Merille Celtic Settlement"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine exzellente Fernsicht von den Ruinen aus. Achten Sie auf vereiste Stellen auf der schattigen Zufahrtsstraße zum Hügel.",
+                "hu": "A tiszta téli levegő kiváló távolbalátást biztosít a romoktól a part irányába. Ügyeljen az esetleges jeges foltokra a dombra vezető út árnyékosabb szakaszain.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă de la ruine spre coastă. Atenție la eventualele porțiuni înghețate de pe drumul spre deal în zonele umbrite.",
+                "en": "The clear winter air provides excellent long-distance visibility from the ruins towards the coast. Watch out for icy patches on the shaded sections of the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Santo Estevo",
+                "hu": "Santo Estevo kápolna",
+                "ro": "Capela Santo Estevo",
+                "en": "Chapel of Santo Estevo"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter ein stiller Ort der Besinnung. Nutzen Sie die kurzen Wege vom Parkplatz, um nicht zu sehr im kalten Wind zu stehen.",
+                "hu": "A kápolna télen a csendes elmélkedés helyszíne a kopár fák között. Használja ki a rövid sétát a parkolótól, hogy ne kelljen sokat állnia a hideg szélben.",
+                "ro": "Capela este iarna un loc de meditație liniștită printre copacii golași. Profitați de plimbarea scurtă de la parcare pentru a nu sta mult în vântul rece.",
+                "en": "The chapel is a place of quiet reflection in winter among the bare trees. Take advantage of the short walk from the parking lot to avoid standing in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserfall Santo Estevo",
+                "hu": "Santo Estevo-vízesés",
+                "ro": "Cascada Santo Estevo",
+                "en": "Santo Estevo Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall wirkt in der kargen Winterlandschaft besonders markant. Da es im Tal deutlich kühler ist, sollten Sie die Heizung im Auto danach etwas höher stellen.",
+                "hu": "A vízesés a kopár téli tájban különösen hangsúlyos látványt nyújt a völgyben. Mivel itt jóval hűvösebb az idő, érdemes feljebb tekerni a fűtést az autóban utána.",
+                "ro": "Cascada oferă o priveliște deosebit de pronunțată în peisajul golaș de iarnă din vale. Deoarece aici este mult mai rece, e bine să măriți căldura în mașină după vizită.",
+                "en": "The waterfall provides a particularly pronounced sight in the bare winter landscape in the valley. Since it is much cooler here, turn up the heat in the car afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Penabor",
+                "hu": "Penabor kilátó",
+                "ro": "Punctul de belvedere Penabor",
+                "en": "Penabor Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Stopp, um die tiefstehende Wintersonne über dem Ozean zu beobachten. Ziehen Sie sich warm an, da der Wind hier oben im Winter sehr schneidend ist.",
+                "hu": "Látványos megálló az alacsonyan járó téli nap megfigyeléséhez az óceán felett. Öltözzön fel jól, mert a szél itt fent télen rendkívül metsző és hideg lehet.",
+                "ro": "O oprire spectaculoasă pentru a observa soarele de iarnă scund deasupra oceanului. Îmbrăcați-vă bine, deoarece vântul aici sus poate fi extrem de tăios iarna.",
+                "en": "A spectacular stop to observe the low winter sun over the ocean. Dress warmly, as the wind up here can be extremely biting and cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus von Manuel Maseda",
+                "hu": "Manuel Maseda Indiano-háza",
+                "ro": "Casa Indiano a lui Manuel Maseda",
+                "en": "Indiano House of Manuel Maseda"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht der späten Nachmittagssonne hebt die Stuckverzierungen des Hauses hervor. Schalten Sie das Abblendlicht ein, wenn es gegen 16:30 Uhr dämmrig wird.",
+                "hu": "A késő délutáni nap meleg fényei kiemelik a ház stukkódíszeit a téli szürkület előtt. Kapcsolja be a tompított fényszórót, ha 16:30 körül már szürkülni kezdene.",
+                "ro": "Luminile calde ale soarelui de după-amiază târziu scot în evidență decorațiunile casei. Porniți faza scurtă dacă în jur de ora 16:30 începe deja să se însereze.",
+                "en": "The warm lights of the late afternoon sun highlight the house's stucco decorations. Turn on the low beam headlights if it starts to get dark around 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus im Viertel Carreira",
+                "hu": "Carreira negyed Indiano-háza",
+                "ro": "Casa Indiano din cartierul Carreira",
+                "en": "Indiano House of Carreira Neighborhood"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, bequemer Fotostopp vom Auto aus, bevor es ganz dunkel wird. Die umliegenden Gärten wirken im Winterlicht ruhig und schlummernd.",
+                "hu": "Gyors és kényelmes fotómegálló az autóból, mielőtt teljesen besötétedne a negyedben. A környező kertek a téli fényben nyugodt, pihenő arcukat mutatják.",
+                "ro": "O oprire foto rapidă și confortabilă din mașină înainte de a se întuneca complet în cartier. Grădinile din jur arată liniștite în lumina slabă de iarnă.",
+                "en": "A quick and comfortable photo stop from the car before it gets completely dark. The surrounding gardens show their quiet, resting face in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Indiano-Haus do Pero",
+                "hu": "Do Pero Indiano-háza",
+                "ro": "Casa Indiano do Pero",
+                "en": "Indiano House do Pero"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier pünktlich zum Sonnenuntergang um 17:00 Uhr. Prüfen Sie die Frostschutzmittel im Scheibenwischwasser für eine sichere Heimfahrt bei Frost.",
+                "hu": "Fejezze be a túrát itt, pontban az 17:00 órai naplementekor. Ellenőrizze a szélvédőmosó fagyállóságát a biztonságos hazavezetéshez a hideg esti órákban.",
+                "ro": "Încheiați turul aici, exact la apusul de la ora 17:00. Verificați antigelul din lichidul de parbriz pentru o conducere sigură în orele reci de seară.",
+                "en": "Finish the tour here, exactly at the 17:00 sunset. Check the antifreeze in your windshield washer fluid for safe driving during the cold evening hours."
+              }
+            }
+          ]
+        }
       }
     }
   }

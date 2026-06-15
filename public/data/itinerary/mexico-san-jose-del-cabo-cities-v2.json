@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt inspiráló mexikói művészettel a történelmi galérianegyedben. Ahogy közeledik a dél, sétáljon a torkolat felé a madarak megfigyelése és az ökológiai felfedezések érdekében. A délután meghívja Önt az egyedülálló sivatagi flóra felfedezésére, mielőtt végül megpihenne a helyi strandok aranyszínű homokján.",
         "ro": "Începeți dimineața înconjurat de arta mexicană inspiratoare în cartierul istoric al galeriilor. Spre prânz, plimbați-vă spre estuar pentru observarea pașnică a păsărilor. După-amiaza vă invită să explorați flora deșertică unică, înainte de a vă relaxa în cele din urmă pe nisipurile aurii întinse ale plajelor locale.",
         "en": "Begin your morning surrounded by inspiring Mexican artistry in the historic gallery district. As midday approaches, wander toward the estuary for peaceful bird watching and ecological discovery. The afternoon invites you to explore the unique desert flora before you finally relax on the expansive golden sands of the local beaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in den Kunstgalerien des Art Districts, wo der Regen eine ruhige Atmosphäre schafft. Mittags führt der Weg zum Ästuar, dessen üppiges Grün durch die Feuchtigkeit besonders intensiv leuchtet. Am Nachmittag erkunden wir das Kakteen-Heiligtum unter dem Schutz eines Schirms. Den Abend lassen wir an der Playa Hotelera ausklingen, wo die Brandung bei Regen besonders kraftvoll wirkt.",
+            "hu": "A reggel fedett galériák között indul a művésznegyedben, így az eső csak fokozza a meghitt hangulatot. Délben a torkolatvidék felé vesszük az irányt, ahol a csapadék előcsalogatja a trópusi illatokat és a madarakat. Délután az esernyők alatt csodáljuk meg a kaktuszokat, ügyelve a csúszós ösvényekre. Az estét a Playa Hotelerán zárjuk, hallgatva az esőcseppek és a tenger morajlásának különleges találkozását.",
+            "ro": "Dimineața începe la adăpost în galeriile de artă, unde ploaia creează o atmosferă intimă și relaxantă. La prânz, explorăm estuarul, a cărui vegetație devine vibrantă sub picăturile de apă. După-amiaza vizităm sanctuarul de cactuși, folosind o umbrelă pentru confort, iar seara se încheie pe Playa Hotelera, admirând spectacolul dramatic al oceanului sub cerul înnorat și briza răcoroasă a serii.",
+            "en": "The morning starts under the cover of art galleries, where the rain adds a peaceful vibe to the Art District. At noon, we head to the estuary, as the moisture brings out the vibrant colors of the flora. In the afternoon, we explore the cactus sanctuary with umbrellas, being mindful of slippery paths. The evening ends at Playa Hotelera, watching the powerful waves meet the rhythmic falling rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Corsica",
+                "hu": "Corsica",
+                "ro": "Corsica",
+                "en": "Corsica"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die hochklassige Kunst im trockenen Innenraum der Galerie, während der Regen draußen eine ruhige Kulisse bildet; perfekt für einen entspannten Start ohne nass zu werden.",
+                "hu": "Élvezze a kortárs műalkotásokat a galéria száraz belső terében, miközben az eső kopogása megnyugtató hátteret ad; ideális helyszín a kezdéshez, amíg odakint eláll a zápor.",
+                "ro": "Bucurați-vă de arta contemporană în interiorul uscat al galeriei, în timp ce ploaia de afară creează un fundal relaxant; este refugiul perfect pentru a începe ziua cultural.",
+                "en": "Enjoy world-class contemporary art in the dry interior of the gallery while the rain creates a cozy atmosphere outside; the perfect spot to stay dry and start your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Bruno Pegoretti Gallery",
+                "hu": "Bruno Pegoretti Gallery",
+                "ro": "Bruno Pegoretti Gallery",
+                "en": "Bruno Pegoretti Gallery"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die farbenfrohen Skulpturen geschützt vor dem Wetter; nutzen Sie die Zeit für tiefe Gespräche mit den Kuratoren, da es bei Regen in der Galerie oft ruhiger zugeht.",
+                "hu": "Csodálja meg a színes szobrokat az időjárástól védve; használja ki a csendesebb, esős időt a galéria kurátoraival való beszélgetésre, így mélyebb betekintést nyerhet a művekbe.",
+                "ro": "Admirați sculpturile colorate fiind protejat de intemperii; profitați de liniștea galeriei pe timp de ploaie pentru a discuta cu experții despre detaliile fascinante ale operelor.",
+                "en": "Admire the vibrant sculptures while being completely sheltered from the weather; use the quieter rainy atmosphere to engage with the curators and learn about the unique pieces."
+              }
+            },
+            {
+              "name": {
+                "de": "Estuary bird lookout",
+                "hu": "Estuary bird lookout",
+                "ro": "Estuary bird lookout",
+                "en": "Estuary bird lookout"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie seltene Vögel, die bei Regen oft aktiver sind, von der überdachten Plattform aus; tragen Sie festes Schuhwerk, da die Holzstege bei Nässe sehr rutschig sein können.",
+                "hu": "Figyelje meg a ritka madarakat a fedett kilátóból, mert esőben gyakran aktívabbak; viseljen tapadós talpú cipőt, mivel a fapadlók ilyenkor rendkívül csúszóssá válhatnak a vizes felületen.",
+                "ro": "Observați păsările rare din platforma acoperită, deoarece ploaia le face adesea mai active; purtați încălțăminte aderentă, deoarece podețele de lemn devin foarte alunecoase la umezeală.",
+                "en": "Spot rare birds from the covered observation deck, as rain often brings them out; wear shoes with good grip because the wooden walkways can become quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cactus sanctuary",
+                "hu": "Cactus sanctuary",
+                "ro": "Cactus sanctuary",
+                "en": "Cactus sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie, wie die Wüste unter dem Regen auflebt und die Kakteen ihre volle Pracht zeigen; ein stabiler Regenschirm ist wichtig, da es im Garten kaum Unterstellmöglichkeiten gibt.",
+                "hu": "Nézze meg, ahogy a sivatag életre kel az esőben, és a kaktuszok színe elmélyül; hozzon magával erős esernyőt, mert a kert nyitott területein kevés a fedett menedék a sétány mentén.",
+                "ro": "Vedeți cum deșertul prinde viață sub ploaie, evidențiind culorile intense ale cactușilor; o umbrelă rezistentă este esențială, deoarece grădina oferă puține locuri de adăpost exterior.",
+                "en": "Witness the desert bloom under the rain, highlighting the deep green of the cacti; carry a sturdy umbrella as the garden has limited covered areas for pedestrians during a shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Hotelera",
+                "hu": "Playa Hotelera",
+                "ro": "Playa Hotelera",
+                "en": "Playa Hotelera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Anblick des aufgewühlten Pazifiks von einer der überdachten Strandbars aus; vermeiden Sie den direkten Sand, da dieser bei Regen sehr klebrig wird.",
+                "hu": "Élvezze a felkorbácsolt tenger látványát egy fedett parti bár teraszáról; ne menjen közvetlenül a homokba, mert az esőben ragacsossá válik és nehéz benne a közlekedés lábbelivel.",
+                "ro": "Admirați spectacolul dramatic al oceanului de la terasa unui bar acoperit de pe plajă; evitați mersul direct pe nisip, deoarece acesta devine foarte lipicios și greu de parcurs ud.",
+                "en": "Watch the dramatic waves from the safety of a covered beach bar; avoid walking directly on the sand, as it becomes very sticky and difficult to navigate when thoroughly soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in San José ist mild und ideal für den Art District. Mittags genießen wir die angenehme Sonne am Ästuar, bevor die kühle Brise am Nachmittag im Kakteengarten auffrischt. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Strandbesuch frühzeitig ein. Ein leichter Pullover ist für die Zeit nach dem Sonnenuntergang an der Küste unbedingt erforderlich.",
+            "hu": "A téli reggel enyhe és tökéletes a művésznegyed felfedezéséhez. Délben a torkolatnál élvezzük a lágy napsütést, mielőtt délután a kaktuszoskertben feltámadna a hűvös szellő. Mivel a nap már 17:00 körül nyugszik, a strandlátogatást korábbra időzítjük. Naplemente után a tengerparton szükség lesz egy könnyű pulóverre a hirtelen lehűlő levegő miatt.",
+            "ro": "Dimineața de iarnă este blândă și ideală pentru plimbări în cartierul artei. La prânz ne bucurăm de soarele plăcut la estuar, înainte ca briza răcoroasă să se intensifice în grădina de cactuși. Deoarece soarele apune în jurul orei 17:00, planificăm vizita la plajă mai devreme. Un pulover ușor este necesar după lăsarea întunericului, când temperatura scade rapid pe mal.",
+            "en": "The winter morning is mild and perfect for exploring the Art District. At noon, we enjoy the pleasant sun by the estuary before the cool afternoon breeze picks up in the cactus garden. Since the sun sets around 17:00, we plan the beach visit early. A light sweater is essential for the coastal chill that sets in immediately after the beautiful winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Corsica",
+                "hu": "Corsica",
+                "ro": "Corsica",
+                "en": "Corsica"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht, das die Details der Kunstwerke in der Galerie perfekt zur Geltung bringt; die kühleren Temperaturen machen den Fußweg dorthin sehr angenehm.",
+                "hu": "Használja ki a tiszta téli fényt, amely tökéletesen kiemeli a műalkotások részleteit; a hűvösebb reggeli hőmérséklet miatt a galériához vezető séta rendkívül felfrissítő lesz.",
+                "ro": "Profitate de lumina clară de iarnă care evidențiază detaliile operelor de artă din galerie; temperaturile răcoroase fac plimbarea până aici foarte plăcută și revigorantă.",
+                "en": "Take advantage of the clear winter light that perfectly highlights the details of the art; the cooler morning temperatures make the walk to the gallery very pleasant and easy."
+              }
+            },
+            {
+              "name": {
+                "de": "Bruno Pegoretti Gallery",
+                "hu": "Bruno Pegoretti Gallery",
+                "ro": "Bruno Pegoretti Gallery",
+                "en": "Bruno Pegoretti Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die milden Innentemperaturen bieten eine perfekte Pause von der winterlichen Meeresbrise; bewundern Sie die Skulpturen in Ruhe, da die Touristenzahlen im Winter moderat sind.",
+                "hu": "A kellemes belső hőmérséklet tökéletes menedéket nyújt a téli tengeri szellő elől; csodálja meg a szobrokat nyugodt körülmények között, mivel télen kevesebb a látogató a városban.",
+                "ro": "Temperaturile interioare plăcute oferă o pauză perfectă de briza mării de iarnă; admirați sculpturile în liniște, profitând de numărul moderat de turiști din acest sezon.",
+                "en": "The mild indoor temperatures provide a perfect break from the winter sea breeze; admire the sculptures in peace, taking advantage of the moderate tourist crowds during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Estuary bird lookout",
+                "hu": "Estuary bird lookout",
+                "ro": "Estuary bird lookout",
+                "en": "Estuary bird lookout"
+              },
+              "tip_5lang": {
+                "de": "Winter ist die beste Zeit für die Vogelbeobachtung, da viele Zugvögel hier rasten; besuchen Sie den Aussichtspunkt mittags, um die maximale Sonnenwärme auszunutzen.",
+                "hu": "A tél a legjobb időszak a madárlesre, mivel sok vándormadár itt pihen meg; látogasson el ide délben, hogy kihasználja a nap melegét, mielőtt a torkolatvidék árnyékba borulna.",
+                "ro": "Iarna este cel mai bun moment pentru observarea păsărilor migratoare care se opresc aici; vizitați punctul de observare la prânz pentru a beneficia de căldura maximă a soarelui.",
+                "en": "Winter is the peak season for birdwatching as many migratory species rest here; visit at noon to enjoy the maximum solar warmth before the estuary area cools down in the shadow."
+              }
+            },
+            {
+              "name": {
+                "de": "Cactus sanctuary",
+                "hu": "Cactus sanctuary",
+                "ro": "Cactus sanctuary",
+                "en": "Cactus sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang durch den Garten ohne die extreme Sommerhitze; beachten Sie, dass es am späten Nachmittag im Schatten der Kakteen merklich kühler werden kann.",
+                "hu": "Élvezze a kerti sétát az extrém nyári hőség nélkül; vegye figyelembe, hogy késő délután a kaktuszok árnyékában a hőmérséklet gyorsan csökkenhet, így érdemes rétegesen öltözni.",
+                "ro": "Bucurați-vă de plimbarea prin grădină fără căldura extremă a verii; rețineți că după-amiaza târziu, la umbra cactușilor, temperatura poate scădea sesizabil, deci purtați straturi.",
+                "en": "Enjoy the garden walk without the intense summer heat; keep in mind that in the late afternoon, the shade of the cacti can feel quite chilly, so dressing in layers is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Hotelera",
+                "hu": "Playa Hotelera",
+                "ro": "Playa Hotelera",
+                "en": "Playa Hotelera"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt vom Strand aus; bringen Sie eine Jacke mit, da der Wind vom Ozean im Winter nach Einbruch der Dunkelheit auffrischt.",
+                "hu": "Nézze meg a korai, 17:00 körüli naplementét közvetlenül a partról; hozzon magával dzsekit, mert a tenger felől érkező szél sötétedés után jelentősen lehűti a levegőt télen.",
+                "ro": "Admirați apusul devreme, în jur de ora 17:00, direct de pe plajă; aduceți o jachetă, deoarece vântul dinspre ocean se intensifică și devine rece după lăsarea întunericului.",
+                "en": "Catch the early sunset around 17:00 directly from the beach; bring a jacket as the ocean breeze picks up significantly and feels quite cold after dark during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen végig a nyüzsgő belvárosi művészeti galériákon, hogy San José kulturális reggelével kezdje a napot. Délre lovagoljon le a torkolathoz és a botanikus kertekhez. Töltse a délutánt az élénk kikötői hangulat élvezetével, amely egy gyönyörű estébe torkollik a varázslatos tengeri teknősök szabadon engedésével a parton.",
         "ro": "Pedați prin galeriile de artă vibrante din centrul orașului pentru a vă începe dimineața culturală. Până la prânz, mergeți spre estuar și grădinile botanice luxuriante, unde natura este în centrul atenției. Petreceți după-amiaza bucurându-vă de atmosfera plină de viață a portului, culminând cu o seară frumoasă pe plajă.",
         "en": "Pedal through the vibrant downtown art galleries to start your cultural morning in San José. By noon, ride down to the estuary and the lush botanical gardens where nature takes center stage. Spend your afternoon enjoying the lively marina atmosphere, culminating in a beautiful evening witnessing the magical sea turtle release on the shore."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren bei Regen erfordert in San José Vorsicht, besonders auf den glatten Straßen der Altstadt. Wir starten bei den Galerien, wo wir längere Pausen im Trockenen einplanen. Mittags führt die Tour zum Ästuar, wo wir auf den schlammigen Wegen achtsam fahren müssen. Der Nachmittag führt uns zur Marina, immer bereit für einen schnellen Unterschlupf bei plötzlichen Güssen.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel, főleg az óváros csúszós kövein. A galériáknál kezdünk, hosszabb pihenőket tartva a fedett részeken. Délben a torkolat felé tekerünk, figyelve a sárosabb szakaszokra. Délután a Marina felé vesszük az irányt, mindig készen állva, hogy behúzódjunk valahová egy hirtelen zivatar elől.",
+            "ro": "Ciclismul pe ploaie necesită prudență, mai ales pe străzile alunecoase din orașul vechi. Începem la galerii, unde planificăm pauze lungi la adăpost. La prânz, turul continuă spre estuar, unde trebuie să pedalăm cu grijă pe porțiunile noroioase. După-amiaza mergem spre Marina, fiind mereu pregătiți să găsim un refugiu rapid în caz de aversă.",
+            "en": "Cycling in the rain requires caution, especially on the slippery streets of the old town. We start at the galleries, planning longer breaks indoors. At noon, the tour leads to the estuary, where we must navigate muddy paths carefully. The afternoon takes us toward the Marina, staying alert for quick shelter options during sudden tropical downpours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bruno Pegoretti Gallery",
+                "hu": "Bruno Pegoretti Gallery",
+                "ro": "Bruno Pegoretti Gallery",
+                "en": "Bruno Pegoretti Gallery"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem geschützten Ort und genießen Sie die Kunst, während Sie auf eine Regenpause warten; achten Sie beim Absteigen auf den rutschigen Boden.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és élvezze a művészetet, amíg eláll az eső; leszálláskor ügyeljen a csúszós aszfaltra a galéria bejárata előtt.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de artă în timp ce așteptați oprirea ploii; atenție la coborâre, deoarece solul poate fi foarte alunecos.",
+                "en": "Park your bike in a sheltered spot and enjoy the art while waiting for a break in the rain; be careful when dismounting as the ground can be very slippery nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Corsica",
+                "hu": "Corsica",
+                "ro": "Corsica",
+                "en": "Corsica"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine perfekte Gelegenheit, die Kleidung zu trocknen; prüfen Sie vor der Weiterfahrt Ihre Bremsen, da Felgenbremsen bei Nässe verzögert reagieren können.",
+                "hu": "A galéria kiváló alkalom a ruházat megszárítására; továbbindulás előtt ellenőrizze a fékeket, mert a vizes felniken a fékhatás jelentősen csökkenhet az esőben.",
+                "ro": "Galeria oferă o ocazie excelentă de a vă usca echipamentul; înainte de a pleca, verificați frânele, deoarece eficiența lor scade pe jantele ude în timpul ploii.",
+                "en": "The gallery provides a great opportunity to dry off your gear; before continuing, check your brakes as wet rims can significantly delay stopping power in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Estuary bird lookout",
+                "hu": "Estuary bird lookout",
+                "ro": "Estuary bird lookout",
+                "en": "Estuary bird lookout"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den Holzstegen extrem vorsichtig oder schieben Sie das Rad; der Blick auf die Vögel im Regen ist einzigartig, aber Sicherheit geht auf den glatten Wegen vor.",
+                "hu": "A fapadlókon tekerjen rendkívül óvatosan, vagy tolja a kerékpárt; az esőben ázó madarak látványa egyedülálló, de a biztonság az első a csúszós ösvényeken.",
+                "ro": "Pedalați extrem de atent pe podețele de lemn sau împingeți bicicleta; vederea păsărilor în ploaie este unică, dar siguranța este prioritară pe traseele alunecoase.",
+                "en": "Ride extremely carefully on the wooden planks or push your bike; seeing the birds in the rain is unique, but safety comes first on these slippery surfaces today."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirikuta",
+                "hu": "Wirikuta",
+                "ro": "Wirikuta",
+                "en": "Wirikuta"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den größeren Palmen Schutz, falls ein Schauer einsetzt; die sandigen Wege im Garten können bei Regen weich werden, fahren Sie daher mit niedrigem Reifendruck.",
+                "hu": "Keressen menedéket a nagyobb pálmák alatt, ha elered az eső; a kert homokos ösvényei felázhatnak, így érdemes lassabban haladni a stabilabb irányítás érdekében.",
+                "ro": "Căutați adăpost sub palmierii mari dacă începe o aversă; potecile cu nisip din grădină pot deveni moi la ploaie, așa că pedalați cu prudență pentru stabilitate.",
+                "en": "Seek shelter under the larger palms if a heavy shower starts; the sandy garden paths can become soft when wet, so maintain a steady but cautious pace for balance."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Beach",
+                "hu": "Marina Beach",
+                "ro": "Marina Beach",
+                "en": "Marina Beach"
+              },
+              "tip_5lang": {
+                "de": "Die befestigten Wege an der Marina sind bei Regen besser befahrbar als Strandpfade; nutzen Sie die überdachten Bereiche der Restaurants, um den Blick auf das Meer zu genießen.",
+                "hu": "A Marina kövezett útjai esőben is jól járhatóak maradnak; használja a közeli éttermek fedett teraszait, hogy szárazon élvezhesse a kikötő és a tenger látványát.",
+                "ro": "Aleea pavată de la Marina este mai ușor de parcurs pe ploaie decât potecile de plajă; folosiți zonele acoperite ale restaurantelor pentru a admira marea fără a vă uda.",
+                "en": "The paved paths at the Marina are much easier to cycle on in the rain than sandy trails; use the covered restaurant areas to enjoy the sea view while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "liberacion de tortugas",
+                "hu": "liberacion de tortugas",
+                "ro": "liberacion de tortugas",
+                "en": "liberacion de tortugas"
+              },
+              "tip_5lang": {
+                "de": "Erkundigen Sie sich vorab, ob die Freilassung bei starkem Regen stattfindet; tragen Sie eine helle Regenjacke, damit Sie für andere Verkehrsteilnehmer gut sichtbar sind.",
+                "hu": "Érdeklődjön előre, hogy erős esőben is megtartják-e a teknőskieresztést; viseljen élénk színű esőátvetőt, hogy a kerékpáron jól látható maradjon a szürke időben is.",
+                "ro": "Informați-vă din timp dacă eliberarea țestoaselor are loc pe ploaie puternică; purtați o pelerină reflectorizantă pentru a fi vizibil în trafic pe timp de vizibilitate redusă.",
+                "en": "Check in advance if the turtle release is still scheduled during heavy rain; wear a bright raincoat to ensure you remain visible to others while cycling in gray weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die ideale Jahreszeit für eine Radtour in San José, da die Temperaturen angenehm kühl sind. Wir erkunden die Galerien am Vormittag und radeln mittags entspannt zum Ästuar. Die Nachmittagssonne in Wirikuta ist herrlich, aber wir müssen die Zeit im Auge behalten. Da es um 17:00 Uhr dunkel wird, sollten die Fahrräder unbedingt mit funktionierendem Licht ausgestattet sein.",
+            "hu": "A tél a legjobb időszak egy kerékpáros túrához, mivel a hőmérséklet nem túl magas. Délelőtt a galériákat látogatjuk meg, délben pedig kényelmesen eltekerünk a torkolathoz. A Wirikuta délutáni napsütése csodás, de figyelni kell az időt. Mivel 17:00 körül sötétedik, a kerékpároknak mindenképpen rendelkezniük kell jól működő világítással.",
+            "ro": "Iarna este anotimpul ideal pentru un tur cu bicicleta, deoarece temperaturile sunt foarte plăcute. Explorăm galeriile dimineața și pedalăm relaxat spre estuar la prânz. Soarele de după-amiază în Wirikuta este superb, dar trebuie să urmărim timpul. Deoarece se întunecă la ora 17:00, bicicletele trebuie să fie dotate obligatoriu cu lumini funcționale.",
+            "en": "Winter is the prime season for a bike tour in San José, thanks to the pleasantly cool temperatures. We visit the galleries in the morning and cycle comfortably to the estuary at noon. The afternoon sun in Wirikuta is beautiful, but keep an eye on the clock. Since it gets dark by 17:00, ensure your bike is equipped with reliable working lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bruno Pegoretti Gallery",
+                "hu": "Bruno Pegoretti Gallery",
+                "ro": "Bruno Pegoretti Gallery",
+                "en": "Bruno Pegoretti Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft ist perfekt für die Fahrt zum Art District; parken Sie das Rad in der Sonne, um die Wärme bei der Rückkehr zu genießen.",
+                "hu": "A hűvös reggeli levegő ideális a művésznegyedbe való tekeréshez; parkolja a kerékpárt napos helyre, hogy kellemesen meleg legyen, amikor újra nyeregbe száll.",
+                "ro": "Aerul răcoros de dimineață este perfect pentru drumul spre cartierul artei; parcați bicicleta la soare pentru a vă bucura de căldură la plecare.",
+                "en": "The cool morning air is ideal for cycling to the Art District; park your bike in a sunny spot so it feels warm and comfortable when you return to ride again."
+              }
+            },
+            {
+              "name": {
+                "de": "Corsica",
+                "hu": "Corsica",
+                "ro": "Corsica",
+                "en": "Corsica"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die moderate Wintersonne für eine Pause vor der Galerie; die Fahrt durch die Stadt ist jetzt ohne die extreme Hitze viel weniger anstrengend.",
+                "hu": "Használja ki a mérsékelt téli napsütést egy rövid pihenőre a galéria előtt; a városi tekerés most a rekkenő hőség nélkül sokkal kevésbé fárasztó és megterhelő.",
+                "ro": "Profitați de soarele moderat de iarnă pentru o pauză în fața galeriei; pedalatul prin oraș este acum mult mai puțin obositor fără căldura extremă a verii.",
+                "en": "Take advantage of the mild winter sun for a short break outside the gallery; cycling through town is much less exhausting now without the intense summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Estuary bird lookout",
+                "hu": "Estuary bird lookout",
+                "ro": "Estuary bird lookout",
+                "en": "Estuary bird lookout"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege entlang des Ästuars bieten im Winter die beste Sicht auf Zugvögel; nehmen Sie eine leichte Windjacke für die schattigen Abschnitte mit.",
+                "hu": "A torkolat menti kerékpárutak télen kínálják a legjobb kilátást a vándormadarakra; vigyen magával egy könnyű széldzsekit az útvonal árnyékosabb szakaszaira.",
+                "ro": "Pistele de biciclete de-a lungul estuarului oferă iarna cea mai bună vedere a păsărilor migratoare; luați o jachetă ușoară pentru porțiunile umbrite ale drumului.",
+                "en": "The cycling paths along the estuary offer the best birdwatching opportunities in winter; carry a light windbreaker for the shadier sections of the route."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirikuta",
+                "hu": "Wirikuta",
+                "ro": "Wirikuta",
+                "en": "Wirikuta"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten im Kaktusgarten, ideal für Fotos; achten Sie auf die Zeit, da es nach 16:30 Uhr schnell kühler wird.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a kaktuszkertben, ami tökéletes fotótéma; ügyeljen az időre, mert 16:30 után a levegő hirtelen hűlni kezd.",
+                "ro": "Soarele de iarnă jos creează umbre lungi în grădina de cactuși, ideal pentru fotografii; atenție la timp, deoarece după ora 16:30 se răcește brusc.",
+                "en": "The low winter sun casts long, dramatic shadows in the cactus garden, perfect for photography; watch the time, as it cools down rapidly after 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Marina Beach",
+                "hu": "Marina Beach",
+                "ro": "Marina Beach",
+                "en": "Marina Beach"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich ein warmes Getränk an der Marina, während Sie den Ozean beobachten; das Radfahren am Strand ist bei der kühlen Brise sehr erfrischend.",
+                "hu": "Igyon meg egy forró italt a kikötőben, miközben az óceánt figyeli; a tengerparti tekerés a hűvös téli szellőben rendkívül frissítő és élénkítő élmény.",
+                "ro": "Savurați o băutură caldă la Marina în timp ce priviți oceanul; pedalatul pe malul mării în briza răcoroasă de iarnă este o experiență foarte revigorantă.",
+                "en": "Treat yourself to a warm drink at the Marina while watching the ocean; cycling along the coast in the cool winter breeze is incredibly refreshing and energizing."
+              }
+            },
+            {
+              "name": {
+                "de": "liberacion de tortugas",
+                "hu": "liberacion de tortugas",
+                "ro": "liberacion de tortugas",
+                "en": "liberacion de tortugas"
+              },
+              "tip_5lang": {
+                "de": "Die Freilassung findet oft kurz vor Sonnenuntergang statt; schalten Sie für den Rückweg unbedingt Ihr Licht ein, da es im Winter sehr schnell dunkel wird.",
+                "hu": "A teknőskieresztés gyakran közvetlenül naplemente előtt történik; a hazaúthoz mindenképpen kapcsolja be a lámpákat, mert télen percek alatt besötétedik.",
+                "ro": "Eliberarea țestoaselor are loc adesea chiar înainte de apus; porniți obligatoriu luminile pentru drumul de întoarcere, deoarece iarna se întunecă extrem de rapid.",
+                "en": "The turtle release often happens just before sunset; make sure to turn on your bike lights for the ride back, as darkness falls very quickly in the winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Hajtson fel a dombokra korán a lélegzetelállító panorámáért, mielőtt leereszkedne a nyüzsgő művészeti életbe. A dél folyamán a torkolat mellett az exkluzív parti klubok felé vezet az út. Késő délután fejezze be kalandját a félreeső keleti partokon, hogy egy felejthetetlen naplementének legyen szemtanúja.",
         "ro": "Conduceți devreme pe dealurile naturale pentru vederi panoramice uluitoare înainte de a coborî în scena de artă aglomerată a orașului. Prânzul aduce o călătorie fără probleme pe lângă estuar către cluburile exclusiviste de pe coastă. După-amiaza târziu, încheiați-vă aventura pe țărmurile estice izolate pentru un apus de soare de neuitat.",
         "en": "Drive up to the natural hills early for breathtaking panoramic views before descending into the town’s bustling art scene. Midday brings a seamless journey past the estuary towards the exclusive beach clubs along the coast. In the late afternoon, wind down your adventure on the secluded eastern shores to witness an unforgettable sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man bei Regen in San José am sichersten unterwegs, muss aber auf plötzliche Überflutungen in den Arroyos achten. Den Vormittag verbringen wir in den Galerien, sicher geparkt in der Nähe. Mittags bietet das Auto Schutz bei der Fahrt zum Ästuar. Der Nachmittag führt uns zu exklusiven Strandclubs, wo wir den Regen von der trockenen Lounge aus beobachten.",
+            "hu": "Autóval a legbiztonságosabb az utazás esőben, de ügyelni kell a hirtelen kialakuló vízátfolyásokra az utakon. A délelőttöt galériákban töltjük, közel parkolva a bejárathoz. Délben az autó menedéket nyújt a torkolat felé vezető úton. Délután exkluzív strandklubokba látogatunk, ahol a száraz társalgóból figyeljük az eső és a tenger találkozását.",
+            "ro": "Cu mașina sunteți cel mai în siguranță pe ploaie în San José, dar atenție la inundațiile bruște pe șosele. Dimineața o petrecem în galerii, parcând cât mai aproape. La prânz, mașina oferă protecție în drum spre estuar. După-amiaza mergem la cluburi de plajă exclusiviste, unde admirăm ploaia din confortul unui lounge uscat.",
+            "en": "The car is the safest way to travel during San José's rainy season, but watch out for sudden flash floods in the arroyos. We spend the morning in galleries, parked conveniently close. At noon, the car keeps us dry on the way to the estuary. The afternoon takes us to upscale beach clubs, where we watch the rain from the comfort of a dry lounge area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cerro de las Chivas",
+                "hu": "Cerro de las Chivas",
+                "ro": "Cerro de las Chivas",
+                "en": "Cerro de las Chivas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem trockenen Fahrzeug; steigen Sie nur kurz aus, da die unbefestigten Wege am Hügel bei Regen sehr rutschig und schlammig werden.",
+                "hu": "Élvezze a panorámát a száraz autó ablakából; csak rövid időre szálljon ki, mert a dombra vezető földutak esőben rendkívül csúszóssá és sárossá válhatnak.",
+                "ro": "Bucurați-vă de panorama din interiorul uscat al vehiculului; coborâți doar scurt, deoarece drumurile de pământ de pe deal devin foarte noroioase și alunecoase.",
+                "en": "Enjoy the panoramic view from the dry comfort of your car; step out only briefly as the unpaved paths on the hill become very slippery and muddy when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Corsica",
+                "hu": "Corsica",
+                "ro": "Corsica",
+                "en": "Corsica"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie nahegelegene Parkplätze, um den Fußweg im Regen zu minimieren; die Galerie ist ein idealer Ort, um einen starken Schauer bei hochwertiger Kunst abzuwarten.",
+                "hu": "Használja a közeli parkolóhelyeket, hogy minimálisra csökkentse az esőben való gyaloglást; a galéria tökéletes hely egy intenzívebb zápor átvészelésére a művek között.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru a minimiza mersul prin ploaie; galeria este locul ideal pentru a aștepta trecerea unei averse puternice admirând arta.",
+                "en": "Use nearby parking spots to minimize walking in the rain; the gallery is an ideal place to wait out a heavy downpour while surrounded by high-quality contemporary art."
+              }
+            },
+            {
+              "name": {
+                "de": "Estuary bird lookout",
+                "hu": "Estuary bird lookout",
+                "ro": "Estuary bird lookout",
+                "en": "Estuary bird lookout"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig zum Parkplatz am Ästuar, da sich dort bei Regen oft tiefe Pfützen bilden; beobachten Sie die Vögel kurz und kehren Sie dann ins trockene Auto zurück.",
+                "hu": "Hajtson óvatosan a torkolat melletti parkolóba, mert ott esőben mély tócsák alakulhatnak ki; figyelje meg a madarakat, majd térjen vissza a száraz utastérbe.",
+                "ro": "Conduceți cu atenție spre parcarea de la estuar, deoarece se pot forma bălți adânci; observați păsările scurt și reveniți apoi în interiorul uscat al mașinii.",
+                "en": "Drive carefully to the estuary parking area as deep puddles often form there in the rain; observe the birds briefly and then return to the dry comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirikuta",
+                "hu": "Wirikuta",
+                "ro": "Wirikuta",
+                "en": "Wirikuta"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten zwischen den Regenschauern; das Auto bietet den perfekten Stauraum für nasse Regenschirme und zusätzliche trockene Kleidung zum Wechseln.",
+                "hu": "Látogassa meg a kertet két zápor között; az autó tökéletes tárolóhely a vizes esernyőknek és a váltás száraz ruhának, ha mégis elázna a séta közben.",
+                "ro": "Vizitați grădina între reprizele de ploaie; mașina oferă locul perfect pentru a depozita umbrelele ude și hainele de schimb uscate în caz de nevoie.",
+                "en": "Visit the garden between showers; the car provides the perfect storage for wet umbrellas and a change of dry clothes if you happen to get caught in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundadores Beach Club",
+                "hu": "Fundadores Beach Club",
+                "ro": "Fundadores Beach Club",
+                "en": "Fundadores Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie beim Valet-Service, um trocken ins Innere zu gelangen; genießen Sie das Mittagessen mit Blick auf den regnerischen Ozean von der geschützten Terrasse aus.",
+                "hu": "Használja a valet parkolást, hogy szárazon jusson be az épületbe; élvezze az ebédet a fedett teraszon, miközben az esős óceán látványában gyönyörködik.",
+                "ro": "Folosiți serviciul de valet parking pentru a intra uscat; savurați prânzul pe terasa acoperită, admirând vederea spre oceanul agitat sub ploaia tropicală.",
+                "en": "Use the valet parking service to stay dry when entering; enjoy your lunch on the covered terrace while admiring the view of the rainy ocean in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Estuary Beach",
+                "hu": "Estuary Beach",
+                "ro": "Estuary Beach",
+                "en": "Estuary Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken in der Nähe von Sandflächen, da die Gefahr des Festfahrens bei nassem Boden steigt; genießen Sie die kühle Meeresluft bei leicht geöffnetem Fenster.",
+                "hu": "Kerülje a homokos területek melletti parkolást, mert a nedves talajon megnő az elakadás veszélye; élvezze a friss tengeri levegőt az autó félig lehúzott ablakán keresztül.",
+                "ro": "Evitați parcarea aproape de zonele cu nisip, deoarece riscul de a rămâne blocat crește pe sol ud; savurați aerul proaspăt marin cu geamul mașinii ușor deschis.",
+                "en": "Avoid parking near sandy patches as the risk of getting stuck increases on wet ground; enjoy the fresh sea breeze through a slightly opened car window instead."
+              }
+            },
+            {
+              "name": {
+                "de": "liberacion de tortugas",
+                "hu": "liberacion de tortugas",
+                "ro": "liberacion de tortugas",
+                "en": "liberacion de tortugas"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, bis die Aktion beginnt, um nicht unnötig nass zu werden; prüfen Sie bei der Abfahrt die Sichtverhältnisse durch die beschlagenen Scheiben.",
+                "hu": "Maradjon az autóban az esemény kezdetéig, hogy ne ázzon el feleslegesen; indulás előtt győződjön meg róla, hogy a páramentesítő megfelelően tisztítja a szélvédőt.",
+                "ro": "Rămâneți în mașină până la începerea evenimentului pentru a nu vă uda inutil; înainte de plecare, asigurați-vă că sistemul de dezaburire funcționează corect.",
+                "en": "Stay inside your car until the release begins to avoid getting wet; before driving off, ensure your defroster is clearing the foggy windshield for good visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch San José ist purer Genuss bei milden Temperaturen. Vormittags besuchen wir die Galerien und genießen den Komfort der Klimatisierung, falls die Wintersonne doch kräftiger scheint. Nach einem entspannten Mittagessen am Strandclub nutzen wir das Auto, um rechtzeitig vor dem frühen Sonnenuntergang um 17:00 Uhr die besten Aussichtspunkte zu erreichen.",
+            "hu": "A téli autós körút San Joséban tiszta élvezet az enyhe időben. Délelőtt a galériákat látogatjuk meg, élvezve az autó kényelmét a helyszínek között. Egy pihentető tengerparti ebéd után az autóval gyorsan elérjük a legjobb kilátópontokat, hogy még a korai, 17:00-ás naplemente előtt megcsodálhassuk a tájat a lemenő nap fényében.",
+            "ro": "Un tur cu mașina prin San José iarna este o plăcere pură datorită temperaturilor blânde. Dimineața vizităm galeriile, profitând de confortul vehiculului între opriri. După un prânz relaxant la clubul de plajă, folosim mașina pentru a ajunge rapid la cele mai bune puncte de belvedere înainte de apusul devreme de la ora 17:00.",
+            "en": "A winter driving tour through San José is pure enjoyment in the mild weather. In the morning, we visit the galleries, using the car to easily hop between spots. After a relaxing beach club lunch, the car allows us to reach the best viewpoints just in time for the early winter sunset at 17:00, before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cerro de las Chivas",
+                "hu": "Cerro de las Chivas",
+                "ro": "Cerro de las Chivas",
+                "en": "Cerro de las Chivas"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet die beste Fernsicht vom Hügel; nutzen Sie die Auffahrt mit dem Auto, um den anstrengenden Aufstieg in der Mittagssonne zu vermeiden.",
+                "hu": "A tiszta téli levegő biztosítja a legjobb kilátást a dombtetőről; használja az autóutat a feljutáshoz, így elkerülheti a fárasztó hegyi túrát a déli napsütésben.",
+                "ro": "Aerul clar de iarnă oferă cea mai bună vizibilitate de pe deal; folosiți accesul auto pentru a evita urcarea obositoare sub soarele puternic de la amiază.",
+                "en": "The clear winter air provides the best long-distance views from the hill; drive to the top to avoid an exhausting hike during the peak midday solar intensity."
+              }
+            },
+            {
+              "name": {
+                "de": "Corsica",
+                "hu": "Corsica",
+                "ro": "Corsica",
+                "en": "Corsica"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den schattigen Gassen des Art Districts; die angenehmen Temperaturen im Winter machen den kurzen Weg vom Parkplatz zur Galerie sehr komfortabel.",
+                "hu": "Parkoljon a művésznegyed árnyékos utcáin; a kellemes téli hőmérséklet miatt a parkolótól a galériáig tartó rövid séta kifejezetten kényelmes és élvezetes lesz.",
+                "ro": "Parcați pe străzile umbrite ale cartierului artei; temperaturile plăcute de iarnă fac scurta plimbare de la parcare la galerie foarte confortabilă și relaxantă.",
+                "en": "Park in the shaded streets of the Art District; the pleasant winter temperatures make the short walk from your car to the gallery very comfortable and easy."
+              }
+            },
+            {
+              "name": {
+                "de": "Estuary bird lookout",
+                "hu": "Estuary bird lookout",
+                "ro": "Estuary bird lookout",
+                "en": "Estuary bird lookout"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist die beste Zeit für einen Stopp, wenn die Wintersonne am wärmsten ist; lassen Sie keine Wertsachen sichtbar im Auto liegen, während Sie die Vögel beobachten.",
+                "hu": "A délidő a legalkalmasabb a látogatásra, amikor a téli nap a legmelegebb; ne hagyjon értéktárgyakat látható helyen az autóban, amíg a madármegfigyelőnél tartózkodik.",
+                "ro": "Amiaza este cel mai bun moment pentru oprire, când soarele de iarnă e cel mai cald; nu lăsați obiecte de valoare la vedere în mașină în timp ce observați păsările.",
+                "en": "Noon is the best time for a stop when the winter sun is at its warmest; ensure no valuables are left visible in the car while you are busy at the lookout point."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirikuta",
+                "hu": "Wirikuta",
+                "ro": "Wirikuta",
+                "en": "Wirikuta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Blütenpracht einiger Kakteenarten; die Fahrt zum Garten ist jetzt ohne die Hitze des Sommers viel entspannter für Motor und Passagiere.",
+                "hu": "Élvezze néhány kaktuszfaj téli virágzását; a kertbe vezető autóút a nyári hőség nélkül sokkal pihentetőbb mind az utasok, mind a jármű motorja számára.",
+                "ro": "Bucurați-vă de înflorirea de iarnă a unor specii de cactuși; drumul spre grădină este acum mult mai relaxant pentru pasageri și vehicul, fără căldura verii.",
+                "en": "Enjoy the winter blooms of certain cacti species; the drive to the garden is much more relaxing for both passengers and the car's engine without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundadores Beach Club",
+                "hu": "Fundadores Beach Club",
+                "ro": "Fundadores Beach Club",
+                "en": "Fundadores Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den Nachmittag am Pool, solange die Sonne scheint; planen Sie die Abfahrt rechtzeitig vor 17:00 Uhr, wenn es merklich kühler wird.",
+                "hu": "Töltse a délutánt a medence mellett, amíg süt a nap; tervezze meg az indulást legkésőbb 17:00-ig, mert utána a hőmérséklet érezhetően és gyorsan csökkenni kezd.",
+                "ro": "Petreceți după-amiaza la piscină cât timp soarele este sus; planificați plecarea înainte de ora 17:00, când temperatura începe să scadă sesizabil și rapid.",
+                "en": "Spend the afternoon by the pool while the sun is still out; plan to leave before 17:00 as the air temperature drops noticeably and quickly once the sun sets."
+              }
+            },
+            {
+              "name": {
+                "de": "Estuary Beach",
+                "hu": "Estuary Beach",
+                "ro": "Estuary Beach",
+                "en": "Estuary Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie fest auf den markierten Flächen; die kühle Meeresbrise im Winter ist perfekt für einen kurzen Spaziergang am Ufer vor der Weiterfahrt.",
+                "hu": "Parkoljon stabilan a kijelölt helyeken; a hűvös téli tengeri szellő tökéletes egy rövid parti sétához, mielőtt folytatná útját a következő megálló felé.",
+                "ro": "Parcați pe locurile marcate; briza răcoroasă a mării de iarnă este perfectă pentru o scurtă plimbare pe mal înainte de a continua drumul cu mașina.",
+                "en": "Park securely in the designated areas; the cool winter sea breeze is perfect for a brisk walk along the shore before you continue your driving tour."
+              }
+            },
+            {
+              "name": {
+                "de": "liberacion de tortugas",
+                "hu": "liberacion de tortugas",
+                "ro": "liberacion de tortugas",
+                "en": "liberacion de tortugas"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie warme Kleidung für den Aufenthalt im Freien mit; nutzen Sie die Sitzheizung auf dem Rückweg, da die Temperaturen nach Sonnenuntergang schnell fallen.",
+                "hu": "Hozzon magával meleg ruhát a kinti programhoz; használja az ülésfűtést a visszaúton, mivel a naplemente után a hőmérséklet rendkívül gyorsan zuhan télen.",
+                "ro": "Luați haine groase pentru timpul petrecut afară; folosiți încălzirea în scaune la întoarcere, deoarece temperaturile scad drastic după apusul soarelui.",
+                "en": "Bring warm layers for the outdoor activity; use the seat heaters on the drive back as temperatures drop drastically and quickly after the winter sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

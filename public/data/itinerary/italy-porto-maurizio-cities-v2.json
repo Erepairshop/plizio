@@ -160,6 +160,196 @@
         "hu": "Reggel: Kezdje a napot a lenyűgöző Duomo-nál, majd merüljön el a helyi hagyományokban a közeli Betlehem Múzeumban, élvezve a nyugodt reggeli hangulatot. Dél: Sétáljon végig a Parasio negyed kanyargós sikátorain, hogy felfedezze a bájos Oratorio di San Pietro-t és a Chiesa di San Leonardo-t. Délután: Ereszkedjen le a Teatro Cavour klasszikus épületéhez, majd töltsön el néhány órát a kiterjedt Tengerészeti Múzeumban. Este: Élvezze a kellemes sétát a kikötőben, és kóstoljon meg néhány friss liguriai tengeri herkentyűt egy vízparti trattoriában a naplementében.",
         "ro": "Dimineața: Începeți la impresionantul Duomo, lăsând interiorul său luminos să seteze un ton măreț, înainte de a descoperi tradițiile locale la Muzeul Nașterii Domnului. Prânz: Plimbați-vă pe aleile șerpuite ale cartierului Parasio pentru a găsi fermecătorul Oratoriu San Pietro și Biserica San Leonardo. După-amiaza: Coborâți pentru a vedea clasicul Teatro Cavour, înainte de a petrece câteva ore captivante la Muzeul Naval. Seara: Bucurați-vă de o plimbare plăcută pe lângă portul de agrement, gustând fructe de mare proaspete la o trattoria pe malul apei la apus.",
         "en": "Morning: Begin at the awe-inspiring Duomo, letting its massive pillars and bright interior set a grand tone. Shortly after, dive into local traditions at the nearby Nativity Museum. Midday: Wander through the winding alleys of the Parasio district to find the charming Oratorio di San Pietro and Chiesa di San Leonardo. Afternoon: Descend towards the lively central areas to view the classic Teatro Cavour before spending a few immersive hours at the expansive Naval Museum. Evening: Enjoy a pleasant stroll down by the marina, tasting some fresh Ligurian seafood at a waterfront trattoria as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Porto Maurizio unterstreicht die dramatische Schönheit der Kathedrale. Vormittags bieten die Museen Schutz, während die engen Gassen des Parasio-Viertels teilweise Deckung bieten. Mittags empfiehlt sich ein längerer Aufenthalt in den Kirchen. Nachmittags ist die maritime Atmosphäre am Hafen trotz des grauen Himmels spürbar. Abends glänzen die nassen Pflastersteine unter den Laternen.",
+            "hu": "Az esős idő Porto Maurizióban különleges, melankolikus bájt kölcsönöz a Parasio ódon utcáinak. Reggel a dóm monumentális tere nyújt menedéket, délben pedig a múzeumok fedett tárlatai között böngészhetünk. Délután a kikötő környéke a tenger illatával telik meg a csapadék hatására. Este a vizes macskaköveken megcsillanó fények teszik romantikussá a városnézést, de vigyázzon a csúszós lépcsőkkel.",
+            "ro": "O zi ploioasă în Porto Maurizio evidențiază frumusețea dramatică a catedralei. Dimineața, muzeele oferă adăpost, în timp ce străzile înguste din cartierul Parasio oferă o protecție parțială. La prânz, se recomandă o ședere prelungită în biserici. După-amiaza, atmosfera maritimă din port este perceptibilă în ciuda cerului gri. Seara, pavajul umed strălucește sub lumina felinarelor.",
+            "en": "A rainy day in Porto Maurizio highlights the dramatic beauty of the cathedral. In the morning, museums provide shelter, while the narrow alleys of the Parasio district offer partial cover. At noon, a longer stay in the churches is recommended. In the afternoon, the maritime atmosphere at the port is palpable despite the gray skies. In the evening, the wet cobblestones glisten under the streetlamps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Duomo di San Maurizio",
+                "hu": "Duomo di San Maurizio",
+                "ro": "Duomo di San Maurizio",
+                "en": "Duomo di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die monumentale Kuppel als perfekten Unterschlupf vor dem Regen; achten Sie beim Verlassen auf die extrem rutschigen Marmorstufen vor dem Haupteingang.",
+                "hu": "Használja ki a monumentális kupola nyújtotta tökéletes menedéket az eső elől; kilépéskor ügyeljen a főbejárat előtti márványlépcsőkre, melyek rendkívül csúszósak.",
+                "ro": "Folosiți cupola monumentală ca adăpost perfect împotriva ploii; la ieșire, aveți grijă la treptele de marmură din fața intrării principale, care sunt extrem de alunecoase.",
+                "en": "Use the monumental dome as a perfect shelter from the rain; when leaving, watch out for the marble steps in front of the main entrance, which become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del presepe e pinacoteca",
+                "hu": "Museo del presepe e pinacoteca",
+                "ro": "Museo del presepe e pinacoteca",
+                "en": "Museo del presepe e pinacoteca"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdischen Räume des Museums sind absolut trocken und warm; ideal, um einen heftigen Schauer abzuwarten, während man die filigranen Figuren bewundert.",
+                "hu": "A múzeum föld alatti termei teljesen szárazak és barátságosak; ideális helyszín egy nagyobb zápor kivárására a filigrán figurák megcsodálása közben.",
+                "ro": "Sălile subterane ale muzeului sunt complet uscate și primitoare; un loc ideal pentru a aștepta trecerea unei ploi torențiale în timp ce admirați figurinele filigranate.",
+                "en": "The museum's underground rooms are completely dry and cozy; an ideal place to wait out a heavy downpour while admiring the intricate figurines."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Pietro",
+                "hu": "Oratorio di San Pietro",
+                "ro": "Oratorio di San Pietro",
+                "en": "Oratorio di San Pietro"
+              },
+              "tip_5lang": {
+                "de": "Dieses Juwel bietet eine ruhige, überdachte Zuflucht; halten Sie Ihren Regenschirm bereit für den kurzen, aber exponierten Fußweg durch die engen Gassen.",
+                "hu": "Ez az ékszerdoboz csendes, fedett menedéket kínál; tartsa készenlétben az esernyőjét a szűk utcákon átvezető rövid, de nyitott szakaszokon.",
+                "ro": "Această bijuterie oferă un refugiu liniștit și acoperit; țineți umbrela la îndemână pentru porțiunile scurte, dar expuse, de pe străzile înguste.",
+                "en": "This hidden gem offers a quiet, covered refuge; keep your umbrella ready for the short but exposed walking sections through the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Leonardo",
+                "hu": "Chiesa di San Leonardo",
+                "ro": "Chiesa di San Leonardo",
+                "en": "Chiesa di San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist stimmungsvoll beleuchtet und bietet Schutz vor dem Wind; nutzen Sie die Arkaden in der Nähe, um beim Gehen trocken zu bleiben.",
+                "hu": "A belső tér hangulatosan megvilágított és védelmet nyújt a szél ellen; használja a közeli árkádokat, hogy szárazon maradjon a két megálló közötti úton.",
+                "ro": "Interiorul este iluminat atmosferic și oferă protecție împotriva vântului; folosiți arcadele din apropiere pentru a rămâne uscat în timp ce mergeți.",
+                "en": "The interior is atmospherically lit and provides protection from the wind; use the nearby arcades to stay dry while walking between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Cavour",
+                "hu": "Teatro Cavour",
+                "ro": "Teatro Cavour",
+                "en": "Teatro Cavour"
+              },
+              "tip_5lang": {
+                "de": "Ein eleganter Rückzugsort im Stadtzentrum; prüfen Sie vorher die Öffnungszeiten, da das Foyer bei Regen ein beliebter Treffpunkt für Kulturinteressierte ist.",
+                "hu": "Elegáns visszavonulási hely a városközpontban; ellenőrizze előre a nyitvatartást, mivel az előcsarnok esőben a kultúrakedvelők népszerű találkozóhelye.",
+                "ro": "Un loc de retragere elegant în centrul orașului; verificați programul în avans, deoarece foierul este un loc de întâlnire popular pentru iubitorii de cultură pe timp de ploaie.",
+                "en": "An elegant retreat in the city center; check opening hours in advance, as the foyer is a popular meeting spot for culture lovers during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo navale",
+                "hu": "Museo navale",
+                "ro": "Museo navale",
+                "en": "Museo navale"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Hallen sind perfekt für einen langen Nachmittag im Trockenen; die maritimen Exponate wirken bei Regenwetter besonders authentisch.",
+                "hu": "A tágas csarnokok tökéletesek egy hosszú, száraz délutánhoz; a tengerészeti kiállítási tárgyak esős időben különösen hiteles hangulatot árasztanak.",
+                "ro": "Halele spațioase sunt perfecte pentru o după-amiază lungă la adăpost; exponatele maritime par deosebit de autentice pe vreme ploioasă.",
+                "en": "The spacious halls are perfect for a long afternoon indoors; the maritime exhibits feel particularly authentic during rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgende in Porto Maurizio sind oft klar und sonnig, aber kühl. Der Parasio-Hügel bietet fantastische Lichtspiele. Da die Sonne gegen 17:00 Uhr untergeht, sollten die Außenbesichtigungen früh erledigt werden. Mittags wärmen die Sonnenstrahlen auf den Plätzen, während nachmittags die Museen gemütliche Wärme bieten. Abends lädt die festliche Beleuchtung zu einem kurzen Spaziergang am Hafen ein.",
+            "hu": "A téli reggelek Porto Maurizióban gyakran tiszták és naposak, de csípősek. A Parasio-domb ilyenkor fantasztikus fényekben játszik. Mivel a nap 17:00 körül nyugszik, érdemes a kültéri látnivalókat korán letudni. Délben a tereken még melengetnek a napsugarak, délután pedig a múzeumok kínálnak kellemes menedéket. Este az ünnepi fények hívogatnak egy rövid sétára a kikötőben.",
+            "ro": "Diminețile de iarnă în Porto Maurizio sunt adesea senine și însorite, dar răcoroase. Dealul Parasio oferă jocuri de lumină fantastice. Deoarece soarele apune în jurul orei 17:00, vizitele în aer liber ar trebui făcute devreme. La prânz, razele soarelui încălzesc piețele, în timp ce după-amiaza muzeele oferă o căldură plăcută. Seara, iluminatul festiv vă invită la o scurtă plimbare în port.",
+            "en": "Winter mornings in Porto Maurizio are often clear and sunny, but crisp. The Parasio hill offers fantastic light effects. Since the sun sets around 5:00 PM, outdoor sightseeing should be done early. At noon, the sun warms the squares, while in the afternoon, museums offer cozy warmth. In the evening, the festive lighting invites you for a short stroll along the port."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Duomo di San Maurizio",
+                "hu": "Duomo di San Maurizio",
+                "ro": "Duomo di San Maurizio",
+                "en": "Duomo di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Vormittag, wenn das tiefe Winterlicht durch die hohen Fenster fällt und die neoklassizistische Architektur prachtvoll beleuchtet.",
+                "hu": "Látogassa meg a dómot délelőtt, amikor az alacsony téli napfény beárad a magas ablakokon, és pompásan megvilágítja a neoklasszicista építészetet.",
+                "ro": "Vizitați catedrala dimineața, când lumina joasă de iarnă pătrunde prin ferestrele înalte și luminează magnific arhitectura neoclasică.",
+                "en": "Visit the cathedral in the morning, when the low winter sunlight streams through the high windows, magnificently illuminating the neoclassical architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del presepe e pinacoteca",
+                "hu": "Museo del presepe e pinacoteca",
+                "ro": "Museo del presepe e pinacoteca",
+                "en": "Museo del presepe e pinacoteca"
+              },
+              "tip_5lang": {
+                "de": "Im Winter entfalten die historischen Krippen ihren vollen Zauber; die geheizten Ausstellungsräume bieten zudem eine willkommene Pause von der kühlen Meeresbrise.",
+                "hu": "Télen a történelmi betlehemek elvarázsolják a látogatót; a fűtött kiállítóterek emellett kellemes pihenőt kínálnak a hűvös tengeri szél elől.",
+                "ro": "Iarna, scenele istorice ale nașterii Domnului își dezvăluie întreaga magie; spațiile de expoziție încălzite oferă o pauză binevenită de briza rece a mării.",
+                "en": "In winter, the historical nativity scenes reveal their full magic; the heated exhibition rooms also offer a welcome break from the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Pietro",
+                "hu": "Oratorio di San Pietro",
+                "ro": "Oratorio di San Pietro",
+                "en": "Oratorio di San Pietro"
+              },
+              "tip_5lang": {
+                "de": "Die barocke Pracht wirkt in der Stille des Winters besonders andächtig; tragen Sie warme Schichten für den Weg durch die schattigen, kühlen Gassen.",
+                "hu": "A barokk pompa a téli csendben különösen áhítatosnak hat; viseljen réteges ruházatot az árnyékos, hűvös utcákon való áthaladáshoz.",
+                "ro": "Sudoarea barocă pare deosebit de pioasă în liniștea iernii; purtați haine groase pentru drumul prin străzile umbrite și răcoroase.",
+                "en": "The baroque splendor feels particularly devotional in the silence of winter; wear warm layers for the walk through the shaded, cool alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Leonardo",
+                "hu": "Chiesa di San Leonardo",
+                "ro": "Chiesa di San Leonardo",
+                "en": "Chiesa di San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick vom Vorplatz im klaren Winterlicht, bevor Sie sich in der geschützten Kapelle des Heiligen aufwärmen.",
+                "hu": "Élvezze a panorámát a templom előtti térről a tiszta téli fényben, mielőtt felmelegedne a szent védett kápolnájában.",
+                "ro": "Bucurați-vă de panorama din piața din fața bisericii în lumina clară de iarnă, înainte de a vă încălzi în capela protejată a sfântului.",
+                "en": "Enjoy the panoramic view from the square in the clear winter light before warming up in the saint's sheltered chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Cavour",
+                "hu": "Teatro Cavour",
+                "ro": "Teatro Cavour",
+                "en": "Teatro Cavour"
+              },
+              "tip_5lang": {
+                "de": "Die goldene Innenausstattung strahlt im Winter eine besondere Wärme aus; ideal für einen kulturellen Stopp, wenn es draußen früh dunkel wird.",
+                "hu": "Az aranyozott belső tér télen különleges melegséget áraszt; ideális kulturális megálló, amikor kint korán sötétedik.",
+                "ro": "Interiorul aurit emană o căldură deosebită iarna; un popas cultural ideal atunci când afară se întunecă devreme.",
+                "en": "The gilded interior radiates a special warmth in winter; an ideal cultural stop when it gets dark early outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo navale",
+                "hu": "Museo navale",
+                "ro": "Museo navale",
+                "en": "Museo navale"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am späten Nachmittag ist ideal, um den Tag gemütlich im Inneren zu beenden, während draußen am Hafen die Winterdämmerung einsetzt.",
+                "hu": "A késő délutáni látogatás ideális a nap kellemes, fedett helyen történő befejezéséhez, miközben kint a kikötőben leszáll a téli szürkület.",
+                "ro": "O vizită după-amiaza târziu este ideală pentru a încheia ziua confortabil în interior, în timp ce amurgul de iarnă se lasă peste port.",
+                "en": "A late afternoon visit is ideal for finishing the day comfortably indoors while the winter twilight sets in over the harbor outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel: Kezdjen egy frissítő tekeréssel a Villa Faravellihez a kortárs művészetért, majd kerékpározzon le a kikötő melletti vonzó Tengerészeti Múzeumhoz. Dél: Kényelmes tempóban haladjon a központ felé a Teatro Cavour és a monumentális Duomo di San Maurizio megtekintéséhez, ahol megebédelhet. Délután: Tekerjen nyugatra, hogy feltárja a Museo delle Confraternite rejtett történetét, és békét találjon a Chiesa di San Benedetto Revelli-nél. Este: Guruljon végig a tengerparti kiváló kerékpárúton, élvezve a tengeri szellőt és egy jól megérdemelt fagylaltot a nap zárásaként.",
         "ro": "Dimineața: Începeți cu o plimbare răcoroasă spre Villa Faravelli, cufundându-vă în arta contemporană, înainte de a pedala spre Muzeul Naval de lângă port. Prânz: Pedalați ușor spre centru pentru a admira istoricul Teatro Cavour și monumentalul Dom, legând bicicleta pentru o gustare rapidă în apropiere. După-amiaza: Mergeți spre vest pentru a descoperi Muzeul Confraternităților și a găsi liniște la Biserica San Benedetto Revelli. Seara: Plimbați-vă de-a lungul coastei pe pista de biciclete excelentă, bucurându-vă de briza mării și de un gelato bine meritat la sfârșitul zilei.",
         "en": "Morning: Kick off with a breezy ride to Villa Faravelli, immersing yourself in contemporary art, before cycling down to the engaging Naval Museum by the port. Midday: Pedal gently towards the center to admire the historic Teatro Cavour and the monumental Duomo di San Maurizio, locking up the bike for a quick bite nearby. Afternoon: Ride westward to uncover the hidden histories at the Museo delle Confraternite and find tranquility at Chiesa di San Benedetto Revelli. Evening: Cruise along the coastline on the excellent cycle path, enjoying the sea breeze and a well-deserved gelato as the day concludes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in den steilen Gassen von Porto Maurizio Vorsicht. Vormittags bieten die flacheren Küstenabschnitte besseren Halt. Mittags sollte man längere Pausen in den Museen einlegen, um abzutrocknen. Nachmittags sind die asphaltierten Straßen sicherer als das Kopfsteinpflaster. Abends ist eine gute Beleuchtung aufgrund der schlechten Sichtverhältnisse unerlässlich.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Porto Maurizio meredek utcáin. Délelőtt a laposabb partmenti szakaszok biztosabb tapadást nyújtanak. Délben érdemes hosszabb szüneteket tartani a múzeumokban a száradáshoz. Délután az aszfaltozott utak biztonságosabbak, mint a macskaköves szakaszok. Este a jó világítás elengedhetetlen a korlátozott látási viszonyok miatt.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile abrupte din Porto Maurizio. Dimineața, secțiunile de coastă mai plate oferă o aderență mai bună. La prânz, ar trebui să faceți pauze mai lungi în muzee pentru a vă usca. După-amiaza, drumurile asfaltate sunt mai sigure decât pavajul. Seara, iluminarea bună este esențială din cauza vizibilității reduse.",
+            "en": "Cycling in the rain requires caution in the steep streets of Porto Maurizio. In the morning, flatter coastal sections offer better grip. At noon, take longer breaks in museums to dry off. In the afternoon, paved roads are safer than cobblestones. In the evening, good lighting is essential due to poor visibility conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Faravelli",
+                "hu": "Villa Faravelli",
+                "ro": "Villa Faravelli",
+                "en": "Villa Faravelli"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Vordächern am Eingang; das Museum bietet eine trockene Umgebung, um den ersten Regenschauer des Tages zu überstehen.",
+                "hu": "Parkolja le kerékpárját a bejáratnál található előtetők alatt; a múzeum száraz környezetet biztosít a nap első záporának kivárásához.",
+                "ro": "Parcați bicicleta sub copertinele de la intrare; muzeul oferă un mediu uscat pentru a trece peste prima ploaie a zilei.",
+                "en": "Park your bike under the overhangs at the entrance; the museum provides a dry environment to wait out the first shower of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo navale",
+                "hu": "Museo navale",
+                "ro": "Museo navale",
+                "en": "Museo navale"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer in der Nähe; drinnen können Sie in Ruhe die Exponate studieren, während draußen der Regen auf das Hafengebiet peitscht.",
+                "hu": "Használja a közeli fedett kerékpártárolót; odabent nyugodtan tanulmányozhatja a kiállítást, miközben kint az eső veri a kikötő környékét.",
+                "ro": "Folosiți suportul de biciclete acoperit din apropiere; în interior puteți studia exponatele în liniște, în timp ce afară ploaia lovește zona portului.",
+                "en": "Use the nearby covered bike rack; inside, you can study the exhibits in peace while the rain lashes the harbor area outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Cavour",
+                "hu": "Teatro Cavour",
+                "ro": "Teatro Cavour",
+                "en": "Teatro Cavour"
+              },
+              "tip_5lang": {
+                "de": "Die zentrale Lage ermöglicht einen schnellen Wechsel in den trockenen Innenraum; achten Sie beim Absteigen auf die rutschigen Markierungen auf der Fahrbahn.",
+                "hu": "A központi elhelyezkedés lehetővé teszi a gyors váltást a száraz belső térre; leszálláskor ügyeljen az úttesten lévő csúszós útburkolati jelekre.",
+                "ro": "Locația centrală permite o trecere rapidă în interiorul uscat; aveți grijă la marcajele rutiere alunecoase atunci când coborâți de pe bicicletă.",
+                "en": "The central location allows for a quick transition to the dry interior; be careful of slippery road markings when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Maurizio",
+                "hu": "Duomo di San Maurizio",
+                "ro": "Duomo di San Maurizio",
+                "en": "Duomo di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Nässe anstrengend; parken Sie sicher und gönnen Sie sich eine lange Pause in der warmen Atmosphäre der riesigen Basilika.",
+                "hu": "A felfelé vezető út nedves időben fárasztó; parkoljon le biztonságosan, és tartson hosszú szünetet a hatalmas bazilika meleg atmoszférájában.",
+                "ro": "Urcarea este obositoare pe vreme umedă; parcați în siguranță și acordați-vă o pauză lungă în atmosfera caldă a bazilicii uriașe.",
+                "en": "The climb is strenuous in the wet; park securely and enjoy a long break in the warm atmosphere of the vast basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo delle Confraternite",
+                "hu": "Museo delle Confraternite",
+                "ro": "Museo delle Confraternite",
+                "en": "Museo delle Confraternite"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Gassen hier sind steil und bei Regen sehr glatt; schieben Sie Ihr Rad am besten das letzte Stück bis zum trockenen Museumseingang.",
+                "hu": "A szűk utcák itt meredekek és esőben nagyon csúszósak; a legjobb, ha az utolsó szakaszon a száraz múzeumi bejáratig tolja a kerékpárt.",
+                "ro": "Străzile înguste de aici sunt abrupte și foarte alunecoase în ploaie; cel mai bine este să împingeți bicicleta pe ultima porțiune până la intrarea uscată a muzeului.",
+                "en": "The narrow streets here are steep and very slippery in the rain; it's best to walk your bike the last stretch to the dry museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Benedetto Revelli",
+                "hu": "Chiesa di San Benedetto Revelli",
+                "ro": "Chiesa di San Benedetto Revelli",
+                "en": "Chiesa di San Benedetto Revelli"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Portal; die Kirche bietet eine friedliche Atmosphäre, um sich vor der Rückfahrt bei Regen kurz auszuruhen.",
+                "hu": "Keressen menedéket a bejárat alatt; a templom békés környezetet biztosít egy rövid pihenőhöz az esőben való visszaindulás előtt.",
+                "ro": "Căutați adăpost sub portal; biserica oferă o atmosferă liniștită pentru a vă odihni scurt timp înainte de drumul de întoarcere prin ploaie.",
+                "en": "Seek shelter under the portal; the church offers a peaceful atmosphere to rest briefly before heading back in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Winter bietet in Porto Maurizio klare Ausblicke und frische Luft. Vormittags ist es noch kühl, daher sind Handschuhe ratsam. Mittags genießen Sie die Sonne an der Küste. Achten Sie nachmittags auf die abnehmenden Temperaturen im Schatten des Parasio-Hügels. Da es früh dunkel wird, sollten Sie die Radtour gegen 16:30 Uhr beenden.",
+            "hu": "A téli kerékpározás tiszta kilátást és friss levegőt kínál Porto Maurizióban. Délelőtt még hűvös van, ezért a kesztyű ajánlott. Délben élvezze a napsütést a parton. Délután figyeljen a csökkenő hőmérsékletre a Parasio-domb árnyékában. Mivel korán sötétedik, a biciklis túrát érdemes 16:30 körül befejezni.",
+            "ro": "Mersul pe bicicletă iarna oferă vederi clare și aer proaspăt în Porto Maurizio. Dimineața este încă răcoare, așa că mănușile sunt recomandate. La prânz, bucurați-vă de soare pe coastă. După-amiaza, aveți grijă la scăderea temperaturii la umbra dealului Parasio. Deoarece se întunecă devreme, ar trebui să încheiați turul cu bicicleta în jurul orei 16:30.",
+            "en": "Winter cycling offers clear views and fresh air in Porto Maurizio. In the morning, it's still cool, so gloves are advisable. At noon, enjoy the sun along the coast. In the afternoon, watch for dropping temperatures in the shadow of Parasio hill. Since it gets dark early, you should aim to finish the bike tour around 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Faravelli",
+                "hu": "Villa Faravelli",
+                "ro": "Villa Faravelli",
+                "en": "Villa Faravelli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittagsbesuch, um sich aufzuwärmen; die Gärten der Villa sind auch im Winter bei klarem Himmel ein herrlicher Fotospot.",
+                "hu": "Használja ki a délelőtti látogatást a felmelegedésre; a villa kertje tiszta égbolt mellett télen is remek fotóhelyszín.",
+                "ro": "Folosiți vizita de dimineață pentru a vă încălzi; grădinile vilei sunt un loc minunat pentru fotografii chiar și iarna, sub un cer senin.",
+                "en": "Use the morning visit to warm up; the villa's gardens are a wonderful photo spot even in winter under clear skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo navale",
+                "hu": "Museo navale",
+                "ro": "Museo navale",
+                "en": "Museo navale"
+              },
+              "tip_5lang": {
+                "de": "Nach der Fahrt am windigen Hafen bietet das Museum eine ideale, temperierte Umgebung; perfekt, um die Beine bei einem Rundgang aufzulockern.",
+                "hu": "A szeles kikötőben való tekerés után a múzeum ideális, temperált környezetet kínál; tökéletes hely a lábak átmozgatására egy séta során.",
+                "ro": "După plimbarea prin portul vântos, muzeul oferă un mediu temperat ideal; perfect pentru a vă dezmorți picioarele în timpul unui tur.",
+                "en": "After riding along the windy harbor, the museum offers an ideal tempered environment; perfect for stretching your legs during a walk-through."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Cavour",
+                "hu": "Teatro Cavour",
+                "ro": "Teatro Cavour",
+                "en": "Teatro Cavour"
+              },
+              "tip_5lang": {
+                "de": "Der Aufenthalt im Theater bietet Schutz vor der kühler werdenden Mittagsluft; parken Sie Ihr Rad sicher im belebten Zentrum.",
+                "hu": "A színházi látogatás védelmet nyújt a hűvösödő déli levegő elől; parkolja le kerékpárját biztonságosan a nyüzsgő központban.",
+                "ro": "Șederea la teatru oferă protecție împotriva aerului răcoros de la prânz; parcați bicicleta în siguranță în centrul plin de viață.",
+                "en": "The stay at the theater provides protection from the cooling midday air; park your bike securely in the bustling center."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Maurizio",
+                "hu": "Duomo di San Maurizio",
+                "ro": "Duomo di San Maurizio",
+                "en": "Duomo di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg bringt den Kreislauf in Schwung; oben angekommen belohnt die Basilika mit ihrer Ruhe und angenehmen Innentemperaturen.",
+                "hu": "A felfelé vezető út beindítja a vérkeringést; felérve a bazilika nyugalommal és kellemes belső hőmérséklettel jutalmazza meg.",
+                "ro": "Urcarea vă pune sângele în mișcare; odată ajunși sus, bazilica vă răsplătește cu liniștea sa și cu o temperatură interioară plăcută.",
+                "en": "The climb gets your circulation going; once at the top, the basilica rewards you with its tranquility and pleasant indoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo delle Confraternite",
+                "hu": "Museo delle Confraternite",
+                "ro": "Museo delle Confraternite",
+                "en": "Museo delle Confraternite"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Gassen des Parasio sind im Winter sehr kühl; freuen Sie sich auf die informative und warme Ausstellung im Inneren.",
+                "hu": "A Parasio árnyékos utcái télen igen hűvösek; élvezze a benti informatív és meleg kiállítást a hideg szél elől menekülve.",
+                "ro": "Străzile umbrite din Parasio sunt foarte reci iarna; bucurați-vă de expoziția informativă și caldă din interior.",
+                "en": "The shaded alleys of Parasio are very cool in winter; look forward to the informative and warm exhibition inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Benedetto Revelli",
+                "hu": "Chiesa di San Benedetto Revelli",
+                "ro": "Chiesa di San Benedetto Revelli",
+                "en": "Chiesa di San Benedetto Revelli"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier, bevor die Sonne untergeht; das sanfte Abendlicht auf der Fassade ist ein schöner Abschluss für Radfahrer.",
+                "hu": "Fejezze be a túrát itt, mielőtt lemegy a nap; a homlokzaton megcsillanó lágy esti fény szép zárása a kerékpáros napnak.",
+                "ro": "Încheiați turul aici înainte de apusul soarelui; lumina blândă de seară pe fațadă este un final frumos pentru bicicliști.",
+                "en": "Finish the tour here before the sun goes down; the soft evening light on the facade is a beautiful conclusion for cyclists."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggel: Kezdje autós túráját az Oneglia negyedben a lenyűgöző Municipiónál, majd tegyen egy rövid kitérőt az elegáns Villa Faravelli művészeti gyűjteményeihez. Dél: Hajtson le a kikötőbe a tágas Tengerészeti Múzeumhoz, majd váltson a történelmi Porto Maurizio központra, ahol a hatalmas Duomo található. Délután: Hagyja maga mögött a forgalmas utcákat, és vezessen fel a festői dombok közé, hogy felfedezze a bájos Cappella di San Bernardo-t és az Oratorio di San Giacomo-t. Este: Térjen vissza a nyüzsgő Borgo Prino tengerpartjára egy pihentető, tengerre néző vacsorára, a régió sokszínűségén merengve.",
         "ro": "Dimineața: Începeți turul cu mașina în zona Oneglia la grandiosul Municipio, apoi faceți o scurtă oprire la rafinata Villa Faravelli pentru a explora arta. Prânz: Conduceți până la port pentru Muzeul Naval, urmat de o scurtă deplasare în centrul istoric al orașului Porto Maurizio pentru a vizita masivul Dom. După-amiaza: Lăsați străzile aglomerate în urmă și conduceți spre dealurile pitorești pentru a descoperi pitoreasca Capelă San Bernardo și Oratoriul rustic San Giacomo. Seara: Conduceți înapoi la fâșia de coastă animată Borgo Prino pentru o cină relaxată cu vedere la mare la sfârșitul zilei.",
         "en": "Morning: Start your driving tour in the Oneglia area at the grand Municipio di Imperia, then take a short hop to the refined Villa Faravelli to explore its art collections. Midday: Drive down to the marina to visit the expansive Naval Museum, followed by a quick shift to Porto Maurizio's historical center for the massive Duomo di San Maurizio. Afternoon: Leave the busy streets behind and drive up into the scenic hills to discover the quaint Cappella di San Bernardo and the rustic Oratorio di San Giacomo. Evening: Drive back down to the lively coastal strip of Borgo Prino for a relaxed dinner with sea views, reflecting on the region's diverse beauty."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Porto Maurizio im Regen ist bequem und sicher. Vormittags erreichen Sie die höher gelegenen Aussichtspunkte trocken. Mittags ist das Parken in der Nähe der Museen ratsam. Nachmittags können Sie die abgelegeneren Kapellen besuchen, ohne nass zu werden. Abends reflektieren die Pfützen das Stadtlicht, was die Fahrt durch die Stadt sehr stimmungsvoll macht.",
+            "hu": "Az esős Porto Maurizióban az autózás kényelmes és biztonságos módja a városnézésnek. Délelőtt szárazon érheti el a magasabban fekvő kilátópontokat. Délben érdemes a múzeumok közvetlen közelében parkolni. Délután a távolabbi kápolnákat is meglátogathatja anélkül, hogy elázna. Este a pocsolyákban tükröződő városi fények teszik hangulatossá az autós barangolást.",
+            "ro": "O călătorie cu mașina prin Porto Maurizio în ploaie este confortabilă și sigură. Dimineața, puteți ajunge uscat la punctele de belvedere mai înalte. La prânz, se recomandă parcarea în apropierea muzeelor. După-amiaza, puteți vizita capelele mai retrase fără a vă uda. Seara, bălțile reflectă luminile orașului, făcând călătoria prin oraș foarte atmosferică.",
+            "en": "Driving through Porto Maurizio in the rain is convenient and safe. In the morning, you can reach the higher viewpoints while staying dry. At noon, parking near the museums is advisable. In the afternoon, you can visit the more remote chapels without getting wet. In the evening, puddles reflect the city lights, making the drive through the city very atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Municipio di Imperia",
+                "hu": "Municipio di Imperia",
+                "ro": "Municipio di Imperia",
+                "en": "Municipio di Imperia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Gebäude; der imposante Bau bietet Schutz, während Sie die historische Bedeutung der Stadtverwaltung kennenlernen.",
+                "hu": "Használja a közvetlenül az épület előtti parkolót; az impozáns épület védelmet nyújt, miközben megismeri a városvezetés történelmi jelentőségét.",
+                "ro": "Folosiți parcarea direct din fața clădirii; construcția impunătoare oferă protecție în timp ce aflați despre importanța istorică a primăriei.",
+                "en": "Use the parking lot directly in front of the building; the imposing structure provides shelter while you learn about the historical significance of the city administration."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Faravelli",
+                "hu": "Villa Faravelli",
+                "ro": "Villa Faravelli",
+                "en": "Villa Faravelli"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingangstor; im Inneren der Villa sind Sie sicher vor dem Regen und können die moderne Kunst in Ruhe genießen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárati kapuhoz; a villa belsejében védve lesz az esőtől, és nyugodtan élvezheti a modern művészeti kiállítást.",
+                "ro": "Parcați cât mai aproape de poarta de intrare; în interiorul vilei sunteți ferit de ploaie și vă puteți bucura de arta modernă în liniște.",
+                "en": "Park as close as possible to the entrance gate; inside the villa, you'll be safe from the rain and can enjoy the modern art exhibition in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo navale",
+                "hu": "Museo navale",
+                "ro": "Museo navale",
+                "en": "Museo navale"
+              },
+              "tip_5lang": {
+                "de": "Das Hafengebiet hat viele Parkmöglichkeiten; nutzen Sie diese für einen trockenen Übergang in das weitläufige und faszinierende Schifffahrtsmuseum.",
+                "hu": "A kikötő környékén számos parkolóhely található; használja ezeket a száraz átjutáshoz a tágas és lenyűgöző tengerészeti múzeumba.",
+                "ro": "Zona portului are multe locuri de parcare; folosiți-le pentru o tranziție uscată către vastul și fascinantul muzeu naval.",
+                "en": "The harbor area has many parking options; use them for a dry transition into the extensive and fascinating maritime museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Maurizio",
+                "hu": "Duomo di San Maurizio",
+                "ro": "Duomo di San Maurizio",
+                "en": "Duomo di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Platz vor der Basilika hoch; der Aufenthalt im gewaltigen Innenraum lässt Sie den Regen draußen völlig vergessen.",
+                "hu": "Hajtson fel egészen a bazilika előtti térig; a hatalmas belső térben tett látogatás során teljesen elfelejtheti a kinti esőt.",
+                "ro": "Conduceți până în piața din fața bazilicii; șederea în interiorul imens vă va face să uitați complet de ploaia de afară.",
+                "en": "Drive all the way up to the square in front of the basilica; staying in the massive interior will make you completely forget the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Bernardo",
+                "hu": "Cappella di San Bernardo",
+                "ro": "Cappella di San Bernardo",
+                "en": "Cappella di San Bernardo"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle ist ein perfekter Stopp für Autofahrer; genießen Sie die mystische Atmosphäre im Nebel, bevor Sie schnell wieder ins trockene Auto steigen.",
+                "hu": "A kis kápolna tökéletes megálló autósoknak; élvezze a ködös, misztikus hangulatot, mielőtt gyorsan visszaszállna a száraz autóba.",
+                "ro": "Mica capelă este un popas perfect pentru șoferi; bucurați-vă de atmosfera mistică în ceață înainte de a vă urca rapid înapoi în mașina uscată.",
+                "en": "The small chapel is a perfect stop for drivers; enjoy the mystical atmosphere in the fog before quickly getting back into your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Giacomo",
+                "hu": "Oratorio di San Giacomo",
+                "ro": "Oratorio di San Giacomo",
+                "en": "Oratorio di San Giacomo"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz in der Nähe ermöglicht einen kurzen Weg; die besinnliche Ruhe im Inneren ist ein schöner Kontrast zum prasselnden Regen auf dem Autodach.",
+                "hu": "A közeli parkoló rövid sétát tesz lehetővé; a benti meghitt csend szép kontrasztot alkot az autótetőn kopogó esővel.",
+                "ro": "Parcarea din apropiere permite o plimbare scurtă; liniștea meditativă din interior este un contrast frumos cu ploaia care bate pe acoperișul mașinii.",
+                "en": "The nearby parking lot allows for a short walk; the contemplative silence inside is a beautiful contrast to the rain drumming on the car roof."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ermöglicht das Auto eine flexible Erkundung von Porto Maurizio bei jedem Wetter. Vormittags profitieren Sie von der Heizung auf dem Weg zu den Museen. Mittags laden die Küstenstraßen zu einer Panoramafahrt ein. Da die Sonne gegen 17:00 Uhr untergeht, erreichen Sie die Aussichtspunkte rechtzeitig für das Abendlicht. Abends ist die Rückfahrt im warmen Wagen besonders angenehm.",
+            "hu": "Télen az autó rugalmas városnézést tesz lehetővé Porto Maurizióban, bármilyen is legyen az időjárás. Délelőtt élvezheti a fűtést a múzeumok felé vezető úton. Délben a parti utak panorámás autózásra hívogatnak. Mivel a nap 17:00 körül nyugszik, időben elérheti a kilátópontokat az esti fényekhez. Este a meleg autóban való visszatérés különösen kellemes.",
+            "ro": "Iarna, mașina permite o explorare flexibilă a orașului Porto Maurizio pe orice vreme. Dimineața, beneficiați de încălzire în drum spre muzee. La prânz, drumurile de coastă vă invită la o plimbare panoramică. Deoarece soarele apune în jurul orei 17:00, veți ajunge la punctele de belvedere la timp pentru lumina de seară. Seara, întoarcerea în mașina caldă este deosebit de plăcută.",
+            "en": "In winter, the car allows for flexible exploration of Porto Maurizio regardless of the weather. In the morning, you'll appreciate the heating on the way to the museums. At noon, the coastal roads invite you for a scenic drive. Since the sun sets around 5:00 PM, you can reach the viewpoints in time for the evening light. In the evening, the drive back in a warm car is especially pleasant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Municipio di Imperia",
+                "hu": "Municipio di Imperia",
+                "ro": "Municipio di Imperia",
+                "en": "Municipio di Imperia"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Rathaus am frühen Morgen; die klare Winterluft lässt die Architektur besonders scharf und beeindruckend wirken.",
+                "hu": "Látogassa meg a városházát kora reggel; a tiszta téli levegőben az építészet különösen élesnek és lenyűgözőnek hat.",
+                "ro": "Vizitați primăria dimineața devreme; aerul curat de iarnă face ca arhitectura să pară deosebit de clară și impresionantă.",
+                "en": "Visit the town hall early in the morning; the clear winter air makes the architecture look particularly sharp and impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Faravelli",
+                "hu": "Villa Faravelli",
+                "ro": "Villa Faravelli",
+                "en": "Villa Faravelli"
+              },
+              "tip_5lang": {
+                "de": "Die geheizten Räume der Villa sind ein willkommener Stopp; genießen Sie den Blick in den winterlichen Garten aus der Wärme des Museums.",
+                "hu": "A villa fűtött terei kellemes megállót jelentenek; élvezze a kilátást a téli kertre a múzeum melegéből.",
+                "ro": "Sălile încălzite ale vilei sunt un popas binevenit; bucurați-vă de priveliștea grădinii de iarnă din căldura muzeului.",
+                "en": "The villa's heated rooms are a welcome stop; enjoy the view of the winter garden from the warmth of the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo navale",
+                "hu": "Museo navale",
+                "ro": "Museo navale",
+                "en": "Museo navale"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen und nutzen Sie den Besuch, um sich aufzuwärmen, bevor Sie die winterliche Meeresbrise bei einem kurzen Fotostopp am Kai genießen.",
+                "hu": "Parkoljon le a kikötőben, és használja ki a látogatást a felmelegedésre, mielőtt élvezné a téli tengeri szellőt egy rövid fotószünet erejéig a parton.",
+                "ro": "Parcați în port și folosiți vizita pentru a vă încălzi înainte de a vă bucura de briza mării de iarnă în timpul unei scurte pauze foto pe chei.",
+                "en": "Park at the harbor and use the visit to warm up before enjoying the winter sea breeze during a quick photo stop on the quay."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Maurizio",
+                "hu": "Duomo di San Maurizio",
+                "ro": "Duomo di San Maurizio",
+                "en": "Duomo di San Maurizio"
+              },
+              "tip_5lang": {
+                "de": "Die Basilika ist im Winter ein Ort der Stille und Wärme; das weiche Nachmittagslicht verleiht dem riesigen Kirchenschiff eine besondere Aura.",
+                "hu": "A bazilika télen a csend és a meleg szigete; a lágy délutáni fény különleges aurát kölcsönöz a hatalmas templomhajónak.",
+                "ro": "Bazilica este un loc de liniște și căldură iarna; lumina blândă de după-amiază oferă navei uriașe o aură deosebită.",
+                "en": "The basilica is a place of silence and warmth in winter; the soft afternoon light gives the massive nave a special aura."
+              }
+            },
+            {
+              "name": {
+                "de": "Cappella di San Bernardo",
+                "hu": "Cappella di San Bernardo",
+                "ro": "Cappella di San Bernardo",
+                "en": "Cappella di San Bernardo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für weite Fernsichten von diesem Punkt; im Auto sitzend können Sie die Aussicht ohne Frieren genießen.",
+                "hu": "Használja ki a tiszta téli fényt a távoli kilátáshoz erről a pontról; az autóban ülve fázás nélkül élvezheti a panorámát.",
+                "ro": "Folosiți lumina clară de iarnă pentru vederi la distanță din acest punct; stând în mașină, vă puteți bucura de priveliște fără să vă fie frig.",
+                "en": "Take advantage of the clear winter light for distant views from this spot; sitting in the car, you can enjoy the panorama without freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di San Giacomo",
+                "hu": "Oratorio di San Giacomo",
+                "ro": "Oratorio di San Giacomo",
+                "en": "Oratorio di San Giacomo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im warmen Licht der Winterdämmerung; die kurze Fahrt zurück ins Stadtzentrum führt durch festlich beleuchtete Straßen.",
+                "hu": "Fejezze be túráját itt a téli szürkület meleg fényében; a rövid visszaút a városközpontba ünnepi fényekkel díszített utcákon át vezet.",
+                "ro": "Încheiați turul aici, în lumina caldă a amurgului de iarnă; drumul scurt de întoarcere în centrul orașului trece prin străzi iluminate festiv.",
+                "en": "Finish your tour here in the warm light of the winter twilight; the short drive back to the city center leads through festively lit streets."
+              }
+            }
+          ]
+        }
       }
     }
   }

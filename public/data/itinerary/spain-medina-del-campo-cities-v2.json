@@ -160,6 +160,196 @@
         "hu": "A reggel Kasztíliai Izabella ikonikus szobránál kezdődik, királyi hangulatot adva a sétának. A dél a Palacio Testamentario és a békés San Juan kápolna felfedezésével telik. Délután a Reales Carnicerías történelmi húspiaca és a San Miguel templom várja. Az este a lenyűgöző La Mota kastélynál éri el csúcspontját, amikor a lemenő nap megvilágítja vörös téglafalait.",
         "ro": "Dimineața începe la emblematica statuie a Isabelei Catolica, oferind un ton regal plimbării. La prânz, vizitați Palacio Testamentario și liniștita Capelă San Juan de la Cruz. După-amiaza aduce o plimbare spre piața istorică Reales Carnicerías și superba biserică San Miguel. Seara culminează la magnificul Castel La Mota, exact când soarele apune peste zidurile sale masive de cărămidă.",
         "en": "Morning begins at the iconic statue of Isabella the Catholic, setting a royal tone for your walk. Midday invites you into the Palacio Testamentario and the peaceful Capilla de San Juan de la Cruz. Afternoon brings a stroll to the historic meat market of Reales Carnicerías and San Miguel. Evening culminates at the magnificent Castle of La Mota as the sun sets over its red brick walls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter den schützenden Arkaden der Plaza Mayor, während der Regen auf das Kopfsteinpflaster prasselt. Mittags bieten der Palast und die Kapelle trockene Zuflucht und faszinierende Einblicke in die Geschichte Isabellas. Am Nachmittag führt der Weg zur Burg, deren Mauern im Regen besonders trutzig wirken. Der Abend klingt gemütlich in den beleuchteten Straßen der Altstadt aus.",
+            "hu": "A reggel a Plaza Mayor árkádjai alatt indul, ahol az eső elől védve csodálhatjuk a főteret. Délben a palota és a kápolna belső terei nyújtanak száraz menedéket a történelem kedvelőinek. Délután a vár felé vesszük az irányt, amelynek falai az esőben még méltóságteljesebbnek tűnnek. Az este a vizes macskaköveken tükröződő városi fények között, egy fedett helyen ér véget.",
+            "ro": "Dimineața începe sub arcadele protectoare din Plaza Mayor, feriți de ploaia care cade pe pavaj. La prânz, palatul și capela oferă un refugiu uscat și incursiuni fascinante în istoria Isabelei. După-amiaza, drumul duce spre castel, ale cărui ziduri par și mai impunătoare sub cerul înnorat. Seara se încheie plăcut pe străzile luminate, unde reflexiile apei creează o atmosferă magică.",
+            "en": "The day starts under the protective arches of Plaza Mayor, shielded from the rain hitting the cobblestones. At noon, the palace and chapel provide a dry sanctuary and fascinating insights into Isabella's history. In the afternoon, head to the castle, where the wet brick walls look particularly dramatic. The evening ends cozily in the illuminated streets as lights reflect on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Isabella die Katholische",
+                "hu": "Kasztíliai Izabella",
+                "ro": "Isabela Catolica",
+                "en": "Isabella the Catholic"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Statue von den trockenen Arkaden aus und nutzen Sie die Schirme der Cafés, um das Denkmal der Königin regenfest zu bewundern.",
+                "hu": "Csodálja meg a szobrot a tér árkádjai alól, így szárazon maradhat, miközben a királynő emlékművét és a főtér hangulatát figyeli az esőben.",
+                "ro": "Admirați statuia de sub arcadele uscate ale pieței, folosind protecția clădirilor din jur pentru a observa monumentul reginei fără a vă uda.",
+                "en": "View the statue from the dry arcades of the square, using the surrounding architecture to admire the queen's monument while staying out of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio Testamentario",
+                "hu": "Palacio Testamentario",
+                "ro": "Palacio Testamentario",
+                "en": "Palacio Testamentario"
+              },
+              "tip_5lang": {
+                "de": "Dieser Palast ist der ideale Zufluchtsort bei Regen; erkunden Sie die interaktiven Ausstellungen im Inneren, wo die Zeit der Katholischen Könige lebendig wird.",
+                "hu": "Ez a palota ideális menedék esőben; fedezze fel a belső interaktív kiállításokat, ahol megelevenedik a katolikus királyok kora a száraz falak között.",
+                "ro": "Acest palat este refugiul ideal pe ploaie; explorați expozițiile interactive din interior, unde epoca regilor catolici prinde viață la adăpost.",
+                "en": "This palace is the ideal shelter during rain; explore the interactive exhibits inside, where the era of the Catholic Monarchs comes alive indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle San Juan de la Cruz",
+                "hu": "Keresztes Szent János kápolna",
+                "ro": "Capela San Juan de la Cruz",
+                "en": "Capilla de San Juan de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die spirituelle Stille dieser kleinen Kapelle, die einen perfekten, trockenen Moment der Besinnung fernab des nassen Wetters bietet.",
+                "hu": "Élvezze e kis kápolna spirituális csendjét, amely tökéletes, száraz pillanatot kínál az elmélkedésre, távol a kinti nedves és szürke időjárástól.",
+                "ro": "Bucurați-vă de liniștea spirituală a acestei mici capele, care oferă un moment perfect și uscat de reflecție, departe de vremea umedă de afară.",
+                "en": "Enjoy the spiritual silence of this small chapel, which offers a perfect, dry moment of reflection away from the wet and grey weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Fleischereien (Reales Carnicerías)",
+                "hu": "Királyi Húspiac (Reales Carnicerías)",
+                "ro": "Măcelăriile Regale (Reales Carnicerías)",
+                "en": "Reales Carnicerías"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische überdachte Markt ist perfekt, um das lokale Leben zu beobachten und gleichzeitig vor plötzlichen Regengüssen geschützt zu bleiben.",
+                "hu": "Ez a történelmi fedett piac tökéletes helyszín a helyi élet megfigyelésére, miközben teljes védelmet élvez a hirtelen lezúduló eső elől.",
+                "ro": "Această piață istorică acoperită este locul perfect pentru a observa viața locală, rămânând în același timp protejat de aversele bruște de ploaie.",
+                "en": "This historic covered market is the perfect spot to observe local life while remaining fully protected from any sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Miguel",
+                "hu": "San Miguel templom",
+                "ro": "Biserica San Miguel",
+                "en": "Iglesia de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das prächtige Altarbild im trockenen Kirchenschiff und lassen Sie Ihre Kleidung trocknen, während Sie die sakrale Kunst studieren.",
+                "hu": "Csodálja meg a pompás oltárképet a templom száraz hajójában, és hagyja, hogy ruhái megszáradjanak, miközben a szakrális művészetet tanulmányozza.",
+                "ro": "Admirați altarul magnific în naosul uscat al bisericii și lăsați-vă hainele să se usuce în timp ce studiați arta sacră din interior.",
+                "en": "Admire the magnificent altarpiece in the dry nave of the church and let your clothes dry while you study the sacred art in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg La Mota",
+                "hu": "La Mota kastély",
+                "ro": "Castelul La Mota",
+                "en": "Castle of La Mota"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenhöfe und Türme, aber seien Sie vorsichtig auf der Zugbrücke, da die Ziegelsteine bei Nässe sehr rutschig sein können.",
+                "hu": "Látogassa meg a belső udvarokat és tornyokat, de legyen óvatos a várhídon, mivel a téglafelületek esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Vizitați curțile interioare și turnurile, dar aveți grijă pe podul de acces, deoarece cărămizile pot deveni foarte alunecoase când sunt ude.",
+                "en": "Visit the inner courtyards and towers, but be careful on the access bridge, as the brick surfaces can become very slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Kastilien empfängt Sie mit frischer Luft. Mittags wärmen Sie sich in den historischen Museen und Kirchen auf, während die Sonne tief am Horizont steht. Da es bereits gegen 17:00 Uhr dunkel wird, erstrahlt die Burg La Mota am späten Nachmittag in goldenem Licht. Der Abend wird bei einem heißen Getränk in den gemütlichen Gassen der Stadt verbracht.",
+            "hu": "A tiszta kasztíliai téli reggel friss levegővel fogadja. Délben a történelmi múzeumokban és templomokban melegedhet fel, miközben a nap alacsonyan jár. Mivel 17:00 körül már sötétedik, a La Mota vár már késő délután aranyló fényben úszik. Az estét érdemes egy forró ital mellett tölteni a város valamelyik hangulatos, fűtött helyén.",
+            "ro": "O dimineață senină de iarnă în Castilia vă întâmpină cu aer proaspăt. La prânz, vă încălziți în muzeele și bisericile istorice, în timp ce soarele stă jos. Deoarece se întunecă în jurul orei 17:00, Castelul La Mota strălucește în lumină aurie încă de după-amiaza târziu. Seara este dedicată unei băuturi calde în locurile primitoare din oraș.",
+            "en": "A clear winter morning in Castile greets you with crisp air. At noon, warm up in the historic museums and churches while the sun stays low on the horizon. Since it gets dark around 17:00, Castle of La Mota glows in golden light by late afternoon. Spend the evening with a hot drink in one of the city's cozy, heated spots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Isabella die Katholische",
+                "hu": "Kasztíliai Izabella",
+                "ro": "Isabela Catolica",
+                "en": "Isabella the Catholic"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Morgenlicht für Fotos der Statue, aber tragen Sie warme Schichten, da der Wind über die offene Plaza Mayor wehen kann.",
+                "hu": "Használja ki a tiszta reggeli fényeket a szobor fotózásához, de öltözzön rétegesen, mert a szél hideg lehet a nyitott Plaza Mayor területén.",
+                "ro": "Profită de lumina clară a dimineții pentru fotografii cu statuia, dar poartă haine groase, deoarece vântul poate fi rece în Plaza Mayor.",
+                "en": "Take advantage of the clear morning light for photos of the statue, but wear warm layers as the wind can be biting across the open Plaza Mayor."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio Testamentario",
+                "hu": "Palacio Testamentario",
+                "ro": "Palacio Testamentario",
+                "en": "Palacio Testamentario"
+              },
+              "tip_5lang": {
+                "de": "Der beheizte Innenraum bietet eine willkommene Pause von der Kälte; nehmen Sie sich Zeit, um die Geschichte in wohliger Wärme zu studieren.",
+                "hu": "A fűtött belső tér kellemes pihenőt kínál a kinti hideg elől; szánjon időt a történelem tanulmányozására a barátságos melegben.",
+                "ro": "Interiorul încălzit oferă o pauză binevenită de frigul de afară; acordați-vă timp pentru a studia istoria în căldura confortabilă a palatului.",
+                "en": "The heated interior offers a welcome break from the cold; take your time to study history in the cozy warmth of the palace chambers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle San Juan de la Cruz",
+                "hu": "Keresztes Szent János kápolna",
+                "ro": "Capela San Juan de la Cruz",
+                "en": "Capilla de San Juan de la Cruz"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, aber wärmender Halt; die dicken Mauern schützen vor dem Winterwind und laden zu einem Moment der inneren Einkehr ein.",
+                "hu": "Rövid, de melengető megálló; a vastag falak megvédenek a téli széltől, és tökéletes helyszínt biztosítanak egy csendes belső elcsendesedéshez.",
+                "ro": "O oprire scurtă, dar primitoare; zidurile groase protejează de vântul de iarnă și invită la un moment de liniște și reculegere interioară.",
+                "en": "A short but warming stop; the thick walls protect you from the winter wind and invite you to a quiet moment of inner reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Fleischereien (Reales Carnicerías)",
+                "hu": "Királyi Húspiac (Reales Carnicerías)",
+                "ro": "Măcelăriile Regale (Reales Carnicerías)",
+                "en": "Reales Carnicerías"
+              },
+              "tip_5lang": {
+                "de": "Die geschäftige Atmosphäre in der geschlossenen Halle schützt vor Zugluft; ideal, um lokale Produkte ohne Frieren zu entdecken.",
+                "hu": "A zárt csarnok nyüzsgő atmoszférája védelmet nyújt a huzat ellen; ideális helyi termékek felfedezéséhez anélkül, hogy fázna.",
+                "ro": "Atmosfera plină de viață din hala închisă vă protejează de curent; este locul ideal pentru a descoperi produse locale fără a dârdâi de frig.",
+                "en": "The bustling atmosphere in the enclosed hall protects you from drafts; it's ideal for discovering local products without feeling the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Miguel",
+                "hu": "San Miguel templom",
+                "ro": "Biserica San Miguel",
+                "en": "Iglesia de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, wenn die tiefstehende Sonne durch die Fenster fällt und den Innenraum malerisch beleuchtet.",
+                "hu": "Látogassa meg a templomot kora délután, amikor az alacsonyan járó nap besüt az ablakokon, festőien megvilágítva a belső teret.",
+                "ro": "Vizitați biserica la începutul după-amiezii, când soarele jos pătrunde prin ferestre și luminează interiorul într-un mod pitoresc.",
+                "en": "Visit the church in the early afternoon when the low winter sun shines through the windows, illuminating the interior picturesquely."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg La Mota",
+                "hu": "La Mota kastély",
+                "ro": "Castelul La Mota",
+                "en": "Castle of La Mota"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um die Festung im letzten Tageslicht zu sehen, bevor die winterliche Dämmerung und Kälte schnell einsetzen.",
+                "hu": "Érkezzen 16:30 előtt, hogy az utolsó nappali fényben lássa az erődöt, mielőtt a téli szürkület és a hideg gyorsan leszállna.",
+                "ro": "Sosiți înainte de ora 16:30 pentru a vedea fortăreața în ultima lumină a zilei, înainte ca amurgul și frigul de iarnă să se instaleze rapid.",
+                "en": "Arrive before 16:30 to see the fortress in the last daylight before the winter twilight and the cold set in rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A reggeli kerékpározás a Santa María Magdalena és a Santa María la Real kolostoroknál indul. Délben a grandiózus Palacio de los Quintanilla és a királyi Palacio Testamentario felé veszi az irányt. Délután a magasba törő La Mota kastélyhoz teker, ahonnan csodás kilátás nyílik. Az este a római kor előtti romoknál ér véget, tökéletes alkalmat adva a város ősi gyökereinek elmélkedésére.",
         "ro": "Dimineața pe bicicletă începe la Mănăstirea Santa María Magdalena și istorica Santa María la Real. La prânz, treceți pe lângă Palacio de los Quintanilla spre regalul Palacio Testamentario. După-amiaza pedalați până la impunătorul Castel La Mota pentru priveliști panoramice deosebite. Seara se încheie perfect printre ruinele preromane, reflectând la originile străvechi ale orașului.",
         "en": "Morning rides kick off at the Convent of Santa María Magdalena and the historic Santa María la Real. Midday takes you past the grand Palacio de los Quintanilla to the regal Palacio Testamentario. Afternoon pedaling leads you up to the towering Castle of La Mota for sweeping views. Evening winds down perfectly among the preroman ruins, reflecting on the ancient roots of Medina del Campo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch die Klöster von Medina erfordert heute wasserfeste Kleidung. Mittags bieten die dicken Klostermauern Schutz, während Sie Ihr Fahrrad unter den Vordächern parken. Der Nachmittag führt über befestigte Wege zur Burg, wo Vorsicht bei nassen Oberflächen geboten ist. Der Tag endet mit einer Fahrt durch die glänzenden Straßen zurück ins Zentrum.",
+            "hu": "A medinai kolostorok közötti kerékpártúra ma vízálló ruházatot igényel. Délben a kolostorok vastag falai nyújtanak menedéket, miközben biciklijét az ereszek alatt hagyhatja. A délutáni út kiépített ösvényeken vezet a várig, ahol a nedves útszakaszokon fokozott figyelem szükséges. A nap a csillogó utcákon át vezet vissza a központba.",
+            "ro": "O tură cu bicicleta prin mănăstirile din Medina necesită astăzi echipament impermeabil. La prânz, zidurile mănăstirilor oferă adăpost, în timp ce lăsați bicicleta sub streșini. După-amiaza vă poartă pe poteci amenajate spre castel, unde este necesară prudență pe suprafețele ude. Ziua se încheie cu o plimbare prin străzile lucioase spre centru.",
+            "en": "A bike tour through Medina's convents requires waterproof gear today. At noon, the thick convent walls provide shelter while you park your bike under the eaves. The afternoon leads along paved paths to the castle, where extra caution is needed on wet surfaces. The day ends with a ride through the glistening streets back to the center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster Santa María Magdalena",
+                "hu": "Santa María Magdalena Kolostor",
+                "ro": "Mănăstirea Santa María Magdalena",
+                "en": "Convento de Santa María Magdalena"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach am Eingang und nutzen Sie die Regenpause, um die Kunstschätze im trockenen Innenraum zu bewundern.",
+                "hu": "Parkolja le kerékpárját a bejáratnál lévő eresz alatt, és használja ki az esőszünetet a műkincsek megtekintésére a száraz belső térben.",
+                "ro": "Parcați bicicleta sub streașina de la intrare și profitați de pauza de ploaie pentru a admira comorile de artă din interiorul uscat.",
+                "en": "Park your bike under the overhang at the entrance and use the rain break to admire the art treasures in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Santa María la Real",
+                "hu": "Santa María la Real Kolostor",
+                "ro": "Mănăstirea Santa María la Real",
+                "en": "Convento de Santa María la Real"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Feuchtigkeit fern; ein idealer Ort für eine längere Pause, um die historische Architektur regengeschützt zu erkunden.",
+                "hu": "A masszív falak távol tartják a nedvességet; ideális hely egy hosszabb pihenőre, ahol az esőtől védve fedezheti fel a történelmi építészetet.",
+                "ro": "Zidurile masive țin umezeala la distanță; un loc ideal pentru o pauză lungă, explorând arhitectura istorică la adăpost de ploaie.",
+                "en": "The massive walls keep the dampness away; it's an ideal spot for a longer break to explore the historic architecture protected from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de los Quintanilla",
+                "hu": "Palacio de los Quintanilla",
+                "ro": "Palacio de los Quintanilla",
+                "en": "Palacio de los Quintanilla"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Pflaster vor dem Palast und bewundern Sie die Fassade schnell, bevor Sie wieder ins Trockene flüchten.",
+                "hu": "Óvatosan kerekezzen a palota előtti vizes kövezetnél, és gyorsan csodálja meg a homlokzatot, mielőtt újra fedett helyre húzódna.",
+                "ro": "Mergeți cu grijă pe pavajul ud din fața palatului și admirați rapid fațada înainte de a vă refugia din nou la adăpost.",
+                "en": "Cycle carefully on the wet pavement in front of the palace and admire the facade quickly before seeking shelter again."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio Testamentario",
+                "hu": "Palacio Testamentario",
+                "ro": "Palacio Testamentario",
+                "en": "Palacio Testamentario"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Halt, um sich vollständig aufzuwärmen und zu trocknen, während Sie in die interaktive Geschichte der Stadt eintauchen.",
+                "hu": "Kiváló megálló, ahol teljesen felmelegedhet és megszáradhat, miközben elmerül a város interaktív történelmében a száraz falak között.",
+                "ro": "O oprire excelentă pentru a vă încălzi și usca complet, în timp ce vă aventurați în istoria interactivă a orașului, la adăpost.",
+                "en": "A great stop to fully warm up and dry off while immersing yourself in the interactive history of the city within its dry walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg La Mota",
+                "hu": "La Mota kastély",
+                "ro": "Castelul La Mota",
+                "en": "Castle of La Mota"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie unbefestigte Wege rund um die Burg, die schlammig sein könnten; bleiben Sie auf den Hauptwegen und achten Sie auf Pfützen.",
+                "hu": "Kerülje el a vár körüli kiépítetlen utakat, amelyek sárosak lehetnek; maradjon a főutakon, és ügyeljen a nagyobb tócsákra.",
+                "ro": "Evitați potecile neamenajate din jurul castelului, care pot fi noroioase; rămâneți pe drumurile principale și atenție la bălți.",
+                "en": "Avoid unpaved paths around the castle which might be muddy; stay on the main routes and watch out for large puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Vorrömische Ruinen",
+                "hu": "Római kor előtti romok",
+                "ro": "Ruinele preromane",
+                "en": "Ruinas prerromanas"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ausgrabungen kurz vom Weg aus, da das Gelände rutschig sein kann, und setzen Sie die Fahrt zügig fort.",
+                "hu": "Tekintse meg az ásatásokat röviden az útról, mivel a terep csúszós lehet, majd folytassa az utat gyorsan egy fedettebb rész felé.",
+                "ro": "Observați săpăturile scurt de pe drum, deoarece terenul poate fi alunecos, apoi continuați drumul rapid spre o zonă mai adăpostită.",
+                "en": "View the excavations briefly from the path as the terrain can be slippery, then continue your ride quickly towards a more sheltered area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Winterluft macht die Radtour durch Medina belebend. Morgens sind Handschuhe Pflicht, während Sie die Klöster besuchen. Mittags steht die Sonne tief und wärmt nur schwach, was lange Pausen in den Palästen ideal macht. Da die Dämmerung früh gegen 17:00 Uhr einsetzt, sollten Sie die Burg im letzten Sonnenlicht erreichen. Der Tag endet mit einer kühlen Fahrt zurück.",
+            "hu": "A hideg téli levegő élénkítővé teszi a medinai kerékpártúrát. Reggel a kesztyű kötelező a kolostorok látogatása közben. Délben a nap alacsonyan jár és gyengén melegít, így a palotákban töltött hosszabb pihenők ideálisak. Mivel a szürkület korán, 17:00 körül kezdődik, érje el a várat az utolsó napsugaraknál.",
+            "ro": "Aerul rece de iarnă face tura cu bicicleta prin Medina revigorantă. Dimineața, mănușile sunt obligatorii. La prânz, soarele stă jos și încălzește slab, făcând pauzele lungi în palate ideale. Deoarece amurgul începe devreme, în jurul orei 17:00, ar trebui să ajungeți la castel în ultimele raze de soare.",
+            "en": "The cold winter air makes the bike tour through Medina invigorating. In the morning, gloves are a must while visiting the convents. At noon, the sun stays low and provides little warmth, making long breaks in the palaces ideal. As dusk starts early around 17:00, aim to reach the castle in the last bits of sunlight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster Santa María Magdalena",
+                "hu": "Santa María Magdalena Kolostor",
+                "ro": "Mănăstirea Santa María Magdalena",
+                "en": "Convento de Santa María Magdalena"
+              },
+              "tip_5lang": {
+                "de": "Die friedliche Atmosphäre im Inneren bietet einen guten Schutz vor dem kalten Morgenwind, bevor Sie die Fahrt fortsetzen.",
+                "hu": "A belső tér békés atmoszférája jó védelmet nyújt a hideg reggeli szél ellen, mielőtt folytatná a kerékpározást a következő állomásig.",
+                "ro": "Atmosfera liniștită din interior oferă o protecție bună împotriva vântului rece de dimineață, înainte de a continua drumul.",
+                "en": "The peaceful atmosphere inside provides good protection from the cold morning wind before you continue your cycling journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Santa María la Real",
+                "hu": "Santa María la Real Kolostor",
+                "ro": "Mănăstirea Santa María la Real",
+                "en": "Convento de Santa María la Real"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen geschichtsträchtigen Ort, um die Kälte kurz zu vergessen; die dicken Klostermauern speichern die Stille und schützen vor Frost.",
+                "hu": "Használja ki ezt a történelmi helyet, hogy rövid időre elfelejtse a hideget; a vastag falak őrzik a csendet és védenek a fagy ellen.",
+                "ro": "Folosiți acest loc istoric pentru a uita scurt de frig; zidurile groase ale mănăstirii păstrează liniștea și protejează de îngheț.",
+                "en": "Use this historic site to briefly forget the cold; the thick convent walls hold the silence and protect you from the frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de los Quintanilla",
+                "hu": "Palacio de los Quintanilla",
+                "ro": "Palacio de los Quintanilla",
+                "en": "Palacio de los Quintanilla"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer architektonischer Stopp; bewundern Sie die Details der Fassade im klaren Winterlicht, bevor Sie für Wärme wieder kräftig in die Pedale treten.",
+                "hu": "Rövid építészeti megálló; csodálja meg a homlokzat részleteit a tiszta téli fényben, mielőtt újra pedálba taposna a felmelegedésért.",
+                "ro": "O scurtă oprire arhitecturală; admirați detaliile fațadei în lumina clară de iarnă, înainte de a pedala din nou pentru a vă încălzi.",
+                "en": "A short architectural stop; admire the facade details in the clear winter light before pedaling hard again to keep your body heat up."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio Testamentario",
+                "hu": "Palacio Testamentario",
+                "ro": "Palacio Testamentario",
+                "en": "Palacio Testamentario"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für eine längere Aufwärmpause in den beheizten Ausstellungsräumen, während Ihr Rad sicher draußen steht.",
+                "hu": "Ez a tökéletes hely egy hosszabb felmelegedési szünetre a fűtött kiállítóterekben, miközben kerékpárja biztonságban várja odakint.",
+                "ro": "Acesta este locul perfect pentru o pauză lungă de încălzire în sălile de expoziție încălzite, în timp ce bicicleta așteaptă afară.",
+                "en": "This is the perfect spot for a long warming break in the heated exhibition rooms while your bike waits safely outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg La Mota",
+                "hu": "La Mota kastély",
+                "ro": "Castelul La Mota",
+                "en": "Castle of La Mota"
+              },
+              "tip_5lang": {
+                "de": "Das rote Backsteinmauerwerk leuchtet in der tiefstehenden Wintersonne besonders intensiv; ideal für Fotos kurz vor Sonnenuntergang.",
+                "hu": "A vörös téglafalak különösen intenzíven fénylenek az alacsonyan járó téli napon; ideális fotózáshoz közvetlenül a naplemente előtt.",
+                "ro": "Zidăria din cărămidă roșie strălucește intens în soarele jos de iarnă; este locul ideal pentru fotografii chiar înainte de apus.",
+                "en": "The red brickwork glows intensely in the low winter sun; it's ideal for photos just before the sun dips below the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Vorrömische Ruinen",
+                "hu": "Római kor előtti romok",
+                "ro": "Ruinele preromane",
+                "en": "Ruinas prerromanas"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen zügig, da es am späten Nachmittag auf dem Hügel sehr zugig und kalt werden kann; achten Sie auf festen Tritt.",
+                "hu": "Látogassa meg gyorsan a romokat, mivel késő délután a dombon nagyon huzatos és hideg lehet; ügyeljen a biztos léptekre a terepen.",
+                "ro": "Vizitați ruinele rapid, deoarece după-amiaza târziu pe deal poate fi foarte mult curent și frig; atenție la stabilitatea pe teren.",
+                "en": "Visit the ruins quickly as it can get very drafty and cold on the hill in the late afternoon; ensure stable footing on the terrain."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "A reggeli autózás a La Golosa lenyűgöző nekropoliszához visz, feltárva az ősi temetkezési helyeket. Délben az Auditorio Municipal környékét érinti, majd a monumentális La Mota kastélyhoz ér. Délután egy festői északi autózás során felfedezi a történelmi Santo Tomás templomot. Az estét a La Casa Blanca, egy lenyűgöző reneszánsz villa eldugott területének bebarangolásával töltheti.",
         "ro": "Conducând dimineața ajungeți la fascinanta Necropolă La Golosa, descoperind situri funerare antice. La prânz vă îndreptați spre zona Auditorio Municipal înainte de a ajunge la monumentalul Castel La Mota. După-amiaza oferă un traseu pitoresc spre nord pentru a explora istorica Iglesia de Santo Tomás. Seara o petreceți explorând domeniul retras de la La Casa Blanca, o vilă renascentistă.",
         "en": "Morning driving brings you to the fascinating Necropolis of La Golosa, uncovering ancient burial sites. Midday shifts towards the Auditorio Municipal area before arriving at the monumental Castle of La Mota. Afternoon offers a scenic drive north to explore the historic Iglesia de Santo Tomás. Evening is spent wandering the secluded grounds of La Casa Blanca, a stunning Renaissance villa."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Medina heute geschützt vor den Regengüssen Kastiliens. Der Morgen führt zur Nekropole, wo Sie die Regenlücken nutzen können. Mittags bietet das Auditorium kulturelle Tiefe im Trockenen. Nachmittags fahren Sie direkt zum Burgtor, um den nassen Weg zu minimieren. Der Tag endet bequem mit einer Fahrt durch die regennassen, beleuchteten Straßen.",
+            "hu": "Autóval ma a kasztíliai esőktől védve fedezheti fel Medinát. A reggel a nekropoliszhoz vezet, ahol kihasználhatja az esőszüneteket. Délben az auditórium kínál kulturális mélységet szárazon. Délután hajtson közvetlenül a várkapuhoz, hogy minimalizálja a vizes gyalogutat. A nap kényelmesen, az esőtől áztatott, kivilágított utcákon át ér véget.",
+            "ro": "Cu mașina, explorați astăzi Medina protejați de ploile Castiliei. Dimineața duce la necropolă, unde puteți profita de pauzele de ploaie. La prânz, auditoriul oferă profunzime culturală la adăpost. După-amiaza, conduceți direct la poarta castelului pentru a minimiza mersul prin ploaie. Ziua se încheie confortabil pe străzile luminate și ude.",
+            "en": "By car, explore Medina today shielded from the Castilian rain. The morning leads to the necropolis, where you can catch breaks in the rain. At noon, the auditorium offers cultural depth indoors. In the afternoon, drive right up to the castle gate to minimize walking in the wet. The day ends comfortably with a drive through the rain-soaked, lit streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nekropole von La Golosa",
+                "hu": "La Golosa nekropolisz",
+                "ro": "Necropola La Golosa",
+                "en": "Necrópolis de La Golosa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis und warten Sie einen trockenen Moment ab, um die antiken Gräber ohne Schirm zu erkunden.",
+                "hu": "Használja az autót bázisként, és várjon meg egy szárazabb pillanatot, hogy esernyő nélkül fedezhesse fel az ősi sírokat a szabadban.",
+                "ro": "Folosiți mașina ca bază și așteptați un moment fără ploaie pentru a explora mormintele antice fără a avea nevoie de umbrelă.",
+                "en": "Use the car as your base and wait for a dry moment to explore the ancient graves outdoors without needing an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Auditorium",
+                "hu": "Városi Auditórium",
+                "ro": "Auditoriul Municipal",
+                "en": "Auditorio Municipal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und genießen Sie das moderne, trockene Ambiente; ein idealer Ort, um der Nässe für eine Weile zu entfliehen.",
+                "hu": "Parkoljon a közelben, és élvezze a modern, száraz környezetet; ideális hely, hogy egy időre elmeneküljön a kinti nyirkos idő elől.",
+                "ro": "Parcați în apropiere și bucurați-vă de ambianța modernă și uscată; este locul ideal pentru a scăpa de umezeală pentru o vreme.",
+                "en": "Park nearby and enjoy the modern, dry ambiance; it's an ideal spot to escape the damp weather outside for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg La Mota",
+                "hu": "La Mota kastély",
+                "ro": "Castelul La Mota",
+                "en": "Castle of La Mota"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz nahe der Brücke; so erreichen Sie die trockenen Innenräume der Festung mit minimalem Zeitaufwand im Regen.",
+                "hu": "Hajtson a híd melletti parkolóig; így minimális esőben töltött idővel érheti el az erőd száraz belső tereit és kiállításait.",
+                "ro": "Conduceți până la parcarea de lângă pod; astfel veți ajunge în interiorul uscat al fortăreței cu un efort minim prin ploaie.",
+                "en": "Drive to the parking area near the bridge; this way you can reach the dry interior of the fortress with minimal time spent in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santo Tomás",
+                "hu": "Santo Tomás templom",
+                "ro": "Biserica Santo Tomás",
+                "en": "Iglesia de Santo Tomás"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Mudejar-Architektur von außen im Schutz Ihres Wagens und huschen Sie dann schnell hinein, um das Interieur zu besichtigen.",
+                "hu": "Csodálja meg a mudéjar építészetet kívülről az autója védelméből, majd gyorsan siessen be, hogy megtekinthesse a templom belsejét.",
+                "ro": "Admirați arhitectura mudejar din exterior din protecția mașinii, apoi intrați rapid pentru a vizita interiorul bisericii la adăpost.",
+                "en": "Admire the Mudejar architecture from the protection of your car, then dash inside quickly to view the church's interior while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa Blanca",
+                "hu": "La Casa Blanca",
+                "ro": "La Casa Blanca",
+                "en": "La Casa Blanca"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt am Stadtrand ist bei Regen mit dem Auto am angenehmsten; genießen Sie die Aussicht auf die Felder, während es draußen stürmt.",
+                "hu": "A városszéli autózás esőben a legkellemesebb; élvezze a kilátást a mezőkre az autó ablakából, miközben odakint esik az eső.",
+                "ro": "Plimbarea la marginea orașului este cea mai plăcută cu mașina pe ploaie; admirați vederea spre câmpuri în timp ce afară plouă torențial.",
+                "en": "The drive on the outskirts is most pleasant by car during rain; enjoy the view of the fields while staying warm and dry inside your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die beheizte Kabine Ihres Autos macht die winterliche Erkundung von Medina sehr komfortabel. Morgens geht es durch die frostige Landschaft zur Nekropole. Mittags wärmen Sie sich in kulturellen Einrichtungen auf. Da die Sonne gegen 17:00 Uhr untergeht, bietet die Fahrt zur Burg La Mota am späten Nachmittag spektakuläre Ausblicke im letzten Licht. Der Tag endet entspannt im Stadtzentrum.",
+            "hu": "Az autó fűtött utastere kényelmessé teszi Medina téli felfedezését. Reggel a zúzmarás tájon át vezet az út a nekropoliszhoz. Délben a kulturális intézményekben melegedhet fel. Mivel a nap 17:00 körül lebukik, a La Mota várhoz vezető út késő délután látványos kilátást nyújt az utolsó fényekben. A nap a központban zárul.",
+            "ro": "Interiorul încălzit al mașinii face explorarea de iarnă a Medinei foarte confortabilă. Dimineața, drumul duce prin peisajul înghețat spre necropolă. La prânz, vă încălziți în instituțiile culturale. Deoarece soarele apune în jurul orei 17:00, drumul spre Castelul La Mota oferă vederi spectaculoase în ultima lumină. Ziua se încheie în centru.",
+            "en": "The heated cabin of your car makes the winter exploration of Medina very comfortable. In the morning, drive through the frosty landscape to the necropolis. At noon, warm up in the cultural venues. As the sun sets around 17:00, the drive to Castle of La Mota offers spectacular views in the last light. The day ends in the city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nekropole von La Golosa",
+                "hu": "La Golosa nekropolisz",
+                "ro": "Necropola La Golosa",
+                "en": "Necrópolis de La Golosa"
+              },
+              "tip_5lang": {
+                "de": "Der morgendliche Frost verleiht den antiken Steinen eine mystische Aura; steigen Sie kurz aus, um die kalte, klare Luft und die Stille zu genießen.",
+                "hu": "A reggeli zúzmara misztikus aurát kölcsönöz az ősi köveknek; szálljon ki rövid időre, hogy élvezze a hideg, tiszta levegőt és a csendet.",
+                "ro": "Bruma de dimineață conferă pietrelor antice o aură mistică; coborâți scurt din mașină pentru a vă bucura de aerul rece și curat.",
+                "en": "The morning frost gives the ancient stones a mystical aura; step out briefly to enjoy the cold, crisp air and the surrounding silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Auditorium",
+                "hu": "Városi Auditórium",
+                "ro": "Auditoriul Municipal",
+                "en": "Auditorio Municipal"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte gegen Kultur einzutauschen; genießen Sie die moderne Architektur in einem gut beheizten Gebäude.",
+                "hu": "Ideális hely, hogy a hideget kultúrára cserélje; élvezze a modern építészetet egy jól fűtött épületben, távol a kinti fagyoktól.",
+                "ro": "Un loc ideal pentru a schimba frigul pe cultură; bucurați-vă de arhitectura modernă într-o clădire bine încălzită, departe de ger.",
+                "en": "An ideal spot to trade the cold for culture; enjoy the modern architecture within a well-heated building, away from the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg La Mota",
+                "hu": "La Mota kastély",
+                "ro": "Castelul La Mota",
+                "en": "Castle of La Mota"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Festung im warmen Licht der tiefstehenden Sonne sehen können, bevor Sie für die Besichtigung ins Innere gehen.",
+                "hu": "Úgy parkoljon le, hogy láthassa az erődöt az alacsonyan járó nap meleg fényeiben, mielőtt bemenne a belső terek megtekintésére.",
+                "ro": "Parcați astfel încât să puteți vedea fortăreața în lumina caldă a soarelui jos, înainte de a intra pentru a vizita interiorul.",
+                "en": "Park so you can see the fortress in the warm light of the low sun before heading inside to explore the chambers and exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santo Tomás",
+                "hu": "Santo Tomás templom",
+                "ro": "Biserica Santo Tomás",
+                "en": "Iglesia de Santo Tomás"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche bieten einen guten Schutz vor dem schneidenden Wind; bewundern Sie die Details in aller Ruhe im Inneren.",
+                "hu": "A templom vastag falai jó védelmet nyújtanak a metsző szél ellen; csodálja meg a részleteket teljes nyugalomban a belső térben.",
+                "ro": "Zidurile groase ale bisericii oferă o protecție bună împotriva vântului tăios; admirați detaliile în liniște deplină în interior.",
+                "en": "The thick church walls offer good protection from the biting wind; admire the architectural details in total peace within the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa Blanca",
+                "hu": "La Casa Blanca",
+                "ro": "La Casa Blanca",
+                "en": "La Casa Blanca"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie sich die langen Winterschatten über die Felder legen, während Sie diesen abgelegenen Ort bequem vom Auto aus besuchen.",
+                "hu": "Figyelje meg, ahogy a hosszú téli árnyékok elnyúlnak a mezőkön, miközben kényelmesen, az autóból látogatja meg ezt a távolabbi helyszínt.",
+                "ro": "Observați cum umbrele lungi de iarnă se aștern peste câmpuri în timp ce vizitați acest loc retras confortabil, direct din mașină.",
+                "en": "Observe how the long winter shadows stretch across the fields while you visit this remote location comfortably from your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

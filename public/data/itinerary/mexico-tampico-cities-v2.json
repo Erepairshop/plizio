@@ -137,6 +137,168 @@
         "hu": "A reggel kulturális elmélyüléssel kezdődik a Teatro UniSan-ban, majd séta a Piramide de Las Flores ősi romjaihoz. A dél a modern Templo de Tampico békés pihenőjét hozza el. Délután a Laguna del Carpintero térségére összpontosítunk, felfedezve a hatalmas Centro de Convenciones-t. Az este a szomszédos nagyszerű Teatro Metropolitano-ban zárul, művészi pompával fejezve be a napot.",
         "ro": "Dimineața începe cu imersiune culturală la Teatro UniSan, urmată de o plimbare spre ruinele Piramide de Las Flores. Prânzul aduce o oprire senină la modernul Templo de Tampico. După-amiaza se concentrează pe zona Laguna del Carpintero, explorând vastul Centro de Convenciones. Seara se încheie alături, la grandiosul Teatro Metropolitano, terminând ziua cu strălucire artistică.",
         "en": "Morning begins with cultural immersion at Teatro UniSan, followed by a walk to the ancient Huastec ruins of Piramide de Las Flores. Midday brings a serene stop at the modern Templo de Tampico, offering a peaceful respite. Afternoon shifts focus to the Laguna del Carpintero area, exploring the vast Centro de Convenciones. Evening concludes next door at the grand Teatro Metropolitano, ending the day with artistic brilliance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den nassen Morgen drinnen im Theater. Mittags erkunden Sie die rutschigen Pyramidenpfade vorsichtig mit Regenschirm und trocknen sich im Tempel. Der Nachmittag wird sicher im großen Kongresszentrum verbracht. Wir beenden den Abend im Metropol-Theater, perfekt geschützt vor dem starken Regen.",
+            "hu": "Az esős reggelt a színház fedett falai között kezdjük. Délben óvatosan, esernyővel járjuk be a piramis csúszós ösvényeit, majd a templomban száradunk meg. A délutánt a hatalmas kongresszusi központ biztonságában töltjük. Az estét a metropolisz színházban zárjuk, tökéletesen védve a heves esőzéstől.",
+            "ro": "Începem dimineața ploioasă la adăpost în teatru. La prânz, parcurgeți cu grijă cărările alunecoase ale piramidei cu o umbrelă, apoi uscați-vă în templu. După-amiaza este petrecută în siguranță în uriașul centru de convenții. Încheiem seara la teatrul metropolitan, perfect protejați de ploaia torențială.",
+            "en": "We start our wet morning indoors at the theater. By noon, navigate the slippery paths of the pyramid carefully with an umbrella, then dry off in the temple. The afternoon is safely spent inside the massive convention center. We conclude the evening at the metropolitan theater, perfectly shielded from the heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro UniSan",
+                "hu": "Teatro UniSan",
+                "ro": "Teatro UniSan",
+                "en": "Teatro UniSan"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schöne Bühne und Architektur im Inneren. Es ist ein perfekter, trockener Zufluchtsort vor den morgendlichen Regenschauern.",
+                "hu": "Csodálja meg a gyönyörű színpadot és építészetet odabent. Tökéletes száraz menedék a reggeli záporok elől, töltsön sok időt a hangulatos előtérben.",
+                "ro": "Admirați scena frumoasă și arhitectura înăuntru. Este un refugiu uscat perfect de aversele matinale, așa că petreceți timp în holul confortabil.",
+                "en": "Admire the beautiful stage and architecture inside. It's a perfect dry refuge from the morning showers, so take your time exploring the cozy lobby."
+              }
+            },
+            {
+              "name": {
+                "de": "Piramide de Las Flores",
+                "hu": "Piramide de Las Flores",
+                "ro": "Piramide de Las Flores",
+                "en": "Piramide de Las Flores"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die faszinierenden huastekischen Ruinen an. Tragen Sie wasserdichte Schuhe, da die grasbewachsenen Wege der Stätte sehr rutschig werden.",
+                "hu": "Nézze meg a lenyűgöző huastec romokat közelről. Viseljen vízálló cipőt, mert a régészeti lelőhely körüli füves ösvények nagyon csúszóssá válnak.",
+                "ro": "Vedeți de aproape fascinantele ruine huastece. Purtați încălțăminte impermeabilă, deoarece cărările cu iarbă din jurul sitului devin foarte alunecoase.",
+                "en": "See the fascinating Huastec ruins up close. Wear sturdy, waterproof shoes because the grassy paths around the archaeological site get very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo de Tampico, México",
+                "hu": "Templo de Tampico, México",
+                "ro": "Templo de Tampico, México",
+                "en": "Templo de Tampico, México"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das elegante, moderne Design dieses heiligen Ortes. Er bietet tollen Schutz vor plötzlichen Regengüssen bei friedlicher Innenraumatmosphäre.",
+                "hu": "Fedezze fel e szent tér elegáns, modern dizájnját. Kiváló menedéket nyújt a hirtelen lezúduló eső elől, miközben élvezi a békés, csendes belső teret.",
+                "ro": "Descoperiți designul modern și elegant al acestui spațiu sacru. Oferă un adăpost excelent împotriva ploilor bruște, în timp ce vă bucurați de liniște.",
+                "en": "Discover the elegant modern design of this sacred space. It offers great shelter from sudden downpours while you enjoy the peaceful, quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Convenciones Tampico",
+                "hu": "Centro de Convenciones Tampico",
+                "ro": "Centro de Convenciones Tampico",
+                "en": "Centro de Convenciones Tampico"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie riesige Messehallen und lokale Veranstaltungen. Diese große Innenanlage ist ideal, um bei verschiedenen Aktivitäten völlig trocken zu bleiben.",
+                "hu": "Fedezze fel a hatalmas kiállítótermeket és a helyi eseményeket. Ez az óriási fedett létesítmény ideális arra, hogy teljesen száraz maradjon bent.",
+                "ro": "Explorați sălile masive de expoziții și evenimentele locale. Această facilitate interioară uriașă este ideală pentru a rămâne complet uscat.",
+                "en": "Explore massive exhibition halls and local events. This huge indoor facility is ideal for staying completely dry while enjoying various activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Metropolitano de Tampico",
+                "hu": "Teatro Metropolitano de Tampico",
+                "ro": "Teatro Metropolitano de Tampico",
+                "en": "Teatro Metropolitano de Tampico"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die atemberaubende Akustik und das Design. Beenden Sie Ihren nassen Tag hier mit einer Show im Haus, sicher vor den Abendgewittern.",
+                "hu": "Csodálja meg a lenyűgöző akusztikát és a nagyszerű dizájnt. Zárja a nedves napot itt egy beltéri műsorral, biztonságban az esti zivataroktól.",
+                "ro": "Minunați-vă de acustica uimitoare și de designul grandios. Încheiați-vă ziua ploioasă aici cu un spectacol, ferit de furtunile puternice de seară.",
+                "en": "Marvel at the stunning acoustics and grand design. End your wet day here with an indoor show, safely away from the heavy evening thunderstorms."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen mit einem Theaterbesuch. Der Mittag bietet perfektes, kühles Wetter zur Erkundung der Pyramide und des Tempels. Verbringen Sie den Nachmittag im angenehm beheizten Kongresszentrum. Wenn die Sonne früh um 17:00 Uhr untergeht, genießen Sie einen gemütlichen Abend im Theater.",
+            "hu": "Kezdje a csípős téli reggelt egy kulturális színházlátogatással. A dél tökéletes, hűvös időt kínál a piramis és a békés templom felfedezéséhez. A délutánt a kellemesen fűtött kongresszusi központban töltheti. Ahogy a nap korán, 17:00 körül lenyugszik, élvezze a hangulatos estét a nagyszerű színházban.",
+            "ro": "Începeți dimineața geroasă de iarnă cu o vizită culturală la teatru. Amiaza oferă o vreme răcoroasă perfectă pentru explorarea piramidei și a templului. Petreceți după-amiaza în centrul de convenții încălzit confortabil. Odată cu apusul devreme la 17:00, bucurați-vă de o seară confortabilă în marele teatru.",
+            "en": "Begin the crisp winter morning with a cultural theater visit. Midday offers perfect, cool weather for exploring the ancient pyramid and the peaceful temple. Spend the afternoon in the comfortably heated convention center. As the sun sets early around 17:00, enjoy a cozy evening inside the grand metropolitan theater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro UniSan",
+                "hu": "Teatro UniSan",
+                "ro": "Teatro UniSan",
+                "en": "Teatro UniSan"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie lokale Aufführungen in diesem intimen Rahmen. Das beheizte Innere bietet einen warmen Start in Ihren frischen Wintermorgen in der Stadt.",
+                "hu": "Élvezze a helyi előadásokat ebben a meghitt térben. A fűtött belső tér meleg, kényelmes kezdést biztosít a csípős téli reggelhez a városban.",
+                "ro": "Experimentați spectacole locale în această locație intimă. Interiorul încălzit oferă un început cald și confortabil pentru dimineața dvs. de iarnă.",
+                "en": "Experience local performances in this intimate venue. The heated interior provides a warm, comfortable start to your crisp winter morning in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Piramide de Las Flores",
+                "hu": "Piramide de Las Flores",
+                "ro": "Piramide de Las Flores",
+                "en": "Piramide de Las Flores"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie um die alte präkolumbianische Tempelbasis. Die kühle Winterluft macht das Besteigen der Wege viel weniger anstrengend als im Sommer.",
+                "hu": "Sétáljon az ősi prekolumbián templom alapja körül. A hűvös téli levegő miatt az ösvények megmászása sokkal kevésbé fárasztó, mint a nyári hőségben.",
+                "ro": "Plimbați-vă în jurul bazei antice a templului precolumbian. Aerul rece de iarnă face urcarea pe cărări mult mai puțin obositoare decât vara.",
+                "en": "Walk around the ancient pre-Columbian temple base. The cool winter air makes climbing the paths much less exhausting than in the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo de Tampico, México",
+                "hu": "Templo de Tampico, México",
+                "ro": "Templo de Tampico, México",
+                "en": "Templo de Tampico, México"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schönen Buntglasfenster und den ruhigen Altar. Es ist ein fantastischer Ort, um sich die Hände aufzuwärmen, bevor es nach draußen geht.",
+                "hu": "Csodálja meg a gyönyörű ólomüveg ablakokat és a békés oltárt. Fantasztikus hely arra, hogy felmelegedjen, mielőtt visszatér a téli hidegbe.",
+                "ro": "Admirați vitraliile frumoase și altarul senin. Este un loc fantastic pentru a vă încălzi mâinile înăuntru înainte de a ieși în frigul iernii.",
+                "en": "Admire the beautiful stained glass and serene altar. It's a fantastic spot to warm up your hands indoors before heading back into the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Convenciones Tampico",
+                "hu": "Centro de Convenciones Tampico",
+                "ro": "Centro de Convenciones Tampico",
+                "en": "Centro de Convenciones Tampico"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie durch große Kunst- und Kulturausstellungen. Dieser klimatisierte Ort ist ideal für einen gemütlichen Nachmittagsspaziergang ohne kalte Winde.",
+                "hu": "Sétáljon a nagy művészeti és kulturális kiállításokon. Ez a klimatizált helyszín ideális egy kényelmes délutáni sétához, távol a hideg széltől.",
+                "ro": "Plimbați-vă prin mari expoziții de artă și cultură. Acest loc cu temperatură controlată este ideal pentru o plimbare confortabilă departe de vânturile reci.",
+                "en": "Wander through large art and cultural exhibitions. This climate-controlled venue is ideal for a comfortable afternoon stroll away from the cold winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Metropolitano de Tampico",
+                "hu": "Teatro Metropolitano de Tampico",
+                "ro": "Teatro Metropolitano de Tampico",
+                "en": "Teatro Metropolitano de Tampico"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie erstklassige Unterhaltung in luxuriöser Umgebung. Da es um 17:00 Uhr früh dunkel wird, ist eine gemütliche Abendshow hier sehr zu empfehlen.",
+                "hu": "Élvezze az első osztályú szórakozást luxus környezetben. Mivel korán, 17:00 körül sötétedik, kifejezetten ajánlott egy hangulatos esti műsor megtekintése.",
+                "ro": "Bucurați-vă de divertisment de top într-un cadru luxos. Deoarece se întunecă devreme în jurul orei 17:00, un spectacol de seară aici este recomandat.",
+                "en": "Enjoy top-tier entertainment in a luxurious setting. Since it gets dark early around 17:00, catching a cozy evening show here is highly recommended."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a Teatro UniSan helyi művészetével, mielőtt a történelmi Piramide de Las Flores felé pedálozna. A déli tekerés a nyugodt Templo de Tampico-hoz visz egy csendes pihenőre. A délutáni szellő kíséri útját a nyüzsgő Centro de Convenciones és a Teatro Metropolitano felé. Az este egy frissítő úszással vagy tóparti pihenéssel zárul az Alberca Olimpica-ban.",
         "ro": "Începeți turul cu bicicleta cu arta locală la Teatro UniSan înainte de a pedala spre istorica Piramide de Las Flores. Ciclismul de la prânz vă duce la liniștitul Templo de Tampico. Briza de după-amiază vă însoțește plimbarea spre plinul de viață Centro de Convenciones și Teatro Metropolitano. Seara se relaxează cu o baie răcoritoare la Alberca Olimpica.",
         "en": "Kick off your cycling tour with local art at Teatro UniSan before pedaling to the historic Piramide de Las Flores. Midday cycling takes you to the tranquil Templo de Tampico for a quiet break. Afternoon breezes accompany your ride to the bustling Centro de Convenciones and the adjacent Teatro Metropolitano. Evening winds down with a refreshing swim or lakeside relaxation at the Alberca Olimpica."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die nasse Morgenfahrt mit Vorsicht und suchen Sie im Theater Zuflucht. Die Mittagsfahrt zu den Ruinen und zum Tempel erfordert einen guten Poncho und Vorsicht auf rutschigen Wegen. Der regnerische Nachmittag führt zum Kongresszentrum. Wir beenden die Fahrt sicher am Theater und am Olympia-Schwimmbecken.",
+            "hu": "Óvatosan kezdje a nedves reggeli kerékpározást, keressen menedéket a színházban. A déli tekerés a romokhoz és a templomhoz esőköpenyt és figyelmet igényel. Az esős délután a kongresszusi központ felé folytatódik. A csúszós esti utat biztonságosan zárjuk a színháznál és az olimpiai medencénél.",
+            "ro": "Începeți plimbarea umedă de dimineață cu prudență, căutând refugiu în teatru. Ciclismul de prânz către ruine și templu necesită un poncho bun și grijă pe cărările alunecoase. După-amiaza ploioasă continuă spre centrul de convenții. Terminăm cursa alunecoasă de seară în siguranță la teatru și piscina olimpică.",
+            "en": "Start the wet morning ride with caution, seeking dry refuge at the theater. Midday cycling to the ruins and temple requires a good poncho and care on slick paths. The rainy afternoon continues towards the massive indoor convention center. We finish the slippery evening ride safely at the theater and olympic pool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro UniSan",
+                "hu": "Teatro UniSan",
+                "ro": "Teatro UniSan",
+                "en": "Teatro UniSan"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schöne Bühne und Architektur im Inneren. Es ist ein perfekter, trockener Zufluchtsort vor den morgendlichen Regenschauern.",
+                "hu": "Csodálja meg a gyönyörű színpadot és építészetet odabent. Tökéletes száraz menedék a reggeli záporok elől, töltsön sok időt a hangulatos előtérben.",
+                "ro": "Admirați scena frumoasă și arhitectura înăuntru. Este un refugiu uscat perfect de aversele matinale, așa că petreceți timp în holul confortabil.",
+                "en": "Admire the beautiful stage and architecture inside. It's a perfect dry refuge from the morning showers, so take your time exploring the cozy lobby."
+              }
+            },
+            {
+              "name": {
+                "de": "Piramide de Las Flores",
+                "hu": "Piramide de Las Flores",
+                "ro": "Piramide de Las Flores",
+                "en": "Piramide de Las Flores"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die faszinierenden huastekischen Ruinen an. Tragen Sie wasserdichte Schuhe, da die grasbewachsenen Wege der Stätte sehr rutschig werden.",
+                "hu": "Nézze meg a lenyűgöző huastec romokat közelről. Viseljen vízálló cipőt, mert a régészeti lelőhely körüli füves ösvények nagyon csúszóssá válnak.",
+                "ro": "Vedeți de aproape fascinantele ruine huastece. Purtați încălțăminte impermeabilă, deoarece cărările cu iarbă din jurul sitului devin foarte alunecoase.",
+                "en": "See the fascinating Huastec ruins up close. Wear sturdy, waterproof shoes because the grassy paths around the archaeological site get very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo de Tampico, México",
+                "hu": "Templo de Tampico, México",
+                "ro": "Templo de Tampico, México",
+                "en": "Templo de Tampico, México"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das elegante, moderne Design dieses heiligen Ortes. Er bietet tollen Schutz vor plötzlichen Regengüssen bei friedlicher Innenraumatmosphäre.",
+                "hu": "Fedezze fel e szent tér elegáns, modern dizájnját. Kiváló menedéket nyújt a hirtelen lezúduló eső elől, miközben élvezi a békés, csendes belső teret.",
+                "ro": "Descoperiți designul modern și elegant al acestui spațiu sacru. Oferă un adăpost excelent împotriva ploilor bruște, în timp ce vă bucurați de liniște.",
+                "en": "Discover the elegant modern design of this sacred space. It offers great shelter from sudden downpours while you enjoy the peaceful, quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Convenciones Tampico",
+                "hu": "Centro de Convenciones Tampico",
+                "ro": "Centro de Convenciones Tampico",
+                "en": "Centro de Convenciones Tampico"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie riesige Messehallen und lokale Veranstaltungen. Diese große Innenanlage ist ideal, um bei verschiedenen Aktivitäten völlig trocken zu bleiben.",
+                "hu": "Fedezze fel a hatalmas kiállítótermeket és a helyi eseményeket. Ez az óriási fedett létesítmény ideális arra, hogy teljesen száraz maradjon bent.",
+                "ro": "Explorați sălile masive de expoziții și evenimentele locale. Această facilitate interioară uriașă este ideală pentru a rămâne complet uscat.",
+                "en": "Explore massive exhibition halls and local events. This huge indoor facility is ideal for staying completely dry while enjoying various activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Metropolitano de Tampico",
+                "hu": "Teatro Metropolitano de Tampico",
+                "ro": "Teatro Metropolitano de Tampico",
+                "en": "Teatro Metropolitano de Tampico"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die atemberaubende Akustik und das Design. Beenden Sie Ihren nassen Tag hier mit einer Show im Haus, sicher vor den Abendgewittern.",
+                "hu": "Csodálja meg a lenyűgöző akusztikát és a nagyszerű dizájnt. Zárja a nedves napot itt egy beltéri műsorral, biztonságban az esti zivataroktól.",
+                "ro": "Minunați-vă de acustica uimitoare și de designul grandios. Încheiați-vă ziua ploioasă aici cu un spectacol, ferit de furtunile puternice de seară.",
+                "en": "Marvel at the stunning acoustics and grand design. End your wet day here with an indoor show, safely away from the heavy evening thunderstorms."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Olimpica",
+                "hu": "Alberca Olimpica",
+                "ro": "Alberca Olimpica",
+                "en": "Alberca Olimpica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den beeindruckenden Schwimmkomplex. Auch bei Regen bieten die überdachten Bereiche Schutz, seien Sie nur vorsichtig am nassen Beckenrand.",
+                "hu": "Látogasson el a lenyűgöző úszókomplexumba. A fedett részek esőben is menedéket nyújtanak, csak vigyázzon a nedves medencetér csúszós kövein.",
+                "ro": "Vizitați impresionantul complex de înot. Chiar dacă plouă, zonele acoperite oferă adăpost, aveți doar grijă pe punțile umede ale piscinei.",
+                "en": "Visit the impressive athletic swimming complex. Even if it rains, the covered areas provide shelter, just be careful on the wet pool decks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für eine frische Morgenfahrt zum warmen Theater. Radfahren am Mittag ist ideal, um sich beim Besuch der Pyramide und des Tempels warm zu halten. Die Nachmittagsfahrt zum Kongresszentrum regt die Durchblutung an. Denken Sie an den frühen Sonnenuntergang um 17:00 Uhr und nutzen Sie Fahrradlichter.",
+            "hu": "Öltözzön melegen a friss reggeli kerékpározáshoz a színházba. A déli tekerés fantasztikus módja a kimelegedésnek a piramis és a templom látogatása során. A délutáni út mozgásban tartja a testet a kongresszusi központig. Figyeljen a korai, 17:00 órai naplementére, használjon lámpákat az esti megállókhoz.",
+            "ro": "Îmbrăcați-vă bine pentru o plimbare revigorantă de dimineață la teatru. Ciclismul la prânz este o modalitate fantastică de a vă încălzi vizitând piramida și templul. Plimbarea de după-amiază vă menține în mișcare spre centrul de convenții. Atenție la apusul devreme la 17:00, asigurați-vă că aveți lumini la bicicletă.",
+            "en": "Bundle up for a brisk morning ride to the warm theater. Midday cycling is a fantastic way to stay warm while visiting the ancient pyramid and the local temple. The afternoon ride keeps the blood flowing nicely to the convention halls. Beware the early 17:00 sunset, ensure you have bike lights for the final evening stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro UniSan",
+                "hu": "Teatro UniSan",
+                "ro": "Teatro UniSan",
+                "en": "Teatro UniSan"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie lokale Aufführungen in diesem intimen Rahmen. Das beheizte Innere bietet einen warmen Start in Ihren frischen Wintermorgen in der Stadt.",
+                "hu": "Élvezze a helyi előadásokat ebben a meghitt térben. A fűtött belső tér meleg, kényelmes kezdést biztosít a csípős téli reggelhez a városban.",
+                "ro": "Experimentați spectacole locale în această locație intimă. Interiorul încălzit oferă un început cald și confortabil pentru dimineața dvs. de iarnă.",
+                "en": "Experience local performances in this intimate venue. The heated interior provides a warm, comfortable start to your crisp winter morning in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Piramide de Las Flores",
+                "hu": "Piramide de Las Flores",
+                "ro": "Piramide de Las Flores",
+                "en": "Piramide de Las Flores"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie um die alte präkolumbianische Tempelbasis. Die kühle Winterluft macht das Besteigen der Wege viel weniger anstrengend als im Sommer.",
+                "hu": "Sétáljon az ősi prekolumbián templom alapja körül. A hűvös téli levegő miatt az ösvények megmászása sokkal kevésbé fárasztó, mint a nyári hőségben.",
+                "ro": "Plimbați-vă în jurul bazei antice a templului precolumbian. Aerul rece de iarnă face urcarea pe cărări mult mai puțin obositoare decât vara.",
+                "en": "Walk around the ancient pre-Columbian temple base. The cool winter air makes climbing the paths much less exhausting than in the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo de Tampico, México",
+                "hu": "Templo de Tampico, México",
+                "ro": "Templo de Tampico, México",
+                "en": "Templo de Tampico, México"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schönen Buntglasfenster und den ruhigen Altar. Es ist ein fantastischer Ort, um sich die Hände aufzuwärmen, bevor es nach draußen geht.",
+                "hu": "Csodálja meg a gyönyörű ólomüveg ablakokat és a békés oltárt. Fantasztikus hely arra, hogy felmelegedjen, mielőtt visszatér a téli hidegbe.",
+                "ro": "Admirați vitraliile frumoase și altarul senin. Este un loc fantastic pentru a vă încălzi mâinile înăuntru înainte de a ieși în frigul iernii.",
+                "en": "Admire the beautiful stained glass and serene altar. It's a fantastic spot to warm up your hands indoors before heading back into the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Convenciones Tampico",
+                "hu": "Centro de Convenciones Tampico",
+                "ro": "Centro de Convenciones Tampico",
+                "en": "Centro de Convenciones Tampico"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie durch große Kunst- und Kulturausstellungen. Dieser klimatisierte Ort ist ideal für einen gemütlichen Nachmittagsspaziergang ohne kalte Winde.",
+                "hu": "Sétáljon a nagy művészeti és kulturális kiállításokon. Ez a klimatizált helyszín ideális egy kényelmes délutáni sétához, távol a hideg széltől.",
+                "ro": "Plimbați-vă prin mari expoziții de artă și cultură. Acest loc cu temperatură controlată este ideal pentru o plimbare confortabilă departe de vânturile reci.",
+                "en": "Wander through large art and cultural exhibitions. This climate-controlled venue is ideal for a comfortable afternoon stroll away from the cold winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Metropolitano de Tampico",
+                "hu": "Teatro Metropolitano de Tampico",
+                "ro": "Teatro Metropolitano de Tampico",
+                "en": "Teatro Metropolitano de Tampico"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie erstklassige Unterhaltung in luxuriöser Umgebung. Da es um 17:00 Uhr früh dunkel wird, ist eine gemütliche Abendshow hier sehr zu empfehlen.",
+                "hu": "Élvezze az első osztályú szórakozást luxus környezetben. Mivel korán, 17:00 körül sötétedik, kifejezetten ajánlott egy hangulatos esti műsor megtekintése.",
+                "ro": "Bucurați-vă de divertisment de top într-un cadru luxos. Deoarece se întunecă devreme în jurul orei 17:00, un spectacol de seară aici este recomandat.",
+                "en": "Enjoy top-tier entertainment in a luxurious setting. Since it gets dark early around 17:00, catching a cozy evening show here is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Olimpica",
+                "hu": "Alberca Olimpica",
+                "ro": "Alberca Olimpica",
+                "en": "Alberca Olimpica"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die professionellen Schwimmanlagen aus der Nähe an. Bringen Sie eine warme Jacke mit, da die offenen Beckenbereiche am frühen Abend kalt werden.",
+                "hu": "Nézze meg közelről a professzionális úszólétesítményeket. Hozzon meleg kabátot, mert a nyitott medenceterek meglehetősen szelesek és hidegek lehetnek kora este.",
+                "ro": "Vedeți de aproape facilitățile profesionale de înot. Aduceți o jachetă caldă, deoarece zonele deschise ale piscinei pot deveni reci odată cu seara devreme.",
+                "en": "See the professional swimming facilities up close. Bring a warm jacket, as the open pool areas can get quite breezy and cold as the early evening sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az utazás a Teatro UniSan kulturális központjában kezdődik, majd a Piramide de Las Flores régészeti lelőhelyére vezet. A dél egy frissítő csobbanásra csábít az Alberca Unidad Nacional-ban, majd a Templo de Tampico következik. Délután a Laguna del Carpintero-hoz hajtunk, ahol a Centro de Convenciones és a Teatro Metropolitano vár. Az este az Alberca Olimpica-nál ér véget.",
         "ro": "Călătoria începe la Teatro UniSan, apoi se îndreaptă spre fascinantul sit arheologic Piramide de Las Flores. Amiaza invită la o baie revigorantă la Alberca Unidad Nacional, urmată de o vizită liniștită la Templo de Tampico. Conducerea de după-amiază vă duce la Laguna del Carpintero pentru Centro de Convenciones și Teatro Metropolitano. Seara se termină perfect la Alberca Olimpica.",
         "en": "Your drive begins at the cultural hub of Teatro UniSan, then heads to the fascinating archaeological site of Piramide de Las Flores. Midday invites a refreshing dip at Alberca Unidad Nacional, followed by a peaceful visit to Templo de Tampico. Afternoon driving takes you to the Laguna del Carpintero for the Centro de Convenciones and Teatro Metropolitano. Evening ends perfectly at the classic Alberca Olimpica."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie sicher durch den Morgenregen zu unserem ersten Theaterstopp. Halten Sie mittags Ihren Regenschirm bereit für kurze Sprints vom Parkplatz zur Pyramide und zum Pool. Verbringen Sie einen trockenen Nachmittag im Tempel und Kongresszentrum. Der Abend ist im Metropol-Theater perfekt vor Gewittern geschützt.",
+            "hu": "Vezessen biztonságosan a reggeli esőben az első fedett színházi megállóig. Délben tartsa kéznél az esernyőt a parkolótól a piramisig és a medencéig tartó rövid sétákhoz. Töltsön egy száraz délutánt a templom és a kongresszusi központ felfedezésével. Az este tökéletesen védett a zivataroktól a színházban.",
+            "ro": "Conduceți în siguranță prin ploaia de dimineață până la prima oprire la teatru. La prânz, păstrați umbrela la îndemână pentru drumuri rapide de la parcare la piramidă și piscină. Petreceți o după-amiază uscată explorând templul și centrul de convenții. Seara este perfect protejată de furtuni în teatrul metropolitan.",
+            "en": "Drive safely through the morning rain to our first indoor theater stop. By midday, keep your umbrella handy for quick dashes from the parking lot to the pyramid and pool. Spend a dry afternoon exploring the temple and huge convention center. The evening is perfectly shielded from thunderstorms inside the grand metropolitan theater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro UniSan",
+                "hu": "Teatro UniSan",
+                "ro": "Teatro UniSan",
+                "en": "Teatro UniSan"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schöne Bühne und Architektur im Inneren. Es ist ein perfekter, trockener Zufluchtsort vor den morgendlichen Regenschauern.",
+                "hu": "Csodálja meg a gyönyörű színpadot és építészetet odabent. Tökéletes száraz menedék a reggeli záporok elől, töltsön sok időt a hangulatos előtérben.",
+                "ro": "Admirați scena frumoasă și arhitectura înăuntru. Este un refugiu uscat perfect de aversele matinale, așa că petreceți timp în holul confortabil.",
+                "en": "Admire the beautiful stage and architecture inside. It's a perfect dry refuge from the morning showers, so take your time exploring the cozy lobby."
+              }
+            },
+            {
+              "name": {
+                "de": "Piramide de Las Flores",
+                "hu": "Piramide de Las Flores",
+                "ro": "Piramide de Las Flores",
+                "en": "Piramide de Las Flores"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die faszinierenden huastekischen Ruinen an. Tragen Sie wasserdichte Schuhe, da die grasbewachsenen Wege der Stätte sehr rutschig werden.",
+                "hu": "Nézze meg a lenyűgöző huastec romokat közelről. Viseljen vízálló cipőt, mert a régészeti lelőhely körüli füves ösvények nagyon csúszóssá válnak.",
+                "ro": "Vedeți de aproape fascinantele ruine huastece. Purtați încălțăminte impermeabilă, deoarece cărările cu iarbă din jurul sitului devin foarte alunecoase.",
+                "en": "See the fascinating Huastec ruins up close. Wear sturdy, waterproof shoes because the grassy paths around the archaeological site get very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Unidad Nacional",
+                "hu": "Alberca Unidad Nacional",
+                "ro": "Alberca Unidad Nacional",
+                "en": "Alberca Unidad Nacional"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weitläufigen Gemeinschaftspoolanlagen. Warten Sie starken Regen unter den Pavillondächern ab und halten Sie einen Schirm bereit.",
+                "hu": "Élvezze a tágas közösségi medence nyújtotta lehetőségeket. Várja ki a heves esőt a pavilonok alatt, és tartson kéznél esernyőt az autóhoz.",
+                "ro": "Bucurați-vă de facilitățile spațioase ale piscinei comunitare. Așteptați ploaia sub acoperișurile pavilionului și păstrați o umbrelă la îndemână.",
+                "en": "Enjoy the spacious community pool facilities. Wait out heavy rain under the pavilion roofs and keep an umbrella handy for the walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo de Tampico, México",
+                "hu": "Templo de Tampico, México",
+                "ro": "Templo de Tampico, México",
+                "en": "Templo de Tampico, México"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das elegante, moderne Design dieses heiligen Ortes. Er bietet tollen Schutz vor plötzlichen Regengüssen bei friedlicher Innenraumatmosphäre.",
+                "hu": "Fedezze fel e szent tér elegáns, modern dizájnját. Kiváló menedéket nyújt a hirtelen lezúduló eső elől, miközben élvezi a békés, csendes belső teret.",
+                "ro": "Descoperiți designul modern și elegant al acestui spațiu sacru. Oferă un adăpost excelent împotriva ploilor bruște, în timp ce vă bucurați de liniște.",
+                "en": "Discover the elegant modern design of this sacred space. It offers great shelter from sudden downpours while you enjoy the peaceful, quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Convenciones Tampico",
+                "hu": "Centro de Convenciones Tampico",
+                "ro": "Centro de Convenciones Tampico",
+                "en": "Centro de Convenciones Tampico"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie riesige Messehallen und lokale Veranstaltungen. Diese große Innenanlage ist ideal, um bei verschiedenen Aktivitäten völlig trocken zu bleiben.",
+                "hu": "Fedezze fel a hatalmas kiállítótermeket és a helyi eseményeket. Ez az óriási fedett létesítmény ideális arra, hogy teljesen száraz maradjon bent.",
+                "ro": "Explorați sălile masive de expoziții și evenimentele locale. Această facilitate interioară uriașă este ideală pentru a rămâne complet uscat.",
+                "en": "Explore massive exhibition halls and local events. This huge indoor facility is ideal for staying completely dry while enjoying various activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Metropolitano de Tampico",
+                "hu": "Teatro Metropolitano de Tampico",
+                "ro": "Teatro Metropolitano de Tampico",
+                "en": "Teatro Metropolitano de Tampico"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die atemberaubende Akustik und das Design. Beenden Sie Ihren nassen Tag hier mit einer Show im Haus, sicher vor den Abendgewittern.",
+                "hu": "Csodálja meg a lenyűgöző akusztikát és a nagyszerű dizájnt. Zárja a nedves napot itt egy beltéri műsorral, biztonságban az esti zivataroktól.",
+                "ro": "Minunați-vă de acustica uimitoare și de designul grandios. Încheiați-vă ziua ploioasă aici cu un spectacol, ferit de furtunile puternice de seară.",
+                "en": "Marvel at the stunning acoustics and grand design. End your wet day here with an indoor show, safely away from the heavy evening thunderstorms."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Olimpica",
+                "hu": "Alberca Olimpica",
+                "ro": "Alberca Olimpica",
+                "en": "Alberca Olimpica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den beeindruckenden Schwimmkomplex. Auch bei Regen bieten die überdachten Bereiche Schutz, seien Sie nur vorsichtig am nassen Beckenrand.",
+                "hu": "Látogasson el a lenyűgöző úszókomplexumba. A fedett részek esőben is menedéket nyújtanak, csak vigyázzon a nedves medencetér csúszós kövein.",
+                "ro": "Vizitați impresionantul complex de înot. Chiar dacă plouă, zonele acoperite oferă adăpost, aveți doar grijă pe punțile umede ale piscinei.",
+                "en": "Visit the impressive athletic swimming complex. Even if it rains, the covered areas provide shelter, just be careful on the wet pool decks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine beheizte Autofahrt sorgt für einen gemütlichen Start in Ihren frischen Wintermorgen am Theater. Der Mittag bringt kühleres, perfektes Wetter für kurze Wege zur historischen Pyramide und den Pools. Der Nachmittag wird warm im Tempel und in den Hallen verbracht. Da es um 17:00 Uhr dunkel wird, beenden Sie den Tag mit einer warmen Abendshow.",
+            "hu": "A fűtött autó kényelmes kezdést biztosít a csípős téli reggelhez a színháznál. A dél hűvösebb, tökéletes időt hoz a történelmi piramishoz és a medencékhez tett rövid sétákhoz. A délutánt melegben töltheti a templomban és a kiállítótermekben. Mivel 17:00 körül korán sötétedik, zárja az utat egy meleg esti műsorral.",
+            "ro": "O călătorie cu mașina încălzită asigură un început confortabil pentru dimineața dvs. de iarnă la teatru. Amiaza aduce o vreme mai răcoroasă perfectă pentru plimbări scurte la piramida istorică și piscine. După-amiaza este petrecută la căldură în templul sacru. Deoarece se întunecă la 17:00, încheiați cu un spectacol cald de seară.",
+            "en": "A heated car ride ensures a cozy start to your crisp winter morning at the theater. Midday brings cooler, perfect weather for short walks to the historic pyramid and local pools. The afternoon is warmly spent at the sacred temple and exhibition halls. As it gets dark early around 17:00, wrap up the trip with a warm evening show."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro UniSan",
+                "hu": "Teatro UniSan",
+                "ro": "Teatro UniSan",
+                "en": "Teatro UniSan"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie lokale Aufführungen in diesem intimen Rahmen. Das beheizte Innere bietet einen warmen Start in Ihren frischen Wintermorgen in der Stadt.",
+                "hu": "Élvezze a helyi előadásokat ebben a meghitt térben. A fűtött belső tér meleg, kényelmes kezdést biztosít a csípős téli reggelhez a városban.",
+                "ro": "Experimentați spectacole locale în această locație intimă. Interiorul încălzit oferă un început cald și confortabil pentru dimineața dvs. de iarnă.",
+                "en": "Experience local performances in this intimate venue. The heated interior provides a warm, comfortable start to your crisp winter morning in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Piramide de Las Flores",
+                "hu": "Piramide de Las Flores",
+                "ro": "Piramide de Las Flores",
+                "en": "Piramide de Las Flores"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie um die alte präkolumbianische Tempelbasis. Die kühle Winterluft macht das Besteigen der Wege viel weniger anstrengend als im Sommer.",
+                "hu": "Sétáljon az ősi prekolumbián templom alapja körül. A hűvös téli levegő miatt az ösvények megmászása sokkal kevésbé fárasztó, mint a nyári hőségben.",
+                "ro": "Plimbați-vă în jurul bazei antice a templului precolumbian. Aerul rece de iarnă face urcarea pe cărări mult mai puțin obositoare decât vara.",
+                "en": "Walk around the ancient pre-Columbian temple base. The cool winter air makes climbing the paths much less exhausting than in the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Unidad Nacional",
+                "hu": "Alberca Unidad Nacional",
+                "ro": "Alberca Unidad Nacional",
+                "en": "Alberca Unidad Nacional"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich das lokale Sport- und Freizeitzentrum an. Auch wenn das Wasser kühl ist, ist der umliegende Park ideal für einen strammen Winterspaziergang.",
+                "hu": "Tekintse meg a helyi sport- és szabadidőközpontot. Bár a víz hűvös lehet, a környező park gyönyörű egy frissítő, tempós téli sétához.",
+                "ro": "Vizitați centrul local de sport și recreere. Deși apa ar putea fi rece, parcul din jur este frumos pentru o plimbare revigorantă de iarnă.",
+                "en": "Check out the local sports and recreation center. Although the water might be chilly, the surrounding park is beautiful for a brisk winter stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Templo de Tampico, México",
+                "hu": "Templo de Tampico, México",
+                "ro": "Templo de Tampico, México",
+                "en": "Templo de Tampico, México"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schönen Buntglasfenster und den ruhigen Altar. Es ist ein fantastischer Ort, um sich die Hände aufzuwärmen, bevor es nach draußen geht.",
+                "hu": "Csodálja meg a gyönyörű ólomüveg ablakokat és a békés oltárt. Fantasztikus hely arra, hogy felmelegedjen, mielőtt visszatér a téli hidegbe.",
+                "ro": "Admirați vitraliile frumoase și altarul senin. Este un loc fantastic pentru a vă încălzi mâinile înăuntru înainte de a ieși în frigul iernii.",
+                "en": "Admire the beautiful stained glass and serene altar. It's a fantastic spot to warm up your hands indoors before heading back into the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Convenciones Tampico",
+                "hu": "Centro de Convenciones Tampico",
+                "ro": "Centro de Convenciones Tampico",
+                "en": "Centro de Convenciones Tampico"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie durch große Kunst- und Kulturausstellungen. Dieser klimatisierte Ort ist ideal für einen gemütlichen Nachmittagsspaziergang ohne kalte Winde.",
+                "hu": "Sétáljon a nagy művészeti és kulturális kiállításokon. Ez a klimatizált helyszín ideális egy kényelmes délutáni sétához, távol a hideg széltől.",
+                "ro": "Plimbați-vă prin mari expoziții de artă și cultură. Acest loc cu temperatură controlată este ideal pentru o plimbare confortabilă departe de vânturile reci.",
+                "en": "Wander through large art and cultural exhibitions. This climate-controlled venue is ideal for a comfortable afternoon stroll away from the cold winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Metropolitano de Tampico",
+                "hu": "Teatro Metropolitano de Tampico",
+                "ro": "Teatro Metropolitano de Tampico",
+                "en": "Teatro Metropolitano de Tampico"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie erstklassige Unterhaltung in luxuriöser Umgebung. Da es um 17:00 Uhr früh dunkel wird, ist eine gemütliche Abendshow hier sehr zu empfehlen.",
+                "hu": "Élvezze az első osztályú szórakozást luxus környezetben. Mivel korán, 17:00 körül sötétedik, kifejezetten ajánlott egy hangulatos esti műsor megtekintése.",
+                "ro": "Bucurați-vă de divertisment de top într-un cadru luxos. Deoarece se întunecă devreme în jurul orei 17:00, un spectacol de seară aici este recomandat.",
+                "en": "Enjoy top-tier entertainment in a luxurious setting. Since it gets dark early around 17:00, catching a cozy evening show here is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Olimpica",
+                "hu": "Alberca Olimpica",
+                "ro": "Alberca Olimpica",
+                "en": "Alberca Olimpica"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die professionellen Schwimmanlagen aus der Nähe an. Bringen Sie eine warme Jacke mit, da die offenen Beckenbereiche am frühen Abend kalt werden.",
+                "hu": "Nézze meg közelről a professzionális úszólétesítményeket. Hozzon meleg kabátot, mert a nyitott medenceterek meglehetősen szelesek és hidegek lehetnek kora este.",
+                "ro": "Vedeți de aproape facilitățile profesionale de înot. Aduceți o jachetă caldă, deoarece zonele deschise ale piscinei pot deveni reci odată cu seara devreme.",
+                "en": "See the professional swimming facilities up close. Bring a warm jacket, as the open pool areas can get quite breezy and cold as the early evening sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

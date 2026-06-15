@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Étoile-sur-Rhône középkori szívének felfedezésével, a központi kastélytól és a történelmi templomoktól indulva.\n\nDélben élvezze a kellemes sétát a csendes falusi utcákon, ahogy a kulturális negyed felé veszi az irányt.\n\nTöltse a délutánt az interaktív tudományos és művészeti kiállítások felfedezésével a modern Les Clévos központban.\n\nEste tegyen egy kissé hosszabb sétát délre, hogy naplemente előtt felfedezze a Château de Clavel elegáns romjait.",
         "ro": "Începeți-vă ziua explorând inima medievală a Étoile-sur-Rhône, pornind de la castelul central și bisericile istorice.\n\nLa prânz, bucurați-vă de o plimbare plăcută pe străzile liniștite ale satului în timp ce vă îndreptați spre cartierul cultural.\n\nPetreceți-vă după-amiaza descoperind cunoștințe interactive și expoziții de artă la centrul modern Les Clévos.\n\nSeara, faceți o plimbare puțin mai lungă spre sud pentru a descoperi ruinele elegante ale Château de Clavel înainte de apus.",
         "en": "Start your day exploring the medieval heart of Étoile-sur-Rhône, beginning at the central castle and the historic churches.\n\nBy midday, enjoy a pleasant stroll through the quiet village streets as you make your way towards the cultural district.\n\nSpend your afternoon diving into interactive knowledge and art exhibitions at the modern Les Clévos center.\n\nIn the evening, take a slightly longer walk south to discover the elegant ruins of Château de Clavel before the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Château de la Boisse, wo die nassen Mauern eine mystische Atmosphäre schaffen. Mittags bieten die historischen Kirchen Schutz vor dem Regen, während Sie die sakrale Stille genießen. Der Nachmittag gehört dem modernen Wissenschaftszentrum Les Clévos, einem perfekten Rückzugsort im Trockenen. Den Tag lassen wir am Château de Clavel ausklingen, wobei die tief hängenden Wolken das Rhône-Tal in ein sanftes Licht tauchen.",
+            "hu": "A reggel a Château de la Boisse falai között indul, ahol az eső áztatta kövek misztikus hangulatot árasztanak. Délben a város templomai nyújtanak menedéket a zápor elől, meghitt nyugalmat kínálva. A délutánt a Les Clévos fedett kiállítótereiben töltjük, ami tökéletes program rossz időben is. Az este a Château de Clavel felé vezető úton ér minket, ahol a párás levegő különleges fényeket fest a tájra.",
+            "ro": "Dimineața începe la Château de la Boisse, unde zidurile umede creează o atmosferă mistică sub umbrelă. La prânz, bisericile istorice oferă un adăpost primitor împotriva ploii, invitând la reflecție. După-amiaza este dedicată centrului Les Clévos, refugiul ideal la interior pentru a explora știința. Seara se încheie la Château de Clavel, unde peisajul văii Rhône capătă nuanțe dramatice în lumina ploioasă.",
+            "en": "The morning starts at Château de la Boisse, where the wet stones create a mystical atmosphere. At noon, the historic churches provide a welcoming shelter from the drizzle while you enjoy the sacred silence. The afternoon is spent indoors at Les Clévos, the perfect dry retreat for science enthusiasts. The day ends near Château de Clavel, with low clouds painting a dramatic scene over the Rhône valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Boisse",
+                "hu": "Château de la Boisse",
+                "ro": "Château de la Boisse",
+                "en": "Château de la Boisse"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dramatische Fassade im Regen und tragen Sie rutschfeste Schuhe für die nassen Pflastersteine rund um die Schlossanlage.",
+                "hu": "Csodáld meg a várkastély drámai homlokzatát az esőben, és viselj csúszásmentes cipőt a vizes macskaköves utakon a falak mentén.",
+                "ro": "Admiră fațada dramatică a castelului prin ploaie și poartă încălțăminte aderentă pentru pavajul ud din jurul domeniului istoric.",
+                "en": "Admire the dramatic facade of the castle through the rain and wear non-slip shoes for the wet cobblestones around the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame-templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum als trockenen Rückzugsort und bewundern Sie die Details der romanischen Architektur ohne Eile.",
+                "hu": "Használd a pompás belső teret száraz menedékként, és csodáld meg a román stílusú építészet részleteit a záporok elől rejtve.",
+                "ro": "Folosește interiorul somptuos ca refugiu uscat și admiră detaliile arhitecturii romanice fără nicio grabă în timpul ploii.",
+                "en": "Use the magnificent interior as a dry retreat and admire the details of the Romanesque architecture without any rush."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Templom",
+                "ro": "Templul",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Dieser schlichte Ort bietet eine hervorragende akustische Erfahrung bei Regen; klappen Sie Ihren Schirm am Eingang sorgfältig aus.",
+                "hu": "Ez a puritán helyszín kiváló akusztikai élményt nyújt esőben is; az épület bejáratánál gondosan rázd le az esernyődet.",
+                "ro": "Acest loc simplu oferă o experiență acustică excelentă pe timp de ploaie; scutură bine umbrela la intrarea în edificiu.",
+                "en": "This simple site offers an excellent acoustic experience during rain; remember to shake your umbrella carefully at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Clévos, cité des savoirs",
+                "hu": "Les Clévos, a tudás városa",
+                "ro": "Les Clévos, orașul cunoașterii",
+                "en": "Les Clévos, cité des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Schlechtwetter-Alternative mit interaktiven Ausstellungen, in denen Sie völlig vergessen werden, dass es draußen regnet.",
+                "hu": "Ideális alternatíva rossz idő esetén, ahol az interaktív kiállítások közben teljesen elfelejted majd, hogy odakint szakad az eső.",
+                "ro": "Alternativa ideală pentru vreme rea, cu expoziții interactive unde vei uita complet că afară plouă torențial.",
+                "en": "The ideal bad-weather alternative with interactive exhibits that will make you completely forget about the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Clavel",
+                "hu": "Château de Clavel",
+                "ro": "Château de Clavel",
+                "en": "Château de Clavel"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Nebel besonders geheimnisvoll; nutzen Sie eine Regenpause für ein stimmungsvolles Foto der Silhouette.",
+                "hu": "A kastély a ködben különösen titokzatosnak tűnik; használd ki az esőszünetet egy hangulatos fotóra az épület sziluettjéről.",
+                "ro": "Castelul pare extrem de misterios în ceață; profită de o pauză între reprizele de ploaie pentru o fotografie cu silueta sa.",
+                "en": "The castle looks particularly mysterious in the mist; catch a break in the rain for a atmospheric photo of its silhouette."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen glitzert der Frost auf den Zinnen des Château de la Boisse. Mittags laden die geschichtsträchtigen Kirchen zu einem Moment der Stille in kühler, aber andächtiger Atmosphäre ein. Der Nachmittag wird im beheizten Les Clévos verbracht, wo Wissen Herz und Geist erwärmt. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir das Château de Clavel in der blauen Stunde, was der Landschaft einen magischen Zauber verleiht.",
+            "hu": "A tiszta téli reggelen dér csillog a Château de la Boisse bástyáin, lenyűgöző látványt nyújtva. Délben a történelmi templomok hűvös, de áhítatos csendje hívogat egy kis elmélyülésre. A délutánt a Les Clévos fűtött tereiben töltjük, ahol az interaktív tudomány melengeti meg a lelket. Mivel a nap korán nyugszik, a Château de Clavel-t már a kék órában érjük el, ami varázslatos bájt kölcsönöz a tájnak.",
+            "ro": "Într-o dimineață senină de iarnă, chiciura strălucește pe crenelurile castelului de la Boisse. La prânz, bisericile istorice vă invită la un moment de liniște în atmosfera lor răcoroasă, dar solemnă. După-amiaza este petrecută în centrul Les Clévos încălzit, unde știința bucură mintea. Deoarece soarele apune devreme, ajungem la Château de Clavel în „ora albastră”, oferind peisajului un farmec magic.",
+            "en": "On a crisp winter morning, frost glitters on the battlements of Château de la Boisse. At noon, the historic churches invite you for a quiet moment in their cool but solemn atmosphere. The afternoon is spent at the heated Les Clévos, where science warms the mind. Since the sun sets early around 5 PM, we reach Château de Clavel during the blue hour, giving the landscape a magical charm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Boisse",
+                "hu": "Château de la Boisse",
+                "ro": "Château de la Boisse",
+                "en": "Château de la Boisse"
+              },
+              "tip_5lang": {
+                "de": "Kleiden Sie sich warm im Zwiebelprinzip, da der Wind an den Schlossmauern im Winter recht schneidend sein kann.",
+                "hu": "Öltözz rétegesen és melegen, mert a várfalak mentén a téli szél meglehetősen metsző tud lenni a reggeli órákban.",
+                "ro": "Îmbracă-te în straturi călduroase, deoarece vântul de lângă zidurile castelului poate fi destul de tăios în timpul iernii.",
+                "en": "Dress warmly in layers as the wind near the castle walls can be quite biting during the winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame-templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte; ein kurzer Besuch reicht aus, um die romanische Schönheit ohne Unterkühlung zu bestaunen.",
+                "hu": "A vastag kőfalak tartják a hideget; egy rövid látogatás is elég, hogy átfagyás nélkül megcsodáld a román kori szépséget.",
+                "ro": "Zidurile groase de piatră mențin frigul; o vizită scurtă e suficientă pentru a admira frumusețea romanică fără a îngheța.",
+                "en": "The thick stone walls keep the cold in; a short visit is enough to admire the Romanesque beauty without getting too chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempel",
+                "hu": "Templom",
+                "ro": "Templul",
+                "en": "Temple"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht, das durch die Fenster fällt und den schlichten Innenraum in eine friedliche Ruhe taucht.",
+                "hu": "Élvezd a tiszta téli fényt, amely az ablakokon át beárad, és békés nyugalomba áztatja a templom puritán belső terét.",
+                "ro": "Bucură-te de lumina clară de iarnă care pătrunde prin ferestre, scăldând interiorul simplu într-o liniște deplină.",
+                "en": "Enjoy the clear winter light streaming through the windows, bathing the simple interior in a peaceful tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Clévos, cité des savoirs",
+                "hu": "Les Clévos, a tudás városa",
+                "ro": "Les Clévos, orașul cunoașterii",
+                "en": "Les Clévos, cité des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich am Nachmittag aufzuwärmen und die interaktiven Stationen in einer angenehm temperierten Umgebung zu erkunden.",
+                "hu": "Tökéletes helyszín a délutáni felmelegedéshez és az interaktív állomások felfedezéséhez kellemesen fűtött környezetben.",
+                "ro": "Locul perfect pentru a te încălzi după-amiaza și pentru a explora stațiile interactive într-un mediu cu temperatură plăcută.",
+                "en": "The perfect place to warm up in the afternoon and explore the interactive stations in a comfortably heated environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Clavel",
+                "hu": "Château de Clavel",
+                "ro": "Château de Clavel",
+                "en": "Château de Clavel"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um die Silhouette des Schlosses noch bei Tageslicht vor dem frühen Wintereinbruch der Dunkelheit zu sehen.",
+                "hu": "Érkezz meg 17:00 előtt, hogy még napfényben lásd a kastély körvonalait a korai téli sötétedés beállta előtt.",
+                "ro": "Ajunge înainte de ora 17:00 pentru a vedea silueta castelului în lumina zilei, înainte de lăsarea timpurie a întunericului.",
+                "en": "Arrive before 5 PM to see the castle's silhouette in daylight before the early winter darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a reggelt azzal, hogy átkerekezik a történelmi központon, meglátogatva a központi kastélyt és a gyönyörű főtemplomot.\n\nDél körül kerékpározzon kissé északra, hogy bekapcsolódjon a Les Clévos kulturális kiállításaiba, és haladjon el a helyi vidéki kápolnák mellett.\n\nDélután tekerjen fel a Lac de Beauvallon békés vizeihez egy frissítő pihenőre és esetleg egy kis tóparti piknikre.\n\nZárja aktív napját egy biciklizéssel a nyugati külvárosba, élvezve az Etoile Park 26 nagy rekreációs területeit.",
         "ro": "Începeți-vă dimineața pedalând prin centrul istoric, vizitând castelul central și frumoasa biserică principală.\n\nÎn jurul prânzului, mergeți cu bicicleta puțin spre nord pentru a vă bucura de expozițiile culturale de la Les Clévos și treceți pe lângă capelele locale.\n\nDupă-amiaza, pedalați până la apele liniștite ale Lacului Beauvallon pentru o pauză răcoritoare și poate un mic picnic pe malul lacului.\n\nÎncheiați-vă ziua activă cu o plimbare spre periferia vestică, bucurându-vă de spațiile mari de recreere din Etoile Park 26.",
         "en": "Kick off your morning by pedaling through the historic center, visiting the central castle and the beautiful main church.\n\nAround midday, ride slightly north to engage with the cultural exhibits at Les Clévos and pass by local countryside chapels.\n\nIn the afternoon, cycle up to the serene waters of Lac de Beauvallon for a refreshing break and perhaps a small lakeside picnic.\n\nConclude your active day with a ride to the western outskirts, enjoying the large recreational spaces of Etoile Park 26."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, aber der Duft der nassen Drôme-Landschaft ist belebend. Morgens starten wir am Château de la Boisse und nutzen die Kirchen für kurze Unterstände. Mittags bietet Les Clévos eine lange Pause im Trockenen. Nachmittags geht es weiter zur Saint-Jean-Baptiste Kirche und zum Beauvallon See, wo die Regentropfen auf der Wasseroberfläche tanzen, bevor wir den Tag im Etoile Park 26 beenden.",
+            "hu": "Az esős bringázás óvatosságot igényel, de a nedves Drôme-vidék illata frissítő. Reggel a Château de la Boisse-tól indulunk, a templomokat használva rövid pihenőhelyként. Délben a Les Clévos kínál hosszú, száraz szünetet. Délután a Keresztelő Szent János templom és a Beauvallon-tó következik, ahol az esőcseppek táncolnak a vízen, végül az Etoile Park 26-nál zárjuk a napot.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență, dar mirosul pământului ud din Drôme este revigorant. Dimineața plecăm de la castel, folosind bisericile pentru scurte popasuri. La prânz, Les Clévos oferă o pauză lungă la uscat. După-amiaza continuăm spre biserica Sf. Ioan Botezătorul și Lacul Beauvallon, încheind ziua la Etoile Park 26 sub cerul înnorat.",
+            "en": "Cycling in the rain requires caution, but the scent of the wet Drôme countryside is invigorating. In the morning, we start at Château de la Boisse, using churches as brief shelters. At noon, Les Clévos offers a long, dry break. In the afternoon, we head to Saint-Jean-Baptiste Church and Lac de Beauvallon, where raindrops dance on the water, before ending at Etoile Park 26."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Boisse",
+                "hu": "Château de la Boisse",
+                "ro": "Château de la Boisse",
+                "en": "Château de la Boisse"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die Wege rund um das Schloss können bei Nässe für Radfahrer rutschig sein.",
+                "hu": "Indulás előtt ellenőrizd a fékeket; a vár környéki utak nedvesen meglehetősen csúszósak lehetnek a kerékpárosok számára.",
+                "ro": "Verifică frânele înainte de plecare; potecile din jurul castelului pot fi alunecoase pentru bicicliști când sunt ude.",
+                "en": "Check your brakes before setting off; the paths around the castle can be slippery for cyclists when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame-templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einen Vorsprung und nutzen Sie den Besuch, um die Regenjacke kurz zu lüften und sich abzutrocknen.",
+                "hu": "Parkold a biciklit egy eresz alá, és használd ki a látogatást az esőkabát rövid kiszellőztetésére és a száradásra.",
+                "ro": "Parchează bicicleta sub o streașină și profită de vizită pentru a aerisi puțin pelerina de ploaie și a te usca.",
+                "en": "Park your bike under an overhang and use the visit to briefly air out your rain jacket and dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Clévos, cité des savoirs",
+                "hu": "Les Clévos, a tudás városa",
+                "ro": "Les Clévos, orașul cunoașterii",
+                "en": "Les Clévos, cité des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um die stärksten Regengüsse des Mittags auszusitzen, während Sie die Welt der Wissenschaft entdecken.",
+                "hu": "Kiváló megálló, hogy kivárd a déli záporok végét, miközben elmerülsz a tudomány világában a száraz belső térben.",
+                "ro": "Un popas excelent pentru a aștepta trecerea ploilor de la prânz, în timp ce explorezi lumea științei la interior.",
+                "en": "An excellent stop to wait out the strongest rain showers at noon while discovering the world of science indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche bietet einen friedlichen Schutz; achten Sie auf die Markierungen auf den Straßen, die bei Regen schlecht sichtbar sind.",
+                "hu": "A kis templom békés menedéket nyújt; figyelj az útburkolati jelekre, amelyek esőben nehezebben láthatóak a bringáról.",
+                "ro": "Mica biserică oferă un adăpost pașnic; atenție la marcajele rutiere care devin greu vizibile pe ploaie din șa.",
+                "en": "The small church offers peaceful shelter; watch out for road markings that become less visible in the rain from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Beauvallon See",
+                "hu": "Beauvallon-tó",
+                "ro": "Lacul Beauvallon",
+                "en": "Lac de Beauvallon"
+              },
+              "tip_5lang": {
+                "de": "Die Wege um den See können matschig sein; bleiben Sie auf den befestigten Pfaden und genießen Sie den Anblick des grauen Sees.",
+                "hu": "A tó körüli utak sárosak lehetnek; maradj a szilárd burkolatú ösvényeken, és élvezd a szürke víztükör látványát.",
+                "ro": "Potecile din jurul lacului pot fi noroioase; rămâi pe căile pavate și bucură-te de vederea lacului sub cerul gri.",
+                "en": "The paths around the lake can be muddy; stay on the paved trails and enjoy the sight of the grey lake surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Etoile Park 26",
+                "hu": "Etoile Park 26",
+                "ro": "Etoile Park 26",
+                "en": "Etoile Park 26"
+              },
+              "tip_5lang": {
+                "de": "Sorgen Sie für gute Beleuchtung an Ihrem Fahrrad, da die Sicht im Park bei starkem Regen und Dämmerung schnell nachlässt.",
+                "hu": "Gondoskodj a megfelelő világításról a biciklin, mert a látási viszonyok a parkban esőben és szürkületben gyorsan romlanak.",
+                "ro": "Asigură-te că ai lumini bune la bicicletă, deoarece vizibilitatea în parc scade rapid pe ploaie puternică și amurg.",
+                "en": "Ensure you have good lights on your bike as visibility in the park drops quickly during heavy rain and dusk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Fernsichten über das Rhône-Tal. Morgens belebt die kalte Luft am Château de la Boisse. Mittags finden wir in Les Clévos einen warmen Zufluchtsort, bevor wir zur Saint-Jean-Baptiste Kirche weiterfahren. Der Nachmittag am Beauvallon See ist still und friedlich, wobei der Frost die Ufer säumt. Da es früh dunkel wird, nutzen wir das letzte Tageslicht im Etoile Park 26, bevor die Kälte des Abends einsetzt.",
+            "hu": "A téli kerékpártúra tiszta kilátást kínál a Rhône-völgyre. Reggel a friss, hideg levegő élénkítő a Château de la Boisse-nál. Délben a Les Clévos fűtött épülete nyújt menedéket, mielőtt a Szent János templom felé vennénk az irányt. A délután a Beauvallon-tónál csendes, a dérrel csipkézett partvidék lenyűgöző. A korai sötétedés miatt az utolsó fényeket az Etoile Park 26-nál használjuk ki.",
+            "ro": "O tură de iarnă cu bicicleta oferă vederi clare asupra văii Rhône. Dimineața, aerul rece de la castel este revigorant. La prânz, găsim un refugiu cald la Les Clévos înainte de a continua spre biserica Sf. Ioan Botezătorul. După-amiaza la Lacul Beauvallon este liniștită, cu chiciură pe maluri. Deoarece se întunecă devreme, profităm de ultima lumină la Etoile Park 26 înainte de gerul serii.",
+            "en": "A winter bike tour offers clear views over the Rhône valley. In the morning, the cold air at Château de la Boisse is bracing. At noon, we find a warm haven at Les Clévos before heading to Saint-Jean-Baptiste Church. The afternoon at Lac de Beauvallon is quiet and peaceful, with frost lining the shores. As it gets dark early, we use the last daylight at Etoile Park 26 before the evening cold sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Boisse",
+                "hu": "Château de la Boisse",
+                "ro": "Château de la Boisse",
+                "en": "Château de la Boisse"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind bei Wintertemperaturen die Hände am Lenker schnell auskühlen lässt.",
+                "hu": "Viselj szélálló kesztyűt, mert a menetszél a téli hőmérsékletben gyorsan lehűti a kezeidet a kormányon.",
+                "ro": "Poartă mănuși rezistente la vânt, deoarece curentul de aer la temperaturi de iarnă îți va răci rapid mâinile pe ghidon.",
+                "en": "Wear windproof gloves as the wind chill at winter temperatures will quickly cool your hands on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame-templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für die Architektur; halten Sie Ihren Körper in Bewegung, um die Wärme nach dem Absteigen vom Rad zu speichern.",
+                "hu": "Rövid megálló az építészet kedvéért; maradj mozgásban a leszállás után is, hogy megőrizd a tested melegét a hideg falak között.",
+                "ro": "Un popas scurt pentru arhitectură; menține-ți corpul în mișcare pentru a păstra căldura după ce te dai jos de pe bicicletă.",
+                "en": "A short stop for the architecture; keep your body moving to retain warmth after dismounting your bike in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Clévos, cité des savoirs",
+                "hu": "Les Clévos, a tudás városa",
+                "ro": "Les Clévos, orașul cunoașterii",
+                "en": "Les Clévos, cité des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um Ihre Winterausrüstung kurz abzulegen und die Ausstellungen entspannt im Warmen zu genießen.",
+                "hu": "Használd a ruhatárat, hogy rövid időre megszabadulj a téli felszereléstől, és kényelmesen, melegben élvezd a kiállításokat.",
+                "ro": "Folosește garderoba pentru a lăsa echipamentul de iarnă și bucură-te de expoziții relaxat, la căldură.",
+                "en": "Use the cloakroom to briefly set aside your winter gear and enjoy the exhibits comfortably in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János templom",
+                "ro": "Biserica Sfântul Ioan Botezătorul",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Nebenstraßen, besonders im Schatten der Gebäude rund um die Kirche.",
+                "hu": "Figyelj a jeges foltokra a mellékutakon, különösen a templom körüli épületek árnyékos oldalán.",
+                "ro": "Atenție la porțiunile înghețate de pe drumurile secundare, în special la umbra clădirilor din jurul bisericii.",
+                "en": "Watch out for icy patches on side roads, especially in the shadows of the buildings surrounding the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Beauvallon See",
+                "hu": "Beauvallon-tó",
+                "ro": "Lacul Beauvallon",
+                "en": "Lac de Beauvallon"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind am See kann sehr kalt sein; eine Thermoskanne mit heißem Tee in der Packtasche wirkt hier Wunder.",
+                "hu": "A tavi szél télen nagyon hideg lehet; egy termosz forró tea a kerékpáros táskában csodákra képes ilyenkor a parton.",
+                "ro": "Vântul de iarnă de lângă lac poate fi tăios; un termos cu ceai cald în geanta de bicicletă va face minuni aici.",
+                "en": "The winter wind by the lake can be very cold; a thermos of hot tea in your pannier works wonders here on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Etoile Park 26",
+                "hu": "Etoile Park 26",
+                "ro": "Etoile Park 26",
+                "en": "Etoile Park 26"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour vor 17:00 Uhr, da die Temperaturen drastisch sinken, sobald die Sonne im Winter hinter dem Horizont verschwindet.",
+                "hu": "Fejezd be a túrát 17:00 előtt, mert a hőmérséklet drasztikusan visszaesik, amint a nap télen eltűnik a horizont mögött.",
+                "ro": "Încheie tura înainte de ora 17:00, deoarece temperaturile scad drastic imediat ce soarele apune iarna.",
+                "en": "Finish your tour before 5 PM as temperatures drop drastically as soon as the sun disappears behind the horizon in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós kirándulását a délkeleti hatalmas La Garenne kastélynál, majd folytassa a Château de Clavel bájos vidéki romjaival.\n\nDélben vezessen vissza a városközpontba, hogy felfedezze a Les Clévos interaktív múzeumát és a történelmi központi erődöt.\n\nTöltsön egy pihentető délutánt azzal, hogy északra veszi az irányt, és élvezi a békés természeti környezetet a Lac de Beauvallonnál.\n\nFejezze be átfogó túráját úgy, hogy nyugatra hajt a hatalmas Etoile Park 26 felé, amely tökéletes egy pihentető szabadtéri estéhez.",
         "ro": "Începeți excursia cu mașina la grandiosul Castel La Garenne din sud-est, urmat de fermecătoarele ruine rurale ale Château de Clavel.\n\nLa prânz, conduceți înapoi în centrul orașului pentru a explora muzeul interactiv Les Clévos și fortăreața centrală istorică.\n\nPetreceți o după-amiază relaxantă îndreptându-vă spre nord pentru a vă bucura de mediul natural liniștit la Lacul Beauvallon.\n\nÎncheiați-vă turul cuprinzător conducând spre vest, către extinsul Etoile Park 26, perfect pentru o seară relaxantă în aer liber.",
         "en": "Begin your road trip at the grand La Garenne Castle in the southeast, followed by the charming rural ruins of Château de Clavel.\n\nAt midday, drive back into the town center to explore the interactive museum of Les Clévos and the historic central fortress.\n\nSpend a relaxing afternoon heading north to enjoy the peaceful natural surroundings at Lac de Beauvallon.\n\nFinish your comprehensive tour by driving west to the expansive Etoile Park 26, perfect for a relaxing evening outdoors."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Étoile-sur-Rhône auch bei Regen komfortabel zu erkunden. Morgens besuchen wir das Schloss La Garenne, geschützt vor dem Wetter. Über das Château de Clavel geht es mittags nach Les Clévos, wo man entspannt im Trockenen parken und verweilen kann. Nachmittags folgen das Château de la Boisse und der Beauvallon See, bevor wir den Tag gemütlich im Etoile Park 26 abschließen, während die Scheibenwischer den Takt angeben.",
+            "hu": "Autóval Étoile-sur-Rhône esőben is kényelmesen felfedezhető. Reggel a La Garenne-kastélyt látogatjuk meg, védve az elemektől. A Château de Clavel érintésével délben a Les Clévos-hoz megyünk, ahol szárazon parkolhatunk. Délután a Château de la Boisse és a Beauvallon-tó következik, végül az Etoile Park 26-nál zárjuk a napot, miközben az ablaktörlők adják a ritmust a párás ablakok mögött.",
+            "ro": "Cu mașina, Étoile-sur-Rhône poate fi explorat confortabil chiar și pe ploaie. Dimineața vizităm Castelul La Garenne, protejați de intemperii. Trecând pe la Château de Clavel, mergem la prânz la Les Clévos, unde putem parca aproape de intrare. După-amiaza urmează Château de la Boisse și Lacul Beauvallon, încheind ziua la Etoile Park 26 în confortul habitaclului încălzit.",
+            "en": "By car, Étoile-sur-Rhône is comfortable to explore even in the rain. In the morning, we visit La Garenne Castle, protected from the elements. Via Château de Clavel, we head to Les Clévos at noon, where you can park and stay dry. In the afternoon, Château de la Boisse and Lac de Beauvallon follow, before ending the day at Etoile Park 26 while the wipers set the pace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss La Garenne",
+                "hu": "La Garenne-kastély",
+                "ro": "Castelul La Garenne",
+                "en": "La Garenne Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang und halten Sie Ihren Regenschirm griffbereit für den kurzen Weg zum Schlossgebäude.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz, és tartsd kéznél az esernyődet a kastélyépületig tartó rövid sétához.",
+                "ro": "Parchează cât mai aproape de intrare și ține umbrela la îndemână pentru scurta plimbare până la clădirea castelului.",
+                "en": "Park as close to the entrance as possible and keep your umbrella handy for the short walk to the castle building."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Clavel",
+                "hu": "Château de Clavel",
+                "ro": "Château de Clavel",
+                "en": "Château de Clavel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Schloss direkt aus dem trockenen Auto heraus, falls der Regen gerade besonders stark ist.",
+                "hu": "Élvezd a kastélyra nyíló kilátást közvetlenül a száraz autóból, ha az eső éppen különösen intenzíven esne odakint.",
+                "ro": "Bucură-te de vederea castelului direct din mașina uscată, în cazul în care ploaia este deosebit de puternică în acel moment.",
+                "en": "Enjoy the view of the castle directly from the dry car if the rain happens to be particularly heavy at that moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Clévos, cité des savoirs",
+                "hu": "Les Clévos, a tudás városa",
+                "ro": "Les Clévos, orașul cunoașterii",
+                "en": "Les Clévos, cité des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp für Regentage; nutzen Sie die Zeit für eine ausführliche Besichtigung der interaktiven Ausstellungen im Warmen.",
+                "hu": "Tökéletes megálló esős napokra; használd ki az időt az interaktív kiállítások alapos bejárására a fűtött beltérben.",
+                "ro": "Popasul perfect pentru zilele ploioase; profită de timp pentru o vizită detaliată a expozițiilor interactive la căldură.",
+                "en": "The perfect stop for rainy days; use the time for a detailed visit to the interactive exhibits in the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Boisse",
+                "hu": "Château de la Boisse",
+                "ro": "Château de la Boisse",
+                "en": "Château de la Boisse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf tiefe Pfützen und nutzen Sie die Regenpausen für einen kurzen Spaziergang um die Schlossmauern.",
+                "hu": "Parkoláskor ügyelj a mélyebb tócsákra, és használd ki az esőszüneteket egy rövid sétára a várfalak körül.",
+                "ro": "Atenție la bălțile adânci când parchezi și profită de pauzele dintre ploi pentru o scurtă plimbare în jurul zidurilor.",
+                "en": "Watch out for deep puddles when parking and take advantage of breaks in the rain for a short walk around the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Beauvallon See",
+                "hu": "Beauvallon-tó",
+                "ro": "Lacul Beauvallon",
+                "en": "Lac de Beauvallon"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Zufahrtswegen zum See, da bei starkem Regen die Sicht und Bodenhaftung beeinträchtigt sein können.",
+                "hu": "Vezess lassan a tóhoz vezető utakon, mivel heves esőben a látási viszonyok és a tapadás is jelentősen romolhat.",
+                "ro": "Condu încet pe drumurile de acces către lac, deoarece vizibilitatea și aderența pot fi afectate de ploaia puternică.",
+                "en": "Drive slowly on the access roads to the lake, as visibility and traction can be impaired during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Etoile Park 26",
+                "hu": "Etoile Park 26",
+                "ro": "Etoile Park 26",
+                "en": "Etoile Park 26"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie bei der Abfahrt die Nebelscheinwerfer ein, falls der Regen in Dunst oder Nebel übergeht, um besser gesehen zu werden.",
+                "hu": "Induláskor kapcsold be a ködlámpákat, ha az eső párásodással vagy köddel társul, hogy jobban látható legyél a többi autósnak.",
+                "ro": "Aprinde luminile de ceață la plecare dacă ploaia se transformă în burniță sau ceață, pentru a fi mai vizibil în trafic.",
+                "en": "Turn on your fog lights when leaving if the rain turns into mist or fog, to ensure you are clearly visible to others."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Drôme lässt sich hervorragend mit dem geheizten Auto erkunden. Morgens glitzert der Frost am Schloss La Garenne. Mittags führt die Tour über das Château de Clavel zum modernen Les Clévos, einem warmen Höhepunkt des Tages. Der Nachmittag am Château de la Boisse und dem stillen Beauvallon See bietet klare Winteransichten. Da die Dämmerung früh gegen 17:00 Uhr einsetzt, erleben wir den Etoile Park 26 in stimmungsvollem Abendlicht.",
+            "hu": "A téli Drôme vidéke kiválóan felfedezhető a fűtött autóból. Reggel dér csillog a La Garenne-kastélynál. Délben a túra a Château de Clavel érintésével a Les Clévos-hoz vezet, amely a nap meleg fénypontja. A délután a Château de la Boisse és a csendes Beauvallon-tó tiszta téli látványát kínálja. Mivel a szürkület korán, 17:00 körül beáll, az Etoile Park 26-ot már hangulatos esti fényekben látjuk.",
+            "ro": "Regiunea Drôme pe timp de iarnă se explorează de minune cu mașina încălzită. Dimineața, chiciura strălucește la Castelul La Garenne. La prânz, turul trece pe la Château de Clavel spre modernul Les Clévos, punctul cald al zilei. După-amiaza la Château de la Boisse și Lacul Beauvallon oferă priveliști clare de iarnă. Deoarece amurgul vine devreme, vizităm Etoile Park 26 în lumina serii.",
+            "en": "The winter Drôme region can be perfectly explored in a heated car. In the morning, frost glitters at La Garenne Castle. At noon, the tour leads via Château de Clavel to the modern Les Clévos, a warm highlight of the day. The afternoon at Château de la Boisse and the silent Lac de Beauvallon offers clear winter views. As dusk sets in early around 5 PM, we experience Etoile Park 26 in atmospheric evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss La Garenne",
+                "hu": "La Garenne-kastély",
+                "ro": "Castelul La Garenne",
+                "en": "La Garenne Castle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheiben frostfrei sind, bevor Sie die Fahrt zu diesem malerischen Schloss am Morgen antreten.",
+                "hu": "Győződj meg róla, hogy az autó szélvédői jégmentesek, mielőtt elindulnál ehhez a festői kastélyhoz a hideg téli reggelen.",
+                "ro": "Asigură-te că parbrizul este dezghețat complet înainte de a porni spre acest castel pitoresc în dimineața rece de iarnă.",
+                "en": "Ensure your car windows are free of frost before starting your journey to this picturesque castle on a cold winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Clavel",
+                "hu": "Château de Clavel",
+                "ro": "Château de Clavel",
+                "en": "Château de Clavel"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze können im Winter glatt sein; steigen Sie vorsichtig aus, um die klare Sicht auf die umliegende Winterlandschaft zu genießen.",
+                "hu": "A parkolók télen jegesek lehetnek; óvatosan szállj ki az autóból, hogy megcsodáld a tiszta kilátást a téli tájra.",
+                "ro": "Parcările pot fi alunecoase iarna; coboară cu atenție din mașină pentru a te bucura de vederea clară asupra peisajului hibernal.",
+                "en": "Parking areas can be slippery in winter; step out of the car carefully to enjoy the clear view of the surrounding landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Clévos, cité des savoirs",
+                "hu": "Les Clévos, a tudás városa",
+                "ro": "Les Clévos, orașul cunoașterii",
+                "en": "Les Clévos, cité des savoirs"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Heizung des Autos kurz zu vergessen und stattdessen die angenehme Wärme im Inneren des Museums zu genießen.",
+                "hu": "Ideális helyszín, hogy rövid időre elfelejtsd az autó fűtését, és helyette a múzeum belső tereinek kellemes melegét élvezd.",
+                "ro": "Locul ideal pentru a uita puțin de căldura din mașină și a te bucura în schimb de temperatura plăcută din interiorul muzeului.",
+                "en": "An ideal place to briefly forget about the car's heater and instead enjoy the pleasant warmth inside the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Boisse",
+                "hu": "Château de la Boisse",
+                "ro": "Château de la Boisse",
+                "en": "Château de la Boisse"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht am Nachmittag für Fotos; die tiefstehende Sonne betont die Strukturen der Schlossmauer wunderschön.",
+                "hu": "Használd ki a tiszta délutáni téli fényt a fotózáshoz; az alacsonyan járó nap gyönyörűen kiemeli a várfalak textúráját.",
+                "ro": "Profită de lumina clară de iarnă de după-amiază pentru fotografii; soarele jos subliniază superb structura zidurilor castelului.",
+                "en": "Take advantage of the clear afternoon winter light for photos; the low sun beautifully emphasizes the textures of the castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Beauvallon See",
+                "hu": "Beauvallon-tó",
+                "ro": "Lacul Beauvallon",
+                "en": "Lac de Beauvallon"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Frost tückisch sein; fahren Sie vorausschauend und genießen Sie den Blick auf den frostigen See vom Ufer aus.",
+                "hu": "A tóhoz vezető út fagyos időben trükkös lehet; vezess előrelátóan, és élvezd a jeges tó látványát a part menti parkolóból.",
+                "ro": "Accesul poate fi înșelător pe timp de îngheț; condu preventiv și bucură-te de vederea lacului înghețat de pe mal.",
+                "en": "The access road can be tricky during frost; drive cautiously and enjoy the view of the frosty lake from the shore parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Etoile Park 26",
+                "hu": "Etoile Park 26",
+                "ro": "Etoile Park 26",
+                "en": "Etoile Park 26"
+              },
+              "tip_5lang": {
+                "de": "Da es ab 17:00 Uhr dunkel wird, achten Sie auf funktionierende Scheinwerfer für die Rückfahrt nach dem Besuch des Parks.",
+                "hu": "Mivel 17:00-tól sötétedik, ügyelj a fényszórók megfelelő működésére a park látogatása utáni hazaúthoz a téli estében.",
+                "ro": "Deoarece se întunecă de la ora 17:00, asigură-te că farurile funcționează corect pentru drumul de întoarcere după vizitarea parcului.",
+                "en": "As it gets dark from 5 PM, ensure your headlights are working correctly for the drive back after visiting the park."
+              }
+            }
+          ]
+        }
       }
     }
   }

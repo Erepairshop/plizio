@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Indonézia természeti és politikai történelmének felfedezésével két jelentős múzeumban a városközpontban. Délben tapasztalja meg az élénk helyi kultúrát a Pasar Devries piacon, majd tekintse meg a függetlenségi küzdelmek kiállításait. A délután spirituális és építészeti látnivalókkal folytatódik a helyi templomoknál. Zárja a napot a PETA Múzeum katonai történelmének felfedezésével, a nemzet múltjára reflektálva.",
         "ro": "Începeți dimineața cu o scufundare profundă în istoria naturală și politică a Indoneziei explorând două muzee majore din centrul orașului. La prânz, experimentați cultura locală vibrantă la Pasar Devries înainte de a trece la expozițiile luptei pentru independență. După-amiaza face tranziția către atracții spirituale și arhitecturale la bisericile locale. Încheiați-vă ziua explorând istoria militară la Muzeul PETA, reflectând asupra parcursului națiunii.",
         "en": "Start your morning with a deep dive into Indonesia's natural and political history by exploring two major museums located right in the city center. By midday, experience the lively local culture at Pasar Devries before moving on to the moving exhibits of the struggle for independence. The afternoon transitions to spiritual and architectural sights as you visit local churches. Conclude your day exploring the military history at the PETA Museum, reflecting on the nation's journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den geschützten Hallen des Naturkundemuseums. Mittags bietet das Präsidentenmuseum trockenen Unterschlupf vor den tropischen Güssen. Am Nachmittag erkunden Sie die Geschichte im Inneren des Unabhängigkeitsmuseums, während es draußen stürmt. Der Abend endet sicher in den Ausstellungsräumen des PETA-Museums, weit weg von den nassen und rutschigen Straßen Bogors.",
+            "hu": "Kezdje a napot a természetrajzi múzeum védett csarnokaiban. Délben a Balai Kirti elnöki múzeum nyújt száraz menedéket a hirtelen lezúduló trópusi eső elől. Délután a függetlenségi harcok történetét belső terekben ismerheti meg, elkerülve a sárt. Az este a PETA múzeum kiállítótermeiben ér véget, biztonságos távolságban a vizes és csúszós utcáktól.",
+            "ro": "Începeți ziua în sălile protejate ale muzeului de istorie naturală. La prânz, muzeul prezidențial oferă un adăpost uscat împotriva averselor tropicale. După-amiaza, explorați istoria în interiorul muzeului independenței, în timp ce afară plouă torențial. Seara se încheie în siguranță în spațiile expoziționale ale muzeului PETA, departe de străzile ude și alunecoase.",
+            "en": "Start your day in the sheltered halls of the natural history museum. At noon, the presidential museum provides dry refuge from tropical downpours. In the afternoon, explore history inside the struggle museum while it storms outside. The evening ends safely in the exhibition rooms of the PETA museum, far from the wet and slippery streets of Bogor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Nasional Sejarah Alam Indonesia",
+                "hu": "Museum Nasional Sejarah Alam Indonesia",
+                "ro": "Museum Nasional Sejarah Alam Indonesia",
+                "en": "Museum Nasional Sejarah Alam Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause, um die umfangreiche botanische Sammlung im Inneren zu bestaunen; ein Regenschirm ist für den kurzen Weg zum Eingang dennoch ratsam.",
+                "hu": "Használja ki az esőmentes perceket a benti botanikai gyűjtemény megtekintésére; a bejáratig tartó rövid útra azért egy esernyő mindenképpen ajánlott.",
+                "ro": "Profitați de pauza de ploaie pentru a admira vasta colecție botanică din interior; o umbrelă este totuși recomandată pentru drumul scurt până la intrare.",
+                "en": "Take advantage of the rain break to admire the vast botanical collection inside; an umbrella is still advised for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Kepresidenan Balai Kirti",
+                "hu": "Museum Kepresidenan Balai Kirti",
+                "ro": "Museum Kepresidenan Balai Kirti",
+                "en": "Museum Kepresidenan Balai Kirti"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Museum ist voll klimatisiert und bietet perfekten Schutz vor Feuchtigkeit; genießen Sie die interaktiven Displays in trockener Atmosphäre.",
+                "hu": "Ez a modern múzeum teljesen légkondicionált, így tökéletes védelmet nyújt a pára ellen; élvezze az interaktív kijelzőket a száraz, kellemes környezetben.",
+                "ro": "Acest muzeu modern este complet climatizat, oferind protecție perfectă împotriva umidității; bucurați-vă de afișajele interactive într-o atmosferă uscată.",
+                "en": "This modern museum is fully air-conditioned, providing perfect protection from humidity; enjoy the interactive displays in a dry and pleasant atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Devries",
+                "hu": "Pasar Devries",
+                "ro": "Pasar Devries",
+                "en": "Pasar Devries"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Arkaden bieten Schutz vor dem Regen, während Sie das lokale Treiben beobachten; achten Sie auf den stellenweise rutschigen Steinboden.",
+                "hu": "A történelmi árkádok védelmet nyújtanak az eső ellen, miközben a helyi forgatagot figyeli; ügyeljen a helyenként nagyon csúszós kőpadlóra.",
+                "ro": "Arcadele istorice oferă adăpost împotriva ploii în timp ce observați agitația locală; atenție la podeaua de piatră care poate fi alunecoasă pe alocuri.",
+                "en": "The historical arcades provide shelter from the rain while you watch the local bustle; watch out for the stone floor which can be slippery in places."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Perjuangan",
+                "hu": "Museum Perjuangan",
+                "ro": "Museum Perjuangan",
+                "en": "Museum Perjuangan"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den Regenlärm fern, sodass Sie die historischen Artefakte in Ruhe studieren können; idealer Ort für eine längere Regenpause.",
+                "hu": "A vastag falak kizárják az eső zaját, így nyugodtan tanulmányozhatja a történelmi emlékeket; ideális helyszín egy hosszabb esőmentes pihenőhöz.",
+                "ro": "Pereții groși izolează zgomotul ploii, permițându-vă să studiați în liniște vestigiile istorice; loc ideal pentru o pauză mai lungă de ploaie.",
+                "en": "The thick walls block out the sound of the rain, allowing you to study historical artifacts in peace; an ideal spot for a longer rainy break."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Pantekosta Tabernakel PNIEL",
+                "hu": "Gereja Pantekosta Tabernakel PNIEL",
+                "ro": "Gereja Pantekosta Tabernakel PNIEL",
+                "en": "Gereja Pantekosta Tabernakel PNIEL"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ruhige, trockene Zuflucht für einen Moment der Besinnung; bitte klopfen Sie Ihre nasse Kleidung vor dem Eintreten kurz ab.",
+                "hu": "A templom csendes és száraz menedéket nyújt az elmélyüléshez; kérjük, belépés előtt alaposan rázza le vizes ruházatát és esernyőjét.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat pentru un moment de reflecție; vă rugăm să scuturați hainele ude înainte de a intra în lăcaș.",
+                "en": "The church offers a quiet, dry sanctuary for a moment of reflection; please shake off your wet clothes and umbrella before entering the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pembela Tanah Air",
+                "hu": "Museum Pembela Tanah Air",
+                "ro": "Museum Pembela Tanah Air",
+                "en": "Museum Pembela Tanah Air"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Indoor-Dioramen sind perfekt, um den Tag im Trockenen ausklingen zu lassen; ein Taxi für den Rückweg ist bei Regen sehr ratsam.",
+                "hu": "A tágas benti diórámák tökéletesek a nap száraz befejezéséhez; esős időben a visszaúthoz mindenképpen javasolt egy taxi hívása.",
+                "ro": "Dioramele interioare spațioase sunt perfecte pentru a încheia ziua la adăpost; un taxi pentru drumul de întoarcere este recomandat pe ploaie.",
+                "en": "The spacious indoor dioramas are perfect for ending the day in the dry; calling a taxi for the return journey is highly advised during rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühlere Brise am Morgen macht den Spaziergang zum Naturkundemuseum angenehm. Mittags genießen Sie die milden Temperaturen im geschützten Park des Präsidentenmuseums. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen Sie die Kirche im goldenen Nachmittagslicht. Der Abend findet seinen Abschluss im gut beleuchteten PETA-Museum, bevor die kühle Nachtluft einsetzt.",
+            "hu": "A reggeli hűvösebb szellő kellemessé teszi a sétát a természetrajzi múzeumig. Délben élvezze az enyhe hőmérsékletet az elnöki múzeum védett kertjében. Mivel a nap már 17:00 körül lemegy, a templomot még a délutáni aranyló fényekben látogassa meg. Az este a jól kivilágított PETA múzeumban ér véget, mielőtt beállna a hűvös éjszakai levegő.",
+            "ro": "Briza răcoroasă de dimineață face plimbarea către muzeul de istorie naturală foarte plăcută. La prânz, bucurați-vă de temperaturile blânde în grădina muzeului prezidențial. Deoarece soarele apune deja în jur de ora 17:00, vizitați biserica în lumina aurie a după-amiezii. Seara se încheie la muzeul PETA bine iluminat, înainte de lăsarea aerului rece de noapte.",
+            "en": "The cooler morning breeze makes the walk to the natural history museum very pleasant. At noon, enjoy the mild temperatures in the sheltered garden of the presidential museum. Since the sun sets around 5:00 PM, visit the church in the golden afternoon light. The evening concludes at the well-lit PETA museum before the cool night air sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Nasional Sejarah Alam Indonesia",
+                "hu": "Museum Nasional Sejarah Alam Indonesia",
+                "ro": "Museum Nasional Sejarah Alam Indonesia",
+                "en": "Museum Nasional Sejarah Alam Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Innentemperaturen im Winter sind ideal, um die Details der Exponate ohne die typische tropische Hitze intensiv zu studieren.",
+                "hu": "A hűvösebb téli benti hőmérséklet ideális ahhoz, hogy a tipikus trópusi hőség nélkül, alaposan áttanulmányozza a kiállítási tárgyak részleteit.",
+                "ro": "Temperaturile interioare mai răcoroase în timpul iernii sunt ideale pentru a studia detaliile exponatelor fără căldura tropicală tipică.",
+                "en": "The cooler indoor temperatures in winter are ideal for studying the details of the exhibits without the typical tropical heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Kepresidenan Balai Kirti",
+                "hu": "Museum Kepresidenan Balai Kirti",
+                "ro": "Museum Kepresidenan Balai Kirti",
+                "en": "Museum Kepresidenan Balai Kirti"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Präsidentenpalast im weichen Winterlicht; die Sicht ist oft klarer als während der feuchten Sommermonate.",
+                "hu": "Élvezze az elnöki palotára nyíló kilátást a lágy téli fényben; a látótávolság gyakran sokkal tisztább, mint a párás nyári hónapokban.",
+                "ro": "Bucurați-vă de vederea spre palatul prezidențial în lumina blândă de iarnă; vizibilitatea este adesea mai clară decât în lunile umede de vară.",
+                "en": "Enjoy the view of the presidential palace in the soft winter light; visibility is often much clearer than during the humid summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Devries",
+                "hu": "Pasar Devries",
+                "ro": "Pasar Devries",
+                "en": "Pasar Devries"
+              },
+              "tip_5lang": {
+                "de": "Ein heißer lokaler Tee am Markt ist im Winter besonders belebend; nutzen Sie die angenehme Kühle für einen ausgiebigen Bummel durch die Gassen.",
+                "hu": "Egy forró helyi tea a piacon télen különösen frissítő; használja ki a kellemes hűvöst egy hosszabb barangoláshoz a hangulatos sikátorokban.",
+                "ro": "Un ceai local fierbinte la piață este deosebit de revigorant iarna; profitați de răcoarea plăcută pentru o plimbare lungă prin alei.",
+                "en": "A hot local tea at the market is especially invigorating in winter; take advantage of the pleasant coolness for an extensive stroll through the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Perjuangan",
+                "hu": "Museum Perjuangan",
+                "ro": "Museum Perjuangan",
+                "en": "Museum Perjuangan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am frühen Nachmittag, um die beste natürliche Beleuchtung der Exponate vor dem frühen Sonnenuntergang zu nutzen.",
+                "hu": "Látogassa meg a múzeumot kora délután, hogy a korai naplemente előtt a lehető legjobb természetes megvilágításban láthassa a kiállított tárgyakat.",
+                "ro": "Vizitați muzeul la începutul după-amiezii pentru a beneficia de cea mai bună iluminare naturală a exponatelor înainte de apusul devreme.",
+                "en": "Visit the museum in the early afternoon to take advantage of the best natural lighting for the exhibits before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Pantekosta Tabernakel PNIEL",
+                "hu": "Gereja Pantekosta Tabernakel PNIEL",
+                "ro": "Gereja Pantekosta Tabernakel PNIEL",
+                "en": "Gereja Pantekosta Tabernakel PNIEL"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht der Kerzen im Inneren bietet eine gemütliche Atmosphäre; ideal, um sich vor dem weiteren Weg kurz aufzuwärmen.",
+                "hu": "A benti gyertyák meleg fénye meghitt hangulatot áraszt; ideális helyszín egy rövid pihenőre és lelki feltöltődésre a hűvösebb időben.",
+                "ro": "Lumina caldă a lumânărilor din interior oferă o atmosferă primitoare; loc ideal pentru o scurtă încălzire înainte de a porni din nou la drum.",
+                "en": "The warm light of the candles inside provides a cozy atmosphere; an ideal spot to briefly warm up before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pembela Tanah Air",
+                "hu": "Museum Pembela Tanah Air",
+                "ro": "Museum Pembela Tanah Air",
+                "en": "Museum Pembela Tanah Air"
+              },
+              "tip_5lang": {
+                "de": "Da es draußen bereits dunkel wird, kommen die beleuchteten Außendenkmäler besonders gut zur Geltung; eine leichte Jacke ist für den Abend ratsam.",
+                "hu": "Mivel kint már sötétedik, a kivilágított kültéri emlékművek különösen látványosak; az esti órákra egy könnyű kabát viselete mindenképpen ajánlott.",
+                "ro": "Deoarece afară se întunecă deja, monumentele exterioare iluminate sunt deosebit de spectaculoase; o jachetă ușoară este recomandată pentru seară.",
+                "en": "Since it is already getting dark outside, the illuminated outdoor monuments look particularly striking; a light jacket is advised for the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpározást a város nyugati szélén, elvegyülve a helyiekkel a piacon, mielőtt felfedezné a rejtett ősi teraszokat. Délben tekerjen a történelmi Tangga Kesuksesan felé, megcsodálva Bogor változó tájait. Délután merüljön el a város hősies múltjában a katonai és függetlenségi múzeumok meglátogatásával. Útja az ikonikus Air Mancur szökőkútnál ér véget, amely tökéletes hely a kikapcsolódásra az este közeledtével.",
         "ro": "Începeți ziua de ciclism la marginea vestică a orașului, amestecându-vă cu localnicii la piață înainte de a descoperi terase antice ascunse. În jurul prânzului, pedalați spre istoricul Tangga Kesuksesan, surprinzând peisajele schimbătoare din Bogor. După-amiaza, pătrundeți în trecutul eroic al orașului vizitând muzee militare. Călătoria se încheie la fântâna emblematică Air Mancur, locul perfect pentru a vă relaxa seara.",
         "en": "Kick off your cycling day on the city's western edge, mingling with locals at the vibrant Gunung Batu market before discovering hidden ancient terraces nearby. Around midday, pedal towards the historic Tangga Kesuksesan, catching glimpses of Bogor's changing landscapes. In the afternoon, dive deep into the city's heroic past by visiting pivotal military and independence museums. Your ride concludes at the iconic Air Mancur fountain, a perfect place to relax as evening falls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Bogor erfordert Vorsicht auf den glatten Straßen. Morgens bietet der Markt von Gunung Batu schnellen Unterschlupf. Mittags pausieren Sie am besten am Megalith-Standort, wo Bäume Schutz bieten. Der Nachmittag gehört den Museen, die trockene Abstellplätze für Räder haben. Beenden Sie die Tour am Springbrunnen, wenn der Regen nachlässt und die Lichter im Wasser reflektieren.",
+            "hu": "Az esős bogori bringázás óvatosságot igényel a csúszós utakon. Reggel a Gunung Batu piac kínál gyors menedéket. Délben érdemes megállni a megalitikus leleteknél, ahol a fák védenek az esőtől. A délutánt töltse a múzeumokban, ahol van fedett biciklitároló. A túrát a szökőkútnál fejezze be, amikor az eső alábbhagy és a fények tükröződnek a vízen.",
+            "ro": "O plimbare cu bicicleta prin Bogor pe ploaie necesită prudență pe drumurile alunecoase. Dimineața, piața Gunung Batu oferă un adăpost rapid. La prânz, opriți-vă la situl megalitic unde copacii oferă protecție. După-amiaza aparține muzeelor care au rastele acoperite. Încheiați turul la fântână când ploaia se domolește și luminile se reflectă în apă.",
+            "en": "Cycling through Bogor in the rain requires caution on slippery roads. In the morning, Gunung Batu market offers quick shelter. At noon, it's best to pause at the megalithic site where trees provide cover. The afternoon belongs to the museums, which have dry bike parking. End the tour at the fountain when the rain subsides and the lights reflect in the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Gunung Batu",
+                "hu": "Pasar Gunung Batu",
+                "ro": "Pasar Gunung Batu",
+                "en": "Pasar Gunung Batu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach und erkunden Sie die Gänge; die frischen Früchte sind ein toller Snack für die Weiterfahrt im Regen.",
+                "hu": "Parkolja le kerékpárját az előtető alatt; a friss gyümölcsök kiváló energiapótlást jelentenek az esőben való további tekeréshez.",
+                "ro": "Parcați bicicleta sub copertină și explorați culoarele; fructele proaspete sunt o gustare excelentă pentru continuarea drumului pe ploaie.",
+                "en": "Park your bike under the canopy and explore the aisles; fresh fruits are a great snack for continuing your ride in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Punden Berundak Gunung Batu",
+                "hu": "Punden Berundak Gunung Batu",
+                "ro": "Punden Berundak Gunung Batu",
+                "en": "Punden Berundak Gunung Batu"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen können bei Nässe sehr rutschig sein; tragen Sie Schuhe mit gutem Profil und parken Sie das Rad auf festem Untergrund.",
+                "hu": "A kőlépcsők nedves időben rendkívül csúszósak lehetnek; viseljen bordázott talpú cipőt, és parkolja a bringát szilárd, nem sáros talajra.",
+                "ro": "Treptele de piatră pot fi foarte alunecoase când sunt ude; purtați încălțăminte cu aderență bună și parcați bicicleta pe teren stabil.",
+                "en": "The stone steps can be very slippery when wet; wear shoes with good grip and park your bike on firm ground, avoiding muddy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Tangga Kesuksesan",
+                "hu": "Tangga Kesuksesan",
+                "ro": "Tangga Kesuksesan",
+                "en": "Tangga Kesuksesan"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Treppensteigen bei starkem Regen; genießen Sie die Aussicht stattdessen von einem überdachten Punkt in der Nähe aus.",
+                "hu": "Heves esőzés idején kerülje a lépcsőzést; élvezze inkább a kilátást egy közeli fedett pontról, amíg eláll a felhőszakadás.",
+                "ro": "Evitați urcarea treptelor în timpul ploii torențiale; admirați în schimb priveliștea dintr-un punct acoperit din apropiere.",
+                "en": "Avoid climbing the stairs during heavy rain; instead, enjoy the view from a nearby covered spot until the downpour passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Perjuangan",
+                "hu": "Museum Perjuangan",
+                "ro": "Museum Perjuangan",
+                "en": "Museum Perjuangan"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad im Innenhof und nutzen Sie die Zeit, um Ihre Kleidung zu trocknen, während Sie die historischen Waffen besichtigen.",
+                "hu": "Zárja le kerékpárját a belső udvaron, és használja ki az időt ruházata megszárítására, miközben a történelmi fegyvereket nézi meg.",
+                "ro": "Asigurați bicicleta în curtea interioară și folosiți timpul pentru a vă usca hainele în timp ce vizitați colecția de arme istorice.",
+                "en": "Secure your bike in the courtyard and use the time to dry your clothes while viewing the collection of historical weapons."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pembela Tanah Air",
+                "hu": "Museum Pembela Tanah Air",
+                "ro": "Museum Pembela Tanah Air",
+                "en": "Museum Pembela Tanah Air"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Rades; im Inneren können Sie sich weitgehend trocken zwischen den Dioramen bewegen.",
+                "hu": "Használja a fedett bejárati részt a bicikli tárolására; odabent szárazon és kényelmesen sétálhat a nagyméretű diórámák között.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta; în interior vă puteți deplasa fără grija ploii printre diorame.",
+                "en": "Use the covered entrance area to park your bike; inside, you can move comfortably and dryly between the large dioramas."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Mancur",
+                "hu": "Air Mancur",
+                "ro": "Air Mancur",
+                "en": "Air Mancur"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Regen wirkt der Brunnen durch die feuchte Luft besonders mystisch; achten Sie auf Pfützen beim Befahren des Kreisverkehrs.",
+                "hu": "Az eső után a szökőkút a párás levegőben különösen misztikus látvány; a körforgalomban való tekeréskor ügyeljen a mélyebb tócsákra.",
+                "ro": "După ploaie, fântâna pare deosebit de mistică în aerul umed; atenție la bălți când circulați prin sensul giratoriu pe bicicletă.",
+                "en": "After the rain, the fountain looks particularly mystical in the humid air; watch out for deep puddles when cycling through the roundabout."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den kühlen Morgen für eine Radtour zum Gunung Batu. Mittags sind die Temperaturen ideal für die Erkundung der historischen Treppen ohne Schweißausbrüche. Am frühen Nachmittag besuchen Sie die Museen, um die milden Stunden zu nutzen. Da die Dämmerung gegen 17:00 Uhr einsetzt, beenden Sie Ihre Fahrt am beleuchteten Springbrunnen, wenn die Abendkühle spürbar wird.",
+            "hu": "Használja ki a hűvös reggelt egy biciklitúrára a Gunung Batu felé. Délben a hőmérséklet ideális a történelmi lépcsők megmászásához izzadás nélkül. Kora délután látogasson el a múzeumokba az enyhe órákban. Mivel 17:00 körül már szürkül, fejezze be a túrát a kivilágított szökőkútnál, amikor érezhetővé válik az esti lehűlés.",
+            "ro": "Profitați de dimineața răcoroasă pentru o tură cu bicicleta spre Gunung Batu. La prânz, temperaturile sunt ideale pentru explorarea treptelor istorice. După-amiaza devreme vizitați muzeele pentru a beneficia de orele blânde. Deoarece amurgul se lasă în jur de ora 17:00, încheiați plimbarea la fântâna iluminată când se simte răcoarea serii.",
+            "en": "Take advantage of the cool morning for a bike ride towards Gunung Batu. At noon, temperatures are ideal for exploring historical stairs without sweating. In the early afternoon, visit the museums during the mild hours. Since dusk sets in around 5:00 PM, end your ride at the illuminated fountain as the evening chill becomes noticeable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Gunung Batu",
+                "hu": "Pasar Gunung Batu",
+                "ro": "Pasar Gunung Batu",
+                "en": "Pasar Gunung Batu"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Kühle macht den Marktbesuch sehr angenehm; kaufen Sie sich einen warmen Snack für die Weiterfahrt durch die Stadt.",
+                "hu": "A reggeli hűvös idő nagyon kellemessé teszi a piaci látogatást; vegyen egy meleg helyi harapnivalót az útra a további tekeréshez.",
+                "ro": "Răcoarea dimineții face vizita la piață foarte plăcută; cumpărați o gustare caldă locală pentru drumul cu bicicleta prin oraș.",
+                "en": "The cool morning air makes the market visit very pleasant; buy a warm local snack for your continued bike ride through the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Punden Berundak Gunung Batu",
+                "hu": "Punden Berundak Gunung Batu",
+                "ro": "Punden Berundak Gunung Batu",
+                "en": "Punden Berundak Gunung Batu"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht bietet hervorragende Fotomöglichkeiten der alten Steine; parken Sie das Rad sicher am Fuße der Anlage.",
+                "hu": "A tiszta téli fény kiváló fotózási lehetőséget kínál az ősi köveknél; parkolja le biztonságosan a biciklit a domb aljában.",
+                "ro": "Lumina clară de iarnă oferă oportunități excelente de fotografiere a pietrelor vechi; parcați bicicleta în siguranță la baza sitului.",
+                "en": "The clear winter light offers excellent photo opportunities of the ancient stones; park your bike safely at the base of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Tangga Kesuksesan",
+                "hu": "Tangga Kesuksesan",
+                "ro": "Tangga Kesuksesan",
+                "en": "Tangga Kesuksesan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühleren Temperaturen für den Aufstieg; die Aussicht über das winterliche Bogor ist bei klarer Sicht besonders weit.",
+                "hu": "Használja ki a hűvösebb időt a lépcsőzéshez; a kilátás a téli Bogorra tiszta időben különösen messzire ellátni enged.",
+                "ro": "Profitați de temperaturile mai scăzute pentru urcare; vederea asupra orașului Bogor iarna este deosebit de vastă pe timp senin.",
+                "en": "Take advantage of the cooler temperatures for the climb; the view over winterly Bogor is particularly far-reaching on clear days."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Perjuangan",
+                "hu": "Museum Perjuangan",
+                "ro": "Museum Perjuangan",
+                "en": "Museum Perjuangan"
+              },
+              "tip_5lang": {
+                "de": "Die moderate Luftfeuchtigkeit im Winter macht den Aufenthalt in den nicht klimatisierten Teilen des Museums wesentlich komfortabler.",
+                "hu": "A téli mérsékeltebb páratartalom sokkal kényelmesebbé teszi a tartózkodást a múzeum nem légkondicionált részeiben is.",
+                "ro": "Umiditatea moderată de iarnă face șederea în părțile neclimatizate ale muzeului mult mai confortabilă decât în timpul verii.",
+                "en": "The moderate winter humidity makes staying in the non-air-conditioned parts of the museum much more comfortable than usual."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pembela Tanah Air",
+                "hu": "Museum Pembela Tanah Air",
+                "ro": "Museum Pembela Tanah Air",
+                "en": "Museum Pembela Tanah Air"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum vor Einbruch der frühen Dunkelheit; die Außenpanzer sind im späten Nachmittagslicht ein tolles Motiv.",
+                "hu": "Látogassa meg a múzeumot a korai sötétedés előtt; a kültéri tankok a késő délutáni fényben nagyszerű fotótémát szolgáltatnak.",
+                "ro": "Vizitați muzeul înainte de lăsarea întunericului; tancurile exterioare sunt un subiect excelent pentru poze în lumina după-amiezii.",
+                "en": "Visit the museum before the early darkness; the outdoor tanks make a great subject for photos in the late afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Mancur",
+                "hu": "Air Mancur",
+                "ro": "Air Mancur",
+                "en": "Air Mancur"
+              },
+              "tip_5lang": {
+                "de": "Licht am Rad ist für den Rückweg in der frühen Dunkelheit unerlässlich; genießen Sie kurz das Spiel der beleuchteten Fontänen.",
+                "hu": "A korai sötétedés miatt a lámpa elengedhetetlen a visszaúthoz; élvezze egy rövid ideig a kivilágított szökőkutak játékát.",
+                "ro": "Luminile la bicicletă sunt esențiale pentru drumul de întoarcere pe întuneric; bucurați-vă scurt de jocul fântânilor iluminate.",
+                "en": "Bike lights are essential for the return journey in the early darkness; briefly enjoy the play of the illuminated fountains."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós túrája a külvárosban kezdődik ősi megalitok felfedezésével, majd kényelmesen áttér a nyüzsgő Pasar Devries örökségére. A dél a város természettörténetének szívébe viszi a nemzeti múzeumban. A délután könnyű átjutást tesz lehetővé a katonai helyszínekhez és a fenséges mecsethez. Végül egy festői autózás a történelmi ipari műemlékek mellett naplementekor a nyüzsgő Air Mancurnál ér véget.",
         "ro": "Turul auto începe la periferie, descoperind megaliți antici înainte de a vă deplasa confortabil spre moștenirea vibrantă de la Pasar Devries. Prânzul vă aduce chiar în inima istoriei naturale a orașului, la muzeul național. După-amiaza permite un tranzit ușor către siturile militare și maiestuoasa moschee. În cele din urmă, o croazieră pitorească pe lângă reperele industriale vă lasă la vibrantul Air Mancur chiar la timp pentru apus.",
         "en": "Your driving tour begins on the outskirts, uncovering ancient megaliths before moving comfortably to the bustling heritage of Pasar Devries. Midday brings you right to the heart of the city's renowned natural history at the national museum. The afternoon allows for easy transit to monumental military sites and the majestic Masjid Al Muhajirin. Finally, a scenic cruise past historic industrial landmarks drops you at the vibrant Air Mancur just in time for sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Bogor auch bei starkem Regen komfortabel. Morgens besuchen Sie die Außenstandorte, wenn die Schauer meist noch schwächer sind. Mittags bieten die Museen trockene Parkplätze in der Nähe. Nachmittags ist die Fahrt durch die Stadt sicher, während das Wasser auf die Scheiben trommelt. Der Abend endet an den beleuchteten Monumenten, die im Regen glänzen.",
+            "hu": "Autóval még szakadó esőben is kényelmesen felfedezheti Bogort. Reggel látogassa meg a kültéri helyszíneket, amikor a záporok még gyengébbek. Délben a múzeumok kínálnak száraz parkolási lehetőséget a közelben. Délután biztonságban autózhat a városban, miközben az eső kopog a szélvédőn. Az este a kivilágított emlékműveknél zárul, amelyek csillognak a nedvességben.",
+            "ro": "Cu mașina puteți explora Bogor confortabil chiar și pe ploaie torențială. Dimineața vizitați siturile exterioare când aversele sunt mai slabe. La prânz, muzeele oferă parcare uscată în apropiere. După-amiaza, plimbarea prin oraș este sigură în timp ce ploaia bate în parbriz. Seara se încheie la monumentele iluminate care strălucesc în ploaie.",
+            "en": "By car, you can explore Bogor comfortably even during heavy rain. In the morning, visit the outdoor sites when the showers are usually weaker. At noon, museums offer dry parking nearby. In the afternoon, driving through the city is safe while the rain drums on the windshield. The evening ends at the illuminated monuments that glisten in the wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Punden Berundak Gunung Batu",
+                "hu": "Punden Berundak Gunung Batu",
+                "ro": "Punden Berundak Gunung Batu",
+                "en": "Punden Berundak Gunung Batu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Weg im Regen kurzzuhalten; Vorsicht beim Aussteigen auf rutschigem Boden.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az utat az esőben; vigyázzon kiszálláskor a csúszós útpadkára.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; atenție la coborârea din mașină pe solul alunecos.",
+                "en": "Park as close as possible to the entrance to shorten the walk in the rain; be careful when getting out of the car on slippery ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Devries",
+                "hu": "Pasar Devries",
+                "ro": "Pasar Devries",
+                "en": "Pasar Devries"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Drive-by-Blick auf die historische Architektur oder parken Sie im Parkhaus, um trocken zu den Geschäften zu gelangen.",
+                "hu": "Élvezze a történelmi építészetet az autóból, vagy parkoljon egy közeli fedett helyen, hogy szárazon jusson el az üzletekhez.",
+                "ro": "Admirați arhitectura istorică din mașină sau parcați într-un loc acoperit din apropiere pentru a ajunge uscat la magazine.",
+                "en": "Enjoy the historical architecture from the car or park in a nearby covered spot to reach the shops without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Nasional Sejarah Alam Indonesia",
+                "hu": "Museum Nasional Sejarah Alam Indonesia",
+                "ro": "Museum Nasional Sejarah Alam Indonesia",
+                "en": "Museum Nasional Sejarah Alam Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich am Haupteingang absetzen, um nicht nass zu werden; im Inneren sind Sie für die nächsten Stunden sicher vor dem Regen.",
+                "hu": "Szálljon ki közvetlenül a főbejáratnál, hogy elkerülje az esőt; odabent a következő órákban teljes biztonságban lesz a vihartól.",
+                "ro": "Lăsați-vă debarcat chiar la intrarea principală pentru a nu vă uda; în interior veți fi la adăpost de ploaie pentru următoarele ore.",
+                "en": "Get dropped off right at the main entrance to avoid the rain; inside, you will be safe from the storm for the next few hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pembela Tanah Air",
+                "hu": "Museum Pembela Tanah Air",
+                "ro": "Museum Pembela Tanah Air",
+                "en": "Museum Pembela Tanah Air"
+              },
+              "tip_5lang": {
+                "de": "Das weitläufige Gelände ist bei Regen am besten vom Auto aus zu überblicken, bevor Sie die überdachten Ausstellungen betreten.",
+                "hu": "A tágas területet esőben a legjobb az autóból szemügyre venni, mielőtt besétálna a fedett és száraz kiállítóterekbe.",
+                "ro": "Zona vastă este cel mai bine observată din mașină pe ploaie, înainte de a intra în spațiile expoziționale acoperite.",
+                "en": "The vast grounds are best viewed from the car during rain before you walk into the sheltered and dry exhibition spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Muhajirin",
+                "hu": "Masjid Al Muhajirin",
+                "ro": "Masjid Al Muhajirin",
+                "en": "Masjid Al Muhajirin"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee bietet einen großzügigen Vorraum zum Unterstellen; achten Sie auf spritzendes Wasser beim Ein- und Ausparken.",
+                "hu": "A mecset tágas előtérrel rendelkezik, ahol elrejtőzhet az eső elől; ügyeljen a felverődő vízre a parkolás és kiszállás során.",
+                "ro": "Moscheea are un vestibul spațios unde vă puteți adăposti; atenție la apa împroșcată în timpul parcării și coborârii.",
+                "en": "The mosque has a spacious vestibule where you can take cover; watch out for splashing water while parking and exiting the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Goodyear",
+                "hu": "Goodyear",
+                "ro": "Goodyear",
+                "en": "Goodyear"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Kulisse wirkt im Regen besonders markant; genießen Sie die Architektur bequem durch die Autofenster.",
+                "hu": "Az ipari háttér esőben különösen karakteresnek tűnik; élvezze az építészeti látványt kényelmesen az autó ablakán keresztül.",
+                "ro": "Cadrul industrial pare deosebit de marcant în ploaie; bucurați-vă de privelistea arhitecturală confortabil din mașină.",
+                "en": "The industrial backdrop looks particularly striking in the rain; enjoy the architectural sight comfortably through the car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Mancur",
+                "hu": "Air Mancur",
+                "ro": "Air Mancur",
+                "en": "Air Mancur"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Guss einfach im Auto und genießen Sie das Lichtspiel; die Reflexionen im Regen sind ein tolles Fotomotiv.",
+                "hu": "Heves esőzéskor maradjon az autóban és onnan nézze a fényjátékot; a vízen tükröződő fények kiváló fotótémát nyújtanak.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați jocul de lumini; reflexiile în apă sunt un subiect foto excelent.",
+                "en": "During heavy rain, stay in the car and watch the light display from there; the reflections in the water make for a great photo."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die angenehm kühle Winterluft macht die Autofahrt durch Bogor zum Vergnügen. Morgens erkunden Sie die Megalithen bei klarer Sicht. Mittags ist die Klimaanlage im Wagen kaum nötig. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie die späten Stopps so, dass Sie die Beleuchtung des Air Mancur noch erleben, bevor die kühle Nacht einsetzt.",
+            "hu": "A kellemesen hűvös téli levegő élménnyé teszi az autózást Bogorban. Reggel látogassa meg a megalitokat, amíg tiszta az idő. Délben az autó klímájára alig lesz szükség. Mivel a nap 17:00 körül lemegy, tervezze úgy a megállókat, hogy az Air Mancur kivilágítását még lássa, mielőtt beállna a hűvös éjszaka.",
+            "ro": "Aerul plăcut de iarnă face plimbarea cu mașina prin Bogor o plăcere. Dimineața explorați megaliticii cât timp vizibilitatea este clară. La prânz, aerul condiționat din mașină este abia necesar. Deoarece soarele apune în jur de ora 17:00, planificați opririle astfel încât să prindeți iluminarea fântânii înainte de noaptea rece.",
+            "en": "The pleasantly cool winter air makes driving through Bogor a delight. In the morning, explore the megaliths while the visibility is clear. At noon, the car's air conditioning is barely needed. Since the sun sets around 5:00 PM, plan your stops to see the Air Mancur illumination before the cool night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Punden Berundak Gunung Batu",
+                "hu": "Punden Berundak Gunung Batu",
+                "ro": "Punden Berundak Gunung Batu",
+                "en": "Punden Berundak Gunung Batu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintermorgenluft bei einem kurzen Spaziergang um die Anlage; der Boden ist jetzt meist fest und gut begehbar.",
+                "hu": "Élvezze a tiszta téli reggeli levegőt egy rövid sétával a helyszín körül; a talaj ilyenkor általában szilárd és könnyen járható.",
+                "ro": "Bucurați-vă de aerul curat al dimineții de iarnă cu o scurtă plimbare prin sit; solul este acum de obicei ferm și ușor de parcurs.",
+                "en": "Enjoy the clear winter morning air with a short walk around the site; the ground is usually firm and easy to walk on now."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Devries",
+                "hu": "Pasar Devries",
+                "ro": "Pasar Devries",
+                "en": "Pasar Devries"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter entspannter; nutzen Sie das milde Wetter für einen gemütlichen Bummel durch das historische Viertel.",
+                "hu": "Télen könnyebb parkolóhelyet találni a környéken; használja ki az enyhe időt egy kellemes sétára a történelmi negyedben.",
+                "ro": "Căutarea unui loc de parcare este mai relaxată iarna; profitați de vremea blândă pentru o plimbare prin cartierul istoric.",
+                "en": "Finding a parking spot is more relaxed in winter; take advantage of the mild weather for a leisurely stroll through the historic district."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Nasional Sejarah Alam Indonesia",
+                "hu": "Museum Nasional Sejarah Alam Indonesia",
+                "ro": "Museum Nasional Sejarah Alam Indonesia",
+                "en": "Museum Nasional Sejarah Alam Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Die moderaten Außentemperaturen machen den Weg vom Parkplatz zum Museum sehr angenehm; ideal für einen längeren Aufenthalt im Inneren.",
+                "hu": "A mérsékelt kültéri hőmérséklet nagyon kellemessé teszi a parkolóból a múzeumba vezető utat; ideális időszak a benti elmélyüléshez.",
+                "ro": "Temperaturile exterioare moderate fac drumul de la parcare la muzeu foarte plăcut; perioadă ideală pentru o vizită lungă în interior.",
+                "en": "The moderate outdoor temperatures make the walk from the parking lot to the museum very pleasant; ideal for a long stay inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pembela Tanah Air",
+                "hu": "Museum Pembela Tanah Air",
+                "ro": "Museum Pembela Tanah Air",
+                "en": "Museum Pembela Tanah Air"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das weiche Licht des späten Nachmittags für Fotos der Außengelände; eine dünne Jacke im Auto ist für die Abendstunden gut.",
+                "hu": "Használja ki a késő délutáni lágy fényeket a kültéri részek fotózásához; egy vékony kabát az autóban jól jöhet az esti órákra.",
+                "ro": "Profitați de lumina blândă a după-amiezii pentru fotografii în exterior; o jachetă subțire în mașină este utilă pentru orele serii.",
+                "en": "Take advantage of the soft late afternoon light for photos of the outdoor areas; keeping a thin jacket in the car is good for the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al Muhajirin",
+                "hu": "Masjid Al Muhajirin",
+                "ro": "Masjid Al Muhajirin",
+                "en": "Masjid Al Muhajirin"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch am frühen Abend ist durch die kühle Brise besonders friedlich; parken Sie direkt auf dem Moscheegelände für kurzen Zugang.",
+                "hu": "A kora esti látogatás a hűvös szellő miatt különösen békés; parkoljon közvetlenül a mecset területén a gyors bejutás érdekében.",
+                "ro": "Vizita de seară este deosebit de liniștită datorită brizei răcoroase; parcați direct în incinta moscheii pentru acces rapid.",
+                "en": "The early evening visit is particularly peaceful due to the cool breeze; park directly on the mosque grounds for quick access."
+              }
+            },
+            {
+              "name": {
+                "de": "Goodyear",
+                "hu": "Goodyear",
+                "ro": "Goodyear",
+                "en": "Goodyear"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Smog oft geringer, was die Sicht auf die Fabrikgebäude verbessert; ein kurzer Fotostopp vom Auto aus lohnt sich.",
+                "hu": "Télen a szmog gyakran kisebb, ami javítja a gyárépületekre nyíló kilátást; érdemes egy rövid fotómegállót tartani az autóból.",
+                "ro": "Iarna, poluarea este adesea mai redusă, ceea ce îmbunătățește vizibilitatea asupra clădirilor fabricii; merită o scurtă oprire foto.",
+                "en": "In winter, smog is often lower, improving the view of the factory buildings; a short photo stop from the car is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Mancur",
+                "hu": "Air Mancur",
+                "ro": "Air Mancur",
+                "en": "Air Mancur"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier kurz nach Sonnenuntergang (ca. 17:30 Uhr), um die Illumination in der kühlen Winterabendluft zu genießen.",
+                "hu": "Zárja itt a napot röviddel naplemente után (kb. 17:30), hogy élvezze a kivilágítást a hűvös téli esti levegőben.",
+                "ro": "Încheiați ziua aici la scurt timp după apus (aprox. 17:30) pentru a vă bucura de iluminare în aerul răcoros de seară.",
+                "en": "End your day here shortly after sunset (approx. 5:30 PM) to enjoy the illumination in the cool winter evening air."
+              }
+            }
+          ]
+        }
       }
     }
   }

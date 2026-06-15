@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a maja örökséget tükröző ősi kulturális emlékek és gyönyörű romok felfedezésével. Ahogy melegszik az idő, váltson az interaktív és történelmi helyszínekre, amelyek egyszerre nyújtanak szórakozást és tudást. Délután merüljön el a régió természeti csodáiban, hűs árnyékot és vadvilágot keresve. Zárja a napot egy lenyűgöző természetes cenote frissítő vizének közelében pihenve.",
         "ro": "Începeți dimineața explorând ecourile culturale antice și ruinele frumoase care reflectă moștenirea mayașă. Pe măsură ce se încălzește, treceți la situri istorice interactive ce oferă distracție și cunoaștere. După-amiaza, scufundați-vă în minunile naturale ale regiunii, căutând umbră și faună sălbatică. Încheiați ziua relaxându-vă lângă apele răcoroase ale unui cenote natural uimitor.",
         "en": "Begin your morning exploring the ancient cultural echoes and beautiful ruins that reflect Maya heritage. As the day warms up, transition towards interactive and historical sites that offer both fun and knowledge. In the afternoon, dive into the natural wonders of the region, seeking cool shade and wildlife. Conclude the day by relaxing near the refreshing waters of a stunning natural cenote."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in Palenque mit einem Regenschirm. Mittags erkunden Sie Pirates Island und Kulkulkan am besten in wasserfester Kleidung. Nachmittags bietet Dolphinus einige überdachte Bereiche. Der Abend am Cenote ist im Regen besonders mystisch, aber Vorsicht auf den rutschigen Wegen.",
+            "hu": "Kezdje a reggelt Palenque-ben egy masszív esernyővel. Délben vízálló felszerelésben fedezze fel a Pirates Islandet és a Kulkulkant. Délután a Dolphinus részben fedett menedéket nyújt az eső elől. Este a cenote a trópusi záporban is misztikus, de a nedves ösvényeken óvatosan lépkedjen.",
+            "ro": "Începeți dimineața la Palenque cu o umbrelă rezistentă. La prânz, explorați Pirates Island și Kulkulkan cu echipament impermeabil. După-amiaza, Dolphinus oferă zone de observare acoperite. Seara la cenotă este deosebit de mistică în timpul ploii, dar aveți grijă la aleile alunecoase.",
+            "en": "Start your morning at Palenque with a sturdy umbrella. Around noon, explore Pirates Island and Kulkulkan wearing waterproof gear. The afternoon at Dolphinus offers sheltered viewing spots from the rain. Conclude by the cenote, which feels wonderfully mystical during a downpour, though paths get slippery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palenque",
+                "hu": "Palenque",
+                "ro": "Palenque",
+                "en": "Palenque"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ruinen im Regen, aber bringen Sie einen Poncho mit, da es hier kaum natürliche Unterstände gibt.",
+                "hu": "Csodálja meg a romokat az esőben, de hozzon egy strapabíró poncsót, mivel a területen kevés a fedett menedék.",
+                "ro": "Admirați ruinele în ploaie, dar aduceți un poncho rezistent, deoarece există puține adăposturi naturale aici.",
+                "en": "Admire the ruins under the rain, but bring a sturdy poncho as there is little natural shelter around the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirates Island",
+                "hu": "Pirates Island",
+                "ro": "Pirates Island",
+                "en": "Pirates Island"
+              },
+              "tip_5lang": {
+                "de": "Die verspielten Ausstellungen machen Spaß, aber bewahren Sie Ihre Elektronik auf den nassen Wegen wasserdicht auf.",
+                "hu": "A játékos kiállítások ilyenkor is élvezetesek, de az elektronikát tartsa vízálló táskában a csúszós ösvényeken.",
+                "ro": "Expozițiile sunt distractive, dar păstrați electronicele în genți impermeabile în timp ce mergeți pe aleile ude.",
+                "en": "The playful displays are still fun, just keep your electronics in waterproof bags while moving around the wet paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulkulkan",
+                "hu": "Kulkulkan",
+                "ro": "Kulkulkan",
+                "en": "Kulkulkan"
+              },
+              "tip_5lang": {
+                "de": "Das majestätische Bauwerk wirkt vor grauem Himmel beeindruckend; stellen Sie sich bei Schauern unter die Bäume.",
+                "hu": "A fenséges építmény lenyűgöző a szürke ég alatt; hirtelen záporok esetén húzódjon be a közeli fák alá.",
+                "ro": "Structura arată uimitor sub cerul gri; adăpostiți-vă sub copacii din apropiere în timpul ploilor torențiale.",
+                "en": "The majestic structure looks striking against grey skies; stand under the nearby trees during sudden heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolphinus Barceló",
+                "hu": "Dolphinus Barceló",
+                "ro": "Dolphinus Barceló",
+                "en": "Dolphinus Barceló"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Delfine von den überdachten Aussichtsdecks, um während der tropischen Nachmittagsregengüsse trocken zu bleiben.",
+                "hu": "Nézze a delfineket a részben fedett kilátóteraszokról, hogy száraz maradjon a trópusi délutáni esők idején.",
+                "ro": "Priviți delfinii de pe platformele de observație parțial acoperite pentru a rămâne uscat în timpul ploilor de după-amiază.",
+                "en": "Watch the dolphins from the partially covered observation decks to stay dry during tropical afternoon rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Cristalino",
+                "hu": "Cenote Cristalino",
+                "ro": "Cenote Cristalino",
+                "en": "Cenote Cristalino"
+              },
+              "tip_5lang": {
+                "de": "Der Regen macht den Dschungel saftig grün, aber die Holzstufen zum Cenote werden sehr rutschig – gehen Sie vorsichtig.",
+                "hu": "Az esőtől a dzsungel bujább lesz, de a cenotéhoz vezető fa lépcsők nagyon csúszóssá válnak, így lépkedjen óvatosan.",
+                "ro": "Ploaia face jungla luxuriantă, dar treptele de lemn spre cenotă devin foarte alunecoase, deci coborâți cu grijă.",
+                "en": "The rain makes the jungle lush, but the wooden steps down to the cenote become very slippery, so tread carefully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Morgenluft ist ideal für den Spaziergang nach Palenque. Mittags wärmt die sanfte Wintersonne Pirates Island angenehm auf. Nachmittags bei Dolphinus ist eine leichte Jacke wegen der Meeresbrise nützlich. Da die Sonne gegen 17:00 Uhr untergeht, wird der Cenote-Besuch am Abend kühl und stimmungsvoll.",
+            "hu": "A reggeli friss levegő tökéletes a Palenque-i sétához. Délre az enyhe téli napsütés kellemesen felmelegíti a Pirates Islandet. Délután a Dolphinusnál jól jön egy vékony pulóver a tengeri szél miatt. Mivel a nap 17:00 körül nyugszik, az esti cenote-látogatás hűvös és igazán hangulatos lesz.",
+            "ro": "Aerul dimineții este răcoros, perfect pentru o plimbare spre Palenque. La prânz, soarele blând de iarnă încălzește Pirates Island. După-amiaza la Dolphinus, o jachetă subțire este utilă împotriva brizei marine. Deoarece soarele apune în jur de 17:00, vizita de seară la cenotă va fi răcoroasă.",
+            "en": "The morning air is crisp and pleasant for the walk to Palenque. By noon, the mild winter sun warms Pirates Island and Kulkulkan beautifully. In the afternoon at Dolphinus, a light jacket is handy against the sea breeze. With the sun setting around 17:00, your evening cenote visit will be cool and atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palenque",
+                "hu": "Palenque",
+                "ro": "Palenque",
+                "en": "Palenque"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Details ohne die Sommerhitze, aber tragen Sie einen leichten Pullover für den kühlen Morgen.",
+                "hu": "Élvezze a lenyűgöző részleteket a nyári hőség nélkül, de vegyen fel egy vékony pulóvert a szeles reggelen.",
+                "ro": "Bucurați-vă de detalii fără căldura verii, dar purtați un pulover subțire pentru dimineața răcoroasă.",
+                "en": "Enjoy the intricate details without the summer heat, but wear a light sweater for the breezy morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirates Island",
+                "hu": "Pirates Island",
+                "ro": "Pirates Island",
+                "en": "Pirates Island"
+              },
+              "tip_5lang": {
+                "de": "Das milde Winterwetter ist perfekt für diesen Außenbereich; genießen Sie den Spaziergang vor dem frühen Sonnenuntergang.",
+                "hu": "Az enyhe téli időjárás tökéletes e szabadtéri helyszín felfedezésére, élvezze a sétát a korai naplemente előtt.",
+                "ro": "Vremea blândă de iarnă este perfectă pentru a explora acest loc, bucurați-vă de plimbare înainte de apusul devreme.",
+                "en": "The mild winter weather is perfect for exploring this outdoor spot, so enjoy the walk before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulkulkan",
+                "hu": "Kulkulkan",
+                "ro": "Kulkulkan",
+                "en": "Kulkulkan"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für tolle Fotos, aber halten Sie eine Windjacke für die kühleren Brisen bereit.",
+                "hu": "A tiszta téli fények csodás fotókat garantálnak, de a hűvös szél miatt tartson kéznél egy széldzsekit.",
+                "ro": "Lumina clară de iarnă este perfectă pentru fotografii, dar păstrați o jachetă la îndemână pentru briza rece.",
+                "en": "The clear winter light makes for stunning photography, but keep a windbreaker handy for the cooler breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolphinus Barceló",
+                "hu": "Dolphinus Barceló",
+                "ro": "Dolphinus Barceló",
+                "en": "Dolphinus Barceló"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist kühler; bewundern Sie die Meeresbewohner also vom Rand aus in einer gemütlichen, warmen Schicht.",
+                "hu": "A víz most hűvösebb, így kényelmes, meleg rétegben csodálja meg a tengeri élővilágot a partról.",
+                "ro": "Apa este mai rece, așa că admirați viața marină de pe margine purtând un strat cald și confortabil.",
+                "en": "The water feels cooler now, so admire the marine life from the edge while wearing a cozy warm layer."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Cristalino",
+                "hu": "Cenote Cristalino",
+                "ro": "Cenote Cristalino",
+                "en": "Cenote Cristalino"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, kommen Sie vor 16:30 Uhr und packen Sie sich nach einem kurzen Bad warm ein.",
+                "hu": "Mivel korán sötétedik, érkezzen 16:30 előtt, és egy gyors csobbanás után burkolózzon meleg törölközőbe.",
+                "ro": "Deoarece se întunecă devreme, vizitați înainte de 16:30 și înfășurați-vă călduros după o baie rapidă.",
+                "en": "As it gets dark early, visit before 16:30 and wrap up warmly after a quick dip in the refreshing natural pool."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt a maja örökséget tükröző ősi kulturális emlékek és gyönyörű romok felfedezésével. Ahogy melegszik az idő, váltson az interaktív és történelmi helyszínekre, amelyek egyszerre nyújtanak szórakozást és tudást. Délután merüljön el a régió természeti csodáiban, hűs árnyékot és vadvilágot keresve. Zárja a napot egy lenyűgöző természetes cenote frissítő vizének közelében pihenve.",
         "ro": "Începeți dimineața explorând ecourile culturale antice și ruinele frumoase care reflectă moștenirea mayașă. Pe măsură ce se încălzește, treceți la situri istorice interactive ce oferă distracție și cunoaștere. După-amiaza, scufundați-vă în minunile naturale ale regiunii, căutând umbră și faună sălbatică. Încheiați ziua relaxându-vă lângă apele răcoroase ale unui cenote natural uimitor.",
         "en": "Begin your morning exploring the ancient cultural echoes and beautiful ruins that reflect Maya heritage. As the day warms up, transition towards interactive and historical sites that offer both fun and knowledge. In the afternoon, dive into the natural wonders of the region, seeking cool shade and wildlife. Conclude the day by relaxing near the refreshing waters of a stunning natural cenote."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das morgendliche Radfahren nach Mérida erfordert Vorsicht auf nassen Straßen. Mittags in Chac-hal-al und Palenque brauchen Sie wasserfeste Kleidung. Nachmittags werden die Wege nahe der Cenotes schlammig; suchen Sie bei starkem Regen Schutz. Abends wird es schnell dunkel, schalten Sie starke Lichter ein.",
+            "hu": "A reggeli biciklizés Méridába óvatosságot igényel a csúszós utakon. Délben Chac-hal-al és Palenque felfedezéséhez elengedhetetlen a vízálló ruha. Délután a cenoték körüli ösvények sarasak, zápor idején keressen menedéket. Este az esőben gyorsan romlik a látási viszony, használjon erős lámpát.",
+            "ro": "Ciclismul de dimineață spre Mérida necesită atenție pe drumurile umede. La prânz, plimbarea prin Chac-hal-al și Palenque necesită haine impermeabile. După-amiaza, traseele de lângă cenote devin noroioase; căutați adăpost pe ploaie puternică. Seara, folosiți lumini puternice pentru bicicletă.",
+            "en": "Morning cycling to Mérida needs care on wet, slippery roads. By noon, navigating Chac-hal-al and Palenque requires reliable waterproofs and gentle braking. Afternoon trails near the cenotes become muddy and adventurous, so seek shelter during heavy downpours. Evening falls quickly in the rain; keep your bike lights bright."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mérida",
+                "hu": "Mérida",
+                "ro": "Mérida",
+                "en": "Mérida"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Straßen spiegeln die Architektur wider, aber fahren Sie in den rutschigen Kurven vorsichtig und nutzen Sie Schutzbleche.",
+                "hu": "A nedves utcák gyönyörűen tükrözik az építészetet, de kanyarodjon óvatosan a csúszós utakon, és használjon sárvédőt.",
+                "ro": "Străzile ude reflectă arhitectura frumoasă, dar pedalați cu grijă în curbele alunecoase și folosiți apărători de noroi.",
+                "en": "The wet streets here reflect the beautiful architecture, but bike carefully around the slippery corners and use mudguards."
+              }
+            },
+            {
+              "name": {
+                "de": "Chac-hal-al",
+                "hu": "Chac-hal-al",
+                "ro": "Chac-hal-al",
+                "en": "Chac-hal-al"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und erkunden Sie die Stätte; bringen Sie eine wasserdichte Kartenhülle für plötzliche tropische Schauer mit.",
+                "hu": "Parkolja le a kerékpárt, és fedezze fel a helyet; hozzon vízálló térképtartót, mert gyakoriak a hirtelen trópusi záporok.",
+                "ro": "Parcați bicicleta și explorați situl; aduceți o hartă impermeabilă, deoarece ploile tropicale bruște sunt frecvente aici.",
+                "en": "Park your bike safely and explore this site; bring a waterproof map cover as sudden tropical showers are frequent here."
+              }
+            },
+            {
+              "name": {
+                "de": "Palenque",
+                "hu": "Palenque",
+                "ro": "Palenque",
+                "en": "Palenque"
+              },
+              "tip_5lang": {
+                "de": "Im Regen zu den antiken Steinen zu radeln, ist episch; stellen Sie nur sicher, dass Ihre Bremsen vor der Abfahrt trocken sind.",
+                "hu": "Esőben feltekerni az ősi kövekhez epikus élmény, csak győződjön meg róla, hogy a fékek szárazak és jól fognak lejtmenetben.",
+                "ro": "Să pedalați spre pietrele antice în ploaie este epic, asigurați-vă doar că frânele sunt uscate înainte de coborâre.",
+                "en": "Cycling up to the ancient stones in the rain is epic, just ensure your brakes are dry and functional before descending."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Chikin-Ha",
+                "hu": "Cenote Chikin-Ha",
+                "ro": "Cenote Chikin-Ha",
+                "en": "Cenote Chikin-Ha"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher wird bei Nässe extrem schlammig; fahren Sie langsam und suchen Sie bei Bedarf Schutz unter dem Blätterdach.",
+                "hu": "Az ide vezető út esőben rendkívül saras lehet; tekerjen lassan, és szükség esetén keressen menedéket a sűrű lombok alatt.",
+                "ro": "Drumul devine extrem de noroios la umezeală; mergeți încet pe bicicletă și adăpostiți-vă sub coronamentul dens dacă plouă.",
+                "en": "The path here gets extremely muddy when wet; take it slow on your bike and seek cover under the dense canopy if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecopark Katun Chi",
+                "hu": "Ecopark Katun Chi",
+                "ro": "Ecopark Katun Chi",
+                "en": "Ecopark Katun Chi"
+              },
+              "tip_5lang": {
+                "de": "Die Natur wirkt bei Regen unglaublich lebendig; lassen Sie Ihr Rad am Eingang und erkunden Sie die trockenen Höhlen.",
+                "hu": "A természet csodásan élénk a záporok alatt; hagyja a bringát a bejáratnál, és fedezze fel a száraz barlangokat.",
+                "ro": "Natura este incredibil de vibrantă în timpul ploii; lăsați bicicleta la intrare și explorați peșterile unde este uscat.",
+                "en": "Nature looks incredibly vibrant during showers; leave your bike at the entrance and explore the caves where it’s dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Cristalino",
+                "hu": "Cenote Cristalino",
+                "ro": "Cenote Cristalino",
+                "en": "Cenote Cristalino"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihre nasse Fahrt. Die Regentropfen auf der Wasseroberfläche wirken magisch; parken Sie vorsichtig im Schlamm.",
+                "hu": "Fejezze be itt a vizes túrát. A vízfelszínen kopogó esőcseppek varázslatosak, de parkoljon óvatosan a csúszós sárban.",
+                "ro": "Încheiați plimbarea udă aici. Picăturile de ploaie care lovesc apa arată magic, parcați cu grijă pe noroiul alunecos.",
+                "en": "End your wet ride here. The rain drops hitting the water surface look magical, just park carefully on the slippery mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Morgenluft ist perfekt für die Fahrt nach Mérida. Die Mittagssonne macht die Strecke zwischen Chac-hal-al und Palenque sehr angenehm. Nachmittags zu den Cenotes ist Zwiebellook ratsam, da es abkühlt. Da die Sonne gegen 17:00 Uhr untergeht, radeln Sie im frühen Zwielicht zurück.",
+            "hu": "A friss reggeli levegő tökéletes a Méridába tartó kerékpározáshoz. A déli napsütés nagyon kellemessé teszi a tekerést Chac-hal-al és Palenque között. Délután a cenoték felé már érdemes rétegesen öltözni. Mivel a nap 17:00-kor lenyugszik, tekerjen vissza a kora esti szürkületben.",
+            "ro": "Aerul proaspăt de dimineață este perfect pentru a pedala spre Mérida. Soarele amiezii face plimbarea între Chac-hal-al și Palenque foarte plăcută. După-amiaza spre cenote necesită haine în straturi, deoarece se răcește. Cu apusul la 17:00, pedalați înapoi în siguranță la asfințit.",
+            "en": "The crisp morning air is perfect for cycling to Mérida. Noon sunshine makes the ride between Chac-hal-al and Palenque incredibly pleasant. Afternoon routes toward the cenotes require layered clothing as it cools. With the sun setting by 17:00, pedal back safely under the early twilight sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mérida",
+                "hu": "Mérida",
+                "ro": "Mérida",
+                "en": "Mérida"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historischen Fassaden im klaren Winterlicht; eine winddichte Jacke ist ideal für die frische Morgenfahrt.",
+                "hu": "Élvezze a történelmi homlokzatokat a tiszta téli fényben; egy szélálló dzseki ideális a csípős reggeli tekeréshez.",
+                "ro": "Bucurați-vă de fațadele istorice în lumina clară de iarnă; o jachetă rezistentă la vânt este ideală dimineața.",
+                "en": "Enjoy the historic facades in the clear winter light; a wind-resistant jacket is ideal for the brisk morning ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Chac-hal-al",
+                "hu": "Chac-hal-al",
+                "ro": "Chac-hal-al",
+                "en": "Chac-hal-al"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Mittagstemperaturen machen die Erkundung der Ruinen zum Kinderspiel; befestigen Sie warme Schichten am Gepäckträger.",
+                "hu": "A hűvösebb déli hőmérséklet megkönnyíti a történelmi romok felfedezését; rögzítse meleg rétegeit a csomagtartón.",
+                "ro": "Temperaturile mai reci de la amiază fac explorarea ruinelor o plăcere; asigurați hainele calde pe bicicletă.",
+                "en": "The cooler midday temperatures make exploring these historical ruins a breeze; secure your warm layers on the bike rack."
+              }
+            },
+            {
+              "name": {
+                "de": "Palenque",
+                "hu": "Palenque",
+                "ro": "Palenque",
+                "en": "Palenque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die fehlenden Wintermassen, um den kulturellen Reichtum zu genießen, und tragen Sie Handschuhe für die Abfahrt.",
+                "hu": "Használja ki, hogy télen kisebb a tömeg, és élvezze a kulturális gazdagságot; lejtmenethez húzzon kesztyűt.",
+                "ro": "Profitați de lipsa aglomerației de iarnă pentru a admira bogăția culturală, purtând mănuși la coborâre.",
+                "en": "Take advantage of the lack of winter crowds to enjoy the cultural richness, wearing gloves for the cool descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Chikin-Ha",
+                "hu": "Cenote Chikin-Ha",
+                "ro": "Cenote Chikin-Ha",
+                "en": "Cenote Chikin-Ha"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Bad im Cenote ist toll, aber packen Sie ein wärmendes Langarmshirt ein, um sich für die Weiterfahrt aufzuwärmen.",
+                "hu": "Egy gyors csobbanás remek, de csomagoljon be egy hosszú ujjú thermo felsőt, hogy hamar felmelegedjen a továbbinduláshoz.",
+                "ro": "O baie rapidă în cenotă este grozavă, dar împachetați o bluză termică pentru a vă încălzi rapid pentru următoarea cursă.",
+                "en": "A quick dip in the refreshing cenote is great, but pack a long-sleeved thermal shirt to warm up quickly for the next ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecopark Katun Chi",
+                "hu": "Ecopark Katun Chi",
+                "ro": "Ecopark Katun Chi",
+                "en": "Ecopark Katun Chi"
+              },
+              "tip_5lang": {
+                "de": "Der weitläufige Park eignet sich wunderbar für Spaziergänge; tauschen Sie Ihre Radschuhe gegen bequeme, warme Laufschuhe.",
+                "hu": "A kiterjedt parkban csodás sétálni; a hideg ellen cserélje le kerékpáros cipőjét egy kényelmes sétacipőre.",
+                "ro": "Parcul imens este minunat pentru plimbări; schimbați pantofii de ciclism cu unii confortabili pentru a vă menține cald.",
+                "en": "The sprawling park is wonderful to walk around; switch your cycling shoes for comfortable walking ones to stay cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Cristalino",
+                "hu": "Cenote Cristalino",
+                "ro": "Cenote Cristalino",
+                "en": "Cenote Cristalino"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang um 17:00 Uhr und stellen Sie sicher, dass Sie zuverlässige Fahrradlichter für den Rückweg haben.",
+                "hu": "Érkezzen a 17:00 órai naplemente előtt a tiszta vizekhez, és a sötét visszautazáshoz legyen jól működő kerékpárlámpája.",
+                "ro": "Ajungeți înainte de apusul de la 17:00 pentru a vedea apele clare și asigurați-vă că aveți lumini bune la bicicletă pentru întoarcere.",
+                "en": "Arrive before the early 17:00 sunset to see the clear waters, and make sure you have reliable bike lights for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje a reggelt a maja örökséget tükröző ősi kulturális emlékek és gyönyörű romok felfedezésével. Ahogy melegszik az idő, váltson az interaktív és történelmi helyszínekre, amelyek egyszerre nyújtanak szórakozást és tudást. Délután merüljön el a régió természeti csodáiban, hűs árnyékot és vadvilágot keresve. Zárja a napot egy lenyűgöző természetes cenote frissítő vizének közelében pihenve.",
         "ro": "Începeți dimineața explorând ecourile culturale antice și ruinele frumoase care reflectă moștenirea mayașă. Pe măsură ce se încălzește, treceți la situri istorice interactive ce oferă distracție și cunoaștere. După-amiaza, scufundați-vă în minunile naturale ale regiunii, căutând umbră și faună sălbatică. Încheiați ziua relaxându-vă lângă apele răcoroase ale unui cenote natural uimitor.",
         "en": "Begin your morning exploring the ancient cultural echoes and beautiful ruins that reflect Maya heritage. As the day warms up, transition towards interactive and historical sites that offer both fun and knowledge. In the afternoon, dive into the natural wonders of the region, seeking cool shade and wildlife. Conclude the day by relaxing near the refreshing waters of a stunning natural cenote."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt nach Chac-hal-al erfordert gute Scheibenwischer bei plötzlichen Schauern. Mittags ist der Wechsel zwischen den Attraktionen dank des Autos komfortabel. Nachmittags bei den Ökoparks müssen Sie schlammige Parkplätze bewältigen. Die abendliche Fahrt nach Mérida erfordert Vorsicht auf den nassen, spiegelnden Straßen.",
+            "hu": "A reggeli vezetés Chac-hal-alba jó ablaktörlőket igényel a heves záporok miatt. Délben kényelmes az autó védelméből átautózni a következő helyszínekre. Délután az ökoparkoknál figyeljen a saras, tócsás parkolókra. Az esti Méridába tartó úton vezessen fokozott óvatossággal a csillogó, nedves aszfalton.",
+            "ro": "Conducerea de dimineață spre Chac-hal-al necesită ștergătoare bune în timpul ploilor torențiale. La prânz, deplasarea între atracții este confortabilă datorită mașinii. După-amiaza la ecoparcuri înseamnă parcări noroioase. Seara, drumul spre Mérida necesită prudență suplimentară pe străzile ude.",
+            "en": "Morning drives to Chac-hal-al require good wipers during sudden heavy showers. Around noon, moving between Dolphinus, Pirates Island, and Kulkulkan is comfortable with your car's shelter. Afternoon visits to the eco-parks mean navigating muddy parking lots. Your evening drive to Mérida requires extra caution on wet, glare-filled roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chac-hal-al",
+                "hu": "Chac-hal-al",
+                "ro": "Chac-hal-al",
+                "en": "Chac-hal-al"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und sprinten Sie zu den Ruinen; die antiken Strukturen wirken vor den dunklen Sturmwolken unglaublich dramatisch.",
+                "hu": "Parkoljon a lehető legközelebb, és siessen a romokhoz; az ősi épületek hihetetlenül drámaian hatnak a sötét viharfelhők előtt.",
+                "ro": "Parcați cât mai aproape și grăbiți-vă la ruine; structurile antice arată incredibil de dramatic pe fundalul norilor de furtună.",
+                "en": "Park as close as possible and dash to the ruins; the ancient structures look incredibly dramatic against the dark storm clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolphinus Barceló",
+                "hu": "Dolphinus Barceló",
+                "ro": "Dolphinus Barceló",
+                "en": "Dolphinus Barceló"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Sachen im Auto; in den halb überdachten Bereichen können Sie die Delfine bequem im Regen spielen sehen.",
+                "hu": "Hagyja a nehéz vizes felszerelést az autóban; a félig fedett részeken kényelmesen nézheti a delfinek játékát az esőben.",
+                "ro": "Lăsați echipamentul ud în mașină; zonele semi-acoperite vă permit să priviți confortabil delfinii jucându-se în ploaie.",
+                "en": "Leave your heavy wet gear in the car; the semi-covered areas allow you to comfortably watch the dolphins play in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirates Island",
+                "hu": "Pirates Island",
+                "ro": "Pirates Island",
+                "en": "Pirates Island"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen ziehen Sie sich einfach ins Auto zurück und machen eine Snackpause, bis der tropische Schauer vorüber ist.",
+                "hu": "Ha heves zápor csap le, egyszerűen vonuljon vissza az autóba egy gyors uzsonnára, amíg a trópusi eső elvonul.",
+                "ro": "Dacă începe o ploaie torențială, retrageți-vă în mașină pentru o gustare rapidă în timp ce așteptați să treacă ploaia tropicală.",
+                "en": "If a heavy downpour hits, simply retreat to your car for a quick snack break while waiting for the tropical shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulkulkan",
+                "hu": "Kulkulkan",
+                "ro": "Kulkulkan",
+                "en": "Kulkulkan"
+              },
+              "tip_5lang": {
+                "de": "Bewahren Sie einen Regenschirm in der Autotür auf; Sie werden ihn für den kurzen Weg vom Parkplatz zur Kulturstätte brauchen.",
+                "hu": "Tartson esernyőt az ajtózsebben; szüksége lesz rá a parkolótól a kulturális helyszínig tartó rövid séta során.",
+                "ro": "Păstrați o umbrelă în portiera mașinii; veți avea nevoie de ea pentru scurta plimbare de la parcare la acest sit cultural.",
+                "en": "Keep an umbrella in your door pocket; you will need it for the short walk from the parking lot to this magnificent cultural site."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Chikin-Ha",
+                "hu": "Cenote Chikin-Ha",
+                "ro": "Cenote Chikin-Ha",
+                "en": "Cenote Chikin-Ha"
+              },
+              "tip_5lang": {
+                "de": "Der Dschungelparkplatz wird oft schlammig mit tiefen Pfützen; parken Sie vorsichtig und tragen Sie wasserfeste Stiefel.",
+                "hu": "A dzsungel melletti parkoló nagyon saras lehet mély tócsákkal, így óvatosan parkoljon, és viseljen vízálló cipőt a befelé sétához.",
+                "ro": "Parcarea din junglă poate deveni foarte noroioasă cu bălți adânci, așa că parcați cu atenție și purtați cizme impermeabile.",
+                "en": "The jungle parking lot can get very muddy with deep puddles, so park carefully and wear proper waterproof boots to walk inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecopark Katun Chi",
+                "hu": "Ecopark Katun Chi",
+                "ro": "Ecopark Katun Chi",
+                "en": "Ecopark Katun Chi"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie hier die wettergeschützten unterirdischen Höhlen; die perfekte Aktivität, um den nachmittäglichen Gewittern zu entkommen.",
+                "hu": "Fedezze fel az időjárástól védett földalatti barlangokat; ez a tökéletes program, hogy elmeneküljön a kitartó délutáni zivatarok elől.",
+                "ro": "Explorați peșterile subterane protejate de vreme aici; este activitatea perfectă pentru a scăpa de furtunile persistente de după-amiază.",
+                "en": "Explore the underground, weather-protected caves here; it is the perfect activity to escape the persistent afternoon thunderstorms."
+              }
+            },
+            {
+              "name": {
+                "de": "Mérida",
+                "hu": "Mérida",
+                "ro": "Mérida",
+                "en": "Mérida"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag mit einer Fahrt durch die regennassen, beleuchteten Straßen; suchen Sie ein Parkhaus, um trocken zu bleiben.",
+                "hu": "Fejezze be a napot az eső áztatta, kivilágított városi utcákon autózva; keressen egy fedett parkolóházat, hogy száraz maradjon.",
+                "ro": "Încheiați ziua conducând pe străzile orașului iluminate și umede; găsiți o parcare acoperită pentru a rămâne complet uscat.",
+                "en": "End your day driving through the illuminated, rain-slicked city streets; find a covered parking garage to stay completely dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt nach Chac-hal-al wird durch die milde Wintersonne erhellt. Mittags ist der Wechsel zwischen den Stätten bequem, und der Kofferraum ist ideal für Jacken. Nachmittags an den Cenotes wird es frisch; schnappen Sie sich Ihre warmen Sachen. Die abendliche Fahrt nach Mérida im frühen Zwielicht ist wunderschön.",
+            "hu": "A Chac-hal-alba tartó reggeli utat az enyhe téli napfény teszi sokat ígérővé. Délben az autós közlekedés kényelmes, a csomagtartóban elfér a meleg ruha. Délután a cenotéknál hűvösre fordul, így kapja elő a pulóvereket. A Méridába vezető esti út a korai, 17:00 órás naplementében nyugodt és festői.",
+            "ro": "Drumul de dimineață spre Chac-hal-al este luminat de soarele blând de iarnă. La prânz, deplasarea între atracții este ușoară, portbagajul fiind perfect pentru jachete. După-amiaza la cenote se face frig, așa că luați hainele groase. Drumul de seară spre Mérida la asfințitul de la 17:00 este pitoresc.",
+            "en": "The morning drive to Chac-hal-al is brightened by the mild winter sun. By noon, moving between Dolphinus and Pirates Island is easy, with the trunk perfect for storing extra jackets. Afternoon stops at the cenotes get chilly, so grab your warm layers. The evening drive to Mérida under the early 17:00 twilight is smooth and beautiful."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chac-hal-al",
+                "hu": "Chac-hal-al",
+                "ro": "Chac-hal-al",
+                "en": "Chac-hal-al"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Erkundung am Morgen; die Autoheizung ist toll, wenn der winterliche Küstenwind zu frisch ist.",
+                "hu": "Élvezze a békés reggeli felfedezést; az autó fűtése jól jön, ha a téli parti szél túl csípős lenne érkezéskor.",
+                "ro": "Bucurați-vă de explorarea liniștită de dimineață; încălzirea mașinii este excelentă dacă vânturile de iarnă sunt prea reci.",
+                "en": "Enjoy the peaceful morning exploration; the car heating is great if the winter coastal winds feel too brisk upon arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolphinus Barceló",
+                "hu": "Dolphinus Barceló",
+                "ro": "Dolphinus Barceló",
+                "en": "Dolphinus Barceló"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie einen warmen Pullover aus dem Kofferraum, da es am Wasser in der kalten Winterbrise recht kühl werden kann.",
+                "hu": "Vegyen elő egy meleg pulóvert a csomagtartóból, mert a téli szélben a medencék mellett álldogálva hamar fázni kezdhet.",
+                "ro": "Luați un pulover gros din portbagaj înainte de a intra, deoarece statul lângă apă în briza de iarnă poate fi destul de rece.",
+                "en": "Grab a warm sweater from the trunk before heading in, as standing by the water pools in the winter breeze can get quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirates Island",
+                "hu": "Pirates Island",
+                "ro": "Pirates Island",
+                "en": "Pirates Island"
+              },
+              "tip_5lang": {
+                "de": "Die kühle, insektenfreie Winterluft ist fantastisch für einen Spaziergang; halten Sie Ihre Sonnenbrille für die Mittagssonne bereit.",
+                "hu": "A hűvös, rovarmentes téli levegő fantasztikus a sétához; tartsa kéznél a napszemüveget a ragyogó déli napsütésben.",
+                "ro": "Aerul rece de iarnă, fără insecte, este fantastic pentru o plimbare; păstrați ochelarii de soare la îndemână pentru soarele de amiază.",
+                "en": "The cool, bug-free winter air is fantastic for walking around the displays; keep your sunglasses handy for the bright midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulkulkan",
+                "hu": "Kulkulkan",
+                "ro": "Kulkulkan",
+                "en": "Kulkulkan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und genießen Sie die klare Sicht für Fotos; die kühleren Temperaturen machen die Erkundung weniger anstrengend.",
+                "hu": "Parkoljon a közelben, és élvezze a tiszta látási viszonyokat a fotózáshoz; a hűvösebb időben sokkal kevésbé fárasztó a felfedezés.",
+                "ro": "Parcați aproape și bucurați-vă de vizibilitatea clară pentru fotografii; temperaturile reci fac explorarea mult mai puțin obositoare.",
+                "en": "Park close by and enjoy the clear visibility for photos; the cooler temperatures make climbing and exploring much less exhausting."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Chikin-Ha",
+                "hu": "Cenote Chikin-Ha",
+                "ro": "Cenote Chikin-Ha",
+                "en": "Cenote Chikin-Ha"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Stopp am Nachmittag; denken Sie daran, nasse Kleidung schnell im Auto zu wechseln, um sich nicht zu erkälten.",
+                "hu": "Csodás délutáni megálló, de ne felejtse el gyorsan lecserélni a vizes ruhákat az autóban, nehogy megfázzon a téli szélben.",
+                "ro": "O oprire minunată pentru după-amiază, amintiți-vă doar să vă schimbați hainele ude rapid în mașină pentru a nu răci.",
+                "en": "A wonderful stop for the afternoon, just remember to change out of wet clothes quickly in your car to avoid catching a winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecopark Katun Chi",
+                "hu": "Ecopark Katun Chi",
+                "ro": "Ecopark Katun Chi",
+                "en": "Ecopark Katun Chi"
+              },
+              "tip_5lang": {
+                "de": "Sie werden die warmen Schichten aus dem Kofferraum schätzen, wenn die späten Nachmittagsschatten über das Parkgelände fallen.",
+                "hu": "Értékelni fogja a csomagtartóban hozott meleg rétegeket, ahogy a késő délutáni árnyékok egyre hosszabbá válnak a parkban.",
+                "ro": "Veți aprecia hainele groase aduse în portbagaj pe măsură ce umbrele târzii de după-amiază se întind pe terenul parcului.",
+                "en": "You will appreciate the warm layers you brought in the trunk as the late afternoon shadows stretch out across the park grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Mérida",
+                "hu": "Mérida",
+                "ro": "Mérida",
+                "en": "Mérida"
+              },
+              "tip_5lang": {
+                "de": "Bei einer Ankunft um 17:00 Uhr gehen die Stadtlichter für das frühe Zwielicht gerade an, was ein magisches Winterfahrerlebnis schafft.",
+                "hu": "A 17:00 óra körüli érkezés azt jelenti, hogy a városi fények épp felgyulladnak a korai szürkületben, varázslatos autós élményt nyújtva.",
+                "ro": "Sosirea în jur de 17:00 înseamnă că luminile orașului tocmai se aprind, creând o experiență magică de condus pe timp de iarnă.",
+                "en": "Arriving around 17:00 means the city lights are just turning on for the early twilight, creating a magical winter driving experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt Bjelovar központi parkjainak zöldjében, átadva magát a békés hangulatnak. A dél a színház kulturális élményeit és a helyi múzeum történelmi elmélyülését hozza. A délután a csendes tereken található emlékművek felfedezésének ideje. Végül egy kora esti séta a sétány fái alatt teszi tökéletessé ezt a sétálós napot.",
         "ro": "Începeți dimineața absorbind verdeața vibrantă a parcurilor centrale din Bjelovar, lăsând atmosfera pașnică să seteze un ritm relaxat. Amiaza aduce imersiune culturală la teatru și o scufundare în istoria recentă. După-amiaza este rezervată descoperirii monumentelor prin piețe liniștite. O plimbare de seară sub copacii promenadei completează o zi perfectă.",
         "en": "Start your morning absorbing the vibrant greenery of Bjelovar’s central parks, letting the peaceful atmosphere set a relaxed pace. Midday brings cultural immersion at the theatre and a deep dive into recent history at the local museum. The afternoon is reserved for monument-spotting through tranquil squares. Finally, an evening stroll under the trees of the promenade rounds off a perfect walking day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag auf dem Eugen-Kvaternik-Platz unter einem stabilen Regenschirm. Der Vormittag führt Sie ins Bjelovarer Theater, das einen perfekten Schutz vor dem Regen bietet. Am Mittag erkunden Sie die Ausstellungen im Museum des Heimatkrieges, während es draußen stürmt. Der Nachmittag wird ruhiger im Haus der Kultur, und der Abend endet mit einem kurzen Spaziergang auf der nassen Promenade.",
+            "hu": "Kezdje a napot az Eugen Kvaternik téren egy biztos esernyő alatt. A délelőtt a Bjelovári Színházba vezet, amely tökéletes menedéket nyújt az eső elől. Délben a Honvédő Háború Múzeumának tárlatait böngészheti, miközben kint elered az égi áldás. A délután a Kultúra Házában telik nyugodtan, az este pedig a vizes sétányon tett rövid, frissítő sétával zárul a város szívében.",
+            "ro": "Începeți ziua în Piața Eugen Kvaternik sub o umbrelă solidă. Dimineața vă poartă la Teatrul din Bjelovar, care oferă un adăpost perfect împotriva ploii. La prânz explorați expozițiile de la Muzeul Războiului pentru Apărarea Patriei în timp ce afară plouă torențial. După-amiaza devine mai liniștită la Casa Culturii, iar seara se încheie cu o scurtă plimbare pe promenada umedă.",
+            "en": "Start your day at Eugen Kvaternik Square under a sturdy umbrella. The morning takes you to the Bjelovar Theater, providing perfect shelter from the rain. At midday, explore the exhibits at the Museum of the Homeland War while the storm rages outside. The afternoon is spent peacefully at the House of Culture, and the evening ends with a short, refreshing walk on the wet promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eugen-Kvaternik-Platz",
+                "hu": "Eugen Kvaternik tér",
+                "ro": "Piața Eugen Kvaternik",
+                "en": "Eugen Kvaternik Square"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Pavillon im Regen; die Steinwege können rutschig sein, daher ist festes Schuhwerk mit gutem Profil heute besonders wichtig.",
+                "hu": "Csodálja meg a pavilont az esőben; a kőburkolat csúszós lehet, ezért a jó tapadású, vízálló lábbeli ma elengedhetetlen a biztonságos sétához.",
+                "ro": "Admirați pavilionul în ploaie; căile de piatră pot fi alunecoase, așa că încălțămintea solidă cu profil bun este deosebit de importantă astăzi.",
+                "en": "Admire the pavilion in the rain; the stone paths can be slippery, so sturdy footwear with good grip is especially important today."
+              }
+            },
+            {
+              "name": {
+                "de": "Bjelovarer Theater",
+                "hu": "Bjelovári Színház",
+                "ro": "Teatrul din Bjelovar",
+                "en": "Bjelovarsko kazalište"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Eingangsbereich als trockenen Unterschlupf und bewundern Sie die Architektur, während Sie auf eine Regenpause warten.",
+                "hu": "Használja a pompás bejáratot száraz menedékként, és csodálja meg az épület architektúráját, miközben az eső elcsendesedésére vár a fedél alatt.",
+                "ro": "Folosiți zona magnifică de intrare ca adăpost uscat și admirați arhitectura în timp ce așteptați o pauză de ploaie sub acoperiș.",
+                "en": "Use the magnificent entrance area as a dry shelter and admire the architecture while waiting for a break in the rain under the eaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Heimatkrieges",
+                "hu": "Honvédő Háború Múzeuma",
+                "ro": "Muzeul Războiului pentru Apărarea Patriei",
+                "en": "Stalni muzejski postav Domovinskog rata"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume bieten eine informative Flucht vor dem Wetter; nutzen Sie die Garderobe, um Ihre nassen Mäntel und Schirme sicher zu verstauen.",
+                "hu": "A belső terek informatív menekülést kínálnak az időjárás elől; használja a ruhatárat a vizes kabátok és esernyők biztonságos tárolására.",
+                "ro": "Interioarele oferă o evadare informativă din calea vremii; folosiți garderoba pentru a vă depozita în siguranță hainele și umbrelele ude.",
+                "en": "The interiors offer an informative escape from the weather; use the cloakroom to safely store your wet coats and umbrellas during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Stjepan-Radić-Platz",
+                "hu": "Stjepan Radić tér",
+                "ro": "Piața Stjepan Radić",
+                "en": "Stjepan Radić Square"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen oder in den umliegenden Arkaden, wenn ein plötzlicher Schauer Sie beim Überqueren des Platzes überrascht.",
+                "hu": "Keressen menedéket a nagy fák alatt vagy a környező árkádoknál, ha egy hirtelen zápor érné utol a tér átvágása közben.",
+                "ro": "Căutați adăpost sub copacii mari sau în arcadele din jur dacă o aversă bruscă vă surprinde în timp ce traversați piața.",
+                "en": "Seek shelter under the large trees or in the nearby arcades if a sudden shower catches you while crossing the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Platz der kroatischen Verteidiger",
+                "hu": "Horvát Védők Tere",
+                "ro": "Piața Apărătorilor Croați",
+                "en": "Square of Croatian defenders"
+              },
+              "tip_5lang": {
+                "de": "Die Denkmäler wirken im Regen besonders stimmungsvoll; achten Sie auf die Pfützenbildung auf den Wegen und halten Sie sich an die befestigten Ränder.",
+                "hu": "Az emlékművek esőben különösen hangulatosak; ügyeljen az utakon kialakuló tócsákra, és maradjon a szilárdabb szegélyeken a sár elkerülése végett.",
+                "ro": "Monumentele par deosebit de atmosferice în ploaie; aveți grijă la bălțile de pe poteci și rămâneți pe marginile pavate pentru a evita noroiul.",
+                "en": "The monuments look particularly atmospheric in the rain; watch out for puddles on the paths and stick to the paved edges to avoid the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Kultur",
+                "hu": "Kultúra Háza",
+                "ro": "Casa Culturii",
+                "en": "House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für kulturelle Vertiefung bei schlechtem Wetter; prüfen Sie, ob gerade eine Ausstellung im Foyer stattfindet, die man trocken besuchen kann.",
+                "hu": "Ideális hely a kulturális elmélyüléshez rossz időben; ellenőrizze, zajlik-e épp kiállítás az előtérben, amelyet szárazon is megtekinthet.",
+                "ro": "Un loc ideal pentru imersiune culturală pe vreme rea; verificați dacă există vreo expoziție în foaier pe care să o puteți vizita la adăpost.",
+                "en": "An ideal place for cultural immersion in bad weather; check if there is an exhibition in the foyer that you can visit while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade von Dr. Ivša Lebović",
+                "hu": "Dr. Ivša Lebović sétány",
+                "ro": "Promenada Dr. Ivša Lebović",
+                "en": "Promenade of Dr. Ivša Lebović"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Gang an der frischen Regenluft wirkt belebend; die Allee bietet durch das Blätterdach einen gewissen Schutz vor leichtem Nieselregen.",
+                "hu": "Egy rövid séta a friss, eső utáni levegőn élénkítő hatású; a sétány fái bizonyos fokú védelmet nyújtanak a szemerkélő eső ellen.",
+                "ro": "O scurtă plimbare în aerul proaspăt de ploaie este înviorătoare; aleea oferă o anumită protecție împotriva burniței ușoare datorită coronamentului.",
+                "en": "A short walk in the fresh rainy air is invigorating; the tree-lined promenade offers some protection from light drizzle under its canopy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Eugen-Kvaternik-Platz, wo die Kälte die Luft klärt. Zum Aufwärmen geht es ins Bjelovarer Theater, bevor Sie mittags die Geschichte im Museum des Heimatkrieges erkunden. Der Nachmittag bietet kulturelle Wärme im Haus der Kultur. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen Sie die festliche Beleuchtung auf dem Stjepan-Radić-Platz und der Promenade.",
+            "hu": "Fagyos reggel indul az Eugen Kvaternik téren, ahol a hideg frissé teszi a levegőt. Felmelegedésképp látogasson el a Bjelovári Színházba, mielőtt délben a Honvédő Háború Múzeumában kutatná a múltat. A délután kulturális meleget kínál a Kultúra Házában. Mivel a nap már 17:00 körül lebukik, élvezze a díszkivilágítást a Stjepan Radić téren és a sétányon.",
+            "ro": "O dimineață geroasă începe în Piața Eugen Kvaternik, unde frigul purifică aerul. Pentru a vă încălzi, mergeți la Teatrul din Bjelovar înainte de a explora istoria la muzeu la prânz. După-amiaza oferă căldură culturală la Casa Culturii. Deoarece soarele apune deja în jurul orei 17:00, bucurați-vă de iluminatul festiv din Piața Stjepan Radić și de pe promenadă.",
+            "en": "A frosty morning begins at Eugen Kvaternik Square, where the cold clears the air. To warm up, head to the Bjelovar Theater before exploring history at the Museum of the Homeland War at midday. The afternoon offers cultural warmth at the House of Culture. As the sun sets around 17:00, enjoy the festive lighting at Stjepan Radić Square and the promenade."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eugen-Kvaternik-Platz",
+                "hu": "Eugen Kvaternik tér",
+                "ro": "Piața Eugen Kvaternik",
+                "en": "Eugen Kvaternik Square"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist oft festlich geschmückt; tragen Sie warme Schichten und Thermosocken, da die Kälte hier zwischen den Gebäuden stehen bleibt.",
+                "hu": "A tér gyakran ünnepi díszbe öltözik; viseljen réteges öltözetet és termozoknit, mert a hideg megül az épületek közötti nyitott téren.",
+                "ro": "Piața este adesea decorată festiv; purtați straturi calde și șosete termice, deoarece frigul stagnează aici între clădirile deschise.",
+                "en": "The square is often festively decorated; wear warm layers and thermal socks, as the cold tends to linger in the open area between buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Bjelovarer Theater",
+                "hu": "Bjelovári Színház",
+                "ro": "Teatrul din Bjelovar",
+                "en": "Bjelovarsko kazalište"
+              },
+              "tip_5lang": {
+                "de": "Die geheizten Innenräume sind eine Wohltat; nehmen Sie sich Zeit für eine Besichtigung, um die Glieder vor dem nächsten Wegstück aufzuwärmen.",
+                "hu": "A fűtött belső terek valóságos áldást jelentenek; szánjon időt a nézelődésre, hogy átmelegedjenek tagjai a következő szabadtéri szakasz előtt.",
+                "ro": "Interioarele încălzite sunt o binecuvântare; faceți-vă timp pentru o vizită pentru a vă încălzi membrele înainte de următoarea secțiune în aer liber.",
+                "en": "The heated interiors are a blessing; take your time during the visit to warm your limbs before the next outdoor stretch of your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Heimatkrieges",
+                "hu": "Honvédő Háború Múzeuma",
+                "ro": "Muzeul Războiului pentru Apărarea Patriei",
+                "en": "Stalni muzejski postav Domovinskog rata"
+              },
+              "tip_5lang": {
+                "de": "Ein längerer Aufenthalt im warmen Museum schützt vor der Mittagskälte; ideal, um tief in die Geschichte einzutauchen, während es draußen frostig ist.",
+                "hu": "A meleg múzeumban töltött hosszabb idő megvédi a déli fagyoktól; ideális hely a történelemben való elmélyülésre, amíg kint röpködnek a mínuszok.",
+                "ro": "O ședere mai lungă în muzeul cald vă protejează de frigul de la amiază; ideal pentru a aprofunda istoria în timp ce afară este ger.",
+                "en": "A longer stay in the warm museum protects you from the midday chill; ideal for diving deep into history while it is freezing outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Stjepan-Radić-Platz",
+                "hu": "Stjepan Radić tér",
+                "ro": "Piața Stjepan Radić",
+                "en": "Stjepan Radić Square"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, leuchten die Laternen hier besonders schön; achten Sie auf glatte Stellen auf dem gefrorenen Kopfsteinpflaster.",
+                "hu": "Mivel korán sötétedik, a lámpák fénye itt különösen szép; ügyeljen a jeges foltokra a fagyott macskaköveken a biztonságos közlekedés érdekében.",
+                "ro": "Deoarece se întunecă devreme, lumina felinarelor este deosebit de frumoasă aici; atenție la petele de gheață de pe pavajul înghețat.",
+                "en": "Since it gets dark early, the lantern lights are especially beautiful here; watch out for icy patches on the frozen cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Platz der kroatischen Verteidiger",
+                "hu": "Horvát Védők Tere",
+                "ro": "Piața Apărătorilor Croați",
+                "en": "Square of Croatian defenders"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Schritt hält warm; genießen Sie die klare Winterluft, aber halten Sie Schal und Handschuhe bereit für den windigen Freiraum.",
+                "hu": "A tempós haladás melegen tartja; élvezze a tiszta téli levegőt, de tartson készenlétben sálat és kesztyűt a szeles, nyitott tereken.",
+                "ro": "Un pas rapid vă menține cald; bucurați-vă de aerul curat de iarnă, dar păstrați fularul și mănușile la îndemână pentru spațiile deschise cu vânt.",
+                "en": "A brisk pace keeps you warm; enjoy the crisp winter air, but keep your scarf and gloves ready for the windy, open spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Kultur",
+                "hu": "Kultúra Háza",
+                "ro": "Casa Culturii",
+                "en": "House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine kulturelle Pause am späten Nachmittag, bevor die Winterdämmerung endgültig einsetzt und die Temperaturen sinken.",
+                "hu": "Tökéletes hely egy késő délutáni kulturális pihenőhöz, mielőtt a téli szürkület végleg beállna és a hőmérséklet hirtelen zuhanni kezdene.",
+                "ro": "Locul perfect pentru o pauză culturală târziu după-amiaza, înainte ca amurgul de iarnă să se instaleze definitiv și temperaturile să scadă.",
+                "en": "The perfect place for a late afternoon cultural break before the winter twilight sets in and temperatures begin to drop sharply."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade von Dr. Ivša Lebović",
+                "hu": "Dr. Ivša Lebović sétány",
+                "ro": "Promenada Dr. Ivša Lebović",
+                "en": "Promenade of Dr. Ivša Lebović"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die romantische Winterstimmung unter der Abendbeleuchtung; eine heiße Thermoskanne mit Tee macht den Abschluss des Tages perfekt.",
+                "hu": "Élje át a romantikus téli hangulatot az esti kivilágításban; egy forró teával teli termosz teszi tökéletessé a nap lezárását a sétányon.",
+                "ro": "Experimentați atmosfera romantică de iarnă sub iluminatul de seară; un termos cu ceai fierbinte face încheierea zilei perfectă pe promenadă.",
+                "en": "Experience the romantic winter atmosphere under the evening lights; a thermos filled with hot tea makes the perfect end to your day on the promenade."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Indítsa kerékpáros utazását a város buja központi terén, magába szívva a friss reggeli levegőt. Dél körül tekerjen át Bjelovar szívén, hogy megtekintse a múzeumokat és az építészeti gyöngyszemeket. Délután tegye próbára magát egy hosszabb úttal az Utvrda Ilinac lenyűgöző romjaihoz. Zárja a napot az ókori római maradványok között, ahogy a nap kecsesen lenyugszik.",
         "ro": "Începeți-vă călătoria cu bicicleta în piața centrală luxuriantă a orașului, bucurându-vă de aerul proaspăt. În jurul prânzului, pedalați prin inima orașului Bjelovar pentru a experimenta muzee și bijuterii arhitecturale. Pe măsură ce se lasă după-amiaza, provocați-vă cu o plimbare mai lungă până la ruinele de la Utvrda Ilinac. Încheiați ziua printre rămășițele romane antice.",
         "en": "Kick off your cycling journey in the town's lush central square, fueling up with the fresh morning air. Around noon, pedal through the heart of Bjelovar to experience key museums and civic architectural gems. As the afternoon unfolds, challenge yourself with a slightly longer ride to the fascinating ruins of Utvrda Ilinac. End the day among ancient Roman remnants as the sun gracefully sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Bjelovar spannende Radwege. Starten Sie vorsichtig am Eugen-Kvaternik-Platz und suchen Sie Schutz im Museum des Heimatkrieges. Mittags radeln Sie zum Haus der Kultur für eine trockene Pause. Der Nachmittag führt Sie trotz Pfützen zur Promenade, bevor Sie den Tag mit einer vorsichtigen Fahrt zu den historischen Stätten außerhalb beenden.",
+            "hu": "Az eső ellenére Bjelovar izgalmas kerékpárutakat kínál. Induljon óvatosan az Eugen Kvaternik térről, és keressen menedéket a Honvédő Háború Múzeumában. Délben tekerjen a Kultúra Házához egy száraz pihenőre. A délután a tócsák ellenére a sétányhoz vezet, mielőtt egy óvatos menettel zárná a napot a városon kívüli történelmi helyszíneknél.",
+            "ro": "În ciuda ploii, Bjelovar oferă trasee de bicicletă captivante. Începeți cu prudență în Piața Eugen Kvaternik și căutați adăpost la Muzeul Războiului. La prânz pedalați spre Casa Culturii pentru o pauză uscată. După-amiaza vă poartă spre promenadă în ciuda bălților, înainte de a încheia ziua cu o cursă atentă spre siturile istorice exterioare.",
+            "en": "Despite the rain, Bjelovar offers exciting cycling routes. Start cautiously at Eugen Kvaternik Square and seek shelter at the Museum of the Homeland War. At midday, cycle to the House of Culture for a dry break. The afternoon takes you to the promenade despite the puddles, before ending the day with a careful ride to the historical sites outside the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eugen-Kvaternik-Platz",
+                "hu": "Eugen Kvaternik tér",
+                "ro": "Piața Eugen Kvaternik",
+                "en": "Eugen Kvaternik Square"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Anfahren die weißen Fahrbahnmarkierungen, da diese bei Nässe extrem rutschig sind; gute Bremsen sind heute lebenswichtig.",
+                "hu": "Induláskor kerülje a fehér felfestéseket, mert nedvesen rendkívül csúszósak; az ellenőrzött, jó fékek ma elengedhetetlenek a biztonságos közlekedéshez.",
+                "ro": "Evitați marcajele rutiere albe la plecare, deoarece sunt extrem de alunecoase când sunt ude; frânele bune sunt vitale astăzi pentru siguranță.",
+                "en": "Avoid white road markings when starting off, as they are extremely slippery when wet; good, checked brakes are vital for safety today."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Heimatkrieges",
+                "hu": "Honvédő Háború Múzeuma",
+                "ro": "Muzeul Războiului pentru Apărarea Patriei",
+                "en": "Stalni muzejski postav Domovinskog rata"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Platz; nutzen Sie die Besuchszeit, um Ihre Regenbekleidung etwas abtropfen zu lassen.",
+                "hu": "Parkolja le kerékpárját egy fedett helyen; használja ki a látogatási időt arra, hogy az esőruházata egy kicsit megszáradjon a múzeum előterében.",
+                "ro": "Parcați bicicleta într-un loc acoperit; folosiți timpul de vizită pentru a lăsa echipamentul de ploaie să se scurgă puțin în zona de intrare.",
+                "en": "Park your bike in a sheltered spot; use the visit time to let your rain gear dry off a bit in the entrance area before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Kultur",
+                "hu": "Kultúra Háza",
+                "ro": "Casa Culturii",
+                "en": "House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Stopp, um die Route auf dem Smartphone im Trockenen zu prüfen; achten Sie auf spritzendes Wasser von vorbeifahrenden Autos in der Nähe.",
+                "hu": "Kiváló megálló az útvonal szárazon történő ellenőrzéséhez a telefonon; ügyeljen a közeli autók által felcsapott vízre az épület megközelítésekor.",
+                "ro": "O oprire bună pentru a verifica traseul pe smartphone la adăpost; atenție la apa împroșcată de mașinile care trec prin apropierea clădirii.",
+                "en": "A good stop to check your route on your smartphone while staying dry; watch out for spray from passing cars as you approach the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade von Dr. Ivša Lebović",
+                "hu": "Dr. Ivša Lebović sétány",
+                "ro": "Promenada Dr. Ivša Lebović",
+                "en": "Promenade of Dr. Ivša Lebović"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume fangen viel Regen ab, aber herabfallendes Laub kann die Wege rutschig machen; passen Sie Ihre Geschwindigkeit den Kurven an.",
+                "hu": "A fák sok esőt felfognak, de a lehullott levelek csúszóssá tehetik az utat; mérsékelje sebességét a kanyarokban az esés elkerülése érdekében.",
+                "ro": "Copacii opresc multă ploaie, dar frunzele căzute pot face potecile alunecoase; adaptați viteza în curbe pentru a evita accidentele.",
+                "en": "The trees catch a lot of rain, but fallen leaves can make the paths slippery; adjust your speed in the turns to avoid any accidents."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Ilinac",
+                "hu": "Utvrda Ilinac",
+                "ro": "Cetatea Ilinac",
+                "en": "Utvrda Ilinac"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege zur Festung können schlammig sein; Mountainbike-Reifen mit grobem Profil sind hier bei Regen ein großer Vorteil.",
+                "hu": "A várhoz vezető burkolatlan utak sárosak lehetnek; a durva profilú mountainbike gumiabroncsok nagy előnyt jelentenek itt esőben.",
+                "ro": "Drumurile neasfaltate spre cetate pot fi noroioase; anvelopele de mountain bike cu profil pronunțat sunt un mare avantaj aici pe ploaie.",
+                "en": "The unpaved paths to the fortress can be muddy; mountain bike tires with deep tread are a great advantage here in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische ländliche Siedlung Lug",
+                "hu": "Római vidéki település Lug",
+                "ro": "Așezare rurală romană Lug",
+                "en": "Rimsko ruralno naselje Lug"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Regen Schutz unter Bäumen; eine wasserdichte Handyhülle ist für die Navigation im Gelände heute unverzichtbar.",
+                "hu": "Heves esőben keressen menedéket a fák alatt; egy vízálló telefontok ma elengedhetetlen a terepen való tájékozódáshoz.",
+                "ro": "Căutați adăpost sub copaci în caz de ploaie torențială; o husă de telefon impermeabilă este indispensabilă astăzi pentru navigația pe teren.",
+                "en": "Seek shelter under trees during heavy rain; a waterproof phone case is essential for off-road navigation in these conditions today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour erfordert gute Vorbereitung. Starten Sie am Eugen-Kvaternik-Platz mit dicken Handschuhen. Der Vormittag führt Sie ins Museum, um sich aufzuwärmen. Mittags radeln Sie durch die klare Luft zum Haus der Kultur. Beenden Sie die Tour früh bei den archäologischen Stätten, da die Dämmerung gegen 17:00 Uhr einsetzt und es schnell kälter wird.",
+            "hu": "A téli túra alapos felkészülést igényel. Induljon az Eugen Kvaternik térről vastag kesztyűben. A délelőtt a múzeumba vezet, hogy felmelegedjen. Délben tekerjen a friss levegőn a Kultúra Házához. Fejezze be a túrát korán a régészeti helyszíneknél, mivel a szürkület 17:00 körül beáll, és a hőmérséklet gyorsan csökken.",
+            "ro": "Un tur de iarnă necesită o pregătire bună. Începeți în Piața Eugen Kvaternik cu mănuși groase. Dimineața vă duce la muzeu pentru a vă încălzi. La prânz pedalați prin aerul curat spre Casa Culturii. Încheiați turul devreme la siturile arheologice, deoarece amurgul se instalează în jurul orei 17:00.",
+            "en": "A winter tour requires good preparation. Start at Eugen Kvaternik Square with thick gloves. The morning takes you to the museum to warm up. At midday, cycle through the crisp air to the House of Culture. Finish the tour early at the archaeological sites, as twilight sets in around 17:00 and it gets colder quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eugen-Kvaternik-Platz",
+                "hu": "Eugen Kvaternik tér",
+                "ro": "Piața Eugen Kvaternik",
+                "en": "Eugen Kvaternik Square"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte im Schatten der Gebäude; tragen Sie windfeste Kleidung, da der Fahrtwind die Kälte deutlich verstärkt.",
+                "hu": "Ügyeljen a dér okozta csúszósságra az épületek árnyékában; viseljen szélálló ruházatot, mert a menetszél jelentősen fokozza a hidegérzetet.",
+                "ro": "Atenție la poleiul din umbra clădirilor; purtați îmbrăcăminte rezistentă la vânt, deoarece curentul de aer amplifică semnificativ frigul.",
+                "en": "Watch out for frost in the shadows of buildings; wear windproof clothing, as the wind chill while riding significantly increases the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Heimatkrieges",
+                "hu": "Honvédő Háború Múzeuma",
+                "ro": "Muzeul Războiului pentru Apărarea Patriei",
+                "en": "Stalni muzejski postav Domovinskog rata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; prüfen Sie vor der Weiterfahrt den Luftdruck Ihrer Reifen, der bei Kälte sinken kann.",
+                "hu": "Használja ki a múzeumlátogatást melegedő pihenőként; továbbindulás előtt ellenőrizze a guminyomást, amely hidegben érezhetően csökkenhet.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; verificați presiunea anvelopelor înainte de a pleca, deoarece poate scădea la frig.",
+                "en": "Use the museum visit as a warm-up break; check your tire pressure before heading out again, as it can drop noticeably in cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Kultur",
+                "hu": "Kultúra Háza",
+                "ro": "Casa Culturii",
+                "en": "House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im beheizten Foyer hilft gegen taube Finger; halten Sie Ihre Trinkflasche nah am Körper, damit das Wasser nicht zu sehr auskühlt.",
+                "hu": "Egy rövid megálló a fűtött előtérben segít az elgémberedett ujjakon; tartsa kulacsát a testéhez közel, hogy a víz ne hűljön le túlságosan.",
+                "ro": "O scurtă oprire în foaierul încălzit ajută degetele amorțite; țineți bidonul cu apă aproape de corp pentru a preveni răcirea excesivă.",
+                "en": "A short stop in the heated foyer helps with numb fingers; keep your water bottle close to your body to prevent the water from getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade von Dr. Ivša Lebović",
+                "hu": "Dr. Ivša Lebović sétány",
+                "ro": "Promenada Dr. Ivša Lebović",
+                "en": "Promenade of Dr. Ivša Lebović"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten wenig Windschutz; fahren Sie vorsichtig über eventuell gefrorenes Laub, das auf dem Asphalt liegen geblieben ist.",
+                "hu": "A kopasz fák kevés szélvédelmet nyújtanak; közlekedjen óvatosan az aszfalton maradt, esetlegesen lefagyott leveleken a kicsúszás elkerüléséért.",
+                "ro": "Copacii golași oferă puțină protecție împotriva vântului; pedalați cu atenție peste frunzele înghețate rămase pe asfalt.",
+                "en": "The bare trees offer little wind protection; ride carefully over any frozen leaves left on the asphalt to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Ilinac",
+                "hu": "Utvrda Ilinac",
+                "ro": "Cetatea Ilinac",
+                "en": "Utvrda Ilinac"
+              },
+              "tip_5lang": {
+                "de": "Der Weg kann gefroren und hart sein; gute Beleuchtung ist wichtig, falls Sie länger bleiben und die Dämmerung Sie auf dem Rückweg überrascht.",
+                "hu": "Az út fagyott és kemény lehet; a jó világítás elengedhetetlen, ha tovább maradna és a szürkület a visszaúton érné utol a terepen.",
+                "ro": "Drumul poate fi înghețat și dur; iluminarea bună este esențială dacă stați mai mult și amurgul vă surprinde pe drumul de întoarcere.",
+                "en": "The path can be frozen and hard; good lighting is essential if you stay longer and twilight catches you on the ride back."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische ländliche Siedlung Lug",
+                "hu": "Római vidéki település Lug",
+                "ro": "Așezare rurală romană Lug",
+                "en": "Rimsko ruralno naselje Lug"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 16:30 Uhr, um im Resthighlight sicher zurückzukehren; Funktionsunterwäsche hilft, den Körper bei der kühlen Abfahrt warmzuhalten.",
+                "hu": "Fejezze be a túrát 16:30 előtt, hogy még világosban visszaérjen; a technikai aláöltözet segít melegen tartani testét a hűvös lejtőkön.",
+                "ro": "Încheiați turul înainte de 16:30 pentru a vă întoarce în siguranță pe lumină; lenjeria funcțională ajută la menținerea căldurii corpului.",
+                "en": "Finish the tour before 16:30 to return safely in the remaining light; thermal base layers help keep your body warm during the cool descent."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Autós utazása egy elmélyült reggellel kezdődik a Védők terén, mielőtt felfedezné a háborús múzeumot. A dél a vidékre vezet, ahol olyan történelmi helyeket kereshet fel, mint Brezovch és Plauna. A délutáni vezetés egy ősi nekropoliszhoz viszi, amely feltárja a régió ókorának egy mélyebb rétegét. Az autózást a helyi történelmi faluban tett utolsó megálló zárja tökéletesen.",
         "ro": "Călătoria dumneavoastră începe cu o dimineață reflectivă în Piața Apărătorilor înainte de a explora muzeul de istorie al războiului. Amiaza face tranziția către mediul rural, conducând către marcaje istorice precum Brezovch și Plauna. Conducerea de după-amiază vă duce la o veche necropolă, dezvăluind o secțiune profundă a antichității. O oprire finală într-un sat istoric închide perfect traseul.",
         "en": "Your road trip begins with a reflective morning at the modern Defenders Square before exploring Bjelovar's war history museum. Midday transitions to the countryside, driving to historical markers like Brezovch and Plauna where past eras echo. Afternoon driving leads you to an ancient necropolis, revealing a deeper layer of the region's antiquity. A final stop at a local historic village perfectly closes the drive."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Bjelovar auch bei Regen bequem. Starten Sie am Platz der kroatischen Verteidiger und nutzen Sie die kurzen Wege zum Museum. Mittags führen Sie Fahrten zu den historischen Orten Brezovch und Plauna, während Sie im trockenen Wagen sitzen. Der Nachmittag endet entspannt bei den archäologischen Stätten, wobei Sie den Regen aus dem Auto beobachten können.",
+            "hu": "Autóval esőben is kényelmesen felfedezheti Bjelovart. Kezdjen a Horvát Védők Terén, és használja ki a múzeumhoz vezető rövid utat. Délben a száraz autóban ülve látogathat el Brezovch és Plauna történelmi helyszíneire. A délután nyugodtan zárul a régészeti lelőhelyeknél, ahol az autóból is szemlélheti a tájat az esőben.",
+            "ro": "Cu mașina puteți explora Bjelovar confortabil chiar și pe ploaie. Începeți în Piața Apărătorilor Croați și profitați de drumurile scurte spre muzeu. La prânz, vizitați locurile istorice Brezovch și Plauna stând în mașina uscată. După-amiaza se încheie relaxat la siturile arheologice, admirând ploaia din interiorul vehiculului.",
+            "en": "By car, you can comfortably explore Bjelovar even in the rain. Start at the Square of Croatian Defenders and take advantage of the short drive to the museum. At midday, visit the historical sites of Brezovch and Plauna while staying dry in your vehicle. The afternoon ends peacefully at the archaeological sites, where you can watch the rain from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platz der kroatischen Verteidiger",
+                "hu": "Horvát Védők Tere",
+                "ro": "Piața Apărătorilor Croați",
+                "en": "Square of Croatian defenders"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Denkmal, um den Weg im Regen kurz zu halten; schalten Sie die Klimaanlage ein, damit die Scheiben nicht beschlagen.",
+                "hu": "Parkoljon a lehető legközelebb az emlékműhöz, hogy lerövidítse az esőben megtett utat; kapcsolja be a klímát a szélvédők párátlanításához.",
+                "ro": "Parcați cât mai aproape de monument pentru a scurta drumul prin ploaie; porniți aerul condiționat pentru a dezaburi geamurile eficient.",
+                "en": "Park as close to the monument as possible to keep the walk in the rain short; turn on the air conditioning to defog the windows effectively."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Heimatkrieges",
+                "hu": "Honvédő Háború Múzeuma",
+                "ro": "Muzeul Războiului pentru Apărarea Patriei",
+                "en": "Stalni muzejski postav Domovinskog rata"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet einen idealen Rückzugsort; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand, die sich bei starkem Regen bilden können.",
+                "hu": "A múzeum ideális menedékhely; kiszálláskor ügyeljen az út szélén kialakuló mély tócsákra, amelyek heves esőzéskor gyorsan összegyűlnek.",
+                "ro": "Muzeul oferă un refugiu ideal; la coborâre, atenție la bălțile adânci de la marginea drumului care se pot forma în timpul ploilor torențiale.",
+                "en": "The museum offers an ideal retreat; watch out for deep puddles at the roadside when getting out of the car during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Brezovch",
+                "hu": "Brezovch",
+                "ro": "Brezovch",
+                "en": "Brezovch"
+              },
+              "tip_5lang": {
+                "de": "Die ländlichen Straßen können durch Schlamm rutschig sein; fahren Sie mit angemessener Geschwindigkeit und halten Sie den Scheibenwischer bereit.",
+                "hu": "A vidéki utak a sár miatt csúszósak lehetnek; közlekedjen mérsékelt sebességgel, és tartsa készenlétben az ablaktörlőket a jó kilátásért.",
+                "ro": "Drumurile rurale pot fi alunecoase din cauza noroiului; conduceți cu viteză adecvată și păstrați ștergătoarele în funcțiune pentru vizibilitate.",
+                "en": "The rural roads can be slippery due to mud; drive at an appropriate speed and keep your windshield wipers ready for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Plauna",
+                "hu": "Plauna",
+                "ro": "Plauna",
+                "en": "Plauna"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die historische Stätte direkt aus dem Auto, falls der Regen zu stark für eine ausführliche Besichtigung im Freien ist.",
+                "hu": "Élvezze a történelmi helyszín látványát közvetlenül az autóból, ha az eső túl intenzív lenne egy részletesebb szabadtéri megtekintéshez.",
+                "ro": "Bucurați-vă de vederea sitului istoric direct din mașină dacă ploaia este prea intensă pentru o vizită detaliată în aer liber.",
+                "en": "Enjoy the view of the historical site directly from the car if the rain is too heavy for a detailed outdoor exploration today."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Nekropole Crkveno Polje",
+                "hu": "Crkveno Polje ősi nekropolisza",
+                "ro": "Necropola antică Crkveno Polje",
+                "en": "Novoseljani - antička nekropola Crkveno Polje"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf weichen Boden beim Parken am Feldrand; festes Schuhwerk ist nötig, wenn Sie die Ausgrabungen trotz Regen aus der Nähe sehen wollen.",
+                "hu": "Ügyeljen a felázott talajra, ha a mező szélén parkol; vízálló cipő szükséges, ha az eső ellenére közelről is megnézné az ásatásokat.",
+                "ro": "Atenție la solul moale când parcați la marginea câmpului; încălțămintea impermeabilă este necesară pentru a vedea excavările de aproape.",
+                "en": "Watch out for soft ground when parking at the field's edge; waterproof shoes are necessary if you want to see the excavations up close."
+              }
+            },
+            {
+              "name": {
+                "de": "Raspelo",
+                "hu": "Raspelo",
+                "ro": "Raspelo",
+                "en": "Raspelo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp mit Warnblinkanlage ist möglich; halten Sie den Regenschirm bereit, da der Wind hier auf freiem Feld oft stärker weht.",
+                "hu": "Egy rövid fotómegálló vészvillogóval megoldható; tartsa készenlétben az esernyőt, mert a szél itt a nyílt terepen gyakran erősebben fúj.",
+                "ro": "O scurtă oprire pentru fotografii este posibilă; țineți umbrela pregătită, deoarece vântul suflă adesea mai tare aici în câmp deschis.",
+                "en": "A brief photo stop with hazard lights is possible; have your umbrella ready, as the wind often blows harder here in the open fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Donja Česmica",
+                "hu": "Donja Česmica",
+                "ro": "Donja Česmica",
+                "en": "Donja Česmica"
+              },
+              "tip_5lang": {
+                "de": "Der Abschluss des Tages im Auto schützt vor der Abendkühle; nutzen Sie das Fernlicht auf den dunklen, regnerischen Landwegen für bessere Sicht.",
+                "hu": "A nap lezárása az autóban megvéd az esti hűvöstől; használja a távolsági fényszórót a sötét, esős vidéki utakon a jobb láthatóságért.",
+                "ro": "Încheierea zilei în mașină vă protejează de răcoarea serii; folosiți faza lungă pe drumurile rurale întunecate și ploioase pentru vizibilitate.",
+                "en": "Ending the day in the car protects you from the evening chill; use your high beams on dark, rainy rural roads for better visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Bjelovars Umland im Winter bequem per PKW. Der Morgen beginnt frostig am Platz der kroatischen Verteidiger. Zum Aufwärmen geht es mittags ins Museum und danach zu den geschichtsträchtigen Orten Brezovch und Plauna. Da es gegen 17:00 Uhr dunkel wird, bieten die beleuchteten archäologischen Stätten in der Dämmerung eine ganz besondere, mystische Atmosphäre.",
+            "hu": "Fedezze fel Bjelovar környékét télen kényelmesen, autóval. A reggel fagyosan indul a Horvát Védők Terén. Felmelegedésképp délben a múzeum, majd Brezovch és Plauna történelmi helyszínei következnek. Mivel 17:00 körül sötétedik, a kivilágított régészeti lelőhelyek a szürkületben különleges, misztikus hangulatot árasztanak.",
+            "ro": "Experimentați împrejurimile Bjelovarului iarna confortabil cu mașina. Dimineața începe geros în Piața Apărătorilor Croați. Pentru încălzire, mergeți la muzeu la prânz, apoi la Brezovch și Plauna. Deoarece se întunecă în jurul orei 17:00, siturile arheologice iluminate oferă o atmosferă mistică.",
+            "en": "Experience Bjelovar's surroundings in winter comfortably by car. The morning begins frostily at the Square of Croatian Defenders. For warmth, visit the museum at midday, followed by the historical sites of Brezovch and Plauna. Since it gets dark around 17:00, the illuminated archaeological sites offer a special, mystical atmosphere in the twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platz der kroatischen Verteidiger",
+                "hu": "Horvát Védők Tere",
+                "ro": "Piața Apărătorilor Croați",
+                "en": "Square of Croatian defenders"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Wischwasser Frostschutz enthält; der Platz ist morgens oft neblig, was für eine stimmungsvolle Winterkulisse sorgt.",
+                "hu": "Győződjön meg róla, hogy a szélvédőmosó fagyálló; a tér reggelente gyakran ködös, ami különleges, hangulatos téli látványt nyújt.",
+                "ro": "Asigurați-vă că lichidul de parbriz conține antigel; piața este adesea cețoasă dimineața, creând un cadru de iarnă atmosferic.",
+                "en": "Ensure your windshield washer fluid contains antifreeze; the square is often foggy in the morning, creating an atmospheric winter scene."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Heimatkrieges",
+                "hu": "Honvédő Háború Múzeuma",
+                "ro": "Muzeul Războiului pentru Apărarea Patriei",
+                "en": "Stalni muzejski postav Domovinskog rata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze direkt am Gebäude, um die Zeit in der Kälte zu minimieren; die Heizung des Museums ist ein willkommener Kontrast.",
+                "hu": "Használja közvetlenül az épület melletti parkolókat, hogy minimálisra csökkentse a hidegben töltött időt; a múzeum fűtése kellemes kontraszt lesz.",
+                "ro": "Folosiți locurile de parcare de lângă clădire pentru a minimiza timpul petrecut în frig; încălzirea muzeului este un contrast binevenit.",
+                "en": "Use the parking spaces directly next to the building to minimize time spent in the cold; the museum's heating is a welcome contrast."
+              }
+            },
+            {
+              "name": {
+                "de": "Brezovch",
+                "hu": "Brezovch",
+                "ro": "Brezovch",
+                "en": "Brezovch"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schattige Waldpassagen, wo Glatteis länger bestehen bleiben kann; Winterreifen sind für diese ländliche Strecke absolute Pflicht.",
+                "hu": "Ügyeljen az árnyékos erdei szakaszokra, ahol a jegesedés tovább megmaradhat; a téli gumi ezen a vidéki útvonalon abszolút kötelező.",
+                "ro": "Atenție la secțiunile de pădure umbrite, unde poleiul poate persista; anvelopele de iarnă sunt obligatorii pentru acest traseu rural.",
+                "en": "Watch out for shaded forest sections where black ice can persist longer; winter tires are absolutely mandatory for this rural route."
+              }
+            },
+            {
+              "name": {
+                "de": "Plauna",
+                "hu": "Plauna",
+                "ro": "Plauna",
+                "en": "Plauna"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren stark blenden; halten Sie eine Sonnenbrille bereit, um die verschneite Landschaft sicher zu genießen.",
+                "hu": "Az alacsonyan járó téli nap vezetés közben erősen vakíthat; tartson készenlétben napszemüveget, hogy biztonságban élvezhesse a tájat.",
+                "ro": "Soarele de iarnă poate fi orbitor în timp ce conduceți; păstrați ochelarii de soare la îndemână pentru a vă bucura de peisaj în siguranță.",
+                "en": "The low winter sun can be very blinding while driving; keep sunglasses ready to safely enjoy the snowy landscape along the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Nekropole Crkveno Polje",
+                "hu": "Crkveno Polje ősi nekropolisza",
+                "ro": "Necropola antică Crkveno Polje",
+                "en": "Novoseljani - antička nekropola Crkveno Polje"
+              },
+              "tip_5lang": {
+                "de": "Die Nekropole wirkt unter einer Schneedecke besonders friedvoll; bleiben Sie auf den befestigten Wegen, da gefrorener Boden tückisch sein kann.",
+                "hu": "A nekropolisz hólepel alatt különösen békés látványt nyújt; maradjon a kijelölt utakon, mert a fagyott talaj alatt üregek bújhatnak meg.",
+                "ro": "Necropola pare deosebit de liniștită sub un strat de zăpadă; rămâneți pe potecile marcate, deoarece solul înghețat poate fi înșelător.",
+                "en": "The necropolis looks especially peaceful under a blanket of snow; stay on the marked paths as the frozen ground can be treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Raspelo",
+                "hu": "Raspelo",
+                "ro": "Raspelo",
+                "en": "Raspelo"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung setzt hier auf freiem Feld früh ein; prüfen Sie Ihre Fahrzeugbeleuchtung, damit Sie für andere Verkehrsteilnehmer gut sichtbar sind.",
+                "hu": "A szürkület itt a nyílt terepen korán beáll; ellenőrizze autója világítását, hogy a többi közlekedő számára is jól látható maradjon.",
+                "ro": "Amurgul se instalează devreme aici în câmp deschis; verificați luminile vehiculului pentru a fi vizibil pentru ceilalți participanți la trafic.",
+                "en": "Twilight sets in early here in the open fields; check your vehicle's lights to ensure you remain clearly visible to other road users."
+              }
+            },
+            {
+              "name": {
+                "de": "Donja Česmica",
+                "hu": "Donja Česmica",
+                "ro": "Donja Česmica",
+                "en": "Donja Česmica"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag rechtzeitig, bevor die Temperaturen nach Sonnenuntergang stark fallen; die Sitzheizung macht die Rückfahrt besonders angenehm.",
+                "hu": "Fejezze be a napot időben, mielőtt a hőmérséklet naplemente után hirtelen leesne; az ülésfűtés különösen kényelmessé teszi a hazautat.",
+                "ro": "Încheiați ziua la timp, înainte ca temperaturile să scadă brusc după apus; încălzirea în scaune face drumul de întoarcere foarte plăcut.",
+                "en": "Finish the day in good time before temperatures drop sharply after sunset; seat heating will make the drive back especially comfortable."
+              }
+            }
+          ]
+        }
       }
     }
   }

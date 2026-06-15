@@ -137,6 +137,168 @@
         "hu": "Reggelét Plouhinec szívében kezdi, megcsodálva a helyi templomot.\n\nEzután felfedezi az ősi Menhir dit du Bourg-t, amely csak egy rövid sétára található.\n\nA délután a rejtélyes Gueldro-sorokhoz vezet, melyek kelta legendákban gazdagok.\n\nVégül eléri a lenyűgöző dolment és a Pen er Pont követ, befejezve a történelmi túrát.",
         "ro": "Dimineața începe în inima orașului Plouhinec, admirând biserica locală.\n\nApoi, veți descoperi vechiul Menhir dit du Bourg la o scurtă plimbare.\n\nDupă-amiaza se mută la aliniamentele misterioase Gueldro, bogate în legende celtice.\n\nÎn cele din urmă, veți ajunge la impresionantul Dolmen și la piatra Pen er Pont, încheind drumeția istorică.",
         "en": "Your morning starts in the heart of Plouhinec, admiring the local church.\n\nNext, you will uncover the ancient Menhir dit du Bourg just a short stroll away.\n\nThe afternoon shifts to the mysterious Gueldro Alignments, rich with Celtic legends.\n\nFinally, you'll reach the impressive Dolmen and Pen er Pont stone, finishing a historic trek."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang in der schützenden Église Notre-Dame. Mittags navigieren Sie auf nassen Pfaden zum Menhir dit du Bourg und den Gueldro-Reihen. Nachmittags bietet der Dolmen eine stimmungsvolle, feuchte Kulisse. Beenden Sie die nasse Wanderung am Pen er Pont und wärmen Sie sich drinnen bei einem heißen Getränk auf.",
+            "hu": "Esős sétáját a védelmet nyújtó Église Notre-Dame templomban kezdje, mielőtt dacolna az időjárással. Délben óvatosan lépkedjen a sárban a Menhir dit du Bourg és a Gueldro kősorok felé. Délután a menedéket is kínáló Dolmen ad borongós hátteret. A vizes túrát a Pen er Pont menhirnél zárja, majd keressen egy száraz helyet.",
+            "ro": "Începeți plimbarea ploioasă la Église Notre-Dame, un sanctuar uscat. La prânz, navigați pe potecile umede spre Menhir dit du Bourg și aliniamentele Gueldro, pășind cu grijă pe noroi. După-amiaza, Dolmenul oferă un fundal melancolic. Încheiați drumeția udă la Pen er Pont și căutați adăpost pentru o băutură caldă.",
+            "en": "Start your rainy walk at the sheltering Église Notre-Dame, offering a dry sanctuary. Midday, navigate the wet paths to the Menhir dit du Bourg and Gueldro Alignments, stepping carefully on muddy ground. The Dolmen provides a moody, damp backdrop in the afternoon. Finish your wet hike at Pen er Pont and head indoors to warm up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame de Grâce",
+                "hu": "Église Notre-Dame de Grâce",
+                "ro": "Église Notre-Dame de Grâce",
+                "en": "Église Notre-Dame de Grâce"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im Trockenen; lassen Sie nasse Schirme im Vorraum, um den Boden des historischen, ruhigen Raums zu schonen.",
+                "hu": "Csodálja meg az ólomüveg ablakokat szárazon maradva; a vizes esernyőket hagyja a bejáratnál, hogy megóvja a történelmi szentély padlóját a sártól.",
+                "ro": "Admirați vitraliile frumoase rămânând perfect uscat înăuntru; lăsați umbrelele ude la intrare pentru a respecta și proteja acest spațiu istoric.",
+                "en": "Admire the beautiful stained glass while staying perfectly dry inside; leave wet umbrellas in the porch area to protect the historic sanctuary floor."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit du Bourg",
+                "hu": "Menhir dit du Bourg",
+                "ro": "Menhir dit du Bourg",
+                "en": "Menhir dit du Bourg"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Stein wirkt im Regen dramatisch; tragen Sie robuste, wasserdichte Wanderschuhe, da das umliegende Gras schnell sehr schlammig wird.",
+                "hu": "A magányos kő drámai látványt nyújt az esőben; viseljen vízálló túrabakancsot, mivel a környező füves terület nagyon gyorsan sárossá válik.",
+                "ro": "Piatra solitară arată dramatic în ploaie; purtați bocanci de drumeție impermeabili, deoarece iarba din jur devine foarte noroioasă și alunecoasă.",
+                "en": "The solitary stone looks highly dramatic in the rain; wear sturdy, waterproof hiking boots as the surrounding grass quickly turns into thick mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Gueldro-Steinreihen",
+                "hu": "Gueldro kősorok",
+                "ro": "Aliniamentele Gueldro",
+                "en": "Gueldro Alignments"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die uralten Reihen im Regen; seien Sie auf den nassen Steinen extrem vorsichtig und nutzen Sie einen guten Regenmantel statt Schirm.",
+                "hu": "Fedezze fel az ősi sorokat a zuhogó esőben; legyen nagyon óvatos a csúszós, nedves köveken, és esernyő helyett inkább egy jó esőkabátot viseljen.",
+                "ro": "Explorați vechile aliniamente sub ploaie; fiți extrem de atenți pe pietrele umede și alunecoase, preferând o pelerină de ploaie în locul umbrelei.",
+                "en": "Explore the ancient alignments under the rain; be extremely careful on the slippery, wet stones and use a high-quality raincoat instead of an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Roc'h Kerouaren",
+                "hu": "Dolmen de Roc'h Kerouaren",
+                "ro": "Dolmen de Roc'h Kerouaren",
+                "en": "Dolmen de Roc'h Kerouaren"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Decksteine bieten einen winzigen Schutzmoment vor dem Platzregen; achten Sie auf glatte Wurzeln und Felsen rund um das Monument.",
+                "hu": "A hatalmas fedőkövek egy kis menedéket nyújtanak a zápor elől; nagyon figyeljen a lába elé az emlékmű körüli csúszós gyökereken és sziklákon.",
+                "ro": "Pietrele masive oferă un mic moment de adăpost împotriva ploii torențiale; aveți grijă la rădăcinile și rocile alunecoase din jurul monumentului.",
+                "en": "The massive capstones offer a tiny moment of shelter from the heavy downpour; watch your step closely on the slick roots and rocks around the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Pen er Pont",
+                "hu": "Menhir de Pen er Pont",
+                "ro": "Menhir de Pen er Pont",
+                "en": "Menhir de Pen er Pont"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diesen hochragenden Megalithen im Küstennieselregen; bewahren Sie Ihre Kamera bis zum letzten Moment in einer wasserdichten Tasche auf.",
+                "hu": "Csodálja meg ezt a tengerparti szitálásba burkolózó magasodó megalitot; tartsa a fényképezőgépét vízálló táskában egészen az utolsó pillanatig.",
+                "ro": "Apreciați acest megalit impunător învăluit în burnița de coastă; păstrați aparatul foto într-o geantă impermeabilă până în ultimul moment.",
+                "en": "Appreciate this towering megalith wrapped in the coastal drizzle; keep your camera securely in a waterproof bag until the very last moment to shoot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie an einem klaren Wintermorgen in der Église Notre-Dame. Mittags spazieren Sie zügig zum frostigen Menhir dit du Bourg und den Gueldro-Reihen, um warm zu bleiben. Nachmittags wirft die tiefstehende Sonne Schatten auf den Dolmen. Beenden Sie die Tour vor 17 Uhr am Pen er Pont, bevor die frühe Dämmerung hereinbricht.",
+            "hu": "Kezdje a fagyos téli reggelt az Église Notre-Dame templomnál. Délben tegyen tempós sétát a dérlepte Menhir dit du Bourg és a Gueldro kősorok felé a kimelegedéshez. Kora délután a lemenő nap hosszú árnyékokat vet a Dolmenre. Zárja túráját a Pen er Pont-nál még a 17 órás sötétedés előtt.",
+            "ro": "Începeți dimineața geroasă la Église Notre-Dame. La prânz, mergeți alert spre Menhir dit du Bourg și aliniamentele Gueldro pentru a vă încălzi. După-amiaza, soarele palid de iarnă aruncă umbre lungi peste Dolmen. Încheiați la Pen er Pont înainte de ora 17:00, când amurgul aduce întunericul.",
+            "en": "Kick off a crisp winter morning at the Église Notre-Dame. Midday, briskly walk to the frosted Menhir dit du Bourg and Gueldro Alignments to keep warm. By mid-afternoon, the low winter sun casts long shadows over the Dolmen. Conclude at Pen er Pont before 5 PM as early dusk settles, bringing an end to your hike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame de Grâce",
+                "hu": "Église Notre-Dame de Grâce",
+                "ro": "Église Notre-Dame de Grâce",
+                "en": "Église Notre-Dame de Grâce"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere ist wunderschön, aber im Winter bitterkalt; ziehen Sie dicke Schichten an, auch wenn Sie die ruhigen Innenkapellen erkunden.",
+                "hu": "A kőbelső gyönyörű, de télen borzasztóan hideg; öltözzön vastag rétegekbe, még akkor is, ha csak a csendes beltéri kápolnákat fedezi fel.",
+                "ro": "Interiorul din piatră este superb, dar foarte rece iarna; îmbrăcați-vă în straturi groase chiar și atunci când explorați capelele interioare liniștite.",
+                "en": "The stone interior is beautiful but bitterly cold during winter; dress in thick, warm layers even when exploring the quiet indoor chapels."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit du Bourg",
+                "hu": "Menhir dit du Bourg",
+                "ro": "Menhir dit du Bourg",
+                "en": "Menhir dit du Bourg"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie den frostbedeckten Stein in der klaren Morgenluft; bleiben Sie zügig in Bewegung, um Ihre Körperwärme auf dem offenen Feld zu halten.",
+                "hu": "Fotózza le a fagyos követ a csípős reggeli levegőben; maradjon folyamatos, tempós mozgásban, hogy megőrizze testhőjét a nyitott mezőn.",
+                "ro": "Fotografiați piatra acoperită de chiciură în aerul proaspăt al dimineții; mișcați-vă alert pentru a vă menține căldura corporală pe câmpul deschis.",
+                "en": "Photograph the frost-covered stone in the crisp morning air; keep moving at a brisk pace to maintain your body heat out in the fully open field."
+              }
+            },
+            {
+              "name": {
+                "de": "Gueldro-Steinreihen",
+                "hu": "Gueldro kősorok",
+                "ro": "Aliniamentele Gueldro",
+                "en": "Gueldro Alignments"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie unter der tiefen Wintersonne wegen der markanten Schatten durch die Reihen; packen Sie sich dick ein, da das Gelände keinen Windschutz bietet.",
+                "hu": "Sétáljon a sorok közt az alacsony téli napfényben a drámai árnyékokért; bugyolálja be magát sállal, mert a nyitott terep semmi szélvédelmet nem ad.",
+                "ro": "Plimbați-vă printre aliniamente sub soarele de iarnă pentru umbre izbitoare; purtați un fular gros, deoarece terenul deschis nu oferă protecție la vânt.",
+                "en": "Walk the alignments under the low winter sun for striking shadows; wrap up with a thick scarf as the completely open terrain offers zero windbreak."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Roc'h Kerouaren",
+                "hu": "Dolmen de Roc'h Kerouaren",
+                "ro": "Dolmen de Roc'h Kerouaren",
+                "en": "Dolmen de Roc'h Kerouaren"
+              },
+              "tip_5lang": {
+                "de": "Die karge Winterlandschaft unterstreicht die raue Schönheit; besuchen Sie den Ort bei Tageslicht, da der Weg nach Einbruch der Dunkelheit tückisch wird.",
+                "hu": "A kopár téli táj kiemeli a dolmen zord szépségét; még nappali világosságban látogassa meg, mert a sötétedés után az ösvény nagyon veszélyes lesz.",
+                "ro": "Peisajul golaș de iarnă subliniază frumusețea aspră a dolmenului; vizitați cât e ziuă, deoarece poteca devine periculoasă după lăsarea întunericului.",
+                "en": "The stark winter landscape highlights the dolmen's rugged beauty; visit while the sun is still up, as the woodland path gets treacherous after dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de Pen er Pont",
+                "hu": "Menhir de Pen er Pont",
+                "ro": "Menhir de Pen er Pont",
+                "en": "Menhir de Pen er Pont"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das Monument im goldenen Winterlicht; kommen Sie weit vor 17:00 Uhr an, um nicht im Dunkeln auf unbeleuchteten Pfaden navigieren zu müssen.",
+                "hu": "Csodálja meg az emlékművet az aranyórában; érkezzen meg jóval 17:00 óra előtt, hogy elkerülje a kivilágítatlan, sötét ösvényeken való botorkálást.",
+                "ro": "Minunați-vă de monumentul scăldat în lumina aurie a iernii; ajungeți cu mult înainte de 17:00 pentru a evita navigarea pe poteci neiluminate pe întuneric.",
+                "en": "Marvel at the monument bathed in the low golden hour light; arrive well before 17:00 to completely avoid navigating the unlit, uneven paths in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpáros utazást a bájos központi templom meglátogatásával.\n\nTekerjen el az ősi Gueldro-sorokhoz, hogy tanúja legyen Bretagne múltjának.\n\nDélután élvezze a tengeri szellőt a hatalmas Grande plage de Gâvres strandon.\n\nFejezze be a napot a lenyűgöző római villával és a csendes Chapelle Saint-Fiacre-rel.",
         "ro": "Începeți călătoria cu bicicleta vizitând fermecătoarea biserică centrală.\n\nPedalați până la aliniamentele antice Gueldro pentru a vedea trecutul megalitic.\n\nDupă-amiaza, bucurați-vă de briza mării la întinsa Grande plage de Gâvres.\n\nÎncheiați cu remarcabila vilă romană și liniștita Chapelle Saint-Fiacre.",
         "en": "Kick off your cycling journey by visiting the charming central church.\n\nPedal out to the ancient Gueldro Alignments to witness Brittany's megalithic past.\n\nIn the afternoon, enjoy the sea breeze at the expansive Grande plage de Gâvres.\n\nConclude with the remarkable Roman Villa and the quiet Chapelle Saint-Fiacre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Radtour an der Église Notre-Dame. Am Vormittag radeln Sie vorsichtig über rutschige Straßen zu den Gueldro-Reihen. Mittags ist die Grande plage de Gâvres wild; suchen Sie bei Regen Schutz. Nachmittags besuchen Sie die nebligen Ruinen von Mané-Vechen. Beenden Sie die feuchte Fahrt an der Chapelle Saint-Fiacre, einem trockenen Zufluchtsort.",
+            "hu": "Vizes bringatúráját az Église Notre-Dame száraz menedékében kezdje. Délelőtt óvatosan tekerjen a csúszós utakon a Gueldro kősorokig. Délben a Gâvres nagy strandja vad arcát mutatja; keressen fedett helyet. Délután a ködbe burkolózó Mané-Vechen romjait fedezze fel. Zárja a nedves utat a Chapelle Saint-Fiacre hangulatos épületénél.",
+            "ro": "Începeți traseul de ciclism la Église Notre-Dame. Spre prânz, pedalați cu grijă pe drumurile alunecoase spre aliniamentele Gueldro. La amiază, plaja din Gâvres este sălbatică; căutați adăpost de ploaie. După-amiaza, vizitați ruinele în ceață de la Mané-Vechen. Încheiați cursa udă la Chapelle Saint-Fiacre, un refugiu uscat.",
+            "en": "Begin your wet cycling route at Église Notre-Dame, offering a dry start. Morning, pedal carefully over slick roads to the Gueldro Alignments. At noon, the Grande plage de Gâvres is wild; seek shelter if it pours. In the afternoon, visit the Mané-Vechen ruins wrapped in mist. Conclude at Chapelle Saint-Fiacre, a cozy historic refuge to end your damp ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame de Grâce",
+                "hu": "Église Notre-Dame de Grâce",
+                "ro": "Église Notre-Dame de Grâce",
+                "en": "Église Notre-Dame de Grâce"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in der Kirche Zuflucht vor dem morgendlichen Nieselregen; stellen Sie sicher, dass Ihre Fahrradbremsen trocken sind, bevor Sie weiterfahren.",
+                "hu": "Keressen menedéket a reggeli szitálás elől a templom belsejében; a továbbindulás előtt feltétlenül ellenőrizze és törölje szárazra a kerékpár fékjeit.",
+                "ro": "Refugiați-vă de burnița dimineții în această biserică liniștită; asigurați-vă că frânele bicicletei sunt șterse și uscate înainte de a continua călătoria.",
+                "en": "Take refuge from the morning drizzle inside this peaceful church; make sure your bike rim brakes are wiped dry before continuing the slippery journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Gueldro-Steinreihen",
+                "hu": "Gueldro kősorok",
+                "ro": "Aliniamentele Gueldro",
+                "en": "Gueldro Alignments"
+              },
+              "tip_5lang": {
+                "de": "Die Steine sind bei Nässe glatt; parken Sie Ihr Rad sicher am Kiesrand und vermeiden Sie es, mit Fahrradschuhen auf dem rutschigen Schlamm zu gehen.",
+                "hu": "A kövek nagyon csúszósak esőben; parkolja le biztonságosan a bringát a kavicsos szélen, és kerülje a sáros terepen való sétálást kerékpáros cipőben.",
+                "ro": "Pietrele sunt alunecoase pe vreme umedă; parcați bicicleta în siguranță pe pietriș și evitați să mergeți pe noroi cu încălțămintea specială de ciclism.",
+                "en": "The standing stones are slick in wet weather; park your bike safely on the gravel edge and strictly avoid walking on the thick mud in cycling cleats."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand von Gâvres",
+                "hu": "Gâvres nagy strandja",
+                "ro": "Plaja mare din Gâvres",
+                "en": "Grande plage de Gâvres"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen während eines Sturms; tragen Sie gut sichtbare Regenkleidung, da die Sicht an der Küste im Regen stark abnimmt.",
+                "hu": "Figyelje meg a drámai, lecsapó hullámokat vihar idején; viseljen jól látható vízálló ruházatot, mivel a parti látási viszonyok esőben drasztikusan romlanak.",
+                "ro": "Priviți valurile dramatice în timpul unei furtuni; purtați haine impermeabile de înaltă vizibilitate, deoarece vizibilitatea pe coastă scade brusc în ploaie.",
+                "en": "Witness the dramatic, crashing waves during a storm; wear full high-visibility waterproofs as coastal visibility drops sharply for cyclists in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Mané-Vechen",
+                "hu": "Mané-Vechen gallo-római villa",
+                "ro": "Vila galo-romană Mané-Vechen",
+                "en": "Mané-Vechen Gallo-Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Die römische Anlage ist faszinierend, aber völlig ungeschützt; suchen Sie bei einem plötzlichen, heftigen Schauer schnell Schutz unter nahegelegenen Bäumen.",
+                "hu": "Az ókori római alaprajz lenyűgöző, de teljesen nyitott; keressen gyorsan menedéket a közeli fák alatt, ha egy hirtelen, heves zápor vonul át a területen.",
+                "ro": "Așezarea romană este fascinantă, dar complet expusă; căutați rapid adăpost sub copacii din apropiere dacă începe brusc o ploaie torențială deasă.",
+                "en": "The ancient Roman layout is fascinating but fully exposed to the elements; take quick shelter under nearby trees if a sudden heavy shower passes over."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Fiacre",
+                "hu": "Chapelle Saint-Fiacre",
+                "ro": "Chapelle Saint-Fiacre",
+                "en": "Chapelle Saint-Fiacre"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle ist ein toller letzter trockener Halt; überprüfen Sie Ihre Fahrradkette und nutzen Sie einen wasserdichten Sattelüberzug beim Parken.",
+                "hu": "Ez a kis kápolna egy remek utolsó száraz megálló; ellenőrizze a nedves kerékpárláncot, és használjon vízálló nyereghuzatot a kinti esős parkoláshoz.",
+                "ro": "Această capelă mică este o oprire finală uscată excelentă; verificați lanțul bicicletei și folosiți o husă impermeabilă pentru șa cât timp parcați în ploaie.",
+                "en": "This small chapel is a great final dry stop; inspect your bike chain from the grit and use a waterproof seat cover while parked outside in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre frische Winterfahrt an der Église Notre-Dame. Vormittags radeln Sie zu den frostigen Gueldro-Reihen, um warm zu bleiben. Mittags genießen Sie den leeren Strand von Gâvres. Nachmittags erkunden Sie die Mané-Vechen-Villa unter der tiefen Sonne. Beenden Sie die Tour an der Chapelle Saint-Fiacre, kurz bevor es gegen 17 Uhr dunkel wird.",
+            "hu": "Kezdje a fagyos téli tekerést az Église Notre-Dame-nál. Délelőtt kerekezzen a dérlepte Gueldro kősorokhoz, feszes tempót diktálva. Délben élvezze az üres, frissítő Gâvres strandot. Délután fedezze fel a Mané-Vechen villa romjait a lemenő napfényben. Fejezze be útját a Chapelle Saint-Fiacre-nál, épp a korai sötétedés előtt.",
+            "ro": "Începeți cursa geroasă de iarnă la Église Notre-Dame. Dimineața, pedalați spre aliniamentele înghețate Gueldro într-un ritm alert pentru a vă încălzi. La prânz, bucurați-vă de plaja pustie din Gâvres. După-amiaza, explorați ruinele vilei Mané-Vechen. Terminați la Chapelle Saint-Fiacre exact înainte de apusul de la 17:00.",
+            "en": "Start your brisk winter ride at Église Notre-Dame before the chill sets in. Mid-morning, cycle to the frost-tipped Gueldro Alignments, keeping a fast pace to stay warm. By noon, enjoy the empty Grande plage de Gâvres. Afternoon, explore the Mané-Vechen villa ruins. Finish at Chapelle Saint-Fiacre just before the 5 PM sunset plunges roads into dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame de Grâce",
+                "hu": "Église Notre-Dame de Grâce",
+                "ro": "Église Notre-Dame de Grâce",
+                "en": "Église Notre-Dame de Grâce"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kalte Architektur früh am Morgen; tragen Sie dicke, isolierte Radhandschuhe, da Ihre Hände am Lenker extrem schnell einfrieren werden.",
+                "hu": "Csodálja meg a hideg kőépítészetet kora reggel; viseljen vastag, szigetelt kerékpáros kesztyűt, mivel a kezei a kormányon nagyon gyorsan lefagynak.",
+                "ro": "Admirați arhitectura rece din piatră dis-de-dimineață; purtați mănuși de ciclism groase, izolate, deoarece mâinile vă vor îngheța rapid pe ghidon.",
+                "en": "Admire the cold stone architecture early in the morning; wear thick, insulated cycling gloves as your hands will freeze extremely quickly on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Gueldro-Steinreihen",
+                "hu": "Gueldro kősorok",
+                "ro": "Aliniamentele Gueldro",
+                "en": "Gueldro Alignments"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den mystischen Frost auf den alten Steinen; ländliche Zufahrtsstraßen können gefährliches Blitzeis haben, bremsen Sie sanft vor den Kurven.",
+                "hu": "Tapasztalja meg a misztikus deret az ősi köveken; a vidéki bekötőutakon veszélyes jégbordák lehetnek, ezért nagyon finoman fékezzen a kanyarok előtt.",
+                "ro": "Experimentați chiciura mistică pe pietrele antice; drumurile rurale de acces pot avea gheață neagră, așa că frânați ușor și luați virajele cu atenție.",
+                "en": "Experience the mystical frost on the ancient stones; approaching rural roads can easily have black ice patches, so brake gently and corner with great care."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand von Gâvres",
+                "hu": "Gâvres nagy strandja",
+                "ro": "Plaja mare din Gâvres",
+                "en": "Grande plage de Gâvres"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frischen Winterwind am leeren Strand; eine winddichte Thermoradjacke ist für diesen ungeschützten Küstenabschnitt absolut unerlässlich.",
+                "hu": "Élvezze a frissítő téli szelet az üres tengerparton; egy szélálló thermo kerékpáros dzseki abszolút elengedhetetlen ehhez a kitett, fagyos partszakaszhoz.",
+                "ro": "Bucurați-vă de vânturile reci de iarnă pe plaja pustie; o jachetă de ciclism termică rezistentă la vânt este absolut esențială pentru această zonă expusă.",
+                "en": "Enjoy the bracing winter winds off the completely empty beach; a windproof thermal cycling jacket is absolutely essential for this fully exposed coastal stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Mané-Vechen",
+                "hu": "Mané-Vechen gallo-római villa",
+                "ro": "Vila galo-romană Mané-Vechen",
+                "en": "Mané-Vechen Gallo-Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen im goldenen Winternachmittagslicht; Thermo-Leggings sind ein Muss, da die kühle Meeresbrise beim Stehen schmerzhaft beißt.",
+                "hu": "Fedezze fel a történelmi romokat a téli délutáni aranyfényben; a thermo nadrág kötelező, mivel a hűvös tengeri szellő megálláskor nagyon csípőssé válik.",
+                "ro": "Explorați ruinele scăldate în lumina aurie a după-amiezii de iarnă; colanții termici sunt obligatorii, deoarece briza mării aduce un frig destul de tăios.",
+                "en": "Explore the historic ruins bathed in golden afternoon winter light; thermal leggings are a must as the coastal breeze carries a painfully sharp bite."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Fiacre",
+                "hu": "Chapelle Saint-Fiacre",
+                "ro": "Chapelle Saint-Fiacre",
+                "en": "Chapelle Saint-Fiacre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle, bevor die Temperaturen sinken; stellen Sie sicher, dass Ihre Lichter geladen sind, da die Dunkelheit um 17:00 Uhr schnell hereinbricht.",
+                "hu": "Látogassa meg a kápolnát, mielőtt a hőmérséklet drasztikusan zuhanna; győződjön meg a lámpák töltöttségéről, mivel 17:00 körül hirtelen sötétedik.",
+                "ro": "Vizitați capela înainte ca temperatura să scadă și mai mult; asigurați-vă că luminile bicicletei sunt complet încărcate, deoarece întunericul cade la ora 17:00.",
+                "en": "Visit this quaint chapel before the temperature drops further; ensure your bike lights are fully charged, as pure darkness falls rapidly around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Induljon el a nagy körútra a helyi ikonikus templom megtekintésével.\n\nLátogassa meg a gyönyörű Chapelle Saint-Fiacre-t, mielőtt a Ria d'Ételben gyönyörködne.\n\nTöltse a délutánt a római történelem és a tengerparti pihenés felfedezésével.\n\nFejezze be a festői autózást a legendás Gueldro-soroknál, ahogy a nap véget ér.",
         "ro": "Conduceți pentru a începe marele tur la biserica locală emblematică.\n\nVizitați frumoasa Chapelle Saint-Fiacre înainte de a admira naturala Ria d'Étel.\n\nPetreceți după-amiaza explorând istoria romană și relaxându-vă pe plajă.\n\nÎncheiați-vă călătoria la legendarele aliniamente Gueldro pe măsură ce ziua se termină.",
         "en": "Drive out to begin your grand tour at the iconic local church.\n\nVisit the beautiful Chapelle Saint-Fiacre before marveling at the natural Ria d'Étel.\n\nSpend your afternoon exploring the Roman history at Mané-Vechen and relaxing by the beach.\n\nEnd your scenic drive at the legendary Gueldro Alignments as the day winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie eine Regenfahrt an der Église Notre-Dame. Vormittags fahren Sie zur Chapelle Saint-Fiacre und der nebligen Ria d'Étel. Nach einem trockenen Mittagessen erkunden Sie die Ruinen von Mané-Vechen in Regenkleidung. Beenden Sie den feuchten Nachmittag bei den wilden Wellen von Gâvres und den glänzenden Gueldro-Reihen, jederzeit nah am Auto.",
+            "hu": "Kezdje a kényelmes, esővédett autózást az Église Notre-Dame-nál. Délelőtt hajtson a Chapelle Saint-Fiacre és a ködös Ria d'Étel felé, a fűtött autóból csodálva a tájat. Ebéd után vízálló ruhában fedezze fel a Mané-Vechen romokat. Zárja a nedves délutánt a Gâvres vad hullámaival és a csillogó Gueldro kősorokkal.",
+            "ro": "Începeți drumul ploios cu mașina la Église Notre-Dame. Dimineața, conduceți spre Chapelle Saint-Fiacre și ceața de pe Ria d'Étel, admirând peisajele din mașina caldă. După un prânz la adăpost, explorați Mané-Vechen în haine impermeabile. Încheiați după-amiaza udă privind valurile la Gâvres și pietrele Gueldro lucioase.",
+            "en": "Begin a cozy, rain-shielded drive at Église Notre-Dame. Mid-morning, drive to Chapelle Saint-Fiacre and the misty Ria d'Étel, enjoying wet landscapes from your warm car. After a sheltered lunch, explore the Mané-Vechen ruins with waterproofs. Finish the damp afternoon watching wild waves at Gâvres and the glistening Gueldro Alignments."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame de Grâce",
+                "hu": "Église Notre-Dame de Grâce",
+                "ro": "Église Notre-Dame de Grâce",
+                "en": "Église Notre-Dame de Grâce"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Buntglasfenster im düsteren Licht; halten Sie einen Schirm griffbereit, da der Weg vom Parkplatz kurz, aber potenziell nass ist.",
+                "hu": "Élvezze az ólomüveg ablakokat a borús fényben; tartson kéznél egy esernyőt, mivel a parkolóból a bejáratig tartó séta bár rövid, de vizes lehet.",
+                "ro": "Bucurați-vă de vitralii în lumina posomorâtă; țineți o umbrelă la îndemână în portbagaj, deoarece parcarea presupune o scurtă plimbare potențial udă.",
+                "en": "Enjoy the glowing stained glass in the gloomy light; keep an umbrella handy in your trunk as parking is a very short but potentially wet walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Fiacre",
+                "hu": "Chapelle Saint-Fiacre",
+                "ro": "Chapelle Saint-Fiacre",
+                "en": "Chapelle Saint-Fiacre"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern der Kapelle wirken im Regen wunderschön; parken Sie auf dem Kies, aber achten Sie beim Aussteigen auf schlammige Pfützen vor der Tür.",
+                "hu": "A kápolna kőfalai gyönyörűek az esőben; parkoljon közvetlenül a kavicsos részen, de kiszálláskor óvakodjon az ajtó közelében kialakuló mély pocsolyáktól.",
+                "ro": "Zidurile de piatră arată minunat în ploaie; parcați pe zona cu pietriș, dar fiți atenți la bălțile mari de noroi care se formează la coborârea din mașină.",
+                "en": "The chapel's stone walls look beautiful in the rain; park directly on the gravel area but be cautious of large muddy puddles forming near the passenger door."
+              }
+            },
+            {
+              "name": {
+                "de": "Ria d'Étel",
+                "hu": "Ria d'Étel",
+                "ro": "Ria d'Étel",
+                "en": "Ria d'Étel"
+              },
+              "tip_5lang": {
+                "de": "Die Ria nimmt bei Regengüssen eine neblige Gestalt an; bleiben Sie in Ihrem warmen Auto, um die malerische Küste zu sehen, ohne komplett nass zu werden.",
+                "hu": "A torkolat misztikus, ködös megjelenést ölt a záporok alatt; maradjon a fűtött autóban, hogy teljesen szárazon élvezhesse a festői, esős parti kilátást.",
+                "ro": "Ria capătă un aspect mistic, cețos în timpul ploilor; rămâneți în interiorul mașinii calde pentru o vedere pitorească a coastei fără a vă uda complet.",
+                "en": "The ria takes on a mystical, foggy appearance during downpours; stay inside your warm car for a beautifully scenic coastal view without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Mané-Vechen",
+                "hu": "Mané-Vechen gallo-római villa",
+                "ro": "Vila galo-romană Mané-Vechen",
+                "en": "Mané-Vechen Gallo-Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Dieser ungeschützte Ort kann sehr schlammig werden; tauschen Sie Ihre Fahrschuhe gegen wasserdichte Stiefel, bevor Sie die antiken Fundamente abgehen.",
+                "hu": "Ez a nyitott terület nagyon sárossá válhat a nedves időben; a vezetéshez használt cipőjét cserélje masszív vízálló bakancsra, mielőtt bejárná a romokat.",
+                "ro": "Acest sit expus poate fi foarte noroios pe vreme umedă; schimbați pantofii de condus cu cizme impermeabile solide înainte de a merge pe fundațiile antice.",
+                "en": "This exposed site can become extremely muddy in wet weather; swap your driving shoes for sturdy waterproof boots before walking the ancient Roman foundations."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand von Gâvres",
+                "hu": "Gâvres nagy strandja",
+                "ro": "Plaja mare din Gâvres",
+                "en": "Grande plage de Gâvres"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie wilde Ozeanstürme sicher von gepflasterten Parkplätzen aus; ein leicht geöffnetes Fenster lässt Sie die tobenden Wellen im Auto hören.",
+                "hu": "Nézze a vad óceáni viharokat biztonságosan a lebetonozott parkolókból; egy kicsit lehúzott ablakon át a száraz autóból is hallhatja a morajló hullámokat.",
+                "ro": "Urmăriți furtunile oceanice feroce în siguranță din parcările pavate din apropiere; lăsând geamul puțin crăpat, puteți auzi valurile zgomotoase din mașină.",
+                "en": "Watch the ferocious ocean storms safely from the nearby paved parking spots; cracking the window slightly lets you hear the roaring waves from the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Gueldro-Steinreihen",
+                "hu": "Gueldro kősorok",
+                "ro": "Aliniamentele Gueldro",
+                "en": "Gueldro Alignments"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steine glänzen wunderschön; nutzen Sie das Auto als schnellen Rückzugsort, um Ihre Kameraausrüstung zwischen starken Schauern zu trocknen.",
+                "hu": "A nedves kövek gyönyörűen csillognak; használja az autót gyors menedékként, hogy a heves záporok között megtörölje és megszárítsa a fényképezőgépét.",
+                "ro": "Pietrele ude lucesc frumos, perfect pentru fotografii; folosiți mașina ca o retragere rapidă pentru a vă usca echipamentul foto între aversele puternice.",
+                "en": "The wet stones glisten beautifully, perfect for moody photography; use the car as a quick, warm retreat to dry your camera gear between heavy rain showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren beheizten Roadtrip an der Église Notre-Dame. Vormittags besuchen Sie die Chapelle Saint-Fiacre und die eisigen Ufer der Ria d'Étel, wobei das Auto Sie wärmt. Am frühen Nachmittag laufen Sie kurz durch die frischen Mané-Vechen-Ruinen. Beenden Sie die Tageslichtstunden am Strand von Gâvres und den Gueldro-Reihen, bevor es um 17 Uhr dunkel wird.",
+            "hu": "Kezdje a fűtött autós téli túrát az Église Notre-Dame-nál. Délelőtt látogassa meg a Chapelle Saint-Fiacre-t és a Ria d'Étel fagyos partjait, a járműben melegedve a megállók közt. Kora délután járja be a csípős Mané-Vechen romokat. Használja ki a nappali világosságot a Gâvres strandnál és a Gueldro kősoroknál, majd sötétedés után induljon haza.",
+            "ro": "Începeți excursia de iarnă cu mașina la Église Notre-Dame. Dimineața, vizitați Chapelle Saint-Fiacre și marginile înghețate ale Ria d'Étel, încălzindu-vă în vehicul. La începutul după-amiezii, plimbați-vă prin ruinele reci de la Mané-Vechen. Încheiați orele de lumină la plaja din Gâvres și pietrele Gueldro, conducând spre casă la lăsarea întunericului.",
+            "en": "Start your heated winter road trip at Église Notre-Dame. Mid-morning, visit Chapelle Saint-Fiacre and the icy edges of Ria d'Étel, keeping warm in the vehicle between stops. In the early afternoon, briefly walk the brisk Mané-Vechen ruins. Conclude your daylight hours at the Grande plage de Gâvres and Gueldro Alignments, driving home as dusk falls at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame de Grâce",
+                "hu": "Église Notre-Dame de Grâce",
+                "ro": "Église Notre-Dame de Grâce",
+                "en": "Église Notre-Dame de Grâce"
+              },
+              "tip_5lang": {
+                "de": "Der Wintermorgen macht die Kirche sehr friedlich; heizen Sie das Auto ordentlich auf, bevor Sie aussteigen, da sich das Innere wie ein Gefrierschrank anfühlt.",
+                "hu": "A téli reggel mélységes békét áraszt a templomban; járassa az autó fűtését kiszállás előtt, mert az ősi kőbelső hőmérséklete egy fagyasztóéval vetekszik.",
+                "ro": "Dimineața liniștită de iarnă face această biserică foarte pașnică; porniți căldura în mașină înainte de a ieși, deoarece interiorul antic se simte ca un congelator.",
+                "en": "The quiet winter morning makes this church deeply peaceful; blast the car heater before stepping out, as the ancient stone interior feels like a deep freezer."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Fiacre",
+                "hu": "Chapelle Saint-Fiacre",
+                "ro": "Chapelle Saint-Fiacre",
+                "en": "Chapelle Saint-Fiacre"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie das vereiste Dach dieser urigen Kapelle; lassen Sie den Motor eine Minute länger laufen, um die Scheibe in der eisigen Luft komplett abzutauen.",
+                "hu": "Fotózza le a furcsa kis kápolna fagyos, deres tetejét; hagyja járni a motort egy perccel tovább, hogy a szélvédő tökéletesen leolvadjon a jeges levegőn.",
+                "ro": "Fotografiați acoperișul înghețat al acestei capele pitorești; lăsați motorul pornit un minut în plus pentru a dezgheța complet parbrizul în aerul glacial.",
+                "en": "Photograph the frosted roof of this quaint chapel; keep your engine running a minute longer to defrost the windshield completely in the freezing, icy air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ria d'Étel",
+                "hu": "Ria d'Étel",
+                "ro": "Ria d'Étel",
+                "en": "Ria d'Étel"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne glitzert atemberaubend auf dem Eis; packen Sie eine Thermoskanne ins Auto, um beim Blick auf die frierende Küste Tee zu trinken.",
+                "hu": "A jeges öblön megcsillanó alacsony téli napfény lenyűgöző; tegyen be egy termosz forró teát az autóba, hogy a fagyos tengerparti látványt kortyolgatva élvezze.",
+                "ro": "Soarele palid sclipind pe golful de gheață este uimitor; aduceți un termos cu ceai fierbinte în mașină pentru a-l savura în timp ce admirați priveliștea rece.",
+                "en": "The low winter sun glinting off the icy inlet is stunning; pack a thermal flask of hot tea in the car to sip while taking in the freezing, beautiful coastal view."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Mané-Vechen",
+                "hu": "Mané-Vechen gallo-római villa",
+                "ro": "Vila galo-romană Mané-Vechen",
+                "en": "Mané-Vechen Gallo-Roman Villa"
+              },
+              "tip_5lang": {
+                "de": "Die kargen Ruinen stechen im Winter scharf hervor; tragen Sie einen dicken Mantel, da der kurze Fußweg vom Parkplatz extrem dem Wind ausgesetzt ist.",
+                "hu": "A kopár romok élesen kiemelkednek a téli tájból; vegyen fel egy igazán vastag kabátot, mert a parkolótól induló rövid séta brutálisan szélnek kitett terület.",
+                "ro": "Ruinele golașe ies în evidență clar în timpul iernii; purtați o haină groasă de vânt, deoarece scurta plimbare de la parcare este expusă brutal la curenți.",
+                "en": "The stark ruins stand out sharply in winter; dress in a heavy windproof coat, as the very short walk from the parking lot is brutally exposed to the chill wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Strand von Gâvres",
+                "hu": "Gâvres nagy strandja",
+                "ro": "Plaja mare din Gâvres",
+                "en": "Grande plage de Gâvres"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen zügigen, einsamen Spaziergang auf dem harten Wintersand; bleiben Sie nicht zu lange, da die Meeresbrise Ihre Kerntemperatur schnell senkt.",
+                "hu": "Élvezze a frissítő, magányos sétát a keményre fagyott téli homokon; ne időzzön túl sokat kint, mert a tengeri szél vihargyorsan lehűti a testhőmérsékletét.",
+                "ro": "Bucurați-vă de o plimbare solitară alertă pe nisipul dur de iarnă; nu zăboviți prea mult, deoarece briza oceanului vă va scădea rapid temperatura corpului.",
+                "en": "Enjoy a brisk, solitary walk on the hard, packed winter sand; don't linger too long as the freezing ocean breeze will rapidly drop your core body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Gueldro-Steinreihen",
+                "hu": "Gueldro kősorok",
+                "ro": "Aliniamentele Gueldro",
+                "en": "Gueldro Alignments"
+              },
+              "tip_5lang": {
+                "de": "Die langen Schatten am Nachmittag machen die Reihen spektakulär; beenden Sie den Besuch vor 17:00 Uhr, wenn dunkle, ländliche Straßen das Fahren erschweren.",
+                "hu": "A délutáni hosszú árnyékok egészen látványossá teszik a sorokat; fejezze be a látogatást 17:00 előtt, amikor az unalmas vidéki sötét megnehezíti a vezetést.",
+                "ro": "Umbrele lungi de la ora 16:00 fac aliniamentele să arate spectaculos; terminați vizita înainte de 17:00, când navigarea pe drumurile rurale neiluminate devine grea.",
+                "en": "The long shadows at 16:00 make the ancient alignments look spectacular; finish your visit quickly before 17:00, when navigating unlit rural roads becomes tricky."
+              }
+            }
+          ]
+        }
       }
     }
   }

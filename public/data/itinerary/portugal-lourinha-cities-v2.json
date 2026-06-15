@@ -160,6 +160,196 @@
         "hu": "Lourinhã-i sétája a történelmi Câmara Municipalnál kezdődik, megadva a nap alaphangját. Innen csak néhány lépés a lenyűgöző Igreja matriz, ahol a friss reggeli levegőn szívhatja magába gótikus eleganciáját.\n\nA dél bepillantást enged a helyi örökségbe az Espaço Museológióban. A múzeum szakrális művészete mély betekintést nyújt a régió múltjába. A kényelmes tempó lehetővé teszi a központ nyugalmának élvezetét.\n\nDélután fedezze fel a bájos nevezetességeket, mint az ősi Pelourinho és a Baloiço adaptado. Ezek a rövid megállók tökéletesen egyensúlyozzák a délelőtt történelmi komolyságát a helyi bájjal.\n\nFejezze be sétáját a Capela de Nossa Senhora Dos Anjosnál. Ez a békés utolsó megálló a csendes elmélkedés pillanatát kínálja, tökéletesen lezárva Lourinhã kellemes gyalogos felfedezését.",
         "ro": "Turul pietonal prin Lourinhã începe la istorica Câmara Municipal, pregătind terenul pentru o zi de descoperiri. De acolo, veți face doar câțiva pași până la uimitoarea Igreja matriz, absorbindu-i eleganța gotică.\n\nAmiaza aduce o scufundare în patrimoniul local la Espaço Museológico. Arta sacră a acestui muzeu oferă o perspectivă profundă asupra trecutului regiunii, permițându-vă să apreciați mediul liniștit al centrului.\n\nDupă-amiaza, explorați repere fermecătoare precum vechiul Pelourinho și ineditul Baloiço adaptado. Aceste opriri scurte, dar memorabile, echilibrează perfect gravitatea istorică a dimineții cu farmecul local.\n\nÎncheiați-vă călătoria la Capela de Nossa Senhora Dos Anjos. Această ultimă oprire senină oferă un moment de reflecție liniștită la sfârșitul zilei, încununând perfect explorarea pietonală a orașului Lourinhã.",
         "en": "Your walking tour through Lourinhã begins at the historic Câmara Municipal, setting the stage for a day of discovery. From there, you'll wander just a few steps to the stunning Igreja matriz, absorbing its Gothic elegance in the crisp morning air.\n\nMidday brings a deep dive into local heritage at the Espaço Museológico. This museum's sacred art provides profound insight into the region's past. A leisurely pace allows you to appreciate the tranquil environment of the town center.\n\nIn the afternoon, explore charming landmarks like the ancient Pelourinho and the uniquely inclusive Baloiço adaptado. These brief but memorable stops perfectly balance the historical gravity of the morning with lighthearted local charm.\n\nConclude your walking journey at the Capela de Nossa Senhora Dos Anjos. This serene final stop offers a moment of quiet reflection as the day winds down, perfectly capping off a thorough and delightful pedestrian exploration of Lourinhã."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus, wo die tief hängenden Wolken der Stadt eine mystische Atmosphäre verleihen. Mittags bietet das Museum den perfekten Zufluchtsort vor dem Regen, um tief in die lokale Geschichte einzutauchen. Am Nachmittag führt der Weg unter Arkaden zum Pelourinho und dem Baloiço. Der Tag endet friedlich in der Kapelle, während der Regen sanft gegen die alten Mauern trommelt.",
+            "hu": "A reggel a városházánál indul, ahol az alacsonyan szálló felhők misztikus hangulatot kölcsönöznek a városnak. Délben a múzeum nyújt tökéletes menedéket az eső elől, ahol elmélyedhetünk a helyi történelemben. Délután az út árkádok alatt vezet a Pelourinhóhoz és a Baloiçóhoz. A nap békésen zárul a kápolnában, miközben az eső lágyan kopog a régi falakon.",
+            "ro": "Dimineața începe la primărie, unde norii joși conferă orașului o atmosferă mistică. La prânz, muzeul oferă refugiul perfect împotriva ploii pentru a explora istoria locală. După-amiaza, drumul continuă pe sub arcade spre Pelourinho și Baloiço. Ziua se încheie pașnic la capelă, în timp ce ploaia bate ușor în zidurile vechi.",
+            "en": "The morning starts at the Town Hall, where low clouds lend a mystical atmosphere to the town. At noon, the museum provides the perfect refuge from the rain to dive deep into local history. In the afternoon, the path leads under arcades towards the Pelourinho and the Baloiço. The day ends peacefully at the chapel, as the rain gently drums against the ancient walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal da Lourinhã",
+                "hu": "Câmara Municipal da Lourinhã",
+                "ro": "Câmara Municipal da Lourinhã",
+                "en": "Câmara Municipal da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von den Arkaden gegenüber; nutzen Sie den überdachten Platz, um die Fassade ohne nass zu werden zu studieren.",
+                "hu": "Csodálja meg az építészetet a szemközti árkádok alól; használja a fedett területet a homlokzat tanulmányozására, hogy ne ázzon el.",
+                "ro": "Admirați arhitectura de sub arcadele de vis-à-vis; folosiți spațiul acoperit pentru a studia fațada fără a vă uda.",
+                "en": "Admire the architecture from the arcades opposite; use the covered area to study the facade without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja matriz da Lourinhã",
+                "hu": "Igreja matriz da Lourinhã",
+                "ro": "Igreja matriz da Lourinhã",
+                "en": "Igreja matriz da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein in die Stille der Kirche; das massive Dach bietet Schutz, während Sie die kunstvollen religiösen Details im Trockenen genießen.",
+                "hu": "Lépjen be a templom csendjébe; a masszív tető védelmet nyújt, miközben szárazon élvezheti a művészi vallási részleteket.",
+                "ro": "Intrați în liniștea bisericii; acoperișul masiv oferă protecție în timp ce vă bucurați de detaliile religioase artistice la adăpost.",
+                "en": "Step into the silence of the church; the massive roof offers protection while you enjoy the artistic religious details in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Museológico da Santa Casa da Lourinhã",
+                "hu": "Espaço Museológico da Santa Casa da Lourinhã",
+                "ro": "Espaço Museológico da Santa Casa da Lourinhã",
+                "en": "Espaço Museológico da Santa Casa da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort für einen längeren Aufenthalt bei Regen; erkunden Sie die Exponate ausführlich, während draußen der Schauer vorbeizieht.",
+                "hu": "Ez az ideális hely egy hosszabb tartózkodáshoz esőben; fedezze fel részletesen a kiállításokat, amíg kint elvonul a zápor.",
+                "ro": "Acesta este locul ideal pentru o ședere mai lungă pe ploaie; explorați exponatele în detaliu în timp ce afară trece aversa.",
+                "en": "This is the ideal place for a longer stay in the rain; explore the exhibits in detail while the shower passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lourinhã",
+                "hu": "Pelourinho da Lourinhã",
+                "ro": "Pelourinho da Lourinhã",
+                "en": "Pelourinho da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier aus; achten Sie auf das glatte Kopfsteinpflaster rund um die Säule, wenn es nass ist.",
+                "hu": "Egy rövid megálló itt elegendő; ügyeljen a csúszós macskakövekre az oszlop körül, amikor nedves az idő.",
+                "ro": "O oprire scurtă aici este suficientă; atenție la pavajul alunecos din jurul coloanei când este umed.",
+                "en": "A short stop here is enough; watch out for the slippery cobblestones around the pillar when it is wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço adaptado da Lourinhã",
+                "hu": "Baloiço adaptado da Lourinhã",
+                "ro": "Baloiço adaptado da Lourinhã",
+                "en": "Baloiço adaptado da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie den Sitz vor der Benutzung kurz trocken; der Ausblick auf die regenverhangenen Hügel ist dennoch sehr reizvoll.",
+                "hu": "Használat előtt törölje szárazra az ülést; az eső áztatta dombokra nyíló kilátás ennek ellenére is lenyűgöző.",
+                "ro": "Ștergeți scaunul înainte de utilizare; vederea spre dealurile acoperite de ploaie este totuși foarte încântătoare.",
+                "en": "Wipe the seat dry before use; the view of the rain-drenched hills is nevertheless very charming."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora Dos Anjos",
+                "hu": "Capela de Nossa Senhora Dos Anjos",
+                "ro": "Capela de Nossa Senhora Dos Anjos",
+                "en": "Capela de Nossa Senhora Dos Anjos"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet am Ende der Tour einen gemütlichen, trockenen Ort für Reflexion; schütteln Sie Ihren Regenschirm draußen gut ab.",
+                "hu": "A kápolna a túra végén meghitt, száraz helyet kínál az elmélkedésre; alaposan rázza ki az esernyőjét kint.",
+                "ro": "Capela oferă la sfârșitul turului un loc primitor și uscat pentru reflecție; scuturați bine umbrela afară.",
+                "en": "The chapel offers a cozy, dry place for reflection at the end of the tour; shake your umbrella out well outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen beim Rathaus weckt die Geister. Mittags wärmen Sie sich im Museum auf, wo die dicken Mauern die Kälte draußen halten. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Licht des Nachmittags am Pelourinho. Der Abend klingt bei der Kapelle aus, wenn die winterliche Dämmerung die Stadt in sanftes Blau taucht.",
+            "hu": "A friss téli reggeli levegő a városházánál felpezsdíti a lelket. Délben a múzeumban melegedhetünk fel, ahol a vastag falak kint tartják a hideget. Mivel a nap már 17:00 körül nyugszik, kihasználjuk a délutáni aranyfényeket a Pelourinhónál. Az este a kápolnánál zárul, amikor a téli szürkület lágy kékbe vonja a várost.",
+            "ro": "Aerul proaspăt de iarnă de dimineață de la primărie înviorează spiritul. La prânz vă încălziți în muzeu, unde zidurile groase țin frigul afară. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumina aurie a după-amiezii la Pelourinho. Seara se încheie la capelă, când amurgul de iarnă scaldă orașul într-un albastru blând.",
+            "en": "The fresh winter morning air at the Town Hall invigorates the spirit. At noon, warm up in the museum, where the thick walls keep the cold out. Since the sun sets around 17:00, we take advantage of the afternoon's golden light at the Pelourinho. The evening ends at the chapel, as the winter twilight bathes the town in soft blue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal da Lourinhã",
+                "hu": "Câmara Municipal da Lourinhã",
+                "ro": "Câmara Municipal da Lourinhã",
+                "en": "Câmara Municipal da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Fassade in der tiefstehenden Wintersonne; tragen Sie eine warme Jacke gegen den Wind.",
+                "hu": "Élvezze a homlokzat tiszta látványát az alacsonyan járó téli napsütésben; viseljen meleg kabátot a szél ellen.",
+                "ro": "Bucurați-vă de vederea clară a fațadei în soarele jos de iarnă; purtați o jachetă groasă împotriva vântului.",
+                "en": "Enjoy the clear view of the facade in the low winter sun; wear a warm jacket against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja matriz da Lourinhã",
+                "hu": "Igreja matriz da Lourinhã",
+                "ro": "Igreja matriz da Lourinhã",
+                "en": "Igreja matriz da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist oft kühler als gedacht; behalten Sie Ihren Mantel an, während Sie die beeindruckenden Altäre bestaunen.",
+                "hu": "A belső tér gyakran hűvösebb a vártnál; hagyja magán a kabátját, miközben a lenyűgöző oltárokat csodálja.",
+                "ro": "Interiorul este adesea mai răcoros decât credeți; păstrați haina pe dvs. în timp ce admirați altarele impresionante.",
+                "en": "The interior is often cooler than expected; keep your coat on while admiring the impressive altars."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Museológico da Santa Casa da Lourinhã",
+                "hu": "Espaço Museológico da Santa Casa da Lourinhã",
+                "ro": "Espaço Museológico da Santa Casa da Lourinhã",
+                "en": "Espaço Museológico da Santa Casa da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für diesen Indoor-Besuch, um der kältesten Zeit des Tages zu entfliehen und Geschichte zu erleben.",
+                "hu": "Használja a délidőt erre a benti látogatásra, hogy elmeneküljön a nap leghidegebb szaka elől és átélje a történelmet.",
+                "ro": "Folosiți timpul prânzului pentru această vizită interioară, pentru a scăpa de cea mai rece perioadă a zilei și a trăi istoria.",
+                "en": "Use the lunchtime for this indoor visit to escape the coldest part of the day and experience history."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lourinhã",
+                "hu": "Pelourinho da Lourinhã",
+                "ro": "Pelourinho da Lourinhã",
+                "en": "Pelourinho da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Das historische Monument wirkt im kahlen Winterlicht besonders imposant; ideal für ein schnelles Foto vor dem Sonnenuntergang.",
+                "hu": "A történelmi emlékmű a kopár téli fényben különösen impozáns; ideális egy gyors fotóhoz a naplemente előtt.",
+                "ro": "Monumentul istoric pare deosebit de impunător în lumina stearpă de iarnă; ideal pentru o fotografie rapidă înainte de apus.",
+                "en": "The historical monument looks particularly imposing in the bleak winter light; ideal for a quick photo before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço adaptado da Lourinhã",
+                "hu": "Baloiço adaptado da Lourinhã",
+                "ro": "Baloiço adaptado da Lourinhã",
+                "en": "Baloiço adaptado da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft klarer; ziehen Sie Handschuhe an, da die Griffe des Baloiço sehr kalt sein können.",
+                "hu": "A kilátás télen gyakran tisztább; húzzon kesztyűt, mivel a hinta fogantyúi nagyon hidegek lehetnek.",
+                "ro": "Vizibilitatea este adesea mai clară iarna; puneți-vă mănuși, deoarece mânerele leagănului pot fi foarte reci.",
+                "en": "The visibility is often clearer in winter; put on gloves as the handles of the swing can be very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora Dos Anjos",
+                "hu": "Capela de Nossa Senhora Dos Anjos",
+                "ro": "Capela de Nossa Senhora Dos Anjos",
+                "en": "Capela de Nossa Senhora Dos Anjos"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kapelle vor 17:00 Uhr, um den Sonnenuntergang über der Stadt in der friedlichen Winterruhe zu erleben.",
+                "hu": "Érjen a kápolnához 17:00 előtt, hogy átélje a város feletti naplementét a békés téli nyugalomban.",
+                "ro": "Ajungeți la capelă înainte de ora 17:00 pentru a vedea apusul peste oraș în liniștea pașnică de iarnă.",
+                "en": "Reach the chapel before 17:00 to experience the sunset over the town in the peaceful winter quiet."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpáros napot a békés Capela de Nossa Senhora Dos Anjosnál. Egy gyors tekerés elviszi a játékos Baloiço mellett egyenesen a város történelmi és közigazgatási központjába, a Câmara Municipalhoz.\n\nDél közeledtével merüljön el az Espaço Museológico kulturális kincseiben. Kerékpárjával könnyedén ugrálhat a központi látnivalók között, energiát spórolva, miközben teljesen átadja magát a terület történelmének.\n\nAz ikonikus Pelourinho gyors megtekintése után maga mögött hagyja a sűrű központot. Élvezze a festői, kissé hosszabb utat a külváros felé, érezze a szellőt és a gyönyörű portugál vidék változó táját.\n\nKéső délután érkezzen meg a gyönyörű Igreja Nossa Senhora da Guiához. Az itteni hosszabb megálló lenyűgöző építészettel és nyugodt légkörrel jutalmazza meg fáradozásait, teljessé téve a kalandot.",
         "ro": "Începeți ziua de ciclism la pașnica Capela de Nossa Senhora Dos Anjos. O pedalare rapidă vă poartă pe lângă jucăușul Baloiço și direct în centrul istoric și administrativ al orașului, la Câmara Municipal.\n\nPe măsură ce se apropie prânzul, aprofundați comorile culturale la Espaço Museológico. Bicicleta vă permite să săriți fără efort între atracțiile centrale, economisind energie în timp ce vă scufundați în istorie.\n\nDupă o scurtă oprire la iconicul Pelourinho, veți lăsa în urmă centrul dens. Bucurați-vă de o plimbare pitorească spre periferie, simțind briza și admirând peisajul schimbător al frumoasei zone rurale portugheze.\n\nAjungeți la frumoasa Igreja Nossa Senhora da Guia spre sfârșitul după-amiezii. Această oprire extinsă vă răsplătește eforturile cu o arhitectură uluitoare și o atmosferă liniștită, completând aventura.",
         "en": "Kick off your cycling day at the peaceful Capela de Nossa Senhora Dos Anjos, enjoying the quiet morning streets. A quick pedal takes you past the playful Baloiço and right into the town's historical and administrative center at the Câmara Municipal.\n\nAs noon approaches, delve into the cultural treasures of the Espaço Museológico. Your bicycle allows you to hop effortlessly between the central sights, saving energy while fully immersing yourself in the rich religious and civic history of the area.\n\nFollowing a quick stop at the iconic Pelourinho, you'll leave the dense center behind. Enjoy a scenic, slightly longer ride toward the outskirts, feeling the breeze and taking in the changing landscape of the beautiful Portuguese countryside.\n\nArrive at the beautiful Igreja Nossa Senhora da Guia for the late afternoon. The extended stop here rewards your pedaling efforts with stunning architecture and a tranquil atmosphere, completing a perfectly balanced cycling adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert die Fahrt zur Kapelle bei nassem Asphalt besondere Vorsicht. Mittags ist das Museum der perfekte Parkplatz für Fahrrad und Fahrer, um im Trockenen zu verweilen. Nachmittags radeln wir vorsichtig durch die erfrischte Landschaft zum Pelourinho. Der Tag endet an der Guia-Kirche, während das Licht der Stadt auf den regennassen Straßen reflektiert.",
+            "hu": "Reggel a kápolnához vezető út nedves aszfalton különös óvatosságot igényel. Délben a múzeum tökéletes parkolóhely biciklinek és bringásnak, hogy szárazon időzzön. Délután óvatosan tekerünk a felfrissült tájon át a Pelourinhóhoz. A nap a Guia-templomnál zárul, miközben a város fényei tükröződnek az esőáztatta utcákon.",
+            "ro": "Dimineața, drumul spre capelă pe asfalt umed necesită o prudență deosebită. La prânz, muzeul este locul de parcare perfect pentru bicicletă și biciclist pentru a sta la adăpost. După-amiaza pedalăm cu grijă prin peisajul reîmprospătat spre Pelourinho. Ziua se încheie la biserica Guia, în timp ce luminile orașului se reflectă pe străzile ude.",
+            "en": "In the morning, the ride to the chapel on wet asphalt requires special caution. At noon, the museum is the perfect parking spot for bike and rider to linger in the dry. In the afternoon, we cycle carefully through the refreshed landscape to the Pelourinho. The day ends at the Guia church, while the city lights reflect on the rain-wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora Dos Anjos",
+                "hu": "Capela de Nossa Senhora Dos Anjos",
+                "ro": "Capela de Nossa Senhora Dos Anjos",
+                "en": "Capela de Nossa Senhora Dos Anjos"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Untergrund; nutzen Sie die Vordächer der Kirche, um Ihre Ausrüstung kurz zu prüfen.",
+                "hu": "Vigyázzon a leszálláskor a nedves talajon; használja a templom előtetőit a felszerelés gyors ellenőrzéséhez.",
+                "ro": "Atenție la coborârea de pe bicicletă pe teren umed; folosiți copertinele bisericii pentru a vă verifica rapid echipamentul.",
+                "en": "Be careful when dismounting on wet ground; use the church eaves to briefly check your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço adaptado da Lourinhã",
+                "hu": "Baloiço adaptado da Lourinhã",
+                "ro": "Baloiço adaptado da Lourinhã",
+                "en": "Baloiço adaptado da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann bei Regen rutschig sein; genießen Sie kurz die Aussicht, bevor Sie im Trockenen weiterfahren.",
+                "hu": "Az idevezető út esőben csúszós lehet; élvezze röviden a kilátást, mielőtt továbbhajtana a szárazabb részek felé.",
+                "ro": "Drumul până aici poate fi alunecos pe ploaie; bucurați-vă scurt de priveliște înainte de a continua spre zone uscate.",
+                "en": "The path here can be slippery in the rain; enjoy the view briefly before riding on towards drier areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal da Lourinhã",
+                "hu": "Câmara Municipal da Lourinhã",
+                "ro": "Câmara Municipal da Lourinhã",
+                "en": "Câmara Municipal da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort; das Rathaus bietet gute Unterstellmöglichkeiten in der Nähe für eine kurze Pause.",
+                "hu": "Parkolja le a biciklit védett helyen; a városháza közelében jó fedett helyek vannak egy rövid pihenőhöz.",
+                "ro": "Parcați bicicleta într-un loc protejat; primăria oferă locuri acoperite bune în apropiere pentru o scurtă pauză.",
+                "en": "Park your bike in a protected spot; the Town Hall offers good sheltered areas nearby for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Museológico da Santa Casa da Lourinhã",
+                "hu": "Espaço Museológico da Santa Casa da Lourinhã",
+                "ro": "Espaço Museológico da Santa Casa da Lourinhã",
+                "en": "Espaço Museológico da Santa Casa da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Die beste Gelegenheit, die Regenhose auszuziehen und sich im Museum aufzuwärmen, während draußen der Boden trocknet.",
+                "hu": "A legjobb alkalom az esőnadrág levételére és a múzeumban való felmelegedésre, amíg kint szárad a talaj.",
+                "ro": "Cea mai bună ocazie de a scoate pantalonii de ploaie și de a vă încălzi în muzeu, în timp ce afară solul se usucă.",
+                "en": "The best opportunity to take off your rain pants and warm up in the museum while the ground dries outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lourinhã",
+                "hu": "Pelourinho da Lourinhã",
+                "ro": "Pelourinho da Lourinhã",
+                "en": "Pelourinho da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Stopp kurz; achten Sie beim Bremsen auf dem nassen Kopfsteinpflaster rund um das Denkmal auf Ihre Sicherheit.",
+                "hu": "Tartsa röviden a megállót; figyeljen a biztonságra a fékezéskor a műemlék körüli nedves macskakövön.",
+                "ro": "Țineți oprirea scurtă; atenție la siguranță când frânați pe pavajul umed din jurul monumentului.",
+                "en": "Keep the stop short; pay attention to safety when braking on the wet cobblestones around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Nossa Senhora da Guia",
+                "hu": "Igreja Nossa Senhora da Guia",
+                "ro": "Igreja Nossa Senhora da Guia",
+                "en": "Igreja Nossa Senhora da Guia"
+              },
+              "tip_5lang": {
+                "de": "Die finale Abfahrt zur Kirche bietet bei Regen eine dramatische Kulisse; tragen Sie unbedingt eine wasserdichte Schicht.",
+                "hu": "A végső gurulás a templomhoz esőben drámai hátteret nyújt; mindenképpen viseljen vízhatlan réteget.",
+                "ro": "Coborârea finală spre biserică oferă un decor dramatic pe ploaie; purtați neapărat un strat impermeabil.",
+                "en": "The final descent to the church offers a dramatic backdrop in the rain; be sure to wear a waterproof layer."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Start am Morgen bei der Kapelle ist frostig, aber die klare Luft bietet weite Sichten. Mittags nutzen wir den Museumsbesuch als Aufwärmstopp für die müden Beine. Am Nachmittag radeln wir im sanften Winterlicht durch die historische Altstadt zum Pelourinho. Der Tag endet früh bei der Guia-Kirche, um den Sonnenuntergang gegen 17:00 Uhr nicht zu verpassen.",
+            "hu": "A reggeli kezdés a kápolnánál fagyos, de a tiszta levegő messzi kilátást biztosít. Délben a múzeumlátogatást melegedőként használjuk a fáradt lábaknak. Délután a lágy téli fényben tekerünk a történelmi óvároson át a Pelourinhóhoz. A nap korán zárul a Guia-templomnál, hogy ne késsük le a 17:00 körüli naplementét.",
+            "ro": "Startul de dimineață la capelă este geros, dar aerul curat oferă vederi îndepărtate. La prânz folosim vizita la muzeu ca oprire pentru încălzire pentru picioarele obosite. După-amiaza pedalăm în lumina blândă de iarnă prin centrul istoric spre Pelourinho. Ziua se încheie devreme la biserica Guia, pentru a nu rata apusul de la ora 17:00.",
+            "en": "The morning start at the chapel is frosty, but the clear air offers distant views. At noon, we use the museum visit as a warming stop for tired legs. In the afternoon, we cycle through the historic old town to the Pelourinho in the soft winter light. The day ends early at the Guia church, so as not to miss the sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora Dos Anjos",
+                "hu": "Capela de Nossa Senhora Dos Anjos",
+                "ro": "Capela de Nossa Senhora Dos Anjos",
+                "en": "Capela de Nossa Senhora Dos Anjos"
+              },
+              "tip_5lang": {
+                "de": "Die Kälte ist hier oben am stärksten zu spüren; tragen Sie winddichte Kleidung für den Start Ihrer Fahrradtour.",
+                "hu": "A hideg itt fent érződik a legjobban; viseljen szélálló ruházatot a biciklitúra megkezdéséhez.",
+                "ro": "Frigul se simte cel mai tare aici sus; purtați haine rezistente la vânt pentru începutul turului cu bicicleta.",
+                "en": "The cold is felt most strongly up here; wear windproof clothing for the start of your bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço adaptado da Lourinhã",
+                "hu": "Baloiço adaptado da Lourinhã",
+                "ro": "Baloiço adaptado da Lourinhã",
+                "en": "Baloiço adaptado da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich bei der Pause in Bewegung; die winterliche Brise auf dem Hügel kann beim Stehenbleiben schnell auskühlen.",
+                "hu": "Tartsa magát mozgásban a szünet alatt; a téli szellő a dombon gyorsan lehűtheti az embert, ha megáll.",
+                "ro": "Rămâneți în mișcare în timpul pauzei; briza de iarnă de pe deal vă poate răci rapid dacă stați pe loc.",
+                "en": "Keep moving during the break; the winter breeze on the hill can quickly chill you if you stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal da Lourinhã",
+                "hu": "Câmara Municipal da Lourinhã",
+                "ro": "Câmara Municipal da Lourinhã",
+                "en": "Câmara Municipal da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause im Eingangsbereich möglich; die Sonne wärmt mittags die hellen Steine des Platzes ein wenig auf.",
+                "hu": "Rövid melegedési lehetőség a bejárati résznél; a nap délben kicsit felmelegíti a tér világos köveit.",
+                "ro": "Scurtă pauză de încălzire posibilă în zona de intrare; soarele încălzește puțin pietrele deschise la culoare ale pieței la prânz.",
+                "en": "Short warming break possible in the entrance area; the sun warms the light stones of the square a bit at noon."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Museológico da Santa Casa da Lourinhã",
+                "hu": "Espaço Museológico da Santa Casa da Lourinhã",
+                "ro": "Espaço Museológico da Santa Casa da Lourinhã",
+                "en": "Espaço Museológico da Santa Casa da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine ausgiebige Pause im Warmen; lagern Sie Helm und Handschuhe sicher, während Sie die Kunst genießen.",
+                "hu": "Tökéletes egy kiadós pihenőhöz a melegben; tárolja biztonságosan a sisakot és kesztyűt, amíg élvezi a művészetet.",
+                "ro": "Perfect pentru o pauză lungă la căldură; depozitați casca și mănușile în siguranță în timp ce vă bucurați de artă.",
+                "en": "Perfect for an extensive break in the warm; store your helmet and gloves safely while you enjoy the art."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lourinhã",
+                "hu": "Pelourinho da Lourinhã",
+                "ro": "Pelourinho da Lourinhã",
+                "en": "Pelourinho da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist ideal für Fotos; achten Sie auf die Uhrzeit, damit Sie vor der Dunkelheit am Ziel sind.",
+                "hu": "A késő délutáni fény ideális a fotókhoz; ügyeljen az időre, hogy sötétedés előtt célba érjen.",
+                "ro": "Lumina de după-amiază târziu este ideală pentru fotografii; atenție la oră pentru a ajunge la destinație înainte de întuneric.",
+                "en": "The late afternoon light is ideal for photos; pay attention to the time so you reach your destination before dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Nossa Senhora da Guia",
+                "hu": "Igreja Nossa Senhora da Guia",
+                "ro": "Igreja Nossa Senhora da Guia",
+                "en": "Igreja Nossa Senhora da Guia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frühen Winterabend an der Kirche; die Beleuchtung des Gebäudes nach 17:00 Uhr wirkt sehr festlich.",
+                "hu": "Élvezze a korai téli estét a templomnál; az épület kivilágítása 17:00 után nagyon ünnepi hatást kelt.",
+                "ro": "Bucurați-vă de seara devreme de iarnă la biserică; iluminarea clădirii după ora 17:00 pare foarte festivă.",
+                "en": "Enjoy the early winter evening at the church; the lighting of the building after 17:00 looks very festive."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós túráját kezdje egy kicsit távolabb, a bájos Igreja do Seixalnál. Ez a csendes vidéki egyházközség nyugodt bevezetést nyújt a helyi építészetbe, mielőtt kényelmesen visszavezetne a nyüzsgő központba.\n\nA városba érve parkolja le autóját, hogy felfedezze a Capela de Nossa Senhora Dos Anjost és az impozáns Câmara Municipal-t. A vezetés maximalizálja az idejét, így könnyedén megtapasztalhatja a kultúra arcait.\n\nA délután az Espaço Museológico és a történelmi Pelourinho köré épül. Autóval zökkenőmentesen válthat át ezekből a kulturális csomópontokból a nyílt utakra, kényelmes városnézési tempót tartva fenn.\n\nUtazása egy festői autózással zárul a lenyűgöző Igreja Nossa Senhora da Guiához. Ez a végső úti cél békés menedéket kínál, lehetővé téve, hogy visszatekintsen egy változatos történelmi felfedezésekkel teli napra.",
         "ro": "Începeți turul cu mașina ceva mai departe, la fermecătoarea Igreja do Seixal. Această parohie rurală liniștită oferă o introducere senină în arhitectura locală înainte de a conduce confortabil spre centru.\n\nAjunși în oraș, parcați mașina pentru a explora Capela de Nossa Senhora Dos Anjos și impunătoarea Câmara Municipal. Conducerea maximizează timpul, permițându-vă să experimentați cu ușurință fațetele culturii.\n\nDupă-amiaza se concentrează în jurul Espaço Museológico și o scurtă oprire la istoricul Pelourinho. Cu o mașină, puteți face o tranziție fluidă de la aceste centre culturale la drumurile deschise.\n\nCălătoria dumneavoastră se încheie cu o plimbare pitorească până la impresionanta Igreja Nossa Senhora da Guia. Această destinație finală oferă o retragere pașnică, permițându-vă să reflectați asupra unei zile diverse.",
         "en": "Start your driving tour slightly further afield at the charming Igreja do Seixal. This quiet countryside parish provides a serene introduction to local architecture before you comfortably drive back toward the bustling center of Lourinhã.\n\nArriving in town, park your car to explore the Capela de Nossa Senhora Dos Anjos and the stately Câmara Municipal. Driving between the broader zones of the region maximizes your time, letting you easily experience multiple facets of the local culture.\n\nThe afternoon centers around the Espaço Museológico and a quick stop at the historic Pelourinho. With a car, you can seamlessly transition from these dense cultural hubs to the open roads, maintaining a comfortable and efficient sightseeing pace.\n\nYour road trip concludes with a scenic drive out to the impressive Igreja Nossa Senhora da Guia. This final destination offers a peaceful retreat, allowing you to reflect on a diverse day of historical exploration across the greater Lourinhã area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem im Auto bei der Seixal-Kirche, während der Regen gegen die Scheiben prasselt. Mittags erkunden wir das Rathaus und das Museum, wobei die kurzen Wege zwischen den Parkplätzen das Nass-Werden minimieren. Nachmittags genießen wir die Fahrt zum Pelourinho und Baloiço im Trockenen. Der Abend endet entspannt bei der Guia-Kirche mit Blick auf das regnerische Panorama.",
+            "hu": "A nap kényelmesen, az autóban kezdődik a Seixal-templomnál, miközben az eső a szélvédőn kopog. Délben a városházát és a múzeumot fedezzük fel, a parkolók közötti rövid utak minimalizálják az elázást. Délután szárazon élvezzük az autózást a Pelourinhóhoz és a Baloiçóhoz. Az este békésen zárul a Guia-templomnál, kilátással az esős panorámára.",
+            "ro": "Ziua începe confortabil în mașină la biserica Seixal, în timp ce ploaia bate în parbriz. La prânz explorăm primăria și muzeul, distanțele scurte între parcări minimizând expunerea la ploaie. După-amiaza ne bucurăm de drumul spre Pelourinho și Baloiço la adăpost. Seara se încheie relaxat la biserica Guia, cu vedere la panorama ploioasă.",
+            "en": "The day begins comfortably in the car at the Seixal church while rain patters against the windows. At noon, we explore the Town Hall and the museum, with short walks between parking spots minimizing getting wet. In the afternoon, we enjoy the drive to the Pelourinho and Baloiço in the dry. The evening ends relaxed at the Guia church with a view of the rainy panorama."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja do Seixal",
+                "hu": "Igreja do Seixal",
+                "ro": "Igreja do Seixal",
+                "en": "Igreja do Seixal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; genießen Sie die Architektur, während Sie den Regenschirm griffbereit halten.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; élvezze az építészetet, miközben az esernyőjét készenlétben tartja.",
+                "ro": "Parcați cât mai aproape de intrare; bucurați-vă de arhitectură în timp ce țineți umbrela la îndemână.",
+                "en": "Park as close as possible to the entrance; enjoy the architecture while keeping your umbrella handy."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora Dos Anjos",
+                "hu": "Capela de Nossa Senhora Dos Anjos",
+                "ro": "Capela de Nossa Senhora Dos Anjos",
+                "en": "Capela de Nossa Senhora Dos Anjos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg vom Parkplatz zur Kapelle; die Aussicht aus dem Autofenster ist bei Regen ebenfalls reizvoll.",
+                "hu": "Használja ki a rövid sétát a parkolótól a kápolnáig; az autó ablakából nyíló kilátás esőben is lenyűgöző.",
+                "ro": "Profitați de plimbarea scurtă de la parcare la capelă; vederea de la fereastra mașinii este, de asemenea, încântătoare pe ploaie.",
+                "en": "Take advantage of the short walk from the parking lot to the chapel; the view from the car window is also charming in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal da Lourinhã",
+                "hu": "Câmara Municipal da Lourinhã",
+                "ro": "Câmara Municipal da Lourinhã",
+                "en": "Câmara Municipal da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze in der direkten Umgebung; ideal, um das Rathaus ohne großen Aufwand im Regen zu besichtigen.",
+                "hu": "A közvetlen közelben vannak parkolók; ideális a városháza megtekintéséhez az esőben, különösebb erőfeszítés nélkül.",
+                "ro": "Există parcări în imediata apropiere; ideal pentru a vizita primăria pe ploaie fără prea mult efort.",
+                "en": "There are parking spaces in the immediate vicinity; ideal for visiting the Town Hall in the rain without much effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Museológico da Santa Casa da Lourinhã",
+                "hu": "Espaço Museológico da Santa Casa da Lourinhã",
+                "ro": "Espaço Museológico da Santa Casa da Lourinhã",
+                "en": "Espaço Museológico da Santa Casa da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp, um das Auto kurz zu verlassen; verbringen Sie hier viel Zeit im Trockenen und studieren Sie die Kunst.",
+                "hu": "A tökéletes megálló az autó rövid elhagyásához; töltsön itt sok időt szárazon, és tanulmányozza a művészetet.",
+                "ro": "Oprirea perfectă pentru a părăsi scurt mașina; petreceți mult timp aici la adăpost și studiați arta.",
+                "en": "The perfect stop to briefly leave the car; spend plenty of time here in the dry and study the art."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lourinhã",
+                "hu": "Pelourinho da Lourinhã",
+                "ro": "Pelourinho da Lourinhã",
+                "en": "Pelourinho da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Blick aus dem Wagen oder ein kurzer Sprint nach draußen genügt, um dieses historische Wahrzeichen zu sehen.",
+                "hu": "Egy gyors pillantás a kocsiból vagy egy rövid sprint kifelé elegendő, hogy lássa ezt a történelmi nevezetességet.",
+                "ro": "O privire rapidă din mașină sau un scurt sprint afară este suficient pentru a vedea acest reper istoric.",
+                "en": "A quick look from the car or a short sprint outside is enough to see this historical landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Nossa Senhora da Guia",
+                "hu": "Igreja Nossa Senhora da Guia",
+                "ro": "Igreja Nossa Senhora da Guia",
+                "en": "Igreja Nossa Senhora da Guia"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist auch bei Regen sicher; genießen Sie die spirituelle Atmosphäre, während draußen der Himmel grau ist.",
+                "hu": "A felvezető út esőben is biztonságos; élvezze a spirituális hangulatot, miközben kint szürke az ég.",
+                "ro": "Accesul este sigur și pe ploaie; bucurați-vă de atmosfera spirituală în timp ce afară cerul este gri.",
+                "en": "The access road is safe even in the rain; enjoy the spiritual atmosphere while the sky is grey outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto beginnt die winterliche Tour gemütlich bei der Seixal-Kirche. Mittags erkunden wir Lourinhã und nutzen das Museum als kulturelle Wärmequelle. Nachmittags fahren wir im goldenen Licht der Wintersonne zum Pelourinho und Baloiço. Da es bereits gegen 17:00 Uhr dunkel wird, bietet die Guia-Kirche zum Abschluss einen stimmungsvollen Blick auf das abendliche Lichtermeer.",
+            "hu": "A fűtött autóban a téli túra kényelmesen indul a Seixal-templomnál. Délben felfedezzük Lourinhãt, és a múzeumot használjuk kulturális melegedőként. Délután a téli napsütés aranyfényében autózunk a Pelourinhóhoz és a Baloiçóhoz. Mivel már 17:00 körül sötétedik, a Guia-templom zárásként hangulatos kilátást nyújt az esti fényekre.",
+            "ro": "În mașina încălzită, turul de iarnă începe confortabil la biserica Seixal. La prânz explorăm Lourinhã și folosim muzeul ca sursă culturală de căldură. După-amiaza conducem în lumina aurie a soarelui de iarnă spre Pelourinho și Baloiço. Deoarece se întunecă deja în jur de ora 17:00, biserica Guia oferă la final o vedere atmosferică asupra luminilor de seară.",
+            "en": "In the heated car, the winter tour begins comfortably at the Seixal church. At noon, we explore Lourinhã and use the museum as a cultural source of warmth. In the afternoon, we drive to the Pelourinho and Baloiço in the golden light of the winter sun. Since it gets dark around 17:00, the Guia church offers an atmospheric view of the evening lights at the end."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja do Seixal",
+                "hu": "Igreja do Seixal",
+                "ro": "Igreja do Seixal",
+                "en": "Igreja do Seixal"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung kurz laufen, während Sie die Außenansicht genießen; im Inneren ist es im Winter angenehm ruhig.",
+                "hu": "Hagyja rövid ideig járni a fűtést, amíg a külső nézetben gyönyörködik; odabent télen kellemesen nyugodt a hangulat.",
+                "ro": "Lăsați căldura pornită scurt timp în timp ce admirați exteriorul; în interior este plăcut și liniște iarna.",
+                "en": "Let the heater run briefly while you enjoy the exterior view; inside it is pleasantly quiet in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora Dos Anjos",
+                "hu": "Capela de Nossa Senhora Dos Anjos",
+                "ro": "Capela de Nossa Senhora Dos Anjos",
+                "en": "Capela de Nossa Senhora Dos Anjos"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Blicke vom Parkplatz; ziehen Sie eine Mütze auf, wenn Sie zur Kapelle gehen.",
+                "hu": "A tiszta téli levegő messzi kilátást tesz lehetővé a parkolóból; vegyen sapkát, ha odasétál a kápolnához.",
+                "ro": "Aerul curat de iarnă permite vederi îndepărtate de la parcare; puneți-vă o căciulă când mergeți la capelă.",
+                "en": "The clear winter air allows distant views from the parking lot; put on a hat when you walk to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal da Lourinhã",
+                "hu": "Câmara Municipal da Lourinhã",
+                "ro": "Câmara Municipal da Lourinhã",
+                "en": "Câmara Municipal da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentral, um schnell zwischen den historischen Gebäuden und der Wärme Ihres Wagens zu wechseln.",
+                "hu": "Parkoljon központilag, hogy gyorsan válthasson a történelmi épületek és autója melege között.",
+                "ro": "Parcați central pentru a schimba rapid între clădirile istorice și căldura mașinii dvs.",
+                "en": "Park centrally to switch quickly between the historical buildings and the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Museológico da Santa Casa da Lourinhã",
+                "hu": "Espaço Museológico da Santa Casa da Lourinhã",
+                "ro": "Espaço Museológico da Santa Casa da Lourinhã",
+                "en": "Espaço Museológico da Santa Casa da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Aufwärmstopp am Mittag; nutzen Sie die Zeit, um die sakrale Kunst ausführlich ohne Winterkälte zu bewundern.",
+                "hu": "Ideális melegedőhely délben; használja ki az időt a szakrális művészet részletes megcsodálására a téli hideg nélkül.",
+                "ro": "Oprirea ideală pentru încălzire la prânz; folosiți timpul pentru a admira arta sacră în detaliu, fără frigul iernii.",
+                "en": "The ideal warming stop at noon; use the time to admire the sacred art in detail without the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lourinhã",
+                "hu": "Pelourinho da Lourinhã",
+                "ro": "Pelourinho da Lourinhã",
+                "en": "Pelourinho da Lourinhã"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wird im Winter oft von der tiefstehenden Sonne beleuchtet; ein kurzer Halt für ein Foto lohnt sich sehr.",
+                "hu": "A műemléket télen gyakran megvilágítja az alacsonyan járó nap; egy rövid megálló egy fotóért nagyon megéri.",
+                "ro": "Monumentul este adesea luminat de soarele jos în timpul iernii; o scurtă oprire pentru o fotografie merită din plin.",
+                "en": "The monument is often illuminated by the low sun in winter; a short stop for a photo is very worthwhile."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja Nossa Senhora da Guia",
+                "hu": "Igreja Nossa Senhora da Guia",
+                "ro": "Igreja Nossa Senhora da Guia",
+                "en": "Igreja Nossa Senhora da Guia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr bequem vom Auto aus, bevor Sie die beleuchtete Kirche besichtigen.",
+                "hu": "Élvezze a naplementét 17:00 körül kényelmesen az autóból, mielőtt megtekintené a kivilágított templomot.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 confortabil din mașină, înainte de a vizita biserica iluminată.",
+                "en": "Enjoy the sunset around 17:00 comfortably from the car before visiting the illuminated church."
+              }
+            }
+          ]
+        }
       }
     }
   }

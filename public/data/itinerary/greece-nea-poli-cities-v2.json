@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a történelmi Pythagoreionnál, magába szívva az ókori hangulatot. Délben fedezze fel Eupalinosz mérnöki csodáját és a nyüzsgő Agórát. Délután merüljön el a helyi történelemben az Archeológiai és a Torony Múzeumban. Este egy pihentető séta várja a híres Püthagorasz-szobornál a festői kikötő mentén.",
         "ro": "Începeți dimineața la istoricul Pythagoreion, absorbind vibrațiile antice. La prânz explorați minunea inginerească Eupalinos și Agora aglomerată. După-amiaza vă așteaptă o scufundare în istoria locală la Muzeul de Arheologie și Muzeul Turnului. Seara se încheie cu o plimbare relaxantă spre faimoasa statuie a lui Pitagora.",
         "en": "Start your morning at the historic Pythagoreion, absorbing the ancient vibes. Midday leads you up to the engineering marvel of Eupalinos and the bustling Agora. In the afternoon, immerse yourself in local history at the Archaeological and Tower Museums. Evening brings a relaxing stroll to the iconic Pythagoras Statue by the harbor."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt regnerisch im Hafen, doch die antiken Ruinen strahlen auch bei grauem Himmel Ruhe aus. Mittags bietet der Eupalinos-Tunnel einen perfekten, trockenen Rückzugsort tief im Berg. Am Nachmittag laden die Museen ein, die Schätze der Insel geschützt vor den Schauern zu erkunden. Abends spiegeln sich die Lichter des Hafens malerisch in den Pfützen auf dem Kai.",
+            "hu": "Reggel eső áztatja a kikötőt, de az ókori romok szürke égbolt alatt is méltóságteljesek. Délben az Eupalinosz-alagút nyújt tökéletes, száraz menedéket a hegy gyomrában. Délután a múzeumok tárlatai kínálnak tartalmas kikapcsolódást a záporok elől rejtve. Este a kikötői fények varázslatosan tükröződnek vissza a vizes kövezeten, különleges hangulatot árasztva.",
+            "ro": "Dimineața începe cu ploaie în port, dar ruinele antice emană o liniște aparte chiar și sub cerul gri. La prânz, Tunelul Eupalinos oferă un refugiu perfect și uscat adânc în munte. După-amiaza, muzeele vă invită să explorați comorile insulei protejați de averse. Seara, luminile portului se oglindesc pitoresc în bălțile de pe chei, creând o atmosferă magică.",
+            "en": "Morning starts with rain in the harbor, but the ancient ruins maintain their charm under grey skies. At noon, the Eupalinos Tunnel provides a perfect dry retreat deep within the mountain. In the afternoon, the museums offer a great way to explore local treasures while staying sheltered from the showers. Evening brings a magical atmosphere as harbor lights reflect in the puddles on the quay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pythagoreion",
+                "hu": "Pythagoreion",
+                "ro": "Pythagoreion",
+                "en": "Pythagoreion"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Atmosphäre des Hafens trotz Regen; wasserfeste Schuhe helfen gegen Pfützen auf den historischen Wegen.",
+                "hu": "Élvezze a kikötő hangulatát esőben is; a vízálló cipő segít elkerülni a tócsákat a történelmi kövezeten.",
+                "ro": "Bucurați-vă de atmosfera portului chiar și pe ploaie; pantofii impermeabili vă ajută să evitați bălțile de pe pavajul istoric.",
+                "en": "Enjoy the harbor atmosphere despite the rain; waterproof shoes will help you navigate puddles on the historic paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Bad",
+                "hu": "Római fürdő",
+                "ro": "Băile Romane",
+                "en": "Römisches Bad"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauern glänzen im Regen; Vorsicht auf den Steinstufen, die bei Nässe extrem rutschig werden können.",
+                "hu": "Az ókori falak csillognak az esőben; vigyázzon a kőlépcsőkön, amelyek nedvesen rendkívül csúszóssá válhatnak.",
+                "ro": "Zidurile antice strălucesc în ploaie; atenție la treptele de piatră care pot deveni extrem de alunecoase când sunt ude.",
+                "en": "The ancient walls glisten in the rain; be careful on the stone steps, which can become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel des Eupalinos",
+                "hu": "Eupalinosz alagútja",
+                "ro": "Tunelul lui Eupalinos",
+                "en": "Tunnel of Eupalinos"
+              },
+              "tip_5lang": {
+                "de": "Der Tunnel ist der ideale Zufluchtsort vor dem Regen; drinnen bleibt es trocken, aber der Boden kann feucht sein.",
+                "hu": "Az alagút ideális menedék az eső elől; bent száraz marad az idő, de a talaj nyirkos és csúszós lehet a pára miatt.",
+                "ro": "Tunelul este refugiul ideal împotriva ploii; în interior rămâne uscat, dar podeaua poate fi umedă și alunecoasă.",
+                "en": "The tunnel is the ideal refuge from the rain; it stays dry inside, but the ground can be damp and slippery due to humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Agora",
+                "hu": "Ókori Agóra",
+                "ro": "Agora Antică",
+                "en": "Ancient Agora"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Agora zwischen den Schauern; suchen Sie bei starkem Guss Schutz unter den wenigen erhaltenen Säulengängen.",
+                "hu": "Fedezze fel az Agórát a záporok között; heves esőben keressen menedéket a kevés megmaradt oszlopsor alatt.",
+                "ro": "Explorați Agora între averse; căutați adăpost sub puținele colonade rămase în caz de ploaie torențială.",
+                "en": "Explore the Agora between showers; seek shelter under the few remaining colonnades during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Indoor-Aktivität bei schlechtem Wetter; bewundern Sie die Kouros-Statue völlig trocken und im Warmen.",
+                "hu": "Tökéletes beltéri program rossz idő esetén; csodálja meg a hatalmas Kúrosz-szobrot szárazon és kellemes melegben.",
+                "ro": "Activitatea perfectă de interior pe vreme rea; admirați statuia Kouros la adăpost de ploaie și la căldură.",
+                "en": "The perfect indoor activity for bad weather; admire the massive Kouros statue while staying completely dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm Lycurgus Logothetis Museum",
+                "hu": "Lycurgus Logothetis Toronymúzeum",
+                "ro": "Muzeul Turnului Lycurgus Logothetis",
+                "en": "Tower Lycurgus Logothetis Museum"
+              },
+              "tip_5lang": {
+                "de": "Das massive Mauerwerk bietet Schutz; genießen Sie die historischen Exponate, während draußen der Regen auf die Steine peitscht.",
+                "hu": "A masszív falak védelmet nyújtanak; élvezze a történelmi tárlatot, miközben odakint az eső veri a várkastély köveit.",
+                "ro": "Zidăria masivă oferă protecție; bucurați-vă de exponatele istorice în timp ce afară ploaia bate în pietrele turnului.",
+                "en": "The massive stonework provides protection; enjoy the historical exhibits while the rain lashes the stones outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pythagoras-Statue",
+                "hu": "Püthagorasz-szobor",
+                "ro": "Statuia lui Pitagora",
+                "en": "Pythagoras Statue"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto im Regen; achten Sie auf die rutschigen Fliesen am Denkmal und halten Sie den Schirm fest.",
+                "hu": "Egy rövid megálló egy fotóra az esőben; ügyeljen a csúszós burkolatra az emlékműnél és tartsa erősen az esernyőt.",
+                "ro": "O scurtă oprire pentru o fotografie în ploaie; atenție la plăcile alunecoase de la monument și țineți bine umbrela.",
+                "en": "A short stop for a photo in the rain; watch out for slippery tiles at the monument and hold your umbrella tight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Hafen erfordert warme Kleidung, bietet aber kristallklare Sicht auf die Ägäis. Mittags wärmt die milde Sonne beim Rundgang durch die antiken Stätten. Am Nachmittag bieten die Museen angenehme Wärme vor dem frühen Sonnenuntergang gegen 17 Uhr. Der Abend klingt gemütlich in der ruhigen Atmosphäre des winterlichen Ortes aus.",
+            "hu": "A friss téli reggel a kikötőben réteges öltözetet kíván, de kristálytiszta kilátást nyújt az Égei-tengerre. Délben a lágy napsütésben élvezetes az ókori romok bejárása. Délután a múzeumok melege hívogat a korai, 17 órai naplemente előtt. Az este békésen és csendesen telik a turisták nélküli, autentikus görög kisvárosban.",
+            "ro": "O dimineață răcoroasă de iarnă în port necesită haine groase, dar oferă vederi clare asupra mării Egee. La prânz, soarele blând face plimbarea prin siturile antice foarte plăcută. După-amiaza, muzeele oferă căldură înainte de apusul devreme de la ora 17:00. Seara se încheie liniștit în atmosfera autentică a orașului de iarnă.",
+            "en": "A crisp winter morning at the harbor requires warm layers but offers crystal-clear views of the Aegean. At noon, the mild Mediterranean sun warms your walk through the ancient sites. In the afternoon, the museums provide a cozy escape before the early sunset around 17:00. The evening ends peacefully in the quiet, authentic atmosphere of the winter season."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pythagoreion",
+                "hu": "Pythagoreion",
+                "ro": "Pythagoreion",
+                "en": "Pythagoreion"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen wirkt im Winter ruhig und mystisch; eine winddichte Jacke ist für den kühlen Meereswind unbedingt erforderlich.",
+                "hu": "A kikötő télen csendes és misztikus; egy szélálló dzseki elengedhetetlen a hűvös tengeri szél miatt.",
+                "ro": "Portul pare liniștit și mistic iarna; o jachetă rezistentă la vânt este absolut necesară pentru briza rece a mării.",
+                "en": "The harbor feels quiet and mystical in winter; a windproof jacket is essential for the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Bad",
+                "hu": "Római fürdő",
+                "ro": "Băile Romane",
+                "en": "Römisches Bad"
+              },
+              "tip_5lang": {
+                "de": "Die Thermen im Winterlicht zu sehen ist einzigartig; tragen Sie mehrere Schichten, da es zwischen den Ruinen zugig sein kann.",
+                "hu": "A fürdő megtekintése a téli fényben egyedülálló; öltözzön rétegesen, mert a romok között huzatos lehet az idő.",
+                "ro": "Vizitarea băilor în lumina iernii este unică; purtați mai multe straturi, deoarece între ruine poate fi curent.",
+                "en": "Seeing the baths in winter light is unique; wear layers as it can be drafty among the open ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel des Eupalinos",
+                "hu": "Eupalinosz alagútja",
+                "ro": "Tunelul lui Eupalinos",
+                "en": "Tunnel of Eupalinos"
+              },
+              "tip_5lang": {
+                "de": "In der Tiefe des Berges ist die Temperatur konstant und mild; eine tolle Aktivität, wenn es draußen zu windig wird.",
+                "hu": "A hegy mélyén a hőmérséklet állandó és enyhe; kiváló program, ha odakint túl szelesre fordulna az időjárás.",
+                "ro": "În adâncul muntelui temperatura este constantă și blândă; o activitate grozavă dacă afară devine prea vântos.",
+                "en": "Deep in the mountain, the temperature is constant and mild; a great activity if it gets too windy outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Agora",
+                "hu": "Ókori Agóra",
+                "ro": "Agora Antică",
+                "en": "Ancient Agora"
+              },
+              "tip_5lang": {
+                "de": "Die weite Anlage wirkt im Winter sehr einsam; nutzen Sie das Tageslicht für Fotos vor dem frühen Abend um 17 Uhr.",
+                "hu": "A tágas terület télen magányosnak és hatalmasnak hat; használja ki a napfényt a fotózáshoz a korai sötétedés előtt.",
+                "ro": "Zona vastă pare foarte singuratică iarna; profitați de lumina zilei pentru fotografii înainte de seara timpurie de la ora 17.",
+                "en": "The vast site feels very lonely in winter; use the daylight for photos before the early evening sets in at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte in den gut temperierten Ausstellungsräumen; ideal für den späten Nachmittag vor dem Frost.",
+                "hu": "Meneküljön el a téli hideg elől a jól temperált kiállítótermekbe; ideális program a késő délutáni órákra.",
+                "ro": "Evadați de frigul iernii în sălile de expoziție bine încălzite; ideal pentru după-amiaza târzie înainte de îngheț.",
+                "en": "Escape the winter cold in the well-tempered exhibition rooms; ideal for the late afternoon hours before the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm Lycurgus Logothetis Museum",
+                "hu": "Lycurgus Logothetis Toronymúzeum",
+                "ro": "Muzeul Turnului Lycurgus Logothetis",
+                "en": "Tower Lycurgus Logothetis Museum"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Festungsmauern halten die Kälte gut ab; ein geschichtsträchtiger Ort für die letzten Stunden vor Sonnenuntergang.",
+                "hu": "A vastag várfalak jól felfogják a hideget; történelemmel teli helyszín a naplemente előtti utolsó világos órákra.",
+                "ro": "Zidurile groase ale cetății țin bine frigul; un loc plin de istorie pentru ultimele ore înainte de apus.",
+                "en": "The thick fortress walls keep the cold out well; a history-steeped place for the last hours before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Pythagoras-Statue",
+                "hu": "Püthagorasz-szobor",
+                "ro": "Statuia lui Pitagora",
+                "en": "Pythagoras Statue"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Statue zum Sonnenuntergang um 17 Uhr; die tiefstehende Sonne beleuchtet Pythagoras eindrucksvoll.",
+                "hu": "Látogassa meg a szobrot a 17 órás naplementére; az alacsonyan járó nap lenyűgözően világítja meg Püthagoraszt.",
+                "ro": "Vizitați statuia la timp pentru apusul de la ora 17; soarele jos îl luminează impresionant pe Pitagora.",
+                "en": "Visit the statue in time for the 17:00 sunset; the low sun illuminates Pythagoras impressively."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Reggeli kerékpározása az ókori alagút aknáinál és a kulturális színháznál kezdődik. Délben a híres Eupalinosz-alagút és a történelmi temető felé veszi az irányt. Délután kényelmesen eltekerhet az Archeológiai Múzeumhoz. Az esti biciklizés a festői kikötő szélén álló Püthagorasz-szoborhoz vezet.",
         "ro": "Cursa de dimineață începe la înălțimile puțurilor antice și la Teatrul cultural. La prânz mergeți spre faimosul tunel Eupalinos și cimitirul istoric. După-amiaza pedalați confortabil către Muzeul Arheologic pentru contextul local bogat. O cursă de seară vă conduce la Statuia lui Pitagora de la marginea portului pitoresc.",
         "en": "Your morning ride starts at the heights of the ancient tunnel shafts and the cultural Theatre. Midday shifts gears to the renowned Eupalinos Tunnel and historic cemetery. In the afternoon, pedal comfortably to the Archaeological Museum for rich local context. An evening cycle leads you down to the Pythagoras Statue at the edge of the scenic harbor."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour durch Nea Poli eine erfrischende Perspektive. Der Morgen erfordert volle Regenbekleidung für die Fahrt zu den Tunneln. Mittags dient der Eupalinos-Tunnel als willkommener trockener Stopp. Am Nachmittag geht es vorsichtig auf nassen Straßen zum Museum. Der Abend endet mit einer kurzen Fahrt durch den glänzenden Hafen.",
+            "hu": "Az eső ellenére a kerékpártúra Nea Poliban frissítő élményt nyújt. A reggel teljes esőfelszerelést kíván az alagutakhoz vezető úton. Délben az Eupalinosz-alagút belső része száraz pihenőt biztosít. Délután óvatosan, a vizes utakra figyelve tekerünk a múzeumhoz. Az este a fénylő kikötői parton tett rövid gurulással zárul.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin Nea Poli oferă o perspectivă revigorantă. Dimineața necesită echipament complet de ploaie pentru drumul spre tuneluri. La prânz, Tunelul Eupalinos servește ca oprire uscată binevenită. După-amiaza pedalăm cu atenție pe drumurile ude spre muzeu. Seara se încheie cu o scurtă plimbare prin portul strălucitor.",
+            "en": "Despite the rain, the bike tour through Nea Poli offers a refreshing perspective. Morning requires full rain gear for the ride to the tunnels. At noon, the Eupalinos Tunnel serves as a welcome dry stop for a break. In the afternoon, cycle carefully on wet roads towards the museum. The evening ends with a short ride through the glistening harbor area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eupalinos Tunnelschacht",
+                "hu": "Eupalinosz alagút akna",
+                "ro": "Puțul Tunelului Eupalinos",
+                "en": "Eupalinos Tunnel Shaft"
+              },
+              "tip_5lang": {
+                "de": "Der Schacht ist bei Regen oft matschig; tragen Sie wasserfeste Kleidung und achten Sie auf sicheren Stand am Abhang.",
+                "hu": "Az akna esőben gyakran sáros; viseljen vízálló ruházatot és ügyeljen a stabil állásra a rézsűnél.",
+                "ro": "Puțul este adesea noroios pe ploaie; purtați haine impermeabile și aveți grijă la stabilitate pe pante.",
+                "en": "The shaft area is often muddy in the rain; wear waterproof clothing and ensure firm footing on the slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater des Pythagoreion",
+                "hu": "Pythagoreion színháza",
+                "ro": "Teatrul din Pythagoreion",
+                "en": "Theatre of the Pythagoreion"
+              },
+              "tip_5lang": {
+                "de": "Das offene Theater ist dem Wetter ausgesetzt; ein kurzer Stopp reicht aus, achten Sie auf glatte Steine beim Gehen.",
+                "hu": "A nyitott színház ki van téve az időjárásnak; egy rövid megálló is elég, ügyeljen a csúszós kövekre sétálás közben.",
+                "ro": "Teatrul deschis este expus vremii; o scurtă oprire este suficientă, atenție la pietrele alunecoase în timp ce mergeți.",
+                "en": "The open theater is exposed to the elements; a short stop is enough, watch out for slippery stones while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel des Eupalinos",
+                "hu": "Eupalinosz alagútja",
+                "ro": "Tunelul lui Eupalinos",
+                "en": "Tunnel of Eupalinos"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher ab; der Tunnel ist der perfekte Ort, um einen heftigen Regenschauer trocken abzuwarten.",
+                "hu": "Támassza le biztonságosan a kerékpárt; az alagút tökéletes helyszín, hogy szárazon megvárjuk egy hevesebb zápor végét.",
+                "ro": "Parcați bicicleta în siguranță; tunelul este locul perfect pentru a aștepta trecerea unei averse torențiale la adăpost.",
+                "en": "Park your bike securely; the tunnel is the perfect place to wait out a heavy rain shower while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Frühchristlicher Friedhof",
+                "hu": "Ókeresztény temető",
+                "ro": "Cimitirul Creștin Timpuriu",
+                "en": "Early Christian Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Eine friedliche Stätte im Regen; wasserfeste Schuhe sind wegen des aufgeweichten Bodens auf den Pfaden ratsam.",
+                "hu": "Békés helyszín az esőben; a vízálló cipő ajánlott a felázott talaj miatt a sírok közötti ösvényeken.",
+                "ro": "Un loc pașnic pe ploaie; pantofii impermeabili sunt recomandați din cauza solului înmuiat de pe poteci.",
+                "en": "A peaceful site in the rain; waterproof shoes are recommended due to the softened ground on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen und Trocknen; die Ausstellungsstücke sind ein Highlight bei jedem Wetter.",
+                "hu": "Használja ki a múzeumlátogatást a bemelegedésre és száradásra; a kiállítás minden időben lenyűgöző.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi și usca; exponatele sunt un punct culminant pe orice vreme.",
+                "en": "Use the museum visit to warm up and dry off; the exhibits are a highlight regardless of the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Pythagoras-Statue",
+                "hu": "Püthagorasz-szobor",
+                "ro": "Statuia lui Pitagora",
+                "en": "Pythagoras Statue"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf den nassen Fliesen; ein kurzes Foto im Regen rundet die Tour am Hafen ab.",
+                "hu": "Vigyázzon a leszálláskor a vizes burkolaton; egy rövid fotó az esőben stílusosan zárja a kikötői túrát.",
+                "ro": "Atenție la coborârea de pe bicicletă pe plăcile ude; o scurtă fotografie în ploaie încheie turul în port.",
+                "en": "Be careful when dismounting on the wet tiles; a quick photo in the rain completes the tour at the harbor."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Radtour im Winter ist erfrischend und ohne Verkehrslärm. Der Morgen beginnt mit kühlem Wind, daher ist Thermokleidung wichtig. Mittags genießen Sie die einsamen Wege unter der klaren Mittelmeersonne. Am Nachmittag bietet das Museum Schutz vor der sinkenden Temperatur. Die Tour endet pünktlich zum Sonnenuntergang um 17 Uhr am malerischen Hafen.",
+            "hu": "A téli kerékpártúra frissítő és mentes a forgalom zajától. A reggel hűvös széllel indul, ezért a termoruházat fontos. Délben az elhagyatott utakat élvezhetjük a tiszta mediterrán napsütésben. Délután a múzeum nyújt védelmet a süllyedő hőmérséklet elől. A túra pontosan a 17 órai naplementére ér véget a festői kikötőben.",
+            "ro": "Turul cu bicicleta iarna este revigorant și lipsit de zgomotul traficului. Dimineața începe cu vânt rece, deci îmbrăcămintea termică este importantă. La prânz, bucurați-vă de drumurile pustii sub soarele clar mediteranean. După-amiaza, muzeul oferă protecție împotriva temperaturii în scădere. Turul se încheie fix la apusul de la ora 17 în portul pitoresc.",
+            "en": "The winter bike tour is refreshing and free from traffic noise. Morning starts with a cool breeze, so thermal clothing is important. At noon, enjoy the deserted paths under the clear Mediterranean sun. In the afternoon, the museum provides shelter from the dropping temperature. The tour ends exactly at the 17:00 sunset by the picturesque harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eupalinos Tunnelschacht",
+                "hu": "Eupalinosz alagút akna",
+                "ro": "Puțul Tunelului Eupalinos",
+                "en": "Eupalinos Tunnel Shaft"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft macht den Aufstieg erfrischend; ziehen Sie sich warm an, da es auf dem Hügel recht windig ist.",
+                "hu": "A hűvös téli levegő frissítővé teszi a feljutást; öltözzön melegen, mert a dombtetőn elég szeles az idő.",
+                "ro": "Aerul rece de iarnă face urcarea răcoritoare; îmbrăcați-vă gros, deoarece pe vârful dealului este destul de vânt.",
+                "en": "The cool winter air makes the ascent refreshing; dress warmly as it is quite windy up on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater des Pythagoreion",
+                "hu": "Pythagoreion színháza",
+                "ro": "Teatrul din Pythagoreion",
+                "en": "Theatre of the Pythagoreion"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Meer; ein Schal schützt Sie vor der kalten Brise in den oberen Rängen.",
+                "hu": "Élvezze a tágas kilátást a téli tengerre; egy sál megvédi a hideg fuvallattól a nézőtér felső soraiban.",
+                "ro": "Bucurați-vă de priveliștea vastă asupra mării de iarnă; un fular vă protejează de briza rece în rândurile de sus.",
+                "en": "Enjoy the wide view over the wintry sea; a scarf will protect you from the cold breeze in the upper tiers."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel des Eupalinos",
+                "hu": "Eupalinosz alagútja",
+                "ro": "Tunelul lui Eupalinos",
+                "en": "Tunnel of Eupalinos"
+              },
+              "tip_5lang": {
+                "de": "Im Tunnel ist es im Winter angenehm mild; nutzen Sie den Aufenthalt für eine Pause von der kühlen Außenluft.",
+                "hu": "Az alagútban télen kellemesen enyhe a levegő; használja ki a látogatást egy kis pihenőre a hűvös kinti szél után.",
+                "ro": "În tunel este plăcut de cald iarna; folosiți vizita pentru o pauză de la aerul rece de afară.",
+                "en": "It is pleasantly mild in the tunnel during winter; use the visit for a break from the cool outside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Frühchristlicher Friedhof",
+                "hu": "Ókeresztény temető",
+                "ro": "Cimitirul Creștin Timpuriu",
+                "en": "Early Christian Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Gräber in der Stille des Winters; die tiefstehende Sonne sorgt für eine ganz besondere Atmosphäre.",
+                "hu": "Fedezze fel a sírokat a téli csendben; az alacsony napállás hosszú árnyékokat és különleges hangulatot áraszt.",
+                "ro": "Explorați mormintele în liniștea iernii; soarele jos creează umbre lungi și o atmosferă foarte specială.",
+                "en": "Explore the graves in the silence of winter; the low sun creates long shadows and a very special atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul Arheologic",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um sich am Nachmittag aufzuwärmen; genießen Sie die antike Kunst in beheizten Räumen.",
+                "hu": "Ideális hely a délutáni bemelegedésre; élvezze az ókori művészetet a fűtött és csendes termekben.",
+                "ro": "Locul ideal pentru a vă încălzi după-amiaza; bucurați-vă de arta antică în săli bine încălzite.",
+                "en": "The ideal place to warm up in the afternoon; enjoy ancient art in heated and quiet rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Pythagoras-Statue",
+                "hu": "Püthagorasz-szobor",
+                "ro": "Statuia lui Pitagora",
+                "en": "Pythagoras Statue"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour pünktlich zum Sonnenuntergang um 17 Uhr; das Winterlicht am Hafen ist spektakulär für Fotos.",
+                "hu": "Zárja a túrát pontosan a 17 órás naplementére; a téli fények a kikötőben látványosak a fotózáshoz.",
+                "ro": "Încheiați turul fix la apusul de la ora 17; lumina de iarnă din port este spectaculoasă pentru fotografii.",
+                "en": "Finish your tour right at the 17:00 sunset; the winter light at the harbor is spectacular for photos."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Vezessen fel a lenyűgöző ókori bányákhoz és alagútaknákhoz, hogy a régiségek felfedezésével kezdje a reggelt. Délben ereszkedjen le a klasszikus színházhoz és a lenyűgöző Eupalinosz-alagúthoz. Töltse a délutánt a hadtörténet megismerésével a Lycurgus Logothetis toronyban. Zárja az estét egy csodálatos naplementével a Pythagorio strandon.",
         "ro": "Conduceți la minele antice și la puțurile tunelului pentru a începe dimineața explorând antichitatea. La prânz coborâți spre Teatrul clasic și impresionantul tunel Eupalinos. Petreceți după-amiaza scufundându-vă în istoria militară la Turnul Lycurgus Logothetis. Încheiați seara cu un apus superb la plaja Pythagorio.",
         "en": "Drive up to the fascinating ancient mines and tunnel shafts to start your morning exploring antiquity. Midday brings you down to the classic Theatre and the impressive Eupalinos Tunnel. Spend your afternoon diving into military history at the Tower Lycurgus Logothetis. Wind down your evening with a gorgeous sunset and swim at Pythagorio beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Nea Poli bequem und trocken. Der Morgen führt Sie zu den antiken Minen, die perfekten Schutz bieten. Mittags geht es weiter zum Eupalinos-Tunnel, während es draußen regnet. Am Nachmittag besuchen Sie das Museum und den Turm, ohne nass zu werden. Der Abend endet mit einem Blick auf den wilden, regnerischen Strand vom warmen Wagen aus.",
+            "hu": "Autóval kényelmesen és szárazon fedezhetjük fel Nea Polit. A reggel az ókori bányákhoz vezet, amelyek tökéletes védelmet nyújtanak. Délben az Eupalinosz-alagút felé vesszük az irányt, miközben odakint esik. Délután a múzeumot és a tornyot látogatjuk meg ázás nélkül. Az este a vad, esős tengerpart látványával zárul a meleg autóból.",
+            "ro": "Cu mașina explorați Nea Poli confortabil și uscat. Dimineața vă conduce la minele antice care oferă protecție perfectă. La prânz continuați spre Tunelul Eupalinos în timp ce afară plouă. După-amiaza vizitați muzeul și turnul fără să vă udați. Seara se încheie cu o vedere asupra plajei sălbatice și ploioase din mașina caldă.",
+            "en": "By car, you explore Nea Poli comfortably and stay dry. Morning leads you to the ancient mines, which provide perfect shelter. At noon, continue to the Eupalinos Tunnel while it rains outside. In the afternoon, visit the museum and the tower without getting wet. The evening ends with a view of the wild, rainy beach from the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antike Sandsteinmine",
+                "hu": "Ősi homokkőbánya",
+                "ro": "Mina Antică de Gresie",
+                "en": "Ancient Sandstone Mine"
+              },
+              "tip_5lang": {
+                "de": "Die Minen bieten perfekten Schutz vor Regen; drinnen ist es trocken, aber bringen Sie eine Taschenlampe mit.",
+                "hu": "A bányák tökéletes védelmet nyújtanak az eső ellen; bent száraz az idő, de vigyen zseblámpát a jobb láthatóságért.",
+                "ro": "Minele oferă protecție perfectă împotriva ploii; în interior este uscat, dar aduceți o lanternă cu dvs.",
+                "en": "The mines provide perfect protection from rain; it is dry inside, but bring a flashlight for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Kalksteinmine Aijades",
+                "hu": "Aijades ősi mészkőbánya",
+                "ro": "Mina antică de calcar Aijades",
+                "en": "Aijades ancient limestone mine"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Rückzugsort bei schlechtem Wetter; genießen Sie die kühle, aber trockene Höhlenatmosphäre.",
+                "hu": "Nagyszerű menedék rossz idő esetén; élvezze a hűvös, de száraz barlangi atmoszférát a mészkősziklák között.",
+                "ro": "Un refugiu minunat pe vreme rea; bucurați-vă de atmosfera răcoroasă, dar uscată a peșterii.",
+                "en": "A great retreat in bad weather; enjoy the cool but dry cave atmosphere among the limestone rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Eupalinos Tunnelschacht",
+                "hu": "Eupalinosz alagút akna",
+                "ro": "Puțul Tunelului Eupalinos",
+                "en": "Eupalinos Tunnel Shaft"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz ist es nur ein kurzer, eventuell matschiger Weg; wasserfeste Schuhe sind hier sehr hilfreich.",
+                "hu": "A parkolótól csak rövid, de esetleg sáros út vezet az aknához; a vízálló cipő itt nagyon hasznos lesz.",
+                "ro": "De la parcare este doar un drum scurt, posibil noroios; pantofii impermeabili sunt foarte utili aici.",
+                "en": "From the parking area, it's only a short, possibly muddy walk; waterproof shoes are very helpful here."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater des Pythagoreion",
+                "hu": "Pythagoreion színháza",
+                "ro": "Teatrul din Pythagoreion",
+                "en": "Theatre of the Pythagoreion"
+              },
+              "tip_5lang": {
+                "de": "Das Theater ist dem Regen ausgesetzt; ein kurzer Stopp für den Ausblick reicht bei schlechtem Wetter völlig aus.",
+                "hu": "A színház ki van téve az esőnek; egy rövid megálló a kilátásért bőven elég rossz idő esetén.",
+                "ro": "Teatrul este expus ploii; o scurtă oprire pentru priveliște este suficientă pe vreme rea.",
+                "en": "The theater is exposed to the rain; a short stop for the view is quite enough in bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel des Eupalinos",
+                "hu": "Eupalinosz alagútja",
+                "ro": "Tunelul lui Eupalinos",
+                "en": "Tunnel of Eupalinos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gelegenheit, tief in den Berg einzutauchen und dem Regen für eine Stunde komplett zu entfliehen.",
+                "hu": "Használja ki az alkalmat, hogy mélyen a hegy alá merüljön, és egy órára teljesen elmeneküljön az eső elől.",
+                "ro": "Profită de ocazia de a pătrunde adânc în munte și de a scăpa complet de ploaie timp de o oră.",
+                "en": "Take the opportunity to dive deep into the mountain and escape the rain completely for an hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm Lycurgus Logothetis Museum",
+                "hu": "Lycurgus Logothetis Toronymúzeum",
+                "ro": "Muzeul Turnului Lycurgus Logothetis",
+                "en": "Tower Lycurgus Logothetis Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum im Turm ist ein idealer Indoor-Stopp; die massiven Mauern lassen den Regen draußen vergessen.",
+                "hu": "A toronyban lévő múzeum ideális beltéri állomás; a masszív falak között teljesen elfelejthetjük a kinti esőt.",
+                "ro": "Muzeul din turn este o oprire ideală de interior; zidurile masive vă fac să uitați de ploaia de afară.",
+                "en": "The museum in the tower is an ideal indoor stop; the massive walls make you forget the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pythagorio Strand",
+                "hu": "Pythagorio strand",
+                "ro": "Plaja Pythagorio",
+                "en": "Pythagorio beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick aufs Meer vom trockenen Auto aus; der Strand wirkt bei Regen wild und verlassen, ideal für Fotos.",
+                "hu": "Egy rövid pillantás a tengerre a száraz autóból; a strand az esőben vadnak és elhagyatottnak tűnik, fotózáshoz kiváló.",
+                "ro": "O scurtă privire spre mare din mașina uscată; plaja pare sălbatică și părăsită pe ploaie, ideală pentru fotografii.",
+                "en": "A short look at the sea from your dry car; the beach looks wild and deserted in the rain, great for photos."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist die Autofahrt durch Samos entspannt und aussichtsreich. Der Morgen beginnt an den historischen Minen, wo es angenehm mild ist. Mittags erkunden Sie die Tunnel und das Theater bei klarer Winterluft. Am Nachmittag wärmen Sie sich in den Museen auf, bevor die Sonne um 17 Uhr untergeht. Der Tag endet ruhig am winterlichen Strand mit Blick auf das weite Meer.",
+            "hu": "Télen az autós túra Szamosz szigetén nyugodt és látványos. A reggel a történelmi bányáknál indul, ahol kellemesen enyhe az idő. Délben az alagutakat és a színházat fedezzük fel a tiszta téli levegőben. Délután a múzeumokban melegedhetünk fel a 17 órai naplemente előtt. A nap csendesen zárul a téli strandon, kilátással a végtelen tengerre.",
+            "ro": "Iarna, călătoria cu mașina prin Samos este relaxată și pitorească. Dimineața începe la minele istorice, unde este plăcut de cald. La prânz explorați tunelurile și teatrul în aerul clar de iarnă. După-amiaza vă încălziți în muzee înainte ca soarele să apună la ora 17. Ziua se încheie liniștit pe plaja de iarnă cu vedere spre mare.",
+            "en": "In winter, driving through Samos is relaxed and scenic. Morning starts at the historical mines, where it's pleasantly mild. At noon, explore the tunnels and the theater in the clear winter air. In the afternoon, warm up in the museums before the sun sets at 17:00. The day ends quietly at the wintry beach with a view of the vast sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antike Sandsteinmine",
+                "hu": "Ősi homokkőbánya",
+                "ro": "Mina Antică de Gresie",
+                "en": "Ancient Sandstone Mine"
+              },
+              "tip_5lang": {
+                "de": "In der Mine herrschen angenehm milde Temperaturen; ideal, um der winterlichen Kälte für eine Weile zu entkommen.",
+                "hu": "A bányában kellemesen enyhe a hőmérséklet; ideális, hogy egy időre elmeneküljünk a kinti téli hideg elől.",
+                "ro": "În mină predomină temperaturi plăcut de blânde; ideal pentru a evada de frigul iernii pentru o vreme.",
+                "en": "Pleasantly mild temperatures prevail in the mine; ideal for escaping the winter cold for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Kalksteinmine Aijades",
+                "hu": "Aijades ősi mészkőbánya",
+                "ro": "Mina antică de calcar Aijades",
+                "en": "Aijades ancient limestone mine"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Mine ohne sommerliche Hitze; ziehen Sie sich jedoch fest an, da es in den Gängen kühl sein kann.",
+                "hu": "Fedezze fel a bányát a nyári hőség nélkül; öltözzön azonban rétegesen, mert a járatokban hűvös lehet a levegő.",
+                "ro": "Explorați mina fără căldura verii; totuși, îmbrăcați-vă bine, deoarece poate fi răcoare în galerii.",
+                "en": "Explore the mine without the summer heat; however, dress warmly as it can be cool in the passages."
+              }
+            },
+            {
+              "name": {
+                "de": "Eupalinos Tunnelschacht",
+                "hu": "Eupalinosz alagút akna",
+                "ro": "Puțul Tunelului Eupalinos",
+                "en": "Eupalinos Tunnel Shaft"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und beleuchtet die Landschaft um den Schacht herrlich; winddichte Jacke nicht vergessen.",
+                "hu": "A téli nap alacsonyan jár és csodásan világítja meg az akna környékét; ne felejtse otthon a szélálló dzsekit.",
+                "ro": "Soarele de iarnă stă jos și luminează superb peisajul din jurul puțului; nu uitați jacheta rezistentă la vânt.",
+                "en": "The winter sun is low and beautifully illuminates the landscape around the shaft; don't forget your windproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Theater des Pythagoreion",
+                "hu": "Pythagoreion színháza",
+                "ro": "Teatrul din Pythagoreion",
+                "en": "Theatre of the Pythagoreion"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort im Winter; genießen Sie die Ruhe und den weiten Blick über das Meer ohne die Touristenmassen.",
+                "hu": "Magányos helyszín télen; élvezze a csendet és a tágas kilátást a tengerre a turistaáradat nélkül.",
+                "ro": "Un loc solitar iarna; bucurați-vă de liniște și de vederea largă asupra mării fără masele de turiști.",
+                "en": "A lonely spot in winter; enjoy the silence and the wide view over the sea without the usual tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel des Eupalinos",
+                "hu": "Eupalinosz alagútja",
+                "ro": "Tunelul lui Eupalinos",
+                "en": "Tunnel of Eupalinos"
+              },
+              "tip_5lang": {
+                "de": "Der Aufenthalt im Tunnel ist im Winter besonders angenehm, da es dort deutlich wärmer als draußen im Wind ist.",
+                "hu": "Az alagútban tartózkodni télen különösen kellemes, mivel ott jóval melegebb van, mint odakint a szélben.",
+                "ro": "Șederea în tunel este deosebit de plăcută iarna, deoarece acolo este mult mai cald decât afară în vânt.",
+                "en": "Staying in the tunnel is especially pleasant in winter, as it is much warmer there than outside in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm Lycurgus Logothetis Museum",
+                "hu": "Lycurgus Logothetis Toronymúzeum",
+                "ro": "Muzeul Turnului Lycurgus Logothetis",
+                "en": "Tower Lycurgus Logothetis Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen am späten Nachmittag, bevor Sie zum Sonnenuntergang aufbrechen.",
+                "hu": "Használja ki a múzeumlátogatást a délutáni bemelegedésre, mielőtt útnak indulna a naplemente megtekintésére.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi după-amiaza târziu, înainte de a pleca spre apus.",
+                "en": "Use the museum visit to warm up in the late afternoon before heading out to watch the sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Pythagorio Strand",
+                "hu": "Pythagorio strand",
+                "ro": "Plaja Pythagorio",
+                "en": "Pythagorio beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strandspaziergang ist im Winter sehr erfrischend; ziehen Sie sich winddicht an, um die Meeresluft zu genießen.",
+                "hu": "A tengerparti séta télen nagyon frissítő; öltözzön szélállóan, hogy nyugodtan élvezhesse a tiszta tengeri levegőt.",
+                "ro": "Plimbarea pe plajă este foarte răcoritoare iarna; îmbrăcați-vă cu haine rezistente la vânt pentru a vă bucura de aer.",
+                "en": "A beach walk is very refreshing in winter; dress in windproof clothes to enjoy the fresh sea air comfortably."
+              }
+            }
+          ]
+        }
       }
     }
   }

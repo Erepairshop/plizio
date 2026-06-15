@@ -137,6 +137,168 @@
         "hu": "A reggel Xeraco történelmi szívében kezdődik. A La Cisternánál indulunk, megcsodálva a hagyományos vízmérnöki munkát, majd a Casa de la Cultura helyi művészetében gyönyörködünk.\n\nDélben egy rövid séta a békés Ermita del Crist de l'Agonia felé vezet, amely tökéletes pillanatot nyújt a kikapcsolódásra, mielőtt beülnénk egy helyi kávézóba tapasozni.\n\nDélután meglátogatjuk az Agermanament amb Bruguières szimbolikus emlékművét, amely a határokon átnyúló barátságot ünnepli, összekötve a város múltját európai identitásával.\n\nAz este közeledtével elsétálunk az Observatori Ocells Marjal felé. A lenyugvó nap aranyba öltözteti a mocsarat, lélegzetelállító és békés befejezést nyújtva a napnak.",
         "ro": "Dimineața începe în inima istorică din Xeraco. Pornim de la La Cisterna, admirând ingineria tradițională a apei, înainte de a ne bucura de arta locală la Casa de la Cultura.\n\nLa prânz, o scurtă plimbare ne duce la Ermita del Crist de l'Agonia. Fațada sa liniștită oferă un moment perfect de reflecție înainte de a găsi o cafenea locală confortabilă pentru niște tapas.\n\nDupă-amiaza, vizităm monumentul simbolic Agermanament amb Bruguières, care celebrează prietenia transfrontalieră, conectând trecutul orașului cu identitatea sa europeană modernă.\n\nPe măsură ce se apropie seara, mergem spre Observatori Ocells Marjal. Soarele la apus pictează mlaștinile în auriu, oferind un final uluitor și pașnic.",
         "en": "Morning begins in the historical heart of Xeraco. We start at La Cisterna, marveling at traditional water engineering, before soaking in local arts at the Casa de la Cultura.\n\nBy midday, a short stroll brings us to the Ermita del Crist de l'Agonia. Its quiet facade offers a perfect moment of reflection before finding a cozy local café nearby for some tapas.\n\nIn the afternoon, we visit the symbolic Agermanament amb Bruguières monument, celebrating cross-border friendship, connecting the town’s past to its modern European identity.\n\nAs evening approaches, we walk outwards to the Observatori Ocells Marjal. The setting sun paints the marshlands in gold, providing a breathtaking and peaceful finale as the local birds settle down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der historischen Zisterne, wo das Echo der Regentropfen eine besondere Atmosphäre schafft. Mittags bietet das Kulturhaus einen warmen und trockenen Zufluchtsort für Kunstliebhaber.\n\nAm Nachmittag nutzen wir Regenpausen für kurze Wege zwischen den Denkmälern. Der weiche Boden glänzt im nassen Grau.\n\nAbends erreichen wir das Vogelobservatorium im Sumpfgebiet, das uns ein festes Dach bietet, während wir die Natur beobachten. Die feuchte Luft duftet intensiv nach Erde.",
+            "hu": "A reggelt a történelmi ciszterna védelmében kezdjük, ahol az eső kopogása különleges visszhangot ad a falaknak. Délben a Casa de la Cultura nyújt száraz menedéket a kiállításai között.\n\nDélután a rövidebb kinti szakaszokon érdemes ernyőt használni, a csúszós macskaköveken pedig óvatosan lépkedni. A táj ilyenkor mélyebb színeket ölt.\n\nEste a mocsárvidék madármegfigyelőjében kötünk ki, amely fedett kilátást biztosít a vadonra. Az eső utáni friss illat belengi az egész környéket.",
+            "ro": "Dimineața începe la adăpost în cisterna istorică, unde ecoul picăturilor de ploaie creează o atmosferă aparte. La prânz, Casa de la Cultura oferă un refugiu cald și uscat pentru iubitorii de artă.\n\nDupă-amiaza profităm de pauzele dintre averse pentru scurte plimbări între monumente. Atenție la pavajul umed care poate deveni alunecos.\n\nSeara ajungem la observatorul de păsări din mlaștină, care ne oferă un acoperiș solid în timp ce admirăm natura. Aerul umed accentuează mirosul proaspăt al pământului.",
+            "en": "The morning starts sheltered in the historical cistern, where the echo of raindrops creates a unique atmosphere. At noon, the Culture House provides a warm, dry refuge among its exhibits.\n\nIn the afternoon, we take advantage of breaks in the rain for short walks between monuments. Be careful on the wet pavement which can be quite slippery.\n\nEvening finds us at the marsh bird observatory, offering a solid roof while we watch the wildlife. The fresh scent of rain fills the air across the wetlands."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Cisterna",
+                "hu": "La Cisterna",
+                "ro": "La Cisterna",
+                "en": "La Cisterna"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses unterirdische Bauwerk, das perfekten Schutz vor Regen bietet; bewundern Sie die alte Architektur und bringen Sie eine Taschenlampe für dunkle Ecken mit.",
+                "hu": "Látogasson el ebbe a földalatti építménybe, amely tökéletes menedéket nyújt az eső elől; csodálja meg a régi építészetet, és vigyen zseblámpát a sötétebb sarkokhoz.",
+                "ro": "Vizitați această structură subterană care oferă adăpost perfect împotriva ploii; admirați arhitectura veche și aduceți o lanternă pentru colțurile mai întunecate.",
+                "en": "Visit this underground structure that offers perfect shelter from the rain; admire the ancient architecture and bring a flashlight for the darker corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura de Xeraco",
+                "hu": "Casa de la Cultura de Xeraco",
+                "ro": "Casa de la Cultura de Xeraco",
+                "en": "Casa de la Cultura de Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lokalen Ausstellungen im trockenen Innenraum; ideal, um die Wartezeit bis zum Ende eines Regenschauers bei kulturellen Einblicken zu überbrücken.",
+                "hu": "Élvezze a helyi kiállításokat a száraz belső térben; ideális helyszín megvárni az eső végét, miközben kulturális betekintést nyerünk a város életébe.",
+                "ro": "Bucurați-vă de expozițiile locale în interiorul uscat; este locul ideal pentru a aștepta oprirea ploii în timp ce descoperiți cultura locală.",
+                "en": "Enjoy the local exhibitions in the dry interior; it is an ideal place to wait out a rain shower while gaining cultural insights into the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Crist de l'Agonia",
+                "hu": "Ermita del Crist de l'Agonia",
+                "ro": "Ermita del Crist de l'Agonia",
+                "en": "Ermita del Crist de l'Agonia"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, aber lohnenswerter Stopp unter dem Vordach der Kapelle; achten Sie auf den glatten Boden vor dem Eingang und nutzen Sie die Stille des Ortes.",
+                "hu": "Rövid, de megéri megállni a kápolna előtere alatt; vigyázzon a sima, csúszós kövezetre a bejárat előtt, és élvezze a hely csendes nyugalmát.",
+                "ro": "O oprire scurtă, dar valoroasă sub streașina capelei; aveți grijă la podeaua lucioasă de la intrare și bucurați-vă de liniștea profundă a locului.",
+                "en": "A short but worthwhile stop under the chapel's porch; watch out for the smooth, slippery flooring at the entrance and enjoy the peaceful silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Agermanament amb Bruguières",
+                "hu": "Agermanament amb Bruguières",
+                "ro": "Agermanament amb Bruguières",
+                "en": "Agermanament amb Bruguières"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Denkmal schnell zwischen den Schauern; die Farben des Steins wirken im Regen besonders kräftig, halten Sie Ihren Regenschirm gut fest.",
+                "hu": "Nézze meg ezt az emlékművet gyorsan két zápor között; a kő színei esőben különösen élénkek, de tartsa erősen az esernyőjét a szélben.",
+                "ro": "Vizualizați acest monument rapid între două averse; culorile pietrei par mai intense pe ploaie, dar țineți bine umbrela dacă bate vântul.",
+                "en": "View this monument quickly between showers; the stone colors appear especially vivid in the rain, but hold your umbrella firmly if it gets windy."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatori Ocells Marjal",
+                "hu": "Observatori Ocells Marjal",
+                "ro": "Observatori Ocells Marjal",
+                "en": "Observatori Ocells Marjal"
+              },
+              "tip_5lang": {
+                "de": "Das Observatorium ist komplett überdacht und bietet einen trockenen Platz für die Vogelbeobachtung; Ferngläser sind bei diesigem Wetter sehr zu empfehlen.",
+                "hu": "A megfigyelő teljesen fedett, így száraz helyet biztosít a madarak leséséhez; ködös időben egy jó távcső aranyat ér a látványhoz.",
+                "ro": "Observatorul este complet acoperit, oferind un loc uscat pentru observarea păsărilor; binoclul este esențial pentru vizibilitate pe vreme închisă.",
+                "en": "The observatory is completely covered, providing a dry spot for birdwatching; binoculars are highly recommended for better visibility in misty weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen lädt zu einem zügigen Spaziergang durch die Altstadt ein. Die klare Luft lässt die historischen Mauern der Zisterne besonders hell erstrahlen.\n\nMittags suchen wir die wohlige Wärme des Kulturhauses auf, um uns aufzuwärmen. Ein heißes Getränk in der Nähe stärkt uns für den weiteren Weg.\n\nNachmittags genießen wir die tiefstehende Wintersonne an der Ermita. Das goldene Licht eignet sich perfekt für stimmungsvolle Fotos der religiösen Stätte.\n\nDa die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir das Sumpfgebiet zur Dämmerung. Warme Kleidung ist für die Beobachtung der Wintervögel unerlässlich.",
+            "hu": "A hűvös téli reggel gyors sétára hív a történelmi negyedben. A tiszta levegőben a ciszterna falai szinte ragyognak a súroló fényben.\n\nDélben a kultúrház kellemes melegében pihenhetünk meg és melegedhetünk fel. Érdemes egy forró teát inni a közelben a folytatás előtt.\n\nDélután az Ermita környékén élvezzük az alacsonyan járó nap sugarait. Az arany óra fényei tökéletesek a vallási helyszín fotózásához.\n\nMivel a nap már 17:00 körül lemegy, a mocsárvidéket szürkületben érjük el. A réteges öltözet kötelező a téli madárleshez a nyílt terepen.",
+            "ro": "Dimineața răcoroasă de iarnă invită la o plimbare energică prin centrul vechi. Aerul curat face ca zidurile istorice ale cisternei să pară foarte luminoase.\n\nLa prânz căutăm căldura primitoare de la Casa de la Cultura pentru a ne dezmorți. O băutură caldă în apropiere ne va oferi energia necesară.\n\nDupă-amiaza ne bucurăm de soarele blând de iarnă la Ermita. Lumina aurie este perfectă pentru fotografii deosebite ale acestui lăcaș religios.\n\nDeoarece soarele apune în jur de ora 17:00, ajungem în mlaștină la amurg. Hainele groase sunt esențiale pentru observarea păsărilor de iarnă.",
+            "en": "The cool winter morning invites a brisk walk through the old town. The crisp air makes the historic walls of the cistern appear particularly bright.\n\nAt noon, we seek the cozy warmth of the Culture House to thaw out. A hot drink nearby will provide the necessary energy for the rest of the day.\n\nIn the afternoon, enjoy the low winter sun at the Ermita. The golden light is perfect for atmospheric photos of the religious site.\n\nAs the sun sets around 17:00, we reach the marshlands at dusk. Layered clothing is essential for birdwatching in the open winter landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Cisterna",
+                "hu": "La Cisterna",
+                "ro": "La Cisterna",
+                "en": "La Cisterna"
+              },
+              "tip_5lang": {
+                "de": "Die Zisterne hält im Winter eine konstante Temperatur, kann aber feucht-kalt wirken; tragen Sie isolierende Schuhe für den Steinboden.",
+                "hu": "A ciszterna télen állandó hőmérsékletet tart, de nyirkosnak érződhet; viseljen hőszigetelt cipőt a hideg kőpadló miatt.",
+                "ro": "Cisterna menține o temperatură constantă iarna, dar poate părea rece; purtați încălțăminte izolantă pentru podeaua de piatră.",
+                "en": "The cistern maintains a constant temperature in winter but can feel damp; wear insulated shoes for the cold stone flooring."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura de Xeraco",
+                "hu": "Casa de la Cultura de Xeraco",
+                "ro": "Casa de la Cultura de Xeraco",
+                "en": "Casa de la Cultura de Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für eine längere Pause; im Winter finden hier oft interessante Abendveranstaltungen für Einheimische statt.",
+                "hu": "Használja ki a fűtött belső teret egy hosszabb pihenőre; télen gyakran tartanak itt érdekes esti előadásokat a helyieknek.",
+                "ro": "Folosiți interiorul încălzit pentru o pauză mai lungă; iarna, aici au loc adesea evenimente culturale de seară interesante.",
+                "en": "Take advantage of the heated interior for a longer break; in winter, interesting evening events for locals are often held here."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Crist de l'Agonia",
+                "hu": "Ermita del Crist de l'Agonia",
+                "ro": "Ermita del Crist de l'Agonia",
+                "en": "Ermita del Crist de l'Agonia"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle am frühen Nachmittag, wenn die Sonne die Fassade wärmt; ein ruhiger Ort für Besinnung in der klaren Winterluft.",
+                "hu": "Látogassa meg a kápolnát kora délután, amikor a nap süti a homlokzatot; csendes hely az elmélyüléshez a tiszta téli levegőben.",
+                "ro": "Vizitați capela la începutul după-amiezii când soarele încălzește fațada; un loc liniștit pentru reflecție în aerul curat de iarnă.",
+                "en": "Visit the chapel in the early afternoon when the sun warms the facade; a quiet place for reflection in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Agermanament amb Bruguières",
+                "hu": "Agermanament amb Bruguières",
+                "ro": "Agermanament amb Bruguières",
+                "en": "Agermanament amb Bruguières"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Halt an diesem Denkmal belebt den Kreislauf; die umliegenden Parks wirken im Winterschlaf sehr friedlich und weitläufig.",
+                "hu": "Egy gyors megálló ennél az emlékműnél frissítőleg hat a vérkeringésre; a környező parkok téli álma békés és tágas hangulatot áraszt.",
+                "ro": "O oprire rapidă la acest monument vă va revigora; parcurile din jur par foarte liniștite și vaste în timpul somnului de iarnă.",
+                "en": "A brisk stop at this monument will invigorate your circulation; the surrounding parks feel very peaceful and spacious during their winter sleep."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatori Ocells Marjal",
+                "hu": "Observatori Ocells Marjal",
+                "ro": "Observatori Ocells Marjal",
+                "en": "Observatori Ocells Marjal"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp vor 16:30 Uhr ein, um das letzte Tageslicht zu nutzen; die Wintervogelzüge sind vom Observatorium aus gut sichtbar.",
+                "hu": "Tervezze ezt a megállót 16:30 előttre, hogy kihasználja az utolsó fényeket; a téli madárvonulások remekül látszanak a megfigyelőből.",
+                "ro": "Planificați această oprire înainte de 16:30 pentru a profita de ultima lumină; migrația păsărilor de iarnă este vizibilă clar din observator.",
+                "en": "Plan this stop before 16:30 to catch the last daylight; winter bird migrations are clearly visible from the sheltered observatory."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot a városközpontban található Casa de la Cultura-nál, és szívja magába a helyi örökséget, mielőtt a békés tengerparti ökoszisztémák felé venné az irányt.\n\nDélben tekerjen az Observatori Ocells Marjalhoz, hogy fészkelő madarakat figyeljen meg, majd a történelmi Torre de guaita de Xeraco őrtoronyhoz, ahonnan egykor a partokat védték.\n\nEgy gyors ebéd után guruljon végig a Passeig dels Drets Humans sétányon. A sima út és a tengeri szellő tökéletes délutáni utazást biztosít az egykori csendőrlaktanyáig.\n\nA napot a Mirador del Riu Vaca-nál zárjuk. A tengerbe ömlő folyó csendes vize visszatükrözi a vibráló alkonyati színeket, így nyugodt befejezést kínál az aktív napnak.",
         "ro": "Începeți ziua de ciclism la Casa de la Cultura din centrul orașului, absorbind patrimoniul local înainte de a pedala spre ecosistemele de coastă senine.\n\nLa prânz, mergeți la Observatori Ocells Marjal pentru a vedea păsările care cuibăresc, apoi pedalați până la istoricul Torre de guaita de Xeraco, unde străjerii păzeau cândva țărmurile de pirați.\n\nDupă prânz, plimbați-vă de-a lungul Passeig dels Drets Humans. Calea netedă și briza mării asigură o plimbare perfectă înainte de a ajunge la cazarma istorică a carabinierilor.\n\nÎncheiați ziua pedalând la Mirador del Riu Vaca. Apele calme ale râului care se întâlnesc cu marea reflectă culorile vibrante ale crepusculului, oferind o concluzie liniștită.",
         "en": "Kick off your cycling day at the Casa de la Cultura in the town center, absorbing some local heritage before pedaling out towards the serene coastal ecosystems.\n\nBy midday, ride to the Observatori Ocells Marjal to watch nesting birds, then pedal up to the historic Torre de guaita de Xeraco, where pirate watchmen once guarded the shores.\n\nAfter a quick lunch, cruise along the Passeig dels Drets Humans. The smooth path and sea breeze make for a perfect afternoon ride before reaching the historic carabineer barracks.\n\nFinish the day cycling to the Mirador del Riu Vaca. The calm waters of the river meeting the sea reflect the vibrant twilight colors, offering a tranquil conclusion to your active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsicht auf nassen Straßen! Wir starten beim Kulturhaus, wo wir uns vor der Abfahrt noch einmal sammeln können. Die Reifen brauchen bei Regen mehr Grip.\n\nMittags radeln wir zum Vogelobservatorium. Der Weg durch das Sumpfgebiet kann matschig sein, bietet aber tolle Ausblicke auf die regenverhangene Natur.\n\nNachmittags führt die Tour zum Turm und zur Promenade. Der Wind kann hier kräftig wehen, daher ist eine windfeste Regenjacke ein absolutes Muss.\n\nAbends beenden wir die Tour am Mirador. Das Rauschen des Flusses Vaca mischt sich mit dem Prasseln des Regens zu einer meditativen Kulisse.",
+            "hu": "Óvatosan a vizes utakon! A kultúrháznál kezdünk, ahol indulás előtt még fedél alatt várakozhatunk. Esőben a gumik tapadása jelentősen csökken.\n\nDélben a mocsári madármegfigyelőhöz tekerünk. Az út néhol saras lehet, de a ködös természet látványa kárpótol a nehézségekért.\n\nDélután a torony és a sétány felé vesszük az irányt. A tengerparti szél ilyenkor felerősödhet, egy szélálló esőkabát elengedhetetlen kellék.\n\nEste a Miradornál zárjuk a napot. A Vaca-folyó zúgása és az eső kopogása meditatív hangulatot áraszt a túra végére.",
+            "ro": "Atenție pe drumurile ude! Începem la Casa de la Cultura, unde ne putem aduna înainte de plecare. Anvelopele au nevoie de mai multă aderență pe ploaie.\n\nLa prânz pedalăm spre observatorul de păsări. Drumul prin mlaștină poate fi noroios, dar oferă vederi superbe asupra naturii sub ploaie.\n\nDupă-amiaza turul continuă spre turn și faleză. Vântul poate fi puternic aici, așa că o jachetă de ploaie rezistentă la vânt este obligatorie.\n\nSeara încheiem turul la Mirador. Sunetul râului Vaca amestecat cu ropotul ploii creează un decor meditativ pentru finalul zilei.",
+            "en": "Caution on wet roads! We start at the Culture House, where we can gather under cover before setting off. Tires need extra grip in the rain.\n\nAt noon, we cycle to the bird observatory. The path through the marsh might be muddy, but it offers great views of nature under the rain.\n\nIn the afternoon, the tour leads to the tower and the promenade. The wind can be strong here, so a windproof raincoat is an absolute must.\n\nEvening ends at the Mirador. The sound of the Vaca River mixing with the patter of rain creates a meditative backdrop for the end of the ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de la Cultura de Xeraco",
+                "hu": "Casa de la Cultura de Xeraco",
+                "ro": "Casa de la Cultura de Xeraco",
+                "en": "Casa de la Cultura de Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen im Trockenen des Kulturhauses, bevor Sie losfahren; die Ausstellungen bieten einen guten Startpunkt bei jedem Wetter.",
+                "hu": "Ellenőrizze a fékeit a kultúrház száraz előterében indulás előtt; a kiállítások remek kezdőpontot jelentenek bármilyen időben.",
+                "ro": "Verificați frânele la adăpostul Casei de Cultură înainte de a pleca; expozițiile oferă un punct de plecare bun pe orice vreme.",
+                "en": "Check your brakes in the dryness of the Culture House before setting off; the exhibitions provide a great starting point in any weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatori Ocells Marjal",
+                "hu": "Observatori Ocells Marjal",
+                "ro": "Observatori Ocells Marjal",
+                "en": "Observatori Ocells Marjal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Observatorium als Rastplatz, um die Regenkleidung zu richten; der überdachte Bereich schützt auch Ihr Fahrrad vor Nässe.",
+                "hu": "Használja a megfigyelőt pihenőhelyként az esőruházat igazításához; a fedett rész a kerékpárját is megvédi a közvetlen ázástól.",
+                "ro": "Folosiți observatorul ca loc de odihnă pentru a vă ajusta echipamentul; zona acoperită vă protejează și bicicleta de umezeală.",
+                "en": "Use the observatory as a rest stop to adjust your rain gear; the covered area also protects your bike from getting direct wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de guaita de Xeraco",
+                "hu": "Torre de guaita de Xeraco",
+                "ro": "Torre de guaita de Xeraco",
+                "en": "Torre de guaita de Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um den Turm kann rutschig sein, steigen Sie vorsichtig ab; die historische Struktur bietet nur begrenzten Schutz vor starkem Regen.",
+                "hu": "A torony körüli talaj csúszós lehet, óvatosan szálljon le a bicikliről; a történelmi építmény csak korlátozott védelmet nyújt az eső ellen.",
+                "ro": "Terenul din jurul turnului poate fi alunecos, coborâți cu grijă de pe bicicletă; structura istorică oferă protecție limitată la ploaie.",
+                "en": "The ground around the tower can be slippery, dismount carefully; the historical structure offers only limited shelter from heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Passeig dels Drets Humans",
+                "hu": "Passeig dels Drets Humans",
+                "ro": "Passeig dels Drets Humans",
+                "en": "Passeig dels Drets Humans"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrt auf der Promenade kurz, wenn der Wind zunimmt; achten Sie auf Pfützen, die die Tiefe von Schlaglöchern verbergen könnten.",
+                "hu": "Tartsa rövidre a gurulást a sétányon, ha feltámad a szél; figyeljen a tócsákra, amelyek kátyúkat rejthetnek a kerékpáros elől.",
+                "ro": "Limitați plimbarea pe faleză dacă vântul se întețește; atenție la bălțile care pot ascunde gropi periculoase pentru bicicletă.",
+                "en": "Keep the ride on the promenade short if the wind picks up; watch out for puddles that could hide potholes from the cyclist."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "hu": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "ro": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "en": "Centro Cívico \"Quarter dels Carrabiners\""
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Pause im Inneren; nutzen Sie die Zeit, um die Karte für den Rückweg im Schutz der Mauern zu studieren.",
+                "hu": "Ideális helyszín egy száraz benti pihenőhöz; használja ki az időt az útvonal átnézésére a biztonságos falak védelmében.",
+                "ro": "Un loc ideal pentru o pauză uscată în interior; profitați de timp pentru a studia harta traseului la adăpostul zidurilor.",
+                "en": "An ideal location for a dry indoor break; use the time to study the map for your return journey protected by the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Riu Vaca",
+                "hu": "Mirador del Riu Vaca",
+                "ro": "Mirador del Riu Vaca",
+                "en": "Mirador del Riu Vaca"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vorsichtig am Flussufer; das Geländer bietet Halt, wenn der Boden durch den Regen aufgeweicht oder glitschig ist.",
+                "hu": "A folyóparton óvatosan fejezze be a túrát; a korlátba kapaszkodhat, ha a talaj az esőtől felázott vagy csúszóssá vált.",
+                "ro": "Încheiați turul cu grijă pe malul râului; balustrada oferă sprijin dacă solul este înmuiat de ploaie sau a devenit alunecos.",
+                "en": "End your tour carefully by the riverbank; hold onto the railing if the ground has become softened or slippery from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf dem Rad! Wir starten am Kulturhaus, wo die kühle Luft die Sinne belebt. Handschuhe sind für die Fahrt sehr wichtig.\n\nMittags erreichen wir das Marjal-Sumpfgebiet. Die Wintersonne spiegelt sich klar in den Kanälen, und die Wege sind fest und gut befahrbar.\n\nNachmittags geht es weiter zum historischen Wachturm und zur Strandpromenade. Die Meeresbrise ist kühl, bietet aber eine unglaubliche Fernsicht bis zum Horizont.\n\nAbends radeln wir zum Mirador del Riu Vaca. Da es früh dunkel wird, sollten wir die Beleuchtung am Rad prüfen, um sicher durch die Dämmerung zu kommen.",
+            "hu": "Friss téli reggel a nyeregben! A kultúrháznál kezdünk, ahol a hűvös levegő azonnal felébreszt. A kesztyű használata elengedhetetlen a túrához.\n\nDélben elérjük a Marjal mocsárvidéket. A téli napfény tisztán csillog a csatornákon, az utak pedig kemények és jól tekerhetőek ilyenkor.\n\nDélután a történelmi őrtorony és a tengerparti sétány következik. A tengeri szellő hűvös, de a látótávolság télen a legtisztább a horizont felé.\n\nEste a Mirador del Riu Vaca felé vesszük az irányt. Mivel korán sötétedik, ellenőrizze a lámpákat, hogy biztonságban érjen vissza a szürkületben.",
+            "ro": "O dimineață proaspătă de iarnă în șa! Începem la Casa de la Cultura, unde aerul rece ne trezește simțurile. Mănușile sunt foarte importante pentru drum.\n\nLa prânz ajungem în zona mlaștinii Marjal. Soarele de iarnă se reflectă clar în canale, iar drumurile sunt ferme și ușor de parcurs cu bicicleta.\n\nDupă-amiaza continuăm spre turnul de pază istoric și faleză. Briza mării este rece, dar oferă o vizibilitate incredibilă până la orizont.\n\nSeara pedalăm spre Mirador del Riu Vaca. Deoarece se întunecă devreme, verificați luminile bicicletei pentru a circula în siguranță la amurg.",
+            "en": "A fresh winter morning in the saddle! We start at the Culture House, where the cool air sharpens the senses. Gloves are very important for the ride.\n\nAt noon, we reach the Marjal marshlands. The winter sun reflects clearly in the canals, and the paths are firm and easy to cycle on.\n\nIn the afternoon, head to the historic watchtower and the seaside promenade. The sea breeze is cool but offers incredible visibility to the horizon.\n\nEvening leads us to the Mirador del Riu Vaca. As it gets dark early, check your bike lights to ensure a safe ride through the dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de la Cultura de Xeraco",
+                "hu": "Casa de la Cultura de Xeraco",
+                "ro": "Casa de la Cultura de Xeraco",
+                "en": "Casa de la Cultura de Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Startpunkt, um sich im Gebäude aufzuwärmen; im Winter ist der Windschatten der umliegenden Gassen beim Aufsteigen sehr angenehm.",
+                "hu": "Használja ki a kezdőpontot a benti bemelegedésre; télen a környező utcák szélárnyéka nagyon kellemes a biciklire szálláshoz.",
+                "ro": "Profită de punctul de plecare pentru a te încălzi în interior; iarna, adăpostul străzilor din jur este plăcut când urci pe bicicletă.",
+                "en": "Take advantage of the starting point to warm up inside; in winter, the wind shelter of the surrounding alleys is very pleasant when mounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Observatori Ocells Marjal",
+                "hu": "Observatori Ocells Marjal",
+                "ro": "Observatori Ocells Marjal",
+                "en": "Observatori Ocells Marjal"
+              },
+              "tip_5lang": {
+                "de": "Das Holzdeck des Observatoriums kann im Winter morgens frostig sein; genießen Sie den weiten Blick auf die schneefreie, aber kühle Landschaft.",
+                "hu": "A megfigyelő fapadlója téli reggeleken deres lehet; élvezze a tágas kilátást a hómentes, de hűvös mocsári tájra.",
+                "ro": "Puntea de lemn a observatorului poate fi înghețată dimineața; bucurați-vă de vederea vastă asupra peisajului de iarnă fără zăpadă.",
+                "en": "The wooden deck of the observatory can be frosty on winter mornings; enjoy the wide view of the snow-free but cool marsh landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de guaita de Xeraco",
+                "hu": "Torre de guaita de Xeraco",
+                "ro": "Torre de guaita de Xeraco",
+                "en": "Torre de guaita de Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Am Turm ist es im Winter oft windig, halten Sie den Stopp kurz; die tiefstehende Sonne beleuchtet die alten Steine in wunderschönen Farben.",
+                "hu": "A toronynál télen gyakran fúj a szél, tartsa rövidre a pihenőt; az alacsony napállás csodás színekkel világítja meg a régi köveket.",
+                "ro": "La turn bate adesea vântul iarna, așa că faceți o oprire scurtă; soarele jos luminează pietrele vechi în culori superbe.",
+                "en": "It's often windy at the tower in winter, so keep your stop brief; the low sun illuminates the old stones in beautiful colors."
+              }
+            },
+            {
+              "name": {
+                "de": "Passeig dels Drets Humans",
+                "hu": "Passeig dels Drets Humans",
+                "ro": "Passeig dels Drets Humans",
+                "en": "Passeig dels Drets Humans"
+              },
+              "tip_5lang": {
+                "de": "Die Promenade ist im Winter leer und friedlich zum Radfahren; tragen Sie einen Gehörschutz oder ein Stirnband gegen den kalten Seewind.",
+                "hu": "A sétány télen üres és békés a biciklizéshez; viseljen fülvédőt vagy fejpántot a hideg tengeri szél ellen.",
+                "ro": "Faleza este goală și liniștită pentru ciclism iarna; purtați protecție pentru urechi sau o bentiță împotriva vântului rece de mare.",
+                "en": "The promenade is empty and peaceful for cycling in winter; wear ear protection or a headband against the cold sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "hu": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "ro": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "en": "Centro Cívico \"Quarter dels Carrabiners\""
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie Ihre kalten Hände kurz aufwärmen; das historische Gebäude bietet Schutz vor den stärksten Winterböen an der Küste.",
+                "hu": "Itt gyorsan felmelegítheti átfagyott kezeit; a történelmi épület védelmet nyújt a partmenti legerősebb téli széllökések elől.",
+                "ro": "Aici vă puteți încălzi rapid mâinile înghețate; clădirea istorică oferă protecție împotriva celor mai puternice rafale de iarnă de pe coastă.",
+                "en": "You can quickly warm up your cold hands here; the historic building provides shelter from the strongest winter gusts on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Riu Vaca",
+                "hu": "Mirador del Riu Vaca",
+                "ro": "Mirador del Riu Vaca",
+                "en": "Mirador del Riu Vaca"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr direkt am Fluss; beeilen Sie sich mit der Rückfahrt, bevor die Temperaturen stark sinken.",
+                "hu": "Élvezze a naplementét 17:00 körül közvetlenül a folyónál; siessen a visszaúttal, mielőtt a hőmérséklet drasztikusan lecsökkenne.",
+                "ro": "Bucurați-vă de apusul soarelui în jur de ora 17:00 chiar lângă râu; grăbiți-vă cu drumul de întoarcere înainte ca temperaturile să scadă brusc.",
+                "en": "Enjoy the sunset around 17:00 right by the river; hurry back before the temperatures drop significantly after dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje a napot egy frissítő reggeli túrával a l'Esquellot-nál, hogy értékelje Xeraco zord szépségét, majd hajtson be a városközpontba, és fedezze fel a földalatti La Cisternát.\n\nDélben álljon meg a festői Ermita del Crist de l'Agonia kápolnánál. Töltsön el néhány percet csendes elmélkedéssel, mielőtt a part felé venné az irányt egy kiadós valenciai ebédért a tengernél.\n\nA délutánt a tengerészeti történelem nyomában töltheti. Látogassa meg a Torre de guaita de Xeracót és a Centro Cívicót, hogy megismerje a partvédelem és a csempészútvonalak történetét.\n\nA nap végén vezessen a Desembocadura del Riu Xeraco felé egy rövid sétára, majd zárja a napot a Mirador del Riu Vaca-nál, figyelve, ahogy a naplemente megfesti a tengert és az eget.",
         "ro": "Începeți cu o drumeție revigorantă de dimineață la l'Esquellot pentru a aprecia frumusețea interioară a orașului Xeraco, apoi conduceți spre centrul orașului pentru a descoperi La Cisterna.\n\nÎn jurul prânzului, opriți-vă la pitoreasca Ermita del Crist de l'Agonia. Luați-vă câteva momente de reflecție liniștită înainte de a merge spre coastă pentru a găsi un prânz valencian copios lângă mare.\n\nPetreceți după-amiaza descoperind istoria maritimă. Vizitați Torre de guaita de Xeraco și Centro Cívico pentru a afla despre apărarea de coastă și rutele istorice de contrabandă.\n\nPe măsură ce ziua se încheie, conduceți la Desembocadura del Riu Xeraco pentru o scurtă plimbare, terminând perfect la Mirador del Riu Vaca pentru a privi apusul soarelui pictând marea și cerul.",
         "en": "Start with a refreshing morning hike at l'Esquellot to appreciate Xeraco's rugged inland beauty, then drive into the town center to discover the subterranean La Cisterna.\n\nAround midday, stop by the quaint Ermita del Crist de l'Agonia. Take a few moments of quiet reflection before driving out towards the coast to find a hearty Valencian lunch by the sea.\n\nSpend your afternoon tracing maritime history. Visit the Torre de guaita de Xeraco and the Centro Cívico 'Quarter dels Carrabiners' to learn about coastal defenses and historic smuggling routes.\n\nAs the day winds down, drive to the Desembocadura del Riu Xeraco for a short walk, ending perfectly at the Mirador del Riu Vaca to watch the sunset paint the sea and sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein idealer Tag für eine Autotour! Wir starten bei l'Esquellot, wo wir die Natur bequem vom Wagen aus beobachten können. Die Scheibenwischer leisten ganze Arbeit.\n\nMittags besichtigen wir die historische Zisterne und die Ermita. Das Auto ist der perfekte Rückzugsort zwischen den Besichtigungen, um trocken zu bleiben.\n\nNachmittags fahren wir zur Küste. Der Wachturm und das Centro Cívico bieten interessante Einblicke, während der Regen gegen die Autofenster trommelt.\n\nAbends beenden wir die Fahrt an den Aussichtspunkten des Flusses. Die beleuchtete Straße spiegelt sich wunderschön in den Pfützen und sorgt für eine ganz eigene Ästhetik.",
+            "hu": "Ideális nap egy autós túrához! Az l'Esquellot-nál kezdünk, ahol a természetet kényelmesen, az autóból is megfigyelhetjük. Az ablaktörlők folyamatosan dolgoznak.\n\nDélben a történelmi ciszternát és az Ermitát látogatjuk meg. Az autó tökéletes menedék a megállók között, így biztosan szárazon maradunk.\n\nDélután a part felé vesszük az irányt. Az őrtorony és a Centro Cívico érdekes látnivalók, miközben az eső kopog az autó ablakain.\n\nEste a folyóparti kilátópontoknál zárjuk a napot. A kivilágított út tükröződése a tócsákban különleges, esős esztétikát kölcsönöz a tájnak.",
+            "ro": "O zi ideală pentru un tur cu mașina! Începem la l'Esquellot, unde putem observa natura confortabil din vehicul. Ștergătoarele lucrează din plin.\n\nLa prânz vizităm cisterna istorică și Ermita. Mașina este refugiul perfect între opriri pentru a rămâne uscați pe tot parcursul zilei.\n\nDupă-amiaza conducem spre coastă. Turnul de pază și Centrul Civic oferă perspective interesante în timp ce ploaia bate în geamurile mașinii.\n\nSeara încheiem călătoria la punctele de belvedere de pe râu. Șoseaua luminată se reflectă superb în bălți, creând o estetică aparte.",
+            "en": "An ideal day for a car tour! We start at l'Esquellot, where we can observe nature comfortably from the vehicle. The wipers are working hard today.\n\nAt noon, we visit the historic cistern and the Ermita. The car is the perfect refuge between stops to ensure you stay dry throughout the trip.\n\nIn the afternoon, we drive to the coast. The watchtower and the Civic Center offer interesting insights while the rain drums against the car windows.\n\nEvening ends at the river viewpoints. The illuminated road reflects beautifully in the puddles, creating a unique rainy aesthetic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "l'Esquellot",
+                "hu": "l'Esquellot",
+                "ro": "l'Esquellot",
+                "en": "l'Esquellot"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie einen guten Blick auf die Landschaft haben, ohne aussteigen zu müssen; die dramatischen Regenwolken über den Bergen sind ein tolles Motiv.",
+                "hu": "Parkoljon úgy, hogy jó rálátása legyen a tájra anélkül, hogy ki kellene szállnia; a hegyek feletti drámai esőfelhők remek fotótémát adnak.",
+                "ro": "Parcați astfel încât să aveți o vedere bună asupra peisajului fără a coborî; norii de ploaie dramatici peste munți sunt un subiect foto excelent.",
+                "en": "Park so you have a good view of the landscape without needing to get out; the dramatic rain clouds over the mountains are a great photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cisterna",
+                "hu": "La Cisterna",
+                "ro": "La Cisterna",
+                "en": "La Cisterna"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz in der Nähe des Eingangs, um den Weg im Regen kurzzuhalten; im Inneren sind Sie komplett vor dem Wetter geschützt.",
+                "hu": "Keressen parkolóhelyet a bejárat közelében, hogy lerövidítse az esőben megtett utat; odabent teljes védelmet élvez az időjárás viszontagságaitól.",
+                "ro": "Căutați un loc de parcare aproape de intrare pentru a scurta drumul prin ploaie; în interior sunteți protejat complet de vremea de afară.",
+                "en": "Find a parking spot close to the entrance to keep the walk in the rain short; once inside, you are completely protected from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Crist de l'Agonia",
+                "hu": "Ermita del Crist de l'Agonia",
+                "ro": "Ermita del Crist de l'Agonia",
+                "en": "Ermita del Crist de l'Agonia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Umkleide, falls Ihre Jacke nass geworden ist; die Kapelle bietet einen kurzen, besinnlichen Aufenthalt im Trockenen.",
+                "hu": "Használja az autót átöltözéshez, ha a kabátja megázott volna; a kápolna rövid, meghitt tartózkodást kínál száraz körülmények között.",
+                "ro": "Folosiți mașina pentru a vă schimba dacă jacheta s-a udat; capela oferă un popas scurt și liniștit într-un mediu uscat.",
+                "en": "Use the car as a changing room if your jacket got wet; the chapel offers a short, contemplative stay in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de guaita de Xeraco",
+                "hu": "Torre de guaita de Xeraco",
+                "ro": "Torre de guaita de Xeraco",
+                "en": "Torre de guaita de Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ist der Turm gut sichtbar, falls der Regen zu stark für einen Spaziergang ist; die Straße dorthin kann bei Nässe rutschig sein.",
+                "hu": "A parkolóból is jól látszik a torony, ha az eső túl erős lenne a sétához; az odavezető út vizesen csúszós lehet, vezessen óvatosan.",
+                "ro": "Turnul este vizibil din parcare dacă ploaia este prea puternică pentru plimbare; drumul până acolo poate fi alunecos pe ud, conduceți cu grijă.",
+                "en": "The tower is clearly visible from the parking area if the rain is too heavy for a walk; the road there can be slippery when wet, drive carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "hu": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "ro": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "en": "Centro Cívico \"Quarter dels Carrabiners\""
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude bietet viel Platz im Inneren, um dem Regen zu entfliehen; informieren Sie sich hier über die Geschichte der Küstenwache im Trockenen.",
+                "hu": "Az épület tágas belső teret kínál az eső elől való meneküléshez; tájékozódjon a partőrség történetéről száraz, fedett helyen.",
+                "ro": "Clădirea oferă spațiu generos în interior pentru a scăpa de ploaie; aflați mai multe despre istoria pazei de coastă la adăpost.",
+                "en": "The building offers plenty of space inside to escape the rain; learn about the history of the coast guard in a dry, sheltered setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Desembocadura del Riu Xeraco",
+                "hu": "Desembocadura del Riu Xeraco",
+                "ro": "Desembocadura del Riu Xeraco",
+                "en": "Desembocadura del Riu Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Aufeinandertreffen von Fluss und Meer durch die Windschutzscheibe; die aufgewühlte See wirkt bei Regen besonders gewaltig.",
+                "hu": "Figyelje meg a folyó és a tenger találkozását a szélvédőn keresztül; a felkavart tenger esőben különösen monumentális látványt nyújt.",
+                "ro": "Observați întâlnirea dintre râu și mare prin parbrizul mașinii; marea agitată pare deosebit de puternică pe timp de ploaie.",
+                "en": "Observe the meeting of the river and the sea through your windshield; the turbulent sea looks particularly powerful during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Riu Vaca",
+                "hu": "Mirador del Riu Vaca",
+                "ro": "Mirador del Riu Vaca",
+                "en": "Mirador del Riu Vaca"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den Fluss, bevor Sie die Heizung im Auto hochdrehen; die feuchte Uferlandschaft hat im Abendlicht einen mystischen Charme.",
+                "hu": "Egy utolsó pillantás a folyóra, mielőtt feltekerné a fűtést az autóban; a nyirkos partvidéknek misztikus bája van az esti fényekben.",
+                "ro": "O ultimă privire spre râu înainte de a porni căldura în mașină; peisajul umed de pe mal are un farmec mistic în lumina serii.",
+                "en": "A final look at the river before turning up the car heater; the damp riverside landscape has a mystical charm in the evening light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt entspannt bei l'Esquellot. Die klare Sicht in den Bergen ist in dieser Jahreszeit am besten. Die Autoheizung sorgt für Komfort.\n\nMittags fahren wir zur Zisterne und zur Ermita im Stadtzentrum. Die kurzen Wege zwischen den Parkplätzen und den Sehenswürdigkeiten sind ideal bei Kälte.\n\nNachmittags geht es an die Küste zum Turm und zum Centro Cívico. Die Wintersonne steht tief und taucht die gesamte Landschaft in ein weiches, warmes Licht.\n\nAbends besuchen wir die Mündung des Xeraco und den Mirador. Da die Dämmerung gegen 17:00 Uhr einsetzt, genießen wir das Farbspiel des Himmels bequem vom warmen Fahrzeug aus.",
+            "hu": "A téli autós túra pihentetően indul az l'Esquellot-nál. A hegyekben a látótávolság ilyenkor a legjobb. Az autó fűtése garantálja a kényelmet.\n\nDélben a városközpontba, a ciszternához és az Ermitához hajtunk. A parkolók és a látnivalók közötti rövid távolságok ideálisak a hidegben.\n\nDélután a part menti torony és a Centro Cívico következik. Az alacsonyan járó téli nap lágy, meleg fénybe vonja az egész tájat.\n\nEste a Xeraco-folyó torkolatát és a Miradort keressük fel. Mivel 17:00 körül sötétedik, a közeli parkolókból, a meleg autóból csodálhatjuk az ég színeit.",
+            "ro": "Turul de iarnă începe relaxat la l'Esquellot. Vizibilitatea clară în munți este cea mai bună în acest sezon. Căldura din mașină asigură confortul.\n\nLa prânz conducem spre cisternă și Ermita în centrul orașului. Distanțele scurte între parcare și obiective sunt ideale pe vreme rece.\n\nDupă-amiaza mergem la coastă spre turn și Centrul Civic. Soarele de iarnă este jos și scaldă întregul peisaj într-o lumină caldă și blândă.\n\nSeara vizităm gura de vărsare a râului Xeraco și Miradorul. Deoarece amurgul începe la ora 17:00, admirăm culorile cerului din confortul mașinii.",
+            "en": "The winter tour starts relaxedly at l'Esquellot. Clear mountain views are at their best this season. The car's heater ensures maximum comfort.\n\nAt noon, we drive to the cistern and the Ermita in the town center. Short distances between parking and sights are ideal in the cold weather.\n\nIn the afternoon, head to the coast to the tower and the Civic Center. The low winter sun bathes the entire landscape in a soft, warm light.\n\nEvening visit to the Xeraco river mouth and the Mirador. As dusk sets in around 17:00, we enjoy the sky's colors from the warmth of the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "l'Esquellot",
+                "hu": "l'Esquellot",
+                "ro": "l'Esquellot",
+                "en": "l'Esquellot"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft bei einem kurzen Stopp außerhalb des Wagens; die Fernsicht auf die umliegenden Gipfel ist jetzt am schärfsten.",
+                "hu": "Élvezze a tiszta téli levegőt egy rövid megálló erejéig az autón kívül; a távoli hegycsúcsok látványa ilyenkor a legélesebb.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în timpul unei scurte opriri afară; vederea spre vârfurile îndepărtate este cea mai clară acum.",
+                "en": "Enjoy the crisp winter air during a short stop outside the car; the distant views of the surrounding peaks are sharpest at this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cisterna",
+                "hu": "La Cisterna",
+                "ro": "La Cisterna",
+                "en": "La Cisterna"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Zisterne ist windgeschützt und bietet eine Pause von der kalten Brise; achten Sie auf die rutschigen Steinstufen im Winter.",
+                "hu": "A ciszterna belseje szélvédett, így pihenőt nyújt a hideg fuvallatok elől; figyeljen a télen csúszósabb kőlépcsőkre a lemenetnél.",
+                "ro": "Interiorul cisternei este ferit de vânt, oferind o pauză de la briza rece; atenție la treptele de piatră care pot fi alunecoase iarna.",
+                "en": "The interior of the cistern is wind-sheltered, providing a break from the cold breeze; watch out for stone steps that can be slippery in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita del Crist de l'Agonia",
+                "hu": "Ermita del Crist de l'Agonia",
+                "ro": "Ermita del Crist de l'Agonia",
+                "en": "Ermita del Crist de l'Agonia"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter oft ein Ort der Wärme und Stille; nutzen Sie die Parkplätze direkt davor für einen schnellen Zugang zum Gebäude.",
+                "hu": "A kápolna télen a meleg és a csend szigete; használja a közvetlenül előtte lévő parkolókat a gyors bejutás érdekében a hideg elől.",
+                "ro": "Capela este iarna un loc al căldurii și liniștii; folosiți locurile de parcare din față pentru acces rapid în interiorul clădirii.",
+                "en": "The chapel is often a place of warmth and silence in winter; use the parking spots directly in front for quick access to the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de guaita de Xeraco",
+                "hu": "Torre de guaita de Xeraco",
+                "ro": "Torre de guaita de Xeraco",
+                "en": "Torre de guaita de Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Der Aufenthalt am Turm kann durch den Seewind sehr kühl sein; bewundern Sie das Mauerwerk im warmen Licht der tiefstehenden Nachmittagssonne.",
+                "hu": "A toronynál való tartózkodás a tengeri szél miatt hűvös lehet; csodálja meg a falakat az alacsonyan járó délutáni nap meleg fényeiben.",
+                "ro": "Popasul la turn poate fi răcoros din cauza vântului marin; admirați zidăria în lumina caldă a soarelui de după-amiază care stă jos.",
+                "en": "Staying by the tower can be very cool due to the sea wind; admire the stonework in the warm light of the low afternoon sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "hu": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "ro": "Centro Cívico \"Quarter dels Carrabiners\"",
+                "en": "Centro Cívico \"Quarter dels Carrabiners\""
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um sich aufzuwärmen und Ausstellungen zu besuchen; im Winter ist es hier meist sehr ruhig und entspannt für Besucher.",
+                "hu": "Ideális megálló a felmelegedésre és a kiállítások megtekintésére; télen általában nagyon csendes és pihentető a látogatók számára.",
+                "ro": "O oprire ideală pentru a vă încălzi și a vizita expozițiile; iarna este de obicei foarte liniște și relaxant pentru vizitatori.",
+                "en": "An ideal stop to warm up and visit the exhibitions; in winter, it is usually very quiet and relaxing for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Desembocadura del Riu Xeraco",
+                "hu": "Desembocadura del Riu Xeraco",
+                "ro": "Desembocadura del Riu Xeraco",
+                "en": "Desembocadura del Riu Xeraco"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Spaziergang zum Strand bei Sonnenuntergang gegen 17:00 Uhr; die Winterfarben des Meeres sind tiefer und intensiver als im Sommer.",
+                "hu": "Tegyen egy rövid sétát a parton a 17:00 körüli naplementében; a tenger téli színei mélyebbek és intenzívebbek, mint a nyári időszakban.",
+                "ro": "Faceți o scurtă plimbare pe plajă la apus, în jur de ora 17:00; culorile de iarnă ale mării sunt mai profunde decât în timpul verii.",
+                "en": "Take a short walk on the beach at sunset around 17:00; the winter colors of the sea are deeper and more intense than in the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Riu Vaca",
+                "hu": "Mirador del Riu Vaca",
+                "ro": "Mirador del Riu Vaca",
+                "en": "Mirador del Riu Vaca"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das winterliche Sumpfgebiet; lassen Sie den Motor kurz laufen, um die Scheiben vor dem Beschlagen zu schützen.",
+                "hu": "Élvezze a tágas kilátást a téli mocsárvidékre; járassa meg kicsit a fűtést, hogy megakadályozza az ablakok bepárásodását indulás előtt.",
+                "ro": "Bucurați-vă de vederea vastă asupra mlaștinii de iarnă; porniți căldura pentru a preveni aburirea geamurilor înainte de plecare.",
+                "en": "Enjoy the wide view of the wintry marshland; keep the car heater running briefly to prevent the windows from fogging up before you leave."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi Mont-Saint-Martin Perjelségnél, és élvezze annak békés román kori hangulatát. Délben sétáljon el a bájos Szent Bertalan-templom mellett a város kulturális központja felé. Délután fedezze fel a helyi művészeteket a Jean Ferrat Kulturális Központban és a közeli Szent Lőrinc-templomban. Zárja a napot egy csendes sétával a békés Szent Gyula-templom felé.",
         "ro": "Începeți-vă dimineața la istoricul Priorat Mont-Saint-Martin, bucurându-vă de atmosfera sa romanică pașnică. La prânz, treceți pe lângă fermecătoarea Biserică Saint-Barthélémy spre inima culturală a orașului. După-amiaza, descoperiți artele locale la Espace Culturel Jean Ferrat. Încheiați-vă ziua cu o plimbare liniștită până la Biserica Saint-Jules pentru momente de reflecție.",
         "en": "Begin your morning at the historic Mont-Saint-Martin Priory, soaking in its peaceful Romanesque atmosphere. Midday takes you past the charming Église Saint-Barthélémy towards the cultural heart of the town. In the afternoon, discover local arts at the Espace Culturel Jean Ferrat and the nearby Église Saint-Laurent. Conclude your day with a quiet stroll to the serene Église Saint-Jules."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang am Priorat, wo die dicken Mauern Schutz bieten. Mittags geht es zügig zur Kirche Saint-Barthélémy und ins Kulturzentrum, um dem Schauer zu entgehen. Am Nachmittag besuchen Sie die Kirchen Saint-Laurent und Saint-Jules mit ihren schützenden Gewölben. Abends wärmen Sie sich in einem nahegelegenen Café auf und trocknen Ihre nasse Kleidung.",
+            "hu": "Kezdje esős sétáját a Perjelségnél, ahol a vastag falak menedéket nyújtanak. Délben siessen a Szent Bertalan-templomba és a kulturális központba a zápor elől. Délután fedezze fel a Szent Lőrinc és Szent Gyula templomok védelmet adó boltíveit. Este melegedjen fel egy közeli kávézóban, miközben az eső mossa az utcákat, és szárítsa meg vizes ruháit a melegben.",
+            "ro": "Începeți plimbarea ploioasă la Priorat, unde zidurile groase oferă adăpost. La prânz, grăbiți-vă spre Biserica Saint-Barthélémy și centrul cultural pentru a evita aversa. După-amiaza, vizitați bisericile Saint-Laurent și Saint-Jules cu bolțile lor protectoare. Seara, încălziți-vă într-o cafenea din apropiere în timp ce ploaia spală străzile liniștite.",
+            "en": "Start your rainy walk at the Priory, where thick walls offer shelter. At noon, hurry to Saint-Barthélémy Church and the cultural center to escape the downpour. In the afternoon, visit the protective vaults of Saint-Laurent and Saint-Jules churches. In the evening, warm up in a nearby café while the rain washes the quiet streets and dry your wet clothes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Priorat Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Perjelség",
+                "ro": "Prioratul Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanische Architektur im Trockenen, aber Vorsicht auf den feuchten Stufen.",
+                "hu": "Csodálja meg a román kori építészetet száraz helyen, de vigyázzon a nedves, csúszós lépcsőkön.",
+                "ro": "Admirați arhitectura romanică la adăpost, dar aveți grijă la treptele umede și alunecoase.",
+                "en": "Admire the Romanesque architecture in the dry, but be careful on the wet, slippery steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Szent Bertalan-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Die Buntglasfenster wirken bei grauem Regenlicht besonders mystisch; ein Regenschirm ist für den Weg ratsam.",
+                "hu": "Az ólomüveg ablakok a szürke esős fényben különösen misztikusak; az útra esernyő javasolt.",
+                "ro": "Vitraliile par deosebit de mistice în lumina gri a ploii; o umbrelă este recomandată pe drum.",
+                "en": "The stained glass windows look especially mystical in the gray rain light; an umbrella is advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Jean Ferrat",
+                "hu": "Jean Ferrat Kulturális Központ",
+                "ro": "Centrul Cultural Jean Ferrat",
+                "en": "Espace Culturel Jean Ferrat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Ausstellungen als perfekte Zuflucht vor dem Regen und genießen Sie die trockene Atmosphäre.",
+                "hu": "Használja a kiállításokat tökéletes menedékként az eső elől, és élvezze a száraz, békés légkört.",
+                "ro": "Folosiți expozițiile ca refugiu perfect de ploaie și bucurați-vă de atmosfera uscată și liniștită.",
+                "en": "Use the exhibitions as a perfect refuge from the rain and enjoy the dry, peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Szent Lőrinc-templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren der Kirche entkommen Sie dem Nieselregen und können die Stille der heiligen Hallen genießen.",
+                "hu": "A templom belsejében menedéket talál a szitáló eső elől, és élvezheti a szent csarnokok csendjét.",
+                "ro": "În interiorul bisericii veți scăpa de burniță și vă veți putea bucura de liniștea sălilor sfinte.",
+                "en": "Inside the church, you will escape the drizzle and can enjoy the silence of the holy halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jules",
+                "hu": "Szent Gyula-templom",
+                "ro": "Biserica Saint-Jules",
+                "en": "Église Saint-Jules"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um dem schlechten Wetter zu trotzen; das prasselnde Geräusch des Regens wirkt hier beruhigend.",
+                "hu": "Csendes hely a rossz időjárás átvészelésére; az eső tetőn doboló hangja itt kifejezetten megnyugtató hatású.",
+                "ro": "Un loc liniștit pentru a înfrunta vremea rea; sunetul ploii lovind acoperișul este foarte calmant.",
+                "en": "A quiet place to brave the bad weather; the pattering sound of the rain is very soothing here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt mit einem frischen Spaziergang zum historischen Priorat. Mittags wärmen Sie sich in der Kirche Saint-Barthélémy und im Kulturzentrum Jean Ferrat bei den Ausstellungen auf. Am Nachmittag spazieren Sie gut eingepackt zu den Kirchen Saint-Laurent und Saint-Jules. Da die Sonne früh untergeht, sollten Sie den Abend gemütlich bei einem warmen Getränk im beleuchteten Stadtzentrum ausklingen lassen.",
+            "hu": "A fagyos reggel egy frissítő sétával indul a történelmi Perjelséghez. Délben melegedjen fel a Szent Bertalan-templomban és a Jean Ferrat Kulturális Központ kiállításain. Délután alaposan beöltözve sétáljon el a Szent Lőrinc és Szent Gyula templomokhoz. Mivel a nap korán lenyugszik, az estét érdemes egy meleg ital mellett a kivilágított városközpontban tölteni.",
+            "ro": "Dimineața geroasă începe cu o plimbare revigorantă la Prioratul istoric. La prânz, încălziți-vă în Biserica Saint-Barthélémy și la expozițiile Centrului Cultural. După-amiaza, faceți o plimbare bine înfofoliți către bisericile Saint-Laurent și Saint-Jules. Deoarece soarele apune devreme, petreceți seara cu o băutură caldă în centrul orașului frumos luminat.",
+            "en": "The frosty morning begins with a crisp walk to the historic Priory. At noon, warm up in Saint-Barthélémy Church and the Jean Ferrat Cultural Center exhibitions. In the afternoon, walk well wrapped up to Saint-Laurent and Saint-Jules churches. Since the sun sets early, spend the evening comfortably with a warm drink in the beautifully illuminated city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Priorat Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Perjelség",
+                "ro": "Prioratul Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft betont die historischen Steine; tragen Sie Handschuhe für die kühlen Türgriffe.",
+                "hu": "A hideg téli levegő kiemeli a történelmi köveket; viseljen kesztyűt a hideg kilincsek miatt.",
+                "ro": "Aerul rece de iarnă scoate în evidență pietrele istorice; purtați mănuși pentru clanțele reci.",
+                "en": "The cold winter air highlights the historic stones; wear gloves for the chilly door handles."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Szent Bertalan-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Ein wärmender Zwischenstopp; die dicken Mauern halten den eisigen Wind gut ab.",
+                "hu": "Melegítő megállóhely; a vastag falak kiválóan távol tartják a fagyos, metsző szeleket.",
+                "ro": "O oprire caldă; zidurile groase țin departe foarte bine vântul rece și tăios de iarnă.",
+                "en": "A warming stopover; the thick walls keep the freezing, biting winds away very well."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum Jean Ferrat",
+                "hu": "Jean Ferrat Kulturális Központ",
+                "ro": "Centrul Cultural Jean Ferrat",
+                "en": "Espace Culturel Jean Ferrat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume, um die Kunstwerke ohne Wintermantel in Ruhe zu betrachten.",
+                "hu": "Használja ki a fűtött tereket, hogy télikabát nélkül, nyugodtan csodálhassa meg a műalkotásokat.",
+                "ro": "Profitați de spațiile încălzite pentru a admira operele de artă în liniște, fără haina de iarnă.",
+                "en": "Take advantage of the heated spaces to admire the artworks in peace, without your winter coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Laurent",
+                "hu": "Szent Lőrinc-templom",
+                "ro": "Biserica Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft lange Schatten auf den Altar; der Boden kann jedoch fußkalt sein.",
+                "hu": "A téli nap hosszú árnyékokat vet az oltárra; a padló azonban meglehetősen hideg lehet.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe altar; cu toate acestea, podeaua poate fi destul de rece.",
+                "en": "The winter sun casts long shadows on the altar; however, the floor can be quite cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jules",
+                "hu": "Szent Gyula-templom",
+                "ro": "Biserica Saint-Jules",
+                "en": "Église Saint-Jules"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kirche vor der frühen Abenddämmerung, um die Architektur noch im Licht zu sehen.",
+                "hu": "Érjen a templomhoz a korai sötétedés előtt, hogy még természetes fényben lássa az építészetet.",
+                "ro": "Ajungeți la biserică înainte de lăsarea timpurie a serii pentru a vedea arhitectura în lumina naturală.",
+                "en": "Reach the church before the early dusk to still see the architecture in natural light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpártúrája lendületesen indul a Városházától, mielőtt a nyüzsgő utcákon át a Szent Bertalan-templomhoz érne. Késő délelőtt a Perjelség nyújt lenyűgöző építészeti élményt. Délben kényelmesen eltekerhet a déli Szent Gyula-templomhoz. A délutánt a Plaine des Jeux parkban töltheti, amely ideális egy pihentető piknikhez és kikapcsolódáshoz.",
         "ro": "Turul dumneavoastră cu bicicleta începe energic la Primărie, înainte de a merge pe străzile pline de viață spre Biserica Saint-Barthélémy. Dimineața târziu, Prioratul oferă o perspectivă arhitecturală fascinantă. La prânz, pedalați relaxat spre Biserica Saint-Jules. După-amiaza este dedicată recreerii în parcul Plaine des Jeux, locul perfect pentru picnic.",
         "en": "Your cycling tour starts briskly at the Town Hall before navigating through the lively streets to Église Saint-Barthélémy. Late morning brings fascinating architectural insights at the Mont-Saint-Martin Priory. By midday, you'll cycle pleasantly down to the Église Saint-Jules. The afternoon is dedicated to recreation at the Plaine des Jeux, perfect for a picnic."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre nasse Radtour vorsichtig am Rathaus. Mittags fahren Sie bei Regen behutsam zu den Kirchen Saint-Barthélémy und zum Priorat; die Straßen können rutschig sein. Am Nachmittag bietet die Kirche Saint-Jules eine trockene Pause. Den Abend verbringen Sie am Rand der Plaine des Jeux unter den Schutzdächern, während der Regen die Natur erfrischt.",
+            "hu": "Kezdje nedves kerékpártúráját óvatosan a Városházánál. Délben tekerjen lassan a Szent Bertalan-templomhoz és a Perjelséghez; az utak csúszósak lehetnek. Délután a Szent Gyula-templom kínál száraz pihenőt. Az estét a Plaine des Jeux szélén, a fedett pavilonok alatt töltse, miközben a heves eső felfrissíti a természetet.",
+            "ro": "Începeți turul umed cu bicicleta cu grijă la Primărie. La prânz, pedalați încet către Biserica Saint-Barthélémy și Priorat; drumurile pot fi alunecoase. După-amiaza, Biserica Saint-Jules oferă o pauză uscată. Petreceți seara la marginea Plaine des Jeux sub pavilioanele acoperite, în timp ce ploaia reîmprospătează natura.",
+            "en": "Start your wet bike tour carefully at the Town Hall. At noon, pedal slowly to Saint-Barthélémy Church and the Priory; the roads can be slippery. In the afternoon, Saint-Jules Church offers a dry break. Spend the evening at the edge of the Plaine des Jeux under the covered pavilions while the rain refreshes nature."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Városháza",
+                "ro": "Primăria Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Vordach des Rathauses ist ideal, um die Regenkleidung für die Tour richtig anzupassen.",
+                "hu": "A városháza előteteje ideális arra, hogy a túra előtt megfelelően igazítsa meg az esőruházatát.",
+                "ro": "Copertina primăriei este ideală pentru a vă ajusta corect hainele de ploaie înainte de tur.",
+                "en": "The canopy of the town hall is ideal for adjusting your rain gear properly before the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Szent Bertalan-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf dem nassen Pflaster vor der Kirche, um sicher zum Stehen zu kommen.",
+                "hu": "Fékezzen időben a templom előtti nedves macskakövön, hogy biztonságosan meg tudjon állni.",
+                "ro": "Frânați din timp pe pavajul umed din fața bisericii pentru a vă opri în condiții de siguranță.",
+                "en": "Brake early on the wet cobblestones in front of the church to come to a safe stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Priorat Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Perjelség",
+                "ro": "Prioratul Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Retten Sie sich vor dem Schauer in die historischen Gänge; lassen Sie das nasse Rad sicher draußen.",
+                "hu": "Meneküljön a zápor elől a történelmi folyosókra; a nedves kerékpárt biztonságosan hagyja kint.",
+                "ro": "Refugiați-vă din calea averselor în coridoarele istorice; lăsați bicicleta umedă în siguranță afară.",
+                "en": "Take refuge from the shower in the historic corridors; leave the wet bike safely outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jules",
+                "hu": "Szent Gyula-templom",
+                "ro": "Biserica Saint-Jules",
+                "en": "Église Saint-Jules"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener Schutz vor dem Regen; achten Sie auf Pfützen beim Absteigen vom Fahrrad.",
+                "hu": "Szívesen látott menedék az eső elől; ügyeljen a tócsákra, amikor leszáll a kerékpárról.",
+                "ro": "Un refugiu binevenit de ploaie; aveți grijă la bălți atunci când coborâți de pe bicicletă.",
+                "en": "A welcome refuge from the rain; watch out for puddles when getting off your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Plaine des Jeux",
+                "hu": "Plaine des Jeux Szabadidőpark",
+                "ro": "Parcul Plaine des Jeux",
+                "en": "Plaine des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Die Wege sind schlammig, also bleiben Sie auf den befestigten Pfaden und suchen Sie die überdachten Bereiche.",
+                "hu": "Az utak sárosak lehetnek, ezért maradjon a burkolt ösvényeken, és keresse a fedett területeket.",
+                "ro": "Potecile pot fi noroioase, așa că rămâneți pe cărările pavate și căutați zonele acoperite.",
+                "en": "The paths can be muddy, so stay on the paved trails and look for the covered areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Rathaus erfordert warme Handschuhe. Mittags radeln Sie zügig zur Kirche Saint-Barthélémy und zum Priorat, um in Bewegung zu bleiben und der Kälte zu trotzen. Am Nachmittag bietet die Kirche Saint-Jules eine kurze Aufwärmpause. Beenden Sie die Tour an der Plaine des Jeux noch vor Einbruch der frühen winterlichen Dunkelheit, da die Wege eisig werden könnten.",
+            "hu": "A fagyos indulás a Városházánál meleg kesztyűt igényel. Délben tekerjen tempósan a Szent Bertalan-templomhoz és a Perjelséghez, hogy mozgásban maradjon a hideg ellen. Délután a Szent Gyula-templom kínál rövid felmelegedést. Fejezze be a túrát a Plaine des Jeux-nél még a korai téli sötétedés előtt, mivel az utak jegesedhetnek.",
+            "ro": "Un început înghețat la Primărie necesită mănuși calde. La prânz, pedalați rapid către Biserica Saint-Barthélémy și Priorat pentru a rămâne în mișcare împotriva frigului. După-amiaza, Biserica Saint-Jules oferă o scurtă încălzire. Terminați turul la Plaine des Jeux înainte de lăsarea devreme a întunericului, deoarece drumurile pot deveni înghețate.",
+            "en": "A frosty start at the Town Hall requires warm gloves. At noon, pedal quickly to Saint-Barthélémy Church and the Priory to stay moving against the cold. In the afternoon, Saint-Jules Church offers a short warm-up. Finish the tour at the Plaine des Jeux before the early winter darkness falls, as the paths might get icy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Városháza",
+                "ro": "Primăria Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermokleidung für die Abfahrt; die Architektur hebt sich klar gegen den Winterhimmel ab.",
+                "hu": "Viseljen termo ruházatot az induláshoz; az építészet élesen elüt a tiszta, hideg téli égtől.",
+                "ro": "Purtați haine termice la plecare; arhitectura iese în evidență clar pe cerul limpede de iarnă.",
+                "en": "Wear thermal clothing for the departure; the architecture stands out clearly against the winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Szent Bertalan-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Fahrtwind lässt nach, wenn Sie die massiven und schützenden Türen der Kirche erreichen.",
+                "hu": "A hideg menetszél alábbhagy, amint eléri a templom masszív és védelmet nyújtó kapuit.",
+                "ro": "Vântul rece se domolește imediat ce ajungeți la ușile masive și protectoare ale bisericii.",
+                "en": "The cold headwind subsides as soon as you reach the massive and protective doors of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Priorat Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Perjelség",
+                "ro": "Prioratul Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einem heißen Tee aus der Thermoskanne, bevor Sie die eisigen Ruinen besichtigen.",
+                "hu": "Melegítse fel a kezét egy forró teával a termoszából, mielőtt megtekinti a fagyos romokat.",
+                "ro": "Încălziți-vă mâinile cu un ceai fierbinte din termos înainte de a vizita ruinele înghețate.",
+                "en": "Warm your hands with a hot tea from your thermos before visiting the frosty ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jules",
+                "hu": "Szent Gyula-templom",
+                "ro": "Biserica Saint-Jules",
+                "en": "Église Saint-Jules"
+              },
+              "tip_5lang": {
+                "de": "Ein stiller Ort zum Aufwärmen; die klare Winterluft sorgt für eine exzellente Sicht auf die Fassade.",
+                "hu": "Csendes hely a felmelegedéshez; a tiszta téli levegő kiváló rálátást biztosít a homlokzatra.",
+                "ro": "Un loc liniștit pentru a vă încălzi; aerul curat de iarnă oferă o vedere excelentă a fațadei.",
+                "en": "A quiet place to warm up; the clear winter air provides an excellent view of the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Plaine des Jeux",
+                "hu": "Plaine des Jeux Szabadidőpark",
+                "ro": "Parcul Plaine des Jeux",
+                "en": "Plaine des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Wegen; planen Sie die Rückkehr vor dem Sonnenuntergang gegen 17 Uhr.",
+                "hu": "Ügyeljen az eljegesedett szakaszokra az utakon; tervezze a visszatérést a 17 óra körüli naplemente előtt.",
+                "ro": "Atenție la peticele de gheață de pe poteci; planificați întoarcerea înainte de apusul soarelui în jurul orei 17.",
+                "en": "Watch out for icy patches on the paths; plan your return before the sunset around 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje autós kirándulását a külvárosban, az egykori bányánál, ahol megelevenedik az ipartörténet. Délelőtt hajtson a Plaine des Jeux parkba egy kis kikapcsolódásra. A dél a központ történelmi kincseié: látogassa meg a Perjelséget és a szomszédos Szent Bertalan-templomot. A napot a modern Városháza téren zárhatja egy utolsó sétával.",
         "ro": "Începeți excursia motorizată la periferie, la Ancienne minière, unde istoria industrială prinde viață. Dimineața, conduceți spre Plaine des Jeux pentru relaxare. Prânzul este dedicat comorilor istorice din centru: vizitați Prioratul și biserica vecină Saint-Barthélémy. Încheiați-vă ziua la piațeta modernă a Primăriei înainte de plecare.",
         "en": "Start your motorized excursion on the outskirts at the Ancienne Minière, where industrial history comes alive. By mid-morning, drive to the Plaine des Jeux for some recreation. Midday is dedicated to the historic treasures in the center: visit the Priory and the neighboring Église Saint-Barthélémy. Round off your day at the modern Town Hall square."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die regnerische Fahrt an der ehemaligen Mine, wo Sie im Auto das Nieselwetter ignorieren können. Mittags fahren Sie zur Plaine des Jeux, um geschützte Ausblicke zu genießen. Am Nachmittag parken Sie nahe beim Priorat und der Kirche Saint-Barthélémy, um die kurzen Wege im Regen zu nutzen. Abends betrachten Sie das beleuchtete Rathaus gemütlich durch die regennassen Scheiben.",
+            "hu": "Kezdje az esős autózást az egykori bányánál, ahol a fűtött kocsiból figyelheti a szitáló esőt. Délben vezessen a Plaine des Jeux felé, és élvezze a védett kilátást. Délután parkoljon közel a Perjelséghez és a Szent Bertalan-templomhoz, hogy minimalizálja az esőben töltött időt. Este kényelmesen, az eső áztatta szélvédőn keresztül csodálja meg a kivilágított Városházát.",
+            "ro": "Începeți plimbarea ploioasă cu mașina la fosta mină, unde puteți ignora burnița din interior. La prânz, conduceți spre Plaine des Jeux pentru priveliști protejate. După-amiaza, parcați aproape de Priorat și Biserica Saint-Barthélémy pentru a scurta mersul prin ploaie. Seara, admirați confortabil Primăria luminată prin parbrizul ud de ploaie.",
+            "en": "Start the rainy drive at the former mine, where you can ignore the drizzle from inside the car. At noon, drive towards the Plaine des Jeux for protected views. In the afternoon, park close to the Priory and Saint-Barthélémy Church to minimize walking in the rain. In the evening, comfortably admire the illuminated Town Hall through the rain-soaked windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ehemaliges Bergwerk",
+                "hu": "Egykori Bánya",
+                "ro": "Fosta Mină",
+                "en": "Ancienne minière"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historischen Anlagen vom sicheren, trockenen Auto aus; bei Regen wird der Boden hier sehr matschig.",
+                "hu": "Szemlélje a történelmi létesítményeket a száraz autóból; esőben a talaj itt nagyon sárossá, csúszóssá válik.",
+                "ro": "Priviți instalațiile istorice din mașina uscată; pe timp de ploaie pământul devine foarte noroios aici.",
+                "en": "Observe the historic facilities from the dry car; in the rain, the ground here becomes very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Plaine des Jeux",
+                "hu": "Plaine des Jeux Szabadidőpark",
+                "ro": "Parcul Plaine des Jeux",
+                "en": "Plaine des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Nähe der überdachten Picknickbereiche, um dem starken Regen zu entgehen.",
+                "hu": "Keressen parkolóhelyet a fedett piknikező helyek közelében, hogy elkerülje a heves esőzést a séta alatt.",
+                "ro": "Căutați un loc de parcare lângă zonele de picnic acoperite pentru a evita ploile puternice în timpul plimbării.",
+                "en": "Look for a parking space near the covered picnic areas to avoid the heavy rain during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Priorat Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Perjelség",
+                "ro": "Prioratul Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen großen Regenschirm für den kurzen Weg vom Parkplatz zu den schützenden Mauern des Priorats mit.",
+                "hu": "Vigyen magával egy nagy esernyőt a parkolótól a Perjelség védelmet nyújtó falaiig vezető rövid útra.",
+                "ro": "Luați o umbrelă mare pentru scurta plimbare de la parcare până la zidurile protectoare ale Prioratului.",
+                "en": "Take a large umbrella for the short walk from the parking lot to the protective walls of the Priory."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Szent Bertalan-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Die Wasserspeier am Gebäude sind bei starkem Regen faszinierend; achten Sie auf den rutschigen Eingangsbereich.",
+                "hu": "Az épület vízköpői heves esőzéskor lenyűgözőek; vigyázzon a csúszós bejárati részre a lépcsőknél.",
+                "ro": "Garguii clădirii sunt fascinanți în timpul ploilor abundente; aveți grijă la zona de intrare alunecoasă.",
+                "en": "The gargoyles on the building are fascinating during heavy rain; watch out for the slippery entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Városháza",
+                "ro": "Primăria Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Platz, um nicht nass zu werden, und bewundern Sie die Spiegelungen auf dem nassen Asphalt.",
+                "hu": "Parkoljon közvetlenül a téren, hogy ne ázzon meg, és csodálja meg a nedves aszfalton tükröződő fényeket.",
+                "ro": "Parcați direct în piață pentru a nu vă uda și admirați reflexiile pe asfaltul umed.",
+                "en": "Park directly in the square to avoid getting wet, and admire the reflections on the wet asphalt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Vormittag startet mit einer warmen Autofahrt zur ehemaligen Mine. Mittags erkunden Sie kurz die Plaine des Jeux und wärmen sich danach schnell wieder im Auto auf. Am Nachmittag besuchen Sie das Priorat und die Kirche Saint-Barthélémy, wenn die tiefstehende Wintersonne alles golden färbt. Am dunklen Abend gegen 17 Uhr erstrahlt das Rathaus festlich in der Kälte.",
+            "hu": "A fagyos délelőtt egy meleg autózással indul az egykori bányához. Délben tegyen egy rövid sétát a Plaine des Jeux-n, majd gyorsan melegedjen fel újra az autóban. Délután látogassa meg a Perjelséget és a Szent Bertalan-templomot, amikor a téli naplemente aranyra festi őket. A sötét, 17 óra körüli estén a Városháza ünnepien ragyog a hidegben.",
+            "ro": "Dimineața geroasă începe cu o plimbare caldă cu mașina spre fosta mină. La prânz, explorați scurt Plaine des Jeux și apoi încălziți-vă rapid înapoi în mașină. După-amiaza, vizitați Prioratul și Biserica Saint-Barthélémy, când apusul de iarnă pictează totul în auriu. În seara întunecată din jurul orei 17:00, Primăria strălucește festiv.",
+            "en": "The frosty morning starts with a warm drive to the former mine. At noon, briefly explore the Plaine des Jeux and then quickly warm up back in the car. In the afternoon, visit the Priory and Saint-Barthélémy Church when the low winter sun paints everything golden. On the dark evening around 5 PM, the Town Hall shines festively in the cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ehemaliges Bergwerk",
+                "hu": "Egykori Bánya",
+                "ro": "Fosta Mină",
+                "en": "Ancienne minière"
+              },
+              "tip_5lang": {
+                "de": "Die vereisten Strukturen der alten Mine bieten tolle Fotomotive; bleiben Sie jedoch sicherheitshalber im gut beheizten Auto.",
+                "hu": "A régi bánya eljegesedett szerkezetei remek fotótémát nyújtanak; a biztonság kedvéért azonban maradjon a fűtött autóban.",
+                "ro": "Structurile înghețate ale vechii mine oferă motive foto grozave; pentru siguranță însă, rămâneți în mașina încălzită.",
+                "en": "The icy structures of the old mine offer great photo opportunities; however, stay in the heated car for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitpark Plaine des Jeux",
+                "hu": "Plaine des Jeux Szabadidőpark",
+                "ro": "Parcul Plaine des Jeux",
+                "en": "Plaine des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Spaziergang in der Winterkälte tut gut; das Vorheizen des Autos für die Weiterfahrt ist empfehlenswert.",
+                "hu": "Egy rövid, frissítő séta a téli hidegben jót tesz; a továbbindulás előtt ajánlott az autót előmelegíteni.",
+                "ro": "O scurtă plimbare revigorantă în frigul iernii face bine; este recomandată preîncălzirea mașinii înainte de a merge mai departe.",
+                "en": "A short, crisp walk in the winter cold does you good; preheating the car before moving on is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Priorat Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Perjelség",
+                "ro": "Prioratul Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Priory"
+              },
+              "tip_5lang": {
+                "de": "Die Winterlandschaft umgibt das Priorat auf magische Weise; achten Sie beim Aussteigen auf überfrorene Pfützen auf dem Parkplatz.",
+                "hu": "A téli táj varázslatosan öleli körül a Perjelséget; kiszálláskor ügyeljen a parkolóban lévő befagyott tócsákra.",
+                "ro": "Peisajul de iarnă înconjoară Prioratul într-un mod magic; când coborâți, atenție la bălțile înghețate din parcare.",
+                "en": "The winter landscape surrounds the Priory magically; when getting out, watch out for frozen puddles in the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Barthélémy",
+                "hu": "Szent Bertalan-templom",
+                "ro": "Biserica Saint-Barthélémy",
+                "en": "Église Saint-Barthélémy"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern sind im Winter kälter als draußen; eine dicke Jacke ist auch für den kurzen Weg unerlässlich.",
+                "hu": "A vastag falak télen hidegebbek, mint a kinti levegő; egy vastag kabát még a rövid sétához is elengedhetetlen.",
+                "ro": "Zidurile groase sunt mai reci iarna decât afară; o jachetă groasă este esențială chiar și pentru scurta plimbare.",
+                "en": "The thick walls are colder in winter than outside; a thick jacket is essential even for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Mont-Saint-Martin",
+                "hu": "Mont-Saint-Martin Városháza",
+                "ro": "Primăria Mont-Saint-Martin",
+                "en": "Mont-Saint-Martin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus ist am frühen Winterabend wunderschön beleuchtet; ideal für einen schnellen Stopp in der Dämmerung.",
+                "hu": "A városháza a korai téli estén gyönyörűen kivilágított; ideális egy gyors megállóra a kora esti szürkületben.",
+                "ro": "Primăria este frumos luminată în serile de iarnă timpurii; ideal pentru o oprire rapidă în amurgul serii.",
+                "en": "The town hall is beautifully illuminated in the early winter evening; ideal for a quick stop in the twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

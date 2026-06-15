@@ -137,6 +137,168 @@
         "hu": "Napunkat azzal kezdjük, hogy a Tunel de Minería révén elmélyedünk a város gyökereiben.\n\nAhogy közeledik a dél, a Teatro Victoria klasszikus eleganciája bepillantást enged Durango nyüzsgő művészeti múltjába.\n\nA délután a szabadba hív, hogy megcsodáljuk a hazafias Monumento a la Bandera-t és a Miradorról nyíló lenyűgöző városi kilátást.\n\nSétánkat a Los Tres Durango emlékműnél elmélkedve zárjuk, magunkba szívva a késő délutáni hangulatot, mielőtt leszáll az est.",
         "ro": "Ne începem ziua explorând adânc rădăcinile orașului la Tunel de Minería.\n\nPe măsură ce se apropie amiaza, eleganța clasică a Teatrului Victoria oferă o privire în trecutul artistic vibrant al orașului Durango.\n\nDupă-amiaza ne scoate afară pentru a admira Monumento a la Bandera și priveliștile uimitoare ale orașului de la Mirador.\n\nÎncheiem plimbarea reflectând la Los Tres Durango, bucurându-ne de atmosfera de după-amiază târziu înainte de căderea serii.",
         "en": "We start our day delving deep into the city's roots at the Tunel de Minería.\n\nAs noon approaches, the classic elegance of Teatro Victoria offers a glimpse into Durango's vibrant artistic past.\n\nThe afternoon brings us outside to admire the patriotic Monumento a la Bandera and stunning city vistas from the nearby Mirador.\n\nWe conclude the walk reflecting at Los Tres Durango, soaking in the late afternoon ambiance before evening falls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Bergbautunnel perfekten Schutz vor Regen. Mittags genießen Sie die prachtvolle Innenarchitektur des Teatro Victoria im Trockenen. Nachmittags führt der Weg mit Regenschirm zum Monument, wo die Wolken tief über der Stadt hängen. Abends suchen wir Zuflucht in den historischen Arkaden des Zentrums, während die nassen Straßen das Licht der Laternen spiegeln.",
+            "hu": "Reggel a bányában kezdünk az eső elől védve. Délben a színház eleganciája nyújt fedett menedéket a záporok elől. Délután esőkabátban másszuk meg a dombot a kilátóhoz, ahol a felhők drámai látványt nyújtanak. Este a kivilágított belváros árkádjai alatt zárjuk a sétát, élvezve a vizes aszfalton megcsillanó fényeket és a friss, eső utáni levegőt.",
+            "ro": "Dimineața începe sub pământ în tunelul minier, ferit de ploaie. La prânz, interiorul somptuos al teatrului oferă un refugiu cultural uscat. După-amiaza, cu o umbrelă solidă, urcăm spre monument pentru o priveliște dramatică printre nori. Seara se încheie sub arcadele istorice din centru, unde luminile orașului se reflectă superb în bălțile de pe trotuar.",
+            "en": "Morning starts underground in the mining tunnel, perfectly sheltered from the rain. At noon, the theater's grand interior provides a dry cultural escape. In the afternoon, head to the monument with a sturdy umbrella for a misty view of the city. The evening concludes under the historic downtown arches, watching the city lights shimmer on the wet cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tunel de Minería",
+                "hu": "Tunel de Minería",
+                "ro": "Tunel de Minería",
+                "en": "Tunel de Minería"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Bergbaugeschichte völlig trocken unter der Erde; der Tunnel ist der beste Zufluchtsort bei plötzlichen Wolkenbrüchen im Zentrum.",
+                "hu": "Fedezze fel a bányászat történetét teljesen szárazon a föld alatt; a alagút a legjobb menedék a hirtelen lezúduló városközponti záporok elől.",
+                "ro": "Explorează istoria minieră complet uscat, sub pământ; tunelul este cel mai bun refugiu în cazul unei averse bruște în centrul orașului.",
+                "en": "Explore mining history while staying completely dry underground; the tunnel is the city's best sanctuary during sudden downpours in the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Victoria",
+                "hu": "Teatro Victoria",
+                "ro": "Teatro Victoria",
+                "en": "Teatro Victoria"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die neoklassizistische Pracht im warmen Innenraum; es ist der ideale Ort, um einen Regenschauer bei einer Führung abzuwarten.",
+                "hu": "Csodálja meg a neoklasszicista pompát a meleg belső térben; ideális hely egy vezetett túrára, amíg elvonul az eső a város felett.",
+                "ro": "Admiră splendoarea neoclasică în interiorul călduros; este locul ideal pentru a aștepta trecerea ploii în cadrul unui tur ghidat.",
+                "en": "Admire the neoclassical grandeur in the warm interior; it is the ideal spot to wait out a rain shower during a guided historical tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Bandera",
+                "hu": "Monumento a la Bandera",
+                "ro": "Monumento a la Bandera",
+                "en": "Monumento a la Bandera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht auf die stürmischen Berge; tragen Sie festes Schuhwerk, da die Stufen bei Nässe sehr rutschig sind.",
+                "hu": "Élvezze a drámai kilátást a viharos hegyekre; viseljen tapadós talpú cipőt, mert a lépcsők esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Bucură-te de vederea dramatică spre munții înstăpâniți de nori; poartă încălțăminte aderentă, deoarece treptele devin foarte alunecoase la umezeală.",
+                "en": "Enjoy the dramatic view of the stormy mountains; wear non-slip shoes as the steps can become extremely slippery when wet with rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador",
+                "hu": "Mirador",
+                "ro": "Mirador",
+                "en": "Mirador"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick über die neblige Stadt lohnt sich; halten Sie Ihre Kamera unter dem Regenschutz bereit für mystische Panoramafotos.",
+                "hu": "Egy rövid pillantás a ködös városra megéri a fáradságot; tartsa készenlétben kameráját az esővédő alatt a misztikus panorámafotókhoz.",
+                "ro": "O privire scurtă peste orașul cețos merită efortul; ține camera pregătită sub protecția de ploaie pentru fotografii panoramice mistice.",
+                "en": "A brief glance over the misty city is worth the effort; keep your camera ready under rain protection for mystical panoramic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Tres Durango",
+                "hu": "Los Tres Durango",
+                "ro": "Los Tres Durango",
+                "en": "Los Tres Durango"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei den Statuen; nutzen Sie die nahegelegenen Restaurant-Eingänge als trockenen Aussichtspunkt auf die beleuchteten Figuren.",
+                "hu": "Zárja a napot a szobroknál; használja a közeli éttermek bejáratait száraz kilátópontként a kivilágított történelmi alakok megcsodálásához.",
+                "ro": "Încheie ziua la statui; folosește intrările restaurantelor din apropiere ca punct de observație uscat pentru a admira figurile iluminate.",
+                "en": "End the day at the statues; use the nearby restaurant entrances as a dry vantage point to admire the illuminated historical figures."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der klare Wintermorgen beginnt erfrischend im Tunnel, wo die Temperatur konstant bleibt. Mittags wärmen wir uns im prächtigen Theater auf. Nachmittags nutzen wir die strahlende Wintersonne am Monument, bevor es um 17:00 Uhr schnell dunkel wird. Der Abend endet in der kühlen, aber festlich beleuchteten Altstadt, wo wir uns dick eingepackt zwischen den historischen Gebäuden bewegen.",
+            "hu": "A friss téli reggel a bányajáratban kezdődik, ahol a hőmérséklet kellemesen állandó. Délben a színház belső tereiben melegszünk fel. Délután kihasználjuk a szikrázó napsütést a kilátónál, mielőtt 17:00 körül hirtelen ránk sötétedik. A napot a hűvös, de hangulatosan kivilágított óvárosban zárjuk, rétegesen felöltözve a történelmi falak között.",
+            "ro": "Dimineața rece de iarnă începe revigorant în tunel, unde temperatura rămâne constantă. La prânz ne încălzim în interiorul teatrului. După-amiaza profităm de soarele strălucitor de iarnă la monument, înainte ca întunericul să se lase rapid în jurul orei 17:00. Seara se încheie în centrul vechi răcoros, dar luminat festiv, plimbându-ne bine înfofoliți.",
+            "en": "The crisp winter morning starts refreshingly in the tunnel, where the temperature stays constant. At noon, we warm up inside the magnificent theater. In the afternoon, we take advantage of the bright winter sun at the monument before darkness falls quickly around 5 PM. The evening ends in the cool but festively lit old town, wrapped in layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tunel de Minería",
+                "hu": "Tunel de Minería",
+                "ro": "Tunel de Minería",
+                "en": "Tunel de Minería"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Temperatur unter der Erde bietet eine angenehme Pause vom frostigen Morgenwind in den Straßen von Durango.",
+                "hu": "A föld alatti állandó hőmérséklet kellemes pihenőt nyújt a Durango utcáin fújó fagyos reggeli szél elől.",
+                "ro": "Temperatura constantă de sub pământ oferă o pauză plăcută de vântul înghețat de dimineață de pe străzile din Durango.",
+                "en": "The constant underground temperature provides a pleasant break from the frosty morning wind blowing through Durango's streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Victoria",
+                "hu": "Teatro Victoria",
+                "ro": "Teatro Victoria",
+                "en": "Teatro Victoria"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Inneren ist im Winter ein Muss; die prunkvolle Architektur lässt sich ohne Frieren in aller Ruhe bestaunen.",
+                "hu": "A belső látogatás télen kötelező; a pompás építészetet fagyoskodás nélkül, teljes nyugalomban csodálhatja meg a fűtött termekben.",
+                "ro": "O vizită în interior este obligatorie iarna; arhitectura somptuoasă poate fi admirată în liniște deplină, fără a îngheța.",
+                "en": "An indoor visit is a must in winter; the magnificent architecture can be admired in total comfort without feeling the outside chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Bandera",
+                "hu": "Monumento a la Bandera",
+                "ro": "Monumento a la Bandera",
+                "en": "Monumento a la Bandera"
+              },
+              "tip_5lang": {
+                "de": "Die Winterfernicht ist hier oben phänomenal; bringen Sie eine dicke Jacke mit, da der Wind auf dem Hügel deutlich kühler weht.",
+                "hu": "A téli távolbalátás itt fent zseniális; vigyen magával vastag kabátot, mert a dombtetőn a szél jóval hűvösebbnek érződik.",
+                "ro": "Vizibilitatea pe timp de iarnă este fenomenală aici; adu o jachetă groasă, deoarece vântul pe deal se simte mult mai rece.",
+                "en": "The winter long-distance visibility is phenomenal here; bring a heavy jacket as the wind on the hill feels significantly colder."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador",
+                "hu": "Mirador",
+                "ro": "Mirador",
+                "en": "Mirador"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor 17:00 Uhr für einen spektakulären Wintersonnenuntergang; das goldene Licht über der Stadt ist jetzt besonders scharf.",
+                "hu": "Érkezzen nem sokkal 17:00 előtt a látványos téli naplementéhez; az aranyfény a város felett ilyenkor különösen éles és tiszta.",
+                "ro": "Vino cu puțin înainte de ora 17:00 pentru un apus de iarnă spectaculos; lumina aurie peste oraș este acum deosebit de clară.",
+                "en": "Arrive shortly before 5 PM for a spectacular winter sunset; the golden light over the city is exceptionally sharp and clear now."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Tres Durango",
+                "hu": "Los Tres Durango",
+                "ro": "Los Tres Durango",
+                "en": "Los Tres Durango"
+              },
+              "tip_5lang": {
+                "de": "Die Statuen wirken im frühen Abendlicht besonders imposant; suchen Sie danach schnell eines der warmen Cafés in der Nähe auf.",
+                "hu": "A szobrok a kora esti fényekben különösen impozánsak; a látogatás után keressen fel gyorsan egy közeli meleg kávézót.",
+                "ro": "Statuile par deosebit de impunătoare în lumina serii devreme; după vizită, caută rapid una dintre cafenelele calde din apropiere.",
+                "en": "The statues look particularly imposing in the early evening light; quickly find a warm nearby café after your visit to thaw out."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpárjainkkal a Museo de Arte Funerario nyugodt, szobrokkal szegélyezett ösvényein indulunk útnak.\n\nDél előtt leereszkedünk a föld alá a Tunel de Minería-ban, amely lenyűgöző kontrasztot nyújt a nyílt éggel szemben.\n\nA délutáni túra fenséges történelmi emlékművek mellett vezet el, egészen a nyüzsgő és zöld Zologico Guadianáig.\n\nEnergikus napunkat a Museo Bebeleche-nél fejezzük be, ahol leszállunk a kerékpárról, hogy élvezzük az interaktív szórakozást naplemente közben.",
         "ro": "Pornim pe biciclete pe aleile liniștite, mărginite de statui, ale Muzeului de Artă Funerară.\n\nÎnainte de prânz, coborâm în pământ la Tunel de Minería, un contrast fascinant cu cerul liber.\n\nPlimbarea de după-amiază ne poartă pe lângă monumente istorice maiestuoase, conducând la Grădina Zoologică Guadiana, plină de viață și verdeață.\n\nNe încheiem ziua plină de energie la Museo Bebeleche, descălecând pentru a ne bucura de distracție interactivă pe măsură ce soarele apune.",
         "en": "We set off on our bicycles through the serene, statue-lined paths of the Museo de Arte Funerario.\n\nBefore noon, we delve into the earth at the Tunel de Minería, a fascinating contrast to the open skies.\n\nThe afternoon ride takes us past majestic historical monuments, leading up to the lively and green Zologico Guadiana.\n\nWe end our energetic day at the Museo Bebeleche, dismounting to enjoy some interactive fun as the sun goes down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Tour im geschützten Friedhofsmuseum. Mittags bietet der Bergbautunnel eine trockene Passage. Nachmittags radeln wir vorsichtig auf nassen Wegen durch den Park zum Zoo. Der Abend endet im interaktiven Bebeleche Museum, wo wir im Trockenen bleiben und unsere Ausrüstung trocknen können, während wir die Wissenschaft erkunden.",
+            "hu": "Az eső ellenére a védettebb temetómúzeumban kezdünk. Délben a bányajárat nyújt száraz útvonalat a város alatt. Délután óvatosan tekerünk a vizes utakon a parkon át az állatkertig, figyelve a csúszós levelekre. A napot a Bebeleche Múzeumban zárjuk, ahol fedett helyen kalandozhatunk a tudomány világában, amíg felszerelésünk megszárad.",
+            "ro": "În ciuda ploii, începem turul în muzeul cimitirului, mai protejat. La prânz, tunelul minier oferă o trecere uscată sub oraș. După-amiaza pedalăm cu atenție pe drumurile ude prin parc spre grădina zoologică. Ziua se încheie la Muzeul Bebeleche, unde rămânem la adăpost și ne putem usca echipamentul în timp ce explorăm știința.",
+            "en": "Despite the rain, we start the tour in the sheltered cemetery museum. At noon, the mining tunnel offers a dry passage beneath the city. In the afternoon, we cycle carefully on wet paths through the park to the zoo. The day ends at the Bebeleche Museum, staying indoors and drying our gear while exploring the world of science."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Arte Funerario Benigno Montoya",
+                "hu": "Museo de Arte Funerario Benigno Montoya",
+                "ro": "Museo de Arte Funerario Benigno Montoya",
+                "en": "Museo de Arte Funerario Benigno Montoya"
+              },
+              "tip_5lang": {
+                "de": "Die Skulpturen wirken im Regen melancholisch schön; bleiben Sie auf den befestigten Wegen, um Schlamm auf den Reifen zu vermeiden.",
+                "hu": "A szobrok az esőben melankolikusan szépek; maradjon a kövezett utakon, hogy elkerülje a sár felverődését a kerékpárgumikra.",
+                "ro": "Sculpturile par melancolice și frumoase în ploaie; rămâi pe potecile pavate pentru a evita noroiul pe anvelopele bicicletei.",
+                "en": "The sculptures look melancholically beautiful in the rain; stay on the paved paths to avoid getting mud on your bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunel de Minería",
+                "hu": "Tunel de Minería",
+                "ro": "Tunel de Minería",
+                "en": "Tunel de Minería"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab; der Tunnel ist der perfekte Ort, um ein schweres Gewitter im trockenen Stadtzentrum abzuwarten.",
+                "hu": "Parkolja le biztonságosan a biciklit; az alagút tökéletes hely egy heves zivatar megvárására a száraz városközpontban.",
+                "ro": "Parchează bicicleta în siguranță; tunelul este locul perfect pentru a aștepta trecerea unei furtuni în centrul uscat al orașului.",
+                "en": "Park your bike securely; the tunnel is the perfect place to wait out a heavy thunderstorm in the dry city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Gral. Gpe. Victoria",
+                "hu": "Monumento al Gral. Gpe. Victoria",
+                "ro": "Monumento al Gral. Gpe. Victoria",
+                "en": "Monumento al Gral. Gpe. Victoria"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier; achten Sie beim Anfahren auf die glatten Markierungen auf dem nassen Asphalt am Kreisverkehr.",
+                "hu": "Egy rövid fotómegálló elég itt; induláskor ügyeljen a vizes aszfalton lévő csúszós útburkolati jelekre a körforgalomnál.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă; atenție la marcajele rutiere alunecoase de pe asfaltul ud la plecarea din sensul giratoriu.",
+                "en": "A quick photo stop is enough here; watch out for slippery road markings on the wet asphalt when starting off at the roundabout."
+              }
+            },
+            {
+              "name": {
+                "de": "450 aniversario",
+                "hu": "450 aniversario",
+                "ro": "450 aniversario",
+                "en": "450 aniversario"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Struktur glänzt im Regen; nutzen Sie die kurzen Ampelphasen, um sich unter den nahen Bäumen kurz unterzustellen.",
+                "hu": "A modern struktúra csillog az esőben; használja ki a rövid piros lámpákat, hogy a közeli fák alá húzódva védje magát az esőtől.",
+                "ro": "Structura modernă strălucește în ploaie; profită de fazele scurte ale semaforului pentru a te adăposti puțin sub copacii din apropiere.",
+                "en": "The modern structure shines in the rain; use the short traffic light phases to take quick cover under the nearby trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Zologico Guadiana",
+                "hu": "Zologico Guadiana",
+                "ro": "Zologico Guadiana",
+                "en": "Zologico Guadiana"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Park; nasse Blätter auf dem Radweg können gefährlich rutschig sein, besonders in den Kurven zum Zoo.",
+                "hu": "Hajtson lassan a parkon át; a vizes levelek a kerékpárúton veszélyesen csúszósak lehetnek, különösen az állatkert felé vezető kanyarokban.",
+                "ro": "Mergi încet prin parc; frunzele ude de pe pista de biciclete pot fi periculos de alunecoase, mai ales în curbele spre grădina zoologică.",
+                "en": "Ride slowly through the park; wet leaves on the cycle path can be dangerously slippery, especially in the curves toward the zoo."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Bebeleche",
+                "hu": "Museo Bebeleche",
+                "ro": "Museo Bebeleche",
+                "en": "Museo Bebeleche"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss im Trockenen; genießen Sie die interaktiven Ausstellungen, während draußen der Abendregen die Stadt abkühlt.",
+                "hu": "Ideális befejezés száraz helyen; élvezze az interaktív kiállításokat, miközben kint az esti eső lehűti a várost.",
+                "ro": "Finalul ideal la adăpost; bucură-te de expozițiile interactive în timp ce afară ploaia de seară răcorește orașul.",
+                "en": "The ideal ending in the dry; enjoy the interactive exhibits while the evening rain cools down the city outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour erfordert warme Handschuhe gegen den kühlen Fahrtwind. Vormittags erkunden wir den ruhigen Friedhof. Mittags bietet der Tunnel eine willkommene Aufwärmpause. Nachmittags nutzen wir das letzte Tageslicht im Park, bevor wir um 17:00 Uhr das Bebeleche Museum erreichen. Der Tag endet dort im Warmen, pünktlich zum frühen Einbruch der Dunkelheit über Durango.",
+            "hu": "A téli túrához meleg kesztyűre lesz szükség a hűvös menetszél ellen. Délelőtt a csendes temetőt fedezzük fel. Délben a bányajárat nyújt melengető szünetet. Délután kihasználjuk az utolsó fényeket a parkban, mielőtt 17:00-kor elérjük a Bebeleche Múzeumot. A nap ott ér véget a melegben, pont amikor korán leszáll az éj Durango felett.",
+            "ro": "Turul de iarnă necesită mănuși groase împotriva vântului rece. Dimineața explorăm cimitirul liniștit. La prânz, tunelul oferă o pauză de încălzire binevenită. După-amiaza profităm de ultima lumină din parc înainte de a ajunge la Muzeul Bebeleche la ora 17:00. Ziua se încheie acolo, la căldură, fix când se lasă întunericul peste Durango.",
+            "en": "The winter tour requires warm gloves against the cool headwind. In the morning, we explore the quiet cemetery. At noon, the tunnel offers a welcome warming break. In the afternoon, we use the last daylight in the park before reaching the Bebeleche Museum at 5 PM. The day ends there in the warmth, just as darkness falls early over Durango."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Arte Funerario Benigno Montoya",
+                "hu": "Museo de Arte Funerario Benigno Montoya",
+                "ro": "Museo de Arte Funerario Benigno Montoya",
+                "en": "Museo de Arte Funerario Benigno Montoya"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht betont die Details der Steinarbeiten; bewegen Sie sich stetig, um bei den niedrigen Morgentemperaturen warm zu bleiben.",
+                "hu": "A tiszta téli fény kiemeli a kőmunkák részleteit; mozogjon folyamatosan, hogy melegen tartsa magát az alacsony reggeli hőmérsékletben.",
+                "ro": "Lumina clară de iarnă accentuează detaliile sculpturilor; mișcă-te constant pentru a te menține cald la temperaturile scăzute de dimineață.",
+                "en": "The clear winter light emphasizes the details of the stonework; keep moving steadily to stay warm in the low morning temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunel de Minería",
+                "hu": "Tunel de Minería",
+                "ro": "Tunel de Minería",
+                "en": "Tunel de Minería"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die tauben Finger aufzuwärmen; die windgeschützte Umgebung unter Tage ist im Winter eine echte Wohltat.",
+                "hu": "Ideális megálló az elgémberedett ujjak felmelegítésére; a szélvédett föld alatti környezet télen igazi áldás a bicikliseknek.",
+                "ro": "O oprire ideală pentru a-ți încălzi degetele amorțite; mediul ferit de vânt de sub pământ este o binecuvântare iarna.",
+                "en": "An ideal stop to warm up numb fingers; the wind-protected underground environment is a real blessing for cyclists in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Gral. Gpe. Victoria",
+                "hu": "Monumento al Gral. Gpe. Victoria",
+                "ro": "Monumento al Gral. Gpe. Victoria",
+                "en": "Monumento al Gral. Gpe. Victoria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht auf die Sierra Madre; treten Sie kräftig in die Pedale, um den kühlen Wind am offenen Denkmal auszugleichen.",
+                "hu": "Élvezze a távoli kilátást a Sierra Madre hegyeire; tekerjen tempósan, hogy ellensúlyozza a hűvös szelet a nyitott emlékműnél.",
+                "ro": "Bucură-te de vederea largă spre munții Sierra Madre; pedalează energic pentru a compensa vântul rece de la monumentul deschis.",
+                "en": "Enjoy the expansive view of the Sierra Madre; pedal briskly to offset the cool wind at the open memorial site."
+              }
+            },
+            {
+              "name": {
+                "de": "450 aniversario",
+                "hu": "450 aniversario",
+                "ro": "450 aniversario",
+                "en": "450 aniversario"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Beleuchtung vor der Abfahrt; die Wintersonne sinkt jetzt schnell und Sie brauchen gute Sichtbarkeit im Stadtverkehr.",
+                "hu": "Indulás előtt ellenőrizze a világítást; a téli nap gyorsan bukik a horizont alá, és jó láthatóságra lesz szüksége a városi forgalomban.",
+                "ro": "Verifică luminile înainte de plecare; soarele de iarnă apune rapid și vei avea nevoie de vizibilitate bună în traficul urban.",
+                "en": "Check your lights before departing; the winter sun is setting fast, and you will need good visibility in the city traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Zologico Guadiana",
+                "hu": "Zologico Guadiana",
+                "ro": "Zologico Guadiana",
+                "en": "Zologico Guadiana"
+              },
+              "tip_5lang": {
+                "de": "Viele Tiere sind bei kühlerem Wetter aktiver; nutzen Sie die Waldwege im Park als natürlichen Windschutz während Ihrer Fahrt.",
+                "hu": "Sok állat aktívabb a hűvösebb időben; használja a park erdei útjait természetes szélfogóként a tekerés közben.",
+                "ro": "Multe animale sunt mai active pe vreme răcoroasă; folosește potecile împădurite din parc ca protecție naturală împotriva vântului.",
+                "en": "Many animals are more active in cooler weather; use the wooded paths in the park as natural windbreaks during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Bebeleche",
+                "hu": "Museo Bebeleche",
+                "ro": "Museo Bebeleche",
+                "en": "Museo Bebeleche"
+              },
+              "tip_5lang": {
+                "de": "Verstauen Sie Ihre Winterkleidung im Schließfach; genießen Sie den restlichen Nachmittag im warmen, modernen Gebäude bis zum Abend.",
+                "hu": "Tegye a téli ruháit a szekrénybe; élvezze a délután hátralévő részét a meleg, modern épületben egészen estig.",
+                "ro": "Pune hainele de iarnă în dulapul securizat; bucură-te de restul după-amiezii în clădirea caldă și modernă până seara.",
+                "en": "Stow your winter layers in a locker; enjoy the rest of the afternoon in the warm, modern building until the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós kalandunkat egy csendes elmélkedéssel kezdjük az ősi Monumento de piedra-nál, megadva a nap történelmi alaphangját.\n\nUtazásunkat folytatva, Benigno Montoya bonyolult temetkezési művészete az élet és a művészet lélegzetelállító egymásra helyezését kínálja a déli hőség előtt.\n\nA délutáni autózás kiemelkedő emlékművek és a Teatro Durango lenyűgöző modern építészete mellett halad el, ötvözve a városfejlődés korszakait.\n\nZárásként megcsodáljuk a kolosszális Monumentális Zászlót, majd a sötétedés közeledtével az interaktív Museo Bebeleche-ben kapcsolódunk ki.",
         "ro": "Ne începem aventura auto cu o reflecție liniștită la vechiul Monumento de piatră, stabilind un ton istoric pentru ziua respectivă.\n\nContinuându-ne călătoria, arta funerară complexă a lui Benigno Montoya oferă o juxtapunere uluitoare a vieții și artei înainte de căldura amiezii.\n\nDrumul de după-amiază trece pe lângă memoriale proeminente și arhitectura modernă impresionantă a Teatrului Durango, îmbinând epocile de creștere a orașului.\n\nÎncheiem minunându-ne de colosalul Drapel Monumental și relaxându-ne la Muzeul interactiv Bebeleche pe măsură ce se apropie amurgul.",
         "en": "We start our driving adventure with a quiet reflection at the ancient Monumento de piedra, setting a historical tone for the day.\n\nContinuing our journey, the intricate funerary art of Benigno Montoya offers a breathtaking juxtaposition of life and art before the midday heat.\n\nThe afternoon drive sweeps past prominent memorials and the striking modern architecture of Teatro Durango, blending eras of city growth.\n\nWe conclude by marveling at the colossal Monumental Flag and unwinding at the interactive Museo Bebeleche as dusk approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Durango trotz des Regens bequem und trocken. Vormittags besuchen wir Denkmäler und Museen, ohne nass zu werden. Mittags bietet das Theater einen exzellenten Kulturstopp. Nachmittags fahren wir zum Bebeleche Museum, dem besten Ort für Familien an Regentagen. Der Abend endet entspannt, während wir die beleuchtete Stadt durch die regennassen Scheiben genießen.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Durangót az eső ellenére is. Délelőtt a műemlékeket és múzeumokat látogatjuk meg anélkül, hogy bőrig áznánk. Délben a színház nyújt kiváló kulturális megállót. Délután a Bebeleche Múzeumba hajtunk, ami a legjobb hely esős napokon. A napot pihentetően zárjuk, az autó ablakán át nézve a kivilágított várost.",
+            "ro": "Cu mașina explorăm Durango confortabil și uscat, în ciuda ploii. Dimineața vizităm monumentele și muzeele fără a ne uda. La prânz, teatrul oferă o oprire culturală excelentă. După-amiaza conducem spre Muzeul Bebeleche, cel mai bun loc pentru familii în zilele ploioase. Seara se încheie relaxat, admirând orașul iluminat prin geamurile ude.",
+            "en": "By car, we explore Durango comfortably and dryly despite the rain. In the morning, we visit monuments and museums without getting soaked. At noon, the theater offers an excellent cultural stop. In the afternoon, we drive to the Bebeleche Museum, the best indoor spot for rainy days. The evening ends relaxingly, watching the lit city through the rain-streaked windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento de piedra",
+                "hu": "Monumento de piedra",
+                "ro": "Monumento de piedra",
+                "en": "Monumento de piedra"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Denkmal direkt aus dem Fenster; es ist ein markanter Orientierungspunkt am Stadteingang bei schlechter Sicht.",
+                "hu": "Nézze meg ezt az emlékművet közvetlenül az ablakból; feltűnő tájékozódási pont a város bejáratánál rossz látási viszonyok között is.",
+                "ro": "Admiră acest monument direct de pe fereastră; este un punct de orientare marcant la intrarea în oraș în condiții de vizibilitate redusă.",
+                "en": "Observe this monument directly from your window; it is a prominent landmark at the city entrance during poor visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte Funerario Benigno Montoya",
+                "hu": "Museo de Arte Funerario Benigno Montoya",
+                "ro": "Museo de Arte Funerario Benigno Montoya",
+                "en": "Museo de Arte Funerario Benigno Montoya"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang; ein großer Regenschirm ist für den Weg zwischen den beeindruckenden Grabmälern unerlässlich.",
+                "hu": "Használja a bejárathoz közeli parkolót; egy nagy esernyő elengedhetetlen a lenyűgöző síremlékek közötti sétához az esőben.",
+                "ro": "Folosește parcarea de lângă intrare; o umbrelă mare este indispensabilă pentru plimbarea printre mormintele impresionante pe ploaie.",
+                "en": "Use the parking lot near the entrance; a large umbrella is essential for the walk between the impressive tombs in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Luis Donaldo Colosio",
+                "hu": "Monumento a Luis Donaldo Colosio",
+                "ro": "Monumento a Luis Donaldo Colosio",
+                "en": "Monumento a Luis Donaldo Colosio"
+              },
+              "tip_5lang": {
+                "de": "Die breiten Boulevards sind auch bei Regen gut befahrbar; halten Sie kurz an der Seite für ein schnelles Foto der modernen Anlage.",
+                "hu": "A széles sugárutak esőben is jól járhatók; álljon meg egy pillanatra az út szélén egy gyors fotó erejéig a modern építményről.",
+                "ro": "Bulevardele largi sunt ușor de parcurs și pe ploaie; oprește scurt pe marginea drumului pentru o fotografie rapidă a structurii moderne.",
+                "en": "The wide boulevards are easy to navigate even in rain; pull over briefly for a quick photo of the modern architectural structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Durango",
+                "hu": "Teatro Durango",
+                "ro": "Teatro Durango",
+                "en": "Teatro Durango"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Begleiter direkt vor dem Eingang aussteigen, um trocken zu bleiben; das Gebäude bietet exzellenten Schutz vor Wind.",
+                "hu": "Engedje ki utasait közvetlenül a bejáratnál, hogy szárazon maradjanak; az épület kiváló védelmet nyújt a metsző szél és eső elől.",
+                "ro": "Lasă pasagerii direct la intrare pentru a rămâne uscați; clădirea oferă o protecție excelentă împotriva vântului și ploii.",
+                "en": "Drop off your passengers directly at the entrance to keep them dry; the building provides excellent shelter from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumental Flag",
+                "hu": "Monumental Flag",
+                "ro": "Monumental Flag",
+                "en": "Monumental Flag"
+              },
+              "tip_5lang": {
+                "de": "Die riesige Flagge ist im Regenwind besonders imposant; der Parkplatz bietet eine tolle Panorama-Aussicht, ohne das Auto zu verlassen.",
+                "hu": "A hatalmas zászló az esős szélben különösen impozáns; a parkolóból nagyszerű panoráma nyílik anélkül, hogy ki kellene szállnia.",
+                "ro": "Steagul uriaș este impunător în vântul ploios; parcarea oferă o panoramă grozavă fără a fi nevoie să cobori din mașină.",
+                "en": "The giant flag is especially imposing in the rainy wind; the parking lot offers a great panorama without needing to exit the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Bebeleche",
+                "hu": "Museo Bebeleche",
+                "ro": "Museo Bebeleche",
+                "en": "Museo Bebeleche"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Gelände; das Museum ist die beste Wahl, um den restlichen Regentag im Warmen und Trockenen zu verbringen.",
+                "hu": "Parkoljon a kövezett területen; a múzeum a legjobb választás, hogy az esős nap hátralévő részét melegben és szárazon töltse.",
+                "ro": "Parchează pe suprafața pavată; muzeul este cea mai bună alegere pentru a petrece restul zilei ploioase la căldură și uscat.",
+                "en": "Park on the paved lot; the museum is your best choice for spending the rest of the rainy day in warmth and total comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im geheizten Auto genießen wir die winterlichen Highlights von Durango. Vormittags besuchen wir den ruhigen Montoya-Friedhof. Mittags wärmen wir uns bei Kulturstopps auf. Nachmittags nutzen wir das strahlende Licht an den Denkmälern, bevor um 17:00 Uhr die Sonne untergeht. Der Abend im Bebeleche Museum bietet einen gemütlichen, warmen Ausklang des Tages in moderner Atmosphäre.",
+            "hu": "A fűtött autóban élvezzük Durango téli látnivalóit. Délelőtt a csendes Montoya-temetőt látogatjuk meg. Délben kulturális megállókkal melegszünk fel. Délután kihasználjuk a szikrázó fényeket az emlékműveknél, mielőtt 17:00-kor lemegy a nap. Az este a Bebeleche Múzeumban telik, ami hangulatos és meleg befejezést nyújt a napnak modern környezetben.",
+            "ro": "În mașina încălzită ne bucurăm de atracțiile de iarnă din Durango. Dimineața vizităm cimitirul liniștit Montoya. La prânz ne încălzim cu opriri culturale. După-amiaza profităm de lumina strălucitoare de la monumente înainte ca soarele să apună la ora 17:00. Seara la Muzeul Bebeleche oferă un final cald și plăcut zilei, într-o atmosferă modernă.",
+            "en": "In a heated car, we enjoy Durango's winter highlights. In the morning, we visit the quiet Montoya cemetery. At noon, we warm up with cultural stops. In the afternoon, we take advantage of the brilliant light at the monuments before the sun sets at 5 PM. The evening at the Bebeleche Museum provides a cozy, warm end to the day in a modern setting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento de piedra",
+                "hu": "Monumento de piedra",
+                "ro": "Monumento de piedra",
+                "en": "Monumento de piedra"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Tour hier im Warmen; das klare Winterlicht lässt den Stein in der Morgensonne besonders hell erstrahlen.",
+                "hu": "Kezdje itt a túrát a meleg autóban; a tiszta téli fényben a kő különösen fehéren ragyog a reggeli napsütésben.",
+                "ro": "Începe turul aici în căldură; în lumina clară de iarnă, piatra strălucește deosebit de alb în soarele dimineții.",
+                "en": "Start your tour here in the warmth; the clear winter light makes the stone shine particularly bright in the morning sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte Funerario Benigno Montoya",
+                "hu": "Museo de Arte Funerario Benigno Montoya",
+                "ro": "Museo de Arte Funerario Benigno Montoya",
+                "en": "Museo de Arte Funerario Benigno Montoya"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie einen warmen Mantel für den Rundgang; die Kälte bewahrt die feierliche Stille dieser beeindruckenden Kunststätte.",
+                "hu": "Viseljen meleg kabátot a sétához; a hideg megőrzi ennek a lenyűgöző művészeti helyszínnek az ünnepélyes csendjét.",
+                "ro": "Poartă un palton gros pentru plimbare; frigul păstrează liniștea solemnă a acestui sit artistic impresionant.",
+                "en": "Wear a warm coat for the walk; the cold preserves the solemn silence of this impressive and artistic historical site."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Luis Donaldo Colosio",
+                "hu": "Monumento a Luis Donaldo Colosio",
+                "ro": "Monumento a Luis Donaldo Colosio",
+                "en": "Monumento a Luis Donaldo Colosio"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein kurzes Winterfoto; die moderne Anlage ist im Winter kaum besucht und bietet tolle freie Sichtlinien.",
+                "hu": "Tökéletes egy gyors téli fotóhoz; a modern létesítmény télen alig látogatott, így remek, szabad kilátást nyújt a szoborra.",
+                "ro": "Perfect pentru o fotografie rapidă de iarnă; situl modern este puțin vizitat iarna și oferă perspective libere grozave.",
+                "en": "Perfect for a quick winter photo; the modern site is rarely crowded in winter, offering great unobstructed views for pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Durango",
+                "hu": "Teatro Durango",
+                "ro": "Teatro Durango",
+                "en": "Teatro Durango"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Innenräume; es ist der ideale Ort, um die Kälte des Nachmittags für eine Weile zu vergessen.",
+                "hu": "Élvezze a fűtött belső tereket; ideális hely, hogy egy időre elfelejtse a kinti délutáni hideget a kulturális séta közben.",
+                "ro": "Bucură-te de interioarele încălzite; este locul ideal pentru a uita pentru o vreme de frigul de afară în timpul vizitei.",
+                "en": "Enjoy the heated interiors; it is the ideal spot to forget the afternoon chill for a while during your cultural visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumental Flag",
+                "hu": "Monumental Flag",
+                "ro": "Monumental Flag",
+                "en": "Monumental Flag"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor dem Sonnenuntergang um 17:00 Uhr; das Licht über den Hügeln ist im Winter besonders intensiv.",
+                "hu": "Látogasson el ide közvetlenül a 17:00-s naplemente előtt; a dombok feletti fény télen különösen intenzív és látványos.",
+                "ro": "Vizitează acest loc chiar înainte de apusul de la ora 17:00; lumina de peste dealuri este deosebit de intensă iarna.",
+                "en": "Visit this spot just before the 5 PM sunset; the light over the hills is particularly intense and beautiful in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Bebeleche",
+                "hu": "Museo Bebeleche",
+                "ro": "Museo Bebeleche",
+                "en": "Museo Bebeleche"
+              },
+              "tip_5lang": {
+                "de": "Der wärmste Ort für den Abend; nutzen Sie die Zeit nach Einbruch der Dunkelheit für die interaktiven Exponate im Inneren.",
+                "hu": "A legmelegebb hely az estére; használja ki a sötétedés utáni időt az interaktív kiállítások felfedezésére a belső terekben.",
+                "ro": "Cel mai cald loc pentru seară; profită de timpul de după lăsarea întunericului pentru expozițiile interactive din interior.",
+                "en": "The warmest spot for the evening; take advantage of the time after dark to explore the interactive indoor exhibits."
+              }
+            }
+          ]
+        }
       }
     }
   }

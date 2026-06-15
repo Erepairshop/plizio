@@ -183,6 +183,224 @@
         "hu": "Reggel: Kezdjen az óceán közelében, fedezze fel a bájos São Pedro kápolnát, és élvezze a panorámát a közeli Miradoure kilátónál.\nDél: Sétáljon Lajes do Pico szívében, látogasson el a Szentháromság-templomba, és ismerkedjen meg a tengeri élettel az Espaço Talassában.\nDélután: Csodálja meg a Szeplőtelen Fogantatás templomát, majd lépjen a múltba a Santa Catarina tengerparti erődben.\nEste: Fejezze be sétáját a Művészeti és Tengerészeti Tudományos Központban, átgondolva az Azori-szigetek bálnavadászati örökségét.",
         "ro": "Dimineața: Începeți lângă ocean explorând fermecătoarea capelă São Pedro și bucurându-vă de priveliștile de la Miradoure.\nAmiază: Plimbați-vă prin inima orașului, vizitând Biserica istorică a Trinității și aflând despre viața marină la Espaço Talassa.\nDupă-amiază: Admirați frumoasa Biserică a Maicii Domnului și pășiți în trecut la fortăreața de coastă Santa Catarina.\nSeara: Încheiați plimbarea la Centrul de Arte și Științe Marine, reflectând la moștenirea profundă a vânătorii de balene din Azore.",
         "en": "Morning: Start near the ocean exploring the charming chapel of São Pedro and taking in the panoramic vistas at the nearby Miradoure.\nMidday: Wander through the heart of Lajes do Pico, visiting the historic Trinity Church and learning about local marine life at Espaço Talassa.\nAfternoon: Admire the beautifully adorned Church of Our Lady of Conception and step into the past at the coastal Fortress of Santa Catarina.\nEvening: Conclude your walk at the Arts and Marine Science Center, reflecting on the profound whaling heritage of the Azores."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der nebligen Ermida de São Pedro, wo die grauen Wolken tief über dem Atlantik hängen. Mittags bieten die Kirchen der Stadt Schutz vor den Schauern, während man die barocke Pracht bewundert. Am Nachmittag trotzen wir dem Wind am Fort von Santa Catarina und beenden den Tag im trockenen Meereszentrum. Abends glänzen die nassen Gassen im fahlen Licht der Laternen.",
+            "hu": "A reggel a ködös Ermida de São Pedro kápolnánál indul, ahol a szürke felhők alacsonyan szállnak az Atlanti-óceán felett. Délben a város templomai nyújtanak menedéket a záporok elől, miközben a barokk részleteket csodáljuk. Délután a Santa Catarina erődnél dacolunk a széllel, majd a tengerészeti központban száradunk meg. Este a vizes macskaköveken csillannak meg a lámpák fényei.",
+            "ro": "Dimineața începe la capela Ermida de São Pedro, unde norii cenușii plutesc jos deasupra Atlanticului. La prânz, bisericile orașului oferă adăpost împotriva averselor, în timp ce admirăm detaliile baroce. După-amiaza înfruntăm vântul la fortul Santa Catarina, apoi ne uscăm în centrul maritim. Seara, luminile felinarelor se reflectă pe pavajul ud al străzilor înguste.",
+            "en": "The morning begins at the misty Ermida de São Pedro, where grey clouds hang low over the Atlantic. At noon, the town's churches provide shelter from the showers while we admire the baroque details. In the afternoon, we brave the wind at the Santa Catarina fort before drying off in the marine center. In the evening, the streetlights glisten on the wet cobblestone alleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermida de São Pedro",
+                "hu": "Ermida de São Pedro",
+                "ro": "Ermida de São Pedro",
+                "en": "Ermida de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die einsame Kapelle im Regen, die weiße Fassade bildet einen starken Kontrast zum stürmischen Meer; tragen Sie eine windfeste Regenjacke.",
+                "hu": "Csodáld meg az esőben álló magányos kápolnát, melynek fehér fala élesen elválik a viharos tengertől; viselj szélálló esőkabátot a parton.",
+                "ro": "Admiră capela solitară în ploaie, a cărei fațadă albă contrastează puternic cu marea furtunoasă; poartă o jachetă de ploaie rezistentă la vânt.",
+                "en": "Admire the solitary chapel in the rain, its white facade contrasting sharply with the stormy sea; wear a windproof raincoat on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoure",
+                "hu": "Miradoure",
+                "ro": "Miradoure",
+                "en": "Miradoure"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die aufgewühlte Brandung unter einem Regenschirm; achten Sie auf den rutschigen Untergrund am Aussichtspunkt.",
+                "hu": "Élvezd a felkavart tenger látványát az esernyő alól a kilátóponton; vigyázz a csúszós talajra a meredekebb részeken a sziklák felett.",
+                "ro": "Bucură-te de vederea dramatică a valurilor înspumate sub umbrelă; ai grijă la suprafața alunecoasă de la punctul de belvedere.",
+                "en": "Enjoy the dramatic view of the churning surf from under your umbrella; watch out for the slippery ground at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Santíssima Trindade",
+                "hu": "Igreja da Santíssima Trindade",
+                "ro": "Igreja da Santíssima Trindade",
+                "en": "Igreja da Santíssima Trindade"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen prachtvollen Innenraum als trockenen Rückzugsort und bestaunen Sie die religiöse Kunst; ideal, um einen starken Schauer abzuwarten.",
+                "hu": "Használd ezt a pompás belső teret száraz menedékként, és csodáld meg a vallási műkincseket; ideális hely egy nagyobb zápor átvészelésére.",
+                "ro": "Folosește acest interior splendid ca refugiu uscat și admiră obiectele de artă religioasă; este locul ideal pentru a aștepta trecerea unei averse.",
+                "en": "Use this magnificent interior as a dry retreat and marvel at the religious art; it is an ideal spot to wait out a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Talassa - Observação de Cetáceos",
+                "hu": "Espaço Talassa - Observação de Cetáceos",
+                "ro": "Espaço Talassa - Observação de Cetáceos",
+                "en": "Espaço Talassa - Observação de Cetáceos"
+              },
+              "tip_5lang": {
+                "de": "Informieren Sie sich im überdachten Bereich über die sanften Riesen der Meere, während draußen der Regen peitscht; perfekt für maritimes Wissen ohne nass zu werden.",
+                "hu": "Tájékozódj a tenger óriásairól a fedett részen, miközben odakint esik; tökéletes hely a tengeri ismeretek bővítésére anélkül, hogy megáznál.",
+                "ro": "Află informații despre giganții mării în zona acoperită, în timp ce afară plouă; este locul perfect pentru cunoștințe maritime fără a te uda.",
+                "en": "Learn about the giants of the sea in the covered area while it rains outside; perfect for expanding maritime knowledge without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Conceição",
+                "hu": "Igreja de Nossa Senhora da Conceição",
+                "ro": "Igreja de Nossa Senhora da Conceição",
+                "en": "Igreja de Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet eine ruhige Atmosphäre, um dem prasselnden Regen zu lauschen und die Stille zu genießen; stellen Sie sich am Eingang kurz unter.",
+                "hu": "Ez a templom nyugodt környezetet kínál a kopogó eső hallgatásához és a csend élvezetéhez; húzódj be a bejárathoz a zuhé elől.",
+                "ro": "Această biserică oferă un mediu liniștit pentru a asculta ploaia și a te bucura de tăcere; adăpostește-te la intrare în timpul ploii.",
+                "en": "This church offers a peaceful environment to listen to the pattering rain and enjoy the silence; take cover at the entrance during downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festungsmauern und suchen Sie in den Wachtürmen Schutz, von denen aus man das graue Meer überblickt; festes Schuhwerk ist bei Nässe Pflicht.",
+                "hu": "Fedezd fel az erőd falait, és keress menedéket az őrtornyokban, ahonnan rálátsz a szürke tengerre; a vizes köveken kötelező a biztos tapadású cipő.",
+                "ro": "Explorează zidurile cetății și caută adăpost în turnurile de veghe cu vedere la marea cenușie; încălțămintea aderentă este obligatorie pe pietrele ude.",
+                "en": "Explore the fortress walls and seek shelter in the watchtowers overlooking the grey sea; grippy footwear is mandatory on the wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts and Marine Science Center",
+                "hu": "Arts and Marine Science Center",
+                "ro": "Arts and Marine Science Center",
+                "en": "Arts and Marine Science Center"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in dieser hervorragenden Indoor-Ausstellung, um den Tag gemütlich und trocken zu beenden; der beste Ort bei anhaltendem Regen.",
+                "hu": "Hosszabbítsd meg a látogatást ebben a kiváló fedett kiállításban, hogy a napot kellemesen és szárazon zárd; a legjobb hely tartós eső esetén.",
+                "ro": "Prelungește vizita în această expoziție interioară excelentă pentru a încheia ziua plăcut și la uscat; este cel mai bun loc în caz de ploaie persistentă.",
+                "en": "Extend your visit in this excellent indoor exhibition to end the day comfortably and dry; it is the best place during persistent rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Luft an der Kapelle São Pedro erfrischend kühl. Mittags wärmen wir uns in den prunkvollen Kirchen auf, wenn die Sonne tief steht. Der Nachmittag gehört der maritimen Geschichte am Hafen, bevor das Licht bereits gegen 17:00 Uhr schwindet. Den Abend verbringen wir geschützt im modernen Wissenschaftszentrum, während die winterliche Brise durch Lajes weht.",
+            "hu": "A tiszta téli reggelen a levegő frissítően hűvös a São Pedro kápolnánál. Napközben a város díszes templomaiban melegedünk fel, amikor a nap alacsonyan jár. A délutánt a kikötő tengerészeti emlékei között töltjük, mielőtt a fény 17:00 körül elhalványul. Az estét a modern tudományos központ védelmében fejezzük be, miközben a téli szél fúj át Lajes utcáin.",
+            "ro": "Într-o dimineață senină de iarnă, aerul este revigorant de rece la capela São Pedro. În timpul zilei, ne încălzim în bisericile decorate ale orașului când soarele este jos. După-amiaza este dedicată istoriei maritime din port, înainte ca lumina să dispară în jurul orei 17:00. Încheiem seara în protecția centrului științific modern, în timp ce briza de iarnă suflă prin Lajes.",
+            "en": "On a clear winter morning, the air is refreshingly cool at the São Pedro chapel. During the day, we warm up in the town's ornate churches while the sun stays low. The afternoon is dedicated to maritime history at the harbor before the light fades around 17:00. We finish the evening protected in the modern science center as the winter breeze blows through Lajes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermida de São Pedro",
+                "hu": "Ermida de São Pedro",
+                "ro": "Ermida de São Pedro",
+                "en": "Ermida de São Pedro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und den weiten Blick auf den Pico; ziehen Sie sich nach dem Zwiebelprinzip an, da es im Schatten kühl ist.",
+                "hu": "Élvezd a tiszta téli levegőt és a Picon túli panorámát; öltözz rétegesen, mert az árnyékban és a szélben gyorsan lehűlhet az idő.",
+                "ro": "Bucură-te de aerul curat de iarnă și de panorama spre muntele Pico; îmbracă-te în straturi, deoarece la umbră și în vânt se face răcoare rapid.",
+                "en": "Enjoy the crisp winter air and the panorama towards Mount Pico; dress in layers as it can get chilly quickly in the shade and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoure",
+                "hu": "Miradoure",
+                "ro": "Miradoure",
+                "en": "Miradoure"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das tiefblaue Wintermeer von diesem Aussichtspunkt aus; eine Mütze schützt Sie vor der steifen Brise am Atlantikrand.",
+                "hu": "Figyeld a mélykék téli tengert erről a kilátópontról; egy sapka megvéd az Atlanti-óceán felől érkező metsző széltől a sziklák felett.",
+                "ro": "Observă marea de iarnă de un albastru intens de la acest punct de belvedere; o căciulă te va proteja de vântul tăios de la marginea Atlanticului.",
+                "en": "Watch the deep blue winter sea from this viewpoint; a hat will protect you from the biting breeze at the edge of the Atlantic."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Santíssima Trindade",
+                "hu": "Igreja da Santíssima Trindade",
+                "ro": "Igreja da Santíssima Trindade",
+                "en": "Igreja da Santíssima Trindade"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte ab und bieten einen Ort der inneren Einkehr; bewundern Sie die Holzschnitzereien im sanften Winterlicht.",
+                "hu": "A vastag kőfalak távol tartják a hűvöset, és békés helyet kínálnak az elmélyüléshez; csodáld meg a fafaragásokat a lágy téli fényben.",
+                "ro": "Zidurile groase de piatră țin răcoarea la distanță și oferă un loc liniștit pentru reflecție; admiră sculpturile în lemn în lumina blândă de iarnă.",
+                "en": "The thick stone walls keep the chill at bay and offer a peaceful place for reflection; admire the wood carvings in the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Talassa - Observação de Cetáceos",
+                "hu": "Espaço Talassa - Observação de Cetáceos",
+                "ro": "Espaço Talassa - Observação de Cetáceos",
+                "en": "Espaço Talassa - Observação de Cetáceos"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Welt der Wale, auch wenn die Boote im Winter seltener ausfahren; das Besucherzentrum ist im Winter angenehm geheizt.",
+                "hu": "Merülj el a bálnák világában, még ha a hajók télen ritkábban is indulnak; a látogatóközpont télen is kellemesen temperált és kényelmes.",
+                "ro": "Explorează lumea balenelor, chiar dacă bărcile ies mai rar în larg iarna; centrul pentru vizitatori este încălzit plăcut și confortabil iarna.",
+                "en": "Immerse yourself in the world of whales, even if boats depart less frequently in winter; the visitor center is pleasantly warm and cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Conceição",
+                "hu": "Igreja de Nossa Senhora da Conceição",
+                "ro": "Igreja de Nossa Senhora da Conceição",
+                "en": "Igreja de Nossa Senhora da Conceição"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren schützt vor dem winterlichen Küstenwind; die schlichte Eleganz wirkt in der kalten Jahreszeit besonders beruhigend.",
+                "hu": "Egy rövid belső megálló megvéd a téli parti széltől; a templom egyszerű eleganciája különösen nyugtató hatású a hidegebb évszakban.",
+                "ro": "O scurtă oprire în interior te protejează de vântul de coastă de iarnă; eleganța simplă a bisericii este liniștitoare în sezonul rece.",
+                "en": "A short stop inside protects you from the winter coastal wind; the church's simple elegance is particularly soothing during the cold season."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit der Festung, wenn die Sonne gegen 16:30 Uhr tiefe Schatten wirft; verlassen Sie das Gelände vor Einbruch der Dunkelheit.",
+                "hu": "Tapasztald meg az erőd zord szépségét, amikor a nap 16:30 körül hosszú árnyékokat vet; hagyd el a területet még a sötétedés előtt.",
+                "ro": "Experimentează frumusețea aspră a cetății când soarele aruncă umbre lungi în jurul orei 16:30; părăsește incinta înainte de lăsarea întunericului.",
+                "en": "Experience the rugged beauty of the fortress when the sun casts long shadows around 16:30; leave the grounds before darkness falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts and Marine Science Center",
+                "hu": "Arts and Marine Science Center",
+                "ro": "Arts and Marine Science Center",
+                "en": "Arts and Marine Science Center"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um den frühen Sonnenuntergang im Trockenen zu verbringen und in die Forschung einzutauchen; nutzen Sie die Abendstunden drinnen.",
+                "hu": "Ez a tökéletes hely, hogy a korai naplementét szárazon töltsd, és elmerülj a kutatásokban; használd ki a benti esti órákat 17:00 után.",
+                "ro": "Acesta este locul perfect pentru a petrece apusul timpuriu la adăpost și a explora cercetările; profită de orele serii în interior după ora 17:00.",
+                "en": "This is the perfect place to spend the early sunset indoors and dive into research; take advantage of the evening hours inside after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Reggel: Tekerjen el a békés Santo Isidro templomhoz, majd induljon a partra, hogy felfedezze a Vigia da Queimada történelmi kilátót.\nDél: Élvezze a vulkanikus sziklákat a Castelete-nél, majd kerékpározzon a központba a Szentháromság-templomhoz és az Espaço Talassához.\nDélután: Folytassa útját a vízparton a Santa Catarina erőd régi parti védműveihez, miközben érzi a frissítő atlanti szellőt.\nEste: Fejezze be a tekerést a Művészeti és Tengerészeti Központban, időt szánva a helyi azori közösség gazdag hagyományainak megismerésére.",
         "ro": "Dimineața: Pedalați spre pașnica Biserică Santo Isidro, apoi mergeți spre coastă pentru a descoperi turnul istoric de la Vigia da Queimada.\nAmiază: Bucurați-vă de rocile vulcanice de la Castelete, apoi mergeți spre centru pentru a vizita Biserica Trinității și Espaço Talassa.\nDupă-amiază: Continuați de-a lungul apei spre vechile apărări de coastă de la Forte de Santa Catarina, simțind briza oceanului.\nSeara: Terminați plimbarea la Centrul de Arte și Științe Marine, luându-vă timp pentru a absorbi tradițiile bogate ale comunității azorene.",
         "en": "Morning: Pedal to the peaceful Santo Isidro Church before heading to the coast to discover the historic whaling lookout at Vigia da Queimada.\nMidday: Enjoy the dramatic volcanic rocks at Castelete, then cycle into the center to visit the majestic Trinity Church and Espaço Talassa.\nAfternoon: Continue along the waterfront to the old coastal defenses at Forte de Santa Catarina, feeling the refreshing Atlantic breeze.\nEvening: Finish your ride at the Arts and Marine Science Center, taking time to fully absorb the rich traditions of the local Azorean community."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Rad erkunden wir die Küste bei aufgewirbeltem Sprühregen. Der Morgen beginnt an der Kirche Santo Isidro, während die Straßen glänzen. Mittags suchen wir Schutz in den Kirchen von Lajes, um neue Kraft zu sammeln. Am Nachmittag radeln wir vorsichtig zum Fort, begleitet vom Rauschen des Regens. Den Tag lassen wir entspannt im trockenen Museum ausklingen, während wir die Ausrüstung trocknen.",
+            "hu": "Kerékpárral fedezzük fel a partot a felszálló permetben. A reggel a Santo Isidro templomnál indul, miközben az utak csillognak a víztől. Délben Lajes templomaiban keresünk menedéket, hogy új erőt gyűjtsünk. Délután óvatosan tekerünk az erődhöz az eső zúgásától kísérve. A napot pihentető módon a száraz múzeumban zárjuk, miközben megszárítjuk a felszerelésünket.",
+            "ro": "Explorăm coasta cu bicicleta prin burnița care se ridică. Dimineața începe la biserica Santo Isidro, în timp ce drumurile strălucesc de apă. La prânz, căutăm adăpost în bisericile din Lajes pentru a ne reîncărca forțele. După-amiaza pedalăm cu atenție spre cetate, însoțiți de vuietul ploii. Încheiem ziua relaxat în muzeul uscat, în timp ce ne uscăm echipamentul.",
+            "en": "We explore the coast by bike through the rising mist. The morning starts at Santo Isidro church while the roads glisten with water. At noon, we seek shelter in the churches of Lajes to regain our strength. In the afternoon, we pedal carefully towards the fortress accompanied by the sound of rain. We end the day relaxingly in the dry museum while drying our gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Santo Isidro",
+                "hu": "Igreja de Santo Isidro",
+                "ro": "Igreja de Santo Isidro",
+                "en": "Igreja de Santo Isidro"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier Ihre Tour und nutzen Sie die Vorhalle, um Ihre Regenbekleidung zu richten; Vorsicht beim Losfahren auf den nassen Pflastersteinen.",
+                "hu": "Indítsd innen a túrát, és használd az előteret az esőruházat megigazítására; légy óvatos az induláskor a vizes útburkolaton.",
+                "ro": "Începe turul aici și folosește pridvorul pentru a-ți aranja hainele de ploaie; fii atent la plecare pe pavajul ud al drumului.",
+                "en": "Start your tour here and use the porch to adjust your rain gear; be careful when setting off on the wet road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Vigia da Queimada",
+                "hu": "Vigia da Queimada",
+                "ro": "Vigia da Queimada",
+                "en": "Vigia da Queimada"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den Ozean ist bei Regen besonders mystisch, aber halten Sie die Bremsen bereit; der Weg zum Aussichtspunkt kann schlammig sein.",
+                "hu": "Az óceán látványa esőben különösen misztikus, de tartsd készenlétben a fékeket; a kilátóhoz vezető út saras és csúszós lehet.",
+                "ro": "Vederea oceanului este deosebit de mistică în ploaie, dar ține frânele pregătite; drumul spre punctul de belvedere poate fi noroios.",
+                "en": "The ocean view is particularly mystical in the rain, but keep your brakes ready; the path to the viewpoint can be muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelete",
+                "hu": "Castelete",
+                "ro": "Castelete",
+                "en": "Castelete"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Stopp für ein Foto der wilden Küste; achten Sie beim Absteigen auf sicheren Stand auf den glatten Basaltfelsen.",
+                "hu": "Egy rövid, vizes megálló a vad partvidék fotózásához; leszálláskor ügyelj a biztos támaszra a csúszós bazaltsziklákon.",
+                "ro": "O scurtă oprire în ploaie pentru a fotografia coasta sălbatică; la coborâre, asigură-te că ai un sprijin stabil pe stâncile de bazalt.",
+                "en": "A short, wet stop to photograph the wild coastline; when dismounting, ensure you have a stable footing on the slippery basalt rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Santíssima Trindade",
+                "hu": "Igreja da Santíssima Trindade",
+                "ro": "Igreja da Santíssima Trindade",
+                "en": "Igreja da Santíssima Trindade"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und wärmen Sie sich im Inneren auf; idealer Ort, um die Karte für die weitere Route im Trockenen zu prüfen.",
+                "hu": "Parkold le biztonságosan a biciklit, és melegedj fel bent; ideális hely az útvonal ellenőrzésére a száraz templombelsőben.",
+                "ro": "Parchează bicicleta în siguranță și încălzește-te în interior; este locul ideal pentru a verifica traseul în interiorul uscat al bisericii.",
+                "en": "Park your bike safely and warm up inside; it is an ideal spot to check your route map in the dry church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Talassa - Observação de Cetáceos",
+                "hu": "Espaço Talassa - Observação de Cetáceos",
+                "ro": "Espaço Talassa - Observação de Cetáceos",
+                "en": "Espaço Talassa - Observação de Cetáceos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachte Terrasse für eine kurze Pause und erfahren Sie mehr über Wale; achten Sie auf Fußgänger am Hafen bei Regen.",
+                "hu": "Használd a fedett teraszt egy rövid pihenőre, és tudj meg többet a bálnákról; figyelj a gyalogosokra a kikötőben az esőben.",
+                "ro": "Folosește terasa acoperită pentru o scurtă pauză și află mai multe despre balene; fii atent la pietoni în port pe timp de ploaie.",
+                "en": "Use the covered terrace for a short break and learn more about whales; watch out for pedestrians in the harbor during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern bieten Schutz vor Windböen; stellen Sie Ihr Rad so ab, dass es nicht wegrutscht, und erkunden Sie die Gänge.",
+                "hu": "A történelmi falak védelmet nyújtanak a széllökések ellen; úgy támaszd le a gépet, hogy ne csússzon el, és fedezd fel a folyosókat.",
+                "ro": "Zidurile istorice oferă protecție împotriva rafalelor de vânt; sprijină bicicleta astfel încât să nu alunece și explorează culoarele.",
+                "en": "The historical walls offer protection against wind gusts; prop your bike so it doesn't slide and explore the corridors."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts and Marine Science Center",
+                "hu": "Arts and Marine Science Center",
+                "ro": "Arts and Marine Science Center",
+                "en": "Arts and Marine Science Center"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss im Trockenen; nutzen Sie die Zeit, um die moderne Ausstellung ohne Zeitdruck zu genießen, während es draußen regnet.",
+                "hu": "A nap méltó és száraz zárása; használd ki az időt a modern kiállítás megtekintésére időkényszer nélkül, miközben odakint esik.",
+                "ro": "Finalul perfect al zilei, la uscat; profită de timp pentru a vedea expoziția modernă fără grabă, în timp ce afară plouă.",
+                "en": "A worthy and dry end to the day; take your time to view the modern exhibition without pressure while it rains outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frischen Wintermorgen radeln wir entlang der Küste von Lajes. Der Wind vom Pico herab ist kühl, daher ist warme Kleidung wichtig. Mittags erkunden wir die historischen Gebäude, die im flachen Licht der Wintersonne golden schimmern. Am Nachmittag erreichen wir das Fort, bevor die Dämmerung gegen 17:00 Uhr einsetzt. Den Tag beenden wir im gut temperierten Meereszentrum.",
+            "hu": "Egy friss téli reggelen Lajes partja mentén kerekezünk. A Picóról lefutó szél hűvös, ezért a meleg ruházat elengedhetetlen. Délben a történelmi épületeket fedezzük fel, melyek aranylóan csillognak a téli nap lapos fényében. Délután elérjük az erődöt, mielőtt 17:00 körül beállna a szürkület. A napot a jól temperált tengerészeti központban zárjuk.",
+            "ro": "Într-o dimineață răcoroasă de iarnă, pedalăm de-a lungul coastei din Lajes. Vântul care coboară de pe Pico este rece, așa că hainele groase sunt esențiale. La prânz explorăm clădirile istorice, care strălucesc auriu în lumina soarelui de iarnă. După-amiaza ajungem la cetate înainte de lăsarea serii, în jurul orei 17:00. Încheiem ziua în centrul maritim bine încălzit.",
+            "en": "On a fresh winter morning, we cycle along the coast of Lajes. The wind blowing down from Pico is cool, so warm clothing is essential. At noon, we explore historical buildings glowing golden in the low winter sun. In the afternoon, we reach the fortress before twilight sets in around 17:00. We finish the day in the well-tempered marine center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Santo Isidro",
+                "hu": "Igreja de Santo Isidro",
+                "ro": "Igreja de Santo Isidro",
+                "en": "Igreja de Santo Isidro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Eingangsbereich für letzte Vorbereitungen; tragen Sie Handschuhe, um Ihre Hände beim Radfahren warm zu halten.",
+                "hu": "Használd a szélvédett bejáratot az utolsó előkészületekhez; viselj kesztyűt, hogy melegen tartsd a kezed kerékpározás közben a hűvösben.",
+                "ro": "Folosește intrarea ferită de vânt pentru ultimele pregătiri; poartă mănuși pentru a-ți menține mâinile calde în timp ce pedalezi în aerul rece.",
+                "en": "Use the wind-sheltered entrance for final preparations; wear gloves to keep your hands warm while cycling in the cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Vigia da Queimada",
+                "hu": "Vigia da Queimada",
+                "ro": "Vigia da Queimada",
+                "en": "Vigia da Queimada"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf den Ozean ist im Winter oft klarer; achten Sie auf plötzliche Böen am Aussichtspunkt, die das Radfahren erschweren können.",
+                "hu": "A kilátás az óceánra télen gyakran tisztább; figyelj a hirtelen széllökésekre a kilátónál, amelyek megnehezíthetik a biciklizést.",
+                "ro": "Vizibilitatea spre ocean este adesea mai clară iarna; fii atent la rafalele bruște de vânt la punctul de belvedere, care pot îngreuna pedalatul.",
+                "en": "The ocean view is often clearer in winter; watch out for sudden gusts at the viewpoint that can make cycling difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelete",
+                "hu": "Castelete",
+                "ro": "Castelete",
+                "en": "Castelete"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Brandung an den Felsen; ein kurzer Stopp reicht aus, um nicht auszukühlen, bevor Sie weiterfahren.",
+                "hu": "Élvezd a szikláknak csapódó téli hullámokat; egy rövid megálló is elég ahhoz, hogy ne hűlj ki túlságosan, mielőtt továbbtekernél.",
+                "ro": "Bucură-te de valurile de iarnă care se sparg de stânci; o scurtă oprire este suficientă pentru a nu te răci prea tare înainte de a pleca mai departe.",
+                "en": "Enjoy the winter waves crashing against the rocks; a short stop is enough to avoid getting too chilled before cycling on."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Santíssima Trindade",
+                "hu": "Igreja da Santíssima Trindade",
+                "ro": "Igreja da Santíssima Trindade",
+                "en": "Igreja da Santíssima Trindade"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Wärme und Stille im Herzen von Lajes; bewundern Sie das Interieur, während die Wintersonne durch die Fenster scheint.",
+                "hu": "A melegség és csend helyszíne Lajes szívében; csodáld meg a belső teret, miközben a téli nap átsüt az ablakokon.",
+                "ro": "Un loc de căldură și liniște în inima orașului Lajes; admiră interiorul în timp ce soarele de iarnă pătrunde prin ferestre.",
+                "en": "A place of warmth and silence in the heart of Lajes; admire the interior as the winter sun shines through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Talassa - Observação de Cetáceos",
+                "hu": "Espaço Talassa - Observação de Cetáceos",
+                "ro": "Espaço Talassa - Observação de Cetáceos",
+                "en": "Espaço Talassa - Observação de Cetáceos"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer Tasse Tee im angrenzenden Bereich auf, bevor Sie die Ausstellung besuchen; idealer Stopp für Radfahrer im Winter.",
+                "hu": "Melegedj fel egy csésze teával a szomszédos részen, mielőtt megnéznéd a kiállítást; ideális pihenőhely kerékpárosoknak télen.",
+                "ro": "Încălzește-te cu o ceașcă de ceai în zona alăturată înainte de a vizita expoziția; este popasul ideal pentru bicicliști iarna.",
+                "en": "Warm up with a cup of tea in the adjacent area before visiting the exhibition; it is an ideal stop for cyclists in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet fantastische Fotomotive der Festung; achten Sie auf die Zeit, da es ab 16:30 Uhr schnell kühler wird.",
+                "hu": "Az alacsonyan járó nap fantasztikus fotótémát kínál az erődnél; ügyelj az időre, mert 16:30 után gyorsan lehűl a levegő.",
+                "ro": "Soarele jos oferă oportunități fantastice pentru fotografii la cetate; ai grijă la timp, deoarece după ora 16:30 se face rapid răcoare.",
+                "en": "The low sun provides fantastic photo opportunities at the fortress; watch the time as it gets chilly quickly after 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts and Marine Science Center",
+                "hu": "Arts and Marine Science Center",
+                "ro": "Arts and Marine Science Center",
+                "en": "Arts and Marine Science Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Ende Ihrer Tour im warmen Ausstellungsraum; ein perfekter Zufluchtsort, wenn die Winterdämmerung draußen einsetzt.",
+                "hu": "Élvezd a túra végét a meleg kiállítóteremben; tökéletes menedék, amikor odakint leszáll a téli szürkület 17:00 után.",
+                "ro": "Bucură-te de finalul turului în sala de expoziție călduroasă; este refugiul perfect când se lasă amurgul de iarnă afară după ora 17:00.",
+                "en": "Enjoy the end of your tour in the warm exhibition hall; a perfect retreat as the winter twilight sets in outside after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Reggel: Vezessen a történelmi Vigia da Queimadához a lenyűgöző kilátásért, majd álljon meg a Castelete vulkanikus sziklaképződményeinél.\nDél: Parkoljon le a központban, hogy meglátogassa a Szentháromság-templomot és a híres Espaço Talassát, a város tengeri szívét.\nDélután: Fedezze fel az impozáns Santa Catarina erődöt, majd töltsön el néhány órát a Tengerészeti Tudományos Központ kiállításain.\nEste: Autózzon fel a Pico Geraldo hegyre, hogy tökéletes aranyórás fotókat készítsen a festői fekvésű, gyönyörű Lajes tengerparti városkájáról.",
         "ro": "Dimineața: Conduceți la istoricul Vigia da Queimada pentru vederi panoramice, urmat de o oprire la formațiunile vulcanice de la Castelete.\nAmiază: Parcați în centru pentru a vizita Biserica Trinității și Espaço Talassa, cufundându-vă în inima maritimă vibrantă a orașului.\nDupă-amiază: Explorați impunătorul Forte de Santa Catarina, apoi petreceți câteva ore în expozițiile Centrului de Arte și Științe Marine.\nSeara: Conduceți până la Pico Geraldo pe măsură ce ziua se încheie, surprinzând fotografii perfecte la ora de aur peste pitorescul oraș Lajes.",
         "en": "Morning: Drive to the historic Vigia da Queimada for sweeping views, followed by a stop at the volcanic rock formations of Castelete.\nMidday: Park in the center to visit the Trinity Church and the famous Espaço Talassa, immersing yourself in the town's vibrant maritime heart.\nAfternoon: Explore the imposing Forte de Santa Catarina, then spend a couple of hours deep in the exhibits of the Arts and Marine Science Center.\nEvening: Drive up to Pico Geraldo as the day wanes, capturing the perfect golden hour photos over the picturesque coastal town of Lajes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto erkunden wir Lajes do Pico bei jedem Wetter. Der Morgen führt uns zur Vigia da Queimada, wo der Regen über die Scheiben rinnt. Mittags besuchen wir die prunkvollen Kirchen und das Walbeobachtungszentrum, fast ohne nass zu werden. Am Nachmittag bestaunen wir die Festung und die Meereswissenschaften. Den Tag lassen wir am Pico Geraldo ausklingen, während der Nebel die Gipfel einhüllt.",
+            "hu": "Kényelmesen, autóval fedezzük fel Lajes do Picót bármilyen időben. A reggel a Vigia da Queimada kilátóhoz vezet, ahol az eső csorog az üvegen. Délben a díszes templomokat és a bálnaközpontot látogatjuk meg, szinte anélkül, hogy megáznánk. Délután az erődöt és a tengerkutatást csodáljuk meg. A napot a Pico Geraldo hegyen zárjuk, miközben a köd beborítja a csúcsokat.",
+            "ro": "Explorăm confortabil Lajes do Pico cu mașina, indiferent de vreme. Dimineața ne conduce la Vigia da Queimada, unde ploaia se scurge pe geamuri. La prânz vizităm bisericile ornate și centrul pentru balene, aproape fără a ne uda. După-amiaza admirăm cetatea și centrul de cercetări maritime. Încheiem ziua la Pico Geraldo, în timp ce ceața învăluie culmile.",
+            "en": "We comfortably explore Lajes do Pico by car in any weather. The morning leads us to the Vigia da Queimada viewpoint where rain trickles down the glass. At noon, we visit the ornate churches and whale center almost without getting wet. In the afternoon, we admire the fortress and marine research. We end the day at Pico Geraldo while mist envelops the peaks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vigia da Queimada",
+                "hu": "Vigia da Queimada",
+                "ro": "Vigia da Queimada",
+                "en": "Vigia da Queimada"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer direkt aus dem warmen Auto; nutzen Sie die kurzen Regenpausen für ein schnelles Foto.",
+                "hu": "Élvezd a viharos tenger látványát közvetlenül a meleg autóból; használd ki a rövid esőszüneteket egy gyors fotó elkészítéséhez a kilátónál.",
+                "ro": "Bucură-te de vederea mării furtunoase direct din mașina călduroasă; profită de scurtele pauze de ploaie pentru o fotografie rapidă la belvedere.",
+                "en": "Enjoy the view of the stormy sea directly from the warm car; take advantage of short breaks in the rain for a quick photo at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelete",
+                "hu": "Castelete",
+                "ro": "Castelete",
+                "en": "Castelete"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an der Küste und beobachten Sie die gewaltigen Wellen, die gegen die Felsen schlagen; bleiben Sie bei starken Böen lieber im Fahrzeug.",
+                "hu": "Parkolj közel a parthoz, és figyeld a hatalmas hullámokat, amint a szikláknak csapódnak; erős széllökések esetén maradj inkább a járműben.",
+                "ro": "Parchează aproape de coastă și observă valurile uriașe care se sparg de stânci; în caz de rafale puternice de vânt, mai bine rămâi în vehicul.",
+                "en": "Park close to the coast and watch the huge waves crashing against the rocks; in case of strong wind gusts, it's better to stay inside the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Santíssima Trindade",
+                "hu": "Igreja da Santíssima Trindade",
+                "ro": "Igreja da Santíssima Trindade",
+                "en": "Igreja da Santíssima Trindade"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz führt Sie in dieses prachtvolle, trockene Denkmal; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung.",
+                "hu": "Egy rövid sprint a parkolóból, és már bent is vagy ebben a pompás, száraz műemlékben; használd ki az időt egy alapos belső látogatásra.",
+                "ro": "Un sprint scurt din parcare te duce în acest monument splendid și uscat; profită de timp pentru o vizită detaliată a interiorului.",
+                "en": "A short sprint from the parking lot brings you into this magnificent, dry monument; take your time for a thorough interior visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Talassa - Observação de Cetáceos",
+                "hu": "Espaço Talassa - Observação de Cetáceos",
+                "ro": "Espaço Talassa - Observação de Cetáceos",
+                "en": "Espaço Talassa - Observação de Cetáceos"
+              },
+              "tip_5lang": {
+                "de": "Ideal bei Regen, da alle Ausstellungen überdacht sind; erfahren Sie mehr über den Walfang, während das Wetter draußen ungemütlich ist.",
+                "hu": "Ideális esőben, mivel minden kiállítás fedett; tudj meg többet a bálnavadászatról, miközben odakint barátságtalan az időjárás.",
+                "ro": "Ideal pe ploaie, deoarece toate expozițiile sunt acoperite; află mai multe despre vânătoarea de balene în timp ce afară vremea este neplăcută.",
+                "en": "Ideal in the rain as all exhibitions are covered; learn more about whaling while the weather outside is unpleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in den geschichtsträchtigen Mauern Schutz vor dem Wind; der Weg vom Auto zum Eingang ist kurz, aber halten Sie einen Schirm bereit.",
+                "hu": "Keress menedéket a szél elől a történelmi falak között; az út az autótól a bejáratig rövid, de tarts készenlétben egy esernyőt.",
+                "ro": "Caută adăpost împotriva vântului între zidurile istorice; drumul de la mașină până la intrare este scurt, dar ține umbrela la îndemână.",
+                "en": "Seek shelter from the wind within the historical walls; the walk from the car to the entrance is short, but keep an umbrella ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts and Marine Science Center",
+                "hu": "Arts and Marine Science Center",
+                "ro": "Arts and Marine Science Center",
+                "en": "Arts and Marine Science Center"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Museum ist der perfekte Rückzugsort bei anhaltendem Regen; parken Sie direkt davor für einen bequemen Zugang.",
+                "hu": "Ez a modern múzeum a tökéletes menedék tartós eső esetén; parkolj közvetlenül előtte a kényelmes bejutás érdekében.",
+                "ro": "Acest muzeu modern este refugiul perfect în caz de ploaie persistentă; parchează direct în față pentru un acces confortabil.",
+                "en": "This modern museum is the perfect retreat during persistent rain; park directly in front for convenient access."
+              }
+            },
+            {
+              "name": {
+                "de": "Pico Geraldo",
+                "hu": "Pico Geraldo",
+                "ro": "Pico Geraldo",
+                "en": "Pico Geraldo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Gipfel, da Nebel die Sicht stark einschränken kann; genießen Sie die mystische Stimmung im Schutze Ihres Wagens.",
+                "hu": "Vezess óvatosan a csúcsra, mert a köd erősen korlátozhatja a látási viszonyokat; élvezd a misztikus hangulatot az autód védelméből.",
+                "ro": "Condu cu atenție spre vârf, deoarece ceața poate limita mult vizibilitatea; bucură-te de atmosfera mistică din protecția mașinii tale.",
+                "en": "Drive carefully to the summit as mist can severely limit visibility; enjoy the mystical atmosphere from the safety of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintertag bietet das Auto die perfekte Basis, um die Umgebung von Lajes zu erkunden. Der Morgen beginnt mit weiten Ausblicken an der Vigia da Queimada. Mittags wärmen wir uns in den Kirchen auf, während die Sonne tief steht. Der Nachmittag führt uns zum Hafen und zur Festung, bevor es gegen 17:00 Uhr dunkel wird. Den Tag beenden wir mit einer Fahrt zum Pico Geraldo im Abendlicht.",
+            "hu": "Egy tiszta téli napon az autó tökéletes bázis Lajes környékének felfedezéséhez. A reggel tágas kilátással indul a Vigia da Queimada pontnál. Délben a templomokban melegedünk fel, amikor a nap alacsonyan jár. A délután a kikötőhöz és az erődhöz vezet, mielőtt 17:00 körül besötétedik. A napot egy esti autózással zárjuk a Pico Geraldo felé.",
+            "ro": "Într-o zi senină de iarnă, mașina oferă baza perfectă pentru a explora împrejurimile din Lajes. Dimineața începe cu vederi largi la Vigia da Queimada. La prânz ne încălzim în biserici, când soarele este jos. După-amiaza ne conduce la port și la cetate înainte de a se întuneca în jur de ora 17:00. Încheiem ziua cu o plimbare spre Pico Geraldo la lumina serii.",
+            "en": "On a clear winter day, the car provides the perfect base to explore the surroundings of Lajes. The morning begins with wide views at Vigia da Queimada. At noon, we warm up in the churches while the sun stays low. The afternoon leads us to the harbor and fortress before it gets dark around 17:00. We finish the day with an evening drive towards Pico Geraldo."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vigia da Queimada",
+                "hu": "Vigia da Queimada",
+                "ro": "Vigia da Queimada",
+                "en": "Vigia da Queimada"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die klare Winterfernbedienung für Fotos; die Heizung im Auto ist nach dem kurzen Aufenthalt an der frischen Luft willkommen.",
+                "hu": "Használd ki a tiszta téli látási viszonyokat a fotózáshoz; az autó fűtése jól fog esni a friss levegőn tett rövid séta után.",
+                "ro": "Profită de vizibilitatea clară de iarnă pentru fotografii; căldura din mașină va fi binevenită după scurta plimbare în aerul curat.",
+                "en": "Take advantage of the clear winter visibility for photos; the car's heater will be welcome after a short walk in the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelete",
+                "hu": "Castelete",
+                "ro": "Castelete",
+                "en": "Castelete"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung ist im Winter oft kraftvoller; beobachten Sie das Naturschauspiel bequem durch das Fenster Ihres Fahrzeugs.",
+                "hu": "A hullámverés télen gyakran erőteljesebb; figyeld ezt a természeti jelenséget kényelmesen, a járműved ablakán keresztül.",
+                "ro": "Valurile sunt adesea mai puternice iarna; observă acest spectacol al naturii confortabil, prin fereastra vehiculului tău.",
+                "en": "The surf is often more powerful in winter; watch this natural spectacle comfortably through your vehicle's window."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Santíssima Trindade",
+                "hu": "Igreja da Santíssima Trindade",
+                "ro": "Igreja da Santíssima Trindade",
+                "en": "Igreja da Santíssima Trindade"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im weichen Winterlicht; Parkplätze befinden sich in unmittelbarer Nähe für einen schnellen Zugang zum Warmen.",
+                "hu": "Csodáld meg az építészetet a lágy téli fényben; a parkolóhelyek közvetlenül a közelben vannak a gyors és meleg bejutás érdekében.",
+                "ro": "Admiră arhitectura în lumina blândă de iarnă; locurile de parcare sunt chiar în apropiere pentru un acces rapid la căldură.",
+                "en": "Admire the architecture in the soft winter light; parking spaces are located right nearby for quick access to the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço Talassa - Observação de Cetáceos",
+                "hu": "Espaço Talassa - Observação de Cetáceos",
+                "ro": "Espaço Talassa - Observação de Cetáceos",
+                "en": "Espaço Talassa - Observação de Cetáceos"
+              },
+              "tip_5lang": {
+                "de": "Ein informativer Stopp, der auch im Winter einen tiefen Einblick in die Inselgeschichte bietet; das Zentrum ist angenehm klimatisiert.",
+                "hu": "Informatív megálló, amely télen is mély betekintést nyújt a sziget történetébe; a látogatóközpont kellemesen temperált helyszín.",
+                "ro": "O oprire informativă care oferă o perspectivă profundă asupra istoriei insulei chiar și iarna; centrul este un spațiu climatizat plăcut.",
+                "en": "An informative stop that provides deep insight into the island's history even in winter; the center is a pleasantly tempered venue."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte de Santa Catarina",
+                "hu": "Forte de Santa Catarina",
+                "ro": "Forte de Santa Catarina",
+                "en": "Forte de Santa Catarina"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit vor 16:30 Uhr für einen Rundgang, da es danach schnell abkühlt; das Fort bietet tolles Licht für Winteraufnahmen.",
+                "hu": "Használd ki az időt 16:30 előtt egy sétára, mert utána gyorsan lehűl a levegő; az erőd remek fényeket kínál a téli fotókhoz.",
+                "ro": "Profită de timpul de dinainte de ora 16:30 pentru o plimbare, deoarece după aceea se răcește rapid; cetatea oferă o lumină excelentă pentru fotografii.",
+                "en": "Take advantage of the time before 16:30 for a walk, as it cools down quickly afterwards; the fort offers great light for winter photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Arts and Marine Science Center",
+                "hu": "Arts and Marine Science Center",
+                "ro": "Arts and Marine Science Center",
+                "en": "Arts and Marine Science Center"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bis zum frühen Sonnenuntergang gegen 17:00 Uhr sinnvoll und im Warmen zu überbrücken.",
+                "hu": "Ideális hely, hogy a korai, 17:00 körüli naplementéig hátralévő időt hasznosan és melegben töltsd el.",
+                "ro": "Locul ideal pentru a petrece timpul până la apusul timpuriu de la ora 17:00 într-un mod util și la căldură.",
+                "en": "An ideal place to spend the time until the early sunset around 17:00 usefully and in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Pico Geraldo",
+                "hu": "Pico Geraldo",
+                "ro": "Pico Geraldo",
+                "en": "Pico Geraldo"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang über der Insel direkt vom Parkplatz aus; nehmen Sie eine warme Decke für den Moment außerhalb des Autos mit.",
+                "hu": "Éld át a sziget feletti naplementét közvetlenül a parkolóból; vigyél magaddal egy meleg takarót az autón kívül töltött percekre.",
+                "ro": "Experimentează apusul deasupra insulei direct din parcare; ia cu tine o pătură caldă pentru momentele petrecute în afara mașinii.",
+                "en": "Experience the sunset over the island directly from the parking lot; bring a warm blanket for the moments spent outside the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

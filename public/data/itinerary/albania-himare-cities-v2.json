@@ -137,6 +137,168 @@
         "hu": "A reggel a Himarë strand lágy hullámainál kezdődik, magába szívva a frissítő és pezsgő tengerparti hangulatot.\n\nDélben fedezze fel a titokzatos Küklopsz-barlangot, majd pihenjen egy nagyot a mélykék vizű Marachi strandon.\n\nA délutánt azzal tölti, hogy kellemes sétát tesz dél felé az Akacia kifejezetten békés és idilli partszakaszára.\n\nAz estét a Potami strandon zárja, ahol megkóstolhatja a helyi specialitásokat, figyelve a Jón-tenger felett lenyugvó napot.",
         "ro": "Dimineața începe la valurile blânde ale plajei Himarë, savurând din plin vibrația răcoroasă a coastei albaneze.\n\nLa amiază explorați misterioasa Peșteră a Ciclopului și vă odihniți îndelung pe plaja Marachi, recunoscută pentru apele sale adânci.\n\nDupă-amiaza o petreceți plimbându-vă relaxat spre sud, pe malul extrem de liniștit și idilic de la Akacia.\n\nSeara se încheie la plaja Potami, unde puteți degusta specialități locale, privind cum soarele apune superb sub orizontul Mării Ionice.",
         "en": "Morning starts by the gentle waves of Himarë Beach, soaking in the refreshing and vibrant coastal atmosphere.\n\nMidday involves exploring the mysterious Cyclop's Cave before resting deeply at the strikingly blue waters of Marachi beach.\n\nThe afternoon is spent strolling pleasantly south along the rugged coast to the incredibly peaceful Akacia shore.\n\nEvening concludes at Potami Beach, where you can taste local seafood specialties while watching the sun dip below the beautiful Ionian horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erleben wir die dramatische Seite der Küste, wenn der Regen auf die Adria peitscht. Mittags suchen wir Schutz in der Zyklopenhöhle, wo die Felsen ein natürliches Dach bilden. Nachmittags spazieren wir an den grauen Kiesstränden entlang, während die Gischt die Luft erfrischt. Abends kehren wir durchnässt, aber belebt, in die gemütlichen, überdachten Cafés des Zentrums zurück.",
+            "hu": "Reggel a tengerparti szürkeségben kezdünk, ahol a ködös táj és a hullámok zaja ad különleges keretet a sétának. Délben a sziklák és barlangok nyújtanak természetes menedéket az égi áldás elől. Délután a kihalt öblök melletti fedett teraszokon élvezhetjük a friss, sós levegőt. Este a korai sötétedés és a kopogó eső hangja mellett vonulunk vissza a város meleg és barátságos menedékeibe.",
+            "ro": "Dimineața descoperim latura dramatică a coastei, cu ploaia bătând peste Marea Ionică. La prânz, ne adăpostim în Peștera Ciclopului, unde stâncile oferă un acoperiș natural. După-amiaza ne plimbăm pe plajele cu pietriș gri, în timp ce briza umedă împrospătează aerul. Seara ne retragem în cafenelele primitoare și acoperite din centru, savurând sunetul picăturilor de ploaie pe geam.",
+            "en": "In the morning, we witness the coast's dramatic side as rain hits the Ionian Sea. At noon, we find shelter in Cyclop’s Cave, where the rocks provide a natural roof. Afternoon is spent walking along grey pebble beaches while the misty spray refreshes the air. In the evening, we retreat to the cozy, covered cafes of the center, enjoying the rhythmic sound of the rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plazhi i Himarës",
+                "hu": "Plazhi i Himarës",
+                "ro": "Plazhi i Himarës",
+                "en": "Plazhi i Himarës"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen von einem der überdachten Cafés an der Promenade aus; tragen Sie unbedingt eine Regenjacke gegen die starke Meeresbrise.",
+                "hu": "Figyelje a hullámokat a sétány egyik fedett kávézójából; mindenképpen viseljen esőkabátot az erős tengeri szél és a csapó eső ellen.",
+                "ro": "Priviți valurile de la una dintre cafenelele acoperite de pe faleză; purtați o jachetă impermeabilă pentru a vă proteja de briza puternică.",
+                "en": "Watch the waves from one of the covered cafes on the promenade; be sure to wear a waterproof jacket against the strong sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Zyklopenhöhle",
+                "hu": "Küklopsz-barlang",
+                "ro": "Peștera Ciclopului",
+                "en": "Cyclop’s Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet einen großartigen natürlichen Regenschutz; seien Sie vorsichtig auf den Felsen, da diese bei Nässe extrem rutschig sein können.",
+                "hu": "A barlang remek természetes esővédelmet nyújt; legyen nagyon óvatos a sziklákon, mert nedvesen rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Peștera oferă un adăpost natural excelent împotriva ploii; aveți grijă pe stânci, deoarece acestea devin extrem de alunecoase când sunt ude.",
+                "en": "The cave offers great natural rain protection; be careful on the rocks as they become extremely slippery and hazardous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Marachi",
+                "hu": "Marachi",
+                "ro": "Marachi",
+                "en": "Marachi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Aussicht auf das stürmische Meer; ein robuster Regenschirm ist hier wegen der unberechenbaren Böen unerlässlich.",
+                "hu": "Élvezze a viharos tenger melankolikus látványát; egy strapabíró esernyő itt elengedhetetlen a kiszámíthatatlan tengerparti széllökések miatt.",
+                "ro": "Bucurați-vă de vederea melancolică a mării învolburate; o umbrelă robustă este esențială aici din cauza rafalelor de vânt imprevizibile.",
+                "en": "Enjoy the melancholy view of the stormy sea; a sturdy umbrella is essential here due to the unpredictable coastal wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Akacia",
+                "hu": "Akacia",
+                "ro": "Akacia",
+                "en": "Akacia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche für eine kurze Rast im Trockenen; wasserdichtes Schuhwerk hält Ihre Füße auf dem nassen Kiesweg warm.",
+                "hu": "Használja a fedett részeket egy rövid pihenőre a szárazon; a vízálló lábbeli melegen tartja lábait a vizes kavicsos ösvényen haladva.",
+                "ro": "Folosiți zonele acoperite pentru un scurt popas la uscat; încălțămintea impermeabilă vă va menține picioarele uscate pe drumul ud.",
+                "en": "Use the covered areas for a short break in the dry; waterproof footwear will keep your feet warm and dry on the wet pebble path."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi i Potamit",
+                "hu": "Plazhi i Potamit",
+                "ro": "Plazhi i Potamit",
+                "en": "Plazhi i Potamit"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen fast mystisch; suchen Sie nach dem Ende des Spaziergangs sofort ein warmes Lokal auf, um nicht auszukühlen.",
+                "hu": "A strand esőben szinte misztikus látványt nyújt; a séta végeztével keressen azonnal egy fűtött helyet, hogy elkerülje a megfázást.",
+                "ro": "Plaja arată aproape mistic în ploaie; după plimbare, căutați imediat un local cald pentru a evita răceala și umezeala persistentă.",
+                "en": "The beach looks almost mystical in the rain; after the walk, seek out a warm indoor spot immediately to avoid catching a chill."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Himarë ist frisch und klar, ideal für einen einsamen Strandspaziergang. Mittags wärmt die milde Mittelmeersonne die Felsen bei der Zyklopenhöhle. Nachmittags genießen wir die Stille der verlassenen Buchten von Marachi und Akacia. Da die Sonne bereits gegen 17:00 Uhr untergeht, beenden wir unseren Tag früh bei einem heißen Getränk mit Blick auf den Potami-Strand.",
+            "hu": "A téli reggel Himarëban friss és tiszta, ideális egy magányos tengerparti sétához a néptelen parton. Délben a gyenge mediterrán napsütés kellemesen melegíti a Küklopsz-barlang környéki sziklákat. Délután a Marachi és Akacia öblök csendjét élvezzük a tömeg nélkül. Mivel a nap 17:00 körül lebukik, a napot korán, egy forró ital mellett zárjuk a Potami-strandra nézve.",
+            "ro": "Dimineața de iarnă în Himarë este răcoroasă și senină, ideală pentru o plimbare solitară pe plajă. La prânz, soarele blând mediteranean încălzește stâncile de lângă Peștera Ciclopului. După-amiaza ne bucurăm de liniștea golfurilor pustii Marachi și Akacia. Deoarece soarele apune în jur de ora 17:00, ne încheiem ziua devreme cu o băutură caldă privind spre plaja Potami.",
+            "en": "Winter mornings in Himarë are crisp and clear, perfect for a solitary stroll along the deserted shore. At noon, the mild Mediterranean sun warms the rocks near Cyclop’s Cave. Afternoon is for enjoying the silence of the empty Marachi and Akacia bays. As the sun sets around 17:00, we end our day early with a hot drink overlooking the scenic Potami beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plazhi i Himarës",
+                "hu": "Plazhi i Himarës",
+                "ro": "Plazhi i Himarës",
+                "en": "Plazhi i Himarës"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die seltene Ruhe ohne Sommertouristen; tragen Sie mehrere Schichten Kleidung, da der Wind vom Meer empfindlich kühl sein kann.",
+                "hu": "Élvezze a ritka nyugalmat a nyári turisták nélkül; öltözzön rétegesen, mert a tenger felől fújó szél ilyenkor metszően hideg lehet.",
+                "ro": "Bucurați-vă de liniștea rară fără turiștii de vară; purtați mai multe straturi de haine, deoarece vântul mării poate fi destul de rece.",
+                "en": "Enjoy the rare tranquility without summer crowds; wear multiple layers as the wind blowing from the sea can be quite biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Zyklopenhöhle",
+                "hu": "Küklopsz-barlang",
+                "ro": "Peștera Ciclopului",
+                "en": "Cyclop’s Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen speichern mittags die Sonnenwärme; nutzen Sie das helle Winterlicht für beeindruckende Fotos der menschenleeren Küste.",
+                "hu": "A sziklák délben jól tárolják a nap melegét; használja ki a tiszta téli fényeket a néptelen partvidék lenyűgöző fotózásához.",
+                "ro": "Stâncile rețin căldura soarelui la prânz; profitați de lumina clară de iarnă pentru fotografii impresionante ale coastei pustii.",
+                "en": "The rocks store the sun's warmth at noon; take advantage of the clear winter light for stunning photos of the deserted coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Marachi",
+                "hu": "Marachi",
+                "ro": "Marachi",
+                "en": "Marachi"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für stille Reflexion am Meer; bringen Sie eine Thermoskanne mit heißem Tee mit, da viele Strandbars im Winter geschlossen sind.",
+                "hu": "Tökéletes hely a csendes elmélkedésre a tengernél; hozzon termoszt forró teával, mivel a legtöbb strandbár zárva tart ilyenkor.",
+                "ro": "Un loc perfect pentru reflecție tăcută lângă mare; aduceți un termos cu ceai cald, deoarece multe baruri de pe plajă sunt închise.",
+                "en": "A perfect spot for quiet reflection by the sea; bring a thermos with hot tea as most beach bars are closed during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Akacia",
+                "hu": "Akacia",
+                "ro": "Akacia",
+                "en": "Akacia"
+              },
+              "tip_5lang": {
+                "de": "Die unberührte Natur ist im Winter besonders spürbar; eine winddichte Jacke schützt Sie vor der kühlen Brise in der exponierten Bucht.",
+                "hu": "Az érintetlen természet télen különösen érezhető; egy szélálló dzseki megvédi Önt a hűvös fuvallattól ebben a nyitott öbölben.",
+                "ro": "Natura neatinsă este deosebit de vizibilă iarna; o jachetă rezistentă la vânt vă va proteja de briza rece din acest golf expus.",
+                "en": "The untouched nature is especially palpable in winter; a windproof jacket will protect you from the chilly breeze in the open bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi i Potamit",
+                "hu": "Plazhi i Potamit",
+                "ro": "Plazhi i Potamit",
+                "en": "Plazhi i Potamit"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17 Uhr; suchen Sie danach schnell die Wärme der Stadt auf, da es nach Dämmerung stark abkühlt.",
+                "hu": "Nézze meg a korai, 17 óra körüli naplementét; utána gyorsan keressen meleg helyet a városban, mert sötétedés után hirtelen lehűl a levegő.",
+                "ro": "Priviți apusul devreme, în jur de ora 17:00; după aceea, căutați repede căldura orașului, deoarece temperatura scade brusc la amurg.",
+                "en": "Watch the early sunset around 5 PM; head back to the warmth of the town quickly afterward as the temperature drops sharply at dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a frissítő reggeli szellővel közvetlenül a Himarë strandon, mielőtt felkerekezne a dombra, hogy elmerüljön a lenyűgöző történelemben.\n\nDélben eléri a himarëi vár fenséges, ősi romjait, majd meglátogatja a hegyen található, végtelenül békés Mindenszentek templomát.\n\nDélután kényelmesen guruljon le a tágas és széles Livadhi strandra egy hűsítő úszásra a kristálytiszta tengervízben.\n\nAz este a hihetetlenül eldugott Akvárium strandon ér véget, amely egy tökéletes rejtett gyöngyszem a vad természet lágy ölén.",
         "ro": "Începeți cu briza răcoroasă a dimineții chiar la plaja Himarë, înainte de a urca pe bicicletă spre dealurile încărcate de istorie fascinantă.\n\nLa amiază ajungeți la ruinele antice ale impresionantului Castel Himarë și vizitați senina Biserică a Tuturor Sfinților din apropiere.\n\nDupă-amiaza, coborâți relaxat spre întinsa plajă Livadhi pentru a înota în apele albastre și a vă bucura de soarele cald.\n\nSeara se încheie magic la izolată plajă Aquarium, o bijuterie ascunsă perfectă pentru relaxare în mijlocul naturii stâncoase.",
         "en": "Start with a refreshing morning breeze right at Himarë Beach before riding your bike uphill to immerse yourself in deep local history.\n\nMidday brings you to the majestic ancient ruins of Himarë Castle and the profoundly serene Church of all Saints perched on the hill.\n\nIn the afternoon, cruise down comfortably to the expansive Livadhi Beach for a well-deserved, cooling swim in the vivid blue water.\n\nEvening wraps up beautifully at the secluded Aquarium Beach, a perfect hidden gem completely embraced by wild natural rocks."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt vorsichtig auf den nassen Straßen am Strand. Mittags kämpfen wir uns den Hügel zur Burg hoch, wo die alten Mauern uns etwas Schutz bieten. Nachmittags erkunden wir die Kirchenruinen im Nieselregen, bevor wir zu den abgelegenen Buchten hinunterfahren. Trotz des Regens ist die Fahrt erfrischend, erfordert aber volle Konzentration auf den rutschigen Pfaden.",
+            "hu": "A kerékpártúra óvatosan indul a vizes aszfalton a tengerpart mentén. Délben felküzdjük magunkat a várdombra, ahol a régi falak némi menedéket nyújtanak. Délután a templomromokat fedezzük fel a szemerkélő esőben, majd leereszkedünk a távoli öblökhöz. Az eső ellenére a tekerés frissítő, de a csúszós utak miatt maximális koncentrációt igényel minden kanyarban.",
+            "ro": "Turul cu bicicleta începe cu prudență pe străzile umede de lângă plajă. La prânz, urcăm dealul spre castel, unde zidurile vechi oferă puțin adăpost. După-amiaza explorăm ruinele bisericilor în ploaia fină, înainte de a coborî spre golfurile izolate. În ciuda ploii, cursa este revigorantă, dar necesită concentrare maximă pe potecile alunecoase.",
+            "en": "The bike tour starts cautiously on the wet roads by the beach. At noon, we pedal up the hill to the castle, where ancient walls offer some shelter. Afternoon is spent exploring church ruins in the drizzle before descending to secluded bays. Despite the rain, the ride is refreshing, but the slippery paths require maximum concentration at every turn."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plazhi i Himarës",
+                "hu": "Plazhi i Himarës",
+                "ro": "Plazhi i Himarës",
+                "en": "Plazhi i Himarës"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf der nassen Fahrbahn; tragen Sie eine neongelbe Regenjacke, um im trüben Wetter besser gesehen zu werden.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes úton; viseljen élénk színű esőkabátot, hogy a szürke időben is jól látható legyen a forgalomban.",
+                "ro": "Verificați frânele înainte de a porni pe carosabilul umed; purtați o pelerină reflectorizantă pentru a fi vizibil în traficul pe timp de ploaie.",
+                "en": "Check your brakes before starting on the wet pavement; wear a bright rain jacket to ensure you are visible to traffic in the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Himarë",
+                "hu": "Himarëi vár",
+                "ro": "Castelul Himarë",
+                "en": "Himarë Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Steigung ist bei Regen anstrengend und rutschig; schieben Sie das Rad auf den steilsten Abschnitten, um Stürze auf dem Kopfsteinpflaster zu vermeiden.",
+                "hu": "Az emelkedő esőben fárasztó és csúszós; a legmeredekebb szakaszokon tolja a kerékpárt, hogy elkerülje az elesést a nedves macskaköveken.",
+                "ro": "Urcarea este obositoare și alunecoasă pe ploaie; împingeți bicicleta pe secțiunile abrupte pentru a evita căzăturile pe piatra cubică udă.",
+                "en": "The climb is tiring and slippery in the rain; push your bike on the steepest sections to avoid falling on the wet cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Allerheiligenkirche",
+                "hu": "Mindenszentek temploma",
+                "ro": "Biserica Tuturor Sfinților",
+                "en": "Church of all Saints"
+              },
+              "tip_5lang": {
+                "de": "Das Kircheninnere ist ein trockener Ort der Besinnung; stellen Sie Ihr Fahrrad sicher unter einem Dachvorsprung ab, um den Sattel trocken zu halten.",
+                "hu": "A templom belseje száraz hely az elcsendesedéshez; parkolja le kerékpárját egy ereszhajlat alá, hogy az ülés ne ázzon át a nézelődés alatt.",
+                "ro": "Interiorul bisericii este un loc uscat pentru reculegere; parcați bicicleta sub o streașină pentru a menține șaua uscată în timp ce vizitați.",
+                "en": "The church interior is a dry place for reflection; park your bike under an eave to keep the seat dry while you explore the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi i Livadhit",
+                "hu": "Plazhi i Livadhit",
+                "ro": "Plazhi i Livadhit",
+                "en": "Plazhi i Livadhit"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier schlammig sein; achten Sie auf Pfützen, die tiefer sein könnten, als sie aussehen, um Ihre Felgen nicht zu beschädigen.",
+                "hu": "A talaj itt sáros lehet; figyeljen a tócsákra, mert mélyebbek lehetnek, mint látszanak, és kárt tehetnek a kerékpár felnijében.",
+                "ro": "Terenul poate fi noroios aici; atenție la bălți, deoarece pot fi mai adânci decât par și pot deteriora jantele bicicletei.",
+                "en": "The ground can be muddy here; watch out for puddles that might be deeper than they look to avoid damaging your bike's rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Beach",
+                "hu": "Akvárium strand",
+                "ro": "Plaja Aquarium",
+                "en": "Aquarium Beach"
+              },
+              "tip_5lang": {
+                "de": "Der felsige Pfad zum Strand ist bei Regen sehr gefährlich; lassen Sie das Rad oben stehen und gehen Sie das letzte Stück vorsichtig zu Fuß.",
+                "hu": "A sziklás ösvény a strandhoz esőben nagyon veszélyes; hagyja fent a biciklit, és az utolsó szakaszt tegye meg óvatosan gyalogosan.",
+                "ro": "Poteca stâncoasă spre plajă este periculoasă pe ploaie; lăsați bicicleta sus și parcurgeți ultima porțiune cu mare atenție pe jos.",
+                "en": "The rocky path to the beach is very hazardous in the rain; leave your bike at the top and walk the last section carefully on foot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist perfekt für die steile Fahrt zur Burg, da die kühle Luft die Anstrengung erleichtert. Mittags genießen wir den Panoramablick über das tiefblaue, ruhige Meer. Nachmittags radeln wir zu den leeren Stränden von Livadhit und Aquarium, wo die Wintersonne eine friedliche Atmosphäre schafft. Wir planen unsere Rückkehr vor 17:00 Uhr, um nicht in der eisigen Dunkelheit fahren zu müssen.",
+            "hu": "A tiszta téli nap tökéletes a meredek várhoz vezető úthoz, mert a hűvös levegő könnyebbé teszi a fizikai megterhelést. Délben élvezzük a panorámát a mélykék, nyugodt tengerre. Délután a néptelen Livadhit és Aquarium strandokhoz tekerünk, ahol a téli napfény békés hangulatot áraszt. A visszatérést 17:00 előttre tervezzük, hogy elkerüljük a jeges sötétségben való tekerést.",
+            "ro": "O zi senină de iarnă este perfectă pentru urcarea spre castel, deoarece aerul rece face efortul mai ușor de suportat. La prânz, ne bucurăm de panorama mării de un albastru profund. După-amiaza pedalăm spre plajele pustii Livadhit și Aquarium, unde soarele de iarnă creează o atmosferă pașnică. Planificăm întoarcerea înainte de ora 17:00 pentru a nu merge prin întunericul înghețat.",
+            "en": "A clear winter day is perfect for the steep ride to the castle, as the cool air makes the physical exertion much easier. At noon, we enjoy the panoramic view of the deep blue, calm sea. Afternoon is for cycling to the empty Livadhit and Aquarium beaches, where the winter sun creates a peaceful vibe. We plan our return before 17:00 to avoid riding in the freezing darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plazhi i Himarës",
+                "hu": "Plazhi i Himarës",
+                "ro": "Plazhi i Himarës",
+                "en": "Plazhi i Himarës"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, um Ihre Hände beim Fahren warm zu halten; der Fahrtwind ist im Winter an der Küste sehr schneidend.",
+                "hu": "Viseljen szélálló kesztyűt, hogy melegen tartsa kezeit tekerés közben; a menetszél télen nagyon metsző tud lenni a tengerparton.",
+                "ro": "Purtați mănuși rezistente la vânt pentru a vă menține mâinile calde; curentul de aer în timpul mersului este foarte tăios iarna pe coastă.",
+                "en": "Wear windproof gloves to keep your hands warm while riding; the wind chill can be very biting along the coast during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Himarë",
+                "hu": "Himarëi vár",
+                "ro": "Castelul Himarë",
+                "en": "Himarë Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter durch die klare Luft am besten; nehmen Sie eine warme Jacke für die rasante und kühle Abfahrt mit.",
+                "hu": "A távoli kilátás télen a legtisztább a páramentes levegő miatt; vigyen magával meleg dzsekit a gyors és hűvös lejtmenethez.",
+                "ro": "Vizibilitatea la distanță este optimă iarna datorită aerului clar; luați o jachetă groasă pentru coborârea rapidă și răcoroasă.",
+                "en": "Long-distance visibility is best in winter due to the clear air; bring a warm jacket for the fast and chilly descent back to town."
+              }
+            },
+            {
+              "name": {
+                "de": "Allerheiligenkirche",
+                "hu": "Mindenszentek temploma",
+                "ro": "Biserica Tuturor Sfinților",
+                "en": "Church of all Saints"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Hof der Kirche für eine kurze Aufwärmpause; die dicken Mauern bieten Schutz vor dem kalten Nordwind.",
+                "hu": "Használja a templom szélvédett udvarát egy rövid melegedő pihenőre; a vastag falak védelmet nyújtanak a hideg északi szél ellen.",
+                "ro": "Folosiți curtea bisericii protejată de vânt pentru o scurtă pauză de încălzire; zidurile groase oferă adăpost împotriva vântului rece.",
+                "en": "Use the church's wind-protected courtyard for a quick warming break; the thick walls provide excellent shelter from the cold north wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi i Livadhit",
+                "hu": "Plazhi i Livadhit",
+                "ro": "Plazhi i Livadhit",
+                "en": "Plazhi i Livadhit"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ein Ort absoluter Stille; achten Sie auf den Sonnenstand, um nicht von der frühen Dämmerung überrascht zu werden.",
+                "hu": "A strand télen az abszolút csend helyszíne; ügyeljen a nap állására, hogy ne érje váratlanul a korai sötétedés a visszaúton.",
+                "ro": "Plaja este un loc de liniște absolută iarna; urmăriți poziția soarelui pentru a nu fi surprins de amurgul timpuriu pe drumul de retur.",
+                "en": "The beach is a place of absolute silence in winter; keep an eye on the sun to avoid being surprised by the early dusk on your way back."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Beach",
+                "hu": "Akvárium strand",
+                "ro": "Plaja Aquarium",
+                "en": "Aquarium Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen können im Schatten vereist oder sehr kalt sein; kehren Sie rechtzeitig um, da die Temperatur nach Sonnenuntergang rapide sinkt.",
+                "hu": "Az árnyékos részeken a sziklák jegesek vagy nagyon hidegek lehetnek; időben induljon vissza, mert naplemente után a hőmérséklet gyorsan zuhan.",
+                "ro": "Stâncile pot fi înghețate sau foarte reci în umbră; întorceți-vă la timp, deoarece temperatura scade rapid după apusul soarelui.",
+                "en": "Rocks in shaded areas can be icy or very cold; head back in time as the temperature drops rapidly as soon as the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "A napja kalandosan, a távoli Kisha e Shën Mërisë së Athalit hegyi templomnál kezdődik, ahonnan valóban pazar panoráma nyílik a vidékre.\n\nDélben mélyen a történelembe csöppen a fenséges himarëi várnál és a közvetlenül mellette fekvő, csendes Mindenszentek templománál.\n\nA délutánt már lent a völgyben, a hívogató és nyüzsgő központi Himarë strandon töltheti kellemes és megérdemelt pihenéssel.\n\nAz este a Filikuri strand zord, érintetlen szépségéhez hívogat egy abszolút emlékezetes alkonyatra, távol a turisták zajától.",
         "ro": "Ziua ta începe aventuros la îndepărtata biserică montană Kisha e Shën Mërisë së Athalit, admirând priveliștile sale ample și superbe.\n\nAmiaza face o tranziție profundă în istorie la maiestuosul Castel Himarë și tăcuta Biserică a Tuturor Sfinților din imediata apropiere.\n\nPetreceți o după-amiază relaxantă coborând înapoi în vale, direct pe plaja centrală Himarë, bucurându-vă de valurile calme.\n\nSeara vă invită la frumusețea sălbatică și neatinsă a plajei Filikuri pentru un amurg absolut de neuitat, departe de aglomerație.",
         "en": "Your day begins adventurously at the remote Kisha e Shën Mërisë së Athalit mountain church with its sweeping, panoramic views.\n\nMidday transitions deeply into local history at the majestic Himarë Castle and the quietly beautiful Church of all Saints nearby.\n\nSpend a highly relaxing afternoon back down in the main valley, chilling by the inviting waves of the central Himarë Beach.\n\nEvening invites you to the rugged, unspoiled beauty of Filikuri Beach for an absolutely memorable twilight away from the crowds."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir die Bergregionen um Himarë, während der Nebel mystisch um die Gipfel zieht. Mittags besuchen wir die Burg, wobei das Auto uns bis zum Tor bringt und wir so kaum nass werden. Nachmittags fahren wir entlang der Küstenstraße und beobachten das tosende Meer aus der Wärme des Wagens. Den Abend lassen wir bei Regen prasselnd auf das Autodach an einem Aussichtspunkt ausklingen.",
+            "hu": "Autóval fedezzük fel Himarë hegyi régióit, miközben a köd misztikusan gomolyog a csúcsok körül. Délben meglátogatjuk a várat, az autó egészen a kapuig visz, így alig ázunk meg a nézelődés során. Délután a parti úton haladva az autó melegéből figyeljük a háborgó tengert. Az estét egy kilátóponton zárjuk, hallgatva az autó tetőlemezén kopogó eső megnyugtató zaját.",
+            "ro": "Cu mașina explorăm regiunile muntoase din jurul Himarë, în timp ce ceața plutește mistic în jurul vârfurilor. La prânz vizităm castelul, mașina ducându-ne până la poartă pentru a evita ploaia. După-amiaza conducem pe drumul de coastă și observăm marea învolburată din căldura vehiculului. Încheiem seara la un punct de belvedere, ascultând ploaia bătând în plafonul mașinii.",
+            "en": "By car, we explore the mountain regions around Himarë while mist swirls mystically around the peaks. At noon, we visit the castle, the car taking us right to the gate so we stay dry. In the afternoon, we drive along the coastal road, watching the churning sea from the warmth of the car. We end the evening at a viewpoint, listening to the soothing sound of rain on the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kisha e Shën Mërisë së Athalit",
+                "hu": "Kisha e Shën Mërisë së Athalit",
+                "ro": "Kisha e Shën Mërisë së Athalit",
+                "en": "Kisha e Shën Mërisë së Athalit"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraße kann bei Regen rutschig und neblig sein; fahren Sie langsam und nutzen Sie das Abblendlicht für bessere Sichtbarkeit.",
+                "hu": "A hegyi út esőben csúszós és ködös lehet; vezessen lassan, és használja a tompított fényszórót a jobb láthatóság érdekében.",
+                "ro": "Drumul montan poate fi alunecos și încețoșat pe ploaie; conduceți încet și folosiți faza scurtă pentru o mai bună vizibilitate.",
+                "en": "The mountain road can be slippery and foggy in the rain; drive slowly and use dipped headlights for better visibility to others."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Himarë",
+                "hu": "Himarëi vár",
+                "ro": "Castelul Himarë",
+                "en": "Himarë Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; ein Regenschirm ist für den kurzen Fußweg auf dem unebenen Gelände trotzdem ratsam.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; egy esernyő még így is tanácsos a rövid gyalogúthoz az egyenetlen terepen.",
+                "ro": "Parcați cât mai aproape de intrare; o umbrelă este totuși recomandată pentru scurta plimbare pe terenul denivelat al cetății.",
+                "en": "Park as close to the entrance as possible; an umbrella is still advisable for the short walk across the uneven castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Allerheiligenkirche",
+                "hu": "Mindenszentek temploma",
+                "ro": "Biserica Tuturor Sfinților",
+                "en": "Church of all Saints"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen trockenen Zufluchtsort; nutzen Sie die Zeit drinnen, um die Wandmalereien ohne Eile vor dem Regen zu bewundern.",
+                "hu": "A templom száraz menedéket nyújt; használja ki az időt a faliképek megcsodálására, miközben kint elvonul az esőfelhő.",
+                "ro": "Biserica oferă un refugiu uscat; profitați de timp pentru a admira picturile murale fără grabă, în timp ce plouă afară.",
+                "en": "The church offers a dry sanctuary; take your time to admire the murals without rush while waiting for the rain to pass outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi i Himarës",
+                "hu": "Plazhi i Himarës",
+                "ro": "Plazhi i Himarës",
+                "en": "Plazhi i Himarës"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Brandung direkt aus dem Auto; an der Promenade gibt es gute Parkmöglichkeiten direkt am Meer.",
+                "hu": "Élvezze a hullámtörés látványát közvetlenül az autóból; a sétány mentén jó parkolási lehetőségek vannak a tenger mellett.",
+                "ro": "Bucurați-vă de vederea valurilor direct din mașină; există locuri de parcare bune chiar lângă mare de-a lungul falezei.",
+                "en": "Enjoy the view of the breaking waves directly from your car; there are good parking spots right by the sea along the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi i Filikurit",
+                "hu": "Plazhi i Filikurit",
+                "ro": "Plazhi i Filikurit",
+                "en": "Plazhi i Filikurit"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigte Zufahrt kann bei Regen schlammig sein; bleiben Sie auf festem Grund, um nicht mit dem Wagen steckenzubleiben.",
+                "hu": "A burkolatlan bekötőút esőben sáros lehet; maradjon a szilárd talajon, hogy elkerülje az autó elakadását a sárban.",
+                "ro": "Drumul neasfaltat de acces poate fi noroios pe ploaie; rămâneți pe sol ferm pentru a evita blocarea mașinii în noroi.",
+                "en": "The unpaved access road can be muddy in the rain; stay on firm ground to avoid getting your car stuck in the soft mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den Komfort, die weiten Aussichtspunkte von Athalit ohne den kalten Wind zu besuchen. Mittags erkunden wir die Burgruinen bei strahlendem, kühlem Sonnenschein. Nachmittags fahren wir entspannt die Küste ab und entdecken einsame Buchten. Da es um 17:00 Uhr dunkel wird, nutzen wir die Scheinwerfer für die kurvigen Bergstraßen auf dem Weg zurück zum Hotel.",
+            "hu": "Télen az autó kényelmét élvezve látogatjuk meg Athalit távoli kilátópontjait a hideg szél nélkül. Délben a várromokat fedezzük fel ragyogó, de hűvös napsütésben. Délután nyugodtan autózzuk végig a partot, felfedezve az elhagyatott öblöket. Mivel 17:00-kor sötétedik, a fényszórókra támaszkodva tesszük meg a kanyargós hegyi utat vissza a szálláshoz.",
+            "ro": "Iarna, mașina oferă confortul de a vizita punctele de belvedere din Athalit fără vântul rece. La prânz explorăm ruinele castelului sub un soare strălucitor, dar rece. După-amiaza conducem relaxați de-a lungul coastei, descoperind golfuri pustii. Deoarece se întunecă la ora 17:00, folosim farurile pentru drumurile montane virajate spre cazare.",
+            "en": "In winter, the car provides comfort for visiting the distant viewpoints of Athalit without the biting wind. At noon, we explore the castle ruins in the bright but cool sunshine. Afternoon is for a relaxed coastal drive to discover deserted bays. Since it gets dark at 17:00, we rely on our headlights for the winding mountain roads back to the hotel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kisha e Shën Mërisë së Athalit",
+                "hu": "Kisha e Shën Mërisë së Athalit",
+                "ro": "Kisha e Shën Mërisë së Athalit",
+                "en": "Kisha e Shën Mërisë së Athalit"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet hier oben eine fantastische Fernsicht; heizen Sie den Wagen vor, bevor Sie die Höhenlagen erkunden.",
+                "hu": "A tiszta téli levegő fantasztikus kilátást nyújt innen fentről; fűtse fel az autót, mielőtt elindulna a magasabb hegyi részekre.",
+                "ro": "Aerul clar de iarnă oferă o vizibilitate fantastică de aici de sus; încălziți mașina înainte de a porni spre zonele înalte.",
+                "en": "The clear winter air offers fantastic long-distance views from up here; warm up the car before heading into the higher altitudes."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Himarë",
+                "hu": "Himarëi vár",
+                "ro": "Castelul Himarë",
+                "en": "Himarë Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg ohne die Sommerhitze und Massen; eine warme Mütze ist wegen des konstanten Windes auf dem Hügel wichtig.",
+                "hu": "Látogassa meg a várat a nyári hőség és tömeg nélkül; egy meleg sapka fontos a dombtetőn tapasztalható állandó szél miatt.",
+                "ro": "Vizitați castelul fără căldura și mulțimile de vară; o căciulă groasă este importantă din cauza vântului constant de pe deal.",
+                "en": "Visit the castle without summer heat and crowds; a warm hat is important due to the constant wind on top of the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Allerheiligenkirche",
+                "hu": "Mindenszentek temploma",
+                "ro": "Biserica Tuturor Sfinților",
+                "en": "Church of all Saints"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung im Winter; achten Sie darauf, dass die dicken Mauern im Inneren die Kälte sehr stark speichern.",
+                "hu": "Csendes hely az elmélkedésre télen; vegye figyelembe, hogy a vastag falak a belső térben nagyon erősen tárolják a hideget.",
+                "ro": "Un loc liniștit pentru reflecție iarna; rețineți că zidurile groase mențin o temperatură scăzută în interiorul bisericii.",
+                "en": "A quiet place for reflection in winter; keep in mind that the thick walls store the cold very effectively inside the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi i Himarës",
+                "hu": "Plazhi i Himarës",
+                "ro": "Plazhi i Himarës",
+                "en": "Plazhi i Himarës"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für einen kurzen, erfrischenden Winterspaziergang am Strand; die Cafés in der Nähe bieten danach heißen Tee zum Aufwärmen.",
+                "hu": "Parkoljon le egy rövid, frissítő téli sétára a parton; a közeli kávézók forró teát kínálnak a séta utáni bemelegedéshez.",
+                "ro": "Parcați pentru o scurtă plimbare răcoritoare pe plajă; cafenelele din apropiere oferă ceai cald pentru a vă încălzi după tur.",
+                "en": "Park for a short, refreshing winter walk on the beach; nearby cafes offer hot tea to warm you up after your stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Plazhi i Filikurit",
+                "hu": "Plazhi i Filikurit",
+                "ro": "Plazhi i Filikurit",
+                "en": "Plazhi i Filikurit"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt ist im Winter gut befahrbar, aber einsam; kehren Sie vor Einbruch der frühen Dunkelheit gegen 17 Uhr zur Hauptstraße zurück.",
+                "hu": "Az út télen jól járható, de néptelen; térjen vissza a főútra a korai sötétedés beállta előtt, körülbelül délután 5 órakor.",
+                "ro": "Drumul de acces este practicabil iarna, dar pustiu; reveniți la drumul principal înainte de lăsarea întunericului, în jur de ora 17.",
+                "en": "The access road is fine in winter but very deserted; return to the main road before the early darkness sets in around 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

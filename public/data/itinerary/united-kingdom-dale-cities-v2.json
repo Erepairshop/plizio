@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a friss parti levegőn a történelmi Gann mészkemencéknél. Délben átszeli a félszigetet a Westdale-öböl drámai vörös szikláihoz egy frissítő pihenőre. Délután felfedezheti a Castle Beach védett partjait, és elmerülhet a történelemben a Dale-erődben. Az estéje tökéletesen zárul a Watwick-öböl eldugott homokos partjainál, hallgatva a tenger zúgását.",
         "ro": "Începeți dimineața respirând aerul proaspăt de coastă la istoricele cuptoare de calcar Gann. La amiază traversați peninsula către stâncile roșii dramatice din Westdale Bay. După-amiaza, veți explora țărmurile adăpostite din Castle Beach și vă veți scufunda în istorie la fortul Dale. Seara se încheie perfect pe nisipurile izolate din Watwick Bay, în liniștea deplină a naturii.",
         "en": "Start your morning breathing in the fresh coastal air at the historic Gann Lime Kilns. Midday brings you across the peninsula to the dramatic red cliffs of Westdale Bay for a refreshing scenic break. In the afternoon, you will explore the sheltered shores of Castle Beach and dive into history at Dale Fort. Your evening winds down perfectly at the secluded sands of Watwick Bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit leichtem Nieselregen über Dale. Die Gann Lime Kilns bieten erste historische Einblicke unter grauem Himmel. Mittags führt der Weg an der Küste entlang, wobei die Klippenpfade bei Nässe Vorsicht erfordern. Nachmittags erreichen Sie das Dale Fort, wo die festen Mauern Schutz vor dem Wind bieten. Der Abend klingt bei prasselndem Regen an den geschützten Ufern des Watwick Bay ruhig aus.",
+            "hu": "A reggel enyhe szitálással indul Dale partjainál, a történelmi mészégetők misztikus ködbe burkolóznak. Délben a parti ösvényeken haladunk, ahol a sár és a csúszós kövek miatt óvatos léptekre van szükség. Délután a Dale Fort masszív falai között keresünk menedéket a szél elől. Az este a Watwick-öbölben ér minket, ahol az eső kopogása festői hangulatot áraszt a tengerparti sziklákon.",
+            "ro": "Dimineața începe cu o burniță ușoară peste Dale, unde cuptoarele de var oferă un prim popas istoric sub cerul gri. La prânz, potecile de coastă necesită atenție sporită, fiind alunecoase din cauza ploii. După-amiaza, zidurile groase de la Dale Fort oferă protecție împotriva vântului tăios. Seara se încheie liniștit în golful Watwick, ascultând ploaia care cade peste stâncile abrupte.",
+            "en": "The morning begins with a soft drizzle over Dale, turning the historic lime kilns into a misty landmark. By midday, the coastal paths demand careful footing as the mud and stones become slippery. In the afternoon, the sturdy walls of Dale Fort provide a welcome shield from the Atlantic wind. Evening settles over Watwick Bay, where the rhythm of the rain creates a dramatic coastal atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gann Lime Kilns",
+                "hu": "Gann Lime Kilns",
+                "ro": "Gann Lime Kilns",
+                "en": "Gann Lime Kilns"
+              },
+              "tip_5lang": {
+                "de": "Diese Kalköfen bieten einen kleinen Unterstand vor dem Regen; nutzen Sie die Zeit, um die industrielle Geschichte zu studieren, während Sie Ihre wasserfeste Jacke richten.",
+                "hu": "Ezek a mészégetők némi fedezéket nyújtanak az eső elől; használja ki az időt az ipari múlt megismerésére, miközben ellenőrzi vízálló felszerelését a sárban.",
+                "ro": "Aceste cuptoare de var oferă un mic adăpost împotriva ploii; profitați de ocazie pentru a studia istoria industrială în timp ce vă ajustați pelerina impermeabilă.",
+                "en": "These historic lime kilns offer a bit of shelter from the drizzle; use the time to study the industrial history while adjusting your waterproof gear for the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Westdale Bay",
+                "hu": "Westdale Bay",
+                "ro": "Westdale Bay",
+                "en": "Westdale Bay"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatische Brandung bei Regen vom Strandrand aus; halten Sie sich von den rutschigen Felsen fern und tragen Sie unbedingt festes, rutschfestes Schuhwerk.",
+                "hu": "Figyelje meg az esőben feltámadó drámai hullámverést a partról; kerülje a csúszós sziklákat, és mindenképpen viseljen stabil, tapadós talpú bakancsot a meredek lejtőn.",
+                "ro": "Observați valurile dramatice în timpul ploii de pe marginea plajei; evitați stâncile alunecoase și purtați neapărat încălțăminte cu talpă aderentă pe panta udă.",
+                "en": "Watch the dramatic surf during the rain from the beach edge; stay clear of the slippery rocks and ensure you wear sturdy, non-slip boots on the incline."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Beach",
+                "hu": "Castle Beach",
+                "ro": "Castle Beach",
+                "en": "Castle Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen besonders wild; nutzen Sie die Zeit für einen kurzen, erfrischenden Spaziergang und achten Sie auf die Gezeiten, die bei Sturm schneller steigen können.",
+                "hu": "Az öböl különösen vad arcát mutatja esőben; tegyen egy rövid, frissítő sétát, de figyeljen az ár-apály jelenségre, mert viharos időben a víz gyorsabban emelkedhet.",
+                "ro": "Golful pare deosebit de sălbatic în timpul ploii; faceți o scurtă plimbare revigorantă, dar fiți atenți la flux, care poate crește mai repede în condiții de furtună.",
+                "en": "The bay looks particularly wild in the rain; take a short, refreshing walk but keep an eye on the tide, as water levels can rise more quickly during stormy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Dale Fort",
+                "hu": "Dale Fort",
+                "ro": "Dale Fort",
+                "en": "Dale Fort"
+              },
+              "tip_5lang": {
+                "de": "Das Fort dient als massives Bollwerk gegen das Wetter; erkunden Sie die Architektur und nutzen Sie die Mauern als Windschatten, um Ihre Route für den Rückweg zu planen.",
+                "hu": "Az erőd masszív bástyaként áll az időjárással szemben; fedezze fel az építészetét, és használja a falakat szélárnyékként a visszaút megtervezéséhez és pihenéshez.",
+                "ro": "Fortăreața servește ca un bastion masiv împotriva vremii; explorați arhitectura și folosiți zidurile ca adăpost împotriva vântului pentru a vă planifica drumul de întoarcere.",
+                "en": "The fort serves as a massive bulwark against the weather; explore the architecture and use the walls as a windbreak to plan your route back and take a rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Watwick Bay",
+                "hu": "Watwick Bay",
+                "ro": "Watwick Bay",
+                "en": "Watwick Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit der Küste im Regen; suchen Sie unter den Felsvorsprüngen Schutz und halten Sie Ihre Kamera in einer wasserdichten Tasche bereit.",
+                "hu": "Élvezze a partvidék zord szépségét az esőben; keressen menedéket a sziklakiszögellések alatt, és tartsa fényképezőgépét vízálló tokban a látványos fotókhoz.",
+                "ro": "Bucurați-vă de frumusețea aspră a coastei în ploaie; căutați adăpost sub stânci și păstrați aparatul foto într-o geantă impermeabilă pentru fotografii spectaculoase.",
+                "en": "Enjoy the rugged beauty of the coastline in the rain; seek shelter under the rock overhangs and keep your camera in a waterproof bag for those dramatic shots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen weckt die Lebensgeister auf dem Weg zu den Kalköfen. Mittags steht die Sonne tief über Westdale Bay und taucht die raue Landschaft in goldenes Licht. Da es bereits gegen 17:00 Uhr dunkel wird, nutzen wir den frühen Nachmittag für das beeindruckende Dale Fort. Der Abend endet in der stillen Dunkelheit am Watwick Bay, wo man die klaren Wintersterne über dem Meer bewundern kann.",
+            "hu": "A friss téli reggeli levegő azonnal felébreszti az érzékeket a mészégetők felé vezető úton. Délben a nap alacsonyan jár a Westdale-öböl felett, arany fénybe vonva a zord tájat. Mivel 17:00 körül már sötétedik, a kora délutánt a Dale Fort felfedezésére fordítjuk. Az este a Watwick-öböl csendes sötétségében ér minket, ahol a tiszta téli égbolt csillagaiban gyönyörködhetünk.",
+            "ro": "Aerul proaspăt de iarnă trezește simțurile în timpul plimbării de dimineață spre cuptoarele de var. La prânz, soarele coborât peste Westdale Bay scaldă peisajul aspru într-o lumină aurie. Deoarece se întunecă deja în jurul orei 17:00, folosim începutul după-amiezii pentru Dale Fort. Seara se încheie în întunericul liniștit din golful Watwick, admirând stelele clare de iarnă.",
+            "en": "The crisp winter morning air awakens your senses on the walk towards the lime kilns. At midday, the low sun over Westdale Bay bathes the rugged landscape in golden light. Since it gets dark around 17:00, we make the most of the early afternoon at Dale Fort. The evening ends in the silent darkness at Watwick Bay, where you can admire the clear winter stars over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gann Lime Kilns",
+                "hu": "Gann Lime Kilns",
+                "ro": "Gann Lime Kilns",
+                "en": "Gann Lime Kilns"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steinbauten wirken im Winterfrost besonders imposant; tragen Sie Thermokleidung, da der Wind hier am Ästuar im Winter sehr schneidend sein kann.",
+                "hu": "A történelmi építmények lenyűgözőek a téli fagyban; viseljen hőtartó ruházatot, mert a torkolatnál fújó szél ilyenkor rendkívül metsző és hideg lehet.",
+                "ro": "Construcțiile istorice par impunătoare în gerul iernii; purtați haine termice, deoarece vântul de la estuar poate fi extrem de tăios în această perioadă a anului.",
+                "en": "The historic structures look imposing in the winter frost; wear thermal layers as the wind at the estuary can be extremely biting and cold during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Westdale Bay",
+                "hu": "Westdale Bay",
+                "ro": "Westdale Bay",
+                "en": "Westdale Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Winterstrand; die tiefstehende Sonne bietet fantastisches Licht für Fotos, aber packen Sie sich warm ein, um die Kälte am Meer zu ertragen.",
+                "hu": "Élvezze a téli tengerpart magányát; az alacsonyan járó nap fantasztikus fényeket ad a fotózáshoz, de öltözzön rétegesen, hogy bírja a tenger felőli hideget.",
+                "ro": "Bucurați-vă de singurătatea plajei de iarnă; soarele la apus oferă o lumină fantastică pentru fotografii, dar îmbrăcați-vă bine pentru a rezista frigului de lângă mare.",
+                "en": "Enjoy the solitude of the winter beach; the low sun offers fantastic light for photography, but dress in warm layers to withstand the chill coming off the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Beach",
+                "hu": "Castle Beach",
+                "ro": "Castle Beach",
+                "en": "Castle Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, zügiger Spaziergang hält Sie warm, während Sie die klare Sicht genießen; bringen Sie eine Thermoskanne mit einem heißen Getränk für eine kurze Pause mit.",
+                "hu": "Egy rövid, tempós séta segít melegen tartani testét, miközben élvezi a tiszta kilátást; hozzon magával termoszt forró itallal egy rövid, melengető pihenőhöz a parton.",
+                "ro": "O plimbare scurtă și vioaie vă va menține căldura corporală în timp ce admirați vederea clară; aduceți un termos cu băutură caldă pentru o scurtă pauză pe mal.",
+                "en": "A short, brisk walk will keep you warm while you enjoy the clear views; bring a thermos with a hot drink for a quick, warming break by the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Dale Fort",
+                "hu": "Dale Fort",
+                "ro": "Dale Fort",
+                "en": "Dale Fort"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Fort vor Sonnenuntergang um 17 Uhr; die alten Steinmauern speichern die Kälte, also vergessen Sie Handschuhe und eine warme Mütze nicht.",
+                "hu": "Fedezze fel az erődöt a 17 órai naplemente előtt; a régi kőfalak ontják a hideget, ezért ne felejtse otthon a kesztyűt és a meleg sapkát a felfedezéshez.",
+                "ro": "Explorați fortăreața înainte de apusul soarelui de la ora 17:00; zidurile vechi de piatră mențin frigul, așa că nu uitați mănușile și o căciulă călduroasă.",
+                "en": "Explore the fort before the 17:00 sunset; the old stone walls retain the cold, so don't forget your gloves and a warm hat while wandering through the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Watwick Bay",
+                "hu": "Watwick Bay",
+                "ro": "Watwick Bay",
+                "en": "Watwick Bay"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ein Ort absoluter Ruhe; achten Sie auf den frühen Lichteinfall und kehren Sie rechtzeitig vor der totalen Dunkelheit zum Hauptweg zurück.",
+                "hu": "A strand télen az abszolút nyugalom szigete; ügyeljen a korai sötétedésre, és időben induljon vissza a főútra, mielőtt teljesen leszállna az éj a partra.",
+                "ro": "Plaja este un loc de liniște absolută iarna; aveți grijă la lăsarea timpurie a serii și întoarceți-vă la drumul principal înainte de întunericul total.",
+                "en": "The beach is a place of absolute peace in winter; watch for the early dusk and make sure to head back to the main path before total darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros túráját a történelmi kifutópálya mentén, majd gyönyörködjön a drámai partvidékben a Westdale-öbölnél. Dél közeledtével tekerjen a csendes torkolat felé, hogy felfedezze a régi Gann mészkemencéket. A délután festői utat kínál a Dale-erődhöz és a Watwick-öböl érintetlen elszigeteltségéhez. Zárja a napot a lenyűgöző West Blockhouse Fort falainak felfedezésével.",
         "ro": "Începeți turul cu bicicleta pe vechea pistă de aterizare înainte de a admira coasta dramatică din Westdale Bay. Aproape de amiază, pedalați spre estuarul liniștit pentru a descoperi cuptoarele de calcar Gann. După-amiaza vă invită la o plimbare pitorească până la fortul Dale și izolarea virgină din Watwick Bay. Încheiați-vă ziua explorând zidurile impunătoare ale fortului West Blockhouse la lăsarea serii.",
         "en": "Kick off your cycling tour tracing the historic runway lines before taking in the dramatic coastline at Westdale Bay. As midday approaches, pedal towards the tranquil estuary to discover the old Gann Lime Kilns. The afternoon invites a scenic ride out to Dale Fort and the pristine isolation of Watwick Bay. Conclude your day exploring the imposing walls of West Blockhouse Fort as dusk settles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet auf dem Runway unter grauen Wolken, wo der Wind den Regen vor sich her treibt. Mittags führt die Strecke zur Westdale Bay, wobei die nassen Straßen volle Konzentration erfordern. An den Gann Lime Kilns finden wir kurzzeitig Schutz vor den Schauern. Nachmittags erreichen wir Dale Fort und kämpfen uns gegen den Regen zum West Blockhouse Fort vor, wo die Aussicht trotz Nebels gewaltig ist.",
+            "hu": "A kerékpártúra a Runway kifutóján indul szürke felhők alatt, ahol a szél kergeti az esőt. Délben az út a Westdale-öböl felé vezet, a vizes aszfalton teljes koncentrációra van szükség. A mészégetőknél rövid menedéket találunk a záporok elől. Délután elérjük a Dale Fortot, majd az esővel dacolva tekerünk a West Blockhouse erőd felé, ahol a kilátás a köd ellenére is fenséges.",
+            "ro": "Turul cu bicicleta începe pe pistă sub nori cenușii, unde vântul poartă ploaia. La prânz, drumul spre Westdale Bay necesită concentrare maximă pe asfaltul ud. La cuptoarele de var găsim un scurt adăpost împotriva averselor. După-amiaza ajungem la Dale Fort și pedalăm prin ploaie spre West Blockhouse Fort, unde priveliștea este spectaculoasă chiar și prin ceață.",
+            "en": "The cycling tour starts on the Runway under gray clouds, where the wind drives the rain. By midday, the route to Westdale Bay requires full concentration on the wet roads. At the lime kilns, we find brief shelter from the showers. In the afternoon, we reach Dale Fort and brave the rain to West Blockhouse Fort, where the view remains majestic despite the mist."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Runway",
+                "hu": "Runway",
+                "ro": "Runway",
+                "en": "Runway"
+              },
+              "tip_5lang": {
+                "de": "Die offene Fläche ist bei Regen sehr windanfällig; halten Sie den Lenker fest und achten Sie auf Pfützen, die die Sicht auf Schlaglöcher verdecken könnten.",
+                "hu": "A nyitott terület esőben nagyon szeles; fogja szorosan a kormányt, és ügyeljen a tócsákra, amelyek elrejthetik az útburkolati hibákat és kátyúkat.",
+                "ro": "Suprafața deschisă este foarte expusă vântului în timpul ploii; țineți bine ghidonul și fiți atenți la bălțile care pot ascunde gropile din asfalt.",
+                "en": "The open area is very windy during rain; keep a firm grip on your handlebars and watch out for puddles that might hide potholes on the surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Westdale Bay",
+                "hu": "Westdale Bay",
+                "ro": "Westdale Bay",
+                "en": "Westdale Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann rutschig sein; prüfen Sie Ihre Bremsen vor der Abfahrt zum Strand und tragen Sie helle, reflektierende Regenbekleidung für bessere Sichtbarkeit.",
+                "hu": "A levezető út csúszós lehet; ellenőrizze a fékeket a part felé menet, és viseljen világos, fényvisszaverő esőruhát a jobb láthatóság érdekében.",
+                "ro": "Drumul spre plajă poate fi alunecos; verificați frânele înainte de coborâre și purtați haine de ploaie reflectorizante pentru o vizibilitate mai bună.",
+                "en": "The access road can be slippery; check your brakes before heading down to the beach and wear bright, reflective rain gear for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Gann Lime Kilns",
+                "hu": "Gann Lime Kilns",
+                "ro": "Gann Lime Kilns",
+                "en": "Gann Lime Kilns"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Regenpause unter den historischen Bögen; trocknen Sie Ihre Bremsflanken ab, bevor Sie die Tour auf den nassen Pfaden fortsetzen.",
+                "hu": "Ideális hely egy rövid esőszünetre a történelmi boltívek alatt; törölje szárazra a felniket és fékfelületeket, mielőtt folytatná az utat a vizes ösvényeken.",
+                "ro": "Un loc ideal pentru o scurtă pauză de ploaie sub arcadele istorice; ștergeți jantele și suprafețele de frânare înainte de a continua pe potecile ude.",
+                "en": "An ideal spot for a quick rain break under the historic arches; wipe your rims and braking surfaces dry before continuing on the wet coastal paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Dale Fort",
+                "hu": "Dale Fort",
+                "ro": "Dale Fort",
+                "en": "Dale Fort"
+              },
+              "tip_5lang": {
+                "de": "Die Steigung zum Fort ist bei Regen anstrengend und rutschig; schalten Sie in einen niedrigen Gang und achten Sie auf nasses Laub auf der Straße.",
+                "hu": "Az erődhöz vezető emelkedő esőben fárasztó és csúszós; váltson alacsony fokozatba, és ügyeljen a vizes levelekre az úton a kanyarokban.",
+                "ro": "Urcarea spre fortăreață este obositoare și alunecoasă pe ploaie; folosiți o viteză inferioară și aveți grijă la frunzele ude de pe carosabil.",
+                "en": "The climb to the fort is strenuous and slippery in the rain; switch to a lower gear and watch out for wet leaves on the road during the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Watwick Bay",
+                "hu": "Watwick Bay",
+                "ro": "Watwick Bay",
+                "en": "Watwick Bay"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Platz ab; der Abstieg zum Strand zu Fuß ist bei Regen sehr schlammig, also nutzen Sie feste Schuhe für diesen Teil.",
+                "hu": "Hagyja kerékpárját egy védett helyen; a partra vezető gyalogos leereszkedés esőben nagyon sáros, ezért használjon stabil cipőt ehhez a szakaszhoz.",
+                "ro": "Lăsați bicicleta într-un loc protejat; coborârea pe jos spre plajă este foarte noroioasă pe ploaie, așa că folosiți încălțăminte solidă pentru această parte.",
+                "en": "Park your bike in a sheltered spot; the descent to the beach on foot is very muddy in the rain, so use sturdy shoes for this portion of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "West Blockhouse Fort",
+                "hu": "West Blockhouse Fort",
+                "ro": "West Blockhouse Fort",
+                "en": "West Blockhouse Fort"
+              },
+              "tip_5lang": {
+                "de": "Das Fort bietet einen dramatischen Blick auf die aufgewühlte See; halten Sie Abstand zu den Klippenkanten, da der Wind bei Regen sehr böig sein kann.",
+                "hu": "Az erőd drámai kilátást nyújt a felkorbácsolt tengerre; tartson biztonságos távolságot a sziklaszélektől, mert a szél esőben nagyon lökéses lehet.",
+                "ro": "Fortăreața oferă o vedere dramatică asupra mării agitate; păstrați distanța față de marginea stâncilor, deoarece vântul poate fi foarte puternic pe ploaie.",
+                "en": "The fort offers a dramatic view of the churning sea; keep a safe distance from the cliff edges as the wind can be very gusty during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kalte Winterwind weht über den Runway, während wir die Tour im klaren Morgenlicht starten. Mittags glitzert der Frost auf den Wegen zur Westdale Bay und den Lime Kilns. Die tiefstehende Sonne wärmt kaum, aber bietet eine scharfe Fernsicht. Nachmittags erkunden wir Dale Fort und erreichen das West Blockhouse Fort pünktlich zum frühen Sonnenuntergang um 17:00 Uhr, bevor die Kälte richtig anzieht.",
+            "hu": "Hideg téli szél fúj át a kifutón, miközben tiszta reggeli fényben indítjuk a túrát. Délben a zúzmara csillog a Westdale-öböl és a mészégetők felé vezető utakon. Az alacsony nap alig melegít, de éles kilátást biztosít. Délután felfedezzük a Dale Fortot, és pontosan a 17:00-s naplementére érünk a West Blockhouse erődhöz, mielőtt beállna az igazi fagy.",
+            "ro": "Vântul rece de iarnă suflă peste pistă în timp ce începem turul în lumina clară a dimineții. La prânz, chiciura strălucește pe drumurile spre Westdale Bay și cuptoarele de var. Soarele palid abia încălzește, dar oferă o vizibilitate excelentă. După-amiaza explorăm Dale Fort și ajungem la West Blockhouse Fort exact la apusul de la ora 17:00.",
+            "en": "A cold winter wind blows across the Runway as we start the tour in the clear morning light. By midday, frost glitters on the paths to Westdale Bay and the lime kilns. The low sun provides little warmth but offers sharp views. In the afternoon, we explore Dale Fort and reach West Blockhouse Fort just in time for the 17:00 sunset before the deep chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Runway",
+                "hu": "Runway",
+                "ro": "Runway",
+                "en": "Runway"
+              },
+              "tip_5lang": {
+                "de": "Die offene Fläche bietet im Winter keine Deckung vor dem Wind; tragen Sie unbedingt winddichte Kleidung und warme Handschuhe, um die Kontrolle zu behalten.",
+                "hu": "A nyitott terület télen semmilyen védelmet nem nyújt a szél ellen; viseljen szélálló ruházatot és meleg kesztyűt, hogy megőrizze uralmát a gép felett.",
+                "ro": "Suprafața deschisă nu oferă protecție împotriva vântului iarna; purtați neapărat haine rezistente la vânt și mănuși groase pentru a menține controlul.",
+                "en": "The open area offers no cover from the wind in winter; be sure to wear windproof clothing and warm gloves to maintain control of your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Westdale Bay",
+                "hu": "Westdale Bay",
+                "ro": "Westdale Bay",
+                "en": "Westdale Bay"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe in schattigen Kurven; die Wintersonne steht tief und kann blenden, tragen Sie daher eine Sonnenbrille für die Fahrt.",
+                "hu": "Ügyeljen a felfagyásokra az árnyékos kanyarokban; a téli nap alacsonyan jár és elvakíthat, ezért viseljen napszemüveget a biztonságos tekeréshez.",
+                "ro": "Fiți atenți la gheața din curbele umbrite; soarele de iarnă este jos și vă poate orbi, așa că purtați ochelari de soare pentru siguranța deplasării.",
+                "en": "Watch out for black ice in shaded corners; the winter sun is low and can be blinding, so wear sunglasses for a safer ride down to the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Gann Lime Kilns",
+                "hu": "Gann Lime Kilns",
+                "ro": "Gann Lime Kilns",
+                "en": "Gann Lime Kilns"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine kurze Rast; bewegen Sie Ihre Finger und Zehen, um die Durchblutung in der Kälte zu fördern, bevor es weitergeht.",
+                "hu": "Szép hely egy rövid pihenőre; mozgassa meg az ujjait és lábujjait, hogy serkentse a vérkeringést a hidegben, mielőtt folytatná a túrát a parton.",
+                "ro": "Un loc frumos pentru un scurt popas; mișcați-vă degetele de la mâini și picioare pentru a stimula circulația în frig înainte de a porni din nou la drum.",
+                "en": "A beautiful spot for a quick rest; wiggle your fingers and toes to stimulate circulation in the cold before continuing your ride along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Dale Fort",
+                "hu": "Dale Fort",
+                "ro": "Dale Fort",
+                "en": "Dale Fort"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern wirken im Winter besonders trutzig; nutzen Sie das restliche Tageslicht effizient, da die Schatten hier am Nachmittag sehr lang werden.",
+                "hu": "A kőfalak télen különösen zordnak tűnnek; használja ki hatékonyan a maradék nappali fényt, mert az árnyékok itt délután már nagyon hosszúra nyúlnak.",
+                "ro": "Zidurile de piatră par deosebit de masive iarna; folosiți eficient lumina rămasă, deoarece umbrele devin foarte lungi aici în timpul după-amiezii.",
+                "en": "The stone walls look especially defiant in winter; use the remaining daylight efficiently, as the shadows here grow very long by mid-afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Watwick Bay",
+                "hu": "Watwick Bay",
+                "ro": "Watwick Bay",
+                "en": "Watwick Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Winterstille hier ist magisch; bringen Sie ein Licht für Ihr Fahrrad mit, falls Sie die Rückfahrt erst in der frühen Dämmerung antreten.",
+                "hu": "A téli csend itt varázslatos; vigyen magával kerékpáros lámpát, ha a visszautat már a kora esti szürkületben tenné meg a faluba.",
+                "ro": "Liniștea iernii de aici este magică; aduceți o lumină pentru bicicletă în cazul în care începeți drumul de întoarcere în amurgul timpuriu.",
+                "en": "The winter silence here is magical; bring a light for your bike in case you start the return journey during the early evening twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "West Blockhouse Fort",
+                "hu": "West Blockhouse Fort",
+                "ro": "West Blockhouse Fort",
+                "en": "West Blockhouse Fort"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang um 17:00 Uhr; die Kälte zieht danach sofort an, also planen Sie eine zügige Rückfahrt mit warmen Kleidungsschichten ein.",
+                "hu": "Élvezze a naplementét 17:00-kor; a hideg utána azonnal bekeményít, ezért tervezzen gyors visszautat meleg, réteges ruházatban a faluba.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00; frigul se intensifică imediat după aceea, așa că planificați o întoarcere rapidă cu haine stratificate.",
+                "en": "Enjoy the sunset at 17:00; the chill intensifies immediately after, so plan a brisk return trip with warm, layered clothing to stay comfortable."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós utazása egy csendes reggellel kezdődik a történelmi St Ishmael templomnál és a parti Gann mészkemencéknél. A déli vezetés átviszi a régi kifutópálya nyílt terein, és le a Westdale-öböl feltűnő vörös szikláihoz. Töltse a délutánt a hadtörténet elmélyítésével a drámai elhelyezkedésű Dale-erődben. Az este gyönyörűen zárul egy naplementés látogatással a West Blockhouse Fortban.",
         "ro": "Excursia dvs. cu mașina începe cu o dimineață liniștită explorând istorica biserică St Ishmael și cuptoarele de calcar de coastă Gann. Plimbările de la amiază vă poartă prin spațiile deschise ale vechii piste și coboară către stâncile roșii uimitoare din Westdale Bay. Petreceți-vă după-amiaza descoperind istoria militară la fortul Dale, poziționat dramatic. Seara se încheie frumos cu o vizită la apus la fortul West Blockhouse.",
         "en": "Your road trip begins with a quiet morning exploring the historic St Ishmael's church and the coastal Gann Lime Kilns. Midday drives take you across the open expanses of the old Runway and down to the striking red cliffs of Westdale Bay. Spend your afternoon diving into military history at the dramatically positioned Dale Fort. The evening wraps up beautifully with a sunset visit to West Blockhouse Fort."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt sicher im Trockenen bei St Ishmael's, während der Regen gegen die Scheiben peitscht. Mittags steuern wir die Lime Kilns und den Runway an, wobei wir die dramatische Küstenlandschaft gemütlich aus dem Auto beobachten können. Kurze Abstecher zur Westdale Bay zeigen die Kraft des Meeres. Nachmittags besuchen wir das Dale Fort und das West Blockhouse Fort, wobei das Auto als perfekter, warmer Rückzugsort dient.",
+            "hu": "Az utazás biztonságos, száraz környezetben indul St Ishmael's-nél, miközben az eső veri az ablakot. Délben a mészégetőket és a kifutót vesszük célba, a drámai tájat kényelmesen az autóból figyelve. Rövid kitérők a Westdale-öbölhöz megmutatják a tenger erejét. Délután a Dale Fort és a West Blockhouse erőd következik, miközben az autó tökéletes, meleg menedékként szolgál.",
+            "ro": "Călătoria începe în siguranță și confort la St Ishmael's, în timp ce ploaia bate în parbriz. La prânz vizităm cuptoarele de var și pista, observând peisajul dramatic din interiorul mașinii. Scurtele opriri la Westdale Bay dezvăluie forța mării. După-amiaza vizităm Dale Fort și West Blockhouse Fort, mașina fiind refugiul perfect și călduros.",
+            "en": "The journey begins safely and dry at St Ishmael's while the rain lashes against the windows. By midday, we head to the lime kilns and the runway, observing the dramatic coastal scenery comfortably from the car. Brief stops at Westdale Bay show the ocean's power. In the afternoon, we visit Dale Fort and West Blockhouse Fort, with the car serving as a perfect warm retreat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Ishmael's",
+                "hu": "St Ishmael's",
+                "ro": "St Ishmael's",
+                "en": "St Ishmael's"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen und trockenen Ort zur Besinnung; parken Sie nah am Eingang, um im Regen nicht zu nass zu werden.",
+                "hu": "A templom csendes és száraz helyet kínál az elmélyüléshez; parkoljon közel a bejárathoz, hogy az esőben ne ázzon el túlságosan.",
+                "ro": "Biserica oferă un loc liniștit și uscat pentru reculegere; parcați aproape de intrare pentru a nu vă uda prea tare în ploaie.",
+                "en": "The church offers a quiet and dry place for reflection; park close to the entrance to avoid getting too wet in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gann Lime Kilns",
+                "hu": "Gann Lime Kilns",
+                "ro": "Gann Lime Kilns",
+                "en": "Gann Lime Kilns"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen aus dem Auto oder machen Sie einen schnellen Lauf zu den Bögen; der Boden am Parkplatz kann bei Regen sehr matschig sein.",
+                "hu": "Nézze meg a romokat az autóból, vagy fussanak egyet a boltívekig; a parkolónál a talaj esőben nagyon sáros és csúszós lehet.",
+                "ro": "Priviți ruinele din mașină sau faceți o fugă rapidă până la arcade; terenul de lângă parcare poate fi foarte noroios în timpul ploii.",
+                "en": "View the ruins from the car or make a quick dash to the arches; the ground near the parking area can be very muddy and slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Runway",
+                "hu": "Runway",
+                "ro": "Runway",
+                "en": "Runway"
+              },
+              "tip_5lang": {
+                "de": "Die offene Sicht ist auch bei Regen beeindruckend; nutzen Sie die Scheibenwischer auf höchster Stufe und genießen Sie den Blick auf die nebligen Felder.",
+                "hu": "A nyílt kilátás esőben is lenyűgöző; használja az ablaktörlőt a legmagasabb fokozaton, és élvezze a ködös mezők látványát a kényelemből.",
+                "ro": "Vederea deschisă este impresionantă chiar și pe ploaie; folosiți ștergătoarele la maximum și bucurați-vă de peisajul cețos din confortul mașinii.",
+                "en": "The open view is impressive even in the rain; use your wipers on high and enjoy the sight of the misty fields from your comfortable seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Westdale Bay",
+                "hu": "Westdale Bay",
+                "ro": "Westdale Bay",
+                "en": "Westdale Bay"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Aussichtspunkt, um die Wellen zu beobachten, ohne nass zu werden; die Straße zum Strand ist eng, fahren Sie bei Regen besonders vorsichtig.",
+                "hu": "Parkoljon a kilátópontnál, hogy anélkül nézhesse a hullámokat, hogy elázna; a partra vezető út szűk, esőben vezessen itt különösen óvatosan.",
+                "ro": "Parcați la punctul de belvedere pentru a observa valurile fără a vă uda; drumul spre plajă este îngust, conduceți cu mare atenție pe ploaie.",
+                "en": "Park at the viewpoint to watch the waves without getting wet; the road to the beach is narrow, so drive with extra caution in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Dale Fort",
+                "hu": "Dale Fort",
+                "ro": "Dale Fort",
+                "en": "Dale Fort"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Tor für einen imposanten Anblick; die Mauern wirken bei Regen besonders düster und historisch, ideal für stimmungsvolle Fotos.",
+                "hu": "Hajtson egészen a kapuig a lenyűgöző látványért; a falak esőben különösen komornak és történelminek tűnnek, ideálisak hangulatos fotókhoz.",
+                "ro": "Conduceți până la poartă pentru o priveliște impunătoare; zidurile par deosebit de sumbre și istorice pe ploaie, fiind ideale pentru fotografii tematice.",
+                "en": "Drive right up to the gate for an imposing sight; the walls look particularly somber and historic in the rain, ideal for atmospheric photos."
+              }
+            },
+            {
+              "name": {
+                "de": "West Blockhouse Fort",
+                "hu": "West Blockhouse Fort",
+                "ro": "West Blockhouse Fort",
+                "en": "West Blockhouse Fort"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer aus der Sicherheit Ihres Wagens; der Wind kann hier oben an der Klippe sehr stark an den Türen reißen.",
+                "hu": "Figyelje a viharos tengert az autója biztonságából; a szél itt fent a sziklán nagyon erősen belekaphat az ajtókba kiszálláskor.",
+                "ro": "Observați marea agitată din siguranța mașinii; vântul de aici, de pe stâncă, poate trage cu putere de uși atunci când coborâți.",
+                "en": "Watch the stormy sea from the safety of your car; the wind up here on the cliff can pull quite strongly on the doors when you get out."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit eingeschalteter Heizung beginnt die Wintertour bei St Ishmael's. Die kühle Morgensonne glitzert auf den Feldern bei den Lime Kilns. Mittags genießen wir die klare Sicht am Runway und der Westdale Bay, wobei wir für kurze Fotostopps in die frische Luft springen. Da es gegen 17:00 Uhr dunkel wird, planen wir Dale Fort und das West Blockhouse Fort für den frühen Nachmittag ein, um den Sonnenuntergang im Warmen zu erleben.",
+            "hu": "Bekapcsolt fűtéssel indul a téli túra St Ishmael's-nél. A hűvös reggeli nap csillog a mezőkön a mészégetőknél. Délben élvezzük a tiszta kilátást a kifutónál és a Westdale-öbölnél, csak rövid fotószünetekre ugorva ki a friss levegőre. Mivel 17:00 körül sötétedik, a Dale Fortot és az erődöt korán letudjuk, hogy a naplementét már a meleg autóban élvezhessük.",
+            "ro": "Cu încălzirea pornită, turul de iarnă începe la St Ishmael's. Soarele rece al dimineții strălucește pe câmpurile de lângă cuptoarele de var. La prânz ne bucurăm de vizibilitatea clară de la pistă și Westdale Bay, coborând doar scurt pentru fotografii. Deoarece se întunecă la ora 17:00, vizităm fortărețele devreme pentru a vedea apusul din mașina călduroasă.",
+            "en": "With the heater on, the winter tour begins at St Ishmael's. The cool morning sun glitters on the fields near the lime kilns. At midday, we enjoy the clear views at the runway and Westdale Bay, hopping out only briefly for photos in the crisp air. Since it gets dark at 17:00, we visit the forts early to catch the sunset from the comfort of our warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Ishmael's",
+                "hu": "St Ishmael's",
+                "ro": "St Ishmael's",
+                "en": "St Ishmael's"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche strahlt im Winterlicht eine besondere Ruhe aus; stellen Sie sicher, dass Ihre Autobatterie bei der Kälte voll einsatzbereit ist.",
+                "hu": "A templom különleges nyugalmat áraszt a téli fényben; győződjön meg róla, hogy az autó akkumulátora bírja a hideget a hosszú megállók alatt.",
+                "ro": "Biserica emană o liniște deosebită în lumina iernii; asigurați-vă că bateria mașinii este în stare bună pentru temperaturile scăzute.",
+                "en": "The church radiates a special peace in the winter light; ensure your car battery is in good condition for the cold during longer stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Gann Lime Kilns",
+                "hu": "Gann Lime Kilns",
+                "ro": "Gann Lime Kilns",
+                "en": "Gann Lime Kilns"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Strukturen sind ein tolles Fotomotiv; nutzen Sie die kurzen Wege vom Parkplatz, um nicht zu sehr auszukühlen.",
+                "hu": "A fagyott építmények nagyszerű fotótémát szolgáltatnak; használja ki a parkoló közelségét, hogy ne hűljön ki túlságosan a nézelődés közben.",
+                "ro": "Structurile înghețate sunt un subiect excelent pentru fotografii; folosiți distanța scurtă de la parcare pentru a nu vă răci prea tare.",
+                "en": "The frozen structures make for a great photo opportunity; take advantage of the short distance from the parking area to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Runway",
+                "hu": "Runway",
+                "ro": "Runway",
+                "en": "Runway"
+              },
+              "tip_5lang": {
+                "de": "Die weite Fläche bietet im Winter oft eine extrem klare Fernsicht; prüfen Sie Ihren Frostschutz im Wischwasser für eine saubere Frontscheibe.",
+                "hu": "A tágas területen télen gyakran rendkívül tiszta a távoli kilátás; ellenőrizze a fagyállót a szélvédőmosóban a tökéletes kilátás érdekében.",
+                "ro": "Suprafața vastă oferă adesea o vizibilitate extrem de clară iarna; verificați nivelul de antigel din lichidul de parbriz pentru o vedere perfectă.",
+                "en": "The wide area often offers extremely clear distant views in winter; check your windshield washer fluid antifreeze for a perfectly clear view."
+              }
+            },
+            {
+              "name": {
+                "de": "Westdale Bay",
+                "hu": "Westdale Bay",
+                "ro": "Westdale Bay",
+                "en": "Westdale Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne kann beim Fahren tief stehen und blenden; halten Sie eine Sonnenbrille im Auto bereit und genießen Sie das blaue Wintermeer.",
+                "hu": "A téli nap vezetés közben alacsonyan járhat és elvakíthat; tartson napszemüveget az autóban, és élvezze a mélykék téli tenger látványát.",
+                "ro": "Soarele de iarnă poate fi jos și vă poate orbi în timp ce conduceți; păstrați ochelarii de soare în mașină și admirați marea albastră.",
+                "en": "The winter sun can be low and blinding while driving; keep sunglasses handy in the car and enjoy the deep blue sight of the winter ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Dale Fort",
+                "hu": "Dale Fort",
+                "ro": "Dale Fort",
+                "en": "Dale Fort"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Fort am frühen Nachmittag für das beste Licht; die Straße kann bei Frost glatt sein, fahren Sie also vorausschauend und langsam.",
+                "hu": "Látogassa meg az erődöt kora délután a legjobb fényekért; az út fagyos időben csúszós lehet, ezért vezessen előrelátóan és lassan az emelkedőn.",
+                "ro": "Vizitați fortăreața la începutul după-amiezii pentru cea mai bună lumină; drumul poate fi alunecos pe timp de îngheț, deci conduceți prudent.",
+                "en": "Visit the fort in the early afternoon for the best light; the road can be slippery during frost, so drive cautiously and slowly on the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "West Blockhouse Fort",
+                "hu": "West Blockhouse Fort",
+                "ro": "West Blockhouse Fort",
+                "en": "West Blockhouse Fort"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang um 17:00 Uhr direkt vom Fahrersitz aus; die warme Heizung macht das Beobachten der kalten See besonders behaglich.",
+                "hu": "Élje át a 17:00-s naplementét közvetlenül a vezetőülésből; a meleg fűtés mellett a hideg tenger látványa különösen megnyugtató és hangulatos.",
+                "ro": "Admirați apusul de la ora 17:00 direct de la volan; căldura din mașină face observarea mării reci o experiență deosebit de confortabilă.",
+                "en": "Experience the 17:00 sunset directly from the driver's seat; the warm heater makes watching the cold sea an especially cozy and scenic experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

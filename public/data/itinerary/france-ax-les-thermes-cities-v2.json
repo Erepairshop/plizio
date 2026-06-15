@@ -160,6 +160,196 @@
         "hu": "(M) Kezdje a napot a helyi történelem megismerésével a múzeumban, és fedezze fel e híres termálváros gazdag kulturális örökségét és múltját.\n(MD) A dél is a fürdőkultúra jegyében telik, tökéletes lehetőséget adva a pihenésre a római stílusú fürdőknél a helyi építészet felfedezése előtt.\n(A) A délutánt az elegáns vallási helyek és az ipari természeti csodák közötti sétával töltheti, amelyek könnyen megközelíthetők a városközpontban.\n(E) Zárja sétáját a lenyűgöző történelmi katedrálisnál, ahogy leszáll az este, átadva magát a város fenséges szépségének és békés hangulatának.",
         "ro": "(M) Începeți ziua scufundându-vă în istoria locală la muzeu, descoperind bogata moștenire culturală a acestui celebru și pitoresc oraș termal.\n(MD) La prânz, ajungeți în inima culturii balneare, o ocazie perfectă de a vă relaxa la băile în stil roman înainte de a explora arhitectura locală.\n(A) Petreceți după-amiaza plimbându-vă între siturile religioase elegante și minunile industriale naturale din centrul compact al acestui oraș.\n(E) Încheiați plimbarea la impresionanta catedrală istorică pe măsură ce se lasă seara, reflectând asupra frumuseții maiestuoase și atmosferei pașnice.",
         "en": "(M) Start your day by immersing yourself in local history at the museum, discovering the rich cultural heritage of this famous thermal town.\n(MD) Midday brings you to the heart of the spa culture, offering a perfect opportunity to relax at the Roman-style baths before exploring local architecture.\n(A) Spend the afternoon wandering between elegant religious sites and natural industrial wonders, easily accessible by foot in the compact town center.\n(E) Conclude your stroll at the grand historic cathedral as the evening sets in, allowing you to reflect on the town's majestic beauty and peaceful ambiance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in der Kapelle, während der Regen leise gegen die alten Steine klopft. Mittags bietet das Thermalbad die perfekte Zuflucht im warmen Wasser. Am Nachmittag erkunden Sie die Kirchen im Zentrum, die trockene Rückzugsorte bieten. Den Tag beschließen Sie mit einem kurzen Spaziergang unter dem Regenschirm zur Statue, die im Nebel fast mystisch erscheint.",
+            "hu": "Kezdje a napot a kápolna védelmében, miközben az eső halkan kopog az ősi köveken. Délben a termálfürdő nyújt tökéletes menedéket a meleg vízben. Délután a központi templomokat fedezzük fel, amelyek száraz pihenőhelyet kínálnak. A napot egy rövid, esernyős sétával zárjuk a szoborhoz, amely a ködben szinte misztikus látványt nyújt.",
+            "ro": "Începeți ziua la adăpost în capelă, în timp ce ploaia bate ușor în pietrele vechi. La prânz, băile termale oferă refugiul perfect în apa caldă. După-amiaza, explorați bisericile din centru, care oferă locuri de odihnă uscate. Încheiați ziua cu o scurtă plimbare cu umbrela către statuie, care pare aproape mistică în ceață.",
+            "en": "Start your day sheltered in the chapel while the rain taps softly against the ancient stones. At noon, the thermal baths provide the perfect refuge in the warm water. In the afternoon, explore the central churches, which offer dry resting places. End the day with a short walk under an umbrella to the statue, which looks almost mystical in the mist."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Jérôme",
+                "hu": "Chapelle Saint-Jérôme",
+                "ro": "Chapelle Saint-Jérôme",
+                "en": "Chapelle Saint-Jérôme"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das kleine Museum im Inneren, um trocken zu bleiben; die Exponate erzählen die Geschichte der Region. Ein fester Regenschirm ist für den kurzen Weg unerlässlich.",
+                "hu": "Látogasson el a belső kis múzeumba, hogy száraz maradjon; a kiállítások a régió történetét mesélik el. Egy erős esernyő elengedhetetlen a rövid úthoz.",
+                "ro": "Vizitați micul muzeu din interior pentru a rămâne uscat; exponatele spun povestea regiunii. O umbrelă rezistentă este esențială pentru drumul scurt.",
+                "en": "Visit the small museum inside to stay dry; the exhibits tell the story of the region. A sturdy umbrella is essential for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bains du Couloubret",
+                "hu": "Les Bains du Couloubret",
+                "ro": "Les Bains du Couloubret",
+                "en": "Les Bains du Couloubret"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das heiße Thermalwasser, während der Regen auf das Glasdach prasselt; ein entspannendes Erlebnis. Bringen Sie eine wasserdichte Tasche für Ihre Kleidung mit.",
+                "hu": "Élvezze a forró termálvizet, miközben az eső az üvegtetőn kopog; pihentető élmény. Vigyen magával vízhatlan táskát a ruháinak.",
+                "ro": "Bucurați-vă de apa termală fierbinte în timp ce ploaia bate în acoperișul de sticlă; o experiență relaxantă. Aduceți o geantă impermeabilă pentru haine.",
+                "en": "Enjoy the hot thermal water while the rain patters on the glass roof; a relaxing experience. Bring a waterproof bag for your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Vincent",
+                "hu": "Église Saint-Vincent",
+                "ro": "Église Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanische Architektur im trockenen Kirchenschiff; die Ruhe lädt zur Besinnung ein. Achten Sie auf die rutschigen Stufen am Kircheneingang.",
+                "hu": "Csodálja meg a román stílusú építészetet a száraz hajóban; a csend elmélkedésre hív. Ügyeljen a templom bejáratánál lévő csúszós lépcsőkre.",
+                "ro": "Admirați arhitectura romanică în nava uscată; liniștea invită la reflecție. Atenție la treptele alunecoase de la intrarea în biserică.",
+                "en": "Admire the Romanesque architecture in the dry nave; the silence invites reflection. Watch out for the slippery steps at the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Etablissement thermal Le Teich",
+                "hu": "Etablissement thermal Le Teich",
+                "ro": "Etablissement thermal Le Teich",
+                "en": "Etablissement thermal Le Teich"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den aufsteigenden Dampf der Quellen, der sich mit dem Regen vermischt; ein faszinierendes Naturschauspiel. Tragen Sie Schuhe mit gutem Profil auf dem nassen Boden.",
+                "hu": "Figyelje meg a források felszálló gőzét, amely keveredik az esővel; lenyűgöző természeti látvány. Viseljen jó tapadású cipőt a vizes talajon.",
+                "ro": "Observați aburul care se ridică din izvoare, amestecându-se cu ploaia; un spectacol natural fascinant. Purtați pantofi cu aderență bună pe solul umed.",
+                "en": "Observe the rising steam from the springs mixing with the rain; a fascinating natural sight. Wear shoes with good grip on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Turbine centrale du Teich",
+                "hu": "Turbine centrale du Teich",
+                "ro": "Turbine centrale du Teich",
+                "en": "Turbine centrale du Teich"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Kraft des Wassers an dieser Industriestätte; das Grün ringsum wirkt im Regen besonders intensiv. Bleiben Sie unter dem Dachvorsprung, um trocken zu bleiben.",
+                "hu": "Nézze meg a víz erejét ezen az ipari helyszínen; a környék zöldje esőben különösen intenzív. Maradjon az előtető alatt, hogy száraz maradjon.",
+                "ro": "Vedeți puterea apei în acest sit industrial; verdele din jur pare deosebit de intens în ploaie. Stați sub streașină pentru a rămâne uscat.",
+                "en": "See the power of water at this industrial site; the surrounding greenery looks especially intense in the rain. Stay under the eaves to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre Dame d'Ax",
+                "hu": "Notre Dame d'Ax",
+                "ro": "Notre Dame d'Ax",
+                "en": "Notre Dame d'Ax"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den nebligen Blick über das Tal von diesem Aussichtspunkt aus; die Atmosphäre ist einzigartig. Vorsicht auf dem Pfad, er kann bei Regen sehr matschig sein.",
+                "hu": "Élvezze a ködös kilátást a völgyre erről a pontról; az atmoszféra egyedülálló. Vigyázzon az ösvényen, esőben nagyon sáros és csúszós lehet.",
+                "ro": "Bucurați-vă de vederea ceațoasă asupra văii din acest punct; atmosfera este unică. Atenție pe potecă, poate fi foarte noroioasă și alunecoasă pe ploaie.",
+                "en": "Enjoy the misty view over the valley from this point; the atmosphere is unique. Be careful on the path, it can be very muddy and slippery in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft am Morgen bei der Kapelle. Mittags wärmen Sie sich in den berühmten Thermalbädern auf, während draußen vielleicht der Frost glitzert. Besuchen Sie die historischen Gebäude am Nachmittag, bevor die Sonne gegen 17:00 Uhr hinter den Bergen verschwindet. Den Abend genießen Sie bei einem heißen Getränk im gemütlichen Stadtzentrum.",
+            "hu": "Tapasztalja meg a friss téli levegőt reggel a kápolnánál. Délben melegedjen fel a híres termálfürdőkben, miközben odakint talán csillog a zúzmara. Délután látogassa meg a történelmi épületeket, mielőtt a nap 17:00 körül eltűnik a hegyek mögött. Az estét élvezze egy forró ital mellett a hangulatos városközpontban.",
+            "ro": "Experimentați aerul proaspăt de iarnă dimineața la capelă. La prânz, încălziți-vă în faimoasele băi termale, în timp ce afară sclipesc cristalele de gheață. Vizitați clădirile istorice după-amiaza, înainte ca soarele să dispară după munți în jurul orei 17:00. Seara, bucurați-vă de o băutură caldă în centrul primitor.",
+            "en": "Experience the fresh winter air in the morning at the chapel. At noon, warm up in the famous thermal baths while frost sparkles outside. Visit the historical buildings in the afternoon before the sun disappears behind the mountains around 17:00. Enjoy the evening with a hot drink in the cozy town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Jérôme",
+                "hu": "Chapelle Saint-Jérôme",
+                "ro": "Chapelle Saint-Jérôme",
+                "en": "Chapelle Saint-Jérôme"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet einen ruhigen und windgeschützten Ort für den Start in den Tag. Tragen Sie warme Schichten, da die Innenräume kühl sein können.",
+                "hu": "A kis kápolna csendes és szélvédett helyet kínál a nap indításához. Viseljen meleg rétegeket, mert a belső terek hűvösek lehetnek.",
+                "ro": "Mica capelă oferă un loc liniștit și ferit de vânt pentru începutul zilei. Purtați haine groase în straturi, deoarece interiorul poate fi răcoros.",
+                "en": "The small chapel offers a quiet and wind-sheltered spot to start your day. Wear warm layers as the interiors can be chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bains du Couloubret",
+                "hu": "Les Bains du Couloubret",
+                "ro": "Les Bains du Couloubret",
+                "en": "Les Bains du Couloubret"
+              },
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen dem heißen Wasser und der kalten Winterluft in den Außenbecken ist magisch. Trocknen Sie Ihre Haare gründlich ab, bevor Sie wieder nach draußen gehen.",
+                "hu": "A forró víz és a hideg téli levegő kontrasztja a külső medencékben varázslatos. Szárítsa meg alaposan a haját, mielőtt újra kimegy a szabadba.",
+                "ro": "Contrastul dintre apa fierbinte și aerul rece de iarnă în bazinele exterioare este magic. Uscați-vă bine părul înainte de a ieși din nou afară.",
+                "en": "The contrast between the hot water and the cold winter air in the outdoor pools is magical. Dry your hair thoroughly before heading back outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Vincent",
+                "hu": "Église Saint-Vincent",
+                "ro": "Église Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die massiven Mauern, die im Winter eine andächtige Stille bewahren; ein idealer Ort zum Aufwärmen. Betreten Sie die Kirche leise, um die Ruhe nicht zu stören.",
+                "hu": "Csodálja meg a masszív falakat, amelyek télen is áhítatos csendet őriznek; ideális hely a belső elmélyülésre. Halkan lépjen be, hogy ne zavarja a nyugalmat.",
+                "ro": "Admirați zidurile masive care păstrează o liniște evlavioasă iarna; un loc ideal pentru reculegere. Intrați în liniște pentru a nu tulbura atmosfera.",
+                "en": "Admire the massive walls that maintain a prayerful silence in winter; an ideal place for reflection. Enter quietly so as not to disturb the peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Etablissement thermal Le Teich",
+                "hu": "Etablissement thermal Le Teich",
+                "ro": "Etablissement thermal Le Teich",
+                "en": "Etablissement thermal Le Teich"
+              },
+              "tip_5lang": {
+                "de": "Die warme Gischt der Thermalquellen bildet im Winter dichte Nebelschwaden; ein tolles Fotomotiv. Vorsicht vor überfrierender Nässe auf den Wegen rund um die Anlage.",
+                "hu": "A termálforrások meleg permete télen sűrű ködpárát képez; kiváló fotótéma. Vigyázzon az utakon a felfagyásokkal a létesítmény környékén.",
+                "ro": "Vaporii calzi ai izvoarelor termale formează o ceață densă iarna; un subiect foto excelent. Atenție la gheața de pe drumurile din jurul complexului.",
+                "en": "The warm spray from the thermal springs forms dense mist in winter; a great photo subject. Watch out for black ice on the paths around the facility."
+              }
+            },
+            {
+              "name": {
+                "de": "Turbine centrale du Teich",
+                "hu": "Turbine centrale du Teich",
+                "ro": "Turbine centrale du Teich",
+                "en": "Turbine centrale du Teich"
+              },
+              "tip_5lang": {
+                "de": "Das herabstürzende Wasser friert selten ein und bietet einen dynamischen Anblick im frostigen Wald. Festes Schuhwerk ist für die teils eisigen Waldpfade notwendig.",
+                "hu": "A lezúduló víz ritkán fagy be, dinamikus látványt nyújtva a fagyos erdőben. Stabil lábbeli szükséges az erdő jeges szakaszaival tarkított ösvényeihez.",
+                "ro": "Apa în cădere îngheață rar, oferind o priveliște dinamică în pădurea înghețată. Încălțămintea solidă este necesară pentru potecile forestiere cu gheață.",
+                "en": "The cascading water rarely freezes, providing a dynamic sight in the frosty forest. Sturdy footwear is necessary for the forest paths with icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre Dame d'Ax",
+                "hu": "Notre Dame d'Ax",
+                "ro": "Notre Dame d'Ax",
+                "en": "Notre Dame d'Ax"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Aussichtspunkt vor 17:00 Uhr, um die schneebedeckten Gipfel im letzten Sonnenlicht zu sehen. Eine Taschenlampe für den Abstieg in der Dämmerung ist ratsam.",
+                "hu": "Érjen fel a kilátóhoz 17:00 előtt, hogy lássa a hófödte csúcsokat az utolsó napsütésben. Egy zseblámpa ajánlott a szürkületi leereszkedéshez.",
+                "ro": "Ajungeți la punctul de belvedere înainte de 17:00 pentru a vedea vârfurile înzăpezite în ultima lumină. O lanternă este recomandată pentru coborâre.",
+                "en": "Reach the viewpoint before 17:00 to see the snow-capped peaks in the last sunlight. A flashlight is recommended for the descent at dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "(M) Először tekerjen el a nagyszerű történelmi katedrálishoz, kihasználva a csendes reggeli utcákat a klasszikus építészet teljes élvezetéhez.\n(MD) Ezután haladjon a termálfürdők felé, élvezve a rövid, festői utat a város gyönyörű történelmi templomai és a pihentető fürdők között.\n(A) Használja ki a kerékpárt nagyobb távolságok megtételére, meglátogatva a külső vallási nevezetességeket a Pireneusok friss hegyi levegőjén.\n(E) Fejezze be kerékpáros kalandját a külváros lenyűgöző völgyeiben, ahol a természet látványos hátteret biztosít a lassan lenyugvó napnak.",
         "ro": "(M) Pedalați mai întâi spre grandioasa catedrală istorică, profitând de străzile liniștite ale dimineții pentru a aprecia pe deplin arhitectura clasică.\n(MD) Îndreptați-vă spre stabilimentele termale, bucurându-vă de scurte plimbări pitorești între bisericile istorice frumoase și spa-urile relaxante.\n(A) Folosiți bicicleta pentru a acoperi eficient mai mult teren, vizitând reperele religioase exterioare în timp ce vă bucurați de briza proaspătă de munte.\n(E) Încheiați aventura pe bicicletă în văile uimitoare de la periferie, unde natura oferă un decor spectaculos pentru soarele la apus.",
         "en": "(M) Pedal towards the grand historical cathedral first, taking advantage of the quiet morning streets to fully appreciate the classic architecture.\n(MD) Cruise toward the thermal establishments next, enjoying short scenic rides between the city's beautiful historic churches and relaxing spas.\n(A) Use your bike to efficiently cover more ground, visiting the outer religious landmarks while enjoying the fresh mountain breeze of the Pyrenees.\n(E) Wrap up your cycling adventure in the stunning valleys on the outskirts, where nature provides a spectacular backdrop for the setting sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour an der Statue, wo der Nebel über dem Tal hängt. Mittags suchen Sie Schutz bei den Thermalquellen, um den Regen abzuwarten. Am Nachmittag führt die Route zu verschiedenen Bergkirchen, deren steinerne Mauern Schutz bieten. Beenden Sie die Tour vorsichtig im Tal, da die nassen Straßen volle Konzentration erfordern.",
+            "hu": "Kezdje kerékpártúráját a szobornál, ahol a köd a völgy felett lebeg. Délben keressen menedéket a termálforrásoknál, hogy megvárja az eső végét. Délután az út különböző hegyi templomokhoz vezet, melyek kőfalai védelmet nyújtanak. Fejezze be a túrát óvatosan a völgyben, mivel a vizes utak teljes koncentrációt igényelnek.",
+            "ro": "Începeți turul cu bicicleta la statuie, unde ceața plutește deasupra văii. La prânz, căutați adăpost la izvoarele termale pentru a aștepta trecerea ploii. După-amiaza, traseul duce la diverse biserici montane, ale căror ziduri oferă protecție. Încheiați turul cu atenție în vale, deoarece drumurile ude cer concentrare.",
+            "en": "Start your bike tour at the statue where the mist hangs over the valley. At noon, seek shelter by the thermal springs to wait out the rain. In the afternoon, the route leads to various mountain churches whose stone walls offer protection. End the tour carefully in the valley, as the wet roads require full concentration."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre Dame d'Ax",
+                "hu": "Notre Dame d'Ax",
+                "ro": "Notre Dame d'Ax",
+                "en": "Notre Dame d'Ax"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die wolkenverhangenen Berge; die Abfahrt erfordert bei Nässe gute Bremsen. Tragen Sie auffällige Regenkleidung für bessere Sichtbarkeit.",
+                "hu": "Élvezze a felhőbe burkolózó hegyek látványát; a leereszkedés nedves úton jó fékeket igényel. Viseljen feltűnő esőruházatot a jobb láthatóságért.",
+                "ro": "Bucurați-vă de vederea munților acoperiți de nori; coborârea pe drum umed necesită frâne bune. Purtați haine de ploaie stridente pentru vizibilitate.",
+                "en": "Enjoy the view of the cloud-covered mountains; the descent on wet roads requires good brakes. Wear bright rain gear for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Etablissement thermal Le Teich",
+                "hu": "Etablissement thermal Le Teich",
+                "ro": "Etablissement thermal Le Teich",
+                "en": "Etablissement thermal Le Teich"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vordach, während Sie die heißen Quellen bewundern; der Dampf ist im Regen besonders dicht. Wischen Sie den Sattel vor der Weiterfahrt trocken.",
+                "hu": "Parkolja le kerékpárját egy előtető alatt, miközben a forró forrásokat csodálja; a gőz esőben sűrűbb. Törölje szárazra a nyerget az indulás előtt.",
+                "ro": "Parcați bicicleta sub o streașină în timp ce admirați izvoarele fierbinți; aburul este mai dens în ploaie. Ștergeți șaua înainte de a pleca mai departe.",
+                "en": "Park your bike under an overhang while admiring the hot springs; the steam is denser in the rain. Wipe the saddle dry before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Vincent",
+                "hu": "Église Saint-Vincent",
+                "ro": "Église Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenraum für eine trockene Pause und bewundern Sie das historische Interieur. Achten Sie auf den rutschigen Kopfsteinpflasterbelag vor der Kirche.",
+                "hu": "Használja ki a templomteret egy száraz szünetre, és csodálja meg a történelmi belsőt. Ügyeljen a templom előtti csúszós macskaköves burkolatra.",
+                "ro": "Folosiți spațiul bisericii pentru o pauză uscată și admirați interiorul istoric. Atenție la pavajul din piatră cubică alunecos din fața bisericii.",
+                "en": "Use the church space for a dry break and admire the historic interior. Watch out for the slippery cobblestones in front of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Barthélemy",
+                "hu": "Église Saint-Barthélemy",
+                "ro": "Église Saint-Barthélemy",
+                "en": "Église Saint-Barthélemy"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche bietet einen friedlichen Rückzugsort vor dem Regen inmitten der Natur. Schutzbleche am Fahrrad verhindern Schmutzspritzer auf Ihrer Kleidung.",
+                "hu": "Ez a kis templom békés menedéket nyújt az eső elől a természet lágy ölén. A sárvédő a biciklin megakadályozza, hogy a sár a ruhájára fröccsenjen.",
+                "ro": "Această mică biserică oferă un refugiu liniștit în fața ploii, în mijlocul naturii. Apărătorile la bicicletă vor preveni stropirea hainelor cu noroi.",
+                "en": "This small church offers a peaceful retreat from the rain in the heart of nature. Mudguards on your bike will prevent mud splashes on your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Just et Saint-Pasteur",
+                "hu": "Église Saint-Just et Saint-Pasteur",
+                "ro": "Église Saint-Just et Saint-Pasteur",
+                "en": "Église Saint-Just et Saint-Pasteur"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details dieser abgelegenen Kirche; der Regen verstärkt die Stille der Berge. Prüfen Sie Ihren Reifendruck für bessere Haftung auf nasser Fahrbahn.",
+                "hu": "Csodálja meg e félreeső templom részleteit; az eső felerősíti a hegyek csendjét. Ellenőrizze a guminyomást a jobb tapadás érdekében a vizes úton.",
+                "ro": "Admirați detaliile acestei biserici izolate; ploaia accentuează liniștea munților. Verificați presiunea în pneuri pentru aderență pe drum ud.",
+                "en": "Admire the details of this secluded church; the rain amplifies the silence of the mountains. Check your tire pressure for better grip on the wet road."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Simon et Saint-Jude",
+                "hu": "Église Saint-Simon et Saint-Jude",
+                "ro": "Église Saint-Simon et Saint-Jude",
+                "en": "Église Saint-Simon et Saint-Jude"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter trockener Halt in dieser charmanten Kirche, bevor Sie die Tour im Tal abschließen. Vermeiden Sie plötzliches Bremsen auf den nassen Straßen im Ort.",
+                "hu": "Egy utolsó száraz megálló ebben a bájos templomban, mielőtt befejezné a túrát a völgyben. Kerülje a hirtelen fékezést a város vizes útjain.",
+                "ro": "O ultimă oprire uscată în această biserică fermecătoare, înainte de a încheia turul în vale. Evitați frânările bruște pe străzile ude din oraș.",
+                "en": "A last dry stop in this charming church before finishing the tour in the valley. Avoid sudden braking on the wet roads in town."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée d'Ax",
+                "hu": "Vallée d'Ax",
+                "ro": "Vallée d'Ax",
+                "en": "Vallée d'Ax"
+              },
+              "tip_5lang": {
+                "de": "Das Tal wirkt im Regen mit seinen tiefhängenden Wolken dramatisch und wild; ein großartiger Abschluss. Nutzen Sie helle Lichter, da die Sicht oft eingeschränkt ist.",
+                "hu": "A völgy esőben, az alacsonyan szálló felhőkkel drámai és vad látványt nyújt; nagyszerű zárás. Használjon erős lámpákat, mert a látótávolság korlátozott.",
+                "ro": "Valea pare dramatică și sălbatică în ploaie, cu norii joși; un final grozav. Folosiți lumini puternice, deoarece vizibilitatea este adesea redusă.",
+                "en": "The valley looks dramatic and wild in the rain with its low-hanging clouds; a great finish. Use bright lights as visibility is often limited."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Morgen bei klarem, frostigem Wetter an der Statue. Die kühle Luft ist belebend, erfordert aber gute Handschuhe. Mittags machen Sie Pause an den dampfenden Thermalquellen. Am Nachmittag erkunden Sie die verschiedenen Kirchen, bevor die Temperaturen mit der frühen Dämmerung gegen 17:00 Uhr sinken. Beenden Sie Ihre Fahrt rechtzeitig im Tal.",
+            "hu": "Induljon reggel tiszta, fagyos időben a szobortól. A hűvös levegő élénkítő, de jó kesztyűt igényel. Délben tartson szünetet a gőzölgő termálforrásoknál. Délután fedezze fel a különböző templomokat, mielőtt a hőmérséklet a korai sötétedéssel 17:00 körül leesik. Fejezze be az utat időben a völgyben.",
+            "ro": "Porniți dimineața pe vreme clară și geroasă de la statuie. Aerul rece este revigorant, dar necesită mănuși bune. La prânz, faceți o pauză la izvoarele termale. După-amiaza, explorați bisericile înainte ca temperaturile să scadă odată cu apusul devreme de la ora 17:00. Încheiați cursa la timp în vale.",
+            "en": "Start in the morning in clear, frosty weather at the statue. The cool air is invigorating but requires good gloves. At noon, take a break at the steaming thermal springs. In the afternoon, explore the various churches before temperatures drop with the early dusk around 17:00. Finish your ride on time in the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre Dame d'Ax",
+                "hu": "Notre Dame d'Ax",
+                "ro": "Notre Dame d'Ax",
+                "en": "Notre Dame d'Ax"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schneebedeckten Gipfel der Pyrenäen; die klare Winterluft bietet eine Fernsicht. Achten Sie auf frostige Stellen auf dem Weg nach oben.",
+                "hu": "Csodálja meg a Pireneusok hófödte csúcsait; a tiszta téli levegő kiváló távlatokat kínál. Ügyeljen a fagyos foltokra a felfelé vezető úton.",
+                "ro": "Admirați vârfurile înzăpezite ale Pirineilor; aerul curat de iarnă oferă o vizibilitate excelentă. Atenție la porțiunile înghețate de pe drumul spre vârf.",
+                "en": "Admire the snow-capped peaks of the Pyrenees; the clear winter air offers great long-distance views. Watch out for frosty patches on the way up."
+              }
+            },
+            {
+              "name": {
+                "de": "Etablissement thermal Le Teich",
+                "hu": "Etablissement thermal Le Teich",
+                "ro": "Etablissement thermal Le Teich",
+                "en": "Etablissement thermal Le Teich"
+              },
+              "tip_5lang": {
+                "de": "Die warmen Quellen erzeugen im Winter spektakuläre Dampfwolken; ein toller Ort zum Aufwärmen. Halten Sie Ihre Gelenke warm, um Steifheit beim Radfahren zu vermeiden.",
+                "hu": "A meleg források télen látványos gőzfelhőket képeznek; remek hely a felmelegedésre. Tartsa melegen az ízületeit, hogy elkerülje a merevséget tekerés közben.",
+                "ro": "Izvoarele calde creează nori spectaculoși de abur iarna; un loc minunat pentru încălzire. Mențineți articulațiile calde pentru a evita rigiditatea la pedalat.",
+                "en": "The warm springs create spectacular steam clouds in winter; a great place to warm up. Keep your joints warm to avoid stiffness while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Vincent",
+                "hu": "Église Saint-Vincent",
+                "ro": "Église Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten einen kurzen Schutz vor dem kalten Bergwind; genießen Sie die Ruhe. Tragen Sie Überschuhe, um Ihre Füße vor dem Fahrtwind zu schützen.",
+                "hu": "A vastag kőfalak rövid védelmet nyújtanak a hideg hegyi szél ellen; élvezze a csendet. Viseljen kamáslit, hogy megvédje lábát a menetszéltől.",
+                "ro": "Zidurile groase de piatră oferă o scurtă protecție împotriva vântului rece de munte. Purtați huse pentru pantofi pentru a vă proteja picioarele de vânt.",
+                "en": "The thick stone walls offer a brief shield from the cold mountain wind; enjoy the peace. Wear shoe covers to protect your feet from the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Barthélemy",
+                "hu": "Église Saint-Barthélemy",
+                "ro": "Église Saint-Barthélemy",
+                "en": "Église Saint-Barthélemy"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche liegt idyllisch in der winterlichen Landschaft; perfekt für ein kurzes Innehalten. Vorsicht in schattigen Kurven, dort kann sich Glatteis halten.",
+                "hu": "Ez a templom idillien fekszik a téli tájban; tökéletes egy rövid megállásra. Vigyázzon az árnyékos kanyarokban, ahol megmaradhat a jég.",
+                "ro": "Această biserică este situată idilic în peisajul de iarnă; perfectă pentru o scurtă pauză. Atenție în curbele umbrite, unde poate persista poleiul.",
+                "en": "This church is idyllically situated in the winter landscape; perfect for a quick pause. Be careful in shaded curves where ice may linger."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Just et Saint-Pasteur",
+                "hu": "Église Saint-Just et Saint-Pasteur",
+                "ro": "Église Saint-Just et Saint-Pasteur",
+                "en": "Église Saint-Just et Saint-Pasteur"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die religiöse Kunst in dieser ruhigen Bergkirche, während draußen der Frost glitzert. Nutzen Sie reflektierende Elemente an Ihrer Kleidung.",
+                "hu": "Fedezze fel a vallási művészetet ebben a nyugodt hegyi templomban, miközben kint csillog a fagy. Használjon fényvisszaverő elemeket a ruházatán.",
+                "ro": "Descoperiți arta religioasă în această biserică montană liniștită, în timp ce afară sclipește bruma. Folosiți elemente reflectorizante pe haine.",
+                "en": "Discover religious art in this calm mountain church while frost sparkles outside. Use reflective elements on your clothing for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Simon et Saint-Jude",
+                "hu": "Église Saint-Simon et Saint-Jude",
+                "ro": "Église Saint-Simon et Saint-Jude",
+                "en": "Église Saint-Simon et Saint-Jude"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter kultureller Halt vor der Rückkehr; die Kirche bietet eine warme, andächtige Atmosphäre. Kontrollieren Sie Ihre Beleuchtung für die Fahrt in der Dämmerung.",
+                "hu": "Egy utolsó kulturális megálló a visszatérés előtt; a templom meleg, áhítatos hangulatot áraszt. Ellenőrizze a világítást a szürkületi úthoz.",
+                "ro": "O ultimă oprire culturală înainte de întoarcere; biserica oferă o atmosferă caldă și pioasă. Verificați luminile pentru cursa în amurg.",
+                "en": "A final cultural stop before returning; the church offers a warm, prayerful atmosphere. Check your lights for the ride in the dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée d'Ax",
+                "hu": "Vallée d'Ax",
+                "ro": "Vallée d'Ax",
+                "en": "Vallée d'Ax"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Tal vor Sonnenuntergang um 17:00 Uhr, um die winterliche Pracht im goldenen Licht zu sehen. Trinken Sie danach einen warmen Tee zur Erholung.",
+                "hu": "Érjen a völgybe a 17:00-ás naplemente előtt, hogy lássa a téli pompát az aranyfényben. Utána igyon egy meleg teát a regenerálódáshoz.",
+                "ro": "Ajungeți în vale înainte de apusul de la ora 17:00 pentru a vedea splendoarea iernii în lumina aurie. Beți un ceai cald după cursă pentru recuperare.",
+                "en": "Reach the valley before the 17:00 sunset to see the winter splendor in the golden light. Have a warm tea afterwards to recover."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "(M) Vezessen egyenesen a pompás középkori romokhoz, élvezve a szabadságot a régió kastélyainak és történelmi templomainak felfedezésében.\n(MD) Késő délelőtt térjen vissza a városközpontba, hogy elmélyedjen a helyi történelemben a kápolnamúzeumban, még a délutáni tömeg érkezése előtt.\n(A) Tegyen egy festői autózást a külső egyházközségek felé, értékelve a tájat és a jól karbantartott vidéki templomok csendes fenségességét.\n(E) Töltse utolsó óráit a mély, érintetlen völgyekbe vezető úton, hogy a magas hegyek feletti naplementében gyönyörködhessen a természeti csodáknál.",
         "ro": "(M) Conduceți direct către ruinele medievale magnifice, bucurându-vă de libertatea de a explora castelele și bisericile istorice ale regiunii.\n(MD) Întoarceți-vă spre centrul orașului la sfârșitul dimineții pentru a pătrunde în istoria locală la muzeul capelei înainte de aglomerația de după-amiază.\n(A) Faceți o plimbare pitorească spre parohiile exterioare, apreciind peisajele și măreția liniștită a bisericilor de țară foarte bine conservate.\n(E) Petreceți ultimele ore conducând prin văile adânci și imaculate, parcând lângă minunile naturale pentru a admira apusul senin peste munți.",
         "en": "(M) Drive straight out to the magnificent medieval ruins, enjoying the freedom to explore the robust castles and historical churches of the region.\n(MD) Head back toward the city center by late morning to delve into local history at the chapel museum before the afternoon crowds arrive.\n(A) Take a scenic drive to the outer parishes, appreciating the picturesque landscapes and quiet majesty of the well-preserved countryside churches.\n(E) Spend your final hours driving into the deep pristine valleys, parking near natural wonders to soak in the serene sunset over the high mountains."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Autotour bei den Schlossruinen, die im Regen besonders mystisch wirken. Die Fahrt führt Sie bequem und trocken zu verschiedenen historischen Kirchen der Region. Am Nachmittag besuchen Sie Natursehenswürdigkeiten, die auch bei schlechtem Wetter ihren Reiz haben. Den Tag lassen Sie entspannt ausklingen, während Sie die Aussicht auf die regenverhangenen Berge genießen.",
+            "hu": "Kezdje autós túráját a várromoknál, amelyek esőben különösen misztikusak. Az út kényelmesen és szárazon viszi el a régió különböző történelmi templomaihoz. Délután olyan természeti látnivalókat látogatunk meg, amelyek rossz időben is vonzóak. A napot pihentetően zárjuk, miközben az esőbe burkolózó hegyek látványában gyönyörködünk.",
+            "ro": "Începeți turul cu mașina la ruinele castelului, care par deosebit de mistice în ploaie. Drumul vă duce confortabil și uscat la diverse biserici istorice din regiune. După-amiaza vizităm atracții naturale care sunt atractive chiar și pe vreme rea. Încheiați ziua relaxat, admirând vederea munților învăluiți în ploaie.",
+            "en": "Start your car tour at the castle ruins, which look especially mystical in the rain. The drive takes you comfortably and dry to various historical churches in the region. In the afternoon, visit natural sights that are appealing even in bad weather. End the day relaxedly while enjoying the view of the rain-shrouded mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Savignac",
+                "hu": "Château de Savignac",
+                "ro": "Château de Savignac",
+                "en": "Château de Savignac"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Ruinen vom Auto aus oder nutzen Sie einen Regenschirm für einen kurzen Besuch; der Nebel verleiht dem Ort Tiefe. Vorsicht auf den Parkplätzen.",
+                "hu": "Élvezze a romok látványát az autóból, vagy használjon esernyőt egy rövid látogatáshoz; a köd mélységet ad a helynek. Vigyázzon a parkolókban.",
+                "ro": "Bucurați-vă de vederea ruinelor din mașină sau folosiți o umbrelă pentru o vizită scurtă; ceața oferă profunzime locului. Atenție în parcări.",
+                "en": "Enjoy the view of the ruins from the car or use an umbrella for a short visit; the mist adds depth to the site. Be careful in the parking areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Volusien",
+                "hu": "Église Saint-Volusien",
+                "ro": "Église Saint-Volusien",
+                "en": "Église Saint-Volusien"
+              },
+              "tip_5lang": {
+                "de": "Diese historische Kirche bietet ein trockenes und kulturell reiches Erlebnis; perfekt für einen regnerischen Vormittag. Parken Sie nah am Eingang, um trocken zu bleiben.",
+                "hu": "Ez a történelmi templom száraz és kulturálisan gazdag élményt nyújt; tökéletes egy esős délelőttre. Parkoljon közel a bejárathoz, hogy száraz maradjon.",
+                "ro": "Această biserică istorică oferă o experiență uscată și bogată cultural; perfectă pentru o dimineață ploioasă. Parcați aproape de intrare pentru a rămâne uscat.",
+                "en": "This historical church offers a dry and culturally rich experience; perfect for a rainy morning. Park close to the entrance to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jérôme",
+                "hu": "Chapelle Saint-Jérôme",
+                "ro": "Chapelle Saint-Jérôme",
+                "en": "Chapelle Saint-Jérôme"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner kultureller Stopp, der Sie vor den Elementen schützt; entdecken Sie die lokale Geschichte im Inneren. Tragen Sie wasserfeste Schuhe für den kurzen Fußweg.",
+                "hu": "Egy kis kulturális megálló, amely megvédi az elemektől; fedezze fel a helyi történelmet odabent. Viseljen vízálló cipőt a rövid gyalogúthoz.",
+                "ro": "O mică oprire culturală care vă protejează de elemente; descoperiți istoria locală în interior. Purtați pantofi impermeabili pentru scurta plimbare.",
+                "en": "A small cultural stop that protects you from the elements; discover local history inside. Wear waterproof shoes for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Barthélemy",
+                "hu": "Église Saint-Barthélemy",
+                "ro": "Église Saint-Barthélemy",
+                "en": "Église Saint-Barthélemy"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch die regenverhangene Landschaft zu dieser Kirche ist sehr stimmungsvoll. Achten Sie auf Aquaplaning auf den gewundenen Landstraßen.",
+                "hu": "Az esőbe burkolózó tájon keresztül vezető út ehhez a templomhoz nagyon hangulatos. Ügyeljen a vízenfutásra a kanyargós országutakon.",
+                "ro": "Drumul prin peisajul învăluit în ploaie către această biserică este foarte atmosferic. Atenție la acvaplanare pe drumurile județene sinuoase.",
+                "en": "The drive through the rain-shrouded landscape to this church is very atmospheric. Watch out for aquaplaning on the winding country roads."
+              }
+            },
+            {
+              "name": {
+                "de": "La cabane du trône",
+                "hu": "La cabane du trône",
+                "ro": "La cabane du trône",
+                "en": "La cabane du trône"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese natürliche Formation, während der Regen im Wald eine frische Atmosphäre schafft. Nutzen Sie wetterfeste Kleidung für den Weg vom Parkplatz.",
+                "hu": "Csodálja meg ezt a természetes formációt, miközben az eső az erdőben friss atmoszférát teremt. Használjon időjárásálló ruházatot a parkolótól vezető úton.",
+                "ro": "Admirați această formațiune naturală în timp ce ploaia creează o atmosferă proaspătă în pădure. Folosiți haine rezistente la apă de la parcare.",
+                "en": "Admire this natural formation while the rain creates a fresh atmosphere in the forest. Use weatherproof clothing for the path from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée d'Orgeix",
+                "hu": "Vallée d'Orgeix",
+                "ro": "Vallée d'Orgeix",
+                "en": "Vallée d'Orgeix"
+              },
+              "tip_5lang": {
+                "de": "Das Tal zeigt sich im Regen von seiner dramatischsten Seite; die Bergbäche führen viel Wasser. Die Sicht kann durch tiefhängende Wolken eingeschränkt sein.",
+                "hu": "A völgy esőben a legdrámaibb arcát mutatja; a hegyi patakok sok vizet szállítanak. A látótávolság korlátozott lehet az alacsony felhők miatt.",
+                "ro": "Valea își arată latura cea mai dramatică în ploaie; pârâurile de munte au multă apă. Vizibilitatea poate fi limitată de norii joși.",
+                "en": "The valley shows its most dramatic side in the rain; the mountain streams carry a lot of water. Visibility may be limited by low-hanging clouds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Winterausflug an den Schlossruinen, die malerisch im Frost liegen. Im warmen Auto erkunden Sie die Bergregion und ihre historischen Schätze. Mittags genießen Sie die Ruhe in der Chapelle Saint-Jérôme. Am Nachmittag führt die Route zu idyllischen Bergkirchen, bevor die Dämmerung gegen 17:00 Uhr einsetzt. Beenden Sie die Tour im Tal mit Blick auf die beleuchteten Gipfel.",
+            "hu": "Kezdje téli kirándulását a várromoknál, amelyek festőien fekszenek a fagyban. A meleg autóban fedezze fel a hegyvidéket és annak történelmi kincseit. Délben élvezze a csendet a Chapelle Saint-Jérôme-ban. Délután az út idilli hegyi templomokhoz vezet, mielőtt 17:00 körül beáll a sötétség. Fejezze be a túrát a völgyben.",
+            "ro": "Începeți excursia de iarnă la ruinele castelului, care stau pitoresc în ger. În mașina caldă, explorați regiunea montană și comorile sale istorice. La prânz, bucurați-vă de liniște la Capela Saint-Jérôme. După-amiaza, traseul duce spre biserici montane idilice, înainte de amurgul de la 17:00. Încheiați turul în vale.",
+            "en": "Start your winter excursion at the castle ruins, which lie picturesquely in the frost. In your warm car, explore the mountain region and its historical treasures. At noon, enjoy the peace in Chapelle Saint-Jérôme. In the afternoon, the route leads to idyllic mountain churches before dusk sets in around 17:00. Finish the tour in the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Savignac",
+                "hu": "Château de Savignac",
+                "ro": "Château de Savignac",
+                "en": "Château de Savignac"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken vor dem schneebedeckten Hintergrund sehr erhaben; ideal für Winterfotos. Prüfen Sie den Straßenzustand, da die Zufahrt vereist sein kann.",
+                "hu": "A romok a hófödte háttér előtt nagyon fenségesek; ideális téli fotókhoz. Ellenőrizze az útviszonyokat, mert a felvezető út jeges lehet.",
+                "ro": "Ruinele par impunătoare pe fundalul înzăpezit; ideal pentru fotografii de iarnă. Verificați starea drumului, deoarece accesul poate fi înghețat.",
+                "en": "The ruins look very majestic against the snow-covered background; ideal for winter photos. Check the road conditions as the access road may be icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Volusien",
+                "hu": "Église Saint-Volusien",
+                "ro": "Église Saint-Volusien",
+                "en": "Église Saint-Volusien"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ein wunderbarer Ort für eine andächtige Pause. Stellen Sie sicher, dass Ihr Fahrzeug wintertauglich ausgerüstet ist.",
+                "hu": "A vastag falak kint tartják a hideget; csodálatos hely egy áhítatos szünetre. Győződjön meg róla, hogy járműve téli felszereléssel van ellátva.",
+                "ro": "Zidurile groase țin frigul afară; un loc minunat pentru o pauză pioasă. Asigurați-vă că vehiculul dumneavoastră este echipat corespunzător pentru iarnă.",
+                "en": "The thick walls keep the cold out; a wonderful place for a prayerful break. Make sure your vehicle is equipped for winter conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jérôme",
+                "hu": "Chapelle Saint-Jérôme",
+                "ro": "Chapelle Saint-Jérôme",
+                "en": "Chapelle Saint-Jérôme"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das kleine Museum, um mehr über die Region zu erfahren, während Sie sich aufwärmen. Ein heißes Getränk in der Thermoskanne ist ein guter Begleiter.",
+                "hu": "Látogasson el a kis múzeumba, hogy többet tudjon meg a régióról, miközben felmelegszik. Egy forró ital a termoszból jó kísérő lehet.",
+                "ro": "Vizitați micul muzeu pentru a afla mai multe despre regiune în timp ce vă încălziți. O băutură caldă în termos este un bun partener de drum.",
+                "en": "Visit the small museum to learn more about the region while warming up. A hot drink in a thermos is a good companion for the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Barthélemy",
+                "hu": "Église Saint-Barthélemy",
+                "ro": "Église Saint-Barthélemy",
+                "en": "Église Saint-Barthélemy"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Schönheit dieser Kirche wird durch die winterliche Stille betont. Achten Sie auf festgefahrene Schneedecken auf den Nebenstraßen.",
+                "hu": "A templom egyszerű szépségét hangsúlyozza a téli csend. Ügyeljen a letaposott hóra és a jégre a mellékutakon.",
+                "ro": "Frumusețea simplă a acestei biserici este accentuată de liniștea iernii. Atenție la zăpada bătătorită și gheața de pe drumurile secundare.",
+                "en": "The simple beauty of this church is emphasized by the winter silence. Watch out for packed snow and ice on the side roads."
+              }
+            },
+            {
+              "name": {
+                "de": "La cabane du trône",
+                "hu": "La cabane du trône",
+                "ro": "La cabane du trône",
+                "en": "La cabane du trône"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Natur, um die klare Luft und den verschneiten Wald zu genießen. Tragen Sie feste Winterschuhe für den kurzen Weg vom Auto.",
+                "hu": "Egy rövid megálló a természetben, hogy élvezze a tiszta levegőt és a havas erdőt. Viseljen stabil téli cipőt az autótól vezető rövid úthoz.",
+                "ro": "O scurtă oprire în natură pentru a vă bucura de aerul curat și de pădurea înzăpezită. Purtați ghete de iarnă pentru scurta plimbare de la mașină.",
+                "en": "A short stop in nature to enjoy the clear air and the snowy forest. Wear sturdy winter shoes for the short path from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Vallée d'Orgeix",
+                "hu": "Vallée d'Orgeix",
+                "ro": "Vallée d'Orgeix",
+                "en": "Vallée d'Orgeix"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Pracht des Tals im letzten Tageslicht vor 17:00 Uhr ist unvergesslich. Beenden Sie die Fahrt, bevor die Bergstraßen bei Frost gefährlich werden.",
+                "hu": "A völgy téli pompája az utolsó nappali fényben, 17:00 előtt felejthetetlen. Fejezze be az utat, mielőtt a hegyi utak fagyban veszélyessé válnának.",
+                "ro": "Splendoarea de iarnă a văii în ultima lumină înainte de 17:00 este de neuitat. Încheiați cursa înainte ca drumurile să devină periculoase din cauza înghețului.",
+                "en": "The winter splendor of the valley in the last daylight before 17:00 is unforgettable. Finish the drive before mountain roads become dangerous due to frost."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi Vauban erődváros és ősi kapuinak felfedezésével. Délben keljen át a szurdok felett átívelő merész Asfeld-hídon. A délutánt töltse a Schappe Park békés ösvényein barangolva. A napot pedig zárja egy vidám, családi minigolfozással.",
         "ro": "Începeți dimineața explorând orașul istoric Vauban și porțile sale vechi. La prânz, traversați curajosul pod Asfeld de peste defileu. Petreceți după-amiaza rătăcind pe aleile liniștite din Parcul Schappe. Încheiați-vă ziua cu distracție în familie la terenul de mini-golf.",
         "en": "Begin your morning immersing yourself in the historic Vauban City and its ancient gates. By midday, cross the daring Asfeld Bridge spanning the deep gorge. Spend your afternoon wandering the peaceful paths of Schappe Park. Conclude your day with some family fun at the charming mini-golf course."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Briançon im Regen hat einen mystischen Charme. Am Vormittag erkunden wir die Cité Vauban, wo die nassen Steine glänzen. Mittags bietet das Pignerol-Tor Schutz, während wir die Architektur bewundern. Der Nachmittag führt uns über die Asfeld-Brücke, deren Blick in die Schlucht bei Nebel dramatisch wirkt. Den Tag lassen wir im Schappe-Park ausklingen, wo das Grün im Regen besonders intensiv leuchtet.",
+            "hu": "Briançon esőben is lenyűgöző. Reggel a Vauban-város szűk utcáin sétálunk, ahol a vizes macskakő történelmi hangulatot áraszt. Délben a Pignerol-kapu boltívei alatt pihenünk meg. Délután az Asfeld-hídról csodáljuk a ködös völgyet, majd a Schappe Park dús növényzete között zárjuk a napot. Az esőben a hegyi levegő friss, a város pedig különleges, komor méltóságot ölt.",
+            "ro": "Briançon sub ploaie are un farmec aparte. Dimineața explorăm Orașul Vauban, unde pietrele umede strălucesc sub cerul gri. La prânz, Poarta Pignerol ne oferă un adăpost solid. După-amiaza traversăm Podul Asfeld, cu vederi dramatice spre defileul învăluit în ceață. Încheiem ziua în Parcul Schappe, unde vegetația pare mai vie ca niciodată, oferind un aer montan purificat de ploaie.",
+            "en": "Briançon in the rain holds a mystical allure. Spend your morning in Vauban City, where wet cobblestones reflect history. By noon, seek shelter under the grand Pignerol Gate. The afternoon takes you across Asfeld Bridge, offering dramatic misty views of the Durance gorge. End your walk in Schappe Park, where the rain intensifies the alpine scents and the vibrant greenery of the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cité Vauban",
+                "hu": "Vauban város",
+                "ro": "Orașul Vauban",
+                "en": "Vauban City"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die steilen Gassen der Altstadt; die nassen Fassaden wirken sehr fotogen. Vorsicht auf dem glatten Kopfsteinpflaster, tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Csodáld meg az óváros meredek utcáit, a vizes homlokzatok rendkívül fotogének. Vigyázz a csúszós macskaköveken, viselj megfelelő tapadást biztosító, vízálló lábbelit.",
+                "ro": "Admirați străzile abrupte ale orașului vechi; fațadele umede sunt foarte fotogenice. Atenție pe pietrele alunecoase, purtați încălțăminte cu aderență bună și talpă solidă.",
+                "en": "Admire the steep alleys of the old town; the wet facades are very photogenic. Be careful on the slippery cobblestones; wear waterproof shoes with a good grip for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Pignerol-Tor",
+                "hu": "Pignerol kapu",
+                "ro": "Poarta Pignerol",
+                "en": "Pignerol Gate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den massiven Torbogen als trockenen Rastplatz. Achten Sie auf die Details der Steinmetzkunst, während Sie den Regen draußen beobachten. Ein idealer Unterschlupf.",
+                "hu": "Használd a masszív kapuboltívet száraz pihenőhelyként. Figyeld meg a kőfaragások részleteit, miközben az eső elől menedéket keresel. Tökéletes hely egy rövid megállóra.",
+                "ro": "Folosiți arcada masivă a porții ca loc de odihnă uscat. Observați detaliile sculpturilor în piatră în timp ce vă adăpostiți de ploaie. Este un refugiu istoric excelent.",
+                "en": "Use the massive archway of the gate as a dry resting spot. Observe the stone carving details while sheltered from the rain. It is a perfect spot for a brief weather break."
+              }
+            },
+            {
+              "name": {
+                "de": "Asfeld-Brücke",
+                "hu": "Asfeld-híd",
+                "ro": "Podul Asfeld",
+                "en": "Asfeld Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Blick in die Schlucht ist bei Regen besonders wild. Halten Sie sich gut am Geländer fest, da die Steinstufen bei Nässe sehr rutschig sein können. Ein tolles Fotomotiv.",
+                "hu": "A szakadékra nyíló kilátás esőben különösen vadregényes. Erősen kapaszkodj a korlátba, mert a kőlépcsők nedvesen nagyon csúszósak lehetnek. Drámai fotóhelyszín a ködben.",
+                "ro": "Vederea spre prăpastie este deosebit de sălbatică pe ploaie. țineți-vă bine de balustradă, deoarece treptele de piatră pot fi alunecoase. Un loc dramatic pentru fotografii.",
+                "en": "The view into the gorge is particularly wild in the rain. Hold onto the railings firmly, as the stone steps can be very slippery when wet. A dramatic spot for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Schappe-Park",
+                "hu": "Schappe Park",
+                "ro": "Parcul Schappe",
+                "en": "Schappe Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im dichten Grün; die Bäume bieten natürlichen Schutz. Bleiben Sie auf den asphaltierten Wegen, um Schlamm zu vermeiden und die Natur zu genießen.",
+                "hu": "Élvezd a csendet a sűrű zöldben, ahol a fák természetes védelmet nyújtanar. Maradj az aszfaltozott utakon, hogy elkerüld a sarat, és élvezd a friss, eső utáni illatokat.",
+                "ro": "Bucurați-vă de liniștea din verdeața deasă; copacii oferă protecție naturală. Rămâneți pe potecile asfaltate pentru a evita noroiul și pentru a admira natura montană.",
+                "en": "Enjoy the peace in the dense greenery; the trees provide natural cover. Stick to the paved paths to avoid mud and enjoy the fresh mountain air purified by the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigolf de la Schappe",
+                "hu": "Schappe Minigolf",
+                "ro": "Mini-golf de la Schappe",
+                "en": "Mini-golf de la Schappe"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn Minigolf im Regen schwierig ist, bietet das Clubhaus oft einen warmen Rückzugsort. Ein kurzer Stopp für einen Kaffee im Trockenen lohnt sich hier immer.",
+                "hu": "Bár az esőben nehéz minigolfozni, a klubház gyakran meleg menedéket nyújt. Érdemes megállni egy forró kávéra a fedett részen, amíg eláll az eső vagy csak megpihennél.",
+                "ro": "Chiar dacă minigolful e dificil pe ploaie, clubul oferă adesea un refugiu cald. Merită o oprire pentru o cafea la adăpost în timp ce admirați parcul umed din jur.",
+                "en": "Even if minigolf is difficult in the rain, the clubhouse often provides a warm retreat. A quick stop for a coffee in the dry is always worth it before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Briançon im Winter ist ein wahres Märchen. Die Cité Vauban glänzt im Frost, während wir morgens die verschneiten Gassen erkunden. Mittags wärmen wir uns am Pignerol-Tor auf, bevor wir die vereiste Asfeld-Brücke mit Blick auf die verschneiten Gipfel überqueren. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir die blaue Stunde im Schappe-Park in vollkommener Stille.",
+            "hu": "Briançon télen valóságos tündérország. Reggel a Vauban-város fagyos bástyái között kezdünk, ahol a hó elnémítja a zajokat. Délben a Pignerol-kapu napos részén pihenünk, majd az Asfeld-hídról nézzük a havas hegycsúcsokat. A korai, 17:00 órai naplemente előtt még élvezzük a Schappe Park kék óráját, mielőtt a város fényei kigyúlnak a hideg estében.",
+            "ro": "Briançon iarna este o adevărată poveste. Dimineața explorăm străzile înzăpezite din Orașul Vauban, unde gerul face totul să sclipească. La prânz ne încălzim lângă Poarta Pignerol. Traversăm Podul Asfeld sub vântul tăios de munte, admirând vârfurile albe. Deoarece soarele apune la ora 17:00, ne bucurăm de liniștea hibernală a Parcului Schappe.",
+            "en": "Briançon in winter is a true alpine fairytale. Spend the morning exploring the frost-covered Vauban City. By noon, enjoy the winter sun hitting the Pignerol Gate. The afternoon takes you across the icy Asfeld Bridge with stunning snowy peak views. With sunset around 17:00, the blue hour in Schappe Park offers a serene and silent end to your winter walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cité Vauban",
+                "hu": "Vauban város",
+                "ro": "Orașul Vauban",
+                "en": "Vauban City"
+              },
+              "tip_5lang": {
+                "de": "Die verschneite Festung ist magisch. Tragen Sie gefütterte Stiefel mit rutschfester Sohle, da die steilen Gassen oft vereist sind. Schichten-Look ist hier Pflicht.",
+                "hu": "A havas erődrendszer varázslatos látvány. Viselj bélelt, csúszásmentes talpú bakancsot, mert a meredek utcák gyakran jegesek. Öltözz rétegesen a metsző hegyi szél ellen.",
+                "ro": "Cetatea înzăpezită este magică. Purtați cizme căptușite cu talpă antiderapantă, deoarece străzile abrupte sunt adesea înghețate. Îmbrăcămintea în straturi este obligatorie.",
+                "en": "The snowy fortress is magical. Wear lined boots with non-slip soles, as the steep alleys are often icy. Layered clothing is essential to stay warm in the alpine cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Pignerol-Tor",
+                "hu": "Pignerol kapu",
+                "ro": "Poarta Pignerol",
+                "en": "Pignerol Gate"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Tor im Licht der tiefstehenden Wintersonne. Nutzen Sie die massiven Mauern als Windschutz, bevor Sie weiter in die kälteren Teile der Stadt gehen.",
+                "hu": "Csodáld meg a kaput az alacsonyan járó téli nap fényében. Használd a masszív falakat szélfogóként, mielőtt továbbindulnál a város hidegebb, árnyékosabb részei felé.",
+                "ro": "Admirați poarta în lumina soarelui palid de iarnă. Folosiți zidurile masive ca scut împotriva vântului înainte de a înainta spre părțile mai reci ale orașului vechi.",
+                "en": "Admire the gate in the low winter sun. Use the massive stone walls as a windbreak before continuing your walk into the colder, shaded parts of the historic town."
+              }
+            },
+            {
+              "name": {
+                "de": "Asfeld-Brücke",
+                "hu": "Asfeld-híd",
+                "ro": "Podul Asfeld",
+                "en": "Asfeld Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die verschneite Durance-Schlucht ist atemberaubend. Gehen Sie extrem vorsichtig über die Brücke, da der Boden oft spiegelglatt gefroren ist.",
+                "hu": "A havas Durance-szakadék látványa lélegzetelállító. Rendkívül óvatosan kelj át a hídon, mert a járófelület gyakran tükörjéggel borított és nagyon veszélyes lehet.",
+                "ro": "Vederea spre defileul Durance înzăpezit îți taie respirația. Mergeți cu extremă prudență pe pod, deoarece podeaua este adesea înghețată și foarte alunecoasă iarna.",
+                "en": "The view of the snowy Durance gorge is breathtaking. Walk with extreme caution across the bridge, as the ground is often frozen solid and can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Schappe-Park",
+                "hu": "Schappe Park",
+                "ro": "Parcul Schappe",
+                "en": "Schappe Park"
+              },
+              "tip_5lang": {
+                "de": "Ein friedliches Winterwunderland. Der gefrorene Teich bietet eine tolle Kulisse. Achten Sie auf die Zeit, da es im Park nach 16:30 Uhr sehr schnell dunkel wird.",
+                "hu": "Békés téli csodaország. A befagyott tó különleges hátteret nyújt a fotókhoz. Figyelj az időre, mert a parkban 16:30 után hirtelen sötétedik és lehűl a levegő.",
+                "ro": "Un tărâm hibernal pașnic. Iazul înghețat oferă un cadru minunat pentru fotografii. Atenție la timp, deoarece în parc se întunecă rapid după ora 16:30 iarna.",
+                "en": "A peaceful winter wonderland. The frozen pond offers a unique backdrop for photos. Keep an eye on the time, as it gets dark and cold very quickly after 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigolf de la Schappe",
+                "hu": "Schappe Minigolf",
+                "ro": "Mini-golf de la Schappe",
+                "en": "Mini-golf de la Schappe"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter meist geschlossen, aber die Umgebung lädt zu einem letzten frostigen Spaziergang ein. Genießen Sie die klare, kalte Bergluft zum Abschluss.",
+                "hu": "A pálya télen zárva tart, de a környezet ideális egy utolsó fagyos sétához. Élvezd a kristálytiszta, hideg hegyi levegőt a nap végén, mielőtt visszatérnél a szállásra.",
+                "ro": "Terenul este de obicei închis iarna, dar împrejurimile sunt perfecte pentru o ultimă plimbare geroasă. Bucurați-vă de aerul curat și rece de munte la finalul zilei.",
+                "en": "The facility is usually closed in winter, but the surroundings are perfect for a final frosty stroll. Enjoy the crisp, clear mountain air before the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Korán tekerjen fel a Fort des Salettes-hez a reggeli kilátásért, majd látogassa meg a Pignerol kaput és Vauban városát. Délben folytassa útját az impozáns Fort des Trois-Têtes felé. Délután guruljon le a békés Lac de Pont Baldy tavához egy pihentető befejezésért.",
         "ro": "Pedalați devreme până la Fort des Salettes pentru vederi matinale înainte de a vizita Poarta Pignerol și orașul Vauban. La prânz, mergeți spre impunătorul Fort des Trois-Têtes. După-amiaza, coborâți spre liniștitul Lac de Pont Baldy pentru un final relaxant.",
         "en": "Ride early up to Fort des Salettes to enjoy crisp morning views before visiting the Pignerol Gate and Vauban City. Midday, pedal towards the imposing Fort des Trois-Têtes for some deep military history. In the afternoon, follow the trails down to the serene Lac de Pont Baldy for a relaxing finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber einsame Wege. Morgens geht es zum Fort des Salettes, wo der Asphalt rutschig sein kann. Mittags bietet das Pignerol-Tor Schutz zum Nachjustieren der Ausrüstung. Über die Cité Vauban fahren wir zum Fort des Trois-Têtes, bevor wir am Lac de Pont Baldy die mystische Stimmung des Wassers im Regen genießen.",
+            "hu": "Az esős kerékpározás Briançonban kihívás, de a látvány kárpótol. Reggel a Fort des Salettes felé kapaszkodunk a vizes aszfalton. Délben a Pignerol-kapu alatt pihenünk, majd a Vauban-városon át tekerünk a Fort des Trois-Têtes-hez. A napot a Pont Baldy-tónál zárjuk, ahol a mélykék víz és a szürke köd drámai kontrasztot alkot az esőben.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență, dar oferă trasee pustii. Dimineața urcăm spre Fort des Salettes, unde asfaltul poate fi alunecos. La prânz, Poarta Pignerol oferă adăpost pentru ajustarea echipamentului. Trecem prin Orașul Vauban spre Fort des Trois-Têtes, terminând la Lacul Pont Baldy, sub o atmosferă mistică.",
+            "en": "Cycling in the rain requires caution but offers quiet, empty paths. Start the morning with a climb to Fort des Salettes, staying alert on slippery curves. Use Pignerol Gate at noon to dry off. Ride through Vauban City to Fort des Trois-Têtes, ending at Lac de Pont Baldy, where the turquoise water looks stunningly dark against the grey rainy sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort des Salettes",
+                "hu": "Fort des Salettes",
+                "ro": "Fortul Salettes",
+                "en": "Fort des Salettes"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen anstrengend; prüfen Sie Ihre Bremsen für die Abfahrt. Die Aussicht auf die Stadt im Nebel ist spektakulär. Tragen Sie gute Regenkleidung.",
+                "hu": "Az emelkedő esőben fárasztó, ellenőrizd a fékeidet a leereszkedés előtt. A ködös város látványa lenyűgöző. Viselj minőségi esőruhát a teljes út alatt.",
+                "ro": "Urcarea este obositoare pe ploaie; verificați frânele pentru coborâre. Vederea orașului în ceață este spectaculoasă. Purtați echipament impermeabil de calitate.",
+                "en": "The climb is tough in the rain; check your brakes before the descent. The view of the city in the mist is spectacular. Wear high-quality waterproof gear throughout."
+              }
+            },
+            {
+              "name": {
+                "de": "Pignerol-Tor",
+                "hu": "Pignerol kapu",
+                "ro": "Poarta Pignerol",
+                "en": "Pignerol Gate"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Ausrüstung im Trockenen zu prüfen. Achten Sie auf Fußgänger, die hier ebenfalls Schutz suchen. Die Steine sind bei Nässe sehr rutschig.",
+                "hu": "Ideális hely a felszerelés szárazon történő ellenőrzésére. Figyelj a gyalogosokra, akik szintén itt keresnek menedéket. A kövek vizesen rendkívül csúszósak.",
+                "ro": "Un loc ideal pentru a verifica echipamentul la adăpost. Atenție la pietonii care caută și ei refugiu aici. Pietrele sunt foarte alunecoase când sunt ude.",
+                "en": "An ideal place to check your gear in the dry. Watch out for pedestrians also seeking shelter here. The ancient stones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cité Vauban",
+                "hu": "Vauban város",
+                "ro": "Orașul Vauban",
+                "en": "Vauban City"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in den engen Gassen sehr langsam. Die nassen Pflastersteine sind eine Herausforderung für jeden Radfahrer. Nutzen Sie die Bremsen mit Bedacht.",
+                "hu": "A szűk utcákban tekerj nagyon lassan. A vizes macskakő komoly kihívás minden kerékpárosnak. Használd a fékeket óvatosan, és kerüld a hirtelen kanyarodást.",
+                "ro": "Circulați foarte încet pe străzile înguste. Pietrele umede sunt o provocare pentru orice biciclist. Folosiți frânele cu prudență pentru a evita alunecarea.",
+                "en": "Ride very slowly through the narrow alleys. The wet cobblestones are a challenge for any cyclist. Use your brakes cautiously and avoid sharp turns on the wet surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort des Trois-Têtes",
+                "hu": "Fort des Trois-Têtes",
+                "ro": "Fortul Trois-Têtes",
+                "en": "Fort des Trois-Têtes"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, da die Pfade um das Fort schlammig sein können. Die Wolken hängen hier oft tief und sorgen für eine mystische Atmosphäre.",
+                "hu": "Maradj a kövezett utakon, mert az erőd körüli ösvények sárosak lehetnek. A felhők itt gyakran alacsonyan szállnak, ami misztikus hangulatot áraszt az esőben.",
+                "ro": "Rămâneți pe drumurile pavate, deoarece potecile din jurul fortului pot fi noroioase. Norii coboară adesea aici, creând o atmosferă mistică sub ploaie.",
+                "en": "Stick to the paved roads as the paths around the fort can get muddy. The low-hanging clouds create a mystical atmosphere here during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Pont Baldy",
+                "hu": "Pont Baldy-tó",
+                "ro": "Lacul Pont Baldy",
+                "en": "Lac de Pont Baldy"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser wirkt im Regen tiefblau. Planen Sie eine schnelle Rückfahrt ein, da es bei Nässe in den Bergen rasch abkühlen kann. Schutzbleche sind hier Gold wert.",
+                "hu": "A tó vize esőben sötétkéknek tűnik. Tervezz gyors visszautat, mert a hegyekben esőben hamar lehűl a levegő. A sárvédő itt aranyat ér a felverődő víz ellen.",
+                "ro": "Apa pare de un albastru închis pe ploaie. Planificați o întoarcere rapidă, deoarece la munte se răcește repede când plouă. Aripile la bicicletă sunt esențiale.",
+                "en": "The water looks deep blue in the rain. Plan a quick return trip as it cools down fast in the mountains when wet. Fenders are worth their weight in gold here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Briançon ist nur für Mutige, aber belohnt mit Stille. Morgens führt der Weg zum verschneiten Fort des Salettes (Vorsicht vor Glatteis). Nach einem Halt am Pignerol-Tor durchqueren wir die frostige Cité Vauban. Das Fort des Trois-Têtes bietet ein grandioses Panorama der Alpen, bevor wir den Tag am teilweise gefrorenen Lac de Pont Baldy beenden.",
+            "hu": "A téli kerékpározás Briançonban csak a legbátrabbaknak ajánlott, de a csend kárpótol. Reggel a havas Fort des Salettes-hez tekerünk (vigyázz a jeges szakaszokon). A Pignerol-kapu után a zúzmarás Vauban-városon haladunk át. A Fort des Trois-Têtes havas panorámája után a részben befagyott Pont Baldy-tónál ér minket a korai naplemente.",
+            "ro": "Ciclismul de iarnă în Briançon este pentru cei curajoși, oferind liniște deplină. Dimineața urcăm la Fort des Salettes (atenție la gheață). După o oprire la Poarta Pignerol, traversăm Orașul Vauban înghețat. Fortul Trois-Têtes oferă o panoramă alpină superbă înainte de a încheia ziua la Lacul Pont Baldy, parțial înghețat.",
+            "en": "Winter cycling in Briançon is for the brave but rewards you with absolute silence. Head to the snowy Fort des Salettes in the morning (watch for black ice). After Pignerol Gate, cross the frosty Vauban City. Fort des Trois-Têtes offers a grand snowy alpine panorama before ending the ride at the partially frozen Lac de Pont Baldy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort des Salettes",
+                "hu": "Fort des Salettes",
+                "ro": "Fortul Salettes",
+                "en": "Fort des Salettes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Kurven im Schatten. Die Auffahrt hält Sie warm, aber für die Abfahrt benötigen Sie unbedingt winddichte Handschuhe und eine warme Jacke.",
+                "hu": "Figyelj az árnyékos kanyarokban megbújó jégfoltokra. Az emelkedő felmelegít, de a lejtőn mindenképp szükséged lesz szélálló kesztyűre és meleg kabátra.",
+                "ro": "Atenție la curbele înghețate din umbră. Urcarea vă va menține cald, dar pentru coborâre aveți neapărat nevoie de mănuși rezistente la vânt și o jachetă groasă.",
+                "en": "Watch out for icy patches in shaded curves. The climb keeps you warm, but you will absolutely need windproof gloves and a warm jacket for the cold descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Pignerol-Tor",
+                "hu": "Pignerol kapu",
+                "ro": "Poarta Pignerol",
+                "en": "Pignerol Gate"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Sonne am Tor hilft gegen die Kälte. Prüfen Sie Ihren Reifendruck; kalte Luft kann ihn senken. Die Steine können spiegelglatt sein.",
+                "hu": "Egy rövid megálló a napsütötte kapunál segít a hideg ellen. Ellenőrizd a guminyomást, a hideg levegő miatt csökkenhet. A kövek tükörsimák és jegesek lehetnek.",
+                "ro": "O scurtă oprire la soare lângă poartă ajută împotriva frigului. Verificați presiunea în pneuri; aerul rece o poate scădea. Pietrele pot fi extrem de alunecoase.",
+                "en": "A brief stop in the sun by the gate helps fight the cold. Check your tire pressure as cold air can lower it. The stones can be mirror-smooth and very icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Cité Vauban",
+                "hu": "Vauban város",
+                "ro": "Orașul Vauban",
+                "en": "Vauban City"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad in den steilsten, vereisten Passagen. Die 'Gargouille'-Rinnen können tückische Eisflächen bilden. Sicherheit geht im Winter immer vor.",
+                "hu": "A legmeredekebb, jeges szakaszokon inkább told a bringát. A vízelvezető árkok mellett csalóka jégfoltok alakulhatnak ki. Télen a biztonság az első a városban.",
+                "ro": "Împingeți bicicleta în porțiunile cele mai abrupte și înghețate. Rigolele pot forma suprafețe de gheață înșelătoare. Siguranța este prioritară iarna.",
+                "en": "Walk your bike through the steepest, iciest sections. The drainage channels can form treacherous ice patches. Safety always comes first in the winter city."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort des Trois-Têtes",
+                "hu": "Fort des Trois-Têtes",
+                "ro": "Fortul Trois-Têtes",
+                "en": "Fort des Trois-Têtes"
+              },
+              "tip_5lang": {
+                "de": "Der kälteste Punkt der Tour. Genießen Sie die Aussicht auf die verschneiten Gipfel, aber bleiben Sie in Bewegung, um nicht auszukühlen. Atemberaubendes Licht.",
+                "hu": "A túra leghidegebb pontja. Élvezd a havas csúcsok látványát, de maradj mozgásban, hogy ne hűlj ki. A téli fények itt kora délután a legszebbek.",
+                "ro": "Cel mai rece punct al traseului. Bucurați-vă de vederea vârfurilor înzăpezite, dar rămâneți în mișcare pentru a nu îngheța. Lumina de iarnă este superbă aici.",
+                "en": "The coldest point of the tour. Enjoy the view of the snowy peaks, but keep moving to stay warm. The winter light is breathtaking here in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Pont Baldy",
+                "hu": "Pont Baldy-tó",
+                "ro": "Lacul Pont Baldy",
+                "en": "Lac de Pont Baldy"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:00 Uhr an, um das letzte Tageslicht zu nutzen. Der See ist im Winter oft teilweise zugefroren – ein magischer Anblick zum Abschluss der Tour.",
+                "hu": "Érkezz meg 16:00 előtt, hogy kihasználd az utolsó fényeket. A tó télen gyakran részben befagy – varázslatos látvány a túra lezárásaként a hideg alkonyatban.",
+                "ro": "Ajungeți înainte de ora 16:00 pentru a profita de ultima lumină. Lacul este adesea parțial înghețat iarna – o priveliște magică pentru finalul turei.",
+                "en": "Arrive before 16:00 to catch the last daylight. The lake is often partially frozen in winter—a magical sight to conclude your cold mountain cycling adventure."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje a lenyűgöző Vauban erődváros és a masszív Fort des Trois-Têtes reggeli felfedezésével. Délben autózzon fel a magaslatokra az eldugott Lac de Sagne Enfonza-hoz. A délutánt töltse a tavak körbejárásával, és naplementekor érkezzen meg a csodálatos Lac des Sarrailles-hez.",
         "ro": "Începeți cu explorarea matinală a orașului Vauban și a formidabilului Fort des Trois-Têtes. La prânz, conduceți spre altitudini pentru a ajunge la izolatul Lac de Sagne Enfonza. Petreceți după-amiaza vizitând lacurile alpine, terminând la spectaculosul Lac des Sarrailles la apus.",
         "en": "Start with a morning exploration of the impressive Vauban City and the formidable Fort des Trois-Têtes. By midday, drive up into the surrounding high altitudes to reach the secluded Lac de Sagne Enfonza. Spend your afternoon lake-hopping, finishing at the spectacular Lac des Sarrailles at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt ist die gemütlichste Art, Briançon im Regen zu erleben. Morgens erkunden wir die Cité Vauban mit dem Regenschirm. Danach geht es zum Fort des Trois-Têtes, das im Nebel imposant wirkt. Der Nachmittag führt uns zu den Bergseen Sagne Enfonza, Lac des Anges und Lac des Sarrailles, wo wir die dramatische Wolkenstimmung sicher vom Fahrzeug aus genießen können.",
+            "hu": "Az autós túra a legkényelmesebb módja Briançon felfedezésének esőben. Reggel esernyővel járjuk be a Vauban-várost, majd a ködbe burkolózó Fort des Trois-Têtes-hez hajtunk. Délután a magashegyi tavakat (Sagne Enfonza, Lac des Anges, Lac des Sarrailles) látogatjuk meg, ahol az autóból nézhetjük a felhők és a víz drámai játékát a szürke ég alatt.",
+            "ro": "O călătorie cu mașina este cel mai confortabil mod de a vedea Briançon pe ploaie. Dimineața vizităm Orașul Vauban cu umbrela la îndemână. Continuăm spre Fortul Trois-Têtes, care pare impunător în ceață. După-amiaza explorăm lacurile montane Sagne Enfonza, Lac des Anges și Lac des Sarrailles, admirând cerul dramatic din confortul mașinii.",
+            "en": "Driving is the most comfortable way to experience Briançon in the rain. Start with a rainy stroll through Vauban City using an umbrella. Head to Fort des Trois-Têtes, which looks imposing in the mist. The afternoon is dedicated to alpine lakes like Sagne Enfonza, Lac des Anges, and Lac des Sarrailles, enjoying the dramatic scenery from your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cité Vauban",
+                "hu": "Vauban város",
+                "ro": "Orașul Vauban",
+                "en": "Vauban City"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Tals und nutzen Sie einen großen Regenschirm. Die alten Mauern erzählen auch im Nebel ihre Geschichten. Perfekt für einen kurzen Spaziergang.",
+                "hu": "Parkolj a völgy felőli oldalon, és használj nagy esernyőt. Az ódon falak ködben is mesélnek a múltról. Ideális egy rövid, hangulatos sétára az esőben.",
+                "ro": "Parcați aproape de intrare și folosiți o umbrelă mare. Zidurile vechi își spun poveștile chiar și prin ceață. Perfect pentru o scurtă plimbare atmosferică.",
+                "en": "Park nearby and use a large umbrella for your visit. The old walls tell their stories even through the mountain mist. Perfect for a brief, atmospheric stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort des Trois-Têtes",
+                "hu": "Fort des Trois-Têtes",
+                "ro": "Fortul Trois-Têtes",
+                "en": "Fort des Trois-Têtes"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen Zufahrtsstraße; bei Regen ist die Sicht oft eingeschränkt. Die Festung wirkt im grauen Licht besonders mächtig und düster.",
+                "hu": "Vezess óvatosan a keskeny bekötőúton; esőben a látási viszonyok korlátozottak lehetnek. Az erőd a szürke fényben különösen hatalmasnak és zordnak tűnik.",
+                "ro": "Conduceți cu prudență pe drumul îngust de acces; vizibilitatea este adesea redusă pe ploaie. Cetatea pare deosebit de puternică și sumbră în lumina gri.",
+                "en": "Drive carefully on the narrow access road; visibility can be limited during heavy rain. The fortress looks particularly powerful and somber in the grey light."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Sagne Enfonza",
+                "hu": "Sagne Enfonza-tó",
+                "ro": "Lacul Sagne Enfonza",
+                "en": "Lac de Sagne Enfonza"
+              },
+              "tip_5lang": {
+                "de": "Die Spiegelung der dunklen Wolken im See ist poetisch. Bleiben Sie für ein Picknick im Auto, wenn der Regen zu stark wird. Die Natur ist hier sehr ursprünglich.",
+                "hu": "A sötét felhők tükröződése a tavon rendkívül költői. Maradj az autóban egy kellemes piknikre, ha elered az eső. A természet itt ilyenkor is lenyűgöző.",
+                "ro": "Reflexia norilor întunecați în lac este poetică. Rămâneți în mașină pentru un picnic dacă ploaia devine prea puternică. Natura este foarte sălbatică aici.",
+                "en": "The reflection of dark clouds in the lake is poetic. Stay in the car for a scenic picnic if the rain gets too heavy. The nature here remains raw and beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Anges",
+                "hu": "Angyalok tava",
+                "ro": "Lacul Îngerilor",
+                "en": "Lac des Anges"
+              },
+              "tip_5lang": {
+                "de": "Der Regen in dieser Höhe kann recht kühl sein. Beobachten Sie die alpine Flora vom Seeufer aus und halten Sie Ihre Kamera für Nebelaufnahmen bereit.",
+                "hu": "Az eső ilyen magasságban hűvös lehet. Figyeld meg az alpesi flórát a tópartról, és készítsd elő a fényképezőgépet a ködös, hangulatos tájképekhez.",
+                "ro": "Ploaia la această altitudine poate fi destul de rece. Observați flora alpină de pe malul lacului și pregătiți camera pentru cadre spectaculoase cu ceață.",
+                "en": "Rain at this altitude can be quite chilly. Observe the alpine flora from the lakeside and keep your camera ready for atmospheric misty landscape shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Sarrailles",
+                "hu": "Sarrailles-tó",
+                "ro": "Lacul Sarrailles",
+                "en": "Lac des Sarrailles"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf unbefestigte Straßenabschnitte, die bei Regen matschig sein können. Genießen Sie die dramatische Landschaft und das Trommeln des Regens auf dem Dach.",
+                "hu": "Figyelj a burkolatlan útszakaszokra, amelyek esőben sárosak lehetnek. Élvezd a drámai tájat és az eső kopogását az autótetőn a túra végén.",
+                "ro": "Atenție la secțiunile de drum neasfaltate care pot fi noroioase pe ploaie. Bucurați-vă de peisajul dramatic și de sunetul ploii pe acoperișul mașinii.",
+                "en": "Watch out for unpaved road sections that may get muddy in the rain. Enjoy the dramatic landscape and the soothing sound of rain on the car roof at the end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch die französischen Alpen ist spektakulär. Die Cité Vauban ist festlich beleuchtet, während wir morgens durch den Schnee fahren. Das Fort des Trois-Têtes bietet weite Ausblicke auf die verschneite Bergwelt. Am Nachmittag erreichen wir die gefrorenen Seen Sagne Enfonza und Lac des Anges, bevor wir am Lac des Sarrailles bei eisigen Temperaturen den frühen Sonnenuntergang gegen 17:00 Uhr erleben.",
+            "hu": "A téli autózás a francia Alpokban látványos élmény. Reggel a havas Vauban-város ünnepi fényeit csodáljuk meg, majd a Fort des Trois-Têtes-hez hajtunk a fehér hegyek közé. Délután a befagyott Sagne Enfonza és Lac des Anges tavakhoz látogatunk. A túrát a Lac des Sarrailles-nél zárjuk a metsző hidegben, épp a korai, 17:00 órai naplemente idején.",
+            "ro": "O călătorie de iarnă cu mașina prin Alpi este spectaculoasă. Orașul Vauban este luminat festiv dimineața. Vizităm Fortul Trois-Têtes pentru panorame înzăpezite vaste. După-amiaza ajungem la lacurile înghețate Sagne Enfonza și Lac des Anges, terminând la Lacul Sarrailles, unde admirăm apusul timpuriu de la ora 17:00 în gerul alpin.",
+            "en": "A winter drive through the French Alps is spectacular. See the festively lit Vauban City in the morning snow. Fort des Trois-Têtes offers vast views of the white mountain world. In the afternoon, visit the frozen Sagne Enfonza and Lac des Anges, ending at Lac des Sarrailles for the early 17:00 sunset in sub-zero temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cité Vauban",
+                "hu": "Vauban város",
+                "ro": "Orașul Vauban",
+                "en": "Vauban City"
+              },
+              "tip_5lang": {
+                "de": "Die Altstadt ist im Winter wunderschön beleuchtet. Tragen Sie dicke Kleidung für den kurzen Fußweg vom Parkplatz; die Luft ist hier oben oft sehr schneidig.",
+                "hu": "Az óváros télen gyönyörűen ki van világítva. Öltözz nagyon melegen a parkolótól tartó rövid sétához; a levegő itt fent gyakran rendkívül csípős és hideg.",
+                "ro": "Orașul vechi este luminat superb iarna. Purtați haine groase pentru scurta plimbare de la parcare; aerul de aici de sus este adesea foarte tăios și rece.",
+                "en": "The old town is beautifully lit in winter. Wear heavy layers for the short walk from the parking area; the air up here is often very sharp and freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort des Trois-Têtes",
+                "hu": "Fort des Trois-Têtes",
+                "ro": "Fortul Trois-Têtes",
+                "en": "Fort des Trois-Têtes"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Befahrbarkeit der Straße nach Neuschnee. Die weiß getünchten Mauern verschmelzen fast mit den Bergen. Ein grandioser Ort für Winterpanoramen.",
+                "hu": "Ellenőrizd az út járhatóságát friss hóesés után. A fehérre meszelt falak szinte egybeolvadnak a havas hegyekkel. Kiváló helyszín a téli panorámafotókhoz.",
+                "ro": "Verificați accesibilitatea drumului după ninsori recente. Zidurile albe se contopesc aproape cu munții. Un loc grandios pentru panorame hibernale superbe.",
+                "en": "Check road accessibility after fresh snowfall. The whitewashed walls almost blend into the mountains. A grand spot for stunning winter panoramic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Sagne Enfonza",
+                "hu": "Sagne Enfonza-tó",
+                "ro": "Lacul Sagne Enfonza",
+                "en": "Lac de Sagne Enfonza"
+              },
+              "tip_5lang": {
+                "de": "Ein gefrorener Spiegel in großer Höhe. Stellen Sie sicher, dass Ihr Fahrzeug wintertauglich ist, da die Auffahrt steil und vereist sein kann. Bringen Sie Tee mit.",
+                "hu": "Egy befagyott tükör a magasban. Győződj meg róla, hogy az autód téliesítve van, mert az emelkedő jeges lehet. Vigyél magaddal forró teát a nézelődéshez.",
+                "ro": "O oglindă înghețată la mare altitudine. Asigurați-vă că mașina este echipată de iarnă, deoarece urcarea poate fi înghețată. Aduceți un termos cu ceai cald.",
+                "en": "A frozen mirror at high altitude. Ensure your vehicle is winter-ready as the climb can be steep and icy. Bring a thermos with hot tea to stay warm while viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Anges",
+                "hu": "Angyalok tava",
+                "ro": "Lacul Îngerilor",
+                "en": "Lac des Anges"
+              },
+              "tip_5lang": {
+                "de": "Die Landschaft ist vollkommen weiß und still. Genießen Sie die Ruhe der Alpen vom warmen Auto aus und machen Sie nur kurze Ausflüge in die Kälte für Fotos.",
+                "hu": "A táj teljesen fehér és néma. Élvezd az Alpok nyugalmát a meleg autóból, és csak rövid időre szállj ki a fotózáshoz a metsző hidegben és szélben.",
+                "ro": "Peisajul este complet alb și tăcut. Bucurați-vă de liniștea Alpilor din mașina caldă și faceți doar scurte ieșiri în ger pentru fotografii spectaculoase.",
+                "en": "The landscape is purely white and silent. Enjoy the peace of the Alps from your warm car and only make short trips into the cold for quick photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Sarrailles",
+                "hu": "Sarrailles-tó",
+                "ro": "Lacul Sarrailles",
+                "en": "Lac des Sarrailles"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt der Tour; hier herrschen oft Temperaturen weit unter Null. Erleben Sie das glühende Alpenglühen bei Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "A túra legmagasabb pontja, ahol a hőmérséklet jóval fagypont alatt van. Éld át a vöröslő alpesi izzást a korai, 17:00 órai naplemente idején.",
+                "ro": "Cel mai înalt punct al traseului; aici temperaturile sunt mult sub zero grade. Admirați fenomenul „Alpenglow” la apus, în jurul orei 17:00.",
+                "en": "The highest point of the tour; expect temperatures well below zero here. Experience the glowing 'Alpenglow' at sunset around 17:00 from the lakeside."
+              }
+            }
+          ]
+        }
       }
     }
   }

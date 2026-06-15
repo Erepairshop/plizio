@@ -137,6 +137,168 @@
         "hu": "Délelőtt: Kezdje a napot a múzeumban, majd sétáljon át a közeli Szűz Mária-templomhoz. Délben: Élvezze a frissítő sétát a békés Malomtó körül, mielőtt az erődbe indulna. Délután: Fedezze fel a hatalmas Pembroke várat, a Tudor-dinasztia szülőhelyét. Este: Zárja a gyalogos túrát a történelmi Monkton Priory lenyűgöző romjainak békés meglátogatásával.",
         "ro": "Dimineața: Începeți la muzeu, apoi mergeți la Biserica Sf. Maria din apropiere pentru un moment de liniște. La prânz: Bucurați-vă de o plimbare răcoritoare în jurul Iazului Morii. După-amiaza: Explorați impunătorul Castel Pembroke, descoperind locul de naștere al dinastiei Tudor. Seara: Încheiați turul pietonal cu o vizită pașnică la ruinele istorice ale Mănăstirii Monkton.",
         "en": "Morning: Start at the museum, then walk to the nearby St Mary's Church for a quiet moment. Midday: Enjoy a refreshing stroll around the serene Mill Pond before heading to the fortress. Afternoon: Explore the mighty Pembroke Castle, uncovering the birthplace of the Tudor dynasty. Evening: Conclude the walking tour with a peaceful visit to the historic Monkton Priory ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt im Museum, wo Sie trocken in die Stadtgeschichte eintauchen können. Mittags bietet die Kirche einen ruhigen, überdachten Rückzugsort vor dem Regen. Am Nachmittag erkunden Sie die Burg, deren dicke Mauern und die Wogan-Höhle perfekten Schutz bieten. Der Tag endet am Priorat, wobei Sie auf den nassen, rutschigen Gehwegen besonders vorsichtig sein sollten.",
+            "hu": "A reggelt a múzeum falai között indítjuk, elkerülve az égi áldást Pembroke múltjának megismerésével. Délben a templom belső tere kínál csendes menedéket a záporok elől. Délután a várkastély masszív falai és a barlangrészleg marad száraz, így zavartalan a látogatás. Este a priorság felé vesszük az irányt, vigyázva a csúszós aszfaltra és a tó környéki nedves utakra.",
+            "ro": "Dimineața începe la muzeu, un refugiu perfect unde puteți descoperi istoria locală feriți de ploaie. La prânz, interiorul bisericii oferă liniște și protecție împotriva vremii umede. După-amiaza este dedicată castelului, unde zidurile groase și peștera Wogan vă mențin uscați. Seara se încheie la priorie, necesitând atenție sporită pe trotuarele ude și alunecoase.",
+            "en": "Start your morning inside the museum, diving into local history while staying perfectly dry. At noon, the church provides a serene indoor sanctuary away from the drizzle. Your afternoon at the castle is safe from the rain within its massive towers and the deep Wogan cavern. The day concludes at the priory; please walk carefully as the historic paths can become quite slippery when wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pembroke Museum",
+                "hu": "Pembroke Múzeum",
+                "ro": "Muzeul Pembroke",
+                "en": "Pembroke Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die detaillierten Ausstellungen im Inneren, um den ersten Regenschauer des Tages zu überbrücken und die Stadtgeschichte ohne nasse Füße zu erleben.",
+                "hu": "Használja ki a gazdag beltéri kiállítást a reggeli záporok idején, így szárazon ismerheti meg a város makettjeit és a helyi közösség érdekes történeteit.",
+                "ro": "Profită de expozițiile detaliate din interior pentru a evita prima ploaie a zilei, explorând machetele orașului și istoria locală într-un mediu primitor și uscat.",
+                "en": "Take advantage of the extensive indoor exhibits during the morning showers to explore the town's detailed models and local lore without getting your feet wet."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Marienkirche",
+                "hu": "Szűz Mária-templom",
+                "ro": "Biserica Sf. Maria",
+                "en": "St Mary's Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Glasfenster, die auch bei grauem Himmel leuchten, und genießen Sie die trockene Stille in den historischen Kirchenbänken.",
+                "hu": "Csodálja meg a színes üvegablakokat, amelyek szürke égbolt mellett is különleges fényt árasztanak, miközben a templomhajó védelmében pihen kicsit.",
+                "ro": "Admirați vitraliile superbe care strălucesc chiar și sub cerul gri, bucurându-vă de liniștea interioară și de adăpostul oferit de naosul istoric al bisericii.",
+                "en": "Admire the stunning stained glass windows that glow even under grey skies, while enjoying a peaceful and dry moment of rest within the historic pews."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühlenteich",
+                "hu": "Malomtó",
+                "ro": "Iazul Morii",
+                "en": "Mill Pond"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Schuhe für diesen Uferweg und beobachten Sie, wie die Regentropfen faszinierende Kreise auf der Wasseroberfläche des Teichs bilden.",
+                "hu": "Viseljen vízálló lábbelit a parton, és figyelje meg a vízen táncoló esőcseppeket, amelyek ilyenkor különösen misztikus hangulatot kölcsönöznek a tónak.",
+                "ro": "Purtați încălțăminte impermeabilă pe malul iazului și observați cercurile formate de ploaie pe suprafața apei, ce oferă peisajului o aură mistică și calmă.",
+                "en": "Wear waterproof footwear for this lakeside path and watch the raindrops create mesmerizing patterns on the pond's surface, adding a misty charm to the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Pembroke Castle",
+                "hu": "Pembroke vára",
+                "ro": "Castelul Pembroke",
+                "en": "Pembroke Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die riesige Wogan-Höhle unter der Burg, die einen natürlichen und absolut trockenen Zufluchtsort mit beeindruckender Atmosphäre bietet.",
+                "hu": "Fedezze fel a vár alatti hatalmas Wogan-barlangot, amely természetes és teljesen száraz menedéket nyújt, miközben lenyűgöző földalatti látványt ígér.",
+                "ro": "Explorați uriașa peșteră Wogan de sub castel, care oferă un adăpost natural și complet uscat, fiind un punct de interes fascinant chiar și pe timp de ploaie.",
+                "en": "Explore the massive Wogan cavern beneath the castle, which provides a natural and perfectly dry refuge with a truly impressive and historic atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkton Priory",
+                "hu": "Monkton Priory",
+                "ro": "Mănăstirea Monkton",
+                "en": "Monkton Priory"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre Tour in der spirituellen Wärme dieses alten Gebäudes ab und achten Sie beim Verlassen auf die besonders glatten Steinplatten im Außenbereich.",
+                "hu": "Zárja a sétát az ősi épület spirituális nyugalmában, a kijáratnál pedig ügyeljen a nedvességtől rendkívül csúszóssá váló külső kőlapokra és lépcsőkre.",
+                "ro": "Încheiați turul în liniștea spirituală a acestei clădiri vechi, având grijă la ieșire la plăcile de piatră care devin foarte alunecoase din cauza umidității.",
+                "en": "Conclude your walk in the spiritual warmth of this ancient building, and take extra care when leaving as the exterior stone slabs can be very slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt erfrischend im beheizten Museum. Mittags suchen Sie die Wärme der Kirche auf, bevor die tiefstehende Sonne den Mühlenteich in goldenes Licht taucht. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Burgbesichtigung am frühen Nachmittag planen. Der Abend klingt im Priorat aus, wenn die winterliche Dämmerung die Stadt in eine magische Stille hüllt.",
+            "hu": "A hűvös téli reggelt a fűtött múzeumban indítjuk, ahol kényelmesen kezdhetjük a napot. Délben a templom vastag falai között pihenünk, majd a tóparti sétánál élvezzük a korai naplementét. Mivel 17:00 körül sötétedik, a vár látogatását időzítsük kora délutánra. A napot a Monkton Priory misztikus félhomályában zárjuk, felkészülve a csípős esti tengeri szélre.",
+            "ro": "Dimineața rece de iarnă începe confortabil în muzeul încălzit. La prânz, vizitați biserica pentru o pauză ferită de vânt, apoi admirați iazul în lumina aurie a după-amiezii. Având în vedere că soarele apune în jur de ora 17:00, planificați vizita la castel devreme. Seara se încheie la priorie, când amurgul hibernal învăluie orașul într-o liniște aparte.",
+            "en": "Begin your crisp winter morning in the heated comfort of the museum. At noon, seek shelter from the wind in the church before enjoying the golden afternoon light at the pond. Since sunset is around 17:00, aim to visit the castle by early afternoon. The evening concludes at the priory as the winter dusk settles in, bringing a magical stillness to the historic streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pembroke Museum",
+                "hu": "Pembroke Múzeum",
+                "ro": "Muzeul Pembroke",
+                "en": "Pembroke Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die angenehme Wärme im Inneren und nehmen Sie sich Zeit für die Exponate, während die Wintersonne draußen noch tief am Horizont steht.",
+                "hu": "Élvezze a belső terek kellemes melegét, és szánjon időt a kiállításokra, amíg a téli nap odakint még csak alacsonyan jár a látóhatár felett.",
+                "ro": "Bucurați-vă de căldura interioară confortabilă și acordați timp exponatelor, în timp ce soarele de iarnă abia începe să urce pe cerul rece de afară.",
+                "en": "Enjoy the cozy indoor warmth and take your time with the exhibits while the winter sun is still low on the horizon during the early morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Marienkirche",
+                "hu": "Szűz Mária-templom",
+                "ro": "Biserica Sf. Maria",
+                "en": "St Mary's Church"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da die alten Steingemäuer im Winter kühl sein können, aber die friedliche Atmosphäre entschädigt für die frische Luft.",
+                "hu": "Öltözzön rétegesen, mert az ősi kőfalak télen hűvösek lehetnek, de a templom békéje és a korai fények látványa kárpótolja majd a látogatót.",
+                "ro": "Îmbrăcați-vă în straturi, deoarece zidurile vechi de piatră pot fi reci iarna, însă atmosfera pașnică și lumina discretă merită din plin efortul.",
+                "en": "Dress in warm layers as the ancient stone walls can be quite chilly in winter, though the peaceful atmosphere and soft light are well worth the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühlenteich",
+                "hu": "Malomtó",
+                "ro": "Iazul Morii",
+                "en": "Mill Pond"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die heimischen Wintervögel auf dem Wasser und genießen Sie das klare, frostige Panorama der Burg, das sich im ruhigen Teich spiegelt.",
+                "hu": "Figyelje meg a vízen telelő madarakat, és élvezze a vár tiszta, fagyos panorámáját, amely ilyenkor élesen tükröződik a tó mozdulatlan felszínén.",
+                "ro": "Observați păsările de iarnă pe apă și bucurați-vă de panorama clară și înghețată a castelului, care se oglindește perfect în suprafața calmă a iazului.",
+                "en": "Watch the local winter birds on the water and enjoy the crisp, frosty panorama of the castle reflected clearly in the still surface of the pond."
+              }
+            },
+            {
+              "name": {
+                "de": "Pembroke Castle",
+                "hu": "Pembroke vára",
+                "ro": "Castelul Pembroke",
+                "en": "Pembroke Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht vor 17:00 Uhr für Fotos von den Zinnen und wärmen Sie sich danach in den Ausstellungsräumen der Türme auf.",
+                "hu": "Használja ki az utolsó fényeket a 17:00 órai naplemente előtt a bástyákon, majd melegedjen fel a tornyokban kialakított belső kiállítóterekben.",
+                "ro": "Profitați de ultima lumină înainte de ora 17:00 pentru fotografii de pe metereze, apoi încălziți-vă în sălile de expoziție amenajate în interiorul turnurilor.",
+                "en": "Make the most of the daylight before the 17:00 sunset for photos from the battlements, then warm up inside the various tower exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkton Priory",
+                "hu": "Monkton Priory",
+                "ro": "Mănăstirea Monkton",
+                "en": "Monkton Priory"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die besondere Stimmung der frühen Dämmerung in diesem geschichtsträchtigen Bauwerk und achten Sie auf den frostigen Wind beim Rückweg.",
+                "hu": "Élje át a korai szürkület különleges hangulatát ebben a nagy múltú épületben, a visszaúton pedig készüljön fel a csípős, jeges tengeri szélre.",
+                "ro": "Experimentați atmosfera specială a amurgului timpuriu în această structură istorică, fiind pregătiți pentru vântul tăios de iarnă la întoarcere.",
+                "en": "Experience the special atmosphere of early dusk in this historic building, and be prepared for the biting winter wind on your walk back to the center."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Délelőtt: Kezdjen az ikonikus Pembroke váránál, amelyet egy gyors tekerés követ a Monkton Priory felé. Délben: Kerékpározzon a part felé, és látogassa meg a VC Galériát és a Zion Szabadegyházat. Délután: Merüljön el a haditengerészet történetében a Heritage Centre-ben. Este: Zárja a kerékpáros napot a vízpartra néző, történelmi Ágyútorony megtekintésével.",
         "ro": "Dimineața: Începeți la iconicul Castel Pembroke, urmat de o plimbare scurtă până la Mănăstirea Monkton. La prânz: Mergeți cu bicicleta spre coastă pentru a vizita Galeria VC și Biserica Liberă Zion. După-amiaza: Aprofundați istoria navală la Centrul de Patrimoniu Pembroke Dock. Seara: Încheiați ziua de ciclism la istoricul Turn de Artilerie, cu vedere la malul apei.",
         "en": "Morning: Begin at the iconic Pembroke Castle, followed by a quick ride to Monkton Priory. Midday: Cycle towards the coast to visit the cultural VC Gallery and the Zion Free Church. Afternoon: Dive deep into naval history at the Pembroke Dock Heritage Centre. Evening: End your cycling day at the historic Gun Tower overlooking the waterfront."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet diese Radtour viel Schutz durch Museen und Galerien. Starten Sie an der Burg, wo Sie die erste Schauerwelle abwarten können. Die Fahrt zum Dock führt über nasse Straßen, also bremsen Sie vorsichtig. Mittags und nachmittags bieten die VC Gallery und das Heritage Centre trockene Pausen. Der Tag endet am Gun Tower, wo der Wind den Regen peitschen kann – Regenkleidung ist Pflicht.",
+            "hu": "A kerékpáros túra az esőben is élvezhető a sok fedett megállóknak köszönhetően. A várban kezdünk, ahol kivárhatjuk az intenzívebb záporokat. A kikötő felé vezető úton óvatosan kanyarodjunk a nedves aszfalton. Délben a galéria, délután pedig az örökségvédelmi központ nyújt száraz pihenőt. A napot az Ágyútoronynál zárjuk, ahol a szél felerősítheti az esőt, így a jó esőkabát elengedhetetlen.",
+            "ro": "Turul cu bicicleta pe ploaie este fezabil datorită numeroaselor opriri în interior. Începeți la castel, unde puteți aștepta trecerea ploilor torențiale. Drumul spre docuri necesită prudență pe asfaltul umed. La prânz și după-amiază, galeria și centrul de patrimoniu oferă pauze uscate. Ziua se termină la Turnul de Artilerie, unde vântul poate intensifica ploaia; pelerina este obligatorie.",
+            "en": "This bike tour remains enjoyable in the rain thanks to several indoor stops. Start at the castle, where you can wait out the heaviest showers. The ride toward the docks requires caution on wet roads, so brake early. Midday and afternoon visits to the gallery and heritage centre provide dry breaks. End at the Gun Tower, where the wind can whip the rain—high-quality waterproof gear is essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pembroke Castle",
+                "hu": "Pembroke vára",
+                "ro": "Castelul Pembroke",
+                "en": "Pembroke Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie die überdachten Torhäuser, um die Burgbesichtigung trotz des Regens in vollen Zügen zu genießen.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és használja a fedett kapubástyákat, hogy az eső ellenére is teljes mértékben élvezhesse a vár felfedezését.",
+                "ro": "Parcați bicicleta în siguranță și folosiți porțile acoperite pentru a vă bucura de explorarea castelului, rămânând protejați de precipitații.",
+                "en": "Park your bike securely and use the covered gatehouses to enjoy your castle exploration to the fullest while staying protected from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkton Priory",
+                "hu": "Monkton Priory",
+                "ro": "Mănăstirea Monkton",
+                "en": "Monkton Priory"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im trockenen Kirchenschiff hilft Ihnen, sich aufzuwärmen, bevor Sie die Fahrt über die nassen Straßen in Richtung Norden fortsetzen.",
+                "hu": "Egy rövid megálló a száraz templomhajóban segít felfrissülni és megszáradni, mielőtt folytatná az utat észak felé a nedves, csúszós aszfalton.",
+                "ro": "O scurtă oprire în naosul uscat al bisericii vă va ajuta să vă încălziți înainte de a continua drumul spre nord pe șoselele umede și alunecoase.",
+                "en": "A brief stop in the dry nave will help you warm up and dry off before continuing your ride northwards along the wet and potentially slick roads."
+              }
+            },
+            {
+              "name": {
+                "de": "VC Gallery",
+                "hu": "VC Galéria",
+                "ro": "Galeria VC",
+                "en": "VC Gallery"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger in der Galerie, um die lokale Kunst zu bewundern, während draußen ein Regenschauer vorbeizieht – ein perfekter Ort für eine Pause.",
+                "hu": "Időzzön többet a galéria falai között a helyi művészetet csodálva, amíg odakint elvonul egy zápor; ez a helyszín tökéletes menedék a bicikliseknek.",
+                "ro": "Petreceți mai mult timp în galerie admirând arta locală în timp ce afară trece o aversă de ploaie; este locul perfect pentru o pauză uscată.",
+                "en": "Spend extra time admiring the local art inside the gallery while a rain shower passes; this venue is a perfect dry haven for cyclists on a wet day."
+              }
+            },
+            {
+              "name": {
+                "de": "Zion Free Church",
+                "hu": "Zion Szabadegyház",
+                "ro": "Biserica Liberă Zion",
+                "en": "Zion Free Church"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Regen besonders markant; nutzen Sie den Eingangsbereich für einen kurzen Check Ihrer Ausrüstung vor dem nächsten Etappenziel.",
+                "hu": "Az épület látványa esőben is lenyűgöző; használja a bejárat környékét a felszerelése gyors ellenőrzésére, mielőtt nekivágna a következő szakasznak.",
+                "ro": "Arhitectura bisericii este impunătoare chiar și pe ploaie; folosiți zona intrării pentru a vă verifica rapid echipamentul înainte de următoarea etapă.",
+                "en": "The building's architecture is striking even in the rain; use the entrance area for a quick gear check before heading to your next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Pembroke Dock Heritage Centre",
+                "hu": "Pembroke Dock Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu Pembroke Dock",
+                "en": "Pembroke Dock Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist ideal für Regentage; tauchen Sie tief in die Luftfahrtgeschichte ein, während Ihr Fahrrad draußen im Regen steht.",
+                "hu": "Ez a központ ideális menedék esős időben; merüljön el a repüléstörténeti érdekességekben, amíg odakint szakad az eső, és pihentesse a lábait.",
+                "ro": "Acest centru este refugiul ideal pe timp de ploaie; explorați istoria aviației în timp ce vă odihniți picioarele într-un mediu cald și uscat.",
+                "en": "This centre is an ideal rainy-day refuge; immerse yourself in aviation history while taking a long, dry break from the cycling in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Gun Tower",
+                "hu": "Ágyútorony",
+                "ro": "Turnul de Artilerie",
+                "en": "Gun Tower"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Abstieg zum Turm, da die Wege am Wasser rutschig sein können; genießen Sie den dramatischen Blick auf das stürmische Meer.",
+                "hu": "Legyen óvatos a toronyhoz vezető lejtőn, mert a vízparti utak csúszósak lehetnek; élvezze a viharos tenger látványát a masszív falak tövéből.",
+                "ro": "Atenție la coborârea spre turn, deoarece drumurile de pe mal pot fi alunecoase; admirați marea agitată de la adăpostul acestor ziduri masive.",
+                "en": "Be careful on the descent to the tower as the waterside paths can be slippery; enjoy the dramatic view of the stormy sea from the massive walls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Handschuhe gegen den Fahrtwind. Morgens an der Burg ist die Luft klar und frisch. Mittags bieten das Monkton Priorat und die VC Gallery nötige Aufwärmpausen. Beachten Sie den frühen Sonnenuntergang um 17:00 Uhr – planen Sie den Besuch des Heritage Centre so, dass Sie den Gun Tower noch vor Einbruch der Dunkelheit erreichen, um die winterliche Küstenlandschaft sicher zu genießen.",
+            "hu": "A téli kerékpározáshoz elengedhetetlen a jó kesztyű a hideg menetszél ellen. Reggel a várnál a levegő friss és tiszta. Napközben a priorság és a galéria kínál lehetőséget a felmelegedésre. Ügyeljen a korai, 17:00 körüli sötétedésre: időzítse úgy a programot, hogy az Ágyútoronyhoz még világosban érjen el, elkerülve a fagyos esti szürkületben való biciklizést.",
+            "ro": "O tură cu bicicleta iarna necesită mănuși groase împotriva vântului rece. Dimineața la castel, aerul este proaspăt și clar. În timpul zilei, prioria și galeria oferă pauze necesare pentru încălzire. Atenție la apusul devreme, în jur de ora 17:00; planificați vizita la turn cât încă este lumină, pentru a evita pedalatul în amurgul înghețat.",
+            "en": "Winter cycling requires warm gloves against the biting wind. Start your morning at the castle in the crisp, fresh air. During the day, the priory and gallery offer much-needed warming breaks. Keep in mind the early sunset around 17:00—plan your visit so you reach the Gun Tower while it is still light to enjoy the coastal views safely before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pembroke Castle",
+                "hu": "Pembroke vára",
+                "ro": "Castelul Pembroke",
+                "en": "Pembroke Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den klaren Blick von den Türmen und bewegen Sie sich viel, um trotz der winterlichen Kälte auf dem Radweg warm zu bleiben.",
+                "hu": "Élvezze a tiszta kilátást a tornyokból, és mozogjon sokat a várfalakon, hogy a téli hideg ellenére is fenntartsa testhőmérsékletét a túra előtt.",
+                "ro": "Bucurați-vă de vederea clară din turnuri și faceți mișcare pe zidurile castelului pentru a vă menține căldura corporală înainte de a porni la drum.",
+                "en": "Enjoy the clear views from the towers and keep moving along the battlements to maintain your body heat despite the winter chill before cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkton Priory",
+                "hu": "Monkton Priory",
+                "ro": "Mănăstirea Monkton",
+                "en": "Monkton Priory"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen ruhigen Ort für eine kurze Rast im Windschatten der alten Mauern, bevor Sie die Fahrt durch die offene Winterlandschaft fortsetzen.",
+                "hu": "Használja ki ezt a nyugodt helyszínt egy rövid pihenőre az ősi falak szélárnyékában, mielőtt folytatná útját a nyíltabb, szelesebb szakaszokon.",
+                "ro": "Folosiți acest loc liniștit pentru un scurt popas la adăpostul zidurilor vechi, înainte de a continua drumul prin peisajul hibernal deschis.",
+                "en": "Utilize this peaceful location for a short rest in the lee of the ancient walls before continuing your ride through the open winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "VC Gallery",
+                "hu": "VC Galéria",
+                "ro": "Galeria VC",
+                "en": "VC Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die beheizte Galerie ist der ideale Ort, um die Hände aufzuwärmen und gleichzeitig die lebendige lokale Kunstszene in aller Ruhe zu bewundern.",
+                "hu": "A fűtött galéria ideális hely a kezek felmelegítésére, miközben nyugodt körülmények között csodálhatja meg a helyi művészeti élet alkotásait.",
+                "ro": "Galeria încălzită este locul ideal pentru a vă încălzi mâinile în timp ce admirați pe îndelete creațiile scenei artistice locale vibrante.",
+                "en": "The heated gallery is the ideal spot to warm your hands while admiring the vibrant local art scene in a comfortable and cozy environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Zion Free Church",
+                "hu": "Zion Szabadegyház",
+                "ro": "Biserica Liberă Zion",
+                "en": "Zion Free Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelles Glatteis auf dem Vorplatz und bewundern Sie die scharfen Kontraste des Bauwerks im klaren Winterlicht.",
+                "hu": "Ügyeljen az esetleges jegesedésre a bejárat előtti téren, és csodálja meg az épület éles kontúrjait a tiszta, hideg téli napfényben.",
+                "ro": "Atenție la posibila gheață de pe platoul din față și admirați contrastele puternice ale clădirii în lumina clară și rece a iernii.",
+                "en": "Watch out for potential ice on the church forecourt and admire the building's sharp contrasts in the clear, cold winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Pembroke Dock Heritage Centre",
+                "hu": "Pembroke Dock Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu Pembroke Dock",
+                "en": "Pembroke Dock Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Aufwärmpause ein, da das Museum viel Platz und interessante Geschichten für den späten Winternachmittag bietet.",
+                "hu": "Tervezzen ide egy hosszabb melegedő szünetet, mivel a múzeum tágas terei és érdekes történetei tökéletesek a késő téli délutáni pihenőhöz.",
+                "ro": "Planificați aici o pauză mai lungă de încălzire, deoarece spațiile generoase ale muzeului sunt perfecte pentru o după-amiază târzie de iarnă.",
+                "en": "Plan a longer warming break here, as the museum's spacious interior and engaging stories are perfect for a late winter afternoon rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Gun Tower",
+                "hu": "Ágyútorony",
+                "ro": "Turnul de Artilerie",
+                "en": "Gun Tower"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang über dem Wasser zu sehen, und bereiten Sie sich auf den schnellen Temperatursturz danach vor.",
+                "hu": "Érkezzen meg 17:00 óra előtt, hogy lássa a naplementét a víz felett, és készüljön fel a napnyugta utáni hirtelen és jelentős lehűlésre.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea apusul peste apă și pregătiți-vă pentru scăderea bruscă a temperaturii imediat după aceea.",
+                "en": "Arrive before 17:00 to see the sunset over the water, and prepare yourself for the rapid and significant temperature drop that follows immediately after."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Délelőtt: Vezessen a történelmi Déli Rakparthoz, majd irány nyugat, a Pembroke Dock Heritage Centre felfedezésére. Délben: Térjen vissza a városközpontba, és sétáljon a fenséges Pembroke vár környékén. Délután: Látogassa meg a Szűz Mária-templomot, majd utazzon délre a Víztározó felé. Este: Zárja az autós túrát egy nyugodt, naplementés pihenővel a gyönyörű Mere-medencénél.",
         "ro": "Dimineața: Conduceți la istoricul Chei de Sud, apoi mergeți spre vest pentru a explora Centrul de Patrimoniu Pembroke Dock. La prânz: Întoarceți-vă în centrul orașului pentru a parca și a vizita majestuosul Castel Pembroke. După-amiaza: Vizitați Biserica Sf. Maria, apoi conduceți spre sud spre Rezervorul de Apă. Seara: Încheiați excursia cu o oprire liniștită la apus la Lacul Mere.",
         "en": "Morning: Drive to the historic South Quay, then head west to explore the Pembroke Dock Heritage Centre. Midday: Return to the town center to park and walk around the majestic Pembroke Castle. Afternoon: Visit St Mary's Church, then drive south out of town toward the Water Reservoir. Evening: Finish the road trip with a tranquil sunset stop at the beautiful Mere Pool."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour ist perfekt für Regenwetter, da Sie zwischen den Zielen im Trockenen sitzen. Beginnen Sie am South Quay, wo das Wasser im Regen besonders dramatisch wirkt. Mittags bietet das Heritage Centre ausgiebigen Schutz. Nachmittags besuchen Sie die Burg und die Kirche. Der Tag endet an den Seen, wo die Regentropfen auf der Wasseroberfläche ein beruhigendes Schauspiel bieten – gute Scheibenwischer sind hier wichtig.",
+            "hu": "Az autós túra ideális esőben, hiszen a megállók között szárazon utazhatunk. Kezdjük a napot a South Quay-nél, ahol az esőben kavargó víz látványa drámai. Délben az örökségvédelmi központ nyújt fedett kikapcsolódást. Délután a vár és a templom belső tereit fedezzük fel. A napot a tavaknál zárjuk, ahol az eső kopogása az autótetőn különleges hangulatot ad a tájnak.",
+            "ro": "Turul cu mașina este ideal pe ploaie, oferind confort între destinații. Începeți la South Quay, unde apa are un aspect dramatic sub ploaie. La prânz, centrul de patrimoniu oferă un adăpost generos. După-amiaza, explorați interiorul castelului și al bisericii. Ziua se încheie la lacuri, unde sunetul ploii pe plafonul mașinii completează atmosfera melancolică a peisajului.",
+            "en": "A car tour is perfect for rainy weather, keeping you dry between destinations. Start at South Quay, where the rain adds a dramatic feel to the harbour. At noon, the heritage centre offers extensive indoor shelter. In the afternoon, explore the castle and church interiors. The day concludes at the coastal pools, where the rhythmic sound of rain provides a cozy atmosphere within your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "South Quay",
+                "hu": "Déli Rakpart",
+                "ro": "Cheiul de Sud",
+                "en": "South Quay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Hafen direkt aus dem trockenen Auto, bevor Sie für einen kurzen, erfrischenden Spaziergang an der Kaimauer aussteigen.",
+                "hu": "Élvezze a kikötői kilátást közvetlenül a száraz autóból, mielőtt kiszállna egy rövid, frissítő sétára a vízparti mólón az esőben.",
+                "ro": "Bucurați-vă de vederea spre port direct din mașină, înainte de a coborî pentru o scurtă plimbare revigorantă pe faleză, sub protecția umbrelei.",
+                "en": "Enjoy the harbour views directly from the dry comfort of your car before stepping out for a short, refreshing walk along the quay wall in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pembroke Dock Heritage Centre",
+                "hu": "Pembroke Dock Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu Pembroke Dock",
+                "en": "Pembroke Dock Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und nehmen Sie sich viel Zeit für dieses große Indoor-Museum, während draußen die stärksten Regenschauer niedergehen.",
+                "hu": "Parkoljon a bejárat közelében, és szánjon bőven időt erre a tágas beltéri múzeumra, amíg odakint a legintenzívebb záporok tombolnak.",
+                "ro": "Parcați aproape de intrare și acordați mult timp acestui muzeu interior vast, în timp ce afară se desfășoară cele mai intense reprize de ploaie.",
+                "en": "Park close to the entrance and dedicate plenty of time to this large indoor museum while the heaviest rain showers pass by outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pembroke Castle",
+                "hu": "Pembroke vára",
+                "ro": "Castelul Pembroke",
+                "en": "Pembroke Castle"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Turmzimmer bieten hervorragenden Schutz; nutzen Sie die kurzen Regenpausen, um schnell über den Burghof zu den Ausstellungen zu gelangen.",
+                "hu": "A masszív toronyszobák kiváló védelmet nyújtanak; használja ki a rövid szüneteket a csapadékban, hogy átfusson a várudvaron a kiállításokhoz.",
+                "ro": "Sălile masive din turnuri oferă protecție excelentă; profitați de scurtele pauze de ploaie pentru a traversa rapid curtea spre spațiile expoziționale.",
+                "en": "The massive tower rooms offer excellent shelter; use short breaks in the rain to quickly move across the courtyard between the various exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Marienkirche",
+                "hu": "Szűz Mária-templom",
+                "ro": "Biserica Sf. Maria",
+                "en": "St Mary's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz in der Nähe, um trockenen Fußes in die Kirche zu gelangen und die ruhige, regensichere Atmosphäre im Inneren zu genießen.",
+                "hu": "Használja a közeli parkolót, hogy száraz lábbal juthasson be az épületbe, és élvezze a templomhajó csendes, esőtől védett, meghitt belső hangulatát.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge uscat în biserică și bucurați-vă de atmosfera liniștită și ferită de ploaie din interiorul naosului.",
+                "en": "Use the nearby parking to reach the church with dry feet and enjoy the quiet, rain-proof atmosphere within the beautifully preserved interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserreservoir",
+                "hu": "Víztározó",
+                "ro": "Rezervorul de Apă",
+                "en": "Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus bietet sich ein toller Blick auf die aufgewühlte Wasseroberfläche; achten Sie bei der Weiterfahrt auf Aquaplaning auf den Landstraßen.",
+                "hu": "Az autóból remek kilátás nyílik a felkavart vízfelszínre; a továbbhaladáskor ügyeljen a vízátfolyásokra és a csúszós utakra a vidéki szakaszokon.",
+                "ro": "Din mașină aveți o priveliște excelentă asupra apei agitate; fiți atenți la acvaplanare pe drumurile secundare în timp ce vă continuați drumul.",
+                "en": "The car provides a great viewpoint of the choppy water surface; watch out for aquaplaning on the rural roads as you continue your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Mere Pool",
+                "hu": "Mere-medence",
+                "ro": "Lacul Mere",
+                "en": "Mere Pool"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Wagen und beobachten Sie die Natur durch die Scheiben, während die Küstenlandschaft im Nebel versinkt.",
+                "hu": "Heves esőzés esetén maradjon az autóban, és figyelje a természetet az ablakokon keresztül, amíg a parti táj lassan ködbe vész a szürkületben.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și observați natura prin geamuri, în timp ce peisajul de coastă se pierde treptat în ceață.",
+                "en": "If the rain is heavy, stay inside your vehicle and observe the nature through the windows as the coastal landscape fades into the misty dusk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt am South Quay in der klaren Morgenluft. Das Heritage Centre und die Burg bieten tagsüber viel Wärme und Kultur. Da es bereits gegen 17:00 Uhr dunkel wird, sollten Sie die Fahrt zum Wasserreservoir und zum Mere Pool rechtzeitig antreten, um das letzte Tageslicht an der Küste zu nutzen. Der Tag endet im gemütlichen Auto, während Sie die frostige Landschaft sicher hinter Glas vorbeiziehen lassen.",
+            "hu": "A téli autós túrát a South Quay-nél kezdjük a friss, fagyos levegőben. Napközben az örökségvédelmi központ és a vár nyújt meleget és kulturális élményeket. Mivel 17:00 körül sötétedik, induljunk időben a víztározóhoz és a Mere-medencéhez, hogy még lássuk a parti fényeket. A napot a fűtött autó kényelmében zárjuk, biztonságban figyelve a lassan elcsendesedő, téli tájat.",
+            "ro": "Turul cu mașina iarna începe la South Quay în aerul proaspăt al dimineții. Centrul de patrimoniu și castelul oferă căldură și cultură pe parcursul zilei. Având în vedere apusul în jur de ora 17:00, porniți spre lacuri din timp pentru a prinde ultima lumină pe coastă. Ziua se încheie în confortul mașinii încălzite, admirând peisajul înghețat în siguranță de după geam.",
+            "en": "Start your winter car tour at South Quay in the crisp morning air. During the day, the heritage centre and castle provide warmth and indoor interest. Since it gets dark around 17:00, set off for the water reservoir and Mere Pool early enough to catch the final daylight on the coast. End your day safely in your heated car, watching the frosty scenery pass by from behind the glass."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "South Quay",
+                "hu": "Déli Rakpart",
+                "ro": "Cheiul de Sud",
+                "en": "South Quay"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den kurzen Fotostopps an der Kaimauer, um die klare Wintermorgenluft ohne Frieren zu genießen.",
+                "hu": "Használja az autó fűtését a rövid fotómegállók között a rakparton, hogy a tiszta téli reggeli levegőt fázás nélkül élvezhesse a vízparton.",
+                "ro": "Folosiți încălzirea mașinii între opririle scurte pentru fotografii pe faleză, pentru a vă bucura de aerul clar al dimineții fără a dârdâi de frig.",
+                "en": "Make good use of your car's heater between short photo stops at the quay to enjoy the crisp winter morning air without catching a chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Pembroke Dock Heritage Centre",
+                "hu": "Pembroke Dock Örökségvédelmi Központ",
+                "ro": "Centrul de Patrimoniu Pembroke Dock",
+                "en": "Pembroke Dock Heritage Centre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor und genießen Sie die warme Atmosphäre des Zentrums, das im Winter oft weniger überlaufen ist und mehr Ruhe bietet.",
+                "hu": "Parkoljon közvetlenül az épület előtt, és élvezze a központ meleg, barátságos légkörét, amely télen általában nyugodtabb és kevésbé zsúfolt.",
+                "ro": "Parcați chiar în față și bucurați-vă de atmosfera caldă a centrului, care iarna este de obicei mai puțin aglomerat și oferă mai multă liniște.",
+                "en": "Park right outside and enjoy the warm atmosphere of the centre, which is often less crowded in winter, allowing for a more peaceful visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Pembroke Castle",
+                "hu": "Pembroke vára",
+                "ro": "Castelul Pembroke",
+                "en": "Pembroke Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den frühen Einlassschluss im Winter und nutzen Sie die sonnigen Abschnitte für einen schnellen Rundgang auf den kühlen Zinnen.",
+                "hu": "Ügyeljen a korábbi téli zárásra, és használja ki a napsütéses időszakokat egy gyors sétára a hűvös várfalakon a panoráma kedvéért.",
+                "ro": "Fiți atenți la ora de închidere mai devreme pe timp de iarnă și profitați de perioadele cu soare pentru o plimbare scurtă pe meterezele reci.",
+                "en": "Be mindful of the earlier winter closing times and take advantage of any sunny spells for a quick walk along the chilly but scenic battlements."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Marienkirche",
+                "hu": "Szűz Mária-templom",
+                "ro": "Biserica Sf. Maria",
+                "en": "St Mary's Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, wenn das tiefe Sonnenlicht die bunten Fenster in besonders warmen Farben erstrahlen lässt.",
+                "hu": "Látogassa meg a templomot kora délután, amikor az alacsonyan járó téli nap különösen meleg és mély színekbe öltözteti a színes üvegablakokat.",
+                "ro": "Vizitați biserica la începutul după-amiezii, când lumina joasă a soarelui face ca vitraliile să strălucească în culori deosebit de calde.",
+                "en": "Visit the church in the early afternoon when the low winter sun makes the stained glass windows glow with particularly warm and deep colours."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserreservoir",
+                "hu": "Víztározó",
+                "ro": "Rezervorul de Apă",
+                "en": "Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die frostige Landschaft und achten Sie bei der Anfahrt auf glatte Stellen auf den schmalen Nebenstraßen.",
+                "hu": "Élvezze a tágas kilátást a fagyos tájra az autó ablakából, és az idevezető úton ügyeljen a jegesedésre a keskeny mellékutakon.",
+                "ro": "Bucurați-vă de vederea amplă asupra peisajului înghețat din mașină și fiți atenți la porțiunile cu polei de pe drumurile secundare înguste.",
+                "en": "Enjoy the expansive views of the frosty landscape from your car and be careful of icy patches on the narrow side roads leading to the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Mere Pool",
+                "hu": "Mere-medence",
+                "ro": "Lacul Mere",
+                "en": "Mere Pool"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17:00 Uhr an, um die winterliche Abenddämmerung am Meer zu erleben, bevor Sie die Heimreise im warmen Wagen antreten.",
+                "hu": "Érkezzen meg időben a 17:00 órai naplemente előtt, hogy lássa a téli alkonyt a parton, mielőtt elindulna hazafelé a fűtött autóban.",
+                "ro": "Ajungeți la timp înainte de ora 17:00 pentru a surprinde amurgul hibernal pe malul mării, înainte de a porni spre casă în mașina încălzită.",
+                "en": "Arrive well before the 17:00 sunset to experience the winter twilight by the sea before heading back in the comfort of your heated vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

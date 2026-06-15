@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Canéjan nyugodt központjában, ahol a festői városháza békés atmoszférát teremt a sétához. Sétáljon át a Saint-Jean templomhoz, hogy élvezze a csendet és a művészi részleteket. Dél körül a Centre Simone Signoret meghívja önt, hogy merüljön el a helyi kulturális színtérben és művészetben. A délután a történelem jegyében telik, amikor felfedezi az öreg malmot és a fenséges Château de Rouillac birtokát. Fejezze be a napot egy kellemes vacsorával, és gondolja végig ennek a bájos városnak az elegáns, kulturális és történelmi benyomásait.",
         "ro": "Începeți ziua în centrul liniștit din Canéjan, unde primăria pitorească creează o atmosferă pașnică. Plimbați-vă apoi spre Biserica Saint-Jean pentru a vă bucura de liniște și de detaliile arhitecturale. În jurul prânzului, Centre Simone Signoret vă invită să vă cufundați în scena culturală locală. După-amiaza este dedicată istoriei, explorând vechea moară și maiestuosul Château de Rouillac. Încheiați ziua cu o cină relaxantă și reflectați la impresiile elegante ale acestui oraș cu adevărat fermecător.",
         "en": "Start your day in the quiet center of Canéjan, where the picturesque town hall creates a peaceful atmosphere. Stroll to the Saint-Jean Church to enjoy the silence and the intricate architectural details. Around noon, the Centre Simone Signoret invites you to immerse yourself in the vibrant local cultural scene. The afternoon is dedicated to history as you explore the old mill and the majestic Château de Rouillac nearby. End your day with a relaxing dinner, perfectly reflecting on the elegant and truly charming impressions of this lovely French town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus, wo graue Wolken die modernen Linien betonen. Mittags bieten die Kirche und das Kulturzentrum sicheren Schutz vor dem Nieselregen. Nachmittags führt der Weg zur Rouillac-Mühle über potenziell rutschige Pfade; festes Schuhwerk ist ratsam. Der Abend klingt bei reflektierenden Lichtern auf dem nassen Asphalt aus, während wir den Tag trotz der Nässe ruhig beenden.",
+            "hu": "A reggel a városházánál indul, ahol a szürke égbolt kiemeli az épület modern vonalait. Délben a templom és a Simone Signoret központ nyújt menedéket a szemerkélő eső elől. Délután a Rouillac-malom felé vezető út a vízparton csúszós lehet, így óvatosan lépkedjünk. Az este a vizes aszfalton megcsillanó fények között telik, békésen zárva ezt a párás, de hangulatos sétát.",
+            "ro": "Dimineața începe la primărie, unde cerul gri scoate în evidență liniile moderne ale clădirii. La prânz, biserica și centrul Simone Signoret oferă refugiu împotriva burniței. După-amiaza, drumul spre moara Rouillac poate fi alunecos lângă apă; se recomandă încălțăminte aderentă. Seara se încheie printre luminile reflectate pe asfaltul umed, terminând plimbarea într-o notă calmă și melancolică.",
+            "en": "Morning begins at the Town Hall, where gray skies emphasize the modern architectural lines. At noon, the church and Simone Signoret center provide a dry sanctuary from the drizzle. In the afternoon, the path to Rouillac Mill may be slippery near the water, so watch your step. The evening concludes with city lights reflecting on wet pavement, ending our damp but peaceful journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Canéjan",
+                "hu": "Canéjan Városháza",
+                "ro": "Primăria Canéjan",
+                "en": "Canéjan Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um die moderne Architektur trocken zu bewundern; ein großer Regenschirm ist für den Weg zum nächsten Stopp unerlässlich.",
+                "hu": "Használja a fedett bejárati részt a modern építészet száraz megtekintéséhez; egy nagy esernyő elengedhetetlen a következő megállóig tartó rövid sétához.",
+                "ro": "Folosiți zona de intrare acoperită pentru a admira arhitectura modernă fără a vă uda; o umbrelă mare este esențială pentru scurta plimbare spre următoarea oprire.",
+                "en": "Use the covered entrance area to admire the modern architecture while staying dry; a large umbrella is essential for the short walk to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean",
+                "hu": "Saint-Jean Templom",
+                "ro": "Biserica Saint-Jean",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten perfekten Schutz vor Regen und Wind; genießen Sie die stille Atmosphäre im Inneren, während draußen die Tropfen gegen die Fenster klopfen.",
+                "hu": "A vastag falak tökéletes védelmet nyújtanak az eső és a szél elől; élvezze a benti csendes atmoszférát, miközben odakint az esőcseppek az ablakokon kopognak.",
+                "ro": "Zidurile groase oferă protecție perfectă împotriva ploii și vântului; bucurați-vă de atmosfera liniștită din interior în timp ce stropii bat în ferestrele vechi.",
+                "en": "The thick walls offer perfect protection from rain and wind; enjoy the quiet indoor atmosphere while raindrops drum against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Simone Signoret",
+                "hu": "Centre Simone Signoret",
+                "ro": "Centrul Simone Signoret",
+                "en": "Centre Simone Signoret"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort für eine längere Pause im Trockenen; erkunden Sie die Ausstellungen ausführlich, um den stärksten Regengüssen des Tages zu entgehen.",
+                "hu": "Ez az ideális hely egy hosszabb száraz szünethez; fedezze fel alaposan a kiállításokat, hogy elkerülje a nap leghevesebb esőzéseit a szabadban.",
+                "ro": "Acesta este locul ideal pentru o pauză lungă la adăpost; explorați expozițiile în detaliu pentru a evita cele mai puternice averse de ploaie ale zilei.",
+                "en": "This is the ideal spot for a long dry break; explore the exhibitions thoroughly to avoid the heaviest rain showers of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle von Rouillac",
+                "hu": "Rouillac Malom",
+                "ro": "Moara Rouillac",
+                "en": "Rouillac Mill"
+              },
+              "tip_5lang": {
+                "de": "Das Rauschen des Wassers ist im Regen besonders intensiv, aber der Uferweg ist schlammig; tragen Sie wasserfeste Wanderschuhe für einen sicheren Halt auf dem Pfad.",
+                "hu": "A víz zúgása esőben különösen intenzív, de a vízparti út sáros lehet; viseljen vízálló túrabakancsot a biztonságos haladás érdekében az ösvényen.",
+                "ro": "Sunetul apei este deosebit de intens pe ploaie, dar poteca de pe mal este noroioasă; purtați bocanci impermeabili pentru o aderență sigură pe drum.",
+                "en": "The sound of the water is especially intense in the rain, but the riverside path is muddy; wear waterproof hiking boots for a secure grip on the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rouillac",
+                "hu": "Rouillac Kastély",
+                "ro": "Castelul Rouillac",
+                "en": "Rouillac Castle"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steine wirken bei Nässe dunkler und mystischer; halten Sie sich unter den Bäumen auf und achten Sie auf Pfützen auf den gepflasterten Wegen.",
+                "hu": "A történelmi kövek nedvesen sötétebbnek és titokzatosabbnak tűnnek; maradjon a fák oltalma alatt, és ügyeljen a tócsákra a kövezett utakon.",
+                "ro": "Pietrele istorice par mai întunecate și mai mistice când sunt ude; rămâneți sub adăpostul copacilor și aveți grijă la bălțile de pe aleile pavate.",
+                "en": "The historic stones look darker and more mystical when wet; stay under the cover of trees and watch out for puddles on the paved paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt uns am Rathaus. Die klare Winterluft macht den Spaziergang erfrischend, erfordert aber warme Kleidung. Mittags wärmen wir uns im Kulturzentrum auf, bevor wir die historische Mühle besuchen. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das letzte Tageslicht am Schloss Rouillac, wo die kahlen Bäume eine fast märchenhafte Kulisse bilden.",
+            "hu": "Deres reggel köszönt minket a városházánál. A tiszta téli levegő frissítővé teszi a sétát, de réteges öltözet szükséges. Délben a kulturális központban melegszünk fel, mielőtt a történelmi malomhoz indulnunk. Mivel a nap már 17:00 körül lemegy, az utolsó fényeket a Rouillac-kastélynál használjuk ki, ahol a kopár fák mesebeli hátteret nyújtanak.",
+            "ro": "O dimineață geroasă ne întâmpină la primărie. Aerul curat de iarnă face plimbarea revigorantă, dar necesită haine groase. La prânz ne încălzim în centrul cultural înainte de a vizita moara istorică. Deoarece soarele apune deja în jurul orei 17:00, profităm de ultima lumină la castelul Rouillac, unde copacii golași creează un decor de basm.",
+            "en": "A frosty morning greets us at the Town Hall. The crisp winter air makes the walk refreshing, but warm layers are essential. At noon, we warm up in the cultural center before heading to the historic mill. Since the sun sets around 5:00 PM, we catch the last daylight at Rouillac Castle, where the bare trees create a hauntingly beautiful winter backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Canéjan",
+                "hu": "Canéjan Városháza",
+                "ro": "Primăria Canéjan",
+                "en": "Canéjan Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Raureif auf den modernen Metallstrukturen am frühen Morgen; tragen Sie Thermohandschuhe, da der Wind hier auf dem offenen Platz recht beißen kann.",
+                "hu": "Csodálja meg a zúzmarát a modern fémszerkezeteken kora reggel; viseljen termokesztyűt, mert a szél ezen a nyitott téren elég metsző lehet.",
+                "ro": "Admirați chiciura de pe structurile metalice moderne dimineața devreme; purtați mănuși termice, deoarece vântul poate fi tăios aici, în piața deschisă.",
+                "en": "Admire the hoarfrost on the modern metal structures early in the morning; wear thermal gloves as the wind can be quite biting here in the open plaza."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean",
+                "hu": "Saint-Jean Templom",
+                "ro": "Biserica Saint-Jean",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche bietet einen windgeschützten Ort der Stille; nutzen Sie die Zeit zur inneren Einkehr, während die tiefstehende Wintersonne durch die Fenster scheint.",
+                "hu": "A templom belseje szélvédett, csendes helyet kínál; használja az időt elmélyülésre, miközben az alacsonyan járó téli nap besüt az ablakokon.",
+                "ro": "Interiorul bisericii oferă un loc liniștit și ferit de vânt; folosiți timpul pentru reflexie în timp ce soarele jos de iarnă pătrunde prin ferestre.",
+                "en": "The church interior offers a wind-sheltered spot of silence; use this time for reflection as the low-hanging winter sun shines through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Simone Signoret",
+                "hu": "Centre Simone Signoret",
+                "ro": "Centrul Simone Signoret",
+                "en": "Centre Simone Signoret"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um die Kälte für eine Weile zu vergessen; genießen Sie die geheizten Räume und die kulturelle Vielfalt, bevor es wieder nach draußen geht.",
+                "hu": "Ez a tökéletes hely, hogy egy időre elfelejtse a hideget; élvezze a fűtött termeket és a kulturális sokszínűséget, mielőtt újra kimerészkedne a szabadba.",
+                "ro": "Acesta este locul perfect pentru a uita de frig pentru o vreme; bucurați-vă de sălile încălzite și de diversitatea culturală înainte de a ieși din nou afară.",
+                "en": "This is the perfect place to forget the cold for a while; enjoy the heated rooms and cultural variety before heading back out into the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle von Rouillac",
+                "hu": "Rouillac Malom",
+                "ro": "Moara Rouillac",
+                "en": "Rouillac Mill"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser des Eau Bourde wirkt im Winter fast schwarz und bildet einen starken Kontrast zum Frost; achten Sie auf vereiste Stellen auf den schattigen Wegen.",
+                "hu": "Az Eau Bourde vize télen szinte feketének tűnik, erős kontrasztot alkotva a dérrel; ügyeljen a jeges foltokra az árnyékos ösvényeken.",
+                "ro": "Apa râului Eau Bourde pare aproape neagră iarna, creând un contrast puternic cu bruma; aveți grijă la porțiunile înghețate de pe potecile umbrite.",
+                "en": "The water of the Eau Bourde looks almost black in winter, creating a sharp contrast with the frost; watch out for icy patches on the shaded paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rouillac",
+                "hu": "Rouillac Kastély",
+                "ro": "Castelul Rouillac",
+                "en": "Rouillac Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss vor 16:30 Uhr, um das goldene Licht der Dämmerung auf den Mauern zu sehen; die klare Luft bietet fantastische Fotomöglichkeiten.",
+                "hu": "Látogasson el a kastélyhoz 16:30 előtt, hogy lássa az alkonyat arany fényeit a falakon; a tiszta levegő fantasztikus fotózási lehetőségeket kínál.",
+                "ro": "Vizitați castelul înainte de ora 16:30 pentru a vedea lumina aurie a amurgului pe ziduri; aerul curat oferă oportunități fantastice pentru fotografii.",
+                "en": "Visit the castle before 4:30 PM to see the golden twilight light on the walls; the clear air provides fantastic photo opportunities."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Pattanjon kerékpárra, és induljon a városházától, mielőtt a Centre Simone Signoret kulturális központjába látogatna a reggeli órákban. Az út továbbvezet a történelmi Moulin de Rouillac felé, amelynek varázsa azonnal elragadja. Délben a szőlőültetvényeken keresztül tekerjen a Château de Rouillac felé, amely tökéletes hely egy hosszabb pihenőre. Délután fedezze fel a hagyományos kézművességet a La Poterie műhelyben, és fejezze be a túrát az idillikus Lavoir de Chartrèze-nél. Élvezze a naplementét a visszaúton, és érezze a régió lágy, frissítő szellőjét.",
         "ro": "Urcați pe bicicletă și începeți de la primărie, înainte de a vizita Centre Simone Signoret pentru o doză matinală de cultură. Călătoria vă poartă mai departe spre istorica Moulin de Rouillac, al cărei farmec vă va captiva. La prânz, pedalați prin podgorii spre Château de Rouillac, locul perfect pentru o pauză. După-amiaza, descoperiți măiestria tradițională la La Poterie și încheiați turul la idilicul Lavoir de Chartrèze. Bucurați-vă de apusul soarelui la întoarcere și simțiți briza blândă specifică întregii regiuni pitorești.",
         "en": "Hop on your bike and start at the town hall before visiting the Centre Simone Signoret for a wonderful morning dose of culture. The ride takes you further to the historic Moulin de Rouillac, whose charm will captivate you. At noon, cycle through the lovely vineyards to Château de Rouillac, a perfect place for a longer break. In the afternoon, discover traditional craftsmanship at La Poterie and end the tour at the idyllic Lavoir de Chartrèze. Enjoy the beautiful sunset on the way back and feel the gentle, refreshing breeze of the region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet am Rathaus unter bewölktem Himmel. Der Regen macht die Wege rutschig, besonders auf Kopfsteinpflaster und Laub. Mittags suchen wir Schutz im Kulturzentrum und verlängern den Aufenthalt, bis der Schauer nachlässt. Nachmittags radeln wir vorsichtig zur Töpferei, wobei Schutzbleche heute Gold wert sind. Den Tag beenden wir zügig, bevor die Abenddämmerung einsetzt.",
+            "hu": "A kerékpártúra a városházánál indul felhős ég alatt. Az eső csúszóssá teszi az utakat, különösen a macskakövön és a leveleken. Délben a kulturális központban keresünk menedéket, és addig maradunk, amíg a zápor elül. Délután óvatosan tekerünk a fazekasműhely felé; a sárvédő ma aranyat ér. A napot gyorsan zárjuk, még az esti szürkület beállta előtt.",
+            "ro": "Turul cu bicicleta începe la primărie sub un cer înnorat. Ploaia face drumurile alunecoase, mai ales pe pavaj și frunze. La prânz căutăm adăpost în centrul cultural și prelungim șederea până când ploaia se domolește. După-amiaza pedalăm cu atenție spre atelierul de olărit; apărătorile de noroi sunt esențiale astăzi. Încheiem ziua rapid înainte de lăsarea serii.",
+            "en": "The bike tour starts at the Town Hall under overcast skies. Rain makes the paths slick, especially on cobblestones and wet leaves. At noon, we seek shelter in the cultural center and stay until the downpour eases. In the afternoon, we cycle carefully to the pottery workshop; fenders are a lifesaver today. We wrap up the day quickly before the evening dusk sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Canéjan",
+                "hu": "Canéjan Városháza",
+                "ro": "Primăria Canéjan",
+                "en": "Canéjan Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf dem nassen Asphalt; nutzen Sie den modernen Vorplatz für einen letzten wetterfesten Kleidungscheck.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes aszfalton; használja a modern előteret egy utolsó vízálló ruházat-ellenőrzésre.",
+                "ro": "Verificați frânele înainte de plecare pe asfaltul umed; folosiți esplanada modernă pentru o ultimă verificare a echipamentului impermeabil.",
+                "en": "Check your brakes before setting off on the wet asphalt; use the modern forecourt for a final waterproof gear check."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Simone Signoret",
+                "hu": "Centre Simone Signoret",
+                "ro": "Centrul Simone Signoret",
+                "en": "Centre Simone Signoret"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Pause, um im Trockenen neue Energie zu tanken und die Ausstellungen zu bewundern.",
+                "hu": "Parkolja le a kerékpárt védett helyen, és használja a szünetet a száraz helyen való feltöltődésre és a kiállítások megtekintésére.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți pauza pentru a vă reîncărca bateriile la adăpost și pentru a admira expozițiile.",
+                "en": "Park your bike in a sheltered spot and use the break to recharge in the dry while admiring the indoor exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle von Rouillac",
+                "hu": "Rouillac Malom",
+                "ro": "Moara Rouillac",
+                "en": "Rouillac Mill"
+              },
+              "tip_5lang": {
+                "de": "Der Weg entlang der Eau Bourde kann sehr matschig sein; fahren Sie langsam und vorausschauend, um ein Wegrutschen der Reifen zu vermeiden.",
+                "hu": "Az Eau Bourde menti út nagyon sáros lehet; tekerjen lassan és előrelátóan, hogy elkerülje a kerekek megcsúszását a nedves talajon.",
+                "ro": "Drumul de-a lungul râului Eau Bourde poate fi foarte noroios; pedalați încet și cu atenție pentru a evita deraparea roților pe solul ud.",
+                "en": "The path along the Eau Bourde can be very muddy; ride slowly and anticipate turns to prevent your tires from slipping on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rouillac",
+                "hu": "Rouillac Kastély",
+                "ro": "Castelul Rouillac",
+                "en": "Rouillac Castle"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem dichten Blätterdach Schutz, falls es stärker regnet; die nassen Schlossmauern bieten eine dramatische Kulisse für Fotos.",
+                "hu": "Keressen menedéket a sűrű lombozat alatt, ha fokozódik az eső; a nedves kastélyfalak drámai hátteret biztosítanak a fotókhoz.",
+                "ro": "Căutați adăpost sub coronamentul des al copacilor dacă ploaia se întețește; zidurile umede ale castelului oferă un decor dramatic pentru poze.",
+                "en": "Seek cover under the dense tree canopy if the rain intensifies; the wet castle walls provide a dramatic backdrop for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Töpferei La Poterie",
+                "hu": "La Poterie Fazekasműhely",
+                "ro": "Atelierul de olărit La Poterie",
+                "en": "La Poterie Pottery"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Atelier ist die perfekte regenfreie Beschäftigung; beobachten Sie das Handwerk und wärmen Sie sich in der kreativen Atmosphäre auf.",
+                "hu": "A műhelylátogatás tökéletes esőmentes program; figyelje meg a mesterséget és melegedjen fel a kreatív alkotói légkörben.",
+                "ro": "O vizită la atelier este activitatea perfectă fără ploaie; observați meșteșugul și încălziți-vă în atmosfera creativă de interior.",
+                "en": "A visit to the workshop is the perfect rain-free activity; observe the craft and warm up in the creative indoor atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Waschhaus Chartrèze",
+                "hu": "Chartrèze Mosóház",
+                "ro": "Spălătoria Chartrèze",
+                "en": "Chartrèze Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Das alte Dach bietet immer noch guten Schutz; stellen Sie Ihr Rad unter und genießen Sie das Rauschen des Regens auf den Ziegeln.",
+                "hu": "A régi tető még mindig jó védelmet nyújt; állítsa be a bringát az eresz alá, és élvezze az eső kopogását a cseréptetőn.",
+                "ro": "Acoperișul vechi oferă încă o protecție bună; adăpostiți bicicleta și bucurați-vă de sunetul ploii care bate în țiglele istorice.",
+                "en": "The old roof still provides good protection; park your bike underneath and enjoy the sound of the rain hitting the historic tiles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Rathaus erfordert warme Handschuhe und dicke Socken. Die Wintersonne steht tief und blendet beim Radfahren auf den offenen Wegen. Mittags verbringen wir viel Zeit im Kulturzentrum und in der Töpferei, um uns aufzuwärmen. Da es bereits gegen 17:00 Uhr dunkel wird, planen wir die letzte Etappe zum Waschhaus sorgfältig, um bei Tageslicht anzukommen.",
+            "hu": "A jeges kezdés a városházánál meleg kesztyűt és vastag zoknit igényel. A téli nap alacsonyan jár, és vakíthat tekerés közben a nyílt szakaszokon. Délben sok időt töltünk a kulturális központban és a fazekasműhelyben, hogy átmelegedjünk. Mivel már 17:00 körül sötétedik, az utolsó szakaszt a mosóházhoz gondosan tervezzük, hogy még világosban odaérjünk.",
+            "ro": "Un început înghețat la primărie necesită mănuși groase și șosete de lână. Soarele de iarnă stă jos și poate fi orbitor în timp ce pedalați pe drumurile deschise. La prânz petrecem mult timp în centrul cultural și la atelierul de olărit pentru a ne încălzi. Deoarece se întunecă deja în jurul orei 17:00, planificăm ultima etapă cu atenție.",
+            "en": "A frosty start at the Town Hall requires warm gloves and thick socks. The winter sun hangs low, which can be blinding while cycling on open paths. At noon, we spend ample time in the cultural center and pottery workshop to thaw out. Since darkness falls around 5:00 PM, we plan the final stretch to the washhouse carefully to arrive in daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Canéjan",
+                "hu": "Canéjan Városháza",
+                "ro": "Primăria Canéjan",
+                "en": "Canéjan Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Glätte auf dem Vorplatz; starten Sie langsam, um Ihre Muskeln bei den niedrigen Temperaturen langsam aufzuwärmen.",
+                "hu": "Ügyeljen az esetleges jegesedésre az előtéren; kezdjen lassan tekeri, hogy az izmai fokozatosan bemelegedjenek az alacsony hőmérsékleten.",
+                "ro": "Aveți grijă la eventualul polei de pe esplanadă; începeți să pedalați încet pentru a vă încălzi treptat mușchii la temperaturile scăzute.",
+                "en": "Watch out for potential icy patches on the forecourt; start cycling slowly to allow your muscles to warm up gradually in the low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Simone Signoret",
+                "hu": "Centre Simone Signoret",
+                "ro": "Centrul Simone Signoret",
+                "en": "Centre Simone Signoret"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt im geheizten Innenraum, um Ihre Glieder zu lockern; die kulturellen Exponate bieten eine willkommene Abwechslung zur Kälte draußen.",
+                "hu": "Használja ki a fűtött belső térben töltött időt a végtagjai átmozgatására; a kulturális kiállítások kellemes változatosságot nyújtanak a kinti hideg után.",
+                "ro": "Profitați de timpul petrecut în interiorul încălzit pentru a vă dezmorți membrele; exponatele culturale oferă o pauză binevenită de la frigul de afară.",
+                "en": "Take advantage of the time in the heated interior to loosen your limbs; the cultural exhibits offer a welcome change of pace from the chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mühle von Rouillac",
+                "hu": "Rouillac Malom",
+                "ro": "Moara Rouillac",
+                "en": "Rouillac Mill"
+              },
+              "tip_5lang": {
+                "de": "Der schattige Waldweg kann deutlich kälter sein als der Rest der Strecke; halten Sie Ihr Tempo konstant, um nicht auszukühlen.",
+                "hu": "Az árnyékos erdei út jelentősen hidegebb lehet a szakasz többi részénél; tartsa egyenletesen a tempót, hogy ne hűljön ki a teste.",
+                "ro": "Drumul forestier umbrit poate fi considerabil mai rece decât restul traseului; mențineți un ritm constant pentru a nu vă răci corpul prea tare.",
+                "en": "The shaded forest path can be significantly colder than the rest of the route; keep a steady pace to prevent your body temperature from dropping."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rouillac",
+                "hu": "Rouillac Kastély",
+                "ro": "Castelul Rouillac",
+                "en": "Rouillac Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der frostigen Parkanlage; die klaren Strukturen des Schlosses kommen im Winterlicht besonders gut zur Geltung.",
+                "hu": "Élvezze a deres park látványát; a kastély tiszta szerkezeti vonalai a téli fényben különösen jól érvényesülnek és fotózhatók.",
+                "ro": "Bucurați-vă de vederea parcului acoperit de brumă; structura clară a castelului este evidențiată frumos de lumina tăioasă a iernii.",
+                "en": "Enjoy the view of the frost-covered parkland; the clear structural lines of the castle are beautifully highlighted by the sharp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Töpferei La Poterie",
+                "hu": "La Poterie Fazekasműhely",
+                "ro": "Atelierul de olărit La Poterie",
+                "en": "La Poterie Pottery"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme des Brennofens ist im Winter besonders einladend; nehmen Sie sich Zeit, das Handwerk zu beobachten und die Hände aufzuwärmen.",
+                "hu": "Az égetőkemence melege télen különösen hívogató; szánjon időt a mesterség megfigyelésére és a kezei átmelegítésére a műhelyben.",
+                "ro": "Căldura cuptorului de ars ceramică este deosebit de primitoare iarna; faceți-vă timp să observați meșteșugul și să vă încălziți mâinile.",
+                "en": "The heat from the kiln is especially inviting in winter; take your time to observe the craft and warm your hands in the cozy workshop."
+              }
+            },
+            {
+              "name": {
+                "de": "Waschhaus Chartrèze",
+                "hu": "Chartrèze Mosóház",
+                "ro": "Spălătoria Chartrèze",
+                "en": "Chartrèze Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Da das Tageslicht schwindet, achten Sie auf funktionierende Fahrradlichter; der Frost am Wasser macht den Boden rund um das Waschhaus extrem rutschig.",
+                "hu": "Mivel a nappali fény fogy, ügyeljen a kerékpárlámpák működésére; a vízparti fagy miatt a talaj a mosóház körül rendkívül csúszós lehet.",
+                "ro": "Pe măsură ce lumina zilei scade, asigurați-vă că luminile bicicletei funcționează; înghețul de lângă apă face solul din jurul spălătoriei extrem de alunecos.",
+                "en": "As daylight fades, ensure your bike lights are working; the frost near the water makes the ground around the washhouse extremely slippery."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autós túra a természetben kezdődik a Bassin du Bourgailh-nál, egy békés madárparadicsomban, ahol nagyszerűen fellélegezhet. Ezután a Château de Rouillac felé veszi az irányt, hogy megcsodálja a lenyűgöző borászati építészetet. Ebédidőben parkoljon le a központban, nézze meg a városházát, és sétáljon el a történelmi Saint-Jean templomhoz. A délután az impozáns Lestonat kastélyhoz viszi, majd a nap a régi Lavoir de Chartrèze-nél ér véget. Ez az útvonal tökéletes egyensúlyt kínál a természet, a történelem és a kultúra között.",
         "ro": "Turul cu mașina începe relaxant în natură la Bassin du Bourgailh, un paradis pașnic al păsărilor perfect pentru a respira aer curat. Apoi conduceți la Château de Rouillac pentru a admira arhitectura viticolă impresionantă. La prânz, parcați în centru, vizitați primăria și faceți o plimbare spre biserica istorică Saint-Jean. După-amiaza vă aduce la magnificul castel Lestonat, urmat de un final liniștit la vechiul Lavoir de Chartrèze. Acest traseu auto vă oferă cu siguranță un echilibru perfect între natură, istorie și cultură.",
         "en": "Your car tour begins beautifully in nature at the Bassin du Bourgailh, a peaceful bird paradise perfect for taking a deep breath. Then drive to Château de Rouillac to admire the impressive regional wine architecture. At lunchtime, park in the center, visit the lovely town hall, and stroll to the historic Saint-Jean church. The afternoon takes you to the magnificent Lestonat castle, followed by a quiet and peaceful finish at the old Lavoir de Chartrèze. This driving route perfectly offers a fantastic balance of nature, rich history, and local culture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Canéjan bequem vom trockenen Innenraum aus. Der Morgen am Bourgailh-Becken zeigt eine dramatische Wolkenstimmung über dem Wasser. Mittags parken wir direkt vor der Kirche und dem Rathaus, um die Laufwege im Regen kurz zu halten. Nachmittags genießen wir die Fahrt durch die verregnete Landschaft zu den Schlössern, während die Scheibenwischer den Rhythmus vorgeben.",
+            "hu": "Autóval kényelmesen, a száraz utastérből fedezzük fel Canéjan környékét. A reggel a Bourgailh-tározónál drámai felhőket mutat a víz felett. Délben közvetlenül a templom és a városháza előtt parkolunk, hogy minimalizáljuk az esőben megtett sétát. Délután az ablaktörlők ütemére élvezzük az autózást az eső áztatta tájon a kastélyok felé.",
+            "ro": "Cu mașina explorăm Canéjan confortabil din interiorul uscat. Dimineața la bazinul Bourgailh oferă o atmosferă dramatică cu nori deasupra apei. La prânz parcăm direct în fața bisericii și a primăriei pentru a scurta drumul prin ploaie. După-amiaza ne bucurăm de drumul prin peisajul plouat spre castele, în timp ce ștergătoarele dau ritmul călătoriei.",
+            "en": "By car, we explore Canéjan comfortably from the dry interior. Morning at the Bourgailh basin reveals dramatic cloud formations over the water. At noon, we park directly in front of the church and Town Hall to minimize walking in the rain. In the afternoon, we enjoy the drive through the rain-soaked landscape towards the castles, with wipers setting the pace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rückhaltebecken Bourgailh",
+                "hu": "Bourgailh Víztározó",
+                "ro": "Bazinul Bourgailh",
+                "en": "Bourgailh Retention Basin"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf der Wasseroberfläche vom Parkplatz aus; ein kurzer Gang zum Ufer lohnt sich nur mit einer wetterfesten Jacke.",
+                "hu": "Figyelje a víztükrön kopogó esőcseppeket a parkolóból; egy rövid séta a parthoz csak vízálló kabátban éri meg igazán a látvány miatt.",
+                "ro": "Observați picăturile de ploaie pe suprafața apei din parcare; o scurtă plimbare până la mal merită doar dacă aveți o jachetă impermeabilă.",
+                "en": "Observe the raindrops hitting the water surface from the parking lot; a short walk to the shore is only worth it if you have a waterproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rouillac",
+                "hu": "Rouillac Kastély",
+                "ro": "Castelul Rouillac",
+                "en": "Rouillac Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter den Bäumen, um beim Aussteigen geschützt zu sein; das Schloss wirkt im grauen Regenlicht besonders erhaben und geschichtsträchtig.",
+                "hu": "Parkoljon a fák alá, hogy védve legyen kiszálláskor; a kastély a szürke esős fényben különösen fenségesnek és történelminek hat.",
+                "ro": "Parcați sub copaci pentru a fi protejat la coborâre; castelul pare deosebit de maiestuos și plin de istorie în lumina cenușie a ploii.",
+                "en": "Park under the trees to stay sheltered when getting out; the castle looks particularly majestic and historic in the gray rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Canéjan",
+                "hu": "Canéjan Városháza",
+                "ro": "Primăria Canéjan",
+                "en": "Canéjan Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kurzzeitparkplätze direkt am Gebäude; die moderne Architektur lässt sich auch gut durch die Windschutzscheibe bewundern.",
+                "hu": "Használja ki az épület melletti rövid idejű parkolóhelyeket; a modern építészetet az autó szélvédőjén keresztül is jól meg lehet csodálni.",
+                "ro": "Folosiți locurile de parcare pe termen scurt direct de lângă clădire; arhitectura modernă poate fi admirată bine și prin parbrizul mașinii.",
+                "en": "Take advantage of the short-term parking spaces directly by the building; the modern architecture can also be admired through the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean",
+                "hu": "Saint-Jean Templom",
+                "ro": "Biserica Saint-Jean",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um dem Regen für eine Weile ganz zu entkommen; der Weg vom Parkplatz zum Kircheneingang ist kurz und meist windgeschützt.",
+                "hu": "Ideális megálló, hogy egy időre teljesen elmeneküljön az eső elől; a parkolóból a templombejáratig vezető út rövid és többnyire szélvédett.",
+                "ro": "O oprire ideală pentru a scăpa complet de ploaie pentru o vreme; drumul de la parcare la intrarea în biserică este scurt și ferit de vânt.",
+                "en": "An ideal stop to escape the rain entirely for a while; the path from the parking lot to the church entrance is short and mostly sheltered."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Lestonat",
+                "hu": "Lestonat Kastély",
+                "ro": "Castelul Lestonat",
+                "en": "Lestonat Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Schloss bietet auch im Regen schöne Ausblicke; bleiben Sie im Wagen, falls es gießt, und genießen Sie die herrschaftliche Atmosphäre.",
+                "hu": "A kastélyhoz vezető út esőben is szép kilátást nyújt; maradjon a kocsiban, ha szakad az eső, és élvezze az úri környezet hangulatát.",
+                "ro": "Aleea spre castel oferă vederi frumoase chiar și pe ploaie; rămâneți în mașină dacă plouă torențial și bucurați-vă de atmosfera boierească.",
+                "en": "The approach to the castle offers beautiful views even in the rain; stay in the car if it pours and enjoy the stately atmosphere from within."
+              }
+            },
+            {
+              "name": {
+                "de": "Waschhaus Chartrèze",
+                "hu": "Chartrèze Mosóház",
+                "ro": "Spălătoria Chartrèze",
+                "en": "Chartrèze Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Einparken auf weichen Boden am Straßenrand; das Waschhaus ist ein schöner letzter Stopp, der auch bei Schmuddelwetter Charme besitzt.",
+                "hu": "Parkoláskor ügyeljen a puha talajra az út szélén; a mosóház remek utolsó állomás, amely borús időben is megőrzi különleges báját.",
+                "ro": "Aveți grijă la solul moale de pe marginea drumului când parcați; spălătoria este o ultimă oprire frumoasă, care are farmec și pe vreme rea.",
+                "en": "Watch out for soft ground at the roadside when parking; the washhouse is a lovely final stop that retains its charm even in dismal weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der Sitzheizung starten wir entspannt in den frostigen Morgen am Bourgailh-Becken. Die Fahrt durch das winterliche Canéjan bietet weite Ausblicke durch die kahlen Baumreihen. Mittags nutzen wir die Wärme des Autos zwischen den Besichtigungen der Schlösser und der Kirche. Da die Sonne früh untergeht, genießen wir das goldene Licht der blauen Stunde am Waschhaus, bevor die Kälte anzieht.",
+            "hu": "Az ülésfűtésnek köszönhetően kényelmesen indul a jeges reggel a Bourgailh-tározónál. A téli Canéjanon át vezető autózás során tiszta kilátás nyílik a kopár fasorok között. Délben kihasználjuk az autó melegét a kastélyok és a templom megtekintése között. Mivel a nap korán nyugszik, a mosóháznál élvezzük az alkonyat fényeit, mielőtt beállna az igazi éjszakai fagy.",
+            "ro": "Datorită încălzirii în scaune, începem relaxați dimineața geroasă la bazinul Bourgailh. Drumul prin Canéjanul iernatic oferă vederi largi printre rândurile de copaci golași. La prânz profităm de căldura mașinii între vizitele la castele și biserică. Deoarece soarele apune devreme, ne bucurăm de lumina aurie la spălătorie înainte ca gerul să se întețească.",
+            "en": "Thanks to heated seats, we start the frosty morning at the Bourgailh basin in total comfort. Driving through wintery Canéjan offers expansive views through the bare treelines. At noon, we appreciate the car's warmth between visiting the castles and the church. Since the sun sets early, we enjoy the golden hour light at the washhouse before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rückhaltebecken Bourgailh",
+                "hu": "Bourgailh Víztározó",
+                "ro": "Bazinul Bourgailh",
+                "en": "Bourgailh Retention Basin"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Uferlandschaft ist am frühen Morgen ein Muss für Fotografen; stellen Sie die Heizung hoch, bevor Sie für einen kurzen Fotostopp aussteigen.",
+                "hu": "A deres vízparti táj kora reggel kötelező látvány a fotósoknak; tekerje fel a fűtést, mielőtt kiszállna egy rövid fotószünetre a hidegben.",
+                "ro": "Peisajul înghețat de pe mal este obligatoriu pentru fotografi dimineața devreme; dați căldura mai tare înainte de a coborî pentru o scurtă oprire foto.",
+                "en": "The frosty lakeside landscape is a must-see for photographers early in the morning; turn up the heat before hopping out for a quick photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Rouillac",
+                "hu": "Rouillac Kastély",
+                "ro": "Castelul Rouillac",
+                "en": "Rouillac Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im klaren Winterlicht besonders detailreich; nutzen Sie den Parkplatz direkt am Eingang, um die Zeit an der kalten Luft zu minimieren.",
+                "hu": "A kastély a tiszta téli fényben különösen részletgazdagnak tűnik; használja a közvetlen bejárat melletti parkolót, hogy minimalizálja a kinti tartózkodást.",
+                "ro": "Castelul pare deosebit de bogat în detalii în lumina clară de iarnă; folosiți parcarea de lângă intrare pentru a minimiza timpul petrecut în aerul rece.",
+                "en": "The castle looks particularly detailed in the clear winter light; use the parking lot right at the entrance to minimize your time in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Canéjan",
+                "hu": "Canéjan Városháza",
+                "ro": "Primăria Canéjan",
+                "en": "Canéjan Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrierende Nässe auf den Parkflächen; die modernen Glasfronten reflektieren das tiefe Sonnenlicht der Wintermonate auf beeindruckende Weise.",
+                "hu": "Ügyeljen a fagyott foltokra a parkolóhelyeken; a modern üvegfelületek lenyűgöző módon tükrözik vissza a téli hónapok alacsony napfényét.",
+                "ro": "Aveți grijă la gheața de pe suprafețele de parcare; fațadele moderne de sticlă reflectă spectaculos lumina soarelui jos din lunile de iarnă.",
+                "en": "Watch out for freezing moisture on the parking surfaces; the modern glass fronts reflect the low winter sunlight in an impressive way."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean",
+                "hu": "Saint-Jean Templom",
+                "ro": "Biserica Saint-Jean",
+                "en": "Saint-Jean Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern speichern die Kälte; ein kurzer Besuch reicht aus, um die Atmosphäre zu spüren, bevor man sich im Auto wieder aufwärmt.",
+                "hu": "A vastag kőfalak tartják a hideget; egy rövid látogatás is elég, hogy átérezze a hangulatot, mielőtt az autóban újra felmelegedne.",
+                "ro": "Zidurile groase de piatră rețin frigul; o vizită scurtă este suficientă pentru a simți atmosfera înainte de a vă reîncălzi în mașină.",
+                "en": "The thick stone walls retain the cold; a short visit is enough to soak in the atmosphere before warming up again in your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Lestonat",
+                "hu": "Lestonat Kastély",
+                "ro": "Castelul Lestonat",
+                "en": "Lestonat Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Weinreben in der Umgebung bieten eine grafische Ästhetik; genießen Sie den Anblick der historischen Anlage bequem aus dem warmen Wagen.",
+                "hu": "A környező kopár szőlőtőkék grafikus esztétikát nyújtanak; élvezze a történelmi épületegyüttes látványát kényelmesen, a meleg autóból.",
+                "ro": "Vița de vie golașă din jur oferă o estetică grafică deosebită; bucurați-vă de vederea complexului istoric confortabil, din mașina caldă.",
+                "en": "The bare grapevines in the surrounding area offer a graphic aesthetic; enjoy the view of the historic estate comfortably from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Waschhaus Chartrèze",
+                "hu": "Chartrèze Mosóház",
+                "ro": "Spălătoria Chartrèze",
+                "en": "Chartrèze Washhouse"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor Sonnenuntergang um 17:00 Uhr; das schwindende Licht auf dem gefrorenen Wasser ist ein magischer Abschluss der Tour.",
+                "hu": "Látogasson el ide közvetlenül naplemente előtt, 17:00 körül; a fogyatkozó fény a fagyott vízen mágikus lezárása a mai autós túrának.",
+                "ro": "Vizitați acest loc chiar înainte de apusul soarelui la ora 17:00; lumina care scade pe apa înghețată este un final magic al turului de astăzi.",
+                "en": "Visit this spot just before sunset at 5:00 PM; the fading light on the frozen water is a magical conclusion to your winter driving tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

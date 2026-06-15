@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a lenyűgöző Bila Tourkobasile megcsodálásával, majd merüljön el az árkádiai történelemben a Régészeti Múzeumban.\n\nDélben váltson az ókorból a modern konfliktusok korára a magával ragadó Hadtörténeti Múzeumban.\n\nDélután pihenjen meg a Theatraki Skakieras kulturális csomópontjában, élvezve a nyitott teret és a helyi hangulatot.\n\nSétáját késő délután Kosztasz Kariotakisz költő történelmi házánál fejezze be, elmerengve Tripoli gazdag irodalmi örökségén.",
         "ro": "Începeți dimineața admirând grandioasa Bila Tourkobasile, înainte de a vă scufunda în istoria arcadiană la Muzeul Arheologic.\n\nLa prânz, faceți tranziția de la antichitate la conflictele moderne la captivantul Muzeu al Războiului.\n\nDupă-amiaza, relaxați-vă la centrul cultural Theatraki Skakieras, bucurându-vă de spațiul deschis și de atmosfera locală.\n\nÎncheiați turul pietonal după-amiaza târziu la casa istorică a poetului Kostas Karyotakis, reflectând asupra moștenirii literare a orașului Tripoli.",
         "en": "Start your morning admiring the grand Bila Tourkobasile before heading to the Archaeological Museum for a deep dive into Arcadian history.\n\nBy midday, transition from ancient times to modern conflicts at the captivating War Museum.\n\nIn the afternoon, relax at the cultural hub of Theatraki Skakieras, enjoying the open space and local atmosphere.\n\nConclude your walking tour in the late afternoon at the historic house of poet Kostas Karyotakis, reflecting on Tripoli's literary heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens empfängt Sie Tripolis mit leichtem Nieselregen; starten Sie mit festem Schuhwerk und Regenschirm am historischen Turm. Mittags bieten die Museen ideale Zufluchtsorte vor stärkeren Güssen. Nachmittags glänzen die neoklassizistischen Gassen im Regen; Vorsicht auf glattem Pflaster. Abends laden gemütliche Cafés zum Aufwärmen ein, während draußen die Lichter in den Pfützen schimmern.",
+            "hu": "Reggel Tripoli szemerkélő esővel fogad; kezdje a sétát vízálló cipőben és esernyővel a történelmi toronynál. Délben a múzeumok nyújtanak tökéletes menedéket a záporok elől a belvárosban. Délután a vizes aszfalton tükröződnek a patinás épületek homlokzatai; vigyázzon a csúszós járdákra. Este egy közeli kávézóban melegedhetünk fel, figyelve az ablakon lecsorgó esőcseppeket.",
+            "ro": "Dimineața, Tripoli vă întâmpină cu o ploaie ușoară; începeți plimbarea cu încălțăminte impermeabilă și umbrelă la turnul istoric. La prânz, muzeele oferă refugiul ideal împotriva averselor mai puternice. După-amiaza, străzile neoclasice strălucesc în ploaie; atenție la pavajul alunecos. Seara, cafenelele primitoare vă așteaptă să vă încălziți în timp ce luminile se reflectă în bălți.",
+            "en": "Morning greets you with a soft drizzle; start your walk at the historic tower with waterproof shoes and an umbrella. At noon, the local museums offer perfect sanctuaries from heavier showers. In the afternoon, the neoclassical streets glisten in the rain; watch your step on the slick pavement. In the evening, cozy cafes invite you to warm up as city lights reflect in the puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bila Tourkobasile",
+                "hu": "Bila Tourkobasile",
+                "ro": "Bila Tourkobasile",
+                "en": "Bila Tourkobasile"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Turm unter Ihrem Schirm; die nassen Steinmauern wirken im Regen dunkler und dramatischer, achten Sie aber auf die Pfützen am Boden.",
+                "hu": "Csodálja meg a tornyot esernyő alól; a nedves kőfalak sötétebbnek és drámaibbnak tűnnek az esőben, de ügyeljen a lába elé a környező tócsák miatt.",
+                "ro": "Admirați turnul de sub umbrelă; zidurile de piatră umede par mai întunecate și mai dramatice în ploaie, dar fiți atenți la bălțile de pe sol.",
+                "en": "Admire the tower from under your umbrella; the wet stone walls look darker and more dramatic in the rain, but watch out for the puddles on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Tripolis",
+                "hu": "Tripoli Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Tripoli",
+                "en": "Archaeological Museum of Tripoli"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort vor dem Regen; erkunden Sie die neolithischen Funde in den trockenen Galerien und nutzen Sie den Garderobenbereich für nasses Equipment.",
+                "hu": "Tökéletes menedék az eső elől; fedezze fel a neolitikus leleteket a száraz tárlatokon, és használja a ruhatárat a vizes kabátok és esernyők számára.",
+                "ro": "Refugiul perfect împotriva ploii; explorați vestigiile neolitice în galerii uscate și folosiți garderoba pentru echipamentul ud de ploaie.",
+                "en": "A perfect refuge from the rain; explore the Neolithic finds in the dry galleries and use the cloakroom area for your wet rain equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegsmuseum Tripolis",
+                "hu": "Tripoli Hadtörténeti Múzeuma",
+                "ro": "Muzeul Războiului din Tripoli",
+                "en": "War museum of Tripoli"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer exzellenter Indoor-Stopp; betrachten Sie historische Uniformen, während der Regen gegen die Fenster prasselt, und bleiben Sie dabei völlig trocken.",
+                "hu": "Újabb kiváló fedett helyszín; tekintse meg a történelmi egyenruhákat, miközben az eső az ablakon kopog, Ön pedig teljesen szárazon maradhat.",
+                "ro": "O altă oprire excelentă în interior; vedeți uniformele istorice în timp ce ploaia bate în ferestre, rămânând în același timp complet uscat.",
+                "en": "Another excellent indoor stop; view historical uniforms while the rain taps against the windows, staying completely dry throughout your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatraki Skakieras",
+                "hu": "Theatraki Skakieras",
+                "ro": "Theatraki Skakieras",
+                "en": "Theatraki Skakieras"
+              },
+              "tip_5lang": {
+                "de": "Dieses Freilufttheater ist bei Nässe sehr rutschig; halten Sie sich an den Handläufen fest, wenn Sie die geometrischen Muster aus der Nähe betrachten.",
+                "hu": "Ez a szabadtéri színház vizesen nagyon csúszós; kapaszkodjon meg a korlátokban, ha közelebbről is megnézné a geometriai mintákat a kövezeten.",
+                "ro": "Acest teatru în aer liber este foarte alunecos când este ud; țineți-vă de balustrade dacă doriți să vedeți de aproape modelele geometrice.",
+                "en": "This open-air theater is very slippery when wet; hold onto the handrails if you want to look at the geometric patterns on the stone closely."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Dichters Kostas Karyotakis",
+                "hu": "Kosztasz Kariotakisz költő háza",
+                "ro": "Casa poetului Kostas Karyotakis",
+                "en": "Oikia poiete Kosta Karuotake"
+              },
+              "tip_5lang": {
+                "de": "Die neoklassizistische Fassade spiegelt sich wunderschön in den Pfützen; machen Sie ein schnelles Foto und suchen Sie dann Schutz in einem Café in der Nähe.",
+                "hu": "A neoklasszicista homlokzat gyönyörűen tükröződik a tócsákban; készítsen egy gyors fotót, majd keressen menedéket a közeli kávézók egyikében.",
+                "ro": "Fațada neoclasică se reflectă frumos în bălți; faceți o fotografie rapidă și apoi căutați adăpost într-o cafenea din apropiere.",
+                "en": "The neoclassical facade reflects beautifully in the puddles; take a quick photo and then seek shelter in one of the many nearby cafes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen erwartet Sie; kleiden Sie sich im Zwiebelprinzip für den Spaziergang durch das winterliche Tripolis. Mittags bieten die beheizten Museen angenehme Wärme und kulturelle Tiefe. Nachmittags sinkt die Sonne bereits gegen 17:00 Uhr und taucht die Stadt in blaues Licht. Abends funkeln die Lichter am Hauptplatz besonders hell, während die Bergluft frostig klar wird.",
+            "hu": "Hűvös reggel várja; öltözzön rétegesen a téli Tripoli utcáin tett sétához. Délben a fűtött múzeumok kellemes meleget és kulturális elmélyülést kínálnak a látogatóknak. Délután a nap már délután öt körül lebukik, kékesszürke fénybe vonva a várost. Este a főtér fényei különösen fényesen ragyognak, miközben a hegyi levegő fagyosra fordul.",
+            "ro": "O dimineață răcoroasă vă așteaptă; îmbrăcați-vă în straturi pentru plimbarea prin Tripoli în timpul iernii. La prânz, muzeele încălzite oferă căldură plăcută și profunzime culturală. După-amiaza, soarele apune deja în jurul orei 17:00, scufundând orașul într-o lumină albastră. Seara, luminile din piața centrală strălucesc intens, în timp ce aerul devine înghețat.",
+            "en": "A chilly morning awaits; dress in layers for your walk through winter Tripoli. At noon, the heated museums provide pleasant warmth and cultural depth for visitors. In the afternoon, the sun sets as early as 17:00, dipping the city into a soft blue light. In the evening, the lights of the main square sparkle brightly while the mountain air turns frostily clear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bila Tourkobasile",
+                "hu": "Bila Tourkobasile",
+                "ro": "Bila Tourkobasile",
+                "en": "Bila Tourkobasile"
+              },
+              "tip_5lang": {
+                "de": "Der Turm steht einsam in der kalten Winterluft; tragen Sie Handschuhe, da der Wind in diesem offenen Bereich oft besonders schneidend und kühl weht.",
+                "hu": "A torony magányosan áll a hideg téli levegőben; viseljen kesztyűt, mert a szél ezen a nyitott részen gyakran metszően és fagyosan fúj.",
+                "ro": "Turnul stă singuratic în aerul rece de iarnă; purtați mănuși, deoarece vântul în această zonă deschisă suflă adesea tăios și înghețat.",
+                "en": "The tower stands solitary in the cold winter air; wear gloves as the wind in this open area often blows piercingly and frostily."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Tripolis",
+                "hu": "Tripoli Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Tripoli",
+                "en": "Archaeological Museum of Tripoli"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gut beheizten Galerien, während Sie antike Statuen bewundern; ein perfekter Ort, um sich zwischen den Spaziergängen aufzuwärmen.",
+                "hu": "Élvezze a jól fűtött galériákat az antik szobrok megcsodálása közben; tökéletes hely a felmelegedésre a városi séták közötti szünetben.",
+                "ro": "Bucurați-vă de galeriile bine încălzite în timp ce admirați statuile antice; un loc perfect pentru a vă încălzi între plimbările prin oraș.",
+                "en": "Enjoy the well-heated galleries while admiring ancient statues; a perfect place to warm up during a break between your city walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegsmuseum Tripolis",
+                "hu": "Tripoli Hadtörténeti Múzeuma",
+                "ro": "Muzeul Războiului din Tripoli",
+                "en": "War museum of Tripoli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das behagliche Innenklima, um mehr über die griechische Geschichte zu erfahren, und entfliehen Sie für eine Weile der winterlichen Kälte.",
+                "hu": "Használja ki a barátságos belső klímát a görög történelem megismeréséhez, és meneküljön el egy időre a kinti téli hideg elől.",
+                "ro": "Profitați de climatul interior confortabil pentru a învăța despre istoria Greciei și evadați pentru o vreme de frigul iernii de afară.",
+                "en": "Take advantage of the cozy indoor climate to learn about Greek history and escape the winter cold outside for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatraki Skakieras",
+                "hu": "Theatraki Skakieras",
+                "ro": "Theatraki Skakieras",
+                "en": "Theatraki Skakieras"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen sind im Winter eiskalt; setzen Sie sich nicht hin, sondern genießen Sie das klare, scharfe Licht auf der markanten Architektur.",
+                "hu": "A kőlépcsők télen jéghidegek; ne üljön le rájuk, inkább élvezze a tiszta, éles téli fényt a különleges építészeti struktúrán.",
+                "ro": "Treptele de piatră sunt înghețate iarna; nu vă așezați, ci bucurați-vă de lumina clară și rece de iarnă pe structura arhitecturală.",
+                "en": "The stone steps are ice-cold in winter; do not sit down, but instead enjoy the clear, sharp winter light on the unique architectural structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Dichters Kostas Karyotakis",
+                "hu": "Kosztasz Kariotakisz költő háza",
+                "ro": "Casa poetului Kostas Karyotakis",
+                "en": "Oikia poiete Kosta Karuotake"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus in der frühen Dämmerung; die gelbe Beleuchtung verleiht dem neoklassizistischen Gebäude eine besonders melancholische Note.",
+                "hu": "Látogasson el a házhoz a kora esti szürkületben; a sárgás világítás különlegesen melankolikus hangulatot kölcsönöz a neoklasszicista épületnek.",
+                "ro": "Vizitați casa în amurgul serii; iluminarea galbenă conferă clădirii neoclasice o notă deosebit de melancolică în aerul rece.",
+                "en": "Visit the house in the early twilight; the yellow lighting lends the neoclassical building a particularly melancholic touch in the cold air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli kerékpározás a zenei csarnoknál kezdődik, mielőtt a lenyűgöző Bila Tourkobasile felé tekernénk.\n\nDélben felfedezheti Kosztasz Kariotakisz költő egykori otthonát, és megpihenhet a Theatraki Skakieras nyitott terén.\n\nDélután tekerjen az elesett árkádiaiak megható emlékművéhez, hogy lerója tiszteletét a hősök előtt.\n\nÚtja gyönyörűen zárul a Kathisma Kolokotrone történelmi helyszínén, megkoronázva egy kultúrában és mozgásban gazdag napot.",
         "ro": "Plimbarea de dimineață cu bicicleta începe la sala de muzică, înainte de a pedala spre impresionanta Bila Tourkobasile.\n\nLa prânz explorați fosta reședință a poetului Kostas Karyotakis și vă odihniți la spațiosul Theatraki Skakieras.\n\nDupă-amiaza, mergeți spre monumentul sobru al arcadienilor căzuți pentru a vă aduce omagiul.\n\nCălătoria se încheie frumos la Kathisma Kolokotrone, încheind o zi bogată atât în cultură, cât și în mișcare.",
         "en": "Your morning cycling begins at the musical hall before pedaling to the striking Bila Tourkobasile.\n\nMidday sees you exploring the former residence of poet Kostas Karyotakis and resting at the open Theatraki Skakieras.\n\nIn the afternoon, ride towards the sobering monument of the fallen Arcadians to pay your respects.\n\nYour journey concludes beautifully at Kathisma Kolokotrone, wrapping up a day rich in both culture and cycling."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start für Ihre Radtour; achten Sie auf Schutzbleche und fahren Sie vorsichtig auf dem rutschigen Asphalt an der Kulturhalle. Mittags bieten Museen lange Pausen zum Trocknen, während die Schauer über die Stadt ziehen. Nachmittags ist die feuchte Bergluft erfrischend, aber die Sicht kann durch Nebel eingeschränkt sein. Beenden Sie die Fahrt vor Sonnenuntergang, da nasse Straßen im Dunkeln tückisch sind.",
+            "hu": "Vizes kezdés a kerékpártúrához; ügyeljen a sárvédőkre és haladjon óvatosan a csúszós aszfalton a rendezvényteremnél. Délben a múzeumok hosszú szüneteket kínálnak a megszáradáshoz, amíg a záporok átvonulnak a város felett. Délután a nedves hegyi levegő frissítő, de a köd miatt a látási viszonyok korlátozottak lehetnek. Fejezze be a tekerést sötétedés előtt a veszélyes utak miatt.",
+            "ro": "Un început umed pentru turul cu bicicleta; asigurați-vă că aveți aripi de protecție și circulați cu atenție pe asfaltul alunecos de la sala culturală. La prânz, muzeele oferă pauze lungi pentru uscare în timp ce aversele trec peste oraș. După-amiaza, aerul umed de munte este revigorant, dar vizibilitatea poate fi redusă de ceață. Terminați cursa înainte de apus din cauza drumurilor periculoase.",
+            "en": "A wet start for your cycling tour; ensure you have mudguards and ride carefully on the slippery asphalt near the cultural hall. At noon, museums offer long breaks to dry off while showers pass over the city. In the afternoon, the damp mountain air is refreshing, but visibility may be limited by mist. Finish your ride before sunset as wet roads can be treacherous in low light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturhalle der Musikschule Tripolis",
+                "hu": "Tripoli Zeneiskola Rendezvényterme",
+                "ro": "Sala Școlii de Muzică din Tripoli",
+                "en": "Aithousa Ekdeloseon Mousikou Skholeiou Tripoles"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Eingangsbereich; genießen Sie das kulturelle Ambiente im Trockenen, bevor Sie die Fahrt durch den Regen fortsetzen.",
+                "hu": "Parkolja le kerékpárját a fedett bejáratnál; élvezze a kulturális környezetet a szárazban, mielőtt folytatná útját az esőben.",
+                "ro": "Parcați bicicleta în zona de intrare acoperită; bucurați-vă de ambianța culturală la adăpost înainte de a continua drumul prin ploaie.",
+                "en": "Park your bike in the covered entrance area; enjoy the cultural atmosphere indoors before continuing your ride through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bila Tourkobasile",
+                "hu": "Bila Tourkobasile",
+                "ro": "Bila Tourkobasile",
+                "en": "Bila Tourkobasile"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier völlig aus; der Boden um den Turm kann sehr matschig werden, halten Sie Ihr Rad auf den befestigten Wegen.",
+                "hu": "Egy rövid fotómegálló itt bőven elegendő; a torony körüli talaj nagyon sáros lehet, tartsa a kerékpárt a szilárd burkolatú utakon.",
+                "ro": "O scurtă oprire pentru poze este suficientă aici; terenul din jurul turnului poate deveni noroios, păstrați bicicleta pe potecile pavate.",
+                "en": "A short photo stop is plenty here; the ground around the tower can get very muddy, so keep your bike on the paved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Dichters Kostas Karyotakis",
+                "hu": "Kosztasz Kariotakisz költő háza",
+                "ro": "Casa poetului Kostas Karyotakis",
+                "en": "Oikia poiete Kosta Karuotake"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße vor dem Haus ist bei Regen rutschig; steigen Sie kurz ab, um das Gebäude sicher zu betrachten und Fotos zu machen.",
+                "hu": "A ház előtti keskeny utca esőben csúszós; szálljon le rövid időre a nyeregből, hogy biztonságosan megnézhesse az épületet és fotózhasson.",
+                "ro": "Strada îngustă din fața casei este alunecoasă pe ploaie; coborâți scurt de pe bicicletă pentru a vedea clădirea în siguranță și a face poze.",
+                "en": "The narrow street in front of the house is slippery in the rain; dismount briefly to view the building safely and take your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatraki Skakieras",
+                "hu": "Theatraki Skakieras",
+                "ro": "Theatraki Skakieras",
+                "en": "Theatraki Skakieras"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stufen nicht als Sitzplatz, da der Stein Wasser saugt; ein kurzer Blick auf die Architektur im Vorbeifahren genügt heute.",
+                "hu": "Ne használja a lépcsőket ülőhelynek, mert a kő felszívja a vizet; egy gyors pillantás az építészetre menet közben ma éppen elég.",
+                "ro": "Nu folosiți treptele ca loc de șezut, deoarece piatra absoarbe apa; o privire rapidă la arhitectură din mers este suficientă astăzi.",
+                "en": "Do not use the steps as a seat as the stone absorbs water; a quick glance at the architecture while passing by is enough for today."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der gefallenen Arkadier 1940-1941",
+                "hu": "Az 1940-1941-ben elesett árkádiaiak emlékműve",
+                "ro": "Monumentul arcadienilor căzuți în 1940-1941",
+                "en": "Mnemeio pesonton Arkadon epikheireseon 1940-1941"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt unter grauem Himmel besonders würdevoll; achten Sie beim Anfahren auf die Fahrbahnbelagswechsel, die glatt sein können.",
+                "hu": "Az emlékmű különösen méltóságteljes a szürke ég alatt; figyeljen oda a burkolatváltásokra a megállásnál, mert azok csúszósak lehetnek.",
+                "ro": "Monumentul pare deosebit de demn sub cerul gri; fiți atenți la schimbările de pavaj când opriți, deoarece pot fi alunecoase.",
+                "en": "The monument looks especially dignified under grey skies; pay attention to pavement changes when stopping, as they can be very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathisma Kolokotrone",
+                "hu": "Kathisma Kolokotrone",
+                "ro": "Kathisma Kolokotrone",
+                "en": "Kathisma Kolokotrone"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel gut ab, bevor Sie die Rückfahrt antreten; der historische Ort bietet wenig Schutz, halten Sie den Aufenthalt kurz.",
+                "hu": "Törölje le alaposan a nyerget, mielőtt elindulna visszafelé; a történelmi helyszín kevés védelmet nyújt, tartsa rövidre a látogatást.",
+                "ro": "Ștergeți bine șaua înainte de a pleca înapoi; situl istoric oferă puțin adăpost, așa că păstrați vizita scurtă dacă plouă tare.",
+                "en": "Wipe your saddle well before heading back; the historical site offers little shelter, so keep your visit brief if it is raining hard."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Handschuhe sind für Ihre morgendliche Radtour unerlässlich; die kühle Luft belebt bei der Fahrt zur Kulturhalle. Mittags sind häufige Stopps in beheizten Gebäuden ratsam, um die Glieder warm zu halten. Nachmittags sinkt die Temperatur spürbar, sobald die Sonne hinter die Arkadischen Berge wandert. Beenden Sie die Tour früh, da die Sicht bei winterlicher Dämmerung rasch abnimmt.",
+            "hu": "A kesztyű elengedhetetlen a reggeli kerékpártúrához; a hűvös levegő felfrissít a rendezvényterem felé menet. Délben tanácsos gyakori megállókat tartani a fűtött épületekben a végtagok melegen tartása érdekében. Délután a hőmérséklet érezhetően csökken, amint a nap az Árkádiai-hegyek mögé bukik. Fejezze be korán a túrát a romló látási viszonyok miatt.",
+            "ro": "Mănușile sunt esențiale pentru tura de dimineață cu bicicleta; aerul răcoros vă înviorează în drum spre sala culturală. La prânz, sunt recomandate opriri frecvente în clădiri încălzite pentru a vă menține membrele calde. După-amiaza, temperatura scade simțitor imediat ce soarele trece după munții Arcadiei. Terminați tura devreme din cauza vizibilității scăzute.",
+            "en": "Gloves are essential for your morning bike tour; the cool air invigorates you on the ride to the cultural hall. At noon, frequent stops in heated buildings are advisable to keep your limbs warm. In the afternoon, the temperature drops noticeably as soon as the sun goes behind the Arcadian mountains. Finish your tour early as visibility decreases rapidly in winter dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturhalle der Musikschule Tripolis",
+                "hu": "Tripoli Zeneiskola Rendezvényterme",
+                "ro": "Sala Școlii de Muzică din Tripoli",
+                "en": "Aithousa Ekdeloseon Mousikou Skholeiou Tripoles"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Startpunkt für Ihre Tour; nutzen Sie die Zeit drinnen, um Ihre Muskeln auf Betriebstemperatur zu bringen, bevor es nach draußen geht.",
+                "hu": "Meleg kiindulópont a túrához; használja ki a bent töltött időt az izmok bemelegítésére, mielőtt nekivágna a kinti hidegnek.",
+                "ro": "Un punct de plecare cald pentru turul dvs.; folosiți timpul petrecut în interior pentru a vă încălzi mușchii înainte de a ieși afară.",
+                "en": "A warm starting point for your tour; use the time indoors to warm up your muscles before heading out into the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Bila Tourkobasile",
+                "hu": "Bila Tourkobasile",
+                "ro": "Bila Tourkobasile",
+                "en": "Bila Tourkobasile"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie einen winddichten Schal; der Fahrtwind ist im Winter bei der Annäherung an den Turm besonders kalt auf ungeschützter Haut.",
+                "hu": "Viseljen szélálló sálat; a menetszél télen különösen hideg a toronyhoz közeledve, főleg az arc és a nyak környékén.",
+                "ro": "Purtați un fular rezistent la vânt; curentul de aer este deosebit de rece iarna când vă apropiați de turn pe porțiunile deschise.",
+                "en": "Wear a windproof scarf; the wind chill is particularly cold in winter when approaching the tower on the exposed open sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Dichters Kostas Karyotakis",
+                "hu": "Kosztasz Kariotakisz költő háza",
+                "ro": "Casa poetului Kostas Karyotakis",
+                "en": "Oikia poiete Kosta Karuotake"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein kurzes Foto und fahren Sie zügig weiter, um nicht auszukühlen; die Architektur wirkt im klaren Winterlicht sehr plastisch.",
+                "hu": "Készítsen egy gyors fotót, és tekerjen tovább, hogy ne hűljön le; az épület formái nagyon plasztikusnak tűnnek a tiszta téli fényben.",
+                "ro": "Faceți o poză rapidă și pedalați mai departe pentru a nu vă răci; arhitectura pare foarte clară în lumina rece de iarnă.",
+                "en": "Take a quick photo and pedal on to avoid cooling down; the architecture looks very distinct and sharp in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatraki Skakieras",
+                "hu": "Theatraki Skakieras",
+                "ro": "Theatraki Skakieras",
+                "en": "Theatraki Skakieras"
+              },
+              "tip_5lang": {
+                "de": "Die offene Struktur bietet keinen Windschutz; halten Sie den Aufenthalt kurz und genießen Sie die klare Sicht auf die geometrischen Details.",
+                "hu": "A nyitott szerkezet nem nyújt védelmet a szél ellen; tartsa rövidre a megállót, és élvezze a geometriai részletek tiszta látványát.",
+                "ro": "Structura deschisă nu oferă protecție împotriva vântului; păstrați oprirea scurtă și bucurați-vă de vederea clară a detaliilor geometrice.",
+                "en": "The open structure offers no protection from the wind; keep your stay short and enjoy the clear view of the geometric details."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der gefallenen Arkadier 1940-1941",
+                "hu": "Az 1940-1941-ben elesett árkádiaiak emlékműve",
+                "ro": "Monumentul arcadienilor căzuți în 1940-1941",
+                "en": "Mnemeio pesonton Arkadon epikheireseon 1940-1941"
+              },
+              "tip_5lang": {
+                "de": "Die weiße Marmorierung des Denkmals glänzt im Winterlicht; parken Sie das Rad kurz und bewegen Sie sich etwas, um warm zu bleiben.",
+                "hu": "Az emlékmű fehér márványa ragyog a téli fényben; parkoljon le rövid időre, és mozogjon egy kicsit, hogy testhőmérséklete ne essen le.",
+                "ro": "Marmura albă a monumentului strălucește în lumina iernii; parcați bicicleta scurt și mișcați-vă puțin pentru a vă menține căldura corporală.",
+                "en": "The white marble of the monument shines in the winter light; park your bike briefly and move around a bit to keep your body warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathisma Kolokotrone",
+                "hu": "Kathisma Kolokotrone",
+                "ro": "Kathisma Kolokotrone",
+                "en": "Kathisma Kolokotrone"
+              },
+              "tip_5lang": {
+                "de": "Der historische Felsensitz ist im Winter sehr kalt; betrachten Sie ihn als schnelles Etappenziel, bevor Sie zur warmen Unterkunft zurückkehren.",
+                "hu": "A történelmi kőszikla télen jéghideg; tekintse gyors szakaszcélnak, mielőtt visszatérne a város melegébe vagy szállására.",
+                "ro": "Scaunul istoric din piatră este foarte rece iarna; priviți-l ca pe un obiectiv rapid înainte de a vă întoarce la căldura orașului.",
+                "en": "The historic stone seat is very cold in winter; treat it as a quick milestone before returning to the warmth of the city or your stay."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós túráját a monumentális Kathisma Kolokotrone és a közeli árkádiai elesettek emlékművének meglátogatásával.\n\nDélben hajtson északra a gyönyörű Theatro Alsous Agiou Georgiou felé, hogy friss levegőt szívjon egy festői parki séta során.\n\nDélután induljon vissza a belvárosba, hogy elmerüljön a Régészeti és a Hadtörténeti Múzeum lenyűgöző kiállításaiban.\n\nFejezze be a napot a zeneterem közelében parkolva, amely tökéletes lezárása a természet, a történelem és a kultúra e keverékének.",
         "ro": "Începeți turul cu mașina la monumentalul Kathisma Kolokotrone și memorialul din apropiere pentru arcadienii căzuți.\n\nLa prânz, conduceți spre nord la frumosul Theatro Alsous Agiou Georgiou pentru o gură de aer proaspăt și o plimbare.\n\nDupă-amiaza, întoarceți-vă în centrul orașului pentru a explora în profunzime artefactele de la Muzeele Arheologic și de Război.\n\nÎncheiați ziua parcând ușor lângă sala de muzică, completând un amestec perfect de natură, istorie și cultură urbană.",
         "en": "Start your driving tour with the monumental Kathisma Kolokotrone and the nearby memorial for fallen Arcadians.\n\nBy midday, cruise north to the beautiful Theatro Alsous Agiou Georgiou for a breath of fresh air and a scenic park stroll.\n\nIn the afternoon, head back downtown to deeply explore the artifacts at the Archaeological and War museums.\n\nFinish your day easily parking near the musical hall, rounding off a perfect mix of nature, history, and city culture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist der perfekte Zufluchtsort für einen Regentag in Tripolis; fahren Sie sicher zu den historischen Stätten und genießen Sie trockenes Reisen. Mittags hüpfen Sie mühelos zwischen den Museen hin und her; Parkplätze sind meist nah vorhanden. Nachmittags wirkt die Gebirgslandschaft um die Stadt vom Auto aus besonders mystisch und neblig. Beenden Sie den Tag entspannt bei einer Fahrt durch die beleuchteten, nassen Gassen.",
+            "hu": "Az autó tökéletes menedék egy esős napon Tripoliban; utazzon biztonságban a történelmi helyszínek között, élvezve a száraz és kényelmes utat. Délben könnyedén váltogathat a múzeumok között, mivel a parkolás általában a közelben megoldható. Délután a várost övező hegyvidék misztikusnak és ködösnek tűnik az autóból. Zárja a napot egy kellemes kocsikázással a kivilágított, vizes utcákon.",
+            "ro": "Mașina este refugiul perfect pentru o zi ploioasă în Tripoli; conduceți în siguranță către siturile istorice, bucurându-vă de o călătorie uscată. La prânz, treceți ușor de la un muzeu la altul; parcarea este de obicei disponibilă în apropiere. După-amiaza, peisajul montan din jurul orașului pare mistic și ceațos din mașină. Încheiați ziua relaxat cu o plimbare prin străzile luminate și ude.",
+            "en": "The car is the perfect refuge for a rainy day in Tripoli; drive safely to the historic sites, enjoying the convenience of dry travel. At noon, hop between museums with ease as parking is generally available nearby, minimizing outdoor exposure. In the afternoon, the mountain scenery around the city looks misty and atmospheric from your vehicle. Finish your day with a scenic drive through the illuminated, wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathisma Kolokotrone",
+                "hu": "Kathisma Kolokotrone",
+                "ro": "Kathisma Kolokotrone",
+                "en": "Kathisma Kolokotrone"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Denkmal; der kurze Weg zum Felsen kann bei Regen rutschig sein, tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Parkoljon a lehető legközelebb az emlékműhöz; a sziklához vezető rövid út esőben csúszós lehet, viseljen jó tapadású talpú cipőt.",
+                "ro": "Parcați cât mai aproape de monument; drumul scurt către stâncă poate fi alunecos pe ploaie, purtați pantofi cu talpă aderentă.",
+                "en": "Park as close to the monument as possible; the short path to the rock can be slippery in the rain, so wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der gefallenen Arkadier 1940-1941",
+                "hu": "Az 1940-1941-ben elesett árkádiaiak emlékműve",
+                "ro": "Monumentul arcadienilor căzuți în 1940-1941",
+                "en": "Mnemeio pesonton Arkadon epikheireseon 1940-1941"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal direkt aus dem Auto, wenn der Regen zu stark ist; die erhöhte Lage bietet auch bei schlechtem Wetter eine gute Sicht.",
+                "hu": "Nézze meg az emlékművet közvetlenül az autóból, ha túl erősen esik; a magaslati fekvés rossz időben is jó kilátást biztosít a környékre.",
+                "ro": "Priviți monumentul direct din mașină dacă plouă prea tare; locația elevată oferă o vedere bună asupra zonei chiar și pe vreme rea.",
+                "en": "View the monument directly from your car if the rain is too heavy; the elevated location provides a good view of the area even in bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatro Alsous Agiou Georgiou",
+                "hu": "Theatro Alsous Agiou Georgiou",
+                "ro": "Theatro Alsous Agiou Georgiou",
+                "en": "Theatro Alsous Agiou Georgiou"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz vor Nieselregen, aber der Stein ist nass; ein kurzer Aufenthalt für Fotos genügt, bevor es zurück ins warme Auto geht.",
+                "hu": "A fák némi védelmet nyújtanak a szemerkélő esőben, de a kövek nedvesek; egy rövid fotómegálló elég, mielőtt visszatérne a meleg autóba.",
+                "ro": "Copacii oferă puțină protecție împotriva burniței, dar piatra este udă; o scurtă oprire pentru poze este suficientă înainte de a reveni în mașină.",
+                "en": "The trees offer some protection from drizzle, but the stone is wet; a short photo stop is enough before returning to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Tripolis",
+                "hu": "Tripoli Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Tripoli",
+                "en": "Archaeological Museum of Tripoli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als langes Indoor-Programm; Parken Sie in der Nähe des Eingangs, um so wenig wie möglich im Regen laufen zu müssen.",
+                "hu": "Használja a múzeumot hosszú fedett programként; parkoljon a bejárat közelében, hogy a lehető legkevesebbet kelljen az esőben gyalogolnia.",
+                "ro": "Folosiți muzeul ca program prelungit în interior; parcați aproape de intrare pentru a merge cât mai puțin prin ploaie până la ușă.",
+                "en": "Use the museum as a long indoor program; park near the entrance to minimize the distance you have to walk in the rain to reach the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegsmuseum Tripolis",
+                "hu": "Tripoli Hadtörténeti Múzeuma",
+                "ro": "Muzeul Războiului din Tripoli",
+                "en": "War museum of Tripoli"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für regnerische Stunden; im Inneren finden Sie eine beeindruckende Sammlung, während Sie draußen dem Regen entgehen.",
+                "hu": "Ideális helyszín az esős órákra; odabent lenyűgöző gyűjteményt talál, miközben teljesen elkerülheti a kinti zuhogó esőt.",
+                "ro": "Locație ideală pentru orele ploioase; în interior veți găsi o colecție impresionantă, evitând complet ploaia torențială de afară.",
+                "en": "An ideal location for rainy hours; inside you will find an impressive collection while completely avoiding the pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhalle der Musikschule Tripolis",
+                "hu": "Tripoli Zeneiskola Rendezvényterme",
+                "ro": "Sala Școlii de Muzică din Tripoli",
+                "en": "Aithousa Ekdeloseon Mousikou Skholeiou Tripoles"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier im Trockenen; die Halle bietet oft Abendveranstaltungen, die perfekt sind, um den Regentag kulturell ausklingen zu lassen.",
+                "hu": "Zárja itt a napot a szárazban; a teremben gyakran tartanak esti rendezvényeket, amelyek tökéletesek az esős nap kulturális lezárásához.",
+                "ro": "Încheiați ziua aici la adăpost; sala găzduiește adesea evenimente de seară, perfecte pentru a încheia cultural o zi ploioasă.",
+                "en": "End your day here in the dry; the hall often hosts evening events that are perfect for concluding a rainy day with a cultural touch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein komfortabler, warmer Start in den Wintermorgen mit dem Auto; die Heizung sorgt für Wohlbefinden auf dem Weg zum Denkmal. Mittags bieten Museen exzellente Gelegenheiten zum Aufwärmen, während man die Schätze Arkadiens erkundet. Nachmittags ist die Fahrt durch das winterliche Tripoli im Dämmerlicht besonders stimmungsvoll. Abends endet die Tour bequem, ohne dass Sie der Kälte am Hauptplatz zu lange ausgesetzt sind.",
+            "hu": "Kényelmes, meleg kezdés a téli reggelen autóval; a fűtés gondoskodik a komfortról az emlékműhöz vezető úton. Délben a múzeumok kiváló alkalmat nyújtanak a felmelegedésre Árkádia kincseinek felfedezése közben. Délután az autózás a téli Tripoli szürkületi fényeiben különösen hangulatos és megnyugtató. Este a túra kényelmesen zárul, anélkül, hogy hosszú ideig kitenné magát a főtéri hidegnek.",
+            "ro": "Un început confortabil și cald într-o dimineață de iarnă cu mașina; căldura vă asigură confortul în drum spre monument. La prânz, muzeele oferă ocazii excelente de încălzire în timp ce explorați comorile Arcadiei. După-amiaza, condusul prin Tripoli în lumina amurgului de iarnă este deosebit de atmosferic. Seara, turul se încheie confortabil, fără a vă expune prea mult timp la frig.",
+            "en": "A comfortable, warm start to your winter morning by car; the heater ensures your comfort on the way to the monument. At noon, museums offer excellent opportunities to warm up while exploring the treasures of Arcadia. In the afternoon, driving through winter Tripoli in the twilight is particularly atmospheric and cozy. In the evening, your tour ends conveniently without long exposure to the cold at the main square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathisma Kolokotrone",
+                "hu": "Kathisma Kolokotrone",
+                "ro": "Kathisma Kolokotrone",
+                "en": "Kathisma Kolokotrone"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung laufen, während Sie kurz aussteigen; der historische Felsensitz ist im Winter eiskalt, halten Sie den Stopp daher kurz.",
+                "hu": "Hagyja járni a fűtést, amíg rövid időre kiszáll; a történelmi kőszikla télen jéghideg, ezért tartsa rövidre a megállót a helyszínen.",
+                "ro": "Lăsați căldura pornită în timp ce coborâți scurt; scaunul istoric din piatră este înghețat iarna, așa că păstrați oprirea foarte scurtă.",
+                "en": "Leave the car heater running while you step out briefly; the historic stone seat is ice-cold in winter, so keep your visit to the site short."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der gefallenen Arkadier 1940-1941",
+                "hu": "Az 1940-1941-ben elesett árkádiaiak emlékműve",
+                "ro": "Monumentul arcadienilor căzuți în 1940-1941",
+                "en": "Mnemeio pesonton Arkadon epikheireseon 1940-1941"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf das winterliche Tripoli aus der Wärme Ihres Wagens; der weiße Marmor strahlt im klaren Winterlicht besonders hell.",
+                "hu": "Élvezze a téli Tripoli panorámáját autója melegéből; a fehér márvány különösen fényesen ragyog a tiszta, éles téli napsütésben.",
+                "ro": "Bucurați-vă de panorama orașului Tripoli iarna din căldura mașinii; marmura albă strălucește intens în lumina clară a iernii.",
+                "en": "Enjoy the panoramic view of winter Tripoli from the warmth of your car; the white marble shines especially brightly in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatro Alsous Agiou Georgiou",
+                "hu": "Theatro Alsous Agiou Georgiou",
+                "ro": "Theatro Alsous Agiou Georgiou",
+                "en": "Theatro Alsous Agiou Georgiou"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter sehr ruhig; machen Sie einen kurzen, belebenden Spaziergang zum Theater und kehren Sie dann rasch zum Auto zurück.",
+                "hu": "A park télen nagyon csendes; tegyen egy rövid, frissítő sétát a színházhoz, majd térjen vissza gyorsan az autóba melegedni.",
+                "ro": "Parcul este foarte liniștit iarna; faceți o scurtă plimbare înviorătoare până la teatru și apoi reveniți rapid la mașină pentru a vă încălzi.",
+                "en": "The park is very quiet in winter; take a short, invigorating walk to the theater and then return quickly to the car to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Tripolis",
+                "hu": "Tripoli Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Tripoli",
+                "en": "Archaeological Museum of Tripoli"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Winterkälte für längere Zeit zu entfliehen; die gut temperierten Räume laden zum ausführlichen Verweilen ein.",
+                "hu": "Tökéletes hely a téli hideg elől való hosszabb menekülésre; a jól temperált helyiségek hosszas böngészésre és pihenésre csábítanak.",
+                "ro": "Un loc perfect pentru a evada de frigul iernii pentru o perioadă mai lungă; încăperile bine încălzite vă invită la o vizită detaliată.",
+                "en": "A perfect place to escape the winter cold for a longer period; the well-tempered rooms invite you to linger and explore at your leisure."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegsmuseum Tripolis",
+                "hu": "Tripoli Hadtörténeti Múzeuma",
+                "ro": "Muzeul Războiului din Tripoli",
+                "en": "War museum of Tripoli"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die kältesten Stunden des Tages in diesem Museum; die umfangreiche Ausstellung lässt Sie die Zeit und die Kälte draußen vergessen.",
+                "hu": "Töltse a nap leghidegebb óráit ebben a múzeumban; a gazdag kiállítás feledteti Önnel az időt és a kinti csípős téli levegőt.",
+                "ro": "Petreceți cele mai reci ore ale zilei în acest muzeu; expoziția bogată vă va face să uitați de timp și de aerul tăios de iarnă de afară.",
+                "en": "Spend the coldest hours of the day in this museum; the extensive exhibition will make you forget about the time and the biting winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturhalle der Musikschule Tripolis",
+                "hu": "Tripoli Zeneiskola Rendezvényterme",
+                "ro": "Sala Școlii de Muzică din Tripoli",
+                "en": "Aithousa Ekdeloseon MousIKou Skholeiou Tripoles"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss eines Wintertages; genießen Sie die warme Akustik und Atmosphäre drinnen, bevor Sie die kurze Heimreise mit dem Auto antreten.",
+                "hu": "Ideális befejezése egy téli napnak; élvezze a benti meleg akusztikát és hangulatot, mielőtt megkezdené a rövid haza utat autóval.",
+                "ro": "Finalul ideal pentru o zi de iarnă; bucurați-vă de acustica și atmosfera caldă din interior înainte de a porni spre casă cu mașina.",
+                "en": "The ideal end to a winter day; enjoy the warm acoustics and atmosphere inside before starting the short trip back by car."
+              }
+            }
+          ]
+        }
       }
     }
   }

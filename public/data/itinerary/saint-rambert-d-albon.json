@@ -137,6 +137,168 @@
         "hu": "A reggel Saint-Rambert-d'Albon szívében indul, felfedezve a központi emlékműveket és a történelmi rétegeket. Délben a régi kastélyhoz sétálhat, ahol megelevenedik a régió középkori jelentősége. Délután egy festői séta vár a bájos Saint-Laurent templomhoz északra. Az estét egy pihentető séta zárja a régi komppillér felé, amely a Rhône folyó történelmét idézi.",
         "ro": "Dimineața începe în inima orașului Saint-Rambert-d'Albon, explorând monumentele centrale și istoria locală. La amiază vă îndreptați spre vechiul castel, unde puteți simți importanța medievală a regiunii. După-amiaza implică o plimbare pitorească spre nord către frumoasa biserică Saint-Laurent. Seara se încheie cu o plimbare relaxantă spre vechiul stâlp de feribot de pe malul râului.",
         "en": "Morning starts in the heart of Saint-Rambert-d'Albon, exploring its central monuments and historical layers. Midday takes you towards the old castle ruins, where you can imagine the region's medieval importance. Afternoon involves a scenic stroll north to the charming Saint-Laurent church. Evening brings a relaxed walk south towards the old ferry pillar, a nod to Rhone river history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt mit der Besichtigung der Kirche und des Denkmals. Mittags suchen wir Schutz im Château. Nachmittags spazieren wir mit Regenschirm zur Église Saint-Laurent und zur Pile du Bac. Abends wärmen wir uns in einem Café in der Nähe der Rhône auf.",
+            "hu": "Az esős reggel a templom és az emlékmű megtekintésével indul. Délben a kastély falai között találunk menedéket. Délután esernyővel sétálunk át a Saint-Laurent templomhoz és a régi rév oszlopához. Este a Rhône partja közelében egy hangulatos helyen melegszünk fel.",
+            "ro": "Dimineața ploioasă începe cu vizitarea bisericii și a monumentului. La prânz, ne adăpostim în incinta castelului. După-amiaza, ne plimbăm cu umbrela spre biserica Saint-Laurent și vechiul pilon al feribotului. Seara ne încălzim într-un loc primitor lângă fluviul Ron.",
+            "en": "A rainy morning starts with visiting the church and the monument. At noon, we find shelter within the castle walls. In the afternoon, we walk with an umbrella to Saint-Laurent church and the old ferry pillar. In the evening, we warm up at a cozy place near the Rhône."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Rambert",
+                "hu": "Église Saint-Rambert",
+                "ro": "Église Saint-Rambert",
+                "en": "Église Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die architektonischen Details im Trockenen der Kirche und bringen Sie einen robusten Regenschirm für den weiteren Weg mit.",
+                "hu": "Csodálja meg az építészeti részleteket a templom száraz oltalma alatt, és hozzon magával egy erős esernyőt a további sétaútvonalhoz.",
+                "ro": "Admirați detaliile arhitecturale la adăpostul uscat al bisericii și aduceți o umbrelă rezistentă pentru restul traseului pietonal.",
+                "en": "Admire the architectural details in the dry shelter of the church and bring a sturdy umbrella for the remainder of your walking route."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux morts",
+                "hu": "Monument aux morts",
+                "ro": "Monument aux morts",
+                "en": "Monument aux morts"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das historische Denkmal bei Regen nur kurz und achten Sie beim Näherkommen besonders auf die extrem rutschigen Steine am Boden.",
+                "hu": "Az emlékművet esőben csak röviden tekintse meg, és közeledéskor különösen vigyázzon a talajon lévő rendkívül csúszós kövezetre.",
+                "ro": "Priviți monumentul istoric doar scurt pe ploaie și aveți mare grijă la pietrele extrem de alunecoase de pe jos când vă apropiați.",
+                "en": "View the historical monument only briefly in the rain and pay special attention to the extremely slippery stones on the ground as you approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Rambert",
+                "hu": "Château de Saint-Rambert",
+                "ro": "Château de Saint-Rambert",
+                "en": "Château de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Die alten, massiven Mauern bieten guten Schutz vor plötzlichem Regenregen; erkunden Sie die lokale Geschichte sicher im Trockenen.",
+                "hu": "A régi, masszív falak jó menedéket nyújtanak a hirtelen eső elől; fedezze fel a helyi történelmet biztonságban és teljesen szárazon.",
+                "ro": "Zidurile vechi și masive oferă un adăpost excelent împotriva ploilor bruște; explorați istoria locală în siguranță și la loc uscat.",
+                "en": "The old, massive walls offer excellent shelter from sudden downpours; explore the local history safely and completely in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige, besinnliche Atmosphäre im Inneren der Kirche, während der Regen sanft gegen die großen Fensterfronten schlägt.",
+                "hu": "Élvezze a templom csendes, elmélkedő hangulatát, miközben a kinti eső lágyan és ritmikusan kopogtat a nagy üvegablakokon.",
+                "ro": "Bucurați-vă de atmosfera liniștită și contemplativă din interiorul bisericii, în timp ce ploaia bate ușor în ferestrele mari de sticlă.",
+                "en": "Enjoy the quiet, contemplative atmosphere inside the church while the outside rain taps gently and rhythmically against the large glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Pile du Bac à Traille",
+                "hu": "Pile du Bac à Traille",
+                "ro": "Pile du Bac à Traille",
+                "en": "Pile du Bac à Traille"
+              },
+              "tip_5lang": {
+                "de": "Der alte Pfeiler ist auch im Regen äußerst fotogen, jedoch kann der Uferweg schlammig sein; tragen Sie wasserfeste, feste Schuhe.",
+                "hu": "A régi pillér esőben is rendkívül fotogén, azonban a folyóparti út sáros lehet; viseljen vízálló, strapabíró cipőt a sár elkerüléséhez.",
+                "ro": "Pilonul vechi este extrem de fotogenic și pe ploaie, dar poteca de pe mal poate fi noroioasă; purtați încălțăminte impermeabilă și solidă.",
+                "en": "The old pillar is extremely photogenic even in the rain, but the riverbank path can be muddy; wear waterproof, sturdy shoes to navigate it safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt an der Kirche und dem Denkmal. Mittags erkunden wir das winterliche Château. Nachmittags spazieren wir warm eingepackt zur Église Saint-Laurent und zur Pile du Bac. Vor dem frühen Einbruch der Dunkelheit beenden wir die Tour an der Rhône.",
+            "hu": "A hideg téli reggel a templomnál és az emlékműnél indul. Délben a kastély téli arcát fedezzük fel. Délután melegen felöltözve sétálunk a Saint-Laurent templomhoz és a régi révhez. A korai sötétedés előtt a Rhône partján fejezzük be a mai túrát.",
+            "ro": "Dimineața rece de iarnă începe la biserică și monument. La prânz explorăm castelul în decor hibernal. După-amiaza, îmbrăcați gros, ne plimbăm spre biserica Saint-Laurent și pilonul feribotului. Înainte de întunericul timpuriu, încheiem turul lângă Ron.",
+            "en": "A cold winter morning starts at the church and monument. At noon, we explore the castle's winter setting. In the afternoon, bundled up, we walk to the Saint-Laurent church and the old ferry pillar. Before the early sunset, we finish the tour near the Rhône."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Rambert",
+                "hu": "Église Saint-Rambert",
+                "ro": "Église Saint-Rambert",
+                "en": "Église Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der ruhigen Kirche gut auf und bewundern Sie die stillen, winterlichen Details der beeindruckenden Architektur von innen.",
+                "hu": "Melegedjen fel alaposan a csendes templomban, és csodálja meg a lenyűgöző építészet csendes, téli részleteit belülről.",
+                "ro": "Încălziți-vă bine în biserica liniștită și admirați din interior detaliile hibernale și arhitectura impresionantă a clădirii.",
+                "en": "Warm up thoroughly in the quiet church and admire the silent, wintery details of the impressive architecture from the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument aux morts",
+                "hu": "Monument aux morts",
+                "ro": "Monument aux morts",
+                "en": "Monument aux morts"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal in der klaren, frischen Winterluft aus nächster Nähe; warme Handschuhe sind hier für längeres Verweilen ratsam.",
+                "hu": "Tekintse meg az emlékművet a tiszta, friss téli levegőben testközelből; a meleg kesztyű viselete a hosszabb időzéshez erősen ajánlott.",
+                "ro": "Priviți monumentul de aproape în aerul curat și proaspăt de iarnă; purtarea mănușilor călduroase este recomandată pentru o ședere mai lungă.",
+                "en": "View the monument up close in the crisp, fresh winter air; wearing warm gloves is highly recommended for lingering in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Rambert",
+                "hu": "Château de Saint-Rambert",
+                "ro": "Château de Saint-Rambert",
+                "en": "Château de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Das historische Château wirkt im Winter besonders mystisch; kleiden Sie sich sehr warm in Schichten für den windigen Spaziergang darum herum.",
+                "hu": "A történelmi kastély télen különösen misztikus hangulatot áraszt; öltözzön fel nagyon melegen, rétegesen a szeles körbesétáláshoz.",
+                "ro": "Castelul istoric pare deosebit de mistic iarna; îmbrăcați-vă foarte gros, în straturi, pentru plimbarea vântoasă din jurul său.",
+                "en": "The historic castle looks particularly mystical in winter; dress very warmly in layers for the windy walk around its perimeter."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kircheninnere für eine ausgedehnte Aufwärmpause auf Ihrem kalten Winterspaziergang durch die verschlafenen Straßen der Stadt.",
+                "hu": "Használja a templombelsőt egy hosszabb felmelegedési szünetre a város álmos utcáin tett hideg téli sétája során.",
+                "ro": "Folosiți interiorul bisericii pentru o pauză prelungită de încălzire în timpul plimbării reci de iarnă pe străzile adormite ale orașului.",
+                "en": "Use the church interior for an extended warm-up break during your cold winter walk through the sleepy streets of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Pile du Bac à Traille",
+                "hu": "Pile du Bac à Traille",
+                "ro": "Pile du Bac à Traille",
+                "en": "Pile du Bac à Traille"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Flusslandschaft ist wunderschön, jedoch zieht oft ein kalter Wind auf; ein warmer Schal ist hier äußerst wichtig.",
+                "hu": "A téli folyóparti táj csodálatosan szép, azonban gyakran fúj hideg szél; egy meleg sál viselése itt rendkívül fontos.",
+                "ro": "Peisajul de iarnă la râu este superb, dar se ridică adesea un vânt rece; un fular călduros este extrem de important aici.",
+                "en": "The winter river landscape is beautifully scenic, however a cold wind often picks up; wearing a warm scarf is extremely important here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot a főtemplomnál, mielőtt eltekerne a történelmi kastélyhoz. A délidő egy festői utazást kínál a külvárosokon át a csendes Saint-Laurent templomhoz. A délután tökéletes a folyón való átkelésre és a peyraud-i kastély felfedezésére. Az este egy izgalmas utazással zárul a helyi repülőtérre, ahol a lemenő nap fényében figyelheti a kisrepülőket.",
         "ro": "Începeți ziua de ciclism la biserica principală înainte de a pedala spre situl istoric al castelului. Amiaza vă oferă o plimbare pitorească pe la periferie către liniștita biserică Saint-Laurent. După-amiaza este perfectă pentru a traversa râul spre superbul castel Peyraud. Seara se încheie cu o plimbare captivantă până la aerodromul local, admirând avioanele la apus.",
         "en": "Kick off your cycling day at the main church before pedaling over to the historical castle site. Midday offers a scenic ride through the outskirts to the serene Saint-Laurent church. Afternoon is perfect for crossing the river to explore Peyraud's stunning castle and nearby church. Evening wraps up with a thrilling ride to the local aerodrome, watching small planes against the setting sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der nasse Morgen beginnt mit einer Fahrt zur Église Saint-Rambert und zum Château. Mittags radeln wir vorsichtig zur Église Saint-Laurent und zum Château de Peyraud. Nachmittags suchen wir Schutz in der Église Saint-Martin. Der Tag endet am Aérodrome mit trockenen Pausen.",
+            "hu": "Az esős reggel a Saint-Rambert templomhoz és a kastélyhoz tett tekeréssel indul. Délben óvatosan biciklizünk a Saint-Laurent templomhoz és a Peyraud kastélyhoz. Délután a Saint-Martin templomban keresünk menedéket. A nap a repülőtéren ér véget fedett pihenőkkel.",
+            "ro": "Dimineața ploioasă începe pedalând spre biserica Saint-Rambert și castel. La prânz, mergem cu grijă spre biserica Saint-Laurent și castelul Peyraud. După-amiaza ne adăpostim în biserica Saint-Martin. Ziua se încheie la aerodrom, cu pauze la loc uscat.",
+            "en": "The wet morning starts with a ride to Saint-Rambert church and the castle. At noon, we cycle carefully to Saint-Laurent church and Peyraud castle. In the afternoon, we seek shelter in Saint-Martin church. The day ends at the aerodrome with dry breaks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Rambert",
+                "hu": "Église Saint-Rambert",
+                "ro": "Église Saint-Rambert",
+                "en": "Église Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Fahrradtour hier sicher im Trockenen und prüfen Sie Ihre Regenkleidung auf Dichtheit, bevor die Weiterfahrt beginnt.",
+                "hu": "Kezdje kerékpártúráját itt biztonságban, szárazon, és ellenőrizze esőruházata vízhatlanságát, mielőtt folytatná az utat.",
+                "ro": "Începeți turul cu bicicleta aici, în siguranță la uscat, și verificați impermeabilitatea echipamentului de ploaie înainte de a continua.",
+                "en": "Start your bike tour here safely in the dry and check your rain gear for waterproofness before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Rambert",
+                "hu": "Château de Saint-Rambert",
+                "ro": "Château de Saint-Rambert",
+                "en": "Château de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den großen Bäumen oder alten Mauern Schutz vor dem Regen, aber Vorsicht auf nassem, extrem rutschigem Laub beim Bremsen.",
+                "hu": "Keressen menedéket az eső elől a nagy fák vagy a régi falak alatt, de fékezéskor nagyon vigyázzon a nedves, rendkívül csúszós falevelekre.",
+                "ro": "Căutați adăpost de ploaie sub copacii mari sau zidurile vechi, dar mare atenție la frunzele ude și extrem de alunecoase când frânați.",
+                "en": "Seek shelter from the rain under the large trees or old walls, but be very careful of wet, extremely slippery leaves when applying the brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Eine exzellente Gelegenheit, sich im Gebäude aufzuwärmen und den nassen Fahrradsattel gründlich abzuwischen, bevor Sie weiter radeln.",
+                "hu": "Kiváló alkalom, hogy felmelegedjen az épületben, és alaposan letörölje a nedves kerékpár nyerget, mielőtt tovább pedálozna.",
+                "ro": "O ocazie excelentă de a vă încălzi în clădire și de a șterge bine șaua udă a bicicletei înainte de a pedala mai departe.",
+                "en": "An excellent opportunity to warm up inside the building and thoroughly wipe down your wet bicycle saddle before you continue riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Peyraud",
+                "hu": "Château de Peyraud",
+                "ro": "Château de Peyraud",
+                "en": "Château de Peyraud"
+              },
+              "tip_5lang": {
+                "de": "Das weitläufige historische Gelände bietet großzügigen Schutz; fahren Sie auf den nassen Pflastersteinen jedoch sehr langsam und umsichtig.",
+                "hu": "A kiterjedt történelmi terület bőséges menedéket ad; a nedves macskaköveken azonban nagyon lassan és rendkívül körültekintően tekerjen.",
+                "ro": "Terenul istoric întins oferă un adăpost generos; totuși, pedalați foarte încet și cu multă prudență pe pietrele cubice ude.",
+                "en": "The extensive historic grounds offer generous shelter; however, ride very slowly and with great caution on the wet cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Retten Sie sich vor dem starken Regen schnell ins Kirchenschiff und genießen Sie die spirituelle Ruhe vollkommen im Trockenen.",
+                "hu": "Meneküljön be a heves eső elől gyorsan a templomhajóba, és élvezze a spirituális nyugalmat teljesen száraz körülmények között.",
+                "ro": "Refugiați-vă rapid de ploaia puternică în naosul bisericii și bucurați-vă de liniștea spirituală în condiții complet uscate.",
+                "en": "Escape the heavy rain quickly into the church nave and enjoy the spiritual tranquility in completely dry conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Aérodrome de Saint-Rambert",
+                "hu": "Aérodrome de Saint-Rambert",
+                "ro": "Aérodrome de Saint-Rambert",
+                "en": "Aérodrome de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Auch bei ungemütlichem Regen gibt es hier faszinierende Hallen zu sehen; tragen Sie auf dem Fahrrad unbedingt einen gut sichtbaren Regenmantel.",
+                "hu": "Barátságtalan esőben is lenyűgöző hangárok láthatók itt; a kerékpáron azonban feltétlenül viseljen élénk színű, jól látható esőkabátot.",
+                "ro": "Chiar și pe o ploaie neplăcută se pot vedea hangare fascinante aici; pe bicicletă purtați neapărat o pelerină de ploaie vizibilă, în culori vii.",
+                "en": "Even in unpleasant rain, there are fascinating hangars to see here; on your bike, be absolutely sure to wear a highly visible, brightly colored raincoat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kalte Morgen beginnt mit einer frischen Fahrt zur Église Saint-Rambert und zum Château. Mittags radeln wir sonnig zur Église Saint-Laurent und nach Peyraud. Nachmittags besuchen wir die Église Saint-Martin. Wir beenden die Tour am Aérodrome vor Sonnenuntergang.",
+            "hu": "A hideg reggel friss tekeréssel indul a templomhoz és a kastélyhoz. Délben a téli napsütésben biciklizünk a Saint-Laurent templomhoz és Peyraud-ba. Délután a Saint-Martin templomot látogatjuk meg. A túrát a sötétedés előtt a repülőtéren fejezzük be.",
+            "ro": "Dimineața rece începe cu o tură proaspătă spre biserică și castel. La prânz, pedalăm la soarele de iarnă spre biserica Saint-Laurent și Peyraud. După-amiaza vizităm biserica Saint-Martin. Încheiem turul la aerodrom, înainte de lăsarea întunericului.",
+            "en": "The cold morning begins with a crisp ride to the church and castle. At noon, we cycle in the winter sun to Saint-Laurent church and Peyraud. In the afternoon, we visit Saint-Martin church. We finish the tour at the aerodrome before sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Rambert",
+                "hu": "Église Saint-Rambert",
+                "ro": "Église Saint-Rambert",
+                "en": "Église Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine kurze, entspannende Pause vor dem kalten Fahrtwind; tragen Sie hier unbedingt extra warme Fahrradhandschuhe.",
+                "hu": "A templom rövid, pihentető szünetet nyújt a hideg menetszél elől; itt feltétlenül viseljen extra meleg kerékpáros kesztyűt a tekeréshez.",
+                "ro": "Biserica oferă o scurtă și relaxantă pauză de la vântul rece de deplasare; purtați neapărat mănuși de ciclism extra călduroase aici.",
+                "en": "The church offers a short, relaxing break from the cold headwind; be absolutely sure to wear extra warm cycling gloves for the ride here."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Rambert",
+                "hu": "Château de Saint-Rambert",
+                "ro": "Château de Saint-Rambert",
+                "en": "Château de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Die malerische winterliche Kulisse ist absolut beeindruckend; passen Sie beim Radfahren jedoch extrem auf vereiste, gefährliche Stellen auf.",
+                "hu": "A festői téli kulissza abszolút lenyűgöző; kerékpározás közben azonban rendkívül ügyeljen a jeges, veszélyes szakaszokra az utakon.",
+                "ro": "Decorul pitoresc de iarnă este absolut impresionant; în timpul mersului pe bicicletă, însă, fiți extrem de atenți la zonele înghețate și periculoase.",
+                "en": "The picturesque winter backdrop is absolutely impressive; while cycling, however, pay extreme attention to icy, dangerous patches on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Eine höchst willkommene Wärmequelle auf der Route; trinken Sie hier heißen Tee aus Ihrer Thermoskanne, um sich für die Weiterfahrt zu stärken.",
+                "hu": "Rendkívül szívesen látott melegedőhely az útvonalon; igyon itt forró teát a termoszából, hogy erőt gyűjtsön a további tekeréshez.",
+                "ro": "O sursă de căldură extrem de binevenită pe traseu; beți un ceai fierbinte din termos aici pentru a prinde puteri pentru continuarea drumului.",
+                "en": "A highly welcome source of warmth on the route; drink hot tea from your thermos here to gather strength for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Peyraud",
+                "hu": "Château de Peyraud",
+                "ro": "Château de Peyraud",
+                "en": "Château de Peyraud"
+              },
+              "tip_5lang": {
+                "de": "Das majestätische Schloss im sanften Winterlicht ist wahrhaft zauberhaft; kleiden Sie sich unbedingt im Zwiebellook effektiv gegen die Kälte.",
+                "hu": "A fenséges kastély a lágy téli fényben igazán varázslatos; feltétlenül öltözzön fel rétegesen, hogy hatékonyan védekezzen a metsző hideg ellen.",
+                "ro": "Castelul majestuos în lumina blândă de iarnă este cu adevărat magic; îmbrăcați-vă neapărat în straturi pentru a vă proteja eficient de frigul pătrunzător.",
+                "en": "The majestic castle in the soft winter light is truly magical; be absolutely sure to dress in layers to effectively protect yourself from the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur in Ruhe und nutzen Sie die Pause drinnen, bevor es draußen auf dem Rad wieder zu kalt wird.",
+                "hu": "Csodálja meg a történelmi építészetet nyugalomban, és használja ki a benti pihenőt, mielőtt odakint a biciklin újra túl hideg lenne.",
+                "ro": "Admirați arhitectura istorică în liniște și profitați de pauza din interior, înainte de a vă face din nou prea frig afară pe bicicletă.",
+                "en": "Admire the historic architecture in peace and take advantage of the indoor break before it gets too cold outside on the bike again."
+              }
+            },
+            {
+              "name": {
+                "de": "Aérodrome de Saint-Rambert",
+                "hu": "Aérodrome de Saint-Rambert",
+                "ro": "Aérodrome de Saint-Rambert",
+                "en": "Aérodrome de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Das weite, offene Gelände ist oft extrem windig; planen Sie Ihre Rückkehr zur Unterkunft unbedingt noch vor dem frühen Einbruch der Dunkelheit.",
+                "hu": "A széles, nyílt terep gyakran rendkívül szeles; a szállásra való visszatérést feltétlenül tervezze meg még a korai sötétedés beállta előtt.",
+                "ro": "Terenul vast și deschis este adesea extrem de vântos; planificați-vă întoarcerea la cazare neapărat înainte de lăsarea timpurie a întunericului.",
+                "en": "The wide, open terrain is often extremely windy; absolutely plan your return to your accommodation before the early onset of darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Vezessen kényelmesen a városközponti emlékműtől a főtemplomig, magába szívva a reggeli hangulatot. Délben gyorsan eljuthat a helyi kastélyhoz és az északi Saint-Laurent templomhoz. A délután folyamán keljen át a folyón a csodálatos peyraud-i kastélyhoz és a környező történelmi templomokhoz. Az est fénypontja egy rövid út a repülőtérre, ahol élvezheti a nyitott eget.",
         "ro": "Conduceți confortabil de la monumentul central spre biserica principală, bucurându-vă de dimineață. La amiază faceți opriri rapide la castelul local și biserica nordică Saint-Laurent. După-amiaza treceți râul către magnificul castel Peyraud și bisericile istorice învecinate. Seara culminează cu o scurtă plimbare spre aerodrom pentru a vă bucura de cerul deschis și de apus.",
         "en": "Drive comfortably from the town center's monument and main church, soaking in the morning atmosphere. Midday involves quick hops to the local castle and the northern Saint-Laurent church. Afternoon brings you across the river to the magnificent Peyraud castle and its historical neighboring churches. Evening culminates with a short drive to the aerodrome to enjoy the open skies and sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen führt uns vom Denkmal zur Kirche und zum Château, mit schnellen Wegen zum Auto. Mittags besichtigen wir Saint-Laurent und das Château de Peyraud. Nachmittags fahren wir zur Église Saint-Martin und Saint-Pierre. Abends bietet das Aérodrome überdachte Eindrücke.",
+            "hu": "Az esős reggel az emlékműtől a templomhoz és a kastélyhoz vezet, gyorsan visszaülve az autóba. Délben a Saint-Laurent és a Peyraud kastély a cél. Délután a Saint-Martin és Saint-Pierre templomokhoz hajtunk. Este a repülőtér fedett látnivalókat kínál.",
+            "ro": "Dimineața ploioasă ne duce de la monument la biserică și castel, cu pași rapizi spre mașină. La prânz vizităm Saint-Laurent și castelul Peyraud. După-amiaza conducem spre bisericile Saint-Martin și Saint-Pierre. Seara, aerodromul oferă atracții acoperite.",
+            "en": "A rainy morning leads from the monument to the church and castle, with quick dashes to the car. At noon, we visit Saint-Laurent and Peyraud castle. In the afternoon, we drive to Saint-Martin and Saint-Pierre churches. In the evening, the aerodrome offers covered sights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monument aux morts",
+                "hu": "Monument aux morts",
+                "ro": "Monument aux morts",
+                "en": "Monument aux morts"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrzeug ganz in der Nähe und betrachten Sie das Denkmal am besten unter dem breiten Schutz eines großen Regenschirms.",
+                "hu": "Parkolja le járművét egészen közel, és az emlékművet a legjobb, ha egy nagyméretű esernyő széles védelme alatt tekinti meg.",
+                "ro": "Parcați-vă vehiculul foarte aproape și cel mai bine este să priviți monumentul sub protecția largă a unei umbrele mari.",
+                "en": "Park your vehicle very close by and it is best to view the monument under the broad protection of a large umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rambert",
+                "hu": "Église Saint-Rambert",
+                "ro": "Église Saint-Rambert",
+                "en": "Église Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine angenehm trockene Zuflucht; achten Sie jedoch beim Einsteigen auf nasse, rutschige Fußmatten in Ihrem Auto danach.",
+                "hu": "A templom kellemesen száraz menedéket nyújt; beszálláskor azonban utána ügyeljen a nedves, csúszós lábtörlőkre az autójában.",
+                "ro": "Biserica oferă un refugiu plăcut și uscat; totuși, la urcare, aveți grijă la covorașele ude și alunecoase din mașina dumneavoastră ulterior.",
+                "en": "The church provides a pleasantly dry refuge; upon entering, however, mind the wet, slippery floor mats in your car afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Rambert",
+                "hu": "Château de Saint-Rambert",
+                "ro": "Château de Saint-Rambert",
+                "en": "Château de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf das historische Gebäude bequem vom Parkplatz aus oder machen Sie einen nur ganz kurzen Spaziergang im Regen.",
+                "hu": "Élvezze a történelmi épületre nyíló kilátást kényelmesen a parkolóból, vagy tegyen csak egy nagyon rövid sétát az esőben.",
+                "ro": "Bucurați-vă de priveliștea clădirii istorice confortabil din parcare sau faceți doar o plimbare foarte scurtă prin ploaie.",
+                "en": "Enjoy the view of the historic building comfortably from the parking lot or take only a very short walk out in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Eine schnelle, trockene Fahrt zur nächsten Kirche; nutzen Sie die kurzen Regenpausen geschickt, um schnell einige schöne Fotos zu machen.",
+                "hu": "Gyors, száraz autózás a következő templomhoz; használja ki ügyesen a rövid esőszüneteket, hogy gyorsan készítsen néhány szép fotót.",
+                "ro": "O călătorie rapidă și uscată spre următoarea biserică; folosiți inteligent scurtele pauze de ploaie pentru a face rapid câteva poze frumoase.",
+                "en": "A quick, dry drive to the next church; cleverly use the short rain breaks to quickly take some beautiful photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Peyraud",
+                "hu": "Château de Peyraud",
+                "ro": "Château de Peyraud",
+                "en": "Château de Peyraud"
+              },
+              "tip_5lang": {
+                "de": "Das majestätische historische Gebäude schützt gut vor Schauern; fahren Sie bei starkem Regen jedoch besonders vorsichtig auf dem Zufahrtsweg.",
+                "hu": "A fenséges történelmi épület jól véd a záporoktól; heves esőzés esetén azonban különösen óvatosan vezessen a bekötőúton.",
+                "ro": "Clădirea istorică majestuoasă protejează bine de averse; pe ploaie puternică, totuși, conduceți cu mare prudență pe drumul de acces.",
+                "en": "The majestic historic building protects well against showers; in heavy rain, however, drive with special care on the approach road."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer lohnenswerter, trockener Stopp; wärmen Sie sich ausgiebig im Auto auf, bevor Sie die Kirche zur Besichtigung betreten.",
+                "hu": "Egy újabb érdemes, száraz megálló; melegedjen fel alaposan az autóban, mielőtt belépne a templomba a városnézéshez.",
+                "ro": "Încă o oprire uscată ce merită făcută; încălziți-vă bine în mașină înainte de a păși în biserică pentru vizitare.",
+                "en": "Another worthwhile, dry stop; warm up thoroughly in the car before stepping inside the church for sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende steinerne Fassade einfach aus dem Auto heraus, falls der Regen draußen plötzlich zu stark werden sollte.",
+                "hu": "Csodálja meg a lenyűgöző kőhomlokzatot egyszerűen az autóból, ha az eső odakint hirtelen túlságosan rákezdene.",
+                "ro": "Admirați fațada impresionantă de piatră pur și simplu din confortul mașinii, în caz că ploaia de afară devine brusc prea puternică.",
+                "en": "Simply admire the impressive stone facade from the comfort of your car if the rain outside suddenly becomes too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Aérodrome de Saint-Rambert",
+                "hu": "Aérodrome de Saint-Rambert",
+                "ro": "Aérodrome de Saint-Rambert",
+                "en": "Aérodrome de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Große, schützende Hallen und historische Flugzeuge erwarten Sie; parken Sie möglichst nah, um dem prasselnden Regen schnell zu entkommen.",
+                "hu": "Nagy, védelmet nyújtó hangárok és történelmi repülők várják; parkoljon a lehető legközelebb, hogy gyorsan elmeneküljön a zuhogó eső elől.",
+                "ro": "Hangare mari, protectoare și avioane istorice vă așteaptă; parcați cât mai aproape posibil pentru a scăpa rapid de ploaia torențială.",
+                "en": "Large, protective hangars and historical aircraft await; park as close as possible to quickly escape the pouring rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen führt uns mit dem Auto vom Denkmal zur Kirche und zum Château. Mittags fahren wir gemütlich zur Église Saint-Laurent und zum Château de Peyraud. Nachmittags besuchen wir die Kirchen Saint-Martin und Saint-Pierre. Abends erkunden wir das Aérodrome vor der Dunkelheit.",
+            "hu": "A hűvös téli reggel autóval visz az emlékműtől a templomig és a kastélyig. Délben kényelmesen autózunk a Saint-Laurent templomhoz és a Peyraud kastélyhoz. Délután a Saint-Martin és Saint-Pierre templomokat látogatjuk. Este a sötétedés előtt a repülőteret fedezzük fel.",
+            "ro": "Dimineața răcoroasă ne duce cu mașina de la monument la biserică și castel. La prânz conducem relaxat spre biserica Saint-Laurent și castelul Peyraud. După-amiaza vizităm bisericile Saint-Martin și Saint-Pierre. Seara, explorăm aerodromul înainte de lăsarea întunericului.",
+            "en": "A chilly winter morning takes us by car from the monument to the church and castle. At noon, we drive comfortably to Saint-Laurent church and Peyraud castle. In the afternoon, we visit Saint-Martin and Saint-Pierre churches. In the evening, we explore the aerodrome before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monument aux morts",
+                "hu": "Monument aux morts",
+                "ro": "Monument aux morts",
+                "en": "Monument aux morts"
+              },
+              "tip_5lang": {
+                "de": "Eine frostige, stille Atmosphäre umgibt das Denkmal; die zuverlässige Autoheizung wärmt Sie nach der kurzen Besichtigung schnell wieder auf.",
+                "hu": "Fagyos, csendes hangulat övezi az emlékművet; a megbízható autófűtés a rövid megtekintés után gyorsan újra felmelegíti Önt.",
+                "ro": "O atmosferă înghețată și tăcută înconjoară monumentul; căldura fiabilă a mașinii vă va încălzi rapid la loc după scurta vizionare.",
+                "en": "A frosty, silent atmosphere surrounds the monument; the reliable car heater will quickly warm you up again after the short viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Rambert",
+                "hu": "Église Saint-Rambert",
+                "ro": "Église Saint-Rambert",
+                "en": "Église Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Die alten, stillen Gemäuer wirken im Winter besonders friedlich und zeitlos; ideal für eine kurze, kühle Pause abseits des Autos.",
+                "hu": "A régi, csendes falak télen különösen békésnek és időtlennek tűnnek; ideális egy rövid, hűvös pihenőre az autótól távol.",
+                "ro": "Zidurile vechi și tăcute par deosebit de pașnice și atemporale iarna; ideal pentru o scurtă pauză răcoroasă departe de mașină.",
+                "en": "The old, silent walls look particularly peaceful and timeless in winter; ideal for a short, chilly break away from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Rambert",
+                "hu": "Château de Saint-Rambert",
+                "ro": "Château de Saint-Rambert",
+                "en": "Château de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt bietet großartige Blicke auf das winterliche Schloss; Vorsicht jedoch vor unsichtbarem Glatteis auf dem Schattenparkplatz.",
+                "hu": "Az út nagyszerű kilátást nyújt a téli kastélyra; vigyázzon azonban a láthatatlan jégpáncélra az árnyékos parkolóban.",
+                "ro": "Drumul oferă vederi grozave spre castelul de iarnă; atenție însă la gheața invizibilă din parcarea aflată la umbră.",
+                "en": "The drive offers great views of the wintery castle; beware, however, of invisible black ice in the shaded parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Eine gemütliche, warme Fahrt durch die verschneite oder frostige winterliche Landschaft; die Kirche bietet ruhige, besinnliche Momente der Einkehr.",
+                "hu": "Kényelmes, meleg autózás a havas vagy fagyos téli tájon keresztül; a templom csendes, elmélyült pillanatokat kínál a betérőknek.",
+                "ro": "O călătorie confortabilă și caldă prin peisajul de iarnă înzăpezit sau înghețat; biserica oferă momente liniștite, contemplative de reculegere.",
+                "en": "A comfortable, warm drive through the snowy or frosty winter landscape; the church offers quiet, contemplative moments of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Peyraud",
+                "hu": "Château de Peyraud",
+                "ro": "Château de Peyraud",
+                "en": "Château de Peyraud"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kahlen, skulpturalen Bäume rund um das beeindruckende Château; hochwertige winterfeste Reifen sind auf diesen Wegen von großem Vorteil.",
+                "hu": "Csodálja meg a lenyűgöző kastély körüli kopasz, szoborszerű fákat; a kiváló minőségű téli gumiabroncsok ezeken az utakon nagy előnyt jelentenek.",
+                "ro": "Admirați copacii golași, ca niște sculpturi, din jurul castelului impresionant; anvelopele de iarnă de înaltă calitate sunt un mare avantaj pe aceste drumuri.",
+                "en": "Admire the bare, sculptural trees around the impressive castle; high-quality winter tires are of great advantage on these roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Das Kircheninnere ist meist ein sehr kühles Erlebnis, wärmen Sie sich direkt danach mit einem heißen Kaffee gemütlich in Ihrem Auto auf.",
+                "hu": "A templombelső általában nagyon hűvös élmény, közvetlenül utána melegedjen fel egy forró kávéval kényelmesen az autójában.",
+                "ro": "Interiorul bisericii e de obicei o experiență foarte răcoroasă, încălziți-vă imediat după cu o cafea fierbinte confortabil în mașină.",
+                "en": "The church interior is usually a very chilly experience, warm up comfortably right afterwards with a hot coffee in your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das spärliche Tageslicht für einige schöne Architekturfotos, bevor die kalte, winterliche Dunkelheit überraschend früh am Nachmittag hereinbricht.",
+                "hu": "Használja ki a gyér nappali fényt néhány szép építészeti fotó elkészítéséhez, mielőtt a hideg, téli sötétség meglepően korán délután beáll.",
+                "ro": "Profitați de lumina slabă a zilei pentru câteva poze frumoase de arhitectură înainte ca întunericul rece de iarnă să cadă surprinzător de devreme după-amiaza.",
+                "en": "Make use of the sparse daylight for some beautiful architectural photos before the cold, wintery darkness falls surprisingly early in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Aérodrome de Saint-Rambert",
+                "hu": "Aérodrome de Saint-Rambert",
+                "ro": "Aérodrome de Saint-Rambert",
+                "en": "Aérodrome de Saint-Rambert"
+              },
+              "tip_5lang": {
+                "de": "Ein äußerst interessanter technischer Abschluss; stellen Sie sicher, dass Sie den oft spektakulären winterlichen Sonnenuntergang hier draußen nicht verpassen.",
+                "hu": "Rendkívül érdekes technikai befejezés; ügyeljen arra, hogy ne maradjon le a gyakran látványos téli naplementéről itt a szabadban.",
+                "ro": "O încheiere tehnică extrem de interesantă; asigurați-vă că nu ratați apusul de soare de iarnă adesea spectaculos aici, în aer liber.",
+                "en": "An extremely interesting technical conclusion; make sure you don't miss the often spectacular winter sunset out here."
+              }
+            }
+          ]
+        }
       }
     }
   }

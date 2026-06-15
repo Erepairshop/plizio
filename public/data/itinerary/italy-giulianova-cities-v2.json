@@ -137,6 +137,168 @@
         "hu": "A reggel az elegáns felsővárosban, a történelmi Cappella Gentilizia kápolnánál kezdődik. A dél környéke az egyedülálló nyolcszögletű dóm és a Misericordia templom felfedezésével telik. A délután a városi történelem megismerésére összpontosít a La Rocca múzeumban. Az este képzőművészettel és pazar kilátással zárul a Splendore múzeumban.",
         "ro": "Dimineața începe în elegantul oraș de sus, la istorica Cappella Gentilizia. Amiaza se desfășoară în jurul domului octogonal unic și al bisericii Misericordia. După-amiaza este dedicată descoperirii istoriei civice la muzeul La Rocca. Seara se încheie cu artă rafinată și priveliști panoramice la muzeul Splendore.",
         "en": "Morning starts in the elegant upper town at the historic Cappella Gentilizia. Midday unfolds around the unique octagonal Duomo and Misericordia church. The afternoon is dedicated to discovering the civic history at La Rocca. Evening concludes with fine art and sweeping views at the Splendore museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die historischen Kapellen von Giulianova unter dem Schutz eines Regenschirms. Mittags bietet der Dom einen trockenen Zufluchtsort mit beeindruckender Architektur. Am Nachmittag tauchen wir tief in die Geschichte der Museen ein, während der Regen gegen die alten Mauern peitscht. Den Abend lassen wir gemütlich bei dem sanften Rauschen des Regens im Stadtzentrum ausklingen.",
+            "hu": "Reggel Giulianova történelmi kápolnáit fedezzük fel esernyőnk védelmében. Délben a dóm nyújt száraz menedéket és lenyűgöző építészeti élményt. Délután elmerülünk a múzeumok gazdag gyűjteményeiben, miközben az eső a régi falakon kopog. Az estét a városközpont meghitt hangulatában zárjuk, élvezve az eső áztatta utcák különleges, csillogó látványát.",
+            "ro": "Dimineața explorăm capelele istorice din Giulianova sub protecția umbrelei. La prânz, domul oferă un refugiu uscat și o experiență arhitecturală impresionantă. După-amiaza ne cufundăm în colecțiile bogate ale muzeelor, în timp ce ploaia bate în zidurile vechi. Seara se încheie în atmosfera intimă a centrului orașului, admirând reflexiile luminilor pe străzile umede.",
+            "en": "In the morning, we explore the historical chapels of Giulianova under the protection of an umbrella. At noon, the cathedral provides a dry refuge and an impressive architectural experience. In the afternoon, we dive into the museums' rich collections while the rain taps against the old walls. The evening ends in the cozy atmosphere of the city center, enjoying the glistening wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cappella Gentilizia de Bartolomei",
+                "hu": "Cappella Gentilizia de Bartolomei",
+                "ro": "Cappella Gentilizia de Bartolomei",
+                "en": "Cappella Gentilizia de Bartolomei"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die intimen Details dieser Privatkapelle; der Eingang bietet sofortigen Schutz vor dem Regen, achten Sie jedoch auf die glatten Stufen vor dem Portal.",
+                "hu": "Csodálja meg e magánkápolna meghitt részleteit; a bejárat azonnali menedéket nyújt az eső elől, de ügyeljen a portál előtti csúszós lépcsőfokokra.",
+                "ro": "Admirați detaliile intime ale acestei capele private; intrarea oferă adăpost imediat împotriva ploii, dar aveți grijă la treptele alunecoase din fața portalului.",
+                "en": "Admire the intimate details of this private chapel; the entrance provides immediate shelter from the rain, but watch out for the slippery steps in front of the portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Flaviano",
+                "hu": "Duomo di San Flaviano",
+                "ro": "Duomo di San Flaviano",
+                "en": "Duomo di San Flaviano"
+              },
+              "tip_5lang": {
+                "de": "Die achteckige Kuppel ist im Inneren spektakulär und hält Sie trocken; nutzen Sie die Zeit für eine stille Meditation, während es draußen heftig regnet.",
+                "hu": "A nyolcszögletű kupola belülről látványos és szárazon tartja Önt; használja ki az időt egy csendes meditációra, miközben odakint hevesen esik az eső.",
+                "ro": "Cupola octogonală este spectaculoasă în interior și vă menține uscat; profitați de timp pentru o meditație liniștită în timp ce afară plouă torențial.",
+                "en": "The octagonal dome is spectacular inside and keeps you dry; take the time for a quiet meditation while it rains heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Della Misericordia",
+                "hu": "Chiesa Della Misericordia",
+                "ro": "Chiesa Della Misericordia",
+                "en": "Chiesa Della Misericordia"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist ein kleiner, ruhiger Rückzugsort; schütteln Sie Ihren Regenschirm draußen gut ab, um den historischen Innenraum trocken und sicher zu halten.",
+                "hu": "Ez a templom egy kicsi, nyugodt búvóhely; rázza le alaposan az esernyőjét kint, hogy a történelmi belső teret szárazon és biztonságosan tarthassa.",
+                "ro": "Această biserică este un mic refugiu liniștit; scuturați bine umbrela afară pentru a păstra interiorul istoric uscat și sigur pentru vizitare.",
+                "en": "This church is a small, quiet retreat; shake your umbrella out well before entering to keep the historical interior dry and safe for everyone."
+              }
+            },
+            {
+              "name": {
+                "de": "Polo Museale Civico La Rocca",
+                "hu": "Polo Museale Civico La Rocca",
+                "ro": "Polo Museale Civico La Rocca",
+                "en": "Polo Museale Civico La Rocca"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen in den ehemaligen Festungsmauern; die dicken Mauern isolieren perfekt gegen das nasskalte Wetter draußen.",
+                "hu": "Fedezze fel a kiállításokat az egykori erőd falaiban; a vastag falak tökéletesen elszigetelik Önt a kinti nyirkos, esős időjárástól.",
+                "ro": "Explorați expozițiile din interiorul zidurilor fostei cetăți; zidurile groase vă izolează perfect de vremea umedă și ploioasă de afară.",
+                "en": "Explore the exhibits within the former fortress walls; the thick masonry perfectly insulates you from the damp, rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte dello Splendore",
+                "hu": "Museo d'arte dello Splendore",
+                "ro": "Museo d'arte dello Splendore",
+                "en": "Museo d'arte dello Splendore"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die moderne Kunst in den großzügigen Galerien; der Aufstieg zum Museum kann bei Regen rutschig sein, tragen Sie daher Schuhe mit gutem Profil.",
+                "hu": "Élvezze a modern művészetet a tágas galériákban; a múzeumhoz vezető emelkedő esőben csúszós lehet, ezért viseljen bordázott talpú cipőt.",
+                "ro": "Bucurați-vă de arta modernă în galeriile spațioase; urcușul spre muzeu poate fi alunecos pe ploaie, așa că purtați încălțăminte cu aderență bună.",
+                "en": "Enjoy modern art in the spacious galleries; the climb to the museum can be slippery in the rain, so wear shoes with good tread for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Cappella de Bartolomei, wo die klare Luft die Architektur betont. Mittags wärmen wir uns im prächtigen Dom auf. Am Nachmittag bieten die Museen kulturelle Wärme vor dem frühen Sonnenuntergang um 17:00 Uhr. Den Abend verbringen wir in den beleuchteten Gassen der Altstadt, eingehüllt in warme Winterkleidung.",
+            "hu": "A téli reggel frissen indul a Cappella de Bartolomeinál, ahol a tiszta levegő kiemeli az építészetet. Délben a pompás dóm belső terében melegszünk fel. Délután a múzeumok kínálnak kulturális menedéket a korai, 17:00-s naplemente előtt. Az estét a várost borító ünnepi fények között töltjük, meleg téli ruhába burkolózva.",
+            "ro": "Dimineața de iarnă începe proaspăt la Cappella de Bartolomei, unde aerul curat evidențiază arhitectura. La prânz ne încălzim în interiorul splendidului dom. După-amiaza, muzeele oferă refugiu cultural înainte de apusul devreme de la ora 17:00. Seara o petrecem printre luminile festive ale orașului, înfofoliți în haine groase de iarnă.",
+            "en": "The winter morning starts fresh at Cappella de Bartolomei, where the crisp air highlights the architecture. At noon, we warm up inside the magnificent cathedral. In the afternoon, museums offer cultural warmth before the early sunset at 17:00. We spend the evening among the festive city lights, wrapped in warm winter clothing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cappella Gentilizia de Bartolomei",
+                "hu": "Cappella Gentilizia de Bartolomei",
+                "ro": "Cappella Gentilizia de Bartolomei",
+                "en": "Cappella Gentilizia de Bartolomei"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe des Winters lässt die sakrale Atmosphäre stärker wirken; tragen Sie mehrere Schichten Kleidung, da es in der ungeheizten Kapelle recht kühl sein kann.",
+                "hu": "A tél csendje még erőteljesebbé teszi a szakrális hangulatot; öltözzön rétegesen, mivel a fűtetlen kápolnában hűvös lehet a levegő.",
+                "ro": "Liniștea iernii face atmosfera sacră și mai puternică; îmbrăcați-vă în straturi, deoarece aerul poate fi destul de rece în capela neîncălzită.",
+                "en": "The silence of winter makes the sacred atmosphere even more powerful; dress in layers, as the air inside the unheated chapel can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Flaviano",
+                "hu": "Duomo di San Flaviano",
+                "ro": "Duomo di San Flaviano",
+                "en": "Duomo di San Flaviano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Renaissance-Architektur in der milden Wintersonne; das Innere bietet einen windgeschützten Ort, um die kunstvollen Details in Ruhe zu betrachten.",
+                "hu": "Csodálja meg a reneszánsz építészetet a szelíd téli napsütésben; a belső tér szélvédett helyet kínál a díszes részletek nyugodt megtekintéséhez.",
+                "ro": "Admirați arhitectura renascentistă în soarele blând de iarnă; interiorul oferă un loc ferit de vânt pentru a examina detaliile artistice în liniște.",
+                "en": "Admire the Renaissance architecture in the gentle winter sun; the interior offers a wind-sheltered spot to examine the ornate details in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Della Misericordia",
+                "hu": "Chiesa Della Misericordia",
+                "ro": "Chiesa Della Misericordia",
+                "en": "Chiesa Della Misericordia"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp im Warmen; die Kirche bietet eine willkommene Pause vom kalten Winterwind, der oft durch die engen Gassen weht.",
+                "hu": "Egy rövid, meghitt megálló a melegben; a templom hívogató pihenőt kínál a hideg téli szél elől, amely gyakran átfúj a szűk utcákon.",
+                "ro": "O oprire scurtă și meditativă la căldură; biserica oferă o pauză binevenită de vântul rece de iarnă care suflă adesea prin străzile înguste.",
+                "en": "A short, contemplative stop in the warmth; the church offers a welcome break from the cold winter wind that often blows through the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Polo Museale Civico La Rocca",
+                "hu": "Polo Museale Civico La Rocca",
+                "ro": "Polo Museale Civico La Rocca",
+                "en": "Polo Museale Civico La Rocca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume der Festung, um Geschichte zu erleben; planen Sie den Besuch vor 15:30 Uhr, um das natürliche Licht in den Sälen optimal zu nutzen.",
+                "hu": "Használja ki az erőd fűtött termeit a történelem megismeréséhez; tervezze a látogatást 15:30 előtt, hogy kihasználja a termek természetes fényeit.",
+                "ro": "Profitați de sălile încălzite ale cetății pentru a învăța istoria; planificați vizita înainte de ora 15:30 pentru a beneficia de lumina naturală din săli.",
+                "en": "Take advantage of the fortress's heated rooms to learn history; plan your visit before 15:30 to make the most of the natural light in the halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte dello Splendore",
+                "hu": "Museo d'arte dello Splendore",
+                "ro": "Museo d'arte dello Splendore",
+                "en": "Museo d'arte dello Splendore"
+              },
+              "tip_5lang": {
+                "de": "Der Blick von der Terrasse ist im Winter bei klarer Sicht besonders weit; wärmen Sie sich danach in den Ausstellungsräumen bei moderner Kunst auf.",
+                "hu": "A teraszról nyíló kilátás télen, tiszta időben különösen messzire nyúlik; utána melegedjen fel a modern művészeti alkotások között a kiállítótermekben.",
+                "ro": "Priveliștea de pe terasă este spectaculoasă iarna când vizibilitatea este maximă; apoi încălziți-vă printre lucrările de artă modernă din săli.",
+                "en": "The view from the terrace is particularly far-reaching in winter on clear days; afterwards, warm up among the modern artworks in the exhibit halls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a reggelt az északi parton álló történelmi Salinello toronynál, majd pihenjen meg a La Tellina strandon. Délben tekerjen el az impozáns San Pietro Apostolo templomhoz, és nézze meg a kikötői hajó emlékművet. A délutánt a tengerközeli hatalmas Ennio Flaiano amfiteátrum felfedezésével töltheti. A napot a felsővárosi dóm és a pompás művészeti múzeum megtekintésével zárja.",
         "ro": "Începeți dimineața la istoricul turn Salinello de pe coasta de nord, înainte de a vă relaxa la La Tellina. La prânz, pedalați spre impunătoarea biserică San Pietro Apostolo și vedeți monumentul cu barcă din port. Petreceți după-amiaza explorând marele amfiteatru Ennio Flaiano, aproape de mare. Încheiați ziua urcând la domul din orașul de sus și la splendidul muzeu de artă.",
         "en": "Kick off your morning at the historic Salinello tower on the northern coast before relaxing at La Tellina. By noon, cycle to the imposing San Pietro Apostolo and check out the harbor's Boat monument. Spend the afternoon exploring the grand Ennio Flaiano amphitheater near the sea. Finish your day climbing to the upper town's Duomo and the splendid art museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Unsere Radtour startet am Torre del Salinello, wobei wir vorsichtig über die nassen Wege steuern. Mittags suchen wir Schutz in den Kirchen der Stadt, um die Fahrräder kurz abzustellen. Am Nachmittag führt uns der Weg zum Hafen, wo die Meeresbrise den Regen intensiviert. Wir beenden den Tag mit einem Besuch im Kunstmuseum, um uns im Trockenen von der Fahrt zu erholen.",
+            "hu": "Kerékpártúránk a Torre del Salinellónál indul, óvatosan haladva a vizes utakon. Délben a város templomaiban keresünk menedéket, rövid időre leparkolva a bicikliket. Délután a kikötő felé vesszük az irányt, ahol a tengeri szél felerősíti az esőt. A napot a művészeti múzeumban zárjuk, hogy száraz helyen pihenjük ki a tekerés fáradalmait.",
+            "ro": "Turul nostru pe bicicletă începe la Torre del Salinello, pedalând cu grijă pe drumurile ude. La prânz căutăm adăpost în bisericile orașului pentru a parca scurt bicicletele. După-amiaza ne îndreptăm spre port, unde briza mării intensifică ploaia. Încheiem ziua cu o vizită la muzeul de artă pentru a ne recupera la adăpost după traseu.",
+            "en": "Our bike tour starts at Torre del Salinello, steering carefully over the wet paths. At noon, we seek shelter in the city's churches to briefly park the bikes. In the afternoon, the path leads us to the harbor, where the sea breeze intensifies the rain. We end the day with a visit to the art museum to recover from the ride in a dry place."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre del Salinello",
+                "hu": "Torre del Salinello",
+                "ro": "Torre del Salinello",
+                "en": "Torre del Salinello"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenweg kann bei Regen sehr rutschig sein; bremsen Sie frühzeitig vor Kurven und nutzen Sie den Turm als kurzen Unterstand gegen den Wind.",
+                "hu": "A tengerparti út esőben nagyon csúszós lehet; fékezzen időben a kanyarok előtt, és használja a torony tövét rövid szélvédett pihenőhelyként.",
+                "ro": "Drumul de coastă poate fi foarte alunecos pe ploaie; frânați din timp înainte de curbe și folosiți baza turnului ca un scurt adăpost contra vântului.",
+                "en": "The coastal path can be very slippery in the rain; brake early before curves and use the base of the tower as a brief shelter from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La Tellina",
+                "hu": "La Tellina",
+                "ro": "La Tellina",
+                "en": "La Tellina"
+              },
+              "tip_5lang": {
+                "de": "Ein offener Bereich, der bei Regen ungemütlich sein kann; ziehen Sie eine hochwertige Regenjacke an, um die Meeresnähe trotz der Nässe zu genießen.",
+                "hu": "Nyitott terület, amely esőben barátságtalan lehet; viseljen minőségi esőkabátot, hogy a nedvesség ellenére is élvezhesse a tenger közelségét.",
+                "ro": "O zonă deschisă care poate fi neplăcută pe ploaie; purtați o jachetă impermeabilă de calitate pentru a vă bucura de proximitatea mării în ciuda umezelii.",
+                "en": "An open area that can be unpleasant in the rain; wear a high-quality raincoat to enjoy the proximity to the sea despite the wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pietro Apostolo",
+                "hu": "San Pietro Apostolo",
+                "ro": "San Pietro Apostolo",
+                "en": "San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung; die moderne Kirche bietet einen trockenen Raum, um die Beine nach der Fahrt auf nassen Straßen zu lockern.",
+                "hu": "Parkolja le a biciklit az előtető alatt; a modern templom száraz belső teret kínál, ahol átmozgathatja lábait a vizes utakon való tekerés után.",
+                "ro": "Parcați bicicleta sub streașină; biserica modernă oferă un spațiu uscat unde vă puteți dezmorți picioarele după pedalatul pe drumuri ude.",
+                "en": "Park your bike under the overhang; the modern church offers a dry space to stretch your legs after riding on the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Boat",
+                "hu": "Boat",
+                "ro": "Boat",
+                "en": "Boat"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal liegt ungeschützt; halten Sie nur kurz für ein Foto und achten Sie auf Pfützen, die die Tiefe von Schlaglöchern auf dem Parkplatz verdecken.",
+                "hu": "Ez az emlékmű teljesen nyitott helyen van; csak rövid időre álljon meg egy fotóra, és ügyeljen a tócsákra, amelyek elrejthetik az úthibákat.",
+                "ro": "Acest monument este într-un loc neprotejat; opriți-vă doar scurt pentru o fotografie și atenție la bălțile care pot ascunde gropile din asfalt.",
+                "en": "This monument is in an unprotected spot; stop only briefly for a photo and watch out for puddles that might hide potholes in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Ennio Flaiano",
+                "hu": "Anfiteatro Ennio Flaiano",
+                "ro": "Anfiteatro Ennio Flaiano",
+                "en": "Anfiteatro Ennio Flaiano"
+              },
+              "tip_5lang": {
+                "de": "Die Tribünen bieten kaum Schutz; nutzen Sie die umliegenden Arkaden, um das Amphitheater aus der Ferne zu betrachten, ohne völlig durchnässt zu werden.",
+                "hu": "A lelátók alig nyújtanak védelmet; használja a környező árkádokat, hogy távolról szemlélje az amfiteátrumot anélkül, hogy teljesen elázna.",
+                "ro": "Tribunele oferă puțin adăpost; folosiți arcadele din jur pentru a observa amfiteatrul de la distanță fără a vă uda complet în timpul vizitei.",
+                "en": "The stands offer little shelter; use the surrounding arcades to view the amphitheater from a distance without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Flaviano",
+                "hu": "Duomo di San Flaviano",
+                "ro": "Duomo di San Flaviano",
+                "en": "Duomo di San Flaviano"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Oberstadt ist bei Regen anstrengend und rutschig; schalten Sie in einen niedrigen Gang und nutzen Sie die Kirchenbesichtigung als Pause.",
+                "hu": "A felsővárosba vezető emelkedő esőben fárasztó és csúszós; váltson alacsony fokozatba, és használja a templomlátogatást pihenőként a tekerésben.",
+                "ro": "Urcarea spre orașul de sus este obositoare și alunecoasă pe ploaie; schimbați într-o viteză mică și folosiți vizitarea bisericii ca o pauză de odihnă.",
+                "en": "The climb to the upper city is tiring and slippery in the rain; switch to a low gear and use the church visit as a resting break from riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte dello Splendore",
+                "hu": "Museo d'arte dello Splendore",
+                "ro": "Museo d'arte dello Splendore",
+                "en": "Museo d'arte dello Splendore"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel Ihrer Tour; die warmen Museumsräume sind die perfekte Belohnung, trocknen Sie Ihre Ausrüstung im Eingangsbereich ab, bevor Sie die Kunst genießen.",
+                "hu": "A túra végállomása; a meleg múzeumi termek tökéletes jutalmat jelentenek, szárítsa meg felszerelését a bejáratnál, mielőtt élvezné a művészetet.",
+                "ro": "Destinația finală a turului; sălile calde ale muzeului sunt recompensa perfectă, uscați-vă echipamentul la intrare înainte de a admira arta.",
+                "en": "The final destination of your tour; the warm museum rooms are the perfect reward, dry off your gear at the entrance before enjoying the art."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir entlang der Küste, wobei die kühle Meeresluft uns wachrüttelt. Mittags erkunden wir die historischen Gebäude, die im Winterlicht besonders plastisch wirken. Am Nachmittag suchen wir kulturelle Stopps auf, bevor die Dunkelheit um 17:00 Uhr einsetzt. Den Abend beenden wir mit einer beleuchteten Fahrt durch die festlich geschmückte Unterstadt.",
+            "hu": "Reggel a tengerpart mentén kerékpározunk, ahol a hűvös tengeri levegő frissítően hat. Délben a történelmi épületeket fedezzük fel, amelyek a téli fényben különösen plasztikusak. Délután kulturális megállókat keresünk, mielőtt 17:00-kor leszáll az éj. Az estét a díszkivilágításban úszó alsóvároson való tekeréssel zárjuk.",
+            "ro": "Dimineața pedalăm de-a lungul coastei, unde aerul rece al mării este revigorant. La prânz explorăm clădirile istorice, care par deosebit de plastice în lumina iernii. După-amiaza căutăm opriri culturale înainte de lăsarea întunericului la ora 17:00. Încheiem seara cu o plimbare prin orașul de jos luminat festiv.",
+            "en": "In the morning, we cycle along the coast where the cool sea air is refreshing. At noon, we explore the historical buildings that look particularly vivid in the winter light. In the afternoon, we seek cultural stops before darkness falls at 17:00. We finish the evening with a ride through the festively lit lower town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre del Salinello",
+                "hu": "Torre del Salinello",
+                "ro": "Torre del Salinello",
+                "en": "Torre del Salinello"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter eisig; tragen Sie winddichte Handschuhe, um Ihre Hände am Lenker warm zu halten, während Sie die Aussicht am Turm genießen.",
+                "hu": "A tengeri szél télen jeges; viseljen szélálló kesztyűt, hogy melegen tartsa kezeit a kormányon, miközben élvezi a toronynál nyíló kilátást.",
+                "ro": "Briza mării este înghețată iarna; purtați mănuși rezistente la vânt pentru a vă menține mâinile calde pe ghidon în timp ce admirați vederea de la turn.",
+                "en": "The sea breeze is icy in winter; wear windproof gloves to keep your hands warm on the handlebars while enjoying the view at the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "La Tellina",
+                "hu": "La Tellina",
+                "ro": "La Tellina",
+                "en": "La Tellina"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Stopp an der Küste; nutzen Sie die Wintersonne für Vitamin D, aber bleiben Sie in Bewegung, um bei der kühlen Brise nicht auszukühlen.",
+                "hu": "Csendes megálló a parton; használja ki a téli napsütést a D-vitaminhoz, de maradjon mozgásban, hogy ne hűljön ki a hűvös tengerparti szélben.",
+                "ro": "O oprire liniștită pe coastă; profitați de soarele de iarnă pentru vitamina D, dar rămâneți în mișcare pentru a nu răci în briza rece a mării.",
+                "en": "A quiet stop on the coast; take advantage of the winter sun for Vitamin D, but stay in motion to keep from getting chilled in the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pietro Apostolo",
+                "hu": "San Pietro Apostolo",
+                "ro": "San Pietro Apostolo",
+                "en": "San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur wirkt im klaren Winterlicht fast surreal; im Inneren finden Sie einen Moment der Ruhe und Schutz vor dem schneidenden Ostwind.",
+                "hu": "A modern építészet a tiszta téli fényben szinte szürreálisnak hat; odabent nyugalmat és védelmet talál a metsző keleti szél elől.",
+                "ro": "Arhitectura modernă pare aproape ireală în lumina clară a iernii; în interior veți găsi un moment de liniște și protecție contra vântului tăios.",
+                "en": "The modern architecture looks almost surreal in the clear winter light; inside you will find a moment of peace and protection from the biting east wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Boat",
+                "hu": "Boat",
+                "ro": "Boat",
+                "en": "Boat"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal erinnert im Winter an die raue See; prüfen Sie Ihre Fahrradbeleuchtung hier nochmals, da es bald dämmrig wird und die Sicht abnimmt.",
+                "hu": "Az emlékmű télen a zord tengerre emlékeztet; ellenőrizze itt újra a kerékpár lámpáit, mert hamarosan sötétedni kezd és romlanak a látási viszonyok.",
+                "ro": "Monumentul amintește iarna de marea aspră; verificați din nou luminile bicicletei aici, deoarece în curând se va însera și vizibilitatea va scădea.",
+                "en": "The monument reminds one of the rough sea in winter; check your bike lights again here as it will soon get dark and visibility will decrease."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Ennio Flaiano",
+                "hu": "Anfiteatro Ennio Flaiano",
+                "ro": "Anfiteatro Ennio Flaiano",
+                "en": "Anfiteatro Ennio Flaiano"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort in der Nebensaison; die Steinstufen können sehr kalt sein, daher ist dies eher ein Stopp zum Schauen als zum langen Verweilen.",
+                "hu": "Magányos hely a főszezonon kívül; a kőlépcsők nagyon hidegek lehetnek, ezért ez inkább egy nézelődős megálló, mintsem hosszas pihenőhely.",
+                "ro": "Un loc solitar în afara sezonului; treptele de piatră pot fi foarte reci, deci aceasta este mai degrabă o oprire pentru vizionare decât pentru odihnă.",
+                "en": "A lonely spot in the off-season; the stone steps can be very cold, so this is more of a viewing stop than a place for a long sit-down rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Flaviano",
+                "hu": "Duomo di San Flaviano",
+                "ro": "Duomo di San Flaviano",
+                "en": "Duomo di San Flaviano"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die verschneiten Apenninen im Hintergrund ist spektakulär; die dicken Mauern des Doms bieten eine stabile Temperatur zum Aufwärmen.",
+                "hu": "A háttérben lévő havas Appenninek látványa lenyűgöző; a dóm vastag falai állandó, viszonylag enyhe hőmérsékletet biztosítanak a felmelegedéshez.",
+                "ro": "Vederea spre Apeninii înzăpeziți din fundal este spectaculoasă; zidurile groase ale domului oferă o temperatură stabilă pentru a vă încălzi puțin.",
+                "en": "The view of the snowy Apennines in the background is spectacular; the thick walls of the cathedral provide a stable temperature for warming up."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte dello Splendore",
+                "hu": "Museo d'arte dello Splendore",
+                "ro": "Museo d'arte dello Splendore",
+                "en": "Museo d'arte dello Splendore"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, um im Warmen zu sein, wenn es dunkel wird; die Ausstellungen sind im Winter oft angenehm leer und ruhig.",
+                "hu": "Zárja a túrát 17:00 előtt, hogy bent legyen a melegben, amikor besötétedik; a kiállítások télen gyakran kellemesen üresek és csendesek.",
+                "ro": "Încheiați turul înainte de ora 17:00 pentru a fi la căldură când se întunecă; expozițiile sunt adesea plăcut de goale și liniștite în timpul iernii.",
+                "en": "End the tour before 17:00 to be in the warmth when it gets dark; the exhibits are often pleasantly empty and quiet during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "A nap a Castrum Novum római kori romjainak és a közeli Santa Maria a Mare templomnak a felfedezésével indul. Délben a nyüzsgő part mentén az Annunziata plébániához és a kikötő központi emlékművéhez vezet az út. A délután egy tengerparti pihenőt hoz a Don Juan-nál, majd felhajt a történelmi központ ikonikus dómjához. Az este mély kulturális elmerüléssel zárul a La Rocca és a Splendore múzeumokban.",
         "ro": "Ziua dumneavoastră începe cu o incursiune în istoria romană antică la ruinele Castrum Novum și la biserica apropiată Santa Maria a Mare. Amiaza vă poartă pe coasta animată către parohia Annunziata și monumentul central al portului. După-amiaza aduce o pauză de coastă la Don Juan, înainte de a conduce spre domul iconic din centrul istoric. Seara se încheie cu o imersiune culturală profundă la muzeele La Rocca și Splendore.",
         "en": "Your day begins with a dive into ancient Roman history at the Castrum Novum ruins and the nearby Santa Maria a Mare. Midday takes you up the bustling coast to the Annunziata parish and the central harbor monument. Afternoon brings a coastal break at Don Juan before driving up to the historic center's iconic Duomo. Evening concludes with a deep cultural immersion at La Rocca and Splendore museums."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Tag bequem im Auto und besuchen historische Stätten an der Küste. Mittags führt uns die Fahrt zum Dom, wobei wir fast direkt vor dem Eingang parken können, um trocken zu bleiben. Am Nachmittag erkunden wir die Museen der Oberstadt, während wir die Aussicht auf das stürmische Meer aus dem Autofenster genießen. Den Abend verbringen wir entspannt im Auto oder in einem Café.",
+            "hu": "Kényelmesen, autóval kezdjük a napot, meglátogatva a tengerparti történelmi helyszíneket. Délben a dómhoz hajtunk, ahol szinte a bejáratnál tudunk parkolni, így szárazon maradunk. Délután a felsőváros múzeumait fedezzük fel, miközben az autó ablakából csodáljuk a viharos tenger látványát. Az estét pihenéssel töltjük az autóban vagy egy hangulatos kávézóban.",
+            "ro": "Începem ziua confortabil cu mașina, vizitând siturile istorice de pe coastă. La prânz conducem spre dom, unde putem parca aproape de intrare pentru a rămâne uscați. După-amiaza explorăm muzeele din orașul de sus, admirând marea înfuriată de la fereastra mașinii. Seara o petrecem relaxați în mașină sau într-o cafenea primitoare.",
+            "en": "We start the day comfortably by car, visiting historical sites along the coast. At noon, the drive leads to the cathedral, where we can park almost right at the entrance to stay dry. In the afternoon, we explore the museums of the upper town while admiring the view of the stormy sea from the car window. We spend a relaxed evening in the car or a cozy café."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castrum Novum",
+                "hu": "Castrum Novum",
+                "ro": "Castrum Novum",
+                "en": "Castrum Novum"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen bei starkem Regen zunächst aus dem Auto; nutzen Sie Regenpausen für kurze Gänge zu den informativen Schautafeln im Freien.",
+                "hu": "Heves esőben először az autóból nézze meg a romokat; használja ki az esőszüneteket a kinti információs táblákhoz tett rövid sétákhoz.",
+                "ro": "În caz de ploaie torențială, priviți ruinele mai întâi din mașină; folosiți pauzele de ploaie pentru scurte plimbări la panourile informative exterioare.",
+                "en": "In case of heavy rain, view the ruins from the car first; use breaks in the rain for short walks to the informative outdoor display boards."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria a Mare",
+                "hu": "Chiesa di Santa Maria a Mare",
+                "ro": "Chiesa di Santa Maria a Mare",
+                "en": "Chiesa di Santa Maria a Mare"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; die alte Kirche bietet einen trockenen und spirituellen Ort, um dem Prasseln des Regens zu lauschen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a régi templom száraz és spirituális helyet kínál, ahol hallgathatja az eső kopogását a tetőn.",
+                "ro": "Parcați cât mai aproape de intrare; biserica veche oferă un spațiu uscat și spiritual unde puteți asculta ropotul ploii pe acoperiș.",
+                "en": "Park as close to the entrance as possible; the old church offers a dry and spiritual place where you can listen to the rain drumming on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Santissima Annunziata",
+                "hu": "Parrocchia Santissima Annunziata",
+                "ro": "Parrocchia Santissima Annunziata",
+                "en": "Parrocchia Santissima Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe; dieser Stopp ist ideal, um das Wetter draußen kurz zu vergessen und die sakrale Kunst im Trockenen zu genießen.",
+                "hu": "Használja ki a közeli parkolási lehetőségeket; ez a megálló ideális, hogy rövid időre elfelejtse a kinti időjárást és szárazon élvezze a szakrális művészetet.",
+                "ro": "Folosiți posibilitățile de parcare din apropiere; această oprire este ideală pentru a uita scurt de vremea de afară și a admira arta sacră la uscat.",
+                "en": "Take advantage of the nearby parking options; this stop is ideal for briefly forgetting the weather outside and enjoying sacred art in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Boat",
+                "hu": "Boat",
+                "ro": "Boat",
+                "en": "Boat"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp direkt vom Fenster aus; die beleuchtete Silhouette des Boots sieht bei regnerischem Wetter besonders dramatisch und fotogen aus.",
+                "hu": "Gyors fotómegálló közvetlenül az ablakból; a hajó megvilágított sziluettje esős időben különösen drámainak és fotogénnek hat.",
+                "ro": "O oprire rapidă pentru fotografii direct de la fereastră; silueta iluminată a bărcii pare deosebit de dramatică și fotogenică pe vreme ploioasă.",
+                "en": "A quick photo stop right from the window; the illuminated silhouette of the boat looks particularly dramatic and photogenic in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Don Juan",
+                "hu": "Don Juan",
+                "ro": "Don Juan",
+                "en": "Don Juan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Strand aus der Sicherheit Ihres Autos; der Parkplatz kann Pfützen bilden, achten Sie beim Aussteigen auf festen Untergrund.",
+                "hu": "Élvezze a tengerparti kilátást az autó biztonságából; a parkolóban tócsák alakulhatnak ki, ezért kiszálláskor ügyeljen a szilárd talajra.",
+                "ro": "Bucurați-vă de vederea spre plajă din siguranța mașinii; în parcare se pot forma bălți, așa că atenție la solul ferm când coborâți din vehicul.",
+                "en": "Enjoy the beach view from the safety of your car; puddles may form in the parking lot, so watch for firm ground when getting out of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Flaviano",
+                "hu": "Duomo di San Flaviano",
+                "ro": "Duomo di San Flaviano",
+                "en": "Duomo di San Flaviano"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Altstadt ist bei Regen oft neblig; fahren Sie vorsichtig und nutzen Sie den Dom als perfekten, wettergeschützten Aussichtspunkt.",
+                "hu": "A felsővárosba vezető út esőben gyakran ködös; vezessen óvatosan, és használja a dómot mint tökéletes, időjárástól védett kilátópontot.",
+                "ro": "Drumul spre orașul de sus este adesea cețos pe ploaie; conduceți cu atenție și folosiți domul ca un punct de observație perfect protejat de vreme.",
+                "en": "The drive to the upper town is often foggy in the rain; drive carefully and use the cathedral as a perfect, weather-protected viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Polo Museale Civico La Rocca",
+                "hu": "Polo Museale Civico La Rocca",
+                "ro": "Polo Museale Civico La Rocca",
+                "en": "Polo Museale Civico La Rocca"
+              },
+              "tip_5lang": {
+                "de": "Ein langer Aufenthalt im Trockenen; parken Sie in den Gassen der Umgebung und nutzen Sie den Besuch, um den stärksten Regenperioden des Tages zu entgehen.",
+                "hu": "Hosszabb tartózkodás a szárazon; parkoljon a környező utcákban, és használja a látogatást a nap legesősebb időszakainak átvészelésére.",
+                "ro": "O ședere lungă la uscat; parcați în străzile din jur și folosiți vizita pentru a evita cele mai ploioase perioade ale zilei în interiorul cetății.",
+                "en": "A long stay in the dry; park in the surrounding streets and use the visit to escape the rainiest periods of the day inside the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte dello Splendore",
+                "hu": "Museo d'arte dello Splendore",
+                "ro": "Museo d'arte dello Splendore",
+                "en": "Museo d'arte dello Splendore"
+              },
+              "tip_5lang": {
+                "de": "Das Museum hat eigene Parkplätze, was den Zugang bei Regen erleichtert; genießen Sie die Kunst, während draußen das Wetter ungemütlich bleibt.",
+                "hu": "A múzeumnak saját parkolója van, ami megkönnyíti a bejutást esőben; élvezze a művészetet, miközben odakint barátságtalan marad az időjárás.",
+                "ro": "Muzeul are parcare proprie, ceea ce ușurează accesul pe ploaie; bucurați-vă de artă în timp ce afară vremea rămâne destul de neplăcută.",
+                "en": "The museum has its own parking, making access easier in the rain; enjoy the art while the weather remains unpleasant outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer Fahrt entlang der sonnigen Küstenstraße. Mittags wärmt uns die Sitzheizung auf dem Weg zum Dom in der Oberstadt. Am Nachmittag besuchen wir die kulturellen Highlights, wobei wir die kurzen Wege zwischen Auto und Sehenswürdigkeiten schätzen. Vor dem Sonnenuntergang um 17:00 Uhr genießen wir die Aussicht, bevor wir den Tag in der festlich beleuchteten Stadt beenden.",
+            "hu": "A téli napot a napsütötte tengerparti úton való autózással kezdjük. Délben az ülésfűtés melegít fel minket a felsővárosi dómhoz vezető úton. Délután a kulturális nevezetességeket keressük fel, értékelve az autó és a látnivalók közötti rövid távolságokat. A 17:00-s naplemente előtt élvezzük a kilátást, majd a díszkivilágítású városban zárjuk a napot.",
+            "ro": "Ziua de iarnă începe cu o plimbare pe drumul însorit de coastă. La prânz, încălzirea din scaune ne răsfață în drum spre domul din orașul de sus. După-amiaza vizităm obiectivele culturale, apreciind distanțele scurte între mașină și atracții. Înainte de apusul de la ora 17:00 admirăm panorama, apoi încheiem ziua în orașul luminat festiv.",
+            "en": "The winter day starts with a drive along the sunny coastal road. At noon, the seat heating warms us up on the way to the cathedral in the upper town. In the afternoon, we visit the cultural highlights, appreciating the short distances between the car and the sights. Before the 17:00 sunset, we enjoy the view, then end the day in the festively lit city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castrum Novum",
+                "hu": "Castrum Novum",
+                "ro": "Castrum Novum",
+                "en": "Castrum Novum"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die archäologischen Details scharf hervortreten; lassen Sie den Motor nicht unnötig laufen, während Sie kurz für Fotos aussteigen.",
+                "hu": "A tiszta téli fényben élesen kirajzolódnak a régészeti részletek; ne járassa feleslegesen a motort, amíg rövid időre kiszáll fotózni a romoknál.",
+                "ro": "Lumina clară a iernii scoate în evidență detaliile arheologice; nu lăsați motorul pornit inutil cât timp coborâți scurt pentru poze la ruine.",
+                "en": "The clear winter light makes the archaeological details stand out sharply; don't leave the engine running unnecessarily while you step out briefly for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria a Mare",
+                "hu": "Chiesa di Santa Maria a Mare",
+                "ro": "Chiesa di Santa Maria a Mare",
+                "en": "Chiesa di Santa Maria a Mare"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort in der winterlichen Stille; die Nähe zum Meer bedeutet oft kühlen Wind, nutzen Sie die Wärme des Autos direkt nach dem Besuch.",
+                "hu": "Békés hely a téli csendben; a tenger közelsége gyakran hűvös szelet jelent, élvezze az autó melegét közvetlenül a látogatás után.",
+                "ro": "Un loc pașnic în liniștea iernii; proximitatea mării înseamnă adesea vânt rece, așa că bucurați-vă de căldura mașinii imediat după vizită.",
+                "en": "A peaceful spot in the winter silence; the proximity to the sea often means a cool wind, so enjoy the car's warmth immediately after the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Parrocchia Santissima Annunziata",
+                "hu": "Parrocchia Santissima Annunziata",
+                "ro": "Parrocchia Santissima Annunziata",
+                "en": "Parrocchia Santissima Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade im tiefstehenden Winterlicht; der Innenraum bietet eine angenehme Atmosphäre, um kurz innezuhalten, bevor die Fahrt weitergeht.",
+                "hu": "Csodálja meg a homlokzatot az alacsonyan járó téli napfényben; a belső tér kellemes hangulatot áraszt egy rövid pihenőhöz, mielőtt továbbhajtana.",
+                "ro": "Admirați fațada în lumina joasă a soarelui de iarnă; interiorul oferă o atmosferă plăcută pentru o scurtă pauză înainte de a continua drumul.",
+                "en": "Admire the facade in the low winter sunlight; the interior offers a pleasant atmosphere for a short pause before driving further."
+              }
+            },
+            {
+              "name": {
+                "de": "Boat",
+                "hu": "Boat",
+                "ro": "Boat",
+                "en": "Boat"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier weniger überlaufen; nutzen Sie die Parkfläche für einen kurzen Spaziergang am Hafenbecken, um die frische Meeresluft einzuatmen.",
+                "hu": "Télen itt sokkal kevesebb a látogató; használja a parkolót egy rövid sétához a kikötőben, hogy belélegezze a friss, sós tengeri levegőt.",
+                "ro": "Iarna este mult mai puțin aglomerat aici; folosiți parcarea pentru o scurtă plimbare în port pentru a respira aerul proaspăt și sărat al mării.",
+                "en": "It's much less crowded here in winter; use the parking area for a short stroll along the harbor to breathe in the fresh, salty sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Don Juan",
+                "hu": "Don Juan",
+                "ro": "Don Juan",
+                "en": "Don Juan"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winter melancholisch und weit; genießen Sie den Panoramablick aus dem beheizten Auto, während die Sonne langsam tiefer sinkt.",
+                "hu": "A tengerpart télen melankolikus és tágas; élvezze a panorámát a fűtött autóból, miközben a nap lassan egyre lejjebb ereszkedik a láthatáron.",
+                "ro": "Plaja pare melancolică și vastă iarna; bucurați-vă de panorama din mașina încălzită în timp ce soarele coboară încet spre orizont.",
+                "en": "The beach looks melancholic and vast in winter; enjoy the panorama from the heated car as the sun slowly sinks lower on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Duomo di San Flaviano",
+                "hu": "Duomo di San Flaviano",
+                "ro": "Duomo di San Flaviano",
+                "en": "Duomo di San Flaviano"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Oberstadt bietet tolle Fotomotive der verschneiten Berge; parken Sie am Rand und genießen Sie die klare, kalte Winteraussicht.",
+                "hu": "A felsővárosba vezető út remek fotótémát kínál a havas hegyekkel; parkoljon le a szélén, és élvezze a tiszta, hideg téli kilátást a tájra.",
+                "ro": "Urcarea spre orașul de sus oferă ocazii bune de fotografiat munții înzăpeziți; parcați pe margine și admirați vederea clară și rece de iarnă.",
+                "en": "The drive to the upper town offers great photo opportunities of the snowy mountains; park at the edge and enjoy the clear, cold winter view."
+              }
+            },
+            {
+              "name": {
+                "de": "Polo Museale Civico La Rocca",
+                "hu": "Polo Museale Civico La Rocca",
+                "ro": "Polo Museale Civico La Rocca",
+                "en": "Polo Museale Civico La Rocca"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich kulturell weiterzubilden, während es draußen dunkler wird; die Museumsräume sind im Winter gut temperiert und einladend.",
+                "hu": "Ideális hely a kulturális elmélyüléshez, miközben odakint sötétedik; a múzeumi termek télen is kellemes hőmérsékletűek és hívogatóak.",
+                "ro": "Un loc ideal pentru aprofundare culturală în timp ce afară se întunecă; sălile muzeului au o temperatură plăcută și sunt primitoare iarna.",
+                "en": "An ideal place for cultural immersion while it gets dark outside; the museum rooms are well-tempered and welcoming even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d'arte dello Splendore",
+                "hu": "Museo d'arte dello Splendore",
+                "ro": "Museo d'arte dello Splendore",
+                "en": "Museo d'arte dello Splendore"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag hier gegen 17:00 Uhr; die Lichter der Stadt Giulianova unter Ihnen bieten einen glitzernden Abschluss Ihrer Winterautotour.",
+                "hu": "Zárja itt a napot 17:00 körül; az Ön alatt elterülő Giulianova városának fényei csillogó lezárást adnak a téli autós túrájának.",
+                "ro": "Încheiați ziua aici în jurul orei 17:00; luminile orașului Giulianova de dedesubt oferă un final strălucitor turului dumneavoastră auto de iarnă.",
+                "en": "End your day here around 17:00; the lights of the city of Giulianova below you provide a glittering conclusion to your winter car tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

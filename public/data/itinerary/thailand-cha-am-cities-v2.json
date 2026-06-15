@@ -137,6 +137,168 @@
         "hu": "A napja a helyi friss piac nyüzsgő standjai között kezdődik, bepillantást nyújtva a mindennapi thai életbe, mielőtt elmerülne a város gazdag örökségében a Kulturális Központban.\n\nAhogy a nap magasabbra hág, fedezze fel a Wat Cha-am Khiri misztikus barlangszentélyét, ahol a nyugalmat a fő turistaútvonalaktól távol is megtapasztalhatja.\n\nA délután egy nyüzsgő helyi piacra viszi Önt gyors harapnivalókért, majd a kiterjedt Cha-am tengerpartra sétálhat, hogy jól megérdemelt pihenést töltsön a fenyők alatt.\n\nFejezze be sétáját, amikor a tengerparti szellő lehűti a levegőt, és térjen vissza a központba, ahol a nyüzsgő éjszakai piac finom utcai ételeket ígér.",
         "ro": "Ziua dvs. începe printre tarabele animate ale pieței locale, oferind o privire în viața de zi cu zi thailandeză înainte de a explora moștenirea orașului la Centrul Cultural.\n\nPe măsură ce soarele urcă, explorați altarul mistic din peșteră de la Wat Cha-am Khiri, experimentând un moment de seninătate departe de principalele rute turistice.\n\nDupă-amiaza vă aduce într-o piață locală plină de viață pentru a lua gustări rapide înainte de a vă plimba spre plaja întinsă Cha-am pentru relaxare binemeritată.\n\nÎncheiați-vă turul în timp ce briza de coastă răcorește aerul, întorcându-vă spre centru unde piața vibrantă de noapte promite mâncare stradală delicioasă și suveniruri fermecătoare.",
         "en": "Your day starts amidst the lively stalls of the local Fresh Market, offering a true glimpse into daily Thai life before diving into the town's rich heritage at the Cultural Center.\n\nAs the sun rises higher, explore the mystical cave shrine at Wat Cha-am Khiri, experiencing a moment of serenity away from the main tourist paths.\n\nThe afternoon brings you to a bustling local market area to grab quick snacks before strolling down to the extensive Cha-am Beach for some well-deserved relaxation under the pines.\n\nConclude your walking tour as the coastal breeze cools the air, returning towards the center where the vibrant Night Market promises delicious street food and charming local souvenirs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen überdacht auf dem belebten Frischmarkt. Suchen Sie mittags Schutz im Kulturzentrum und erkunden Sie die Geschichte. Nachmittagsschauer können den Tempelbesuch stören, also seien Sie vorsichtig. Beenden Sie den Abend am Strand und auf dem Nachtmarkt mit einem Regenschirm in der Hand.",
+            "hu": "Kezdje a reggelt fedett helyen a nyüzsgő piacon. Délben keressen menedéket a kulturális központban a helyi örökség felfedezése közben. A délutáni záporok megszakíthatják a templomlátogatást, ezért óvatosan lépkedjen. Zárja az estét a tengerparton és az éjszakai piacon, esernyővel a kezében.",
+            "ro": "Începeți dimineața la adăpost în piața aglomerată. La prânz, căutați refugiu în centrul cultural explorând patrimoniul local. Ploile de după-amiază pot întrerupe vizita la templu, așa că pășiți cu grijă. Încheiați seara la plajă și la piața de noapte, ținând o umbrelă la îndemână pentru burniță.",
+            "en": "Start your morning under cover at the bustling fresh market. Midday, seek shelter in the cultural center while exploring local heritage. Afternoon showers might interrupt the temple visit, so tread carefully. Conclude your evening at the beach and night market, keeping an umbrella handy for sudden drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cha-am Fresh Market",
+                "hu": "Cha-am Friss Piac",
+                "ro": "Piața de alimente proaspete Cha-am",
+                "en": "Cha-am Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie lokale Produkte unter dem Marktdach, ideal um den morgendlichen Schauern zu entkommen.",
+                "hu": "Fedezze fel a helyi termékeket a piac teteje alatt, ideális menedék a kora reggeli záporok elől.",
+                "ro": "Descoperiți produsele locale sub acoperișul pieței, ideal pentru a scăpa de ploile matinale.",
+                "en": "Discover local produce under the market's roof, ideal for escaping early morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Local Cultural Center",
+                "hu": "Cha-am Helyi Kulturális Központ",
+                "ro": "Centrul Cultural Local Cha-am",
+                "en": "Cha-am Local Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort vor dem Regen, der tiefe Einblicke in die lokale Geschichte bietet.",
+                "hu": "Tökéletes beltéri menedék az eső elől, amely mély bepillantást nyújt a helyi történelembe.",
+                "ro": "Un refugiu perfect în interior împotriva ploii, oferind o incursiune în istoria locală.",
+                "en": "A perfect indoor refuge from the rain, offering deep dives into local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Cha-am Khiri",
+                "hu": "Wat Cha-am Khiri",
+                "ro": "Wat Cha-am Khiri",
+                "en": "Wat Cha-am Khiri"
+              },
+              "tip_5lang": {
+                "de": "Die Tempelstufen können bei Nässe rutschig sein, tragen Sie daher Schuhe mit gutem Halt.",
+                "hu": "A templom lépcsői nedvesen csúszósak lehetnek, ezért viseljen jól tapadó cipőt.",
+                "ro": "Treptele templului pot fi alunecoase, așa că purtați încălțăminte cu aderență bună.",
+                "en": "The temple steps can be slippery when wet, so wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Night Market",
+                "hu": "Cha-am Éjszakai Piac",
+                "ro": "Piața de noapte Cha-am",
+                "en": "Cha-am Night Market"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Regenschirm mit, da dieser Markt trotz des Nieselregens lebhaft bleibt.",
+                "hu": "Hozzon magával erős esernyőt, mivel ez a szabadtéri piac a szitáló eső ellenére is nyüzsgő.",
+                "ro": "Aduceți o umbrelă rezistentă, deoarece această piață rămâne plină de viață în ciuda burniței.",
+                "en": "Bring a sturdy umbrella, as this open-air market stays lively despite the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Beach",
+                "hu": "Cha-am Tengerpart",
+                "ro": "Plaja Cha-am",
+                "en": "Cha-am Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Monsunwellen von einem überdachten Pavillon am Meer aus.",
+                "hu": "Figyelje meg a drámai monszun hullámokat egy fedett tengerparti pavilonból.",
+                "ro": "Priviți valurile dramatice ale musonului dintr-un pavilion acoperit de pe litoral.",
+                "en": "Watch the dramatic monsoon waves from a covered seaside pavilion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen kühlen Morgenspaziergang über den lebhaften Markt. Die angenehme Brise am Mittag macht die Besuche im Kulturzentrum und im Tempel sehr komfortabel. Verbringen Sie einen goldenen Nachmittag am Strand. Lassen Sie den Tag auf dem Nachtmarkt mit einem leichten Pullover gegen die Kälte ausklingen.",
+            "hu": "Élvezze a hűvös reggeli sétát a nyüzsgő piacon. A kellemes déli szellő kényelmessé teszi a kulturális központ és a templom látogatását. Töltsön el egy aranyfényű délutánt a tengerparton a korai naplemente előtt. Zárja a napot az éjszakai piacon egy vékony pulóverben a hideg ellen.",
+            "ro": "Bucurați-vă de o plimbare răcoroasă de dimineață prin piața vibrantă. Briza plăcută de la prânz face vizitele la centrul cultural și la templu confortabile. Petreceți o după-amiază aurie la plajă, deoarece soarele apune devreme. Încheiați ziua la piața de noapte cu un pulover subțire.",
+            "en": "Enjoy a crisp, cool morning stroll through the vibrant market. The pleasant midday breeze makes the cultural center and temple visits comfortable without the heavy heat. Spend a golden afternoon at the beach as the sun sets early. Wrap up your day at the night market with a light sweater against the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cha-am Fresh Market",
+                "hu": "Cha-am Friss Piac",
+                "ro": "Piața de alimente proaspete Cha-am",
+                "en": "Cha-am Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht das Navigieren durch die Stände viel angenehmer.",
+                "hu": "A hűvös reggeli levegő sokkal kellemesebbé teszi a zsúfolt standok közötti navigálást.",
+                "ro": "Aerul răcoros al dimineții face navigarea printre tarabele aglomerate mult mai plăcută.",
+                "en": "The cool morning air makes navigating the busy stalls much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Local Cultural Center",
+                "hu": "Cha-am Helyi Kulturális Központ",
+                "ro": "Centrul Cultural Local Cha-am",
+                "en": "Cha-am Local Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Erkundung der Ausstellungen ohne die übliche tropische Luftfeuchtigkeit.",
+                "hu": "Élvezze a kiállítások felfedezését a szokásos trópusi páratartalom nélkül.",
+                "ro": "Bucurați-vă de explorarea exponatelor fără umiditatea tropicală obișnuită.",
+                "en": "Enjoy exploring the exhibits without the usual tropical humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Cha-am Khiri",
+                "hu": "Wat Cha-am Khiri",
+                "ro": "Wat Cha-am Khiri",
+                "en": "Wat Cha-am Khiri"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg über die Tempelstufen ist bei diesem kühleren Wetter viel einfacher.",
+                "hu": "A templom lépcsőin való felmászás sokkal könnyebb ebben a hűvösebb időben.",
+                "ro": "Urcarea treptelor templului este mult mai ușoară pe această vreme mai răcoroasă.",
+                "en": "The climb up the temple steps is much easier in this cooler weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Night Market",
+                "hu": "Cha-am Éjszakai Piac",
+                "ro": "Piața de noapte Cha-am",
+                "en": "Cha-am Night Market"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie eine leichte Jacke ein, da die Abendtemperaturen hier schön sinken.",
+                "hu": "Csomagoljon egy vékony kabátot, mivel az esti hőmérséklet itt kellemesen lecsökken.",
+                "ro": "Împachetați o jachetă subțire, deoarece temperaturile de seară scad plăcut aici.",
+                "en": "Pack a light jacket as the evening temperatures drop nicely here."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Beach",
+                "hu": "Cha-am Tengerpart",
+                "ro": "Plaja Cha-am",
+                "en": "Cha-am Beach"
+              },
+              "tip_5lang": {
+                "de": "Der frühe Sonnenuntergang malt den Himmel wunderschön; sichern Sie sich rechtzeitig einen Platz.",
+                "hu": "A korai naplemente gyönyörűre festi az eget; foglaljon helyet még sötétedés előtt.",
+                "ro": "Apusul devreme pictează cerul frumos; prindeți un loc înainte de lăsarea întunericului.",
+                "en": "The early sunset paints the sky beautifully; grab a spot before dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros kalandját a nyüzsgő friss piacon a helyi hangulatért, majd tegyen egy tanulságos látogatást a Kulturális Központba a regionális hagyományok megismeréséhez.\n\nTekerjen el a békés Wat Cha-am Khirihez, fedezze fel rejtett barlangszentélyeit, majd folytassa útját a Me Sook piacra egy kis egzotikus gyümölcsért, hogy feltöltődjön.\n\nKerékpározzon fel a part mentén, és csodálja meg a Wat Neranchararam pompás, hatkarú szobrát, mielőtt a hívogató Cha-am strandra gurulna egy frissítő délutáni pihenőre.\n\nHagyja, hogy kerékpárja az alkonyat beálltával a sugárzó Cha-am éjszakai piac felé vigye, ahol a grillezett tenger gyümölcsei füstös illata jutalmazza a jól sikerült felfedezőnapot.",
         "ro": "Începeți aventura cu bicicleta la piața plină de viață pentru o atmosferă locală autentică, urmată de o vizită educativă la Centrul Cultural Local pentru a înțelege tradițiile.\n\nPedalați spre pașnicul Wat Cha-am Khiri și descoperiți altarele sale ascunse din peșteri, apoi continuați la piața Me Sook pentru a lua fructe exotice și a vă reface energia.\n\nMergeți cu bicicleta pe coastă pentru a admira statuia cu șase brațe de la Wat Neranchararam, înainte de a coborî pe nisipurile primitoare ale plajei Cha-am pentru o pauză răcoritoare.\n\nLăsați-vă purtat de bicicletă spre piața de noapte radiantă Cha-am la lăsarea întunericului, unde aroma de fructe de mare la grătar răsplătește o zi plină de explorări.",
         "en": "Kickstart your cycling adventure at the bustling Fresh Market for an authentic local vibe, followed by an educational visit to the Local Cultural Center to understand regional traditions.\n\nPedal your way to the peaceful Wat Cha-am Khiri and discover its hidden cave shrines, then continue to the Me Sook Fresh Market to grab some exotic fruits and refuel your energy.\n\nCycle up the coast to admire the magnificent six-armed statue at Wat Neranchararam, before cruising down to the wide, inviting sands of Cha-am Beach for a refreshing afternoon break.\n\nLet your bicycle carry you towards the radiant Cha-am Night Market as dusk falls, where the smoky aroma of grilled seafood rewards a satisfying day exploring the shores."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Treten Sie vorsichtig in die Pedale zum Morgenmarkt, ausgestattet mit einem Regenmantel. Das Kulturzentrum bietet eine trockene Pause vor der Fahrt zum Tempel. Nachmittagsfahrten zum Strand erfordern Vorsicht auf glatten Wegen. Beenden Sie das Abenteuer auf dem belebten Nachtmarkt.",
+            "hu": "Óvatosan tekerjen a reggeli piacra, jó esőkabáttal felszerelkezve. A kulturális központ száraz pihenőt kínál, mielőtt a vizes utakon a hegyi templomhoz hajtana. A délutáni strandolás óvatosságot igényel a csúszós utakon. Fejezze be az esős kerékpározást az éjszakai piacon.",
+            "ro": "Pedați cu grijă spre piața de dimineață, echipat cu o pelerină bună. Centrul cultural oferă o pauză uscată înainte de a naviga pe drumurile umede spre templu. Plimbările de după-amiază spre plajă necesită prudență. Terminați aventura pe bicicletă pe ploaie la piața de noapte.",
+            "en": "Pedal carefully to the morning market, equipped with a good raincoat. The cultural center offers a dry break before you navigate wet roads to the hill temple. Afternoon rides to the beach require caution on slick paths. Finish your wet-weather cycling adventure at the lively night market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cha-am Fresh Market",
+                "hu": "Cha-am Friss Piac",
+                "ro": "Piața de alimente proaspete Cha-am",
+                "en": "Cha-am Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen und genießen Sie Snacks, bis der Regen nachlässt.",
+                "hu": "Keressen menedéket a napellenzők alatt, és élvezze a friss falatokat, amíg az eső eláll.",
+                "ro": "Căutați adăpost sub copertine și savurați gustări proaspete în timp ce ploaia trece.",
+                "en": "Seek shelter under the awnings and enjoy fresh snacks while the rain passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Local Cultural Center",
+                "hu": "Cha-am Helyi Kulturális Központ",
+                "ro": "Centrul Cultural Local Cha-am",
+                "en": "Cha-am Local Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich ab, während Sie die Ausstellungen erkunden.",
+                "hu": "Parkolja le a kerékpárját, és szárátkozzon meg a beltéri kiállítások felfedezése közben.",
+                "ro": "Parcați bicicleta și uscați-vă în timp ce explorați exponatele culturale din interior.",
+                "en": "Park your bike and dry off while exploring the indoor cultural exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Cha-am Khiri",
+                "hu": "Wat Cha-am Khiri",
+                "ro": "Wat Cha-am Khiri",
+                "en": "Wat Cha-am Khiri"
+              },
+              "tip_5lang": {
+                "de": "Der Weg und die Tempelstufen sind rutschig; seien Sie besonders vorsichtig.",
+                "hu": "Az ösvény és a templom lépcsői csúszósak; legyen különösen óvatos a vizes felszerelésben.",
+                "ro": "Calea și treptele templului sunt alunecoase; aveți mare grijă în echipamentul ud.",
+                "en": "The path and temple stairs are slippery; take extra care in wet gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Me Sook Fresh Market",
+                "hu": "Me Sook Friss Piac",
+                "ro": "Piața Me Sook",
+                "en": "Me Sook Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Ein überdachter Ort, um sich auszuruhen und bei Regengüssen ein warmes Getränk zu sich zu nehmen.",
+                "hu": "Fedett hely a pihenésre és egy meleg ital elfogyasztására a felhőszakadások idején.",
+                "ro": "Un loc acoperit pentru a vă odihni și a lua o băutură caldă în timpul ploilor torențiale.",
+                "en": "A covered spot to rest and grab a warm drink during downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Neranchararam",
+                "hu": "Wat Neranchararam",
+                "ro": "Wat Neranchararam",
+                "en": "Wat Neranchararam"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die große Buddhastatue, aber achten Sie auf die schlammige Umgebung.",
+                "hu": "Csodálja meg a nagy Buddha-szobrot, de ügyeljen a saras környezetre.",
+                "ro": "Admirați marea statuie a lui Buddha, dar fiți atenți la împrejurimile noroioase.",
+                "en": "Admire the large Buddha statue, but stay mindful of muddy surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Beach",
+                "hu": "Cha-am Tengerpart",
+                "ro": "Plaja Cha-am",
+                "en": "Cha-am Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Meer sieht im Regen dramatisch aus; suchen Sie sich ein Café, um die Wellen zu beobachten.",
+                "hu": "A tenger drámaian néz ki az esőben; keressen egy kávézót a hullámok biztonságos megfigyelésére.",
+                "ro": "Marea arată dramatic în ploaie; găsiți o cafenea pentru a privi valurile în siguranță.",
+                "en": "The sea looks dramatic in the rain; find a cafe to watch the waves safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Night Market",
+                "hu": "Cha-am Éjszakai Piac",
+                "ro": "Piața de noapte Cha-am",
+                "en": "Cha-am Night Market"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie vorsichtig durch die nassen Gänge; ein Poncho wird hier dringend empfohlen.",
+                "hu": "Óvatosan navigáljon a nedves sorok között; egy poncsó erősen ajánlott itt.",
+                "ro": "Navigați cu grijă pe culoarele umede; un poncho este foarte recomandat aici.",
+                "en": "Navigate the wet aisles carefully; a poncho is highly recommended here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Morgenfahrt beginnt auf dem lokalen Markt mit kühler Brise. Das Radfahren am Mittag ist angenehm, wenn Sie das Kulturzentrum ohne Überhitzung besuchen. Der Nachmittag am Strand bietet perfektes Radwetter. Beenden Sie Ihre Fahrt früh auf dem Nachtmarkt.",
+            "hu": "A frissítő reggeli kerékpározás a helyi piacon kezdődik hűvös szellővel. A déli tekerés élvezetes a kulturális központnál túlhevülés nélkül. Kora délután a tengerparton tökéletes az időjárás. Fejezze be a túrát korán, ahogy sötétedik az éjszakai piacon.",
+            "ro": "O plimbare răcoroasă de dimineață începe la piața locală cu brize reci. Ciclismul la prânz este plăcut la centrul cultural și temple fără a vă supraîncălzi. După-amiaza la plajă oferă o vreme perfectă pentru biciclete. Încheiați cursa devreme la piața de noapte.",
+            "en": "A refreshing morning ride starts at the local market with cool breezes. Midday cycling is enjoyable as you visit the cultural center and temples without overheating. The early afternoon at the beach offers perfect biking weather. Conclude your ride early as darkness falls around the bustling night market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cha-am Fresh Market",
+                "hu": "Cha-am Friss Piac",
+                "ro": "Piața de alimente proaspete Cha-am",
+                "en": "Cha-am Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Fahrt an der frischen Luft, perfekt zum Stöbern in lokalen Waren.",
+                "hu": "Kezdje a tekerést a friss levegőn, amely tökéletes a helyi áruk böngészéséhez.",
+                "ro": "Începeți plimbarea în aerul proaspăt, perfect pentru a răsfoi bunurile locale.",
+                "en": "Start your ride in the crisp air, perfect for browsing local goods."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Local Cultural Center",
+                "hu": "Cha-am Helyi Kulturális Központ",
+                "ro": "Centrul Cultural Local Cha-am",
+                "en": "Cha-am Local Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Das angenehme Wetter macht das Auf- und Absteigen vom Fahrrad mühelos.",
+                "hu": "A kellemes időjárás könnyeddé teszi a fel- és leszállást a kerékpárról.",
+                "ro": "Vremea plăcută face ca urcarea și coborârea de pe bicicletă să fie fără efort.",
+                "en": "The pleasant weather makes hopping on and off your bike effortless."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Cha-am Khiri",
+                "hu": "Wat Cha-am Khiri",
+                "ro": "Wat Cha-am Khiri",
+                "en": "Wat Cha-am Khiri"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Temperaturen machen das Bergaufpedalieren und das Treppensteigen zum Kinderspiel.",
+                "hu": "A hűvösebb hőmérséklet gyerekjátékká teszi a hegymenetet és a lépcsőzést.",
+                "ro": "Temperaturile mai scăzute fac urcarea la deal și pe scări o briză.",
+                "en": "The cooler temperatures make the uphill pedal and stair climb a breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Me Sook Fresh Market",
+                "hu": "Me Sook Friss Piac",
+                "ro": "Piața Me Sook",
+                "en": "Me Sook Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich lokale Leckereien; das milde Wetter hält die Produkte sehr frisch.",
+                "hu": "Vegyen néhány helyi finomságot; az enyhe időjárás nagyon frissen tartja a termékeket.",
+                "ro": "Luați câteva delicii locale; vremea blândă păstrează produsele foarte proaspete.",
+                "en": "Grab some local treats; the mild weather keeps produce very fresh."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Neranchararam",
+                "hu": "Wat Neranchararam",
+                "ro": "Wat Neranchararam",
+                "en": "Wat Neranchararam"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Tempelgelände im Freien ohne die intensive tropische Sonne.",
+                "hu": "Élvezze a szabadtéri templom területét az erős trópusi napsütés nélkül.",
+                "ro": "Bucurați-vă de terenurile exterioare ale templului fără soarele tropical intens.",
+                "en": "Enjoy the outdoor temple grounds without the intense tropical sun beating down."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Beach",
+                "hu": "Cha-am Tengerpart",
+                "ro": "Plaja Cha-am",
+                "en": "Cha-am Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie entlang der Küste mit einer sanften, kühlen Meeresbrise im Gesicht.",
+                "hu": "Tekerjen a part mentén, miközben lágy, hűvös tengeri szellő fúj az arcába.",
+                "ro": "Mergeți de-a lungul coastei cu o briză blândă și rece pe față.",
+                "en": "Ride along the coast with a gentle, cool sea breeze on your face."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Night Market",
+                "hu": "Cha-am Éjszakai Piac",
+                "ro": "Piața de noapte Cha-am",
+                "en": "Cha-am Night Market"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie einen leichten Pullover, da es nach dem frühen Sonnenuntergang schnell abkühlt.",
+                "hu": "Viseljen egy vékony pulóvert, mivel a korai naplemente után gyorsan lehűl a levegő.",
+                "ro": "Purtați un pulover subțire, deoarece seara se răcește rapid după apus.",
+                "en": "Wear a light sweater as the evening cools down quickly after the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autózzon a közösség szívébe, a nyüzsgő Friss Piacra, hogy szemtanúja legyen a reggeli forgatagnak, majd zökkenőmentesen haladjon tovább a Wat Cha-am Khiri és a Kulturális Központ felé.\n\nHasználja ki autóját, hogy gyorsan elérje a déli oldalon található Wat Nong Chaeng nyugodt területét, élvezve a figyelemre méltó építészeti részletekkel teli békés elvonulást.\n\nUgorjon át a hosszú tengerparti szakaszon, hogy eltöltsön pár pihentető órát a Cha-am strandon, majd könnyedén induljon északnak, hogy megcsodálja a Wat Neranchararam fenséges vízparti őrzőjét.\n\nZárja le az autós utazást a Me Sook piacon, mielőtt leparkolna a fényes éjszakai piac közelében, megkoronázva a kiterjedt városnézést csodálatos ajándékokkal és vacsorával.",
         "ro": "Conduceți în inima comunității la piața vibrantă pentru a asista la agitația matinală, continuând spre Wat Cha-am Khiri și Centrul Cultural pentru o perspectivă istorică profundă.\n\nUtilizați mașina pentru a ajunge rapid pe terenurile liniștite de la Wat Nong Chaeng în partea de sud, bucurându-vă de o evadare senină plină de detalii arhitecturale remarcabile.\n\nMergeți pe porțiunea lungă de coastă pentru a petrece câteva ore relaxante pe plaja Cha-am, îndreptându-vă apoi spre nord pentru a admira marele gardian la Wat Neranchararam.\n\nÎncheiați călătoria la piața Me Sook înainte de a parca lângă piața strălucitoare de noapte, încheind un tur extins al orașului cu suveniruri minunate și o cină de neuitat.",
         "en": "Drive into the heart of the community at the vibrant Fresh Market to witness the morning hustle, seamlessly driving to Wat Cha-am Khiri and the Cultural Center for deep historical insights.\n\nUtilize your car to quickly reach the tranquil grounds of Wat Nong Chaeng on the southern side, enjoying a serene escape filled with remarkable architectural details and spiritual calm.\n\nHop up the long coastal stretch to spend a relaxing couple of hours on Cha-am Beach, effortlessly heading north next to admire the grand waterfront guardian at Wat Neranchararam.\n\nWrap up your road trip at the Me Sook Fresh Market before parking near the glowing Night Market, capping off an extensive city tour with wonderful souvenirs and unforgettable dining."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem zum Markt und meiden Sie die starken Schauer. Die Mittagszeit bietet einen trockenen Transit zwischen dem Tempel und dem Kulturzentrum. Nachmittagsfahrten an der Küste sind malerisch, parken Sie jedoch in der Nähe von Unterständen. Beenden Sie den Tag auf dem Nachtmarkt.",
+            "hu": "Vezessen kényelmesen a piacra, elkerülve a heves záporokat. A dél száraz utazást biztosít a templom és a kulturális központ között. A délutáni parti autózás festői, de parkoljon menedék közelében. Zárja a napot az éjszakai piacon, autóját esernyőbázisként használva.",
+            "ro": "Conduceți confortabil spre piață, evitând ploile puternice. Prânzul oferă tranzit uscat între templu, centrul cultural și altare. Plimbările de după-amiază pe coastă sunt pitorești, dar parcați lângă adăpost. Încheiați ziua la piața de noapte, folosind mașina ca bază pentru umbrelă.",
+            "en": "Drive comfortably to the morning market, avoiding the heavy showers. Midday offers dry transit between the hill temple, cultural center, and local shrines. Afternoon drives along the coast are scenic, though you should park near shelter. End the day at the night market, utilizing your car as a mobile umbrella base."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cha-am Fresh Market",
+                "hu": "Cha-am Friss Piac",
+                "ro": "Piața de alimente proaspete Cha-am",
+                "en": "Cha-am Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und eilen Sie hinein, um die lebhaften Stände regengeschützt zu genießen.",
+                "hu": "Parkoljon közel, és siessen be, hogy az esőtől védve élvezhesse a vibráló standokat.",
+                "ro": "Parcați aproape și grăbiți-vă înăuntru pentru a vă bucura de tarabe feriți de ploaie.",
+                "en": "Park close and dash inside to enjoy the vibrant stalls away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Cha-am Khiri",
+                "hu": "Wat Cha-am Khiri",
+                "ro": "Wat Cha-am Khiri",
+                "en": "Wat Cha-am Khiri"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit auf den nassen Stufen; die Höhlenschreine bieten guten Schutz.",
+                "hu": "Szánjon rá időt a nedves lépcsőkön; a barlangszentélyek jó menedéket nyújtanak.",
+                "ro": "Nu vă grăbiți pe treptele umede; altarele din peșteri oferă un bun adăpost.",
+                "en": "Take your time on the wet steps; the cave shrines offer good shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Local Cultural Center",
+                "hu": "Cha-am Helyi Kulturális Központ",
+                "ro": "Centrul Cultural Local Cha-am",
+                "en": "Cha-am Local Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Eine hervorragende Indoor-Aktivität, um sich bei starken Regengüssen die Zeit zu vertreiben.",
+                "hu": "Kiváló beltéri tevékenység az időtöltésre a heves felhőszakadások idején.",
+                "ro": "O activitate excelentă în interior pentru a petrece timpul în timpul ploilor torențiale.",
+                "en": "An excellent indoor activity to pass the time during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Nong Chaeng",
+                "hu": "Wat Nong Chaeng",
+                "ro": "Wat Nong Chaeng",
+                "en": "Wat Nong Chaeng"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Regenschirm im Kofferraum für den kurzen Spaziergang zu diesem Küstentempel bereit.",
+                "hu": "Tartson esernyőt a csomagtartóban a parti templomhoz vezető rövid sétához.",
+                "ro": "Păstrați o umbrelă în portbagaj pentru scurta plimbare spre acest templu de coastă.",
+                "en": "Keep an umbrella in the trunk for the short walk to this coastal temple."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Beach",
+                "hu": "Cha-am Tengerpart",
+                "ro": "Plaja Cha-am",
+                "en": "Cha-am Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die regnerische Meereslandschaft bequem aus Ihrem geparkten Auto.",
+                "hu": "Élvezze a hangulatos, esős tengeri tájat a parkoló autója kényelméből.",
+                "ro": "Bucurați-vă de peisajul marin ploios din confortul mașinii parcate.",
+                "en": "Enjoy the moody, rainy seascape from the comfort of your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Neranchararam",
+                "hu": "Wat Neranchararam",
+                "ro": "Wat Neranchararam",
+                "en": "Wat Neranchararam"
+              },
+              "tip_5lang": {
+                "de": "Der große weiße Buddha ist vor dem dunklen, stürmischen Himmel auffällig.",
+                "hu": "A nagy fehér Buddha lenyűgöző a sötét, viharos égbolt előtt.",
+                "ro": "Marele Buddha alb este impresionant pe fundalul cerului întunecat și furtunos.",
+                "en": "The large white Buddha is striking against the dark, stormy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Me Sook Fresh Market",
+                "hu": "Me Sook Friss Piac",
+                "ro": "Piața Me Sook",
+                "en": "Me Sook Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Ein bequemer, überdachter Stopp, um lokale Snacks zu kaufen, ohne nass zu werden.",
+                "hu": "Kényelmes fedett megálló a helyi falatok beszerzéséhez anélkül, hogy elázna.",
+                "ro": "O oprire convenabilă acoperită pentru a lua gustări locale fără a vă uda.",
+                "en": "A convenient covered stop to pick up local snacks without getting drenched."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Night Market",
+                "hu": "Cha-am Éjszakai Piac",
+                "ro": "Piața de noapte Cha-am",
+                "en": "Cha-am Night Market"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Regenmantel aus dem Auto mit, um die abendlichen Stände bequem zu erkunden.",
+                "hu": "Hozzon egy esőkabátot az autóból, hogy kényelmesen felfedezze az esti standokat.",
+                "ro": "Aduceți o pelerină din mașină pentru a explora confortabil tarabele de seară.",
+                "en": "Bring a raincoat from the car to comfortably explore the bustling evening stalls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Fahrt in der angenehmen, kühlen Morgenluft auf dem lokalen Markt. Das Sightseeing am Mittag ist sehr komfortabel. Die nachmittägliche Küstenfahrt ist atemberaubend mit klarem Himmel. Parken Sie auf dem Nachtmarkt, wenn die Sonne früh untergeht und Kälte bringt.",
+            "hu": "Kezdje az utazást a kellemes, hűvös reggeli levegőben a piacon. A déli városnézés a templomokban és a kulturális központban kényelmes. A délutáni tengerparti autózás lenyűgöző a tiszta éggel. Parkoljon az éjszakai piacon, ahogy a nap korán lenyugszik, enyhe hideget hozva.",
+            "ro": "Începeți condusul în aerul plăcut de dimineață la piața locală. Vizitarea obiectivelor turistice la prânz este confortabilă. Plimbarea de după-amiază pe coastă este uimitoare, cu un cer senin. Parcați la piața de noapte, deoarece soarele apune devreme, aducând un ușor frig.",
+            "en": "Begin your drive in the pleasant, cool morning air at the local market. Midday sightseeing across various temples and the cultural center is comfortable. The afternoon coastal drive is stunning with clear, crisp skies. Park at the night market as the sun sets early, bringing a slight chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cha-am Fresh Market",
+                "hu": "Cha-am Friss Piac",
+                "ro": "Piața de alimente proaspete Cha-am",
+                "en": "Cha-am Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Der kühle Morgen macht das Erkunden der belebten Stände unglaublich komfortabel.",
+                "hu": "A hűvös reggel hihetetlenül kényelmessé teszi a forgalmas standok felfedezését.",
+                "ro": "Dimineața răcoroasă face explorarea tarabelor aglomerate incredibil de confortabilă.",
+                "en": "The cool morning makes exploring the busy stalls incredibly comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Cha-am Khiri",
+                "hu": "Wat Cha-am Khiri",
+                "ro": "Wat Cha-am Khiri",
+                "en": "Wat Cha-am Khiri"
+              },
+              "tip_5lang": {
+                "de": "Die Höhlenerkundung ist ohne die übliche schwere tropische Hitze erfrischend.",
+                "hu": "A barlang felfedezése frissítő a szokásos nagy trópusi hőség nélkül.",
+                "ro": "Explorarea peșterii este revigorantă fără căldura tropicală grea obișnuită.",
+                "en": "The cave exploration is refreshing without the usual heavy tropical heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Local Cultural Center",
+                "hu": "Cha-am Helyi Kulturális Központ",
+                "ro": "Centrul Cultural Local Cha-am",
+                "en": "Cha-am Local Cultural Center"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen entspannten Indoor-Besuch bei angenehmen Umgebungstemperaturen.",
+                "hu": "Élvezze a nyugodt beltéri látogatást kellemes környezeti hőmérsékleten.",
+                "ro": "Bucurați-vă de o vizită relaxată în interior la temperaturi ambientale plăcute.",
+                "en": "Enjoy a relaxed indoor visit with pleasant ambient temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Nong Chaeng",
+                "hu": "Wat Nong Chaeng",
+                "ro": "Wat Nong Chaeng",
+                "en": "Wat Nong Chaeng"
+              },
+              "tip_5lang": {
+                "de": "Die sanfte Winterbrise macht einen Spaziergang über das Tempelgelände herrlich.",
+                "hu": "A lágy téli szellő csodálatossá teszi a sétát a templom területén.",
+                "ro": "Briza blândă de iarnă face minunată plimbarea pe terenurile templului.",
+                "en": "The gentle winter breeze makes walking around the temple grounds lovely."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Beach",
+                "hu": "Cha-am Tengerpart",
+                "ro": "Plaja Cha-am",
+                "en": "Cha-am Beach"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie die Fenster herunter und genießen Sie den kühlen Küstenwind vor der Dämmerung.",
+                "hu": "Tekerje le az ablakokat, és élvezze a hűvös parti szelet alkonyat előtt.",
+                "ro": "Coborâți geamurile și bucurați-vă de vântul rece de coastă înainte de lăsarea întunericului.",
+                "en": "Roll the windows down and enjoy the cool coastal wind before dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Neranchararam",
+                "hu": "Wat Neranchararam",
+                "ro": "Wat Neranchararam",
+                "en": "Wat Neranchararam"
+              },
+              "tip_5lang": {
+                "de": "Der klare Winterhimmel bietet eine perfekte Kulisse für die hiesigen Statuen.",
+                "hu": "A tiszta téli égbolt tökéletes hátteret biztosít az itteni szobroknak.",
+                "ro": "Cerul senin de iarnă oferă un fundal perfect pentru statuile de aici.",
+                "en": "The clear winter sky provides a perfect backdrop for the statues here."
+              }
+            },
+            {
+              "name": {
+                "de": "Me Sook Fresh Market",
+                "hu": "Me Sook Friss Piac",
+                "ro": "Piața Me Sook",
+                "en": "Me Sook Fresh Market"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie frische lokale Früchte bei mildem Nachmittagswetter.",
+                "hu": "Szerezzen be friss helyi gyümölcsöket az enyhe délutáni időben.",
+                "ro": "Cumpărați câteva fructe locale proaspete pe vremea blândă de după-amiază.",
+                "en": "Pick up some fresh local fruits in the mild afternoon weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Cha-am Night Market",
+                "hu": "Cha-am Éjszakai Piac",
+                "ro": "Piața de noapte Cha-am",
+                "en": "Cha-am Night Market"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Pullover im Auto bereit, da die abendliche Küstenluft recht frisch wird.",
+                "hu": "Tartson egy pulóvert az autóban, mivel a parti esti levegő meglehetősen csípős lesz.",
+                "ro": "Păstrați un pulover în mașină, deoarece aerul serii de coastă devine destul de rece.",
+                "en": "Keep a sweater in the car, as the coastal evening air gets quite brisk."
+              }
+            }
+          ]
+        }
       }
     }
   }

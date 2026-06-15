@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az irodalom jegyében a Quasimodo parkban. Délben fedezze fel a régió ipari örökségét az Antica Filandában. A délutánt töltse lazítással két hangulatos tengerparti bárban. Zárja az estét a Torre Saracena torony panorámájával.",
         "ro": "Începeți dimineața cu poezie la parcul Quasimodo. La prânz, descoperiți patrimoniul industrial la Antica Filanda. Petreceți după-amiaza relaxându-vă la două baruri vibrante pe plajă. Încheiați seara cu priveliști panoramice de la Torre Saracena.",
         "en": "Start your morning immersed in poetry at the Quasimodo park. Midday finds you discovering industrial heritage at Antica Filanda. Spend your afternoon relaxing by the sea at two vibrant beach bars. Conclude the evening with panoramic views from Torre Saracena."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Roccalumera lädt dazu ein, die literarische Seele Siziliens im Trockenen zu entdecken. Wir starten im Quasimodo-Park und flüchten vor dem Guss in die Antica Filanda. Mittags bieten die überdachten Bereiche der Strandbars Schutz, während wir das graue Meer beobachten. Der Nachmittag endet an der majestätischen Torre Saracena, deren Steine im Regen glänzen.",
+            "hu": "Egy esős nap Roccalumerában lehetőséget ad Szicília irodalmi lelkének felfedezésére a fedett múzeumokban. A Quasimodo Park után az Antica Filanda falaiban keresünk menedéket. Délben a tengerparti bárok tető alatt kínálnak pihenőt a szürke hullámok látványával. A séta a Torre Saracenánál ér véget, ahol a nedves kövek különleges fényben tündökölnek a tengerparti szélben.",
+            "ro": "O zi ploioasă în Roccalumera ne invită să descoperim sufletul literar al Siciliei în spații protejate. Începem la Parcul Quasimodo și ne adăpostim de ploaie în Antica Filanda. La prânz, zonele acoperite ale teraselor de pe plajă oferă refugiu în timp ce privim marea agitată. După-amiaza se încheie la Torre Saracena, ale cărei ziduri strălucesc sub picăturile de ploaie.",
+            "en": "A rainy day in Roccalumera is perfect for exploring Sicily's literary heritage indoors. We start at the Quasimodo Park and seek shelter in the historic Antica Filanda. At noon, the covered areas of the beach bars provide a dry spot to watch the grey Ionian waves. The walk concludes at the Torre Saracena, where the ancient stones glisten beautifully under the rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Letterario Salvatore Quasimodo",
+                "hu": "Parco Letterario Salvatore Quasimodo",
+                "ro": "Parco Letterario Salvatore Quasimodo",
+                "en": "Parco Letterario Salvatore Quasimodo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungsräume im Inneren, um die Lyrik des Nobelpreisträgers trocken zu genießen; ein stabiler Regenschirm schützt Sie auf dem Weg zwischen den Waggons.",
+                "hu": "Látogassa meg a belső kiállítótereket, hogy szárazon élvezhesse a Nobel-díjas költő hagyatékát; a kocsik közötti rövid úton egy erős esernyő elengedhetetlen a tengerparti szélben.",
+                "ro": "Vizitați spațiile expoziționale interioare pentru a vă bucura de lirica laureatului Nobel la adăpost; o umbrelă rezistentă este necesară pentru deplasarea între vagoane.",
+                "en": "Explore the indoor exhibition spaces to enjoy the Nobel laureate's poetry while staying dry; a sturdy umbrella is essential for the short walks between the historic train cars."
+              }
+            },
+            {
+              "name": {
+                "de": "Antica Filanda",
+                "hu": "Antica Filanda",
+                "ro": "Antica Filanda",
+                "en": "Antica Filanda"
+              },
+              "tip_5lang": {
+                "de": "Dieses Gebäude bietet perfekten Schutz vor Regen; bewundern Sie die industrielle Architektur im Inneren und achten Sie auf rutschige Steine im Eingangsbereich der Fabrik.",
+                "hu": "Ez az épület tökéletes menedéket nyújt az eső elől; csodálja meg a belső ipari építészetet, de ügyeljen a gyár bejáratánál lévő csúszós kövekre a vizes időben.",
+                "ro": "Această clădire oferă adăpostul perfect împotriva ploii; admirați arhitectura industrială din interior și aveți grijă la treptele umede de la intrarea în vechea fabrică.",
+                "en": "This building offers perfect shelter from the rain; admire the industrial architecture inside and watch out for slippery stones at the factory entrance during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Sole Beach bar",
+                "hu": "Sole Beach bar",
+                "ro": "Sole Beach bar",
+                "en": "Sole Beach bar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Terrassenbereich, um dem Rauschen der Wellen zu lauschen; wasserdichte Schuhe sind auf dem sandigen, nassen Weg zur Bar sehr zu empfehlen.",
+                "hu": "Használja a fedett teraszt a hullámok morajlásának élvezetéhez; a homokos, ázott úton a bárhoz vízálló cipő viselése erősen ajánlott a kényelem érdekében.",
+                "ro": "Folosiți terasa acoperită pentru a asculta zgomotul valurilor la adăpost; încălțămintea impermeabilă este recomandată pe poteca nisipoasă și umedă spre bar.",
+                "en": "Utilize the covered terrace area to enjoy the sound of the waves while staying dry; waterproof shoes are highly recommended on the sandy, wet path to the bar."
+              }
+            },
+            {
+              "name": {
+                "de": "Play's Beach bar",
+                "hu": "Play's Beach bar",
+                "ro": "Play's Beach bar",
+                "en": "Play's Beach bar"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter der Markise und genießen Sie den Blick auf das stürmische Meer; ein Regenponcho hilft gegen den seitlich wehenden Wind am Strand.",
+                "hu": "Keressen menedéket a napellenzők alatt, és élvezze a viharos tenger látványát; egy esőponcsó sokat segít a tengerparton oldalról fújó szél és csapadék ellen.",
+                "ro": "Căutați adăpost sub copertină și bucurați-vă de vederea mării agitate; un poncho de ploaie este util împotriva vântului care suflă stropii dinspre lateral pe plajă.",
+                "en": "Seek shelter under the awnings and enjoy the view of the stormy sea; a rain poncho helps against the sideways wind and spray often encountered on the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Saracena",
+                "hu": "Torre Saracena",
+                "ro": "Torre Saracena",
+                "en": "Torre Saracena"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den massiven Turm von der geschützten Straßenseite aus; die historischen Stufen können bei Nässe extrem glatt sein, also betreten Sie sie nur vorsichtig.",
+                "hu": "Csodálja meg a vaskos tornyot a védettebb utca felőli oldalról; a történelmi lépcsők esőben rendkívül csúszósak lehetnek, így csak fokozott óvatossággal lépjen rájuk.",
+                "ro": "Admirați turnul masiv de pe partea protejată a străzii; treptele istorice pot fi extrem de alunecoase când sunt ude, așa că pășiți cu mare atenție în jur.",
+                "en": "Admire the massive tower from the sheltered street side; the historic steps can be extremely slippery when wet, so tread very carefully if exploring the perimeter."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Roccalumera ist mild, aber frisch. Wir genießen die morgendliche Ruhe im Quasimodo-Park und wärmen uns in der Antica Filanda auf. Die Strandbars bieten im Winter ein melancholisches Panorama, perfekt für einen heißen Espresso. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Besuch der Torre Saracena für das letzte Tageslicht ein.",
+            "hu": "A tél Roccalumerában enyhe, de frissítő. Reggel a Quasimodo Park nyugalmát élvezzük, majd felmelegedünk az Antica Filanda falai között. A tengerparti bárok ilyenkor melankolikus panorámát nyújtanak egy forró kávé mellé. Mivel a nap korán, 17:00 körül nyugszik, a Torre Saracena megtekintését az utolsó fényekre időzítjük.",
+            "ro": "Iarna în Roccalumera este blândă, dar răcoroasă. Ne bucurăm de liniștea dimineții în Parcul Quasimodo și ne încălzim în Antica Filanda. Terasele de pe plajă oferă o panoramă melancolică, perfectă pentru un espresso fierbinte. Deoarece soarele apune devreme, în jur de ora 17:00, planificăm vizita la Torre Saracena pentru ultima lumină a zilei.",
+            "en": "Winter in Roccalumera is mild yet crisp. We enjoy the morning serenity at Quasimodo Park and warm up inside the Antica Filanda. The beach bars offer a melancholic panorama in winter, perfect for a hot espresso. As the sun sets early around 5:00 PM, we schedule the visit to Torre Saracena to catch the last golden rays of the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Letterario Salvatore Quasimodo",
+                "hu": "Parco Letterario Salvatore Quasimodo",
+                "ro": "Parco Letterario Salvatore Quasimodo",
+                "en": "Parco Letterario Salvatore Quasimodo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft bei einem Spaziergang zwischen den historischen Waggons; tragen Sie eine warme Jacke, da der Wind vom Meer recht kühl wehen kann.",
+                "hu": "Élvezze a tiszta téli levegőt a történelmi vasúti kocsik közötti sétával; viseljen meleg kabátot, mert a tenger felől fújó szél ilyenkor meglehetősen metsző lehet.",
+                "ro": "Bucurați-vă de aerul curat de iarnă cu o plimbare printre vagoanele istorice; purtați o jachetă groasă, deoarece vântul dinspre mare poate fi destul de tăios.",
+                "en": "Enjoy the crisp winter air with a stroll among the historic train cars; wear a warm jacket as the wind from the Ionian Sea can be quite biting during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Antica Filanda",
+                "hu": "Antica Filanda",
+                "ro": "Antica Filanda",
+                "en": "Antica Filanda"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten eine angenehme Pause von der Meeresbrise; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung der alten Seidenspinnerei.",
+                "hu": "A vastag falak kellemes pihenőt nyújtanak a tengeri szél elől; használja ki az időt a régi selyemfonoda belső tereinek alapos és kényelmes felfedezésére.",
+                "ro": "Zidurile groase oferă o pauză plăcută de la briza mării; folosiți timpul pentru o vizită interioară detaliată a vechii filaturi de mătase la căldură.",
+                "en": "The thick walls provide a pleasant break from the sea breeze; use the time for a detailed indoor tour of the old silk mill away from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Sole Beach bar",
+                "hu": "Sole Beach bar",
+                "ro": "Sole Beach bar",
+                "en": "Sole Beach bar"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen warmen Drink mit Blick auf das winterliche Mittelmeer; eine winddichte Schicht ist wegen der exponierten Lage am Strand notwendig.",
+                "hu": "Ideális hely egy meleg italhoz a téli Földközi-tenger látványával; a tengerparti kitettség miatt egy szélálló réteg elengedhetetlen a kényelmes nézelődéshez.",
+                "ro": "Un loc ideal pentru o băutură caldă cu vedere la marea de iarnă; un strat rezistent la vânt este necesar din cauza locației expuse direct pe plajă.",
+                "en": "An ideal spot for a warm drink with a view of the winter Mediterranean; a windproof layer is necessary due to the exposed location right on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Play's Beach bar",
+                "hu": "Play's Beach bar",
+                "ro": "Play's Beach bar",
+                "en": "Play's Beach bar"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das tiefe Blau des Meeres bei kühlen Temperaturen; ziehen Sie sich nach Sonnenuntergang schnell etwas Wärmeres an, da es sofort spürbar kälter wird.",
+                "hu": "Csodálja meg a tenger mélykék színét a hűvös időben; naplemente után gyorsan vegyen fel egy plusz réteget, mert a hőmérséklet ilyenkor hirtelen visszaesik.",
+                "ro": "Admirați albastrul profund al mării la temperaturi scăzute; puneți-vă rapid o haină mai groasă după apus, deoarece temperatura scade brusc pe malul apei.",
+                "en": "Watch the deep blue of the sea in the cool winter air; put on an extra layer quickly after sunset as the temperature drops significantly by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Saracena",
+                "hu": "Torre Saracena",
+                "ro": "Torre Saracena",
+                "en": "Torre Saracena"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm kurz vor 17:00 Uhr, um das sanfte Winterlicht für Fotos zu nutzen; Handschuhe sind für das Halten der Kamera bei Seewind ratsam.",
+                "hu": "Látogassa meg a tornyot 17:00 előtt, hogy kihasználja a lágy téli fényeket a fotózáshoz; a tengeri szélben a fényképezőgép tartásához egy kesztyű hasznos lehet.",
+                "ro": "Vizitați turnul chiar înainte de ora 17:00 pentru a folosi lumina blândă de iarnă la fotografii; mănușile sunt utile pentru a ține camera în vântul mării.",
+                "en": "Visit the tower just before 5:00 PM to take advantage of the soft winter light for photos; gloves are advisable for holding your camera in the sea breeze."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon kora reggel a tengerészeti múzeumba a helyi hajós történetekért. Délben egy szép templom érintésével érje el a középkori Torre Saracenát. Délután irodalmi és selyemipari titkok várják. Zárja a napot egy hűsítő itallal a tengerparti bárban.",
         "ro": "Pedalați devreme spre muzeul maritim pentru a explora legendele mării. Prânzul vă duce pe lângă o biserică frumoasă la Torre Saracena medievală. După-amiaza, descoperiți istoria literară și a mătăsii. Încheiați ziua relaxându-vă cu o băutură la barul de pe plajă.",
         "en": "Cycle early to the maritime museum to explore local sea lore. Midday takes you past a beautiful church to the medieval Torre Saracena. In the afternoon, dive into literary history and old silk trades. End the day unwinding with a cold drink at the beach bar."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Roccalumera Vorsicht auf dem glatten Lungomare. Wir starten beim Museo del Mare und suchen Schutz in den Kirchen. Die Torre Saracena bietet einen imposanten Anblick im Nebel. Den Nachmittag verbringen wir in den Museen der Antica Filanda und beenden die Tour bei einer überdachten Strandbar mit Blick auf die aufgewühlte See.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a csúszós tengerparti sétányon. A Museo del Mare után a templomok nyújtanak száraz menedéket. A Torre Saracena impozáns látvány a ködben. A délutánt az Antica Filanda múzeumaiban töltjük, majd a túrát egy fedett tengerparti bárnál zárjuk a felkorbácsolt hullámokat figyelve.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe faleza alunecoasă din Roccalumera. Începem la Museo del Mare și căutăm adăpost în biserici. Torre Saracena oferă o priveliște impunătoare prin ceață. După-amiaza o petrecem în muzeele din Antica Filanda și încheiem turul la o terasă acoperită privind marea agitată.",
+            "en": "Cycling in the rain requires caution on Roccalumera's slippery Lungomare. We start at the Museo del Mare and find dry shelter in the local churches. The Torre Saracena looks imposing through the coastal mist. We spend the afternoon in the museums of Antica Filanda and end the tour at a covered beach bar watching the churning waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Start; nutzen Sie den Innenraum, um maritime Exponate zu studieren, während draußen der stärkste Regen niedergeht.",
+                "hu": "Tökéletes száraz kezdés; használja ki a belső teret a tengerészeti kiállítás tanulmányozására, amíg odakint a legerősebben esik az eső.",
+                "ro": "Un început perfect la uscat; profitați de interior pentru a studia exponatele maritime în timp ce afară plouă torențial.",
+                "en": "A perfect dry start; take advantage of the interior to study the maritime exhibits while the heaviest rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Santa Maria delle Grazie",
+                "hu": "Chiesa Santa Maria delle Grazie",
+                "ro": "Chiesa Santa Maria delle Grazie",
+                "en": "Chiesa Santa Maria delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier spirituelle Ruhe und Schutz vor dem Guss; stellen Sie Ihr Rad unter dem Vordach ab und achten Sie auf den nassen Fliesenboden im Eingang.",
+                "hu": "Keressen itt lelki békét és védelmet a zápor elől; támassza le a biciklit az előtető alá, és vigyázzon a bejáratnál a vizes, csúszós padlólapokra.",
+                "ro": "Căutați aici liniște și protecție împotriva ploii; lăsați bicicleta sub copertină și aveți grijă la podeaua de gresie umedă de la intrare.",
+                "en": "Find spiritual peace and protection from the downpour here; park your bike under the overhang and watch out for wet tiles at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Saracena",
+                "hu": "Torre Saracena",
+                "ro": "Torre Saracena",
+                "en": "Torre Saracena"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt im Regen besonders mystisch; halten Sie nur kurz für ein Foto an, da der Küstenwind hier das Radfahren erschweren kann.",
+                "hu": "A torony esőben különösen misztikus látványt nyújt; csak rövid időre álljon meg fotózni, mert a parti szél itt megnehezítheti a kerékpár stabilizálását.",
+                "ro": "Turnul pare deosebit de mistic în ploaie; opriți doar scurt pentru o fotografie, deoarece vântul de coastă poate îngreuna controlul bicicletei aici.",
+                "en": "The tower looks especially mystical in the rain; stop only briefly for a photo, as the coastal wind can make balancing the bike difficult here."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Letterario Salvatore Quasimodo",
+                "hu": "Parco Letterario Salvatore Quasimodo",
+                "ro": "Parco Letterario Salvatore Quasimodo",
+                "en": "Parco Letterario Salvatore Quasimodo"
+              },
+              "tip_5lang": {
+                "de": "Die Waggons bieten Schutz für eine Pause; achten Sie auf dem Radweg auf Pfützen, die tiefer sein könnten, als sie auf den ersten Blick aussehen.",
+                "hu": "A vasúti kocsik védelmet nyújtanak egy pihenőhöz; a kerékpárúton figyeljen a tócsákra, amelyek mélyebbek lehetnek, mint amilyennek elsőre látszanak.",
+                "ro": "Vagoanele oferă protecție pentru o pauză; pe pista de biciclete, atenție la bălțile care pot fi mai adânci decât par la prima vedere.",
+                "en": "The train cars offer protection for a quick break; on the bike path, watch out for puddles that might be deeper than they initially appear."
+              }
+            },
+            {
+              "name": {
+                "de": "Antica Filanda",
+                "hu": "Antica Filanda",
+                "ro": "Antica Filanda",
+                "en": "Antica Filanda"
+              },
+              "tip_5lang": {
+                "de": "Ideale Gelegenheit, um die Kleidung zu trocknen, während Sie die Ausstellungen besuchen; die Zufahrt für Räder kann bei Nässe rutschig sein.",
+                "hu": "Ideális alkalom a ruházat megszárítására, amíg a kiállításokat nézi; a kerékpáros felhajtó vizes időben trükkös és csúszós lehet.",
+                "ro": "Ocazie ideală pentru a vă usca hainele în timp ce vizitați expozițiile; aleea de acces pentru biciclete poate fi alunecoasă când este udă.",
+                "en": "An ideal opportunity to dry your clothes while visiting the exhibitions; the bike access path can be tricky and slippery in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Sole Beach bar",
+                "hu": "Sole Beach bar",
+                "ro": "Sole Beach bar",
+                "en": "Sole Beach bar"
+              },
+              "tip_5lang": {
+                "de": "Belohnen Sie sich mit einem Getränk unterm Dach; prüfen Sie vor der Rückfahrt die Bremsen Ihres Rads, da Nässe die Bremswirkung deutlich verringern kann.",
+                "hu": "Jutalmazza meg magát egy itallal a tető alatt; a visszaindulás előtt ellenőrizze a fékeket, mert a víz jelentősen csökkentheti a fékerőt.",
+                "ro": "Răsplătiți-vă cu o băutură sub acoperiș; înainte de plecare, verificați frânele bicicletei, deoarece umezeala le poate reduce eficiența.",
+                "en": "Reward yourself with a drink under the roof; check your bike brakes before heading back, as wetness can significantly reduce braking power."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour entlang der Küste von Roccalumera ist belebend. Wir starten am Museo del Mare und genießen die frische Brise. Die Kirchen bieten besinnliche Stopps zum Aufwärmen. Der Nachmittag führt uns durch den Quasimodo-Park zur Antica Filanda. Den Sonnenuntergang erleben wir an einer Strandbar, bevor wir das Rad im letzten Tageslicht sicher abstellen.",
+            "hu": "Egy téli kerékpártúra a roccalumerai part mentén igazán élénkítő. A Museo del Mare-tól indulva élvezzük a friss szellőt. A templomok meghitt megállókat kínálnak a felmelegedéshez. Délután a Quasimodo Parkon át tekerünk az Antica Filandához. A naplementét egy tengerparti bárnál érjük el, mielőtt sötétben letennénk a gépet.",
+            "ro": "O tură cu bicicleta iarna de-a lungul coastei din Roccalumera este revigorantă. Începem la Museo del Mare și ne bucurăm de briza proaspătă. Bisericile oferă opriri liniștite pentru încălzire. După-amiaza ne poartă prin Parcul Quasimodo spre Antica Filanda. Apusul îl prindem la o terasă pe plajă, înainte de a lăsa bicicleta la lăsarea serii.",
+            "en": "A winter bike ride along the Roccalumera coast is truly invigorating. Starting at the Museo del Mare, we enjoy the fresh breeze. The churches offer contemplative stops to warm up. The afternoon takes us through Quasimodo Park to Antica Filanda. We catch the sunset at a beach bar before finishing the ride as the early evening light fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour im beheizten Museum; tragen Sie beim Losfahren Schichten, um sich gegen den kühlen Fahrtwind am Meer zu schützen.",
+                "hu": "Kezdje a túrát a fűtött múzeumban; induláskor öltözzön rétegesen, hogy védekezzen a tengerparti hűvös menetszél ellen a kerékpáron.",
+                "ro": "Începeți turul în muzeul încălzit; purtați mai multe straturi de haine la plecare pentru a vă proteja de vântul rece de pe malul mării.",
+                "en": "Start your tour in the heated museum; dress in layers before setting off to protect yourself from the cool coastal headwind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Santa Maria delle Grazie",
+                "hu": "Chiesa Santa Maria delle Grazie",
+                "ro": "Chiesa Santa Maria delle Grazie",
+                "en": "Chiesa Santa Maria delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um kurz vom Rad zu steigen; die kühle Atmosphäre der Kirche erfordert eine Jacke, auch wenn Sie sich gerade warm gefahren haben.",
+                "hu": "Csendes hely, ahol érdemes leszállni a nyeregből; a templom hűvös belső tere kabátot igényel, még ha a tekeréstől ki is melegedett.",
+                "ro": "Un loc liniștit unde merită să coborâți din șa; atmosfera răcoroasă a bisericii necesită o jachetă, chiar dacă v-ați încălzit pedalând.",
+                "en": "A quiet place worth hopping off the saddle for; the church's cool interior requires a jacket even if you've warmed up from cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Saracena",
+                "hu": "Torre Saracena",
+                "ro": "Torre Saracena",
+                "en": "Torre Saracena"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet den Turm herrlich für Fotos; tragen Sie Handschuhe, damit Ihre Hände am Lenker bei der kühlen Brise nicht auskühlen.",
+                "hu": "A téli napfény csodásan világítja meg a tornyot a fotókhoz; viseljen kesztyűt, hogy a kezei ne fagyjanak rá a kormányra a hűvös szélben.",
+                "ro": "Soarele de iarnă luminează superb turnul pentru fotografii; purtați mănuși pentru ca mâinile să nu vă înghețe pe ghidon în briza rece.",
+                "en": "The winter sun illuminates the tower beautifully for photos; wear gloves so your hands don't freeze on the handlebars in the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Letterario Salvatore Quasimodo",
+                "hu": "Parco Letterario Salvatore Quasimodo",
+                "ro": "Parco Letterario Salvatore Quasimodo",
+                "en": "Parco Letterario Salvatore Quasimodo"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Stopp im milden Licht des Nachmittags; prüfen Sie Ihre Fahrradbeleuchtung, da es nach dem Besuch schnell dunkel werden kann.",
+                "hu": "Pihentető megálló a délutáni lágy fényekben; ellenőrizze a kerékpárlámpákat, mert a látogatás után hamarosan sötétedni kezd.",
+                "ro": "O oprire relaxantă în lumina blândă a după-amiezii; verificați luminile bicicletei, deoarece se va întuneca rapid după această vizită.",
+                "en": "A relaxing stop in the soft afternoon light; check your bicycle lights as it will start to get dark shortly after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Antica Filanda",
+                "hu": "Antica Filanda",
+                "ro": "Antica Filanda",
+                "en": "Antica Filanda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme der Innenräume für eine ausgiebige Pause; im Winter sind weniger Touristen hier, was den Besuch besonders ruhig macht.",
+                "hu": "Használja ki a belső terek melegét egy hosszabb pihenőre; télen kevesebb a turista, így a látogatás különösen nyugodt és meghitt.",
+                "ro": "Profitați de căldura spațiilor interioare pentru o pauză lungă; iarna sunt mai puțini turiști, ceea ce face vizita extrem de liniștită.",
+                "en": "Take advantage of the indoor warmth for an extended break; fewer tourists in winter make the visit exceptionally peaceful and intimate."
+              }
+            },
+            {
+              "name": {
+                "de": "Sole Beach bar",
+                "hu": "Sole Beach bar",
+                "ro": "Sole Beach bar",
+                "en": "Sole Beach bar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das winterliche Meer bei einem warmen Getränk; schalten Sie für die Rückfahrt unbedingt Ihre Reflektoren ein.",
+                "hu": "Élvezze a téli tenger látványát egy forró ital társaságában; a visszaútra feltétlenül kapcsolja be a lámpákat és a fényvisszaverőket.",
+                "ro": "Bucurați-vă de vederea mării de iarnă cu o băutură caldă; pentru drumul de întoarcere, asigurați-vă că aveți stopurile aprinse.",
+                "en": "Enjoy the winter sea view with a hot drink in hand; be sure to turn on your lights and reflectors for the ride back in the fading light."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autózzon elsőként a modern művészeti galériába kortárs alkotásokért. A déli órákban történelmi templomok és az izgalmas Antica Filanda várja. A délután az irodalmi parké és a középkori védműveké. A napot a tengerészeti múzeum izgalmas kiállításaival zárja.",
         "ro": "Conduceți mai întâi la galeria de artă modernă pentru a admira lucrări contemporane. Prânzul include vizite la biserici istorice și fascinanta Antica Filanda. După-amiaza trece la poezie și turnuri medievale de apărare. Încheiați la muzeul maritim.",
         "en": "Drive first to the modern art gallery to admire contemporary works. Midday includes visits to historic churches and the fascinating Antica Filanda. The afternoon shifts to poetry at the literary park and medieval defense towers. Conclude at the maritime museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist ideal für eine Autotour durch Roccalumera. Wir besuchen die Galerie Corrado Cagli und die barocken Kirchen, während wir zwischen den Stopps im trockenen Wagen bleiben. Die Antica Filanda und der Quasimodo-Park bieten faszinierende Einblicke in die Kultur, sicher vor den Güssen geschützt. Wir beenden den Tag im Museo del Mare, dem perfekten Ort für ein maritimes Finale im Trockenen.",
+            "hu": "Az esős idő ideális egy autós túrához Roccalumerában. Meglátogatjuk a Corrado Cagli galériát és a barokk templomokat, miközben a megállók között szárazon maradunk az autóban. Az Antica Filanda és a Quasimodo Park lenyűgöző kulturális élményt nyújt az eső elől védve. A napot a Museo del Mare-ban zárjuk, amely tökéletes helyszín egy tengerészeti fináléhoz, távol a felhőszakadástól.",
+            "ro": "O zi ploioasă este ideală pentru un tur cu mașina în Roccalumera. Vizităm galeria Corrado Cagli și bisericile baroce, rămânând la uscat în mașină între opriri. Antica Filanda și Parcul Quasimodo oferă incursiuni culturale fascinante, protejate de ploaie. Încheiem ziua la Museo del Mare, locul perfect pentru un final maritim la adăpost de intemperii.",
+            "en": "A rainy day is ideal for a car tour through Roccalumera. We visit the Corrado Cagli gallery and baroque churches, staying dry in the car between stops. Antica Filanda and Quasimodo Park offer fascinating cultural insights while safely sheltered from the downpours. We end the day at the Museo del Mare, the perfect indoor venue for a maritime finale away from the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli",
+                "hu": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli",
+                "ro": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli",
+                "en": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli"
+              },
+              "tip_5lang": {
+                "de": "Ein erstklassiger Ort für Kunstliebhaber bei Regen; parken Sie so nah wie möglich am Eingang, um nicht nass zu werden, und genießen Sie die moderne Kunst.",
+                "hu": "Elsőrangú hely a művészetkedvelőknek esőben; parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást, és élvezze a modern alkotásokat.",
+                "ro": "Un loc de primă clasă pentru iubitorii de artă pe ploaie; parcați cât mai aproape de intrare pentru a nu vă uda și bucurați-vă de arta modernă.",
+                "en": "A top-tier spot for art lovers when it rains; park as close to the entrance as possible to stay dry and enjoy the impressive modern collection indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Assunta",
+                "hu": "Chiesa di Santa Maria Assunta",
+                "ro": "Chiesa di Santa Maria Assunta",
+                "en": "Chiesa di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Das prächtige Innere bietet Schutz und Ruhe; achten Sie beim Aussteigen auf Pfützen auf der Straße und nehmen Sie Ihren Regenschirm für den kurzen Weg mit.",
+                "hu": "A pompás belső tér védelmet és nyugalmat nyújt; kiszálláskor ügyeljen az úton lévő tócsákra, és vigye magával az esernyőt a bejáratig tartó rövid útra.",
+                "ro": "Interiorul splendid oferă protecție și liniște; atenție la bălțile de pe stradă când coborâți din mașină și luați umbrela pentru drumul scurt până la ușă.",
+                "en": "The splendid interior offers protection and peace; watch out for puddles on the road when getting out of the car and bring your umbrella for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria del Rosario",
+                "hu": "Chiesa di Santa Maria del Rosario",
+                "ro": "Chiesa di Santa Maria del Rosario",
+                "en": "Chiesa di Santa Maria del Rosario"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen; die Sicht beim Fahren kann durch den Regen eingeschränkt sein, passen Sie Ihre Geschwindigkeit den Straßenverhältnissen an.",
+                "hu": "Csodálja meg az építészetet szárazon; az eső miatt a kilátás vezetés közben korlátozott lehet, igazítsa sebességét az útviszonyokhoz a templom környékén.",
+                "ro": "Admirați arhitectura la adăpost; vizibilitatea în timpul condusului poate fi redusă de ploaie, așa că adaptați viteza la condițiile drumului în zonă.",
+                "en": "Admire the architecture while staying dry; driving visibility may be reduced by rain, so adjust your speed to the road conditions near the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Antica Filanda",
+                "hu": "Antica Filanda",
+                "ro": "Antica Filanda",
+                "en": "Antica Filanda"
+              },
+              "tip_5lang": {
+                "de": "Großzügige Innenräume lassen Sie das Wetter vergessen; nutzen Sie den Parkplatz direkt am Gelände und achten Sie auf rutschige Markierungen auf dem Asphalt.",
+                "hu": "A tágas belső terek elfeledtetik Önnel a rossz időt; használja a közvetlen parkolót, és ügyeljen az aszfalton lévő csúszós felfestésekre a vizes úton.",
+                "ro": "Spațiile interioare generoase vă fac să uitați de vremea rea; folosiți parcarea de lângă clădire și atenție la marcajele alunecoase de pe asfalt.",
+                "en": "The spacious interiors will make you forget the bad weather; use the parking right next to the site and watch for slippery markings on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Letterario Salvatore Quasimodo",
+                "hu": "Parco Letterario Salvatore Quasimodo",
+                "ro": "Parco Letterario Salvatore Quasimodo",
+                "en": "Parco Letterario Salvatore Quasimodo"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Waggons sind kleine, trockene Museen; halten Sie Ihren Schirm bereit für den Wechsel zwischen den einzelnen Ausstellungsbereichen.",
+                "hu": "A történelmi vasúti kocsik apró, száraz múzeumokként szolgálnak; tartsa készenlétben az esernyőjét az egyes kiállítási egységek közötti átváltáshoz.",
+                "ro": "Vagoanele istorice servesc ca mici muzee uscate; țineți umbrela pregătită pentru deplasarea între diferitele secțiuni expoziționale în aer liber.",
+                "en": "The historic train cars serve as charming small indoor museums; keep your umbrella ready for the short transitions between the different exhibit units."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Saracena",
+                "hu": "Torre Saracena",
+                "ro": "Torre Saracena",
+                "en": "Torre Saracena"
+              },
+              "tip_5lang": {
+                "de": "Ein imposanter Fotostopp vom Autofenster aus; wenn Sie aussteigen, achten Sie auf starken Seitenwind, der den Regen unter den Schirm peitschen kann.",
+                "hu": "Impozáns fotómegálló akár az autó ablakából is; ha kiszáll, ügyeljen az erős oldalszélre, amely az esernyő alá fújhatja a csapadékot a toronynál.",
+                "ro": "O oprire impunătoare pentru poze, chiar din mașină; dacă coborâți, atenție la vântul lateral puternic care poate sufla ploaia sub umbrelă.",
+                "en": "An imposing photo stop even from the car window; if you step out, watch for strong side winds that can blow rain under your umbrella near the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag im Trockenen ausklingen zu lassen; das Museum bietet eine faszinierende maritime Welt, während draußen der Regen fällt.",
+                "hu": "Tökéletes helyszín a nap szárazon való befejezéséhez; a múzeum lenyűgöző tengeri világot mutat be, miközben odakint kitartóan esik az eső.",
+                "ro": "Locul perfect pentru a încheia ziua la uscat; muzeul prezintă o lume maritimă fascinantă în timp ce afară ploaia continuă să cadă torențial.",
+                "en": "The perfect location to finish your day in the dry; the museum showcases a fascinating maritime world while the rain continues to fall steadily outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie das winterliche Roccalumera bequem mit dem Auto. Wir starten bei der Cagli-Galerie und besuchen die prächtigen Kirchen, die im Winterlicht besonders feierlich wirken. Die Antica Filanda und der Quasimodo-Park sind ideale Ziele für den kühlen Nachmittag. Den Tag beschließen wir im Museo del Mare, kurz bevor die frühe Winterdämmerung gegen 17:00 Uhr die Küste einhüllt.",
+            "hu": "Fedezze fel a téli Roccalumerát kényelmesen, autóval. A Cagli galériától indulva meglátogatjuk a pompás templomokat, amelyek a téli fényben különösen ünnepélyesek. Az Antica Filanda és a Quasimodo Park ideális célpontok a hűvös délutánon. A napot a Museo del Mare-ban zárjuk, mielőtt a korai téli szürkület 17:00 körül elborítaná a partot.",
+            "ro": "Explorați Roccalumera pe timp de iarnă din confortul mașinii. Începem la galeria Cagli și vizităm bisericile superbe, care par solemne în lumina iernii. Antica Filanda și Parcul Quasimodo sunt destinații ideale pentru o după-amiază răcoroasă. Încheiem ziua la Museo del Mare, chiar înainte ca amurgul devreme de iarnă să cuprindă coasta.",
+            "en": "Explore wintery Roccalumera from the comfort of your car. Starting at the Cagli gallery, we visit magnificent churches that look particularly solemn in the winter light. Antica Filanda and Quasimodo Park are ideal destinations for a cool afternoon. We conclude the day at the Museo del Mare, just before the early winter dusk envelops the coast around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli",
+                "hu": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli",
+                "ro": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli",
+                "en": "Galleria d'Arte Moderna e Contemporanea Corrado Cagli"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie moderne Kunst in temperierten Räumen; im Winter ist es hier angenehm leer, was eine intensive Auseinandersetzung mit den Werken ermöglicht.",
+                "hu": "Élvezze a modern művészetet a temperált termekben; télen kellemesen üres a galéria, ami lehetővé teszi az alkotások mélyebb megismerését a tömeg nélkül.",
+                "ro": "Bucurați-vă de arta modernă în săli încălzite; iarna este plăcut de liber aici, ceea ce permite o analiză intensă a operelor fără aglomerație.",
+                "en": "Enjoy modern art in climate-controlled rooms; in winter, it's pleasantly uncrowded here, allowing for an intimate experience with the artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Assunta",
+                "hu": "Chiesa di Santa Maria Assunta",
+                "ro": "Chiesa di Santa Maria Assunta",
+                "en": "Chiesa di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine besinnliche Atmosphäre im Winter; lassen Sie die Heizung im Wagen an, da die Wege zwischen den Sehenswürdigkeiten kurz sind.",
+                "hu": "A templom meghitt hangulatot áraszt télen; hagyja bekapcsolva a fűtést az autóban, mert a látnivalók közötti utak rövidek és gyorsak.",
+                "ro": "Biserica oferă o atmosferă meditativă iarna; lăsați căldura pornită în mașină, deoarece drumurile între obiective sunt scurte și rapide.",
+                "en": "The church offers a contemplative atmosphere in winter; keep the car heater on as the drives between these sights are very short and quick."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria del Rosario",
+                "hu": "Chiesa di Santa Maria del Rosario",
+                "ro": "Chiesa di Santa Maria del Rosario",
+                "en": "Chiesa di Santa Maria del Rosario"
+              },
+              "tip_5lang": {
+                "de": "Ein architektonisches Juwel, das im klaren Winterlicht erstrahlt; nutzen Sie die Parkmöglichkeiten in der Nähe für einen schnellen Zugang zum Portal.",
+                "hu": "Építészeti ékszerdoboz, amely ragyog a tiszta téli fényben; használja a közeli parkolási lehetőségeket a bejárathoz való gyors és kényelmes bejutáshoz.",
+                "ro": "O bijuterie arhitecturală care strălucește în lumina clară de iarnă; folosiți locurile de parcare din apropiere pentru un acces rapid spre portal.",
+                "en": "An architectural gem that shines in the clear winter light; utilize the nearby parking spots for quick and easy access to the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Antica Filanda",
+                "hu": "Antica Filanda",
+                "ro": "Antica Filanda",
+                "en": "Antica Filanda"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch der alten Fabrik ist im Winter besonders gemütlich; ziehen Sie sich dennoch warm an, da einige Durchgangsbereiche zugig sein können.",
+                "hu": "A régi gyár meglátogatása télen különösen hangulatos; öltözzön fel melegen, mert egyes átjárók huzatosak lehetnek a belső terekben is.",
+                "ro": "Vizitarea vechii fabrici este deosebit de plăcută iarna; totuși, îmbrăcați-vă bine, deoarece unele zone de trecere pot fi răcoroase.",
+                "en": "Visiting the old factory is especially atmospheric in winter; still, dress warmly as some of the larger indoor passage areas can be quite drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Letterario Salvatore Quasimodo",
+                "hu": "Parco Letterario Salvatore Quasimodo",
+                "ro": "Parco Letterario Salvatore Quasimodo",
+                "en": "Parco Letterario Salvatore Quasimodo"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Literaturgeschichte in den geschützten Waggons; das goldene Licht der tiefstehenden Wintersonne ist perfekt für Außenaufnahmen der Züge.",
+                "hu": "Fedezze fel az irodalomtörténetet a védett vasúti kocsikban; az alacsonyan járó téli nap aranyfénye tökéletes a vonatok külső fotózásához.",
+                "ro": "Explorați istoria literară în vagoanele protejate; lumina aurie a soarelui de iarnă este perfectă pentru fotografii exterioare ale trenurilor.",
+                "en": "Explore literary history inside the sheltered train cars; the golden light of the low winter sun is perfect for outdoor photos of the historic wagons."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Saracena",
+                "hu": "Torre Saracena",
+                "ro": "Torre Saracena",
+                "en": "Torre Saracena"
+              },
+              "tip_5lang": {
+                "de": "Ein markanter Stopp kurz vor Sonnenuntergang; genießen Sie den Blick auf das Meer vom warmen Auto aus oder machen Sie einen kurzen, frischen Fotostopp.",
+                "hu": "Jellegzetes megálló közvetlenül naplemente előtt; élvezze a tengeri kilátást a meleg autóból, vagy szálljon ki egy gyors, frissítő fotózásra.",
+                "ro": "O oprire marcantă chiar înainte de apus; bucurați-vă de vederea mării din mașina încălzită sau faceți o scurtă oprire revigorantă pentru poze.",
+                "en": "A striking stop just before sunset; enjoy the sea view from your warm car or step out for a quick, refreshing photo opportunity by the ancient tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer und informativer Abschluss Ihrer Tour; beachten Sie die winterlichen Öffnungszeiten, die oft an den früheren Sonnenuntergang angepasst sind.",
+                "hu": "Meleg és tartalmas befejezése a túrának; vegye figyelembe a téli nyitvatartást, amelyet gyakran a korábbi naplementéhez igazítanak a múzeumban.",
+                "ro": "Un final călduros și informativ pentru turul dumneavoastră; atenție la programul de iarnă, care este adesea adaptat apusului devreme.",
+                "en": "A warm and informative conclusion to your tour; note the winter opening hours, which are often adjusted to accommodate the earlier sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

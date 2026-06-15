@@ -160,6 +160,196 @@
         "hu": "Kezdje egy festői utcasarkon a csodás reggeli fényekért, majd merüljön el a történelemben a Museo Casa de Allende-ben. Délben élvezze a kultúrát a Teatro Angela Peralta és a Teatro Sana Ana színházakban. Délután fedezze fel a színes hagyományokat a Museo la Esquina játékmúzeumban. Végül csodálja meg az őslakos maszkokat a casa cuesta mascaras gyűjteményében.",
         "ro": "Începeți la un colț pitoresc pentru lumină de dimineață, apoi plonjați în istorie la Museo Casa de Allende. La prânz bucurați-vă de cultura de la Teatro Angela Peralta și Teatro Sana Ana. După-amiaza descoperiți tradițiile la muzeul de jucării Museo la Esquina. Încheiați admirând măștile indigene la casa cuesta mascaras.",
         "en": "Start at a picturesque street corner for stunning morning light, then dive into history at Museo Casa de Allende. Midday brings cultural immersion at Teatro Angela Peralta and Teatro Sana Ana. The afternoon reveals colorful traditions at the Museo la Esquina toy museum. Conclude by marveling at the indigenous masks of the casa cuesta mascaras collection."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen auf Kopfsteinpflaster glitzert am Morgen; wasserfeste Schuhe sind Pflicht. Mittags bieten Museen und Theater trockene Zufluchtsorte vor Schauern. Am Nachmittag entfalten koloniale Innenhöfe ihren Charme, während es draußen gießt. Abends spiegeln sich Lichter auf nassen Wegen, was eine magische Atmosphäre schafft, doch Vorsicht vor glatten Oberflächen.",
+            "hu": "Reggel a macskaköveken megcsillan az eső, érdemes vízálló cipőben indulni. Délben a múzeumok és színházak nyújtanak fedett menedéket a záporok elől. Délután a belső udvarok hangulata kárpótol a borús időért. Este a vizes aszfalton tükröződő lámpafények varázsolják egyedivé a várost, de vigyázzunk a csúszós felületekre a lejtőkön.",
+            "ro": "Ploaia pe piatra cubică strălucește dimineața; încălțămintea impermeabilă este esențială. La prânz, muzeele și teatrele oferă adăpost uscat împotriva averselor. După-amiaza, curțile interioare coloniale își dezvăluie farmecul în timp ce afară plouă. Seara, luminile se reflectă pe drumurile ude, creând o atmosferă magică, dar atenție la suprafețele alunecoase.",
+            "en": "Morning rain glitters on cobblestones; waterproof shoes are essential for the start. At noon, museums and theaters provide dry havens from the showers. Afternoon brings a unique charm to the colonial courtyards while it pours outside. In the evening, streetlights reflecting on wet surfaces create a magical atmosphere, though paths become slippery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Beautiful Street Corner",
+                "hu": "Beautiful Street Corner",
+                "ro": "Beautiful Street Corner",
+                "en": "Beautiful Street Corner"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die nassen Fassaden zwischen rutschigen Steinen; nutzen Sie einen Regenschirm beim Warten an der Ecke.",
+                "hu": "Csúszós macskakövek között fotózhatjuk a vizes homlokzatokat; használjunk esernyőt a sarkon való várakozáshoz.",
+                "ro": "Fotografiați fațadele umede printre pietrele alunecoase; folosiți o umbrelă în timp ce așteptați la colț.",
+                "en": "Photograph the wet facades among slippery stones; use an umbrella while waiting at the corner for the best shot."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Allende",
+                "hu": "Museo Casa de Allende",
+                "ro": "Museo Casa de Allende",
+                "en": "Museo Casa de Allende"
+              },
+              "tip_5lang": {
+                "de": "Historische Zuflucht vor dem Regen; erkunden Sie die Innenräume, während es draußen regnet, und bleiben Sie trocken.",
+                "hu": "Történelmi menedék a zápor elől; fedezzük fel a belső termeket, amíg kint eláll az eső, és maradjunk szárazon.",
+                "ro": "Refugiu istoric împotriva ploii; explorați interioarele în timp ce plouă afară și rămâneți uscat în siguranță.",
+                "en": "Historical sanctuary from the rain; explore the interior rooms while it pours outside and stay perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Angela Peralta",
+                "hu": "Teatro Angela Peralta",
+                "ro": "Teatro Angela Peralta",
+                "en": "Teatro Angela Peralta"
+              },
+              "tip_5lang": {
+                "de": "Die elegante Lobby bietet Schutz; bewundern Sie neoklassizistische Details im Trockenen und meiden Sie den Guss.",
+                "hu": "Az elegáns előcsarnok védelmet nyújt; csodáljuk meg a neoklasszicista részleteket szárazon, kerülve a felhőszakadást.",
+                "ro": "Lobby-ul elegant oferă protecție; admirați detaliile neoclasice la adăpost și evitați ploaia torențială de afară.",
+                "en": "The elegant lobby provides shelter; admire neoclassical details in the dry while avoiding the heavy downpour outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Sana Ana",
+                "hu": "Teatro Sana Ana",
+                "ro": "Teatro Sana Ana",
+                "en": "Teatro Sana Ana"
+              },
+              "tip_5lang": {
+                "de": "Kulturelle Oase mit Bibliothek; der perfekte Ort für eine längere Regenpause zwischen Kunst und Büchern.",
+                "hu": "Kulturális oázis könyvtárral; tökéletes hely egy hosszabb esőszünetre a művészetek és régi könyvek között.",
+                "ro": "Oază culturală cu bibliotecă; locul perfect pentru o pauză lungă de ploaie printre arte și cărți vechi.",
+                "en": "Cultural oasis with a library; the perfect place for a long rain break among arts and cozy stacks of books."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo la Esquina",
+                "hu": "Museo la Esquina",
+                "ro": "Museo la Esquina",
+                "en": "Museo la Esquina"
+              },
+              "tip_5lang": {
+                "de": "Bunte Spielzeuge bringen Freude an grauen Tagen; die geräumigen Innenräume sind ideal bei schlechtem Wetter.",
+                "hu": "A színes játékok vidámságot hoznak a szürke napba; a tágas belső terek ideálisak tartós esőzés idején is.",
+                "ro": "Jucăriile colorate aduc bucurie în zilele gri; spațiile interioare largi sunt ideale în timpul ploilor lungi.",
+                "en": "Vibrant toys bring joy to gray days; the spacious interior rooms are ideal for visiting during steady rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "casa cuesta mascaras",
+                "hu": "casa cuesta mascaras",
+                "ro": "casa cuesta mascaras",
+                "en": "casa cuesta mascaras"
+              },
+              "tip_5lang": {
+                "de": "Beeindruckende Maskensammlung im Überdachten; die private Galerie bietet ein warmes und trockenes Erlebnis.",
+                "hu": "Lenyűgöző maszkgyűjtemény fedett helyen; a privát galéria meleg és száraz élményt nyújt a túra végén.",
+                "ro": "Colecție impresionantă de măști la interior; galeria privată oferă o experiență caldă și uscată la final.",
+                "en": "Impressive mask collection indoors; the private gallery offers a warm and dry experience at the end of the tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenluft erfordert Schichten trotz Sonne. Mittags ist die Wärme angenehm, doch schattige Gassen bleiben kühl. Um 17 Uhr geht die Sonne unter, und die Temperatur sinkt rapide. Abends erwarten beleuchtete Plätze und beheizte Innenräume die Besucher in der kalten mexikanischen Nacht.",
+            "hu": "A friss reggeli levegő réteges öltözködést igényel a napsütés ellenére is. Délben a nap melege kellemes, de az árnyékos utcákban hűvös maradhat. Délután ötkor már lebukik a nap, gyorsan hűl a levegő. Este a kivilágított főtér és a fűtött belső terek várják a látogatókat a hideg éjszakában.",
+            "ro": "Aerul proaspăt de dimineață necesită straturi în ciuda soarelui. La prânz, căldura este plăcută, dar străzile umbrite rămân răcoroase. La ora 17 soarele apune și temperatura scade rapid. Seara, piețele iluminate și spațiile încălzite așteaptă vizitatorii în noaptea rece mexicană.",
+            "en": "Crisp morning air calls for layers despite the bright sun. At noon, the sunlight is pleasant, but shaded narrow streets remain quite chilly. By 5 PM, the sun sets quickly, and temperatures drop sharply. In the evening, the illuminated plaza and heated interiors offer warmth during the cold night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Beautiful Street Corner",
+                "hu": "Beautiful Street Corner",
+                "ro": "Beautiful Street Corner",
+                "en": "Beautiful Street Corner"
+              },
+              "tip_5lang": {
+                "de": "Bestes Licht in der Morgensonne; tragen Sie einen Schal, da der Wind durch die engen Gassen weht.",
+                "hu": "A legjobb fények a reggeli napsütésben várnak; viseljünk sálat, mert a szél felerősödik a szűk utcákban.",
+                "ro": "Cea mai bună lumină în soarele dimineții; purtați o eșarfă, deoarece vântul suflă prin străzile înguste.",
+                "en": "Best light in the morning sun; wear a scarf as the wind tunnels through narrow colonial streets at this hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Allende",
+                "hu": "Museo Casa de Allende",
+                "ro": "Museo Casa de Allende",
+                "en": "Museo Casa de Allende"
+              },
+              "tip_5lang": {
+                "de": "Dicke Wände halten die Kälte fern; erkunden Sie die warme Geschichte des Helden der Stadt in aller Ruhe.",
+                "hu": "A vastag falak távol tartják a kinti hideget; fedezzük fel a város hősének meleg történelmét nyugodt tempóban.",
+                "ro": "Zidurile groase țin frigul la distanță; explorați istoria caldă a eroului orașului într-un ritm relaxat.",
+                "en": "Thick walls keep the outside cold away; explore the warm history of the city's hero at a leisurely winter pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Angela Peralta",
+                "hu": "Teatro Angela Peralta",
+                "ro": "Teatro Angela Peralta",
+                "en": "Teatro Angela Peralta"
+              },
+              "tip_5lang": {
+                "de": "Majestätischer Veranstaltungsort; ziehen Sie sich warm an für den Ausgang nach der frühen Abendvorstellung.",
+                "hu": "Fenséges helyszín; öltözzünk melegen a korai esti előadás utáni távozáshoz, mert kint már fagyos lehet.",
+                "ro": "Locație maiestuoasă; îmbrăcați-vă gros pentru plecarea după spectacolul de seară devreme, când e deja frig.",
+                "en": "Majestic venue; dress warmly for the exit after the early evening show as the outside temperature drops fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Sana Ana",
+                "hu": "Teatro Sana Ana",
+                "ro": "Teatro Sana Ana",
+                "en": "Teatro Sana Ana"
+              },
+              "tip_5lang": {
+                "de": "Warm und einladend; das Kulturzentrum bietet einen gemütlichen Ort für kühle Winternachmittage drinnen.",
+                "hu": "Meleg és hívogató; a kulturális központ barátságos helyet kínál a hűvös téli délutánokra a falak között.",
+                "ro": "Cald și primitor; centrul cultural oferă un loc prietenos pentru după-amiezele reci de iarnă între ziduri.",
+                "en": "Warm and inviting; the cultural center offers a cozy spot for chilly winter afternoons inside its walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo la Esquina",
+                "hu": "Museo la Esquina",
+                "ro": "Museo la Esquina",
+                "en": "Museo la Esquina"
+              },
+              "tip_5lang": {
+                "de": "Verspielter Innenstopp; da es windig sein kann, bleiben Sie im Inneren bei den traditionellen Spielzeugen.",
+                "hu": "Játékos belső állomás; mivel szeles lehet a környék, maradjunk bent a hagyományos játékok között.",
+                "ro": "Stație interioară jucăușă; deoarece zona poate fi vântoasă, rămâneți înăuntru printre jucăriile tradiționale.",
+                "en": "Playful indoor stop; as the area can get windy, stay inside among the traditional colorful toys."
+              }
+            },
+            {
+              "name": {
+                "de": "casa cuesta mascaras",
+                "hu": "casa cuesta mascaras",
+                "ro": "casa cuesta mascaras",
+                "en": "casa cuesta mascaras"
+              },
+              "tip_5lang": {
+                "de": "Kulturelle Wärme; die private Sammlung fühlt sich an wie der Besuch eines gemütlichen Hauses an einem kalten Tag.",
+                "hu": "Kulturális melegség; a privát gyűjtemény olyan, mintha egy barátságos otthonba mennénk a téli hidegben.",
+                "ro": "Căldură culturală; colecția privată pare o vizită într-o casă primitoare în timpul frigului de iarnă.",
+                "en": "Cultural warmth; the private collection feels like visiting a cozy home during the cold winter evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Biciklizzen a függetlenség szívébe a Museo Casa de Allende-hez, mielőtt a Teatro Sana Ana-hoz gurul. Délben tekerjen a casa cuesta mascaras felé, majd fedezze fel a Museo de sitio ősi leleteit. Délután kerekezzen felfelé az Antiguo Acueducto fenséges boltíveihez. Zárja a túrát a hatalmas La Aurora művészeti központban, kortárs remekművekkel.",
         "ro": "Pedalați în inima independenței la Museo Casa de Allende, apoi mergeți la Teatro Sana Ana. La prânz pedalați spre casa cuesta mascaras și explorați artefactele antice la Museo de sitio. După-amiaza mergeți spre arcadele maiestuoase ale Antiguo Acueducto. Încheiați turul la vastul centru de artă La Aurora cu capodopere contemporane.",
         "en": "Cycle to the heart of independence at Museo Casa de Allende before rolling over to Teatro Sana Ana. Midday, pedal towards casa cuesta mascaras, then explore ancient artifacts at Museo de sitio. In the afternoon, cycle uphill to discover the majestic arches of Antiguo Acueducto. Finish the ride at the sprawling La Aurora art center, enjoying contemporary masterpieces."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Kopfsteinpflasterhängen. Morgendliches Nieseln kann zu starken Mittagsschauern werden, was Innenstopps wichtig macht. Nachmittagsfahrten sind mit Schutzblechen besser. Abends in nassen Kurven langsam fahren, um sicher ans Ziel zu kommen.",
+            "hu": "A biciklizés esőben is lehetséges, de a macskaköves lejtőkön fokozott óvatosságot és jó féket igényel. Reggel még csak szemerkélhet, de délre már érdemes fedett megállókat keresni. Délután a sárvédő aranyat ér. Este a vizes kanyarokban lassítsunk le a biztonságos hazaérkezéshez.",
+            "ro": "Ciclismul în ploaie necesită prudență pe pantele cu piatră cubică. Burnița de dimineață poate deveni aversă la prânz, făcând opririle la interior vitale. După-amiaza e mai bine cu aripi la roți. Seara încetiniți în curbele umede pentru a ajunge în siguranță.",
+            "en": "Cycling in the rain requires extra caution and good brakes on cobblestone slopes. Morning drizzle might turn into heavy noon showers, making indoor stops vital. Afternoon rides are better with mudguards. In the evening, slow down in wet corners to ensure a safe return home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Casa de Allende",
+                "hu": "Museo Casa de Allende",
+                "ro": "Museo Casa de Allende",
+                "en": "Museo Casa de Allende"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im Unterstand ab; erkunden Sie die Geschichte, während der heftigste Regen draußen vorbeizieht.",
+                "hu": "Parkoljunk a biciklivel fedett helyen; fedezzük fel a történelmet, amíg a legerősebb eső elvonul kintről.",
+                "ro": "Parcați bicicleta la adăpost; explorați istoria în timp ce ploaia cea mai puternică trece pe afară.",
+                "en": "Park your bike under shelter; explore the history while the heaviest rain passes by outside the museum walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Sana Ana",
+                "hu": "Teatro Sana Ana",
+                "ro": "Teatro Sana Ana",
+                "en": "Teatro Sana Ana"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort zum Aufwärmen; die Bibliothek ist ein trockener Hafen, um die nasse Kleidung kurz zu lüften.",
+                "hu": "Tökéletes hely a melegedésre; a könyvtár száraz kikötő, ahol a nedves ruhák is kicsit kiszellőzhetnek.",
+                "ro": "Locul perfect pentru încălzire; biblioteca este un port uscat unde hainele umede se pot aerisi puțin.",
+                "en": "Perfect spot to warm up; the library is a dry haven where damp clothes can briefly air out during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "casa cuesta mascaras",
+                "hu": "casa cuesta mascaras",
+                "ro": "casa cuesta mascaras",
+                "en": "casa cuesta mascaras"
+              },
+              "tip_5lang": {
+                "de": "Die private Atmosphäre ist ideal bei Regen; parken Sie das Rad sicher und genießen Sie die bunte Kunst.",
+                "hu": "A privát légkör ideális esőben; parkoljunk biztonságosan a biciklivel, és élvezzük a színes maszkokat.",
+                "ro": "Atmosfera privată este ideală pe ploaie; parcați bicicleta în siguranță și savurați măștile colorate.",
+                "en": "The private atmosphere is ideal in rain; park the bike safely and enjoy the colorful masks indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de sitio",
+                "hu": "Museo de sitio",
+                "ro": "Museo de sitio",
+                "en": "Museo de sitio"
+              },
+              "tip_5lang": {
+                "de": "Überdachte Geschichte; nutzen Sie die Zeit drinnen, um die Karte für die nächste nasse Etappe zu prüfen.",
+                "hu": "Fedett történelmi utazás; használjuk ki a bent töltött időt az útvonal átnézésére a következő vizes szakasz előtt.",
+                "ro": "Călătorie istorică acoperită; folosiți timpul petrecut înăuntru pentru a verifica ruta înainte de etapa următoare.",
+                "en": "Covered historical journey; use the time inside to review your route before the next wet cycling segment."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiguo Acueducto",
+                "hu": "Antiguo Acueducto",
+                "ro": "Antiguo Acueducto",
+                "en": "Antiguo Acueducto"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Steinen am Aquädukt; die nassen Bögen bieten ein dramatisches Fotomotiv im Regen.",
+                "hu": "Vigyázzunk a csúszós kövekre a vízvezetéknél; a vizes ívek drámai fotótémát kínálnak az esős időben.",
+                "ro": "Atenție la pietrele alunecoase de la apeduct; arcadele umede oferă un subiect foto dramatic pe ploaie.",
+                "en": "Watch for slippery stones near the aqueduct; the wet arches offer a dramatic photo subject in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "La Aurora",
+                "hu": "La Aurora",
+                "ro": "La Aurora",
+                "en": "La Aurora"
+              },
+              "tip_5lang": {
+                "de": "Großer Innenraum für Kunst; der perfekte Endpunkt, um das Rad zu parken und trocken durch Galerien zu schlendern.",
+                "hu": "Hatalmas fedett művészeti központ; tökéletes végállomás a bicikli leparkolásához és a száraz galériákhoz.",
+                "ro": "Centru de artă acoperit uriaș; punctul final perfect pentru a parca bicicleta și a vizita galeriile uscate.",
+                "en": "Vast indoor arts center; the perfect final stop to park the bike and stroll through dry galleries for hours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert Handschuhe für die morgendliche Abfahrt. Die Sonne wärmt mittags, doch der Fahrtwind bleibt kühl. Nachmittags sinkt die Temperatur schnell, sobald die Schatten länger werden. Abends ist gute Beleuchtung wichtig, da es bereits um 17 Uhr dunkel wird.",
+            "hu": "A téli biciklizéshez kesztyű ajánlott a reggeli induláskor. A nap délben melegít, de a menetszél hűvös marad. Délután a hőmérséklet gyorsan esik, amint megnyúlnak az árnyékok. Este fontos a jó világítás, mert 17 óra után már sötétedik az utcákon.",
+            "ro": "Ciclismul de iarnă necesită mănuși pentru plecarea de dimineață. Soarele încălzește la prânz, dar vântul rămâne rece. După-amiaza temperatura scade rapid pe măsură ce umbrele se lungesc. Seara iluminarea e importantă, soarele apune la 17.",
+            "en": "Winter cycling requires gloves for the morning start. The sun warms you at noon, but the wind chill remains cool. In the afternoon, temperatures drop quickly as shadows lengthen. In the evening, good lights are vital as it gets dark after 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Casa de Allende",
+                "hu": "Museo Casa de Allende",
+                "ro": "Museo Casa de Allende",
+                "en": "Museo Casa de Allende"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach der Fahrt im Museum auf; die dicken Mauern bieten Schutz vor der kühlen Morgenluft.",
+                "hu": "Melegedjünk fel a tekerés után a múzeumban; a vastag falak védelmet nyújtanak a hűvös reggeli levegő ellen.",
+                "ro": "Încălziți-vă după pedalat în muzeu; zidurile groase oferă protecție împotriva aerului rece de dimineață.",
+                "en": "Warm up after your ride in the museum; the thick walls provide protection against the cool morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Sana Ana",
+                "hu": "Teatro Sana Ana",
+                "ro": "Teatro Sana Ana",
+                "en": "Teatro Sana Ana"
+              },
+              "tip_5lang": {
+                "de": "Gemütlicher Zwischenstopp; genießen Sie die warme Atmosphäre der Bibliothek vor der nächsten Etappe.",
+                "hu": "Hangulatos pihenőhely; élvezzük a könyvtár meleg atmoszféráját a következő kerékpáros szakasz előtt.",
+                "ro": "Popas primitor; bucurați-vă de atmosfera caldă a bibliotecii înainte de următoarea etapă cu bicicleta.",
+                "en": "Cozy rest stop; enjoy the warm atmosphere of the library before heading out for the next cycling segment."
+              }
+            },
+            {
+              "name": {
+                "de": "casa cuesta mascaras",
+                "hu": "casa cuesta mascaras",
+                "ro": "casa cuesta mascaras",
+                "en": "casa cuesta mascaras"
+              },
+              "tip_5lang": {
+                "de": "Herzlicher Empfang in der Galerie; die bunte Kunst lässt die winterliche Kälte draußen schnell vergessen.",
+                "hu": "Szívélyes fogadtatás a galériában; a színes maszkok feledtetik a kinti téli hideget a látogatás alatt.",
+                "ro": "Primire călduroasă în galerie; măștile colorate vă fac să uitați de frigul de afară în timpul vizitei.",
+                "en": "Hearty welcome in the gallery; the colorful art makes you forget the winter chill outside during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de sitio",
+                "hu": "Museo de sitio",
+                "ro": "Museo de sitio",
+                "en": "Museo de sitio"
+              },
+              "tip_5lang": {
+                "de": "Kurze Aufwärmpause drinnen; prüfen Sie Ihre Ausrüstung für die Abfahrt im schattigen Nachmittagslicht.",
+                "hu": "Rövid melegedő szünet bent; ellenőrizzük a felszerelést az árnyékos délutáni fényekben való indulás előtt.",
+                "ro": "Scurtă pauză de încălzire; verificați echipamentul înainte de plecarea în lumina umbrită a după-amiezii.",
+                "en": "Brief warming break inside; check your cycling gear before heading out into the shaded afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiguo Acueducto",
+                "hu": "Antiguo Acueducto",
+                "ro": "Antiguo Acueducto",
+                "en": "Antiguo Acueducto"
+              },
+              "tip_5lang": {
+                "de": "Klares Winterlicht für Fotos; ziehen Sie eine Jacke über, da es am Aquädukt im Schatten kühler ist.",
+                "hu": "Tiszta téli fények a fotózáshoz; vegyünk fel kabátot, mert a vízvezetéknél az árnyékban jóval hűvösebb van.",
+                "ro": "Lumină clară de iarnă pentru poze; puneți o jachetă, la apeduct este mult mai răcoare la umbră.",
+                "en": "Clear winter light for photos; put on a jacket as it is much cooler in the shade near the aqueduct arches."
+              }
+            },
+            {
+              "name": {
+                "de": "La Aurora",
+                "hu": "La Aurora",
+                "ro": "La Aurora",
+                "en": "La Aurora"
+              },
+              "tip_5lang": {
+                "de": "Beheizte Galerien zum Abschluss; parken Sie das Rad und genießen Sie die warme Kunstwelt bis zum frühen Sonnenuntergang.",
+                "hu": "Fűtött galériák a nap végén; parkoljunk le és élvezzük a meleg művészvilágot a korai naplementéig.",
+                "ro": "Galerii încălzite la final; parcați bicicleta și bucurați-vă de lumea artei până la apusul devreme.",
+                "en": "Heated galleries to end the day; park your bike and enjoy the warm art world until the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Vezessen reggel a festői utcasarokhoz fotózni, majd egyenesen a történelmi Museo Casa de Allende-hez. Délben tegyen egy rövid utat a La Aurora lenyűgöző galériáihoz, és sétáljon a közeli Antiguo Acueducto-hoz. Délután vezessen a Charco del Ingenio sivatagi tájaihoz. Zárja a napot a Conservatorio de Plantas Mexicanas ritka pozsgásai között.",
         "ro": "Conduceți dimineața la colțul pitoresc pentru fotografii, apoi direct la istoricul Museo Casa de Allende. La prânz vizitați galeriile fantastice de la La Aurora și plimbați-vă la Antiguo Acueducto. După-amiaza conduceți spre peisajele deșertice de la Charco del Ingenio. Încheiați ziua în liniștea de la Conservatorio de Plantas Mexicanas.",
         "en": "Drive to a beautiful historical corner for photos, then head straight to the monumental Museo Casa de Allende. Midday, take a quick trip to the spectacular art galleries of La Aurora, then stroll to the nearby Antiguo Acueducto. Afternoon brings you to the breathtaking landscapes of Charco del Ingenio. End the journey at the Conservatorio de Plantas Mexicanas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto bietet Schutz vor Schauern, doch erwarten Sie langsamen Verkehr in engen Gassen. Morgens füllen sich Parkplätze nahe überdachter Bereiche schnell. Mittags bleiben auch ferne Attraktionen gut erreichbar. Abends beobachten Sie das Gewitter über der Stadt sicher hinter beschlagenen Scheiben.",
+            "hu": "Autóval kényelmesen átvészelhetjük a záporokat, de a szűk utcákon lassabb haladásra számítsunk. Reggel a parkolóhelyek gyorsan betelhetnek a fedett részek közelében. Délben a távolabbi látnivalók is könnyen elérhetőek. Este a párás ablakok mögül nézhetjük a vihart a város felett.",
+            "ro": "Mașina oferă protecție împotriva averselor, dar așteptați-vă la trafic lent pe străzile înguste. Dimineața parcările se ocupă rapid lângă zonele acoperite. La prânz atracțiile îndepărtate rămân accesibile. Seara priviți furtuna peste oraș din spatele geamurilor aburite.",
+            "en": "The car offers a shield against showers, though expect slower traffic in narrow streets. In the morning, parking spots near covered areas fill up quickly. At noon, even distant attractions remain easily accessible. In the evening, watch the storm over the city from behind foggy windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Beautiful Street Corner",
+                "hu": "Beautiful Street Corner",
+                "ro": "Beautiful Street Corner",
+                "en": "Beautiful Street Corner"
+              },
+              "tip_5lang": {
+                "de": "Schneller Fotostopp aus dem Auto; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Gyors fotómegálló az autóból; kiszálláskor ügyeljünk a mély tócsákra az út mentén a macskaköveken.",
+                "ro": "Oprire foto rapidă din mașină; la coborâre aveți grijă la bălțile adânci de pe marginea drumului.",
+                "en": "Quick photo stop from the car; watch out for deep puddles at the roadside when stepping out onto the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Allende",
+                "hu": "Museo Casa de Allende",
+                "ro": "Museo Casa de Allende",
+                "en": "Museo Casa de Allende"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nächsten Parkhaus; genießen Sie den trockenen Weg in das historische Gebäude im Zentrum.",
+                "hu": "Parkoljunk a legközelebbi parkolóházban; élvezzük a száraz utat a központi történelmi épületbe a záporban.",
+                "ro": "Parcați în cea mai apropiată parcare; bucurați-vă de drumul uscat spre clădirea istorică centrală pe ploaie.",
+                "en": "Park in the nearest parking garage; enjoy the short, dry walk into the central historical building during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Aurora",
+                "hu": "La Aurora",
+                "ro": "La Aurora",
+                "en": "La Aurora"
+              },
+              "tip_5lang": {
+                "de": "Hervorragende Parkmöglichkeiten vor Ort; verbringen Sie den verregneten Vormittag trocken in den riesigen Hallen.",
+                "hu": "Kiváló parkolási lehetőség a helyszínen; töltsük az esős délelőttöt szárazon a hatalmas csarnokokban.",
+                "ro": "Parcare excelentă la fața locului; petreceți dimineața ploioasă la adăpost în halele uriașe de artă.",
+                "en": "Excellent parking available on-site; spend the rainy morning staying dry inside the vast art halls and galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiguo Acueducto",
+                "hu": "Antiguo Acueducto",
+                "ro": "Antiguo Acueducto",
+                "en": "Antiguo Acueducto"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Bögen bequem vom Auto aus; das Wasser läuft dramatisch an den alten Steinen herab.",
+                "hu": "Csodáljuk meg az íveket kényelmesen az autóból; az esővíz drámai módon folyik le a régi köveken.",
+                "ro": "Admirați arcadele confortabil din mașină; apa de ploaie se scurge dramatic pe pietrele vechi ale apeductului.",
+                "en": "Admire the arches comfortably from the car; the rainwater runs dramatically down the old stones of the aqueduct."
+              }
+            },
+            {
+              "name": {
+                "de": "Charco del Ingenio",
+                "hu": "Charco del Ingenio",
+                "ro": "Charco del Ingenio",
+                "en": "Charco del Ingenio"
+              },
+              "tip_5lang": {
+                "de": "Schlammige Wege erfordern Vorsicht; bleiben Sie im Besucherzentrum, wenn der Regen für die Pfade zu stark ist.",
+                "hu": "A sáros utak óvatosságot igényelnek; maradjunk a látogatóközpontban, ha túl erősen esne a kinti sétához.",
+                "ro": "Drumurile noroioase necesită prudență; rămâneți la centrul de vizitare dacă plouă prea tare pentru plimbare.",
+                "en": "Muddy paths require caution; stay in the visitor center if the rain is too heavy for an outdoor hike."
+              }
+            },
+            {
+              "name": {
+                "de": "Conservatorio de Plantas Mexicanas",
+                "hu": "Conservatorio de Plantas Mexicanas",
+                "ro": "Conservatorio de Plantas Mexicanas",
+                "en": "Conservatorio de Plantas Mexicanas"
+              },
+              "tip_5lang": {
+                "de": "Gewächshäuser bieten trockene Naturerlebnisse; genießen Sie das Prasseln des Regens auf dem Glasdach.",
+                "hu": "Az üvegházak száraz természetközeli élményt nyújtanak; élvezzük az eső kopogását az üvegtetőkön.",
+                "ro": "Serele oferă o experiență în natură la uscat; bucurați-vă de sunetul ploii pe acoperișul de sticlă.",
+                "en": "Greenhouses offer a dry nature experience; enjoy the rhythmic sound of rain tapping on the glass roofs."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Heizung im Auto sorgt für Komfort bei frostigem Start. Mittags ist das Fahren bei strahlender Sonne ideal. Ab 17 Uhr sinkt die Temperatur stark, doch im Auto bleiben Sie warm. Abends ist die Rückfahrt nach dem Sonnenuntergang durch die beleuchteten Straßen besonders stimmungsvoll.",
+            "hu": "Az autó fűtése kényelmet nyújt a fagyos reggeli induláskor. Délben a vezetés a ragyogó napsütésben ideális a táj felfedezéséhez. 17 óra után a hőmérséklet hirtelen esik, de a kocsiban melegben maradhatunk. Este a kivilágított utcákon a hazavezető út hangulatos.",
+            "ro": "Încălzirea mașinii oferă confort la plecarea geroasă de dimineață. La prânz, condusul în soarele strălucitor este ideal. După ora 17 temperatura scade brusc, dar în mașină rămâneți la căldură. Seara, drumul spre casă prin străzile iluminate este atmosferic.",
+            "en": "The car's heater provides comfort during the frosty morning start. At noon, driving in the bright winter sun is ideal for exploring. After 5 PM, temperatures drop sharply, but you stay warm inside. In the evening, the drive back through illuminated streets is very atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Beautiful Street Corner",
+                "hu": "Beautiful Street Corner",
+                "ro": "Beautiful Street Corner",
+                "en": "Beautiful Street Corner"
+              },
+              "tip_5lang": {
+                "de": "Klare Sicht in der Wintersonne; nutzen Sie die Wärme des Autos zwischen den kurzen Fotostopps an der Ecke.",
+                "hu": "Tiszta kilátás a téli napsütésben; használjuk ki az autó melegét a sarkon tett rövid fotómegállók között.",
+                "ro": "Vedere clară în soarele de iarnă; folosiți căldura mașinii între scurtele opriri foto de la colț.",
+                "en": "Clear views in the winter sun; utilize the car's warmth between short photo stops at the famous corner."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Casa de Allende",
+                "hu": "Museo Casa de Allende",
+                "ro": "Museo Casa de Allende",
+                "en": "Museo Casa de Allende"
+              },
+              "tip_5lang": {
+                "de": "Zentrale Lage mit Parkplätzen; genießen Sie die wohltemperierte Ausstellung in diesem historischen Juwel.",
+                "hu": "Központi helyszín parkolókkal; élvezzük a kellemes hőmérsékletű kiállítást ebben a történelmi ékszerdobozban.",
+                "ro": "Locație centrală cu parcări; bucurați-vă de expoziția cu temperatură plăcută în această bijuterie istorică.",
+                "en": "Central location with parking nearby; enjoy the well-tempered exhibition in this historical colonial gem."
+              }
+            },
+            {
+              "name": {
+                "de": "La Aurora",
+                "hu": "La Aurora",
+                "ro": "La Aurora",
+                "en": "La Aurora"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für kalte Tage; die riesigen Galerien sind gut vor dem winterlichen Bergwind geschützt.",
+                "hu": "Tökéletes hely a hideg napokra; a hatalmas galériák jól védettek a téli hegyi szelek ellen.",
+                "ro": "Locul perfect pentru zilele reci; galeriile uriașe sunt bine protejate împotriva vântului montan de iarnă.",
+                "en": "Perfect spot for cold days; the vast galleries are well-protected against the biting winter mountain winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiguo Acueducto",
+                "hu": "Antiguo Acueducto",
+                "ro": "Antiguo Acueducto",
+                "en": "Antiguo Acueducto"
+              },
+              "tip_5lang": {
+                "de": "Besichtigung im Abendlicht; bleiben Sie im Auto warm, während Sie die majestätischen Bögen im Schatten bewundern.",
+                "hu": "Városnézés az esti fényekben; maradjunk az autó melegében, miközben az árnyékban lévő fenséges íveket nézzük.",
+                "ro": "Vizitare în lumina serii; rămâneți la căldură în mașină în timp ce admirați arcadele maiestuoase la umbră.",
+                "en": "Sightseeing in the evening light; stay warm in the car while admiring the majestic arches sitting in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Charco del Ingenio",
+                "hu": "Charco del Ingenio",
+                "ro": "Charco del Ingenio",
+                "en": "Charco del Ingenio"
+              },
+              "tip_5lang": {
+                "de": "Frische Brise im Botanischen Garten; tragen Sie festes Schuhwerk und eine warme Jacke für die Wanderung.",
+                "hu": "Friss szellő a botanikus kertben; viseljünk zárt cipőt és meleg kabátot a kinti téli túrához.",
+                "ro": "Briză proaspătă în grădina botanică; purtați încălțăminte solidă și o jachetă caldă pentru drumeție.",
+                "en": "Fresh breeze in the botanical garden; wear sturdy shoes and a warm jacket for the winter outdoor hike."
+              }
+            },
+            {
+              "name": {
+                "de": "Conservatorio de Plantas Mexicanas",
+                "hu": "Conservatorio de Plantas Mexicanas",
+                "ro": "Conservatorio de Plantas Mexicanas",
+                "en": "Conservatorio de Plantas Mexicanas"
+              },
+              "tip_5lang": {
+                "de": "Tropische Wärme im Winter; die Gewächshäuser bieten einen angenehmen Kontrast zur kühlen Außenluft am Abend.",
+                "hu": "Trópusi meleg a télben; az üvegházak kellemes kontrasztot nyújtanak a hűvös esti kinti levegővel szemben.",
+                "ro": "Căldură tropicală în iarnă; serele oferă un contrast plăcut față de aerul rece de afară de la seară.",
+                "en": "Tropical warmth in winter; the greenhouses offer a pleasant contrast to the cool outside air in the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

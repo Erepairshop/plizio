@@ -137,6 +137,168 @@
         "hu": "A délelőtt a központi Sainte-Maxence templom gótikus szépségével indul. A helyi történelem megismerése után könnyedén átsétálhat a közeli, lenyűgöző királyi apátságba.\nA délben a csendesebb, történelmi vallási utakat fedezzük fel. Az Église Saint-Gervais felé vezető séta bájos bepillantást enged a fő turistaáramlástól távolabb eső utcákba.\nDélután a séta az Église Saint-Lucien felé folytatódik. Ez a rejtett gyöngyszem nyugodt atmoszférával mutatja be a város mélyen gyökerező építészeti örökségét.\nUtazása az Église Saint-Georges-nál ér véget, ahogy a késő délutáni nap hosszú árnyékokat vet a kövekre. Ez a tökéletes befejezése egy mélyen történelmi gyalogtúrának.",
         "ro": "Dimineața începe cu frumusețea gotică a Bisericii Sainte-Maxence chiar în centru. După ce asimilați istoria locală, veți trece ușor la măreția abației regale din apropiere.\nMiezul zilei este dedicat străbaterii căilor religioase istorice mai liniștite. Mersul spre Église Saint-Gervais oferă o vedere fermecătoare a străzilor locale departe de agitație.\nDupă-amiaza, plimbarea continuă spre Église Saint-Lucien. Această bijuterie ascunsă dezvăluie moștenirea arhitecturală adânc înrădăcinată a orașului, oferind o atmosferă senină.\nCălătoria se încheie la Église Saint-Georges în lumina târzie a după-amiezii. Este finalul perfect pentru un tur de mers pe jos profund istoric și plin de descoperiri.",
         "en": "Your morning starts with the gothic beauty of Sainte-Maxence Church right in the center. After soaking in the local history, you will easily transition to the grandeur of the nearby royal abbey.\nMidday is dedicated to tracing the quieter, historic religious paths. Walking toward Église Saint-Gervais provides a charming view of local streets away from the main tourist flow.\nIn the afternoon, the walk continues to Église Saint-Lucien. This hidden gem reveals the deeply rooted architectural heritage of the town, offering a serene atmosphere.\nYour journey concludes at Église Saint-Georges as the late afternoon sun casts long shadows over the stonework. It is the perfect end to a deeply historical walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen in den historischen Kirchen und suchen Sie Schutz in ihren Mauern. Mittags bietet die Abtei Moncel mit ihren riesigen Gewölben den perfekten Zufluchtsort. Navigieren Sie nachmittags mit Regenschirm zwischen Saint-Gervais und Saint-Lucien. Beenden Sie diesen feuchten, aber kulturreichen Spaziergang an der Kirche Saint-Georges.",
+            "hu": "Esős reggelét a történelmi templomok felfedezésével kezdje, száraz menedéket találva vastag falaik között. Délben a grandiózus Moncel Apátság boltívei alatt bújhat el a záporok elől. Délután sétáljon az eső áztatta utcákon a Saint-Gervais és Saint-Lucien között. Ezt a nedves, de kulturálisan gazdag napot a Saint-Georges templomnál zárhatja esernyővel.",
+            "ro": "Începeți dimineața ploioasă explorând bisericile istorice, găsind adăpost între zidurile lor groase. La prânz, vizitați marea Abație Moncel, unde tavanele boltite oferă un refugiu perfect. După-amiaza, navigați pe străzile umede cu umbrela între Saint-Gervais și Saint-Lucien. Încheiați această zi umedă, dar bogată cultural, la biserica Saint-Georges.",
+            "en": "Start your rainy morning exploring the impressive churches, seeking shelter inside their historic walls. Midday, visit the grand Moncel Abbey, where the vast vaulted ceilings provide a perfect rainy-day refuge. In the afternoon, navigate the wet streets between Saint-Gervais and Saint-Lucien. Conclude your damp but culturally rich day at Saint-Georges under your umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sainte-Maxence Church",
+                "hu": "Sainte-Maxence Church",
+                "ro": "Sainte-Maxence Church",
+                "en": "Sainte-Maxence Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im Trockenen; halten Sie einen Regenschirm für den kurzen Weg zur nächsten Station bereit.",
+                "hu": "Csodálja meg az ólomüveg ablakokat a száraz belső térből; tartson kéznél esernyőt a következő állomáshoz vezető rövid sétához.",
+                "ro": "Admirați vitraliile din interiorul uscat; țineți o umbrelă la îndemână pentru scurta plimbare spre următoarea oprire.",
+                "en": "Admire the stained glass from inside where it's dry; keep an umbrella handy for the short walk to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye royale du Moncel",
+                "hu": "Abbaye royale du Moncel",
+                "ro": "Abbaye royale du Moncel",
+                "en": "Abbaye royale du Moncel"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die großen Gewölbekeller der Abtei, die einen tollen und stimmungsvollen Schutz vor dem stürmischen Regen bieten.",
+                "hu": "Fedezze fel az apátság hatalmas, boltíves pincéit, amelyek kiváló, hangulatos menedéket nyújtanak a kinti heves eső elől.",
+                "ro": "Explorați vastele crame boltite ale abației, care oferă un refugiu fantastic și plin de atmosferă de ploaia torențială de afară.",
+                "en": "Explore the vast vaulted cellars of the abbey which offer a fantastic atmospheric refuge from the heavy rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gervais",
+                "hu": "Église Saint-Gervais",
+                "ro": "Église Saint-Gervais",
+                "en": "Église Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Feuchtigkeit ab; treten Sie vorsichtig auf das nasse Kopfsteinpflaster am Haupteingang.",
+                "hu": "A vastag kőfalak kint tartják a nedvességet; lépkedjen óvatosan a főbejárathoz vezető csúszós, nedves macskaköveken.",
+                "ro": "Zidurile groase de piatră țin umezeala afară; pășiți cu grijă pe pietrele cubice umede care duc spre intrarea principală.",
+                "en": "The thick stone walls keep the dampness out; step carefully on the slippery, wet cobblestones leading up to the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Lucien",
+                "hu": "Église Saint-Lucien",
+                "ro": "Église Saint-Lucien",
+                "en": "Église Saint-Lucien"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie einen ruhigen Moment in den Bänken zum Trocknen, während Sie die historischen Holzschnitzereien bewundern.",
+                "hu": "Száradjon meg egy kicsit a padokon ülve, miközben megcsodálja a történelmi fafaragásokat és a békés hangulatot.",
+                "ro": "Luați un moment de liniște pe bănci pentru a vă usca, admirând în același timp sculpturile istorice din lemn și pacea.",
+                "en": "Take a quiet moment in the pews to dry off while appreciating the historic wooden carvings and the peaceful ambiance."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang geschützt in diesem schönen Gebäude; achten Sie auf wasserdichtes Schuhwerk für den Rückweg.",
+                "hu": "Zárja a sétát e gyönyörű épületben menedéket találva; gondoskodjon vízálló lábbeliről a visszafelé vezető úton.",
+                "ro": "Încheiați plimbarea adăpostindu-vă în această structură frumoasă; asigurați-vă că aveți încălțăminte impermeabilă la întoarcere.",
+                "en": "Conclude your walk sheltering inside this beautiful structure; ensure your footwear is waterproof for the return journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Winterspaziergang an den frostigen Fassaden der Kirchen und wärmen Sie sich im Inneren auf. Gegen Mittag beeindruckt die Abtei Moncel in der Kälte; warme Kleidung ist hier Pflicht. Das Nachmittagslicht schwindet früh bei Saint-Gervais und Saint-Lucien. Beenden Sie Ihre kühle Tour vor Einbruch der Dunkelheit an der Kirche Saint-Georges.",
+            "hu": "Kezdje csípős téli sétáját a templomok deres homlokzatának megcsodálásával, majd melegedjen fel a csendes hajókban. Délben a történelmi Moncel Apátság lenyűgöző a hidegben, öltözzön melegen a látogatáshoz. A délutáni fény hamar halványul a többi templomnál. Fejezze be a hűvös sétát a sötétedés előtt a Saint-Georges templomnál.",
+            "ro": "Începeți plimbarea de iarnă admirând fațadele înghețate ale bisericilor, încălzindu-vă în interior. La prânz, istorica Abație Moncel este uimitoare în frigul iernii, purtați haine groase. Lumina se estompează devreme vizitând Saint-Gervais și Saint-Lucien. Încheiați turul pietonal răcoros la Saint-Georges înainte de lăsarea întunericului.",
+            "en": "Begin your crisp winter walk admiring the frosty facades of the local churches, warming up inside their quiet naves. Around noon, the historic Moncel Abbey looks stunning surrounded by winter chill, so dress in warm layers. Afternoon light fades early as you visit Saint-Gervais and Saint-Lucien. End your chilly tour at Saint-Georges before dusk sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sainte-Maxence Church",
+                "hu": "Sainte-Maxence Church",
+                "ro": "Sainte-Maxence Church",
+                "en": "Sainte-Maxence Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frostige gotische Fassade, bevor Sie sich drinnen aufwärmen und die historische Architektur bewundern.",
+                "hu": "Gyönyörködjön a fagyos gótikus külsejében, mielőtt belépne megmelegedni és megcsodálni a történelmi építészetet.",
+                "ro": "Bucurați-vă de exteriorul gotic înghețat înainte de a intra să vă încălziți și să admirați arhitectura istorică.",
+                "en": "Enjoy the frosty Gothic exterior before stepping inside to warm up and admire the historic religious architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye royale du Moncel",
+                "hu": "Abbaye royale du Moncel",
+                "ro": "Abbaye royale du Moncel",
+                "en": "Abbaye royale du Moncel"
+              },
+              "tip_5lang": {
+                "de": "Die Abtei ist wunderschön, teils aber unbeheizt; tragen Sie dicke Schichten, um die großen Säle bequem zu erkunden.",
+                "hu": "Az apátság lenyűgöző, de néhol fűtetlen; viseljen vastag rétegeket, hogy kényelmesen felfedezhesse a nagy termeket.",
+                "ro": "Abația este uimitoare, dar neîncălzită în unele părți; purtați straturi groase pentru a explora confortabil sălile.",
+                "en": "The abbey is stunning but unheated in parts; wear thick layers to stay comfortable while exploring the grand halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gervais",
+                "hu": "Église Saint-Gervais",
+                "ro": "Église Saint-Gervais",
+                "en": "Église Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht fällt wunderschön durch die Fenster; die Steinböden sind sehr kalt, warme Socken sind sehr zu empfehlen.",
+                "hu": "A téli fény gyönyörűen szűrődik be az ablakokon; a kőpadló nagyon hideg, ezért vastag, meleg zokni viselése erősen ajánlott.",
+                "ro": "Lumina iernii filtrează frumos prin ferestre; podelele de piatră sunt foarte reci, așa că șosetele groase sunt recomandate.",
+                "en": "Winter light filters beautifully through the windows; the stone floors are very cold, so warm socks are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Lucien",
+                "hu": "Église Saint-Lucien",
+                "ro": "Église Saint-Lucien",
+                "en": "Église Saint-Lucien"
+              },
+              "tip_5lang": {
+                "de": "Diese ruhige Kirche bietet eine gemütliche Pause vom eisigen Winterwind; bewundern Sie den Altar im frühen Nachmittagslicht.",
+                "hu": "Ez a csendes templom meghitt menedéket nyújt a csípős téli szél elől; csodálja meg az oltárt a kora délutáni fényben.",
+                "ro": "Această biserică liniștită oferă un răgaz primitor de vântul tăios de iarnă; admirați altarul la începutul după-amiezii.",
+                "en": "This quiet church offers a cozy respite from the biting winter wind; admire the altar as the early afternoon sun fades."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor der Dämmerung ein, um Details zu sehen, da der frühe Sonnenuntergang frostige Kälte bringt.",
+                "hu": "Időzítse látogatását sötétedés elé, hogy megcsodálhassa a részleteket, mielőtt a korai téli naplemente fagyot hoz.",
+                "ro": "Programați vizita înainte de lăsarea întunericului pentru a vedea detaliile, apusul timpuriu de iarnă aduce temperaturi de îngheț.",
+                "en": "Time your visit before dusk to appreciate the exterior details, as the early winter sunset brings freezing temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a lenyűgöző Sainte-Maxence templomnál. Egy nagyon rövid út után a királyi apátság kiterjedt területére érkezik, amely remek indítása a napnak.\nA dél közeledtével festői utakon teker az Église Saint-Gervais és az Église Saint-Lucien felé. A kerékpározás tökéletes tempót biztosít a csendes utcák élvezetéhez.\nA délután egy kellemes utat kínál az Église Saint-Georges felé. Itt megpihenhet a történelmi épületek között, mielőtt felkészülne a túra leghosszabb kerékpáros szakaszára.\nA nap a Château de Beaurepaire felé vezető frissítő tekeréssel zárul. A fenséges klasszikus építészet igazán jutalmazó finálét nyújt, mielőtt visszaindulna.",
         "ro": "Începeți aventura cu bicicleta la impresionanta Biserică Sainte-Maxence. O plimbare scurtă vă duce apoi pe domeniul vast al abației regale pentru un start perfect de zi.\nSpre prânz, veți pedala pe rute pitorești către Église Saint-Gervais și Église Saint-Lucien. Ciclismul oferă ritmul ideal pentru a vă bucura de străzile liniștite.\nDupă-amiaza oferă o cursă plăcută spre Église Saint-Georges. Aici vă puteți odihni admirând piatra istorică înainte de a vă pregăti pentru cea mai lungă etapă a traseului.\nZiua se încheie cu o plimbare revigorantă până la Château de Beaurepaire. Arhitectura clasică maiestuoasă reprezintă un final plin de satisfacții înainte de a vă întoarce.",
         "en": "Begin your biking adventure with the stunning Sainte-Maxence Church. A very short ride then brings you to the expansive grounds of the Abbaye royale du Moncel to start the day right.\nAs midday approaches, you will pedal through the scenic routes to Église Saint-Gervais and Église Saint-Lucien. Cycling gives you the perfect pace to enjoy these quiet suburban streets.\nThe afternoon offers a pleasant ride to Église Saint-Georges. Here, you can rest and enjoy the historical stonework before preparing for the longest leg of your cycle journey.\nYour day wraps up with an invigorating ride out to Château de Beaurepaire. The majestic classical architecture provides a rewarding finale before heading back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am regnerischen Morgen vorsichtig zu den historischen Kirchen, die als trockene Unterstände dienen. Mittags erreichen Sie die Abtei Moncel; parken Sie das Rad und erkunden Sie die Innenräume. Das Radfahren am Nachmittag erfordert Vorsicht auf rutschigen Straßen. Beenden Sie den nassen Tag mit Regenmantel am majestätischen Château de Beaurepaire.",
+            "hu": "Kezdje a tekerést óvatosan a nedves utakon a templomok felé, melyek száraz menedéket nyújtanak. Délben a Moncel Apátsághoz ér, ahol leparkolhatja a kerékpárt, és esőmentesen fedezheti fel a belső tereket. A délutáni tekerés óvatosságot igényel a csúszós utcákon. Zárja nedves napját a fenséges Château de Beaurepaire-nél jó esőkabátban.",
+            "ro": "Începeți să pedalați cu grijă pe drumurile umede spre biserici, folosindu-le ca adăposturi uscate. La prânz ajungeți la Abația Moncel, parcați bicicleta și explorați interiorul. Ciclismul de după-amiază necesită prudență pe străzile alunecoase. Încheiați ziua umedă la mărețul Château de Beaurepaire, echipat cu o pelerină bună.",
+            "en": "Start pedaling carefully on wet roads toward the historic churches, using them as dry shelters. Midday brings you to the grand Moncel Abbey, where you can park and explore indoors out of the rain. Afternoon riding requires caution on slippery streets. End your wet cycling day at the majestic Château de Beaurepaire, packing a good raincoat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sainte-Maxence Church",
+                "hu": "Sainte-Maxence Church",
+                "ro": "Sainte-Maxence Church",
+                "en": "Sainte-Maxence Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher und schütteln Sie den Regen ab; die Buntglasfenster wirken an grauen Tagen bemerkenswert lebendig.",
+                "hu": "Parkoljon le és rázza le az esőt odabent; az ólomüveg ablakok a szürke, borús napokon is lenyűgözően élénkek.",
+                "ro": "Parcați în siguranță și scuturați ploaia înăuntru; vitraliile par remarcabil de vibrante în zilele gri și înnorate.",
+                "en": "Park securely and shake off the rain inside; the stained glass windows look remarkably vibrant on grey, overcast days."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye royale du Moncel",
+                "hu": "Abbaye royale du Moncel",
+                "ro": "Abbaye royale du Moncel",
+                "en": "Abbaye royale du Moncel"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen Innenräume der Abtei sind bei Platzregen ideal für Radfahrer; nutzen Sie wasserdichte Gepäcktaschen.",
+                "hu": "Az apátság hatalmas belső terei a kerékpárosok legjobb barátai felhőszakadáskor; használjon vízálló kerékpáros táskát.",
+                "ro": "Spațiile interioare vaste sunt cel mai bun prieten al biciclistului pe ploaie; folosiți coburi impermeabili pentru echipament.",
+                "en": "The abbey’s vast indoor spaces are a cyclist’s best friend during a downpour; use waterproof panniers for your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gervais",
+                "hu": "Église Saint-Gervais",
+                "ro": "Église Saint-Gervais",
+                "en": "Église Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem Regen, um den Altar zu bewundern; achten Sie auf rutschige, nasse Blätter auf dem Radweg hierher.",
+                "hu": "Húzódjon be az eső elől és csodálja meg az oltárt; vigyázzon a csúszós nedves falevelekre a kerékpárúton idefelé.",
+                "ro": "Adăpostiți-vă de ploaie pentru a admira altarul istoric; atenție la frunzele umede și alunecoase de pe pista de biciclete.",
+                "en": "Step out of the rain to admire the historic altar; watch out for slippery wet leaves on the cycling path approaching here."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Lucien",
+                "hu": "Église Saint-Lucien",
+                "ro": "Église Saint-Lucien",
+                "en": "Église Saint-Lucien"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich in diesem ruhigen Heiligtum, bevor Sie weiterfahren; prüfen Sie die Bremsen bei nasser Fahrbahn.",
+                "hu": "Száradjon meg a csendes szentélyben a következő szakasz előtt; ellenőrizze, hogy a fékek jól fognak-e a nedvességben.",
+                "ro": "Uscați-vă în acest sanctuar liniștit înainte de următoarea etapă; asigurați-vă că frânele bicicletei funcționează bine pe ploaie.",
+                "en": "Dry off inside this quiet sanctuary before your next ride segment; ensure your bike brakes are working well in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Ein trockener Zufluchtsort für religiöse Kunst; tragen Sie bei starkem Regen eine gut sichtbare, reflektierende Jacke.",
+                "hu": "Gyors, száraz menedék a helyi egyházművészet megismeréséhez; heves esőben viseljen jól látható fényvisszaverő kabátot.",
+                "ro": "Un refugiu uscat pentru a aprecia arta religioasă; purtați o jachetă reflectorizantă foarte vizibilă în ploaia torențială.",
+                "en": "A quick dry refuge to appreciate local religious art; wear a highly visible reflective jacket in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Beaurepaire",
+                "hu": "Château de Beaurepaire",
+                "ro": "Château de Beaurepaire",
+                "en": "Château de Beaurepaire"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände ist schlammig, aber die Architektur im Regen romantisch; behalten Sie die Schutzbleche am Rad.",
+                "hu": "A kastély parkja sáros, de az építészet esőben is romantikus; hagyja fent a sárvédőket az utazás hátralévő részében.",
+                "ro": "Terenurile castelului sunt noroioase, dar arhitectura este romantică pe ploaie; păstrați aripile bicicletei montate.",
+                "en": "The castle grounds are muddy, but the architecture is romantic in the rain; keep your mudguards on for the ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem Wintermorgen auf dem Rad, besuchen Sie die Kirchen und wärmen Sie sich drinnen auf. Mittags bei der Abtei Moncel sind dicke Handschuhe gegen den eisigen Wind Pflicht. Das Nachmittagslicht schwindet schnell; fahren Sie zügig zwischen den Kirchen. Beenden Sie die kühle Fahrt am Château de Beaurepaire vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Dacoljon a csípős téli reggellel a nyeregben, látogassa meg a templomokat, és melegedjen fel odabent. Délben a Moncel Apátságnál vastag kesztyű és meleg ruha kell a fagyos szél ellen. A délutáni fény gyorsan fogy, tekerjen tempósan. Fejezze be a hűvös túrát a Château de Beaurepaire-nél a korai, 17:00 körüli naplemente előtt.",
+            "ro": "Înfruntați dimineața rece de iarnă pe bicicletă, vizitând bisericile și încălzindu-vă în interior. La prânz, la Abația Moncel, aveți nevoie de mănuși groase contra vântului înghețat. Lumina scade rapid, pedalați alert. Încheiați cursa răcoroasă la Château de Beaurepaire înainte de apusul devreme din jurul orei 17:00.",
+            "en": "Brave the crisp winter morning on your bike, visiting local churches and warming up inside their historic walls. Midday at Moncel Abbey requires thick cycling gloves against the freezing breeze. Afternoon light fades fast, so ride briskly. Conclude your chilly ride at Château de Beaurepaire before the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sainte-Maxence Church",
+                "hu": "Sainte-Maxence Church",
+                "ro": "Sainte-Maxence Church",
+                "en": "Sainte-Maxence Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände nach der morgendlichen Fahrt in dieser Kirche; die frostige Fassade ist ein tolles Fotomotiv.",
+                "hu": "Melegítse meg a kezét a lenyűgöző templomban a reggeli tekerés után; a fagyos külsejű épület nagyszerű fotótéma.",
+                "ro": "Încălziți-vă mâinile în această biserică după cursa de dimineață; exteriorul înghețat este perfect pentru fotografii.",
+                "en": "Warm your hands inside this striking church after your morning ride; the frosty exterior makes for a beautiful photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye royale du Moncel",
+                "hu": "Abbaye royale du Moncel",
+                "ro": "Abbaye royale du Moncel",
+                "en": "Abbaye royale du Moncel"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad ab und erkunden Sie die kalten Flure; Thermoschichten unter der Radkleidung halten Sie warm.",
+                "hu": "Zárja le a biciklit és fedezze fel a fűtetlen folyosókat; a kerékpáros ruha alatti termo rétegek távol tartják a hideget.",
+                "ro": "Legați bicicleta și explorați coridoarele reci; straturile termice pe sub echipamentul de ciclism vă vor ține de cald.",
+                "en": "Lock up and explore the unheated abbey corridors; thermal layers under your cycling gear will keep the winter chill away."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gervais",
+                "hu": "Église Saint-Gervais",
+                "ro": "Église Saint-Gervais",
+                "en": "Église Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Die kalten Steinböden senken die Temperatur, behalten Sie die Radschuhe an; bewundern Sie das winterliche Sonnenlicht.",
+                "hu": "A hideg kőpadló tovább csökkenti a hőmérsékletet, tartsa magán a cipőt; csodálja meg a gyönyörű téli napfényt.",
+                "ro": "Podelele reci de piatră scad temperatura, așa că păstrați pantofii de ciclism; admirați lumina frumoasă a soarelui de iarnă.",
+                "en": "The cold stone floors drop the temperature further, so keep your cycling shoes on; admire the beautiful winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Lucien",
+                "hu": "Église Saint-Lucien",
+                "ro": "Église Saint-Lucien",
+                "en": "Église Saint-Lucien"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um sich vor dem eisigen Gegenwind zu verstecken; sorgen Sie für gute Fahrradlichter für den Nachmittag.",
+                "hu": "Békés hely, ahol elrejtőzhet a csípős szembeszél elől; gondoskodjon a biciklilámpákról, mivel a téli nappal rövid.",
+                "ro": "Un loc liniștit pentru a vă ascunde de vântul tăios; asigurați-vă că aveți lumini funcționale la bicicletă, ziua e scurtă.",
+                "en": "A peaceful spot to hide from the biting headwind; ensure you have functioning bike lights as the winter day grows short."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine Pause von der eisigen Luft; fahren Sie vorsichtig, da sich in schattigen Ecken Frost bilden kann.",
+                "hu": "A templom rövid pihenőt nyújt a fagyos levegőn; tekerjen óvatosan, mert az árnyékos sarkokban már képződhet a dér.",
+                "ro": "Biserica oferă un scurt răgaz din aerul înghețat; pedalați cu grijă, deoarece bruma se poate forma în colțurile umbrite.",
+                "en": "The church offers a brief respite from the freezing air; cycle carefully as frost may start forming on shaded corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Beaurepaire",
+                "hu": "Château de Beaurepaire",
+                "ro": "Château de Beaurepaire",
+                "en": "Château de Beaurepaire"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt majestätisch vor dem Winterhimmel; brechen Sie um 16:30 Uhr auf, um nicht in der Dunkelheit zu fahren.",
+                "hu": "A kastély fenségesen fest a zord téli égbolt előtt; 16:30-kor induljon vissza, hogy elkerülje a sötét, fagyos utat.",
+                "ro": "Castelul arată măreț pe cerul aspru de iarnă; plecați până la 16:30 pentru a evita întoarcerea în întunericul înghețat.",
+                "en": "The chateau looks majestic against a stark winter sky; pack up by 16:30 to avoid cycling back in complete freezing darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós túrája a városközpontban kezdődik a Sainte-Maxence templomnál. Innen egy nagyon rövid út vezet a csodálatos királyi apátsághoz, ahol felfedezheti a gazdag történelmet.\nDélben a lenyűgöző Château de Beaurepaire felé veszi az irányt. A birtok megtekintése után egy rövid út a városházához, ahol megcsodálhatja a helyi építészetet.\nA délután a természeti szépségekről szól egy délre tartó autózással a Halatte erdőbe. Itt kinyújtózhat, és élvezheti a sűrű, ősi erdők nyújtotta békés menedéket.\nA nap zárásaként visszavezet a város szélére, hogy meglátogassa az Église Saint-Gervais-t. Ez a csendes megálló gyönyörűen egyensúlyozza a természet és az építészet keverékét.",
         "ro": "Călătoria auto începe în centrul orașului la Biserica Sainte-Maxence. De acolo, e un drum foarte scurt până la magnifica abație regală pentru a-i explora istoria bogată.\nPrânzul vă poartă către impresionantul Château de Beaurepaire. După vizionarea domeniului, o scurtă plimbare până la Primărie vă permite să apreciați arhitectura civică locală.\nDupă-amiaza se îndreaptă spre frumusețea naturală, mergând spre sud spre Pădurea Halatte. Aici vă puteți întinde picioarele și vă puteți bucura de o evadare pașnică în codru.\nÎncheind ziua, veți conduce înapoi spre marginea orașului pentru a vizita Église Saint-Gervais. Această oprire liniștită echilibrează perfect amestecul de natură și arhitectură.",
         "en": "Your road trip starts at the town's center with Sainte-Maxence Church. From there, it is a very brief drive to the magnificent Abbaye royale du Moncel to explore its rich history.\nMidday takes you out to the impressive Château de Beaurepaire. After viewing the estate, a short drive to the Town Hall lets you appreciate the local civic architecture.\nThe afternoon shifts to natural beauty with a drive south to the Halatte Forest. Here, you can stretch your legs and enjoy a peaceful escape into the dense, ancient woodlands.\nConcluding your day, you will drive back towards the town edges to visit Église Saint-Gervais. This quiet stop beautifully balances the day's mix of nature and architecture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den nassen Morgen und parken Sie nahe den Kirchen, um trocken zu bleiben. Mittags bietet die massive Abtei Moncel ein tolles Indoor-Erlebnis, perfekt gegen Regen. Navigieren Sie nachmittags auf rutschigen Landstraßen zum Château de Beaurepaire. Beenden Sie die Tour am Rande des Waldes von Halatte und genießen Sie die neblige Landschaft sicher vom Auto aus.",
+            "hu": "Vezessen kényelmesen a nedves reggelen, parkoljon közel a templomokhoz, hogy száraz maradjon. Délben a masszív Moncel Apátság kiterjedt belső terekkel tökéletes menedék az eső elől. Délután óvatosan navigáljon a csúszós vidéki utakon a lenyűgöző Château de Beaurepaire felé. Zárja az esős túrát a Halatte-erdő szélén, a párás tájat a kocsiból csodálva.",
+            "ro": "Conduceți confortabil în dimineața umedă, parcând aproape de biserici pentru a rămâne uscat. La prânz, masiva Abație Moncel oferă o experiență interioară perfectă pentru a scăpa de ploaie. După-amiaza, navigați pe drumurile de țară alunecoase spre impresionantul Château de Beaurepaire. Încheiați turul lângă Pădurea Halatte, bucurându-vă de peisajul cețos din interior.",
+            "en": "Drive comfortably through the wet morning, parking close to the churches to dash inside and stay dry. Midday, the massive Moncel Abbey provides an extensive indoor experience to escape the rain. In the afternoon, navigate slick country roads towards the impressive Château de Beaurepaire. End your driving tour near the Halatte Forest edge, enjoying the misty scenery safely from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sainte-Maxence Church",
+                "hu": "Sainte-Maxence Church",
+                "ro": "Sainte-Maxence Church",
+                "en": "Sainte-Maxence Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie erlaubt, um nicht nass zu werden; das Innere der Kirche ist ein trockenes Heiligtum für den Start.",
+                "hu": "Parkoljon a lehető legközelebb, hogy ne ázzon el; a templom belseje csendes, száraz menedéket kínál a nap indításához.",
+                "ro": "Parcați cât mai aproape posibil pentru a nu vă uda; interiorul bisericii oferă un sanctuar liniștit și uscat dimineața.",
+                "en": "Park as close as legally allowed to avoid getting soaked; the church interior offers a quiet, dry sanctuary to start your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye royale du Moncel",
+                "hu": "Abbaye royale du Moncel",
+                "ro": "Abbaye royale du Moncel",
+                "en": "Abbaye royale du Moncel"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt auf den Besucherparkplatz; der riesige Innenkomplex der Abtei ist perfekt, um starke Regengüsse abzuwarten.",
+                "hu": "Hajtson egyenesen a kijelölt parkolóba; a hatalmas belső apátsági komplexum tökéletes a nagy viharok átvészelésére.",
+                "ro": "Conduceți până la parcarea pentru vizitatori; vastul complex interior al abației este perfect pentru a aștepta trecerea furtunii.",
+                "en": "Drive right up to the designated visitor parking; the vast indoor abbey complex is perfect for passing heavy rain storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Beaurepaire",
+                "hu": "Château de Beaurepaire",
+                "ro": "Château de Beaurepaire",
+                "en": "Château de Beaurepaire"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrten können durch Regen schlammig sein; bewundern Sie die majestätische, feuchte Fassade von außen.",
+                "hu": "A megközelítő utak esőtől és sártól csúszósak lehetnek; csodálja meg a fenséges, nedves homlokzatot a belépés előtt.",
+                "ro": "Drumurile de acces pot fi alunecoase din cauza ploii; admirați fațada maiestuoasă și umedă înainte de a intra pe domeniu.",
+                "en": "The approach roads can be slick with rain and mud; admire the majestic damp facade before heading inside the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Town Hall",
+                "hu": "Town Hall",
+                "ro": "Town Hall",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die bürgerliche Architektur aus dem trockenen Auto heraus zu bewundern, falls der Regen zu stark wird.",
+                "hu": "Egy gyors megálló, hogy autója kényelméből és szárazságából csodálhassa meg a polgári építészetet szakadó esőben.",
+                "ro": "O oprire rapidă pentru a aprecia arhitectura civică din confortul mașinii, dacă ploaia torențială devine prea intensă.",
+                "en": "A quick stop to appreciate the civic architecture from the dry comfort of your car if the downpour becomes too intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Halatte Forest",
+                "hu": "Halatte Forest",
+                "ro": "Halatte Forest",
+                "en": "Halatte Forest"
+              },
+              "tip_5lang": {
+                "de": "Wandern ist schlammig; parken Sie am Waldrand und öffnen Sie das Fenster leicht, um dem Regen in den Bäumen zu lauschen.",
+                "hu": "A túrázás sáros lenne; inkább parkoljon az erdő szélén, és résnyire nyitott ablaknál hallgassa az esőt a lombokon.",
+                "ro": "Drumețiile sunt noroioase; mai bine parcați la marginea pădurii și deschideți puțin geamul pentru a asculta ploaia în frunziș.",
+                "en": "Hiking is muddy and wet; instead, park at the forest edge and crack the window to listen to the rain in the dense canopy."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gervais",
+                "hu": "Église Saint-Gervais",
+                "ro": "Église Saint-Gervais",
+                "en": "Église Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und betreten Sie diese letzte historische Kirche; schütteln Sie den Schirm ab und bewundern Sie den Altar.",
+                "hu": "Parkoljon le a közelben, lépjen be ebbe az utolsó templomba, rázza le az esernyőjét, majd csodálja meg az oltárt.",
+                "ro": "Parcați în apropiere și intrați în această ultimă biserică istorică, scuturând umbrela înainte de a explora altarul ornat.",
+                "en": "Pull up nearby and step into this final historic church, shaking off your umbrella before exploring the ornate altar."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie die Winterfahrt mit Heizung und wechseln Sie zwischen den Kirchen, ohne zu frieren. Mittags in der Abtei Moncel müssen Sie sich warm anziehen, da die alten Steine die Kälte speichern. Die Nachmittagsstraßen zum Rathaus und Schloss können eisig sein. Beenden Sie die Tour am Wald von Halatte vor 16:30 Uhr, bevor die winterliche Dunkelheit hereinbricht.",
+            "hu": "Kezdje a téli utazást bekapcsolt fűtéssel, a templomok között ugrálva, hogy elkerülje a hideget. A Moncel Apátságnál melegen kell öltözni, mert a régi kövek tartják a fagyot. Délután a Városháza és a kastély felé az utak jegesek lehetnek, vezessen óvatosan. Fejezze be az utat a Halatte-erdőnél 16:30 előtt, mielőtt a sötétség borul a fagyos tájra.",
+            "ro": "Începeți plimbarea cu căldura pornită, sărind între biserici fără a sta mult în frig. La Abația Moncel trebuie să vă îmbrăcați gros, pietrele vechi țin frigul. După-amiaza, drumurile spre Primărie și Château de Beaurepaire pot fi înghețate. Terminați lângă Pădurea Halatte înainte de 16:30, când întunericul de iarnă cuprinde peisajul înghețat.",
+            "en": "Start your winter drive with the heater on, hopping between historic churches without spending too much time in the cold. Midday at Moncel Abbey means dressing warmly, as the ancient stones hold the chill. Afternoon roads to the Town Hall and Château may be icy, so drive with caution. Finish near Halatte Forest by 16:30 before darkness envelops the landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sainte-Maxence Church",
+                "hu": "Sainte-Maxence Church",
+                "ro": "Sainte-Maxence Church",
+                "en": "Sainte-Maxence Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Sitzheizung Ihres Autos, bevor Sie das kühle, aber wunderschön erhaltene Kirchenschiff betreten.",
+                "hu": "Élvezze az ülésfűtést a kocsiban, mielőtt belép a történelmi templom hűvös, de gyönyörűen megőrzött főhajójába.",
+                "ro": "Bucurați-vă de scaunele încălzite ale mașinii înainte de a păși în naosul răcoros, dar frumos conservat al bisericii.",
+                "en": "Enjoy the heated seats of your car before stepping into the chilly but beautifully preserved nave of this historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye royale du Moncel",
+                "hu": "Abbaye royale du Moncel",
+                "ro": "Abbaye royale du Moncel",
+                "en": "Abbaye royale du Moncel"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinstrukturen der Abtei fangen die kalte Luft ein; tragen Sie Ihren dicksten Wintermantel bei der Besichtigung.",
+                "hu": "Az apátság masszív kőszerkezetei csapdába ejtik a hideget; viselje a legvastagabb télikabátját, hiába jött autóval.",
+                "ro": "Structurile masive de piatră ale abației rețin aerul rece; purtați cea mai groasă haină de iarnă, chiar dacă ați venit cu mașina.",
+                "en": "The massive stone structures of the abbey trap the cold air; wear your thickest winter coat even though you arrived by car."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Beaurepaire",
+                "hu": "Château de Beaurepaire",
+                "ro": "Château de Beaurepaire",
+                "en": "Château de Beaurepaire"
+              },
+              "tip_5lang": {
+                "de": "Die ländlichen Straßen zum Schloss können vereist sein; fahren Sie langsam und machen Sie tolle Fotos vom frostigen Anwesen.",
+                "hu": "A kastélyhoz vezető vidéki utak deresek lehetnek; vezessen lassan, és készítsen lenyűgöző fotókat a fagyos birtokról.",
+                "ro": "Drumurile rurale spre castel pot fi acoperite de brumă; conduceți încet și faceți fotografii uimitoare ale domeniului înghețat.",
+                "en": "The rural roads to the chateau can be frosted over; drive slowly and capture stunning photos of the frosty estate grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Town Hall",
+                "hu": "Town Hall",
+                "ro": "Town Hall",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Zentrum kann im Winter ungemütlich sein; parken Sie kurz, um die Fassade zu bewundern, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "A központ télen zord lehet; parkoljon le röviden, csodálja meg a homlokzatot, majd siessen vissza a meleg járműbe.",
+                "ro": "Centrul poate fi destul de pustiu iarna; parcați scurt pentru a admira fațada înainte de a vă grăbi înapoi în vehiculul cald.",
+                "en": "The center can be quite bleak in winter; park briefly to admire the facade before rushing back to your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Halatte Forest",
+                "hu": "Halatte Forest",
+                "ro": "Halatte Forest",
+                "en": "Halatte Forest"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang stürzt den Wald in eisige Dunkelheit; machen Sie vor 16:00 Uhr einen kurzen Spaziergang am Auto.",
+                "hu": "A nap korán nyugszik, fagyos sötétségbe borítva a sűrű erdőt; tegyen egy rövid, élénk sétát az autó közelében 16:00 óra előtt.",
+                "ro": "Apusul vine devreme, cufundând pădurea în întuneric; faceți o plimbare scurtă și rapidă lângă mașină înainte de 16:00.",
+                "en": "Sunset comes early, plunging the dense forest into freezing darkness; take a short, brisk walk near the car before 16:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gervais",
+                "hu": "Église Saint-Gervais",
+                "ro": "Église Saint-Gervais",
+                "en": "Église Saint-Gervais"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Winterfahrt an dieser tollen Kirche; das Licht der frühen Dämmerung wirft malerische Schatten auf die Steine.",
+                "hu": "Zárja a téli utazást e lenyűgöző templomnál; a korai szürkület fényei, melyek árnyékot vetnek a hideg kőre, hihetetlenül festőiek.",
+                "ro": "Terminați plimbarea la această biserică uimitoare; lumina timpurie a amurgului creând umbre pe piatră este foarte pitorească.",
+                "en": "Finish your winter drive at this stunning church; the early dusk light casting shadows on the cold stone is incredibly scenic."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Vesoul gazdag vallási örökségének felfedezésével a lenyűgöző Église Saint-Georges falai között. \n Ezután tegyen egy nyugodt sétát a Jardin Anglais élénk virágai között, mielőtt megmássza a La Motte-ot a csodás kilátásért. \n Ereszkedjen le a Vieux Vesoul negyedbe, és töltse a délutánt a történelmi sikátorok és a klasszikus építészet csodálatával. \n Zárja sétáját a Musée Georges-Garret inspiráló kiállításainak megtekintésével, ahol képzőművészeti ritkaságokat talál.",
         "ro": "Începeți ziua explorând bogatul patrimoniu religios al orașului la Église Saint-Georges, admirând frumusețea sa clasică. \n Faceți o plimbare liniștită prin Jardin Anglais înainte de a urca pe La Motte pentru vederi panoramice de neegalat asupra orașului. \n Coborâți în Vieux Vesoul, petrecând după-amiaza rătăcind pe alee istorice și bucurându-vă de arhitectura franceză. \n Încheiați cu o vizită inspiratoare la Musée Georges-Garret, explorând arta plastică și arheologia.",
         "en": "Begin your day delving into Vesoul's rich religious heritage at Église Saint-Georges, admiring its classic beauty. \n Next, take a tranquil stroll through the vibrant Jardin Anglais before braving the climb up La Motte for unparalleled city views. \n Descend into Vieux Vesoul, spending the afternoon wandering historic alleyways and soaking in the classic French architecture. \n Conclude with an inspiring visit to Musée Georges-Garret, exploring fine arts and archaeology before winding down your walk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in der Kirche Saint-Georges. Spazieren Sie mit einem Regenschirm durch den englischen Garten und besteigen Sie La Motte über die nassen Wege äußerst vorsichtig. Suchen Sie mittags Schutz in den historischen Arkaden von Vieux Vesoul. Verbringen Sie danach einen trockenen Nachmittag mit lokaler Kunst und Kultur drinnen im Musée Georges-Garret.",
+            "hu": "Kezdje az esős reggelt a lenyűgöző Église Saint-Georges védett falai között. Sétáljon stabil esernyővel az Angol Kertben, majd óvatosan mássza meg a La Motte csúszós ösvényeit. Délben húzódjon be a régi Vesoul árkádjai alá a záporok elől. A délutánt töltse kényelmesen és szárazon, elmerülve a Musée Georges-Garret gazdag művészetében.",
+            "ro": "Începeți dimineața ploioasă în superba biserică Saint-Georges. Plimbați-vă cu o umbrelă robustă prin Grădina Engleză, apoi urcați cu grijă potecile ude spre La Motte. La prânz, adăpostiți-vă sub arcadele istorice din orașul vechi. Petreceți o după-amiază uscată și confortabilă admirând arta și istoria la Musée Georges-Garret.",
+            "en": "Begin your rainy morning inside the stunning Église Saint-Georges. Use a sturdy umbrella in the Jardin Anglais, then navigate La Motte's wet paths carefully. By noon, seek shelter from the showers in the historic arcades of Vieux Vesoul. Spend a cozy, completely dry afternoon exploring the rich art and history indoors at the Musée Georges-Garret."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das schöne Interieur und die leuchtenden Buntglasfenster, die einen perfekten, völlig trockenen Zufluchtsort vor dem starken Morgenregen bieten.",
+                "hu": "Csodálja meg a lenyűgöző belső teret és az üvegablakokat, amelyek tökéletes, teljesen száraz menedéket nyújtanak a heves, kitartó reggeli esőzés elől.",
+                "ro": "Admirați interiorul detaliat și vitraliile luminoase, care oferă un refugiu perfect, complet uscat, departe de ploaia deasă și persistentă de dimineață.",
+                "en": "Admire the intricate beautiful interior and glowing stained glass windows, which offer a perfect, completely dry refuge from the heavy, persistent morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin Anglais",
+                "hu": "Jardin Anglais",
+                "ro": "Jardin Anglais",
+                "en": "Jardin Anglais"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das frische, regennasse Grün des Gartens, aber tragen Sie unbedingt wasserdichte Schuhe, da die unbefestigten Wege recht schlammig werden.",
+                "hu": "Élvezze a kert buja, eső áztatta növényzetét, de mindenképpen viseljen vízálló cipőt, mivel a burkolatlan ösvények meglehetősen sarasak és csúszósak lehetnek.",
+                "ro": "Bucurați-vă de verdeața proaspătă a grădinii în ploaie, dar asigurați-vă că purtați încălțăminte impermeabilă, deoarece aleile devin foarte noroioase.",
+                "en": "Enjoy the lush, rain-freshened greenery of the garden, but make sure to wear sturdy waterproof shoes as the unpaved paths can get quite muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "La Motte",
+                "hu": "La Motte",
+                "ro": "La Motte",
+                "en": "La Motte"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick über die Stadt ist im Nebel dramatisch, aber achten Sie auf Ihre Schritte, da der steile Wanderweg bei Nässe extrem rutschig wird.",
+                "hu": "A városra nyíló panoráma drámai a ködben, de nagyon figyeljen a lépéseire, mert a meredek túraútvonal nedvesen rendkívül csúszóssá és veszélyessé válik.",
+                "ro": "Priveliștea panoramică asupra orașului este dramatică în ceață, dar aveți mare grijă la pași, deoarece poteca abruptă devine extrem de alunecoasă la umezeală.",
+                "en": "The panoramic view over the city is strikingly dramatic in the mist, but watch your step closely as the steep hiking trail gets extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Vesoul",
+                "hu": "Vieux Vesoul",
+                "ro": "Vieux Vesoul",
+                "en": "Vieux Vesoul"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die alte Architektur; bleiben Sie nah an den historischen Gebäuden und überdachten Eingängen, um den plötzlichen Regenschauern auszuweichen.",
+                "hu": "Fedezze fel az óváros építészetét; maradjon közel a történelmi épületekhez és a fedett kapualjakhoz, hogy elkerülje a hirtelen lezúduló, heves záporokat.",
+                "ro": "Explorați arhitectura orașului vechi; mergeți aproape de clădirile istorice și de intrările acoperite pentru a evita eficient averselor bruște și abundente.",
+                "en": "Explore the charming old town's architecture; stick close to the historic buildings and covered doorways to effectively dodge the sudden, heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Georges-Garret",
+                "hu": "Musée Georges-Garret",
+                "ro": "Musée Georges-Garret",
+                "en": "Musée Georges-Garret"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang komplett drinnen, entdecken Sie Kunst und Geschichte und bleiben Sie den Nachmittag über gemütlich warm und völlig trocken.",
+                "hu": "Zárja a nedves sétát teljesen beltéren, felfedezve a szépművészetet és a helyi történelmet, miközben délután kényelmesen melegben és teljesen szárazon marad.",
+                "ro": "Încheiați plimbarea umedă complet în interior, descoperind arta și istoria locală, stând confortabil la căldură și complet uscat pentru tot restul zilei.",
+                "en": "End your wet walk completely indoors, discovering fine arts and fascinating local history while staying comfortably warm and entirely dry for the afternoon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kalten Wintermorgen in der historischen Kirche und genießen Sie einen flotten Spaziergang im frostigen Jardin Anglais. Besteigen Sie La Motte mittags, um die herrliche Wintersonne einzufangen. Erkunden Sie Vieux Vesoul extrem warm eingepackt. Beenden Sie den Tag im beheizten Museum, bevor um etwa 17:00 Uhr die frühe Abenddämmerung einsetzt.",
+            "hu": "Kezdje a csípős téli reggelt a templomban, majd tegyen egy frissítő sétát a dérlepte Angol Kertben. Mássza meg a La Motte-ot a déli órákban, élvezve a gyenge téli napsütést. Fedezze fel a régi Vesoul utcáit vastagon felöltözve. Zárja a napot a fűtött múzeumban, mielőtt a korai, 17:00 óra körüli szürkület beállna a város felett.",
+            "ro": "Începeți dimineața de iarnă la biserică, apoi bucurați-vă de o plimbare revigorantă prin Grădina Engleză acoperită de brumă. Urcați pe La Motte la prânz pentru soarele blând de iarnă. Explorați Vieux Vesoul bine înfofolit. Încheiați ziua în muzeul încălzit, înainte ca întunericul să se lase devreme peste oraș, în jur de ora 17:00.",
+            "en": "Start with a crisp winter morning at the historic church, then enjoy a brisk walk in the frost-covered Jardin Anglais. Climb La Motte early to catch the midday winter sun. Explore Vieux Vesoul's quaint streets bundled up very warmly. Conclude the day inside the comfortably heated museum before the early twilight firmly sets in around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur und wärmen Sie sich im ruhigen Kirchenschiff auf, bevor Sie wieder in die frostige, kalte Morgenluft hinausgehen.",
+                "hu": "Csodálja meg a történelmi építészetet, és szánjon időt a felmelegedésre a csendes hajóban, mielőtt visszatérne a fagyos, csípős téli reggeli levegőre.",
+                "ro": "Admirați arhitectura istorică și luați-vă un moment pentru a vă încălzi în nava liniștită, înainte de a ieși din nou în aerul înghețat al dimineții de iarnă.",
+                "en": "Marvel at the historic architecture and take a long moment to warm up inside the quiet nave before heading back out into the freezing, frosty morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin Anglais",
+                "hu": "Jardin Anglais",
+                "ro": "Jardin Anglais",
+                "en": "Jardin Anglais"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die stille Schönheit der frostigen Bäume; denken Sie an einen dicken Schal und warme Handschuhe, um den beißenden, kalten Winterwind abzublocken.",
+                "hu": "Tapasztalja meg a dérlepte fák csendes szépségét; ne felejtsen el vastag sálat és meleg kesztyűt viselni, hogy kivédje a metsző, hideg téli szeleket.",
+                "ro": "Experimentați frumusețea copacilor înghețați; nu uitați să purtați un fular gros și mănuși călduroase pentru a bloca vântul tăios și rece de iarnă.",
+                "en": "Experience the quiet beauty of dormant plants and frosted trees; remember to wear a thick scarf and warm gloves to block the biting, chilly winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La Motte",
+                "hu": "La Motte",
+                "ro": "La Motte",
+                "en": "La Motte"
+              },
+              "tip_5lang": {
+                "de": "Der steile Aufstieg wird Sie schnell aufwärmen, und die kahlen Winterbäume bieten einen völlig freien, atemberaubenden Blick auf das verschneite Tal.",
+                "hu": "A meredek fizikai emelkedő gyorsan felmelegíti, a csupasz téli fák pedig teljesen zavartalan, lenyűgöző kilátást nyújtanak a lenti hófödte völgyre.",
+                "ro": "Urcușul abrupt vă va încălzi rapid, iar copacii goi de iarnă oferă o priveliște complet neobstrucționată și uimitoare asupra văii acoperite de zăpadă.",
+                "en": "The steep physical climb will quickly keep you warm, and the bare winter trees offer completely unobstructed, stunning views of the snowy valley below."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Vesoul",
+                "hu": "Vieux Vesoul",
+                "ro": "Vieux Vesoul",
+                "en": "Vieux Vesoul"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie durch die malerischen Pflasterstraßen und tragen Sie gute Thermoschichten gegen die kalte, beißende Zugluft in den extrem engen Gassen.",
+                "hu": "Barangoljon a festői macskaköves utcákon, ügyelve arra, hogy kiváló termo rétegeket viseljen a szűk sikátorokban áramló rendkívül hideg huzat ellen.",
+                "ro": "Plimbați-vă pe străzile pitorești pietruite, asigurându-vă că purtați straturi termice excelente împotriva curenților reci ce trec prin aleile înguste.",
+                "en": "Wander the picturesque cobblestone streets, making sure to wear excellent thermal layers against the cold drafts that channel through the narrow alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Georges-Garret",
+                "hu": "Musée Georges-Garret",
+                "ro": "Musée Georges-Garret",
+                "en": "Musée Georges-Garret"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor den eisigen Nachmittagstemperaturen und erkunden Sie das reiche lokale Erbe in einer gemütlich beheizten, hellen Innenumgebung.",
+                "hu": "Keressen menedéket a fagyos késő délutáni hőmérséklet elől, és fedezze fel a gazdag helyi örökséget egy kényelmesen fűtött, jól megvilágított beltérben.",
+                "ro": "Refugiați-vă din calea temperaturilor de îngheț ale după-amiezii explorând bogatul patrimoniu local într-un cadru interior confortabil și bine încălzit.",
+                "en": "Take refuge from the freezing late afternoon temperatures by exploring the rich local heritage in a comfortably heated, brightly lit indoor setting."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Indítsa kerékpártúráját az Église Saint-Georges templomnál, időt szánva annak történelmi jelentőségének megértésére. \n Tekerjen a La Motte lábához, majd tegyen egy rövid túrát a csúcsra, ahonnan lenyűgöző kilátás nyílik az egész völgyre. \n Guruljon be a Vieux Vesoul szívébe, hagyja hátra a biciklit, és látogasson el a lenyűgöző Musée Georges-Garret kiállításaira. \n Zárja a napot egy frissítő tekeréssel a Lac de Vesoul-Vaivre partján, pihenve a víz mellett egy aktív nap után.",
         "ro": "Începeți turul cu bicicleta chiar la Église Saint-Georges, luându-vă timp pentru a-i aprecia importanța istorică. \n Pedalați până la baza La Motte, bucurându-vă de o scurtă drumeție până în vârf pentru un punct de observație spectaculos. \n Mergeți în inima Vieux Vesoul, lăsând bicicleta pentru a vizita străzile pietruite și Musée Georges-Garret din apropiere. \n Terminați cu o plimbare revigorantă până la Lac de Vesoul-Vaivre, relaxându-vă pe malul apei pentru a încheia ziua.",
         "en": "Kick off your cycling tour right at Église Saint-Georges, taking time to appreciate its historic significance. \n Pedal your way to the foot of La Motte, enjoying a brief hike to the top for a spectacular vantage point over the valley. \n Cruise into the heart of Vieux Vesoul, leaving your bike briefly to walk the cobblestones and visit the nearby Musée Georges-Garret. \n Finish with a refreshing ride to Lac de Vesoul-Vaivre, relaxing by the water's edge to round off an active and scenic day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour erfordert exzellente wasserfeste Kleidung. Starten Sie an der Kirche und radeln Sie vorsichtig zur La Motte. Fahren Sie langsam hinab in die Altstadt und achten Sie auf extrem rutschiges Kopfsteinpflaster. Wärmen Sie sich drinnen im Museum auf, bevor Sie eine neblige Runde um den See mit guten Schutzblechen drehen.",
+            "hu": "Az esős bringázáshoz vízálló ruha kell. Kezdjen a templomnál, majd óvatosan tekerjen fel a La Motte-ra. Guruljon le az óvárosba, nagyon ügyelve a nedves, csúszós macskakövekre. Melegedjen fel és száradjon meg a múzeumban, majd tegyen egy ködös, hangulatos kört a tó körül, sárvédővel alaposan felszerelve.",
+            "ro": "Un tur ploios cu bicicleta necesită haine perfect impermeabile. Începeți la biserică, apoi pedalați cu mare prudență spre La Motte. Coborâți spre orașul vechi, atenție la pietrele extrem de alunecoase. Încălziți-vă în muzeu înainte de o plimbare cețoasă în jurul lacului, asigurându-vă că aveți apărători de noroi.",
+            "en": "A rainy bike tour requires excellent waterproof gear. Start at the church, then cautiously bike up to La Motte. Glide down to Vieux Vesoul, watching out carefully for slippery cobblestones. Warm up inside the museum before taking a misty, highly atmospheric ride around the lake, making sure your bike has proper mudguards."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem großen Eingang Schutz und bewundern Sie die architektonischen Details, während Sie darauf warten, dass der stärkste Regen nachlässt.",
+                "hu": "Keressen menedéket a főbejárat alatt, és csodálja meg az építészeti részleteket, miközben megvárja, amíg a leghevesebb reggeli záporok elvonulnak.",
+                "ro": "Adăpostiți-vă sub intrarea grandioasă și admirați detaliile arhitecturale în timp ce așteptați să treacă cele mai puternice averse de dimineață.",
+                "en": "Take shelter under the grand entrance and admire the architectural details while waiting for the heaviest morning rain showers to completely pass by."
+              }
+            },
+            {
+              "name": {
+                "de": "La Motte",
+                "hu": "La Motte",
+                "ro": "La Motte",
+                "en": "La Motte"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sehr vorsichtig bergauf; das nasse Herbstlaub und die glatte Straße machen sowohl den Auf- als auch den Abstieg bei starkem Regen tückisch.",
+                "hu": "Tekerjen fel nagyon óvatosan; a nedves falevelek és a csúszós útfelület az emelkedőt és a lejtőt egyaránt rendkívül veszélyessé teszi heves esőben.",
+                "ro": "Urcați cu mare grijă; frunzele umede și suprafața alunecoasă fac ca atât urcarea, cât și coborârea să fie periculoase în timpul unei ploi torențiale.",
+                "en": "Bike up very carefully; the wet fallen leaves and slick road surface make both the steep ascent and the descent quite treacherous during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Vesoul",
+                "hu": "Vieux Vesoul",
+                "ro": "Vieux Vesoul",
+                "en": "Vieux Vesoul"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie langsam durch das historische Zentrum, da das alte, charmante Kopfsteinpflaster bei Nässe extrem rutschig und gefährlich für Reifen wird.",
+                "hu": "Lassan haladjon át a történelmi központon, mivel a régi, hangulatos macskakövek nedvesen rendkívül csúszóssá és veszélyessé válnak a bicikligumik számára.",
+                "ro": "Navigați prin centrul istoric într-un ritm lent, deoarece vechile pietre cubice devin extrem de alunecoase și periculoase pentru anvelope când sunt ude.",
+                "en": "Navigate the historic center at a slow pace, as the old, charming cobblestones become extremely slippery and dangerous for bicycle tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Georges-Garret",
+                "hu": "Musée Georges-Garret",
+                "ro": "Musée Georges-Garret",
+                "en": "Musée Georges-Garret"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad draußen sicher ab und genießen Sie eine völlig trockene Entdeckungstour durch Kunst und Geschichte, um dem Regen zu entkommen.",
+                "hu": "Zárja le biztonságosan a kerékpárját odakint, és élvezze a képzőművészet és a történelem teljesen száraz beltéri felfedezését, menekülve a tartós eső elől.",
+                "ro": "Legați-vă bicicleta în siguranță afară și bucurați-vă de o explorare interioară complet uscată a artei și istoriei, scăpând de ploaia persistentă.",
+                "en": "Securely lock your bike outside and enjoy a completely dry, fascinating indoor exploration of fine arts and history while escaping the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Vesoul-Vaivre",
+                "hu": "Lac de Vesoul-Vaivre",
+                "ro": "Lac de Vesoul-Vaivre",
+                "en": "Lac de Vesoul-Vaivre"
+              },
+              "tip_5lang": {
+                "de": "Der See sieht im Regen unglaublich dramatisch aus; tragen Sie einen soliden Poncho und bleiben Sie auf dem asphaltierten Radweg, um Schlamm zu vermeiden.",
+                "hu": "A tó hihetetlenül drámaian néz ki az esőben; viseljen szilárd esőponcsót, és maradjon szigorúan a kikövezett kerékpárúton, hogy elkerülje a legrosszabb sarat.",
+                "ro": "Lacul arată incredibil de dramatic în ploaie; purtați un poncho solid și rămâneți ferm pe pista de biciclete asfaltată pentru a evita secțiunile noroioase.",
+                "en": "The lake looks incredibly dramatic in the rain; wear a solid rain poncho and stick firmly to the paved cycle path to avoid the worst muddy sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich extrem warm ein für eine winterliche Radtour. Starten Sie an der Kirche, dann bezwingen Sie La Motte, um sich aufzuwärmen. Fahren Sie sehr vorsichtig durch Vieux Vesoul wegen tückischem Glatteis. Wärmen Sie sich im Museum auf und umrunden Sie den See schnell vor Einbruch der Dunkelheit gegen 17:00 Uhr.",
+            "hu": "Öltözzön be alaposan a fagyos téli bringázáshoz. Kezdje a templomnál, majd tekerjen fel a La Motte-ra, hogy felpezsdüljön a vére. Óvatosan haladjon az óvárosban az árnyékos, jeges részek miatt. Melegedjen fel a múzeumban, végül tegyen egy gyors kört a tó körül 17:00 óra, a rohamosan közeledő sötétedés előtt.",
+            "ro": "Îmbrăcați-vă foarte gros pentru o plimbare de iarnă pe bicicletă. Începeți la biserică, apoi urcați pe La Motte pentru a vă încălzi. Pedalați cu grijă prin Vieux Vesoul, pot apărea petice periculoase de gheață. Încălziți-vă în muzeu la prânz, apoi faceți un tur rapid al lacului înghețat înainte să se întunece la 17:00.",
+            "en": "Bundle up heavily for a brisk winter ride. Start at the historic church, then tackle La Motte to get your blood pumping warmly. Ride very carefully through Vieux Vesoul as dangerous ice can form in shadows. Warm up in the museum midday, then finish with a rapid loop around the lake before it gets dark around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das historische Gebäude ein, um die ruhige Atmosphäre zu genießen und Ihre eiskalten Finger aufzutauen, bevor Sie Ihre Wintertour fortsetzen.",
+                "hu": "Lépjen be a történelmi épületbe, hogy értékelje a nyugodt légkört, és olvassza ki fagyos ujjait, mielőtt folytatná frissítő téli kerékpáros túráját.",
+                "ro": "Intrați în clădirea istorică pentru a aprecia atmosfera calmă și a vă dezgheța degetele înghețate înainte de a continua turul revigorant de iarnă.",
+                "en": "Step inside the historic building to appreciate the calm atmosphere and thaw your freezing fingers before continuing your brisk winter cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "La Motte",
+                "hu": "La Motte",
+                "ro": "La Motte",
+                "en": "La Motte"
+              },
+              "tip_5lang": {
+                "de": "Die steile, anspruchsvolle Radtour wird Sie sehr warm halten und mit einer klaren, unverbaubaren Aussicht auf das wunderschöne, frostige Tal belohnen.",
+                "hu": "A meredek, megerőltető kerékpározás melegen tartja, és cserébe éles, tiszta kilátást nyújt a gyönyörű, dérlepte völgyre messze a város alatt.",
+                "ro": "Efortul fizic intens de a pedala la deal vă va încălzi rapid, recompensându-vă cu priveliști clare asupra văii frumoase, acoperite de brumă, mult mai jos.",
+                "en": "The steep, demanding biking effort will keep you very warm, rewarding you with crisp, clear views of the beautiful frost-covered valley far below."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Vesoul",
+                "hu": "Vieux Vesoul",
+                "ro": "Vieux Vesoul",
+                "en": "Vieux Vesoul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den mittelalterlichen Charme, aber bremsen Sie früh und sanft, da sich in den dauerhaft schattigen, engen Gassen oft gefährliches Glatteis bildet.",
+                "hu": "Élvezze a középkori bájt, de fékezzen korán és finoman, mivel a tartósan árnyékos, fagyos szűk utcákban nagyon gyakran alakul ki veszélyes tükörjég.",
+                "ro": "Bucurați-vă de farmecul medieval, dar frânați devreme și ușor, deoarece gheața neagră periculoasă se formează adesea pe străzile înguste și permanent umbrite.",
+                "en": "Enjoy the medieval charm, but brake early and gently, as dangerous black ice very often forms in the permanently shaded, freezing narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Georges-Garret",
+                "hu": "Musée Georges-Garret",
+                "ro": "Musée Georges-Garret",
+                "en": "Musée Georges-Garret"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer, warmer Boxenstopp am Mittag; verbringen Sie eine Stunde in den beheizten Galerien, um der winterlichen Kälte vollständig zu entkommen.",
+                "hu": "Ideális, meleg déli pihenőhely; töltsön el egy órát a fűtött galériák felfedezésével, hogy teljesen elmeneküljön a metsző téli hideg elől, mielőtt nyeregbe szállna.",
+                "ro": "O oprire ideală la prânz; petreceți o oră explorând galeriile încălzite pentru a scăpa complet de frigul mușcător al iernii înainte de a vă întoarce în șa.",
+                "en": "An ideal, warm midday pit stop; spend an hour exploring the heated galleries to fully escape the biting winter chill before getting back in the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Vesoul-Vaivre",
+                "hu": "Lac de Vesoul-Vaivre",
+                "ro": "Lac de Vesoul-Vaivre",
+                "en": "Lac de Vesoul-Vaivre"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie um den ruhigen, eisigen See und stellen Sie unbedingt sicher, dass Ihr Fahrrad Licht für den schnell nahenden Sonnenuntergang um 17:00 Uhr hat.",
+                "hu": "Tekerjen a nyugodt, jeges tó körül, és feltétlenül győződjön meg róla, hogy a kerékpárja világít a gyorsan közeledő, 17:00 óra körüli korai téli naplemente miatt.",
+                "ro": "Pedalați în jurul lacului senin și înghețat, asigurându-vă cu strictețe că bicicleta are lumini funcționale pentru apusul de iarnă ce se apropie rapid la 17:00.",
+                "en": "Ride around the serene, icy lake, strongly ensuring your bike has functioning lights for the fast-approaching early winter sunset around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje autós útját a Vieux Vesoul közelében parkolva, egyenesen elmerülve a város bájos, régi világot idéző hangulatában. \n Egy rövid sétával elérheti a Musée Georges-Garret-t, ahol alaposan elmélyedhet a helyi művészetekben és történelemben. \n Vezessen át az Église Saint-Georges templomhoz, majd induljon el a La Motte felé a lenyűgöző délutáni kilátásért. \n Autózzon ki a Lac de Vaivre partjára egy békés késő délutáni kikapcsolódásra, amely tökéletes természetközeli lezárás.",
         "ro": "Începeți excursia cu mașina parcând lângă Vieux Vesoul, pătrunzând direct în atmosfera fermecătoare a lumii vechi a orașului. \n Un salt scurt vă duce la Musée Georges-Garret, unde vă puteți cufunda profund în arta și istoria locală. \n Conduceți la Église Saint-Georges înainte de a vă îndrepta spre La Motte pentru a prinde vederi uluitoare de după-amiază. \n Conduceți până la Lac de Vaivre pentru o retragere pașnică după-amiaza târziu, oferind concluzia naturală perfectă.",
         "en": "Start your road trip by parking near Vieux Vesoul, delving straight into the city's charming old-world atmosphere. \n A short hop brings you to the Musée Georges-Garret, where you can deeply immerse yourself in local arts and history. \n Drive over to Église Saint-Georges before heading up towards La Motte to catch breathtaking mid-afternoon views. \n Drive out to Lac de Vaivre for a peaceful late-afternoon retreat, offering the perfect natural conclusion to your driving tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Auto ist absolut perfekt für einen Regentag in Vesoul. Fahren Sie in die Altstadt und huschen Sie schnell von Tür zu Tür. Parken Sie direkt am Museum für einen trockenen, kulturellen Besuch. Besichtigen Sie später zügig die Kirche und La Motte. Beobachten Sie abschließend den heftigen Regen über dem See vom warmen Auto aus.",
+            "hu": "Az autó tökéletes választás az esős napokra. Vezessen az óvárosba, és szaladjon át a fedett részek alá. Parkoljon a múzeumhoz nagyon közel egy hosszú, száraz kulturális élményhez. Később ugorjon be a templomba és a La Motte-hoz. Végül nézze az esőt a Vaivre-tó felett a fűtött, kényelmes autója melegéből.",
+            "ro": "Mașina este absolut perfectă pentru o zi ploioasă. Conduceți în orașul vechi și fugiți scurt sub arcade. Parcați foarte aproape de muzeu pentru o vizită culturală complet uscată. Mai târziu, vedeți rapid biserica și La Motte. Încheiați privind ploaia densă peste Lac de Vaivre din confortul și căldura mașinii.",
+            "en": "A car is perfect for a heavy rainy day in Vesoul. Drive straight to Vieux Vesoul, dashing quickly between buildings. Park near the museum for a long, totally dry cultural visit. Later, quickly visit the Église Saint-Georges and La Motte. End by calmly watching the rain over Lac de Vaivre from the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vieux Vesoul",
+                "hu": "Vieux Vesoul",
+                "ro": "Vieux Vesoul",
+                "en": "Vieux Vesoul"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich und huschen Sie schnell in die engen, geschützten historischen Straßen, um die Architektur zu bewundern, ohne durchnässt zu werden.",
+                "hu": "Parkoljon a lehető legközelebb, és gyorsan fusson be a szűk, védett történelmi utcákba, hogy anélkül csodálja meg az építészetet, hogy teljesen elázna.",
+                "ro": "Parcați cât mai aproape posibil și fugiți rapid în străzile istorice înguste și adăpostite pentru a admira arhitectura fără a vă uda complet la piele.",
+                "en": "Park your car as close as possible and quickly dash into the narrow, sheltered historic streets to admire the architecture without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Georges-Garret",
+                "hu": "Musée Georges-Garret",
+                "ro": "Musée Georges-Garret",
+                "en": "Musée Georges-Garret"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen ausgedehnten, völlig trockenen Besuch und erkunden Sie faszinierende Kunstwerke, während der starke Regen unerbittlich draußen gießt.",
+                "hu": "Élvezze a hosszabb, teljesen száraz látogatást, felfedezve a lenyűgöző helyi művészeti alkotásokat, miközben a heves eső könyörtelenül zuhog az ablakon kívül.",
+                "ro": "Bucurați-vă de o vizită extinsă, complet uscată, explorând opere de artă locale fascinante, în timp ce ploaia torențială curge neîncetat afară.",
+                "en": "Enjoy an extended, completely dry visit exploring fascinating local artworks and heritage while the heavy rain pours relentlessly outside your window."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr kurzer Sprint vom geparkten Auto führt Sie in den wunderschön bemalten Innenraum, der eine perfekt ruhige Flucht vor dem feuchten, grauen Wetter bietet.",
+                "hu": "Egy nagyon gyors sprint a parkoló autótól a gyönyörűen festett belső térbe vezet, amely tökéletesen nyugodt menedéket kínál a nyirkos, szürke időjárás elől.",
+                "ro": "O fugă foarte scurtă de la mașina parcată vă duce în interiorul frumos pictat, oferind o evadare perfect senină din vremea umedă și gri de afară.",
+                "en": "A very quick dash from your parked car leads you to the beautifully painted interior, offering a perfectly serene escape from the damp, grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "La Motte",
+                "hu": "La Motte",
+                "ro": "La Motte",
+                "en": "La Motte"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die nasse, gefährlich kurvige Straße hinauf; bewundern Sie die neblige Landschaft kurz, bevor Sie sich in Ihr sicheres Fahrzeug zurückziehen.",
+                "hu": "Vezessen nagyon óvatosan a nedves, veszélyesen kanyargós úton; csodálja meg gyorsan a ködös, hangulatos tájat, mielőtt visszavonulna a száraz, biztonságos járművébe.",
+                "ro": "Conduceți cu grijă pe drumul umed și periculos de șerpuit; admirați rapid peisajul cețos și atmosferic înainte de a vă retrage în vehiculul uscat și sigur.",
+                "en": "Drive carefully up the wet, dangerously winding road; admire the misty, atmospheric landscape quickly before retreating back to your dry, safe vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Vaivre",
+                "hu": "Lac de Vaivre",
+                "ro": "Lac de Vaivre",
+                "en": "Lac de Vaivre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am malerischen Ufer, um zu beobachten, wie der Regen dynamisch auf der Wasseroberfläche tanzt, und bleiben Sie gemütlich in Ihrem beheizten Auto.",
+                "hu": "Parkoljon közvetlenül a festői partnál, hogy megnézze, ahogy a heves eső dinamikusan táncol a víz felszínén, miközben kényelmesen marad a fűtött autójában.",
+                "ro": "Parcați chiar pe malul pitoresc pentru a privi ploaia grea dansând dinamic pe suprafața apei, rămânând confortabil în interiorul mașinii încălzite.",
+                "en": "Park right by the scenic shore to watch the heavy rain dance dynamically on the water's surface, staying cozy and comfortable inside your heated car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort des Autos, um im Winter extrem warm zu bleiben. Erkunden Sie die Altstadt in der klaren Morgenluft, dann ab ins hervorragend beheizte Museum. Fahren Sie zur Kirche und vorsichtig auf der frostigen Straße hinauf zur La Motte. Erleben Sie am See den spektakulären frühen Sonnenuntergang gegen 17:00 Uhr aus dem Fahrzeug.",
+            "hu": "Használja ki az autó kényelmét, hogy melegen maradjon a téli túra során. Fedezze fel az óvárost a friss reggeli levegőn, majd húzódjon be a fűtött múzeumba. Vezessen a templomhoz, majd nagyon óvatosan a deres úton a La Motte-hoz. Zárja a napot a tónál, csodálva a korai, 17:00 körüli naplementét a fűtött kocsiból.",
+            "ro": "Folosiți confortul mașinii pentru a rămâne complet la cald iarna. Explorați Vieux Vesoul în aerul rece al dimineții, apoi retrageți-vă în muzeul încălzit. Conduceți la biserică și cu multă grijă pe drumul înghețat spre La Motte. Încheiați la lac pentru a prinde apusul devreme la 17:00 din vehiculul dumneavoastră călduros.",
+            "en": "Use the supreme comfort of the car to stay warm during your winter tour. Explore Vieux Vesoul in the crisp morning air, then retreat to the heated museum. Drive to the church and carefully up the frosty road to La Motte. Finish at Lac de Vaivre to catch the beautiful, early winter sunset around 17:00 from your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vieux Vesoul",
+                "hu": "Vieux Vesoul",
+                "ro": "Vieux Vesoul",
+                "en": "Vieux Vesoul"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen, extrem warm eingepackten Spaziergang durch das historische Zentrum, bevor Sie ins warme Auto springen, um Ihre frierenden Zehen aufzutauen.",
+                "hu": "Tegyen egy rövid, vastagon felöltözött sétát a történelmi központban, mielőtt gyorsan visszaugrana a meleg autóba, hogy kiolvassza a fagyos lábujjait.",
+                "ro": "Faceți o plimbare scurtă, foarte bine îmbrăcat, prin centrul istoric înainte de a sări înapoi în mașina caldă pentru a vă dezgheța rapid degetele de la picioare.",
+                "en": "Take a short, heavily bundled-up stroll through the historic center before jumping right back into your warm car to rapidly thaw your freezing toes."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Georges-Garret",
+                "hu": "Musée Georges-Garret",
+                "ro": "Musée Georges-Garret",
+                "en": "Musée Georges-Garret"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, extrem warmer Rückzugsort vor den eisigen Außentemperaturen, der eine Stunde lang faszinierende Geschichte und Kunst in einem beheizten Raum bietet.",
+                "hu": "Tökéletes, mélyen meleg menedék a fagyos külső hőmérséklet elől, amely egy órányi lenyűgöző történelmet és gyönyörű művészetet kínál egy jól fűtött térben.",
+                "ro": "Un refugiu perfect, profund cald față de temperaturile exterioare de îngheț, oferind o oră de istorie fascinantă și artă frumoasă într-un spațiu complet încălzit.",
+                "en": "A perfect, profoundly warm retreat from the freezing outside temperatures, offering an hour of fascinating history and beautiful art in a heated space."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Georges",
+                "hu": "Église Saint-Georges",
+                "ro": "Église Saint-Georges",
+                "en": "Église Saint-Georges"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz aus, um die antike Fassade zu bewundern, und gehen Sie dann hinein, um das ruhige Heiligtum sicher vor dem beißenden Winterwind zu schätzen.",
+                "hu": "Lépjen ki röviden, hogy megcsodálja az ősi homlokzatot, majd menjen be, hogy értékelje a csendes szentélyt, biztonságban a zord, metsző téli széltől.",
+                "ro": "Ieșiți scurt pentru a admira fațada antică, apoi intrați pentru a aprecia sanctuarul liniștit, în siguranță departe de vântul de iarnă aspru și mușcător.",
+                "en": "Step out briefly to admire the ancient facade, then head inside to appreciate the quiet sanctuary safely away from the harsh, biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La Motte",
+                "hu": "La Motte",
+                "ro": "La Motte",
+                "en": "La Motte"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Auto Winterreifen hat für die steile, potenziell eisige Straße hinauf zum spektakulären, wunderschönen schneebedeckten Panoramablick.",
+                "hu": "Győződjön meg róla, hogy autója megfelelő téli gumikkal van felszerelve a meredek, potenciálisan jeges úton a látványos, hóval borított panorámakilátóhoz.",
+                "ro": "Asigurați-vă că mașina are anvelope de iarnă pentru drumul abrupt și potențial înghețat spre priveliștea panoramică spectaculoasă, pudrată cu zăpadă.",
+                "en": "Ensure your car is equipped with proper winter tires for the steep, potentially icy road up to the spectacular, beautiful snow-dusted panoramic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Vaivre",
+                "hu": "Lac de Vaivre",
+                "ro": "Lac de Vaivre",
+                "en": "Lac de Vaivre"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie gerade rechtzeitig an, um zu beobachten, wie die schwache Wintersonne um 17:00 Uhr untergeht, und genießen Sie die frostige Seesicht in absolutem Komfort.",
+                "hu": "Érkezzen meg épp időben, hogy megnézze a gyenge téli naplementét 17:00 óra körül a horizont alá bukni, biztonságosan élvezve a fagyos tó látványát.",
+                "ro": "Ajungeți la timp pentru a privi soarele slab de iarnă coborând sub orizont în jur de ora 17:00, bucurându-vă de priveliștea lacului în confort termic total.",
+                "en": "Arrive just in time to watch the weak winter sun dip below the horizon around 17:00, safely enjoying the frosty lake view in total thermal comfort."
+              }
+            }
+          ]
+        }
       }
     }
   }

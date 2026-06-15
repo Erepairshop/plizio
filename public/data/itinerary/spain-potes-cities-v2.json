@@ -137,6 +137,168 @@
         "hu": "A napot a történelmi központban kezdi a Torre de San Pedro impozáns falainál. Innen a Casa del Oso felé veszi az irányt, ahol a kantábriai hegyek különleges vadvilágával ismerkedhet meg.\n\nDélben az A la Alquitara várja, ahol betekintést nyerhet a hagyományos helyi lepárlás titkaiba és megcsodálhatja a kézműves mesterséget.\n\nDélután egy kellemes séta után a városi uszodában hűsölhet, amely tökéletes felüdülést nyújt az aktív délelőtti programok után.\n\nKéső délután a Horno tosta blenda ipari műemlékéhez látogat, amely a környék bányászati múltjának izgalmas emlékét őrzi a lenyűgöző hegyi tájban.",
         "ro": "Ziua începe în centrul istoric lângă zidurile masive ale Turnului San Pedro. De acolo, veți descoperi fauna fascinantă a munților cantabrici vizitând Casa Ursului.\n\nLa amiază, secretele distilării tradiționale vă așteaptă la A la Alquitara. Este o ocazie excelentă de a înțelege meșteșugurile locale și tradițiile regiunii.\n\nDupă-amiaza, o plimbare relaxantă vă duce la piscina municipală, unde vă puteți răcori și relaxa după vizitele intense din prima parte a zilei.\n\nZiua se încheie cu o vizită la monumentul industrial Horno tosta blenda, un loc perfect pentru a reflecta asupra istoriei miniere pe fundalul impresionant al munților.",
         "en": "Your day starts in the historical center by the massive walls of Torre de San Pedro. From there, you will delve into the fascinating wildlife of the Cantabrian Mountains at Casa del Oso.\n\nAt midday, the secrets of traditional distillation await you at A la Alquitara. It is a wonderful chance to appreciate local craftsmanship and heritage.\n\nIn the afternoon, a pleasant walk takes you to the municipal pool, offering a refreshing break and a chance to unwind after the morning's exploration.\n\nThe day concludes with a stroll to the industrial landmark Horno tosta blenda, allowing you to absorb the region's mining history against the beautiful mountain backdrop."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Regentag in Potes in den dicken Steinmauern des Torre de San Pedro. Mittags flüchten Sie ins warme Bärenhaus und zu nahegelegenen historischen Orten. Der Nachmittag bietet einen Besuch der überdachten Bereiche des städtischen Schwimmbads. Beenden Sie den Spaziergang am alten Ofen mit einem Regenschirm.",
+            "hu": "Kezdje az esős napot Potesben a Torre de San Pedro vastag kőfalai között. Délben meneküljön a meleg Medvék házába és a közeli történelmi helyekre. A délután a városi uszoda fedett részeinek felfedezésével telik. Zárja a sétát a régi kemencénél, esernyővel a kezében a hegyi szitálás ellen.",
+            "ro": "Începeți ziua ploioasă în Potes explorând zidurile groase ale Turnului San Pedro. La prânz, adăpostiți-vă în Casa Ursului și locurile istorice din jur. După-amiaza aduce o vizită la zonele acoperite ale piscinei municipale. Încheiați plimbarea la vechiul cuptor, cu o umbrelă pregătită pentru burnița montană.",
+            "en": "Start your rainy day in Potes exploring the solid stone walls of Torre de San Pedro. By noon, dive into the warm Casa del Oso and nearby historical spots. The afternoon brings a visit to the covered areas of the municipal pool. End the walk near the old furnace, keeping an umbrella handy for the mountain drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de San Pedro",
+                "hu": "Torre de San Pedro",
+                "ro": "Turnul San Pedro",
+                "en": "Torre de San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten tollen Schutz vor dem Regen; erkunden Sie die Exponate im Inneren sicher.",
+                "hu": "A vastag falak remek menedéket nyújtanak az eső elől; fedezze fel a belső kiállításokat szárazon.",
+                "ro": "Zidurile groase oferă un adăpost excelent de ploaie; explorați expozițiile interioare în siguranță.",
+                "en": "The thick walls offer great shelter from the rain; explore the interior exhibits safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Oso",
+                "hu": "Medvék háza",
+                "ro": "Casa Ursului",
+                "en": "Casa del Oso"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Flucht vor dem Platzregen, um mehr über die lokalen Braunbären zu erfahren.",
+                "hu": "Tökéletes beltéri menedék a felhőszakadás elől, ahol megismerheti a helyi barnamedvéket.",
+                "ro": "O evadare interioară perfectă de aversă pentru a învăța despre urșii bruni locali.",
+                "en": "A perfect indoor escape from the downpour to learn about the local brown bears."
+              }
+            },
+            {
+              "name": {
+                "de": "A la Alquitara",
+                "hu": "A la Alquitara",
+                "ro": "A la Alquitara",
+                "en": "A la Alquitara"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Kopfsteinpflaster ist rutschig, tragen Sie gute Schuhe an diesem historischen Ort.",
+                "hu": "A nedves macskakövek csúszósak lehetnek, viseljen jó cipőt ezen a történelmi helyszínen.",
+                "ro": "Piatra cubică umedă este alunecoasă, deci purtați pantofi buni în acest loc istoric.",
+                "en": "The wet cobblestones here are slippery, so wear good shoes while viewing this historic spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Városi uszoda",
+                "ro": "Piscina municipală",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Innenanlagen des Schwimmbads, während der Regen draußen über Potes hereinbricht.",
+                "hu": "Élvezze az uszoda beltéri létesítményeit, miközben odakint mossa az eső Potes utcáit.",
+                "ro": "Bucurați-vă de facilitățile interioare ale piscinei în timp ce ploaia spală străzile din Potes.",
+                "en": "Enjoy the indoor facilities of the pool complex while the rain washes over Potes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Horno tosta blenda",
+                "hu": "Horno tosta blenda",
+                "ro": "Horno tosta blenda",
+                "en": "Horno tosta blenda"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen alten Ofen, aber halten Sie den Regenschirm bereit, da es hier sehr offen ist.",
+                "hu": "Nézze meg ezt az ősi kemencét, de tartsa nyitva az esernyőjét, mert a terület nyitott.",
+                "ro": "Vedeți acest vechi cuptor fascinant, dar țineți umbrela deschisă, deoarece zona este expusă.",
+                "en": "View this fascinating old furnace, but keep your umbrella up as the area is quite exposed."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen in Potes beginnt mit dem Aufstieg zum Torre de San Pedro. Mittags wärmen Sie sich in gemütlichen Museen gegen die Kälte der Berge auf. Am Nachmittag steht die Sonne tief am Schwimmbad. Beenden Sie den Spaziergang am historischen Ofen, wenn gegen 17 Uhr die Dämmerung einsetzt.",
+            "hu": "A friss téli reggel Potesben a Torre de San Pedro megmászásával indul, hogy bemelegedjen. A dél telet múzeumlátogatással telik a hegyi hideg ellen. A délutáni nap már alacsonyan jár az uszodánál. Fejezze be a sétát a történelmi kemencénél, ahogy délután 5 körül leszáll az alkony a csúcsokra.",
+            "ro": "Dimineața de iarnă în Potes începe cu urcarea în Turnul San Pedro pentru a vă încălzi. Prânzul aduce vizite confortabile la muzee împotriva frigului. Soarele este jos la piscină. Terminați la cuptorul istoric pe măsură ce amurgul se lasă în jurul orei 17:00 peste vârfuri.",
+            "en": "A brisk winter morning in Potes starts with a climb up Torre de San Pedro to warm up. Midday brings cozy museum visits as you wrap up against the mountain chill. The afternoon sun is low by the time you reach the municipal pool. Finish at the historic furnace as twilight sets in around 5 PM over the peaks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de San Pedro",
+                "hu": "Torre de San Pedro",
+                "ro": "Turnul San Pedro",
+                "en": "Torre de San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt Sie schnell auf; genießen Sie den frostigen Blick auf die Picos de Europa.",
+                "hu": "A mászás gyorsan felmelegíti; élvezze a Picos de Europa fagyos panorámáját a tetejéről.",
+                "ro": "Urcușul vă va încălzi rapid; bucurați-vă de priveliștile înghețate ale Picos de Europa de sus.",
+                "en": "The climb will warm you up quickly; enjoy the frosty views of the Picos de Europa from the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Oso",
+                "hu": "Medvék háza",
+                "ro": "Casa Ursului",
+                "en": "Casa del Oso"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um der beißenden Kälte zu entfliehen und die beheizten Ausstellungen zu genießen.",
+                "hu": "Lépjen be a csípős hideg elől, és élvezze a fűtött kiállítást a helyi vadvilágról.",
+                "ro": "Intrați pentru a scăpa de frigul tăios și bucurați-vă de expozițiile bine încălzite despre faună.",
+                "en": "Step inside to escape the biting cold and enjoy the well-heated exhibits about local wildlife."
+              }
+            },
+            {
+              "name": {
+                "de": "A la Alquitara",
+                "hu": "A la Alquitara",
+                "ro": "A la Alquitara",
+                "en": "A la Alquitara"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten, da die engen historischen Straßen hier den kalten Bergwind kanalisieren.",
+                "hu": "Öltözzön rétegesen, mert a szűk történelmi utcák csatornázzák a csípős téli hegyi szeleket.",
+                "ro": "Purtați straturi, deoarece străzile istorice înguste canalizează vânturile aspre de iarnă aici.",
+                "en": "Wear layers, as the narrow historic streets channel the crisp winter mountain winds here."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Városi uszoda",
+                "ro": "Piscina municipală",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort, um die beheizten Innenanlagen zu nutzen und die Muskeln vom Winterspaziergang zu entspannen.",
+                "hu": "Remek hely a fűtött beltéri létesítmények használatára és az izmok ellazítására a séta után.",
+                "ro": "Un loc minunat pentru a folosi facilitățile interioare încălzite și a relaxa mușchii după plimbare.",
+                "en": "A great spot to use the heated indoor facilities and relax your muscles from the winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Horno tosta blenda",
+                "hu": "Horno tosta blenda",
+                "ro": "Horno tosta blenda",
+                "en": "Horno tosta blenda"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr an, um das Wahrzeichen vor der frühen winterlichen Dunkelheit gut zu sehen.",
+                "hu": "Érkezzen délután 5 előtt, hogy még a korai téli sötétedés előtt tisztán lássa a műemléket.",
+                "ro": "Ajungeți înainte de 17:00 pentru a vedea clar reperul înainte de întunericul timpuriu al iernii.",
+                "en": "Arrive before 5 PM to see the landmark clearly before the early winter darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel a történelmi Torre de San Pedro falainál indítja biciklis túráját. Innen könnyű tekeréssel éri el a Casa del Oso-t, a helyi vadvilág izgalmas bemutatóhelyét.\n\nDélben az A la Alquitara felé veszi az irányt, ahol a hagyományos helyi lepárlás fortélyait tanulmányozhatja. Ez egy remek kulturális megálló.\n\nDélután egy rövid kerékpározás után a városi uszoda hűs vizében pihenheti ki a nap eddigi fáradalmait. Az út során gyönyörű tájakban gyönyörködhet.\n\nKéső délután a magasabb fekvésű Mirador de San Miguel kilátóhoz teker, végül pedig a békés Ermita de Santa Catalina kápolnánál zárja a napot.",
         "ro": "Începeți dimineața pe bicicletă la istoricul Turn San Pedro. Străzile scurte vă duc rapid la Casa Ursului, unde veți descoperi natura uimitoare a zonei.\n\nSpre prânz, pedalați către A la Alquitara pentru a explora arta distilării din regiune. Este o privire fascinantă asupra culturii cantabrice.\n\nDupă-amiaza, o scurtă plimbare vă duce la piscina municipală, perfectă pentru o pauză răcoritoare. Traseul oferă peisaje locale foarte frumoase.\n\nDupă-amiaza târziu urcați spre Punctul de belvedere San Miguel și încheiați ziua în liniștea deplină de la Schitul Santa Catalina, sus deasupra văii.",
         "en": "Start your morning cycling at the historic Torre de San Pedro. The short streets quickly lead you to Casa del Oso, where you can discover the amazing local nature.\n\nAround midday, pedal over to A la Alquitara to explore the region's art of distillation. It offers a fascinating glimpse into Cantabrian culture.\n\nIn the afternoon, a short ride brings you to the municipal pool, which is perfect for a refreshing break. The route there is quite scenic.\n\nLate in the afternoon, ride up to the Mirador de San Miguel viewpoint and conclude your day in the profound peace of the Ermita de Santa Catalina hermitage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das morgendliche Radfahren in Potes beginnt nass; fahren Sie vorsichtig zum Turm. Mittags gibt es eine Pause im Bärenhaus. Nachmittagsschauer begleiten Sie zum Schwimmbad. Die letzte Etappe zu den Aussichtspunkten erfordert Vorsicht auf nassen Blättern; bremsen Sie früh.",
+            "hu": "A reggeli bringázás Potesben nedvesen indul; tekerjen óvatosan a Torre de San Pedro felé. Délben beltéri pihenő jön a múzeumokban. Délutáni eső kíséri az uszodához vezető utat. A kilátókhoz vezető utolsó szakasz óvatosságot igényel a nedves falevelek miatt; fékezzen korán!",
+            "ro": "Ciclismul de dimineață în Potes începe umed; mergeți cu grijă la Turnul San Pedro. Prânzul aduce răgaz la muzeu. Aversele continuă spre piscină. Ultima etapă spre punctele de belvedere necesită prudență pe frunzele umede; frânați devreme și purtați haine vizibile.",
+            "en": "Morning cycling in Potes starts wet; ride carefully to the Torre de San Pedro. Midday brings indoor respite at the Bear House and historic center. Afternoon showers persist as you bike to the pool. The final leg to the viewpoints demands caution on wet leaves; brake early and wear high-vis gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de San Pedro",
+                "hu": "Torre de San Pedro",
+                "ro": "Turnul San Pedro",
+                "en": "Torre de San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad unter den Dachvorsprüngen an und trocknen Sie sich in der Festung ab.",
+                "hu": "Zárja le a kerékpárt az eresz alatt, és szárátkozzon meg e hatalmas kőerődítményben.",
+                "ro": "Legați bicicleta sub streșini și uscați-vă în interiorul acestei fortărețe masive de piatră.",
+                "en": "Lock your bike under the nearby eaves and dry off inside this massive stone fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Oso",
+                "hu": "Medvék háza",
+                "ro": "Casa Ursului",
+                "en": "Casa del Oso"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Ausrüstung am Eingang und genießen Sie die trockenen Exponate über Braunbären.",
+                "hu": "Hagyja a nedves felszerelést a bejáratnál, és élvezze a száraz kiállítást a barnamedvékről.",
+                "ro": "Lăsați echipamentul ud la intrare și bucurați-vă de expozițiile uscate și fascinante despre urși.",
+                "en": "Leave your wet gear in the entrance and enjoy the fascinating, dry exhibits on brown bears."
+              }
+            },
+            {
+              "name": {
+                "de": "A la Alquitara",
+                "hu": "A la Alquitara",
+                "ro": "A la Alquitara",
+                "en": "A la Alquitara"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Bremsen Ihres Fahrrads auf rutschiges Kopfsteinpflaster in diesem Bereich.",
+                "hu": "Ügyeljen a csúszós macskakövekre ezen a történelmi területen, amikor fékezi a kerékpárt.",
+                "ro": "Atenție la piatra cubică alunecoasă din această zonă istorică atunci când frânați bicicleta.",
+                "en": "Watch out for slippery cobblestones around this historic area when braking your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Városi uszoda",
+                "ro": "Piscina municipală",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort zum Aufwärmen; stellen Sie sicher, dass Ihr Fahrrad im Regen sicher angeschlossen ist.",
+                "hu": "Jó hely a beltéri bemelegedésre; ellenőrizze, hogy a kerékpár biztonságosan le van zárva az esőben.",
+                "ro": "Un loc bun pentru a vă încălzi; asigurați-vă că bicicleta este bine încuiată în ploaie.",
+                "en": "A good place to warm up indoors; ensure your bike is securely locked in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de San Miguel",
+                "hu": "San Miguel kilátó",
+                "ro": "Punctul de belvedere San Miguel",
+                "en": "Mirador de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Der schlammige Weg erfordert vorsichtiges Lenken. Genießen Sie die dramatische, stürmische Aussicht.",
+                "hu": "A sáros ösvény óvatos kormányzást igényel. Élvezze a völgy drámai, viharos kilátását.",
+                "ro": "Poteca noroioasă necesită o direcție atentă. Bucurați-vă de priveliștile dramatice ale văii.",
+                "en": "The muddy path requires careful steering. Enjoy the dramatic, stormy views of the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Santa Catalina",
+                "hu": "Santa Catalina kápolna",
+                "ro": "Schitul Santa Catalina",
+                "en": "Ermita de Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Bögen der Kapelle vor dem Regen, bevor Sie nass zurückfahren.",
+                "hu": "Keressen menedéket a kápolna árkádjai alatt az eső elől a nedves visszaút előtt.",
+                "ro": "Căutați adăpost sub arcadele capelei de ploaie înainte de plimbarea udă înapoi.",
+                "en": "Seek shelter under the chapel's arches from the rain before your wet ride back down."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für eine Winterradtour durch Potes. Die Morgenfahrt ist eiskalt, also kräftig in die Pedale treten! Mittags können Sie in Museen auftauen. Der Nachmittagsaufstieg bietet verschneite Ausblicke, aber seien Sie vor 17 Uhr bei Einbruch der Dunkelheit fertig.",
+            "hu": "Öltözzön melegen a friss téli bringatúrához Potesben. A reggeli út a toronyhoz fagyos, tekerjen erősen! A dél lehetőséget ad a felengedésre a múzeumokban. A délutáni mászás a kilátókhoz lenyűgöző havas panorámát nyújt, de érjen vissza az 5 órai sötétedés előtt.",
+            "ro": "Îmbrăcați-vă călduros pentru o plimbare cu bicicleta de iarnă prin Potes. Dimineața este înghețată! Prânzul oferă o șansă de a vă dezgheța la muzee. Urcușul de după-amiază spre punctele de belvedere oferă priveliști înzăpezite, dar terminați înainte de întunericul de la 17:00.",
+            "en": "Wrap up warmly for a crisp winter bike tour through Potes. The morning ride to the tower is freezing, so pedal hard! Midday offers a chance to thaw in local museums. The afternoon climb to the viewpoints provides stunning snowy vistas, but plan to finish before the 5 PM darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de San Pedro",
+                "hu": "Torre de San Pedro",
+                "ro": "Turnul San Pedro",
+                "en": "Torre de San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Der steile gepflasterte Anstieg wärmt die Beine; bewundern Sie die schneebedeckten Gipfel von oben.",
+                "hu": "A meredek macskaköves felhajtó felmelegíti fázós lábait; csodálja meg a havas csúcsokat fentről.",
+                "ro": "Abordarea pavată abruptă vă va încălzi picioarele; admirați vârfurile înzăpezite de sus.",
+                "en": "The steep cobbled approach will warm up your freezing legs; admire the snowy peaks from above."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Oso",
+                "hu": "Medvék háza",
+                "ro": "Casa Ursului",
+                "en": "Casa del Oso"
+              },
+              "tip_5lang": {
+                "de": "Eine willkommene beheizte Pause, um das Gefühl in den Fingern vor der Weiterfahrt wiederherzustellen.",
+                "hu": "Szívesen látott fűtött pihenő, hogy visszatérjen az élet az ujjaiba a hideg út folytatása előtt.",
+                "ro": "O pauză încălzită binevenită pentru a vă restabili simțirea degetelor înainte de a continua.",
+                "en": "A welcome heated break to restore feeling to your fingers before continuing the cold ride."
+              }
+            },
+            {
+              "name": {
+                "de": "A la Alquitara",
+                "hu": "A la Alquitara",
+                "ro": "A la Alquitara",
+                "en": "A la Alquitara"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf morgendliches Glatteis im Schatten dieser engen historischen Straßen.",
+                "hu": "Ügyeljen a reggeli jégfoltokra e szűk történelmi utcák árnyékos részein.",
+                "ro": "Atenție la peticele de gheață matinală în umbra acestor străzi istorice înguste.",
+                "en": "Watch out for patches of morning ice in the shadows of these narrow historic streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Városi uszoda",
+                "ro": "Piscina municipală",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innen-Thermalbereiche, um Ihre kalten Muskeln auf der Winterreise zu verjüngen.",
+                "hu": "Használja a beltéri termál részleget, hogy felfrissítse hideg izmait a téli utazás során.",
+                "ro": "Folosiți zonele termale interioare pentru a vă întineri mușchii reci în timpul călătoriei de iarnă.",
+                "en": "Use the indoor thermal areas to rejuvenate your cold muscles during the winter journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de San Miguel",
+                "hu": "San Miguel kilátó",
+                "ro": "Punctul de belvedere San Miguel",
+                "en": "Mirador de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Der frostige Weg lohnt sich für den atemberaubenden Blick auf die winterlichen Picos de Europa.",
+                "hu": "A fagyos ösvény megéri az erőfeszítést a téli Picos de Europa lélegzetelállító látványáért.",
+                "ro": "Traseul înghețat merită efortul pentru priveliștea uluitoare a munților Picos de Europa.",
+                "en": "The frosty trail is worth the effort for the breathtaking view of the wintery Picos de Europa."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Santa Catalina",
+                "hu": "Santa Catalina kápolna",
+                "ro": "Schitul Santa Catalina",
+                "en": "Ermita de Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie nach dem Besuch das Fahrradlicht ein, da die Wintersonne im Tal schnell untergeht.",
+                "hu": "Kapcsolja be a kerékpárlámpát a látogatás után, mert a téli nap gyorsan lenyugszik a völgyben.",
+                "ro": "Aprindeți luminile bicicletei, deoarece soarele de iarnă apune repede în această vale montană.",
+                "en": "Turn on your bike lights after visiting, as the winter sun sets fast in this mountain valley."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós túrája a csendes Caseta de Camarines természeti környezetében indul. Ezután a központba hajt, leparkol, és meglátogatja az impozáns Torre de San Pedro-t.\n\nA toronytól egy rövid sétával eléri a Casa del Oso-t, majd az A la Alquitara-t. A belvárosi séta során igazán elmélyülhet a helyi kultúrában és történelemben.\n\nEbéd után újra autóba ül, hogy meglátogassa a Horno tosta blenda ipari emlékművét, amely a környék bányászati múltját idézi meg.\n\nA délután fénypontjaként felvezet a Mirador de San Miguel kilátóhoz lenyűgöző fotókért, végül a közeli Ermita de Santa Catalina kápolnánál zárja a napot teljes nyugalomban.",
         "ro": "Turul dumneavoastră cu mașina începe la fermecătoarea Caseta de Camarines. Apoi conduceți spre centru, parcați și vizitați masivul Turn San Pedro.\n\nDe la turn, mergeți pe jos către Casa Ursului și apoi la A la Alquitara. Această plimbare prin centrul orașului este perfectă pentru a experimenta cultura locală îndeaproape.\n\nDupă prânz, vă întoarceți la mașină și ajungeți rapid la relicva minieră Horno tosta blenda, care vă poartă într-o călătorie în trecutul industrial.\n\nDupă-amiaza culminează cu un drum spre Punctul de belvedere San Miguel pentru fotografii spectaculoase, urmat de atmosfera liniștită de la Schitul Santa Catalina.",
         "en": "Your driving tour begins in the serene surroundings of Caseta de Camarines. Afterwards, you will drive to the center, park the car, and visit the imposing Torre de San Pedro.\n\nFrom the tower, you can easily walk to Casa del Oso and then A la Alquitara. Exploring the center on foot provides an intimate look at the local culture and heritage.\n\nAfter lunch, hop back in your car to visit the industrial relic Horno tosta blenda, which offers a unique glimpse into the region's mining history.\n\nThe afternoon peaks with a scenic drive up to Mirador de San Miguel for breathtaking photos, followed by a peaceful conclusion at the nearby Ermita de Santa Catalina."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Autofahren um Potes an einem Regentag ist komfortabel. Beginnen Sie sicher mit morgendlichen Ausblicken. Mittags huschen Sie mit Schirm ins Museum. Die Nachmittagsfahrt zum Ofen und zu den Aussichtspunkten erfordert Vorsicht auf nassen Bergstraßen.",
+            "hu": "Esős napon vezetni Potes környékén kényelmes. Kezdje a napot biztonságos autós kilátással. Délben szaladjon be a múzeumba és a történelmi helyekre. A délutáni vezetés a kemencéhez és a kilátókhoz óvatosságot igényel a csúszós, nedves hegyi utakon.",
+            "ro": "Conducerea prin Potes într-o zi ploioasă este confortabilă. Începeți în siguranță cu priveliști din mașină. La prânz, fugiți la muzeu și site-uri istorice. Conducerea de după-amiază spre cuptor și belvederi necesită grijă pe drumurile montane alunecoase.",
+            "en": "Driving around Potes on a rainy day is comfortable. Start safely with morning views from the car. By noon, dash into the museum and historic sites with your umbrella. Afternoon navigating to the old furnace and viewpoints requires care on slick, wet mountain roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caseta de Camarines",
+                "hu": "Caseta de Camarines",
+                "ro": "Caseta de Camarines",
+                "en": "Caseta de Camarines"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische, neblige Landschaft bequem und trocken aus Ihrem Auto.",
+                "hu": "Élvezze a drámai, ködös tájat autója kényelméből és száraz melegéből.",
+                "ro": "Bucurați-vă de peisajul dramatic și cețos din confortul și căldura uscată a mașinii.",
+                "en": "Enjoy the dramatic, misty landscape from the comfort and dry warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de San Pedro",
+                "hu": "Torre de San Pedro",
+                "ro": "Turnul San Pedro",
+                "en": "Torre de San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Turm und schlüpfen Sie schnell hinein, um die trockenen Exponate zu erkunden.",
+                "hu": "Parkoljon közel a toronyhoz, és csússzon be gyorsan a száraz belső kiállítások felfedezéséhez.",
+                "ro": "Parcați aproape de turn și intrați rapid pentru a explora expozițiile interioare uscate.",
+                "en": "Park close to the tower and quickly slip inside to explore the dry interior exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Oso",
+                "hu": "Medvék háza",
+                "ro": "Casa Ursului",
+                "en": "Casa del Oso"
+              },
+              "tip_5lang": {
+                "de": "Eine tolle Regenaktivität; flitzen Sie vom Parkplatz, um alles über die Bären zu erfahren.",
+                "hu": "Remek esős napi program; szaladjon át a parkolóból, hogy mindent megtudjon a helyi medvékről.",
+                "ro": "O activitate excelentă de ploaie; fugiți din parcare pentru a învăța despre urșii locali.",
+                "en": "A great rainy day activity; dash from the parking lot to learn all about the local bears."
+              }
+            },
+            {
+              "name": {
+                "de": "A la Alquitara",
+                "hu": "A la Alquitara",
+                "ro": "A la Alquitara",
+                "en": "A la Alquitara"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Schirm für den kurzen Fußweg vom Auto mit, da die Vordächer nicht allen Regen abhalten.",
+                "hu": "Vigyen esernyőt a rövid sétához az autótól, mivel a történelmi ereszek nem fognak fel minden esőt.",
+                "ro": "Luați o umbrelă pentru scurta plimbare, deoarece streșinile istorice nu blochează toată ploaia.",
+                "en": "Carry an umbrella for the short walk from your car, as the historic eaves don't block all rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Horno tosta blenda",
+                "hu": "Horno tosta blenda",
+                "ro": "Horno tosta blenda",
+                "en": "Horno tosta blenda"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier vorsichtig; starker Regen kann die alten Industriestrukturen verdecken.",
+                "hu": "Vezessen óvatosan ezen a környéken; a heves eső eltakarhatja a régi ipari építményeket.",
+                "ro": "Conduceți cu atenție; ploaia abundentă poate ascunde vechile structuri industriale.",
+                "en": "Drive carefully near this spot; the heavy rain can obscure the old industrial structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de San Miguel",
+                "hu": "San Miguel kilátó",
+                "ro": "Punctul de belvedere San Miguel",
+                "en": "Mirador de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Die malerische Auffahrt ist nass; fahren Sie langsam in die Kurven und beobachten Sie den Nebel.",
+                "hu": "A festői felhajtó nedves; vegye lassan a kanyarokat, és nézze a völgyben gomolygó ködöt.",
+                "ro": "Drumul pitoresc este ud; luați curbele încet și priviți ceața rostogolindu-se peste vale.",
+                "en": "The scenic drive up is wet; take turns slowly and watch the fog roll over the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Santa Catalina",
+                "hu": "Santa Catalina kápolna",
+                "ro": "Schitul Santa Catalina",
+                "en": "Ermita de Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zur Kapelle kann bei Platzregen schlammig sein, parken Sie auf festem Boden.",
+                "hu": "A kápolnához vezető út heves esőzések idején sáros lehet, így szilárd talajon parkoljon.",
+                "ro": "Drumul spre capelă poate fi noroios în ploi torențiale, parcați pe teren solid.",
+                "en": "The road to the chapel can be muddy in heavy downpours, so park on solid ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei einer Winterfahrt in Potes können Sie die Heizung aufdrehen. Die morgendlichen Aussichten sind frostig. Die Stopps mittags bieten kurze, kühle Spaziergänge. Fahren Sie nachmittags zu den Aussichtspunkten, um vor der eisigen Dunkelheit gegen 17 Uhr abzusteigen.",
+            "hu": "A téli autózás Potesben lehetővé teszi a fűtés feltekerését. A reggeli kilátások fagyosak. A déli megállók a múzeumoknál rövid, csípős sétákat kínálnak. Kora délután induljon a kilátókhoz, hogy még az 5 órai jeges sötétség beállta előtt biztonságban leereszkedjen.",
+            "ro": "Conducerea de iarnă în Potes vă permite să țineți căldura la maxim. Priveliștile dimineții sunt înghețate. Prânzul la turn și muzee oferă plimbări scurte și reci. Mergeți la belvederi după-amiaza, asigurându-vă că coborâți înainte ca întunericul înghețat să cadă la 17:00.",
+            "en": "A winter drive in Potes lets you keep the heater blasting. Morning vistas are frosty and beautiful. Midday stops at the tower and museums offer brief, chilly outdoor walks. Head to the viewpoints by mid-afternoon, ensuring you descend before the icy darkness falls around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caseta de Camarines",
+                "hu": "Caseta de Camarines",
+                "ro": "Caseta de Camarines",
+                "en": "Caseta de Camarines"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf der Morgenfahrt auf Glatteis; die gefrorene Landschaft ist atemberaubend.",
+                "hu": "Atenție la gheața neagră la condusul de dimineață; peisajul înghețat este uimitor.",
+                "ro": "Atenție la gheața neagră la condusul de dimineață; peisajul înghețat este uimitor.",
+                "en": "Look out for black ice on the morning drive here; the frozen landscape is stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de San Pedro",
+                "hu": "Torre de San Pedro",
+                "ro": "Turnul San Pedro",
+                "en": "Torre de San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Die kalten Steinstufen können durch Frost rutschig sein, gehen Sie vorsichtig vom Auto.",
+                "hu": "A hideg kőlépcsők a fagytól csúszósak lehetnek, így óvatosan sétáljon az autótól.",
+                "ro": "Treptele reci de piatră pot fi alunecoase de la îngheț, pășiți cu grijă de la mașină.",
+                "en": "The cold stone steps can be slippery with frost, so walk carefully from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Oso",
+                "hu": "Medvék háza",
+                "ro": "Casa Ursului",
+                "en": "Casa del Oso"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar warmes Museum, in dem Sie nach der kühlen Bergluft auftauen können.",
+                "hu": "Csodálatosan meleg múzeumbelső, ahol felengedhet a csípős hegyi levegő után.",
+                "ro": "Un interior de muzeu minunat de cald unde vă puteți dezgheța după aerul rece de munte.",
+                "en": "A wonderfully warm museum interior where you can thaw out after the chilly mountain air."
+              }
+            },
+            {
+              "name": {
+                "de": "A la Alquitara",
+                "hu": "A la Alquitara",
+                "ro": "A la Alquitara",
+                "en": "A la Alquitara"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn Sie nah parken, knöpfen Sie den Mantel zu, da der Winterwind durch die Gassen zieht.",
+                "hu": "Még ha közel is parkol, gombolja be a kabátját, mert a téli huzat átfúj a sikátorokon.",
+                "ro": "Chiar dacă parcați aproape, încheiați-vă haina, deoarece curenții de iarnă pătrund prin alei.",
+                "en": "Even if parked close, button up your coat as the winter drafts funnel through the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Horno tosta blenda",
+                "hu": "Horno tosta blenda",
+                "ro": "Horno tosta blenda",
+                "en": "Horno tosta blenda"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie diesen kurzen Stopp am Straßenrand, bevor die Schatten des späten Nachmittags es zu kalt machen.",
+                "hu": "Tegye meg ezt a gyors útmenti megállót, mielőtt a késő délutáni árnyékokban túl hideg lenne.",
+                "ro": "Faceți această oprire rapidă înainte ca umbrele după-amiezii târzii să o facă prea rece.",
+                "en": "Make this quick roadside stop before the late afternoon shadows make it too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de San Miguel",
+                "hu": "San Miguel kilátó",
+                "ro": "Punctul de belvedere San Miguel",
+                "en": "Mirador de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Auto Winterreifen für den steilen, evtl. verschneiten Aufstieg hat.",
+                "hu": "Győződjön meg róla, hogy az autón téli gumi van a meredek, esetleg havas emelkedőhöz.",
+                "ro": "Asigurați-vă că aveți anvelope de iarnă pentru urcarea abruptă și posibil înzăpezită.",
+                "en": "Ensure your car has winter tires for the steep, possibly snowy ascent to this view."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Santa Catalina",
+                "hu": "Santa Catalina kápolna",
+                "ro": "Schitul Santa Catalina",
+                "en": "Ermita de Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig hinunter, da die Sonne früh untergeht und der schmelzende Schnee gefriert.",
+                "hu": "Óvatosan vezessen lefelé, mivel a nap korán lenyugszik, ráfagyasztva az olvadó havat az útra.",
+                "ro": "Conduceți înapoi cu grijă, deoarece soarele apune devreme, înghețând zăpada topită pe drumuri.",
+                "en": "Drive back down carefully as the sun sets early, freezing the melting snow on the roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

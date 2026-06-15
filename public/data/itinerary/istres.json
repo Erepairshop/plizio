@@ -183,6 +183,224 @@
         "hu": "A reggel az ősi Oppidum du Castellan felfedezésével indul, majd a Notre-Dame-de-Beauvoir templom nyújt csendes pihenőt. Délben a Theatre de l'Olivier és a bájos Chapelle Saint-Sulpice kulturális értékeit csodálhatja meg. Délután a különleges Art Zoo és a Dinosaur'Istres életnagyságú dinoszauruszai várják a látogatókat. Az este a tavon lévő látványos Le Jet d'eau szökőkútnál zárul békés hangulatban.",
         "ro": "Dimineața începe la vechiul Oppidum du Castellan, explorând istoria din Istres, urmată de o vizită liniștită la Biserica Notre-Dame-de-Beauvoir. La amiază, treceți pe lângă Teatrul de l'Olivier și fermecătoarea Capelă Saint-Sulpice. După-amiaza vă aduce la ineditul Art Zoo și printre dinozaurii în mărime naturală de la Dinosaur'Istres. Seara se încheie liniștit lângă spectaculosul Le Jet d'eau de pe lac.",
         "en": "Morning starts at the ancient Oppidum du Castellan, exploring the historic roots of Istres before a quiet visit to the Church of Notre-Dame-de-Beauvoir. Midday brings you past the cultural Theatre de l'Olivier and the charming Chapelle Saint-Sulpice in the town center. In the afternoon, enjoy the whimsical Art Zoo and discover life-sized dinosaurs hidden at Dinosaur'Istres. The evening concludes peacefully by the spectacular Le Jet d'eau on the lake."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mystisch bei den alten Ruinen im Regen. Mittags bieten die Kirche und das Theater trockene Zufluchtsorte vor den Schauern. Am Nachmittag erkunden wir Kunst und Dinosaurier unter dem Schutz der Bäume. Der Abend endet am beleuchteten Jet d'eau; bitte tragen Sie feste, wasserfeste Schuhe, da die Kalksteinpfade bei Nässe sehr rutschig und schlammig werden können.",
+            "hu": "Reggel az Oppidum romjai közt kezdünk, ahol az eső misztikus ködöt áraszt. Délben a templom és a színház fedett terei védenek a záportól. Délután a dínópark fái alatt sétálunk, majd az esti szökőkút fényeit csodáljuk. A csúszós utak miatt vízálló cipő és esőkabát javasolt, a tóparti szélben pedig egy stabil esernyő elengedhetetlen az élvezhető városnézéshez.",
+            "ro": "Dimineața începe mistic printre ruinele antice sub ploaie. La prânz, biserica și teatrul oferă refugii uscate împotriva averselor. După-amiaza explorăm arta și dinozaurii sub protecția copacilor. Seara se încheie la fântâna Jet d'eau iluminată; vă rugăm să purtați încălțăminte impermeabilă, deoarece potecile de calcar devin foarte alunecoase și noroioase când sunt ude.",
+            "en": "Morning starts mystically among ancient ruins in the rain. At noon, the church and theater provide dry sanctuaries from the showers. In the afternoon, explore art and dinosaurs under the shelter of trees. The evening ends at the illuminated Jet d'eau; please wear sturdy, waterproof shoes as the limestone paths can become very slippery and muddy when wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oppidum du Castellan",
+                "hu": "Oppidum du Castellan",
+                "ro": "Oppidum du Castellan",
+                "en": "Oppidum du Castellan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Ruinen, deren Steine im Regen dunkel und dramatisch glänzen; tragen Sie rutschfeste Sohlen für die glatten archäologischen Pfade.",
+                "hu": "Fedezze fel az ókori település maradványait, melyek a vizes köveken még patinásabbnak tűnnek; használjon stabil talpú bakancsot a meredek, csúszós ösvényeken.",
+                "ro": "Explorați ruinele antice ale căror pietre strălucesc întunecat și dramatic în ploaie; purtați tălpi antiderapante pentru potecile arheologice alunecoase.",
+                "en": "Explore the ancient ruins whose stones glisten dark and dramatic in the rain; wear non-slip soles for the slippery archaeological paths on the hillside."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Notre-Dame-de-Beauvoir",
+                "hu": "Church of Notre-Dame-de-Beauvoir",
+                "ro": "Church of Notre-Dame-de-Beauvoir",
+                "en": "Church of Notre-Dame-de-Beauvoir"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanische Architektur und finden Sie im stillen Innenraum Schutz vor dem Regen; die Akustik bei prasselndem Regen ist besonders besinnlich.",
+                "hu": "Csodálja meg a román stílusú építészetet és találjon menedéket a zápor elől a csendes belső térben; a kopogó eső hangja különleges áhítatot ad a helynek.",
+                "ro": "Admirați arhitectura romanică și găsiți adăpost de ploaie în interiorul liniștit; acustica ploii care bate în geamuri creează o atmosferă contemplativă.",
+                "en": "Admire the Romanesque architecture and find shelter from the rain in the quiet interior; the sound of pattering rain adds a contemplative atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre de l'Olivier",
+                "hu": "Theatre de l'Olivier",
+                "ro": "Theatre de l'Olivier",
+                "en": "Theatre de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das moderne Foyer für eine kulturelle Pause im Trockenen; prüfen Sie das Programm für kurzfristige Indoor-Aufführungen während eines Unwetters.",
+                "hu": "Használja ki a modern előcsarnokot egy száraz kulturális pihenőre; ellenőrizze a műsort, hátha elkaphat egy beltéri előadást a legnagyobb felhőszakadás alatt.",
+                "ro": "Folosiți foierul modern pentru o pauză culturală la uscat; verificați programul pentru spectacole în interior în timpul vremii nefavorabile de afară.",
+                "en": "Use the modern foyer for a cultural break in the dry; check the program for indoor performances that you can enjoy while waiting for the rain to clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Sulpice",
+                "hu": "Chapelle Saint-Sulpice",
+                "ro": "Chapelle Saint-Sulpice",
+                "en": "Chapelle Saint-Sulpice"
+              },
+              "tip_5lang": {
+                "de": "Diese Kapelle dient oft als Galerie und ist der perfekte Ort, um Kunst im Trockenen zu genießen; ideal, um einen plötzlichen Regenschauer zu überbrücken.",
+                "hu": "Ez a kápolna gyakran galériaként üzemel, így tökéletes hely a művészet élvezetére fedett helyen; ideális egy hirtelen jött zápor átvészelésére.",
+                "ro": "Această capelă servește adesea ca galerie și este locul perfect pentru a savura arta la adăpost; ideal pentru a aștepta trecerea unei ploi bruște.",
+                "en": "This chapel often serves as a gallery and is the perfect spot to enjoy art indoors; it is ideal for sheltering during a sudden heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Zoo",
+                "hu": "Art Zoo",
+                "ro": "Art Zoo",
+                "en": "Art Zoo"
+              },
+              "tip_5lang": {
+                "de": "Die farbenfrohen Tierskulpturen leuchten auch bei grauem Himmel; nutzen Sie die nahegelegenen Arkaden oder Bäume, um die Kunstwerke trocken zu betrachten.",
+                "hu": "A színes állatszobrok szürke égbolt alatt is vidámságot árasztanak; használja a közeli árkádokat vagy fákat, hogy szárazon maradva fotózhassa az alkotásokat.",
+                "ro": "Sculpturile colorate de animale strălucesc chiar și sub un cer gri; folosiți arcadele sau copacii din apropiere pentru a vedea operele fără a vă uda.",
+                "en": "The colorful animal sculptures shine even under gray skies; use the nearby arcades or trees to view the artworks while staying relatively dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaur'Istres",
+                "hu": "Dinosaur'Istres",
+                "ro": "Dinosaur'Istres",
+                "en": "Dinosaur'Istres"
+              },
+              "tip_5lang": {
+                "de": "Die lebensgroßen Dinosaurier wirken im Regen im Wald besonders realistisch; bleiben Sie auf den befestigten Wegen, um tiefen Matsch im Park zu vermeiden.",
+                "hu": "Az élethű dínók az esős erdőben még valóságosabbnak tűnnek; maradjon a kijelölt ösvényeken, hogy elkerülje a mély sarat a park területén.",
+                "ro": "Dinozaurii în mărime naturală par deosebit de realiști în pădurea ploioasă; rămâneți pe potecile principale pentru a evita noroiul adânc din parcul tematic.",
+                "en": "The life-sized dinosaurs look particularly realistic in the rainy woods; stick to the paved paths to avoid deep mud throughout the themed park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jet d'eau",
+                "hu": "Le Jet d'eau",
+                "ro": "Le Jet d'eau",
+                "en": "Le Jet d'eau"
+              },
+              "tip_5lang": {
+                "de": "Der gewaltige Wasserstrahl verschmilzt mit dem Regen zu einem beeindruckenden Naturschauspiel; ein windfester Regenschirm ist am exponierten Ufer notwendig.",
+                "hu": "A hatalmas vízsugár és az eső együtt lenyűgöző látványt nyújt a tavon; a nyitott parton szélálló esernyőre lesz szüksége a nagy széllökések miatt.",
+                "ro": "Jetul masiv de apă se îmbină cu ploaia într-un spectacol natural impresionant; o umbrelă rezistentă la vânt este necesară pe malul expus al lacului.",
+                "en": "The massive water jet blends with the rain for an impressive natural display; a windproof umbrella is necessary on the exposed shore of the lake."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Oppidum bietet klare Fernsichten. Mittags wärmen wir uns in der historischen Kirche und den kulturellen Zentren auf. Am Nachmittag sinkt die Sonne früh, was dem Dinosaurierpark eine geheimnisvolle Stimmung verleiht. Der Abend endet am beleuchteten Jet d'eau; tragen Sie warme Schichten, da der Mistral-Wind im Winter sehr beißend sein kann.",
+            "hu": "A csípős téli reggel tiszta kilátást kínál az Oppidumból. Délben a történelmi templom és a kulturális terek nyújtanak meleg menedéket. Délután a nap korán nyugszik, ami titokzatos hangulatot kölcsönöz a dínóparknak. Az este a kivilágított szökőkútnál zárul; öltözzön rétegesen, mert a téli Mistral szél nagyon átható tud lenni a tóparton.",
+            "ro": "O dimineață răcoroasă de iarnă la Oppidum oferă vederi clare la distanță. La prânz ne încălzim în biserica istorică și în centrele culturale. După-amiaza soarele apune devreme, oferind parcului cu dinozauri o atmosferă misterioasă. Seara se încheie la Jet d'eau iluminat; purtați straturi calde, deoarece vântul Mistral poate fi tăios iarna.",
+            "en": "A brisk winter morning at the Oppidum offers clear distant views. At noon, warm up in the historic church and cultural centers. In the afternoon, the sun sets early, giving the dinosaur park a mysterious atmosphere. The evening ends at the illuminated Jet d'eau; wear warm layers as the Mistral wind can be very biting in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oppidum du Castellan",
+                "hu": "Oppidum du Castellan",
+                "ro": "Oppidum du Castellan",
+                "en": "Oppidum du Castellan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die ungestörte Sicht über den Étang; die körperliche Anstrengung beim Aufstieg hält Sie bei Kälte angenehm warm.",
+                "hu": "Élvezze a friss téli levegőt és a zavartalan kilátást a tóra; a felfelé kapaszkodás és a fizikai aktivitás kellemesen melegen tartja majd a hidegben.",
+                "ro": "Bucurați-vä de aerul curat de iarnă și de vederea neobstrucționată peste lac; efortul fizic al urcării vă va menține cald în ciuda temperaturilor scăzute.",
+                "en": "Enjoy the crisp winter air and the unobstructed view over the lake; the physical effort of the climb will keep you warm despite the low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Notre-Dame-de-Beauvoir",
+                "hu": "Church of Notre-Dame-de-Beauvoir",
+                "ro": "Church of Notre-Dame-de-Beauvoir",
+                "en": "Church of Notre-Dame-de-Beauvoir"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche schützen vor dem kalten Wind; nutzen Sie die Stille für einen Moment der inneren Einkehr in wohliger, windgeschützter Ruhe.",
+                "hu": "A templom vastag falai megvédik a hideg széltől; használja ki a csendet egy pillanatnyi elmélyülésre a szélvédett, nyugodt belső térben.",
+                "ro": "Zidurile groase ale bisericii oferă protecție împotriva vântului rece; folosiți liniștea pentru un moment de reflecție în interiorul ferit de curent.",
+                "en": "The thick walls of the church provide protection from the cold wind; use the silence for a moment of reflection in the wind-sheltered, calm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre de l'Olivier",
+                "hu": "Theatre de l'Olivier",
+                "ro": "Theatre de l'Olivier",
+                "en": "Theatre de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Gebäude ist der ideale Ort, um der Winterkälte kurz zu entfliehen; informieren Sie sich über winterliche Abendveranstaltungen für lokale Kultur.",
+                "hu": "A fűtött épület ideális hely, hogy rövid időre elmeneküljön a téli fagy elől; tájékozódjon a téli esti előadásokról a helyi kulturális élményekért.",
+                "ro": "Clădirea încălzită este locul ideal pentru a evada scurt de frigul iernii; informați-vă despre spectacolele de seară pentru o experiență culturală locală.",
+                "en": "The heated building is the ideal place to escape the winter chill for a while; check the schedule for evening winter performances and local culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Sulpice",
+                "hu": "Chapelle Saint-Sulpice",
+                "ro": "Chapelle Saint-Sulpice",
+                "en": "Chapelle Saint-Sulpice"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die wechselnden Kunstausstellungen in der geschützten Kapelle; die intime Atmosphäre ist perfekt, um die Kälte draußen kurz zu vergessen.",
+                "hu": "Látogassa meg az időszaki művészeti kiállításokat a védett kápolnában; a bensőséges hangulat tökéletes ahhoz, hogy feledtesse a kinti téli időjárást.",
+                "ro": "Vizitați expozițiile temporare de artă în capela protejată; atmosfera intimă este perfectă pentru a uita pentru o clipă de frigul de afară.",
+                "en": "Visit the temporary art exhibitions in the protected chapel; the intimate atmosphere is perfect for forgetting the winter cold outside for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Art Zoo",
+                "hu": "Art Zoo",
+                "ro": "Art Zoo",
+                "en": "Art Zoo"
+              },
+              "tip_5lang": {
+                "de": "Die bunten Skulpturen bilden einen tollen Kontrast zur kargen Winterlandschaft; ein kurzer Fotostopp reicht aus, bevor Sie wieder ins Warme gehen.",
+                "hu": "A színes szobrok remek kontrasztot alkotnak a kopár téli tájjal; egy rövid fotómegálló bőven elég, mielőtt újra melegebb helyre húzódna.",
+                "ro": "Sculpturile colorate oferă un contrast deosebit cu peisajul auster de iarnă; o scurtă oprire pentru fotografii este suficientă înainte de a vă încălzi.",
+                "en": "The colorful sculptures provide a great contrast to the bleak winter landscape; a short photo stop is enough before heading back to somewhere warmer."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaur'Istres",
+                "hu": "Dinosaur'Istres",
+                "ro": "Dinosaur'Istres",
+                "en": "Dinosaur'Istres"
+              },
+              "tip_5lang": {
+                "de": "In der frühen Dämmerung wirken die Dinosaurier besonders imposant; bringen Sie eine Taschenlampe mit, da es im Park unter den Bäumen schnell dunkel wird.",
+                "hu": "A korai szürkületben a dínók különösen impozáns látványt nyújtanak; hozzon magával zseblámpát, mert a fák alatt hamar besötétedik a parkban.",
+                "ro": "În amurgul timpuriu, dinozaurii par deosebit de impunători; aduceți o lanternă, deoarece se întunecă repede în parcul de sub copaci.",
+                "en": "In the early dusk, the dinosaurs look particularly imposing; bring a flashlight as it gets dark quickly under the trees in the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Jet d'eau",
+                "hu": "Le Jet d'eau",
+                "ro": "Le Jet d'eau",
+                "en": "Le Jet d'eau"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das beleuchtete Wasserspiel in der dunklen Winternacht; halten Sie sich wegen der Gischt und des kalten Winds vom direkten Ufer fern.",
+                "hu": "Csodálja meg a kivilágított vízsugarat a sötét téli éjszakában; a felfröccsenő vízpermet és a jéghideg szél miatt ne álljon közvetlenül a parton.",
+                "ro": "Admirați jocul de apă iluminat în noaptea rece de iarnă; stați departe de malul direct din cauza stropilor de apă și a vântului tăios.",
+                "en": "Watch the illuminated water display in the dark winter night; stay back from the immediate shore due to the freezing spray and cold winds."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje a biciklis napot a zöldellő Aire de Jeux du Près Castel parkban, majd tekerjen fel az elegáns Pavillon de Grignan-hoz. Délben érkezzen az óvárosba, és csodálja meg a Notre-Dame-de-Beauvoir templomot. A délután során tekerjen át a Dinosaur'Istres parkon és az Étang de l'Olivier festői partjain. A nap a Plage de la Romaniquette vízparti pihenőjével ér véget.",
         "ro": "Începeți ziua de ciclism la verdele Aire de Jeux du Près Castel, înainte de a pedala spre elegantul Pavillon de Grignan. La amiază, ajungeți în orașul vechi pentru a admira Biserica Notre-Dame-de-Beauvoir. După-amiaza vă oferă o plimbare prin parcul Dinosaur'Istres și pe malurile pitorești ale Étang de l'Olivier. Ziua se încheie relaxant pe plaja Plage de la Romaniquette.",
         "en": "Kick off your cycling day at the green Aire de Jeux du Près Castel before pedaling up to the elegant Pavillon de Grignan. By midday, roll into the old town to admire the architecture of the Church of Notre-Dame-de-Beauvoir. The afternoon offers a ride through the unique park of Dinosaur'Istres and around the scenic shores of Étang de l'Olivier. Your day winds down relaxing by the water at Plage de la Romaniquette."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour am Seeufer erfordert bei Regen gute Ausrüstung. Vormittags radeln wir vorsichtig durch den Park; mittags bietet der Pavillon de Grignan eine lange, trockene Pause. Nachmittags besuchen wir die Dinosaurier auf befestigten Wegen. Der Abend endet an der Küste; achten Sie auf rutschige Kurven und tragen Sie auffällige Regenkleidung für Ihre Sicherheit.",
+            "hu": "Az esős tóparti biciklizés jó felszerelést igényel. Délelőtt óvatosan tekerünk a parkban; délben a Pavillon de Grignan kínál hosszú, száraz pihenőt. Délután a dínókat keressük fel a szilárd burkolatú utakon. Az este a parton zárul; ügyeljen a csúszós kanyarokra és viseljen feltűnő esőruházatot a biztonsága érdekében.",
+            "ro": "O tură cu bicicleta pe malul lacului necesită echipament bun pe ploaie. Dimineața pedalăm cu grijă prin parc; la prânz, Pavillon de Grignan oferă o pauză lungă și uscată. După-amiaza vizităm dinozaurii pe drumuri pavate. Seara se încheie pe coastă; atenție la curbele alunecoase și purtați haine de ploaie reflectorizante pentru siguranță.",
+            "en": "A bike ride along the lakeshore requires good gear in the rain. In the morning, cycle carefully through the park; at noon, Pavillon de Grignan offers a long, dry break. In the afternoon, visit the dinosaurs on paved paths. The evening ends at the coast; watch out for slippery corners and wear bright rain gear for your safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de Jeux du Près Castel",
+                "hu": "Aire de Jeux du Près Castel",
+                "ro": "Aire de Jeux du Près Castel",
+                "en": "Aire de Jeux du Près Castel"
+              },
+              "tip_5lang": {
+                "de": "Der Park kann bei Regen matschig sein; bleiben Sie mit dem Fahrrad auf den Hauptwegen und parken Sie auf festem Untergrund, um Einsinken zu vermeiden.",
+                "hu": "A park esőben sáros lehet; maradjon a kerékpárral a főutakon, és szilárd talajon parkoljon, hogy elkerülje a kerekek elsüllyedését.",
+                "ro": "Parcul poate fi noroios pe ploaie; rămâneți cu bicicleta pe aleile principale și parcați pe teren solid pentru a evita scufundarea roților.",
+                "en": "The park can be muddy in the rain; stay on the main paths with your bike and park on firm ground to avoid getting stuck in the soft mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon de Grignan",
+                "hu": "Pavillon de Grignan",
+                "ro": "Pavillon de Grignan",
+                "en": "Pavillon de Grignan"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und genießen Sie die Kunstausstellungen im Trockenen; das historische Gebäude bietet perfekten Schutz vor einem schweren Schauer.",
+                "hu": "Támassza le a biciklit fedett helyre, és élvezze a kiállításokat szárazon; a történelmi épület tökéletes menedék egy nagyobb felhőszakadás idején.",
+                "ro": "Parcați bicicleta la adăpost și bucurați-vă de expozițiile de artă la uscat; clădirea istorică oferă protecție perfectă împotriva unei ploi torențiale.",
+                "en": "Park your bike under cover and enjoy the art exhibitions in the dry; the historic building provides perfect shelter during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Notre-Dame-de-Beauvoir",
+                "hu": "Church of Notre-Dame-de-Beauvoir",
+                "ro": "Church of Notre-Dame-de-Beauvoir",
+                "en": "Church of Notre-Dame-de-Beauvoir"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Kirche kann bei Regen auf dem Kopfsteinpflaster sehr rutschig sein; schieben Sie Ihr Fahrrad im Zweifel das letzte steile Stück.",
+                "hu": "A templomhoz vezető emelkedő a macskaköveken nagyon csúszós lehet esőben; kétség esetén tolja a kerékpárját az utolsó meredek szakaszon.",
+                "ro": "Urcarea spre biserică pe pavajul de piatră poate fi foarte alunecoasă pe ploaie; dacă aveți dubii, împingeți bicicleta pe ultima porțiune abruptă.",
+                "en": "The climb to the church on cobblestones can be very slippery in the rain; if in doubt, push your bike for the last steep section for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaur'Istres",
+                "hu": "Dinosaur'Istres",
+                "ro": "Dinosaur'Istres",
+                "en": "Dinosaur'Istres"
+              },
+              "tip_5lang": {
+                "de": "Radfahren ist im Park erlaubt, aber achten Sie auf Pfützen und feuchtes Laub; die Bäume bieten nur teilweisen Schutz vor direktem Regen.",
+                "hu": "A kerékpározás megengedett a parkban, de ügyeljen a tócsákra és a nedves levelekre; a fák csak részleges védelmet nyújtanak a közvetlen eső ellen.",
+                "ro": "Ciclismul este permis în parc, dar atenție la bălți și frunze umede; copacii oferă doar o protecție parțială împotriva ploii directe.",
+                "en": "Cycling is allowed in the park, but watch out for puddles and wet leaves; the trees provide only partial protection from direct rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Olivier",
+                "hu": "Étang de l'Olivier",
+                "ro": "Étang de l'Olivier",
+                "en": "Étang de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg um den See ist exponiert; ein guter Poncho schützt vor dem Wind und dem von der Seite peitschenden Regen am Uferweg.",
+                "hu": "A tó körüli kerékpárút nyitott; egy jó esőponchó megvédi a széltől és a part menti úton oldalról csapkodó esőtől.",
+                "ro": "Pista de biciclete din jurul lacului este expusă; un poncho bun vă va proteja de vânt și de ploaia care bate din lateral pe drumul de coastă.",
+                "en": "The bike path around the lake is exposed; a good poncho will protect you from the wind and the rain hitting from the side on the shore road."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Romaniquette",
+                "hu": "Plage de la Romaniquette",
+                "ro": "Plage de la Romaniquette",
+                "en": "Plage de la Romaniquette"
+              },
+              "tip_5lang": {
+                "de": "Der Sand am Strand wird bei Regen fest, aber die Zufahrtswege können schlammig sein; genießen Sie den dramatischen Blick auf das graue Meer.",
+                "hu": "A strand homokja esőben megkeményedik, de a bekötőutak sárosak lehetnek; élvezze a szürke tenger látványát a fedett parti részekről.",
+                "ro": "Nisipul de pe plajă devine ferm pe ploaie, dar drumurile de acces pot fi noroioase; bucurați-vă de vederea dramatică a mării cenușii.",
+                "en": "The beach sand becomes firm in the rain, but access roads can be muddy; enjoy the dramatic view of the gray sea from covered coastal areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Istres bietet klare Luft, aber oft starken Wind. Vormittags nutzen wir die Sonne im Park; mittags wärmen wir uns bei kulturellen Stopps auf. Nachmittags erkunden wir den See, bevor es um 17 Uhr dunkel wird. Der Abend endet am Strand; tragen Sie Handschuhe und Windstopper-Kleidung gegen den kalten Mistral am Wasser.",
+            "hu": "A téli biciklizés Istres-ben friss levegőt, de gyakran erős szelet tartogat. Délelőtt a parkban használjuk ki a napsütést; délben kulturális megállóknál melegszünk fel. Délután a tavat kerüljük meg, mielőtt 17 órakor besötétedik. Az este a strandon zárul; viseljen kesztyűt és szélálló ruhát a vízparti hideg Mistral ellen.",
+            "ro": "Ciclismul de iarnă în Istres oferă aer curat, dar adesea vânt puternic. Dimineața profităm de soare în parc; la prânz ne încălzim la opririle culturale. După-amiaza explorăm lacul înainte de a se întuneca la ora 17. Seara se încheie la plajă; purtați mănuși și haine rezistente la vânt contra Mistralului rece.",
+            "en": "Winter cycling in Istres offers crisp air but often strong winds. In the morning, enjoy the sun in the park; at noon, warm up at cultural stops. In the afternoon, explore the lake before it gets dark at 5 PM. The evening ends at the beach; wear gloves and windproof clothing against the cold Mistral by the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aire de Jeux du Près Castel",
+                "hu": "Aire de Jeux du Près Castel",
+                "ro": "Aire de Jeux du Près Castel",
+                "en": "Aire de Jeux du Près Castel"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter ruhig und bietet gute Wege zum Aufwärmen; achten Sie auf Raureif auf den Holzelementen der Spielgeräte am Morgen.",
+                "hu": "A park télen csendes, és jó utakat kínál a bemelegítéshez; reggelente ügyeljen a zúzmarára a játszótéri eszközök fa elemein.",
+                "ro": "Parcul este liniștit iarna și oferă alei bune pentru încălzire; dimineața, atenție la chiciura de pe elementele de lemn ale echipamentelor.",
+                "en": "The park is quiet in winter and offers good paths for warming up; in the morning, watch out for hoarfrost on the wooden elements of the equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon de Grignan",
+                "hu": "Pavillon de Grignan",
+                "ro": "Pavillon de Grignan",
+                "en": "Pavillon de Grignan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp für eine längere Aufwärmpause in den Ausstellungsräumen; das beheizte Interieur ist eine Wohltat nach dem kalten Fahrtwind.",
+                "hu": "Használja ki ezt a megállót egy hosszabb bemelegítő pihenőre a kiállítótermekben; a fűtött belső tér áldás a hideg menetszél után.",
+                "ro": "Folosiți această oprire pentru o pauză lungă de încălzire în sălile de expoziție; interiorul încălzit este o binecuvântare după vântul rece de pedalare.",
+                "en": "Use this stop for a long warm-up break in the exhibition rooms; the heated interior is a blessing after the cold wind of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Church of Notre-Dame-de-Beauvoir",
+                "hu": "Church of Notre-Dame-de-Beauvoir",
+                "ro": "Church of Notre-Dame-de-Beauvoir",
+                "en": "Church of Notre-Dame-de-Beauvoir"
+              },
+              "tip_5lang": {
+                "de": "Der weite Blick oben ist im Winter bei klarer Sicht besonders spektakulär; ziehen Sie sich nach dem schweißtreibenden Anstieg sofort warm an.",
+                "hu": "A fenti tágas kilátás télen, tiszta időben különösen látványos; az izzasztó emelkedő után azonnal öltözzön fel melegen, hogy ne fázzon meg.",
+                "ro": "Vederea panoramică de sus este spectaculoasă iarna când cerul este senin; îmbrăcați-vă gros imediat după urcarea care v-a făcut să transpirați.",
+                "en": "The wide view from the top is spectacular in winter when the air is clear; dress warmly immediately after the sweaty climb to stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinosaur'Istres",
+                "hu": "Dinosaur'Istres",
+                "ro": "Dinosaur'Istres",
+                "en": "Dinosaur'Istres"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange, dramatische Schatten der Dinosaurier; fahren Sie vorsichtig, da feuchtes Laub auf den Wegen gefrieren kann.",
+                "hu": "Az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a dínókra; tekerjen óvatosan, mert a nedves levelek lefagyhatnak az utakon.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi și dramatice ale dinozaurilor; pedalați cu atenție, deoarece frunzele umede pot îngheța pe alei.",
+                "en": "The low winter sun casts long, dramatic shadows of the dinosaurs; cycle carefully as wet leaves can freeze on the paths in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Olivier",
+                "hu": "Étang de l'Olivier",
+                "ro": "Étang de l'Olivier",
+                "en": "Étang de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Radfahren am Seeufer kann bei Winterwind sehr anstrengend sein; nutzen Sie windgeschützte Abschnitte und halten Sie Ihr Tempo konstant zum Aufwärmen.",
+                "hu": "A tóparti biciklizés a téli szélben fárasztó lehet; keresse a szélvédett szakaszokat és tartson egyenletes tempót a testhőmérséklet megőrzéséhez.",
+                "ro": "Ciclismul pe malul lacului poate fi obositor în vântul de iarnă; folosiți secțiunile adăpostite și mențineți un ritm constant pentru a vă încălzi.",
+                "en": "Cycling along the lakeshore can be tiring in the winter wind; use sheltered sections and keep a steady pace to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Romaniquette",
+                "hu": "Plage de la Romaniquette",
+                "ro": "Plage de la Romaniquette",
+                "en": "Plage de la Romaniquette"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den einsamen Winterstrand in der Abenddämmerung; reflektierende Kleidung ist wichtig, wenn Sie nach Sonnenuntergang zurückradeln.",
+                "hu": "Élvezze a magányos téli strandot az esti szürkületben; a fényvisszaverő ruházat fontos, ha naplemente után teker vissza a városba.",
+                "ro": "Bucurați-vă de plaja pustie de iarnă în amurg; îmbrăcămintea reflectorizantă este esențială dacă pedalați înapoi după apusul soarelui.",
+                "en": "Enjoy the lonely winter beach in the evening twilight; reflective clothing is essential if you are cycling back after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Autós túráját a nyüzsgő Port des Heures Claires-nél kezdje, majd nézze meg a közeli Magic Mirrors épületét. Délben pihenjen a Plage de la Romaniquette napos partján, mielőtt felhajtana az Oppidum du Castellan történelmi magaslatára. Délután látogasson el a Pavillon de Grignan-hoz és autózzon egyet az Étang de l'Olivier körül. Zárásként tekintse meg távolról az Istres-Le Tubé légitámaszpontot.",
         "ro": "Începeți turul cu mașina la portul plin de viață Port des Heures Claires și vizitați modernul Magic Mirrors. La amiază, luați o pauză însorită la Plage de la Romaniquette, înainte de a urca spre Oppidum du Castellan. După-amiaza, explorați culturalul Pavillon de Grignan și conduceți în jurul lacului Étang de l'Olivier. Terminați cu o privire spre impresionanta bază aeriană Istres-Le Tubé.",
         "en": "Start your driving tour at the bustling Port des Heures Claires and check out the modern Magic Mirrors nearby. Midday allows for a sunny break at Plage de la Romaniquette before driving up to the historic heights of Oppidum du Castellan. In the afternoon, visit the culturally rich Pavillon de Grignan and take a scenic drive around Étang de l'Olivier. Finish with a view of the impressive Istres-Le Tubé Air Base from a safe distance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Istres bequem und trocken. Vormittags genießen wir den Blick auf den Hafen aus dem Wagen; mittags ist Magic Mirrors ein großartiger Indoor-Stopp. Nachmittags fahren wir zu den historischen Aussichtspunkten für kurze Abstecher. Der Abend endet an der Air Base; achten Sie auf schlechte Sichtverhältnisse bei starkem Regen auf den Landstraßen.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Istres-t. Délelőtt a kikötő látványát élvezzük a kocsiból; délben a Magic Mirrors egy kiváló fedett megálló. Délután a történelmi kilátópontokhoz autózunk rövid sétákra. Az este a légibázisnál zárul; ügyeljen a rossz látási viszonyokra az országutakon a heves esőzés idején.",
+            "ro": "Cu mașina explorăm Istres confortabil și la uscat. Dimineața admirăm vederea portului din mașină; la prânz, Magic Mirrors este o oprire excelentă în interior. După-amiaza conducem spre punctele panoramice istorice pentru scurte ieșiri. Seara se încheie la baza aeriană; atenție la vizibilitatea redusă pe drumurile județene în timpul ploii abundente.",
+            "en": "By car, explore Istres comfortably and dry. In the morning, enjoy the port views from the car; at noon, Magic Mirrors is a great indoor stop. In the afternoon, drive to historical viewpoints for short dashes outside. The evening ends at the Air Base; watch out for poor visibility on country roads during heavy rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port des Heures Claires",
+                "hu": "Port des Heures Claires",
+                "ro": "Port des Heures Claires",
+                "en": "Port des Heures Claires"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafenbecken und genießen Sie den Blick auf die Boote im Regen direkt aus dem warmen Auto; perfekt für graue Vormittage.",
+                "hu": "Parkoljon közvetlenül a kikötőnél, és élvezze a hajók látványát az esőben a meleg autóból; tökéletes program szürke délelőttökre.",
+                "ro": "Parcați lângă port și bucurați-vă de vederea bărciilor în ploaie direct din mașina caldă; ideal pentru diminețile cenușii.",
+                "en": "Park right by the harbor and enjoy the view of the boats in the rain directly from your warm car; perfect for gray mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Magic Mirrors",
+                "hu": "Magic Mirrors",
+                "ro": "Magic Mirrors",
+                "en": "Magic Mirrors"
+              },
+              "tip_5lang": {
+                "de": "Dieser wetterfeste Ort bietet oft kulturelle Veranstaltungen im Trockenen; nutzen Sie die Parkplätze in der Nähe für einen kurzen Weg ins Gebäude.",
+                "hu": "Ez az időjárásálló helyszín gyakran kínál fedett kulturális eseményeket; használja a közeli parkolót, hogy csak keveset kelljen az esőben gyalogolnia.",
+                "ro": "Această locație rezistentă la intemperii oferă adesea evenimente culturale la adăpost; folosiți parcarea din apropiere pentru un drum scurt până la intrare.",
+                "en": "This weatherproof venue often hosts cultural events indoors; use the nearby parking lot for a very short walk in the rain to the building entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Romaniquette",
+                "hu": "Plage de la Romaniquette",
+                "ro": "Plage de la Romaniquette",
+                "en": "Plage de la Romaniquette"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz am Strand und beobachten Sie die aufgewühlte See; ein kurzer Sprint zum Ufer lohnt sich für die frische Meeresbrise.",
+                "hu": "Hajtson le a strand melletti parkolóba, és figyelje a felkorbácsolt tengert; egy rövid sprint a partra megéri a friss tengeri szellőért.",
+                "ro": "Conduceți până la parcarea de lângă plajă și observați marea agitată; un scurt sprint până la mal merită pentru briza proaspătă a mării.",
+                "en": "Drive down to the beach parking lot and watch the choppy sea; a quick sprint to the shore is worth it for the fresh sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum du Castellan",
+                "hu": "Oppidum du Castellan",
+                "ro": "Oppidum du Castellan",
+                "en": "Oppidum du Castellan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unterhalb und nutzen Sie eine Regenpause für den Aufstieg; der Ausblick auf den Étang im Nebel ist vom Auto aus bereits mystisch.",
+                "hu": "Parkoljon le alul, és használja ki az esőmentes perceket a feljutáshoz; a ködös tó látványa már az autóból nézve is misztikus hangulatot áraszt.",
+                "ro": "Parcați jos și profitați de o pauză de ploaie pentru a urca; vederea lacului în ceață este mistică chiar și privită din mașină.",
+                "en": "Park below and use a break in the rain to head up; the view of the lake in the mist is mystical even when viewed from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon de Grignan",
+                "hu": "Pavillon de Grignan",
+                "ro": "Pavillon de Grignan",
+                "en": "Pavillon de Grignan"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um das Auto zu verlassen und Kunst im Trockenen zu erleben; der Parkplatz ist nah, sodass Sie kaum nass werden.",
+                "hu": "Ideális megálló, hogy kiszálljon az autóból és fedett helyen élvezze a művészetet; a parkoló közel van, így alig fog megázni.",
+                "ro": "O oprire ideală pentru a ieși din mașină și a experimenta arta la adăpost; parcarea este aproape, deci nu vă veți uda prea tare.",
+                "en": "An ideal stop to leave the car and experience art in the dry; the parking is close, so you will hardly get wet on your way inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Olivier",
+                "hu": "Étang de l'Olivier",
+                "ro": "Étang de l'Olivier",
+                "en": "Étang de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Die Uferstraße bietet tolle Ausblicke im Regen, ohne nass zu werden; halten Sie an den Aussichtspunkten für Fotos direkt durch die Scheibe.",
+                "hu": "A tóparti út remek kilátást nyújt az esőben anélkül, hogy megázna; álljon meg a kilátópontoknál, és fotózzon közvetlenül az autó ablakából.",
+                "ro": "Drumul de pe mal oferă vederi minunate în ploaie fără a vă uda; opriți la punctele de belvedere pentru fotografii direct prin geamul mașinii.",
+                "en": "The shore road offers great views in the rain without getting wet; stop at the viewpoints for photos directly through the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Istres-Le Tubé Air Base",
+                "hu": "Istres-Le Tubé Air Base",
+                "ro": "Istres-Le Tubé Air Base",
+                "en": "Istres-Le Tubé Air Base"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie startende Flugzeuge vom Parkplatz aus im Trockenen; bei starkem Regen wirken die Scheinwerfer der Jets besonders beeindruckend.",
+                "hu": "Figyelje a felszálló gépeket a parkolóból, kényelmesen a száraz kocsiban; heves esőben a sugárhajtású gépek fényszórói lenyűgöző látványt nyújtanak.",
+                "ro": "Observați avioanele care decolează din parcare, confortabil în mașina uscată; pe ploaie abundentă, farurile jeturilor arată impresionant.",
+                "en": "Watch the planes taking off from the parking lot, comfortably in your dry car; during heavy rain, the jet headlights look particularly impressive."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir das winterliche Istres warm und flexibel. Vormittags fahren wir zu den Küstenpunkten für klare Aussichten; mittags wärmen wir uns in den beheizten Kulturstätten auf. Nachmittags genießen wir die Wintersonne am See, bevor es früh dunkel wird. Der Abend endet an der Air Base; nutzen Sie die Sitzheizung gegen den kalten Mistral bei kurzen Stopps.",
+            "hu": "Autóval melegen és rugalmasan fedezzük fel a téli Istres-t. Délelőtt a part menti pontokhoz hajtunk a tiszta kilátásért; délben a fűtött kulturális helyszíneken melegszünk fel. Délután a téli napsütést élvezzük a tónál, mielőtt korán besötétedik. Az este a légibázisnál zárul; használja az ülésfűtést a kinti hideg Mistral szél elleni védekezésül.",
+            "ro": "Cu mașina explorăm Istres-ul hibernal la căldură și cu flexibilitate. Dimineața conducem spre punctele de coastă pentru vederi clare; la prânz ne încălzim în locațiile culturale încălzite. După-amiaza savurăm soarele de iarnă la lac înainte de a se înțepeni noaptea. Seara se încheie la baza aeriană; folosiți încălzirea în scaune contra Mistralului rece.",
+            "en": "By car, explore wintery Istres warmly and flexibly. In the morning, drive to coastal spots for clear views; at noon, warm up in heated cultural venues. In the afternoon, enjoy the winter sun at the lake before it gets dark early. The evening ends at the Air Base; use the seat heaters against the cold Mistral wind during short stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Port des Heures Claires",
+                "hu": "Port des Heures Claires",
+                "ro": "Port des Heures Claires",
+                "en": "Port des Heures Claires"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter sehr ruhig; parken Sie direkt am Wasser und genießen Sie die klare Sicht über das Meer im warmen Innenraum Ihres Autos.",
+                "hu": "A kikötő télen nagyon csendes; parkoljon közvetlenül a víz mellett, és élvezze a tiszta kilátást a tengerre az autója meleg belső teréből.",
+                "ro": "Portul este foarte liniștit iarna; parcați direct lângă apă și bucurați-vă de vederea clară a mării din interiorul cald al mașinii.",
+                "en": "The harbor is very quiet in winter; park right by the water and enjoy the clear view over the sea from the warm interior of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Magic Mirrors",
+                "hu": "Magic Mirrors",
+                "ro": "Magic Mirrors",
+                "en": "Magic Mirrors"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für winterliche Abendveranstaltungen; die Heizung im Gebäude sorgt für eine gemütliche Atmosphäre während der kulturellen Pause.",
+                "hu": "Remek helyszín téli esti rendezvényekhez; az épület fűtése gondoskodik a hangulatos légkörről a kulturális pihenő ideje alatt.",
+                "ro": "Un loc excelent pentru evenimente de seară iarna; încălzirea din clădire asigură o atmosferă primitoare în timpul pauzei culturale.",
+                "en": "A great venue for winter evening events; the heating in the building ensures a cozy atmosphere during your cultural break."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Romaniquette",
+                "hu": "Plage de la Romaniquette",
+                "ro": "Plage de la Romaniquette",
+                "en": "Plage de la Romaniquette"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die winterliche Meeresbrise bei einem kurzen Strandspaziergang; das Auto wartet direkt daneben aufgeheizt auf Ihre Rückkehr.",
+                "hu": "Tapasztalja meg a téli tengeri szellőt egy rövid strandbéli sétával; az autó közvetlenül mellette, befűtve várja majd a visszatérését.",
+                "ro": "Experimentați briza mării de iarnă cu o scurtă plimbare pe plajă; mașina vă așteaptă încălzită chiar lângă plajă pentru întoarcere.",
+                "en": "Experience the winter sea breeze with a short walk on the beach; your car waits right nearby, heated up for your return."
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum du Castellan",
+                "hu": "Oppidum du Castellan",
+                "ro": "Oppidum du Castellan",
+                "en": "Oppidum du Castellan"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sichtachsen vom Parkplatz aus; ein kurzer Aufstieg hält den Kreislauf in der Kälte in Schwung.",
+                "hu": "A tiszta téli levegő távoli kilátást tesz lehetővé már a parkolóból is; egy rövid felkapaszkodás pedig segít felpezsdíteni a vérkeringést a hidegben.",
+                "ro": "Aerul curat de iarnă permite vederi la mare distanță chiar din parcare; o urcare scurtă vă va ajuta să vă mențineți circulația activă în frig.",
+                "en": "The clear winter air allows for distant views even from the parking lot; a short climb up will help keep your circulation going in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon de Grignan",
+                "hu": "Pavillon de Grignan",
+                "ro": "Pavillon de Grignan",
+                "en": "Pavillon de Grignan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen fahrzeugnahen Stopp, um sich bei Kunstausstellungen im Warmen die Beine zu vertreten; perfekt für kühle Wintertage.",
+                "hu": "Használja ki ezt a parkolóhoz közeli megállót, hogy a meleg kiállítótermekben mozgassa meg a lábait; tökéletes program hűvös téli napokon.",
+                "ro": "Folosiți această oprire aproape de parcare pentru a vă dezmorți picioarele la expoziții de artă la căldură; perfect pentru zilele reci de iarnă.",
+                "en": "Use this parking-adjacent stop to stretch your legs while enjoying art exhibitions in the warm; perfect for chilly winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de l'Olivier",
+                "hu": "Étang de l'Olivier",
+                "ro": "Étang de l'Olivier",
+                "en": "Étang de l'Olivier"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am See entlang und bewundern Sie das winterliche Licht auf dem Wasser; der Wind stört Sie im Inneren des Wagens nicht.",
+                "hu": "Hajtson lassan a tó mentén, és csodálja meg a vízen megcsillanó téli fényeket; a szél az autó belsejében egyáltalán nem fogja zavarni.",
+                "ro": "Conduceți încet de-a lungul lacului și admirați lumina de iarnă pe apă; vântul nu vă va deranja deloc în interiorul mașinii.",
+                "en": "Drive slowly along the lake and admire the winter light on the water; the wind won't bother you at all from inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Istres-Le Tubé Air Base",
+                "hu": "Istres-Le Tubé Air Base",
+                "ro": "Istres-Le Tubé Air Base",
+                "en": "Istres-Le Tubé Air Base"
+              },
+              "tip_5lang": {
+                "de": "Die dunkle Winternacht lässt die Befeuerung der Landebahn hell erstrahlen; genießen Sie dieses technische Spektakel aus Ihrem geheizten Auto.",
+                "hu": "A sötét téli éjszakában messzire világítanak a kifutópálya fényei; élvezze ezt a technikai látványosságot a befűtött autójából.",
+                "ro": "Noaptea întunecată de iarnă face ca luminile pistei să strălucească puternic; bucurați-vă de acest spectacol tehnic din mașina încălzită.",
+                "en": "The dark winter night makes the runway lights shine brightly; enjoy this technical spectacle from the comfort of your heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

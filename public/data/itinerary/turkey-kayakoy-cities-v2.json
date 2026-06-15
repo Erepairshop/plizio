@@ -160,6 +160,196 @@
         "hu": "A reggel a falu bejáratánál indul, történelmi alaphangot adva az Alsó templom felfedezése előtt. A dél dél felé haladva elhagyatott sikátorokba és rejtett kápolnákba vezet. Délután hódítsa meg a magaslatokat a Felső templomhoz. Az este a távoli romok között ér véget, miközben a lemenő nap gyönyörű fényekkel árasztja el a tájat.",
         "ro": "Dimineața începe la intrarea în sat, stabilind un ton istoric înainte de explorarea Bisericii de Jos. Amiaza vă duce mai adânc pe aleile abandonate spre capele ascunse. După-amiaza urcați spre Biserica Înaltă și Capela Înaltă. Seara se încheie printre ruinele îndepărtate, într-o atmosferă magică, în timp ce soarele apune peste vale.",
         "en": "Morning begins at the village entrance, setting a historical tone before exploring the Lower Church. Midday takes you deeper into the abandoned alleys, discovering hidden chapels. In the afternoon, conquer the heights to reach the High Church and High Chapel. The evening concludes among the evocative distant ruins as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Kreisverkehr; bringen Sie einen stabilen Regenschirm mit. Mittags erkunden Sie die unteren Ruinen vorsichtig, da die Wege schlammig werden. Nachmittags geht es zu den oberen Kapellen; suchen Sie bei starken Schauern in den massiven Ruinen Schutz. Der Abend endet wegen des Regens früh; genießen Sie die neblige Stimmung des verlassenen Dorfes.",
+            "hu": "A reggel a körforgalmi emlékműnél indul; hozzon strapabíró esernyőt. Délben óvatosan fedezze fel az alsó romokat, az ösvények sarasak lehetnek. Délután a felső kápolnákhoz érünk; heves záporok idején húzódjon be a vastag falak közé. Az este az eső miatt hamarabb véget ér; élvezze az elhagyatott falu titokzatos, ködös hangulatát.",
+            "ro": "Dimineața începe la sensul giratoriu; aduceți o umbrelă rezistentă. La prânz, explorați ruinele de jos cu grijă, potecile devin noroioase. După-amiaza continuă spre capelele superioare; căutați adăpost în structurile solide în timpul averselor. Seara se încheie devreme din cauza ploii; bucurați-vă de atmosfera cețoasă a satului părăsit.",
+            "en": "Morning starts at the roundabout monument; bring a sturdy umbrella. By noon, explore the lower ruins and churches carefully, as paths get muddy. Afternoon continues to the higher chapels; seek shelter inside the solid structures during heavy showers. Evening concludes early due to rain; enjoy the atmospheric, misty views of the abandoned village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kreisverkehr-Wegweiserdenkmal",
+                "hu": "Körforgalmi útjelző emlékmű",
+                "ro": "Monumentul indicator rutier din sensul giratoriu",
+                "en": "Roundabout signpost monument"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, aber achten Sie auf rutschiges Pflaster um das Denkmal herum.",
+                "hu": "Kezdje itt a sétát, de ügyeljen a nedves és csúszós burkolatra az emlékmű körül.",
+                "ro": "Începeți plimbarea aici, dar aveți grijă la pavajul alunecos din jurul monumentului.",
+                "en": "Start your rainy walk here to get your bearings, but be careful of slippery pavement around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Kirche",
+                "hu": "Alsó templom",
+                "ro": "Biserica de Jos",
+                "en": "Lower Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken und nutzen Sie das dicke Mauerwerk als kurzen Regenschutz.",
+                "hu": "Csodálja meg a freskókat, és használja a vastag falakat rövid menedékként az eső elől.",
+                "ro": "Admirați frescele și folosiți pereții groși ca un scurt adăpost împotriva ploii.",
+                "en": "Admire the remaining frescoes inside, which offer a brief respite from the rain while you learn about its history."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle",
+                "hu": "Kápolna",
+                "ro": "Capelă",
+                "en": "Chapel"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle bietet einen trockenen Ort, um bei plötzlichen Güssen das alte Mauerwerk zu betrachten.",
+                "hu": "Ez a kis kápolna száraz helyet biztosít, ahol hirtelen záporok idején megpihenhet.",
+                "ro": "Această mică capelă oferă un loc uscat pentru a face o pauză în timpul ploilor bruște.",
+                "en": "This small chapel provides a cozy, dry spot to pause and appreciate the ancient stonework during sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Hochkirche",
+                "hu": "Felső templom",
+                "ro": "Biserica Înaltă",
+                "en": "High Church"
+              },
+              "tip_5lang": {
+                "de": "Klettern Sie vorsichtig auf den nassen Steinen und suchen Sie unter den verbliebenen Bögen Schutz.",
+                "hu": "Másszon fel óvatosan a nedves köveken, és keressen menedéket a megmaradt boltívek alatt.",
+                "ro": "Urcați cu grijă pe pietrele ude și căutați adăpost sub arcadele rămase.",
+                "en": "Climb carefully on the wet stones to see this impressive structure, taking shelter under its remaining arches."
+              }
+            },
+            {
+              "name": {
+                "de": "Hochkapelle",
+                "hu": "Felső kápolna",
+                "ro": "Capela Înaltă",
+                "en": "High Chapel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den nebligen Panoramablick, aber tragen Sie Schuhe mit hervorragendem Profil.",
+                "hu": "Élvezze a ködös panorámát, de mindenképpen kiváló tapadású cipőt viseljen a feljutáshoz.",
+                "ro": "Bucurați-vă de priveliștile panoramice cețoase, dar asigurați-vă că aveți încălțăminte cu aderență bună.",
+                "en": "Enjoy the misty panoramic views of Kayaköy from here, but ensure you have footwear with excellent grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen einer Kirche",
+                "hu": "Egy templom romjai",
+                "ro": "Ruinele unei biserici",
+                "en": "ruins of a church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese stimmungsvollen Ruinen und achten Sie auf unebenes, nasses Gelände.",
+                "hu": "Fedezze fel ezeket a hangulatos romokat, nagyon figyelve az egyenetlen, nedves talajra.",
+                "ro": "Explorați aceste ruine atmosferice, pășind cu grijă pe terenul umed și neuniform.",
+                "en": "Explore these atmospheric, rain-soaked ruins at the end of your walk, stepping carefully over damp, uneven terrain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt kühl am Denkmal; tragen Sie warme Schichten. Mittags wärmt die Wintersonne die Steine der unteren Kirchen. Der Nachmittagsaufstieg zu den oberen Kapellen bietet eine klare Aussicht ohne die Sommerhitze. Der Abend bricht gegen 17:00 Uhr früh herein; beenden Sie Ihre Erkundung rechtzeitig und suchen Sie sich einen warmen Ort.",
+            "hu": "A reggel hűvösen indul az emlékműnél; öltözzön melegen, rétegesen. Délben a téli nap kellemesen megvilágítja a köveket az alsó templomoknál. A délutáni séta a felső kápolnákhoz tiszta kilátást nyújt a nyári hőség nélkül. Az este gyorsan, 17:00 körül közeleg, így időben fejezze be a túrát, és térjen vissza egy fűtött helyre.",
+            "ro": "Dimineața este răcoroasă la monument; purtați straturi calde. La prânz, soarele de iarnă încălzește ruinele de piatră în timp ce explorați bisericile. Urcușul de după-amiază spre capele oferă priveliști clare, fără căldura verii. Seara vine repede, în jur de 17:00, așa că terminați devreme și îndreptați-vă spre un loc cald.",
+            "en": "Morning begins crisp and cool at the monument; wear warm layers. By noon, the winter sun gently warms the stone ruins as you explore the lower churches. Afternoon hikes up to the higher chapels offer clear, stunning views without the summer heat. Evening falls quickly around 17:00, so finish your exploration early and head back to a warm place."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kreisverkehr-Wegweiserdenkmal",
+                "hu": "Körforgalmi útjelző emlékmű",
+                "ro": "Monumentul indicator rutier din sensul giratoriu",
+                "en": "Roundabout signpost monument"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie die Route in der klaren Winterluft und packen Sie sich warm ein.",
+                "hu": "Nézze meg az útvonalat a friss téli levegőn, ügyelve a meleg és réteges öltözetre.",
+                "ro": "Verificați traseul în aerul curat de iarnă, asigurându-vă că sunteți îmbrăcat gros.",
+                "en": "Check the route on the signpost in the crisp winter air, making sure you are bundled up before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Kirche",
+                "hu": "Alsó templom",
+                "ro": "Biserica de Jos",
+                "en": "Lower Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das kühle Innere; das Fehlen von Menschenmassen macht es zu einem friedlichen Stopp.",
+                "hu": "Fedezze fel a hűvös belső teret; a nyári tömeg hiánya békés téli állomássá teszi.",
+                "ro": "Explorați interiorul răcoros; lipsa aglomerației o face o oprire pașnică de iarnă.",
+                "en": "Explore the cool, shadowed interior of the church; the lack of summer crowds makes it a peaceful winter stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle",
+                "hu": "Kápolna",
+                "ro": "Capelă",
+                "en": "Chapel"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Flecken des Wintersonnenlichts auf, die durch die Ruinen scheinen.",
+                "hu": "Melegedjen meg a romokon átszűrődő téli napsugarakban ennél a történelmi kápolnánál.",
+                "ro": "Încălziți-vă în lumina soarelui de iarnă care strălucește prin ruinele acestei capele istorice.",
+                "en": "Take a moment at this historic chapel to warm up in the patches of winter sunlight shining through the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Hochkirche",
+                "hu": "Felső templom",
+                "ro": "Biserica Înaltă",
+                "en": "High Church"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm; genießen Sie die Architektur vor dem klaren Winterhimmel.",
+                "hu": "A mászás gyorsan felmelegíti; élvezze a tiszta téli égbolt előtt magasodó lenyűgöző építészetet.",
+                "ro": "Urcușul vă încălzește rapid; bucurați-vă de arhitectura impresionantă pe cerul senin de iarnă.",
+                "en": "The climb keeps you warm; enjoy the striking architecture standing out sharply against the clear winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Hochkapelle",
+                "hu": "Felső kápolna",
+                "ro": "Capela Înaltă",
+                "en": "High Chapel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das weiche Winternachmittagslicht für atemberaubende Fotos des Tals.",
+                "hu": "Készítsen lélegzetelállító fotókat a völgyről, kihasználva a lágy téli délutáni fényeket.",
+                "ro": "Profitați de lumina blândă a după-amiezii de iarnă pentru fotografii uimitoare ale văii.",
+                "en": "Capture breathtaking photos of the valley from here, taking advantage of the beautiful, soft winter afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen einer Kirche",
+                "hu": "Egy templom romjai",
+                "ro": "Ruinele unei biserici",
+                "en": "ruins of a church"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie durch diese ruhigen Ruinen, während die Sonne früh in der kühlen Luft untergeht.",
+                "hu": "Sétáljon a csendes romok között a korai naplemente idején, élvezve a friss, csípős levegőt.",
+                "ro": "Plimbați-vă prin aceste ruine liniștite în timp ce soarele apune devreme în aerul rece.",
+                "en": "Wander through these quiet ruins as the sun begins to set early, reflecting on the history in the chilly air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpározást a falu körforgalmánál, és nézze meg a történelmi Alsó templomot a hűvös reggeli levegőn. Délben a felfelé tekerés jutalma a lenyűgöző Felső templom. A délután a partvidéké, a víztározó megtekintésével és fürdéssel a Cold Water Bay-ben. Az este a Camel Beach lágy hullámai melletti pihenéssel telik.",
         "ro": "Începeți plimbarea la sensul giratoriu, vizitând Biserica de Jos în aerul răcoros al dimineții. La prânz, pedalatul la deal vă răsplătește cu impresionanta Biserică Înaltă. După-amiaza se concentrează pe coastă, vizitând vechiul rezervor și înotând în Cold Water Bay. Seara vă găsește relaxându-vă la valurile liniștitoare de la Camel Beach.",
         "en": "Start your ride at the village roundabout, taking in the historical Lower Church in the cool morning air. By midday, pedaling uphill rewards you with the impressive High Church. The afternoon shifts to coastal exploration, visiting the Ancient Reservoir and swimming in Cold Water Bay. Evening finds you relaxing by the soothing waves of Camel Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Morgenfahrt beginnt am Denkmal; tragen Sie wasserdichte Radkleidung. Mittags radeln Sie an den alten Kirchen vorbei; achten Sie besonders auf rutschige, nasse Straßen. Nachmittags geht es hinab zu den Buchten; die Wege zum Strand können schlammig sein, fahren Sie langsam. Der Abend endet früh nach einer nassen, aber lohnenden Fahrt; reinigen Sie Ihr Fahrrad rechtzeitig.",
+            "hu": "A reggeli kerékpározás az emlékműnél indul; viseljen vízálló felszerelést. Délben tekerjen el az ősi templomok és a víztározó mellett, nagyon figyelve a csúszós utakra. Délután ereszkedjen le az öblök felé; a partra vezető utak sarasak lehetnek, lassítson. Az este korán véget ér; tisztítsa meg a kerékpárt egy kihívásokkal teli, esős túra után.",
+            "ro": "Plimbarea matinală începe la monument; purtați echipament de ciclism impermeabil. La prânz, pedalați pe lângă biserici, având grijă la drumurile umede și alunecoase. După-amiaza coborâți spre golfuri; potecile spre plajă pot fi noroioase, așa că reduceți viteza. Seara se termină devreme cu curățarea bicicletei după o cursă umedă, dar plină de satisfacții.",
+            "en": "Morning ride starts at the roundabout; wear waterproof cycling gear. By noon, bike past the ancient churches and reservoir, taking extra care on slick, wet roads. Afternoon descends towards the bays; paths to the beach can be muddy, so reduce your speed. Evening ends early; clean your bike and dry off after a challenging but rewarding wet ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kreisverkehr-Wegweiserdenkmal",
+                "hu": "Körforgalmi útjelző emlékmű",
+                "ro": "Monumentul indicator rutier din sensul giratoriu",
+                "en": "Roundabout signpost monument"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie hier Ihre Bremsen, da der nasse Asphalt Ihren Bremsweg deutlich verlängert.",
+                "hu": "Indulás előtt ellenőrizze a fékeket, mivel a nedves aszfalt megnöveli a fékutat.",
+                "ro": "Verificați-vă frânele aici, deoarece asfaltul ud va crește distanța de frânare.",
+                "en": "Check your brakes and gear here before setting off, as the wet pavement will increase your stopping distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Kirche",
+                "hu": "Alsó templom",
+                "ro": "Biserica de Jos",
+                "en": "Lower Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und erkunden Sie die überdachten Teile während starker Regengüsse.",
+                "hu": "Parkolja le a kerékpárt, és fedezze fel a védett részeket egy-egy hevesebb esőzés alatt.",
+                "ro": "Parcați bicicleta cu grijă; explorați părțile adăpostite în timpul ploilor torențiale.",
+                "en": "Park your bike carefully; explore the sheltered parts of the church while waiting out heavy bursts of rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hochkirche",
+                "hu": "Felső templom",
+                "ro": "Biserica Înaltă",
+                "en": "High Church"
+              },
+              "tip_5lang": {
+                "de": "Die Bergauffahrt ist rutschig; schieben Sie bei Bedarf und bewundern Sie die regengepeitschte Architektur.",
+                "hu": "Az emelkedő csúszós; szükség esetén tolja a biciklit, és csodálja meg az eső áztatta épületeket.",
+                "ro": "Urcușul este alunecos; împingeți bicicleta dacă este necesar și admirați arhitectura plouată.",
+                "en": "The uphill ride is slippery; push your bike if needed and marvel at the moody, rain-swept architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Wasserspeicher",
+                "hu": "Ősi víztározó",
+                "ro": "Rezervor antic de apă",
+                "en": "Ancient Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie das alte Reservoir im Regen lebendig wird; achten Sie auf glatte Steine.",
+                "hu": "Nézze meg, hogyan telik meg élettel az ősi víztározó esőben; ügyeljen a csúszós kövekre.",
+                "ro": "Vedeți cum rezervorul antic prinde viață în ploaie; aveți grijă la pietrele alunecoase din jur.",
+                "en": "See how the ancient reservoir comes alive in the rain; watch your step on the slick surrounding stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaltwasserbucht",
+                "hu": "Hideg vizű öböl",
+                "ro": "Golful cu Apă Rece",
+                "en": "Cold Water Bay"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht sieht dramatisch aus; meiden Sie schlammige Kanten und genießen Sie die wilden Wellen.",
+                "hu": "Az öböl drámai látványt nyújt; kerülje a saras peremeket, és élvezze a vad hullámokat tisztes távolból.",
+                "ro": "Golful arată dramatic în ploaie; stați departe de marginile noroioase și bucurați-vă de valurile sălbatice.",
+                "en": "The bay looks dramatic in the rain; keep off muddy edges and enjoy the wild, crashing waves from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamelstrand",
+                "hu": "Teve-part",
+                "ro": "Plaja Cămilei",
+                "en": "Camel beach"
+              },
+              "tip_5lang": {
+                "de": "Radfahren auf nassem Sand ist schwer; lassen Sie das Rad auf festem Grund und genießen Sie die Sturmstimmung.",
+                "hu": "A nedves homokon nehéz tekerni; hagyja a kerékpárt szilárd talajon, és élvezze a viharos partot.",
+                "ro": "Ciclismul pe nisip ud este dificil; lăsați bicicleta pe pământ solid și bucurați-vă de atmosfera furtunoasă.",
+                "en": "Cycling on wet sand is tough; leave your bike on solid ground and enjoy the stormy seaside atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch am Denkmal; tragen Sie Thermo-Radkleidung und Handschuhe. Mittags hält Sie die Anstrengung beim Erkunden der Kirchen und des Reservoirs warm. Die Nachmittagsfahrt zu den Stränden ist erfrischend, mit leeren Ufern und kühler Meeresbrise. Der Abend naht schnell gegen 17:00 Uhr; denken Sie an Ihre Fahrradbeleuchtung für die frühe Dämmerung.",
+            "hu": "A reggel frissen indul az emlékműnél; viseljen termo kerékpáros ruházatot és kesztyűt. Délben a tekerés melegen tartja, miközben felfedezi a templomokat és a víztározót. A délutáni gurulás a partra üdítő, üres strandokkal és friss tengeri szellővel. Az este 17:00 körül hirtelen leereszkedik, mindenképpen legyen működő lámpája a korai sötétedéshez.",
+            "ro": "Dimineața începe energic la monument; purtați haine de ciclism termice și mănuși. La prânz, efortul vă ține de cald în timp ce explorați bisericile. Coborârea de după-amiază spre plaje este revigorantă, cu țărmuri goale și briză marină proaspătă. Seara vine repede, la 17:00, asigurați-vă că aveți lumini la bicicletă pentru întunericul timpuriu.",
+            "en": "Morning starts brisk at the monument; wear thermal cycling layers and gloves. By noon, the physical effort keeps you warm as you explore the churches and the old reservoir. Afternoon rides down to the beaches are refreshing, with empty shores and crisp sea breezes. Evening approaches fast by 17:00, so ensure you have working bike lights for the early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kreisverkehr-Wegweiserdenkmal",
+                "hu": "Körforgalmi útjelző emlékmű",
+                "ro": "Monumentul indicator rutier din sensul giratoriu",
+                "en": "Roundabout signpost monument"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Winterfahrt hier und stellen Sie sicher, dass Hände und Ohren gut geschützt sind.",
+                "hu": "Indítsa itt a téli túrát, ügyelve arra, hogy a keze és a füle is jól védve legyen a metsző szél ellen.",
+                "ro": "Începeți cursa de iarnă aici, asigurându-vă că mâinile și urechile sunt bine protejate împotriva vântului.",
+                "en": "Start your winter ride here, making sure your hands and ears are well protected against the biting morning wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Kirche",
+                "hu": "Alsó templom",
+                "ro": "Biserica de Jos",
+                "en": "Lower Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause vom Treten und erkunden Sie diese leere Kirche im weichen Winterlicht.",
+                "hu": "Tartson egy rövid pihenőt, és fedezze fel a néptelen templomot a lágy téli reggeli fényben.",
+                "ro": "Faceți o scurtă pauză de la pedalat pentru a explora această biserică liniștită în lumina moale de iarnă.",
+                "en": "Take a short break from pedaling to explore this quiet, uncrowded church in the soft winter morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Hochkirche",
+                "hu": "Felső templom",
+                "ro": "Biserica Înaltă",
+                "en": "High Church"
+              },
+              "tip_5lang": {
+                "de": "Die steile Fahrt wärmt Sie auf; die markanten Ruinen heben sich wunderbar vom blassen Winterhimmel ab.",
+                "hu": "A meredek út gyorsan bemelegíti; a látványos romok gyönyörűen elütnek a sápadt téli égtől.",
+                "ro": "Urcușul abrupt vă încălzește rapid; ruinele izbitoare ies frumos în evidență pe cerul palid de iarnă.",
+                "en": "The steep ride warms you up quickly; the striking ruins stand out beautifully against the pale winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Wasserspeicher",
+                "hu": "Ősi víztározó",
+                "ro": "Rezervor antic de apă",
+                "en": "Ancient Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Inspizieren Sie dieses Meisterwerk ohne Sommerhitze und genießen Sie die friedliche, frostige Umgebung.",
+                "hu": "Vizsgálja meg ezt a mérnöki csodát a nyári hőség nélkül, élvezve a békés, fagyos környezetet.",
+                "ro": "Inspectați această minune a ingineriei fără căldura verii, bucurându-vă de împrejurimile liniștite și geroase.",
+                "en": "Inspect this engineering marvel without the summer heat, enjoying the peaceful, frosty surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaltwasserbucht",
+                "hu": "Hideg vizű öböl",
+                "ro": "Golful cu Apă Rece",
+                "en": "Cold Water Bay"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die verlassene Bucht; die winterliche Meeresbrise ist frisch, aber unglaublich erfrischend.",
+                "hu": "Tapasztalja meg az elhagyatott öböl szépségét; a téli tengeri szél csípős, de hihetetlenül frissítő.",
+                "ro": "Experimentați frumusețea senină a golfului pustiu; briza mării de iarnă este rece, dar incredibil de revigorantă.",
+                "en": "Experience the serene beauty of the deserted bay; the winter sea breeze is brisk but incredibly refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamelstrand",
+                "hu": "Teve-part",
+                "ro": "Plaja Cămilei",
+                "en": "Camel beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt an diesem leeren Winterstrand, bevor die Sonne früh untergeht.",
+                "hu": "Zárja a túrát ezen az üres téli strandon, elmerülve a parti kilátásban a korai naplemente előtt.",
+                "ro": "Încheiați-vă plimbarea pe această plajă goală de iarnă, înainte ca soarele să apună devreme.",
+                "en": "End your ride on this empty winter beach, taking in the serene coastal views before the sun sets early."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az autózás a fő emlékműnél kezdődik, mielőtt felfedezné a szellemfalu ikonikus Felső és Alsó templomait. Délben gyors, festői autózás visz a partra az ősi víztározóhoz. A délután színtiszta kikapcsolódás a frissítő Cold Water Bay-ben. A nap egy gyönyörű naplementés autózással zárul a Camel Beach felé.",
         "ro": "Călătoria cu mașina începe la monumentul principal înainte de a vizita faimoasele biserici din satul fantomă. La prânz, un drum scurt și pitoresc coboară spre coastă pentru a descoperi vechiul rezervor. După-amiaza este de recreere, înotând în Cold Water Bay. Ziua se încheie cu un drum la apus spre relaxanta Camel Beach.",
         "en": "Your drive starts at the main monument before checking out the iconic High and Lower Churches of the ghost village. Midday allows a quick, scenic drive down to the coast to discover the Ancient Water Reservoir. The afternoon is purely recreational, splashing in the refreshing Cold Water Bay. The day wraps up with a sunset drive to Camel Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt beginnt am Denkmal; prüfen Sie Ihre Scheibenwischer. Mittags navigieren Sie vorsichtig zu den Ruinen, da lokale Straßen rutschig und überflutet sein können. Nachmittags erfordert die Fahrt zu den Buchten Vorsicht in nassen Kurven. Der Abend endet wegen schlechter Sicht früh; fahren Sie sicher zu einer gemütlichen und trockenen Unterkunft.",
+            "hu": "A reggeli autózás az emlékműnél indul; ellenőrizze az ablaktörlőket. Délben óvatosan navigáljon a romok és a víztározó felé, a helyi utak csúszósak és tócsásak lehetnek. Délután az öblökhöz vezető kanyargós parti utakon fokozott figyelem szükséges. Az este a rossz látási viszonyok miatt hamar véget ér; térjen vissza biztonságban egy száraz, meleg szállásra.",
+            "ro": "Condusul matinal începe la monument; asigurați-vă că ștergătoarele funcționează. La prânz, conduceți cu atenție spre ruine și rezervor, drumurile pot fi alunecoase. După-amiaza, coborârea spre golfuri necesită prudență la curbele ude de pe coastă. Seara se încheie devreme din cauza vizibilității reduse; întoarceți-vă în siguranță la o cazare uscată.",
+            "en": "Morning driving begins at the monument; ensure your windshield wipers are working well. By noon, navigate carefully to the ruins and reservoir, as local roads can be slick and flooded. Afternoon drives down to the bays require caution on wet coastal curves. Evening concludes early due to poor visibility; head back safely to a cozy, dry accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kreisverkehr-Wegweiserdenkmal",
+                "hu": "Körforgalmi útjelző emlékmű",
+                "ro": "Monumentul indicator rutier din sensul giratoriu",
+                "en": "Roundabout signpost monument"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier Ihre Route und achten Sie auf tiefe Pfützen an der Kreuzung.",
+                "hu": "Tervezze meg innen az útvonalat, figyelve a körforgalom körül kialakuló mély tócsákra.",
+                "ro": "Planificați-vă traseul de aici, fiind atenți la bălțile adânci care se formează la intersecție.",
+                "en": "Plan your driving route from here, keeping an eye out for deep puddles forming around the roundabout intersection."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Kirche",
+                "hu": "Alsó templom",
+                "ro": "Biserica de Jos",
+                "en": "Lower Church"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie schnell vom geparkten Auto ins Innere der Kirche, um der Geschichte im Trockenen zu begegnen.",
+                "hu": "Szaladjon át a parkoló autóból a templom belsejébe, hogy a történelem nagy részét szárazon csodálhassa meg.",
+                "ro": "Fugiți de la mașina parcată în interiorul bisericii pentru a admira istoria stând în mare parte departe de ploaie.",
+                "en": "Dash from your parked car to the church interior to admire the history while staying mostly out of the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Hochkirche",
+                "hu": "Felső templom",
+                "ro": "Biserica Înaltă",
+                "en": "High Church"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig heran; bringen Sie einen Regenschirm mit, um die imposanten Ruinen zu erkunden.",
+                "hu": "Vezessen óvatosan a felvezető úton; vigyen magával esernyőt a lenyűgöző felső romok felfedezéséhez.",
+                "ro": "Conduceți cu atenție la apropiere; aduceți o umbrelă pentru a vă plimba prin ruinele impunătoare.",
+                "en": "Drive carefully on the approach; bring an umbrella to walk around the imposing ruins of this upper structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Wasserspeicher",
+                "hu": "Ősi víztározó",
+                "ro": "Rezervor antic de apă",
+                "en": "Ancient Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Sammeln von Wasser und treten Sie auf dem schlammigen Parkplatz vorsichtig auf.",
+                "hu": "Figyelje meg a vízgyűjtő rendszert, és lépkedjen óvatosan a parkoló körüli saras talajon.",
+                "ro": "Observați cum cisternele colectau apa, pășind cu prudență pe terenul noroios de lângă parcare.",
+                "en": "Observe how the ancient cisterns collected water, stepping cautiously on the muddy ground near the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaltwasserbucht",
+                "hu": "Hideg vizű öböl",
+                "ro": "Golful cu Apă Rece",
+                "en": "Cold Water Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die turbulente See aus dem warmen Auto oder steigen Sie kurz mit einem Regenmantel aus.",
+                "hu": "Élvezze a viharos tenger látványát a meleg autóból, vagy lépjen ki egy pillanatra esőkabátban.",
+                "ro": "Bucurați-vă de vederea turbulentă a mării din căldura mașinii sau ieșiți scurt cu o pelerină de ploaie.",
+                "en": "Enjoy the moody, turbulent view of the sea from the warmth of your car, or step out briefly with a sturdy raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamelstrand",
+                "hu": "Teve-part",
+                "ro": "Plaja Cămilei",
+                "en": "Camel beach"
+              },
+              "tip_5lang": {
+                "de": "Der Regen macht die Strandstraße schlammig; fahren Sie langsam und genießen Sie den Sturm sicher.",
+                "hu": "Az eső sárgáztatja a parti utat; vezessen lassan, és csodálja a drámai vihart biztonságos helyről.",
+                "ro": "Ploaia transformă drumul spre plajă în noroi; conduceți încet și bucurați-vă de furtuna de pe coastă dintr-un loc sigur.",
+                "en": "The rain turns the beach road muddy; drive slowly and enjoy the dramatic coastal storm views from a safe spot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Kreisverkehr; die Autoheizung ist eine willkommene Wohltat gegen die Kälte. Mittags genießen Sie eine reibungslose Fahrt zwischen den alten Ruinen. Nachmittags geht es an die Küste mit klarem Wintermeerblick ohne Menschenmassen. Der Abend kommt schnell gegen 17:00 Uhr; fahren Sie vorsichtig, da die Straßen nach Sonnenuntergang gefrieren können.",
+            "hu": "A reggel a körforgalomnál indul; az autó fűtése kellemes menedék a hideg ellen. Délben élvezze a forgalommentes autózást az ősi romok és a víztározó között. Délután ereszkedjen le a partra, ahol csodás, tiszta téli tengeri kilátás fogadja tömeg nélkül. Az este 17:00-kor hirtelen beköszönt; vezessen óvatosan, mert az utak fagyosak lehetnek.",
+            "ro": "Dimineața începe la sensul giratoriu; încălzirea mașinii este un confort binevenit împotriva frigului. La prânz, bucurați-vă de un condus fără trafic între ruine și rezervor. După-amiaza coboară spre coastă, oferind priveliști spectaculoase ale mării. Seara vine repede la 17:00; conduceți cu atenție, drumurile pot îngheța după apusul soarelui.",
+            "en": "Morning starts at the roundabout; the car heater is a welcome comfort against the cold. By noon, enjoy smooth, traffic-free driving between the ancient ruins and the reservoir. Afternoon descends to the coastline, offering spectacular, clear winter sea views without the crowds. Evening arrives fast around 17:00; drive carefully as the roads may freeze after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kreisverkehr-Wegweiserdenkmal",
+                "hu": "Körforgalmi útjelző emlékmű",
+                "ro": "Monumentul indicator rutier din sensul giratoriu",
+                "en": "Roundabout signpost monument"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie hier im warmen Auto Ihr GPS ein und planen Sie eine klare Route durch die ruhigen Winterstraßen.",
+                "hu": "Állítsa be a GPS-t a meleg autóban, és tervezze meg az útvonalat a csendes, téli utakon.",
+                "ro": "Setați-vă GPS-ul aici în confortul mașinii calde, planificând un traseu clar pe drumurile liniștite de iarnă.",
+                "en": "Set your GPS here in the comfort of your warm car, plotting a clear route through the quiet winter roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Kirche",
+                "hu": "Alsó templom",
+                "ro": "Biserica de Jos",
+                "en": "Lower Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und ziehen Sie sich warm an, bevor Sie diese historische, leere Stätte erkunden.",
+                "hu": "Parkoljon le a közelben, és öltözzön fel melegen, mielőtt kilépne a friss téli levegőre.",
+                "ro": "Parcați în apropiere și îmbrăcați-vă gros înainte de a ieși în aerul rece de iarnă pentru a explora.",
+                "en": "Park nearby and layer up before stepping out into the crisp winter air to explore this historic, uncrowded site."
+              }
+            },
+            {
+              "name": {
+                "de": "Hochkirche",
+                "hu": "Felső templom",
+                "ro": "Biserica Înaltă",
+                "en": "High Church"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist ohne Sommerverkehr einfach; steigen Sie aus, um die Architektur in der hellen Wintersonne zu bewundern.",
+                "hu": "A feljutás a nyári forgalom nélkül egyszerű; szálljon ki, és csodálja meg az építészetet a ragyogó téli napfényben.",
+                "ro": "Urcușul cu mașina este ușor fără traficul de vară; ieșiți pentru a admira arhitectura în soarele strălucitor de iarnă.",
+                "en": "The drive up is easy without summer traffic; step out to admire the striking architecture in the bright winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Wasserspeicher",
+                "hu": "Ősi víztározó",
+                "ro": "Rezervor antic de apă",
+                "en": "Ancient Water Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen Spaziergang um diese Struktur und genießen Sie die Stille der Winterlandschaft.",
+                "hu": "Tegyen egy békés sétát a víztározó körül, élvezve a téli táj csendjét, mielőtt visszatér a kocsiba.",
+                "ro": "Faceți o plimbare liniștită în jurul acestei structuri antice, bucurându-vă de tăcerea peisajului de iarnă.",
+                "en": "Take a peaceful walk around this ancient structure, enjoying the silence of the winter landscape before returning to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kaltwasserbucht",
+                "hu": "Hideg vizű öböl",
+                "ro": "Golful cu Apă Rece",
+                "en": "Cold Water Bay"
+              },
+              "tip_5lang": {
+                "de": "Der Winterblick über die Bucht ist kristallklar; genießen Sie einen ruhigen Moment an der unberührten Küste.",
+                "hu": "A téli kilátás az öbölre kristálytiszta; szánjon egy csendes percet az érintetlen, üres part fotózására.",
+                "ro": "Priveliștile de iarnă asupra golfului sunt foarte clare; bucurați-vă de un moment liniștit făcând fotografii.",
+                "en": "The winter views over the bay are crystal clear; enjoy a quiet moment taking photos of the pristine, empty coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamelstrand",
+                "hu": "Teve-part",
+                "ro": "Plaja Cămilei",
+                "en": "Camel beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Wintersonnenuntergang über dem Meer vom Strand aus, aber fahren Sie vor Einbruch der Kälte zurück.",
+                "hu": "Nézze meg a korai téli naplementét a tenger felett a partról, de induljon vissza, mielőtt a hőmérséklet drasztikusan visszaesik.",
+                "ro": "Priviți apusul timpuriu de iarnă peste mare de pe plajă, dar întoarceți-vă înainte ca temperatura să scadă drastic.",
+                "en": "Watch the early winter sunset over the sea from the beach, but head back before the temperature drops drastically."
+              }
+            }
+          ]
+        }
       }
     }
   }

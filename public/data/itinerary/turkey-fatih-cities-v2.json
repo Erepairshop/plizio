@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Soli-Pompeiopolisban, fedezze fel az ősi oszlopokat és a közelben található, gyönyörűen megőrzött szarkofágot.\n\nFolytassa történelmi utazását a római fürdőkön és a titokzatos nekropoliszon keresztül a verőfényes napsütésben.\n\nSétáljon le a pompeiopolisi kikötő romjaihoz, hogy elképzelje az egykor itt virágzó ősi tengeri kereskedelmi útvonalakat.\n\nZárja gyalogtúráját a közeli strandon pihenve, és hagyja, hogy a Földközi-tenger hullámai elmossák a fáradtságot.",
         "ro": "Începeți la Soli-Pompeiopolis, explorând coloanele antice și sarcofagul frumos conservat din apropiere.\n\nContinuați-vă călătoria istorică prin Băile Romane și necropola misterioasă sub razele soarelui.\n\nCoborâți spre ruinele portului Pompeiopolis pentru a vă imagina vechile rute comerciale maritime care au înflorit aici.\n\nÎncheiați-vă turul pe jos relaxându-vă pe plaja din apropiere, lăsând valurile Mediteranei să vă spele oboseala.",
         "en": "Start at Soli-Pompeiopolis, exploring the ancient columns and the beautifully preserved sarcophagus nearby.\n\nContinue your historical journey through the Roman Baths and the mysterious Necropolis under the sun.\n\nWander down to the Pompeiopolis Harbor ruins to imagine the ancient maritime trade routes that flourished here.\n\nEnd your walking tour by relaxing on the nearby beach, letting the Mediterranean waves wash away your fatigue."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in Soli-Pompeiopolis, wo der Regen die antiken Steine glänzen lässt. Mittags bieten die historischen Ruinen wenig Schutz, daher ist ein fester Schirm ratsam. Nachmittags führt der Weg entlang der Küste, wo die stürmische See eine dramatische Kulisse bildet. Abends endet die Tour sicher in der Nähe beleuchteter Straßen, während der Regen die Wege leicht rutschig macht.",
+            "hu": "A napot a Soli-Pompeiopolis romjainál kezdjük, ahol az eső különleges fényt ad az antik oszlopoknak. Délben a nyitott terep miatt érdemes esőkabátot viselni a történelmi helyszíneken. Délután a kikötő környékén sétálunk, figyelve a tenger morajlását a szürke ég alatt. Este a városi fények tükröződnek a vizes aszfalton, ami sajátos hangulatot ad a sétának a csúszós szakaszok ellenére.",
+            "ro": "Începeți ziua la Soli-Pompeiopolis, unde ploaia scoate în evidență textura pietrelor antice. La prânz, siturile istorice fiind deschise, o pelerină de ploaie este esențială pentru explorare. După-amiaza, plimbarea spre port oferă vederi dramatice asupra mării agitate sub cerul plumburiu. Seara se încheie cu o atmosferă melancolică, printre reflexiile luminilor orașului în bălțile de pe trotuar.",
+            "en": "Start the day at Soli-Pompeiopolis, where rain adds a glistening sheen to the ancient ruins. By noon, explore the historical sites with a sturdy umbrella, as there is little natural cover. Afternoon brings a walk towards the harbor, offering dramatic views of the stormy sea. The evening concludes with city lights reflecting on wet pavements, creating a moody atmosphere despite the slippery steps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antike Stadt Soli-Pompeiopolis",
+                "hu": "Soli-Pompeiopolis Ókori Város",
+                "ro": "Orașul Antic Soli-Pompeiopolis",
+                "en": "Ancient City of Soli-Pompeiopolis"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die monumentale Kolonnadenstraße, die im Regen besonders kontrastreich wirkt; tragen Sie wasserfeste Schuhe für das unebene Gelände.",
+                "hu": "Csodálja meg a monumentális oszlopsort, amely az esőben különösen kontrasztos; viseljen vízálló cipőt a helyenként sárossá váló terep miatt.",
+                "ro": "Admirați strada monumentală cu coloane, care pare mult mai dramatică în ploaie; purtați încălțăminte impermeabilă pentru terenul care poate deveni noroios.",
+                "en": "Admire the monumental colonnaded street which looks particularly striking in the rain; wear waterproof shoes for the uneven and potentially muddy terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarkophag (Soloi-Pompeiopolis)",
+                "hu": "Szarkofág (Soloi-Pompeiopolis)",
+                "ro": "Sarcofagul (Soloi-Pompeiopolis)",
+                "en": "Sarcophagus (Soloi-Pompeiopolis)"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die feinen Details des Sarkophags unter dem Schutz eines großen Schirms, da der Stein im nassen Zustand seine Farbe verändert.",
+                "hu": "Vizsgálja meg a szarkofág finom részleteit egy nagy esernyő védelmében, mivel a kő nedvesen sötétebb, mélyebb árnyalatot vesz fel.",
+                "ro": "Examinați detaliile fine ale sarcofagului sub protecția unei umbrele mari, deoarece piatra udă capătă o nuanță mai închisă și mai profundă.",
+                "en": "Examine the fine details of the sarcophagus under the cover of a large umbrella, as the wet stone reveals deeper colors and intricate carvings."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Bad",
+                "hu": "Római Fürdő",
+                "ro": "Baia Romană",
+                "en": "Roman Bath"
+              },
+              "tip_5lang": {
+                "de": "Erforschen Sie die Ruinen der Thermen und achten Sie auf rutschige Mosaikreste; nutzen Sie die Mauern als kurzen Windschutz gegen den Schlagregen.",
+                "hu": "Fedezze fel a termálfürdő romjait, de ügyeljen a csúszós mozaikmaradványokra; használja a falakat rövid szélfogónak a szakadó eső ellen.",
+                "ro": "Explorați ruinele băilor termale, dar atenție la resturile de mozaic care devin alunecoase; folosiți zidurile ca adăpost temporar împotriva vântului.",
+                "en": "Explore the thermal bath ruins but watch out for slippery mosaic remains; use the ancient walls as a brief windbreak against the driving rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropole",
+                "hu": "Nekropolisz",
+                "ro": "Necropolă",
+                "en": "Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Die Grabanlagen wirken im Nebel und Regen mystisch; halten Sie sich an die festen Pfade, um nicht im weichen Boden einzusinken.",
+                "hu": "A síremlékek misztikus hangulatot árasztanak a ködben és esőben; maradjon a kijelölt ösvényeken, hogy elkerülje a felázott talajt.",
+                "ro": "Monumentele funerare emană o atmosferă mistică în ceață și ploaie; rămâneți pe potecile principale pentru a evita pământul moale și ud.",
+                "en": "The burial monuments radiate a mystical atmosphere in the fog and rain; stick to the main paths to avoid sinking into the soft, wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Pompeiopolis",
+                "hu": "Pompeiopolis Kikötő",
+                "ro": "Portul Pompeiopolis",
+                "en": "Pompeiopolis Harbor"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Zusammenspiel von Regen und Wellen an den antiken Hafenbecken; halten Sie Ihren Schirm wegen der starken Brise gut fest.",
+                "hu": "Figyelje meg az eső és a hullámok játékát az antik kikötőmedencéknél; kapaszkodjon erősen az esernyőbe az erős tengeri szél miatt.",
+                "ro": "Observați jocul ploii și al valurilor în bazinele portului antic; țineți bine umbrela din cauza rafalelor puternice de vânt marin.",
+                "en": "Observe the interaction of rain and waves at the ancient harbor basins; hold your umbrella firmly due to the strong sea breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Strand",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am leeren Strand bietet Ruhe und frische Meeresluft; suchen Sie danach schnell eine überdachte Promenade auf.",
+                "hu": "Egy séta az üres strandon nyugalmat és friss tengeri levegőt kínál; utána keressen gyorsan egy fedett helyet a sétány mentén.",
+                "ro": "O plimbare pe plaja pustie oferă liniște și aer curat; după aceea, căutați rapid un loc acoperit de-a lungul falezei.",
+                "en": "A walk on the empty beach offers tranquility and fresh sea air; afterwards, head quickly to a covered area along the promenade."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die milde Wintersonne Mersins bei den Ruinen von Soli. Mittags laden die historischen Stätten zu einer kühlen, aber klaren Besichtigung ein. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenareale frühzeitig erkunden. Abends sinken die Temperaturen spürbar, sodass warme Kleidung für den Strandspaziergang unerlässlich ist.",
+            "hu": "Élvezze Mersin enyhe téli napsütését a Soli romoknál. Délben a történelmi helyszínek hűvös, de tiszta időben látogathatók. Mivel a nap korán, 17:00 körül lebukik, érdemes a szabadtéri részeket korán bejárni. Este a hőmérséklet jelentősen visszaesik, így a parti sétához elengedhetetlen a réteges, meleg öltözet.",
+            "ro": "Bucurați-vă de soarele blând al iernii din Mersin la ruinele Soli. La prânz, siturile istorice pot fi vizitate pe o vreme răcoroasă, dar senină. Deoarece soarele apune devreme, în jur de ora 17:00, planificați vizitarea zonelor exterioare prima dată. Seara, temperaturile scad simțitor, deci hainele groase sunt necesare pentru plimbarea pe plajă.",
+            "en": "Enjoy the mild winter sun of Mersin at the Soli ruins. At noon, the historical sites are pleasant for a cool but clear visit. Since the sun sets early around 17:00, plan to explore outdoor areas first. In the evening, temperatures drop significantly, making warm, layered clothing essential for a stroll by the beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antike Stadt Soli-Pompeiopolis",
+                "hu": "Soli-Pompeiopolis Ókori Város",
+                "ro": "Orașul Antic Soli-Pompeiopolis",
+                "en": "Ancient City of Soli-Pompeiopolis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Säulen; die kühle Luft macht die Wanderung durch das weite Areal weniger anstrengend.",
+                "hu": "Használja ki a tiszta téli fényeket az oszlopok fotózásához; a hűvös levegő miatt a séta a tágas területen kevésbé fárasztó.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii cu coloane; aerul răcoros face plimbarea prin situl vast mult mai puțin obositoare.",
+                "en": "Take advantage of the clear winter light for photos of the columns; the cool air makes hiking through the vast area less exhausting."
+              }
+            },
+            {
+              "name": {
+                "de": "Sarkophag (Soloi-Pompeiopolis)",
+                "hu": "Szarkofág (Soloi-Pompeiopolis)",
+                "ro": "Sarcofagul (Soloi-Pompeiopolis)",
+                "en": "Sarcophagus (Soloi-Pompeiopolis)"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine strahlen im Winter eine kühle Eleganz aus; ein warmer Tee in der Thermoskanne hilft bei der Besichtigung im Freien.",
+                "hu": "Az antik kövek hűvös eleganciát árasztanak télen; egy termoszban vitt meleg tea sokat segít a szabadtéri nézelődés során.",
+                "ro": "Pietrele antice emană o eleganță rece iarna; un ceai cald adus într-un termos ajută mult în timpul vizitei în aer liber.",
+                "en": "The ancient stones exude a cool elegance in winter; carrying warm tea in a thermos helps during the outdoor sightseeing."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Bad",
+                "hu": "Római Fürdő",
+                "ro": "Baia Romană",
+                "en": "Roman Bath"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich vor, wie heißes Wasser einst diese Räume füllte; tragen Sie Handschuhe, da der Wind durch die offenen Ruinen ziehen kann.",
+                "hu": "Képzelje el, ahogy egykor forró víz töltötte meg ezeket a tereket; viseljen kesztyűt, mert a szél átsüvíthet a nyitott romok között.",
+                "ro": "Imaginați-vă cum apa fierbinte umplea odată aceste spații; purtați mănuși, deoarece vântul poate fi tăios printre ruinele deschise.",
+                "en": "Imagine how hot water once filled these spaces; wear gloves as the wind can whip through the open ruins in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Nekropole",
+                "hu": "Nekropolisz",
+                "ro": "Necropolă",
+                "en": "Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, um das letzte Tageslicht zu nutzen; die Winterstimmung lässt die Gräber besonders friedlich wirken.",
+                "hu": "Látogasson el ide 16:00 előtt, hogy kihasználja az utolsó fényeket; a téli hangulat különösen békéssé teszi a síremlékeket.",
+                "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de ultima lumină; atmosfera de iarnă face mormintele să pară foarte liniștite.",
+                "en": "Visit this spot before 16:00 to catch the last daylight; the winter mood makes the burial grounds feel exceptionally peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Pompeiopolis",
+                "hu": "Pompeiopolis Kikötő",
+                "ro": "Portul Pompeiopolis",
+                "en": "Pompeiopolis Harbor"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung ist im Winter oft stärker; eine winddichte Jacke schützt Sie vor der salzigen Gischt und der kalten Seebrise.",
+                "hu": "A hullámzás télen gyakran erősebb; egy szélálló dzseki megvédi a sós permettől és a hideg tengeri fuvallatoktól.",
+                "ro": "Valurile sunt adesea mai puternice iarna; o jachetă rezistentă la vânt vă va proteja de spray-ul sărat și briza rece a mării.",
+                "en": "The surf is often stronger in winter; a windproof jacket will protect you from the salty spray and the chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Strand",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang am Meer gegen 17:00 Uhr; danach sollten Sie schnell in ein warmes Café in der Nähe einkehren.",
+                "hu": "Élvezze a naplementét a tengerparton 17:00 körül; utána érdemes gyorsan betérni egy közeli fűtött kávézóba.",
+                "ro": "Bucurați-vă de apusul la malul mării în jurul orei 17:00; după aceea, intrați rapid într-o cafenea încălzită din apropiere.",
+                "en": "Enjoy the sunset by the shore around 17:00; afterwards, head quickly to a heated nearby café to warm up."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kerékpározzon el a Soli Höyükhöz, hogy megismerje a terület legkorábbi gyökereit, mielőtt megcsodálná Pompeiopolis oszlopait.\n\nFrissüljön fel egy vidám megállóval a Mezitli Vízi Parkban, amely kiváló hely a hűsölésre a nap legmelegebb részében.\n\nKerékpározzon a helyi homokos tengerpart felé, és szánjon egy kis időt a pihenésre a megnyugtató kék vizek partján.\n\nTekerjen tovább kelet felé a nyüzsgő Marina Vidámparkba, ahol esti izgalmak és színes tengerparti szórakozás várja.",
         "ro": "Pedalați până la Soli Höyük pentru a înțelege cele mai vechi rădăcini ale zonei înainte de a admira coloanele din Pompeiopolis.\n\nRăcoriți-vă cu o oprire distractivă la Parcul Acvatic Mezitli, un loc minunat pentru a scăpa de căldura din timpul zilei.\n\nMergeți spre țărmul nisipos al plajei locale, luându-vă timp pentru a vă odihni pe malul apelor albastre și liniștitoare.\n\nPedalați mai departe spre est până la Parcul de Distracții Marina pentru senzații tari de seară și divertisment colorat la malul mării.",
         "en": "Cycle to Soli Höyük to grasp the area's earliest roots before admiring the grand columns of Pompeiopolis.\n\nRefresh yourself with a fun stop at the Mezitli Water Park, a great place to cool off during the heat of the day.\n\nRide towards the sandy shore of the local beach, taking some time to rest by the calming blue waters.\n\nPedal further east to the lively Marina Amusement Park for some evening thrills and colorful seaside entertainment."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Straßen von Mezitli. Vormittags erkunden wir die antiken Hügel, während der Boden rutschig sein kann. Mittags bietet der Wasserpark leider keinen Schutz, daher ist eine kurze Pause unter einem Vordach ratsam. Nachmittags radeln wir vorsichtig zur Marina, wo die Meeresbrise den Regen seitlich peitschen lässt.",
+            "hu": "Az esős kerékpározás óvatosságot igényel Mezitli útjain. Délelőtt az antik halmokat keressük fel, ahol a talaj csúszós lehet. Délben a vízipark nem nyújt menedéket, így érdemes egy fedett beálló alatt pihenni. Délután óvatosan tekerünk a Marina felé, ahol a tengeri szél oldalról fújhatja az esőt, de a látvány kárpótol.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile din Mezitli. Dimineața explorăm colinele antice, unde terenul poate fi alunecos. La prânz, parcul acvatic nu oferă adăpost, deci o pauză sub o copertină este recomandată. După-amiaza pedalăm spre Marina, unde briza mării poate purta ploaia lateral spre noi.",
+            "en": "Cycling in the rain requires extra caution on the roads of Mezitli. In the morning, explore the ancient mounds where the ground might be slick. At noon, the water park offers no cover, so a break under a shelter is advised. In the afternoon, pedal carefully towards the Marina, where sea winds might blow the rain sideways."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Soli Hügel",
+                "hu": "Soli Halom",
+                "ro": "Movila Soli",
+                "en": "Soli Mound"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Wegen am Hügel; die Aussicht auf die Stadt im Regen hat einen besonderen, grauen Charme.",
+                "hu": "Tekerjen óvatosan a halom körüli föutakon; a város látképe az esőben különleges, szürkés bájjal rendelkezik.",
+                "ro": "Pedalați cu atenție pe drumurile de pământ de lângă movilă; panorama orașului prin ploaie are un farmec gri aparte.",
+                "en": "Cycle carefully on the unpaved paths around the mound; the view of the city through the rain has a unique, somber charm."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Stadt Soli-Pompeiopolis",
+                "hu": "Soli-Pompeiopolis Ókori Város",
+                "ro": "Orașul Antic Soli-Pompeiopolis",
+                "en": "Ancient City of Soli-Pompeiopolis"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem festen Untergrund ab; die antiken Steine sind bei Nässe extrem rutschig für Radschuhe.",
+                "hu": "Parkolja le a biciklit szilárd talajon; az antik kövek nedvesen rendkívül csúszósak, legyen óvatos a gyalogos részeken.",
+                "ro": "Parcați bicicleta pe un teren solid; pietrele antice sunt extrem de alunecoase când sunt ude, atenție la porțiunile de mers pe jos.",
+                "en": "Park your bike on solid ground; the ancient stones are extremely slippery when wet, so be careful during the walking portions."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserpark Mezitli",
+                "hu": "Mezitli Vízi Park",
+                "ro": "Parcul Acvatic Mezitli",
+                "en": "Mezitli Water Park"
+              },
+              "tip_5lang": {
+                "de": "Da der Park bei Regen weniger attraktiv ist, nutzen Sie den Parkplatz für einen schnellen Check Ihrer Bremsen vor der Weiterfahrt.",
+                "hu": "Mivel a park esőben kevésbé vonzó, használja a parkolót egy gyors fékellenőrzésre, mielőtt továbbhaladna a vizes úton.",
+                "ro": "Deoarece parcul este mai puțin atractiv pe ploaie, folosiți parcarea pentru o verificare rapidă a frânelor înainte de a continua.",
+                "en": "As the park is less appealing in the rain, use the parking area for a quick brake check before continuing on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Strand",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Radfahren auf der Uferpromenade ist erfrischend; achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+                "hu": "A parti sétányon tekerni frissítő élmény; ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek az út mentén.",
+                "ro": "Pedalatul pe faleza de lângă plajă este revigorant; atenție la bălțile care pot ascunde gropi adânci pe traseu.",
+                "en": "Cycling along the beach promenade is refreshing; watch out for puddles that might hide deep potholes along the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Mersin Marina Vergnügungspark",
+                "hu": "Mersin Marina Vidámpark",
+                "ro": "Parcul de Distracții Mersin Marina",
+                "en": "Mersin Marina Amusement Park"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrgeschäfte könnten bei Regen geschlossen sein; suchen Sie Schutz in den Arkaden der Marina und genießen Sie den Blick auf die Boote.",
+                "hu": "A játékok esőben zárva tarthatnak; keressen menedéket a Marina árkádjai alatt, és élvezze a hajók látványát.",
+                "ro": "Atracțiile pot fi închise pe ploaie; căutați adăpost sub arcadele din Marina și bucurați-vă de vederea ambarcațiunilor.",
+                "en": "The rides might be closed due to rain; seek shelter under the Marina's arcades and enjoy the view of the boats."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Mersin ist dank des milden Klimas angenehm. Vormittags erkunden wir die Soli-Hügel bei frischer Luft. Mittags ist es sonnig genug für eine Pause am Meer, doch der Wasserpark ist im Winterschlaf. Nachmittags radeln wir zur Marina, bevor die Kälte nach Sonnenuntergang um 17:00 Uhr spürbar wird. Denken Sie an Handschuhe gegen den Fahrtwind.",
+            "hu": "A téli kerékpározás Mersinben a szelíd klíma miatt kellemes. Délelőtt friss levegőn járjuk be a Soli halmokat. Délben elég napos az idő egy tengerparti pihenőhöz, bár a vízipark zárva van. Délután a Marina felé vesszük az irányt, mielőtt 17:00 után hirtelen lehűlne az idő. A menetszél ellen érdemes kesztyűt viselni.",
+            "ro": "Ciclismul de iarnă în Mersin este plăcut datorită climei blânde. Dimineața explorăm colinele Soli în aer curat. La prânz e destul de însorit pentru o pauză la mare, deși parcul acvatic e închis. După-amiaza pedalăm spre Marina înainte ca frigul să se lase după ora 17:00. Nu uitați mănușile împotriva vântului.",
+            "en": "Winter cycling in Mersin is pleasant thanks to the mild climate. In the morning, explore the Soli mounds in the fresh air. At noon, it’s sunny enough for a seaside break, though the water park is closed. In the afternoon, head towards the Marina before the temperature drops after 17:00. Wear gloves against the wind chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Soli Hügel",
+                "hu": "Soli Halom",
+                "ro": "Movila Soli",
+                "en": "Soli Mound"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft ist perfekt für den Aufstieg zum Hügel; tragen Sie ein Stirnband unter dem Helm, um Ihre Ohren warm zu halten.",
+                "hu": "A hűvös reggeli levegő tökéletes a halomra való feltekeréshez; viseljen fejpántot a sisak alatt, hogy védje a fülét a hidegtől.",
+                "ro": "Aerul răcoros de dimineață este perfect pentru urcarea pe movilă; purtați o bentiță sub cască pentru a vă proteja urechile de frig.",
+                "en": "The cool morning air is perfect for the climb up the mound; wear a headband under your helmet to keep your ears warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Stadt Soli-Pompeiopolis",
+                "hu": "Soli-Pompeiopolis Ókori Város",
+                "ro": "Orașul Antic Soli-Pompeiopolis",
+                "en": "Ancient City of Soli-Pompeiopolis"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Säulen; ideal für Fotos, aber achten Sie auf kühle Windböen zwischen den Ruinen.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet az oszlopokra; fotózáshoz ideális, de figyeljen a hideg széllökésekre a romok között.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste coloane; ideal pentru poze, dar atenție la rafalele reci de vânt printre ruine.",
+                "en": "The low winter sun casts long shadows across the columns; ideal for photos, but watch out for cold gusts of wind between the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserpark Mezitli",
+                "hu": "Mezitli Vízi Park",
+                "ro": "Parcul Acvatic Mezitli",
+                "en": "Mezitli Water Park"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter geschlossen, bietet aber eine gute Orientierungshilfe; nutzen Sie die freie Straße davor für eine zügige Fahrt.",
+                "hu": "A park télen zárva tart, de jó tájékozódási pont; használja az előtte lévő üres utat egy tempósabb haladáshoz a hidegben.",
+                "ro": "Parcul este închis iarna, dar servește ca punct bun de reper; folosiți drumul liber din față pentru a pedala mai alert în aerul rece.",
+                "en": "The park is closed in winter but serves as a good landmark; use the clear road in front of it for a faster pace in the chilly air."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand",
+                "hu": "Strand",
+                "ro": "Plajă",
+                "en": "Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am winterlichen Ufer; der Wind kann hier stärker sein, halten Sie also Ihre Jacke stets fest verschlossen.",
+                "hu": "Élvezze a nyugalmat a téli parton; a szél itt erősebb lehet, ezért tartsa a kabátját végig szorosan felhúzva.",
+                "ro": "Bucurați-vă de liniștea falezei iarna; vântul poate fi mai puternic aici, deci păstrați jacheta bine închisă pe tot parcursul drumului.",
+                "en": "Enjoy the tranquility of the winter shore; the wind can be stronger here, so keep your jacket zipped up tight throughout the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Mersin Marina Vergnügungspark",
+                "hu": "Mersin Marina Vidámpark",
+                "ro": "Parcul de Distracții Mersin Marina",
+                "en": "Mersin Marina Amusement Park"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor Einbruch der Dunkelheit an, um die festliche Beleuchtung der Marina zu sehen; wärmen Sie sich danach in einem der Cafés auf.",
+                "hu": "Érkezzen meg sötétedés előtt, hogy lássa a Marina ünnepi fényeit; utána melegedjen fel a kikötő egyik hangulatos kávézójában.",
+                "ro": "Ajungeți înainte de lăsarea întunericului pentru a vedea luminile festive din Marina; apoi încălziți-vă într-o cafenea primitoare.",
+                "en": "Arrive before dark to see the festive lights of the Marina; afterwards, warm up in one of the cozy cafés in the harbor area."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Vezessen fel a Çiftlikköy Régi Mecsethez, hogy megtapasztalja a helyi spirituális nyugalmat, majd induljon dél felé a part felé.\n\nÉlvezze az izgalmas csobbanást a Mezitli Vízi Parkban, mielőtt átvezetne a látványos Soli-Pompeiopolis romjaihoz.\n\nParkoljon le az ősi kikötő közelében, hogy elmélkedjen a régió gazdag tengerészeti történelmén, és élvezze a tágas tengeri kilátást.\n\nFejezze be autós körútját a Marina Vidámparkban, ahol a vibráló fények és a vidám hangulat teszi teljessé a napot.",
         "ro": "Conduceți până la Vechea Moschee Çiftlikköy pentru a experimenta liniștea spirituală locală, apoi îndreptați-vă spre sud, spre coastă.\n\nBucurați-vă de o baie plină de viață la Parcul Acvatic Mezitli înainte de a conduce către spectaculoasele ruine Soli-Pompeiopolis.\n\nParcați lângă vechiul port pentru a reflecta asupra bogatei istorii maritime a regiunii și bucurați-vă de priveliștile ample ale mării.\n\nÎncheiați-vă plimbarea cu mașina la Parcul de Distracții Marina, unde luminile vibrante și atmosfera veselă desăvârșesc ziua.",
         "en": "Drive up to the Çiftlikköy Old Mosque to experience local spiritual tranquility, then head south towards the coast.\n\nEnjoy an exhilarating splash at the Mezitli Water Park before driving over to the spectacular Soli-Pompeiopolis ruins.\n\nPark near the ancient harbor to reflect on the region's rich maritime history and enjoy the expansive sea views.\n\nConclude your drive at the Marina Amusement Park, where the vibrant lights and joyful atmosphere perfect the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Mezitli geschützt vor dem Dauerregen. Vormittags besuchen wir die alte Moschee, während die Scheibenwischer im Takt arbeiten. Mittags steuern wir Soli-Pompeiopolis an, wobei wir nahe am Eingang parken, um trocken zu bleiben. Nachmittags führt die Fahrt zum Hafen und zur Marina, wo wir das stürmische Meer gemütlich vom Fahrzeug aus beobachten können.",
+            "hu": "Autóval az esőtől védve járjuk be Mezitli környékét. Délelőtt a régi mecsetet keressük fel, miközben az ablaktörlők folyamatosan dolgoznak. Délben Soli-Pompeiopolis romjaihoz hajtunk, igyekezve közel parkolni a bejárathoz. Délután a kikötő és a Marina következik, ahol a viharos tengert kényelmesen, az autóból is megcsodálhatjuk.",
+            "ro": "Explorăm Mezitli cu mașina, protejați de ploaia continuă. Dimineața vizităm vechea moschee, în timp ce ștergătoarele lucrează neîncetat. La prânz mergem spre Soli-Pompeiopolis, parcând cât mai aproape de intrare. După-amiaza conducem spre port și Marina, unde putem admira marea agitată din confortul vehiculului.",
+            "en": "Explore Mezitli by car, staying dry despite the continuous rain. In the morning, visit the old mosque while the wipers work in rhythm. At noon, drive to Soli-Pompeiopolis, trying to park close to the entrance to avoid getting soaked. In the afternoon, head to the harbor and Marina, where you can watch the stormy sea from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alte Moschee Çiftlikköy",
+                "hu": "Çiftlikköy Régi Mecset",
+                "ro": "Vechea Moschee Çiftlikköy",
+                "en": "Çiftlikköy Old Mosque"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Moschee bietet einen friedlichen, trockenen Zufluchtsort; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "A mecset belseje békés és száraz menedéket nyújt; kiszálláskor ügyeljen az út menti mély tócsákra a parkolóhely környékén.",
+                "ro": "Interiorul moscheii oferă un refugiu liniștit și uscat; la coborâre, atenție la bălțile adânci de pe marginea drumului lângă parcare.",
+                "en": "The interior of the mosque offers a peaceful and dry sanctuary; watch out for deep puddles by the roadside when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserpark Mezitli",
+                "hu": "Mezitli Vízi Park",
+                "ro": "Parcul Acvatic Mezitli",
+                "en": "Mezitli Water Park"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist der Park geschlossen, aber die Fahrt dorthin ist sicher; nutzen Sie die Zeit für einen kurzen Blick auf die Küstenlinie vom Wagen aus.",
+                "hu": "Esőben a park zárva, de az odaút biztonságos; használja ki az időt a tengerparti sáv megtekintésére az autó ablakából.",
+                "ro": "Parcul este închis pe ploaie, dar drumul este sigur; profitați de ocazie pentru a vedea linia țărmului prin geamul mașinii.",
+                "en": "The park is closed in the rain, but the drive is safe; take the opportunity to view the coastline from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Stadt Soli-Pompeiopolis",
+                "hu": "Soli-Pompeiopolis Ókori Város",
+                "ro": "Orașul Antic Soli-Pompeiopolis",
+                "en": "Ancient City of Soli-Pompeiopolis"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Ticketschalter; ein kurzer Sprint zu den Säulen lohnt sich für die dramatischen Fotos bei Bewölkung.",
+                "hu": "Parkoljon a lehető legközelebb a jegypénztárhoz; egy rövid sprint az oszlopokig megéri a felhős időben készíthető drámai fotókért.",
+                "ro": "Parcați cât mai aproape de casa de bilete; un sprint scurt până la coloane merită pentru fotografiile dramatice pe cer înnorat.",
+                "en": "Park as close to the ticket office as possible; a quick sprint to the columns is worth it for the dramatic photos under cloudy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Pompeiopolis",
+                "hu": "Pompeiopolis Kikötő",
+                "ro": "Portul Pompeiopolis",
+                "en": "Pompeiopolis Harbor"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Verladen der Fischerboote im Regen vom Fahrersitz aus; die Zufahrtsstraßen können bei Starkregen leicht überflutet sein.",
+                "hu": "Figyelje a halászhajók rakodását az esőben a vezetőülésből; a bekötőutak heves esőzéskor könnyen víz alá kerülhetnek, óvatosan hajtson.",
+                "ro": "Observați descărcarea bărcilor de pescuit pe ploaie din mașină; drumurile de acces se pot inunda ușor la ploi torențiale, conduceți prudent.",
+                "en": "Watch the fishing boats being loaded in the rain from your seat; access roads can flood easily during heavy rain, so drive with caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Mersin Marina Vergnügungspark",
+                "hu": "Mersin Marina Vidámpark",
+                "ro": "Parcul de Distracții Mersin Marina",
+                "en": "Mersin Marina Amusement Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus der Marina, um trocken zu den Geschäften und Cafés zu gelangen; genießen Sie den Blick auf die Yachtmasten im Regen.",
+                "hu": "Használja a Marina parkolóházát, hogy szárazon jusson az üzletekhez és kávézókhoz; élvezze a jachtárbocok látványát az esőben.",
+                "ro": "Folosiți parcarea acoperită din Marina pentru a ajunge uscat la magazine și cafenele; admirați catargele iahturilor prin ploaie.",
+                "en": "Use the Marina's parking garage to stay dry while reaching shops and cafés; enjoy the view of yacht masts swaying in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Mersin zeigt die ruhige Seite der Region. Vormittags besuchen wir die alte Moschee, wo die Wintersonne durch die Fenster scheint. Mittags geht es zu den Soli-Ruinen, die im kühlen Wind majestätisch wirken. Da es ab 17:00 Uhr dunkel wird, planen wir die Küstenfahrt für den frühen Nachmittag, um die Aussicht optimal zu nutzen.",
+            "hu": "A téli autós kirándulás Mersinben a régió nyugodt arcát mutatja meg. Délelőtt a régi mecsetet keressük fel, ahol a téli nap besüt az ablakokon. Délben a Soli romokhoz hajtunk, amelyek a hűvös szélben is méltóságteljesek. Mivel 17:00-tól sötétedik, a parti autózást kora délutánra időzítjük a panoráma miatt.",
+            "ro": "O plimbare cu mașina prin Mersin iarna dezvăluie latura liniștită a regiunii. Dimineața vizităm vechea moschee, unde soarele de iarnă pătrunde prin ferestre. La prânz mergem la ruinele Soli, maiestuoase chiar și în vântul rece. Deoarece se întunecă la ora 17:00, planificăm drumul pe coastă devreme pentru panoramă.",
+            "en": "A winter drive through Mersin reveals the quiet side of the region. In the morning, visit the old mosque where winter sun filters through the windows. At noon, drive to the Soli ruins, which look majestic even in the chilly wind. Since it gets dark from 17:00, schedule the coastal drive for early afternoon to enjoy the views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alte Moschee Çiftlikköy",
+                "hu": "Çiftlikköy Régi Mecset",
+                "ro": "Vechea Moschee Çiftlikköy",
+                "en": "Çiftlikköy Old Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee ist im Winter ein warmer Rückzugsort; nutzen Sie die Parkplätze direkt davor, um die kalte Außenluft nur kurz spüren zu müssen.",
+                "hu": "A mecset télen meleg menedék; használja a közvetlen előtte lévő parkolókat, hogy csak rövid ideig kelljen a kinti hidegben tartózkodnia.",
+                "ro": "Moscheea este un refugiu cald iarna; folosiți locurile de parcare de chiar în față pentru a minimiza timpul petrecut în frigul de afară.",
+                "en": "The mosque is a warm retreat in winter; use the parking spots directly in front to minimize your time spent in the cold outside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserpark Mezitli",
+                "hu": "Mezitli Vízi Park",
+                "ro": "Parcul Acvatic Mezitli",
+                "en": "Mezitli Water Park"
+              },
+              "tip_5lang": {
+                "de": "Der geschlossene Park dient als markanter Wegpunkt; die Straßen sind im Winter leerer, was die Fahrt entlang der Küste sehr entspannt macht.",
+                "hu": "A lezárt park feltűnő tájékozódási pont; az utak télen üresebbek, ami nagyon pihentetővé teszi az autózást a tengerpart mentén.",
+                "ro": "Parcul închis servește ca punct de reper; drumurile sunt mai libere iarna, ceea ce face condusul de-a lungul coastei foarte relaxant.",
+                "en": "The closed park serves as a clear landmark; roads are emptier in winter, making the drive along the coast very relaxing and smooth."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Stadt Soli-Pompeiopolis",
+                "hu": "Soli-Pompeiopolis Ókori Város",
+                "ro": "Orașul Antic Soli-Pompeiopolis",
+                "en": "Ancient City of Soli-Pompeiopolis"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Sitzheizung an, während Sie kurz die Säulen besichtigen; das klare Winterlicht sorgt für exzellente Sichtverhältnisse.",
+                "hu": "Hagyja bekapcsolva az ülésfűtést, amíg rövid látogatást tesz az oszlopoknál; a tiszta téli fények kiváló látási viszonyokat biztosítanak.",
+                "ro": "Lăsați încălzirea în scaune pornită cât timp vizitați coloanele; lumina clară de iarnă oferă o vizibilitate excelentă asupra sitului.",
+                "en": "Keep the seat heating on while you make a quick visit to the columns; the clear winter light ensures excellent visibility for miles."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Pompeiopolis",
+                "hu": "Pompeiopolis Kikötő",
+                "ro": "Portul Pompeiopolis",
+                "en": "Pompeiopolis Harbor"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Fischerboote bei einem heißen Kaffee im Auto; die Winterbrise ist hier am Hafen besonders kühl.",
+                "hu": "Élvezze a halászhajók látványát egy forró kávé mellett az autóból; a téli szél itt a kikötőben különösen csípős tud lenni.",
+                "ro": "Admirați bărcile de pescuit savurând o cafea fierbinte în mașină; briza de iarnă poate fi foarte tăioasă aici, în zona portului.",
+                "en": "Enjoy the view of the fishing boats with a hot coffee inside your car; the winter breeze can be particularly sharp here at the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Mersin Marina Vergnügungspark",
+                "hu": "Mersin Marina Vidámpark",
+                "ro": "Parcul de Distracții Mersin Marina",
+                "en": "Mersin Marina Amusement Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Marina und nutzen Sie die beleuchteten Gehwege für einen kurzen Abendspaziergang, bevor es nach 17:00 Uhr zu kalt wird.",
+                "hu": "Parkoljon a Marinában, és használja a kivilágított sétányokat egy rövid esti sétára, mielőtt 17:00 után túl hideggé válna az idő.",
+                "ro": "Parcați în Marina și folosiți aleile iluminate pentru o scurtă plimbare de seară înainte ca temperatura să scadă brusc după ora 17:00.",
+                "en": "Park at the Marina and use the illuminated walkways for a brief evening stroll before it gets too cold after 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

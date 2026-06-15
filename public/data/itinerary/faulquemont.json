@@ -137,6 +137,168 @@
         "hu": "Reggel: Kezdje a napot Faulquemont gazdag spirituális örökségének felfedezésével, sétáljon a központi kápolnák között, és csodálja meg a kora reggeli fényt az ősi köveken.\nDél: Ahogy az idő melegszik, térjen át a város robusztus történelmi hagyatékára. A Maginot-vonal erődje lenyűgöző földalatti titkokat és háborús történelmet tár fel ön előtt.\nDélután: A katonai mélységek után haladjon nyugat felé Créhange bájos területére, hogy megcsodálja a történelmi kastély és a szomszédos műemlékek által hagyott arisztokratikus nyomokat.\nEste: Zárja utazását békés légkörben egy gyönyörűen kivilágított helyi templomnál vagy egy nyugodt tó partján, elmélkedve e kis lotaringiai városka sokrétű történelmén.",
         "ro": "Dimineață: Începeți-vă ziua cufundându-vă în bogata moștenire spirituală din Faulquemont, plimbându-vă printre capelele centrale și admirând lumina dimineții pe pietrele antice.\nPrânz: Pe măsură ce ziua se încălzește, tranziția către moștenirea istorică a orașului. Fortăreața Liniei Maginot vă așteaptă, dezvăluind secrete subterane fascinante și istorie de război.\nDupă-amiază: După explorarea adâncurilor militare, mergeți spre vest în zona fermecătoare Créhange pentru a vă minuna de urmele aristocratice lăsate de castelul istoric.\nSeară: Încheiați-vă călătoria într-o atmosferă senină la o biserică frumos iluminată sau pe malul unui iaz, reflectând la istoria multifațetată a acestui oraș pitoresc din Lorena.",
         "en": "Morning: Start your day by immersing yourself in the rich spiritual heritage of Faulquemont, wandering between central chapels and admiring early morning light on ancient stones.\nMidday: As the day warms up, transition towards the town’s robust historical legacy. The imposing Maginot Line fortress awaits, revealing fascinating subterranean secrets and wartime history.\nAfternoon: After exploring the military depths, head west towards the charming area of Créhange to marvel at the aristocratic traces left by the historic county castle and neighboring monuments.\nEvening: Conclude your journey in a serene atmosphere at a beautifully illuminated local church or a tranquil pond side, reflecting on the multifaceted history of this quaint Lorraine town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in den historischen Kirchen von Faulquemont, wo die Stille den Regen draußen vergessen lässt. Mittags suchen wir Schutz unter den Arkaden der Altstadt, während wir uns auf den Weg zur Festung machen. Am Nachmittag bietet das Chateau de Créhange ein festes Dach über dem Kopf. Der Tag endet gemütlich in einer lokalen Brasserie, fernab der nassen Straßen.",
+            "hu": "A reggel Faulquemont történelmi templomainak védelmében indul, ahol a csend feledteti a kinti esőt. Délben a belváros fedett részei alatt haladunk az erőd felé, kerülve a nagyobb tócsákat. Délután a Créhange-i kastély falai nyújtanak menedéket a szürkeség elől. Az este egy helyi vendéglő melegében ér véget, miközben az ablakon kopog az eső, mi pedig szárazon pihenünk.",
+            "ro": "Dimineața începe la adăpostul bisericilor istorice din Faulquemont, unde liniștea te face să uiți de ploaia de afară. La prânz căutăm refugiu sub arcadele centrului în drum spre fortăreață. După-amiaza, castelul Créhange oferă un acoperiș solid deasupra capului împotriva umezelii. Ziua se încheie confortabil într-o braserie locală, departe de străzile ude și vântul rece.",
+            "en": "The morning begins sheltered in the historic churches of Faulquemont, where the silence makes you forget the rain outside. At noon, we find cover under the town's eaves while heading towards the fortress. In the afternoon, the Château de Créhange provides a solid roof over our heads. The day ends cozily in a local brasserie, far from the wet streets and damp weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Vinzenz Kirche",
+                "hu": "Szent Vince-templom",
+                "ro": "Biserica Sf. Vincențiu",
+                "en": "Saint-Vincent Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innendetails dieser Kirche, während Sie Ihre Kleidung im Vorraum kurz trocknen lassen; ein stabiler Regenschirm ist für den kurzen Fußweg unerlässlich.",
+                "hu": "Csodálja meg a templom belső díszítését, miközben az előtérben megszárítkozik egy kicsit; a rövid sétához is elengedhetetlen egy stabil, szélálló esernyő használata.",
+                "ro": "Admirați detaliile interioare ale bisericii în timp ce vă uscați hainele în pridvor; o umbrelă robustă este esențială chiar și pentru scurta plimbare de afară.",
+                "en": "Admire the interior details of the church while letting your clothes dry briefly in the vestibule; a sturdy umbrella is essential even for the short walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle St. Vinzenz",
+                "hu": "Szent Vince-kápolna",
+                "ro": "Capela Sf. Vincențiu",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle bietet einen intimen Rückzugsort vor dem Prasseln des Regens; achten Sie auf den eventuell rutschigen Eingangsbereich bei Nässe auf den Steinen.",
+                "hu": "Ez a kis kápolna meghitt menedéket nyújt az eső kopogása elől; ügyeljen a bejáratnál a vizes kövekre, amelyek ilyenkor rendkívül csúszóssá és veszélyessé válhatnak.",
+                "ro": "Această mică chapelă oferă un refugiu intim împotriva ropotei ploii; atenție la zona de intrare care poate deveni foarte alunecoasă din cauza pietrelor umede.",
+                "en": "This small chapel offers an intimate retreat from the drumming rain; watch out for the entrance area which can become very slippery when the stones are wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Faulquemont",
+                "hu": "Faulquemont-i erőd",
+                "ro": "Fortăreața Faulquemont",
+                "en": "Ouvrage de Faulquemont"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die unterirdischen Gänge, die bei jedem Wetter trocken bleiben; tragen Sie wasserfeste Schuhe für den Weg über das grasbewachsene Gelände oberhalb.",
+                "hu": "Fedezze fel a föld alatti járatokat, amelyek minden időben szárazak maradnak; viseljen vízálló cipőt a felette lévő füves területen való sáros közlekedéshez.",
+                "ro": "Explorați pasajele subterane care rămân uscate indiferent de vreme; purtați încălțăminte impermeabilă pentru drumul prin zona cu iarbă de deasupra fortului.",
+                "en": "Explore the underground passages that remain dry in any weather; wear waterproof shoes for the walk across the grassy terrain above the fortification."
+              }
+            },
+            {
+              "name": {
+                "de": "Gräfliche Burg Créhange",
+                "hu": "Créhange-i grófi kastély",
+                "ro": "Castelul comital din Créhange",
+                "en": "Château comtal de Créhange"
+              },
+              "tip_5lang": {
+                "de": "Das massive Mauerwerk schützt hervorragend vor Windböen; nutzen Sie die Besichtigung der Innenräume, um dem heftigen Regenguss am frühen Nachmittag auszuweichen.",
+                "hu": "A vaskos falak kiválóan védenek a szél ellen; használja ki a belső terek megtekintését, hogy elkerülje a kora délutáni hevesebb esőzéseket a szabadban.",
+                "ro": "Zidăria masivă protejează excelent împotriva rafalelor de vânt; folosiți vizitarea interioarelor pentru a evita aversa de ploaie mai puternică de după-amiază.",
+                "en": "The massive masonry provides excellent protection against wind gusts; take advantage of the interior tour to avoid the heavy early afternoon rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michaelskirche",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Sf. Mihail",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Tag Revue passieren zu lassen, während es draußen dunkler wird; prüfen Sie Ihre Rückroute, da Pfützen die Sicht auf den Weg erschweren.",
+                "hu": "Csendes hely a nap összegzésére, miközben odakint sötétedik; ellenőrizze a hazavezető utat, mert a tócsák elfedhetik az úthibákat a szürkületben.",
+                "ro": "Un loc liniștit pentru a reflecta asupra zilei în timp ce afară se întunecă; verificați traseul de întoarcere, deoarece bălțile pot ascunde denivelările drumului.",
+                "en": "A quiet place to review the day as it grows darker outside; check your return route as puddles can make it difficult to see the path in the twilight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt uns in Faulquemont, wobei der Raureif die Kirchen in weißes Licht taucht. Mittags suchen wir die Wärme in den historischen Gemäuern, da die Kälte stetig zunimmt. Am Nachmittag nutzen wir das schwindende Licht für einen Spaziergang zur Burg, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend gehört der wohligen Wärme einer Teestube in Créhange.",
+            "hu": "Deres reggel köszönt ránk Faulquemont-ban, a templomok tornyait fehér fénybe vonja a fagy. Délben a történelmi falak között keresünk enyhülést a metsző hideg elől. Délután kihasználjuk a fogyatkozó fényt a kastély felé, mielőtt 17 óra körül lebukik a nap a látóhatár alá. Az estét egy Créhange-i teázó barátságos melegében töltjük, pihentetve fagyos tagjainkat.",
+            "ro": "O dimineață geroasă ne întâmpină în Faulquemont, chiciura îmbrăcând bisericile într-o lumină albă. La prânz căutăm căldura zidurilor istorice, pe măsură ce frigul se intensifică. După-amiaza profităm de lumina puțină pentru o plimbare spre castel, înainte ca soarele să apună în jur de ora 17:00. Seara aparține căldurii primitoare a unei ceainării din Créhange.",
+            "en": "A frosty morning greets us in Faulquemont, with hoarfrost bathing the churches in white light. At noon, we seek warmth within the historic walls as the cold intensifies. In the afternoon, we make use of the waning light for a walk to the castle before the sun sets around 5:00 PM. The evening is spent in the cozy warmth of a tea room in Créhange."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Vinzenz Kirche",
+                "hu": "Szent Vince-templom",
+                "ro": "Biserica Sf. Vincențiu",
+                "en": "Saint-Vincent Church"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren herrscht eine kühle, aber windstille Atmosphäre; tragen Sie Thermounterwäsche, da die Steinböden der Kirche im Winter viel Kälte abstrahlen.",
+                "hu": "Odabent hűvös, de szélmentes a levegő; viseljen termő aláöltözetet, mert a templom kőpadlója télen nagyon sugározza a hideget a látogatók felé.",
+                "ro": "În interior atmosfera este răcoroasă, dar fără vânt; purtați lenjerie termică, deoarece podelele de piatră ale bisericii emană mult frig în timpul iernii.",
+                "en": "Inside, the atmosphere is cool but windless; wear thermal layers as the stone floors of the church radiate a lot of cold during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle St. Vinzenz",
+                "hu": "Szent Vince-kápolna",
+                "ro": "Capela Sf. Vincențiu",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt im Winterlicht besonders andächtig; nehmen Sie einen Taschenwärmer mit, um Ihre Hände nach dem Weg durch die Kälte aufzutauen.",
+                "hu": "A kis kápolna a téli fényben különösen áhítatos; vigyen magával zsebmelegítőt, hogy a fagyos séta után gyorsan felmelegíthesse elgémberedett ujjait.",
+                "ro": "Mica chapelă pare deosebit de pioasă în lumina iernii; luați un încălzitor de mâini pentru a vă dezgheța degetele după drumul prin frigul de afară.",
+                "en": "The small chapel looks particularly devotional in the winter light; take a hand warmer to thaw your fingers after the walk through the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Faulquemont",
+                "hu": "Faulquemont-i erőd",
+                "ro": "Fortăreața Faulquemont",
+                "en": "Ouvrage de Faulquemont"
+              },
+              "tip_5lang": {
+                "de": "In den Tunneln ist es oft wärmer als draußen, da die Erde isoliert; planen Sie Ihren Besuch vor 16 Uhr, um das Gelände noch bei Tageslicht sicher zu begehen.",
+                "hu": "Az alagutakban gyakran melegebb van, mint kint, mert a föld szigetel; tervezze látogatását 16 óra elé, hogy a területet még biztonságos nappali fényben járhassa be.",
+                "ro": "În tuneluri este adesea mai cald decât afară datorită izolației pământului; planificați vizita înainte de ora 16 pentru a parcurge terenul în siguranță pe lumină.",
+                "en": "The tunnels are often warmer than outside as the earth provides insulation; plan your visit before 4 PM to navigate the grounds safely in daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Gräfliche Burg Créhange",
+                "hu": "Créhange-i grófi kastély",
+                "ro": "Castelul comital din Créhange",
+                "en": "Château comtal de Créhange"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt wie aus einem Märchen, wenn sie von Schnee bedeckt ist; achten Sie auf festes Schuhwerk mit Profil, da die Auffahrt vereist sein könnte.",
+                "hu": "A kastély úgy fest, mint egy mesebeli helyszín, ha hó borítja; viseljen barázdált talpú bakancsot, mert a felvezető út jeges és csúszós lehet télen.",
+                "ro": "Castelul arată ca într-un basm când este acoperit de zăpadă; purtați încălțăminte cu talpă aderentă, deoarece drumul de acces poate fi înghețat și periculos.",
+                "en": "The castle looks like something out of a fairy tale when covered in snow; wear boots with good tread as the access road might be icy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michaelskirche",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Sf. Mihail",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Kirche bietet in der frühen Dunkelheit einen schönen Anblick; schließen Sie den Besuch zügig ab, da die Temperaturen nach Sonnenuntergang stark sinken.",
+                "hu": "A templom kivilágítása a korai sötétségben gyönyörű látványt nyújt; fejezze be időben a látogatást, mert naplemente után a hőmérséklet hirtelen bezuhan.",
+                "ro": "Iluminarea bisericii oferă o priveliște superbă în întunericul timpuriu; încheiați vizita rapid, deoarece temperaturile scad brusc după apusul soarelui.",
+                "en": "The church's lighting offers a beautiful sight in the early darkness; wrap up your visit promptly as temperatures drop sharply after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,223 @@
         "hu": "Reggel: Kezdje a napot Faulquemont gazdag spirituális örökségének felfedezésével, sétáljon a központi kápolnák között, és csodálja meg a kora reggeli fényt az ősi köveken.\nDél: Ahogy az idő melegszik, térjen át a város robusztus történelmi hagyatékára. A Maginot-vonal erődje lenyűgöző földalatti titkokat és háborús történelmet tár fel ön előtt.\nDélután: A katonai mélységek után haladjon nyugat felé Créhange bájos területére, hogy megcsodálja a történelmi kastély és a szomszédos műemlékek által hagyott arisztokratikus nyomokat.\nEste: Zárja utazását békés légkörben egy gyönyörűen kivilágított helyi templomnál vagy egy nyugodt tó partján, elmélkedve e kis lotaringiai városka sokrétű történelmén.",
         "ro": "Dimineață: Începeți-vă ziua cufundându-vă în bogata moștenire spirituală din Faulquemont, plimbându-vă printre capelele centrale și admirând lumina dimineții pe pietrele antice.\nPrânz: Pe măsură ce ziua se încălzește, tranziția către moștenirea istorică a orașului. Fortăreața Liniei Maginot vă așteaptă, dezvăluind secrete subterane fascinante și istorie de război.\nDupă-amiază: După explorarea adâncurilor militare, mergeți spre vest în zona fermecătoare Créhange pentru a vă minuna de urmele aristocratice lăsate de castelul istoric.\nSeară: Încheiați-vă călătoria într-o atmosferă senină la o biserică frumos iluminată sau pe malul unui iaz, reflectând la istoria multifațetată a acestui oraș pitoresc din Lorena.",
         "en": "Morning: Start your day by immersing yourself in the rich spiritual heritage of Faulquemont, wandering between central chapels and admiring early morning light on ancient stones.\nMidday: As the day warms up, transition towards the town’s robust historical legacy. The imposing Maginot Line fortress awaits, revealing fascinating subterranean secrets and wartime history.\nAfternoon: After exploring the military depths, head west towards the charming area of Créhange to marvel at the aristocratic traces left by the historic county castle and neighboring monuments.\nEvening: Conclude your journey in a serene atmosphere at a beautifully illuminated local church or a tranquil pond side, reflecting on the multifaceted history of this quaint Lorraine town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Faulquemont erfordert Vorsicht auf den nassen Straßen, aber die Landschaft wirkt mystisch. Vormittags radeln wir zügig zwischen den Kapellen, um die Besichtigungen als Trockenpausen zu nutzen. Mittags stärken wir uns in Créhange, während die Räder unter einem Vordach stehen. Der Nachmittag führt uns trotz Schlamm zur Festung, bevor wir den Tag durchnässt, aber zufrieden beenden.",
+            "hu": "Az esős biciklizés Faulquemont-ban óvatosságot igényel a vizes utakon, de a táj ilyenkor misztikus arcát mutatja. Reggel a kápolnák között gyorsan tekerünk, a megállókat szárítkozásra használva. Délben Créhange-ban pihenünk, miközben a gépek fedél alatt várnak ránk. Délután a sár ellenére is felkeressük az erődöt, majd vizesen, de elégedetten zárjuk a túrát.",
+            "ro": "O tură cu bicicleta prin Faulquemont necesită prudență pe drumurile ude, dar peisajul pare mistic sub ploaie. Dimineața pedalăm rapid între capele, folosind vizitele ca pauze de uscare. La prânz ne refacem forțele în Créhange, în timp ce bicicletele stau sub un copertină. După-amiaza ne îndreptăm spre fortăreață în ciuda noroiului, încheind ziua uzi, dar mulțumiți.",
+            "en": "A rainy bike ride through Faulquemont requires caution on the wet roads, but the landscape looks mystical. In the morning, we cycle quickly between chapels, using visits as drying breaks. At noon, we recharge in Créhange while the bikes stay under a shelter. In the afternoon, we head to the fortress despite the mud, ending the day wet but satisfied with our journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle St. Vinzenz",
+                "hu": "Szent Vince-kápolna",
+                "ro": "Capela Sf. Vincențiu",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre Regenjacke zu richten; achten Sie beim Absteigen auf den nassen Asphalt, der für schmale Reifen sehr tückisch sein kann.",
+                "hu": "Használja ki a megállót az esőruha megigazítására; leszálláskor ügyeljen a vizes aszfaltra, amely a keskeny gumik számára rendkívül csalóka és csúszós.",
+                "ro": "Folosiți oprirea pentru a vă aranja pelerina de ploaie; atenție la coborârea de pe bicicletă pe asfaltul ud, care poate fi foarte înșelător pentru anvelope.",
+                "en": "Use this stop to adjust your rain gear; be careful when dismounting on the wet asphalt, which can be very treacherous for narrow bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Vinzenz Kirche",
+                "hu": "Szent Vince-templom",
+                "ro": "Biserica Sf. Vincențiu",
+                "en": "Saint-Vincent Church"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem festen Pfosten und prüfen Sie die Bremsbeläge, da Nässe die Bremswirkung beim nächsten Gefälle deutlich verzögern kann.",
+                "hu": "Láncolja le a bringát egy biztos ponthoz, és ellenőrizze a fékeket, mert a vizes felni miatt a féktávolság a következő lejtőn jelentősen megnőhet.",
+                "ro": "Asigurați bicicleta de un stâlp fix și verificați saboții de frână, deoarece umezeala poate întârzia semnificativ frânarea la următoarea coborâre.",
+                "en": "Secure your bike to a fixed post and check your brake pads, as wetness can significantly delay braking performance on the next downhill section."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Faulquemont",
+                "hu": "Fortăreața Faulquemont",
+                "en": "Ouvrage de Faulquemont"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Festung kann bei Regen schlammig sein; schalten Sie frühzeitig in einen leichten Gang, um auf dem weichen Untergrund nicht wegzurutschen.",
+                "hu": "Az erődhöz vezető emelkedő esőben sáros lehet; váltson időben könnyű fokozatba, hogy a puha talajon ne pörögjön ki a kerék és ne veszítse el egyensúlyát.",
+                "ro": "Urcarea spre fortăreață poate fi noroioasă pe ploaie; schimbați din timp într-o viteză inferioară pentru a nu aluneca pe suprafața moale a drumului.",
+                "en": "The climb to the fortress can be muddy in the rain; shift into a low gear early to avoid slipping or losing traction on the soft, wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Maria Königin",
+                "hu": "Szűz Mária Királynő-templom",
+                "ro": "Biserica Sf. Maria Regină",
+                "en": "Église Sainte-Marie-Reine"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Verschnaufpause im Trockenen; wischen Sie den Sattel vor der Weiterfahrt gründlich ab, um nicht im Nassen zu sitzen.",
+                "hu": "Ideális hely egy rövid, száraz pihenőre; a továbbindulás előtt alaposan törölje le a nyerget, hogy ne vizes felületen kelljen megtennie a hátralévő utat.",
+                "ro": "Un loc ideal pentru o scurtă pauză la uscat; ștergeți bine șaua înainte de a pleca din nou la drum pentru a nu sta direct pe o suprafață udă.",
+                "en": "An ideal place for a short breather in the dry; wipe your saddle thoroughly before continuing so you don't have to sit on a wet surface for the rest."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Josefskirche",
+                "hu": "Szent József-templom",
+                "ro": "Biserica Sf. Iosif",
+                "en": "Église Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf Aquaplaning in tiefen Pfützen; das Kirchenportal bietet Schutz, während Sie Ihre Karte oder das GPS trocken prüfen.",
+                "hu": "A környéken vigyázzon a mély tócsákra és a vízenfutásra; a templomkapu védelmében nyugodtan és szárazon ellenőrizheti az útvonalat a térképen.",
+                "ro": "Atenție la acvaplanare în bălțile adânci de pe drumul spre biserică; portalul oferă protecție în timp ce verificați harta sau GPS-ul la adăpost.",
+                "en": "Watch out for aquaplaning in deep puddles on your way here; the church portal provides shelter while you check your map or GPS in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Gräfliche Burg Créhange",
+                "hu": "Créhange-i grófi kastély",
+                "ro": "Castelul comital din Créhange",
+                "en": "Château comtal de Créhange"
+              },
+              "tip_5lang": {
+                "de": "Die steinernen Wege im Burgbereich sind bei Nässe extrem glatt; steigen Sie im Zweifelsfall ab und schieben Sie Ihr Rad sicher über das Kopfsteinpflaster.",
+                "hu": "A kastély körüli köves utak nedvesen rendkívül síkosak; kétség esetén inkább szálljon le, és tolja a biciklit a biztonság kedvéért a macskakövön.",
+                "ro": "Căile de piatră din zona castelului sunt extrem de alunecoase pe ploaie; dacă aveți dubii, coborâți și împingeți bicicleta în siguranță pe pavaj.",
+                "en": "The stone paths around the castle are extremely slick when wet; if in doubt, dismount and push your bike safely over the slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michaelskirche",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Sf. Mihail",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Bevor Sie die letzte Etappe antreten, reinigen Sie kurz die Reflektoren; Spritzwasser und Schmutz verringern sonst Ihre Sichtbarkeit im trüben Regenwetter.",
+                "hu": "Az utolsó szakasz előtt tisztítsa meg a prizmákat; a felcsapódó víz és sár jelentősen rontja a láthatóságát ebben a szürke, esős időjárásban.",
+                "ro": "Înainte de ultima etapă, curățați rapid reflectorizantele; apa și noroiul împroșcat vă reduc vizibilitatea în această vreme mohorâtă și ploioasă.",
+                "en": "Before starting the final leg, quickly clean your reflectors; spray and mud can significantly reduce your visibility in this gloomy, rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kaltes, klares Wetter bietet beste Sicht auf der Radtour um Faulquemont. Morgens halten wir uns durch kräftiges Treten warm, während wir die Kapellen ansteuern. Mittags ist eine heiße Suppe in der Stadt Pflicht, um die Glieder aufzuwärmen. Am Nachmittag radeln wir zügig zur Burg Créhange, da die Sonne schon früh gegen 17 Uhr tief steht. Der Abend endet bei frostigen Temperaturen und brennenden Beinen.",
+            "hu": "Hideg, tiszta időben a legjobb a kilátás a Faulquemont környéki bringatúrán. Reggel intenzív tekeréssel tartjuk melegen magunkat a kápolnák felé. Délben egy forró leves a városban kötelező program a tagjaink felmelegítéséhez. Délután sietünk a Créhange-i kastélyhoz, mert a nap már 17 óra előtt nagyon alacsonyan jár. A fagyos este fáradt, de elégedett izmokkal talál minket.",
+            "ro": "Vremea rece și senină oferă cea mai bună vizibilitate în tura cu bicicleta în jurul Faulquemont. Dimineața ne încălzim pedalând viguros spre capele. La prânz, o supă fierbinte în oraș este obligatorie pentru a ne dezmorți membrele. După-amiaza pedalăm rapid spre castel, deoarece soarele coboară sub orizont deja la ora 17:00. Seara se încheie cu temperaturi de îngheț.",
+            "en": "Cold, clear weather offers the best views on our bike tour around Faulquemont. In the morning, we stay warm by pedaling vigorously towards the chapels. At noon, a hot soup in town is a must to warm up our limbs. In the afternoon, we cycle quickly to Créhange as the sun hangs low by 5 PM. The evening ends with freezing temperatures and tired but satisfied legs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle St. Vinzenz",
+                "hu": "Szent Vince-kápolna",
+                "ro": "Capela Sf. Vincențiu",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind bei Frost die Finger schnell taub werden lässt; die Kapelle bietet eine kurze windstille Pause.",
+                "hu": "Viseljen szélálló kesztyűt, mert a menetszél fagyban gyorsan elzsibbasztja az ujjait; a kápolna fala mellett tartson egy rövid, szélvédett pihenőt.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece curentul de aer la îngheț vă poate amorți rapid degetele; capela oferă o scurtă pauză ferită de vânt.",
+                "en": "Wear windproof gloves as the wind chill during frost can quickly numb your fingers; the chapel walls provide a brief, wind-sheltered break."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Vinzenz Kirche",
+                "hu": "Szent Vince-templom",
+                "ro": "Biserica Sf. Vincențiu",
+                "en": "Saint-Vincent Church"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie langes Stehenbleiben, um nicht auszukühlen; nutzen Sie die Besichtigung der Kirche, um sich kurzzeitig in der windgeschützten Halle zu regenerieren.",
+                "hu": "Kerülje a hosszú egy helyben állást, hogy ne hűljön ki a teste; használja ki a templom belső terét a szélvédett helyen történő rövid regenerálódásra.",
+                "ro": "Evitați staționările lungi pentru a nu vă răci corpul; folosiți vizitarea bisericii pentru a vă regenera scurt timp în sala protejată de vântul rece.",
+                "en": "Avoid staying stationary for too long to keep your body heat; use the church visit to briefly recover in the wind-protected interior hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Faulquemont",
+                "hu": "Faulquemont-i erőd",
+                "ro": "Fortăreața Faulquemont",
+                "en": "Ouvrage de Faulquemont"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und hart sein, was den Grip verbessert, aber Vorsicht bei verstecktem Glatteis unter dem ersten leichten Pulverschnee.",
+                "hu": "A talaj fagyott és kemény lehet, ami javítja a tapadást, de vigyázzon az első vékony porhó alatt megbújó láthatatlan és veszélyes jégfoltokra.",
+                "ro": "Solul poate fi înghețat și tare, ceea ce îmbunătățește aderența, dar atenție la gheața ascunsă sub primul strat subțire de zăpadă pudră.",
+                "en": "The ground can be frozen and hard, which improves grip, but watch out for black ice hidden under the first light dusting of powdery snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Maria Königin",
+                "hu": "Szűz Mária Királynő-templom",
+                "ro": "Biserica Sf. Maria Regină",
+                "en": "Église Sainte-Marie-Reine"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Ihre Reifendruck: Etwas weniger Luft erhöht die Auflagefläche auf winterlichen Wegen; die Kirche bietet Schutz vor dem kalten Ostwind.",
+                "hu": "Ügyeljen a guminyomásra: a kissé laposabb kerék növeli a tapadási felületet a téli utakon; a templom falai védelmet nyújtanak a jeges keleti szél ellen.",
+                "ro": "Atenție la presiunea din anvelope: puțin mai puțin aer crește suprafața de contact pe drumurile de iarnă; biserica oferă adăpost de vântul rece.",
+                "en": "Watch your tire pressure: slightly less air increases the contact area on wintry paths; the church offers protection from the biting cold east wind."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Josefskirche",
+                "hu": "Szent József-templom",
+                "ro": "Biserica Sf. Iosif",
+                "en": "Église Saint-Joseph"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht hier nachmittags tief und kann blenden; tragen Sie eine Sportbrille, um Unebenheiten auf den frostigen Wegen besser erkennen zu können.",
+                "hu": "A nap délután alacsonyan jár és elvakíthat; viseljen sportnapszemüveget, hogy jobban felismerhesse az úthibákat a fagyos, csillogó aszfalton.",
+                "ro": "Soarele stă jos după-amiaza și vă poate orbi; purtați ochelari de sport pentru a recunoaște mai bine denivelările de pe drumurile înghețate.",
+                "en": "The sun hangs low in the afternoon and can be blinding; wear sports glasses to better spot any hazards or bumps on the frozen, glistening paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Gräfliche Burg Créhange",
+                "hu": "Créhange-i grófi kastély",
+                "ro": "Castelul comital din Créhange",
+                "en": "Château comtal de Créhange"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg kann im Winter sehr rutschig sein; schalten Sie in einen niedrigen Gang und treten Sie gleichmäßig, um ein Wegrutschen zu vermeiden.",
+                "hu": "A kastélyhoz vezető feljáró télen nagyon csúszós lehet; váltson alacsony fokozatba és tekerjen egyenletesen, hogy elkerülje a hátsó kerék kipörgését.",
+                "ro": "Urcarea spre castel poate fi foarte alunecoasă iarna; schimbați într-o viteză mică și pedalați constant pentru a evita deraparea roții spate.",
+                "en": "The approach to the castle can be very slippery in winter; shift to a low gear and pedal steadily to avoid the rear wheel slipping on the incline."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michaelskirche",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Sf. Mihail",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Beleuchtung einwandfrei funktioniert; ab 16:30 Uhr sinkt die Sichtbarkeit massiv und die Kälte zieht in die Kleidung ein.",
+                "hu": "Győződjön meg róla, hogy a világítása tökéletesen működik; 16:30 után a láthatóság drasztikusan romlik, és a hideg is egyre mélyebben hatol a ruhája alá.",
+                "ro": "Asigurați-vă că luminile funcționează perfect; după ora 16:30 vizibilitatea scade masiv și frigul pătrunde tot mai adânc prin haine.",
+                "en": "Ensure your bike lights are working perfectly; after 4:30 PM, visibility drops drastically and the cold will start to penetrate even thermal clothing."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +893,251 @@
         "hu": "Reggel: Kezdje a napot Faulquemont gazdag spirituális örökségének felfedezésével, sétáljon a központi kápolnák között, és csodálja meg a kora reggeli fényt az ősi köveken.\nDél: Ahogy az idő melegszik, térjen át a város robusztus történelmi hagyatékára. A Maginot-vonal erődje lenyűgöző földalatti titkokat és háborús történelmet tár fel ön előtt.\nDélután: A katonai mélységek után haladjon nyugat felé Créhange bájos területére, hogy megcsodálja a történelmi kastély és a szomszédos műemlékek által hagyott arisztokratikus nyomokat.\nEste: Zárja utazását békés légkörben egy gyönyörűen kivilágított helyi templomnál vagy egy nyugodt tó partján, elmélkedve e kis lotaringiai városka sokrétű történelmén.",
         "ro": "Dimineață: Începeți-vă ziua cufundându-vă în bogata moștenire spirituală din Faulquemont, plimbându-vă printre capelele centrale și admirând lumina dimineții pe pietrele antice.\nPrânz: Pe măsură ce ziua se încălzește, tranziția către moștenirea istorică a orașului. Fortăreața Liniei Maginot vă așteaptă, dezvăluind secrete subterane fascinante și istorie de război.\nDupă-amiază: După explorarea adâncurilor militare, mergeți spre vest în zona fermecătoare Créhange pentru a vă minuna de urmele aristocratice lăsate de castelul istoric.\nSeară: Încheiați-vă călătoria într-o atmosferă senină la o biserică frumos iluminată sau pe malul unui iaz, reflectând la istoria multifațetată a acestui oraș pitoresc din Lorena.",
         "en": "Morning: Start your day by immersing yourself in the rich spiritual heritage of Faulquemont, wandering between central chapels and admiring early morning light on ancient stones.\nMidday: As the day warms up, transition towards the town’s robust historical legacy. The imposing Maginot Line fortress awaits, revealing fascinating subterranean secrets and wartime history.\nAfternoon: After exploring the military depths, head west towards the charming area of Créhange to marvel at the aristocratic traces left by the historic county castle and neighboring monuments.\nEvening: Conclude your journey in a serene atmosphere at a beautifully illuminated local church or a tranquil pond side, reflecting on the multifaceted history of this quaint Lorraine town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine entspannte Fahrt im trockenen Auto durch die verregnete Region Lothringen. Vormittags genießen wir den Blick auf den Bouligny-Teich, während die Tropfen gegen das Glas trommeln. Mittags besuchen wir die Kirchen und Festungen, wobei wir nur kurze Strecken im Regen laufen müssen. Am Nachmittag bietet der Golfclub eine überdachte Terrasse. Der Tag endet sicher und komfortabel trotz der nassen Fahrbahn.",
+            "hu": "Kényelmes, száraz autós utazás a megázott lotaringiai vidéken. Reggel a Bouligny-tó látványát élvezzük a szélvédő mögül, miközben az eső a tetőn dobog. Napközben a templomokat és az erődöt látogatjuk meg, csak rövid távokat téve meg a szabadban. Délután a golfklub fedett terasza nyújt menedéket. A nap biztonságosan és komfortosan zárul a vizes utak ellenére is.",
+            "ro": "O călătorie relaxantă cu mașina prin regiunea Lorena sub ploaie. Dimineața admirăm iazul Bouligny în timp ce picăturile bat în geam. În timpul zilei vizităm bisericile și fortăreața, parcurgând doar distanțe scurte prin ploaie. După-amiaza, clubul de golf oferă o terasă acoperită. Ziua se încheie sigur și confortabil, în ciuda drumurilor ude și a vizibilității scăzute.",
+            "en": "A relaxed drive in a dry car through the rain-soaked Lorraine region. In the morning, we enjoy the view of Étang de Bouligny while raindrops drum against the glass. During the day, we visit churches and the fortress, walking only short distances in the rain. In the afternoon, the golf club provides a covered terrace. The day ends safely and comfortably despite the wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bouligny-Teich",
+                "hu": "Bouligny-tó",
+                "ro": "Iazul Bouligny",
+                "en": "Étang de Bouligny"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie den Teich direkt aus dem Auto sehen können; bei starkem Regen ist der Uferweg oft sehr schlammig und kaum begehbar.",
+                "hu": "Parkoljon úgy, hogy közvetlenül az autóból láthassa a tavat; heves esőben a parti ösvény gyakran nagyon sáros és nehezen járható a gyalogosoknak.",
+                "ro": "Parcați astfel încât să puteți vedea iazul direct din mașină; pe ploaie puternică, poteca de pe mal este adesea foarte noroioasă și greu accesibilă.",
+                "en": "Park so you can view the pond directly from your car; during heavy rain, the lakeside path is often very muddy and difficult to navigate on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle St. Vinzenz",
+                "hu": "Szent Vince-kápolna",
+                "ro": "Capela Sf. Vincențiu",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten direkt an der Kapelle erlauben einen schnellen Sprint ins Trockene; nehmen Sie dennoch einen Schirm für den kurzen Weg mit.",
+                "hu": "A közvetlenül a kápolnánál lévő parkolási lehetőség gyors bejutást tesz lehetővé; azért vigyen magával esernyőt arra a pár méterre is, amit meg kell tennie.",
+                "ro": "Posibilitățile de parcare direct la chapelă permit un sprint rapid la adăpost; totuși, luați o umbrelă pentru scurta distanță până la intrare.",
+                "en": "The parking right by the chapel allows for a quick sprint to the dry interior; still, take an umbrella for the short distance you need to cover."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Vinzenz Kirche",
+                "hu": "Szent Vince-templom",
+                "ro": "Biserica Sf. Vincențiu",
+                "en": "Saint-Vincent Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine trockene Kulturpause; achten Sie beim Einparken auf tiefe Pfützen am Straßenrand, die Ihre Schuhe sofort durchnässen könnten.",
+                "hu": "Használja ki a megállót egy száraz kulturális pihenőre; parkoláskor ügyeljen az útmenti mély tócsákra, amelyek azonnal eláztathatják a cipőjét kiszálláskor.",
+                "ro": "Folosiți oprirea pentru o pauză culturală la uscat; atenție la parcarea lângă bălțile adânci de la marginea drumului care vă pot uda încălțămintea.",
+                "en": "Use this stop for a dry cultural break; when parking, watch out for deep puddles at the roadside that could soak your shoes the moment you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Faulquemont",
+                "hu": "Faulquemont-i erőd",
+                "ro": "Fortăreața Faulquemont",
+                "en": "Ouvrage de Faulquemont"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist befestigt, sodass Sie sauberen Fußes zum Eingang kommen; im Inneren der Anlage sind Sie vor dem heftigen Regen bestens geschützt.",
+                "hu": "A parkoló szilárd burkolatú, így tiszta lábbal érhet a bejárathoz; az erődítmény belsejében pedig tökéletes védelmet élvez a heves esőzés ellen.",
+                "ro": "Parcarea este pavată, astfel încât să ajungeți la intrare fără noroi pe picioare; în interiorul fortului sunteți protejat excelent de ploaia torențială.",
+                "en": "The parking lot is paved, allowing you to reach the entrance with clean feet; inside the fortification, you are perfectly protected from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gräfliche Burg Créhange",
+                "hu": "Créhange-i grófi kastély",
+                "ro": "Castelul comital din Créhange",
+                "en": "Château comtal de Créhange"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf Aquaplaning-Gefahr; die Burgbesichtigung lässt sich wunderbar mit einer trockenen Kaffeepause im Auto kombinieren.",
+                "hu": "A kastélyhoz vezető úton vigyázzon a vízenfutás veszélyére; a látogatást remekül összekötheti egy kényelmes, száraz kávézással az autóban ülve.",
+                "ro": "Atenție la riscul de acvaplanare pe drumul spre castel; vizita la castel poate fi combinată minunat cu o pauză de cafea la uscat în interiorul mașinii.",
+                "en": "Watch out for aquaplaning on the road to the castle; the visit can be wonderfully combined with a dry coffee break inside your comfortable car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Maria Königin",
+                "hu": "Szűz Mária Királynő-templom",
+                "ro": "Biserica Sf. Maria Regină",
+                "en": "Église Sainte-Marie-Reine"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht beim Abbiegen zur Kirche kann durch Gischt eingeschränkt sein; nutzen Sie die Zeit in der Kirche, um die Scheiben innen kurz zu entfeuchten.",
+                "hu": "A templomhoz való kanyarodáskor a felcsapódó víz ronthatja a látást; használja ki a bent töltött időt az autó szélvédőinek belső páramentesítésére.",
+                "ro": "Vizibilitatea la virarea spre biserică poate fi limitată de apa împroșcată; folosiți timpul petrecut în biserică pentru a dezaburi geamurile mașinii.",
+                "en": "Visibility when turning towards the church may be limited by spray; use the time in the church to let the car windows defog properly on the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Golfclub Faulquemont-Pontpierre",
+                "hu": "Faulquemont-Pontpierre Golfklub",
+                "ro": "Clubul de Golf Faulquemont-Pontpierre",
+                "en": "Faulquemont-Pontpierre Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Das Clubhaus bietet eine hervorragende Aussicht auf die verregneten Greens; genießen Sie ein Getränk im Trockenen, während Sie die Natur beobachten.",
+                "hu": "A klubház kiváló kilátást nyújt az eső áztatta pályákra; élvezzen egy italt a szárazban, miközben a kinti természet szürke árnyalatait figyeli.",
+                "ro": "Clubul oferă o vedere excelentă asupra terenurilor inundate de ploaie; savurați o băutură la adăpost în timp ce observați natura de afară.",
+                "en": "The clubhouse offers excellent views of the rain-soaked greens; enjoy a drink in the dry while observing the moody nature through the large windows."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Leopoldkirche",
+                "hu": "Szent Lipót-templom",
+                "ro": "Biserica Sf. Leopold",
+                "en": "Église Saint-Léopold"
+              },
+              "tip_5lang": {
+                "de": "Ein würdevoller Abschluss im Trockenen; prüfen Sie vor der Heimfahrt Ihre Beleuchtung, da die Sicht auf nasser Fahrbahn im Dunkeln stark abnimmt.",
+                "hu": "Méltóságteljes zárása a napnak a szárazban; indulás előtt ellenőrizze a lámpákat, mert a vizes úton a látási viszonyok sötétben sokat romlanak.",
+                "ro": "Un final demn al zilei la adăpost; verificați luminile înainte de plecare, deoarece vizibilitatea pe drumul ud scade drastic odată cu lăsarea serii.",
+                "en": "A dignified conclusion in the dry; check your lights before heading home, as visibility on wet roads decreases significantly once darkness falls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterzauber in Lothringen bei angenehmer Sitzheizung. Vormittags führt uns die Fahrt zum zugefrorenen Bouligny-Teich, eine malerische Kulisse. Mittags erkunden wir die Kirchen, wobei das Auto stets unser warmer Rückzugsort bleibt. Am Nachmittag besuchen wir den Golfclub für ein Heißgetränk, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend endet sicher bei Frost, während wir durch die beleuchteten Straßen gleiten.",
+            "hu": "Téli varázslat Lotaringiában, kényelmes ülésfűtés mellett. Reggel az utunk a befagyott Bouligny-tóhoz vezet, amely festői látványt nyújt a fagyban. Napközben a templomokat fedezzük fel, miközben az autó végig meleg menedékként szolgál. Délután a golfklubban iszunk egy forró italt, mielőtt 17 óra körül lemegy a nap. A fagyos este biztonságos autózással zárul a kivilágított utcákon.",
+            "ro": "Magia iernii în Lorena din confortul mașinii încălzite. Dimineața drumul ne duce la iazul Bouligny înghețat, un decor pitoresc. În timpul zilei explorăm bisericile, mașina rămânând mereu refugiul nostru cald. După-amiaza vizităm clubul de golf pentru o băutură fierbinte, înainte ca soarele să apună în jur de ora 17:00. Seara se încheie sigur pe ger, alunecând prin străzile luminate.",
+            "en": "Winter magic in Lorraine with the comfort of heated seats. In the morning, the drive takes us to the frozen Étang de Bouligny, a picturesque backdrop. During the day, we explore the churches, with the car always remaining our warm retreat. In the afternoon, we visit the golf club for a hot drink before the sun sets around 5 PM. The evening ends safely in the frost as we glide through lighted streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bouligny-Teich",
+                "hu": "Bouligny-tó",
+                "ro": "Iazul Bouligny",
+                "en": "Étang de Bouligny"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Frost glatt sein; genießen Sie das Panorama des eisbedeckten Teichs aus dem beheizten Wagen, ohne sich der Kälte auszusetzen.",
+                "hu": "A bekötőút fagyban csúszós lehet; élvezze a jéggel borított tó panorámáját a fűtött utastérből, anélkül, hogy ki kellene tennie magát a metsző hidegnek.",
+                "ro": "Accesul poate fi alunecos pe ger; bucurați-vă de panorama iazului acoperit de gheață din mașina încălzită, fără a vă expune frigului de afară.",
+                "en": "The access road can be slippery during frost; enjoy the panorama of the ice-covered pond from your heated car without exposing yourself to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle St. Vinzenz",
+                "hu": "Szent Vince-kápolna",
+                "ro": "Capela Sf. Vincențiu",
+                "en": "Chapelle Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Kapelle besichtigen; die Restwärme im Auto reicht meist für die kurze Dauer der Besichtigung aus.",
+                "hu": "Ne járassa feleslegesen a motort, amíg a kápolnát nézi; az autóban maradó hő általában elegendő arra a rövid időre, amíg bent tartózkodik a látnivalónál.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce vizitați capela; căldura reziduală din mașină este de obicei suficientă pentru durata scurtă a vizitei.",
+                "en": "Don't leave the engine idling while visiting the chapel; the residual heat in the car is usually enough for the short duration of the interior tour."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Vinzenz Kirche",
+                "hu": "Szent Vince-templom",
+                "ro": "Biserica Sf. Vincențiu",
+                "en": "Saint-Vincent Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf überfrierende Nässe auf dem Parkplatz; die Kirche ist im Winter oft sehr kühl, behalten Sie also Ihren Mantel währenddessen an.",
+                "hu": "Kiszálláskor ügyeljen az ónos esőre vagy felfagyásra a parkolóban; a templom télen gyakran nagyon hűvös, így érdemes magán hagynia a kabátját a látogatás alatt.",
+                "ro": "Atenție la polei în parcare când coborâți din mașină; biserica este adesea foarte răcoroasă iarna, așa că păstrați haina pe dumneavoastră în timpul vizitei.",
+                "en": "Watch out for black ice in the parking lot when getting out; the church is often very chilly in winter, so keep your coat on during the entire visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung Faulquemont",
+                "hu": "Faulquemont-i erőd",
+                "ro": "Fortăreața Faulquemont",
+                "en": "Ouvrage de Faulquemont"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdischen Gänge haben konstante Temperaturen; nutzen Sie diesen Halt als längere Pause von der beißenden Winterkälte auf dem Außengelände.",
+                "hu": "A föld alatti járatok hőmérséklete állandó; használja ezt a megállót hosszabb pihenőként, menekülve a kinti, metsző téli hideg elől a várfalak közé.",
+                "ro": "Pasajele subterane au temperaturi constante; folosiți această oprire ca o pauză mai lungă de la frigul iernii de pe terenul exterior al fortăreței.",
+                "en": "The underground passages have constant temperatures; use this stop as a longer break from the biting winter cold on the outdoor grounds above."
+              }
+            },
+            {
+              "name": {
+                "de": "Gräfliche Burg Créhange",
+                "hu": "Créhange-i grófi kastély",
+                "ro": "Castelul comital din Créhange",
+                "en": "Château comtal de Créhange"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem steilen Anstieg zur Burg den Straßenzustand; bei Schnee bietet die Burg eine besonders romantische Kulisse für Urlaubsfotos.",
+                "hu": "A kastélyhoz vezető meredekebb szakasz előtt ellenőrizze az út állapotát; hóesésben a várfalak különösen romantikus hátteret adnak a fotókhoz.",
+                "ro": "Verificați starea drumului înainte de urcarea abruptă spre castel; în caz de zăpadă, castelul oferă un cadru deosebit de romantic pentru fotografii.",
+                "en": "Check the road conditions before the steep climb to the castle; in snow, the castle provides a particularly romantic backdrop for your holiday photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Maria Königin",
+                "hu": "Szűz Mária Királynő-templom",
+                "ro": "Biserica Sf. Maria Regină",
+                "en": "Église Sainte-Marie-Reine"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Wischwasser genügend Frostschutz enthält; das Salz auf den Straßen kann die Sicht bei tiefstehender Wintersonne schnell trüben.",
+                "hu": "Győződjön meg róla, hogy a szélvédőmosó elegendő fagyállót tartalmaz; az utakra szórt só és az alacsony téli nap gyorsan elhomályosíthatja a látást.",
+                "ro": "Asigurați-vă că lichidul de parbriz conține destul antigel; sarea de pe drumuri și soarele de iarnă pot opaciza rapid vizibilitatea prin parbriz.",
+                "en": "Ensure your windshield washer fluid has enough antifreeze; road salt and the low winter sun can quickly obscure your vision through the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Golfclub Faulquemont-Pontpierre",
+                "hu": "Faulquemont-Pontpierre Golfklub",
+                "ro": "Clubul de Golf Faulquemont-Pontpierre",
+                "en": "Faulquemont-Pontpierre Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich im geheizten Clubhaus aufzuwärmen; genießen Sie den Blick über die frostige Landschaft bei einem heißen Kakao oder Tee.",
+                "hu": "Ideális hely a felmelegedésre a fűtött klubházban; élvezze a fagyos tájra nyíló kilátást egy bögre forró kakaó vagy tea társaságában a kandalló közelében.",
+                "ro": "Un loc ideal pentru a vă încălzi în clubul încălzit; bucurați-vă de vederea peste peisajul înghețat cu o cacao fierbinte sau un ceai cald.",
+                "en": "An ideal place to warm up in the heated clubhouse; enjoy the view over the frosty landscape with a hot cocoa or tea in a cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Leopoldkirche",
+                "hu": "Szent Leopoldkirche",
+                "en": "Église Saint-Léopold"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Abfahrt auf Wildwechsel in der Dämmerung; die Temperaturen sinken nun rasch und können die Straßenoberfläche gefährlich glatt machen.",
+                "hu": "Induláskor ügyeljen a szürkületben megjelenő vadakra; a hőmérséklet mostantól gyorsan süllyed, ami az útfelületet hirtelen és veszélyesen síkossá teheti.",
+                "ro": "Atenție la animalele sălbatice în amurg la plecare; temperaturile scad acum rapid și pot face suprafața drumului periculos de alunecoasă.",
+                "en": "Watch out for wildlife at dusk when leaving; temperatures drop quickly now and can make the road surface unexpectedly and dangerously slippery."
+              }
+            }
+          ]
+        }
       }
     }
   }

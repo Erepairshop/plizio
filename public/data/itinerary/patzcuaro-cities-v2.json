@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi központban indul Vasco de Quiroga emlékművével, amely megadja Pátzcuaro gyarmati varázsát. Délben a nyüzsgő helyi kézműves múzeumba látogat. A délutánt a lenyűgöző bazilikának és egy közeli kulturális színháznak szenteljük. Az este egy kedvelt helyi nevezetességnél ér véget, tökéletesen lezárva ezt a kellemes városi sétát.",
         "ro": "Dimineața începe în inima istorică cu monumentul lui Vasco de Quiroga, stabilind farmecul colonial al orașului Pátzcuaro. La amiază vizitați muzeul vibrant de meșteșuguri locale. După-amiaza este rezervată pentru uimitoarea bazilică și un teatru cultural din apropiere. Seara se încheie liniștit la un punct de reper local îndrăgit, terminând perfect plimbarea prin oraș.",
         "en": "Morning begins at the historic heart with Vasco de Quiroga's monument, setting the stage for Pátzcuaro's colonial charm. Midday brings you to the vibrant local crafts museum, where indigenous artistry shines. Afternoon is reserved for the stunning basilica and a nearby cultural theater. Evening gently wraps up at a beloved local landmark, perfectly ending your stroll through town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang am Denkmal mit einem Schirm. Verbringen Sie den nassen Morgen in den trockenen Sälen des Museums. Suchen Sie mittags Zuflucht vor den Schauern in der beeindruckenden Basilika und dem historischen Theater. Beenden Sie den Tag im Salon bei gemütlicher Atmosphäre im Trockenen.",
+            "hu": "Kezdje az esős sétát az emlékműnél egy strapabíró esernyővel. A délelőttöt töltse a múzeum száraz, fedett kiállítótereiben. Délben keressen menedéket a záporok elől a lenyűgöző bazilikában és a történelmi színházban. A napot a szalonban zárja, élvezve a kényelmes belső teret, miközben kint esik az eső.",
+            "ro": "Începeți plimbarea ploioasă la monument cu o umbrelă rezistentă. Petreceți dimineața umedă explorând expozițiile interioare ale muzeului. La prânz, căutați refugiu din calea averselor în impresionanta bazilică și teatrul istoric. Încheiați ziua la salon, bucurându-vă de o seară confortabilă în interior.",
+            "en": "Start your rainy walk at the monument with a sturdy umbrella. Spend the wet morning exploring the museum's indoor exhibits. At noon, seek refuge from the showers inside the grand basilica and the historic theater. Finish your day at the salon, enjoying a cozy indoor evening while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Vasco de Quiroga",
+                "hu": "Monumento a Vasco de Quiroga",
+                "ro": "Monumento a Vasco de Quiroga",
+                "en": "Monumento a Vasco de Quiroga"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Statue kurz unter Ihrem Regenschirm, bevor Sie weitergehen, da das nasse Kopfsteinpflaster auf dem Platz recht rutschig sein kann.",
+                "hu": "Csodálja meg a történelmi szobrot az esernyője alól, de vigyázzon a lépéseire, mert a nedves macskaköves tér az esőben meglehetősen csúszós lehet.",
+                "ro": "Admirați statuia istorică sub umbrela dumneavoastră solidă înainte de a merge mai departe, deoarece pietrele umede din piață pot fi destul de alunecoase.",
+                "en": "Admire the historic statue briefly under your sturdy umbrella before moving on, as the wet cobblestones around the plaza can be quite slippery during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de las Artes e Industrias Populares",
+                "hu": "Museo de las Artes e Industrias Populares",
+                "ro": "Museo de las Artes e Industrias Populares",
+                "en": "Museo de las Artes e Industrias Populares"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das faszinierende regionale Kunsthandwerk in diesem trockenen, geschützten Museum, das einen perfekten Zufluchtsort vor den starken Regengüssen bietet.",
+                "hu": "Fedezze fel a lenyűgöző regionális kézműves alkotásokat ebben a száraz, védett múzeumban, amely tökéletes és érdekes menedéket nyújt a heves reggeli záporok elől.",
+                "ro": "Explorați meșteșugurile regionale fascinante în acest muzeu uscat, care oferă o evadare perfectă și captivantă din calea ploilor torențiale de dimineață.",
+                "en": "Explore the fascinating regional crafts inside this dry, sheltered museum, providing a perfect and engaging escape from the heavy morning downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica de Nuestra Señora de la Salud",
+                "hu": "Basilica de Nuestra Señora de la Salud",
+                "ro": "Basilica de Nuestra Señora de la Salud",
+                "en": "Basilica de Nuestra Señora de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Architektur im Inneren dieses riesigen, trockenen Kirchenschiffs und schütteln Sie Ihren nassen Regenmantel am Eingang ab, während es draußen regnet.",
+                "hu": "Csodálja meg az építészetet a hatalmas, száraz templomhajóban, miután lerázta a vizet a nedves esőkabátjáról a bejáratnál, miközben kint szakad az eső.",
+                "ro": "Minunați-vă de arhitectura din interiorul acestei nave uriașe și uscate, scuturând pelerina de ploaie umedă la intrare, în timp ce plouă afară.",
+                "en": "Marvel at the architecture inside this massive, dry nave, taking a moment to shake off your wet raincoat at the entrance while the storm passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Emperador Caltzontzin",
+                "hu": "Teatro Emperador Caltzontzin",
+                "ro": "Teatro Emperador Caltzontzin",
+                "en": "Teatro Emperador Caltzontzin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Architektur und die Wandmalereien in diesem Theater, ein fantastischer kultureller Unterschlupf, wenn der Regen heftiger wird.",
+                "hu": "Élvezze a történelmi építészetet és a falfestményeket ebben a színházban, amely egy fantasztikus kulturális menedékhely, ha az eső hirtelen rákezdenek.",
+                "ro": "Bucurați-vă de arhitectura istorică și de picturile murale din acest teatru, un adăpost cultural fantastic atunci când ploaia devine mai puternică.",
+                "en": "Enjoy the historic architecture and indoor murals of this theater, serving as a fantastic cultural shelter when the afternoon rain gets particularly heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "salon Robal",
+                "hu": "salon Robal",
+                "ro": "salon Robal",
+                "en": "salon Robal"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie sich bei Indoor-Unterhaltung an diesem lebhaften Wahrzeichen und genießen Sie einen völlig trockenen und komfortablen Abschluss eines nassen Tages.",
+                "hu": "Pihenjen a benti szórakozási lehetőségekkel ebben a nyüzsgő nevezetességben, teljesen száraz és kényelmes befejezést adva egy esős, nedves napnak.",
+                "ro": "Relaxați-vă cu divertisment în interior la acest reper plin de viață, bucurându-vă de un final complet uscat și confortabil al unei zile umede.",
+                "en": "Relax with indoor entertainment at this lively landmark, enjoying a completely dry and perfectly comfortable end to a rather wet and overcast day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen Spaziergang, der am Denkmal beginnt. Wärmen Sie sich im Museum auf, während Sie das Kunsthandwerk bewundern. Mittags bieten Basilika und Theater Schutz vor der Kälte. Beenden Sie den Ausflug im Salon vor dem frühen Sonnenuntergang um 17:00 Uhr und genießen Sie die Lichter.",
+            "hu": "Öltözzön melegen a csípős reggeli sétához, mely az emlékműnél indul. Melegedjen fel a múzeumban a kézműves termékek között. Délben a bazilika és a színház nyújt menedéket a hideg elől. Zárja a napot a szalonban a korai, 17:00 órás naplemente előtt, élvezve a kora esti hangulatot.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală răcoroasă la monument. Încălziți-vă în muzeu admirând meșteșugurile. La prânz, bazilica și teatrul vă oferă adăpost împotriva frigului. Finalizați traseul la salon înainte de apusul timpuriu de la ora 17:00.",
+            "en": "Bundle up for a crisp morning walk starting at the monument. Retreat to the museum to warm up while admiring crafts. Midday brings you to the basilica and theater, perfect for staying out of the chill. Finish at the salon before the early winter sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Vasco de Quiroga",
+                "hu": "Monumento a Vasco de Quiroga",
+                "ro": "Monumento a Vasco de Quiroga",
+                "en": "Monumento a Vasco de Quiroga"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das beeindruckende Denkmal, eingewickelt in einen warmen Schal, und genießen Sie die klare Winterluft, bevor Sie nach drinnen gehen.",
+                "hu": "Nézze meg a lenyűgöző emlékművet egy meleg sálba burkolózva, kiélvezve a friss, csípős téli levegőt, mielőtt a zárt terek felé venné az irányt.",
+                "ro": "Priviți monumentul impresionant înfășurat într-un fular călduros, bucurându-vă de aerul curat de iarnă înainte de a intra în spații închise.",
+                "en": "View the impressive monument wrapped in a warm scarf, enjoying the crisp winter morning air before heading indoors to explore further."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de las Artes e Industrias Populares",
+                "hu": "Museo de las Artes e Industrias Populares",
+                "ro": "Museo de las Artes e Industrias Populares",
+                "en": "Museo de las Artes e Industrias Populares"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die reiche lokale Volkskunst in den gut beheizten Ausstellungsräumen, eine großartige Möglichkeit, Ihre Hände am Vormittag aufzuwärmen.",
+                "hu": "Fedezze fel a gazdag helyi népművészetet a jól fűtött kiállítótermekben, ami nagyszerű lehetőséget kínál a fagyos kezei felmelegítésére a délelőtt folyamán.",
+                "ro": "Descoperiți arta populară locală în sălile de expoziție bine încălzite, o modalitate excelentă de a vă încălzi mâinile dimineața.",
+                "en": "Discover the rich local folk art in the well-heated exhibition rooms, providing a great way to warm your hands during the chilly winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica de Nuestra Señora de la Salud",
+                "hu": "Basilica de Nuestra Señora de la Salud",
+                "ro": "Basilica de Nuestra Señora de la Salud",
+                "en": "Basilica de Nuestra Señora de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit, die Architektur und den Hauptaltar in diesem ruhigen, zugluftfreien Schutzraum gegen die Winterkälte zu bewundern.",
+                "hu": "Szánjon időt a lenyűgöző építészet és a főoltár megcsodálására ebben a csendes, huzatmentes szentélyben, amely megvédi a kinti téli hidegtől.",
+                "ro": "Acordați-vă timp pentru a admira arhitectura în acest sanctuar liniștit, fără curenți de aer, care vă protejează împotriva frigului de iarnă.",
+                "en": "Take your time admiring the stunning architecture and the main altar in this quiet, draft-free sanctuary that protects you against the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Emperador Caltzontzin",
+                "hu": "Teatro Emperador Caltzontzin",
+                "ro": "Teatro Emperador Caltzontzin",
+                "en": "Teatro Emperador Caltzontzin"
+              },
+              "tip_5lang": {
+                "de": "Schätzen Sie die Details dieses schönen Veranstaltungsortes, ein perfekter kultureller Stopp im Innenbereich, um dem beißenden Winterwind zu entkommen.",
+                "hu": "Értékelje e gyönyörű helyszín részleteit, amely egy tökéletes benti kulturális megálló, hogy elmeneküljön a metsző, kellemetlen téli szél elől.",
+                "ro": "Apreciați detaliile acestui loc frumos, o oprire culturală perfectă în interior pentru a scăpa de vântul tăios de iarnă.",
+                "en": "Appreciate the intricate details of this beautiful venue, a perfect indoor cultural stop to escape the biting winter wind during the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "salon Robal",
+                "hu": "salon Robal",
+                "ro": "salon Robal",
+                "en": "salon Robal"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Tag an diesem Ort im Innenbereich ausklingen, kurz bevor der frühe Sonnenuntergang um 17:00 Uhr die Außentemperaturen stark fallen lässt.",
+                "hu": "Vezesse le a napot ezen a fedett helyszínen, nem sokkal azelőtt, hogy a korai, 17:00 órás naplemente miatt a kinti hőmérséklet hirtelen lecsökkenne.",
+                "ro": "Încheiați ziua în această locație interioară chiar înainte ca apusul timpuriu de la ora 17:00 să scadă brusc temperaturile exterioare.",
+                "en": "Wind down your day at this indoor venue just before the early 17:00 sunset causes the outside temperatures to drop sharply into the freezing range."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a reggelt a Vasco de Quiroga emlékműhöz tekerve, élvezve a friss hegyi levegőt. Délben a kézműves múzeum és a csodálatos bazilika várja. A délután egy kicsit hosszabb túrát tartogat a lenyűgöző Don Vasco értelmező központba. Az este a varázslatos város örökségének alkonyati fényeivel jutalmazza meg az aktív napot.",
         "ro": "Începeți dimineața pedalând spre monumentul lui Vasco de Quiroga, bucurându-vă de aerul proaspăt. La amiază treceți prin muzeul meșteșugarilor și prin magnifica Bazilică a Sănătății. După-amiaza aduce o plimbare ceva mai lungă spre fascinantul centru de interpretare Don Vasco. Seara vă răsplătește ziua activă cu reflexiile crepusculare asupra acestei așezări magice.",
         "en": "Start your morning pedaling to the monument of Vasco de Quiroga, embracing the fresh highland air. Midday leads you through the artisan museum and the magnificent Basilica de Nuestra Señora de la Salud. Afternoon brings a slightly longer ride to the fascinating Don Vasco interpretation center. Evening rewards your active day with twilight reflections on this magical town's legacy."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig zum Denkmal und achten Sie auf rutschige Steine. Trocknen Sie sich in den faszinierenden Galerien des Museums ab. Radeln Sie mittags langsam zur Basilika und zum Theater, um mehr Schutz zu finden. Trotzen Sie schließlich dem Regen bis zum Interpretationszentrum für einen geschützten Nachmittag.",
+            "hu": "Óvatosan tekerjen az emlékműhöz, ügyelve a csúszós macskakövekre. Száradjon meg a múzeum galériáiban. Délben lassú tempóban haladjon a bazilika és a színház felé, további fedett menedéket keresve. Végül dacoljon az esővel az értelmező központig egy védett, hosszú délutánért.",
+            "ro": "Pedalați cu grijă spre monument, ferindu-vă de pietrele alunecoase. Uscați-vă în galeriile muzeului. La prânz, pedalați încet spre bazilică și teatru pentru mai mult adăpost. Înfruntați ploaia spre centrul de interpretare pentru o după-amiază protejată.",
+            "en": "Ride carefully to the monument, watching out for slippery wet cobblestones. Dry off inside the museum's fascinating galleries. By noon, pedal slowly to the basilica and theater for more indoor cover. Finally, brave the rain to the interpretation center for a long, sheltered afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Vasco de Quiroga",
+                "hu": "Monumento a Vasco de Quiroga",
+                "ro": "Monumento a Vasco de Quiroga",
+                "en": "Monumento a Vasco de Quiroga"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf den rutschigen nassen Steinen rund um den Platz, während Sie das historische Denkmal vom Fahrrad aus beobachten.",
+                "hu": "Fékezzen idejében a tér körüli csúszós, nedves köveken, miközben kerékpárjáról vagy mellette állva megfigyeli a történelmi emlékművet.",
+                "ro": "Frânați din timp pe pietrele umede și alunecoase din jurul pieței în timp ce observați monumentul istoric.",
+                "en": "Brake early on the very slippery wet stones around the plaza while carefully observing the historical monument from your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de las Artes e Industrias Populares",
+                "hu": "Museo de las Artes e Industrias Populares",
+                "ro": "Museo de las Artes e Industrias Populares",
+                "en": "Museo de las Artes e Industrias Populares"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und treten Sie schnell in dieses Museum ein, um Ihre Kleidung und Ausrüstung von der nassen Fahrt zu trocknen.",
+                "hu": "Parkolja le a kerékpárját, és lépjen be gyorsan ebbe a lenyűgöző kézműves múzeumba, hogy megszárítsa a nedves utazás során vizes lett ruháit.",
+                "ro": "Parcați bicicleta și intrați rapid în acest muzeu pentru a vă usca hainele și echipamentul după plimbarea umedă.",
+                "en": "Park your bike safely and quickly step into this fascinating craft museum to dry your clothes and gear from the wet morning ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica de Nuestra Señora de la Salud",
+                "hu": "Basilica de Nuestra Señora de la Salud",
+                "ro": "Basilica de Nuestra Señora de la Salud",
+                "en": "Basilica de Nuestra Señora de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sofortige Zuflucht in dieser monumentalen Kirche, ein perfekter trockener Ort, um vorbeiziehende schwere Regenschauer abzuwarten.",
+                "hu": "Keressen azonnali menedéket ebben a monumentális templomban, ami egy tökéletes, száraz hely a múló heves záporok kivárására.",
+                "ro": "Căutați refugiu imediat în această biserică monumentală, un loc uscat perfect pentru a aștepta trecerea ploilor torențiale.",
+                "en": "Seek immediate refuge in this monumental church, a perfect dry spot to wait out passing heavy rain showers before your next ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Emperador Caltzontzin",
+                "hu": "Teatro Emperador Caltzontzin",
+                "ro": "Teatro Emperador Caltzontzin",
+                "en": "Teatro Emperador Caltzontzin"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad draußen an und bewundern Sie die reiche Kulturgeschichte innerhalb der trockenen Mauern dieses beeindruckenden historischen Theaters.",
+                "hu": "Zárja le kint a biciklit, és csodálja meg a gazdag kultúrtörténetet ennek a lenyűgöző történelmi színháznak a száraz és biztonságos falai között.",
+                "ro": "Legați bicicleta afară și admirați istoria culturală bogată între pereții uscați ai acestui impresionant teatru istoric.",
+                "en": "Lock up your bike outside and admire the rich cultural history within the dry walls of this impressive historic theater away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Ruta Don Vasco",
+                "hu": "Centro de Interpretación Ruta Don Vasco",
+                "ro": "Centro de Interpretación Ruta Don Vasco",
+                "en": "Centro de Interpretación Ruta Don Vasco"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie einen langen Nachmittag damit, interaktive Exponate drinnen zu erkunden, völlig abgeschirmt vom unerbittlichen Regen draußen.",
+                "hu": "Töltsön el egy hosszú, tartalmas délutánt az interaktív benti kiállítások felfedezésével, teljesen elzárva a kinti, könyörtelen esőzéstől.",
+                "ro": "Petreceți o după-amiază lungă explorând expozițiile interactive în interior, complet protejat de ploaia neobosită de afară.",
+                "en": "Spend a long, engaging afternoon exploring interactive exhibits indoors, remaining completely shielded from the relentless rain outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie in winddichten Schichten zum Denkmal, um die Morgenkälte zu bekämpfen. Wärmen Sie sich im Museum auf. Mittags geht es zügig zur Basilika und zum Theater. Beenden Sie Ihre Fahrt am Interpretationszentrum und stellen Sie sicher, dass Sie vor dem frühen Sonnenuntergang um 17:00 Uhr und der Kälte zurückfahren.",
+            "hu": "Tekerjen szélálló rétegekben az emlékműhöz a reggeli fagy ellen. Melegedjen fel a múzeumban. Délben tegyen egy élénk bringázást a bazilikához és a színházhoz. Fejezze be az utat az értelmező központnál, és induljon vissza a korai, 17:00 órás naplemente és a dermesztő hideg beállta előtt.",
+            "ro": "Pedalați în straturi rezistente la vânt spre monument pentru a combate frigul dimineții. Încălziți-vă în muzeu. La prânz, mergeți rapid spre bazilică și teatru. Încheiați la centrul de interpretare, asigurându-vă că vă întoarceți înainte de apusul de la 17:00.",
+            "en": "Cycle to the monument in warm, windproof layers to fight the morning chill. Warm up inside the museum. Midday brings brisk pedaling to the basilica and theater. Finish your ride at the interpretation center, ensuring you head back before the early 17:00 sunset and freezing temps."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Vasco de Quiroga",
+                "hu": "Monumento a Vasco de Quiroga",
+                "ro": "Monumento a Vasco de Quiroga",
+                "en": "Monumento a Vasco de Quiroga"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, um den Lenker bequem zu greifen, während Sie das zentrale Denkmal im Morgenfrost bewundern.",
+                "hu": "Viseljen szélálló kesztyűt a kormány kényelmes fogásához, miközben a reggeli fagyban megcsodálja a központi emlékművet.",
+                "ro": "Purtați mănuși rezistente la vânt pentru a prinde confortabil ghidonul în timp ce admirați monumentul central în gerul dimineții.",
+                "en": "Wear thick, windproof gloves to grip the handlebars comfortably while admiring the central monument during the crisp morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de las Artes e Industrias Populares",
+                "hu": "Museo de las Artes e Industrias Populares",
+                "ro": "Museo de las Artes e Industrias Populares",
+                "en": "Museo de las Artes e Industrias Populares"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Fahrrad draußen und genießen Sie das Erbe drinnen, wobei Sie sich Zeit nehmen, Ihre kalten Finger richtig aufzutauen.",
+                "hu": "Hagyja kint a kerékpárját, és élvezze a művészeti örökséget bent, időt szakítva a hidegtől elgémberedett ujjai felengedésére.",
+                "ro": "Lăsați bicicleta afară și bucurați-vă de moștenirea artistică în interior, luându-vă timp pentru a vă dezgheța degetele reci.",
+                "en": "Leave your bike safely outside and enjoy the region's artistic heritage inside, taking necessary time to thaw your chilly fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica de Nuestra Señora de la Salud",
+                "hu": "Basilica de Nuestra Señora de la Salud",
+                "ro": "Basilica de Nuestra Señora de la Salud",
+                "en": "Basilica de Nuestra Señora de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das Innere dieses heiligen Raumes, der eine friedliche und relativ warme Pause von der kalten Fahrbrise bietet.",
+                "hu": "Csodálja meg ennek a szent térnek a belső kialakítását, amely békés és viszonylag meleg pihenőt biztosít a hideg menetszél után.",
+                "ro": "Minunați-vă de interiorul acestui spațiu sacru, care oferă o pauză liniștită și relativ caldă de la briza rece a ciclismului.",
+                "en": "Marvel at the grand interior of this sacred space, providing a peaceful and relatively warm break from the freezing cycling breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Emperador Caltzontzin",
+                "hu": "Teatro Emperador Caltzontzin",
+                "ro": "Teatro Emperador Caltzontzin",
+                "en": "Teatro Emperador Caltzontzin"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem Winterwind, um die Architektur des Theaters zu schätzen und Ihre Körpertemperatur vor der nächsten Fahrt zu halten.",
+                "hu": "Lépjen be a téli szél elől, hogy értékelje a színház építészetét, és megőrizze maghőmérsékletét a következő szakasz letekerése előtt.",
+                "ro": "Feriți-vă de vântul de iarnă pentru a aprecia arhitectura teatrului, menținându-vă temperatura corpului înainte de următoarea plimbare.",
+                "en": "Step completely out of the winter wind to appreciate the theater's architecture, keeping your core temperature up before the next short ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Ruta Don Vasco",
+                "hu": "Centro de Interpretación Ruta Don Vasco",
+                "ro": "Centro de Interpretación Ruta Don Vasco",
+                "en": "Centro de Interpretación Ruta Don Vasco"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem komfortablen Raum tief in die lokale Geschichte ein, aber denken Sie daran, vor Einbruch der Dunkelheit um 17:00 Uhr zurückzufahren.",
+                "hu": "Merüljön el a helyi történelemben ezen a kényelmes helyen, de ne felejtse el elkezdeni a visszaút tekerését a 17:00 óra körüli sötétedés előtt.",
+                "ro": "Aprofundați istoria locală în acest spațiu confortabil, dar amintiți-vă să începeți drumul de întoarcere înainte de lăsarea întunericului în jurul orei 17:00.",
+                "en": "Dive deep into local history in this comfortable space, but absolutely remember to start your ride back before darkness falls around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "A reggel zökkenőmentesen indul az ikonikus bazilikánál és a közeli kézműves múzeumnál. Délben egy festői autózás vár a Cerro del Estribo Grande-hoz, ahonnan lélegzetelállító panoráma nyílik. A délutánt az interaktív Don Vasco központ felfedezésével töltjük. Az este a békés Cerro Colorado zónába visz, amely nyugodt természeti lezárást kínál ennek az autós utazásnak.",
         "ro": "Dimineața începe la bazilica emblematică și la muzeul de meșteșuguri din apropiere. Amiaza vă invită la o plimbare pitorească până la Cerro del Estribo Grande pentru vederi panoramice. După-amiaza este petrecută explorând centrul interactiv Don Vasco. Seara vă duce în zona senină Cerro Colorado, oferind un sfârșit natural liniștit pentru călătoria dumneavoastră.",
         "en": "Morning starts smoothly at the iconic basilica and the nearby artisan museum. Midday invites a scenic drive out to Cerro del Estribo Grande for breathtaking panoramic views of the lake. Afternoon is spent exploring the interactive Don Vasco center further north. Evening takes you to the serene Cerro Colorado restoration zone, offering a tranquil natural close to your motorized journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zur Basilika und schätzen Sie die beheizte Kabine. Eilen Sie ins Museum für Indoor-Kunst. Betrachten Sie mittags das Denkmal aus dem Auto, navigieren Sie dann vorsichtig auf nassen Straßen zum Naturpark. Beenden Sie den Tag im Interpretationszentrum und mit einer nebligen Fahrt zur Restaurationszone.",
+            "hu": "Vezessen a bazilikához, értékelve a fűtött utasteret. Siessen be a múzeumba a fedett kiállításért. Délben az autóból nézze meg az emlékművet, majd óvatosan vezessen a csúszós utakon a nemzeti parkba. Zárja a napot az értelmező központban és egy ködös vezetéssel a helyreállítási zónába.",
+            "ro": "Conduceți spre bazilică, apreciind cabina încălzită. Grăbiți-vă în muzeu pentru arta de interior. La prânz, priviți monumentul din mașină, apoi navigați cu grijă pe drumurile umede spre parcul natural. Încheiați cu centrul de interpretare și o plimbare cețoasă spre zona de restaurare.",
+            "en": "Drive to the basilica, appreciating the dry, heated car cabin. Quickly dash into the museum to explore indoor folk art. Midday, briefly view the monument from the car, then carefully navigate wet roads to the natural park. End with indoor exhibits at the interpretation center and a misty drive to the restoration zone."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica de Nuestra Señora de la Salud",
+                "hu": "Basilica de Nuestra Señora de la Salud",
+                "ro": "Basilica de Nuestra Señora de la Salud",
+                "en": "Basilica de Nuestra Señora de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und betreten Sie diese große Kirche schnell mit einem Regenschirm, um das Schlimmste des Morgenregens zu vermeiden.",
+                "hu": "Parkoljon a közelben, és egy nagy esernyővel gyorsan lépjen be ebbe a hatalmas templomba, elkerülve a legrosszabb reggeli esőt.",
+                "ro": "Parcați în apropiere și utilizați o umbrelă mare pentru a intra rapid în această biserică grandioasă, evitând ce este mai rău din ploaia matinală.",
+                "en": "Park nearby and use a large, sturdy umbrella to quickly enter this grand church, effectively avoiding the worst of the persistent morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de las Artes e Industrias Populares",
+                "hu": "Museo de las Artes e Industrias Populares",
+                "ro": "Museo de las Artes e Industrias Populares",
+                "en": "Museo de las Artes e Industrias Populares"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit in diesem schützenden Museum, während der Sturm draußen vorbeizieht, um das Handwerk trocken zu betrachten.",
+                "hu": "Töltsön el jelentős időt ebben a száraz, oltalmazó múzeumban, hogy szárazon tekinthesse meg a helyi kézműves alkotásokat, amíg kint elvonul a vihar.",
+                "ro": "Petreceți mult timp în acest muzeu protector în timp ce furtuna trece pe afară, pentru a observa meșteșugurile la loc uscat.",
+                "en": "Spend a considerable amount of time diving into regional crafts inside this dry, protective museum while the heavy rain storm passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Vasco de Quiroga",
+                "hu": "Monumento a Vasco de Quiroga",
+                "ro": "Monumento a Vasco de Quiroga",
+                "en": "Monumento a Vasco de Quiroga"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie dieses zentrale Wahrzeichen bei starkem Regen kurz unter einem Schirm oder direkt bequem von Ihrem trockenen Fahrzeug aus.",
+                "hu": "Ezt a központi nevezetességet csak röviden figyelje meg egy esernyő alól, vagy heves esőzés esetén egyenesen a száraz, fűtött autójából.",
+                "ro": "Observați acest reper central scurt timp sub o umbrelă sau direct din confortul vehiculului dumneavoastră uscat dacă plouă puternic.",
+                "en": "Observe this central landmark briefly under an umbrella, or simply straight from the comfort of your dry vehicle if the rain is falling too heavily."
+              }
+            },
+            {
+              "name": {
+                "de": "Área Natural Protegida Cerro del Estribo Grande",
+                "hu": "Área Natural Protegida Cerro del Estribo Grande",
+                "ro": "Área Natural Protegida Cerro del Estribo Grande",
+                "en": "Área Natural Protegida Cerro del Estribo Grande"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie äußerst vorsichtig auf den nassen Pfaden, um die dramatischen, nebligen Ausblicke von der Sicherheit der Aussichtspunkte zu genießen.",
+                "hu": "Rendkívül óvatosan vezessen a csúszós, nedves utakon, hogy a kilátók biztonságából élvezhesse a drámai, ködös panorámát.",
+                "ro": "Conduceți cu mare grijă pe drumurile umede pentru a vă bucura de priveliștile dramatice, pline de ceață, din siguranța punctelor de observare.",
+                "en": "Drive very carefully on the slick, wet paths to safely enjoy the dramatic, misty views from the security of the established viewpoints."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Ruta Don Vasco",
+                "hu": "Centro de Interpretación Ruta Don Vasco",
+                "ro": "Centro de Interpretación Ruta Don Vasco",
+                "en": "Centro de Interpretación Ruta Don Vasco"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie interaktive historische Ausstellungen in dieser Einrichtung und bleiben Sie während der Nachmittagsgüsse völlig trocken.",
+                "hu": "Élvezze az interaktív történelmi kiállításokat ebben a kiváló beltéri létesítményben, teljesen szárazon maradva a délutáni felhőszakadások alatt.",
+                "ro": "Bucurați-vă de expozițiile istorice interactive în această facilitate excelentă, rămânând complet uscat în timpul ploilor torențiale de după-amiază.",
+                "en": "Enjoy interactive historical displays in this excellent indoor facility, remaining completely dry and warm during the afternoon downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                "hu": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                "ro": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                "en": "Zona de Restauración Ambiental Estribito del Cerro Colorado"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie auf den schlammigen Wegen vorsichtig und genießen Sie die üppige, regendurchtränkte Natur hauptsächlich vom Schutz Ihres Autos aus.",
+                "hu": "Legyen nagyon óvatos az itteni sáros, nedves ösvényeken; a buja, eső áztatta természetet érdemesebb inkább az autó nyújtotta biztonságból élvezni.",
+                "ro": "Fiți atenți pe traseele noroioase și umede de aici, bucurându-vă de natura luxuriantă, îmbibată de ploaie, în principal din mașină.",
+                "en": "Exercise extreme caution on the muddy trails here, perhaps enjoying the lush, rain-soaked nature mostly from the safety and warmth of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Autoheizung auf dem Weg zur Basilika. Verbringen Sie den klaren Morgen mit Ausstellungen im Innenbereich. Packen Sie sich mittags warm ein, um das Denkmal und den Naturpark zu sehen. Beenden Sie den Tag im Interpretationszentrum und in der Restaurationszone kurz vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Élvezze az autó fűtését a bazilika felé vezető úton. A csípős reggelt töltse a múzeum benti kiállításaival. Délben öltözzön fel vastagon az emlékmű és a nemzeti park megtekintéséhez. Zárja a napot a központban és a helyreállítási zónában a korai, 17:00 órás naplemente és a fagyok beállta előtt.",
+            "ro": "Bucurați-vă de încălzirea mașinii în drum spre bazilică. Petreceți dimineața explorând muzeul în interior. La prânz, îmbrăcați-vă gros pentru a vedea monumentul și parcul natural. Finalizați la centrul de interpretare și zona de restaurare înainte de apusul de la ora 17:00.",
+            "en": "Enjoy the car's heater on your way to the basilica. Spend the crisp morning exploring the indoor museum exhibits. At noon, wrap up warmly to see the monument and the natural park. Finish at the interpretation center and the restoration zone just before the early 17:00 sunset turns the landscape freezing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica de Nuestra Señora de la Salud",
+                "hu": "Basilica de Nuestra Señora de la Salud",
+                "ro": "Basilica de Nuestra Señora de la Salud",
+                "en": "Basilica de Nuestra Señora de la Salud"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Tag mit dem Betrachten des atemberaubenden Altars, indem Sie aus Ihrem warmen Auto in die klare, kalte Luft treten.",
+                "hu": "Kezdje a napot a lenyűgöző oltár megtekintésével ebben az impozáns bazilikában, kilépve a meleg autójából a csípős, friss levegőre.",
+                "ro": "Începeți ziua admirând altarul impresionant, coborând din mașina dumneavoastră caldă în aerul rece și curat.",
+                "en": "Start your day viewing the stunning altar inside this imposing basilica, carefully stepping out of your warm car into the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de las Artes e Industrias Populares",
+                "hu": "Museo de las Artes e Industrias Populares",
+                "ro": "Museo de las Artes e Industrias Populares",
+                "en": "Museo de las Artes e Industrias Populares"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die reiche Sammlung an traditionellem Kunsthandwerk bequem in den überdachten Galerien, eine tolle Flucht vor der Winterkälte.",
+                "hu": "Élvezze a hagyományos kézműves tárgyak gazdag gyűjteményét a benti galériák kényelmében, ami nagyszerű menedék a téli hideg elől.",
+                "ro": "Bucurați-vă de colecția bogată de meșteșuguri în confortul galeriilor interioare, o evadare minunată din frigul iernii.",
+                "en": "Enjoy the rich collection of traditional crafts in the comfort of the indoor galleries, serving as a great escape from the outside winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Vasco de Quiroga",
+                "hu": "Monumento a Vasco de Quiroga",
+                "ro": "Monumento a Vasco de Quiroga",
+                "en": "Monumento a Vasco de Quiroga"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich in einen dicken Mantel ein für einen kurzen Spaziergang um dieses Denkmal, bevor Sie schnell ins beheizte Auto springen.",
+                "hu": "Burkolózzon egy vastag télikabátba egy rövid séta erejéig e történelmi emlékmű körül, mielőtt gyorsan visszaugrana a fűtött autóba.",
+                "ro": "Înfofoliți-vă într-o haină groasă pentru o scurtă plimbare în jurul acestui monument, înainte de a sări înapoi în mașina încălzită.",
+                "en": "Bundle up in a thick, warm coat for a short walk around this historic plaza monument before quickly jumping back into your heavily heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Área Natural Protegida Cerro del Estribo Grande",
+                "hu": "Área Natural Protegida Cerro del Estribo Grande",
+                "ro": "Área Natural Protegida Cerro del Estribo Grande",
+                "en": "Área Natural Protegida Cerro del Estribo Grande"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang, um die klaren Panoramen zu bewundern, aber tragen Sie Mütze und Schal gegen die starken kalten Winde hier oben.",
+                "hu": "Tegyen egy élénk sétát a tiszta téli panoráma megcsodálásához, de mindenképpen viseljen sapkát és sálat az itteni erős, hideg szelek ellen.",
+                "ro": "Faceți o plimbare vioaie pentru a admira panoramele clare, dar asigurați-vă că purtați o pălărie și un fular împotriva vânturilor reci puternice.",
+                "en": "Take a brisk walk to admire the remarkably clear winter panoramas, but absolutely be sure to wear a hat and scarf against the strong cold winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Interpretación Ruta Don Vasco",
+                "hu": "Centro de Interpretación Ruta Don Vasco",
+                "ro": "Centro de Interpretación Ruta Don Vasco",
+                "en": "Centro de Interpretación Ruta Don Vasco"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierende Geschichte drinnen und planen Sie Ihren Besuch so, dass er pünktlich zum frühen Sonnenuntergang um 17:00 Uhr endet.",
+                "hu": "Fedezze fel a lenyűgöző történelmet a fűtött belső térben, úgy időzítve látogatását, hogy az pont a korai, 17:00 óra körüli naplementekor érjen véget.",
+                "ro": "Explorați istoria fascinantă în interior, programându-vă vizita astfel încât să se termine exact când soarele începe să apună devreme, în jurul orei 17:00.",
+                "en": "Explore the fascinating route history indoors, carefully timing your visit to finish just as the winter sun begins to set early around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                "hu": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                "ro": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                "en": "Zona de Restauración Ambiental Estribito del Cerro Colorado"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Reise und beobachten Sie die Bemühungen, aber stellen Sie sicher, dass Sie sicher zurückfahren, bevor es völlig dunkel und eisig wird.",
+                "hu": "Fejezze be a kirándulást a helyi környezetvédelmi erőfeszítések megfigyelésével, majd biztonságosan vezessen vissza, mielőtt teljesen besötétedik és lefagy az út.",
+                "ro": "Încheiați călătoria observând eforturile locale, asigurându-vă că vă întoarceți în siguranță înainte de a se întuneca și îngheța complet.",
+                "en": "Wrap up your trip observing the local environmental efforts, making absolutely sure to drive back safely before it gets completely dark and freezing."
+              }
+            }
+          ]
+        }
       }
     }
   }

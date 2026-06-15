@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Guînes szívében, a lenyűgöző Tour de l'Horloge-nál, majd találjon nyugalmat a közeli Saint-Pierre templomban. A délben induljon a buja mocsárvidék felé, amely frissítő természeti kikapcsolódást kínál. Délután fedezze fel a bájos Église Sainte-Jeanne d'Arc-ot a csendesebb környékeken sétálva. Estefelé fejezze be útját a legendás Aranybrokát Mezején.",
         "ro": "Începeți dimineața în inima orașului Guînes la fascinantul Tour de l'Horloge înainte de a căuta liniște la Biserica Saint-Pierre. La prânz, mergeți spre mlaștina luxuriantă, o evadare naturală răcoritoare de pe străzile pietruite. După-amiaza, descoperiți fermecătoarea Église Sainte-Jeanne d'Arc. Spre seară, încheiați-vă călătoria la legendarul sit Field of the Cloth of Gold.",
         "en": "Begin your morning in the heart of Guînes at the fascinating Tour de l'Horloge before seeking quiet reflection at the nearby Saint-Pierre Church. Midday takes you towards the lush Guînes Marsh, offering a refreshing natural escape from the cobblestone streets. In the afternoon, discover the charming Église Sainte-Jeanne d'Arc. Conclude your journey at the legendary Field of the Cloth of Gold."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Uhrenturm im Trockenen. Mittags bieten die Kirchen Schutz auf den kurzen Wegen. Betreten Sie nachmittags die Sumpfpfade nur mit wasserfesten Schuhen. Beenden Sie den Tag auf dem historischen Feld mit Regenschirm.",
+            "hu": "Kezdje az esős reggelt az Óratorony kiállításain. Délben a templomok nyújtanak menedéket a séták között. Délután vízálló cipőben vágjon neki a mocsárvidék ösvényeinek. A történelmi mezőn fejezze be a napot egy erős esernyővel a kezében.",
+            "ro": "Începeți dimineața ploioasă la expozițiile din Turnul cu Ceas. La prânz, bisericile oferă adăpost între plimbări. După-amiază, purtați cizme impermeabile pentru potecile mlaștinii. Încheiați pe câmpul istoric sub o umbrelă robustă.",
+            "en": "Start your wet morning exploring the indoor exhibits of the Clock Tower. Midday brings short walks between historic churches to stay dry. In the afternoon, brave the muddy marsh trails with waterproof boots. End at the historic field under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Uhrenturm (Tour de l'Horloge)",
+                "hu": "Óratorony (Tour de l'Horloge)",
+                "ro": "Turnul cu Ceas (Tour de l'Horloge)",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reiche Wikingergeschichte im trockenen Museum; es ist ein perfekter und lehrreicher Schutz vor den schweren morgendlichen Schauern.",
+                "hu": "Fedezze fel a gazdag viking történelmet a száraz múzeumban; tökéletes és tanulságos menedék a nehéz reggeli záporok idején.",
+                "ro": "Explorați bogata istorie vikingă în interiorul muzeului uscat; este un adăpost perfect și educativ pentru a aștepta trecerea ploilor de dimineață.",
+                "en": "Explore the rich Viking history inside the dry museum; it is a perfect and educational shelter for waiting out heavy morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die neugotische Architektur und die Buntglasfenster und finden Sie einen ruhigen, trockenen Zufluchtsort, wenn der Regen zunimmt.",
+                "hu": "Csodálja meg a gyönyörű neogótikus építészetet és az ólomüveg ablakokat, csendes és száraz menedéket találva, amikor az eső rázendít.",
+                "ro": "Admirați frumoasa arhitectură neogotică și vitraliile, găsind un sanctuar liniștit și uscat atunci când ploaia se intensifică afară.",
+                "en": "Admire the beautiful neo-Gothic architecture and stained glass windows, finding a quiet and dry sanctuary when the rain intensifies."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet von Guînes",
+                "hu": "Guînes-i mocsár",
+                "ro": "Mlaștina Guînes",
+                "en": "Guînes Marsh"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die einzigartige Tierwelt der Feuchtgebiete im Regen, aber bleiben Sie auf den befestigten Wegen, um tiefen Schlamm zu vermeiden.",
+                "hu": "Figyelje meg a vizes élőhelyek egyedi vadvilágát esőben is, de maradjon a burkolt vagy deszkázott részeken a mély sár elkerülése végett.",
+                "ro": "Observați fauna sălbatică unică a zonelor umede pe ploaie, dar asigurați-vă că rămâneți pe secțiunile pavate pentru a evita noroiul adânc.",
+                "en": "Observe the unique wetlands wildlife during the rain, but make sure to stick to the paved or boardwalk sections to avoid deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Jeanne d'Arc",
+                "hu": "Sainte-Jeanne d'Arc templom",
+                "ro": "Biserica Sainte-Jeanne d'Arc",
+                "en": "Église Sainte-Jeanne d'Arc"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bequemen Schutz in dieser charmanten Kirche, um die moderne Innenausstattung zu schätzen, während Sie das Ende des Regens abwarten.",
+                "hu": "Keressen kényelmes menedéket ebben a bájos templomban, hogy értékelje modern belsőépítészetét, amíg az eső eláll.",
+                "ro": "Adăpostiți-vă în această biserică fermecătoare pentru a aprecia designul interior modern, așteptând în liniște ca ploaia să se oprească.",
+                "en": "Take comfortable shelter in this charming church to appreciate its modern interior design and peaceful vibe while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Feld des Güldenen Tuches",
+                "hu": "Aranybrokát Mezeje",
+                "ro": "Câmpul Pânzei de Aur",
+                "en": "Field of the Cloth of Gold Site"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wo sich die Könige trafen; bringen Sie einen stabilen Regenschirm mit, da diese weitläufige Landschaft keinen natürlichen Schutz bietet.",
+                "hu": "Nézze meg a királyi találkozó helyszínét; hozzon nagy, erős esernyőt és vízálló cipőt, mivel ez a nyitott táj nem nyújt természetes menedéket.",
+                "ro": "Vedeți unde s-au întâlnit regii; aduceți o umbrelă mare și robustă, deoarece acest peisaj deschis și istoric nu oferă un adăpost natural.",
+                "en": "See where Henry VIII and Francis I met; bring a large, sturdy umbrella and waterproof shoes as this expansive landscape offers no natural shelter."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wärmen Sie sich morgens im Uhrenturm auf. Die Kirchen bieten eine angenehme Pause, bevor es ins frostige Sumpfgebiet geht. Das historische Feld beeindruckt in der tiefstehenden Wintersonne; beenden Sie Ihre Tour unbedingt vor der Dämmerung um 17:00 Uhr.",
+            "hu": "A csípős reggelt az Óratoronyban kezdje. A templomok meleg pihenőt adnak a fagyos mocsárvidék előtt. A történelmi mező lenyűgöző az alacsonyan járó téli napsütésben; mindenképpen fejezze be sétáját a 17:00 órai szürkület előtt.",
+            "ro": "Începeți dimineața geroasă la Turnul cu Ceas. Bisericile oferă o pauză caldă înainte de a vizita mlaștina înghețată. Câmpul istoric este impresionant sub soarele blând de iarnă; finalizați turul înainte de amurgul de la ora 17:00.",
+            "en": "Crisp winter morning begins at the clock tower. Churches offer a warm respite before heading to the frosty marshland. The historical field is striking in the low winter sun; make sure to finish your walk before the 17:00 dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Uhrenturm (Tour de l'Horloge)",
+                "hu": "Óratorony (Tour de l'Horloge)",
+                "ro": "Turnul cu Ceas (Tour de l'Horloge)",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im faszinierenden Wikingermuseum auf; die beheizten Ausstellungen bieten einen hervorragenden Start in einen kühlen Wintertag.",
+                "hu": "Melegedjen fel ebben a lenyűgöző viking múzeumban; a fűtött belső kiállítások kiváló, hangulatos kezdést biztosítanak egy csípős téli napnak.",
+                "ro": "Încălziți-vă în acest fascinant muzeu viking; expozițiile interioare încălzite oferă un început excelent și confortabil pentru o zi de iarnă.",
+                "en": "Warm up inside this fascinating Viking museum; the heated indoor exhibits provide an excellent, cozy start to a chilly winter day in Guînes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das ruhige Kirchenschiff, um Ihre Hände aufzuwärmen und die Altäre zu bewundern, als Zuflucht vor dem beißenden Winterwind.",
+                "hu": "Lépjen be a csendes hajóba, hogy felmelegítse a kezét és megcsodálja a gyönyörű oltárokat, menedéket találva a metsző téli szél elől.",
+                "ro": "Pășiți în naosul liniștit pentru a vă încălzi mâinile și a admira altarele, o evadare pașnică din calea vântului tăios de iarnă.",
+                "en": "Step inside the quiet nave to warm your hands and admire the beautiful altars, offering a peaceful escape from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet von Guînes",
+                "hu": "Guînes-i mocsár",
+                "ro": "Mlaștina Guînes",
+                "en": "Guînes Marsh"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit des frostbedeckten Schilfs und der Wintervögel; kleiden Sie sich in warme Schichten gegen die feuchte Kälte.",
+                "hu": "Élvezze a dérlepte nádasok és a telelő madarak zord szépségét; öltözzön több meleg rétegbe a csípős, nedves hideg elleni védelem érdekében.",
+                "ro": "Bucurați-vă de frumusețea trestiilor înghețate și a păsărilor de iarnă; îmbrăcați-vă în straturi groase pentru a vă proteja de frigul umed.",
+                "en": "Enjoy the stark beauty of the frost-covered reeds and wintering birds; dress in multiple warm layers to protect against the biting, damp cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Jeanne d'Arc",
+                "hu": "Sainte-Jeanne d'Arc templom",
+                "ro": "Biserica Sainte-Jeanne d'Arc",
+                "en": "Église Sainte-Jeanne d'Arc"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, friedlicher Stopp im Warmen, um sich aufzuwärmen und die einzigartigen architektonischen Details vor der Rückkehr in die Kälte zu bewundern.",
+                "hu": "Egy rövid, békés beltéri megálló, hogy felmelegedjen és megcsodálja az egyedi építészeti részleteket, mielőtt visszatérne a hidegbe.",
+                "ro": "O scurtă și liniștită oprire la interior pentru a vă încălzi și a admira detaliile arhitecturale unice înainte de a ieși din nou în frig.",
+                "en": "A brief, peaceful indoor stop to warm up your core and admire the unique architectural details before heading back outside into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Feld des Güldenen Tuches",
+                "hu": "Aranybrokát Mezeje",
+                "ro": "Câmpul Pânzei de Aur",
+                "en": "Field of the Cloth of Gold Site"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich das königliche Lager in der klaren Winterluft vor; besuchen Sie es vor 16:30 Uhr, da das weite Feld sehr schnell dunkel wird.",
+                "hu": "Képzelje el a történelmi királyi tábort a csípős téli levegőben; látogasson el ide jóval 16:30 előtt, mivel a nyílt mezőn hamar sötétedik.",
+                "ro": "Imaginați-vă tabăra regală în aerul rece de iarnă; asigurați-vă că vizitați înainte de 16:30, deoarece câmpul deschis se întunecă foarte repede.",
+                "en": "Imagine the historic royal camp in the crisp winter air; make sure to visit well before 16:30 as the wide, open field gets dark very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a történelmi Saint-Martin templomnál, majd tekerjen a Tour de l'Horloge-hoz a helyi örökség felfedezéséhez. Délben, a Saint-Pierre templom után lovagoljon le a mocsarakhoz. A délutáni tekerés a Sainte-Jeanne d'Arc templom mellett a híres Aranybrokát Mezejéhez vezet. Végül az esti út a békés Guînes-i erdőben csúcsosodik ki, ahol az ősi fák hosszú árnyékot vetnek.",
         "ro": "Începeți turul cu bicicleta la Église Saint-Martin, apoi pedalați spre Tour de l'Horloge pentru a explora patrimoniul local. La prânz, după Biserica Saint-Pierre, mergeți la mlaștinile vaste. După-amiaza vă duce pe lângă Église Sainte-Jeanne d'Arc până la celebrul sit Field of the Cloth of Gold. Seara se încheie în liniștita Pădure Guînes, unde copacii antici aruncă umbre lungi și frumoase.",
         "en": "Kick off your cycling tour at the historic Église Saint-Martin, then pedal to the Tour de l'Horloge to dive into local heritage. By midday, after visiting Saint-Pierre Church, ride down to the Guînes Marsh to enjoy the vast wetlands. Your afternoon pedaling takes you past the serene Église Sainte-Jeanne d'Arc to the grand Field of the Cloth of Gold Site. Finally, your evening ride culminates in the tranquil Forest of Guînes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Radtour bei Saint-Martin mit solider Regenkleidung. Mittags bieten Museum und Kirchen Schutz. Nachmittags befahren Sie den Sumpf mit Schutzblechen. Beenden Sie die Tour im Wald, aber achten Sie auf rutschiges Laub.",
+            "hu": "Kezdje nedves kerékpáros útvonalát a Saint-Martin templomnál, erős esőkabátban. Délben a száraz múzeum és a templomok adnak menedéket. Délután sárvédőkkel navigáljon a mocsárban. Az erdőben fejezze be, de ügyeljen a csúszós nedves falevelekre.",
+            "ro": "Începeți traseul de ciclism ploios la Saint-Martin, cu o pelerină solidă. La prânz vă opriți la muzeu și biserici. După-amiaza, navigați prin mlaștină cu apărători de noroi. Terminați în pădure, dar atenție la frunzele umede alunecoase.",
+            "en": "Begin your wet cycling route at Saint-Martin, wearing a solid raincoat. Midday brings stops at the dry museum and churches. In the afternoon, navigate the marsh and historical field with mudguards. Finish at the forest, beware of slippery wet leaves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Reise sicher unter dem Dach dieser historischen Kirche, ein perfekter trockener Ort im Regen.",
+                "hu": "Kezdje útját biztonságosan e történelmi templom teteje alatt, amely tökéletes száraz hely a felszerelés ellenőrzésére.",
+                "ro": "Începeți-vă călătoria în siguranță sub acoperișul acestei biserici istorice, un loc uscat perfect pentru a verifica echipamentul.",
+                "en": "Start your journey safely under the roof of this historic church, a perfect dry spot to check your gear in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm (Tour de l'Horloge)",
+                "hu": "Óratorony (Tour de l'Horloge)",
+                "ro": "Turnul cu Ceas (Tour de l'Horloge)",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reiche Wikingergeschichte im trockenen Museum; es ist ein perfekter und lehrreicher Schutz vor den schweren morgendlichen Schauern.",
+                "hu": "Fedezze fel a gazdag viking történelmet a száraz múzeumban; tökéletes és tanulságos menedék a nehéz reggeli záporok idején.",
+                "ro": "Explorați bogata istorie vikingă în interiorul muzeului uscat; este un adăpost perfect și educativ pentru a aștepta trecerea ploilor de dimineață.",
+                "en": "Explore the rich Viking history inside the dry museum; it is a perfect and educational shelter for waiting out heavy morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die neugotische Architektur und die Buntglasfenster und finden Sie einen ruhigen, trockenen Zufluchtsort, wenn der Regen zunimmt.",
+                "hu": "Csodálja meg a gyönyörű neogótikus építészetet és az ólomüveg ablakokat, csendes és száraz menedéket találva, amikor az eső rázendít.",
+                "ro": "Admirați frumoasa arhitectură neogotică și vitraliile, găsind un sanctuar liniștit și uscat atunci când ploaia se intensifică afară.",
+                "en": "Admire the beautiful neo-Gothic architecture and stained glass windows, finding a quiet and dry sanctuary when the rain intensifies."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet von Guînes",
+                "hu": "Guînes-i mocsár",
+                "ro": "Mlaștina Guînes",
+                "en": "Guînes Marsh"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die einzigartige Tierwelt der Feuchtgebiete im Regen, aber bleiben Sie auf den befestigten Wegen, um tiefen Schlamm zu vermeiden.",
+                "hu": "Figyelje meg a vizes élőhelyek egyedi vadvilágát esőben is, de maradjon a burkolt vagy deszkázott részeken a mély sár elkerülése végett.",
+                "ro": "Observați fauna sălbatică unică a zonelor umede pe ploaie, dar asigurați-vă că rămâneți pe secțiunile pavate pentru a evita noroiul adânc.",
+                "en": "Observe the unique wetlands wildlife during the rain, but make sure to stick to the paved or boardwalk sections to avoid deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Jeanne d'Arc",
+                "hu": "Sainte-Jeanne d'Arc templom",
+                "ro": "Biserica Sainte-Jeanne d'Arc",
+                "en": "Église Sainte-Jeanne d'Arc"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bequemen Schutz in dieser charmanten Kirche, um die moderne Innenausstattung zu schätzen, während Sie das Ende des Regens abwarten.",
+                "hu": "Keressen kényelmes menedéket ebben a bájos templomban, hogy értékelje modern belsőépítészetét, amíg az eső eláll.",
+                "ro": "Adăpostiți-vă în această biserică fermecătoare pentru a aprecia designul interior modern, așteptând în liniște ca ploaia să se oprească.",
+                "en": "Take comfortable shelter in this charming church to appreciate its modern interior design and peaceful vibe while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Feld des Güldenen Tuches",
+                "hu": "Aranybrokát Mezeje",
+                "ro": "Câmpul Pânzei de Aur",
+                "en": "Field of the Cloth of Gold Site"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wo sich die Könige trafen; bringen Sie einen stabilen Regenschirm mit, da diese weitläufige Landschaft keinen natürlichen Schutz bietet.",
+                "hu": "Nézze meg a királyi találkozó helyszínét; hozzon nagy, erős esernyőt és vízálló cipőt, mivel ez a nyitott táj nem nyújt természetes menedéket.",
+                "ro": "Vedeți unde s-au întâlnit regii; aduceți o umbrelă mare și robustă, deoarece acest peisaj deschis și istoric nu oferă un adăpost natural.",
+                "en": "See where Henry VIII and Francis I met; bring a large, sturdy umbrella and waterproof shoes as this expansive landscape offers no natural shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Guînes",
+                "hu": "Guînes-i erdő",
+                "ro": "Pădurea Guînes",
+                "en": "Forest of Guînes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das grüne Blätterdach im Regen, aber seien Sie vorsichtig, da nasses Laub die Waldwege ziemlich rutschig macht.",
+                "hu": "Élvezze az élénkzöld lombkoronát esőben, de közlekedjen nagyon óvatosan, mivel a nedves levelek meglehetősen csúszóssá teszik az ösvényeket.",
+                "ro": "Bucurați-vă de coronamentul verde pe ploaie, dar mergeți cu mare grijă, deoarece frunzele umede fac potecile forestiere destul de alunecoase.",
+                "en": "Enjoy the vibrant green canopy during the rain, but cycle or walk very carefully as wet autumn leaves make the forest trails quite slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für die Morgenfahrt ab Saint-Martin. Wärmen Sie Ihre Hände im Museum vor der kalten Fahrt zum frostigen Sumpf. Erreichen Sie das historische Gelände am Nachmittag und beenden Sie den Waldweg deutlich vor der Dämmerung um 16:30 Uhr.",
+            "hu": "Öltözzön melegen a Saint-Martin templomtól induló reggeli tekeréshez. Melegítse fel kezét a múzeumban, mielőtt a dérlepte mocsárhoz érne. A történelmi helyszínt délután érje el, és jóval a 16:30-as szürkület előtt fejezze be az erdei túrát.",
+            "ro": "Îmbrăcați-vă bine pentru cursa matinală de la Saint-Martin. Încălziți-vă mâinile la muzeu înainte de mlaștina înghețată. Ajungeți la situl istoric pe măsură ce se răcește, terminând traseul forestier cu mult înainte de amurgul de la 16:30.",
+            "en": "Bundle up for a brisk morning ride starting at Saint-Martin. Warm your hands inside the museum before a chilly midday ride to the frost-covered marsh. Reach the historic Cloth of Gold site as the afternoon cools, finishing well before the 16:30 dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die friedliche Morgenatmosphäre dieser historischen Kirche, die ein schnelles Aufwärmen vor der kalten Reise bietet.",
+                "hu": "Csodálja meg e történelmi templom békés reggeli hangulatát, amely gyors felmelegedést biztosít a hideg út folytatása előtt.",
+                "ro": "Admirați atmosfera liniștită de dimineață a acestei biserici istorice, oferind o scurtă încălzire înaintea drumului rece.",
+                "en": "Admire the peaceful morning atmosphere of this historic church, providing a quick warm-up before continuing the cold journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm (Tour de l'Horloge)",
+                "hu": "Óratorony (Tour de l'Horloge)",
+                "ro": "Turnul cu Ceas (Tour de l'Horloge)",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im faszinierenden Wikingermuseum auf; die beheizten Ausstellungen bieten einen hervorragenden Start in einen kühlen Wintertag.",
+                "hu": "Melegedjen fel ebben a lenyűgöző viking múzeumban; a fűtött belső kiállítások kiváló, hangulatos kezdést biztosítanak egy csípős téli napnak.",
+                "ro": "Încălziți-vă în acest fascinant muzeu viking; expozițiile interioare încălzite oferă un început excelent și confortabil pentru o zi de iarnă.",
+                "en": "Warm up inside this fascinating Viking museum; the heated indoor exhibits provide an excellent, cozy start to a chilly winter day in Guînes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das ruhige Kirchenschiff, um Ihre Hände aufzuwärmen und die Altäre zu bewundern, als Zuflucht vor dem beißenden Winterwind.",
+                "hu": "Lépjen be a csendes hajóba, hogy felmelegítse a kezét és megcsodálja a gyönyörű oltárokat, menedéket találva a metsző téli szél elől.",
+                "ro": "Pășiți în naosul liniștit pentru a vă încălzi mâinile și a admira altarele, o evadare pașnică din calea vântului tăios de iarnă.",
+                "en": "Step inside the quiet nave to warm your hands and admire the beautiful altars, offering a peaceful escape from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet von Guînes",
+                "hu": "Guînes-i mocsár",
+                "ro": "Mlaștina Guînes",
+                "en": "Guînes Marsh"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit des frostbedeckten Schilfs und der Wintervögel; kleiden Sie sich in warme Schichten gegen die feuchte Kälte.",
+                "hu": "Élvezze a dérlepte nádasok és a telelő madarak zord szépségét; öltözzön több meleg rétegbe a csípős, nedves hideg elleni védelem érdekében.",
+                "ro": "Bucurați-vă de frumusețea trestiilor înghețate și a păsărilor de iarnă; îmbrăcați-vă în straturi groase pentru a vă proteja de frigul umed.",
+                "en": "Enjoy the stark beauty of the frost-covered reeds and wintering birds; dress in multiple warm layers to protect against the biting, damp cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Jeanne d'Arc",
+                "hu": "Sainte-Jeanne d'Arc templom",
+                "ro": "Biserica Sainte-Jeanne d'Arc",
+                "en": "Église Sainte-Jeanne d'Arc"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, friedlicher Stopp im Warmen, um sich aufzuwärmen und die einzigartigen architektonischen Details vor der Rückkehr in die Kälte zu bewundern.",
+                "hu": "Egy rövid, békés beltéri megálló, hogy felmelegedjen és megcsodálja az egyedi építészeti részleteket, mielőtt visszatérne a hidegbe.",
+                "ro": "O scurtă și liniștită oprire la interior pentru a vă încălzi și a admira detaliile arhitecturale unice înainte de a ieși din nou în frig.",
+                "en": "A brief, peaceful indoor stop to warm up your core and admire the unique architectural details before heading back outside into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Feld des Güldenen Tuches",
+                "hu": "Aranybrokát Mezeje",
+                "ro": "Câmpul Pânzei de Aur",
+                "en": "Field of the Cloth of Gold Site"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich das königliche Lager in der klaren Winterluft vor; besuchen Sie es vor 16:30 Uhr, da das weite Feld sehr schnell dunkel wird.",
+                "hu": "Képzelje el a történelmi királyi tábort a csípős téli levegőben; látogasson el ide jóval 16:30 előtt, mivel a nyílt mezőn hamar sötétedik.",
+                "ro": "Imaginați-vă tabăra regală în aerul rece de iarnă; asigurați-vă că vizitați înainte de 16:30, deoarece câmpul deschis se întunecă foarte repede.",
+                "en": "Imagine the historic royal camp in the crisp winter air; make sure to visit well before 16:30 as the wide, open field gets dark very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Guînes",
+                "hu": "Guînes-i erdő",
+                "ro": "Pădurea Guînes",
+                "en": "Forest of Guînes"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die stillen, blattlosen Winterwälder; beenden Sie Ihren Besuch bis 16:00 Uhr, um nicht in völliger Dunkelheit navigieren zu müssen.",
+                "hu": "Tapasztalja meg a csendes, lombtalan téli erdőt; fejezze be látogatását 16:00-ig, hogy elkerülje a trükkös ösvényeket a teljes sötétségben.",
+                "ro": "Experimentați pădurile de iarnă tăcute și fără frunze; finalizați vizita până la 16:00 pentru a evita navigarea pe trasee în întuneric.",
+                "en": "Experience the silent, beautiful leafless winter woods; complete your visit by 16:00 to avoid navigating the tricky trails in total darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje útját a kissé eldugott Saint-Martin templomnál, majd hajtson a központi Tour de l'Horloge és a Saint-Pierre templom felé egy kis kultúráért. Délben látogasson el a mocsarakhoz egy festői pihenőre. Délután nézze meg a Sainte-Jeanne d'Arc templomot és a monumentális Aranybrokát Mezejét. Az este egy gyors megállóval zárul a Passion aventure-nél és egy pihentető autózással a békés Guînes-i erdőbe.",
         "ro": "Începeți plimbarea la Église Saint-Martin, înainte de a vă îndrepta spre Tour de l'Horloge și Biserica Saint-Pierre pentru o doză de cultură. La prânz, conduceți spre mlaștini pentru o pauză pitorească. După-amiaza, vizitați Église Sainte-Jeanne d'Arc și monumentalul sit Field of the Cloth of Gold. Seara se încheie la Passion aventure și cu o plimbare relaxantă în adâncul Pădurii Guînes.",
         "en": "Start your drive at the somewhat secluded Église Saint-Martin before heading to the central Tour de l'Horloge and Saint-Pierre Church for a dose of culture. Around noon, drive up to the Guînes Marsh for a scenic break among the waterways. In the afternoon, visit Église Sainte-Jeanne d'Arc and the monumental Field of the Cloth of Gold Site. Your evening concludes with a quick stop at Passion aventure and a relaxing drive into the deep Forest of Guînes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den regnerischen Morgen und steigen Sie mit Regenschirm an der Kirche aus. Genießen Sie mittags die beheizte Fahrt am Sumpf. Seien Sie am späten Nachmittag im Abenteuerpark und im Wald vorsichtig, da die Wege rutschig sind.",
+            "hu": "Vezessen kényelmesen az esős reggelen, egy nagy esernyővel kilépve a templomnál. Élvezze a fűtött utat a mocsár mellett délben. Késő délután vigyázzon a kalandparkban és az erdőben, ahol az ösvények meglehetősen csúszósak lehetnek az esőtől.",
+            "ro": "Conduceți confortabil în dimineața ploioasă, ieșind cu o umbrelă mare la biserică și turn. Bucurați-vă de traseul încălzit pe lângă mlaștină la prânz. După-amiaza târziu, aveți grijă în parcul de aventură și pădure, unde potecile devin alunecoase.",
+            "en": "Drive comfortably through the rainy morning, stepping out with a large umbrella at the church and clock tower. Enjoy scenic, heated drives past the marsh at midday. In the late afternoon, take care at the adventure park and forest where pathways are slippery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Reise sicher unter dem Dach dieser historischen Kirche, ein perfekter trockener Ort im Regen.",
+                "hu": "Kezdje útját biztonságosan e történelmi templom teteje alatt, amely tökéletes száraz hely a felszerelés ellenőrzésére.",
+                "ro": "Începeți-vă călătoria în siguranță sub acoperișul acestei biserici istorice, un loc uscat perfect pentru a verifica echipamentul.",
+                "en": "Start your journey safely under the roof of this historic church, a perfect dry spot to check your gear in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm (Tour de l'Horloge)",
+                "hu": "Óratorony (Tour de l'Horloge)",
+                "ro": "Turnul cu Ceas (Tour de l'Horloge)",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reiche Wikingergeschichte im trockenen Museum; es ist ein perfekter und lehrreicher Schutz vor den schweren morgendlichen Schauern.",
+                "hu": "Fedezze fel a gazdag viking történelmet a száraz múzeumban; tökéletes és tanulságos menedék a nehéz reggeli záporok idején.",
+                "ro": "Explorați bogata istorie vikingă în interiorul muzeului uscat; este un adăpost perfect și educativ pentru a aștepta trecerea ploilor de dimineață.",
+                "en": "Explore the rich Viking history inside the dry museum; it is a perfect and educational shelter for waiting out heavy morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die neugotische Architektur und die Buntglasfenster und finden Sie einen ruhigen, trockenen Zufluchtsort, wenn der Regen zunimmt.",
+                "hu": "Csodálja meg a gyönyörű neogótikus építészetet és az ólomüveg ablakokat, csendes és száraz menedéket találva, amikor az eső rázendít.",
+                "ro": "Admirați frumoasa arhitectură neogotică și vitraliile, găsind un sanctuar liniștit și uscat atunci când ploaia se intensifică afară.",
+                "en": "Admire the beautiful neo-Gothic architecture and stained glass windows, finding a quiet and dry sanctuary when the rain intensifies."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet von Guînes",
+                "hu": "Guînes-i mocsár",
+                "ro": "Mlaștina Guînes",
+                "en": "Guînes Marsh"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die einzigartige Tierwelt der Feuchtgebiete im Regen, aber bleiben Sie auf den befestigten Wegen, um tiefen Schlamm zu vermeiden.",
+                "hu": "Figyelje meg a vizes élőhelyek egyedi vadvilágát esőben is, de maradjon a burkolt vagy deszkázott részeken a mély sár elkerülése végett.",
+                "ro": "Observați fauna sălbatică unică a zonelor umede pe ploaie, dar asigurați-vă că rămâneți pe secțiunile pavate pentru a evita noroiul adânc.",
+                "en": "Observe the unique wetlands wildlife during the rain, but make sure to stick to the paved or boardwalk sections to avoid deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Jeanne d'Arc",
+                "hu": "Sainte-Jeanne d'Arc templom",
+                "ro": "Biserica Sainte-Jeanne d'Arc",
+                "en": "Église Sainte-Jeanne d'Arc"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bequemen Schutz in dieser charmanten Kirche, um die moderne Innenausstattung zu schätzen, während Sie das Ende des Regens abwarten.",
+                "hu": "Keressen kényelmes menedéket ebben a bájos templomban, hogy értékelje modern belsőépítészetét, amíg az eső eláll.",
+                "ro": "Adăpostiți-vă în această biserică fermecătoare pentru a aprecia designul interior modern, așteptând în liniște ca ploaia să se oprească.",
+                "en": "Take comfortable shelter in this charming church to appreciate its modern interior design and peaceful vibe while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Feld des Güldenen Tuches",
+                "hu": "Aranybrokát Mezeje",
+                "ro": "Câmpul Pânzei de Aur",
+                "en": "Field of the Cloth of Gold Site"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wo sich die Könige trafen; bringen Sie einen stabilen Regenschirm mit, da diese weitläufige Landschaft keinen natürlichen Schutz bietet.",
+                "hu": "Nézze meg a királyi találkozó helyszínét; hozzon nagy, erős esernyőt és vízálló cipőt, mivel ez a nyitott táj nem nyújt természetes menedéket.",
+                "ro": "Vedeți unde s-au întâlnit regii; aduceți o umbrelă mare și robustă, deoarece acest peisaj deschis și istoric nu oferă un adăpost natural.",
+                "en": "See where Henry VIII and Francis I met; bring a large, sturdy umbrella and waterproof shoes as this expansive landscape offers no natural shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Abenteuerpark Passion aventure",
+                "hu": "Passion aventure kalandpark",
+                "ro": "Parcul de aventură Passion",
+                "en": "Passion aventure"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, welche Kletterrouten bei Regen geöffnet sind; tragen Sie rutschfeste Schuhe, um die nassen Holzplattformen sicher zu begehen.",
+                "hu": "Ellenőrizze, mely lombkorona pályák maradnak nyitva esőben; viseljen erős tapadású cipőt a nedves fa peronokon való biztonságos navigáláshoz.",
+                "ro": "Verificați ce trasee rămân deschise pe ploaie; purtați încălțăminte cu aderență bună pentru a naviga în siguranță pe platformele de lemn umede.",
+                "en": "Check which treetop courses remain open during rain; ensure you wear sturdy shoes with strong grip to safely navigate the wet wooden platforms."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Guînes",
+                "hu": "Guînes-i erdő",
+                "ro": "Pădurea Guînes",
+                "en": "Forest of Guînes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das grüne Blätterdach im Regen, aber seien Sie vorsichtig, da nasses Laub die Waldwege ziemlich rutschig macht.",
+                "hu": "Élvezze az élénkzöld lombkoronát esőben, de közlekedjen nagyon óvatosan, mivel a nedves levelek meglehetősen csúszóssá teszik az ösvényeket.",
+                "ro": "Bucurați-vă de coronamentul verde pe ploaie, dar mergeți cu mare grijă, deoarece frunzele umede fac potecile forestiere destul de alunecoase.",
+                "en": "Enjoy the vibrant green canopy during the rain, but cycle or walk very carefully as wet autumn leaves make the forest trails quite slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein beheiztes Auto macht diese Winterroute sehr angenehm. Genießen Sie die klare Morgenluft an den historischen Gebäuden. Bewundern Sie mittags den frostigen Sumpf. Erreichen Sie den Abenteuerpark und Wald früh, um vor dem Sonnenuntergang um 17:00 Uhr fertig zu sein.",
+            "hu": "A fűtött autó nagyon kellemessé teszi ezt a téli utat. Lépjen ki a friss reggeli levegőre a történelmi épületeknél. Délben élvezze a dérlepte mocsár látványát. Érjen korán a kalandparkba és az erdőbe, hogy a 17:00 órai naplemente előtt végezzen.",
+            "ro": "O mașină încălzită face acest traseu de iarnă foarte plăcut. Ieșiți în aerul rece al dimineții la clădirile istorice. Admirați mlaștina înghețată la prânz. Ajungeți devreme la parcul de aventură și în pădure pentru a termina înainte de apusul de la ora 17:00.",
+            "en": "A heated car makes this winter route very pleasant. Step out for crisp morning air at the historic buildings. Enjoy frost-tipped marsh views at midday. Arrive at the adventure park and forest early enough to complete your visits before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die friedliche Morgenatmosphäre dieser historischen Kirche, die ein schnelles Aufwärmen vor der kalten Reise bietet.",
+                "hu": "Csodálja meg e történelmi templom békés reggeli hangulatát, amely gyors felmelegedést biztosít a hideg út folytatása előtt.",
+                "ro": "Admirați atmosfera liniștită de dimineață a acestei biserici istorice, oferind o scurtă încălzire înaintea drumului rece.",
+                "en": "Admire the peaceful morning atmosphere of this historic church, providing a quick warm-up before continuing the cold journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm (Tour de l'Horloge)",
+                "hu": "Óratorony (Tour de l'Horloge)",
+                "ro": "Turnul cu Ceas (Tour de l'Horloge)",
+                "en": "Tour de l'Horloge"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im faszinierenden Wikingermuseum auf; die beheizten Ausstellungen bieten einen hervorragenden Start in einen kühlen Wintertag.",
+                "hu": "Melegedjen fel ebben a lenyűgöző viking múzeumban; a fűtött belső kiállítások kiváló, hangulatos kezdést biztosítanak egy csípős téli napnak.",
+                "ro": "Încălziți-vă în acest fascinant muzeu viking; expozițiile interioare încălzite oferă un început excelent și confortabil pentru o zi de iarnă.",
+                "en": "Warm up inside this fascinating Viking museum; the heated indoor exhibits provide an excellent, cozy start to a chilly winter day in Guînes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das ruhige Kirchenschiff, um Ihre Hände aufzuwärmen und die Altäre zu bewundern, als Zuflucht vor dem beißenden Winterwind.",
+                "hu": "Lépjen be a csendes hajóba, hogy felmelegítse a kezét és megcsodálja a gyönyörű oltárokat, menedéket találva a metsző téli szél elől.",
+                "ro": "Pășiți în naosul liniștit pentru a vă încălzi mâinile și a admira altarele, o evadare pașnică din calea vântului tăios de iarnă.",
+                "en": "Step inside the quiet nave to warm your hands and admire the beautiful altars, offering a peaceful escape from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sumpfgebiet von Guînes",
+                "hu": "Guînes-i mocsár",
+                "ro": "Mlaștina Guînes",
+                "en": "Guînes Marsh"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit des frostbedeckten Schilfs und der Wintervögel; kleiden Sie sich in warme Schichten gegen die feuchte Kälte.",
+                "hu": "Élvezze a dérlepte nádasok és a telelő madarak zord szépségét; öltözzön több meleg rétegbe a csípős, nedves hideg elleni védelem érdekében.",
+                "ro": "Bucurați-vă de frumusețea trestiilor înghețate și a păsărilor de iarnă; îmbrăcați-vă în straturi groase pentru a vă proteja de frigul umed.",
+                "en": "Enjoy the stark beauty of the frost-covered reeds and wintering birds; dress in multiple warm layers to protect against the biting, damp cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Jeanne d'Arc",
+                "hu": "Sainte-Jeanne d'Arc templom",
+                "ro": "Biserica Sainte-Jeanne d'Arc",
+                "en": "Église Sainte-Jeanne d'Arc"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, friedlicher Stopp im Warmen, um sich aufzuwärmen und die einzigartigen architektonischen Details vor der Rückkehr in die Kälte zu bewundern.",
+                "hu": "Egy rövid, békés beltéri megálló, hogy felmelegedjen és megcsodálja az egyedi építészeti részleteket, mielőtt visszatérne a hidegbe.",
+                "ro": "O scurtă și liniștită oprire la interior pentru a vă încălzi și a admira detaliile arhitecturale unice înainte de a ieși din nou în frig.",
+                "en": "A brief, peaceful indoor stop to warm up your core and admire the unique architectural details before heading back outside into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Feld des Güldenen Tuches",
+                "hu": "Aranybrokát Mezeje",
+                "ro": "Câmpul Pânzei de Aur",
+                "en": "Field of the Cloth of Gold Site"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich das königliche Lager in der klaren Winterluft vor; besuchen Sie es vor 16:30 Uhr, da das weite Feld sehr schnell dunkel wird.",
+                "hu": "Képzelje el a történelmi királyi tábort a csípős téli levegőben; látogasson el ide jóval 16:30 előtt, mivel a nyílt mezőn hamar sötétedik.",
+                "ro": "Imaginați-vă tabăra regală în aerul rece de iarnă; asigurați-vă că vizitați înainte de 16:30, deoarece câmpul deschis se întunecă foarte repede.",
+                "en": "Imagine the historic royal camp in the crisp winter air; make sure to visit well before 16:30 as the wide, open field gets dark very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Abenteuerpark Passion aventure",
+                "hu": "Passion aventure kalandpark",
+                "ro": "Parcul de aventură Passion",
+                "en": "Passion aventure"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie die Hindernisparcours, aber tragen Sie flexible, gut isolierte Winterhandschuhe, um Ihre Hände an den eiskalten Kabeln warm zu halten.",
+                "hu": "Próbálja ki az akadálypályákat, de feltétlenül viseljen rugalmas, jól szigetelt téli kesztyűt, hogy melegen tartsa a kezét a jéghideg kábeleken.",
+                "ro": "Încercați traseele de obstacole, dar purtați neapărat mănuși de iarnă flexibile și izolate pentru a vă păstra mâinile calde pe cablurile reci.",
+                "en": "Try the brisk outdoor obstacle courses but definitely wear flexible, well-insulated winter gloves to keep your hands warm on the freezing cold cables."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Guînes",
+                "hu": "Guînes-i erdő",
+                "ro": "Pădurea Guînes",
+                "en": "Forest of Guînes"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die stillen, blattlosen Winterwälder; beenden Sie Ihren Besuch bis 16:00 Uhr, um nicht in völliger Dunkelheit navigieren zu müssen.",
+                "hu": "Tapasztalja meg a csendes, lombtalan téli erdőt; fejezze be látogatását 16:00-ig, hogy elkerülje a trükkös ösvényeket a teljes sötétségben.",
+                "ro": "Experimentați pădurile de iarnă tăcute și fără frunze; finalizați vizita până la 16:00 pentru a evita navigarea pe trasee în întuneric.",
+                "en": "Experience the silent, beautiful leafless winter woods; complete your visit by 16:00 to avoid navigating the tricky trails in total darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

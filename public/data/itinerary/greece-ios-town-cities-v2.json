@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a sziget gazdag örökségének felfedezésével a Régészeti Múzeumban. Délben ugorjon a jelenbe a lenyűgöző Gaitis-Simosis és Jean-Marie Drot múzeumokban. Délután meneküljön el a város zajától Kolitsani eldugott homokos partjára. Zárja sétáját a békés Valmas öbölben, ahol élvezheti a lágy esti szellőt és a nyugtató hullámokat.",
         "ro": "Începeți ziua explorând patrimoniul bogat al insulei la Muzeul Arheologic. La prânz, faceți un salt în contemporaneitate la muzeele impresionante Gaitis-Simosis și Jean-Marie Drot. După-amiază, scăpați de agitația orașului pe nisipul retras din Kolitsani. Încheiați plimbarea în golful liniștit Valmas, bucurându-vă de briza blândă de seară și de valurile relaxante.",
         "en": "Begin your day delving into the island's rich heritage at the Archaeological Museum. By midday, fast forward to contemporary times at the striking Gaitis-Simosis and Jean-Marie Drot museums. In the afternoon, escape the town's bustle for the secluded sands of Kolitsani. Conclude your walking tour at the peaceful cove of Valmas, enjoying the soft evening breeze and calming waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen in den Gassen von Chora; die Museen bieten trockenen Schutz vor den Güssen. Mittags glänzt der nasse Marmor, Vorsicht auf den steilen Stufen. Nachmittags weht eine feuchte Brise an der Küste, der Blick auf das graue Meer ist melancholisch schön. Abends kehrt man am besten früh heim, da die glatten Wege bei Dunkelheit und Nässe tückisch sind.",
+            "hu": "Esős reggel Chora szűk utcáin; a múzeumok száraz menedéket nyújtanak a záporok elől. Délben a vizes márványkövek csillognak, legyen óvatos a meredek lépcsőkön. Délután nedves szellő fúj a parton, a szürke tenger látványa melankolikusan szép. Estére érdemes hamar visszatérni, mert a csúszós utak sötétben és esőben trükkösek lehetnek.",
+            "ro": "Dimineață ploioasă pe străzile din Chora; muzeele oferă un adăpost uscat împotriva averselor. La prânz, marmura umedă strălucește, atenție sporită pe treptele abrupte. După-amiaza o briză umedă suflă pe coastă, vederea mării cenușii fiind de o frumusețe melancolică. Seara este recomandat să reveniți devreme, deoarece drumurile alunecoase sunt înșelătoare pe întuneric.",
+            "en": "A rainy morning in the alleys of Chora; the museums offer dry shelter from the downpours. At noon, the wet marble stones glisten, so be careful on the steep steps. In the afternoon, a damp breeze blows on the coast, and the view of the grey sea is melancholically beautiful. In the evening, it's best to return early as the slippery paths are tricky in the dark and rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archaeological museum of Ios",
+                "hu": "Archaeological museum of Ios",
+                "ro": "Archaeological museum of Ios",
+                "en": "Archaeological museum of Ios"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie antike Statuen in diesem geschützten Innenraum; der perfekte Ort, um den ersten Regenschauer trocken zu überstehen.",
+                "hu": "Csodálja meg az ókori szobrokat ebben a védett belső térben; tökéletes hely az első reggeli zápor száraz átvészelésére.",
+                "ro": "Admirați statuile antice în acest spațiu interior protejat; locul perfect pentru a supraviețui primei averse de dimineață.",
+                "en": "Admire ancient statues in this protected indoor space; the perfect spot to stay dry during the first morning rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Giannis Gaitis – Gabriella Simosis museum",
+                "hu": "Giannis Gaitis – Gabriella Simosis museum",
+                "ro": "Giannis Gaitis – Gabriella Simosis museum",
+                "en": "Giannis Gaitis – Gabriella Simosis museum"
+              },
+              "tip_4lang": {
+                "de": "Moderne Kunst in hellem Ambiente genießen; die Architektur bietet exzellenten Schutz und tolle Lichtspiele bei bewölktem Himmel.",
+                "hu": "Élvezze a modern művészetet világos környezetben; az építészet kiváló védelmet és remek fényeket kínál felhős égbolt esetén is.",
+                "ro": "Bucurați-vă de arta modernă într-un ambient luminos; arhitectura oferă protecție excelentă și jocuri de lumină pe cer înnorat.",
+                "en": "Enjoy modern art in a bright setting; the architecture provides excellent shelter and great light effects even under cloudy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Modern Art - Jean-Marie Drot",
+                "hu": "Museum of Modern Art - Jean-Marie Drot",
+                "ro": "Museum of Modern Art - Jean-Marie Drot",
+                "en": "Museum of Modern Art - Jean-Marie Drot"
+              },
+              "tip_4lang": {
+                "de": "Kulturelle Tiefe abseits der nassen Straßen entdecken; nutzen Sie die Zeit drinnen, während draußen der Regen die Küste peitscht.",
+                "hu": "Fedezze fel a kulturális mélységeket a vizes utcáktól távol; használja ki a benti időt, amíg kint az eső mossa a tengerpartot.",
+                "ro": "Descoperiți profunzimea culturală departe de străzile umede; profitați de timpul petrecut în interior în timp ce ploaia bate coasta.",
+                "en": "Discover cultural depths away from the wet streets; use your time indoors while the rain lashes the coast outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolitsani",
+                "hu": "Kolitsani",
+                "ro": "Kolitsani",
+                "en": "Kolitsani"
+              },
+              "tip_4lang": {
+                "de": "Ein dramatischer Ausblick auf die stürmischen Wellen; tragen Sie rutschfeste Schuhe für den Abstieg auf dem nassen Pfad zum Strand.",
+                "hu": "Dramatikus kilátás a viharos hullámokra; viseljen csúszásmentes cipőt a strandra vezető nedves ösvényen való leereszkedéshez.",
+                "ro": "O vedere dramatică a valurilor furtunoase; purtați pantofi antiderapanți pentru coborârea pe poteca umedă spre plajă.",
+                "en": "A dramatic view of the stormy waves; wear non-slip shoes for the descent on the wet path leading down to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Βαλμάς",
+                "hu": "Βαλμάς",
+                "ro": "Βαλμάς",
+                "en": "Βαλμάς"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das raue Meer von der Bucht aus; ein wasserdichter Poncho schützt Sie vor der Gischt und dem Regen am späten Nachmittag.",
+                "hu": "Figyelje a vad tengert az öbölből; egy vízálló poncsó megvédi Önt a tengeri permettől és a késő délutáni esőtől.",
+                "ro": "Observați marea agitată din golf; un poncho impermeabil vă va proteja de spray-ul marin și de ploaia de la sfârșitul zilei.",
+                "en": "Watch the rough sea from the bay; a waterproof poncho will protect you from the sea spray and late afternoon rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Morgenruhe im winterlichen Ios, die klare Luft macht die Museen zu gemütlichen Zielen. Mittags steht die Sonne tief, wärmt aber angenehm bei den Spaziergängen. Ab 16:30 Uhr beginnt die Dämmerung, und die Meeresbrise wird deutlich kälter. Da es um 17:00 Uhr dunkel wird, endet der Tag in der Chora bei einer warmen Tasse Tee in einer der wenigen geöffneten Bars.",
+            "hu": "Hűvös reggeli nyugalom a téli Ios szigetén, a tiszta levegő miatt a múzeumok hívogató célpontok. Délben a nap alacsonyan jár, de kellemesen melenget a séták során. 16:30-tól alkonyodik, és a tengeri szél érezhetően hidegebbé válik. Mivel 17:00-kor sötétedik, a nap a Chorában zárul egy forró tea mellett az egyik nyitva tartó bárban.",
+            "ro": "Liniște răcoroasă de dimineață în Ios de iarnă, aerul curat făcând muzeele destinații primitoare. La prânz soarele este jos, dar încălzește plăcut în timpul plimbărilor. De la ora 16:30 începe amurgul, iar briza mării devine vizibil mai rece. Deoarece se întunecă la ora 17:00, ziua se încheie în Chora cu un ceai cald într-unul din puținele baruri deschise.",
+            "en": "Crisp morning silence in winter Ios, the clear air making the museums cozy destinations. At noon, the sun is low but warms pleasantly during the walks. From 16:30, dusk begins and the sea breeze turns significantly colder. Since it gets dark by 17:00, the day ends in Chora with a hot cup of tea in one of the few open bars."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archaeological museum of Ios",
+                "hu": "Archaeological museum of Ios",
+                "ro": "Archaeological museum of Ios",
+                "en": "Archaeological museum of Ios"
+              },
+              "tip_4lang": {
+                "de": "Tauchen Sie ein in die Geschichte, während es draußen kühl ist; die ruhigen Säle sind im Winter perfekt für eine private Besichtigung.",
+                "hu": "Merüljön el a történelemben, amíg kint hűvös van; a csendes termek télen tökéletesek egy privát jellegű tárlatvezetéshez.",
+                "ro": "Cufundați-vă în istorie cât timp este răcoare afară; sălile liniștite sunt perfecte iarna pentru o vizită privată.",
+                "en": "Immerse yourself in history while it's cool outside; the quiet halls are perfect in winter for a private-feeling visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Giannis Gaitis – Gabriella Simosis museum",
+                "hu": "Giannis Gaitis – Gabriella Simosis museum",
+                "ro": "Giannis Gaitis – Gabriella Simosis museum",
+                "en": "Giannis Gaitis – Gabriella Simosis museum"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die moderne Kunst ohne Sommertrubel; kleiden Sie sich im Zwiebelprinzip für den Wechsel zwischen Innenräumen und Außenwegen.",
+                "hu": "Élvezze a modern művészetet a nyári tömeg nélkül; öltözzön rétegesen a belső terek és a külső utak közötti váltáshoz.",
+                "ro": "Bucurați-vă de arta modernă fără agitația verii; îmbrăcați-vă în straturi pentru trecerea de la interior la potecile exterioare.",
+                "en": "Enjoy modern art without the summer crowds; dress in layers for the transitions between indoor galleries and outdoor paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Modern Art - Jean-Marie Drot",
+                "hu": "Museum of Modern Art - Jean-Marie Drot",
+                "ro": "Museum of Modern Art - Jean-Marie Drot",
+                "en": "Museum of Modern Art - Jean-Marie Drot"
+              },
+              "tip_4lang": {
+                "de": "Ein kulturelles Juwel, das im Winter besonders ruhig wirkt; ideal für tiefe Reflexion bei angenehmer Raumtemperatur.",
+                "hu": "Kulturális ékszerdoboz, amely télen különösen nyugodtnak hat; ideális a mély elmélyüléshez kellemes benti hőmérséklet mellett.",
+                "ro": "O bijuterie culturală care pare deosebit de liniștită iarna; ideal pentru reflecție profundă la o temperatură interioară plăcută.",
+                "en": "A cultural gem that feels especially peaceful in winter; ideal for deep reflection at a comfortable indoor temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolitsani",
+                "hu": "Kolitsani",
+                "ro": "Kolitsani",
+                "en": "Kolitsani"
+              },
+              "tip_4lang": {
+                "de": "Erleben Sie die pure Einsamkeit am Strand; bringen Sie eine windfeste Jacke für den Aufenthalt im kühlen Nachmittagsschatten mit.",
+                "hu": "Tapasztalja meg a tiszta magányt a tengerparton; vigyen szélálló kabátot a hűvös délutáni árnyékban való tartózkodáshoz.",
+                "ro": "Experimentați singurătatea pură pe plajă; aduceți o jachetă rezistentă la vânt pentru umbra răcoroasă de după-amiază.",
+                "en": "Experience pure solitude on the beach; bring a windproof jacket for staying in the cool afternoon shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Βαλμάς",
+                "hu": "Βαλμάς",
+                "ro": "Βαλμάς",
+                "en": "Βαλμάς"
+              },
+              "tip_4lang": {
+                "de": "Der perfekte Ort für den frühen Sonnenuntergang; warme Kleidung ist unerlässlich, da die Temperatur nach 17:00 Uhr rapide sinkt.",
+                "hu": "Tökéletes hely a korai naplemente megtekintéséhez; a meleg ruházat elengedhetetlen, mivel 17:00 után gyorsan hűl a levegő.",
+                "ro": "Locul perfect pentru apusul timpuriu; hainele groase sunt esențiale, deoarece temperatura scade rapid după ora 17:00.",
+                "en": "The perfect spot for the early sunset; warm clothing is essential as the temperature drops rapidly after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját Skarkos lenyűgöző történelem előtti romjainál. Késő délelőtt térjen vissza a városba, hogy felfedezze a helyi múzeumok kincseit. A meleg délután folyamán tekerjen le a nyüzsgő Mylopotas strandra egy frissítő fürdőzésre. Végül fedezze fel a sziget csendesebb arcát a gátnál, és zárja a napot Sapounochoma zord partjainál.",
         "ro": "Începeți aventura pe bicicletă către fascinantele ruine preistorice din Skarkos. Întoarceți-vă în oraș spre prânz pentru a explora muzeele locale. Pe măsură ce după-amiaza se încălzește, pedalați spre plaja plină de viață Mylopotas pentru o baie revigorantă. În cele din urmă, descoperiți partea mai liniștită a insulei la barajul Mylopotas, încheind ziua pe țărmurile stâncoase din Sapounochoma.",
         "en": "Start your biking adventure riding to the fascinating prehistoric ruins of Skarkos. Return to town mid-morning to explore the rich history and modern masterpieces at the local museums. As the afternoon warms up, pedal down to the lively Mylopotas beach for a refreshing swim. Finally, discover the quieter side of the island at the Mylopotas Dam, ending your day at the rugged shores of Sapounochoma."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den rutschigen Straßen zur Skarkos-Siedlung. Vormittags bieten die Museen trockene Pausen für durchnässte Fahrer. Mittags ist das Licht gedämpft, was der Landschaft eine mystische Note verleiht. Nachmittags fordern die Küstenwege mit Wind und Nässe volle Konzentration, bevor man den Tag bei abklingendem Regen beendet.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a Skarkos felé vezető csúszós utakon. Délelőtt a múzeumok száraz pihenőt kínálnak az átázott bringásoknak. Délben a tompa fények misztikus hangulatot kölcsönöznek a tájnak. Délután a tengerparti utak széllel és nedvességgel teszik próbára a figyelmet, mielőtt a nap végén elállna az eső.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile alunecoase spre Skarkos. Dimineața muzeele oferă pauze uscate pentru bicicliștii udați. La prânz lumina difuză conferă peisajului o notă mistică. După-amiaza traseele de coastă cu vânt și umezeală necesită concentrare maximă înainte de a încheia ziua.",
+            "en": "Cycling in the rain requires caution on the slippery roads to the Skarkos settlement. In the morning, museums offer dry breaks for soaked riders. At noon, the muted light gives the landscape a mystical touch. In the afternoon, the coastal paths with wind and wetness demand full concentration before ending the day as the rain subsides."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pre-historic settlement of Skarkos",
+                "hu": "Pre-historic settlement of Skarkos",
+                "ro": "Pre-historic settlement of Skarkos",
+                "en": "Pre-historic settlement of Skarkos"
+              },
+              "tip_4lang": {
+                "de": "Erkunden Sie die Ausgrabungen unter grauem Himmel; achten Sie auf den schlammigen Untergrund beim Abstellen Ihres Fahrrads.",
+                "hu": "Fedezze fel az ásatásokat szürke égbolt alatt; ügyeljen a sáros talajra, amikor leparkolja a kerékpárját.",
+                "ro": "Explorați săpăturile sub cerul cenușiu; aveți grijă la terenul noroios când vă parcați bicicleta.",
+                "en": "Explore the excavations under grey skies; watch out for muddy ground when parking your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaeological museum of Ios",
+                "hu": "Archaeological museum of Ios",
+                "ro": "Archaeological museum of Ios",
+                "en": "Archaeological museum of Ios"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Aufwärmen und Trocknen; die Ausstellungsstücke lassen Sie das schlechte Wetter draußen vergessen.",
+                "hu": "Használja a múzeumlátogatást a bemelegedésre és száradásra; a kiállítási tárgyak feledtetik Önnel a kinti rossz időt.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi și usca; exponatele vă vor face să uitați de vremea rea de afară.",
+                "en": "Use the museum visit to warm up and dry off; the exhibits will make you forget the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Modern Art - Jean-Marie Drot",
+                "hu": "Museum of Modern Art - Jean-Marie Drot",
+                "ro": "Museum of Modern Art - Jean-Marie Drot",
+                "en": "Museum of Modern Art - Jean-Marie Drot"
+              },
+              "tip_4lang": {
+                "de": "Inspirierende Kunst in trockener Umgebung; ein idealer Zwischenstopp für Radfahrer, um neue Energie vor der Weiterfahrt zu sammeln.",
+                "hu": "Inspiráló művészet száraz környezetben; ideális megálló bicikliseknek, hogy új energiát gyűjtsenek a továbbindulás előtt.",
+                "ro": "Artă inspiratoare într-un mediu uscat; un popas ideal pentru bicicliști pentru a colecta energie nouă înainte de a continua.",
+                "en": "Inspirational art in a dry environment; an ideal stop for cyclists to gather new energy before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Μυloπότας",
+                "hu": "Μυλοπότας",
+                "ro": "Μυλοπότας",
+                "en": "Μυλοπότας"
+              },
+              "tip_4lang": {
+                "de": "Ein verlassener Strand im Regen; prüfen Sie Ihre Bremsen, bevor Sie die nasse Abfahrt zum Meer in Angriff nehmen.",
+                "hu": "Elhagyatott strand az esőben; ellenőrizze a fékeket, mielőtt nekivágna a tengerhez vezető nedves lejtőnek.",
+                "ro": "O plajă pustie în ploaie; verificați frânele înainte de a începe coborârea umedă spre mare.",
+                "en": "A deserted beach in the rain; check your brakes before tackling the wet descent down to the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Fragµa Mylopotaµoy",
+                "hu": "Fragµa Mylopotaµoy",
+                "ro": "Fragµa Mylopotaµoy",
+                "en": "Fragµa Mylopotaµoy"
+              },
+              "tip_4lang": {
+                "de": "Der Staudamm füllt sich bei Regen eindrucksvoll; tragen Sie eine Regenbrille, um klare Sicht beim Radfahren im Schauer zu behalten.",
+                "hu": "A gát esőben látványosan telítődik; viseljen esőszemüveget, hogy tiszta legyen a kilátás kerékpározás közben a záporban.",
+                "ro": "Barajul se umple spectaculos în timpul ploii; purtați ochelari de protecție pentru vizibilitate clară în timp ce pedalați prin ploaie.",
+                "en": "The dam fills up impressively in the rain; wear cycling glasses for clear vision while riding through the showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Sapounochoma",
+                "hu": "Sapounochoma",
+                "ro": "Sapounochoma",
+                "en": "Sapounochoma"
+              },
+              "tip_4lang": {
+                "de": "Ein wildes Ende der Tour an der Küste; die Gischt vermischt sich mit dem Regen, was eine robuste Regenbekleidung erfordert.",
+                "hu": "A túra vad véget ér a parton; a tengeri permet keveredik az esővel, ami masszív esőruházatot követel meg.",
+                "ro": "Un final sălbatic de tur pe coastă; spray-ul marin se amestecă cu ploaia, necesitând îmbrăcăminte de ploaie robustă.",
+                "en": "A wild end to the tour on the coast; the sea spray mixes with the rain, requiring robust rain gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Ios bietet klare Sichten und leere Straßen. Morgens ist es frisch, ideal für den Anstieg nach Skarkos. Mittags wärmt die Sonne die Fahrer angenehm auf. Ab 16:00 Uhr sinken die Temperaturen schnell, und das Licht schwindet. Beenden Sie die Tour bis 17:00 Uhr, da das Fahren auf den unbeleuchteten Wegen in der Dunkelheit riskant wird.",
+            "hu": "A téli kerékpározás Ios-on tiszta kilátást és üres utakat kínál. Reggel friss az idő, ideális a Skarkos felé vezető emelkedőhöz. Délben a nap kellemesen melengeti a bringásokat. 16:00-tól gyorsan csökken a hőmérséklet és fogy a fény. Fejezze be a túrát 17:00-ig, mert a kivilágítatlan utakon való tekerés sötétben kockázatos.",
+            "ro": "Ciclismul de iarnă în Ios oferă vederi clare și drumuri libere. Dimineața este răcoare, ideal pentru urcarea spre Skarkos. La prânz soarele încălzește plăcut bicicliștii. De la ora 16:00 temperaturile scad rapid și lumina dispare. Terminați turul până la ora 17:00, deoarece condusul pe drumuri neluminate pe întuneric devine riscant.",
+            "en": "Winter cycling in Ios offers clear views and empty roads. The morning is fresh, ideal for the climb to Skarkos. At noon, the sun warms riders pleasantly. From 16:00, temperatures drop quickly and light fades. Finish the tour by 17:00, as riding on unlit paths in the dark becomes risky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pre-historic settlement of Skarkos",
+                "hu": "Pre-historic settlement of Skarkos",
+                "ro": "Pre-historic settlement of Skarkos",
+                "en": "Pre-historic settlement of Skarkos"
+              },
+              "tip_4lang": {
+                "de": "Besichtigen Sie die Siedlung in der kühlen Morgenluft; Handschuhe sind für die Abfahrt nach dem Besuch sehr zu empfehlen.",
+                "hu": "Tekintse meg a települést a hűvös reggeli levegőben; a látogatás utáni lejtőhöz erősen ajánlott a kesztyű használata.",
+                "ro": "Vizitați așezarea în aerul răcoros al dimineții; mănușile sunt recomandate pentru coborârea de după vizită.",
+                "en": "Visit the settlement in the cool morning air; gloves are highly recommended for the downhill ride after the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaeological museum of Ios",
+                "hu": "Archaeological museum of Ios",
+                "ro": "Archaeological museum of Ios",
+                "en": "Archaeological museum of Ios"
+              },
+              "tip_4lang": {
+                "de": "Wärmen Sie sich zwischen den Exponaten auf; die ruhige Winteratmosphäre erlaubt einen ungestörten Blick auf die antiken Schätze.",
+                "hu": "Melegedjen fel a kiállítási tárgyak között; a nyugodt téli légkör zavartalan betekintést enged az ókori kincsek közé.",
+                "ro": "Încălziți-vă printre exponate; atmosfera liniștită de iarnă permite o privire netulburată asupra comorilor antice.",
+                "en": "Warm up among the exhibits; the quiet winter atmosphere allows an undisturbed look at the ancient treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Modern Art - Jean-Marie Drot",
+                "hu": "Museum of Modern Art - Jean-Marie Drot",
+                "ro": "Museum of Modern Art - Jean-Marie Drot",
+                "en": "Museum of Modern Art - Jean-Marie Drot"
+              },
+              "tip_4lang": {
+                "de": "Ein kultureller Boxenstopp in angenehmer Wärme; nutzen Sie die Zeit für eine Pause, bevor der kühle Nachmittagswind auffrischt.",
+                "hu": "Kulturális boxutca kellemes melegben; használja ki az időt a pihenésre, mielőtt a hűvös délutáni szél feltámadna.",
+                "ro": "O oprire culturală la boxă în căldură plăcută; profitați de timp pentru o pauză înainte ca vântul răcoros de după-amiază să se întețească.",
+                "en": "A cultural pit stop in pleasant warmth; use the time for a rest before the cool afternoon wind picks up."
+              }
+            },
+            {
+              "name": {
+                "de": "Μυλοπότας",
+                "hu": "Μυλοπότας",
+                "ro": "Μυλοπόtas",
+                "en": "Μυλοπότας"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den weiten Strand ganz für sich; ziehen Sie eine warme Weste über, da es am Wasser im Winter windig ist.",
+                "hu": "Élvezze a tágas strandot teljesen egyedül; vegyen fel meleg mellényt, mert a vízparton télen szeles az idő.",
+                "ro": "Bucurați-vă de plaja largă doar pentru voi; puneți o vestă groasă pe voi, deoarece la apă vântul este puternic iarna.",
+                "en": "Enjoy the vast beach all to yourself; put on a warm vest as it is windy by the water in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Fragµa Mylopotaµoy",
+                "hu": "Fragµa Mylopotaµoy",
+                "ro": "Fragµa Mylopotaµoy",
+                "en": "Fragµa Mylopotaµoy"
+              },
+              "tip_4lang": {
+                "de": "Ein friedlicher Ort für eine kurze Rast; die tiefstehende Wintersonne spiegelt sich wunderschön im ruhigen Wasser des Stausees.",
+                "hu": "Békés hely egy rövid pihenőhöz; az alacsonyan járó téli nap gyönyörűen tükröződik a tározó nyugodt vizében.",
+                "ro": "Un loc pașnic pentru un scurt popas; soarele de iarnă care apune se reflectă frumos în apa liniștită a lacului de acumulare.",
+                "en": "A peaceful spot for a short rest; the low-lying winter sun reflects beautifully in the calm water of the reservoir."
+              }
+            },
+            {
+              "name": {
+                "de": "Sapounochoma",
+                "hu": "Sapounochoma",
+                "ro": "Sapounochoma",
+                "en": "Sapounochoma"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das letzte Licht des Tages am Strand; kehren Sie sofort nach 17:00 Uhr um, um nicht im Dunkeln fahren zu müssen.",
+                "hu": "Figyelje a nap utolsó fényeit a tengerparton; induljon vissza rögtön 17:00 után, hogy elkerülje a sötétben való tekerést.",
+                "ro": "Observați ultima lumină a zilei pe plajă; întoarceți-vă imediat după ora 17:00 pentru a evita pedalatul pe întuneric.",
+                "en": "Watch the last light of the day on the beach; head back immediately after 17:00 to avoid riding in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autózás északon kezdődik, követve az almyrosi lenyűgöző tengerparti kilátást és Viziri szikláit. Késő délelőtt tengerparti pihenés vár az elegáns Koumbara és a védett Tzamaria öblökben. Egy gyors pihenő után a szárazföld belseje felé veszi az irányt, hogy megcsodálja az ősi Skarkos körkörös építészetét, és elmerüljön a modern művészetben. Az utazás békésen zárul a Mylopotas-gát vizénél, ahogy leszáll az est.",
         "ro": "Călătoria dvs. începe în nord, urmărind priveliștile uimitoare de coastă din Almyros și rocile de la Viziri. Spre prânz vă veți relaxa la plaja șic Koumbara și în golful adăpostit Tzamaria. După o scurtă pauză, vă veți îndrepta spre interior pentru a admira arhitectura circulară a așezării antice Skarkos și a vă cufunda în arta modernă de la muzeul local. Excursia se încheie liniștit pe malul barajului Mylopotas odată cu lăsarea serii.",
         "en": "Your drive begins in the north, tracing the stunning coastal views of Almyros and the striking rocks at Viziri. Mid-morning offers beachside relaxation at the chic Koumbara and sheltered Tzamaria coves. After a quick break, you'll head inland to marvel at the circular architecture of the ancient Skarkos settlement and immerse yourself in modern art at the Gaitis-Simosis Museum. The road trip concludes serenely by the waters of the Mylopotas Dam as evening falls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Ios bei Regen am komfortabelsten erkunden. Vormittags bieten die Küstenstraßen dramatische Ausblicke auf die aufgewühlte See. Mittags sind die Museen in Chora ideale Ziele, während die Scheibenwischer unermüdlich arbeiten. Nachmittags ist der Besuch der prähistorischen Stätten ein Erlebnis, bevor man den Tag bei gemütlicher Fahrt beendet.",
+            "hu": "Autóval a legkényelmesebb felfedezni Iost esőben. Délelőtt a part menti utak dramatikus kilátást nyújtanak a felkorbácsolt tengerre. Délben a chorai múzeumok ideális célpontok, miközben az ablaktörlők fáradhatatlanul dolgoznak. Délután az őskori lelőhelyek látogatása különleges élmény, mielőtt kényelmes autózással zárnánk a napot.",
+            "ro": "Cu mașina, explorarea insulei Ios pe ploaie este cea mai confortabilă. Dimineața drumurile de coastă oferă vederi dramatice ale mării agitate. La prânz muzeele din Chora sunt destinații ideale în timp ce ștergătoarele lucrează neobosit. După-amiaza vizitarea siturilor preistorice este o experiență, înainte de a încheia ziua.",
+            "en": "Exploring Ios by car is most comfortable in the rain. In the morning, coastal roads offer dramatic views of the turbulent sea. At noon, the museums in Chora are ideal destinations while the wipers work tirelessly. In the afternoon, visiting prehistoric sites is an experience before ending the day with a cozy drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Almyros",
+                "hu": "Almyros",
+                "ro": "Almyros",
+                "en": "Almyros"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie das Meerespanorama aus dem trockenen Auto; der Regen verwandelt die Bucht in eine dramatische Kulisse.",
+                "hu": "Élvezze a tengeri panorámát a száraz autóból; az eső dramatikus díszletté varázsolja az öblöt.",
+                "ro": "Bucurați-vă de panorama marină din mașina uscată; ploaia transformă golful într-un decor dramatic.",
+                "en": "Enjoy the sea panorama from the dry car; the rain transforms the bay into a dramatic setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Viziri",
+                "hu": "Viziri",
+                "ro": "Viziri",
+                "en": "Viziri"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Stop für Fotos der stürmischen Küste; halten Sie den Regenschirm bereit für den Weg vom Parkplatz zum Aussichtspunkt.",
+                "hu": "Rövid megálló fotózni a viharos partot; legyen kéznél az esernyő a parkolótól a kilátópontig vezető úton.",
+                "ro": "O scurtă oprire pentru fotografii cu coasta furtunoasă; aveți umbrela pregătită pentru drumul de la parcare la punctul de observație.",
+                "en": "A short stop for photos of the stormy coast; have your umbrella ready for the walk from the parking lot to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Κουμπάρα",
+                "hu": "Κουμπάara",
+                "ro": "Κουμπάρα",
+                "en": "Κουμπάρα"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie die Wellenbrecher im Regen; die geschützte Lage der Bucht macht den Aufenthalt trotz Nässe angenehm.",
+                "hu": "Figyelje a hullámtörést az esőben; az öböl védett fekvése a nedvesség ellenére is kellemessé teszi az ott tartózkodást.",
+                "ro": "Observați valurile care se sparg în ploaie; poziția protejată a golfului face șederea plăcută în ciuda umezelii.",
+                "en": "Watch the breaking waves in the rain; the protected location of the bay makes the stay pleasant despite the wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Tzamaria",
+                "hu": "Tzamaria",
+                "ro": "Tzamaria",
+                "en": "Tzamaria"
+              },
+              "tip_4lang": {
+                "de": "Ein ruhiger Blick auf den Hafen von Ios bei schlechtem Wetter; ideal für einen schnellen Blick aus dem Fenster.",
+                "hu": "Nyugodt kilátás Ios kikötőjére rossz időben; ideális egy gyors pillantásra az autó ablakából.",
+                "ro": "O vedere liniștită a portului Ios pe vreme rea; ideal pentru o privire rapidă pe geamul mașinii.",
+                "en": "A quiet view of Ios harbor in bad weather; ideal for a quick glance out of the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Pre-historic settlement of Skarkos",
+                "hu": "Pre-historic settlement of Skarkos",
+                "ro": "Pre-historic settlement of Skarkos",
+                "en": "Pre-historic settlement of Skarkos"
+              },
+              "tip_4lang": {
+                "de": "Entdecken Sie die Geschichte unter dem Schutz Ihres Regenmantels; die Ausgrabungen wirken bei Regen besonders urtümlich.",
+                "hu": "Fedezze fel a történelmet esőkabátja védelmében; az ásatások esőben különösen ősi hatást keltenek.",
+                "ro": "Descoperiți istoria sub protecția pelerinei de ploaie; săpăturile par deosebit de arhaice pe ploaie.",
+                "en": "Discover history under the protection of your raincoat; the excavations look particularly ancient in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Giannis Gaitis – Gabriella Simosis museum",
+                "hu": "Giannis Gaitis – Gabriella Simosis museum",
+                "ro": "Giannis Gaitis – Gabriella Simosis museum",
+                "en": "Giannis Gaitis – Gabriella Simosis museum"
+              },
+              "tip_4lang": {
+                "de": "Ein perfekter kultureller Rückzugsort vor dem Nachmittagsregen; parken Sie nah am Eingang, um trocken ins Museum zu gelangen.",
+                "hu": "Tökéletes kulturális menedék a délutáni eső elől; parkoljon közel a bejárathoz, hogy szárazon jusson be a múzeumba.",
+                "ro": "Un refugiu cultural perfect împotriva ploii de după-amiază; parcați aproape de intrare pentru a ajunge uscați în muzeu.",
+                "en": "A perfect cultural retreat from the afternoon rain; park close to the entrance to get into the museum dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Fragµa Mylopotaµoy",
+                "hu": "Fragµa Mylopotaµoy",
+                "ro": "Fragµa Mylopotaµoy",
+                "en": "Fragµa Mylopotaµoy"
+              },
+              "tip_4lang": {
+                "de": "Der volle Stausee bietet ein beeindruckendes Fotomotiv; genießen Sie die Szenerie bequem vom Fahrersitz aus.",
+                "hu": "A megtelt víztározó lenyűgöző fotótéma; élvezze a látványt kényelmesen a vezetőülésből.",
+                "ro": "Rezervorul plin oferă un motiv fotografic impresionant; bucurați-vă de peisaj confortabil de pe scaunul șoferului.",
+                "en": "The full reservoir offers an impressive photo motif; enjoy the scenery comfortably from the driver's seat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten auf Ios bieten leere Straßen und glasklare Luft. Vormittags wärmt die Heizung, während man die Küste erkundet. Mittags ist das Licht perfekt für Panoramafotos der einsamen Strände. Da die Sonne bereits um 17:00 Uhr untergeht, sollte man die Außenbesichtigungen bis zum späten Nachmittag abschließen und die Abenddämmerung in der Chora genießen.",
+            "hu": "A téli autózás Ios-on üres utakat és kristálytiszta levegőt kínál. Délelőtt a fűtés melenget, miközben felfedezi a partot. Délben a fények tökéletesek a magányos strandok panorámaképeihez. Mivel a nap már 17:00-kor lemegy, a szabadtéri látnivalókat késő délutánig érdemes befejezni, majd élvezni az alkonyt a Chorában.",
+            "ro": "Condusul pe timp de iarnă în Ios oferă drumuri libere și aer cristalin. Dimineața căldura mașinii vă răsfață în timp ce explorați coasta. La prânz lumina este perfectă pentru fotografii panoramice ale plajelor pustii. Deoarece soarele apune deja la ora 17:00, vizitele ar trebui finalizate până după-amiaza târziu.",
+            "en": "Winter drives on Ios offer empty roads and crystal-clear air. In the morning, the car heater keeps you warm while exploring the coast. At noon, the light is perfect for panoramic photos of deserted beaches. Since the sun sets as early as 17:00, finish outdoor sightseeing by late afternoon and enjoy the dusk in Chora."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Almyros",
+                "hu": "Almyros",
+                "ro": "Almyros",
+                "en": "Almyros"
+              },
+              "tip_4lang": {
+                "de": "Ein einsamer Strandbesuch in der klaren Winterluft; nutzen Sie das Auto als warmen Rückzugsort nach einem kurzen Spaziergang am Ufer.",
+                "hu": "Magányos strandlátogatás a tiszta téli levegőben; használja az autót meleg menedékként a parton tett rövid séta után.",
+                "ro": "O vizită solitară pe plajă în aerul curat de iarnă; folosiți mașina ca refugiu cald după o scurtă plimbare pe mal.",
+                "en": "A lonely beach visit in the clear winter air; use the car as a warm retreat after a short walk along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Viziri",
+                "hu": "Viziri",
+                "ro": "Viziri",
+                "en": "Viziri"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe der unberührten Natur; im Winter haben Sie diesen Aussichtspunkt fast garantiert für sich allein.",
+                "hu": "Élvezze az érintetlen természet nyugalmát; télen szinte garantált, hogy egyedül lesz ezen a kilátóponton.",
+                "ro": "Bucurați-vă de liniștea naturii neatinse; iarna aveți acest punct de observație aproape garantat doar pentru voi.",
+                "en": "Enjoy the peace of untouched nature; in winter, you are almost guaranteed to have this viewpoint all to yourself."
+              }
+            },
+            {
+              "name": {
+                "de": "Κουμπάρα",
+                "hu": "Κουμπάρα",
+                "ro": "Κουμπάρα",
+                "en": "Κουμπάρα"
+              },
+              "tip_4lang": {
+                "de": "Ein friedlicher Ort für die Mittagssonne; die Temperaturen sind am Wasser im Winter deutlich niedriger, halten Sie eine Jacke bereit.",
+                "hu": "Békés hely a déli napsütésben; a hőmérséklet a víznél télen jóval alacsonyabb, tartson kéznél egy kabátot.",
+                "ro": "Un loc liniștit pentru soarele de la prânz; temperaturile la apă sunt mult mai scăzute iarna, aveți o jachetă pregătită.",
+                "en": "A peaceful spot for the midday sun; temperatures by the water are much lower in winter, keep a jacket ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Tzamaria",
+                "hu": "Tzamaria",
+                "ro": "Tzamaria",
+                "en": "Tzamaria"
+              },
+              "tip_4lang": {
+                "de": "Die klare Sicht im Winter lässt Sie bis zu den Nachbarinseln blicken; perfekt für Landschaftsfotografen bei tiefstehender Sonne.",
+                "hu": "A tiszta téli kilátás egészen a szomszédos szigetekig enged látni; tökéletes a tájfotósoknak az alacsonyan járó napnál.",
+                "ro": "Vederea clară de iarnă vă permite să vedeți până la insulele vecine; perfect pentru fotografii de peisaj sub soarele de iarnă.",
+                "en": "The clear winter view lets you see all the way to neighboring islands; perfect for landscape photographers with the low sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Pre-historic settlement of Skarkos",
+                "hu": "Pre-historic settlement of Skarkos",
+                "ro": "Pre-historic settlement of Skarkos",
+                "en": "Pre-historic settlement of Skarkos"
+              },
+              "tip_4lang": {
+                "de": "Erkunden Sie die Ruinen ohne die Hitze des Sommers; die tiefen Schatten verleihen den Mauern im Winter zusätzliche Konturen.",
+                "hu": "Fedezze fel a romokat a nyári hőség nélkül; a mély árnyékok télen plusz kontúrokat adnak a falaknak.",
+                "ro": "Explorați ruinele fără căldura verii; umbrele adânci conferă zidurilor contururi suplimentare iarna.",
+                "en": "Explore the ruins without the summer heat; the deep shadows give the walls extra contours in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Giannis Gaitis – Gabriella Simosis museum",
+                "hu": "Giannis Gaitis – Gabriella Simosis museum",
+                "ro": "Giannis Gaitis – Gabriella Simosis museum",
+                "en": "Giannis Gaitis – Gabriella Simosis museum"
+              },
+              "tip_4lang": {
+                "de": "Ein kulturelles Highlight am Nachmittag; die warmen Innenräume sind eine willkommene Abwechslung zur kühler werdenden Außenluft.",
+                "hu": "Kulturális fénypont délután; a meleg belső terek üdvözlendő váltást jelentenek a hűvösödő kinti levegő után.",
+                "ro": "Un punct culminant cultural după-amiaza; interioarele calde sunt o schimbare binevenită față de aerul exterior tot mai rece.",
+                "en": "A cultural highlight in the afternoon; the warm interiors are a welcome change from the cooling outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Fragµa Mylopotaµoy",
+                "hu": "Fragµa Mylopotaµoy",
+                "ro": "Fragµa Mylopotaµoy",
+                "en": "Fragµa Mylopotaµoy"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das sanfte Winterlicht auf dem Wasser; kehren Sie vor 17:00 Uhr zum Auto zurück, bevor es schlagartig dunkel wird.",
+                "hu": "Figyelje a lágy téli fényeket a vízen; térjen vissza az autóhoz 17:00 előtt, mielőtt hirtelen besötétedne.",
+                "ro": "Observați lumina blândă de iarnă pe apă; întoarceți-vă la mașină înainte de ora 17:00, înainte de a se întuneca brusc.",
+                "en": "Watch the soft winter light on the water; return to the car before 17:00, before it suddenly gets dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

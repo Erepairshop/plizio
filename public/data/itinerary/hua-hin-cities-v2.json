@@ -160,6 +160,196 @@
         "hu": "A nap a város pezsgő szívében indul, történelmi fapiacok felfedezésével még a hőség beállta előtt. Délben elérjük a híres strand homokját, ahol élvezhetjük a tengeri szellőt. A délután a spirituális felfedezésé: helyi díszes templomok együttesét járjuk végig. Ahogy közeledik az este, a legutolsó dombtetőn lévő szentély páratlan panorámával jutalmazza a kitartásunkat.",
         "ro": "Ziua începe în inima vibrantă a orașului, explorând piețele istorice din lemn înainte de a se instala căldura. Până la prânz, veți ajunge pe faimoasa plajă pentru a vă bucura de briza mării. După-amiaza se transformă într-o descoperire spirituală printre templele locale ornamentate. Spre seară, ultimul sanctuar de pe deal vă răsplătește cu priveliști panoramice deosebite.",
         "en": "Your day begins in the vibrant heart of the city, exploring historic wooden markets before the heat sets in. By midday, you'll reach the iconic expansive sands of the beach to enjoy the sea breeze. The afternoon shifts to spiritual discovery, ascending through a cluster of ornate local temples. As evening approaches, the final hilltop sanctuary rewards you with sweeping views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die überdachten Gänge des Chatsila-Marktes idealen Schutz vor Schauern. Mittags erkunden wir die wetterfesten Stände des Nachtmarktes. Nachmittags erleben wir die dramatische Brandung am Strand unter grauem Himmel. Den Abend lassen wir in den friedlichen Tempelhallen ausklingen, während der Regen sanft auf die verzierten Dächer trommelt.",
+            "hu": "Reggel a Chatsila piac fedett árkádjai alatt kezdünk, elkerülve az első záporokat. Délben az éjszakai piac területén keresünk menedéket a ponyvák alatt. Délután a tengerpart vad és szeles arcát csodáljuk meg egy rövid, frissítő séta erejéig. Estére a városi templomok csendes, eső áztatta kertjei és fedett csarnokai nyújtanak megnyugvást.",
+            "ro": "Dimineața, arcadele acoperite ale pieței Chatsila oferă adăpost ideal împotriva averselor. La prânz, explorăm standurile protejate ale pieței de noapte. După-amiaza, admirăm valurile dramatice ale plajei sub cerul înnorat. Seara se încheie în liniștea templelor, unde sunetul ploii pe acoperișurile ornamentate creează o atmosferă spirituală deosebită.",
+            "en": "In the morning, the covered walkways of Chatsila Market provide perfect shelter from showers. At noon, we explore the weather-proof stalls of the night market. In the afternoon, we witness the dramatic surf at the beach under misty skies. The evening concludes in the peaceful temple halls, listening to the rhythmic sound of rain on the ornate roofs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chatsila-Markt",
+                "hu": "Chatsila piac",
+                "ro": "Piața Chatsila",
+                "en": "Chatsila Market"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die hölzernen Obergeschosse der alten Häuser als Aussichtspunkt; sie bleiben auch bei starkem Tropenregen trocken und bieten eine tolle Perspektive.",
+                "hu": "Használja ki a régi faházak emeleti folyosóit nézelődésre; ezek a részek heves trópusi esőben is szárazak maradnak és remek rálátást biztosítanak a piacra.",
+                "ro": "Folosiți etajele de lemn ale caselor vechi pentru a observa piața; acestea rămân uscate chiar și în timpul ploilor tropicale și oferă o perspectivă excelentă.",
+                "en": "Take advantage of the upper wooden corridors of the old houses; they stay dry even during heavy tropical rain and offer a great vantage point over the market."
+              }
+            },
+            {
+              "name": {
+                "de": "Hua Hin Nachtmarkt",
+                "hu": "Hua Hin éjszakai piac",
+                "ro": "Piața de noapte Hua Hin",
+                "en": "Hua Hin Night Market"
+              },
+              "tip_5lang": {
+                "de": "Die meisten Garküchen haben ausfahrbare Markisen; suchen Sie sich einen Platz unter den festen Dächern der Seafood-Restaurants für ein trockenes Abendessen.",
+                "hu": "A legtöbb kifőzde kihúzható ponyvával rendelkezik; válasszon asztalt a tengeri herkennyős éttermek fix tetőszerkezete alatt a garantáltan száraz vacsorához.",
+                "ro": "Majoritatea tarabelor au copertine retractabile; alegeți o masă sub structurile fixe ale restaurantelor de fructe de mare pentru o cină ferită de ploaie.",
+                "en": "Most food stalls have retractable awnings; pick a table under the fixed roofs of the seafood restaurants for a guaranteed dry and delicious dinner experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Hua Hin",
+                "hu": "Hua Hin tengerpart",
+                "ro": "Plaja Hua Hin",
+                "en": "Hua Hin Beach"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie das Schwimmen bei roter Flagge und nutzen Sie die strandnahen Cafés mit Glasfront, um die stürmische See bei einem warmen Tee sicher zu beobachten.",
+                "hu": "Kerülje az úszást piros zászló esetén, és válassza a tengerparti üvegfalú kávézókat, ahonnan egy forró tea mellett biztonságban figyelheti a viharos hullámokat.",
+                "ro": "Evitați înotul dacă vedeți steagul roșu și alegeți cafenelele cu pereți de sticlă de pe mal pentru a observa marea agitată în siguranță, cu un ceai cald.",
+                "en": "Avoid swimming if the red flag is up; instead, head to a beachfront glass-walled cafe to safely watch the stormy waves while enjoying a warm local tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Suk Samran",
+                "hu": "Wat Suk Samran",
+                "ro": "Wat Suk Samran",
+                "en": "Wat Suk Samran"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die glatten Fliesen im Außenbereich; die Haupthalle bietet einen wunderbaren, trockenen Raum für Meditation während eines Regengusses.",
+                "hu": "Vigyázzon a kültéri csúszós csempékre; a főcsarnok belső tere csodálatos és száraz helyszínt biztosít az elmélyüléshez egy hirtelen zivatar idején is.",
+                "ro": "Atenție la plăcile ceramice alunecoase din exterior; sala principală oferă un spațiu uscat și minunat pentru meditație în timpul unei averse bruște.",
+                "en": "Be careful on the slippery outdoor tiles; the main hall's interior provides a wonderful, dry sanctuary for meditation during a sudden tropical downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Vivega Santi Dhamma",
+                "hu": "Wat Vivega Santi Dhamma",
+                "ro": "Wat Vivega Santi Dhamma",
+                "en": "Wat Vivega Santi Dhamma"
+              },
+              "tip_5lang": {
+                "de": "Der Garten duftet nach dem Regen besonders intensiv; nutzen Sie die überdachten Pavillons, um die spirituelle Ruhe und die frische Luft zu genießen.",
+                "hu": "A kert illata eső után különösen intenzív; pihenjen meg a fedett pavilonokban, hogy élvezhesse a spirituális nyugalmat és a friss, tiszta levegőt.",
+                "ro": "Grădina miroase extrem de intens după ploaie; folosiți pavilioanele acoperite pentru a vă bucura de liniștea spirituală și de aerul proaspăt de afară.",
+                "en": "The garden's scent is particularly intense after rain; use the covered pavilions to enjoy the spiritual silence and the fresh, clean tropical air."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Butsaya Banphot",
+                "hu": "Wat Butsaya Banphot",
+                "ro": "Wat Butsaya Banphot",
+                "en": "Wat Butsaya Banphot"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt bei bewölktem Licht besonders mystisch; tragen Sie rutschfeste Schuhe für den Aufstieg zu den etwas höher gelegenen Tempelteilen.",
+                "hu": "A templom architektúrája misztikus látványt nyújt szűrt fényben; viseljen csúszásmentes lábbelit a magasabban fekvő részek biztonságos megközelítéséhez.",
+                "ro": "Arhitectura templului pare mistică în lumina difuză; purtați încălțăminte aderentă pentru a urca în siguranță către secțiunile mai înalte ale complexului.",
+                "en": "The temple's architecture looks quite mystical in filtered light; wear non-slip footwear to safely reach the slightly elevated parts of the sanctuary."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen ist ideal für einen Bummel über den Chatsila-Markt. Mittags genießen wir die milde Sonne auf dem Nachtmarktgelände. Der Nachmittag gehört dem Strand, wo die Brise erfrischend wirkt, bevor die Sonne gegen 17:00 Uhr früh versinkt. Abends besuchen wir die Tempel, die in der frühen Dämmerung golden leuchten.",
+            "hu": "A hűvös téli reggel ideális a Chatsila piac színes forgatagának felfedezéséhez. Délben a Night Market környékén sétálunk a kellemes, lágy napsütésben. Délután a strandon élvezzük a frissítő szellőt, mielőtt a nap korán, 17 óra körül nyugovóra tér. Az estét a templomok látogatásával zárjuk a korai szürkületben.",
+            "ro": "Dimineața răcoroasă de iarnă este ideală pentru o plimbare prin piața Chatsila. La prânz, ne bucurăm de soarele blând în zona pieței de noapte. După-amiaza aparține plajei, unde briza este revigorantă înainte ca soarele să apună devreme, în jurul orei 17:00. Seara vizităm templele care strălucesc auriu în amurg.",
+            "en": "The cool winter morning is perfect for strolling through the Chatsila Market. At noon, we enjoy the mild sun around the night market area. The afternoon is dedicated to the beach, where the breeze is refreshing before the sun sets early around 5 PM. We end the day visiting temples that glow golden in the twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chatsila-Markt",
+                "hu": "Chatsila piac",
+                "ro": "Piața Chatsila",
+                "en": "Chatsila Market"
+              },
+              "tip_5lang": {
+                "de": "Die Temperaturen sind morgens perfekt für heißen thailändischen Kaffee; genießen Sie das historische Ambiente, bevor es am späten Vormittag voller wird.",
+                "hu": "A reggeli hőmérséklet tökéletes egy forró thai kávéhoz; élvezze a történelmi környezetet és a hűvös szellőt, mielőtt a délelőtti tömeg megérkezne.",
+                "ro": "Temperaturile de dimineață sunt perfecte pentru o cafea thailandeză fierbinte; bucurați-vă de ambianța istorică înainte ca piața să devină aglomerată.",
+                "en": "The morning temperatures are ideal for a hot Thai coffee; enjoy the historical atmosphere and the cool breeze before the late morning crowds arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Hua Hin Nachtmarkt",
+                "hu": "Hua Hin éjszakai piac",
+                "ro": "Piața de noapte Hua Hin",
+                "en": "Hua Hin Night Market"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Luftfeuchtigkeit niedriger, was den Mittagsbummel sehr angenehm macht; probieren Sie die frisch gegrillten Snacks ohne die Sommerhitze.",
+                "hu": "Télen alacsonyabb a páratartalom, ami kifejezetten kellemessé teszi a déli sétát; kóstolja meg a frissen grillezett falatokat a nyári hőség nélkül.",
+                "ro": "Iarna umiditatea este mai scăzută, ceea ce face plimbarea de la prânz foarte plăcută; gustați gustările la grătar fără a resimți căldura sufocantă.",
+                "en": "In winter, lower humidity makes the noon stroll very pleasant; try the freshly grilled snacks comfortably without the usual intense summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Hua Hin",
+                "hu": "Hua Hin tengerpart",
+                "ro": "Plaja Hua Hin",
+                "en": "Hua Hin Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Gezeiten ändern sich im Winter oft; planen Sie Ihren Strandspaziergang für den frühen Nachmittag, um den weiten Sandstreifen vor Flutbeginn zu nutzen.",
+                "hu": "Télen az árapály ciklus változó; tervezze a tengerparti sétát kora délutánra, hogy kihasználhassa a széles homokos sávot a dagály beállta előtt.",
+                "ro": "Mareele se schimbă des iarna; planificați plimbarea pe plajă la începutul după-amiezii pentru a beneficia de fâșia lată de nisip înainte de flux.",
+                "en": "Tides change frequently in winter; plan your beach walk for the early afternoon to enjoy the wide sandy stretch before the high tide sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Suk Samran",
+                "hu": "Wat Suk Samran",
+                "ro": "Wat Suk Samran",
+                "en": "Wat Suk Samran"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten und erzeugt ein warmes Licht für Fotos; besuchen Sie den Tempel kurz vor der frühen Dämmerung.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat és meleg fényeket vet, ami kiváló fotótéma; látogassa meg a templomot röviddel a korai naplemente előtt.",
+                "ro": "Soarele jos de iarnă proiectează umbre lungi și o lumină caldă, perfectă pentru fotografii; vizitați templul chiar înainte de amurgul timpuriu.",
+                "en": "The low winter sun casts long shadows and creates warm, golden lighting for photos; visit the temple shortly before the early twilight begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Vivega Santi Dhamma",
+                "hu": "Wat Vivega Santi Dhamma",
+                "ro": "Wat Vivega Santi Dhamma",
+                "en": "Wat Vivega Santi Dhamma"
+              },
+              "tip_5lang": {
+                "de": "Ein leichter Schal schützt vor der kühleren Abendbrise; genießen Sie die friedliche Meditation, während die Vögel sich für die Nacht sammeln.",
+                "hu": "Egy könnyű sál jól jöhet a hűvösebb esti szél ellen; élvezze a békés meditációt, miközben a madarak gyülekeznek az udvar fáin az éjszakára.",
+                "ro": "O eșarfă ușoară vă va proteja de briza răcoroasă a serii; bucurați-vă de meditația pașnică în timp ce păsările se adună pentru noapte.",
+                "en": "A light scarf will protect you from the cooler evening breeze; enjoy the peaceful meditation while birds gather in the trees for the night."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Butsaya Banphot",
+                "hu": "Wat Butsaya Banphot",
+                "ro": "Wat Butsaya Banphot",
+                "en": "Wat Butsaya Banphot"
+              },
+              "tip_5lang": {
+                "de": "Da es um 17:00 Uhr dunkel wird, bietet dieser Tempel am späten Nachmittag eine mystische Atmosphäre durch die einsetzende künstliche Beleuchtung.",
+                "hu": "Mivel 17 óra körül sötétedik, a templom késő délután misztikus hangulatot áraszt a gyúló fények és az alkonyi égbolt kontrasztjának köszönhetően.",
+                "ro": "Deoarece se întunecă în jurul orei 17:00, acest templu oferă o atmosferă mistică la sfârșitul după-amiezii datorită iluminatului artificial.",
+                "en": "As it gets dark around 5 PM, this temple offers a mystical atmosphere in the late afternoon thanks to the contrast of early lights and twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a biciklizést a csendes reggeli parton, beszívva a friss parti levegőt. Ahogy a nap magasabbra hág, tekerjen beljebb egy nyugodt erdei templomhoz, távol a tömegtől. A délután aktív kalandot tartogat, festői kilátópontokhoz mászunk, ahonnan belátni az egész várost. Utazása a város legendás piacainak lüktető energiájába ereszkedve ér véget a naplemente közeledtével.",
         "ro": "Începeți traseul liniștit pe țărmul mării pentru a respira aerul proaspăt al dimineții. Pe măsură ce soarele urcă, pedalați spre interior către un templu pașnic împădurit. După-amiaza aduce o aventură activă, urcând la puncte de belvedere care dezvăluie amploarea orașului. Încheiați călătoria coborând înapoi în energia vibrantă a faimoaselor piețe ale orașului.",
         "en": "Start your ride smoothly along the quiet morning shorelines to take in the refreshing coastal air. As the sun rises higher, cycle inland to a tranquil forested temple away from the crowds. The afternoon is an active adventure, climbing scenic viewpoints that reveal the city's true scale. End your journey descending back into the vibrant energy of the town's legendary markets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir am Strand, wo die Luft herrlich frisch ist. Mittags radeln wir vorsichtig zum Wat Khao Chong Pradu und suchen bei Schauern unter Bäumen Schutz. Nachmittags fordern die Aussichtspunkte Konzentration auf nassen Wegen. Der Abend endet gemütlich auf dem Nachtmarkt, während wir die Räder sicher abstellen.",
+            "hu": "Az eső ellenére a strandon kezdünk, ahol a levegő ilyenkor rendkívül friss. Délben óvatosan tekerünk a Wat Khao Chong Pradu felé, zápor esetén a fák alatt pihenünk. Délután a kilátókhoz vezető vizes utak nagy figyelmet igényelnek. Az estét a Nachtmarkton zárjuk, ahol a kerékpárokat fedett helyen tárolhatjuk.",
+            "ro": "În ciuda ploii, începem pe plajă, unde aerul este extrem de proaspăt. La prânz, pedalăm cu grijă spre Wat Khao Chong Pradu, adăpostindu-ne sub copaci în caz de aversă. După-amiaza, drumurile umede spre punctele de belvedere necesită atenție sporită. Seara se încheie în siguranță la piața de noapte.",
+            "en": "Despite the rain, we start at the beach where the air feels incredibly fresh. At noon, we cycle carefully towards Wat Khao Chong Pradu, seeking shelter under trees during showers. In the afternoon, wet roads to the viewpoints require extra focus. The evening ends at the night market, with bikes parked in a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand von Hua Hin",
+                "hu": "Hua Hin tengerpart",
+                "ro": "Plaja Hua Hin",
+                "en": "Hua Hin Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf dem festen Sand direkt am Wasser; der nasse Boden bietet überraschend guten Halt für Fahrradreifen, solange keine Algen liegen.",
+                "hu": "Csak a vízparti kemény homokon tekerjen; a nedves talaj meglepően jó tapadást biztosít a gumiknak, amíg elkerüli a csúszós algás részeket.",
+                "ro": "Pedalați doar pe nisipul tare de lângă apă; solul umed oferă o aderență surprinzător de bună pentru anvelope, evitând zonele cu alge.",
+                "en": "Cycle only on the firm sand near the water; the wet surface provides surprisingly good grip for bike tires as long as you avoid algae-covered spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Khao Chong Pradu",
+                "hu": "Wat Khao Chong Pradu",
+                "ro": "Wat Khao Chong Pradu",
+                "en": "Wat Khao Chong Pradu"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann rutschig sein; schalten Sie in einen niedrigen Gang und nutzen Sie die Tempelgebäude als trockenen Rastplatz für sich und Ihr Rad.",
+                "hu": "Az emelkedő csúszós lehet; váltson alacsonyabb sebességfokozatba, és használja a templom épületeit száraz pihenőhelyként önmaga és a bicikli számára.",
+                "ro": "Urcarea poate fi alunecoasă; folosiți o treaptă de viteză inferioară și utilizați clădirile templului ca loc de odihnă uscat pentru dvs. și bicicletă.",
+                "en": "The ascent can be slippery; switch to a lower gear and use the temple buildings as a dry resting place for both yourself and your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt 3",
+                "hu": "3-as kilátó",
+                "ro": "Punct de belvedere 3",
+                "en": "Viewpoint 3"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Regenfronten über dem Meer ist spektakulär; halten Sie ein Mikrofasertuch bereit, um die Bremsflanken Ihres Rades trocken zu wischen.",
+                "hu": "A tenger feletti esőfelhők látványa lenyűgöző; tartson magánál mikroszálas kendőt, hogy szárazra törölhesse a kerékpár felnijeit a biztos fékezéshez.",
+                "ro": "Vederea fronturilor de ploaie deasupra mării este spectaculoasă; aveți la îndemână o lavetă pentru a șterge jantele bicicletei pentru o frânare sigură.",
+                "en": "The view of rain fronts over the sea is spectacular; keep a microfiber cloth handy to wipe your bike's rims for reliable braking on the way down."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Hin Lek Fai Aussichtspunkt",
+                "hu": "Khao Hin Lek Fai kilátó",
+                "ro": "Punct de belvedere Khao Hin Lek Fai",
+                "en": "Khao Hin Lek Fai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor Laub auf der Straße, das bei Nässe wie Seife wirkt; genießen Sie die kühle Luft am Gipfel, während die Wolken tief über der Stadt hängen.",
+                "hu": "Vigyázzon az útra hullott levelekkel, amik nedvesen nagyon csúsznak; élvezze a hűvös hegyi levegőt, miközben a felhők alacsonyan szállnak a város felett.",
+                "ro": "Atenție la frunzele de pe drum, care sunt foarte alunecoase când sunt ude; bucurați-vă de aerul răcoros în timp ce norii plutesc jos peste oraș.",
+                "en": "Watch out for wet leaves on the road as they can be very slippery; enjoy the cool mountain air while the clouds hang low over the city below."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Rachai Ton Banphot",
+                "hu": "Wat Rachai Ton Banphot",
+                "ro": "Wat Rachai Ton Banphot",
+                "en": "Wat Rachai Ton Banphot"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich des Klosters, um Ihre Regenbekleidung zu ordnen; die ruhige Atmosphäre wirkt bei Regen besonders besinnlich.",
+                "hu": "Használja a kolostor fedett részeit az esőfelszerelés igazítására; a csendes környezet esős időben különösen elmélyült hangulatot áraszt.",
+                "ro": "Folosiți zona acoperită a mănăstirii pentru a vă ajusta echipamentul de ploaie; atmosfera liniștită este deosebit de contemplativă pe timp de ploaie.",
+                "en": "Use the monastery's covered areas to adjust your rain gear; the quiet environment feels especially contemplative and peaceful during the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Chatsila-Markt",
+                "hu": "Chatsila piac",
+                "ro": "Piața Chatsila",
+                "en": "Chatsila Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Vordächern am Rande des Marktes; die hölzernen Gassen sind zu schmal und bei Nässe zu glatt zum Befahren.",
+                "hu": "Parkolja le kerékpárját a piac szélén található ereszek alatt; a fapadlós sikátorok túl szűkek és nedvesen túl csúszósak a kerekezéshez.",
+                "ro": "Parcați bicicleta sub streșinile de la marginea pieței; aleile cu podea de lemn sunt prea înguste și alunecoase pentru a fi parcurse pe roți.",
+                "en": "Park your bike under the eaves at the market's edge; the wooden alleys are too narrow and become too slippery for cycling when they are wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Hua Hin Nachtmarkt",
+                "hu": "Hua Hin éjszakai piac",
+                "ro": "Piața de noapte Hua Hin",
+                "en": "Hua Hin Night Market"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Nähe der großen Restaurants mit festen Dächern; so bleibt Ihr Sattel trocken, während Sie die Garküchen erkunden.",
+                "hu": "Keressen parkolóhelyet a fix tetős nagy éttermek közelében; így a nyereg száraz marad, miközben Ön a ponyvás kifőzdék kínálatát böngészi.",
+                "ro": "Căutați un loc de parcare lângă restaurantele mari cu acoperiș fix; astfel, șaua va rămâne uscată în timp ce explorați tarabele cu mâncare.",
+                "en": "Look for a parking spot near the large restaurants with fixed roofs; this keeps your saddle dry while you browse the various food stalls nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter bietet das beste Radwetter ohne extreme Hitze. Wir starten am Strand bei erfrischender Brise. Mittags erklimmen wir die Hügel zu den Tempeln und Aussichtspunkten unter strahlend blauem Himmel. Der Nachmittag endet früh mit dem Sonnenuntergang, bevor wir die belebten Märkte im Zentrum erreichen.",
+            "hu": "A tél kínálja a legjobb kerékpáros időt az extrém hőség nélkül. A strandon kezdünk frissítő szellőben. Délben a domboldali templomokat és kilátókat vesszük célba a ragyogó kék ég alatt. A délutáni program korán, a naplementével ér véget, épp mielőtt elérnénk a központ nyüzsgő piacait.",
+            "ro": "Iarna oferă cea mai bună vreme pentru ciclism, fără căldură extremă. Începem pe plajă cu o briză revigorantă. La prânz, urcăm dealurile spre temple și puncte de belvedere sub un cer senin. După-amiaza se încheie devreme cu apusul, înainte de a ajunge la piețele animate.",
+            "en": "Winter offers the best cycling weather without the extreme tropical heat. We start at the beach with a refreshing breeze. At noon, we climb the hills to temples and viewpoints under clear blue skies. The afternoon ends early with the sunset, just before we reach the bustling central markets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand von Hua Hin",
+                "hu": "Hua Hin tengerpart",
+                "ro": "Plaja Hua Hin",
+                "en": "Hua Hin Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Meeresbrise beim Radeln; am frühen Morgen ist der Sand oft fest genug für eine längere Fahrt entlang der Wasserlinie.",
+                "hu": "Élvezze a hűvös tengeri szellőt tekerés közben; kora reggel a homok gyakran elég kemény egy hosszabb biciklizéshez közvetlenül a vízpart mentén.",
+                "ro": "Bucurați-vă de briza răcoroasă a mării în timp ce pedalați; dimineața devreme nisipul este adesea destul de tare pentru o plimbare lungă pe mal.",
+                "en": "Enjoy the cool sea breeze while cycling; in the early morning, the sand is often firm enough for a long ride directly along the waterline."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Khao Chong Pradu",
+                "hu": "Wat Khao Chong Pradu",
+                "ro": "Wat Khao Chong Pradu",
+                "en": "Wat Khao Chong Pradu"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist bei den milden Temperaturen weniger anstrengend; nutzen Sie das klare Winterlicht für weite Panoramaaufnahmen vom Tempelvorplatz.",
+                "hu": "Az emelkedő a hűvösebb időben kevésbé megterhelő; használja ki a tiszta téli fényeket tágas panorámafotók készítéséhez a templom előtti térről.",
+                "ro": "Urcarea este mai puțin obositoare la temperaturi blânde; profitați de lumina clară de iarnă pentru fotografii panoramice de pe esplanada templului.",
+                "en": "The ascent is much less strenuous in the mild temperatures; use the clear winter light for wide panoramic shots from the temple's front terrace."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt 3",
+                "hu": "3-as kilátó",
+                "ro": "Punct de belvedere 3",
+                "en": "Viewpoint 3"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie eine leichte Windjacke für die Abfahrt ein; die Luft oben am Berg kann im Winter überraschend kühl sein, wenn man verschwitzt anhält.",
+                "hu": "Készítsen be egy könnyű széldzsekit a lejtőzéshez; a hegytetőn a levegő télen meglepően hűvös lehet, különösen, ha megizzadva áll meg pihenni.",
+                "ro": "Pregătiți o jachetă ușoară pentru coborâre; aerul de pe munte poate fi surprinzător de răcoros iarna, mai ales după efortul depus la urcare.",
+                "en": "Pack a light windbreaker for the descent; the mountain air can be surprisingly cool in winter, especially when you stop to rest after a sweaty climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Hin Lek Fai Aussichtspunkt",
+                "hu": "Khao Hin Lek Fai kilátó",
+                "ro": "Punct de belvedere Khao Hin Lek Fai",
+                "en": "Khao Hin Lek Fai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf den Golf von Thailand ist im Winter am besten; planen Sie genügend Zeit ein, da die Sonne hier oben früher hinter den Bergen verschwindet.",
+                "hu": "A kilátás a Thai-öbölre télen a legtisztább; tervezzen elég időt a nézelődésre, mert a nap itt a hegyek mögött korábban tűnik el a látóhatárról.",
+                "ro": "Vizibilitatea spre Golful Thailandei este optimă iarna; alocați suficient timp, deoarece soarele dispare mai devreme aici în spatele munților.",
+                "en": "The distant view of the Gulf of Thailand is best in winter; allow enough time as the sun disappears behind the mountains earlier at this elevation."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Rachai Ton Banphot",
+                "hu": "Wat Rachai Ton Banphot",
+                "ro": "Wat Rachai Ton Banphot",
+                "en": "Wat Rachai Ton Banphot"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause im Schatten der Bäume, bevor es zurück ins Stadtzentrum geht; die kühle Brise macht den Aufenthalt sehr erholsam.",
+                "hu": "Ideális helyszín egy pihenőhöz a fák árnyékában, mielőtt visszatekernénk a városközpontba; a hűvös szellő rendkívül felfrissíti a látogatót.",
+                "ro": "Un loc ideal pentru o pauză la umbra copacilor înainte de a reveni în centru; briza răcoroasă face șederea aici extrem de revigorantă.",
+                "en": "An ideal spot for a break in the shade of the trees before cycling back to the center; the cool breeze makes staying here very refreshing and pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Chatsila-Markt",
+                "hu": "Chatsila piac",
+                "ro": "Piața Chatsila",
+                "en": "Chatsila Market"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17:00 Uhr an, um die Architektur im letzten Tageslicht zu bewundern, bevor die festliche Abendbeleuchtung eingeschaltet wird.",
+                "hu": "Érkezzen meg időben, 17 óra előtt, hogy még természetes fényben lássa az épületeket, mielőtt felgyúlnának az esti hangulatvilágítás fényei.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a admira arhitectura în ultima lumină a zilei, înainte ca iluminatul festiv de seară să fie activat.",
+                "en": "Arrive well before 5 PM to admire the architecture in the last natural light of the day, just before the festive evening illumination is switched on."
+              }
+            },
+            {
+              "name": {
+                "de": "Hua Hin Nachtmarkt",
+                "hu": "Hua Hin éjszakai piac",
+                "ro": "Piața de noapte Hua Hin",
+                "en": "Hua Hin Night Market"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Winterabende laden dazu ein, länger draußen zu sitzen; schließen Sie Ihr Rad gut ab und genießen Sie die lebhafte Marktplatz-Atmosphäre.",
+                "hu": "A hűvösebb téli esték hosszabb kint tartózkodásra csábítanak; zárja le biztonságosan a biciklit, és merüljön el a piac élénk esti forgatagában.",
+                "ro": "Serile mai răcoroase de iarnă vă invită să stați mai mult afară; încuiați bine bicicleta și bucurați-vă de atmosfera vibrantă a pieței de noapte.",
+                "en": "Cooler winter evenings invite you to spend more time outdoors; lock your bike securely and soak in the lively and vibrant night market atmosphere."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Egy festői reggeli autózás egyenesen egy nyugodt hegyoldali templomhoz visz minket a béke jegyében. A délidőt a magasságnak szenteljük, csodás kilátópontok között autózva, amelyek az öbölre néznek. A délután folyamatosan tér át a díszes városi templomoktól a nyüzsgő tengerparti sugárutak felé. Zárja a napot ott, ahol a homok találkozik a várossal, kiváló ételek társaságában.",
         "ro": "O scurtă călătorie de dimineață vă duce direct la un templu liniștit de pe deal pentru a începe ziua pașnic. Prânzul este dedicat înălțimilor, conducând între puncte de belvedere superbe cu vedere la golf. După-amiaza trece fluid de la templele urbane ornate la bulevardele aglomerate de coastă. Încheiați ziua unde nisipul întâlnește orașul, savurând fructe de mare proaspete.",
         "en": "A scenic morning drive takes you immediately to a tranquil hillside temple to start the day with peaceful reflection. Midday is dedicated to sweeping elevation, driving between stunning viewpoints overlooking the gulf. Your afternoon seamlessly transitions from ornate urban temples to the bustling coastal avenues. Conclude the day where the sand meets the city, diving into world-class seafood."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir Hua Hin bequem und trocken. Wir starten bei den Hügel-Tempeln und genießen den Panoramablick aus dem sicheren Fahrzeug. Mittags besuchen wir die Tempel im Zentrum und nutzen die kurzen Wege vom Parkplatz. Den Abend verbringen wir auf den Märkten, wobei das Auto als perfekter Rückzugsort bei Starkregen dient.",
+            "hu": "Autóval kényelmesen és szárazon fedezhetjük fel Hua Hint. A domboldali templomoknál kezdünk, élvezve a panorámát a biztonságos utastérből. Délben a központi templomokat látogatjuk meg, kihasználva a parkolótól mért rövid távolságokat. Az estét a piacokon töltjük, az autó pedig menedéket nyújt a heves esőkben.",
+            "ro": "Cu mașina, explorăm Hua Hin confortabil și la adăpost de ploaie. Începem la templele de pe deal, admirând panorama din siguranța vehiculului. La prânz, vizităm templele centrale, profitând de distanțele scurte de la parcare. Seara o petrecem în piețe, mașina fiind refugiul perfect în caz de ploaie torențială.",
+            "en": "By car, we explore Hua Hin comfortably and stay dry throughout the day. We start at the hill temples, enjoying panoramic views from the safety of the vehicle. At noon, we visit central temples, taking advantage of short walks from the parking. The evening is spent at the markets, with the car as a perfect retreat during rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Khao Chong Pradu",
+                "hu": "Wat Khao Chong Pradu",
+                "ro": "Wat Khao Chong Pradu",
+                "en": "Wat Khao Chong Pradu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um Regengüsse zu überbrücken; die Aussicht auf die Stadt im Regen ist vom Parkplatz aus hervorragend.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást; a városra nyíló esős panoráma a parkolóból is kiválóan élvezhető.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; vederea panoramică a orașului sub ploaie este excelentă chiar și din parcare.",
+                "en": "Park as close to the entrance as possible to wait out heavy showers; the rainy panorama of the city is excellent even from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Hin Lek Fai Aussichtspunkt",
+                "hu": "Khao Hin Lek Fai kilátó",
+                "ro": "Punct de belvedere Khao Hin Lek Fai",
+                "en": "Khao Hin Lek Fai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die kurvige Straße erfordert bei Nässe Vorsicht; nutzen Sie die Zeit im Auto, um auf eine Wolkenlücke für das perfekte Foto über der Küste zu warten.",
+                "hu": "A kanyargós út nedvesen nagy odafigyelést igényel; használja ki az autó nyújtotta kényelmet, és várjon meg egy felhőszakadást a tökéletes fotóhoz.",
+                "ro": "Drumul sinuos necesită prudență pe carosabil umed; profitați de confortul mașinii pentru a aștepta o fereastră între nori pentru fotografia perfectă.",
+                "en": "The winding road requires extra caution when wet; use the car's comfort to wait for a break in the clouds to capture the perfect coastal photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt 6",
+                "hu": "6-os kilátó",
+                "ro": "Punct de belvedere 6",
+                "en": "Viewpoint 6"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto; die erhöhte Position bietet einen weiten Blick auf die grauen Wellen, ohne dass Sie nass werden müssen.",
+                "hu": "Heves esőben maradjon az autóban; a megemelt pozíció széles kilátást nyújt a szürke hullámokra anélkül, hogy ki kellene szállnia az esőbe.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină; poziția elevată oferă o perspectivă largă asupra valurilor cenușii fără a fi nevoie să vă udați.",
+                "en": "Stay in the car during heavy rain; the elevated position offers a wide view of the gray waves without the need to step out into the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Butsaya Banphot",
+                "hu": "Wat Butsaya Banphot",
+                "ro": "Wat Butsaya Banphot",
+                "en": "Wat Butsaya Banphot"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz, um direkt zum Tempel zu gelangen; die weißen Mauern leuchten auch unter einem wolkenverhangenen Himmel hell.",
+                "hu": "Használja a kiépített parkolót a templom közvetlen megközelítéséhez; a fehér falak még a borús, szürke égbolt alatt is fényesen világítanak.",
+                "ro": "Utilizați parcarea amenajată pentru a ajunge direct la templu; zidurile albe strălucesc puternic chiar și sub un cer acoperit de nori.",
+                "en": "Use the paved parking area for direct temple access; the white walls shine brightly even under a cloudy and overcast gray tropical sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Suk Samran",
+                "hu": "Wat Suk Samran",
+                "ro": "Wat Suk Samran",
+                "en": "Wat Suk Samran"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Haupteingang genügt; im Inneren finden Sie Schutz und eine friedliche Stille, während draußen der Tropenregen fällt.",
+                "hu": "Elég egy rövid sprint az autótól a főbejáratig; odabent védelmet és békés csendet talál, miközben kint zúg a trópusi eső.",
+                "ro": "Un scurt sprint de la mașină la intrarea principală este suficient; în interior veți găsi adăpost și o liniște deplină în timp ce afară plouă.",
+                "en": "A short sprint from the car to the main entrance is enough; inside you'll find shelter and a peaceful silence while the tropical rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chatsila-Markt",
+                "hu": "Chatsila piac",
+                "ro": "Piața Chatsila",
+                "en": "Chatsila Market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in einem der nahen Parkhäuser; so erreichen Sie den Markt trockenen Fußes über die angrenzenden überdachten Ladenzeilen.",
+                "hu": "Parkoljon a közeli parkolóházak egyikében; így száraz lábbal érheti el a piacot a szomszédos fedett üzletsorokon keresztül haladva.",
+                "ro": "Parcați într-una dintre parcările etajate din apropiere; astfel veți ajunge la piață fără a vă uda, prin zonele comerciale acoperite din jur.",
+                "en": "Park in one of the nearby parking garages; this allows you to reach the market dry by walking through the adjacent covered shopping rows."
+              }
+            },
+            {
+              "name": {
+                "de": "Hua Hin Nachtmarkt",
+                "hu": "Hua Hin éjszakai piac",
+                "ro": "Piața de noapte Hua Hin",
+                "en": "Hua Hin Night Market"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Einkäufe sicher im Auto; bei plötzlichem Starkregen können Sie sich schnell in das klimatisierte Fahrzeug zurückziehen und abwarten.",
+                "hu": "Hagyja a vásárolt holmikat biztonságban az autóban; hirtelen felhőszakadás esetén gyorsan visszahúzódhat a klimatizált utastérbe várakozni.",
+                "ro": "Lăsați cumpărăturile în siguranță în mașină; în caz de ploaie bruscă, vă puteți retrage rapid în vehiculul climatizat pentru a aștepta.",
+                "en": "Keep your purchases safely in the car; in case of sudden heavy rain, you can quickly retreat to the air-conditioned vehicle to wait it out."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Hua Hin",
+                "hu": "Hua Hin tengerpart",
+                "ro": "Plaja Hua Hin",
+                "en": "Hua Hin Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum südlichen Ende des Strandes, wo man oft direkt am Sand parken kann; genießen Sie den Blick auf das stürmische Meer aus dem Auto.",
+                "hu": "Hajtson a strand déli végéhez, ahol gyakran közvetlenül a homok mellett parkolhat; élvezze a viharos tenger látványát a kényelmes autóból.",
+                "ro": "Conduceți spre capătul sudic al plajei, unde puteți parca adesea lângă nisip; admirați marea agitată direct din confortul mașinii.",
+                "en": "Drive to the southern end of the beach where you can often park right next to the sand; enjoy the view of the stormy sea from your comfortable car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist ideal, um Hua Hin ohne Hitze-Stress im Auto zu erkunden. Wir starten bei den kühlen Hügeln und Aussichtspunkten. Mittags besuchen wir die Tempel im Zentrum, während die Klimaanlage für konstante Frische sorgt. Da es früh dunkel wird, nutzen wir das Auto, um abends schnell zwischen den beleuchteten Highlights zu wechseln.",
+            "hu": "A tél ideális Hua Hin hőségmentes felfedezéséhez autóval. A hűvösebb domboldali templomoknál és kilátóknál kezdünk. Délben a központi templomokat látogatjuk meg, miközben a klíma állandó frissességet biztosít. A korai sötétedés miatt autóval gyorsan válthatunk az esti fényben úszó látnivalók között.",
+            "ro": "Iarna este ideală pentru a explora Hua Hin cu mașina, fără stresul căldurii. Începem la dealurile răcoroase și punctele de belvedere. La prânz vizităm templele centrale, în timp ce climatizarea asigură o prospețime constantă. Deoarece se întunecă devreme, folosim mașina pentru a naviga rapid între obiective.",
+            "en": "Winter is ideal for exploring Hua Hin by car without heat stress. We start at the cooler hills and viewpoints. At noon, we visit central temples while the AC ensures constant freshness. Since it gets dark early, we use the car to quickly switch between the beautifully illuminated evening highlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Khao Chong Pradu",
+                "hu": "Wat Khao Chong Pradu",
+                "ro": "Wat Khao Chong Pradu",
+                "en": "Wat Khao Chong Pradu"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine enorme Fernsicht vom Hügel; nutzen Sie den frühen Morgen, wenn das Licht sanft auf die Tempelanlage fällt.",
+                "hu": "A tiszta téli levegő hatalmas látótávolságot biztosít a dombról; használja ki a kora reggelt, amikor a fények lágyan világítják meg a templomot.",
+                "ro": "Aerul clar de iarnă oferă o vizibilitate enormă de pe deal; profitați de dimineața devreme, când lumina cade blând peste complexul templului.",
+                "en": "The clear winter air provides enormous visibility from the hill; take advantage of the early morning when the light falls softly over the temple."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Hin Lek Fai Aussichtspunkt",
+                "hu": "Khao Hin Lek Fai kilátó",
+                "ro": "Punct de belvedere Khao Hin Lek Fai",
+                "en": "Khao Hin Lek Fai Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind oben oft begrenzt; kommen Sie am späten Vormittag an, wenn die Tagestouristen noch nicht da sind, um den besten Blick zu genießen.",
+                "hu": "A parkolóhelyek száma fent korlátozott; érkezzen késő délelőtt, mielőtt a turistacsoportok megjönnének, hogy nyugodtan élvezhesse a kilátást.",
+                "ro": "Locurile de parcare sunt limitate sus; ajungeți spre sfârșitul dimineții, înainte de fluxul de turiști, pentru a vă bucura de cea mai bună vedere.",
+                "en": "Parking spots are often limited at the top; arrive in the late morning before the tourist crowds arrive to enjoy the best view in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt 6",
+                "hu": "6-os kilátó",
+                "ro": "Punct de belvedere 6",
+                "en": "Viewpoint 6"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Stopp, um die winterliche Meeresbrise von den Klippen aus zu spüren; das Auto ermöglicht eine schnelle Weiterfahrt, falls es oben zu windig wird.",
+                "hu": "Tökéletes megálló a téli tengeri szellő megtapasztalásához a sziklákról; az autó lehetővé teszi a gyors távozást, ha fent túl erőssé válna a szél.",
+                "ro": "O oprire perfectă pentru a simți briza iernii de pe stânci; mașina permite plecarea rapidă în cazul în care vântul devine prea puternic sus.",
+                "en": "A perfect stop to experience the winter sea breeze from the cliffs; the car allows for a quick departure if it becomes too windy at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Butsaya Banphot",
+                "hu": "Wat Butsaya Banphot",
+                "ro": "Wat Butsaya Banphot",
+                "en": "Wat Butsaya Banphot"
+              },
+              "tip_5lang": {
+                "de": "Das milde Winterwetter ist ideal für den kurzen Spaziergang vom Parkplatz zum Tempel; genießen Sie die Ruhe fernab der überfüllten Badeorte.",
+                "hu": "A lágy téli időjárás ideális egy rövid sétára a parkolótól a templomig; élvezze a nyugalmat, távol a zsúfolt tengerparti üdülőhelyektől.",
+                "ro": "Vremea blândă de iarnă este ideală pentru scurta plimbare de la parcare la templu; bucurați-vă de liniște, departe de stațiunile aglomerate.",
+                "en": "The mild winter weather is ideal for a short stroll from the parking lot to the temple; enjoy the peace far from the crowded beach resorts."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Suk Samran",
+                "hu": "Wat Suk Samran",
+                "ro": "Wat Suk Samran",
+                "en": "Wat Suk Samran"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühleren Temperaturen für eine ausführliche Besichtigung der Außenanlagen; das Parken in der Nähe ist im Winter meist unproblematisch.",
+                "hu": "Használja ki a hűvösebb hőmérsékletet a kültéri részek alapos bejárására; a közeli parkolás télen általában teljesen zökkenőmentes.",
+                "ro": "Profitați de temperaturile mai scăzute pentru o vizitare detaliată a exteriorului; parcarea în apropiere este de obicei facilă pe timpul iernii.",
+                "en": "Take advantage of the cooler temperatures for a detailed tour of the outdoor areas; parking nearby is usually very easy during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Chatsila-Markt",
+                "hu": "Chatsila piac",
+                "ro": "Piața Chatsila",
+                "en": "Chatsila Market"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh untergeht, ist das Auto ideal, um pünktlich zum Einsetzen der Dämmerung hier zu sein und die historische Atmosphäre zu erleben.",
+                "hu": "Mivel a nap korán nyugszik, az autó ideális, hogy pontosan a szürkület beálltakor érkezzen meg, és átélje a hely történelmi hangulatát.",
+                "ro": "Deoarece soarele apune devreme, mașina este ideală pentru a ajunge exact la lăsarea serii și a experimenta atmosfera istorică a pieței.",
+                "en": "Since the sun sets early, the car is ideal to arrive exactly at twilight to experience the historical atmosphere and the beautiful lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Hua Hin Nachtmarkt",
+                "hu": "Hua Hin éjszakai piac",
+                "ro": "Piața de noapte Hua Hin",
+                "en": "Hua Hin Night Market"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühleren Abende für einen längeren Bummel; verstauen Sie warme Kleidung für später im Auto, falls es nach Sonnenuntergang kühler wird.",
+                "hu": "Használja ki a hűvösebb estéket egy hosszabb sétára; tartson melegebb ruhát az autóban, ha naplemente után jelentősen csökkenne a hőmérséklet.",
+                "ro": "Profitați de serile mai răcoroase pentru o plimbare lungă; păstrați haine mai groase în mașină în caz că se face frig după apusul soarelui.",
+                "en": "Take advantage of the cooler evenings for a long stroll; keep warmer clothes in the car in case it gets significantly cooler after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Hua Hin",
+                "hu": "Hua Hin tengerpart",
+                "ro": "Plaja Hua Hin",
+                "en": "Hua Hin Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist weniger aggressiv; parken Sie am Strand und genießen Sie ein Picknick am Kofferraum, während Sie den Wellen bei Flut zusehen.",
+                "hu": "A téli nap kevésbé erős; parkoljon a tengerpartnál, és élvezze a pikniket a csomagtartó mellett, miközben figyeli a dagály érkező hullámait.",
+                "ro": "Soarele de iarnă este mai puțin agresiv; parcați lângă plajă și bucurați-vă de un picnic la portbagaj în timp ce priviți valurile la flux.",
+                "en": "The winter sun is less intense; park by the beach and enjoy a picnic by your car while watching the incoming waves during the high tide."
+              }
+            }
+          ]
+        }
       }
     }
   }

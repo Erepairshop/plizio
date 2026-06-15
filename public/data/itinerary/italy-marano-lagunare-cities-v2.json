@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a helyi örökség felfedezésével az interaktív Museo della Laguna-ban. Ezután tegyen egy rövid sétát a Patera bizantina felfedezéséhez. A délutánt az Antiche mura della fortezza és a Bastione di Sant'Antonio lenyűgöző maradványainak felfedezésére szánjuk. Fejezze be gyalogos túráját az Acquario Lagunare megnyugtató látogatásával.",
         "ro": "Începeți ziua scufundându-vă în patrimoniul local la Museo della Laguna. Apoi, faceți o scurtă plimbare pentru a descoperi detaliile complexe de la Patera bizantina. După-amiaza este dedicată explorării rămășițelor de la Antiche mura della fortezza și Bastione di Sant'Antonio. Încheiați-vă turul pietonal cu o vizită relaxantă la Acquario Lagunare.",
         "en": "Begin your day by diving into the local heritage at the interactive Museo della Laguna. Next, take a short stroll to discover the intricate details of the Patera bizantina. The afternoon is dedicated to exploring the imposing remnants of the Antiche mura della fortezza and Bastione di Sant'Antonio. Conclude your walking tour with a relaxing visit to the Acquario Lagunare."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen trocken im Museum. Mittags erkunden Sie das historische Zentrum mit Schirm, achten Sie auf rutschige Steine. Nachmittags spazieren Sie kurz zur Bastion. Beenden Sie den Tag geschützt im gemütlichen Aquarium.",
+            "hu": "Kezdje az esős reggelt a múzeum száraz termekben. Délben esernyővel fedezze fel a történelmi központot, ügyelve a csúszós macskakövekre. Délután tegyen egy rövid sétát a bástyánál. Az estét a hangulatos és fedett akváriumban zárhatja kényelmesen.",
+            "ro": "Începeți dimineața ploioasă în interiorul muzeului pentru a sta uscat. La prânz, explorați centrul istoric cu umbrela, atenție la pietrele alunecoase. După-amiaza, vizitați scurt bastionul. Încheiați ziua la adăpost, în confortul acvariului.",
+            "en": "Start the rainy morning inside the museum to stay dry. By midday, navigate the historic center with an umbrella, taking care on slippery stones. In the afternoon, explore the bastion briefly between showers. Finish the day sheltered inside the aquarium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Laguna",
+                "hu": "Museo della Laguna",
+                "ro": "Museo della Laguna",
+                "en": "Museo della Laguna"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die Geschichte der Lagune in diesem trockenen Innenraum kennen, während der Regen nachlässt.",
+                "hu": "Ismerje meg a lagúna történetét ezen a száraz, fedett helyen, amíg a reggeli eső eláll.",
+                "ro": "Aflați istoria lagunei în acest spațiu interior uscat, în timp ce ploaia de dimineață se oprește.",
+                "en": "Enjoy learning about the lagoon's history in this dry, indoor space while the morning rain passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Patera bizantina",
+                "hu": "Patera bizantina",
+                "ro": "Patera bizantina",
+                "en": "Patera bizantina"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses historische Relikt unter dem Schirm, aber gehen Sie vorsichtig auf den nassen, rutschigen Steinen.",
+                "hu": "Csodálja meg ezt a történelmi emléket esernyő alatt, de óvatosan lépkedjen a nedves, csúszós köveken.",
+                "ro": "Priviți această relicvă istorică sub umbrelă, dar pășiți cu mare grijă pe pietrele umede și alunecoase.",
+                "en": "Admire this historic relic under an umbrella, but walk carefully on the wet, slippery paving stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiche mura della fortezza",
+                "hu": "Antiche mura della fortezza",
+                "ro": "Antiche mura della fortezza",
+                "en": "Antiche mura della fortezza"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steine bringen die Farben der alten Festung zur Geltung; halten Sie Ihren Regenschirm gut gegen den Wind fest.",
+                "hu": "A nedves kövek kiemelik az erőd falainak színét; tartsa erősen az esernyőt a parti szélben.",
+                "ro": "Pietrele umede evidențiază culorile vechii cetăți; țineți strâns umbrela împotriva vântului de coastă.",
+                "en": "The wet stones highlight the colors of the old fortress walls; hold your umbrella tight against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione di Sant'Antonio",
+                "hu": "Bastione di Sant'Antonio",
+                "ro": "Bastione di Sant'Antonio",
+                "en": "Bastione di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Werfen Sie zwischen den Schauern einen kurzen Blick auf die Bastion; tragen Sie wasserdichte Schuhe für die Pfützen.",
+                "hu": "Vessen egy gyors pillantást a bástyára a záporok között, viseljen vízálló cipőt a saras részeken.",
+                "ro": "Aruncați o privire rapidă la bastion între ploi; purtați încălțăminte impermeabilă pentru bălți.",
+                "en": "Take a quick look at the bastion between showers, wearing waterproof shoes for the muddy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario Lagunare",
+                "hu": "Acquario Lagunare",
+                "ro": "Acquario Lagunare",
+                "en": "Acquario Lagunare"
+              },
+              "tip_5lang": {
+                "de": "Dieses überdachte Aquarium ist der perfekte Unterschlupf für einen regnerischen Nachmittag, um die Unterwasserwelt zu genießen.",
+                "hu": "Ez a fedett akvárium tökéletes délutáni menedék az eső elől, hogy kényelmesen megfigyelje a tengeri élővilágot.",
+                "ro": "Acest acvariu acoperit este refugiul perfect pentru o după-amiază ploioasă, admirând confortabil viața marină.",
+                "en": "This indoor aquarium is the perfect rainy afternoon shelter to comfortably watch the local marine life."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wärmen Sie sich an einem kalten Wintermorgen im Museum auf. Mittags genießen Sie einen zügigen historischen Spaziergang. Nachmittags fangen Sie die tiefe Sonne an der Bastion ein. Beenden Sie den Tag im Aquarium vor dem frühen Sonnenuntergang um 17 Uhr.",
+            "hu": "Melegedjen fel a múzeumban egy fagyos téli reggelen. Délben tegyen egy frissítő történelmi sétát a városban. Délután csodálja meg az alacsonyan járó napot a bástyánál. A 17 óra körüli korai sötétedés előtt zárja a napot a fűtött akváriumban.",
+            "ro": "Încălziți-vă la muzeu într-o dimineață geroasă. La prânz, bucurați-vă de o plimbare istorică revigorantă prin oraș. După-amiaza, prindeți soarele coborât la bastion. Terminați la interior în acvariu, înainte de apusul timpuriu din jurul orei 17:00.",
+            "en": "Warm up at the museum on a crisp winter morning. At noon, enjoy a brisk historical walk through the town. In the afternoon, catch the dramatic low sun at the bastion. Finish indoors at the aquarium before the early sunset around 5 PM brings a chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Laguna",
+                "hu": "Museo della Laguna",
+                "ro": "Museo della Laguna",
+                "en": "Museo della Laguna"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Tag im Warmen und entdecken Sie faszinierende Ausstellungen über lokale maritime Traditionen.",
+                "hu": "Kezdje a napot egy kis melegedéssel bent, miközben lenyűgöző tengerészeti kiállításokat fedez fel.",
+                "ro": "Începeți ziua la căldură, descoperind expoziții fascinante despre tradițiile maritime locale.",
+                "en": "Start your day by warming up inside while discovering fascinating exhibits about local maritime traditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Patera bizantina",
+                "hu": "Patera bizantina",
+                "ro": "Patera bizantina",
+                "en": "Patera bizantina"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie Ihren Wintermantel fester, während Sie kurz anhalten, um dieses faszinierende byzantinische Artefakt im Freien zu betrachten.",
+                "hu": "Gombolja be téli kabátját, miközben röviden megáll megvizsgálni ezt a lenyűgöző bizánci leletet.",
+                "ro": "Strângeți-vă haina de iarnă în timp ce vă opriți scurt pentru a examina acest artefact bizantin în aer liber.",
+                "en": "Button up your winter coat as you stop briefly to examine this fascinating Byzantine artifact outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiche mura della fortezza",
+                "hu": "Antiche mura della fortezza",
+                "ro": "Antiche mura della fortezza",
+                "en": "Antiche mura della fortezza"
+              },
+              "tip_5lang": {
+                "de": "Die alten Festungsmauern wirken im klaren, kalten Licht eines Winternachmittags besonders dramatisch.",
+                "hu": "Az ősi erőd falai különösen drámaian festenek egy téli délután éles, tiszta fényében.",
+                "ro": "Zidurile vechii cetăți arată deosebit de dramatic în lumina clară și rece a unei după-amiezi de iarnă.",
+                "en": "The ancient fortress walls look particularly dramatic under the crisp, clear light of a winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione di Sant'Antonio",
+                "hu": "Bastione di Sant'Antonio",
+                "ro": "Bastione di Sant'Antonio",
+                "en": "Bastione di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Küstenbrise, aber stellen Sie sich auf sinkende Temperaturen ein, wenn die Sonne tiefer steht.",
+                "hu": "Élvezze a friss parti szelet, de készüljön fel a zuhanó hőmérsékletre, ahogy a nap egyre lejjebb ereszkedik.",
+                "ro": "Bucurați-vă de briza proaspătă de coastă, dar pregătiți-vă pentru temperaturi scăzute când soarele coboară.",
+                "en": "Enjoy the brisk coastal breeze here, but be prepared for plunging temperatures as the sun gets lower."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario Lagunare",
+                "hu": "Acquario Lagunare",
+                "ro": "Acquario Lagunare",
+                "en": "Acquario Lagunare"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diesen beheizten Raum, um sich die Finger aufzutauen und die reiche Artenvielfalt der Lagune zu erkunden.",
+                "hu": "Lépjen be ebbe a fűtött térbe, hogy kiolvassza az ujjait, miközben felfedezi a lagúna gazdag élővilágát.",
+                "ro": "Intrați în acest spațiu încălzit pentru a vă dezgheța degetele explorând bogata biodiversitate a lagunei.",
+                "en": "Step inside this heated space to thaw your fingers while exploring the rich local lagoon biodiversity."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon Marano Lagunare-ban, kezdve az informatív Museo della Laguna-nál és a történelmi erődítményfalaknál. Dél körül tekintse meg az Acquario Lagunare élénk tengeri élővilágát. A délutáni szellő a buja Valle Canal Novo és a békés Spiaggia San Vito felé vezeti. Fejezze be útját a Valli Grotari e Vulcan rezervátum természeti szépségei között.",
         "ro": "Pedalați prin Marano Lagunare începând de la Museo della Laguna și zidurile cetății. În jurul prânzului, verificați viața marină de la Acquario Lagunare. Briza de după-amiază vă va ghida către luxurianta Valle Canal Novo și liniștita Spiaggia San Vito. Terminați-vă plimbarea în mijlocul frumuseții naturale din rezervația Valli Grotari e Vulcan.",
         "en": "Pedal through Marano Lagunare starting at the informative Museo della Laguna and the historic fortress walls. Around midday, check out the vibrant marine life at Acquario Lagunare. The afternoon breeze will guide you to the lush Valle Canal Novo and the peaceful Spiaggia San Vito. Finish your ride amidst the natural beauty of the Valli Grotari e Vulcan reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie drinnen im Museum bei starkem Morgenregen. Fahren Sie mittags vorsichtig auf dem rutschigen Kopfsteinpflaster. Die Nachmittagswege in den Naturreservaten sind schlammig, wasserdichte Kleidung ist Pflicht.",
+            "hu": "Kezdjen bent a múzeumban a heves reggeli eső alatt. Délben óvatosan tekerjen a csúszós macskaköveken. A délutáni természetvédelmi ösvények sarasak lesznek, így a vízálló felszerelés és a figyelmes vezetés elengedhetetlen.",
+            "ro": "Începeți la interior, în muzeu, în timpul ploii de dimineață. Pedalați cu grijă la prânz pe pietrele alunecoase. Potecile de după-amiază din rezervații vor fi noroioase, purtați echipament impermeabil și mergeți atent.",
+            "en": "Start indoors at the museum while the heavy morning rain falls. Ride carefully at midday as cobblestones get slick. The afternoon trails through the nature reserves will be very muddy, so wear full waterproof gear and ride cautiously."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Laguna",
+                "hu": "Museo della Laguna",
+                "ro": "Museo della Laguna",
+                "en": "Museo della Laguna"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad draußen und suchen Sie drinnen Schutz, um im Trockenen mehr über die lokale Geschichte zu erfahren.",
+                "hu": "Parkolja le a kerékpárt kint, és keressen menedéket bent, hogy szárazon ismerje meg a helyi történelmet.",
+                "ro": "Parcați bicicleta afară și adăpostiți-vă înăuntru pentru a afla despre istoria locală, rămânând uscat.",
+                "en": "Park your bike outside and seek shelter indoors to learn about local history while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiche mura della fortezza",
+                "hu": "Antiche mura della fortezza",
+                "ro": "Antiche mura della fortezza",
+                "en": "Antiche mura della fortezza"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig an den historischen Mauern, da nasses Pflaster und Herbstlaub sehr rutschig sein können.",
+                "hu": "Fékezzen óvatosan a történelmi falak körül, mert a nedves kövek és a lehullott levelek nagyon csúszósak.",
+                "ro": "Frânați ușor lângă zidurile istorice, deoarece pavajul umed și frunzele pot fi foarte alunecoase.",
+                "en": "Brake gently around the historic walls, as wet paving stones and fallen leaves can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario Lagunare",
+                "hu": "Acquario Lagunare",
+                "ro": "Acquario Lagunare",
+                "en": "Acquario Lagunare"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger überdachter Zwischenstopp, um die Fahrradausrüstung zu trocknen und faszinierende Meeresausstellungen zu genießen.",
+                "hu": "Nagyszerű fedett pihenőhely, ahol megszáríthatja a kerékpáros felszerelést, miközben élvezi a tengeri kiállításokat.",
+                "ro": "O oprire acoperită excelentă pentru a vă usca echipamentul, bucurându-vă de expozițiile marine fascinante.",
+                "en": "A great indoor pit-stop to dry off your cycling gear while enjoying the fascinating marine exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva naturale regionale della Valle Canal Novo",
+                "hu": "Riserva naturale regionale della Valle Canal Novo",
+                "ro": "Riserva naturale regionale della Valle Canal Novo",
+                "en": "Riserva naturale regionale della Valle Canal Novo"
+              },
+              "tip_5lang": {
+                "de": "Die Holzstege werden bei Regen gefährlich glatt; schieben Sie Ihr Rad oder treten Sie hier sehr vorsichtig auf.",
+                "hu": "A fa pallók veszélyesen csúszósak az esőben; tolja a kerékpárt, vagy lépkedjen nagyon óvatosan.",
+                "ro": "Pasarelele din lemn devin extrem de alunecoase pe ploaie; mergeți pe lângă bicicletă sau pășiți cu prudență.",
+                "en": "The wooden boardwalks get dangerously slick in the rain; walk your bike or step very cautiously here."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia San Vito",
+                "hu": "Spiaggia San Vito",
+                "ro": "Spiaggia San Vito",
+                "en": "Spiaggia San Vito"
+              },
+              "tip_5lang": {
+                "de": "Ein nasser Strand hat seinen eigenen Charme, aber bleiben Sie mit dem Rad auf festem Boden, um nicht im Schlamm zu versinken.",
+                "hu": "A nedves strandnak megvan a maga hangulata, de tartsa a biciklit szilárd talajon a sár elkerülése végett.",
+                "ro": "O plajă umedă are farmecul ei, dar țineți bicicleta pe teren solid pentru a evita împotmolirea în noroi.",
+                "en": "A wet beach has its own moody charm, but keep your bike on solid ground to avoid sinking into the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "hu": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "ro": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "en": "Riserva naturale regionale delle Valli Grotari e Vulcan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die nasse Wildnis; Schutzbleche am Fahrrad und eine gute Regenjacke sind heute unerlässlich.",
+                "hu": "Élvezze a vizes vadont ezeken az ösvényeken; a sárvédő és a jó esőkabát ma elengedhetetlen.",
+                "ro": "Bucurați-vă de sălbăticia umedă; apărătorile de noroi la bicicletă și o pelerină bună sunt esențiale azi.",
+                "en": "Embrace the wet wilderness on these trails; mudguards on your bike and a good raincoat are essential today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie an einem kalten Morgen zügig zum Museum. Genießen Sie mittags die frische Luft an den historischen Mauern. Die Naturwege am Nachmittag sind kühl. Beenden Sie die Tour vor 17 Uhr wegen der frühen Dunkelheit.",
+            "hu": "Tekerjen fürgén a múzeumhoz a hideg reggelen. Élvezze a friss levegőt a történelmi falak mentén délben. A délutáni ösvények gyönyörűek, de csípősek. Fejezze be az utat 17 óra előtt, mielőtt túl sötét és fagyos lesz.",
+            "ro": "Pedalați rapid spre muzeu într-o dimineață rece. Bucurați-vă de aerul proaspăt pe lângă zidurile istorice la prânz. Potecile de după-amiază sunt frumoase, dar reci. Terminați traseul înainte de ora 17:00.",
+            "en": "Cycle briskly to the museum on a cold morning. Enjoy the crisp air riding past historical walls at noon. The afternoon nature trails are beautiful but chilly. Finish the ride by 5 PM before the early sunset makes it too dark and freezing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Laguna",
+                "hu": "Museo della Laguna",
+                "ro": "Museo della Laguna",
+                "en": "Museo della Laguna"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Start in Ihre Radtour; tauen Sie drinnen auf, bevor Sie dem kalten Winterwind trotzen.",
+                "hu": "Meleg kezdés a kerékpártúrához; szánjon időt a felmelegedésre, mielőtt szembenéz a téli széllel.",
+                "ro": "Un început cald pentru turul cu bicicleta; dezghețați-vă înăuntru înainte de a înfrunta vântul rece de iarnă.",
+                "en": "A warm start to your cycling trip; take time to thaw out inside before facing the winter headwinds."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiche mura della fortezza",
+                "hu": "Antiche mura della fortezza",
+                "ro": "Antiche mura della fortezza",
+                "en": "Antiche mura della fortezza"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Winterhandschuhe an, wenn Sie anhalten, um das schöne Licht auf den alten Festungsmauern zu fotografieren.",
+                "hu": "Tartsa magán a téli kesztyűt, miközben megáll fotózni az öreg erőd falait megvilágító gyönyörű fényt.",
+                "ro": "Păstrați-vă mănușile de iarnă când vă opriți pentru a fotografia lumina frumoasă pe zidurile vechii cetăți.",
+                "en": "Keep your winter gloves on while stopping to photograph the beautiful light hitting the old fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario Lagunare",
+                "hu": "Acquario Lagunare",
+                "ro": "Acquario Lagunare",
+                "en": "Acquario Lagunare"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre tauben Hände in diesem beheizten Aquarium auf, bevor Sie wieder auf die kalten Radwege zurückkehren.",
+                "hu": "Melegítse fel zsibbadt kezét ebben a fűtött akváriumban, mielőtt visszatérne a hideg téli kerékpárutakra.",
+                "ro": "Încălziți-vă mâinile amorțite în acest acvariu încălzit înainte de a vă întoarce pe pistele reci de biciclete.",
+                "en": "Warm your numb hands in this heated aquarium before heading back out onto the cold winter cycle paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva naturale regionale della Valle Canal Novo",
+                "hu": "Riserva naturale regionale della Valle Canal Novo",
+                "ro": "Riserva naturale regionale della Valle Canal Novo",
+                "en": "Riserva naturale regionale della Valle Canal Novo"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Vogelbeobachtung ist fantastisch; tragen Sie eine winddichte Schicht gegen die eisige Lagunenbrise.",
+                "hu": "A téli madármegfigyelés fantasztikus itt; viseljen extra szélálló réteget a fagyos lagúnaszél ellen.",
+                "ro": "Observarea păsărilor de iarnă este fantastică; purtați un strat rezistent la vânt împotriva brizei înghețate.",
+                "en": "The winter birdwatching is fantastic here; wear an extra windproof layer to block the freezing lagoon breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia San Vito",
+                "hu": "Spiaggia San Vito",
+                "ro": "Spiaggia San Vito",
+                "en": "Spiaggia San Vito"
+              },
+              "tip_5lang": {
+                "de": "Der leere Winterstrand ist unglaublich friedlich; machen Sie einen flotten Spaziergang, bevor die Kälte in die Knochen zieht.",
+                "hu": "Az üres téli strand hihetetlenül békés; tegyen egy rövid, fürge sétát, mielőtt a hideg a csontjaiba hatolna.",
+                "ro": "Plaja goală de iarnă este incredibil de pașnică; faceți o plimbare scurtă și vioaie înainte ca frigul să vă pătrundă.",
+                "en": "The empty winter beach is incredibly peaceful; take a short, brisk walk before the cold sets into your bones."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "hu": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "ro": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "en": "Riserva naturale regionale delle Valli Grotari e Vulcan"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie zügig durch das Reservat; beenden Sie die Route, bevor die Sonne untergeht und der Frost einsetzt.",
+                "hu": "Tekerjen át gyorsan a rezervátumon; érdemes befejezni az utat, mielőtt a nap lemegy és leszáll a fagy.",
+                "ro": "Pedalați rapid prin rezervație; este bine să terminați traseul înainte de apus și de lăsarea gerului.",
+                "en": "Cycle through the reserve quickly; you'll want to finish the route before the sun sets and the frost rolls in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Vezessen Marano Lagunare-ba, hogy feltárja annak történelmét a helyi múzeumban és a közeli Patera bizantina-nál. Egy rövid út után töltse a delet a lélegzetelállító Valle Canal Novo természetvédelmi terület felfedezésével. Délután parkoljon le a Spiaggia San Vito közelében egy tengerparti pihenésre. Végül hajtson ki, hogy megcsodálja az érintetlen Valli Grotari e Vulcan rezervátumot.",
         "ro": "Conduceți în Marano Lagunare pentru a descoperi istoria la muzeul local și Patera bizantina. După o scurtă călătorie, petreceți prânzul explorând rezervația uimitoare Valle Canal Novo. După-amiaza, parcați lângă Spiaggia San Vito pentru o pauză. În cele din urmă, conduceți pentru a admira rezervația imaculată Valli Grotari e Vulcan.",
         "en": "Drive into Marano Lagunare to unearth its history at the local museum and the nearby Patera bizantina. After a convenient short trip, spend midday exploring the breathtaking Valle Canal Novo nature reserve. In the afternoon, park near Spiaggia San Vito for a coastal break. Finally, drive out to marvel at the pristine Valli Grotari e Vulcan reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Parken Sie nahe dem Museum für einen trockenen Start. Fahren Sie mittags vorsichtig durchs Zentrum. Nachmittags erkunden Sie die Naturreservate mit Schirm und wasserdichten Schuhen wegen der schlammigen Wege.",
+            "hu": "Parkoljon a múzeum közelében a száraz reggeli kezdéshez. Vezessen óvatosan a városközpontban délben. Délután esernyővel és vízálló csizmával fedezze fel a természetvédelmi területeket a sáros ösvényeken.",
+            "ro": "Parcați lângă muzeu pentru un început uscat. Conduceți cu grijă prin centru la prânz. După-amiaza, explorați rezervațiile naturale echipat cu umbrelă și cizme impermeabile, deoarece potecile vor fi noroioase.",
+            "en": "Park near the museum for a dry morning start. Drive carefully around the town center at midday. In the afternoon, explore the nature reserves equipped with an umbrella and waterproof boots, as trails will be very muddy and wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Laguna",
+                "hu": "Museo della Laguna",
+                "ro": "Museo della Laguna",
+                "en": "Museo della Laguna"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender, trockener Zufluchtsort vor dem Regen; Sie können leicht in der Nähe parken und die Ausstellung genießen.",
+                "hu": "Kiváló fedett menedék az eső elől; könnyen parkolhat a közelben, és teljesen száraz maradhat a látogatás alatt.",
+                "ro": "Un refugiu interior excelent împotriva ploii; puteți parca ușor în apropiere și rămâneți complet uscat.",
+                "en": "An excellent indoor refuge from the rain; you can easily park nearby and stay completely dry while visiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Patera bizantina",
+                "hu": "Patera bizantina",
+                "ro": "Patera bizantina",
+                "en": "Patera bizantina"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Regenschirm im Auto bereit für einen kurzen Sprint, um dieses historische Detail im Freien zu betrachten.",
+                "hu": "Tartson kéznél egy esernyőt az autóban, hogy egy gyors kiugrással megnézhesse ezt az érdekes szabadtéri történelmi részletet.",
+                "ro": "Păstrați o umbrelă la îndemână în mașină pentru o ieșire rapidă spre acest detaliu istoric în aer liber.",
+                "en": "Keep an umbrella handy in the car for a quick dash out to view this intriguing open-air historic detail."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva naturale regionale della Valle Canal Novo",
+                "hu": "Riserva naturale regionale della Valle Canal Novo",
+                "ro": "Riserva naturale regionale della Valle Canal Novo",
+                "en": "Riserva naturale regionale della Valle Canal Novo"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht der Lagune eine einzigartige Atmosphäre, aber die Wege sind schlammig; wasserdichte Stiefel sind Pflicht.",
+                "hu": "Az eső egyedi hangulatot kölcsönöz a lagúnának, de az ösvények sárosak; a vízálló csizma itt elengedhetetlen.",
+                "ro": "Ploaia aduce o atmosferă unică lagunei, dar potecile sunt noroioase; cizmele impermeabile sunt obligatorii aici.",
+                "en": "The rain brings a unique atmosphere to the lagoon, but the paths are muddy; waterproof boots are a must here."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia San Vito",
+                "hu": "Spiaggia San Vito",
+                "ro": "Spiaggia San Vito",
+                "en": "Spiaggia San Vito"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie einen Moment im warmen, trockenen Auto sitzen, um die stimmungsvolle, regenpeitschende Küste zu genießen.",
+                "hu": "Maradhat egy pillanatra a meleg, száraz autóban, hogy élvezze a partvonal borongós, eső áztatta látványát.",
+                "ro": "Puteți rămâne în mașina caldă și uscată un moment pentru a vă bucura de priveliștea dramatică a coastei.",
+                "en": "You can stay in the warm, dry car for a moment to enjoy the moody, rain-swept views of the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "hu": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "ro": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "en": "Riserva naturale regionale delle Valli Grotari e Vulcan"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie Ihre Regenjacke aus dem Kofferraum; die grüne Natur sieht unter einem starken Schauer spektakulär aus.",
+                "hu": "Vegyen elő egy jó esőkabátot a csomagtartóból; a vibráló zöld természet látványos a heves felhőszakadás alatt.",
+                "ro": "Scoateți pelerina din portbagaj; natura verde și vibrantă arată spectaculos sub o aversă puternică.",
+                "en": "Bring a good raincoat from the trunk; the vibrant green nature looks spectacular under a heavy downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie das beheizte Auto an einem kalten Morgen zum Museum. Mittags machen Sie kurze Spaziergänge zu den Ruinen. Erkunden Sie nachmittags die Naturreservate, bevor die Sonne gegen 17 Uhr untergeht.",
+            "hu": "Élvezze a fűtött autót egy csípős téli reggelen a múzeum felé. Délben tegyen rövid, frissítő sétákat a romokhoz. Délután fedezze fel a téli rezervátumok zord szépségét, még a 17 órai korai naplemente előtt.",
+            "ro": "Bucurați-vă de mașina încălzită într-o dimineață rece spre muzeu. La prânz, faceți scurte plimbări la ruine. Explorați frumusețea rezervațiilor naturale după-amiaza, terminând înainte de apusul de la ora 17:00.",
+            "en": "Enjoy the heated car on a chilly winter morning driving to the museum. Midday features crisp, short walks to the ruins. Explore the stark beauty of the winter nature reserves in the afternoon, ensuring you finish by the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Laguna",
+                "hu": "Museo della Laguna",
+                "ro": "Museo della Laguna",
+                "en": "Museo della Laguna"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um den Tag drinnen zu beginnen, bevor Sie der frischen Winterluft für den Rest der Route trotzen.",
+                "hu": "Remek hely a nap fedett indításához, mielőtt dacolna a friss téli levegővel a menetrend hátralévő részében.",
+                "ro": "Un loc minunat pentru a începe ziua la interior înainte de a înfrunta aerul proaspăt de iarnă al traseului.",
+                "en": "A great place to start your day indoors before braving the brisk winter air for the rest of your itinerary."
+              }
+            },
+            {
+              "name": {
+                "de": "Patera bizantina",
+                "hu": "Patera bizantina",
+                "ro": "Patera bizantina",
+                "en": "Patera bizantina"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie nur kurz aus dem warmen Auto, um dieses antike Artefakt zu bewundern, bevor die Winterkälte durchdringt.",
+                "hu": "Csak addig szálljon ki a meleg autóból, amíg megcsodálja ezt az ősi leletet, mielőtt a téli hideg eluralkodna.",
+                "ro": "Ieșiți scurt din mașina caldă doar pentru a admira acest artefact antic înainte de a se lăsa frigul.",
+                "en": "Step out of your warm car just long enough to admire this ancient artifact before the winter chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva naturale regionale della Valle Canal Novo",
+                "hu": "Riserva naturale regionale della Valle Canal Novo",
+                "ro": "Riserva naturale regionale della Valle Canal Novo",
+                "en": "Riserva naturale regionale della Valle Canal Novo"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie eine zusätzliche Schicht ein; die Küstenwinde über dem Reservat sind in den kalten Wintermonaten beißend.",
+                "hu": "Csomagoljon egy extra réteget a csomagtartóba; a rezervátumon átfújó parti szelek metszőek a hideg téli hónapokban.",
+                "ro": "Puneți un strat suplimentar în portbagaj; vânturile de coastă din rezervație sunt tăioase în lunile de iarnă.",
+                "en": "Pack an extra layer in the trunk; the coastal winds across the reserve are biting during the cold winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia San Vito",
+                "hu": "Spiaggia San Vito",
+                "ro": "Spiaggia San Vito",
+                "en": "Spiaggia San Vito"
+              },
+              "tip_5lang": {
+                "de": "Der Winterstrand ist menschenleer und atemberaubend; kurbeln Sie das Fenster herunter, um die Wellen zu hören.",
+                "hu": "A téli strand kihalt és lélegzetelállító; tekerje le az ablakot, hogy hallja a hullámokat, vagy tegyen egy gyors sétát.",
+                "ro": "Plaja de iarnă este pustie și impresionantă; lăsați geamul jos pentru a asculta valurile sau faceți o scurtă plimbare.",
+                "en": "The winter beach is deserted and breathtaking; roll down the window to hear the waves or take a quick, brisk walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "hu": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "ro": "Riserva naturale regionale delle Valli Grotari e Vulcan",
+                "en": "Riserva naturale regionale delle Valli Grotari e Vulcan"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der Dämmerung an, um die goldene Winterstunde zu erleben; das Licht über den eisigen Feuchtgebieten ist spektakulär.",
+                "hu": "Érkezzen alkonyat előtt, hogy elcsípje az aranyórát; a fagyos vizenyős területek feletti fény igazán látványos.",
+                "ro": "Ajungeți înainte de amurg pentru a prinde ora de aur; lumina peste zonele umede înghețate este cu adevărat spectaculoasă.",
+                "en": "Arrive before dusk to catch the golden winter hour; the light over the freezing wetlands is truly spectacular."
+              }
+            }
+          ]
+        }
       }
     }
   }

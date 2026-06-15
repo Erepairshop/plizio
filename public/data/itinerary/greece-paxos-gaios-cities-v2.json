@@ -137,6 +137,168 @@
         "hu": "A reggel az Agios Nikolaos kastély romjainak és a közeli világítótorony lenyűgöző felfedezésével kezdődik. Délben visszatér a gaiosi szárazföld felé, hogy megcsodálja a Szent György történelmi harangtornyát. Délután sétát tesz az ősi ciszternákhoz. Az este egy pihentető sétával zárul a Deutere Spiantza tengerparti szellőjében.",
         "ro": "Dimineața începe cu o explorare fascinantă a ruinelor Castelului Agios Nikolaos și a farului din apropiere. La prânz vă întoarceți spre partea principală din Gaios pentru a admira istoricul Turn cu Clopot al Sfântului Gheorghe. După-amiaza faceți o plimbare spre cisternele antice. Seara se încheie cu o plimbare relaxantă la Deutere Spiantza.",
         "en": "Morning begins with a fascinating exploration of the Agios Nikolaos Castle ruins and nearby lighthouse on the island. Midday takes you back towards the mainland of Gaios to admire the historic Bell Tower of Saint George. Afternoon features a walk to the ancient cisterns that sustained the island. Evening concludes with a relaxing stroll to Deutere Spiantza to enjoy the coastal breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die Burgruinen, wo dicke Mauern und Kiefern Schutz vor dem Nieselregen bieten. Die Atmosphäre ist unter grauem Himmel besonders mystisch.\nMittags geht es zum Leuchtturm; der Küstenpfad kann schlammig sein, daher ist wasserdichtes Schuhwerk für die Wanderung unerlässlich.\nNachmittags besuchen wir den Glockenturm und die Zisterne; diese historischen Orte wirken im Nebel geheimnisvoll, aber Vorsicht auf glatten Steinen.\nAbends genießen wir die dramatische Aussicht auf das stürmische Meer, bevor wir in einer gemütlichen Hafenbar im Trockenen einkehren.",
+            "hu": "Reggel a vár romjai között kezdünk, ahol a fenyők és a falak némi védelmet nyújtanak. Az ódon kövek közt az eső csak fokozza a történelmi hangulatot.\nDélben a világítótorony felé vesszük az irányt; a part menti ösvény saras lehet, így a vízálló bakancs elengedhetetlen a biztonságos haladáshoz.\nDélután a harangtorony és a ciszterna következik; a ködös tájban ezek a helyszínek varázslatosak, de ügyeljünk a csúszós útfelületekre.\nEste a tengerparti hullámokat csodáljuk, majd érdemes hamar egy fedett tavernába húzódni a kikötőben, hogy megszárítkozzunk a nap végén.",
+            "ro": "Dimineața începe la ruinele castelului, unde pinii oferă un adăpost natural împotriva burniței. Atmosfera este una robustă și plină de istorie sub cerul gri.\nLa prânz mergem spre far; poteca de coastă poate deveni noroioasă, așa că încălțămintea impermeabilă este obligatorie pentru o drumeție sigură.\nDupă-amiaza vizităm clopotnița și cisterna; aceste locuri istorice par mistice în ceață, dar aveți grijă la pietrele care pot fi foarte alunecoase.\nSeara, marea arată dramatic în ploaie; retrageți-vă într-o tavernă primitoare din port pentru a vă încălzi și a încheia ziua confortabil.",
+            "en": "Morning starts at the castle ruins where stone walls and pines offer some shelter. The atmosphere is rugged and mystical under the light rain.\nAt noon, trek to the lighthouse; the coastal path gets muddy, so waterproof boots are a must for a safe and comfortable journey.\nAfternoon is for the bell tower and cistern; these historic spots are beautiful in the mist, but be careful as the stones can be slippery.\nBy evening, the sea looks dramatic from the shore; find a cozy harbor tavern to dry off and enjoy local hospitality after the walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castle of Agios Nikolaos of Gáïos",
+                "hu": "Castle of Agios Nikolaos of Gáïos",
+                "ro": "Castle of Agios Nikolaos of Gáïos",
+                "en": "Castle of Agios Nikolaos of Gáïos"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die venezianische Festung, deren dicke Mauern Schutz bieten; nutzen Sie die überdachten Bereiche der Ruinen, um dem Regen kurzzeitig zu entfliehen.",
+                "hu": "A velencei erőd vastag falai és a sűrű növényzet védelmet nyújtanak; használja a romok fedett részeit, hogy elkerülje az intenzívebb záporokat a séta közben.",
+                "ro": "Vizitați fortăreața venețiană ale cărei ziduri groase oferă protecție; folosiți zonele acoperite ale ruinelor pentru a vă adăposti temporar de ploaia trecătoare.",
+                "en": "Visit the Venetian fortress where thick walls provide natural cover; use the sheltered sections of the ruins to stay dry during passing rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolas Lighthouse",
+                "hu": "Agios Nikolas Lighthouse",
+                "ro": "Agios Nikolas Lighthouse",
+                "en": "Agios Nikolas Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Leuchtturm bietet trotz Regen eine tolle Sicht auf das aufgewühlte Meer; tragen Sie eine Regenjacke gegen die feuchte Brise an der Küste.",
+                "hu": "A világítótoronyhoz vezető út esőben is lenyűgöző kilátást nyújt a haragos tengerre; egy jó esőkabát kötelező a szeles és nedves tengerparti szakaszon.",
+                "ro": "Drumul spre far oferă o priveliște superbă asupra mării agitate; purtați o jachetă impermeabilă pentru a vă proteja de briza umedă de pe coastă.",
+                "en": "The path to the lighthouse offers great views of the choppy sea even in rain; wear a raincoat to shield yourself from the damp coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Bell Tower of Saint George",
+                "hu": "Old Bell Tower of Saint George",
+                "ro": "Old Bell Tower of Saint George",
+                "en": "Old Bell Tower of Saint George"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt im Regen besonders atmosphärisch; nutzen Sie die nahen Hauseingänge im Dorf, um das Bauwerk trocken und in Ruhe bewundern zu können.",
+                "hu": "A torony esőben különösen hangulatos látványt nyújt; használja a közeli falusi házak ereszeit, hogy szárazon és nyugodtan csodálhassa meg az épületet.",
+                "ro": "Turnul clopotniței arată deosebit în ploaie; folosiți intrările caselor din apropiere pentru a admira structura în liniște, fără a vă uda prea tare.",
+                "en": "The tower looks very atmospheric in the rain; use the nearby village doorways to admire the architecture while staying dry and comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "cistern)",
+                "hu": "cistern)",
+                "ro": "cistern)",
+                "en": "cistern)"
+              },
+              "tip_5lang": {
+                "de": "Diese alte Zisterne ist bei Regen ein passendes Ziel; achten Sie jedoch auf die bemoosten Steine in der Umgebung, die bei Nässe sehr rutschig sind.",
+                "hu": "Ez az ősi ciszterna találó úticél esős időben; ügyeljen azonban a környező mohás kövekre, amelyek nedvesen rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Această cisternă veche este o destinație potrivită pe ploaie; totuși, atenție la pietrele cu mușchi din jur, care devin foarte alunecoase la umezeală.",
+                "en": "This ancient cistern is a fitting destination for a rainy day; however, watch your step on the mossy stones which become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Deutere Spiantza",
+                "hu": "Deutere Spiantza",
+                "ro": "Deutere Spiantza",
+                "en": "Deutere Spiantza"
+              },
+              "tip_5lang": {
+                "de": "Der Kieselstrand ist bei Sturm ein beeindruckendes Naturschauspiel; halten Sie den Aufenthalt kurz und suchen Sie danach Wärme in einer nahen Taverne.",
+                "hu": "A kavicsos strand esőben vadregényes látványt nyújt; tartsa rövidre a látogatást, majd keressen melegséget és forró italt egy közeli kikötői tavernában.",
+                "ro": "Plaja cu pietriș oferă un spectacol natural impresionant pe furtună; mențineți vizita scurtă și căutați apoi căldura unei taverne din apropiere.",
+                "en": "The pebble beach is a dramatic natural sight during rain; keep your visit brief and then head to a nearby tavern for warmth and shelter."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen an der Burg; die tiefstehende Sonne bietet weiches Licht für Fotos ohne die Hitze und Massen des Sommers.\nMittags ist die Wanderung zum Leuchtturm angenehm kühl. Ziehen Sie sich schichtweise an, da die Meeresbrise im Winter recht schneidend sein kann.\nNachmittags erkunden wir den Glockenturm und die Zisterne im Landesinneren. Das Dorf zeigt sich nun von seiner authentischen, ruhigen Seite.\nDer Sonnenuntergang ist bereits gegen 17:00 Uhr; kehren Sie rechtzeitig in den Hafen zurück, bevor die Temperaturen nach Anbruch der Dunkelheit sinken.",
+            "hu": "Friss téli reggel a várnál; az alacsonyan járó nap lágy fényei tökéletesek a fotózáshoz a nyári tömeg és a tikkasztó hőség nélkül.\nDélben a világítótoronyhoz vezető séta kellemesen hűvös. Öltözzön rétegesen, mert a téli tengeri szél ilyenkor már metszően hideg lehet.\nDélután a harangtornyot és a ciszternát keressük fel a sziget belsejében. A falu ilyenkor mutatja meg igazi, békés és hiteles arcát.\nA naplemente már 17:00 körül beköszönt; érdemes időben visszatérni a kikötőbe egy forró italra, mielőtt a hőmérséklet hirtelen visszaesik.",
+            "ro": "O dimineață răcoroasă de iarnă la castel; soarele jos oferă o lumină caldă pentru fotografii, fără căldura și mulțimile sufocante de vară.\nLa prânz, drumeția spre far este plăcută. Îmbrăcați-vă în straturi, deoarece briza mării poate fi destul de tăioasă în timpul lunilor de iarnă.\nDupă-amiaza explorăm clopotnița și cisterna din interiorul insulei. Satul își dezvăluie acum latura autentică și liniștită, departe de turism.\nApusul are loc devreme, în jur de ora 17:00; întoarceți-vă la timp în port pentru o băutură caldă înainte ca temperaturile să scadă brusc noaptea.",
+            "en": "A crisp winter morning at the castle; the low sun provides soft, beautiful light for photos without the summer heat or the large crowds.\nAt noon, the hike to the lighthouse is refreshingly cool. Dress in layers as the sea breeze can be quite sharp during the winter months.\nAfternoon is for exploring the inland bell tower and cistern. The village is quiet now, showing its authentic and peaceful off-season character.\nSunset is early, around 17:00; make sure to head back to the harbor for a warm drink before the temperature drops quickly after dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castle of Agios Nikolaos of Gáïos",
+                "hu": "Castle of Agios Nikolaos of Gáïos",
+                "ro": "Castle of Agios Nikolaos of Gáïos",
+                "en": "Castle of Agios Nikolaos of Gáïos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit der Festung im Winter; die kühle Luft macht den Aufstieg auf den Hügel deutlich weniger anstrengend als im Sommer.",
+                "hu": "Élvezze az erőd magányát a téli szezonban; a hűvös levegő sokkal kevésbé fárasztóvá teszi a dombra való felkapaszkodást a nyári hőséghez képest.",
+                "ro": "Bucurați-vă de singurătatea cetății în timpul iernii; aerul rece face urcarea pe deal mult mai puțin obositoare decât în timpul verii toride.",
+                "en": "Enjoy the solitude of the fortress in winter; the cool air makes the climb up the hill much less taxing than during the intense summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolas Lighthouse",
+                "hu": "Agios Nikolas Lighthouse",
+                "ro": "Agios Nikolas Lighthouse",
+                "en": "Agios Nikolas Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht sorgt für eine klare Sicht bis zum Festland; bringen Sie eine winddichte Jacke für den exponierten Küstenabschnitt am Leuchtturm mit.",
+                "hu": "A téli fények rendkívül tiszta kilátást biztosítanak a szárazföld felé; hozzon szélálló kabátot a világítótoronynál lévő kitett partszakaszra.",
+                "ro": "Lumina de iarnă oferă o vizibilitate clară până la continent; aduceți o jachetă rezistentă la vânt pentru secțiunea de coastă expusă de la far.",
+                "en": "The winter light provides exceptional clarity for views to the mainland; bring a windproof jacket for the exposed coastal stretch at the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Bell Tower of Saint George",
+                "hu": "Old Bell Tower of Saint George",
+                "ro": "Old Bell Tower of Saint George",
+                "en": "Old Bell Tower of Saint George"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um die Geschichte der Insel zu reflektieren; das Dorfleben ist im Winter langsam und wunderbar authentisch ohne Touristen.",
+                "hu": "Békés hely a sziget történelmének megismeréséhez; a falusi élet télen lassú és csodálatosan hiteles, távol a nyári turisták zajától.",
+                "ro": "Un loc liniștit pentru a reflecta asupra istoriei insulei; viața satului este lentă și minunat de autentică iarna, fără agitația turiștilor.",
+                "en": "A peaceful spot to reflect on the island's history; the village life is slow and wonderfully authentic in winter without the tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "cistern)",
+                "hu": "cistern)",
+                "ro": "cistern)",
+                "en": "cistern)"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie dieses historische Juwel ohne die Massen; die kühle Temperatur hält das umliegende Grün auch im Januar üppig und lebendig.",
+                "hu": "Fedezze fel ezt a történelmi kincset tömeg nélkül; a hűvösebb időjárás miatt a környező növényzet még januárban is buja és életteli marad.",
+                "ro": "Descoperiți această bijuterie istorică fără mulțimi; temperatura răcoroasă menține verdeața din jur luxuriantă și vibrantă chiar și în ianuarie.",
+                "en": "Discover this historical gem without the crowds; the cool temperatures keep the surrounding greenery lush and vibrant even in mid-January."
+              }
+            },
+            {
+              "name": {
+                "de": "Deutere Spiantza",
+                "hu": "Deutere Spiantza",
+                "ro": "Deutere Spiantza",
+                "en": "Deutere Spiantza"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen erfrischenden Winterspaziergang am Meer; obwohl es zum Baden zu kalt ist, bleibt die Landschaft atemberaubend und beruhigend.",
+                "hu": "Ideális helyszín egy frissítő téli sétához a tengerparton; bár úszni túl hideg, a táj ilyenkor is lenyűgöző és megnyugtató élményt nyújt.",
+                "ro": "Ideal pentru o plimbare revigorantă de iarnă pe malul mării; deși e prea frig pentru înot, peisajul rămâne uluitor și extrem de liniștitor.",
+                "en": "Ideal for a refreshing winter walk by the sea; although it is too cold for swimming, the scenery remains breathtaking and very soothing."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt a kikötőre néző velencei erőd és világítótorony felfedezésével. Délben kerékpározzon délre, hogy felfedezze a történelmi harangtornyot és az olajfaligetekben megbúvó ógörög ciszternákat. Délután tekerjen a part mentén a Galazio Beach vizéhez. Az este az Avlaki-öböl vadregényes természeti szépségében várja a pihenni vágyókat.",
         "ro": "Începeți dimineața explorând fortăreața venețiană și farul cu vedere la port. La prânz, mergeți cu bicicleta spre sud pentru a descoperi turnul istoric și vechile cisterne grecești din livezile de măslini. După-amiaza, mergeți de-a lungul coastei spre Plaja Galazio. Seara vă invită să vă relaxați lângă frumusețea naturală sălbatică a golfului Avlaki.",
         "en": "Start your morning exploring the Venetian fortress and lighthouse overlooking the port of Gaios. By midday, cycle south to uncover the historical Bell Tower and the old Greek cisterns hidden in the olive groves. In the afternoon, ride along the coast to discover the vibrant waters of Galazio Beach. Evening invites you to relax by the rugged natural beauty of Avlaki creek."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Radtour vorsichtig an der Burg; bei Regen sind die Wege rutschig, also achten Sie auf Ihre Bremsen und fahren Sie langsam.\nMittags erreichen wir den Leuchtturm. Die Gischt vermischt sich mit dem Regen, was die Fahrt an der Küste zu einem erfrischenden Erlebnis macht.\nNachmittags geht es zu den historischen Stätten. Planen Sie kurze Pausen unter Vordächern ein, um die Karte zu prüfen und trocken zu bleiben.\nGegen Abend beenden wir die Tour in Avlaki; die Straßen sind bei Nässe glatt, fahren Sie daher besonders achtsam zurück zum Hafen.",
+            "hu": "Vigyázatosan kezdjük a kerékpártúrát a várnál; esőben az utak csúszósak lehetnek, így lassabb tempót és óvatos fékezést javaslunk.\nDélben érjük el a világítótornyot. A tengeri permet keveredik az esővel, ami különleges, vadregényes élménnyé teszi a part menti tekerést.\nDélután a történelmi emlékhelyek felé vesszük az irányt. Tartsunk rövid pihenőket az ereszek alatt, hogy ellenőrizzük az utat és szárazon maradjunk.\nEste Avlakinál fejezzük be a túrát; a vizes aszfalton óvatosan kanyarodjunk, és időben induljunk vissza a kivilágított kikötőbe.",
+            "ro": "Începem turul cu bicicleta cu prudență la castel; pe ploaie, drumurile sunt alunecoase, deci folosiți frânele cu grijă și păstrați o viteză redusă.\nLa prânz ajungem la far. Pulverizarea mării se amestecă cu ploaia, făcând plimbarea pe coastă o experiență revigorantă și plină de aventură.\nDupă-amiaza ne îndreptăm spre siturile istorice. Planificați pauze scurte sub streșini pentru a verifica harta și pentru a rămâne cât de cât uscați.\nSpre seară încheiem turul la Avlaki; străzile sunt alunecoase când sunt ude, așa că mergeți cu mare atenție înapoi spre zona portului.",
+            "en": "We start our bike tour cautiously at the castle; in the rain, the paths are slippery, so watch your brakes and maintain a slower pace.\nAt noon, we reach the lighthouse. The sea spray mixes with the rain, making the coastal ride a refreshing and adventurous experience.\nAfternoon is for visiting historical sites. Plan short breaks under eaves or covers to check your map and stay dry during the showers.\nBy evening, we finish at Avlaki; the roads are slick when wet, so exercise extra caution while cycling back to the main harbor area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castle of Agios Nikolaos of Gáïos",
+                "hu": "Castle of Agios Nikolaos of Gáïos",
+                "ro": "Castle of Agios Nikolaos of Gáïos",
+                "en": "Castle of Agios Nikolaos of Gáïos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und erkunden Sie die Festung zu Fuß; die dichten Bäume bieten etwas Schutz vor den Regenschauern.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és gyalogosan fedezze fel az erődöt; a sűrű fák némi védelmet nyújtanak az átvonuló záporok elől.",
+                "ro": "Parcați bicicleta într-un loc ferit și explorați cetatea la pas; copacii deși oferă o oarecare protecție împotriva averselor de ploaie trecătoare.",
+                "en": "Park your bike in a sheltered spot and explore the fortress on foot; the dense trees offer some protection from the passing rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolas Lighthouse",
+                "hu": "Agios Nikolas Lighthouse",
+                "ro": "Agios Nikolas Lighthouse",
+                "en": "Agios Nikolas Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem Küstenweg, da der Wind und Regen die Sicht einschränken können; helle Kleidung ist bei trübem Wetter ratsam.",
+                "hu": "Tekerjen óvatosan a part menti úton, mert a szél és az eső ronthatja a látási viszonyokat; a borús időben javasolt a világos, feltűnő ruházat.",
+                "ro": "Mergeți cu grijă pe drumul de coastă, deoarece vântul și ploaia pot limita vizibilitatea; îmbrăcămintea reflectorizantă este recomandată pe vreme gri.",
+                "en": "Ride carefully on the coastal road as wind and rain can limit visibility; wearing bright or reflective clothing is advisable in gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Bell Tower of Saint George",
+                "hu": "Old Bell Tower of Saint George",
+                "ro": "Old Bell Tower of Saint George",
+                "en": "Old Bell Tower of Saint George"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Pause vom Regen; nutzen Sie die historischen Mauern als Windschutz, während Sie sich für die Weiterfahrt stärken.",
+                "hu": "Ideális helyszín egy rövid esőszünethez; használja a történelmi falakat szélfogónak, amíg felkészül a túra következő, vizesebb szakaszára.",
+                "ro": "Un loc ideal pentru o scurtă pauză de ploaie; folosiți zidurile istorice ca paravan împotriva vântului în timp ce vă pregătiți de drum.",
+                "en": "An ideal spot for a short break from the rain; use the historical walls as a windbreak while you prepare for the next leg of your wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "RN Cistern (Old Greek Cistern)",
+                "hu": "RN Cistern (Old Greek Cistern)",
+                "ro": "RN Cistern (Old Greek Cistern)",
+                "en": "RN Cistern (Old Greek Cistern)"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade zur Zisterne können durch Pfützen erschwert sein; achten Sie auf tiefe Löcher und fahren Sie bei Nässe besonders konzentriert.",
+                "hu": "A ciszternához vezető utat tócsák nehezíthetik; ügyeljen a kátyúkra, és tekerjen fokozott koncentrációval a csúszós, egyenetlen terepen.",
+                "ro": "Potecile spre cisternă pot fi îngreunate de bălți; atenție la gropi și pedalați cu o concentrare sporită pe terenul ud și denivelat.",
+                "en": "The paths to the cistern may be hampered by puddles; watch out for potholes and cycle with extra concentration on the wet, uneven terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Galazio Beach",
+                "hu": "Galazio Beach",
+                "ro": "Galazio Beach",
+                "en": "Galazio Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen wild und verlassen; genießen Sie den Anblick kurz, bevor Sie weiterradeln, um nicht zu stark auszukühlen.",
+                "hu": "A strand esőben vad és elhagyatott látványt nyújt; élvezze rövid ideig, majd tekerjen tovább, hogy elkerülje a test túlzott lehűlését.",
+                "ro": "Plaja arată sălbatică și pustie în ploaie; bucurați-vă de peisaj pentru scurt timp, apoi pedalați mai departe pentru a nu vă răci prea tare.",
+                "en": "The beach looks wild and deserted in the rain; enjoy the view briefly, then cycle on to avoid getting too chilled by the damp weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Avlaki",
+                "hu": "Avlaki",
+                "ro": "Avlaki",
+                "en": "Avlaki"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier und prüfen Sie Ihre Bremsen für den Rückweg; die nasse Fahrbahn erfordert längere Bremswege im Straßenverkehr.",
+                "hu": "Itt fejezze be a túrát, és ellenőrizze a fékeket a visszatérés előtt; a vizes aszfalton jelentősen megnő a féktávolság a forgalomban.",
+                "ro": "Încheiați turul aici și verificați frânele înainte de întoarcere; carosabilul umed necesită distanțe de frânare mult mai mari în trafic.",
+                "en": "Finish your tour here and check your brakes for the return trip; wet pavement requires much longer braking distances in traffic conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an der Burg; Handschuhe sind bei der morgendlichen Fahrt wichtig, da der Fahrtwind die Finger schnell auskühlt.\nMittags radeln wir zum Leuchtturm. Die klare Winterluft bietet eine weite Sicht, aber die Küstenstraße ist oft sehr windig.\nNachmittags besuchen wir die Zisternen und den Glockenturm. In der Nebensaison sind die Straßen fast leer, was das Radfahren sehr entspannt macht.\nDa es früh dunkel wird, planen wir die Rückkehr zum Hafen für 16:30 Uhr ein, um nicht in die winterliche Abendkälte zu geraten.",
+            "hu": "Hűvös kezdés a várnál; a reggeli tekerésnél fontos a kesztyű, mert a menetszél hamar lehűtheti az ujjait a nyílt szakaszokon.\nDélben a világítótoronyhoz biciklizünk. A tiszta téli levegő távoli kilátást biztosít, de a part menti út ilyenkor gyakran nagyon szeles.\nDélután a ciszternákat és a harangtornyot keressük fel. A főszezonon kívül az utak szinte üresek, így a tekerés rendkívül nyugodt és biztonságos.\nMivel korán sötétedik, a kikötőbe való visszatérést 16:30-ra tervezzük, hogy elkerüljük a téli este hirtelen beálló fagyos hidegét.",
+            "ro": "Un început răcoros la castel; mănușile sunt importante pentru plimbarea de dimineață, deoarece vântul vă poate răci rapid degetele.\nLa prânz pedalăm spre far. Aerul clar de iarnă oferă o vizibilitate la distanță, dar drumul de coastă este adesea foarte vântos acum.\nDupă-amiaza vizităm cisternele și clopotnița. În extrasezon drumurile sunt aproape pustii, ceea ce face mersul pe bicicletă foarte relaxant.\nDeoarece se întunecă devreme, planificăm întoarcerea în port pentru ora 16:30, pentru a nu ne prinde frigul pătrunzător al serii de iarnă.",
+            "en": "A cool start at the castle; gloves are important for the morning ride, as the wind chill can quickly numb your fingers on open sections.\nAt noon, we cycle to the lighthouse. The clear winter air provides distant views, but the coastal road is often very windy this time of year.\nAfternoon is for visiting the cisterns and the bell tower. Off-season roads are nearly empty, making cycling very relaxed and safe.\nAs it gets dark early, plan your return to the harbor by 16:30 to avoid the sudden onset of the biting winter evening cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castle of Agios Nikolaos of Gáïos",
+                "hu": "Castle of Agios Nikolaos of Gáïos",
+                "ro": "Castle of Agios Nikolaos of Gáïos",
+                "en": "Castle of Agios Nikolaos of Gáïos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Winterwetter für eine Erkundung zu Fuß; die Anstrengung beim Gehen hilft Ihnen, für die Weiterfahrt warm zu bleiben.",
+                "hu": "Használja ki az enyhe téli időt egy gyalogos felfedezéshez; a mozgás segít felmelegíteni a testét a túra következő kerékpáros szakasza előtt.",
+                "ro": "Profitați de vremea blândă de iarnă pentru o explorare la pas; efortul depus vă va ajuta să vă mențineți corpul cald pentru continuarea drumului.",
+                "en": "Take advantage of the mild winter weather for a foot exploration; the physical effort will help keep you warm for the next leg of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Nikolas Lighthouse",
+                "hu": "Agios Nikolas Lighthouse",
+                "ro": "Agios Nikolas Lighthouse",
+                "en": "Agios Nikolas Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie ein warmes Getränk in einer Thermoskanne mit; die Aussicht am windigen Leuchtturm lässt sich so viel gemütlicher genießen.",
+                "hu": "Hozzon magával meleg italt termoszban; a szeles világítótoronynál így sokkal kellemesebben és hosszabb ideig élvezheti a tengeri panorámát.",
+                "ro": "Aduceți o băutură caldă într-un termos; priveliștea de la farul bătut de vânt poate fi savurată mult mai confortabil în acest fel.",
+                "en": "Bring a warm drink in a thermos; the views at the windy lighthouse can be enjoyed much more comfortably this way during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Bell Tower of Saint George",
+                "hu": "Old Bell Tower of Saint George",
+                "ro": "Old Bell Tower of Saint George",
+                "en": "Old Bell Tower of Saint George"
+              },
+              "tip_5lang": {
+                "de": "Die Dorfstraßen sind im Winter leer und ruhig; genießen Sie die entspannte Fahrt ohne die Autoschlangen der Sommermonate.",
+                "hu": "A falusi utak télen üresek és csendesek; élvezze a nyugodt tekerést a nyári hónapokra jellemző autóforgalom és tömeg nélkül.",
+                "ro": "Străzile satului sunt pustii și liniștite iarna; bucurați-vă de plimbarea relaxată fără coloanele de mașini specifice lunilor de vară.",
+                "en": "The village roads are empty and quiet in winter; enjoy a relaxed ride without the traffic congestion typical of the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "RN Cistern (Old Greek Cistern)",
+                "hu": "RN Cistern (Old Greek Cistern)",
+                "ro": "RN Cistern (Old Greek Cistern)",
+                "en": "RN Cistern (Old Greek Cistern)"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft macht die körperliche Anstrengung auf den Hügeln angenehm; achten Sie dennoch auf herabgefallenes Laub auf den Wegen.",
+                "hu": "A hűvös levegő kellemessé teszi a dombokon való tekerést; ügyeljen azonban az útra hullott nedves levelekre, amelyek csúszósak lehetnek.",
+                "ro": "Aerul răcoros face efortul fizic pe dealuri mult mai plăcut; totuși, fiți atenți la frunzele căzute pe drum care pot fi alunecoase.",
+                "en": "The cool air makes the physical exertion on the hills pleasant; however, watch out for fallen leaves on the paths which can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Galazio Beach",
+                "hu": "Galazio Beach",
+                "ro": "Galazio Beach",
+                "en": "Galazio Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für eine kurze Rast; bewegen Sie sich regelmäßig, um bei den kühlen Temperaturen am Meer nicht auszukühlen.",
+                "hu": "Magányos hely egy rövid pihenőhöz; mozogjon rendszeresen, hogy a tengerparti hűvösben is megőrizze teste melegét a pihenő alatt.",
+                "ro": "Un loc solitar pentru o scurtă odihnă; mișcați-vă regulat pentru a vă menține căldura corpului în briza rece de pe malul mării.",
+                "en": "A solitary spot for a quick rest; keep moving regularly to maintain your body heat in the cool seaside breeze during your stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Avlaki",
+                "hu": "Avlaki",
+                "ro": "Avlaki",
+                "en": "Avlaki"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt vor Sonnenuntergang ein; die Temperaturen sinken im Winter rapide, sobald die Sonne hinter den Bergen verschwindet.",
+                "hu": "Tervezze meg a visszautat naplemente előtt; télen a hőmérséklet gyorsan süllyed, amint a nap eltűnik a nyugati hegyek mögött.",
+                "ro": "Planificați-vă întoarcerea înainte de apus; temperaturile scad rapid iarna de îndată ce soarele dispare după dealurile din vest.",
+                "en": "Plan your return trip before sunset; winter temperatures drop rapidly as soon as the sun disappears behind the western hills."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a szigeti autózást az Agios Nikolaos történelmi kastélyánál a nyüzsgő kikötő közelében. A déli órákban festői utazások várják az Avlaki vadregényes öbléhez és az Erimites drámai szikláihoz. Délután induljon északra, hogy ússzon a Kipiadin, és fotózza le a hagyományos szélmalmot. Zárja az estét egy élénk naplementével a híres Ben's Barban.",
         "ro": "Începeți plimbarea cu mașina la istoricul Castel Agios Nikolaos, lângă portul plin de viață. La prânz aveți parte de drumuri pitorești spre golful sălbatic Avlaki și stâncile dramatice de la Erimites. După-amiaza mergeți spre nord pentru a înota la Kipiadi și a fotografia moara de vânt tradițională. Încheiați seara cu un apus și cocktailuri la celebrul Ben's Bar.",
         "en": "Begin your island drive at the historic Castle of Agios Nikolaos near the bustling port of Gaios. Midday features scenic drives to the wild inlet of Avlaki and the dramatic, imposing cliffs of Erimites. Afternoon takes you north to swim at Kipiadi and photograph the traditional hillside windmill. Conclude your evening with a vibrant sunset and cocktails at the famous Ben's Bar."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Fahrt sicher und trocken an der Burg. Bei Regen ist die Sicht eingeschränkt, fahren Sie daher langsam und mit Licht.\nMittags erkunden wir Avlaki; genießen Sie die Aussicht auf das Meer bequem vom Auto aus, während der Regen gegen die Scheiben prasselt.\nNachmittags geht es zu den abgelegenen Buchten wie Erimites. Die Straßen können schlammig sein, aber die dramatische Steilküste ist im Regen spektakulär.\nAbends beenden wir die Tour an einem gemütlichen Ort. Die Fahrt zurück zum Hafen erfordert bei Dunkelheit und Nässe volle Konzentration.",
+            "hu": "Biztonságban és szárazon kezdjük az utat a várnál. Esőben a látási viszonyok korlátozottak, ezért lassabb tempót és felkapcsolt fényszórókat javaslunk.\nDélben Avlaki felé vesszük az irányt; élvezze a tenger látványát az autó kényelméből, miközben az eső kopog a szélvédőn.\nDélután az olyan eldugott helyeket keressük fel, mint Erimites. Az utak sarasak lehetnek, de a drámai sziklafalak látványa esőben is lenyűgöző.\nEste egy barátságos helyen zárjuk a napot. A vizes úton való visszatérés a kikötőbe fokozott figyelmet és óvatosságot igényel a sofőrtől.",
+            "ro": "Începem călătoria în siguranță și la adăpost la castel. Pe ploaie vizibilitatea este limitată, așa că conduceți încet și cu luminile aprinse.\nLa prânz explorăm Avlaki; bucurați-vă de priveliștea mării din confortul mașinii în timp ce ploaia bate în parbriz.\nDupă-amiaza mergem spre golfurile retrase precum Erimites. Drumurile pot fi noroioase, dar faleza dramatică arată spectaculos în ploaie.\nSeara încheiem turul într-un loc primitor. Întoarcerea în port pe carosabil umed și pe întuneric necesită concentrare maximă la volan.",
+            "en": "We start our journey safe and dry at the castle. In the rain, visibility is reduced, so drive slowly and keep your headlights on at all times.\nAt noon, we explore Avlaki; enjoy the sea views from the comfort of your car while the rain drums against the windows.\nAfternoon is for visiting secluded spots like Erimites. Roads can be muddy, but the dramatic white cliffs look spectacular in the rain.\nBy evening, we finish our tour at a cozy spot. The drive back to the harbor on wet roads in the dark requires full concentration and care."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castle of Agios Nikolaos of Gáïos",
+                "hu": "Castle of Agios Nikolaos of Gáïos",
+                "ro": "Castle of Agios Nikolaos of Gáïos",
+                "en": "Castle of Agios Nikolaos of Gáïos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und nutzen Sie Regenpausen für kurze Besichtigungen; das Auto dient als idealer Rückzugsort bei starken Schauern.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, és használja ki az esőszüneteket a rövid nézelődésre; az autó tökéletes menedék a hirtelen záporok elől.",
+                "ro": "Parcați cât mai aproape de intrare și profitați de pauzele de ploaie pentru vizite scurte; mașina este refugiul ideal în caz de aversă.",
+                "en": "Park close to the entrance and use gaps in the rain for quick explorations; the car serves as the perfect retreat during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Avlaki",
+                "hu": "Avlaki",
+                "ro": "Avlaki",
+                "en": "Avlaki"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort, um die Meeresbrandung vom warmen Auto aus zu beobachten; die Küstenstraße ist gut befestigt und auch bei Regen sicher befahrbar.",
+                "hu": "Kiváló helyszín a hullámverés megfigyelésére a meleg autóból; a part menti út jól karbantartott és esőben is biztonságosan járható gépjárművel.",
+                "ro": "Un loc excelent pentru a observa valurile din mașina caldă; drumul de coastă este bine întreținut și sigur pentru condus chiar și pe ploaie.",
+                "en": "A great spot to watch the surf from the warmth of your car; the coastal road is well-paved and safe to drive even during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Erimites",
+                "hu": "Erimites",
+                "ro": "Erimites",
+                "en": "Erimites"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Klippen ist bei stürmischem Wetter atemberaubend; bleiben Sie auf den befestigten Parkflächen, um nicht im Matsch stecken zu bleiben.",
+                "hu": "A sziklákra nyíló kilátás viharos időben lélegzetelállító; maradjon a szilárd burkolatú parkolókban, hogy elkerülje az elakadást a sárban.",
+                "ro": "Priveliștea asupra stâncilor este uluitoare pe vreme de furtună; rămâneți pe zonele de parcare pavate pentru a evita să rămâneți blocat în noroi.",
+                "en": "The view of the cliffs is breathtaking in stormy weather; stay on the paved parking areas to avoid getting stuck in the mud during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kipiadi",
+                "hu": "Kipiadi",
+                "ro": "Kipiadi",
+                "en": "Kipiadi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wilde Natur der Bucht durch das Autofenster; der Weg hinunter zum Strand kann bei Regen sehr rutschig und schwierig sein.",
+                "hu": "Élvezze az öböl vad szépségét az autó ablakán keresztül; a tengerparthoz vezető lejtős út esőben rendkívül csúszós és nehezen járható lehet.",
+                "ro": "Bucurați-vă de natura sălbatică a golfului prin fereastra mașinii; drumul spre plajă poate fi foarte alunecos și dificil pe timp de ploaie.",
+                "en": "Enjoy the wild beauty of the bay through the car window; the path down to the beach can be very slippery and difficult in rainy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Windmill",
+                "ro": "Windmill",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die Windmühle ist ein schönes Fotomotiv vom Parkplatz aus; nutzen Sie den Scheibenwischerintervall für den perfekten Schnappschuss ohne nass zu werden.",
+                "hu": "A szélmalom kiváló fotótéma a parkolóból is; várja meg a megfelelő pillanatot az esőben, hogy szárazon készíthessen egy remek képet.",
+                "ro": "Moara de vânt este un subiect foto excelent chiar și din parcare; așteptați momentul potrivit între averse pentru a face o fotografie reușită.",
+                "en": "The windmill is a great photo subject even from the parking spot; wait for a break in the rain to get a perfect shot without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ben's Bar",
+                "hu": "Ben's Bar",
+                "ro": "Ben's Bar",
+                "en": "Ben's Bar"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen Abschlusskaffee im Trockenen; prüfen Sie vor der Abfahrt Ihre Scheinwerfer für die Fahrt zurück durch den Regen.",
+                "hu": "Ideális helyszín egy befejező kávéhoz fedett helyen; indulás előtt ellenőrizze a fényszórókat az esőben való biztonságos visszatéréshez.",
+                "ro": "Un loc ideal pentru o cafea de final la adăpost; înainte de plecare, verificați farurile pentru o întoarcere sigură prin ploaie.",
+                "en": "An ideal spot for a final coffee under cover; check your headlights before leaving to ensure a safe drive back through the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten unsere Wintertour bequem mit der Heizung im Auto an der Burg. Die klare Luft bietet fantastische Fernsichten über die Insel.\nMittags fahren wir nach Avlaki; die Küstenstraße ist im Winter fast leer, was die Fahrt sehr entspannt und angenehm macht.\nNachmittags geht es zu den spektakulären Aussichtspunkten wie Erimites. Die Wintersonne taucht die weißen Klippen in ein wunderschönes, goldenes Licht.\nGegen 16:30 Uhr kehren wir zum Hafen zurück. Da es früh dunkel wird, ist dies die beste Zeit, um die gemütliche Atmosphäre in Gaios zu genießen.",
+            "hu": "Kényelmesen, az autó fűtését élvezve kezdjük a téli túrát a várnál. A tiszta levegő fantasztikus kilátást biztosít a sziget távoli pontjaira.\nDélben Avlaki felé autózunk; a part menti út télen szinte üres, így a vezetés rendkívül nyugodt és zavartalan élményt nyújt.\nDélután a látványos kilátópontokat, például Erimitest keressük fel. A téli nap alacsony szöge csodálatos arany fénybe vonja a fehér sziklákat.\n16:30 körül induljunk vissza a kikötőbe. Mivel korán sötétedik, ez a legjobb időszak Gaios békés és hangulatos utcáinak felfedezésére.",
+            "ro": "Începem turul de iarnă confortabil, cu căldura pornită în mașină, la castel. Aerul clar oferă vederi fantastice la distanță peste întreaga insulă.\nLa prânz conducem spre Avlaki; drumul de coastă este aproape pustiu iarna, ceea ce face condusul extrem de relaxant și plăcut.\nDupă-amiaza vizităm punctele de belvedere spectaculoase precum Erimites. Soarele de iarnă scaldă stâncile albe într-o lumină aurie superbă.\nÎn jur de ora 16:30 ne întoarcem spre port. Deoarece se întunecă devreme, este momentul ideal pentru a savura atmosfera liniștită din Gaios.",
+            "en": "We start our winter tour comfortably with the car heater on at the castle. The clear air offers fantastic long-distance views across the island.\nAt noon, we drive to Avlaki; the coastal road is nearly empty in winter, making the drive very relaxed and enjoyable without summer traffic.\nAfternoon is for visiting spectacular viewpoints like Erimites. The low winter sun bathes the white cliffs in a beautiful, golden light.\nReturn to the harbor around 16:30. As it gets dark early, this is the best time to enjoy the quiet and cozy atmosphere of Gaios in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castle of Agios Nikolaos of Gáïos",
+                "hu": "Castle of Agios Nikolaos of Gáïos",
+                "ro": "Castle of Agios Nikolaos of Gáïos",
+                "en": "Castle of Agios Nikolaos of Gáïos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als warme Basis für kurze Spaziergänge zur Festung; die Wintersonne ist perfekt für klare Landschaftsaufnahmen.",
+                "hu": "Használja az autót meleg bázisként a várhoz tett rövid sétákhoz; a téli napsütés tökéletes a tiszta és éles tájképek készítéséhez.",
+                "ro": "Folosiți mașina ca bază caldă pentru scurte plimbări la cetate; soarele de iarnă este perfect pentru fotografii de peisaj clare.",
+                "en": "Use the car as a warm base for short walks to the fortress; the winter sun is perfect for capturing clear and crisp landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Avlaki",
+                "hu": "Avlaki",
+                "ro": "Avlaki",
+                "en": "Avlaki"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Bucht in der Nebensaison; im Winter finden Sie hier immer einen Parkplatz direkt am besten Aussichtspunkt.",
+                "hu": "Élvezze az öböl nyugalmát a főszezonon kívül; télen mindig talál parkolóhelyet közvetlenül a legjobb kilátást nyújtó pontoknál.",
+                "ro": "Bucurați-vă de liniștea golfului în extrasezon; iarna veți găsi întotdeauna un loc de parcare chiar lângă cel mai bun punct de belvedere.",
+                "en": "Enjoy the peace of the bay during the off-season; in winter, you will always find a parking spot right next to the best viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Erimites",
+                "hu": "Erimites",
+                "ro": "Erimites",
+                "en": "Erimites"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie ein Fernglas mit; die winterliche Fernsicht erlaubt es Ihnen, die Küstenlinie des griechischen Festlands im Detail zu bewundern.",
+                "hu": "Hozzon magával távcsövet; a téli tiszta látási viszonyok lehetővé teszik a görög szárazföld partvonalának részletes megfigyelését.",
+                "ro": "Aduceți un binoclu; vizibilitatea clară de iarnă vă permite să admirați în detaliu linia de coastă a Greciei continentale din parcare.",
+                "en": "Bring binoculars; the clear winter visibility allows you to admire the coastline of mainland Greece in great detail from the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Kipiadi",
+                "hu": "Kipiadi",
+                "ro": "Kipiadi",
+                "en": "Kipiadi"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Stopp an der Küste; die niedrige Sonne sorgt für tolle Lichtreflexionen auf dem tiefblauen Wintermeer.",
+                "hu": "Kiváló helyszín egy rövid tengerparti megállóhoz; az alacsonyan járó nap csodás fényvisszaverődéseket kelt a mélykék téli tengeren.",
+                "ro": "Un loc minunat pentru o scurtă oprire pe coastă; soarele jos creează reflexii de lumină superbe pe marea de un albastru profund.",
+                "en": "A lovely spot for a quick coastal stop; the low sun creates beautiful light reflections on the deep blue winter sea surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Windmill",
+                "ro": "Windmill",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle steht oft im starken Winterwind; bewundern Sie das Bauwerk kurz von außen und genießen Sie danach wieder die Wärme Ihres Wagens.",
+                "hu": "A malom környékén télen erős szél fújhat; csodálja meg az épületet kívülről, majd térjen vissza az autó kellemes melegébe.",
+                "ro": "Moara se află adesea în bătaia vântului puternic de iarnă; admirați structura scurt din exterior, apoi reveniți la căldura mașinii.",
+                "en": "The windmill is often in the path of strong winter winds; admire the structure briefly from outside, then enjoy the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ben's Bar",
+                "hu": "Ben's Bar",
+                "ro": "Ben's Bar",
+                "en": "Ben's Bar"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Rückfahrt bei Einbruch der Dunkelheit Ihre Beleuchtung; die schmalen Inselstraßen erfordern im Winter volle Aufmerksamkeit.",
+                "hu": "A sötétedés beállta előtt ellenőrizze autója világítását; a sziget keskeny útjai télen is maximális figyelmet igényelnek a sofőrtől.",
+                "ro": "Înainte de lăsarea întunericului, verificați iluminarea mașinii; drumurile înguste ale insulei necesită atenție maximă în timpul iernii.",
+                "en": "Before dark, check your car's lighting; the narrow island roads require full driver attention even during the quiet winter months."
+              }
+            }
+          ]
+        }
       }
     }
   }

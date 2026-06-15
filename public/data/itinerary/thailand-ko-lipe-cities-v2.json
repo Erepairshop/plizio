@@ -137,6 +137,168 @@
         "hu": "A reggel Ko Lipén a népszerű Pattaya Beach homokján kezdődik, ahol a korai órák csendje még varázslatos. Egy rövid sétával a sziget belseje felé felfedezhetünk egy rejtett templomot és egy mecsetet.\n\nDél körül a híres Sunrise Beach türkizkék vize hívogat egy frissítő úszásra. A tiszta víz kiváló alkalmat nyújt a part menti sznorkelezésre és a tengeri élet megfigyelésére.\n\nDélután elérjük a nyugodt North Point strandot, ahol a természet a legszebb arcát mutatja. A szomszédos szigetekre nyíló panoráma innen egyszerűen lenyűgöző és magával ragadó.\n\nA nap csendesen ér véget, miközben a sziget északi csücskében élvezzük az utolsó meleg napsugarakat, elmerülve e trópusi paradicsom tökéletes nyugalmában.",
         "ro": "Dimineața pe Ko Lipe începe pe populara plajă Pattaya, unde liniștea este încă prezentă. O scurtă plimbare spre interiorul insulei ne poartă către un templu ascuns și o mică moschee locală.\n\nLa prânz, faimoasa Sunrise Beach ne atrage cu apele sale turcoaz cristaline pentru o înotare revigorantă. Marea limpede este ideală pentru o sesiune relaxantă de snorkeling la mal.\n\nDupă-amiaza, ajungem la plaja liniștită North Point, unde natura își dezvăluie cea mai frumoasă latură. Priveliștea către insulele din jur este de-a dreptul spectaculoasă și captivantă.\n\nZiua se încheie blând în timp ce absorbim ultimele raze calde de soare în nordul insulei, bucurându-ne de atmosfera perfect relaxantă a acestui mic paradis tropical.",
         "en": "Morning on Ko Lipe begins on the soft sands of popular Pattaya Beach, where the early hours remain incredibly peaceful. A short walk inland reveals a hidden temple and a modest local mosque.\n\nBy midday, the famous Sunrise Beach beckons with its crystal-clear turquoise waters for a refreshing swim. The pristine sea here is absolutely ideal for some gentle shore-side snorkeling.\n\nIn the afternoon, we reach the laid-back North Point Beach, where nature shows its best face. The panoramic view across the water to the neighboring forested islands is simply breathtaking.\n\nThe day gently concludes as we soak up the final warm rays of the sun at the island's northern tip, fully embracing the perfectly relaxed atmosphere of this beautiful tropical paradise."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Pattaya Beach suchen wir Schutz unter den Vordächern der Strandbars. Mittags bieten der Hantalay-Tempel und die Masjid el Marhamah trockene Ruheorte während der Regenschauer. Nachmittags beobachten wir die stürmische See vom Sunrise Beach aus. Abends endet der Spaziergang am North Point, wobei wir auf den durch den Regen rutschigen Pfaden besonders vorsichtig sein müssen.",
+            "hu": "Reggel a Pattaya tengerparton a pálmatetők alatt pihenünk meg az eső elől. Délben a templom és a mecset belső terei nyújtanak száraz menedéket a trópusi záporok idején. Délután a Napkelte part fedett teraszairól figyeljük a hullámzó tengert. Este az északi pontnál zárunk, fokozottan ügyelve a felázott, csúszós ösvényekre a sötétedő szigeten.",
+            "ro": "Dimineața pe plaja Pattaya ne adăpostim sub terasele cafenelelor de la malul mării. La prânz, templul Hantalay și moscheea oferă refugiu uscat în timpul averselor tropicale. După-amiaza admirăm marea agitată de pe Sunrise Beach de sub un acoperiș protector. Seara se încheie la North Point, cu mare atenție la potecile alunecoase din cauza ploii recente.",
+            "en": "Morning at Pattaya Beach starts under the shelter of beach bar porches. At noon, the temple and mosque provide dry havens during the tropical downpours. In the afternoon, we watch the dramatic waves from a covered terrace at Sunrise Beach. The evening ends at North Point, where we navigate carefully on paths made slippery by the day's rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pattaya Beach",
+                "hu": "Pattaya tengerpart",
+                "ro": "Plaja Pattaya",
+                "en": "Pattaya Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die heranziehenden Regenwolken über der Andamanensee von einem überdachten Sala aus; nutzen Sie wasserfeste Taschen für Ihre Elektronik.",
+                "hu": "Figyelje a tenger felett tornyosuló esőfelhőket egy fedett parti pihenőből; használjon vízhatlan táskát az elektronikai eszközei védelme érdekében.",
+                "ro": "Admirați norii de ploaie care se adună deasupra mării dintr-un foișor acoperit; folosiți pungi impermeabile pentru a vă proteja dispozitivele electronice.",
+                "en": "Watch the monsoon clouds gathering over the Andaman Sea from a covered beach sala; use waterproof dry bags to protect your electronics from sudden bursts."
+              }
+            },
+            {
+              "name": {
+                "de": "Hantalay Tempel",
+                "hu": "Hantalay templom",
+                "ro": "Templul Hantalay",
+                "en": "Hantalay Temple"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die spirituelle Stille unter dem Tempeldach, während der Regen auf das Dschungellaub prasselt; Vorsicht vor den glatten Steinstufen.",
+                "hu": "Élvezze a spirituális csendet a templomtető alatt, miközben az eső a dzsungel levelein kopog; vigyázzon a vizes, csúszós lépcsőfokokkal.",
+                "ro": "Bucurați-vă de liniștea spirituală sub acoperișul templului în timp ce ploaia bate în frunzele junglei; atenție la treptele de piatră care devin alunecoase.",
+                "en": "Enjoy the spiritual silence under the temple roof while rain drums on the jungle foliage; be careful on the stone steps which become very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid el Marhamah",
+                "hu": "Masjid el Marhamah",
+                "ro": "Masjid el Marhamah",
+                "en": "Masjid el Marhamah"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Moschee bietet Schutz und einen Einblick in die lokale Kultur; denken Sie an eine Plastiktüte für Ihre Schuhe am Eingang.",
+                "hu": "A mecset belseje védelmet és betekintést nyújt a helyi kultúrába; vigyen egy műanyag zacskót a cipőinek, hogy szárazon maradjanak a bejáratnál.",
+                "ro": "Interiorul moscheii oferă adăpost și o incursiune în cultura locală; aveți la îndemână o pungă de plastic pentru a vă păstra încălțămintea uscată la intrare.",
+                "en": "The mosque interior offers shelter and a glimpse into local culture; keep a small plastic bag for your shoes to keep them dry at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunrise Beach",
+                "hu": "Napkelte part",
+                "ro": "Plaja Răsăritului",
+                "en": "Sunrise Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Meeres wirken bei Regen besonders mystisch; suchen Sie sich einen Platz in einem der strandnahen Cafés mit festem Dach.",
+                "hu": "A tenger színei esőben különösen misztikusak; keressen helyet a strandközeli, szilárd tetővel rendelkező kávézók egyikében a zápor idejére.",
+                "ro": "Culorile mării par mistice în timpul ploii; găsiți un loc într-o cafenea de pe plajă cu acoperiș solid pentru a rămâne uscat în timp ce priviți valurile.",
+                "en": "The ocean colors look mystical during the rain; find a spot in one of the beachfront cafes with a solid roof to stay dry while watching the tide."
+              }
+            },
+            {
+              "name": {
+                "de": "North point beach",
+                "hu": "Északi pont strand",
+                "ro": "Plaja North point",
+                "en": "North point beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Natur am Nordzipfel, wo Wind und Regen aufeinandertreffen; ein robustes Regenponcho ist hier besser als ein Regenschirm.",
+                "hu": "Tapasztalja meg a nyers természetet az északi csücsökben, ahol a szél és az eső találkozik; egy erős esőponcsó itt praktikusabb, mint az esernyő.",
+                "ro": "Experimentați natura brută la vârful nordic, unde vântul se întâlnește cu ploaia; o pelerină de ploaie rezistentă este mai utilă aici decât o umbrelă.",
+                "en": "Experience raw nature at the northern tip where wind and rain meet; a sturdy rain poncho is much more effective than an umbrella in this breezy area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühleren Wintermorgen starten wir am Pattaya Beach bei angenehmer Brise. Mittags besuchen wir die religiösen Stätten, die in der klaren Winterluft besonders hell wirken. Nachmittags genießen wir die milde Sonne am Sunrise Beach. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir den North Point pünktlich zum letzten Tageslicht, bevor die kühlere Nacht einsetzt.",
+            "hu": "A hűvösebb téli reggelen a Pattaya parton kezdünk a frissítő szélben. Délben a vallási helyszíneket keressük fel, melyek ragyognak a tiszta téli fényben. Délután a Napkelte part lágy napsütését élvezzük. Mivel a nap már 17:00 körül lebukik, az északi pontot még világosban érjük el, mielőtt a hőmérséklet hirtelen csökkenni kezdene az éjszakára.",
+            "ro": "În dimineața răcoroasă de iarnă începem pe plaja Pattaya, profitând de briza plăcută. La prânz vizităm locurile religioase care strălucesc în lumina clară a iernii. După-amiaza ne bucurăm de soarele blând pe Sunrise Beach. Deoarece soarele apune deja în jur de ora 17:00, ajungem la North Point la timp pentru ultima lumină a zilei.",
+            "en": "On a cooler winter morning, we start at Pattaya Beach with a refreshing breeze. At noon, we visit the religious sites, which glow in the clear winter light. Afternoon is spent enjoying the mild sun at Sunrise Beach. Since the sun sets around 5 PM, we reach North Point just in time for the last daylight before the cooler tropical night begins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pattaya Beach",
+                "hu": "Pattaya tengerpart",
+                "ro": "Plaja Pattaya",
+                "en": "Pattaya Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das kristallklare Wasser bei idealen Temperaturen; packen Sie ein dünnes Tuch für den Schattenplatz ein, da die Wintersonne täuschend intensiv ist.",
+                "hu": "Élvezze a kristálytiszta vizet az ideális hőmérséklet mellett; vigyen egy vékony kendőt az árnyékba, mert a téli nap csalókán intenzív lehet.",
+                "ro": "Bucurați-vă de apa cristalină la temperaturi ideale; luați o eșarfă subțire pentru umbră, deoarece soarele de iarnă este înșelător de intens.",
+                "en": "Enjoy the crystal-clear water at ideal temperatures; pack a thin sarong for shade as the winter sun can be deceptively intense even in the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Hantalay Tempel",
+                "hu": "Hantalay templom",
+                "ro": "Templul Hantalay",
+                "en": "Hantalay Temple"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Statuen leuchten prachtvoll unter dem wolkenlosen blauen Winterhimmel; kommen Sie früh, um die kühle Ruhe vor dem 17-Uhr-Sonnenuntergang zu nutzen.",
+                "hu": "A fehér szobrok pompásan ragyognak a felhőtlen kék téli égbolt alatt; érkezzen korán, hogy kiélvezze a hűvös nyugalmat a 17 órai naplemente előtt.",
+                "ro": "Statuile albe strălucesc magnific sub cerul senin de iarnă; veniți devreme pentru a profita de liniștea răcoroasă înainte de apusul de la ora 17.",
+                "en": "The white statues shine brilliantly under the cloudless blue winter sky; arrive early to catch the cool tranquility before the early 5 PM sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid el Marhamah",
+                "hu": "Masjid el Marhamah",
+                "ro": "Masjid el Marhamah",
+                "en": "Masjid el Marhamah"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gemeinde zur Mittagszeit, wenn die Brise durch die offenen Hallen weht; ein leichtes Langarmshirt schützt vor der kühlen Zugluft.",
+                "hu": "Látogasson el a közösséghez délidőben, amikor a szellő átjárja a nyitott csarnokokat; egy könnyű hosszú ujjú ing megvéd a hűvösebb huzattól.",
+                "ro": "Vizitați comunitatea la prânz, când briza trece prin halele deschise; o cămașă ușoară cu mânecă lungă vă va proteja de curentul răcoros.",
+                "en": "Visit the community at noon when the breeze flows through the open halls; a light long-sleeved shirt protects you from the slightly cool drafts."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunrise Beach",
+                "hu": "Napkelte part",
+                "ro": "Plaja Răsăritului",
+                "en": "Sunrise Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen langen Strandspaziergang ohne die extreme Sommerhitze; die Ebbe am Nachmittag legt weite, begehbare Sandbänke frei.",
+                "hu": "Tökéletes helyszín egy hosszú sétához a nyári hőség nélkül; a délutáni apály széles, bejárható homokpadokat tár fel a tiszta téli időben.",
+                "ro": "Locul perfect pentru o plimbare lungă fără căldura extremă a verii; refluxul de după-amiază scoate la iveală bancuri de nisip întinse și circulabile.",
+                "en": "Perfect for a long beach walk without the extreme summer heat; the afternoon low tide reveals wide, walkable sandbanks in the clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "North point beach",
+                "hu": "Északi pont strand",
+                "ro": "Plaja North point",
+                "en": "North point beach"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um das letzte Licht des Tages einzufangen; bringen Sie eine leichte Jacke mit, da es nach dem frühen Sonnenuntergang schnell abkühlt.",
+                "hu": "Ideális hely a nap utolsó fényeinek elcsípésére; vigyen egy könnyű dzsekit, mert a korai naplemente után gyorsan lehűl a levegő.",
+                "ro": "Locul ideal pentru a surprinde ultima lumină a zilei; aduceți o jachetă ușoară, deoarece se răcește rapid după apusul timpuriu de la ora 17.",
+                "en": "The ideal spot to catch the last light of the day; bring a light jacket as it cools down quickly after the early 5 PM sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpártúránk a Talo Izumi strand csendes partjainál kezdődik, amely tökéletes hely egy mély lélegzetvételre. Ezután kényelmesen áttekerünk a Su Ta strandra, ahol megérezhetjük a helyi halászok hagyományos életének hangulatát.\n\nDél körül kellemes árnyékot találunk a Sunset Beach fái alatt. A nap hőségét itt egy pihentető szünet keretében, a pezsgéstől távol, egy függőágyban hintázva a legkönnyebb elviselni.\n\nDélután a rejtett Ao Ta Lo So homoksávhoz kerekezünk, ami tökéletes helyszín egy könnyed piknikhez. A kis szigeten lévő rövid távolságok különösen élvezetessé és fáradságmentessé teszik a biciklizést.\n\nA nap lezárásaként a keleti Ao Khra öbölhöz érünk, ahol a tenger sekély és hívogató. Lábunkkal a meleg vízben, élvezzük a tenger morajlását, és hagyjuk, hogy az öböl békéje teljesen átjárjon minket.",
         "ro": "Turul nostru pe bicicletă începe pe țărmul liniștit al plajei Talo Izumi, locul perfect pentru a respira aer curat. Apoi pedalăm agale către plaja Su Ta, unde putem simți farmecul tradițional al pescarilor locali.\n\nLa prânz, găsim o umbră plăcută sub copacii de la Sunset Beach. Căldura zilei este cel mai bine tolerată aici printr-o pauză relaxantă, departe de agitația turistică, poate chiar într-un hamac confortabil.\n\nDupă-amiaza ne îndreptăm spre porțiunea de nisip ascunsă Ao Ta Lo So, ideală pentru o mică gustare. Distanțele scurte de pe această mică insulă fac ca mersul pe bicicletă să fie o adevărată plăcere fără efort.\n\nZiua noastră se încheie în est, la Ao Khra, unde marea este puțin adâncă și primitoare. Cu picioarele în apa caldă, ne lăsăm purtați de atmosfera absolut pașnică a acestui golf minunat.",
         "en": "Our bike ride begins on the quiet shores of Talo Izumi Beach, a perfect spot to take a deep breath. We then pedal leisurely over to Su Ta Beach, where the traditional island flair of local fishermen is truly palpable.\n\nBy midday, we find pleasant shade under the trees at Sunset Beach. The heat of the day is best endured here during a relaxing break far away from the hustle and bustle, perhaps swinging gently in a hammock.\n\nIn the afternoon, we cycle to the hidden sand strip of Ao Ta Lo So, which is ideal for a light snack. The short distances across this small island make cycling around incredibly pleasant and virtually effortless.\n\nWe conclude our day at the eastern bay of Ao Khra, where the sea is shallow and highly inviting. With our feet in the warm water, we allow the peaceful atmosphere of the bay to completely wash over us."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten vorsichtig am Talo Izumi Beach, da die Wege rutschig sein können. Mittags nutzen wir die Pausen zwischen den Schauern am Su Ta und Sunset Beach, um in Strandbars unterzuschlüpfen. Nachmittags fahren wir zum Ao Ta Lo So, immer mit Blick auf den Himmel. Die Tour endet am Ao Khra, wobei wir Pfützen meiden und rechtzeitig vor dem nächsten starken Guss einkehren.",
+            "hu": "Óvatosan indulunk a Talo Izumi strandról, mivel az utak csúszósak lehetnek. Délben a záporok közötti szüneteket kihasználva tekerünk a Su Ta és Naplemente partokhoz, ahol bárokban bújunk el. Délután az Ao Ta Lo So felé vesszük az irányt, figyelve az eget. A túra az Ao Khra-nál ér véget, kerülgetve a pocsolyákat és még az újabb felhőszakadás előtt megállva.",
+            "ro": "Pornim cu atenție de la plaja Talo Izumi, deoarece drumurile pot fi alunecoase. La prânz profităm de pauzele dintre averse la plajele Su Ta și Sunset pentru a ne adăposti în baruri. După-amiaza pedalăm spre Ao Ta Lo So, mereu cu ochii pe cer. Turul se încheie la Ao Khra, evitând bălțile și oprindu-ne înainte de următoarea ploaie torențială.",
+            "en": "We start carefully from Talo Izumi Beach as the paths can be slippery. At noon, we use the gaps between showers at Su Ta and Sunset Beach to hop between sheltered bars. In the afternoon, we bike to Ao Ta Lo So, keeping a constant eye on the clouds. The tour ends at Ao Khra, avoiding large puddles and finishing before the next heavy downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Talo Izumi Beach",
+                "hu": "Talo Izumi strand",
+                "ro": "Plaja Talo Izumi",
+                "en": "Talo Izumi Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf den nassen Betonwegen; die Palmen bieten einen natürlichen Regenschutz für kurze Pausen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes betonutak miatt; a pálmafák természetes esővédelmet nyújtanak a rövid pihenők idejére.",
+                "ro": "Verificați frânele înainte de a porni pe drumurile umede de beton; palmierii oferă o protecție naturală împotriva ploii pentru pauze scurte.",
+                "en": "Check your bike brakes before starting on the wet concrete paths; the thick palms provide natural rain cover for very short breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Ta Beach",
+                "hu": "Su Ta strand",
+                "ro": "Plaja Su Ta",
+                "en": "Su Ta Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zwischen den Schauern bringt Sie zu den gemütlichen Bambushütten; tragen Sie helle Kleidung, um bei grauem Wetter gesehen zu werden.",
+                "hu": "Egy gyors sprint a záporok között eljuttatja a hangulatos bambuszkunyhókhoz; viseljen világos ruhát, hogy a szürke időben is jól látható maradjon.",
+                "ro": "Un sprint scurt între averse vă va duce la colibele primitoare de bambus; purtați haine deschise la culoare pentru a fi vizibil pe vreme gri.",
+                "en": "A quick sprint between showers gets you to the cozy bamboo huts; wear bright colors to remain visible to others in the grey, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Beach",
+                "hu": "Naplemente part",
+                "ro": "Plaja Apusului",
+                "en": "Sunset Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einem der Restaurants mit Blick auf die aufgewühlte Bucht; der sandige Boden am Wegrand kann bei Regen sehr weich sein.",
+                "hu": "Keressen menedéket az egyik étteremben, ahonnan rálátni a felkavart öbölre; az útmenti homokos talaj esőben nagyon felpuhulhat.",
+                "ro": "Căutați adăpost într-unul dintre restaurantele cu vedere la golful agitat; solul nisipos de pe marginea drumului poate deveni foarte moale la ploaie.",
+                "en": "Find shelter in a restaurant overlooking the churned-up bay; be careful as the sandy soil on the road edges can become very soft and unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Ta Lo So",
+                "hu": "Ao Ta Lo So",
+                "ro": "Ao Ta Lo So",
+                "en": "Ao Ta Lo So"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Umgebung wirkt im Regen dramatisch; parken Sie das Fahrrad auf befestigtem Grund, damit es im Matsch nicht umkippt.",
+                "hu": "A sziklás környezet drámai látványt nyújt az esőben; parkolja a biciklit szilárd talajra, hogy a sárban ne dőljön fel a jármű.",
+                "ro": "Cadrul stâncos arată dramatic în ploaie; parcați bicicleta pe teren solid pentru a preveni răsturnarea acesteia în noroi.",
+                "en": "The rocky surroundings look dramatic in the rain; park your bike on firm ground to prevent it from tipping over in the muddy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khra",
+                "hu": "Ao Khra",
+                "ro": "Ao Khra",
+                "en": "Ao Khra"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier und genießen Sie den Klang des Regens auf dem Wasser; ein trockenes T-Shirt im Rucksack ist nach der Fahrt Gold wert.",
+                "hu": "Zárja itt a túrát, és hallgassa az eső kopogását a vízen; egy száraz póló a hátizsákban aranyat ér a nedves tekerés után.",
+                "ro": "Încheiați turul aici și ascultați sunetul ploii pe apă; un tricou uscat în rucsac este extrem de util după o plimbare prin ploaie.",
+                "en": "Finish your tour here and listen to the rain hitting the water; having a dry T-shirt in your backpack is a lifesaver after a damp ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Talo Izumi Beach ist ideal für Radfahrer, da die Luft trocken und kühl ist. Mittags radeln wir entspannt zum Su Ta und Sunset Beach, ohne ins Schwitzen zu kommen. Nachmittags erkunden wir Ao Ta Lo So im milden Licht. Wir beenden die Tour am Ao Khra rechtzeitig vor 17:00 Uhr, da es im Winter im Waldgebiet der Insel nach Sonnenuntergang schnell dunkel wird.",
+            "hu": "A téli reggel a Talo Izumi strandon ideális a biciklizéshez a száraz, hűvös levegő miatt. Délben kényelmesen tekerünk a Su Ta és Naplemente partokhoz anélkül, hogy megizzadnánk. Délután az Ao Ta Lo So környékét fedezzük fel a lágy fényekben. A túrát az Ao Khra-nál zárjuk még 17:00 előtt, mert az erdős részeken gyorsan besötétedik a naplemente után.",
+            "ro": "Dimineața de iarnă la plaja Talo Izumi este ideală pentru bicicliști datorită aerului uscat și răcoros. La prânz pedalăm relaxați spre plajele Su Ta și Sunset fără a transpira excesiv. După-amiaza explorăm Ao Ta Lo So în lumina blândă. Încheiem turul la Ao Khra înainte de ora 17:00, deoarece în zonele împădurite se întunecă rapid.",
+            "en": "The winter morning at Talo Izumi Beach is perfect for cycling as the air is dry and cool. At noon, we enjoy a relaxed ride to Su Ta and Sunset Beach without breaking a sweat. In the afternoon, we explore Ao Ta Lo So in the mild light. We finish at Ao Khra well before 5 PM, as the island's wooded areas get dark very quickly after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Talo Izumi Beach",
+                "hu": "Talo Izumi strand",
+                "ro": "Plaja Talo Izumi",
+                "en": "Talo Izumi Beach"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht das Treten leicht; nutzen Sie die frühen Stunden für die anstrengenderen Steigungen der Insel.",
+                "hu": "A hűvös reggeli levegő megkönnyíti a tekerést; használja ki a korai órákat a sziget fárasztóbb emelkedőinek leküzdésére.",
+                "ro": "Aerul răcoros de dimineață face pedalatul ușor; folosiți primele ore ale zilei pentru pantele mai solicitante de pe insulă.",
+                "en": "The cool morning air makes pedaling effortless; use these early hours to tackle the more strenuous uphill sections of the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Ta Beach",
+                "hu": "Su Ta strand",
+                "ro": "Plaja Su Ta",
+                "en": "Su Ta Beach"
+              },
+              "tip_5lang": {
+                "de": "Das türkisfarbene Wasser leuchtet im klaren Winterlicht besonders intensiv; trinken Sie trotz der Kühle ausreichend Wasser während der Fahrt.",
+                "hu": "A türkizkék víz különösen intenzíven ragyog a tiszta téli fényben; a hűvösebb idő ellenére is igyon elég vizet a tekerés közben.",
+                "ro": "Apa turcoaz strălucește intens în lumina clară de iarnă; beți suficientă apă în timpul plimbării, în ciuda temperaturilor mai scăzute.",
+                "en": "The turquoise water glows intensely in the clear winter light; remember to drink enough water during your ride despite the cooler feel."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset Beach",
+                "hu": "Naplemente part",
+                "ro": "Plaja Apusului",
+                "en": "Sunset Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein schattiger Platz für das Fahrrad ist auch im Winter wichtig; die Sonne erreicht am frühen Nachmittag hier ihren Höchststand.",
+                "hu": "Télen is fontos egy árnyékos hely a bicikli számára; a nap kora délután éri el itt a legmagasabb pontját, használja ki a természetes árnyékot.",
+                "ro": "Un loc umbrit pentru bicicletă este important și iarna; soarele atinge apogeul aici la începutul după-amiezii, deci profitați de umbră.",
+                "en": "A shady spot for your bike is important even in winter; the sun reaches its peak here in the early afternoon, so utilize natural cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Ta Lo So",
+                "hu": "Ao Ta Lo So",
+                "ro": "Ao Ta Lo So",
+                "en": "Ao Ta Lo So"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Bucht zu Fuß, während das Fahrrad sicher parkt; die milden Temperaturen laden zu kleinen Kletterpartien auf den Felsen ein.",
+                "hu": "Fedezze fel az öblöt gyalog, miközben a bicikli biztonságban parkol; a milde hőmérséklet kedvez a sziklákon való kisebb mászásoknak.",
+                "ro": "Explorați golful pe jos în timp ce bicicleta este parcată în siguranță; temperaturile blânde sunt ideale pentru scurte cățărări pe stânci.",
+                "en": "Explore the bay on foot while your bike is securely parked; the mild winter temperatures are perfect for light climbing on the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Khra",
+                "hu": "Ao Khra",
+                "ro": "Ao Khra",
+                "en": "Ao Khra"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt vor 17:00 Uhr ein, da die Dämmerung im Winter sehr kurz ist; Funktionskleidung hilft gegen den Fahrtwind am Abend.",
+                "hu": "Tervezze meg a visszautat 17:00 előtt, mert a téli szürkület nagyon rövid; a technikai ruházat segít a hűvös esti menetszél ellen.",
+                "ro": "Planificați drumul de întoarcere înainte de ora 17, deoarece amurgul este scurt iarna; hainele tehnice vă protejează de vântul de seară.",
+                "en": "Plan your return trip before 5 PM as the winter twilight is very brief; wearing layered clothing helps against the cool evening wind."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "A motoros közlekedéssel először a távoli Ao Kwam Lup Li Pe strandot érjük el a reggeli órákban. Ennek a sziklás partszakasznak a magánya tökéletes kezdés a természet szerelmeseinek, majd a szomszédos Pantai Galah strand gondtalan légkörét is megtapasztalhatjuk.\n\nKésőbb délelőtt áttérünk a Sa Nom strand csendes öblébe, ahol a finom homok hosszas maradásra csábít. Ennek a kis enklávénak a pihentető hangulata tökéletes ellentéte a kora reggeli, sokkal vadabb partszakaszoknak.\n\nEbéd után egy kicsit hosszabb útra indulunk a zord északra, az Ao A Yi Ang strandra. Itt a tenger valamivel erősebben csapkodja a partot, drámai képeket nyújtva, amelyek a sziget vad és érintetlen szívét tükrözik vissza.\n\nVégül kényelmesen eljutunk a jól ismert Sunrise Beach-re, melynek végtelen homokos partja délután nagyon hívogató. Egy hideg ital mellett a parton, kényelmesen felelevenítjük a szigettúra során szerzett csodálatos és változatos élményeket.",
         "ro": "Folosind transportul motorizat, ajungem prima dată dimineața la izolata plajă Ao Kwam Lup Li Pe. Singurătatea pe această coastă stâncoasă este începutul perfect pentru iubitorii de natură, iar chiar alături plaja Pantai Galah oferă o atmosferă complet lipsită de griji.\n\nMai târziu în cursul dimineții ne mutăm în golful liniștit de la plaja Sa Nom, unde nisipul fin te invită să zăbovești. Farmecul relaxat al acestei mici enclave este contrastul perfect cu secțiunile de coastă mult mai sălbatice de la primele ore.\n\nDupă prânz, facem o călătorie ceva mai lungă spre nordul accidentat până la plaja Ao A Yi Ang. Aici, marea se lovește cu mai multă forță de coastă, oferind peisaje dramatice care reflectă inima cu adevărat sălbatică a insulei.\n\nLa final, ne îndreptăm confortabil spre faimoasa Sunrise Beach, a cărei întindere de nisip te atrage instantaneu după-amiaza. Savurând o băutură rece pe mal, trecem în revistă relaxați impresiile variate și frumoase din turul nostru pe insulă.",
         "en": "Using motorized transport, we first reach the remote Ao Kwam Lup Li Pe early in the morning. The absolute solitude along this rocky stretch of coast is the perfect start for nature lovers, and right next door, Pantai Galah Beach offers a totally carefree atmosphere.\n\nLater in the morning, we transition to the incredibly quiet bay of Sa Nom Beach, where the fine sand practically begs you to linger. The deeply relaxed flair of this tiny enclave provides a perfect contrast to the wilder coastlines seen earlier.\n\nAfter lunch, we take a slightly longer drive to the rugged north to explore Ao A Yi Ang Beach. Here, the sea crashes a bit more powerfully against the shore, providing dramatic views that perfectly reflect the island's wild, untamed heart.\n\nTo conclude, we cruise comfortably to the famous Sunrise Beach, whose endless sandy expanse is highly inviting in the afternoon. Enjoying a cold drink right on the shore, we lazily review the beautifully diverse impressions gathered throughout our island tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Taxi-Fahrzeug starten wir trocken am Ao Kwam Lup Li Pe. Mittags erkunden wir die abgelegenen Strände wie Ao Ka La und Sa Nom Beach, während es draußen schüttet. Das Auto bietet uns perfekten Schutz. Nachmittags besuchen wir Ao A Yi Ang im Inselinneren. Wir beenden die Tour am Sunrise Beach und genießen den Blick auf den Regen über dem Ozean aus dem sicheren Fahrzeug.",
+            "hu": "A taxi-járművel szárazon indulunk az Ao Kwam Lup Li Pe öböltől. Délben a távoli strandokat, mint az Ao Ka La és Sa Nom partokat fedezzük fel, miközben odakint szakad az eső. Az autó tökéletes védelmet nyújt. Délután a sziget belseje felé, az Ao A Yi Ang-hoz látogatunk. A túrát a Napkelte parton zárjuk, az autó biztonságából szemlélve az óceán feletti esőt.",
+            "ro": "Pornim uscați cu vehiculul taxi de la Ao Kwam Lup Li Pe. La prânz explorăm plajele izolate precum Ao Ka La și Sa Nom în timp ce afară plouă torențial. Mașina ne oferă protecție perfectă. După-amiaza vizităm Ao A Yi Ang în interiorul insulei. Încheiem turul la Sunrise Beach, admirând ploaia deasupra oceanului din siguranța vehiculului.",
+            "en": "We start dry in our taxi vehicle from Ao Kwam Lup Li Pe. At noon, we explore secluded beaches like Ao Ka La and Sa Nom while it pours outside. The car provides the perfect mobile shelter. In the afternoon, we visit Ao A Yi Ang in the island's interior. We finish at Sunrise Beach, enjoying the view of the rain over the ocean from the safety of our vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Kwam Lup Li Pe",
+                "hu": "Ao Kwam Lup Li Pe",
+                "ro": "Ao Kwam Lup Li Pe",
+                "en": "Ao Kwam Lup Li Pe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort des Wagens, um diese schwer erreichbare Bucht bei Regen zu sehen; bitten Sie den Fahrer, nah am überdachten Bereich zu halten.",
+                "hu": "Használja ki a jármű kényelmét, hogy esőben is láthassa ezt a nehezen megközelíthető öblöt; kérje a sofőrt, hogy a fedett részhez közel álljon meg.",
+                "ro": "Folosiți confortul mașinii pentru a vedea acest golf greu accesibil pe ploaie; rugați șoferul să oprească aproape de zonele acoperite.",
+                "en": "Use the vehicle's comfort to see this hard-to-reach bay during rain; ask your driver to park as close to the sheltered areas as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Ka La - Pantai Galah Beach",
+                "hu": "Ao Ka La - Pantai Galah strand",
+                "ro": "Plaja Ao Ka La - Pantai Galah",
+                "en": "Ao Ka La - Pantai Galah Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei grauem Himmel fast mystisch verlassen; bleiben Sie im Auto, um die Aussicht zu genießen, wenn der Guss zu stark wird.",
+                "hu": "A strand szinte misztikusan elhagyatott a szürke égbolt alatt; maradjon az autóban az élményért, ha a felhőszakadás túl intenzívvé válik.",
+                "ro": "Plaja pare aproape mistic de pustie sub cerul gri; rămâneți în mașină pentru a admira priveliștea dacă aversa devine prea puternică.",
+                "en": "The beach looks almost mystically deserted under grey skies; stay inside the car to enjoy the view if the downpour becomes too intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Sa Nom Beach",
+                "hu": "Sa Nom strand",
+                "ro": "Plaja Sa Nom",
+                "en": "Sa Nom Beach"
+              },
+              "tip_5lang": {
+                "de": "Die hölzernen Stege können bei Nässe extrem rutschig sein; lassen Sie sich vom Taxi direkt am festen Weg absetzen, um Pfützen zu vermeiden.",
+                "hu": "A fa pallók nedvesen rendkívül csúszósak lehetnek; kérje, hogy a taxi a szilárd útnál tegye le, így elkerülheti a mély pocsolyákat.",
+                "ro": "Pasarelele de lemn pot fi extrem de alunecoase când sunt ude; lăsați-vă lăsat de taxi direct la drumul solid pentru a evita bălțile mari.",
+                "en": "The wooden walkways can be extremely slippery when wet; have the taxi drop you at the firm road to avoid walking through deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao A Yi Ang Beach",
+                "hu": "Ao A Yi Ang strand",
+                "ro": "Plaja Ao A Yi Ang",
+                "en": "Ao A Yi Ang Beach"
+              },
+              "tip_5lang": {
+                "de": "Diese abgelegene Bucht ist im Regen ein Juwel der Ruhe; ein Regenschirm ist für den kurzen Weg vom Auto zum Wasser empfehlenswert.",
+                "hu": "Ez az eldugott öböl az esőben a nyugalom ékköve; egy esernyő ajánlott az autó és a vízpart közötti rövid szakasz megtételéhez.",
+                "ro": "Acest golf retras este o bijuterie a liniștii pe ploaie; o umbrelă este recomandată pentru drumul scurt de la mașină până la apă.",
+                "en": "This secluded bay is a jewel of tranquility in the rain; an umbrella is recommended for the short walk from the car to the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunrise Beach",
+                "hu": "Napkelte part",
+                "ro": "Plaja Răsăritului",
+                "en": "Sunrise Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wetterspiel über den Nachbarinseln vom Rücksitz aus; halten Sie ein trockenes Handtuch bereit, falls Sie kurz aussteigen.",
+                "hu": "Figyelje a szomszédos szigetek feletti időjárást a hátsó ülésről; tartson kéznél egy száraz törölközőt, ha rövid időre kiszállna körülnézni.",
+                "ro": "Admirați spectacolul vremii deasupra insulelor vecine de pe bancheta din spate; aveți un prosop uscat la îndemână dacă coborâți scurt.",
+                "en": "Watch the weather play out over the neighboring islands from the back seat; keep a dry towel handy if you decide to hop out briefly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen fahren wir bequem zum Ao Kwam Lup Li Pe. Mittags nutzen wir das Auto, um schnell zwischen den sonnigen Buchten wie Ao Ka La und Sa Nom zu wechseln. Nachmittags erreichen wir mühelos den entlegenen Ao A Yi Ang. Die Tour endet am Sunrise Beach pünktlich zum frühen Sonnenuntergang um 17:00 Uhr, bevor wir uns in ein warmes Restaurant zurückziehen.",
+            "hu": "Egy tiszta téli reggelen kényelmesen autózunk az Ao Kwam Lup Li Pe öbölhöz. Délben a járművel gyorsan váltunk a napfényes öblök, mint az Ao Ka La és Sa Nom között. Délután könnyedén elérjük a távoli Ao A Yi Ang-ot. A túra a Napkelte parton ér véget a korai, 17:00-as naplemente idején, mielőtt betérnénk egy hangulatos étterembe.",
+            "ro": "Într-o dimineață senină de iarnă conducem confortabil spre golful Ao Kwam Lup Li Pe. La prânz folosim vehiculul pentru a schimba rapid golful însorit, de la Ao Ka La la Sa Nom. După-amiaza ajungem fără efort la îndepărtatul Ao A Yi Ang. Turul se încheie la Sunrise Beach la ora 17:00, exact la timp pentru apusul timpuriu.",
+            "en": "On a clear winter morning, we drive comfortably to Ao Kwam Lup Li Pe. At noon, we use the car to zip between sunny bays like Ao Ka La and Sa Nom. In the afternoon, we effortlessly reach the distant Ao A Yi Ang. The tour ends at Sunrise Beach just in time for the early 5 PM sunset, before retreating to a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Kwam Lup Li Pe",
+                "hu": "Ao Kwam Lup Li Pe",
+                "ro": "Ao Kwam Lup Li Pe",
+                "en": "Ao Kwam Lup Li Pe"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Morgenfrische ist perfekt für Fotos; nutzen Sie das Auto, um vor dem Eintreffen der großen Massen hier zu sein.",
+                "hu": "A téli reggeli frissesség tökéletes a fotózáshoz; használja ki a járművet, hogy még a nagyobb tömeg érkezése előtt itt lehessen a parton.",
+                "ro": "Prospețimea dimineții de iarnă este perfectă pentru fotografii; folosiți vehiculul pentru a ajunge aici înainte de masele de turiști.",
+                "en": "The winter morning freshness is perfect for photography; use the vehicle to arrive here before the main crowds reach this secluded spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Ka La - Pantai Galah Beach",
+                "hu": "Ao Ka La - Pantai Galah strand",
+                "ro": "Plaja Ao Ka La - Pantai Galah",
+                "en": "Ao Ka La - Pantai Galah Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht im Winter tiefer und sorgt für weiches Licht am Strand; cremen Sie sich trotzdem ein, da der Wind die Hitze überdeckt.",
+                "hu": "A nap télen alacsonyabban jár, ami lágy fényeket biztosít a parton; ennek ellenére használjon naptejet, mert a szél elnyomja a hőség érzetét.",
+                "ro": "Soarele stă mai jos iarna, oferind o lumină blândă pe plajă; totuși, folosiți cremă solară, deoarece briza maschează intensitatea căldurii.",
+                "en": "The winter sun sits lower, providing soft light on the sand; still, apply sunscreen as the cool breeze masks the actual heat intensity."
+              }
+            },
+            {
+              "name": {
+                "de": "Sa Nom Beach",
+                "hu": "Sa Nom strand",
+                "ro": "Plaja Sa Nom",
+                "en": "Sa Nom Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Mittagspause im Freien; die milden Wintertemperaturen machen das Sitzen am Strand auch zur Mittagszeit angenehm.",
+                "hu": "Ideális helyszín egy szabadtéri ebédhez; a milde téli hőmérséklet a tengerparti ücsörgést délidőben is rendkívül kellemessé teszi.",
+                "ro": "Locul ideal pentru un prânz în aer liber; temperaturile blânde de iarnă fac șederea pe plajă foarte plăcută chiar și la ora prânzului.",
+                "en": "An ideal location for an outdoor lunch; the mild winter temperatures make sitting on the beach very pleasant even at high noon."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao A Yi Ang Beach",
+                "hu": "Ao A Yi Ang strand",
+                "ro": "Plaja Ao A Yi Ang",
+                "en": "Ao A Yi Ang Beach"
+              },
+              "tip_5lang": {
+                "de": "Durch die Fahrt sparen Sie Energie für einen ausgiebigen Schnorchelgang; das Wasser ist im Winter besonders ruhig und klar.",
+                "hu": "Az autózással energiát spórolhat egy alapos sznorkelezéshez; a tenger vize télen különösen nyugodt és kristálytiszta ezen a részen.",
+                "ro": "Prin deplasarea cu mașina economisiți energie pentru snorkeling; apa mării este deosebit de calmă și limpede în timpul iernii aici.",
+                "en": "By driving, you save energy for a proper snorkeling session; the sea water is exceptionally calm and crystal clear during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunrise Beach",
+                "hu": "Napkelte part",
+                "ro": "Plaja Răsăritului",
+                "en": "Sunrise Beach"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor 17:00 Uhr für den Sonnenuntergang; halten Sie eine dünne Jacke bereit, wenn Sie den Wagen für den Abend verlassen.",
+                "hu": "Érkezzen a partra 17:00 előtt a naplemente megtekintéséhez; tartson készenlétben egy vékony dzsekit az autóban az estére.",
+                "ro": "Ajungeți pe plajă înainte de ora 17 pentru apus; aveți pregătită o jachetă subțire în mașină pentru momentul când coborâți seara.",
+                "en": "Reach the beach before 5 PM to catch the early sunset; keep a light jacket ready in the car for when you head out for the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

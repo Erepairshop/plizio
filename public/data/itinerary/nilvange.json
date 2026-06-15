@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a régió ipari gyökereinek felfedezésével az egykori bányában. Ezután sétáljon át a történelmi kastélyhoz, hogy megcsodálja elegáns szerkezetét és nemesi múltját.\nDélben tartson spirituális szünetet a feltűnő protestáns templomban, amelyet a Saint-Charles templom gyönyörű katolikus építészete követ. Fogyasszon el egy finom ebédet a közelben.\nDélután folytassa sétáját a békés Szentháromság-kápolna felé. Szánjon időt a bájos részletek fotózására, mielőtt a város kulturális központja felé venné az irányt.\nFejezze be a sétát a Le Gueulard Plus kortárs hangulatában, az estét pedig a Nagy Szent Jakab-templom freskóinak megcsodálásával zárja a naplemente fényeiben.",
         "ro": "Începeți dimineața explorând rădăcinile industriale profunde ale regiunii la fosta mină a păcii. Apoi, plimbați-vă până la castelul istoric pentru a admira structura sa elegantă și trecutul nobil.\nMiezul zilei aduce o pauză spirituală la uimitorul templu protestant, urmată de arhitectura catolică superbă a bisericii Saint-Charles. Bucurați-vă de prânz în apropiere.\nDupă-amiaza, continuați plimbarea spre capela senină a Sfintei Treimi. Luați-vă timp pentru a fotografia detaliile sale fermecătoare înainte de a vă îndrepta spre inima culturală.\nÎncheiați turul la Le Gueulard Plus pentru a absorbi vibrațiile contemporane, terminând seara admirând frescele Bisericii Sfântul Iacob cel Mare la apus.",
         "en": "Start your morning exploring the deep industrial roots of the region at the former peace mine. Afterwards, walk over to the historic castle to admire its elegant structure and noble past.\nMidday brings a spiritual pause as you visit the striking Protestant temple, followed by the beautiful Catholic architecture of Saint-Charles church. Enjoy lunch nearby.\nIn the afternoon, continue your stroll to the serene Holy Trinity chapel. Take time to photograph its charming details before heading towards the town's cultural heart.\nConclude your walking tour at Le Gueulard Plus to soak in contemporary vibes, finishing the evening admiring the frescoes of Saint James the Greater Church as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die alte Mine, wo der Regen die rostigen Metallstrukturen in ein glänzendes Licht taucht. Mittags bieten die Kirchen der Stadt willkommene trockene Rückzugsorte und architektonische Stille. Am Nachmittag besuchen wir das Le Gueulard Plus, um moderne Kultur im Trockenen zu erleben. Abends spazieren wir zur St. James Kirche, während sich die Lichter in den nassen Straßen spiegeln.",
+            "hu": "Reggel az egykori bánya komor falai között kezdünk, ahol az eső kopogása felerősíti az ipari múlt hangulatát. Délben a város templomai kínálnak menedéket a záporok elől, miközben megcsodáljuk az építészeti részleteket. Délután a Le Gueulard Plus kulturális központja nyújt fedett programot a nedves utcák helyett. Az estét a Szent Jakab templom mellett zárjuk, figyelve a tócsákban tükröződő fényeket.",
+            "ro": "Dimineața explorăm vechea mină, unde ploaia scoate în evidență texturile industriale ruginite sub un cer gri dramatic. La prânz, bisericile orașului oferă adăpost uscat și o atmosferă liniștită pentru reculegere. După-amiaza vizităm centrul cultural Le Gueulard Plus, evitând străzile ude pentru o experiență modernă la interior. Seara se încheie la biserica Sf. Iacob, admirând reflexiile luminilor pe asfaltul umed.",
+            "en": "In the morning, we explore the old mine where the rain enhances the metallic glints of the industrial heritage. At noon, the town's churches provide welcome dry havens while we admire their architectural details. In the afternoon, Le Gueulard Plus offers a covered cultural experience away from the damp streets. The evening ends at St. James Church, watching the city lights shimmer in the puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancienne mine de la paix",
+                "hu": "Ancienne mine de la paix",
+                "ro": "Ancienne mine de la paix",
+                "en": "Ancienne mine de la paix"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das industrielle Erbe unter Ihrem Regenschirm und achten Sie auf die rutschigen Metallteile an den alten Anlagen auf dem Außengelände.",
+                "hu": "Fedezze fel az ipari örökséget az esernyője alatt, és ügyeljen a régi berendezések csúszós fémfelületeire a bánya területén való sétálás közben.",
+                "ro": "Explorați moștenirea industrială sub umbrelă, având mare grijă la suprafețele metalice alunecoase ale vechilor instalații miniere de pe traseu.",
+                "en": "Explore the industrial heritage under your umbrella and watch out for the slippery metal parts on the old installations throughout the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Nilvange Castle",
+                "hu": "Nilvange Castle",
+                "ro": "Nilvange Castle",
+                "en": "Nilvange Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schlossfassade vom Schutz der Bäume aus und nutzen Sie den asphaltierten Weg, um nasse Füße im hohen Gras zu vermeiden.",
+                "hu": "Csodálja meg a kastély homlokzatát a fák védelméből, és használja az aszfaltozott utat, hogy elkerülje a vizes füvet a park látogatása során.",
+                "ro": "Admirați fațada castelului de la adăpostul copacilor și folosiți aleea asfaltată pentru a evita iarba udă în timpul plimbării prin parc.",
+                "en": "Admire the castle facade from the shelter of the trees and stay on the paved path to avoid getting your feet wet in the long grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple protestant",
+                "hu": "Temple protestant",
+                "ro": "Temple protestant",
+                "en": "Temple protestant"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine kurze Verschnaufpause im Trockenen und betrachten Sie die schlichte Architektur fernab des Regens.",
+                "hu": "Használja ki a belső teret egy rövid, száraz pihenőre, és csodálja meg a letisztult építészeti formákat az esőtől távol, fedett helyen.",
+                "ro": "Folosiți interiorul pentru un scurt moment de odihnă la uscat și admirați arhitectura simplă departe de ploaia de afară.",
+                "en": "Take advantage of the interior for a short break in the dry and admire the clean architectural lines away from the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Charles",
+                "hu": "Église Saint-Charles",
+                "ro": "Église Saint-Charles",
+                "en": "Église Saint-Charles"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Buntglasfenster, die auch bei grauem Himmel leuchten, und genießen Sie die spirituelle Ruhe in diesem geschützten Raum.",
+                "hu": "Nézze meg a színes üvegablakokat, amelyek szürke égbolt mellett is ragyognak, és élvezze a lelki nyugalmat ebben a védett belső térben.",
+                "ro": "Admirați vitraliile colorate care strălucesc chiar și sub un cer gri și bucurați-vă de liniștea spirituală în acest spațiu protejat.",
+                "en": "View the stained glass windows that glow even under grey skies and enjoy the spiritual peace within this well-protected indoor space."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "hu": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "ro": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "en": "Chapelle de la Sainte-Trinité et Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle bietet einen schnellen Unterschlupf; klopfen Sie Ihre Schuhe am Eingang ab, um den Boden nicht rutschig zu machen.",
+                "hu": "Ez a kis kápolna gyors menedéket nyújt az eső elől; érkezéskor verje le a sarat a cipőjéről, hogy ne legyen csúszós a padló.",
+                "ro": "Această mică capelă oferă un adăpost rapid; scuturați-vă încălțămintea la intrare pentru a nu face podeaua interioară alunecoasă.",
+                "en": "This small chapel offers a quick shelter from the rain; wipe your shoes at the entrance to avoid making the floor slippery inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Gueulard Plus",
+                "hu": "Le Gueulard Plus",
+                "ro": "Le Gueulard Plus",
+                "en": "Le Gueulard Plus"
+              },
+              "tip_5lang": {
+                "de": "Informieren Sie sich über aktuelle Ausstellungen im Foyer, um die Zeit im Trockenen sinnvoll zu nutzen, während es draußen regnet.",
+                "hu": "Tájékozódjon az aktuális kiállításokról az előtérben, hogy hasznosan töltse az időt fedett helyen, amíg kint szakad az eső.",
+                "ro": "Informați-vă despre expozițiile curente din foaier pentru a petrece timpul util la interior în timp ce afară plouă torențial.",
+                "en": "Check out the current exhibitions in the foyer to spend your time wisely indoors while the heavy rain continues outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint James the Greater Church",
+                "hu": "Saint James the Greater Church",
+                "ro": "Saint James the Greater Church",
+                "en": "Saint James the Greater Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im weitläufigen Kirchenschiff, das eine warme Atmosphäre bietet, während der Regen gegen die hohen Fenster trommelt.",
+                "hu": "Zárja a napot a tágas templomhajóban, amely barátságos hangulatot áraszt, miközben az eső a magas ablakokon dobol.",
+                "ro": "Încheiați ziua în nava spațioasă a bisericii, care oferă o atmosferă caldă în timp ce ploaia bate în ferestrele înalte.",
+                "en": "End your day in the spacious nave, which offers a warm atmosphere while the rain drums against the high church windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im frostigen Morgenlicht wirken die Bergbauüberreste besonders mystisch und rau. Mittags spazieren wir gut eingepackt am Schloss vorbei, wo die kahlen Bäume weite Ausblicke ermöglichen. Am Nachmittag suchen wir die Wärme in den Kirchenbänken der Stadt, bevor die Sonne früh untergeht. Den Abend verbringen wir in der beleuchteten Innenstadt, wo die Kälte durch das warme Licht der Laternen gemildert wird.",
+            "hu": "A téli reggel csípős levegőjében a bánya maradványai misztikus látványt nyújtanak a zúzmarás tájban. Délben a kastély mellett sétálunk, rétegesen öltözve a hideg szél ellen, élvezve a kopár fák közötti kilátást. Délután a templomok padjai között keresünk oltalmat a korai sötétedés előtt. Az este a kivilágított belvárosban ér minket, ahol a lámpafények barátságossá teszik a fagyos időt.",
+            "ro": "În lumina înghețată a dimineții, rămășițele miniere par mistice și brute sub un strat subțire de chiciură. La prânz ne plimbăm pe lângă castel, bine îmbrăcați împotriva vântului rece, profitând de vizibilitatea sporită printre copacii desfrunziți. După-amiaza căutăm căldură în bisericile orașului înainte de apusul timpuriu. Seara o petrecem în centrul luminat, unde frigul este domolit de lumina caldă a felinarelor.",
+            "en": "In the frosty morning light, the mining remains look particularly mystical and raw. At noon, we walk past the castle well-layered against the cold wind, enjoying clear views through the bare trees. In the afternoon, we seek warmth in the town's churches before the sun sets early. The evening is spent in the illuminated center, where the cold is softened by the warm glow of the streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancienne mine de la paix",
+                "hu": "Ancienne mine de la paix",
+                "ro": "Ancienne mine de la paix",
+                "en": "Ancienne mine de la paix"
+              },
+              "tip_5lang": {
+                "de": "Die rostigen Strukturen der Mine wirken im Winterfrost besonders markant; tragen Sie feste Stiefel für den gefrorenen Boden.",
+                "hu": "A bánya rozsdás szerkezetei különösen markánsak a téli fagyban; viseljen vastag talpú bakancsot a fagyott talajon való közlekedéshez.",
+                "ro": "Structurile ruginite ale minei par dramatice în gerul iernii; poartă bocanci robuști pentru a merge în siguranță pe solul înghețat.",
+                "en": "The rusty structures of the mine look particularly striking in the winter frost; wear sturdy boots for the frozen ground on site."
+              }
+            },
+            {
+              "name": {
+                "de": "Nilvange Castle",
+                "hu": "Nilvange Castle",
+                "ro": "Nilvange Castle",
+                "en": "Nilvange Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Parkwegen und genießen Sie den Blick auf das Schloss ohne störendes Laub an den Bäumen.",
+                "hu": "Ügyeljen a jeges foltokra a parki ösvényeken, és élvezze a kastélyra nyíló kilátást, amelyet ilyenkor nem takarnak el a levelek.",
+                "ro": "Atenție la porțiunile înghețate de pe aleile parcului și bucurați-vă de vederea spre castel, care nu mai este ascuns de frunziș.",
+                "en": "Watch out for icy patches on the park paths and enjoy the clear view of the castle without the leaves obstructing your perspective."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple protestant",
+                "hu": "Temple protestant",
+                "ro": "Temple protestant",
+                "en": "Temple protestant"
+              },
+              "tip_5lang": {
+                "de": "Der schlichte Innenraum strahlt im Winter eine besondere Ruhe aus; wärmen Sie sich hier kurz auf, bevor Sie Ihre Tour fortsetzen.",
+                "hu": "A letisztult belső tér különleges nyugalmat áraszt télen; melegedjen fel itt egy kicsit, mielőtt folytatná a városi sétát.",
+                "ro": "Interiorul simplu emană o liniște deosebită iarna; încălziți-vă aici pentru câteva momente înainte de a continua traseul prin oraș.",
+                "en": "The simple interior radiates a special calm in winter; warm up here for a while before continuing your walking tour of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Charles",
+                "hu": "Église Saint-Charles",
+                "ro": "Église Saint-Charles",
+                "en": "Église Saint-Charles"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die architektonischen Details in der Stille der Kirche und nutzen Sie den Ort als windgeschützte Station Ihrer Wanderung.",
+                "hu": "Csodálja meg az építészeti részleteket a templom csendjében, és használja a helyszínt szélvédett állomásként a téli túra során.",
+                "ro": "Admirați detaliile arhitecturale în liniștea bisericii și folosiți locația ca pe o stație ferită de vânt în timpul plimbării tale.",
+                "en": "Admire the architectural details in the silence of the church and use the location as a wind-sheltered stop on your winter hike."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "hu": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "ro": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "en": "Chapelle de la Sainte-Trinité et Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt in der tiefstehenden Wintersonne wie ein Juwel; ein kurzer Stopp reicht aus, um die Atmosphäre einzufangen.",
+                "hu": "A kis kápolna ékszerdobozként tündököl az alacsonyan járó téli napsütésben; egy rövid megálló is elég a hangulat átéléséhez.",
+                "ro": "Mica capelă arată ca o bijuterie în lumina joasă a soarelui de iarnă; o scurtă oprire este suficientă pentru a surprinde atmosfera.",
+                "en": "The small chapel looks like a jewel in the low winter sun; a short stop is enough to capture the unique and peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Gueulard Plus",
+                "hu": "Le Gueulard Plus",
+                "ro": "Le Gueulard Plus",
+                "en": "Le Gueulard Plus"
+              },
+              "tip_5lang": {
+                "de": "Der moderne Bau bietet am späten Nachmittag eine willkommene Aufwärmmöglichkeit, wenn die Temperaturen draußen spürbar sinken.",
+                "hu": "A modern épület késő délután kiváló felmelegedési lehetőséget nyújt, amikor a kinti hőmérséklet már érezhetően zuhanni kezd.",
+                "ro": "Clădirea modernă oferă o oportunitate excelentă de încălzire după-amiaza târziu, când temperaturile de afară încep să scadă brusc.",
+                "en": "The modern building offers a welcome warming opportunity in the late afternoon when outdoor temperatures start to drop significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint James the Greater Church",
+                "hu": "Saint James the Greater Church",
+                "ro": "Saint James the Greater Church",
+                "en": "Saint James the Greater Church"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht im Inneren bildet einen herrlichen Kontrast zur blauen Stunde draußen; idealer Abschluss vor dem Abendessen.",
+                "hu": "A belső terek meleg fénye csodás kontrasztot alkot a kinti kék órával; ideális befejezés a vacsora előtti fagyos időben.",
+                "ro": "Lumina caldă din interior creează un contrast superb cu ora albastră de afară; este finalul ideal înainte de cină în serile de iarnă.",
+                "en": "The warm indoor lighting creates a wonderful contrast with the blue hour outside; an ideal final stop before your evening meal."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje a kerékpározást az északi külvárosban, a Konacker kápolnánál. Tekerjen le a történelmi Nilvange kastélyhoz, és élvezze a reggeli szellőt a terület felfedezése közben.\nDélben fókuszáljon a régió bányászati örökségére az egykori bányánál. Ezután kerékpározzon át a városközponton, és látogassa meg a protestáns és katolikus templomokat.\nA délutánt egy festői, valamivel hosszabb tekeréssel töltse Neufchef felé. A városi utcákról a zöldebb ösvényekre változó táj nagyon élvezetessé teszi az utat.\nZárja a délutánt a kiterjedt Neufchef Vasmúzeum felfedezésével. A lenyűgöző földalatti galériák tökéletes, hűvös esti lezárást nyújtanak kerékpáros kalandjának.",
         "ro": "Începeți ziua de ciclism în suburbia nordică liniștită, la capela Konacker. Pedați până la Castelul istoric Nilvange, bucurându-vă de briza dimineții în timp ce explorați domeniul.\nLa amiază, concentrați-vă pe patrimoniul minier cu o scurtă oprire la vechea mină. Apoi, mergeți prin centrul orașului vizitând bisericile protestante și catolice din zonă.\nPetreceți după-amiaza bucurându-vă de o plimbare pitorească și mai lungă spre Neufchef. Peisajele schimbătoare de la străzi urbane la cărări mai verzi sunt cu adevărat plăcute.\nÎncheiați după-amiaza explorând vastul Muzeu al Minelor de Fier Neufchef. Galeriile subterane fascinante oferă o concluzie răcoroasă perfectă pentru aventura pe două roți.",
         "en": "Kick off your cycling day in the quiet northern suburb at Konacker chapel. Pedal down to the historic Nilvange Castle, embracing the morning breeze as you explore its grounds.\nAt midday, shift your focus to the region's mining heritage with a quick stop at the old peace mine. Then, ride through the town center visiting the Protestant and Catholic churches.\nSpend your afternoon enjoying a scenic, slightly longer ride towards Neufchef. The changing landscapes from urban streets to greener paths make the cycling journey highly enjoyable.\nEnd your afternoon exploring the extensive Neufchef Iron Mines Museum. The fascinating underground galleries provide a perfect, cool evening conclusion to your cycling adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Gleich morgens geht es bergauf zur Kapelle, wobei die nasse Straße volle Konzentration erfordert. Mittags radeln wir zum Schloss und zur Mine, wo wir unter Vordächern kurze Pausen einlegen. Am Nachmittag führen uns die Wege zu den Kirchen, deren Architektur auch im Regen beeindruckt. Zum Abschluss besuchen wir das Bergbaumuseum, um den Tag gemütlich und trocken unter Tage ausklingen zu lassen.",
+            "hu": "Reggel a Konacker kápolnához tekerünk fel, ahol a vizes aszfalt teljes koncentrációt igényel a lejtőkön. Délben a kastély és a bánya felé vesszük az irányt, rövid pihenőket tartva az ereszek alatt. Délután a templomok felé vesszük az utat, melyek építészete esőben is lenyűgöző. Végül a bányamúzeumba látogatunk, hogy a napot szárazon, a föld alatt fejezzük be.",
+            "ro": "Dimineața urcăm spre capela Konacker, unde asfaltul umed necesită concentrare maximă la coborâri. La prânz pedalăm spre castel și mină, făcând scurte pauze sub streșini pentru a ne feri de stropi. După-amiaza traseul ne duce spre biserici, a căror arhitectură impresionează chiar și prin ploaie. La final vizităm muzeul mineritului, terminând ziua la adăpost, în subteran.",
+            "en": "In the morning, we cycle up to Konacker Chapel, where the wet asphalt requires full concentration on the slopes. At noon, we head towards the castle and the mine, taking short breaks under the eaves. In the afternoon, our path leads to the churches, whose architecture is impressive even in the rain. Finally, we visit the mining museum to end the day dry and cozy underground."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle du Konacker",
+                "hu": "Chapelle du Konacker",
+                "ro": "Chapelle du Konacker",
+                "en": "Chapelle du Konacker"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf der nassen Straße und genießen Sie den wolkenverhangenen Blick über das neblige Tal.",
+                "hu": "Ellenőrizze a fékeit a vizes úton való ereszkedés előtt, és élvezze a felhőbe burkolózó kilátást a ködös völgy felett.",
+                "ro": "Verificați frânele înainte de coborârea pe drumul umed și bucurați-vă de priveliștea spectaculoasă peste valea plină de ceață.",
+                "en": "Check your brakes before descending on the wet road and enjoy the cloud-shrouded view over the misty valley from the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Nilvange Castle",
+                "hu": "Nilvange Castle",
+                "ro": "Nilvange Castle",
+                "en": "Nilvange Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem dichten Baum und machen Sie ein schnelles Foto vom Schloss, bevor der nächste Schauer einsetzt.",
+                "hu": "Parkolja le kerékpárját egy sűrű lombú fa alatt, és készítsen egy gyors fotót a kastélyról a következő zápor megérkezése előtt.",
+                "ro": "Parcați bicicleta sub un copac des și faceți o fotografie rapidă castelului înainte de începerea următoarei averse de ploaie.",
+                "en": "Park your bike under a dense tree and take a quick photo of the castle before the next rain shower starts in a few minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne mine de la paix",
+                "hu": "Ancienne mine de la paix",
+                "ro": "Ancienne mine de la paix",
+                "en": "Ancienne mine de la paix"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie mit den Reifen die glatten Metallschienen am Boden und bewundern Sie die imposante Förderanlage aus sicherer Entfernung.",
+                "hu": "Kerülje el a kerékpárral a csúszós fémsíneket a talajon, és csodálja meg az impozáns szállítóberendezést biztonságos távolságból.",
+                "ro": "Evitați cu roțile șinele metalice alunecoase de pe sol și admirați instalația de extracție impunătoare de la o distanță sigură.",
+                "en": "Avoid riding over the slippery metal rails on the ground and admire the imposing extraction tower from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple protestant",
+                "hu": "Temple protestant",
+                "ro": "Temple protestant",
+                "en": "Temple protestant"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenjacke kurz zu lüften und die schlichte, trockene Atmosphäre des Innenraums auf sich wirken zu lassen.",
+                "hu": "Ideális hely az esőkabát rövid szellőztetésére és a belső tér letisztult, száraz hangulatának befogadására a pihenő alatt.",
+                "ro": "Un loc ideal pentru a vă aerisi puțin pelerina de ploaie și pentru a absorbi atmosfera simplă și uscată a interiorului.",
+                "en": "An ideal place to briefly air out your raincoat and absorb the simple, dry atmosphere of the interior during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Charles",
+                "hu": "Église Saint-Charles",
+                "ro": "Église Saint-Charles",
+                "en": "Église Saint-Charles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz beim Sichern Ihres Fahrrads und bewundern Sie danach die prächtige Innengestaltung.",
+                "hu": "Használja a templom bejáratát esővédőként a kerékpár lezárásakor, majd csodálja meg a belső tér gazdag díszítését.",
+                "ro": "Folosiți intrarea bisericii ca protecție împotriva ploii când asigurați bicicleta, apoi admirați designul interior bogat ornamentat.",
+                "en": "Use the church entrance as rain protection while securing your bike, then go inside to admire the rich interior decoration."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Mines de Fer de Neufchef",
+                "hu": "Musée des Mines de Fer de Neufchef",
+                "ro": "Musée des Mines de Fer de Neufchef",
+                "en": "Musée des Mines de Fer de Neufchef"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das riesige Museum, um dem starken Regen zu entkommen, und entdecken Sie die faszinierende Unterwelt der Bergleute.",
+                "hu": "Látogassa meg a hatalmas múzeumot, hogy elmeneküljön a heves esőzés elől, és fedezze fel a bányászok lenyűgöző földalatti világát.",
+                "ro": "Vizitați muzeul masiv pentru a scăpa de ploaia torențială și descoperiți lumea subterană fascinantă a minerilor din regiune.",
+                "en": "Visit the massive museum to escape the heavy rain and discover the fascinating underground world of the regional iron miners."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am frostigen Morgen radeln wir zur Konacker Kapelle, wobei die Kälte in den Abfahrten besonders beißend ist. Mittags erkunden wir das Schloss und die Mine, während wir durch ständige Bewegung warm bleiben. Am Nachmittag führt die Route durch das Stadtzentrum zu den historischen Kirchen, die kurze Aufwärmpausen ermöglichen. Da es früh dunkel wird, beenden wir unsere Tour im Neufchef Bergbaumuseum, wo es frostfrei ist.",
+            "hu": "A fagyos reggelen a Konacker kápolnához tekerünk fel, ahol a lejtőkön a menetszél különösen metsző. Délben a kastély és a bánya felé haladunk, folyamatos mozgással tartva fenn a testhőnket a hidegben. Délután az út a belvároson át vezet a templomokhoz, melyek rövid felmelegedést nyújtanak. Mivel korán sötétedik, a túrát a neufchefi bányamúzeumban fejezzük be, ahol fagymentes környezet vár.",
+            "ro": "În dimineața geroasă pedalăm spre capela Konacker, unde vântul la coborâre este deosebit de tăios. La prânz explorăm castelul și mină, menținându-ne căldura prin mișcare constantă în aerul rece de munte. După-amiaza traseul trece prin centru spre biserici, care oferă scurte pauze de încălzire. Deoarece se întunecă devreme, terminăm turul la muzeul din Neufchef, într-un mediu ferit de îngheț.",
+            "en": "On a frosty morning, we cycle up to Konacker Chapel, where the wind chill on the descents is particularly biting. At noon, we explore the castle and the mine, staying warm through constant movement in the cold air. In the afternoon, the route passes through the center to the churches, offering short warming breaks. As it gets dark early, we finish the tour at the Neufchef mining museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle du Konacker",
+                "hu": "Chapelle du Konacker",
+                "ro": "Chapelle du Konacker",
+                "en": "Chapelle du Konacker"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die kalte Abfahrt und genießen Sie die klare, weite Sicht über das winterliche Lothringen.",
+                "hu": "Viseljen szélálló kesztyűt a hideg lejtőkhöz, és élvezze a tiszta, messzire nyúló kilátást a téli Lotharingia felett.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborârea rece și bucurați-vă de vederea clară și vastă asupra Lorenei în haine de iarnă.",
+                "en": "Wear windproof gloves for the cold descent and enjoy the clear, expansive view over the wintry Lorraine countryside from the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Nilvange Castle",
+                "hu": "Nilvange Castle",
+                "ro": "Nilvange Castle",
+                "en": "Nilvange Castle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und machen Sie einen kurzen Spaziergang im Park, um die Durchblutung in den Füßen anzuregen.",
+                "hu": "Zárja le biztonságosan a kerékpárját, és tegyen egy rövid sétát a parkban, hogy felélénkítse a vérkeringést a lábaiban.",
+                "ro": "Asigurați-vă bicicleta și faceți o scurtă plimbare prin parc pentru a stimula circulația sângelui în picioare după pedalat.",
+                "en": "Secure your bike and take a short walk in the park to stimulate blood circulation in your feet after the cold ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne mine de la paix",
+                "hu": "Ancienne mine de la paix",
+                "ro": "Ancienne mine de la paix",
+                "en": "Ancienne mine de la paix"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die imposante Industriearchitektur, die im harten Winterlicht besonders plastisch wirkt, und bleiben Sie in Bewegung.",
+                "hu": "Csodálja meg az impozáns ipari építészetet, amely a kemény téli fényben különösen plasztikusnak hat, és maradjon mozgásban.",
+                "ro": "Admirați arhitectura industrială impunătoare, care pare deosebit de plastică în lumina aspră a iernii, și nu staționați prea mult.",
+                "en": "Admire the imposing industrial architecture, which looks particularly dramatic in the harsh winter light, and keep moving."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple protestant",
+                "hu": "Temple protestant",
+                "ro": "Temple protestant",
+                "en": "Temple protestant"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine kurze Rast; nutzen Sie die Stille im Inneren, um neue Energie für die nächste Etappe zu sammeln.",
+                "hu": "Remek hely egy rövid pihenőre; használja ki a belső tér csendjét, hogy új energiát gyűjtsön a következő kerékpáros szakaszhoz.",
+                "ro": "Un loc excelent pentru o scurtă odihnă; profitați de liniștea din interior pentru a vă recupera energia pentru următoarea etapă.",
+                "en": "A great place for a short rest; take advantage of the silence inside to gather fresh energy for the next cycling stage."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Charles",
+                "hu": "Église Saint-Charles",
+                "ro": "Église Saint-Charles",
+                "en": "Église Saint-Charles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Eingangsbereich und wärmen Sie sich kurz auf, während Sie die prachtvolle Innenausstattung bewundern.",
+                "hu": "Használja ki a szélvédett bejárati részt, és melegedjen fel egy kicsit, miközben a templom pazar belső díszítését csodálja.",
+                "ro": "Profitați de zona de intrare ferită de vânt și încălziți-vă puțin în timp ce admirați decorul interior somptuos al bisericii.",
+                "en": "Take advantage of the wind-sheltered entrance area and warm up for a bit while admiring the church's lavish interior decoration."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée des Mines de Fer de Neufchef",
+                "hu": "Musée des Mines de Fer de Neufchef",
+                "ro": "Musée des Mines de Fer de Neufchef",
+                "en": "Musée des Mines de Fer de Neufchef"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss, um das Fahrrad abzustellen und tief in die Geschichte einzutauchen, wo Frost und Kälte keine Rolle spielen.",
+                "hu": "Tökéletes befejezés: tegye le a kerékpárt, és merüljön el a történelemben ott, ahol a fagy és a hideg nem érheti el.",
+                "ro": "Finalul perfect: lăsați bicicleta și scufundați-vă în istorie acolo unde gerul și frigul de afară nu vă pot ajunge.",
+                "en": "The perfect ending: park your bike and dive deep into history where the frost and cold cannot reach you underground."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje autós túráját a történelemben elmerülve a Neufchef Vasmúzeumban. Töltse a reggelt az autentikus földalatti galériákban sétálva, és ismerkedjen meg a bányászok életével.\nDélben vezessen egy rövid távolságot a Havas Boldogasszony apró kápolnájához. Folytassa útját Nilvange központjába, hogy megcsodálja a Saint-Charles templom ólomüveg ablakait.\nDélután parkoljon le a protestáns templom közelében, mielőtt felfedezné a régi bányát és a történelmi Nilvange kastélyt. A közelség miatt nagyon könnyű ezek között váltani.\nAz este közeledtével fejezze be az autós túrát a Szentháromság-kápolnánál és a bájos Konacker kápolnánál, élvezve a külvárosok csendes, alkonyati hangulatát.",
         "ro": "Începeți turul cu mașina profund cufundat în istorie la Muzeul Minelor de Fier Neufchef. Petreceți dimineața plimbându-vă prin galeriile subterane autentice ale minerilor.\nÎn jurul amiezii, conduceți scurt până la micuța capelă a Maicii Domnului a Zăpezilor. Continuați spre centrul orașului Nilvange pentru a admira vitraliile din Saint-Charles.\nDupă-amiaza, parcați lângă templul protestant înainte de a explora vechea mină și castelul istoric Nilvange. Distanțele scurte fac deplasarea între aceste obiective foarte ușoară.\nSpre seară, încheiați turul cuprinzător cu mașina cu opriri la capela Sfintei Treimi și fermecătoarea capelă Konacker, bucurându-vă de atmosfera liniștită a crepusculului.",
         "en": "Start your driving tour deeply immersed in history at the Neufchef Iron Mines Museum. Spend the morning walking through its authentic underground galleries and learning about the miners.\nAround midday, drive a short distance to the tiny Chapel of Our Lady of the Snows. Continue into Nilvange's town center to marvel at the beautiful stained glass of Saint-Charles.\nIn the afternoon, park near the Protestant temple before exploring the old peace mine and the historic Nilvange Castle. The close proximity makes jumping between these sights very easy.\nAs evening approaches, finish your comprehensive car tour with stops at the Holy Trinity chapel and the charming Konacker chapel, enjoying the quiet twilight atmosphere of the suburbs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Den regnerischen Morgen verbringen wir im Bergbaumuseum, wo wir unter Tage völlig trocken bleiben. Mittags besuchen wir die Kapelle Notre-Dame-des-Neiges und die Stadtkirchen, wobei das Auto uns bequem von Tür zu Tür bringt. Am Nachmittag erkunden wir die alte Mine und das Schloss, wobei wir die Regenschauer gemütlich aus dem Fahrzeug beobachten können. Den Abend beschließen wir bei den Kapellen am Stadtrand im warmen Auto.",
+            "hu": "A reggelt a bányamúzeumban töltjük, ahol a föld alatt teljesen szárazon maradhatunk az eső ellenére. Délben meglátogatjuk a Notre-Dame-des-Neiges kápolnát és a város templomait, az autóval kényelmesen utazva a helyszínek között. Délután az egykori bányát és a kastélyt fedezzük fel, a záporokat a gépjármű védelméből figyelve. Az estét a város szélén található kápolnáknál zárjuk a meleg autóban.",
+            "ro": "Petrecem dimineața ploioasă la muzeul mineritului, unde rămânem complet uscați în subteran. La prânz vizităm capela Notre-Dame-des-Neiges și bisericile orașului, mașina ducându-ne confortabil de la o poartă la alta. După-amiaza explorăm vechea mină și castelul, observând aversa de ploaie din protecția vehiculului. Încheiem seara la capelele de la marginea orașului, în confortul mașinii încălzite.",
+            "en": "We spend the rainy morning at the mining museum, where we stay completely dry underground. At noon, we visit Notre-Dame-des-Neiges Chapel and the town's churches, with the car taking us comfortably from door to door. In the afternoon, we explore the old mine and the castle, watching the rain showers from the protection of our vehicle. We conclude the evening at the peripheral chapels in the warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée des Mines de Fer de Neufchef",
+                "hu": "Musée des Mines de Fer de Neufchef",
+                "ro": "Musée des Mines de Fer de Neufchef",
+                "en": "Musée des Mines de Fer de Neufchef"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang und tauchen Sie in die faszinierende Unterwelt ein, während es draußen ununterbrochen regnet.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, és merüljön el a lenyűgöző földalatti világban, miközben kint megállás nélkül esik az eső.",
+                "ro": "Parcați chiar lângă intrare și scufundați-vă în lumea subterană fascinantă în timp ce afară plouă fără încetare.",
+                "en": "Park right by the entrance and dive into the fascinating underground world while the rain falls continuously outside today."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Neiges",
+                "hu": "Chapelle Notre-Dame-des-Neiges",
+                "ro": "Chapelle Notre-Dame-des-Neiges",
+                "en": "Chapelle Notre-Dame-des-Neiges"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Stopp bei dieser charmanten Kapelle; nutzen Sie die Parkmöglichkeit direkt davor für einen schnellen Besuch.",
+                "hu": "Rövid, száraz megálló ennél a bájos kápolnánál; használja a közvetlenül előtte lévő parkolót a gyors látogatáshoz.",
+                "ro": "O scurtă oprire la uscat la această capelă fermecătoare; folosiți parcarea de direct din față pentru o vizită rapidă.",
+                "en": "A short, dry stop at this charming chapel; use the parking space directly in front for a quick visit during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Charles",
+                "hu": "Église Saint-Charles",
+                "ro": "Église Saint-Charles",
+                "en": "Église Saint-Charles"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm im Auto und genießen Sie die prächtige Architektur dieser geschützten religiösen Stätte im Stadtzentrum.",
+                "hu": "Hagyja az esernyőt az autóban, és élvezze e védett vallási helyszín pompás építészetét a belváros szívében.",
+                "ro": "Lăsați umbrela în mașină și bucurați-vă de arhitectura splendidă a acestui lăcaș de cult protejat din centrul orașului.",
+                "en": "Leave your umbrella in the car and enjoy the splendid architecture of this sheltered religious site in the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple protestant",
+                "hu": "Temple protestant",
+                "ro": "Temple protestant",
+                "en": "Temple protestant"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kontemplative Pause im Trockenen, bevor Sie Ihre Fahrt durch das verregnete Nilvange fortsetzen.",
+                "hu": "Ideális helyszín egy elcsendesedett, száraz pihenőre, mielőtt folytatná útját az esős Nilvange utcáin keresztül.",
+                "ro": "Un loc ideal pentru o pauză contemplativă la uscat înainte de a vă continua drumul prin Nilvange-ul ploios.",
+                "en": "An ideal location for a contemplative break in the dry before continuing your drive through rainy Nilvange."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne mine de la paix",
+                "hu": "Ancienne mine de la paix",
+                "ro": "Ancienne mine de la paix",
+                "en": "Ancienne mine de la paix"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die gewaltigen Industrieruinen bequem aus dem Autofenster, um nicht nass zu werden, und machen Sie von dort Fotos.",
+                "hu": "Tekintse meg a hatalmas ipari romokat kényelmesen az autó ablakából, hogy ne ázzon el, és készítsen onnan fotókat.",
+                "ro": "Priviți ruinele industriale masive confortabil de pe geamul mașinii pentru a nu vă uda și faceți fotografii de acolo.",
+                "en": "View the massive industrial ruins comfortably from the car window to avoid getting wet and take your photos from there."
+              }
+            },
+            {
+              "name": {
+                "de": "Nilvange Castle",
+                "hu": "Nilvange Castle",
+                "ro": "Nilvange Castle",
+                "en": "Nilvange Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nah an den Park heran, um das Schloss im Regen zu bewundern, ohne weite Strecken zu Fuß zurücklegen zu müssen.",
+                "hu": "Hajtson közel a parkhoz, hogy megcsodálhassa a kastélyt az esőben, anélkül, hogy hosszú távokat kellene gyalogolnia.",
+                "ro": "Conduceți până aproape de parc pentru a admira castelul prin ploaie, fără a fi nevoie să mergeți mult pe jos.",
+                "en": "Drive close to the park to admire the castle through the rain without having to walk long distances in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "hu": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "ro": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "en": "Chapelle de la Sainte-Trinité et Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand für einen schnellen Blick auf diese kleine Kapelle, die auch bei schlechtem Wetter Charme versprüht.",
+                "hu": "Parkoljon le rövid időre az út szélén egy gyors pillantásért erre a kis kápolnáre, amely rossz időben is bájos marad.",
+                "ro": "Parcați scurt pe marginea drumului pentru o privire rapidă la această mică capelă, care are farmec și pe vreme rea.",
+                "en": "Park briefly at the roadside for a quick look at this small chapel, which retains its charm even in bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Konacker",
+                "hu": "Chapelle du Konacker",
+                "ro": "Chapelle du Konacker",
+                "en": "Chapelle du Konacker"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das vernebelte Tal direkt aus Ihrem warmen Auto am Ende dieser regnerischen Tour.",
+                "hu": "Élvezze a ködös völgyre nyíló tágas kilátást közvetlenül a meleg autóból az esős túra végén, a hegytetőn parkolva.",
+                "ro": "Bucurați-vă de vederea vastă peste valea plină de ceață direct din mașina caldă la finalul acestui tur ploios.",
+                "en": "Enjoy the expansive view over the misty valley directly from your warm car at the end of this rainy tour on the hill."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen starten wir im Bergbaumuseum, wo wir die Kälte schnell vergessen. Mittags besuchen wir die Kapellen und Kirchen der Umgebung, wobei die Sitzheizung für wohlige Wärme sorgt. Am Nachmittag besichtigen wir die alte Mine und das Schloss, deren Strukturen im harten Licht des Winters besonders beeindruckend wirken. Den Abend lassen wir bei der Konacker Kapelle ausklingen, während wir den Sonnenuntergang über dem Tal beobachten.",
+            "hu": "A tiszta téli reggelen a bányamúzeumban kezdünk, ahol hamar elfelejtjük a kinti hideget. Délben a környék kápolnáit és templomait látogatjuk végig, az ülésfűtés pedig gondoskodik a kellemes melegrol. Délután az egykori bányát és a kastélyt nézzük meg, melyek szerkezete a téli fényben különösen lenyűgöző. Az estét a Konacker kápolnánál zárjuk, a völgy feletti naplementét figyelve az autóból.",
+            "ro": "În dimineața senină de iarnă începem la muzeul mineritului, unde uităm repede de frigul de afară. La prânz vizităm capelele și bisericile din zonă, încălzirea din scaune asigurând un confort sporit. După-amiaza vizităm vechea mină și castelul, ale căror structuri par impresionante în lumina aspră a iernii. Încheiem seara la capela Konacker, observând apusul peste vale din interiorul mașinii.",
+            "en": "On a clear winter morning, we start at the mining museum, where we quickly forget the cold outside. At noon, we visit the surrounding chapels and churches, with seat heating providing cozy warmth. In the afternoon, we visit the old mine and the castle, whose structures look impressive in the harsh winter light. We end the evening at Konacker Chapel, watching the sunset over the valley from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée des Mines de Fer de Neufchef",
+                "hu": "Musée des Mines de Fer de Neufchef",
+                "ro": "Musée des Mines de Fer de Neufchef",
+                "en": "Musée des Mines de Fer de Neufchef"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die konstante Temperatur unter Tage, die im Winter viel angenehmer ist als die beißende Kälte an der Oberfläche.",
+                "hu": "Élvezze a föld alatti állandó hőmérsékletet, amely télen sokkal kellemesebb, mint a felszíni metsző hideg a látogatás során.",
+                "ro": "Bucurați-vă de temperatura constantă din subteran, care iarna este mult mai plăcută decât gerul de la suprafață.",
+                "en": "Enjoy the constant underground temperature, which is much more pleasant in winter than the biting cold at the surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-des-Neiges",
+                "hu": "Chapelle Notre-Dame-des-Neiges",
+                "ro": "Chapelle Notre-Dame-des-Neiges",
+                "en": "Chapelle Notre-Dame-des-Neiges"
+              },
+              "tip_5lang": {
+                "de": "Der Name passt perfekt zur Jahreszeit; parken Sie kurz und bewundern Sie die winterliche Stille an diesem andächtigen Ort.",
+                "hu": "A név tökéletesen illik az évszakhoz; parkoljon le rövid időre, és csodálja meg a téli csendet ezen az áhítatos helyszínen.",
+                "ro": "Numele se potrivește perfect cu anotimpul; parcați scurt și admirați liniștea iernatică a acestui loc plin de pioșenie.",
+                "en": "The name fits the season perfectly; park briefly and admire the wintry silence at this devout location near Neufchef."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Charles",
+                "hu": "Église Saint-Charles",
+                "ro": "Église Saint-Charles",
+                "en": "Église Saint-Charles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine spirituelle Aufwärmpause und bewundern Sie die Architektur in der klaren Winterluft des Stadtkerns.",
+                "hu": "Használja ki a látogatást egy lelki és fizikai felmelegedésre, miközben megcsodálja az építészetet a városközpont tiszta téli levegőjében.",
+                "ro": "Folosiți vizita pentru o pauză de încălzire spirituală și admirați arhitectura în aerul curat de iarnă al centrului orașului.",
+                "en": "Use the visit for a spiritual warming break and admire the architecture in the clear winter air of the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple protestant",
+                "hu": "Temple protestant",
+                "ro": "Temple protestant",
+                "en": "Temple protestant"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Schönheit des Innenraums bietet eine ideale Zuflucht vor dem winterlichen Wind, der durch die Straßen von Nilvange weht.",
+                "hu": "A belső tér letisztult szépsége ideális menedéket nyújt a téli szél elől, amely Nilvange utcáin söpör végig ilyenkor.",
+                "ro": "Frumusețea simplă a interiorului oferă un refugiu ideal împotriva vântului de iarnă care suflă pe străzile din Nilvange.",
+                "en": "The simple beauty of the interior provides an ideal refuge from the wintry wind blowing through the streets of Nilvange."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne mine de la paix",
+                "hu": "Ancienne mine de la paix",
+                "ro": "Ancienne mine de la paix",
+                "en": "Ancienne mine de la paix"
+              },
+              "tip_5lang": {
+                "de": "Die rostigen Stahlkonstruktionen bilden einen scharfen Kontrast zum weißen Frost oder Schnee auf dem weitläufigen Minengelände.",
+                "hu": "A rozsdás acélszerkezetek éles kontrasztot alkotnak a fehér zúzmarával vagy hóval a bánya kiterjedt területén.",
+                "ro": "Construcțiile ruginite din oțel creează un contrast puternic cu chiciura albă sau zăpada de pe terenul vast al minei.",
+                "en": "The rusty steel structures form a sharp contrast with the white frost or snow on the extensive mine grounds today."
+              }
+            },
+            {
+              "name": {
+                "de": "Nilvange Castle",
+                "hu": "Nilvange Castle",
+                "ro": "Nilvange Castle",
+                "en": "Nilvange Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den freien Blick auf das Gebäude durch die kahlen Baumkronen und nutzen Sie die Parkplätze in unmittelbarer Nähe.",
+                "hu": "Élvezze az épületre nyíló szabad kilátást a kopasz faágakon keresztül, és használja a közvetlen közelben lévő parkolóhelyeket.",
+                "ro": "Bucurați-vă de vederea liberă spre clădire prin coroanele desfrunzite ale copacilor și folosiți parcarea din imediata apropiere.",
+                "en": "Enjoy the unobstructed view of the building through the bare treetops and use the parking spaces in the immediate vicinity."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "hu": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "ro": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+                "en": "Chapelle de la Sainte-Trinité et Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp bei dieser kleinen Kapelle ist ideal, um die winterliche Atmosphäre im warmen Licht des Nachmittags einzufangen.",
+                "hu": "Egy rövid megálló ennél a kis kápolnánál ideális a téli hangulat befogadására a délutáni napsütés meleg fényében.",
+                "ro": "O scurtă oprire la această mică capelă este ideală pentru a surprinde atmosfera de iarnă în lumina caldă a după-amiezii.",
+                "en": "A short stop at this small chapel is ideal for capturing the winter atmosphere in the warm afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Konacker",
+                "hu": "Chapelle du Konacker",
+                "ro": "Chapelle du Konacker",
+                "en": "Chapelle du Konacker"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Lichtermeer im Tal bei einsetzender Dunkelheit bequem aus dem beheizten Auto zum Abschluss Ihrer Tour.",
+                "hu": "Figyelje a völgy fényeit a beálló sötétségben kényelmesen a fűtött autóból a téli túra tökéletes lezárásaként.",
+                "ro": "Observați marea de lumini din vale la lăsarea întunericului, confortabil din mașina încălzită, la finalul turului dumneavoastră.",
+                "en": "Watch the sea of lights in the valley as darkness falls, comfortably from your heated car at the end of the winter tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

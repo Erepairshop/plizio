@@ -183,6 +183,224 @@
         "hu": "A reggel a helyi kínai negyed lüktető energiájával indul, majd a csendes folyópart felé kanyarodik. Délben az ikonikus hídon áthaladva lenyűgöző tengerparti kilátópontok várnak. Délután egy hosszabb séta jutalma Air Manis finom homokja. Az este a tengeri szellő kíséretében Malin Kundang mitikus sziklájánál éri.",
         "ro": "Dimineața începe cu energia vibrantă a cartierului chinezesc, îndreptându-se spre malul liniștit al râului. La prânz traversați podul iconic către punctele de belvedere și semnul grandios al orașului. După-amiaza, o plimbare mai lungă vă răsplătește cu nisipurile din Air Manis. Seara se așterne în jurul pietrei mitice a lui Malin Kundang.",
         "en": "Morning starts with the vibrant energy of the local Chinatown, weaving toward the calm riverfront. Midday brings you across the iconic bridge to coastal viewpoints and the grand city sign. In the afternoon, a longer walk rewards you with the soft sands of Air Manis. Evening settles around the mythical stone of Malin Kundang with a coastal breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Start in the Chinatown where covered walkways keep you dry. By midday, watch the swollen river from sheltered spots before crossing the bridge carefully. In the afternoon, explore the beach and statues with an umbrella. End the day at a cozy cafe nearby.",
+            "hu": "A kínai negyed árkádjai alatt szárazon kezdheted a reggelt. Délben fedett helyről figyeld a megáradt folyót, majd óvatosan kelj át a hídon. Délután esernyővel fedezd fel a tengerpartot és a sziklákat. Az estét egy közeli, barátságos kávézóban zárd.",
+            "de": "Beginnen Sie in den überdachten Gassen von Chinatown. Mittags können Sie den Fluss aus sicherer Entfernung beobachten, bevor Sie die rutschige Brücke überqueren. Nachmittags erkunden Sie den Strand mit Regenschirm. Beenden Sie den Tag im Trockenen.",
+            "ro": "Începeți în cartierul chinezesc, unde arcadele vă țin la adăpost. La prânz priviți râul din locuri acoperite, trecând cu grijă podul alunecos. După-amiaza, explorați plaja cu o umbrelă robustă. Încheiați ziua într-o cafenea primitoare și uscată."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Padong Chinatown",
+                "hu": "Padong Chinatown",
+                "ro": "Padong Chinatown",
+                "en": "Padong Chinatown"
+              },
+              "tip_5lang": {
+                "en": "Admire the vibrant temples and architecture while using the shop awnings to stay completely dry during sudden downpours.",
+                "hu": "Csodáld meg a színes templomokat, és használd a boltok előtetőit, hogy száraz maradj a hirtelen záporok idején.",
+                "de": "Bewundern Sie die Tempel und nutzen Sie die Markisen der Geschäfte, um bei plötzlichen Schauern trocken zu bleiben.",
+                "ro": "Admirați templele colorate și folosiți copertinele magazinelor pentru a rămâne uscat în timpul ploilor bruște."
+              }
+            },
+            {
+              "name": {
+                "de": "View Towards The River",
+                "hu": "View Towards The River",
+                "ro": "View Towards The River",
+                "en": "View Towards The River"
+              },
+              "tip_5lang": {
+                "en": "Observe the dramatic river currents from under your umbrella; stand back from the muddy, slippery banks for safety.",
+                "hu": "Esernyő alól figyeld a folyó drámai áramlását, és a biztonságod érdekében maradj távol a saras, csúszós partoktól.",
+                "de": "Beobachten Sie die Strömung unter dem Schirm und halten Sie sich zu Ihrer Sicherheit von den rutschigen Ufern fern.",
+                "ro": "Observați curenții dramatici ai râului sub umbrelă, dar stați departe de malurile noroioase pentru siguranță."
+              }
+            },
+            {
+              "name": {
+                "de": "Siti Nurbaya Bridge",
+                "hu": "Siti Nurbaya Bridge",
+                "ro": "Siti Nurbaya Bridge",
+                "en": "Siti Nurbaya Bridge"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the moody views over the old town, but step carefully as the bridge's pedestrian path gets very slippery when wet.",
+                "hu": "Élvezd az óváros borongós panorámáját, de lépkedj óvatosan, mert a híd gyalogos része esőben nagyon csúszóssá válik.",
+                "de": "Genießen Sie die Aussicht auf die Altstadt, aber seien Sie vorsichtig auf dem rutschigen Fußgängerweg der Brücke.",
+                "ro": "Bucurați-vă de vederea spre orașul vechi, dar pășiți cu grijă deoarece calea pietonală devine alunecoasă la umezeală."
+              }
+            },
+            {
+              "name": {
+                "de": "Padang Lighthouse",
+                "hu": "Padang Lighthouse",
+                "ro": "Padang Lighthouse",
+                "en": "Padang Lighthouse"
+              },
+              "tip_5lang": {
+                "en": "The lighthouse looks striking against dark storm clouds; wear sturdy waterproof boots to navigate the surrounding puddles safely.",
+                "hu": "A világítótorony lenyűgöző a sötét viharfelhők előtt; viselj vízálló cipőt a környékbeli tócsák elkerüléséhez.",
+                "de": "Der Leuchtturm wirkt vor dunklen Wolken dramatisch; tragen Sie wasserfeste Schuhe für die Pfützen drumherum.",
+                "ro": "Farul arată impresionant sub norii de furtună; purtați încălțăminte impermeabilă pentru a naviga printre bălți."
+              }
+            },
+            {
+              "name": {
+                "de": "Papan Nama Padang",
+                "hu": "Papan Nama Padang",
+                "ro": "Papan Nama Padang",
+                "en": "Papan Nama Padang"
+              },
+              "tip_5lang": {
+                "en": "Snap a quick photo with the famous city sign in the rain, making sure your camera is protected from the driving wind.",
+                "hu": "Készíts egy gyors fotót az esőben a híres városnévtáblával, de ügyelj arra, hogy a géped védve legyen a széltől.",
+                "de": "Machen Sie ein schnelles Foto mit dem berühmten Stadtschild und schützen Sie Ihre Kamera vor dem peitschenden Regen.",
+                "ro": "Faceți o poză rapidă cu semnul orașului în ploaie, asigurându-vă că aparatul foto este protejat de vânt."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Air Manis",
+                "hu": "Pantai Air Manis",
+                "ro": "Pantai Air Manis",
+                "en": "Pantai Air Manis"
+              },
+              "tip_5lang": {
+                "en": "Walk along the misty shoreline to watch the dramatic waves; bring a high-quality raincoat as the coastal wind makes umbrellas useless.",
+                "hu": "Sétálj a ködös parton és figyeld a drámai hullámokat; hozz jó esőkabátot, mert a parti szélben az esernyő haszontalan.",
+                "de": "Spazieren Sie am Strand und beobachten Sie die Wellen; bringen Sie einen Regenmantel mit, da Schirme hier oft umklappen.",
+                "ro": "Plimbați-vă pe țărmul cețos pentru a vedea valurile; aduceți o pelerină bună, vântul de coastă face umbrelele inutile."
+              }
+            },
+            {
+              "name": {
+                "de": "Batu Malin Kundang",
+                "hu": "Batu Malin Kundang",
+                "ro": "Batu Malin Kundang",
+                "en": "Batu Malin Kundang"
+              },
+              "tip_5lang": {
+                "en": "See the legendary cursed stone which looks exceptionally dramatic wet; wear shoes with good grip on the slippery coastal rocks.",
+                "hu": "Nézd meg a legendás elátkozott követ, amely vizesen a legdrámaibb; viselj jól tapadó cipőt a csúszós sziklákon.",
+                "de": "Betrachten Sie den legendären verfluchten Stein, der nass am besten wirkt; tragen Sie rutschfeste Schuhe auf den Felsen.",
+                "ro": "Vedeți piatra legendară care arată dramatic când este udă; purtați pantofi cu aderență bună pe rocile de coastă."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Enjoy crisp morning air in Chinatown, perfect for exploring without the usual heat. By noon, the cooler breeze near the river is refreshing. Spend the afternoon uncovering coastal legends in the pleasant weather. Since it gets dark around 17:00, plan to finish your walk early and layer up.",
+            "hu": "Élvezd a hűvös reggeli levegőt a kínai negyedben, ami tökéletes a sétához. Délben a folyó menti hűvösebb szellő kifejezetten frissítő. Délután fedezd fel a parti legendákat kellemes időben. Mivel 17:00 körül sötétedik, fejezd be korán a sétát, és öltözz rétegesen.",
+            "de": "Genießen Sie die kühle Morgenluft in Chinatown. Mittags ist die frische Brise am Fluss sehr angenehm. Entdecken Sie nachmittags die Küstenlegenden bei perfekten Temperaturen. Da es gegen 17:00 Uhr dunkel wird, beenden Sie den Spaziergang früh und tragen Sie Schichten.",
+            "ro": "Bucurați-vă de aerul proaspăt al dimineții în cartierul chinezesc. La prânz, briza răcoroasă de pe râu este foarte plăcută. După-amiaza, descoperiți legendele coastei pe o vreme excelentă. Deoarece se întunecă pe la 17:00, terminați plimbarea devreme și îmbrăcați-vă în straturi."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Padong Chinatown",
+                "hu": "Padong Chinatown",
+                "ro": "Padong Chinatown",
+                "en": "Padong Chinatown"
+              },
+              "tip_5lang": {
+                "en": "Wander the historic streets comfortably in the cool morning air; bring a light jacket as the shaded alleyways can feel quite chilly.",
+                "hu": "Kényelmesen sétálj a történelmi utcákon a hűvös reggeli levegőben; hozz egy vékony kabátot, mert az árnyékos sikátorokban hideg lehet.",
+                "de": "Schlendern Sie bequem durch die historischen Straßen; bringen Sie eine leichte Jacke mit, da die schattigen Gassen kühl sein können.",
+                "ro": "Plimbați-vă confortabil pe străzile istorice în dimineața răcoroasă; aduceți o jachetă ușoară, aleile umbrite pot fi reci."
+              }
+            },
+            {
+              "name": {
+                "de": "View Towards The River",
+                "hu": "View Towards The River",
+                "ro": "View Towards The River",
+                "en": "View Towards The River"
+              },
+              "tip_5lang": {
+                "en": "Take clear photos of the landscape without the summer haze; wear a windbreaker as the breeze along the water channel is surprisingly strong.",
+                "hu": "Készíts tiszta fotókat a párátlan tájról; viselj széldzsekit, mert a csatorna mentén meglepően erős a szellő.",
+                "de": "Machen Sie klare Fotos ohne den Sommerdunst; tragen Sie eine Windjacke, da die Brise am Wasserkanal überraschend stark ist.",
+                "ro": "Faceți fotografii clare fără ceața de vară; purtați o jachetă de vânt, deoarece briza pe lângă canalul de apă este puternică."
+              }
+            },
+            {
+              "name": {
+                "de": "Siti Nurbaya Bridge",
+                "hu": "Siti Nurbaya Bridge",
+                "ro": "Siti Nurbaya Bridge",
+                "en": "Siti Nurbaya Bridge"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the unobstructed views of the city from the bridge; arrive before late afternoon to capture the golden light before the early sunset.",
+                "hu": "Élvezd a zavartalan kilátást a hídról; érkezz késő délután előtt, hogy elkapd az aranyfényeket a korai naplemente előtt.",
+                "de": "Genießen Sie die ungestörte Aussicht von der Brücke; kommen Sie rechtzeitig, um das goldene Licht vor dem frühen Sonnenuntergang einzufangen.",
+                "ro": "Bucurați-vă de vederea neobstrucționată de pe pod; ajungeți devreme pentru a prinde lumina de aur înainte de apusul timpuriu."
+              }
+            },
+            {
+              "name": {
+                "de": "Padang Lighthouse",
+                "hu": "Padang Lighthouse",
+                "ro": "Padang Lighthouse",
+                "en": "Padang Lighthouse"
+              },
+              "tip_5lang": {
+                "en": "Explore the lighthouse area with ease in the mild temperatures; keep a sweater handy for the brisk winds coming off the ocean.",
+                "hu": "Fedezd fel a világítótorony környékét a kellemes hőmérsékletben; tarts kéznél egy pulóvert az óceán felől érkező friss szél miatt.",
+                "de": "Erkunden Sie den Leuchtturm bei milden Temperaturen; halten Sie einen Pullover für den frischen Wind vom Ozean bereit.",
+                "ro": "Explorați zona farului cu ușurință la temperaturi blânde; țineți un pulover la îndemână pentru vântul proaspăt de pe ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Papan Nama Padang",
+                "hu": "Papan Nama Padang",
+                "ro": "Papan Nama Padang",
+                "en": "Papan Nama Padang"
+              },
+              "tip_5lang": {
+                "en": "Pose for pictures by the iconic sign in the softer winter daylight; the cooler weather makes climbing any nearby stairs much less exhausting.",
+                "hu": "Pózolj a híres táblánál a lágyabb téli fényben; a hűvösebb időben a közeli lépcsők megmászása is sokkal kevésbé fárasztó.",
+                "de": "Posen Sie am Schild im weicheren Winterlicht; das kühlere Wetter macht das Treppensteigen viel weniger anstrengend.",
+                "ro": "Pozați lângă semnul iconic în lumina mai blândă a iernii; vremea răcoroasă face urcarea scărilor mult mai puțin obositoare."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Air Manis",
+                "hu": "Pantai Air Manis",
+                "ro": "Pantai Air Manis",
+                "en": "Pantai Air Manis"
+              },
+              "tip_5lang": {
+                "en": "Walk the long stretch of beach without overheating; pack an extra warm layer since the ocean breeze feels sharp as the afternoon ends.",
+                "hu": "Sétálj a hosszú tengerparton kimelegedés nélkül; pakolj be egy meleg réteget, mert az óceáni szél csípős lehet a délután végén.",
+                "de": "Spazieren Sie ohne zu schwitzen am Strand; packen Sie eine warme Schicht ein, da die Meeresbrise am späten Nachmittag kühl wird.",
+                "ro": "Plimbați-vă pe plaja lungă fără a vă supraîncălzi; luați un strat cald în plus, briza oceanului devine ascuțită spre seară."
+              }
+            },
+            {
+              "name": {
+                "de": "Batu Malin Kundang",
+                "hu": "Batu Malin Kundang",
+                "ro": "Batu Malin Kundang",
+                "en": "Batu Malin Kundang"
+              },
+              "tip_5lang": {
+                "en": "View the rock formations vividly against the winter sky; schedule your visit carefully to ensure you leave before the early darkness sets in.",
+                "hu": "Figyeld meg a sziklaalakzatokat az éles téli égbolt előtt; tervezd úgy, hogy még a korai sötétedés előtt befejezd a látogatást.",
+                "de": "Betrachten Sie die Felsformationen vor dem Winterhimmel; planen Sie Ihren Besuch so, dass Sie vor der frühen Dunkelheit aufbrechen.",
+                "ro": "Vedeți rocile clar pe fundalul cerului de iarnă; programați vizita astfel încât să plecați înainte să se lase întunericul devreme."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kezdje a kerékpározást a híres városnévtáblánál, mielőtt feltekerne a történelmi világítótoronyhoz. A delet az ikonikus hídon és a kínai negyed nyüzsgő atmoszférájában tölti. A délután festői tekerést kínál az Air Manis strandjához. Az este életre kelti Malin Kundang legendáit és a távoli sziget világítótornyát.",
         "ro": "Începeți plimbarea cu bicicleta la faimosul semn al orașului înainte de a pedala spre farul istoric. Prânzul este petrecut traversând podul și absorbind atmosfera plină de viață din cartierul chinezesc. După-amiaza oferă o cursă pitorească spre plaja Air Manis. Seara aduce la viață legendele lui Malin Kundang.",
         "en": "Kick off your ride at the famous city sign before pedaling up to the historic lighthouse. Midday is spent cycling across the Siti Nurbaya Bridge and absorbing the lively atmosphere of Chinatown. The afternoon offers a scenic ride down to Air Manis beach. Evening brings the legends of Malin Kundang and distant island lighthouses alive."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning showers mean you should ride carefully towards the lighthouse. By midday, take shelter near the bridge and river viewpoints. In the afternoon, brave the drizzle along the coastal paths to the famous beaches. Evening cycling requires good lights due to poor visibility.",
+            "hu": "A reggeli esőben óvatosan tekerj a világítótorony felé. Délben keress menedéket a híd és a folyópart közelében. Délután dacolj a szitáló esővel a tengerparti utakon. Az esti kerékpározáshoz a rossz látási viszonyok miatt erős lámpákra van szükség.",
+            "de": "Bei morgendlichem Regen sollten Sie vorsichtig zum Leuchtturm radeln. Mittags finden Sie Schutz nahe der Brücke. Nachmittags trotzen Sie dem Nieselregen auf den Küstenwegen. Abends benötigen Sie wegen der schlechten Sicht gute Fahrradlampen.",
+            "ro": "Ploaia de dimineață cere prudență spre far. La prânz, adăpostiți-vă lângă pod și râu. După-amiaza, înfruntați burnița pe traseele de coastă spre plaje. Seara aveți nevoie de lumini puternice din cauza vizibilității reduse."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Papan Nama Padang",
+                "hu": "Papan Nama Padang",
+                "ro": "Papan Nama Padang",
+                "en": "Papan Nama Padang"
+              },
+              "tip_5lang": {
+                "en": "Stop briefly at the sign to start your wet ride; lower your tire pressure slightly to maintain grip on the slick, rain-soaked pavement.",
+                "hu": "Állj meg egy pillanatra a táblánál a vizes túra kezdetén; engedj ki egy kis nyomást a gumikból, hogy jobban tapadjanak a csúszós aszfalton.",
+                "de": "Halten Sie kurz am Schild; senken Sie den Reifendruck leicht, um mehr Grip auf dem rutschigen Asphalt zu haben.",
+                "ro": "Opriți scurt la semn; reduceți ușor presiunea în anvelope pentru a menține aderența pe asfaltul alunecos și ud."
+              }
+            },
+            {
+              "name": {
+                "de": "Padang Lighthouse",
+                "hu": "Padang Lighthouse",
+                "ro": "Padang Lighthouse",
+                "en": "Padang Lighthouse"
+              },
+              "tip_5lang": {
+                "en": "Admire the tall structure shrouded in rain; wipe your brake pads clean here as grit from the wet roads can reduce stopping power.",
+                "hu": "Csodáld meg az esőbe burkolózó építményt; töröld tisztára a fékbetéteket, mert a vizes utakról felverődő sár rontja a fékhatást.",
+                "de": "Bewundern Sie das im Regen liegende Bauwerk; reinigen Sie hier Ihre Bremsbeläge, da Schmutz die Bremskraft verringert.",
+                "ro": "Admirați structura înaltă în ploaie; ștergeți plăcuțele de frână, deoarece nisipul de pe drumurile ude reduce puterea de frânare."
+              }
+            },
+            {
+              "name": {
+                "de": "Siti Nurbaya Bridge",
+                "hu": "Siti Nurbaya Bridge",
+                "ro": "Siti Nurbaya Bridge",
+                "en": "Siti Nurbaya Bridge"
+              },
+              "tip_5lang": {
+                "en": "Ride slowly across the bridge to take in the views; avoid sudden turns on the metal and painted sections which become extremely slippery.",
+                "hu": "Lassan tekerj át a hídon a kilátásért; kerüld a hirtelen kanyarodást a fém és festett részeken, amik extrém csúszósak.",
+                "de": "Fahren Sie langsam über die Brücke; vermeiden Sie plötzliche Lenkbewegungen auf lackierten Stellen, die sehr rutschig werden.",
+                "ro": "Mergeți încet pe pod; evitați virajele bruște pe secțiunile metalice și vopsite care devin extrem de alunecoase."
+              }
+            },
+            {
+              "name": {
+                "de": "View Towards The River",
+                "hu": "View Towards The River",
+                "ro": "View Towards The River",
+                "en": "View Towards The River"
+              },
+              "tip_5lang": {
+                "en": "Pause under a nearby tree canopy to watch the rain hit the water; keep a waterproof cover on your bike saddle while resting.",
+                "hu": "Tarts szünetet a fák lombkoronája alatt; amíg pihensz, tegyél vízálló huzatot a kerékpár nyergére.",
+                "de": "Pausieren Sie unter Bäumen und beobachten Sie den Regen; nutzen Sie einen Regenschutz für Ihren Sattel während der Pause.",
+                "ro": "Faceți o pauză sub copaci pentru a privi ploaia; păstrați o husă impermeabilă pe șaua bicicletei în timp ce vă odihniți."
+              }
+            },
+            {
+              "name": {
+                "de": "Padong Chinatown",
+                "hu": "Padong Chinatown",
+                "ro": "Padong Chinatown",
+                "en": "Padong Chinatown"
+              },
+              "tip_5lang": {
+                "en": "Cycle through the colorful streets and stop at a covered stall for a warm drink; wear a bright, reflective raincoat to stay visible in heavy rain.",
+                "hu": "Tekerj át a színes utcákon és állj meg egy fedett bódénál; viselj élénk, fényvisszaverő esőkabátot a jó láthatóságért.",
+                "de": "Fahren Sie durch die bunten Straßen und halten Sie an einem überdachten Stand; tragen Sie auffällige, reflektierende Regenkleidung.",
+                "ro": "Pedalați prin străzile colorate și opriți la o tarabă acoperită; purtați o pelerină reflectorizantă pentru a fi vizibil în ploaie."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Air Manis",
+                "hu": "Pantai Air Manis",
+                "ro": "Pantai Air Manis",
+                "en": "Pantai Air Manis"
+              },
+              "tip_5lang": {
+                "en": "Push your bike along the wet sand to see the ocean; ensure your chain is well-lubricated with wet lube to protect it from salty rain.",
+                "hu": "Told a biciklidet a vizes homokon; gondoskodj róla, hogy a lánc nedves kenőanyaggal legyen kezelve a sós eső ellen.",
+                "de": "Schieben Sie Ihr Rad über den nassen Sand; fetten Sie die Kette vorher gut ein, um sie vor salzigem Regen zu schützen.",
+                "ro": "Împingeți bicicleta pe nisipul ud; asigurați-vă că lanțul este bine lubrifiat pentru a-l proteja de ploaia sărată."
+              }
+            },
+            {
+              "name": {
+                "de": "Batu Malin Kundang",
+                "hu": "Batu Malin Kundang",
+                "ro": "Batu Malin Kundang",
+                "en": "Batu Malin Kundang"
+              },
+              "tip_5lang": {
+                "en": "Park carefully to view the legendary stone; step lightly around your bike as the surrounding clay and mud paths get dangerously slick.",
+                "hu": "Parkolj óvatosan a kő megtekintéséhez; lépkedj finoman, mert a környező agyagos ösvények veszélyesen csúszóssá válnak.",
+                "de": "Parken Sie vorsichtig beim Stein; gehen Sie langsam um Ihr Rad herum, da die Lehmwege gefährlich rutschig werden.",
+                "ro": "Parcați cu grijă la piatra legendară; pășiți ușor, deoarece cărările de lut din jur devin periculos de alunecoase."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercusuar Pulau Pisang",
+                "hu": "Mercusuar Pulau Pisang",
+                "ro": "Mercusuar Pulau Pisang",
+                "en": "Mercusuar Pulau Pisang"
+              },
+              "tip_5lang": {
+                "en": "Conclude your wet adventure at the historic lighthouse; double-check your bike lights before riding back in the darkening, rainy weather.",
+                "hu": "Zárd a kalandot a történelmi világítótoronynál; ellenőrizd a lámpákat, mielőtt elindulsz vissza a sötétedő, esős időben.",
+                "de": "Beenden Sie Ihr Abenteuer am historischen Leuchtturm; prüfen Sie Ihre Lichter vor der Rückfahrt im dunklen Regenwetter.",
+                "ro": "Încheiați aventura la farul istoric; verificați luminile bicicletei înainte de a vă întoarce pe vreme ploioasă și întunecată."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Kick off your ride with a crisp morning breeze at the city landmarks. Midday cycling is a joy without the oppressive heat, letting you conquer coastal hills easily. The afternoon brings beautiful light for beach views. Ride back early to beat the 17:00 sunset and dropping temperatures.",
+            "hu": "Kezdd a túrát a városi nevezetességeknél a friss reggeli szélben. A déli tekerés kényelmes az elnyomó hőség nélkül, így könnyen legyűrheted a dombokat. Délután gyönyörű fények várnak a parton. Indulj vissza korán a 17:00-es naplemente és a lehűlés miatt.",
+            "de": "Starten Sie Ihre Fahrt bei frischer Morgenbrise an den Wahrzeichen. Mittags macht Radfahren ohne Hitze Spaß. Der Nachmittag bringt tolles Licht für Strandansichten. Fahren Sie früh zurück, um dem Sonnenuntergang um 17:00 Uhr und der Kälte zuvorzukommen.",
+            "ro": "Începeți plimbarea cu o briză proaspătă la obiectivele orașului. La prânz, pedalatul e o bucurie fără căldura opresivă. După-amiaza aduce o lumină frumoasă la plajă. Întoarceți-vă devreme pentru a evita apusul de la 17:00 și frigul."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Papan Nama Padang",
+                "hu": "Papan Nama Padang",
+                "ro": "Papan Nama Padang",
+                "en": "Papan Nama Padang"
+              },
+              "tip_5lang": {
+                "en": "Start strong at the famous sign in the cool morning; layer up with a thermal cycling jersey to block the early chill before you warm up.",
+                "hu": "Kezdj erősen a híres táblánál a hűvös reggelen; vegyél fel termo kerékpáros mezt, hogy kint tartsd a korai hideget.",
+                "de": "Starten Sie am Schild in den kühlen Morgen; tragen Sie ein Thermo-Trikot, um die morgendliche Kälte abzublocken.",
+                "ro": "Începeți la faimosul semn în dimineața răcoroasă; purtați un tricou termic de ciclism pentru a bloca frigul de dimineață."
+              }
+            },
+            {
+              "name": {
+                "de": "Padang Lighthouse",
+                "hu": "Padang Lighthouse",
+                "ro": "Padang Lighthouse",
+                "en": "Padang Lighthouse"
+              },
+              "tip_5lang": {
+                "en": "Cycle past the lighthouse while enjoying the clear winter skies; keep a lightweight wind vest handy for the descending breezes near the coast.",
+                "hu": "Tekerj el a világítótorony mellett a tiszta téli égbolt alatt; tarts kéznél egy vékony széldzsekit a tengerparti szelek ellen.",
+                "de": "Radeln Sie am Leuchtturm vorbei bei klarem Himmel; halten Sie eine Windweste für die Küstenbrise bereit.",
+                "ro": "Pedalați pe lângă far sub cerul clar de iarnă; păstrați o vestă de vânt ușoară la îndemână pentru briza de coastă."
+              }
+            },
+            {
+              "name": {
+                "de": "Siti Nurbaya Bridge",
+                "hu": "Siti Nurbaya Bridge",
+                "ro": "Siti Nurbaya Bridge",
+                "en": "Siti Nurbaya Bridge"
+              },
+              "tip_5lang": {
+                "en": "Pedal over the iconic bridge with fantastic visibility; take advantage of the cool weather to tackle the bridge's incline without sweating.",
+                "hu": "Tekerj át az ikonikus hídon fantasztikus látási viszonyok között; használd ki a hűvös időt, hogy izzadás nélkül küzd le az emelkedőt.",
+                "de": "Fahren Sie über die Brücke mit toller Sicht; nutzen Sie das kühle Wetter, um die Steigung ohne Schwitzen zu meistern.",
+                "ro": "Pedalați pe podul iconic cu vizibilitate fantastică; profitați de vremea răcoroasă pentru a urca panta fără a transpira."
+              }
+            },
+            {
+              "name": {
+                "de": "View Towards The River",
+                "hu": "View Towards The River",
+                "ro": "View Towards The River",
+                "en": "View Towards The River"
+              },
+              "tip_5lang": {
+                "en": "Stop to admire the calm river waters reflecting the crisp light; wear full-fingered gloves as the wind off the water can numb your hands.",
+                "hu": "Állj meg, és csodáld meg a friss fényt tükröző nyugodt folyót; viselj hosszú ujjas kesztyűt, mert a víz felőli szél zsibbaszthatja a kezed.",
+                "de": "Halten Sie an, um den ruhigen Fluss zu bewundern; tragen Sie Vollfingerhandschuhe, da der Wind Ihre Hände auskühlen kann.",
+                "ro": "Opriți-vă să admirați râul reflectând lumina clară; purtați mănuși întregi deoarece vântul de pe apă vă poate amorți mâinile."
+              }
+            },
+            {
+              "name": {
+                "de": "Padong Chinatown",
+                "hu": "Padong Chinatown",
+                "ro": "Padong Chinatown",
+                "en": "Padong Chinatown"
+              },
+              "tip_5lang": {
+                "en": "Roam the lively alleys comfortably; pop into a local teahouse to quickly warm up your core if the winter draft gets too persistent.",
+                "hu": "Járd be a nyüzsgő sikátorokat kényelmesen; térj be egy teaházba, hogy felmelegedj, ha a téli huzat túl kitartó lenne.",
+                "de": "Durchstreifen Sie die lebhaften Gassen; wärmen Sie sich in einem Teehaus auf, falls der winterliche Luftzug zu kalt wird.",
+                "ro": "Străbateți aleile pline de viață; intrați într-o ceainărie locală pentru a vă încălzi rapid dacă curentul devine prea rece."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Air Manis",
+                "hu": "Pantai Air Manis",
+                "ro": "Pantai Air Manis",
+                "en": "Pantai Air Manis"
+              },
+              "tip_5lang": {
+                "en": "Cruise down to the beach with ease; pack a thermos with hot coffee in your bottle cage to enjoy while watching the crashing ocean waves.",
+                "hu": "Gurulj le a partra könnyedén; tegyél egy termosz forró kávét a kulacstartóba, amit a hullámokat nézve elfogyaszthatsz.",
+                "de": "Rollen Sie entspannt zum Strand; packen Sie eine Thermoskanne in den Flaschenhalter, um heißen Kaffee am Meer zu genießen.",
+                "ro": "Coborâți spre plajă cu ușurință; puneți un termos cu cafea fierbinte în suport pentru a o savura privind valurile."
+              }
+            },
+            {
+              "name": {
+                "de": "Batu Malin Kundang",
+                "hu": "Batu Malin Kundang",
+                "ro": "Batu Malin Kundang",
+                "en": "Batu Malin Kundang"
+              },
+              "tip_5lang": {
+                "en": "Examine the famous stone structures in the bright afternoon; track your time closely so you aren't caught cycling home in the early dark.",
+                "hu": "Vizsgáld meg a híres köveket a fényes délutánban; figyeld az időt, nehogy a korai sötétben kelljen hazatekerned.",
+                "de": "Betrachten Sie die Steinstrukturen im hellen Nachmittag; behalten Sie die Zeit im Auge, um nicht im Dunkeln heimzufahren.",
+                "ro": "Examinați structurile de piatră în după-amiaza luminoasă; urmăriți timpul pentru a nu fi surprinși de întunericul timpuriu."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercusuar Pulau Pisang",
+                "hu": "Mercusuar Pulau Pisang",
+                "ro": "Mercusuar Pulau Pisang",
+                "en": "Mercusuar Pulau Pisang"
+              },
+              "tip_5lang": {
+                "en": "Catch the stunning sunset views at the coastal tower; attach your bike lights now because twilight arrives abruptly right around 17:00.",
+                "hu": "Élvezd a lenyűgöző naplementét a parti toronynál; kapcsold fel a lámpákat, mert a szürkület hirtelen ereszkedik le 17:00 körül.",
+                "de": "Genießen Sie den Sonnenuntergang am Turm; schalten Sie jetzt Ihre Lichter ein, da die Dämmerung gegen 17:00 Uhr abrupt hereinbricht.",
+                "ro": "Prindeți apusul uimitor la turnul de coastă; aprindeți luminile bicicletei, amurgul vine brusc în jur de 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +1024,224 @@
         "hu": "Autóútja a kínai negyed kulturális szívében kezdődik, mielőtt átkelne a folyón a hídi panorámáért. A déli megállók a városnévtáblánál és a világítótoronynál nagyszerű fotózási lehetőségeket kínálnak. A délután sima vezetést biztosít az Air Manis strandig. Az estét az elátkozott kőalak lenyűgöző helyi mítosza zárja.",
         "ro": "Plimbarea cu mașina începe în inima culturală a cartierului chinezesc înainte de a traversa râul pentru vederi panoramice. Opririle de la prânz la semnul orașului și la far oferă ocazii foto excelente. După-amiaza propune un drum lin spre plaja Air Manis. Seara se încheie cu mitul captivant al figurii de piatră blestemate.",
         "en": "Your drive begins in the cultural heart of Chinatown before crossing the river for panoramic bridge views. Midday stops at the colossal city sign and lighthouse offer grand photo opportunities. The afternoon features a smooth drive down to the sprawling Air Manis beach. Evening closes with the captivating local myth of the cursed stone figure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Driving in the morning keeps you dry as you navigate Chinatown. By noon, enjoy river and bridge views safely from your waterproof cabin. In the afternoon, explore the coastal sites during lighter spells of rain. Evening driving means taking it slow on waterlogged roads and using fog lights.",
+            "hu": "A reggeli vezetés szárazon tart a kínai negyed felfedezésekor. Délben élvezd a folyó és a híd látványát a vízhatlan utastérből. Délután látogasd meg a parti helyszíneket két zápor között. Az esti autózás óvatosságot és ködlámpát követel a vizes utakon.",
+            "de": "Morgens bleiben Sie im Auto trocken, während Sie Chinatown erkunden. Mittags genießen Sie die Aussicht sicher aus der Kabine. Nachmittags besuchen Sie die Küste während der Regenpausen. Abends fahren Sie langsam auf nassen Straßen mit Nebelscheinwerfern.",
+            "ro": "Condusul dimineața vă ține uscat în cartierul chinezesc. La prânz, admirați râul și podul din cabina protejată. După-amiaza, vizitați coasta în timpul pauzelor de ploaie. Seara, conduceți încet pe drumurile inundate și folosiți proiectoarele."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Padong Chinatown",
+                "hu": "Padong Chinatown",
+                "ro": "Padong Chinatown",
+                "en": "Padong Chinatown"
+              },
+              "tip_5lang": {
+                "en": "Park in a multi-story garage and dash into the covered arcades; keep an oversized umbrella in your trunk for the short walks to the shops.",
+                "hu": "Parkolj be egy fedett parkolóházba; tarts egy hatalmas esernyőt a csomagtartóban a boltokig tartó rövid sétákhoz.",
+                "de": "Parken Sie in einem Parkhaus; halten Sie einen großen Regenschirm im Kofferraum bereit für die kurzen Wege zu den Geschäften.",
+                "ro": "Parcați într-un garaj acoperit; păstrați o umbrelă mare în portbagaj pentru plimbările scurte spre magazine."
+              }
+            },
+            {
+              "name": {
+                "de": "View Towards The River",
+                "hu": "View Towards The River",
+                "ro": "View Towards The River",
+                "en": "View Towards The River"
+              },
+              "tip_5lang": {
+                "en": "Pull over safely to watch the swollen river through your windows; turn on your hazard lights if the heavy rain significantly reduces visibility.",
+                "hu": "Húzódj félre biztonságosan, és nézd a megáradt folyót az ablakból; kapcsold be az elakadásjelzőt, ha a heves eső rontja a látási viszonyokat.",
+                "de": "Halten Sie sicher an, um den Fluss durch die Fenster zu sehen; schalten Sie die Warnblinkanlage ein, wenn der Regen die Sicht raubt.",
+                "ro": "Trageți pe dreapta pentru a vedea râul umflat prin geamuri; porniți avariile dacă ploaia abundentă reduce vizibilitatea."
+              }
+            },
+            {
+              "name": {
+                "de": "Siti Nurbaya Bridge",
+                "hu": "Siti Nurbaya Bridge",
+                "ro": "Siti Nurbaya Bridge",
+                "en": "Siti Nurbaya Bridge"
+              },
+              "tip_5lang": {
+                "en": "Drive slowly across the majestic structure as the surface gets slick; use your windshield defroster to prevent the glass from fogging up entirely.",
+                "hu": "Vezess lassan a fenséges hídon, mert a burkolat csúszós; használd a szélvédő páramentesítőt, nehogy az ablakok teljesen bepárásodjanak.",
+                "de": "Fahren Sie langsam über die Brücke; nutzen Sie die Scheibenheizung, um ein Beschlagen der Fenster von innen zu verhindern.",
+                "ro": "Conduceți încet peste structura maiestuoasă; folosiți dezaburirea parbrizului pentru a preveni aburirea completă a geamurilor."
+              }
+            },
+            {
+              "name": {
+                "de": "Papan Nama Padang",
+                "hu": "Papan Nama Padang",
+                "ro": "Papan Nama Padang",
+                "en": "Papan Nama Padang"
+              },
+              "tip_5lang": {
+                "en": "Quickly exit the car for a rain-speckled photo of the city sign; watch for deep puddles forming rapidly in the adjacent parking zone.",
+                "hu": "Gyorsan pattanj ki egy esős fotó erejéig a városnévtáblánál; ügyelj a parkolóban gyorsan kialakuló mély tócsákra.",
+                "de": "Steigen Sie kurz für ein Foto vom Stadtschild aus; achten Sie auf tiefe Pfützen, die sich im Parkbereich schnell bilden.",
+                "ro": "Ieșiți rapid pentru o poză cu semnul orașului; atenție la bălțile adânci care se formează rapid în zona de parcare."
+              }
+            },
+            {
+              "name": {
+                "de": "Padang Lighthouse",
+                "hu": "Padang Lighthouse",
+                "ro": "Padang Lighthouse",
+                "en": "Padang Lighthouse"
+              },
+              "tip_5lang": {
+                "en": "View the imposing lighthouse surrounded by storms; roll down the window briefly for a photo to avoid getting soaked by the horizontal rain.",
+                "hu": "Nézd meg a viharok övezte világítótornyot; csak egy pillanatra húzd le az ablakot fotózni, hogy ne áztasson el a vízszintes eső.",
+                "de": "Betrachten Sie den Leuchtturm im Sturm; kurbeln Sie das Fenster nur kurz für ein Foto herunter, um nicht nass zu werden.",
+                "ro": "Vedeți farul impunător înconjurat de furtuni; coborâți geamul scurt pentru o fotografie pentru a evita ploaia orizontală."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Air Manis",
+                "hu": "Pantai Air Manis",
+                "ro": "Pantai Air Manis",
+                "en": "Pantai Air Manis"
+              },
+              "tip_5lang": {
+                "en": "Drive up close to the beachfront to enjoy the moody coastal vibe; park facing the ocean so you can stay in the warm car during heavy downpours.",
+                "hu": "Vezess egészen a partig a borongós hangulatért; parkolj az óceán felé fordulva, hogy a heves záporok alatt a meleg autóban maradhass.",
+                "de": "Fahren Sie nah an den Strand; parken Sie mit Blick aufs Meer, um bei starken Schauern im warmen Auto zu bleiben.",
+                "ro": "Conduceți aproape de plajă; parcați cu fața la ocean pentru a putea sta în mașina caldă în timpul averselor puternice."
+              }
+            },
+            {
+              "name": {
+                "de": "Batu Malin Kundang",
+                "hu": "Batu Malin Kundang",
+                "ro": "Batu Malin Kundang",
+                "en": "Batu Malin Kundang"
+              },
+              "tip_5lang": {
+                "en": "Leave your car briefly to inspect the tragic stone figures; keep some dry towels in your back seat to wipe off any rain before driving home.",
+                "hu": "Hagyd el az autót egy kicsit a tragikus kőalakokért; tarts száraz törölközőt a hátsó ülésen, hogy letöröld az esőt vezetés előtt.",
+                "de": "Verlassen Sie das Auto kurz für die Steinfiguren; halten Sie trockene Handtücher bereit, um sich vor der Weiterfahrt abzutrocknen.",
+                "ro": "Lăsați mașina scurt pentru a vedea figurile de piatră; păstrați prosoape uscate pe bancheta din spate pentru a vă șterge de ploaie."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning drives offer clear, crisp views of the cityscape. Midday is perfect for cruising with the windows down, letting the cool breeze in. The afternoon light makes coastal roads breathtakingly beautiful. Plan your return before 17:00 when the sun sets and temperatures drop sharply.",
+            "hu": "A reggeli vezetés tiszta, éles kilátást nyújt a városra. Délben tökéletes lehúzott ablakkal autózni, beengedve a hűvös szellőt. A délutáni fények lélegzetelállítóvá teszik a parti utakat. Tervezd a hazautat 17:00 elé, mielőtt a nap lemegy és a hőmérséklet zuhan.",
+            "de": "Morgendliche Fahrten bieten klare Blicke auf die Stadt. Mittags können Sie perfekt mit offenen Fenstern fahren. Das Nachmittagslicht macht die Küstenstraßen atemberaubend. Planen Sie die Rückkehr vor 17:00 Uhr, wenn die Sonne untergeht.",
+            "ro": "Condusul de dimineață oferă vederi clare ale orașului. Prânzul este perfect pentru a conduce cu geamurile lăsate. Lumina de după-amiază face drumurile de coastă superbe. Planificați întoarcerea înainte de 17:00, când soarele apune și se răcește."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Padong Chinatown",
+                "hu": "Padong Chinatown",
+                "ro": "Padong Chinatown",
+                "en": "Padong Chinatown"
+              },
+              "tip_5lang": {
+                "en": "Drive smoothly through the area without engine overheating issues; grab a warm jacket from your trunk before walking the shaded, chilly alleys.",
+                "hu": "Vezess simán a környéken motor-túlmelegedés nélkül; kapj elő egy meleg kabátot a csomagtartóból az árnyékos, hideg sikátorokhoz.",
+                "de": "Fahren Sie entspannt durch die Gegend; holen Sie eine warme Jacke aus dem Kofferraum, bevor Sie die schattigen Gassen erkunden.",
+                "ro": "Conduceți lin prin zonă; luați o jachetă caldă din portbagaj înainte de a merge pe aleile umbrite și reci."
+              }
+            },
+            {
+              "name": {
+                "de": "View Towards The River",
+                "hu": "View Towards The River",
+                "ro": "View Towards The River",
+                "en": "View Towards The River"
+              },
+              "tip_5lang": {
+                "en": "Pull over to photograph the calm river reflecting the winter sky; use your car's heater briefly to warm up your hands after taking pictures outside.",
+                "hu": "Húzódj félre fotózni a téli eget tükröző folyót; használd egy kicsit az autó fűtését, hogy felmelegítsd a kezed a fotózás után.",
+                "de": "Halten Sie an, um den ruhigen Fluss zu fotografieren; nutzen Sie die Autoheizung kurz, um Ihre Hände nach dem Fotografieren aufzuwärmen.",
+                "ro": "Trageți pe dreapta pentru a fotografia râul; folosiți încălzirea mașinii scurt pentru a vă încălzi mâinile după poze."
+              }
+            },
+            {
+              "name": {
+                "de": "Siti Nurbaya Bridge",
+                "hu": "Siti Nurbaya Bridge",
+                "ro": "Siti Nurbaya Bridge",
+                "en": "Siti Nurbaya Bridge"
+              },
+              "tip_5lang": {
+                "en": "Cross the magnificent bridge under clear skies; the bright winter sun sits lower, so keep your sun visors down to avoid blinding glare.",
+                "hu": "Kelj át a fenséges hídon tiszta égbolt alatt; a téli nap alacsonyabban jár, így hajtsd le a napellenzőt a vakító fény ellen.",
+                "de": "Überqueren Sie die Brücke unter klarem Himmel; die Wintersonne steht tiefer, also nutzen Sie die Sonnenblenden gegen Blendung.",
+                "ro": "Treceți podul sub cerul senin; soarele de iarnă este mai jos, așa că lăsați parasolarele în jos pentru a evita orbirea."
+              }
+            },
+            {
+              "name": {
+                "de": "Papan Nama Padang",
+                "hu": "Papan Nama Padang",
+                "ro": "Papan Nama Padang",
+                "en": "Papan Nama Padang"
+              },
+              "tip_5lang": {
+                "en": "Park comfortably near the sign without breaking a sweat; leave your heavy coat in the car since the quick walk is refreshing in the mild weather.",
+                "hu": "Parkolj kényelmesen a tábla közelében; hagyd a nehéz kabátot az autóban, mert a gyors séta kifejezetten frissítő a kellemes időben.",
+                "de": "Parken Sie bequem am Schild; lassen Sie Ihren dicken Mantel im Auto, da der kurze Spaziergang bei dem milden Wetter erfrischend ist.",
+                "ro": "Parcați confortabil lângă semn; lăsați haina groasă în mașină, deoarece plimbarea scurtă este revigorantă pe vremea blândă."
+              }
+            },
+            {
+              "name": {
+                "de": "Padang Lighthouse",
+                "hu": "Padang Lighthouse",
+                "ro": "Padang Lighthouse",
+                "en": "Padang Lighthouse"
+              },
+              "tip_5lang": {
+                "en": "Stop by the lighthouse to take in the vast ocean views; pack a thermos in the cup holder to sip hot tea while admiring the coastal breeze.",
+                "hu": "Állj meg a világítótoronynál az óceáni panorámáért; tegyél egy termoszt a pohártartóba, hogy forró teát kortyolj a tengerparti szélben.",
+                "de": "Halten Sie am Leuchtturm für den Meerblick; stellen Sie eine Thermoskanne in den Getränkehalter, um heißen Tee zu schlürfen.",
+                "ro": "Opriți la far pentru a admira oceanul; puneți un termos în suport pentru a bea ceai fierbinte în timp ce admirați briza."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Air Manis",
+                "hu": "Pantai Air Manis",
+                "ro": "Pantai Air Manis",
+                "en": "Pantai Air Manis"
+              },
+              "tip_5lang": {
+                "en": "Drive along the beachfront road easily; roll down your windows to let the crisp, salty winter air fill the cabin as you head to the sands.",
+                "hu": "Autózz könnyedén a parti úton; húzd le az ablakokat, hogy a ropogós, sós téli levegő megtöltse az utasteret a homok felé haladva.",
+                "de": "Fahren Sie entspannt die Strandstraße entlang; öffnen Sie die Fenster, um die frische, salzige Winterluft in die Kabine zu lassen.",
+                "ro": "Conduceți ușor pe drumul de pe plajă; lăsați geamurile în jos pentru a lăsa aerul proaspăt și sărat de iarnă să umple cabina."
+              }
+            },
+            {
+              "name": {
+                "de": "Batu Malin Kundang",
+                "hu": "Batu Malin Kundang",
+                "ro": "Batu Malin Kundang",
+                "en": "Batu Malin Kundang"
+              },
+              "tip_5lang": {
+                "en": "Visit the stone myth safely before dusk; ensure your headlights are fully on when driving back, as twilight descends rapidly in this season.",
+                "hu": "Látogasd meg a kőmítoszt még szürkület előtt; hazafelé kapcsold fel a fényszórókat, mert az alkonyat gyorsan leereszkedik ebben az évszakban.",
+                "de": "Besuchen Sie den Steinmythos vor der Dämmerung; schalten Sie das Abblendlicht ein, da die Dämmerung in dieser Jahreszeit schnell hereinbricht.",
+                "ro": "Vizitați mitul de piatră înainte de amurg; asigurați-vă că farurile sunt aprinse la întoarcere, deoarece crepusculul coboară rapid în acest sezon."
+              }
+            }
+          ]
+        }
       }
     }
   }

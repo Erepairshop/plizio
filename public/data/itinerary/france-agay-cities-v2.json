@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a friss mediterrán szellővel a Plage d'Agay-n. A dél a nyüzsgő utcai piac helyi ízeinek felfedezésére csábít, amit a Salle du Togo kulturális élményei követnek. Délután pihenjen meg a Plage de la Beaumette lenyűgöző vörös homokján. Fejezze be a napot a Calanque Robinson Crusoë békés és festői elzártságában, hallgatva a tenger lágy morajlását.",
         "ro": "Începeți dimineața respirând briza proaspătă a Mediteranei la Plage d'Agay. La prânz, explorați aromele locale la piața stradală plină de viață, urmată de perspective culturale la Salle du Togo. După-amiaza, relaxați-vă pe nisipul roșu impresionant de la Plage de la Beaumette. Încheiați-vă ziua în izolarea senină a Calanque Robinson Crusoë, admirând apusul.",
         "en": "Begin your morning breathing in the fresh Mediterranean breeze at Plage d'Agay, preparing for a relaxed stroll. Midday invites you to explore local flavors at the bustling street market, followed by enriching cultural insights at the nearby Salle du Togo. In the afternoon, unwind on the striking red sands of Plage de la Beaumette. Conclude your day in the serene seclusion of Calanque Robinson Crusoë."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Plage d'Agay, wo der Regen das Meer in ein tiefes Grau taucht. Mittags suchen wir Schutz in den Gassen und bewundern die Dynamik der Küste unter dem Regenschirm. Am Nachmittag bietet die Salle du Togo einen trockenen Rückzugsort für Kulturinteressierte. Den Abend lassen wir an den roten Felsen ausklingen, deren Farben im nassen Zustand besonders intensiv leuchten.",
+            "hu": "Reggel a Plage d’Agay szürke ködbe burkolózik, a hullámok morajlása felerősödik az esőben. Délben a városi sétány mentén haladunk, figyelve az esőcseppek táncát a tengeren. Délután a Salle du Togo kulturális tere nyújt száraz menedéket és szellemi feltöltődést. Este a sziklák között zárjuk a napot, ahol a nedves vörös kövek mélyebb színekben pompáznak a korai sötétedés előtt.",
+            "ro": "Dimineața începe la Plage d'Agay, unde ploaia transformă marea într-un gri profund. La prânz căutăm adăpost pe străzile orașului, admirând dinamica coastei sub umbrelă. După-amiaza, Salle du Togo oferă un refugiu uscat pentru iubitorii de cultură. Seara se încheie printre stâncile roșii, ale căror culori devin deosebit de intense atunci când sunt ude, înainte de lăsarea serii.",
+            "en": "The morning starts at Plage d'Agay, where the rain turns the sea into a deep grey. At noon, we seek shelter in the town alleys, watching the rain dance on the coastal promenade. In the afternoon, Salle du Togo provides a dry cultural retreat. We end the evening by the red rocks, which glow with intense colors when wet, creating a dramatic atmosphere before nightfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage d'Agay",
+                "hu": "Plage d'Agay",
+                "ro": "Plage d'Agay",
+                "en": "Plage d'Agay"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die kraftvolle Brandung des Meeres unter einem stabilen Regenschirm; feste, wasserdichte Schuhe sind für den nassen Sand am Ufer unbedingt erforderlich.",
+                "hu": "Csodálja meg a viharos tenger erejét a partról, ahol az esőfüggöny különleges hangulatot áraszt; használjon stabil esernyőt és vízálló bakancsot a homokos részeken.",
+                "ro": "Admirați forța mării învolburate de pe mal, unde ploaia creează o atmosferă mistică; folosiți o umbrelă stabilă și încălțăminte impermeabilă pe porțiunile cu nisip.",
+                "en": "Watch the powerful swell of the sea under a sturdy umbrella as the rain adds a mystical layer to the view; waterproof boots are essential for the wet sandy shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt entlang der Straße",
+                "hu": "Éjszakai piac az utca mentén",
+                "ro": "Piața de noapte de-a lungul străzii",
+                "en": "Night market along the street"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Markisen der Verkaufsstände und genießen Sie die maritime Atmosphäre; achten Sie auf den rutschigen Asphalt während der Regenschauer.",
+                "hu": "Keressen menedéket az árusok ponyvái alatt, miközben élvezi a sós tengeri levegőt; ügyeljen a csúszós aszfaltra a hirtelen lezúduló záporok idején.",
+                "ro": "Căutați adăpost sub copertinele tarabelor în timp ce vă bucurați de aerul sărat al mării; aveți grijă la asfaltul alunecos în timpul averselor de ploaie.",
+                "en": "Seek shelter under the vendors' awnings while enjoying the salty sea breeze; watch out for the slippery pavement during sudden rain showers along the street."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle du Togo",
+                "hu": "Salle du Togo",
+                "ro": "Salle du Togo",
+                "en": "Salle du Togo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen überdachten Kulturraum, um lokale Ausstellungen im Trockenen zu bewundern; ideal, um eine Regenpause einzulegen und Kunst in Ruhe zu genießen.",
+                "hu": "Használja ki ezt a fedett kulturális teret a helyi kiállítások megtekintésére; ideális hely egy esőszünet tartására és a művészet nyugodt élvezetére.",
+                "ro": "Profitați de acest spațiu cultural acoperit pentru a vedea expozițiile locale la adăpost; este locul ideal pentru o pauză de ploaie și relaxare artistică.",
+                "en": "Take advantage of this indoor cultural space to view local exhibitions while staying dry; it is the perfect spot to take a break from the rain and enjoy art."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Beaumette",
+                "hu": "Plage de la Beaumette",
+                "ro": "Plage de la Beaumette",
+                "en": "Plage de la Beaumette"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit der Bucht, während der Regen auf die Wasseroberfläche prasselt; ein langer Regenmantel schützt Sie vor dem windigen Küstenwetter.",
+                "hu": "Élje át az öböl vad szépségét, ahogy az eső dobol a víz felszínén; egy hosszú esőkabát megvédi Önt a szeles tengerparti időjárástól a séta során.",
+                "ro": "Experimentați frumusețea brută a golfului în timp ce ploaia bate pe suprafața apei; o pelerină lungă de ploaie vă va proteja de vremea vântoasă de pe coastă.",
+                "en": "Experience the raw beauty of the bay as the rain drums on the water's surface; a long raincoat will protect you from the windy coastal weather during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque Robinson Crusoë",
+                "hu": "Calanque Robinson Crusoë",
+                "ro": "Calanque Robinson Crusoë",
+                "en": "Calanque Robinson Crusoë"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dramatische Kulisse der nassen roten Felsen vor dem dunklen Meer; betreten Sie die Felsen nicht, da diese bei Regen extrem rutschig sind.",
+                "hu": "Csodálja meg a nedves vörös sziklák drámai látványát a sötét tenger előtt; ne másszon fel a kövekre, mert esőben rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Admirați vederea dramatică a stâncilor roșii umede în fața mării întunecate; nu urcați pe pietre, deoarece devin extrem de alunecoase și periculoase pe ploaie.",
+                "en": "Admire the dramatic sight of the wet red rocks against the dark sea; do not climb on the stones as they become extremely slippery and dangerous in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Strand von Agay weckt die Geister mit kühler Seeluft. Mittags genießen wir die milde Mittelmeersonne bei einem Spaziergang durch den Ort. Am Nachmittag bietet die Salle du Togo eine warme kulturelle Pause, bevor das Licht weicher wird. Da die Sonne gegen 17:00 Uhr untergeht, beenden wir unseren Ausflug rechtzeitig mit einem Blick auf die rötliche Dämmerung.",
+            "hu": "A friss téli reggel az Agay-öbölben hűvös tengeri szellővel ébreszt minket. Napközben a mediterrán napsütés erejét élvezzük a csendes tengerparti sétányon. Délután a Salle du Togo nyújt meleg menedéket a kulturális felfedezéshez, mielőtt a fények lágyulni kezdenének. Mivel a nap 17:00 körül nyugszik, korán befejezzük a sétát, gyönyörködve az alkonyi színekben.",
+            "ro": "O dimineață proaspătă de iarnă în golful Agay ne trezește cu o briză răcoroasă de mare. În timpul zilei, ne bucurăm de soarele mediteranean pe faleza liniștită. După-amiaza, Salle du Togo oferă un refugiu cald pentru explorarea culturală, înainte ca lumina să devină difuză. Deoarece soarele apune în jur de ora 17:00, încheiem plimbarea devreme, admirând culorile amurgului.",
+            "en": "A crisp winter morning at Agay beach wakes the senses with a cool sea breeze. During the day, we enjoy the mild Mediterranean sun along the quiet promenade. In the afternoon, Salle du Togo offers a warm cultural haven before the light begins to soften. As the sun sets around 5:00 PM, we wrap up our walk early, enjoying the beautiful twilight colors over the bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage d'Agay",
+                "hu": "Plage d'Agay",
+                "ro": "Plage d'Agay",
+                "en": "Plage d'Agay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am fast leeren Strand und die kristallklare Winterluft; eine winddichte Jacke ist wichtig, um die Kühle der Meeresbrise abzuwehren.",
+                "hu": "Élvezze a nyugalmat az üres strandon és a kristálytiszta téli levegőt; egy szélálló kabát elengedhetetlen a hűvös tengeri szellő elleni védekezéshez.",
+                "ro": "Bucurați-vă de liniștea plajei goale și de aerul cristalin de iarnă; o jachetă rezistentă la vânt este esențială pentru a vă proteja de briza rece a mării.",
+                "en": "Enjoy the tranquility of the empty beach and the crystal-clear winter air; a windproof jacket is essential to ward off the chill from the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt entlang der Straße",
+                "hu": "Éjszakai piac az utca mentén",
+                "ro": "Piața de noapte de-a lungul străzii",
+                "en": "Night market along the street"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie an den winterlichen Verkaufsständen vorbei und halten Sie Ausschau nach lokalem Kunsthandwerk; tragen Sie Schal und Handschuhe für den kühlen Spaziergang.",
+                "hu": "Sétáljon végig a téli árusok között, és keresse a helyi kézműves termékeket; viseljen sálat és kesztyűt a hűvös parti sétához a délutáni órákban.",
+                "ro": "Plimbați-vă printre vânzătorii de iarnă și căutați produse artizanale locale; purtați fular și mănuși pentru plimbarea răcoroasă de pe malul mării.",
+                "en": "Stroll past the winter vendors and look for local handicrafts; wear a scarf and gloves for the chilly seaside walk during the afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle du Togo",
+                "hu": "Salle du Togo",
+                "ro": "Salle du Togo",
+                "en": "Salle du Togo"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem Kulturzentrum auf, während Sie die Exponate studieren; die Innenräume bieten einen angenehmen Kontrast zur kalten Außenluft.",
+                "hu": "Melegedjen fel ebben a kulturális központban, miközben a kiállított tárgyakat tanulmányozza; a belső terek kellemes kontrasztot nyújtanak a kinti hűvös levegőhöz képot.",
+                "ro": "Încălziți-vă în acest centru cultural în timp ce studiați obiectele expuse; interioarele oferă un contrast plăcut cu aerul rece de afară.",
+                "en": "Warm up inside this cultural center while studying the exhibited items; the interior spaces provide a pleasant contrast to the cool air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Beaumette",
+                "hu": "Plage de la Beaumette",
+                "ro": "Plage de la Beaumette",
+                "en": "Plage de la Beaumette"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das tiefblaue Wintermeer und die ungestörte Natur der Bucht; denken Sie daran, dass es im Schatten der Klippen deutlich kühler sein kann.",
+                "hu": "Csodálja meg a mélykék téli tengert és az öböl háborítatlan nyugalmát; ne feledje, hogy a sziklák árnyékában jelentősen hűvösebb lehet az idő.",
+                "ro": "Admirați marea de iarnă de un albastru profund și liniștea netulburată a golfului; nu uitați că la umbra stâncilor poate fi mult mai răcoare.",
+                "en": "Admire the deep blue winter sea and the undisturbed tranquility of the bay; remember that it can be significantly cooler in the shadow of the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque Robinson Crusoë",
+                "hu": "Calanque Robinson Crusoë",
+                "ro": "Calanque Robinson Crusoë",
+                "en": "Calanque Robinson Crusoë"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für fantastische Fotos der roten Felsen; beenden Sie Ihren Besuch vor 17:00 Uhr, um nicht von der Dunkelheit überrascht zu werden.",
+                "hu": "Használja ki a tiszta téli fényeket a vörös sziklák fotózásához; fejezze be a látogatást 17:00 előtt, hogy ne érje váratlanul a gyors sötétedés.",
+                "ro": "Profită de lumina clară de iarnă pentru a fotografia stâncile roșii; încheiați vizita înainte de ora 17:00 pentru a nu fi surprins de întunericul rapid.",
+                "en": "Take advantage of the clear winter light for photographing the red rocks; finish your visit before 5:00 PM to avoid being surprised by the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros utazását a PASSION ESTEREL-nél, a hatalmas sziklák kapujánál. Délben tekerjen az ősi Menhir dit Pierre Levée felé, magába szívva a történelmet, majd irány a Salle du Togo kulturális központja. A délután tökéletes egy festői pihenőre a Théatre de Verdure-ben és fürdésre a Beaumette-nél. Az este a Calanque des Anglais lenyűgöző látványával zárul.",
         "ro": "Începeți călătoria cu bicicleta la PASSION ESTEREL, poarta stâncilor roșii. La prânz, pedalați spre anticul Menhir dit Pierre Levée pentru o incursiune istorică, apoi vizitați inima culturală la Salle du Togo. După-amiaza este perfectă pentru o odihnă pitorească la Théatre de Verdure și înot la Beaumette. Seara se încheie admirând peisajul accidentat de la Calanque des Anglais.",
         "en": "Kick off your cycling journey at PASSION ESTEREL, the gateway to the massive red cliffs. By midday, pedal towards the ancient Menhir dit Pierre Levée, soaking in the profound prehistoric history, then head to the cultural heart at Salle du Togo. The afternoon is perfect for a scenic rest at the Théatre de Verdure and swimming at Beaumette. Your evening ends admiring the rugged Calanque des Anglais."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt bei Passion Esterel, wo wir uns mit Regenponchos ausrüsten. Vormittags führt der Weg zum Menhir durch neblige Landschaften. Mittags bietet die Salle du Togo eine trockene Pause für die müden Beine. Am Nachmittag radeln wir vorsichtig entlang der Küste zum Théatre de Verdure, wobei wir stets auf rutschige Abschnitte achten, bevor wir die Tour im Regen beenden.",
+            "hu": "A kerékpártúra a Passion Esterelnél indul, ahol esőponchókkal szerelkezünk fel. Délelőtt a Menhirhez vezető út ködös tájakon halad keresztül. Délben a Salle du Togo nyújt száraz pihenőt a fáradt lábaknak. Délután óvatosan tekerünk a tengerpart mentén a Théatre de Verdure felé, ügyelve a csúszós szakaszokra, mielőtt az esőben befejeznénk a napi túrát.",
+            "ro": "Turul cu bicicleta începe la Passion Esterel, unde ne echipăm cu pelerine de ploaie. Dimineața, drumul spre Menhir trece prin peisaje cețoase. La prânz, Salle du Togo oferă o pauză uscată pentru picioarele obosite. După-amiaza pedalăm cu atenție de-a lungul coastei spre Théatre de Verdure, fiind atenți la porțiunile alunecoase înainte de a termina turul pe ploaie.",
+            "en": "The bike tour starts at Passion Esterel, where we gear up with rain ponchos. In the morning, the path to the Menhir leads through misty landscapes. At noon, Salle du Togo provides a dry rest for tired legs. In the afternoon, we cycle carefully along the coast toward Théatre de Verdure, watching for slippery sections before finishing our rainy day journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "PASSION ESTEREL",
+                "hu": "PASSION ESTEREL",
+                "ro": "PASSION ESTEREL",
+                "en": "PASSION ESTEREL"
+              },
+              "tip_5lang": {
+                "de": "Rüsten Sie Ihr Fahrrad hier mit Schutzblechen aus und leihen Sie sich hochwertige Regenbekleidung; prüfen Sie die Bremsen vor der Abfahrt auf nasser Fahrbahn.",
+                "hu": "Szerelje fel kerékpárját sárvédőkkel és béreljen jó minőségű esőruházatot; indulás előtt ellenőrizze a fékeket a nedves úton való biztonságos megálláshoz.",
+                "ro": "Echipați-vă bicicleta cu aripi și închiriați îmbrăcăminte de ploaie de calitate; verificați frânele înainte de plecare pentru a opri în siguranță pe drum ud.",
+                "en": "Equip your bike with mudguards and rent high-quality rain gear here; check your brakes before departure to ensure safe stopping on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit Pierre Levée",
+                "hu": "Menhir dit Pierre Levée",
+                "ro": "Menhir dit Pierre Levée",
+                "en": "Menhir dit Pierre Levée"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das prähistorische Denkmal im Regen, der den Stein dunkel und mystisch wirken lässt; parken Sie das Rad sicher auf befestigtem Untergrund.",
+                "hu": "Tekintse meg a prehisztorikus emlékművet az esőben, amely sötétté és misztikussá teszi a követ; parkolja le a kerékpárt biztonságosan szilárd talajon.",
+                "ro": "Vedeți monumentul preistoric în ploaie, care face piatra să pară întunecată și mistică; parcați bicicleta în siguranță pe un teren solid.",
+                "en": "View the prehistoric monument in the rain, which makes the stone appear dark and mystical; park your bike securely on firm ground to avoid mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle du Togo",
+                "hu": "Salle du Togo",
+                "ro": "Salle du Togo",
+                "en": "Salle du Togo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um Ihre Kleidung zu trocknen und sich kurz aufzuwärmen; die überdachten Bereiche sind ideal für eine wetterfeste Pause auf der Tour.",
+                "hu": "Használja ki ezt a megállót ruhái megszárítására és egy rövid felmelegedésre; a fedett részek ideálisak egy időjárásálló pihenőhöz a túra során.",
+                "ro": "Folosiți această oprire pentru a vă usca hainele și a vă încălzi puțin; zonele acoperite sunt ideale pentru o pauză ferită de vreme în timpul turului.",
+                "en": "Use this stop to dry your clothes and warm up briefly; the indoor areas are ideal for a weather-proof break during your cycling journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Théatre de Verdure",
+                "hu": "Théatre de Verdure",
+                "ro": "Théatre de Verdure",
+                "en": "Théatre de Verdure"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Freilufttheater von den befestigten Wegen aus und meiden Sie nasse Grasflächen; achten Sie beim Absteigen auf den rutschigen Boden.",
+                "hu": "Csodálja meg a szabadtéri színházat a szilárd utakról, és kerülje a vizes füves területeket; figyeljen a csúszós talajra a kerékpárról való leszálláskor.",
+                "ro": "Admirați teatrul în aer liber de pe potecile pavate și evitați zonele cu iarbă udă; atenție la solul alunecos când coborâți de pe bicicletă.",
+                "en": "Admire the open-air theater from the paved paths and avoid wet grassy areas; pay attention to the slippery ground when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Beaumette",
+                "hu": "Plage de la Beaumette",
+                "ro": "Plage de la Beaumette",
+                "en": "Plage de la Beaumette"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich einen Blick auf das stürmische Meer, während Sie kurz unter einem Vordach rasten; tragen Sie wasserdichte Handschuhe für einen festen Griff am Lenker.",
+                "hu": "Vessen egy pillantást a viharos tengerre, miközben rövid pihenőt tart egy előtető alatt; viseljen vízálló kesztyűt a kormány biztos fogása érdekében.",
+                "ro": "Aruncați o privire la marea învolburată în timp ce faceți o scurtă pauză sub o copertină; purtați mănuși impermeabile pentru o prindere sigură pe ghidon.",
+                "en": "Take a look at the stormy sea while having a short break under a canopy; wear waterproof gloves for a secure grip on the handlebars in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque des Anglais",
+                "hu": "Calanque des Anglais",
+                "ro": "Calanque des Anglais",
+                "en": "Calanque des Anglais"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das dramatische Küstenpanorama, bleiben Sie jedoch auf den asphaltierten Straßen; fahren Sie bei der Abfahrt wegen der Pfützen besonders vorsichtig.",
+                "hu": "Élvezze a drámai parti panorámát, de maradjon az aszfaltozott utakon; a lejtőkön tekerjen különösen óvatosan a tócsák és a sár miatt.",
+                "ro": "Bucurați-vă de panorama dramatică a coastei, dar rămâneți pe drumurile asfaltate; pedalați cu mare atenție la coborâre din cauza bălților și noroiului.",
+                "en": "Enjoy the dramatic coastal panorama but stay on the paved roads; cycle extra carefully on downhill sections due to puddles and mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt bei Passion Esterel mit einer Einweisung für die kühlen Temperaturen. Vormittags radeln wir zum historischen Menhir unter strahlend blauem Himmel. Mittags bietet die Salle du Togo eine willkommene Aufwärmpause. Nachmittags erkunden wir das Théatre de Verdure, bevor wir pünktlich zum Sonnenuntergang um 17:00 Uhr die Tour an der Küste sicher beenden.",
+            "hu": "A téli reggel a Passion Esterelnél kezdődik, ahol felkészülünk a hűvös hőmérsékletre. Délelőtt a történelmi Menhirhez tekerünk a ragyogó kék ég alatt. Délben a Salle du Togo nyújt szívesen látott melegedő pihenőt. Délután felfedezzük a Théatre de Verdure-t, mielőtt pontosan a 17:00-s napnyugtakor biztonságosan befejeznénk a parti túrát.",
+            "ro": "Dimineața de iarnă începe la Passion Esterel, unde ne pregătim pentru temperaturile scăzute. Dimineața pedalăm spre Menhirul istoric sub cerul albastru strălucitor. La prânz, Salle du Togo oferă o pauză de încălzire binevenită. După-amiaza explorăm Théatre de Verdure, înainte de a încheia turul pe coastă în siguranță, exact la apusul de la ora 17:00.",
+            "en": "The winter morning starts at Passion Esterel with preparation for the cool temperatures. In the morning, we cycle to the historic Menhir under bright blue skies. At noon, Salle du Togo provides a welcome warming break. In the afternoon, we explore the Théatre de Verdure before safely ending our coastal tour exactly at the 5:00 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "PASSION ESTEREL",
+                "hu": "PASSION ESTEREL",
+                "ro": "PASSION ESTEREL",
+                "en": "PASSION ESTEREL"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich über die besten Winterrouten beraten und prüfen Sie den Reifendruck für kalte Luft; tragen Sie mehrere Schichten Kleidung für die Fahrt.",
+                "hu": "Kérjen tanácsot a legjobb téli útvonalakról, és ellenőrizze a gumiabroncsok nyomását; viseljen több réteg ruhát a kerékpározáshoz a hideg ellen.",
+                "ro": "Cereți sfaturi despre cele mai bune rute de iarnă și verificați presiunea în anvelope; purtați mai multe straturi de haine pentru a vă proteja de frig.",
+                "en": "Get advice on the best winter routes and check your tire pressure for the cold air; wear multiple layers of clothing for the ride to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit Pierre Levée",
+                "hu": "Menhir dit Pierre Levée",
+                "ro": "Menhir dit Pierre Levée",
+                "en": "Menhir dit Pierre Levée"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Stein im klaren Winterlicht, das die Details der Oberfläche hervorhebt; ein warmes Getränk aus der Thermoskanne hilft gegen die Kälte.",
+                "hu": "Csodálja meg a követ a tiszta téli fényben, amely kiemeli a felszín részleteit; egy meleg ital a termoszból sokat segít a hideg elleni védekezésben.",
+                "ro": "Admirați piatra în lumina clară de iarnă, care evidențiază detaliile suprafeței; o băutură caldă din termos ajută mult împotriva frigului de afară.",
+                "en": "Admire the stone in the clear winter light, which highlights the surface details; a warm drink from a thermos helps significantly against the outdoor chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle du Togo",
+                "hu": "Salle du Togo",
+                "ro": "Salle du Togo",
+                "en": "Salle du Togo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine Pause vom Fahrtwind und zum Aufwärmen der Hände; ideal, um die kulturelle Seite von Agay im Winter zu entdecken.",
+                "hu": "Használja a belső teret a menetszél elleni pihenőre és a kezei felmelegítésére; ideális hely Agay kulturális oldalának felfedezésére télen is.",
+                "ro": "Folosiți spațiul interior pentru o pauză de vânt și pentru a vă încălzi mâinile; este locul ideal pentru a descoperi latura culturală a Agay-ului iarna.",
+                "en": "Use the indoor space for a break from the wind and to warm up your hands; it's an ideal spot to discover Agay's cultural side even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Théatre de Verdure",
+                "hu": "Théatre de Verdure",
+                "ro": "Théatre de Verdure",
+                "en": "Théatre de Verdure"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur ohne die sommerlichen Menschenmassen; achten Sie auf schattige Stellen, an denen der Boden nach Frost rutschig sein kann.",
+                "hu": "Élvezze az építészetet a nyári tömeg nélkül; ügyeljen az árnyékos helyekre, ahol a talaj a hajnali fagy után még napközben is csúszós maradhat.",
+                "ro": "Bucurați-vă de arhitectură fără aglomerația de vară; atenție la locurile umbrite, unde solul poate rămâne alunecos după înghețul din zori.",
+                "en": "Enjoy the architecture without the summer crowds; watch out for shaded areas where the ground may remain slippery after early morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Beaumette",
+                "hu": "Plage de la Beaumette",
+                "ro": "Plage de la Beaumette",
+                "en": "Plage de la Beaumette"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das glitzernde Meer bei tiefstehender Wintersonne; halten Sie die Rast kurz, um durch das Stehen in der Kälte nicht auszukühlen.",
+                "hu": "Csodálja meg a csillogó tengert az alacsonyan járó téli napsütésben; tartson rövid pihenőt, hogy az egy helyben álláskor ne hűljön ki a teste.",
+                "ro": "Admirați marea strălucitoare sub soarele de iarnă; faceți o pauză scurtă pentru ca organismul să nu se răcească stând într-un singur loc.",
+                "en": "Admire the sparkling sea under the low winter sun; keep your break short so your body doesn't cool down too much while standing still."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque des Anglais",
+                "hu": "Calanque des Anglais",
+                "ro": "Calanque des Anglais",
+                "en": "Calanque des Anglais"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Farben der Klippen im warmen Licht des frühen Abends; kehren Sie vor Einbruch der Dunkelheit um 17:00 Uhr zum Ausgangspunkt zurück.",
+                "hu": "Élje át a sziklák színeit a kora esti meleg fényekben; térjen vissza a kiindulópontra a sötétség beállta, vagyis 17:00 előtt.",
+                "ro": "Experimentați culorile stâncilor în luminile calde de seară; reveniți la punctul de plecare înainte de lăsarea întunericului, adică ora 17:00.",
+                "en": "Experience the colors of the cliffs in the warm early evening light; return to the starting point before darkness falls at 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Látványos autózása a Rastel d'Agay magasságából nyíló lélegzetelállító panorámával kezdődik. A dél történelmi váltást hoz az ősi Menhir dit Pierre Levée és a hagyományos Chapelle Saint-Roch meglátogatásával. Délután tisztelegjen az 1944-es partraszállási emlékműnél, és készítsen fotókat a Belvédère de la Batterie-től. Az este lágyan érkezik a Plage des Anglais sima kavicsaira.",
         "ro": "Călătoria dvs. spectaculoasă începe cu vederi panoramice uluitoare de pe înălțimile Rastel d'Agay. Prânzul aduce o schimbare istorică, vizitând anticul Menhir dit Pierre Levée și tradiționala Chapelle Saint-Roch. După-amiaza, aduceți un omagiu la monumentul Debarcărilor din 1944 și faceți fotografii de la Belvédère de la Batterie. Seara sosește pe pietricelele de la Plage des Anglais.",
         "en": "Your spectacular drive starts with breathtaking panoramic views from the heights of Rastel d'Agay. Midday brings a historic shift as you visit the ancient Menhir dit Pierre Levée and the quiet, traditional Chapelle Saint-Roch. In the afternoon, pay tribute at the 1944 Landings monument and capture photos from Belvédère de la Batterie. Evening gently arrives on the smooth pebbles of Plage des Anglais."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Panoramafahrt beginnt am Rastel d'Agay, wo die Wolken tief über den Gipfeln hängen. Vormittags führt die Route zum Menhir durch neblige Täler. Mittags bietet die Chapelle Saint-Roch einen schützenden Innenraum. Am Nachmittag genießen wir den Blick vom Belvédère de la Batterie aus dem trockenen Auto heraus, bevor wir den Tag an der Küstenstraße im strömenden Regen sicher beenden.",
+            "hu": "A panorámaautózás a Rastel d’Agaynál kezdődik, ahol a felhők alacsonyan szállnak a csúcsok felett. Délelőtt a Menhirhez vezető út ködös völgyeken át vezet. Délben a Chapelle Saint-Roch nyújt védelmet az eső elől. Délután a Belvédère de la Batterie kilátását a száraz autóból élvezzük, mielőtt a parti úton, szakadó esőben biztonságosan befejeznénk a napi túrát.",
+            "ro": "Traseul panoramic începe la Rastel d'Agay, unde norii plutesc jos deasupra vârfurilor. Dimineața, drumul spre Menhir trece prin văi cețoase. La prânz, Chapelle Saint-Roch oferă protecție împotriva ploii. După-amiaza ne bucurăm de priveliștea de la Belvédère de la Batterie din mașina uscată, înainte de a încheia turul în siguranță pe drumul de coastă, sub ploaia torențială.",
+            "en": "The scenic drive starts at Rastel d'Agay, where clouds hang low over the peaks. In the morning, the route to the Menhir leads through misty valleys. At noon, Chapelle Saint-Roch provides a dry sanctuary. In the afternoon, we enjoy the views from Belvédère de la Batterie from the comfort of our dry car before finishing the tour safely along the rainy coast road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rastel d'Agay",
+                "hu": "Rastel d'Agay",
+                "ro": "Rastel d'Agay",
+                "en": "Rastel d'Agay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Bucht durch die Windschutzscheibe; achten Sie auf den kurvigen Bergstraßen besonders auf Aquaplaning und schlechte Sicht.",
+                "hu": "Élvezze az öbölre nyíló kilátást a szélvédőn keresztül; a kanyargós hegyi utakon különösen figyeljen a vízenúszás veszélyére és a rossz látási viszonyokra.",
+                "ro": "Bucurați-vă de priveliștea golfului prin parbriz; pe drumurile montane șerpuite, fiți atenți la riscul de acvaplanare și la vizibilitatea redusă.",
+                "en": "Enjoy the view of the bay through the windshield; on the winding mountain roads, be especially careful of aquaplaning and reduced visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit Pierre Levée",
+                "hu": "Menhir dit Pierre Levée",
+                "ro": "Menhir dit Pierre Levée",
+                "en": "Menhir dit Pierre Levée"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Stopp für ein Foto des nassen Monuments; bleiben Sie auf befestigten Parkflächen, um nicht im aufgeweichten Boden steckenzubleiben.",
+                "hu": "Tartson egy rövid megállót a nedves emlékmű lefotózásához; maradjon a szilárd parkolóhelyeken, hogy elkerülje az elakadást a felázott talajon.",
+                "ro": "Faceți o scurtă oprire pentru a fotografia monumentul umed; rămâneți în parcările pavate pentru a evita blocarea în solul înmuiat de ploaie.",
+                "en": "Take a short stop to photograph the wet monument; stay on paved parking areas to avoid getting stuck in the softened, muddy ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Roch",
+                "hu": "Chapelle Saint-Roch",
+                "ro": "Chapelle Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das ruhige Innere der Kapelle, um dem Regen zu entfliehen; die spirituelle Atmosphäre wirkt bei grauem Wetter besonders besinnlich und friedlich.",
+                "hu": "Látogasson el a kápolna csendes belsejébe, hogy elmeneküljön az eső elől; a spirituális légkör szürke időben különösen meghitt és békés hangulatot áraszt.",
+                "ro": "Vizitați interiorul liniștit al capelei pentru a scăpa de ploaie; atmosfera spirituală este deosebit de intimă și pașnică pe vreme gri.",
+                "en": "Visit the quiet interior of the chapel to escape the rain; the spiritual atmosphere feels especially intimate and peaceful during grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Landungsdenkmal (1944)",
+                "hu": "Partraszállási emlékmű (1944)",
+                "ro": "Monumentul debarcărilor (1944)",
+                "en": "Landings monument (1944)"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal kurz vom Fahrzeug aus oder unter einem Schirm; achten Sie beim Ein- und Aussteigen auf die großen Pfützen am Straßenrand.",
+                "hu": "Tekintse meg az emlékművet az autóból vagy egy esernyő alól; a ki- és beszálláskor ügyeljen az út mentén kialakult nagy tócsákra.",
+                "ro": "Vedeți monumentul din mașină sau de sub o umbrelă; la urcare și coborâre, aveți grijă la bălțile mari formate de-a lungul drumului.",
+                "en": "View the monument briefly from the vehicle or under an umbrella; watch out for large puddles along the roadside when getting in and out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère de la Batterie",
+                "hu": "Belvédère de la Batterie",
+                "ro": "Belvédère de la Batterie",
+                "en": "Belvédère de la Batterie"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Aussichtspunkt für einen weiten Blick über das regnerische Meer; die Scheibenheizung hilft dabei, die Sicht für Fotos klar zu halten.",
+                "hu": "Használja ezt a kilátópontot az esős tenger feletti távoli kilátáshoz; a szélvédőfűtés segít tisztán tartani a kilátást a fotózáshoz.",
+                "ro": "Folosiți acest punct de observație pentru o vedere panoramică asupra mării pe ploaie; degivrarea parbrizului ajută la menținerea vizibilității pentru fotografii.",
+                "en": "Use this viewpoint for a vast outlook over the rainy sea; using the windshield defroster will help keep your view clear for taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Anglais",
+                "hu": "Plage des Anglais",
+                "ro": "Plage des Anglais",
+                "en": "Plage des Anglais"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Naturschauspiel der Wellen an den Felsen vom Parkplatz aus; fahren Sie bei der Rückfahrt wegen der Dunkelheit und Nässe besonders vorsichtig.",
+                "hu": "Figyelje meg a hullámok játékát a sziklákon a parkolóból; a visszavezető úton legyen különösen óvatos a sötétség és a nedves aszfalt miatt.",
+                "ro": "Observați jocul valurilor pe stânci din parcare; la drumul de întoarcere fiți extrem de precauți din cauza întunericului și a asfaltului ud.",
+                "en": "Observe the waves crashing against the rocks from the parking area; be extra cautious on the drive back due to the combination of darkness and wet roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt beginnt am Rastel d'Agay mit einer klaren Sicht bis zum Horizont. Vormittags erkunden wir die historischen Stätten im Hinterland bequem im beheizten Wagen. Mittags besuchen wir die Chapelle Saint-Roch für einen Moment der Stille. Am Nachmittag bietet der Belvédère de la Batterie goldenes Licht, bevor wir den Tag gegen 17:00 Uhr pünktlich zum Sonnenuntergang am Meer abschließen.",
+            "hu": "A téli autós túra a Rastel d’Agaynál kezdődik, ahonnan tiszta kilátás nyílik a horizontig. Délelőtt a hátország történelmi helyszíneit fedezzük fel a fűtött utastér kényelméből. Délben a Chapelle Saint-Roch-t látogatjuk meg egy csendes percre. Délután a Belvédère de la Batterie aranyfényű panorámát kínál, mielőtt 17:00-kor, a napnyugtával egy időben befejeznénk a túrát.",
+            "ro": "Turul cu mașina de iarnă începe la Rastel d'Agay, de unde aveți o vedere clară până la orizont. Dimineața explorăm locurile istorice din interiorul țării din confortul mașinii încălzite. La prânz vizităm Chapelle Saint-Roch pentru un moment de liniște. După-amiaza, Belvédère de la Batterie oferă o panoramă aurie, înainte de a încheia turul la ora 17:00, odată cu apusul.",
+            "en": "The winter car tour starts at Rastel d'Agay, offering a clear view to the horizon. In the morning, we explore historic sites in the hinterland from the comfort of a heated car. At noon, we visit Chapelle Saint-Roch for a quiet moment. In the afternoon, Belvédère de la Batterie provides a golden panorama before we finish the tour at 5:00 PM as the sun sets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rastel d'Agay",
+                "hu": "Rastel d'Agay",
+                "ro": "Rastel d'Agay",
+                "en": "Rastel d'Agay"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das Panorama im kristallklaren Winterlicht; halten Sie eine warme Decke im Auto bereit, falls Sie für Fotos kurz aussteigen möchten.",
+                "hu": "Csodálja meg a panorámát a kristálytiszta téli fényben; tartson egy meleg takarót az autóban, ha a fotózáshoz rövid időre ki szeretne szállni.",
+                "ro": "Admirați panorama în lumina cristalină de iarnă; păstrați o pătură caldă în mașină dacă doriți să coborâți scurt timp pentru fotografii.",
+                "en": "Admire the panorama in the crystal-clear winter light; keep a warm blanket in the car in case you want to step out briefly for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit Pierre Levée",
+                "hu": "Menhir dit Pierre Levée",
+                "ro": "Menhir dit Pierre Levée",
+                "en": "Menhir dit Pierre Levée"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie den Menhir ohne die sommerliche Hitze und genießen Sie die kühle Luft; die Parkplätze sind im Winter meist leer und leicht zugänglich.",
+                "hu": "Tekintse meg a menhirt a nyári hőség nélkül, élvezve a hűvös levegőt; a parkolóhelyek télen általában üresek és könnyen hozzáférhetőek.",
+                "ro": "Vedeți menhirul fără căldura verii, bucurându-vă de aerul răcoros; parcările sunt de obicei goale și ușor accesibile pe timpul iernii.",
+                "en": "Visit the menhir without the summer heat and enjoy the cool air; the parking spaces are usually empty and easily accessible during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Roch",
+                "hu": "Chapelle Saint-Roch",
+                "ro": "Chapelle Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille in der Kapelle, die im Winter ein idealer Rückzugsort ist; achten Sie beim Parken auf gefrorenes Laub auf dem Boden.",
+                "hu": "Élvezze a békés csendet a kápolnában, amely télen ideális menedékhely; parkoláskor ügyeljen a talajon lévő megfagyott, csúszós falevelekre.",
+                "ro": "Bucurați-vă de liniștea deplină din capelă, care este un refugiu ideal iarna; la parcare, aveți grijă la frunzele înghețate și alunecoase de pe sol.",
+                "en": "Enjoy the peaceful silence in the chapel, which is an ideal sanctuary in winter; watch out for frozen, slippery leaves on the ground when parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Landungsdenkmal (1944)",
+                "hu": "Partraszállási emlékmű (1944)",
+                "ro": "Monumentul debarcărilor (1944)",
+                "en": "Landings monument (1944)"
+              },
+              "tip_5lang": {
+                "de": "Huldigen Sie der Geschichte an diesem ruhigen Ort am Meer; tragen Sie eine warme Jacke, da der Wind hier im Winter recht bissig sein kann.",
+                "hu": "Adózzon a történelemnek ezen a csendes tengerparti helyszínen; viseljen meleg kabátot, mert a szél itt télen meglehetősen metsző lehet.",
+                "ro": "Onorați istoria în acest loc liniștit de pe malul mării; purtați o jachetă groasă, deoarece vântul poate fi destul de tăios aici pe timpul iernii.",
+                "en": "Pay tribute to history at this quiet seaside location; wear a warm jacket, as the wind here can be quite biting during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère de la Batterie",
+                "hu": "Belvédère de la Batterie",
+                "ro": "Belvédère de la Batterie",
+                "en": "Belvédère de la Batterie"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das tiefe Blau des Meeres unter der tiefstehenden Sonne; die klare Luft ermöglicht im Winter oft eine Sicht bis zu weit entfernten Inseln.",
+                "hu": "Csodálja meg a tenger mélykék színét az alacsonyan járó nap alatt; a tiszta levegő télen gyakran lehetővé teszi a távoli szigetek megpillantását is.",
+                "ro": "Admirați albastrul profund al mării sub soarele ce apune; aerul curat de iarnă permite adesea vizibilitatea până la insulele îndepărtate.",
+                "en": "Admire the deep blue of the sea under the low-hanging sun; the clear winter air often allows visibility as far as distant islands on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Anglais",
+                "hu": "Plage des Anglais",
+                "ro": "Plage des Anglais",
+                "en": "Plage des Anglais"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem Blick auf die rötlich leuchtenden Felsen; kehren Sie vor 17:00 Uhr zum Wagen zurück, bevor die Kälte nach Sonnenuntergang zunimmt.",
+                "hu": "Zárja a napot a vörösen izzó sziklák látványával; térjen vissza az autóhoz 17:00 előtt, mielőtt a naplemente után hirtelen lehűlne a levegő.",
+                "ro": "Încheiați ziua cu vederea stâncilor care strălucesc roșiatic; reveniți la mașină înainte de ora 17:00, înainte ca frigul să se accentueze după apus.",
+                "en": "End the day with a view of the glowing red rocks; return to the car before 5:00 PM before the air cools down significantly after sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

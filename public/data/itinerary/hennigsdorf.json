@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a történelmi városházánál Hennigsdorfban. Délben a természet vonzza a fürdőhelyhez és a Nieder Neuendorfer See-hez. Délután elmerülhet a helyi történelemben a bájos falusi templomnál. Az estét elgondolkodva zárja a Nieder Neuendorf megőrzött határtornyánál, amely a múltra emlékeztet.",
         "ro": "Începeți ziua la primăria istorică din Hennigsdorf. La amiază, natura vă atrage la locul de scăldat și la lacul Nieder Neuendorfer. După-amiaza vă scufundați în istoria locală la biserica de sat. Seara se încheie reflexiv la turnul de frontieră Nieder Neuendorf, perfect conservat ca mărturie.",
         "en": "Start your day at the historic town hall of Hennigsdorf. Around midday, nature calls you to the natural bathing spot and the Nieder Neuendorfer lake. In the afternoon, dive into local history at the charming village church. Conclude the evening thoughtfully at the preserved Nieder Neuendorf border tower."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt am Rathaus, dessen Portal Schutz vor den ersten Tropfen bietet.\n\nMittags führen die Wege zum See durch mystischen Nebel; wasserfeste Wanderschuhe sind wegen des Matsches nun Pflicht.\n\nAm Nachmittag bietet die Dorfkirche einen wunderbaren, trockenen Rückzugsort für einen Moment der Stille.\n\nDen Abend lassen wir sicher im Grenzturm ausklingen, während der Regen lautstark gegen die hohen Fensterscheiben peitscht.",
+            "hu": "Az esős reggel a városháza árkádjai alatt indul, ahol az épület eresze ad menedéket az első cseppek elől.\n\nDélben a tóparti ösvényeken misztikus a köd, de a vízálló cipő elengedhetetlen a felázott talaj miatt.\n\nDélután a falusi templom csendes és száraz belső tere nyújt tökéletes menedéket egy nagyobb zápor elől.\n\nAz estét a határtorony múzeumában zárjuk, biztonságban a sötétedő várost verő őszi esőtől.",
+            "ro": "O dimineață ploioasă începe sub arcadele primăriei, care oferă adăpost în fața primilor stropi de ploaie.\n\nLa prânz, potecile spre lac sunt învăluite în ceață; încălțămintea impermeabilă este obligatorie din cauza noroiului.\n\nDupă-amiaza, biserica satului oferă un refugiu minunat și uscat pentru un moment de liniște deplină.\n\nSeara se încheie în siguranță la turnul muzeu, în timp ce ploaia bate cu putere în ferestrele înalte.",
+            "en": "A rainy morning starts at the Town Hall, using its stone porch as a shelter from the first drops of rain.\n\nAt noon, the paths to the lake are misty and atmospheric, but waterproof hiking boots are essential for the mud.\n\nIn the afternoon, the village church provides a wonderful dry sanctuary for a peaceful moment away from the showers.\n\nThe evening ends safely inside the border tower museum while the rain lashes against the high window panes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hennigsdorfer Rathaus",
+                "hu": "Hennigsdorfi Városháza",
+                "ro": "Primăria Veche Hennigsdorf",
+                "en": "Hennigsdorf Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom trockenen Portal aus; der Marktplatz ist bei Regen oft sehr windig, daher ist ein stabiler Schirm oder eine feste Kapuze hier absolut ratsam.",
+                "hu": "Csodálja meg az épületet a száraz kapualjból; a főtér esőben gyakran nagyon szeles, ezért egy stabil esernyő vagy egy szoros kapucni viselése itt mindenképpen ajánlott.",
+                "ro": "Admirați arhitectura din portalul uscat; piața este adesea foarte vântoasă când plouă, așa că o umbrelă rezistentă sau o glugă fixă este absolut recomandată aici.",
+                "en": "Admire the architecture from the dry portal; the town square is often very windy when it rains, so a sturdy umbrella or a tight hood is absolutely recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturbadestelle",
+                "hu": "Természetes fürdőhely",
+                "ro": "Loc de scăldat natural",
+                "en": "Naturbadestelle"
+              },
+              "tip_5lang": {
+                "de": "Die Badestelle wirkt im Regen melancholisch und leer; die Wiesenwege sind aufgeweicht, tragen Sie daher unbedingt wasserfeste Wanderstiefel für den Uferspaziergang.",
+                "hu": "A strand esőben melankolikus és üres; a füves ösvények feláztak, ezért feltétlenül viseljen vízálló túrabakancsot a tóparti séta során a sár elkerülése érdekében.",
+                "ro": "Plaja pare melancolică și goală pe ploaie; potecile cu iarbă sunt înmuiate, așa că purtați neapărat ghete de munte impermeabile pentru plimbarea pe malul lacului.",
+                "en": "The beach looks melancholy and empty in the rain; the grassy paths are soaked, so be sure to wear waterproof hiking boots for the walk along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Nieder Neuendorfer See",
+                "hu": "Nieder Neuendorfer See",
+                "ro": "Lacul Nieder Neuendorf",
+                "en": "Nieder Neuendorfer See"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Wasser im dichten Nebel; der Uferweg kann sehr schlammig sein, achten Sie auf rutschige Stellen und meiden Sie die steilen Grasböschungen.",
+                "hu": "Élvezze a kilátást a vízre a sűrű ködben; a tóparti út nagyon sáros lehet, ügyeljen a csúszós szakaszokra, és kerülje a meredek, vizes füves rézsűket a biztonságért.",
+                "ro": "Bucurați-vă de vederea spre apă în ceața densă; drumul de pe mal poate fi foarte noroios, fiți atenți la porțiunile alunecoase și evitați taluzurile de iarbă abrupte.",
+                "en": "Enjoy the view of the water in the thick fog; the shore path can be very muddy, watch out for slippery spots and avoid the steep, wet grassy banks for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorfkirche Nieder Neuendorf",
+                "hu": "Nieder Neuendorf falusi temploma",
+                "ro": "Biserica din Nieder Neuendorf",
+                "en": "Nieder Neuendorf Village Church"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das schlichte Innere der historischen Dorfkirche; es ist der ideale Ort, um sich im Trockenen kurz von der Wanderung zu erholen und die Stille zu genießen.",
+                "hu": "Tekintse meg a történelmi falusi templom egyszerű belső terét; ez az ideális hely, hogy a túra során rövid időre megpihenjen a szárazban és élvezze a csendet.",
+                "ro": "Vizitați interiorul simplu al bisericii istorice din sat; este locul ideal pentru a vă odihni puțin la uscat în timpul drumeției și pentru a vă bucura de liniște.",
+                "en": "Visit the simple interior of the historic village church; it is the ideal place to take a short break in the dry during your hike and enjoy the peaceful silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenzturm Nieder Neuendorf",
+                "hu": "Nieder Neuendorf határtornya",
+                "ro": "Turnul de frontieră Nieder Neuendorf",
+                "en": "Nieder Neuendorf Border Tower"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen ausführlichen Besuch der Turmausstellung; drinnen bleiben Sie garantiert trocken und erfahren alles Wichtige zur lokalen Geschichte.",
+                "hu": "Használja ki az esőszünetet a toronykiállítás alapos megtekintésére; bent garantáltan szárazon marad, miközben mindent megtudhat a helyi határmenti történelemről.",
+                "ro": "Profită de pauza de ploaie pentru o vizită detaliată a expoziției din turn; în interior vei rămâne garantat uscat în timp ce afli totul despre istoria locală.",
+                "en": "Take advantage of the rain break for a detailed visit to the tower exhibition; you are guaranteed to stay dry inside while learning all about local border history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus erfordert warme Schichten und Handschuhe gegen den schneidenden Wind.\n\nMittags bietet der Nieder Neuendorfer See eine klare, eisige Aussicht; die Wege sind oft gefroren und daher rutschig.\n\nNachmittags wärmen wir uns in der kleinen Dorfkirche auf, bevor wir den historischen Grenzturm besichtigen.\n\nDa die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den letzten Schimmer über dem Eis, bevor es dunkel wird.",
+            "hu": "A fagyos reggel a városházánál kezdődik, ahol a csípős szél miatt réteges öltözet és meleg kesztyű szükséges.\n\nDélben a Nieder Neuendorfer See jeges partján sétálunk, figyelve a csúszós, lefagyott szakaszokra az ösvényeken.\n\nDélután a kis templom nyugalma és a torony múzeuma vár ránk, ahol végre kicsit felengedhetünk a hideg után.\n\nMivel 17:00-kor már naplemente van, élvezzük az utolsó fényeket a jég felett, mielőtt hirtelen leszáll az éj.",
+            "ro": "O dimineață geroasă la primărie necesită straturi groase de haine și mănuși împotriva vântului tăios.\n\nLa prânz, lacul oferă o priveliște clară și înghețată; potecile sunt adesea înghețate și, prin urmare, foarte alunecoase.\n\nDupă-amiaza ne încălzim în mica biserică din sat înainte de a vizita turnul istoric de frontieră.\n\nDeoarece soarele apune deja în jurul orei 17:00, ne bucurăm de ultima licărire peste gheață înainte de a se întuneca.",
+            "en": "A frosty morning at the Town Hall requires warm layers and gloves against the biting winter wind.\n\nAt noon, the lake offers a clear, icy view; the paths are often frozen and therefore quite slippery underfoot.\n\nIn the afternoon, we warm up in the small village church before visiting the historic border tower museum.\n\nSince the sun sets early around 17:00, we enjoy the last shimmer over the ice before the darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hennigsdorfer Rathaus",
+                "hu": "Hennigsdorfi Városháza",
+                "ro": "Primăria Veche Hennigsdorf",
+                "en": "Hennigsdorf Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Rathaus im Winterlicht; der Platz ist oft sehr zugig, achten Sie auf glatte Stellen auf dem Kopfsteinpflaster zwischen den Gebäuden.",
+                "hu": "Csodálja meg a városházát a téli fényekben; a tér gyakran nagyon huzatos, ezért ügyeljen a csúszós részekre az épületek közötti macskaköves burkolaton.",
+                "ro": "Admirați primăria în lumina iernii; piața este adesea foarte expusă vântului, atenție la porțiunile alunecoase de pe pavajul dintre clădiri.",
+                "en": "Admire the town hall in the winter light; the square is often very draughty, so watch out for slippery patches on the cobblestones between the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturbadestelle",
+                "hu": "Természetes fürdőhely",
+                "ro": "Loc de scăldat natural",
+                "en": "Naturbadestelle"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang bei Frost ist sehr erfrischend; tragen Sie eine winddichte Jacke, da die Kälte vom Wasser her besonders intensiv wirkt.",
+                "hu": "Egy magányos tengerparti séta fagyban nagyon frissítő; viseljen szélálló kabátot, mivel a víz felől érkező hideg ilyenkor különösen intenzív és csontig hatoló.",
+                "ro": "O plimbare solitară pe plajă în timpul gerului este revigorantă; purtați o jachetă rezistentă la vânt, deoarece frigul de pe apă este deosebit de intens.",
+                "en": "A lonely walk on the beach in the frost is very refreshing; wear a windproof jacket as the cold coming off the water is particularly intense in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Nieder Neuendorfer See",
+                "hu": "Nieder Neuendorfer See",
+                "ro": "Lacul Nieder Neuendorf",
+                "en": "Nieder Neuendorfer See"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene See bietet eine tolle Kulisse; betreten Sie das Eis jedoch niemals und bleiben Sie auf den gestreuten Wegen, um Stürze zu vermeiden.",
+                "hu": "A befagyott tó remek hátteret nyújt a fotókhoz; soha ne lépjen azonban a jégre, és maradjon a szórt utakon az esések elkerülése érdekében.",
+                "ro": "Lacul înghețat oferă un decor minunat; totuși, nu pășiți niciodată pe gheață și rămâneți pe drumurile curățate pentru a evita căzăturile.",
+                "en": "The frozen lake provides a great backdrop; however, never step onto the ice and stay on the sanded paths to avoid falls on slippery sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorfkirche Nieder Neuendorf",
+                "hu": "Nieder Neuendorf falusi temploma",
+                "ro": "Biserica din Nieder Neuendorf",
+                "en": "Nieder Neuendorf Village Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein schlichter Ort der Besinnung; nutzen Sie die kurzen Öffnungszeiten, um kurz der Kälte zu entfliehen und die winterliche Ruhe zu spüren.",
+                "hu": "A templom az elmélyülés egyszerű helyszíne; használja ki a rövid nyitvatartást, hogy elmeneküljön a hideg elől és átélje a téli nyugalom különleges hangulatát.",
+                "ro": "Biserica este un loc simplu de meditație; profitați de orele scurte de deschidere pentru a scăpa puțin de frig și pentru a simți liniștea hibernală.",
+                "en": "The church is a simple place for reflection; take advantage of the short opening hours to escape the cold briefly and feel the winter peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenzturm Nieder Neuendorf",
+                "hu": "Nieder Neuendorf határtornya",
+                "ro": "Turnul de frontieră Nieder Neuendorf",
+                "en": "Nieder Neuendorf Border Tower"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellung vor Sonnenuntergang um 17:00 Uhr; die Innenräume sind windgeschützt und bieten eine willkommene Aufwärmpause am Ende der Tour.",
+                "hu": "Látogassa meg a kiállítást még a 17:00-s naplemente előtt; a belső terek szélvédettek és kellemes felmelegedési lehetőséget nyújtanak a túra végén.",
+                "ro": "Vizitați expoziția înainte de apusul soarelui de la ora 17:00; interioarele sunt protejate de vânt și oferă o pauză de încălzire binevenită la finalul turului.",
+                "en": "Visit the exhibition before the 17:00 sunset; the interiors are protected from the wind and offer a welcome warm-up break at the end of the tour."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Induljon sportosan reggel a városházától, majd tekerjen a szabadidőparkba egy kis játékra. Délben pihenjen a kiterjedt Nieder Neuendorfer See partján. A délután a történelemről szól a határtoronynál és a Havel folyó mentén. Este csendes nyugalmat talál a festői szépségű Heiligensee partjainál.",
         "ro": "Începeți dimineața sportiv la primărie, apoi pedalați spre parc pentru un joc de tenis. La prânz, relaxați-vă pe malurile lacului Nieder Neuendorfer. După-amiaza este dedicată istoriei la turnul de frontieră și de-a lungul râului Havel. Seara, găsiți liniște la pitorescul lac Heiligensee.",
         "en": "Start your morning sportily at the town hall, then cycle to the leisure park for some table tennis. At noon, relax on the shores of the expansive Nieder Neuendorfer lake. The afternoon is dedicated to history at the border tower and along the Havel. In the evening, find peace at the picturesque Heiligensee."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start am Rathaus erfordert volle Konzentration auf dem rutschigen Kopfsteinpflaster.\n\nMittags suchen wir am Spielplatz kurz Schutz vor dem Regen; die Reifen verlieren auf nassem Laub leicht die Haftung.\n\nNachmittags radeln wir am See vorbei zum Grenzturm, wo wir das Fahrrad sicher abstellen und uns im Trockenen aufwärmen.\n\nDie Tour endet entlang der Havel, wobei gute Schutzbleche heute unverzichtbar sind, um trocken am Ziel anzukommen.",
+            "hu": "A vizes reggeli rajt a városházánál teljes koncentrációt igényel a csúszós macskaköveken.\n\nDélben a játszótérnél keresünk rövid menedéket az eső elől; a gumik könnyen elveszítik tapadásukat a nedves leveleken.\n\nDélután a tó mellett tekerünk a határtoronyig, ahol biztonságba helyezzük a biciklit és a szárazban pihenünk.\n\nA túra a Havel mentén ér véget, ahol a jó sárvédő ma nélkülözhetetlen a szárazon érkezéshez.",
+            "ro": "Un start umed la primărie necesită concentrare maximă pe pavajul alunecos.\n\nLa prânz căutăm un scurt adăpost lângă locul de joacă; anvelopele își pierd ușor aderența pe frunzele umede.\n\nDupă-amiaza pedalăm pe lângă lac spre turnul de frontieră, unde parcăm bicicleta și ne odihnim la uscat.\n\nTurul se încheie de-a lungul râului Havel, aripile bune la bicicletă fiind indispensabile astăzi pentru a ajunge uscați.",
+            "en": "A wet morning start at the Town Hall requires full concentration on the slippery cobblestones.\n\nAt noon, we seek brief shelter from the rain near the playground; tires easily lose grip on wet leaves.\n\nIn the afternoon, we cycle past the lake to the border tower, where we park the bike and rest in the dry interior.\n\nThe tour ends along the Havel river, where good mudguards are indispensable today to arrive dry at the finish."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hennigsdorfer Rathaus",
+                "hu": "Hennigsdorfi Városháza",
+                "ro": "Primăria Veche Hennigsdorf",
+                "en": "Hennigsdorf Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Losfahren auf die rutschigen Markierungen auf der Straße; tragen Sie eine helle Regenjacke, um im trüben Wetter besser gesehen zu werden.",
+                "hu": "Elinduláskor ügyeljen az úton lévő csúszós felfestésekre; viseljen világos vagy fényvisszaverő esőkabátot, hogy a borús időben jobban látható legyen.",
+                "ro": "Fiți atenți la marcajele alunecoase de pe drum când porniți; purtați o jachetă de ploaie luminoasă pentru a fi mai vizibil pe vreme mohorâtă.",
+                "en": "Watch out for slippery road markings when starting off; wear a bright rain jacket to be more visible to other road users in the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz, Basketball, Tischtennis",
+                "hu": "Játszótér sportpályákkal",
+                "ro": "Teren de joacă și sport",
+                "en": "Spielplatz, Basketball, Tischtennis"
+              },
+              "tip_5lang": {
+                "de": "Die Sportflächen sind bei Nässe extrem glatt; nutzen Sie die Bäume am Rand für eine kurze Unterbrechung und prüfen Sie Ihre Bremsen auf ihre Bremskraft.",
+                "hu": "A sportpályák nedvesen rendkívül csúszósak; használja a széli fákat egy rövid pihenőre, és ellenőrizze a fékek fékerejét a vizes abroncsokon.",
+                "ro": "Terenurile de sport sunt extrem de alunecoase când sunt ude; folosiți copacii de pe margine pentru o scurtă pauză și verificați forța de frânare.",
+                "en": "The sports areas are extremely slippery when wet; use the trees at the edge for a short break and check your brakes for their stopping power on wet rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Nieder Neuendorfer See",
+                "hu": "Nieder Neuendorfer See",
+                "ro": "Lacul Nieder Neuendorf",
+                "en": "Nieder Neuendorfer See"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Seeufer kann Pfützen bilden; fahren Sie langsam durch das Wasser, um Aquaplaning zu vermeiden und Ihre Füße möglichst trocken zu halten.",
+                "hu": "A tóparti kerékpárúton pocsolyák alakulhatnak ki; hajtson lassan a vízen keresztül, hogy elkerülje a felúszást és lábait a lehető legszárazabban tartsa.",
+                "ro": "Pe pista de biciclete de pe malul lacului se pot forma bălți; conduceți încet prin apă pentru a evita acvaplanarea și pentru a vă păstra picioarele cât mai uscate.",
+                "en": "Puddles can form on the lakeside cycle path; ride slowly through the water to avoid aquaplaning and to keep your feet as dry as possible during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenzturm Nieder Neuendorf",
+                "hu": "Nieder Neuendorf határtornya",
+                "ro": "Turnul de frontieră Nieder Neuendorf",
+                "en": "Nieder Neuendorf Border Tower"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Turm; nutzen Sie die Zeit drinnen, um Ihre Kleidung etwas zu lüften und sich vor der Weiterfahrt im Wind aufzuwärmen.",
+                "hu": "Parkolja le biztonságosan a biciklit a toronynál; használja ki a bent töltött időt a ruházat szellőztetésére és a szél elleni felmelegedésre a továbbindulás előtt.",
+                "ro": "Parcați bicicleta în siguranță la turn; folosiți timpul petrecut în interior pentru a vă aerisi puțin hainele și pentru a vă încălzi înainte de a continua.",
+                "en": "Park your bike safely at the tower; use the time inside to air out your clothes a bit and warm up before continuing your ride in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Havel",
+                "hu": "Havel folyó",
+                "ro": "Râul Havel",
+                "en": "Havel River"
+              },
+              "tip_5lang": {
+                "de": "Die Havel bietet im Regen ein dramatisches Panorama; halten Sie Abstand zum Uferrand, da die Wege dort durch Erosion unterspült sein könnten.",
+                "hu": "A Havel esőben drámai panorámát nyújt; tartson távolságot a part szélétől, mivel az utakat az erózió és a víz alámoshatta, így instabilak lehetnek.",
+                "ro": "Râul Havel oferă o panoramă dramatică pe ploaie; păstrați distanța de marginea malului, deoarece drumurile ar putea fi spălate de eroziune.",
+                "en": "The Havel offers a dramatic panorama in the rain; keep your distance from the shore edge as the paths there could be undermined by erosion and unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligensee",
+                "hu": "Heiligensee",
+                "ro": "Lacul Heiligensee",
+                "en": "Heiligensee"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht am See ist oft eingeschränkt; schalten Sie auch tagsüber Ihr Licht ein, um für Fußgänger und andere Radfahrer rechtzeitig sichtbar zu sein.",
+                "hu": "A látótávolság a tónál gyakran korlátozott; nappal is kapcsolja be a világítást, hogy a gyalogosok és más kerékpárosok időben észrevegyék önt.",
+                "ro": "Vizibilitatea la lac este adesea limitată; aprindeți luminile și în timpul zilei pentru a fi vizibil la timp pentru pietoni și alți bicicliști.",
+                "en": "Visibility at the lake is often limited in the rain; turn on your lights even during the day to be visible to pedestrians and other cyclists in good time."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start erfordert warme Handschuhe, um die kalten Bremshebel sicher bedienen zu können.\n\nMittags radeln wir vorsichtig an den Sportplätzen vorbei; Vorsicht vor schwarzem Eis auf den schattigen Abschnitten.\n\nNachmittags ist der Grenzturm der perfekte Ort für eine Aufwärmpause, bevor die Dämmerung einsetzt.\n\nDa es um 17:00 Uhr bereits dunkel ist, beenden wir die Tour am Heiligensee mit voller Beleuchtung und warmer Thermokleidung.",
+            "hu": "A fagyos reggelen meleg kesztyű kell, hogy a hideg fékkarokat biztonságosan tudjuk kezelni.\n\nDélben óvatosan tekerünk el a sportpályák mellett; vigyázzunk a fekete jégre az árnyékos útszakaszokon.\n\nDélután a határtorony a tökéletes hely egy felmelegítő szünetre, mielőtt leszállna a téli szürkület.\n\nMivel 17:00-kor már sötét van, a túrát a Heiligensee-nél fejezzük be, teljes világítással és meleg termoruhában.",
+            "ro": "Un start geros necesită mănuși groase pentru a putea opera în siguranță manetele de frână reci.\n\nLa prânz pedalăm cu atenție pe lângă terenurile de sport; atenție la gheața neagră pe secțiunile umbrite.\n\nDupă-amiaza, turnul este locul perfect pentru o pauză de încălzire înainte de lăsarea amurgului.\n\nDeoarece la ora 17:00 este deja întuneric, încheiem turul la Heiligensee cu iluminare completă și haine termice.",
+            "en": "A frosty start requires warm gloves to safely operate the cold brake levers throughout the morning.\n\nAt noon, we cycle carefully past the sports fields; beware of black ice on the shaded sections of the path.\n\nIn the afternoon, the border tower is the perfect place for a warm-up break before the winter dusk sets in.\n\nSince it's already dark by 17:00, we finish the tour at Heiligensee with full lighting and warm thermal clothing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hennigsdorfer Rathaus",
+                "hu": "Hennigsdorfi Városháza",
+                "ro": "Primăria Veche Hennigsdorf",
+                "en": "Hennigsdorf Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Testen Sie Ihre Bremsen bei Frost; das Kopfsteinpflaster am Rathaus kann bei Kälte extrem glatt sein, fahren Sie daher besonders vorausschauend los.",
+                "hu": "Fagyban tesztelje a fékeket; a városházánál a macskakő rendkívül csúszós lehet a hidegben, ezért induláskor legyen különösen előrelátó és óvatos.",
+                "ro": "Testați-vă frânele pe ger; pavajul de la primărie poate fi extrem de alunecos la frig, așa că porniți cu foarte mare atenție și anticipare.",
+                "en": "Test your brakes in the frost; the cobblestones at the town hall can be extremely slippery in the cold, so start off with extra caution and foresight."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz, Basketball, Tischtennis",
+                "hu": "Játszótér sportpályákkal",
+                "ro": "Teren de joacă și sport",
+                "en": "Spielplatz, Basketball, Tischtennis"
+              },
+              "tip_5lang": {
+                "de": "Die Metallzäune und Bänke sind oft mit Reif bedeckt; meiden Sie enge Kurven auf dem Platz, da die Bodenbeläge dort bei Frost keinen Halt bieten.",
+                "hu": "A fémkerítések és padok gyakran zúzmarásak; kerülje az éles kanyarokat a téren, mivel a burkolatok fagyban nem biztosítanak tapadást a kerekeknek.",
+                "ro": "Gardurile metalice și băncile sunt adesea acoperite cu chiciură; evitați curbele strânse, deoarece pavajul nu oferă aderență pe timp de îngheț.",
+                "en": "The metal fences and benches are often covered with frost; avoid tight turns on the square, as the floor coverings offer no grip in freezing conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Nieder Neuendorfer See",
+                "hu": "Nieder Neuendorfer See",
+                "ro": "Lacul Nieder Neuendorf",
+                "en": "Nieder Neuendorfer See"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Seeufer ist im Winter schneidend; schützen Sie Ihr Gesicht mit einem Schal und achten Sie auf weggewehtes Eis auf dem Fahrradweg.",
+                "hu": "A tóparti szél télen metszően hideg; védje arcát sállal, és ügyeljen a kerékpárútra fújt jégdarabokra vagy a lefagyott pára okozta csúszósságra.",
+                "ro": "Vântul de pe malul lacului este tăios iarna; protejați-vă fața cu un fular și fiți atenți la gheața suflată de vânt pe pista de biciclete.",
+                "en": "The wind on the lakeshore is biting in winter; protect your face with a scarf and watch out for ice blown onto the cycle path from the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenzturm Nieder Neuendorf",
+                "hu": "Nieder Neuendorf határtornya",
+                "ro": "Turnul de frontieră Nieder Neuendorf",
+                "en": "Nieder Neuendorf Border Tower"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Turmmuseum auf, bevor es um 17:00 Uhr dunkel wird; prüfen Sie hier noch einmal Ihre Beleuchtung für den letzten Teil der Tour.",
+                "hu": "Melegedjen fel a toronymúzeumban, mielőtt 17:00-kor besötétedik; itt ellenőrizze még egyszer a világítást a túra utolsó szakaszához a biztonságért.",
+                "ro": "Încălziți-vă în muzeul turnului înainte de a se întuneca la ora 17:00; verificați din nou iluminarea aici pentru ultima parte a turului.",
+                "en": "Warm up in the tower museum before it gets dark at 17:00; check your lights once more here for the final part of the tour to ensure safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Havel",
+                "hu": "Havel folyó",
+                "ro": "Râul Havel",
+                "en": "Havel River"
+              },
+              "tip_5lang": {
+                "de": "Das Havel-Ufer kann durch überfrierende Nässe sehr glatt sein; fahren Sie mit reduziertem Reifendruck für bessere Haftung auf dem winterlichen Boden.",
+                "hu": "A Havel-part a lefagyó nedvesség miatt nagyon csúszós lehet; hajtson valamivel alacsonyabb guminyomással a jobb tapadás érdekében a téli talajon.",
+                "ro": "Malul râului Havel poate fi foarte alunecos din cauza umezelii care îngheață; conduceți cu presiune redusă în anvelope pentru o mai bună aderență.",
+                "en": "The Havel bank can be very slippery due to freezing moisture; ride with slightly reduced tire pressure for better grip on the winter ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligensee",
+                "hu": "Heiligensee",
+                "ro": "Lacul Heiligensee",
+                "en": "Heiligensee"
+              },
+              "tip_5lang": {
+                "de": "Die Tour endet bei eisiger Kälte; achten Sie auf eine funktionierende Rückleuchte, da die Sichtverhältnisse in der winterlichen Dunkelheit schlecht sind.",
+                "hu": "A túra jeges hidegben ér véget; ügyeljen a működő hátsó lámpára, mivel a látási viszonyok a téli sötétségben és a pára miatt igen rosszak lehetnek.",
+                "ro": "Turul se încheie în frig de îngheț; asigurați-vă că aveți stopul funcțional, deoarece vizibilitatea în întunericul iernii este slabă.",
+                "en": "The tour ends in freezing cold; make sure your rear light is working, as visibility is poor in the winter darkness and often misty conditions."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Utazása a városházánál kezdődik, és gyorsan az idilli északi Hubertussee-hez vezet. Délben felfedezi a keleti Großer Malchsee körüli tágas tájat. Délután a Sandhauser Straße kínál egy frissítő fürdőzési szünetet. A történelmi határtorony tökéletesen megkoronázza ezt a nagyon változatos napot.",
         "ro": "Călătoria începe la primărie și vă duce rapid la idilicul Hubertussee din nord. La prânz explorați peisajul vast din jurul lacului Großer Malchsee din est. După-amiaza, strada Sandhauser oferă o pauză răcoritoare de scăldat. Turnul istoric de frontieră completează perfect ziua variată seara.",
         "en": "Your drive begins at the town hall and quickly leads you to the idyllic Hubertussee in the north. At noon, explore the vast landscape around the Großer Malchsee in the east. In the afternoon, the Sandhauser street offers a refreshing swimming break. The historic border tower rounds off the varied day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start am Rathaus, wobei die Scheibenwischer heute Höchstleistung bringen müssen.\n\nMittags besuchen wir die Seen; die Parkplätze sind oft matschig, bleiben Sie daher lieber auf den befestigten Flächen.\n\nNachmittags ist der Grenzturm das ideale Ziel, da man vom Parkplatz aus nur einen sehr kurzen Weg durch den Regen hat.\n\nDie Tour endet entspannt im warmen Wagen, während wir die graue, nasse Landschaft durch die Fenster an uns vorbeiziehen lassen.",
+            "hu": "Esős rajt a városházánál, ahol az ablaktörlőknek ma csúcsteljesítményt kell nyújtaniuk a látótávolságért.\n\nDélben meglátogatjuk a tavakat; a parkolók gyakran sárosak, ezért maradjon inkább a szilárd burkolatú felületeken.\n\nDélután a határtorony az ideális célpont, mivel a parkolótól csak egy rövid utat kell megtenni az esőben.\n\nA túra kényelmesen, a meleg autóban ér véget, miközben az ablakon át figyeljük a szürke, vizes tájat.",
+            "ro": "Un start ploios la primărie, unde ștergătoarele trebuie să funcționeze astăzi la capacitate maximă.\n\nLa prânz vizităm lacurile; parcările sunt adesea noroioase, așa că rămâneți mai degrabă pe suprafețele pavate.\n\nDupă-amiaza, turnul este destinația ideală, deoarece aveți de parcurs doar un drum scurt prin ploaie de la parcare.\n\nTurul se încheie relaxat în mașina caldă, în timp ce privim pe geam peisajul gri și umed trecând pe lângă noi.",
+            "en": "A rainy start at the Town Hall, where the windshield wipers have to work at peak performance today.\n\nAt noon, we visit the lakes; the parking lots are often muddy, so it is better to stay on the paved surfaces.\n\nIn the afternoon, the border tower is the ideal destination as it is only a short walk through the rain from the car.\n\nThe tour ends comfortably in the warm car while we watch the grey, wet landscape pass by through the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hennigsdorfer Rathaus",
+                "hu": "Hennigsdorfi Városháza",
+                "ro": "Primăria Veche Hennigsdorf",
+                "en": "Hennigsdorf Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Marktplatz, um den Weg zum Gebäude kurz zu halten; bei Starkregen bieten die umliegenden Geschäfte gute Unterstellmöglichkeiten.",
+                "hu": "Parkoljon közvetlenül a főtéren, hogy az épületig vezető út rövid legyen; heves esőzés esetén a környező üzletek jó menedéket nyújtanak a várakozáshoz.",
+                "ro": "Parcați direct în piață pentru a scurta drumul spre clădire; în caz de ploaie torențială, magazinele din jur oferă locuri bune de adăpost.",
+                "en": "Park directly at the market square to keep the walk to the building short; in case of heavy rain, the surrounding shops offer good shelter options."
+              }
+            },
+            {
+              "name": {
+                "de": "Hubertussee",
+                "hu": "Hubertussee",
+                "ro": "Lacul Hubertus",
+                "en": "Hubertussee"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den stürmischen See direkt aus dem warmen Auto; die Uferwege sind bei Regen sehr rutschig und sollten nur mit Vorsicht begangen werden.",
+                "hu": "Élvezze a viharos tó látványát közvetlenül a meleg autóból; a tóparti utak esőben nagyon csúszósak, ezért csak fokozott óvatossággal sétáljon rajtuk.",
+                "ro": "Bucurați-vă de vederea lacului agitat direct din mașina caldă; potecile de pe mal sunt foarte alunecoase și trebuie parcurse cu mare prudență.",
+                "en": "Enjoy the view of the stormy lake directly from your warm car; the shore paths are very slippery in the rain and should only be walked with caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Malchsee",
+                "hu": "Großer Malchsee",
+                "ro": "Lacul Großer Malchsee",
+                "en": "Großer Malchsee"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zum See kann durch Aquaplaning gefährlich sein; reduzieren Sie Ihr Tempo auf den Waldstraßen und achten Sie auf herabfallende Äste bei Wind.",
+                "hu": "A tóhoz vezető út az aquaplaning miatt veszélyes lehet; csökkentse sebességét az erdei utakon, és ügyeljen a szél miatt lehulló ágakra az úttesten.",
+                "ro": "Accesul la lac poate fi periculos din cauza acvaplanării; reduceți viteza pe drumurile forestiere și fiți atenți la ramurile căzute din cauza vântului.",
+                "en": "The access to the lake can be dangerous due to aquaplaning; reduce your speed on the forest roads and watch out for falling branches during high winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Badestelle Sandhauser Straße",
+                "hu": "Sandhauser Straße fürdőhely",
+                "ro": "Plaja Sandhauser Straße",
+                "en": "Sandhauser Straße Bathing Spot"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der Regenfront über dem Wasser lohnt sich; bleiben Sie auf den befestigten Parkplätzen, um nicht im weichen Boden steckenzubleiben.",
+                "hu": "Egy rövid megálló a víz feletti esőfront lefényképezéséhez megéri; maradjon a szilárd parkolókban, hogy ne akadjon el a felázott, puha talajban.",
+                "ro": "O scurtă oprire pentru o fotografie a frontului de ploaie peste apă merită; rămâneți în parcările amenajate pentru a nu rămâne blocați în solul moale.",
+                "en": "A short stop for a photo of the rain front over the water is worth it; stay in the paved parking spaces to avoid getting stuck in the soft, wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenzturm Nieder Neuendorf",
+                "hu": "Nieder Neuendorf határtornya",
+                "ro": "Turnul de frontieră Nieder Neuendorf",
+                "en": "Nieder Neuendorf Border Tower"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Ort für einen regnerischen Nachmittag; genießen Sie die Zeit drinnen im Trockenen und warten Sie hier schwerere Schauer einfach ab.",
+                "hu": "A múzeum tökéletes helyszín egy esős délutánhoz; élvezze a bent töltött időt a szárazban, és egyszerűen várja meg itt a hevesebb záporok elvonulását.",
+                "ro": "Muzeul este locul perfect pentru o după-amiază ploioasă; bucurați-vă de timpul petrecut în interior și așteptați pur și simplu trecerea ploilor torențiale.",
+                "en": "The museum is the perfect place for a rainy afternoon; enjoy your time inside in the dry and simply wait out any heavier showers in the exhibition area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt mit dem Enteisen der Scheiben am Rathausplatz.\n\nMittags steuern wir die gefrorenen Seen an; die Heizung im Wagen sorgt für Gemütlichkeit zwischen den kurzen Fotostopps.\n\nNachmittags bietet der Grenzturm eine historische Abwechslung, bevor wir die winterliche Stille am Seeufer genießen.\n\nUm 17:00 Uhr setzt die Dunkelheit ein; wir fahren vorsichtig über die möglicherweise glatten Straßen zurück zum Ausgangspunkt.",
+            "hu": "A fagyos reggel a szélvédők jégtelenítésével indul a városháza téri parkolóban.\n\nDélben a befagyott tavak felé vesszük az irányt; az autó fűtése gondoskodik a kényelemről a rövid fotómegállók között.\n\nDélután a határtorony nyújt történelmi kikapcsolódást, mielőtt átadnánk magunkat a tóparti téli csendnek.\n\n17:00-kor leszáll a sötétség; óvatosan vezetünk vissza a kiindulópontra az esetlegesen csúszós utakon.",
+            "ro": "Dimineața geroasă începe cu dezghețarea parbrizului în parcarea de la primărie.\n\nLa prânz ne îndreptăm spre lacurile înghețate; încălzirea din mașină asigură confortul între scurtele opriri pentru fotografii.\n\nDupă-amiaza, turnul oferă o diversitate istorică înainte de a ne bucura de liniștea hibernală de pe malul lacului.\n\nLa ora 17:00 se lasă întunericul; conducem cu prudență înapoi spre punctul de plecare pe drumurile posibil alunecoase.",
+            "en": "The frosty morning begins with de-icing the windows at the Town Hall square parking lot.\n\nAt noon, we head for the frozen lakes; the heating in the car ensures coziness between the short photo stops.\n\nIn the afternoon, the border tower offers a historic break before we enjoy the winter silence on the lakeshore.\n\nBy 17:00, darkness sets in; we drive carefully back to the starting point over potentially slippery winter roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hennigsdorfer Rathaus",
+                "hu": "Hennigsdorfi Városháza",
+                "ro": "Primăria Veche Hennigsdorf",
+                "en": "Hennigsdorf Old Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze mit direktem Zugang zum Platz; achten Sie beim Aussteigen auf überfrierende Nässe auf dem Steinboden des Rathausvorplatzes.",
+                "hu": "Használja a térhez közvetlen hozzáférést biztosító parkolókat; kiszálláskor ügyeljen a városháza előtti kőburkolaton kialakuló jegesedésre és csúszásveszélyre.",
+                "ro": "Utilizați parcările cu acces direct în piață; atenție la gheața de pe pavajul din fața primăriei atunci când coborâți din mașină.",
+                "en": "Use the parking spaces with direct access to the square; watch out for black ice on the stone floor of the town hall square when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Hubertussee",
+                "hu": "Hubertussee",
+                "ro": "Lacul Hubertus",
+                "en": "Hubertussee"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die glitzernde Eisfläche vom Uferdamm aus; der Wind hier ist sehr kalt, lassen Sie den Motor nicht unnötig im Stand laufen, während Sie schauen.",
+                "hu": "Csodálja meg a csillogó jégfelületet a gátról; a szél itt nagyon hideg, de ne járassa feleslegesen a motort álló helyzetben a kilátás élvezete közben.",
+                "ro": "Admirați suprafața de gheață strălucitoare de pe digul malului; vântul aici este foarte rece, nu lăsați motorul pornit inutil în timp ce priviți peisajul.",
+                "en": "Admire the glittering ice surface from the shore dam; the wind here is very cold, but do not leave the engine running unnecessarily while you enjoy the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Malchsee",
+                "hu": "Großer Malchsee",
+                "ro": "Lacul Großer Malchsee",
+                "en": "Großer Malchsee"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Waldwege zum See können den ganzen Tag vereist bleiben; fahren Sie besonders langsam und prüfen Sie Ihre Winterreifen auf guten Grip.",
+                "hu": "A tóhoz vezető árnyékos erdei utak egész nap jegesek maradhatnak; vezessen különösen lassan, és ellenőrizze a téli gumik állapotát a megfelelő tapadásért.",
+                "ro": "Drumurile forestiere umbrite spre lac pot rămâne înghețate toată ziua; conduceți deosebit de încet și verificați aderența anvelopelor de iarnă.",
+                "en": "The shaded forest roads to the lake can remain icy all day; drive extra slowly and check your winter tires for good grip on the slippery surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Badestelle Sandhauser Straße",
+                "hu": "Sandhauser Straße fürdőhely",
+                "ro": "Plaja Sandhauser Straße",
+                "en": "Sandhauser Straße Bathing Spot"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter mit Reif überzogen und bietet eine tolle Kulisse; halten Sie den Aufenthalt kurz, um sich im Wagen nicht zu stark abzukühlen.",
+                "hu": "A strandot télen zúzmara borítja, ami remek hátteret nyújt a fotókhoz; tartsa rövidre a kintlétet, hogy ne hűljön ki túlságosan az autóba való visszatérés előtt.",
+                "ro": "Plaja este acoperită cu chiciură iarna și oferă un decor minunat; păstrați vizita scurtă pentru a nu vă răci prea tare înainte de a reveni în mașină.",
+                "en": "The beach is covered with frost in winter and offers a great backdrop; keep the stay short to avoid getting too cold before returning to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Grenzturm Nieder Neuendorf",
+                "hu": "Nieder Neuendorf határtornya",
+                "ro": "Turnul de frontieră Nieder Neuendorf",
+                "en": "Nieder Neuendorf Border Tower"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm vor dem frühen Sonnenuntergang um 17:00 Uhr; die Heizung im Museum bietet eine angenehme Wärme vor der Rückfahrt in der Dunkelheit.",
+                "hu": "Látogassa meg a tornyot a korai, 17:00-s naplemente előtt; a múzeum fűtése kellemes meleget ad a sötétben való hazaindulás előtt.",
+                "ro": "Vizitați turnul înainte de apusul soarelui de la ora 17:00; încălzirea din muzeu oferă o căldură plăcută înainte de drumul de întoarcere pe întuneric.",
+                "en": "Visit the tower before the early sunset at 17:00; the heating in the museum provides pleasant warmth before the drive back in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

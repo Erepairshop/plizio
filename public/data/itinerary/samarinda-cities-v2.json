@@ -160,6 +160,196 @@
         "hu": "Gyalogos utunkat a város spirituális szívében, a Gereja GPMII templomnál kezdjük, majd a nyüzsgő környék felfedezése után a díszes Klenteng Thien Ie Kong felé vesszük az irányt.\n\nAhogy közeledik a dél, a helyi kézművesség felé fordulunk. A hagyományos szövőközpont tökéletes lehetőséget nyújt a mesterek bonyolult Sarong szöveteken végzett munkájának megfigyelésére.\n\nDélután a történelmi Masjid Sirathal Mustaqiem és a Gereja Toraja bizonyítja azt a figyelemre méltó építészeti sokszínűséget és vallási harmóniát, amely a helyi kultúrát jellemzi.\n\nSétánk a Jembatan Mahkota 2 felé közeledve ér véget. Itt a Mahakam folyóra nyíló panoráma festői hátteret biztosít a felfedezéssel teli, tartalmas nap lezárásához és átgondolásához.",
         "ro": "Ne începem călătoria pe jos în inima spirituală a orașului la Gereja GPMII, explorând cartierul vibrant înainte de a ne muta la Klenteng Thien Ie Kong, bogat ornamentat.\n\nPe măsură ce se apropie prânzul, ne îndreptăm spre măiestria locală. Centrul tradițional de țesut oferă o oportunitate perfectă de a vedea artizanii pricepuți la lucru.\n\nDupă-amiaza, istorica Masjid Sirathal Mustaqiem și Gereja Toraja demonstrează remarcabila diversitate arhitecturală și armonia religioasă care caracterizează cultura locală.\n\nTurul nostru se încheie în timp ce ne plimbăm spre Jembatan Mahkota 2. Aici, priveliștile panoramice asupra râului Mahakam oferă un fundal pitoresc pentru a reflecta asupra zilei.",
         "en": "We start our walking journey in the spiritual heart of the city at Gereja GPMII, exploring the vibrant neighborhood before moving to the vividly ornate Klenteng Thien Ie Kong.\n\nAs mid-day approaches, we transition towards local craftsmanship. The traditional weaving center provides a perfect opportunity to see skilled artisans working on complex Sarong fabrics.\n\nIn the afternoon, the historical Masjid Sirathal Mustaqiem and Gereja Toraja demonstrate the remarkable architectural diversity and religious harmony that characterize the local culture.\n\nOur walking tour concludes as we stroll toward Jembatan Mahkota 2. Here, the sweeping views over the Mahakam River offer a picturesque backdrop to reflect on a rewarding day of exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Samarinda beginnt mit dem Schutz sakraler Bauten. Mittags bietet das Webzentrum ein trockenes Refugium. Nachmittags erkunden Sie historische Moscheen unter dem Schirm. Der Abend endet am Fluss, wo der Regen eine mystische Atmosphäre über die Brücken legt.",
+            "hu": "A Samarinda-i esős nap a szakrális épületek oltalmában indul. Délben a szövőközpont nyújt száraz menedéket a trópusi zápor elől. Délután esernyő alatt fedezzük fel a történelmi mecseteket. Az este a folyóparton zárul, ahol az eső misztikus párába burkolja a monumentális hidakat.",
+            "ro": "O zi ploioasă în Samarinda începe sub protecția edificiilor sacre. La prânz, centrul de țesut oferă un refugiu uscat. După-amiaza explorăm moșcheile istorice sub umbrelă. Seara se încheie la râu, unde ploaia creează o atmosferă mistică peste podurile luminate.",
+            "en": "A rainy day in Samarinda begins within the shelter of sacred buildings. At noon, the weaving center provides a dry sanctuary. In the afternoon, explore historic mosques under an umbrella. The evening ends by the river, where the rain casts a mystical mist over the illuminated bridges."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gereja GPMII",
+                "hu": "Gereja GPMII",
+                "ro": "Gereja GPMII",
+                "en": "Gereja GPMII"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom trockenen Innenraum aus; ein stabiler Schirm ist für den kurzen, oft rutschigen Fußweg zwischen den Eingängen unverzichtbar.",
+                "hu": "Csodálja meg az építészetet a száraz belső térből; egy stabil esernyő elengedhetetlen a rövid, gyakran csúszós bejáratok közötti gyalogúton.",
+                "ro": "Admirați arhitectura din interiorul uscat; o umbrelă stabilă este indispensabilă pentru drumul scurt, adesea alunecos, dintre intrări.",
+                "en": "Admire the architecture from the dry interior; a sturdy umbrella is essential for the short, often slippery walk between the entrances."
+              }
+            },
+            {
+              "name": {
+                "de": "Klenteng Thien Ie Kong",
+                "hu": "Klenteng Thien Ie Kong",
+                "ro": "Klenteng Thien Ie Kong",
+                "en": "Klenteng Thien Ie Kong"
+              },
+              "tip_5lang": {
+                "de": "Die leuchtenden Farben des Tempels wirken im Regen besonders intensiv; achten Sie auf den glatten Fliesenboden im Außenbereich und tragen Sie rutschfeste Schuhe.",
+                "hu": "A templom élénk színei különösen intenzívek az esőben; ügyeljen a sima járólapokra a külső részeken, és viseljen csúszásmentes lábbelit.",
+                "ro": "Culorile vii ale templului par mai intense în ploaie; aveți grijă la gresia alunecoasă din zonele exterioare și purtați încălțăminte aderentă.",
+                "en": "The temple's vibrant colors look especially intense in the rain; watch out for slippery floor tiles in the outdoor areas and wear non-slip shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "hu": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "ro": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "en": "Pusat Kerajinan Tenun Sarung Samarinda"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Weber bei ihrer Arbeit in den überdachten Hallen; die rhythmischen Geräusche der Webstühle bilden eine perfekte Kulisse zum prasselnden Regen.",
+                "hu": "Figyelje meg a szövőket munka közben a fedett csarnokokban; a szövőszékek ritmikus kattogása tökéletes aláfestést nyújt a kopogó esőhöz.",
+                "ro": "Observați țesătorii la lucru în halele acoperite; sunetul ritmic al războaielor de țesut oferă un fundal perfect pentru ropotul ploii de afară.",
+                "en": "Observe the weavers at work in the covered halls; the rhythmic sound of the looms provides a perfect backdrop to the pattering rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Sirathal Mustaqiem",
+                "hu": "Masjid Sirathal Mustaqiem",
+                "ro": "Masjid Sirathal Mustaqiem",
+                "en": "Masjid Sirathal Mustaqiem"
+              },
+              "tip_5lang": {
+                "de": "Diese alte Holzmoschee bietet exzellenten Schutz; nutzen Sie die Zeit, um die feinen Schnitzereien zu studieren, während draußen der tropische Schauer niedergeht.",
+                "hu": "Ez a régi fa mecset kiváló védelmet nyújt; használja ki az időt a finom faragások tanulmányozására, amíg odakint a trópusi zápor zuhog.",
+                "ro": "Această veche moșchee din lemn oferă un adăpost excelent; profitați de timp pentru a studia sculpturile fine în timp ce afară cade ploaia tropicală.",
+                "en": "This old wooden mosque offers excellent shelter; use the time to study the fine carvings while the tropical downpour rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Toraja",
+                "hu": "Gereja Toraja",
+                "ro": "Gereja Toraja",
+                "en": "Gereja Toraja"
+              },
+              "tip_5lang": {
+                "de": "Die markante Dachform leitet das Regenwasser kunstvoll ab; bleiben Sie unter den Dachvorsprüngen, um die einzigartige Architektur trocken zu bewundern.",
+                "hu": "A jellegzetes tetőforma művészien vezeti el az esővizet; maradjon az ereszek alatt, hogy szárazon csodálhassa meg az egyedülálló építészetet.",
+                "ro": "Forma distinctivă a acoperișului drenează apa în mod artistic; rămâneți sub streșini pentru a admira arhitectura unică fără a vă uda.",
+                "en": "The distinctive roof shape artfully directs rainwater away; stay under the eaves to admire the unique architecture while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Jembatan Mahkota 2",
+                "hu": "Jembatan Mahkota 2",
+                "ro": "Jembatan Mahkota 2",
+                "en": "Jembatan Mahkota 2"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den nebligen Mahakam-Fluss ist atemberaubend; tragen Sie ein Regenponcho, da der Wind auf der Brücke Schirme leicht umknicken kann.",
+                "hu": "A ködös Mahakam-folyóra nyíló kilátás lélegzetelállító; viseljen esőpelerint, mivel a hídon a szél könnyen kifordíthatja az esernyőket.",
+                "ro": "Priveliștea peste râul Mahakam cețos este uluitoare; purtați o pelerină de ploaie, deoarece vântul de pe pod poate răsturna ușor umbrelele.",
+                "en": "The view of the misty Mahakam River is breathtaking; wear a rain poncho as the wind on the bridge can easily flip umbrellas inside out."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgen lädt zu einem erfrischenden Spaziergang ein. Mittags suchen wir gemütliche, warme Innenräume auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das Tageslicht intensiv. Der Abend wird in den beleuchteten Straßen frühzeitig und behaglich verbracht.",
+            "hu": "A hűvös reggel frissítő sétára hívogat. Délben kellemes, meleg belső tereket keresünk fel. Mivel a nap már 17:00 körül nyugovóra tér, intenzíven kihasználjuk a nappali fényt. Az este korán, a kivilágított utcák barátságos hangulatában telik.",
+            "ro": "Dimineața răcoroasă invită la o plimbare revigorantă. La prânz căutăm spații interioare primitoare și calde. Deoarece soarele apune deja în jur de ora 17:00, profităm din plin de lumina zilei. Seara începe devreme sub luminile stradale primitoare.",
+            "en": "The cool morning invites a refreshing walk. At noon, we seek cozy, warm indoor spaces. Since the sun sets around 17:00, we make intensive use of the daylight. The evening is spent early amidst the welcoming atmosphere of illuminated streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gereja GPMII",
+                "hu": "Gereja GPMII",
+                "ro": "Gereja GPMII",
+                "en": "Gereja GPMII"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Morgenlicht für Fotos der Fassade; eine leichte Jacke schützt Sie vor der ungewohnt kühlen Brise am frühen Vormittag.",
+                "hu": "Használja ki a tiszta reggeli fényt a homlokzat fotózásához; egy könnyű dzseki megvédi a kora délelőtti szokatlanul hűvös fuvallattól.",
+                "ro": "Profită de lumina clară a dimineții pentru fotografii ale fațadei; o jachetă ușoară te va proteja de briza neobișnuit de rece de dimineață.",
+                "en": "Take advantage of the clear morning light for photos of the facade; a light jacket will protect you from the unusually cool early morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Klenteng Thien Ie Kong",
+                "hu": "Klenteng Thien Ie Kong",
+                "ro": "Klenteng Thien Ie Kong",
+                "en": "Klenteng Thien Ie Kong"
+              },
+              "tip_5lang": {
+                "de": "Die warme Atmosphäre der Räucherstäbchen ist im Winter besonders behaglich; besuchen Sie den Tempel vor Mittag, um die volle Farbenpracht im Sonnenlicht zu sehen.",
+                "hu": "A füstölők meleg illata télen különösen barátságos; látogassa meg a templomot dél előtt, hogy teljes pompájában lássa a színeket a napsütésben.",
+                "ro": "Atmosfera caldă a bețișoarelor parfumate este deosebit de plăcută iarna; vizitați templul înainte de prânz pentru a vedea culorile în plină lumină.",
+                "en": "The warm atmosphere of the incense sticks is especially cozy in winter; visit the temple before noon to see its full colors in the sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "hu": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "ro": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "en": "Pusat Kerajinan Tenun Sarung Samarinda"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren der Werkstätten ist es angenehm temperiert; erwerben Sie einen dicker gewebten Sarung als warmes und authentisches Souvenir für kühle Abende.",
+                "hu": "A műhelyek belsejében kellemes a hőmérséklet; vásároljon egy vastagabb szövésű sarungot meleg és hiteles szuvenírként a hűvös estékre.",
+                "ro": "În interiorul atelierelor temperatura este plăcută; cumpărați un sarung cu țesătură mai groasă ca suvenir autentic și călduros pentru serile reci.",
+                "en": "The temperature inside the workshops is pleasant; purchase a thicker woven sarung as a warm and authentic souvenir for cool evenings."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Sirathal Mustaqiem",
+                "hu": "Masjid Sirathal Mustaqiem",
+                "ro": "Masjid Sirathal Mustaqiem",
+                "en": "Masjid Sirathal Mustaqiem"
+              },
+              "tip_5lang": {
+                "de": "Das dunkle Holz speichert die Mittagswärme und sorgt für ein wohliges Gefühl; planen Sie Ihren Besuch spätestens für 15:00 Uhr ein, bevor es dämmert.",
+                "hu": "A sötét fa elraktározza a déli meleget, barátságos érzetet keltve; tervezze látogatását legkésőbb 15:00-ra, mielőtt elkezdődne a szürkület.",
+                "ro": "Lemnul închis la culoare reține căldura amiezii, creând o senzație plăcută; planificați vizita cel târziu la ora 15:00, înainte de amurg.",
+                "en": "The dark wood retains the midday heat, creating a cozy feeling; plan your visit by 15:00 at the latest, before twilight begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Toraja",
+                "hu": "Gereja Toraja",
+                "ro": "Gereja Toraja",
+                "en": "Gereja Toraja"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Nachmittagssonne betont die Texturen der Toraja-Architektur; ein schneller Besuch vor dem frühen Sonnenuntergang ist ideal für Lichteffekte.",
+                "hu": "Az alacsonyan járó délutáni nap kiemeli a Toraja építészet textúráit; egy gyors látogatás a korai naplemente előtt ideális a fényhatásokhoz.",
+                "ro": "Soarele de după-amiază scoate în evidență texturile arhitecturii Toraja; o vizită rapidă înainte de apusul timpuriu este ideală pentru efecte de lumină.",
+                "en": "The low afternoon sun emphasizes the textures of Toraja architecture; a quick visit before the early sunset is ideal for light effects."
+              }
+            },
+            {
+              "name": {
+                "de": "Jembatan Mahkota 2",
+                "hu": "Jembatan Mahkota 2",
+                "ro": "Jembatan Mahkota 2",
+                "en": "Jembatan Mahkota 2"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Brücke um 16:45 Uhr, um den kurzen, intensiven Winter-Sonnenuntergang zu erleben; ziehen Sie sich für den zugigen Fußweg warm an.",
+                "hu": "Érkezzen a hídhoz 16:45-re, hogy átélje a rövid, intenzív téli naplementét; öltözzön fel melegen a huzatos gyalogúthoz a folyó felett.",
+                "ro": "Ajungeți la pod la ora 16:45 pentru a vedea apusul scurt și intens de iarnă; îmbrăcați-vă bine pentru plimbarea prin curentul de aer de deasupra râului.",
+                "en": "Reach the bridge by 16:45 to experience the short, intense winter sunset; dress warmly for the drafty walk high above the river."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpáros kalandunk a Samarinda Múzeumban kezdődik, ahol elmélyedünk a regionális történelemben, majd eltekerünk a csendes folyóparton található ikonikus Tambangan Emlékműhöz.\n\nA déli túra a nyüzsgő Muarasuara településen keresztül vezet, ahol magunkba szívjuk a dinamikus helyi kultúrát, mielőtt folytatjuk utunkat a híres hagyományos szövőközpont felé.\n\nA délutáni napsütés végigkísér minket a Masjid Sirathal Mustaqiem lenyűgöző faépítészetéhez, majd zökkenőmentesen haladunk a lenyűgöző Jembatan Mahkota 2 felé történelmi felismerésekért.\n\nAhogy közeledik az este, a csodálatos Achmad Amins hídhoz tekerünk. A folyón megcsillanó fények tökéletes, békés légkört teremtenek energikus kerékpártúránk méltó lezárásához.",
         "ro": "Aventura noastră pe bicicletă începe la Muzeul Samarinda, unde ne scufundăm în istoria regională înainte de a pedala către iconicul Monument Tambangan de lângă râul liniștit.\n\nPlimbarea de prânz ne poartă prin așezarea vibrantă Muarasuara, asimilând cultura locală dinamică înainte de a continua călătoria către renumitul centru tradițional de țesut.\n\nSoarele după-amiezii ne însoțește până la uimitoarea arhitectură din lemn a Masjid Sirathal Mustaqiem, îndreptându-ne apoi spre impresionantul Jembatan Mahkota 2 pentru istorie.\n\nOdată cu lăsarea serii, pedalăm spre magnificul pod Achmad Amins. Reflexiile strălucitoare de pe apă creează o atmosferă perfectă și senină pentru a încheia turul nostru.",
         "en": "Our cycling adventure begins at the informative Samarinda Museum, where we dive deep into regional history before pedaling over to the iconic Tambangan Monument by the tranquil river.\n\nThe midday ride takes us through the vibrant settlement of Muarasuara, soaking in the dynamic local culture before continuing the journey towards the renowned traditional weaving center.\n\nThe afternoon sun accompanies our ride to the stunning wooden architecture of Masjid Sirathal Mustaqiem, moving smoothly toward the impressive Jembatan Mahkota 2 for historical insights.\n\nAs evening nears, we cycle down to the magnificent Achmad Amins Bridge. The sparkling reflections on the river create a perfect, serene atmosphere to conclude our energetic bicycle tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Samarindas Straßen. Der Morgen beginnt in Museen, die Schutz bieten. Mittags radeln wir vorsichtig zwischen kulturellen Stätten. Der Nachmittag wird kürzer gehalten, um nasse Kleidung zu vermeiden. Der Abend klingt sicher und trocken in der Nähe der Brücken aus.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Samarinda utcáin. A reggel védelmet nyújtó múzeumokban indul. Délben óvatosan tekerünk a kulturális helyszínek között. A délutánt rövidebbre fogjuk a beázás elkerülése végett. Az este biztonságban és szárazon zárul a hidak környékén.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile din Samarinda. Dimineața începe în muzee care oferă adăpost. La prânz pedalăm cu grijă între siturile culturale. După-amiaza este scurtată pentru a evita hainele ude. Seara se încheie în siguranță și uscat lângă poduri.",
+            "en": "Cycling in the rain requires caution on Samarinda's streets. The morning begins in museums that offer shelter. At noon, we pedal carefully between cultural sites. The afternoon is kept shorter to avoid getting soaked. The evening ends safely and dryly near the bridges."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Samarinda Museum",
+                "hu": "Samarinda Múzeum",
+                "ro": "Muzeul Samarinda",
+                "en": "Samarinda Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradparkplatz am Museum; die Innenausstellungen halten Sie während des ersten starken Regengusses des Tages garantiert trocken.",
+                "hu": "Használja a múzeum fedett kerékpártárolóját; a belső kiállítások garantáltan szárazon tartják a nap első nagy felhőszakadása idején.",
+                "ro": "Folosiți parcarea acoperită pentru biciclete de la muzeu; expozițiile interioare vă vor ține cu siguranță uscat în timpul primei ploi torențiale a zilei.",
+                "en": "Use the museum's covered bike parking; the indoor exhibitions are guaranteed to keep you dry during the day's first heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Tambangan Monument",
+                "hu": "Tambangan Emlékmű",
+                "ro": "Monumentul Tambangan",
+                "en": "Tambangan Monument"
+              },
+              "tip_5lang": {
+                "de": "Die glatte Oberfläche des Denkmals glänzt im Regen; verlangsamen Sie Ihr Tempo auf den Zufahrtswegen, da diese bei Nässe sehr rutschig werden können.",
+                "hu": "Az emlékmű sima felülete csillog az esőben; lassítson a felvezető utakon, mivel azok nedvesen rendkívül csúszóssá válhatnak.",
+                "ro": "Suprafața netedă a monumentului strălucește în ploaie; încetiniți pe căile de acces, deoarece pot deveni extrem de alunecoase când sunt ude.",
+                "en": "The monument's smooth surface glistens in the rain; slow your pace on the access paths as they can become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Muarasuara",
+                "hu": "Muarasuara",
+                "ro": "Muarasuara",
+                "en": "Muarasuara"
+              },
+              "tip_5lang": {
+                "de": "Hier finden Sie unter den traditionellen Überdachungen Schutz; prüfen Sie Ihre Bremsen, bevor Sie die Weiterfahrt durch den tropischen Regen antreten.",
+                "hu": "Itt a hagyományos tetők alatt találhat menedéket; ellenőrizze a fékeit, mielőtt folytatná az utat a trópusi esőben.",
+                "ro": "Aici puteți găsi adăpost sub acoperișurile tradiționale; verificați-vă frânele înainte de a continua drumul prin ploaia tropicală.",
+                "en": "Find shelter under the traditional roofs here; check your brakes before continuing your journey through the tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "hu": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "ro": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "en": "Pusat Kerajinan Tenun Sarung Samarinda"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einen Vorsprung und genießen Sie das Handwerk; ein wasserdichter Rucksack schützt Ihre empfindlichen Souvenirs vor Feuchtigkeit.",
+                "hu": "Állítsa le a biciklit egy eresz alá, és élvezze a kézművességet; egy vízálló hátizsák megvédi az érzékeny szuveníreket a nedvességtől.",
+                "ro": "Parcați bicicleta sub o streșină și bucurați-vă de meșteșug; un rucsac impermeabil vă va proteja suvenirele delicate de umiditate.",
+                "en": "Park your bike under an overhang and enjoy the craft; a waterproof backpack will protect your delicate souvenirs from the moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Sirathal Mustaqiem",
+                "hu": "Masjid Sirathal Mustaqiem",
+                "ro": "Masjid Sirathal Mustaqiem",
+                "en": "Masjid Sirathal Mustaqiem"
+              },
+              "tip_5lang": {
+                "de": "Die Holzkonstruktion ist bei Regen ein friedlicher Ort; achten Sie beim Absteigen auf den aufgeweichten Boden in der Nähe des Eingangsbereichs.",
+                "hu": "A faszerkezet esőben is békés helyszín; a leszálláskor ügyeljen a bejárat környékén felázott talajra.",
+                "ro": "Structura de lemn este un loc liniștit pe timp de ploaie; aveți grijă la solul moale din apropierea intrării când coborâți de pe bicicletă.",
+                "en": "The wooden structure is a peaceful place in the rain; be careful of the softened ground near the entrance area when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Jembatan Mahkota 2",
+                "hu": "Jembatan Mahkota 2",
+                "ro": "Jembatan Mahkota 2",
+                "en": "Jembatan Mahkota 2"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke bei Regen besonders vorsichtig; starke Seitenwinde können das Radfahren auf der exponierten Fahrbahn erschweren.",
+                "hu": "Esőben különösen óvatosan keljen át a hídon; az erős oldalszél megnehezítheti a kerékpározást a kitett útfelületen.",
+                "ro": "Traversați podul cu mare atenție pe ploaie; vânturile laterale puternice pot îngreuna pedalarea pe carosabilul expus.",
+                "en": "Cross the bridge with extra caution in the rain; strong side winds can make cycling difficult on the exposed roadway."
+              }
+            },
+            {
+              "name": {
+                "de": "Achmad Amins Bridge",
+                "hu": "Achmad Amins híd",
+                "ro": "Podul Achmad Amins",
+                "en": "Achmad Amins Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Reflexionen der Brückenlichter auf dem nassen Asphalt sind fotogen; tragen Sie auffällige Reflektoren, um bei schlechter Sicht besser gesehen zu werden.",
+                "hu": "A híd lámpáinak tükröződése a vizes aszfalton nagyon fotogén; viseljen feltűnő fényvisszaverőket, hogy a rossz látási viszonyok között is észrevegyék.",
+                "ro": "Reflexiile luminilor podului pe asfaltul umed sunt fotogenice; purtați elemente reflectorizante pentru a fi vizibil în condiții de vizibilitate redusă.",
+                "en": "The reflections of the bridge lights on the wet asphalt are photogenic; wear bright reflectors to be better seen in low visibility conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen auf dem Rad ist dank der milden Temperaturen ideal. Mittags radeln wir zu schattigen oder warmen Innenräumen. Wegen des Sonnenuntergangs um 17:00 Uhr planen wir unsere Route effizient. Der Abend endet früh, bevor die nächtliche Kühle auf dem Fahrrad spürbar wird.",
+            "hu": "A téli reggel a kerékpáron az enyhe hőmérsékletnek köszönhetően ideális. Délben árnyékos vagy meleg belső terek felé tekerünk. Az 17:00-s naplemente miatt hatékonyan tervezzük az útvonalat. Az este korán véget ér, mielőtt a biciklin érezhetővé válna az éjszakai hűvösség.",
+            "ro": "O dimineață de iarnă pe bicicletă este ideală datorită temperaturilor blânde. La prânz pedalăm spre spații interioare umbrite sau calde. Din cauza apusului de la ora 17:00, ne planificăm ruta eficient. Seara se încheie devreme, înainte ca răcoarea nopții să devină sesizabilă pe bicicletă.",
+            "en": "A winter morning on the bike is ideal thanks to the mild temperatures. At noon, we cycle towards shaded or warm indoor spaces. Due to the 17:00 sunset, we plan our route efficiently. The evening ends early, before the nighttime chill becomes noticeable on the bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Samarinda Museum",
+                "hu": "Samarinda Múzeum",
+                "ro": "Muzeul Samarinda",
+                "en": "Samarinda Museum"
+              },
+              "tip_5lang": {
+                "de": "Der Aufenthalt im klimatisierten Museum ist eine willkommene Abwechslung; nutzen Sie das helle Winterlicht für Außenaufnahmen des Gebäudes direkt nach der Ankunft.",
+                "hu": "A légkondicionált múzeumban töltött idő üdvözlendő kikapcsolódás; használja ki az élénk téli fényt az épület külső fotózásához közvetlenül az érkezés után.",
+                "ro": "Șederea în muzeul climatizat este o schimbare binevenită; profită de lumina vie a iernii pentru fotografii exterioare ale clădirii imediat după sosire.",
+                "en": "Staying in the air-conditioned museum is a welcome break; use the bright winter light for outdoor photos of the building immediately upon arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "Tambangan Monument",
+                "hu": "Tambangan Emlékmű",
+                "ro": "Monumentul Tambangan",
+                "en": "Tambangan Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Metall des Denkmals ist im Winter nicht so heiß wie sonst; nehmen Sie sich Zeit für die Informationstafeln, solange die Sonne noch hoch steht.",
+                "hu": "Az emlékmű fémfelülete télen nem olyan forró, mint máskor; szánjon időt az információs táblákra, amíg a nap még magasan jár.",
+                "ro": "Metalul monumentului nu este la fel de fierbinte iarna; acordați-vă timp pentru panourile informative cât timp soarele este încă sus pe cer.",
+                "en": "The monument's metal is not as hot in winter as usual; take your time with the information boards while the sun is still high."
+              }
+            },
+            {
+              "name": {
+                "de": "Muarasuara",
+                "hu": "Muarasuara",
+                "ro": "Muarasuara",
+                "en": "Muarasuara"
+              },
+              "tip_5lang": {
+                "de": "Die kulturellen Vorführungen finden oft in geschlossenen, warmen Räumen statt; parken Sie Ihr Rad sicher im Schatten, um den Sitz kühl zu halten.",
+                "hu": "A kulturális előadásokat gyakran zárt, meleg termekben tartják; parkolja le biztonságosan a biciklit az árnyékban, hogy az ülés hűvös maradjon.",
+                "ro": "Spectacolele culturale au loc adesea în săli închise și calde; parcați bicicleta în siguranță la umbră pentru a menține șaua răcoroasă.",
+                "en": "Cultural performances often take place in closed, warm rooms; park your bike securely in the shade to keep the seat cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "hu": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "ro": "Pusat Kerajinan Tenun Sarung Samarinda",
+                "en": "Pusat Kerajinan Tenun Sarung Samarinda"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Weberei vor 14:00 Uhr, um das beste Licht für die Farbenpracht zu haben; eine dünne Windjacke ist für die Weiterfahrt empfehlenswert.",
+                "hu": "Látogassa meg a szövödét 14:00 előtt a színek legjobb megvilágításához; a továbbhaladáshoz egy vékony széldzseki ajánlott.",
+                "ro": "Vizitați țesătoria înainte de ora 14:00 pentru cea mai bună lumină asupra culorilor; o jachetă subțire de vânt este recomandată pentru continuarea drumului.",
+                "en": "Visit the weaving center before 14:00 for the best light on the colors; a thin windbreaker is recommended for the onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Sirathal Mustaqiem",
+                "hu": "Masjid Sirathal Mustaqiem",
+                "ro": "Masjid Sirathal Mustaqiem",
+                "en": "Masjid Sirathal Mustaqiem"
+              },
+              "tip_5lang": {
+                "de": "Die historische Moschee wirkt in der klaren Winterluft besonders majestätisch; achten Sie auf die Zeit, da der Schattenwurf am Nachmittag schnell länger wird.",
+                "hu": "A történelmi mecset a tiszta téli levegőben különösen fenségesnek tűnik; ügyeljen az időre, mert a délutáni árnyékok gyorsan meghosszabbodnak.",
+                "ro": "Moșcheea istorică pare deosebit de maiestuoasă în aerul curat de iarnă; fiți atenți la timp, deoarece umbrele se lungesc rapid după-amiaza.",
+                "en": "The historic mosque looks particularly majestic in the clear winter air; keep an eye on the time as shadows lengthen quickly in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Jembatan Mahkota 2",
+                "hu": "Jembatan Mahkota 2",
+                "ro": "Jembatan Mahkota 2",
+                "en": "Jembatan Mahkota 2"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Goldene Licht auf der Brücke gegen 16:30 Uhr; schalten Sie unbedingt Ihre Fahrradbeleuchtung für den Rückweg in der frühen Dunkelheit ein.",
+                "hu": "Élje át az aranyfényt a hídon 16:30 körül; feltétlenül kapcsolja be a kerékpáros világítást a korai sötétedésben való visszatéréshez.",
+                "ro": "Experimentați lumina aurie pe pod în jurul orei 16:30; activați neapărat luminile bicicletei pentru drumul de întoarcere pe întunericul timpuriu.",
+                "en": "Experience the golden light on the bridge around 16:30; be sure to turn on your bike lights for the return journey in the early darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Achmad Amins Bridge",
+                "hu": "Achmad Amins híd",
+                "ro": "Podul Achmad Amins",
+                "en": "Achmad Amins Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brückenbeleuchtung ist am frühen Winterabend ein Highlight; tragen Sie eine Mütze oder ein Stirnband unter dem Helm gegen den kühlen Fahrtwind.",
+                "hu": "A híd kivilágítása a kora téli estén igazi fénypont; viseljen sapkát vagy fejpántot a sisak alatt a hűvös menetszél ellen.",
+                "ro": "Iluminatul podului este un punct culminant în serile de iarnă; purtați o căciulă sau o bentiță sub cască împotriva curentului de aer rece.",
+                "en": "The bridge lighting is a highlight on early winter evenings; wear a cap or headband under your helmet against the cool wind while cycling."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Átfogó autós túránkat a Museum Kayu-nál kezdjük, elmerülve a faipar örökségében, majd továbbhajtunk, hogy megcsodáljuk a Monumen Patung Kuda tekintélyt parancsoló jelenlétét.\n\nA városban navigálva meglátogatjuk a békés masjid As'led mecsetet és a magával ragadó Taman Budaya Samarinda parkot, magunkba szívva a terület gazdag művészeti előadásait.\n\nEbéd után a kényelmes út a Samarinda Múzeum mellett visz el minket a mélyebb történelmi kontextusért, amelyet a gyönyörűen kidolgozott Klenteng Thien Ie Kong és a Masjid Sirathal követ.\n\nA nap simán zárul egy festői autózással a hatalmas Achmad Amins hídhoz. A járművünkből élvezett alkonyati kilátás tökéletesen összefoglalja ennek a nyüzsgő városnak a sokszínűségét.",
         "ro": "Începem turul nostru cuprinzător cu mașina la Muzeul Kayu, cufundându-ne în moștenirea lemnului înainte de a conduce pentru a admira prezența impunătoare a Monumen Patung Kuda.\n\nNavigând prin oraș, vizităm liniștita masjid As'led și captivantul Taman Budaya Samarinda, absorbind spectacolele artistice bogate și calmul spiritual al zonei pe parcurs.\n\nDupă prânz, drumul nostru confortabil ne duce pe lângă Muzeul Samarinda pentru un context istoric mai profund, urmat de Klenteng Thien Ie Kong și istorica Masjid Sirathal.\n\nZiua se încheie lin cu o plimbare pitorească până la masivul pod Achmad Amins. Bucurându-ne de priveliștea crepusculului din mașină, reflectăm la frumusețea diversă a orașului.",
         "en": "We kick off our comprehensive driving tour at the Museum Kayu, immersing ourselves in the timber heritage before driving to admire the commanding presence of Monumen Patung Kuda.\n\nNavigating through the city, we visit the serene masjid As'led and the engaging Taman Budaya Samarinda, absorbing the rich artistic performances and spiritual calmness of the area.\n\nPost-lunch, our comfortable drive takes us past the Samarinda Museum for deeper historical context, followed by the beautifully intricate Klenteng Thien Ie Kong and Masjid Sirathal.\n\nThe day concludes smoothly with a scenic drive to the massive Achmad Amins Bridge. Enjoying the twilight views from our vehicle encapsulates the diverse beauty of this vibrant city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen in Samarinda kein Hindernis. Der Morgen führt komfortabel zu abgelegenen Museen. Mittags genießen wir die Fahrt zwischen den Monumenten im Trockenen. Nachmittags besuchen wir Tempel und Moscheen. Der Abend bietet vom Auto aus spektakuläre Blicke auf die regennassen, beleuchteten Brücken.",
+            "hu": "Autóval az eső Samarindában nem akadály. A reggel kényelmesen vezet a távolabb eső múzeumokhoz. Délben szárazon élvezzük az utazást a műemlékek között. Délután templomokat és mecseteket látogatunk. Az este az autóból látványos kilátást nyújt az esőtől csillogó, kivilágított hidakra.",
+            "ro": "Cu mașina, ploaia din Samarinda nu este un obstacol. Dimineața duce confortabil către muzeele mai îndepărtate. La prânz ne bucurăm de drumul între monumente la adăpost. După-amiaza vizităm temple și moșchei. Seara oferă din mașină vederi spectaculoase asupra podurilor iluminate.",
+            "en": "By car, the rain in Samarinda is no obstacle. The morning leads comfortably to more remote museums. At noon, we enjoy the drive between monuments while staying dry. In the afternoon, we visit temples and mosques. The evening offers spectacular views of the rain-slicked, illuminated bridges from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Kayu",
+                "hu": "Museum Kayu",
+                "ro": "Muzeul Kayu",
+                "en": "Museum Kayu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu umgehen; das Museum bietet eine faszinierende, trockene Umgebung für den Vormittag.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt; a múzeum lenyűgöző, száraz környezetet biztosít a délelőtthöz.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; muzeul oferă un mediu fascinant și uscat pentru întreaga dimineață.",
+                "en": "Park as close to the entrance as possible to avoid the rain; the museum provides a fascinating, dry environment for the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Patung Kuda",
+                "hu": "Monumen Patung Kuda",
+                "ro": "Monumen Patung Kuda",
+                "en": "Monumen Patung Kuda"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal bequem vom Fenster aus; für ein schnelles Foto draußen sollten Sie einen Automatikschirm griffbereit im Türfach haben.",
+                "hu": "Tekintse meg az emlékművet kényelmesen az ablakból; egy gyors kinti fotóhoz tartson kéznél egy automata esernyőt az ajtórekeszben.",
+                "ro": "Admirați monumentul confortabil din mașină; pentru o fotografie rapidă afară, țineți o umbrelă automată la îndemână în buzunarul portierei.",
+                "en": "View the monument comfortably from the car window; for a quick photo outside, keep an automatic umbrella handy in the door pocket."
+              }
+            },
+            {
+              "name": {
+                "de": "masjid As'led",
+                "hu": "masjid As'led",
+                "ro": "masjid As'led",
+                "en": "masjid As'led"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten direkt vor dem religiösen Zentrum; der Regen verstärkt die spirituelle Ruhe im Inneren des Gebäudes.",
+                "hu": "Használja ki a közvetlenül a vallási központ előtti parkolási lehetőséget; az eső felerősíti az épület belsejében uralkodó spirituális nyugalmat.",
+                "ro": "Profitați de locurile de parcare chiar în fața centrului religios; ploaia intensifică liniștea spirituală din interiorul clădirii.",
+                "en": "Take advantage of the parking spaces directly in front of the religious center; the rain enhances the spiritual tranquility inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Taman Budaya Samarinda",
+                "hu": "Taman Budaya Samarinda",
+                "ro": "Taman Budaya Samarinda",
+                "en": "Taman Budaya Samarinda"
+              },
+              "tip_5lang": {
+                "de": "Die kulturellen Pavillons sind durch überdachte Wege verbunden; lassen Sie Ihre nassen Mäntel im Auto, um die Ausstellungen trocken zu genießen.",
+                "hu": "A kulturális pavilonokat fedett folyosók kötik össze; hagyja a vizes kabátokat az autóban, hogy szárazon élvezhesse a kiállításokat.",
+                "ro": "Pavilioanele culturale sunt conectate prin culoare acoperite; lăsați hainele ude în mașină pentru a vă bucura de expoziții în stare uscată.",
+                "en": "The cultural pavilions are connected by covered walkways; leave your wet coats in the car to enjoy the exhibitions comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Samarinda Museum",
+                "hu": "Samarinda Múzeum",
+                "ro": "Muzeul Samarinda",
+                "en": "Samarinda Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp für den regnerischen Nachmittag; die Klimaanlage im Auto hilft, die beschlagenen Scheiben nach dem Museumsbesuch schnell zu trocknen.",
+                "hu": "Ideális megálló az esős délutánon; az autó légkondicionálója segít gyorsan leszárítani a bepárásodott szélvédőt a múzeumlátogatás után.",
+                "ro": "O oprire ideală pentru o după-amiază ploioasă; aerul condiționat al mașinii ajută la dezaburirea rapidă a parbrizului după vizită.",
+                "en": "An ideal stop for a rainy afternoon; the car's air conditioning will help quickly clear fogged windows after your museum visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Klenteng Thien Ie Kong",
+                "hu": "Klenteng Thien Ie Kong",
+                "ro": "Klenteng Thien Ie Kong",
+                "en": "Klenteng Thien Ie Kong"
+              },
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet guten Schutz beim Aussteigen; genießen Sie die stimmungsvolle Beleuchtung des Tempels, die im Regen besonders schön strahlt.",
+                "hu": "A bejárati rész jó védelmet nyújt a kiszálláskor; élvezze a templom hangulatos világítását, amely esőben különösen szépen ragyog.",
+                "ro": "Zona de intrare oferă protecție bună la coborâre; bucurați-vă de iluminarea atmosferică a templului, care strălucește frumos în ploaie.",
+                "en": "The entrance area provides good shelter when dismounting; enjoy the atmospheric lighting of the temple, which glows beautifully in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Sirathal Mustaqiem",
+                "hu": "Masjid Sirathal Mustaqiem",
+                "ro": "Masjid Sirathal Mustaqiem",
+                "en": "Masjid Sirathal Mustaqiem"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen etwas überflutet sein; fahren Sie vorsichtig und nutzen Sie den Regensensor Ihres Fahrzeugs für optimale Sicht.",
+                "hu": "Az odavezető út heves esőzéskor kissé víz alá kerülhet; vezessen óvatosan, és használja az esőszenzort az optimális kilátás érdekében.",
+                "ro": "Calea de acces poate fi ușor inundată în caz de ploaie torențială; conduceți cu prudență și folosiți senzorul de ploaie pentru vizibilitate optimă.",
+                "en": "The access road may be slightly flooded during heavy rain; drive carefully and use your rain sensor for optimal visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Achmad Amins Bridge",
+                "hu": "Achmad Amins híd",
+                "ro": "Podul Achmad Amins",
+                "en": "Achmad Amins Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die Brücke, um die Aussicht ohne nass zu werden zu genießen; die Scheibenwischer auf höchster Stufe sorgen für Sicherheit.",
+                "hu": "Hajtson lassan át a hídon, hogy anélkül élvezze a kilátást, hogy elázna; a legmagasabb fokozatra kapcsolt ablaktörlők gondoskodnak a biztonságról.",
+                "ro": "Traversați podul încet pentru a vă bucura de priveliște fără a vă uda; ștergătoarele setate pe viteză maximă asigură siguranța necesară.",
+                "en": "Drive slowly across the bridge to enjoy the view without getting wet; wipers on the highest setting will ensure safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto nutzt die angenehmen Temperaturen perfekt. Vormittags besuchen wir Museen in Außenbezirken. Mittags dienen klimatisierte Räume als Rückzugsort. Der frühe Sonnenuntergang um 17:00 Uhr wird strategisch eingeplant. Der Abend endet komfortabel bei einer Fahrt über die festlich beleuchteten Brücken.",
+            "hu": "A téli nap az autóban tökéletesen kihasználja a kellemes hőmérsékletet. Délelőtt a külvárosi múzeumokat látogatjuk meg. Délben a légkondicionált terek szolgálnak menedékként. Az 17:00-s korai naplementét stratégiailag betervezzük. Az este kényelmesen zárul a hidak ünnepi fényeiben.",
+            "ro": "O zi de iarnă în mașină profită perfect de temperaturile plăcute. Dimineața vizităm muzeele din suburbii. La prânz, spațiile climatizate servesc drept refugiu. Apusul timpuriu de la ora 17:00 este planificat strategic. Seara se încheie confortabil cu o plimbare peste podurile luminate festiv.",
+            "en": "A winter day in the car makes perfect use of the pleasant temperatures. In the morning, we visit museums in the suburbs. At noon, air-conditioned spaces serve as a retreat. The early 17:00 sunset is strategically planned. The evening ends comfortably with a drive across the festively lit bridges."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Kayu",
+                "hu": "Museum Kayu",
+                "ro": "Muzeul Kayu",
+                "en": "Museum Kayu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Vormittag im gut temperierten Museum; die tiefe Wintersonne sorgt für weiche Schatten und hervorragendes Fotolicht im Außenbereich.",
+                "hu": "Élvezze a délelőttöt a kellemes hőmérsékletű múzeumban; az alacsony téli nap puha árnyékokat és kiváló fotófényeket biztosít a külső részeken.",
+                "ro": "Bucurați-vă de dimineață în muzeul bine temperat; soarele jos de iarnă creează umbre moi și o lumină excelentă pentru fotografii exterioare.",
+                "en": "Enjoy the morning in the well-tempered museum; the low winter sun provides soft shadows and excellent photo light in the outdoor areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Patung Kuda",
+                "hu": "Monumen Patung Kuda",
+                "ro": "Monumen Patung Kuda",
+                "en": "Monumen Patung Kuda"
+              },
+              "tip_5lang": {
+                "de": "Die Metallskulpturen reflektieren das klare Winterlicht wunderschön; parken Sie kurz für ein Foto, da die Parkplätze im Winter weniger überlaufen sind.",
+                "hu": "A fémszobrok gyönyörűen verik vissza a tiszta téli fényt; parkoljon le egy fotóra, mivel a parkolók télen kevésbé zsúfoltak.",
+                "ro": "Sculpturile din metal reflectă frumos lumina clară a iernii; parcați scurt pentru o fotografie, parcările fiind mai libere iarna.",
+                "en": "The metal sculptures reflect the clear winter light beautifully; park briefly for a photo, as parking spaces are less crowded in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "masjid As'led",
+                "hu": "masjid As'led",
+                "ro": "masjid As'led",
+                "en": "masjid As'led"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Mittagszeit hier besonders friedlich; stellen Sie die Fahrzeugbelüftung auf eine angenehme, warme Stufe für die Weiterfahrt ein.",
+                "hu": "Télen a délidő itt különösen békés; állítsa a jármű szellőzését kellemes, meleg fokozatra a továbbhaladáshoz.",
+                "ro": "Iarna, timpul amiezii este deosebit de liniștit aici; setați ventilația mașinii la o treaptă caldă și plăcută pentru continuarea drumului.",
+                "en": "In winter, the midday time here is especially peaceful; set the car's ventilation to a pleasant, warm level for the onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Taman Budaya Samarinda",
+                "hu": "Taman Budaya Samarinda",
+                "ro": "Taman Budaya Samarinda",
+                "en": "Taman Budaya Samarinda"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen zwischen 13:00 und 14:00 Uhr; das Licht fällt in einem flachen Winkel in die Pavillons und betont die Exponate.",
+                "hu": "Látogassa meg a kiállításokat 13:00 és 14:00 között; a fény lapos szögben esik a pavilonokba, hangsúlyozva a kiállított tárgyakat.",
+                "ro": "Vizitați expozițiile între orele 13:00 și 14:00; lumina cade sub un unghi plat în pavilioane, evidențiind obiectele expuse.",
+                "en": "Visit the exhibitions between 13:00 and 14:00; the light enters the pavilions at a shallow angle, emphasizing the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Samarinda Museum",
+                "hu": "Samarinda Múzeum",
+                "ro": "Muzeul Samarinda",
+                "en": "Samarinda Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind im Winter ein warmer Rückzugsort; planen Sie die Weiterfahrt so, dass Sie vor dem frühen Sonnenuntergang das nächste Ziel erreichen.",
+                "hu": "A kiállítások télen meleg menedéket jelentenek; tervezze úgy a továbbhaladást, hogy a korai naplemente előtt elérje a következő úticélt.",
+                "ro": "Expozițiile sunt un refugiu călduros iarna; planificați drumul astfel încât să ajungeți la următoarea destinație înainte de apusul timpuriu.",
+                "en": "The exhibitions are a warm retreat in winter; plan your onward journey to reach the next destination before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Klenteng Thien Ie Kong",
+                "hu": "Klenteng Thien Ie Kong",
+                "ro": "Klenteng Thien Ie Kong",
+                "en": "Klenteng Thien Ie Kong"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Tempel in der Nachmittagssonne für die besten Farben; der Parkplatz bietet eine schnelle Abfahrt, um das restliche Tageslicht zu nutzen.",
+                "hu": "Látogassa meg a templomot a délutáni napsütésben a legjobb színekért; a parkolóból gyorsan elindulhat, hogy kihasználja a maradék nappali fényt.",
+                "ro": "Vizitați templul în soarele după-amiezii pentru cele mai bune culori; parcarea permite o plecare rapidă pentru a profita de restul luminii zilei.",
+                "en": "Visit the temple in the afternoon sun for the best colors; the parking lot allows for a quick departure to make use of the remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Sirathal Mustaqiem",
+                "hu": "Masjid Sirathal Mustaqiem",
+                "ro": "Masjid Sirathal Mustaqiem",
+                "en": "Masjid Sirathal Mustaqiem"
+              },
+              "tip_5lang": {
+                "de": "Die Holzmoschee wirkt in der Dämmerung sehr geheimnisvoll; schalten Sie bereits vor der Ankunft Ihr Abblendlicht ein, da die Sicht schnell nachlässt.",
+                "hu": "A fa mecset a szürkületben nagyon titokzatosnak tűnik; már az érkezés előtt kapcsolja be a tompított fényszórót, mivel a látótávolság gyorsan csökken.",
+                "ro": "Moșcheea de lemn pare foarte misterioasă în amurg; aprindeți faza scurtă înainte de sosire, deoarece vizibilitatea scade rapid.",
+                "en": "The wooden mosque looks very mysterious at twilight; turn on your dipped headlights before arrival as visibility drops quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Achmad Amins Bridge",
+                "hu": "Achmad Amins híd",
+                "ro": "Podul Achmad Amins",
+                "en": "Achmad Amins Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke ist gegen 17:15 Uhr voll beleuchtet und ein Highlight der Fahrt; halten Sie die Heizung im Auto auf einer behaglichen Temperatur.",
+                "hu": "A híd 17:15 körül már teljes díszkivilágításban pompázik; tartsa az autó fűtését kellemes hőmérsékleten az esti utazáshoz.",
+                "ro": "Podul este complet iluminat în jurul orei 17:15, fiind punctul culminant al drumului; mențineți căldura în mașină la o temperatură confortabilă.",
+                "en": "The bridge is fully illuminated around 17:15 and is a highlight of the drive; keep the car heater at a cozy temperature for the evening trip."
+              }
+            }
+          ]
+        }
       }
     }
   }

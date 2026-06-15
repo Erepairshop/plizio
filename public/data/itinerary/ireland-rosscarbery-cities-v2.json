@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Rosscarberyben a fenséges St. Fachtna katedrális felfedezésével. Ezután az út történelmi templomok és ősi apátságromok mellett vezet a helyi történelem szívébe. Délután az öböl vízi tevékenységekkel és a Warren part festői homokdűnéivel csábít. Az estét az óceánparti ősi tengerparti kastélyok drámai romjainál fejezheti be a legszebb fényben.",
         "ro": "Începeți ziua în Rosscarbery cu explorarea maiestuoasei Catedrale St. Fachtna. Apoi, traseul trece pe lângă biserici istorice și ruine de abații antice, direct în inima istoriei locale. După-amiaza, golful vă atrage cu activități pe apă și dunele pitorești ale coastei Warren. Seara se încheie lângă ruinele dramatice ale vechilor castele de coastă de lângă ocean.",
         "en": "Start your day in Rosscarbery by exploring the majestic St. Fachtna's Cathedral in the morning light. The path then leads past historic churches and ancient abbey ruins into the heart of local history. In the afternoon, the sheltered bay beckons with water activities and the scenic sand dunes of the Warren coast. The evening concludes beautifully at the dramatic ruins of the coastal castles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Kathedrale, die perfekten Schutz vor dem typisch irischen Regen bietet. Mittags führt der Weg zur katholischen Kirche, einem ruhigen Ort zum Verweilen. Nachmittags erkunden Sie die Ross Abbey, wobei Sie auf den rutschigen Steinen vorsichtig sein sollten. Der Tag endet am windgepeitschten Strand der Warren Dunes, wo wetterfeste Kleidung und festes Schuhwerk unerlässlich sind.",
+            "hu": "A napot a katedrálisban kezdjük, amely tökéletes menedéket nyújt a szemerkélő eső elől. Délben a katolikus templom csendjében pihenhetünk meg szárazon. Délután a Ross Abbey romjai között óvatosan lépkedjünk a csúszós, nedves köveken. A nap a Warren-dűnéknél zárul, ahol az atlanti szél és eső miatt elengedhetetlen a jó vízhatlan öltözet és a sárálló bakancs.",
+            "ro": "Începeți ziua la catedrală, care oferă adăpostul perfect împotriva ploii tipice irlandeze. La prânz, vizitați biserica catolică, un loc liniștit pentru a rămâne uscat. După-amiaza, explorați Ross Abbey, având grijă pe pietrele alunecoase. Ziua se încheie la Warren Dunes, unde vântul și ploaia fac necesară îmbrăcămintea impermeabilă și încălțămintea rezistentă.",
+            "en": "Start your day at the cathedral, providing perfect shelter from the misty Irish rain. At midday, head to the Catholic church for a quiet, dry retreat. Spend the afternoon at Ross Abbey, being mindful of the slippery stones in the wet. End the day at the Warren Dunes, where the wild Atlantic weather demands high-quality rain gear and waterproof boots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Fachtna’s Cathedral",
+                "hu": "St. Fachtna’s Cathedral",
+                "ro": "St. Fachtna’s Cathedral",
+                "en": "St. Fachtna’s Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende Architektur und die Glasfenster vom trockenen Kirchenschiff aus, während draußen der Regen gegen die alten Mauern peitscht.",
+                "hu": "Csodálja meg a lenyűgöző építészetet és az üvegablakokat a száraz hajóból, miközben odakint az eső veri az ősi falakat.",
+                "ro": "Admirați arhitectura impresionantă și vitraliile din interiorul uscat, în timp ce afară ploaia bate în zidurile vechi.",
+                "en": "Admire the impressive architecture and stained glass from the dry nave while the rain lashes against the ancient stone walls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosscarbery Catholic Church",
+                "hu": "Rosscarbery Catholic Church",
+                "ro": "Rosscarbery Catholic Church",
+                "en": "Rosscarbery Catholic Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen friedlichen Ort für eine kurze Pause vom Wetter und genießen Sie die spirituelle Ruhe in der hellen, einladenden Atmosphäre.",
+                "hu": "Használja ezt a békés helyet egy rövid pihenőre az időjárás elől, és élvezze a lelki nyugalmat a világos, hívogató légkörben.",
+                "ro": "Folosiți acest loc liniștit pentru o scurtă pauză de vreme și bucurați-vă de liniștea spirituală în atmosfera luminoasă și primitoare.",
+                "en": "Use this peaceful spot for a short break from the weather and enjoy the spiritual calm in the bright, welcoming atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Ross Abbey",
+                "hu": "Ross Abbey",
+                "ro": "Ross Abbey",
+                "en": "Ross Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Nebel besonders mystisch, aber achten Sie auf den unebenen, schlammigen Boden rund um die historischen Steine.",
+                "hu": "A romok különösen misztikusnak tűnnek a ködben, de ügyeljen az egyenetlen, sáros talajra a történelmi kövek körül.",
+                "ro": "Ruinele par deosebit de mistice în ceață, dar aveți grijă la terenul denivelat și noroios din jurul pietrelor istorice.",
+                "en": "The ruins look particularly mystical in the mist, but watch your step on the uneven, muddy ground around the historical stones."
+              }
+            },
+            {
+              "name": {
+                "de": "The Lagoon Activity Centre",
+                "hu": "The Lagoon Activity Centre",
+                "ro": "The Lagoon Activity Centre",
+                "en": "The Lagoon Activity Centre"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf der Lagune von einem überdachten Bereich aus oder wagen Sie sich mit Neoprenanzug aufs Wasser.",
+                "hu": "Figyelje a lagúna felszínén koppanó esőcseppeket egy fedett területről, vagy merészkedjen a vízre neoprén ruhában.",
+                "ro": "Priviți picăturile de ploaie pe lagună dintr-o zonă acoperită sau aventurați-vă pe apă purtând un costum de neopren.",
+                "en": "Watch the raindrops hitting the lagoon surface from a covered area or venture out onto the water wearing a wetsuit."
+              }
+            },
+            {
+              "name": {
+                "de": "The Warren Dunes",
+                "hu": "The Warren Dunes",
+                "ro": "The Warren Dunes",
+                "en": "The Warren Dunes"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit des Atlantiks bei Sturm, aber bleiben Sie auf den markierten Pfaden, um nicht im Sand stecken zu bleiben.",
+                "hu": "Tapasztalja meg az Atlanti-óceán nyers szépségét viharos időben, de maradjon a kijelölt ösvényeken, hogy ne ragadjon a homokba.",
+                "ro": "Experimentați frumusețea crudă a Atlanticului pe vreme furtunoasă, dar rămâneți pe potecile marcate pentru a nu vă împotmoli în nisip.",
+                "en": "Experience the raw beauty of the Atlantic during stormy weather, but stay on the marked paths to avoid getting stuck in wet sand."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen leuchten die Steine der Kathedrale in der tiefstehenden Sonne. Mittags wärmt ein kurzer Spaziergang durch den Ort auf, bevor es zur Abbey geht. Nachmittags ist die beste Zeit für die Lagune und die Dünen, um das magische Winterlicht einzufangen. Denken Sie daran, dass es gegen 17:00 Uhr dunkel wird; warme Schichten und eine Thermoskanne sind Ihre besten Begleiter.",
+            "hu": "A tiszta téli reggeleken a katedrális kövei ragyognak az alacsonyan járó napfényben. Délben egy rövid séta a városban felmelegít, mielőtt az apátsághoz érnénk. A délután a legjobb időszak a lagúnánál és a dűnéknél, hogy elcsípjük a mágikus téli fényeket. Ne feledje, 17:00 körül sötétedik; a réteges öltözet és egy termosz meleg tea kötelező.",
+            "ro": "Într-o dimineață senină de iarnă, pietrele catedralei strălucesc în soarele de joasă altitudine. La prânz, o scurtă plimbare prin sat vă va încălzi înainte de a merge la abație. După-amiaza este cel mai bun moment pentru lagună și dune, pentru a surprinde lumina magică de iarnă. Rețineți că se întunecă în jurul orei 17:00; straturile groase și un termos sunt esențiale.",
+            "en": "On a clear winter morning, the cathedral stones glow in the low sunlight. At midday, a brisk walk through the village warms you up before visiting the abbey. Afternoon is the prime time for the lagoon and dunes to catch the magical winter light. Remember that it gets dark by 17:00; warm layers and a thermos of hot tea are your best companions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Fachtna’s Cathedral",
+                "hu": "St. Fachtna’s Cathedral",
+                "ro": "St. Fachtna’s Cathedral",
+                "en": "St. Fachtna’s Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft lässt die Details der Fassade besonders scharf hervortreten; treten Sie ein, um kurz dem Wind zu entfliehen.",
+                "hu": "A hűvös téli levegőben a homlokzat részletei különösen élesen látszanak; menjen be, hogy egy kis időre menedéket találjon a szél elől.",
+                "ro": "Aerul rece de iarnă face ca detaliile fațadei să pară deosebit de clare; intrați înăuntru pentru a scăpa scurt de vânt.",
+                "en": "The crisp winter air makes the facade's details stand out sharply; step inside for a brief escape from the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosscarbery Catholic Church",
+                "hu": "Rosscarbery Catholic Church",
+                "ro": "Rosscarbery Catholic Church",
+                "en": "Rosscarbery Catholic Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, wo die Wintersonne oft farbige Lichtspiele durch die Fenster auf den Boden zaubert.",
+                "hu": "Élvezze a benti nyugalmat, ahol a téli napfény gyakran színes fényjátékot varázsol az ablakokon keresztül a padlóra.",
+                "ro": "Bucurați-vă de liniștea din interior, unde soarele de iarnă creează adesea jocuri de lumină colorate pe podea prin ferestre.",
+                "en": "Enjoy the indoor tranquility, where the winter sun often casts colorful patterns of light onto the floor through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Ross Abbey",
+                "hu": "Ross Abbey",
+                "ro": "Ross Abbey",
+                "en": "Ross Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die kargen Mauern der Abbey wirken im Winterlicht besonders eindrucksvoll; tragen Sie festes Schuhwerk für den gefrorenen Boden.",
+                "hu": "Az apátság kopár falai különösen hatásosak a téli fényben; viseljen stabil cipőt a helyenként fagyott talaj miatt.",
+                "ro": "Zidurile golașe ale abației par deosebit de impresionante în lumina iernii; purtați încălțăminte stabilă pentru solul înghețat.",
+                "en": "The stark walls of the abbey are especially striking in the winter light; wear sturdy shoes for the potentially frozen ground."
+              }
+            },
+            {
+              "name": {
+                "de": "The Lagoon Activity Centre",
+                "hu": "The Lagoon Activity Centre",
+                "ro": "The Lagoon Activity Centre",
+                "en": "The Lagoon Activity Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang um die ruhige Lagune ist im Winter sehr entspannend; achten Sie auf die Wasservögel, die hier überwintern.",
+                "hu": "Egy séta a csendes lagúna körül télen nagyon pihentető; figyelje meg az itt telelő vízimadarakat a nyugodt víztükrön.",
+                "ro": "O plimbare în jurul lagunei liniștite este foarte relaxantă iarna; observați păsările de apă care iernează aici.",
+                "en": "A walk around the quiet lagoon is very relaxing in winter; watch out for the water birds that spend the season here."
+              }
+            },
+            {
+              "name": {
+                "de": "The Warren Dunes",
+                "hu": "The Warren Dunes",
+                "ro": "The Warren Dunes",
+                "en": "The Warren Dunes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für einen Strandspaziergang; die Meeresbrise ist im Winter sehr erfrischend, aber kalt.",
+                "hu": "Használja ki az utolsó nappali fényeket egy tengerparti sétára; a tengeri szellő télen frissítő, de rendkívül hideg.",
+                "ro": "Profitați de ultima lumină a zilei pentru o plimbare pe plajă; briza mării este revigorantă iarna, dar foarte rece.",
+                "en": "Make the most of the last daylight for a beach walk; the sea breeze is refreshing in winter but can be extremely cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a napot Rosscarberyben a fenséges St. Fachtna katedrális felfedezésével. Ezután az út történelmi templomok és ősi apátságromok mellett vezet a helyi történelem szívébe. Délután az öböl vízi tevékenységekkel és a Warren part festői homokdűnéivel csábít. Az estét az óceánparti ősi tengerparti kastélyok drámai romjainál fejezheti be a legszebb fényben.",
         "ro": "Începeți ziua în Rosscarbery cu explorarea maiestuoasei Catedrale St. Fachtna. Apoi, traseul trece pe lângă biserici istorice și ruine de abații antice, direct în inima istoriei locale. După-amiaza, golful vă atrage cu activități pe apă și dunele pitorești ale coastei Warren. Seara se încheie lângă ruinele dramatice ale vechilor castele de coastă de lângă ocean.",
         "en": "Start your day in Rosscarbery by exploring the majestic St. Fachtna's Cathedral in the morning light. The path then leads past historic churches and ancient abbey ruins into the heart of local history. In the afternoon, the sheltered bay beckons with water activities and the scenic sand dunes of the Warren coast. The evening concludes beautifully at the dramatic ruins of the coastal castles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln im Regen erfordert Vorsicht, besonders auf den schmalen Wegen zur Kathedrale und zur Abbey. Die Küstenstraße zum Warren bietet dramatische Ausblicke, aber achten Sie auf Pfützen und Gischt. Nachmittags erkunden Sie die Burgruinen von Downeen im Nebel. Packen Sie wasserdichte Taschen für Ihre Ausrüstung ein und tragen Sie helle Kleidung für bessere Sichtbarkeit bei grauem Wetter.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a katedrálishoz és az apátsághoz vezető keskeny utakon. A Warren-part felé vezető út drámai kilátást nyújt, de vigyázzon a tócsákra. Délután a Downeen-vár romjait fedezzük fel a ködben. Használjon vízhatlan táskákat a felszereléséhez, és viseljen feltűnő színeket a jobb láthatóság érdekében a szürke időben.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență, mai ales pe drumurile înguste spre catedrală și abație. Drumul de coastă spre Warren oferă vederi dramatice, dar atenție la bălți. După-amiaza, explorați ruinele castelului Downeen în ceață. Folosiți genți impermeabile pentru echipament și purtați haine luminoase pentru o mai bună vizibilitate.",
+            "en": "Cycling in the rain requires caution, especially on the narrow paths to the cathedral and abbey. The coastal road to the Warren offers dramatic views, but watch out for puddles and sea spray. In the afternoon, explore the Downeen castle ruins in the mist. Pack waterproof bags for your gear and wear bright clothing for better visibility in the grey weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Fachtna’s Cathedral",
+                "hu": "St. Fachtna’s Cathedral",
+                "ro": "St. Fachtna’s Cathedral",
+                "en": "St. Fachtna’s Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter Bäumen oder am Vordach, um den Sattel trocken zu halten, während Sie das Innere besichtigen.",
+                "hu": "Parkolja le kerékpárját fák alatt vagy az előtetőnél, hogy az ülés száraz maradjon, amíg bent nézelődik.",
+                "ro": "Parcați bicicleta sub copaci sau sub copertină pentru a păstra șaua uscată în timp ce vizitați interiorul.",
+                "en": "Park your bike under trees or near the porch to keep the saddle dry while you explore the cathedral's interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Ross Abbey",
+                "hu": "Ross Abbey",
+                "ro": "Ross Abbey",
+                "en": "Ross Abbey"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Abbey kann bei Regen schlammig sein; fahren Sie langsam und achten Sie auf rutschiges Laub auf dem Pfad.",
+                "hu": "Az apátsághoz vezető út esőben sáros lehet; hajtson lassan, és figyeljen a csúszós levelekre az ösvényen.",
+                "ro": "Drumul spre abație poate fi noroios pe ploaie; mergeți încet și aveți grijă la frunzele alunecoase de pe potecă.",
+                "en": "The path to the abbey can be muddy in the rain; cycle slowly and watch out for slippery leaves on the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "The Warren",
+                "hu": "The Warren",
+                "ro": "The Warren",
+                "en": "The Warren"
+              },
+              "tip_5lang": {
+                "de": "Der asphaltierte Weg zum Strand ist bei Regen besser befahrbar als die Feldwege; genießen Sie den Blick auf die tosenden Wellen.",
+                "hu": "A partra vezető aszfaltozott út esőben jobban járható, mint a dűlőutak; élvezze a kilátást a tajtékzó hullámokra.",
+                "ro": "Drumul asfaltat spre plajă este mai practicabil pe ploaie decât potecile; bucurați-vă de vederea valurilor înspumate.",
+                "en": "The paved road to the beach is more manageable in the rain than the dirt paths; enjoy the view of the churning waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Downeen Castle North",
+                "hu": "Downeen Castle North",
+                "ro": "Downeen Castle North",
+                "en": "Downeen Castle North"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine bietet nur wenig Schutz; machen Sie ein schnelles Foto und setzen Sie die Fahrt fort, bevor Sie auskühlen.",
+                "hu": "A várrom csak kevés védelmet nyújt; készítsen egy gyors fotót, és folytassa az utat, mielőtt teljesen lehűlne.",
+                "ro": "Ruina castelului oferă puțin adăpost; faceți o fotografie rapidă și continuați drumul înainte de a vă răci.",
+                "en": "The castle ruins offer little shelter; take a quick photo and keep moving to prevent getting chilled to the bone."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Bay",
+                "hu": "Castle Bay",
+                "ro": "Castle Bay",
+                "en": "Castle Bay"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt zur Bucht; die Bremsen können auf nasser Fahrbahn weniger effektiv sein, halten Sie Abstand.",
+                "hu": "Vigyázzon az öbölhöz vezető lejtőn; a fékek nedves úton kevésbé hatékonyak lehetnek, tartson nagyobb követési távolságot.",
+                "ro": "Atenție la coborârea spre golf; frânele pot fi mai puțin eficiente pe carosabilul umed, păstrați distanța.",
+                "en": "Be careful on the descent to the bay; brakes can be less effective on wet roads, so maintain extra stopping distance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet frische Luft und freie Wege. Starten Sie morgens bei der Kathedrale, wenn der Frost noch auf den Gräsern liegt. Mittags führt die Route zur Abbey und weiter zum Warren, wo die Wintersonne tief steht. Planen Sie Ihre Rückkehr für spätestens 16:30 Uhr ein, da die Temperaturen nach Sonnenuntergang stark sinken und die Sicht schnell nachlässt.",
+            "hu": "A téli kerékpártúra friss levegőt és üres utakat kínál. Induljon reggel a katedrálistól, amikor még zúzmarás a fű. Délben az út az apátsághoz, majd a Warren-parthoz vezet, ahol alacsonyan jár a téli nap. Tervezze úgy a visszaérkezést, hogy legkésőbb 16:30-ra célba érjen, mert naplemente után a hőmérséklet hirtelen leesik.",
+            "ro": "O tură de iarnă cu bicicleta oferă aer curat și drumuri libere. Începeți dimineața la catedrală, când bruma încă este pe iarbă. La prânz, traseul duce spre abație și Warren, unde soarele de iarnă este jos. Planificați întoarcerea cel târziu la ora 16:30, deoarece temperaturile scad brusc după apus.",
+            "en": "A winter bike tour offers fresh air and empty roads. Start your morning at the cathedral while frost still clings to the grass. At midday, follow the route to the abbey and on to the Warren under the low winter sun. Plan to be back by 16:30 at the latest, as temperatures drop sharply and visibility fades quickly after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Fachtna’s Cathedral",
+                "hu": "St. Fachtna’s Cathedral",
+                "ro": "St. Fachtna’s Cathedral",
+                "en": "St. Fachtna’s Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihren Reifendruck vor dem Start; bei Kälte sinkt dieser oft leicht ab, was das Treten anstrengender macht.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást; a hidegben ez gyakran lecsökken, ami megnehezíti a tekerést.",
+                "ro": "Verificați presiunea în anvelope înainte de start; la frig, aceasta scade adesea, făcând pedalatul mai greu.",
+                "en": "Check your tire pressure before setting off; cold temperatures often cause it to drop, making pedaling more strenuous."
+              }
+            },
+            {
+              "name": {
+                "de": "Ross Abbey",
+                "hu": "Ross Abbey",
+                "ro": "Ross Abbey",
+                "en": "Ross Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Wiesen rund um die Abbey sind wunderschön für Fotos; achten Sie aber auf versteckte Glätte auf dem Weg.",
+                "hu": "Az apátság körüli fagyos rétek gyönyörűek a fotózáshoz; de ügyeljen az úton megbújó jeges foltokra.",
+                "ro": "Pajiștile înghețate din jurul abației sunt superbe pentru fotografii; atenție însă la gheața ascunsă de pe drum.",
+                "en": "The frozen meadows around the abbey are beautiful for photos; however, watch out for hidden icy patches on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "The Warren",
+                "hu": "The Warren",
+                "ro": "The Warren",
+                "en": "The Warren"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist hier besonders eisig; tragen Sie winddichte Handschuhe und ein Stirnband unter dem Helm.",
+                "hu": "A tengeri szél itt különösen fagyos; viseljen szélálló kesztyűt és egy vékony fejpántot a sisak alatt.",
+                "ro": "Briza mării este deosebit de rece aici; purtați mănuși rezistente la vânt și o bentiță sub cască.",
+                "en": "The sea breeze is especially icy here; wear windproof gloves and a thin headband or skullcap under your helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "Downeen Castle North",
+                "hu": "Downeen Castle North",
+                "ro": "Downeen Castle North",
+                "en": "Downeen Castle North"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause, um die Aussicht zu genießen, aber bleiben Sie in Bewegung, um die Körperwärme zu halten.",
+                "hu": "Tartson egy rövid szünetet a kilátás kedvéért, de maradjon mozgásban, hogy megőrizze a testhőjét.",
+                "ro": "Faceți o scurtă pauză pentru a admira priveliștea, dar rămâneți în mișcare pentru a vă menține căldura corporală.",
+                "en": "Take a very brief break to enjoy the view, but keep moving to maintain your body heat in the cold coastal air."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Bay",
+                "hu": "Castle Bay",
+                "ro": "Castle Bay",
+                "en": "Castle Bay"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht über der Bucht ist fantastisch; achten Sie bei der Rückfahrt auf die einsetzende Dämmerung und nutzen Sie Licht.",
+                "hu": "A téli fények az öböl felett fantasztikusak; a visszaúton ügyeljen a szürkületre, és feltétlenül használja a lámpáit.",
+                "ro": "Lumina de iarnă peste golf este fantastică; la întoarcere, aveți grijă la amurg și folosiți neapărat luminile.",
+                "en": "The winter light over the bay is fantastic; watch for falling darkness on your return journey and ensure your lights are on."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,195 @@
         "hu": "Kezdje a napot Rosscarberyben a fenséges St. Fachtna katedrális felfedezésével. Ezután az út történelmi templomok és ősi apátságromok mellett vezet a helyi történelem szívébe. Délután az öböl vízi tevékenységekkel és a Warren part festői homokdűnéivel csábít. Az estét az óceánparti ősi tengerparti kastélyok drámai romjainál fejezheti be a legszebb fényben.",
         "ro": "Începeți ziua în Rosscarbery cu explorarea maiestuoasei Catedrale St. Fachtna. Apoi, traseul trece pe lângă biserici istorice și ruine de abații antice, direct în inima istoriei locale. După-amiaza, golful vă atrage cu activități pe apă și dunele pitorești ale coastei Warren. Seara se încheie lângă ruinele dramatice ale vechilor castele de coastă de lângă ocean.",
         "en": "Start your day in Rosscarbery by exploring the majestic St. Fachtna's Cathedral in the morning light. The path then leads past historic churches and ancient abbey ruins into the heart of local history. In the afternoon, the sheltered bay beckons with water activities and the scenic sand dunes of the Warren coast. The evening concludes beautifully at the dramatic ruins of the coastal castles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie West Cork auch bei Regen komfortabel. Beginnen Sie bei den Ruinen von Coppingers Court, die im Regen sehr dramatisch wirken. Mittags bietet die Kathedrale einen trockenen Zwischenstopp. Nachmittags genießen Sie die Aussicht vom Millcove Lookout aus dem warmen Auto. Der Tag endet bei den Warren Dunes, wo Sie den Sturm sicher vom Parkplatz aus beobachten können.",
+            "hu": "Autóval az esőben is kényelmesen felfedezheti West Corkot. Kezdje a Coppingers Court romjainál, amelyek esőben nagyon drámaiak. Délben a katedrális nyújt száraz megállót. Délután élvezze a kilátást a Millcove-kilátótól a meleg autóból. A nap a Warren-dűnéknél zárul, ahol a parkolóból biztonságban figyelheti a viharos óceánt.",
+            "ro": "Cu mașina, puteți explora West Cork confortabil chiar și pe ploaie. Începeți la ruinele Coppingers Court, care par dramatice pe ploaie. La prânz, catedrala oferă o oprire uscată. După-amiaza, bucurați-vă de priveliștea de la Millcove Lookout din mașina caldă. Ziua se încheie la Warren Dunes, de unde puteți observa furtuna în siguranță din parcare.",
+            "en": "Exploring West Cork by car remains comfortable even in heavy rain. Start at the ruins of Coppingers Court, which look dramatic against a grey sky. At midday, the cathedral provides a perfect dry stop. In the afternoon, enjoy the coastal views from Millcove Lookout from the warmth of your car. End the day at Warren Dunes, watching the storm from the safety of the car park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Coppingers Court",
+                "hu": "Coppingers Court",
+                "ro": "Coppingers Court",
+                "en": "Coppingers Court"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern bieten Schutz vor Wind; parken Sie nah am Eingang, um bei Schauern schnell im Trockenen zu sein.",
+                "hu": "A masszív falak védelmet nyújtanak a szél ellen; parkoljon közel a bejárathoz, hogy gyorsan fedél alá érjen a záporok idején.",
+                "ro": "Zidurile masive oferă protecție împotriva vântului; parcați aproape de intrare pentru a ajunge rapid la adăpost în timpul averselor.",
+                "en": "The massive stone walls offer protection from the wind; park close to the entrance to reach shelter quickly during heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Lookout over Millcove",
+                "hu": "Lookout over Millcove",
+                "ro": "Lookout over Millcove",
+                "en": "Lookout over Millcove"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die aufgewühlte See direkt durch die Windschutzscheibe; das spart das Aussteigen im strömenden Regen.",
+                "hu": "Élvezze a felkorbácsolt tenger látványát közvetlenül a szélvédőn keresztül; így elkerülheti a kiszállást a szakadó esőben.",
+                "ro": "Bucurați-vă de vederea mării agitate direct prin parbriz; astfel evitați coborârea din mașină pe ploaia torențială.",
+                "en": "Enjoy the view of the churning sea directly through your windshield; this saves you from getting soaked in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Fachtna’s Cathedral",
+                "hu": "St. Fachtna’s Cathedral",
+                "ro": "St. Fachtna’s Cathedral",
+                "en": "St. Fachtna’s Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Zeit bei einem schweren Regenschauer zu überbrücken und die detailreiche Innenausstattung zu studieren.",
+                "hu": "Ideális hely a várakozásra egy heves esőzés idején, miközben alaposan megvizsgálhatja a részletgazdag belső berendezést.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale, în timp ce studiați detaliile bogate ale interiorului.",
+                "en": "An ideal place to wait out a heavy downpour while taking the time to study the cathedral's detailed interior furnishings."
+              }
+            },
+            {
+              "name": {
+                "de": "The Lagoon Activity Centre",
+                "hu": "The Lagoon Activity Centre",
+                "ro": "The Lagoon Activity Centre"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob das Café geöffnet hat; ein heißes Getränk ist perfekt, während man den Regen auf dem Wasser beobachtet.",
+                "hu": "Ellenőrizze, nyitva van-e a kávézó; egy forró ital tökéletes kísérő, miközben az esőt nézzük a vízen.",
+                "ro": "Verificați dacă cafeneaua este deschisă; o băutură caldă este perfectă în timp ce priviți ploaia pe apă.",
+                "en": "Check if the cafe is open; a hot drink is perfect while watching the rain create ripples on the lagoon surface."
+              }
+            },
+            {
+              "name": {
+                "de": "The Warren Dunes",
+                "hu": "The Warren Dunes",
+                "ro": "The Warren Dunes",
+                "en": "The Warren Dunes"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht auf den Strand; bleiben Sie im Auto, wenn der Wind für einen Spaziergang zu stark ist.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a partra; maradjon az autóban, ha a szél túl erős lenne egy sétához.",
+                "ro": "Parcarea oferă o vedere excelentă spre plajă; rămâneți în mașină dacă vântul este prea puternic pentru o plimbare.",
+                "en": "The car park offers a great view of the beach; stay inside if the wind is too fierce for a safe walk on the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Downeen Castle South",
+                "hu": "Downeen Castle South",
+                "ro": "Downeen Castle South",
+                "en": "Downeen Castle South"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen rutschig sein; fahren Sie vorsichtig auf den Nebenstraßen und achten Sie auf tiefe Pfützen.",
+                "hu": "Az odavezető út esőben csúszós lehet; vezessen óvatosan a mellékutakon, és figyeljen a mély tócsákra.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie; conduceți cu prudență pe drumurile secundare și atenție la bălțile adânci.",
+                "en": "The access road can be slippery in the wet; drive carefully on the secondary roads and watch out for deep standing water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Rosscarbery ist besonders gemütlich. Starten Sie morgens bei Coppingers Court, wenn die Luft klar ist. Mittags besuchen Sie die Kathedrale und die Lagune. Nutzen Sie das goldene Licht am Nachmittag am Warren für Fotos. Da es um 17:00 Uhr dunkel wird, planen Sie zum Abschluss einen Besuch in einem lokalen Pub mit Kaminfeuer ein, um sich aufzuwärmen.",
+            "hu": "Egy téli autós kirándulás Rosscarbery környékén különösen hangulatos. Kezdje reggel a Coppingers Court-nál, amikor tiszta a levegő. Délben látogasson el a katedrálishoz és a lagúnához. Használja ki a délutáni aranyfényeket a Warren-parton fotózáshoz. Mivel 17:00-kor sötétedik, a nap végére tervezzen be egy látogatást egy kandallós helyi pubba.",
+            "ro": "O plimbare de iarnă cu mașina prin Rosscarbery este deosebit de plăcută. Începeți dimineața la Coppingers Court, când aerul este curat. La prânz vizitați catedrala și laguna. Profitați de lumina aurie de după-amiază la Warren pentru fotografii. Deoarece se întunecă la ora 17:00, planificați la final o vizită la un pub local cu șemineu.",
+            "en": "A winter drive through Rosscarbery is exceptionally cozy. Start your morning at Coppingers Court when the air is crisp and clear. At midday, visit the cathedral and the lagoon. Make the most of the golden afternoon light at the Warren for photos. As it gets dark by 17:00, finish your trip with a visit to a local pub with a roaring fire."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Coppingers Court",
+                "hu": "Coppingers Court",
+                "ro": "Coppingers Court",
+                "en": "Coppingers Court"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen im harten Winterlicht fantastisch aus; parken Sie sicher am Straßenrand und achten Sie auf Reifglätte.",
+                "hu": "A romok fantasztikusan mutatnak az éles téli fényben; parkoljon biztonságosan az út szélén, és ügyeljen a zúzmarára.",
+                "ro": "Ruinele arată fantastic în lumina puternică de iarnă; parcați în siguranță pe marginea drumului și atenție la polei.",
+                "en": "The ruins look fantastic in the sharp winter light; park safely at the roadside and watch out for frosty, slippery patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Lookout over Millcove",
+                "hu": "Lookout over Millcove",
+                "ro": "Lookout over Millcove",
+                "en": "Lookout over Millcove"
+              },
+              "tip_5lang": {
+                "de": "Der Blick über die Bucht ist im Winter oft sehr klar; nutzen Sie das Fernglas, um Schiffe am Horizont zu entdecken.",
+                "hu": "Az öbölre nyíló kilátás télen gyakran nagyon tiszta; használjon távcsövet, hogy felfedezze a hajókat a horizonton.",
+                "ro": "Vederea peste golf este adesea foarte clară iarna; folosiți binoclul pentru a descoperi navele de la orizont.",
+                "en": "The view over the bay is often exceptionally clear in winter; use binoculars to spot ships out on the distant horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Fachtna’s Cathedral",
+                "hu": "St. Fachtna’s Cathedral",
+                "ro": "St. Fachtna’s Cathedral",
+                "en": "St. Fachtna’s Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für Wärme zwischen den Stopps; nehmen Sie sich Zeit, die Kathedrale ohne Sommertrubel zu genießen.",
+                "hu": "Az autó fűtése meleget ad a megállók között; szánjon időt a katedrális megtekintésére a nyári tömeg nélkül.",
+                "ro": "Căldura din mașină vă va dezmorți între opriri; profitați de ocazie pentru a vedea catedrala fără aglomerația de vară.",
+                "en": "The car's heater provides warmth between stops; take your time enjoying the cathedral without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "The Lagoon Activity Centre",
+                "hu": "The Lagoon Activity Centre",
+                "ro": "The Lagoon Activity Centre",
+                "en": "The Lagoon Activity Centre"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune ist im Winter ein friedlicher Ort; ein kurzer Fotostopp lohnt sich, bevor das Licht schwächer wird.",
+                "hu": "A lagúna télen nagyon békés hely; egy rövid fotómegállót mindenképpen megér, mielőtt gyengülnének a fények.",
+                "ro": "Laguna este un loc foarte liniștit iarna; merită o scurtă oprire pentru fotografii înainte ca lumina să scadă.",
+                "en": "The lagoon is a very peaceful place in winter; a quick photo stop is well worth it before the daylight begins to fade."
+              }
+            },
+            {
+              "name": {
+                "de": "The Warren Dunes",
+                "hu": "The Warren Dunes",
+                "ro": "The Warren Dunes",
+                "en": "The Warren Dunes"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht sorgt für lange Schatten in den Dünen; ein kurzer Spaziergang am Meer macht den Kopf vor der Weiterfahrt frei.",
+                "hu": "A téli fények hosszú árnyékokat vetnek a dűnék között; egy rövid tengerparti séta felfrissíti az embert a továbbút előtt.",
+                "ro": "Lumina de iarnă creează umbre lungi în dune; o scurtă plimbare pe malul mării vă va revigora înainte de a pleca.",
+                "en": "The winter light creates long shadows in the dunes; a short walk by the sea will refresh you before continuing your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Downeen Castle South",
+                "hu": "Downeen Castle South",
+                "ro": "Downeen Castle South",
+                "en": "Downeen Castle South"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang von diesem exponierten Punkt aus; achten Sie auf die schmalen, teils eisigen Straßen.",
+                "hu": "Figyelje meg a korai naplementét erről a magaslati pontról; ügyeljen a keskeny, helyenként jeges utakra.",
+                "ro": "Observați apusul timpuriu din acest punct expus; atenție la drumurile înguste și uneori înghețate.",
+                "en": "Watch the early sunset from this exposed vantage point; be careful on the narrow, potentially icy country roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

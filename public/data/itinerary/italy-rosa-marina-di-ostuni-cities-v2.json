@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a vidéki örökség felfedezésével a masseriában és a közeli ősi településen. Délben érkezzen meg a drámai tengerparti őrtoronyhoz, a Torre San Leonardóhoz. Délután pihenjen a Spiaggia di Pilone puha homokjában. Zárja a napot a LullaBay-ben, élvezve a hűvös tengeri szellőt és egy frissítő italt.",
         "ro": "Începeți dimineața explorând moștenirea rurală la masseria și așezarea antică din apropiere. La prânz ajungeți la turnul de pază dramatic de pe coastă, Torre San Leonardo. După-amiaza vă relaxați pe nisipul fin de la Spiaggia di Pilone. Încheiați ziua la LullaBay, bucurându-vă de briza mării și o băutură răcoritoare.",
         "en": "Start your morning exploring the ancient rural heritage at the local masseria and the historic settlement nearby. Midday brings you to the dramatic coastal watchtower, Torre San Leonardo, offering great views. In the afternoon, unwind on the soft sands of Spiaggia di Pilone. Conclude your day relaxing at LullaBay, enjoying the cool sea breeze and a refreshing drink."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt an der Masseria, wo die alten Mauern Schutz bieten. Mittags erkunden Sie die prähistorischen Siedlungen, doch Vorsicht auf den schlammigen Pfaden. Am Nachmittag erreichen Sie den Turm und den Strand unter grauem Himmel. Der Tag endet früh, während der Regen auf die Küste peitscht; wasserfeste Kleidung ist heute Ihr bester Begleiter.",
+            "hu": "Az esős reggel a masseriánál indul, ahol a vastag falak nyújtanak némi menedéket. Délben a barlanglakásokat keressük fel, de ügyeljünk a sárban csúszós ösvényekre. Délután a tengerparti torony és a strand szürke ködben úszik, a szél pedig próbára teszi az esernyőket. Az este korán véget ér a kopogó esőben; egy jó esőkabát ma elengedhetetlen a parti túrához.",
+            "ro": "O dimineață ploioasă începe la masseria, unde zidurile vechi oferă adăpost. La prânz explorăm așezările preistorice, dar atenție la potecile noroioase și alunecoase. După-amiaza ajungem la turn și la plajă sub un cer plumburiu, iar vântul devine tăios. Ziua se încheie devreme în ropotul ploii; o pelerină impermeabilă este absolut necesară pentru această plimbare costieră.",
+            "en": "A rainy morning starts at the masseria, where the old walls provide some shelter. At noon, explore the prehistoric settlements, but be careful on the muddy paths. In the afternoon, reach the tower and the beach under grey skies as the wind picks up. The day ends early with the rhythmic sound of rain; a high-quality raincoat is your best companion for this coastal trek."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "la masseria",
+                "hu": "la masseria",
+                "ro": "la masseria",
+                "en": "la masseria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Torbögen als Schutz vor den Schauern und bewundern Sie die glänzenden Steine im Regen; tragen Sie unbedingt wasserfeste Wanderschuhe.",
+                "hu": "Használja a masszív boltíveket menedékként a záporok elől, és csodálja meg az esőben csillogó köveket; mindenképpen vízálló túrabakancsot viseljen.",
+                "ro": "Folosiți arcadele masive ca adăpost împotriva averselor și admirați pietrele strălucitoare în ploaie; purtați neapărat încălțăminte de drumeție impermeabilă.",
+                "en": "Use the massive archways as shelter from the showers and admire the stones glistening in the rain; be sure to wear waterproof hiking boots for the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Insediamento di Lama Pilone",
+                "hu": "Insediamento di Lama Pilone",
+                "ro": "Insediamento di Lama Pilone",
+                "en": "Insediamento di Lama Pilone"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Höhleneingänge, die auch bei Regen trocken bleiben, aber achten Sie auf den rutschigen Lehmboden zwischen den archäologischen Fundstellen.",
+                "hu": "Fedezze fel a barlangbejáratokat, amelyek esőben is szárazak maradnak, de vigyázzon a csúszós agyagos talajra a régészeti lelőhelyek közötti ösvényeken.",
+                "ro": "Explorați intrările în peșteri care rămân uscate chiar și pe ploaie, dar aveți grijă la solul argilos și alunecos dintre siturile arheologice.",
+                "en": "Explore the cave entrances which remain dry even in rain, but be careful of the slippery clay soil on the paths between the archaeological sites."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre San Leonardo",
+                "hu": "Torre San Leonardo",
+                "ro": "Torre San Leonardo",
+                "en": "Torre San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Der historische Turm bietet einen dramatischen Anblick vor dunklen Wolken; suchen Sie an der windgeschützten Seite der Mauern Schutz vor dem peitschenden Regen.",
+                "hu": "A történelmi torony drámai látványt nyújt a sötét felhők előtt; keressen menedéket a falak szélvédett oldalán a metsző eső elől.",
+                "ro": "Turnul istoric oferă o vedere dramatică în fața norilor întunecați; căutați adăpost pe partea ferită de vânt a zidurilor împotriva ploii tăioase.",
+                "en": "The historical tower offers a dramatic view against dark clouds; seek shelter on the leeward side of the walls from the lashing coastal rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Pilone 2",
+                "hu": "Spiaggia di Pilone 2",
+                "ro": "Spiaggia di Pilone 2",
+                "en": "Spiaggia di Pilone 2"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit der stürmischen Adria, während der Regen auf den Sand prasselt; bleiben Sie wegen der Wellen weit vom Wasserrand entfernt.",
+                "hu": "Élvezze a viharos Adria nyers szépségét, ahogy az eső dobol a homokon; a hullámverés miatt maradjon távol a közvetlen vízparttól.",
+                "ro": "Bucurați-vă de frumusețea crudă a Adriaticii învolburate în timp ce ploaia bate în nisip; stați departe de marginea apei din cauza valurilor mari.",
+                "en": "Enjoy the raw beauty of the stormy Adriatic as the rain beats on the sand; stay well back from the water's edge due to the unpredictable waves."
+              }
+            },
+            {
+              "name": {
+                "de": "LullaBay",
+                "hu": "LullaBay",
+                "ro": "LullaBay",
+                "en": "LullaBay"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wetterspiel von den überdachten Bereichen aus, während der Tag nass zu Ende geht; ein heißer Tee ist jetzt die perfekte Belohnung.",
+                "hu": "Figyelje az időjárás játékát a fedett részekről, miközben a nap vizesen véget ér; egy forró tea most a legtökéletesebb jutalom a séta végén.",
+                "ro": "Observați jocul vremii din zonele acoperite în timp ce ziua se încheie umed; un ceai fierbinte este acum recompensa perfectă după drumeție.",
+                "en": "Watch the weather patterns from the covered areas as the day ends on a wet note; a hot tea is the perfect reward after your coastal walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen mit frischer Brise führt zur Masseria. Das Licht ist mittags besonders scharf an den prähistorischen Fundorten. Am Nachmittag genießen Sie die Einsamkeit am Strand von Pilone, bevor die Sonne gegen 17:00 Uhr hinter dem Horizont verschwindet. Die Kälte zieht an, daher ist ein Schichtenlook aus warmer Wolle heute unerlässlich.",
+            "hu": "Tiszta téli reggel, friss szellő kíséri utunkat a masseriához. A fények délben különösen élesek a régészeti lelőhelyeken, remek fotótémát adva. Délután élvezzük a strand magányát, mielőtt a nap 17:00 körül eltűnik a horizont mögött. A lehűlés gyors, ezért a réteges, gyapjú ruházat ma elengedhetetlen a túrához.",
+            "ro": "O dimineață senină de iarnă cu o briză proaspătă ne conduce spre masseria. Lumina este deosebit de clară la prânz în siturile preistorice. După-amiaza vă bucurați de singurătatea plajei înainte ca soarele să apună în jurul orei 17:00. Frigul se lasă repede, așa că îmbrăcămintea stratificată din lână este esențială astăzi.",
+            "en": "A crisp winter morning with a fresh breeze leads us to the masseria. The light is exceptionally sharp at noon over the prehistoric sites. In the afternoon, enjoy the solitude of the beach before the sun vanishes behind the horizon around 17:00. The temperature drops quickly, so layered woolen clothing is essential today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "la masseria",
+                "hu": "la masseria",
+                "ro": "la masseria",
+                "en": "la masseria"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im weichen Winterlicht und nutzen Sie die windgeschützten Innenhöfe für eine kurze Pause; ziehen Sie eine warme Mütze gegen den Wind auf.",
+                "hu": "Csodálja meg az építészetet a lágy téli fényben, és használja a szélvédett belső udvarokat egy rövid pihenőre; húzzon meleg sapkát a parti szél ellen.",
+                "ro": "Admirați arhitectura în lumina blândă de iarnă și folosiți curțile interioare ferite de vânt pentru o scurtă pauză; puneți-vă o căciulă caldă împotriva vântului.",
+                "en": "Admire the architecture in the soft winter light and use the wind-sheltered courtyards for a brief rest; wear a warm hat against the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Insediamento di Lama Pilone",
+                "hu": "Insediamento di Lama Pilone",
+                "ro": "Insediamento di Lama Pilone",
+                "en": "Insediamento di Lama Pilone"
+              },
+              "tip_5lang": {
+                "de": "In den Felsensiedlungen ist es oft windstiller als auf den offenen Feldern; nutzen Sie die Mittagssonne, um die antiken Strukturen ohne Sommerhitze zu studieren.",
+                "hu": "A sziklalakások között gyakran csendesebb a szél, mint a nyílt terepen; használja ki a déli napsütést az ősi struktúrák tanulmányozására a nyári hőség nélkül.",
+                "ro": "În așezările din stâncă este adesea mai puțin vânt decât pe câmpul deschis; profitați de soarele de la prânz pentru a studia structurile antice fără caniculă.",
+                "en": "It is often less windy among the rock settlements than in open fields; take advantage of the midday sun to study the ancient structures without summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre San Leonardo",
+                "hu": "Torre San Leonardo",
+                "ro": "Torre San Leonardo",
+                "en": "Torre San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt im Winterlicht besonders majestätisch; machen Sie Ihre Fotos frühzeitig, da die langen Schatten bereits am frühen Nachmittag dominieren.",
+                "hu": "A torony különösen fenséges a téli fényben; készítse el fotóit időben, mivel a hosszú árnyékok már kora délután eluralkodnak a tájon.",
+                "ro": "Turnul pare deosebit de maiestuos în lumina iernii; faceți fotografiile din timp, deoarece umbrele lungi domină peisajul încă de la începutul după-amiezii.",
+                "en": "The tower looks particularly majestic in the winter light; take your photos early, as long shadows dominate the landscape by early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Pilone 2",
+                "hu": "Spiaggia di Pilone 2",
+                "ro": "Spiaggia di Pilone 2",
+                "en": "Spiaggia di Pilone 2"
+              },
+              "tip_5lang": {
+                "de": "Ein Winterspaziergang am menschenleeren Strand ist sehr erfrischend; tragen Sie Handschuhe, da der feuchte Sand und die Meeresbrise die Hände schnell auskühlen.",
+                "hu": "A téli séta az üres strandon rendkívül frissítő; viseljen kesztyűt, mivel a nedves homok és a tengeri szél gyorsan lehűti a kezeket.",
+                "ro": "O plimbare de iarnă pe plaja pustie este foarte revigorantă; purtați mănuși, deoarece nisipul umed și briza mării răcesc rapid mâinile.",
+                "en": "A winter walk on the empty beach is very refreshing; wear gloves, as the damp sand and sea breeze will chill your hands quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "LullaBay",
+                "hu": "LullaBay",
+                "ro": "LullaBay",
+                "en": "LullaBay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr und kehren Sie dann zügig zurück; die Temperaturen sinken sofort, sobald die Sonne weg ist.",
+                "hu": "Élvezze a naplementét 17:00 körül, majd induljon vissza tempósan; a hőmérséklet azonnal zuhanni kezd, amint a nap eltűnik a horizontról.",
+                "ro": "Bucurați-vă de apusul soarelui în jurul orei 17:00, apoi întoarceți-vă repede; temperaturile scad imediat ce soarele dispare de pe cer.",
+                "en": "Enjoy the sunset around 17:00 and then head back quickly; temperatures drop instantly as soon as the sun disappears from the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpáros kalandja délen kezdődik Rosa Marina ősi rétegeivel és a hangulatos masseriával. Dél körül észak felé teker a történelem előtti lelőhelyek és a régi tengerparti őrtorony felé. Délután megjutalmazhatja magát a Pilone puha homokos strandján. Este a nyüzsgő El Cohibában pihenhet, fantasztikus kilátás mellett.",
         "ro": "Aventura dvs. pe bicicletă începe în sud, cu straturile antice ale Rosei Marina și fermecătoarea masseria. În jurul prânzului, pedalați spre nord spre situri preistorice și vechiul turn de pază. După-amiaza vă recompensați cu o pauză pe plaja cu nisip fin Pilone. Seara, relaxați-vă în animatul El Cohiba cu vederi fantastice.",
         "en": "Your biking adventure begins in the south with the ancient layers of Rosa Marina and the charming local masseria. Around midday, pedal northwards to prehistoric sites and the old coastal watchtower. In the afternoon, reward yourself with a well-deserved break at Pilone's soft sandy beach. Spend your evening unwinding at the lively El Cohiba with fantastic sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein herausfordernder Radtag beginnt auf nassen Wegen bei Rosa Marina. Mittags führt die Tour über rutschige Straßen zur Masseria und den Siedlungen. Nachmittags peitscht der Wind am Turm vorbei, während der Regen zunimmt. Die Rückfahrt erfordert volle Konzentration und gute Bremsen; achten Sie besonders auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+            "hu": "Kihívásokkal teli kerékpáros nap indul Rosa Marina nedves útjain. Délben a túra csúszós aszfalton vezet a masseriához és a lelőhelyekhez. Délután a szél süvít a toronynál, miközben az eső elered. A visszautazás teljes koncentrációt és jó fékeket igényel; ügyeljen a pocsolyákra, amik mély kátyúkat rejthetnek.",
+            "ro": "O zi provocatoare de ciclism începe pe drumurile umede din Rosa Marina. La prânz turul continuă pe asfalt alunecos spre masseria și situri. După-amiaza vântul șuieră pe lângă turn în timp ce ploaia se întețește. Drumul de întoarcere necesită concentrare maximă și frâne bune; atenție la bălțile care pot ascunde gropi adânci.",
+            "en": "A challenging cycling day starts on the wet roads of Rosa Marina. At noon, the tour leads over slippery asphalt to the masseria and settlements. In the afternoon, the wind howls past the tower as the rain intensifies. The ride back requires full concentration and good brakes; watch out for puddles that might hide deep potholes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rosa Marina - Sito Pluristratificato",
+                "hu": "Rosa Marina - Sito Pluristratificato",
+                "ro": "Rosa Marina - Sito Pluristratificato",
+                "en": "Rosa Marina - Sito Pluristratificato"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einer festen Stelle und erkunden Sie die Fundstätte vorsichtig zu Fuß, da die nassen Steine extrem rutschig sind.",
+                "hu": "Parkolja le kerékpárját egy stabil helyen, és gyalogosan fedezze fel a lelőhelyet, mivel a nedves kövek rendkívül csúszósak lehetnek.",
+                "ro": "Parcați bicicleta într-un loc stabil și explorați situl cu atenție pe jos, deoarece pietrele umede sunt extrem de alunecoase.",
+                "en": "Park your bike in a stable spot and explore the site carefully on foot, as the wet stones can be extremely slippery underfoot."
+              }
+            },
+            {
+              "name": {
+                "de": "la masseria",
+                "hu": "la masseria",
+                "ro": "la masseria",
+                "en": "la masseria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Pause unter dem Dach; prüfen Sie Ihre Reifen auf Haftung, bevor Sie die Fahrt auf den nassen Nebenwegen fortsetzen.",
+                "hu": "Használja ki a megállót egy rövid pihenőre az ereszek alatt; ellenőrizze a gumik tapadását, mielőtt folytatná az utat a vizes mellékutakon.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză sub streașină; verificați aderența anvelopelor înainte de a continua drumul pe drumurile secundare umede.",
+                "en": "Take advantage of the stop for a brief rest under the eaves; check your tire grip before continuing the ride on the wet side roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Insediamento di Lama Pilone",
+                "hu": "Insediamento di Lama Pilone",
+                "ro": "Insediamento di Lama Pilone",
+                "en": "Insediamento di Lama Pilone"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können schlammig sein; schalten Sie in einen niedrigen Gang, um auf dem weichen Boden die Kontrolle über Ihr Fahrrad zu behalten.",
+                "hu": "A bekötőutak sárosak lehetnek; váltson alacsonyabb sebességfokozatba, hogy a puha talajon is megőrizze uralmát a kerékpár felett.",
+                "ro": "Drumurile de acces pot fi noroioase; treceți într-o treaptă inferioară pentru a menține controlul asupra bicicletei pe solul moale.",
+                "en": "The access paths can be muddy; shift to a lower gear to maintain control over your bike on the soft and wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Rinvenimento Litico Località Pilone",
+                "hu": "Rinvenimento Litico Località Pilone",
+                "ro": "Rinvenimento Litico Località Pilone",
+                "en": "Rinvenimento Litico Località Pilone"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Blick auf die Funde im Regen genügt heute; achten Sie beim Wiederaufsteigen auf Ihre nassen Schuhe an den Pedalen.",
+                "hu": "Ma elég egy gyors pillantás a leletekre az esőben; visszaszálláskor ügyeljen arra, hogy vizes cipője ne csússzon le a pedálokról.",
+                "ro": "O privire rapidă asupra descoperirilor în ploaie este suficientă astăzi; la urcare, aveți grijă ca pantofii umezi să nu alunece de pe pedale.",
+                "en": "A quick look at the finds in the rain is enough today; when remounting, be careful that your wet shoes don't slip off the pedals."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre San Leonardo",
+                "hu": "Torre San Leonardo",
+                "ro": "Torre San Leonardo",
+                "en": "Torre San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Der Wind ist hier am stärksten; halten Sie den Lenker fest und nutzen Sie den Turm als Windschatten für eine kurze Verschnaufpause.",
+                "hu": "Itt a legerősebb a szél; fogja erősen a kormányt, és használja a tornyot szélárnyékként egy rövid szusszanásnyi pihenőhöz.",
+                "ro": "Vântul este cel mai puternic aici; țineți bine ghidonul și folosiți turnul ca paravan împotriva vântului pentru o scurtă pauză.",
+                "en": "The wind is strongest here; hold the handlebars firmly and use the tower as a windbreak for a quick breather during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Pilone 2",
+                "hu": "Spiaggia di Pilone 2",
+                "ro": "Spiaggia di Pilone 2",
+                "en": "Spiaggia di Pilone 2"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nicht zu nah an den Sand heran, da das Rad einsinken kann; genießen Sie den Blick auf das Meer aus sicherer Entfernung vom Asphalt.",
+                "hu": "Ne hajtson túl közel a homokhoz, mert a kerék elsüllyedhet; élvezze a tenger látványát biztonságos távolságból, az aszfalton maradva.",
+                "ro": "Nu conduceți prea aproape de nisip, deoarece roata se poate scufunda; bucurați-vă de vederea mării de la o distanță sigură, de pe asfalt.",
+                "en": "Do not ride too close to the sand as the wheels can sink; enjoy the sea view from a safe distance while staying on the asphalt path."
+              }
+            },
+            {
+              "name": {
+                "de": "El Cohiba",
+                "hu": "El Cohiba",
+                "ro": "El Cohiba",
+                "en": "El Cohiba"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und trocknen Sie die Kette nach der Tour ab, um Rost durch das Salzwasser und den Regen zu vermeiden.",
+                "hu": "Állítsa fedett helyre a kerékpárt, és a túra után törölje szárazra a láncot, hogy elkerülje a sós víz és az eső okozta rozsdásodást.",
+                "ro": "Puneți bicicleta la adăpost și ștergeți lanțul după tur pentru a evita ruginirea cauzată de apa sărată și ploaie.",
+                "en": "Park your bike under cover and dry the chain after the tour to avoid rust caused by the combination of salt water and rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour per Rad startet bei kühler, aber frischer Luft. Mittags rollen Sie entspannt zur Masseria, während die Sonne für angenehme Wärme sorgt. Nachmittags erreichen Sie die Küste, wo die Brise kälter wird. Planen Sie Ihre Rückkehr vor 17:00 Uhr ein, da es danach schlagartig dunkel und frostig wird; Handschuhe und eine warme Jacke sind Pflicht.",
+            "hu": "A téli kerékpártúra hűvös, de friss levegőben indul. Délben kényelmesen gurulunk a masseriához, miközben a nap kellemes meleget ad. Délután elérjük a partot, ahol a szellő hidegebbé válik. Tervezze a visszaérkezést 17:00 elé, mert utána hirtelen sötét és fagyos lesz; kesztyű és meleg kabát kötelező.",
+            "ro": "Turul de iarnă cu bicicleta începe în aer răcoros, dar proaspăt. La prânz pedalați relaxat spre masseria, în timp ce soarele oferă o căldură plăcută. După-amiaza ajungeți la coastă, unde briza devine mai rece. Planificați întoarcerea înainte de ora 17:00, deoarece se va întuneca brusc; mănușile și o jachetă caldă sunt obligatorii.",
+            "en": "The winter bike tour starts in cool but fresh air. At noon, cycle relaxed towards the masseria while the sun provides some pleasant warmth. In the afternoon, reach the coast where the breeze turns colder. Plan your return before 17:00, as it will get dark and frosty suddenly; gloves and a warm jacket are mandatory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rosa Marina - Sito Pluristratificato",
+                "hu": "Rosa Marina - Sito Pluristratificato",
+                "ro": "Rosa Marina - Sito Pluristratificato",
+                "en": "Rosa Marina - Sito Pluristratificato"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen liegen im Winterwind; bewegen Sie sich beim Erkunden zügig, um warm zu bleiben, und tragen Sie winddichte Kleidung.",
+                "hu": "A romok ki vannak téve a téli szélnek; mozogjon tempósan a felfedezés közben, hogy melegen tartsa magát, és viseljen szélálló ruházatot.",
+                "ro": "Ruinele sunt expuse vântului de iarnă; deplasați-vă rapid în timp ce explorați pentru a vă menține căldura și purtați haine rezistente la vânt.",
+                "en": "The ruins are exposed to the winter wind; move briskly while exploring to stay warm and be sure to wear windproof cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "la masseria",
+                "hu": "la masseria",
+                "ro": "la masseria",
+                "en": "la masseria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne an den hellen Kalksteinwänden der Masseria für ein natürliches Wärmebad vor der Weiterfahrt.",
+                "hu": "Használja ki a déli napsütést a masseria világos mészkőfalainál egy természetes melegedőre, mielőtt továbbfolytatná a kerékpározást.",
+                "ro": "Profitați de soarele de la prânz de lângă zidurile luminoase de calcar ale masseriei pentru o încălzire naturală înainte de a continua drumul.",
+                "en": "Take advantage of the midday sun by the bright limestone walls of the masseria for a natural warm-up before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Insediamento di Lama Pilone",
+                "hu": "Insediamento di Lama Pilone",
+                "ro": "Insediamento di Lama Pilone",
+                "en": "Insediamento di Lama Pilone"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist im Winter fest und gut befahrbar; genießen Sie die klare Sicht auf die archäologischen Details ohne den Sommerstaub.",
+                "hu": "A terep télen szilárd és jól kerékpározható; élvezze a régészeti részletek tiszta látványát a nyári por és hőség nélkül.",
+                "ro": "Terenul este ferm și ușor de parcurs iarna; bucurați-vă de vederea clară a detaliilor arheologice fără praful și căldura verii.",
+                "en": "The ground is firm and good for cycling in winter; enjoy the clear view of the archaeological details without the summer dust and heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Rinvenimento Litico Località Pilone",
+                "hu": "Rinvenimento Litico Località Pilone",
+                "ro": "Rinvenimento Litico Località Pilone",
+                "en": "Rinvenimento Litico Località Pilone"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich nicht zu lange im Schatten auf; die Wintersonne ist Ihre wichtigste Wärmequelle während der Pausen auf freiem Feld.",
+                "hu": "Ne időzzön túl sokat az árnyékban; a téli napsütés a legfontosabb hőforrása a nyílt terepen tartott pihenők alatt.",
+                "ro": "Nu zăboviți prea mult în umbră; soarele de iarnă este cea mai importantă sursă de căldură în timpul pauzelor pe câmp deschis.",
+                "en": "Don't linger too long in the shadows; the winter sun is your most important heat source during breaks in the open fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre San Leonardo",
+                "hu": "Torre San Leonardo",
+                "ro": "Torre San Leonardo",
+                "en": "Torre San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Die Seeluft ist sehr kalt; ziehen Sie ein zusätzliches Buff-Tuch über Mund und Nase, um die Lungen beim Atmen zu schützen.",
+                "hu": "A tengeri levegő rendkívül hideg; húzzon egy extra csősálat a szája és orra elé, hogy védje tüdejét a hideg levegőtől tekerés közben.",
+                "ro": "Aerul mării este foarte rece; trageți o eșarfă suplimentară peste gură și nas pentru a vă proteja plămânii în timp ce pedalați.",
+                "en": "The sea air is very cold; pull an extra buff over your mouth and nose to protect your lungs from the chill while breathing hard."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Pilone 2",
+                "hu": "Spiaggia di Pilone 2",
+                "ro": "Spiaggia di Pilone 2",
+                "en": "Spiaggia di Pilone 2"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Radweg am Meer kann tückisch sein; fahren Sie mit niedrigerem Schwerpunkt, um bei Böen stabil zu bleiben.",
+                "hu": "A tengerparti kerékpárúton a szél trükkös lehet; tekerjen alacsonyabb súlyponttal, hogy stabil maradjon az erősebb széllökésekben is.",
+                "ro": "Vântul pe pista de biciclete de la malul mării poate fi înșelător; pedalați cu un centru de greutate mai jos pentru a rămâne stabil la rafale.",
+                "en": "The wind on the coastal bike path can be tricky; ride with a lower center of gravity to stay stable during stronger gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "El Cohiba",
+                "hu": "El Cohiba",
+                "ro": "El Cohiba",
+                "en": "El Cohiba"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor dem Temperatursturz bei Sonnenuntergang; eine heiße Dusche ist danach die ideale Regeneration.",
+                "hu": "Fejezze be a túrát időben a naplemente előtti lehűlés előtt; egy forró zuhany utána az ideális regenerálódás a szervezetnek.",
+                "ro": "Încheiați turul la timp înainte de scăderea temperaturii de la apus; un duș fierbinte după aceea este regenerarea ideală.",
+                "en": "Finish your tour well before the temperature drop at sunset; a hot shower afterwards is the ideal way to recover from the ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autóval könnyedén felfedezheti a szárazföldet: kezdje a misztikus kriptánál és a paleolitikumi falunál. Délben induljon el egy történelmi karsztbarlanghoz és a jellegzetes masseriához. Délután érje el a festői tengerpartot és annak őrtornyát, majd pihenjen a strandon. A napot a vad Grotta del Gatto selvatico barlangnál zárja.",
         "ro": "Cu mașina, puteți explora cu ușurință interiorul: începeți la cripta mistică și fascinantul sat paleolitic. La prânz mergeți la o peșteră carstică istorică și la masseria tipică. După-amiaza ajungeți la coasta pitorească cu turnul de pază și vă relaxați pe plajă. Încheiați ziua în decorul sălbatic de la Grotta del Gatto selvatico.",
         "en": "Driving allows you to easily uncover the interior: begin at the mystical crypt and the fascinating Paleolithic village. Midday drives take you to a historic karst cave and a traditional masseria. By afternoon, reach the picturesque coast to explore the ancient watchtower and relax at Pilone beach. Conclude your journey in the rugged landscape of Grotta del Gatto selvatico."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag im Auto beginnt an der Krypta. Mittags erkunden Sie die prähistorischen Dörfer und Grotten, die natürliche Höhlen bieten. Nachmittags führt die Fahrt zur Masseria und zum Turm, während die Scheibenwischer im Takt laufen. Genießen Sie den Komfort des trockenen Fahrzeugs, während draußen der apulische Regen die Landschaft in kräftige Farben taucht.",
+            "hu": "Kényelmes esős nap az autóban, ami a kriptánál indul. Délben a régészeti falvakat és grottákat fedezzük fel, amik természetes fedezéket nyújtanak. Délután az út a masseriához és a toronyhoz vezet, miközben az ablaktörlő ütemesen jár. Élvezze a száraz autó kényelmét, miközben kint az apuliai eső mély színekbe öltözteti a tájat.",
+            "ro": "O zi relaxată de ploaie în mașină începe la criptă. La prânz explorăm satele preistorice și grotele care oferă adăpost natural. După-amiaza drumul duce la masseria și la turn în timp ce ștergătoarele funcționează ritmic. Bucurați-vă de confortul vehiculului uscat, în timp ce afară ploaia apuliană îmbracă peisajul în culori intense.",
+            "en": "A relaxed rainy day in the car starts at the crypt. At noon, explore the prehistoric villages and grottoes which provide natural cover. In the afternoon, the drive leads to the masseria and the tower as the wipers beat rhythmically. Enjoy the comfort of the dry vehicle while outside the Apulian rain dresses the landscape in deep, vibrant colors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cripta di San Michele Arcangelo",
+                "hu": "Cripta di San Michele Arcangelo",
+                "ro": "Cripta di San Michele Arcangelo",
+                "en": "Cripta di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdische Krypta ist der perfekte Zufluchtsort bei Regen; bewundern Sie die Fresken in der feuchtkühlen, mystischen Atmosphäre.",
+                "hu": "A föld alatti kripta tökéletes menedék esőben; csodálja meg a freskókat a hűvös, párás és misztikus atmoszférában.",
+                "ro": "Cripta subterană este refugiul perfect pe ploaie; admirați frescele în atmosfera răcoroasă, umedă și mistică de interior.",
+                "en": "The underground crypt is the perfect sanctuary during rain; admire the frescoes in the cool, humid, and mystical indoor atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Paleolitico Lamacornola",
+                "hu": "Villaggio Paleolitico Lamacornola",
+                "ro": "Villaggio Paleolitico Lamacornola",
+                "en": "Villaggio Paleolitico Lamacornola"
+              },
+              "tip_5lang": {
+                "de": "Die Felsüberhänge bieten Schutz; parken Sie so nah wie möglich am Eingang, um nicht nass zu werden, und achten Sie auf Pfützen.",
+                "hu": "A sziklaereszek védelmet nyújtanak; parkoljon a lehető legközelebb a bejárathoz, hogy ne ázzon el, és ügyeljen a pocsolyákra a köveken.",
+                "ro": "Stâncile oferă protecție; parcați cât mai aproape de intrare pentru a nu vă uda și aveți grijă la bălțile de pe pietre.",
+                "en": "The rock overhangs provide protection; park as close to the entrance as possible to stay dry and watch out for puddles on the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta Difesa di Malta",
+                "hu": "Grotta Difesa di Malta",
+                "ro": "Grotta Difesa di Malta",
+                "en": "Grotta Difesa di Malta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Grotte als natürlichen Regenschirm; im Inneren sind Sie sicher vor den Elementen und können die Geologie studieren.",
+                "hu": "Használja a grottát természetes esernyőként; a belsejében biztonságban van az elemektől, és nyugodtan tanulmányozhatja a geológiát.",
+                "ro": "Folosiți grota ca pe o umbrelă naturală; în interior sunteți ferit de elemente și puteți studia geologia în liniște.",
+                "en": "Use the grotto as a natural umbrella; inside you are safe from the elements and can study the unique geology in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "la masseria",
+                "hu": "la masseria",
+                "ro": "la masseria",
+                "en": "la masseria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Autofenster auf die Architektur, bevor Sie für einen kurzen, nassen Sprint ins Innere eilen.",
+                "hu": "Élvezze az építészet látványát az autó ablakából, mielőtt egy gyors vizes sprinttel beszaladna a masszív falak közé.",
+                "ro": "Bucurați-vă de vederea arhitecturii de la geamul mașinii înainte de a fugi repede prin ploaie între zidurile masive.",
+                "en": "Enjoy the view of the architecture from the car window before making a quick dash through the rain into the massive building."
+              }
+            },
+            {
+              "name": {
+                "de": "Insediamento di Lama Pilone",
+                "hu": "Insediamento di Lama Pilone",
+                "ro": "Insediamento di Lama Pilone",
+                "en": "Insediamento di Lama Pilone"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, da der Boden aufgeweicht sein kann; die historischen Steine wirken im Regen besonders dunkel.",
+                "hu": "Maradjon a kövezett utakon, mivel a talaj felázhat; a történelmi kövek az esőben különösen sötét és méltóságteljes hatást keltenek.",
+                "ro": "Rămâneți pe potecile pavate, deoarece solul poate fi moale; pietrele istorice par deosebit de întunecate și maiestuoase în ploaie.",
+                "en": "Stay on the paved paths as the soil can be soft and muddy; the historical stones look particularly dark and majestic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre San Leonardo",
+                "hu": "Torre San Leonardo",
+                "ro": "Torre San Leonardo",
+                "en": "Torre San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf den Turm im Regen; lassen Sie die Fenster nur einen Spalt offen für frische Seeluft.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a toronyra az esőben; csak egy résnyire húzza le az ablakot a friss, sós tengeri levegőért.",
+                "ro": "Din parcare aveți o vedere minunată asupra turnului în ploaie; lăsați ferestrele doar puțin deschise pentru aerul proaspăt de mare.",
+                "en": "From the parking lot you have a great view of the tower in the rain; leave the windows cracked just a bit for the fresh sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Pilone 2",
+                "hu": "Spiaggia di Pilone 2",
+                "ro": "Spiaggia di Pilone 2",
+                "en": "Spiaggia di Pilone 2"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Meer vom Auto aus; das Grau des Himmels und das tiefe Blau des Wassers bilden einen faszinierenden Kontrast.",
+                "hu": "Figyelje a tengert az autóból; az ég szürkesége és a víz mélykékje lenyűgöző kontrasztot alkot a szakadó esőben.",
+                "ro": "Observați marea din mașină; griul cerului și albastrul intens al apei creează un contrast fascinant în ploaia torențială.",
+                "en": "Watch the sea from the car; the grey of the sky and the deep blue of the water create a fascinating contrast in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Gatto selvatico",
+                "hu": "Grotta del Gatto selvatico",
+                "ro": "Grotta del Gatto selvatico",
+                "en": "Grotta del Gatto selvatico"
+              },
+              "tip_5lang": {
+                "de": "Diese Höhle ist ein stimmungsvoller Abschluss; der Regen verstärkt das Echo im Inneren und macht den Besuch noch mystischer.",
+                "hu": "Ez a barlang hangulatos lezárása a napnak; az eső felerősíti a belső visszhangot, még titokzatosabbá téve a látogatást.",
+                "ro": "Această grotă este o încheiere atmosferică; ploaia intensifică ecoul din interior, făcând vizita și mai misterioasă.",
+                "en": "This grotto is an atmospheric end to the day; the rain intensifies the echo inside, making the visit even more mysterious."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag im Auto bietet fantastische Weitblicke. Morgens besuchen Sie die Krypta, mittags die prähistorischen Stätten im gleißenden Licht. Am Nachmittag führt die Route entlang der Küste zum Turm und Strand. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie die Fahrt zur letzten Grotte rechtzeitig ein; die Heizung im Auto sorgt für wohlige Wärme zwischen den Stopps.",
+            "hu": "Tiszta téli nap az autóban, ami fantasztikus kilátást ígér. Reggel a kriptát látogatjuk meg, délben a régészeti helyszíneket a szikrázó fényben. Délután az útvonal a part mentén vezet a toronyhoz és a strandhoz. Mivel a nap 17:00 körül lemegy, tervezze meg időben az utat az utolsó grottához; a fűtés kellemes meleget ad a megállók között.",
+            "ro": "O zi senină de iarnă în mașină oferă vederi fantastice. Dimineața vizitați cripta, la prânz siturile preistorice în lumină orbitoare. După-amiaza traseul duce de-a lungul coastei spre turn și plajă. Deoarece soarele apune în jurul orei 17:00, planificați din timp drumul spre ultima grotă; încălzirea din mașină oferă un confort plăcut între opriri.",
+            "en": "A clear winter day in the car offers fantastic views. In the morning visit the crypt, at noon the prehistoric sites in the sparkling light. In the afternoon, the route leads along the coast to the tower and beach. Since the sun sets around 17:00, plan your trip to the last grotto in time; the car heater provides cozy warmth between stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cripta di San Michele Arcangelo",
+                "hu": "Cripta di San Michele Arcangelo",
+                "ro": "Cripta di San Michele Arcangelo",
+                "en": "Cripta di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur in der Krypta ist im Winter fast angenehmer als draußen; genießen Sie die Stille ohne die üblichen Touristenmassen.",
+                "hu": "A kripta hőmérséklete télen szinte kellemesebb, mint kint; élvezze a csendet a szokásos turistatömeg nélkül ezen a történelmi helyen.",
+                "ro": "Temperatura în criptă este aproape mai plăcută iarna decât afară; bucurați-vă de liniște fără mulțimile obișnuite de turiști în acest loc.",
+                "en": "The temperature in the crypt is almost more pleasant in winter than outside; enjoy the silence without the usual crowds of tourists."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Paleolitico Lamacornola",
+                "hu": "Villaggio Paleolitico Lamacornola",
+                "ro": "Villaggio Paleolitico Lamacornola",
+                "en": "Villaggio Paleolitico Lamacornola"
+              },
+              "tip_5lang": {
+                "de": "Das schräge Sonnenlicht beleuchtet die archäologischen Details hervorragend; nutzen Sie die Zeit zwischen 11 und 14 Uhr für beste Sichtbarkeit.",
+                "hu": "A laposan beeső napsütés kiválóan megvilágítja a régészeti részleteket; használja ki a 11 és 14 óra közötti időt a legjobb láthatóság érdekében.",
+                "ro": "Lumina soarelui care cade oblic luminează excelent detaliile arheologice; profitați de intervalul dintre orele 11 și 14 pentru cea mai bună vizibilitate.",
+                "en": "The low winter sunlight illuminates the archaeological details excellently; use the time between 11 AM and 2 PM for the best visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta Difesa di Malta",
+                "hu": "Grotta Difesa di Malta",
+                "ro": "Grotta Difesa di Malta",
+                "en": "Grotta Difesa di Malta"
+              },
+              "tip_5lang": {
+                "de": "Die Felswände strahlen im Winter eine kühle Ruhe aus; tragen Sie festes Schuhwerk, da der Boden in der Höhle im Winter feucht sein kann.",
+                "hu": "A sziklafalak télen hűvös nyugalmat árasztanak; viseljen stabil lábbelit, mivel a barlang alja télen nedves és csúszós lehet.",
+                "ro": "Pereții de stâncă emană o liniște rece iarna; purtați încălțăminte stabilă, deoarece podeaua peșterii poate fi umedă și alunecoasă iarna.",
+                "en": "The rock walls exude a cool tranquility in winter; wear sturdy footwear as the cave floor can be damp and slippery during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "la masseria",
+                "hu": "la masseria",
+                "ro": "la masseria",
+                "en": "la masseria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um das Auto natürlich aufzuwärmen, während Sie die beeindruckenden Außenanlagen der Masseria besichtigen.",
+                "hu": "Parkoljon a napon, hogy az autó természetes módon felmelegedjen, miközben ön megtekinti a masseria lenyűgöző külső épületeit.",
+                "ro": "Parcați la soare pentru ca mașina să se încălzească natural în timp ce vizitați exteriorul impresionant al masseriei.",
+                "en": "Park in the sun to warm up the car naturally while you visit the impressive exterior grounds of the historic masseria."
+              }
+            },
+            {
+              "name": {
+                "de": "Insediamento di Lama Pilone",
+                "hu": "Insediamento di Lama Pilone",
+                "ro": "Insediamento di Lama Pilone",
+                "en": "Insediamento di Lama Pilone"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für weite Sicht bis zum Meer; halten Sie Ihre Kamera bereit für Panoramaaufnahmen ohne Hitzeflimmern.",
+                "hu": "A tiszta téli levegő távoli kilátást biztosít a tengerig; készítse elő kameráját a panorámafotókhoz a nyári hőséghullámok nélkül.",
+                "ro": "Aerul curat de iarnă oferă o vedere clară până la mare; pregătiți camera pentru fotografii panoramice fără distorsiunile căldurii de vară.",
+                "en": "The clear winter air provides long-range views all the way to the sea; have your camera ready for panoramas without heat haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre San Leonardo",
+                "hu": "Torre San Leonardo",
+                "ro": "Torre San Leonardo",
+                "en": "Torre San Leonardo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Parkplatz für eine kurze Kaffeepause aus der Thermoskanne, während Sie den Turm bewundern.",
+                "hu": "Használja a szélvédett parkolót egy rövid kávészünetre a termoszból, miközben a toronyban gyönyörködik a téli napsütésben.",
+                "ro": "Folosiți parcarea ferită de vânt pentru o scurtă pauză de cafea din termos în timp ce admirați turnul în soarele de iarnă.",
+                "en": "Use the wind-sheltered parking area for a quick coffee break from your thermos while admiring the tower in the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Pilone 2",
+                "hu": "Spiaggia di Pilone 2",
+                "ro": "Spiaggia di Pilone 2",
+                "en": "Spiaggia di Pilone 2"
+              },
+              "tip_5lang": {
+                "de": "Die menschenleere Küste wirkt im Winter sehr friedlich; ein kurzer Spaziergang am Wasser belebt die Geister vor der Weiterfahrt.",
+                "hu": "Az üres tengerpart télen rendkívül békés; egy rövid séta a vízparton felfrissíti a lelket a túra utolsó szakasza előtt.",
+                "ro": "Țărmul pustiu este foarte liniștit iarna; o scurtă plimbare pe malul apei revigorează spiritul înainte de ultima etapă a turului.",
+                "en": "The deserted coastline is very peaceful in winter; a short walk by the water's edge invigorates the spirit before the final stage."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Gatto selvatico",
+                "hu": "Grotta del Gatto selvatico",
+                "ro": "Grotta del Gatto selvatico",
+                "en": "Grotta del Gatto selvatico"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Grotte kurz vor 17 Uhr, um die blauen Schatten des Abends zu erleben; danach geht es zügig ins warme Hotel zurück.",
+                "hu": "Látogassa meg a grottát röviddel 17 óra előtt, hogy lássa az este kék árnyékait; utána induljon vissza gyorsan a meleg szálláshelyre.",
+                "ro": "Vizitați grota cu puțin timp înainte de ora 17 pentru a vedea umbrele albastre ale serii; după aceea, întoarceți-vă rapid la cazarea caldă.",
+                "en": "Visit the grotto shortly before 5 PM to witness the blue shadows of the evening; then return quickly to your warm accommodation."
+              }
+            }
+          ]
+        }
       }
     }
   }

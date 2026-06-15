@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot az üdülőhely északi végén, élvezve a friss tengeri szellőt a Club Rosapineta strandon. \n\nSétáljon délben az aranyhomokos parton a Bagno Serenella és a Tizè Strand felé, ahol megmártózhat a meleg vízben. \n\nDélután a Bagno Perla nyújt élénk hangulatot, kiváló strandbárral és gyönyörű kilátással a partvidékre. \n\nZárja a napot vidáman a Luna Park Piazzale Europa játékai között, ahol az esti fények varázslatosak.",
         "ro": "Începeți ziua la capătul nordic al stațiunii, simțind briza proaspătă a mării la Club Rosapineta Lido. \n\nLa amiază, plimbați-vă pe nisipul auriu până la Bagno Serenella și Plaja Tizè, unde vă puteți răcori în apa caldă. \n\nDupă-amiaza, Bagno Perla vă așteaptă cu o atmosferă animată, dotări excelente și o priveliște superbă asupra coastei. \n\nÎncheiați ziua cu distracție și jocuri la Luna Park Piazzale Europa, o locație vibrantă perfectă pentru seară.",
         "en": "Start your day at the northern end of the resort, feeling the fresh Adriatic breeze at Club Rosapineta Lido, perfect for a quiet morning. \n\nStroll south along the golden sands to Bagno Serenella and Tizè Beach, where you can soak up the warm Italian sun and take a refreshing dip. \n\nContinue to Bagno Perla for a lively afternoon atmosphere, offering excellent beachside amenities and beautiful views. \n\nConclude your day with fun and games at Luna Park Piazzale Europa, where vibrant lights and joyful rides await."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit sanftem Regen unter den Pinien, die natürlichen Schutz bieten. Mittags spazieren wir am Strand, wo die Meeresbrise und die Regentropfen eine melancholische, aber schöne Atmosphäre schaffen. Am Nachmittag erkunden wir die Piazzale Europa, während die nassen Oberflächen das spärliche Licht reflektieren. Abends suchen wir Schutz in gemütlichen Innenräumen, während es draußen weiterregnet.",
+            "hu": "A reggel enyhe esővel indul a fenyvesek alatt, amelyek természetes ernyőként védenek. Délben a tengerparton a sós pára és az esőcseppek különleges illatot árasztanak, miközben a hullámokat figyeljük. Délután a Piazzale Europa környékén teszünk egy kört a vizes járdákon. Az este hamar beköszönt a felhős égbolt alatt, a fények megcsillannak a tócsákban, így a napot egy fedett helyen zárjuk.",
+            "ro": "Dimineața începe cu o ploaie ușoară sub pinii care oferă un adăpost natural. La prânz, ne plimbăm pe plajă, unde briza mării și picăturile de ploaie creează o atmosferă melancolică, dar frumoasă. După-amiaza explorăm Piazzale Europa, în timp ce suprafețele umede reflectă lumina slabă. Seara căutăm adăpost în spații interioare primitoare, în timp ce afară ploaia continuă să cadă pe nisip.",
+            "en": "The morning starts with gentle rain under the pine trees, which offer natural shelter. At noon, we walk along the beach where the sea breeze and raindrops create a melancholic but beautiful atmosphere. In the afternoon, we explore Piazzale Europa as the wet surfaces reflect the dim light. In the evening, we seek shelter in cozy indoor spaces while the rain continues to fall outside on the empty coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Club Rosapineta Lido",
+                "hu": "Club Rosapineta Strand",
+                "ro": "Club Rosapineta Lido",
+                "en": "Club Rosapineta Lido"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen von der überdachten Veranda aus. Nutzen Sie feste Schuhe, da der Holzsteg bei Nässe sehr rutschig werden kann.",
+                "hu": "Figyelje a drámai hullámokat a fedett teraszról. Viseljen stabil cipőt, mert a vizes fa pallók a strandon rendkívül csúszóssá válhatnak az esőben.",
+                "ro": "Priviți valurile dramatice de pe terasa acoperită. Folosiți încălțăminte stabilă, deoarece platformele de lemn pot deveni foarte alunecoase când sunt ude.",
+                "en": "Watch the dramatic waves from the covered veranda. Wear stable shoes, as the wooden walkways on the beach can become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Serenella",
+                "hu": "Bagno Serenella",
+                "ro": "Bagno Serenella",
+                "en": "Bagno Serenella"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische, ionisierte Meeresluft während eines kurzen Sprints am Ufer. Ein großer Sturmschirm ist hier wegen der starken Küstenwinde unerlässlich.",
+                "hu": "Élvezze a friss, ionizált tengeri levegőt egy rövid parti futás során. A partmenti szél miatt egy erős, viharálló esernyő itt elengedhetetlen kellék.",
+                "ro": "Bucurați-vă de aerul marin proaspăt și ionizat în timpul unei scurte alergări pe mal. O umbrelă rezistentă la furtună este esențială din cauza vântului.",
+                "en": "Enjoy the fresh, ionized sea air during a short dash along the shore. A strong, windproof umbrella is essential here due to the gusty coastal winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Tizè Beach",
+                "hu": "Tizè Strand",
+                "ro": "Plaja Tizè",
+                "en": "Tizè Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den permanenten Strandpavillons und lauschen Sie dem Regen. Achten Sie auf den weichen Sand, der im nassen Zustand schwer begehbar ist.",
+                "hu": "Keressen menedéket az állandó strandpavilonok alatt, és hallgassa az eső kopogását. Vigyázzon a puha homokkal, ami vizesen sokkal nehezebben járható.",
+                "ro": "Căutați adăpost sub pavilioanele permanente de pe plajă și ascultați ploaia. Atenție la nisipul moale, care devine mult mai greu de parcurs când este ud.",
+                "en": "Seek shelter under the permanent beach pavilions and listen to the rain. Watch out for the soft sand, which becomes much harder to walk on when soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Perla",
+                "hu": "Bagno Perla",
+                "ro": "Bagno Perla",
+                "en": "Bagno Perla"
+              },
+              "tip_5lang": {
+                "de": "Die verlassene Strandatmosphäre bietet im Regen eine einzigartige Fotokulisse. Schützen Sie Ihre Kamera mit einer wasserdichten Hülle vor der salzigen Gischt.",
+                "hu": "Az elhagyatott tengerparti környezet az esőben egyedülálló fotótémát kínál. Óvja fényképezőgépét vízálló tokkal a sós pára és a csapadék ellen.",
+                "ro": "Atmosfera de plajă pustie oferă un decor fotografic unic în ploaie. Protejați-vă camera cu o husă impermeabilă împotriva vaporilor sărați și a ploii.",
+                "en": "The deserted beach atmosphere offers a unique photographic backdrop in the rain. Protect your camera with a waterproof cover against salt spray and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park Piazzale Europa",
+                "hu": "Luna Park Piazzale Europa",
+                "ro": "Luna Park Piazzale Europa",
+                "en": "Luna Park Piazzale Europa"
+              },
+              "tip_5lang": {
+                "de": "Die bunten Lichter spiegeln sich wunderschön in den Pfützen auf dem Platz. Nutzen Sie die umliegenden Arkaden, um trockenen Fußes die Aussicht zu genießen.",
+                "hu": "A színes fények gyönyörűen tükröződnek a téren lévő tócsákban. Használja a közeli árkádokat, hogy száraz lábbal élvezhesse a város esti látványát.",
+                "ro": "Luminile colorate se reflectă frumos în bălțile de pe piață. Folosiți arcadele din apropiere pentru a vă bucura de vedere fără a vă uda la picioare.",
+                "en": "The colorful lights reflect beautifully in the puddles on the square. Use the nearby arcades to enjoy the view while keeping your feet dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Rosolina Mare ist herrlich erfrischend und ruhig. Mittags wandern wir am menschenleeren Ufer entlang, während die tiefstehende Sonne lange Schatten wirft. Am Nachmittag genießen wir die Einsamkeit im Pinienwald, bevor gegen 17:00 Uhr die Dämmerung einsetzt. Der Abend kommt früh und hüllt die Küste in eine friedliche Dunkelheit unter dem Sternenhimmel.",
+            "hu": "A tiszta téli reggel Rosolina Maréban felfrissítő és rendkívül csendes. Délben a néptelen parton sétálunk, miközben az alacsonyan járó nap hosszú árnyékokat vet a homokba. Délután a fenyvesek közötti magányt élvezzük, mielőtt 17:00 óra körül beköszönt az alkony. Az este korán érkezik, békés sötétségbe burkolva a tengerpartot a csillagos ég alatt.",
+            "ro": "O dimineață senină de iarnă în Rosolina Mare este revigorantă și foarte liniștită. La prânz, ne plimbăm pe țărmul pustiu, în timp ce soarele jos aruncă umbre lungi pe nisip. După-amiaza ne bucurăm de singurătatea din pădurea de pini, înainte ca amurgul să se instaleze în jurul orei 17:00. Seara vine devreme, învăluind coasta într-o întuneric pașnic.",
+            "en": "A clear winter morning in Rosolina Mare is refreshingly crisp and incredibly quiet. At noon, we walk along the deserted shore as the low sun casts long shadows on the sand. In the afternoon, we enjoy the solitude of the pine forest before dusk sets in around 17:00. Evening arrives early, wrapping the coast in peaceful darkness under the starry sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Club Rosapineta Lido",
+                "hu": "Club Rosapineta Strand",
+                "ro": "Club Rosapineta Lido",
+                "en": "Club Rosapineta Lido"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die poetische Stille des winterlichen Meeres ohne Menschenmassen. Kleiden Sie sich im Zwiebelprinzip, da der Wind vom Meer sehr schneidend sein kann.",
+                "hu": "Tapasztalja meg a téli tenger költői csendjét tömegek nélkül. Öltözzön rétegesen, mert a tenger felől érkező szél ilyenkor rendkívül metsző tud lenni.",
+                "ro": "Experimentați liniștea poetică a mării pe timp de iarnă, fără mulțimi. Îmbrăcați-vă în straturi, deoarece vântul de pe mare poate fi foarte tăios.",
+                "en": "Experience the poetic silence of the winter sea without the crowds. Dress in layers, as the wind coming off the sea can be very biting this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Serenella",
+                "hu": "Bagno Serenella",
+                "ro": "Bagno Serenella",
+                "en": "Bagno Serenella"
+              },
+              "tip_5lang": {
+                "de": "Die kristallklare Luft bietet im Winter die beste Sicht bis zum Horizont. Tragen Sie eine winddichte Jacke, um die raue Schönheit der Adria länger zu genießen.",
+                "hu": "A kristálytiszta levegő télen kínálja a legjobb kilátást a horizontig. Viseljen szélálló kabátot, hogy hosszabb ideig élvezhesse az Adria zord szépségét.",
+                "ro": "Aerul de cristal oferă iarna cea mai bună vizibilitate până la orizont. Purtați o jachetă rezistentă la vânt pentru a admira frumusețea aspră a Adriaticii.",
+                "en": "The crystal-clear air offers the best visibility to the horizon in winter. Wear a windproof jacket to enjoy the rugged beauty of the Adriatic for longer."
+              }
+            },
+            {
+              "name": {
+                "de": "Tizè Beach",
+                "hu": "Tizè Strand",
+                "ro": "Plaja Tizè",
+                "en": "Tizè Beach"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine meditative Wanderung über den festen Winterstrand. Achten Sie auf Treibgut, das nach Winterstürmen oft interessante Formen am Ufer bildet.",
+                "hu": "Tökéletes hely egy meditatív túrához a kemény téli homokban. Figyelje a tengeri hordalékokat, amik a téli viharok után érdekes formákat öltenek a parton.",
+                "ro": "Perfect pentru o drumeție meditativă pe plaja tare de iarnă. Observați resturile aduse de mare, care formează forme interesante după furtunile de iarnă.",
+                "en": "Perfect for a meditative hike across the firm winter sand. Look out for driftwood and shells that form interesting patterns after winter storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Perla",
+                "hu": "Bagno Perla",
+                "ro": "Bagno Perla",
+                "en": "Bagno Perla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang, der im Winter besonders farbenfroh ist. Da es ab 17:00 Uhr dunkel wird, nehmen Sie für den Rückweg eine Taschenlampe mit.",
+                "hu": "Élvezze a naplementét, amely télen különösen színes és látványos. Mivel 17:00 után sötétedik, a biztonság kedvéért legyen önnél egy zseblámpa a visszaúthoz.",
+                "ro": "Bucurați-vă de apusul de soare, care iarna este deosebit de colorat. Deoarece se întunecă după ora 17:00, luați o lanternă pentru drumul de întoarcere.",
+                "en": "Enjoy the sunset, which is particularly colorful in winter. Since it gets dark after 17:00, bring a flashlight for the walk back just in case."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park Piazzale Europa",
+                "hu": "Luna Park Piazzale Europa",
+                "ro": "Luna Park Piazzale Europa",
+                "en": "Luna Park Piazzale Europa"
+              },
+              "tip_5lang": {
+                "de": "Obwohl der Park geschlossen ist, strahlt der Platz eine ruhige Eleganz aus. Ein warmer Thermobecher mit Tee macht den abendlichen Aufenthalt angenehmer.",
+                "hu": "Bár a park zárva van, a tér ilyenkor is nyugodt eleganciát áraszt. Egy meleg teával töltött termoszt vigyen magával az esti nézelődéshez.",
+                "ro": "Deși parcul este închis, piața emană o eleganță liniștită. Un termos cu ceai cald va face șederea de seară mult mai plăcută și confortabilă.",
+                "en": "Although the park is closed, the square radiates a quiet elegance. Bringing a warm thermos of tea will make your evening stroll much more comfortable."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Béreljen kerékpárt, és tekerjen el a Club Rosapineta strandhoz egy energikus reggeli kezdésért, csodás kilátással. \n\nDélben biciklizzen végig a parton a 7-es szabadstrand és a Rosapineta Sud üdülőfalu felé, élvezve a nyitott utakat. \n\nDélután haladjon délebbre a Bagno Azzurro és a Bagno Belvedere felé, ahol a tömegtől távolabb pihenhet a csendben. \n\nEste térjen vissza a pezsgő Luna Park Piazzale Europa területére, ahol izgalmas játékokkal ünnepelheti meg a napot.",
         "ro": "Închiriați o bicicletă și mergeți la Club Rosapineta Lido pentru un început de zi plin de energie și priveliști superbe. \n\nLa amiază, pedalați de-a lungul coastei spre Plaja publică 7 și Villaggio Rosapineta Sud, bucurându-vă de traseele deschise. \n\nDupă-amiaza, mergeți mai la sud către Bagno Azzurro și Bagno Belvedere, relaxându-vă într-o ambianță liniștită, departe de aglomerație. \n\nSeara, faceți o buclă înapoi spre Luna Park Piazzale Europa, locul perfect pentru a vă încheia ziua cu atracții captivante.",
         "en": "Rent a bike and ride to Club Rosapineta Lido for an energizing start, enjoying the sweeping coastal views from the northern beaches. \n\nPedal down the coastline to Spiaggia libera 7 and Villaggio Rosapineta Sud, enjoying the freedom of the open paths and pristine sand. \n\nCycle further south to Bagno Azzurro and Bagno Belvedere, relaxing in the tranquil afternoon ambiance away from the main crowds. \n\nLoop back to the bustling Luna Park Piazzale Europa, a perfect spot to celebrate the day with exciting rides and fun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht, aber die leeren Wege sind ein Privileg. Morgens gleiten wir durch den nassen Pinienwald, der herrlich duftet. Mittags erreichen wir die Küstenabschnitte, wo wir trotz Regenschutz die Gischt spüren. Am Nachmittag radeln wir vorsichtig über glatte Straßen zurück zum Zentrum. Abends stellen wir die Räder unter und trocknen uns bei einem warmen Getränk auf.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel, de az üres utak nagy élményt jelentenek. Reggel a nedves fenyvesen tekerünk át, aminek ilyenkor csodás illata van. Délben a parti szakaszokon a sós pára keveredik az esővel. Délután óvatosan haladunk a csúszós utakon a központ felé. Este fedett helyre tesszük a bicajokat, és egy forró ital mellett melegszünk fel.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență, dar drumurile libere sunt un privilegiu. Dimineața pedalăm prin pădurea de pini umedă, care miroase divin. La prânz ajungem la porțiunile de coastă, unde simțim stropii mării. După-amiaza pedalăm cu grijă pe străzile alunecoase spre centru. Seara parcăm bicicletele sub acoperiș și ne încălzim cu o băutură caldă.",
+            "en": "Cycling in the rain requires caution, but the empty paths are a rare privilege. In the morning, we glide through the wet pine forest, which smells wonderful. At noon, we reach the coastal sections, feeling the sea spray despite our rain gear. In the afternoon, we cycle carefully back to the center on slick roads. In the evening, we park the bikes and dry off with a warm drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Club Rosapineta Lido",
+                "hu": "Club Rosapineta Strand",
+                "ro": "Club Rosapineta Lido",
+                "en": "Club Rosapineta Lido"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Vordächern ab, um den Sattel trocken zu halten. Achten Sie auf Aquaplaning auf den asphaltierten Zufahrtswegen.",
+                "hu": "Parkoljon az előtetők alatt, hogy a nyereg száraz maradjon. Ügyeljen a vízenfutásra (aquaplaning) az aszfaltozott bevezető utakon az esőben.",
+                "ro": "Parcați bicicleta sub copertine pentru a păstra șaua uscată. Atenție la acvaplanare pe drumurile de acces asfaltate în timpul ploii torențiale.",
+                "en": "Park your bike under the overhangs to keep the saddle dry. Watch out for aquaplaning on the paved access roads during heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera 7",
+                "hu": "7-es szabadstrand",
+                "ro": "Plaja publică 7",
+                "en": "Free Beach 7"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier durch Schlamm und nassen Sand rutschig sein. Reduzieren Sie den Reifendruck leicht für besseren Grip auf den unbefestigten Wegen.",
+                "hu": "A talaj itt a sár és a nedves homok miatt csúszós lehet. Csökkentse kissé a guminyomást a jobb tapadás érdekében a nem aszfaltozott szakaszokon.",
+                "ro": "Solul poate fi alunecos aici din cauza noroiului și a nisipului ud. Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe drumurile neasfaltate.",
+                "en": "The ground can be slippery here due to mud and wet sand. Slightly reduce tire pressure for better grip on the unpaved sections of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Rosapineta Sud",
+                "hu": "Rosapineta Sud Üdülőfalu",
+                "ro": "Satul de vacanță Rosapineta Sud",
+                "en": "Villaggio Rosapineta Sud"
+              },
+              "tip_5lang": {
+                "de": "Die Pinien bieten einen guten Schutz vor leichtem Nieselregen. Tragen Sie eine neongelbe Regenjacke, um bei schlechter Sicht für Autos sichtbar zu bleiben.",
+                "hu": "A fenyőfák jó védelmet nyújtanak az enyhe szemerkélő eső ellen. Viseljen feltűnő esődzsekit, hogy a rossz látási viszonyok között is látható maradjon.",
+                "ro": "Pinii oferă o protecție bună împotriva burniței ușoare. Purtați o pelerină de ploaie reflectorizantă pentru a fi vizibil pentru mașini în trafic.",
+                "en": "The pine trees provide decent protection against light drizzle. Wear a high-visibility rain jacket to stay seen by cars in the low-light conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Azzurro",
+                "hu": "Bagno Azzurro",
+                "ro": "Bagno Azzurro",
+                "en": "Bagno Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf den nassen Fliesen der Strandpromenade. Ein Schutzblech am Rad verhindert, dass Schmutzwasser auf Ihren Rücken spritzt.",
+                "hu": "Kerülje az éles fékezést a tengerparti sétány nedves burkolatán. A sárvédő használata javasolt, hogy megakadályozza a víz felverődését a hátára.",
+                "ro": "Evitați frânarea bruscă pe pavajul umed al falezei. O aripă la bicicletă va preveni stropirea cu apă murdară pe spate în timpul deplasării.",
+                "en": "Avoid sharp braking on the wet pavement of the beach promenade. A fender on your bike will prevent muddy water from splashing onto your back."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Belvedere",
+                "hu": "Bagno Belvedere",
+                "ro": "Bagno Belvedere",
+                "en": "Bagno Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das stürmische Meer ist die Mühe der nassen Fahrt wert. Halten Sie Ihre Bremsbeläge sauber, da Sand und Wasser den Verschleiß erhöhen.",
+                "hu": "A viharos tenger látványa megéri a nedves tekeréssel járó fáradtságot. Tartsa tisztán a fékbetéteket, mert a homok és víz gyorsítja a kopást.",
+                "ro": "Vederea mării învolburate merită efortul pedălării prin ploaie. Păstrați saboții de frână curati, deoarece nisipul și apa accelerează uzura.",
+                "en": "The view of the stormy sea is worth the effort of the wet ride. Keep your brake pads clean, as sand and water can increase wear during the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park Piazzale Europa",
+                "hu": "Luna Park Piazzale Europa",
+                "ro": "Luna Park Piazzale Europa",
+                "en": "Luna Park Piazzale Europa"
+              },
+              "tip_5lang": {
+                "de": "Nach der Tour sollten Sie die Fahrradkette reinigen und neu ölen. Die nassen Metallstrukturen des Parks wirken im Regen besonders imposant.",
+                "hu": "A túra után érdemes megtisztítani és újraolajozni a kerékpárláncot. A park vizes fémszerkezetei az esőben különösen monumentálisnak hatnak.",
+                "ro": "După tură, ar trebui să curățați și să ungeți din nou lanțul bicicletei. Structurile metalice umede ale parcului par impunătoare în ploaie.",
+                "en": "After the tour, be sure to clean and re-oil your bike chain. The wet metal structures of the park look particularly imposing in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bietet eine klare Perspektive auf die flache Küstenlandschaft. Morgens ist die Luft beißend kalt, aber belebend auf den Radwegen. Mittags genießen wir die freie Fahrt entlang der Adria, fast ohne Gegenverkehr. Am Nachmittag spüren wir den kühlen Nordwind, während wir rechtzeitig vor Sonnenuntergang zurückkehren. Abends genießen wir die Wärme nach einem aktiven Tag an der frischen Luft.",
+            "hu": "A téli kerékpározás tiszta rálátást biztosít a lapos tengerparti tájra. Reggel a levegő csípősen hideg, de élénkítő a bicikliutakon. Délben élvezzük a szabad haladást az Adria mentén, szinte forgalom nélkül. Délután érezzük a hűvös északi szelet, ezért még naplemente előtt visszaérünk a városba. Az este a jól megérdemelt pihenésé a friss levegőn töltött nap után.",
+            "ro": "Ciclismul de iarnă oferă o perspectivă clară asupra peisajului de coastă plat. Dimineața aerul este tăios, dar revigorant pe pistele de biciclete. La prânz ne bucurăm de drumul liber de-a lungul Adriaticii, fără trafic. După-amiaza simțim vântul rece din nord, așa că ne întoarcem înainte de apus. Seara ne bucurăm de căldură după o zi activă în aer liber.",
+            "en": "Winter cycling offers a clear perspective on the flat coastal landscape. In the morning, the air is biting cold but invigorating on the bike paths. At noon, we enjoy the open ride along the Adriatic with almost no traffic. In the afternoon, we feel the cool north wind, so we return before the 17:00 sunset. In the evening, we enjoy the warmth after an active day in the fresh air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Club Rosapineta Lido",
+                "hu": "Club Rosapineta Strand",
+                "ro": "Club Rosapineta Lido",
+                "en": "Club Rosapineta Lido"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, um Ihre Finger beim Radfahren warm zu halten. Die Wege sind im Winter meist frei von Sandverwehungen und gut befahrbar.",
+                "hu": "Viseljen szélálló kesztyűt, hogy melegen tartsa ujjait tekerés közben. Az utak télen többnyire mentesek a homokátfúvásoktól és jól járhatóak.",
+                "ro": "Purtați mănuși rezistente la vânt pentru a vă menține degetele calde. Drumurile sunt iarna în mare parte libere de nisip și ușor de parcurs.",
+                "en": "Wear windproof gloves to keep your fingers warm while cycling. The paths in winter are mostly free of sand drifts and very easy to ride on."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera 7",
+                "hu": "7-es szabadstrand",
+                "ro": "Plaja publică 7",
+                "en": "Free Beach 7"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und kann blenden; eine Sonnenbrille ist ratsam. Genießen Sie die ungestörte Sicht auf die weite, leere Dünenlandschaft.",
+                "hu": "A téli nap alacsonyan jár és vakíthat, ezért a napszemüveg ajánlott. Élvezze a zavartalan kilátást a tágas, üres dűnék világa felett.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor; ochelarii de soare sunt recomandați. Bucurați-vă de vederea neîntreruptă asupra dunelor pustii.",
+                "en": "The winter sun is low and can be dazzling; sunglasses are highly recommended. Enjoy the undisturbed view over the vast, empty dune landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Rosapineta Sud",
+                "hu": "Rosapineta Sud Üdülőfalu",
+                "ro": "Satul de vacanță Rosapineta Sud",
+                "en": "Villaggio Rosapineta Sud"
+              },
+              "tip_5lang": {
+                "de": "Die Pinienwälder dienen als hervorragender Windschutz gegen die Bora. Nutzen Sie die asphaltierten Wege im Inneren der Anlage für eine ruhige Fahrt.",
+                "hu": "A fenyvesek kiváló szélfogóként szolgálnak a jeges bóra szél ellen. Használja az üdülőfalu belső aszfaltozott útjait a nyugodt haladáshoz.",
+                "ro": "Pădurile de pini servesc ca un paravan excelent împotriva vântului rece. Folosiți drumurile asfaltate din interiorul complexului pentru o cursă liniștită.",
+                "en": "The pine forests serve as an excellent windbreak against the cold Bora wind. Use the paved paths inside the resort for a smooth and calm ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Azzurro",
+                "hu": "Bagno Azzurro",
+                "ro": "Bagno Azzurro",
+                "en": "Bagno Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf Brücken oder in schattigen Bereichen. Der kalte Fahrtwind macht warme Funktionsbekleidung absolut notwendig.",
+                "hu": "Ügyeljen a jeges foltokra a hidakon vagy az árnyékosabb útszakaszokon. A hideg menetszél miatt a meleg funkcionális ruházat elengedhetetlen.",
+                "ro": "Atenție la porțiunile înghețate de pe poduri sau în zonele umbrite. Vântul rece face ca îmbrăcămintea funcțională caldă să fie absolut necesară.",
+                "en": "Watch out for icy patches on bridges or in shaded areas of the path. The cold wind chill makes warm functional clothing absolutely necessary."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Belvedere",
+                "hu": "Bagno Belvedere",
+                "ro": "Bagno Belvedere",
+                "en": "Bagno Belvedere"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp bietet einen tollen Blick auf die stürmische Winteradria. Packen Sie eine Thermoskanne ein, um sich bei einer Pause aufzuwärmen.",
+                "hu": "Egy rövid megálló remek kilátást nyújt a viharos téli Adriára. Vigyen magával termoszt, hogy egy rövid pihenő alatt felmelegíthesse magát.",
+                "ro": "O scurtă oprire oferă o vedere excelentă asupra Adriaticii învolburate. Luați un termos pentru a vă putea încălzi în timpul unei pauze scurte.",
+                "en": "A short stop offers a great view of the stormy winter Adriatic. Pack a thermos to warm yourself up with a hot drink during your breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park Piazzale Europa",
+                "hu": "Luna Park Piazzale Europa",
+                "ro": "Luna Park Piazzale Europa",
+                "en": "Luna Park Piazzale Europa"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die frühe Dunkelheit funktioniert. Der Platz ist ein guter Endpunkt für die winterliche Radtour.",
+                "hu": "Győződjön meg róla, hogy a kerékpárlámpák működnek a korai sötétedés miatt. A tér remek végpontja a téli kerékpáros felfedezőútnak.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru întunericul ce vine devreme. Piața este un punct final bun pentru tura de iarnă.",
+                "en": "Make sure your bike lights are working for the early sunset. The square is an excellent final destination for your winter cycling exploration."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózzon reggel a Club Rosapineta strandhoz, ahol kényelmes parkolás és tökéletes kilátás nyílik a csendes tengerre. \n\nDélben tegyen egy rövid utat a Tizè Strand és a 9-es szabadstrand felé, ahol könnyedén kipakolhatja felszerelését egy fürdőzéshez. \n\nDélután guruljon le a Rosolina Mare Club üdülőfalu és a Bagni dal Moro irányába, felfedezve a délebbi, elszigeteltebb részeket. \n\nEste parkoljon le a Luna Park Piazzale Europa közelében, és élvezze az ünnepi hangulatot a vidámpark nyüzsgésében.",
         "ro": "Conduceți dimineața la Club Rosapineta Lido, unde veți găsi parcări convenabile și o priveliște perfectă asupra mării liniștite. \n\nLa amiază, faceți o scurtă plimbare cu mașina până la Plaja Tizè și Plaja publică 9, descărcând ușor echipamentul pentru o baie revigorantă. \n\nDupă-amiaza, coborâți spre Villaggio Rosolina Mare Club și Bagni dal Moro pentru a explora secțiunile de plajă mai retrase. \n\nSeara, parcați aproape de Luna Park Piazzale Europa pentru o atmosferă festivă, cu atracții captivante și jocuri de amuzament.",
         "en": "Drive to Club Rosapineta Lido to catch the morning sun, taking advantage of the convenient early parking and serene beachscapes. \n\nTake a short drive to Tizè Beach and Spiaggia libera 9, where you can easily unload your gear for a midday swim and relaxation. \n\nCruise down to Villaggio Rosolina Mare Club and Bagni dal Moro in the afternoon, exploring the southern, more secluded parts of this resort. \n\nPark near Luna Park Piazzale Europa for a festive evening, enjoying the amusement rides and joyful atmosphere before heading home."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist Rosolina Mare auch bei Regen komfortabel zu erkunden. Morgens fahren wir entspannt zu den Strandparkplätzen, während die Scheibenwischer den Rhythmus vorgeben. Mittags beobachten wir das Meer direkt aus dem warmen Fahrzeug. Am Nachmittag erkunden wir die südlichen Ortsteile, ohne nass zu werden. Abends parken wir nahe der Piazza und genießen die beleuchtete Szenerie.",
+            "hu": "Autóval Rosolina Mare esőben is kényelmesen felfedezhető. Reggel nyugodtan hajtunk a parti parkolókba, miközben az ablaktörlők adják a ritmust. Délben közvetlenül a meleg járműből figyeljük a hullámzó tengert. Délután a déli városrészeket fedezzük fel anélkül, hogy megáznánk. Este a főtér közelében parkolunk, és élvezzük a kivilágított várost a szélvédő mögül.",
+            "ro": "Cu mașina, Rosolina Mare este confortabil de explorat chiar și pe ploaie. Dimineața conducem relaxat spre parcările de pe plajă. La prânz observăm marea direct din vehiculul cald. După-amiaza explorăm zonele de sud ale orașului fără a ne uda. Seara parcăm aproape de piață și ne bucurăm de peisajul iluminat prin parbrizul mașinii.",
+            "en": "By car, Rosolina Mare is comfortable to explore even in the rain. In the morning, we drive leisurely to the beach parking lots. At noon, we watch the sea directly from the warm vehicle. In the afternoon, we explore the southern parts of the town without getting wet. In the evening, we park near the square and enjoy the illuminated scenery through the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Club Rosapineta Lido",
+                "hu": "Club Rosapineta Strand",
+                "ro": "Club Rosapineta Lido",
+                "en": "Club Rosapineta Lido"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahen Parkplätze, um den Weg im Regen so kurz wie möglich zu halten. Achten Sie auf Pfützen, die die Tiefe von Schlaglöchern verbergen können.",
+                "hu": "Használja a közeli parkolókat, hogy az esőben megtett gyalogút a lehető legrövidebb legyen. Ügyeljen a tócsákra, amik elrejthetik a kátyúk mélységét.",
+                "ro": "Folosiți parcările apropiate pentru ca drumul pe jos în ploaie să fie cât mai scurt. Atenție la bălți, care pot ascunde adâncimea gropilor din asfalt.",
+                "en": "Use the nearby parking spots to keep your walk in the rain as short as possible. Watch out for puddles that might hide the true depth of potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Tizè Beach",
+                "hu": "Tizè Strand",
+                "ro": "Plaja Tizè",
+                "en": "Tizè Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blickrichtung zum Meer, um das Panorama trocken genießen zu können. Schalten Sie bei starkem Regen das Abblendlicht für bessere Sichtbarkeit ein.",
+                "hu": "Parkoljon a tenger felé fordulva, hogy szárazon élvezhesse a panorámát a kocsiból. Erős esőben kapcsolja be a tompított fényszórót a jobb láthatóságért.",
+                "ro": "Parcați cu fața spre mare pentru a vă bucura de panoramă la uscat. În caz de ploaie puternică, aprindeți faza scurtă pentru o vizibilitate mai bună.",
+                "en": "Park facing the sea to enjoy the panoramic view while staying dry. In heavy rain, turn on your low-beam headlights for better visibility to others."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera 9",
+                "hu": "9-es szabadstrand",
+                "ro": "Plaja publică 9",
+                "en": "Free Beach 9"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Parkflächen können bei Regen weich und matschig werden. Parken Sie vorsichtshalber auf den befestigten Rändern der Zufahrtsstraße.",
+                "hu": "A nem aszfaltozott parkolóhelyek esőben felpuhulhatnak és sárossá válhatnak. A biztonság kedvéért parkoljon a bevezető út szilárdabb szélén.",
+                "ro": "Locurile de parcare neasfaltate se pot înmuia și pot deveni noroioase pe ploaie. Parcați pe marginile consolidate ale drumului de acces.",
+                "en": "The unpaved parking areas can become soft and muddy when it rains. To be safe, park on the firmer edges of the paved access road instead."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Rosolina Mare Club",
+                "hu": "Rosolina Mare Club Üdülőfalu",
+                "ro": "Satul de vacanță Rosolina Mare Club",
+                "en": "Villaggio Rosolina Mare Club"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die schmalen Wege, da Fußgänger mit Schirmen weniger sehen. Nutzen Sie die Klimaanlage, um das Beschlagen der Scheiben zu verhindern.",
+                "hu": "Hajtson lassan a szűk utakon, mert az ernyős gyalogosok látótere korlátozottabb. Használja a klímát a szélvédő párásodásának megelőzésére.",
+                "ro": "Conduceți încet pe drumurile înguste, deoarece pietonii cu umbrele văd mai puțin. Folosiți aerul condiționat pentru a preveni aburirea geamurilor.",
+                "en": "Drive slowly through narrow paths, as pedestrians with umbrellas have limited visibility. Use the A/C to prevent the windshield from fogging up."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni dal Moro",
+                "hu": "Bagni dal Moro",
+                "ro": "Bagni dal Moro",
+                "en": "Bagni dal Moro"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen kurzen Fotostopp aus dem Fenster heraus. Achten Sie beim Aussteigen auf rutschigen Boden durch nasses Laub und Sand.",
+                "hu": "Ideális hely egy gyors fotómegállóra közvetlenül az autó ablakából. Kiszálláskor ügyeljen a nedves levelek és homok miatti csúszós talajra.",
+                "ro": "Un loc ideal pentru o scurtă oprire foto direct de la fereastra mașinii. La coborâre, atenție la solul alunecos din cauza frunzelor ude și a nisipului.",
+                "en": "An ideal spot for a quick photo stop directly from your car window. Be careful when getting out, as wet leaves and sand can make the ground slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park Piazzale Europa",
+                "hu": "Luna Park Piazzale Europa",
+                "ro": "Luna Park Piazzale Europa",
+                "en": "Luna Park Piazzale Europa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter Straßenlaternen für mehr Sicherheit beim nächtlichen Aussteigen. Genießen Sie den Blick auf den verregneten Platz aus dem warmen Auto.",
+                "hu": "Parkoljon utcai lámpák közelében a biztonságos esti kiszállás érdekében. Élvezze az esős főtér látványát a fűtött autó kényelméből.",
+                "ro": "Parcați lângă stâlpii de iluminat pentru siguranță la coborârea pe timp de noapte. Bucurați-vă de vederea pieței plouate din mașina caldă.",
+                "en": "Park near street lamps for better safety when getting out of the car at night. Enjoy the view of the rainy square from the warmth of your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Rosolina Mare im Winter mit dem Auto ist eine entspannte Reise durch eine stille Welt. Morgens genießen wir die freie Fahrt auf den sonst überfüllten Straßen. Mittags parken wir direkt am Meer und lassen uns von der rauen Schönheit der Adria faszinieren. Am Nachmittag fahren wir durch die Pinienwälder, während das Licht golden wird. Abends kehren wir rechtzeitig vor der frühen Dunkelheit zurück.",
+            "hu": "Rosolina Mare télen autóval egy pihentető utazás egy csendes világban. Reggel élvezzük a szabad haladást az egyébként zsúfolt utakon. Délben közvetlenül a tengerparton parkolunk, és a kocsi melegéből csodáljuk az Adria zord szépségét. Délután a fenyveseken keresztül autózunk az aranyló fényekben. Este még a korai sötétedés előtt kényelmesen visszaérünk a szállásunkra.",
+            "ro": "Rosolina Mare iarna cu mașina este o călătorie relaxantă printr-o lume tăcută. Dimineața ne bucurăm de drumul liber pe străzile altfel aglomerate. La prânz parcăm direct pe malul mării și admirăm frumusețea aspră a Adriaticii. După-amiaza conducem prin pădurile de pini în lumina aurie. Seara ne întoarcem confortabil înainte de întunericul ce vine devreme.",
+            "en": "Rosolina Mare in winter by car is a relaxing journey through a silent world. In the morning, we enjoy the open drive on roads that are usually crowded. At noon, we park right by the sea and admire the raw beauty of the Adriatic. In the afternoon, we drive through the pine forests in the golden light. In the evening, we return comfortably before the early darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Club Rosapineta Lido",
+                "hu": "Club Rosapineta Strand",
+                "ro": "Club Rosapineta Lido",
+                "en": "Club Rosapineta Lido"
+              },
+              "tip_5lang": {
+                "de": "Parken ist im Winter meist kostenlos und direkt am Strandzugang möglich. Nutzen Sie die Standheizung, um das Auto während kleiner Spaziergänge warm zu halten.",
+                "hu": "A parkolás télen többnyire ingyenes és közvetlenül a strandbejáratnál lehetséges. Használja az állóhelyzeti fűtést, hogy az autó meleg maradjon.",
+                "ro": "Parcarea este iarna în mare parte gratuită și posibilă direct la intrarea pe plajă. Folosiți încălzirea auxiliară pentru a menține mașina caldă.",
+                "en": "Parking is usually free in winter and available right at the beach entrance. Use the auxiliary heater to keep the car warm during short strolls."
+              }
+            },
+            {
+              "name": {
+                "de": "Tizè Beach",
+                "hu": "Tizè Strand",
+                "ro": "Plaja Tizè",
+                "en": "Tizè Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Horizont ohne sommerliche Sonnenschirme. Achten Sie auf eventuelle Straßenglätte bei Temperaturen um den Gefrierpunkt.",
+                "hu": "Élvezze a tágas kilátást a horizontra a nyári napernyők látványa nélkül. Ügyeljen az esetleges jegesedésre az utakon, ha a hőmérséklet fagypont körüli.",
+                "ro": "Bucurați-vă de vederea largă spre orizont fără umbrelele de vară. Atenție la eventualul polei pe drumuri dacă temperaturile sunt aproape de îngheț.",
+                "en": "Enjoy the vast view of the horizon without the summer umbrellas blocking it. Watch out for potential icy patches if temperatures drop near freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera 9",
+                "hu": "9-es szabadstrand",
+                "ro": "Plaja publică 9",
+                "en": "Free Beach 9"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den Winterhimmel bei Sonnenuntergang aus dem Auto zu fotografieren. Die Zufahrt ist im Winter problemlos und ohne Staus möglich.",
+                "hu": "Tökéletes hely a téli naplemente fotózásához közvetlenül az autóból. A behajtás télen problémamentes és forgalmi dugóktól mentes ezen a szakaszon.",
+                "ro": "Un loc perfect pentru a fotografia cerul de iarnă la apus direct din mașină. Accesul este iarna fără probleme și fără blocaje în trafic.",
+                "en": "A perfect spot for photographing the winter sky at sunset directly from the car. Access in winter is easy and completely free of any traffic jams."
+              }
+            },
+            {
+              "name": {
+                "de": "Villaggio Rosolina Mare Club",
+                "hu": "Rosolina Mare Club Üdülőfalu",
+                "ro": "Satul de vacanță Rosolina Mare Club",
+                "en": "Villaggio Rosolina Mare Club"
+              },
+              "tip_5lang": {
+                "de": "Die verlassene Ferienanlage wirkt im Winter fast surreal und friedlich. Prüfen Sie Ihren Reifendruck, da dieser bei Kälte oft deutlich absinken kann.",
+                "hu": "Az elhagyatott üdülőfalu télen szinte szürreális és békés látványt nyújt. Ellenőrizze a guminyomást, mert a hidegben az értékek jelentősen csökkenhetnek.",
+                "ro": "Satul de vacanță pustiu pare aproape ireal și liniștit pe timp de iarnă. Verificați presiunea în pneuri, deoarece aceasta poate scădea la frig.",
+                "en": "The deserted holiday village looks almost surreal and peaceful in winter. Check your tire pressure, as it can drop significantly in cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni dal Moro",
+                "hu": "Bagni dal Moro",
+                "ro": "Bagni dal Moro",
+                "en": "Bagni dal Moro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefstehende Wintersonne für stimmungsvolle Aufnahmen der Küste. Ein warmes Getränk im Becherhalter macht die Fahrt noch gemütlicher.",
+                "hu": "Használja ki az alacsony téli napállást a partvidék hangulatos fotózásához. Egy meleg ital a pohártartóban még kényelmesebbé teszi a téli autózást.",
+                "ro": "Profități de soarele jos de iarnă pentru fotografii atmosferice ale coastei. O băutură caldă în suportul de pahare face plimbarea și mai plăcută.",
+                "en": "Take advantage of the low winter sun for atmospheric photos of the coast. A warm drink in the cup holder makes the winter drive even cozier."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park Piazzale Europa",
+                "hu": "Luna Park Piazzale Europa",
+                "ro": "Luna Park Piazzale Europa",
+                "en": "Luna Park Piazzale Europa"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie, dass es bereits um 17:00 Uhr dunkel wird; schalten Sie das Licht ein. Der Platz ist im Winter leicht zu befahren und bietet viel Raum.",
+                "hu": "Vegye figyelembe, hogy már 17:00 órakor sötétedik, kapcsolja be a világítást. A tér télen könnyen megközelíthető és rengeteg szabad helyet kínál.",
+                "ro": "Rețineți că se întunecă deja la ora 17:00; aprindeți farurile din timp. Piața este iarna ușor de parcurs și oferă mult spațiu liber.",
+                "en": "Note that it gets dark by 17:00, so be sure to turn on your headlights. The square is easy to navigate in winter and offers plenty of space."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Hallsands kísérteties romjainál, érezve a tenger nyers erejét.\nDélben húzódjon be a The London Inn melegébe egy klasszikus kocsmai ebédre és tengeri történetekre.\nDélután túrázzon le a Great Mattiscombe Sand és a Harris' Beach drámai partjaihoz az érintetlen pihenésért.\nFejezze be a napot a Start Point Lighthouse ikonikus világítótornyánál, ahogy a naplemente megvilágítja a sziklákat.",
         "ro": "Începeți dimineața explorând ruinele obsedante din Hallsands, simțind puterea brută a mării.\nLa prânz, retrageți-vă în căldura hanului The London Inn pentru un prânz clasic și povești despre patrimoniul maritim.\nDupă-amiaza, coborâți spre plajele dramatice Great Mattiscombe Sand și Harris' Beach pentru o relaxare nealterată.\nÎncheiați ziua privindu-vă soarele apunând în spatele farului emblematic Start Point, luminând stâncile.",
         "en": "Start your morning exploring the haunting, historic ruins of Hallsands, feeling the raw power of the sea.\nBy midday, retreat into the warmth of The London Inn for a classic pub lunch and tales of maritime heritage.\nIn the afternoon, hike down to the dramatic shores of Great Mattiscombe Sand and Harris' Beach for unspoiled relaxation.\nEnd the day watching the sun dip behind the iconic Start Point Lighthouse, illuminating the wild coastal cliffs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem nebligen Spaziergang zu den Ruinen von Hallsands, wo der Regen die tragische Geschichte des Dorfes unterstreicht. Mittags bietet das London Inn einen gemütlichen Rückzugsort vor den Elementen an der Küste. Am Nachmittag erleben Sie die raue Schönheit der Strände unter grauem Himmel. Den Abschluss bildet der Leuchtturm, dessen Licht mutig durch den Küstenregen schneidet.",
+            "hu": "A reggel ködös sétával indul Hallsands romjaihoz, ahol az eső még hangsúlyosabbá teszi az elmosott falu tragikus történetét. Délben a London Inn nyújt biztos menedéket a part menti vihar elől. Délután a strandok vadregényes, szürke arcukat mutatják a látogatóknak. Az este a világítótoronynál zárul, melynek fénye elszántan vág át a sűrű parti permeten.",
+            "ro": "Dimineața începe cu o plimbare cețoasă spre ruinele din Hallsands, unde ploaia subliniază istoria tragică a satului spălat de valuri. La prânz, London Inn oferă un refugiu primitor împotriva elementelor de pe coastă. După-amiaza, plajele își arată frumusețea sălbatică sub cerul gri. Seara se încheie la far, a cărui lumină străpunge cu hotărâre ploaia de coastă.",
+            "en": "The morning begins with a misty walk to the ruins of Hallsands, where the rain emphasizes the tragic history of the washed-away village. At noon, The London Inn provides a cozy refuge from the coastal elements. In the afternoon, the beaches show their wild, grey face to visitors. The evening concludes at the lighthouse, its beam cutting resolutely through the thick coastal spray."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hallsands",
+                "hu": "Hallsands",
+                "ro": "Hallsands",
+                "en": "Hallsands"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Aussichtsplattform, um die vom Meer verschlungenen Ruinen im mystischen Nebel zu sehen. Tragen Sie rutschfeste Stiefel auf den nassen Felsen.",
+                "hu": "Nézze meg a kilátóból a tenger által elnyelt romokat a misztikus ködben. Viseljen csúszásmentes bakancsot a nedves sziklákon.",
+                "ro": "Vizitați platforma de observație pentru a vedea ruinele înghițite de mare în ceața mistică. Purtați bocanci antiderapanți pe stâncile ude.",
+                "en": "Visit the viewing platform to see the ruins swallowed by the sea in the mystical mist. Wear non-slip boots on the wet rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "The London Inn",
+                "hu": "The London Inn",
+                "ro": "The London Inn",
+                "en": "The London Inn"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Atmosphäre in diesem geschützten Hafen, während der Regen gegen die Fenster peitscht. Ein perfekter Ort, um die Regenjacke zu trocknen.",
+                "hu": "Élvezze a történelmi hangulatot ebben a védett kikötőben, miközben az eső veri az ablakokat. Tökéletes hely az esőkabát megszárítására.",
+                "ro": "Bucurați-vă de atmosfera istorică în acest refugiu protejat, în timp ce ploaia bate în geamuri. Un loc perfect pentru a vă usca pelerina.",
+                "en": "Enjoy the historical atmosphere in this sheltered haven while the rain lashes against the windows. A perfect spot to dry your raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Mattiscombe Sand",
+                "hu": "Great Mattiscombe Sand",
+                "ro": "Great Mattiscombe Sand",
+                "en": "Great Mattiscombe Sand"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatische Brandung, die im Regen besonders kraftvoll wirkt. Halten Sie sich von den rutschigen Klippenrändern fern.",
+                "hu": "Figyelje meg a drámai hullámtörést, amely esőben különösen erőteljesnek tűnik. Maradjon távol a csúszós sziklaszélektől.",
+                "ro": "Observați valurile dramatice care par deosebit de puternice în ploaie. Stați departe de marginile alunecoase ale stâncilor.",
+                "en": "Observe the dramatic surf, which looks particularly powerful in the rain. Keep away from the slippery cliff edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Harris' Beach",
+                "hu": "Harris' Beach",
+                "ro": "Plaja Harris",
+                "en": "Harris' Beach"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese abgelegene Bucht, die bei Regen eine melancholische Schönheit ausstrahlt. Nutzen Sie eine wasserdichte Hülle für Ihr Handy.",
+                "hu": "Fedezze fel ezt az eldugott öblöt, amely esőben melankolikus szépséget áraszt. Használjon vízálló tokot a telefonjához.",
+                "ro": "Explorați acest golf izolat care emană o frumusețe melancolică pe ploaie. Folosiți o husă impermeabilă pentru telefon.",
+                "en": "Explore this secluded cove which radiates a melancholy beauty in the rain. Use a waterproof case for your phone."
+              }
+            },
+            {
+              "name": {
+                "de": "Start Point Lighthouse",
+                "hu": "Start Point Lighthouse",
+                "ro": "Farul Start Point",
+                "en": "Start Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Leuchtturm als lebenswichtigen Wegweiser in der grauen Gischt. Seien Sie vorsichtig auf dem exponierten, windigen Pfad.",
+                "hu": "Tapasztalja meg a világítótornyot, mint létfontosságú útmutatót a szürke permetben. Legyen óvatos a kitett, szeles ösvényen.",
+                "ro": "Experimentați farul ca pe un ghid vital în spray-ul cenușiu al mării. Fiți atenți pe poteca expusă și vântoasă.",
+                "en": "Experience the lighthouse as a vital guide in the grey sea spray. Be careful on the exposed, windy path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt Sie zu den stillen Ruinen von Hallsands, wo die Luft frisch und sauber ist. Mittags wärmen Sie sich im London Inn bei einem heißen Getränk am Kamin auf. Am Nachmittag leuchtet die tiefstehende Wintersonne die goldenen Klippen aus. Die Wanderung endet pünktlich zum frühen Sonnenuntergang am spektakulären Start Point Leuchtturm.",
+            "hu": "A tiszta téli reggel Hallsands csendes romjaihoz vezet, ahol a levegő friss és éles. Délben a London Inn kandallója mellett melegedhet fel egy forró itallal. Délután az alacsonyan járó téli nap arany fénybe vonja a sziklákat. A túra pontosan a korai naplemente idején ér véget a látványos Start Point világítótoronynál.",
+            "ro": "O dimineață senină de iarnă vă duce la ruinele tăcute din Hallsands, unde aerul este proaspăt și tăios. La prânz, încălziți-vă lângă șemineul din London Inn cu o băutură fierbinte. După-amiaza, soarele palid de iarnă scaldă stâncile în lumină aurie. Drumeția se încheie exact la apusul timpuriu, la spectaculosul far Start Point.",
+            "en": "A clear winter morning leads you to the quiet ruins of Hallsands, where the air is fresh and crisp. At noon, warm up by the fireplace at The London Inn with a hot drink. In the afternoon, the low winter sun bathes the cliffs in golden light. The hike ends exactly at the early sunset at the spectacular Start Point Lighthouse."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hallsands",
+                "hu": "Hallsands",
+                "ro": "Hallsands",
+                "en": "Hallsands"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen ohne die sommerlichen Menschenmassen in absoluter Stille. Tragen Sie mehrere Schichten Kleidung gegen den kalten Seewind.",
+                "hu": "Tekintse meg a romokat a nyári tömeg nélkül, abszolút csendben. Viseljen réteges öltözetet a hideg tengeri szél ellen.",
+                "ro": "Priviți ruinele fără aglomerația de vară, în liniște deplină. Purtați haine în mai multe straturi împotriva vântului rece al mării.",
+                "en": "View the ruins without the summer crowds in absolute silence. Wear multiple layers of clothing against the cold sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "The London Inn",
+                "hu": "The London Inn",
+                "ro": "The London Inn",
+                "en": "The London Inn"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort eines traditionellen Pubs in der kalten Jahreszeit. Dies ist der ideale Ort für eine ausgiebige Aufwärmpause.",
+                "hu": "Élvezze a hagyományos pub kényelmét a hideg évszakban. Ez az ideális hely egy kiadós bemelegítő szünethez.",
+                "ro": "Bucurați-vă de confortul unui pub tradițional în sezonul rece. Acesta este locul ideal pentru o pauză lungă de încălzire.",
+                "en": "Enjoy the comfort of a traditional pub in the cold season. This is the ideal spot for a hearty warm-up break."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Mattiscombe Sand",
+                "hu": "Great Mattiscombe Sand",
+                "ro": "Great Mattiscombe Sand",
+                "en": "Great Mattiscombe Sand"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie den gefrorenen Sand unter Ihren Füßen bei einem einsamen Strandspaziergang. Denken Sie daran, dass es hier im Winter früh schattig wird.",
+                "hu": "Érezze a fagyos homokot a lába alatt egy magányos tengerparti séta során. Ne feledje, hogy télen itt korán árnyékba borul a part.",
+                "ro": "Simțiți nisipul înghețat sub picioare în timpul unei plimbări solitare pe plajă. Rețineți că iarna umbra cade devreme aici.",
+                "en": "Feel the frozen sand under your feet during a solitary beach walk. Remember that it gets shady here early in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Harris' Beach",
+                "hu": "Harris' Beach",
+                "ro": "Plaja Harris",
+                "en": "Harris' Beach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das tiefe Blau des Wintermeeres in dieser geschützten Ecke. Achten Sie auf den Gezeitenplan, da der Weg bei Flut eng wird.",
+                "hu": "Csodálja meg a téli tenger mélykék színét ebben a védett sarokban. Ügyeljen az árapályra, mert dagálykor az út beszűkül.",
+                "ro": "Admirați albastrul profund al mării de iarnă în acest colț protejat. Atenție la flux, deoarece poteca devine îngustă la reflux.",
+                "en": "Admire the deep blue of the winter sea in this sheltered corner. Pay attention to the tide schedule as the path narrows at high tide."
+              }
+            },
+            {
+              "name": {
+                "de": "Start Point Lighthouse",
+                "hu": "Start Point Lighthouse",
+                "ro": "Farul Start Point",
+                "en": "Start Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das spektakuläre Licht des frühen Sonnenuntergangs gegen 16:30 Uhr ein. Eine Taschenlampe für den Rückweg ist im Winter unerlässlich.",
+                "hu": "Örökítse meg a korai naplemente látványos fényeit 16:30 körül. Egy zseblámpa a visszaúthoz elengedhetetlen télen.",
+                "ro": "Surprindeți lumina spectaculoasă a apusului timpuriu în jurul orei 16:30. O lanternă pentru drumul de întoarcere este esențială iarna.",
+                "en": "Capture the spectacular light of the early sunset around 16:30. A flashlight for the return trip is essential in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpározzon ki korán a Forest and Beach buja ösvényeihez, beszívva a friss parti erdei levegőt.\nDélben a hagyományos Beesands halászfalun keresztül a történelmi St Andrews templomhoz érkezik.\nDélutánját a Hallsands romjai melletti gurulással és a Great Mattiscombe Sand strandján való pihenéssel töltheti.\nAz esti utazás a Start Point világítótoronynál ér véget, panorámás kilátással a La Manche csatornára.",
         "ro": "Mergeți cu bicicleta devreme spre traseele din Forest and Beach, respirând aerul proaspăt de coastă.\nLa prânz, treceți prin satul tradițional Beesands până la istorica Biserică St Andrews.\nPetreceți după-amiaza trecând pe lângă ruinele din Hallsands și odihnindu-vă la Great Mattiscombe Sand.\nCursa de seară se termină triumfător la Farul Start Point, oferind vederi panoramice peste Canalul Mânecii.",
         "en": "Cycle out early to the lush trails of Forest and Beach, breathing in the fresh coastal woodland air.\nMidday brings you through the traditional fishing village of Beesands to the historic St Andrews Church.\nSpend your afternoon rolling past the striking ruins of Hallsands and resting at Great Mattiscombe Sand.\nYour evening ride finishes triumphantly at Start Point Lighthouse, offering panoramic views over the English Channel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem Küstenregen auf zwei Rädern, beginnend im Schutz der Bäume bei Forest and Beach. Die Route führt Sie mittags durch malerische Dörfer wie Beesands, wo die Straßen bei Nässe glänzen. Nachmittags fordern die Küstenwege Ihre Fahrtechnik auf rutschigem Untergrund heraus. Der Tag endet am windgepeitschten Leuchtturm, ein wahres Abenteuer für wetterfeste Radfahrer.",
+            "hu": "Dacoljon a parti esővel két keréken, kezdve a Forest and Beach fáinak oltalmában. Az útvonal délben olyan festői falvakon vezet keresztül, mint Beesands, ahol az utak fénylenek a nedvességtől. Délután a parti ösvények próbára teszik technikai tudását a csúszós talajon. A nap a szélfútta világítótoronynál zárul, igazi kaland az edzett kerékpárosoknak.",
+            "ro": "Înfruntați ploaia de coastă pe două roți, începând sub protecția copacilor de la Forest and Beach. Traseul vă duce la prânz prin sate pitorești precum Beesands, unde străzile lucesc de umezeală. După-amiaza, potecile de coastă vă provoacă tehnica pe teren alunecos. Ziua se încheie la farul bătut de vânt, o adevărată aventură pentru bicicliștii rezistenți.",
+            "en": "Brave the coastal rain on two wheels, starting under the shelter of the trees at Forest and Beach. The route leads you at noon through picturesque villages like Beesands, where the streets glisten with moisture. In the afternoon, the coastal paths challenge your technical skills on slippery ground. The day ends at the wind-swept lighthouse, a true adventure for hardy cyclists."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forest and Beach",
+                "hu": "Forest and Beach",
+                "ro": "Forest and Beach",
+                "en": "Forest and Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Blätterdach für einen trockeneren Start Ihrer Tour. Achten Sie auf nasse Wurzeln auf den Waldwegen, die sehr rutschig sein können.",
+                "hu": "Használja ki a lombok oltalmát a túra szárazabb kezdéséhez. Ügyeljen a nedves gyökerekre az erdei utakon, mert nagyon csúszósak lehetnek.",
+                "ro": "Folosiți coronamentul copacilor pentru un început mai uscat al turului. Atenție la rădăcinile ude de pe potecile forestiere, pot fi foarte alunecoase.",
+                "en": "Use the tree canopy for a drier start to your tour. Watch out for wet roots on the forest paths, which can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Beesands",
+                "hu": "Beesands",
+                "ro": "Beesands",
+                "en": "Beesands"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das aufgewühlte Meer direkt vom befestigten Weg aus. Parken Sie Ihr Rad an einem windgeschützten Ort, damit es nicht umkippt.",
+                "hu": "Figyelje meg a felkorbácsolt tengert közvetlenül a kiépített útról. Parkoljon szélvédett helyen, hogy a kerékpár ne dőljön fel.",
+                "ro": "Observați marea agitată direct de pe drumul amenajat. Parcați bicicleta într-un loc ferit de vânt pentru a nu se răsturna.",
+                "en": "Observe the churned-up sea directly from the paved path. Park your bike in a wind-sheltered spot so it doesn't blow over."
+              }
+            },
+            {
+              "name": {
+                "de": "St Andrews Church",
+                "hu": "St Andrews templom",
+                "ro": "Biserica St Andrews",
+                "en": "St Andrews Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen Moment der Stille und Trockenheit während der Fahrt. Prüfen Sie Ihre Bremsen nach der Fahrt durch den Regen.",
+                "hu": "A templom a csend és a szárazság pillanatát kínálja kerékpározás közben. Ellenőrizze a fékeket az esőben való haladás után.",
+                "ro": "Biserica oferă un moment de liniște și uscăciune în timpul plimbării. Verificați frânele după ce ați condus prin ploaie.",
+                "en": "The church offers a moment of silence and dryness during the ride. Check your brakes after riding through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hallsands",
+                "hu": "Hallsands",
+                "ro": "Hallsands",
+                "en": "Hallsands"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die dramatischen Ruinen, bevor Sie den anspruchsvollen Küstenabschnitt angehen. Ein Schutzblech am Rad ist bei diesem Wetter Gold wert.",
+                "hu": "Tekintse meg a drámai romokat, mielőtt nekivágna a kihívást jelentő parti szakasznak. Sárvédő a biciklin aranyat ér ilyenkor.",
+                "ro": "Vizitați ruinele dramatice înainte de a aborda secțiunea de coastă provocatoare. O apărătoare de noroi la bicicletă valorează aur pe o astfel de vreme.",
+                "en": "View the dramatic ruins before tackling the challenging coastal section. A mudguard on your bike is worth its weight in gold in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "The London Inn",
+                "hu": "The London Inn",
+                "ro": "The London Inn",
+                "en": "The London Inn"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Zwischenstation, um sich aufzuwärmen und neue Energie zu tanken. Nehmen Sie eine warme Mahlzeit zu sich, um die Körpertemperatur zu halten.",
+                "hu": "Tökéletes köztes állomás a bemelegítéshez és az energiaraktárak feltöltéséhez. Egyen egy meleg ételt a testhőmérséklet fenntartásához.",
+                "ro": "Stația intermediară perfectă pentru a vă încălzi și a vă reîncărca bateriile. Mâncați o masă caldă pentru a menține temperatura corpului.",
+                "en": "The perfect intermediate stop to warm up and recharge your batteries. Have a warm meal to maintain your body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Mattiscombe Sand",
+                "hu": "Great Mattiscombe Sand",
+                "ro": "Great Mattiscombe Sand",
+                "en": "Great Mattiscombe Sand"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zum Strand ist bei Regen rutschig, seien Sie vorsichtig mit dem Rad. Tragen Sie eine Brille, um die Augen vor dem Regen und Gischt zu schützen.",
+                "hu": "A leereszkedés a strandra esőben csúszós, legyen óvatos a biciklivel. Viseljen szemüveget, hogy védje szemét az esőtől és a permettől.",
+                "ro": "Coborârea spre plajă este alunecoasă pe ploaie, aveți grijă cu bicicleta. Purtați ochelari pentru a vă proteja ochii de ploaie și spray-ul mării.",
+                "en": "The descent to the beach is slippery in the rain, be careful with your bike. Wear glasses to protect your eyes from rain and spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Start Point Lighthouse",
+                "hu": "Start Point Lighthouse",
+                "ro": "Farul Start Point",
+                "en": "Start Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel Ihrer regnerischen Tour bietet eine beeindruckende Aussicht auf den Ozean. Achten Sie auf eine gute Beleuchtung am Rad für den Rückweg.",
+                "hu": "Esős túrájának célpontja lenyűgöző kilátást nyújt az óceánra. Ügyeljen a jó világításra a kerékpáron a visszaúthoz.",
+                "ro": "Destinația turului tău ploios oferă o vedere impresionantă asupra oceanului. Asigurați-vă că aveți o iluminare bună pe bicicletă pentru drumul de întoarcere.",
+                "en": "The destination of your rainy tour offers an impressive view of the ocean. Ensure good lighting on your bike for the return journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie eine erfrischende Winterfahrt durch die Hügel von South Devon, beginnend im kühlen Waldschatten. Mittags radeln Sie durch die ruhige Winterlandschaft von Beesands, wo die Luft glasklar ist. Der Nachmittag bietet weite Ausblicke über das frostige Meer entlang der Klippenwege. Den krönenden Abschluss bildet der Start Point Leuchtturm in der klaren, kalten Abendluft.",
+            "hu": "Tapasztaljon meg egy frissítő téli tekerést South Devon dombjai között, a hűvös erdei árnyékból indulva. Délben Beesands csendes téli táján kerékpározik keresztül, ahol a levegő kristálytiszta. A délután tágas kilátást nyújt a fagyos tengerre a sziklák menti ösvényekről. A túra csúcspontja a Start Point világítótorony a tiszta, hideg esti levegőben.",
+            "ro": "Experimentați o plimbare răcoritoare de iarnă prin dealurile din South Devon, începând din umbra răcoroasă a pădurii. La prânz, pedalați prin peisajul liniștit de iarnă din Beesands, unde aerul este de cristal. După-amiaza oferă vederi largi asupra mării înghețate de-a lungul potecilor de pe stânci. Punctul culminant este farul Start Point în aerul rece și senin al serii.",
+            "en": "Experience a refreshing winter ride through the hills of South Devon, starting in the cool forest shade. At noon, cycle through the quiet winter landscape of Beesands, where the air is crystal clear. The afternoon offers wide views over the frosty sea along the cliff paths. The highlight is the Start Point Lighthouse in the clear, cold evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forest and Beach",
+                "hu": "Forest and Beach",
+                "ro": "Forest and Beach",
+                "en": "Forest and Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des winterlichen Waldes ohne die Sommergäste. Achten Sie auf überfrierende Nässe in schattigen Waldpassagen.",
+                "hu": "Élvezze a téli erdő nyugalmát a nyári vendégek nélkül. Ügyeljen a lefagyásokra az árnyékos erdei szakaszokon.",
+                "ro": "Bucurați-vă de liniștea pădurii de iarnă fără oaspeții de vară. Atenție la gheața din porțiunile umbrite ale pădurii.",
+                "en": "Enjoy the tranquility of the winter forest without the summer guests. Watch out for freezing moisture in shaded forest passages."
+              }
+            },
+            {
+              "name": {
+                "de": "Beesands",
+                "hu": "Beesands",
+                "ro": "Beesands",
+                "en": "Beesands"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie entlang des Kieselstrandes und genießen Sie die klare Winterluft. Tragen Sie winddichte Handschuhe, um Ihre Hände beim Radfahren warm zu halten.",
+                "hu": "Tekerjen végig a kavicsos strand mentén és élvezze a tiszta téli levegőt. Viseljen szélálló kesztyűt, hogy melegen tartsa a kezét biciklizés közben.",
+                "ro": "Mergeți de-a lungul plajei cu pietriș și bucurați-vă de aerul curat de iarnă. Purtați mănuși rezistente la vânt pentru a vă menține mâinile calde în timp ce mergeți.",
+                "en": "Ride along the pebble beach and enjoy the clear winter air. Wear windproof gloves to keep your hands warm while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "St Andrews Church",
+                "hu": "St Andrews templom",
+                "ro": "Biserica St Andrews",
+                "en": "St Andrews Church"
+              },
+              "tip_5lang": {
+                "de": "Die alte Steinkirche wirkt im winterlichen Licht besonders ehrwürdig. Ein kurzer Halt hilft, die Beine aufzuwärmen und die Kälte abzuschütteln.",
+                "hu": "A régi kőtemplom különösen tiszteletreméltónak tűnik a téli fényben. Egy rövid megálló segít bemelegíteni a lábait és lerázni a hideget.",
+                "ro": "Vechea biserică de piatră pare deosebit de venerabilă în lumina iernii. O scurtă oprire ajută la încălzirea picioarelor și la alungarea frigului.",
+                "en": "The old stone church looks particularly venerable in the winter light. A short stop helps to warm up your legs and shake off the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Hallsands",
+                "hu": "Hallsands",
+                "ro": "Hallsands",
+                "en": "Hallsands"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen, die im Winter eine fast gespenstische Stille ausstrahlen. Schützen Sie Ihr Gesicht mit einem Tuch vor dem kalten Fahrtwind.",
+                "hu": "Fedezze fel a romokat, amelyek télen szinte kísérteties csendet árasztanak. Védje arcát egy sállal a hideg menetszél ellen.",
+                "ro": "Explorați ruinele care emană o liniște aproape fantomatică iarna. Protejați-vă fața cu o eșarfă împotriva vântului rece de mișcare.",
+                "en": "Explore the ruins which radiate an almost ghostly silence in winter. Protect your face with a buff against the cold riding wind."
+              }
+            },
+            {
+              "name": {
+                "de": "The London Inn",
+                "hu": "The London Inn",
+                "ro": "The London Inn",
+                "en": "The London Inn"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die wichtigste Aufwärmstation Ihrer winterlichen Radtour. Trinken Sie einen heißen Tee, um hydriert und warm zu bleiben.",
+                "hu": "Ez a téli kerékpártúra legfontosabb melegedő állomása. Igyon egy forró teát, hogy hidratált és meleg maradjon.",
+                "ro": "Aceasta este cea mai importantă stație de încălzire a turului tău de iarnă cu bicicleta. Beți un ceai fierbinte pentru a rămâne hidratat și cald.",
+                "en": "This is the most important warm-up station of your winter bike tour. Drink a hot tea to stay hydrated and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Mattiscombe Sand",
+                "hu": "Great Mattiscombe Sand",
+                "ro": "Great Mattiscombe Sand",
+                "en": "Great Mattiscombe Sand"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die frostigen Klippen ist die Anstrengung des Anstiegs wert. Fahren Sie vorsichtig, da das Laub auf den Wegen gefroren und rutschig sein kann.",
+                "hu": "A fagyos sziklákra nyíló kilátás megéri az emelkedő fáradalmait. Tekerjen óvatosan, mert az avartakaró az utakon fagyott és csúszós lehet.",
+                "ro": "Vederea stâncilor înghețate merită efortul urcușului. Mergeți cu atenție, deoarece frunzele de pe poteci pot fi înghețate și alunecoase.",
+                "en": "The view of the frosty cliffs is worth the effort of the climb. Ride carefully as leaf litter on the paths can be frozen and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Start Point Lighthouse",
+                "hu": "Start Point Lighthouse",
+                "ro": "Farul Start Point",
+                "en": "Start Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour am Leuchtturm, bevor die Dämmerung gegen 16:45 Uhr einsetzt. Stellen Sie sicher, dass Ihre Fahrradlichter voll aufgeladen sind.",
+                "hu": "Fejezze be túráját a világítótoronynál, mielőtt 16:45 körül beáll az alkonyat. Győződjön meg róla, hogy a kerékpárlámpák teljesen fel vannak töltve.",
+                "ro": "Încheiați-vă turul la far înainte de lăsarea serii, în jurul orei 16:45. Asigurați-vă că luminile bicicletei sunt complet încărcate.",
+                "en": "Finish your tour at the lighthouse before dusk sets in around 16:45. Ensure your bike lights are fully charged."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Vezessen fel a Forest and Beach területére egy reggeli sétára, majd látogassa meg a festői St Andrews templomot.\nDélben élvezze a Beesands nyüzsgő hangulatát, mielőtt felfedezné Hallsands történelmi, elsüllyedt faluját.\nDélutánja egy kiadós megállóval folytatódik a The London Innben, majd napsütéses pillanatokkal a Harris' Beach-en.\nFejezze be autós utazását este a látványos Start Point világítótoronynál, figyelve a pásztázó fénysugarakat.",
         "ro": "Conduceți spre Forest and Beach pentru o plimbare liniștită, apoi vizitați pitoreasca Biserică St Andrews.\nLa prânz, bucurați-vă de atmosfera din Beesands înainte de a explora satul istoric scufundat Hallsands.\nDupă-amiaza se desfășoară cu o oprire copioasă la The London Inn, urmată de momente însorite la plaja Harris.\nÎncheiați excursia seara, la spectaculosul Far Start Point, urmărind fasciculele sale luminoase deasupra mării.",
         "en": "Drive up to Forest and Beach for a tranquil morning walk, then visit the quaint St Andrews Church.\nBy midday, enjoy the vibrant atmosphere at Beesands before exploring the historic, sunken village of Hallsands.\nYour afternoon unfolds with a hearty stop at The London Inn, followed by sunny moments at Harris' Beach.\nConclude your road trip as evening falls at the spectacular Start Point Lighthouse, watching the sweeping beams."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine komfortable Fahrt entlang der Küste von South Devon, während der Regen gegen das Autodach prasselt. Die Tour beginnt im dichten Wald, der bei Regen besonders intensiv duftet. Mittags halten Sie in gemütlichen Küstenorten, wo Sie das stürmische Meer aus der Sicherheit Ihres Wagens beobachten können. Der Tag endet am dramatischen Start Point, einem Highlight selbst bei grauem Wetter.",
+            "hu": "Élvezze a kényelmes utazást South Devon partjai mentén, miközben az eső kopog az autó tetőjén. A túra a sűrű erdőben indul, amely esőben különösen intenzív illatot áraszt. Délben hangulatos parti falvakban állhat meg, ahol az autó biztonságából figyelheti a viharos tengert. A nap a drámai Start Pointnál zárul, amely szürke időben is lenyűgöző.",
+            "ro": "Bucurați-vă de o călătorie confortabilă de-a lungul coastei South Devon, în timp ce ploaia bate pe plafonul mașinii. Turul începe în pădurea densă, care miroase deosebit de intens pe ploaie. La prânz, opriți-vă în sate pitorești de coastă, unde puteți observa marea înfuriată din siguranța mașinii. Ziua se încheie la dramaticul Start Point, spectaculos chiar și pe vreme gri.",
+            "en": "Enjoy a comfortable drive along the South Devon coast while rain patters on the car roof. The tour starts in the dense forest, which smells particularly intense in the rain. At noon, stop in cozy coastal villages where you can watch the stormy sea from the safety of your car. The day ends at the dramatic Start Point, a highlight even in grey weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forest and Beach",
+                "hu": "Forest and Beach",
+                "ro": "Forest and Beach",
+                "en": "Forest and Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frische Waldluft bei einem kurzen Spaziergang vom Parkplatz aus. Parken Sie unter Bäumen, um beim Einsteigen weniger nass zu werden.",
+                "hu": "Tapasztalja meg a friss erdei levegőt egy rövid sétával a parkolóból. Parkoljon a fák alatt, hogy beszálláskor kevésbé ázzon meg.",
+                "ro": "Experimentați aerul curat de pădure cu o scurtă plimbare de la parcare. Parcați sub copaci pentru a vă uda mai puțin la urcarea în mașină.",
+                "en": "Experience the fresh forest air with a short walk from the parking lot. Park under trees to get less wet when getting back into the car."
+              }
+            },
+            {
+              "name": {
+                "de": "St Andrews Church",
+                "hu": "St Andrews templom",
+                "ro": "Biserica St Andrews",
+                "en": "St Andrews Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Sprint zur Kirche lohnt sich für die friedliche Atmosphäre im Inneren. Schütteln Sie den Schirm vor dem Einsteigen gut ab.",
+                "hu": "Egy rövid, esős vágta a templomhoz megéri a benti békés hangulatért. Jól rázza le az esernyőt, mielőtt visszaszállna az autóba.",
+                "ro": "Un scurt sprint prin ploaie până la biserică merită pentru atmosfera liniștită din interior. Scuturați bine umbrela înainte de a urca în mașină.",
+                "en": "A short, rainy sprint to the church is worth it for the peaceful atmosphere inside. Shake your umbrella well before getting back in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Beesands",
+                "hu": "Beesands",
+                "ro": "Beesands",
+                "en": "Beesands"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das wilde Meer direkt von der Promenade aus Ihrem Auto heraus. Nutzen Sie den befestigten Parkplatz, um Schlamm am Wagen zu vermeiden.",
+                "hu": "Figyelje meg a vad tengert közvetlenül a sétányról, az autójából. Használja a kiépített parkolót, hogy elkerülje a sár felverődését az autóra.",
+                "ro": "Observați marea sălbatică direct de pe faleză, din mașină. Folosiți parcarea amenajată pentru a evita noroiul pe mașină.",
+                "en": "Observe the wild sea directly from the promenade from your car. Use the paved parking lot to avoid getting mud on the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Hallsands",
+                "hu": "Hallsands",
+                "ro": "Hallsands",
+                "en": "Hallsands"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Ruinen ist im Regen besonders atmosphärisch. Achten Sie auf die schmalen Küstenstraßen, die bei Nässe rutschig sein können.",
+                "hu": "A romokra nyíló kilátás esőben különleges hangulatú. Ügyeljen a szűk parti utakra, amelyek nedvesen csúszósak lehetnek.",
+                "ro": "Vederea asupra ruinelor este deosebit de atmosferică în ploaie. Atenție la drumurile înguste de coastă, care pot fi alunecoase când sunt ude.",
+                "en": "The view of the ruins is particularly atmospheric in the rain. Watch out for narrow coastal roads, which can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "The London Inn",
+                "hu": "The London Inn",
+                "ro": "The London Inn",
+                "en": "The London Inn"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause mit warmem Essen und Blick auf den Regen. Es gibt Parkmöglichkeiten in unmittelbarer Nähe des Pubs.",
+                "hu": "Ideális hely egy szünetre meleg étellel és az esőre nyíló kilátással. Parkolási lehetőség a pub közvetlen közelében található.",
+                "ro": "Un loc ideal pentru o pauză cu mâncare caldă și vedere la ploaie. Există locuri de parcare în imediata apropiere a pub-ului.",
+                "en": "An ideal spot for a break with warm food and a view of the rain. Parking is available in the immediate vicinity of the pub."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Mattiscombe Sand",
+                "hu": "Great Mattiscombe Sand",
+                "ro": "Great Mattiscombe Sand",
+                "en": "Great Mattiscombe Sand"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen wilden Strand und bewundern Sie die Kraft der Wellen. Halten Sie ein Handtuch im Auto bereit, um sich nach dem Ausflug abzutrocknen.",
+                "hu": "Látogasson el erre a vad strandra, és csodálja meg a hullámok erejét. Tartson egy törölközőt az autóban, hogy megszárítkozzon a kiruccanás után.",
+                "ro": "Vizitați această plajă sălbatică și admirați forța valurilor. Țineți un prosop în mașină pentru a vă usca după excursie.",
+                "en": "Visit this wild beach and admire the power of the waves. Keep a towel in the car to dry off after the excursion."
+              }
+            },
+            {
+              "name": {
+                "de": "Harris' Beach",
+                "hu": "Harris' Beach",
+                "ro": "Plaja Harris",
+                "en": "Harris' Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit dieser Bucht bei regnerischem Wetter. Fahren Sie vorsichtig auf dem unbefestigten Weg zum Strandparkplatz.",
+                "hu": "Élvezze az öböl magányát esős időben. Vezessen óvatosan a kiépítetlen úton a strand parkolójáig.",
+                "ro": "Bucurați-vă de singurătatea acestui golf pe vreme ploioasă. Conduceți cu atenție pe drumul neamenajat spre parcarea plajei.",
+                "en": "Enjoy the solitude of this cove in rainy weather. Drive carefully on the unpaved road to the beach parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Start Point Lighthouse",
+                "hu": "Start Point Lighthouse",
+                "ro": "Farul Start Point",
+                "en": "Start Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt im grauen Regen wie ein einsamer Wächter über dem Ozean. Prüfen Sie Ihre Wischerblätter für eine klare Sicht auf der Rückfahrt.",
+                "hu": "A világítótorony a szürke esőben magányos őrként magasodik az óceán felett. Ellenőrizze az ablaktörlőket a tiszta kilátásért a visszaúton.",
+                "ro": "Farul arată ca un gardian singuratic deasupra oceanului în ploaia gri. Verificați ștergătoarele pentru o vedere clară la întoarcere.",
+                "en": "The lighthouse looks like a lonely guardian over the ocean in the grey rain. Check your wiper blades for a clear view on the return drive."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch die malerischen Landschaften von South Devon bietet klare Fernsichten und frostige Schönheit. Der Tag beginnt mit einer Fahrt durch die kahlen, aber reizvollen Wälder. Mittags erkunden Sie die ruhigen Küstendörfer, während die Wintersonne die See zum Glitzern bringt. Den Abschluss bildet der Leuchtturm am Start Point, wo Sie den frühen Sonnenuntergang im Warmen planen können.",
+            "hu": "Egy téli kocsikázás South Devon festői tájain tiszta távlatokat és fagyos szépséget kínál. A nap a kopár, de bájos erdőkön keresztüli autózással indul. Délben csendes parti falvakat fedezhet fel, miközben a téli nap megcsillantja a tengert. A nap a Start Point világítótoronynál zárul, ahol megtervezheti a korai naplemente megtekintését.",
+            "ro": "O plimbare de iarnă prin peisajele pitorești din South Devon oferă vederi clare și o frumusețe înghețată. Ziua începe cu o călătorie prin pădurile golașe, dar fermecătoare. La prânz, explorați satele liniștite de coastă, în timp ce soarele de iarnă face marea să scliprească. Finalul are loc la farul Start Point, unde puteți planifica vizionarea apusului timpuriu.",
+            "en": "A winter drive through the picturesque landscapes of South Devon offers clear vistas and frosty beauty. The day starts with a drive through the bare but charming forests. At noon, explore the quiet coastal villages while the winter sun makes the sea sparkle. The day ends at the Start Point Lighthouse, where you can plan to watch the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forest and Beach",
+                "hu": "Forest and Beach",
+                "ro": "Forest and Beach",
+                "en": "Forest and Beach"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die filigranen Strukturen der blattlosen Bäume im Winterlicht. Schalten Sie die Sitzheizung ein, um nach dem Spaziergang schnell aufzuwärmen.",
+                "hu": "Csodálja meg a lombtalan fák filigrán szerkezetét a téli fényben. Kapcsolja be az ülésfűtést, hogy séta után gyorsan bemelegedjen.",
+                "ro": "Admirați structurile filigranate ale copacilor fără frunze în lumina iernii. Porniți încălzirea în scaune pentru a vă încălzi rapid după plimbare.",
+                "en": "Admire the delicate structures of the leafless trees in the winter light. Turn on the seat heating to warm up quickly after your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "St Andrews Church",
+                "hu": "St Andrews templom",
+                "ro": "Biserica St Andrews",
+                "en": "St Andrews Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche strahlt im Winter eine besondere Ruhe und Festigkeit aus. Achten Sie auf Glatteis auf den Parkplätzen in der Nähe der Kirche.",
+                "hu": "A templom télen különleges nyugalmat és szilárdságot áraszt. Ügyeljen a jegesedésre a templom közeli parkolókban.",
+                "ro": "Biserica emană o liniște și o soliditate deosebită iarna. Atenție la gheața din parcările din apropierea bisericii.",
+                "en": "The church radiates a special calm and firmness in winter. Watch out for black ice in the parking lots near the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Beesands",
+                "hu": "Beesands",
+                "ro": "Beesands",
+                "en": "Beesands"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den freien Blick auf das Meer ohne die sommerlichen Verkaufsstände. Prüfen Sie den Reifendruck, da dieser bei Kälte oft sinkt.",
+                "hu": "Élvezze a szabad kilátást a tengerre a nyári árusok nélkül. Ellenőrizze a guminyomást, mert hidegben az gyakran lecsökken.",
+                "ro": "Bucurați-vă de vederea liberă spre mare, fără tarabele de vară. Verificați presiunea în anvelope, deoarece aceasta scade adesea la frig.",
+                "en": "Enjoy the clear view of the sea without the summer stalls. Check your tire pressure, as it often drops in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Hallsands",
+                "hu": "Hallsands",
+                "ro": "Hallsands",
+                "en": "Hallsands"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen im Winterlicht bieten ein fantastisches Fotomotiv. Nehmen Sie eine Thermoskanne mit einem heißen Getränk für den Aussichtspunkt mit.",
+                "hu": "A romok a téli fényben fantasztikus fotótémát szolgáltatnak. Vigyen magával egy termoszt forró itallal a kilátóponthoz.",
+                "ro": "Ruinele în lumina iernii oferă un subiect fotografic fantastic. Luați un termos cu o băutură fierbinte pentru punctul de observație.",
+                "en": "The ruins in winter light provide a fantastic photo opportunity. Take a thermos with a hot drink for the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "The London Inn",
+                "hu": "The London Inn",
+                "ro": "The London Inn",
+                "en": "The London Inn"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren des historischen Pubs auf, bevor Sie Ihre Fahrt fortsetzen. Parken Sie so, dass Sie im Winterwind leicht aussteigen können.",
+                "hu": "Melegedjen fel a történelmi pub belsejében, mielőtt folytatná útját. Úgy parkoljon, hogy a téli szélben könnyen ki tudjon szállni.",
+                "ro": "Încălziți-vă în interiorul pub-ului istoric înainte de a vă continua drumul. Parcați astfel încât să puteți coborî ușor în vântul de iarnă.",
+                "en": "Warm up inside the historic pub before continuing your journey. Park so that you can easily get out in the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Mattiscombe Sand",
+                "hu": "Great Mattiscombe Sand",
+                "ro": "Great Mattiscombe Sand",
+                "en": "Great Mattiscombe Sand"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Küstenlandschaft wirkt im Winter fast unberührt. Achten Sie auf die Batterie Ihres Autos, die bei Kälte stärker beansprucht wird.",
+                "hu": "A fagyos parti táj télen szinte érintetlennek tűnik. Ügyeljen az autó akkumulátorára, amelyet a hideg jobban igénybe vesz.",
+                "ro": "Peisajul înghețat de coastă pare aproape neatins iarna. Atenție la bateria mașinii, care este mai solicitată la frig.",
+                "en": "The frosty coastal landscape looks almost untouched in winter. Pay attention to your car's battery, which is more stressed in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Harris' Beach",
+                "hu": "Harris' Beach",
+                "ro": "Plaja Harris",
+                "en": "Harris' Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Stopp an dieser Bucht ist im Winter besonders friedlich. Nehmen Sie eine Wolldecke im Auto mit für gemütliche Pausen.",
+                "hu": "Egy magányos megálló ebben az öbölben télen különösen békés. Vigyen magával gyapjútakarót az autóban a hangulatos szünetekhez.",
+                "ro": "O oprire solitară în acest golf este deosebit de liniștită iarna. Luați o pătură de lână în mașină pentru pauze confortabile.",
+                "en": "A solitary stop at this cove is particularly peaceful in winter. Take a wool blanket in the car for cozy breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Start Point Lighthouse",
+                "hu": "Start Point Lighthouse",
+                "ro": "Farul Start Point",
+                "en": "Start Point Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier gegen 16:30 Uhr ein absolutes Winter-Highlight. Stellen Sie sicher, dass Frostschutzmittel in der Scheibenwaschanlage ist.",
+                "hu": "A naplemente itt 16:30 körül abszolút téli fénypont. Győződjön meg róla, hogy van fagyálló az ablakmosó folyadékban.",
+                "ro": "Apusul de soare aici, în jurul orei 16:30, este un punct culminant al iernii. Asigurați-vă că aveți antigel în lichidul de spălare a parbrizului.",
+                "en": "The sunset here around 16:30 is an absolute winter highlight. Ensure there is antifreeze in the windshield washer fluid."
+              }
+            }
+          ]
+        }
       }
     }
   }

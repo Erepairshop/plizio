@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a tenger alatti kábelek történetének felfedezésével a múzeumban. Délben sétáljon el a Saint Levan templom nyugodt középkori környezetébe. A délután látványos tengerparti tájakat tartogat a Porth Chapel és a Minack Színház körül. Fejezze be a túrát a hullámok felett egyensúlyozó bájos Wendy House megcsodálásával.",
         "ro": "Începeți ziua explorând istoria cablurilor submarine la Muzeul Telegrafului. La prânz, plimbați-vă spre cadrul medieval liniștit al Bisericii Saint Levan. După-amiaza aduce peisaje de coastă spectaculoase la Porth Chapel și vederi dramatice la Teatrul Minack. Încheiați drumeția admirând fermecătoarea Wendy House deasupra valurilor.",
         "en": "Begin your day immersed in the secret history of submarine cables at the Telegraph Museum. By midday, wander up to the tranquil medieval setting of Saint Levan Church. The afternoon brings spectacular coastal scenery at Porth Chapel and dramatic views of the Minack Theatre. Conclude your hike admiring the quirky, precarious Wendy House perched above the crashing waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Telegraph Museum, das hervorragenden Schutz vor den ersten Schauern bietet. Mittags dient die Saint Levan Kirche als trockener Rückzugsort für besinnliche Momente. Am Nachmittag führt der Weg entlang der Küste, wo festes Schuhwerk wegen des schlammigen Bodens unerlässlich ist. Den Abend lassen wir am Minack Theatre ausklingen, wo der Regen die Granitstufen glänzen lässt.",
+            "hu": "Kezdje a napot a Távíró Múzeumban, amely tökéletes fedezéket nyújt az első záporok elől. Délben a Saint Levan templom szolgál száraz menedékként a csendes percekhez. Délután a tengerparti ösvényeken haladunk, ahol a sár miatt elengedhetetlen a vízálló cipő. Az estét a Minack Színháznál zárjuk, ahol az eső csillogóvá varázsolja a gránitlépcsőket a drámai sziklafalon.",
+            "ro": "Începeți ziua la Muzeul Telegrafului, care oferă o protecție excelentă împotriva primelor averse. La prânz, Biserica Saint Levan servește ca refugiu uscat pentru momente de reflecție. După-amiaza, traseul continuă de-a lungul coastei, unde încălțămintea impermeabilă este esențială din cauza noroiului. Încheiem seara la Teatrul Minack, unde ploaia face treptele de granit să strălucească pe faleză.",
+            "en": "Start your day at the Telegraph Museum, which provides excellent shelter from the early showers. At noon, Saint Levan Church serves as a dry sanctuary for quiet moments. In the afternoon, the path leads along the coast, where waterproof footwear is essential due to muddy trails. End the evening at the Minack Theatre, where the rain makes the granite steps glisten against the dramatic cliffs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthcurno Telegrafenmuseum",
+                "hu": "Porthcurno Távíró Múzeum",
+                "ro": "Muzeul Telegrafului Porthcurno",
+                "en": "Porthcurno Telegraph Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die unterirdischen Tunnel aus dem Zweiten Weltkrieg, die völlig trocken sind und eine faszinierende Geschichte bieten; idealer Ort bei starkem Regen.",
+                "hu": "Fedezze fel a második világháborús föld alatti alagutakat, amelyek teljesen szárazak és lenyűgöző történeteket rejtenek; ideális helyszín szakadó esőben.",
+                "ro": "Explorați tunelurile subterane din al Doilea Război Mondial, care sunt complet uscate și oferă o istorie fascinantă; locul ideal în caz de ploaie abundentă.",
+                "en": "Explore the WWII underground tunnels which are completely dry and offer a fascinating history; it is the perfect spot to spend time during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Levan Kirche",
+                "hu": "Saint Levan Templom",
+                "ro": "Biserica Saint Levan",
+                "en": "Saint Levan Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die mittelalterlichen Holzschnitzereien im Inneren dieser gemütlichen Kirche, während Sie dem Prasseln des Regens auf dem Dach lauschen.",
+                "hu": "Csodálja meg a hangulatos templom középkori fafaragványait belülről, miközben hallgatja az eső kopogását a tetőn; tökéletes száraz pihenőhely.",
+                "ro": "Admirați sculpturile medievale în lemn din interiorul acestei biserici primitoare, în timp ce ascultați ropotul ploii pe acoperiș; popas uscat perfect.",
+                "en": "Admire the medieval wood carvings inside this cozy church while listening to the patter of rain on the roof; it is a perfect peaceful and dry rest stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Porth Chapel",
+                "hu": "Porth Chapel",
+                "ro": "Porth Chapel",
+                "en": "Porth Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten nur wenig Schutz, daher ist ein großer Regenschirm wichtig, um die mystische Atmosphäre der Klippen bei Nebel sicher zu genießen.",
+                "hu": "A romok kevés védelmet nyújtanak, ezért egy nagy esernyő elengedhetetlen, hogy biztonságban élvezhesse a sziklák misztikus, ködös hangulatát.",
+                "ro": "Ruinele oferă puțin adăpost, așa că o umbrelă mare este esențială pentru a vă bucura în siguranță de atmosfera mistică a stâncilor în ceață.",
+                "en": "The ruins offer little shelter, so a large umbrella is essential to safely enjoy the mystical atmosphere of the cliffs during foggy rain spells."
+              }
+            },
+            {
+              "name": {
+                "de": "Minack Theatre",
+                "hu": "Minack Színház",
+                "ro": "Teatrul Minack",
+                "en": "Minack Theatre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das kleine Indoor-Besucherzentrum, um die Geschichte des Theaters im Trockenen zu lernen, bevor Sie kurz die Aussicht auf die stürmische See wagen.",
+                "hu": "Látogasson el a kis fedett látogatóközpontba, hogy szárazon ismerje meg a színház történetét, mielőtt egy pillantást vetne a viharos tengerre.",
+                "ro": "Vizitați micul centru de vizitatori interior pentru a afla istoria teatrului la adăpost, înainte de a admira scurt marea agitată de pe terase.",
+                "en": "Visit the small indoor visitor center to learn the theater's history while dry before braving a quick look at the stormy sea from the terraces."
+              }
+            },
+            {
+              "name": {
+                "de": "Wendy House",
+                "hu": "Wendy House",
+                "ro": "Wendy House",
+                "en": "Wendy House"
+              },
+              "tip_5lang": {
+                "de": "Dieses kleine Gebäude ist privat, bietet aber einen charmanten Anblick im Regen; nutzen Sie die nahegelegenen Hecken als natürlichen Windschutz.",
+                "hu": "Ez a kis épület magántulajdon, de bájos látványt nyújt az esőben; használja a közeli sövényeket természetes szélfogóként a nézelődéshez.",
+                "ro": "Această clădire mică este privată, dar oferă o vedere fermecătoare în ploaie; folosiți gardurile vii din apropiere ca paravan natural împotriva vântului.",
+                "en": "This small building is private but offers a charming sight in the rain; use the nearby hedges as a natural windbreak while observing it."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die raue Schönheit Cornwalls im Winter. Der Morgen beginnt warm im Museum, gefolgt von einem knackigen Spaziergang zur Kirche. Da die Sonne bereits gegen 16:30 Uhr untergeht, nutzen wir das Tageslicht intensiv für die Klippenpfade. Abends sorgt der eisige Wind vom Atlantik für eine dramatische Kulisse, die man am besten gut eingepackt in mehreren Schichten genießt.",
+            "hu": "Tapasztalja meg Cornwall nyers téli szépségét. A reggel melegen indul a múzeumban, amit egy frissítő séta követ a templomhoz. Mivel a nap már 16:30 körül nyugszik, a világos órákat intenzíven a sziklaösvényekre szánjuk. Este az Atlanti-óceán felől érkező jeges szél drámai hátteret biztosít, amit leginkább több rétegnyi ruhába burkolózva élvezhetünk.",
+            "ro": "Experimentați frumusețea crudă a Cornwallului iarna. Dimineața începe la căldură în muzeu, urmată de o plimbare revigorantă spre biserică. Deoarece soarele apune deja în jur de 16:30, folosim orele de lumină intens pentru potecile de pe stânci. Seara, vântul înghețat dinspre Atlantic oferă un cadru dramatic, savurat cel mai bine cu multe straturi de haine.",
+            "en": "Experience the raw winter beauty of Cornwall. The morning starts warmly in the museum, followed by a crisp walk to the church. Since the sun sets around 16:30, we use the daylight hours intensively for the cliff paths. In the evening, the icy wind from the Atlantic provides a dramatic backdrop, best enjoyed while wrapped in multiple warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthcurno Telegrafenmuseum",
+                "hu": "Porthcurno Távíró Múzeum",
+                "ro": "Muzeul Telegrafului Porthcurno",
+                "en": "Porthcurno Telegraph Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Ausstellungsräume, um sich aufzuwärmen, bevor Sie die Küstenwanderung antreten; die interaktiven Displays sind ideal für kalte Vormittage.",
+                "hu": "Használja ki a fűtött kiállítótereket a bemelegítésre a tengerparti túra előtt; az interaktív kijelzők tökéletesek a hideg délelőttökön.",
+                "ro": "Profitați de spațiile expoziționale încălzite pentru a vă încălzi înainte de drumeția pe coastă; afișajele interactive sunt ideale pentru diminețile reci.",
+                "en": "Take advantage of the heated exhibition spaces to warm up before starting your coastal trek; the interactive displays are great for cold mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Levan Kirche",
+                "hu": "Saint Levan Templom",
+                "ro": "Biserica Saint Levan",
+                "en": "Saint Levan Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor dem beißenden Wind; suchen Sie den geschützten Kirchhof auf, um die winterliche Stille und die kargen Bäume zu bewundern.",
+                "hu": "A vastag kőfalak védenek a metsző szél ellen; keresse fel a védett templomkertet, hogy megcsodálja a téli csendet és a kopár fákat.",
+                "ro": "Zidurile groase de piatră protejează împotriva vântului tăios; vizitați curtea bisericii adăpostită pentru a admira liniștea iernii și copacii desfrunziți.",
+                "en": "The thick stone walls protect against the biting wind; visit the sheltered churchyard to admire the winter silence and the stark beauty of the bare trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Porth Chapel",
+                "hu": "Porth Chapel",
+                "ro": "Porth Chapel",
+                "en": "Porth Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Kapelle ist im Winter oft windgepeitscht; tragen Sie eine winddichte Jacke, um die spektakuläre Aussicht auf die schäumende Brandung zu genießen.",
+                "hu": "A kápolnához vezető út télen gyakran szeles; viseljen szélálló kabátot, hogy élvezhesse a tajtékzó hullámok látványát a sziklák tetejéről.",
+                "ro": "Drumul spre capelă este adesea bătut de vânt iarna; purtați o jachetă rezistentă la vânt pentru a savura vederea spectaculoasă a valurilor înspumate.",
+                "en": "The path to the chapel is often windswept in winter; wear a windproof jacket to fully enjoy the spectacular views of the foaming surf below."
+              }
+            },
+            {
+              "name": {
+                "de": "Minack Theatre",
+                "hu": "Minack Színház",
+                "ro": "Teatrul Minack",
+                "en": "Minack Theatre"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:00 Uhr an, um das letzte Tageslicht auf dem Granit zu sehen; die Wintersonne steht tief und erzeugt lange, fotogene Schatten über dem Meer.",
+                "hu": "Érkezzen 16:00 előtt, hogy lássa az utolsó fényeket a grániton; a téli nap alacsonyan jár, és hosszú, fotogén árnyékokat vet a tenger felett.",
+                "ro": "Sosiți înainte de ora 16:00 pentru a vedea ultima lumină a zilei pe granit; soarele de iarnă apune jos, creând umbre lungi și fotogenice peste mare.",
+                "en": "Arrive before 16:00 to catch the last daylight on the granite; the winter sun sits low, creating long, photogenic shadows over the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Wendy House",
+                "hu": "Wendy House",
+                "ro": "Wendy House",
+                "en": "Wendy House"
+              },
+              "tip_5lang": {
+                "de": "In der Dämmerung wirkt das Häuschen wie aus einem Märchen; halten Sie Taschenlampen bereit, da der Rückweg zum Parkplatz im Winter schnell dunkel wird.",
+                "hu": "A szürkületben a házikó olyan, mint egy tündérmese; legyen önnél zseblámpa, mert a parkolóhoz vezető út télen hamar sötétbe borul.",
+                "ro": "În amurg, căsuța pare desprinsă dintr-un basm; aveți lanternele pregătite, deoarece drumul de întoarcere spre parcare se întunecă rapid iarna.",
+                "en": "In the twilight, the cottage looks like something from a fairy tale; have torches ready as the walk back to the car park darkens quickly in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje egy reggeli kerékpározással Porthgwarra gyönyörű öbléhez. Dél felé haladva fedezze fel a történelmi Saint Levan templomot, majd a Telegraf Múzeumot. A délután az ikonikus Minack Színház drámai szikláié. Végül fejezze be kerékpáros kalandját egy lazítással a Pedn Vounder érintetlen homokos tengerpartján.",
         "ro": "Începeți cu o plimbare matinală spre golful frumos din Porthgwarra. La prânz, explorați Biserica Saint Levan înainte de a vă scufunda în expozițiile fascinante de la Muzeul Telegrafului. După-amiaza este rezervată stâncilor Teatrului Minack. În cele din urmă, încheiați aventura pe plaja curată de la Pedn Vounder.",
         "en": "Kick off with a morning pedal to the rugged and beautiful cove of Porthgwarra. As midday approaches, explore the historic Saint Levan Church before delving into the fascinating exhibits at the Telegraph Museum. The afternoon is reserved for the iconic Minack Theatre's dramatic cliffs. Finally, end your cycling adventure by relaxing on the pristine sands of Pedn Vounder beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den engen Gassen Porthcurnos. Wir starten in Porthgwarra, wo der nasse Asphalt rutschig sein kann. Mittags bietet das Museum eine lange, trockene Pause. Die Fahrt zum Minack Theatre wird durch die Gischt und den Regen zu einem echten Abenteuer. Den Abschluss bildet Pedn Vounder, dessen Klippen im Regen besonders imposant wirken.",
+            "hu": "Az esős kerékpározás óvatosságot igényel Porthcurno szűk utcáin. Porthgwarra felől indulunk, ahol a nedves aszfalt csúszós lehet. Délben a múzeum hosszú, száraz pihenőt kínál. A Minack Színház felé vezető út a permettel és az esővel igazi kalanddá válik. A napot Pedn Voundernél zárjuk, melynek sziklái az esőben különösen impozánsak.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile înguste din Porthcurno. Pornim din Porthgwarra, unde asfaltul ud poate fi alunecos. La prânz, muzeul oferă o pauză lungă și uscată. Drumul spre Teatrul Minack devine o adevărată aventură prin ploaie și aerosoli. Încheiem la Pedn Vounder, ale cărei stânci par deosebit de impunătoare pe ploaie.",
+            "en": "Cycling in the rain requires caution on Porthcurno's narrow lanes. We start in Porthgwarra, where the wet asphalt can be slippery. At noon, the museum offers a long, dry break. The ride towards Minack Theatre becomes a true adventure with the sea spray and rain. We finish at Pedn Vounder, whose cliffs look particularly imposing in the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthgwarra",
+                "hu": "Porthgwarra",
+                "ro": "Porthgwarra",
+                "en": "Porthgwarra"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad am Café-Unterstand und schauen Sie sich die berühmte Felshöhle an; Vorsicht beim Gehen auf den nassen, glatten Rampen zum Strand.",
+                "hu": "Parkolja le a bringát a kávézó előtetője alatt, és nézze meg a híres sziklaalagutat; óvatosan járjon a vizes, csúszós rámpákon a strand felé.",
+                "ro": "Parcați bicicleta sub copertina cafenelei și vizitați faimosul tunel în stâncă; atenție la mersul pe rampele umede și alunecoase spre plajă.",
+                "en": "Park your bike under the café's shelter and check out the famous rock tunnel; be careful walking on the wet, slick ramps down to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Levan Kirche",
+                "hu": "Saint Levan Templom",
+                "ro": "Biserica Saint Levan",
+                "en": "Saint Levan Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Vorraum der Kirche, um Ihre Regenkleidung zu ordnen, bevor Sie die friedliche Stille im trockenen Innenraum genießen.",
+                "hu": "Használja a templom fedett előterét az esőruházat rendezésére, mielőtt élvezné a békés csendet a száraz belső térben.",
+                "ro": "Folosiți pridvorul acoperit al bisericii pentru a vă aranja echipamentul de ploaie, înainte de a vă bucura de liniștea din interiorul uscat.",
+                "en": "Use the sheltered church porch to adjust your rain gear before enjoying the peaceful silence inside the dry and welcoming interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthcurno Telegrafenmuseum",
+                "hu": "Porthcurno Távíró Múzeum",
+                "ro": "Muzeul Telegrafului Porthcurno",
+                "en": "Porthcurno Telegraph Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um sich komplett abzutrocknen; nutzen Sie die Schließfächer für Ihre feuchte Ausrüstung, während Sie die Tunnel erkunden.",
+                "hu": "Ideális megálló a teljes megszáradáshoz; használja az értékmegőrzőket a nedves felszerelésnek, amíg felfedezi a föld alatti alagutakat.",
+                "ro": "O oprire ideală pentru a vă usca complet; folosiți dulapurile pentru echipamentul umed în timp ce explorați tunelurile subterane.",
+                "en": "An ideal stop to dry off completely; make use of the lockers for your damp gear while you explore the fascinating underground tunnels."
+              }
+            },
+            {
+              "name": {
+                "de": "Minack Theatre",
+                "hu": "Minack Színház",
+                "ro": "Teatrul Minack",
+                "en": "Minack Theatre"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie bei Regen die steilen Pfade mit dem Rad; stellen Sie es oben sicher ab und nutzen Sie die festen Wege zum Aussichtspunkt.",
+                "hu": "Esőben kerülje a meredek ösvényeket kerékpárral; parkoljon le biztosan fent, és használja a kiépített utakat a kilátópont eléréséhez.",
+                "ro": "Evitați potecile abrupte cu bicicleta pe ploaie; parcați-o în siguranță sus și folosiți drumurile amenajate pentru a ajunge la punctul de belvedere.",
+                "en": "Avoid the steep paths with your bike in the rain; park securely at the top and use the established walkways to reach the lookout point."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedn Vounder",
+                "hu": "Pedn Vounder",
+                "ro": "Pedn Vounder",
+                "en": "Pedn Vounder"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht von oben auf den türkisfarbenen Strand ist auch im Regen magisch; der Abstieg zum Sand ist bei Nässe jedoch extrem gefährlich und nicht ratsam.",
+                "hu": "A kilátás fentről a türkizkék strandra esőben is varázslatos; a homokba való leereszkedés azonban vizes időben rendkívül veszélyes és nem ajánlott.",
+                "ro": "Priveliștea de sus spre plaja turcoaz este magică și pe ploaie; totuși, coborârea spre nisip este extrem de periculoasă pe umiditate și nerecomandată.",
+                "en": "The view from above of the turquoise beach is magical even in the rain; however, the descent to the sand is extremely dangerous when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Cornwall bietet klare Luft und leere Straßen. Wir starten früh in Porthgwarra, um die Sonne zu nutzen. Mittags wärmen wir uns im Museum auf, bevor wir zum Minack Theatre weiterfahren. Da es früh dunkel wird, planen wir unsere Rückkehr für 16:30 Uhr ein. Schichten aus Merinowolle und winddichte Handschuhe sind für diese Tour unverzichtbar.",
+            "hu": "A téli kerékpározás Cornwallban friss levegőt és üres utakat kínál. Korán indulunk Porthgwarra felől, hogy kihasználjuk a napsütést. Délben a múzeumban melegszünk fel, mielőtt a Minack Színház felé vennénk az irányt. Mivel hamar sötétedik, a visszatérést 16:30-ra tervezzük. A merinó gyapjú rétegek és a szélálló kesztyű elengedhetetlenek ehhez a túrához.",
+            "ro": "Ciclismul de iarnă în Cornwall oferă aer curat și drumuri libere. Pornim devreme din Porthgwarra pentru a profita de soare. La prânz ne încălzim în muzeu înainte de a merge spre Teatrul Minack. Deoarece se întunecă devreme, planificăm întoarcerea pentru ora 16:30. Straturile de lână merino și mănușile rezistente la vânt sunt esențiale.",
+            "en": "Winter cycling in Cornwall offers crisp air and empty roads. We start early from Porthgwarra to make the most of the sun. At noon, we warm up in the museum before heading to the Minack Theatre. As it gets dark early, we plan our return for 16:30. Merino wool layers and windproof gloves are indispensable for this ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthgwarra",
+                "hu": "Porthgwarra",
+                "ro": "Porthgwarra",
+                "en": "Porthgwarra"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Bucht wunderschön; trinken Sie einen heißen Tee im Café, um die Körpertemperatur vor der Weiterfahrt stabil zu halten.",
+                "hu": "A téli nap gyönyörűen megvilágítja az öblöt; igyon egy forró teát a kávézóban, hogy testhőmérséklete stabil maradjon a továbbindulás előtt.",
+                "ro": "Soarele de iarnă luminează superb golful; beți un ceai fierbinte la cafenea pentru a vă menține temperatura corpului înainte de a pleca mai departe.",
+                "en": "The winter sun illuminates the cove beautifully; have a hot tea at the café to keep your body temperature stable before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Levan Kirche",
+                "hu": "Saint Levan Templom",
+                "ro": "Biserica Saint Levan",
+                "en": "Saint Levan Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Pause abseits des Windes; bewundern Sie die robuste Architektur, die seit Jahrhunderten den Winterstürmen trotzt.",
+                "hu": "Csendes hely egy rövid pihenőhöz a széltől távol; csodálja meg a robusztus építészetet, amely évszázadok óta dacol a téli viharokkal.",
+                "ro": "Un loc liniștit pentru o scurtă pauză departe de vânt; admirați arhitectura robustă care înfruntă furtunile de iarnă de secole.",
+                "en": "A quiet place for a short break away from the wind; admire the robust architecture that has braved winter storms for centuries."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthcurno Telegrafenmuseum",
+                "hu": "Porthcurno Távíró Múzeum",
+                "ro": "Muzeul Telegrafului Porthcurno",
+                "en": "Porthcurno Telegraph Museum"
+              },
+              "tip_5lang": {
+                "de": "Die beste Gelegenheit, die steifen Finger aufzuwärmen; die Ausstellungen im Inneren sind im Winter ein angenehmer Kontrast zur kalten Meeresbrise.",
+                "hu": "A legjobb alkalom az elgémberedett ujjak felmelegítésére; a benti kiállítások télen kellemes kontrasztot alkotnak a hideg tengeri széllel.",
+                "ro": "Cea mai bună ocazie de a vă încălzi degetele amorțite; expozițiile din interior sunt un contrast plăcut cu briza rece a mării pe timp de iarnă.",
+                "en": "The best opportunity to warm up frozen fingers; the indoor exhibits offer a pleasant contrast to the cold sea breeze during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Minack Theatre",
+                "hu": "Minack Színház",
+                "ro": "Teatrul Minack",
+                "en": "Minack Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die Granitstufen können bei Frost glatt sein; genießen Sie das spektakuläre Panorama des winterlichen Atlantiks mit Vorsicht beim Gehen.",
+                "hu": "A gránitlépcsők fagyban csúszósak lehetnek; élvezze a téli Atlanti-óceán látványos panorámáját, de járjon óvatosan a köveken.",
+                "ro": "Treptele de granit pot fi alunecoase în caz de îngheț; bucurați-vă de panorama spectaculoasă a Atlanticului iarna, dar mergeți cu atenție.",
+                "en": "The granite steps can be slippery in frosty conditions; enjoy the spectacular winter Atlantic panorama but walk carefully on the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedn Vounder",
+                "hu": "Pedn Vounder",
+                "ro": "Pedn Vounder",
+                "en": "Pedn Vounder"
+              },
+              "tip_5lang": {
+                "de": "Schauen Sie sich den Sonnenuntergang von den Klippen aus an, aber machen Sie sich sofort danach auf den Weg, da die Sicht für Radfahrer schnell abnimmt.",
+                "hu": "Nézze meg a naplementét a sziklákról, de utána azonnal induljon vissza, mert a látási viszonyok a bringásoknak gyorsan romlanak.",
+                "ro": "Admirați apusul de pe stânci, dar plecați imediat după aceea, deoarece vizibilitatea pentru bicicliști scade rapid pe măsură ce se înnoptează.",
+                "en": "Watch the sunset from the cliffs but head back immediately after, as visibility for cyclists drops very quickly after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje autós túráját Porthgwarra festői öblében. Délben merüljön el a globális kommunikáció történetében a Múzeumban. Délután csodálja meg a sziklára épült Minack Színház építészetét és a Pedn Vounder trópusi színeit. Fejezze be a napot a Treryn Dinas ősi sziklafalának romjai között.",
         "ro": "Începeți turul cu mașina la pitorescul golf Porthgwarra, renumit pentru tunelurile sale. La prânz, scufundați-vă în istoria la Muzeul Telegrafului. După-amiaza, minunați-vă de arhitectura Teatrului Minack și de nuanțele de la Pedn Vounder. Încheiați-vă ziua explorând vechile ruine de la Treryn Dinas.",
         "en": "Start your driving tour at the picturesque coastal inlet of Porthgwarra, famous for its hidden tunnels. By midday, dive into global communication history at the comprehensive Telegraph Museum. In the afternoon, marvel at the breathtaking architecture of the cliff-side Minack Theatre and the tropical hues of Pedn Vounder. Finish your day exploring the ancient cliffside ruins of Treryn Dinas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Porthcurno auch bei Regen ein Genuss. Wir fahren gemütlich nach Porthgwarra und beobachten die Brandung aus dem trockenen Fahrzeug. Das Museum bietet stundenlange Unterhaltung im Trockenen. Kurze Wege vom Parkplatz ermöglichen den Besuch des Minack Theatre ohne durchnässt zu werden. Den Tag beschließen wir mit einer Fahrt zum Treryn Dinas Aussichtspunkt.",
+            "hu": "Autóval Porthcurno esőben is élvezet. Kényelmesen elgurulunk Porthgwarra felé, és a száraz járműből figyeljük a hullámtörést. A múzeum többórás kikapcsolódást nyújt fedett helyen. A parkolóból nyíló rövid utak lehetővé teszik a Minack Színház meglátogatását anélkül, hogy bőrig áznánk. A napot a Treryn Dinas kilátópont felé vezető autózással zárjuk.",
+            "ro": "Cu mașina, Porthcurno este o plăcere chiar și pe ploaie. Conducem relaxați spre Porthgwarra și observăm valurile din vehiculul uscat. Muzeul oferă ore de divertisment la adăpost. Distanțele scurte de la parcare permit vizitarea Teatrului Minack fără a vă uda leoarcă. Încheiem ziua cu o plimbare spre punctul de belvedere Treryn Dinas.",
+            "en": "By car, Porthcurno is a delight even in the rain. We drive comfortably to Porthgwarra and watch the surf from the dry vehicle. The museum offers hours of entertainment indoors. Short walks from the parking lots allow visiting the Minack Theatre without getting soaked. We conclude the day with a drive towards the Treryn Dinas viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthgwarra",
+                "hu": "Porthgwarra",
+                "ro": "Porthgwarra",
+                "en": "Porthgwarra"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie eine tolle Sicht auf die Bucht; ein kurzer Sprint zum Café bringt Sie ins Trockene für einen Snack mit Meerblick.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik az öbölre; egy rövid sprint a kávézóig, és máris szárazon élvezheti a tengeri panorámát egy süti mellett.",
+                "ro": "Din parcare aveți o vedere excelentă asupra golfului; un scurt sprint până la cafenea vă duce la adăpost pentru o gustare cu vedere la mare.",
+                "en": "There is a great view of the cove directly from the car park; a short sprint to the café gets you indoors for a snack with a sea view."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthcurno Telegrafenmuseum",
+                "hu": "Porthcurno Távíró Múzeum",
+                "ro": "Muzeul Telegrafului Porthcurno",
+                "en": "Porthcurno Telegraph Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt davor; verbringen Sie die regenreichste Zeit des Tages in den faszinierenden unterirdischen Tunneln.",
+                "hu": "Használja a közvetlenül előtte található nagy parkolót; töltse a nap legesősebb részét a lenyűgöző föld alatti alagutak felfedezésével.",
+                "ro": "Folosiți parcarea mare situată chiar în față; petreceți cea mai ploioasă parte a zilei explorând tunelurile subterane fascinante.",
+                "en": "Use the large car park located right in front; spend the rainiest part of the day exploring the fascinating historical underground tunnels."
+              }
+            },
+            {
+              "name": {
+                "de": "Minack Theatre",
+                "hu": "Minack Színház",
+                "ro": "Teatrul Minack",
+                "en": "Minack Theatre"
+              },
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist nur wenige Schritte vom Auto entfernt und bietet einen trockenen Ort, um die Architektur des Freilichttheaters zu bewundern.",
+                "hu": "A látogatóközpont csak pár lépésre van az autótól, és száraz helyet kínál a szabadtéri színház építészetének megcsodálásához az esőben is.",
+                "ro": "Centrul de vizitatori este la doar câțiva pași de mașină și oferă un loc uscat pentru a admira arhitectura teatrului în aer liber pe ploaie.",
+                "en": "The visitor center is just a few steps from the car and offers a dry place to admire the open-air theater's architecture during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedn Vounder",
+                "hu": "Pedn Vounder",
+                "ro": "Pedn Vounder",
+                "en": "Pedn Vounder"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in Treen und genießen Sie den Blick von den Klippen; die Straßen dorthin sind schmal, fahren Sie bei Regen wegen möglicher Aquaplaning-Gefahr vorsichtig.",
+                "hu": "Parkoljon Treenben, és élvezze a sziklák felőli kilátást; az utak keskenyek, esőben vezessen óvatosan a vízátfolyások és a csúszós kanyarok miatt.",
+                "ro": "Parcați în Treen și bucurați-vă de privelistea de pe stânci; drumurile sunt înguste, conduceți cu atenție pe ploaie din cauza riscului de acvaplanare.",
+                "en": "Park in Treen and enjoy the view from the cliffs; the roads are narrow, so drive carefully in the rain due to potential standing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Treryn Dinas",
+                "hu": "Treryn Dinas",
+                "ro": "Treryn Dinas",
+                "en": "Treryn Dinas"
+              },
+              "tip_5lang": {
+                "de": "Diese historische Stätte ist am besten vom Klippenpfad aus zu sehen; bleiben Sie bei starkem Wind und Regen lieber auf den befestigten Wegen oben.",
+                "hu": "Ez a történelmi helyszín a sziklaösvényről látszik a legjobban; erős szélben és esőben maradjon inkább a fenti, szilárd burkolatú utakon.",
+                "ro": "Acest sit istoric se vede cel mai bine de pe poteca de pe coastă; în caz de vânt puternic și ploaie, rămâneți pe drumurile pavate de sus.",
+                "en": "This historic site is best viewed from the cliff path; in strong winds and rain, it is safer to stay on the paved walkways above the cliffs."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Cornwall im Winter mit dem Auto ist komfortabel und warm. Wir starten in Porthgwarra, wo die Winterwellen dramatisch gegen die Felsen schlagen. Mittags bietet das Museum eine angenehme Aufwärmpause. Das Minack Theatre wirkt im tiefstehenden Sonnenlicht des Nachmittags golden. Da es um 16:30 Uhr dunkel wird, beenden wir unsere Tour rechtzeitig bei Treryn Dinas.",
+            "hu": "Télen Cornwall autóval kényelmes és meleg. Porthgwarrában kezdünk, ahol a téli hullámok drámai módon csapkodják a sziklákat. Délben a múzeum kellemes melegedő szünetet biztosít. A Minack Színház aranylón ragyog a délutáni alacsony napsütésben. Mivel 16:30-kor sötétedik, túránkat időben befejezzük Treryn Dinasnál.",
+            "ro": "Cornwall iarna cu mașina este confortabil și cald. Începem în Porthgwarra, unde valurile de iarnă se lovesc dramatic de stânci. La prânz, muzeul oferă o pauză plăcută de încălzire. Teatrul Minack pare auriu în lumina joasă a soarelui de după-amiază. Deoarece se întunecă la 16:30, ne încheiem turul la timp la Treryn Dinas.",
+            "en": "Cornwall in winter by car is comfortable and warm. We start in Porthgwarra, where the winter waves crash dramatically against the rocks. At noon, the museum provides a pleasant warming break. The Minack Theatre looks golden in the low afternoon sunlight. As it gets dark by 16:30, we finish our tour in good time at Treryn Dinas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthgwarra",
+                "hu": "Porthgwarra",
+                "ro": "Porthgwarra",
+                "en": "Porthgwarra"
+              },
+              "tip_5lang": {
+                "de": "Die Winterstürme sind hier spektakulär; bleiben Sie im Auto, um die Gewalt der Natur warm und sicher zu beobachten, bevor Sie kurz zum Strand gehen.",
+                "hu": "A téli viharok itt látványosak; maradjon az autóban, hogy melegben és biztonságban figyelje a természet erejét, mielőtt egy rövid sétát tenne a parton.",
+                "ro": "Furtunile de iarnă sunt spectaculoase aici; rămâneți în mașină pentru a observa forța naturii la căldură, înainte de o scurtă plimbare pe plajă.",
+                "en": "The winter storms are spectacular here; stay in the car to watch the power of nature safely and warmly before taking a quick walk to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthcurno Telegrafenmuseum",
+                "hu": "Porthcurno Távíró Múzeum",
+                "ro": "Muzeul Telegrafului Porthcurno",
+                "en": "Porthcurno Telegraph Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für den kältesten Teil des Tages; die Ausstellungen sind gut beheizt und bieten einen tiefen Einblick in die globale Kommunikation.",
+                "hu": "Tökéletes helyszín a nap leghidegebb részére; a kiállítások jól fűtöttek, és mély betekintést nyújtanak a globális kommunikáció történetébe.",
+                "ro": "Un loc perfect pentru cea mai rece parte a zilei; expozițiile sunt bine încălzite și oferă o perspectivă asupra istoriei comunicațiilor globale.",
+                "en": "A perfect spot for the coldest part of the day; the exhibitions are well-heated and offer a deep dive into the history of global communication."
+              }
+            },
+            {
+              "name": {
+                "de": "Minack Theatre",
+                "hu": "Minack Színház",
+                "ro": "Teatrul Minack",
+                "en": "Minack Theatre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Café für eine heiße Schokolade mit Aussicht; das Winterlicht sorgt für fantastische Fotos ohne die üblichen Touristenmassen.",
+                "hu": "Látogasson el a kávézóba egy forró csokira a kilátás mellé; a téli fények fantasztikus fotókat eredményeznek a szokásos turistaáradat nélkül.",
+                "ro": "Vizitați cafeneaua pentru o ciocolată caldă cu vedere; lumina de iarnă oferă fotografii fantastice fără mulțimile obișnuite de turiști.",
+                "en": "Visit the café for a hot chocolate with a view; the winter light makes for fantastic photos without the usual crowds of summer tourists."
+              }
+            },
+            {
+              "name": {
+                "de": "Pedn Vounder",
+                "hu": "Pedn Vounder",
+                "ro": "Pedn Vounder",
+                "en": "Pedn Vounder"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz in Treen ist es nur ein kurzer Spaziergang zum Aussichtspunkt; genießen Sie die klare Sicht, die man oft nur an kalten Wintertagen hat.",
+                "hu": "A treeni parkolótól csak rövid séta a kilátópont; élvezze a tiszta kilátást, amely gyakran csak a hideg téli napokon adatik meg a látogatóknak.",
+                "ro": "De la parcarea din Treen este doar o scurtă plimbare până la punctul de belvedere; bucurați-vă de vizibilitatea clară specifică zilelor reci de iarnă.",
+                "en": "It is only a short walk from the Treen car park to the viewpoint; enjoy the clear visibility that is often only possible on cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Treryn Dinas",
+                "hu": "Treryn Dinas",
+                "ro": "Treryn Dinas",
+                "en": "Treryn Dinas"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Sonne hinter den Logan Rock Klippen versinkt; machen Sie sich gegen 16:45 Uhr auf den Rückweg, um sicher im Hellen zum Auto zu kommen.",
+                "hu": "Nézze meg, ahogy a nap eltűnik a Logan Rock sziklái mögött; 16:45 körül induljon vissza, hogy biztonságban, még világosban elérje az autóját.",
+                "ro": "Urmăriți apusul soarelui în spatele stâncilor Logan Rock; porniți înapoi în jur de 16:45 pentru a ajunge la mașină în siguranță, pe lumină.",
+                "en": "Watch the sun disappear behind the Logan Rock cliffs; head back around 16:45 to reach your car safely while there is still some lingering light."
+              }
+            }
+          ]
+        }
       }
     }
   }

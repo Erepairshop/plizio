@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a központi történelmi helyszínek felfedezésével, ahol évszázados vallási építészet várja az érdeklődőket.\nDélben sétáljon át a gyönyörű helyi kastélyokhoz, amelyek a francia nemesi történelem hangulatát idézik fel.\nA délután tökéletes a családbarát területeken való pihenésre és a vízparti pillanatok élvezetére a feltöltődéshez.\nZárja a napot kulturális betekintéssel az Yzeurespace központban, ahol helyi művészeti kiállításokat és eseményeket tekinthet meg.",
         "ro": "Începeți dimineața explorând siturile istorice centrale, unde arhitectura religioasă veche de secole vă așteaptă cu brațele deschise.\nLa amiază, faceți o plimbare spre frumoasele castele locale care transmit aerul istoriei nobiliare din această regiune franceză.\nDupă-amiaza este perfectă pentru a petrece timp în zonele prietenoase pentru familii și pentru a vă relaxa lângă zonele de apă răcoroase.\nÎncheiați ziua cu perspective culturale la Yzeurespace, bucurându-vă de evenimente și spectacole artistice locale fascinante.",
         "en": "Start your morning exploring the central historic sites, where centuries-old religious architecture awaits to tell its quiet stories.\nMidday brings you to the beautiful local castles, offering a glimpse into the noble history that shaped this charming French town.\nThe afternoon is perfect for family-friendly areas and relaxing moments near the water to recharge your batteries for the evening.\nConclude your day with cultural insights at Yzeurespace, where you can experience the vibrant local arts scene before heading to dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Kirche Saint-Pierre, ideal bei Regen. Mittags führen befestigte Wege zu den Schlössern von Yzeure, wo die Architektur auch im Grau glänzt. Am Nachmittag bietet der Park trotz Pfützen eine frische Brise, bevor man den Tag im trockenen Kulturzentrum Yzeurespace beendet. Abends sorgen die Lichter der Stadt für eine gemütliche Atmosphäre trotz des Regens.",
+            "hu": "A reggel védett helyen, a Saint-Pierre templomban indul, ami ideális menedék esőben. Délben szilárd burkolatú utak vezetnek a kastélyokhoz, ahol az építészet szürkületben is ragyog. Délután a park friss levegőt kínál a tócsák ellenére, mielőtt a napot a száraz Yzeurespace központban zárnánk. Este a város fényei meghitt hangulatot árasztanak az eső kopogása mellett is.",
+            "ro": "Dimineața începe la adăpost în Biserica Saint-Pierre, ideală pe ploaie. La prânz, potecile pavate duc spre castelele din Yzeure, unde arhitectura strălucește chiar și pe gri. După-amiaza, parcul oferă aer curat în ciuda bălților, înainte de a încheia ziua în centrul cultural uscat Yzeurespace. Seara, luminile orașului creează o atmosferă primitoare în ciuda vremii umede.",
+            "en": "Morning starts sheltered in Saint-Pierre Church, an ideal refuge from the rain. At noon, paved paths lead to the castles of Yzeure, where the architecture shines even under grey skies. Afternoon offers fresh air in the park despite the puddles, before ending the day in the dry Yzeurespace center. Evening city lights provide a cozy atmosphere despite the steady drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Kirche",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die romanische Architektur im trockenen Innenraum; das Portal lässt sich am besten unter einem Schirm betrachten, um die feinen Details zu erkennen.",
+                "hu": "Csodálja meg a román stílusú építészetet a száraz belső térben; a kőportált érdemes esernyő alól alaposan megfigyelni, elkerülve az ázást a részletek megtekintése közben.",
+                "ro": "Admirați arhitectura romanică în interiorul uscat; portalul de piatră este cel mai bine văzut sub o umbrelă pentru a observa detaliile fine fără a vă uda.",
+                "en": "Admire the Romanesque architecture in the dry interior; the stone portal is best viewed under an umbrella to appreciate the fine details without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bellevue",
+                "hu": "Bellevue-kastély",
+                "ro": "Castelul Bellevue",
+                "en": "Château de Bellevue"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die elegante Fassade vom befestigten Weg aus; tragen Sie wasserfeste Schuhe, da die Parkwege nach Regenfällen im Bourbonnais matschig sein können.",
+                "hu": "Csodálja meg az elegáns homlokzatot a burkolt útról; viseljen vízálló cipőt, mert a parki ösvények sárassá válhatnak a heves francia esőzések után.",
+                "ro": "Admirați fațada elegantă de pe poteca pavată; purtați încălțăminte impermeabilă, deoarece potecile parcului pot deveni noroioase după ploile din Bourbonnais.",
+                "en": "Admire the elegant facade from the paved path; wear waterproof footwear as the park trails can get muddy after heavy French showers in the Bourbonnais region."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pouzeux",
+                "hu": "Pouzeux-kastély",
+                "ro": "Castelul Pouzeux",
+                "en": "Château de Pouzeux"
+              },
+              "tip_5lang": {
+                "de": "Dieses Schloss bietet einen majestätischen Anblick im Regen; halten Sie sich an die asphaltierten Zufahrten, um trotz der Nässe einen guten Blick auf die Türme zu haben.",
+                "hu": "Ez a kastély fenséges látványt nyújt az esőben; maradjon az aszfaltozott bejáratoknál, hogy a nedvesség ellenére is jó rálátása legyen a tornyokra.",
+                "ro": "Acest castel oferă o vedere maiestuoasă în ploaie; rămâneți pe căile de acces asfaltate pentru a avea o vedere bună asupra turnurilor în ciuda umezelii.",
+                "en": "This castle offers a majestic sight in the rain; stick to the paved access roads to have a good view of the towers despite the wet weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Panloup",
+                "hu": "Panloup-kastély",
+                "ro": "Castelul Panloup",
+                "en": "Panloup Castle"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern wirken bei bewölktem Himmel besonders authentisch; nutzen Sie den überdachten Eingangsbereich für ein kurzes Foto ohne nass zu werden.",
+                "hu": "A történelmi falak különösen hitelesnek tűnnek borús égbolt alatt; használja a fedett bejárati részt egy gyors fotóhoz anélkül, hogy elázna az esőben.",
+                "ro": "Zidurile istorice par deosebit de autentice sub cerul înnorat; folosiți zona de intrare acoperită pentru o fotografie rapidă fără a vă uda în ploaie.",
+                "en": "The historical walls look particularly authentic under cloudy skies; use the covered entrance area for a quick photo without getting wet in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Planschbecken Pataugeoire",
+                "hu": "Pataugeoire pancsoló",
+                "ro": "Piscina Pataugeoire",
+                "en": "Pataugeoire Pool"
+              },
+              "tip_5lang": {
+                "de": "Der Poolbereich ist bei Regen verlassen, was eine ruhige Atmosphäre schafft; ein kurzer Stopp unter den Bäumen schützt Sie vor den schlimmsten Tropfen.",
+                "hu": "A medence környéke esőben elhagyatott, ami nyugodt hangulatot áraszt; egy rövid megálló a fák alatt megvédi Önt a legdurvább esőcseppektől.",
+                "ro": "Zona piscinei este pustie în ploaie, creând o atmosferă liniștită; o oprire scurtă sub copaci vă va proteja de cei mai răi stropi de ploaie.",
+                "en": "The pool area is deserted in the rain, creating a quiet atmosphere; a short stop under the trees will protect you from the worst raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Yzeurespace",
+                "hu": "Yzeurespace",
+                "ro": "Yzeurespace",
+                "en": "Yzeurespace"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss für einen Regentag im trockenen Innenraum; informieren Sie sich vorab über aktuelle Ausstellungen, um die Zeit optimal im Warmen zu nutzen.",
+                "hu": "Tökéletes zárása egy esős napnak a száraz belső térben; tájékozódjon előre az aktuális kiállításokról, hogy az időt a melegben tölthesse el.",
+                "ro": "Finalul perfect pentru o zi ploioasă în interiorul uscat; informați-vă în prealabil despre expozițiile actuale pentru a petrece timpul la căldură.",
+                "en": "The perfect end to a rainy day in the dry interior; find out about current exhibitions in advance to spend your time wisely in the warmth."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kalte Morgen beginnt in der beheizten Kirche Saint-Pierre. Mittags wärmt ein zügiger Spaziergang zwischen den Schlössern auf, während die Wintersonne tief steht. Am Nachmittag erreichen wir den Park vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Den Abend verbringen wir gemütlich im Yzeurespace bei einer kulturellen Veranstaltung im Warmen.",
+            "hu": "A hideg reggel a fűtött Saint-Pierre templomban indul. Délben egy élénk séta a kastélyok között segít felmelegedni, miközben a téli nap alacsonyan jár. Délután elérjük a parkot a korai, 17:00 körüli naplemente előtt. Az estét kellemesen töltjük az Yzeurespace falai között egy beltéri kulturális eseményen.",
+            "ro": "Dimineața rece începe în Biserica Saint-Pierre încălzită. La prânz, o plimbare vioaie între castele ajută la încălzire, în timp ce soarele de iarnă stă jos. După-amiaza ajungem în parc înainte de apusul timpuriu de la ora 17:00. Seara o petrecem confortabil în interiorul Yzeurespace la un eveniment cultural.",
+            "en": "The cold morning begins in the heated Saint-Pierre Church. At noon, a brisk walk between the castles helps warm you up while the winter sun stays low. In the afternoon, we reach the park before the early sunset around 17:00. The evening is spent comfortably inside Yzeurespace at a warm cultural event."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Kirche",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, bringen Sie also eine warme Jacke für die Innenbesichtigung mit; die Ruhe im Winter lädt zur inneren Einkehr ein.",
+                "hu": "A vastag falak tárolják a hideget, ezért vigyen meleg kabátot a belső látogatáshoz; a téli csend tökéletes alkalmat ad az elmélyülésre és pihenésre.",
+                "ro": "Zidurile groase rețin frigul, așa că aduceți o jachetă groasă pentru vizita interioară; liniștea iernii invită la meditație și relaxare profundă.",
+                "en": "The thick walls retain the cold, so bring a warm jacket for the interior visit; the winter silence invites meditation and deep relaxation."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bellevue",
+                "hu": "Bellevue-kastély",
+                "ro": "Castelul Bellevue",
+                "en": "Château de Bellevue"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht mit Reif auf den Wiesen besonders zauberhaft aus; nutzen Sie das klare Winterlicht für Fotos von der eleganten Architektur ohne Laub.",
+                "hu": "A kastély a déres rétekkel különösen varázslatos; használja ki a tiszta téli fényt az elegáns építészet fotózásához, amit most nem takarnak a levelek.",
+                "ro": "Castelul arată deosebit de magic cu chiciură pe pajiști; profitați de lumina clară de iarnă pentru a fotografia arhitectura elegantă fără frunziș.",
+                "en": "The castle looks particularly magical with frost on the meadows; take advantage of the clear winter light to photograph the elegant architecture without foliage."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pouzeux",
+                "hu": "Pouzeux-kastély",
+                "ro": "Castelul Pouzeux",
+                "en": "Château de Pouzeux"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben im Winter den Blick auf versteckte Details des Schlosses frei; halten Sie Ausschau nach den steinernen Ornamenten an den Türmen.",
+                "hu": "A csupasz fák télen szabaddá teszik a kilátást a kastély rejtett részleteire; keresse a tornyokon lévő kőornamentumokat, melyek ilyenkor jobban látszanak.",
+                "ro": "Copacii golași dezvăluie iarna detalii ascunse ale castelului; căutați ornamentele de piatră de pe turnuri, care sunt mai vizibile acum.",
+                "en": "The bare trees reveal hidden details of the castle in winter; look for the stone ornaments on the towers, which are more visible during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Panloup",
+                "hu": "Panloup-kastély",
+                "ro": "Castelul Panloup",
+                "en": "Panloup Castle"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wirkt das Backsteinmauerwerk besonders warm und einladend; ein schneller Rundgang wärmt auf, bevor das Licht am späten Nachmittag schwindet.",
+                "hu": "Télen a téglafalak különösen melegnek és hívogatónak tűnnek; egy gyors körbejárás segít felmelegedni, mielőtt a fény késő délután elhalványulna.",
+                "ro": "Iarna, zidăria de cărămidă pare deosebit de caldă și primitoare; un tur rapid vă va încălzi înainte ca lumina să dispară la sfârșitul după-amiezii.",
+                "en": "In winter, the brickwork looks particularly warm and inviting; a quick walk around will warm you up before the light fades in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Planschbecken Pataugeoire",
+                "hu": "Pataugeoire pancsoló",
+                "ro": "Piscina Pataugeoire",
+                "en": "Pataugeoire Pool"
+              },
+              "tip_5lang": {
+                "de": "Der leere Pool ist ein skurriler Winteranblick; beeilen Sie sich, um das Areal vor dem Sonnenuntergang um 17:00 Uhr bei Restlicht zu sehen.",
+                "hu": "Az üres medence különös látvány télen; siessen, hogy még a 17:00 órai naplemente előtti maradék fényben láthassa a területet.",
+                "ro": "Piscina goală este o vedere bizară de iarnă; grăbiți-vă să vedeți zona în lumina rămasă înainte de apusul soarelui de la ora 17:00.",
+                "en": "The empty pool is a quirky winter sight; hurry to see the area in the remaining light before the sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Yzeurespace",
+                "hu": "Yzeurespace",
+                "ro": "Yzeurespace",
+                "en": "Yzeurespace"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren nach Ihrem Winterspaziergang; die modernen Räumlichkeiten bieten Schutz vor dem frostigen Abendwind.",
+                "hu": "Élvezze a kellemes benti meleget a téli séta után; a modern helyiségek tökéletes menedéket nyújtanak a fagyos esti szél elől.",
+                "ro": "Bucurați-vă de căldura plăcută din interior după plimbarea de iarnă; spațiile moderne oferă adăpost împotriva vântului înghețat de seară.",
+                "en": "Enjoy the pleasant warmth inside after your winter walk; the modern premises offer shelter from the frosty evening wind."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Reggel tekerjen ki a történelmi városközpontból a gyönyörű kastélypark felé, és élvezze a friss levegőt és a nagyszerű látványt.\nDélre fedezze fel a város kulturális szívét és a múlt dicsőségéről árulkodó történelmi gyöngyszemeket a környéken.\nTöltse a délutánt egy kényelmes kerékpározással a festői tó felé, távol a város zajától és nyüzsgésétől a természet lágy ölén.\nZárja a napot az egykori strandon, ahol kinyújtóztathatja a lábát, és hagyhatja, hogy a nyugodt természet varázsa átjárja a lelkét.",
         "ro": "Pedalați dimineața din centrul istoric al orașului spre frumosul parc al castelului, bucurându-vă de aerul proaspăt de dimineață.\nPână la amiază, explorați inima culturală a orașului și bijuteriile istorice care vorbesc despre un trecut fascinant și bogat.\nPetreceți după-amiaza cu o plimbare confortabilă spre lacul pitoresc, departe de agitația vieții urbane și în inima naturii.\nÎncheiați-vă ziua pe vechea plajă, unde vă puteți întinde picioarele și lăsa farmecul liniștit al naturii să vă relaxeze complet.",
         "en": "Pedal out in the morning from the historic city center towards the beautiful castle park, enjoying the fresh morning breeze.\nBy midday, explore the cultural heart of the town and heritage spots that speak volumes about its fascinating and rich past.\nSpend the afternoon cruising towards the scenic lake on your bike, leaving the urban hustle behind for a peaceful nature retreat.\nWind down your evening at the old beach area, where you can stretch your legs and let the tranquil natural charm completely relax you."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt an der Kirche, wo man kurz unterstehen kann. Mittags führt die Tour durch Alleen zum Schloss du Parc, wobei Schutzbleche essenziell sind. Nachmittags geht es zügig zum Ozières-See, wo der Asphalt auch bei Nässe guten Halt bietet. Der Abend endet am alten Strand, wobei man auf rutschiges Laub auf den Radwegen achten sollte.",
+            "hu": "Az esős kerékpáros nap a templomnál indul, ahol rövid menedéket találhat. Délben a túra fasorokon át vezet a Parc-kastélyhoz; a sárvédő elengedhetetlen. Délután gyorsan tekerünk az Ozières-tóhoz, ahol az aszfalt nedvesen is jól tapad. Az este a régi strandnál zárul; figyeljen a csúszós levelekre a kerékpárutakon.",
+            "ro": "O zi ploioasă cu bicicleta începe la biserică, unde vă puteți adăposti scurt. La prânz, turul duce prin alei spre Castelul du Parc; apărătorile de noroi sunt esențiale. După-amiaza pedalăm rapid spre Lacul Ozières, unde asfaltul are aderență bună chiar și umed. Seara se încheie la vechea plajă; atenție la frunzele alunecoase pe pistele de biciclete.",
+            "en": "A rainy cycling day starts at the church, where you can take brief shelter. At noon, the tour leads through avenues to Château du Parc; mudguards are essential. In the afternoon, we cycle quickly to Ozières Lake, where the asphalt provides good grip even when wet. The evening ends at the old beach; watch out for slippery leaves on the cycle paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Kirche",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab und nutzen Sie die Kirche als trockene Pause, um die historischen Glasfenster in Ruhe zu betrachten.",
+                "hu": "Állítsa le kerékpárját egy védett helyen, és használja a templomot száraz pihenőként, hogy nyugodtan megcsodálhassa a történelmi üvegablakokat.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți biserica ca o pauză uscată pentru a admira ferestrele istorice din sticlă în liniște.",
+                "en": "Park your bike in a protected spot and use the church as a dry break to admire the historical stained glass windows in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss du Parc",
+                "hu": "Parc-kastély",
+                "ro": "Castelul du Parc",
+                "en": "Château du Parc"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Schloss kann bei Regen rutschig sein; bremsen Sie frühzeitig vor Kurven und genießen Sie den Blick auf die nassen Schlossmauern.",
+                "hu": "A kastélyhoz vezető út esőben csúszós lehet; fékezzen időben a kanyarok előtt, és élvezze a kilátást a nedves, csillogó kastélyfalakra.",
+                "ro": "Accesul la castel poate fi alunecos în ploaie; frânați din timp înainte de curbe și bucurați-vă de vederea zidurilor umede ale castelului.",
+                "en": "The access road to the castle can be slippery in the rain; brake early before curves and enjoy the view of the wet, shimmering castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Yzeurespace",
+                "hu": "Yzeurespace",
+                "ro": "Yzeurespace",
+                "en": "Yzeurespace"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer am Eingang; drinnen können Sie Ihre Regenbekleidung kurz ablegen und die kulturelle Vielfalt genießen.",
+                "hu": "Használja a bejáratnál lévő fedett kerékpártárolót; odabent leveheti az esőruházatot, és élvezheti a kulturális sokszínűséget a szárazban.",
+                "ro": "Folosiți suportul de biciclete acoperit de la intrare; în interior vă puteți lăsa hainele de ploaie și vă puteți bucura de diversitatea culturală la uscat.",
+                "en": "Use the covered bike rack at the entrance; inside you can take off your rain gear and enjoy the cultural diversity in the dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Panloup",
+                "hu": "Panloup-kastély",
+                "ro": "Castelul Panloup",
+                "en": "Panloup Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Backsteinfassade leuchtet bei Regen besonders intensiv; bleiben Sie auf den Hauptwegen, um das Spritzwasser von den Reifen zu minimieren.",
+                "hu": "A téglahomlokzat esőben különösen intenzíven ragyog; maradjon a főutakon, hogy minimalizálja a kerekekről felverődő vizet tekerés közben.",
+                "ro": "Fațada de cărămidă strălucește deosebit de intens în ploaie; rămâneți pe drumurile principale pentru a minimiza stropirea cu apă de la roți.",
+                "en": "The brick facade shines particularly intensely in the rain; stay on the main paths to minimize water spray from the tires while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Ozières-See",
+                "hu": "Ozières-tó",
+                "ro": "Lacul Ozières",
+                "en": "Ozières Lake"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt im Regen mystisch, aber die Radwege können schlammig sein; fahren Sie vorsichtig und achten Sie auf Pfützen am Wegrand.",
+                "hu": "A tó misztikus az esőben, de a kerékpárutak sárosak lehetnek; hajtson óvatosan, és figyeljen az út szélén lévő mélyebb tócsákra.",
+                "ro": "Lacul pare mistic în ploaie, dar pistele de biciclete pot fi noroioase; conduceți cu atenție și fiți atenți la bălțile de pe marginea drumului.",
+                "en": "The lake looks mystical in the rain, but the cycle paths can be muddy; ride carefully and watch out for deeper puddles at the edge of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Strand von Ozières",
+                "hu": "Régi Ozières strand",
+                "ro": "Vechea plajă Ozières",
+                "en": "Ancienne plage des Ozières"
+              },
+              "tip_5lang": {
+                "de": "Ein melancholischer Ort bei grauem Wetter; ein kurzes Foto vom Steg aus lohnt sich, bevor Sie den Rückweg im Schutz Ihrer Regenjacke antreten.",
+                "hu": "Melankolikus hely szürke időben; egy gyors fotó a mólóról megéri, mielőtt elindulna visszafelé az esőkabátja védelmében.",
+                "ro": "Un loc melancolic pe vreme gri; o fotografie rapidă de pe debarcader merită, înainte de a porni înapoi sub protecția jachetei de ploaie.",
+                "en": "A melancholic place in grey weather; a quick photo from the pier is worth it before you head back under the protection of your rain jacket."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen auf dem Rad beginnt an der Kirche Saint-Pierre. Mittags wärmt die Bewegung auf der Fahrt zum Schloss du Parc auf, wobei Handschuhe unerlässlich sind. Der Nachmittag am Ozières-See bietet klare Winterluft, doch der Sonnenuntergang gegen 17:00 Uhr mahnt zum Aufbruch. Abends kehrt man zügig zurück, bevor der Wind zu eisig wird.",
+            "hu": "A fagyos reggel a kerékpáron a Saint-Pierre templomnál indul. Délben a Parc-kastély felé tartó tekerés segít felmelegedni; a kesztyű használata kötelező. Délután az Ozières-tónál tiszta téli levegő vár, de a 17:00 körüli naplemente távozásra int. Este gyorsan térjen vissza, mielőtt a szél túl jegessé válna.",
+            "ro": "O dimineață geroasă pe bicicletă începe la Biserica Saint-Pierre. La prânz, mișcarea spre Castelul du Parc vă ajută să vă încălziți; mănușile sunt indispensabile. După-amiaza la Lacul Ozières oferă aer curat de iarnă, dar apusul de la ora 17:00 îndeamnă la plecare. Seara reveniți rapid înainte ca vântul să devină prea tăios.",
+            "en": "A frosty morning on the bike starts at Saint-Pierre Church. At noon, the ride to Château du Parc warms you up; gloves are essential. The afternoon at Ozières Lake offers clear winter air, but the sunset around 17:00 signals it's time to head back. In the evening, return quickly before the wind becomes too icy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Kirche",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere, um sich kurz aufzuwärmen; die dicken Steinmauern schützen vor dem beißenden Winterwind draußen auf dem Rad.",
+                "hu": "Látogasson el a belső térbe, hogy kicsit felmelegedjen; a vastag kőfalak megvédik a kinti metsző téli széltől a kerékpározás közben.",
+                "ro": "Vizitați interiorul pentru a vă încălzi puțin; zidurile groase de piatră vă protejează de vântul tăios de iarnă de afară de pe bicicletă.",
+                "en": "Visit the interior to warm up a bit; the thick stone walls protect you from the biting winter wind outside on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss du Parc",
+                "hu": "Parc-kastély",
+                "ro": "Castelul du Parc",
+                "en": "Château du Parc"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände wirkt im Winterlicht besonders weitläufig; achten Sie auf Raureif auf den Wegen, der bei Kurvenfahrten tückisch sein kann.",
+                "hu": "A kastélykert a téli fényben különösen tágasnak tűnik; ügyeljen a zúzmarára az utakon, ami trükkös lehet a kanyarodáskor.",
+                "ro": "Domeniul castelului pare deosebit de spațios în lumina iernii; atenție la chiciura de pe drumuri, care poate fi înșelătoare la viraje.",
+                "en": "The castle grounds look particularly spacious in the winter light; watch out for hoarfrost on the paths, which can be tricky when cornering."
+              }
+            },
+            {
+              "name": {
+                "de": "Yzeurespace",
+                "hu": "Yzeurespace",
+                "ro": "Yzeurespace",
+                "en": "Yzeurespace"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Hände aufzuwärmen und eine kulturelle Pause einzulegen; nutzen Sie den Windschutz des Gebäudes beim Abstellen Ihres Rades.",
+                "hu": "Ideális hely a kezek felmelegítésére és egy kulturális pihenőre; használja ki az épület szélárnyékát a kerékpár leállításakor.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile și pentru o pauză culturală; profitați de adăpostul clădirii împotriva vântului când parcați bicicleta.",
+                "en": "An ideal place to warm up your hands and take a cultural break; use the building's wind protection when parking your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Panloup",
+                "hu": "Panloup-kastély",
+                "ro": "Castelul Panloup",
+                "en": "Panloup Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Backsteinmauer bietet einen schönen Kontrast zum winterlichen Grau; machen Sie ein schnelles Foto, bevor die Sonne am Horizont verschwindet.",
+                "hu": "A téglafalak szép kontrasztot alkotnak a téli szürkeséggel; készítsen egy gyors fotót, mielőtt a nap eltűnik a horizonton.",
+                "ro": "Zidurile de cărămidă oferă un contrast frumos cu griul de iarnă; faceți o fotografie rapidă înainte ca soarele să dispară la orizont.",
+                "en": "The brick walls offer a nice contrast to the winter grey; take a quick photo before the sun disappears over the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Ozières-See",
+                "hu": "Ozières-tó",
+                "ro": "Lacul Ozières",
+                "en": "Ozières Lake"
+              },
+              "tip_5lang": {
+                "de": "Die Seeoberfläche kann im Winter dampfen; bleiben Sie auf den befestigten Uferwegen, da unbefestigte Pfade oft gefroren und uneben sind.",
+                "hu": "A tó felszíne télen párállhat; maradjon a burkolt parti utakon, mivel a földeutak gyakran fagyottak és egyenetlenek.",
+                "ro": "Suprafața lacului poate aburi iarna; rămâneți pe drumurile pavate de pe mal, deoarece potecile neamenajate sunt adesea înghețate și denivelate.",
+                "en": "The lake surface can steam in winter; stay on the paved shore paths as unpaved trails are often frozen and uneven."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Strand von Ozières",
+                "hu": "Régi Ozières strand",
+                "ro": "Vechea plajă Ozières",
+                "en": "Ancienne plage des Ozières"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort, perfekt für ein stimmungsvolles Winterbild; beeilen Sie sich, da das Licht nach dem Sonnenuntergang um 17:00 Uhr schnell schwindet.",
+                "hu": "Magányos hely, tökéletes egy hangulatos téli képhez; siessen, mert a fény a 17:00 órai naplemente után gyorsan elhalványul.",
+                "ro": "Un loc solitar, perfect pentru o imagine de iarnă plină de atmosferă; grăbiți-vă, deoarece lumina scade rapid după apusul de la ora 17:00.",
+                "en": "A solitary place, perfect for an atmospheric winter picture; hurry as the light fades quickly after the sunset at 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje az utat kora reggel a város északi peremén, hogy a tömeg előtt élvezhesse a lenyűgöző kastély látványát a reggeli fényben.\nTöltse a delet azzal, hogy kényelmesen navigál a központi történelmi birtokok és templomok között, amelyek meghatározzák a központ arculatát.\nA délután egy csodálatos utazássá válik a régió legkiválóbb építészeti kincsei között, amelyek mind könnyen elérhetők autóval a nap folyamán.\nZárja az autós utazást esténként a legtisztább kikapcsolódással, és sétáljon a tó békés partján, miközben a lemenő nap sugarai megvilágítják a vizet.",
         "ro": "Conduceți devreme spre marginea nordică pentru a surprinde lumina dimineții pe cel mai impresionant castel din Yzeure, departe de mulțimi.\nPetreceți amiaza navigând confortabil între moșiile și bisericile istorice centrale care conturează inima și spiritul acestui oraș fermecător.\nDupă-amiaza devine o călătorie minunată prin cele mai fine comori arhitecturale ale regiunii, toate ușor accesibile cu mașina personală.\nÎncheiați-vă călătoria cu mașina seara, relaxându-vă complet pe malul pașnic al lacului, în timp ce priviți cum soarele apune liniștit peste ape.",
         "en": "Drive to the northern edge early to catch the morning light on the most impressive castle of Yzeure before the typical crowds arrive.\nSpend midday comfortably navigating between the central historical estates and churches that define the traditional heart of this charming town.\nThe afternoon transforms into a wonderful journey through the region's finest architectural treasures, all easily accessible from the comfort of your car.\nEnd your road trip in the evening with pure relaxation, strolling along the peaceful shores of the lake as the sun begins to set over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto ist ideal, um die Schlösser von Yzeure zu erkunden. Der Morgen führt zum Schloss Plaisance, wobei man trocken von Parkplatz zu Parkplatz kommt. Mittags steht die Kirche Saint-Pierre auf dem Programm. Am Nachmittag geht es zu den Schlössern Bellevue und Pouzeux, bevor der Tag am Ozières-See endet, wo man den Regen gemütlich vom Auto aus beobachten kann.",
+            "hu": "Egy esős nap az autóban ideális Yzeure kastélyainak felfedezéséhez. A reggel a Plaisance-kastélyhoz vezet, miközben szárazon juthat el parkolótól parkolóig. Délben a Saint-Pierre templom szerepel a programban. Délután a Bellevue és Pouzeux kastélyok következnek, mielőtt a nap az Ozières-tónál zárulna, ahol az autóból nézheti az esőt.",
+            "ro": "O zi ploioasă în mașină este ideală pentru a explora castelele din Yzeure. Dimineața duce la Castelul Plaisance, ajungând uscat de la parcare la parcare. La prânz, Biserica Saint-Pierre este în program. După-amiaza mergem la castelele Bellevue și Pouzeux, înainte ca ziua să se încheie la Lacul Ozières, unde puteți privi ploaia din mașină.",
+            "en": "A rainy day in the car is ideal for exploring the castles of Yzeure. The morning leads to Château de Plaisance, getting you from parking to parking while staying dry. At noon, Saint-Pierre Church is on the agenda. In the afternoon, visit Bellevue and Pouzeux castles, before the day ends at Ozières Lake, where you can watch the rain from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Plaisance",
+                "hu": "Plaisance-kastély",
+                "ro": "Castelul Plaisance",
+                "en": "Château de Plaisance"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz; die Architektur wirkt bei Regen besonders dramatisch und lässt sich gut von einem Unterstand aus fotografieren.",
+                "hu": "Használja a közeli parkolót; az építészet esőben különösen drámainak tűnik, és jól fotózható egy közeli fedett helyről.",
+                "ro": "Folosiți parcarea din apropiere; arhitectura pare deosebit de dramatică în ploaie și poate fi fotografiată bine dintr-un loc acoperit.",
+                "en": "Use the nearby parking lot; the architecture looks particularly dramatic in the rain and can be photographed well from a sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss du Parc",
+                "hu": "Parc-kastély",
+                "ro": "Castelul du Parc",
+                "en": "Château du Parc"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Allee; der Blick auf das von Regen benetzte Schloss ist ein wunderbares Motiv für Hobbyfotografen.",
+                "hu": "Parkoljon közvetlenül a fasornál; az esőtől áztatott kastély látványa csodálatos téma az amatőr fotósok számára.",
+                "ro": "Parcați direct lângă alee; vederea castelului udat de ploaie este un motiv minunat pentru fotografii amatori.",
+                "en": "Park directly by the avenue; the view of the rain-soaked castle is a wonderful subject for amateur photographers."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Kirche",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Starkregen; der Innenraum bietet Schutz und kulturelle Tiefe, während draußen der Himmel grau bleibt.",
+                "hu": "Ideális megálló heves esőzéskor; a belső tér védelmet és kulturális mélységet nyújt, miközben kint szürke marad az égbolt.",
+                "ro": "O oprire ideală în timpul ploilor abundente; interiorul oferă protecție și profunzime culturală, în timp ce afară cerul rămâne gri.",
+                "en": "An ideal stop during heavy rain; the interior offers protection and cultural depth while the sky remains grey outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Panloup",
+                "hu": "Panloup-kastély",
+                "ro": "Castelul Panloup",
+                "en": "Panloup Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Eingangsbereich vor; die Farben des Backsteins kommen bei feuchter Witterung besonders gut zur Geltung.",
+                "hu": "Hajtson egészen a bejáratig; a tégla színei nedves időben különösen jól érvényesülnek, így érdemes egy gyors fotót készíteni.",
+                "ro": "Conduceți până la zona de intrare; culorile cărămizii ies în evidență deosebit de bine pe vreme umedă, meritând o fotografie rapidă.",
+                "en": "Drive right up to the entrance area; the brick colors stand out particularly well in wet weather, making it worth a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bellevue",
+                "hu": "Bellevue-kastély",
+                "ro": "Castelul Bellevue",
+                "en": "Château de Bellevue"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen guten Blick; nutzen Sie den Moment zwischen zwei Regengüssen für einen kurzen Gang um das Gebäude.",
+                "hu": "A parkolóból jó rálátása van az épületre; használja ki a két zápor közötti pillanatot egy rövid sétára a kastély körül.",
+                "ro": "Aveți o vedere bună din parcare; profitați de momentul dintre două averse pentru o scurtă plimbare în jurul clădirii.",
+                "en": "You have a good view from the parking lot; take advantage of the moment between two showers for a short walk around the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pouzeux",
+                "hu": "Pouzeux-kastély",
+                "ro": "Castelul Pouzeux",
+                "en": "Château de Pouzeux"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter den Bäumen für zusätzlichen Schutz; das Schloss wirkt bei Regenwetter wie aus einem historischen Roman.",
+                "hu": "Parkoljon a fák alatt további védelemért; a kastély az esős időben olyan hatást kelt, mintha egy történelmi regényből lépett volna elő.",
+                "ro": "Parcați sub copaci pentru protecție suplimentară; castelul pare desprins dintr-un roman istoric pe vreme ploioasă.",
+                "en": "Park under the trees for extra protection; the castle in rainy weather feels like it stepped out of a historical novel."
+              }
+            },
+            {
+              "name": {
+                "de": "Ozières-See",
+                "hu": "Ozières-tó",
+                "ro": "Lacul Ozières",
+                "en": "Ozières Lake"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im warmen Auto und genießen Sie den Blick auf den verregneten See; der Parkplatz bietet eine tolle Panorama-Aussicht.",
+                "hu": "Maradjon a meleg autóban, és élvezze a kilátást az eső áztatta tóra; a parkolóból nagyszerű panoráma nyílik a környékre.",
+                "ro": "Rămâneți în mașina caldă și bucurați-vă de vederea lacului ploios; parcarea oferă o vedere panoramică excelentă asupra zonei.",
+                "en": "Stay in your warm car and enjoy the view of the rainy lake; the parking lot offers a great panoramic view of the area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto bietet Komfort beim Besuch der Sehenswürdigkeiten von Yzeure. Morgens erkunden wir die frostigen Schlösser im Norden. Mittags wärmt der Besuch der Kirche Saint-Pierre auf. Am Nachmittag erreichen wir die südlichen Schlösser, bevor wir pünktlich zum Sonnenuntergang um 17:00 Uhr am Ozières-See sind. Der Abend endet im warmen Stadtzentrum.",
+            "hu": "Egy téli nap az autóban kényelmet nyújt Yzeure látnivalóinak felkeresésekor. Reggel az északi, zúzmarás kastélyokat fedezzük fel. Délben a Saint-Pierre templom látogatása melegít fel. Délután elérjük a déli kastélyokat, mielőtt pontosan a 17:00 órai naplementére az Ozières-tóhoz érnénk. Az este a meleg városközpontban zárul.",
+            "ro": "O zi de iarnă în mașină oferă confort în vizitarea obiectivelor turistice din Yzeure. Dimineața explorăm castelele înghețate din nord. La prânz, vizita la Biserica Saint-Pierre vă încălzește. După-amiaza ajungem la castelele din sud, înainte de a fi la Lacul Ozières exact pentru apusul de la ora 17:00. Seara se încheie în centrul cald al orașului.",
+            "en": "A winter day in the car offers comfort while visiting the sights of Yzeure. In the morning, we explore the frosty northern castles. At noon, a visit to Saint-Pierre Church warms you up. In the afternoon, we reach the southern castles before arriving at Ozières Lake just in time for the 17:00 sunset. The evening ends in the warm city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Plaisance",
+                "hu": "Plaisance-kastély",
+                "ro": "Castelul Plaisance",
+                "en": "Château de Plaisance"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft macht die Details der Fassade besonders scharf; nutzen Sie die Sitzheizung Ihres Autos für eine warme Pause nach dem Ausstieg.",
+                "hu": "A tiszta téli levegő különösen élessé teszi a homlokzat részleteit; használja autója ülésfűtését egy meleg pihenőhöz a kiszállás után.",
+                "ro": "Aerul clar de iarnă face detaliile fațadei deosebit de clare; folosiți încălzirea în scaune a mașinii pentru o pauză caldă după coborâre.",
+                "en": "The clear winter air makes the facade details particularly sharp; use your car's seat heating for a warm break after getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss du Parc",
+                "hu": "Parc-kastély",
+                "ro": "Castelul du Parc",
+                "en": "Château du Parc"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Sichtachsen im Park besonders weit; genießen Sie den Blick auf das Schloss vom Komfort Ihres Autos aus.",
+                "hu": "Télen a park látványvonalai különösen tágasak; élvezze a kastélyra nyíló kilátást autója kényelméből, elkerülve a hideg szelet.",
+                "ro": "Iarna, axele vizuale din parc sunt deosebit de largi; bucurați-vă de vederea castelului din confortul mașinii dumneavoastră.",
+                "en": "In winter, the sightlines in the park are particularly wide; enjoy the view of the castle from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Kirche",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort für eine spirituelle Pause im Warmen; bewundern Sie die Kapitelle, während draußen der Winterfrost die Stadt im Griff hat.",
+                "hu": "Csodálatos hely egy lelki pihenőhöz a melegben; csodálja meg az oszlopfőket, miközben kint a téli fagy uralja a várost.",
+                "ro": "Un loc minunat pentru o pauză spirituală la căldură; admirați capitelurile în timp ce afară gerul iernii stăpânește orașul.",
+                "en": "A wonderful place for a spiritual break in the warmth; admire the capitals while winter frost grips the city outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Panloup",
+                "hu": "Panloup-kastély",
+                "ro": "Castelul Panloup",
+                "en": "Panloup Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Backsteine leuchten im tiefstehenden Winterlicht rötlich auf; parken Sie so, dass Sie die Fassade direkt im Blick haben.",
+                "hu": "A téglák vörösesen világítanak az alacsonyan járó téli napfényben; parkoljon úgy, hogy közvetlen rálátása legyen a homlokzatra az autóból.",
+                "ro": "Cărămizile strălucesc roșiatic în lumina joasă a soarelui de iarnă; parcați astfel încât să aveți fațada direct în vedere din mașină.",
+                "en": "The bricks glow reddish in the low winter sun; park so that you have a direct view of the facade from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bellevue",
+                "hu": "Bellevue-kastély",
+                "ro": "Castelul Bellevue",
+                "en": "Château de Bellevue"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der verschneiten oder gefrorenen Gärten lohnt sich; kehren Sie schnell ins warme Auto zurück.",
+                "hu": "Érdemes egy rövid megállót tenni a havas vagy fagyos kertek fotózásához; térjen vissza gyorsan a meleg autóba a kiszállás után.",
+                "ro": "Merită o scurtă oprire pentru o fotografie a grădinilor înzăpezite sau înghețate; reveniți rapid în mașina caldă după coborâre.",
+                "en": "A short stop for a photo of the snowy or frozen gardens is worth it; return quickly to your warm car after getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pouzeux",
+                "hu": "Pouzeux-kastély",
+                "ro": "Castelul Pouzeux",
+                "en": "Château de Pouzeux"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im klaren Winterhimmel besonders präzise; nutzen Sie die Ruhe der Nebensaison für ungestörte Ansichten vom Fenster aus.",
+                "hu": "Az építészet különösen precíznek tűnik a tiszta téli égbolt alatt; használja ki a holtszezon nyugalmát a zavartalan kilátásért az ablakból.",
+                "ro": "Arhitectura pare deosebit de precisă sub cerul clar de iarnă; profitați de liniștea din extrasezon pentru vederi neperturbate de la fereastră.",
+                "en": "The architecture looks particularly precise under the clear winter sky; take advantage of the off-season quiet for undisturbed views from the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Ozières-See",
+                "hu": "Ozières-tó",
+                "ro": "Lacul Ozières",
+                "en": "Ozières Lake"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang um 17:00 Uhr direkt vom Beifahrersitz aus; das Licht spiegelt sich herrlich auf dem kalten Wasser.",
+                "hu": "Élvezze a 17:00 órai naplementét közvetlenül az anyósülésről; a fény gyönyörűen tükröződik a hideg vízfelszínen.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 direct de pe scaunul pasagerului; lumina se reflectă superb pe apa rece a lacului.",
+                "en": "Enjoy the 17:00 sunset directly from the passenger seat; the light reflects beautifully on the cold surface of the lake."
+              }
+            }
+          ]
+        }
       }
     }
   }

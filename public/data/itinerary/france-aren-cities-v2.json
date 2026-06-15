@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a történelmi Château d'Aren felfedezésével.\n\nDélben sétáljon északra a békés Église Saint-Pierre-hez és a közeli Plage d'Aren-hez egy kis pihenésre.\n\nDélután egy festői séta vár a Plage de Poey d'Oloron-hoz, amely igazi természeti kincs.\n\nFejezze be a napot a hangulatos Église Saint-Martin felfedezésével.",
         "ro": "Începeți ziua explorând istoricul Château d'Aren.\n\nLa prânz, plimbați-vă spre nord către liniștita Église Saint-Pierre și apropiata Plage d'Aren pentru o pauză relaxantă.\n\nDupă-amiaza continuă cu o plimbare pitorească până la Plage de Poey d'Oloron, perfectă pentru natură.\n\nÎncheiați ziua vizitând fermecătoarea Église Saint-Martin.",
         "en": "Begin your day exploring the historic Château d'Aren, a beautiful centerpiece.\n\nMidday takes you slightly north to the serene Église Saint-Pierre and nearby Plage d'Aren for a relaxing break.\n\nThe afternoon continues with a long scenic walk to Plage de Poey d'Oloron, perfect for nature lovers.\n\nConclude your day with a visit to the charming Église Saint-Martin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Schloss Schutz vor dem Regen, während wir die historischen Räume erkunden. Mittags führt der Weg zur Kirche unter dem Schirm durch die nassen Gassen. Nachmittags zeigen sich die Flussstrände in einem mystischen Nebel, der eine ganz besondere Atmosphäre schafft. Abends finden wir Ruhe in der Kirche Saint-Martin, während der Regen sanft gegen die alten Fenster prasselt.",
+            "hu": "Reggel a kastély falai között bújunk el az eső elől, ahol a történelem hangulata még borús időben is magával ragadó. Délben az Église Saint-Pierre felé vesszük az irányt, az esernyők alatt figyelve a falu csendes utcáit. Délután a folyóparti strandok ködös, misztikus arcukat mutatják a szürkületben. Este az Église Saint-Martin békéjében zárjuk a napot, hallgatva az eső dobolását a tetőn.",
+            "ro": "Dimineața, castelul oferă adăpost împotriva ploii în timp ce explorăm sălile sale istorice pline de farmec. La prânz, mergem spre biserică sub umbrelă, admirând străzile umede ale satului. După-amiaza, plajele de pe râu apar într-o ceață mistică, oferind un peisaj melancolic și superb. Seara, ne retragem în liniștea bisericii Saint-Martin, încheind ziua într-o atmosferă calmă și protejată.",
+            "en": "Morning starts inside the castle, protecting us from the rain while we soak in the local history. At noon, we head to Saint-Pierre church, navigating the damp streets with umbrellas. Afternoon brings us to the river beaches, which look hauntingly beautiful in the rainy mist. By evening, we find solace in Saint-Martin's historic atmosphere as the day ends under the rhythmic sound of raindrops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château d'Aren",
+                "hu": "Château d'Aren",
+                "ro": "Château d'Aren",
+                "en": "Château d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Innenräume des Schlosses, um trocken zu bleiben; die massiven Mauern bieten perfekten Schutz vor den Regengüssen des Vormittags.",
+                "hu": "Fedezzük fel a kastély belső termeit, hogy szárazon maradjunk; a vastag falak tökéletes menedéket nyújtanak a délelőtti záporok idején.",
+                "ro": "Explorați interioarele castelului pentru a rămâne uscați; pereții masivi oferă adăpostul perfect împotriva averselor de ploaie de dimineață.",
+                "en": "Explore the castle's interior rooms to stay dry; the massive stone walls provide the perfect shelter during the morning rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch der Kirche für eine Pause im Trockenen und bewundern Sie die religiöse Kunst; Vorsicht vor rutschigen Steinen am Eingang.",
+                "hu": "Használjuk ki a templomi látogatást egy száraz szünetre, és csodáljuk meg a műalkotásokat; vigyázzunk a csúszós kövekre a bejáratnál.",
+                "ro": "Folosiți vizita la biserică pentru o pauză uscată și admirați arta religioasă; atenție la pietrele alunecoase de la intrare pe timp de ploaie.",
+                "en": "Use the church visit for a dry break and admire the religious art; be careful of the slippery stones at the entrance during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Aren",
+                "hu": "Plage d'Aren",
+                "ro": "Plage d'Aren",
+                "en": "Plage d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen sehr dramatisch; tragen Sie wasserfeste Schuhe für den schlammigen Uferweg und genießen Sie die Einsamkeit am Fluss.",
+                "hu": "A strand drámai látványt nyújt esőben; viseljünk vízálló cipőt a saras folyóparti ösvényen, és élvezzük a folyóparti magányos csendet.",
+                "ro": "Plaja arată dramatic în ploaie; purtați încălțăminte impermeabilă pentru poteca noroioasă de pe mal și bucurați-vă de liniștea râului.",
+                "en": "The beach looks dramatic in the rain; wear waterproof shoes for the muddy riverside path and enjoy the solitary silence of the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Poey d'Oloron",
+                "hu": "Plage de Poey d'Oloron",
+                "ro": "Plage de Poey d'Oloron",
+                "en": "Plage de Poey d'Oloron"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf den grauen Fluss lohnt sich; suchen Sie danach Schutz unter den Bäumen und achten Sie auf Pfützen auf dem Gehweg.",
+                "hu": "Megéri egy rövid pillantást vetni a szürke folyóra; utána keressünk menedéket a fák alatt, és ügyeljünk a tócsákra a gyalogúton.",
+                "ro": "Merită o scurtă privire asupra râului gri; apoi căutați adăpost sub copaci și aveți grijă la bălțile de pe drumul pietonal.",
+                "en": "A quick look at the grey river is worth it; then seek shelter under the trees and watch out for puddles on the walking path."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im trockenen Kirchenschiff; die ruhige Atmosphäre ist ideal, um das Ende der Wanderung trotz des schlechten Wetters zu genießen.",
+                "hu": "Zárjuk a napot a száraz templomhajóban; a nyugodt légkör ideális a túra végének élvezetéhez a rossz időjárás ellenére is.",
+                "ro": "Încheiați ziua în nava uscată a bisericii; atmosfera liniștită este ideală pentru a savura finalul traseului în ciuda vremii nefavorabile.",
+                "en": "End the day in the dry nave of the church; the calm atmosphere is ideal for enjoying the end of the walk despite the bad weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt im Schloss, wo die kalten Mauern die Geschichte zum Leben erwecken. Mittags wandern wir durch die klare Winterluft zur Kirche und genießen die weite Sicht. Nachmittags besuchen wir die stillen Strände, bevor das Licht gegen 17:00 Uhr schnell schwindet. Abends bewundern wir die dörfliche Beleuchtung in der frühen Dunkelheit und suchen die wohlige Wärme.",
+            "hu": "A zúzmarás reggelt a kastély ódon falai között kezdjük, ahol a hideg kő és a történelem találkozik. Délben a friss téli levegőn sétálunk át a templomhoz, élvezve a táj tiszta fényeit. Délután a strandok jeges partjait érintjük, sietve, hogy még világosban lássuk a vizet. Este az ötkor lenyugvó nap után a falu hangulatos fényeit csodáljuk meg, majd átmelegszünk.",
+            "ro": "Dimineața geroasă începe la castel, unde zidurile reci fac istoria să pară și mai autentică. La prânz, ne plimbăm prin aerul proaspăt de iarnă spre biserică, admirând lumina clară. După-amiaza, vizităm plajele liniștite înainte ca lumina să dispară rapid în jurul orei 17:00. Seara, admirăm luminile satului în întunericul timpuriu și căutăm căldura.",
+            "en": "A frosty morning begins at the castle, where ancient stones tell stories in the crisp winter air. At noon, we walk to the church under a pale sun, feeling the refreshing chill on our faces. Afternoon is spent visiting the beaches before the 17:00 sunset turns the sky into shades of violet. Evening settles early, leading us to seek the warmth of the village after a brisk day outdoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château d'Aren",
+                "hu": "Château d'Aren",
+                "ro": "Château d'Aren",
+                "en": "Château d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da das Schlossinnere im Winter kühl sein kann; bewundern Sie den Raureif auf den Steinen im Schlosshof.",
+                "hu": "Öltözzünk rétegesen, mert a kastély belseje télen hűvös lehet; csodáljuk meg a dérlepte köveket a kastély udvarán.",
+                "ro": "Purtați haine groase, deoarece interiorul castelului poate fi răcoros iarna; admirați chiciura de pe pietrele din curtea castelului.",
+                "en": "Wear warm layers as the castle interior can be chilly in winter; admire the hoarfrost on the stones in the castle courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Die Stille der Kirche im Winter ist besonders friedlich; halten Sie den Mantel geschlossen, um die Kälte im Inneren des Gebäudes zu meiden.",
+                "hu": "A templom téli csendje különösen békés; tartsuk zárva a kabátunkat, hogy elkerüljük az épület belsejében tapasztalható hideget.",
+                "ro": "Liniștea bisericii iarna este deosebit de pașnică; țineți haina închisă pentru a evita frigul din interiorul clădirii vechi.",
+                "en": "The winter silence of the church is especially peaceful; keep your coat zipped up to avoid the chill inside the old building."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Aren",
+                "hu": "Plage d'Aren",
+                "ro": "Plage d'Aren",
+                "en": "Plage d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und malerisch; gehen Sie zügig, um warm zu bleiben, und achten Sie auf gefrorene Stellen am Ufer.",
+                "hu": "A strand télen néptelen és festői; sétáljunk tempósan, hogy melegen tartsuk magunkat, és ügyeljünk a fagyott foltokra a parton.",
+                "ro": "Plaja este pustie și pitorească iarna; mergeți într-un ritm alert pentru a vă menține căldura și atenție la porțiunile înghețate.",
+                "en": "The beach is deserted and picturesque in winter; walk briskly to keep warm and watch out for frozen patches on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Poey d'Oloron",
+                "hu": "Plage de Poey d'Oloron",
+                "ro": "Plage de Poey d'Oloron",
+                "en": "Plage de Poey d'Oloron"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das kalte Wasser, bevor die Sonne untergeht; Handschuhe sind für diesen offenen Uferbereich absolut empfehlenswert.",
+                "hu": "Élvezzük a hideg víz látványát, mielőtt lemegy a nap; ezen a nyitott vízparti részen kifejezetten ajánlott a kesztyű viselése.",
+                "ro": "Bucurați-vă de vederea apei reci înainte de apus; mănușile sunt absolut recomandate pentru această zonă deschisă de pe mal.",
+                "en": "Enjoy the view of the cold water before the sun sets; gloves are highly recommended for this open riverside area."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Abschluss vor Einbruch der Dunkelheit; beeilen Sie sich, da es draußen nach Sonnenuntergang sehr schnell kalt wird.",
+                "hu": "Rövid, meghitt befejezés a sötétség beállta előtt; siessünk, mivel a naplemente után kint nagyon gyorsan lehűl a levegő.",
+                "ro": "Un final scurt și contemplativ înainte de lăsarea întunericului; grăbiți-vă, deoarece se face foarte frig afară imediat după apus.",
+                "en": "A short, contemplative conclusion before darkness falls; hurry up as it gets very cold outside quickly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpározzon ki a Château d'Aren-től, majd tekerjen északra az Église Saint-Pierre templomhoz.\n\nDélben folytassa útját nyugatra az Église Sainte-Marie-Madeleine és az Église Notre-Dame felé.\n\nA délután az impozáns Château de Mesplès és az Église Saint-Jacques-le-Majeur felfedezéséé.\n\nZárja a kerékpártúrát az Église Saint-Laurent-nél.",
         "ro": "Pedalați de la Château d'Aren și mergeți spre nord pentru a vizita Église Saint-Pierre.\n\nLa prânz, mergeți spre vest către Église Sainte-Marie-Madeleine și Église Notre-Dame.\n\nDupă-amiaza este rezervată impresionantului Château de Mesplès și bisericii vecine Église Saint-Jacques-le-Majeur.\n\nTerminați turul cu bicicleta la Église Saint-Laurent.",
         "en": "Pedal out from the grand Château d'Aren and head north to visit the quiet Église Saint-Pierre.\n\nBy midday, cycle westward to admire Église Sainte-Marie-Madeleine and Église Notre-Dame, enjoying the open roads.\n\nThe afternoon is reserved for the impressive Château de Mesplès and the neighboring Église Saint-Jacques-le-Majeur.\n\nFinish your cycling tour at the historic Église Saint-Laurent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zum Schloss, während Schutzbleche uns vor Spritzwasser bewahren. Mittags dienen die Kirchen als willkommene Unterstände während der stärksten Schauer. Nachmittags erkunden wir die ländliche Umgebung auf asphaltierten Wegen, um Schlamm zu vermeiden. Abends beenden wir die Tour zügig, um die Ausrüstung vor der Dunkelheit zu trocknen.",
+            "hu": "Reggel óvatosan tekerünk a kastélyhoz, miközben a sárvédők megóvnak minket a felfröccsenő víztől. Délben a templomok kiváló menedékként szolgálnak a legerősebb záporok idején. Délután az aszfaltozott utakon fedezzük fel a környéket, elkerülve a saras szakaszokat. Este gyorsan befejezzük a túrát, hogy még sötétedés előtt megszáríthassuk felszerelésünket.",
+            "ro": "Dimineața pedalăm cu atenție spre castel, în timp ce aripile bicicletei ne protejează de stropi. La prânz, bisericile servesc ca adăposturi binevenite în timpul celor mai puternice averse. După-amiaza explorăm împrejurimile pe drumuri asfaltate pentru a evita noroiul. Seara încheiem turul rapid pentru a ne usca echipamentul înainte de lăsarea întunericului.",
+            "en": "In the morning, we cycle carefully to the castle, with mudguards protecting us from splashes. At noon, the local churches serve as welcome shelters during the heaviest showers. In the afternoon, we explore the rural surroundings on paved paths to avoid mud. By evening, we finish the tour quickly to dry our gear before the darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château d'Aren",
+                "hu": "Château d'Aren",
+                "ro": "Château d'Aren",
+                "en": "Château d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad an einem geschützten Ort und genießen Sie die Geschichte im Trockenen; prüfen Sie Ihre Bremsen nach der nassen Anfahrt.",
+                "hu": "Parkoljuk le a bringát fedett helyen, és élvezzük a történelmet szárazon; ellenőrizzük a fékeket a vizes úton való érkezés után.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de istorie la adăpost; verificați frânele după parcursul pe drum ud.",
+                "en": "Park your bike in a sheltered spot and enjoy the history in the dry; check your brakes after the wet ride to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Regenjacke kurz auszuschütteln; achten Sie beim Absteigen auf rutschiges Kopfsteinpflaster rund um die Kirche.",
+                "hu": "Ideális megálló az esőkabát megrázására; leszálláskor ügyeljünk a templom körüli csúszós macskakövekre és a nedves felületekre.",
+                "ro": "Un popas ideal pentru a scutura puțin pelerina de ploaie; atenție la pavajul alunecos din jurul bisericii când coborâți de pe bicicletă.",
+                "en": "An ideal stop to shake off your raincoat; be careful of slippery cobblestones around the church when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie-Madeleine",
+                "hu": "Église Sainte-Marie-Madeleine",
+                "ro": "Église Sainte-Marie-Madeleine",
+                "en": "Église Sainte-Marie-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher kann windig sein; nutzen Sie das Kirchenportal als Windschutz und prüfen Sie den Reifendruck für bessere Haftung.",
+                "hu": "Az idevezető út szeles lehet; használjuk a templomkaput szélfogóként, és ellenőrizzük a guminyomást a jobb tapadás érdekében.",
+                "ro": "Drumul până aici poate fi vântos; folosiți portalul bisericii ca paravan și verificați presiunea în pneuri pentru o aderență mai bună.",
+                "en": "The ride here can be windy; use the church portal as a windbreak and check your tire pressure for better grip on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Sollte der Regen stärker werden, bietet die Kirche eine lange Verweildauer; wischen Sie den Sattel vor der Weiterfahrt unbedingt trocken.",
+                "hu": "Ha erősödne az eső, a templom lehetőséget ad a hosszabb várakozásra; a továbbindulás előtt feltétlenül töröljük szárazra a nyerget.",
+                "ro": "Dacă ploaia se întețește, biserica oferă un loc de popas prelungit; nu uitați să ștergeți șaua înainte de a pleca mai departe.",
+                "en": "If the rain gets heavier, the church allows for a longer stay; make sure to wipe your saddle dry before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Mesplès",
+                "hu": "Château de Mesplès",
+                "ro": "Château de Mesplès",
+                "en": "Château de Mesplès"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Schloss kann bei Regen rutschig sein; genießen Sie die Architektur und nutzen Sie die Zeit für eine kleine Aufwärmpause.",
+                "hu": "A kastélyhoz vezető út esőben csúszós lehet; élvezzük az építészetet, és használjuk ki az időt egy kis bemelegítő pihenőre.",
+                "ro": "Drumul spre castel poate fi alunecos pe ploaie; admirați arhitectura și profitați de timp pentru o mică pauză de încălzire.",
+                "en": "The path to the castle can be slippery in the rain; enjoy the architecture and use the time for a quick warm-up break."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques-le-Majeur",
+                "hu": "Église Saint-Jacques-le-Majeur",
+                "ro": "Église Saint-Jacques-le-Majeur",
+                "en": "Église Saint-Jacques-le-Majeur"
+              },
+              "tip_5lang": {
+                "de": "Kürzen Sie die Besichtigung bei Bedarf ab, wenn das Wetter umschlägt; achten Sie auf tiefe Pfützen auf den umliegenden Landstraßen.",
+                "hu": "Rövidítsük le a látogatást, ha az időjárás rosszabbra fordul; ügyeljünk a mély tócsákra a környező országutakon és dűlőutakon.",
+                "ro": "Scurtați vizita dacă vremea se înrăutățește; aveți grijă la bălțile adânci de pe drumurile de țară din împrejurimi.",
+                "en": "Shorten the visit if the weather turns worse; watch out for deep puddles on the surrounding country roads and paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter trockener Stopp vor der Heimfahrt; stellen Sie sicher, dass Ihre Beleuchtung für den Rückweg im Regen gut sichtbar ist.",
+                "hu": "Egy utolsó száraz megálló a hazatekerés előtt; győződjünk meg róla, hogy a világításunk jól látható az esős visszautazás során.",
+                "ro": "Un ultim popas uscat înainte de drumul spre casă; asigurați-vă că luminile bicicletei sunt vizibile pentru drumul de întoarcere.",
+                "en": "A final dry stop before the ride home; make sure your bike lights are clearly visible for the return trip in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fordert die kalte Luft im Sattel gute Handschuhe beim Weg zum Schloss. Mittags nutzen wir die Sonnenfenster für die Fahrt zwischen den Kirchen, um warm zu bleiben. Nachmittags erreichen wir das Schloss Mesplès, während der Frost die Felder glitzern lässt. Abends endet die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr, bevor die Temperaturen stark sinken.",
+            "hu": "Reggel a hideg levegő miatt jó kesztyűre van szükség a kastély felé menet. Délben kihasználjuk a napsütéses pillanatokat a templomok közötti tekeréshez, hogy ne hűljünk le. Délután elérjük a Mesplès kastélyt, miközben a dér csillog a mezőkön. Este a túra pontosan a 17:00-s naplementére ér véget, mielőtt a hőmérséklet hirtelen leesne.",
+            "ro": "Dimineața, aerul rece necesită mănuși bune în timp ce pedalăm spre castel. La prânz, profităm de momentele însorite între biserici pentru a ne menține căldura corporală. După-amiaza ajungem la Castelul Mesplès, în timp ce bruma strălucește pe câmpuri. Seara, turul se încheie exact la apusul de la ora 17:00, înainte ca temperaturile să scadă brusc.",
+            "en": "In the morning, the cold air requires good gloves as we cycle toward the castle. At noon, we take advantage of sunny spells for the ride between churches to keep warm. In the afternoon, we reach Mesplès Castle while frost makes the fields glisten. By evening, the tour ends right at the 17:00 sunset before the temperatures drop significantly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château d'Aren",
+                "hu": "Château d'Aren",
+                "ro": "Château d'Aren",
+                "en": "Château d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie sich im Schloss, um die Durchblutung nach der kalten Fahrt zu fördern; achten Sie auf eisige Stellen am Fahrradständer.",
+                "hu": "Mozogjunk a kastélyban, hogy javítsuk a keringést a hideg tekerés után; ügyeljünk a jeges foltokra a kerékpártárolónál.",
+                "ro": "Faceți mișcare în castel pentru a stimula circulația după drumul rece; atenție la porțiunile înghețate de lângă rastelul de biciclete.",
+                "en": "Move around the castle to boost circulation after the cold ride; watch out for icy patches near the bicycle rack."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die Fassade zu bewundern; bleiben Sie in Bewegung, um nicht auszukühlen, und prüfen Sie den Bodenbelag.",
+                "hu": "Egy rövid megálló is elég a homlokzat megcsodálásához; maradjunk mozgásban, hogy ne hűljünk ki, és ellenőrizzük a talajt.",
+                "ro": "Un popas scurt este suficient pentru a admira fațada; rămâneți în mișcare pentru a nu răci și verificați starea solului.",
+                "en": "A short stop is enough to admire the facade; stay in motion to avoid getting chilled and check the ground for ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie-Madeleine",
+                "hu": "Église Sainte-Marie-Madeleine",
+                "ro": "Église Sainte-Marie-Madeleine",
+                "en": "Église Sainte-Marie-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet tolle Fotomotive der Kirche; ziehen Sie die Mütze unter dem Helm fest, um den Fahrtwind abzuwehren.",
+                "hu": "A tiszta téli levegő remek fotótémákat kínál a templomról; húzzuk szorosra a sapkát a sisak alatt, hogy kivédjük a menetszelet.",
+                "ro": "Aerul clar de iarnă oferă ocazii excelente pentru fotografii; strângeți bine căciula sub cască pentru a vă proteja de vântul tăios.",
+                "en": "The clear winter air offers great photo opportunities of the church; pull your beanie tight under the helmet to block the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen geschützten Ort für einen Schluck aus der Thermoskanne; achten Sie auf Streusand, der in den Kurven rutschig sein kann.",
+                "hu": "Használjuk ezt a védett helyet egy korty meleg italra a termoszból; ügyeljünk a szórómurvára, amely a kanyarokban csúszós lehet.",
+                "ro": "Folosiți acest loc protejat pentru o gură de ceai cald din termos; atenție la nisipul antiderapant care poate fi alunecos în curbe.",
+                "en": "Use this sheltered spot for a sip from your thermos; watch out for grit or sand which can be slippery in the corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Mesplès",
+                "hu": "Château de Mesplès",
+                "ro": "Château de Mesplès",
+                "en": "Château de Mesplès"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht in der Wintersonne prachtvoll aus; machen Sie eine Pause, um die Finger zu wärmen, bevor Sie die Tour fortsetzen.",
+                "hu": "A kastély pompásan mutat a téli napsütésben; tartsunk szünetet, hogy felmelegítsük az ujjainkat, mielőtt folytatnánk a túrát.",
+                "ro": "Castelul arată magnific în soarele de iarnă; faceți o pauză pentru a vă încălzi degetele înainte de a continua traseul.",
+                "en": "The castle looks magnificent in the winter sun; take a break to warm your fingers before continuing the cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques-le-Majeur",
+                "hu": "Église Saint-Jacques-le-Majeur",
+                "ro": "Église Saint-Jacques-le-Majeur",
+                "en": "Église Saint-Jacques-le-Majeur"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Besichtigung kurz, um das Tageslicht zu nutzen; die tiefstehende Sonne kann beim Radfahren stark blenden.",
+                "hu": "Tartsuk rövidre a látogatást, hogy kihasználjuk a nappali fényt; az alacsonyan járó nap kerékpározás közben erősen vakíthat.",
+                "ro": "Păstrați vizita scurtă pentru a profita de lumina zilei; soarele jos poate fi foarte orbitor în timp ce pedalați.",
+                "en": "Keep the visit short to make the most of the daylight; the low winter sun can be quite blinding while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Der finale Stopp, wenn die Schatten länger werden; treten Sie nun kräftig in die Pedale, um vor der Abendkälte wieder zurück zu sein.",
+                "hu": "Az utolsó megálló, amikor az árnyékok megnyúlnak; tekerjünk tempósan, hogy még az esti lehűlés előtt visszaérjünk.",
+                "ro": "Ultimul popas când umbrele se lungesc; pedalați cu spor acum pentru a ajunge înapoi înainte de frigul serii.",
+                "en": "The final stop as the shadows grow longer; pedal briskly now to get back before the evening chill sets in properly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje autós túráját délen a lenyűgöző Château de Mesplès-nél és az Église Saint-Jacques-le-Majeur-nél.\n\nDélben vezessen nyugatra az Église Notre-Dame és az Église Sainte-Marie-Madeleine felfedezéséhez.\n\nDélután irány észak, egy békés pihenőre a Plage d'Aren-nél.\n\nFejezze be a napot a Château d'Aren és az Église Saint-Laurent érintésével.",
         "ro": "Începeți turul cu mașina în sud, la magnificul Château de Mesplès și la Église Saint-Jacques-le-Majeur.\n\nSpre prânz, conduceți spre vest pentru a descoperi Église Notre-Dame și Église Sainte-Marie-Madeleine.\n\nDupă-amiaza, mergeți la Plage d'Aren și Église Saint-Pierre.\n\nÎncheiați ziua la Château d'Aren și Église Saint-Laurent.",
         "en": "Start your driving tour in the south at the magnificent Château de Mesplès and the adjacent Église Saint-Jacques-le-Majeur.\n\nTowards midday, drive west to discover Église Notre-Dame and Église Sainte-Marie-Madeleine.\n\nIn the afternoon, head north for a serene break at Plage d'Aren and the nearby Église Saint-Pierre.\n\nConclude your evening at Château d'Aren and Église Saint-Laurent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die bequeme Fahrt im warmen Auto zum Schloss Mesplès, während es draußen stürmt. Mittags springen wir zwischen den Kirchen nur kurz durch den Regen und bleiben meist im Trockenen. Nachmittags betrachten wir die Flussstrände sicher durch das Fenster oder mit dem Schirm. Abends endet die Tour gemütlich beim Schloss Aren im prasselnden Regen.",
+            "hu": "Reggel élvezzük a kényelmes utazást a fűtött autóban a Mesplès kastély felé, miközben kint szakad az eső. Délben csak rövid időre ugrunk ki az esőbe a templomoknál, a többi időt szárazon töltjük. Délután a folyóparti strandokat az autó ablakából vagy esernyővel csodáljuk meg. Este a túra hangulatosan ér véget az Aren kastélynál az esőben.",
+            "ro": "Dimineața ne bucurăm de călătoria confortabilă în mașina caldă spre Castelul Mesplès, în timp ce afară plouă torențial. La prânz, coborâm doar scurt în ploaie la biserici, rămânând în rest la adăpost. După-amiaza admirăm plajele de pe râu de la geamul mașinii sau cu umbrela. Seara, turul se încheie plăcut la Castelul Aren sub ropotul ploii.",
+            "en": "In the morning, we enjoy a comfortable drive in a warm car toward Mesplès Castle while it storms outside. At noon, we briefly hop out of the car to visit the churches, staying mostly dry. In the afternoon, we view the river beaches safely through the window or with an umbrella. By evening, the tour ends cozily at Aren Castle in the pouring rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Mesplès",
+                "hu": "Château de Mesplès",
+                "ro": "Château de Mesplès",
+                "en": "Château de Mesplès"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; genießen Sie die prächtige Architektur, während draußen der Regen auf das Autodach trommelt.",
+                "hu": "Parkoljunk a lehető legközelebb a bejárathoz; élvezzük a pompás építészetet, miközben kint az eső dobol az autó tetőlemezén.",
+                "ro": "Parcați cât mai aproape de intrare; admirați arhitectura splendidă în timp ce afară ploaia bate în plafonul mașinii.",
+                "en": "Park as close to the entrance as possible; enjoy the magnificent architecture while the rain drums on the car roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques-le-Majeur",
+                "hu": "Église Saint-Jacques-le-Majeur",
+                "ro": "Église Saint-Jacques-le-Majeur",
+                "en": "Église Saint-Jacques-le-Majeur"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Schirm griffbereit im Auto; der kurze Weg zur Kirche kann bei Wind tückisch sein, aber drinnen ist es herrlich trocken.",
+                "hu": "Legyen az esernyő karnyújtásnyira az autóban; a templomhoz vezető rövid út szeles lehet, de bent kellemes szárazság vár ránk.",
+                "ro": "Țineți umbrela la îndemână în mașină; drumul scurt până la biserică poate fi vântos, dar în interior este plăcut și uscat.",
+                "en": "Keep your umbrella within reach in the car; the short path to the church can be windy, but inside it's wonderfully dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Besinnung im Trockenen; achten Sie beim Ein- und Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Használjuk ki a megállót egy rövid, száraz elcsendesedésre; ki- és beszálláskor ügyeljünk az útmenti mély tócsákra.",
+                "ro": "Profități de popas pentru un scurt moment de reculegere la uscat; atenție la bălțile adânci de la marginea drumului la urcare și coborâre.",
+                "en": "Use the stop for a brief, dry moment of reflection; watch out for deep puddles by the roadside when getting in and out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie-Madeleine",
+                "hu": "Église Sainte-Marie-Madeleine",
+                "ro": "Église Sainte-Marie-Madeleine",
+                "en": "Église Sainte-Marie-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheibenwischer gut funktionieren; die Fahrt zur Kirche bietet trotz des Regens schöne Ausblicke auf die Felder.",
+                "hu": "Győződjünk meg róla, hogy az ablaktörlők jól működnek; a templomhoz vezető út az eső ellenére is szép kilátást nyújt a mezőkre.",
+                "ro": "Asigurați-vă că ștergătoarele funcționează bine; drumul spre biserică oferă priveliști frumoase asupra câmpurilor în ciuda ploii.",
+                "en": "Make sure your windshield wipers are working well; the drive to the church offers lovely views of the fields despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Aren",
+                "hu": "Plage d'Aren",
+                "ro": "Plage d'Aren",
+                "en": "Plage d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, um den Blick auf den Fluss zu genießen, wenn der Regen zu stark ist; die Aussicht ist auch durch die Scheibe malerisch.",
+                "hu": "Maradjunk az autóban a folyóparti kilátás élvezetéhez, ha túl erősen esik; a panoráma az ablakon keresztül is festői látványt nyújt.",
+                "ro": "Rămâneți în mașină pentru a vă bucura de vederea râului dacă plouă prea tare; panorama este pitorească și prin parbriz.",
+                "en": "Stay in the car to enjoy the riverside view if the rain is too heavy; the panorama is picturesque even through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Besuch lohnt sich; nutzen Sie die Sitzheizung nach dem kurzen Gang durch den Regen, um sich sofort wieder aufzuwärmen.",
+                "hu": "Megéri egy gyors látogatást tenni; az esőben tett rövid séta után használjuk az ülésfűtést, hogy azonnal újra felmelegedjünk.",
+                "ro": "Merită o vizită rapidă; folosiți încălzirea în scaune după scurta plimbare prin ploaie pentru a vă reîncălzi imediat.",
+                "en": "A quick visit is worth it; use the seat heating after the short walk through the rain to warm up again immediately."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Aren",
+                "hu": "Château d'Aren",
+                "ro": "Château d'Aren",
+                "en": "Château d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind meist nah vorhanden; genießen Sie den imposanten Anblick des Schlosses im Regen und nutzen Sie die Innenbesichtigung.",
+                "hu": "A parkolók általában közel vannak; élvezzük a kastély impozáns látványát az esőben, és használjuk ki a belső terek adta védelmet.",
+                "ro": "Parcările sunt de obicei aproape; bucurați-vă de vederea impunătoare a castelului în ploaie și vizitați interioarele sale.",
+                "en": "Parking is usually available nearby; enjoy the imposing view of the castle in the rain and take advantage of the interior visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss der Fahrt; prüfen Sie vor der Abfahrt noch einmal das Licht am Auto für die Heimreise bei schlechter Sicht.",
+                "hu": "Az utazás nyugodt befejezése; indulás előtt ellenőrizzük még egyszer az autó világítását a rossz látási viszonyok közötti hazatéréshez.",
+                "ro": "Un final relaxat al călătoriei; înainte de plecare, verificați încă o dată luminile mașinii pentru drumul spre casă pe vizibilitate redusă.",
+                "en": "A relaxed end to the trip; before leaving, check the car lights once more for the drive home in low visibility conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens startet die Tour im vorgeheizten Wagen zum Schloss Mesplès, während der Frost die Scheiben ziert. Mittags erkunden wir die Kirchen, wobei das Auto uns zwischen den Stopps immer wieder aufwärmt. Nachmittags erreichen wir die Strände kurz vor dem Sonnenuntergang um 17:00 Uhr. Abends genießen wir die beleuchteten Dörfer durch das Fenster, während es draußen klirrend kalt ist.",
+            "hu": "Reggel a túra az előmelegített autóban indul a Mesplès kastély felé, miközben zúzmara díszíti az ablakokat. Délben a templomokat fedezzük fel, miközben az autó a megállók között mindig felmelegít. Délután elérjük a strandokat, éppen a 17:00-s naplemente előtt. Este az ablakon keresztül csodáljuk a kivilágított falvakat a kinti metsző hidegben.",
+            "ro": "Dimineața, turul începe în mașina preîncălzită spre Castelul Mesplès, în timp ce bruma decorează geamurile. La prânz explorăm bisericile, mașina oferindu-ne căldură între opriri. După-amiaza ajungem la plaje chiar înainte de apusul de la ora 17:00. Seara, admirăm satele luminate prin geam, în timp ce afară este un frig pătrunzător.",
+            "en": "In the morning, the tour starts in a pre-heated car toward Mesplès Castle while frost decorates the windows. At noon, we explore the churches, with the car warming us up between stops. In the afternoon, we reach the beaches just before the 17:00 sunset. By evening, we admire the lit-up villages through the window while it's freezing outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Mesplès",
+                "hu": "Château de Mesplès",
+                "ro": "Château de Mesplès",
+                "en": "Château de Mesplès"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto lässt Sie die Kälte draußen vergessen; genießen Sie den Kontrast zwischen dem frostigen Garten und dem warmen Wagen.",
+                "hu": "Az autó fűtése segít elfelejteni a kinti hideget; élvezzük a kontrasztot a fagyos kastélykert és a meleg utastér között.",
+                "ro": "Căldura din mașină vă face să uitați de frigul de afară; bucurați-vă de contrastul dintre grădina înghețată și interiorul cald.",
+                "en": "The car's heater makes you forget the cold outside; enjoy the contrast between the frosty castle gardens and the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques-le-Majeur",
+                "hu": "Église Saint-Jacques-le-Majeur",
+                "ro": "Église Saint-Jacques-le-Majeur",
+                "en": "Église Saint-Jacques-le-Majeur"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, aber lohnenswerter Stopp; achten Sie auf glatte Stellen auf dem Parkplatz und genießen Sie die Ruhe des winterlichen Ortes.",
+                "hu": "Rövid, de megéri megállni; ügyeljünk a csúszós foltokra a parkolóban, és élvezzük a téli település nyugalmát.",
+                "ro": "O oprire scurtă, dar care merită; atenție la porțiunile alunecoase din parcare și bucurați-vă de liniștea localității iarna.",
+                "en": "A short but worthwhile stop; watch out for icy patches in the parking lot and enjoy the peace of the winter village."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im klaren Winterlicht; halten Sie die Handschuhe bereit für den kurzen Weg vom Auto zur Kirche.",
+                "hu": "Csodáljuk meg az építészetet a tiszta téli fényben; tartsuk készenlétben a kesztyűt az autó és a templom közötti rövid sétához.",
+                "ro": "Admirați arhitectura în lumina clară de iarnă; aveți mănușile pregătite pentru drumul scurt de la mașină până la biserică.",
+                "en": "Admire the architecture in the clear winter light; keep your gloves ready for the short walk from the car to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Marie-Madeleine",
+                "hu": "Église Sainte-Marie-Madeleine",
+                "ro": "Église Sainte-Marie-Madeleine",
+                "en": "Église Sainte-Marie-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt bietet weite Ausblicke auf die verschneite oder gefrorene Landschaft; prüfen Sie vor der Weiterfahrt das Wischwasser gegen Salzreste.",
+                "hu": "Az út tágas kilátást nyújt a havas vagy fagyos tájra; indulás előtt ellenőrizzük a szélvédőmosót a sós maradványok ellen.",
+                "ro": "Drumul oferă vederi largi asupra peisajului înghețat; verificați lichidul de parbriz pentru a curăța resturile de sare înainte de a pleca.",
+                "en": "The drive offers wide views of the frozen landscape; check your windshield washer fluid for salt residue before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage d'Aren",
+                "hu": "Plage d'Aren",
+                "ro": "Plage d'Aren",
+                "en": "Plage d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den frostigen Fluss aus der Wärme des Autos heraus; ideal für Fotos ohne im kalten Wind stehen zu müssen.",
+                "hu": "Élvezzük a fagyos folyó látványát az autó melegéből; ideális fotózáshoz anélkül, hogy a hideg szélben kellene állnunk.",
+                "ro": "Bucurați-vă de vederea râului înghețat din căldura mașinii; ideal pentru fotografii fără a sta în vântul rece de afară.",
+                "en": "Enjoy the view of the frosty river from the warmth of the car; ideal for photos without having to stand in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne lässt die Kirche golden schimmern; ein perfekter Moment für einen kurzen Halt vor dem frühen Sonnenuntergang.",
+                "hu": "Az alacsonyan járó nap aranyló fénybe vonja a templomot; tökéletes pillanat egy rövid megállásra a korai naplemente előtt.",
+                "ro": "Soarele jos face ca biserica să strălucească auriu; un moment perfect pentru o scurtă oprire înainte de apusul timpuriu.",
+                "en": "The low sun makes the church shimmer in gold; a perfect moment for a quick stop before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Aren",
+                "hu": "Château d'Aren",
+                "ro": "Château d'Aren",
+                "en": "Château d'Aren"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss am späten Nachmittag; die Wärme im Inneren ist nach dem Ausflug in die Natur eine Wohltat für alle Sinne.",
+                "hu": "Látogassuk meg a kastélyt késő délután; a belső terek melege jót tesz az érzékeknek a természetben tett kirándulás után.",
+                "ro": "Vizitați castelul după-amiaza târziu; căldura din interior este o binecuvântare pentru simțuri după excursia în natură.",
+                "en": "Visit the castle in the late afternoon; the warmth inside is a blessing for the senses after the excursion in nature."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss, wenn die Lichter der Stadt angehen; nutzen Sie die Zeit, um die Route für den Rückweg im Dunkeln zu planen.",
+                "hu": "Szép befejezés, amikor felgyúlnak a falu fényei; használjuk ki az időt a sötétben való hazatérés útvonalának megtervezéséhez.",
+                "ro": "Un final frumos când se aprind luminile satului; folosiți timpul pentru a planifica ruta de întoarcere pe întuneric.",
+                "en": "A beautiful finish as the village lights come on; use the time to plan the route for the return trip in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

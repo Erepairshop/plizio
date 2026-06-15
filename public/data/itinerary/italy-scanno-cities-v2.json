@@ -137,6 +137,168 @@
         "hu": "Scanno reggele egy időtlen, kőből épült sikátorokból álló falut tár elénk, a történelmi templomok között, ahol lágyan zsong a helyi élet. A dél hidegében mélyebbre merülhet az építészeti központban, megcsodálva a nemesi palotákat. A délutáni séták során a kisebb kerületi plébániák felé fordul a figyelem, amelyek gyönyörű vallási művészetet mutatnak be. Az este kellemes búcsúra hív a város rusztikus varázsával.",
         "ro": "Dimineața în Scanno dezvăluie un sat atemporal de străduțe pietruite, începând printre bisericile istorice unde viața locală pulsează încet. La prânz, pătrundeți mai adânc în inima arhitecturală, minunându-vă de palatele nobile. Plimbările de după-amiază se concentrează pe parohiile mai mici de cartier, prezentând artă religioasă rafinată. Seara vă invită la un bun rămas blând în farmecul rustic primitor.",
         "en": "Morning in Scanno reveals a timeless village of stone alleys, beginning among the historic churches where local life hums softly. Midday brings you deeper into the architectural heart, marveling at noble palaces and ancient portals. Afternoon strolls shift focus to smaller neighborhood parishes, showcasing exquisite religious art. The evening invites a gentle farewell amid the town's welcoming rustic charm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgennebel hüllt die Gassen von Scanno in eine mystische Atmosphäre. Ein Regenschirm ist in den steilen Steinpfaden unerlässlich. Mittags bieten die Kirchen trockene Zufluchtsorte vor den Schauern. Am Nachmittag schützt der Palazzo Di Rienzo vor der Nässe, während der Abend in den glänzenden, feuchten Straßen ruhig und besinnlich ausklingt.",
+            "hu": "A reggeli pára misztikus ködbe burkolja Scanno sikátorait. Az esernyő elengedhetetlen a meredek kőlépcsőkön. Délben a templomok nyújtanak száraz menedéket a záporok elől. Délután a Palazzo Di Rienzo vastag falai védenek a nedvességtől, míg az este a csillogó, vizes kövön lépkedve, csendes magányban telik.",
+            "ro": "Ceața de dimineață învăluie străzile din Scanno într-o atmosferă mistică. O umbrelă este esențială pe potecile abrupte de piatră. La prânz, bisericile oferă refugii uscate în fața ploii. După-amiaza, Palazzo Di Rienzo vă protejează de umezeală, în timp ce seara se încheie liniștit pe străzile umede care reflectă luminile orașului.",
+            "en": "Morning mist wraps Scanno's alleys in a mystical atmosphere. An umbrella is essential on the steep stone paths. At noon, the churches provide dry sanctuaries from the showers. In the afternoon, Palazzo Di Rienzo offers protection from the wet, while the evening ends quietly on the glistening, rain-soaked streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio da Padova",
+                "hu": "Chiesa di Sant'Antonio da Padova",
+                "ro": "Chiesa di Sant'Antonio da Padova",
+                "en": "Chiesa di Sant'Antonio da Padova"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocken Details im Inneren, während Sie sich vom Regen abtrocknen; die Akustik bei prasselndem Regen ist hier besonders beruhigend.",
+                "hu": "Csodálja meg a belső barokk részleteket, miközben megszárad az eső után; a templom akustikája a kinti kopogó esővel különösen nyugtató élmény.",
+                "ro": "Admirați detaliile baroce din interior în timp ce vă uscați de ploaie; acustica bisericii în timpul ploii este deosebit de liniștitoare și spirituală.",
+                "en": "Admire the interior Baroque details while drying off from the rain; the acoustics of the church during a downpour are particularly soothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna di Costantinopoli",
+                "hu": "Chiesa della Madonna di Costantinopoli",
+                "ro": "Chiesa della Madonna di Costantinopoli",
+                "en": "Chiesa della Madonna di Costantinopoli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg zwischen den Gebäuden als Schutz; die Fresken im Inneren wirken bei gedämpftem Regenlicht besonders farbintensiv.",
+                "hu": "Használja ki az épületek közötti rövid távolságot a védelemre; a belső freskók a tompa esőfényben különösen intenzív színekkel ragyognak fel.",
+                "ro": "Folosiți distanța scurtă dintre clădiri pentru a vă adăposti; frescele interioare par deosebit de intense sub lumina difuză a zilei ploioase.",
+                "en": "Take advantage of the short distance between buildings for cover; the interior frescoes look especially vibrant under the muted rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Di Rienzo",
+                "hu": "Palazzo Di Rienzo",
+                "ro": "Palazzo Di Rienzo",
+                "en": "Palazzo Di Rienzo"
+              },
+              "tip_5lang": {
+                "de": "Dieser herrschaftliche Bau bietet den perfekten überdachten Aufenthalt; erkunden Sie die Geschichte der Region, während draußen der Regen die Steine wäscht.",
+                "hu": "Ez az impozáns épület tökéletes fedett állomás; fedezze fel a régió történelmét, miközben odakint az eső mossa a falu ódon köveit.",
+                "ro": "Această clădire impunătoare oferă adăpostul perfect; explorați istoria regiunii în timp ce afară ploaia spală pietrele vechi ale satului.",
+                "en": "This grand building offers the perfect covered stop; explore the region's history while the rain washes the ancient stones outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria della Valle",
+                "hu": "Chiesa di Santa Maria della Valle",
+                "ro": "Chiesa di Santa Maria della Valle",
+                "en": "Chiesa di Santa Maria della Valle"
+              },
+              "tip_5lang": {
+                "de": "Die zentrale Lage macht diese Kirche zum idealen Ort, um ein schweres Unwetter abzuwarten; achten Sie auf den prächtigen Hochaltar im Trockenen.",
+                "hu": "Központi elhelyezkedése miatt ideális hely egy nagyobb felhőszakadás kivárására; csodálja meg a pompás főoltárt a biztonságos szárazban.",
+                "ro": "Locația centrală face din această biserică locul ideal pentru a aștepta trecerea unei ploi torențiale; admirați altarul principal în siguranță.",
+                "en": "Its central location makes this church an ideal spot to wait out a heavy downpour; admire the magnificent high altar in the dry safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio Abate",
+                "hu": "Chiesa di Sant'Antonio Abate",
+                "ro": "Chiesa di Sant'Antonio Abate",
+                "en": "Chiesa di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier und genießen Sie den Blick auf die dampfenden Berge; die nassen Pflastersteine können auf dem Rückweg sehr rutschig sein.",
+                "hu": "Itt fejezze be a túrát, élvezve a párás hegyek látványát; vigyázzon, mert a vizes macskakő a visszaúton rendkívül csúszós lehet.",
+                "ro": "Încheiați turul aici, bucurându-vă de vederea munților înnebuniți de ceață; atenție, pavajul umed poate fi extrem de alunecos la întoarcere.",
+                "en": "Finish your tour here, enjoying the view of the steaming mountains; be careful, as the wet cobblestones can be extremely slippery on the way back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Scanno ist oft frostig und still. Warme Kleidung ist Pflicht für den Rundgang durch die verschneiten Gassen. Mittags laden die sakralen Bauten zum Aufwärmen und Innehalten ein. Da die Sonne bereits gegen 17:00 Uhr hinter den Gipfeln verschwindet, erstrahlt das Dorf am späten Nachmittag in warmem Kunstlicht.",
+            "hu": "A téli reggel Scannóban gyakran fagyos és csendes. A réteges öltözködés kötelező a havas sikátorokban. Délben a templomok belső melege hívogat egy kis pihenőre. Mivel a nap már 17:00 körül eltűnik a csúcsok mögött, a késő délután már az ünnepi fényekbe öltözött faluban talál minket.",
+            "ro": "Dimineața de iarnă în Scanno este adesea geroasă și liniștită. Hainele groase sunt obligatorii pentru plimbarea prin ulițele înzăpezite. La prânz, bisericile vă invită să vă încălziți. Deoarece soarele apune în jurul orei 17:00, satul strălucește în lumini calde încă de la sfârșitul după-amiezii.",
+            "en": "Winter mornings in Scanno are often frosty and silent. Warm layers are mandatory for walking through the snowy alleys. At noon, the churches' interiors invite you for a warm break. Since the sun sets behind the peaks around 17:00, the late afternoon finds the village glowing in warm artificial light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio da Padova",
+                "hu": "Chiesa di Sant'Antonio da Padova",
+                "ro": "Chiesa di Sant'Antonio da Padova",
+                "en": "Chiesa di Sant'Antonio da Padova"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um der eisigen Morgenluft zu entfliehen; die Ruhe des Kirchenraums ist im Winter noch intensiver zu spüren als sonst.",
+                "hu": "Lépjen be, hogy elmeneküljön a jeges reggeli levegő elől; a templomtér csendje télen még az átlagosnál is intenzívebben érezhető.",
+                "ro": "Intrați pentru a scăpa de aerul înghețat al dimineții; liniștea spațiului sacru este simțită mult mai intens iarna decât în restul anului.",
+                "en": "Step inside to escape the icy morning air; the silence of the church interior is felt even more intensely in winter than usual."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna di Costantinopoli",
+                "hu": "Chiesa della Madonna di Costantinopoli",
+                "ro": "Chiesa della Madonna di Costantinopoli",
+                "en": "Chiesa della Madonna di Costantinopoli"
+              },
+              "tip_5lang": {
+                "de": "Dieser kleine Sakralbau bietet schnellen Schutz vor dem schneidenden Wind; bewundern Sie die Kunstwerke in der gemütlichen, schattigen Kühle.",
+                "hu": "Ez a kis szakrális épület gyors védelmet nyújt a metsző szél ellen; csodálja meg a műalkotásokat a meghitt, védett belső térben.",
+                "ro": "Această mică clădire sacră oferă protecție rapidă împotriva vântului tăios; admirați operele de artă în interiorul primitor și protejat.",
+                "en": "This small sacred building offers quick protection against the biting wind; admire the artworks in the cozy, sheltered interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Di Rienzo",
+                "hu": "Palazzo Di Rienzo",
+                "ro": "Palazzo Di Rienzo",
+                "en": "Palazzo Di Rienzo"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; nutzen Sie den Besuch für eine ausführliche Besichtigung der historischen Räume ohne Winterfrost.",
+                "hu": "A vastag falak kint tartják a farkasordító hideget; használja ki a látogatást a történelmi termek alapos bejárására, messze a téli fagytól.",
+                "ro": "Zidurile groase țin gerul afară; profitați de vizită pentru a explora în detaliu sălile istorice, departe de frigul iernii.",
+                "en": "The thick walls keep the biting cold outside; use the visit for a detailed tour of the historical rooms, far from the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria della Valle",
+                "hu": "Chiesa di Santa Maria della Valle",
+                "ro": "Chiesa di Santa Maria della Valle",
+                "en": "Chiesa di Santa Maria della Valle"
+              },
+              "tip_5lang": {
+                "de": "Der goldene Glanz der Altäre wirkt an grauen Wintertagen besonders prachtvoll; wärmen Sie sich hier auf, bevor es wieder nach draußen geht.",
+                "hu": "Az oltárok arany csillogása a szürke téli napokon különösen pompásan hat; melegedjen fel itt egy kicsit, mielőtt újra a havas utcára lépne.",
+                "ro": "Strălucirea aurie a altarelor pare deosebit de magnifică în zilele cenușii de iarnă; încălziți-vă aici înainte de a ieși din nou pe stradă.",
+                "en": "The golden glow of the altars looks especially magnificent on gray winter days; warm up here for a bit before stepping out into the snow again."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio Abate",
+                "hu": "Chiesa di Sant'Antonio Abate",
+                "ro": "Chiesa di Sant'Antonio Abate",
+                "en": "Chiesa di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Wanderung rechtzeitig vor Sonnenuntergang ab, da die Temperaturen bei Dämmerung in Scanno drastisch und schnell sinken.",
+                "hu": "Fejezze be a sétát még jóval napnyugta előtt, mert a hőmérséklet Scannóban a szürkület beálltával drasztikusan és hirtelen csökken.",
+                "ro": "Încheiați plimbarea cu mult înainte de apusul soarelui, deoarece temperatura în Scanno scade drastic și brusc odată cu lăsarea serii.",
+                "en": "Finish your walk well before sunset, as the temperature in Scanno drops drastically and suddenly once dusk begins to fall."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A Scanno fenséges központjából való kerékpározás izgalmas kezdést nyújt a grandiózus paloták között. Délre az északi külvárosok felé halad, ahol történelmi plébániák pettyezik a hegyoldalt. A délutáni tekerés kalandos hegymászást kínál egy eldugott remetelakhoz, ahonnan lenyűgöző kilátás nyílik. A túra egy pihentető esti gurulással zárul a híres szív alakú tó érintetlen partján.",
         "ro": "Mersul pe bicicletă din centrul impunător al orașului Scanno oferă un început antrenant printre palate grandioase. La prânz, treceți spre periferiile nordice, unde parohiile istorice presară dealul. Călătoria de după-amiază include o urcare plină de aventură către un schit izolat cu vederi uimitoare. Turul dumneavoastră se încheie cu o plimbare relaxantă de seară de-a lungul malurilor imaculate ale faimosului lac în formă de inimă.",
         "en": "Cycling out from the stately core of Scanno provides an exhilarating start among grand palaces. By midday, you transition towards the northern outskirts, where historic parishes dot the hillside. The afternoon ride features an adventurous climb to a secluded hermitage with stunning views. Your tour concludes with a relaxing evening roll along the pristine shores of the famous heart-shaped lake."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den rutschigen Pflastersteinen. Der Morgen beginnt mit einer kurzen Fahrt zum Palazzo. Mittags dienen die Kirchen als Stützpunkte, um die Kleidung zu trocknen. Am Nachmittag führt der Weg zum Eremo, wo der Nebel mystisch aufsteigt, bevor der Tag am Seeufer bei stetigem Regen endet.",
+            "hu": "A bringázás esőben óvatosságot igényel a csúszós macskaköveken. A reggel egy rövid tekeréssel indul a Palazzo felé. Délben a templomok szolgálnak bázisként a ruházat szárításához. Délután az Eremo felé vezet az út, ahol a köd misztikusan gomolyog, majd a nap a tóparton zárul az esőben.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită prudență pe pavajul alunecos. Dimineața începe cu o scurtă tură spre Palazzo. La prânz, bisericile servesc drept baze pentru uscarea hainelor. După-amiaza, drumul duce spre Eremo, unde ceața se ridică mistic, înainte ca ziua să se încheie la malul lacului.",
+            "en": "Cycling in the rain requires caution on the slippery cobblestones. The morning starts with a short ride towards the Palazzo. At noon, the churches serve as bases to dry your gear. In the afternoon, the path leads to the Eremo where mist rises mystically, before the day ends at the lakeside in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Di Rienzo",
+                "hu": "Palazzo Di Rienzo",
+                "ro": "Palazzo Di Rienzo",
+                "en": "Palazzo Di Rienzo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher im Trockenen ab; der Palazzo bietet eine großartige Möglichkeit, die erste Regenfront im Inneren zu überbrücken.",
+                "hu": "Parkolja le a bringát biztonságos, száraz helyen; a Palazzo remek lehetőséget nyújt az első esőhullám átvészelésére a falak között.",
+                "ro": "Parcați bicicleta într-un loc sigur și uscat; Palazzo oferă o oportunitate excelentă de a aștepta trecerea primului val de ploaie la interior.",
+                "en": "Park your bike in a safe, dry spot; the Palazzo offers a great opportunity to wait out the first wave of rain inside the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria della Valle",
+                "hu": "Chiesa di Santa Maria della Valle",
+                "ro": "Chiesa di Santa Maria della Valle",
+                "en": "Chiesa di Santa Maria della Valle"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche liegt direkt an der Route und ist perfekt für eine kurze Verschnaufpause im Trockenen, bevor Sie die Fahrt fortsetzen.",
+                "hu": "A templom közvetlenül az útvonal mentén fekszik, így tökéletes egy rövid, száraz pihenőre, mielőtt folytatná a tekerést az esőben.",
+                "ro": "Biserica se află direct pe traseu, fiind perfectă pentru o scurtă pauză uscată înainte de a continua drumul prin ploaie.",
+                "en": "The church is directly along the route, making it perfect for a short dry break before continuing your ride through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den Bremsweg bei nasser Fahrbahn; die Umgebung der Kirche wirkt im Regen sehr melancholisch und friedlich.",
+                "hu": "Ügyeljen a fékútra a vizes úttesten; a templom környéke az esőben rendkívül melankolikus és békés hangulatot áraszt.",
+                "ro": "Atenție la distanța de frânare pe carosabilul umed; zona din jurul bisericii emană o atmosferă melancolică și pașnică în timpul ploii.",
+                "en": "Watch your braking distance on the wet road; the area around the church exudes a very melancholic and peaceful atmosphere in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Eremo di Sant'Egidio",
+                "hu": "Eremo di Sant'Egidio",
+                "ro": "Eremo di Sant'Egidio",
+                "en": "Eremo di Sant'Egidio"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen anstrengend sein, aber die Aussicht auf den nebligen See vom Schutz des Eremo aus ist jede Mühe wert.",
+                "hu": "Az emelkedő esőben fárasztó lehet, de a kilátás a ködös tóra az Eremo védelméből minden fáradságot megér a természet kedvelőinek.",
+                "ro": "Urcarea poate fi obositoare pe ploaie, dar vederea spre lacul cețos din adăpostul Eremo merită orice efort pentru iubitorii de natură.",
+                "en": "The climb can be tiring in the rain, but the view of the misty lake from the shelter of the Eremo is worth every effort for nature lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna del Lago",
+                "hu": "Chiesa della Madonna del Lago",
+                "ro": "Chiesa della Madonna del Lago",
+                "en": "Chiesa della Madonna del Lago"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach oder das Innere, um sich nach der Fahrt zu trocknen; der See sieht bei Regen besonders geheimnisvoll aus.",
+                "hu": "Használja az előtetőt vagy a belső teret a megszáradáshoz a tekerés után; a tó esőben különösen titokzatos és mély látványt nyújt.",
+                "ro": "Folosiți pridvorul sau interiorul pentru a vă usca după cursă; lacul pare deosebit de misterios și profund în timpul ploii.",
+                "en": "Use the porch or the interior to dry off after the ride; the lake looks especially mysterious and deep during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Scanno erfordert Handschuhe und Windschutz. Der Morgen beginnt am Palazzo, wo die Sonne die frostigen Dächer glitzern lässt. Mittags geht es zur Santa Maria, um die Finger aufzuwärmen. Am Nachmittag radeln Sie zum See hinunter, wo die kalte Luft erfrischend wirkt, bevor die frühe Dämmerung gegen 17:00 Uhr zur Rückkehr mahnt.",
+            "hu": "A téli bringázás Scannóban kesztyűt és szélálló ruhát igényel. A reggel a Palazzónál indul, ahol a nap megcsillan a fagyos háztetőkön. Délben a Santa Maria felé vesszük az irányt, hogy felmelegítsük az ujjainkat. Délután a tóhoz tekerünk, ahol a friss, hideg levegő élénkítő, de 17:00-kor már indulni kell vissza.",
+            "ro": "Ciclismul de iarnă în Scanno necesită mănuși și haine rezistente la vânt. Dimineața începe la Palazzo, unde soarele strălucește pe acoperișurile înghețate. La prânz, mergem spre Santa Maria pentru a ne încălzi degetele. După-amiaza pedalăm spre lac, dar apusul devreme de la ora 17:00 ne obligă să ne întoarcem.",
+            "en": "Winter cycling in Scanno requires gloves and windproof clothing. Morning starts at the Palazzo, where the sun glistens on frosty roofs. At noon, head to Santa Maria to warm your fingers. In the afternoon, cycle down to the lake where the fresh, cold air is invigorating, but the early 17:00 sunset signals it's time to head back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Di Rienzo",
+                "hu": "Palazzo Di Rienzo",
+                "ro": "Palazzo Di Rienzo",
+                "en": "Palazzo Di Rienzo"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier, wenn die Luft noch am kältesten ist, und nutzen Sie die Innenräume, um langsam auf Betriebstemperatur zu kommen.",
+                "hu": "Kezdje itt a túrát, amikor a levegő még a leghidegebb, és használja a belső tereket, hogy fokozatosan üzemi hőmérsékletre melegedjen.",
+                "ro": "Începeți turul aici, când aerul este cel mai rece, și folosiți spațiile interioare pentru a vă încălzi treptat înainte de a porni la drum.",
+                "en": "Start your tour here when the air is still coldest, and use the interior spaces to gradually warm up to operating temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria della Valle",
+                "hu": "Chiesa di Santa Maria della Valle",
+                "ro": "Chiesa di Santa Maria della Valle",
+                "en": "Chiesa di Santa Maria della Valle"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft gegen taube Glieder; bewundern Sie die Kunstwerke, während die Wintersonne durch die Fenster bricht.",
+                "hu": "Egy rövid megálló bent segít az elgémberedett végtagokon; csodálja meg a műkincseket, miközben a téli nap áttör az ablakokon.",
+                "ro": "O scurtă oprire în interior ajută la dezmorțirea membrelor; admirați obiectele de artă în timp ce soarele de iarnă pătrunde prin ferestre.",
+                "en": "A short stop inside helps with numb limbs; admire the art treasures while the winter sun breaks through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor vereisten Stellen im Schatten der Kirche; das historische Ambiente wirkt im Winterlicht besonders klar und scharf.",
+                "hu": "Vigyázzon a jeges foltokra a templom árnyékában; a történelmi környezet a téli fényben különösen tisztának és élesnek tűnik.",
+                "ro": "Atenție la porțiunile înghețate la umbra bisericii; ambianța istorică pare deosebit de clară și bine definită în lumina iernii.",
+                "en": "Watch out for icy patches in the shadow of the church; the historical ambiance looks particularly clear and sharp in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Eremo di Sant'Egidio",
+                "hu": "Eremo di Sant'Egidio",
+                "ro": "Eremo di Sant'Egidio",
+                "en": "Eremo di Sant'Egidio"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den See ist im Winter oft glasklar; ziehen Sie sich vor der Abfahrt eine zusätzliche Schicht an, um nicht auszukühlen.",
+                "hu": "A kilátás a tóra télen gyakran kristálytiszta; a lejtő előtt vegyen fel egy plusz réteget, hogy ne fázzon meg a menetszélben.",
+                "ro": "Vederea spre lac este adesea extrem de clară iarna; puneți-vă un strat suplimentar de haine înainte de coborâre pentru a nu răci.",
+                "en": "The view of the lake is often crystal clear in winter; put on an extra layer before the descent to avoid getting chilled by the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna del Lago",
+                "hu": "Chiesa della Madonna del Lago",
+                "ro": "Chiesa della Madonna del Lago",
+                "en": "Chiesa della Madonna del Lago"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt hier und genießen Sie die Stille des Sees, bevor Sie sich vor der frühen Dunkelheit auf den Rückweg machen.",
+                "hu": "Fejezze be itt a tekerést, élvezve a tó téli nyugalmát, mielőtt a korai sötétedés előtt visszaindulna a szállására.",
+                "ro": "Încheiați tura aici, bucurându-vă de liniștea hibernală a lacului, înainte de a porni înapoi înainte de lăsarea întunericului.",
+                "en": "Finish your ride here, enjoying the winter tranquility of the lake, before heading back ahead of the early darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje az utazást a békés déli völgyben, hogy meglátogassa az alpesi csapatok egyedülálló emlékművét. Dél közeledtével parkoljon le a városközpont közelében, és gyalogosan fedezze fel Scanno monumentális építészetét. A délután az északi domboldalak felé viszi, ahol csendesebb szentélyeket találhat. Fejezze be az utazást szürkületkor a csillogó tónál, megcsodálva annak festői vízparti kápolnáját.",
         "ro": "Începeți plimbarea în valea sudică pașnică pentru a vizita memorialul unic al trupelor alpine. Spre prânz, parcați aproape de centrul orașului pentru a explora la pas arhitectura monumentală și structurile religioase. După-amiaza vă poartă spre dealurile nordice pentru a găsi sanctuare mai liniștite. Încheiați călătoria la lăsarea serii lângă lac, admirând capela sa pitorească de pe malul apei.",
         "en": "Start the drive in the peaceful southern valley to visit the unique memorial to alpine troops. As midday approaches, park near the town center to delve into Scanno’s monumental architecture and grand religious structures on foot. The afternoon takes you motoring towards the northern hillsides to find quieter sanctuaries. Finish the journey at dusk by the shimmering lake, admiring its quaint waterside chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Scanno auch bei starkem Regen komfortabel zu erkunden. Der Morgen beginnt an der Chiesa degli Alpini, während die Scheibenwischer den Blick auf die Berge freigeben. Mittags parken Sie nahe der Altstadt für trockene Kirchenbesuche. Der Nachmittag gehört dem Palazzo, bevor der Tag sicher und trocken am Ufer des regnerischen Sees endet.",
+            "hu": "Autóval Scanno még erős esőben is kényelmesen felfedezhető. A reggel a Chiesa degli Alpini-nél indul, miközben az ablaktörlők mögül figyeljük a hegyeket. Délben az óváros közelében parkolva szárazon látogathatjuk a templomokat. A délután a Palazzóé, majd a nap biztonságban és szárazon zárul a tóparton.",
+            "ro": "Cu mașina, Scanno poate fi explorat confortabil chiar și pe ploaie abundentă. Dimineața începe la Chiesa degli Alpini, privind munții prin parbriz. La prânz, parcăm lângă centrul vechi pentru vizite uscate la biserici. După-amiaza aparține Palazzo-ului, iar ziua se încheie în siguranță la malul lacului ploios.",
+            "en": "By car, Scanno is comfortable to explore even in heavy rain. The morning begins at Chiesa degli Alpini, watching the mountains through the wipers. At noon, park near the old town for dry church visits. The afternoon is for the Palazzo, before the day ends safely and dryly on the shores of the rainy lake."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa degli Alpini",
+                "hu": "Chiesa degli Alpini",
+                "ro": "Chiesa degli Alpini",
+                "en": "Chiesa degli Alpini"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz in der Nähe ermöglicht einen schnellen Sprint ins Trockene; genießen Sie die Aussicht auf die wolkenverhangenen Täler.",
+                "hu": "A közeli parkoló lehetővé teszi a gyors befutást a szárazba; élvezze a felhőkbe burkolózó völgyek látványát az épület védelméből.",
+                "ro": "Parcarea din apropiere permite un sprint rapid spre interior; bucurați-vă de vederea văilor învăluite în nori din adăpostul clădirii.",
+                "en": "The nearby parking allows for a quick dash to the dry interior; enjoy the view of the cloud-covered valleys from the building's shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria della Valle",
+                "hu": "Chiesa di Santa Maria della Valle",
+                "ro": "Chiesa di Santa Maria della Valle",
+                "en": "Chiesa di Santa Maria della Valle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die zentralen Parkmöglichkeiten, um diesen prächtigen Bau ohne große Nässe zu erreichen; der Innenraum ist ein perfekter Rückzugsort.",
+                "hu": "Használja a központi parkolókat, hogy nagy elázás nélkül érje el ezt a pompás épületet; a belső tér tökéletes menedék az eső elől.",
+                "ro": "Folosiți parcările centrale pentru a ajunge la această clădire magnifică fără a vă uda prea tare; interiorul este un refugiu perfect.",
+                "en": "Use the central parking options to reach this magnificent building without getting soaked; the interior is a perfect retreat from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Di Rienzo",
+                "hu": "Palazzo Di Rienzo",
+                "ro": "Palazzo Di Rienzo",
+                "en": "Palazzo Di Rienzo"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Dauerregen; parken Sie das Auto und nehmen Sie sich Zeit für die kulturellen Schätze im Inneren des Palazzos.",
+                "hu": "Ideális megálló tartós esőben; parkoljon le az autóval, és szánjon időt a Palazzo belső tereiben rejlő kulturális kincsek felfedezésére.",
+                "ro": "O oprire ideală în caz de ploaie persistentă; parcați mașina și acordați-vă timp pentru comorile culturale din interiorul Palazzo-ului.",
+                "en": "An ideal stop during persistent rain; park the car and take your time for the cultural treasures inside the Palazzo's interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Anfahrt auf schmalen, nassen Straßen; die Kirche bietet einen ruhigen Ort zum Innehalten, während es draußen schüttet.",
+                "hu": "Vigyázzon a megközelítésnél a szűk, vizes utakon; a templom nyugodt helyet kínál az elmélyülésre, miközben odakint szakad az eső.",
+                "ro": "Atenție la condus pe străzile înguste și umede; biserica oferă un loc liniștit pentru reflecție în timp ce afară plouă torențial.",
+                "en": "Be careful when driving on narrow, wet roads; the church offers a peaceful place for reflection while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna del Lago",
+                "hu": "Chiesa della Madonna del Lago",
+                "ro": "Chiesa della Madonna del Lago",
+                "en": "Chiesa della Madonna del Lago"
+              },
+              "tip_5lang": {
+                "de": "Direkt am See gelegen, bietet dieser Ort einen grandiosen Blick aus dem trockenen Auto oder der kleinen Kapelle auf das Wasser.",
+                "hu": "Közvetlenül a tóparton fekszik, így ez a hely nagyszerű kilátást nyújt a vízre akár a száraz autóból, akár a kis kápolna belsejéből.",
+                "ro": "Situat direct pe malul lacului, acest loc oferă o vedere superbă asupra apei, fie din mașina uscată, fie din interiorul micii capele.",
+                "en": "Located directly on the lakeshore, this spot offers a grand view of the water from either the dry car or the small chapel interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten in den Abruzzen erfordern Winterreifen und Vorsicht. Der Morgen startet frostig bei der Chiesa degli Alpini. Mittags bietet die Heizung im Auto wohlige Wärme zwischen den Stopps in der Altstadt. Am Nachmittag führt die Panoramafahrt zum See, bevor die frühe Dunkelheit gegen 17:00 Uhr die Rückfahrt in das beleuchtete Dorf einleitet.",
+            "hu": "A téli autózás az Abruzzókban téli gumit és óvatosságot igényel. A reggel fagyosan indul a Chiesa degli Alpini-nél. Délben az autó fűtése kellemes meleget ad az óvárosi megállók között. Délután a panorámaút a tóhoz vezet, majd a korai, 17:00-s sötétedés már a kivilágított faluban talál minket.",
+            "ro": "Condusul pe timp de iarnă în Abruzzo necesită anvelope de iarnă și prudență. Dimineața începe geros la Chiesa degli Alpini. La prânz, căldura din mașină oferă confort între opririle din centrul vechi. După-amiaza, drumul panoramic duce spre lac, înainte ca întunericul de la ora 17:00 să ne prindă.",
+            "en": "Winter driving in Abruzzo requires winter tires and caution. The morning starts frosty at Chiesa degli Alpini. At noon, the car's heater provides cozy warmth between stops in the old town. In the afternoon, the panoramic drive leads to the lake, before the early 17:00 darkness finds us back in the lit village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa degli Alpini",
+                "hu": "Chiesa degli Alpini",
+                "ro": "Chiesa degli Alpini",
+                "en": "Chiesa degli Alpini"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisglätte auf dem Parkplatz; der Blick auf die schneebedeckten Gipfel ist von hier aus im Winter atemberaubend.",
+                "hu": "Ügyeljen az esetleges jegesedésre a parkolóban; a kilátás a hófödte csúcsokra innen télen egyszerűen lélegzetelállító és tiszta.",
+                "ro": "Atenție la gheața din parcare; vederea spre vârfurile înzăpezite este pur și simplu uluitoare și clară de aici în timpul iernii.",
+                "en": "Watch out for potential ice in the parking lot; the view of the snow-capped peaks from here in winter is simply breathtaking and clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria della Valle",
+                "hu": "Chiesa di Santa Maria della Valle",
+                "ro": "Chiesa di Santa Maria della Valle",
+                "en": "Chiesa di Santa Maria della Valle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zügig und genießen Sie den warmen Glanz der vergoldeten Innenausstattung als Kontrast zur kalten Winterluft draußen.",
+                "hu": "Parkoljon le gyorsan, és élvezze az aranyozott belső tér meleg ragyogását, amely tökéletes kontrasztot alkot a kinti hideg téli levegővel.",
+                "ro": "Parcați rapid și bucurați-vă de strălucirea caldă a interiorului aurit, care oferă un contrast perfect cu aerul rece de iarnă de afară.",
+                "en": "Park quickly and enjoy the warm glow of the gilded interior, which provides a perfect contrast to the cold winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Di Rienzo",
+                "hu": "Palazzo Di Rienzo",
+                "ro": "Palazzo Di Rienzo",
+                "en": "Palazzo Di Rienzo"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um sich die Beine zu vertreten, ohne zu sehr auszukühlen; die massiven Mauern bieten Schutz vor dem Winterwind.",
+                "hu": "Kiváló hely a lábak átmozgatására anélkül, hogy túlságosan lehűlnénk; a masszív falak hatékony védelmet nyújtanak a téli szél ellen.",
+                "ro": "Un loc excelent pentru a vă dezmorți picioarele fără a vă răci prea tare; zidurile masive oferă protecție eficientă împotriva vântului de iarnă.",
+                "en": "An excellent place to stretch your legs without getting too cold; the massive walls provide effective protection against the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Michele Arcangelo",
+                "hu": "Chiesa di San Michele Arcangelo",
+                "ro": "Chiesa di San Michele Arcangelo",
+                "en": "Chiesa di San Michele Arcangelo"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Schnee tückisch sein; die Einsamkeit der Kirche im Winter verleiht dem Ort eine besondere spirituelle Kraft.",
+                "hu": "A szűk bekötőút hóban trükkös lehet; a templom téli magánya különleges spirituális erőt és nyugalmat kölcsönöz ennek a helyszínnek.",
+                "ro": "Drumul îngust de acces poate fi periculos în caz de zăpadă; singurătatea bisericii iarna oferă o forță spirituală și o liniște aparte.",
+                "en": "The narrow access road can be tricky in snow; the church's winter solitude lends a special spiritual power and tranquility to this site."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna del Lago",
+                "hu": "Chiesa della Madonna del Lago",
+                "ro": "Chiesa della Madonna del Lago",
+                "en": "Chiesa della Madonna del Lago"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille des Sees vom warmen Auto aus, bevor Sie vor Einbruch der frühen Dunkelheit sicher zurückfahren.",
+                "hu": "Élvezze a tó téli csendjét a meleg autóból, mielőtt a korai sötétedés beállta előtt biztonságban visszaindulna a szálláshelyére.",
+                "ro": "Bucurați-vă de liniștea hibernală a lacului din mașina caldă, înainte de a porni înapoi în siguranță înainte de lăsarea întunericului.",
+                "en": "Enjoy the winter silence of the lake from the warm car before heading back safely before the early darkness sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

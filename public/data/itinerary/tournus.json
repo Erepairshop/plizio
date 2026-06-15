@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot az ikonikus apátság felfedezésével, átérezve az évszázadok súlyát. Délben hangulatos utcákon át a békés folyóparthoz ér. A délutánt a lenyűgöző Hôtel-Dieu teszi gazdagabbá. Zárja a napot a Sainte-Madeleine templom csodálatos részleteivel.",
         "ro": "Începeți ziua explorând emblematica Abație, simțind greutatea secolelor. La prânz, plimbați-vă pe străzile fermecătoare spre malul liniștit al râului. După-amiaza este îmbogățită de fascinantul Hôtel-Dieu. Încheiați ziua admirând detaliile bisericii Sainte-Madeleine.",
         "en": "Start your day exploring the iconic Abbey, feeling the weight of centuries. Midday brings you through charming streets to the serene riverside. Your afternoon is enriched by the fascinating Hôtel-Dieu and local museums. Conclude the day marveling at Sainte-Madeleine's details."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Tournus lässt sich gut zu Fuß meistern. Morgens bietet die beeindruckende Abtei ein trockenes Dach über dem Kopf. Mittags spazieren Sie mit einem stabilen Regenschirm durch die Gassen und am Flussufer entlang. Den Nachmittag verbringen Sie angenehm trocken in den faszinierenden Räumlichkeiten des lokalen Museums.",
+            "hu": "Egy esős nap Tournus-ban gyalog is könnyedén élvezhető. Reggel az apátság masszív falai nyújtanak száraz menedéket. Délben egy erős esernyővel sétáljon a folyóparton és a történelmi, bár csúszós macskaköves utcákon. A délutánt a múzeum fedett, kényelmes kiállítótereiben töltheti.",
+            "ro": "O zi ploioasă în Tournus poate fi explorată ușor la pas. Dimineața, abația oferă un adăpost perfect și uscat. La prânz, plimbați-vă cu o umbrelă rezistentă pe străduțele istorice și pe malul râului. După-amiaza vă puteți relaxa la adăpost în încăperile fascinante ale muzeului local.",
+            "en": "A rainy day in Tournus is easy to manage on foot. The morning offers excellent shelter in the grand abbey. At noon, stroll the historic streets and riverbanks equipped with a sturdy umbrella. Spend a dry, cozy afternoon exploring the fascinating indoor collections of the local museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abbaye Saint-Philibert",
+                "hu": "Abbaye Saint-Philibert",
+                "ro": "Abbaye Saint-Philibert",
+                "en": "Abbaye Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Die massiven romanischen Gewölbe bieten perfekten Schutz vor dem Regen, sodass Sie die Architektur im Trockenen bewundern können.",
+                "hu": "A masszív román stílusú boltozatok tökéletes menedéket nyújtanak az eső elől, így szárazon csodálhatja meg a történelmi építészetet.",
+                "ro": "Bolțile romanice masive oferă un adăpost perfect împotriva ploii, permițându-vă să admirați arhitectura istorică la loc uscat.",
+                "en": "The massive Romanesque vaults offer perfect shelter from the rain, allowing you to admire the historic architecture in dry comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Eglise Saint-Valérien",
+                "hu": "Eglise Saint-Valérien",
+                "ro": "Eglise Saint-Valérien",
+                "en": "Eglise Saint-Valérien"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus dem Nieselregen in diese malerische Kirche und genießen Sie einen ruhigen, trockenen Moment der Besinnung.",
+                "hu": "Lépjen be a szitáló esőből ebbe a festői templomba, és élvezze a csendes, száraz elmélkedés pillanatait a történelmi falak között.",
+                "ro": "Pășiți din ploaia măruntă în această biserică pitorească pentru a vă bucura de un moment liniștit și uscat de reflecție.",
+                "en": "Step out of the drizzle to discover this quaint church, where the serene interior provides a quiet and dry moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue du Passage",
+                "hu": "Rue du Passage",
+                "ro": "Rue du Passage",
+                "en": "Rue du Passage"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Regenschirm für diese historische Gasse mit und achten Sie auf die rutschigen Pflastersteine bei Nässe.",
+                "hu": "Hozzon magával esernyőt ezen a történelmi utcán, és ügyeljen a nedvesen csúszós macskakövekre séta közben.",
+                "ro": "Luați o umbrelă pentru a explora această stradă istorică și aveți grijă la pietrele cubice alunecoase pe timp de ploaie.",
+                "en": "Bring a sturdy umbrella as you navigate this historic street, and watch your step on the wet, slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Quais de la Saône",
+                "hu": "Quais de la Saône",
+                "ro": "Quais de la Saône",
+                "en": "Quais de la Saône"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am Fluss hat im Regen einen melancholischen Charme; eine gute Regenjacke schützt vor dem feuchten Wind.",
+                "hu": "A folyóparti séta esőben is hangulatos; viseljen jó minőségű esőkabátot, hogy megvédje magát a nedves széltől.",
+                "ro": "O plimbare pe malul râului are un farmec aparte pe ploaie; purtați o haină impermeabilă pentru a vă proteja de vântul umed.",
+                "en": "A walk along the river has a moody charm in the rain; wear a good raincoat to stay comfortable against the damp breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu - Musée Greuze",
+                "hu": "Hôtel-Dieu - Musée Greuze",
+                "ro": "Hôtel-Dieu - Musée Greuze",
+                "en": "Hôtel-Dieu - Musée Greuze"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie vor den Nachmittagsschauern in dieses faszinierende Museum und erkunden Sie die historische Apotheke im Trockenen.",
+                "hu": "Meneküljön a délutáni záporok elől ebbe a lenyűgöző múzeumba, és fedezze fel a történelmi patikát teljesen szárazon.",
+                "ro": "Refugiați-vă de ploile de după-amiază în acest muzeu fascinant, explorând farmacia istorică într-un mediu perfect uscat.",
+                "en": "Escape the afternoon showers inside this fascinating museum, exploring its historic apothecary and art exhibits completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Eglise Sainte-Madeleine",
+                "hu": "Eglise Sainte-Madeleine",
+                "ro": "Eglise Sainte-Madeleine",
+                "en": "Eglise Sainte-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in dieser historischen Kirche und finden Sie Schutz unter dem Dach, während der Regentag ausklingt.",
+                "hu": "Zárja sétáját ebben a történelmi templomban, menedéket találva a tető alatt, miközben az esős nap lassan a végéhez ér.",
+                "ro": "Încheiați-vă plimbarea în această biserică istorică, găsind adăpost în timp ce ziua ploioasă se apropie de sfârșit.",
+                "en": "Conclude your walk in this historic church, finding peace and shelter under its solid roof as the rainy day winds down."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Winterspaziergang in Tournus. Der kühle Morgen in der steinernen Abtei erfordert dicke Kleidung. Mittags packen Sie sich warm ein für die historischen Straßen und den Blick auf den Fluss. Wärmen Sie sich nachmittags im Museum auf, da die Sonne im Winter früh gegen 17:00 Uhr untergeht.",
+            "hu": "Frissítő téli séta Tournus-ban. A kőapátságban hűvös reggel várja, így a meleg réteges öltözködés elengedhetetlen. Délben élvezze a történelmi utcákat és a folyópartot vastag sálban. Délután melegedjen fel a múzeumban, mivel a nap már délután 5 óra körül lenyugszik.",
+            "ro": "O plimbare de iarnă în Tournus. Dimineața răcoroasă din abația de piatră necesită haine groase. La prânz, îmbrăcați-vă călduros pentru a explora străzile istorice și priveliștea râului. Încălziți-vă după-amiaza în muzeu, deoarece soarele apune devreme, în jur de ora 17:00.",
+            "en": "A crisp winter walk in Tournus. The chilly morning in the stone abbey requires thick layers. Wrap up warm for the historic streets and river views at noon. Warm up indoors at the museum in the afternoon, keeping in mind that the sun sets early around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Abbaye Saint-Philibert",
+                "hu": "Abbaye Saint-Philibert",
+                "ro": "Abbaye Saint-Philibert",
+                "en": "Abbaye Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine sind im Winter sehr kalt, tragen Sie also dicke Schichten, während Sie die beeindruckende Krypta erkunden.",
+                "hu": "Az ősi kövek télen nagyon hidegek, ezért viseljen vastag rétegeket, miközben felfedezi a lenyűgöző kriptát és a főhajót.",
+                "ro": "Pietrele antice sunt foarte reci iarna, așa că purtați haine groase în timp ce explorați cripta magnifică și naosul înalt.",
+                "en": "The ancient stones are very cold in winter, so wear thick layers while exploring the magnificent crypt and soaring nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Eglise Saint-Valérien",
+                "hu": "Eglise Saint-Valérien",
+                "ro": "Eglise Saint-Valérien",
+                "en": "Eglise Saint-Valérien"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor dem beißenden Winterwind in dieser charmanten Kirche und bewundern Sie ihre schlichte, historische Schönheit.",
+                "hu": "Keressen menedéket a csípős téli szél elől ebben a bájos templomban, és szánjon időt az egyszerű, történelmi szépségére.",
+                "ro": "Căutați refugiu din calea vântului tăios de iarnă în această biserică fermecătoare, admirând frumusețea sa istorică și simplă.",
+                "en": "Seek refuge from the biting winter wind inside this charming church, taking time to admire its simple, historic beauty."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue du Passage",
+                "hu": "Rue du Passage",
+                "ro": "Rue du Passage",
+                "en": "Rue du Passage"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Gassen sehen im Winterlicht wunderschön aus; wickeln Sie sich einen warmen Schal um, um gemütlich zu bleiben.",
+                "hu": "A történelmi sikátorok gyönyörűek a téli fényben; tekerjen a nyakába egy meleg sálat, hogy komfortosan sétálhasson.",
+                "ro": "Aleile istorice arată superb în lumina iernii; purtați un fular gros și călduros pentru a vă menține confortul în timpul plimbării.",
+                "en": "The historic alleyways look beautiful in the winter light; wrap a warm scarf around your neck to stay cozy during the stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Quais de la Saône",
+                "hu": "Quais de la Saône",
+                "ro": "Quais de la Saône",
+                "en": "Quais de la Saône"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft am Flussufer, aber seien Sie auf kalte Brisen eingestellt, die vom Wasser kommen.",
+                "hu": "Élvezze a friss, tiszta téli levegőt a folyóparton, de készüljön fel a víz felől érkező hideg, metsző fuvallatokra.",
+                "ro": "Bucurați-vă de aerul proaspăt de iarnă pe malul râului, dar fiți pregătiți pentru brizele reci care vin dinspre apă.",
+                "en": "Enjoy the crisp, clear winter air along the riverfront, but be fully prepared for cold, piercing breezes coming off the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu - Musée Greuze",
+                "hu": "Hôtel-Dieu - Musée Greuze",
+                "ro": "Hôtel-Dieu - Musée Greuze",
+                "en": "Hôtel-Dieu - Musée Greuze"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich drinnen auf, während Sie jahrhundertealte medizinische Artefakte erkunden – ein perfekter Rückzugsort vor der Kälte.",
+                "hu": "Melegedjen fel a belső terekben, miközben évszázados orvosi emlékeket fedez fel, ami tökéletes menedék a kinti hideg elől.",
+                "ro": "Încălziți-vă la interior în timp ce explorați artefacte medicale vechi de secole, un refugiu perfect din calea frigului de afară.",
+                "en": "Warm up indoors as you explore the centuries-old medical artifacts and fine arts, a perfect retreat from the cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Eglise Sainte-Madeleine",
+                "hu": "Eglise Sainte-Madeleine",
+                "ro": "Eglise Sainte-Madeleine",
+                "en": "Eglise Sainte-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Da die Wintersonne früh untergeht, bietet das friedliche Innere dieser Kirche einen stimmungsvollen Abschluss Ihres Tages.",
+                "hu": "Mivel a téli nap korán nyugszik, a templom békés belső tere hangulatos és csendes befejezést kínál a sétához.",
+                "ro": "Odată cu apusul devreme al soarelui de iarnă, interiorul liniștit al acestei biserici oferă un final plin de atmosferă zilei.",
+                "en": "With the winter sun setting early, the peaceful interior of this church offers a warm, atmospheric end to your crisp day out."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Tekerjen el a nyugodt Grand Bassinhez a frissítő reggeli kezdéshez, majd irány a hatalmas apátság. A festői Saône mentén tett déli túra összeköti a történelmi megállókat. Délután fedezze fel a Hôtel-Dieu titkait. Zárja utazását a vintage kerékpárok megcsodálásával.",
         "ro": "Pedalați dimineața spre Grand Bassin pentru un început revigorant, apoi îndreptați-vă spre măreața Abație. O plimbare la prânz de-a lungul râului Saône conectează perfect opririle. Petreceți după-amiaza la Hôtel-Dieu. Încheiați călătoria printre biciclete de epocă.",
         "en": "Pedal out to the tranquil Grand Bassin for a refreshing morning start before heading to the grand Abbey. A midday ride along the scenic Saône perfectly bridges your historical stops. Spend the afternoon uncovering the secrets of Hôtel-Dieu. End your journey exploring vintage cycles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tournus im Regen mit dem Rad erfordert Vorsicht. Die morgendliche Fahrt zum Becken verlangt wasserfeste Kleidung. Mittags bieten Abtei und Museum tolle Pausen im Trockenen. Achten Sie nachmittags besonders auf rutschige Radwege am Flussufer.",
+            "hu": "A kerékpározás Tournus-ban esőben is lehetséges megfelelő vízálló felszereléssel. A reggeli tekerés a parkba frissítő, délben pedig az apátság és a múzeum kínál száraz, fedett menedéket. Délután különösen ügyeljen a nedves, csúszós utakra a folyó mentén.",
+            "ro": "Ciclismul pe ploaie în Tournus necesită echipament impermeabil. Plimbarea de dimineață spre parc poate fi umedă, iar la prânz abația și muzeul oferă pauze excelente la interior. După-amiaza, aveți grijă la pistele alunecoase de pe malul râului.",
+            "en": "Biking Tournus in the rain requires good waterproof gear. The morning ride to the basin might be wet, while midday stops at the abbey and museum offer excellent indoor breaks. In the afternoon, watch out for slippery bike paths along the riverfront."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grand Bassin",
+                "hu": "Grand Bassin",
+                "ro": "Grand Bassin",
+                "en": "Grand Bassin"
+              },
+              "tip_5lang": {
+                "de": "Eine wasserdichte Jacke ist hier unerlässlich; genießen Sie die regnerische Atmosphäre des Parks, bevor Sie nach drinnen gehen.",
+                "hu": "Egy vízálló dzseki itt elengedhetetlen; élvezze a park esős, nyugodt hangulatát, mielőtt zárt, fedett terekbe indulna.",
+                "ro": "O jachetă impermeabilă este esențială aici; bucurați-vă de atmosfera ploioasă a parcului înainte de a vă îndrepta spre interior.",
+                "en": "A waterproof jacket is essential here; enjoy the moody, rain-swept atmosphere of the park before heading to indoor attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye Saint-Philibert",
+                "hu": "Abbaye Saint-Philibert",
+                "ro": "Abbaye Saint-Philibert",
+                "en": "Abbaye Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und treten Sie in die trockene, beeindruckende romanische Abtei ein, um dem Regen zu entfliehen.",
+                "hu": "Parkolja le kerékpárját, és lépjen be a száraz, lenyűgöző román stílusú apátságba, hogy kényelmesen elmeneküljön az eső elől.",
+                "ro": "Parcați bicicleta și intrați în abația romanică uscată și impresionantă pentru a scăpa de ploaie și a admira arhitectura.",
+                "en": "Park your bike and step inside the dry, awe-inspiring Romanesque abbey to escape the rain and admire the grand stone pillars."
+              }
+            },
+            {
+              "name": {
+                "de": "Quais de la Saône",
+                "hu": "Quais de la Saône",
+                "ro": "Quais de la Saône",
+                "en": "Quais de la Saône"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Ufer kann bei Nässe sehr rutschig sein; fahren Sie vorsichtig und genießen Sie die neblige Aussicht auf die Saône.",
+                "hu": "A folyóparti kerékpárút nedvesen csúszós lehet, ezért óvatosan tekerjen, miközben élvezi a Saône hangulatos, ködös látványát.",
+                "ro": "Pista de biciclete de pe mal poate fi alunecoasă; mergeți cu grijă în timp ce vă bucurați de priveliștea cețoasă a râului Saône.",
+                "en": "The riverside cycle path can be slippery when wet, so ride carefully while enjoying the atmospheric, misty views of the Saône."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu - Musée Greuze",
+                "hu": "Hôtel-Dieu - Musée Greuze",
+                "ro": "Hôtel-Dieu - Musée Greuze",
+                "en": "Hôtel-Dieu - Musée Greuze"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, langer Zwischenstopp im Trockenen; verbringen Sie Zeit damit, die historischen Krankenstationen zu entdecken.",
+                "hu": "Tökéletes, hosszú beltéri megálló a száradáshoz; töltsön időt a történelmi kórtermek és lenyűgöző művészeti kiállítások felfedezésével.",
+                "ro": "O oprire perfectă la interior pentru a vă usca; petreceți timpul descoperind saloanele istorice ale spitalului și expozițiile.",
+                "en": "A perfect long indoor stop to dry off; spend time discovering the historic hospital wards and impressive art exhibits in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Eglise Sainte-Madeleine",
+                "hu": "Eglise Sainte-Madeleine",
+                "ro": "Eglise Sainte-Madeleine",
+                "en": "Eglise Sainte-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurz Schutz in dieser schönen Kirche und lassen Sie den Regen vorbeiziehen, während Sie das ruhige Innere schätzen.",
+                "hu": "Tartson egy rövid pihenőt ebben a szép templomban, megvárva, amíg alábbhagy az eső a csendes történelmi falak között.",
+                "ro": "Găsiți un adăpost rapid în această biserică frumoasă, lăsând ploaia să treacă în timp ce apreciați interiorul său liniștit.",
+                "en": "Take a quick shelter in this lovely church, letting the rain pass while you appreciate its historic and quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Vélo (Michel Grezaud)",
+                "hu": "Musée du Vélo (Michel Grezaud)",
+                "ro": "Musée du Vélo (Michel Grezaud)",
+                "en": "Musée du Vélo (Michel Grezaud)"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre regnerische Fahrt in diesem fantastischen Fahrradmuseum und bleiben Sie beim Erkunden völlig trocken.",
+                "hu": "Zárja az esős kerékpározást ebben a fantasztikus kerékpármúzeumban, ahol teljesen szárazon merülhet el a kerékpározás történetében.",
+                "ro": "Încheiați-vă plimbarea ploioasă la acest fantastic muzeu al bicicletelor, stând complet uscat în timp ce explorați istoria.",
+                "en": "End your rainy ride at this fantastic bicycle museum, staying completely dry while exploring a century of cycling history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterfahrt. Der frostige Morgen am Becken verlangt dicke Handschuhe, doch das Treten zur Abtei wärmt Sie auf. Am Mittag ist die Flussbrise beißend kalt. Nachmittags bieten die Museen gemütliche Rückzugsorte, bevor die frühe Dämmerung um 17:00 Uhr einsetzt.",
+            "hu": "Frissítő téli kerékpározás. A fagyos reggeli indulásnál vastag kesztyű kell, de az apátságig tartó tekerés felmelegíti. Délben a folyóparti szél csípős lehet, így a meleg rétegek kötelezőek. Délután a múzeumok kellemes menedéket adnak a korai, 17:00 órás sötétedés előtt.",
+            "ro": "O plimbare revigorantă de iarnă. Dimineața geroasă din parc necesită mănuși groase. La prânz, briza râului este tăioasă, așa că îmbrăcați-vă în straturi. După-amiaza, muzeele oferă refugii calde înainte ca întunericul să se lase devreme, în jur de ora 17:00.",
+            "en": "A brisk winter ride. The frosty morning at the basin demands thick gloves, but pedaling to the abbey warms you up. Midday river breezes are biting, so warm layers are key. Afternoon museums offer cozy retreats before the early sunset around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grand Bassin",
+                "hu": "Grand Bassin",
+                "ro": "Grand Bassin",
+                "en": "Grand Bassin"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenluft ist eisig, tragen Sie also Thermo-Radhandschuhe, um Ihre Hände warm zu halten, während Sie die frostige Landschaft genießen.",
+                "hu": "A reggeli levegő fagyos, ezért viseljen thermo kerékpáros kesztyűt, hogy melegen tartsa a kezét a zúzmarás táj élvezete közben.",
+                "ro": "Aerul dimineții este rece, așa că purtați mănuși termice de ciclism pentru a vă menține mâinile calde admirând peisajul înghețat.",
+                "en": "The morning air is crisp and cold, so wear thermal cycling gloves to keep your hands warm while enjoying the frosty landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye Saint-Philibert",
+                "hu": "Abbaye Saint-Philibert",
+                "ro": "Abbaye Saint-Philibert",
+                "en": "Abbaye Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und erkunden Sie das majestätische, aber kühle Innere der Abtei; Thermoschichten halten Sie hier angenehm warm.",
+                "hu": "Parkolja le a bringát, és fedezze fel az apátság fenséges, de hűvös belső terét; a meleg öltözet itt is nagyon hasznos lesz.",
+                "ro": "Parcați bicicleta și explorați interiorul maiestuos, dar răcoros al abației; straturile termice vă vor menține confortul aici.",
+                "en": "Park the bike and explore the majestic but chilly stone interior of the abbey; thermal layers will keep you comfortable here."
+              }
+            },
+            {
+              "name": {
+                "de": "Quais de la Saône",
+                "hu": "Quais de la Saône",
+                "ro": "Quais de la Saône",
+                "en": "Quais de la Saône"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind am Fluss kann schneidend sein, also schließen Sie Ihre Windjacke und genießen Sie den klaren Blick auf das Wasser.",
+                "hu": "A téli szél a folyó mentén metsző lehet, ezért húzza fel a széldzsekijét, és élvezze a vízre nyíló kristálytiszta kilátást.",
+                "ro": "Vânturile de iarnă de-a lungul râului pot fi aspre, așa că închideți geaca de vânt și bucurați-vă de priveliștile clare ale apei.",
+                "en": "The winter winds along the river can be piercing, so zip up your windbreaker and enjoy the beautiful, clear views of the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu - Musée Greuze",
+                "hu": "Hôtel-Dieu - Musée Greuze",
+                "ro": "Hôtel-Dieu - Musée Greuze",
+                "en": "Hôtel-Dieu - Musée Greuze"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine lange Pause, um Ihre frierenden Zehen aufzuwärmen, und erkunden Sie die Mischung aus Medizin- und Kunstgeschichte.",
+                "hu": "Tartson egy hosszú pihenőt, hogy felmelegítse fagyos lábujjait, miközben az orvostörténet és a művészet keverékét tanulmányozza.",
+                "ro": "Luați o pauză lungă pentru a vă încălzi degetele înghețate în interior, explorând amestecul de istorie a medicinei și artă.",
+                "en": "Take a long break to warm your frozen toes indoors, exploring the fascinating blend of medicine and art history in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Eglise Sainte-Madeleine",
+                "hu": "Eglise Sainte-Madeleine",
+                "ro": "Eglise Sainte-Madeleine",
+                "en": "Eglise Sainte-Madeleine"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um sich die Beine zu vertreten und in der ruhigen, besinnlichen Atmosphäre dieser Kirche etwas aufzuwärmen.",
+                "hu": "Egy gyors megálló, hogy kinyújtóztassa a lábait és kissé felmelegedjen e bájos templom csendes, elmélkedő atmoszférájában.",
+                "ro": "O oprire rapidă pentru a vă întinde picioarele și a vă încălzi ușor în atmosfera liniștită și reflexivă a acestei biserici.",
+                "en": "A quick stop to stretch your legs and warm up slightly in the quiet, reflective atmosphere of this charming old church."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Vélo (Michel Grezaud)",
+                "hu": "Musée du Vélo (Michel Grezaud)",
+                "ro": "Musée du Vélo (Michel Grezaud)",
+                "en": "Musée du Vélo (Michel Grezaud)"
+              },
+              "tip_5lang": {
+                "de": "Wenn der Winternachmittag dunkel und kalt wird, ist dieses Fahrradmuseum der perfekte Ort, um den Tag gemütlich ausklingen zu lassen.",
+                "hu": "Ahogy a téli délután egyre sötétebb és hidegebb lesz, ez a beltéri kerékpármúzeum tökéletes, fűtött hely a nap lezárásához.",
+                "ro": "Pe măsură ce după-amiaza de iarnă devine întunecată și rece, acest muzeu la interior este locul perfect pentru a încheia ziua.",
+                "en": "As the winter afternoon grows dark and cold, this indoor bicycle museum is the perfect heated place to end your day's ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Vessen egy pillantást a kerékpározás történetére, majd töltsön egy családbarát délelőttöt a játszótéren. Délben parkoljon a Hôtel-Dieu közelében, hogy megismerje az orvosi múltat. Délután sétáljon az apátsághoz vezető régi utcákon. Zárja a napot a békés Grand Bassinnél.",
         "ro": "Conduceți spre istoria ciclismului la muzeu, urmat de o dimineață în familie la locul de joacă. La prânz, parcați lângă Hôtel-Dieu pentru a explora trecutul medical. Petreceți după-amiaza pe străzile vechi spre Abație. Încheiați ziua relaxant la Grand Bassin.",
         "en": "Drive straight into cycling history at the museum, followed by a family-friendly morning at the playground. For midday, park near Hôtel-Dieu to dive into the town's medical past. Spend your afternoon wandering the old streets up to the Abbey. Wrap up your day at the peaceful Grand Bassin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tournus mit dem Auto ist ideal an Regentagen. Vom Fahrradmuseum fahren Sie bequem zum Spielplatz und dann zum Krankenhausmuseum. Mittags reichen kurze Sprints mit dem Regenschirm zwischen den historischen Indoor-Zielen. Nachmittags bleiben Sie in der großen Abtei bestens vor Schauern geschützt.",
+            "hu": "Tournus autós felfedezése ideális a csapadékos napokon. A kerékpármúzeumtól kényelmesen gurulhat át az ekhós múzeumokig. Délben az esernyő használatával gyorsan mozoghat a fedett történelmi helyszínek között. A délutánt az apátság grandiózus, száraz tereiben töltheti esőmentesen.",
+            "ro": "Explorarea orașului Tournus cu mașina este ideală în zilele ploioase. De la muzeul de biciclete conduceți confortabil spre atracțiile interioare. La prânz, sprinturile scurte cu umbrela vă mențin uscat între opriri. După-amiaza, abația masivă vă oferă un adăpost excelent împotriva ploii.",
+            "en": "Exploring Tournus by car is ideal for rainy days. Drive comfortably from the bicycle museum to the hospital museum. Midday requires only short dashes with an umbrella between warm, historic indoor sites. In the afternoon, the massive abbey keeps you perfectly sheltered from any showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée du Vélo (Michel Grezaud)",
+                "hu": "Musée du Vélo (Michel Grezaud)",
+                "ro": "Musée du Vélo (Michel Grezaud)",
+                "en": "Musée du Vélo (Michel Grezaud)"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Tag regengeschützt und tauchen Sie ein in die faszinierende Sammlung historischer Fahrräder im Trockenen.",
+                "hu": "Kezdje a napot az esőtől teljesen védve, és merüljön el a régi kerékpárok lenyűgöző gyűjteményében ebben a száraz múzeumban.",
+                "ro": "Începeți-vă ziua complet protejat de ploaie, descoperind colecția fascinantă de biciclete de epocă în acest muzeu uscat.",
+                "en": "Start your day completely sheltered from the rain, diving into the fascinating collection of vintage bicycles in this dry museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeux du stade du Pas Fleury",
+                "hu": "Aire de jeux du stade du Pas Fleury",
+                "ro": "Aire de jeux du stade du Pas Fleury",
+                "en": "Aire de jeux du stade du Pas Fleury"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dies eher ein kurzer szenischer Stopp; halten Sie einen großen Schirm bereit, falls die Kinder kurz raus wollen.",
+                "hu": "Szakadó esőben ez csak egy gyors megálló; tartson kéznél egy nagy esernyőt, ha a gyerekek ragaszkodnak egy kis friss levegőhöz.",
+                "ro": "Dacă plouă tare, aceasta poate fi o scurtă oprire scenică; aveți o umbrelă mare la îndemână dacă cei mici doresc o scurtă ieșire.",
+                "en": "If the rain is heavy, this might be a quick scenic stop; keep a large umbrella handy if the kids insist on a quick run around."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu - Musée Greuze",
+                "hu": "Hôtel-Dieu - Musée Greuze",
+                "ro": "Hôtel-Dieu - Musée Greuze",
+                "en": "Hôtel-Dieu - Musée Greuze"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und entfliehen Sie den Schauern, um die historische Apotheke in völligem Komfort zu erkunden.",
+                "hu": "Parkoljon a közelben, és meneküljön a záporok elől, hogy teljes kényelemben fedezze fel a lenyűgöző történelmi patikát.",
+                "ro": "Parcați în apropiere și scăpați de ploi pentru a explora farmacia istorică uimitoare și colecțiile de artă în confort total.",
+                "en": "Park nearby and escape the showers to explore the stunning historic apothecary and art collections in complete comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue du Passage",
+                "hu": "Rue du Passage",
+                "ro": "Rue du Passage",
+                "en": "Rue du Passage"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang durch diese Gasse erfordert einen guten Schirm; achten Sie auf die nassen, rutschigen Pflastersteine.",
+                "hu": "A rövid séta ezen a történelmi utcán jó esernyőt igényel; ügyeljen a lépéseire a nedves, csúszós macskaköveken.",
+                "ro": "O scurtă plimbare pe această stradă istorică necesită o umbrelă bună; aveți grijă la pietrele cubice umede și alunecoase.",
+                "en": "A quick stroll down this historic street requires a good umbrella; watch your step on the wet, slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye Saint-Philibert",
+                "hu": "Abbaye Saint-Philibert",
+                "ro": "Abbaye Saint-Philibert",
+                "en": "Abbaye Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Das riesige Innere dieses romanischen Meisterwerks bietet eine majestätische, trockene Zuflucht vor dem Dauerregen draußen.",
+                "hu": "Ennek a román stílusú remekműnek a hatalmas belső tere fenséges, száraz menedéket nyújt a kinti tartós délutáni eső elől.",
+                "ro": "Interiorul vast al acestei capodopere romanice oferă un refugiu maiestuos și uscat împotriva ploii persistente de afară.",
+                "en": "The vast interior of this Romanesque masterpiece offers a majestic, dry refuge from the persistent afternoon rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Bassin",
+                "hu": "Grand Bassin",
+                "ro": "Grand Bassin",
+                "en": "Grand Bassin"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das verregnete Wasser gemütlich aus dem Auto oder steigen Sie mit wasserfesten Schuhen kurz für frische Luft aus.",
+                "hu": "Nézze az eső áztatta vizet a meleg autóból, vagy lépjen ki egy pillanatra vízálló cipőben egy kis friss levegőért.",
+                "ro": "Priviți apele picurate de ploaie din confortul mașinii sau ieșiți scurt cu cizme impermeabile pentru o gură de aer proaspăt.",
+                "en": "View the rain-dappled waters mostly from the comfort of your car, or step out briefly with waterproof boots for fresh air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine angenehme Winterfahrt durch Tournus. Starten Sie im beheizten Fahrradmuseum. Mittags locken klare, kalte Spaziergänge am Krankenhaus und in den historischen Gassen. Beenden Sie den Tag bei der Abtei und dem Becken, bevor um 17:00 Uhr die frühe Winterdämmerung hereinbricht.",
+            "hu": "Kényelmes téli autózás Tournus-ban. Kezdje a napot a fűtött kerékpármúzeumban. Délben tegyen frissítő sétákat a kórházmúzeum és a történelmi utcák környékén. Zárja a napot az apátságnál és a parknál, mielőtt a korai, délután 5 órás téli szürkület beállna.",
+            "ro": "O plimbare confortabilă cu mașina iarna. Începeți dimineața în muzeul încălzit al bicicletelor. La prânz, plimbările scurte în aerul rece sunt revigorante. Încheiați ziua la abație și parc înainte de lăsarea întunericului devreme, în jur de ora 17:00.",
+            "en": "A comfortable winter drive around Tournus. Start warm at the bicycle museum. Midday offers crisp walks near the hospital and historic streets. End the day at the grand abbey and basin before the early winter twilight descends around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée du Vélo (Michel Grezaud)",
+                "hu": "Musée du Vélo (Michel Grezaud)",
+                "ro": "Musée du Vélo (Michel Grezaud)",
+                "en": "Musée du Vélo (Michel Grezaud)"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger beheizter Ort für den Wintermorgen, um die Radsportgeschichte zu erkunden, ohne in die frühe Kälte zu müssen.",
+                "hu": "Kiváló fűtött helyszín a téli reggel indításához, ahol a kinti fagyok nélkül fedezheti fel a kerékpározás gazdag történetét.",
+                "ro": "Un loc încălzit excelent pentru a începe dimineața de iarnă, explorând istoria ciclismului fără a înfrunta frigul de afară.",
+                "en": "A great heated spot to start your winter morning, exploring the rich history of cycling without braving the early cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de jeux du stade du Pas Fleury",
+                "hu": "Aire de jeux du stade du Pas Fleury",
+                "ro": "Aire de jeux du stade du Pas Fleury",
+                "en": "Aire de jeux du stade du Pas Fleury"
+              },
+              "tip_5lang": {
+                "de": "Die Spielgeräte können frostig sein, packen Sie die Kinder also warm in Mäntel und Mützen für eine frische Vormittagsrunde.",
+                "hu": "A játszótéri eszközök déresek lehetnek, ezért öltöztesse a gyerekeket meleg kabátba és sapkába egy élénkítő délelőtti játékhoz.",
+                "ro": "Echipamentele de joacă pot fi înghețate, așa că îmbrăcați copiii bine cu paltoane și căciuli pentru o sesiune rapidă de joacă.",
+                "en": "The playground equipment can be frosty, so bundle the kids up in warm coats and hats for a brisk mid-morning play session."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel-Dieu - Musée Greuze",
+                "hu": "Hôtel-Dieu - Musée Greuze",
+                "ro": "Hôtel-Dieu - Musée Greuze",
+                "en": "Hôtel-Dieu - Musée Greuze"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre, während Sie fernab der Winterkälte Medizin- und Kunstgeschichte entdecken.",
+                "hu": "Élvezze a hangulatos beltéri atmoszférát, miközben az évszázados orvosi történelmet és a képzőművészetet csodálja a téli hideg elől védve.",
+                "ro": "Bucurați-vă de atmosfera confortabilă de la interior în timp ce descoperiți istoria medicală și arta, departe de frigul iernii.",
+                "en": "Enjoy the cozy indoor atmosphere while discovering centuries of medical history and fine art away from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Rue du Passage",
+                "hu": "Rue du Passage",
+                "ro": "Rue du Passage",
+                "en": "Rue du Passage"
+              },
+              "tip_5lang": {
+                "de": "Die engen Gassen fangen die kalte Winterluft ein, behalten Sie also Ihren Schal um, während Sie die Architektur bewundern.",
+                "hu": "A szűk utcák megrekesztik a hideg téli levegőt, így tartsa szorosan magán a sálat a gyönyörű régi építészet megcsodálása közben.",
+                "ro": "Străzile înguste captează aerul rece de iarnă, așa că țineți fularul strâns în timp ce admirați arhitectura veche frumos conservată.",
+                "en": "The narrow streets trap the cold winter air, so keep your scarf tight while admiring the beautifully preserved old architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye Saint-Philibert",
+                "hu": "Abbaye Saint-Philibert",
+                "ro": "Abbaye Saint-Philibert",
+                "en": "Abbaye Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steinmauern speichern die Winterkälte, behalten Sie also Ihren Wintermantel an, während Sie die Bögen bestaunen.",
+                "hu": "Az ősi kőfalak megtartják a téli hideget, így mindenképpen tartsa magán a télikabátot, miközben a lenyűgöző boltíveket csodálja.",
+                "ro": "Vechile ziduri de piatră mențin frigul iernii, așa că păstrați haina de iarnă pe dumneavoastră în timp ce admirați arcadele.",
+                "en": "The ancient stone walls hold the winter cold, so keep your winter coat on as you marvel at the stunning Romanesque arches."
+              }
+            },
+            {
+              "name": {
+                "de": "Grand Bassin",
+                "hu": "Grand Bassin",
+                "ro": "Grand Bassin",
+                "en": "Grand Bassin"
+              },
+              "tip_5lang": {
+                "de": "Der frühe Wintersonnenuntergang um 17:00 Uhr taucht das Becken in goldenes Licht – ideal für einen kurzen, frischen Abendspaziergang.",
+                "hu": "A délután 5 órai korai naplemente gyönyörű aranyfénybe öltözteti a vizet, ami tökéletes hátteret ad egy rövid, frissítő esti sétának.",
+                "ro": "Apusul devreme de iarnă în jur de 17:00 aruncă o lumină aurie peste bazin, perfect pentru o scurtă și proaspătă plimbare de seară.",
+                "en": "The early winter sunset around 5:00 PM casts a beautiful golden light over the basin, perfect for a short, crisp evening stroll."
+              }
+            }
+          ]
+        }
       }
     }
   }

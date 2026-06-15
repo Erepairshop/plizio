@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a nyüzsgő északi határon, az ikonikus táblánál, amely Thaiföld szélét jelzi. Délben mássza meg a Doi Wao lejtőit, ahol a hegytetőn álló templomok és az üveg skywalk lélegzetelállító panorámát nyújtanak. Délután fedezze fel a Tham Pha Chom békés meditációs barlangjait a folyó mellett. Este a helyi szentélyeknél pihenve elmélkedhet a thai és a burmai kultúrák harmonikus keveredésén.",
         "ro": "Începeți dimineața la granița nordică plină de viață, apropiindu-vă de markerul iconic ce definește marginea Thailandei. La amiază urcați pe pantele Doi Wao, unde templele și platformele de sticlă oferă panorame uluitoare. După-amiaza, descoperiți peșterile de meditație din Tham Pha Chom de-a lungul râului. Încheiați seara la altarele locale, reflectând la amestecul armonios de culturi thailandeze și birmaneze.",
         "en": "Begin your morning at the bustling northern border, stepping up to the iconic marker that defines Thailand's edge. Midday takes you up the slopes of Doi Wao, where hilltop temples and transparent skywalks offer breathtaking dual-country panoramas. In the afternoon, discover the serene meditation caves of Tham Pha Chom alongside the gentle river. Conclude your evening at local shrines, reflecting on the harmonious blend of Thai and Burmese cultures."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem nebligen Nieselregen an der Grenze. Mittags suchen wir Schutz unter den verzierten Dächern des Doi Wao Tempels vor dem Tropenregen. Am Nachmittag bietet der Skywalk dramatische Ausblicke auf die Wolken über Myanmar, aber Vorsicht auf dem nassen Glas. Der Abend endet im Höhlentempel, dessen Kalksteinwände ein natürliches, trockenes Heiligtum bieten.",
+            "hu": "Reggeli pára a határon, az északi pont misztikus az esőben. Délben a Doi Wao templom fedett részein pihenünk a zápor elől. Délután a Skywalk felett gomolygó felhőket figyeljük, óvatosan a csúszós üvegen. Este a Tham Pha Chom barlangja nyújt természetes menedéket a trópusi eső elől.",
+            "ro": "Dimineața începe cu o burniță cețoasă la graniță. La prânz, căutați adăpost sub acoperișurile ornate ale templului Doi Wao în timp ce ploaia tropicală se intensifică. După-amiaza, Skywalk oferă vederi dramatice asupra norilor de deasupra Myanmarului, dar atenție pe sticla umedă. Seara se încheie la templul din peșteră, unde pereții de calcar oferă un sanctuar natural.",
+            "en": "Morning starts with a misty drizzle at the border; the northernmost sign looks atmospheric. At noon, seek shelter under the ornate roofs of Doi Wao temple as the tropical rain intensifies. In the afternoon, the Skywalk offers dramatic views of clouds over Myanmar, but watch your step on the wet glass. Evening ends at the cave temple, where the limestone walls provide a natural, dry sanctuary."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nördlichster Punkt Thailands (Schild)",
+                "hu": "Thaiföld legészakibb pontját jelző tábla",
+                "ro": "Semnul celui mai nordic punct din Thailanda",
+                "en": "Northernmost point in Thailand sign"
+              },
+              "tip_5lang": {
+                "de": "Das Schild ist auch bei Regen beliebt, aber achten Sie auf Pfützen und halten Sie Ihre Kamera unter einem Regenschirm trocken.",
+                "hu": "A tábla ilyenkor is népszerű, de vigyázz a tócsákra és tartsd szárazon a fényképezőt egy esernyő alatt.",
+                "ro": "Semnul este popular și pe ploaie, dar aveți grijă la bălți și păstrați camera uscată sub o umbrelă.",
+                "en": "The sign is popular even in rain, but watch out for puddles and keep your camera dry under an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phra That Doi Wao Tempel",
+                "hu": "Wat Phra That Doi Wao templom",
+                "ro": "Templul Wat Phra That Doi Wao",
+                "en": "Wat Phra That Doi Wao"
+              },
+              "tip_5lang": {
+                "de": "Die steilen Stufen sind bei Regen rutschig; nutzen Sie beim Aufstieg zum Tempel unbedingt die Handläufe.",
+                "hu": "A meredek lépcsők vizesen csúsznak, használd a korlátot a templom megközelítésekor.",
+                "ro": "Treptele abrupte sunt alunecoase când plouă; folosiți balustradele pentru a urca în siguranță la templu.",
+                "en": "The steep stairs are slippery when wet; be sure to use the handrails when climbing up to the temple."
+              }
+            },
+            {
+              "name": {
+                "de": "Skywalk (50 Baht Eintritt)",
+                "hu": "Skywalk (50 baht belépő)",
+                "ro": "Skywalk (intrare 50 bahți)",
+                "en": "Skywalk (50B entry)"
+              },
+              "tip_5lang": {
+                "de": "Die Glasoberfläche kann bei Nässe glatt sein, aber der Blick auf den Nebel über Myanmar ist unvergesslich.",
+                "hu": "Az üvegfelület síkos lehet az esőben, de a pára felett látni Burmát felejthetetlen élmény.",
+                "ro": "Suprafața de sticlă poate fi alunecoasă, dar vederea ceții peste Myanmar este de neuitat.",
+                "en": "The glass surface can be slick when wet, but the view of the mist over Myanmar is unforgettable."
+              }
+            },
+            {
+              "name": {
+                "de": "Skorpionberg (Doi Wao)",
+                "hu": "Skorpió-hegy (Doi Wao)",
+                "ro": "Muntele Scorpionului (Doi Wao)",
+                "en": "Scorpion Mountain (Doi Wao)"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade um den Skorpion können schlammig sein; tragen Sie festes Schuhwerk und achten Sie auf Ihren Tritt.",
+                "hu": "A skorpió körüli ösvények sárga agyagosak és csúszósak lehetnek, vízálló bakancs ajánlott.",
+                "ro": "Potecile din jurul scorpionului pot fi noroioase; purtați încălțăminte aderentă și mergeți cu atenție.",
+                "en": "The paths around the scorpion can be muddy; wear sturdy shoes and watch your step on the slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Tham Pha Chom Tempel",
+                "hu": "Tham Pha Chom templom",
+                "ro": "Templul Tham Pha Chom",
+                "en": "Tham Pha Chom Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet einen perfekten und trockenen Zufluchtsort vor plötzlichen tropischen Regengüssen.",
+                "hu": "A barlang mélye tökéletes és száraz rejtekhely a hirtelen lezúduló trópusi eső elől.",
+                "ro": "Peștera oferă un adăpost perfect și uscat împotriva averselor tropicale bruște.",
+                "en": "The cave provides a perfect and dry sanctuary from sudden heavy tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Por Tham Kob Schrein",
+                "hu": "Chao Por Tham Kob szentély",
+                "ro": "Altarul Chao Por Tham Kob",
+                "en": "Chao Por Tham Kob Shrine"
+              },
+              "tip_5lang": {
+                "de": "Der Bereich um den Schrein ist größtenteils überdacht, ideal um das Ende des abendlichen Monsuns abzuwarten.",
+                "hu": "A szentély környéke többnyire fedett, ideális hely kivárni az esti monszun végét.",
+                "ro": "Zona din jurul altarului este în mare parte acoperită, fiind ideală pentru a aștepta oprirea ploii.",
+                "en": "The shrine area is mostly covered, making it an ideal spot to wait out the end of the evening monsoon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frische Morgenbrise begrüßt Sie an der Grenze. Mittags ist die Wintersonne mild, was die Tempeltreppen zu einem angenehmen Aufstieg macht. Die Aussicht am Nachmittag vom Skywalk ist dank der geringen Luftfeuchtigkeit kristallklar. Nach einem frühen Sonnenuntergang um 17:00 Uhr sinkt die Temperatur an der Skorpionstatue schnell.",
+            "hu": "Hűvös reggeli szél a határon, érdemes rétegesen öltözni. Délben kellemes a napsütés a templomlépcsőkön, nincs hőség. Délután a Skywalkról tiszta a kilátás Burmába a száraz levegőnek köszönhetően. Korai naplemente után a skorpió szobra körül gyorsan lehűl a levegő.",
+            "ro": "O briză răcoroasă de dimineață vă întâmpină la graniță. La prânz, soarele de iarnă este blând, făcând urcarea scărilor templului plăcută. Vederea de după-amiază de pe Skywalk este extrem de clară datorită umidității scăzute. După un apus devreme la ora 17:00, temperatura scade rapid în jurul statuii.",
+            "en": "A crisp morning breeze greets you at the border; layering is essential for the chilly start. By noon, the winter sun is mild, making the temple stairs a pleasant climb without the heat. Afternoon views from the Skywalk are crystal clear thanks to the low humidity. After an early sunset at 17:00, the temperature drops quickly around the scorpion statue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nördlichster Punkt Thailands (Schild)",
+                "hu": "Thaiföld legészakibb pontját jelző tábla",
+                "ro": "Semnul celui mai nordic punct din Thailanda",
+                "en": "Northernmost point in Thailand sign"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht tolle Fotos; bringen Sie für die morgendliche Brise eine leichte Jacke mit.",
+                "hu": "A tiszta téli levegőben remek fotók készülhetnek a határról; reggel kell egy vékony kabát.",
+                "ro": "Aerul clar de iarnă permite fotografii grozave; aduceți o jachetă ușoară pentru briza dimineții.",
+                "en": "The clear winter air allows for great photos; bring a light jacket for the refreshing morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phra That Doi Wao Tempel",
+                "hu": "Wat Phra That Doi Wao templom",
+                "ro": "Templul Wat Phra That Doi Wao",
+                "en": "Wat Phra That Doi Wao"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das kühle Wetter beim Treppensteigen; im Winter ist die Sicht auf das Tal am schärfsten.",
+                "hu": "Élvezd a hűvös időt a lépcsőzés közben; ilyenkor a legélesebb a kilátás a völgyre.",
+                "ro": "Bucurați-vă de vremea răcoroasă în timp ce urcați treptele; vederea spre vale este cea mai clară iarna.",
+                "en": "Enjoy the cool weather while climbing the stairs; the view of the valley is sharpest during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Skywalk (50 Baht Eintritt)",
+                "hu": "Skywalk (50 baht belépő)",
+                "ro": "Skywalk (intrare 50 bahți)",
+                "en": "Skywalk (50B entry)"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie vor 17:00 Uhr zum Skywalk, da es im Winter früher dunkel wird und die Temperaturen sinken.",
+                "hu": "Menj ki a skywalkra 17 óra előtt, mert télen hamarabb sötétedik és hűvösebb lesz.",
+                "ro": "Mergeți pe skywalk înainte de ora 17:00, deoarece iarna se întunecă mai devreme și devine mai răcoare.",
+                "en": "Visit the skywalk before 17:00, as it gets dark earlier in winter and the temperature drops."
+              }
+            },
+            {
+              "name": {
+                "de": "Skorpionberg (Doi Wao)",
+                "hu": "Skorpió-hegy (Doi Wao)",
+                "ro": "Muntele Scorpionului (Doi Wao)",
+                "en": "Scorpion Mountain (Doi Wao)"
+              },
+              "tip_5lang": {
+                "de": "Der Spaziergang zur Skorpionstatue ist ohne die Sommerhitze angenehm; achten Sie auf die klare Bergsilhouette.",
+                "hu": "A skorpió szobra melletti séta kellemes a szúró napsütés nélkül; nézd a hegyek sziluettjét.",
+                "ro": "Plimbarea la statuia scorpionului este plăcută fără căldura verii; observați silueta clară a munților.",
+                "en": "The walk to the scorpion statue is pleasant without the summer heat; notice the clear mountain silhouette."
+              }
+            },
+            {
+              "name": {
+                "de": "Tham Pha Chom Tempel",
+                "hu": "Tham Pha Chom templom",
+                "ro": "Templul Tham Pha Chom",
+                "en": "Tham Pha Chom Temple"
+              },
+              "tip_5lang": {
+                "de": "Das Klostergelände ist sehr friedlich; die frische Bergluft macht die Erkundung viel angenehmer.",
+                "hu": "A kolostor kertje ilyenkor a legnyugodtabb; a friss hegyi levegő miatt könnyebb a túra.",
+                "ro": "Grădina mănăstirii este foarte liniștită; aerul proaspăt de munte face explorarea mult mai plăcută.",
+                "en": "The monastery grounds are very peaceful; the fresh mountain air makes the exploration much more enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Por Tham Kob Schrein",
+                "hu": "Chao Por Tham Kob szentély",
+                "ro": "Altarul Chao Por Tham Kob",
+                "en": "Chao Por Tham Kob Shrine"
+              },
+              "tip_5lang": {
+                "de": "Durch den frühen Sonnenuntergang erstrahlen die Lichter des Schreins schon um 17 Uhr in mystischer Atmosphäre.",
+                "hu": "A korai sötétedés miatt a szentély fényei már ötkor meleg, misztikus hangulatot árasztanak.",
+                "ro": "Datorită apusului devreme, luminile altarului creează o atmosferă mistică încă de la ora 17:00.",
+                "en": "Due to the early sunset, the shrine's lights create a warm, mystical atmosphere as early as 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Reggel induljon útnak két keréken, hogy felfedezze a határ menti spirituális helyeket a színes helyi szentélyektől kezdve. Délben az útja nyüzsgő templomok mellett vezet a Tea Oil Center buja kertjei felé egy frissítő pihenőre. Délután a figyelem a zöldellő, csendes külvárosban megbúvó ősi sztúpák felé fordul. Az este a visszautazással zárul, élvezve a hűsítő szellőt és a fenséges műemlékek látványát.",
         "ro": "Porniți cu bicicleta dimineața pentru a descoperi locurile spirituale de lângă graniță, începând cu altare colorate. La amiază, călătoria vă duce pe lângă temple vibrante spre grădinile luxuriante ale Centrului de Ulei de Ceai. După-amiaza se concentrează pe stupe antice ascunse în verdeața de la periferia liniștită a orașului. Seara se încheie pedalând înapoi, bucurându-vă de briza răcoroasă și de priveliștile monumentale.",
         "en": "Pedal out in the morning to uncover the spiritual spots near the border, beginning with colorful community shrines. By midday, your ride takes you past vibrant temples towards the lush gardens of the Tea Oil Development Center for a refreshing break. The afternoon shifts focus to ancient stupas hidden amidst the greenery on the town's quieter outskirts. Your evening winds down as you cycle back, enjoying the cooling breeze and majestic monument views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren durch die Pfützen von Mae Sai erfordert heute Morgen erhöhte Aufmerksamkeit auf rutschigen Straßen. Mittags bietet das Tea Oil Center die Chance, im Trockenen die Regenschauer von der Veranda aus zu beobachten. Die Tempelbesuche am Nachmittag sind erfrischend, wobei die weißen Chedis vor dem grauen Himmel leuchten. Kehren Sie vor den schwersten Güssen zurück.",
+            "hu": "A tócsák közötti biciklizés ma reggel extra figyelmet igényel a csúszós utakon. Délben a Tea Oil Center teraszán várhatjuk meg szárazon a zápor végét. A délutáni templomlátogatások frissítőek, a szürke égbolt alatt ragyognak a fehér csedijei. Estére igyekezzünk vissza a szállásra a nagy zuhék előtt.",
+            "ro": "Mersul cu bicicleta prin bălțile din Mae Sai necesită atenție sporită pe drumurile alunecoase în această dimineață. La prânz, Centrul de Ulei de Ceai oferă șansa de a sta la uscat în timp ce priviți ploaia. Vizitele la temple sunt răcoritoare, deși cerul gri face chedi-urile albe să iasă în evidență.",
+            "en": "Cycling through the puddles of Mae Sai requires extra focus on slippery roads this morning. Midday offers a chance to dry off at the Tea Oil Center while watching the rain from the veranda. Afternoon temple visits are refreshing, though the grey skies make the white chedis stand out. Evening returns are best done before the heaviest downpours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chao Por Tham Kob Schrein",
+                "hu": "Chao Por Tham Kob szentély",
+                "ro": "Altarul Chao Por Tham Kob",
+                "en": "Chao Por Tham Kob Shrine"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Wetterbericht; der Schrein bietet wenig Schutz, sobald Sie mit dem Fahrrad unterwegs sind.",
+                "hu": "Ellenőrizd az előrejelzést; a szentély környékén kevés a fedett rész, ha már úton vagy a biciklivel.",
+                "ro": "Verificați prognoza meteo; zona altarului oferă puțin adăpost odată ce sunteți pe bicicletă.",
+                "en": "Check the weather forecast before starting; the shrine area offers little shelter once you are on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Mueang Daeng Tempel",
+                "hu": "Mueang Daeng templom",
+                "ro": "Templul Mueang Daeng",
+                "en": "Mueang Daeng Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Fliesen sind bei Nässe extrem rutschig; parken Sie das Rad vorsichtig und gehen Sie langsam durch den Hof.",
+                "hu": "A templom kövezete vizesen rendkívül csúszik; óvatosan parkolj és lassan sétálj az udvaron.",
+                "ro": "Plăcile templului sunt extrem de alunecoase; parcați bicicleta cu grijă și mergeți încet prin curte.",
+                "en": "The temple tiles are extremely slippery when wet; park your bike carefully and walk slowly in the courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Tee- und Pflanzenöl-Entwicklungszentrum",
+                "hu": "Tea- és Növényi Olaj Fejlesztési Központ",
+                "ro": "Centrul de Dezvoltare a Uleiului de Ceai și Plante",
+                "en": "Tea Oil and Plant Oils Development Center"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort auf der Route, um drinnen einen warmen Tee zu genießen, während der Regen vorbeizieht.",
+                "hu": "Ez a legjobb fedett megálló az útvonalon; élvezz egy meleg teát, amíg elvonul a trópusi eső.",
+                "ro": "Acesta este cel mai bun punct interior de pe traseu; savurați un ceai cald în timp ce trece ploaia.",
+                "en": "This is the best indoor stop on the route; enjoy a warm tea while waiting for the tropical rain to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Pha Teak Tempel Chedi",
+                "hu": "Pha Teak templom Csedije",
+                "ro": "Chedi-ul Templului Pha Teak",
+                "en": "Pha Teak Temple Chedi"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Abschnitten zum Chedi; der Asphalt kann für Radfahrer tückisch sein.",
+                "hu": "Vezess óvatosan a lejtőkön a csedi felé; a vizes aszfalt trükkös lehet a bicikliseknek.",
+                "ro": "Conduceți cu prudență pe secțiunile umede spre chedi; asfaltul poate fi periculos pentru bicicliști.",
+                "en": "Ride cautiously on the downhill sections toward the chedi; the wet pavement can be treacherous for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Stupa",
+                "hu": "Nagy sztúpa",
+                "ro": "Marea Stupă",
+                "en": "Big stupa"
+              },
+              "tip_5lang": {
+                "de": "Starker Wind während des Regens kann das Radfahren den Hügel hinauf erschweren; halten Sie Ihren Lenker fest.",
+                "hu": "Az esővel járó erős szél nehézzé teheti a felfelé biciklizést; kapaszkodj erősen a kormányba.",
+                "ro": "Vântul puternic din timpul ploii poate îngreuna urcarea dealului; țineți bine de ghidon.",
+                "en": "Strong winds during rain can make cycling up the hill difficult; hold onto your handlebars tightly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft ist ideal zum Radfahren, aber Handschuhe könnten anfangs nötig sein. Mittags wärmt das goldene Sonnenlicht den Tempelboden ohne die Sommerhitze. Genießen Sie nachmittags die malerischen Wege durch die Teegärten. Kehren Sie vor der Abendkälte und Dunkelheit zum Ausgangspunkt zurück.",
+            "hu": "A hűvös reggeli levegő tökéletes a biciklizéshez, de egy vékony kesztyű jól jöhet. Délben az arany napsütés kellemesen melegíti a templomkertet a nyári hőség nélkül. Délután élvezd a teakerteken átvezető utat a friss hegyi levegőn. Naplemente után gyorsan lehűl az idő, igyekezz vissza.",
+            "ro": "Aerul răcoros de dimineață este perfect pentru ciclism, dar s-ar putea să aveți nevoie de mănuși. La prânz, soarele auriu încălzește curțile templelor fără intensitatea verii. După-amiaza, bucurați-vă de potecile pitorești. Întoarceți-vă înainte de lăsarea frigului și a întunericului.",
+            "en": "The cool morning air is perfect for cycling towards the hills, but gloves might be needed early on. Noon brings golden sunlight that warms the temple grounds without the summer's intensity. In the afternoon, enjoy the scenic paths through the tea gardens. Return before the evening chill and darkness settle in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chao Por Tham Kob Schrein",
+                "hu": "Chao Por Tham Kob szentély",
+                "ro": "Altarul Chao Por Tham Kob",
+                "en": "Chao Por Tham Kob Shrine"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine leichte Jacke für den frühen Start; die Wintermorgen in Nordthailand sind überraschend kalt.",
+                "hu": "Viselj egy könnyű kabátot a korai induláshoz; az észak-thaiföldi téli reggelek meglepően hűvösek.",
+                "ro": "Purtați o jachetă ușoară pentru startul devreme; diminețile de iarnă din Thailanda sunt surprinzător de reci.",
+                "en": "Wear a light jacket for the early start; the northern Thai winter mornings are surprisingly cold for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Mueang Daeng Tempel",
+                "hu": "Mueang Daeng templom",
+                "ro": "Templul Mueang Daeng",
+                "en": "Mueang Daeng Temple"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne beleuchtet die Fassade wunderschön; perfekt für scharfe Fotos ohne harte Schatten.",
+                "hu": "A reggeli napfény gyönyörűen világítja meg a homlokzatot; tökéletes időpont az éles, árnyékmentes fotókhoz.",
+                "ro": "Soarele dimineții luminează superb fațada; este momentul perfect pentru fotografii clare, fără umbre.",
+                "en": "The morning sun hits the temple facade beautifully; it's the perfect time for sharp, shadow-free photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Tee- und Pflanzenöl-Entwicklungszentrum",
+                "hu": "Tea- és Növényi Olaj Fejlesztési Központ",
+                "ro": "Centrul de Dezvoltare a Uleiului de Ceai și Plante",
+                "en": "Tea Oil and Plant Oils Development Center"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause in den Gärten; die kühle Luft macht das Erkunden der Plantage sehr angenehm.",
+                "hu": "Tarts szünetet a kertekben; a hűvös téli levegő miatt a kültéri ültetvény felfedezése nagyon kényelmes.",
+                "ro": "Faceți o pauză în grădini; aerul răcoros de iarnă face explorarea plantației exterioare foarte plăcută.",
+                "en": "Take a break in the gardens; the cool winter air makes exploring the outdoor plantation very comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Pha Teak Tempel Chedi",
+                "hu": "Pha Teak templom Csedije",
+                "ro": "Chedi-ul Templului Pha Teak",
+                "en": "Pha Teak Temple Chedi"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Chedi ist trocken und malerisch; genießen Sie die klare Sicht auf die Berge.",
+                "hu": "A csedihez vezető út látványos és száraz; élvezd a tiszta hegyi kilátást, ami csak télen ilyen szép.",
+                "ro": "Calea spre chedi este pitorească și uscată; bucurați-vă de vederile clare spre munți, tipice iernii.",
+                "en": "The path to the chedi is scenic and dry; enjoy the clear mountain views that are only visible in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Großer Stupa",
+                "hu": "Nagy sztúpa",
+                "ro": "Marea Stupă",
+                "en": "Big stupa"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Zeit; die Temperatur sinkt nach 17:00 Uhr drastisch, sobald die Sonne hinter den Bergen verschwindet.",
+                "hu": "Figyeld az időt; a hőmérséklet drasztikusan visszaesik 17 óra után, amint a nap eltűnik a hegyek mögött.",
+                "ro": "Atenție la oră; temperatura scade drastic după ora 17:00, odată ce soarele dispare după dealuri.",
+                "en": "Watch the time carefully; the temperature drops significantly after 17:00 once the sun disappears."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autózzon reggel a nemzet peremére, készítsen fotókat a határjelzésnél, mielőtt átlépne a közös örökség világába. Délben már Mianmarban csodálhatja meg a magasba törő arany sztúpákat és a bonyolultan faragott kolostorokat. A délutánt a helyi szerzetesi élet és a hatalmas történelmi mezők felfedezésével töltheti. Az este közeledtével induljon vissza a thai oldalra, a kultúrákon átívelő kalanddal gazdagodva.",
         "ro": "Conduceți până la marginea națiunii în această dimineață, fotografiind semnul de frontieră înainte de a trece într-o lume cu un patrimoniu comun. La amiază vă aflați în Myanmar, admirând stupe aurii și mănăstiri sculptate pe dealuri. Petreceți după-amiaza observând viața monahală și explorând vastele câmpuri istorice. Seara se apropie în timp ce vă îndreptați spre partea thailandeză, îmbogățit de aventura multiculturală.",
         "en": "Drive to the edge of the nation this morning, snapping photos at the border sign before crossing into a world of shared heritage. Midday finds you across the line in Myanmar, marveling at the towering golden stupas and intricately carved monasteries on the hills. Spend your afternoon observing local monastic life and exploring vast historical fields where communities gather. Evening approaches as you head back towards the Thai side, enriched by the cross-cultural adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto bietet eine komfortable Basis, während wir die regnerische Grenzregion erkunden. Mittags sind die Besuche der Pagoden in Myanmar dank kurzer Wege von den Parkplätzen auch zwischen den Schauern einfach. Die Fahrt am Nachmittag führt durch üppige, regengetränkte Landschaften. Der Abend endet mit einer entspannten Rückfahrt im trockenen Innenraum.",
+            "hu": "Az autó kényelmes és száraz bázis a határ menti esős kalandozáshoz Mianmarban is. Délben a pagodák látogatása könnyen megoldható a parkolókhoz közeli bejáratok miatt a záporok között. Délután a táj ragyogóan zöld a szürke fényben. Estére sima utunk lesz vissza, elkerülve a párás, nedves levegőt.",
+            "ro": "Mașina oferă o bază confortabilă și uscată în timp ce explorăm zona de graniță și trecem în Tachileik. Vizitele la pagodele din Myanmar sunt ușoare datorită plimbărilor scurte de la parcări. După-amiaza, peisajele verzi par vibrante în lumina gri. Seara se încheie cu o călătorie lină înapoi.",
+            "en": "The car provides a comfortable dry base as we navigate the rainy border area and cross into Tachileik. Midday visits to the Myanmar pagodas are easy with short walks from the parking spots between showers. Afternoon drives pass through lush, rain-soaked landscapes. Evening concludes with a smooth drive back, staying dry and cool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nördlichster Punkt Thailands (Schild)",
+                "hu": "Thaiföld legészakibb pontját jelző tábla",
+                "ro": "Semnul celui mai nordic punct din Thailanda",
+                "en": "Northernmost point in Thailand sign"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich an der Brücke, um den Fußweg im Regen zum Schild zu minimieren.",
+                "hu": "Parkolj minél közelebb a határhídhoz, hogy minimalizáld az esőben való gyaloglást a tábláig.",
+                "ro": "Parcați cât mai aproape de podul de frontieră pentru a minimiza mersul prin ploaie până la semn.",
+                "en": "Park as close to the border bridge as possible to minimize walking in the rain while seeing the sign."
+              }
+            },
+            {
+              "name": {
+                "de": "Tachileik Shwedagon Pagode",
+                "hu": "Tachileik Shwedagon pagoda",
+                "ro": "Pagoda Tachileik Shwedagon",
+                "en": "Tachileik Shwedagon Pagoda"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen großen Regenschirm mit; die goldenen Oberflächen können auch bei Regen hell und blendend sein.",
+                "hu": "Vigyél magaddal nagy esernyőt; a pagoda arany felületei még esőben is vakítóan fényesek lehetnek.",
+                "ro": "Luați o umbrelă mare; suprafețele aurii ale pagodei pot fi strălucitoare chiar și pe timp de ploaie.",
+                "en": "Carry a large umbrella for the walk to the pagoda; the golden surfaces can be bright even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "NgweTaungOo Kloster",
+                "hu": "NgweTaungOo kolostor",
+                "ro": "Mănăstirea NgweTaungOo",
+                "en": "NgweTaungOo Monastery"
+              },
+              "tip_5lang": {
+                "de": "Das Kloster bietet eine friedliche Innenumgebung; ein großartiger Ort, um einen schweren Guss abzuwarten.",
+                "hu": "A kolostor belső terei nyugodt és száraz környezetet biztosítanak egy komolyabb zápor idején.",
+                "ro": "Mănăstirea oferă un mediu interior liniștit; este un loc excelent pentru a sta la uscat în timpul ploii.",
+                "en": "The monastery provides a peaceful indoor environment; it's a great place to stay dry during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "PongHtoon Oberschule",
+                "hu": "PongHtoon Középiskola",
+                "ro": "Liceul PongHtoon",
+                "en": "PongHtoon High School"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das lokale Leben sicher aus dem Auto; die Gegend kann bei Regen sehr belebt sein.",
+                "hu": "Figyeld a helyi életet az autó kényelméből; az iskola környéke esőben is nagyon nyüzsgő és vizes.",
+                "ro": "Observați viața locală din confortul mașinii; zona școlii poate fi aglomerată și udă când plouă.",
+                "en": "Observe local life from the car; the school area can be quite busy and wet during student pick-up times."
+              }
+            },
+            {
+              "name": {
+                "de": "Myanmar Toenaya Feld",
+                "hu": "Mianmari Toenaya mező",
+                "ro": "Câmpul Toenaya din Myanmar",
+                "en": "Myanmar Toenaya Field"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die saftig grünen Felder vom Auto aus; die Regenzeit macht die Landschaft unglaublich lebendig.",
+                "hu": "Nézd a dús zöld mezőket az autóból; az esős évszak miatt a táj hihetetlenül élettelinek tűnik.",
+                "ro": "Admirați câmpurile verzi din mașină; sezonul ploios face peisajul să pară incredibil de vibrant.",
+                "en": "View the lush green fields from your car; the rainy season makes the landscape look incredibly vibrant."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine malerische Winterfahrt mit offenen Fenstern und spüren Sie die erfrischende Brise der Berge. Mittags sind die Besuche der birmanischen Tempel im weichen Sonnenlicht angenehm. Das Nachmittagslicht über den Feldern ist golden und lang. Beenden Sie Ihre Stopps im Freien bis 17:00 Uhr, um das letzte Licht vor der kühlen Nachtluft einzufangen.",
+            "hu": "Élvezd a téli autózást letekert ablakokkal, érezve az északi hegyek friss szelét. Délben a mianmari templomok látogatása kellemes a lágy napsütésben. A délutáni fények a mezők felett aranyszínűek. Fejezd be a szabadtéri programokat 17 óráig, mielőtt beáll a hűvös éjszakai levegő.",
+            "ro": "Bucurați-vă de o plimbare pitorească cu mașina cu geamurile coborâte. La prânz, vizitele la templele birmane sunt plăcute sub soarele blând. Lumina de după-amiază peste câmpuri este aurie și lungă. Finalizați vizitele până la ora 17:00 pentru a evita răcoarea nopții.",
+            "en": "Enjoy a scenic winter drive with the windows down, feeling the refreshing breeze from the mountains. Midday visits to the Burmese temples are pleasant in the soft sunlight, perfect for clear photography. Afternoon light over the fields is golden and long. Finish your outdoor stops by 17:00 to avoid the cool night air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nördlichster Punkt Thailands (Schild)",
+                "hu": "Thaiföld legészakibb pontját jelző tábla",
+                "ro": "Semnul celui mai nordic punct din Thailanda",
+                "en": "Northernmost point in Thailand sign"
+              },
+              "tip_5lang": {
+                "de": "Der Winter ist hier Hauptsaison; kommen Sie früh am Morgen, um Touristenmassen und Verkehr zu vermeiden.",
+                "hu": "A tél főszezon itt; érkezz korán reggel, hogy elkerüld a turistaáradatot és a határon a forgalmat.",
+                "ro": "Iarna este sezon de vârf; veniți devreme dimineața pentru a evita aglomerația și traficul intens.",
+                "en": "Winter is peak season here; arrive at the sign early in the morning to avoid the tourist crowds and traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Tachileik Shwedagon Pagode",
+                "hu": "Tachileik Shwedagon pagoda",
+                "ro": "Pagoda Tachileik Shwedagon",
+                "en": "Tachileik Shwedagon Pagoda"
+              },
+              "tip_5lang": {
+                "de": "Der klare Winterhimmel bietet eine perfekte Kulisse für die goldene Pagode; das Licht ist gegen 10 Uhr ideal.",
+                "hu": "A tiszta téli égbolt tökéletes háttér az arany pagodának; a fények délelőtt 10 óra körül a legjobbak.",
+                "ro": "Cerul clar oferă un fundal perfect pentru pagoda aurie; lumina este ideală în jurul orei 10 dimineața.",
+                "en": "The clear winter sky provides a perfect backdrop for the golden pagoda; the light is best around 10 AM."
+              }
+            },
+            {
+              "name": {
+                "de": "NgweTaungOo Kloster",
+                "hu": "NgweTaungOo kolostor",
+                "ro": "Mănăstirea NgweTaungOo",
+                "en": "NgweTaungOo Monastery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Brise; die Steinböden des Klosters sind recht kalt, lassen Sie also Ihre Socken an.",
+                "hu": "Élvezd a hűvös szellőt; a kolostor kőpadlója ilyenkor nagyon hideg, érdemes zoknit viselni.",
+                "ro": "Bucurați-vă de briză; podelele de piatră ale mănăstirii sunt reci, deci păstrați-vă șosetele în picioare.",
+                "en": "Enjoy the cool breeze; the monastery's stone floors are quite cold in winter, so keep your socks on."
+              }
+            },
+            {
+              "name": {
+                "de": "PongHtoon Oberschule",
+                "hu": "PongHtoon Középiskola",
+                "ro": "Liceul PongHtoon",
+                "en": "PongHtoon High School"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht lässt die traditionellen Gebäude den ganzen Tag über sehr fotogen erscheinen.",
+                "hu": "A lágy téli fényben a hagyományos épületek egész nap nagyon fotogének; érdemes egy rövid megállót tenni.",
+                "ro": "Lumina blândă de iarnă face ca clădirile tradiționale să fie foarte fotogenice pe tot parcursul zilei.",
+                "en": "The soft winter light makes the traditional buildings look very photogenic throughout the entire day."
+              }
+            },
+            {
+              "name": {
+                "de": "Myanmar Toenaya Feld",
+                "hu": "Mianmari Toenaya mező",
+                "ro": "Câmpul Toenaya din Myanmar",
+                "en": "Myanmar Toenaya Field"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie bis 16:30 Uhr an; der winterliche Sonnenuntergang bietet ein atemberaubendes goldenes Glühen.",
+                "hu": "Érkezz meg 16:30-ra; a téli naplemente lenyűgöző arany ragyogást áraszt a mezők felett.",
+                "ro": "Sosiți până la ora 16:30; apusul de iarnă oferă o strălucire aurie uimitoare peste câmpuri.",
+                "en": "Arrive at the fields by 16:30; the winter sunset happens early and provides a stunning golden glow."
+              }
+            }
+          ]
+        }
       }
     }
   }

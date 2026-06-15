@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a történelmi utcák felfedezésével, álljon meg Gregorio Caloprese mellszobránál, mielőtt belépne a fenséges Palazzo dei Principi Spinelli épületébe.\n\nDélben útja a Torre Cimalonga felé vezet, ahonnan lenyűgöző kilátás nyílik, majd felfedezi a fenséges normann kastély csodás és romantikus romjait.\n\nDélután sétáljon Hannibál hídjának ősi kőívei felé, majd találjon spirituális nyugalmat a gyönyörű Chiesa di San Nicola in Plateis templomban.\n\nFejezze be gyalogtúráját a Torre Talao-nál, ahogy leszáll az este, élvezve a tengeri szellőt és a tüzes naplementét a tirrén hullámok felett.",
         "ro": "Începeți dimineața explorând străzile istorice, oprindu-vă la bustul lui Gregorio Caloprese înainte de a păși în maiestuosul Palazzo dei Principi Spinelli.\n\nLa amiază, călătoria urcă spre Torre Cimalonga, răsplătindu-vă cu vederi uimitoare, urmată de o explorare a ruinelor maiestuosului Castel Normand.\n\nDupă-amiaza, plimbați-vă spre arcurile antice ale Podului lui Hannibal, apoi găsiți liniștea spirituală în frumoasa Chiesa di San Nicola in Plateis.\n\nÎncheiați turul la Torre Talao pe măsură ce se lasă seara, bucurându-vă de briza mării și de un apus de soare de foc peste valurile mării.",
         "en": "Start your morning exploring the historic streets, pausing at the distinguished bust of Gregorio Caloprese before stepping into the regal Palazzo dei Principi Spinelli.\n\nBy midday, your journey elevates to Torre Cimalonga, rewarding your climb with stunning views, followed by an exploration of the majestic Norman Castle ruins.\n\nIn the afternoon, wander towards the ancient stone arches of Hannibal's Bridge, then find spiritual tranquility inside the beautiful Chiesa di San Nicola in Plateis.\n\nConclude your walking tour at Torre Talao as evening falls, enjoying the ocean breeze and a fiery sunset over the Tyrrhenian waves to cap off a perfect day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die engen Gassen der Altstadt Schutz vor dem Regen, während die Balkone als natürliche Schirme dienen. Mittags wirkt der Blick auf das neblige Meer von den Burgruinen aus besonders dramatisch. Nachmittags bieten die dicken Kirchenmauern einen trockenen Zufluchtsort vor den Schauern. Abends spiegeln sich die Lichter auf dem nassen Kopfsteinpflaster im Rauschen der Wellen.",
+            "hu": "Reggel a szűk óvárosi utcák védelmében indulunk, ahol az erkélyek menedéket nyújtanak az eső elől. Délben a kastély romjai között a ködös tenger látványa drámai hangulatot áraszt. Délután a templomok vastag falai között találunk száraz nyugalomra a záporok elől. Este a vizes macskaköveken megcsillanó fények kísérnek minket, miközben a tenger morajlása betölti a párás levegőt.",
+            "ro": "Dimineața pornim sub protecția străzilor înguste din centrul vechi, unde balcoanele oferă adăpost împotriva ploii. La prânz, vederea mării cețoase de la ruinele castelului creează o atmosferă dramatică. După-amiaza găsim refugiu uscat între zidurile groase ale bisericilor. Seara, luminile se oglindesc pe pavajul umed, în timp ce vuietul mării umple aerul răcoros.",
+            "en": "Morning begins in the shelter of narrow Old Town streets, where balconies offer cover from the drizzle. At noon, the misty sea views from the castle ruins create a dramatic atmosphere. In the afternoon, the thick church walls provide a dry sanctuary from the showers. Evening brings reflected lights on the wet cobblestones, while the sound of the waves fills the humid air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busto Gregorio Caloprese",
+                "hu": "Busto Gregorio Caloprese",
+                "ro": "Busto Gregorio Caloprese",
+                "en": "Busto Gregorio Caloprese"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Büste im Schutz der nahen Bäume; der Regen verleiht dem Platz eine melancholische Atmosphäre. Vorsicht vor dem rutschigen Kopfsteinpflaster.",
+                "hu": "Csodálja meg a mellszobrot a közeli fák vagy erkélyek árnyékából; az eső melankolikus, történelmi hangulatot kölcsönöz a térnek. Vigyázzon a csúszós macskakövekre.",
+                "ro": "Admirați bustul la adăpostul copacilor din apropiere; ploaia adaugă o atmosferă melancolică pieței. Atenție la pavajul de piatră care devine foarte alunecos.",
+                "en": "Admire the bust while seeking shade under nearby trees or balconies; the rain adds a melancholic, historical vibe to the square. Watch out for slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Principi Spinelli",
+                "hu": "Palazzo dei Principi Spinelli",
+                "ro": "Palazzo dei Principi Spinelli",
+                "en": "Palazzo dei Principi Spinelli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Steinmauern als Windschutz; der nasse Stein betont die reichen Texturen der Architektur. Bleiben Sie für Fotos nahe an den Torbögen.",
+                "hu": "Használja a palota masszív kőfalait természetes szélfogóként; a nedves kő kiemeli a reneszánsz építészet gazdag textúráit. Maradjon a boltívek közelében.",
+                "ro": "Folosiți zidurile masive ca paravan natural împotriva vântului; piatra umedă scoate în evidență texturile arhitecturii. Rămâneți aproape de arcade pentru poze.",
+                "en": "Use the massive stone walls as a natural windbreaker; the damp stone brings out the rich textures of the Renaissance architecture. Stay near the arches for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cimalonga",
+                "hu": "Torre Cimalonga",
+                "ro": "Torre Cimalonga",
+                "en": "Torre Cimalonga"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am nebligen Wachturm; achten Sie auf die glatten Stufen zum Museum. Der Dunst verleiht der Festung eine fast mystische Aura.",
+                "hu": "Gyors megálló a ködben úszó őrtoronynál; figyeljen a lába elé a múzeumba vezető csúszós lépcsőkön. A pára misztikus keretet ad a bástyának.",
+                "ro": "O oprire scurtă la turnul învelit în ceață; atenție la treptele alunecoase spre muzeu. Aburul creează o aură aproape mistică în jurul fortificației.",
+                "en": "A quick stop at the misty watchtower; watch your step on the slick stone steps leading up to the museum. The mist gives the bastion a mystical frame."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Normanno di Scalea",
+                "hu": "Castello Normanno di Scalea",
+                "ro": "Castello Normanno di Scalea",
+                "en": "Castello Normanno di Scalea"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen, wo tiefe Wolken oft die Hügel berühren; suchen Sie Schutz in den Bögen. Der Blick auf das stürmische Meer ist atemberaubend.",
+                "hu": "Fedezze fel a romokat, ahol az alacsony felhők gyakran érintik a dombokat; keressen menedéket az íves falak között. A kilátás a viharos tengerre lenyűgöző.",
+                "ro": "Explorați ruinele unde norii joși ating dealurile; căutați adăpost între zidurile boltite. Vederea spre marea învolburată este absolut impresionantă.",
+                "en": "Explore the ruins where low clouds often touch the hills; find shelter in the arched remains. The panoramic view of the stormy sea is breathtaking."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte medievale \"di Annibale\"",
+                "hu": "Ponte medievale \"di Annibale\"",
+                "ro": "Ponte medievale \"di Annibale\"",
+                "en": "Ponte medievale \"di Annibale\""
+              },
+              "tip_5lang": {
+                "de": "Die antike Brücke wirkt im Regen mystisch; seien Sie vorsichtig, da die alten Steine extrem rutschig sind. Halten Sie sich am Geländer fest.",
+                "hu": "Az ősi híd misztikusan fest az esőben; legyen fokozottan óvatos, mivel a régi kövek vizesen rendkívül csúszóssá válnak. Tartsa a korlátot, ha lehetséges.",
+                "ro": "Podul antic arată mistic în ploaie; fiți extrem de precauți, deoarece pietrele vechi devin foarte alunecoase. Țineți-vă de balustradă dacă este posibil.",
+                "en": "The ancient bridge looks mystical in the rain; be extra careful as the old stones can be extremely slippery when wet. Use the railing for support."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Nicola in Plateis",
+                "hu": "Chiesa di San Nicola in Plateis",
+                "ro": "Chiesa di San Nicola in Plateis",
+                "en": "Chiesa di San Nicola in Plateis"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort, um Fresken zu bewundern, während Sie das Ende des Schauers abwarten. Die innere Stille bietet eine wohltuende Ruhe.",
+                "hu": "Tökéletes fedett menedék a freskók és vallási művészetek megcsodálására, miközben megvárja a nagyobb zápor elvonulását. A belső csend nyugalmat áraszt.",
+                "ro": "Un refugiu perfect pentru a admira frescele în timp ce așteptați oprirea ploii. Liniștea interioară oferă o stare de calm și relaxare profundă.",
+                "en": "The perfect indoor refuge to admire the frescoes and religious art while waiting for the downpour to subside. The silence inside offers a peaceful break."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Talao",
+                "hu": "Torre Talao",
+                "ro": "Torre Talao",
+                "en": "Torre Talao"
+              },
+              "tip_5lang": {
+                "de": "Der Felsen trotzt stolz den Wellen; beobachten Sie das Meer von der geschützten Seite des Turmfußes aus. Die Gischt und der Regenduft sind einzigartig.",
+                "hu": "Az ikonikus szikla büszkén áll a hullámok ellen; figyelje a tajtékzó tengert a torony alapzatának védett oldaláról. A sós permet és az eső illata különleges.",
+                "ro": "Stânca iconică stă mândră împotriva valurilor; observați marea de pe partea protejată a bazei turnului. Mirosul de sare și ploaie este unic.",
+                "en": "The iconic rock stands firm against the waves; observe the crashing sea from the protected side of the tower's base. The salt spray and rain smell is unique."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weckt die frische Meeresbrise die Stadt, ideal für den Aufstieg zum historischen Zentrum. Mittags beleuchtet die Wintersonne die Mauern des Palazzo Spinelli besonders klar. Nachmittags genießen wir das Panorama vor dem frühen Sonnenuntergang gegen 17 Uhr. Abends strahlen die ruhigen Gassen eine friedliche Stille aus.",
+            "hu": "Reggel a friss, csípős tengeri levegő ébreszti fel a várost, ideális az emelkedők leküzdéséhez. Délben a téli napfény élesen világítja meg a történelmi falakat és a Palazzo részleteit. Délután a korai naplemente előtt még kiélvezzük a panorámát a kastélyból. Este ötkor már sötétedik, a csendes Scaleát a lámpák fénye melegíti fel.",
+            "ro": "Dimineața, aerul proaspăt al mării trezește orașul, fiind ideal pentru a urca pantele istorice. La prânz, soarele de iarnă luminează clar detaliile Palatului Spinelli. După-amiaza ne bucurăm de panoramă înainte de apusul timpuriu de la ora 17. Seara, străzile liniștite din Scalea emană o tăcere hibernală relaxantă.",
+            "en": "Morning brings a crisp sea breeze, perfect for tackling the historic inclines without the summer heat. At noon, the winter sun sharply highlights the details of the Palazzo Spinelli. In the afternoon, we catch the panoramic views before the early 5 PM sunset. Evening settles over the quiet streets with a peaceful, cool atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busto Gregorio Caloprese",
+                "hu": "Busto Gregorio Caloprese",
+                "ro": "Busto Gregorio Caloprese",
+                "en": "Busto Gregorio Caloprese"
+              },
+              "tip_5lang": {
+                "de": "Der frische Wintermorgen ist ideal, um die Inschriften ohne Hitze zu lesen; tragen Sie einen Schal gegen die Brise. Das Licht lässt die Büste edel wirken.",
+                "hu": "A friss téli reggel tökéletes a feliratok tanulmányozására a hőség nélkül; viseljen sálat a tengeri szél ellen. A reggeli fényekben a szobor még méltóságteljesebb.",
+                "ro": "Dimineața răcoroasă de iarnă este perfectă pentru a citi inscripțiile fără căldura verii; purtați un fular. Statuia pare mai solemnă în lumina rece.",
+                "en": "The crisp winter morning is perfect for reading the inscriptions without the summer heat; wear a scarf against the sea breeze. The light makes the bust look noble."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Principi Spinelli",
+                "hu": "Palazzo dei Principi Spinelli",
+                "ro": "Palazzo dei Principi Spinelli",
+                "en": "Palazzo dei Principi Spinelli"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die adeligen Details des Palastes hervor; es ist eine ruhige Zeit, um die Geschichte ohne Touristenmassen zu erkunden.",
+                "hu": "A téli fények kiemelik a palota nemesi részleteit; csendes időszak ez a város arisztokratikus múltjának felidézésére a turisták tömege nélkül.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile nobiliare ale palatului; este o perioadă liniștită pentru a explora istoria fără mulțimile de turiști.",
+                "en": "The stark winter light highlights the noble details of the palace; it’s a quiet time to explore the aristocratic past without the usual crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cimalonga",
+                "hu": "Torre Cimalonga",
+                "ro": "Torre Cimalonga",
+                "en": "Torre Cimalonga"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Inneren, um sich aufzuwärmen; von hier oben haben Sie eine klare Fernsicht auf die winterliche Küste Calabriens.",
+                "hu": "Látogasson el a belső múzeumba, hogy felmelegedjen; a magaslati pontról tiszta, távoli kilátás nyílik a hűvös tengerpartra a téli napsütésben.",
+                "ro": "Vizitați muzeul din interior pentru a vă încălzi; de aici aveți o vedere clară la distanță asupra coastei calabreze în aerul rece de iarnă.",
+                "en": "Visit the museum inside to warm up; the elevated position offers clear, long-distance views across the chilled Tyrrhenian coast in the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Normanno di Scalea",
+                "hu": "Castello Normanno di Scalea",
+                "ro": "Castello Normanno di Scalea",
+                "en": "Castello Normanno di Scalea"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Burg ist bei kühler Luft angenehmer; die Sicht auf die schneebedeckten Berge in der Ferne ist im Winter spektakulär.",
+                "hu": "A várba való feljutás könnyebb a hűvös levegőben; a távoli hófödte hegyek látványa lélegzetelállító ilyenkor a tiszta látási viszonyok miatt.",
+                "ro": "Urcarea la castel este mai plăcută în aerul răcoros; vederea spre munții înzăpeziți din depărtare este spectaculoasă în timpul iernii.",
+                "en": "The climb to the castle is easier in the cool air; the panoramic view of the snow-capped mountains in the distance is breathtaking in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte medievale \"di Annibale\"",
+                "hu": "Ponte medievale \"di Annibale\"",
+                "ro": "Ponte medievale \"di Annibale\"",
+                "en": "Ponte medievale \"di Annibale\""
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Moos auf den alten Steinen im feuchten Winter; die Natur ist hier jetzt besonders friedlich. Perfekt für ein ruhiges Foto.",
+                "hu": "Figyelje meg az ősi köveken növő mohát a párás téli időben; a környező természet ilyenkor csendes és békés. Ideális helyszín egy nyugodt fotóhoz.",
+                "ro": "Observați mușchiul crescut pe pietrele vechi în timpul iernii umede; natura este deosebit de liniștită aici acum. Perfect pentru o fotografie calmă.",
+                "en": "Notice the moss growing on the ancient stones during the humid winter; the surrounding nature is quiet and peaceful. Ideal for a serene photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Nicola in Plateis",
+                "hu": "Chiesa di San Nicola in Plateis",
+                "ro": "Chiesa di San Nicola in Plateis",
+                "en": "Chiesa di San Nicola in Plateis"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; genießen Sie die spirituelle Stille der Nebensaison. Ein Ort der inneren Einkehr im kühlen Scalea.",
+                "hu": "A vastag kőfalak meglepően temperálják a belső teret; élvezze a szezonon kívüli spirituális csendet a hűvös falak között. Gyújtson egy gyertyát.",
+                "ro": "Zidurile groase țin frigul afară; bucurați-vă de liniștea spirituală a sezonului secundar. Un loc de reculegere în Scalea răcoroasă.",
+                "en": "The thick stone walls keep the interior surprisingly temperate; enjoy the spiritual silence of the off-season. A place for reflection in cool Scalea."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Talao",
+                "hu": "Torre Talao",
+                "ro": "Torre Talao",
+                "en": "Torre Talao"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang vom Felsen aus; der Himmel färbt sich gegen 17 Uhr tief orange über dem kalten Tyrrhenischen Meer.",
+                "hu": "Nézze meg a korai naplementét a szikláról; az égbolt mély narancssárgára vált a hideg víz felett délután öt óra körül. Vigyen magával meleg ruhát.",
+                "ro": "Urmăriți apusul timpuriu de pe stâncă; cerul devine portocaliu intens deasupra mării reci în jurul orei 17:00. Purtați haine groase.",
+                "en": "Watch the early sunset from the rock; the sky turns deep orange and purple over the cold water around five in the evening. Dress warmly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kerékpáros kalandja a modern szabadtéri amfiteátrumban kezdődik, lendületes alapot adva, mielőtt Gregorio Caloprese történelmi szobra felé pedálozna.\n\nA déli kerékpározás az ikonikus Ottovolante nevezetesség mellett és a régi vasúti híd alatt visz, ötvözve Scalea városi fejlődését az építészeti múlttal.\n\nEgy frissítő ebédszünet után küzdje le a titokzatos Júdás-torony felé vezető enyhe emelkedőt, amely a látványos tengerpartot őrző félelmetes építmény.\n\nAhogy közeledik az este, elmélkedjen az elesett tengerészek emlékművénél, és fejezze be útját a Torre Talao-nál egy briliáns tengerparti naplementével.",
         "ro": "Aventura pe bicicletă începe la amfiteatrul modern în aer liber, stabilind un ton energic înainte de a pedala spre statuia istorică a lui Gregorio Caloprese.\n\nLa amiază, traseul vă duce pe lângă reperul Ottovolante și pe sub vechiul pod feroviar, îmbinând evoluția urbană a orașului Scalea cu trecutul său arhitectural.\n\nDupă pauza de prânz, abordați înclinația ușoară spre misteriosul Turn al lui Iuda, o structură formidabilă care păzește coasta extrem de spectaculoasă.\n\nSpre seară, reflectați la monumentul marinarilor căzuți, terminând plimbarea la Torre Talao, unde priveliștile de coastă se estompează într-un apus minunat.",
         "en": "Your cycling adventure begins at the modern open-air amphitheater, setting an energetic tone before you pedal towards the historic statue of Gregorio Caloprese.\n\nMidday cycling takes you past the iconic Ottovolante landmark and under the old railway bridge, blending Scalea's urban evolution with its architectural past.\n\nAfter a refreshing lunch break, tackle the slight incline towards the mysterious Judas Tower, a formidable structure that guards the spectacular coastline.\n\nAs evening approaches, reflect at the monument for fallen sailors, finishing your ride at Torre Talao where the coastal views fade into a brilliant sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig auf dem nassen Asphalt entlang der Küste, wo sich Gischt mit Regen mischt. Mittags suchen wir in den Gassen unterhalb der Burg Schutz vor dem Wind. Nachmittags ruhen wir unter monumentalen Toren aus. Abends beleuchtet der Regen die Torre Talao in einem wilden Licht.",
+            "hu": "Reggel a vizes aszfalton óvatosan vágunk neki a parti útnak, ahol a sós permet keveredik az esővel. Délben a vár alatti szűk utcákban keresünk menedéket a szél elől. Délután a monumentális kapuk alatt pihenünk meg a záporok szünetében. Este a kivilágított Torre Talao látványa zárja a napot.",
+            "ro": "Dimineața pedalăm cu atenție pe asfaltul ud de-a lungul coastei, unde spray-ul sărat se amestecă cu ploaia. La prânz căutăm adăpost pe străzile de sub castel. După-amiaza ne odihnim sub porțile monumentale între reprizele de ploaie. Seara, Torre Talao iluminat încheie ziua.",
+            "en": "Morning brings a cautious ride on wet asphalt along the coast, where salt spray mixes with rain. At noon, we seek shelter from the wind in the alleys below the castle. In the afternoon, we rest under monumental arches between showers. Evening ends with the dramatic sight of the illuminated Torre Talao."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anfiteatro scuola media",
+                "hu": "Anfiteatro scuola media",
+                "ro": "Anfiteatro scuola media",
+                "en": "Anfiteatro scuola media"
+              },
+              "tip_5lang": {
+                "de": "Das Amphitheater wirkt im Regen markant; bleiben Sie auf befestigten Wegen, um Schlamm zu vermeiden. Bremsen Sie vorsichtig auf nassem Asphalt.",
+                "hu": "A modern amfiteátrum látványos az esőben, de maradjon a burkolt utakon, hogy elkerülje a sarat. Fékezzen óvatosan a vizes aszfalton a csúszásveszély miatt.",
+                "ro": "Amfiteatrul modern arată impresionant în ploaie; rămâneți pe secțiunile pavate pentru a evita noroiul. Frânați cu prudență pe asfaltul ud.",
+                "en": "The modern amphitheater looks striking in the rain; keep your bike on the paved sections to avoid mud. Brake carefully on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Busto Gregorio Caloprese",
+                "hu": "Busto Gregorio Caloprese",
+                "ro": "Busto Gregorio Caloprese",
+                "en": "Busto Gregorio Caloprese"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; die nassen Oberflächen erfordern vorsichtiges Bremsen und langsame Kurvenfahrten im Stadtzentrum. Achten Sie auf Fußgänger.",
+                "hu": "Rövid megálló egy fotóra; a vizes felületek óvatos fékezést és lassú kanyarodást igényelnek a városközpontban. Figyeljen az esernyős gyalogosokra.",
+                "ro": "O oprire scurtă pentru o poză; suprafețele ude necesită frânare atentă și viraje lente în centrul orașului. Atenție la pietonii cu umbrele.",
+                "en": "Stop briefly for a photo; wet surfaces require cautious braking and slow turns in the town center. Watch out for pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Ottovolante",
+                "hu": "Ottovolante",
+                "ro": "Ottovolante",
+                "en": "Ottovolante"
+              },
+              "tip_5lang": {
+                "de": "Dieses skurrile Denkmal ist ein schnelles Fotomotiv; halten Sie Ihr Regenponcho fest, wenn Sie durch windige Böen radeln. Kurze Rast im Trockenen.",
+                "hu": "Ez a különleges emlékmű gyors fotólehetőség; tartsa szorosan az esőponchóját a szeles parti szakaszon. Keressen egy fedett helyet a közelben.",
+                "ro": "Acest monument bizar este o ocazie rapidă de fotografiere; țineți pelerina strâns în rafalele de vânt de pe coastă. Căutați un loc ferit în apropiere.",
+                "en": "This quirky landmark is a quick photo op; keep your rain poncho tight as you cycle through windy coastal gusts. Find a sheltered spot nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex ponte ferroviario",
+                "hu": "Ex ponte ferroviario",
+                "ro": "Ex ponte ferroviario",
+                "en": "Ex ponte ferroviario"
+              },
+              "tip_5lang": {
+                "de": "Die Überquerung bietet eine Aussicht auf das graue Meer; halten Sie den Lenker bei Wind fest. Die Brücke kann bei Regen sehr zugig sein.",
+                "hu": "Az átkelés egyedi kilátást nyújt a szürke tengerre; tartsa erősen a kormányt a szélben. A hídon az eső és a szél egyszerre érheti, legyen óvatos.",
+                "ro": "Traversarea oferă o perspectivă unică asupra mării gri; țineți ghidonul strâns în vânt. Podul poate fi foarte expus la curent în timpul ploii.",
+                "en": "Crossing offers a unique perspective of the grey sea; keep a firm grip on the handlebars against the wind. The bridge can be very drafty in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Giuda",
+                "hu": "Torre di Giuda",
+                "ro": "Torre di Giuda",
+                "en": "Torre di Giuda"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Schutz unter Überhängen; der Turm wirkt vor den dunklen Wolken imposant. Ideal für eine Pause, um die Regenkleidung zu richten.",
+                "hu": "Keressen menedéket a közeli kiszögellések alatt; a torony impozánsan mutat a sötét felhők előtt. Ideális hely a ruházat megigazítására a záporban.",
+                "ro": "Găsiți adăpost sub cornișe; turnul arată impunător în fața norilor negri. Loc ideal pentru a vă aranja echipamentul în timpul ploii.",
+                "en": "Find shelter under nearby overhangs; the tower looks imposing against the dark clouds. Ideal for a break to adjust your rain gear during a heavy shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti del mare",
+                "hu": "Monumento ai Caduti del mare",
+                "ro": "Monumento ai Caduti del mare",
+                "en": "Monumento ai Caduti del mare"
+              },
+              "tip_5lang": {
+                "de": "Ein ergreifender Stopp im Regen; Metall- und Steinlächen sind sehr glatt, parken Sie das Rad vorsichtig. Der Regen wirkt hier wie eine Hommage.",
+                "hu": "Megható megálló az esőben; a fém és kőfelületek nagyon csúszósak, óvatosan támassza le a kerékpárt. Az eső itt szinte az emlékezés része.",
+                "ro": "O oprire emoționantă în ploaie; suprafețele de metal și piatră sunt foarte lucioase, parcați bicicleta cu grijă. Ploaia pare un omagiu aici.",
+                "en": "A poignant stop where the rain feels like a tribute; metal and stone surfaces are very slick, so park carefully. The sea spray adds to the mood."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Talao",
+                "hu": "Torre Talao",
+                "ro": "Torre Talao",
+                "en": "Torre Talao"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt am Fuß des Felsens; Gischt und Regen sorgen für ein wildes, authentisches Erlebnis. Wischen Sie Ihre Bremsbeläge danach trocken.",
+                "hu": "Zárja a túrát a szikla tövében; a sós permet és az eső vad, autentikus élményt nyújt. Törölje szárazra a fékeket és a láncot a nap végén.",
+                "ro": "Încheiați tura la baza stâncii; spray-ul mării și ploaia oferă o experiență autentică. Ștergeți bine frânele și lanțul la finalul zilei.",
+                "en": "End your ride at the base of the rock; the sea spray and rain combine for a wild, authentic experience. Dry your brakes and chain after the ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt auf der Palmenpromenade bei kühlem Wind erfrischend, der Verkehr ist minimal. Mittags wärmen wir uns auf sonnigen Bänken an historischen Orten auf. Nachmittags ist die Sicht entlang der Küste kristallklar. Abends gegen 17 Uhr lockt die Kühle nach Hause, nachdem wir den Sonnenuntergang gesehen haben.",
+            "hu": "Reggel a hűvös szélben frissítő a tekerés a pálmafás sétányon, a forgalom ilyenkor minimális. Délben a napsütötte padokon melegedhetünk fel a történelmi emlékhelyeknél. Délután a tiszta levegőben messzire ellátni a part mentén a korai szürkület előtt. Este ötkor a hűvös levegő már hazahív.",
+            "ro": "Dimineața, pedalatul pe faleza cu palmieri în vântul răcoros este revigorant, traficul fiind minim. La prânz ne încălzim pe bănci însorite lângă siturile istorice. După-amiaza, vizibilitatea de-a lungul coastei este cristalină. Seara, în jurul orei 17:00, răcoarea ne trimite spre casă.",
+            "en": "Morning brings a refreshing ride on the palm-lined promenade in the cool breeze; traffic is minimal. At noon, we warm up on sunny benches near historical sites. In the afternoon, the air is crystal clear with long views along the coast. By 5 PM, the chill calls us home after the sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anfiteatro scuola media",
+                "hu": "Anfiteatro scuola media",
+                "ro": "Anfiteatro scuola media",
+                "en": "Anfiteatro scuola media"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einer zügigen Runde; der leere Raum ist ideal zum Aufwärmen, bevor es in die Stadt geht. Tragen Sie windfeste Kleidung.",
+                "hu": "Kezdje a túrát egy tempós körrel; az üres tér kiváló a bemelegítésre, mielőtt behajtana a városba. Viseljen szélálló öltözetet a hideg ellen.",
+                "ro": "Începeți tura cu o tură rapidă; spațiul gol este excelent pentru încălzire înainte de a intra în oraș. Purtați haine rezistente la vânt.",
+                "en": "Start your winter ride with a brisk lap; the empty space is great for a quick warm-up before heading into town. Wear windproof clothing for the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Busto Gregorio Caloprese",
+                "hu": "Busto Gregorio Caloprese",
+                "ro": "Busto Gregorio Caloprese",
+                "en": "Busto Gregorio Caloprese"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal ist im Winter friedlich; die kühle Luft macht die bergigen Etappen viel angenehmer als im Sommer. Genießen Sie die leeren Straßen.",
+                "hu": "Az emlékmű télen csendes; a hűvös levegő sokkal élvezetesebbé teszi a felfelé tekerést, mint a nyári hőségben. Élvezze a forgalommentes utcákat.",
+                "ro": "Monumentul este liniștit iarna; aerul răcoros face urcatul mult mai plăcut decât în căldura verii. Bucurați-vă de străzile libere de mașini.",
+                "en": "The monument is peaceful in winter; the cool air makes the uphill cycling parts much more comfortable than in summer heat. Enjoy the empty streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Ottovolante",
+                "hu": "Ottovolante",
+                "ro": "Ottovolante",
+                "en": "Ottovolante"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für Fotos ohne Wartezeit; im Winter ist das Licht hier besonders weich. Achten Sie auf den kalten Wind am Meer.",
+                "hu": "Nagyszerű helyszín fotózáshoz várakozás nélkül; télen a fények itt különösen lágyak. Ügyeljen a tenger felől érkező hideg széllökésekre.",
+                "ro": "Un loc grozav pentru poze fără așteptare; iarna luminile sunt deosebit de calde aici. Atenție la rafalele reci care vin dinspre mare.",
+                "en": "A great spot for photos without waiting; in winter, the light here is particularly soft. Watch out for the cold gusts coming from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex ponte ferroviario",
+                "hu": "Ex ponte ferroviario",
+                "ro": "Ex ponte ferroviario",
+                "en": "Ex ponte ferroviario"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist bei trockener Winterluft kristallklar; suchen Sie am Horizont nach fernen Inseln. Tragen Sie Handschuhe für die Fahrt über die Brücke.",
+                "hu": "A kilátás a száraz téli levegőben kristálytiszta; keressen távoli szigeteket a horizonton. Viseljen kesztyűt a hídon való átkeléskor a szél miatt.",
+                "ro": "Vederea în aerul uscat de iarnă este clară; căutați insule îndepărtate la orizont. Purtați mănuși pentru traversarea podului din cauza vântului.",
+                "en": "The view is crystal clear in the dry winter air; look for distant islands on the horizon. Wear gloves for the ride across the bridge due to wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Giuda",
+                "hu": "Torre di Giuda",
+                "ro": "Torre di Giuda",
+                "en": "Torre di Giuda"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Geschichte dieses Turms; der Winterwind kann hier scharf sein, lassen Sie die Handschuhe an. Die Sicht auf die Berge ist heute super.",
+                "hu": "Fedezze fel a torony történelmét; a téli szél itt éles lehet, ne vegye le a kesztyűt. A hegyekre nyíló kilátás ilyenkor a legtisztább.",
+                "ro": "Explorați istoria acestui turn; vântul de iarnă poate fi tăios aici, nu vă scoateți mănușile. Vederea spre munți este cea mai clară acum.",
+                "en": "Explore the historical significance of this tower; the winter wind can be sharp here, so keep your gloves on. The mountain views are sharpest now."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti del mare",
+                "hu": "Monumento ai Caduti del mare",
+                "ro": "Monumento ai Caduti del mare",
+                "en": "Monumento ai Caduti del mare"
+              },
+              "tip_5lang": {
+                "de": "Reflexion ist in der ruhigen Winteratmosphäre einfach; das Meer ist zu dieser Jahreszeit oft unruhiger und beeindruckender. Genießen Sie die Einsamkeit.",
+                "hu": "Az elmélyülés könnyű a csendes téli légkörben; a tenger ilyenkor gyakran nyugtalanabb és látványosabb. Élvezze a turistaáradat nélküli csendet.",
+                "ro": "Reflecția este ușoară în atmosfera liniștită de iarnă; marea este adesea mai agitată și spectaculoasă acum. Bucurați-vă de cinstirea eroilor în tăcere.",
+                "en": "Reflection is easy in the quiet winter atmosphere; the sea is often more restless and impressive this time of year. Enjoy the silence without crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Talao",
+                "hu": "Torre Talao",
+                "ro": "Torre Talao",
+                "en": "Torre Talao"
+              },
+              "tip_5lang": {
+                "de": "Das frühe Winter-Sonnenuntergang bietet ein Finale; der Felsen badet in goldenem Licht, bevor es ab 17 Uhr kühl wird. Ein magischer Ort zum Abschluss.",
+                "hu": "A korai téli naplemente lenyűgöző záróakkord; a szikla aranyfényben úszik, mielőtt 17 óra után lehűlne a levegő. Tökéletes fotópont a túra végén.",
+                "ro": "Apusul timpuriu de iarnă oferă un final uimitor; stânca e scăldată în lumină aurie înainte de răcoarea de după ora 17:00. Punct foto ideal.",
+                "en": "The early winter sunset provides a stunning finale; the rock is bathed in golden light before the temperature drops at five. A magical spot to finish."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Kezdje autós utazását az amfiteátrumnál egy gyors építészeti élményért, mielőtt a központ közelében parkolna, hogy megcsodálja Gregorio Caloprese szobrát.\n\nAhogy a nap melegszik, vezessen a ferences kolostor csendes romjaihoz, majd kapaszkodjon fel a Torre Cimalonga-hoz a lenyűgöző tengerparti kilátásért.\n\nTöltse a délutánt a normann kastély kiterjedt romjainak felfedezésével, ahol az évszázadok történelme visszhangzik a figyelemre méltóan megőrzött kőfalakon.\n\nEste tegyen egy rövid, pihentető utat a külvárosi San Francesco történelmi szentélyhez, és zárja utazását békés, panorámás völgyi kilátásokkal a kocsiból.",
         "ro": "Începeți excursia cu mașina la amfiteatrul orașului pentru o scurtă imersiune arhitecturală înainte de a parca pentru a admira bustul lui Gregorio Caloprese.\n\nPe măsură ce ziua se încălzește, conduceți la ruinele liniștite ale Mănăstirii Franciscane, urmată de o urcare spre Torre Cimalonga pentru priveliști de coastă.\n\nPetreceți-vă după-amiaza explorând ruinele întinse ale Castelului Normand, unde secole de istorie răsună prin zidurile de piatră extrem de bine conservate.\n\nSeara, faceți o scurtă plimbare cu mașina până la sanctuarul istoric San Francesco de la periferie, încheind călătoria cu vederi panoramice liniștite ale văii.",
         "en": "Kick off your road trip at the city's amphitheater for a quick architectural immersion before parking near the center to admire the bust of Gregorio Caloprese.\n\nAs the day warms up, drive to the tranquil ruins of the Franciscan Convent, followed by a scenic ascent to Torre Cimalonga to enjoy elevated coastal vistas.\n\nSpend your afternoon exploring the sprawling ruins of the Norman Castle, where centuries of history echo through the remarkably well-preserved stone walls.\n\nIn the evening, take a short, relaxing drive to the historic San Francesco sanctuary on the outskirts, ending your journey with peaceful, panoramic valley views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens beobachten wir das stürmische Meer durch die Autoscheiben, während wir bequem die Küstenstraße entlangfahren. Mittags parken wir direkt bei den Sehenswürdigkeiten, um die Zeit im Regen zu minimieren. Nachmittags besuchen wir entferntere Ruinen im Schutz des Autos. Abends verabschieden wir uns von den Lichtern Scaleas.",
+            "hu": "Reggel az autó ablakán keresztül figyeljük a viharos tengert, kényelemben haladva a parti úton. Délben a legközelebbi parkolókban állunk meg a látnivalóknál, minimalizálva az esőben töltött időt. Délután a távolabbi romokat is felkeressük, a kocsi menedékében várakozva. Este a párás ablakok mögül búcsúzunk a Scalea fényeitől.",
+            "ro": "Dimineața urmărim marea furtunoasă prin geamurile mașinii, mergând confortabil pe drumul de coastă. La prânz parcăm chiar lângă obiective pentru a minimiza timpul petrecut în ploaie. După-amiaza vizităm ruinele mai îndepărtate sub protecția mașinii. Seara ne luăm rămas bun de la luminile din Scalea.",
+            "en": "Morning begins with watching the stormy sea through the car windows while comfortably driving along the coast. At noon, we park right next to the sights to minimize time spent in the rain. In the afternoon, we visit more distant ruins from the car's shelter. Evening ends with a view of Scalea's lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anfiteatro scuola media",
+                "hu": "Anfiteatro scuola media",
+                "ro": "Anfiteatro scuola media",
+                "en": "Anfiteatro scuola media"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Auto, bevor Sie kurz zum Theater huschen; im Regen wirken die Konturen besonders scharf. Parken Sie direkt davor.",
+                "hu": "Élvezze a kilátást az autóból, mielőtt gyorsan kiszaladna a színházhoz; az esőben az épület éles kontúrjai még jobban érvényesülnek. Parkoljon közvetlenül előtte.",
+                "ro": "Bucurați-vă de priveliște din mașină înainte de o scurtă vizită la teatru; ploaia face contururile să pară mai clare. Parcați chiar în față.",
+                "en": "Enjoy the view from your car before a quick dash to the theater; the rain makes the modern architecture look sharp. Park directly in front of it."
+              }
+            },
+            {
+              "name": {
+                "de": "Busto Gregorio Caloprese",
+                "hu": "Busto Gregorio Caloprese",
+                "ro": "Busto Gregorio Caloprese",
+                "en": "Busto Gregorio Caloprese"
+              },
+              "tip_5lang": {
+                "de": "Parken ist im Regen einfacher, was einen genaueren Blick ermöglicht; halten Sie den Schirm für den kurzen Weg zum Denkmal bereit. Die Steine sind glatt.",
+                "hu": "A parkolás esőben egyszerűbb, így közelebb állhat meg; tartsa készenlétben az esernyőt a szoborig tartó rövid sétához. A burkolat csúszós lehet.",
+                "ro": "Parcarea este mai ușoară în ploaie, permițând o oprire mai aproape; aveți umbrela pregătită pentru scurta plimbare până la monument. Pavajul e alunecos.",
+                "en": "Parking is easier in the rain, allowing for a closer look; keep your umbrella ready for the short walk to the monument. Watch for slick surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Rovine del Convento Francescano",
+                "hu": "Rovine del Convento Francescano",
+                "ro": "Rovine del Convento Francescano",
+                "en": "Rovine del Convento Francescano"
+              },
+              "tip_5lang": {
+                "de": "Diese Ruinen wirken im Nieselregen besonders antik und atmosphärisch; betrachten Sie die Bögen bequem aus Ihrem Fahrzeug heraus. Ein tolles Regenmotiv.",
+                "hu": "Ezek a romok különösen antiknak és atmoszférikusnak tűnnek a szitáló esőben; csodálja meg az íveket kényelmesen az autóból. Kiváló fotótéma esőben.",
+                "ro": "Aceste ruine arată deosebit de antice și atmosferice în Burniță; admirați arcadele confortabil din vehiculul dumneavoastră. Subiect foto excelent.",
+                "en": "These ruins look especially ancient and atmospheric in the drizzle; view the arches comfortably from your vehicle. A great photo subject in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cimalonga",
+                "hu": "Torre Cimalonga",
+                "ro": "Torre Cimalonga",
+                "en": "Torre Cimalonga"
+              },
+              "tip_5lang": {
+                "de": "Der Turm dominiert die regnerische Skyline; der kurze Weg vom Parkplatz ist auch bei Dauerregen machbar. Im Inneren ist es trocken und geschichtsträchtig.",
+                "hu": "A torony uralja az esős látképet; a parkolótól tartó rövid séta még tartós esőben is kezelhető. A belső tér száraz és történelmi hangulatú.",
+                "ro": "Turnul domină linia orizontului pe ploaie; scurta plimbare de la parcare este fezabilă chiar și pe ploaie continuă. Interiorul e uscat și plin de istorie.",
+                "en": "The tower dominates the rainy skyline; the short walk from the parking area is manageable even in a steady downpour. The interior is dry and historic."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Normanno di Scalea",
+                "hu": "Castello Normanno di Scalea",
+                "ro": "Castello Normanno di Scalea",
+                "en": "Castello Normanno di Scalea"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten eine raue Schönheit unter grauem Himmel; bleiben Sie nahe an den Mauern, um den schlimmsten Wind zu vermeiden. Die Sicht ist dramatisch.",
+                "hu": "A romok zord szépséget árasztanak a szürke ég alatt; maradjon a falak közelében, hogy elkerülje a szélét. A kilátás ilyenkor a legdrámaibb.",
+                "ro": "Ruinele oferă o frumusețe aspră sub cerul gri; rămâneți aproape de ziduri pentru a evita vântul puternic. Vederea este extrem de dramatică acum.",
+                "en": "The ruins offer a rugged beauty under the grey sky; stay close to the walls to avoid the worst of the wind. The view of the coast is dramatic today."
+              }
+            },
+            {
+              "name": {
+                "de": "San Francesco",
+                "hu": "San Francesco",
+                "ro": "San Francesco",
+                "en": "San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Eine malerische Fahrt nach Süden führt zu diesem Juwel; das Innere bietet einen trockenen und friedlichen Abschluss für Ihren Regentag. Genießen Sie die Ruhe.",
+                "hu": "Egy festői autózás délre vezet ehhez a történelmi kincshez; a belső tér száraz és békés lezárást nyújt az esős napnak. Csodálja meg az építészetet.",
+                "ro": "O călătorie pitorească spre sud duce la această bijuterie; interiorul oferă un final uscat și liniștit pentru ziua dumneavoastră ploioasă. Admirați arta.",
+                "en": "A scenic drive south leads to this historical gem; the interior provides a dry and peaceful conclusion to your rainy day. Admire the architecture in peace."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens bewundern wir aus dem beheizten Auto die Stadt im Winterschmuck, Parkplätze sind überall leicht zu finden. Mittags sehen wir die schneebedeckten Gipfel unter klarem Himmel. Nachmittags fahren wir zu fernen Klosterruinen auf leeren Straßen. Abends begleitet uns der Blick auf die beleuchtete Altstadt.",
+            "hu": "Reggel a fűtött utastérből csodáljuk a téli napsütésben fürdő várost, könnyen találva parkolóhelyet bárhol. Délben a közeli hegyek hófödte csúcsait is megpillanthatjuk a tiszta égbolt alatt. Délután a távolabbi kolostorromokhoz autózunk az üres utakon. Este a kivilágított óváros látványa kísér minket.",
+            "ro": "Dimineața admirăm orașul scăldat în soarele de iarnă din interiorul încălzit al mașinii, găsind ușor locuri de parcare. La prânz putem vedea vârfurile înzăpezite ale munților sub cerul senin. După-amiaza conducem spre ruinele mănăstirii pe drumuri pustii. Seara, orașul vechi iluminat ne însoțește.",
+            "en": "Morning starts in a heated car, admiring the city bathed in winter sun with easy parking everywhere. At noon, the snow-capped mountain peaks are visible under the clear sky. In the afternoon, we drive to distant ruins on quiet, empty roads. Evening brings a beautiful view of the illuminated Old Town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anfiteatro scuola media",
+                "hu": "Anfiteatro scuola media",
+                "ro": "Anfiteatro scuola media",
+                "en": "Anfiteatro scuola media"
+              },
+              "tip_5lang": {
+                "de": "Die helle Wintersonne lässt die Linien des Theaters hervortreten; es ist ein schneller erster Stopp mit vielen Parkmöglichkeiten. Ideal für ein kurzes Foto.",
+                "hu": "A ragyogó téli napfény kiemeli a színház vonalait; ez egy gyors és kényelmes első megálló, rengeteg parkolóhellyel. Ideális egy rövid fotózáshoz.",
+                "ro": "Soarele strălucitor de iarnă face ca liniile teatrului să iasă în evidență; este o primă oprire rapidă, cu multe locuri de parcare. Ideal pentru poze.",
+                "en": "The bright winter sun makes the theater's lines pop; it's a quick and easy first stop with plenty of parking nearby. Perfect for a sharp morning photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Busto Gregorio Caloprese",
+                "hu": "Busto Gregorio Caloprese",
+                "ro": "Busto Gregorio Caloprese",
+                "en": "Busto Gregorio Caloprese"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter ruhig und besinnlich; das kühle Wetter ist ideal für einen Spaziergang durch das historische Zentrum. Genießen Sie die Stille.",
+                "hu": "A tér télen csendes és elmélyült; a hűvös idő ideális egy rövid sétához a történelmi központban. Élvezze a város csendesebb arcát a tömeg nélkül.",
+                "ro": "Piața este liniștită și contemplativă iarna; vremea răcoroasă este ideală pentru o plimbare prin centrul istoric. Bucurați-vă de tăcerea orașului.",
+                "en": "The square is quiet and contemplative in winter; the cool weather is ideal for a stroll around the historical center. Enjoy the peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Rovine del Convento Francescano",
+                "hu": "Rovine del Convento Francescano",
+                "ro": "Rovine del Convento Francescano",
+                "en": "Rovine del Convento Francescano"
+              },
+              "tip_5lang": {
+                "de": "Die skelettartigen Überreste des Klosters wirken vor dem blauen Winterhimmel markant; die Vegetation ist ruhend und braun. Ein starker architektonischer Kontrast.",
+                "hu": "A kolostor csontvázszerű maradványai élesen kirajzolódnak a kék téli égbolton; a környező növényzet ilyenkor kopár. Különleges látványt nyújt a rom.",
+                "ro": "Rămășițele scheletice ale mănăstirii sunt frapante pe cerul albastru de iarnă; vegetația este latentă acum. Un contrast vizual puternic și memorabil.",
+                "en": "The skeletal remains of the convent are striking against the blue winter sky; the surrounding vegetation is dormant. A powerful architectural contrast."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Cimalonga",
+                "hu": "Torre Cimalonga",
+                "ro": "Torre Cimalonga",
+                "en": "Torre Cimalonga"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet eine willkommene Pause von der Winterkälte; die Aussicht auf die Küste ist scharf und weitreichend. Die Parkplatzsuche ist jetzt einfach.",
+                "hu": "A múzeum kellemes menedéket nyújt a téli hideg elől; a tengerpartra nyíló kilátás ilyenkor éles és messzire ható. Használja ki a közeli parkolókat.",
+                "ro": "Muzeul oferă o pauză binemeritată de la frigul iernii; vederea asupra coastei este clară și vastă. Parcarea în apropiere este foarte ușoară acum.",
+                "en": "The museum provides a welcome break from the winter chill; the views of the coastline are sharp and far-reaching. Parking is very easy this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Normanno di Scalea",
+                "hu": "Castello Normanno di Scalea",
+                "ro": "Castello Normanno di Scalea",
+                "en": "Castello Normanno di Scalea"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zur Burg ist in der Kälte erfrischend; Sie werden das Panorama zu dieser Jahreszeit wahrscheinlich für sich allein haben. Tolle Fernsicht.",
+                "hu": "A várba való feljutás frissítő a hidegben; valószínűleg egyedül élvezheti a panorámát az évnek ebben a szakaszában. A távoli táj tisztán kivehető.",
+                "ro": "Urcarea la castel este revigorantă în frig; probabil veți avea panorama doar pentru dumneavoastră în această perioadă. Vedere panoramică excelentă.",
+                "en": "Hiking up to the castle is refreshing in the cold; you'll likely have the panoramic views all to yourself this time of year. Bring a jacket for the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "San Francesco",
+                "hu": "San Francesco",
+                "ro": "San Francesco",
+                "en": "San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt entlang der Küste ist im Nachmittagslicht wunderschön; kommen Sie früh an, um das Denkmal vor dem Sonnenuntergang um 17 Uhr zu sehen.",
+                "hu": "A tengerparti autózás gyönyörű a délutáni fényekben; érkezzen korán, hogy még a 17 órás naplemente előtt megtekinthesse az emlékművet. Melegítsen fel a kocsiban.",
+                "ro": "Drumul de-a lungul coastei este superb în lumina după-amiezii; ajungeți devreme pentru a vedea monumentul înainte de apusul de la ora 17:00.",
+                "en": "The drive along the coast is beautiful in the afternoon light; arrive early to see the monument before the 5 PM sunset. Enjoy the scenic empty roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

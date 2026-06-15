@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi központban indul a gazdag helyi fazekas örökség felfedezésével. Délben csendes vallási helyszíneket és Marcel Pagnol bájos miniatűr világát látogatja meg. Délután színes műhelyeket és lenyűgöző festett kápolnákat fedez fel. Az este lágyan ereszkedik le, miközben egy békés téren pihenve élvezi a provence-i élet lassú tempóját.",
         "ro": "Dimineața începe în centrul istoric, descoperind bogata moștenire a ceramicii. La prânz veți vizita locuri religioase liniștite și lumile în miniatură ale lui Marcel Pagnol. După-amiaza veți explora ateliere colorate și capele pictate uimitoare. Seara coboară ușor în timp ce vă relaxați într-o piață pașnică, bucurându-vă de ritmul lent al vieții provensale.",
         "en": "Your morning starts in the historic center, discovering the rich local pottery heritage. Midday brings you to quiet religious sites and the delightful miniature worlds of Marcel Pagnol. In the afternoon, you will explore colorful workshops and stunning painted chapels. Evening falls gently as you relax in a peaceful square, enjoying the slow pace of Provençal life."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das L'argilla Schutz vor dem Regen, wo Sie die Töpferkunst im Trockenen bewundern. Mittags führen die glitschigen Gassen zur Église Saint-Sauveur für eine besinnliche Pause. Nachmittags tauchen Sie in die überdachten Welten von Pagnol und Thérèse Neveu ein. Abends endet der Spaziergang am Square de la Paix; achten Sie auf nasse Pflastersteine und halten Sie den Schirm bereit.",
+            "hu": "Reggel az L'argilla fedett tereiben kezdünk, elkerülve az első záporokat a kerámiák között. Délben az Église Saint-Sauveur nyújt menedéket a szemerkélő eső elől. Délután Marcel Pagnol világa és a helyi műhelyek belső tárlatai várnak, ahol nem ázunk meg. Este a Square de la Paix-nél fejezzük be a kört, vigyázva a csúszós macskakövekre a belváros hangulatos, de vizes utcáin.",
+            "ro": "Dimineața, L'argilla oferă un refugiu perfect împotriva ploii, prezentând arta ceramicii în interior. La prânz, biserica Saint-Sauveur este locul ideal pentru o pauză uscată. După-amiaza este dedicată expozițiilor acoperite ale lui Marcel Pagnol și Thérèse Neveu. Seara se încheie la Square de la Paix; aveți grijă la trotuarele alunecoase și bucurați-vă de atmosfera umedă a orașului.",
+            "en": "Morning starts undercover at L'argilla, where the art of clay keeps you dry. At noon, the Église Saint-Sauveur provides a spiritual and physical shelter from the drizzle. Afternoon is spent exploring the indoor exhibits of Pagnol and Thérèse Neveu. The day ends at Square de la Paix; watch your step on the slick cobblestones and enjoy the rhythmic sound of rain against the historic facades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "L'argilla",
+                "hu": "L'argilla",
+                "ro": "L'argilla",
+                "en": "L'argilla"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierende Welt der Keramik in diesen trockenen Hallen; ideal, um dem Regen zu entfliehen und lokales Kunsthandwerk zu bewundern.",
+                "hu": "Fedezd fel a kerámia lenyűgöző világát ezekben a fedett csarnokokban; tökéletes hely a menekülésre az eső elől a helyi kézműves remekek között.",
+                "ro": "Explorați lumea fascinantă a ceramicii în aceste hale acoperite; locul perfect pentru a scăpa de ploaie admirând măiestria locală.",
+                "en": "Explore the fascinating world of ceramics in these indoor halls; the perfect place to escape the rain while admiring local craftsmanship."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille der Kirche für eine trockene Pause und bewundern Sie die Details des Altars, während draußen der Regen prasselt.",
+                "hu": "Használd ki a templom csendjét egy száraz pihenőre, és csodáld meg az oltár részleteit, miközben odakint kopog az eső.",
+                "ro": "Folosiți liniștea bisericii pentru o pauză uscată și admirați detaliile altarului în timp ce afară plouă torențial.",
+                "en": "Use the silence of the church for a dry break and admire the details of the altar while the rain patters outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Petit Monde de Marcel Pagnol",
+                "hu": "Le Petit Monde de Marcel Pagnol",
+                "ro": "Le Petit Monde de Marcel Pagnol",
+                "en": "Le Petit Monde de Marcel Pagnol"
+              },
+              "tip_5lang": {
+                "de": "Diese Ausstellung ist komplett überdacht; bewundern Sie die Santons in aller Ruhe, ohne sich um das wechselhafte Wetter sorgen zu müssen.",
+                "hu": "Ez a kiállítás teljesen fedett; csodáld meg a santonokat teljes nyugalomban, anélkül, hogy aggódnod kellene a változékony időjárás miatt.",
+                "ro": "Această expoziție este complet acoperită; admirați figurinele santon în liniște, fără a vă face griji de vremea schimbătoare.",
+                "en": "This exhibition is fully covered; admire the santons in complete peace without having to worry about the changeable weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier Thérèse Neveu",
+                "hu": "Atelier Thérèse Neveu",
+                "ro": "Atelier Thérèse Neveu",
+                "en": "Atelier Thérèse Neveu"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Werkstatt der berühmten Künstlerin und bleiben Sie trocken, während Sie die Geschichte der provenzalischen Keramik entdecken.",
+                "hu": "Látogass el a híres művésznő műhelyébe, és maradj szárazon, miközben felfedezed a provence-i kerámiagyártás történetét.",
+                "ro": "Vizitați atelierul celebrei artiste și rămâneți uscați în timp ce descoperiți istoria ceramicii provensale.",
+                "en": "Visit the workshop of the famous artist and stay dry while discovering the history of Provençal ceramic making."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pénitents Noirs",
+                "hu": "Chapelle des Pénitents Noirs",
+                "ro": "Chapelle des Pénitents Noirs",
+                "en": "Chapelle des Pénitents Noirs"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle dient als Kulturzentrum und bietet Schutz vor Wind und Wetter bei wechselnden Ausstellungen in historischem Ambiente.",
+                "hu": "A kápolna kulturális központként is funkcionál, védelmet nyújtva a szél és eső elől a történelmi környezetben rendezett kiállításokon.",
+                "ro": "Capela servește ca centru cultural, oferind protecție împotriva vântului și ploii în timpul expozițiilor organizate în decor istoric.",
+                "en": "The chapel serves as a cultural center, providing protection from wind and rain during exhibitions held in a historical setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Square de la Paix",
+                "hu": "Square de la Paix",
+                "ro": "Square de la Paix",
+                "en": "Square de la Paix"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier bei Regen aus; suchen Sie Schutz unter den Bäumen und genießen Sie die frische, feuchte Luft Aubagnes.",
+                "hu": "Esőben elég itt egy rövid megálló; keress menedéket a fák alatt, és élvezd Aubagne friss, párás levegőjét egy ernyő alatt.",
+                "ro": "O scurtă oprire este suficientă aici pe ploaie; căutați adăpost sub copaci și bucurați-vă de aerul proaspăt și umed din Aubagne.",
+                "en": "A short stop is enough here in the rain; seek shelter under the trees and enjoy Aubagne's fresh, humid air under an umbrella."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens belebt die kühle Brise bei L'argilla, wo die Innenräume angenehm temperiert sind. Mittags wärmt die Sonne die hellen Steine der Église Saint-Sauveur. Nachmittags nutzen Sie das letzte Tageslicht in den Museen von Pagnol und Neveu. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie die abendliche Beleuchtung am Square de la Paix in einer warmen Winterjacke.",
+            "hu": "Reggel a hűvös provence-i levegőben az L'argilla fűtött tárlata melegít fel minket. Délben az Église Saint-Sauveur falai között keressük a csendet, miközben a téli nap alacsonyan jár. Délután az Atelier Thérèse Neveu műhelyében csodáljuk a kézművességet. Este, mivel 17 órakor már sötétedik, a Square de la Paix fényeiben fejezzük be a sétát, jól felöltözve a Mistral szél ellen.",
+            "ro": "Dimineața, briza rece de la L'argilla vă va trezi, dar interioarele sunt primitoare și calde. La prânz, soarele de iarnă luminează biserica Saint-Sauveur. După-amiaza, profitați de lumina naturală în muzeele dedicate lui Pagnol. Deoarece soarele apune în jurul orei 17:00, încheiați vizita la Square de la Paix, fiind bine îmbrăcați împotriva vântului Mistral.",
+            "en": "Morning starts with a crisp breeze at L'argilla, where the heated galleries provide a cozy start. At noon, the pale winter sun lights up Église Saint-Sauveur. In the afternoon, explore the museums before the early sunset at 17:00. Finish your day at Square de la Paix as the streetlights flicker on, ensuring you have a warm layer against the sharp Mistral wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "L'argilla",
+                "hu": "L'argilla",
+                "ro": "L'argilla",
+                "en": "L'argilla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Ausstellungsräume und lassen Sie sich von der Wärme der Farben der provenzalischen Keramik aufwärmen.",
+                "hu": "Élvezd a fűtött kiállítótermeket, és hagyd, hogy a provence-i kerámiák színeinek melegsége felmelegítsen a kinti hideg után.",
+                "ro": "Bucurați-vă de sălile de expoziție încălzite și lăsați căldura culorilor ceramicii provensale să vă încălzească sufletul.",
+                "en": "Enjoy the heated exhibition rooms and let the warmth of the colors of Provençal ceramics warm you up after the cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche schützen vor dem beißenden Mistral-Wind; ein idealer Ort für eine kurze, windstille Pause.",
+                "hu": "A templom vastag falai megvédenek a metsző Mistral széltől; ideális hely egy rövid, szélcsendes pihenőre a városnézés közben.",
+                "ro": "Zidurile groase ale bisericii vă protejează de vântul tăios Mistral; un loc ideal pentru o scurtă pauză ferită de curent.",
+                "en": "The thick walls of the church protect from the biting Mistral wind; an ideal place for a short, windless break during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Petit Monde de Marcel Pagnol",
+                "hu": "Le Petit Monde de Marcel Pagnol",
+                "ro": "Le Petit Monde de Marcel Pagnol",
+                "en": "Le Petit Monde de Marcel Pagnol"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Miniaturwelt von Pagnol, wo das warme Licht der Vitrinen die winterliche Kälte draußen vergessen lässt.",
+                "hu": "Merülj el Pagnol miniatűr világában, ahol a vitrinek meleg fénye feledteti a kinti téli hideget és a szürkeséget.",
+                "ro": "Cufundați-vă în lumea miniatură a lui Pagnol, unde lumina caldă a vitrinelor vă face să uitați de frigul iernii de afară.",
+                "en": "Immerse yourself in the miniature world of Pagnol, where the warm light of the display cases makes you forget the winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Atelier Thérèse Neveu",
+                "hu": "Atelier Thérèse Neveu",
+                "ro": "Atelier Thérèse Neveu",
+                "en": "Atelier Thérèse Neveu"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das historische Atelier am Nachmittag, bevor die frühe Dämmerung einsetzt, und bewundern Sie die feine Handarbeit im Warmen.",
+                "hu": "Látogass el a történelmi műhelybe délután, mielőtt beáll a korai sötétség, és csodáld meg a finom kézimunkát a melegben.",
+                "ro": "Vizitați atelierul istoric după-amiaza, înainte de lăsarea serii, și admirați lucrul manual fin într-un mediu călduros.",
+                "en": "Visit the historic workshop in the afternoon before early dusk sets in, and admire the fine handicraft in the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pénitents Noirs",
+                "hu": "Chapelle des Pénitents Noirs",
+                "ro": "Chapelle des Pénitents Noirs",
+                "en": "Chapelle des Pénitents Noirs"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das kulturelle Angebot im Inneren der Kapelle, um der winterlichen Feuchtigkeit und dem Wind für eine Weile zu entkommen.",
+                "hu": "Használd ki a kápolna belső kulturális kínálatát, hogy egy időre elmenekülj a téli nyirkosság és a fagyos szél elől.",
+                "ro": "Profitați de oferta culturală din interiorul capelei pentru a scăpa pentru o vreme de umezeala și vântul de iarnă.",
+                "en": "Take advantage of the cultural offerings inside the chapel to escape the winter dampness and wind for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Square de la Paix",
+                "hu": "Square de la Paix",
+                "ro": "Square de la Paix",
+                "en": "Square de la Paix"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier zügig vor Sonnenuntergang um 17 Uhr; die winterliche Abendstimmung bietet tolle Fotomotive bei klarem Himmel.",
+                "hu": "Fejezd be a napot gyorsan a 17 órai naplemente előtt; a téli esti hangulat remek fotótémákat kínál tiszta égbolt mellett.",
+                "ro": "Încheiați ziua aici rapid înainte de apusul soarelui de la ora 17; atmosfera de seară de iarnă oferă motive foto superbe pe cer senin.",
+                "en": "Finish the day here quickly before sunset at 5 PM; the winter evening atmosphere offers great photo opportunities under clear skies."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a kerékpározást egy irodalmi legenda szülőhelyén, majd tekerjen a hatalmas betlehemi diorámákhoz. Délben a történelmi központban pedálozva időtlen templomokat és kerámiákat láthat. A délután egy ipari művészeti térhez és egy árnyékos parkhoz vezet. Végül guruljon el a tekintélyes Idegenlégió múzeumához, hogy méltóképpen zárja a napot.",
         "ro": "Începeți plimbarea la locul de naștere al unei legende literare, apoi pedalați pentru a admira uriașele diorame. La prânz, treceți prin centrul istoric pentru a vedea biserici și ceramici atemporale. După-amiaza vă conduce spre un spațiu de artă industrială și un parc umbrit. La final, îndreptați-vă spre prestigiosul muzeu al Legiunii Străine pentru a încheia ziua.",
         "en": "Kick off your ride at the birthplace of a literary legend, then cycle to marvel at massive nativity dioramas. By midday, pedal through the vibrant historic core to see timeless churches and ceramics. The afternoon leads you slightly off the beaten path to an industrial arts space and a shaded park. Finally, glide toward the prestigious Foreign Legion museum to end the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad verlangt Vorsicht auf Aubagnes Straßen. Morgens besuchen Sie Pagnols Geburtshaus, eine perfekte trockene Basis. Mittags führt die Tour zum Santon-Dorf, ideal bei Schauern. Nachmittags bieten Kirchen und Museen Schutz. Achten Sie auf rutschige Markierungen und nutzen Sie Schutzbleche, um den Tag am Museum der Fremdenlegion trocken zu beenden.",
+            "hu": "Egy esős kerékpáros nap óvatosságot igényel Aubagne utcáin. Reggel Pagnol szülőházát látogatjuk meg, ami tökéletes száraz bázis. Délben a Santon-falu felé tekerünk, ami ideális záporok idején. Délután a templomok és múzeumok nyújtanak menedéket. Figyelj a csúszós útburkolati jelekre, és használj sárvédőt, hogy szárazon érj a Francia Idegenlégió Múzeumához.",
+            "ro": "O zi ploioasă pe bicicletă necesită prudență pe străzile din Aubagne. Dimineața vizitați casa natală a lui Pagnol, o bază uscată perfectă. La prânz, pedalați spre satul santonilor, ideal în timpul averselor. După-amiaza, bisericile și muzeele oferă adăpost. Atenție la marcajele rutiere alunecoase și folosiți apărători de noroi pentru a ajunge uscați la final.",
+            "en": "A rainy cycling day demands caution on Aubagne's roads. In the morning, visit Pagnol’s birthplace, a perfect dry base. At noon, ride to the Santon village, ideal during showers. Afternoon provides shelter in churches and museums. Watch out for slippery road markings and use mudguards to ensure you reach the Foreign Legion Museum relatively dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison Natale de Marcel Pagnol",
+                "hu": "Maison Natale de Marcel Pagnol",
+                "ro": "Maison Natale de Marcel Pagnol",
+                "en": "Maison Natale de Marcel Pagnol"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und genießen Sie die warme, trockene Atmosphäre im Inneren dieses literarischen Schatzes.",
+                "hu": "Támaszd le biztonságosan a biciklidet, és élvezd a meleg, száraz atmoszférát ezen az irodalmi emlékhelyen belül.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de atmosfera caldă și uscată din interiorul acestei comori literare.",
+                "en": "Park your bike safely and enjoy the warm, dry atmosphere inside this literary treasure house during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le village des santons en Provence",
+                "hu": "Le village des santons en Provence",
+                "ro": "Le village des santons en Provence",
+                "en": "Le village des santons en Provence"
+              },
+              "tip_5lang": {
+                "de": "Ein weitläufiges Indoor-Museum, perfekt um längere Regengüsse zu überbrücken und die feinen Details der Santons zu studieren.",
+                "hu": "Tágas beltéri múzeum, tökéletes a hosszabb záporok átvészelésére, miközben a santonok finom részleteit tanulmányozod.",
+                "ro": "Un muzeu interior spațios, perfect pentru a trece peste aversle prelungite și pentru a studia detaliile fine ale figurinelor.",
+                "en": "A spacious indoor museum, perfect for waiting out longer showers while studying the fine details of the santons."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aufsteigen auf die nassen Pedale; die Kirche bietet einen kurzen, trockenen Moment der Besinnung.",
+                "hu": "Vigyázz a vizes pedálokra felszálláskor; a templom rövid, száraz pillanatot kínál az elmélyüléshez az esős tekerés közben.",
+                "ro": "Atenție la pedalele ude la plecare; biserica oferă un scurt moment uscat de reflecție în timpul traseului ploios.",
+                "en": "Watch out for wet pedals when mounting; the church offers a short, dry moment of reflection during your rainy ride."
+              }
+            },
+            {
+              "name": {
+                "de": "L'argilla",
+                "hu": "L'argilla",
+                "ro": "L'argilla",
+                "en": "L'argilla"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Rads und genießen Sie die Keramikkunst fernab der nassen Straßen.",
+                "hu": "Használd a fedett bejárati részt a bicikli tárolására, és élvezd a kerámiaművészetet távol a vizes és csúszós utcáktól.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta și bucurați-vă de arta ceramicii departe de străzile ude.",
+                "en": "Use the covered entrance area to park your bike and enjoy the ceramic art away from the wet and slippery streets."
+              }
+            },
+            {
+              "name": {
+                "de": "La Distillerie",
+                "hu": "La Distillerie",
+                "ro": "La Distillerie",
+                "en": "La Distillerie"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Hotspot im Trockenen; perfekt, um sich kurz aufzuwärmen, bevor es zum letzten Stopp weitergeht.",
+                "hu": "Kulturális csomópont a szárazon; tökéletes hely egy rövid bemelegedésre, mielőtt továbbindulnál az utolsó állomás felé.",
+                "ro": "Un punct cultural la adăpost; perfect pentru a vă încălzi puțin înainte de a continua spre ultima oprire.",
+                "en": "A cultural hotspot in the dry; perfect for warming up briefly before heading on to the final stop of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux de la résidence Ganteaume",
+                "hu": "Aire de Jeux de la résidence Ganteaume",
+                "ro": "Aire de Jeux de la résidence Ganteaume",
+                "en": "Aire de Jeux de la résidence Ganteaume"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen sind die Spielgeräte rutschig; halten Sie hier nur kurz an, um die Aussicht auf die Stadt zu genießen.",
+                "hu": "Esőben a játékok csúszósak lehetnek; csak rövid ideig állj meg itt, hogy élvezd a városra nyíló kilátást az ernyő alól.",
+                "ro": "Pe ploaie, echipamentele de joacă sunt alunecoase; opriți-vă aici doar scurt pentru a admira vederea spre oraș.",
+                "en": "In the rain, the play equipment can be slippery; stop here only briefly to enjoy the view of the city under your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Légion Étrangère",
+                "hu": "Musée de la Légion Étrangère",
+                "ro": "Musée de la Légion Étrangère",
+                "en": "Musée de la Légion Étrangère"
+              },
+              "tip_5lang": {
+                "de": "Das große Museum bietet stundenlangen Schutz; ideal, um den Tag gemütlich im Trockenen ausklingen zu lassen.",
+                "hu": "A hatalmas múzeum órákig tartó védelmet nyújt; ideális a nap kényelmes, száraz befejezéséhez a sok látnivaló között.",
+                "ro": "Muzeul mare oferă ore de protecție; ideal pentru a încheia ziua confortabil la adăpost printre numeroasele exponate.",
+                "en": "The large museum offers hours of protection; ideal for finishing the day comfortably in the dry among the many exhibits."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Aubagne bedeutet klare Luft und scharfe Winde. Morgens wärmt die Besichtigung von Pagnols Haus auf. Mittags geht es zügig zum Santon-Dorf, um die Glieder in Bewegung zu halten. Nachmittags bieten Museen wohlige Wärme. Beenden Sie die Tour am Museum der Fremdenlegion vor Einbruch der Dunkelheit um 17:00 Uhr und tragen Sie winddichte Kleidung.",
+            "hu": "A téli kerékpározás Aubagne-ban friss levegőt és metsző szeleket jelent. Reggel Pagnol házának megtekintése melegít fel. Délben tempósan tekerünk a Santon-faluhoz, hogy mozgásban tartsuk magunkat. Délután a múzeumok kínálnak kellemes meleget. Fejezd be a túrát az Idegenlégió Múzeumánál a 17 órai sötétedés előtt, és viselj szélálló ruházatot.",
+            "ro": "Ciclismul de iarnă în Aubagne înseamnă aer proaspăt și vânturi tăioase. Dimineața, vizitarea casei lui Pagnol vă va încălzi. La prânz, pedalați energic spre satul santonilor pentru a vă menține circulația. După-amiaza, muzeele oferă o căldură plăcută. Încheiați turul la Muzeul Legiunii înainte de întuneric, la ora 17:00, purtând haine rezistente la vânt.",
+            "en": "Winter cycling in Aubagne brings crisp air and sharp winds. In the morning, a visit to Pagnol’s house warms you up. At noon, cycle briskly to the Santon village to keep your limbs moving. In the afternoon, the museums offer welcoming warmth. Finish your tour at the Foreign Legion Museum before darkness falls at 5 PM, ensuring you wear windproof layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison Natale de Marcel Pagnol",
+                "hu": "Maison Natale de Marcel Pagnol",
+                "ro": "Maison Natale de Marcel Pagnol",
+                "en": "Maison Natale de Marcel Pagnol"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Start im Warmen; nutzen Sie die Zeit, um die literarische Geschichte ohne den winterlichen Wind zu erkunden.",
+                "hu": "Kellemes kezdés a melegben; használd ki az időt az irodalmi történelem felfedezésére a téli szél nélkül.",
+                "ro": "Un început confortabil la căldură; profitați de timp pentru a explora istoria literară fără vântul de iarnă.",
+                "en": "A cozy start in the warmth; take the time to explore literary history without the biting winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le village des santons en Provence",
+                "hu": "Le village des santons en Provence",
+                "ro": "Le village des santons en Provence",
+                "en": "Le village des santons en Provence"
+              },
+              "tip_5lang": {
+                "de": "Im Winter besonders stimmungsvoll; die Santons versprühen provenzalischen Charme, während Sie sich drinnen aufwärmen.",
+                "hu": "Télen különösen hangulatos; a santonok provence-i bájt árasztanak, miközben te bent melegszel a kiállításon.",
+                "ro": "Deosebit de atmosferic iarna; figurinele santon emană farmec provensal în timp ce vă încălziți în interior.",
+                "en": "Especially atmospheric in winter; the santons exude Provençal charm while you warm up inside the exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte ab; gönnen Sie Ihren Beinen eine Pause von der winterlichen Radtour.",
+                "hu": "A vastag kőfalak távol tartják a hideget; pihentesd meg a lábaidat a téli kerékpártúra közben ebben a csendes térben.",
+                "ro": "Zidurile groase de piatră țin frigul la distanță; acordați picioarelor o pauză de la traseul de iarnă pe bicicletă.",
+                "en": "The thick stone walls keep the cold out; give your legs a break from the winter cycling tour in this quiet space."
+              }
+            },
+            {
+              "name": {
+                "de": "L'argilla",
+                "hu": "L'argilla",
+                "ro": "L'argilla",
+                "en": "L'argilla"
+              },
+              "tip_5lang": {
+                "de": "Die Keramikausstellung ist perfekt temperiert; genießen Sie die Kunstwerke, während die Wintersonne tief am Himmel steht.",
+                "hu": "A kerámiakiállítás tökéletesen fűtött; élvezd a műalkotásokat, miközben a téli nap alacsonyan jár az égen.",
+                "ro": "Expoziția de ceramică este încălzită perfect; admirați operele de artă în timp ce soarele de iarnă stă jos pe cer.",
+                "en": "The ceramics exhibition is perfectly heated; enjoy the artworks while the winter sun sits low in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "La Distillerie",
+                "hu": "La Distillerie",
+                "ro": "La Distillerie",
+                "en": "La Distillerie"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, kulturvoller Zwischenstopp im Warmen, um die Finger für die Weiterfahrt wieder beweglich zu machen.",
+                "hu": "Rövid, kultúrával teli megálló a melegben, hogy újra átmozgasd az ujjaidat a fagyos kormány után.",
+                "ro": "O scurtă oprire culturală la căldură pentru a vă dezmorți degetele după ghidonul înghețat.",
+                "en": "A short, culture-filled stop in the warm interior to get your fingers moving again after the freezing handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux de la résidence Ganteaume",
+                "hu": "Aire de Jeux de la résidence Ganteaume",
+                "ro": "Aire de Jeux de la résidence Ganteaume",
+                "en": "Aire de Jeux de la résidence Ganteaume"
+              },
+              "tip_5lang": {
+                "de": "Der Mistral kann hier oben stark wehen; bewundern Sie kurz das Panorama und fahren Sie dann zügig weiter.",
+                "hu": "A Mistral szél itt fent erősen fújhat; csodáld meg röviden a panorámát, majd tekerj tovább a szélvédettebb részekre.",
+                "ro": "Vântul Mistral poate sufla puternic aici sus; admirați scurt panorama și apoi pedalați rapid mai departe.",
+                "en": "The Mistral wind can blow strongly up here; admire the panorama briefly and then cycle on to more sheltered areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de la Légion Étrangère",
+                "hu": "Musée de la Légion Étrangère",
+                "ro": "Musée de la Légion Étrangère",
+                "en": "Musée de la Légion Étrangère"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im Warmen; das Museum bietet eine ideale Flucht vor der frühen winterlichen Dunkelheit.",
+                "hu": "Fejezd be a túrát itt a melegben; a múzeum ideális menekülést nyújt a korai téli sötétség és a lehűlés elől.",
+                "ro": "Încheiați turul aici la căldură; muzeul oferă o scăpare ideală de întunericul timpuriu și frigul iernii.",
+                "en": "Finish your tour here in the warm; the museum offers an ideal escape from the early winter darkness and the dropping temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Kezdje autós túráját az Idegenlégió lenyűgöző történetével. A késő délelőtt Aubagne szívébe vezeti önt a hagyományos agyagfigurák megcsodálására. Délután a furcsa miniatűr világból a Garlaban masszívum nagy kiterjedésű ösvényeire vált. Az estét tökéletesen töltheti egy nyitott fennsíkon, élvezve a békés és lenyűgöző panorámát a táj felett.",
         "ro": "Începeți turul auto cu istoria fascinantă a Legiunii Străine. Dimineața târziu vă poartă în inima orașului Aubagne pentru a admira figurine tradiționale de lut. După-amiaza faceți tranziția de la lumea în miniatură la traseele naturale din masivul Garlaban. Seara este petrecută perfect pe un platou deschis, bucurându-vă de priveliști panoramice uimitoare și liniștite.",
         "en": "Start your driving tour with the strict and fascinating history of the Foreign Legion. Late morning takes you to the heart of Aubagne to admire traditional clay figurines. By afternoon, transition from the quaint miniature world to the grand, sweeping natural trails of the Garlaban massif. The evening is perfectly spent on an open plateau, enjoying serene panoramic views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Aubagne bei Regen komfortabel. Morgens bietet das Museum der Fremdenlegion ein riesiges Indoor-Programm. Mittags geht es zum Santon-Dorf und zu Pagnols Miniaturwelt, alles im Trockenen. Nachmittags ist die Fahrt zum Garlaban spektakulär, auch wenn die Gipfel in Wolken hängen. Genießen Sie die Aussicht vom sicheren, trockenen Fahrzeug aus.",
+            "hu": "Autóval Aubagne esőben is kényelmes. Reggel az Idegenlégió Múzeuma kínál hatalmas beltéri programot. Délben a Santon-falu és Pagnol miniatűr világa vár, mind száraz helyen. Délután a Garlaban felé vezető út látványos, még ha a csúcs felhőbe is vész; élvezd a kilátást a biztonságos, száraz autóból, figyelve a hegyi utak vízátfolyásaira.",
+            "ro": "Cu mașina, Aubagne este confortabil pe ploaie. Dimineața, Muzeul Legiunii oferă un program interior vast. La prânz, satul santonilor și lumea lui Pagnol vă așteaptă la adăpost. După-amiaza, drumul spre Garlaban este spectaculos chiar dacă vârful e în nori; admirați vederea din mașina sigură și uscată, atenți la scurgerile de apă de pe drum.",
+            "en": "Aubagne is comfortable by car even in the rain. In the morning, the Foreign Legion Museum offers a vast indoor program. At noon, the Santon village and Pagnol’s miniature world await, all undercover. In the afternoon, the drive towards Garlaban is spectacular even if the peak is shrouded in clouds; enjoy the view from your dry vehicle while watching for runoff on mountain roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée de la Légion Étrangère",
+                "hu": "Musée de la Légion Étrangère",
+                "ro": "Musée de la Légion Étrangère",
+                "en": "Musée de la Légion Étrangère"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz und verbringen Sie den regnerischen Vormittag in den weitläufigen, trockenen Hallen des Museums.",
+                "hu": "Használd a nagy parkolót, és töltsd az esős délelőttöt a múzeum tágas, száraz csarnokaiban a rengeteg kiállítási tárgy között.",
+                "ro": "Folosiți parcarea mare și petreceți dimineața ploioasă în halele spațioase și uscate ale muzeului printre numeroasele exponate.",
+                "en": "Use the large parking lot and spend the rainy morning in the museum's spacious, dry halls among the numerous exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Le village des santons en Provence",
+                "hu": "Le village des santons en Provence",
+                "ro": "Le village des santons en Provence",
+                "en": "Le village des santons en Provence"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp; lassen Sie sich Zeit bei der Betrachtung der Santons, während es draußen regnet.",
+                "hu": "Ideális beltéri megálló; szánj időt a santonok megfigyelésére, miközben odakint esik az eső, itt garantáltan nem ázol meg.",
+                "ro": "O oprire ideală în interior; acordați-vă timp pentru a observa figurinele santon în timp ce afară plouă, aici fiind protejați.",
+                "en": "An ideal indoor stop; take your time observing the santons while it rains outside, you are guaranteed to stay dry here."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Petit Monde de Marcel Pagnol",
+                "hu": "Le Petit Monde de Marcel Pagnol",
+                "ro": "Le Petit Monde de Marcel Pagnol",
+                "en": "Le Petit Monde de Marcel Pagnol"
+              },
+              "tip_5lang": {
+                "de": "Zentral gelegen und komplett überdacht; perfekt, um den kulturellen Teil der Tour trocken fortzusetzen.",
+                "hu": "Központi elhelyezkedésű és teljesen fedett; tökéletes helyszín a túra kulturális részének száraz folytatásához az esőben.",
+                "ro": "Locație centrală și complet acoperită; locul perfect pentru a continua partea culturală a turului la adăpost de ploaie.",
+                "en": "Centrally located and fully covered; the perfect venue to continue the cultural part of the tour while staying dry in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Garlaban",
+                "hu": "Le Garlaban",
+                "ro": "Le Garlaban",
+                "en": "Le Garlaban"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die dramatische Aussicht auf das Massiv durch die Windschutzscheibe.",
+                "hu": "Erős esőben maradj az autóban, és élvezd a masszívum drámai látványát a szélvédőn keresztül, kerülve a sáros ösvényeket.",
+                "ro": "Pe ploaie puternică rămâneți în mașină și admirați vederea dramatică a masivului prin parbriz, evitând potecile noroioase.",
+                "en": "In heavy rain, stay in the car and enjoy the dramatic view of the massif through the windshield, avoiding the muddy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Plateau des Espillières",
+                "hu": "Plateau des Espillières",
+                "ro": "Plateau des Espillières",
+                "en": "Plateau des Espillières"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto der nebligen Landschaft reicht aus; die Wege können bei Nässe sehr rutschig sein.",
+                "hu": "Elég egy rövid megálló a ködös táj fotózásához; az utak és ösvények nedvesen nagyon csúszósak lehetnek itt fent.",
+                "ro": "O scurtă oprire pentru o fotografie a peisajului cețos este suficientă; drumurile și potecile pot fi foarte alunecoase aici sus.",
+                "en": "A short stop for a photo of the misty landscape is enough; the roads and paths can be very slippery up here when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch Aubagne schützt vor dem kalten Mistral. Morgens erkunden Sie das beheizte Museum der Fremdenlegion. Mittags besuchen Sie die Santon-Dörfer und Pagnols Ausstellungen, wo es gemütlich warm ist. Nachmittags fahren Sie zum Garlaban, um das goldene Winterlicht zu erleben, bevor die Sonne um 17:00 Uhr untergeht. Achten Sie auf mögliche Windböen auf den Plateaus.",
+            "hu": "A téli autózás Aubagne-ban megvéd a hideg Mistral széltől. Reggel a fűtött Idegenlégió Múzeumát fedezzük fel. Délben a Santon-falu és Pagnol kiállításai várnak, ahol kellemes meleg fogad. Délután hajts fel a Garlabanhoz az aranyló téli fényekért, mielőtt a nap 17 órakor lebukik a horizont alá. Figyelj az erős széllökésekre a magasabb pontokon.",
+            "ro": "Un traseu de iarnă cu mașina prin Aubagne vă protejează de vântul rece Mistral. Dimineața, explorați Muzeul Legiunii încălzit. La prânz, vizitați satul santonilor și expozițiile lui Pagnol, unde atmosfera e primitoare. După-amiaza, urcați spre Garlaban pentru lumina aurie de iarnă înainte de apusul de la ora 17:00. Atenție la rafalele de vânt pe platouri.",
+            "en": "A winter drive through Aubagne protects you from the cold Mistral wind. In the morning, explore the heated Foreign Legion Museum. At noon, visit the Santon village and Pagnol’s exhibits, where a cozy warmth awaits. In the afternoon, drive up to Garlaban for the golden winter light before the sun sets at 5 PM. Watch out for strong wind gusts on the higher plateaus."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée de la Légion Étrangère",
+                "hu": "Musée de la Légion Étrangère",
+                "ro": "Musée de la Légion Étrangère",
+                "en": "Musée de la Légion Étrangère"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den kalten Tag in diesem gut beheizten Museum; es ist der perfekte Ort, um sich am Vormittag aufzuwärmen.",
+                "hu": "Kezdd a hideg napot ebben a jól fűtött múzeumban; ez a tökéletes hely a bemelegedésre a délelőtt folyamán a sok látnivaló mellett.",
+                "ro": "Începeți ziua rece în acest muzeu bine încălzit; este locul perfect pentru a vă încălzi dimineața printre numeroasele exponate.",
+                "en": "Start the cold day in this well-heated museum; it is the perfect place to warm up during the morning among the many exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Le village des santons en Provence",
+                "hu": "Le village des santons en Provence",
+                "ro": "Le village des santons en Provence",
+                "en": "Le village des santons en Provence"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den provenzalischen Winterzauber im Inneren; die Santons wirken im weichen Winterlicht besonders lebendig.",
+                "hu": "Élvezd a provence-i téli varázst a beltérben; a santonok a lágy téli fényben különösen élettelinek tűnnek a meleg tárlaton.",
+                "ro": "Bucurați-vă de magia iernii provensale în interior; figurinele par deosebit de vii în lumina blândă de iarnă din expoziție.",
+                "en": "Enjoy the Provençal winter magic indoors; the santons look particularly lifelike in the soft winter light of the heated exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Petit Monde de Marcel Pagnol",
+                "hu": "Le Petit Monde de Marcel Pagnol",
+                "ro": "Le Petit Monde de Marcel Pagnol",
+                "en": "Le Petit Monde de Marcel Pagnol"
+              },
+              "tip_5lang": {
+                "de": "Ein behaglicher Ort fernab des Windes; ideal, um in die Welt von Pagnol einzutauchen, während es draußen frostig ist.",
+                "hu": "Meghitt hely távol a széltől; ideális Pagnol világában való elmélyülésre, miközben odakint fagyos az időjárás.",
+                "ro": "Un loc primitor departe de vânt; ideal pentru a vă cufunda în lumea lui Pagnol în timp ce afară este ger.",
+                "en": "A cozy place away from the wind; ideal for immersing yourself in Pagnol's world while it's freezing outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Garlaban",
+                "hu": "Le Garlaban",
+                "ro": "Le Garlaban",
+                "en": "Le Garlaban"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Panorama im Schutz des Autos; der Ausblick auf die schneebedeckten Gipfel in der Ferne ist im Winter oft glasklar.",
+                "hu": "Élvezd a panorámát az autó védelmében; a távoli, havas csúcsokra nyíló kilátás télen gyakran kristálytiszta a hegytetőn.",
+                "ro": "Admirați panorama din protecția mașinii; vederea spre vârfurile înzăpezite din depărtare este adesea extrem de clară iarna.",
+                "en": "Experience the panorama from the protection of your car; the view of distant snow-capped peaks is often crystal clear in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plateau des Espillières",
+                "hu": "Plateau des Espillières",
+                "ro": "Plateau des Espillières",
+                "en": "Plateau des Espillières"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Plateau vor 17:00 Uhr, um das letzte Licht zu nutzen; ziehen Sie sich warm an, da der Wind hier oben beißen kann.",
+                "hu": "Látogass el a fennsíkra 17:00 előtt, hogy kihasználd az utolsó fényeket; öltözz melegen, mert a szél itt fent metsző lehet.",
+                "ro": "Vizitați platoul înainte de ora 17:00 pentru a profita de ultima lumină; îmbrăcați-vă gros, vântul poate fi tăios aici sus.",
+                "en": "Visit the plateau before 5:00 PM to catch the last light; dress warmly as the wind can be biting up here in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

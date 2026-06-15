@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a városközpontban a színes városfeliratnál.\n\nDélben merüljön el a maja művészetben a Tita Galériában és az Artists Foundation-ben.\n\nDélután lenyűgöző gyűjtemények várják a Nahualli és a Casa Catherwood múzeumokban.\n\nZárja az estét a kísérleti művészeti színtérrel, amely új, modern távlatokat nyit a yucatáni kultúra megismerésében.",
         "ro": "Începeți dimineața în centrul orașului la literele colorate emblematice.\n\nLa prânz, cufundați-vă în arta mayașă de la Galeria Tita și Fundația Artiștilor.\n\nDupă-amiaza vă așteaptă colecțiile impresionante de la Nahualli și Casa Catherwood.\n\nÎncheiați seara explorând scena de artă experimentală, care oferă perspective moderne asupra culturii yucatece.",
         "en": "Start your day in the heart of Mérida at the colorful city letters for great photos.\n\nAt midday, immerse yourself in Mayan art at the nearby Tita Gallery and Artists Foundation.\n\nIn the afternoon, head north to discover the impressive collections at the Nahualli and Casa Catherwood museums.\n\nConclude your evening exploring Mérida's experimental art scene for a fresh cultural perspective."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an den bunten Buchstaben, wo Pfützen die Farben spiegeln. Vormittags bieten die Galerien Tita und Artists Foundation perfekten Schutz vor den warmen tropischen Güssen. Den Nachmittag verbringen Sie in den weitläufigen Innenräumen von Nahualli und Casa Catherwood. Am Abend endet die Tour im Sitio Experimental, während draußen der Regen die Hitze der Stadt angenehm kühlt.",
+            "hu": "A reggel a színes betűknél indul, ahol a pocsolyák visszatükrözik a fényeket. Délelőtt a Tita és az Artists Foundation galériái nyújtanak menedéket a trópusi záporok elől. A délutánt a Nahualli és a Casa Catherwood tágas belső tereiben töltheti, távol az esőtől. Este a Sitio Experimental művészeti központjában zárjuk a napot, miközben az eső kellemesen felfrissíti a város forró levegőjét.",
+            "ro": "Dimineața începe la literele colorate, unde bălțile reflectă culorile vii. Înainte de prânz, galeriile Tita și Artists Foundation oferă adăpostul perfect împotriva averselor tropicale. După-amiaza este dedicată interioarelor spațioase de la Nahualli și Casa Catherwood. Seara se încheie la Sitio Experimental, în timp ce ploaia răcorește plăcut aerul fierbinte al orașului, creând o atmosferă intimă.",
+            "en": "The morning begins at the colorful letters, where puddles mirror the vibrant hues. By mid-morning, the Tita and Artists Foundation galleries provide perfect shelter from the warm tropical downpours. Spend the afternoon exploring the indoor treasures of Nahualli and Casa Catherwood. In the evening, conclude at Sitio Experimental while the rain pleasantly cools the city's lingering heat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Letras gigantes de Mérida",
+                "hu": "Letras gigantes de Mérida",
+                "ro": "Letras gigantes de Mérida",
+                "en": "Letras gigantes de Mérida"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Fliesen können rutschig sein, aber der Regen verleiht den Farben der Buchstaben einen intensiven Glanz für Fotos; halten Sie den Schirm für Reflexionen bereit.",
+                "hu": "A nedves kövezet csúszós lehet, de az eső intenzív fényt ad a betűk színeinek a fotókon; használja az esernyőt a pocsolyák tükröződéseinek megörökítéséhez.",
+                "ro": "Pavajul umed poate fi alunecos, dar ploaia conferă culorilor o strălucire intensă pentru fotografii; folosiți umbrela pentru a surprinde reflexiile din bălți.",
+                "en": "The wet pavement can be slippery, but the rain adds an intense glow to the colors for photos; hold your umbrella steady and capture the unique reflections on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Tita - Galerie für Maya-Kunst",
+                "hu": "Tita - Maja Művészeti Galéria",
+                "ro": "Tita - Galeria de Artă Mayașă",
+                "en": "Tita - Gallery of Mayan Art and History"
+              },
+              "tip_5lang": {
+                "de": "Diese Galerie ist eine ideale Zuflucht bei plötzlichen Schauern; bewundern Sie die feinen Details der Maya-Kunst in der trockenen und ruhigen Atmosphäre der Innenräume.",
+                "hu": "Ez a galéria ideális menedék hirtelen zápor esetén; csodálja meg a maja művészet finom részleteit a belső terek száraz és nyugodt, hívogató atmoszférájában.",
+                "ro": "Această galerie este un refugiu ideal în caz de averse; admirați detaliile fine ale artei mayașe în atmosfera uscată și liniștită a spațiilor interioare primitoare.",
+                "en": "This gallery is an ideal refuge during sudden showers; admire the fine details of Mayan art within the dry and tranquil atmosphere of its welcoming indoor displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Artists Foundation",
+                "hu": "Artists Foundation",
+                "ro": "Fundația Artiștilor",
+                "en": "Artists Foundation"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Stiftung, um die zeitgenössischen Werke zu besichtigen, während Sie draußen dem beruhigenden Trommeln des Regens lauschen.",
+                "hu": "Használja ki az alapítvány fedett tereit a kortárs művek megtekintéséhez, miközben bentről hallgatja a trópusi eső megnyugtató kopogását az udvar felett.",
+                "ro": "Profitați de spațiile acoperite ale fundației pentru a viziona operele contemporane, în timp ce ascultați ropotul liniștitor al ploii tropicale deasupra curții.",
+                "en": "Take advantage of the foundation's covered spaces to view contemporary works while listening to the soothing rhythm of tropical rain falling outside in the patio."
+              }
+            },
+            {
+              "name": {
+                "de": "Nahualli",
+                "hu": "Nahualli",
+                "ro": "Nahualli",
+                "en": "Nahualli"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in diesem Museum, da die Innenhöfe bei Regen besonders mystisch wirken; ein wasserfester Rucksack schützt Ihre Ausrüstung auf dem Weg.",
+                "hu": "Hosszabbítsa meg itt a tartózkodását, mert a belső udvarok esőben különösen misztikusak; egy vízálló hátizsák jól jöhet az épületek közötti rövid séta során.",
+                "ro": "Prelungiți vizita aici, deoarece curțile interioare par deosebit de mistice în ploaie; un rucsac impermeabil vă va proteja echipamentul între clădiri.",
+                "en": "Extend your stay here as the inner courtyards feel especially mystical in the rain; a waterproof backpack will protect your gear during the short walk between rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Catherwood",
+                "hu": "Casa Catherwood",
+                "ro": "Casa Catherwood",
+                "en": "Casa Catherwood"
+              },
+              "tip_5lang": {
+                "de": "Das historische Haus bietet viele trockene Nischen, um die Lithografien zu studieren; nutzen Sie die Zeit für eine ausführliche Tour durch die überdachten Korridore.",
+                "hu": "A történelmi ház számos száraz zugot kínál a litográfiák tanulmányozásához; használja ki az időt egy alapos túrára a fedett folyosók és tágas termek mentén.",
+                "ro": "Casa istorică oferă multe colțuri uscate pentru a studia litografiile; profitați de timp pentru un tur detaliat de-a lungul coridoarelor acoperite și camerelor.",
+                "en": "This historic house offers plenty of dry nooks to study the lithographs; take advantage of the rain for a thorough tour through the covered corridors and grand rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Sitio Experimental De Arte",
+                "hu": "Sitio Experimental De Arte",
+                "ro": "Sitio Experimental De Arte",
+                "en": "Sitio Experimental De Arte"
+              },
+              "tip_5lang": {
+                "de": "Dieser weitläufige Innenraum ist der perfekte Abschluss eines regnerischen Tages; prüfen Sie die Bodenbeschaffenheit am Eingang, da Fliesen bei Nässe oft rutschen.",
+                "hu": "Ez a tágas belső tér tökéletes lezárása egy esős napnak; ellenőrizze a talajt a bejáratnál, mert a kövezet vizesen gyakran válik hirtelen csúszóssá.",
+                "ro": "Acest spațiu interior vast este încheierea perfectă pentru o zi ploioasă; verificați podeaua la intrare, deoarece gresia devine adesea alunecoasă când este udă.",
+                "en": "This expansive indoor space is the perfect conclusion to a rainy day; check the floor at the entrance, as tiles often become slippery when wet from shoes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Mérida ist mild und angenehm für den Besuch der Letras gigantes. Mittags laden die Galerien Tita und Artists Foundation bei idealen Temperaturen ohne die Sommerhitze zum Verweilen ein. Am Nachmittag genießen Sie das weiche Licht in Nahualli und Casa Catherwood. Da es gegen 17:00 Uhr dunkel wird, bietet das Sitio Experimental am Abend eine beleuchtete, warme Atmosphäre.",
+            "hu": "A méridai tél reggele enyhe és tökéletes a Letras gigantes meglátogatásához. Délben a Tita és az Artists Foundation galériái a nyári hőség nélkül, ideális hőmérsékleten várják. Délután élvezze a lágy téli fényeket a Nahualli és a Casa Catherwood udvarain. Mivel 17:00 körül sötétedik, a Sitio Experimental este kivilágított, barátságos és meleg környezetet biztosít.",
+            "ro": "Dimineața de iarnă în Mérida este blândă, perfectă pentru vizitarea literelor gigantice. La prânz, galeriile Tita și Artists Foundation vă așteaptă cu temperaturi ideale, fără arșița verii. După-amiaza, bucurați-vă de lumina caldă a soarelui în curțile de la Nahualli și Casa Catherwood. Deoarece se întunecă în jur de ora 17:00, Sitio Experimental oferă o atmosferă primitoare.",
+            "en": "Winter mornings in Mérida are mild and pleasant for visiting the giant letters. At noon, the Tita and Artists Foundation galleries offer ideal temperatures without the summer heat. In the afternoon, enjoy the soft winter light in the courtyards of Nahualli and Casa Catherwood. Since sunset is around 17:00, Sitio Experimental provides a warm, illuminated environment for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Letras gigantes de Mérida",
+                "hu": "Letras gigantes de Mérida",
+                "ro": "Letras gigantes de Mérida",
+                "en": "Letras gigantes de Mérida"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenbrise ist ideal für Fotos ohne Schweiß; tragen Sie eine leichte Strickjacke, da es im Schatten der Gebäude noch etwas frisch sein kann.",
+                "hu": "A hűvös reggeli szellő ideális a fotózáshoz izzadás nélkül; viseljen könnyű kardigánt, mert az épületek árnyékában ilyenkor még friss lehet a levegő.",
+                "ro": "Briza răcoroasă de dimineață este ideală pentru fotografii fără disconfort; purtați un cardigan ușor, deoarece la umbra clădirilor poate fi încă destul de răcoare.",
+                "en": "The cool morning breeze is ideal for taking photos without breaking a sweat; wear a light cardigan, as it can still be quite crisp in the shade of the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Tita - Galerie für Maya-Kunst",
+                "hu": "Tita - Maja Művészeti Galéria",
+                "ro": "Tita - Galeria de Artă Mayașă",
+                "en": "Tita - Gallery of Mayan Art and History"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist das Licht in der Galerie besonders weich; nutzen Sie die milden Temperaturen für einen längeren Aufenthalt ohne die übliche Klimaanlagen-Kälte.",
+                "hu": "Télen a galéria fényei különösen lágyak; használja ki az enyhe időt egy hosszabb látogatásra anélkül, hogy a túlzott légkondicionálás zavaró lenne.",
+                "ro": "Iarna, lumina din galerie este deosebit de caldă; profitați de temperaturile blânde pentru o vizită prelungită fără răceala excesivă a aerului condiționat.",
+                "en": "In winter, the light in the gallery is particularly soft; take advantage of the mild weather for a longer stay without the usual harshness of air conditioning."
+              }
+            },
+            {
+              "name": {
+                "de": "Artists Foundation",
+                "hu": "Artists Foundation",
+                "ro": "Fundația Artiștilor",
+                "en": "Artists Foundation"
+              },
+              "tip_5lang": {
+                "de": "Die offene Architektur lässt im Winter eine angenehme Brise durch; genießen Sie die Kunstwerke bei natürlicher Belüftung, die jetzt am erfrischendsten ist.",
+                "hu": "A nyitott építészet télen kellemes szellőt enged be; élvezze a műalkotásokat a természetes szellőzés mellett, amely ilyenkor a legfrissítőbb a városban.",
+                "ro": "Arhitectura deschisă permite unei brize plăcute să circule iarna; bucurați-vă de operele de artă cu ventilație naturală, care este cea mai revigorantă acum.",
+                "en": "The open architecture allows a pleasant breeze to flow through in winter; enjoy the artworks with natural ventilation, which is most refreshing at this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Nahualli",
+                "hu": "Nahualli",
+                "ro": "Nahualli",
+                "en": "Nahualli"
+              },
+              "tip_5lang": {
+                "de": "Der Garten des Museums ist im Winter ein herrlicher Ort zum Verweilen; achten Sie auf den frühen Sonnenuntergang, um die Skulpturen noch im Tageslicht zu sehen.",
+                "hu": "A múzeum kertje télen csodálatos hely a pihenésre; figyeljen a korai naplementére, hogy a szobrokat még teljes természetes fényben láthassa a túra alatt.",
+                "ro": "Grădina muzeului este un loc minunat de relaxare iarna; atenție la apusul timpuriu pentru a vedea sculpturile încă în lumină naturală în timpul vizitei.",
+                "en": "The museum's garden is a wonderful place to linger in winter; watch for the early sunset to ensure you see the sculptures in full natural light during your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Catherwood",
+                "hu": "Casa Catherwood",
+                "ro": "Casa Catherwood",
+                "en": "Casa Catherwood"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Dachterrasse für einen Blick auf Mérida bei tiefstehender Wintersonne; die trockene Luft sorgt für eine besonders klare Sicht über die Dächer.",
+                "hu": "Látogasson el a tetőteraszra a városi kilátásért az alacsonyan járó téli napfényben; a száraz levegő ilyenkor különösen tiszta rálátást biztosít a háztetőkre.",
+                "ro": "Vizitați terasa de pe acoperiș pentru o vedere asupra orașului în lumina joasă a soarelui de iarnă; aerul uscat oferă o vizibilitate deosebit de clară acum.",
+                "en": "Visit the rooftop terrace for a view of Mérida in the low winter sun; the dry winter air provides particularly clear visibility over the surrounding historic roofs."
+              }
+            },
+            {
+              "name": {
+                "de": "Sitio Experimental De Arte",
+                "hu": "Sitio Experimental De Arte",
+                "ro": "Sitio Experimental De Arte",
+                "en": "Sitio Experimental De Arte"
+              },
+              "tip_5lang": {
+                "de": "Da es am späten Nachmittag kühler wird, ist dieser geschützte Ort ideal; bringen Sie einen leichten Schal für den Rückweg nach dem frühen Dunkelwerden mit.",
+                "hu": "Mivel késő délután lehűl az idő, ez a védett helyszín ideális; vigyen magával egy könnyű sálat a hazaútra a korai sötétedés utáni frissebb levegő miatt.",
+                "ro": "Deoarece se răcește spre seară, această locație protejată este ideală; luați un fular ușor pentru drumul de întoarcere după lăsarea timpurie a întunericului.",
+                "en": "As temperatures drop in the late afternoon, this sheltered venue is ideal; bring a light scarf for the journey back after the early darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a reggelt egy laza kerékpározással az ikonikus Mérida betűkhöz.\n\nDélben induljon nyugat felé a Casa Catherwoodhoz és az Árus Emlékművéhez.\n\nTöltse a délutánt a hatalmas Xoclán park és a lenyűgöző ősi romok felfedezésével.\n\nEste térjen vissza az óvárosba, hogy elmerüljön a kulturális örökségben a gyönyörű Nahualli Múzeumban.",
         "ro": "Începeți dimineața cu o plimbare relaxantă cu bicicleta la literele emblematice.\n\nLa prânz, mergeți spre vest spre Casa Catherwood și Monumentul Vânzătorului.\n\nPetreceți-vă după-amiaza explorând parcul extins Xoclán și ruinele sale fascinante.\n\nÎntoarceți-vă în orașul vechi seara pentru a explora patrimoniul cultural la minunatul Muzeu Nahualli.",
         "en": "Begin your morning with a relaxed bike ride to the iconic Mérida letters.\n\nAt midday, head west to see historic Mayan lithographs at Casa Catherwood and the Vendor Monument.\n\nSpend your afternoon exploring the expansive Xoclán park and its fascinating ancient ruins.\n\nReturn to the old town in the evening to delve into cultural heritage at the beautiful Nahualli Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den rutschigen Straßen von Mérida. Morgens erreichen Sie schnell die Letras und die Casa Catherwood, bevor die stärkeren Schauer einsetzen. Mittags bieten die Monumente kurze Stopps unter Bäumen, gefolgt von der weitläufigen Anlage von Xoclán. Der Nachmittag endet sicher im Nahualli, wo Sie Ihr Rad im Trockenen abstellen können.",
+            "hu": "Az esős kerékpározás óvatosságot igényel Mérida csúszós utcáin. Reggel gyorsan elérheti a Letras betűket és a Casa Catherwoodot a nagyobb záporok előtt. Délben az emlékművek rövid pihenőt kínálnak a fák alatt, majd a tágas Xoclán következik. A délután biztonságosan a Nahualli múzeumban ér véget, ahol fedett helyen parkolhat le.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile alunecoase din Mérida. Dimineața ajungeți rapid la Letras și Casa Catherwood înainte de averselor mari. La prânz, monumentele oferă scurte opriri sub copaci, urmate de vastul Xoclán. După-amiaza se încheie în siguranță la Nahualli, unde puteți parca bicicleta la adăpost.",
+            "en": "Cycling in the rain requires caution on Mérida's slippery streets. In the morning, reach the Letras and Casa Catherwood quickly before heavier showers begin. At noon, monuments offer brief stops under trees, followed by the expansive Xoclán park. The afternoon ends safely at Nahualli, where you can park your bike in a dry, covered area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Letras gigantes de Mérida",
+                "hu": "Letras gigantes de Mérida",
+                "ro": "Letras gigantes de Mérida",
+                "en": "Letras gigantes de Mérida"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Bremsen auf den nassen Markierungen am Boden; tragen Sie ein Regenponcho, das beim Treten nicht im Wind flattert und Sie trocken hält.",
+                "hu": "Fékezéskor ügyeljen a nedves felfestésekre az úton; viseljen esőponcsót, amely nem lobog a szélben tekerés közben, és szárazon tartja az egész út alatt.",
+                "ro": "Atenție la frânare pe marcajele rutiere umede; purtați o pelerină de ploaie care să nu fluture în vânt în timp ce pedalați și să vă mențină uscat tot timpul.",
+                "en": "Watch your braking on wet road markings; wear a rain poncho that doesn't flap in the wind while pedaling to ensure you stay dry throughout the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Catherwood",
+                "hu": "Casa Catherwood",
+                "ro": "Casa Catherwood",
+                "en": "Casa Catherwood"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad an einem überdachten Platz, damit der Sattel trocken bleibt; nutzen Sie den Stopp, um Ihre Kleidung kurz zu richten und aufzuwärmen.",
+                "hu": "Láncolja le kerékpárját egy fedett részen, hogy a nyereg száraz maradjon; használja ki a megállót, hogy rendezze ruházatát és kicsit felmelegedjen bent.",
+                "ro": "Legați bicicleta într-un loc acoperit pentru ca șaua să rămână uscată; profitați de oprire pentru a vă aranja hainele și a vă încălzi puțin în interior.",
+                "en": "Lock your bike in a covered area to keep the saddle dry; use this stop to adjust your rain gear and warm up briefly inside the historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Vendedor",
+                "hu": "Monumento al Vendedor",
+                "ro": "Monumento al Vendedor",
+                "en": "Monumento al Vendedor"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp unter dem Schutz der nahen Bäume reicht hier aus; achten Sie auf tiefe Pfützen am Straßenrand, die Schlaglöcher verbergen könnten.",
+                "hu": "Egy gyors fotómegálló a közeli fák védelmében elegendő itt; ügyeljen a széli pocsolyákra, amelyek mély kátyúkat rejthetnek az esővíz alatt az úttesten.",
+                "ro": "O oprire rapidă sub protecția copacilor din apropiere este suficientă; atenție la bălțile de pe marginea drumului care pot ascunde gropi adânci sub apă.",
+                "en": "A quick photo stop under the shelter of nearby trees is enough; watch out for roadside puddles that might hide deep potholes under the rainwater."
+              }
+            },
+            {
+              "name": {
+                "de": "Xoclan",
+                "hu": "Xoclan",
+                "ro": "Xoclan",
+                "en": "Xoclan"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier sehr schlammig werden; fahren Sie langsam und wählen Sie befestigte Wege, um ein Rutschen der Reifen auf dem nassen Untergrund zu vermeiden.",
+                "hu": "A talaj itt nagyon sárossá válhat; tekerjen lassan és válassza a kövezett utakat, hogy elkerülje a kerekek megcsúszását a vizes, agyagos földön.",
+                "ro": "Terenul de aici poate deveni foarte noroios; pedalați încet și alegeți drumurile pavate pentru a evita deraparea roților pe solul umed și argilos.",
+                "en": "The ground here can get very muddy; pedal slowly and stick to paved paths to avoid tires slipping on the wet, clay-like soil after a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque ecoarqueológico Xoclán",
+                "hu": "Parque ecoarqueológico Xoclán",
+                "ro": "Parcul eco-arheologic Xoclán",
+                "en": "Parque ecoarqueológico Xoclán. Grupo norte."
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation bietet bei leichtem Regen natürlichen Schutz, aber bei starkem Guss sollten Sie die überdachten Infotafeln als Unterstand nutzen.",
+                "hu": "A sűrű növényzet enyhe esőben természetes védelmet nyújt, de erős zápor esetén használja a fedett információs táblákat ideiglenes menedékként.",
+                "ro": "Vegetația densă oferă protecție naturală în ploaie ușoară, dar în caz de aversă puternică, folosiți panourile informative acoperite ca adăpost temporar.",
+                "en": "Dense vegetation provides natural cover in light rain, but during heavy showers, use the covered information boards as a temporary shelter for you and your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Nahualli",
+                "hu": "Nahualli",
+                "ro": "Nahualli",
+                "en": "Nahualli"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Radfahren zu beenden und sich abzutrocknen; die Galerie bietet eine sichere und trockene Umgebung für Ihre letzte Etappe des Tages.",
+                "hu": "Tökéletes hely a kerékpározás befejezéséhez és a megszárítkozáshoz; a galéria biztonságos és száraz környezetet kínál a nap utolsó szakaszának lezárásához.",
+                "ro": "Locul perfect pentru a încheia tura cu bicicleta și a vă usca; galeria oferă un mediu sigur și uscat pentru a finaliza ultima etapă a zilei.",
+                "en": "The perfect place to finish your ride and dry off; the gallery offers a secure and dry environment to conclude the final leg of your rainy day journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die beste Zeit für Radtouren in Mérida, da die Temperaturen moderat sind. Morgens radeln Sie entspannt zu den Letras und der Casa Catherwood. Die Fahrt nach Xoclán am Mittag ist ohne die extreme Hitze des Sommers ein Genuss. Am Nachmittag erkunden Sie den Park, bevor Sie bei Einbruch der Dunkelheit gegen 17:00 Uhr das Nahualli erreichen.",
+            "hu": "A tél a legjobb időszak a méridai kerékpározáshoz a mérsékelt hőmérséklet miatt. Reggel kényelmesen tekerhet a Letras betűkhöz és a Casa Catherwoodhoz. A déli túra Xoclán felé a nyári hőség nélkül igazi élvezet. Délután fedezze fel a parkot, mielőtt a 17:00 körüli sötétedéskor megérkezne a Nahualli galériába.",
+            "ro": "Iarna este cea mai bună perioadă pentru ciclism în Mérida datorită temperaturilor moderate. Dimineața pedalați relaxat spre Letras și Casa Catherwood. Drumul spre Xoclán la prânz este o plăcere fără arșița verii. După-amiaza explorați parcul, înainte de a ajunge la Nahualli în jurul orei 17:00, când se întunecă.",
+            "en": "Winter is the prime time for cycling in Mérida due to the moderate temperatures. In the morning, enjoy a relaxed ride to the Letras and Casa Catherwood. The midday trip to Xoclán is a joy without the extreme summer heat. Explore the park in the afternoon before arriving at Nahualli as darkness falls around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Letras gigantes de Mérida",
+                "hu": "Letras gigantes de Mérida",
+                "ro": "Letras gigantes de Mérida",
+                "en": "Letras gigantes de Mérida"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für gestochen scharfe Fotos; eine Sonnenbrille ist wegen der tiefstehenden Sonne beim Radfahren am Morgen unerlässlich.",
+                "hu": "Használja ki a tiszta téli fényt az éles fotókhoz; a napszemüveg elengedhetetlen a kerékpározáshoz a reggeli alacsonyan járó, vakító napsütésben.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii clare; ochelarii de soare sunt esențiali pentru ciclism în lumina joasă și orbitoare de dimineață.",
+                "en": "Take advantage of the clear winter light for sharp photos; sunglasses are essential for cycling in the low, bright morning sun to ensure safety on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Catherwood",
+                "hu": "Casa Catherwood",
+                "ro": "Casa Catherwood",
+                "en": "Casa Catherwood"
+              },
+              "tip_5lang": {
+                "de": "Der kühle Fahrtwind macht die Ankunft in diesem historischen Haus sehr angenehm; die dicken Mauern speichern die angenehme Kühle der Nacht auch am Vormittag.",
+                "hu": "A hűvös menetszél után kellemes megérkezni ebbe a történelmi házba; a vastag falak még délelőtt is megőrzik az éjszakai frissességet a látogatók számára.",
+                "ro": "Briza răcoroasă face sosirea în această casă istorică foarte plăcută; pereții groși păstrează prospețimea nopții chiar și în timpul dimineții pentru vizitatori.",
+                "en": "The cool breeze from your ride makes arriving at this historic house very pleasant; its thick walls retain the night's freshness even throughout the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Vendedor",
+                "hu": "Monumento al Vendedor",
+                "ro": "Monumento al Vendedor",
+                "en": "Monumento al Vendedor"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist im Winter nicht gefährlich, sodass Sie hier entspannt pausieren können; genießen Sie den Blick ohne die drückende Schwüle des Sommers.",
+                "hu": "A déli napsütés télen nem veszélyes, így nyugodtan megállhat itt pihenni; élvezze a látványt a nyárra jellemző fojtogató páratartalom és hőség nélkül.",
+                "ro": "Soarele de la prânz nu este periculos iarna, așa că vă puteți opri relaxat aici; bucurați-vă de priveliște fără umiditatea sufocantă tipică verii mexicane.",
+                "en": "The midday sun is not dangerous in winter, so you can pause here comfortably; enjoy the view without the stifling humidity typical of the Yucatecan summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Xoclan",
+                "hu": "Xoclan",
+                "ro": "Xoclan",
+                "en": "Xoclan"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Wintertour mit dem Rad, da die Wege trocken und fest sind; die Flora zeigt sich im Winter in etwas gedeckteren, schönen Farben.",
+                "hu": "Ideális helyszín egy téli kerékpáros túrához, mivel az utak szárazak és szilárdak; a flóra ilyenkor visszafogottabb, de különlegesen szép színekben pompázik.",
+                "ro": "Locație ideală pentru o tură de iarnă cu bicicleta, deoarece drumurile sunt uscate și ferme; flora se prezintă în culori mai discrete, dar deosebit de frumoase.",
+                "en": "An ideal location for a winter bike tour as the paths are dry and firm; the local flora displays more muted but uniquely beautiful colors during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque ecoarqueológico Xoclán",
+                "hu": "Parque ecoarqueológico Xoclán",
+                "ro": "Parcul eco-arheologic Xoclán",
+                "en": "Parque ecoarqueológico Xoclán. Grupo norte."
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen ohne die üblichen Insektenschwärme, die im Winter weniger aktiv sind; nehmen Sie ausreichend Wasser mit, da die trockene Luft durstig macht.",
+                "hu": "Fedezze fel a romokat a szokásos rovarrajok nélkül, amelyek télen kevésbé aktívak; vigyen magával vizet, mert a száraz téli levegőben könnyebben megszomjazik.",
+                "ro": "Explorați ruinele fără roiurile obișnuite de insecte, care sunt mai puțin active iarna; luați apă, deoarece aerul uscat de iarnă vă va face sete mai repede.",
+                "en": "Explore the ruins without the usual swarms of insects, which are less active in winter; bring plenty of water, as the dry winter air can make you thirsty quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Nahualli",
+                "hu": "Nahualli",
+                "ro": "Nahualli",
+                "en": "Nahualli"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre Tour mit reflektierenden Lichtern ab, da es früh dunkel wird; die Galerie bietet am Abend einen warmen Kontrast zur kühleren Außenluft.",
+                "hu": "Zárja a túrát fényvisszaverő eszközökkel, mivel korán sötétedik; a galéria este meleg és hívogató kontrasztot kínál a kinti hűvösebb levegőhöz képest.",
+                "ro": "Încheiați tura cu lumini reflectorizante, deoarece se întunecă devreme; galeria oferă seara un contrast cald față de aerul mai răcoros de afară.",
+                "en": "Finish your ride with reflective gear as it gets dark early; the gallery provides a warm and inviting contrast to the cooler evening air outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje a reggelt kényelmesen a Tita Galériában a kortárs művészet csodálatával.\n\nDélben vezessen el a Xoclán Ökoparkba, és fedezze fel az ősi maja romokat.\n\nDélután tegyen egy autós túrát délnyugat felé, hogy megtekintse a történelmi emlékműveket.\n\nTöltse az estét az avantgárd installációk felfedezésével a Kísérleti Művészeti Központban.",
         "ro": "Începeți dimineața confortabil la Galeria Tita pentru a admira artă contemporană.\n\nLa prânz, conduceți către Eco-Park Xoclán pentru a explora ruinele antice mayașe.\n\nDupă-amiaza, faceți o plimbare arhitecturală spre sud-vest pentru monumente istorice.\n\nPetreceți-vă seara descoperind instalații avangardiste la Centrul de Artă Experimentală.",
         "en": "Start your morning comfortably at the Tita Gallery to admire contemporary art.\n\nAt midday, drive to the Xoclán Eco-Park to explore the ancient Mayan ruins in nature.\n\nIn the afternoon, embark on an architectural drive southwest to view historic monuments.\n\nSpend your evening discovering avant-garde installations at the Experimental Art Center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto sind Sie bestens vor dem Regen geschützt. Der Morgen beginnt trocken in der Galerie Tita. Die Fahrt zum Park Xoclán am Mittag erfordert Vorsicht bei Aquaplaning, aber der Parkbesuch lässt sich flexibel gestalten. Den Nachmittag verbringen Sie bei den Monumenten entlang der Hauptstraßen, bevor Sie den Tag gemütlich in der Casa Catherwood beenden.",
+            "hu": "Autóval tökéletesen védve van az esőtől. A reggel szárazon indul a Tita galériában. A déli út a Xoclán parkba óvatosságot igényel a vízenfutás miatt, de a látogatás rugalmasan alakítható. A délutánt a főutak menti emlékműveknél töltjük, majd a napot kényelmesen a Casa Catherwoodban zárjuk.",
+            "ro": "În mașină sunteți perfect protejat de ploaie. Dimineața începe la adăpost în galeria Tita. Drumul spre parcul Xoclán la prânz necesită prudență din cauza acvaplanării, dar vizita este flexibilă. După-amiaza o petrecem la monumentele de-a lungul arterelor principale, încheind ziua confortabil la Casa Catherwood.",
+            "en": "By car, you are perfectly shielded from the rain. The morning begins dryly at the Tita gallery. The midday drive to Xoclán park requires caution due to hydroplaning, but the visit remains flexible. Spend the afternoon at monuments along main roads before comfortably concluding the day at Casa Catherwood."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tita - Galerie für Maya-Kunst",
+                "hu": "Tita - Maja Művészeti Galéria",
+                "ro": "Tita - Galeria de Artă Mayașă",
+                "en": "Tita - Gallery of Mayan Art and History"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken in die Galerie zu gelangen; nutzen Sie die Zeit drinnen, um die heftigsten Regengüsse abzuwarten.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy szárazon jusson be a galériába; használja ki a bent töltött időt a leghevesebb záporok kivárására.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în galerie; profitați de timpul petrecut înăuntru pentru a aștepta trecerea celor mai mari averse.",
+                "en": "Park as close to the entrance as possible to stay dry; use your time inside to wait out the heaviest downpours before heading back to your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque ecoarqueológico Xoclán",
+                "hu": "Parque ecoarqueológico Xoclán",
+                "ro": "Parcul eco-arheologic Xoclán",
+                "en": "Parque ecoarqueológico Xoclán. Grupo norte."
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, falls der Regen zu stark ist, und genießen Sie die grüne Landschaft; bei kurzen Pausen können Sie schnell zu den nächsten Ruinen laufen.",
+                "hu": "Maradjon az autóban, ha túl erősen esik, és élvezze a zöld tájat; a záporok közötti szünetekben gyorsan kiszállhat a közeli romok megtekintéséhez.",
+                "ro": "Rămâneți în mașină dacă plouă prea tare și admirați peisajul verde; în pauzele dintre averse puteți coborî rapid pentru a vedea ruinele din apropiere.",
+                "en": "Stay in the car if the rain is too heavy and enjoy the lush green scenery; during breaks in the showers, you can quickly step out to see the nearby ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento del Astrónomo Maya",
+                "hu": "Monumento del Astrónomo Maya",
+                "ro": "Monumento del Astrónomo Maya",
+                "en": "Monumento del Astrónomo Maya"
+              },
+              "tip_5lang": {
+                "de": "Dieses Monument lässt sich hervorragend direkt vom Auto aus fotografieren; halten Sie kurz am Straßenrand an, ohne aussteigen zu müssen, wenn es regnet.",
+                "hu": "Ez az emlékmű kiválóan fotózható közvetlenül az autóból is; álljon meg rövid időre az út szélén, így nem kell kiszállnia a szakadó esőbe a képért.",
+                "ro": "Acest monument poate fi fotografiat excelent direct din mașină; opriți scurt pe marginea drumului, astfel nu trebuie să coborâți în ploaie pentru o poză.",
+                "en": "This monument can be photographed perfectly directly from the car window; pull over briefly so you don't have to step out into the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Pedro Sáinz de Baranda",
+                "hu": "Monumento a Pedro Sáinz de Baranda",
+                "ro": "Monumento a Pedro Sáinz de Baranda",
+                "en": "Monumento a Pedro Sáinz de Baranda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Scheibenwischer für eine klare Sicht auf die Details des Denkmals; ein kurzer Stopp reicht aus, da der Verkehr bei Regen oft stockt.",
+                "hu": "Használja az ablaktörlőket a monumentum részleteinek alapos megtekintéséhez; egy rövid megálló elég, mivel a forgalom esőben gyakran lassabb és akadozik.",
+                "ro": "Folosiți ștergătoarele pentru o vedere clară asupra detaliilor monumentului; o scurtă oprire este suficientă, traficul fiind adesea îngreunat pe ploaie.",
+                "en": "Use your windshield wipers to get a clear view of the monument's details; a short stop is sufficient as traffic often slows down during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Felipe Carrillo Puerto",
+                "hu": "Monumento a Felipe Carrillo Puerto",
+                "ro": "Monumento a Felipe Carrillo Puerto",
+                "en": "Monumento a Felipe Carrillo Puerto"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf andere Fahrzeuge beim Anhalten am Straßenrand; der Regen kann die Sicht einschränken, daher lassen Sie beim Fotografieren die Warnblinkanlage an.",
+                "hu": "Ügyeljen a többi járműre az út szélén történő megálláskor; az eső korlátozhatja a látási viszonyokat, ezért fotózáskor használja az elakadásjelzőt.",
+                "ro": "Atenție la celelalte vehicule când opriți pe marginea drumului; ploaia poate limita vizibilitatea, așa că folosiți avariile în timp ce faceți fotografii.",
+                "en": "Watch out for other vehicles when pulling over; rain can limit visibility, so keep your hazard lights on while taking photos from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Sitio Experimental De Arte",
+                "hu": "Sitio Experimental De Arte",
+                "ro": "Sitio Experimental De Arte",
+                "en": "Sitio Experimental De Arte"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz mit kurzem Fußweg zum Eingang; die trockene Atmosphäre drinnen ist ein idealer Kontrast zur feuchten Fahrt durch die Stadt.",
+                "hu": "Keressen olyan parkolóhelyet, ahonnan csak rövid sétára van a bejárat; a benti száraz környezet ideális kontrasztot nyújt a városon átvezető vizes út után.",
+                "ro": "Căutați un loc de parcare aproape de intrare; atmosfera uscată din interior oferă un contrast ideal după drumul umed prin orașul aglomerat.",
+                "en": "Look for a parking spot with a short walk to the entrance; the dry indoor atmosphere provides an ideal contrast to the wet drive through the city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Catherwood",
+                "hu": "Casa Catherwood",
+                "ro": "Casa Catherwood",
+                "en": "Casa Catherwood"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier und nutzen Sie die Klimaanlage im Auto, um die Feuchtigkeit aus der Kleidung zu bekommen, bevor Sie das historische Haus betreten.",
+                "hu": "Zárja itt a napot, és használja az autó légkondicionálóját a pára eltávolítására a ruhájából, mielőtt belépne a történelmi ház falai közé.",
+                "ro": "Încheiați ziua aici și folosiți aerul condiționat al mașinii pentru a elimina umezeala din haine înainte de a intra în casa istorică.",
+                "en": "End your day here and use the car's AC to dehumidify your clothes briefly before entering the historic house for your final visit of the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die ideale Zeit für eine Autotour durch Mérida, da Sie die Ziele komfortabel und bei mildem Wetter erreichen. Morgens besuchen Sie die Galerie Tita, gefolgt vom Park Xoclán am Mittag unter angenehmer Wintersonne. Die Monumente lassen sich am Nachmittag im warmen Licht besichtigen, bevor Sie gegen 17:00 Uhr pünktlich zum Sonnenuntergang die Casa Catherwood erreichen.",
+            "hu": "A tél ideális időszak egy méridai autós túrához, mivel kényelmesen és enyhe időben érheti el a célpontokat. Reggel látogasson el a Tita galériába, majd délben a Xoclán park következik a kellemes téli napsütésben. Az emlékművek délutáni meleg fényben tündökölnek, mielőtt 17:00 körül megérkezne a Casa Catherwoodba.",
+            "ro": "Iarna este ideală pentru un tur auto prin Mérida, deoarece ajungeți la destinații confortabil și pe vreme blândă. Dimineața vizitați galeria Tita, urmată de parcul Xoclán la prânz sub soarele plăcut de iarnă. Monumentele pot fi văzute după-amiaza în lumină caldă, ajungând la Casa Catherwood la apus, în jur de ora 17:00.",
+            "en": "Winter is the perfect time for a car tour through Mérida, as you can reach destinations comfortably in mild weather. Visit the Tita gallery in the morning, followed by Xoclán park at noon under the pleasant winter sun. View the monuments in the warm afternoon light before arriving at Casa Catherwood just in time for sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tita - Galerie für Maya-Kunst",
+                "hu": "Tita - Maja Művészeti Galéria",
+                "ro": "Tita - Galeria de Artă Mayașă",
+                "en": "Tita - Gallery of Mayan Art and History"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Winterluft ist ideal für die Erhaltung der Kunstwerke; genießen Sie die Galerie am Vormittag, wenn die Temperaturen im Auto noch sehr mild sind.",
+                "hu": "A száraz téli levegő ideális a műalkotások megőrzéséhez; élvezze a galériát délelőtt, amikor az autóban a hőmérséklet még nagyon kellemes és friss.",
+                "ro": "Aerul uscat de iarnă este ideal pentru conservarea operelor de artă; bucurați-vă de galerie dimineața, când temperatura din mașină este încă foarte plăcută.",
+                "en": "The dry winter air is ideal for preserving the artworks; enjoy the gallery in the morning when the temperature in the car is still very mild and fresh."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque ecoarqueológico Xoclán",
+                "hu": "Parque ecoarqueológico Xoclán",
+                "ro": "Parcul eco-arheologic Xoclán",
+                "en": "Parque ecoarqueológico Xoclán. Grupo norte."
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten, falls die Wintersonne doch kräftig scheint; nutzen Sie die niedrigeren Temperaturen für einen ausgedehnten Spaziergang durch die Anlage.",
+                "hu": "Parkoljon árnyékban, ha a téli nap mégis erősen sütne; használja ki az alacsonyabb hőmérsékletet egy hosszabb sétára a régészeti területen.",
+                "ro": "Parcați la umbră dacă soarele de iarnă strălucește puternic; profitați de temperaturile mai scăzute pentru o plimbare prelungită prin situl arheologic.",
+                "en": "Park in the shade if the winter sun feels strong; take advantage of the lower temperatures for an extended walk through the archaeological site."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento del Astrónomo Maya",
+                "hu": "Monumento del Astrónomo Maya",
+                "ro": "Monumento del Astrónomo Maya",
+                "en": "Monumento del Astrónomo Maya"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht der tiefstehenden Wintersonne ist perfekt für architektonische Details; halten Sie kurz an, um den Schattenwurf der Skulptur zu bewundern.",
+                "hu": "Az alacsonyan járó téli nap meleg fénye tökéletes az építészeti részletekhez; álljon meg egy pillanatra, hogy megcsodálja a szobor hosszú árnyékait.",
+                "ro": "Lumina caldă a soarelui de iarnă este perfectă pentru detaliile arhitecturale; opriți un moment pentru a admira umbrele lungi proiectate de sculptură.",
+                "en": "The warm light of the low winter sun is perfect for architectural details; pull over briefly to admire the long shadows cast by the sculpture."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Pedro Sáinz de Baranda",
+                "hu": "Monumento a Pedro Sáinz de Baranda",
+                "ro": "Monumento a Pedro Sáinz de Baranda",
+                "en": "Monumento a Pedro Sáinz de Baranda"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Verkehr hier oft flüssiger; nutzen Sie die klare Sicht ohne Hitzeflimmern über dem Asphalt für ein perfektes Foto direkt von der Straße.",
+                "hu": "Télen a forgalom itt gyakran gördülékenyebb; használja ki a tiszta látási viszonyokat az aszfalt feletti hővibrálás nélkül a tökéletes fotóhoz az útról.",
+                "ro": "Iarna traficul este adesea mai fluid aici; profitați de vizibilitatea clară fără vibrațiile de căldură de deasupra asfaltului pentru o fotografie perfectă.",
+                "en": "In winter, traffic is often smoother here; take advantage of the clear visibility without heat haze over the asphalt for a perfect photo from the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Felipe Carrillo Puerto",
+                "hu": "Monumento a Felipe Carrillo Puerto",
+                "ro": "Monumento a Felipe Carrillo Puerto",
+                "en": "Monumento a Felipe Carrillo Puerto"
+              },
+              "tip_5lang": {
+                "de": "Die späte Nachmittagssonne taucht das Denkmal in goldene Töne; parken Sie kurz in der Nähe und genießen Sie die angenehme Brise bei offenem Fenster.",
+                "hu": "A késő délutáni nap arany tónusokba öltözteti az emlékművet; parkoljon le rövid időre a közelben, és élvezze a friss szellőt nyitott ablaknál.",
+                "ro": "Soarele de după-amiază târziu îmbracă monumentul în tonuri aurii; parcați scurt în apropiere și bucurați-vă de briza plăcută cu geamul deschis.",
+                "en": "The late afternoon sun bathes the monument in golden tones; park briefly nearby and enjoy the pleasant breeze through an open window."
+              }
+            },
+            {
+              "name": {
+                "de": "Sitio Experimental De Arte",
+                "hu": "Sitio Experimental De Arte",
+                "ro": "Sitio Experimental De Arte",
+                "en": "Sitio Experimental De Arte"
+              },
+              "tip_5lang": {
+                "de": "Die moderaten Innentemperaturen machen den Besuch ohne starke Klimatisierung sehr angenehm; perfekt, um die Beine nach der Fahrt etwas zu lockern.",
+                "hu": "A mérsékelt belső hőmérséklet nagyon kellemessé teszi a látogatást erős légkondicionálás nélkül; tökéletes hely a lábak átmozgatására az autózás után.",
+                "ro": "Temperaturile interioare moderate fac vizita foarte plăcută fără climatizare puternică; locul perfect pentru a vă dezmorți picioarele după condus.",
+                "en": "Moderate indoor temperatures make the visit very pleasant without heavy AC; it's the perfect place to stretch your legs after driving through the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Catherwood",
+                "hu": "Casa Catherwood",
+                "ro": "Casa Catherwood",
+                "en": "Casa Catherwood"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum frühen Sonnenuntergang an, um den Blick von der Terrasse zu genießen; im Winter ist die Fernsicht über Mérida am besten.",
+                "hu": "Érkezzen időben a korai naplementéhez, hogy kiélvezhesse a teraszról nyíló kilátást; télen a legjobb a távoli rálátás Mérida történelmi központjára.",
+                "ro": "Sosiți la timp pentru apusul timpuriu pentru a vă bucura de vederea de pe terasă; iarna vizibilitatea la distanță asupra centrului istoric este cea mai bună.",
+                "en": "Arrive in time for the early sunset to enjoy the view from the terrace; in winter, long-distance visibility over Mérida's historic center is at its peak."
+              }
+            }
+          ]
+        }
       }
     }
   }

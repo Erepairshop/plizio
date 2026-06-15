@@ -137,6 +137,168 @@
         "hu": "A reggel az impozáns Mór Kastélynál kezdődik, ahol elmerülhet Gibraltár középkori múltjában. Délben a történelmi Nagy Ostromalagutakon át az izgalmas üvegaljú Skywalkhoz ér. A délután elkalauzolja a Szent Mihály-barlang látványos képződményeinek mélyére. Az este egy békés és kellemes sétával zárul a buja és élettel teli Botanikus Kertben.",
         "ro": "Dimineața începe la impunătorul Castel Maur, explorând trecutul medieval. La prânz veți merge prin Tunelurile Marelui Asediu către spectaculosul Skywalk cu podea de sticlă. După-amiaza vă poartă adânc în formațiunile uimitoare din Peștera Sfântului Mihail. Seara se încheie liniștit cu o plimbare relaxantă prin Grădinile Botanice luxuriante.",
         "en": "The morning begins at the imposing Moorish Castle, delving into Gibraltar's medieval past. Midday leads you through the historic Great Siege Tunnels to the thrilling glass-bottomed Skywalk. The afternoon takes you deep into the spectacular formations of St. Michael's Cave. Your evening winds down gently with a tranquil stroll through the lush and vibrant Botanic Gardens."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Schloss bieten die Mauern Schutz, doch Vorsicht auf glatten Steinen. Mittags sind die Tunnels der perfekte trockene Zufluchtsort. Nachmittags glänzt der Skywalk im Regen, während die Höhle natürliche Wärme spendet. Abends duftet der botanische Garten besonders intensiv nach der Erfrischung.",
+            "hu": "Reggel a vár bástyáin az esőfelhők misztikus hangulatot árasztanak, viseljen csúszásmentes cipőt. Délben az alagutak száraz folyosói tökéletes menedéket nyújtanak. Délután a barlang fényei feledtetik a kinti borút. Estére a botanikus kert friss, eső utáni illatai zárják a napot a város párás fényeiben.",
+            "ro": "Dimineața la castel, zidurile oferă adăpost, dar atenție la pietrele alunecoase. La prânz, tunelurile sunt refugiul uscat perfect. După-amiaza, peștera oferă căldură naturală în timp ce plouă afară. Seara, grădina botanică emană un parfum intens după ploaie, încheind ziua într-o atmosferă proaspătă.",
+            "en": "Morning at the castle offers misty views; wear non-slip shoes for the wet stones. At noon, the tunnels provide a perfect dry sanctuary. Afternoon in the cave feels magical away from the drizzle. By evening, the botanic gardens smell wonderfully fresh after the rain, glowing under the damp city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maurische Burg",
+                "hu": "Mór Kastély",
+                "ro": "Castelul Maur",
+                "en": "Moorish Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Wohnturm, um trocken zu bleiben, und genießen Sie die dramatische Aussicht auf die stürmische Bucht durch die alten Schießscharten.",
+                "hu": "Húzódjon be a lakótoronyba az eső elől, és csodálja meg az öböl viharos panorámáját a régi lőréseken keresztül, ahol garantáltan száraz marad.",
+                "ro": "Adăpostiți-vă în turnul rezidențial pentru a rămâne uscat și admirați panorama dramatică a golfului furtunos prin meterezele vechi ale cetății.",
+                "en": "Take shelter inside the Tower of Homage to stay dry while enjoying dramatic views of the stormy bay through the ancient defensive arrow slits."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Siege Tunnels",
+                "hu": "Nagy Ostromalagutak",
+                "ro": "Tunelurile Marelui Asediu",
+                "en": "Great Siege Tunnels"
+              },
+              "tip_5lang": {
+                "de": "Dieses unterirdische Labyrinth ist der ideale Ort bei Regen; erkunden Sie die Geschichte im Trockenen und achten Sie auf die hohe Luftfeuchtigkeit.",
+                "hu": "Ez a föld alatti labirintus az ideális helyszín esős időben; fedezze fel a történelmet teljesen szárazon, csak a magas páratartalomra készüljön fel.",
+                "ro": "Acest labirint subteran este locul ideal pe timp de ploaie; explorați istoria la adăpost, fiind atenți doar la umiditatea ridicată din interior.",
+                "en": "This underground labyrinth is the perfect rainy-day escape; explore centuries of military history while staying completely protected from the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Skywalk Gibraltar",
+                "hu": "Skywalk Gibraltar",
+                "ro": "Skywalk Gibraltar",
+                "en": "Skywalk Gibraltar"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie die Glasplattform vorsichtig, da sie bei Nässe rutschig sein kann, aber die Wolkenformationen direkt unter Ihren Füßen sind einmalig.",
+                "hu": "Óvatosan lépjen az üvegfelületre, mert nedvesen csúszós lehet, de a közvetlenül a talpa alatt elvonuló felhők látványa így egészen egyedülálló.",
+                "ro": "Pășiți cu atenție pe platforma de sticlă, deoarece poate fi alunecoasă când este udă, dar vederea norilor sub picioare este absolut unică acum.",
+                "en": "Step carefully on the glass surface as it can be slippery when wet, but watching the clouds drift directly beneath your feet is a unique experience."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michael's Höhle",
+                "hu": "Szent Mihály-barlang",
+                "ro": "Peștera Sfântului Mihail",
+                "en": "St. Michael's Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet eine spektakuläre Lichtshow im Trockenen; nutzen Sie die Zeit, um die beeindruckenden Stalaktiten ohne Regenponcho zu bewundern.",
+                "hu": "A barlang látványos fényjátékot kínál fedett helyen; használja ki az időt a lenyűgöző cseppkövek megcsodálására, itt nem lesz szüksége az esőkabátra.",
+                "ro": "Peștera oferă un spectacol de lumini spectaculos la adăpost; profitați de timp pentru a admira stalactitele impresionante fără a purta pelerina de ploaie.",
+                "en": "The cave offers a spectacular light show in a fully sheltered environment; enjoy the limestone formations without needing your umbrella or raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Gibraltar",
+                "hu": "Gibraltár Botanikus Kert",
+                "ro": "Grădinile Botanice din Gibraltar",
+                "en": "Gibraltar Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter den dichten Baumkronen, die einen natürlichen Schirm bilden, und genießen Sie die leuchtenden Farben der regengetränkten Flora.",
+                "hu": "Sétáljon a sűrű lombkoronák alatt, amelyek természetes ernyőként védenek, és élvezze az esőtől felfrissült növényvilág intenzív, élénk színeit.",
+                "ro": "Plimbați-vă sub coronamentul des al copacilor care oferă o umbrelă naturală și bucurați-vă de culorile vibrante ale florei împrospătate de ploaie.",
+                "en": "Walk beneath the dense tree canopies which act as a natural umbrella, and admire the vibrant colors of the flora refreshed by the rainfall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens am Schloss ist die Luft klar und kühl, ideal für den Aufstieg. Mittags bieten die Tunnels Schutz vor dem Wind. Nachmittags ist das Licht in der Höhle besonders warm, bevor um 17 Uhr die Sonne versinkt. Abends leuchten die Gärten in der frühen Dämmerung unter dem klaren Winterhimmel.",
+            "hu": "Reggel a várnál a levegő friss és hűvös, ideális a kaptatóhoz. Délben az alagutak védenek a szél ellen. Délután a barlang belső melege hívogató, mielőtt 17 órakor lemegy a nap. Estére a kertek a korai szürkületben, a tiszta téli égbolt alatt mutatják meg békés arcukat.",
+            "ro": "Dimineața la castel aerul este clar și rece, ideal pentru urcare. La prânz, tunelurile oferă protecție împotriva vântului tăios. După-amiaza, căldura peșterii este primitoare înainte de apusul de la ora 17. Seara, grădinile strălucesc în amurgul timpuriu sub cerul senin de iarnă.",
+            "en": "Morning at the castle is crisp and cool, perfect for the uphill climb. At noon, the tunnels provide excellent shelter from the winter winds. Afternoon in the cave feels cozy before the 17:00 sunset. By evening, the gardens glow in the early twilight under a clear and starry winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maurische Burg",
+                "hu": "Mór Kastély",
+                "ro": "Castelul Maur",
+                "en": "Moorish Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos von Afrika; die kühle Luft macht den steilen Aufstieg zu den Zinnen wesentlich angenehmer.",
+                "hu": "Használja ki a tiszta téli fényeket Afrika fotózásához; a hűvös levegő sokkal élvezetesebbé teszi a meredek felkapaszkodást a bástyákhoz.",
+                "ro": "Profită de lumina clară de iarnă pentru a fotografia Africa; aerul rece face urcarea abruptă spre metereze mult mai plăcută și mai ușoară.",
+                "en": "Take advantage of the crisp winter air for clear photos of Africa; the cooler temperatures make the steep climb much more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Siege Tunnels",
+                "hu": "Nagy Ostromalagutak",
+                "ro": "Tunelurile Marelui Asediu",
+                "en": "Great Siege Tunnels"
+              },
+              "tip_5lang": {
+                "de": "Die Tunnelwände halten die Wärme des Berges; tragen Sie Schichten, da es im Inneren überraschend mild im Vergleich zum windigen Äußeren ist.",
+                "hu": "Az alagutak falai tartják a hegy belső melegét; öltözzön rétegesen, mert bent meglepően enyhe az idő a kinti szeles sziklákhoz képest.",
+                "ro": "Pereții tunelurilor păstrează căldura muntelui; îmbrăcați-vă în straturi, deoarece interiorul este surprinzător de blând față de exteriorul vântos.",
+                "en": "The tunnel walls retain the earth's natural warmth; dress in layers as it feels surprisingly mild inside compared to the windy cliffs outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Skywalk Gibraltar",
+                "hu": "Skywalk Gibraltar",
+                "ro": "Skywalk Gibraltar",
+                "en": "Skywalk Gibraltar"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach den Makaken, die in der Wintersonne baden, und tragen Sie eine winddichte Jacke für den Aufenthalt auf der exponierten Kante.",
+                "hu": "Keresse a téli napsütésben fürdőző makákókat, és viseljen szélálló kabátot, mert a szikla szélén ilyenkor felerősödhet a hideg tengeri szél.",
+                "ro": "Căutați macacii care se scaldă în soarele de iarnă și purtați o jachetă rezistentă la vânt pentru platforma expusă deasupra prăpastiei.",
+                "en": "Look for macaques sunbathing in the winter rays, and be sure to wear a windproof jacket for this exposed viewpoint on the cliff's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Michael's Höhle",
+                "hu": "Szent Mihály-barlang",
+                "ro": "Peștera Sfântului Mihail",
+                "en": "St. Michael's Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet eine konstante Temperatur von 18 Grad; ein perfekter Ort, um sich aufzuwärmen und die illuminierte Kathedrale zu genießen.",
+                "hu": "A barlang állandó 18 fokos hőmérséklete tökéletes menedéket nyújt a téli hideg elől; melegedjen át, miközben csodálja a kivilágított termeket.",
+                "ro": "Peștera oferă o temperatură constantă de 18 grade; este locul perfect pentru a vă încălzi în timp ce admirați catedrala naturală iluminată.",
+                "en": "The cave maintains a constant temperature of 18°C year-round; it's a wonderful place to warm up while admiring the illuminated rock formations."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Gibraltar",
+                "hu": "Gibraltár Botanikus Kert",
+                "ro": "Grădinile Botanice din Gibraltar",
+                "en": "Gibraltar Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frühe Winterdämmerung gegen 17 Uhr im Garten; das weiche Licht verleiht den exotischen Pflanzen eine ganz besondere Mystik.",
+                "hu": "Élje át a korai, 17 óra körüli téli szürkületet a kertben; a lágy fények különleges misztikumot kölcsönöznek az egzotikus növényvilágnak.",
+                "ro": "Experimentați amurgul timpuriu de iarnă în jurul orei 17 în grădină; lumina difuză oferă plantelor exotice o aură mistică aparte.",
+                "en": "Experience the early winter twilight around 17:00 in the gardens; the soft light adds a mystical quality to the exotic subtropical plants."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpározás a Forbes-kőfejtőnél kezdődik, majd felkapaszkodik a Mór Kastélyhoz. A dél egy frissítő ereszkedést kínál a gyönyörű Botanikus Kert felé. A délután a haditengerészeti történelemé a kolosszális 100 tonnás ágyú meglátogatásával. Az estét az elegáns mecset és az Europa Point szélfútta panorámája zárja.",
         "ro": "Plimbarea începe la Cariera Forbes, urmată de o urcare către Castelul Maur. Prânzul oferă o coborâre răcoritoare către frumoasele Grădini Botanice. După-amiaza trece la istoria navală cu o vizită la colosalul Tun de 100 de Tone. Seara se încheie pedalând spre eleganta Moschee și priveliștile uimitoare de la Europa Point.",
         "en": "Your ride starts at Forbes' Quarry, discovering early human history, followed by a climb to the Moorish Castle. Midday offers a refreshing descent to the beautiful Botanic Gardens. The afternoon shifts to naval history with a visit to the colossal 100 Ton Gun. The evening concludes by cycling to the elegant Mosque and the windswept vistas of Europa Point."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens im Steinbruch ist die Straße nass, fahren Sie vorsichtig bergauf. Mittags bietet die Burg Schutz während der stärksten Schauer. Nachmittags duften die Gärten im Regen, während Sie zu den Küstengeschützen radeln. Abends führt der Weg zur Moschee und zum Kap durch die frische, feuchte Meeresbrise.",
+            "hu": "Reggel a kőfejtőnél az utak vizesek, hajtson óvatosan a felfelé vezető kanyarokban. Délben a vár nyújt fedezéket a záporok elől. Délután az esőáztatta kertek illata kíséri az ágyúk felé. Estére a mecset és a fok környékén a friss, párás tengeri szellő kíséri az utolsó kilométereket.",
+            "ro": "Dimineața la carieră drumul este ud, pedalați cu prudență la deal. La prânz, castelul oferă adăpost în timpul averselor. După-amiaza, parfumul grădinilor în ploaie vă însoțește spre tunul istoric. Seara, drumul spre moschee și punct este răcorit de briza umedă a mării.",
+            "en": "Morning at the quarry means wet roads, so cycle carefully on the uphill bends. At noon, the castle provides shelter during the heaviest showers. Afternoon scents in the rainy gardens accompany your ride to the guns. By evening, the route to the mosque and point is cooled by the fresh, damp sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forbes' Steinbruch",
+                "hu": "Forbes-kőfejtő",
+                "ro": "Cariera Forbes",
+                "en": "Forbes' Quarry"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die kalkhaltigen Straßen können bei Regen extrem rutschig werden, halten Sie Abstand zu den Kanten.",
+                "hu": "Ellenőrizze a fékeit az indulás előtt; a mészköves utak esőben rendkívül csúszóssá válhatnak, tartson biztonságos távolságot a sziklaszélektől.",
+                "ro": "Verificați frânele înainte de plecare; drumurile calcaroase pot deveni extrem de alunecoase în ploaie, păstrați o distanță sigură de margini.",
+                "en": "Check your brakes before starting; the limestone roads can become very slick in the rain, so keep a safe distance from the cliff edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Maurische Burg",
+                "hu": "Mór Kastély",
+                "ro": "Castelul Maur",
+                "en": "Moorish Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich des Eingangs und nutzen Sie die Pause, um das Schlossinnere trocken zu erkunden.",
+                "hu": "Parkolja le kerékpárját a bejárat melletti fedett részen, és használja ki az időt a vár belső tereinek száraz felfedezésére a zápor alatt.",
+                "ro": "Parcați bicicleta în zona acoperită de lângă intrare și profitați de pauză pentru a explora interiorul castelului la adăpost de ploaie.",
+                "en": "Park your bike in the covered area near the entrance and use the break to explore the castle's interior while staying out of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Gibraltar",
+                "hu": "Gibraltár Botanikus Kert",
+                "ro": "Grădinile Botanice din Gibraltar",
+                "en": "Gibraltar Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Alleen bieten Schutz vor leichtem Regen; genießen Sie die Ruhe im Garten, da bei schlechtem Wetter weniger Besucher unterwegs sind.",
+                "hu": "A sűrű fasorok védelmet nyújtanak a szemerkélő esőben; élvezze a kert nyugalmát, mert rossz időben jóval kevesebb a látogató.",
+                "ro": "Aleile dese oferă protecție împotriva ploii ușoare; bucurați-vă de liniștea grădinii, deoarece sunt mult mai puțini vizitatori pe timp de ploaie.",
+                "en": "The thick tree-lined paths provide shelter from light rain; enjoy the tranquility of the gardens as there are far fewer visitors in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "100-Tonnen-Kanone",
+                "hu": "100 Tonnás Ágyú",
+                "ro": "Tunul de 100 de Tone",
+                "en": "100 Ton Gun"
+              },
+              "tip_5lang": {
+                "de": "Das kleine Museum bei der Kanone ist ein perfekter trockener Stopp; nutzen Sie die Zeit für die Ausstellung, bis der Regen nachlässt.",
+                "hu": "Az ágyú melletti kis múzeum tökéletes száraz megálló; szánjon időt a kiállításra, amíg kint eláll az eső, és pihenjen egyet.",
+                "ro": "Micul muzeu de lângă tun este o oprire perfectă pe uscat; acordați timp expoziției până când ploaia se oprește afară și vă puteți odihni.",
+                "en": "The small museum next to the gun is an ideal dry stop; spend time exploring the exhibits until the rain clears before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Ibrahim-al-Ibrahim Mosque",
+                "hu": "Ibrahim-al-Ibrahim Mosque",
+                "ro": "Ibrahim-al-Ibrahim Mosque",
+                "en": "Ibrahim-al-Ibrahim Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee bietet Schutz vor den oft starken Winden am Europa Point; bewundern Sie die Architektur, während Sie sich vom Regen erholen.",
+                "hu": "A mecset védelmet nyújt az Europa Pointnál gyakran erős szél és eső elől; csodálja meg az építészetet, amíg az idő jobbra fordul.",
+                "ro": "Moscheea oferă protecție împotriva vântului și ploii adesea puternice de la Europa Point; admirați arhitectura până când vremea se îmbunătățește.",
+                "en": "The mosque provides excellent shelter from the strong winds and rain at Europa Point; admire the stunning architecture while you dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Europa Point",
+                "hu": "Europa Point",
+                "ro": "Europa Point",
+                "en": "Europa Point"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserfeste Kleidung, da die Brandung bei Sturm Gischt über die Mauer tragen kann; die Sicht auf die Meerenge ist jetzt dramatisch.",
+                "hu": "Viseljen vízhatlan ruhát, mert a viharos tenger permetét a szél messzire hordja; a szoros látványa ilyenkor rendkívül drámai és lenyűgöző.",
+                "ro": "Purtați haine impermeabile, deoarece briza mării învolburate poate aduce stropi peste zid; vederea strâmtorii este acum dramatică și fascinantă.",
+                "en": "Wear waterproof gear as the stormy sea spray can blow over the walls; the view of the Strait is incredibly dramatic in rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens am Steinbruch ist die Luft frisch, ideal für den Start. Mittags wärmt die Sonne die Burgmauern auf. Nachmittags leuchten die Gärten in winterlichen Farben. Vor Sonnenuntergang um 17 Uhr erreichen Sie die Moschee und das Kap, wo das goldene Winterlicht die Meeresenge in sanfte Farben taucht.",
+            "hu": "Reggel a kőfejtőnél a levegő friss, tökéletes az indításhoz. Délben a nap kellemesen melegíti a várfalakat. Délután a kertek téli színeiben gyönyörködhet. A 17 órai naplemente előtt éri el a mecsetet és a fokot, ahol az arany téli fények lágy színekbe öltöztetik a tengerszorost.",
+            "ro": "Dimineața la carieră aerul este proaspăt, perfect pentru start. La prânz, soarele încălzește plăcut zidurile castelului. După-amiaza, grădinile vă încântă cu culori de iarnă. Înainte de apusul de la ora 17, ajungeți la moschee și la punct, unde lumina aurie îmbracă strâmtoarea.",
+            "en": "Morning at the quarry is fresh and invigorating for the start. At noon, the sun pleasantly warms the castle walls. Afternoon is for enjoying the winter colors in the gardens. Before the 17:00 sunset, you'll reach the mosque and point, where golden winter light softens the Strait's views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forbes' Steinbruch",
+                "hu": "Forbes-kőfejtő",
+                "ro": "Cariera Forbes",
+                "en": "Forbes' Quarry"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit Handschuhen, da der Fahrtwind am Morgen kühl ist; das klare Winterwetter bietet eine hervorragende Sicht auf die Felsformationen.",
+                "hu": "Kezdje a túrát kesztyűben, mert a reggeli menetszél hűvös lehet; a tiszta téli idő kiváló látási viszonyokat biztosít a sziklákra.",
+                "ro": "Începeți turul cu mănuși, deoarece vântul de dimineață poate fi rece; vremea senină de iarnă oferă o vizibilitate excelentă asupra stâncilor.",
+                "en": "Start your ride with gloves as the morning breeze can be chilly; the clear winter sky provides excellent visibility of the rock formations."
+              }
+            },
+            {
+              "name": {
+                "de": "Maurische Burg",
+                "hu": "Mór Kastély",
+                "ro": "Castelul Maur",
+                "en": "Moorish Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Burgmauern speichern die Mittagssonne; nutzen Sie diesen Stopp, um sich aufzuwärmen, bevor Sie die schattigen Abfahrten nehmen.",
+                "hu": "A várfalak magukba szívják a déli napsütést; használja ki ezt a megállót a felmelegedésre, mielőtt az árnyékosabb lejtőkön folytatná útját.",
+                "ro": "Zidurile castelului absorb soarele de la prânz; profitați de această oprire pentru a vă încălzi înainte de a continua pe pantele umbrite.",
+                "en": "The castle walls soak up the midday sun; use this stop to warm up before continuing your journey onto the shadier downhill sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Gibraltar",
+                "hu": "Gibraltár Botanikus Kert",
+                "ro": "Grădinile Botanice din Gibraltar",
+                "en": "Gibraltar Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Im Winter blühen hier Aloe und andere sukkulente Pflanzen; genießen Sie die milden Temperaturen in diesem geschützten Mikroklima.",
+                "hu": "Télen itt az aloe és más pozsgás növények virágoznak; élvezze az enyhe hőmérsékletet ebben a védett, különleges mikroklímájú kertben.",
+                "ro": "Iarna înfloresc aici aloe și alte plante suculente; bucurați-vă de temperaturile blânde în acest microclimat protejat al grădinii.",
+                "en": "In winter, aloes and other succulents bloom here; enjoy the mild temperatures in this sheltered and unique microclimate of the gardens."
+              }
+            },
+            {
+              "name": {
+                "de": "100-Tonnen-Kanone",
+                "hu": "100 Tonnás Ágyú",
+                "ro": "Tunul de 100 de Tone",
+                "en": "100 Ton Gun"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne im Winter tief steht, blendet sie bei der Fahrt entlang der Rosia Road; tragen Sie eine Sonnenbrille für eine sichere Fahrt.",
+                "hu": "Mivel a nap télen alacsonyan jár, vakíthat a Rosia Road mentén haladva; viseljen napszemüveget a biztonságos kerékpározás érdekében.",
+                "ro": "Deoarece soarele este jos iarna, poate fi orbitor în timp ce pedalați pe Rosia Road; purtați ochelari de soare pentru o călătorie sigură.",
+                "en": "As the winter sun is low, it can be blinding while cycling along Rosia Road; wear sunglasses for a safer and more comfortable ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ibrahim-al-Ibrahim Mosque",
+                "hu": "Ibrahim-al-Ibrahim Mosque",
+                "ro": "Ibrahim-al-Ibrahim Mosque",
+                "en": "Ibrahim-al-Ibrahim Mosque"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee kurz vor Sonnenuntergang, wenn das weiße Marmorgebäude im warmen Licht des späten Nachmittags zu leuchten beginnt.",
+                "hu": "Látogasson el a mecsethez közvetlenül naplemente előtt, amikor a fehér márványépület ragyogni kezd a késő délutáni meleg fényekben.",
+                "ro": "Vizitați moscheea chiar înainte de apus, când clădirea din marmură albă începe să strălucească în lumina caldă a după-amiezii târzii.",
+                "en": "Visit the mosque just before sunset when the white marble building starts to glow beautifully in the warm late afternoon winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Europa Point",
+                "hu": "Europa Point",
+                "ro": "Europa Point",
+                "en": "Europa Point"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor 17 Uhr, um den Sonnenuntergang über dem Meer zu erleben; ziehen Sie eine extra Schicht für den kühlen Wind an.",
+                "hu": "Tervezze érkezését 17 óra elé, hogy lássa a naplementét a tenger felett; vegyen fel egy extra réteget a foknál felerősödő hűvös szél ellen.",
+                "ro": "Planificați sosirea înainte de ora 17 pentru a vedea apusul peste mare; puneți-vă un strat în plus pentru vântul rece de la punct.",
+                "en": "Aim to arrive before 17:00 to catch the sunset over the sea; put on an extra layer to protect against the chilly winds at the point."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje az utat a Playa de Levante-n egy kora reggeli tengerparti kilátással. Délben magasan a hegyekbe visz az út, hogy felfedezze a Nagy Ostromalagutakat és a híres Sziklát. A délután feltárja a Gorham-barlangrendszer ősi titkait a kilátópontról. Az utazás Európa peremén, az Europa Pointnál és a történelmi 100 tonnás ágyúnál ér véget.",
         "ro": "Începeți plimbarea cu mașina la Playa de Levante pentru o vedere matinală la mare. Prânzul vă duce sus pe munte pentru a explora Tunelurile Marelui Asediu și emblematica Stâncă a Gibraltarului. După-amiaza dezvăluie secretele antice ale Peșterii Gorham. Călătoria se încheie la marginea Europei, la Europa Point, și la istoricul Tun de 100 de Tone.",
         "en": "Start your drive at Playa de Levante for an early morning seaside view. Midday takes you high up the mountain to explore the Great Siege Tunnels and the iconic Rock of Gibraltar. The afternoon reveals the ancient secrets of Gorham's Cave Complex from its scenic overlook. The journey concludes at the edge of Europe at Europa Point and the historic 100 Ton Gun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Strand ist die Brandung wild und beeindruckend aus dem warmen Auto. Mittags bieten die Tunnels trockene Geschichte. Nachmittags sind der Fels und die Höhlen ideale Ziele, um dem Regen zu entfliehen. Abends genießen Sie die Aussicht vom Kap und das Museum bei der Kanone, während es draußen stürmt.",
+            "hu": "Reggel a tengerparton a hullámverés vad és lenyűgöző a meleg autóból figyelve. Délben az alagutak kínálnak száraz történelmi kalandot. Délután a Szikla és a barlangok ideálisak az eső elől való menekülésre. Estére a fok és az ágyú melletti múzeum nyújt védelmet a kinti viharos időjárás elől.",
+            "ro": "Dimineața la plajă, valurile sunt sălbatice și impresionante privite din mașina caldă. La prânz, tunelurile oferă o aventură istorică uscată. După-amiaza, Stânca și peșterile sunt destinații ideale pentru a scăpa de ploaie. Seara, punctul și muzeul de lângă tun oferă adăpost în fața furtunii.",
+            "en": "Morning at the beach offers wild and impressive views of the waves from the comfort of your car. At noon, the tunnels provide a dry historical adventure. Afternoon is perfect for the Rock and caves, ideal escapes from the rain. Evening ends at the point and the gun museum, sheltered from the storm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Levante",
+                "hu": "Playa de Levante",
+                "ro": "Playa de Levante",
+                "en": "Playa de Levante"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Mittelmeer direkt vom Parkplatz aus; es ist ein dramatischer Anblick, den man trocken im Auto am besten genießt.",
+                "hu": "Figyelje a viharos Földközi-tengert közvetlenül a parkolóból; a látvány drámai, és a legkényelmesebben az autó száraz melegéből élvezhető.",
+                "ro": "Observați Marea Mediterană învolburată direct din parcare; priveliștea este dramatică și se savurează cel mai bine din confortul mașinii.",
+                "en": "Watch the stormy Mediterranean waves directly from the parking lot; it’s a dramatic sight best enjoyed from the dry comfort of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Siege Tunnels",
+                "hu": "Nagy Ostromalagutak",
+                "ro": "Tunelurile Marelui Asediu",
+                "en": "Great Siege Tunnels"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nass zu werden, und genießen Sie diesen ausgedehnten, vollständig überdachten historischen Rundgang.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást, és élvezze ezt a kiterjedt, teljesen fedett történelmi körutazást.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia și bucurați-vă de acest tur istoric extins și complet acoperit în interiorul muntelui.",
+                "en": "Park as close to the entrance as possible to minimize rain exposure, and enjoy this extensive, fully covered historical walking tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen von Gibraltar",
+                "hu": "Gibraltár Sziklája",
+                "ro": "Stânca Gibraltarului",
+                "en": "Rock of Gibraltar"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen hängen die Wolken oft tief am Gipfel; fahren Sie langsam und vorsichtig, da die Sicht auf den schmalen Straßen eingeschränkt sein kann.",
+                "hu": "Esőben a felhők gyakran alacsonyan szállnak a csúcsnál; vezessen lassan és óvatosan, mert a látási viszonyok a szűk utakon korlátozottak lehetnek.",
+                "ro": "În ploaie, norii coboară adesea pe vârf; conduceți încet și cu atenție, deoarece vizibilitatea pe drumurile înguste poate fi foarte redusă.",
+                "en": "In the rain, clouds often hang low over the peak; drive slowly and carefully as visibility on the narrow mountain roads can be limited."
+              }
+            },
+            {
+              "name": {
+                "de": "Gorham-Höhlenkomplex",
+                "hu": "Gorham-barlangrendszer",
+                "ro": "Complexul de Peșteri Gorham",
+                "en": "Gorham's Cave Complex"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist überdacht; bewundern Sie dieses Weltkulturerbe und die raue See, während Sie vor den Regenschauern geschützt sind.",
+                "hu": "A kilátópont fedett; csodálja meg ezt a világörökségi helyszínt és a zord tengert, miközben teljes védelmet élvez az esőzáporok elől.",
+                "ro": "Punctul de observație este acoperit; admirați acest sit din patrimoniul mondial și marea agitată în timp ce sunteți protejat de ploaie.",
+                "en": "The viewing platform is sheltered; admire this World Heritage site and the rough seas while staying protected from the passing rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Europa Point",
+                "hu": "Europa Point",
+                "ro": "Europa Point",
+                "en": "Europa Point"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus haben Sie einen fantastischen Blick auf den Leuchtturm und das Kap; ideal, wenn der Wind für einen Spaziergang im Freien zu stark ist.",
+                "hu": "Az autóból fantasztikus kilátás nyílik a világítótoronyra és a fokra; ideális megálló, ha a szél túl erős lenne egy szabadtéri sétához.",
+                "ro": "Din mașină aveți o vedere fantastică spre far și punct; este oprirea ideală dacă vântul este prea puternic pentru o plimbare în aer liber.",
+                "en": "From your car, you have a fantastic view of the lighthouse and point; ideal if the wind is too strong for a walk outside on the terrace."
+              }
+            },
+            {
+              "name": {
+                "de": "100-Tonnen-Kanone",
+                "hu": "100 Tonnás Ágyú",
+                "ro": "Tunul de 100 de Tone",
+                "en": "100 Ton Gun"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Ausstellungsbereich, um dieses massive Geschütz im Trockenen zu studieren, bevor Sie Ihre Fahrt durch das regnerische Gibraltar beenden.",
+                "hu": "Használja ki a fedett kiállítóteret, hogy szárazon tanulmányozhassa ezt a masszív ágyút, mielőtt befejezné útját az esős Gibraltáron keresztül.",
+                "ro": "Profitați de zona de expoziție acoperită pentru a studia acest tun masiv la uscat, înainte de a vă încheia călătoria prin Gibraltarul ploios.",
+                "en": "Make use of the covered exhibition area to study this massive gun in the dry before concluding your journey through rainy Gibraltar."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens am Strand reflektiert die Wintersonne glitzernd auf dem Meer. Mittags ist die Sicht von den Tunnels und dem Felsen bis nach Afrika meist kristallklar. Nachmittags besuchen Sie die Höhlen im warmen Licht der tiefstehenden Sonne. Vor 17 Uhr erreichen Sie das Kap für einen spektakulären Sonnenuntergang, bevor der Abend kühl wird.",
+            "hu": "Reggel a tengerparton a téli napfény szikrázva tükröződik a vízen. Délben az alagutakból és a Szikláról a kilátás Afrikáig általában kristálytiszta. Délután a barlangokat az alacsonyan járó nap meleg fényében látogathatja meg. 17 óra előtt érjen a fokhoz a látványos naplementére, mielőtt hűvös lesz az este.",
+            "ro": "Dimineața la plajă, soarele de iarnă se reflectă scânteietor pe mare. La prânz, vizibilitatea de la tuneluri și Stâncă până în Africa este de obicei cristalină. După-amiaza vizitați peșterile în lumina caldă a soarelui. Înainte de ora 17, ajungeți la punct pentru un apus spectaculos.",
+            "en": "Morning at the beach sees the winter sun sparkling on the water. At noon, views from the tunnels and Rock to Africa are usually crystal clear. Afternoon is for visiting the caves in the warm glow of the low sun. Arrive at the point before 17:00 for a spectacular sunset before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Levante",
+                "hu": "Playa de Levante",
+                "ro": "Playa de Levante",
+                "en": "Playa de Levante"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist hier besonders hell; genießen Sie einen kurzen Spaziergang am leeren Strand, bevor Sie Ihre Fahrt auf den Felsen fortsetzen.",
+                "hu": "A téli napfény itt különösen ragyogó; élvezze a rövid sétát az üres tengerparton, mielőtt folytatná útját felfelé a Sziklára.",
+                "ro": "Soarele de iarnă este deosebit de strălucitor aici; bucurați-vă de o scurtă plimbare pe plaja pustie înainte de a urca spre Stâncă.",
+                "en": "The winter sun is particularly bright here; enjoy a short stroll on the empty beach before continuing your drive up onto the Rock."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Siege Tunnels",
+                "hu": "Nagy Ostromalagutak",
+                "ro": "Tunelurile Marelui Asediu",
+                "en": "Great Siege Tunnels"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für die beste Fernsicht aus den Tunnelöffnungen über die Landebahn bis hinüber nach Spanien.",
+                "hu": "A tiszta téli levegő biztosítja a legjobb kilátást az alagutak nyílásaiból a kifutópályán át egészen a spanyol partokig.",
+                "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate de la gurile tunelurilor peste pistă până departe în Spania.",
+                "en": "The crisp winter air ensures the best long-distance views from the tunnel embrasures across the runway and over into Spain."
+              }
+            },
+            {
+              "name": {
+                "de": "Felsen von Gibraltar",
+                "hu": "Gibraltár Sziklája",
+                "ro": "Stânca Gibraltarului",
+                "en": "Rock of Gibraltar"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an den Aussichtspunkten und genießen Sie die Panorama-Sicht; im Winter sieht man oft die schneebedeckten Gipfel des Atlas-Gebirges in Afrika.",
+                "hu": "Parkoljon le a kilátópontoknál és élvezze a panorámát; télen gyakran látni Afrika hófödte Atlasz-hegységének csúcsait is.",
+                "ro": "Parcați la punctele de observație și savurați panorama; iarna se văd adesea vârfurile înzăpezite ale Munților Atlas din Africa.",
+                "en": "Park at the viewpoints and enjoy the panorama; in winter, you can often clearly see the snow-capped Atlas Mountains in Africa."
+              }
+            },
+            {
+              "name": {
+                "de": "Gorham-Höhlenkomplex",
+                "hu": "Gorham-barlangrendszer",
+                "ro": "Complexul de Peșteri Gorham",
+                "en": "Gorham's Cave Complex"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Nachmittagslicht im Winter beleuchtet die Klippen spektakulär; ein idealer Zeitpunkt für Fotos ohne die sommerliche Dunstglocke.",
+                "hu": "A téli délutáni lágy fények látványosan világítják meg a sziklákat; ideális időpont a fotózáshoz a nyári pára és hőség nélkül.",
+                "ro": "Lumina blândă a după-amiezii de iarnă luminează spectaculos stâncile; este un moment ideal pentru fotografii fără pâcla verii.",
+                "en": "The soft afternoon winter light illuminates the cliffs spectacularly; it’s an ideal time for photography without the summer haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Europa Point",
+                "hu": "Europa Point",
+                "ro": "Europa Point",
+                "en": "Europa Point"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig zum Sonnenuntergang um 17 Uhr; die Farben über der Straße von Gibraltar sind im Winter besonders intensiv und klar.",
+                "hu": "Érkezzen időben a 17 órai naplementére; a Gibraltári-szoros feletti színek télen különösen intenzívek és tiszta látványt nyújtanak.",
+                "ro": "Sosiți la timp pentru apusul de la ora 17; culorile de deasupra Strâmtorii Gibraltar sunt deosebit de intense și clare iarna.",
+                "en": "Arrive in time for the 17:00 sunset; the colors over the Strait of Gibraltar are particularly intense and clear during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "100-Tonnen-Kanone",
+                "hu": "100 Tonnás Ágyú",
+                "ro": "Tunul de 100 de Tone",
+                "en": "100 Ton Gun"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume der Batterie bieten eine willkommene Abkühlung vom Wind; nehmen Sie sich Zeit für die Geschichte, bevor es nach Sonnenuntergang kühler wird.",
+                "hu": "Az üteg belső terei kellemes menedéket nyújtanak a szél elől; szánjon időt a történelemre, mielőtt naplemente után lehűlne a levegő.",
+                "ro": "Interioarele bateriei oferă un adăpost binevenit împotriva vântului; acordați timp istoriei înainte ca aerul să se răcească după apus.",
+                "en": "The interior spaces of the battery offer a welcome break from the wind; take your time with the history before the evening chill sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a lenyűgöző Antic Hospital-nál, ahol a középkori építészet Sant Celoni gazdag történelméről mesél.\nSétáljon el a L'Ateneu kulturális központhoz, majd csodálja meg a városképet meghatározó elegáns Salomé szobrot.\nDélután fedezze fel az egykori ipari múltra emlékeztető gyárkéményt, és élvezze a pezsgő hangulatot a Városháza előtti téren.\nZárja a túrát a román stílusú Sant Martí de Pertegàs templomnál, ahol a békés csend tökéletes befejezése lesz a napnak.",
         "ro": "Începeți ziua la impresionantul Antic Hospital, unde arhitectura medievală frumoasă vă va povesti despre istoria veche a orașului Sant Celoni.\nFaceți o plimbare spre centrul cultural L'Ateneu și admirați apoi sculptura elegantă Salomé care oferă un farmec distinctiv peisajului urban.\nDupă-amiaza, descoperiți coșul de fum industrial falnic și bucurați-vă de atmosfera vibrantă din piața istorică din fața primăriei.\nÎncheiați turul la biserica romanică Sant Martí de Pertegàs, unde liniștea deplină reprezintă finalul perfect pentru această zi plină.",
         "en": "Begin your day at the impressive Antic Hospital, where the preserved medieval architecture vividly tells the rich history of Sant Celoni.\nStroll towards the L'Ateneu cultural center, and then admire the elegant Salomé sculpture which beautifully defines the urban landscape.\nIn the afternoon, discover the towering industrial chimney from the town's past, and enjoy the vibrant atmosphere at the historic town hall square.\nConclude your tour at the Romanesque church of Sant Martí de Pertegàs, where profound peacefulness provides the perfect end to a busy day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Antic Hospital, wo Sie unter dem Vordach Schutz vor dem sanften Regen finden. Mittags bietet das Kulturzentrum L'Ateneu einen idealen Rückzugsort im Trockenen. Nachmittags spazieren wir unter Regenschirmen zur historischen Xemeneia, bevor wir den Tag an der Kirche Sant Martí ausklingen lassen. Achten Sie auf die rutschigen Pflastersteine in der Altstadt.",
+            "hu": "A nap az Antic Hospitalnál indul, ahol az épület eresze alatt húzódhatunk meg az eső elől. Délben a L'Ateneu kulturális központ nyújt fedett menedéket a város szívében. Délután esernyőkkel felszerelkezve keressük fel a gyárkéményt, majd a Sant Martí templomnál zárjuk a sétát. Ügyeljen a csúszós macskakövekre a történelmi negyedben, viseljen vízálló cipőt.",
+            "ro": "Ziua începe la Antic Hospital, unde vă puteți adăposti de ploaia ușoară sub arcadele vechi. La prânz, centrul cultural L'Ateneu oferă un refugiu perfect și uscat în centrul orașului. După-amiaza ne plimbăm cu umbrele spre istorica Xemeneia, terminând turul la biserica Sant Martí. Atenție la pavajul alunecos din centrul vechi; purtați încălțăminte impermeabilă.",
+            "en": "The day starts at the Antic Hospital, where you can find shelter from the gentle rain under the historic eaves. At noon, the L'Ateneu cultural center provides a perfect dry retreat. In the afternoon, we walk with umbrellas to the historic chimney, ending at the Sant Martí church. Watch out for slippery cobblestones in the old town and keep your waterproof gear handy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antic Hospital",
+                "hu": "Antic Hospital",
+                "ro": "Antic Hospital",
+                "en": "Antic Hospital"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die mittelalterliche Architektur im Inneren, um dem Regen zu entgehen, und bewundern Sie die massiven Steinmauern, die perfekten Schutz bieten.",
+                "hu": "Fedezze fel a belső udvar középkori részleteit az eső elől menekülve, a vastag falak között szárazon csodálhatja meg a város legrégebbi kórházépületét.",
+                "ro": "Explorați detaliile medievale din interior pentru a scăpa de ploaie; zidurile groase oferă un adăpost perfect în timp ce admirați cea mai veche clădire din oraș.",
+                "en": "Explore the medieval details inside to escape the rain; the thick stone walls provide perfect shelter while you admire the city's oldest hospital building."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Ateneu",
+                "hu": "L'Ateneu",
+                "ro": "L'Ateneu",
+                "en": "L'Ateneu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen kulturellen Raum für eine längere Pause im Trockenen; die Ausstellungen im Inneren sind der ideale Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Használja ki ezt a kulturális teret egy hosszabb pihenőre a szárazon; a belső kiállítások ideális helyszínt nyújtanak egy nagyobb zápor átvészelésére.",
+                "ro": "Folosiți acest spațiu cultural pentru o pauză prelungită la uscat; expozițiile interioare sunt locul ideal pentru a aștepta trecerea unei averse de ploaie.",
+                "en": "Take advantage of this cultural space for an extended dry break; the indoor exhibitions are the ideal spot to wait out a heavy rain shower comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Salomé - Escultura de Lluís Montané",
+                "hu": "Salomé - Escultura de Lluís Montané",
+                "ro": "Salomé - Escultura de Lluís Montané",
+                "en": "Salomé - Escultura de Lluís Montané"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp unter dem Regenschirm reicht hier aus; die nassen Oberflächen der Skulptur verleihen dem Kunstwerk einen glänzenden, besonderen Aspekt.",
+                "hu": "Egy rövid fotómegálló esernyő alatt is elég itt; a szobor vizes felülete különleges, csillogó hatást kölcsönöz az alkotásnak a szürke időben.",
+                "ro": "O scurtă oprire pentru fotografii sub umbrelă este suficientă aici; suprafețele umede ale sculpturii oferă operei de artă un aspect lucios și special.",
+                "en": "A quick photo stop under an umbrella is enough here; the wet surfaces of the sculpture give the artwork a unique, shiny appearance in the grey light."
+              }
+            },
+            {
+              "name": {
+                "de": "Xemeneia de Can Pàmies",
+                "hu": "Xemeneia de Can Pàmies",
+                "ro": "Xemeneia de Can Pàmies",
+                "en": "Xemeneia de Can Pàmies"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das industrielle Erbe vom nahegelegenen Hauseingang aus; der rote Backstein bildet einen starken Kontrast zum grauen Regenwolkenhimmel.",
+                "hu": "Csodálja meg az ipari örökséget egy közeli kapualjból; a vörös téglaépítmény éles kontrasztot alkot a szürke esőfelhőkkel a városi panorámában.",
+                "ro": "Admirați moștenirea industrială de la intrarea unei clădiri din apropiere; cărămida roșie creează un contrast puternic cu cerul gri plin de nori de ploaie.",
+                "en": "Admire the industrial heritage from a nearby doorway; the red brick structure creates a sharp contrast against the grey rain clouds in the skyline."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Sant Celoni",
+                "hu": "Ajuntament de Sant Celoni",
+                "ro": "Ajuntament de Sant Celoni",
+                "en": "Ajuntament de Sant Celoni"
+              },
+              "tip_5lang": {
+                "de": "Die Arkaden des Rathauses bieten hervorragenden Schutz; beobachten Sie das Treiben auf dem nassen Marktplatz gemütlich aus der trockenen Deckung heraus.",
+                "hu": "A városháza árkádjai kiváló védelmet nyújtanak az eső ellen; figyelje a főtér vizes kövein tükröződő fényeket a kényelmes, száraz fedezékből.",
+                "ro": "Arcadele primăriei oferă o protecție excelentă împotriva ploii; observați reflexiile luminilor pe pavajul umed al pieței din acest adăpost uscat.",
+                "en": "The town hall's arcades offer excellent protection from the rain; watch the light reflecting on the wet square while staying perfectly dry underneath."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Martí de Pertegàs",
+                "hu": "Sant Martí de Pertegàs",
+                "ro": "Sant Martí de Pertegàs",
+                "en": "Sant Martí de Pertegàs"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Inneren der Kirche; das Trommeln des Regens auf dem Dach schafft eine besonders andächtige Atmosphäre in diesem sakralen Raum.",
+                "hu": "Zárja a napot a templom belső terében; a tetőn kopogó eső hangja különlegesen áhítatos és nyugodt légkört teremt ebben a szakrális környezetben.",
+                "ro": "Încheiați ziua în interiorul bisericii; sunetul ploii bătând în acoperiș creează o atmosferă deosebit de liniștită și spirituală în acest spațiu sacru.",
+                "en": "End your day inside the church; the sound of rain drumming on the roof creates a uniquely peaceful and spiritual atmosphere in this sacred space."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen besichtigen wir das Antic Hospital. Mittags wärmen wir uns im L'Ateneu auf, bevor wir die Skulpturen und die markante Xemeneia im kalten Nachmittagslicht erkunden. Da die Sonne bereits um 17:00 Uhr untergeht, erreichen wir Sant Martí bei einsetzender Dämmerung. Kleiden Sie sich in Schichten gegen den kühlen Wind.",
+            "hu": "Egy tiszta téli reggelen az Antic Hospitalnál kezdünk. Délben a L'Ateneu belső tereiben melegedhetünk fel, majd a hideg délutáni fényekben fotózzuk a Salomé szobrot és a kéményt. Mivel 17:00-kor már sötétedik, a Sant Martí templomhoz a szürkületben érünk oda. Öltözzön rétegesen a völgyből érkező hűvös szél ellen.",
+            "ro": "Într-o dimineață senină de iarnă vizităm Antic Hospital. La prânz ne încălzim în interiorul L'Ateneu, apoi explorăm sculptura și Xemeneia în lumina rece a după-amiezii. Deoarece soarele apune la ora 17:00, ajungem la Sant Martí odată cu lăsarea serii. Îmbrăcați-vă în straturi groase împotriva vântului rece din vale.",
+            "en": "On a clear winter morning, we visit the Antic Hospital. At noon, we warm up inside L'Ateneu before exploring the sculpture and the chimney in the crisp afternoon light. Since the sun sets at 17:00, we reach Sant Martí as twilight begins. Dress in warm layers against the cool breeze coming from the mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antic Hospital",
+                "hu": "Antic Hospital",
+                "ro": "Antic Hospital",
+                "en": "Antic Hospital"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Morgen; die kalten Steinmauern wirken im Winterlicht besonders eindrucksvoll, aber tragen Sie Handschuhe beim Fotografieren.",
+                "hu": "Élvezze a reggeli csendet; a hideg kőfalak különösen impozánsak a téli fényben, de fotózás közben viseljen kesztyűt a fagyos levegő miatt.",
+                "ro": "Bucurați-vă de liniștea dimineții; zidurile reci de piatră par deosebit de impresionante în lumina iernii, dar purtați mănuși când faceți fotografii.",
+                "en": "Enjoy the morning silence; the cold stone walls look particularly impressive in the winter light, but wear gloves while taking photos in the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Ateneu",
+                "hu": "L'Ateneu",
+                "ro": "L'Ateneu",
+                "en": "L'Ateneu"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich zur Mittagszeit aufzuwärmen; die kulturellen Aktivitäten bieten eine willkommene Pause von der winterlichen Kälte draußen.",
+                "hu": "Tökéletes hely a felmelegedésre a déli órákban; a kulturális kiállítások kellemes pihenőt nyújtanak a kinti téli hideg elől a város központjában.",
+                "ro": "Locul perfect pentru a vă încălzi la prânz; activitățile culturale oferă o pauză binevenită de frigul iernii de afară, chiar în centrul orașului.",
+                "en": "The perfect place to warm up during the midday hours; the cultural activities offer a welcome break from the winter cold outside in the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Salomé - Escultura de Lluís Montané",
+                "hu": "Salomé - Escultura de Lluís Montané",
+                "ro": "Salomé - Escultura de Lluís Montané",
+                "en": "Salomé - Escultura de Lluís Montané"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Skulptur und betont ihre Formen; ein kurzer Aufenthalt reicht bei der trockenen Kälte aus.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a szoborra, kiemelve annak formáit; a száraz hidegben egy rövid megálló is elég a megtekintéséhez.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe sculptură, subliniindu-i formele; în frigul uscat, o oprire scurtă este suficientă pentru a o admira.",
+                "en": "The low winter sun casts long shadows on the sculpture, emphasizing its forms; in the dry cold, a short stop is sufficient to admire the details."
+              }
+            },
+            {
+              "name": {
+                "de": "Xemeneia de Can Pàmies",
+                "hu": "Xemeneia de Can Pàmies",
+                "ro": "Xemeneia de Can Pàmies",
+                "en": "Xemeneia de Can Pàmies"
+              },
+              "tip_5lang": {
+                "de": "Das industrielle Bauwerk wirkt gegen den klaren, blauen Winterhimmel besonders scharf; ideal für Architekturfotos in der kühlen Nachmittagsluft.",
+                "hu": "Az ipari építmény különösen élesen rajzolódik ki a tiszta kék téli égbolton; ideális helyszín építészeti fotókhoz a hűvös délutáni levegőben.",
+                "ro": "Structura industrială se profilează clar pe cerul albastru de iarnă; este un loc ideal pentru fotografii arhitecturale în aerul rece al după-amiezii.",
+                "en": "The industrial structure stands out sharply against the clear blue winter sky; it's an ideal spot for architectural photos in the cool afternoon air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Sant Celoni",
+                "hu": "Ajuntament de Sant Celoni",
+                "ro": "Ajuntament de Sant Celoni",
+                "en": "Ajuntament de Sant Celoni"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Weihnachtsbeleuchtung oder die winterliche Dekoration am Rathausplatz; die warme Beleuchtung wirkt in der frühen Dämmerung magisch.",
+                "hu": "Csodálja meg a karácsonyi fényeket vagy a téli dekorációt a főtéren; a városháza meleg megvilágítása varázslatos a kora esti szürkületben.",
+                "ro": "Admirați luminile de Crăciun sau decorațiunile de iarnă din piața primăriei; iluminarea caldă pare magică în amurgul care se lasă devreme.",
+                "en": "Admire the Christmas lights or winter decorations in the square; the town hall's warm lighting looks magical in the early evening twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Martí de Pertegàs",
+                "hu": "Sant Martí de Pertegàs",
+                "ro": "Sant Martí de Pertegàs",
+                "en": "Sant Martí de Pertegàs"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, ist die Kirche bei Ihrer Ankunft oft stimmungsvoll beleuchtet; ein perfekter, besinnlicher Abschluss für den kalten Tag.",
+                "hu": "Mivel korán sötétedik, a templom gyakran hangulatosan ki van világítva mire odaér; tökéletes, meghitt lezárása a hideg téli kirándulásnak.",
+                "ro": "Deoarece se întunecă devreme, biserica este adesea luminată feeric când ajungeți; o încheiere perfectă și intimă pentru o zi rece de iarnă.",
+                "en": "Since it gets dark early, the church is often beautifully lit by the time you arrive; it's a perfect, cozy ending to a cold winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A kerékpártúra a bájos Sant Martí de Pertegàs templomnál indul, amelyet egy rövid megálló követ a közeli Vöröskereszt-emlékműnél.\nTekerjen a központba a történelmi Városházához, majd fedezze fel az ikonikus Masia de Can Fabes hagyományos vidéki építészetét.\nDélután látogasson el a csendes Capella de Sant Ponç kápolnához, és tekintse meg a modern Colomo-szobrot a városon kívül.\nAz utolsó szakasz a természetbe vezet, a Can Draper történelmi jégverméhez, amely lenyűgöző betekintést nyújt a régi tartósítási technikákba.",
         "ro": "Turul cu bicicleta începe la fermecătoarea biserică Sant Martí de Pertegàs, urmat de o scurtă oprire la monumentul Crucii Roșii din apropiere.\nPedalați spre centrul orașului până la primăria istorică și descoperiți apoi arhitectura tradițională a iconicei ferme Masia de Can Fabes.\nDupă-amiaza, vizitați liniștita Capella de Sant Ponç și admirați sculptura modernă Colomo chiar înainte de a vă îndrepta spre marginile orașului.\nUltima etapă vă poartă în mijlocul naturii, către pivnița istorică de gheață Can Draper, un exemplu fascinant de ingeniozitate antică.",
         "en": "Your cycling tour starts at the charming Sant Martí de Pertegàs church, followed by a brief stop at the nearby Red Cross monument.\nPedal into the center to admire the historic town hall, and then discover the traditional rural architecture of the iconic Masia de Can Fabes.\nIn the afternoon, visit the quiet Capella de Sant Ponç and observe the modern Colomo sculpture before heading towards the outskirts.\nThe final stretch takes you into nature to the historic Can Draper ice well, a fascinating testament to ancient preservation techniques."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet an der Kirche Sant Martí bei leichtem Nieselregen. Wir radeln vorsichtig auf den nassen Wegen zum Monumento und zum Rathaus, wo wir Schutz suchen. Mittags erreichen wir Can Fabes, bevor es zur Kapelle Sant Ponç und zum Pou de glaç geht. Seien Sie besonders vorsichtig in Kurven, da das Laub auf dem Boden rutschig sein kann.",
+            "hu": "A kerékpártúra a Sant Martí templomnál indul szemerkélő esőben. Óvatosan tekerünk a vizes utakon a Monumento és a városháza felé, ahol menedéket keresünk. Délben érjük el Can Fabest, majd a Sant Ponç kápolna és a Pou de glaç felé vesszük az irányt. Legyen nagyon óvatos a kanyarokban, a nedves levelek csúszóssá tehetik az utat.",
+            "ro": "Turul cu bicicleta începe la biserica Sant Martí sub o ploaie fină. Pedalăm cu atenție pe drumurile umede spre Monumento și primărie, unde căutăm adăpost. La prânz ajungem la Can Fabes, apoi ne îndreptăm spre capela Sant Ponç și Pou de glaç. Fiți foarte atenți în curbe, deoarece frunzele ude pot face drumul alunecos.",
+            "en": "The bike tour starts at Sant Martí church under a light drizzle. We pedal carefully on the wet paths toward the Monumento and the town hall, seeking shelter. At noon, we reach Can Fabes, then head to Sant Ponç chapel and the Pou de glaç. Be extra cautious in turns, as wet leaves can make the roads very slippery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Martí de Pertegàs",
+                "hu": "Sant Martí de Pertegàs",
+                "ro": "Sant Martí de Pertegàs",
+                "en": "Sant Martí de Pertegàs"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour unter dem Schutz der Kirchenmauern; prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen von Sant Celoni fahren.",
+                "hu": "Kezdje a túrát a templom falainak védelmében; mindenképpen ellenőrizze a fékeket, mielőtt elindulna Sant Celoni vizes és csúszós aszfaltján.",
+                "ro": "Începeți turul sub protecția zidurilor bisericii; verificați frânele înainte de a porni pe străzile umede și alunecoase din Sant Celoni.",
+                "en": "Start the tour under the protection of the church walls; be sure to check your brakes before heading out onto Sant Celoni's wet and slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Cruz Roja",
+                "hu": "Monumento a la Cruz Roja",
+                "ro": "Monumento a la Cruz Roja",
+                "en": "Monumento a la Cruz Roja"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt am Denkmal; das glänzende Metall wirkt im Regen fast lebendig, aber bleiben Sie für Fotos am Straßenrand auf festem Boden.",
+                "hu": "Rövid megálló az emlékműnél; a csillogó fém szinte életre kel az esőben, de a fotózáshoz maradjon a szilárd útburkolaton a sár elkerülése végett.",
+                "ro": "O scurtă oprire la monument; metalul strălucitor pare aproape viu în ploaie, dar rămâneți pe drumul solid pentru fotografii ca să evitați noroiul.",
+                "en": "A brief stop at the monument; the shiny metal almost comes alive in the rain, but stay on the solid road for photos to avoid the surrounding mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Sant Celoni",
+                "hu": "Ajuntament de Sant Celoni",
+                "ro": "Ajuntament de Sant Celoni",
+                "en": "Ajuntament de Sant Celoni"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden ab und genießen Sie eine Pause im Trockenen; der Platz bietet bei Regen eine wunderbar ruhige Atmosphäre.",
+                "hu": "Támassza le a biciklit az árkádok alá, és élvezze a száraz pihenőt; a főtér az esőben csodálatosan nyugodt és csendes arcát mutatja a látogatónak.",
+                "ro": "Parcați bicicleta sub arcade și bucurați-vă de o pauză la uscat; piața primăriei oferă o atmosferă minunat de liniștită în timpul ploii.",
+                "en": "Park your bike under the arcades and enjoy a dry break; the main square shows a wonderfully calm and quiet side during the rain for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Masia de Can Fabes",
+                "hu": "Masia de Can Fabes",
+                "ro": "Masia de Can Fabes",
+                "en": "Masia de Can Fabes"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das berühmte Gebäude vom Radweg aus; die rustikalen Steine wirken bei feuchtem Wetter besonders farbintensiv und geschichtsträchtig.",
+                "hu": "Csodálja meg a híres épületet a kerékpárútról; a rusztikus kövek nedves időben különösen intenzív színűek és történelmi hangulatot árasztanak.",
+                "ro": "Admirați clădirea faimoasă de pe pista de biciclete; pietrele rustice au culori deosebit de intense pe vreme umedă și emană o aură istorică.",
+                "en": "Admire the famous building from the bike path; the rustic stones have particularly intense colors in wet weather and exude a historic atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Capella de Sant Ponç",
+                "hu": "Capella de Sant Ponç",
+                "ro": "Capella de Sant Ponç",
+                "en": "Capella de Sant Ponç"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Kapelle kann schlammig sein; tragen Sie Überschuhe und genießen Sie die mystische Stimmung des kleinen Gebäudes im Regen.",
+                "hu": "A kápolnához vezető út sáros lehet; használjon kamáslit vagy vízálló cipőt, és élvezze a kis épület misztikus hangulatát a szemerkélő esőben.",
+                "ro": "Drumul spre capelă poate fi noroios; folosiți protecții pentru pantofi și bucurați-vă de atmosfera mistică a micii clădiri în ploaia fină.",
+                "en": "The path to the chapel might be muddy; use shoe covers or waterproof boots and enjoy the mystical atmosphere of the small building in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Escultura de Colomo",
+                "hu": "Escultura de Colomo",
+                "ro": "Escultura de Colomo",
+                "en": "Escultura de Colomo"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Blick im Vorbeifahren genügt heute; die moderne Form der Skulptur kontrastiert interessant mit dem grauen Regenwetter.",
+                "hu": "Ma elég egy gyors pillantás menet közben; a szobor modern formája érdekes kontrasztot alkot a szürke esős idővel és a városi környezettel.",
+                "ro": "O privire rapidă din mers este suficientă astăzi; forma modernă a sculpturii creează un contrast interesant cu vremea gri și ploioasă de afară.",
+                "en": "A quick glance while riding is enough today; the sculpture's modern form creates an interesting contrast with the grey rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pou de glaç de Can Draper",
+                "hu": "Pou de glaç de Can Draper",
+                "ro": "Pou de glaç de Can Draper",
+                "en": "Pou de glaç de Can Draper"
+              },
+              "tip_5lang": {
+                "de": "Die Feuchtigkeit betont den erdigen Geruch dieses historischen Ortes; parken Sie das Rad sicher am Eingang und erkunden Sie den Bau vorsichtig.",
+                "hu": "A nedvesség kiemeli ennek a történelmi helynek a földes illatát; támassza le biztonságosan a gépet, és óvatosan fedezze fel a különleges építményt.",
+                "ro": "Umiditatea scoate în evidență mirosul pământiu al acestui loc istoric; parcați bicicleta în siguranță și explorați cu atenție structura specială.",
+                "en": "The moisture emphasizes the earthy scent of this historic site; park your bike securely and carefully explore the unique structure's interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Morgen radeln wir von Sant Martí zum Monumento. Die kalte Luft ist erfrischeung auf dem Weg zum Ajuntament. Mittags besichtigen wir Can Fabes und die Kapelle Sant Ponç. Der Tag endet am Pou de glaç, wo die winterliche Kälte perfekt zum Zweck des Gebäudes passt. Achtung: Bei Sonnenuntergang um 17:00 Uhr sinken die Temperaturen rapide.",
+            "hu": "Egy fagyos reggelen tekerünk Sant Martítól a Monumentóig. A hideg levegő frissítő az Ajuntament felé vezető úton. Délben meglátogatjuk Can Fabest és a Sant Ponç kápolnát. A nap a Pou de glaçnál ér véget, ahol a téli hideg tökéletesen illik az épület eredeti funkciójához. Figyelem: naplemente után, 17:00-kor a hőmérséklet hirtelen leesik.",
+            "ro": "Într-o dimineață geroasă pedalăm de la Sant Martí spre Monumento. Aerul rece este revigorant în drum spre Ajuntament. La prânz vizităm Can Fabes și capela Sant Ponç. Ziua se încheie la Pou de glaç, unde frigul iernii se potrivește perfect cu funcția clădirii. Atenție: după apusul soarelui la ora 17:00, temperaturile scad brusc.",
+            "en": "On a frosty morning, we cycle from Sant Martí to the Monumento. The cold air is refreshing on the way to the Ajuntament. At noon, we visit Can Fabes and the Sant Ponç chapel. The day ends at the Pou de glaç, where the winter cold perfectly matches the building's original purpose. Note: after sunset at 17:00, temperatures drop rapidly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Martí de Pertegàs",
+                "hu": "Sant Martí de Pertegàs",
+                "ro": "Sant Martí de Pertegàs",
+                "en": "Sant Martí de Pertegàs"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einer warmen Schicht Kleidung; der Boden um die Kirche kann am frühen Morgen gefroren und stellenweise glatt sein.",
+                "hu": "Induljon meleg réteges ruházatban; a templom körüli talaj kora reggel fagyos és helyenként csúszós lehet, ügyeljen az indulásnál a biztonságra.",
+                "ro": "Porniți la drum cu haine groase; solul din jurul bisericii poate fi înghețat și alunecos dimineața devreme, aveți grijă la plecare.",
+                "en": "Start with warm, layered clothing; the ground around the church can be frozen and slippery in the early morning, so be careful when starting."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Cruz Roja",
+                "hu": "Monumento a la Cruz Roja",
+                "ro": "Monumento a la Cruz Roja",
+                "en": "Monumento a la Cruz Roja"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; das Metall fühlt sich bei diesen Temperaturen extrem kalt an, also lassen Sie Ihre Handschuhe beim Radeln lieber an.",
+                "hu": "Csak egy rövid megálló egy fotóra; a fém ilyenkor rendkívül hideg tapintású, így a legjobb, ha a kesztyűt végig a kezén tartja tekerés közben.",
+                "ro": "O scurtă oprire pentru o fotografie; metalul este extrem de rece la atingere acum, așa că e mai bine să păstrați mănușile pe mâini în timp ce pedalați.",
+                "en": "Just a quick stop for a photo; the metal feels extremely cold to the touch now, so it's best to keep your gloves on while cycling all the time."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Sant Celoni",
+                "hu": "Ajuntament de Sant Celoni",
+                "ro": "Ajuntament de Sant Celoni",
+                "en": "Ajuntament de Sant Celoni"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne erreicht den Platz am Vormittag und bietet etwas Wärme; nutzen Sie die Gelegenheit, um die Hände aufzuwärmen, bevor es weitergeht.",
+                "hu": "A nap délelőtt eléri a főteret és némi melegséget ad; használja ki az alkalmat a kezei felmelegítésére, mielőtt továbbindulna a következő helyszínre.",
+                "ro": "Soarele ajunge în piață dimineața și oferă puțină căldură; profitați de ocazie pentru a vă încălzi mâinile înainte de a porni spre următoarea locație.",
+                "en": "The sun reaches the square in the morning and provides some warmth; take the opportunity to warm your hands before heading to the next location."
+              }
+            },
+            {
+              "name": {
+                "de": "Masia de Can Fabes",
+                "hu": "Masia de Can Fabes",
+                "ro": "Masia de Can Fabes",
+                "en": "Masia de Can Fabes"
+              },
+              "tip_5lang": {
+                "de": "Der historische Bauernhof wirkt im klaren Winterlicht besonders idyllisch; die trockene Luft sorgt für eine hervorragende Sicht auf die Architektur.",
+                "hu": "A történelmi udvarház különösen idilli a tiszta téli fényben; a száraz levegő kiváló láthatóságot biztosít az építészeti részletek megfigyeléséhez.",
+                "ro": "Conacul istoric arată deosebit de idilic în lumina clară de iarnă; aerul uscat oferă o vizibilitate excelentă pentru a observa detaliile arhitecturale.",
+                "en": "The historic manor house looks particularly idyllic in the clear winter light; the dry air provides excellent visibility for observing architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Capella de Sant Ponç",
+                "hu": "Capella de Sant Ponç",
+                "ro": "Capella de Sant Ponç",
+                "en": "Capella de Sant Ponç"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter oft ein ruhiger Rückzugsort; genießen Sie die friedliche Stille in der kühlen Luft, bevor der Nachmittag zu Ende geht.",
+                "hu": "A kápolna télen gyakran csendes menedékhely; élvezze a békés nyugalmat a hűvös levegőn, mielőtt a délutáni fények végleg elhalványulnának.",
+                "ro": "Capela este adesea un refugiu liniștit iarna; bucurați-vă de liniștea deplină în aerul rece, înainte ca lumina după-amiezii să dispară complet.",
+                "en": "The chapel is often a quiet retreat in winter; enjoy the peaceful silence in the cool air before the afternoon light fades away completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Escultura de Colomo",
+                "hu": "Escultura de Colomo",
+                "ro": "Escultura de Colomo",
+                "en": "Escultura de Colomo"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Kunstwerk glänzt im tiefstehenden Sonnenlicht; machen Sie ein schnelles Foto, bevor die Sonne hinter den Bergen verschwindet.",
+                "hu": "A modern alkotás csillog az alacsonyan járó napfényben; készítsen egy gyors fotót, mielőtt a nap végleg eltűnne a környező hegyek vonulatai mögött.",
+                "ro": "Opera de artă modernă strălucește în lumina soarelui la amurg; faceți o fotografie rapidă înainte ca soarele să dispară după munții din jur.",
+                "en": "The modern artwork glitters in the low sunlight; take a quick photo before the sun disappears behind the surrounding mountain ridges for the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Pou de glaç de Can Draper",
+                "hu": "Pou de glaç de Can Draper",
+                "ro": "Pou de glaç de Can Draper",
+                "en": "Pou de glaç de Can Draper"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der authentischste Ort für einen Winterbesuch; das Innere ist natürlich kühl, was an die Zeit der Eislagerung erinnert.",
+                "hu": "Ez a legautentikusabb helyszín egy téli látogatáshoz; a belső tér természetesen hűvös, ami az egykori jégtárolás idejét idézi fel a látogatóban.",
+                "ro": "Acesta este cel mai autentic loc pentru o vizită de iarnă; interiorul este natural de rece, amintind de vremurile când aici se depozita gheața.",
+                "en": "This is the most authentic location for a winter visit; the interior is naturally cool, recalling the days when ice was stored here long ago."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Kezdje autós túráját a központban az Antic Hospital-nál, ahol felfedezheti ennek a lenyűgöző történelmi épületnek a középkori boltíveit.\nVezessen dél felé a Can Draper történelmi jégverméhez, amely különleges betekintést nyújt a régi idők élelmiszertartósítási módszereibe.\nDélután autózzon el a régi Can Plana kőhídhoz, majd tegyen egy frissítő sétát a Turó de Ca l'Alzina Vell zöldellő, dombos erdejében.\nA nap végén hajtson északra a Capella de Sant Ponç kápolnához, amelynek békés környezete tökéletes egy csendes és pihentető estéhez.",
         "ro": "Începeți traseul auto în centrul orașului la Antic Hospital, unde puteți explora arcadele magnifice ale acestui important monument istoric.\nConduceți spre sud către vechea pivniță de gheață Can Draper, un loc care oferă o perspectivă unică asupra tehnicilor vechi de conservare.\nDupă-amiaza include o vizită la podul de piatră Can Plana și o plimbare relaxantă printre copacii de pe dealul Turó de Ca l'Alzina Vell.\nLa finalul zilei, îndreptați-vă spre nord către Capella de Sant Ponç, a cărei atmosferă senină pregătește terenul pentru o seară liniștită.",
         "en": "Start your driving tour in the center at the Antic Hospital, where you can easily explore the magnificent medieval arches of this historic building.\nDrive south to the historic Can Draper ice well, a fascinating site that provides a unique glimpse into long-forgotten preservation techniques.\nThe afternoon features a scenic drive to the old Can Plana stone bridge and a refreshing walk through the greenery of Turó de Ca l'Alzina Vell.\nConclude your day by heading north to the Capella de Sant Ponç, whose serene atmosphere sets the perfect tone for a quiet and relaxing evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Autofahrt am Antic Hospital, während die Scheibenwischer den Regen wegschieben. Die Fahrt führt uns zum Pou de glaç und über die Bridge of Can Plana, wobei die Landschaft im Nebel fast mystisch wirkt. Mittags genießen wir den Ausblick vom Turó de Ca l'Alzina Vell im Schutze des Wagens, bevor wir die Tour an der Capella de Sant Ponç beenden.",
+            "hu": "Az Antic Hospitalnál kezdjük az autós utat, miközben az ablaktörlők ütemesen járnak. Az út a Pou de glaçhoz és a Bridge of Can Planához vezet, a ködbe burkolózó táj szinte misztikusnak hat. Délben az autó kényelméből élvezzük a kilátást a Turó de Ca l'Alzina Vell-nél, majd a Sant Ponç kápolnánál fejezzük be a mai kirándulást.",
+            "ro": "Începem călătoria cu mașina la Antic Hospital, în timp ce ștergătoarele îndepărtează ploaia. Drumul ne duce la Pou de glaç și peste Bridge of Can Plana, peisajul în ceață părând aproape mistic. La prânz ne bucurăm de priveliștea de la Turó de Ca l'Alzina Vell din confortul mașinii, încheind turul la Capella de Sant Ponç.",
+            "en": "We start the car journey at the Antic Hospital while the wipers clear the rain. The drive takes us to Pou de glaç and across the Bridge of Can Plana, where the misty landscape looks almost mystical. At noon, we enjoy the view from Turó de Ca l'Alzina Vell from the comfort of the car, finishing at the Sant Ponç chapel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antic Hospital",
+                "hu": "Antic Hospital",
+                "ro": "Antic Hospital",
+                "en": "Antic Hospital"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um schnell ins Trockene zu kommen; das historische Gebäude bietet im Inneren wunderbaren Schutz vor dem Regen.",
+                "hu": "Használja a közeli parkolót, hogy gyorsan száraz helyre érjen; a történelmi épület belső terei kiváló védelmet nyújtanak a kinti eső ellen.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost; interiorul clădirii istorice oferă o protecție excelentă împotriva ploii de afară.",
+                "en": "Use the nearby parking to get to shelter quickly; the historic building's interior provides excellent protection from the rain outside for everyone."
+              }
+            },
+            {
+              "name": {
+                "de": "Pou de glaç de Can Draper",
+                "hu": "Pou de glaç de Can Draper",
+                "ro": "Pou de glaç de Can Draper",
+                "en": "Pou de glaç de Can Draper"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann bei Regen rutschig sein; parken Sie vorsichtig am Wegrand und tragen Sie feste Wanderschuhe für das kurze Stück zu Fuß.",
+                "hu": "A hozzivezető út esőben csúszós lehet; parkoljon óvatosan az út szélén, és viseljen stabil túracipőt a rövid, gyalogosan megteendő szakaszhoz.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie; parcați cu atenție pe marginea drumului și purtați ghete de munte pentru scurta porțiune pe jos.",
+                "en": "The access path can be slippery in the rain; park carefully on the roadside and wear sturdy hiking boots for the short section on foot to the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge of Can Plana",
+                "hu": "Bridge of Can Plana",
+                "ro": "Bridge of Can Plana",
+                "en": "Bridge of Can Plana"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Brücke und den darunter fließenden Bach, der bei Regen oft anschwillt; ein beeindruckendes Naturschauspiel direkt vom Fenster aus.",
+                "hu": "Csodálja meg a hidat és az alatta folyó patakot, amely esőben gyakran megduzzad; lenyűgöző természeti látványosság akár az autó ablakából is nézve.",
+                "ro": "Admirați podul și pârâul de dedesubt, care adesea se umflă pe ploaie; este un spectacol natural impresionant chiar și văzut de pe fereastra mașinii.",
+                "en": "Admire the bridge and the stream below, which often swells during the rain; it's an impressive natural sight even when viewed from the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó de Ca l'Alzina Vell",
+                "hu": "Turó de Ca l'Alzina Vell",
+                "ro": "Turó de Ca l'Alzina Vell",
+                "en": "Turó de Ca l'Alzina Vell"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen bietet der Hügel eine dramatische Aussicht auf das wolkenverhangene Tal; bleiben Sie im Wagen und genießen Sie das Panorama.",
+                "hu": "Heves esőben a domb drámai kilátást nyújt a felhőkbe burkolózó völgyre; maradjon a kocsiban, és élvezze a panorámát a fűtött utastér kényelméből.",
+                "ro": "Pe ploaie torențială, dealul oferă o priveliște dramatică asupra văii acoperite de nori; rămâneți în mașină și bucurați-vă de panoramă la căldură.",
+                "en": "In heavy rain, the hill offers a dramatic view of the cloud-covered valley; stay in the car and enjoy the panorama from the comfort of the heated interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Capella de Sant Ponç",
+                "hu": "Capella de Sant Ponç",
+                "ro": "Capella de Sant Ponç",
+                "en": "Capella de Sant Ponç"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag an der Kapelle; ein großer Regenschirm ist für den kurzen Weg vom Parkplatz zum Eingang dieses friedlichen Ortes unerlässlich.",
+                "hu": "Zárja a napot a kápolnánál; egy nagy esernyő elengedhetetlen a parkoló és a bejárat közötti rövid úton ennél a végtelenül békés helyszínnél.",
+                "ro": "Încheiați ziua la capelă; o umbrelă mare este esențială pentru scurta distanță dintre parcare și intrarea în acest loc extrem de liniștit.",
+                "en": "End your day at the chapel; a large umbrella is essential for the short distance between the parking and the entrance of this incredibly peaceful site."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto erkunden wir Sant Celoni an einem kalten Wintertag. Wir besuchen das Antic Hospital am Morgen und den Pou de glaç, der im Winter besonders authentisch wirkt. Über die Brücke geht es zum Turó de Ca l'Alzina Vell für eine klare Fernsicht. Da es um 17:00 Uhr dunkel wird, erreichen wir die Kapelle Sant Ponç pünktlich zur blauen Stunde.",
+            "hu": "Fűtött autóval fedezzük fel Sant Celonit ezen a hideg téli napon. Reggel meglátogatjuk az Antic Hospitalt, majd a Pou de glaçt, amely télen különösen hiteles arcát mutatja. A hídon át a Turó de Ca l'Alzina Vell felé vesszük az irányt a tiszta kilátásért. Mivel 17:00-kor sötétedik, a kék órában érünk a Sant Ponç kápolnához.",
+            "ro": "Explorăm Sant Celoni într-o mașină încălzită în această zi rece de iarnă. Vizităm Antic Hospital dimineața, apoi Pou de glaç, care pare autentic iarna. Trecem podul spre Turó de Ca l'Alzina Vell pentru o priveliște clară. Deoarece se întunecă la ora 17:00, ajungem la capela Sant Ponç fix la ora albastră.",
+            "en": "We explore Sant Celoni in a heated car on this cold winter day. We visit the Antic Hospital in the morning, then the Pou de glaç, which feels particularly authentic in winter. Cross the bridge to Turó de Ca l'Alzina Vell for a clear view. Since it gets dark at 17:00, we reach Sant Ponç chapel just in time for the blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antic Hospital",
+                "hu": "Antic Hospital",
+                "ro": "Antic Hospital",
+                "en": "Antic Hospital"
+              },
+              "tip_5lang": {
+                "de": "Die klirrende Kälte draußen macht den Besuch der historischen Mauern noch stimmungsvoller; tragen Sie einen warmen Mantel für die Besichtigung.",
+                "hu": "A kinti metsző hideg még hangulatosabbá teszi a történelmi falak meglátogatását; viseljen meleg kabátot a belső terek és az udvar felfedezéséhez.",
+                "ro": "Frigul tăios de afară face vizitarea zidurilor istorice și mai plină de atmosferă; purtați o haină groasă pentru a explora interiorul și curtea.",
+                "en": "The biting cold outside makes visiting the historic walls even more atmospheric; wear a warm coat to explore the interior and the courtyard comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Pou de glaç de Can Draper",
+                "hu": "Pou de glaç de Can Draper",
+                "ro": "Pou de glaç de Can Draper",
+                "en": "Pou de glaç de Can Draper"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Stopp im Winter; die kühle Luft im Eishaus lässt Sie nachempfinden, wie hier früher wertvolles Eis für den Sommer konserviert wurde.",
+                "hu": "Az ideális megálló télen; a jégverem hűvös levegője segít átérezni, hogyan konzerválták itt régen a nyárra szánt értékes jégtömböket a helyiek.",
+                "ro": "Oprirea ideală iarna; aerul rece din casa de gheață vă ajută să simțiți cum se conserva aici odinioară gheața prețioasă pentru lunile de vară.",
+                "en": "The ideal stop in winter; the cool air in the ice house helps you feel how precious ice blocks were once preserved here for the summer months by locals."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge of Can Plana",
+                "hu": "Bridge of Can Plana",
+                "ro": "Bridge of Can Plana",
+                "en": "Bridge of Can Plana"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht hervorragende Fotos der Brücke und der umliegenden Berge; achten Sie auf mögliche Glätte auf der Brückenoberfläche.",
+                "hu": "A tiszta téli levegő kiváló fotókat tesz lehetővé a hídról és a környező hegyekről; ügyeljen az esetleges jegesedésre a híd burkolatán gyalogláskor.",
+                "ro": "Aerul clar de iarnă permite fotografii excelente cu podul și munții din jur; aveți grijă la eventuala gheață de pe suprafața podului când mergeți pe jos.",
+                "en": "The clear winter air allows for excellent photos of the bridge and surrounding mountains; watch out for possible ice on the bridge surface while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó de Ca l'Alzina Vell",
+                "hu": "Turó de Ca l'Alzina Vell",
+                "ro": "Turó de Ca l'Alzina Vell",
+                "en": "Turó de Ca l'Alzina Vell"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Fernsicht, die im Winter oft am besten ist; die tiefstehende Sonne beleuchtet die Landschaft in warmen Goldtönen.",
+                "hu": "Élvezze a távoli kilátást, amely télen gyakran a legszebb; az alacsonyan járó nap meleg arany tónusokkal világítja meg a környékbeli tájat.",
+                "ro": "Bucurați-vă de priveliștea la distanță, care iarna este adesea cea mai clară; soarele la amurg luminează peisajul în tonuri calde de auriu.",
+                "en": "Enjoy the distant view, which is often clearest in winter; the low sun illuminates the surrounding landscape in warm golden tones during the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Capella de Sant Ponç",
+                "hu": "Capella de Sant Ponç",
+                "ro": "Capella de Sant Ponç",
+                "en": "Capella de Sant Ponç"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kapelle vor 17:00 Uhr, um das letzte Tageslicht zu nutzen; die warme Innenbeleuchtung wirkt in der Kälte besonders einladend.",
+                "hu": "Érjen a kápolnához 17:00 előtt, hogy kihasználja az utolsó fényeket; a belső tér meleg megvilágítása különösen hívogató a kinti fagyos hidegben.",
+                "ro": "Ajungeți la capelă înainte de ora 17:00 pentru a profita de ultima lumină; iluminarea caldă din interior pare foarte primitoare în frigul de afară.",
+                "en": "Reach the chapel before 17:00 to catch the last daylight; the warm interior lighting feels especially inviting in the freezing cold outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

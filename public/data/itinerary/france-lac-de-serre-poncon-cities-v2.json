@@ -137,6 +137,168 @@
         "hu": "A séta a nyüzsgő strandok mentén kezdődik. Felfedezzük a víziparkot, majd megcsodáljuk az ikonikus kápolnát. A nap a La BDPirates partján ér véget, nyugodt esti hangulatban.",
         "ro": "Plimbarea începe pe plajele pline de viață. Explorăm parcul acvatic și admirăm capela emblematică. Ziua se încheie pe malurile La BDPirates într-o atmosferă de seară liniștită.",
         "en": "The walking tour begins along the lively beaches. We explore the local water park and admire the iconic island chapel. The day concludes at La BDPirates in a peaceful evening mood."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am See bietet mystische Nebelschwaden über dem Wasser. Mittags suchen wir Schutz unter den Pinien am Ufer, während der Regen auf die Oberfläche prasselt. Nachmittags führt der Weg zur einsamen Kapelle, die im Grau fast magisch wirkt. Abends kehren wir früh zurück, da die Feuchtigkeit die Wege rutschig macht und die Kälte vom See heraufzieht.",
+            "hu": "A reggeli eső misztikus ködfátylat von a tó fölé, különleges hangulatot árasztva. Délben a parti fenyvesek alatt keresünk menedéket, figyelve a víztükrön kopogó cseppeket. Délután a magányos kápolna felé vesszük az irányt, amely a szürkületben szinte lebeg a vízen. Este korán befejezzük a sétát, mert a parti ösvények csúszóssá válnak a sárban.",
+            "ro": "O dimineață ploioasă la lac oferă valuri de ceață mistică peste apă. La prânz căutăm adăpost sub pinii de pe mal, în timp ce ploaia bate pe suprafața apei. După-amiaza drumul duce spre capela solitară, care pare magică în griul din jur. Seara ne retragem devreme, deoarece umezeala face potecile alunecoase și frigul se ridică dinspre lac.",
+            "en": "A rainy morning at the lake offers mystical fog blankets over the water. At noon, we find shelter under the lakeside pines, watching the raindrops dance on the surface. In the afternoon, the path leads to the lonely chapel, which looks almost magical in the grey light. In the evening, we return early as the dampness makes the paths slippery and the lake chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage des Pommiers",
+                "hu": "Plage des Pommiers",
+                "ro": "Plage des Pommiers",
+                "en": "Plage des Pommiers"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die melancholische Ruhe am Seeufer; tragen Sie wasserfeste Schuhe, da der kiesige Boden bei Regen sehr rutschig und instabil werden kann.",
+                "hu": "Élvezze a tópart melankolikus nyugalmát; viseljen vízálló cipőt, mert a kavicsos talaj az esőben nagyon csúszóssá és bizonytalanná válhat.",
+                "ro": "Bucurați-vă de liniștea melancolică de pe malul lacului; purtați pantofi impermeabili, deoarece solul pietros poate deveni foarte alunecos pe ploaie.",
+                "en": "Enjoy the melancholic peace by the lakeshore; wear waterproof shoes as the pebbly ground can become very slippery and unstable in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquaparc",
+                "hu": "Aquaparc",
+                "ro": "Aquaparc",
+                "en": "Aquaparc"
+              },
+              "tip_4lang": {
+                "de": "Auch bei Regen ist die Anlage ein markanter Orientierungspunkt; nutzen Sie die überdachten Bereiche der Umkleiden für eine kurze Pause im Trockenen.",
+                "hu": "Az esőben is jellegzetes tájékozódási pont; használja az öltözők fedett részeit egy rövid, száraz pihenőre, amíg elvonul a nagyobb zápor.",
+                "ro": "Chiar și pe ploaie, locația este un punct de reper distinctiv; folosiți zonele acoperite ale vestiarelor pentru o scurtă pauză la uscat.",
+                "en": "Even in the rain, the facility is a striking landmark; use the covered areas of the changing rooms for a short break in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_4lang": {
+                "de": "Die Kapelle auf ihrer Insel wirkt im Regen wie aus einer anderen Welt; ein Fernglas hilft, die Architektur trocken vom Ufer aus zu bewundern.",
+                "hu": "A szigeten álló kápolna az esőben olyan, mintha egy másik világból jött volna; egy távcsővel szárazon, a partról is megcsodálhatja az épületet.",
+                "ro": "Capela de pe insulă pare din altă lume pe ploaie; un binoclu vă ajută să admirați arhitectura stând la uscat pe mal.",
+                "en": "The chapel on its island looks otherworldly in the rain; use binoculars to admire the architecture from the dry shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage",
+                "hu": "Plage",
+                "ro": "Plage",
+                "en": "Plage"
+              },
+              "tip_4lang": {
+                "de": "Das graue Wasser hat bei Regen einen ganz eigenen Reiz; ein großer Schirm ist hier wegen der exponierten Lage und des Windes unerlässlich.",
+                "hu": "A szürke víznek esőben megvan a maga különleges bája; egy nagyméretű ernyő itt a nyitott terep és a szél miatt nélkülözhetetlen.",
+                "ro": "Apa gri are un farmec aparte pe ploaie; o umbrelă mare este indispensabilă aici din cauza locației expuse și a vântului.",
+                "en": "The grey water has its own unique charm in the rain; a large umbrella is essential here due to the exposed location and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "La BDPirates",
+                "hu": "La BDPirates",
+                "ro": "La BDPirates",
+                "en": "La BDPirates"
+              },
+              "tip_4lang": {
+                "de": "Das Piratenthema wirkt an trüben Tagen besonders abenteuerlich; prüfen Sie die Bodenbeschaffenheit, da sich auf den Wegen tiefe Pfützen bilden können.",
+                "hu": "A kalózos téma a borús napokon különösen kalandosan fest; ellenőrizze a talajt, mert az ösvényeken mély tócsák alakulhatnak ki.",
+                "ro": "Tema piraților pare deosebit de aventuroasă în zilele mohorâte; verificați starea solului, deoarece pe poteci se pot forma bălți adânci.",
+                "en": "The pirate theme looks particularly adventurous on gloomy days; check the ground conditions as deep puddles can form on the paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am See ist eiskalt, aber die klare Luft bietet Fernsicht bis zu den verschneiten Alpengipfeln. Mittags wärmen wir uns bei einem strammen Marsch entlang der frostigen Uferlinie auf. Nachmittags sinkt die Sonne bereits gegen 16 Uhr hinter die Berge und taucht den See in blaues Licht. Abends endet die Tour früh, sobald der eisige Wind nach Sonnenuntergang zunimmt.",
+            "hu": "A téli reggel a tónál jéghideg, de a tiszta levegő messzi kilátást enged a havas alpesi csúcsokra. Délben egy tempós sétával tartjuk magunkat melegen a deres partvonal mentén. Délután a nap már 16 óra körül eltűnik a hegyek mögött, kék fénybe vonva a vizet. Este a túra korán véget ér, amint a naplemente után felerősödik a jeges szél.",
+            "ro": "Dimineața de iarnă la lac este înghețată, dar aerul curat oferă o vizibilitate până la vârfurile alpine înzăpezite. La prânz ne încălzim cu un marș rapid de-a lungul liniei înghețate a malului. După-amiaza soarele apune deja în jurul orei 16 după munți, scăldând lacul în lumină albastră. Seara turul se termină devreme, imediat ce vântul înghețat se intensifică după apus.",
+            "en": "Winter morning at the lake is freezing, but the crisp air offers views all the way to the snowy Alpine peaks. At noon, we warm up with a brisk walk along the frosty shoreline. In the afternoon, the sun dips behind the mountains by 4 PM, bathing the lake in blue light. In the evening, the tour ends early as the icy wind picks up right after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage des Pommiers",
+                "hu": "Plage des Pommiers",
+                "ro": "Plage des Pommiers",
+                "en": "Plage des Pommiers"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das Eis an den Ufersteinen; tragen Sie Thermo-Einlegesohlen, da die Kälte vom Boden her sehr schnell in die Füße zieht.",
+                "hu": "Figyelje meg a jeget a parti köveken; használjon hőtartó talpbetétet, mert a talaj felől érkező hideg nagyon hamar lehűti a lábait.",
+                "ro": "Observați gheața de pe pietrele de la mal; purtați branțuri termice, deoarece frigul de la sol pătrunde foarte repede prin tălpi.",
+                "en": "Observe the ice on the shore stones; wear thermal insoles as the cold from the ground penetrates your feet very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquaparc",
+                "hu": "Aquaparc",
+                "ro": "Aquaparc",
+                "en": "Aquaparc"
+              },
+              "tip_4lang": {
+                "de": "Die stillgelegte Anlage im Winter wirkt wie eine Geisterstadt; halten Sie eine Thermoskanne mit heißem Tee bereit, um die Kältepausen zu überbrücken.",
+                "hu": "A télire lezárt terület olyannak tűnik, mint egy szellemváros; legyen kéznél forró teával teli termosz, hogy átvészelje a pihenőket a hidegben.",
+                "ro": "Parcul închis pe timp de iarnă arată ca un oraș fantomă; aveți la îndemână un termos cu ceai fierbinte pentru a suporta mai ușor pauzele în frig.",
+                "en": "The closed facility in winter looks like a ghost town; keep a thermos with hot tea ready to bridge the cold breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_4lang": {
+                "de": "Das Weiß der Kapelle hebt sich scharf vom dunklen Winterwasser ab; Handschuhe sind wichtig, da Metallgeländer am Weg extrem kalt sein können.",
+                "hu": "A kápolna fehérsége élesen elválik a sötét téli víztől; a kesztyű fontos, mert az út menti fémkorlátok extrém módon lehűlhetnek.",
+                "ro": "Albul capelei se detașează clar de apa întunecată de iarnă; mănușile sunt importante, deoarece balustradele metalice pot fi extrem de reci.",
+                "en": "The white of the chapel stands out sharply against the dark winter water; gloves are vital as metal railings along the path can be extremely cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage",
+                "hu": "Plage",
+                "ro": "Plage",
+                "en": "Plage"
+              },
+              "tip_4lang": {
+                "de": "Der Strand ist im Winter menschenleer und friedlich; achten Sie auf gefrorene Pfützen auf den Zugangswegen, die oft unter Laub verborgen sind.",
+                "hu": "A strand télen néptelen és békés; ügyeljen a befagyott tócsákra a bevezető utakon, amelyeket gyakran elfednek a lehullott levelek.",
+                "ro": "Plaja este pustie și liniștită iarna; atenție la bălțile înghețate de pe căile de acces, care sunt adesea ascunse sub frunziș.",
+                "en": "The beach is deserted and peaceful in winter; watch out for frozen puddles on the access paths, often hidden under fallen leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "La BDPirates",
+                "hu": "La BDPirates",
+                "ro": "La BDPirates",
+                "en": "La BDPirates"
+              },
+              "tip_4lang": {
+                "de": "Ein toller Ort für Winterfotos ohne Touristenmassen; planen Sie den Rückweg vor 16:30 Uhr ein, da es im Tal sehr schnell stockfinster wird.",
+                "hu": "Remek hely téli fotókhoz a turistahadak nélkül; tervezze a visszautat 16:30 előttre, mert a völgyben nagyon hamar koromsötét lesz.",
+                "ro": "Un loc grozav pentru fotografii de iarnă fără mase de turiști; planificați drumul de întoarcere înainte de 16:30, deoarece se întunecă rapid în vale.",
+                "en": "A great spot for winter photos without the tourist crowds; plan your return before 4:30 PM as it gets pitch dark in the valley very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpárral először a fantasztikus kilátóponthoz tekerünk. Ezután ereszkedünk le a strandokhoz és az ikonikus kápolnához. A túrát egy csendes, eldugott partszakasz zárja le.",
         "ro": "Pe bicicletă mergem mai întâi la punctul de belvedere fantastic. Apoi coborâm spre plaje și spre capela izolată. Turul se încheie perfect pe o porțiune de plajă foarte liniștită.",
         "en": "By bike, we first ride to the fantastic viewpoint. Afterwards, we descend to the popular beaches and the solitary chapel. The tour concludes perfectly at a quiet, secluded beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einer feuchten Fahrt auf asphaltierten Wegen, um Schlamm zu vermeiden. Mittags erreichen wir den Aussichtspunkt, wo der Regen die Farben der Berge intensiviert. Nachmittags gleiten wir vorsichtig an der Kapelle vorbei, immer bereit für plötzliche Bremsmanöver auf nassem Grund. Abends beenden wir die Tour durchnässt, aber erfrischt von der sauberen Regenluft.",
+            "hu": "A reggel nedves aszfalton indul, hogy elkerüljük a sarat a földutakon. Délben érjük el a kilátót, ahol az eső intenzívebbé teszi a hegyek színeit. Délután óvatosan gurulunk el a kápolna mellett, felkészülve a hirtelen fékezésekre a vizes talajon. Este ázottan, de a tiszta esőillattól felfrissülve fejezzük be a bringázást.",
+            "ro": "Dimineața începe cu o plimbare umedă pe drumuri asfaltate pentru a evita noroiul. La prânz ajungem la punctul de belvedere, unde ploaia intensifică culorile munților. După-amiaza alunecăm cu grijă pe lângă capelă, pregătiți mereu pentru frânări bruște pe sol ud. Seara terminăm turul uzi, dar revigorați de aerul curat de ploaie.",
+            "en": "The morning starts with a damp ride on paved paths to avoid mud. At noon, we reach the viewpoint where the rain intensifies the mountain colors. In the afternoon, we glide carefully past the chapel, always ready for sudden braking on wet ground. In the evening, we finish the tour soaked but refreshed by the clean rain air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Belvédère des Curattes",
+                "hu": "Belvédère des Curattes",
+                "ro": "Belvédère des Curattes",
+                "en": "Belvédère des Curattes"
+              },
+              "tip_4lang": {
+                "de": "Der Blick auf den See ist trotz Regen grandios; reduzieren Sie den Reifendruck minimal für besseren Grip auf den nassen Zufahrtsstraßen.",
+                "hu": "A kilátás a tóra az eső ellenére is pazar; csökkentse minimálisan a guminyomást a jobb tapadás érdekében a vizes bekötőutakon.",
+                "ro": "Vederea spre lac este grandioasă în ciuda ploii; reduceți minim presiunea în pneuri pentru o aderență mai bună pe drumurile de acces ude.",
+                "en": "The view of the lake is grand despite the rain; reduce tire pressure slightly for better grip on the wet access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Pommiers",
+                "hu": "Plage des Pommiers",
+                "ro": "Plage des Pommiers",
+                "en": "Plage des Pommiers"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp zum Verschnaufen; parken Sie das Rad auf festem Grund, da Ständer in aufgeweichter Erde leicht einsinken und das Rad umkippen kann.",
+                "hu": "Rövid megálló a pihenéshez; szilárd talajon parkolja le a bringát, mert a támasztó könnyen besüllyed a felázott földbe és eldől a gép.",
+                "ro": "O scurtă oprire pentru respirație; parcați bicicleta pe teren solid, deoarece cricul se poate scufunda ușor în pământul moale și bicicleta poate cădea.",
+                "en": "A short stop to catch your breath; park the bike on solid ground as kickstands easily sink into softened earth and the bike can tip over."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_4lang": {
+                "de": "Die Kapelle wirkt im Regenlicht sehr markant; achten Sie auf Holzstege in der Nähe, da diese bei Nässe extrem rutschig wie Seife werden.",
+                "hu": "A kápolna markánsan fest az esős fényekben; ügyeljen a közeli fapallókra, mert nedvesen olyan csúszósak lehetnek, mint a szappan.",
+                "ro": "Capela arată foarte distinctiv în lumina ploii; atenție la pasarelele de lemn din apropiere, deoarece devin extrem de alunecoase când sunt ude.",
+                "en": "The chapel looks very striking in the rainy light; watch out for wooden walkways nearby, as they become extremely slippery like soap when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage",
+                "hu": "Plage",
+                "ro": "Plage",
+                "en": "Plage"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Halt für einen Schluck Wasser; achten Sie darauf, dass Ihre Bremsbeläge bei Nässe eine deutlich längere Verzögerungszeit haben.",
+                "hu": "Használja ki a megállót egy korty vízre; számoljon azzal, hogy a fékbetétek nedves körülmények között lényegesen hosszabb féktávot igényelnek.",
+                "ro": "Folosiți oprirea pentru o gură de apă; aveți în vedere că plăcuțele de frână au un timp de răspuns mult mai lung în condiții de umiditate.",
+                "en": "Use the stop for a sip of water; keep in mind that your brake pads have a significantly longer delay time in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage naturiste des Pintrons",
+                "hu": "Plage naturiste des Pintrons",
+                "ro": "Plage naturiste des Pintrons",
+                "en": "Plage naturiste des Pintrons"
+              },
+              "tip_4lang": {
+                "de": "Ein abgelegener Ort, der im Regen noch einsamer wirkt; ein Schutzblech ist hier Gold wert, um den Rücken vor hochspritzendem Dreck zu schützen.",
+                "hu": "Elhagyatott hely, amely az esőben még magányosabb; a sárvédő itt aranyat ér, hogy megvédje a hátát a felverődő kosztól.",
+                "ro": "Un loc retras care pare și mai singuratic pe ploaie; o aripă de protecție valorează aur aici pentru a vă proteja spatele de noroiul împroșcat.",
+                "en": "A secluded spot that looks even lonelier in the rain; a mudguard is worth its weight in gold here to protect your back from spray."
+              }
+            },
+            {
+              "name": {
+                "de": "La BDPirates",
+                "hu": "La BDPirates",
+                "ro": "La BDPirates",
+                "en": "La BDPirates"
+              },
+              "tip_4lang": {
+                "de": "Das Ende der Tour bietet gute Fotomotive; wischen Sie die Felgen nach der Fahrt trocken, um Korrosion und Schmutzverkrustungen zu vermeiden.",
+                "hu": "A túra vége remek fotótémákat kínál; bringázás után törölje szárazra a felniket, hogy elkerülje a korróziót és a rászáradt koszt.",
+                "ro": "Sfârșitul turului oferă motive fotografice bune; ștergeți jantele după plimbare pentru a evita coroziunea și crustele de murdărie.",
+                "en": "The end of the tour offers good photo opportunities; wipe your rims dry after the ride to avoid corrosion and dirt buildup."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit eisigen Temperaturen, daher ist warme Funktionskleidung Pflicht. Mittags radeln wir unter strahlend blauem Himmel, während der Fahrtwind im Gesicht beißt. Nachmittags erreichen wir die Strände, die mit einer dünnen Frostschicht bedeckt sind. Abends kehren wir rechtzeitig vor Einbruch der Dunkelheit zurück, da die Temperaturen sofort nach Sonnenuntergang unter den Gefrierpunkt sinken.",
+            "hu": "A téli reggel fagyos hőmérséklettel indul, ezért a meleg technikai ruházat kötelező. Délben ragyogó kék ég alatt tekerünk, miközben a menetszél marja az arcunkat. Délután érjük el a strandokat, amelyeket vékony zúzmara borít. Este még sötétedés előtt visszaérünk, mert a hőmérséklet naplemente után azonnal fagypont alá esik.",
+            "ro": "Dimineața de iarnă începe cu temperaturi înghețate, așa că îmbrăcămintea tehnică caldă este obligatorie. La prânz pedalăm sub un cer albastru strălucitor, în timp ce vântul ne pișcă fața. După-amiaza ajungem la plaje, care sunt acoperite cu un strat subțire de chiciură. Seara ne întoarcem înainte de lăsarea întunericului, deoarece temperaturile scad sub îngheț imediat după apus.",
+            "en": "Winter morning starts with freezing temperatures, so warm functional clothing is a must. At noon, we cycle under a bright blue sky while the wind bites our faces. In the afternoon, we reach the beaches, covered in a thin layer of frost. In the evening, we return well before dark as temperatures drop below freezing immediately after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Belvédère des Curattes",
+                "hu": "Belvédère des Curattes",
+                "ro": "Belvédère des Curattes",
+                "en": "Belvédère des Curattes"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie das Alpenpanorama im Winterkleid; tragen Sie winddichte Handschuhe, da die Finger am Lenker bei der Abfahrt extrem schnell auskühlen.",
+                "hu": "Élvezze az alpesi panorámát téli köntösben; viseljen szélálló kesztyűt, mert az ujjak a kormányon a lejtőn extrém gyorsan áthűlnek.",
+                "ro": "Bucurați-vă de panorama alpină în haine de iarnă; purtați mănuși rezistente la vânt, deoarece degetele pe ghidon se răcesc extrem de repede la coborâre.",
+                "en": "Enjoy the Alpine panorama in its winter coat; wear windproof gloves as your fingers on the handlebars will cool down extremely quickly on the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Pommiers",
+                "hu": "Plage des Pommiers",
+                "ro": "Plage des Pommiers",
+                "en": "Plage des Pommiers"
+              },
+              "tip_4lang": {
+                "de": "Das Ufer ist oft von Raureif überzogen; meiden Sie schattige Kurven im Waldstück, da sich dort tückisches Glatteis bilden kann.",
+                "hu": "A partot gyakran zúzmara borítja; kerülje az erdős szakaszok árnyékos kanyarjait, mert ott alattomos jegesedés alakulhat ki.",
+                "ro": "Malul este adesea acoperit de brumă; evitați curbele umbrite din porțiunea de pădure, deoarece acolo se poate forma polei înșelător.",
+                "en": "The shore is often covered in hoarfrost; avoid shaded curves in the forest section as treacherous black ice can form there."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_4lang": {
+                "de": "Die Kapelle wirkt im Winterlicht wie eine Skulptur; bewegen Sie regelmäßig die Zehen in den Schuhen, um die Durchblutung während der Fahrt zu fördern.",
+                "hu": "A kápolna a téli fényben olyan, mint egy szobor; mozgassa rendszeresen a lábujjait a cipőben, hogy serkentse a vérkeringést tekerés közben.",
+                "ro": "Capela arată ca o sculptură în lumina iernii; mișcați-vă regulat degetele de la picioare în pantofi pentru a stimula circulația în timpul mersului.",
+                "en": "The chapel looks like a sculpture in the winter light; move your toes regularly in your shoes to stimulate circulation during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage",
+                "hu": "Plage",
+                "ro": "Plage",
+                "en": "Plage"
+              },
+              "tip_4lang": {
+                "de": "Ein ruhiger Moment am Wasser; trinken Sie regelmäßig, auch wenn Sie keinen Durst verspüren, da der Körper bei Kälte viel Energie verbraucht.",
+                "hu": "Csendes pillanat a víznél; igyon rendszeresen akkor is, ha nem érez szomjúságot, mert a szervezet a hidegben sok energiát használ fel.",
+                "ro": "Un moment liniștit lângă apă; beți apă cu regularitate, chiar dacă nu simțiți sete, deoarece corpul consumă multă energie la frig.",
+                "en": "A quiet moment by the water; drink regularly even if you don't feel thirsty, as the body uses a lot of energy in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage naturiste des Pintrons",
+                "hu": "Plage naturiste des Pintrons",
+                "ro": "Plage naturiste des Pintrons",
+                "en": "Plage naturiste des Pintrons"
+              },
+              "tip_4lang": {
+                "de": "Der Weg hierher kann im Winter etwas holprig sein; prüfen Sie Ihr Lichtset am Fahrrad, falls die Tour doch etwas länger dauert als geplant.",
+                "hu": "Az idevezető út télen kicsit döcögősebb lehet; ellenőrizze a kerékpár lámpáit, hátha a túra mégis tovább tart a tervezettnél.",
+                "ro": "Drumul până aici poate fi puțin accidentat iarna; verificați setul de lumini al bicicletei, în cazul în care turul durează mai mult decât ați planificat.",
+                "en": "The path here can be a bit bumpy in winter; check your bike light set in case the tour takes longer than planned."
+              }
+            },
+            {
+              "name": {
+                "de": "La BDPirates",
+                "hu": "La BDPirates",
+                "ro": "La BDPirates",
+                "en": "La BDPirates"
+              },
+              "tip_4lang": {
+                "de": "Das Finale der Wintertour; fetten Sie die Kette nach der Tour gut ein, da Streusalz auf den Straßen dem Material stark zusetzen kann.",
+                "hu": "A télitúra záróakkordja; a bringázás után alaposan zsírozza meg a láncot, mert az utakra szórt só erősen károsíthatja az anyagot.",
+                "ro": "Finalul turului de iarnă; gresați bine lanțul după tur, deoarece sarea de pe drumuri poate afecta grav materialul.",
+                "en": "The finale of the winter tour; grease the chain well after the ride as road salt can severely damage the material."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autóút Prunières történelmi épületeinél kezdődik. Tovább haladunk a csendes kápolnákhoz és egy szép kilátóponthoz. Délután a festői tóparton pihenjük ki a nap fáradalmait.",
         "ro": "Călătoria cu mașina începe în Prunières cu clădiri istorice. Continuăm spre capele liniștite și un punct de belvedere. După-amiaza, ne relaxăm pur și simplu pe malul lacului pitoresc.",
         "en": "The scenic drive starts in Prunières with its historic buildings. We then continue to quiet chapels and a stunning viewpoint. In the afternoon, we simply relax by the picturesque lake."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt gemütlich im Auto bei der Fahrt durch die kleinen Bergdörfer. Mittags besuchen wir historische Kirchen, die im Regen einen würdevollen Schutz bieten. Nachmittags fahren wir zu den Panoramapunkten, wo wir die Aussicht trocken von innen genießen. Abends endet die Fahrt bei prasselndem Regen auf dem Autodach an einem gemütlichen Aussichtspunkt über dem See.",
+            "hu": "Az esős reggel kényelmesen indul az autóban, miközben a kis hegyi falvakon haladunk át. Délben történelmi templomokat látogatunk meg, amelyek méltóságteljes menedéket nyújtanak. Délután panorámapontokhoz hajtunk, ahol belülről, szárazon élvezzük a kilátást. Este a túra a tetőn kopogó eső hangja mellett ér véget egy hangulatos tóparti pihenőnél.",
+            "ro": "O dimineață ploioasă începe confortabil în mașină, trecând prin micile sate de munte. La prânz vizităm biserici istorice care oferă un adăpost demn pe ploaie. După-amiaza conducem spre punctele panoramice, unde ne bucurăm de priveliște stând la uscat în interior. Seara se încheie cu sunetul ploii pe acoperișul mașinii la un punct de belvedere peste lac.",
+            "en": "A rainy morning starts comfortably in the car driving through small mountain villages. At noon, we visit historical churches that offer a dignified shelter in the rain. In the afternoon, we drive to panoramic spots where we enjoy the view from the dry interior. In the evening, the trip ends with the sound of rain on the roof at a cozy viewpoint overlooking the lake."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Prunières",
+                "hu": "Mairie de Prunières",
+                "ro": "Mairie de Prunières",
+                "en": "Mairie de Prunières"
+              },
+              "tip_4lang": {
+                "de": "Das Verwaltungsgebäude bietet einen guten Startpunkt; parken Sie nah am Eingang, um beim Ein- und Aussteigen nicht komplett nass zu werden.",
+                "hu": "A hivatal épülete jó kiindulópont; parkoljon közel a bejárathoz, hogy a ki- és beszállásnál ne ázzon el teljesen a szakadó esőben.",
+                "ro": "Clădirea primăriei oferă un bun punct de plecare; parcați aproape de intrare pentru a nu vă uda complet la urcare și coborâre.",
+                "en": "The town hall building is a good starting point; park close to the entrance to avoid getting completely soaked when getting in and out."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Rückzugsort bei starkem Regen; nutzen Sie die Zeit im Inneren, um die Akustik des Regens auf dem Kirchendach zu erleben.",
+                "hu": "Ideális búvóhely heves esőzés esetén; használja ki a bent töltött időt, hogy átélje az eső kopogásának akusztikáját a templomtetőn.",
+                "ro": "Un refugiu ideal în caz de ploaie torențială; folosiți timpul petrecut în interior pentru a experimenta acustica ploii pe acoperișul bisericii.",
+                "en": "An ideal retreat during heavy rain; take the time inside to experience the acoustics of the rain on the church roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Roch",
+                "hu": "Chapelle Saint-Roch",
+                "ro": "Chapelle Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_4lang": {
+                "de": "Die Kapelle wirkt im Regen sehr besinnlich; achten Sie auf nasse Blätter auf den Zufahrtswegen, die das Bremsen im Gefälle erschweren können.",
+                "hu": "A kápolna az esőben nagyon elmélyült hangulatot áraszt; ügyeljen a nedves levelekre a bekötőúton, amelyek megnehezíthetik a fékezést a lejtőn.",
+                "ro": "Capela pare foarte meditativă pe ploaie; atenție la frunzele ude de pe drumurile de acces, care pot îngreuna frânarea în pantă.",
+                "en": "The chapel feels very reflective in the rain; watch out for wet leaves on the access roads, which can make braking on inclines difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère des Curattes",
+                "hu": "Belvédère des Curattes",
+                "ro": "Belvédère des Curattes",
+                "en": "Belvédère des Curattes"
+              },
+              "tip_4lang": {
+                "de": "Der Aussichtspunkt ist auch vom Auto aus gut einsehbar; halten Sie die Scheibenwischer auf Intervall, um den freien Blick auf den See zu behalten.",
+                "hu": "A kilátópont az autóból is jól belátható; hagyja az ablaktörlőt szakaszos üzemmódon, hogy folyamatosan tiszta legyen a rálátás a tóra.",
+                "ro": "Punctul de belvedere este bine vizibil și din mașină; lăsați ștergătoarele pe interval pentru a menține vederea clară spre lac.",
+                "en": "The viewpoint is easily visible from the car; keep your windshield wipers on intermittent to maintain a clear view of the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_4lang": {
+                "de": "Ein Muss für Fotos auch bei trübem Wetter; schalten Sie das Abblendlicht ein, da die Sichtverhältnisse am Seeufer oft schlagartig schlechter werden.",
+                "hu": "Borús időben is kötelező fotótéma; kapcsolja be a tompított fényszórót, mert a látási viszonyok a tóparton gyakran hirtelen romlanak.",
+                "ro": "O temă foto obligatorie chiar și pe vreme mohorâtă; aprindeți faza scurtă, deoarece vizibilitatea pe malul lacului scade adesea brusc.",
+                "en": "A must-have photo even in gloomy weather; turn on your dipped headlights as visibility at the lakeshore often deteriorates suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Forreston",
+                "hu": "Le Forreston",
+                "ro": "Le Forreston",
+                "en": "Le Forreston"
+              },
+              "tip_4lang": {
+                "de": "Ein schöner Abschluss der Regentour; prüfen Sie vor der Abfahrt den Reifendruck, da nasse Straßen mehr Traktion erfordern.",
+                "hu": "Szép lezárása az esős túrának; indulás előtt ellenőrizze a guminyomást, mert a vizes utak több tapadást igényelnek.",
+                "ro": "Un final frumos al turului pe ploaie; verificați presiunea în pneuri înainte de plecare, deoarece drumurile ude necesită mai multă tracțiune.",
+                "en": "A nice conclusion to the rainy tour; check your tire pressure before leaving as wet roads require more traction."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt mit dem Freikratzen der Scheiben, belohnt uns aber mit glitzernden Bergpanoramen. Mittags fahren wir gemütlich mit Sitzheizung zu den historischen Bergkapellen. Nachmittags erleben wir das goldene Licht der tiefstehenden Wintersonne über dem See. Abends endet die Tour pünktlich zum Sonnenuntergang, bevor die Bergstraßen bei sinkenden Temperaturen wieder gefrieren.",
+            "hu": "A fagyos téli reggel jégkaparással indul, de ragyogó hegyi panorámákkal kárpótol minket. Délben kényelmesen, ülésfűtéssel autózunk a történelmi hegyi kápolnákhoz. Délután átéljük az alacsonyan járó téli nap arany fényeit a tó felett. Este a túra pontosan naplementekor ér véget, mielőtt a hegyi utak a süllyedő hőmérsékletben újra megfagynának.",
+            "ro": "O dimineață geroasă de iarnă începe cu răzuirea geamurilor, dar ne răsplătește cu panorame montane strălucitoare. La prânz conducem confortabil cu încălzire în scaune spre capelele istorice. După-amiaza experimentăm lumina aurie a soarelui de iarnă jos deasupra lacului. Seara turul se termină exact la apus, înainte ca drumurile montane să înghețe din nou.",
+            "en": "A frosty winter morning starts with scraping the windshield but rewards us with glittering mountain panoramas. At noon, we drive comfortably with heated seats to the historical mountain chapels. In the afternoon, we experience the golden light of the low winter sun over the lake. In the evening, the tour ends right at sunset before the mountain roads freeze again."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Prunières",
+                "hu": "Mairie de Prunières",
+                "ro": "Mairie de Prunières",
+                "en": "Mairie de Prunières"
+              },
+              "tip_4lang": {
+                "de": "Der Parkplatz kann im Schatten eisig sein; stellen Sie sicher, dass Sie Frostschutzmittel in der Scheibenwaschanlage haben.",
+                "hu": "Az árnyékos parkoló jeges lehet; győződjön meg róla, hogy van elegendő fagyálló az ablakmosó tartályban a hegyi menet előtt.",
+                "ro": "Parcarea poate fi înghețată la umbră; asigurați-vă că aveți antigel în lichidul de spălare a parbrizului înainte de drum.",
+                "en": "The parking lot can be icy in the shade; make sure you have enough antifreeze in your windshield washer reservoir."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_4lang": {
+                "de": "Die dicken Mauern speichern die Kälte; lassen Sie den Motor nicht unnötig laufen, während Sie die Kirche kurz besichtigen.",
+                "hu": "A vastag falak tárolják a hideget; ne járassa feleslegesen a motort, amíg rövid látogatást tesz a templom belsejében.",
+                "ro": "Zidurile groase rețin frigul; nu lăsați motorul pornit inutil în timp ce faceți o scurtă vizită în interiorul bisericii.",
+                "en": "The thick walls store the cold; don't leave the engine running unnecessarily while you take a short visit inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Roch",
+                "hu": "Chapelle Saint-Roch",
+                "ro": "Chapelle Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_4lang": {
+                "de": "Ein malerischer Ort im Winter; achten Sie auf den schmalen Zufahrtswegen auf Schneematsch oder festgefahrene Schneereste.",
+                "hu": "Festői helyszín télen; a keskeny bekötőutakon ügyeljen a latyakra vagy a letaposott hóra, amely csúszóssá teheti az utat.",
+                "ro": "O locație pitorească iarna; pe drumurile înguste de acces, atenție la lapoviță sau resturile de zăpadă bătătorită.",
+                "en": "A picturesque spot in winter; watch out for slush or packed snow on the narrow access roads that can make them slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère des Curattes",
+                "hu": "Belvédère des Curattes",
+                "ro": "Belvédère des Curattes",
+                "en": "Belvédère des Curattes"
+              },
+              "tip_4lang": {
+                "de": "Bester Platz für Winterfotos vom See; nutzen Sie die Handbremse beim Parken auf Gefälle nur vorsichtig, damit sie nicht einfriert.",
+                "hu": "A legjobb hely téli fotókhoz a tóról; a lejtőn való parkoláskor óvatosan használja a kéziféket, nehogy befagyjon a hidegben.",
+                "ro": "Cel mai bun loc pentru fotografii de iarnă cu lacul; folosiți frâna de mână cu prudență când parcați în pantă, pentru a nu îngheța.",
+                "en": "The best spot for winter photos of the lake; use the handbrake cautiously when parking on a slope so it doesn't freeze up."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_4lang": {
+                "de": "Die Kapelle im blauweißen Winterlicht ist ein Highlight; führen Sie für Notfälle immer eine warme Decke im Kofferraum mit.",
+                "hu": "A kápolna a kék-fehér téli fényben igazi fénypont; vészhelyzet esetére mindig tartsunk egy meleg takarót az autó csomagtartójában.",
+                "ro": "Capela în lumina alb-albastră de iarnă este un punct culminant; purtați întotdeauna o pătură caldă în portbagaj pentru urgențe.",
+                "en": "The chapel in blue-white winter light is a highlight; always keep a warm blanket in the trunk for emergencies."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Forreston",
+                "hu": "Le Forreston",
+                "ro": "Le Forreston",
+                "en": "Le Forreston"
+              },
+              "tip_4lang": {
+                "de": "Ein entspanntes Ende der Tour; kontrollieren Sie vor der Rückfahrt die Beleuchtung, da die Sicht im Winter schnell diffus wird.",
+                "hu": "A túra nyugodt lezárása; a visszautat megelőzően ellenőrizze a világítást, mert télen a látási viszonyok gyorsan homályossá válnak.",
+                "ro": "Un final relaxat al turului; controlați luminile înainte de plecare, deoarece vizibilitatea devine difuză rapid iarna.",
+                "en": "A relaxed end to the tour; check your lights before the return journey as visibility becomes diffused quickly in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Briec szívében, a helyi plébániatemplom lenyűgöző részleteinek megtekintésével. Ezt követően látogasson el a nyüzsgő kulturális központba, hogy bepillantást nyerjen a kortárs művészetbe. A kora délutáni órákban a történelmi kastély felfedezése várja, amely megeleveníti a breton múltat. Később egy békés vidéki templom nyújt lehetőséget az elmélyülésre, végül pedig a régi malom romantikus romjainál fejezheti be a napot.",
         "ro": "Începeți ziua în inima orașului Briec, admirând detaliile arhitecturale ale bisericii parohiale centrale. Apoi, îndreptați-vă spre hub-ul cultural pentru a descoperi scena artistică locală vibrantă. După-amiaza este dedicată istoriei, explorând moștenirea nobilă a castelului. Mai târziu, o biserică rurală liniștită oferă un moment de contemplare, înainte de a încheia ziua relaxant printre ruinele rustice ale vechii mori.",
         "en": "Begin your day in the heart of Briec, admiring the architectural grace of the central parish church. Next, head over to the cultural hub to experience the vibrant local arts scene firsthand. Early afternoon shifts to history as you explore the noble heritage of the town's historic château. Later, a peaceful rural church offers a quiet moment of contemplation before you wind down the day among the rustic ruins of the old mill."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Briec beginnt in der schützenden Stille der Hauptkirche. Mittags führt der Weg durch graue, mystische Gassen zum Schloss, dessen Mauern im Regen besonders trutzig wirken. Der Nachmittag gehört der Kultur im Arthémuse, einem idealen Zufluchtsort vor dem Wetter. Der Abend klingt bei prasselndem Regen in einer gemütlichen lokalen Gaststube aus.",
+            "hu": "A ködös Briec-ben a központi templom nyújt menedéket a reggeli zápor elől. Délben az esőáztatta parkokon át vezet az út a kastély felé, ahol a sárga levelek tapadnak a vizes aszfaltra. Délután az Arthémuse kulturális központ modern falai között száradhatunk meg. Az este a szemerkélő esőben, a városka fényeinek tükröződését csodálva telik a vizes járdákon.",
+            "ro": "O dimineață ploioasă în Briec începe în liniștea bisericii centrale, un adăpost perfect. La prânz, drumul spre castel trece prin peisaje verzi, accentuate de prospețimea ploii. După-amiaza este dedicată culturii la Arthémuse, unde spațiile interioare oferă confort. Seara se încheie cu o plimbare scurtă sub umbrelă, admirând reflexiile luminilor orașului în bălți.",
+            "en": "A rainy morning in Briec begins in the sheltering silence of the main church. At noon, the path leads through misty streets to the chateau, where the stone walls look particularly ancient in the rain. The afternoon is spent at Arthémuse, an ideal indoor cultural retreat. The evening winds down with the sound of rain on the windows of a cozy local spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasfenster in Ruhe, während draußen der Regen fällt; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung ohne Zeitdruck.",
+                "hu": "Csodálja meg a színes üvegablakokat, miközben kint kopog az eső; a belső tér tökéletes menedék a reggeli zápor idején a város szívében.",
+                "ro": "Admirați vitraliile colorate în timp ce afară plouă; interiorul bisericii oferă un refugiu spiritual și uscat în centrul orașului.",
+                "en": "Admire the stained glass windows while the rain falls outside; the interior provides a perfect dry sanctuary in the heart of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Arthémuse",
+                "hu": "Arthémuse",
+                "ro": "Arthémuse",
+                "en": "Arthémuse"
+              },
+              "tip_5lang": {
+                "de": "Dieser moderne Kulturraum ist der ideale Ort, um dem Wetter zu trotzen; prüfen Sie das aktuelle Programm für kurzfristige Indoor-Events.",
+                "hu": "Ez a modern kulturális központ a legjobb hely az eső elöli menekülésre; nézze meg az időszaki kiállításokat a száraz és meleg épületben.",
+                "ro": "Acest spațiu cultural modern este locul ideal pentru a scăpa de ploaie; vizitați expozițiile actuale în interiorul primitor și călduros.",
+                "en": "This modern cultural space is the ideal place to escape the rain; check out the indoor exhibits and stay dry while enjoying local art."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Boissière",
+                "hu": "Château de la Boissière",
+                "ro": "Château de la Boissière",
+                "en": "Château de la Boissière"
+              },
+              "tip_5lang": {
+                "de": "Der Park kann bei Regen rutschig sein; tragen Sie festes Schuhwerk und bewundern Sie die dramatische Ansicht des Schlosses im grauen Licht.",
+                "hu": "A kastélypark esőben csúszós lehet, így maradjon a kövezett utakon; a ködös idő különleges, misztikus hangulatot kölcsönöz az ódon falaknak.",
+                "ro": "Parcul castelului poate fi alunecos pe ploaie; rămâneți pe aleile principale și admirați aspectul dramatic al zidurilor sub cerul gri.",
+                "en": "The castle park can be slippery in the rain; stick to the main paths and enjoy the dramatic, moody view of the estate under grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Edern",
+                "hu": "Église Saint-Edern",
+                "ro": "Église Saint-Edern",
+                "en": "Église Saint-Edern"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto oder Weg bringt Sie ins Trockene; betrachten Sie die feinen Details des Altars, während der Sturm draußen tobt.",
+                "hu": "Egy rövid futás az esőben, és máris a száraz belsőben találja magát; vizsgálja meg az oltár apró részleteit, amíg kint elvonul a felhőszakadás.",
+                "ro": "O scurtă fugă prin ploaie vă aduce în interiorul uscat; studiați detaliile fine ale altarului în timp ce furtuna trece pe afară.",
+                "en": "A quick dash from the path gets you inside; study the fine details of the altar while waiting for the heaviest rain to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Meilh Coat Bihan",
+                "hu": "Meilh Coat Bihan",
+                "ro": "Meilh Coat Bihan",
+                "en": "Meilh Coat Bihan"
+              },
+              "tip_5lang": {
+                "de": "Das Rauschen des Wassers ist bei Regen besonders intensiv; halten Sie den Regenschirm fest, da es an der Mühle oft windig sein kann.",
+                "hu": "A víz zúgása esőben még intenzívebb a malomnál; fogja szorosan az esernyőt, mert a völgyben ilyenkor felerősödhet a szél.",
+                "ro": "Sunetul apei este mai intens la moară pe timp de ploaie; țineți bine umbrela, deoarece vântul poate fi mai puternic în această zonă.",
+                "en": "The sound of the water is more intense at the mill during rain; hold your umbrella firmly as it can get windy near the stream."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Briec beginnt mit frostigen Wegen und frischer Luft. Mittags wärmt die tiefstehende Sonne die historischen Mauern, während man sich in der Kirche kurz aufwärmt. Der Nachmittag wird kurz genutzt, bevor das Licht gegen 17:00 Uhr schwindet. Der Abend beginnt früh mit einer Tasse heißem Kakao in einem warmen Café im Ortskern.",
+            "hu": "A jeges téli reggelen Briec utcáin ropog a dér a talpunk alatt. Délben a halvány napsütésben a kastély környéke olyan, mint egy befagyott mesevilág. Délután sietnünk kell a látnivalókkal, mert ötkor már sötétedik. Az este korán kezdődik, a kivilágított főtéren egy forró ital mellett pihenhetjük ki a fagyos sétát.",
+            "ro": "O dimineață de iarnă geroasă în Briec începe cu aer proaspăt și promisiunea unui cer senin. La prânz, soarele palid luminează zidurile vechi, oferind un cadru feerice. După-amiaza este scurtă, lumina dispărând rapid în jurul orei 17:00. Seara începe devreme, cu o băutură caldă într-o cafenea primitoare din centru.",
+            "en": "A crisp winter morning in Briec begins with frosty paths and invigorating air. At noon, the low sun warms the historic stones of the church. The afternoon must be used efficiently as the sun sets early, around 5:00 PM. The evening starts early, perfect for enjoying a hot drink in a cozy local establishment."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte; tragen Sie warme Schichten, um die Ruhe der Kirche auch im Winter genießen zu können.",
+                "hu": "A vastag kőfalak tartják a hideget, így öltözzön rétegesen; a téli reggeli fények különleges hangulatot árasztanak a templomhajóban.",
+                "ro": "Zidurile groase de piatră mențin frigul; purtați haine groase pentru a vă bucura de liniștea bisericii chiar și în miezul iernii.",
+                "en": "The thick stone walls hold the cold; wear warm layers to comfortably enjoy the peaceful atmosphere of the church in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Arthémuse",
+                "hu": "Arthémuse",
+                "ro": "Arthémuse",
+                "en": "Arthémuse"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen gut beheizten Ort für eine kulturelle Pause; im Winter sind die Innenveranstaltungen besonders einladend und gemütlich.",
+                "hu": "Használja ki a fűtött épületet egy kulturális szünetre; télen a benti események különösen vonzóak a kinti fagyos szél után.",
+                "ro": "Profitați de această clădire bine încălzită pentru o pauză culturală; iarna, evenimentele interioare sunt foarte primitoare.",
+                "en": "Take advantage of this well-heated building for a cultural break; indoor events are especially inviting during the cold winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Boissière",
+                "hu": "Château de la Boissière",
+                "ro": "Château de la Boissière",
+                "en": "Château de la Boissière"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht mit Raureif auf den Wiesen märchenhaft aus; besuchen Sie es mittags, um das beste Tageslicht für Fotos zu nutzen.",
+                "hu": "A kastély és a zúzmarás fű mesébe illő látványt nyújt; érdemes dél körül érkezni, hogy a legtöbb természetes fényt kapja a fotókhoz.",
+                "ro": "Castelul arată ca în povești cu bruma pe iarbă; vizitați-l la prânz pentru a beneficia de cea mai bună lumină naturală pentru fotografii.",
+                "en": "The chateau looks like a fairytale with frost on the meadows; visit at midday to capture the best natural light for your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Edern",
+                "hu": "Église Saint-Edern",
+                "ro": "Église Saint-Edern",
+                "en": "Église Saint-Edern"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stufen am Eingang; das schlichte Innere bietet einen ruhigen Ort zur Besinnung vor dem frühen Sonnenuntergang.",
+                "hu": "Vigyázzon a jeges lépcsőkre a bejáratnál; a puritán belső tér csendes helyszín az elmélyüléshez a korai sötétedés előtt.",
+                "ro": "Atenție la treptele înghețate de la intrare; interiorul simplu oferă un loc liniștit pentru reflecție înainte de apusul timpuriu.",
+                "en": "Watch out for icy steps at the entrance; the simple interior offers a quiet place for reflection before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Meilh Coat Bihan",
+                "hu": "Meilh Coat Bihan",
+                "ro": "Meilh Coat Bihan",
+                "en": "Meilh Coat Bihan"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Mühle kann gefroren sein, bietet aber tolle Wintermotive; beenden Sie den Besuch vor 16:30 Uhr, bevor es dunkel wird.",
+                "hu": "A malomhoz vezető út fagyos lehet, de gyönyörű téli fotótémát kínál; fejezze be a látogatást délután fél ötig, a sötétedés előtt.",
+                "ro": "Drumul spre moară poate fi înghețat, dar oferă peisaje de iarnă superbe; finalizați vizita înainte de 16:30, când se întunecă.",
+                "en": "The path to the mill may be frozen but offers great winter scenery; finish your visit by 4:30 PM before the light fades away."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját a központi templomnál, és szívja magába a reggeli város hangulatát. Tekerjen tovább a buja növényzettel övezett, festői kőkápolnákhoz, amelyek békét árasztanak. Dél körül egy lenyűgöző megalitikus emlékoszlophoz ér, amely a térség ősi történelméről mesél. A délutánt a történelmi kastély hatalmas birtokán zárja, ahol megpihenhet egy hosszú, tartalmas kerékpáros túra végén.",
         "ro": "Începeți turul cu bicicleta în centru, bucurându-vă de atmosfera matinală la biserica istorică. Pedalați apoi spre capelele pitorești din piatră ascunse în peisajul verde, care oferă o liniște deplină. La prânz, un menhir antic dezvăluie misterele preistorice ale regiunii. După-amiaza, opriți-vă la castelul istoric pentru o pauză binemeritată pe domeniul său vast, încheind astfel o zi plină de explorare.",
         "en": "Kick off your cycling tour in the town center, soaking in the morning atmosphere at the historic church. Pedal outwards to discover quaint stone chapels tucked away in the lush, green Breton landscape. Around midday, an ancient menhir reveals the prehistoric mysteries of the region. Spend your afternoon wandering the vast grounds of the historic château, a perfect place to rest and reflect after a long ride."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im bretonischen Regen erfordert gute Ausrüstung und Vorsicht auf nassen Straßen. Vormittags geht es zwischen alten Kapellen durch die feuchte Landschaft. Mittags bieten die dicken Kirchenmauern Schutz für eine kurze Pause. Der Nachmittag führt über glänzende Asphaltwege zurück, während der Wind den Regen vorantreibt. Der Abend endet mit dem Trocknen der Kleidung.",
+            "hu": "A breton esőben való biciklizés jó felszerelést és óvatosságot igényel a csúszós utakon. Délelőtt a kápolnák között tekerünk a párás tájban. Délben a templomok vastag falai nyújtanak menedéket egy rövid pihenőre. Délután a fénylő aszfalton vágunk át a szélben. Az este a felszerelés szárításával és egy meleg vacsorával zárul.",
+            "ro": "O tură cu bicicleta prin ploaia bretonă necesită echipament adecvat și prudență pe drumurile ude. Dimineața pedalăm printre capele vechi în peisajul umed. La prânz, zidurile groase ale bisericilor oferă adăpost pentru o scurtă pauză. După-amiaza continuă pe asfaltul lucios, înfruntând vântul. Seara este dedicată uscării echipamentului.",
+            "en": "Cycling in the Breton rain requires good gear and caution on slippery roads. In the morning, ride between ancient chapels through the damp landscape. At noon, the thick church walls offer shelter for a short break. The afternoon leads across glistening asphalt paths as the wind pushes the rain. The evening ends with drying off and warming up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Kirche, um Ihre Regenjacke kurz auszuschütteln und den Altar zu bewundern.",
+                "hu": "Parkoljon fedett helyen, és használja ki a templomi látogatást, hogy megrázza az esőkabátját és megcsodálja a belső építészetet.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți vizita la biserică pentru a vă scutura pelerina și a admira altarul.",
+                "en": "Park your bike in a sheltered spot and use the church visit to shake off your raincoat and admire the historic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Magdeleine",
+                "hu": "Chapelle de la Magdeleine",
+                "ro": "Chapelle de la Magdeleine",
+                "en": "Chapelle de la Magdeleine"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann matschig sein; fahren Sie vorsichtig und genießen Sie die einsame Atmosphäre dieser Kapelle im Regen.",
+                "hu": "Az idevezető út sáros lehet, így tekerjen óvatosan; élvezze a kápolna magányos és misztikus hangulatát az esőben.",
+                "ro": "Drumul până aici poate fi noroios; pedalați cu atenție și bucurați-vă de atmosfera solitară a acestei capele pe timp de ploaie.",
+                "en": "The path here can be muddy, so ride carefully; enjoy the solitary and mystical atmosphere of this chapel in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Sebastian Chapel",
+                "hu": "Saint Sebastian Chapel",
+                "ro": "Saint Sebastian Chapel",
+                "en": "Saint Sebastian Chapel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach oder das Innere als Unterstand; prüfen Sie Ihre Bremsen, da die Abfahrten in der Umgebung rutschig sind.",
+                "hu": "Használja az előtetőt vagy a belsőt menedékként; ellenőrizze a fékeit, mert a környék lejtői nagyon csúszósak lehetnek vizesen.",
+                "ro": "Folosiți pridvorul sau interiorul ca adăpost; verificați frânele, deoarece coborârile din zonă sunt alunecoase când sunt ude.",
+                "en": "Use the porch or the interior as a temporary shelter; check your brakes as the local descents get very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de la Chapelle de Landiviguen",
+                "hu": "Menhir de la Chapelle de Landiviguen",
+                "ro": "Menhir de la Chapelle de Landiviguen",
+                "en": "Menhir de la Chapelle de Landiviguen"
+              },
+              "tip_5lang": {
+                "de": "Der Menhir wirkt im Regen besonders dunkel und mächtig; halten Sie den Stopp kurz, um nicht auszukühlen, und tragen Sie Handschuhe.",
+                "hu": "A menhir az esőben különösen sötétnek és hatalmasnak tűnik; ne álljon meg túl hosszan, nehogy kihűljön a vizes ruhában.",
+                "ro": "Menhirul pare deosebit de impunător pe ploaie; faceți o oprire scurtă pentru a nu răci în hainele umede și purtați mănuși.",
+                "en": "The menhir looks particularly dark and powerful in the rain; keep the stop short to avoid getting too cold in damp clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Boissière",
+                "hu": "Château de la Boissière",
+                "ro": "Château de la Boissière",
+                "en": "Château de la Boissière"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Nässe tückisch sein; genießen Sie den Blick auf die nassen Schlossmauern aus sicherem Stand.",
+                "hu": "A kastélyhoz vezető feljáró trükkös lehet vizesen; élvezze a kastély falainak látványát biztonságos távolságból, vigyázva a sárra.",
+                "ro": "Aleea spre castel poate fi înșelătoare pe ploaie; admirați zidurile ude ale castelului de la o distanță sigură, evitând noroiul.",
+                "en": "The approach to the chateau can be tricky when wet; enjoy the view of the damp stone walls from a stable position, watching for mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Briec bedeutet kalten Wind und wunderschöne, kahle Landschaften. Vormittags rollt man durch die frostige Bretagne, vorbei an schlafenden Feldern. Mittags ist eine Pause in einer beheizten Kapelle Gold wert. Nachmittags muss man zügig fahren, um vor der Dunkelheit um 17 Uhr zurück zu sein. Der Abend wird gemütlich bei einem warmen Eintopf verbracht.",
+            "hu": "A téli biciklizés Briec körül metsző szelet és gyönyörű, zúzmarás tájat jelent. Délelőtt a fagyos mezők között tekerünk a tiszta levegőn. Délben egy-egy kápolna nyújt szélvédett pihenőhelyet. Délután igyekezni kell, hogy az ötkori naplemente előtt visszaérjünk a városba. Az este forró levessel és pihenéssel telik.",
+            "ro": "Ciclismul de iarnă în Briec înseamnă vânt rece și peisaje superbe, înghețate. Dimineața pedalăm prin aerul tăios, pe lângă câmpurile adormite. La prânz, o pauză într-o chapelă oferă protecție împotriva vântului. După-amiaza trebuie să ne grăbim pentru a ajunge înainte de ora 17. Seara se încheie cu o supă caldă.",
+            "en": "Winter cycling in Briec means cold winds and beautiful, frost-covered landscapes. In the morning, ride through the crisp air past sleeping fields. At noon, a break in a sheltered chapel is essential to escape the wind. The afternoon is a race against the 5 PM sunset. The evening is best spent recovering with a warm meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche als Windschutz; stellen Sie sicher, dass Ihre Muskeln nicht zu sehr auskühlen, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Használja a templomot szélvédőként; figyeljen, hogy ne hűljenek ki az izmai túlságosan a pihenő alatt, mielőtt továbbtekerne.",
+                "ro": "Folosiți biserica ca paravan împotriva vântului; asigurați-vă că mușchii nu se răcesc prea tare înainte de a continua drumul.",
+                "en": "Use the church as a windbreak; make sure your muscles don't cool down too much during the break before you continue riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Magdeleine",
+                "hu": "Chapelle de la Magdeleine",
+                "ro": "Chapelle de la Magdeleine",
+                "en": "Chapelle de la Magdeleine"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Überschuhe gegen die Kälte; die einsame Kapelle bietet im Winter ein sehr friedliches Bild unter dem weiten Himmel.",
+                "hu": "Viseljen kamásnit a hideg ellen; a magányos kápolna télen rendkívül békés látványt nyújt a tiszta, fagyos égbolt alatt.",
+                "ro": "Purtați huse pentru pantofi împotriva frigului; capela solitară oferă o imagine foarte pașnică sub cerul vast de iarnă.",
+                "en": "Wear shoe covers against the cold; this solitary chapel offers a very peaceful sight under the vast winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Sebastian Chapel",
+                "hu": "Saint Sebastian Chapel",
+                "ro": "Saint Sebastian Chapel",
+                "en": "Saint Sebastian Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein heißer Tee aus der Thermoskanne hilft hier gegen den Frost; genießen Sie die klare Sicht, die man oft nur im Winter hat.",
+                "hu": "Egy forró tea a termoszból sokat segít itt a fagy ellen; élvezze a tiszta kilátást, ami gyakran csak télen ilyen éles a tájon.",
+                "ro": "Un ceai fierbinte din termos ajută împotriva gerului; bucurați-vă de vizibilitatea clară, specifică zilelor senine de iarnă.",
+                "en": "Hot tea from a thermos helps fight the frost here; enjoy the clear views that are often only possible during cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de la Chapelle de Landiviguen",
+                "hu": "Menhir de la Chapelle de Landiviguen",
+                "ro": "Menhir de la Chapelle de Landiviguen",
+                "en": "Menhir de la Chapelle de Landiviguen"
+              },
+              "tip_5lang": {
+                "de": "Der Stein speichert die Kälte; vermeiden Sie es, ihn direkt zu berühren, und machen Sie ein schnelles Foto für die Erinnerung.",
+                "hu": "A kő ontja magából a hideget; kerülje a közvetlen érintését, és csak egy gyors fotóra álljon meg, hogy mozgásban maradjon.",
+                "ro": "Piatra emană frig; evitați să o atingeți direct și faceți o fotografie rapidă pentru a rămâne în mișcare și a vă menține căldura.",
+                "en": "The stone radiates cold; avoid touching it directly and just stop for a quick photo to stay in motion and keep warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Boissière",
+                "hu": "Château de la Boissière",
+                "ro": "Château de la Boissière",
+                "en": "Château de la Boissière"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf das Schloss; kommen Sie rechtzeitig an, bevor die Sonne hinter den Hügeln verschwindet.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a kastélyra; érkezzen időben, mielőtt a nap végleg eltűnik a dombok mögött.",
+                "ro": "Soarele palid de iarnă aruncă umbre lungi asupra castelului; ajungeți din timp, înainte ca soarele să apună după dealuri.",
+                "en": "The low winter sun casts long shadows over the chateau; arrive early enough before the sun disappears behind the rolling hills."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +769,224 @@
         "hu": "Kezdje az utazást Briec hangulatos városközpontjában, és fedezze fel a helyi építészet remekeit. Ezt követően vezessen vidékre, ahol ősi malomromok és rejtélyes állókövek várják. A délután folyamán több eldugott, békés kápolnát is meglátogathat, amelyek hűen tükrözik a breton spiritualitást. Napját egy festői középkori kápolnánál zárhatja, ahonnan csodálatos panoráma nyílik a környező dombokra.",
         "ro": "Începeți traseul cu mașina în centrul fermecător al orașului Briec, admirând arhitectura centrală. Apoi, conduceți spre zonele rurale pentru a explora ruine istorice și pietre megalitice misterioase. După-amiaza vă poartă spre mai multe capele izolate și liniștite, reflectând moștenirea spirituală a Bretaniei. Încheiați călătoria la o capelă medievală pitorească, care oferă priveliști frumoase asupra dealurilor din jur.",
         "en": "Start your scenic drive in the charming center of Briec, taking in the central architecture. Head out into the countryside to explore old mill ruins and mysterious ancient standing stones. As the afternoon unfolds, navigate between several secluded, peaceful chapels that showcase the region's rural spiritual heritage. Conclude your journey at a picturesque medieval chapel offering lovely views across the rolling hills."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist perfekt für eine Autotour zu den Kapellen von Briec. Vormittags gleitet man trocken durch die grüne Landschaft. Mittags laden die historischen Innenräume zum Verweilen ein, während es draußen stürmt. Der Nachmittag bietet Ausblicke auf dramatische Wolkenformationen über der Bretagne. Der Abend endet entspannt in einem Restaurant, ohne nass geworden zu sein.",
+            "hu": "Az esős nap tökéletes a Briec környéki kápolnák autós felfedezéséhez. Délelőtt szárazon suhanunk át a zöldellő tájon. Délben a történelmi belsők nyújtanak menedéket a vihar elől. Délután a drámai felhőket csodálhatjuk az autó ablakából a breton égbolton. Az este egy kellemes étteremben zárul, anélkül, hogy bőrig áztunk volna.",
+            "ro": "O zi ploioasă este perfectă pentru a explora capelele din Briec cu mașina. Dimineața călătorim confortabil prin peisajul verde. La prânz, interioarele istorice oferă adăpost împotriva furtunii. După-amiaza oferă vederi spectaculoase ale norilor dramatici deasupra Bretaniei. Seara se încheie relaxat la un restaurant, fără a ne uda.",
+            "en": "A rainy day is perfect for a car tour of Briec's chapels. In the morning, glide comfortably through the lush green landscape. At noon, the historic interiors offer a dry haven while the storm rages outside. The afternoon provides views of dramatic cloud formations over Brittany. The evening ends at a local restaurant, having stayed perfectly dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe, um den kurzen Weg im Regen zu minimieren; genießen Sie die prächtige Deckenmalerei im Trockenen.",
+                "hu": "Parkoljon közvetlenül a közelben, hogy minimalizálja az esőben töltött időt; csodálja meg a mennyezeti festményeket a száraz belsőben.",
+                "ro": "Parcați chiar lângă biserică pentru a minimiza timpul petrecut în ploaie; admirați picturile superbe de pe tavan la adăpost.",
+                "en": "Park as close as possible to minimize your time in the rain; enjoy the magnificent ceiling paintings while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Meilh Coat Bihan",
+                "hu": "Meilh Coat Bihan",
+                "ro": "Meilh Coat Bihan",
+                "en": "Meilh Coat Bihan"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen kurz im Auto und beobachten Sie das Wasser; die Szenerie wirkt im Regen sehr melancholisch und schön.",
+                "hu": "Heves esőben várjon egy kicsit az autóban, és onnan figyelje a vizet; a táj ilyenkor rendkívül melankolikus és szép látványt nyújt.",
+                "ro": "În caz de ploaie torențială, așteptați puțin în mașină și observați apa; peisajul pare foarte melancolic și frumos în aceste condiții.",
+                "en": "In heavy rain, stay in the car for a moment and watch the water; the scenery looks melancholic and beautiful through the raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de la Chapelle de Landiviguen",
+                "hu": "Menhir de la Chapelle de Landiviguen",
+                "ro": "Menhir de la Chapelle de Landiviguen",
+                "en": "Menhir de la Chapelle de Landiviguen"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto reicht hier aus; der Stein glänzt im Regen fast schwarz, was ihm eine mystische Aura verleiht.",
+                "hu": "Egy gyors megálló és egy fotó bőven elég itt; a kő szinte feketén csillog az esőben, ami különlegesen misztikus aurát kölcsönöz neki.",
+                "ro": "O oprire rapidă pentru o poză este suficientă; piatra strălucește aproape negru pe ploaie, ceea ce îi oferă o aură mistică.",
+                "en": "A quick stop for a photo is enough; the stone glistens almost black in the rain, which gives it a uniquely mystical aura."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Sebastian Chapel",
+                "hu": "Saint Sebastian Chapel",
+                "ro": "Saint Sebastian Chapel",
+                "en": "Saint Sebastian Chapel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gelegenheit für eine Pause vom Fahren; das Innere ist ein ruhiger Rückzugsort vor dem prasselnden Regen auf dem Dach.",
+                "hu": "Használja ki az alkalmat egy kis szünetre a vezetés után; a belső tér csendes menedék a tetőn kopogó eső zaja elől.",
+                "ro": "Profitați de ocazie pentru o pauză de la condus; interiorul este un refugiu liniștit față de sunetul ploii de afară.",
+                "en": "Take the opportunity for a break from driving; the interior is a peaceful retreat from the sound of rain drumming on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Magdeleine",
+                "hu": "Chapelle de la Magdeleine",
+                "ro": "Chapelle de la Magdeleine",
+                "en": "Chapelle de la Magdeleine"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Zufahrt kann bei Regen schlammig sein; fahren Sie vorsichtig und genießen Sie den Anblick der einsamen Kapelle im Nebel.",
+                "hu": "A keskeny bekötőút sáros lehet esőben; vezessen óvatosan, és élvezze a ködben úszó magányos kápolna látványát az ablakból.",
+                "ro": "Drumul îngust de acces poate fi noroios pe ploaie; conduceți cu atenție și admirați capela solitară învăluită în ceață.",
+                "en": "The narrow access road can be muddy in the rain; drive carefully and enjoy the sight of the lonely chapel shrouded in mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Cecilia Chapel",
+                "hu": "Saint Cecilia Chapel",
+                "ro": "Saint Cecilia Chapel",
+                "en": "Saint Cecilia Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Akustik innen ist bei Regen besonders, wenn man das Wasser draußen hört; ideal für einen kurzen Moment der Stille und Einkehr.",
+                "hu": "A belső akusztika esőben különleges, ahogy kint hallani a vizet; ideális helyszín egy rövid csendes elmélyüléshez és pihenéshez.",
+                "ro": "Acustica interioară este specială pe ploaie, când se aude apa afară; este un loc ideal pentru un scurt moment de reculegere.",
+                "en": "The interior acoustics are special during rain when you can hear the water outside; ideal for a brief moment of quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Eligius Chapel",
+                "hu": "Saint Eligius Chapel",
+                "ro": "Saint Eligius Chapel",
+                "en": "Saint Eligius Chapel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im Trockenen; die Kapelle bietet einen würdigen Abschluss für einen Tag voller bretonischer Geschichte.",
+                "hu": "Fejezze be a túrát itt a szárazban; a kápolna méltó zárása a breton történelemmel teli, esős, de tartalmas napnak.",
+                "ro": "Încheiați turul aici, la adăpost; capela oferă un final demn pentru o zi plină de istorie bretonă, în ciuda vremii nefavorabile.",
+                "en": "End your tour here in the dry; the chapel provides a fitting conclusion to a rainy day filled with fascinating Breton history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintertage in Briec sind kurz, aber im Auto lässt sich das religiöse Erbe komfortabel erkunden. Vormittags glitzert der Frost auf den Feldern. Mittags wärmt die Heizung zwischen den Stopps an den alten Chapellen auf. Der Nachmittag muss gut geplant sein, da das Tageslicht früh endet. Der Abend beginnt gemütlich, sobald die Sonne gegen 17:00 Uhr untergeht.",
+            "hu": "A téli napok rövidek, de autóval kényelmesen felfedezhető Briec vallási öröksége. Délelőtt a zúzmarás mezők csillognak a tájban. Délben az autó fűtése segít átmelegedni a kápolnák közötti utakon. Délután jól kell osztani az időt a korai sötétedés miatt. Az este korán, a lemenő nap sugaraival kezdődik.",
+            "ro": "Zilele de iarnă sunt scurte, dar cu mașina puteți explora confortabil moștenirea religioasă din Briec. Dimineața, promoroaca sclipește pe câmpuri. La prânz, căldura din mașină vă ajută să vă dezmorțiți între opriri. După-amiaza trebuie planificată bine din cauza apusului timpuriu. Seara începe devreme, odată cu apusul soarelui.",
+            "en": "Winter days are short, but exploring Briec's religious heritage is comfortable by car. In the morning, frost glistens on the fields. At noon, the car's heater warms you up between stops at the ancient chapels. The afternoon must be well-planned due to the early sunset. The evening begins early as the sun dips below the horizon around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am frühen Morgen; im Winter ist das Licht in der Kirche besonders klar und hebt die Architektur hervor.",
+                "hu": "Élvezze a kora reggeli csendet; télen a fények a templomban különösen tiszták, és gyönyörűen kiemelik az építészet részleteit.",
+                "ro": "Bucurați-vă de liniștea dimineții; iarna, lumina din biserică este foarte clară și pune în valoare detaliile arhitecturale.",
+                "en": "Enjoy the early morning peace; in winter, the light in the church is particularly clear, beautifully highlighting the architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Meilh Coat Bihan",
+                "hu": "Meilh Coat Bihan",
+                "ro": "Meilh Coat Bihan",
+                "en": "Meilh Coat Bihan"
+              },
+              "tip_5lang": {
+                "de": "Das gefrorene Wasser am Mühlrad bietet ein tolles Fotomotiv; bleiben Sie warm im Auto, bis Sie den perfekten Winkel gefunden haben.",
+                "hu": "A malomkeréknél megfagyott víz lenyűgöző fotótéma; maradjon az autó melegében, amíg meg nem találja a tökéletes szöget a képhez.",
+                "ro": "Apa înghețată de la roata morii oferă un subiect foto superb; rămâneți în mașină până găsiți unghiul perfect pentru fotografie.",
+                "en": "The frozen water at the mill wheel makes for a stunning photo; stay warm in the car until you find the perfect angle for your shot."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de la Chapelle de Landiviguen",
+                "hu": "Menhir de la Chapelle de Landiviguen",
+                "ro": "Menhir de la Chapelle de Landiviguen",
+                "en": "Menhir de la Chapelle de Landiviguen"
+              },
+              "tip_5lang": {
+                "de": "Der Menhir steht einsam in der Winterlandschaft; ein kurzer Stopp im kalten Wind lohnt sich für die beeindruckende Silhouette.",
+                "hu": "A menhir magányosan áll a téli tájban; egy rövid megálló a hideg szélben is megéri a lenyűgöző sziluett és a történelem miatt.",
+                "ro": "Menhirul stă solitar în peisajul de iarnă; o scurtă oprire în vântul rece merită pentru silueta sa impresionantă sub cerul senin.",
+                "en": "The menhir stands solitary in the winter landscape; a quick stop in the cold wind is worth it for the impressive silhouette."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Sebastian Chapel",
+                "hu": "Saint Sebastian Chapel",
+                "ro": "Saint Sebastian Chapel",
+                "en": "Saint Sebastian Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter oft sehr ruhig; nutzen Sie die Zeit für eine meditative Pause, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "A kápolna télen rendkívül csendes; használja ki az időt egy meditatív szünetre, mielőtt visszatérne az autó melegébe.",
+                "ro": "Capela este foarte liniștită iarna; profitați de timp pentru o pauză meditativă înainte de a reveni la căldura din mașină.",
+                "en": "The chapel is very quiet in winter; take some time for a meditative break before returning to the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Magdeleine",
+                "hu": "Chapelle de la Magdeleine",
+                "ro": "Chapelle de la Magdeleine",
+                "en": "Chapelle de la Magdeleine"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf der schmalen Straße; das Licht am Nachmittag taucht die Kapelle in ein sanftes Wintergold.",
+                "hu": "Vigyázzon a jeges foltokra a keskeny úton; a délutáni fények lágy arany színbe öltöztetik a kápolnát a naplemente előtt.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul îngust; lumina după-amiezii scaldă capela într-un auriu palid de iarnă.",
+                "en": "Watch out for icy patches on the narrow road; the afternoon light bathes the chapel in a soft winter gold before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Cecilia Chapel",
+                "hu": "Saint Cecilia Chapel",
+                "ro": "Saint Cecilia Chapel",
+                "en": "Saint Cecilia Chapel"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle, solange die Sonne noch scheint; die tiefstehende Sonne erzeugt wunderschöne Lichtspiele im Inneren.",
+                "hu": "Látogassa meg a kápolnát, amíg még süt a nap; az alacsonyan járó nap sugarai csodálatos fényjátékot hoznak létre odabent.",
+                "ro": "Vizitați capela cât timp soarele este încă sus; razele soarelui de iarnă creează jocuri de lumină superbe în interior.",
+                "en": "Visit the chapel while the sun is still up; the low winter sun creates beautiful plays of light across the interior surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Eligius Chapel",
+                "hu": "Saint Eligius Chapel",
+                "ro": "Saint Eligius Chapel",
+                "en": "Saint Eligius Chapel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour pünktlich zum Sonnenuntergang; die Silhouette der Kapelle gegen den Abendhimmel ist ein perfekter Abschluss.",
+                "hu": "Fejezze be a túrát pontosan naplementekor; a kápolna sziluettje az esti égbolton tökéletes záróképe a téli felfedezésnek.",
+                "ro": "Încheiați turul exact la apus; silueta capelei pe cerul serii este o imagine perfectă pentru finalul zilei de iarnă.",
+                "en": "End your tour exactly at sunset; the silhouette of the chapel against the evening sky is a perfect finale to your winter journey."
+              }
+            }
+          ]
+        }
       }
     }
   }

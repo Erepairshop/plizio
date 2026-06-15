@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt családi szórakozással a helyi játszótereken a városközpontban.\nFolytassa a városi parkok felfedezését, ötvözve az aktív játékidőt egy pihentető sétával.\nLépjen át a művészet birodalmába a csendes Skurjeni Galériában, megcsodálva az álomszerű remekműveket.\nFejezze be a napot a nagyszerű Novi dvori birtokon, elmerülve a Jelačić örökség történelmi hangulatában.",
         "ro": "Începeți dimineața cu distracție în familie la locurile de joacă vibrante din centrul orașului.\nContinuați explorarea parcurilor municipale, îmbinând timpul activ de joacă cu o plimbare relaxantă.\nTreceți în tărâmul artei la liniștita Galerie Skurjeni, admirând capodopere de vis.\nÎncheiați la grandioasa moșie Novi dvori, absorbind ambianța istorică a moștenirii Jelačić.",
         "en": "Begin the day with family fun at the vibrant local playgrounds in the city center.\nContinue exploring the municipal parks, blending active playtime with a relaxing urban stroll.\nTransition into the realm of art at the tranquil Skurjeni Gallery, admiring dreamlike masterpieces.\nConclude at the grand Novi dvori estate, soaking in the historical ambiance of the Jelačić legacy."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch auf den Spielplätzen, wo der Regen die Farben zum Leuchten bringt. Mittags bietet die Galerija Skurjeni einen trockenen, kulturellen Zufluchtsort voller Kunst. Am Nachmittag erkunden wir das historische Novi dvori unter dem Schutz von Regenschirmen in mystischer Atmosphäre. Der Abend klingt ruhig aus, während die Stadtlichter in den nassen Straßen glitzern.",
+            "hu": "Reggel a játszóterek színei áttörnek a szürke esőn, friss illat lengi be a várost. Délben a Galerija Skurjeni nyújt művészi menedéket a csapadék elől, ahol a helyi kultúra mélyére láthatunk. Délután a Novi dvori kastélyparkja misztikus ködbe burkolózik, az ódon fák alatt sétálva hallgathatjuk az eső kopogását. Estére a város fényei megcsillannak a tócsákban, a túrát egy fedett helyen zárjuk.",
+            "ro": "Dimineața începe cu prospețimea ploii pe terenurile de joacă, unde culorile par mai vii sub cerul gri. La prânz, Galeria Skurjeni oferă un refugiu cultural uscat și plin de artă locală. După-amiaza, explorăm domeniul istoric Novi dvori, unde atmosfera devine mistică sub umbrelă. Seara se încheie liniștit, cu luminile orașului reflectându-se frumos în bălțile de pe străzile curate.",
+            "en": "The morning starts with a fresh drizzle at the playgrounds, making the colors pop against the grey sky. At noon, Galerija Skurjeni provides a dry, cultural haven filled with local art. In the afternoon, explore the historic Novi dvori manor under an umbrella for a mystical experience. The evening concludes quietly as city lights shimmer on the wet pavement and rain-washed streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Crveno dječje igralište",
+                "hu": "Crveno dječje igralište",
+                "ro": "Crveno dječje igralište",
+                "en": "Crveno dječje igralište"
+              },
+              "tip_5lang": {
+                "de": "Die roten Spielgeräte leuchten im Regen; nutzen Sie wasserfeste Kleidung, da die Rutschen bei Nässe besonders schnell und rutschig sein können.",
+                "hu": "A piros játékok vidáman festenek az esőben is; adjon a gyerekekre vízhatlan nadrágot, mert a csúszdák ilyenkor nagyon felgyorsulnak és csúszósak.",
+                "ro": "Echipamentele roșii înveselesc atmosfera ploioasă; asigurați-vă că cei mici poartă haine impermeabile, deoarece toboganele devin foarte rapide când sunt ude.",
+                "en": "The red equipment stays bright even in the rain; ensure children wear waterproof trousers as the slides become extra fast and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Plavo dječje igralište",
+                "hu": "Plavo dječje igralište",
+                "ro": "Plavo dječje igralište",
+                "en": "Plavo dječje igralište"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zwischen den Regenschauern; suchen Sie Schutz unter den Bäumen und achten Sie auf Pfützen auf den gepflasterten Zugangswegen.",
+                "hu": "Rövid megálló két zápor között; keressenek menedéket a fák alatt, és ügyeljenek a burkolt utakon kialakuló mélyebb tócsákra a játszótér körül.",
+                "ro": "O oprire scurtă între reprizele de ploaie; căutați adăpost sub copaci și aveți grijă la bălțile care se formează pe aleile de acces pavate.",
+                "en": "A quick stop between showers; seek shelter under the nearby trees and watch out for deep puddles forming on the paved access paths around the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Dječje igralište \"Zaprešić\"",
+                "hu": "Dječje igralište \"Zaprešić\"",
+                "ro": "Dječje igralište \"Zaprešić\"",
+                "en": "Dječje igralište \"Zaprešić\""
+              },
+              "tip_5lang": {
+                "de": "Dieser zentrale Spielplatz ist ideal für einen schnellen Besuch im Regen; tragen Sie Gummistiefel, da der Boden um die Geräte weich werden kann.",
+                "hu": "A központi játszótér ideális egy gyors esős látogatásra; viseljenek gumicsizmát, mert a talaj a játékok körül hamar felázhat és sárossá válhat.",
+                "ro": "Acest loc de joacă central este bun pentru o vizită rapidă; purtați cizme de cauciuc, deoarece solul din jurul aparatelor poate deveni moale și noroios.",
+                "en": "This central playground is perfect for a brisk visit in the rain; wear rubber boots as the ground around the equipment can get soft and muddy quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerija Skurjeni",
+                "hu": "Galerija Skurjeni",
+                "ro": "Galerija Skurjeni",
+                "en": "Galerija Skurjeni"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die naiven Kunstwerke in diesem trockenen Museum; schütteln Sie Ihren Regenschirm am Eingang gut ab und nutzen Sie den Garderobenbereich.",
+                "hu": "Élvezze a naiv művészeti alkotásokat ebben a száraz múzeumban; rázza le alaposan az esernyőjét a bejáratnál, és használja a kijelölt ruhatárat.",
+                "ro": "Bucurați-vă de operele de artă naivă în acest muzeu primitor; scuturați bine umbrela la intrare și folosiți zona dedicată pentru depozitarea hainelor ude.",
+                "en": "Enjoy the unique naive art masterpieces in this cozy indoor museum; shake your umbrella thoroughly at the entrance and use the designated cloakroom area."
+              }
+            },
+            {
+              "name": {
+                "de": "Novi dvori",
+                "hu": "Novi dvori",
+                "ro": "Novi dvori",
+                "en": "Novi dvori"
+              },
+              "tip_5lang": {
+                "de": "Das Anwesen wirkt im Regen besonders historisch; tragen Sie festes, wasserdichtes Schuhwerk für die unbefestigten Wege rund um das Schloss und die Kapelle.",
+                "hu": "A birtok az esőben különösen történelmi hangulatot áraszt; viseljenek zárt, vízálló cipőt a kastély és a kápolna körüli burkolatlan, sárosodó ösvényeken.",
+                "ro": "Domeniul are un aer istoric aparte în timpul ploii; purtați încălțăminte impermeabilă pentru potecile neasfaltate din jurul castelului și al capelei.",
+                "en": "The estate feels remarkably historic in the rain; wear sturdy, waterproof footwear for the unpaved and potentially muddy paths around the manor and chapel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen auf den Spielplätzen weckt die Lebensgeister bei klarer Luft. Mittags wärmen wir uns in der Galerija Skurjeni auf und bewundern lokale Kunstschätze. Der Nachmittag gehört dem winterlichen Novi dvori, wo die kahlen Bäume weite Ausblicke ermöglichen. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir die frühe Abenddämmerung bei einem Heißgetränk.",
+            "hu": "A fagyos reggel a játszótéren felfrissíti az érzékeket a tiszta téli levegőn. Délben a Galerija Skurjeni falai között melegszünk fel, miközben a helyi művészetet csodáljuk. Délután a téli Novi dvori kopár fái között sétálunk, élvezve a csendet. Mivel 17:00 körül már sötétedik, a túrát a korai szürkületben, egy forró tea mellett zárjuk.",
+            "ro": "O dimineață geroasă la locul de joacă reîmprospătează simțurile cu aer curat de iarnă. La prânz ne încălzim în Galeria Skurjeni, admirând comorile artei locale. După-amiaza este dedicată domeniului Novi dvori, unde copacii desbuiați oferă perspective largi. Deoarece soarele apune în jur de ora 17:00, savurăm amurgul devreme cu o băutură caldă.",
+            "en": "A frosty morning at the playground invigorates the senses with crisp winter air. At noon, warm up inside Galerija Skurjeni while admiring local artistic treasures. The afternoon is spent at the wintry Novi dvori, where bare trees offer wide views of the historic estate. Since sunset is around 17:00, enjoy the early twilight with a comforting hot beverage nearby."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Crveno dječje igralište",
+                "hu": "Crveno dječje igralište",
+                "ro": "Crveno dječje igralište",
+                "en": "Crveno dječje igralište"
+              },
+              "tip_5lang": {
+                "de": "Die Metallteile können sehr kalt sein; bringen Sie warme Handschuhe mit und achten Sie auf Reifglätte auf den Sitzflächen der Schaukeln.",
+                "hu": "A fém részek nagyon hidegek lehetnek; hozzanak meleg kesztyűt a gyerekeknek, és ügyeljenek a hinták ülőkéin kialakuló zúzmarás, csúszós rétegre.",
+                "ro": "Părțile metalice pot fi foarte reci; aduceți mănuși groase pentru copii și verificați dacă există gheață sau chiciură pe șezuturile leagănelor.",
+                "en": "The metal parts can be extremely cold to the touch; bring warm gloves and watch out for frost or ice on the swing seats and climbing frames."
+              }
+            },
+            {
+              "name": {
+                "de": "Plavo dječje igralište",
+                "hu": "Plavo dječje igralište",
+                "ro": "Plavo dječje igralište",
+                "en": "Plavo dječje igralište"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für einen kurzen Aufenthalt; ziehen Sie sich in Schichten an, um sich bei Bewegung warm zu halten.",
+                "hu": "Használják ki a déli napsütést egy rövid játékra; öltözködjenek rétegesen, hogy a mozgás közben termelt hőt bent tartsák a fagyos időben.",
+                "ro": "Profită de soarele de la amiază pentru o scurtă vizită; îmbrăcați-vă în straturi pentru a menține căldura corpului în timp ce vă mișcați.",
+                "en": "Take advantage of the midday sun for a short play session; dress in multiple layers to stay warm while moving around in the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Dječje igralište \"Zaprešić\"",
+                "hu": "Dječje igralište \"Zaprešić\"",
+                "ro": "Dječje igralište \"Zaprešić\"",
+                "en": "Dječje igralište \"Zaprešić\""
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein schnelles Fangen-Spiel zum Aufwärmen; achten Sie auf gefrorene Pfützen, die unter dem Laub versteckt sein könnten.",
+                "hu": "Tökéletes hely egy gyors fogócskára, hogy felmelegedjenek; vigyázzanak a lehullott levelek alatt megbújó fagyott tócsákra, amik balesetveszélyesek.",
+                "ro": "Locul perfect pentru un joc rapid de-a prinselea pentru încălzire; atenție la bălțile înghețate care pot fi ascunse sub frunzele uscate.",
+                "en": "Perfect for a quick game of tag to keep the blood flowing; be careful of frozen puddles that might be hidden under fallen winter leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerija Skurjeni",
+                "hu": "Galerija Skurjeni",
+                "ro": "Galerija Skurjeni",
+                "en": "Galerija Skurjeni"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte draußen zu vergessen; genießen Sie die warme Atmosphäre und nehmen Sie sich Zeit für die Details der Bilder.",
+                "hu": "Ideális helyszín, hogy elfelejtsük a kinti hideget; élvezze a benti kellemes meleget és szánjon időt a képek apró részleteinek felfedezésére.",
+                "ro": "Un loc ideal pentru a uita de frigul de afară; bucurați-vă de atmosfera caldă din interior și acordați timp detaliilor picturilor expuse.",
+                "en": "An ideal spot to escape the biting outdoor cold; enjoy the warm interior atmosphere and take your time to appreciate the intricate details of the art."
+              }
+            },
+            {
+              "name": {
+                "de": "Novi dvori",
+                "hu": "Novi dvori",
+                "ro": "Novi dvori",
+                "en": "Novi dvori"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Allee bietet im Winter tolle Fotomotive; kommen Sie vor 16:00 Uhr, um das letzte Tageslicht auf dem historischen Gelände zu nutzen.",
+                "hu": "A kopár fasor télen különleges fotótéma; érkezzenek délután 4 előtt, hogy kihasználják az utolsó fényeket a történelmi épületek körül.",
+                "ro": "Aleea desbuiază oferă cadre foto excelente iarna; veniți înainte de ora 16:00 pentru a profita de ultima lumină a zilei pe domeniul istoric.",
+                "en": "The bare tree avenue offers unique photo opportunities in winter; arrive before 16:00 to catch the last daylight on the historic buildings."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Tekerjen le a nyugodt Zajarki-tavakhoz, friss levegővel és víztükröződéssel indítva a napot.\nUtazzon nyugat felé a Lužnica kastélyhoz, és tapasztalja meg lenyűgöző barokk építészetét és kertjeit.\nTekerjen a Brdovec Múzeum felé, hogy felfedezze a regionális régészeti kincseket és a helyi történelmet.\nÉrkezzen meg a fenséges Novi dvori komplexumhoz, megpihentetve lábait az ősi, fákkal övezett sugárutakon.",
         "ro": "Ciclism către lacurile liniștite Zajarki, începând ziua cu aer proaspăt și reflexii pe apă.\nCălătoriți spre vest către Castelul Lužnica, experimentând arhitectura sa barocă și grădinile uimitoare.\nPedalați spre Muzeul Brdovec pentru a descoperi comori arheologice regionale și istoria locală.\nAjungeți la complexul maiestuos Novi dvori, odihnindu-vă picioarele sub aleile antice mărginite de copaci.",
         "en": "Cycle down to the serene Zajarki lakes, starting your day with fresh air and water reflections.\nJourney westward to the Lužnica Castle, experiencing its stunning baroque architecture and gardens.\nPedal towards the Brdovec Museum to uncover regional archaeological treasures and local history.\nArrive at the majestic Novi dvori complex, resting your legs under the ancient, tree-lined avenues."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir durch den Nebel zu den Zajarki-Seen, wo die Natur besonders still wirkt. Mittags suchen wir Schutz im Dvorac Lužnica und genießen die majestätische Aussicht im Regen. Am Nachmittag führt der Weg zum Muzej Brdovec für eine trockene Kulturpause. Der Abend endet mit einer vorsichtigen Fahrt zurück durch das sanfte Plätschern des Regens.",
+            "hu": "Reggel a ködös Zajarki-tavakhoz tekerünk, ahol az esőben minden elcsendesedik. Délben a Lužnica-kastélynál tartunk pihenőt, gyönyörködve a vizes tájban. Délután a Brdovec Múzeum kínál száraz menedéket és izgalmas történelmi tárlatokat. Az este lassú és óvatos tekeréssel zárul a friss, esőáztatta utakon, figyelve a csúszós kanyarokra.",
+            "ro": "Dimineața pedalăm prin ceață spre lacurile Zajarki, unde natura pare neobișnuit de liniștită. La prânz căutăm adăpost la Castelul Lužnica, admirând peisajul ud. După-amiaza mergem la Muzeul Brdovec pentru o pauză culturală uscată. Seara se încheie cu o cursă precaută înapoi, prin sunetul relaxant al ploii pe asfalt.",
+            "en": "In the morning, cycle through the mist to Zajarki lakes, where nature feels exceptionally still in the rain. At noon, seek shelter at Lužnica Castle and enjoy the majestic views. In the afternoon, head to Brdovec Museum for a dry cultural break from the weather. The evening ends with a cautious ride back through the gentle splashing of the rain on fresh roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zajarki",
+                "hu": "Zajarki",
+                "ro": "Zajarki",
+                "en": "Zajarki"
+              },
+              "tip_5lang": {
+                "de": "Die Schotterwege um den See können matschig sein; fahren Sie langsam, um Schlammspritzer zu vermeiden und nutzen Sie Schutzbleche am Fahrrad.",
+                "hu": "A tó körüli kavicsos utak sárosak lehetnek; tekerjenek lassan a felfröccsenő sár elkerülése érdekében, és használjanak sárvédőt a kerékpáron.",
+                "ro": "Potecile cu pietriș din jurul lacului pot fi noroioase; pedalați încet pentru a evita stropirea și asigurați-vă că aveți aripi la bicicletă.",
+                "en": "The gravel paths around the lake can be muddy; ride slowly to avoid mud splashes and ensure your bike is equipped with effective mudguards."
+              }
+            },
+            {
+              "name": {
+                "de": "Zajarki - malo jezero",
+                "hu": "Zajarki - malo jezero",
+                "ro": "Zajarki - malo jezero",
+                "en": "Zajarki - malo jezero"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor rutschigen Holzstegen am Ufer; tragen Sie eine wasserdichte Regenjacke und achten Sie auf eine sichere Bremsweise bei Nässe.",
+                "hu": "Vigyázzanak a csúszós fapallókkal a parton; viseljenek vízálló esőkabátot, és számítsanak hosszabb féktávra a vizes gumiabroncsok miatt.",
+                "ro": "Atenție la podețele de lemn alunecoase de pe mal; purtați o pelerină de ploaie de calitate și frânați din timp pe suprafețele umede.",
+                "en": "Beware of slippery wooden walkways on the shore; wear a waterproof rain jacket and expect longer braking distances due to the wet tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Dvorac Lužnica",
+                "hu": "Dvorac Lužnica",
+                "ro": "Dvorac Lužnica",
+                "en": "Dvorac Lužnica"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Platz; der Schlossgarten ist im Regen sehr fotogen, aber die Wege können rutschig sein.",
+                "hu": "Parkoljanak fedett helyen a kerékpárral; a kastélykert esőben is fotogén, de a sétányok csúszósak, így óvatosan tolják a biciklit.",
+                "ro": "Parcați bicicleta într-un loc ferit de ploaie; grădina castelului este foarte fotogenică pe ploaie, dar aleile pot fi destul de alunecoase.",
+                "en": "Park your bike in a sheltered spot; the castle garden is very photogenic in the rain, but paths can be slippery, so walk your bike carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Muzej Brdovec",
+                "hu": "Muzej Brdovec",
+                "ro": "Muzej Brdovec",
+                "en": "Muzej Brdovec"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch zum Trocknen Ihrer Ausrüstung; im Inneren erfahren Sie Spannendes über die Region, während es draußen regnet.",
+                "hu": "Használja ki a múzeumlátogatást a felszerelése megszárítására; bent izgalmas helytörténeti tárlat várja, amíg kint eláll az eső.",
+                "ro": "Folosiți vizita la muzeu pentru a vă usca echipamentul; interiorul oferă informații fascinante despre regiune în timp ce vă adăpostiți.",
+                "en": "Use the museum visit to dry off your gear; inside you will find fascinating local history exhibits while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Novi dvori",
+                "hu": "Novi dvori",
+                "ro": "Novi dvori",
+                "en": "Novi dvori"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege auf dem Gelände sind bei Regen sicherer als die Waldpfade; achten Sie auf nasse Blätter in den Kurven.",
+                "hu": "Az aszfaltozott utak biztonságosabbak az esőben, mint az erdei ösvények; ügyeljenek a kanyarokban lévő vizes, csúszós falevelekre.",
+                "ro": "Drumurile asfaltate de pe domeniu sunt mai sigure pe ploaie decât potecile prin pădure; atenție la frunzele ude din curbe.",
+                "en": "The paved roads on the estate are safer in the rain than the forest trails; watch out for wet, slippery leaves in the corners."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen führt uns zu den Zajarki-Seen, wo der Reif die Gräser glitzern lässt. Mittags radeln wir zum Dvorac Lužnica und genießen die klare, kalte Winterluft im Schlosspark. Am Nachmittag bietet das Muzej Brdovec eine willkommene Aufwärmpause. Da es früh dunkel wird, beenden wir die Tour in Novi dvori rechtzeitig vor Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A fagyos reggelen a Zajarki-tavakhoz tekerünk, ahol zúzmara borítja a part menti nádast. Délben a Lužnica-kastély parkjában élvezzük a friss, csípős téli levegőt. Délután a Brdovec Múzeum kiállítása nyújt kellemes felmelegedést a bringázás után. Mivel korán sötétedik, a túrát a Novi dvori falai között zárjuk még a 17:00-s naplemente előtt.",
+            "ro": "Dimineața geroasă ne poartă spre lacurile Zajarki, unde chiciura face ca stuful de pe mal să sclipească. La prânz pedalăm spre Castelul Lužnica pentru a simți aerul curat de iarnă. După-amiaza, Muzeul Brdovec oferă o pauză caldă binevenită. Deoarece se întunecă repede, încheiem turul la Novi dvori înainte de apusul de la ora 17:00.",
+            "en": "The frosty morning leads us to Zajarki lakes, where hoarfrost makes the reeds sparkle by the shore. At noon, cycle to Lužnica Castle and enjoy the crisp winter air in the park. In the afternoon, Brdovec Museum offers a welcome warm break after your ride. As it gets dark early, finish the tour at Novi dvori well before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zajarki",
+                "hu": "Zajarki",
+                "ro": "Zajarki",
+                "en": "Zajarki"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Brücken; tragen Sie winddichte Kleidung, da der Wind über dem See im Winter besonders schneidend ist.",
+                "hu": "Ügyeljenek a hidakon kialakuló jégbordákra; viseljenek szélálló ruházatot, mert a tó felett fújó szél télen különösen metsző lehet.",
+                "ro": "Atenție la porțiunile de gheață de pe poduri; purtați haine rezistente la vânt, deoarece curentul de deasupra lacului este tăios iarna.",
+                "en": "Watch out for patches of ice on the bridges; wear windproof clothing as the wind over the lake can be particularly biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Zajarki - malo jezero",
+                "hu": "Zajarki - malo jezero",
+                "ro": "Zajarki - malo jezero",
+                "en": "Zajarki - malo jezero"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich durch stetiges Treten warm; die Wege können hart gefroren und uneben sein, was eine gute Federung oder Vorsicht erfordert.",
+                "hu": "Tartsa magát melegen folyamatos tekeréssel; az utak keményre fagyottak és egyenetlenek lehetnek, ami fokozott figyelmet igényel a nyeregben.",
+                "ro": "Mențineți-vă calzi pedalând constant; potecile pot fi înghețate bocnă și denivelate, ceea ce necesită atenție sporită la ghidon.",
+                "en": "Keep yourself warm by pedaling steadily; the paths can be frozen hard and uneven, requiring extra caution and steady handling of your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Dvorac Lužnica",
+                "hu": "Dvorac Lužnica",
+                "ro": "Dvorac Lužnica",
+                "en": "Dvorac Lužnica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park für die winterliche Stille; achten Sie auf gefrorenes Laub auf den Wegen, das unter den Reifen wegrutschen kann.",
+                "hu": "Látogasson el a parkba a téli csendért; vigyázzon a fagyott falevelekkel az utakon, mert könnyen kicsúszhat alattuk a kerékpár kereke.",
+                "ro": "Vizitați parcul pentru liniștea iernii; atenție la frunzele înghețate de pe alei, deoarece roțile bicicletei pot aluneca ușor pe ele.",
+                "en": "Visit the park for its serene winter silence; be careful of frozen leaves on the paths, as bike tires can easily lose traction and slide."
+              }
+            },
+            {
+              "name": {
+                "de": "Muzej Brdovec",
+                "hu": "Muzej Brdovec",
+                "ro": "Muzej Brdovec",
+                "en": "Muzej Brdovec"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um Ihre Hände aufzuwärmen; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den restlichen Weg gut funktioniert.",
+                "hu": "Használja ki a megállót a kezei felmelegítésére; ellenőrizze, hogy a kerékpár lámpái jól működnek-e a túra hátralévő részéhez.",
+                "ro": "Folosiți oprirea pentru a vă încălzi mâinile; asigurați-vă că luminile bicicletei funcționează bine pentru restul drumului spre destinație.",
+                "en": "Take this opportunity to warm up your hands; double-check that your bike lights are working properly for the remaining part of the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Novi dvori",
+                "hu": "Novi dvori",
+                "ro": "Novi dvori",
+                "en": "Novi dvori"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor Einbruch der Dunkelheit; die historische Allee sieht im Abendlicht der Wintersonne fantastisch aus.",
+                "hu": "Fejezze be a tekerést még sötétedés előtt; a történelmi fasor fantasztikusan mutat a téli naplemente utolsó súroló fényeiben.",
+                "ro": "Încheiați cursa înainte de lăsarea întunericului; aleea istorică arată fantastic în lumina caldă a soarelui de iarnă la apus.",
+                "en": "Finish your ride before darkness falls; the historic tree avenue looks fantastic in the low, golden light of the winter sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Vezessen el a kiterjedt Strmec tavakhoz egy frissítő reggeli sétára a vízparton.\nIrány a város, hogy felpörgesse motorjait a Ferdinand Budicki Autómúzeum veterán gyűjteményében.\nJárja be Novi dvori és Lužnica történelmi kastélyait, megcsodálva az arisztokratikus építészetet.\nMásszon fel a Medvednica Természetvédelmi Parkba egy festői autózásra, élvezve a panorámát és a hűvösebb klímát.",
         "ro": "Conduceți spre lacurile Strmec extinse pentru o plimbare matinală revigorantă pe malul apei.\nMergeți în oraș pentru a tura motoarele la colecția vintage a Muzeului de Automobile Ferdinand Budicki.\nVizitați castelele istorice Novi dvori și Lužnica, minunându-vă de arhitectura aristocratică.\nUrcați în Parcul Natural Medvednica pentru o plimbare pitorească, bucurându-vă de vederi panoramice.",
         "en": "Drive to the expansive Strmec lakes for a refreshing morning walk by the water's edge.\nHead into town to rev your engines at the Ferdinand Budicki Automobile Museum's vintage collection.\nTour the historic castles of Novi dvori and Lužnica, marveling at aristocratic architecture.\nAscend into Medvednica Nature Park for a scenic drive, enjoying panoramic views and a cooler climate."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die Aussicht auf die Strmec-Seen gemütlich vom Auto aus. Mittags ist das Automobilmuseum Ferdinand Budicki der perfekte trockene Ort für Technikfans. Am Nachmittag besuchen wir Novi dvori und das Schloss Lužnica, wobei wir kurze Wege zwischen Parkplatz und Sehenswürdigkeit nutzen. Der Abend endet entspannt mit einer Panoramafahrt durch den Park Medvednica im Nebel.",
+            "hu": "Reggel a Strmec-tavak látványát a kényelmes autóból élvezzük a szemerkélő esőben. Délben a Ferdinand Budicki Autómúzeum a tökéletes fedett program mindenki számára. Délután a Novi dvori és a Lužnica-kastély megtekintése következik, rövid sétákkal a parkolótól. Az este a ködbe burkolózó Medvednica Parkban tett panorámaautózással zárul, figyelve a vizes aszfaltra.",
+            "ro": "Dimineața admirăm lacurile Strmec din confortul mașinii în timp ce plouă ușor. La prânz, Muzeul Automobilului Ferdinand Budicki este refugiul perfect pentru pasionații de tehnică. După-amiaza vizităm Novi dvori și Castelul Lužnica, folosind aleile scurte de la parcare. Seara se încheie relaxat cu o plimbare panoramică prin Parcul Medvednica învăluit în ceață.",
+            "en": "In the morning, enjoy the views of Strmec lakes comfortably from your car during the light rain. At noon, the Ferdinand Budicki Automobile Museum is the perfect indoor spot for tech fans. In the afternoon, visit Novi dvori and Lužnica Castle, taking short walks from the parking areas. The evening concludes with a scenic drive through the misty Medvednica Park on rain-slicked roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jezera Strmec",
+                "hu": "Jezera Strmec",
+                "ro": "Jezera Strmec",
+                "en": "Jezera Strmec"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ufer für den besten Blick; nutzen Sie eine kurze Regenpause für ein Foto von der mystischen Wasseroberfläche.",
+                "hu": "Parkoljon a parthoz közel a legjobb kilátásért; használjon ki egy rövid esőszünetet a misztikus víztükör lefotózásához a tó mellett.",
+                "ro": "Parcați aproape de mal pentru cea mai bună vedere; profitați de o scurtă pauză de ploaie pentru a fotografia suprafața mistică a apei.",
+                "en": "Park close to the shore for the best views; seize a brief break in the rain to photograph the mystical reflections on the water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Muzej automobila Ferdinand Budicki",
+                "hu": "Muzej automobila Ferdinand Budicki",
+                "ro": "Muzej automobila Ferdinand Budicki",
+                "en": "Muzej automobila Ferdinand Budicki"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp bei Regen; bewundern Sie die Oldtimer im Trockenen und nutzen Sie die Parkplätze direkt vor dem Gebäude.",
+                "hu": "Ideális fedett program esős időben; csodálja meg a veterán autókat szárazon, és használja az épület előtti közvetlen parkolókat.",
+                "ro": "O oprire ideală la interior pe timp de ploaie; admirați mașinile de epocă la adăpost și folosiți parcarea chiar din fața clădirii.",
+                "en": "An ideal indoor stop during rainy weather; admire the vintage cars in the dry and use the convenient parking spaces right in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Novi dvori",
+                "hu": "Novi dvori",
+                "ro": "Novi dvori",
+                "en": "Novi dvori"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie einen großen Regenschirm für den Weg vom Parkplatz; die historischen Gebäude wirken im grauen Licht besonders imposant.",
+                "hu": "Vigyen magával nagy esernyőt a parkolótól vezető útra; a történelmi épületek a szürke fényekben különösen impozáns látványt nyújtanak.",
+                "ro": "Luați o umbrelă mare pentru drumul de la parcare; clădirile istorice par deosebit de impunătoare în lumina gri a zilei ploioase.",
+                "en": "Bring a large umbrella for the walk from the parking area; the historic buildings look particularly imposing in the soft, grey rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Dvorac Lužnica",
+                "hu": "Dvorac Lužnica",
+                "ro": "Dvorac Lužnica",
+                "en": "Dvorac Lužnica"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schlossinnere, um trocken zu bleiben; der Blick aus den Fenstern auf den verregneten Park ist sehr entspannend.",
+                "hu": "Látogasson el a kastély belsejébe, hogy szárazon maradjon; az ablakokból nyíló kilátás az eső áztatta parkra rendkívül megnyugtató.",
+                "ro": "Vizitați interiorul castelului pentru a rămâne uscați; vederea de la ferestre spre parcul plouat este extrem de relaxantă și plăcută.",
+                "en": "Visit the castle interior to stay dry; the view from the historic windows overlooking the rain-soaked park is incredibly peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Park prirode Medvednica",
+                "hu": "Park prirode Medvednica",
+                "ro": "Park prirode Medvednica",
+                "en": "Park prirode Medvednica"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den kurvigen Bergstraßen; der Nebel kann dicht sein, daher ist eine gute Beleuchtung am Auto unerlässlich.",
+                "hu": "Vezessen óvatosan a kanyargós hegyi utakon; a köd sűrű lehet, ezért a jó világítás és a csökkentett sebesség elengedhetetlen.",
+                "ro": "Conduceți cu atenție pe drumurile montane șerpuite; ceața poate fi densă, deci luminile de întâlnire sunt obligatorii pentru siguranță.",
+                "en": "Drive carefully on the winding mountain roads; the mist can be thick, making good headlights and reduced speed essential for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen begrüßt uns an den Strmec-Seen mit einer glitzernden Eislandschaft. Mittags wärmen wir uns im Automobilmuseum Ferdinand Budicki auf, während wir Technikgeschichte erleben. Der Nachmittag führt uns zu den winterlichen Residenzen Novi dvori und Lužnica. Zum Abschluss fahren wir in den Naturpark Medvednica, um den frühen Sonnenuntergang um 17:00 Uhr über den verschneiten Gipfeln zu beobachten.",
+            "hu": "A fagyos téli reggel csillogó jégvilággal köszönt minket a Strmec-tavaknál. Délben a Ferdinand Budicki Autómúzeumban melegszünk fel a technikatörténeti ritkaságok között. Délután a téli nyugalomba burkolózó Novi dvori és Lužnica-kastély következik. Zárásként a Medvednica Parkba autózunk, hogy megcsodáljuk a korai, 17:00-s naplementét a hófödte csúcsok felett.",
+            "ro": "O dimineață geroasă de iarnă ne întâmpină la lacurile Strmec cu un peisaj sclipitor de gheață. La prânz ne încălzim în Muzeul Automobilului Ferdinand Budicki printre rarități tehnice. După-amiaza vizităm Novi dvori și Castelul Lužnica în liniștea iernii. În final, urcăm în Parcul Medvednica pentru a vedea apusul devreme de la ora 17:00 deasupra crestelor.",
+            "en": "A frosty winter morning greets us at Strmec lakes with a sparkling landscape of ice and frost. At noon, warm up in the Ferdinand Budicki Automobile Museum among rare technical exhibits. The afternoon features the winter serenity of Novi dvori and Lužnica Castle. To finish, drive to Medvednica Park to witness the early 17:00 sunset over the snowy mountain peaks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jezera Strmec",
+                "hu": "Jezera Strmec",
+                "ro": "Jezera Strmec",
+                "en": "Jezera Strmec"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den gefrorenen See vom warmen Auto aus; achten Sie auf glatte Stellen auf dem Parkplatz direkt am Seeufer.",
+                "hu": "Élvezze a befagyott tó látványát a meleg autóból; ügyeljen a jeges foltokra a közvetlenül a tóparton található parkolóhelyeken.",
+                "ro": "Bucurați-vă de vederea lacului înghețat din mașina încălzită; atenție la porțiunile alunecoase din parcarea de lângă malul lacului.",
+                "en": "Enjoy the view of the frozen lake from the warmth of your car; watch out for icy patches in the parking area right by the lakeshore."
+              }
+            },
+            {
+              "name": {
+                "de": "Muzej automobila Ferdinand Budicki",
+                "hu": "Muzej automobila Ferdinand Budicki",
+                "ro": "Muzej automobila Ferdinand Budicki",
+                "en": "Muzej automobila Ferdinand Budicki"
+              },
+              "tip_5lang": {
+                "de": "Perfekt, um der Kälte zu entfliehen; das Museum ist gut beheizt und bietet eine faszinierende Sammlung für die ganze Familie im Winter.",
+                "hu": "Tökéletes menekülés a hideg elől; a múzeum jól fűtött, és lenyűgöző gyűjteményt kínál az egész családnak a téli napokon.",
+                "ro": "Refugiul perfect împotriva frigului; muzeul este bine încălzit și oferă o colecție fascinantă pentru întreaga familie în timpul iernii.",
+                "en": "The perfect escape from the cold; the museum is well-heated and offers a fascinating collection for the whole family during winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Novi dvori",
+                "hu": "Novi dvori",
+                "ro": "Novi dvori",
+                "en": "Novi dvori"
+              },
+              "tip_5lang": {
+                "de": "Die Allee sieht bei Raureif magisch aus; stellen Sie sicher, dass Ihre Scheibenwaschanlage mit Frostschutzmittel gefüllt ist für die Fahrt.",
+                "hu": "A fasor zúzmarásan varázslatos látványt nyújt; ellenőrizze, hogy a szélvédőmosó fagyállóval legyen feltöltve a téli autózáshoz.",
+                "ro": "Aleea arată magic când este acoperită de chiciură; asigurați-vă că aveți lichid de parbriz cu antigel pentru călătoria cu mașina.",
+                "en": "The tree avenue looks magical when covered in frost; ensure your windshield washer fluid is winter-ready for the drive to the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Dvorac Lužnica",
+                "hu": "Dvorac Lužnica",
+                "ro": "Dvorac Lužnica",
+                "en": "Dvorac Lužnica"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang im Schlosspark ist sehr erfrischend; tragen Sie warme Kleidung für die Besichtigung des historischen Geländes.",
+                "hu": "Egy rövid séta a kastélyparkban nagyon felfrissítő; viseljenek meleg ruhát a történelmi épületegyüttes szabadtéri megtekintéséhez.",
+                "ro": "O scurtă plimbare în parcul castelului este foarte revigorantă; purtați haine groase pentru vizitarea domeniului istoric în exterior.",
+                "en": "A short walk in the castle park is very refreshing; dress warmly for exploring the historic outdoor grounds of the manor complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Park prirode Medvednica",
+                "hu": "Park prirode Medvednica",
+                "ro": "Park prirode Medvednica",
+                "en": "Park prirode Medvednica"
+              },
+              "tip_5lang": {
+                "de": "Winterreifen sind auf dieser Bergstrecke Pflicht; genießen Sie den Schnee auf den Gipfeln und fahren Sie vor der frühen Dunkelheit los.",
+                "hu": "A téli gumi kötelező ezen a hegyi úton; élvezze a havat a csúcsokon, de induljon vissza még a korai sötétedés beállta előtt.",
+                "ro": "Anvelopele de iarnă sunt obligatorii pe acest drum montan; admirați zăpada de pe creste, dar plecați înainte de lăsarea serii.",
+                "en": "Winter tires are mandatory for this mountain road; enjoy the snow on the peaks but head back before the early darkness sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

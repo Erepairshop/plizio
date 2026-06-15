@@ -137,6 +137,168 @@
         "hu": "Sétánkat a reggeli órákban az elegáns Villa Murri épületénél kezdjük meg. Délben a történelmi központ kulturális szívébe, az egykori Gigli színházhoz és egy emlékműhöz érkezünk. Délután lesétálunk a nyüzsgő Caribe Beach partszakaszára, hogy élvezzük a tengerparti hangulatot. Az estét a hangulatos Sette Mari nevű helynél zárjuk, amely tökéletesen megragadja a város tengeri szellemét.",
         "ro": "Ne începem turul pietonal dimineața la eleganta Villa Murri. La amiază ajungem în inima culturală a centrului istoric, la fostul teatru Gigli și un monument solemn. După-amiaza ne plimbăm spre vibranta Caribe Beach pentru a ne bucura de atmosfera de pe litoral. Seara se încheie la fermecătorul Sette Mari, captând perfect spiritul maritim al orașului Porto Sant'Elpidio.",
         "en": "We start our walking tour at the elegant Villa Murri in the morning. Midday brings us to the historic center's cultural heart at the former Gigli theater and a solemn monument. In the afternoon, we stroll down to the vibrant Caribe Beach to enjoy the seaside atmosphere. The evening concludes at the charming Sette Mari, perfectly capturing the maritime spirit of Porto Sant'Elpidio."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Villa Murri, deren historische Mauern Schutz vor dem Regen bieten. Mittags lädt das Beniamino-Gigli-Theater zu einer trockenen Kulturpause im Stadtzentrum ein. Nachmittags führt ein kurzer Spaziergang zum Denkmal, gefolgt von einer stürmischen Aussicht auf die Adria am Caribe Beach. Den Abend lassen Sie bei Sette Mari ausklingen, während der Regen auf das Meer peitscht.",
+            "hu": "Kezdje a napot a Villa Murri falai között, amely kiváló menedéket nyújt az eső elől a helyi történelem felfedezése közben. Délben a Beniamino Gigli színház kínál fedett kulturális élményt. Délután egy gyors séta vár az emlékműhöz, majd a viharos tenger látványa a Caribe Beach-nél. Az estét a Sette Mari környékén zárja, hallgatva az esőcseppek kopogását az Adrián.",
+            "ro": "Începeți ziua la Villa Murri, ale cărei ziduri istorice oferă un adăpost excelent împotriva ploii în timp ce explorați istoria locală. La prânz, teatrul Beniamino Gigli vă întâmpină pentru o pauză culturală ferită de umezeală. După-amiaza, o scurtă plimbare la monument este urmată de spectacolul mării agitate la Caribe Beach. Seara se încheie la Sette Mari, admirând ritmul ploii pe valurile Adriaticii.",
+            "en": "Start your day at Villa Murri, where historic walls provide a dry sanctuary while exploring local heritage. At noon, the Beniamino Gigli theater offers a cultural shelter in the city heart. Afternoon brings a quick dash to the memorial and a view of the stormy Adriatic from Caribe Beach. End your evening at Sette Mari, enjoying the atmospheric sound of rain hitting the coastal waters."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Murri",
+                "hu": "Villa Murri",
+                "ro": "Villa Murri",
+                "en": "Villa Murri"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die prachtvollen Innenräume dieser Villa aus dem 19. Jahrhundert; die überdachten Bereiche sind ideal, um den Regenschauern trocken zu entgehen.",
+                "hu": "Fedezze fel a 19. századi villa belső tereit; a fedett folyosók és termek tökéletes helyszínt biztosítanak a nézelődéshez az esős órákban is.",
+                "ro": "Explorați interioarele splendide ale acestei vile din secolul al XIX-lea; zonele acoperite sunt ideale pentru a vizita fără a vă uda în timpul averselor.",
+                "en": "Explore the grand interiors of this 19th-century villa; the covered architectural elements make it a perfect refuge to enjoy history during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemaliges Kino-Theater Beniamino Gigli",
+                "hu": "Egykori Beniamino Gigli mozi-színház",
+                "ro": "Fostul cinema-teatru Beniamino Gigli",
+                "en": "Ex cine-teatro Beniamino Gigli"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur dieses geschichtsträchtigen Ortes im Trockenen; ein idealer Moment, um die kulturelle Atmosphäre ohne nassen Regenschirm zu genießen.",
+                "hu": "Csodálja meg a történelmi épület építészetét a falakon belül; ez a legjobb alkalom a kulturális elmélyülésre, miközben odakint esik az eső.",
+                "ro": "Admirați arhitectura acestui loc plin de istorie la adăpost; este momentul ideal pentru a absorbi atmosfera culturală fără a avea nevoie de umbrelă.",
+                "en": "Admire the architecture of this historic venue from inside; it is the perfect spot to soak in cultural history while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Erinnerung",
+                "hu": "Az emlékezés emlékműve",
+                "ro": "Monumentul memoriei",
+                "en": "Monumento alla memoria"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Stopp im Regen; nutzen Sie einen stabilen Regenschirm, da die Meeresbrise die Tropfen hier oft seitlich peitscht.",
+                "hu": "Rövid, elmélyült megálló az esőben; használjon szélálló esernyőt, mert a tengeri szél itt gyakran oldalról fújja a csapadékot az emlékműnél.",
+                "ro": "O oprire scurtă și reflexivă în ploaie; folosiți o umbrelă rezistentă, deoarece briza mării tinde să direcționeze picăturile lateral în această zonă.",
+                "en": "A brief, reflective stop in the rain; bring a sturdy umbrella as the sea breeze can drive the rain sideways near the coastal monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Caribe Beach",
+                "hu": "Caribe Beach",
+                "ro": "Caribe Beach",
+                "en": "Caribe Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Anblick der grauen Adria unter einem Vordach; wasserfeste Schuhe sind für den sandigen, nassen Boden hier unerlässlich.",
+                "hu": "Élvezze a szürke Adria drámai látványát egy közeli előtető alól; a vizes homok miatt a vízálló lábbeli elengedhetetlen ezen a szakaszon.",
+                "ro": "Bucurați-vă de vederea dramatică a Adriaticii cenușii sub o streașină; încălțămintea impermeabilă este esențială pe nisipul ud de aici.",
+                "en": "Enjoy the dramatic sight of the grey Adriatic from under a canopy; waterproof footwear is essential for navigating the wet, sandy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Sette Mari",
+                "hu": "Sette Mari",
+                "ro": "Sette Mari",
+                "en": "Sette Mari"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das rhythmische Spiel der Wellen im Regen; die Strandnähe bietet eine mystische Stimmung, wenn man in wetterfester Kleidung unterwegs ist.",
+                "hu": "Figyelje a hullámok ritmikus játékát az esőben; a tengerpart misztikus hangulatot áraszt, ha megfelelő esőkabátban vágunk neki a sétának.",
+                "ro": "Priviți jocul ritmic al valurilor prin ploaie; proximitatea plajei oferă o stare mistică dacă sunteți echipat cu o pelerină de ploaie adecvată.",
+                "en": "Watch the rhythmic dance of the waves in the rain; the beach area offers a mystical atmosphere when explored in full waterproof gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme der Villa Murri am frostigen Morgen. Mittags wärmen Sie sich im historischen Gigli-Theater auf, bevor Sie die klare Winterluft am Denkmal genießen. Der Nachmittag am Caribe Beach bietet eine friedliche Stille, die nur der Winter am Meer kennt. Da die Sonne bereits gegen 17:00 Uhr untergeht, endet der Tag in der gemütlichen Dämmerung bei Sette Mari.",
+            "hu": "Élje át a Villa Murri téli báját a deres reggelen. Délben melegedjen fel a történelmi Gigli színházban, majd élvezze a friss téli levegőt az emlékműnél. A délután a Caribe Beach-nél olyan békés csendet kínál, amit csak télen ismer a tengerpart. Mivel a nap 17:00 körül lebukik, a nap a Sette Mari környékén, a meghitt szürkületben ér véget.",
+            "ro": "Experimentați farmecul iernatic al Vilei Murri într-o dimineață geroasă. La prânz, încălziți-vă în teatrul istoric Gigli înainte de a vă bucura de aerul curat la monument. După-amiaza la Caribe Beach oferă o liniște pe care doar marea o cunoaște iarna. Deoarece soarele apune în jur de ora 17:00, ziua se încheie în amurgul primitor de la Sette Mari.",
+            "en": "Experience the winter charm of Villa Murri on a frosty morning. At noon, warm up in the historic Gigli theater before enjoying the crisp air at the memorial. The afternoon at Caribe Beach offers a peaceful silence unique to the seaside in winter. As the sun sets around 17:00, your day concludes in the cozy winter twilight near Sette Mari."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Murri",
+                "hu": "Villa Murri",
+                "ro": "Villa Murri",
+                "en": "Villa Murri"
+              },
+              "tip_5lang": {
+                "de": "Die Villa strahlt im Winterlicht eine besondere Eleganz aus; ziehen Sie sich warm an, um den Park und die Architektur in Ruhe zu bewundern.",
+                "hu": "A villa különleges eleganciát áraszt a téli fényekben; öltözzön rétegesen, hogy a parkot és az építészetet is kényelmesen megcsodálhassa.",
+                "ro": "Vila emană o eleganță aparte în lumina iernii; îmbrăcați-vă gros pentru a admira parcul și arhitectura în deplin confort.",
+                "en": "The villa radiates a special elegance in the winter light; wear warm layers to comfortably admire the park and the grand architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemaliges Kino-Theater Beniamino Gigli",
+                "hu": "Egykori Beniamino Gigli mozi-színház",
+                "ro": "Fostul cinema-teatru Beniamino Gigli",
+                "en": "Ex cine-teatro Beniamino Gigli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp als Aufwärmpause; die prachtvolle Innengestaltung lässt Sie die Kälte draußen schnell vergessen.",
+                "hu": "Használja ezt a megállót egy kis melegedésre; a pompás belső tér feledteti a kinti hideget, miközben a múltba kalauzolja.",
+                "ro": "Folosiți această oprire pentru a vă încălzi; designul interior splendid vă va face să uitați rapid de frigul de afară.",
+                "en": "Use this stop as a warm-up break; the magnificent interior decor will make you quickly forget the biting winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Erinnerung",
+                "hu": "Az emlékezés emlékműve",
+                "ro": "Monumentul memoriei",
+                "en": "Monumento alla memoria"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt in der klaren, kalten Winterluft besonders eindrucksvoll; perfekt für ein schnelles Foto vor dem blauen Winterhimmel.",
+                "hu": "Az emlékmű különösen lenyűgöző a tiszta, hideg téli levegőben; tökéletes helyszín egy gyors fotóhoz a mélykék téli égbolt előtt.",
+                "ro": "Monumentul pare deosebit de impresionant în aerul rece și clar al iernii; ideal pentru o fotografie rapidă sub cerul senin de iarnă.",
+                "en": "The monument looks especially striking in the clear, cold winter air; it's perfect for a quick photo against the deep blue winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Caribe Beach",
+                "hu": "Caribe Beach",
+                "ro": "Caribe Beach",
+                "en": "Caribe Beach"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie die frische Meeresbrise bei einem zügigen Spaziergang; der leere Strand bietet im Winter eine seltene, meditative Ruhe.",
+                "hu": "Érezze a friss tengeri szellőt egy tempós séta közben; az üres strand télen ritka, meditatív nyugalmat áraszt a látogatóknak.",
+                "ro": "Simțiți briza proaspătă a mării în timpul unei plimbări vioaie; plaja pustie oferă iarna o liniște meditativă rară.",
+                "en": "Feel the fresh sea breeze during a brisk walk; the deserted beach offers a rare, meditative tranquility during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Sette Mari",
+                "hu": "Sette Mari",
+                "ro": "Sette Mari",
+                "en": "Sette Mari"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Rundgang rechtzeitig vor Einbruch der Dunkelheit; die winterliche Abenddämmerung am Meer ist kurz, aber farbenfroh.",
+                "hu": "Fejezze be a sétát még sötétedés előtt; a téli szürkület a tengerparton rövid, de lenyűgöző színekben pompázik.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului; amurgul de iarnă la malul mării este scurt, dar plin de culori superbe.",
+                "en": "Complete your walk before darkness falls; the winter twilight by the sea is brief but offers stunning, colorful horizons."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros utazását a történelmi Villa Baruchello épületénél, amelyet gyönyörű zöldterületek vesznek körül. Tekerjen az Északi sétány és az Elpilandia park felé, hogy magába szívja a parti déli energiákat. A délutáni tekerés során a nagyszerű Villa Murri mellett elhaladva a festői Déli sétányhoz ér, ahol friss tengeri szellő várja. Fejezze be aktív napját a lenyűgöző Teatro delle Api esti meglátogatásával.",
         "ro": "Începeți călătoria cu bicicleta la istorica Villa Baruchello, înconjurată de spații verzi frumoase. Pedalați spre Promenada de Nord și parcul Elpilandia pentru a absorbi energia vibrantă a coastei la amiază. Plimbarea de după-amiază vă duce pe lângă măreața Villa Murri, coborând spre pitoreasca Promenadă de Sud pentru o briză marină. Încheiați ziua activă cu o vizită de seară la impresionantul Teatro delle Api.",
         "en": "Kick off your cycling journey at the historic Villa Baruchello, surrounded by beautiful green spaces. Ride towards the Northern Promenade and Elpilandia park to take in the vibrant coastal midday energy. Afternoon pedals take you past the grand Villa Murri down to the scenic Southern Promenade for fresh sea breezes. Finish your active day with an evening visit to the striking Teatro delle Api."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den rutschigen Promenaden. Starten Sie bei der Villa Baruchello und nutzen Sie die Baumalleen als natürlichen Schirm. Mittags bietet die Nordpromenade einen wilden Blick auf die Adria. Nachmittags radeln Sie zügig zur Villa Murri, um sich unterzustellen. Der Tag endet sicher am Teatro delle Api, wo Sie Ihr Fahrrad parken und die Kultur im Trockenen genießen.",
+            "hu": "Az esős bringázás óvatosságot igényel a csúszós sétányokon. Kezdjen a Villa Baruchello-nál, használva a fasorokat természetes ernyőként. Délben az északi sétány vad arcát mutatja az Adriának. Délután tekerjen a Villa Murrihoz menedékért az eső elől. A nap a Teatro delle Api-nál zárul, ahol biztonságban leparkolhat, és fedett helyen élvezheti a kultúrát.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe faleza alunecoasă. Începeți la Villa Baruchello, folosind aleile cu copaci ca paravan natural. La prânz, promenada de nord oferă o vedere sălbatică a Adriaticii. După-amiaza, pedalați spre Villa Murri pentru adăpost. Ziua se încheie sigur la Teatro delle Api, unde puteți parca bicicleta și vă puteți bucura de cultură la uscat.",
+            "en": "Cycling in the rain requires extra caution on slippery coastal paths. Start at Villa Baruchello, using the tree-lined avenues as natural cover. At noon, the north promenade offers a wild, misty view of the sea. Afternoon calls for a brisk ride to Villa Murri for shelter. End your day safely at Teatro delle Api, where you can park and enjoy indoor cultural events away from the wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Baruchello",
+                "hu": "Villa Baruchello",
+                "ro": "Villa Baruchello",
+                "en": "Villa Baruchello"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf den Wegen; die Villa bietet viele überdachte Veranden, um den Garten im Regen sicher zu betrachten.",
+                "hu": "Vigyázzon a vizes levelekre az utakon; a villa számos fedett verandát kínál, ahonnan biztonságban csodálhatja a kertet az esőben is.",
+                "ro": "Atenție la frunzele ude de pe poteci; vila oferă multe verande acoperite pentru a admira grădina în siguranță pe timp de ploaie.",
+                "en": "Watch out for wet leaves on the paths; the villa features many covered verandas to safely view the gardens during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Strandpromenade Nord",
+                "hu": "Északi parti sétány",
+                "ro": "Plaja Promenada de Nord",
+                "en": "Spiaggia Lungomare Nord"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da der Asphalt bei Nässe glatt wird; genießen Sie das raue Panorama der stürmischen Adria direkt vom Sattel aus.",
+                "hu": "Hajtson lassan, mert az aszfalt csúszóssá válik; élvezze a viharos Adria nyers panorámáját közvetlenül a kerékpár nyergéből.",
+                "ro": "Pedalați încet, deoarece asfaltul devine alunecos; bucurați-vă de panorama aspră a Adriaticii furtunoase chiar din șaua bicicletei.",
+                "en": "Ride slowly as the pavement gets slippery; enjoy the raw, atmospheric panorama of the stormy Adriatic right from your bike seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Elpilandia",
+                "hu": "Elpilandia",
+                "ro": "Elpilandia",
+                "en": "Elpilandia"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp; prüfen Sie Ihre Bremsen vor der Weiterfahrt, da der Regen den Bremsweg auf den Küstenwegen verlängern kann.",
+                "hu": "Gyors fotómegálló; ellenőrizze a fékeit indulás előtt, mivel az eső meghosszabbíthatja a fékutat a parti utakon.",
+                "ro": "O oprire rapidă pentru poze; verificați frânele înainte de a pleca, deoarece ploaia poate prelungi distanța de frânare pe rutele de coastă.",
+                "en": "A quick photo stop; test your brakes before moving on, as the rain can significantly increase your stopping distance on coastal routes."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Murri",
+                "hu": "Villa Murri",
+                "ro": "Villa Murri",
+                "en": "Villa Murri"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter den Arkaden ab; nutzen Sie die Zeit für eine Besichtigung der Innenräume, während draußen ein Schauer niedergeht.",
+                "hu": "Parkoljon az árkádok alatt; használja ki az időt a belső terek felfedezésére, amíg odakint épp elered az eső.",
+                "ro": "Parcați bicicleta sub arcade; profitați de timp pentru a vizita interioarele în timp ce afară trece o rafală de ploaie.",
+                "en": "Park your bike under the archways; use the time to visit the interiors while a rain shower passes through the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Strandpromenade Süd",
+                "hu": "Déli parti sétány",
+                "ro": "Plaja Promenada de Sud",
+                "en": "Spiaggia Lungomare Sud"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie leuchtende Regenbekleidung für bessere Sichtbarkeit; der südliche Abschnitt ist bei Regen oft menschenleer und sehr atmosphärisch.",
+                "hu": "Viseljen feltűnő esőkabátot a jobb láthatóságért; a déli szakasz esőben gyakran teljesen néptelen és különlegesen hangulatos.",
+                "ro": "Purtați haine de ploaie reflectorizante pentru vizibilitate; secțiunea sudică este adesea pustie pe ploaie și foarte atmosferică.",
+                "en": "Wear bright rain gear for better visibility; the southern stretch is often deserted during rain, offering a very atmospheric ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro delle Api",
+                "hu": "Teatro delle Api",
+                "ro": "Teatro delle Api",
+                "en": "Teatro delle Api"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Zielort, um sich nach der Fahrt abzutrocknen; genießen Sie eine Aufführung in diesem modernen, beheizten Kulturzentrum.",
+                "hu": "A tökéletes célpont, hogy megszáradjon a tekerés után; élvezze az előadást ebben a modern, fűtött kulturális központban.",
+                "ro": "Destinația perfectă pentru a vă usca după cursă; bucurați-vă de un spectacol în acest centru cultural modern și încălzit.",
+                "en": "The perfect destination to dry off after your ride; enjoy a performance in this modern, heated cultural center to end the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Porto Sant'Elpidio erfordert warme Handschuhe gegen den kalten Wind. Starten Sie bei der Villa Baruchello, wo die Bäume im Winterschlaf liegen. Mittags belebt die frische Brise an der Nordpromenade Ihre Sinne. Nach dem Besuch der Villa Murri führt der Weg zur Südpromenade, wo das goldene Licht der tiefstehenden Sonne das Meer färbt. Beenden Sie die Tour im beheizten Teatro delle Api.",
+            "hu": "A téli bringázáshoz elengedhetetlen a meleg kesztyű a hideg szél ellen. Kezdjen a Villa Baruchello-nál, ahol a fák téli álmot alusznak. Délben a friss szellő az északi sétányon felfrissíti az érzékeit. A Villa Murri után az út a déli sétányra vezet, ahol az alacsonyan járó nap aranyba öltözteti a tengert. Zárja a túrát a fűtött Teatro delle Api-ban.",
+            "ro": "Ciclismul de iarnă necesită mănuși groase împotriva vântului rece. Începeți la Villa Baruchello, unde copacii sunt în hibernare. La prânz, briza proaspătă de pe faleza de nord vă va revigora simțurile. După Villa Murri, drumul duce spre faleza de sud, unde lumina aurie a soarelui colorează marea. Încheiați turul în mediul cald de la Teatro delle Api.",
+            "en": "Winter cycling requires warm gloves against the biting Adriatic wind. Start at Villa Baruchello, where the gardens rest in winter sleep. At noon, the fresh breeze along the north promenade will revitalize your senses. After visiting Villa Murri, ride to the southern promenade to catch the golden winter light on the sea. Conclude your tour in the warmth of Teatro delle Api."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Baruchello",
+                "hu": "Villa Baruchello",
+                "ro": "Villa Baruchello",
+                "en": "Villa Baruchello"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Architektur durch die laublosen Bäume; die kühle Morgenluft macht das Radeln im Park besonders erfrischend.",
+                "hu": "Élvezze a tiszta kilátást az épületre a lomb nélküli fákon keresztül; a hűvös reggeli levegő frissítővé teszi a tekerést a parkban.",
+                "ro": "Bucurați-vă de vederea clară asupra arhitecturii prin copacii fără frunze; aerul rece de dimineață face pedalatul prin parc revigorant.",
+                "en": "Enjoy the clear views of the architecture through the leafless trees; the cool morning air makes cycling through the park refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Strandpromenade Nord",
+                "hu": "Északi parti sétány",
+                "ro": "Plaja Promenada de Nord",
+                "en": "Spiaggia Lungomare Nord"
+              },
+              "tip_5lang": {
+                "de": "Schützen Sie Ihre Ohren vor dem eisigen Küstenwind; die winterliche Leere des Radwegs ermöglicht eine zügige Fahrt ohne Hindernisse.",
+                "hu": "Védje fülét a jeges tengeri széltől; a kerékpárút téli néptelensége lehetővé teszi a tempós, akadálymentes haladást a parton.",
+                "ro": "Protejați-vă urechile de vântul înghețat al mării; lipsa aglomerației pe pista de biciclete permite o cursă rapidă și neîntreruptă.",
+                "en": "Protect your ears from the icy coastal wind; the winter emptiness of the bike path allows for a brisk, unobstructed ride along the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Elpilandia",
+                "hu": "Elpilandia",
+                "ro": "Elpilandia",
+                "en": "Elpilandia"
+              },
+              "tip_5lang": {
+                "de": "Ein farbenfroher Lichtblick im grauen Winter; ideal für ein kurzes Pausenfoto, bevor Sie weiter in den wärmeren Stadtkern fahren.",
+                "hu": "Színes fénypont a szürke téli napon; ideális helyszín egy gyors fotós pihenőhöz, mielőtt továbbtekerne a melegebb városközpont felé.",
+                "ro": "Un punct colorat într-o zi cenușie de iarnă; ideal pentru o scurtă pauză foto înainte de a pedala spre centrul mai adăpostit.",
+                "en": "A colorful highlight on a grey winter day; it's an ideal spot for a quick photo break before heading toward the warmer city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Murri",
+                "hu": "Villa Murri",
+                "ro": "Villa Murri",
+                "en": "Villa Murri"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Gehpause; die historischen Räume bieten einen willkommenen Schutz vor der winterlichen Kälte.",
+                "hu": "Használja ki a megállót egy rövid sétára; a történelmi termek szívesen látott menedéket nyújtanak a téli hideg elől.",
+                "ro": "Profită de oprire pentru o scurtă pauză de mers; sălile istorice oferă un adăpost binevenit împotriva frigului de iarnă.",
+                "en": "Take advantage of this stop for a short walking break; the historic rooms offer a welcome refuge from the biting winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Strandpromenade Süd",
+                "hu": "Déli parti sétány",
+                "ro": "Plaja Promenada de Sud",
+                "en": "Spiaggia Lungomare Sud"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang über dem Meer; das Licht ist im Winter besonders weich und taucht die Küste in Pastelltöne.",
+                "hu": "Figyelje meg a korai naplementét a tenger felett; a fények télen különösen lágyak, pasztellszínekbe öltöztetve a teljes partvidéket.",
+                "ro": "Admirați apusul timpuriu peste mare; lumina este deosebit de blândă iarna, îmbrăcând coasta în nuanțe superbe de pastel.",
+                "en": "Watch the early sunset over the sea; the light is especially soft in winter, bathing the coast in beautiful pastel hues."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro delle Api",
+                "hu": "Teatro delle Api",
+                "ro": "Teatro delle Api",
+                "en": "Teatro delle Api"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um die Tour aufzuwärmen; genießen Sie das kulturelle Programm, während draußen die Winternacht einbricht.",
+                "hu": "Ideális helyszín a túra utáni felmelegedéshez; élvezze a kulturális programot, miközben odakint leszáll a téli éjszaka.",
+                "ro": "Locul ideal pentru a vă încălzi după tură; bucurați-vă de programul cultural în timp ce afară se lasă noaptea de iarnă.",
+                "en": "The ideal place to warm up after your ride; enjoy the cultural program as the winter night falls over the city outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autózás tágabb perspektívát nyújt, és a túra az északi peremvidéken található figyelemre méltó Il Castellano erődnél kezdődik. Délben fedezze fel a fenséges Villa Baruchello épületét, és tartson egy pihentető szünetet a tengerparti Papillonnál. A délutáni vezetés a régi Gigli színház kulturális örökségéhez és egy gyors megállóhoz vezet az emlékműnél. A napot a déli részen, a lenyűgöző Villa Trevisaninál zárja.",
         "ro": "Mersul cu mașina oferă o vedere mai amplă, începând la remarcabila fortăreață Il Castellano de la periferia nordică. Până la amiază, explorați maiestuoasa Villa Baruchello și bucurați-vă de o pauză relaxantă la punctul litoral Papillon. Conducerea de după-amiază vă aduce la moștenirea culturală a vechiului teatru Gigli și o oprire rapidă la monument. Ziua se încheie în sud, la uimitoarea Villa Trevisani.",
         "en": "Driving offers a broader view, starting at the remarkable Il Castellano fortress in the northern outskirts. By midday, explore the majestic Villa Baruchello and enjoy a relaxing break at the Papillon seaside spot. Afternoon driving brings you to the cultural legacy of the old Gigli theater and a quick stop at the memory monument. Your day wraps up in the south at the stunning Villa Trevisani."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund, um zwischen den historischen Villen trocken zu bleiben. Starten Sie bei Il Castellano und genießen Sie die Aussicht aus dem warmen Cockpit. Mittags bietet die Villa Baruchello elegante Innenräume. Trotz Regen lohnt ein Blick auf die Adria bei Papillon, bevor Sie im Gigli-Theater Kultur im Trockenen erleben. Der Tag endet bequem an der Villa Trevisani.",
+            "hu": "Az autó ma a legjobb barátja, hogy szárazon közlekedhessen a történelmi villák között. Kezdjen az Il Castellano-nál, élvezve a kilátást a meleg utastérből. Délben a Villa Baruchello elegáns belső terei várják. Az eső ellenére a Papillon-nál vessen egy pillantást az Adriára, majd jöhet a Gigli színház fedett programja. A nap kényelmesen zárul a Villa Trevisani-nál.",
+            "ro": "Mașina este astăzi cel mai bun aliat pentru a rămâne uscat între vilele istorice. Începeți la Il Castellano și admirați vederea din habitaclul cald. La prânz, Villa Baruchello vă așteaptă cu interioare elegante. În ciuda ploii, merită o privire spre Adriatică la Papillon, înainte de cultura la adăpost de la teatrul Gigli. Ziua se încheie confortabil la Villa Trevisani.",
+            "en": "The car is your best friend today to stay dry while moving between historic villas. Start at Il Castellano and enjoy the view from the warm cabin. At noon, Villa Baruchello offers elegant interiors. Despite the rain, stop by Papillon for a sea view before heading to the Gigli theater for indoor culture. End your day comfortably at Villa Trevisani."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Il Castellano",
+                "hu": "Il Castellano",
+                "ro": "Il Castellano",
+                "en": "Il Castellano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe, um die historische Fassade ohne langen Fußweg im Regen bewundern zu können.",
+                "hu": "Használja a közeli parkolási lehetőségeket, hogy hosszú séta nélkül, szárazon csodálhassa meg a történelmi épület homlokzatát.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru a admira fațada istorică fără a merge mult prin ploaie.",
+                "en": "Use nearby parking options to admire the historic facade without a long walk in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Baruchello",
+                "hu": "Villa Baruchello",
+                "ro": "Villa Baruchello",
+                "en": "Villa Baruchello"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort bei Regen; parken Sie nah am Eingang und verbringen Sie mehr Zeit in den prachtvollen, überdachten Räumen.",
+                "hu": "Tökéletes helyszín esőben; parkoljon közel a bejárathoz, és töltsön több időt a pompás, fedett belső termekben.",
+                "ro": "Un loc perfect pe ploaie; parcați aproape de intrare și petreceți mai mult timp în sălile superbe și acoperite.",
+                "en": "A perfect location for a rainy day; park close to the entrance and spend more time exploring the magnificent, dry interior rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Papillon",
+                "hu": "Papillon",
+                "ro": "Papillon",
+                "en": "Papillon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das aufgewühlte Meer direkt aus dem geparkten Auto; so erleben Sie die Dynamik der Küste ohne nass zu werden.",
+                "hu": "Élvezze a felkorbácsolt tenger látványát közvetlenül a leparkolt autóból; így átélheti a part dinamikáját anélkül, hogy bőrig ázna.",
+                "ro": "Bucurați-vă de vederea mării agitate direct din mașina parcată; astfel experimentați dinamismul coastei fără a vă uda.",
+                "en": "Enjoy the view of the churning sea directly from your parked car; witness the coastal dynamics while staying perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemaliges Kino-Theater Beniamino Gigli",
+                "hu": "Egykori Beniamino Gigli mozi-színház",
+                "ro": "Fostul cinema-teatru Beniamino Gigli",
+                "en": "Ex cine-teatro Beniamino Gigli"
+              },
+              "tip_5lang": {
+                "de": "Das Stadtzentrum ist bei Regen gut mit dem Auto erreichbar; nutzen Sie den Stopp für eine ausgiebige, wetterfeste Kulturpause.",
+                "hu": "A városközpont esőben is könnyen megközelíthető autóval; használja ki a megállót egy tartalmas, időjárásbiztos kulturális szünetre.",
+                "ro": "Centrul orașului este ușor accesibil cu mașina pe ploaie; profitați de oprire pentru o pauză culturală ferită de intemperii.",
+                "en": "The city center is easily accessible by car during rain; use this stop for a substantial, weather-proof cultural break."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Erinnerung",
+                "hu": "Az emlékezés emlékműve",
+                "ro": "Monumentul memoriei",
+                "en": "Monumento alla memoria"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Ausstieg mit Schirm genügt; bei starkem Regen bietet das Denkmal auch vom Auto aus einen respektvollen Anblick.",
+                "hu": "Egy rövid kiszállás esernyővel bőven elég; szakadó esőben az emlékmű az autó ablakából is tiszteletreméltó látványt nyújt.",
+                "ro": "O scurtă ieșire cu umbrela este suficientă; pe ploaie torențială, monumentul oferă o priveliște respectabilă și din mașină.",
+                "en": "A brief exit with an umbrella is enough; during heavy rain, the monument remains a respectful sight even from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Trevisani",
+                "hu": "Villa Trevisani",
+                "ro": "Villa Trevisani",
+                "en": "Villa Trevisani"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag stilvoll; die Villa ist ein idealer Endpunkt, der auch bei Regen seinen historischen Glanz nicht verliert.",
+                "hu": "Zárja stílusosan a napot; a villa ideális végpont, amely esőben sem veszíti el történelmi fényét és eleganciáját.",
+                "ro": "Încheiați ziua cu stil; vila este un punct final ideal care nu își pierde strălucirea istorică nici pe timp de ploaie.",
+                "en": "End your day in style; the villa is an ideal final stop that maintains its historic brilliance and elegance even in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Porto Sant'Elpidio im Winter mit dem Komfort einer Sitzheizung. Starten Sie bei Il Castellano in der klaren Morgenluft. Mittags erkunden Sie die prächtige Villa Baruchello, bevor Sie am Papillon die winterliche Meeresstille bewundern. Da die Dämmerung gegen 17:00 Uhr einsetzt, bietet die Fahrt zur Villa Trevisani im Süden den perfekten Abschluss im sanften Winterlicht.",
+            "hu": "Élvezze Porto Sant'Elpidio-t télen az ülésfűtés kényelmével. Kezdjen az Il Castellano-nál a tiszta reggeli levegőben. Délben fedezze fel a pompás Villa Baruchello-t, majd csodálja meg a téli tengeri csendet a Papillon-nál. Mivel 17:00 körül sötétedik, a déli Villa Trevisani felé tartó út tökéletes zárást kínál a lágy téli fényekben.",
+            "ro": "Bucurați-vă de Porto Sant'Elpidio iarna cu confortul mașinii încălzite. Începeți la Il Castellano în aerul curat al dimineții. La prânz, explorați splendida Villa Baruchello, înainte de a admira liniștea mării la Papillon. Deoarece se întunecă în jur de ora 17:00, drumul spre Villa Trevisani oferă încheierea perfectă în lumina blândă de iarnă.",
+            "en": "Enjoy Porto Sant'Elpidio in winter with the comfort of a heated car. Start at Il Castellano in the crisp morning air. At noon, explore the magnificent Villa Baruchello before admiring the winter sea silence at Papillon. As twilight begins around 17:00, the drive to Villa Trevisani in the south provides a perfect conclusion in the soft winter light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Il Castellano",
+                "hu": "Il Castellano",
+                "ro": "Il Castellano",
+                "en": "Il Castellano"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht am Morgen betont die Details der Architektur; ein idealer Startpunkt für Fotos ohne die sommerlichen Touristenmassen.",
+                "hu": "A reggeli lágy téli fény kiemeli az építészet részleteit; ideális kezdőpont fotózáshoz a nyári turistaáradat nélkül.",
+                "ro": "Lumina blândă de iarnă evidențiază detaliile arhitecturale; un punct de plecare ideal pentru fotografii fără aglomerația de vară.",
+                "en": "The soft morning winter light highlights the architectural details; it's an ideal starting point for photos without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Baruchello",
+                "hu": "Villa Baruchello",
+                "ro": "Villa Baruchello",
+                "en": "Villa Baruchello"
+              },
+              "tip_5lang": {
+                "de": "Der Park der Villa wirkt im Winter fast magisch; parken Sie bequem und genießen Sie den Kontrast zwischen Geschichte und Natur.",
+                "hu": "A villa parkja télen szinte varázslatos; parkoljon kényelmesen, és élvezze a történelem és a természet téli kontrasztját.",
+                "ro": "Parcul vilei pare aproape magic iarna; parcați confortabil și bucurați-vă de contrastul dintre istorie și natură.",
+                "en": "The villa's park feels almost magical in winter; park conveniently and enjoy the contrast between history and dormant nature."
+              }
+            },
+            {
+              "name": {
+                "de": "Papillon",
+                "hu": "Papillon",
+                "ro": "Papillon",
+                "en": "Papillon"
+              },
+              "tip_5lang": {
+                "de": "Im Winter herrscht hier eine besondere Ruhe; ein kurzer Stopp am Meer bietet eine weite Sicht über die tiefblaue Adria.",
+                "hu": "Télen különleges nyugalom uralkodik itt; egy rövid megálló a parton tágas kilátást nyújt a mélykék Adriai-tengerre.",
+                "ro": "Iarna aici domnește o liniște aparte; o scurtă oprire la malul mării oferă o vedere amplă asupra Adriaticii de un albastru profund.",
+                "en": "A special tranquility reigns here in winter; a short seaside stop offers a vast view over the deep blue Adriatic Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemaliges Kino-Theater Beniamino Gigli",
+                "hu": "Egykori Beniamino Gigli mozi-színház",
+                "ro": "Fostul cinema-teatru Beniamino Gigli",
+                "en": "Ex cine-teatro Beniamino Gigli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Ort als warmes Kultur-Highlight des Tages; die Innenräume sind im Winter besonders einladend und prunkvoll.",
+                "hu": "Tekintsen erre a helyszínre a nap meleg kulturális csúcspontjaként; a belső terek télen különösen hívogatóak és pompásak.",
+                "ro": "Priviți această locație ca pe punctul cultural culminant al zilei; interioarele sunt deosebit de primitoare și fastuoase iarna.",
+                "en": "View this location as the warm cultural highlight of your day; the interiors are especially inviting and grand during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Erinnerung",
+                "hu": "Az emlékezés emlékműve",
+                "ro": "Monumentul memoriei",
+                "en": "Monumento alla memoria"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal kurz vor Sonnenuntergang; das tiefe Licht des späten Nachmittags verleiht dem Ort eine würdevolle Aura.",
+                "hu": "Látogassa meg az emlékművet röviddel naplemente előtt; a késő délutáni mély fények méltóságteljes aurát kölcsönöznek a helynek.",
+                "ro": "Vizitați monumentul cu puțin timp înainte de apus; lumina joasă a după-amiezii târzii conferă locului o aură plină de demnitate.",
+                "en": "Visit the monument shortly before sunset; the low late-afternoon light lends a dignified and solemn aura to the location."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Trevisani",
+                "hu": "Villa Trevisani",
+                "ro": "Villa Trevisani",
+                "en": "Villa Trevisani"
+              },
+              "tip_5lang": {
+                "de": "Ein herrschaftlicher Abschluss der Wintertour; genießen Sie die historische Atmosphäre, während das Licht der blauen Stunde einsetzt.",
+                "hu": "Fenséges zárása a téli túrának; élvezze a történelmi hangulatot, miközben beáll a kék óra varázslatos fénye.",
+                "ro": "O încheiere fastuoasă a turului de iarnă; bucurați-vă de atmosfera istorică în timp ce se instalează lumina orei albastre.",
+                "en": "A majestic conclusion to your winter tour; soak in the historic atmosphere as the magical light of the blue hour sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Frederikshavn kulturális szívében, mielőtt belevetné magát a karibi hangulatú Reef élményfürdő családbarát szórakozásába.\n\nEzt követően tegyen egy kellemes sétát a part felé, fedezze fel a történelmi Nordre Skanse erődöt, és egy tengerparti piknik során idézze fel a múltat.\n\nA parti ösvény egyenesen a Bunkermúzeum lenyűgöző mélységeibe vezet, amely elgondolkodtató bepillantást nyújt a második világháborús védelmi rendszerekbe.\n\nA bunkerekből felbukkanva zárja a napot a Palmestranden egyedülálló fehér homokján, ahol az egzotikus hangulat tökéletesen megkoronázza a gyalogtúrát.",
         "ro": "Începeți ziua în inima culturală a orașului Frederikshavn înainte de a vă bucura de distracția în familie din parcul acvatic Reef cu tematică caraibiană.\n\nApoi, bucurați-vă de o plimbare plăcută spre coastă pentru a explora istorica Nordre Skanse, imaginându-vă trecutul strategic al orașului în timpul unui picnic.\n\nPoteca de coastă vă conduce direct în adâncurile fascinante ale Bunkermuseet, oferind o privire captivantă asupra sistemelor de apărare din timpul războiului.\n\nIeșiți din buncăre pentru a încheia ziua relaxându-vă pe nisipurile albe unice de la Palmestranden, unde vibrația exotică vă completează perfect turul.",
         "en": "Start your day in the cultural heart of Frederikshavn before diving into the family-friendly fun of the Caribbean-themed Reef waterpark.\n\nAfterward, enjoy a pleasant walk towards the coast to explore the historic Nordre Skanse, imagining the city's strategic past over a seaside picnic.\n\nThe coastal path leads you straight into the intriguing depths of the Bunkermuseet, offering a sobering but fascinating look into World War II defense systems.\n\nEmerge from the bunkers to end your day relaxing on the unique white sands of Palmestranden, where the exotic vibe perfectly caps off your walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Det Musiske Hus geschützt vor dem Regen. Mittags bietet das tropische Bad im The Reef die perfekte Flucht ins Warme. Der Spaziergang zur Nordre Skanse erfordert wasserfeste Kleidung, da der Küstenwind den Regen peitscht. Den Nachmittag verbringen Sie trocken in den Bunkern, bevor der Tag am stürmischen Palmestranden mit einer frischen Meeresbrise endet.",
+            "hu": "A reggelt a Det Musiske Hus kulturális oázisában kezdjük, védve az esőtől. Délben a The Reef trópusi fürdője nyújt tökéletes menedéket és felüdülést. A Nordre Skanse felé vezető út csúszós lehet, így vízálló lábbeli javasolt. Délután a Bunkermúzeum vastag falai között maradunk szárazon, végül a Palmestranden viharos, de látványos tengerparti látképével zárjuk a napot.",
+            "ro": "Dimineața începe la Det Musiske Hus, feriți de ploaie. La prânz, parcul acvatic The Reef oferă o evadare tropicală ideală. Plimbarea spre Nordre Skanse necesită haine impermeabile din cauza vântului de coastă. Petreceți după-amiaza în siguranță în interiorul buncărelor, iar seara admirați spectacolul mării învolburate la Palmestranden, sub adăpostul unei umbrele rezistente.",
+            "en": "Start the morning sheltered at Det Musiske Hus. At noon, The Reef's tropical water park provides the perfect escape from the drizzle. The walk to Nordre Skanse requires waterproof gear as coastal winds pick up. Spend the afternoon exploring the dry interior of the Bunker Museum, and finish the day watching the dramatic rainy sea from the Palmestranden shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Det Musiske Hus",
+                "hu": "Det Musiske Hus",
+                "ro": "Det Musiske Hus",
+                "en": "Det Musiske Hus"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie moderne Kunst und Musik in diesem architektonischen Highlight, das Ihnen ein trockenes und inspirierendes Vormittagserlebnis garantiert.",
+                "hu": "Élvezze a modern művészetet és zenét ebben az építészeti remekműben, amely garantáltan száraz és inspiráló délelőtti élményt nyújt.",
+                "ro": "Bucurați-vă de artă modernă și muzică în acest punct de reper arhitectural, care vă garantează o dimineață uscată și plină de inspirație.",
+                "en": "Enjoy modern art and music in this architectural highlight, which guarantees a dry and inspiring morning experience regardless of the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Quality Hotel™ The Reef",
+                "hu": "Quality Hotel™ The Reef",
+                "ro": "Quality Hotel™ The Reef",
+                "en": "Quality Hotel™ The Reef"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in das karibische Wasserparadies und vergessen Sie den Regen draußen; ideal für Familien, die Wärme und Feuchtigkeit suchen.",
+                "hu": "Merüljön el a karibi vízi paradicsomban, és felejtse el a kinti esőt; ideális családoknak, akik trópusi melegre és vidámságra vágynak.",
+                "ro": "Scufundați-vă în paradisul acvatic caraibian și uitați de ploaia de afară; ideal pentru familiile care caută căldură și distracție la interior.",
+                "en": "Dive into the Caribbean water paradise and forget the rain outside; ideal for families seeking tropical warmth and humidity on a wet day."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordre Skanse",
+                "hu": "Nordre Skanse",
+                "ro": "Nordre Skanse",
+                "en": "Nordre Skanse"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Wälle mit festem Schuhwerk, da die Graswege bei Regen rutschig werden können, aber eine tolle Aussicht bieten.",
+                "hu": "Fedezze fel a történelmi sáncokat stabil lábbeliben, mivel a füves utak esőben csúszósak lehetnek, de a kilátás így is lenyűgöző.",
+                "ro": "Explorați meterezele istorice cu încălțăminte stabilă, deoarece cărările cu iarbă pot deveni alunecoase pe ploaie, dar oferă o priveliște superbă.",
+                "en": "Explore the historic ramparts with sturdy footwear, as the grassy paths can become slippery in the rain, though the views remain stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkermuseet",
+                "hu": "Bunkermuseet",
+                "ro": "Bunkermuseet",
+                "en": "Bunkermuseet"
+              },
+              "tip_5lang": {
+                "de": "Diese massiven Betonbauten sind der perfekte Zufluchtsort vor dem Wetter und bieten eine bedrückende, aber faszinierende Reise in die Geschichte.",
+                "hu": "Ezek a masszív betonépítmények tökéletes menedéket nyújtanak az időjárás elől, miközben lenyűgöző és komor történelmi utazást ígérnek.",
+                "ro": "Aceste structuri masive de beton sunt refugiul perfect împotriva vremii, oferind o călătorie istorică fascinantă și ferită de umezeală.",
+                "en": "These massive concrete structures are the perfect sanctuary from the weather, offering a fascinating and somber journey through history."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmestranden",
+                "hu": "Palmestranden",
+                "ro": "Palmestranden",
+                "en": "Palmestranden"
+              },
+              "tip_5lang": {
+                "de": "Die Palmen wirken im Regen fast surreal; machen Sie ein schnelles Foto vom Steg aus und genießen Sie die raue, nordische Meeresatmosphäre.",
+                "hu": "A pálmák szinte szürreálisak az esőben; készítsen egy gyors fotót a mólóról, és élvezze a nyers, északi tengeri hangulatot.",
+                "ro": "Palmierii par aproape ireali în ploaie; faceți o fotografie rapidă de pe ponton și bucurați-vă de atmosfera brută a mării nordice.",
+                "en": "The palm trees look almost surreal in the rain; take a quick photo from the pier and enjoy the raw, atmospheric Nordic seaside vibe."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen im Det Musiske Hus erwärmt die Seele mit Kultur. Mittags ist das karibische Klima im The Reef ein absolutes Muss, um dem dänischen Frost zu entkommen. Besuchen Sie die Nordre Skanse zügig, bevor die Dämmerung gegen 16:00 Uhr einsetzt. Die Bunkermuseen bieten Windschutz, während der Palmestranden im Winterlicht eine magisch-einsame Kulisse für den Abend bildet.",
+            "hu": "A hűvös reggelen a Det Musiske Hus kulturális programjai melengetik a lelket. Délben a The Reef karibi klímája kötelező program a dán fagy elől menekülőknek. A Nordre Skanse bástyáit még a korai, 16 órai sötétedés előtt keressük fel. A Bunkermúzeum falai védenek a jeges széltől, a Palmestranden pedig téli fényekben úszó, varázslatosan magányos zárása a napnak.",
+            "ro": "O dimineață răcoroasă la Det Musiske Hus vă încălzește sufletul cu evenimente culturale. La prânz, climatul caraibian de la The Reef este esențial pentru a scăpa de gerul danez. Vizitați Nordre Skanse rapid, înainte ca întunericul să se lase în jurul orei 16:00. Buncărele oferă adăpost împotriva vântului tăios, iar Palmestranden oferă un cadru hibernal magic și solitar.",
+            "en": "A crisp winter morning at Det Musiske Hus warms the soul with culture. At noon, the Caribbean climate of The Reef is a must to escape the Danish frost. Visit Nordre Skanse briskly before the early sunset at 4 PM. The Bunker Museum provides shelter from the icy wind, while Palmestranden offers a magically lonely and lit-up backdrop for a winter evening stroll."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Det Musiske Hus",
+                "hu": "Det Musiske Hus",
+                "ro": "Det Musiske Hus",
+                "en": "Det Musiske Hus"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer heißen Tasse Kaffee im Foyer auf, während Sie das lokale Kulturprogramm in gemütlicher Atmosphäre genießen.",
+                "hu": "Melegedjen fel egy csésze forró kávéval az előcsarnokban, miközben a helyi kulturális programokat élvezi barátságos környezetben.",
+                "ro": "Încălziți-vă cu o ceașcă de cafea fierbinte în foier în timp ce vă bucurați de programul cultural local într-o atmosferă primitoare.",
+                "en": "Warm up with a hot cup of coffee in the foyer while enjoying the local cultural program in a cozy and heated indoor atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Quality Hotel™ The Reef",
+                "hu": "Quality Hotel™ The Reef",
+                "ro": "Quality Hotel™ The Reef",
+                "en": "Quality Hotel™ The Reef"
+              },
+              "tip_5lang": {
+                "de": "Der ultimative Winter-Hack: Tauschen Sie Schnee gegen Sand und genießen Sie die Saunen, um die Körpertemperatur wieder aufzuladen.",
+                "hu": "A végső téli tipp: cserélje a havat homokra, és használja a szaunákat a test hőmérsékletének és energiájának helyreállításához.",
+                "ro": "Sfatul suprem pentru iarnă: schimbați zăpada pe nisip și profitați de saune pentru a vă reîncărca temperatura corporală.",
+                "en": "The ultimate winter hack: swap snow for sand and enjoy the saunas to recharge your body temperature after the cold morning walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordre Skanse",
+                "hu": "Nordre Skanse",
+                "ro": "Nordre Skanse",
+                "en": "Nordre Skanse"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung; die historische Schanze ist im Winter sehr zugig, bietet aber einen klaren Blick auf den gefrorenen Hafen.",
+                "hu": "Viseljen szélálló ruházatot; a történelmi sánc télen nagyon huzatos, de tiszta időben csodás kilátást nyújt a fagyos kikötőre.",
+                "ro": "Purtați haine rezistente la vânt; fortăreața istorică este foarte expusă iarna, dar oferă o vedere clară asupra portului înghețat.",
+                "en": "Wear windproof layers; the historic ramparts are very breezy in winter, but offer a clear and crisp view of the frozen harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkermuseet",
+                "hu": "Bunkermuseet",
+                "ro": "Bunkermuseet",
+                "en": "Bunkermuseet"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern isolieren überraschend gut gegen den Winterwind; bringen Sie eine Taschenlampe mit, um die dunklen Ecken besser zu erkunden.",
+                "hu": "A vastag falak meglepően jól szigetelnek a téli szél ellen; hozzon zseblámpát, hogy a sötét sarkokat alaposabban felfedezhesse.",
+                "ro": "Pereții groși izolează surprinzător de bine împotriva vântului de iarnă; aduceți o lanternă pentru a explora colțurile întunecate.",
+                "en": "The thick walls insulate surprisingly well against the winter wind; bring a flashlight to better explore the dark corners during early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmestranden",
+                "hu": "Palmestranden",
+                "ro": "Palmestranden",
+                "en": "Palmestranden"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille des Strandes; die Palmen sind winterfest verpackt oder eingelagert, was dem Ort eine ganz eigene Ruhe verleiht.",
+                "hu": "Tapasztalja meg a strand csendjét; a pálmákat télen elcsomagolják, ami különleges, békés hangulatot kölcsönöz a havas partnak.",
+                "ro": "Experimentați liniștea plajei; palmierii sunt protejați sau depozitați iarna, oferind locului o atmosferă de calm absolut și solitudine.",
+                "en": "Experience the silence of the beach; the palms are wrapped or stored in winter, giving the snow-dusted shore a unique and peaceful vibe."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Pattanjon nyeregbe egy tartalmas reggelért egy hagyományos 19. századi farmmúzeumban, amelyet egy rövid tekerés követ a város pezsgő kulturális központjába.\n\nTekerjen a vízpartra, ahol a 17. századi Nordre Skanse erődítmények várnak, fantasztikus szellős helyeket kínálva a kerékpáros pihenéshez.\n\nBringázzon északabbra, és fedezze fel a hatalmas második világháborús bunkerkomplexumot, majd hűsöljön a váratlanul trópusi hangulatú Palmestranden strandon.\n\nZárja az aktív kerékpáros napot egy vidám játékkal a gyönyörűen karbantartott kaland minigolfpályán, amely csak egy kőhajításnyira van a strandtól.",
         "ro": "Urcați în șa pentru o dimineață captivantă la un muzeu agricol tradițional, urmată de o scurtă plimbare către centrul cultural vibrant al orașului.\n\nPedalați spre malul apei unde vă așteaptă fortificațiile Nordre Skanse din secolul al XVII-lea, oferind locuri fantastice și răcoroase pentru a vă odihni.\n\nMergeți mai spre nord pentru a explora vastul complex de buncăre, apoi răcoriți-vă mergând pe plaja Palmestranden, cu atmosfera sa neașteptat de tropicală.\n\nCompletați itinerariul activ de ciclism cu o sesiune plină de distracție la terenul de minigolf frumos întreținut, aflat la o aruncătură de băț de plajă.",
         "en": "Saddle up for an immersive morning starting at a traditional 19th-century farm museum, followed by a quick ride into the town's vibrant cultural center.\n\nPedal your way to the waterfront where the 17th-century Nordre Skanse fortifications await, offering fantastic breezy spots to rest with your bicycle.\n\nRide further north to delve into the vast World War II bunker complex, then cool down by rolling over to the unexpectedly tropical Palmestranden beach.\n\nComplete your active biking itinerary with a fun-filled session at the beautifully maintained adventure mini-golf course just a stone's throw from the beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Hafenwegen. Der Tag beginnt historisch in Sognefogedgården, bevor Sie im Musiske Hus Schutz suchen. Die Fahrt zur Nordre Skanse ist kurz, aber nass. Nachmittags bieten die Bunker trockene Erkundungsmöglichkeiten. Der Strandbesuch wird kurz gehalten, gefolgt von einer Runde Minigolf, sofern die Bahnen nicht zu überflutet sind.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a kikötői utakon. A nap a Sognefogedgårdenben indul, majd a Musiske Husban keresünk menedéket. A Nordre Skanse felé vezető út rövid, de vizes lesz. Délután a bunkerek száraz felfedezést kínálnak. A tengerparti látogatást rövidre fogjuk, majd egy kör minigolf következik, ha a pályák nem túl vizesek.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile din port. Ziua începe istoric la Sognefogedgården, apoi căutați adăpost la Musiske Hus. Drumul spre Nordre Skanse este scurt, dar ud. După-amiaza, buncărele oferă explorări ferite de ploaie. Vizita la plajă va fi scurtă, urmată de o partidă de minigolf dacă terenurile nu sunt inundate.",
+            "en": "Cycling in the rain requires caution on the harbor paths. The day starts historically at Sognefogedgården before seeking shelter at Det Musiske Hus. The ride to Nordre Skanse is short but wet. In the afternoon, the bunkers offer dry exploration. Keep the beach visit brief, followed by a round of adventure golf if the tracks aren't too soaked."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sognefogedgården",
+                "hu": "Sognefogedgården",
+                "ro": "Sognefogedgården",
+                "en": "Sognefogedgården"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Bauernhaus bietet viele überdachte Bereiche; parken Sie Ihr Rad nah am Eingang, um schnell ins Trockene zu kommen.",
+                "hu": "Ez a történelmi tanyaház számos fedett résszel rendelkezik; parkoljon közel a bejárathoz, hogy gyorsan száraz helyre kerüljön.",
+                "ro": "Această fermă istorică are multe zone acoperite; parcați bicicleta aproape de intrare pentru a ajunge rapid la adăpost.",
+                "en": "This historic farmhouse offers many covered areas; park your bike close to the entrance to quickly get inside away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Det Musiske Hus",
+                "hu": "Det Musiske Hus",
+                "ro": "Det Musiske Hus",
+                "en": "Det Musiske Hus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um Ihre nassen Regensachen aufzuhängen, während Sie die kulturellen Ausstellungen im Inneren bewundern.",
+                "hu": "Használja a ruhatárat a vizes esőkabátok felakasztására, miközben bent a kulturális kiállításokat csodálja meg.",
+                "ro": "Folosiți garderoba pentru a vă lăsa hainele de ploaie umede în timp ce admirați expozițiile culturale din interior.",
+                "en": "Use the cloakroom to hang up your wet rain gear while you admire the cultural exhibitions and architecture inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordre Skanse",
+                "hu": "Nordre Skanse",
+                "ro": "Nordre Skanse",
+                "en": "Nordre Skanse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Radweg auf Pfützen; die befestigten Wege um die Schanze sind auch bei Regen gut befahrbar, aber windanfällig.",
+                "hu": "Ügyeljen a tócsákra a kerékpárúton; a sánc körüli burkolt utak esőben is jól járhatóak, de fokozottan szelesek.",
+                "ro": "Atenție la bălți pe pista de biciclete; drumurile pavate din jurul fortăreței sunt practicabile pe ploaie, dar expuse vântului.",
+                "en": "Watch out for puddles on the cycle path; the paved tracks around the ramparts are navigable in rain but very exposed to wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkermuseet",
+                "hu": "Bunkermuseet",
+                "ro": "Bunkermuseet",
+                "en": "Bunkermuseet"
+              },
+              "tip_5lang": {
+                "de": "Die Bunker bieten exzellenten Schutz vor Regenschauern; nehmen Sie sich Zeit für die Innenräume, während es draußen stürmt.",
+                "hu": "A bunkerek kiváló védelmet nyújtanak a záporok elől; szánjon időt a belső terekre, amíg odakint tombol az ítéletidő.",
+                "ro": "Buncărele oferă o protecție excelentă împotriva averselor; acordați timp explorării interiorului cât timp afară plouă torențial.",
+                "en": "The bunkers offer excellent protection from rain showers; take your time exploring the interiors while it storms outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmestranden",
+                "hu": "Palmestranden",
+                "ro": "Palmestranden",
+                "en": "Palmestranden"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem Sandboden nahe des Strandes; bei Regen wird der Untergrund fest, kann aber rutschige Algen enthalten.",
+                "hu": "Óvatosan tekerjen a strand közeli homokos talajon; az esőtől tömörödik az út, de a hordalék csúszóssá teheti a felületet.",
+                "ro": "Pedalați cu grijă pe solul nisipos de lângă plajă; ploaia îl compactează, dar algele aduse de valuri pot fi alunecoase.",
+                "en": "Cycle carefully on the sandy ground near the beach; rain packs the sand down, but washed-up seaweed can make it slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Frederikshavn Adventure Minigolf",
+                "hu": "Frederikshavn Adventure Minigolf",
+                "ro": "Frederikshavn Adventure Minigolf",
+                "en": "Frederikshavn Adventure Minigolf"
+              },
+              "tip_5lang": {
+                "de": "Einige Bahnen haben Überdachungen; spielen Sie eine schnelle Runde und nutzen Sie die Kiosknähe für einen rettenden Unterstand.",
+                "hu": "Néhány pálya fedett; játsszon egy gyors kört, és használja a kioszk közelségét, ha hirtelen eleredne az eső.",
+                "ro": "Unele piste au porțiuni acoperite; jucați o rundă rapidă și folosiți chioșcul din apropiere ca adăpost dacă ploaia se întețește.",
+                "en": "Some tracks have partial cover; play a quick round and stay near the kiosk for a swift retreat if the downpour intensifies."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bedeutet kalte Finger am Lenker, aber klare Luft. Starten Sie gemütlich in Sognefogedgården. Das Musiske Hus bietet mittags die nötige Aufwärmpause. Besichtigen Sie die Nordre Skanse zügig, da der eisige Seewind beißt. Nachmittags schützen die Bunker vor dem Wind. Beenden Sie die Tour am Palmestranden und beim Minigolf, bevor es um 17:00 Uhr stockfinster wird.",
+            "hu": "A téli biciklizés fagyos ujjakat, de tiszta levegőt jelent. Kezdjen kényelmesen a Sognefogedgårdenben. A Musiske Hus délben biztosítja a szükséges melegedőt. A Nordre Skanse megtekintését fogja rövidre a jeges tengeri szél miatt. Délután a bunkerek védenek a huzattól. Zárja a túrát a Palmestranden-nél és a minigolfnál, mielőtt 17 órakor teljesen besötétedik.",
+            "ro": "Ciclismul iarna înseamnă degete înghețate, dar aer curat. Începeți relaxat la Sognefogedgården. Musiske Hus oferă pauza de încălzire necesară la prânz. Vizitați Nordre Skanse rapid, deoarece vântul înghețat de mare este tăios. După-amiaza, buncărele vă protejează de vânt. Încheiați turul la Palmestranden și minigolf înainte de întunericul de la ora 17:00.",
+            "en": "Winter cycling means frozen fingers but crisp air. Start your tour at Sognefogedgården. Det Musiske Hus provides a necessary warm-up break at noon. Keep your Nordre Skanse visit brief due to the biting sea wind. In the afternoon, the bunkers provide a shield from the draft. Finish at Palmestranden and the minigolf course before total darkness at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sognefogedgården",
+                "hu": "Sognefogedgården",
+                "ro": "Sognefogedgården",
+                "en": "Sognefogedgården"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Innenräume, um zu sehen, wie man früher den harten dänischen Winter ohne moderne Heizung überlebte.",
+                "hu": "Látogasson el a belső terekbe, hogy lássa, hogyan élték túl egykor a zord dán telet modern fűtés nélkül.",
+                "ro": "Vizitați interioarele pentru a vedea cum supraviețuiau oamenii iernilor daneze aspre în trecut, fără încălzire modernă.",
+                "en": "Visit the indoor areas to see how people survived the harsh Danish winters in the past without modern heating systems."
+              }
+            },
+            {
+              "name": {
+                "de": "Det Musiske Hus",
+                "hu": "Det Musiske Hus",
+                "ro": "Det Musiske Hus",
+                "en": "Det Musiske Hus"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um die Handschuhe zu trocknen und die Beine aufzuwärmen, während man dänisches Design und Kultur genießt.",
+                "hu": "Ideális hely a kesztyűk szárítására és a lábak felmelegítésére, miközben a dán designt és kultúrát élvezi.",
+                "ro": "Locul ideal pentru a vă usca mănușile și a vă încălzi picioarele în timp ce vă bucurați de designul și cultura daneză.",
+                "en": "The ideal spot to dry your gloves and warm up your legs while enjoying Danish design and local cultural exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordre Skanse",
+                "hu": "Nordre Skanse",
+                "ro": "Nordre Skanse",
+                "en": "Nordre Skanse"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost glatt sein; parken Sie das Rad sicher und genießen Sie kurz den klaren Winterblick über das Kattegat.",
+                "hu": "Fagy esetén az utak csúszósak lehetnek; parkoljon le biztonságosan, és élvezze rövid ideig a tiszta téli kilátást a Kattegat felé.",
+                "ro": "Cărările pot fi alunecoase în caz de îngheț; parcați bicicleta în siguranță și admirați vederea clară de iarnă peste Kattegat.",
+                "en": "Paths can be slippery when frozen; park your bike securely and briefly enjoy the crisp winter view over the Kattegat sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkermuseet",
+                "hu": "Bunkermuseet",
+                "ro": "Bunkermuseet",
+                "en": "Bunkermuseet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bunker als Windschutz beim Abstellen der Räder; im Inneren herrscht eine konstante, wenn auch kühle Temperatur.",
+                "hu": "Használja a bunkereket szélfogónak a biciklik leállításakor; bent állandó, bár hűvös hőmérséklet uralkodik télen is.",
+                "ro": "Folosiți buncărele ca paravânt când lăsați bicicletele; în interior este o temperatură constantă, deși destul de răcoroasă.",
+                "en": "Use the bunkers as a windbreak when parking your bikes; inside, the temperature remains constant, though cool, even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmestranden",
+                "hu": "Palmestranden",
+                "ro": "Palmestranden",
+                "en": "Palmestranden"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne ist fantastisch für Fotos; ziehen Sie sich warm an, da der Wind hier besonders eisig weht.",
+                "hu": "Az alacsonyan járó nap fénye fantasztikus a fotókhoz; öltözzön rétegesen, mert a szél itt különösen jegesen fúj a tenger felől.",
+                "ro": "Lumina soarelui jos este fantastică pentru fotografii; îmbrăcați-vă gros, deoarece vântul bate deosebit de înghețat aici.",
+                "en": "The low winter sun provides fantastic light for photos; dress warmly as the wind here is particularly biting coming off the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Frederikshavn Adventure Minigolf",
+                "hu": "Frederikshavn Adventure Minigolf",
+                "ro": "Frederikshavn Adventure Minigolf",
+                "en": "Frederikshavn Adventure Minigolf"
+              },
+              "tip_5lang": {
+                "de": "Spielen Sie zügig, bevor die Finger zu kalt werden; eine heiße Schokolade am Kiosk danach ist die perfekte Belohnung.",
+                "hu": "Játsszon gyorsan, mielőtt az ujjai túlságosan lehűlnének; egy forró csokoládé a kioszknál a tökéletes jutalom utána.",
+                "ro": "Jucați rapid înainte ca degetele să vă înghețe; un ciocolată caldă la chioșc după partidă este recompensa perfectă.",
+                "en": "Play quickly before your fingers get too cold; a hot chocolate at the kiosk afterwards is the perfect winter reward."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Használja ki a napot, vezessen a külvárosba a vaskori pincék felfedezéséhez, mielőtt elmerülne a Sognefogedgården autentikus vidéki történelmében.\n\nVezessen kényelmesen vissza a városközpontba egy adag kultúráért a Det Musiske Husban, majd hamarosan parkoljon le a történelmi Nordre Skanse partvidékén.\n\nÉlvezze az autó kényelmét, és ugorjon át a kiterjedt part menti bunkerhálózatból a helyi strand híres, pálmafákkal szegélyezett homokos partjára.\n\nZárja a nagy autós túrát azzal, hogy a családot a FunHouse-ba viszi, egy kolosszális fedett játszóparkba, amely garantáltan fárasztó, de szórakoztató befejezés.",
         "ro": "Maximizați-vă ziua conducând spre periferie pentru a descoperi pivnițe antice din Epoca Fierului înainte de a păși în istoria rurală autentică a Sognefogedgården.\n\nConduceți ușor înapoi în centrul orașului pentru o doză de cultură la Det Musiske Hus, iar apoi parcați lângă meterezele de coastă istorice de la Nordre Skanse.\n\nFolosiți confortul vehiculului pentru a sări rapid de la rețeaua extinsă de buncăre de coastă la faimosul nisip cu palmieri al plajei locale.\n\nÎncheiați marele tur cu mașina lăsând familia la FunHouse, un parc de joacă interior colosal care garantează o concluzie plină de distracție și energie.",
         "en": "Maximize your day driving to the outskirts to uncover ancient Iron Age cellars before stepping into the authentic rural history of Sognefogedgården.\n\nDrive easily back to the city center for a dose of culture at Det Musiske Hus, and soon after, park by the historic coastal ramparts of Nordre Skanse.\n\nUse your vehicle's convenience to seamlessly hop from the extensive coastal bunker network to the famous palm-fringed sands of the local beach.\n\nEnd your grand driving tour by dropping off the family at FunHouse, a colossal indoor playpark that guarantees a satisfyingly exhaustingly fun conclusion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund gegen den Dauerregen. Starten Sie bei den Jernalderkældrene im Untergrund. Weiter geht es zum Sognefogedgården und Musiske Hus, wobei Sie direkt vor den Eingängen parken können. Nachmittags erkunden Sie die Bunker – ein kurzer Sprint vom Auto ins Trockene. Der Tag endet bequem im FunHouse, wo der Regen draußen keine Rolle spielt.",
+            "hu": "Az autó ma a legjobb barátja a tartós eső ellen. Kezdjen a Jernalderkældrene földalatti világában. Folytassa a Sognefogedgården és a Musiske Hus felé, ahol közvetlenül a bejáratoknál parkolhat. Délután fedezze fel a bunkereket – csak egy rövid sprint az autótól a szárazig. A nap kényelmesen a FunHouse-ban ér véget, ahol a kinti eső már nem számít.",
+            "ro": "Mașina este astăzi cel mai bun prieten împotriva ploii persistente. Începeți la Jernalderkældrene, în subteran. Continuați spre Sognefogedgården și Musiske Hus, unde puteți parca chiar la intrare. După-amiaza explorați buncărele – un scurt sprint de la mașină la adăpost. Ziua se încheie confortabil la FunHouse, unde ploaia de afară nu contează.",
+            "en": "The car is your best friend today against the persistent rain. Start underground at Jernalderkældrene. Continue to Sognefogedgården and Det Musiske Hus, parking right by the entrances. In the afternoon, explore the bunkers – just a short sprint from the car to the dry interior. The day ends comfortably at FunHouse, where the rain outside doesn't matter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jernalderkældrene",
+                "hu": "Jernalderkældrene",
+                "ro": "Jernalderkældrene",
+                "en": "Jernalderkældrene"
+              },
+              "tip_5lang": {
+                "de": "Diese unterirdischen Keller sind absolut regensicher; tauchen Sie tief in die Eisenzeit ein, während es oben schüttet.",
+                "hu": "Ezek a földalatti pincék teljesen esőbiztosak; merüljön el a vaskorban, miközben odafent szakad az eső.",
+                "ro": "Aceste pivnițe subterane sunt complet ferite de ploaie; scufundați-vă în epoca fierului în timp ce afară toarnă cu găleata.",
+                "en": "These underground cellars are completely rainproof; dive deep into the Iron Age while it pours down above ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Sognefogedgården",
+                "hu": "Sognefogedgården",
+                "ro": "Sognefogedgården",
+                "en": "Sognefogedgården"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Platz; der Weg zum Haupthaus ist kurz, sodass Sie kaum nass werden, wenn Sie schnell sind.",
+                "hu": "Parkoljon a szilárd burkolatú helyen; a főépülethez vezető út rövid, így alig lesz vizes, ha elég gyorsan lép.",
+                "ro": "Parcați pe locul pavat; drumul spre clădirea principală este scurt, deci abia dacă vă veți uda dacă vă mișcați repede.",
+                "en": "Park on the paved area; the walk to the farmhouse is short, so you'll barely get wet if you make a quick dash for the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Det Musiske Hus",
+                "hu": "Det Musiske Hus",
+                "ro": "Det Musiske Hus",
+                "en": "Det Musiske Hus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus; so gelangen Sie fast vollständig überdacht zu den kulturellen Schätzen im Inneren.",
+                "hu": "Használja a közeli parkolóházat; így szinte végig fedett úton juthat el a bent található kulturális kincsekhez.",
+                "ro": "Folosiți parcarea multietajată din apropiere; astfel veți ajunge aproape complet la adăpost la comorile culturale din interior.",
+                "en": "Use the nearby parking garage; this allows you to reach the cultural treasures inside via an almost entirely covered path."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordre Skanse",
+                "hu": "Nordre Skanse",
+                "ro": "Nordre Skanse",
+                "en": "Nordre Skanse"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen kurz im Auto, um die Aussicht auf den Hafen zu genießen, bevor Sie einen kurzen Rundgang wagen.",
+                "hu": "Heves esőben maradjon az autóban, és élvezze a kikötői kilátást, mielőtt tenné egy rövid, esernyős kört a sáncokon.",
+                "ro": "Dacă plouă torențial, rămâneți scurt în mașină pentru a admira portul înainte de a risca o plimbare scurtă cu umbrela.",
+                "en": "In heavy rain, stay in the car briefly to enjoy the harbor view before attempting a short, umbrella-clad walk on the ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkermuseet",
+                "hu": "Bunkermuseet",
+                "ro": "Bunkermuseet",
+                "en": "Bunkermuseet"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz am Museum vor; die Bunker bieten im Inneren Schutz vor Wind und Wetter während Ihrer Erkundung.",
+                "hu": "Hajtson egészen a múzeum parkolójáig; a bunkerek belseje védelmet nyújt a szél és az eső elől a felfedezés során.",
+                "ro": "Conduceți până la parcarea muzeului; interiorul buncărelor oferă protecție împotriva vântului și ploii pe durata explorării.",
+                "en": "Drive right up to the museum parking lot; the bunker interiors provide solid protection from wind and rain during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmestranden",
+                "hu": "Palmestranden",
+                "ro": "Palmestranden",
+                "en": "Palmestranden"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick aufs Meer; genießen Sie die stürmische See bei einer warmen Heizung im Auto, bevor Sie kurz zum Ufer gehen.",
+                "hu": "Parkoljon tengerre néző hellyel; élvezze a viharos tengert a meleg autóban ülve, mielőtt kisétálna a partra.",
+                "ro": "Parcați cu fața la mare; admirați marea învolburată din confortul mașinii încălzite înainte de a ieși scurt pe mal.",
+                "en": "Park facing the sea; enjoy the dramatic stormy waters from the warmth of your car before taking a short walk to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "FunHouse",
+                "hu": "FunHouse",
+                "ro": "FunHouse",
+                "en": "FunHouse"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Ziel bei Regen; während die Kinder sich austoben, können Sie im trockenen Café entspannen und dem Regen lauschen.",
+                "hu": "A végső úticél esőben; amíg a gyerekek kitombolják magukat, Ön a száraz kávézóban pihenhet és hallgathatja az eső kopogását.",
+                "ro": "Destinația supremă pe ploaie; în timp ce copiii se joacă, vă puteți relaxa în cafeneaua uscată ascultând ploaia de afară.",
+                "en": "The ultimate rainy day destination; while the kids play, you can relax in the dry cafe and listen to the rain on the roof."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres geheizten Autos zwischen den winterlichen Highlights. Nach den Jernalderkældrene bietet der Sognefogedgården historischen Charme. Mittags wärmen Sie sich im Musiske Hus auf. Die Nordre Skanse besuchen Sie am besten zügig vor dem frühen Sonnenuntergang. Nach den windgeschützten Bunkern und dem Palmestranden bietet das FunHouse den idealen Abschluss im Warmen.",
+            "hu": "Élvezze a fűtött autó kényelmét a téli látnivalók között. A Jernalderkældrene után a Sognefogedgården kínál történelmi bájt. Délben melegedjen fel a Musiske Hus-ban. A Nordre Skanse-t érdemes a korai naplemente előtt felkeresni. A szélvédett bunkerek és a Palmestranden után a FunHouse nyújt ideális, meleg zárást a napnak.",
+            "ro": "Bucurați-vă de confortul mașinii încălzite între punctele de atracție hibernale. După Jernalderkældrene, Sognefogedgården oferă farmec istoric. La prânz, încălziți-vă la Musiske Hus. Vizitați Nordre Skanse rapid înainte de apusul timpuriu. După buncăre și Palmestranden, FunHouse oferă încheierea ideală la căldură.",
+            "en": "Enjoy the comfort of your heated car between the winter highlights. After Jernalderkældrene, Sognefogedgården offers historical charm. Warm up at Det Musiske Hus at noon. Visit Nordre Skanse briskly before the early sunset. After the sheltered bunkers and Palmestranden, FunHouse provides the perfect warm finish to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jernalderkældrene",
+                "hu": "Jernalderkældrene",
+                "ro": "Jernalderkældrene",
+                "en": "Jernalderkældrene"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur unter der Erde ist im Winter oft milder als draußen; ideal, um die Tour ohne Frostbeulen zu beginnen.",
+                "hu": "A föld alatti hőmérséklet télen gyakran enyhébb, mint kint; ideális a túra fagyoskodás nélküli megkezdéséhez.",
+                "ro": "Temperatura subterană este adesea mai blândă iarna decât afară; ideal pentru a începe turul fără a îngheța.",
+                "en": "The underground temperature is often milder than the outside air in winter; ideal for starting your tour without freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Sognefogedgården",
+                "hu": "Sognefogedgården",
+                "ro": "Sognefogedgården",
+                "en": "Sognefogedgården"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die weihnachtlich oder winterlich dekorierten Fenster des Hofes, die in der nordischen Dunkelheit besonders hell leuchten.",
+                "hu": "Csodálja meg a tanya karácsonyi vagy téli díszítésű ablakait, amelyek a skandináv sötétségben különösen fényesen ragyognak.",
+                "ro": "Admirați ferestrele fermei decorate de iarnă, care strălucesc deosebit de frumos în întunericul nordic timpuriu.",
+                "en": "Admire the farmhouse windows decorated for winter, which shine especially bright in the early Nordic darkness of the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Det Musiske Hus",
+                "hu": "Det Musiske Hus",
+                "ro": "Det Musiske Hus",
+                "en": "Det Musiske Hus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto, um sich bei einer kulturellen Pause im gut beheizten Gebäude komplett aufzuwärmen.",
+                "hu": "Használja ki a rövid sétát az autótól, hogy a jól fűtött épületben egy kulturális szünet alatt teljesen felmelegedjen.",
+                "ro": "Profitați de drumul scurt de la mașină pentru a vă încălzi complet în clădirea bine încălzită în timpul pauzei culturale.",
+                "en": "Take advantage of the short walk from the car to fully warm up in the well-heated building during your cultural break."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordre Skanse",
+                "hu": "Nordre Skanse",
+                "ro": "Nordre Skanse",
+                "en": "Nordre Skanse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz; die Aussicht auf das winterliche Meer ist vom Auto aus ebenso beeindruckend.",
+                "hu": "Ügyeljen a jeges foltokra a parkolóban; a téli tenger látványa az autóból nézve is ugyanolyan lenyűgöző és drámai.",
+                "ro": "Atenție la porțiunile înghețate din parcare; vederea mării hibernale este la fel de impresionantă și din interiorul mașinii.",
+                "en": "Watch out for icy patches in the parking lot; the view of the winter sea is just as impressive from inside your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunkermuseet",
+                "hu": "Bunkermuseet",
+                "ro": "Bunkermuseet",
+                "en": "Bunkermuseet"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Betonwände halten den eisigen Wind fern; bringen Sie warme Kleidung für die Besichtigung der kalten Innenräume mit.",
+                "hu": "A vastag betonfalak távol tartják a jeges szelet; öltözzön melegen a hideg belső terek alapos megtekintéséhez.",
+                "ro": "Pereții groși de beton țin la distanță vântul înghețat; îmbrăcați-vă gros pentru vizitarea interioarelor reci ale buncărelor.",
+                "en": "The thick concrete walls keep the icy wind away; dress in layers for the visit as the interiors remain quite cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmestranden",
+                "hu": "Palmestranden",
+                "ro": "Palmestranden",
+                "en": "Palmestranden"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den 'Blue Hour' Effekt direkt am Meer; die Beleuchtung am Strand sorgt für eine mystische Winteratmosphäre.",
+                "hu": "Élvezze a 'kék óra' hatást közvetlenül a tengerparton; a strand világítása misztikus téli hangulatot áraszt sötétedéskor.",
+                "ro": "Bucurați-vă de efectul 'ora albastră' chiar la malul mării; iluminarea plajei creează o atmosferă hibernală mistică.",
+                "en": "Enjoy the 'Blue Hour' effect right by the sea; the beach lighting creates a mystical winter atmosphere as darkness falls."
+              }
+            },
+            {
+              "name": {
+                "de": "FunHouse",
+                "hu": "FunHouse",
+                "ro": "FunHouse",
+                "en": "FunHouse"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag im Warmen ausklingen zu lassen; parken Sie direkt davor und flüchten Sie schnell in die wohlige Wärme.",
+                "hu": "Tökéletes hely a nap melegben való lezárásához; parkoljon közvetlenül előtte, és meneküljön be a barátságos melegbe.",
+                "ro": "Locul perfect pentru a încheia ziua la căldură; parcați direct în față și intrați rapid în atmosfera primitoare și caldă.",
+                "en": "The perfect spot to end the day in the warmth; park right in front and make a quick retreat into the cozy indoor heat."
+              }
+            }
+          ]
+        }
       }
     }
   }

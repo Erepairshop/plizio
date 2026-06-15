@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Saint-Amand-Montrond spirituális és kulturális szívének felfedezésével, megcsodálva a történelmi templomot és a gazdag múzeumi gyűjteményeket.\n\nA dél a város kiemelkedő középkori öröksége felé csábít, ahol a várromok lenyűgöző kilátást és bepillantást nyújtanak az elmúlt évszázadokba.\n\nA délután folyamán a régi kövek helyett a modern ipar ragyogása felé fordulhat a város híres arany- és ékszerkomplexumában.\n\nZárja a napot a természet megnyugtató közelségében, történelmi vízi utak vagy békés tavak mentén sétálva, miközben az este csendesen leszáll.",
         "ro": "Începeți dimineața explorând inima spirituală și culturală din Saint-Amand-Montrond, admirând biserica istorică și colecțiile bogate ale muzeului.\n\nAmiaza vă invită la o tranziție către moștenirea medievală a orașului, unde ruinele castelului oferă panorame vaste și o privire în secolele trecute.\n\nPe măsură ce după-amiaza se desfășoară, treceți de la piatra antică la strălucirea industriei moderne la faimosul complex de aur și bijuterii.\n\nÎncheiați-vă ziua cu prezența liniștitoare a naturii, plimbându-vă de-a lungul cursurilor de apă istorice sau a lacurilor pe măsură ce seara se lasă ușor.",
         "en": "Start your morning by delving into the spiritual and cultural heart of Saint-Amand-Montrond, admiring the historic church and rich museum collections.\n\nMidday invites a transition towards the town's prominent medieval heritage, where castle ruins offer sweeping vistas and a glimpse into past centuries.\n\nAs the afternoon unfolds, pivot from ancient stone to the brilliance of modern industry at the city's famous gold and jewelry complex.\n\nConclude your day with the soothing presence of nature, strolling alongside historic waterways or tranquil lakes as the evening gracefully settles in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen in der Kirche und im Museum. Trotzen Sie mittags dem Regen an den Burgruinen mit einem Regenschirm. Nachmittags spazieren Sie am Kanal entlang und beobachten die Regentropfen auf dem Wasser. Beenden Sie den Tag geschützt in der strahlenden Stadt des Goldes.",
+            "hu": "A nedves reggelt a templom és a múzeum fedett falai között kezdje. Délben egy erős esernyővel dacoljon az esővel a várromoknál. Délután tegyen egy sétát a csatorna mentén, figyelve a víztükrön a cseppeket. A napot az Aranyváros védett kiállításain zárja.",
+            "ro": "Începeți dimineața ploioasă la interior, în biserică și muzeu. La prânz, înfruntați ploaia la ruinele castelului cu o umbrelă robustă. După-amiaza, plimbați-vă de-a lungul canalului liniștit. Încheiați ziua la adăpost, în strălucitorul Oraș al Aurului.",
+            "en": "Start your wet morning inside the beautiful church and museum. By noon, brave the rain at the castle ruins with a sturdy umbrella. Spend the afternoon strolling along the canal, watching the raindrops on the water. Conclude your day sheltered inside the glittering City of Gold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Amand",
+                "hu": "Église Saint-Amand",
+                "ro": "Église Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende romanische Architektur im Trockenen; denken Sie daran, Ihren Regenschirm vor dem Betreten gründlich auszuschütteln.",
+                "hu": "Csodálja meg a lenyűgöző román kori építészetet teljesen szárazon; ne felejtse el alaposan lerázni az esernyőjét, mielőtt belép az épületbe.",
+                "ro": "Admirați arhitectura romanică uimitoare stând complet uscat înăuntru; nu uitați să scuturați bine umbrela înainte de a intra în clădire.",
+                "en": "Admire the stunning Romanesque architecture while staying completely dry inside; remember to shake off your umbrella thoroughly before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Saint-Vic",
+                "hu": "Musée Saint-Vic",
+                "ro": "Musée Saint-Vic",
+                "en": "Musée Saint-Vic"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die lokale Geschichte ein – dieses einladende Museum ist ein perfekter Zufluchtsort vor dem anhaltenden morgendlichen Regen.",
+                "hu": "Merüljön el a helyi történelemben és művészetben ebben a fedett menedékben, amely tökéletes menekülést kínál a kinti folyamatos reggeli eső elől.",
+                "ro": "Descoperiți istoria locală în acest sanctuar interior primitor, o evadare perfectă și uscată din ploaia continuă și rece de dimineață.",
+                "en": "Dive deep into the local history and art in this welcoming indoor sanctuary, which serves as a perfect escape from the continuous morning rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Ruinen sind sehr stimmungsvoll, aber tragen Sie unbedingt rutschfeste Schuhe, da die alten Pflastersteine im Regen gefährlich glatt werden.",
+                "hu": "A nedves romok nagyon hangulatosak, de mindenképpen viseljen csúszásmentes cipőt, mert az ősi kövek az esőben rendkívül síkossá válhatnak.",
+                "ro": "Ruinele umede sunt foarte atmosferice, dar asigurați-vă că purtați încălțăminte cu aderență, deoarece pietrele vechi devin periculos de alunecoase.",
+                "en": "The wet ruins are highly atmospheric, but make sure to wear shoes with excellent grip as the ancient stones get very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Berry",
+                "hu": "Canal de Berry",
+                "ro": "Canal de Berry",
+                "en": "Canal de Berry"
+              },
+              "tip_5lang": {
+                "de": "Eine gute Regenjacke ist hier unerlässlich; genießen Sie die ruhige, neblige Landschaft direkt am historischen Treidelpfad abseits der Menschenmassen.",
+                "hu": "Egy jó vízálló kabát itt elengedhetetlen; élvezze a csendes, ködös tájat közvetlenül a történelmi vontatóút mentén, távol a városi tömegtől.",
+                "ro": "O jachetă impermeabilă bună este esențială aici; bucurați-vă de peisajul liniștit și cețos de pe poteca istorică, departe de aglomerație.",
+                "en": "A reliable waterproof jacket is essential here; enjoy the quiet, misty scenery right along the historic towpath completely away from the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cité de l'Or",
+                "hu": "La Cité de l'Or",
+                "ro": "La Cité de l'Or",
+                "en": "La Cité de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die goldenen Ausstellungsstücke in diesem modernen Innenkomplex und beenden Sie Ihren verregneten Spaziergang in warmem, trockenem Komfort.",
+                "hu": "Csodálja meg az arany kiállítási tárgyakat ebben a modern, teljesen fedett komplexumban, meleg és száraz kényelemben zárva esős sétáját.",
+                "ro": "Minunați-vă de exponatele aurii în acest complex interior modern, încheind plimbarea dumneavoastră ploioasă într-un confort cald și perfect uscat.",
+                "en": "Marvel at the glowing golden exhibits in this modern indoor complex, effectively ending your rainy walking journey in warm, perfectly dry comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie einen klaren Wintermorgen in der historischen Kirche und im Museum. Mittags packen Sie sich warm ein, um die frostigen Burgruinen zu erkunden. Nachmittags genießen Sie einen kühlen Spaziergang am Kanal. Bevor es dunkel wird, suchen Sie Zuflucht in der leuchtenden Stadt des Goldes.",
+            "hu": "Indítsa a fagyos téli reggelt a történelmi templom és a múzeum melegében. Dél körül öltözzön fel jól a deres várromok felfedezéséhez. Délután tegyen egy csípős sétát a csatorna mentén. A korai sötétedés közeledtével találjon menedéket a ragyogó Aranyvárosban.",
+            "ro": "Începeți o dimineață rece de iarnă în interiorul bisericii și muzeului. La prânz, îmbrăcați-vă gros pentru a explora ruinele înghețate. După-amiaza, faceți o plimbare revigorantă de-a lungul canalului. Odată cu apusul devreme, retrageți-vă în Orașul Aurului.",
+            "en": "Kick off a crisp winter morning inside the historic church and museum. Around midday, wrap up warm to explore the frosty castle ruins. In the afternoon, enjoy a brisk, chilly walk along the canal before the light fades. As evening approaches early, find refuge in the glowing City of Gold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Amand",
+                "hu": "Église Saint-Amand",
+                "ro": "Église Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern sorgen dafür, dass es drinnen kühl bleibt; behalten Sie Ihren Wintermantel an, während Sie das ruhige, schwach beleuchtete Kirchenschiff bewundern.",
+                "hu": "A vastag kőfalak miatt bent is hűvös van, ezért tartsa magán a télikabátot, miközben a csendes, félhomályos hajó nyugalmát csodálja.",
+                "ro": "Pereții groși de piatră mențin frigul înăuntru, așa că păstrați haina de iarnă pe dumneavoastră în timp ce admirați naosul liniștit și slab iluminat.",
+                "en": "The thick stone walls keep it quite chilly inside, so make sure to keep your winter coat on while admiring the quiet, dimly lit nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Saint-Vic",
+                "hu": "Musée Saint-Vic",
+                "ro": "Musée Saint-Vic",
+                "en": "Musée Saint-Vic"
+              },
+              "tip_5lang": {
+                "de": "Dies ist ein angenehm beheizter Raum, in dem Sie sich die Hände aufwärmen können, während Sie in aller Ruhe die regionale Geschichte und Porzellane erkunden.",
+                "hu": "Ez egy kellemesen fűtött tér, ahol felmelegítheti a kezét, miközben nyugodtan felfedezi a helyi történelmet és a finom porcelánokat.",
+                "ro": "Acesta este un spațiu plăcut încălzit pentru a vă încălzi mâinile înghețate în timp ce explorați istoria regională și expozițiile de porțelan.",
+                "en": "This is a pleasantly heated space to warm up your freezing hands while taking your time to explore regional history and exquisite porcelain displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermokleidung und eine winddichte Mütze; durch die erhöhte Lage sind die Ruinen eisigen winterlichen Windböen stark ausgesetzt.",
+                "hu": "Viseljen termo rétegeket és szélálló sapkát; a magaslati fekvés miatt a romok különösen ki vannak téve a metsző téli széllökéseknek.",
+                "ro": "Purtați straturi termice și o căciulă rezistentă la vânt; poziția înaltă expune direct ruinele la rafalele reci și aspre de iarnă.",
+                "en": "Wear thermal layers and a completely windproof hat; the elevated position makes the ruins particularly exposed to biting winter gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Berry",
+                "hu": "Canal de Berry",
+                "ro": "Canal de Berry",
+                "en": "Canal de Berry"
+              },
+              "tip_5lang": {
+                "de": "Das späte Winterlicht spiegelt sich wunderschön auf dem eisigen Wasser, aber packen Sie sich warm ein, da die Brise am Ufer wirklich eiskalt ist.",
+                "hu": "A késő téli fény gyönyörűen csillan a jeges vízen, de öltözzön be alaposan, mert a közvetlen vízparti szellő csontig hatolóan fagyos tud lenni.",
+                "ro": "Lumina de iarnă se reflectă superb pe apa înghețată, dar înfofoliți-vă extrem de bine, deoarece briza direct de pe mal este înghețată.",
+                "en": "The late winter light reflects beautifully off the icy water, but wrap up tightly as the direct waterside breeze is completely freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cité de l'Or",
+                "hu": "La Cité de l'Or",
+                "ro": "La Cité de l'Or",
+                "en": "La Cité de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem Sonnenuntergang um 17 Uhr, um die Architektur zu sehen, und gehen Sie dann hinein, um der strengen Abendkälte vollständig zu entfliehen.",
+                "hu": "Érkezzen a 17 óra körüli naplemente előtt, hogy lássa a lenyűgöző építészetet, majd menjen be, hogy teljesen megmeneküljön a zord esti hidegtől.",
+                "ro": "Ajungeți înainte de apusul de la ora 17:00 pentru a-i vedea arhitectura, apoi intrați pentru a scăpa complet de frigul aspru al serii.",
+                "en": "Arrive before the 5 PM sunset to see its striking outside architecture, then head directly inside to escape the harsh evening cold completely."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a reggelt Saint-Amand-Montrond spirituális és kulturális szívének felfedezésével, megcsodálva a történelmi templomot és a gazdag múzeumi gyűjteményeket.\n\nA dél a város kiemelkedő középkori öröksége felé csábít, ahol a várromok lenyűgöző kilátást és bepillantást nyújtanak az elmúlt évszázadokba.\n\nA délután folyamán a régi kövek helyett a modern ipar ragyogása felé fordulhat a város híres arany- és ékszerkomplexumában.\n\nZárja a napot a természet megnyugtató közelségében, történelmi vízi utak vagy békés tavak mentén sétálva, miközben az este csendesen leszáll.",
         "ro": "Începeți dimineața explorând inima spirituală și culturală din Saint-Amand-Montrond, admirând biserica istorică și colecțiile bogate ale muzeului.\n\nAmiaza vă invită la o tranziție către moștenirea medievală a orașului, unde ruinele castelului oferă panorame vaste și o privire în secolele trecute.\n\nPe măsură ce după-amiaza se desfășoară, treceți de la piatra antică la strălucirea industriei moderne la faimosul complex de aur și bijuterii.\n\nÎncheiați-vă ziua cu prezența liniștitoare a naturii, plimbându-vă de-a lungul cursurilor de apă istorice sau a lacurilor pe măsură ce seara se lasă ușor.",
         "en": "Start your morning by delving into the spiritual and cultural heart of Saint-Amand-Montrond, admiring the historic church and rich museum collections.\n\nMidday invites a transition towards the town's prominent medieval heritage, where castle ruins offer sweeping vistas and a glimpse into past centuries.\n\nAs the afternoon unfolds, pivot from ancient stone to the brilliance of modern industry at the city's famous gold and jewelry complex.\n\nConclude your day with the soothing presence of nature, strolling alongside historic waterways or tranquil lakes as the evening gracefully settles in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig durch den Nieselregen zwischen Kirche und Museum. Navigieren Sie mittags auf nassen Wegen zur Burg und zur Stadt des Goldes. Nachmittags fahren Sie langsam um den nebligen See und die Abtei. Beenden Sie die Regentour sicher am schlammigen Treidelpfad des Kanals.",
+            "hu": "Óvatosan tekerjen a reggeli szitáló esőben a templom és a múzeum között. Délben a nedves utakon navigáljon a várhoz és a fedett Aranyvároshoz. A párás délutánt a ködös tó és az apátság melletti lassú biciklizéssel töltse. Zárja az esős utat a csatorna sáros vontatóútján.",
+            "ro": "Bicicliți cu grijă prin burnița dimineții între biserică și muzeu. La prânz, navigați pe potecile umede spre castel și Orașul Aurului. Petreceți după-amiaza mergând încet în jurul lacului cețos și al abației. Încheiați călătoria ploioasă pe poteca noroioasă a canalului.",
+            "en": "Cycle carefully through the morning drizzle between the church and museum. By noon, navigate the wet paths to the castle and the indoor City of Gold. Spend the damp afternoon riding slowly around the misty lake and the majestic abbey. Conclude your rainy journey along the canal's muddy towpath."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Amand",
+                "hu": "Église Saint-Amand",
+                "ro": "Église Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad nach Möglichkeit unter dichten Bäumen ab; der Kircheninnenraum bietet sofortigen und ruhigen Schutz vor dem Morgenregen.",
+                "hu": "Ha teheti, parkolja le a kerékpárt a sűrűbb lombok alá; a templom belső tere azonnali és békés menedéket nyújt a reggeli eső elől.",
+                "ro": "Parcați bicicleta sub copacii deși din apropiere dacă este posibil; interiorul bisericii oferă un adăpost imediat de ploaia de dimineață.",
+                "en": "Park your bike safely under thick nearby trees if possible; stepping inside the church offers immediate and peaceful shelter from the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Saint-Vic",
+                "hu": "Musée Saint-Vic",
+                "ro": "Musée Saint-Vic",
+                "en": "Musée Saint-Vic"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Regenkleidung einfach am Eingangsbereich und genießen Sie eine gute Stunde völlig trockener und warmer kultureller Erkundung.",
+                "hu": "Hagyja nedves esőruháját a bejárati részen, és élvezze az egy órás, teljesen száraz és kényelmes kulturális felfedezést a termekben.",
+                "ro": "Lăsați echipamentul ud de ploaie la intrare și bucurați-vă de o oră întreagă de explorare culturală complet uscată și confortabilă.",
+                "en": "Feel free to leave your wet rain gear at the entrance area and enjoy a solid hour of completely dry and comfortable cultural exploration inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Die Bergaufstrecke wird bei Nässe extrem rutschig; steigen Sie zu Ihrer Sicherheit ab, schieben Sie das Rad und nehmen Sie einen Regenschirm mit.",
+                "hu": "A hegynek felfelé vezető kerékpárút nedvesen extrém módon csúszik; biztonsága érdekében szálljon le, tolja a biciklit, és vigyen esernyőt a romokhoz.",
+                "ro": "Traseul de ciclism în urcare devine extrem de alunecos; pentru siguranță, descălecați, împingeți bicicleta și purtați o umbrelă printre ruine.",
+                "en": "The uphill cycling route gets extremely slippery when wet; dismount for your own safety, push the bike, and carry an umbrella for the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cité de l'Or",
+                "hu": "La Cité de l'Or",
+                "ro": "La Cité de l'Or",
+                "en": "La Cité de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender, warmer Rückzugsort am Mittag, an dem Sie sich aufwärmen, Ihre nasse Fahrradkleidung trocknen und das Gold bewundern können.",
+                "hu": "Kiváló, meleg déli menedék, ahol kellemesen felmelegedhet, megszáradhatnak a nedves biciklis ruhái, miközben az aranytárgyakat csodálja.",
+                "ro": "Un refugiu excelent și cald la prânz unde vă puteți încălzi, usca hainele ude de ciclism și admira în liniște exponatele de aur.",
+                "en": "An excellent, warm midday retreat where you can comfortably heat up, dry off your wet cycling clothes, and quietly marvel at the gold exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Virlay",
+                "hu": "Lac de Virlay",
+                "ro": "Lac de Virlay",
+                "en": "Lac de Virlay"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie hier unbedingt Ihre Fahrradschutzbleche; die unbefestigten Wege rund um den See werden bei Regen stark schlammig und voller Pfützen.",
+                "hu": "Itt feltétlenül használja a kerékpár sárvédőit; a tó körüli burkolatlan földutak esőben nagyon sarasak és mély tócsákkal teltek lesznek.",
+                "ro": "Asigurați-vă că aveți aripile bicicletei montate aici; potecile neasfaltate din jurul lacului devin foarte noroioase și pline de bălți adânci.",
+                "en": "Make absolutely sure to put your bike mudguards to good use here; the unpaved paths around the lake get heavily muddy and full of deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye de Noirlac",
+                "hu": "Abbaye de Noirlac",
+                "ro": "Abbaye de Noirlac",
+                "en": "Abbaye de Noirlac"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen historischen Steingewölbe bieten eine perfekte Akustik und schützen Sie zudem vollständig vor den anhaltenden nachmittäglichen Regengüssen.",
+                "hu": "A hatalmas történelmi kőboltozatok tökéletes akusztikát nyújtanak, és nem utolsósorban teljesen megvédik Önt a makacs délutáni felhőszakadásoktól.",
+                "ro": "Bolțile imense de piatră istorică oferă o acustică perfectă și vă protejează complet de ploile torențiale persistente de după-amiază.",
+                "en": "The immense historical stone vaults offer absolutely perfect acoustic resonance while keeping you fully sheltered from persistent afternoon downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Berry",
+                "hu": "Canal de Berry",
+                "ro": "Canal de Berry",
+                "en": "Canal de Berry"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie äußerst vorsichtig, da nasses Laub die Traktion der Reifen verringert; tragen Sie zu Ihrer Sicherheit einen gut sichtbaren, wasserdichten Poncho.",
+                "hu": "Óvatosan tekerjen, mert a nedves őszi falevelek csökkentik a gumi tapadását; biztonsága érdekében viseljen jól látható, vízálló poncsót.",
+                "ro": "Mergeți extrem de încet, deoarece frunzele ude reduc tracțiunea anvelopelor; pentru siguranță, purtați un poncho impermeabil, foarte vizibil.",
+                "en": "Ride extremely carefully as the wet leaves on the towpath reduce tire traction; wear a highly visible, completely waterproof poncho for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Treten Sie an einem eiskalten Morgen kräftig in die Pedale zur Kirche und zum Museum. Mittags gibt es eine kühle Fahrt zur Burg und einen Aufwärmstopp in der Stadt des Goldes. Fahren Sie nachmittags zum frostigen See und zur Abtei. Achten Sie auf Eisflächen am Kanal vor dem Sonnenuntergang um 17 Uhr.",
+            "hu": "Tekerjen fürgén a fagyos reggelen a templom és a múzeum felé. Délben csípős út vezet a várhoz, majd egy felmelegítő megálló az Aranyvárosban. A rövid délutánon biciklizzen a deres tónál és az apátságnál. Figyeljen a jeges foltokra a csatornánál a délután 5 órás naplemente előtt.",
+            "ro": "Pedalați energic într-o dimineață înghețată spre biserică și muzeu. Prânzul aduce o plimbare rece spre castel și o oprire de încălzire. După-amiaza scurtă, pedalați pe lângă lacul acoperit de brumă și abație. Atenție la gheața de pe canal înainte de apusul de la ora 17:00.",
+            "en": "Pedal briskly through a freezing morning, visiting the church and museum. Midday brings a chilly ride up to the castle and a warming stop at the City of Gold. In the short afternoon, cycle by the frost-covered lake and abbey. Watch out for icy patches by the canal before the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Amand",
+                "hu": "Église Saint-Amand",
+                "ro": "Église Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Handschuhe zum Radfahren und behalten Sie diese auch drinnen an, da die alten Kirchenmauern im Winter selten angenehm warm werden.",
+                "hu": "Viseljen vastag kesztyűt a tekeréshez, de hagyja magán bent is, mert a vastag ősi templomfalak télen ritkán melegszenek fel kellően.",
+                "ro": "Purtați mănuși groase pentru ciclism, dar păstrați-le și înăuntru, deoarece zidurile vechi ale bisericii se încălzesc foarte rar iarna.",
+                "en": "Wear thick gloves for your cycling journey, but keep them on inside too, as the ancient church stone rarely gets comfortably warm during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Saint-Vic",
+                "hu": "Musée Saint-Vic",
+                "ro": "Musée Saint-Vic",
+                "en": "Musée Saint-Vic"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zentralheizung hier voll aus; es ist ein großartiger Ort, um die Zehen aufzutauen, bevor Sie sich wieder in die eiskalte Winterluft wagen.",
+                "hu": "Élvezze ki a központi fűtést; remek hely arra, hogy kiolvassza a lábujjait, mielőtt visszatérne a fagyos és metsző téli levegőre.",
+                "ro": "Profitați din plin de încălzirea centrală de aici; este un loc excelent pentru a vă dezgheța degetele înainte de a ieși înapoi în aerul rece.",
+                "en": "Take full advantage of the central heating here; it's a fantastic spot to thaw your freezing toes before jumping back out into the winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie auf dem steilen, potenziell vereisten Weg nach oben äußerst vorsichtig; die freiliegenden Ruinen bieten keinen Schutz vor den beißenden Winden.",
+                "hu": "Legyen nagyon óvatos a meredek, esetlegesen jeges felfelé vezető úton; a magasan fekvő romok egyáltalán nem nyújtanak menedéket a metsző szél elől.",
+                "ro": "Fiți extrem de prudenți pe poteca abruptă și posibil înghețată; ruinele expuse nu oferă deloc adăpost împotriva vânturilor aspre și tăioase.",
+                "en": "Be incredibly careful on the steep, potentially icy cycling path up; the exposed ruins offer absolutely no shelter from the biting winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cité de l'Or",
+                "hu": "La Cité de l'Or",
+                "ro": "La Cité de l'Or",
+                "en": "La Cité de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Trinken Sie ein heißes Getränk und genießen Sie die Wärme des Museums; im Winterzwielicht beginnt die Außenbeleuchtung wunderschön zu leuchten.",
+                "hu": "Igyon egy forró italt, és élvezze a múzeum belső melegét; a külső díszvilágítás gyönyörűen ragyog a korai téli szürkületben.",
+                "ro": "Cumpărați o băutură caldă și bucurați-vă de căldura muzeului; iluminatul său exterior începe să strălucească minunat în amurgul timpuriu de iarnă.",
+                "en": "Grab a hot drink nearby and truly enjoy the museum's warmth; its exterior lighting begins to glow beautifully in the early winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Virlay",
+                "hu": "Lac de Virlay",
+                "ro": "Lac de Virlay",
+                "en": "Lac de Virlay"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie scharf auf tückisch gefrorene Pfützen auf dem Radweg und genießen Sie die kahlen, eindrucksvollen Silhouetten der schlafenden Winterbäume.",
+                "hu": "Figyeljen nagyon a kerékpárúton lévő alattomosan befagyott tócsákra, és gyönyörködjön a téli fák csupasz, zord sziluettjében a tó körül.",
+                "ro": "Feriți-vă de bălțile periculos înghețate de pe pista de biciclete și bucurați-vă de siluetele golașe și dramatice ale copacilor de iarnă.",
+                "en": "Keep a very sharp eye out for dangerously frozen puddles on the cycle path, and enjoy the stark, leafless silhouettes of the sleeping winter trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye de Noirlac",
+                "hu": "Abbaye de Noirlac",
+                "ro": "Abbaye de Noirlac",
+                "en": "Abbaye de Noirlac"
+              },
+              "tip_5lang": {
+                "de": "Der Kreuzgang ist im Winter spektakulär, aber eiskalt; tragen Sie Ihre wärmsten Radsport-Basisschichten, um das Gelände bequem zu erkunden.",
+                "hu": "A kerengő télen vizuálisan látványos, de jéghideg; öltözzön a legmelegebb kerékpáros aláöltözetbe, hogy kényelmesen körbe tudja járni.",
+                "ro": "Claustrul este spectaculos iarna, dar extrem de rece; purtați cele mai călduroase straturi de ciclism pentru a explora curtea interioară confortabil.",
+                "en": "The historical cloister is visually spectacular in winter, but absolutely freezing; wear your warmest cycling base layers to explore it comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Berry",
+                "hu": "Canal de Berry",
+                "ro": "Canal de Berry",
+                "en": "Canal de Berry"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradlichter voll aufgeladen sind; die Sonne geht bereits gegen 17 Uhr unter, wodurch der Weg dunkel und frostig wird.",
+                "hu": "Gondoskodjon róla, hogy a biciklilámpák teljesen fel legyenek töltve; a nap már 17 óra körül lenyugszik, amitől a vízparti út sötét és fagyos lesz.",
+                "ro": "Asigurați-vă că luminile bicicletei sunt complet încărcate; soarele apune deja la 17:00, lăsând poteca de lângă apă întunecată și geroasă.",
+                "en": "Ensure your bike lights are completely fully charged; the winter sun sets around 5 PM, making the waterside towpath both extremely dark and frosty."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje a reggelt Saint-Amand-Montrond spirituális és kulturális szívének felfedezésével, megcsodálva a történelmi templomot és a gazdag múzeumi gyűjteményeket.\n\nA dél a város kiemelkedő középkori öröksége felé csábít, ahol a várromok lenyűgöző kilátást és bepillantást nyújtanak az elmúlt évszázadokba.\n\nA délután folyamán a régi kövek helyett a modern ipar ragyogása felé fordulhat a város híres arany- és ékszerkomplexumában.\n\nZárja a napot a természet megnyugtató közelségében, történelmi vízi utak vagy békés tavak mentén sétálva, miközben az este csendesen leszáll.",
         "ro": "Începeți dimineața explorând inima spirituală și culturală din Saint-Amand-Montrond, admirând biserica istorică și colecțiile bogate ale muzeului.\n\nAmiaza vă invită la o tranziție către moștenirea medievală a orașului, unde ruinele castelului oferă panorame vaste și o privire în secolele trecute.\n\nPe măsură ce după-amiaza se desfășoară, treceți de la piatra antică la strălucirea industriei moderne la faimosul complex de aur și bijuterii.\n\nÎncheiați-vă ziua cu prezența liniștitoare a naturii, plimbându-vă de-a lungul cursurilor de apă istorice sau a lacurilor pe măsură ce seara se lasă ușor.",
         "en": "Start your morning by delving into the spiritual and cultural heart of Saint-Amand-Montrond, admiring the historic church and rich museum collections.\n\nMidday invites a transition towards the town's prominent medieval heritage, where castle ruins offer sweeping vistas and a glimpse into past centuries.\n\nAs the afternoon unfolds, pivot from ancient stone to the brilliance of modern industry at the city's famous gold and jewelry complex.\n\nConclude your day with the soothing presence of nature, strolling alongside historic waterways or tranquil lakes as the evening gracefully settles in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie im morgendlichen Regen bequem zwischen Kirche und Museum. Halten Sie mittags den Regenschirm für Burg und Weinberge bereit. Verbringen Sie den Nachmittag drinnen in der Stadt des Goldes und fahren Sie um den See. Beenden Sie den Regentrip an der Abtei und am Kanal.",
+            "hu": "Vezessen kényelmesen a templom és a múzeum között a reggeli esőben. Délben tartsa kéznél esernyőjét a várhoz és a szőlőkhöz. A nedves délutánt a fedett Aranyvárosban töltse, majd autózzon biztonságosan a tó körül. Zárja esős autós útját az apátságnál és a csatornánál.",
+            "ro": "Conduceți confortabil între biserică și muzeu în ploaia de dimineață. La prânz, țineți umbrela la îndemână pentru castel și podgorii. Petreceți după-amiaza explorând imensul Oraș al Aurului și conducând în siguranță pe lângă lac. Încheiați călătoria la abație și canal.",
+            "en": "Drive comfortably between the church and museum during the morning rain. By midday, keep your umbrella handy for the castle and the scenic vineyards. Spend the damp afternoon exploring the massive indoor City of Gold and driving safely around the lake. End your rainy road trip at the abbey and canal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Amand",
+                "hu": "Église Saint-Amand",
+                "ro": "Église Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto so nah wie möglich am Eingang; das schummrige Innere der historischen Kirche wirkt bei schweren Regenstürmen unglaublich gemütlich.",
+                "hu": "Parkoljon minél közelebb a bejárathoz a szakadó eső miatt; a történelmi templom félhomályos belseje nagyon békés és hangulatos vihar idején.",
+                "ro": "Parcați mașina cât mai aproape de intrare; interiorul slab iluminat al bisericii istorice se simte incredibil de confortabil în timpul furtunilor.",
+                "en": "Park your car as close to the entrance as possible to dodge the rain; the dim interior of the historic church feels incredibly cozy during storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Saint-Vic",
+                "hu": "Musée Saint-Vic",
+                "ro": "Musée Saint-Vic",
+                "en": "Musée Saint-Vic"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr kurzer Sprint vom Parkplatz bringt Sie in herrlich trockene Galerien, wo Sie die schwersten morgendlichen Regenschauer in Ruhe abwarten können.",
+                "hu": "A parkolóból egy gyors futással a csodálatosan száraz galériákba ér, ahol kényelmesen és melegben kivárhatja a leghevesebb reggeli záporokat.",
+                "ro": "Un sprint foarte scurt din parcare vă aduce în galeriile uscate unde puteți aștepta să treacă cele mai grele și reci ploi de dimineață.",
+                "en": "A very quick dash from the parking lot brings you into wonderfully dry galleries where you can comfortably wait out the heaviest morning rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die durchweichten Mäntel einfach im Auto; nehmen Sie einen breiten Regenschirm, um die rutschigen Wege um die Burgruine zu erkunden.",
+                "hu": "Hagyja az elázott kabátokat az autó kényelmében; vigyen egy nagy esernyőt a történelmi várromok körüli csúszós, tócsás ösvények felfedezéséhez.",
+                "ro": "Lăsați hainele ude în confortul mașinii; luați o umbrelă mare pentru a explora cărările alunecoase din jurul ruinelor castelului istoric.",
+                "en": "Feel free to leave completely soaked coats inside the car; grab a wide umbrella to explore the slippery, puddle-filled pathways around the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des vignes",
+                "hu": "Lac des vignes",
+                "ro": "Lac des vignes",
+                "en": "Lac des vignes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den faszinierenden Anblick der dicken Regentropfen auf der Wasseroberfläche direkt aus der Wärme und Trockenheit Ihres geparkten Autos.",
+                "hu": "Élvezze a vastag esőcseppek lenyűgöző táncát a víztükrön közvetlenül a parkoló autója melegéből, tökéletesen védve az elemektől.",
+                "ro": "Bucurați-vă de vederea picăturilor grele de ploaie care lovesc suprafața apei direct din căldura și siguranța mașinii dumneavoastră parcate.",
+                "en": "Enjoy the mesmerizing view of thick heavy raindrops hitting the water's surface directly from the warmth and total dryness of your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cité de l'Or",
+                "hu": "La Cité de l'Or",
+                "ro": "La Cité de l'Or",
+                "en": "La Cité de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Eine Tiefgarage oder ein nahegelegener Parkplatz ist ideal; diese Innenattraktion ist der absolut beste Ort, um einem verregneten Nachmittag zu entfliehen.",
+                "hu": "A fedett közeli parkolás ideális megoldás; ez a látványosság teljesen beltéri, így a lehető legjobb menedék egy tartósan esős délutánon.",
+                "ro": "Parcarea în apropiere este ideală; această atracție interioară este absolut cel mai bun loc pentru a scăpa complet de o după-amiază ploioasă.",
+                "en": "A close parking spot is ideal here; this fully indoor modern attraction is absolutely the best possible place to entirely escape a rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Virlay",
+                "hu": "Lac de Virlay",
+                "ro": "Lac de Virlay",
+                "en": "Lac de Virlay"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie mit dem Auto sehr langsam auf den perimetrischen Straßen, um keine Fußgänger nass zu spritzen; spazieren Sie nur, wenn der Regen deutlich nachlässt.",
+                "hu": "Vezessen nagyon lassan a tó körüli utakon, nehogy lefröcskölje a sétálókat; csak akkor szálljon ki rövid időre, ha a szakadó eső már alábbhagyott.",
+                "ro": "Conduceți foarte încet pe drumurile perimetrale pentru a nu stropi pietonii; ieșiți la o scurtă plimbare doar dacă ploaia torențială se domolește.",
+                "en": "Drive very slowly on the perimeter roads to avoid splashing any pedestrians; only step out for a brief walk if the heavy rain significantly subsides."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye de Noirlac",
+                "hu": "Abbaye de Noirlac",
+                "ro": "Abbaye de Noirlac",
+                "en": "Abbaye de Noirlac"
+              },
+              "tip_5lang": {
+                "de": "Dank der riesigen überdachten Kreuzgänge und Schlafsäle können Sie nach dem Aussteigen fast das gesamte Gelände erkunden, ohne nass zu werden.",
+                "hu": "A hatalmas, fedett kerengők és hálótermek révén, miután kiszállt az autóból, szinte az egész területet felfedezheti anélkül, hogy elázna.",
+                "ro": "Datorită claustrelor acoperite, odată coborât din mașină, puteți explora aproape întregul sit istoric fără să vă udați absolut deloc.",
+                "en": "Thanks to the vast, fully roofed cloisters and dormitories, once you step out of the car, you can explore nearly the entire site without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Berry",
+                "hu": "Canal de Berry",
+                "ro": "Canal de Berry",
+                "en": "Canal de Berry"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie mit dem Auto sicher am Rand an, um zu beobachten, wie der Regen-Nebel vom Kanal aufsteigt, bevor Sie zu Ihrer warmen Unterkunft fahren.",
+                "hu": "Húzódjon félre biztonságosan az autóval, hogy végignézze a csatorna felett gomolygó esőködöt, mielőtt egyenesen a meleg szállására hajtana.",
+                "ro": "Trageți mașina pe dreapta în siguranță pentru a privi ceața ploioasă ridicându-se de pe canal înainte de a merge direct spre cazarea călduroasă.",
+                "en": "Pull the car over safely to the side to watch the rain mist dramatically roll off the canal waters before heading straight to your warm evening accommodation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie morgens die Autoheizung zwischen Kirche und Museum. Mittags steigen Sie zur Burg auf und machen Fotos an den eisigen Weinbergen. Wärmen Sie sich nachmittags in der Stadt des Goldes auf. Erleben Sie den Sonnenuntergang am See, bevor Sie Abtei und Kanal im Dunkeln besuchen.",
+            "hu": "Használja az autó fűtését a fagyos reggelen a templom és a múzeum között. Délben frissítő mászás a várhoz és egy fotó a jeges szőlőknél. Melegedjen fel az Aranyvárosban a délután folyamán. Kapja el az 5 órás naplementét a tónál, majd sötétedéskor látogassa meg az apátságot és a csatornát.",
+            "ro": "Folosiți căldura mașinii într-o dimineață înghețată între biserică și muzeu. Prânzul include o urcare rapidă la castel și o fotografie la podgoriile înghețate. Încălziți-vă în Orașul Aurului după-amiaza. Prindeți apusul de la ora 17:00 la lac, apoi vizitați abația și canalul la întuneric.",
+            "en": "Utilize your car's heater on a freezing morning between the church and museum. Midday features a brisk climb to the castle and a quick photo at the icy vineyards. Warm up inside the City of Gold all afternoon. Catch the 5 PM sunset at the lake, then visit the abbey and canal as darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Amand",
+                "hu": "Église Saint-Amand",
+                "ro": "Église Saint-Amand",
+                "en": "Église Saint-Amand"
+              },
+              "tip_5lang": {
+                "de": "Sie können Ihre dicke Winterjacke im warmen Auto lassen, wenn Sie nur kurz verweilen, obwohl das historische Steingewölbe innen recht kühl ist.",
+                "hu": "A vaskos télikabátot nyugodtan a fűtött autóban hagyhatja, ha csak röviden néz be, bár az épület kőbelseje igencsak fagyos és csípős tud lenni.",
+                "ro": "Puteți lăsa jacheta groasă de iarnă în mașina încălzită dacă nu zăboviți mult, deși interiorul din piatră istorică este destul de rece și aspru.",
+                "en": "You can leave your extremely bulky winter jacket in the heated car if you don't plan to linger, though the historic stone interior is quite crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Saint-Vic",
+                "hu": "Musée Saint-Vic",
+                "ro": "Musée Saint-Vic",
+                "en": "Musée Saint-Vic"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den sehr schnellen und nahtlosen Übergang von Ihrem stark beheizten Fahrzeug zu den herrlich warmen, einladenden Ausstellungsräumen.",
+                "hu": "Élvezze a gyors és zökkenőmentes átmenetet az erősen fűtött járművéből a helyi történelmet bemutató, kellemesen meleg és barátságos termekbe.",
+                "ro": "Bucurați-vă de tranziția foarte rapidă și lină de la vehiculul bine încălzit la expozițiile calde și extrem de primitoare ale istoriei locale.",
+                "en": "Enjoy the very rapid, completely seamless transition from your well-heated vehicle directly to the wonderfully warm, welcoming historical exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann gefrieren; steigen Sie vorsichtig aus dem Auto und tragen Sie unbedingt dicke Socken und Stiefel für die windgepeitschten Ruinen.",
+                "hu": "A parkoló könnyen lefagyhat; nagyon óvatosan lépjen ki az autóból, és viseljen vastag zoknit és meleg csizmát a szélfútta romok felfedezéséhez.",
+                "ro": "Parcarea poate îngheța ușor; coborâți cu mare grijă din mașină și purtați cizme călduroase pentru a explora ruinele bătute de vântul tăios.",
+                "en": "The parking area can be totally covered in ice; step out of the car carefully and wear thick winter boots to explore the wind-whipped ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des vignes",
+                "hu": "Lac des vignes",
+                "ro": "Lac des vignes",
+                "en": "Lac des vignes"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Fenster nur gerade so lange herunter, um ein Foto von dem schönen Frost auf den ruhenden Reben und dem gläsernen See zu machen.",
+                "hu": "Csak pont annyi időre húzza le az autó ablakát, amíg elkészít egy fotót az alvó tőkéket és az üvegszerűen fagyott tavat borító csillogó dérről.",
+                "ro": "Deschideți geamul mașinii doar atât cât să faceți o fotografie cu bruma frumoasă care acoperă vița de vie latentă și lacul cu aspect de sticlă.",
+                "en": "Roll down the car window just exactly long enough to snap a quick photo of the beautiful frost covering the dormant vines and the glassy lake."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cité de l'Or",
+                "hu": "La Cité de l'Or",
+                "ro": "La Cité de l'Or",
+                "en": "La Cité de l'Or"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Stopp am Nachmittag, um sich komplett aufzutauen; das helle, goldene Interieur wirkt an einem grauen Wintertag unglaublich einladend.",
+                "hu": "Tökéletes kora délutáni megálló a teljes felengedéshez a fűtött belső térben; fényes, aranyló belseje egy szürke téli napon rendkívül barátságos.",
+                "ro": "Aceasta este oprirea perfectă după-amiaza pentru a vă dezgheța complet; interiorul său auriu și luminos este incredibil de primitor într-o zi gri.",
+                "en": "This is the absolutely perfect mid-afternoon stop to completely defrost; its bright, golden interior feels incredibly welcoming on a gray winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Virlay",
+                "hu": "Lac de Virlay",
+                "ro": "Lac de Virlay",
+                "en": "Lac de Virlay"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Anfahrt auf gefährliches Glatteis auf den Straßen; die extrem tiefstehende Wintersonne erzeugt eine spektakuläre Reflexion auf dem Wasser.",
+                "hu": "Vezetés közben figyeljen a veszélyes tükörjégre a bekötőutakon; a rendkívül alacsonyan járó téli nap látványos, hűvös tükröződést hoz létre a vízen.",
+                "ro": "Atenție la gheața neagră periculoasă de pe drumurile de acces; soarele coborât de iarnă creează o reflexie uimitor de rece și spectaculoasă pe apă.",
+                "en": "Keep a very close eye out for dangerous black ice on the access roads; the extremely low winter sun creates a spectacular, cold reflection on the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Abbaye de Noirlac",
+                "hu": "Abbaye de Noirlac",
+                "ro": "Abbaye de Noirlac",
+                "en": "Abbaye de Noirlac"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie um 17 Uhr bei Sonnenuntergang an; die blassen Steine wirken magisch, aber ziehen Sie sich warm an, da die unbeheizten Räume eiskalt sind.",
+                "hu": "Érkezzen autóval az 17 óra körüli naplementére; a sápadt kövek varázslatosak, de öltözzön fel jól, mert a fűtetlen apátsági terek jéghidegek.",
+                "ro": "Ajungeți la apus, în jur de 17:00; pietrele palide arată absolut magic, dar îmbrăcați-vă gros, deoarece spațiile neîncălzite sunt complet înghețate.",
+                "en": "Arrive by car just around the 5 PM sunset; the stark, pale stones look absolutely magical, though bundle up heavily as the unheated spaces are freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Berry",
+                "hu": "Canal de Berry",
+                "ro": "Canal de Berry",
+                "en": "Canal de Berry"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur sinkt nach Einbruch der Dunkelheit rapide ab; bleiben Sie bei laufender Heizung im Auto und genießen Sie die frostigen Ufer im Mondlicht.",
+                "hu": "Sötétedés után a kinti hőmérséklet hihetetlenül gyorsan csökken; maradjon a fűtött autóban, és élvezze a holdfényes, deres partot a szélvédőn át.",
+                "ro": "Temperatura scade uimitor de repede după lăsarea întunericului; rămâneți în mașina încălzită și bucurați-vă de malurile înghețate sub clar de lună.",
+                "en": "The outside temperature drops incredibly rapidly after dark; stay comfortably in the heated car and simply enjoy the moonlit frosty banks through the windshield."
+              }
+            }
+          ]
+        }
       }
     }
   }

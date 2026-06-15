@@ -137,6 +137,168 @@
         "hu": "Délelőtt: Kezdje a napot Aguascalientes szívében, a Halál Múzeumában, felfedezve a lenyűgöző kulturális leleteket. Egy rövid séta után érkezzen meg a Casa de la Cultura Juridica építészeti csodájához.\nDél: Ahogy a nap egyre magasabbra hág, tapasztalja meg a város zenei lelkét a Los Mariachis-nál, mielőtt egy hosszabb sétára indulna nyugat felé. Élvezze az autentikus városi hangulatot útközben.\nDélután: Érkezzen meg az Ismeretlen Munkás Emlékművéhez, és emlékezzen meg a város ipari múltjáról. A délutáni fények gyönyörűen kiemelik a monumentális részleteket, kiváló fotózási lehetőséget kínálva.\nEste: Zárja gyalogtúráját a Bóveda Jesus F Contreras-nál, a helyi művészet remekeivel körülvéve. Ennek az utolsó állomásnak a békés hangulata méltó befejezése a város gazdag örökségét bemutató napnak.",
         "ro": "Dimineața: Începeți ziua în inima vibrantă a orașului Aguascalientes la Museo de la Muerte, explorând artefactele culturale profunde. Apoi, o scurtă plimbare vă duce la minunea arhitecturală Casa de la Cultura Juridica.\nPrânz: Pe măsură ce soarele urcă, experimentați sufletul muzical la Los Mariachis înainte de a porni într-o plimbare mai lungă spre vest. Bucurați-vă de atmosfera urbană autentică pe drum.\nDupă-amiaza: Ajungeți la Monumentul Muncitorului Necunoscut pentru a reflecta asupra istoriei industriale a orașului. Lumina după-amiezii evidențiază frumos detaliile monumentale, perfecte pentru fotografie.\nSeara: Încheiați-vă călătoria la Bóveda Jesus F Contreras, înconjurați de artă locală rafinată. Ambianța pașnică a acestei ultime opriri oferă un final potrivit pentru o zi dedicată patrimoniului orașului.",
         "en": "Morning: Begin your day in the vibrant heart of Aguascalientes at the iconic Museo de la Muerte, exploring the profound cultural artifacts. Afterwards, a short stroll takes you to the architectural marvel of Casa de la Cultura Juridica.\nMidday: As the sun climbs higher, experience the musical soul of the city at Los Mariachis before embarking on a slightly longer walk westward. Take your time to enjoy the authentic urban atmosphere along the way.\nAfternoon: Arrive at the Monumento en honor al Obrero Desconocido to reflect on the city's industrious history. The afternoon light beautifully highlights the monumental details, making it a perfect moment for photography.\nEvening: Conclude your walking journey at the Bóveda Jesus F Contreras, surrounded by exquisite local art. The peaceful ambiance of this final stop offers a fitting end to a day dedicated to the city's rich heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt in den schützenden Mauern der Museen, während draußen der Regen fällt. Mittags navigieren wir vorsichtig über glatte Gehwege zu den Denkmälern. Am Nachmittag bieten großzügige Innenräume Zuflucht vor den Schauern und laden zum Verweilen ein. Der Abend klingt bei prasselndem Regen in einem gemütlichen, überdachten Bereich aus, wo man das nasse Panorama genießen kann.",
+            "hu": "Reggel az árnyas múzeumi falak kínálnak menedéket a szemerkélő eső elől. Délben a központ macskakövei csúszóssá válhatnak, ezért óvatosan közelítsük meg a szabadtéri pontokat. Délután a fedett kiállítóterekben mélyülhetünk el a kultúrában, miközben odakint elered az intenzívebb zápor. Este a város fényei megcsillannak a tócsákban, a napot egy biztonságos, zárt helyen fejezzük be.",
+            "ro": "Dimineața începe între zidurile protectoare ale muzeelor, în timp ce afară plouă ușor. La prânz, navigăm cu atenție pe trotuarele alunecoase către monumente. După-amiaza, spațiile interioare generoase oferă refugiu împotriva averselor, invitând la o explorare detaliată. Seara se încheie cu sunetul ploii, într-o zonă acoperită și primitoare, admirând luminile orașului reflectate în apă.",
+            "en": "The morning starts within the protective walls of museums while rain falls outside. At noon, we navigate carefully over slippery pavements towards the monuments. In the afternoon, spacious indoor areas offer refuge from the showers, inviting a long visit. The evening concludes with the sound of rain in a cozy, covered area, enjoying the city lights reflecting in the puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de la Muerte",
+                "hu": "Museo de la Muerte",
+                "ro": "Museo de la Muerte",
+                "en": "Museo de la Muerte"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die faszinierende Ikonographie des Todes in diesem trockenen Innenraum; tragen Sie wasserfeste Schuhe für den kurzen Weg zum Eingang.",
+                "hu": "Fedezd fel a halál lenyűgöző ikonográfiáját ebben a tágas, fedett múzeumban; a bejárathoz vezető rövid úton viselj vízálló cipőt a tócsák ellen.",
+                "ro": "Descoperiți iconografia fascinantă a morții în acest spațiu interior uscat; purtați încălțăminte impermeabilă pentru drumul scurt până la intrare.",
+                "en": "Explore the fascinating iconography of death in this dry indoor museum; wear waterproof shoes for the short walk to the entrance to avoid puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura Juridica",
+                "hu": "Casa de la Cultura Juridica",
+                "ro": "Casa de la Cultura Juridica",
+                "en": "Casa de la Cultura Juridica"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und die juristischen Archive im sicheren Schutz des Daches; ein stabiler Regenschirm schützt Sie beim Betreten des Gebäudes.",
+                "hu": "Csodáld meg az építészetet és a jogi archívumokat a tető biztonságos oltalma alatt; egy masszív esernyő jól jön majd, amíg beérsz az épületbe.",
+                "ro": "Admirați arhitectura și arhivele juridice sub protecția sigură a acoperișului; o umbrelă robustă vă va proteja până când veți intra în clădire.",
+                "en": "Admire the architecture and legal archives under the safe protection of the roof; a sturdy umbrella will be useful while entering the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Mariachis",
+                "hu": "Los Mariachis",
+                "ro": "Los Mariachis",
+                "en": "Los Mariachis"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Foto bei den Statuen ist möglich, aber achten Sie auf das rutschige Pflaster; nutzen Sie die umliegenden Arkaden als trockenen Unterstand.",
+                "hu": "Egy gyors fotó a szobroknál lehetséges, de ügyelj a csúszós burkolatra; használd a közeli árkádokat száraz várakozóhelyként a zápor alatt.",
+                "ro": "O fotografie rapidă la statui este posibilă, dar atenție la pavajul alunecos; folosiți arcadele din apropiere ca adăpost uscat în timpul ploii.",
+                "en": "A quick photo by the statues is possible, but watch out for the slippery pavement; use the nearby arcades as a dry shelter during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento en honor al Obrero Desconocido",
+                "hu": "Monumento en honor al Obrero Desconocido",
+                "ro": "Monumento en honor al Obrero Desconocido",
+                "en": "Monumento en honor al Obrero Desconocido"
+              },
+              "tip_5lang": {
+                "de": "Dieses Freiluftdenkmal erfordert eine Regenjacke für den Besuch; die metallischen Oberflächen glänzen bei Nässe besonders dramatisch im trüben Licht.",
+                "hu": "Ehhez a szabadtéri emlékműhöz esőkabátra lesz szükséged; a fémes felületek drámai módon csillognak a nedves, szürke időben a borús ég alatt.",
+                "ro": "Acest monument în aer liber necesită o pelerină de ploaie; suprafețele metalice strălucesc dramatic în lumina difuză când sunt ude de ploaie.",
+                "en": "This outdoor monument requires a raincoat for the visit; the metallic surfaces shine dramatically in the gray light when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bóveda Jesus F Contreras",
+                "hu": "Bóveda Jesus F Contreras",
+                "ro": "Bóveda Jesus F Contreras",
+                "en": "Bóveda Jesus F Contreras"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in diesem geschützten Gewölbe voller Kunst; schütteln Sie Ihren Schirm draußen gut ab, um den Innenraum trocken zu halten.",
+                "hu": "Zárd a napot ebben a védett művészeti boltívben; rázd le alaposan az esernyődet kint, hogy bent kényelmesen és szárazon nézelődhess a művek között.",
+                "ro": "Încheiați ziua în această boltă de artă protejată; scuturați bine umbrela afară pentru a menține interiorul uscat în timp ce admirați operele.",
+                "en": "End the day in this protected art vault; shake your umbrella well outside to keep the interior dry while you browse the artworks comfortably."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch, daher ist Zwiebellook für die sonnigen Abschnitte ratsam. Mittags wärmt die Wintersonne die Straßen auf, ideal für längere Spaziergänge. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir die Außenstopps frühzeitig ein. Der Abend wird schnell kühl, was den Besuch beheizter Innenräume besonders angenehm macht, um den Tag gemütlich ausklingen zu lassen.",
+            "hu": "A reggel csípős hideggel indul, ezért érdemes rétegesen öltözködni a napsütéses szakaszokra. Délben a téli nap ereje felmelegíti az utcákat, így kényelmes a séta. Mivel a nap korán, délután öt körül lebukik, a szabadtéri látnivalókat érdemes korábban letudni. Este a hőmérséklet gyorsan zuhan, ilyenkor a fűtött belső terek kínálnak kellemes menedéket a nap végére.",
+            "ro": "Dimineața începe cu un aer rece, așa că îmbrăcămintea stratificată este esențială pentru porțiunile însorite. La prânz, soarele de iarnă încălzește străzile, fiind ideal pentru plimbări. Deoarece soarele apune devreme, în jur de ora 17:00, planificăm vizitele exterioare din timp. Seara devine rapid răcoroasă, făcând vizita în spațiile interioare încălzite foarte plăcută.",
+            "en": "The morning starts with a crisp chill, so layering up for the sunny stretches is recommended. At noon, the winter sun warms the streets, making walking comfortable. Since the sun sets early, around 17:00, plan outdoor stops early in the day. The evening turns cool quickly, making visits to heated indoor spaces especially pleasant to end your day comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de la Muerte",
+                "hu": "Museo de la Muerte",
+                "ro": "Museo de la Muerte",
+                "en": "Museo de la Muerte"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für diesen beheizten Innenraum; die dicken Mauern halten die Kälte draußen und bieten ein angenehmes Klima für die Tour.",
+                "hu": "Használd ki a hűvös reggelt ebben a temperált belső térben; a vastag falak kint tartják a hideget, kellemes klímát biztosítva a nézelődéshez.",
+                "ro": "Profită de dimineața răcoroasă în acest spațiu interior încălzit; zidurile groase țin frigul afară, oferind un climat plăcut pentru vizită.",
+                "en": "Take advantage of the cool morning in this climate-controlled interior; the thick walls keep the chill out, providing a pleasant environment for browsing."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura Juridica",
+                "hu": "Casa de la Cultura Juridica",
+                "ro": "Casa de la Cultura Juridica",
+                "en": "Casa de la Cultura Juridica"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Räume sind im Winter gut temperiert; genießen Sie die juristische Geschichte, während Sie sich von der kalten Morgenluft aufwärmen.",
+                "hu": "A pompás termek télen is kellemes hőmérsékletűek; élvezd a jogi történelmet, miközben kicsit felmelegszel a csípős reggeli levegő után az épületben.",
+                "ro": "Sălile splendide sunt bine temperate iarna; bucurați-vă de istoria juridică în timp ce vă încălziți după aerul rece al dimineții în interior.",
+                "en": "The magnificent rooms are well-tempered in winter; enjoy the legal history while warming up from the crisp morning air inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Mariachis",
+                "hu": "Los Mariachis",
+                "ro": "Los Mariachis",
+                "en": "Los Mariachis"
+              },
+              "tip_5lang": {
+                "de": "Die Statuen stehen in der prallen Mittagssonne am wärmsten; halten Sie kurz inne und genießen Sie die Sonnenstrahlen, bevor es wieder schattig wird.",
+                "hu": "A szobrok a déli napsütésben a legmelegebbek; állj meg itt egy pillanatra élvezni a melengető sugarakat, mielőtt újra árnyékosabb részre érsz.",
+                "ro": "Statuile sunt cele mai calde în lumina soarelui de la prânz; opriți-vă aici un moment pentru a vă bucura de razele soarelui înainte de umbră.",
+                "en": "The statues are warmest in the midday sun; stop here for a moment to enjoy the warming rays before moving back into the shadier areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento en honor al Obrero Desconocido",
+                "hu": "Monumento en honor al Obrero Desconocido",
+                "ro": "Monumento en honor al Obrero Desconocido",
+                "en": "Monumento en honor al Obrero Desconocido"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Denkmal vor dem frühen Sonnenuntergang; ein warmer Schal schützt Sie vor dem kühlen Wind, der hier auf dem freien Platz wehen kann.",
+                "hu": "Látogasd meg ezt az emlékművet a korai naplemente előtt; egy meleg sál jól jöhet a hűvös szél ellen, ami ezen a nyitott téren gyakran fújhat.",
+                "ro": "Vizitați acest monument înainte de apusul devreme; un fular călduros vă va proteja de vântul rece care poate sufla aici în piața deschisă.",
+                "en": "Visit this monument before the early sunset; a warm scarf will protect you from the cool wind that often blows across this open plaza."
+              }
+            },
+            {
+              "name": {
+                "de": "Bóveda Jesus F Contreras",
+                "hu": "Bóveda Jesus F Contreras",
+                "ro": "Bóveda Jesus F Contreras",
+                "en": "Bóveda Jesus F Contreras"
+              },
+              "tip_5lang": {
+                "de": "Das Gewölbe ist ideal für den kühlen späten Nachmittag; genießen Sie die Kunstwerke in geschützter Atmosphäre, bevor die winterliche Nacht hereinbricht.",
+                "hu": "A boltív ideális a hűvös késő délutánra; élvezd a műalkotásokat védett környezetben, mielőtt beállna a téli éjszaka hideg sötétsége odakint.",
+                "ro": "Bolta este ideală pentru după-amiaza târzie și răcoroasă; admirați operele într-o atmosferă protejată înainte de lăsarea nopții de iarnă.",
+                "en": "The vault is ideal for the cool late afternoon; enjoy the artworks in a protected atmosphere before the winter night sets in outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Délelőtt: Kezdje kerékpártúráját a városközpontban található lenyűgöző Halál Múzeumánál. A kiállítások után egy gyors tekerés elviszi Önt a Los Mariachis vibráló hangjaihoz és látványához.\nDél: Élvezze a frissítő utazást északnyugat felé, az UAA kampuszára. Az egyetem területén kerékpározva megcsodálhatja a történelmi akadémia és a modern diákélet nyüzsgő energiájának keveredését.\nDélután: Folytassa útját a Bóveda Jesus F Contreras felé, hogy megcsodálja a helyi szobrokat. Innen tekerjen az impozáns Torre Vip felé, megfigyelve, hogyan változik a város építészete a különböző negyedekben.\nEste: Utolsó útja a történelmi Acueducto La Concha-hoz vezet. A késő délutáni fények lenyűgöző hátteret biztosítanak ezeknek az ősi köveknek, tökéletesen lezárva ezt az aktív napot.",
         "ro": "Dimineața: Începeți turul cu bicicleta la fascinantul Museo de la Muerte din centrul orașului. După vizitarea expozițiilor, o scurtă pedalare vă aduce la sunetele și priveliștile vibrante de la Los Mariachis.\nPrânz: Bucurați-vă de o plimbare revigorantă spre nord-vest, către campusul UAA. Ciclismul prin terenurile universității vă permite să apreciați amestecul dintre mediul academic istoric și viața studențească modernă.\nDupă-amiaza: Continuați-vă călătoria către Bóveda Jesus F Contreras pentru a admira sculpturi locale. De acolo, pedalați spre impresionantul Torre Vip, observând schimbarea arhitecturii prin diversele cartiere.\nSeara: Ultima plimbare vă duce la istoricul Acueducto La Concha. Sosirea în lumina caldă oferă un fundal uimitor pentru aceste pietre antice, încheind perfect o zi activă de explorare.",
         "en": "Morning: Kick off your cycling tour at the fascinating Museo de la Muerte in the city center. After soaking in the exhibits, a quick pedal brings you to the vibrant sounds and sights of the Los Mariachis landmark.\nMidday: Enjoy a refreshing ride northwest towards the UAA campus. Cycling through the university grounds allows you to appreciate the blend of historic academia and the bustling energy of modern student life.\nAfternoon: Continue your journey to the Bóveda Jesus F Contreras to admire local sculptures. From there, pedal towards the impressive Torre Vip, observing how the city's architecture shifts across different neighborhoods.\nEvening: Your final ride leads you to the historic Acueducto La Concha. Arriving in the late afternoon glow provides a stunning backdrop of these ancient stones, perfectly wrapping up your active day out."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt bei leichtem Nieselregen, der besondere Vorsicht erfordert. Mittags sind die Wege oft nass, achten Sie auf rutschige Markierungen. Am Nachmittag suchen wir Schutz in den Museen, um die stärksten Regenfälle abzuwarten. Der Abend bietet trotz der Nässe eine besondere Atmosphäre mit reflektierenden Lichtern auf dem Asphalt, während wir sicher zum Ziel rollen.",
+            "hu": "A kerékpártúra szemerkélő esőben indul, ami fokozott figyelmet igényel az utakon. Délben az utak nedvesek lehetnek, vigyázz a csúszós felfestésekre a kanyarokban. Délután a múzeumok kínálnak száraz menedéket a leghevesebb záporok idején. Este a vizes aszfalton megcsillanó fények különleges hangulatot árasztanak, miközben biztonságban begurulunk a végcélhoz.",
+            "ro": "Turul cu bicicleta începe pe o ploaie ușoară, necesitând atenție sporită pe drumuri. La prânz, pistele pot fi umede, deci aveți grijă la marcajele alunecoase. După-amiaza, căutăm adăpost în muzee pentru a aștepta trecerea celor mai puternice averse. Seara oferă o atmosferă specială cu luminile reflectate pe asfaltul ud, în timp ce pedalăm în siguranță spre final.",
+            "en": "The bike tour starts in light drizzle, requiring extra caution on the roads. At noon, paths may be wet, so watch out for slippery markings in turns. In the afternoon, museums provide a dry sanctuary during the heaviest showers. The evening offers a special atmosphere with lights reflecting on the wet asphalt as we safely cruise to the final destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de la Muerte",
+                "hu": "Museo de la Muerte",
+                "ro": "Museo de la Muerte",
+                "en": "Museo de la Muerte"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Ort; drinnen bleiben Sie trocken, während Sie die Kunst genießen. Achten Sie auf nasse Pedale beim Aufsteigen.",
+                "hu": "Parkold a biciklit fedett helyre; bent szárazon maradsz, amíg a kiállítást nézed. Figyelj a vizes pedálokra, amikor újra nyeregbe szállsz a múzeum után.",
+                "ro": "Parcați bicicleta într-un loc acoperit; în interior veți rămâne uscat în timp ce vizitați. Atenție la pedalele ude când vă urcați din nou pe bicicletă.",
+                "en": "Park your bike in a covered spot; stay dry inside while enjoying the exhibits. Watch out for wet pedals when you get back on the bike after the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Mariachis",
+                "hu": "Los Mariachis",
+                "ro": "Los Mariachis",
+                "en": "Los Mariachis"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für ein Foto; halten Sie auf ebenem Untergrund, da nasses Kopfsteinpflaster rutschig ist. Ein Sattelschutz hält Ihren Sitz trocken.",
+                "hu": "Gyors megálló egy fotóra; egyenes talajon állj meg, mert a vizes kockakő csúszik. Egy nyereghuzat segít szárazon tartani az ülést a következő szakaszig.",
+                "ro": "O oprire rapidă pentru o fotografie; opriți pe teren drept, deoarece pavajul ud alunecă. O protecție pentru șa vă va menține scaunul uscat.",
+                "en": "A quick stop for a photo; stop on level ground as wet cobblestones are slippery. A saddle cover will help keep your seat dry for the next stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "UAA",
+                "hu": "UAA",
+                "ro": "UAA",
+                "en": "UAA"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Campus-Arkaden als Regenschutz; fahren Sie langsam durch Pfützen, um Spritzer zu vermeiden. Ein Kotflügel am Rad ist bei diesem Wetter Gold wert.",
+                "hu": "Használd a kampusz árkádjait eső elleni védelemként; hajts lassan a tócsákon át a felcsapódó víz ellen. Egy sárvédő aranyat ér ilyen időben a gépen.",
+                "ro": "Folosiți arcadele campusului ca protecție împotriva ploii; pedalați încet prin bălți pentru a evita stropirea. O apărătoare este esențială pe vremea asta.",
+                "en": "Use the campus arcades as rain protection; ride slowly through puddles to avoid splashes. A fender on your bike is worth its weight in gold in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bóveda Jesus F Contreras",
+                "hu": "Bóveda Jesus F Contreras",
+                "ro": "Bóveda Jesus F Contreras",
+                "en": "Bóveda Jesus F Contreras"
+              },
+              "tip_5lang": {
+                "de": "Dieses Gewölbe bietet perfekten Schutz vor einem plötzlichen Schauer; prüfen Sie Ihre Bremsen, da nasse Felgen einen längeren Bremsweg haben.",
+                "hu": "Ez a boltív tökéletes menedéket nyújt egy hirtelen zápor elől; ellenőrizd a fékeket, mert a vizes felniken hosszabb a féktávolság a nedves utakon.",
+                "ro": "Această boltă oferă adăpostul perfect împotriva unei averse bruște; verificați frânele, deoarece jantele ude măresc distanța de frânare pe drum.",
+                "en": "This vault offers perfect shelter from a sudden shower; check your brakes, as wet rims require a longer braking distance on the damp roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vip",
+                "hu": "Torre Vip",
+                "ro": "Torre Vip",
+                "en": "Torre Vip"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei der Ankunft schnell den Eingangsbereich auf; tragen Sie eine Regenjacke mit Kapuze, damit die Sicht beim Fahren nicht eingeschränkt wird.",
+                "hu": "Érkezéskor keresd gyorsan a fedett bejáratot; viselj kapucnis esőkabátot, de ügyelj rá, hogy ne korlátozza a kilátást menet közben a forgalomban.",
+                "ro": "La sosire, căutați rapid zona de intrare acoperită; purtați o pelerină cu glugă, dar asigurați-vă că nu vă blochează vizibilitatea în trafic.",
+                "en": "Find the covered entrance quickly upon arrival; wear a hooded raincoat, but make sure it doesn't obstruct your view while riding in traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Acueducto La Concha",
+                "hu": "Acueducto La Concha",
+                "ro": "Acueducto La Concha",
+                "en": "Acueducto La Concha"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Bögen bieten wenig Schutz, halten Sie Ihren Stopp kurz; reflektierende Kleidung ist bei trübem Regenwetter für die Sicherheit unerlässlich.",
+                "hu": "A történelmi ívek kevés védelmet nyújtanak, fogd rövidre a megállót; a fényvisszaverő ruházat elengedhetetlen a biztonsághoz a szürke esőben.",
+                "ro": "Arcurile istorice oferă puțină protecție, așa că scurtați oprirea; îmbrăcămintea reflectorizantă este esențială pentru siguranță pe ploaie gri.",
+                "en": "The historical arches offer little protection, so keep your stop short; reflective clothing is essential for safety during the gray, rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenluft begleitet den Start, Handschuhe sind für den Fahrtwind unverzichtbar. Mittags ist das Radfahren in der klaren Wintersonne sehr angenehm. Da es früh dunkel wird, achten Sie auf funktionierende Beleuchtung für den späten Nachmittag. Abends kühlt es stark ab, planen Sie Ihre Rückfahrt zügig ein und tragen Sie winddichte Kleidung für maximalen Komfort.",
+            "hu": "Friss reggeli levegő kíséri az indulást, a menetszél ellen a kesztyű elengedhetetlen. Délben a tiszta téli napsütésben biciklizni kifejezetten kellemes. Mivel korán sötétedik, ügyelj a működő világításra már a késő délutáni szakaszokon is. Este a levegő gyorsan lehűl, tervezd a visszautat tempósra, és viselj szélálló ruházatot a komfortért.",
+            "ro": "Aerul proaspăt de dimineață însoțește startul, mănușile fiind indispensabile împotriva vântului. La prânz, pedalatul în soarele clar de iarnă este foarte plăcut. Deoarece se întunecă devreme, asigurați-vă că luminile bicicletei funcționează după-amiaza târziu. Seara se răcește brusc, așa că planificați drumul de întoarcere rapid și purtați haine anti-vânt.",
+            "en": "Fresh morning air accompanies the start, and gloves are essential against the wind chill. At noon, cycling in the clear winter sun is very pleasant. Since it gets dark early, ensure your lights are working for the late afternoon stretches. The evening cools down rapidly, so plan a brisk ride back and wear windproof clothing for comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de la Muerte",
+                "hu": "Museo de la Muerte",
+                "ro": "Museo de la Muerte",
+                "en": "Museo de la Muerte"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Museum auf, nachdem Sie durch den kühlen Morgen geradelt sind; ein warmer Tee in der Nähe hilft, die Kälte aus den Gliedern zu vertreiben.",
+                "hu": "Melegedj fel a múzeumban a hűvös reggeli tekerés után; egy forró tea a közelben segít kiűzni a hideget a tagjaidból a kiállítás megtekintése előtt.",
+                "ro": "Încălziți-vă în muzeu după pedalatul prin dimineața răcoroasă; un ceai fierbinte în apropiere vă va ajuta să alungați frigul înainte de vizită.",
+                "en": "Warm up in the museum after your cool morning ride; a hot tea nearby will help chase away the chill before you start exploring the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Los Mariachis",
+                "hu": "Los Mariachis",
+                "ro": "Los Mariachis",
+                "en": "Los Mariachis"
+              },
+              "tip_5lang": {
+                "de": "Ein sonniger Platz für eine kurze Pause; die Wintersonne ist hier am stärksten. Trinken Sie ausreichend Wasser, auch wenn es sich nicht so heiß anfühlt.",
+                "hu": "Napsütötte hely egy rövid pihenőhöz; a téli nap itt a legerősebb. Igyál elég vizet a tekerés közben, még akkor is, ha nem érzed olyan melegnek az időt.",
+                "ro": "Un loc însorit pentru o scurtă pauză; soarele de iarnă este cel mai puternic aici. Beți destulă apă, chiar dacă nu simțiți că este atât de cald afară.",
+                "en": "A sunny spot for a short break; the winter sun is strongest here. Drink enough water while riding, even if the weather doesn't feel that hot."
+              }
+            },
+            {
+              "name": {
+                "de": "UAA",
+                "hu": "UAA",
+                "ro": "UAA",
+                "en": "UAA"
+              },
+              "tip_5lang": {
+                "de": "Der Campus bietet windgeschützte Wege zum Fahren; nutzen Sie die sonnigen Bereiche zwischen den Gebäuden, um die Körperwärme beim Stopp zu halten.",
+                "hu": "A kampusz szélvédett utakat kínál a biciklizéshez; használd ki az épületek közötti napsütötte részeket, hogy megőrizd a testhődet a megálló alatt.",
+                "ro": "Campusul oferă drumuri ferite de vânt pentru pedalat; folosiți zonele însorite dintre clădiri pentru a vă menține căldura corporală în timpul opririi.",
+                "en": "The campus offers wind-protected paths for cycling; use the sunny spots between buildings to maintain your body heat during the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Bóveda Jesus F Contreras",
+                "hu": "Bóveda Jesus F Contreras",
+                "ro": "Bóveda Jesus F Contreras",
+                "en": "Bóveda Jesus F Contreras"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren ist es deutlich wärmer als im Fahrtwind; legen Sie überschüssige Schichten ab, während Sie die Kunst betrachten, um nicht zu überhitzen.",
+                "hu": "Bent jóval melegebb van, mint a menetszélben; vedd le a felesleges rétegeket a nézelődés idejére, hogy ne izzadj le a fűtött belső térben.",
+                "ro": "În interior este mult mai cald decât în vânt; dați jos straturile suplimentare în timp ce vizitați, pentru a nu vă supraîncălzi înăuntru.",
+                "en": "It's much warmer inside than out in the wind; shed any extra layers while browsing to avoid overheating in the heated interior space."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vip",
+                "hu": "Torre Vip",
+                "ro": "Torre Vip",
+                "en": "Torre Vip"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Stopp, bevor die Sonne tief steht; das Licht ist im Winter besonders klar und bietet tolle Kontraste für Fotos der Architektur.",
+                "hu": "Látogasd meg ezt a pontot, mielőtt a nap túl alacsonyra kerülne; a fények télen különösen tiszták, remek kontrasztot adva az építészeti fotókhoz.",
+                "ro": "Vizitați acest punct înainte ca soarele să coboare prea jos; lumina este foarte clară iarna, oferind contraste excelente pentru fotografii arhitecturale.",
+                "en": "Visit this spot before the sun gets too low; the light is especially clear in winter, providing great contrast for your architectural photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Acueducto La Concha",
+                "hu": "Acueducto La Concha",
+                "ro": "Acueducto La Concha",
+                "en": "Acueducto La Concha"
+              },
+              "tip_5lang": {
+                "de": "Am späten Nachmittag wird es hier im Schatten der Bögen schnell kalt; schalten Sie Ihr Licht für die Rückfahrt ein, da die Sicht nun rapide abnimmt.",
+                "hu": "Késő délután az ívek árnyékában gyorsan lehűl az idő; kapcsold be a világítást a hazaúthoz, mert a látási viszonyok ilyenkor hirtelen romlanak.",
+                "ro": "După-amiaza târziu, la umbra arcurilor, se răcește rapid; aprindeți luminile pentru drumul de întoarcere, deoarece vizibilitatea scade brusc acum.",
+                "en": "In the late afternoon, it cools down quickly in the shadow of the arches; turn on your lights for the ride back as visibility decreases rapidly now."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Délelőtt: Kezdje autós kalandját a fenséges Casa de la Cultura Juridica-nál, megcsodálva klasszikus építészetét. A városközpontból élvezze a kényelmes autózást északra, a kiemelkedő Torre Vip felé.\nDél: Folytassa útját a Campanario con Ventanal felé. Az autóval könnyedén, fáradtság nélkül megközelítheti ezeket a történelmi építményeket, így rengeteg ideje marad a bonyolult kőfaragványok felfedezésére.\nDélután: Egy rövid út elviszi a kiterjedt Acueducto La Concha-hoz. Sétáljon körbe ezen a monumentális mérnöki alkotáson, mielőtt tovább indulna északra a kulturálisan jelentős Chicahual helyszínre.\nEste: Zárja átfogó túráját az elegáns Teatro Municipal-nál. A közelben általában kényelmesen lehet parkolni, ami megteremti a feltételeket egy pihentető estéhez vagy egy helyi előadás megtekintéséhez.",
         "ro": "Dimineața: Începeți aventura auto la maiestuoasa Casa de la Cultura Juridica, apreciindu-i arhitectura clasică. Din centrul orașului, bucurați-vă de o plimbare confortabilă spre nord, până la proeminentul Torre Vip.\nPrânz: Continuați-vă traseul către Campanario con Ventanal. Mașina vă facilitează accesul la aceste structuri istorice distincte fără oboseală, lăsând timp suficient pentru a explora detaliile din piatră.\nDupă-amiaza: O scurtă călătorie vă aduce la vastul Acueducto La Concha. Plimbați-vă în jurul acestei monumentale capodopere inginerești înainte de a vă îndrepta mai spre nord, la situl Chicahual.\nSeara: Încheiați-vă turul cuprinzător la elegantul Teatro Municipal. Parcarea în apropiere este de obicei convenabilă, pregătind terenul pentru o seară relaxantă admirând clădirea sau urmărind un spectacol.",
         "en": "Morning: Start your driving adventure at the majestic Casa de la Cultura Juridica, appreciating its classic architecture. From the city center, enjoy a comfortable drive north to the prominent Torre Vip.\nMidday: Continue your route to the Campanario con Ventanal. Having a car makes it easy to access these distinct historical structures without fatigue, allowing plenty of time to explore the intricate stonework.\nAfternoon: A short drive brings you to the sprawling Acueducto La Concha. Take a walk around this monumental feat of engineering before heading further north to the culturally significant Chicahual site.\nEvening: Conclude your comprehensive tour at the elegant Teatro Municipal. Parking nearby is usually convenient, setting the stage for a relaxed evening admiring the venue's exterior or catching a local performance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt komfortabel im trockenen Auto, während der Regen gegen die Scheiben trommelt. Mittags ist der Verkehr bei Nässe oft dichter, planen Sie mehr Zeit für die Parkplatzsuche ein. Nachmittags erreichen wir bequem die kulturellen Zentren, ohne nass zu werden. Der Abend endet entspannt, während wir geschützt durch die beleuchteten, regnerischen Straßen zum Ziel navigieren.",
+            "hu": "Az út kényelmesen, a száraz autóban indul, miközben az eső kopog az üvegen. Délben a forgalom a nedves utakon sűrűbb lehet, számolj több idővel a parkolóhely keresésekor. Délután kényelmesen, ázás nélkül érhetjük el a kulturális központokat az autóval. Az este nyugodtan telik, védve a külvilágtól navigálunk végig a kivilágított, esős utcákon a célunk felé.",
+            "ro": "Călătoria începe confortabil în mașina uscată, în timp ce ploaia bate în geamuri. La prânz, traficul pe drumurile ude poate fi mai intens, deci alocați mai mult timp pentru parcare. După-amiaza, ajungem ușor la centrele culturale fără a ne uda. Seara se încheie relaxat, navigând protejați prin străzile ploioase și luminate către destinația noastră finală.",
+            "en": "The journey starts comfortably in the dry car while rain drums against the windows. At noon, traffic can be heavier on wet roads, so allow extra time for finding parking. In the afternoon, we easily reach cultural centers without getting wet. The evening ends relaxedly, navigating through the lit, rainy streets towards our destination while protected from the elements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de la Cultura Juridica",
+                "hu": "Casa de la Cultura Juridica",
+                "ro": "Casa de la Cultura Juridica",
+                "en": "Casa de la Cultura Juridica"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu meiden; nutzen Sie die Zeit drinnen, um das historische Gebäude in aller Ruhe zu erkunden.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy elkerüld az esőt; használd ki a benti időt a történelmi épület alapos és kényelmes felfedezésére.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; folosiți timpul petrecut în interior pentru a explora clădirea istorică pe îndelete.",
+                "en": "Park as close to the entrance as possible to avoid the rain; use your time inside to explore the historic building thoroughly and comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vip",
+                "hu": "Torre Vip",
+                "ro": "Torre Vip",
+                "en": "Torre Vip"
+              },
+              "tip_5lang": {
+                "de": "Die Glasfassade wirkt bei Regen besonders elegant; prüfen Sie die Scheibenwischer vor der Abfahrt, da die Sicht bei starkem Guss eingeschränkt sein kann.",
+                "hu": "Az üveghomlokzat esőben különösen elegáns látványt nyújt; indulás előtt ellenőrizd az ablaktörlőket, mert a látótávolság záporban lecsökkenhet.",
+                "ro": "Fațada de sticlă arată deosebit de elegant pe ploaie; verificați ștergătoarele înainte de plecare, deoarece vizibilitatea poate scădea în timpul averselor.",
+                "en": "The glass facade looks particularly elegant in the rain; check your wipers before leaving, as visibility can decrease significantly during heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Campanario con Ventanal",
+                "hu": "Campanario con Ventanal",
+                "ro": "Campanario con Ventanal",
+                "en": "Campanario con Ventanal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem Autofenster, bevor Sie kurz aussteigen; ein Taschenregenschirm im Handschuhfach ist für den Weg zum Turm sehr nützlich.",
+                "hu": "Élvezd a kilátást az autó ablakából, mielőtt kiszállnál; egy táskaesernyő a kesztyűtartóban nagyon hasznos lesz a toronyhoz vezető rövid sétán.",
+                "ro": "Bucurați-vă de priveliște de la geamul mașinii înainte de a coborî; o umbrelă în torpedou va fi utilă pentru scurta plimbare până la turn.",
+                "en": "Enjoy the view from the car window before getting out; a compact umbrella in the glove box will be very useful for the short walk to the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Acueducto La Concha",
+                "hu": "Acueducto La Concha",
+                "ro": "Acueducto La Concha",
+                "en": "Acueducto La Concha"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an den Bögen vorbei, um die Aussicht trocken zu genießen; die Parkflächen können bei Regen matschig sein, bleiben Sie auf befestigten Wegen.",
+                "hu": "Hajts el lassan az ívek mellett, hogy szárazon is lásd a kilátást; a parkolók esőben sárosak lehetnek, maradj a kövezett részeken a kiszállásnál.",
+                "ro": "Conduceți încet pe lângă arcuri pentru a vă bucura de priveliște; parcările pot fi noroioase pe ploaie, deci rămâneți pe zonele pavate la coborâre.",
+                "en": "Drive slowly past the arches to enjoy the view while staying dry; parking areas can be muddy in the rain, so stick to paved spots when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Chicahual",
+                "hu": "Chicahual",
+                "ro": "Chicahual",
+                "en": "Chicahual"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis für diesen Stopp; halten Sie eine Regenjacke bereit, falls Sie die Umgebung des Denkmals genauer erkunden möchten.",
+                "hu": "Használd az autót bázisként ehhez a megállóhoz; legyen kéznél egy esőkabát, ha alaposabban is körbejárnád az emlékmű környékét a szabadban.",
+                "ro": "Folosiți mașina ca bază pentru această oprire; aveți la îndemână o pelerină de ploaie dacă doriți să explorați monumentul mai îndeaproape afară.",
+                "en": "Use the car as your home base for this stop; keep a raincoat handy if you want to explore the monument's surroundings more closely outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal",
+                "hu": "Teatro Municipal",
+                "ro": "Teatro Municipal",
+                "en": "Teatro Municipal"
+              },
+              "tip_5lang": {
+                "de": "Das Theater bietet den perfekten trockenen Abschluss des Tages; die Klimaanlage im Auto hilft, beschlagene Scheiben nach dem Einsteigen schnell zu klären.",
+                "hu": "A színház tökéletes száraz zárása a napnak; az autó légkondicionálója segít gyorsan párátlanítani a szélvédőt, miután vizes ruhában beszállsz.",
+                "ro": "Teatrul oferă finalul perfect și uscat al zilei; aerul condiționat din mașină va ajuta la dezaburirea rapidă a geamurilor după ce urcați uzi.",
+                "en": "The theater offers a perfect dry finish to the day; the car's AC will help defog the windows quickly after you get in with damp clothing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt kühl, aber die Sitzheizung sorgt schnell für wohlige Wärme. Mittags lässt sich die Stadt im Auto bequem erkunden, während draußen die klare Wintersonne scheint. Da die Dämmerung früh einsetzt, sind die Fahrten am späten Nachmittag ideal, um die Stadtlichter zu sehen. Abends bleibt es im Wagen gemütlich, während die Außentemperaturen nach Sonnenuntergang rapide sinken.",
+            "hu": "A reggel hűvösen indul, de az ülésfűtés gyorsan kellemes meleget varázsol az autóba. Délben a várost kényelmesen fedezhetjük fel, miközben kint ragyog a tiszta téli napsütés. Mivel korán szürkül, a késő délutáni autózás ideális a városi fények megtekintéséhez. Este a kocsiban barátságos marad a hangulat, miközben kint a hőmérséklet gyorsan zuhan a naplemente után.",
+            "ro": "Dimineața începe cu răcoare, dar încălzirea din scaune aduce rapid confortul în mașină. La prânz, orașul poate fi explorat ușor sub soarele clar de iarnă. Deoarece amurgul vine devreme, plimbările de după-amiază târziu sunt ideale pentru a vedea luminile orașului. Seara atmosfera rămâne plăcută în vehicul, în timp ce afară temperaturile scad brusc după apus.",
+            "en": "The morning starts cool, but the seat heaters quickly provide a cozy warmth in the car. At noon, the city can be easily explored while the clear winter sun shines outside. Since dusk sets in early, late afternoon drives are ideal for seeing the city lights. In the evening, the car stays comfortable while outdoor temperatures drop rapidly after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de la Cultura Juridica",
+                "hu": "Casa de la Cultura Juridica",
+                "ro": "Casa de la Cultura Juridica",
+                "en": "Casa de la Cultura Juridica"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude ist im Winter gut beheizt; lassen Sie Ihre schwere Winterjacke im Auto, um sich drinnen freier zwischen den Exponaten bewegen zu können.",
+                "hu": "Az épület télen is jól fűtött; hagyd a nehéz télikabátot az autóban, hogy bent szabadabban és kényelmesebben mozoghass a kiállítási tárgyak között.",
+                "ro": "Clădirea este bine încălzită iarna; lăsați haina groasă în mașină pentru a vă putea mișca mai liber printre exponate în interiorul primitor.",
+                "en": "The building is well-heated in winter; leave your heavy winter coat in the car so you can move more freely and comfortably among the exhibits inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Vip",
+                "hu": "Torre Vip",
+                "ro": "Torre Vip",
+                "en": "Torre Vip"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne spiegelt sich herrlich in der Glasfassade; nutzen Sie die Parkplätze im Schatten, damit sich das Auto nicht durch die direkte Sonne zu sehr aufheizt.",
+                "hu": "A téli napfény gyönyörűen csillog az üveghomlokzaton; használj árnyékos parkolót, hogy az autó ne melegedjen fel túlságosan a közvetlen napsütésben.",
+                "ro": "Soarele de iarnă se reflectă superb în fațada de sticlă; folosiți parcări umbrite pentru ca mașina să nu se supraîncălzească de la soarele direct.",
+                "en": "The winter sun reflects beautifully off the glass facade; use shaded parking spots so the car doesn't heat up too much from the direct sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Campanario con Ventanal",
+                "hu": "Campanario con Ventanal",
+                "ro": "Campanario con Ventanal",
+                "en": "Campanario con Ventanal"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm für das klare Winterpanorama; halten Sie eine Sonnenbrille bereit, da die tiefstehende Wintersonne beim Fahren stark blenden kann.",
+                "hu": "Látogasd meg a tornyot a tiszta téli panoráma miatt; legyen kéznél napszemüveg, mert az alacsonyan járó téli nap vezetés közben erősen vakíthat.",
+                "ro": "Vizitați turnul pentru panorama clară de iarnă; aveți pregătiți ochelarii de soare, deoarece soarele jos de iarnă poate fi orbitor la volan.",
+                "en": "Visit the tower for the clear winter panorama; keep sunglasses handy as the low-hanging winter sun can be quite blinding while you are driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Acueducto La Concha",
+                "hu": "Acueducto La Concha",
+                "ro": "Acueducto La Concha",
+                "en": "Acueducto La Concha"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am frühen Nachmittag betont die Textur der Steine; genießen Sie die warme Heizung im Auto zwischen den kurzen Fotostopps an den Bögen.",
+                "hu": "A kora délutáni fények kiemelik a kövek textúráját; élvezd az autó melegét a rövid fotómegállók között az íveknél a friss levegő után.",
+                "ro": "Luminile de după-amiază subliniază textura pietrei; bucurați-vă de căldura mașinii între scurtele opriri pentru fotografii la arcuri.",
+                "en": "The early afternoon light highlights the texture of the stones; enjoy the car's warmth between short photo stops at the arches in the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chicahual",
+                "hu": "Chicahual",
+                "ro": "Chicahual",
+                "en": "Chicahual"
+              },
+              "tip_5lang": {
+                "de": "Vor dem frühen Sonnenuntergang ist die Sicht am besten; achten Sie auf den Reifendruck, der bei sinkenden Wintertemperaturen oft leicht abfällt.",
+                "hu": "A korai naplemente előtt a legjobbak a látási viszonyok; ellenőrizd a guminyomást, mert a süllyedő téli hőmérsékletnél ez gyakran lecsökkenhet.",
+                "ro": "Înainte de apusul devreme vizibilitatea este maximă; verificați presiunea pneurilor, deoarece aceasta scade adesea odată cu temperaturile de iarnă.",
+                "en": "Visibility is best before the early sunset; check your tire pressure, as it often drops slightly with the falling winter temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal",
+                "hu": "Teatro Municipal",
+                "ro": "Teatro Municipal",
+                "en": "Teatro Municipal"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im warmen Theatersaal; parken Sie in einer beleuchteten Zone, da es beim Verlassen des Theaters bereits dunkel und kalt sein wird.",
+                "hu": "Zárd a napot a meleg színházteremben; parkolj jól kivilágított helyen, mert mire kijössz az előadásról, már sötét és hideg lesz odakint.",
+                "ro": "Încheiați ziua în sala caldă a teatrului; parcați într-o zonă bine iluminată, deoarece va fi întuneric și frig când veți pleca de la spectacol.",
+                "en": "End the day in the warm theater hall; park in a well-lit zone, as it will already be dark and cold by the time you leave the performance."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Sainte-Agathe templom erődített építészetének megcsodálásával, majd sétáljon át a történelmi kápolnához. Délben fedezze fel a Mussy-les-Longuyon-i vár romjait, és élvezzen egy könnyű ebédet. Délután látogasson el az elegáns Église de la Sainte-Vierge templomba. A sétát az első világháborús emlékműnél tett látogatással zárja, ahogy közeledik a nyugodt kora este.",
         "ro": "Începeți dimineața admirând biserica fortificată Sainte-Agathe, apoi plimbați-vă spre capela istorică. La amiază, explorați ruinele castelului din Mussy-les-Longuyon și bucurați-vă de un prânz ușor. După-amiaza, vizitați eleganta Église de la Sainte-Vierge. Încheiați-vă plimbarea cu un omagiu la Monumentul Primului Război Mondial, în timp ce seara se lasă ușor peste oraș.",
         "en": "Start your morning admiring the fortified architecture of Église Sainte-Agathe before walking to the historic Chapelle Saint-Jean-Baptiste. At midday, head towards Mussy-les-Longuyon to explore the atmospheric castle ruins and enjoy a light packed lunch. In the afternoon, visit the elegant Église de la Sainte-Vierge. Conclude your walk by paying respects at the WWI Monument as evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der regnerische Morgen beginnt in der schützenden Kirche. Mittags erfordern die matschigen Wege zur Burgruine gutes Schuhwerk und einen Regenschirm. Nachmittags bieten die Kirchen trockene Zuflucht. Der Tag endet am nassen, stimmungsvollen Denkmal.",
+            "hu": "Az esős reggel a védett templomban indul. Délben a várromokhoz vezető saras utakon elengedhetetlen a vízálló cipő és az esernyő. Délután a kápolnák száraz menedéket nyújtanak. Az estét a nedvesen is impozáns emlékműnél zárjuk.",
+            "ro": "Dimineața ploioasă începe în biserica protectoare. La prânz, potecile noroioase spre ruine necesită încălțăminte impermeabilă și umbrelă. După-amiaza, bisericile oferă un refugiu uscat. Seara se încheie la monumentul umed și atmosferic.",
+            "en": "The rainy morning begins in the sheltering church. At noon, muddy paths to the castle ruins require waterproof boots and an umbrella. In the afternoon, local churches offer dry refuge. The day ends at the wet, atmospheric memorial."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Agathe",
+                "hu": "Église Sainte-Agathe",
+                "ro": "Église Sainte-Agathe",
+                "en": "Église Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie vor dem Regen in das trockene Kirchenschiff und lassen Sie den Schirm abtropfen.",
+                "hu": "Meneküljön az eső elől a száraz templomhajóba, és hagyja lecsöpögni az esernyőjét.",
+                "ro": "Refugiați-vă de ploaie în naosul uscat al bisericii și lăsați umbrela să se scurgă.",
+                "en": "Escape the heavy rain inside the dry, echoing nave of the historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "hu": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "ro": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "en": "Chapelle Saint-Jean-Baptiste de La Salle"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle bietet einen kurzen, absolut trockenen Unterstand vor dem nächsten Schauer.",
+                "hu": "Ez a kis kápolna rövid, teljesen száraz menedéket nyújt a következő zápor elől.",
+                "ro": "Această mică capelă oferă un scurt adăpost uscat înainte de următoarea aversă.",
+                "en": "This small chapel offers a brief, perfectly dry shelter from the sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château de Mussy-les-Longuyon",
+                "hu": "Ruines du Château de Mussy-les-Longuyon",
+                "ro": "Ruines du Château de Mussy-les-Longuyon",
+                "en": "Ruines du Château de Mussy-les-Longuyon"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steine der Ruine sind sehr rutschig; feste, wasserdichte Schuhe sind Pflicht.",
+                "hu": "A romok nedves kövei nagyon csúszósak; a zárt, vízálló túracipő viselése kötelező.",
+                "ro": "Pietrele umede sunt alunecoase; încălțămintea solidă și impermeabilă este obligatorie.",
+                "en": "The wet stones of the ruins are extremely slippery; sturdy waterproof boots are mandatory."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Sainte-Vierge",
+                "hu": "Église de la Sainte-Vierge",
+                "ro": "Église de la Sainte-Vierge",
+                "en": "Église de la Sainte-Vierge"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort im Trockenen, um die prasselnden Regentropfen in Stille zu genießen.",
+                "hu": "Tökéletes, száraz hely, ahol csendben hallgathatja az esőcseppek békés kopogását.",
+                "ro": "Un loc perfect la uscat pentru a asculta în liniște sunetul ploii.",
+                "en": "A perfect dry refuge to peacefully listen to the rain falling outside in complete silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument 1914-1918",
+                "hu": "Monument 1914-1918",
+                "ro": "Monument 1914-1918",
+                "en": "Monument 1914-1918"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das nasse, dunkle Denkmal kurz und respektvoll unter Ihrem Regenschirm.",
+                "hu": "Tekintse meg a nedves, sötétedő emlékművet egy rövid tiszteletadásra az esernyője alól.",
+                "ro": "Priviți monumentul umed și întunecat pentru scurt timp de sub umbrela dumneavoastră.",
+                "en": "Briefly and respectfully view the wet, somber memorial from beneath your sturdy umbrella."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen startet in der wärmenden Kirche. Mittags weht an der Burgruine ein eisiger Wind, dicke Kleidung ist Pflicht. Nachmittags geht es zu den Kapellen. Erreichen Sie das Denkmal vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "A fagyos reggel a meleg templomban kezdődik. Délben a várromoknál metsző szél fúj, a vastag öltözet kötelező. Délután a kápolnák nyújtanak menedéket. Érjen az emlékműhöz a korai, 17:00 óra körüli sötétedés előtt.",
+            "ro": "Dimineața geroasă începe în biserica încălzită. La prânz, la ruinele castelului bate un vânt tăios, hainele groase sunt obligatorii. Ajungeți la monument înainte de apusul devreme, în jur de ora 17:00.",
+            "en": "A frosty morning starts in the warm church. At noon, biting winds sweep the castle ruins, making thick layers mandatory. Afternoon brings visits to local chapels. Reach the monument before the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Agathe",
+                "hu": "Église Sainte-Agathe",
+                "ro": "Église Sainte-Agathe",
+                "en": "Église Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der geschlossenen Kirche auf, bevor Sie in die Morgenkälte hinausgehen.",
+                "hu": "Melegedjen fel a zárt templomban, mielőtt kilépne a csípős, fagyos reggeli levegőre.",
+                "ro": "Încălziți-vă în biserica închisă înainte de a ieși în aerul rece al dimineții.",
+                "en": "Warm up completely inside the sheltered church before stepping out into the freezing morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "hu": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "ro": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "en": "Chapelle Saint-Jean-Baptiste de La Salle"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steinmauern strahlen Kälte ab, behalten Sie Mütze und dicke Handschuhe an.",
+                "hu": "A régi kőfalak jéghidegek, a rövid látogatás alatt is tartsa magán a sapkát és a kesztyűt.",
+                "ro": "Zidurile vechi de piatră sunt reci, păstrați căciula și mănușile groase pe dumneavoastră.",
+                "en": "The old stone walls radiate freezing cold, so keep your winter hat and gloves firmly on."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château de Mussy-les-Longuyon",
+                "hu": "Ruines du Château de Mussy-les-Longuyon",
+                "ro": "Ruines du Château de Mussy-les-Longuyon",
+                "en": "Ruines du Château de Mussy-les-Longuyon"
+              },
+              "tip_5lang": {
+                "de": "Auf dem offenen Hügel zieht ein eisiger Wind; dicke Schichten sind hier absolut nötig.",
+                "hu": "A nyitott dombon jéghideg szél fúj; a vastag, réteges téli öltözet itt elengedhetetlen.",
+                "ro": "Pe dealul deschis bate un vânt înghețat; straturile groase sunt absolut necesare aici.",
+                "en": "An icy wind relentlessly sweeps the exposed hilltop; thick winter layers are essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Sainte-Vierge",
+                "hu": "Église de la Sainte-Vierge",
+                "ro": "Église de la Sainte-Vierge",
+                "en": "Église de la Sainte-Vierge"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier dringend Zuflucht vor dem beißenden Wind und reiben Sie Ihre Hände warm.",
+                "hu": "Keressen menedéket a metsző szél elől ebben a csendes templomban, és dörzsölje melegre a kezét.",
+                "ro": "Căutați refugiu din calea vântului tăios în această biserică și încălziți-vă mâinile.",
+                "en": "Seek immediate refuge from the biting winter wind inside this quiet church and warm your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument 1914-1918",
+                "hu": "Monument 1914-1918",
+                "ro": "Monument 1914-1918",
+                "en": "Monument 1914-1918"
+              },
+              "tip_5lang": {
+                "de": "Im schwindenden Winterlicht gegen 17:00 Uhr wirkt das steinerne Denkmal besonders ernst.",
+                "hu": "A 17:00 óra körüli csökkenő téli fényben a kőemlékmű különösen komor és tiszteletparancsoló.",
+                "ro": "În lumina slabă de iarnă din jurul orei 17:00, monumentul pare deosebit de solemn.",
+                "en": "In the quickly fading winter light around 17:00, the stone memorial feels deeply solemn."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a fenséges Sainte-Agathe templomnál, mielőtt felteker a Notre-Dame kápolnához. Délben látogasson el a történelmi Saint-Jean-Baptiste kápolnába és a lenyűgöző várromokhoz. Délután tekerjen át a gyönyörű Église de la Sainte-Vierge templomhoz. Végül emlékezzen meg a helyi hősökről az 1914-1918-as emlékműnél, mielőtt befejezné ezt az aktív és tartalmas napot.",
         "ro": "Începeți turul cu bicicleta la biserica Sainte-Agathe, înainte de a pedala spre liniștita capelă Notre-Dame. Amiaza vă aduce la capela Saint-Jean-Baptiste și la fascinantele ruine ale castelului. După-amiaza, mergeți pe bicicletă spre Église de la Sainte-Vierge. În cele din urmă, reflectați la Monumentul 1914-1918 înainte de a încheia o zi activă și relaxantă pe două roți.",
         "en": "Kick off your cycling tour at the majestic Église Sainte-Agathe before riding up to the serene Chapelle Notre-Dame-de-Bon-Secours. Midday brings you to the historic Chapelle Saint-Jean-Baptiste and the fascinating castle ruins in Mussy-les-Longuyon. In the afternoon, pedal over to the Église de la Sainte-Vierge. Finally, reflect at the 1914-1918 Monument before wrapping up your cycling day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der nasse Morgen erfordert wasserdichte Kleidung. Mittags sind die Wege zur Ruine rutschig, fahren Sie vorsichtig. Nachmittags bieten die Kirchen kurze Trockenpausen. Die abendliche Rückfahrt vom Denkmal verlangt gutes Licht im Regen.",
+            "hu": "A nedves reggel vízálló felszerelést igényel. Délben a várromhoz vezető utak csúszósak, vezessen óvatosan. Délután a templomok rövid, száraz pihenőt adnak. Az esti visszaút az emlékműtől jó világítást követel az esőben.",
+            "ro": "Dimineața umedă necesită echipament impermeabil. La prânz, drumurile spre ruine sunt alunecoase, conduceți cu grijă. După-amiaza, bisericile oferă scurte pauze uscate. Întoarcerea de seară necesită lumini bune pe ploaie.",
+            "en": "The wet morning demands waterproof gear. At noon, trails to the ruins are slippery, so ride carefully. In the afternoon, churches offer short, dry breaks. The evening ride back from the monument requires good lights in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Agathe",
+                "hu": "Église Sainte-Agathe",
+                "ro": "Église Sainte-Agathe",
+                "en": "Église Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab und schütteln Sie Ihre Regenjacke im Vorraum aus.",
+                "hu": "Támassza le biztonságosan a kerékpárt, és rázza le az esőkabátját az előtérben.",
+                "ro": "Lăsați bicicleta în siguranță și scuturați-vă pelerina de ploaie la intrare.",
+                "en": "Park your bike safely and aggressively shake off your wet rain jacket in the vestibule."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-Bon-Secours",
+                "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+                "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+                "en": "Chapelle Notre-Dame-de-Bon-Secours"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg hierher strotzt vor Pfützen; nutzen Sie das Vordach bei plötzlichem Platzregen.",
+                "hu": "Az idevezető bringaút pocsolyás; húzódjon a tető alá, ha hirtelen lezúdulna egy zápor.",
+                "ro": "Pista de biciclete are bălți; folosiți copertina în caz de aversă bruscă.",
+                "en": "The bike path here is filled with puddles; use the canopy if a sudden downpour hits."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "hu": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "ro": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "en": "Chapelle Saint-Jean-Baptiste de La Salle"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um den nassen Sattel abzuwischen und dem Dauerregen zu entkommen.",
+                "hu": "Kiváló megálló a nedves nyereg szárazra törlésére és egy kis esőszünet tartására.",
+                "ro": "O oprire excelentă pentru a șterge șaua udă și a scăpa de ploaia continuă.",
+                "en": "An excellent stop to wipe your wet saddle dry and briefly escape the continuous rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château de Mussy-les-Longuyon",
+                "hu": "Ruines du Château de Mussy-les-Longuyon",
+                "ro": "Ruines du Château de Mussy-les-Longuyon",
+                "en": "Ruines du Château de Mussy-les-Longuyon"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf dem matschigen Anstieg; das Gelände der Ruine ist extrem rutschig.",
+                "hu": "Tolja a bringát a saras emelkedőn; a romok melletti terep rendkívül csúszós és veszélyes.",
+                "ro": "Împingeți bicicleta pe urcarea noroioasă; terenul ruinelor este extrem de alunecos.",
+                "en": "Push your bike carefully up the muddy incline; the ruin grounds are extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Sainte-Vierge",
+                "hu": "Église de la Sainte-Vierge",
+                "ro": "Église de la Sainte-Vierge",
+                "en": "Église de la Sainte-Vierge"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Radbekleidung im ruhigen Inneren der Kirche ein paar Minuten abtropfen.",
+                "hu": "Hagyja a kerékpáros esőruházatot lecsöpögni a templom csendes és száraz belső terében.",
+                "ro": "Lăsați hainele de ciclism să se scurgă câteva minute în interiorul liniștit al bisericii.",
+                "en": "Let your drenched cycling gear drip dry for a few minutes in the quiet church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument 1914-1918",
+                "hu": "Monument 1914-1918",
+                "ro": "Monument 1914-1918",
+                "en": "Monument 1914-1918"
+              },
+              "tip_5lang": {
+                "de": "Achtung beim Bremsen am Denkmal: Nasses Laub auf dem Weg erhöht die Rutschgefahr stark.",
+                "hu": "Fékezéskor különösen ügyeljen az emlékműnél: a nedves falevelek nagyon csúsznak az úton.",
+                "ro": "Atenție la frânare lângă monument: frunzele umede cresc riscul de alunecare.",
+                "en": "Be highly cautious when braking near the memorial: wet fallen leaves make paths slick."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Kälte verlangt Thermo-Radbekleidung. Mittags wärmen die Anstiege zur Burgruine, aber Vorsicht vor Eisplatten. Nachmittags geht es durch die frostige Landschaft. Beenden Sie die Tour vor dem dunklen Abend gegen 17:00 Uhr.",
+            "hu": "A reggeli hideg termo kerékpáros ruhát kíván. Délben a várromhoz vezető emelkedő bemelegít, de vigyázzon a jégfoltokra. Délután a fagyos tájon tekerünk. Fejezze be a túrát a korai, 17:00 órás sötétedés előtt.",
+            "ro": "Frigul dimineții cere echipament termic. La prânz, urcările spre ruine vă încălzesc, dar atenție la gheață. După-amiaza traversați peisajul înghețat. Terminați turul înainte de lăsarea întunericului, la ora 17:00.",
+            "en": "The morning cold demands thermal cycling gear. At noon, climbs to the ruins keep you warm, but watch out for icy patches. Afternoon takes you through frosty landscapes. Finish the tour before the dark, freezing evening sets in around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Agathe",
+                "hu": "Église Sainte-Agathe",
+                "ro": "Église Sainte-Agathe",
+                "en": "Église Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier noch einmal komplett auf, bevor Sie in den frostigen Fahrtwind starten.",
+                "hu": "Melegedjen fel itt teljesen, mielőtt nekivágna a jéghideg, fagyos menetszélnek a nyeregben.",
+                "ro": "Încălziți-vă complet aici înainte de a porni în vântul înghețat pe bicicletă.",
+                "en": "Warm yourself thoroughly inside before bracing against the frosty headwinds on your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-Bon-Secours",
+                "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+                "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+                "en": "Chapelle Notre-Dame-de-Bon-Secours"
+              },
+              "tip_5lang": {
+                "de": "Der freie Radweg ist kalt und ungeschützt; bewundern Sie die winterliche Kapelle daher zügig.",
+                "hu": "A nyílt bringaút hideg és védtelen; csodálja meg ezt a gyönyörű téli kápolnát, majd tekerjen tovább.",
+                "ro": "Pista deschisă este rece; admirați rapid capela de iarnă pentru a nu îngheța.",
+                "en": "The exposed bike path is freezing cold; admire this wintery chapel briskly to keep moving."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "hu": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "ro": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "en": "Chapelle Saint-Jean-Baptiste de La Salle"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Moment, um an diesem frostbedeckten Steinbau kurz die steifen Beinmuskeln zu dehnen.",
+                "hu": "Tökéletes pillanat, hogy e fagyos kőépület mellett lenyújtsa az átfagyott lábizmokat.",
+                "ro": "Un moment bun pentru a întinde mușchii rigizi ai picioarelor lângă această clădire.",
+                "en": "A great moment to stretch stiff, cold leg muscles next to this frost-covered stone building."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château de Mussy-les-Longuyon",
+                "hu": "Ruines du Château de Mussy-les-Longuyon",
+                "ro": "Ruines du Château de Mussy-les-Longuyon",
+                "en": "Ruines du Château de Mussy-les-Longuyon"
+              },
+              "tip_5lang": {
+                "de": "Große Vorsicht vor versteckten Eisplatten auf dem Hügelweg; das Rad schieben ist oft sicherer.",
+                "hu": "Nagy figyelem a dombvidéki jégfoltokra; a kerékpárt tolni sokszor biztonságosabb választás.",
+                "ro": "Mare atenție la gheața ascunsă pe drumul de deal; împingerea bicicletei e mai sigură.",
+                "en": "Exercise extreme caution regarding hidden ice patches on the hill; pushing the bike is safer."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Sainte-Vierge",
+                "hu": "Église de la Sainte-Vierge",
+                "ro": "Église de la Sainte-Vierge",
+                "en": "Église de la Sainte-Vierge"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um Ihre eiskalten Hände im ruhigen Innenraum der Kirche aufzuwärmen.",
+                "hu": "Használja ki a megállót, hogy felmelegítse jéghideg, merev kezeit a templom békés terében.",
+                "ro": "Folosiți oprirea pentru a vă încălzi mâinile reci în interiorul liniștit al bisericii.",
+                "en": "Use this vital stop to thaw your freezing, stiff hands inside the church's quiet interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument 1914-1918",
+                "hu": "Monument 1914-1918",
+                "ro": "Monument 1914-1918",
+                "en": "Monument 1914-1918"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal zügig; schalten Sie das Fahrradlicht vor 17:00 Uhr zwingend ein.",
+                "hu": "Látogassa meg az emlékművet gyorsan; 17:00 óra előtt feltétlenül kapcsolja fel a kerékpárlámpát.",
+                "ro": "Vizitați monumentul rapid; porniți obligatoriu luminile bicicletei înainte de ora 17:00.",
+                "en": "Visit the memorial briskly; ensure you turn on your strong bike lights before the 17:00 dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Először hajtson a Sainte-Agathe templomhoz, majd ugorjon át a Saint-Jean-Baptiste kápolnához. A delet a várromok és a világháborús emlékmű felfedezésével töltse. Délután hagyja el a központot, és látogasson el a hatalmas földalatti Fort de Fermont-ba és a közeli kápolnába. Fejezze be autós kirándulását egy pihentető naplementés sétával a csodálatos Étang de la Forge partján.",
         "ro": "Conduceți mai întâi la biserica Sainte-Agathe, apoi treceți rapid pe la capela Saint-Jean-Baptiste. Petreceți amiaza explorând ruinele castelului și monumentul din război. După-amiaza, ieșiți din centru pentru a vizita masivul Fort de Fermont subteran și capela Notre-Dame din apropiere. Încheiați excursia cu o plimbare relaxantă la apus de soare pe malul lacului Étang de la Forge.",
         "en": "Drive first to the fortified Église Sainte-Agathe, then quickly hop to the Chapelle Saint-Jean-Baptiste. Spend midday exploring the castle ruins of Mussy-les-Longuyon and viewing the WWI Monument. In the afternoon, head out of the center to tour the massive underground Fort de Fermont and the nearby Notre-Dame chapel. End your road trip with a relaxing sunset stroll at the Étang de la Forge."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie trocken von Kirche zu Kapelle. Mittags benötigen Sie Gummistiefel für die nassen Burgruinen. Nachmittags ist das unterirdische Fort de Fermont der perfekte, regensichere Ort. Abends wirkt der See im Nebel sehr mystisch.",
+            "hu": "Reggel szárazon autózhat a templomok között. Délben gumicsizma kell a nedves várromokhoz. Délután a föld alatti Fort de Fermont tökéletes, esővédett program. Este a ködbe burkolózó tó misztikus és békés látványt nyújt az autóból.",
+            "ro": "Dimineața conduceți la cald între biserici. La prânz, aveți nevoie de cizme de cauciuc pentru ruinele umede. După-amiaza, fortul subteran este locul perfect, ferit de ploaie. Seara, lacul arată foarte mistic în ceață.",
+            "en": "In the morning, drive dryly between churches. At noon, you need rain boots for the wet castle ruins. In the afternoon, the underground Fort de Fermont is the perfect rainproof spot. In the evening, the misty lake looks highly mystical."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Agathe",
+                "hu": "Église Sainte-Agathe",
+                "ro": "Église Sainte-Agathe",
+                "en": "Église Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Sprinten Sie vom warmen Auto ins Trockene, um das Innere der Kirche zu bewundern.",
+                "hu": "Szaladjon be a meleg autóból a szárazra, hogy megcsodálja a templom csendes belső terét.",
+                "ro": "Fugiți din mașina caldă la uscat pentru a admira interiorul liniștit al bisericii.",
+                "en": "Dash quickly from your warm car into the dry shelter of the church to admire its interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "hu": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "ro": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "en": "Chapelle Saint-Jean-Baptiste de La Salle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Gebäude und nutzen Sie den Schirm für diesen sehr kurzen Stopp.",
+                "hu": "Parkoljon a lehető legközelebb, és nyisson esernyőt ehhez a nagyon rövid, kinti megállóhoz.",
+                "ro": "Parcați aproape de clădire și folosiți umbrela pentru această oprire foarte scurtă.",
+                "en": "Park as close as possible and pop open your umbrella for this very brief outdoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château de Mussy-les-Longuyon",
+                "hu": "Ruines du Château de Mussy-les-Longuyon",
+                "ro": "Ruines du Château de Mussy-les-Longuyon",
+                "en": "Ruines du Château de Mussy-les-Longuyon"
+              },
+              "tip_5lang": {
+                "de": "Die matschigen Wege vom Parkplatz zur Ruine erfordern zwingend robuste Gummistiefel.",
+                "hu": "A parkolótól a romokig vezető mély, saras út miatt a gumicsizma vagy bakancs kötelező.",
+                "ro": "Potecile noroioase de la parcare la ruine necesită obligatoriu cizme de cauciuc robuste.",
+                "en": "The extremely muddy paths from the parking lot up to the ruins absolutely require rain boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument 1914-1918",
+                "hu": "Monument 1914-1918",
+                "ro": "Monument 1914-1918",
+                "en": "Monument 1914-1918"
+              },
+              "tip_5lang": {
+                "de": "Werfen Sie einen kurzen, vom Regen gedämpften Blick aus der relativen Nähe Ihres Autos.",
+                "hu": "Vessen egy rövid, a sűrű esőtől tompított pillantást a kényelmes autó közeléből.",
+                "ro": "Aruncați o privire scurtă, estompată de ploaie, din imediata apropiere a mașinii dumneavoastră.",
+                "en": "Take a brief, rain-dampened look at the monument from the relative comfort near your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Fermont",
+                "hu": "Fort de Fermont",
+                "ro": "Fort de Fermont",
+                "en": "Fort de Fermont"
+              },
+              "tip_5lang": {
+                "de": "Das absolute Highlight bei Regen: Erforschen Sie die komplett trockenen, unterirdischen Anlagen.",
+                "hu": "Az esős nap tökéletes fénypontja: a teljesen száraz, izgalmas föld alatti bunkerrendszer.",
+                "ro": "Atracția absolută pe ploaie: explorați buncărele subterane, complet uscate.",
+                "en": "The ultimate rainy day highlight: exploring the perfectly dry, massive underground bunkers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-Bon-Secours",
+                "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+                "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+                "en": "Chapelle Notre-Dame-de-Bon-Secours"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur der Kapelle einfach bequem durch die prasselnden Autoscheiben.",
+                "hu": "Csodálja meg a kápolna építészetét szárazon, kényelmesen a nedves szélvédőn keresztül.",
+                "ro": "Admirați arhitectura capelei confortabil, prin geamurile bătute de ploaie ale mașinii.",
+                "en": "Comfortably admire the chapel's architecture right through the rain-streaked car windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Forge",
+                "hu": "Étang de la Forge",
+                "ro": "Étang de la Forge",
+                "en": "Étang de la Forge"
+              },
+              "tip_5lang": {
+                "de": "Die starken Regentropfen auf dem trüben See bieten ein beruhigendes Naturschauspiel vom Auto aus.",
+                "hu": "A sűrű esőcseppek a tavon megnyugtató, melankolikus természeti látványt nyújtanak az autóból.",
+                "ro": "Picăturile de ploaie pe lacul tulbure oferă un spectacol natural liniștitor din mașină.",
+                "en": "The heavy raindrops hitting the murky lake surface create a soothing natural spectacle from the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie morgens die warme Fahrt zu den frostigen Kirchen. Mittags weht an der Ruine ein kalter Wind. Nachmittags bleiben die Jacken im unterirdischen Fort an. Erleben Sie den frühen Sonnenuntergang um 17:00 Uhr am zugefrorenen See.",
+            "hu": "Élvezze a reggeli meleg autózást a deres templomokhoz. Délben a romoknál hideg szél fúj. Délután a föld alatti erődben is maradjon a kabát. Tapasztalja meg a korai, 17:00 órás naplementét a részben befagyott tó partján.",
+            "ro": "Bucurați-vă de condusul la cald spre bisericile geroase. La prânz, la ruine suflă un vânt rece. După-amiaza, păstrați jachetele în fortul subteran. Experimentați apusul devreme, la ora 17:00, la lacul înghețat.",
+            "en": "Enjoy the warm morning drive to the frosty churches. At noon, a cold wind blows at the ruins. In the afternoon, keep your jackets on inside the underground fort. Experience the early sunset around 17:00 by the frozen lake."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Agathe",
+                "hu": "Église Sainte-Agathe",
+                "ro": "Église Sainte-Agathe",
+                "en": "Église Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Nach der stark beheizten Autofahrt fühlt sich die dicke Steinkirche erfrischend kühl an.",
+                "hu": "A jól fűtött autóból kiszállva a vastag falú kőtemplom frissítően, de metszően hűvös.",
+                "ro": "După mașina puternic încălzită, biserica din piatră groasă se simte revigorant de rece.",
+                "en": "Stepping out of your heavily heated car, the thick stone church feels refreshingly crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "hu": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "ro": "Chapelle Saint-Jean-Baptiste de La Salle",
+                "en": "Chapelle Saint-Jean-Baptiste de La Salle"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen oder ziehen Sie sich für den eiskalten Kurzbesuch extrem warm an.",
+                "hu": "Hagyja járni a motort egy kicsit, vagy öltözzön fel nagyon melegen erre a fagyos, rövid vizitre.",
+                "ro": "Lăsați motorul pornit scurt timp sau îmbrăcați-vă foarte gros pentru această vizită înghețată.",
+                "en": "Keep the car engine running briefly, or zip up your thickest coat for this freezing short visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines du Château de Mussy-les-Longuyon",
+                "hu": "Ruines du Château de Mussy-les-Longuyon",
+                "ro": "Ruines du Château de Mussy-les-Longuyon",
+                "en": "Ruines du Château de Mussy-les-Longuyon"
+              },
+              "tip_5lang": {
+                "de": "Ganz oben weht ein eisiger Wind; der schmale Weg vom Parkplatz ist durch den Schnee oft rutschig.",
+                "hu": "Legfelül jéghideg szél tombol; a parkolótól vezető keskeny ösvény a hótól gyakran csúszik.",
+                "ro": "Sus suflă un vânt de gheață; poteca îngustă de la parcare este adesea alunecoasă din cauza zăpezii.",
+                "en": "Freezing winds dominate the top; the narrow path from the parking lot is dangerously snowy."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument 1914-1918",
+                "hu": "Monument 1914-1918",
+                "ro": "Monument 1914-1918",
+                "en": "Monument 1914-1918"
+              },
+              "tip_5lang": {
+                "de": "Das schneebedeckte Denkmal strahlt in der klaren Winterluft eine unglaubliche, tiefe Ruhe aus.",
+                "hu": "A hóval borított emlékmű a tiszta, fagyos levegőben hihetetlenül mély, néma nyugalmat áraszt.",
+                "ro": "Monumentul acoperit de zăpadă emană o pace profundă și incredibilă în aerul clar de iarnă.",
+                "en": "The snow-covered memorial monument radiates an incredible, profound peace in the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Fermont",
+                "hu": "Fort de Fermont",
+                "ro": "Fort de Fermont",
+                "en": "Fort de Fermont"
+              },
+              "tip_5lang": {
+                "de": "Im tiefen, unterirdischen Fort ist es konstant extrem kalt; behalten Sie die Winterjacke stets an.",
+                "hu": "A mély, föld alatti erődben egész évben állandó a hideg; mindenképp tartsa magán a télikabátot.",
+                "ro": "În fortul subteran adânc este constant foarte frig; păstrați jacheta de iarnă pe dumneavoastră mereu.",
+                "en": "The deep underground fort remains constantly freezing cold; absolutely keep your winter jacket on."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-Bon-Secours",
+                "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+                "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+                "en": "Chapelle Notre-Dame-de-Bon-Secours"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine malerische Fahrt; gute Winterreifen sind auf den verschneiten Hügeln sehr wichtig.",
+                "hu": "Élvezze a festői autózást; a kiváló téli gumi elengedhetetlen a havas, jeges dombvidéken.",
+                "ro": "Bucurați-vă de o plimbare pitorească; anvelopele bune de iarnă sunt foarte importante pe dealurile înzăpezite.",
+                "en": "Enjoy a highly scenic drive; premium winter tires are absolutely vital on these snowy hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Forge",
+                "hu": "Étang de la Forge",
+                "ro": "Étang de la Forge",
+                "en": "Étang de la Forge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den wunderschönen, frühen Sonnenuntergang gegen 17:00 Uhr direkt am zugefrorenen Ufer.",
+                "hu": "Élvezze a gyönyörű, korai, 17:00 óra körüli naplementét közvetlenül a részben befagyott tó partjáról.",
+                "ro": "Bucurați-vă de apusul frumos și devreme, în jur de ora 17:00, direct pe malul înghețat al lacului.",
+                "en": "Take in the stunning, early 17:00 sunset directly parked by the beautifully frozen lakeshore."
+              }
+            }
+          ]
+        }
       }
     }
   }

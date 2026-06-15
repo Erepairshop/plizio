@@ -137,6 +137,168 @@
         "hu": "A reggel a kiemelkedő Nogales Művészeti Múzeumban kezdődik, amely kulturális központ, mielőtt egy rövid sétával felfedeznénk a Primeria Alta Történeti Múzeumot. A telet északra sétálva töltjük, élvezve a helyi építészetet és az ünnepélyes légkört a Santa Cruz megyei Dicsőségtáblánál. A délutánt történelmi elmélyülés zárja a Nogalitosnál és a Padre Kino szobornál. Az este lehetőséget ad a határváros örökségének nyugodt végiggondolására.",
         "ro": "Dimineața începe la remarcabilul Muzeu de Artă din Nogales, înainte de o scurtă plimbare pentru a explora istoria regională profundă la Muzeul de Istorie Primeria Alta. La prânz vă îndreptați spre nord, bucurându-vă de arhitectura locală și de atmosfera solemnă de la Santa Cruz County Honor Roll. După-amiaza se încheie cu o incursiune istorică la Nogalitos și la impresionanta Statuie Padre Kino. Seara permite o reflecție relaxată asupra patrimoniului orașului.",
         "en": "Morning begins at the prominent Nogales Museum of Art, a cultural centerpiece, before a short stroll to explore deep regional history at the Primeria Alta History Museum. Midday is spent walking north, enjoying local architecture and the solemn atmosphere at the Santa Cruz County Honor Roll. The afternoon concludes with historical immersion at Nogalitos and the impressive Padre Kino Statue. Evening allows for a relaxed reflection on the border city's heritage and local dining."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie regengeschützt im Kunstmuseum. Mittags tauchen Sie im Geschichtsmuseum unter, während die Schauer vorüberziehen. Der Nachmittagsspaziergang zu den Denkmälern erfordert einen Schirm und feste Schuhe. Lassen Sie den Abend bei den Statuen ausklingen und genießen Sie die Atmosphäre der Grenzstadt im Regen.",
+            "hu": "Kezdje a reggelt esőtől védve a művészeti múzeumban. Délben merüljön el a helytörténetben a száraz falak között. A délutáni séta az emlékművekhez esernyőt és vízálló cipőt igényel. Este a szobrok környékén zárja a napot, miközben a határváros különleges, esős hangulatát élvezi.",
+            "ro": "Începeți dimineața la adăpost de ploaie în muzeul de artă. La prânz, descoperiți istoria locală în muzeul uscat. Plimbarea de după-amiază spre monumente necesită umbrelă și încălțăminte impermeabilă. Încheiați seara lângă statui, reflectând asupra orașului de graniță sub ploaie.",
+            "en": "Start your morning indoors at the art museum, escaping the rain. By noon, dive into local history at the museum while showers pass. The afternoon walk to the memorials requires an umbrella and waterproof shoes. Conclude the evening near the statues, reflecting on the border town under the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kunstmuseum Nogales",
+                "hu": "Nogales Művészeti Múzeum",
+                "ro": "Muzeul de Artă Nogales",
+                "en": "Nogales Museum of Art"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die lokale Kunst in diesem trockenen Raum. Geben Sie Ihren nassen Schirm ab, bevor Sie die faszinierenden Galerien erkunden.",
+                "hu": "Csodálja meg a helyi művészetet ezen a száraz helyen. Tegye le vizes esernyőjét a ruhatárban, mielőtt felfedezi a termeket.",
+                "ro": "Admirați arta locală în acest spațiu uscat și acoperit. Lăsați umbrela udă la garderobă înainte de a explora galeriile.",
+                "en": "Admire local borderland art in this dry, covered space. Use the coat check for your wet umbrella before exploring the galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Primeria Alta History Museum",
+                "hu": "Primeria Alta Történeti Múzeum",
+                "ro": "Muzeul de Istorie Primeria Alta",
+                "en": "Primeria Alta History Museum"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die regionale Geschichte kennen. Das robuste Dach dieses Gebäudes bietet tollen Schutz vor den Nachmittagsschauern.",
+                "hu": "Ismerje meg a régió történelmét ebben a nagyszerű épületben. Erős teteje kiváló menedéket nyújt a makacs délutáni záporok elől.",
+                "ro": "Învățați despre istoria regională în această clădire. Acoperișul său robust oferă un adăpost excelent împotriva ploilor persistente.",
+                "en": "Learn about regional history in this grand building. Its sturdy roof offers great shelter from the persistent afternoon showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Cruz County Honor Roll",
+                "hu": "Santa Cruz Megyei Dicsőségtábla",
+                "ro": "Panoul de Onoare Santa Cruz County",
+                "en": "Santa Cruz County Honor Roll"
+              },
+              "tip_5lang": {
+                "de": "Lesen Sie die Namen lokaler Helden an diesem Denkmal. Bringen Sie einen stabilen Regenschirm mit, da es hier keinen Schutz vor Regen gibt.",
+                "hu": "Olvassa el a helyi hősök neveit az emlékműnél. Hozzon magával erős esernyőt, mivel itt egyáltalán nincs fedett rész az eső elől.",
+                "ro": "Citiți numele eroilor locali la acest memorial. Aduceți o umbrelă rezistentă, deoarece nu există acoperiș împotriva ploii aici.",
+                "en": "Read the names of local heroes at this outdoor memorial. Bring a sturdy umbrella as there is absolutely no cover from the rain here."
+              }
+            },
+            {
+              "name": {
+                "de": "Nogalitos",
+                "hu": "Nogalitos",
+                "ro": "Nogalitos",
+                "en": "Nogalitos"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie an diesem historischen Wahrzeichen vorbei. Achten Sie auf dem rutschigen, nassen Pflaster besonders auf Ihre Schritte.",
+                "hu": "Sétáljon el e történelmi nevezetesség mellett. Vigyázzon a lépéseire a csúszós, nedves burkolaton az esőben való nézelődés közben.",
+                "ro": "Treceți pe lângă acest punct de reper istoric. Aveți grijă la pași pe pavajul alunecos și umed, în timp ce admirați arhitectura.",
+                "en": "Pass by this historical landmark. Watch your step carefully on the slick, wet pavement while admiring the architecture under the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Padre Kino Statue",
+                "hu": "Padre Kino Szobor",
+                "ro": "Statuia Padre Kino",
+                "en": "Padre Kino Statue"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die berühmte Missionarsstatue im Regen glänzen. Treten Sie vorsichtig auf die nassen Steine, um tiefere Pfützen zu meiden.",
+                "hu": "Nézze meg az esőben csillogó híres misszionárius szobrát. Lépjen óvatosan a vizes térköveken, elkerülve a kellemetlen tócsákat.",
+                "ro": "Vedeți faimoasa statuie strălucind udă în ploaie. Pășiți cu grijă pe pietrele inundate ale pieței pentru a evita bălțile adânci.",
+                "en": "See the famous missionary statue shining wet in the rain. Step carefully on the flooded plaza stones to avoid stepping into deep puddles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt perfekt in der warmen Kunstgalerie. Der Mittag ist ideal für das Geschichtsmuseum. Der nachmittägliche Spaziergang erfordert warme Kleidung gegen den Wind. Beenden Sie die Tour vor dem frühen Sonnenuntergang um 17:00 Uhr an der Statue.",
+            "hu": "A csípős téli reggel tökéletesen indul a fűtött művészeti múzeumban. A dél ideális a történelem felfedezésére. A délutáni séta az emlékművekhez meleg rétegeket kíván a szél miatt. Fejezze be a sétát a korai, 17:00 órai sötétedés előtt a szobornál.",
+            "ro": "Dimineața rece de iarnă începe la muzeul de artă încălzit. Prânzul este ideal pentru muzeul de istorie. Plimbarea de după-amiază spre monumente necesită haine groase din cauza vântului. Terminați înainte de apusul de la ora 17:00, admirând statuia.",
+            "en": "A crisp winter morning starts perfectly at the warm art gallery. Midday is ideal for the history museum. The afternoon stroll to the honor roll requires warm layers against the chilling wind. Finish before the early sunset around 5 PM at the statue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kunstmuseum Nogales",
+                "hu": "Nogales Művészeti Múzeum",
+                "ro": "Muzeul de Artă Nogales",
+                "en": "Nogales Museum of Art"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie großartige Kunst im gut beheizten Museum. Es ist der perfekte Ort, um sich die Hände vor dem weiteren Spaziergang aufzuwärmen.",
+                "hu": "Fedezze fel a gazdag művészetet a kellemesen fűtött múzeumban. Remek hely a kezek felmelegítésére a séta folytatása előtt.",
+                "ro": "Descoperiți opere de artă în muzeul încălzit confortabil. Este un loc minunat pentru a vă încălzi mâinile înainte de plimbare.",
+                "en": "Discover rich local artwork in the comfortably heated museum. It is a great place to warm your freezing hands before continuing the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Primeria Alta History Museum",
+                "hu": "Primeria Alta Történeti Múzeum",
+                "ro": "Muzeul de Istorie Primeria Alta",
+                "en": "Primeria Alta History Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Geschichte ein. Behalten Sie Ihren Wintermantel an, da einige ältere Museumsräume etwas zugig und kühl sein können.",
+                "hu": "Merüljön el a történelemben ezen a fűtött helyen. Tartsa magán a kabátját, mert a régebbi termek kissé huzatosak és hidegek lehetnek.",
+                "ro": "Aprofundați istoria graniței în interior. Păstrați haina de iarnă pe dumneavoastră, deoarece unele camere pot fi destul de răcoroase.",
+                "en": "Delve into borderland history inside these thick walls. Keep your winter coat on as some of the older rooms can feel quite drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Cruz County Honor Roll",
+                "hu": "Santa Cruz Megyei Dicsőségtábla",
+                "ro": "Panoul de Onoare Santa Cruz County",
+                "en": "Santa Cruz County Honor Roll"
+              },
+              "tip_5lang": {
+                "de": "Ehren Sie die Veteranen an diesem ergreifenden Ort. Tragen Sie einen warmen Schal, da der eisige Wind hier oft sehr stark weht.",
+                "hu": "Tisztelegjen a veteránok előtt ezen a szabadtéri helyszínen. Viseljen meleg sálat, mert a nyitott téren gyakran felerősödik a jeges szél.",
+                "ro": "Onorați veteranii la acest sit în aer liber. Purtați un fular călduros, deoarece vântul de iarnă se întețește adesea în această zonă.",
+                "en": "Honor the veterans at this poignant outdoor site. Wear a warm scarf, as the icy wind often picks up significantly in this completely open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Nogalitos",
+                "hu": "Nogalitos",
+                "ro": "Nogalitos",
+                "en": "Nogalitos"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese ikonische Struktur am späten Tag. Die frühen Winterschatten lassen die Architektur besonders dramatisch wirken.",
+                "hu": "Csodálja meg ezt az ikonikus építményt a hűvösödő délutánban. A korai téli árnyékok különösen drámaivá teszik az építészetet.",
+                "ro": "Admirați această structură iconică pe măsură ce ziua se răcește. Umbrele timpurii de iarnă fac ca arhitectura să pară foarte dramatică.",
+                "en": "Marvel at this iconic structure as the day cools. The early evening winter shadows make the architecture look especially dramatic right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Padre Kino Statue",
+                "hu": "Padre Kino Szobor",
+                "ro": "Statuia Padre Kino",
+                "en": "Padre Kino Statue"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Statue des Entdeckers. Die um 17:00 Uhr untergehende Wintersonne schafft hier eine wunderschöne, kühle Silhouette.",
+                "hu": "Csodálja meg a felfedezőnek szentelt magas szobrot. A délután 5 órakor lemenő téli nap gyönyörű, hűvös sziluettet varázsol ide.",
+                "ro": "Admirați statuia impunătoare dedicată exploratorului. Soarele de iarnă care apune la ora 17:00 creează o siluetă superbă, dar rece aici.",
+                "en": "Admire the towering statue dedicated to the explorer. The setting winter sun at 5 PM creates a beautiful, chilly silhouette at this square."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros napját a Művészeti Múzeumban, majd pedálozzon át a Primeria Alta Történeti Múzeumba a határvidék kontextusáért. Délben egy északi tekerés következik a Santa Cruz megyei Dicsőségtáblához és a magasba tornyosuló Padre Kino szoborhoz. Délután váltson sebességet, és lovagoljon délre a lenyűgöző Monumento a la Ignoracia felé. Zárja az estét egy adag közösségi kultúrával az Infocultában.",
         "ro": "Începeți-vă ziua de ciclism descoperind arta locală la Muzeul de Artă, apoi pedalați spre Muzeul de Istorie Primeria Alta. La prânz, mergeți spre nord pentru a vizita Santa Cruz County Honor Roll și falnica Statuie Padre Kino. După-amiaza, schimbați direcția spre sud pentru a admira fascinantul Monumento a la Ignoracia. Încheiați-vă seara cu o doză de cultură comunitară la Infoculta.",
         "en": "Kick off your cycling day delving into local arts at the Museum of Art, then pedal over to the Primeria Alta History Museum for borderland context. Midday brings a steady ride north to visit the Santa Cruz County Honor Roll and the towering Padre Kino Statue. In the afternoon, shift gears and ride south to witness the controversial but fascinating Monumento a la Ignoracia. Wrap up your evening with a dose of community culture at Infoculta before riding back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zum Kunstmuseum an diesem nassen Morgen. Mittags bietet das Geschichtsmuseum Zuflucht. Die nachmittägliche Fahrt zu den Denkmälern erfordert Regenkleidung und Vorsicht auf rutschigen Straßen. Beenden Sie den feuchten Abend sicher drinnen im Kulturzentrum.",
+            "hu": "Óvatosan tekerjen a múzeumba ezen a nedves reggelen. Délben a történelmi épület nyújt menedéket. A délutáni kerékpározás esőruhát és figyelmet követel a csúszós utakon. Zárja a nyirkos estét a kulturális központ biztonságos, fedett terében.",
+            "ro": "Pedalați cu prudență spre muzeul de artă. La prânz, muzeul de istorie oferă un refugiu uscat. Ciclismul de după-amiază necesită echipament de ploaie și grijă pe drumurile alunecoase. Încheiați seara umedă în siguranță, la centrul cultural.",
+            "en": "Ride cautiously to the art museum to start your wet morning. Midday offers a dry refuge at the history museum. Afternoon cycling past monuments requires rain gear and care on slick roads. Wrap up the damp evening at the cultural center indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kunstmuseum Nogales",
+                "hu": "Nogales Művészeti Múzeum",
+                "ro": "Muzeul de Artă Nogales",
+                "en": "Nogales Museum of Art"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie Kunst und schütteln Sie den Regen ab. Schließen Sie Ihr Rad gut ab und lassen Sie die nasse Kleidung in der Lobby.",
+                "hu": "Csodálja meg a helyi művészetet és rázza le magáról az esőt. Zárja le a kerékpárt, a vizes esőruhát pedig hagyja az előtérben.",
+                "ro": "Admirați arta locală și scăpați de ploaie. Asigurați-vă că bicicleta este încuiată și lăsați echipamentul ud în holul clădirii.",
+                "en": "Admire local art and shake off the rain. Ensure your bike is locked securely outside, and leave your wet rain gear in the lobby area."
+              }
+            },
+            {
+              "name": {
+                "de": "Primeria Alta History Museum",
+                "hu": "Primeria Alta Történeti Múzeum",
+                "ro": "Muzeul de Istorie Primeria Alta",
+                "en": "Primeria Alta History Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender trockener Zwischenstopp. Das robuste Vordach ist perfekt, um sich abzutrocknen, bevor Sie die historischen Räume betreten.",
+                "hu": "Kiváló száraz megálló. A robusztus előtető tökéletes arra, hogy megtörölközzön, mielőtt belép a történelmi termekbe az eső elől.",
+                "ro": "O oprire uscată excelentă. Copertina robustă este perfectă pentru a vă șterge înainte de a intra în camerele istorice pline de artă.",
+                "en": "An excellent dry stopover. The robust building awning is perfect to wipe yourself down before entering the historical exhibition rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Cruz County Honor Roll",
+                "hu": "Santa Cruz Megyei Dicsőségtábla",
+                "ro": "Panoul de Onoare Santa Cruz County",
+                "en": "Santa Cruz County Honor Roll"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an der frischen, nassen Luft. Tragen Sie gute Regenausrüstung, da Sie hier völlig ungeschützt vom Fahrrad absteigen.",
+                "hu": "Rövid megálló a friss, nedves levegőn. Viseljen jó esőruhát, mert itt teljesen védtelenül kell leszállnia a kerékpárról az esőben.",
+                "ro": "O scurtă oprire în aerul umed. Purtați echipament bun de ploaie, deoarece coborâți de pe bicicletă complet neprotejat aici.",
+                "en": "A brief stop in the wet air. Make sure you are wearing good rain gear, as you step off the bike completely exposed to the elements here."
+              }
+            },
+            {
+              "name": {
+                "de": "Padre Kino Statue",
+                "hu": "Padre Kino Szobor",
+                "ro": "Statuia Padre Kino",
+                "en": "Padre Kino Statue"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz, um die nasse Bronze zu sehen. Die Pflastersteine um die Statue sind extrem rutschig für Fahrradreifen, fahren Sie langsam.",
+                "hu": "Álljon meg röviden a vizes bronzszobornál. A környező térkövek rendkívül csúszósak a vékony gumik számára, tekerjen nagyon lassan.",
+                "ro": "Opriți pentru a vedea bronzul ud. Pietrele din jurul statuii sunt extrem de alunecoase pentru anvelopele de bicicletă, pedalați încet.",
+                "en": "Stop briefly to see the wet bronze. The surrounding plaza stones are extremely slippery for bike tires in the rain, so ride very slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Ignoracia (MonoBichi)",
+                "hu": "Monumento a la Ignoracia",
+                "ro": "Monumentul Ignoranței",
+                "en": "Monumento a la Ignoracia (MonoBichi)"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses markante Denkmal. Bremsen Sie frühzeitig, da die Straßen um den Kreisverkehr bei Nässe extrem gefährlich sind.",
+                "hu": "Tekintse meg ezt a feltűnő emlékművet. Fékezzen időben, mert a körforgalom körüli utak nagyon csúszósak és veszélyesek esőben.",
+                "ro": "Vedeți acest monument izbitor. Frânați devreme, deoarece drumurile din sensul giratoriu devin extrem de alunecoase pe vreme umedă.",
+                "en": "View this striking monument. Brake early when approaching, as the roads around the roundabout are very slick and dangerous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Infoculta",
+                "hu": "Infoculta",
+                "ro": "Infoculta",
+                "en": "Infoculta"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie Kultur in dieser trockenen Einrichtung. Der perfekte letzte Ort, um das Rad abzustellen und dem Dauerregen zu entkommen.",
+                "hu": "Fedezze fel a kultúrát ezen a száraz helyen. Tökéletes utolsó célpont a kerékpár leparkolására és a tartós esőzés elkerülésére.",
+                "ro": "Explorați cultura în această facilitate uscată. Locul perfect pentru a parca bicicleta la final și a scăpa de ploaia continuă.",
+                "en": "Explore arts and culture at this dry facility. It is the perfect final spot to park your bike safely and escape the heavy downpours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für die Fahrt zum Kunstmuseum. Mittags entfliehen Sie der Kälte im Geschichtsmuseum. Die Nachmittagsroute zu den Denkmälern erfordert Handschuhe und Windjacke. Erreichen Sie das Kulturzentrum vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Öltözzön melegen a reggeli tekeréshez. A dél tökéletes a fűtött múzeumok felfedezésére. A délutáni útvonal az emlékművekhez vastag kesztyűt és szélkabátot igényel. Érjen a kulturális központba a korai, 17:00 órai sötétedés előtt.",
+            "ro": "Îmbrăcați-vă gros pentru cursa matinală. Prânzul este perfect pentru expozițiile istorice interioare. Traseul spre monumente necesită mănuși și o geacă de vânt. Ajungeți la centrul cultural înainte de apusul de la ora 17:00.",
+            "en": "Bundle up for a brisk morning ride to the art museum. Noon is perfect for indoor exhibits to escape the chill. The afternoon route demands gloves and a windbreaker. Reach the cultural center by the early 5 PM sunset for a cozy finish."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kunstmuseum Nogales",
+                "hu": "Nogales Művészeti Múzeum",
+                "ro": "Muzeul de Artă Nogales",
+                "en": "Nogales Museum of Art"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie nach der kalten Fahrt in dieser geheizten Galerie auf. Ein fantastischer Ort, um sich vor dem Weiterfahren aufzuwärmen.",
+                "hu": "Olvadjon ki ebben a fűtött galériában a hideg tekerés után. Fantasztikus hely a végtagok és a test felmelegítésére a folytatás előtt.",
+                "ro": "Dezghețați-vă în această galerie după cursa rece. Este un loc fantastic pentru a vă încălzi corpul înainte de a pedala din nou.",
+                "en": "Thaw out in this heated gallery after a cold morning ride. It is a fantastic place to warm your core before biking out into the cold again."
+              }
+            },
+            {
+              "name": {
+                "de": "Primeria Alta History Museum",
+                "hu": "Primeria Alta Történeti Múzeum",
+                "ro": "Muzeul de Istorie Primeria Alta",
+                "en": "Primeria Alta History Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine großartige Möglichkeit, der winterlichen Kälte zu entfliehen. Bewegen Sie sich in den weiten Räumen, um nach dem Radeln warm zu bleiben.",
+                "hu": "Kiváló lehetőség a téli hideg elől való menekülésre. Mozogjon a tágas történelmi terekben, hogy a kerékpározás után is melegen tartsa magát.",
+                "ro": "O modalitate excelentă de a scăpa de frigul iernii. Continuați să vă mișcați în camerele largi pentru a rămâne cald după pedalare.",
+                "en": "A great way to escape the biting winter chill. Keep moving through the expansive historical rooms to stay comfortably warm after cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Cruz County Honor Roll",
+                "hu": "Santa Cruz Megyei Dicsőségtábla",
+                "ro": "Panoul de Onoare Santa Cruz County",
+                "en": "Santa Cruz County Honor Roll"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie den Reißverschluss Ihrer Jacke hoch. Dieser offene Gedenkplatz bietet wenig Schutz vor den schneidenden Winterwinden vom Rad.",
+                "hu": "Húzza fel a kabátja cipzárját. Ez a nyitott emlékhely kevés védelmet nyújt a kerékpározás közben is érzett metsző téli szelek ellen.",
+                "ro": "Închideți fermoarul gecii. Acest spațiu deschis oferă puțină protecție împotriva vânturilor tăioase de iarnă resimțite pe bicicletă.",
+                "en": "Zip up your windbreaker completely. This open memorial space offers very little protection from the cutting winter winds you feel on the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Padre Kino Statue",
+                "hu": "Padre Kino Szobor",
+                "ro": "Statuia Padre Kino",
+                "en": "Padre Kino Statue"
+              },
+              "tip_5lang": {
+                "de": "Blicken Sie auf die hoch aufragende Figur. Packen Sie Ihren Hals beim Radeln gut ein; die eisige Zugluft auf diesem Platz ist sehr heftig.",
+                "hu": "Nézze meg a magasodó alakot. Bugyolálja be a nyakát tekerés közben; a jeges huzat ezen a nyitott téren meglehetősen erős tud lenni.",
+                "ro": "Priviți figura impunătoare. Acoperiți-vă bine gâtul când pedalați; curentul de gheață din această piață deschisă este foarte puternic.",
+                "en": "Gaze at the towering figure. Bundle your neck well while riding; the icy, freezing draft across this open plaza can be quite fierce."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Ignoracia (MonoBichi)",
+                "hu": "Monumento a la Ignoracia",
+                "ro": "Monumentul Ignoranței",
+                "en": "Monumento a la Ignoracia (MonoBichi)"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die ikonische Statue an. Behalten Sie Ihre Radhandschuhe an, da der Winterwind hier in der Kreuzung eiskalt bläst.",
+                "hu": "Nézze meg az ikonikus szobrot. Tartsa magán a vastag kerékpáros kesztyűt, mert a téli szél erősen és jéghidegen fúj a kereszteződésben.",
+                "ro": "Verificați statuia iconică. Păstrați-vă mănușile groase de ciclism, deoarece vântul de iarnă suflă rece în această intersecție largă.",
+                "en": "Check out the iconic MonoBichi statue. Keep your cycling gloves on tight, as the winter wind sweeps freezing cold through this intersection."
+              }
+            },
+            {
+              "name": {
+                "de": "Infoculta",
+                "hu": "Infoculta",
+                "ro": "Infoculta",
+                "en": "Infoculta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie Ausstellungen in diesem warmen Raum. Ein toller letzter Stopp zum Aufwärmen, bevor die dunkle, kalte Winternacht hereinbricht.",
+                "hu": "Élvezze a kiállításokat ebben a meleg térben. Remek utolsó megálló a teljes felmelegedésre a sötét, fagyos téli este beállta előtt.",
+                "ro": "Bucurați-vă de expoziții în acest spațiu cald. O oprire excelentă pentru a vă încălzi complet înainte de lăsarea nopții înghețate de iarnă.",
+                "en": "Enjoy cultural exhibits in this welcoming space. A great final stop to completely thaw out before the dark, freezing winter evening sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje átfogó autós túráját a déli Alberca Santa Lucia nyugalmánál, majd gyorsan érje el a Monumento a la Ignoracia-t és az Infocultát. Délben parkoljon le középen a Művészeti Múzeum és a Primeria Alta Történeti Múzeum felfedezéséhez. A délutáni vezetés északra viszi a Santa Cruz megyei Dicsőségtáblához és a történelmi Padre Kino szoborhoz. Zárja az estét a Nogalitosnál, élvezve a határ szellemét.",
         "ro": "Începeți turul cu mașina la liniștita Alberca Santa Lucia din sud, apoi ajungeți rapid la Monumento a la Ignoracia și Infoculta. La prânz, parcați central pentru a explora Muzeul de Artă și iconicul Muzeu de Istorie Primeria Alta. După-amiaza mergeți spre nord pentru a reflecta la Santa Cruz County Honor Roll și la Statuia Padre Kino. Încheiați-vă seara la Nogalitos, apreciind spiritul graniței.",
         "en": "Start your comprehensive driving tour at the peaceful Alberca Santa Lucia in the south, then quickly reach the Monumento a la Ignoracia and Infoculta. Midday, park centrally to explore the rich exhibits of the Nogales Museum of Art and the iconic Primeria Alta History Museum. Afternoon driving takes you efficiently north to reflect at the Santa Cruz County Honor Roll and the historic Padre Kino Statue. Conclude your evening at Nogalitos, appreciating the enduring spirit of the border."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie für einen nebligen Start zum Schwimmbadbereich. Mittags können Sie trocken zwischen Auto und Stätten wechseln. Die Museen am Nachmittag sind perfekte Regenaktivitäten. Beenden Sie die Tour sicher, wenn abendliche Schauer die historischen Straßen waschen.",
+            "hu": "Vezessen a medencéhez a ködös reggeli kezdéshez. Délben gyorsan átszaladhat az autóból a fedett kiállításokra. A délutáni múzeumlátogatások tökéletes esős programok. Zárja biztonságosan a túrát, miközben az esti záporok mossák az utcákat.",
+            "ro": "Conduceți spre piscină pentru un început cețos. La prânz, treceți rapid din mașină în expozițiile interioare. Vizitele la muzeu de după-amiază sunt activități perfecte pentru ploaie. Încheiați în siguranță, în timp ce ploile spală străzile.",
+            "en": "Drive to the recreational pool for a misty morning start. Midday lets you dash between your car and indoor exhibits, staying dry. The afternoon museums are perfect rainy-day activities. End safely as evening showers wash over the streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alberca Santa Lucia",
+                "hu": "Alberca Santa Lucia",
+                "ro": "Alberca Santa Lucia",
+                "en": "Alberca Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie am Schwimmbad vorbei. Auch bei Regen ist der Blick auf das neblige Wasser aus dem trockenen, warmen Auto wunderbar beruhigend.",
+                "hu": "Vezessen el a medence mellett. A ködös víz látványa a száraz és fűtött autó kényelméből esőben is furcsán, de csodálatosan megnyugtató.",
+                "ro": "Treceți cu mașina pe lângă piscină. Chiar și în ploaie, vederea apei cețoase din confortul mașinii uscate este minunat de calmantă.",
+                "en": "Drive by the local pool area. Even in the rain, the misty water view from the absolute comfort of your dry car is strangely calming."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Ignoracia (MonoBichi)",
+                "hu": "Monumento a la Ignoracia",
+                "ro": "Monumentul Ignoranței",
+                "en": "Monumento a la Ignoracia (MonoBichi)"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig um den Kreisverkehr. Die aufgemalten Straßenmarkierungen werden bei starkem Regen für Autos sehr rutschig.",
+                "hu": "Vezessen óvatosan a szobrot körülvevő körforgalomban. Az útburkolati jelek heves esőben az autók számára is rendkívül csúszósak lesznek.",
+                "ro": "Conduceți cu grijă în sensul giratoriu. Liniile vopsite pe carosabil devin foarte alunecoase pentru mașini pe ploaie puternică.",
+                "en": "Drive carefully around the roundabout featuring this statue. The painted road lines here get particularly slick for tires in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Infoculta",
+                "hu": "Infoculta",
+                "ro": "Infoculta",
+                "en": "Infoculta"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie trockene Zuflucht. Parken Sie direkt am Eingang, um schnell hineinzuhüpfen und die Kunst ohne die nassen Kleider zu genießen.",
+                "hu": "Találjon száraz menedéket. Parkoljon a bejárat közvetlen közelében, hogy egy gyors futással bejusson a nedves, esős időjárás elől.",
+                "ro": "Găsiți un refugiu uscat. Parcați chiar lângă intrare pentru a intra rapid cu un salt și a vă bucura de artă departe de umiditate.",
+                "en": "Find a dry refuge here. Park as close to the main entrance as possible to quickly dash inside and enjoy the art away from the damp weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstmuseum Nogales",
+                "hu": "Nogales Művészeti Múzeum",
+                "ro": "Muzeul de Artă Nogales",
+                "en": "Nogales Museum of Art"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie Kunstwerke geschützt vor dem Wetter. Laufen Sie vom Parkplatz schnell hinüber, der Eingang hat praktischerweise ein Regendach.",
+                "hu": "Fedezze fel az alkotásokat az időjárástól védve. Szaladjon át a parkolóból, a bejáratnál szerencsére szilárd esővédő fogadja.",
+                "ro": "Explorați opere de artă protejate de vreme. Fugiți rapid din parcare, intrarea are din fericire o copertină solidă împotriva ploii.",
+                "en": "Explore inspiring artworks sheltered from the weather. Run quickly from your parking spot; luckily, the entrance has a solid rain awning."
+              }
+            },
+            {
+              "name": {
+                "de": "Primeria Alta History Museum",
+                "hu": "Primeria Alta Történeti Múzeum",
+                "ro": "Muzeul de Istorie Primeria Alta",
+                "en": "Primeria Alta History Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine brillante Flucht vor dem Platzregen. Parken Sie so nah wie möglich und huschen Sie hinein, um die faszinierende Geschichte zu erleben.",
+                "hu": "Zseniális beltéri menedék a felhőszakadás elől. Parkoljon a lehető legközelebb, és szaladjon be felfedezni a régió úttörő történelmét.",
+                "ro": "O evadare excelentă din ploaia torențială. Parcați cât mai aproape și fugiți înăuntru pentru a experimenta istoria fascinantă a regiunii.",
+                "en": "A brilliant indoor escape from the heavy downpour. Park as close as possible and dash inside to discover the region's rich pioneer history."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Cruz County Honor Roll",
+                "hu": "Santa Cruz Megyei Dicsőségtábla",
+                "ro": "Panoul de Onoare Santa Cruz County",
+                "en": "Santa Cruz County Honor Roll"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich das Denkmal an. Treten Sie kurz mit einem großen Schirm aus oder erweisen Sie Ihren Respekt bequem aus dem trockenen Auto.",
+                "hu": "Tekintse meg az emlékművet. Érdemes csak egy nagy esernyővel kilépni pár percre, vagy egyszerűen a száraz autóból leróni a tiszteletet.",
+                "ro": "Vedeți memorialul. Puteți ieși scurt cu o umbrelă mare sau puteți prezenta omagiile direct și confortabil din mașina complet uscată.",
+                "en": "View the memorial. You might prefer to quickly step out with a large umbrella or simply pay your respects from inside the dry, warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Padre Kino Statue",
+                "hu": "Padre Kino Szobor",
+                "ro": "Statuia Padre Kino",
+                "en": "Padre Kino Statue"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das Denkmal durch die regennasse Scheibe. Wenn Sie aus dem Auto steigen, achten Sie auf schnell entstehende, tiefe Pfützen.",
+                "hu": "Nézze meg az emlékművet az eső áztatta szélvédőn keresztül. Ha kiszáll az autóból, nagyon vigyázzon a gyorsan képződő mély tócsákra.",
+                "ro": "Vedeți monumentul prin parbrizul plouat. Dacă ieșiți din mașină, aveți mare grijă la bălțile adânci care se formează rapid la bază.",
+                "en": "See the explorer's monument through your rain-streaked windshield. If you exit the car, take extreme care as deep puddles form quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Nogalitos",
+                "hu": "Nogalitos",
+                "ro": "Nogalitos",
+                "en": "Nogalitos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an diesem historischen Ort. Parken Sie vorsichtig, da die nassen Bordsteine im Auto bei schlechter Sicht knifflig sind.",
+                "hu": "Zárja az autós túrát e hely mellett. Parkoljon óvatosan, mivel az esőtől csúszós padkákat a visszapillantóból most sokkal nehezebb látni.",
+                "ro": "Încheiați turul la acest loc istoric. Parcați cu atenție, deoarece bordurile umede sunt foarte greu de văzut din mașină prin ploaie.",
+                "en": "End the driving tour past this historical spot. Park carefully, as the rain-slicked curbs can be very tricky to navigate in low visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintermorgen mit einer Fahrt zum Schwimmbad. Mittags genießen Sie die geheizten Zentren. Die Museen am Nachmittag halten Sie bei sinkenden Temperaturen warm. Beenden Sie die Fahrt vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kezdje a csípős téli reggelt egy autózással a medencéhez. Délben élvezze a fűtött központokat. A délutáni múzeumlátogatások melegen tartják. Fejezze be a történelmi utat a korai, 17:00 órai sötétedés előtt.",
+            "ro": "Începeți dimineața conducând spre piscină. La prânz, bucurați-vă de confortul încălzit al clădirilor. Vizitele la muzeu de după-amiază vă țin de cald. Terminați traseul înainte de apusul de la ora 17:00.",
+            "en": "Start your crisp winter morning driving to the scenic pool area. By noon, enjoy the heated comfort of cultural centers. Afternoon museum hops keep you warm. Finish the drive before the dark 5 PM sunset over the chilly town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alberca Santa Lucia",
+                "hu": "Alberca Santa Lucia",
+                "ro": "Alberca Santa Lucia",
+                "en": "Alberca Santa Lucia"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Fahrt am Pool. Die frostige Morgenluft ist frisch; lassen Sie die Autoheizung laufen, um die Aussicht warm zu genießen.",
+                "hu": "Kezdje útját a medencénél. A fagyos reggeli levegő csípős; tartsa bekapcsolva az autó fűtését, hogy kényelmesen élvezze a panorámát.",
+                "ro": "Începeți traseul la această piscină. Aerul înghețat face peisajul proaspăt; mențineți căldura în mașină pentru a vă bucura de priveliște.",
+                "en": "Start your drive at this seasonal pool. The frosty morning air is brisk; keep the car heater running to enjoy the winter view comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Ignoracia (MonoBichi)",
+                "hu": "Monumento a la Ignoracia",
+                "ro": "Monumentul Ignoranței",
+                "en": "Monumento a la Ignoracia (MonoBichi)"
+              },
+              "tip_5lang": {
+                "de": "Umrunden Sie dieses historische Denkmal. Das flache Wintersonnenlicht bietet einen atemberaubend klaren Blick direkt aus dem warmen Auto.",
+                "hu": "Kerülje meg autóval az emlékművet. Az alacsonyan járó téli napfény éles, tiszta kilátást és remek fotótémát nyújt a meleg utastérből.",
+                "ro": "Înconjurați acest monument istoric. Lumina joasă a soarelui de iarnă oferă o vedere uimitor de clară direct din interiorul mașinii calde.",
+                "en": "Circle this iconic monument. The low winter sunlight glancing off the structure provides a sharp, clear view right from your warm car seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Infoculta",
+                "hu": "Infoculta",
+                "ro": "Infoculta",
+                "en": "Infoculta"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich komplett auf. Es ist ein exzellenter Stopp, um Kunstwerke ohne den beißenden Winterwind draußen zu genießen.",
+                "hu": "Melegedjen át teljesen a benti térben. Kiváló megálló a helyi művészet élvezetére a kint tomboló csípős téli szél elkerülésével.",
+                "ro": "Încălziți-vă complet în interior. Este o oprire excelentă pentru a vă bucura de artă fără a simți vântul tăios de iarnă de afară.",
+                "en": "Warm up completely inside here. It is an excellent stop to soak in local arts without having to deal with the biting winter breeze outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstmuseum Nogales",
+                "hu": "Nogales Művészeti Múzeum",
+                "ro": "Muzeul de Artă Nogales",
+                "en": "Nogales Museum of Art"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der frostigen Luft in diese Kunstoase. Die angenehme Temperatur drinnen macht die Rückkehr zum kühlen Auto fast schwer.",
+                "hu": "Lépjen ki a fagyos levegőből a művészeti oázisba. A benti kellemes hőmérséklet miatt nehéz lesz visszamenni a parkoló hideg autóba.",
+                "ro": "Pășiți din aerul înghețat în acest refugiu. Temperatura confortabilă din interior vă va face să vă întoarceți cu greu la mașina răcită.",
+                "en": "Step out of the frosty air into this warm haven. The comfortable temperature inside makes it hard to eventually leave for the chilly car again."
+              }
+            },
+            {
+              "name": {
+                "de": "Primeria Alta History Museum",
+                "hu": "Primeria Alta Történeti Múzeum",
+                "ro": "Muzeul de Istorie Primeria Alta",
+                "en": "Primeria Alta History Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Stopp auf Ihrer Winterfahrt. Die massive Steinstruktur bleibt im Inneren recht kühl, behalten Sie Ihren Mantel beim Rundgang an.",
+                "hu": "Remek megálló a téli autózás során. A masszív kőépület belül meglehetősen hűvös marad, ezért feltétlenül tartsa magán a vastag kabátot.",
+                "ro": "O oprire excelentă pe traseul de iarnă. Structura masivă din piatră rămâne răcoroasă în interior, așa că păstrați-vă haina groasă pe dumneavoastră.",
+                "en": "A great indoor stop on your winter drive. The massive stone structure is cool inside, so definitely keep your coat on as you wander the halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Cruz County Honor Roll",
+                "hu": "Santa Cruz Megyei Dicsőségtábla",
+                "ro": "Panoul de Onoare Santa Cruz County",
+                "en": "Santa Cruz County Honor Roll"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an dieser Tafel. Wegen des beißenden Winterwinds sollten Sie sich warm einpacken, bevor Sie das geheizte Fahrzeug verlassen.",
+                "hu": "Álljon meg az emléktáblánál. A metsző téli szél miatt alaposan öltözzön fel, mielőtt kiszáll a kellemesen fűtött járműből körülnézni.",
+                "ro": "Opriți la acest panou. Din cauza vântului tăios de iarnă, va trebui să vă înfofoliți bine înainte de a ieși din vehiculul încălzit.",
+                "en": "Stop by this honor roll. The biting winter wind means you will likely want to bundle up tight before stepping out of your heated vehicle here."
+              }
+            },
+            {
+              "name": {
+                "de": "Padre Kino Statue",
+                "hu": "Padre Kino Szobor",
+                "ro": "Statuia Padre Kino",
+                "en": "Padre Kino Statue"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die hohe Hommage an den Pionier. Am Nachmittag bricht die Winterdämmerung schnell herein, was die Sitzheizung zu einem Segen macht.",
+                "hu": "Csodálja meg a magasztos szobrot. Késő délután gyorsan leszáll a fagyos téli szürkület, így az autó ülésfűtése igazi áldás lesz utána.",
+                "ro": "Admirați omagiul înalt. Spre sfârșitul după-amiezii, amurgul de iarnă se instalează rapid, făcând scaunele încălzite din mașină o binecuvântare.",
+                "en": "Admire the tall tribute. By late afternoon, the freezing winter dusk settles fast, making the car's heated seats a true blessing afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Nogalitos",
+                "hu": "Nogalitos",
+                "ro": "Nogalitos",
+                "en": "Nogalitos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt an diesem Ort. Durch den frühen Sonnenuntergang um 17:00 Uhr ist das historische Gebäude jetzt wunderschön beleuchtet.",
+                "hu": "Fejezze be az autózást ezen a helyen. A délután 5 órai korai naplemente miatt a történelmi épület ilyenkor már gyönyörűen ki van világítva.",
+                "ro": "Terminați-vă drumul la această locație. Datorită apusului timpuriu de la ora 17:00, clădirea istorică este acum frumos și dramatic iluminată.",
+                "en": "Finish your drive at this classic location. By now, the early 5 PM winter sunset means you will see the historic building beautifully illuminated."
+              }
+            }
+          ]
+        }
       }
     }
   }

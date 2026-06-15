@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot egy pihentető sétával a Parco Sprintben, majd irány a lenyűgöző Chiesa Madre di Forio.\n\nDélben merüljön el a helyi kultúrában az Annozero2.0 földalatti kortárs művészeti galériájának felfedezésével.\n\nDélután mássza meg a történelmi Torre Torone épületét, hogy megcsodálhassa a falura nyíló csodás kilátást.\n\nZárja a napot a sziklára épült Santa Maria del Soccorso fehér templománál egy látványos naplementével.",
         "ro": "Începeți ziua cu o plimbare relaxantă în Parco Sprint înainte de a vă îndrepta spre impresionanta Chiesa Madre.\n\nLa prânz, explorați cultura locală la Annozero2.0, descoperind arta contemporană subterană chiar în centru.\n\nDupă-amiaza, urcați pe istoricul Torre Torone pentru a admira priveliștile minunate asupra satului.\n\nÎncheiați turul la Santa Maria del Soccorso, o biserică albă pe stâncă ce oferă un apus de soare spectaculos.",
         "en": "Start your day with a relaxing stroll in Parco Sprint before heading to the impressive Chiesa Madre di Forio.\n\nDive into local culture at Annozero2.0, exploring the underground contemporary art hidden right in the center.\n\nAfternoon brings a climb up the historic Torre Torone to imagine its past defenses and enjoy lovely village views.\n\nConclude at Santa Maria del Soccorso, a stunning white cliffside church offering the most spectacular sunset scenery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Forio beginnt geschützt unter den Pinien des Parco Sprint. Mittags bietet die massive Chiesa Madre einen trockenen Rückzugsort voller Stille. Am Nachmittag entfliehen wir dem Wetter in die unterirdische Kunstgalerie Annozero2.0, bevor der Tag an der Soccorso-Kirche endet, wo die salzige Gischt und der Regen eine mystische Atmosphäre auf den glatten Wegen schaffen.",
+            "hu": "Az esős reggel a Parco Sprint fái alatt indul, ahol a lombok némi védelmet nyújtanak. Délben a Chiesa Madre vastag falai között lelünk száraz menedéket. Délután az Annozero2.0 földalatti galériája tökéletes búvóhely a zápor elől. Az este a Soccorso-templomnál ér minket, ahol a tengeri permet és az eső különleges hangulatot áraszt; ügyeljünk a csúszós kövekre a parton.",
+            "ro": "O dimineață ploioasă în Forio începe sub pinii din Parco Sprint, care oferă adăpost natural. La prânz, zidurile masive de la Chiesa Madre oferă un refugiu uscat. După-amiaza, explorăm galeria subterană Annozero2.0 pentru a evita ploaia, iar seara se încheie la biserica Soccorso, unde valurile și ploaia creează o atmosferă mistică pe aleile umede și alunecoase.",
+            "en": "A rainy morning in Forio starts sheltered under the trees of Parco Sprint. At noon, the thick walls of Chiesa Madre provide a dry sanctuary. In the afternoon, escape the downpour in the underground Annozero2.0 gallery. The day concludes at the Soccorso church, where sea spray and rain create a mystical atmosphere; be careful on the slippery coastal paths during the evening walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Sprint",
+                "hu": "Parco Sprint",
+                "ro": "Parco Sprint",
+                "en": "Parco Sprint"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichten Baumkronen als natürlichen Regenschutz und genießen Sie den intensiven Duft der nassen Erde; tragen Sie feste, rutschfeste Schuhe.",
+                "hu": "Használja a sűrű lombkoronát természetes esernyőként, és élvezze a nedves föld friss illatát; viseljen kényelmes, csúszásmentes talpú cipőt a sétányokon.",
+                "ro": "Folosiți coronamentul des al copacilor ca adăpost natural și bucurați-vă de mirosul proaspăt al pământului umed; purtați încălțăminte cu talpă aderentă.",
+                "en": "Use the dense tree canopy as a natural umbrella and enjoy the intense scent of the wet earth; wear sturdy, non-slip shoes for the park pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madre di Forio",
+                "hu": "Chiesa Madre di Forio",
+                "ro": "Chiesa Madre di Forio",
+                "en": "Chiesa Madre di Forio"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist der ideale Ort, um einen heftigen Schauer abzuwarten und dabei die barocken Details im trockenen und ruhigen Innenraum zu bewundern.",
+                "hu": "A templom ideális hely egy hevesebb zápor kivárására, miközben a száraz és csendes belső térben megcsodálhatjuk a lenyűgöző barokk részleteket.",
+                "ro": "Această biserică este locul ideal pentru a aștepta trecerea unei averse, admirând detaliile baroce în interiorul uscat și liniștit al lăcașului.",
+                "en": "This church is the perfect place to wait out a heavy shower while admiring the stunning baroque details in the dry and peaceful interior sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Annozero2.0 - Unterirdische Kunstgalerie",
+                "hu": "Annozero2.0 - Földalatti Galéria",
+                "ro": "Annozero2.0 - Galerie de Artă Subterană",
+                "en": "Annozero2.0 - Underground Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Der unterirdische Standort macht diese Galerie zum besten Zufluchtsort bei Regen, wo Sie moderne Kunst völlig ungestört von den Elementen erleben können.",
+                "hu": "A földalatti elhelyezkedés miatt ez a galéria a legjobb menedék esőben, ahol a külvilág elemeitől teljesen elzárva élvezheti a kortárs művészetet.",
+                "ro": "Locația subterană face din această galerie cel mai bun refugiu pe timp de ploaie, unde puteți explora arta modernă fără a fi deranjați de vreme.",
+                "en": "The underground location makes this gallery the best refuge during rain, allowing you to experience modern art completely undisturbed by the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Torone",
+                "hu": "Torre Torone",
+                "ro": "Torre Torone",
+                "en": "Torre Torone"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steine können bei Nässe sehr glatt sein, daher ist beim Aufstieg Vorsicht geboten, während der Regen den alten Turm dunkel glänzen lässt.",
+                "hu": "A történelmi kövek nedvesen nagyon csúszósak lehetnek, így óvatosan közelítsük meg a tornyot, amely az esőben sötéten csillogó, drámai arcát mutatja.",
+                "ro": "Pietrele istorice pot fi foarte alunecoase când sunt ude, deci urcați cu atenție pentru a vedea turnul care strălucește dramatic sub picăturile de ploaie.",
+                "en": "The historical stones can be very slippery when wet, so climb with caution while observing how the rain makes the ancient tower glisten dramatically."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria del Soccorso",
+                "hu": "Santa Maria del Soccorso",
+                "ro": "Santa Maria del Soccorso",
+                "en": "Santa Maria del Soccorso"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der Vorhalle der weißen Kirche und beobachten Sie von dort aus die beeindruckende Gischt der Wellen, die gegen das Kap schlagen.",
+                "hu": "Keressen menedéket a fehér templom előcsarnokában, és figyelje meg onnan a foknak csapódó hullámok látványos permetét a szürke égbolt alatt.",
+                "ro": "Căutați adăpost în pridvorul bisericii albe și priviți de acolo spectacolul valurilor care se sparg de promontoriu sub cerul plumburiu de furtună.",
+                "en": "Seek shelter in the porch of the white church and watch the impressive spray of the waves crashing against the cape from a relatively dry vantage point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Forio bedeutet klare Luft und einsame Gassen. Der Morgen im Parco Sprint ist erfrischend kühl, gefolgt von der wärmenden Stille der Chiesa Madre am Mittag. Nachmittags lockt die behagliche Atmosphäre der Annozero2.0 Galerie. Den krönenden Abschluss bildet der frühe Sonnenuntergang gegen 17:00 Uhr an der Soccorso-Kirche, wo das Winterlicht die weiße Fassade magisch erstrahlen lässt.",
+            "hu": "A tél Forióban tiszta levegőt és csendes utcákat jelent. A reggel a Parco Sprintben frissítően hűvös, amit délben a Chiesa Madre melengető csendje követ. Délután az Annozero2.0 galéria meghitt hangulata vár. A nap fénypontja a korai, 17:00 körüli naplemente a Soccorso-templomnál, ahol a téli fények varázslatosan világítják meg a hófehér homlokzatot.",
+            "ro": "Iarna în Forio aduce aer curat și străzi pustii, pline de farmec. Dimineața în Parco Sprint este revigorantă, urmată de liniștea primitoare a bisericii Chiesa Madre. După-amiaza, atmosfera intimă a galeriei Annozero2.0 este ideală, iar ziua se încheie cu apusul timpuriu de la ora 17:00, când lumina rece face biserica Soccorso să strălucească.",
+            "en": "Winter in Forio brings crisp air and quiet, charming streets. The morning in Parco Sprint is refreshingly cool, followed by the warming silence of Chiesa Madre at noon. In the afternoon, the cozy atmosphere of Annozero2.0 gallery beckons. The highlight is the early sunset around 17:00 at the Soccorso church, where the winter light makes the white facade glow magically."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Sprint",
+                "hu": "Parco Sprint",
+                "ro": "Parco Sprint",
+                "en": "Parco Sprint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des winterlichen Parks bei einem zügigen Spaziergang; die kühle, klare Luft ist besonders belebend für Herz und Kreislauf.",
+                "hu": "Élvezze a téli park nyugalmát egy tempós séta közben; a hűvös, tiszta levegő rendkívül frissítő, de ne felejtse el a meleg sálat és sapkát sem.",
+                "ro": "Bucurați-vă de liniștea parcului pe timp de iarnă cu o plimbare alertă; aerul rece și curat este extrem de revigorant, dar purtați haine călduroase.",
+                "en": "Enjoy the tranquility of the winter park during a brisk walk; the cool, crisp air is incredibly refreshing, but remember to wear a warm scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madre di Forio",
+                "hu": "Chiesa Madre di Forio",
+                "ro": "Chiesa Madre di Forio",
+                "en": "Chiesa Madre di Forio"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Wärme des Tages und bieten einen gemütlichen Ort für Besinnung, während draußen der kühle Winterwind weht.",
+                "hu": "A vastag kőfalak megőrzik a belső mérsékelt hőmérsékletet, így a templom barátságos menedék az elcsendesedéshez, miközben kint fúj a téli szél.",
+                "ro": "Zidurile groase de piatră mențin o temperatură constantă, oferind un loc primitor pentru reflecție în timp ce afară bate vântul rece de iarnă.",
+                "en": "The thick stone walls retain a moderate temperature, providing a welcoming spot for quiet reflection while the cool winter wind blows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Annozero2.0 - Unterirdische Kunstgalerie",
+                "hu": "Annozero2.0 - Földalatti Galéria",
+                "ro": "Annozero2.0 - Galerie de Artă Subterană",
+                "en": "Annozero2.0 - Underground Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine angenehm temperierte Umgebung unter der Erde, ideal um der winterlichen Kälte für eine Weile zu entfliehen und Kunst zu genießen.",
+                "hu": "A galéria kellemes hőmérsékletű környezetet biztosít a föld alatt, ideális hely, hogy egy időre elmeneküljünk a téli hideg elől a művészetek közé.",
+                "ro": "Galeria oferă un mediu cu temperatură plăcută sub pământ, fiind locul ideal pentru a scăpa de frigul iernii în timp ce admirați exponatele de artă.",
+                "en": "The gallery provides a comfortably tempered environment underground, making it an ideal spot to escape the winter chill while enjoying local art."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Torone",
+                "hu": "Torre Torone",
+                "ro": "Torre Torone",
+                "en": "Torre Torone"
+              },
+              "tip_5lang": {
+                "de": "Das flache Licht der Wintersonne betont die Textur der alten Steine; besuchen Sie den Turm am frühen Nachmittag für die besten Fotomotive.",
+                "hu": "A téli nap alacsony állása gyönyörűen kiemeli az ősi kövek textúráját; látogassa meg a tornyot kora délután a legszebb fotók elkészítéséhez.",
+                "ro": "Lumina caldă a soarelui de iarnă scoate în evidență textura pietrelor vechi; vizitați turnul după-amiaza devreme pentru cele mai bune fotografii.",
+                "en": "The low angle of the winter sun beautifully emphasizes the texture of the ancient stones; visit the tower in the early afternoon for the best photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria del Soccorso",
+                "hu": "Santa Maria del Soccorso",
+                "ro": "Santa Maria del Soccorso",
+                "en": "Santa Maria del Soccorso"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Sonnenuntergang gegen 17 Uhr; die klare Winterluft bietet oft eine Sicht bis zu den Nachbarinseln Ponza und Ventotene.",
+                "hu": "Élje át a látványos naplementét 17 óra körül; a tiszta téli levegőben gyakran egészen a távoli Ponza és Ventotene szigetekig is el lehet látni.",
+                "ro": "Admirați apusul spectaculos în jurul orei 17:00; aerul curat de iarnă oferă adesea o vizibilitate excelentă până la insulele Ponza și Ventotene.",
+                "en": "Experience the spectacular sunset around 5 PM; the clear winter air often provides visibility all the way to the distant Ponza and Ventotene islands."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon el reggel a Spiaggia della Chiaia partra a frissítő tengeri szellőért, majd tekerjen tovább az élénk Parco Sprint felé.\n\nDélben haladjon el a történelmi Chiesa Madre és a különös Lávaszobor mellett, ahogy dél felé folytatja útját a part mentén.\n\nDélután tartson pihenőt a Giardini Ravino trópusi kertjében, ahol megcsodálhatja az óriáskaktuszok és egzotikus növények lenyűgöző gyűjteményét.\n\nZárja a kerékpártúrát a fiatalos és laza hangulatú Cava dell'isola strandon, miközben a késő délutáni nap kellemesen lecsendesedik.",
         "ro": "Pedalați dimineața spre Spiaggia della Chiaia pentru o briză răcoritoare, apoi mergeți către animatul Parco Sprint central.\n\nLa prânz, treceți pe lângă istorica Chiesa Madre și curioasa Sculptură din Lavă, în timp ce coborâți spre sud de-a lungul coastei.\n\nDupă-amiaza, faceți o pauză la Giardini Ravino pentru a admira o colecție incredibilă de cactuși exotici și floră tropicală.\n\nÎncheiați-vă călătoria la Cava dell'isola, bucurându-vă de o atmosferă relaxată și tinerescă pe plajă pe măsură ce soarele de după-amiază se domolește.",
         "en": "Cycle to Spiaggia della Chiaia for a refreshing morning breeze, then ride towards the lively central greenery of Parco Sprint.\n\nPass by the historic Chiesa Madre di Forio and the curious Lavasculpture as you pedal continuously southward along the lovely coast.\n\nTake a break at Giardini Ravino to admire an incredible collection of giant exotic cacti and uniquely beautiful tropical flora.\n\nEnd your ride at Cava dell'isola, enjoying a youthful and relaxed beach vibe as the late afternoon sun begins to gracefully cool down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Forios glatten Straßen. Der Morgen am Chiaia-Strand ist wild und windig. Mittags bieten der Park und die Kirche kurze Erholungsphasen. Nachmittags leuchten die Lavaskulpturen und tropischen Gärten im nassen Glanz besonders intensiv. Der Tag endet an der Cava dell'isola, wo man die Kraft des Meeres hautnah spürt.",
+            "hu": "Az esős biciklizés óvatosságot igényel Forio csúszós útjain. A reggel a Chiaia-parton vad és szeles. Délben a park és a templom nyújt rövid pihenőt az eső elől. Délután a lávaszobrok és a trópusi kertek színei a nedvességtől még intenzívebbé válnak. A nap a Cava dell'isola öbölnél zárul, ahol a tenger ereje közvetlenül megtapasztalható.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe străzile alunecoase din Forio. Dimineața pe plaja Chiaia este sălbatică și vântoasă. La prânz, parcul și biserica oferă scurte pauze de adăpost. După-amiaza, sculpturile din lavă și grădinile tropicale strălucesc intens sub stropii de apă. Ziua se încheie la Cava dell'isola, unde simțiți direct forța mării.",
+            "en": "Cycling in the rain requires caution on Forio's slippery roads. The morning at Chiaia beach is wild and windy. At noon, the park and church offer brief intervals of shelter. In the afternoon, the lava sculptures and tropical gardens glow with intense colors in the wet. The day ends at Cava dell'isola, where the power of the sea can be experienced firsthand."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia della Chiaia",
+                "hu": "Spiaggia della Chiaia",
+                "ro": "Spiaggia della Chiaia",
+                "en": "Spiaggia della Chiaia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufgewühlte See von der befestigten Promenade aus und achten Sie auf Pfützen; das Meersalz auf den Wegen kann den Boden rutschig machen.",
+                "hu": "Figyelje a felkorbácsolt tengert a kövezett sétányról, de ügyeljen a tócsákra; az utakra rakódó tengeri só és az eső keveréke csúszóssá teheti a talajt.",
+                "ro": "Priviți marea agitată de pe faleza pavată, dar atenție la bălți; amestecul de sare marină și ploaie poate face drumul foarte alunecos pentru bicicletă.",
+                "en": "Watch the turbulent sea from the paved promenade but watch out for puddles; the mixture of sea salt and rain can make the ground quite slippery for bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Sprint",
+                "hu": "Parco Sprint",
+                "ro": "Parco Sprint",
+                "en": "Parco Sprint"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Vordächern am Eingang und genießen Sie einen kurzen Moment im Trockenen unter den dichten, schützenden Bäumen.",
+                "hu": "Parkoljon le a bejárat melletti fedett részen, és élvezze a rövid pihenőt a szárazon, a sűrű és védelmet nyújtó fák oltalma alatt.",
+                "ro": "Parcați bicicleta în zona acoperită de la intrare și bucurați-vă de un scurt moment de răgaz la uscat, sub protecția copacilor deși.",
+                "en": "Park your bike under the sheltered areas near the entrance and enjoy a brief moment of dryness under the protection of the dense trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madre di Forio",
+                "hu": "Chiesa Madre di Forio",
+                "ro": "Chiesa Madre di Forio",
+                "en": "Chiesa Madre di Forio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um Ihre Kleidung zu richten und sich im Inneren aufzuwärmen, während Ihr Fahrrad sicher an den äußeren Mauern lehnt.",
+                "hu": "Használja ki a megállót, hogy rendezze ruházatát és felmelegedjen a templomban, miközben kerékpárja biztonságban pihen a külső falak tövében.",
+                "ro": "Profită de oprire pentru a-ți aranja hainele și a te încălzi în interior, în timp ce bicicleta stă la adăpost lângă zidurile exterioare.",
+                "en": "Take advantage of this stop to adjust your gear and warm up inside the church while your bike rests safely by the outer stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Lavaskulptur",
+                "hu": "Lávaszobor",
+                "ro": "Sculptura din Lavă",
+                "en": "Lavasculpture"
+              },
+              "tip_5lang": {
+                "de": "Das dunkle Vulkangestein wirkt im Regen fast schwarz und glänzend; ein kurzer Fotostopp lohnt sich, bevor Sie zügig zum nächsten trockenen Ort fahren.",
+                "hu": "A sötét vulkáni kőzet az esőben szinte feketévé és csillogóvá válik; egy gyors fotót megér, mielőtt továbbtekernénk a következő fedett helyszínre.",
+                "ro": "Roca vulcanică devine aproape neagră și strălucitoare sub ploaie; merită o fotografie rapidă înainte de a pedala spre următorul loc adăpostit.",
+                "en": "The dark volcanic rock turns almost black and shiny in the rain; it's worth a quick photo stop before cycling quickly to the next sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Giardini Ravino, Tropischer Garten",
+                "hu": "Giardini Ravino Trópusi Kert",
+                "ro": "Giardini Ravino, Grădină Tropicală",
+                "en": "Giardini Ravino, Tropical Garden"
+              },
+              "tip_5lang": {
+                "de": "Viele exotische Pflanzen lieben die Feuchtigkeit und wirken im Regen besonders üppig; nutzen Sie das Café des Gartens für eine trockene Pause.",
+                "hu": "Sok egzotikus növény imádja a párát, és esőben különösen dús látványt nyújt; használja a kert kávézóját egy hosszabb száraz pihenőhöz.",
+                "ro": "Multe plante exotice iubesc umiditatea și arată spectaculos pe ploaie; folosiți cafeneaua grădinii pentru o pauză relaxantă la adăpost.",
+                "en": "Many exotic plants thrive in the humidity and look especially lush in the rain; use the garden's cafe for a much-needed dry break."
+              }
+            },
+            {
+              "name": {
+                "de": "Cava dell'isola",
+                "hu": "Cava dell'isola",
+                "ro": "Cava dell'isola",
+                "en": "Cava dell'isola"
+              },
+              "tip_5lang": {
+                "de": "Das Ende der Tour bietet einen dramatischen Blick auf das stürmische Meer; halten Sie Abstand zur Brandungszone, da die Wege dort sehr glatt sind.",
+                "hu": "A túra vége drámai kilátást nyújt a viharos tengerre; tartsunk biztonságos távolságot a hullámveréstől, mert a levezető utak csúszósak.",
+                "ro": "Finalul turului oferă o vedere dramatică asupra mării învolburate; păstrați distanța față de zona de impact a valurilor, drumurile fiind alunecoase.",
+                "en": "The end of the tour offers a dramatic view of the stormy sea; keep a safe distance from the surf zone as the paths can be very slick here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Forio besticht durch kühle Meeresbrisen und freie Wege. Morgens am Chiaia-Strand ist die Luft kristallklar. Mittags bieten Park und Kirche friedliche Ruhepausen. Nachmittags leuchten Lavaskulpturen und Kakteengärten im sanften Winterlicht. Die Tour endet bei Sonnenuntergang um 17:00 Uhr an der Cava dell'isola mit einem weiten Blick über das ruhige Meer.",
+            "hu": "A téli biciklitúra Forióban hűvös tengeri szellővel és üres utakkal ajándékoz meg. Reggel a Chiaia-parton a levegő kristálytiszta. Délben a park és a templom békés pihenőt kínál. Délután a lávaszobrok és a kaktuszkert szelíd téli fényben tündököl. A túra 17:00-kor, naplementekor ér véget a Cava dell'isola öbölnél, pazar kilátással.",
+            "ro": "O tură cu bicicleta iarna prin Forio oferă brize marine reci și drumuri libere. Dimineața pe plaja Chiaia, aerul este deosebit de curat. La prânz, parcul și biserica oferă momente de liniște deplină. După-amiaza, sculpturile și grădina de cactuși strălucesc în lumina blândă. Turul se încheie la apus, ora 17:00, la Cava dell'isola.",
+            "en": "A winter bike tour through Forio features cool sea breezes and empty paths. In the morning at Chiaia beach, the air is crystal clear. At noon, the park and church provide peaceful intervals. In the afternoon, lava sculptures and cactus gardens glow in the soft winter light. The tour ends at sunset around 17:00 at Cava dell'isola with a wide view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia della Chiaia",
+                "hu": "Spiaggia della Chiaia",
+                "ro": "Spiaggia della Chiaia",
+                "en": "Spiaggia della Chiaia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den fast leeren Strand für ein paar tiefe Atemzüge der klaren Winterluft, bevor Sie sich für die Weiterfahrt wieder warm einpacken.",
+                "hu": "Élvezze a szinte teljesen üres tengerpartot és szippantson mélyeket a tiszta téli levegőből, mielőtt újra rétegesen felöltözve folytatná az utat.",
+                "ro": "Bucurați-vă de plaja aproape pustie și respirați aerul curat de iarnă înainte de a porni din nou la drum, bine echipat împotriva vântului rece.",
+                "en": "Enjoy the almost empty beach and take deep breaths of the clear winter air before layering up again to continue your scenic coastal ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Sprint",
+                "hu": "Parco Sprint",
+                "ro": "Parco Sprint",
+                "en": "Parco Sprint"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Park ein Ort der absoluten Stille; nutzen Sie die kurzen Wege für ein wenig Bewegung, um warm zu bleiben, während Sie pausieren.",
+                "hu": "Télen a park az abszolút csend szigete; használja ki a rövid sétányokat egy kis mozgásra, hogy testhőmérsékletét fenntartsa a pihenő alatt.",
+                "ro": "Iarna, parcul este un loc al liniștii absolute; folosiți aleile scurte pentru puțină mișcare ca să vă mențineți căldura în timpul pauzei.",
+                "en": "In winter, the park is a place of absolute silence; use the short pathways for a bit of movement to stay warm while taking a break from cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madre di Forio",
+                "hu": "Chiesa Madre di Forio",
+                "ro": "Chiesa Madre di Forio",
+                "en": "Chiesa Madre di Forio"
+              },
+              "tip_5lang": {
+                "de": "Die spirituelle Wärme im Inneren ist nach der kühlen Fahrt auf dem Rad besonders wohltuend; nehmen Sie sich Zeit für die stillen Details der Kirche.",
+                "hu": "A belső tér szakrális nyugalma és enyhe hőmérséklete különösen jólesik a hűvös biciklizés után; szánjon időt a templom rejtett részleteire.",
+                "ro": "Căldura spirituală din interior este deosebit de plăcută după pedalatul prin aerul rece; acordați-vă timp pentru a admira detaliile discrete.",
+                "en": "The spiritual warmth inside is especially welcome after a cool bike ride; take your time to appreciate the subtle details of the church's interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Lavaskulptur",
+                "hu": "Lávaszobor",
+                "ro": "Sculptura din Lavă",
+                "en": "Lavasculpture"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange, dramatische Schatten auf das Gestein; ein idealer Moment für künstlerische Fotos ohne Touristenmassen.",
+                "hu": "Az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a kőzetre; ideális pillanat művészi fotók készítésére a zavaró turistaáradat nélkül.",
+                "ro": "Soarele de iarnă aflat la înălțime mică proiectează umbre lungi și dramatice pe rocă; un moment ideal pentru poze artistice fără turiști.",
+                "en": "The low winter sun casts long, dramatic shadows on the rock; an ideal moment for artistic photos without the usual crowds of tourists."
+              }
+            },
+            {
+              "name": {
+                "de": "Giardini Ravino, Tropischer Garten",
+                "hu": "Giardini Ravino Trópusi Kert",
+                "ro": "Giardini Ravino, Grădină Tropicală",
+                "en": "Giardini Ravino, Tropical Garden"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gewächshäuser, um sich aufzuwärmen und seltene winterblühende Kakteen zu entdecken, während Sie eine Pause vom Fahrtwind machen.",
+                "hu": "Látogassa meg az üvegházakat, hogy felmelegedjen és felfedezze a ritka téli virágzású kaktuszokat, miközben pihenőt tart a menetszél után.",
+                "ro": "Vizitați serele pentru a vă încălzi și pentru a descoperi cactuși rari care înfloresc iarna, luând o pauză binemeritată de la vântul rece.",
+                "en": "Visit the greenhouses to warm up and discover rare winter-blooming cacti while taking a pleasant break from the cool riding wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Cava dell'isola",
+                "hu": "Cava dell'isola",
+                "ro": "Cava dell'isola",
+                "en": "Cava dell'isola"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang pünktlich um 17 Uhr; die winterliche Dämmerung über dem Meer ist kurz, aber von unvergleichlicher Farbintensität.",
+                "hu": "Figyelje a naplementét pontosan 17 órakor; a téli szürkület a tenger felett rövid, de a színei páratlanul intenzívek és emlékezetesek.",
+                "ro": "Urmăriți apusul fix la ora 17:00; amurgul de iarnă deasupra mării este scurt, dar are o intensitate a culorilor de neegalat și foarte spectaculoasă.",
+                "en": "Watch the sunset promptly at 5 PM; the winter twilight over the sea is short but offers an unparalleled intensity of colors and peaceful vibes."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Vezessen reggel az északi kilátókhoz; kezdje a San Josemaría Escrivá és I Pizzi pontoknál a lélegzetelállító reggeli panorámákért.\n\nDélben haladjon dél felé a tágas Spiaggia di Citara strandra, mely a híres termálkertek melletti kristálytiszta vizéről ismert.\n\nDélután fedezze fel a Giardini Ravino botanikai csodáit, sétáljon a hatalmas pozsgások és egyedi, egzotikus növényfajok között.\n\nVezessen vissza az ikonikus Santa Maria del Soccorso templomhoz egy fenséges tengeri naplementére, mielőtt befejezné a kirándulást.",
         "ro": "Conduceți dimineața spre punctele de belvedere nordice, începând cu San Josemaría Escrivá și I Pizzi pentru panorame matinale superbe.\n\nLa prânz, îndreptați-vă spre sud la spațioasa Spiaggia di Citara, renumită pentru apele sale cristaline adiacente grădinilor termale.\n\nDupă-amiaza, explorați minunile botanice din Giardini Ravino, plimbându-vă printre suculentele masive și speciile unice de plante.\n\nConduceți înapoi la iconica biserică Santa Maria del Soccorso pentru un apus de soare maiestuos deasupra mării, încheind astfel excursia.",
         "en": "Drive to the northern belvederes, starting at San Josemaría Escrivá and the rugged I Pizzi for absolutely breathtaking morning panoramas.\n\nHead south to the spacious Spiaggia di Citara, renowned for its crystal waters immediately adjacent to the island's famous thermal gardens.\n\nExplore the botanical wonders of Giardini Ravino, taking time to slowly stroll among massive succulents and uniquely curated plant species.\n\nDrive back to the iconic cliffside Santa Maria del Soccorso for a majestically beautiful sunset over the sea before concluding your trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich Forio auch bei Regen entspannt erkunden. Morgens bieten die Belvederes spektakuläre Blicke auf das neblige Meer, direkt aus dem trockenen Fahrzeug. Mittags am Citara-Strand fasziniert die dramatische Brandung. Nachmittags sind die Giardini Ravino und die Soccorso-Kirche trotz Regen gut erreichbar und bieten schnelle Wege ins Trockene.",
+            "hu": "Autóval az esős Forio is kényelmesen felfedezhető. Reggel a kilátópontokról az autóból is megcsodálható a ködös tenger látványa. Délben a Citara-parton a drámai hullámverés nyújt lenyűgöző élményt. Délután a Giardini Ravino és a Soccorso-templom gyorsan és szárazon elérhető, így nem kell sokáig az esőben tartózkodnunk.",
+            "ro": "Cu mașina, Forio poate fi explorat relaxat chiar și pe ploaie. Dimineața, punctele de belvedere oferă priveliști spectaculoase spre marea cețoasă, direct din vehicul. La prânz, plaja Citara impresionează prin valurile dramatice. După-amiaza, Giardini Ravino și biserica Soccorso sunt ușor accesibile, oferind refugii rapide la uscat.",
+            "en": "Forio can be explored comfortably by car even in the rain. In the morning, the belvederes offer spectacular views of the misty sea directly from the dry vehicle. At noon, the dramatic surf at Citara beach is fascinating. In the afternoon, Giardini Ravino and Soccorso church are easily accessible, providing quick paths to stay dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Belvedere San Josemaría Escrivá",
+                "hu": "Belvedere San Josemaría Escrivá",
+                "ro": "Belvedere San Josemaría Escrivá",
+                "en": "Belvedere San Josemaría Escrivá"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt aus dem Auto, wenn der Regen zu stark wird; die erhöhte Lage bietet einen tollen Blick auf die Regenfronten über dem Meer.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból, ha túl erősen esne; a magaslati pontról kiválóan megfigyelhetők a tenger felől érkező esőfelhők.",
+                "ro": "Bucurați-vă de panoramă direct din mașină dacă ploaia este prea puternică; locația oferă o vedere excelentă asupra fronturilor de ploaie de pe mare.",
+                "en": "Enjoy the panorama directly from your car if the rain is too heavy; the elevated location offers a great view of rain fronts moving over the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere I Pizzi",
+                "hu": "Belvedere I Pizzi",
+                "ro": "Belvedere I Pizzi",
+                "en": "Belvedere I Pizzi"
+              },
+              "tip_5lang": {
+                "de": "Dieser Aussichtspunkt ist oft neblig bei Regen, was der Küste ein mystisches Aussehen verleiht; bleiben Sie im Wagen für den besten Rundumblick im Trockenen.",
+                "hu": "Ez a kilátópont esőben gyakran ködbe vész, ami misztikus hangulatot kölcsönöz a partnak; maradjon az autóban a legjobb száraz körpanorámáért.",
+                "ro": "Acest punct de observație este adesea învăluit în ceață pe ploaie, oferind un aspect mistic coastei; rămâneți în mașină pentru o vedere panoramică uscată.",
+                "en": "This viewpoint is often misty during rain, giving the coast a mystical appearance; stay in the car for the best all-around panoramic view while dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Citara",
+                "hu": "Spiaggia di Citara",
+                "ro": "Spiaggia di Citara",
+                "en": "Spiaggia di Citara"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Strand, um kurz die salzige Luft zu schnappen; das stürmische Meer bei Citara ist ein beeindruckendes Naturschauspiel im Regen.",
+                "hu": "Parkoljon a parthoz közel, hogy egy rövid időre kiszállva szippanthasson a sós levegőből; a viharos tenger Citaránál lenyűgöző látvány esőben is.",
+                "ro": "Parcați aproape de plajă pentru a simți rapid aerul sărat; marea învolburată de la Citara este un spectacol natural impresionant chiar și pe ploaie.",
+                "en": "Park close to the beach for a quick breath of salty air; the stormy sea at Citara is an impressive natural spectacle to witness during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Giardini Ravino, Tropischer Garten",
+                "hu": "Giardini Ravino Trópusi Kert",
+                "ro": "Giardini Ravino, Grădină Tropicală",
+                "en": "Giardini Ravino, Tropical Garden"
+              },
+              "tip_5lang": {
+                "de": "Der Gartenweg bietet einige überdachte Passagen und ein gemütliches Glashaus-Café, in dem man das Prasseln des Regens auf die Blätter genießen kann.",
+                "hu": "A kert útvonalai több fedett részt és egy hangulatos üvegházi kávézót is érintenek, ahol élvezheti a leveleken kopogó eső megnyugtató hangját.",
+                "ro": "Grădina are mai multe pasaje acoperite și o cafenea-seră primitoare, unde puteți asculta sunetul relaxant al ploii care cade pe frunzele exotice.",
+                "en": "The garden path features several covered sections and a cozy greenhouse cafe where you can enjoy the soothing sound of rain pattering on the leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria del Soccorso",
+                "hu": "Santa Maria del Soccorso",
+                "ro": "Santa Maria del Soccorso",
+                "en": "Santa Maria del Soccorso"
+              },
+              "tip_5lang": {
+                "de": "Dank des nahen Parkplatzes erreichen Sie die Kirche mit nur wenigen Schritten durch den Regen und können im Inneren die trockene Stille genießen.",
+                "hu": "A közeli parkolónak köszönhetően pár lépéssel, szinte szárazon elérheti a templomot, ahol élvezheti a belső tér csendjét és nyugalmát.",
+                "ro": "Datorită parcării din apropiere, puteți ajunge la biserică cu doar câțiva pași prin ploaie, bucurându-vă apoi de liniștea uscată din interior.",
+                "en": "Thanks to the nearby parking, you can reach the church with just a few steps through the rain and enjoy the dry silence of the beautiful interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Forio verspricht klare Fernsichten und gemütliche Wärme im Auto. Morgens bieten die Belvederes einen ungestörten Blick bis zum Horizont. Mittags lädt der ruhige Citara-Strand zum Verweilen ein. Nachmittags strahlen die Giardini Ravino Ruhe aus, bevor der Tag mit dem frühen Sonnenuntergang um 17:00 Uhr an der Soccorso-Kirche perfekt endet.",
+            "hu": "A téli autózás Forióban tiszta kilátást és az autó barátságos melegét kínálja. Reggel a kilátópontokról zavartalanul elláthatunk a távoli horizontig. Délben a csendes Citara-part hívogat egy rövid megállóra. Délután a Giardini Ravino áraszt nyugalmat, mielőtt a nap 17:00-kor a Soccorso-templomnál, a naplementével véget érne.",
+            "ro": "O plimbare cu mașina iarna prin Forio oferă vederi clare și căldura confortabilă a vehiculului. Dimineața, punctele de belvedere oferă o panoramă neîntreruptă spre orizont. La prânz, plaja Citara este locul ideal pentru relaxare. După-amiaza, Giardini Ravino emană liniște, iar ziua se încheie cu apusul de la ora 17:00.",
+            "en": "A winter drive through Forio promises clear views and the cozy warmth of your car. In the morning, the belvederes offer an undisturbed view of the horizon. At noon, the quiet Citara beach invites you for a brief stop. In the afternoon, Giardini Ravino exudes peace before the day ends perfectly with the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Belvedere San Josemaría Escrivá",
+                "hu": "Belvedere San Josemaría Escrivá",
+                "ro": "Belvedere San Josemaría Escrivá",
+                "en": "Belvedere San Josemaría Escrivá"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht oft eine unglaubliche Fernsicht; nutzen Sie die Parkbucht für einen ausgiebigen Panoramablick ohne Zeitdruck.",
+                "hu": "A tiszta téli levegő gyakran hihetetlen távlatokat nyit meg; használja ki a parkolót egy alapos panorámanézésre, mindenféle időnyomás nélkül.",
+                "ro": "Aerul curat de iarnă permite adesea o vizibilitate incredibilă la distanță; folosiți parcarea pentru o vedere panoramică extinsă fără grabă.",
+                "en": "The clear winter air often allows for incredible long-distance views; use the parking bay for an extensive panoramic look without any time pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere I Pizzi",
+                "hu": "Belvedere I Pizzi",
+                "ro": "Belvedere I Pizzi",
+                "en": "Belvedere I Pizzi"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier oben oft windig; bewundern Sie die schroffe Küste am besten aus dem geschützten Wagen, um nicht auszukühlen.",
+                "hu": "Télen itt fent gyakran fúj az erős szél; csodálja meg a zord partvonalat a védett autóból, hogy elkerülje a hirtelen lehűlést és a megfázást.",
+                "ro": "Iarna vântul bate adesea puternic aici; admirați coasta abruptă din confortul mașinii pentru a evita frigul pătrunzător de la înălțime.",
+                "en": "In winter, it is often windy up here; admire the rugged coastline from the protected car to avoid catching a chill from the strong sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Citara",
+                "hu": "Spiaggia di Citara",
+                "ro": "Spiaggia di Citara",
+                "en": "Spiaggia di Citara"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Meer ist im Winter fast leer; ideal, um kurz auszusteigen und die beruhigende Brandung in absoluter Einsamkeit zu genießen.",
+                "hu": "A közvetlen tengerparti parkoló télen szinte üres; ideális hely, hogy kiszállva élvezze a hullámverést a teljes egyedüllétben és csendben.",
+                "ro": "Parcarea de lângă mare este aproape goală iarna; locul ideal pentru a coborî scurt și a vă bucura de sunetul valurilor în solitudine deplină.",
+                "en": "The seaside parking lot is almost empty in winter; it's ideal for a quick step out to enjoy the calming surf in absolute solitude and peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Giardini Ravino, Tropischer Garten",
+                "hu": "Giardini Ravino Trópusi Kert",
+                "ro": "Giardini Ravino, Grădină Tropicală",
+                "en": "Giardini Ravino, Tropical Garden"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Winterbesuch, um die botanische Vielfalt ohne Hitze zu erkunden; das beheizte Café bietet danach eine willkommene Aufwärmpause.",
+                "hu": "Használja ki a téli látogatást a botanikai sokféleség felfedezésére a tikkasztó hőség nélkül; a fűtött kávézó tökéletes hely a felmelegedéshez.",
+                "ro": "Vizitați grădina pentru a explora diversitatea botanică fără căldura verii; cafeneaua încălzită oferă ulterior o pauză de relaxare binemeritată.",
+                "en": "Take advantage of a winter visit to explore the botanical diversity without the summer heat; the heated cafe offers a welcome warming break after."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria del Soccorso",
+                "hu": "Santa Maria del Soccorso",
+                "ro": "Santa Maria del Soccorso",
+                "en": "Santa Maria del Soccorso"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17 Uhr an, um den Sonnenuntergang im Auto sitzend oder direkt vor der Kirche mit Blick auf das weite Meer zu erleben.",
+                "hu": "Érkezzen időben 17 óra előtt, hogy a naplementét az autóban ülve vagy közvetlenül a templom előtt, a tágas tengerre nézve élhesse át.",
+                "ro": "Sosiți la timp înainte de ora 17:00 pentru a vedea apusul din mașină sau chiar din fața bisericii, cu privirea ațintită spre orizontul marin.",
+                "en": "Arrive well before 5 PM to experience the sunset while sitting in your car or directly in front of the church overlooking the vast winter sea."
+              }
+            }
+          ]
+        }
       }
     }
   }

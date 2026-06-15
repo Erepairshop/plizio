@@ -137,6 +137,168 @@
         "hu": "M: Kezdje a napot egy pihentető sétával az Oasi delle Sirene felé, ahol a tenger lágy zúgása fogadja. A friss tengerparti levegő tökéletes és frissítő indulást biztosít.\n\nN: Folytassa útját a lenyűgöző Sunset kilátóponthoz, majd élvezze a La Capannina nyüzsgő, vidám hangulatát egy könnyű, tengerparti ebéd kíséretében.\n\nA: Délután tegyen egy kényelmes sétát a Mari Giù partszakaszhoz. Itt átadhatja magát a tengeri szellő simogatásának, és élvezheti a partszakasz végtelen nyugalmát.\n\nE: A nap a történelmi Ancora emlékműnél ér véget. Itt nyugodtan visszagondolhat a nap eseményeire, miközben a nap lassan eltűnik a horizonton.",
         "ro": "M: Începeți-vă ziua cu o plimbare relaxantă către Oasi delle Sirene, unde marea vă întâmpină cu valurile sale. Aerul proaspăt oferă un început perfect pentru dimineață.\n\nN: Continuați-vă drumul spre spectaculosul punct de belvedere Sunset, înainte de a vă bucura de atmosfera plină de viață de la La Capannina, alături de un prânz ușor.\n\nA: După-amiaza, plimbați-vă pe îndelete până la Mari Giù. Aici puteți simți briza blândă a mării și vă puteți relaxa complet pe coasta absolut pitorească.\n\nE: Ziua se încheie la monumentul istoric Ancora. Permiteți-vă să reflectați la experiențele minunate ale zilei în timp ce soarele dispare încet la orizont.",
         "en": "M: Start your day with a relaxing stroll down to Oasi delle Sirene, where the inviting sea warmly welcomes you. The fresh coastal air guarantees a perfect morning start.\n\nN: Continue your journey along the shore to the spectacular Sunset viewpoint, before thoroughly enjoying the lively atmosphere at La Capannina with a light, delicious lunch.\n\nA: In the afternoon, take a leisurely and peaceful walk towards Mari Giù. Here you can feel the gentle sea breeze and completely unwind along the highly picturesque coastline.\n\nE: The day perfectly concludes at the historical Ancora monument. Take a moment to reflect on your wonderful experiences as the sun slowly disappears over the horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit Regen an der Oasi delle Sirene, wo die Brandung kraftvoll gegen die Felsen schlägt. Mittags suchen wir Schutz beim Sunset und beobachten das graue Meer unter Schirmen. Am Nachmittag führt der Weg zur La Capannina durch die feuchte, salzige Meeresluft. Abends bieten die Mauern des Ancora einen sicheren Zufluchtsort vor dem anhaltenden Regen.",
+            "hu": "Reggel az Oasi delle Sirene sziklái közt az eső morajlása fogad minket a parton. Délben a Sunsetnél az esernyők alatt csodáljuk a szürke tenger misztikus látványát a sétányon. Délután a La Capannina vizes kövei közt a sós tengeri pára illata uralkodik a levegőben. Este az Ancora ódon falai közt lelünk végleges menedéket az áztató, hideg eső elől.",
+            "ro": "Dimineața începe cu ploaie la Oasi delle Sirene, unde valurile se sparg cu putere de stânci. La prânz căutăm adăpost la Sunset, admirând marea gri de sub protecția umbrelelor. După-amiaza, drumul spre La Capannina este învăluit în mirosul sărat al mării umede. Seara, zidurile vechi de la Ancora oferă un refugiu sigur în fața ploii persistente de pe coastă.",
+            "en": "The morning starts with rain at Oasi delle Sirene, where the surf crashes powerfully against the rocks. At noon, we seek shelter at Sunset, admiring the misty gray sea under our umbrellas. In the afternoon, the walk to La Capannina is filled with the scent of salty sea spray and damp earth. By evening, the ancient walls of Ancora provide a welcome refuge from the steady rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oasi delle Sirene",
+                "hu": "Oasi delle Sirene",
+                "ro": "Oasi delle Sirene",
+                "en": "Oasi delle Sirene"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dramatische Brandung vom Schutz der Felsen aus, da Regen eine besondere Atmosphäre schafft; tragen Sie rutschfeste Schuhe auf nassen Steinen.",
+                "hu": "Csodálja meg a drámai hullámverést a sziklák védelméből, mert a vízpermet és az eső különleges hangulatot áraszt; viseljen csúszásmentes talpú cipőt a vizes köveken.",
+                "ro": "Admirați valurile dramatice din adăpostul stâncilor, deoarece ploaia creează o atmosferă deosebită; purtați pantofi antiderapanți pe pietrele umede de pe țărm.",
+                "en": "Admire the dramatic surf from the shelter of the rocks, as the sea spray and rain create a unique atmosphere; wear non-slip shoes on the wet coastal stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset",
+                "hu": "Sunset",
+                "ro": "Sunset",
+                "en": "Sunset"
+              },
+              "tip_5lang": {
+                "de": "Der graue Horizont bietet unter dem bewölkten Himmel ein mystisches Fotomotiv; ein stabiler Regenschirm ist wegen des Windes an der Küste unerlässlich.",
+                "hu": "A borús égbolt alatt a horizont misztikus szürke árnyalatokat ölt, ami tökéletes egy különleges fotóhoz; vigyen magával egy strapabíró esernyőt a szél ellen.",
+                "ro": "Orizontul gri sub cerul înnorat oferă un subiect fotografic mistic; o umbrelă rezistentă este esențială din cauza vântului puternic de pe faleză.",
+                "en": "The gray horizon under the cloudy sky offers a mystical photo subject; a sturdy umbrella is essential due to the strong winds along the coastal promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "La Capannina",
+                "hu": "La Capannina",
+                "ro": "La Capannina",
+                "en": "La Capannina"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie von der überdachten Terrasse aus, wie die Regentropfen Muster auf das Meer zeichnen; eine wasserfeste Schicht sorgt für den nötigen Komfort.",
+                "hu": "Figyelje a fedett teraszról, ahogy az esőcseppek mintákat rajzolnak a tenger felszínére; egy vízhatlan felső réteg sokat javít a komfortérzeten a parton.",
+                "ro": "Urmăriți de pe terasa acoperită cum picăturile de ploaie desenează modele pe suprafața mării; un strat impermeabil vă va asigura confortul necesar afară.",
+                "en": "Watch from the covered terrace as raindrops create patterns on the sea's surface; a waterproof outer layer will ensure your comfort during the coastal stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Mari Giù",
+                "hu": "Mari Giù",
+                "ro": "Mari Giù",
+                "en": "Mari Giù"
+              },
+              "tip_5lang": {
+                "de": "Der Geruch von nassem Sand und die Nähe zum Meer sind jetzt am intensivsten; wählen Sie wasserfeste Schuhe für den kurzen Spaziergang am Ufer.",
+                "hu": "A vizes homok illata és a tenger közelsége ilyenkor a legintenzívebb élmény; válasszon vízálló lábbelit a part menti rövid, frissítő sétához.",
+                "ro": "Mirosul de nisip umed și proximitatea mării sunt cele mai intense în acest moment; alegeți încălțăminte impermeabilă pentru plimbarea scurtă pe mal.",
+                "en": "The scent of wet sand and the proximity to the sea are most intense now; choose waterproof footwear for a short, refreshing walk along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie historische Details zwischen den regennassen Mauern, wo die Vergangenheit lebendig wird; gehen Sie vorsichtig auf dem nassen Kopfsteinpflaster.",
+                "hu": "Fedezze fel a történelmi részleteket az eső áztatta falak között, ahol a múlt hangulata megelevenedik; a vizes kövezeten járjon fokozott óvatossággal.",
+                "ro": "Descoperiți detaliile istorice printre zidurile udate de ploaie, unde atmosfera trecutului prinde viață; mergeți cu atenție pe pavajul umed și alunecos.",
+                "en": "Discover historic details among the rain-soaked walls, where the atmosphere of the past comes alive; walk carefully on the wet and slippery cobblestones."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an der Oasi delle Sirene bietet weite Sicht über das Tyrrhenische Meer. Mittags wärmt die tiefe Sonne den Weg zum Sunset, ideal für einen zügigen Spaziergang. Am Nachmittag erreichen wir La Capannina im goldenen Licht der frühen Dämmerung. Da die Sonne gegen 17:00 Uhr untergeht, endet der kühle Tag in der ruhigen Abendstimmung beim Ancora.",
+            "hu": "A friss téli reggel az Oasi delle Sirene partján kristálytiszta kilátással és élénkítő tengeri széllel vár. Délben a gyenge téli napsütésben sétálunk a Sunset felé, rétegesen öltözve a hideg ellen. Délután a La Capannina környékén a korai naplemente fényei festik meg az eget. Mivel a nap 17:00 körül lebukik, a napot az Ancora meghitt nyugalmában zárjuk.",
+            "ro": "O dimineață proaspătă de iarnă la Oasi delle Sirene oferă vederi clare peste Marea Tireniană. La prânz, soarele slab încălzește drumul spre Sunset, ideal pentru o plimbare rapidă. După-amiaza ajungem la La Capannina în lumina aurie a amurgului timpuriu. Deoarece soarele apune în jur de ora 17:00, ziua se încheie în liniștea serii de la Ancora.",
+            "en": "A crisp winter morning at Oasi delle Sirene offers clear views across the Tyrrhenian Sea. At noon, the low sun warms the path to Sunset, ideal for a brisk walk in warm layers. In the afternoon, we reach La Capannina in the golden light of early dusk. Since the sun sets around 17:00, the chilly day ends in the quiet evening atmosphere near Ancora."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oasi delle Sirene",
+                "hu": "Oasi delle Sirene",
+                "ro": "Oasi delle Sirene",
+                "en": "Oasi delle Sirene"
+              },
+              "tip_5lang": {
+                "de": "In der klaren Winterluft ist die Sicht perfekt und der ferne Horizont erscheint in der ruhigen Bucht; tragen Sie eine windfeste Jacke gegen die Meeresbrise.",
+                "hu": "A kristálytiszta téli levegőben a láthatóság tökéletes, így a távoli horizont is felsejlik az öbölben; öltözzön szélálló kabátba a tengeri fuvallatok ellen.",
+                "ro": "În aerul cristalin de iarnă vizibilitatea este perfectă, iar orizontul îndepărtat apare clar în golf; purtați o jachetă rezistentă la vânt contra brizelor.",
+                "en": "In the crystal-clear winter air visibility is perfect, and the distant horizon appears clearly in the bay; wear a windproof jacket against the cold sea breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset",
+                "hu": "Sunset",
+                "ro": "Sunset",
+                "en": "Sunset"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frühe goldene Stunde am Strand, wenn die tiefstehende Sonne Ihr Gesicht wärmt; kommen Sie vor 16:30 Uhr, um das Licht nicht zu verpassen.",
+                "hu": "Élvezze a korai aranyórát a tengerparton, amikor a lemenő nap sugarai még éppen melegítik az arcát; érkezzen 16:30 előtt, hogy ne maradjon le a fényekről.",
+                "ro": "Bucurați-vă de ora aurie timpurie pe plajă, când soarele care apune vă mai încălzește fața; sosiți înainte de 16:30 pentru a nu rata spectacolul luminii.",
+                "en": "Enjoy the early golden hour on the beach when the low winter sun still warms your face; arrive before 16:30 to make sure you don't miss the fading light."
+              }
+            },
+            {
+              "name": {
+                "de": "La Capannina",
+                "hu": "La Capannina",
+                "ro": "La Capannina",
+                "en": "La Capannina"
+              },
+              "tip_5lang": {
+                "de": "In der winterlichen Stille ist dieser Ort eine Insel der Ruhe zum Entspannen; eine Thermoskanne mit heißem Tee macht den Aufenthalt noch angenehmer.",
+                "hu": "A téli csendben ez a hely a nyugalom szigete, ahol a tenger morajlása mellett pihenhet; egy termosz meleg teával még kellemesebb lesz az itt töltött idő.",
+                "ro": "În liniștea iernii, acest loc este o insulă de calm perfectă pentru relaxare; un termos cu ceai cald va face șederea mult mai plăcută pe malul mării.",
+                "en": "In the winter silence, this place is an island of calm perfect for relaxation; bringing a thermos with hot tea will make your stay even more enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Mari Giù",
+                "hu": "Mari Giù",
+                "ro": "Mari Giù",
+                "en": "Mari Giù"
+              },
+              "tip_5lang": {
+                "de": "Trotz der Kälte ist das Panorama beeindruckend, und zwischen den Dünen finden Sie Schutz vor dem Wind; ein warmer Schal ist hier unerlässlich.",
+                "hu": "A hideg ellenére a tengeri panoráma lenyűgöző, a dűnék között pedig védettebb helyet találhat; egy meleg sál elengedhetetlen a hűvös parti szélben.",
+                "ro": "În ciuda frigului, panorama marină este impresionantă, iar între dune puteți găsi adăpost de vânt; un fular gros este esențial pentru briza rece.",
+                "en": "Despite the cold, the sea panorama is stunning, and you can find shelter from the wind among the dunes; a warm scarf is essential for the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "In der winterlichen Dunkelheit bieten die beleuchteten Mauern einen majestätischen Anblick; kleiden Sie sich in Schichten, um die Lichter lange zu genießen.",
+                "hu": "A téli sötétségben a kivilágított falak méltóságteljes látványt nyújtanak a hűvös éjszakában; réteges öltözetben hosszan csodálhatja az esti fényeket.",
+                "ro": "În întunericul iernii, zidurile iluminate oferă o vedere maiestuoasă în noaptea rece; îmbrăcați-vă în straturi pentru a admira luminile serii cât mai mult.",
+                "en": "In the winter darkness, the illuminated walls offer a majestic sight in the cool night; dress in warm layers to enjoy the evening lights comfortably."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "M: Pattanjon kerékpárra, és induljon a San Michele békés oázisából. A kora reggeli csend és nyugalom tökéletes egy laza, tengerparti tekerés megkezdéséhez.\n\nN: Fedezze fel a rejtett vízesést, majd tekerjen az Oasi delle Sirene felé, mielőtt egy jól megérdemelt, frissítő ebédszünetet tartana a hangulatos La Capanninában.\n\nA: A délutáni túra a Mari Giù partszakaszhoz és a történelmi Ancora emlékműhöz vezet. Élvezze a sík utakat, amelyek kifejezetten ideálisak a gondtalan kerékpározáshoz.\n\nE: Fejezze be a kerékpártúrát a kellemes Hemingway pihenőhelynél. Egy hideg ital kíséretében kinyújthatja a lábát, és gyönyörködhet a festői, színes esti égboltban.",
         "ro": "M: Urcați-vă pe bicicletă și începeți la San Michele, o oază de pace. Liniștea dimineții este ideală pentru o primă etapă relaxantă de-a lungul coastei minunate.\n\nN: Descoperiți cascada ascunsă și pedalați către Oasi delle Sirene, înainte de a face o pauză de prânz bine meritată și răcoritoare la populara La Capannina.\n\nA: După-amiaza vă duce mai departe la Mari Giù și la monumentul istoric Ancora. Bucurați-vă de plimbarea pe potecile plate, perfecte pentru mersul pe bicicletă.\n\nE: Încheiați-vă turul cu bicicleta în zona confortabilă Hemingway. Cu o băutură rece, vă puteți odihni picioarele și puteți admira frumosul cer de seară.",
         "en": "M: Hop on your bike and start your lovely journey at the peaceful haven of San Michele. The morning tranquility is absolutely ideal for a relaxed first stage along the coast.\n\nN: Discover the hidden waterfall and seamlessly cycle towards Oasi delle Sirene, before finally taking a well-deserved, refreshing lunch break at the lively La Capannina.\n\nA: The afternoon takes you further south to Mari Giù and the impressive historical Ancora monument. Enjoy the smooth ride on flat coastal paths perfect for easy cycling.\n\nE: Finish your fantastic bike tour at the highly comfortable Hemingway spot. With a cold beverage in hand, you can rest your legs and beautifully admire the evening sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad beginnt feucht bei San Michele, die Straßen sind glatt und erfordern Vorsicht. Mittags erreichen wir die Cascata dell'Acqua Perropata, deren Rauschen den Regen übertönt. Am Nachmittag führt die Fahrt vorbei an der Oasi delle Sirene, wobei Regenbekleidung unverzichtbar ist. Der Tag endet am Hemingway, wo wir uns nach der nassen Fahrt aufwärmen.",
+            "hu": "A kerékpáros reggel San Michele környékén indul, a nedves utak óvatosságot és jó fékeket igényelnek. Délben a Cascata dell'Acqua Perropata vízesésénél a csapadék csak fokozza a látvány erejét. Délután az Oasi delle Sirene felé tekerünk, vízálló ruházatban dacolva az elemekkel. A napot a Hemingway-nél zárjuk, ahol végre menedéket találunk az áztató eső elől.",
+            "ro": "Dimineața pe bicicletă începe umed la San Michele, drumurile fiind alunecoase și necesitând prudență. La prânz ajungem la Cascata dell'Acqua Perropata, unde sunetul apei acoperă ploaia. După-amiaza continuăm spre Oasi delle Sirene echipați cu pelerine impermeabile. Ziua se încheie la Hemingway, un loc perfect pentru a ne încălzi după tura prin ploaie.",
+            "en": "The morning on the bike starts damp at San Michele, with slippery roads requiring extra caution. At noon, we reach Cascata dell'Acqua Perropata, where the sound of the falls drowns out the rain. In the afternoon, the ride continues past Oasi delle Sirene with waterproof gear being essential. The day ends at Hemingway, where we can finally dry off after the wet journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Michele",
+                "hu": "San Michele",
+                "ro": "San Michele",
+                "en": "San Michele"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht vom Hang ist auch im Regen lohnenswert, aber seien Sie vorsichtig auf dem glatten Asphalt; prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "A domboldalról nyíló kilátás esőben is érdemes, de legyen nagyon óvatos a csúszós aszfalton; ellenőrizze a fékeket alaposan az indulás előtt.",
+                "ro": "Vederea de pe deal merită chiar și pe ploaie, dar fiți foarte atenți pe asfaltul alunecos; verificați frânele cu atenție înainte de a porni la drum.",
+                "en": "The view from the hillside is worth it even in the rain, but be very careful on the slippery asphalt; check your brakes thoroughly before starting."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata dell'Acqua Perropata",
+                "hu": "Cascata dell'Acqua Perropata",
+                "ro": "Cascata dell'Acqua Perropata",
+                "en": "Cascata dell'Acqua Perropata"
+              },
+              "tip_5lang": {
+                "de": "Durch den Regen nimmt die Wassermenge des Wasserfalls zu, was ihn noch monumentaler macht; nutzen Sie Schutzbleche gegen das aufwirbelnde Wasser.",
+                "hu": "Az esőzés miatt a vízesés hozama megnő, így látványa még monumentálisabbá válik; használjon sárvédőt a kerékpárján a felverődő víz ellen.",
+                "ro": "Din cauza ploii, debitul cascadei crește, făcând-o să pară mult mai monumentală; folosiți apărători de noroi la bicicletă contra apei de pe drum.",
+                "en": "Due to the rain, the waterfall's flow increases, making it look even more monumental; use mudguards on your bike against the splashing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Oasi delle Sirene",
+                "hu": "Oasi delle Sirene",
+                "ro": "Oasi delle Sirene",
+                "en": "Oasi delle Sirene"
+              },
+              "tip_5lang": {
+                "de": "Die dramatische Küstenlandschaft wirkt im Regen wilder und unberührter; stellen Sie Ihr Rad an einem geschützten Ort ab, während Sie die Aussicht genießen.",
+                "hu": "A drámai parti táj esőben vadabbnak és érintetlenebbnek tűnik; parkolja le kerékpárját védett helyen, miközben a viharos tengeri panorámát csodálja.",
+                "ro": "Peisajul dramatic de coastă pare mai sălbatic și mai virgin pe ploaie; parcați bicicleta într-un loc protejat în timp ce admirați marea agitată.",
+                "en": "The dramatic coastal landscape looks wilder and more untouched in the rain; park your bike in a sheltered spot while admiring the stormy sea view."
+              }
+            },
+            {
+              "name": {
+                "de": "La Capannina",
+                "hu": "La Capannina",
+                "ro": "La Capannina",
+                "en": "La Capannina"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Vordach Schutz und genießen Sie den Blick auf die regenverhangene Küste; ein trockenes Handtuch im Rucksack ist jetzt Gold wert.",
+                "hu": "Keressen menedéket az előtető alatt és élvezze a kilátást az esős partra; egy száraz törölköző a hátizsákban most aranyat érhet a pihenő alatt.",
+                "ro": "Căutați adăpost sub copertină și bucurați-vă de vederea spre coasta ploioasă; un prosop uscat în rucsac va fi extrem de util în timpul pauzei.",
+                "en": "Seek shelter under the overhang and enjoy the view of the rainy coast; keeping a dry towel in your backpack will be very useful during this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Mari Giù",
+                "hu": "Mari Giù",
+                "ro": "Mari Giù",
+                "en": "Mari Giù"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Luft trägt den Duft des Meeres direkt zu Ihnen, was das Radfahren erfrischend macht; tragen Sie eine helle Regenjacke für bessere Sichtbarkeit.",
+                "hu": "A nedves levegő közvetlenül hozzánk hozza a tenger illatát, ami frissítővé teszi a tekerést; viseljen világos esőkabátot a jobb láthatóságért.",
+                "ro": "Aerul umed aduce mirosul mării direct spre tine, făcând pedalatul revigorant; purtați o pelerină de ploaie deschisă la culoare pentru vizibilitate.",
+                "en": "The damp air brings the scent of the sea directly to you, making the ride refreshing; wear a bright raincoat for better visibility in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steinmauern leuchten im Regen in dunklen Farben; achten Sie beim Anhalten auf den rutschigen Untergrund am Straßenrand.",
+                "hu": "A történelmi kőfalak sötétebb színekben tündökölnek az esőben; figyeljen a megálláskor a csúszós útpadkára és a vizes aszfaltra a megállónál.",
+                "ro": "Zidurile de piatră istorice strălucesc în culori mai închise pe ploaie; fiți atenți la acostamentul alunecos când opriți bicicleta în acest punct.",
+                "en": "The historic stone walls glow in darker shades in the rain; pay attention to the slippery roadside and wet asphalt when stopping your bike here."
+              }
+            },
+            {
+              "name": {
+                "de": "Hemingway",
+                "hu": "Hemingway",
+                "ro": "Hemingway",
+                "en": "Hemingway"
+              },
+              "tip_5lang": {
+                "de": "Ruhen Sie sich am Ende der Tour auf der überdachten Terrasse aus; bewahren Sie Wechselkleidung in einer wasserdichten Tasche auf.",
+                "hu": "A túra végén a fedett teraszon megpihenve hallgathatja az esőt; tartson magánál váltóruhát egy vízhatlan táskában a maximális kényelemért.",
+                "ro": "La finalul turei, relaxați-vă pe terasa acoperită ascultând ploaia; păstrați haine de schimb într-o geantă impermeabilă pentru confort maxim.",
+                "en": "At the end of your tour, relax on the covered terrace while listening to the rain; keep change of clothes in a waterproof bag for extra comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen bei San Michele erfordert Handschuhe und eine warme Jacke für die Abfahrt. Mittags glitzert das Wasser der Cascata dell'Acqua Perropata in der klaren, kalten Luft. Nachmittags radeln wir entlang der Küste von der Oasi delle Sirene zur La Capannina im sanften Winterlicht. Da es früh dunkel wird, erreichen wir Hemingway rechtzeitig für einen gemütlichen Ausklang.",
+            "hu": "A hűvös téli reggel San Michele-nél indul, a kesztyű és a meleg kabát kötelező a lejtőkön. Délben a Cascata dell'Acqua Perropata vize csillog a tiszta, hideg levegőben a téli napsütésben. Délután a part mentén, az Oasi delle Sirene felé tekerünk a lágy fényekben. A korai sötétedés miatt időben érünk a Hemingway-hez a nap zárásaként.",
+            "ro": "O dimineață rece de iarnă la San Michele necesită mănuși și o jachetă groasă pentru coborâri. La prânz, apa de la Cascata dell'Acqua Perropata sclipeste în aerul rece și curat. După-amiaza pedalăm de-a lungul coastei spre Oasi delle Sirene în lumina blândă a iernii. Deoarece se întunecă devreme, ajungem la Hemingway la timp pentru un final relaxant.",
+            "en": "A chilly winter morning at San Michele requires gloves and a warm jacket for the descents. At noon, the water of Cascata dell'Acqua Perropata sparkles in the clear, cold air. In the afternoon, we cycle along the coast to Oasi delle Sirene in the soft winter light. With darkness falling early, we reach Hemingway in time for a comfortable end to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Michele",
+                "hu": "San Michele",
+                "ro": "San Michele",
+                "en": "San Michele"
+              },
+              "tip_5lang": {
+                "de": "Die frische Bergluft auf dem Rad ist belebend, aber Schichtenkleidung ist wegen des Fahrtwinds entscheidend; tragen Sie gefütterte Handschuhe.",
+                "hu": "A friss hegyi levegő a kerékpáron ülve élénkítő, de a menetszél miatt a réteges öltözet kulcsfontosságú; viseljen bélelt kesztyűt a kormányzáshoz.",
+                "ro": "Aerul proaspăt de munte este revigorant pe bicicletă, dar îmbrăcămintea în straturi este esențială din cauza vântului; purtați mănuși căptușite.",
+                "en": "The fresh mountain air is invigorating on the bike, but layered clothing is key due to the wind chill; wear padded gloves for better handling."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata dell'Acqua Perropata",
+                "hu": "Cascata dell'Acqua Perropata",
+                "ro": "Cascata dell'Acqua Perropata",
+                "en": "Cascata dell'Acqua Perropata"
+              },
+              "tip_5lang": {
+                "de": "Eiszapfen und Reif bieten an frostigen Morgen einen magischen Anblick; achten Sie in schattigen Kurven auf überfrierende Abschnitte.",
+                "hu": "A vízesés környékén a jégcsapok és a zuzmara varázslatos látványt nyújtanak; figyeljen a lefagyott útszakaszokra az árnyékos kanyarokban.",
+                "ro": "Țurțurii și chiciura oferă o vedere magică în diminețile geroase; fiți atenți la porțiunile de drum înghețate în curbele umbrite de munte.",
+                "en": "Icicles and frost provide a magical sight on frosty mornings; watch out for frozen road sections in the shaded mountain turns along the route."
+              }
+            },
+            {
+              "name": {
+                "de": "Oasi delle Sirene",
+                "hu": "Oasi delle Sirene",
+                "ro": "Oasi delle Sirene",
+                "en": "Oasi delle Sirene"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter scharf, bietet aber eine unglaubliche Fernsicht; eine windfeste Mütze unter dem Helm hält den Kopf warm.",
+                "hu": "A tengeri szél télen metsző, de hihetetlen távoli kilátást biztosít; egy szélálló sapka a sisak alatt segít melegen tartani a fejét a tekerés alatt.",
+                "ro": "Briza mării este tăioasă iarna, dar oferă o vizibilitate incredibilă la distanță; o căciulă rezistentă la vânt sub cască vă va ține de cald.",
+                "en": "The sea breeze is sharp in winter but provides incredible distant views; a windproof skull cap under your helmet will help keep your head warm."
+              }
+            },
+            {
+              "name": {
+                "de": "La Capannina",
+                "hu": "La Capannina",
+                "ro": "La Capannina",
+                "en": "La Capannina"
+              },
+              "tip_5lang": {
+                "de": "Das sanfte Licht der Wintersonne macht diesen Stopp zu einem perfekten Ort für ein kurzes Aufwärmen in der Sonne; tragen Sie Funktionsunterwäsche.",
+                "hu": "A téli napfény lágy ereje ezt a megállót tökéletes ponttá teszi egy rövid napsütötte melegedéshez; viseljen technikai aláöltözetet a túrához.",
+                "ro": "Lumina blândă a soarelui de iarnă face din această oprire un loc perfect pentru o scurtă încălzire la soare; purtați lenjerie termică tehnică.",
+                "en": "The soft winter sunlight makes this stop a perfect spot for a quick warm-up in the sun; wear technical thermal base layers for your bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mari Giù",
+                "hu": "Mari Giù",
+                "ro": "Mari Giù",
+                "en": "Mari Giù"
+              },
+              "tip_5lang": {
+                "de": "Die Dünen bieten an windigen Wintertagen einen natürlichen Schutz für eine kurze Pause; achten Sie darauf, nicht zu lange in der Kälte zu stehen.",
+                "hu": "A dűnék természetes szélvédelmet nyújtanak egy rövid pihenőhöz a szeles téli napokon; ügyeljen rá, hogy ne hűljön ki túl hosszan állva a hidegben.",
+                "ro": "Dunele oferă un adăpost natural împotriva vântului pentru o scurtă pauză; aveți grijă să nu vă răciți stând prea mult timp nemișcați în frig.",
+                "en": "The dunes provide natural wind protection for a short break on windy winter days; be careful not to get too chilled by standing still for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Radfahren; eine Sonnenbrille mit klaren oder kontrastverstärkenden Gläsern ist sehr hilfreich.",
+                "hu": "A téli nap alacsonyan jár és erősen vakíthat kerékpározás közben; egy kontrasztkiemelő lencsés napszemüveg sokat segíthet a biztonságban.",
+                "ro": "Soarele de iarnă apune jos și poate fi orbitor în timp ce pedalați; o pereche de ochelari de soare cu lentile de contrast vă va fi de folos.",
+                "en": "The winter sun sits low and can be quite blinding while cycling; a pair of sunglasses with contrast-enhancing lenses will help with safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Hemingway",
+                "hu": "Hemingway",
+                "ro": "Hemingway",
+                "en": "Hemingway"
+              },
+              "tip_5lang": {
+                "de": "Die gemütlichen Lichter sind nach einer kalten Fahrt einladend; prüfen Sie Ihre Fahrradbeleuchtung für den Rückweg in der frühen Dunkelheit.",
+                "hu": "A barátságos fények hívogatóak a hideg túra után; ellenőrizze a kerékpár lámpáit a korai sötétedés miatti esti biztonságos visszaúthoz.",
+                "ro": "Luminile primitoare sunt tentante după o tură rece; verificați luminile bicicletei pentru drumul de întoarcere în întunericul care cade devreme.",
+                "en": "The cozy lights are inviting after a cold ride; check your bike lights to ensure a safe journey back in the early winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "M: Autós utazása a lenyűgöző Grotte di Cavinia barlangoknál kezdődik, majd a Torre di Rienzohoz vezet. Az autó rugalmassága révén maximálisan kiélvezheti a kora reggelt.\n\nN: Csodálja meg a jellegzetes Scoglio della Leonessa sziklát és a vízesést, mielőtt az Oasi delle Sirene és a La Capannina felé venné az irányt egy kiadós tengerparti ebédre.\n\nA: Délután kényelmesen autózhat tovább dél felé. A jármű kényelme lehetővé teszi, hogy a történelmi Ancora emlékművet gyorsan, minden megerőltetés nélkül elérje.\n\nE: A nap kreatív befejezéseként látogasson el a Zoo Art parkba. Parkoljon le a közelben, és sétáljon a szobrok között, miközben az este aranyba öltözteti a tájat.",
         "ro": "M: Călătoria dvs. cu mașina începe la fascinantele Grotte di Cavinia și duce la Torre di Rienzo. Flexibilitatea mașinii vă permite să vă bucurați pe deplin de dimineață.\n\nN: Admirați impresionanta Scoglio della Leonessa și cascada înainte de a conduce la Oasi delle Sirene și La Capannina pentru un prânz relaxant și foarte delicios.\n\nA: După-amiaza, conduceți confortabil spre sud. Mașina vă permite să ajungeți la impresionantul monument istoric Ancora destul de repede, complet fără efort.\n\nE: Ziua se încheie creativ la impresionantul Zoo Art. Parcați în apropiere și plimbați-vă printre sculpturi în timp ce seara scaldă coasta în nuanțe aurii.",
         "en": "M: Your scenic drive brilliantly begins at the fascinating Grotte di Cavinia and leads to Torre di Rienzo. The car's total flexibility lets you fully maximize the coastal morning.\n\nN: Admire the striking Scoglio della Leonessa and the beautiful waterfall, before smoothly driving down to Oasi delle Sirene and La Capannina for a satisfying lunch.\n\nA: In the afternoon, you can comfortably cruise further south along the shore. Having a vehicle wonderfully allows you to reach the historical Ancora monument effortlessly.\n\nE: The day creatively concludes at the unique Zoo Art installation. Park nearby and gently stroll among the sculptures as the lovely evening bathes the coast in warm golden hues."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt im Regen bei den Grotte di Cavinia, die Scheibenwischer arbeiten im Takt der Wellen. Mittags erkunden wir die Torre di Rienzo, wobei das Auto ein trockener Rückzugsort bleibt. Nachmittags führt der Weg zur Cascata dell'Acqua Perropata, wo der Regen die Natur belebt. Den Abend verbringen wir im Zoo Art, geschützt vor dem unbeständigen Küstenwetter.",
+            "hu": "Az autós túra esőben indul a Grotte di Cavinia-nál, az ablaktörlők a tenger hullámaival ütemben járnak. Délben a Torre di Rienzo környékét járjuk be, az autó biztonságos menedéket nyújt a megállók közt. Délután a Cascata dell'Acqua Perropata vízeséséhez hajtunk, ahol az eső dúsabbá teszi a tájat. Az estét a Zoo Art fedett környezetében töltjük el.",
+            "ro": "Călătoria începe prin ploaie la Grotte di Cavinia, ștergătoarele lucrând în ritmul valurilor mării. La prânz explorăm Torre di Rienzo, mașina fiind un refugiu uscat între opriri. După-amiaza drumul ne duce la Cascata dell'Acqua Perropata, unde ploaia intensifică frumusețea naturii. Seara o petrecem la Zoo Art, protejați de vremea capricioasă.",
+            "en": "The drive starts in the rain at Grotte di Cavinia, with wipers moving in sync with the waves. At noon, we explore Torre di Rienzo, using the car as a dry sanctuary between stops. In the afternoon, the route leads to Cascata dell'Acqua Perropata, where the rain revitalizes nature. We spend the evening at Zoo Art, sheltered from the unsettled coastal weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grotte di Cavinia",
+                "hu": "Grotte di Cavinia",
+                "ro": "Grotte di Cavinia",
+                "en": "Grotte di Cavinia"
+              },
+              "tip_5lang": {
+                "de": "Die Höhlen bieten natürlichen Schutz vor Regen, während das einfallende Licht eine mystische Stimmung erzeugt; parken Sie nah am Eingang für einen trockenen Weg.",
+                "hu": "A barlangok természetes védelmet nyújtanak az eső elől, a beszűrődő fény pedig különleges hangulatot teremt; parkoljon a bejárathoz közel a szárazabb útért.",
+                "ro": "Peșterile oferă protecție naturală împotriva ploii, în timp ce lumina creează o atmosferă mistică; parcați aproape de intrare pentru a rămâne uscați.",
+                "en": "The caves provide natural shelter from the rain, while the filtering light creates a mystical atmosphere; park close to the entrance for a drier walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Rienzo",
+                "hu": "Torre di Rienzo",
+                "ro": "Torre di Rienzo",
+                "en": "Torre di Rienzo"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus ist es nur ein kurzer Weg zum Turm, von dem aus der Blick auf das stürmische Meer dramatisch ist; ein schneller Regenschutz reicht aus.",
+                "hu": "Az autóból kiszállva csak pár lépés a torony, ahonnan a viharos tenger látványa egészen drámai és felejthetetlen; egy gyors esőkabát elég a felfedezéshez.",
+                "ro": "De la mașină sunt doar câțiva pași până la turn, de unde vederea mării agitate este dramatică; o pelerină de ploaie rapidă este suficientă pentru vizită.",
+                "en": "It's only a few steps from the car to the tower, where the view of the stormy sea is quite dramatic and unforgettable; a quick raincoat is enough for this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Scoglio della Leonessa",
+                "hu": "Scoglio della Leonessa",
+                "ro": "Scoglio della Leonessa",
+                "en": "Scoglio della Leonessa"
+              },
+              "tip_5lang": {
+                "de": "Der Felsen wirkt im Regen dunkler und markanter, während die Wellen tosen; beobachten Sie das Spektakel von sicheren, höheren Punkten aus.",
+                "hu": "A sziklaalakzat esőben sötétebb arcát mutatja, miközben a hullámok tajtékoznak körülötte; figyelje a látványt a biztonságos, magasabb pontokról.",
+                "ro": "Stânca pare mai întunecată pe ploaie în timp ce valurile se sparg în jurul ei; observați spectacolul de la punctele de observație mai înalte și sigure.",
+                "en": "The rock formation shows a darker side in the rain while waves crash around it; observe the spectacle from safe, higher vantage points nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata dell'Acqua Perropata",
+                "hu": "Cascata dell'Acqua Perropata",
+                "ro": "Cascata dell'Acqua Perropata",
+                "en": "Cascata dell'Acqua Perropata"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt die Intensität des Wasserfalls und die Frische der Natur; nutzen Sie den Parkplatz in der Nähe, um die Belastung durch Nässe zu minimieren.",
+                "hu": "Az eső fokozza a vízesés intenzitását és a természet frissességét; használja a közeli parkolót, hogy minimalizálja az áztató esőben töltött időt.",
+                "ro": "Ploaia sporește intensitatea cascadei și prospețimea naturii din jur; folosiți parcarea din apropiere pentru a minimiza timpul petrecut în ploaie.",
+                "en": "The rain increases the waterfall's intensity and the freshness of nature; use the nearby parking lot to minimize your time out in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Oasi delle Sirene",
+                "hu": "Oasi delle Sirene",
+                "ro": "Oasi delle Sirene",
+                "en": "Oasi delle Sirene"
+              },
+              "tip_5lang": {
+                "de": "Die Küste bietet im Regen einen wilden Anblick, den man kurz vom Ufer aus genießen kann; halten Sie einen Schirm im Auto bereit.",
+                "hu": "A partvidék esőben vad látványt nyújt, amelyet rövid sétával élvezhet; tartson egy ernyőt az autóban kéznél a parti kiszálláshoz.",
+                "ro": "Coasta oferă o vedere sălbatică pe ploaie, de care vă puteți bucura la o scurtă plimbare; țineți o umbrelă la îndemână în mașină pentru oprire.",
+                "en": "The coastline offers a wild sight in the rain, which you can enjoy with a short walk; keep an umbrella handy in the car for this coastal stop."
+              }
+            },
+            {
+              "name": {
+                "de": "La Capannina",
+                "hu": "La Capannina",
+                "ro": "La Capannina",
+                "en": "La Capannina"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich, um die Meeresbrise ohne Nässe zu erleben; der Parkplatz direkt davor macht den Stopp sehr komfortabel.",
+                "hu": "Használja a fedett részt a tengeri szellő élvezetéhez anélkül, hogy megázna; a közvetlen közeli parkoló kényelmessé teszi a megállót az esőben is.",
+                "ro": "Folosiți zona acoperită pentru a vă bucura de briza mării fără a vă uda; parcarea directă face această oprire foarte confortabilă pe timp de ploaie.",
+                "en": "Use the covered area to enjoy the sea breeze without getting wet; the direct parking right in front makes this stop very convenient in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern wirken im Regen besonders stimmungsvoll für Fotos aus dem Auto; parken Sie so, dass Sie die beste Sicht auf die Mauern haben.",
+                "hu": "A történelmi falak esőben különösen hangulatosak akár az autóból is; parkoljon úgy, hogy a legjobb rálátása legyen az ódon városrészre.",
+                "ro": "Zidurile istorice sunt deosebit de sugestive pe ploaie, chiar și din mașină; parcați astfel încât să aveți cea mai bună vedere spre orașul vechi.",
+                "en": "The historic walls are particularly atmospheric in the rain, even from the car; park so that you have the best view of the ancient city district."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo Art",
+                "hu": "Zoo Art",
+                "ro": "Zoo Art",
+                "en": "Zoo Art"
+              },
+              "tip_5lang": {
+                "de": "Die Freiluftkunst kann unter einem großen Schirm besichtigt werden; die nassen Oberflächen geben den Werken eine neue Dimension.",
+                "hu": "A szabadtéri művészeti pontok esőben is látogathatóak egy nagy esernyővel; a vizes felületek új dimenziót adnak az alkotások látványának.",
+                "ro": "Punctele de artă în aer liber pot fi vizitate cu o umbrelă mare; suprafețele umede adaugă o nouă dimensiune aspectului operelor de artă.",
+                "en": "The open-air art spots can be visited with a large umbrella; the wet surfaces add a new dimension to the visual appearance of the artworks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt uns zu den Grotte di Cavinia, die Autoheizung sorgt für wohlige Wärme. Mittags bietet die Torre di Rienzo weite Ausblicke über das kühle Tyrrhenische Meer im tiefstehenden Sonnenlicht. Nachmittags besuchen wir die Oasi delle Sirene, bevor die Temperaturen merklich sinken. Den Tag beenden wir im Zoo Art in der ruhigen Winterstimmung der Stadt.",
+            "hu": "A tiszta téli reggel a Grotte di Cavinia-hoz vezet, az autó fűtése kellemes meleget ad az induláshoz. Délben a Torre di Rienzo-tól nyílik pazar kilátás a hűvös Tirrén-tengerre a téli napsütésben. Délután az Oasi delle Sirene partját látogatjuk meg, mielőtt a hőmérséklet hirtelen leesne. A napot a Zoo Art-nál zárjuk a város csendes téli nyugalmában.",
+            "ro": "O dimineață senină de iarnă ne poartă spre Grotte di Cavinia, căldura din mașină asigurând tot confortul necesar. La prânz, Torre di Rienzo oferă panorame vaste peste Marea Tireniană rece în lumina soarelui. După-amiaza vizităm Oasi delle Sirene înainte ca temperaturile să scadă brusc. Încheiem ziua la Zoo Art în liniștea de iarnă a orașului.",
+            "en": "A clear winter morning takes us to Grotte di Cavinia, with the car's heater providing cozy warmth for the start. At noon, Torre di Rienzo offers vast views over the cool Tyrrhenian Sea in the low winter sun. In the afternoon, we visit Oasi delle Sirene before temperatures drop significantly. We end the day at Zoo Art in the quiet winter atmosphere of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grotte di Cavinia",
+                "hu": "Grotte di Cavinia",
+                "ro": "Grotte di Cavinia",
+                "en": "Grotte di Cavinia"
+              },
+              "tip_5lang": {
+                "de": "In der Höhle ist die Temperatur konstanter, was Schutz vor dem Frost bietet; eine Taschenlampe hilft bei der Erkundung dunkler Winterecken.",
+                "hu": "A barlang mélyén a hőmérséklet állandóbb, így a kinti fagy elől kellemes menedéket találhat; vigyen zseblámpát a téli zugok felfedezéséhez.",
+                "ro": "În interiorul peșterii temperatura este mai constantă, oferind protecție împotriva gerului; o lanternă vă va ajuta să explorați colțurile mai întunecate.",
+                "en": "Inside the cave, the temperature is more constant, offering shelter from the outside frost; bring a flashlight to explore the darker winter corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Rienzo",
+                "hu": "Torre di Rienzo",
+                "ro": "Torre di Rienzo",
+                "en": "Torre di Rienzo"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Fernsicht ermöglicht Blicke bis zu fernen Küsten im klaren Sonnenschein; genießen Sie die erfrischende Kälte nur kurz außerhalb des Autos.",
+                "hu": "A téli horizont tisztasága miatt a toronyból ellátni a távolabbi partokig is a tiszta napsütésben; élvezze a frissítő hideget az autóból kiszállva.",
+                "ro": "Claritatea orizontului de iarnă permite vederi până la coastele îndepărtate sub soarele strălucitor; bucurați-vă de frigul revigorant în afara mașinii.",
+                "en": "The clarity of the winter horizon allows for views as far as distant coasts in the clear sunshine; enjoy the refreshing cold just briefly outside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Scoglio della Leonessa",
+                "hu": "Scoglio della Leonessa",
+                "ro": "Scoglio della Leonessa",
+                "en": "Scoglio della Leonessa"
+              },
+              "tip_5lang": {
+                "de": "Die Wildheit des Meeres ist hier im Winter am spürbarsten, wenn der Wind die Gicht formt; bleiben Sie für schnelles Aufwärmen in der Nähe des Autos.",
+                "hu": "A tenger vadsága ezen a ponton érezhető leginkább, ahol a jeges szél formálja a tájat; maradjon az autó közelében a gyors melemegedés érdekében.",
+                "ro": "Sălbăticia mării este cel mai bine resimțită aici iarna, când vântul modelează valurile; rămâneți aproape de mașină pentru o încălzire rapidă.",
+                "en": "The wildness of the sea is most felt here in winter, where the icy wind shapes the landscape; stay near the car for a quick warm-up after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata dell'Acqua Perropata",
+                "hu": "Cascata dell'Acqua Perropata",
+                "ro": "Cascata dell'Acqua Perropata",
+                "en": "Cascata dell'Acqua Perropata"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Gischt an den Felsen bietet ein seltenes Naturschauspiel; achten Sie auf glatte Stellen auf dem Weg vom Parkplatz zum Wasserfall.",
+                "hu": "A sziklákon megfagyó vízpermet ritka és különleges természeti látványt nyújt; ügyeljen a csúszós foltokra a parkolótól a vízesésig tartó rövid úton.",
+                "ro": "Stropii de apă înghețați pe stânci oferă un spectacol natural rar; fiți atenți la porțiunile alunecoase pe drumul de la parcare până la cascadă.",
+                "en": "The frozen spray on the rocks offers a rare natural spectacle in winter; watch out for slippery spots on the short path from the parking lot to the falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Oasi delle Sirene",
+                "hu": "Oasi delle Sirene",
+                "ro": "Oasi delle Sirene",
+                "en": "Oasi delle Sirene"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe macht die Oase zu einem besinnlichen Ort; die tiefstehende Sonne bietet wunderbare Lichtspiele für winterliche Küstenfotos.",
+                "hu": "A téli nyugalom a helyet egy elmélyülésre alkalmas ponttá teszi; az alacsonyan járó nap pazar fényeket kínál a parti téli fotókhoz.",
+                "ro": "Liniștea iernii transformă oaza într-un loc perfect pentru meditație; soarele de joasă altitudine oferă jocuri de lumină superbe pentru fotografii.",
+                "en": "The winter tranquility turns this oasis into a contemplative spot; the low sun offers wonderful light for your coastal winter photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "La Capannina",
+                "hu": "La Capannina",
+                "ro": "La Capannina",
+                "en": "La Capannina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das winterliche Meer aus dem Schutz der Terrasse; ein warmes Getränk im Auto ist ideal für diesen Stopp.",
+                "hu": "Élvezze a téli tenger pazar látványát a terasz védelméből; egy termosz meleg ital az autóban tökéletes kiegészítő ehhez a megállóhoz.",
+                "ro": "Bucurați-vă de vederea vastă a mării de iarnă din adăpostul terasei; o băutură caldă în mașină este ideală pentru această oprire pe coastă.",
+                "en": "Enjoy the vast view of the winter sea from the shelter of the terrace; having a warm drink in the car is ideal for this scenic coastal stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Die historische Stadt wirkt im Winterlicht besonders klar und ruhig; parken Sie am Rand für einen schnellen Blick auf die Architektur.",
+                "hu": "A történelmi városrész a téli fényben különösen tisztának és nyugodtnak hat; parkoljon le a szélén egy gyors, frissítő sétára az épületek közt.",
+                "ro": "Orașul istoric pare deosebit de clar și liniștit în lumina iernii; parcați la margine pentru o scurtă plimbare revigorantă printre clădiri.",
+                "en": "The historic town district feels particularly clear and quiet in the winter light; park at the edge for a quick, refreshing walk among the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoo Art",
+                "hu": "Zoo Art",
+                "ro": "Zoo Art",
+                "en": "Zoo Art"
+              },
+              "tip_5lang": {
+                "de": "Die modernen Installationen treten in der kargen Winterlandschaft deutlicher hervor; besuchen Sie den Ort nach Einbruch der Dunkelheit für die Beleuchtung.",
+                "hu": "A modern installációk a kopárabb téli környezetben még hangsúlyosabbá válnak; látogassa meg sötétedés után, amikor a fények életre keltik őket.",
+                "ro": "Instalațiile moderne devin mult mai proeminente în mediul arid de iarnă; vizitați locul după lăsarea întunericului pentru a vedea iluminatul special.",
+                "en": "The modern installations become even more prominent in the barren winter environment; visit after dark when the special lighting brings them to life."
+              }
+            }
+          ]
+        }
       }
     }
   }

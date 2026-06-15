@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a régió történelmének megismerésével a nemzeti múzeumban, majd tisztelegjen a város ikonikus emlékműve előtt. A dél körül a helyi művészeti központok kreatív világán keresztül vezet az útja. Délután felfedezheti Korat spirituális szívét meghatározó egyedi barlangszentélyeket és nyugodt vizes templomokat. Az estét a nyüzsgő éjszakai piacon zárja, ahol helyi utcai ételek és kézműves termékek várják.",
         "ro": "Începeți dimineața absorbind istoria profundă a regiunii la muzeul național, înainte de a aduce un omagiu la monumentul emblematic. La amiază veți trece prin expresiile creative ale centrelor de artă locale. După-amiaza, veți descoperi altarele unice din peșteri și templele liniștite care definesc inima spirituală a orașului Korat. Încheiați seara la bazarul de noapte animat, plin de mâncare stradală locală și meșteșuguri.",
         "en": "Start your morning by absorbing the profound history of the region at the national museum before paying homage at the city's iconic monument. Midday brings you through the creative expressions of local art centers and hidden temples. In the afternoon, you will discover the unique cave shrines and serene moated temples that define the spiritual heart of Korat. Conclude your evening at the lively night bazaar, where local street food and crafts await your discovery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir Museen, um dem Regen zu entgehen. Mittags suchen wir Schutz unter den Arkaden am Denkmal. Nachmittags erkunden wir die Tempelanlagen mit Schirmen. Abends genießen wir die beleuchtete Stadt trotz der Pfützen auf den Wegen.",
+            "hu": "Reggel múzeumi látogatással óvjuk meg magunkat az esőtől. Délben az emlékmű környéki árkádok alatt pihenünk. Délután esernyővel járjuk be a szentélyek belső tereit. Este a kivilágított várost a víztükröződések teszik különlegessé.",
+            "ro": "Dimineața vizităm muzeele pentru a evita ploaia. La prânz căutăm adăpost sub arcadele monumentului. După-amiaza explorăm templele cu umbrela pregătită. Seara, orașul iluminat capătă un farmec aparte datorită reflexiilor în apă.",
+            "en": "Morning is spent indoors at the museum to avoid the rain. At noon, we find shelter near the monument's walkways. Afternoon involves exploring temple interiors with umbrellas. Evening highlights the city lights reflecting on the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maha Wirawong National Museum",
+                "hu": "Maha Wirawong Nemzeti Múzeum",
+                "ro": "Muzeul Național Maha Wirawong",
+                "en": "Maha Wirawong National Museum"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Buddha-Statuen im trockenen Innenraum; die kühle Atmosphäre ist ein perfekter Zufluchtsort vor dem starken Tropenregen.",
+                "hu": "Csodálja meg az ősi Buddha-szobrokat a száraz belső térben; a hűvös tárlat tökéletes menedék a heves trópusi eső elől.",
+                "ro": "Admirați statuile antice ale lui Buddha în interiorul uscat; atmosfera răcoroasă este un refugiu perfect împotriva ploii tropicale.",
+                "en": "Admire the ancient Buddha statues in the dry interior; the cool exhibits provide a perfect sanctuary from the heavy tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Thao Suranari Monument",
+                "hu": "Thao Suranari Emlékmű",
+                "ro": "Monumentul Thao Suranari",
+                "en": "Thao Suranari Monument"
+              },
+              "tip_5lang": {
+                "de": "Huldigen Sie der Stadtheldin unter dem Schutz Ihres Regenschirms; achten Sie auf die rutschigen Fliesen rund um den Opferbereich.",
+                "hu": "Hódoljon a város hősének esernyője védelmében; vigyázzon a csúszós járólapokra az áldozati felajánlások környékén.",
+                "ro": "Aduceți un omagiu eroinei orașului sub protecția umbrelei; aveți grijă la plăcile alunecoase din jurul zonei de ofrande.",
+                "en": "Pay respects to the city heroine under the protection of your umbrella; be careful of slippery tiles around the offering area."
+              }
+            },
+            {
+              "name": {
+                "de": "Art & Soul",
+                "hu": "Art & Soul",
+                "ro": "Art & Soul",
+                "en": "Art & Soul"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für diese kreative Galerie; die überdachten Bereiche bieten Schutz beim Betrachten der lokalen Kunstwerke.",
+                "hu": "Használja ki az esőszünetet ebben a kreatív galériában; a fedett részek védelmet nyújtanak a helyi műalkotások megtekintése közben.",
+                "ro": "Profită de pauza de ploaie în această galerie creativă; zonele acoperite oferă protecție în timp ce admiri operele de artă locale.",
+                "en": "Take advantage of a break in the rain at this creative gallery; covered sections offer protection while viewing local artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phayap (Phra Aram Luang)",
+                "hu": "Wat Phayap (Phra Aram Luang)",
+                "ro": "Wat Phayap (Phra Aram Luang)",
+                "en": "Wat Phayap (Phra Aram Luang)"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die künstliche Höhle im Inneren des Tempels; sie ist ein absolut regensicherer Ort mit faszinierenden spirituellen Details.",
+                "hu": "Látogassa meg a templom belsejében található mesterséges barlangot; ez egy teljesen esőbiztos hely, lenyűgöző spirituális részletekkel.",
+                "ro": "Vizitați peștera artificială din interiorul templului; este un loc complet ferit de ploaie, cu detalii spirituale fascinante.",
+                "en": "Visit the artificial cave inside the temple; it is a completely rain-proof spot with fascinating spiritual details."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phra Narai Maharat",
+                "hu": "Wat Phra Narai Maharat",
+                "ro": "Wat Phra Narai Maharat",
+                "en": "Wat Phra Narai Maharat"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die heiligen Schreine inmitten des Teiches; nutzen Sie die überdachten Stege, um die Architektur ohne Nässe zu bewundern.",
+                "hu": "Fedezze fel a tó közepén álló szentélyeket; használja a fedett folyosókat az építészet megcsodálásához anélkül, hogy megázna.",
+                "ro": "Explorați sanctuarele din mijlocul iazului; folosiți coridoarele acoperite pentru a admira arhitectura fără a vă uda.",
+                "en": "Explore the sacred shrines in the middle of the pond; use the covered walkways to admire the architecture without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Night Bazaar",
+                "hu": "Éjszakai Piac",
+                "ro": "Bazarul de Noapte",
+                "en": "Night Bazaar"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie unter den Planen der Verkaufsstände; tragen Sie wasserfeste Schuhe, da sich auf dem Asphalt schnell Pfützen bilden können.",
+                "hu": "Sétáljon az árusok ponyvái alatt; viseljen vízálló cipőt, mert az aszfalton gyorsan összegyűlhetnek a nagyobb tócsák.",
+                "ro": "Plimbați-vă sub prelatele vânzătorilor; purtați încălțăminte impermeabilă, deoarece pe asfalt se pot forma rapid bălți mari.",
+                "en": "Stroll under the vendors' tarpaulins; wear waterproof shoes as large puddles can quickly form on the asphalt surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die milde Wintersonne. Mittags ist das Licht perfekt für Fotos an den Denkmälern. Nachmittags besuchen wir die Tempel, bevor es gegen 17:00 Uhr abkühlt. Abends ist eine warme Jacke für den Spaziergang unerlässlich.",
+            "hu": "Reggel a lágy téli napsütésben kezdjük a sétát. Napközben a fények tökéletesek az emlékművek fotózásához. Délután még a lehűlés előtt keressük fel a templomokat. Este a korai sötétedés után meleg réteg szükséges a piachoz.",
+            "ro": "Dimineața începem plimbarea sub soarele blând de iarnă. La prânz, lumina este perfectă pentru fotografii la monumente. După-amiaza vizităm templele înainte de răcire. Seara, o jachetă caldă este esențială după apusul devreme.",
+            "en": "Morning starts with gentle winter sunshine. During the day, the light is perfect for photographing monuments. Afternoon visits to temples are best before it cools down. Evening requires warm layers for the market after early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maha Wirawong National Museum",
+                "hu": "Maha Wirawong Nemzeti Múzeum",
+                "ro": "Muzeul Național Maha Wirawong",
+                "en": "Maha Wirawong National Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehme Kühle im Museum ohne die Sommerhitze; die Beleuchtung der Exponate wirkt an kurzen Wintertagen besonders intensiv.",
+                "hu": "Élvezze a múzeum kellemes hűvösét a nyári hőség nélkül; a kiállítási tárgyak megvilágítása a rövid téli napokon különösen hatásos.",
+                "ro": "Bucurați-vă de răcoarea plăcută din muzeu fără canicula verii; iluminarea exponatelor este deosebit de eficientă în zilele scurte de iarnă.",
+                "en": "Enjoy the museum's pleasant coolness without the summer heat; the lighting of the exhibits is especially effective during short winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Thao Suranari Monument",
+                "hu": "Thao Suranari Emlékmű",
+                "ro": "Monumentul Thao Suranari",
+                "en": "Thao Suranari Monument"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal am Vormittag, wenn die Wintersonne die Statue golden glänzen lässt; ideal für Fotos ohne harte Schatten.",
+                "hu": "Látogassa meg az emlékművet délelőtt, amikor a téli napfény aranylóan világítja meg a szobrot; ideális fotózáshoz éles árnyékok nélkül.",
+                "ro": "Vizitați monumentul dimineața, când soarele de iarnă luminează statuia în tonuri aurii; ideal pentru fotografii fără umbre dure.",
+                "en": "Visit the monument in the morning when the winter sun illuminates the statue in golden tones; ideal for photos without harsh shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Art & Soul",
+                "hu": "Art & Soul",
+                "ro": "Art & Soul",
+                "en": "Art & Soul"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie in der Galerie, während draußen die milde Brise weht; die entspannte Winterstimmung passt perfekt zum künstlerischen Ambiente.",
+                "hu": "Időzzön a galériában, miközben odakint lágy téli szellő fúj; a nyugodt téli hangulat tökéletesen illik a művészi környezethez.",
+                "ro": "Petreceți timp în galerie în timp ce afară adie briza blândă de iarnă; atmosfera calmă de iarnă se potrivește perfect cu mediul artistic.",
+                "en": "Linger in the gallery while the gentle winter breeze blows outside; the relaxed winter atmosphere fits the artistic setting perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phayap (Phra Aram Luang)",
+                "hu": "Wat Phayap (Phra Aram Luang)",
+                "ro": "Wat Phayap (Phra Aram Luang)",
+                "en": "Wat Phayap (Phra Aram Luang)"
+              },
+              "tip_5lang": {
+                "de": "Der Tempelgarten wirkt im Winter besonders gepflegt; besuchen Sie die Höhle am frühen Nachmittag für das beste natürliche Licht im Inneren.",
+                "hu": "A templomkert télen különösen gondozottnak tűnik; látogassa meg a barlangot kora délután a legjobb belső természetes fényekért.",
+                "ro": "Grădina templului pare deosebit de bine întreținută iarna; vizitați peștera la începutul după-amiezii pentru cele mai bune lumini naturale.",
+                "en": "The temple garden looks especially well-kept in winter; visit the cave in the early afternoon for the best natural light inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phra Narai Maharat",
+                "hu": "Wat Phra Narai Maharat",
+                "ro": "Wat Phra Narai Maharat",
+                "en": "Wat Phra Narai Maharat"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fische im Teich bei klarem Winterhimmel; die frische Luft macht den Spaziergang zwischen den religiösen Bauten sehr angenehm.",
+                "hu": "Figyelje meg a halakat a tóban a tiszta téli égbolt alatt; a friss levegő nagyon kellemessé teszi a sétát a vallási épületek között.",
+                "ro": "Observați peștii din iaz sub cerul senin de iarnă; aerul proaspăt face plimbarea printre clădirile religioase foarte plăcută.",
+                "en": "Observe the fish in the pond under the clear winter sky; the fresh air makes the walk between the religious buildings very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Night Bazaar",
+                "hu": "Éjszakai Piac",
+                "ro": "Bazarul de Noapte",
+                "en": "Night Bazaar"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh, da es bereits ab 17:30 Uhr dunkel wird; eine leichte Jacke schützt Sie vor dem kühlen Abendwind beim Bummeln.",
+                "hu": "Érkezzen korán, mert 17:30 után már sötétedik; egy könnyű dzseki megvédi a hűvös esti széltől a nézelődés közben.",
+                "ro": "Sosiți devreme, deoarece se întunecă deja după ora 17:30; o jachetă ușoară vă va proteja de vântul răcoros de seară în timp ce explorați.",
+                "en": "Arrive early as it gets dark after 5:30 PM; a light jacket will protect you from the cool evening breeze while browsing."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A reggeli kerékpározás a központi történelmi emlékműnél kezdődik, majd dinamikus kortárs művészeti galériák mellett halad el. Délben tekerjen a gyönyörű szigeti szentély és a helyi templomok felé, hogy magába szívja a helyi áhítatot. A délután a város múltjának mélyebb megértésére csábít a fő múzeumban, amit egy kellemes utazás követ a folyóparti, hajó alakú templomhoz. A túra elegánsan ér véget, ahogy a nap lassan lenyugszik.",
         "ro": "Plimbarea de dimineață începe la monumentul istoric central, pedalând lângă galerii de artă contemporană dinamice. La prânz, mergeți cu bicicleta spre frumosul altar insular și templele de cartier pentru a simți devotamentul local. După-amiaza vă invită la o înțelegere mai profundă a trecutului orașului la muzeul principal, urmată de o plimbare ușoară la templul de pe râu în formă de barcă. Turul se încheie frumos odată cu apusul soarelui.",
         "en": "Your morning ride begins at the central historical monument, pedaling next to dynamic contemporary art galleries that spark the imagination. By midday, cycle towards the beautiful island shrine and detailed neighborhood temples to soak in local devotion. The afternoon invites you to a deeper understanding of the city's past at the main museum, followed by a breezy ride to the riverside boat-shaped temple. Your tour finishes gracefully as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig auf nassen Straßen zum Denkmal. Mittags nutzen wir Museen als trockene Stopps. Nachmittags erkunden wir die Tempelbezirke, wobei wir auf Pfützen achten. Abends beenden wir die Tour zügig, bevor die Sicht schlechter wird.",
+            "hu": "Reggel óvatosan tekerünk a vizes utakon az emlékmű felé. Délben a múzeumokat használjuk száraz megállóként. Délután a templomokat fedezzük fel, ügyelve a tócsákra. Este gyorsan befejezzük a túrát, mielőtt a látási viszonyok romlanának.",
+            "ro": "Dimineața pedalăm cu atenție pe străzile ude spre monument. La prânz folosim muzeele ca opriri uscate. După-amiaza explorăm zonele templelor, fiind atenți la bălți. Seara încheiem turul rapid înainte ca vizibilitatea să scadă.",
+            "en": "Morning involves careful cycling on wet roads towards the monument. At noon, we use museums as dry stops. Afternoon is for exploring temple grounds, watching out for puddles. Evening ends the tour quickly before visibility decreases."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thao Suranari Monument",
+                "hu": "Thao Suranari Emlékmű",
+                "ro": "Monumentul Thao Suranari",
+                "en": "Thao Suranari Monument"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem erhöhten Ort; der Platz rund um das Denkmal kann bei starkem Regen rutschig für Fahrradreifen sein.",
+                "hu": "Parkolja le kerékpárját egy magasabb ponton; az emlékmű körüli tér heves esőzéskor csúszós lehet a bicikligumiknak.",
+                "ro": "Parcați bicicleta într-un loc mai înalt; piața din jurul monumentului poate fi alunecoasă pentru anvelopele de bicicletă în timpul ploii.",
+                "en": "Park your bike on higher ground; the square around the monument can be slippery for bike tires during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Korat Contemporary Art And Culture Centre",
+                "hu": "Korat Kortárs Művészeti és Kulturális Központ",
+                "ro": "Centrul de Artă și Cultură Contemporană Korat",
+                "en": "Korat Contemporary Art And Culture Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer; drinnen können Sie die moderne Kunst genießen, während die Kleidung im Trockenen bleibt.",
+                "hu": "Használja a fedett kerékpártárolót; bent élvezheti a modern művészetet, miközben a ruházata szárazon marad.",
+                "ro": "Utilizați suportul pentru biciclete acoperit; în interior vă puteți bucura de arta modernă în timp ce hainele rămân uscate.",
+                "en": "Use the covered bike rack; inside you can enjoy modern art while your gear stays dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phra Narai Maharat",
+                "hu": "Wat Phra Narai Maharat",
+                "ro": "Wat Phra Narai Maharat",
+                "en": "Wat Phra Narai Maharat"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den inneren Wegen des Tempels; die Brücken über den Teich sind bei Nässe besonders tückisch für Radfahrer.",
+                "hu": "Tekerjen lassan a templom belső útjain; a tó feletti hidak nedvesen különösen csalókák lehetnek a kerékpárosok számára.",
+                "ro": "Pedalați încet pe aleile interioare ale templului; podurile de peste iaz pot fi foarte înșelătoare pentru bicicliști când sunt ude.",
+                "en": "Cycle slowly on the temple's inner paths; the bridges over the pond can be very treacherous for cyclists when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Isan Nakhon Ratschasima",
+                "hu": "Wat Isan Nakhon Ratschasima",
+                "ro": "Wat Isan Nakhon Ratschasima",
+                "en": "Wat Isan Nakhon Ratschasima"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den weiten Tempeldächern, wenn der Regen zunimmt; prüfen Sie Ihre Bremsen nach der Fahrt durch tiefe Pfützen.",
+                "hu": "Keressen menedéket a széles templomtetők alatt, ha erősödik az eső; ellenőrizze a fékeket a mélyebb tócsákon való áthaladás után.",
+                "ro": "Căutați adăpost sub streșinile largi ale templului dacă ploaia se intensifică; verificați frânele după ce treceți prin bălți adânci.",
+                "en": "Seek shelter under the wide temple eaves if the rain intensifies; check your brakes after riding through deeper puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Korat Museum",
+                "hu": "Korat Múzeum",
+                "ro": "Muzeul Korat",
+                "en": "Korat Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Fahrrad sicher abzustellen und längere Zeit im Trockenen die Geschichte von Korat zu studieren.",
+                "hu": "Ideális hely a kerékpár biztonságos leállításához, és hosszabb idő eltöltéséhez szárazon, Korat történelmének tanulmányozásával.",
+                "ro": "Un loc ideal pentru a parca bicicleta în siguranță și pentru a petrece mai mult timp la adăpost, studiind istoria orașului Korat.",
+                "en": "An ideal place to park your bike safely and spend a longer time dry, studying the history of Korat."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sala Loi",
+                "hu": "Wat Sala Loi",
+                "ro": "Wat Sala Loi",
+                "en": "Wat Sala Loi"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Rückweg auf den Verkehr bei Regen; das moderne Tempelgebäude bietet am Ende der Tour guten Regenschutz.",
+                "hu": "A visszaúton figyeljen a forgalomra az esőben; a modern templomépület a túra végén jó védelmet nyújt az égi áldás ellen.",
+                "ro": "Atenție la trafic pe drumul de întoarcere prin ploaie; clădirea modernă a templului oferă protecție bună la finalul turului.",
+                "en": "Watch the traffic on the way back in the rain; the modern temple building offers good protection at the end of the tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir in der erfrischenden Winterluft. Mittags laden die schattigen Parks zur kurzen Rast ein. Nachmittags nutzen wir das sanfte Licht für Erkundungen. Abends sorgt der kühle Fahrtwind für ein schnelles Ende der Tour.",
+            "hu": "Reggel a frissítő téli levegőben indulunk útnak. Napközben az árnyas parkok rövid pihenőre csábítanak. Délután a lágy fényeket használjuk a felfedezéshez. Este a hűvös menetszél miatt gyorsan befejezzük a kört.",
+            "ro": "Dimineața pornim la drum în aerul revigorant de iarnă. În timpul zilei, parcurile umbrite invită la scurte pauze. După-amiaza profităm de lumina blândă. Seara, vântul rece ne face să încheiem rapid turul.",
+            "en": "Morning starts in the refreshing winter air. During the day, shaded parks invite brief rests. Afternoon uses the soft light for exploration. Evening's cool breeze leads to a quick conclusion of the tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thao Suranari Monument",
+                "hu": "Thao Suranari Emlékmű",
+                "ro": "Monumentul Thao Suranari",
+                "en": "Thao Suranari Monument"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Kühle macht das Parken und den Besuch hier sehr angenehm; genießen Sie die klare Sicht auf die Statue.",
+                "hu": "A reggeli hűvös időben a parkolás és a látogatás is nagyon kellemes; élvezze a tiszta kilátást a szoborra.",
+                "ro": "Răcoarea dimineții face parcarea și vizita foarte plăcute; bucurați-vă de vizibilitatea clară asupra statuii.",
+                "en": "The morning coolness makes parking and visiting here very pleasant; enjoy the clear view of the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Korat Contemporary Art And Culture Centre",
+                "hu": "Korat Kortárs Művészeti és Kulturális Központ",
+                "ro": "Centrul de Artă și Cultură Contemporană Korat",
+                "en": "Korat Contemporary Art And Culture Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um sich bei der Fahrt kurz aufzuwärmen; die Ausstellungen bieten eine inspirierende Pause vom Radfahren.",
+                "hu": "Tökéletes megálló, hogy tekerés közben kicsit bemelegedjen; a kiállítások inspiráló szünetet nyújtanak a kerékpározásban.",
+                "ro": "O oprire perfectă pentru a vă încălzi puțin în timpul pedalatului; expozițiile oferă o pauză inspirată de la mersul pe bicicletă.",
+                "en": "A perfect stop to warm up a bit while riding; the exhibitions provide an inspiring break from cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phra Narai Maharat",
+                "hu": "Wat Phra Narai Maharat",
+                "ro": "Wat Phra Narai Maharat",
+                "en": "Wat Phra Narai Maharat"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Teich ist im Winter erfrischend; parken Sie Ihr Rad im Schatten, um die Tempelruinen entspannt zu besichtigen.",
+                "hu": "A tóparti szél télen frissítő; parkolja le kerékpárját árnyékban, hogy nyugodtan megtekinthesse a templomromokat.",
+                "ro": "Vântul de lângă iaz este revigorant iarna; parcați bicicleta la umbră pentru a vizita ruinele templului în liniște.",
+                "en": "The breeze by the pond is refreshing in winter; park your bike in the shade to visit the temple ruins calmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Isan Nakhon Ratschasima",
+                "hu": "Wat Isan Nakhon Ratschasima",
+                "ro": "Wat Isan Nakhon Ratschasima",
+                "en": "Wat Isan Nakhon Ratschasima"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Anlage in der Nebensaison; die tiefstehende Wintersonne wirft lange, fotogene Schatten auf die Pagoden.",
+                "hu": "Élvezze a hely nyugalmát a főszezonon kívül; az alacsonyan járó téli nap hosszú, fotogén árnyékokat vet a pagodákra.",
+                "ro": "Bucurați-vă de liniștea locului în afara sezonului; soarele jos de iarnă aruncă umbre lungi și fotogenice peste pagode.",
+                "en": "Enjoy the tranquility of the place out of peak season; the low winter sun casts long, photogenic shadows on the pagodas."
+              }
+            },
+            {
+              "name": {
+                "de": "Korat Museum",
+                "hu": "Korat Múzeum",
+                "ro": "Muzeul Korat",
+                "en": "Korat Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für den Museumsbesuch, wenn die Wintersonne am stärksten ist; so entgehen Sie der direkten UV-Strahlung.",
+                "hu": "Használja ki a délidőt a múzeumlátogatásra, amikor a téli nap a legerősebb; így elkerülheti a közvetlen UV-sugárzást.",
+                "ro": "Folosiți timpul amiezii pentru vizitarea muzeului, când soarele de iarnă este cel mai puternic; astfel evitați radiațiile UV directe.",
+                "en": "Use the midday time for a museum visit when the winter sun is strongest; this way you avoid direct UV radiation."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sala Loi",
+                "hu": "Wat Sala Loi",
+                "ro": "Wat Sala Loi",
+                "en": "Wat Sala Loi"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Tempel vor Sonnenuntergang um 17:00 Uhr; die moderne Architektur wirkt im rötlichen Winterabendlicht spektakulär.",
+                "hu": "Látogassa meg a templomot naplemente előtt, 17:00 körül; a modern építészet látványos a vöröses téli esti fényben.",
+                "ro": "Vizitați templul înainte de apus, în jur de ora 17:00; arhitectura modernă arată spectaculos în lumina roșiatică de seară.",
+                "en": "Visit the temple before sunset around 5:00 PM; the modern architecture looks spectacular in the reddish winter evening light."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Vezessen ki korán a város széli békés erdei templomhoz, ahol a természet és a meditáció gyönyörűen összefonódik, mielőtt a tisztelt sztúpához indulna. A dél visszavezeti Önt a városközpontba, hogy felfedezze a történelmet és tisztelegjen az ikonikus hősnő előtt. A délután zökkenőmentesen vált át a folyóparti templom egyedi építészete és a Korat Múzeum átfogó kiállításai között. Utazása a régió örökségének teljes megismerésével zárul.",
         "ro": "Conduceți dimineața devreme spre templul pașnic din pădure, unde natura și meditația se împletesc frumos, înainte de a vă îndrepta spre stupa venerată. La amiază vă conectați înapoi la centrul orașului, explorând istoria profundă și onorând eroina locală. După-amiaza face o tranziție fluidă între arhitectura unică a templului de pe râu și exponatele complexe de la Muzeul Korat. Călătoria dumneavoastră se încheie cu o imagine completă a patrimoniului.",
         "en": "Drive out early to the peaceful forest temple on the outskirts, where nature and meditation intertwine beautifully before heading to the revered stupa. Midday connects you back to the city core, exploring profound national history and honoring the iconic local heroine. The afternoon seamlessly transitions between the unique architecture of the riverside temple and the comprehensive exhibits of the Korat Museum. Your journey wraps up with a complete view of the region's heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir das Auto als perfekte Kapsel gegen den Regen. Mittags parken wir nah an den Eingängen der Museen. Nachmittags besuchen wir die abgelegeneren Tempel sicher und trocken. Abends genießen wir die Fahrt durch das glitzernde Regen-Korat.",
+            "hu": "Reggel az autót tökéletes menedékként használjuk az eső ellen. Napközben a múzeumok bejárataihoz közel parkolunk. Délután a távolabbi templomokat biztonságban és szárazon keressük fel. Este a csillogó, esős Korat látványában gyönyörködünk.",
+            "ro": "Dimineața folosim mașina ca un adăpost perfect împotriva ploii. În timpul zilei parcăm aproape de intrările muzeelor. După-amiaza vizităm templele mai îndepărtate în siguranță și uscați. Seara admirăm Korat-ul strălucitor în ploaie.",
+            "en": "Morning uses the car as a perfect capsule against the rain. During the day, we park close to museum entrances. Afternoon is for visiting more distant temples safely and dry. Evening is for enjoying the drive through glittering, rainy Korat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Pa Sattharuam",
+                "hu": "Wat Pa Sattharuam",
+                "ro": "Wat Pa Sattharuam",
+                "en": "Wat Pa Sattharuam"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Untergrund, um Schlamm zu vermeiden; der Weg vom Parkplatz zum Tempel ist kurz und regengeschützt.",
+                "hu": "Parkoljon szilárd burkolaton a sár elkerülése érdekében; a parkolótól a templomig vezető út rövid és jól védett az esőtől.",
+                "ro": "Parcați pe o suprafață solidă pentru a evita noroiul; drumul de la parcare la templu este scurt și bine protejat de ploaie.",
+                "en": "Park on solid ground to avoid mud; the path from the parking lot to the temple is short and well-protected from rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sala Thong",
+                "hu": "Wat Sala Thong",
+                "ro": "Wat Sala Thong",
+                "en": "Wat Sala Thong"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Nähe des Parkplatzes zum Hauptgebäude; so bleiben Sie bei plötzlichen Schauern während des Tempelbesuchs trocken.",
+                "hu": "Használja ki a parkoló közelségét a főépülethez; így szárazon maradhat a hirtelen záporok idején a templomlátogatás során.",
+                "ro": "Profitați de proximitatea parcării față de clădirea principală; astfel puteți rămâne uscat în timpul averselor bruște la templu.",
+                "en": "Take advantage of the parking lot's proximity to the main building; this way you stay dry during sudden showers at the temple."
+              }
+            },
+            {
+              "name": {
+                "de": "Maha Wirawong National Museum",
+                "hu": "Maha Wirawong Nemzeti Múzeum",
+                "ro": "Muzeul Național Maha Wirawong",
+                "en": "Maha Wirawong National Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Dauerregen; lassen Sie Ihre nassen Schirme am Eingang und genießen Sie die klimatisierten Ausstellungsräume.",
+                "hu": "Ideális megálló tartós esőben; hagyja a vizes ernyőket a bejáratnál, és élvezze a légkondicionált kiállítótereket.",
+                "ro": "O oprire ideală în caz de ploaie persistentă; lăsați umbrelele ude la intrare și bucurați-vă de sălile de expoziție cu aer condiționat.",
+                "en": "An ideal stop during steady rain; leave your wet umbrellas at the entrance and enjoy the air-conditioned exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Thao Suranari Monument",
+                "hu": "Thao Suranari Emlékmű",
+                "ro": "Monumentul Thao Suranari",
+                "en": "Thao Suranari Monument"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig im Stadtzentrum; die Straßenmarkierungen rund um das Denkmal können bei Nässe für Reifen sehr rutschig sein.",
+                "hu": "Vezessen óvatosan a belvárosban; az emlékmű körüli útburkolati jelek vizesen nagyon csúszósak lehetnek az abroncsok számára.",
+                "ro": "Conduceți cu prudență în centrul orașului; marcajele rutiere din jurul monumentului pot fi foarte alunecoase când sunt ude.",
+                "en": "Drive carefully in the city center; road markings around the monument can be very slippery for tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phra Narai Maharat",
+                "hu": "Wat Phra Narai Maharat",
+                "ro": "Wat Phra Narai Maharat",
+                "en": "Wat Phra Narai Maharat"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefere Wasserstellen auf den Zufahrtsstraßen; der Tempel bietet viele überdachte Gänge zwischen den einzelnen Schreinen.",
+                "hu": "Ügyeljen a mélyebb vízátfolyásokra a bekötőutakon; a templom számos fedett folyosót kínál az egyes szentélyek között.",
+                "ro": "Atenție la porțiunile cu apă adâncă de pe drumurile de acces; templul oferă multe coridoare acoperite între diferitele sanctuare.",
+                "en": "Watch out for deeper water on access roads; the temple offers many covered walkways between the individual shrines."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sala Loi",
+                "hu": "Wat Sala Loi",
+                "ro": "Wat Sala Loi",
+                "en": "Wat Sala Loi"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur bietet hervorragenden Schutz vor Regen; nutzen Sie die Zeit drinnen für Meditation oder zum Fotografieren.",
+                "hu": "A modern építészet kiváló védelmet nyújt az eső ellen; használja ki a bent töltött időt meditációra vagy fotózásra.",
+                "ro": "Arhitectura modernă oferă o protecție excelentă împotriva ploii; folosiți timpul petrecut în interior pentru meditație sau fotografii.",
+                "en": "The modern architecture provides excellent protection from rain; use the time inside for meditation or photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Korat Museum",
+                "hu": "Korat Múzeum",
+                "ro": "Muzeul Korat",
+                "en": "Korat Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier sicher im Trockenen; der großzügige Parkplatz ermöglicht ein bequemes Einsteigen ohne nass zu werden.",
+                "hu": "Fejezze be a napot itt biztonságban, szárazon; a tágas parkoló kényelmes beszállást tesz lehetővé anélkül, hogy megázna.",
+                "ro": "Încheiați ziua aici la adăpost; parcarea spațioasă permite o îmbarcare confortabilă fără a vă uda în ploaie.",
+                "en": "End the day here safely in the dry; the spacious parking lot allows for comfortable boarding without getting wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die angenehme Fahrt bei milden Temperaturen. Mittags ist die Klimaanlage im Auto kaum nötig. Nachmittags erkunden wir die Vororte von Korat im besten Licht. Abends nutzen wir die Heizung des Wagens nach dem Sonnenuntergang.",
+            "hu": "Reggel élvezzük a kellemes autózást az enyhe hőmérsékletben. Napközben az autó klímája alig szükséges. Délután Korat külvárosait fedezzük fel a legjobb fényekben. Este a naplemente után már jól jöhet a kocsi fűtése.",
+            "ro": "Dimineața ne bucurăm de o plimbare plăcută la temperaturi blânde. În timpul zilei, aerul condiționat este abia necesar. După-amiaza explorăm suburbiile Korat-ului în cea mai bună lumină. Seara, încălzirea mașinii e utilă după apus.",
+            "en": "Morning starts with a pleasant drive in mild temperatures. During the day, car AC is hardly needed. Afternoon is for exploring Korat's outskirts in the best light. Evening heat in the car is welcome after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Pa Sattharuam",
+                "hu": "Wat Pa Sattharuam",
+                "ro": "Wat Pa Sattharuam",
+                "en": "Wat Pa Sattharuam"
+              },
+              "tip_5lang": {
+                "de": "Die Waldatmosphäre ist im Winter besonders klar und erfrischend; ein Spaziergang auf dem Gelände ist ohne Schwitzen möglich.",
+                "hu": "Az erdei környezet télen különösen tiszta és frissítő; a sétányok bejárása izzadás nélkül is kényelmesen megtehető.",
+                "ro": "Atmosfera de pădure este deosebit de clară și revigorantă iarna; o plimbare pe teren este posibilă fără a transpira.",
+                "en": "The forest atmosphere is especially clear and refreshing in winter; a walk on the grounds is comfortable without sweating."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sala Thong",
+                "hu": "Wat Sala Thong",
+                "ro": "Wat Sala Thong",
+                "en": "Wat Sala Thong"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Morgen; das weiche Winterlicht betont die goldenen Details der Tempelanlage wunderschön.",
+                "hu": "Élvezze a reggeli nyugalmat; a lágy téli fény gyönyörűen kiemeli a templomegyüttes aranyozott részleteit.",
+                "ro": "Bucurați-vă de liniștea dimineții; lumina blândă de iarnă subliniază frumos detaliile aurii ale complexului de temple.",
+                "en": "Enjoy the morning tranquility; the soft winter light beautifully highlights the golden details of the temple complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Maha Wirawong National Museum",
+                "hu": "Maha Wirawong Nemzeti Múzeum",
+                "ro": "Muzeul Național Maha Wirawong",
+                "en": "Maha Wirawong National Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Wintermonate sind ideal für einen Besuch, da die Luftfeuchtigkeit niedriger ist; perfekt, um die historischen Schätze in Ruhe zu studieren.",
+                "hu": "A téli hónapok ideálisak a látogatásra, mivel alacsonyabb a páratartalom; tökéletes a történelmi kincsek nyugodt tanulmányozásához.",
+                "ro": "Lunile de iarnă sunt ideale pentru o vizită, deoarece umiditatea este mai scăzută; perfect pentru a studia în liniște comorile istorice.",
+                "en": "The winter months are ideal for a visit as the humidity is lower; perfect for studying historical treasures in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Thao Suranari Monument",
+                "hu": "Thao Suranari Emlékmű",
+                "ro": "Monumentul Thao Suranari",
+                "en": "Thao Suranari Monument"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist es im Winter angenehm warm, nicht heiß; nutzen Sie die Zeit für einen kurzen Spaziergang rund um den zentralen Platz.",
+                "hu": "Délidőben télen kellemesen meleg van, nem forró; használja ki az időt egy rövid sétára a központi tér körül.",
+                "ro": "La prânz, iarna este plăcut de cald, nu caniculă; profitați de timp pentru o scurtă plimbare în jurul pieței centrale.",
+                "en": "At noon, winter is pleasantly warm, not hot; take advantage of the time for a short walk around the central square."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phra Narai Maharat",
+                "hu": "Wat Phra Narai Maharat",
+                "ro": "Wat Phra Narai Maharat",
+                "en": "Wat Phra Narai Maharat"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem im Schatten und genießen Sie die kühle Brise vom See; im Winter sind hier weniger Mücken als im Sommer.",
+                "hu": "Parkoljon kényelmesen árnyékban, és élvezze a tóról érkező hűvös szellőt; télen sokkal kevesebb a szúnyog, mint nyáron.",
+                "ro": "Parcați confortabil la umbră și bucurați-vă de briza răcoroasă de pe lac; iarna sunt mult mai puțini țânțari decât vara.",
+                "en": "Park comfortably in the shade and enjoy the cool breeze from the lake; there are far fewer mosquitoes in winter than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Sala Loi",
+                "hu": "Wat Sala Loi",
+                "ro": "Wat Sala Loi",
+                "en": "Wat Sala Loi"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie am späten Nachmittag; das Winterlicht sorgt für fantastische Kontraste auf den geschwungenen Dachlinien des Tempels.",
+                "hu": "Érkezzen késő délután; a téli fények fantasztikus kontrasztokat hoznak létre a templom ívelt tetővonalain.",
+                "ro": "Sosiți după-amiaza târziu; luminile de iarnă creează contraste fantastice pe liniile curbate ale acoperișului templului.",
+                "en": "Arrive in the late afternoon; the winter lights create fantastic contrasts on the temple's curved rooflines."
+              }
+            },
+            {
+              "name": {
+                "de": "Korat Museum",
+                "hu": "Korat Múzeum",
+                "ro": "Muzeul Korat",
+                "en": "Korat Museum"
+              },
+              "tip_5lang": {
+                "de": "Da es ab 17:30 Uhr dunkel wird, bietet das Museum einen gut beleuchteten Abschluss; die Rückfahrt im Auto ist danach angenehm temperiert.",
+                "hu": "Mivel 17:30 után sötétedik, a múzeum jól megvilágított zárást kínál; a hazaút az autóban ezután kellemes hőmérsékletű lesz.",
+                "ro": "Deoarece se întunecă după 17:30, muzeul oferă un final bine iluminat; drumul spre casă cu mașina va fi apoi la o temperatură plăcută.",
+                "en": "Since it gets dark after 5:30 PM, the museum offers a well-lit ending; the drive home in the car will be pleasantly tempered afterwards."
+              }
+            }
+          ]
+        }
       }
     }
   }

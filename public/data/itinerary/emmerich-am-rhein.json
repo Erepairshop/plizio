@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a történelmi Szent Aldegundis-templomnál, majd merüljön el a Rajna Múzeum tengeri világában. Délben a festői Rajna sétány hívogat egy kellemes sétára és egy pihentető szünetre a folyó partján. Délután a gyerekek kitombolhatják magukat a Rajna-park játszóterén. Végül a PAN Art Forum meglátogatása teszi teljessé ezt a kultúrában gazdag napot.",
         "ro": "Începeți ziua la istorica biserică St. Aldegundis, apoi explorați lumea maritimă la Rheinmuseum. La prânz, pitoreasca promenadă a Rinului vă invită la o plimbare și o pauză cu vedere la râu. După-amiaza, copiii se pot juca în spațiosul Rheinpark. În cele din urmă, o vizită la impresionantul PAN Art Forum completează perfect această zi plină de cultură.",
         "en": "Start your day at the historic St. Aldegundis Church before diving into the maritime world of the Rheinmuseum. At midday, the picturesque Rhine Promenade invites you for a relaxing stroll and a scenic break by the river. In the afternoon, let the kids burn off energy at the Rheinpark playground. Finally, a visit to the PAN Art Forum rounds off this culturally rich day out."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen trocken in der St. Aldegundis Kirche. Mittags bietet das Rheinmuseum perfekten Schutz vor den Güssen. Nachmittags ist die Rheinpromenade trotz Regen stimmungsvoll, wenn man einen Schirm nutzt. Beenden Sie den Tag im PAN Art Forum, wo moderne Kunst die grauen Wolken vergessen lässt und Sie gemütlich im Trockenen verweilen können.",
+            "hu": "Kezdje a reggelt szárazon a Szent Aldegundis-templomban. Délben a Rajna Múzeum nyújt menedéket a záporok elől. Délután a Rajna sétány az esőben is hangulatos, ha van esernyője a hajók megfigyeléséhez. A napot a PAN Art Forum-ban zárja, ahol a modern művészet elfeledteti a szürke felhőket a kellemes, fedett kiállítótérben.",
+            "ro": "Începeți dimineața la adăpost în Biserica Sf. Aldegundis. La prânz, Rheinmuseum oferă protecție perfectă împotriva ploii. După-amiaza, promenada Rinului este atmosferică chiar și pe ploaie cu o umbrelă solidă. Încheiați ziua la PAN Art Forum, unde arta modernă vă face să uitați de norii cenușii într-un spațiu expozițional primitor.",
+            "en": "Start the morning dry inside St. Aldegundis Church. At noon, the Rheinmuseum provides perfect shelter from the showers. In the afternoon, the Rhine Promenade remains atmospheric even in the rain if you have an umbrella. End the day at the PAN Art Forum, where modern art helps you forget the gray clouds in a comfortable indoor setting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Aldegundis Kirche",
+                "hu": "Szent Aldegundis-templom",
+                "ro": "Biserica St. Aldegundis",
+                "en": "St. Aldegundis Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die spätgotische Architektur im Trockenen und achten Sie auf die Details des Hochaltars; ein perfekter Ort, um den ersten Regenguss abzuwarten.",
+                "hu": "Csodálja meg a késő gótikus építészetet száraz helyen, és figyelje meg a főoltár részleteit; tökéletes helyszín az első zápor kivárására a falak között.",
+                "ro": "Admirați arhitectura gotică târzie la adăpost și observați detaliile altarului principal; este locul perfect pentru a aștepta trecerea primei averse.",
+                "en": "Admire the late Gothic architecture in the dry and pay attention to the details of the high altar; a perfect place to wait out the first rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Rheinmuseum",
+                "hu": "Rajna Múzeum",
+                "ro": "Rheinmuseum",
+                "en": "Rheinmuseum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Schifffahrtsgeschichte auf mehreren Etagen ohne nass zu werden; nutzen Sie die Garderobe, um Ihre Regenkleidung bequem abzugeben.",
+                "hu": "Fedezze fel a hajózás történetét több emeleten anélkül, hogy elázna; használja a ruhatárat, hogy kényelmesen letehesse vizes esőkabátját a látogatás előtt.",
+                "ro": "Explorați istoria navigației pe mai multe etaje fără a vă uda; folosiți garderoba pentru a vă lăsa hainele de ploaie în siguranță și confort.",
+                "en": "Explore the history of shipping on several floors without getting wet; use the cloakroom to conveniently leave your rain gear during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Rheinpromenade",
+                "hu": "Rajna sétány",
+                "ro": "Promenada Rinului",
+                "en": "Rhine Promenade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den nebligen Rhein unter den Arkaden oder Vordächern; achten Sie auf festes Schuhwerk wegen der eventuell rutschigen Pflastersteine.",
+                "hu": "Élvezze a ködös Rajna látványát az árkádok vagy előtetők alól; viseljen stabil cipőt, mert az utcakövek az esőtől csúszóssá válhatnak a sétányon.",
+                "ro": "Bucurați-vă de vederea Rinului cețos de sub arcade sau copertine; purtați încălțăminte aderentă, deoarece pavajul poate deveni alunecos de la ploaie.",
+                "en": "Enjoy the view of the misty Rhine from under the arcades or canopies; wear sturdy shoes as the cobblestones can become slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz Rheinpark",
+                "hu": "Rajna-parki játszótér",
+                "ro": "Loc de joacă Rheinpark",
+                "en": "Spielplatz Rheinpark"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für frische Luft zwischen den Schauern; nutzen Sie die überdachten Sitzgelegenheiten am Rand, um die Aussicht trocken zu genießen.",
+                "hu": "Egy rövid megálló friss levegőért két zápor között; használja a széli fedett ülőhelyeket, hogy szárazon élvezhesse a park és a folyó látványát.",
+                "ro": "O oprire scurtă pentru aer curat între averse; folosiți locurile de șezut acoperite de la margine pentru a vă bucura de priveliște la adăpost.",
+                "en": "A short stop for fresh air between showers; use the covered seating areas at the edge to enjoy the view while staying dry in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "PAN Art Forum",
+                "hu": "PAN Art Forum",
+                "ro": "PAN Art Forum",
+                "en": "PAN Art Forum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Welt der Plakatkunst ein, während es draußen stürmt; das Museumscafé ist ideal für ein Heißgetränk zum Abschluss des Regentages.",
+                "hu": "Merüljön el a plakátművészet világában, miközben kint tombol a vihar; a múzeumi kávézó ideális egy forró italra az esős nap végén.",
+                "ro": "Cufundați-vă în lumea artei afișelor în timp ce afară plouă; cafeneaua muzeului este ideală pentru o băutură caldă la finalul zilei ploioase.",
+                "en": "Dive into the world of poster art while it storms outside; the museum cafe is ideal for a hot drink to wrap up your rainy day in Emmerich."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den frostigen Morgen in der beheizten St. Aldegundis Kirche. Mittags wärmt Sie die Ausstellung im Rheinmuseum auf. Der Spaziergang am Fluss bietet klare Winterluft, erfordert aber warme Kleidung. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den späten Nachmittag für das PAN Art Forum nutzen, bevor die Dunkelheit einbricht.",
+            "hu": "Kezdje a fagyos reggelt a fűtött Szent Aldegundis-templomban. Délben a Rajna Múzeum kiállítása melegíti fel. A folyóparti séta tiszta téli levegőt kínál, de meleg ruházatot igényel. Mivel a nap már 17:00 körül lemegy, a késő délutánt töltse a PAN Art Forum-ban, mielőtt teljesen besötétedik.",
+            "ro": "Începeți dimineața geroasă în interiorul încălzit al Bisericii Sf. Aldegundis. La prânz, expoziția de la Rheinmuseum vă va încălzi. Plimbarea pe malul râului oferă aer curat de iarnă, dar necesită haine groase. Deoarece soarele apune deja în jur de ora 17:00, profitați de după-amiază la PAN Art Forum.",
+            "en": "Start the frosty morning in the heated St. Aldegundis Church. At noon, the exhibition in the Rheinmuseum will warm you up. The walk along the river offers crisp winter air but requires warm clothing. Since the sun sets around 5:00 PM, use the late afternoon for the PAN Art Forum before darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Aldegundis Kirche",
+                "hu": "Szent Aldegundis-templom",
+                "ro": "Biserica St. Aldegundis",
+                "en": "St. Aldegundis Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe und die milde Wärme im Kirchenschiff; ein idealer Ort, um sich vor dem weiteren Weg durch die Winterkälte zu sammeln.",
+                "hu": "Élvezze a nyugalmat és az enyhe meleget a templomhajóban; ideális hely az elcsendesedéshez, mielőtt továbbindulna a téli hidegben a városban.",
+                "ro": "Bucurați-vă de liniștea și căldura blândă din naosul bisericii; un loc ideal pentru reculegere înainte de a continua drumul prin frigul iernii.",
+                "en": "Enjoy the silence and the mild warmth in the nave; an ideal place to gather yourself before continuing your way through the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Rheinmuseum",
+                "hu": "Rajna Múzeum",
+                "ro": "Rheinmuseum",
+                "en": "Rheinmuseum"
+              },
+              "tip_5lang": {
+                "de": "Die gut temperierten Räume laden zum langen Verweilen ein; betrachten Sie die Schiffsmodelle und lassen Sie die Winterkälte für eine Weile draußen.",
+                "hu": "A kellemes hőmérsékletű termek hosszú időzésre csábítanak; nézze meg a hajómodelleket, és hagyja kint egy időre a téli fagyot a múzeumban.",
+                "ro": "Încăperile bine încălzite vă invită la o vizită lungă; priviți machetele de nave și lăsați frigul iernii afară pentru o vreme în acest muzeu.",
+                "en": "The well-tempered rooms invite you to stay for a long time; look at the ship models and leave the winter cold outside for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Rheinpromenade",
+                "hu": "Rajna sétány",
+                "ro": "Promenada Rinului",
+                "en": "Rhine Promenade"
+              },
+              "tip_5lang": {
+                "de": "Schützen Sie sich mit Schal und Mütze vor dem scharfen Wind vom Fluss; der weite Blick auf den winterlichen Rhein ist besonders bei klarer Luft herrlich.",
+                "hu": "Védje magát sállal és sapkával a folyó felől fújó éles széltől; a téli Rajna látványa különösen tiszta, fagyos levegőben nyújt csodás élményt.",
+                "ro": "Protejați-vă cu fular și căciulă împotriva vântului tăios de pe râu; vederea amplă asupra Rinului hibernal este superbă în zilele senine.",
+                "en": "Protect yourself with a scarf and hat from the sharp wind off the river; the wide view of the winter Rhine is especially wonderful in clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz Rheinpark",
+                "hu": "Rajna-parki játszótér",
+                "ro": "Loc de joacă Rheinpark",
+                "en": "Spielplatz Rheinpark"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Wegen und Spielgeräten; ein kurzer, zügiger Aufenthalt hält den Kreislauf in der Kälte in Schwung.",
+                "hu": "Ügyeljen a jeges foltokra az utakon és a játékokon; egy rövid, tempós séta segít fenntartani a vérkeringést a csípős téli hidegben a parkban.",
+                "ro": "Atenție la porțiunile înghețate de pe alei și echipamentele de joacă; o vizită scurtă și energică vă va menține circulația activă în frig.",
+                "en": "Watch out for icy spots on the paths and playground equipment; a short, brisk stay keeps your circulation going in the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "PAN Art Forum",
+                "hu": "PAN Art Forum",
+                "ro": "PAN Art Forum",
+                "en": "PAN Art Forum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht für die Kunstgalerien, bevor es um 17 Uhr dunkel wird; die moderne Architektur wirkt im Winterlicht besonders klar.",
+                "hu": "Használja ki a nappali fényt a galériákban, mielőtt 17 órakor besötétedik; a modern építészet a téli fényben különösen letisztultnak hat.",
+                "ro": "Profitați de lumina zilei pentru galeriile de artă înainte de a se întuneca la ora 17; arhitectura modernă pare deosebit de clară în lumina iernii.",
+                "en": "Make use of the daylight for the art galleries before it gets dark at 5 PM; the modern architecture looks particularly sharp in the winter light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját kortárs művészetettel a PAN Art Forumban, majd tekerjen el az érdekes Kávétechnikai Múzeumba. Délben élvezze a Rajna sétány hangulatát és csodálja meg az impozáns Rajna-hidat. Délután az út a zöldbe, az elegáns Borghees kúriához vezet. Zárja le ezt az aktív napot az Embricana élményfürdő medencéiben való kellemes ellazulással.",
         "ro": "Începeți turul cu bicicleta cu arta contemporană de la PAN Art Forum, apoi pedalați spre Muzeul Tehnicii Cafelei. La prânz, bucurați-vă de atmosfera de pe promenada Rinului și admirați impresionantul pod. După-amiaza, traseul vă poartă spre verdele conacului elegant Borghees. Încheiați această zi activă relaxându-vă complet la centrul acvatic și sportiv Embricana.",
         "en": "Kick off your cycling tour with contemporary art at the PAN Art Forum, then pedal over to the fascinating Coffee Technology Museum. Midday offers the lively vibe of the Rhine Promenade and views of the impressive Rhine Bridge. In the afternoon, ride out to the greenery surrounding the elegant Borghees Manor. Wind down your active day with a relaxing soak at the Embricana leisure pool."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am PAN Art Forum, um den ersten Regen im Trockenen zu verbringen. Die Fahrt zum Kaffeemuseum erfordert gute Regenkleidung. Nach einem kurzen Stopp an der Promenade bietet die Brücke eine windige, aber nasse Überquerung. Beenden Sie den Tag entspannt im Embricana, wo Sie die Nässe von draußen gegen warmes Badewasser tauschen können.",
+            "hu": "Kezdjen a PAN Art Forum-ban, hogy az első esőt szárazon vészelje át. A Kávétechnikai Múzeumig tartó úthoz jó esőruházat szükséges. A sétánynál tett rövid megálló után a híd szeles és vizes átkelést kínál. Zárja a napot az Embricana fürdőben, ahol a kinti nyirkosságot meleg vízre cserélheti.",
+            "ro": "Începeți la PAN Art Forum pentru a petrece prima ploaie la adăpost. Drumul spre Muzeul Cafelei necesită echipament de ploaie adecvat. După o scurtă oprire pe faleză, podul oferă o traversare vântoasă și umedă. Încheiați ziua relaxat la Embricana, schimbând umezeala de afară cu apa caldă.",
+            "en": "Start at the PAN Art Forum to spend the first rain indoors. The ride to the coffee museum requires good rain gear. After a short stop at the promenade, the bridge offers a windy but wet crossing. End the day relaxing at Embricana, where you can swap the dampness outside for warm bath water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "PAN Art Forum",
+                "hu": "PAN Art Forum",
+                "ro": "PAN Art Forum",
+                "en": "PAN Art Forum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Parken Ihres Rades und starten Sie die Tour mit einer trockenen Dosis Kultur im ehemaligen Fabrikgebäude.",
+                "hu": "Használja a fedett bejáratot kerékpárja leállításához, és kezdje a túrát egy száraz adag kultúrával az egykori gyárépület falai között.",
+                "ro": "Folosiți zona de intrare acoperită pentru a parca bicicleta și începeți turul cu o doză de cultură la adăpost în fosta clădire a fabricii.",
+                "en": "Use the covered entrance area to park your bike and start the tour with a dry dose of culture inside the former chocolate factory building."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kaffeetechnik",
+                "hu": "Kávétechnikai Múzeum",
+                "ro": "Muzeul Tehnicii Cafelei",
+                "en": "Museum für Kaffeetechnik"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher führt über befestigte Wege; im Museum können Sie sich aufwärmen und alles über die Röstkunst im Trockenen erfahren.",
+                "hu": "Az idevezető út burkolt szakaszokon halad; a múzeumban felmelegedhet, és mindent megtudhat a pörkölés művészetéről száraz, fedett helyen.",
+                "ro": "Drumul până aici urmează poteci pavate; în muzeu vă puteți încălzi și puteți afla totul despre arta prăjirii cafelei la adăpost de ploaie.",
+                "en": "The ride here follows paved paths; inside the museum you can warm up and learn everything about the art of roasting while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Rheinpromenade",
+                "hu": "Rajna sétány",
+                "ro": "Promenada Rinului",
+                "en": "Rhine Promenade"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Kopfsteinpflaster; nutzen Sie die kurzen Regenpausen für ein schnelles Foto vom grauen, imposanten Fluss.",
+                "hu": "Vezessen óvatosan a vizes macskakövön; használja ki a rövid esőszüneteket egy gyors fotóra a szürke, impozáns folyóról a sétányon.",
+                "ro": "Conduceți cu atenție pe pavajul umed; profitați de scurtele pauze de ploaie pentru o fotografie rapidă cu râul gri și impunător de pe faleză.",
+                "en": "Ride carefully on the wet cobblestones; take advantage of short breaks in the rain for a quick photo of the gray, imposing river."
+              }
+            },
+            {
+              "name": {
+                "de": "Emmericher Rheinbrücke",
+                "hu": "Emmerichi Rajna-híd",
+                "ro": "Podul Emmerich",
+                "en": "Emmerich Rhine Bridge"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Lenker bei Seitenwind auf der Brücke gut fest und achten Sie auf Pfützen; die Überfahrt bietet trotz Regen ein tolles Panorama.",
+                "hu": "Fogja erősen a kormányt az oldalszélben a hídon, és ügyeljen a tócsákra; az átkelés az eső ellenére is remek panorámát kínál a Rajnára.",
+                "ro": "Țineți bine ghidonul în vânt lateral pe pod și atenție la bălți; traversarea oferă o panoramă grozavă asupra Rinului chiar și pe ploaie.",
+                "en": "Hold the handlebars firmly in crosswinds on the bridge and watch out for puddles; the crossing offers a great panorama despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Herrenhaus Borghees",
+                "hu": "Borghees kúria",
+                "ro": "Conacul Borghees",
+                "en": "Borghees Manor"
+              },
+              "tip_5lang": {
+                "de": "Die Alleen hier sind bei Regen besonders mystisch; stellen Sie Ihr Rad unter und besichtigen Sie das historische Gebäude von innen.",
+                "hu": "Az idevezető fasorok esőben különösen misztikusak; támassza le a biciklit fedett helyre, és nézze meg a történelmi épületet belülről is.",
+                "ro": "Aleile de aici sunt deosebit de mistice pe ploaie; parcați bicicleta la adăpost și vizitați clădirea istorică în interior.",
+                "en": "The avenues here are particularly mystical in the rain; park your bike under cover and visit the historic building from the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Embricana Freizeit- und Sportbad",
+                "hu": "Embricana élményfürdő",
+                "ro": "Centrul acvatic Embricana",
+                "en": "Embricana Freizeit- und Sportbad"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Endpunkt: Schließen Sie Ihr Rad sicher ab und wärmen Sie sich in der Saunalandschaft auf, um die Regenradtour entspannt zu beenden.",
+                "hu": "Tökéletes végállomás: zárja le biztonságosan a biciklit, és melegedjen fel a szaunavilágban, hogy az esős túrát pihentetően zárja le.",
+                "ro": "Punctul final perfect: încuiați bicicleta în siguranță și încălziți-vă în zona de saună pentru a încheia relaxat turul pe ploaie.",
+                "en": "The perfect endpoint: lock your bike securely and warm up in the sauna area to finish your rainy bike tour in total relaxation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am PAN Art Forum und genießen Sie die Kunst im Warmen. Die Radfahrt zum Kaffeemuseum führt durch die klare Winterluft, also nutzen Sie Handschuhe. Nach einem Abstecher zur windigen Brücke bietet das Herrenhaus Borghees eine willkommene Pause. Da es um 17 Uhr dunkel wird, beenden Sie die Tour im Embricana, um die Kälte aus den Knochen zu vertreiben.",
+            "hu": "Kezdjen a PAN Art Forum-ban, és élvezze a művészetet a melegben. A Kávétechnikai Múzeumig tartó tekerés friss téli levegőn vezet, használjon kesztyűt. A szeles híd után a Borghees kúria nyújt pihenőt. Mivel 17 órakor sötétedik, zárja a napot az Embricana fürdőben, hogy kiűzze a hideget a csontjaiból.",
+            "ro": "Începeți la PAN Art Forum și bucurați-vă de artă la căldură. Drumul spre Muzeul Cafelei trece prin aerul curat de iarnă, deci folosiți mănuși. După podul vântos, conacul Borghees oferă o pauză binevenită. Deoarece se întunecă la ora 17, încheiați turul la Embricana pentru a alunga frigul.",
+            "en": "Start at the PAN Art Forum and enjoy art in the warmth. The ride to the coffee museum takes you through crisp winter air, so wear gloves. After the windy bridge, Borghees Manor offers a welcome break. Since it gets dark at 5 PM, finish the tour at Embricana to drive the cold out of your bones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "PAN Art Forum",
+                "hu": "PAN Art Forum",
+                "ro": "PAN Art Forum",
+                "en": "PAN Art Forum"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie gemütlich im Innenraum, um sich auf Betriebstemperatur zu bringen; das Museum bietet Schutz vor dem kalten Morgenwind am Niederrhein.",
+                "hu": "Kezdje kényelmesen a beltérben, hogy üzemi hőmérsékletre kerüljön; a múzeum védelmet nyújt a Rajna-vidéki hideg reggeli szél ellen.",
+                "ro": "Începeți confortabil în interior pentru a vă încălzi; muzeul oferă protecție împotriva vântului rece de dimineață de pe malul Rinului.",
+                "en": "Start comfortably indoors to get up to operating temperature; the museum provides protection from the cold morning wind of the Lower Rhine."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kaffeetechnik",
+                "hu": "Kávétechnikai Múzeum",
+                "ro": "Muzeul Tehnicii Cafelei",
+                "en": "Museum für Kaffeetechnik"
+              },
+              "tip_5lang": {
+                "de": "Der Duft von Kaffee und die wohlige Wärme im Inneren machen diesen Stopp im Winter unverzichtbar; ideal, um die Hände vor der Weiterfahrt aufzuwärmen.",
+                "hu": "A kávé illata és a benti kellemes meleg télen nélkülözhetetlenné teszi ezt a megállót; ideális a kezek felmelegítésére a továbbhaladás előtt.",
+                "ro": "Mirosul de cafea și căldura plăcută din interior fac această oprire indispensabilă iarna; ideal pentru a vă încălzi mâinile înainte de drum.",
+                "en": "The smell of coffee and the cozy warmth inside make this stop indispensable in winter; ideal for warming up your hands before riding on."
+              }
+            },
+            {
+              "name": {
+                "de": "Rheinpromenade",
+                "hu": "Rajna sétány",
+                "ro": "Promenada Rinului",
+                "en": "Rhine Promenade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Fluss, aber bleiben Sie in Bewegung, um warm zu bleiben; achten Sie auf eventuelle Glätte auf den Radwegen.",
+                "hu": "Élvezze a tágas kilátást a folyóra, de maradjon mozgásban, hogy melegen tartsa magát; ügyeljen az esetleges jegesedésre a kerékpárutakon.",
+                "ro": "Bucurați-vă de vederea amplă asupra râului, dar rămâneți în mișcare pentru a vă menține căldura; atenție la gheața de pe pistele de biciclete.",
+                "en": "Enjoy the wide view of the river, but keep moving to stay warm; watch out for possible ice on the bike paths along the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Emmericher Rheinbrücke",
+                "hu": "Emmerichi Rajna-híd",
+                "ro": "Podul Emmerich",
+                "en": "Emmerich Rhine Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brückenüberfahrt kann im Winter sehr zugig sein; ziehen Sie die Kapuze unter den Helm, um Ohren und Kopf vor dem Wind zu schützen.",
+                "hu": "A hídon való átkelés télen nagyon huzatos lehet; húzzon kapucnit a sisak alá, hogy védje a fülét és a fejét a metsző széltől.",
+                "ro": "Traversarea podului poate fi foarte vântoasă iarna; puneți gluga sub cască pentru a vă proteja urechile și capul de vântul rece.",
+                "en": "The bridge crossing can be very draughty in winter; pull your hood under your helmet to protect your ears and head from the sharp wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Herrenhaus Borghees",
+                "hu": "Borghees kúria",
+                "ro": "Conacul Borghees",
+                "en": "Borghees Manor"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume der Allee haben einen besonderen Reiz; wärmen Sie sich kurz im Vorraum auf, bevor Sie die letzte Etappe der Tour antreten.",
+                "hu": "A fasor csupasz fái különleges vonzerővel bírnak; melegedjen fel egy kicsit az előtérben, mielőtt megkezdené a túra utolsó szakaszát.",
+                "ro": "Copacii golași ai aleii au un farmec aparte; încălziți-vă puțin în hol înainte de a începe ultima etapă a turului de iarnă.",
+                "en": "The bare trees of the avenue have a special charm; warm up briefly in the foyer before starting the final leg of your winter bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Embricana Freizeit- und Sportbad",
+                "hu": "Embricana élményfürdő",
+                "ro": "Centrul acvatic Embricana",
+                "en": "Embricana Freizeit- und Sportbad"
+              },
+              "tip_5lang": {
+                "de": "Das Thermalbecken ist der Höhepunkt nach einer kalten Fahrt; planen Sie genug Zeit ein, um die Kälte vor dem Heimweg komplett loszuwerden.",
+                "hu": "A termálmedence a fénypont egy hideg tekerés után; tervezzen elég időt, hogy teljesen kiűzze a hideget, mielőtt hazaindulna a sötétben.",
+                "ro": "Piscina termală este punctul culminant după un drum rece; planificați suficient timp pentru a scăpa complet de frig înainte de plecare.",
+                "en": "The thermal pool is the highlight after a cold ride; plan enough time to get rid of the cold completely before heading home in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje a reggelt egy békés sétával az Emmericher Ward természeti szépségei között, majd látogasson el az elegáns Borghees kúriához. Dél körül tekintse meg a történelmi Szent Aldegundis-templomot Emmerich központjában. Délután a Kávétechnikai Múzeum kínál izgalmas betekintést a pörkölésbe. Végül a Dornicksche Ward nyújt csodálatos kora esti természetközeli élményeket.",
         "ro": "Începeți dimineața cu o plimbare prin natura din Emmericher Ward, urmată de o vizită la elegantul conac Borghees. În jurul prânzului, explorați biserica istorică St. Aldegundis din centrul orașului. După-amiaza, Muzeul Tehnicii Cafelei vă așteaptă cu informații fascinante. La final, rezervația naturală Dornicksche Ward oferă o experiență perfectă în natură pentru începutul serii.",
         "en": "Begin your morning with a tranquil walk through the natural beauty of the Emmericher Ward, followed by a visit to the elegant Borghees Manor. Around midday, explore the historic St. Aldegundis Church in the center of Emmerich. In the afternoon, the Coffee Technology Museum offers exciting insights. Finally, the Dornicksche Ward provides a wonderful nature experience for the early evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um die weitläufigen Naturgebiete wie das Emmericher Ward auch bei Regen bequem zu betrachten. Mittags bietet das Kaffeemuseum ein warmes und trockenes Ziel. Besuchen Sie die St. Aldegundis Kirche für einen Moment der Ruhe im Trockenen. Beenden Sie den Tag im Dornicksche Ward, wo Sie die mystische Regenstimmung über dem Rhein direkt vom Parkplatz aus genießen können.",
+            "hu": "Használja az autót, hogy a tágas természeti területeket, mint az Emmericher Ward, esőben is kényelmesen megcsodálhassa. Délben a Kávétechnikai Múzeum meleg és száraz célpontot kínál. Látogasson el a Szent Aldegundis-templomba egy csendes, száraz pillanatra. A napot a Dornicksche Ward-nál zárja, ahol a Rajna feletti misztikus esős hangulatot közvetlenül a parkolóból élvezheti.",
+            "ro": "Folosiți mașina pentru a admira zonele naturale vaste, cum ar fi Emmericher Ward, confortabil chiar și pe ploaie. La prânz, Muzeul Cafelei oferă o destinație caldă și uscată. Vizitați Biserica Sf. Aldegundis pentru un moment de liniște la adăpost. Încheiați ziua la Dornicksche Ward, savurând atmosfera mistică de ploaie direct din parcare.",
+            "en": "Use the car to comfortably view the vast natural areas like Emmericher Ward even in the rain. At noon, the coffee museum offers a warm and dry destination. Visit St. Aldegundis Church for a moment of peace in the dry. End the day at Dornicksche Ward, where you can enjoy the mystical rainy mood over the Rhine directly from the parking lot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Emmericher Ward",
+                "hu": "Emmericher Ward",
+                "ro": "Emmericher Ward",
+                "en": "Emmericher Ward"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Auenlandschaft aus dem Auto heraus; bei kurzen Regenpausen lohnt sich ein kurzer Gang zum Uferdamm mit Gummistiefeln.",
+                "hu": "Élvezze az ártéri táj látványát az autóból; a rövid esőszünetekben érdemes gumicsizmában egy rövid sétát tenni a folyóparti gátig.",
+                "ro": "Bucurați-vă de priveliștea luncii din mașină; în scurtele pauze de ploaie, merită o scurtă plimbare până la dig cu cizme de cauciuc.",
+                "en": "Enjoy the view of the floodplain landscape from the car; during short breaks in the rain, a quick walk to the embankment with rain boots is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Herrenhaus Borghees",
+                "hu": "Borghees kúria",
+                "ro": "Conacul Borghees",
+                "en": "Borghees Manor"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Gelände und flüchten Sie schnell ins Innere des historischen Gebäudes, um die Kunstausstellungen ohne nasse Füße zu bewundern.",
+                "hu": "Parkoljon közvetlenül a területen, és meneküljön be gyorsan a történelmi épületbe, hogy vizes lábak nélkül csodálhassa meg a művészeti kiállításokat.",
+                "ro": "Parcați direct în incintă și intrați rapid în clădirea istorică pentru a admira expozițiile de artă fără a vă uda la picioare.",
+                "en": "Park directly on the grounds and quickly take cover inside the historic building to admire the art exhibitions without getting wet feet."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Aldegundis Kirche",
+                "hu": "Szent Aldegundis-templom",
+                "ro": "Biserica St. Aldegundis",
+                "en": "St. Aldegundis Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz führt Sie in die stille, trockene Kirche; ideal, um dem stärksten Regen des Tages in sakraler Ruhe zu entkommen.",
+                "hu": "A parkolóból egy rövid sprinttel a csendes, száraz templomba juthat; ideális hely, hogy a nap leghevesebb esője elől szakrális nyugalomba meneküljön.",
+                "ro": "Un sprint scurt din parcare vă duce în biserica liniștită și uscată; locul ideal pentru a scăpa de cea mai puternică ploaie în liniște sacră.",
+                "en": "A short sprint from the parking lot takes you into the silent, dry church; ideal for escaping the heaviest rain of the day in sacred peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kaffeetechnik",
+                "hu": "Kávétechnikai Múzeum",
+                "ro": "Muzeul Tehnicii Cafelei",
+                "en": "Museum für Kaffeetechnik"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als langes Trocken-Programm; nach der Besichtigung können Sie sich im Auto aufwärmen, bevor es weiter zur Natur geht.",
+                "hu": "Használja a múzeumot hosszú, fedett programként; a látogatás után az autóban melegedhet fel, mielőtt továbbindulna a természeti látnivalók felé.",
+                "ro": "Folosiți muzeul ca un program prelungit la adăpost; după vizită, vă puteți încălzi în mașină înainte de a continua spre zonele naturale.",
+                "en": "Use the museum as a long dry-weather activity; after the visit, you can warm up in the car before continuing to the next natural site."
+              }
+            },
+            {
+              "name": {
+                "de": "Dornicksche Ward",
+                "hu": "Dornicksche Ward",
+                "ro": "Dornicksche Ward",
+                "en": "Dornicksche Ward"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz am Deich haben Sie auch bei Regen einen tollen Blick; achten Sie auf die Vögel, die im grauen Wetter besonders aktiv wirken können.",
+                "hu": "A gát melletti parkolóból esőben is remek kilátás nyílik; figyelje a madarakat, amelyek a szürke időben gyakran különösen aktívnak tűnhetnek.",
+                "ro": "Din parcarea de lângă dig aveți o priveliște excelentă chiar și pe ploaie; observați păsările care pot părea deosebit de active pe vreme gri.",
+                "en": "From the parking lot by the dike, you have a great view even in the rain; watch the birds, which can appear particularly active in the gray weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am frostigen Emmericher Ward und genießen Sie die klare Sicht aus dem geheizten Auto. Mittags bietet das Herrenhaus Borghees eine kulturelle Pause im Warmen. Nach einem Besuch in der St. Aldegundis Kirche wärmt Sie das Kaffeemuseum auf. Da die Dunkelheit gegen 17:00 Uhr einbricht, beenden Sie den Tag im Dornicksche Ward bei einem stimmungsvollen Winter-Sonnenuntergang.",
+            "hu": "Kezdjen a fagyos Emmericher Ward-nál, és élvezze a tiszta kilátást a fűtött autóból. Délben a Borghees kúria kínál kulturális pihenőt a melegben. A Szent Aldegundis-templom után a Kávétechnikai Múzeum melegíti fel. Mivel 17:00 körül sötétedik, a napot a Dornicksche Ward-nál zárja egy hangulatos téli naplementével.",
+            "ro": "Începeți la Emmericher Ward și bucurați-vă de vizibilitatea clară din mașina încălzită. La prânz, conacul Borghees oferă o pauză culturală la căldură. După Biserica Sf. Aldegundis, Muzeul Cafelei vă va încălzi. Deoarece întunericul se lasă în jur de ora 17, încheiați ziua la Dornicksche Ward cu un apus de iarnă.",
+            "en": "Start at the frosty Emmericher Ward and enjoy the clear view from your heated car. At noon, Borghees Manor offers a cultural break in the warmth. After visiting St. Aldegundis Church, the coffee museum will warm you up. Since darkness falls around 5:00 PM, end the day at Dornicksche Ward with an atmospheric winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Emmericher Ward",
+                "hu": "Emmericher Ward",
+                "ro": "Emmericher Ward",
+                "en": "Emmericher Ward"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie arktische Wildgänse, die hier überwintern, bequem mit dem Fernglas aus dem Auto; die weite, frostige Landschaft ist im Winter sehr beeindruckend.",
+                "hu": "Figyelje meg az itt telelő sarki vadludakat kényelmesen, távcsővel az autóból; a tágas, fagyos táj télen rendkívül lenyűgöző látványt nyújt.",
+                "ro": "Observați gâștele sălbatice arctice care iernează aici, confortabil cu binoclul din mașină; peisajul vast și înghețat este impresionant iarna.",
+                "en": "Observe arctic wild geese wintering here comfortably with binoculars from the car; the wide, frosty landscape is very impressive in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Herrenhaus Borghees",
+                "hu": "Borghees kúria",
+                "ro": "Conacul Borghees",
+                "en": "Borghees Manor"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der winterlichen Kälte draußen und der gemütlichen Atmosphäre im Inneren; achten Sie auf vereiste Wege im Parkgelände.",
+                "hu": "Élvezze a kinti téli hideg és a benti otthonos hangulat közötti kontrasztot; ügyeljen a jeges utakra a kúria parkjának területén a séta során.",
+                "ro": "Bucurați-vă de contrastul dintre frigul iernii de afară și atmosfera primitoare din interior; atenție la aleile înghețate din zona parcului.",
+                "en": "Enjoy the contrast between the winter cold outside and the cozy atmosphere inside; watch out for icy paths in the park grounds during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Aldegundis Kirche",
+                "hu": "Szent Aldegundis-templom",
+                "ro": "Biserica St. Aldegundis",
+                "en": "St. Aldegundis Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte ab; nutzen Sie die ruhige Atmosphäre für eine kurze Besinnung, bevor Sie die Fahrt durch das Winterwunderland fortsetzen.",
+                "hu": "A vastag falak távol tartják a hideget; használja ki a nyugodt légkört egy rövid elcsendesedésre, mielőtt folytatná útját a téli tájon keresztül.",
+                "ro": "Zidurile groase țin frigul la distanță; profitați de atmosfera liniștită pentru o scurtă meditație înainte de a continua drumul prin peisajul de iarnă.",
+                "en": "The thick walls keep the cold at bay; use the quiet atmosphere for a brief reflection before continuing your drive through the winter wonderland."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kaffeetechnik",
+                "hu": "Kávétechnikai Múzeum",
+                "ro": "Muzeul Tehnicii Cafelei",
+                "en": "Museum für Kaffeetechnik"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich von der Wärme im Museum und dem Aroma frisch gerösteter Bohnen aufheizen; ein perfekter Zufluchtsort an kalten Januartagen.",
+                "hu": "Hagyja, hogy felmelegítse a múzeum melege és a frissen pörkölt kávébab aromája; tökéletes menedék a hideg januári napokon az egész családnak.",
+                "ro": "Lăsați-vă încălziți de căldura din muzeu și de aroma boabelor proaspăt prăjite; un refugiu perfect în zilele reci de iarnă din Emmerich.",
+                "en": "Let the warmth in the museum and the aroma of freshly roasted beans heat you up; a perfect sanctuary on cold January days for coffee lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Dornicksche Ward",
+                "hu": "Dornicksche Ward",
+                "ro": "Dornicksche Ward",
+                "en": "Dornicksche Ward"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 17 Uhr direkt über dem Rhein; das weiche Winterlicht bietet fantastische Fotomotive direkt vom Auto aus.",
+                "hu": "Élje át a korai naplementét 17 óra körül közvetlenül a Rajna felett; a lágy téli fény fantasztikus fotótémákat kínál közvetlenül az autóból.",
+                "ro": "Experimentați apusul devreme, în jur de ora 17, direct peste Rin; lumina caldă a iernii oferă motive foto fantastice direct din mașină.",
+                "en": "Experience the early sunset around 5 PM directly over the Rhine; the soft winter light offers fantastic photo opportunities directly from your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

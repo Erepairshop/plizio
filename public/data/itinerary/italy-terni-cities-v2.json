@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Terni szívében, merüljön el a vallási művészetben a Museo diocesanóban és a Pinacotecában. Délben sétáljon végig a történelmi utcákon a lenyűgöző Cupola felé, és gyönyörködjön a város építészeti örökségében. A délutánt töltse a tipográfia lenyűgöző világának felfedezésével a Tipocinetben. A napot az Antonio Bosco mellszobor közelében zárja, élvezve az élénk esti hangulatot, amikor a helyiek megkezdik a sétát.",
         "ro": "Începeți dimineața în inima orașului Terni, cufundându-vă în istoria bogată la Museo diocesano și la Pinacoteca comunale. La prânz, plimbați-vă pe străzile istorice spre impresionanta Cupolă, admirând patrimoniul arhitectural. Petreceți după-amiaza descoperind lumea fascinantă a tipografiei la Tipocinet, o adevărată bijuterie culturală. Încheiați turul pietonal lângă Bustul lui Antonio Bosco, bucurându-vă de atmosfera plină de viață a serii.",
         "en": "Begin your morning in the heart of Terni, immersing yourself in the rich history and religious art at the Museo diocesano and the Pinacoteca comunale. At midday, wander through the historic streets towards the impressive Cupola, soaking in the architectural heritage of the city. Spend your afternoon discovering the fascinating world of typography at Tipocinet, an unexpected cultural gem. Conclude your walking tour near the Busto di Antonio Bosco, enjoying the lively evening atmosphere as locals start their daily passeggiata."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in Terni geschützt in den Museen, wo die Kunst Sie vor dem Regen bewahrt. Mittags navigieren Sie mit dem Regenschirm durch die glänzenden Gassen zwischen den Galerien. Am Nachmittag bieten kulturelle Räume wie das Tipocinet trockene Zuflucht. Abends endet der Spaziergang zügig, bevor die Pfützen zu tief werden, in einer gemütlichen Ecke.",
+            "hu": "Kezdje az esős napot Terniben a múzeumok védelmében, ahol a művészet szárazon tartja. Délben ernyővel lavírozzon a csillogó utcákon a galériák között. Délután az olyan kulturális terek, mint a Tipocinet, tökéletes menedéket nyújtanak a zápor elől. Este fejezze be gyorsan a sétát, mielőtt a tócsák elmélyülnének, és keressen egy közeli meleg helyet.",
+            "ro": "Începeți ziua ploioasă în Terni la adăpostul muzeelor, unde arta vă ferește de umezeală. La prânz, navigați cu umbrela pe străzile strălucitoare între galerii. După-amiaza, spațiile culturale precum Tipocinet oferă un refugiu uscat în fața ploii. Seara, încheiați plimbarea rapid înainte ca bălțile să devină prea mari și retrageți-vă într-un loc primitor.",
+            "en": "Start your rainy day in Terni sheltered within museums, where art keeps you dry from the morning drizzle. At noon, navigate the glistening streets with an umbrella between the galleries. In the afternoon, cultural spaces like Tipocinet offer a dry sanctuary from the showers. By evening, wrap up your walk quickly before the puddles deepen and find a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo diocesano",
+                "hu": "Museo diocesano",
+                "ro": "Museo diocesano",
+                "en": "Museo diocesano"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den verregneten Morgen in diesem Museum; lassen Sie Ihren Schirm im Foyer, um die religiösen Kunstwerke entspannt und ohne Nässe zu bewundern.",
+                "hu": "Kezdje az esős reggelt ebben a múzeumban; hagyja az ernyőt az előtérben, hogy a vallási műalkotásokat kényelmesen és szárazon nézhesse végig.",
+                "ro": "Începeți dimineața ploioasă în acest muzeu; lăsați umbrela în hol pentru a admira operele de artă religioasă într-un mod confortabil și fără umezeală.",
+                "en": "Start your rainy morning inside this museum; leave your umbrella in the lobby to admire the religious artworks comfortably and without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinacoteca comunale o.metelli e museo a.De felice",
+                "hu": "Pinacoteca comunale o.metelli e museo a.De felice",
+                "ro": "Pinacoteca comunale o.metelli e museo a.De felice",
+                "en": "Pinacoteca comunale o.metelli e museo a.De felice"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen großen Innenraum als Zufluchtsort vor dem Mittagregen; die moderne Kunstgalerie bietet viel Platz, um sich trocken die Zeit zu vertreiben.",
+                "hu": "Használja ezt a tágas belső teret menedékként a déli eső elől; a modern galéria rengeteg helyet kínál a nézelődéshez, amíg odakint esik.",
+                "ro": "Folosiți acest spațiu interior generos ca refugiu împotriva ploii de la prânz; galeria modernă oferă mult loc pentru explorare în timp ce sunteți protejat.",
+                "en": "Use this spacious interior as a sanctuary from the midday rain; the modern gallery offers plenty of room to explore while staying perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Cupola",
+                "hu": "Cupola",
+                "ro": "Cupola",
+                "en": "Cupola"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Kuppel kann bei Nässe rutschig sein; tragen Sie Schuhe mit gutem Profil und nutzen Sie die kurzen überdachten Abschnitte in der Nähe.",
+                "hu": "A kupolához vezető út esőben csúszós lehet; viseljen tapadós talpú cipőt, és használja ki a közelben lévő rövid fedett szakaszokat a pihenéshez.",
+                "ro": "Drumul spre cupolă poate fi alunecos când plouă; purtați încălțăminte cu aderență bună și profitați de secțiunile acoperite din apropiere pentru pauze.",
+                "en": "The path to the dome can be slippery when wet; wear shoes with good grip and take advantage of the short covered sections nearby for brief shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Tipocinet",
+                "hu": "Tipocinet",
+                "ro": "Tipocinet",
+                "en": "Tipocinet"
+              },
+              "tip_5lang": {
+                "de": "Dieser kulturelle Ort ist perfekt für einen regnerischen Nachmittag; genießen Sie die Atmosphäre im Inneren und schütteln Sie Ihren Mantel vor dem Eintreten gut ab.",
+                "hu": "Ez a kulturális helyszín tökéletes egy esős délutánra; élvezze a benti hangulatot, és alaposan rázza le a kabátját, mielőtt belépne a terembe.",
+                "ro": "Acest spațiu cultural este perfect pentru o după-amiază ploioasă; bucurați-vă de atmosfera interioară și scuturați-vă bine haina înainte de a intra.",
+                "en": "This cultural venue is perfect for a rainy afternoon; enjoy the indoor atmosphere and give your coat a good shake before stepping inside the hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Busto di Antonio Bosco",
+                "hu": "Busto di Antonio Bosco",
+                "ro": "Busto di Antonio Bosco",
+                "en": "Busto di Antonio Bosco"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Freien reicht hier aus; halten Sie den Schirm fest, da es an dieser Ecke bei Regen oft windig ist, und machen Sie ein schnelles Foto.",
+                "hu": "Egy rövid szabadtéri megálló itt bőven elég; fogja erősen az ernyőjét, mert ennél a saroknál esőben gyakran fúj a szél a szobor körül.",
+                "ro": "O oprire scurtă în aer liber este suficientă aici; țineți umbrela bine, deoarece în acest colț vântul bate adesea puternic atunci când plouă.",
+                "en": "A short outdoor stop is plenty here; hold your umbrella firmly as this corner often gets windy during rain while you view the bust."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Terni am Wintermorgen bei klarer Luft und wärmen Sie sich in den Museen auf. Mittags bieten die beheizten Galerien einen komfortablen Aufenthalt. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenstopps am Nachmittag vorziehen. Den Abend verbringen Sie am besten in den beleuchteten Gassen des Zentrums bei einem heißen Getränk.",
+            "hu": "Tapasztalja meg Ternit a téli reggel friss levegőjén, majd melegedjen fel a múzeumokban. Délben a fűtött galériák nyújtanak kényelmes pihenőt. Mivel a nap 17:00 körül lebukik, a délutáni szabadtéri megállókat hozza előrébb. Az estét töltse a központ kivilágított utcáin egy forró ital társaságában.",
+            "ro": "Experimentați Terni în aerul proaspăt al dimineții de iarnă, apoi încălziți-vă în muzee. La prânz, galeriile încălzite oferă un popas confortabil. Deoarece soarele apune în jur de ora 17:00, prioritizați opririle exterioare. Seara, plimbați-vă pe străzile luminate ale centrului cu o băutură caldă.",
+            "en": "Experience Terni in the crisp winter morning air, then warm up inside the museums. At noon, the heated galleries provide a comfortable break from the chill. Since the sun sets around 17:00, prioritize your afternoon outdoor stops. Spend the evening in the illuminated city center streets with a warm beverage."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo diocesano",
+                "hu": "Museo diocesano",
+                "ro": "Museo diocesano",
+                "en": "Museo diocesano"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern des Museums halten die Winterkälte draußen; nutzen Sie die Garderobe für Ihren schweren Mantel, um die Exponate entspannt zu betrachten.",
+                "hu": "A múzeum vastag falai távol tartják a téli hideget; használja a ruhatárat a nehéz kabátjához, hogy kényelmesen nézhesse végig a kiállítást.",
+                "ro": "Zidurile groase ale muzeului țin frigul de iarnă la distanță; folosiți garderoba pentru haina groasă pentru a vedea expoziția în confort.",
+                "en": "The museum's thick walls keep the winter chill out; use the cloakroom for your heavy coat so you can view the exhibits in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinacoteca comunale o.metelli e museo a.De felice",
+                "hu": "Pinacoteca comunale o.metelli e museo a.De felice",
+                "ro": "Pinacoteca comunale o.metelli e museo a.De felice",
+                "en": "Pinacoteca comunale o.metelli e museo a.De felice"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich mittags aufzuwärmen; die Räume sind gut beheizt, was den Aufenthalt zwischen den modernen Kunstwerken im Winter sehr angenehm macht.",
+                "hu": "Ideális hely a déli felmelegedéshez; a termek jól fűtöttek, ami télen kifejezetten kellemessé teszi a modern műalkotások közötti nézelődést.",
+                "ro": "Un loc ideal pentru a vă încălzi la prânz; sălile sunt bine încălzite, ceea ce face vizionarea operelor de artă modernă foarte plăcută iarna.",
+                "en": "An ideal place to warm up at noon; the rooms are well-heated, making browsing the modern artworks very pleasant during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Cupola",
+                "hu": "Cupola",
+                "ro": "Cupola",
+                "en": "Cupola"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kuppel am frühen Nachmittag, wenn die tiefstehende Wintersonne das Bauwerk in ein besonders schönes, warmes Licht taucht.",
+                "hu": "Látogassa meg a kupolát kora délután, amikor az alacsonyan járó téli nap különösen szép, meleg fénybe öltözteti az építményt.",
+                "ro": "Vizitați cupola la începutul după-amiezii, când soarele palid de iarnă îmbracă structura într-o lumină caldă și deosebit de frumoasă.",
+                "en": "Visit the dome in the early afternoon when the low winter sun casts a particularly beautiful, warm light over the structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Tipocinet",
+                "hu": "Tipocinet",
+                "ro": "Tipocinet",
+                "en": "Tipocinet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie diesen kulturellen Stopp, bevor es draußen dunkel wird; im Winter ist das gedämpfte Licht im Inneren besonders gemütlich und einladend.",
+                "hu": "Élvezze ezt a kulturális megállót, mielőtt odakint besötétedik; télen a benti visszafogott fények különösen otthonosak és hívogatóak.",
+                "ro": "Bucurați-vă de această oprire culturală înainte de a se întuneca; iarna, luminile discrete din interior sunt deosebit de primitoare și calde.",
+                "en": "Enjoy this cultural stop before it gets dark outside; in winter, the subdued indoor lighting is particularly cozy and inviting."
+              }
+            },
+            {
+              "name": {
+                "de": "Busto di Antonio Bosco",
+                "hu": "Busto di Antonio Bosco",
+                "ro": "Busto di Antonio Bosco",
+                "en": "Busto di Antonio Bosco"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh untergeht, wirkt die Statue im Abendlicht dramatisch; ziehen Sie sich warm an, da der Wind hier im Winter schneidend sein kann.",
+                "hu": "Mivel korán megy le a nap, a szobor drámai látványt nyújt az esti fényben; öltözzön rétegesen, mert a szél itt télen metsző lehet.",
+                "ro": "Deoarece soarele apune devreme, statuia oferă o vedere dramatică în lumina serii; îmbrăcați-vă bine, deoarece vântul poate fi tăios aici iarna.",
+                "en": "Since the sun sets early, the statue looks dramatic in the evening light; dress in layers as the wind can be biting here in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A kerékpártúra a híres Szent Bálint-bazilika romantikus és történelmi meglátogatásával kezdődik, a központtól nem messze. Délben a Quartiere Matteotti építészeti csodájához teker, majd a Modern Művészeti Múzeum következik. A délután a GC2 kortárs kiállításaihoz vezet, bepillantást engedve Terni élénk kultúrájába. Estefelé tegyen egy kényelmes utat a CLT rekreációs területére, amely tökéletes zöld oázis a nap lezárásához.",
         "ro": "Călătoria pe bicicletă începe cu o vizită istorică la celebra Basilică San Valentino, chiar lângă centrul principal. La prânz, veți pedala spre minunea arhitecturală Quartiere Matteotti, urmată de Muzeul de Artă Modernă. După-amiaza vă aduce la expozițiile creative de la GC2, oferind o privire asupra culturii contemporane din Terni. Pe măsură ce se lasă seara, bucurați-vă de o plimbare relaxantă spre zona de recreere CLT, oaza verde perfectă.",
         "en": "Your cycling journey starts with a romantic and historical visit to the famous Basilica of San Valentino just outside the main center. By midday, you will pedal into the architectural marvel of Quartiere Matteotti, followed by an inspiring visit to the Museum of Modern Art. The afternoon brings you to the cutting-edge creative exhibits at GC2, offering a glimpse into Terni's vibrant contemporary culture. As the evening sets in, enjoy a leisurely ride to the CLT recreational grounds, the perfect green oasis to unwind and reflect on the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Ternis Straßen. Morgens besuchen Sie die Basilika und nutzen die Zeit für eine trockene Besichtigung. Mittags radeln Sie vorsichtig zu den Museen, wo Sie sich aufwärmen können. Der Nachmittag gehört den überdachten Industriekultur-Stätten. Beenden Sie die Tour am Abend, wenn die Sicht schlechter wird, und sichern Sie Ihr Rad an einem trockenen Ort.",
+            "hu": "Az esős biciklizés óvatosságot igényel Terni utcáin. Reggel látogassa meg a bazilikát, kihasználva az időt egy száraz nézelődésre. Délben tekerjen óvatosan a múzeumok felé, ahol felmelegedhet. A délután az ipari örökség fedett helyszíneié. Este, ahogy a látási viszonyok romlanak, fejezze be a túrát, és tegye el a bringát száraz helyre.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile din Terni. Dimineața, vizitați basilica și profitați de timpul petrecut la interior. La prânz, pedalați cu grijă spre muzee pentru a vă încălzi. După-amiaza aparține siturilor industriale acoperite. Seara, pe măsură ce vizibilitatea scade, încheiați turul și parcați bicicleta la uscat.",
+            "en": "Cycling in the rain requires caution on Terni's streets. In the morning, visit the basilica and enjoy the dry interior. At noon, pedal carefully toward the museums where you can warm up and dry off. The afternoon is dedicated to covered industrial heritage sites. Finish your tour as visibility drops in the evening and secure your bike in a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica di San Valentino",
+                "hu": "Basilica di San Valentino",
+                "ro": "Basilica di San Valentino",
+                "en": "Basilica di San Valentino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenkleidung zu ordnen, bevor Sie die spirituelle Stille im trockenen Inneren genießen.",
+                "hu": "Használja a fedett bejárati részt az esővédő ruházat igazítására, mielőtt belépne a száraz belső térbe élvezni a spirituális csendet.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a vă aranja pelerina de ploaie înainte de a vă bucura de liniștea spirituală din interior.",
+                "en": "Use the covered entrance area to adjust your rain gear before stepping into the dry interior to enjoy the spiritual silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Quartiere Matteotti - Arch Giancarlo De Carlo",
+                "hu": "Quartiere Matteotti - Arch Giancarlo De Carlo",
+                "ro": "Quartiere Matteotti - Arch Giancarlo De Carlo",
+                "en": "Quartiere Matteotti - Arch Giancarlo De Carlo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Radfahren durch dieses Viertel auf nasse Fahrbahnmarkierungen; die Architektur lässt sich auch gut unter einem Vordach stehend bewundern.",
+                "hu": "A negyedben való biciklizéskor ügyeljen a nedves útburkolati jelekre; az építészet egy eresz alól szemlélve is lenyűgöző látványt nyújt.",
+                "ro": "Aveți grijă la marcajele rutiere umede când pedalați prin acest cartier; arhitectura poate fi admirată stând sub o streșină protectoare.",
+                "en": "Watch out for wet road markings while cycling through this district; the architecture can be admired while standing under a protective overhang."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice",
+                "hu": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice",
+                "ro": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice",
+                "en": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad möglichst nah am Eingang und nutzen Sie diesen langen Museumsbesuch, um Ihre Kleidung für die Weiterfahrt zu trocknen.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, és használja ki ezt a hosszú múzeumlátogatást arra, hogy a ruházata megszáradjon a folytatáshoz.",
+                "ro": "Parcați bicicleta cât mai aproape de intrare și folosiți această vizită lungă la muzeu pentru a vă usca hainele înainte de a porni din nou.",
+                "en": "Park your bike as close to the entrance as possible and use this long museum visit to let your gear dry before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "GC2",
+                "hu": "GC2",
+                "ro": "GC2",
+                "en": "GC2"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Umgebung kann bei Regen rutschig sein; fahren Sie langsam auf das Gelände und genießen Sie die Ausstellungen im geschützten Inneren.",
+                "hu": "Az ipari környezet esőben csúszós lehet; hajtson lassan a területre, és élvezze a kiállításokat a védett belső terekben.",
+                "ro": "Mediul industrial poate fi alunecos pe ploaie; intrați încet în perimetru și bucurați-vă de expoziții în spațiile interioare protejate.",
+                "en": "The industrial surroundings can be slippery in the rain; ride slowly onto the grounds and enjoy the exhibits in the sheltered interiors."
+              }
+            },
+            {
+              "name": {
+                "de": "CLT",
+                "hu": "CLT",
+                "ro": "CLT",
+                "en": "CLT"
+              },
+              "tip_5lang": {
+                "de": "Dieser Sport- und Freizeitkomplex bietet viele überdachte Bereiche; perfekt, um die Tour bei Regen ausklingen zu lassen, ohne nass zu werden.",
+                "hu": "Ez a sport- és szabadidős komplexum sok fedett résszel rendelkezik; tökéletes a túra befejezéséhez esőben, anélkül, hogy tovább ázna.",
+                "ro": "Acest complex sportiv și de agrement are multe zone acoperite; este locul perfect pentru a încheia turul pe ploaie fără a vă uda mai tare.",
+                "en": "This sports and leisure complex has many covered areas; it is the perfect place to wrap up your tour in the rain without getting wetter."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Rad durch Terni bietet klare Sicht, erfordert aber warme Handschuhe. Morgens ist die Basilika ein ruhiger, warmer Anlaufpunkt. Mittags nutzen Sie die Museen für längere Aufwärmpausen. Beachten Sie am Nachmittag das frühe schwindende Licht und tragen Sie reflektierende Kleidung. Beenden Sie die Fahrt bei Sonnenuntergang um 17:00 Uhr und genießen Sie die winterliche Abendstimmung.",
+            "hu": "A téli biciklis kirándulás Terniben tiszta látási viszonyokat kínál, de meleg kesztyűre szükség lesz. Reggel a bazilika csendes, meleg kiindulópont. Délben használja a múzeumokat hosszabb felmelegedési szünetekre. Délután ügyeljen a korai sötétedésre, és viseljen fényvisszaverőt. Fejezze be a tekerést a 17:00-s naplementekor, és élvezze a téli estét.",
+            "ro": "O excursie de iarnă cu bicicleta prin Terni oferă vizibilitate bună, dar necesită mănuși groase. Dimineața, basilica este un punct de plecare cald și liniștit. La prânz, folosiți muzeele pentru pauze lungi de încălzire. După-amiaza, aveți grijă la lumina care scade devreme. Încheiați plimbarea la apus, în jur de ora 17:00, și bucurați-vă de atmosfera de seară.",
+            "en": "A winter bike trip through Terni offers clear views but requires warm gloves for the ride. In the morning, the basilica is a quiet, warm starting point. At noon, use the museums for extended warming breaks. In the afternoon, be mindful of the early fading light and wear reflective gear. Finish your ride by the 17:00 sunset and enjoy the winter evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica di San Valentino",
+                "hu": "Basilica di San Valentino",
+                "ro": "Basilica di San Valentino",
+                "en": "Basilica di San Valentino"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlich warmer Ort, um den Radtag zu beginnen; die spirituelle Atmosphäre wirkt im Winter besonders intensiv und einladend.",
+                "hu": "Nagyszerűen meleg hely a biciklis nap kezdéséhez; a spirituális hangulat télen különösen intenzívnek és hívogatónak tűnik.",
+                "ro": "Un loc minunat de cald pentru a începe ziua pe bicicletă; atmosfera spirituală pare deosebit de intensă și primitoare iarna.",
+                "en": "A wonderfully warm place to start your cycling day; the spiritual atmosphere feels particularly intense and inviting during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Quartiere Matteotti - Arch Giancarlo De Carlo",
+                "hu": "Quartiere Matteotti - Arch Giancarlo De Carlo",
+                "ro": "Quartiere Matteotti - Arch Giancarlo De Carlo",
+                "en": "Quartiere Matteotti - Arch Giancarlo De Carlo"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur des Viertels wirkt im harten Winterlicht besonders plastisch; machen Sie Ihre Fotos zügig, bevor die Finger zu kalt werden.",
+                "hu": "A negyed építészete a kemény téli fényben különösen plasztikusnak hat; készítse el a fotókat gyorsan, mielőtt az ujjai túlságosan áthűlnének.",
+                "ro": "Arhitectura cartierului pare deosebit de reliefată în lumina aspră de iarnă; faceți fotografiile rapid, înainte ca degetele să vă înghețe.",
+                "en": "The district's architecture looks particularly sculptural in the harsh winter light; take your photos quickly before your fingers get too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice",
+                "hu": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice",
+                "ro": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice",
+                "en": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp für eine ausgiebige Aufwärmpause; die modernen Hallen bieten eine angenehme Abwechslung zur kühlen Fahrtwind.",
+                "hu": "Használja ezt a megállót egy kiadós felmelegedési szünetre; a modern csarnokok kellemes felüdülést nyújtanak a hűvös menetszél után.",
+                "ro": "Folosiți această oprire pentru o pauză lungă de încălzire; halele moderne oferă o relaxare plăcută după vântul rece de pe traseu.",
+                "en": "Use this stop for a substantial warming break; the modern halls offer a pleasant relief from the cool wind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "GC2",
+                "hu": "GC2",
+                "ro": "GC2",
+                "en": "GC2"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände bietet im Winter eine faszinierende industrielle Kulisse; achten Sie auf Froststellen auf dem Boden, wenn Sie mit dem Rad einfahren.",
+                "hu": "A terület télen lenyűgöző ipari díszletet kínál; ügyeljen a fagyos foltokra a talajon, amikor biciklivel behajt a múzeum udvarára.",
+                "ro": "Perimetrul oferă un decor industrial fascinant iarna; aveți grijă la zonele înghețate de pe sol când intrați cu bicicleta în curte.",
+                "en": "The grounds offer a fascinating industrial backdrop in winter; watch out for frosty patches on the ground when riding into the museum yard."
+              }
+            },
+            {
+              "name": {
+                "de": "CLT",
+                "hu": "CLT",
+                "ro": "CLT",
+                "en": "CLT"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im Warmen; die Freizeitanlage bietet gute Möglichkeiten, den Tag gemütlich ausklingen zu lassen, während es draußen dämmert.",
+                "hu": "Fejezze be a túrát itt a melegben; a szabadidőközpont jó lehetőséget kínál a nap kellemes lezárásához, miközben odakint elkezd sötétedni.",
+                "ro": "Încheiați turul aici, la căldură; centrul de agrement oferă posibilități bune de a termina ziua plăcut, în timp ce afară începe să se înnopteze.",
+                "en": "Finish your tour here in the warmth; the leisure center offers good opportunities to end the day pleasantly while it starts to get dark outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Kezdje a reggelt egy festői autózással Terni külvárosába, felfedezve a Villa Rossini és a történelmi Villa Palma nagyszerűségét. A nemesi történelem után hajtson a városközpont felé, hogy elmerüljön Terni ipari múltjában a Polo di Mantenimento múzeumban. A délutánt a kultúrának szenteljük, látogatást téve a CRAC Chiara Ronchini lenyűgöző kortárs kiállításain. Utazása a Szent Bálint-bazilikánál ér véget, amely tökéletes békés hely a késő délutáni órákban.",
         "ro": "Începeți dimineața cu o plimbare pitorească spre periferia orașului Terni, explorând măreția Vilei Rossini și a Vilei istorice Palma. După istoria nobilă, conduceți spre centrul orașului pentru a vă scufunda în trecutul industrial la Polo di Mantenimento. După-amiaza este rezervată unei schimbări culturale la expozițiile contemporane de la CRAC Chiara Ronchini. Călătoria se încheie frumos la Basilica di San Valentino, un loc liniștit perfect pentru după-amiaza târziu.",
         "en": "Start your morning with a scenic drive to the outskirts of Terni, exploring the grandeur of Villa Rossini and the historic Villa Palma. After taking in the noble history, drive towards the city center to dive into Terni's industrial past at the Polo di Mantenimento. The afternoon is reserved for a cultural shift as you visit the striking contemporary exhibitions at CRAC Chiara Ronchini. Your journey concludes beautifully at the Basilica di San Valentino, a tranquil and historically profound site perfectly suited for the late afternoon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Terni im Regen am bequemsten zu erkunden. Besuchen Sie morgens die Villen und nutzen Sie die kurzen Wege vom Parkplatz zum Eingang. Mittags bieten die Museen im Zentrum einen trockenen Aufenthalt. Am Nachmittag steuern Sie kulturelle Highlights direkt an. Den Abend lassen Sie entspannt ausklingen, da Sie jederzeit trocken zu Ihrem Fahrzeug zurückkehren können.",
+            "hu": "Autóval a legkényelmesebb Terni felfedezése esőben. Reggel látogassa meg a villákat, kihasználva a parkoló és a bejárat közötti rövid távolságot. Délben a központi múzeumok nyújtanak száraz menedéket. Délután vegye célba közvetlenül a kulturális pontokat. Az estét zárja nyugodtan, hiszen bármikor szárazon térhet vissza a gépjárművéhez.",
+            "ro": "Cu mașina, explorarea orașului Terni pe ploaie este cea mai confortabilă opțiune. Dimineața, vizitați vilele profitând de distanța scurtă de la parcare la intrare. La prânz, muzeele centrale oferă un refugiu uscat. După-amiaza, mergeți direct la punctele culturale importante. Încheiați seara relaxat, știind că vă puteți întoarce oricând la mașină fără să vă udați.",
+            "en": "By car, exploring Terni in the rain is the most comfortable option. In the morning, visit the villas, taking advantage of the short walk from parking to entrance. At noon, the central museums offer a dry haven. In the afternoon, head directly to cultural highlights. Wrap up your evening relaxed, knowing you can return to your vehicle dry at any time."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Rossini",
+                "hu": "Villa Rossini",
+                "ro": "Villa Rossini",
+                "en": "Villa Rossini"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Tor, um den Regen beim Betreten zu umgehen; das historische Ambiente wirkt bei Regen besonders verwunschen.",
+                "hu": "Parkoljon minél közelebb a kapuhoz, hogy elkerülje az esőt belépéskor; a történelmi környezet esőben különösen varázslatos hangulatot áraszt.",
+                "ro": "Parcați cât mai aproape de poartă pentru a evita ploaia la intrare; ambianța istorică pare deosebit de fermecătoare atunci când plouă.",
+                "en": "Park as close to the gate as possible to avoid the rain when entering; the historical ambiance feels particularly enchanting during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Palma",
+                "hu": "Villa Palma",
+                "ro": "Villa Palma",
+                "en": "Villa Palma"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zufahrt für einen schnellen Ausstieg; im Inneren sind Sie vor dem Wetter geschützt und können die Architektur in Ruhe bewundern.",
+                "hu": "Használja a felhajtót a gyors kiszálláshoz; bent védve lesz az időjárástól, és nyugodtan csodálhatja az építészetet, amíg kint esik.",
+                "ro": "Folosiți calea de acces pentru o coborâre rapidă; în interior sunteți protejat de vreme și puteți admira arhitectura în liniște.",
+                "en": "Use the driveway for a quick drop-off; inside you'll be sheltered from the weather and can admire the architecture in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Polo di Mantenimento delle Armi Leggere di Terni",
+                "hu": "Polo di Mantenimento delle Armi Leggere di Terni",
+                "ro": "Polo di Mantenimento delle Armi Leggere di Terni",
+                "en": "Polo di Mantenimento delle Armi Leggere di Terni"
+              },
+              "tip_5lang": {
+                "de": "Dieses große Museum bietet stundenlangen Schutz vor dem Regen; nutzen Sie die Zeit für eine ausführliche Besichtigung der Exponate im Trockenen.",
+                "hu": "Ez a hatalmas múzeum órákon át védelmet nyújt az eső elől; használja ki az időt a kiállítási tárgyak részletes, szárazon történő megtekintésére.",
+                "ro": "Acest muzeu mare oferă protecție împotriva ploii timp de ore întregi; folosiți timpul pentru o vizionare detaliată a exponatelor la adăpost.",
+                "en": "This large museum offers hours of protection from the rain; use the time for a detailed viewing of the exhibits in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "CRAC Chiara Ronchini Contemporary Art - Terni",
+                "hu": "CRAC Chiara Ronchini Contemporary Art - Terni",
+                "ro": "CRAC Chiara Ronchini Contemporary Art - Terni",
+                "en": "CRAC Chiara Ronchini Contemporary Art - Terni"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für den späten Nachmittag; die moderne Kunst im Inneren lässt Sie das schlechte Wetter draußen völlig vergessen.",
+                "hu": "Tökéletes helyszín a késő délutánra; a benti modern művészet segít teljesen elfelejteni a kinti rossz időt és a szürkeséget.",
+                "ro": "Un loc perfect pentru sfârșitul după-amiezii; arta modernă din interior vă va face să uitați complet de vremea rea de afară.",
+                "en": "A perfect location for late afternoon; the modern art inside will make you completely forget about the bad weather and grey skies outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Valentino",
+                "hu": "Basilica di San Valentino",
+                "ro": "Basilica di San Valentino",
+                "en": "Basilica di San Valentino"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier; der kurze Weg vom Parkplatz zur Kirche sorgt dafür, dass Sie auch bei starkem Regen trocken ans Ziel kommen.",
+                "hu": "Zárja itt a napot; a parkolótól a templomig tartó rövid séta garantálja, hogy még intenzív esőben is szárazon érjen célba.",
+                "ro": "Încheiați ziua aici; plimbarea scurtă de la parcare la biserică garantează că veți ajunge la destinație uscat, chiar și pe ploaie torențială.",
+                "en": "End your day here; the short walk from the parking lot to the church ensures you'll reach your destination dry, even in heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto in Terni eine warme Basis zwischen den Sehenswürdigkeiten. Morgens besuchen Sie die Villen, deren Gärten im Frost besonders friedlich wirken. Mittags wärmen Sie sich in den großen Museen auf. Da die Dämmerung gegen 17:00 Uhr einsetzt, nutzen Sie das letzte Tageslicht für die Basilika. Abends kehren Sie schnell in Ihr vorgeheiztes Fahrzeug zurück und genießen die Lichter der Stadt.",
+            "hu": "Télen az autó meleg bázist jelent Terni látnivalói között. Reggel látogassa meg a villákat, melyek kertjei a zúzmarában különösen békések. Délben melegedjen fel a nagy múzeumokban. Mivel a szürkület 17:00 körül kezdődik, az utolsó nappali fényeket használja ki a bazilikánál. Este térjen vissza gyorsan az előmelegített gépkocsihoz, és élvezze a város fényeit.",
+            "ro": "Iarna, mașina oferă o bază caldă între obiectivele turistice din Terni. Dimineața, vizitați vilele ale căror grădini par foarte liniștite sub promoroacă. La prânz, încălziți-vă în muzeele mari. Deoarece amurgul începe în jur de ora 17:00, folosiți ultima lumină a zilei pentru basilică. Seara, întoarceți-vă rapid la mașina preîncălzită și admirați luminile orașului.",
+            "en": "In winter, the car provides a warm base between Terni's sights. In the morning, visit the villas whose gardens look especially peaceful in the frost. At noon, warm up in the large museums. Since dusk begins around 17:00, use the last daylight for the basilica. In the evening, return quickly to your pre-heated vehicle and enjoy the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Rossini",
+                "hu": "Villa Rossini",
+                "ro": "Villa Rossini",
+                "en": "Villa Rossini"
+              },
+              "tip_5lang": {
+                "de": "Das Anwesen wirkt im Winterlicht sehr edel; genießen Sie den Besuch im Warmen und achten Sie auf eventuelle Glätte auf der Zufahrt.",
+                "hu": "Az ingatlan a téli fényben nagyon előkelőnek hat; élvezze a látogatást a melegben, és ügyeljen az esetleges jegesedésre a felhajtónál.",
+                "ro": "Proprietatea arată foarte nobil în lumina de iarnă; bucurați-vă de vizită la căldură și aveți grijă la posibila gheață de pe drumul de acces.",
+                "en": "The property looks very noble in the winter light; enjoy the visit in the warmth and watch out for potential ice on the driveway."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Palma",
+                "hu": "Villa Palma",
+                "ro": "Villa Palma",
+                "en": "Villa Palma"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, aber lohnenswerter Stopp; die Architektur lässt sich im Winter ohne störendes Laub an den Bäumen noch besser fotografieren.",
+                "hu": "Rövid, de megéri megállni; a téli kopár fák között az építészet még jobban fotózható, mivel a lombok nem takarják el a részleteket.",
+                "ro": "O oprire scurtă, dar care merită; arhitectura poate fi fotografiată și mai bine iarna, deoarece frunzișul nu mai ascunde detaliile clădirii.",
+                "en": "A short but worthwhile stop; the architecture can be photographed even better in winter as the lack of foliage reveals more details."
+              }
+            },
+            {
+              "name": {
+                "de": "Polo di Mantenimento delle Armi Leggere di Terni",
+                "hu": "Polo di Mantenimento delle Armi Leggere di Terni",
+                "ro": "Polo di Mantenimento delle Armi Leggere di Terni",
+                "en": "Polo di Mantenimento delle Armi Leggere di Terni"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für den kalten Mittag; die weitläufigen Hallen sind gut temperiert und bieten eine faszinierende Reise durch die Technikgeschichte.",
+                "hu": "Ideális hely a hideg délidőben; a tágas csarnokok jól temperáltak, és lenyűgöző utazást kínálnak a technikatörténetben.",
+                "ro": "Locul ideal pentru prânzul rece; halele spațioase sunt bine încălzite și oferă o călătorie fascinantă prin istoria tehnicii.",
+                "en": "The ideal place for a cold midday; the spacious halls are well-tempered and offer a fascinating journey through technical history."
+              }
+            },
+            {
+              "name": {
+                "de": "CRAC Chiara Ronchini Contemporary Art - Terni",
+                "hu": "CRAC Chiara Ronchini Contemporary Art - Terni",
+                "ro": "CRAC Chiara Ronchini Contemporary Art - Terni",
+                "en": "CRAC Chiara Ronchini Contemporary Art - Terni"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Galerie am späten Nachmittag; das warme Licht im Inneren bildet einen tollen Kontrast zur blauen Stunde draußen.",
+                "hu": "Látogassa meg a galériát késő délután; a benti meleg fények remek kontrasztot alkotnak a kinti kék óra hűvösségével.",
+                "ro": "Vizitați galeria la sfârșitul după-amiezii; luminile calde din interior creează un contrast excelent cu ora albastră de afară.",
+                "en": "Visit the gallery in the late afternoon; the warm indoor lights create a great contrast with the cool blue hour outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di San Valentino",
+                "hu": "Basilica di San Valentino",
+                "ro": "Basilica di San Valentino",
+                "en": "Basilica di San Valentino"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Abschluss des Tages; die Kirche ist im Winter ein Ort der Wärme und Besinnung, bevor die frühe Nacht hereinbricht.",
+                "hu": "Hangulatos lezárása a napnak; a templom télen a melegség és az elmélkedés helyszíne, mielőtt beállna a korai sötétség.",
+                "ro": "Un final de zi plin de atmosferă; biserica este iarna un loc al căldurii și meditației, înainte de lăsarea întunericului timpuriu.",
+                "en": "An atmospheric end to the day; the church is a place of warmth and reflection in winter before the early night sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

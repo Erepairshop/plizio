@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a kikötőben, figyelje a ringatózó hajókat, és szívja magába a tengeri levegőt. Délelőtt a fő strand tökéletes pihenést kínál a lágy homokon. Délután várja a Saint-Louis templom bájos építészete, majd folytassa útját a festői Saint-Clair partjára. Az estét a Villa Théo művészeti kiállításainak és történelmi aurájának felfedezésével zárhatja, mely tökéletes befejezés.",
         "ro": "Începeți dimineața la port, admirând bărcile și bucurându-vă de aerul proaspăt al mării Mediterane. Până la prânz, plaja principală din Le Lavandou vă oferă soare și relaxare. După-amiaza, descoperiți farmecul bisericii Saint-Louis și frumusețea ascunsă a plajei Saint-Clair. Încheiați ziua explorând expozițiile fascinante de artă de la Villa Théo, un loc plin de istorie și cultură.",
         "en": "Start your morning at the bustling port, watching the boats while breathing in the fresh sea air. By late morning, the main beach offers perfect conditions for sunbathing and relaxation. In the afternoon, discover the charming architecture of Saint-Louis Church before strolling to the picturesque Saint-Clair Beach. End your evening taking in the wonderful art exhibitions at historic Villa Théo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Hafen, wo die Fischerboote im Regen schaukeln. Mittags bietet der Strand eine dramatische Kulisse mit grauen Wellen und salziger Luft. Der Nachmittag führt in den Schutz der Kirche Saint-Louis, bevor Sie am Strand Saint-Clair den Tanz der Regentropfen auf dem Meer beobachten. Den Abschluss bildet die Villa Théo, ein idealer kultureller Rückzugsort im Trockenen.",
+            "hu": "Kezdje a napot a kikötőben, ahol az esőben ringó halászhajók látványa fogadja. Délben a fő strand drámai arcát mutatja a szürke hullámokkal. Délután keressen menedéket a Saint-Louis templomban, majd figyelje a tengerre hulló esőcseppeket a Saint-Clair parton. A napot a Villa Théo zárja, amely tökéletes fedett kulturális helyszín az esős időben is.",
+            "ro": "Începeți ziua în port, admirând bărcile care se leagănă sub ploaie. La prânz, plaja oferă un peisaj dramatic cu valuri cenușii. După-amiaza, refugiați-vă în interiorul bisericii Saint-Louis, apoi observați marea la Saint-Clair protejat de o umbrelă. Seara se încheie la Villa Théo, un spațiu cultural ideal pentru a rămâne la adăpost de intemperii.",
+            "en": "Start your day at the port, where fishing boats sway under the drizzle. At noon, the beach reveals a dramatic side with grey waves and salty air. In the afternoon, find shelter in Saint-Louis Church, then watch the raindrops dance on the sea at Saint-Clair. The day concludes at Villa Théo, an ideal cultural indoor retreat to escape the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Le Lavandou",
+                "hu": "Le Lavandou kikötője",
+                "ro": "Portul din Le Lavandou",
+                "en": "Port of Le Lavandou"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben der Fischer bei Regen vom Schutz der Kaimauer aus. Die salzige Gischt ist heute besonders intensiv; tragen Sie unbedingt eine wetterfeste Regenjacke.",
+                "hu": "Figyelje a halászok munkáját a móló védelméből az esőben is. A sós tengeri permet ilyenkor intenzívebb, ezért viseljen vízhatlan kabátot a séta során.",
+                "ro": "Observați activitatea pescarilor sub ploaie de la adăpostul digului. Briza sărată este mai intensă astăzi; purtați o pelerină impermeabilă pentru confort.",
+                "en": "Watch the fishermen's activity from the shelter of the quay during the rain. The sea spray is more intense today, so make sure to wear a waterproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand von Le Lavandou",
+                "hu": "Le Lavandou fő strandja",
+                "ro": "Plaja din Le Lavandou",
+                "en": "Le Lavandou Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Schönheit des leeren Strandes im Regen. Der nasse Sand ist fest, aber achten Sie auf rutschige Steine an den Rändern des Gehwegs.",
+                "hu": "Élvezze az üres strand melankolikus szépségét az esőben. A nedves homok kemény és jól járható, de vigyázzon a sétány szélén a csúszós kövekre.",
+                "ro": "Bucurați-vă de frumusețea melancolică a plajei pustii sub ploaie. Nisipul ud este compact, dar aveți grijă la pietrele alunecoase de pe marginea falezei.",
+                "en": "Enjoy the melancholic beauty of the empty beach in the rain. The wet sand is firm for walking, but watch out for slippery stones at the promenade's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Louis",
+                "hu": "Saint-Louis templom",
+                "ro": "Biserica Saint-Louis",
+                "en": "Saint-Louis Church"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet den perfekten trockenen Rückzugsort für einen Moment der Stille. Bewundern Sie die bunten Glasfenster, die auch bei trübem Wetter sanftes Licht spenden.",
+                "hu": "A templom tökéletes száraz menedéket nyújt a csendes elmélyüléshez. Csodálja meg a színes üvegablakokat, amelyek borús időben is lágy fényt árasztanak bent.",
+                "ro": "Această biserică oferă refugiul perfect pentru un moment de liniște la uscat. Admirați vitraliile colorate care reflectă o lumină caldă chiar și pe vreme mohorâtă.",
+                "en": "This church provides a perfect dry sanctuary for a quiet moment. Admire the stained-glass windows, which cast a soft light inside even on a gloomy, overcast day."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Saint-Clair",
+                "hu": "Saint-Clair strand",
+                "ro": "Plaja Saint-Clair",
+                "en": "Saint-Clair Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Naturschauspiel der Regentropfen auf dem türkisfarbenen Wasser. Ein großer Sturmschirm ist hier unerlässlich, da der Wind an der Küste auffrischen kann.",
+                "hu": "Nézze meg, ahogy az esőcseppek mintát rajzolnak a türkizkék vízfelszínre. Egy erős viharesernyő elengedhetetlen, mert a parton feltámadhat a szél.",
+                "ro": "Admirați spectacolul picăturilor de ploaie pe suprafața apei turcoaz. O umbrelă rezistentă este esențială aici, deoarece vântul se poate înteți pe coastă.",
+                "en": "Witness the spectacle of raindrops hitting the turquoise water surface. A sturdy storm umbrella is essential here as the wind can pick up along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Théo",
+                "hu": "Villa Théo",
+                "ro": "Villa Théo",
+                "en": "Villa Théo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im trockenen Inneren dieses Kunstzentrums. Nutzen Sie die Zeit, um die Ausstellungen ohne Eile zu erkunden, während es draußen weiter regnet.",
+                "hu": "Zárja a túrát a művészeti központ száraz belső tereiben. Használja ki az időt a kiállítások nyugodt megtekintésére, amíg kint szakad az eső.",
+                "ro": "Încheiați turul în interiorul primitor al acestui centru de artă. Profitați de ocazie pentru a explora expozițiile pe îndelete în timp ce afară plouă.",
+                "en": "Finish your tour inside the dry interior of this art center. Take your time to explore the exhibitions leisurely while the rain continues to fall outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft am Hafen in der Morgensonne. Mittags lädt der leere Hauptstrand zu einem erfrischenden Spaziergang ein. Am frühen Nachmittag besuchen Sie die Kirche Saint-Louis, die Schutz vor dem kühlen Wind bietet. Der Küstenweg nach Saint-Clair leuchtet im goldenen Licht der Wintersonne, bevor Sie pünktlich zum Sonnenuntergang um 17 Uhr die Villa Théo erreichen.",
+            "hu": "Élvezze a friss téli levegőt a kikötőben a reggeli napsütésben. Délben az üres strand hívogat egy frissítő sétára. Kora délután látogasson el a Saint-Louis templomba, amely védelmet nyújt a hűvös szél ellen. A Saint-Clair felé vezető út aranyló fényben úszik a téli napon, mielőtt a korai, 17 órai naplementére megérkezne a Villa Théo épületéhez.",
+            "ro": "Bucurați-vă de aerul curat de iarnă în port sub soarele dimineții. La prânz, plaja pustie vă invită la o plimbare revigorantă. După-amiaza devreme, vizitați biserica Saint-Louis pentru a vă proteja de vântul rece. Drumul spre Saint-Clair strălucește în lumina aurie înainte de apusul de la ora 17:00, pe care îl veți vedea de la Villa Théo.",
+            "en": "Enjoy the crisp winter air at the port in the morning sun. At noon, the empty main beach invites you for a refreshing walk. In the early afternoon, visit Saint-Louis Church to find shelter from the cool breeze. The path to Saint-Clair glows in the golden winter light before you reach Villa Théo just in time for the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Le Lavandou",
+                "hu": "Le Lavandou kikötője",
+                "ro": "Portul din Le Lavandou",
+                "en": "Port of Le Lavandou"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter wunderbar ruhig und bietet klares Licht für Fotos. Kleiden Sie sich in Schichten, da der Wind vom Meer her empfindlich kühl sein kann.",
+                "hu": "A kikötő télen csodálatosan nyugodt, és tiszta fényeket kínál a fotózáshoz. Öltözzön rétegesen, mert a tenger felől fújó szél metsző lehet.",
+                "ro": "Portul este minunat de liniștit iarna și oferă o lumină clară pentru fotografii. Îmbrăcați-vă în straturi, deoarece vântul de pe mare poate fi tăios.",
+                "en": "The port is wonderfully quiet in winter and offers clear light for photography. Dress in layers, as the wind from the sea can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Hauptstrand von Le Lavandou",
+                "hu": "Le Lavandou fő strandja",
+                "ro": "Plaja din Le Lavandou",
+                "en": "Le Lavandou Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für einen Spaziergang im Sand ohne die Sommerhitze. Die UV-Strahlung ist auch im Winter vorhanden, ein leichter Sonnenschutz ist ratsam.",
+                "hu": "Használja ki a déli napsütést egy homoki sétára a nyári hőség nélkül. Az UV-sugárzás télen is jelen van, egy könnyű fényvédő ajánlott a sétához.",
+                "ro": "Profitați de soarele de la prânz pentru o plimbare pe nisip fără arșița verii. Radiațiile UV sunt prezente și iarna, deci o protecție solară ușoară este utilă.",
+                "en": "Take advantage of the midday sun for a walk on the sand without the summer heat. UV rays are still present in winter, so light sun protection is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Louis",
+                "hu": "Saint-Louis templom",
+                "ro": "Biserica Saint-Louis",
+                "en": "Saint-Louis Church"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren der Kirche ist es windstill und oft wärmer als draußen. Ein idealer Ort, um kurz zur Ruhe zu kommen und sich für den weiteren Weg aufzuwärmen.",
+                "hu": "A templom belsejében szélcsend van és gyakran melegebb, mint odakint. Ideális hely egy rövid pihenőre, hogy kicsit átmelegedjen a további séta előtt.",
+                "ro": "În interiorul bisericii nu bate vântul și este adesea mai cald decât afară. Este un loc ideal pentru a vă odihni scurt și a vă încălzi puțin.",
+                "en": "Inside the church, it is windless and often warmer than outside. It's an ideal spot for a short break to warm up before continuing your winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Saint-Clair",
+                "hu": "Saint-Clair strand",
+                "ro": "Plaja Saint-Clair",
+                "en": "Saint-Clair Beach"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne lässt den Strand im Winter magisch leuchten. Nehmen Sie ein warmes Getränk in einer Thermoskanne mit, um die Aussicht länger zu genießen.",
+                "hu": "Az alacsonyan járó nap mágikus fényt kölcsönöz a strandnak télen. Vigyen magával meleg italt termosztban, hogy hosszabb ideig élvezhesse a látványt.",
+                "ro": "Soarele jos oferă plajei o strălucire magică pe timp de iarnă. Luați o băutură caldă într-un termos pentru a savura priveliștea mai mult timp.",
+                "en": "The low winter sun gives the beach a magical glow. Bring a warm drink in a thermos to enjoy the scenic coastal views for longer without getting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Théo",
+                "hu": "Villa Théo",
+                "ro": "Villa Théo",
+                "en": "Villa Théo"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch so, dass Sie die Villa vor Einbruch der Dunkelheit erreichen. Die Beleuchtung des Gebäudes bei Dämmerung ist im Winter besonders stimmungsvoll.",
+                "hu": "Tervezze úgy a látogatást, hogy sötétedés előtt érjen a villához. Az épület kivilágítása a téli szürkületben különlegesen hangulatos látványt nyújt.",
+                "ro": "Planificați vizita astfel încât să ajungeți la vilă înainte de lăsarea întunericului. Iluminarea clădirii în amurgul de iarnă este foarte sugestivă.",
+                "en": "Plan your visit to reach the villa before dark. The building's illumination during the winter twilight creates a particularly atmospheric and cozy scene."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A kerékpártúra a nyüzsgő kikötőből indul, majd a Villa Théo lenyűgöző művészeti gyűjteményével folytatódik. Délben a part mentén tekerjen a nyugodt Plage de la Fossette-hez. A délután folyamán egymást követik a csodálatos öblök: Aiguebelle, Jean Blanc és Layet várja önt kristálytiszta vízzel. Estére megérkezik a tágas Pramousquier strandra, ahol megpihenhet egy fárasztó de szép nap után.",
         "ro": "Turul cu bicicleta începe în portul plin de viață, urmat de o incursiune culturală la Villa Théo. La amiază, pedalați de-a lungul coastei pitorești spre plaja liniștită Fossette. După-amiaza este dedicată descoperirii unor golfuri fermecătoare precum Aiguebelle, Jean Blanc și Layet, fiecare cu o frumusețe aparte. Seara, ajungeți la plaja întinsă Pramousquier pentru a vă relaxa la apus.",
         "en": "Your cycling tour begins at the vibrant port, followed by an inspiring cultural stop at Villa Théo. At midday, ride along the stunning coastline to the peaceful Plage de la Fossette. The afternoon is a wonderful beach-hopping adventure visiting the picturesque bays of Aiguebelle, Jean Blanc, and Layet. By evening, you'll reach the spacious Pramousquier Beach for a relaxing sunset finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet am Hafen, wo glatte Wege Vorsicht erfordern. Die Villa Théo bietet mittags einen langen, trockenen Aufenthalt voller Kunst. Nachmittags erkunden Sie die Küstenstrände, wobei das Licht bei Regen die Farben des Meeres intensiviert. Der Weg führt über La Fossette bis Pramousquier, wo Sie trotz Nässe die Ruhe der Natur auf zwei Rädern erleben können.",
+            "hu": "A biciklitúra a kikötőben indul, ahol a nedves utak óvatosságot igényelnek. Délben a Villa Théo nyújt hosszú, száraz menedéket tele művészettel. Délután a tengerparti strandok felé tekerhet, ahol az eső kiemeli a tenger mély színeit. Az út La Fossette-től Pramousquier-ig tart, ahol a nedves idő ellenére is élvezheti a természet nyugalmát két keréken.",
+            "ro": "Turul cu bicicleta începe în port, unde drumurile umede necesită prudență. La prânz, Villa Théo oferă un refugiu prelungit și uscat plin de artă. După-amiaza, explorați plajele de pe coastă, unde ploaia intensifică nuanțele mării. Traseul trece prin La Fossette până la Pramousquier, oferind liniște în natură chiar și pe timp de ploaie.",
+            "en": "The bike tour starts at the port, where wet paths require extra caution. At noon, Villa Théo offers a long, dry stay filled with art and culture. In the afternoon, explore the coastal beaches where the rain intensifies the colors of the sea. The route leads from La Fossette to Pramousquier, allowing you to experience nature's peace on two wheels despite the wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Le Lavandou",
+                "hu": "Le Lavandou kikötője",
+                "ro": "Portul din Le Lavandou",
+                "en": "Port of Le Lavandou"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Losfahren auf die rutschigen Markierungen am Boden. Prüfen Sie Ihre Bremsen vorab, da der Bremsweg auf nassem Asphalt deutlich länger ist.",
+                "hu": "Induláskor figyeljen a csúszós útburkolati jelekre a kikötőben. Ellenőrizze a fékeket, mert a fékút nedves aszfalton jelentősen meghosszabbodik.",
+                "ro": "Fiți atenți la marcajele rutiere alunecoase când plecați din port. Verificați frânele, deoarece distanța de frânare este mai mare pe asfalt ud.",
+                "en": "Watch out for slippery road markings when starting from the port. Check your brakes beforehand as the stopping distance is significantly longer on wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Théo",
+                "hu": "Villa Théo",
+                "ro": "Villa Théo",
+                "en": "Villa Théo"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort für eine ausgiebige Pause im Trockenen. Es gibt überdachte Abstellmöglichkeiten für Fahrräder in der Nähe, um den Sattel trocken zu halten.",
+                "hu": "Ez az ideális hely egy kiadós száraz pihenőre a túra során. A közelben találhat fedett kerékpártárolót, így a nyereg is száraz marad a látogatás alatt.",
+                "ro": "Acesta este locul ideal pentru o pauză prelungită la uscat. Există suporturi de biciclete acoperite în apropiere pentru a menține șaua uscată.",
+                "en": "This is the ideal spot for an extensive break in the dry. Look for covered bike parking nearby to keep your seat dry while you visit the galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Fossette",
+                "hu": "La Fossette strand",
+                "ro": "Plaja La Fossette",
+                "en": "Plage de la Fossette"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg hierhin ist gut ausgebaut, aber bei Regen können Blätter auf der Fahrbahn rutschig sein. Fahren Sie in den Kurven besonders vorsichtig und vorausschauend.",
+                "hu": "Az ide vezető kerékpárút jól kiépített, de esőben a lehullott levelek csúszósak lehetnek. A kanyarokban tekerjen különösen óvatosan és előrelátóan.",
+                "ro": "Pista de biciclete este bine amenajată, dar frunzele ude pot fi alunecoase. Circulați cu prudență sporită în curbe și păstrați o viteză moderată.",
+                "en": "The bike path here is well-maintained, but wet leaves can be slippery in the rain. Cycle especially carefully through the curves and look ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Aiguebelle",
+                "hu": "Aiguebelle strand",
+                "ro": "Plaja Aiguebelle",
+                "en": "Plage d'Aiguebelle"
+              },
+              "tip_5lang": {
+                "de": "Das Meeresrauschen wirkt bei Regen hier besonders kraftvoll. Tragen Sie eine wasserdichte Überhose, um Spritzwasser von den Reifen effektiv abzuwehren.",
+                "hu": "A tenger zúgása esős időben itt különösen erőteljesnek hat. Viseljen vízálló nadrágot, hogy hatékonyan védekezzen a kerekek felől érkező vízpermet ellen.",
+                "ro": "Sunetul mării pare mult mai puternic aici pe timp de ploaie. Purtați pantaloni impermeabili pentru a vă proteja de apa împroșcată de roțile bicicletei.",
+                "en": "The sound of the sea feels especially powerful here in the rain. Wear waterproof over-trousers to effectively block the spray from your bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Jean Blanc",
+                "hu": "Jean Blanc strand",
+                "ro": "Plaja Jean Blanc",
+                "en": "Plage de Jean Blanc"
+              },
+              "tip_5lang": {
+                "de": "Die Treppen zum Strand können bei Regen extrem rutschig sein. Lassen Sie Ihr Rad oben gesichert stehen und steigen Sie nur mit festem Schuhwerk hinunter.",
+                "hu": "A strandhoz vezető lépcsők esőben rendkívül csúszósak lehetnek. Hagyja a biciklit fent lezárva, és csak stabil cipőben menjen le a partra.",
+                "ro": "Treptele spre plajă pot fi extrem de alunecoase din cauza ploii. Lăsați bicicleta asigurată sus și coborâți doar dacă aveți încălțăminte aderentă.",
+                "en": "The steps to the beach can be extremely slippery in the rain. Leave your bike locked at the top and only head down if you have sturdy, non-slip footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Le Layet",
+                "hu": "Le Layet strand",
+                "ro": "Plaja Le Layet",
+                "en": "Plage du Layet"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Umgebung wirkt im Regen wild und unberührt. Achten Sie auf Pfützen, die tiefe Schlaglöcher auf dem Weg verbergen könnten, und umfahren Sie diese.",
+                "hu": "A sziklás környezet esőben vadnak és érintetlennek tűnik. Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek az úton, és próbálja meg kikerülni őket.",
+                "ro": "Cadrul stâncos pare sălbatic sub ploaie. Atenție la bălțile care pot ascunde gropi adânci pe traseu; încercați să le ocoliți pentru siguranță.",
+                "en": "The rocky surroundings look wild and untouched in the rain. Watch out for puddles that might hide deep potholes on the path and steer around them."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Pramousquier",
+                "hu": "Pramousquier strand",
+                "ro": "Plaja Pramousquier",
+                "en": "Plage de Pramousquier"
+              },
+              "tip_5lang": {
+                "de": "Am Ziel angekommen, sollten Sie sich schnell trocknen. Die Luftfeuchtigkeit kühlt den Körper nach der Anstrengung auf dem Rad bei Regen rasch aus.",
+                "hu": "A célhoz érve igyekezzen gyorsan megszáradni. A magas páratartalom esőben a biciklis túra utáni pihenő alatt gyorsan lehűtheti a testet.",
+                "ro": "Odată ajunși la destinație, încercați să vă uscați rapid. Umiditatea ridicată și ploaia vă pot răci corpul repede după efortul depus pe bicicletă.",
+                "en": "Upon reaching your destination, make sure to dry off quickly. High humidity and rain can cool your body down rapidly after the cycling exertion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Hafen, wenn die Wintersonne das Meer glitzern lässt. Die Villa Théo bietet eine willkommene Aufwärmpause am Vormittag. Die Radstrecke entlang der Küste ist im Winter fast menschenleer, was die Fahrt nach La Fossette und Aiguebelle besonders entspannt macht. Genießen Sie die weiten Ausblicke, bevor Sie Pramousquier erreichen, wo die Sonne gegen 17 Uhr hinter den Hügeln verschwindet.",
+            "hu": "Kezdje a túrát a kikötőben, amikor a téli nap megcsillan a tengeren. A Villa Théo kellemes melegedőhelyet kínál a délelőtt folyamán. A parti kerékpárút télen szinte üres, így a tekerés La Fossette és Aiguebelle felé rendkívül pihentető. Élvezze a tágas kilátást, mielőtt elérné Pramousquiert, ahol a nap 17 óra körül bukik a dombok mögé.",
+            "ro": "Începeți turul în port când soarele de iarnă face marea să sclipescă. Villa Théo oferă o pauză de încălzire binevenită în cursul dimineții. Traseul de coastă este aproape pustiu iarna, făcând drumul spre La Fossette și Aiguebelle foarte relaxant. Admirați panoramele largi înainte de a ajunge la Pramousquier la apusul de la ora 17:00.",
+            "en": "Start at the port when the winter sun makes the sea sparkle. Villa Théo offers a welcome warming break during the morning. The coastal bike path is almost empty in winter, making the ride to La Fossette and Aiguebelle particularly relaxing. Enjoy the wide vistas before reaching Pramousquier as the sun sets behind the hills at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Le Lavandou",
+                "hu": "Le Lavandou kikötője",
+                "ro": "Portul din Le Lavandou",
+                "en": "Port of Le Lavandou"
+              },
+              "tip_5lang": {
+                "de": "Die klare Wintermorgenluft ist herrlich, aber ziehen Sie winddichte Handschuhe an. Der Fahrtwind am Hafen kann Ihre Finger sonst schnell auskühlen lassen.",
+                "hu": "A tiszta téli reggeli levegő csodás, de húzzon szélálló kesztyűt. A kikötői menetszél egyébként gyorsan lehűtheti az ujjait tekerés közben.",
+                "ro": "Aerul curat de dimineață este minunat, dar purtați mănuși rezistente la vânt. Briza din port vă poate îngheța degetele rapid în timp ce pedalați.",
+                "en": "The clear winter morning air is wonderful, but wear windproof gloves. The headwind at the port can quickly make your fingers feel numb while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Théo",
+                "hu": "Villa Théo",
+                "ro": "Villa Théo",
+                "en": "Villa Théo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um den Körper auf Temperatur zu bringen. Im Winter ist es hier wunderbar ruhig, ideal um die Details der Architektur zu bewundern.",
+                "hu": "Használja ki a múzeumlátogatást, hogy felmelegedjen a túra közben. Télen itt csodás nyugalom honol, ideális az építészeti részletek megcsodálására.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi corpul. Iarna este o liniște deplină aici, ideală pentru a admira detaliile arhitecturale în tihnă.",
+                "en": "Use your museum visit as a chance to warm up. In winter, it's wonderfully quiet, making it ideal for admiring the architectural details without crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand La Fossette",
+                "hu": "La Fossette strand",
+                "ro": "Plaja La Fossette",
+                "en": "Plage de la Fossette"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winterlicht fast weiß. Achten Sie auf den Sonnenstand; auf dem Radweg können schattige Abschnitte deutlich kühler sein als die sonnigen Stellen.",
+                "hu": "A strand a téli fényben szinte fehérnek tűnik. Figyeljen a nap állására; a kerékpárút árnyékos szakaszai jóval hűvösebbek lehetnek a napos részeknél.",
+                "ro": "Plaja pare aproape albă în lumina iernii. Atenție la poziția soarelui; porțiunile umbrite ale pistei pot fi mult mai reci decât cele însorite.",
+                "en": "The beach looks almost white in the winter light. Mind the sun's position; shaded sections of the bike path can be significantly cooler than sunny spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Aiguebelle",
+                "hu": "Aiguebelle strand",
+                "ro": "Plaja Aiguebelle",
+                "en": "Plage d'Aiguebelle"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für eine Pause in der Mittagssonne. Nehmen Sie einen Schal mit, um Ihren Hals vor dem kühlen Küstenwind während der Fahrt zu schützen.",
+                "hu": "Tökéletes hely egy pihenőre a déli napsütésben. Vigyen magával sálat, hogy védje a nyakát a hűvös parti széltől a további kerékpározás során.",
+                "ro": "Un loc perfect pentru o pauză în soarele de la prânz. Luați un fular pentru a vă proteja gâtul de vântul rece de coastă în timpul deplasării.",
+                "en": "A perfect spot for a break in the midday sun. Bring a scarf to protect your neck from the cool coastal breeze while you continue your cycling trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Jean Blanc",
+                "hu": "Jean Blanc strand",
+                "ro": "Plaja Jean Blanc",
+                "en": "Plage de Jean Blanc"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe hier ist im Winter absolut beeindruckend. Da es früher dunkel wird, stellen Sie sicher, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+                "hu": "A téli nyugalom itt lenyűgöző. Mivel korábban sötétedik, győződjön meg róla, hogy a kerékpár világítása kifogástalanul működik a visszaúthoz.",
+                "ro": "Liniștea de aici este impresionantă iarna. Deoarece se întunecă devreme, asigurați-vă că luminile bicicletei funcționează perfect pentru drum.",
+                "en": "The tranquility here in winter is impressive. Since it gets dark earlier, ensure your bike lights are functioning perfectly before heading back."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Le Layet",
+                "hu": "Le Layet strand",
+                "ro": "Plaja Le Layet",
+                "en": "Plage du Layet"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen speichern im Winter kaum Wärme, daher kann es hier im Schatten frisch sein. Eine dünne Mütze unter dem Helm bewahrt die Körperwärme beim Radeln.",
+                "hu": "A sziklák télen alig tárolnak hőt, így az árnyékban hűvös lehet. Egy vékony sapka a sisak alatt segít megőrizni a testhőt kerékpározás közben.",
+                "ro": "Stâncile nu rețin căldura iarna, deci poate fi răcoare la umbră. O căciulă subțire sub cască vă va ajuta să vă mențineți căldura corporală.",
+                "en": "Rocks hold little heat in winter, so it can be chilly in the shade. A thin cap under your helmet helps retain body heat while you cycle along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Pramousquier",
+                "hu": "Pramousquier strand",
+                "ro": "Plaja Pramousquier",
+                "en": "Plage de Pramousquier"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Ende Ihrer Tour pünktlich zum Sonnenuntergang um 17 Uhr. Packen Sie für die Rückfahrt eine zusätzliche warme Schicht ein, wenn die Sonne weg ist.",
+                "hu": "Élvezze a túra végét pontosan a 17 órai naplementekor. Készítsen be egy plusz meleg réteg ruhát a visszaútra, mert a naplemente után hirtelen hűl le a levegő.",
+                "ro": "Bucurați-vă de finalul turului exact la apusul de la ora 17:00. Pregătiți un strat cald suplimentar pentru drumul de întoarcere după ce apune soarele.",
+                "en": "Enjoy the end of your tour just in time for the 5 PM sunset. Pack an extra warm layer for the ride back once the sun has disappeared behind the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autózzon reggel a Plage de Cabassonhoz, és élvezze az érintetlen természeti környezetet. A délelőtt egy felfedező sétára hív a festői parti ösvényen és a Calanque de la Tripe-nél. Délután visszatérve a központba, tekintse meg a Saint-Louis templomot és a történelmi Villa Théo-t. Az estét a gyönyörű Cavalière strandon töltheti, figyelve a lenyugvó nap sugarait a nyugodt tenger felett.",
         "ro": "Conduceți dimineața spre plaja Cabasson, bucurându-vă de peisajul natural spectaculos și sălbatic. La prânz, explorați poteca de coastă și opriți-vă la fermecătoarea Calanque de la Tripe. După-amiaza, reveniți în centrul orașului pentru a vizita biserica Saint-Louis și fascinanta Villa Théo. Seara este perfectă pentru a vă relaxa pe nisipul fin al plajei Cavalière în timp ce admirați apusul.",
         "en": "Drive out to Plage de Cabasson in the morning to experience a truly unspoiled natural setting. Midday invites you to explore the stunning Coastal Path and the hidden Calanque de la Tripe. In the afternoon, head back to town to visit the charming Saint-Louis Church and the historic Villa Théo. Spend your evening relaxing on the fine sands of Cavalière Beach as the sun sets over the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Strand Cabasson, wo Sie den Regen gemütlich vom Auto aus beobachten können. Der Küstenweg ist bei Nässe eine Herausforderung, bietet aber dramatische Ausblicke. Mittags finden Sie in der Kirche Saint-Louis einen trockenen Ort der Besinnung. Nachmittags ist die Villa Théo das perfekte Ziel, um den Regen im Museum zu vergessen, bevor Sie den Tag am Strand Cavalière ausklingen lassen.",
+            "hu": "Az autós túra Cabasson strandjánál indul, ahol a kocsiból is csodálhatja az esőt. A parti ösvény nedvesen kihívást jelent, de drámai kilátást nyújt. Délben a Saint-Louis templom kínál száraz helyet az elmélyüléshez. Délután a Villa Théo tökéletes célpont, hogy a múzeumban feledje az esőt, mielőtt a napot Cavalière partján zárná.",
+            "ro": "Călătoria începe la Cabasson, unde puteți admira ploaia din confortul mașinii. Poteca de coastă este o provocare pe umiditate, dar oferă panorame dramatice. La prânz, biserica Saint-Louis oferă un loc uscat pentru reculegere. După-amiaza, Villa Théo este destinația perfectă pentru a uita de ploaie în muzeu, înainte de finalul zilei la Cavalière.",
+            "en": "The car tour starts at Cabasson Beach, where you can watch the rain from the comfort of your vehicle. The coastal path is challenging when wet but offers dramatic views. At noon, find a dry place for reflection in Saint-Louis Church. In the afternoon, Villa Théo is the perfect destination to forget the rain, before ending the day at Cavalière Beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Cabasson",
+                "hu": "Cabasson strand",
+                "ro": "Plaja Cabasson",
+                "en": "Plage de Cabasson"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Strand, um den Weg im Regen kurzzuhalten. Das Fort de Brégançon wirkt bei grauem Himmel besonders imposant und wehrhaft.",
+                "hu": "Használja a strandhoz közeli parkolót, hogy lerövidítse az utat az esőben. A Brégançon erőd szürke égbolt alatt különösen impozáns és tiszteletet parancsoló.",
+                "ro": "Folosiți parcarea de lângă plajă pentru a scurta drumul prin ploaie. Fortul Brégançon pare deosebit de impunător și fortificat sub cerul cenușiu.",
+                "en": "Use the parking lot close to the beach to keep your walk in the rain short. Fort de Brégançon looks particularly imposing and sturdy under a grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad (Sentier du Littoral)",
+                "hu": "Parti ösvény (Sentier du Littoral)",
+                "ro": "Poteca de coastă (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad kann bei Regen sehr schlammig und rutschig sein. Bleiben Sie auf befestigten Abschnitten und tragen Sie Wanderschuhe mit einem sehr guten Profil.",
+                "hu": "Az ösvény esőben nagyon sáros és csúszós lehet. Maradjon a kijelölt szakaszokon, és viseljen nagyon jó tapadású talppal rendelkező túracipőt.",
+                "ro": "Poteca poate fi foarte noroioasă și alunecoasă din cauza ploii. Rămâneți pe porțiunile amenajate și purtați încălțăminte de munte cu talpă aderentă.",
+                "en": "The path can be very muddy and slippery in the rain. Stay on the reinforced sections and wear hiking boots with a very good grip for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de la Tripe",
+                "hu": "Calanque de la Tripe",
+                "ro": "Calanque de la Tripe",
+                "en": "Calanque de la Tripe"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt spritzt bei Regen hoch an die Felsen. Beobachten Sie das Naturschauspiel aus sicherer Entfernung, da die Klippenkanten rutschig sein können.",
+                "hu": "Az esőben a hullámok magasan felcsapnak a sziklákra. Figyelje a természet erejét biztonságos távolságból, mert a sziklák széle ilyenkor veszélyesen csúszós.",
+                "ro": "Valurile se izbesc puternic de stânci pe timp de ploaie. Observați spectacolul de la o distanță sigură, deoarece marginile falezei pot fi alunecoase.",
+                "en": "The sea spray splashes high against the rocks during the rain. Watch the natural spectacle from a safe distance, as the cliff edges can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Louis",
+                "hu": "Saint-Louis templom",
+                "ro": "Biserica Saint-Louis",
+                "en": "Saint-Louis Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Kirche, um trocken ins Innere zu gelangen. Die Stille im Inneren bildet einen wunderbaren Kontrast zum prasselnden Regen draußen.",
+                "hu": "Parkoljon a templom közelében, hogy szárazon jusson be az épületbe. A benti csend csodálatos kontrasztot alkot a kinti kopogó esővel.",
+                "ro": "Parcați în apropierea bisericii pentru a ajunge la adăpost rapid. Liniștea din interior oferă un contrast superb cu sunetul ploii de afară.",
+                "en": "Park close to the church to enter the building while staying dry. The silence inside creates a wonderful contrast to the patter of the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Théo",
+                "hu": "Villa Théo",
+                "ro": "Villa Théo",
+                "en": "Villa Théo"
+              },
+              "tip_5lang": {
+                "de": "Die Villa ist der perfekte Ort, um einen starken Regenschauer auszusitzen. Genießen Sie die Kunstwerke und die Architektur in aller Ruhe im Trockenen.",
+                "hu": "A villa tökéletes hely egy kiadósabb eső kivárására. Élvezze a műalkotásokat és az építészetet teljes nyugalomban a száraz belső térben.",
+                "ro": "Vila este locul ideal pentru a aștepta trecerea unei averse puternice. Admirați operele de artă și arhitectura în liniște, la adăpost de ploaie.",
+                "en": "The villa is the perfect place to wait out a heavy rain shower. Enjoy the artworks and the architecture in complete peace within the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Cavalière",
+                "hu": "Cavalière strand",
+                "ro": "Plaja Cavalière",
+                "en": "Plage de Cavalière"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen weitläufig und mystisch. Bleiben Sie im Auto, wenn der Regen zu stark ist, und genießen Sie die Aussicht auf die stürmische See.",
+                "hu": "A strand esőben tágasnak és misztikusnak tűnik. Ha túl erősen esik, maradjon az autóban, és onnan csodálja a viharos tenger látványát.",
+                "ro": "Plaja pare vastă și mistică sub ploaie. Rămâneți în mașină dacă plouă prea tare și bucurați-vă de priveliștea mării agitate prin parbriz.",
+                "en": "The beach looks vast and mystical in the rain. Stay in your car if the rain is too heavy and enjoy the view of the stormy sea from the window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre winterliche Rundreise am Strand Cabasson bei glasklarem Licht. Ein kurzer Spaziergang am Sentier du Littoral belebt die Sinne, bevor Sie die Calanque de la Tripe besuchen. Mittags wärmen Sie sich in der Kirche Saint-Louis auf. Die Villa Théo bietet am frühen Nachmittag Kultur pur, bevor Sie pünktlich zum Sonnenuntergang um 17 Uhr den weiten Strand von Cavalière erreichen.",
+            "hu": "Kezdje téli autós körútját Cabasson strandjánál a kristálytiszta fényben. Egy rövid séta a parti ösvényen felfrissíti az érzékeket a Calanque de la Tripe előtt. Délben melegedjen fel a Saint-Louis templomban. A Villa Théo kora délután tiszta kultúrát kínál, mielőtt pontosan a 17 órai naplementére Cavalière tágas partjához érne.",
+            "ro": "Începeți turul de iarnă la Cabasson în lumina cristalizată a dimineții. O scurtă plimbare pe Sentier du Littoral vă va revigora înainte de Calanque de la Tripe. La prânz, încălziți-vă în biserica Saint-Louis. Villa Théo oferă cultură pură după-amiaza, înainte de a ajunge la Cavalière pentru apusul de la ora 17:00.",
+            "en": "Start your winter car tour at Cabasson Beach in crystal-clear morning light. A short walk along the Sentier du Littoral revives the senses before visiting Calanque de la Tripe. At noon, warm up in Saint-Louis Church. Villa Théo offers pure culture in the early afternoon, before reaching the wide beach of Cavalière by the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Cabasson",
+                "hu": "Cabasson strand",
+                "ro": "Plaja Cabasson",
+                "en": "Plage de Cabasson"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind hier kaum Menschen, was den Strand sehr friedlich macht. Die Morgenluft ist frisch, nehmen Sie also eine warme Jacke für den Strandgang mit.",
+                "hu": "Télen alig vannak itt emberek, ami nagyon békéssé teszi a strandot. A reggeli levegő friss, ezért vigyen magával meleg kabátot a parti sétához.",
+                "ro": "Iarna sunt foarte puțini oameni aici, ceea ce face plaja extrem de liniștită. Aerul dimineții este rece, deci luați o jachetă groasă pentru plimbare.",
+                "en": "There are hardly any people here in winter, making the beach very peaceful. The morning air is fresh, so bring a warm jacket for your walk on the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad (Sentier du Littoral)",
+                "hu": "Parti ösvény (Sentier du Littoral)",
+                "ro": "Poteca de coastă (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht bis zu den Inseln ist im Winter oft besser als im Sommer. Tragen Sie feste Schuhe, da der Boden in schattigen Lagen feucht und kühl sein kann.",
+                "hu": "A távoli kilátás a szigetekre télen gyakran jobb, mint nyáron. Viseljen stabil cipőt, mert az árnyékos helyeken a talaj nyirkos és hűvös maradhat.",
+                "ro": "Vizibilitatea spre insule este adesea mai bună iarna decât vara. Purtați încălțăminte solidă, deoarece solul poate fi umed și rece în zonele cu umbră.",
+                "en": "The distant view of the islands is often clearer in winter than in summer. Wear sturdy shoes, as the ground in shaded areas can be damp and cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de la Tripe",
+                "hu": "Calanque de la Tripe",
+                "ro": "Calanque de la Tripe",
+                "en": "Calanque de la Tripe"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Bucht strahlt im Winter eine wilde Schönheit aus. Nehmen Sie eine Thermoskanne mit Kaffee mit, um sich beim Blick aufs Meer von innen aufzuwärmen.",
+                "hu": "A sziklás öböl télen vad szépséget áraszt. Vigyen magával egy termosz kávét, hogy a tengerre nézve belülről is felmelegedjen a hideg parti szélben.",
+                "ro": "Golful stâncos emană o frumusețe sălbatică iarna. Luați un termos cu cafea pentru a vă încălzi în timp ce admirați marea în briza rece de coastă.",
+                "en": "The rocky bay radiates a wild beauty in winter. Bring a thermos of coffee to warm yourself up while looking out at the sea in the cool coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Louis",
+                "hu": "Saint-Louis templom",
+                "ro": "Biserica Saint-Louis",
+                "en": "Saint-Louis Church"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um der Winterkälte kurz zu entfliehen. Die dicken Mauern der Kirche halten eine konstante, angenehme Temperatur im Vergleich zum Wind.",
+                "hu": "Kiváló megálló, hogy rövid időre elmeneküljön a téli hideg elől. A templom vastag falai állandó, a kinti szélnél kellemesebb hőmérsékletet tartanak.",
+                "ro": "Un popas excelent pentru a scăpa scurt de frigul iernii. Zidurile groase ale bisericii mențin o temperatură constantă și plăcută față de vântul de afară.",
+                "en": "An excellent stop to briefly escape the winter chill. The thick walls of the church maintain a constant, more pleasant temperature compared to the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Théo",
+                "hu": "Villa Théo",
+                "ro": "Villa Théo",
+                "en": "Villa Théo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen am frühen Nachmittag, wenn das Licht am schönsten ist. Die Villa ist gut beheizt und bietet einen gemütlichen kulturellen Rahmen.",
+                "hu": "Látogassa meg a kiállításokat kora délután, amikor a legszebbek a fények. A villa jól fűtött, és meghitt kulturális környezetet biztosít a látogatáshoz.",
+                "ro": "Vizitați expozițiile după-amiaza devreme, când lumina este cea mai frumoasă. Vila este bine încălzită și oferă un cadru cultural primitor și cald.",
+                "en": "Visit the exhibitions in the early afternoon when the light is at its best. The villa is well-heated and provides a cozy cultural setting for your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Cavalière",
+                "hu": "Cavalière strand",
+                "ro": "Plaja Cavalière",
+                "en": "Plage de Cavalière"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier zum Sonnenuntergang um 17 Uhr. Da es danach schnell abkühlt, nutzen Sie die Sitzheizung Ihres Autos für die gemütliche Rückfahrt.",
+                "hu": "Zárja itt a napot a 17 órai naplementekor. Mivel utána gyorsan lehűl az idő, használja az autó ülésfűtését a kellemes és meleg hazaúthoz.",
+                "ro": "Încheiați ziua aici la apusul de la ora 17:00. Deoarece se răcește repede după aceea, folosiți încălzirea în scaune a mașinii pentru un drum plăcut înapoi.",
+                "en": "End your day here at the 5 PM sunset. As it cools down quickly afterwards, use your car's seat heating for a cozy and warm drive back to your stay."
+              }
+            }
+          ]
+        }
       }
     }
   }

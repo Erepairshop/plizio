@@ -160,6 +160,196 @@
         "hu": "M: Kezdje a napot egy frissítő sétával a Grudevatn naturreservat körül, gyönyörködve a békés vizes élőhelyekben és a gazdag madárvilágban.\nMid: Induljon dél felé Kleppe örökségének felfedezésére, meglátogatva a történelmi Kristinahuset-et és az átfogó Klepp bygdemuseumot.\nA: Folytassa sétáját a központi Klepp kyrkje-hez, egy gyönyörű vallási nevezetességhez, amely a helyi közösség történelmét őrzi.\nE: Fejezze be az estét egy rövid túrával a Kleppevardenre, élvezve a friss levegőt és a régió feletti panorámás naplementét.",
         "ro": "M: Începeți ziua cu o plimbare revigorantă prin Grudevatn naturreservat, admirând zonele umede liniștite și fauna aviară bogată.\nMid: Îndreptați-vă spre sud pentru a descoperi patrimoniul din Kleppe, vizitând istorica Kristinahuset și muzeul agricol Klepp.\nA: Continuați plimbarea către biserica centrală Klepp kyrkje, un reper religios frumos care ancorează istoria comunității locale.\nE: Încheiați seara cu o scurtă drumeție până la Kleppevarden, bucurându-vă de aerul proaspăt și de priveliștile panoramice ale apusului.",
         "en": "M: Start your day with a refreshing walk around Grudevatn naturreservat, taking in the serene wetlands and rich local birdlife.\nMid: Head slightly south to discover Kleppe's heritage, visiting the historical Kristinahuset and the comprehensive Klepp bygdemuseum.\nA: Continue your stroll to the central Klepp kyrkje, a beautiful religious landmark that anchors the local community's history.\nE: Finish your evening with a short hike up to Kleppevarden, enjoying the fresh air and panoramic sunset views over the region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Grudevatn, wo die Regentropfen auf dem Wasser eine beruhigende Atmosphäre schaffen. Mittags bietet das historische Kristinahuset einen trockenen Zufluchtsort voller Kultur. Am Nachmittag erkunden wir das Volksmuseum und die Klepp-Kirche, die Schutz vor dem Wetter bieten. Der Abend endet auf dem Kleppevarden, wo der Nebel dem Aussichtspunkt eine mystische Note verleiht.",
+            "hu": "A reggel a Grudevatn madárleseinél indul, ahol az eső kopogása ritmusos hátteret ad a természetjáráshoz. Délben a Kristinahuset történelmi falai nyújtanak menedéket a szitáló eső elől. Délután a néprajzi múzeum és a templom belső tereit fedezzük fel szárazon. Az estét a Kleppevarden szikláin zárjuk, ahol a felhők közül néha előbukkanó fények különleges hangulatot árasztanak a táj felett.",
+            "ro": "Dimineața începe la Grudevatn, unde ploaia măruntă adaugă o notă melancolică peisajului natural bogat. La prânz, refugiul oferit de Kristinahuset este ideal pentru a învăța istorie locală rămânând uscat. După-amiaza explorăm Muzeul Satului și biserica, profitând de spațiile interioare primitoare. Seara se încheie la Kleppevarden, unde briza umedă și luminile orașului creează o atmosferă deosebită.",
+            "en": "Morning starts at Grudevatn, where the falling rain creates a serene atmosphere over the wetlands. By noon, the historic Kristinahuset provides a dry and cultural sanctuary from the drizzle. Afternoon is spent exploring the folk museum and Klepp Church, both offering warmth and shelter. Evening concludes at Kleppevarden, where the mist rolling over the hills adds a mystical touch to the view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Naturschutzgebiet Grudevatn",
+                "hu": "Grudevatn Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Grudevatn",
+                "en": "Grudevatn Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Beobachtungshütten am Seeufer, um die Wasservögel im Regen trocken zu beobachten; wasserfeste Wanderschuhe sind für die matschigen Pfade unerlässlich.",
+                "hu": "Használja a tóparti fedett madárleseket a vízi világ megfigyeléséhez esős időben is; a mocsaras ösvényeken a vízálló túrabakancs elengedhetetlen kellék a sár miatt.",
+                "ro": "Folosiți foișoarele acoperite pentru observarea păsărilor în timp ce plouă, asigurându-vă că purtați încălțăminte impermeabilă pentru potecile noroioase de pe malul lacului.",
+                "en": "Use the covered bird-watching huts to observe the wetland wildlife while staying dry; waterproof hiking boots are essential for the muddy lakeside paths after rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Grudevatn Tierschutzgebiet",
+                "hu": "Grudevatn Állatvédelmi Terület",
+                "ro": "Sanctuarul de Animale Grudevatn",
+                "en": "Grudevatn Animal Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Baumkronen am Wegrand und beobachten Sie, wie die Natur den Regen aufnimmt; achten Sie auf rutschige Wurzeln auf den Waldwegen.",
+                "hu": "Keressen menedéket az ösvény melletti sűrű lombok alatt, és figyelje meg, hogyan frissül fel a természet az esőtől; ügyeljen a csúszós gyökerekre az erdei utakon.",
+                "ro": "Căutați adăpost sub coronamentul des al copacilor și observați cum natura se revigorează sub ploaie; aveți grijă la rădăcinile alunecoase de pe potecile din pădure.",
+                "en": "Seek shelter under the thick tree canopies and watch how nature refreshes during the rain; be careful of slippery tree roots crossing the forest pathways."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristinahuset",
+                "hu": "Kristinahuset",
+                "ro": "Kristinahuset",
+                "en": "Kristinahuset"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in diesem historischen Haus, während draußen der Regen fällt; die Innenräume bieten eine perfekte, trockene Geschichtsstunde.",
+                "hu": "Élvezze a történelmi ház meghitt hangulatát, miközben odakint esik az eső; a belső terek tökéletes és száraz helyszínt biztosítanak egy kis helyi történelemhez.",
+                "ro": "Bucurați-vă de atmosfera primitoare a acestei case istorice în timp ce afară plouă; interioarele oferă o lecție de istorie locală într-un mediu perfect uscat.",
+                "en": "Enjoy the cozy atmosphere of this historic house while the rain falls outside; the interiors offer a perfect, dry setting for learning about local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Volksmuseum Klepp",
+                "hu": "Klepp Néprajzi Múzeum",
+                "ro": "Muzeul Satului Klepp",
+                "en": "Klepp Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie mehr Zeit in den verschiedenen Museumsgebäuden, um dem Wetter zu entfliehen; die Ausstellungen sind ein idealer Rückzugsort für regnerische Nachmittage.",
+                "hu": "Töltsön több időt a múzeum különféle épületeiben, hogy elmeneküljön az időjárás elől; a kiállítások ideális menedéket nyújtanak az esős délutánokon.",
+                "ro": "Petreceți mai mult timp în diversele clădiri ale muzeului pentru a scăpa de ploaie; expozițiile sunt un refugiu ideal pentru după-amiezi ploioase.",
+                "en": "Spend more time inside the various museum buildings to escape the weather; the exhibitions are an ideal sanctuary for rainy afternoon explorations."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Klepp",
+                "hu": "Klepp templom",
+                "ro": "Biserica Klepp",
+                "en": "Klepp Church"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Kirche bietet einen friedlichen Ort zum Aufwärmen und Trocknen; bewundern Sie die Architektur, während Sie den Regen sanft gegen die Fenster klopfen hören.",
+                "hu": "A csendes templom békés helyet kínál a felmelegedéshez és a száradáshoz; csodálja meg az építészetet, miközben hallgatja az eső kopogását az ablakokon.",
+                "ro": "Biserica liniștită oferă un loc pașnic pentru a vă încălzi și usca; admirați arhitectura în timp ce auziți ploaia bătând ușor în ferestrele înalte.",
+                "en": "The quiet church offers a peaceful place to warm up and dry off; admire the architecture while listening to the rain gently tapping against the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleppevarden",
+                "hu": "Kleppevarden",
+                "ro": "Kleppevarden",
+                "en": "Kleppevarden"
+              },
+              "tip_5lang": {
+                "de": "Trotz des Regens ist die Aussicht oft dramatisch und sehenswert; tragen Sie eine gute Regenjacke, da der Wind auf der Anhöhe die Feuchtigkeit verstärkt.",
+                "hu": "Az eső ellenére a kilátás gyakran drámai és lenyűgöző; viseljen jó esőkabátot, mert a dombtetőn a szél felerősítheti a nedvességérzetet.",
+                "ro": "În ciuda ploii, priveliștea este adesea dramatică și merită văzută; purtați o jachetă impermeabilă bună, deoarece vântul de pe deal accentuează umiditatea.",
+                "en": "Despite the rain, the view is often dramatic and worth seeing; wear a high-quality raincoat as the wind on the hill can increase the feeling of wetness."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen erwartet Sie am Grudevatn, wo Reif die Landschaft verzaubert. Mittags bietet das Kristinahuset eine warme Zeitreise in die lokale Geschichte. Am Nachmittag laden das Volksmuseum und die Kirche zum Verweilen ein, bevor gegen 17:00 Uhr die frühe Dunkelheit einsetzt. Der Abend endet mit einem kühlen, aber sternenklaren Blick vom Kleppevarden auf die Lichter der Stadt.",
+            "hu": "A reggel a Grudevatn fagyos nádasai között indul, ahol a zúzmara ékszerekké változtatja a tájat. Délben a Kristinahuset meleg belső terei nyújtanak menedéket a csípős norvég szél elől. Délután a néprajzi múzeum kiállításai és a templom nyugalma vár minket a korai sötétedés előtt. Az este a Kleppevarden csúcsán ér utol, ahonnan a téli szürkületben látszanak a pislákoló fények.",
+            "ro": "O dimineață geroasă vă așteaptă la Grudevatn, unde chiciura transformă peisajul într-un regat de gheață. La prânz, Kristinahuset oferă o călătorie caldă în istoria locală. După-amiaza, Muzeul Satului și biserica sunt locuri ideale de vizitat înainte de apusul devreme de la ora 17:00. Seara se încheie cu o priveliște rece, dar senină, de pe Kleppevarden.",
+            "en": "A frosty morning awaits at Grudevatn, where hoarfrost turns the landscape into a winter wonderland. By noon, Kristinahuset offers a warm journey into local history. The afternoon features the folk museum and church before the early sunset around 5:00 PM. Evening finishes with a crisp, starlit view from Kleppevarden over the twinkling city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Naturschutzgebiet Grudevatn",
+                "hu": "Grudevatn Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Grudevatn",
+                "en": "Grudevatn Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bizarren Eisformationen am Seeufer bei Sonnenaufgang; tragen Sie Thermoschichten, da der eisige Wind über die offene Wasserfläche schneidend ist.",
+                "hu": "Csodálja meg a különleges jégképződményeket a tóparton napfelkeltekor; viseljen termo ruházatot, mert a nyílt víz felől fújó jeges szél nagyon metsző lehet.",
+                "ro": "Admirați formațiunile de gheață bizare de pe malul lacului la răsărit; purtați straturi termice, deoarece vântul înghețat de peste apă este foarte tăios.",
+                "en": "Admire the unique ice formations along the lakeshore at sunrise; wear thermal layers as the icy wind blowing across the open water can be very piercing."
+              }
+            },
+            {
+              "name": {
+                "de": "Grudevatn Tierschutzgebiet",
+                "hu": "Grudevatn Állatvédelmi Terület",
+                "ro": "Sanctuarul de Animale Grudevatn",
+                "en": "Grudevatn Animal Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die winterharten Vögel im kahlen Geäst; achten Sie auf gefrorene Pfützen auf den Wegen, die unter dem Schnee verborgen und sehr glatt sein können.",
+                "hu": "Figyelje meg a télálló madarakat a kopasz ágak között; ügyeljen a hó alatt rejtőző fagyott tócsákra az utakon, amelyek rendkívül csúszósak lehetnek.",
+                "ro": "Observați păsările rezistente la frig printre ramurile golașe; aveți grijă la bălțile înghețate de pe poteci, care pot fi ascunse sub zăpadă și sunt foarte alunecoase.",
+                "en": "Observe the hardy winter birds among the bare branches; watch out for frozen puddles on the paths, which might be hidden under snow and very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristinahuset",
+                "hu": "Kristinahuset",
+                "ro": "Kristinahuset",
+                "en": "Kristinahuset"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Räume bieten einen gemütlichen Rückzugsort vor der Winterkälte; nutzen Sie den Besuch, um sich aufzuwärmen und gleichzeitig Kultur zu genießen.",
+                "hu": "A történelmi szobák meghitt menedéket nyújtanak a téli hideg elől; használja ki a látogatást a felmelegedésre, miközben élvezi a helyi kultúrát.",
+                "ro": "Camerele istorice oferă un refugiu primitor împotriva gerului iernii; profitați de vizită pentru a vă încălzi în timp ce savurați cultura locală.",
+                "en": "The historic rooms provide a cozy retreat from the winter cold; use the visit to warm up while simultaneously enjoying the rich local culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Volksmuseum Klepp",
+                "hu": "Klepp Néprajzi Múzeum",
+                "ro": "Muzeul Satului Klepp",
+                "en": "Klepp Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen in den geheizten Gebäuden, um die Kälte draußen zu vergessen; die winterliche Stille verleiht dem Museumsdorf einen besonderen Charme.",
+                "hu": "Fedezze fel a fűtött épületekben található kiállításokat, hogy elfelejtse a kinti hideget; a téli csend különleges bájt kölcsönöz a múzeumfalunak.",
+                "ro": "Explorați expozițiile din clădirile încălzite pentru a uita de frigul de afară; liniștea iernii conferă satului muzeu un farmec aparte și relaxant.",
+                "en": "Explore the exhibitions inside the heated buildings to forget the cold outside; the winter silence gives the museum village a special and serene charm."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Klepp",
+                "hu": "Klepp templom",
+                "ro": "Biserica Klepp",
+                "en": "Klepp Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag, wenn das warme Licht im Inneren einen starken Kontrast zur blauen Stunde draußen bildet; perfekt zum Innehalten.",
+                "hu": "Látogassa meg a templomot késő délután, amikor a benti meleg fények éles kontrasztban állnak a kinti kék órával; tökéletes hely az elcsendesedéshez.",
+                "ro": "Vizitați biserica după-amiaza târziu, când luminile calde din interior contrastează puternic cu ora albastră de afară; locul perfect pentru reflecție.",
+                "en": "Visit the church in the late afternoon when the warm indoor lights contrast sharply with the blue hour outside; it is a perfect spot for quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleppevarden",
+                "hu": "Kleppevarden",
+                "ro": "Kleppevarden",
+                "en": "Kleppevarden"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig zum Sonnenuntergang um 17:00 Uhr, um die weite Winterlandschaft im Dämmerlicht zu sehen; Handschuhe und Mütze sind wegen des Winds ein Muss.",
+                "hu": "Érkezzen időben az 17:00 órai naplementéhez, hogy lássa a téli tájat a szürkületben; a szél miatt a kesztyű és sapka elengedhetetlen a dombtetőn.",
+                "ro": "Arribați la timp pentru apusul de la ora 17:00 pentru a vedea peisajul de iarnă în amurg; mănușile și căciula sunt obligatorii din cauza vântului de pe deal.",
+                "en": "Arrive in time for the 5:00 PM sunset to view the vast winter landscape in the twilight; gloves and a hat are mandatory due to the biting wind on the hill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "M: Tekerjen a történelmi Bore kyrkje és ősi temetője felé, élvezve a norvég vidék csendes reggeli szellőjét.\nMid: Kerékpározzon északra a Grudevatn naturreservathoz egy természetközeli pihenőre, mielőtt felfedezné a Kristinahuset építészetét.\nA: Térjen vissza Kleppe központjába, hogy megismerje a mezőgazdasági hagyományokat a múzeumban, és meglátogassa a helyi templomot.\nE: Fejezze be kerékpáros kalandját egy enyhe emelkedővel a Kleppevardenhez, ahonnan lenyűgöző kilátás nyílik a környező tájra.",
         "ro": "M: Pedalați spre istorica Bore kyrkje și cimitirul său antic, bucurându-vă de briza calmă a dimineții din mediul rural norvegian.\nMid: Mergeți cu bicicleta spre nord până la Grudevatn naturreservat pentru o pauză în natură înainte de a explora Kristinahuset.\nA: Întoarceți-vă în centrul orașului Kleppe pentru a afla despre tradițiile agricole la muzeu și vizitați biserica locală.\nE: Încheiați aventura cu bicicleta cu o urcare blândă spre Kleppevarden, admirând priveliștile vaste ale peisajelor înconjurătoare.",
         "en": "M: Pedal your way to the historic Bore kyrkje and its ancient cemetery, enjoying the calm morning breeze of the Norwegian countryside.\nMid: Cycle north to the Grudevatn naturreservat for a peaceful nature break before exploring the charming architecture of Kristinahuset.\nA: Ride back into the center of Kleppe to learn about agricultural traditions at the museum and visit the striking local church.\nE: Cap off your cycling adventure with a gentle ascent to Kleppevarden, taking in the sweeping views of the surrounding landscapes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender, regnerischer Start führt zur Bore-Kirche, wo die nassen Steine glänzen. Mittags radeln wir zum Grudevatn und nutzen die Vogelhütten als trockene Rastplätze. Der Nachmittag steht im Zeichen der Kultur in Kleppe, geschützt in den Museen vor den Schauern. Am Abend erreichen wir den Kleppevarden, wo die feuchte Luft die weite Aussicht besonders klar erscheinen lässt.",
+            "hu": "A reggel frissítő esőben indul a Bore templom felé, ahol a nedves kövek csillognak a szürkületben. Délben a Grudevatn madárleseit használjuk száraz pihenőhelyként a tekerés közben. A délután Kleppe múzeumaiban telik, védve az újabb záporoktól. Estére érjük el a Kleppevarden csúcsát, ahol a párás levegő különleges élességet ad a távoli kilátásnak.",
+            "ro": "Dimineața începe cu o tură răcoroasă pe ploaie spre Biserica Bore, unde pietrele umede strălucesc. La prânz, folosim observatoarele de la Grudevatn ca locuri de odihnă uscate. După-amiaza este dedicată culturii în Kleppe, fiind protejați în muzee de aversele trecătoare. Seara ajungem la Kleppevarden, unde aerul umed face ca vederea panoramică să pară neobișnuit de clară.",
+            "en": "A refreshing, rainy start leads to Bore Church, where the wet stones glisten in the gray light. By noon, we cycle to Grudevatn and use the bird huts as dry resting spots. The afternoon is spent enjoying local culture in Kleppe’s museums, shielded from the showers. In the evening, we reach Kleppevarden, where the humid air makes the wide view appear remarkably clear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Bore",
+                "hu": "Bore templom",
+                "ro": "Biserica Bore",
+                "en": "Bore Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach, während Sie die Architektur bewundern; parken Sie Ihr Fahrrad auf festem Untergrund, da die Wiesen nebenan sehr weich und matschig sind.",
+                "hu": "Keressen menedéket az előtető alatt, miközben az építészetet csodálja; parkolja a biciklit szilárd talajra, mert a mellette lévő füves terület nagyon felázik.",
+                "ro": "Căutați adăpost sub pridvor în timp ce admirați arhitectura; parcați bicicleta pe teren solid, deoarece iarba din jur devine foarte moale și noroioasă.",
+                "en": "Seek shelter under the porch while admiring the architecture; park your bike on solid ground as the surrounding grass becomes very soft and muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Friedhof von Bore",
+                "hu": "Bore Régi Temető",
+                "ro": "Vechiul Cimitir Bore",
+                "en": "Bore Old Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, stimmungsvoller Stopp im Regen; achten Sie auf die rutschigen Steinpfade zwischen den Gräbern und tragen Sie rutschfeste Fahrradschuhe.",
+                "hu": "Rövid, hangulatos megálló az esőben; ügyeljen a sírok közötti csúszós kőösvényekre, és viseljen jó tapadású kerékpáros cipőt a biztonság érdekében.",
+                "ro": "O oprire scurtă și plină de atmosferă în ploaie; aveți grijă la potecile de piatră alunecoase dintre morminte și purtați încălțăminte de bicicletă aderentă.",
+                "en": "A short, atmospheric stop in the rain; watch out for slippery stone paths between the graves and wear high-grip cycling shoes for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Grudevatn",
+                "hu": "Grudevatn Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Grudevatn",
+                "en": "Grudevatn Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Vogelhütten sind ideal, um eine Regenpause einzulegen; stellen Sie sicher, dass Ihre Bremsen gut funktionieren, da die Wege zum Ufer bei Nässe rutschig sind.",
+                "hu": "A madárlesek ideálisak egy kis esőpihenőre; ellenőrizze a fékeket, mert a tóparti utak nedvesen csúszósak, és a fékút jelentősen meghosszabbodhat.",
+                "ro": "Observatoarele sunt ideale pentru o pauză de ploaie; asigurați-vă că frânele funcționează bine, deoarece drumurile spre mal sunt alunecoase când sunt ude.",
+                "en": "The bird huts are ideal for taking a break from the rain; ensure your brakes are working well, as the lakeside paths are slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristinahuset",
+                "hu": "Kristinahuset",
+                "ro": "Kristinahuset",
+                "en": "Kristinahuset"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um sich aufzuwärmen und Ihre Regenkleidung kurz zu lüften; das Haus bietet einen charmanten, trockenen Einblick in die Vergangenheit.",
+                "hu": "Használja ki ezt a megállót a felmelegedésre és az esőruházat rövid szárítására; a ház bájos és száraz betekintést nyújt a múltba a záporok idején.",
+                "ro": "Folosiți această oprire pentru a vă încălzi și a vă aerisi puțin echipamentul de ploaie; casa oferă o perspectivă fermecătoare și uscată asupra trecutului.",
+                "en": "Use this stop to warm up and briefly air out your rain gear; the house offers a charming, dry insight into the past during heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Volksmuseum Klepp",
+                "hu": "Klepp Néprajzi Múzeum",
+                "ro": "Muzeul Satului Klepp",
+                "en": "Klepp Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um das Fahrrad kurz abzustellen und die Ausstellungen im Trockenen zu genießen; die Wege zwischen den Gebäuden können bei Regen pfützig sein.",
+                "hu": "Tökéletes hely a bicikli leállítására és a kiállítások szárazon történő élvezetére; az épületek közötti utak esőben tócsásak és sárosak lehetnek.",
+                "ro": "Un loc perfect pentru a lăsa bicicleta și a vă bucura de expoziții la adăpost; potecile dintre clădiri pot fi pline de bălți și noroi în timpul ploii.",
+                "en": "A perfect place to park your bike and enjoy the exhibitions in the dry; the paths between the buildings can be full of puddles and mud during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Klepp",
+                "hu": "Klepp templom",
+                "ro": "Biserica Klepp",
+                "en": "Klepp Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, während das Fahrrad draußen unter einem Baum etwas Schutz findet; die Kirche ist ein idealer Ort für eine besinnliche Pause.",
+                "hu": "Élvezze a benti nyugalmat, miközben a bicikli odakint egy fa alatt talál némi védelmet; a templom ideális hely egy elcsendesedő pihenőhöz az esőben.",
+                "ro": "Bucurați-vă de liniștea din interior, în timp ce bicicleta găsește puțin adăpost sub un copac; biserica este un loc ideal pentru o pauză reflexivă.",
+                "en": "Enjoy the peace inside while your bike finds some shelter under a tree outside; the church is an ideal spot for a contemplative break during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleppevarden",
+                "hu": "Kleppevarden",
+                "ro": "Kleppevarden",
+                "en": "Kleppevarden"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg mit dem Rad ist bei Regen anstrengend, aber die dramatische Aussicht belohnt die Mühe; achten Sie bei der Abfahrt auf glatte Fahrbahnabschnitte.",
+                "hu": "A felkapaszkodás biciklivel esőben fárasztó, de a drámai kilátás jutalmazza a fáradságot; a lefelé vezető úton ügyeljen a rendkívül csúszós útszakaszokra.",
+                "ro": "Urcarea cu bicicleta pe ploaie este obositoare, dar priveliștea dramatică răsplătește efortul; aveți mare grijă la secțiunile alunecoase în timpul coborârii.",
+                "en": "Climbing up by bike in the rain is tiring, but the dramatic view rewards the effort; be extremely careful of slippery road sections during the descent."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter, aber klarer Morgen führt zur Bore-Kirche durch die frostige Landschaft. Mittags radeln wir am Grudevatn entlang, wo der Wind vom See eine warme Mütze unter dem Helm erfordert. Der Nachmittag gehört den warmen Museen in Kleppe, bevor die Sonne früh sinkt. Der Abend endet auf dem Kleppevarden, wo wir die Winterdämmerung und die ersten Lichter der Region bewundern.",
+            "hu": "A reggel hideg, de tiszta időben indul a Bore templom felé a zúzmarás tájon át. Délben a Grudevatn mentén tekerünk, ahol a tavi szél miatt elengedhetetlen a meleg sapka a sisak alatt. A délutánt Kleppe fűtött múzeumaiban töltjük, mielőtt a nap korán lenyugszik. Az este a Kleppevardenen zárul, megcsodálva a téli szürkületet és a környék fényeit.",
+            "ro": "Dimineața este rece dar senină spre Biserica Bore, prin peisajul înghețat. La prânz, pedalăm de-a lungul Grudevatn, unde vântul de pe lac impune o căciulă caldă sub cască. După-amiaza aparține muzeelor încălzite din Kleppe, înainte ca soarele să apună devreme. Seara se încheie pe Kleppevarden, admirând amurgul de iarnă și primele lumini ale regiunii.",
+            "en": "A cold but clear morning leads to Bore Church through the frosty landscape. By noon, we cycle along Grudevatn, where the lake wind requires a warm cap under your helmet. The afternoon is spent in the heated museums of Kleppe before the sun sets early. Evening concludes on Kleppevarden, admiring the winter twilight and the region's first lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Bore",
+                "hu": "Bore templom",
+                "ro": "Biserica Bore",
+                "en": "Bore Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte Schönheit der Kirche im Winterlicht; achten Sie beim Absteigen auf Eisplatten auf dem Parkplatz und tragen Sie warme Handschuhe.",
+                "hu": "Csodálja meg a templom letisztult szépségét a téli fényben; leszálláskor ügyeljen a parkoló jeges foltjaira, és viseljen vastag, bélelt kesztyűt.",
+                "ro": "Admirați frumusețea simplă a bisericii în lumina iernii; aveți grijă la porțiunile de gheață din parcare când coborâți de pe bicicletă și purtați mănuși calde.",
+                "en": "Admire the simple beauty of the church in the winter light; watch out for ice patches in the parking lot when dismounting and wear thick, warm gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Friedhof von Bore",
+                "hu": "Bore Régi Temető",
+                "ro": "Vechiul Cimitir Bore",
+                "en": "Bore Old Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Grabsteine wirken im Winter sehr andächtig; bewegen Sie sich vorsichtig auf den schmalen Pfaden, die bei Frost sehr glatt sein können.",
+                "hu": "A fagyott sírkövek télen nagyon áhítatos hangulatot árasztanak; mozogjon óvatosan a keskeny ösvényeken, amelyek fagy idején rendkívül csúszósak lehetnek.",
+                "ro": "Pietrele funerare înghețate par foarte solemne iarna; deplasați-vă cu atenție pe potecile înguste, care pot fi extrem de alunecoase în caz de îngheț.",
+                "en": "The frozen tombstones look very solemn in winter; move carefully on the narrow paths, which can be extremely slippery during freezing conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Grudevatn",
+                "hu": "Grudevatn Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Grudevatn",
+                "en": "Grudevatn Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Der Weg am See kann durch gefrorene Pfützen tückisch sein; nutzen Sie die Vogelhütten für eine kurze Pause im Windschatten und trinken Sie einen warmen Tee.",
+                "hu": "A tóparti út a fagyott tócsák miatt trükkös lehet; használja a madárleseket egy rövid pihenőre a szélvédett helyen, és igyon egy korty meleg teát.",
+                "ro": "Drumul de pe malul lacului poate fi înșelător din cauza bălților înghețate; folosiți foișoarele pentru o scurtă pauză la adăpost de vânt și beți un ceai cald.",
+                "en": "The lakeside path can be tricky due to frozen puddles; use the bird huts for a short break sheltered from the wind and have a sip of warm tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Kristinahuset",
+                "hu": "Kristinahuset",
+                "ro": "Kristinahuset",
+                "en": "Kristinahuset"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte kurz zu vergessen und die historische Wärme im Inneren zu genießen; parken Sie Ihr Rad sicher, damit es auf Glatteis nicht umkippt.",
+                "hu": "Ideális hely, hogy rövid időre elfelejtse a hideget és élvezze a benti történelmi melegséget; parkolja le biztonságosan a biciklit, hogy ne dőljön el a jégen.",
+                "ro": "Un loc ideal pentru a uita scurt de frig și a vă bucura de căldura istorică din interior; parcați bicicleta în siguranță pentru a nu se răsturna pe gheață.",
+                "en": "An ideal place to briefly forget the cold and enjoy the historical warmth inside; park your bike securely so it doesn't tip over on any black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Volksmuseum Klepp",
+                "hu": "Klepp Néprajzi Múzeum",
+                "ro": "Muzeul Satului Klepp",
+                "en": "Klepp Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume zur Regeneration Ihrer Kräfte für die Weiterfahrt; achten Sie auf den Gehwegen zwischen den Häusern auf gestreutes Granulat.",
+                "hu": "Használja a fűtött helyiségeket az ereje regenerálására a folytatáshoz; az épületek közötti gyalogutakon figyeljen a csúszásmentesítő szóróanyagra.",
+                "ro": "Folosiți încăperile încălzite pentru a vă recupera forțele înainte de a continua drumul; aveți grijă la materialul antiderapant de pe aleile dintre case.",
+                "en": "Use the heated rooms to regenerate your energy for the rest of the ride; watch out for grit or salt on the walkways between the historical buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Klepp",
+                "hu": "Klepp templom",
+                "ro": "Biserica Klepp",
+                "en": "Klepp Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Pause vor dem winterlichen Wind; planen Sie Ihren Aufenthalt so, dass Sie vor der frühen Dunkelheit am Aussichtspunkt sind.",
+                "hu": "A templom békés pihenőt kínál a téli szél elől; tervezze úgy a tartózkodást, hogy még a korai sötétedés előtt felérjen a kilátóponthoz.",
+                "ro": "Biserica oferă o pauză liniștită ferită de vântul iernii; planificați-vă șederea astfel încât să ajungeți la punctul de belvedere înainte de lăsarea serii.",
+                "en": "The church offers a peaceful break from the winter wind; plan your stay so that you reach the viewpoint before the early onset of darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleppevarden",
+                "hu": "Kleppevarden",
+                "ro": "Kleppevarden",
+                "en": "Kleppevarden"
+              },
+              "tip_5lang": {
+                "de": "Die Winterdämmerung um 17:00 Uhr ist vom Gipfel aus spektakulär; ziehen Sie sich für den Stopp eine extra Schicht an, da die Kälte bei Stillstand schnell einzieht.",
+                "hu": "Az 17:00 órai téli szürkület a csúcsról nézve látványos; vegyen fel egy plusz réteget a megálló idejére, mert megállva a hideg gyorsan átjárja az embert.",
+                "ro": "Amurgul de iarnă de la ora 17:00 este spectaculos văzut de pe vârf; puneți-vă un strat în plus pentru oprire, deoarece frigul se simte imediat ce staționați.",
+                "en": "The winter twilight at 5:00 PM is spectacular from the summit; put on an extra layer during the stop, as the cold sets in quickly once you stop moving."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "M: Kezdje autós túráját a kiterjedt Stokkelandsvatnetnél, amely ideális hely egy békés reggeli sétához a vízparton.\nMid: Vezessen nyugat felé a part felé, hogy meglátogassa a történelmi Bore helyszíneket, mielőtt elmerülne a mezőgazdasági történelemben.\nA: Tegyen egy festői utat délre az Orrevatnethez, egy nagy és festői tóhoz, amely kiváló madármegfigyeléséről és nyugalmáról ismert.\nE: Fejezze be utazását a csendes Horpestadvatnetnél, élvezve az esti fény tükröződését a vízen, mielőtt hazaindulna.",
         "ro": "M: Începeți turul cu mașina la întinsul Stokkelandsvatnet, un loc ideal pentru o plimbare matinală liniștită pe malul apei.\nMid: Conduceți spre vest către coastă pentru a vizita siturile istorice Bore înainte de a aprofunda istoria agricolă la muzeu.\nA: Urmați un traseu pitoresc spre sud până la Orrevatnet, un lac mare și pitoresc cunoscut pentru observarea excelentă a păsărilor.\nE: Încheiați-vă călătoria la liniștitul Horpestadvatnet, bucurându-vă de reflexia tăcută a luminii de seară pe apă.",
         "en": "M: Start your driving tour at the expansive Stokkelandsvatnet, an ideal spot for a peaceful morning stroll along the water's edge.\nMid: Cruise west towards the coast to visit the historic Bore sites before delving into local farming history at the Klepp bygdemuseum.\nA: Take a scenic route south to Orrevatnet, a large and picturesque lake known for its excellent birdwatching and calming environment.\nE: End your journey at the tranquil Horpestadvatnet, enjoying the quiet reflection of the evening light on the water before heading home."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Morgen beginnt mit einer Fahrt zum Stokkelandsvatnet, wo Sie den Regen auf dem See vom Auto aus genießen können. Mittags besuchen wir die Bore-Kirche und das Volksmuseum, ideale Orte, um trocken zu bleiben. Der Nachmittag führt uns zu den Seen Orre und Horpestad durch die verregnete Landschaft. Der Abend klingt entspannt aus, während die Regentropfen gegen die Scheiben klopfen.",
+            "hu": "A reggel kényelmes autózással indul a Stokkelandsvatnet tóhoz, ahol a fűtött autóból figyelhetjük az esőcseppeket a vízen. Délben a Bore templomot és a néprajzi múzeumot látogatjuk meg, amelyek ideálisak a szárazon maradáshoz. A délután az Orre és Horpestad tavakhoz vezet a borongós tájon át. Az este pihentetően zárul, miközben az eső kopog az autó szélvédőjén.",
+            "ro": "Dimineața începe relaxat cu o plimbare spre Stokkelandsvatnet, unde puteți admira ploaia pe lac din mașină. La prânz vizităm Biserica Bore și Muzeul Satului, locuri ideale pentru a rămâne uscat. După-amiaza ne poartă spre lacurile Orre și Horpestad prin peisajul ploios. Seara se încheie liniștit, în timp ce picăturile de ploaie bat ritmic în geamurile mașinii.",
+            "en": "A comfortable morning begins with a drive to Stokkelandsvatnet, where you can enjoy the rain over the lake from your car. By noon, we visit Bore Church and the folk museum, ideal spots for staying dry. The afternoon leads us to Orre and Horpestad lakes through the rainy landscape. The evening ends relaxingly, while raindrops tap rhythmically against the car windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stokkelandsvatnet See",
+                "hu": "Stokkelandsvatnet tó",
+                "ro": "Lacul Stokkelandsvatnet",
+                "en": "Stokkelandsvatnet Lake"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den verregneten See direkt vom Parkplatz aus; für einen kurzen Spaziergang am Ufer sollten Sie unbedingt einen Regenschirm mitnehmen.",
+                "hu": "Élvezze a kilátást az esős tóra közvetlenül a parkolóból; ha mégis tenne egy rövid sétát a parton, feltétlenül vigyen magával esernyőt.",
+                "ro": "Bucurați-vă de vederea spre lacul ploios direct din parcare; pentru o scurtă plimbare pe mal, asigurați-vă că aveți la îndemână o umbrelă.",
+                "en": "Enjoy the view of the rainy lake directly from the parking area; if you decide to take a short walk along the shore, be sure to bring an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Bore",
+                "hu": "Bore templom",
+                "ro": "Biserica Bore",
+                "en": "Bore Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken ins Innere zu gelangen; die Kirche ist ein wunderbarer Ort, um der Hektik des Regens für einen Moment zu entfliehen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be az épületbe; a templom csodálatos hely, hogy egy pillanatra elmeneküljön az eső zaja elől.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în interior; biserica este un loc minunat pentru a scăpa pentru un moment de agitația ploii de afară.",
+                "en": "Park close to the entrance to reach the interior while staying dry; the church is a wonderful place to escape the rush of the rain for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Friedhof von Bore",
+                "hu": "Bore Régi Temető",
+                "ro": "Vechiul Cimitir Bore",
+                "en": "Bore Old Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Stopp, bei dem der Regen die Farben der alten Steine vertieft; achten Sie beim Aussteigen auf Pfützen in den tiefer liegenden Bereichen.",
+                "hu": "Hangulatos megálló, ahol az eső elmélyíti a régi kövek színeit; kiszálláskor ügyeljen az alacsonyabban fekvő területeken kialakuló mélyebb tócsákra.",
+                "ro": "O oprire plină de atmosferă unde ploaia intensifică culorile pietrelor vechi; aveți grijă la bălțile din zonele mai joase când coborâți din mașină.",
+                "en": "An atmospheric stop where the rain deepens the colors of the old stones; watch out for puddles in the lower-lying areas when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Volksmuseum Klepp",
+                "hu": "Klepp Néprajzi Múzeum",
+                "ro": "Muzeul Satului Klepp",
+                "en": "Klepp Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen in den verschiedenen Gebäuden bieten viel Abwechslung im Trockenen; nutzen Sie die Zeit für eine ausführliche Besichtigung der Innenräume.",
+                "hu": "A különféle épületekben található kiállítások bőséges látnivalót kínálnak szárazon; használja ki az időt a belső terek alapos és nyugodt megtekintésére.",
+                "ro": "Expozițiile din diversele clădiri oferă multe atracții la adăpost de ploaie; profitați de timp pentru o vizitare detaliată a spațiilor interioare.",
+                "en": "The exhibitions in the various buildings offer plenty of variety while staying dry; take your time for a thorough and relaxed tour of the interiors."
+              }
+            },
+            {
+              "name": {
+                "de": "Orrevatnet See",
+                "hu": "Orrevatnet tó",
+                "ro": "Lacul Orrevatnet",
+                "en": "Orrevatnet Lake"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel des Regens auf der weiten Wasserfläche vom Auto aus; die Straßen am See können bei starkem Regen stellenweise Wasseransammlungen haben.",
+                "hu": "Figyelje meg az eső játékát a hatalmas vízfelületen az autóból; a tó körüli utakon heves esőzéskor helyenként vízátfolyások alakulhatnak ki.",
+                "ro": "Observați jocul ploii pe suprafața vastă a apei din mașină; drumurile din jurul lacului pot prezenta acumulări de apă în timpul ploilor torențiale.",
+                "en": "Watch the play of the rain on the vast water surface from your car; the roads around the lake may have water accumulation during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Horpestadvatnet See",
+                "hu": "Horpestadvatnet tó",
+                "ro": "Lacul Horpestadvatnet",
+                "en": "Horpestadvatnet Lake"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss des Tages, ideal für Fotos der nebligen Seenlandschaft; parken Sie sicher am Rand und genießen Sie die melancholische Stimmung.",
+                "hu": "A nap csendes lezárása, ideális a ködös tóvidék fotózásához; parkoljon biztonságosan az út szélén, és élvezze a táj melankolikus hangulatát.",
+                "ro": "O încheiere liniștită a zilei, ideală pentru fotografii ale peisajului cețos; parcați în siguranță pe margine și bucurați-vă de atmosfera melancolică.",
+                "en": "A quiet conclusion to the day, ideal for photos of the misty lakeside; park safely at the edge and enjoy the melancholic atmosphere of the scenery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt am Stokkelandsvatnet, dessen Ufer oft von Eis gesäumt sind. Mittags bieten die Bore-Kirche und das Volksmuseum gemütliche Wärme und faszinierende Einblicke. Am Nachmittag fahren wir zu den gefrorenen Seen Orre und Horpestad, bevor gegen 17:00 Uhr die Dunkelheit einsetzt. Der Tag endet entspannt mit einer Fahrt durch die winterlich beleuchtete Region.",
+            "hu": "A fagyos téli reggel a Stokkelandsvatnet tónál indul, melynek partját gyakran jég szegélyezi. Délben a Bore templom és a néprajzi múzeum kínál meghitt meleget és lenyűgöző látnivalókat. Délután a befagyott Orre és Horpestad tavakhoz látogatunk, mielőtt 17:00 óra körül leszáll az éj. A nap pihentetően zárul egy autózással a téli fényekben úszó környéken.",
+            "ro": "O dimineață geroasă de iarnă începe la Stokkelandsvatnet, al cărui mal este adesea mărginit de gheață. La prânz, Biserica Bore și Muzeul Satului oferă căldură și perspective fascinante. După-amiaza mergem spre lacurile înghețate Orre și Horpestad, înainte de lăsarea întunericului în jurul orei 17:00. Ziua se încheie relaxat cu o plimbare prin regiunea luminată de iarnă.",
+            "en": "A frosty winter morning begins at Stokkelandsvatnet, whose shores are often lined with ice. By noon, Bore Church and the folk museum offer cozy warmth and fascinating insights. In the afternoon, we drive to the frozen Orre and Horpestad lakes before darkness falls around 5:00 PM. The day ends relaxingly with a drive through the winter-lit region."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stokkelandsvatnet See",
+                "hu": "Stokkelandsvatnet tó",
+                "ro": "Lacul Stokkelandsvatnet",
+                "en": "Stokkelandsvatnet Lake"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Stille des Sees vom beheizten Auto aus; achten Sie beim kurzen Aussteigen auf spiegelglatte Stellen auf dem Parkplatz.",
+                "hu": "Csodálja meg a tó téli csendjét a fűtött autóból; ha rövid időre kiszállna, ügyeljen a parkolóban előforduló tükörsima, jeges foltokra.",
+                "ro": "Admirați liniștea de iarnă a lacului din mașina încălzită; dacă coborâți scurt, aveți mare grijă la porțiunile de gheață extrem de alunecoase din parcare.",
+                "en": "Admire the winter silence of the lake from your heated car; if you step out briefly, watch out for mirror-smooth ice patches in the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Bore",
+                "hu": "Bore templom",
+                "ro": "Biserica Bore",
+                "en": "Bore Church"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Architektur wirkt im tiefstehenden Winterlicht besonders edel; nutzen Sie den Stopp, um sich in den ruhigen Innenräumen aufzuwärmen.",
+                "hu": "A letisztult építészet különösen nemesnek hat az alacsonyan járó téli napfényben; használja ki a megállót a pihenésre a nyugodt, fűtött belső térben.",
+                "ro": "Arhitectura simplă pare deosebit de nobilă în lumina joasă a iernii; profitați de oprire pentru a vă încălzi în interiorul liniștit al bisericii.",
+                "en": "The simple architecture looks particularly noble in the low-hanging winter light; use the stop to warm up in the quiet, peaceful interiors."
+              }
+            },
+            {
+              "name": {
+                "de": "Alter Friedhof von Bore",
+                "hu": "Bore Régi Temető",
+                "ro": "Vechiul Cimitir Bore",
+                "en": "Bore Old Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, andächtiger Halt bei frostigem Wind; die mit Reif bedeckten Grabsteine bieten ein schönes Fotomotiv direkt vom Straßenrand aus.",
+                "hu": "Rövid, áhítatos megálló a fagyos szélben; a zúzmarával borított sírkövek gyönyörű fotótémát kínálnak akár közvetlenül az út széléről is.",
+                "ro": "O oprire scurtă și solemnă în vântul înghețat; pietrele funerare acoperite de chiciură oferă un subiect foto frumos chiar de la marginea drumului.",
+                "en": "A short, solemn stop in the freezing wind; the tombstones covered in hoarfrost provide a beautiful photo subject even from the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Volksmuseum Klepp",
+                "hu": "Klepp Néprajzi Múzeum",
+                "ro": "Muzeul Satului Klepp",
+                "en": "Klepp Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie in den geheizten Ausstellungsräumen, um die norwegische Geschichte gemütlich zu erleben; achten Sie auf den Gehwegen auf Eis unter dem Neuschnee.",
+                "hu": "Időzzön a fűtött kiállítótermekben, hogy kényelmesen ismerje meg a norvég történelmet; az utakon figyeljen a friss hó alatt megbújó jégrétegre.",
+                "ro": "Zăboviți în sălile de expoziție încălzite pentru a experimenta istoria norvegiană confortabil; aveți grijă la gheața de sub zăpada proaspătă de pe alei.",
+                "en": "Linger in the heated exhibition rooms to experience Norwegian history comfortably; watch out for ice hidden under fresh snow on the walkways."
+              }
+            },
+            {
+              "name": {
+                "de": "Orrevatnet See",
+                "hu": "Orrevatnet tó",
+                "ro": "Lacul Orrevatnet",
+                "en": "Orrevatnet Lake"
+              },
+              "tip_5lang": {
+                "de": "Die weite Eisfläche des Sees ist im Winter beeindruckend anzusehen; halten Sie an den geräumten Aussichtspunkten und lassen Sie die Heizung im Auto an.",
+                "hu": "A tó hatalmas jégfelülete télen lenyűgöző látványt nyújt; álljon meg a megtisztított kilátópontokon, és élvezze a látványt a fűtött autóból.",
+                "ro": "Suprafața vastă de gheață a lacului este impresionantă iarna; opriți în punctele de belvedere curățate și bucurați-vă de priveliște din mașina caldă.",
+                "en": "The vast ice surface of the lake is impressive to behold in winter; stop at the cleared viewpoints and enjoy the scenery from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Horpestadvatnet See",
+                "hu": "Horpestadvatnet tó",
+                "ro": "Lacul Horpestadvatnet",
+                "en": "Horpestadvatnet Lake"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr über dem gefrorenen See; die Farben des Winterhimmels spiegeln sich wunderschön in den eisigen Rändern.",
+                "hu": "Élvezze a 17:00 óra körüli naplementét a befagyott tó felett; a téli égbolt színei gyönyörűen tükröződnek a jeges tóparti sávokon.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 peste lacul înghețat; culorile cerului de iarnă se reflectă superb în porțiunile înghețate de la mal.",
+                "en": "Enjoy the sunset around 5:00 PM over the frozen lake; the colors of the winter sky reflect beautifully in the icy margins of the water."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi szabadtéri kápolna és a festői lépcsők felfedezésével. Délben a regionális történelmet ismerheti meg a Memória Múzeumban. Délután élvezze a gyarmati hangulatot a Portal Hidalgo árkádjainál. Zárja a napot a művészeti múzeumban.",
         "ro": "Începeți dimineața explorând capela istorică și treptele pitorești. La prânz vă invităm să descoperiți istoria regională la Muzeul Memoriei. După-amiaza bucurați-vă de atmosfera colonială vibrantă la Portal Hidalgo. Încheiați ziua admirând arta la Muzeul de Artă.",
         "en": "Start your morning exploring the historic open-air chapel and the scenic stairs. Midday invites you to dive into regional history at the Memory Museum. In the afternoon, soak up the vibrant colonial atmosphere at the Portal Hidalgo arcades. Conclude your day admiring world-class fine art at the Museum of Art."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die Capilla Abierta im Schutz des Klosters, während der Regen die historischen Mauern in tiefes Rot taucht. Mittags bieten die Museen trockene Zuflucht vor den heftigen Güssen. Nachmittags spazieren Sie durch die überdachten Arkaden des Portals Hidalgo. Abends glänzen die nassen Pflastersteine der Plaza de la Constitución im warmen Licht der Laternen.",
+            "hu": "Reggel a kolostor nyitott kápolnájának árkádjai alatt kezdünk, ahol a tető véd az esőtől. Délben a város múzeumai kínálnak száraz menedéket a trópusi záporok elől. Délután a Portal Hidalgo fedett folyosóin sétálva csodálhatjuk a főteret anélkül, hogy megáznánk. Este a vizes macskaköveken megcsillanó városi fények varázsolnak romantikus hangulatot a belvárosba.",
+            "ro": "Dimineața explorăm Capilla Abierta sub protecția mănăstirii, în timp ce ploaia intensifică culorile zidurilor vechi. La prânz, muzeele oferă un refugiu uscat împotriva averselor tropicale. După-amiaza, ne plimbăm prin arcadele acoperite de la Portal Hidalgo. Seara, luminile orașului se reflectă spectaculos pe pavajul umed din centrul istoric.",
+            "en": "In the morning, explore the Capilla Abierta under the convent's shelter as rain deepens the red hues of the stone. At noon, the city's museums provide a dry sanctuary from heavy downpours. In the afternoon, stroll through the covered arcades of Portal Hidalgo to stay dry. By evening, the wet cobblestones reflect the streetlights, creating a romantic atmosphere in the square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capilla Abierta del Ex-convento",
+                "hu": "Capilla Abierta del Ex-convento",
+                "ro": "Capilla Abierta del Ex-convento",
+                "en": "Capilla Abierta del Ex-convento"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Mudéjar-Holzdecke im Inneren, während draußen der Regen auf den Klostergarten prasselt. Ein Regenschirm ist für den kurzen Weg zum Eingang unerlässlich.",
+                "hu": "Csodálja meg a mudejar stílusú fagerendás mennyezetet a fedett részek alatt, miközben hallgatja az eső kopogását. A bejárathoz vezető rövid útra vigyen esernyőt.",
+                "ro": "Admirați tavanul din lemn în stil Mudéjar stând sub arcadele acoperite, în timp ce ploaia cade peste grădina mănăstirii. Umbrela este esențială pentru drumul scurt spre intrare.",
+                "en": "Admire the Mudéjar-style wooden ceiling from beneath the covered arches while listening to the rain in the courtyard. An umbrella is essential for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Escalinatas de El Ben Vecino",
+                "hu": "Escalinatas de El Ben Vecino",
+                "ro": "Escalinatas de El Ben Vecino",
+                "en": "Escalinatas de El Ben Vecino"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die wolkenverhangene Stadt ist dramatisch, aber die Stufen sind bei Nässe extrem rutschig. Nutzen Sie unbedingt die Handläufe und tragen Sie Profilsohlen.",
+                "hu": "A felhőkbe burkolózó város látványa drámai a lépcsősor tetejéről, de a fokok ilyenkor nagyon csúszósak. Használja a korlátot és válasszon tapadós talpú cipőt.",
+                "ro": "Panorama orașului învăluit în nori este dramatică, însă treptele devin extrem de alunecoase pe ploaie. Folosiți balustrada și purtați încălțăminte cu talpă aderentă.",
+                "en": "The view of the cloud-covered city is dramatic from the top, but the stairs are extremely slippery when wet. Always use the handrails and wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Memoria",
+                "hu": "Museo de la Memoria",
+                "ro": "Museo de la Memoria",
+                "en": "Museo de la Memoria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für eine intensive Zeitreise durch die Geschichte Tlaxcalas in den trockenen Ausstellungsräumen. Taschenschirme können am Eingang deponiert werden.",
+                "hu": "Használja ki az esős időt egy alapos időutazásra Tlaxcala történelmében a száraz kiállítótermekben. Az összecsukható esernyőket a bejáratnál le lehet adni megőrzésre.",
+                "ro": "Profitați de ploaie pentru o călătorie detaliată prin istoria Tlaxcalei în sălile de expoziție uscate. Umbrelele pliabile pot fi lăsate la intrare pentru depozitare.",
+                "en": "Take advantage of the rain for an in-depth journey through Tlaxcala's history in the dry exhibition halls. Foldable umbrellas can be stored at the entrance desk."
+              }
+            },
+            {
+              "name": {
+                "de": "Portal Hidalgo",
+                "hu": "Portal Hidalgo",
+                "ro": "Portal Hidalgo",
+                "en": "Portal Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Diese historischen Arkaden sind der ideale Ort, um das Treiben auf der Plaza bei einem Kaffee trocken zu beobachten. Bleiben Sie tief unter den Bögen, um Spritzwasser zu meiden.",
+                "hu": "Ezek a történelmi árkádok tökéletes helyszínt biztosítanak a főtéri élet megfigyeléséhez egy kávé mellett. Maradjon az oszlopok mögött, hogy elkerülje a felcsapódó vizet.",
+                "ro": "Aceste arcade istorice sunt locul ideal pentru a observa agitația din piață la o cafea, fără a te uda. Stai retras sub bolți pentru a evita stropii de ploaie.",
+                "en": "These historic arches are the perfect place to watch the main square's activity over a coffee while staying dry. Stay deep under the vaults to avoid any wind-blown rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Tlaxcala",
+                "hu": "Museo de Arte de Tlaxcala",
+                "ro": "Museo de Arte de Tlaxcala",
+                "en": "Museo de Arte de Tlaxcala"
+              },
+              "tip_5lang": {
+                "de": "Die frühen Werke von Frida Kahlo wirken bei grauem Licht besonders intensiv in den gut beleuchteten Galerien. Prüfen Sie beim Verlassen, ob die Wege zur Plaza überflutet sind.",
+                "hu": "Frida Kahlo korai művei különösen intenzív élményt nyújtanak a jól megvilágított galériákban borús időben is. Távozáskor ellenőrizze, nincs-e nagyobb víztócsa a kijáratnál.",
+                "ro": "Lucrările timpurii ale Fridei Kahlo par deosebit de intense în galeriile bine iluminate, chiar și pe vreme gri. La plecare, verificați dacă trotuarele spre piață sunt inundate.",
+                "en": "Frida Kahlo's early works feel particularly intense in the well-lit galleries on a grey day. Check for large puddles near the exit before heading back to the main square."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise vom Malintzi-Vulkan, während die Sonne die Fassaden langsam aufwärmt. Mittags ist das Wetter ideal zum Wandern unter stahlblauem Himmel. Nachmittags sinken die Temperaturen spürbar, und das goldene Licht verschwindet gegen 17:00 Uhr. Abends laden die beheizten Cafés im Zentrum zu einem gemütlichen Abschluss in dicken Pullovern ein.",
+            "hu": "Reggel friss hegyi levegő fogad a Malintzi-vulkán felől, de a nap hamar felmelegíti az épületek falait. Délben az időjárás tökéletes a sétához a kristálytiszta kék ég alatt. Délután 17:00 körül már érezhetően hűl a levegő, ahogy korán nyugovóra tér a nap. Este a fűtött belvárosi kávézók nyújtanak meleg menedéket a csípős éjszaka előtt.",
+            "ro": "Dimineața, briza rece de pe vulcanul Malintzi te trezește, dar soarele încălzește rapid fațadele clădirilor. La prânz, vremea este ideală pentru plimbare sub un cer albastru intens. După-amiaza, temperatura scade brusc odată cu apusul devreme de la ora 17:00. Seara, cafenelele încălzite din centru sunt locul perfect pentru a vă relaxa cu un pulover gros.",
+            "en": "In the morning, a crisp breeze blows from the Malintzi volcano, though the sun quickly warms the historic facades. Noon is ideal for walking under clear, sapphire skies. By late afternoon, temperatures drop noticeably as the sun sets early around 17:00. In the evening, the heated cafes in the center offer a cozy escape from the chilly night air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capilla Abierta del Ex-convento",
+                "hu": "Capilla Abierta del Ex-convento",
+                "ro": "Capilla Abierta del Ex-convento",
+                "en": "Capilla Abierta del Ex-convento"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne leuchtet die Kapelle fantastisch aus und bietet perfekte Fotomotive. Tragen Sie einen Schal, da der Hügel dem kalten Wind ausgesetzt ist.",
+                "hu": "Az alacsonyan járó téli nap gyönyörűen világítja meg a kápolnát, tökéletes fotóhelyszínt kínálva. Viseljen sálat, mert a dombtetőn gyakran fúj a hideg szél.",
+                "ro": "Soarele de iarnă, aflat jos la orizont, luminează superb capela, oferind ocazii foto perfecte. Purtați un fular, deoarece dealul este expus vântului rece.",
+                "en": "The low winter sun illuminates the chapel beautifully, providing perfect lighting for photos. Wear a scarf, as the hilltop location is often exposed to cold winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Escalinatas de El Ben Vecino",
+                "hu": "Escalinatas de El Ben Vecino",
+                "ro": "Escalinatas de El Ben Vecino",
+                "en": "Escalinatas de El Ben Vecino"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht eine weite Sicht bis zu den fernen Vulkanen am Horizont. Erklimmen Sie die Stufen vor 16:30 Uhr, um das letzte Sonnenlicht zu nutzen.",
+                "hu": "A tiszta téli levegőben messzire ellátni, egészen a távoli vulkánokig a látóhatáron. Érjen fel a lépcső tetejére 16:30 előtt, hogy lássa az utolsó napsugarakat.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate excelentă până la vulcanii îndepărtați de la orizont. Urcați treptele înainte de 16:30 pentru a prinde ultima lumină a zilei.",
+                "en": "The crisp winter air offers exceptional visibility of the distant volcanoes on the horizon. Climb the stairs before 16:30 to catch the final golden light of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Memoria",
+                "hu": "Museo de la Memoria",
+                "ro": "Museo de la Memoria",
+                "en": "Museo de la Memoria"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in den klimatisierten Räumen, die im Winter oft wärmer sind als die Außenluft. Eine leichte Jacke ist für den Wechsel zwischen den Hallen ideal.",
+                "hu": "Élvezze a nyugalmat a belső terekben, amelyek télen gyakran melegebbek, mint a kinti levegő. Egy könnyű dzseki ideális a termek közötti átjáráshoz.",
+                "ro": "Bucurați-vă de liniștea din interior, unde mediul este adesea mai cald decât aerul de afară iarna. O jachetă ușoară este ideală pentru tranzitul între sălile muzeului.",
+                "en": "Enjoy the quiet atmosphere indoors, which is often warmer than the outside air during winter. A light jacket is ideal for moving between the different gallery spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Portal Hidalgo",
+                "hu": "Portal Hidalgo",
+                "ro": "Portal Hidalgo",
+                "en": "Portal Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der Sonne am Rand der Arkaden, um die Wärme aufzusaugen. Bestellen Sie eine heiße Schokolade, eine lokale Spezialität für kalte Tage.",
+                "hu": "Keressen egy napos asztalt az árkádok szélén, hogy magába szívja a téli nap melegét. Kóstolja meg a forró csokoládét, ami helyi különlegesség a hideg napokon.",
+                "ro": "Căutați un loc însorit la marginea arcadelor pentru a profita de căldura naturală. Comandați o ciocolată caldă, o specialitate locală perfectă pentru zilele reci.",
+                "en": "Find a sunny table at the edge of the arches to soak up the winter warmth. Try the local hot chocolate, a regional specialty perfect for these chilly days."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Tlaxcala",
+                "hu": "Museo de Arte de Tlaxcala",
+                "ro": "Museo de Arte de Tlaxcala",
+                "en": "Museo de Arte de Tlaxcala"
+              },
+              "tip_5lang": {
+                "de": "Die hohen Decken des Museums können kühl sein, behalten Sie also Ihre Strickjacke an. Der Rückweg zum Hotel nach Sonnenuntergang erfordert eine dicke Winterjacke.",
+                "hu": "A múzeum nagy belmagassága miatt a termek hűvösek lehetnek, érdemes magán hagyni a pulóvert. A naplemente utáni visszatéréshez már vastag kabát kell majd.",
+                "ro": "Plafoanele înalte ale muzeului pot menține răcoarea, deci păstrați puloverul pe umeri. Drumul înapoi spre cazare după apus va necesita o geacă de iarnă groasă.",
+                "en": "The museum's high ceilings can keep the air cool, so it is best to keep your sweater on. Walking back after sunset will definitely require a proper winter coat."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a túrát a Faro de la Sabiduríánál, mielőtt elteker a történelmi Ex-conventohoz. Délben élvezze a hangulatot a Portal Hidalgónál és a művészeti múzeumban. Délután látogasson el a Közösségi Múzeumba. Zárja aktív napját a Tepeticpac romoknál.",
         "ro": "Începeți plimbarea la Faro de la Sabiduría înainte de a pedala spre istoricul Ex-convento. La prânz bucurați-vă de atmosfera de la Portal Hidalgo și de arta rafinată. După-amiaza vă duce la Muzeul Comunitar. Încheiați-vă ziua activă la ruinele Tepeticpac.",
         "en": "Kick off your ride at the symbolic Faro de la Sabiduría before pedaling to the historic Ex-convento. Spend midday soaking up the local vibe at Portal Hidalgo and viewing fine art. The afternoon takes you further out to the Community Museum. End your active day at the fascinating Tepeticpac ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln Sie zügig zum Leuchtturm, bevor die ersten Wolken aufziehen. Mittags erfordert die Fahrt zum Kloster Vorsicht auf den nassen Pflastersteinen. Nachmittags nutzen Sie die Regenpausen für Sprints zwischen den Museen im Zentrum. Abends ist das Fahrrad praktisch, um schnell zwischen den überdachten Highlights zu pendeln, während die Straßenpfützen glitzern.",
+            "hu": "Reggel még gyorsan eltekerünk a világítótoronyhoz, mielőtt az első felhők megjelennének. Délben a kolostorhoz vezető úton óvatosan hajtsunk a vizes macskaköveken. Délután az esőmentes időszakokat használjuk ki a múzeumok közötti gyors váltásokra. Este a bicikli praktikus eszköz a fedett helyszínek közötti gyors mozgáshoz a csillogó pocsolyák mentén.",
+            "ro": "Dimineața pedalăm rapid spre far înainte ca primii nori să apară la orizont. La prânz, drumul spre mănăstire necesită prudență maximă pe pavajul ud. După-amiaza, folosim pauzele de ploaie pentru sprinturi între muzeele din centru. Seara, bicicleta este utilă pentru a pendula rapid între atracțiile acoperite, evitând stropii.",
+            "en": "In the morning, cycle quickly to the lighthouse before the first clouds gather. At noon, the ride to the convent requires extra caution on the wet cobblestones. In the afternoon, use gaps in the rain to sprint between the downtown museums. By evening, a bike is practical for moving fast between covered highlights while the street puddles glisten."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro de la Sabiduría",
+                "hu": "Faro de la Sabiduría",
+                "ro": "Faro de la Sabiduría",
+                "en": "Faro de la Sabiduría"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm bietet Schutz bei plötzlichen Schauern, aber der Weg dorthin kann schlammig sein. Prüfen Sie Ihre Bremsen vor der Abfahrt auf den rutschigen Wegen.",
+                "hu": "A világítótorony menedéket nyújt a hirtelen záporok elől, de az oda vezető út sáros lehet. Indulás előtt ellenőrizze a fékeket a csúszós szakaszok miatt.",
+                "ro": "Farul oferă adăpost în caz de ploaie bruscă, dar drumul până acolo poate fi noroios. Verificați frânele bicicletei înainte de a porni pe pantele alunecoase.",
+                "en": "The lighthouse offers shelter from sudden showers, but the access path can get muddy. Check your bike's brakes before starting out on these slippery slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla Abierta del Ex-convento",
+                "hu": "Capilla Abierta del Ex-convento",
+                "ro": "Capilla Abierta del Ex-convento",
+                "en": "Capilla Abierta del Ex-convento"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach des Eingangs, um den Sattel trocken zu halten. Die Steinrampen zum Kloster sind bei Regen extrem glatt für Reifen.",
+                "hu": "Parkoljon a bejáratnál lévő előtető alá, hogy a nyereg száraz maradjon. A kolostorhoz vezető kőrámpák esőben rendkívül csúszósak a gumik számára.",
+                "ro": "Parcați bicicleta sub streașina de la intrare pentru a menține șaua uscată. Rampele de piatră spre mănăstire sunt extrem de lucioase pentru anvelope pe ploaie.",
+                "en": "Park your bike under the entrance overhang to keep the seat dry. The stone ramps leading to the convent become extremely slick for bike tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Portal Hidalgo",
+                "hu": "Portal Hidalgo",
+                "ro": "Portal Hidalgo",
+                "en": "Portal Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am Rand der Portales ab und genießen Sie die Aussicht im Trockenen. Achten Sie auf Fußgänger, die unter den Arkaden Schutz suchen.",
+                "hu": "Támassza le a biciklit az árkádok szélénél, és élvezze a kilátást a fedett részen. Figyeljen az árkádok alatt menedéket kereső gyalogosokra.",
+                "ro": "Lăsați bicicleta la marginea arcadelor și bucurați-vă de priveliște de la adăpost. Atenție la pietonii care se înghesuie sub arcade pentru a se feri de ploaie.",
+                "en": "Lean your bike near the edge of the arches and enjoy the view from the dry walkway. Be mindful of pedestrians crowding under the portals for shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Tlaxcala",
+                "hu": "Museo de Arte de Tlaxcala",
+                "ro": "Museo de Arte de Tlaxcala",
+                "en": "Museo de Arte de Tlaxcala"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Regenbekleidung kurz zu lüften. Die Fahrt zurück durch die Stadt erfordert wegen der tiefen Pfützen erhöhte Aufmerksamkeit.",
+                "hu": "Használja ki a múzeumi időt az esőkabát átszellőztetésére a látogatás alatt. A visszaúton ügyeljen a mélyebb tócsákra, amelyek kátyúkat rejthetnek.",
+                "ro": "Profitați de timpul petrecut în muzeu pentru a vă usca echipamentul de ploaie. Drumul de întoarcere necesită atenție sporită din cauza bălților adânci.",
+                "en": "Use your time inside the museum to air out your rain gear. The ride back through town requires extra focus to avoid deep puddles that may hide potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Comunitario de la Antigua República de Tlaxcallan",
+                "hu": "Museo Comunitario de la Antigua República de Tlaxcallan",
+                "ro": "Museo Comunitario de la Antigua República de Tlaxcallan",
+                "en": "Museo Comunitario de la Antigua República de Tlaxcallan"
+              },
+              "tip_5lang": {
+                "de": "Ein etwas abgelegener Ort, der bei Regen angenehm leer ist. Die Straße dorthin kann bei starken Güssen Wasser führen, fahren Sie mittig auf der Fahrbahn.",
+                "hu": "Kieső helyszín, amely esőben kellemesen üres és csendes. Az ide vezető úton nagyobb vízfolyások lehetnek, próbáljon az úttest közepén haladni.",
+                "ro": "O locație mai retrasă, care este plăcut de liniștită pe ploaie. Drumul spre muzeu poate colecta multă apă; încercați să rulați pe centrul benzii.",
+                "en": "A slightly remote location that is pleasantly quiet on rainy days. The access road may accumulate water; try to ride in the center of the lane where it is drier."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica de Tepeticpac",
+                "hu": "Zona Arqueológica de Tepeticpac",
+                "ro": "Zona Arqueológica de Tepeticpac",
+                "en": "Zona Arqueológica de Tepeticpac"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Nässe eine sportliche Herausforderung, aber die Wolkenstimmung oben ist episch. Tragen Sie wasserfeste Überschuhe für den schlammigen Boden.",
+                "hu": "A felfelé vezető út vizesen komoly sportteljesítmény, de a felhős panoráma fentről lenyűgöző. Viseljen vízálló cipővédőt a sáros talaj ellen.",
+                "ro": "Urcarea este o provocare sportivă pe ploaie, dar atmosfera creată de nori este epică. Purtați protecții impermeabile pentru încălțăminte pe solul noroios.",
+                "en": "The climb is a serious athletic challenge in the wet, but the cloud atmosphere at the top is epic. Wear waterproof shoe covers for the muddy ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft schneidend kalt, was die Fahrt zum Leuchtturm sehr belebend macht. Mittags wärmt die Sonne intensiv, ideal für längere Strecken durch die Stadt. Nachmittags sollten Sie gegen 16:00 Uhr zum Zentrum zurückkehren, bevor der frostige Wind einsetzt. Abends ist das Radfahren nur mit Handschuhen und Stirnband zu empfehlen, wenn die Temperaturen fallen.",
+            "hu": "Reggel a levegő metszően hideg, ami élénkítővé teszi a világítótoronyhoz vezető tekerést. Délben a nap már erősebben süt, tökéletes az idő a hosszabb városi szakaszokra. Délután érdemes 16:00 körül visszaérni a központba, mielőtt feltámad a jeges szél. Este a biciklizés már csak kesztyűben és fülvédővel ajánlott a hirtelen lehűlés miatt.",
+            "ro": "Dimineața aerul este tăios, făcând drumul spre far foarte revigorant. La prânz, soarele strălucește intens, fiind momentul ideal pentru trasee mai lungi. După-amiaza, e bine să reveniți spre centru în jurul orei 16:00, înainte ca vântul înghețat să pornească. Seara, pedalatul este recomandat doar cu mănuși și bentiță termică.",
+            "en": "In the morning, the air is bitingly cold, making the ride to the lighthouse very invigorating. At noon, the sun warms up significantly, ideal for longer routes across town. In the afternoon, aim to head back to the center by 16:00 before the frosty winds start. In the evening, cycling is only advised with gloves and a headband as temperatures plunge."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Faro de la Sabiduría",
+                "hu": "Faro de la Sabiduría",
+                "ro": "Faro de la Sabiduría",
+                "en": "Faro de la Sabiduría"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf den Malintzi ist im Winter am schärfsten. Schützen Sie Ihr Gesicht beim Abfahren vor dem kalten Fahrtwind mit einem Multifunktionstuch.",
+                "hu": "A távoli kilátás a Malintzi-vulkánra télen a legélesebb. Lejtmenetben védje arcát a hideg menetszéltől egy csősállal vagy maszkkal.",
+                "ro": "Vizibilitatea spre vulcanul Malintzi este maximă iarna. Protejați-vă fața de vântul rece la coborâre folosind o eșarfă multifuncțională de tip buff.",
+                "en": "Visibility of the Malintzi volcano is crystal clear in winter. Protect your face from the biting wind on the downhill stretch with a multi-functional neck gaiter."
+              }
+            },
+            {
+              "name": {
+                "de": "Capilla Abierta del Ex-convento",
+                "hu": "Capilla Abierta del Ex-convento",
+                "ro": "Capilla Abierta del Ex-convento",
+                "en": "Capilla Abierta del Ex-convento"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen mittags die gespeicherte Sonnenwärme ab, ein guter Pausenort. Sichern Sie Ihr Rad windgeschützt hinter den dicken Klostermauern.",
+                "hu": "A kőfalak délben sugározzák a tárolt napmeleget, kiváló hely a pihenésre. Zárja le a biciklit a szélvédett részen a vastag kolostorfalak tövében.",
+                "ro": "Zidurile de piatră emană la prânz căldura solară acumulată, fiind un loc bun de popas. Asigurați bicicleta într-un loc ferit de vânt lângă mănăstire.",
+                "en": "The stone walls radiate stored solar heat at noon, making this a great spot for a break. Lock your bike in a wind-sheltered spot behind the thick convent walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Portal Hidalgo",
+                "hu": "Portal Hidalgo",
+                "ro": "Portal Hidalgo",
+                "en": "Portal Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Portales als Windschutz für eine kurze Rast. Ein heißer Kaffee gibt neue Energie für die restliche Tour durch die kühle Bergluft.",
+                "hu": "Használja az árkádokat szélfogóként egy rövid pihenőre. Egy forró kávé segít visszanyerni az energiát a hűvös hegyi levegőben való tekeréshez.",
+                "ro": "Folosiți arcadele ca paravan împotriva vântului pentru o scurtă pauză. O cafea fierbinte vă va reîncărca bateriile pentru restul traseului prin aerul rece.",
+                "en": "Use the portales as a windbreak for a quick rest. A hot coffee will give you a needed energy boost for the rest of the tour through the cool mountain air."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Tlaxcala",
+                "hu": "Museo de Arte de Tlaxcala",
+                "ro": "Museo de Arte de Tlaxcala",
+                "en": "Museo de Arte de Tlaxcala"
+              },
+              "tip_5lang": {
+                "de": "Die Innentemperatur des Museums ist stabil, was hilft, die Gelenke nach der Fahrt aufzuwärmen. Denken Sie an Reflektoren für den frühen Einbruch der Dunkelheit.",
+                "hu": "A múzeum belső hőmérséklete állandó, ami segít átmelegíteni az ízületeket a tekerés után. Figyeljen a fényvisszaverőkre a korai sötétedés miatt.",
+                "ro": "Temperatura interioară stabilă a muzeului ajută la încălzirea articulațiilor după pedalat. Nu uitați elementele reflectorizante pentru înserarea timpurie.",
+                "en": "The steady indoor temperature of the museum helps warm up your joints after the ride. Make sure to have reflectors ready for the early sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Comunitario de la Antigua República de Tlaxcallan",
+                "hu": "Museo Comunitario de la Antigua República de Tlaxcallan",
+                "ro": "Museo Comunitario de la Antigua República de Tlaxcallan",
+                "en": "Museo Comunitario de la Antigua República de Tlaxcallan"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher führt durch offene Flächen, wo der Winterwind weht; tragen Sie eine Windjacke. Im Inneren ist es gemütlich und schützt vor der Kälte.",
+                "hu": "Az ide vezető út nyílt terepen halad, ahol erősen fújhat a téli szél; viseljen szélkabátot. A belső tér barátságos és védelmet nyújt a hideg ellen.",
+                "ro": "Drumul până aici traversează zone deschise unde vântul de iarnă suflă tare; purtați o jachetă de vânt. Interiorul este primitor și protejează de frig.",
+                "en": "The route here passes through open areas where winter winds bite; wear a windbreaker. Inside, it is cozy and provides a welcome escape from the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica de Tepeticpac",
+                "hu": "Zona Arqueológica de Tepeticpac",
+                "ro": "Zona Arqueológica de Tepeticpac",
+                "en": "Zona Arqueológica de Tepeticpac"
+              },
+              "tip_5lang": {
+                "de": "Oben ist es deutlich kühler als im Tal, eine Mütze ist hier Pflicht. Das klare Licht der Wintersonne lässt die Ruinen in scharfen Kontrasten erscheinen.",
+                "hu": "Fent jóval hűvösebb van, mint a völgyben, egy sapka mindenképpen kelleni fog. A téli nap tiszta fénye éles kontrasztba állítja a romokat.",
+                "ro": "Sus este mult mai răcoare decât în vale, deci o căciulă este obligatorie. Lumina clară a soarelui de iarnă scoate în evidență ruinele prin contraste ascuțite.",
+                "en": "It is significantly cooler at the top than in the valley, so a warm hat is mandatory. The crisp winter light makes the ruins stand out in sharp contrast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje a napot a központban az Ex-conventónál, majd tegyen rövid sétát a Portal Hidalgo és a Művészeti Múzeum felé. Délután vezessen a Tepeticpac régészeti zónához és a Santuarióhoz. Zárja az autós utazást a természetben a La Persignada és a Mirador Temetzontla kilátóknál.",
         "ro": "Începeți ziua în centru la iconicul Ex-convento, urmat de scurte plimbări la Portal Hidalgo și Muzeul de Artă. După-amiaza, conduceți pentru a explora zona arheologică Tepeticpac și Santuario. Încheiați călătoria bucurându-vă de natura la La Persignada și de priveliștile de la Mirador Temetzontla.",
         "en": "Begin the day centrally at the iconic Ex-convento, followed by short walks to Portal Hidalgo and the Art Museum. In the afternoon, drive up to explore the Tepeticpac archaeological zone and the grand Santuario. Conclude your road trip enjoying nature at La Persignada and the breathtaking Mirador Temetzontla."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen Sie das Kloster bequem per Auto, ohne nass zu werden. Mittags ist der Wagen der perfekte Rückzugsort während heftiger Schauer zwischen den Stopps. Nachmittags fahren Sie zu den höher gelegenen Aussichtspunkten, wo der Regen oft faszinierende Nebelformationen bildet. Abends genießen Sie die Fahrt durch das beleuchtete, regennasse Tlaxcala im warmen Fahrzeuginneren.",
+            "hu": "Reggel kényelmesen, ázás nélkül érkezünk meg a kolostorhoz autóval. Délben a gépkocsi tökéletes menedéket nyújt a heves záporok idején az egyes helyszínek között. Délután a magasabban fekvő kilátópontok felé vesszük az irányt, ahol az eső gyakran látványos ködformációkat hoz létre. Este a kivilágított, esőtől csillogó várost a meleg autóból csodálhatjuk meg.",
+            "ro": "Dimineața ajungeți confortabil la mănăstire cu mașina, fără a vă uda. La prânz, vehiculul este refugiul perfect în timpul averselor violente dintre opriri. După-amiaza, urcați spre punctele de belvedere înalte, unde ploaia creează adesea formațiuni spectaculoase de ceață. Seara, admirați orașul luminat și ud din interiorul cald al mașinii.",
+            "en": "In the morning, arrive comfortably at the convent by car without getting wet. At noon, the car is the perfect sanctuary during heavy showers between stops. In the afternoon, drive to the higher viewpoints where the rain often creates fascinating mist formations. By evening, enjoy driving through the illuminated, rain-slicked streets of Tlaxcala from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capilla Abierta del Ex-convento",
+                "hu": "Capilla Abierta del Ex-convento",
+                "ro": "Capilla Abierta del Ex-convento",
+                "en": "Capilla Abierta del Ex-convento"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang, um den Weg im Regen kurzzuhalten. Die Aussicht auf den nassen Klostergarten ist vom überdachten Gang aus am schönsten.",
+                "hu": "Használja a bejárathoz közeli parkolót, hogy minimalizálja az esőben töltött időt. A vizes kolostorkert látványa a fedett folyosóról a legszebb.",
+                "ro": "Folosiți parcarea de lângă intrare pentru a scurta drumul prin ploaie. Vederea grădinii umede a mănăstirii este cea mai frumoasă din galeria acoperită.",
+                "en": "Use the parking area closest to the entrance to keep your walk in the rain short. The view of the wet convent garden is best enjoyed from the covered gallery."
+              }
+            },
+            {
+              "name": {
+                "de": "Portal Hidalgo",
+                "hu": "Portal Hidalgo",
+                "ro": "Portal Hidalgo",
+                "en": "Portal Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Parkhäuser im Zentrum sind bei Regen oft voll, fahren Sie frühzeitig los. Die Portales bieten eine trockene Verbindung zwischen den Cafés am Hauptplatz.",
+                "hu": "A belvárosi parkolóházak esőben hamar megtelnek, induljon időben. Az árkádok száraz összeköttetést biztosítanak a főtéri kávézók között.",
+                "ro": "Parcările centrale se umplu rapid când plouă, deci porniți din timp. Arcadele oferă o legătură uscată între cafenelele din piața principală.",
+                "en": "Central parking garages often fill up quickly when it rains, so plan to arrive early. The portals offer a dry path between the cafes around the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Tlaxcala",
+                "hu": "Museo de Arte de Tlaxcala",
+                "ro": "Museo de Arte de Tlaxcala",
+                "en": "Museo de Arte de Tlaxcala"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Regenjacke im Auto, um sich im Museum frei bewegen zu können. Der kurze Sprint vom Parkplatz zum Museumseingang erfordert einen Schirm.",
+                "hu": "Hagyja az esőkabátot az autóban, hogy kényelmesebben mozoghasson a múzeumban. A parkolótól a bejáratig tartó rövid futáshoz azért kelleni fog az esernyő.",
+                "ro": "Lăsați haina de ploaie în mașină pentru a vă mișca liber în muzeu. Scurtul sprint de la parcare până la intrare va necesita totuși o umbrelă.",
+                "en": "Leave your heavy rain gear in the car to move more freely through the museum. A quick sprint from the car to the entrance will still require an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica de Tepeticpac",
+                "hu": "Zona Arqueológica de Tepeticpac",
+                "ro": "Zona Arqueológica de Tepeticpac",
+                "en": "Zona Arqueológica de Tepeticpac"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Starkregen durch herabfließendes Wasser erschwert sein, fahren Sie vorsichtig. Genießen Sie die wolkenverhangene Ruinenlandschaft aus dem Wagen.",
+                "hu": "A felvezető úton a lezúduló víz nehezítheti a közlekedést, vezessen óvatosan. A felhőkbe burkolózó romokat az autó ablakából is megcsodálhatja.",
+                "ro": "Urcarea poate fi îngreunată de șuvoaiele de apă în timpul ploilor torențiale; conduceți cu grijă. Admirați ruinele învăluite în nori direct din mașină.",
+                "en": "The drive up can be tricky due to runoff water during heavy rain; drive cautiously. Enjoy the sight of the cloud-shrouded ruins from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario",
+                "hu": "Santuario",
+                "ro": "Santuario",
+                "en": "Santuario"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Innenraum, der trockenen Schutz und spirituelle Ruhe bietet. Achten Sie auf die Parksituation, da die Flächen bei Regen schlammig werden können.",
+                "hu": "Pompás belső tér, amely száraz menedéket és lelki nyugalmat kínál. Ügyeljen a parkolásra, mert a kijelölt helyek esőben felázhatnak és sárosak lehetnek.",
+                "ro": "Un interior splendid care oferă adăpost uscat și liniște spirituală. Atenție la parcare, deoarece zonele neasfaltate pot deveni noroioase pe ploaie.",
+                "en": "A magnificent interior offering dry shelter and spiritual peace. Be careful where you park, as unpaved areas can become quite muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Persignada",
+                "hu": "La Persignada",
+                "ro": "La Persignada",
+                "en": "La Persignada"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen wirken bei Regen besonders mystisch, aber bleiben Sie für Fotos nah am Auto. Der Boden ist lehmig und wird sehr klebrig, wenn er nass ist.",
+                "hu": "A sziklaalakzatok esőben különösen misztikusnak tűnnek, de maradjon az autó közelében a fotózáshoz. A talaj agyagos és nagyon ragadóssá válik vizesen.",
+                "ro": "Formațiunile stâncoase par mistice pe ploaie, dar rămâneți aproape de mașină pentru poze. Solul argilos devine foarte lipicios când este ud.",
+                "en": "The rock formations look especially mystical in the rain, but stay close to the car for photos. The clay soil becomes very sticky and messy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Temetzontla",
+                "hu": "Mirador Temetzontla",
+                "ro": "Mirador Temetzontla",
+                "en": "Mirador Temetzontla"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist ideal, um das Wetter über dem Tal aus der Sicherheit des Autos zu beobachten. Wischen Sie die Scheiben gut ab, um die Sicht zu maximieren.",
+                "hu": "A kilátópont ideális a völgy feletti vonuló esőfelhők megfigyelésére az autó biztonságából. Törölje le a párát a szélvédőről a maximális láthatóságért.",
+                "ro": "Punctul de belvedere este ideal pentru a observa furtuna deasupra văii din siguranța mașinii. Ștergeți bine geamurile pentru a maximiza vizibilitatea.",
+                "en": "This viewpoint is perfect for watching the weather move across the valley from the safety of your car. Keep your windows clear to maximize the dramatic view."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen Sie die Standheizung, während Sie zum Kloster hinauffahren. Mittags genießen Sie die Fahrt durch das sonnige, aber kühle Tlaxcala bei bester Fernsicht aus den Autofenstern. Nachmittags ist die Fahrt zum Santuario besonders reizvoll, wenn das Licht weicher wird. Abends schützt Sie der Wagen vor dem plötzlichen Temperatursturz nach dem Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Reggel élvezze az autó fűtését, miközben felkapaszkodik a kolostorhoz vezető úton. Délben a napos, de hűvös időben a gépkocsi ablakából nyílik a legjobb kilátás a városra. Délután a Santuario felé vezető út különösen hangulatos a lágyuló fényekben. Este a jármű megvédi a hirtelen lehűléstől, ami a 17:00 órai naplemente után következik be.",
+            "ro": "Dimineața folosiți încălzirea din mașină în timp ce urcați spre mănăstire. La prânz, bucurați-vă de drumul prin Tlaxcala însorită dar rece, având cea mai bună vizibilitate prin geamuri. După-amiaza, drumul spre Santuario este fermecător în lumina blândă. Seara, mașina vă protejează de scăderea bruscă a temperaturii după apusul de la ora 17:00.",
+            "en": "In the morning, enjoy the car's heater as you drive up to the convent hill. At noon, the sunny but cool weather offers the best long-distance views through the car windows. In the afternoon, the drive to the Santuario is especially scenic as the light softens. By evening, your vehicle protects you from the sharp temperature drop after the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capilla Abierta del Ex-convento",
+                "hu": "Capilla Abierta del Ex-convento",
+                "ro": "Capilla Abierta del Ex-convento",
+                "en": "Capilla Abierta del Ex-convento"
+              },
+              "tip_5lang": {
+                "de": "Die klare Wintersonne bringt die roten Steine der Kapelle zum Leuchten. Da die Besichtigung im Freien stattfindet, sollten Sie eine warme Jacke griffbereit haben.",
+                "hu": "A tiszta téli napsütés szinte izzóvá teszi a kápolna vörös köveit. Mivel a látogatás szabadtéri, tartsa kéznél a meleg kabátját az autóban.",
+                "ro": "Soarele clar de iarnă face ca pietrele roșii ale capelei să strălucească. Deoarece vizita are loc în aer liber, aveți o jachetă groasă pregătită în mașină.",
+                "en": "The brilliant winter sun makes the chapel's red stones glow. Since the visit is outdoors, keep a warm jacket ready in the car for when you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Portal Hidalgo",
+                "hu": "Portal Hidalgo",
+                "ro": "Portal Hidalgo",
+                "en": "Portal Hidalgo"
+              },
+              "tip_5lang": {
+                "de": "Das Parken in der Nähe erlaubt es, die warmen Portales schnell zu erreichen. Genießen Sie die winterliche Atmosphäre der Plaza, bevor es im Schatten zu kalt wird.",
+                "hu": "A közeli parkolás lehetővé teszi, hogy gyorsan elérje az árkádok védett melegét. Élvezze a főtér téli hangulatát, mielőtt az árnyékos részek túl hideggé válnak.",
+                "ro": "Parcarea în apropiere vă permite să ajungeți rapid la adăpostul arcadelor. Bucurați-vă de atmosfera de iarnă din piață înainte ca umbra să aducă frigul.",
+                "en": "Parking nearby allows you to reach the sheltered warmth of the portales quickly. Soak in the plaza's winter vibe before the shadows make it too chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Tlaxcala",
+                "hu": "Museo de Arte de Tlaxcala",
+                "ro": "Museo de Arte de Tlaxcala",
+                "en": "Museo de Arte de Tlaxcala"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Autofahrten aufzuwärmen und Kunst zu genießen. Das Gebäude speichert die Kälte, behalten Sie eine Schicht Kleidung an.",
+                "hu": "Ideális helyszín az átmelegedésre két autós szakasz között, miközben művészetet élvezünk. Az épület tartja a hűvöset, hagyjon magán egy réteg ruhát.",
+                "ro": "Un loc ideal pentru a vă încălzi între segmentele de condus în timp ce admirați arta. Clădirea păstrează răcoarea, deci păstrați un strat de haine pe voi.",
+                "en": "An ideal spot to warm up between drives while enjoying the art galleries. The thick walls keep the interior cool, so keep an extra layer of clothing on."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Arqueológica de Tepeticpac",
+                "hu": "Zona Arqueológica de Tepeticpac",
+                "ro": "Zona Arqueológica de Tepeticpac",
+                "en": "Zona Arqueológica de Tepeticpac"
+              },
+              "tip_5lang": {
+                "de": "Mit dem Auto erreichen Sie den Gipfel mühelos und entgehen dem kalten Aufstieg zu Fuß. Die Aussicht auf den schneebedeckten Malintzi ist im Winter einmalig.",
+                "hu": "Autóval erőfeszítés nélkül érhetünk fel a csúcsra, elkerülve a hideg gyalogos kaptatót. A havas Malintzi-vulkán látványa télen megismételhetetlen élmény.",
+                "ro": "Cu mașina ajungeți fără efort în vârf, evitând urcușul obositor prin aerul rece. Vederea spre vulcanul Malintzi înzăpezit este unică în timpul iernii.",
+                "en": "By car, you reach the summit effortlessly, avoiding a cold and windy climb on foot. The view of the snow-capped Malintzi volcano is unparalleled in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario",
+                "hu": "Santuario",
+                "ro": "Santuario",
+                "en": "Santuario"
+              },
+              "tip_5lang": {
+                "de": "Das Santuario ist im Winter ein ruhiger Rückzugsort mit angenehmer Innentemperatur. Prüfen Sie den Frostschutz Ihres Wagens, falls Sie über Nacht in der Höhe bleiben.",
+                "hu": "A szentély télen csendes menedékhely kellemes belső hőmérséklettel. Ellenőrizze autója fagyállóját, ha a magasabban fekvő területen maradna éjszakára.",
+                "ro": "Sanctuarul este un refugiu liniștit iarna, având o temperatură interioară plăcută. Verificați antigelul mașinii dacă plănuiți să stați în zonă după apus.",
+                "en": "The sanctuary is a peaceful winter retreat with a comfortable indoor temperature. Check your car's antifreeze levels if you plan to stay in this high area late."
+              }
+            },
+            {
+              "name": {
+                "de": "La Persignada",
+                "hu": "La Persignada",
+                "ro": "La Persignada",
+                "en": "La Persignada"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der tiefstehenden Sonne erzeugt lange Schatten an den Felsen, ideal für Fotos. Bleiben Sie wegen des kalten Windes für die Pausen im beheizten Auto.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a sziklákra, ami kiváló fotótémát ad. A hideg szél miatt a pihenőidőt töltse inkább a fűtött autóban.",
+                "ro": "Lumina soarelui la apus creează umbre lungi pe stânci, perfect pentru fotografii. Din cauza vântului rece, rămâneți în mașina încălzită pentru pauze.",
+                "en": "The low-angled sun casts dramatic long shadows on the rocks, perfect for photography. Stay inside the heated car for breaks to avoid the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Temetzontla",
+                "hu": "Mirador Temetzontla",
+                "ro": "Mirador Temetzontla",
+                "en": "Mirador Temetzontla"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17:00 Uhr, um das Alpenglühen auf den Vulkanen zu sehen. Schalten Sie den Motor aus, um die Stille der Natur zu genießen.",
+                "hu": "Érkezzen pontosan a 17:00 órai naplementére, hogy lássa a vulkánok izzását a távolban. Állítsa le a motort, és élvezze a természet téli csendjét.",
+                "ro": "Sosiți exact pentru apusul de la ora 17:00 pentru a vedea reflexia luminii pe vulcani. Opriți motorul pentru a vă bucura de liniștea deplină a naturii.",
+                "en": "Arrive right at the 17:00 sunset to see the 'alpenglow' on the distant volcanoes. Turn off the engine and enjoy the absolute silence of the winter landscape."
+              }
+            }
+          ]
+        }
       }
     }
   }

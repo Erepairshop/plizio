@@ -160,6 +160,196 @@
         "hu": "Morning: A napja İzmit szimbólumánál, az elegáns Saat Kulesinél kezdődik, amelyet a Kasr-ı Hümayün oszmán vadászkastély lenyűgöző történelmi termei követnek.\nMidday: A történelmi csodák után észak felé sétálva a Yumurtacı Camihoz érkezik, ahol bepillantást nyerhet a helyi negyed mély spirituális életébe.\nAfternoon: Az útvonal az Akçakoca Dere Camihoz és a központi Tepecik Camihoz vezet, mindkettő békés menedéket kínál a városi nyüzsgés elől.\nEvening: Gyalogos felfedezőútját a klasszikus Hüseyin Paşa Camii-nél fejezi be, ahol a békés udvaron pihenve csendesen zárhatja a napot.",
         "ro": "Morning: Ziua începe la simbolul orașului İzmit, elegantul Saat Kulesi, urmat de o fascinantă călătorie în trecut la pavilionul otoman Kasr-ı Hümayün.\nMidday: După splendoarea istorică, vă veți îndrepta spre nord către Yumurtacı Cami, bucurându-vă de atmosfera spirituală profundă a cartierului.\nAfternoon: Traseul continuă către Akçakoca Dere Cami și centrala Tepecik Cami, ambele oferind adevărate oaze de liniște în mijlocul agitației urbane.\nEvening: Explorația se încheie la clasica Hüseyin Paşa Camii, unde vă puteți relaxa în curtea sa liniștită, încheind ziua într-o notă pașnică.",
         "en": "Morning: Your day begins at İzmit's defining symbol, the elegant Saat Kulesi, followed by a fascinating journey into the past at the Kasr-ı Hümayün Ottoman hunting lodge.\nMidday: After immersing yourself in historic splendor, you will stroll northward to Yumurtacı Cami, experiencing the deep spiritual atmosphere of the local neighborhood.\nAfternoon: The route takes you to the authentic Akçakoca Dere Cami and the central Tepecik Cami, both providing peaceful sanctuaries amidst the urban bustle.\nEvening: You will conclude your walking tour at the classic Hüseyin Paşa Camii, allowing you to relax in its quiet courtyard and end the day peacefully."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Uhrturm, wo der Regen den Marmor glänzen lässt. Mittags bietet das Jagdschloss einen trockenen Rückzugsort voller Geschichte. Am Nachmittag führen schmale Gassen zu historischen Moscheen, die Schutz vor den Schauern bieten. Der Abend endet in der feuchten Atmosphäre der Altstadt, während die Lichter von İzmit sich in den Pfützen auf den Straßen spiegeln.",
+            "hu": "A reggel az óratoronynál ködös, vigyen magával esernyőt a meredek utcákhoz. Délben a Kasr-ı Hümayün belső terei tökéletes menedéket nyújtanak a zápor elől. Délután a történelmi mecsetek csendjében vészelheti át a nedves időt. Este az eső kopogása a régi háztetőkön különleges hangulatot ad a városnak, de ügyeljen a csúszós macskakövekre a lejtős szakaszokon.",
+            "ro": "Dimineața începe la Turnul cu Ceas, unde ploaia face marmura să strălucească. La prânz, conacul de vânătoare oferă un refugiu uscat și plin de istorie. După-amiaza, străzile înguste duc spre moschei istorice care oferă adăpost împotriva averselor. Seara se încheie în atmosfera umedă a orașului vechi, în timp ce luminile din İzmit se reflectă în bălțile de pe străzi.",
+            "en": "Morning starts at the clock tower, where the rain makes the marble glisten. At noon, the hunting lodge provides a dry retreat filled with history. In the afternoon, narrow streets lead to historic mosques that offer shelter from the showers. The evening ends in the damp atmosphere of the old town, as the lights of İzmit reflect in the puddles on the streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saat Kulesi",
+                "hu": "Saat Kulesi",
+                "ro": "Saat Kulesi",
+                "en": "Saat Kulesi"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den neoklassizistischen Turm unter einem Regenschirm; die nassen Stufen sind rutschig, also gehen Sie vorsichtig um das Fundament herum.",
+                "hu": "Csodálja meg a neoklasszicista tornyot esernyő alól; a vizes lépcsők rendkívül csúszósak, ezért óvatosan járjon az alapzat körül.",
+                "ro": "Admirați turnul neoclasic de sub o umbrelă; treptele umede sunt alunecoase, așa că mergeți cu atenție în jurul fundației.",
+                "en": "Admire the neoclassical tower from under an umbrella; the wet steps are slippery, so walk carefully around the base."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasr-ı Hümayün Av Köşkü",
+                "hu": "Kasr-ı Hümayün Av Köşkü",
+                "ro": "Kasr-ı Hümayün Av Köşkü",
+                "en": "Kasr-ı Hümayün Av Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen prachtvollen Palast als perfekten Unterschlupf vor dem Regen; die Deckenmalereien im Inneren sind bei bewölktem Licht besonders stimmungsvoll.",
+                "hu": "Használja ezt a pompás palotát tökéletes menedékként az eső elől; a belső mennyezeti festmények a szórt fényben különösen hangulatosak.",
+                "ro": "Folosiți acest palat splendid ca adăpost perfect împotriva ploii; picturile de pe tavanul interior sunt deosebit de atmosferice în lumină difuză.",
+                "en": "Use this splendid palace as a perfect shelter from the rain; the interior ceiling paintings are especially atmospheric in diffused light."
+              }
+            },
+            {
+              "name": {
+                "de": "Yumurtacı Cami",
+                "hu": "Yumurtacı Cami",
+                "ro": "Yumurtacı Cami",
+                "en": "Yumurtacı Cami"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Regen draußen zu lassen; schütteln Sie Ihren Schirm gründlich aus, bevor Sie den warmen Teppichbereich betreten.",
+                "hu": "Csendes hely, ahol kirekesztheti a kinti esőt; alaposan rázza ki az esernyőjét, mielőtt a belső szőnyeges részre lépne.",
+                "ro": "Un loc liniștit pentru a lăsa ploaia afară; scuturați-vă bine umbrela înainte de a intra în zona caldă cu covoare.",
+                "en": "A quiet place to leave the rain outside; shake your umbrella thoroughly before entering the warm carpeted interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Akçakoca Dere Cami",
+                "hu": "Akçakoca Dere Cami",
+                "ro": "Akçakoca Dere Cami",
+                "en": "Akçakoca Dere Cami"
+              },
+              "tip_5lang": {
+                "de": "Diese Moschee liegt an einem Hang; tragen Sie wasserfeste Schuhe mit gutem Grip für den steilen und oft nassen Weg dorthin.",
+                "hu": "Ez a mecset lejtőn fekszik; viseljen jó tapadású vízálló cipőt a meredek és gyakran vizes úthoz a megközelítés során.",
+                "ro": "Această moschee este situată pe o pantă; purtați pantofi impermeabili cu aderență bună pentru drumul abrupt și adesea umed.",
+                "en": "This mosque is situated on a slope; wear waterproof shoes with good grip for the steep and often wet path to reach it."
+              }
+            },
+            {
+              "name": {
+                "de": "Tepecik Cami",
+                "hu": "Tepecik Cami",
+                "ro": "Tepecik Cami",
+                "en": "Tepecik Cami"
+              },
+              "tip_5lang": {
+                "de": "Die zentrale Lage bietet schnellen Zugang zu trockenen Cafés; genießen Sie die Architektur, während Sie auf eine Regenpause warten.",
+                "hu": "A központi elhelyezkedés gyors hozzáférést biztosít száraz kávézókhoz; élvezze az építészetet, miközben vár egy esőszünetre.",
+                "ro": "Locația centrală oferă acces rapid la cafenele uscate; bucurați-vă de arhitectură în timp ce așteptați o pauză de ploaie.",
+                "en": "The central location offers quick access to dry cafes; enjoy the architecture while waiting for a break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hüseyin Paşa Camii",
+                "hu": "Hüseyin Paşa Camii",
+                "ro": "Hüseyin Paşa Camii",
+                "en": "Hüseyin Paşa Camii"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang in dieser friedlichen Moschee; der Innenhof kann Pfützen bilden, bleiben Sie also auf den gepflasterten Wegen.",
+                "hu": "Fejezze be a sétát ebben a békés mecsetben; az udvaron tócsák alakulhatnak ki, ezért maradjon a kövezett ösvényeken.",
+                "ro": "Încheiați-vă plimbarea în această moschee liniștită; curtea poate forma bălți, așa că rămâneți pe potecile pavate.",
+                "en": "Finish your walk in this peaceful mosque; the courtyard can form puddles, so stay on the paved paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterbrise vom Marmarameer her ist am Morgen am Uhrturm erfrischend. Mittags wärmt die Sonne die historischen Steinmauern des Schlosses nur schwach auf. Am Nachmittag suchen wir die Wärme der alten Moscheen, bevor die Dämmerung früh hereinbricht. Gegen 17:00 Uhr sinken die Temperaturen, und die Stadt hüllt sich in eine frostige, aber gemütliche Abendstimmung.",
+            "hu": "A Márvány-tenger felől érkező téli szél reggel frissítő az óratoronynál. Délben a nap csak gyengén melegíti a kastély történelmi falait. Délután a mecsetek melegében keresünk menedéket, mielőtt korán leszáll az alkony. 17:00 körül a hőmérséklet hirtelen leesik, és a város fagyos, de barátságos esti fényekbe öltözik.",
+            "ro": "Briza de iarnă de la Marea Marmara este revigorantă dimineața la Turnul cu Ceas. La prânz, soarele încălzește slab zidurile de piatră ale castelului. După-amiaza căutăm căldura moscheilor vechi, înainte ca amurgul să se lase devreme. În jurul orei 17:00, temperaturile scad, iar orașul se îmbracă într-o atmosferă de seară geroasă, dar primitoare.",
+            "en": "The winter breeze from the Sea of Marmara is refreshing at the clock tower in the morning. At noon, the sun only weakly warms the castle's historic stone walls. In the afternoon, we seek the warmth of old mosques before dusk falls early. Around 17:00, temperatures drop, and the city wraps itself in a frosty but cozy evening atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saat Kulesi",
+                "hu": "Saat Kulesi",
+                "ro": "Saat Kulesi",
+                "en": "Saat Kulesi"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier oben oft; tragen Sie einen dicken Schal, während Sie den weiten Blick auf den Hafen von İzmit genießen.",
+                "hu": "A szél gyakran süvít itt fent; viseljen vastag sálat, miközben élvezi a tágas kilátást az izmiti kikötőre.",
+                "ro": "Vântul suflă adesea aici sus; purtați o eșarfă groasă în timp ce vă bucurați de vederea largă spre portul İzmit.",
+                "en": "The wind often whistles up here; wear a thick scarf while enjoying the wide view over the İzmit harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasr-ı Hümayün Av Köşkü",
+                "hu": "Kasr-ı Hümayün Av Köşkü",
+                "ro": "Kasr-ı Hümayün Av Köşkü",
+                "en": "Kasr-ı Hümayün Av Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; nehmen Sie sich Zeit im Inneren, um sich für den weiteren Weg durch die Altstadt aufzuwärmen.",
+                "hu": "A vastag falak kint tartják a hideget; szánjon időt a belső térre, hogy bemelegedjen az óvárosi séta folytatása előtt.",
+                "ro": "Zidurile groase țin frigul afară; faceți-vă timp în interior pentru a vă încălzi înainte de a continua plimbarea prin orașul vechi.",
+                "en": "The thick walls keep the cold out; take your time inside to warm up before continuing your walk through the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Yumurtacı Cami",
+                "hu": "Yumurtacı Cami",
+                "ro": "Yumurtacı Cami",
+                "en": "Yumurtacı Cami"
+              },
+              "tip_5lang": {
+                "de": "Die Teppiche bieten eine willkommene Isolierung gegen den kalten Boden; genießen Sie die Stille dieses beheizten spirituellen Raums.",
+                "hu": "A szőnyegek szívesen látott szigetelést nyújtanak a hideg padló ellen; élvezze a fűtött spirituális tér csendjét.",
+                "ro": "Covoarele oferă o izolație binevenită împotriva podelei reci; bucurați-vă de liniștea acestui spațiu spiritual încălzit.",
+                "en": "The carpets provide welcome insulation against the cold floor; enjoy the silence of this heated spiritual space."
+              }
+            },
+            {
+              "name": {
+                "de": "Akçakoca Dere Cami",
+                "hu": "Akçakoca Dere Cami",
+                "ro": "Akçakoca Dere Cami",
+                "en": "Akçakoca Dere Cami"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf dem Kopfsteinpflaster; der Aufstieg hält Sie zwar warm, erfordert aber bei Frost volle Konzentration.",
+                "hu": "Ügyeljen a fagyott foltokra a macskakövön; a felfelé menet ugyan melegen tartja, de fagy esetén teljes koncentrációt igényel.",
+                "ro": "Atenție la porțiunile înghețate de pe pavaj; urcarea vă va ține de cald, dar necesită concentrare maximă în caz de îngheț.",
+                "en": "Watch out for frozen patches on the cobblestones; the climb will keep you warm, but requires full concentration in case of frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Tepecik Cami",
+                "hu": "Tepecik Cami",
+                "ro": "Tepecik Cami",
+                "en": "Tepecik Cami"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich in der Nähe einen heißen Tee zum Mitnehmen, um Ihre Hände zwischen den Besichtigungen warm zu halten.",
+                "hu": "Vegyünk a közelben egy forró teát elvitelre, hogy melegen tartsuk a kezünket a látnivalók megtekintése között.",
+                "ro": "Luați un ceai fierbinte la pachet din apropiere pentru a vă menține mâinile calde între vizitarea obiectivelor turistice.",
+                "en": "Get a hot tea to go nearby to keep your hands warm between sightseeing stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Hüseyin Paşa Camii",
+                "hu": "Hüseyin Paşa Camii",
+                "ro": "Hüseyin Paşa Camii",
+                "en": "Hüseyin Paşa Camii"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um die Architektur noch im Tageslicht zu sehen; danach leuchten die Straßenlaternen den winterlichen Heimweg.",
+                "hu": "Érkezzen 17:00 előtt, hogy még nappali fényben lássa az épületet; utána az utcai lámpák világítják meg a téli hazautat.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea arhitectura încă la lumina zilei; după aceea, felinarele vor lumina drumul de întoarcere.",
+                "en": "Arrive before 17:00 to see the architecture still in daylight; after that, street lamps will light your wintry way home."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Morning: A vízparton, a TCG Hızırreis tengeralattjáró-múzeumnál kezd, majd felteker a történelmi Saat Kulesihez, hogy élvezze a panorámás kilátást.\nMidday: Az elegáns Kasr-ı Hümayün vadászkastély alapos megtekintése után a szűk utcákon át a békés Yumurtacı Cami felé veszi az irányt.\nAfternoon: A kerékpártúra a központi fekvésű Tepecik Camihoz vezet, amely csendes menedéket kínál, mielőtt tovább folytatná a városnézést.\nEvening: A nap fenségesen zárul a Hüseyin Paşa Camii-nél, amelynek klasszikus oszmán építészetét a lágy esti fényben csodálhatja meg.",
         "ro": "Morning: Începeți pe malul apei la muzeul submarin TCG Hızırreis, apoi pedalați spre istoricul Saat Kulesi pentru a vă bucura de o vedere panoramică.\nMidday: După o vizită detaliată la elegantul pavilion Kasr-ı Hümayün, veți merge pe bicicletă prin străzile înguste până la pașnica Yumurtacı Cami.\nAfternoon: Plimbarea continuă spre centrala Tepecik Cami, care vă oferă un moment de liniște înainte de a explora inima vibrantă a orașului.\nEvening: Ziua se încheie maiestuos la Hüseyin Paşa Camii, a cărei arhitectură clasică otomană o puteți admira în lumina blândă a serii.",
         "en": "Morning: You start on the waterfront at the TCG Hızırreis submarine museum, then pedal up to the historic Saat Kulesi to enjoy the panoramic views.\nMidday: Following a detailed visit to the elegant Kasr-ı Hümayün hunting lodge, you will navigate the narrow streets towards the peaceful Yumurtacı Cami.\nAfternoon: Your cycling route brings you to the centrally located Tepecik Cami, offering a quiet sanctuary before you continue exploring the city's heart.\nEvening: The day ends majestically at the Hüseyin Paşa Camii, allowing you to admire its classic Ottoman architecture in the soft evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht am Hafenmorgen. Die Museen sind ideale Etappenziele, um die Kleidung zu trocknen. Mittags kämpfen wir uns durch den Wind zum Uhrturm hoch. Am Nachmittag bieten die Moscheen im Stadtzentrum kurze Pausen im Trockenen. Der Tag endet mit einer vorsichtigen Fahrt über die nassen Gleise und Straßen zurück zum Ausgangspunkt.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a kikötői reggelen. A múzeumok ideális megállók, hogy megszárítsuk a ruházatunkat. Délben a széllel dacolva tekerünk fel az óratoronyhoz. Délután a belvárosi mecsetek rövid száraz szüneteket kínálnak. A nap a vizes síneken és utakon való óvatos visszatekeréssel zárul a kiindulópont felé.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență în dimineața din port. Muzeele sunt opriri ideale pentru a ne usca hainele. La prânz, pedalăm spre Turnul cu Ceas înfruntând vântul. După-amiaza, moscheile din centrul orașului oferă scurte pauze la uscat. Ziua se încheie cu o deplasare atentă pe șinele și străzile ude înapoi spre punctul de plecare.",
+            "en": "Cycling in the rain requires caution during the harbor morning. Museums are ideal stops to dry your clothes. At noon, we pedal up to the clock tower braving the wind. In the afternoon, downtown mosques offer short dry breaks. The day ends with a careful ride over wet tracks and streets back to the starting point."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "TCG Hızırreis",
+                "hu": "TCG Hızırreis",
+                "ro": "TCG Hızırreis",
+                "en": "TCG Hızırreis"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad unter dem Vordach und erkunden Sie das U-Boot; es ist der trockenste Ort des ganzen Tages.",
+                "hu": "Zárja le a biciklijét az előtető alatt és fedezze fel a tengeralattjárót; ez a nap legszárazabb helyszíne.",
+                "ro": "Asigurați-vă bicicleta sub copertină și explorați submarinul; este cel mai uscat loc al întregii zile.",
+                "en": "Secure your bike under the overhang and explore the submarine; it is the driest location of the entire day."
+              }
+            },
+            {
+              "name": {
+                "de": "Saat Kulesi",
+                "hu": "Saat Kulesi",
+                "ro": "Saat Kulesi",
+                "en": "Saat Kulesi"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um den Turm wird extrem rutschig; steigen Sie vom Rad ab und schieben Sie es auf den gepflasterten Flächen.",
+                "hu": "A torony körüli talaj rendkívül csúszóssá válik; szálljon le a bicikliről és tolja a kövezett felületeken.",
+                "ro": "Solul din jurul turnului devine extrem de alunecos; coborâți de pe bicicletă și împingeți-o pe suprafețele pavate.",
+                "en": "The ground around the tower becomes extremely slippery; dismount your bike and push it on the paved areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasr-ı Hümayün Av Köşkü",
+                "hu": "Kasr-ı Hümayün Av Köşkü",
+                "ro": "Kasr-ı Hümayün Av Köşkü",
+                "en": "Kasr-ı Hümayün Av Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an einem geschützten Ort und genießen Sie die kaiserliche Pracht im Trockenen, während draußen der Regen prasselt.",
+                "hu": "Parkoljon védett helyen és élvezze a császári pompát szárazon, miközben kint kopog az eső.",
+                "ro": "Parcați într-un loc protejat și bucurați-vă de splendoarea imperială la uscat, în timp ce ploaia bate afară.",
+                "en": "Park in a protected spot and enjoy the imperial splendor in the dry while the rain beats down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Yumurtacı Cami",
+                "hu": "Yumurtacı Cami",
+                "ro": "Yumurtacı Cami",
+                "en": "Yumurtacı Cami"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung kurz zu richten, bevor Sie die Moschee besichtigen.",
+                "hu": "Használja a fedett bejárati részt az esőruházat igazítására, mielőtt megtekintené a mecsetet.",
+                "ro": "Folosiți zona de intrare acoperită pentru a vă ajusta echipamentul de ploaie înainte de a vizita moscheea.",
+                "en": "Use the covered entrance area to adjust your rain gear briefly before visiting the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Tepecik Cami",
+                "hu": "Tepecik Cami",
+                "ro": "Tepecik Cami",
+                "en": "Tepecik Cami"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Bremsen auf den nassen Straßen im Basarviertel auf Passanten mit Regenschirmen, die Sie vielleicht übersehen.",
+                "hu": "A bazárnegyed vizes utcáin fékezéskor ügyeljen az esernyős gyalogosokra, akik esetleg nem veszik észre önt.",
+                "ro": "Fiți atenți la frânare pe străzile ude din zona bazarului; pietonii cu umbrele s-ar putea să nu vă observe.",
+                "en": "Be careful when braking on the wet streets in the bazaar district; pedestrians with umbrellas might not see you."
+              }
+            },
+            {
+              "name": {
+                "de": "Hüseyin Paşa Camii",
+                "hu": "Hüseyin Paşa Camii",
+                "ro": "Hüseyin Paşa Camii",
+                "en": "Hüseyin Paşa Camii"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihren Sattel trocken, bevor Sie die letzte Etappe antreten; die Beleuchtung der Moschee sieht im Regen glanzvoll aus.",
+                "hu": "Törölje szárazra a nyerget az utolsó szakasz előtt; a mecset díszkivilágítása az esőben ragyogóan mutat.",
+                "ro": "Ștergeți-vă șaua înainte de ultima etapă; iluminatul moscheii arată strălucitor în ploaie.",
+                "en": "Wipe your saddle dry before the last leg; the mosque's lighting looks brilliant in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eisiger Wind weht am Morgen am Hafen, was die Fahrt zum U-Boot-Museum zur Herausforderung macht. Mittags am Uhrturm wärmt die Bewegung zwar auf, doch die Kälte bleibt spürbar. Am Nachmittag radeln wir zügig zwischen den historischen Moscheen hin und her. Nach 16:30 Uhr verschwindet das Tageslicht, und wir beenden die Tour bei frostigen Temperaturen in der Abenddämmerung.",
+            "hu": "Reggel jeges szél fúj a kikötőben, ami kihívássá teszi az utat a tengeralattjáró-múzeumig. Délben az óratoronynál a mozgás ugyan felmelegít, de a hideg érezhető marad. Délután gyorsan tekerünk a történelmi mecsetek között. 16:30 után elfogy a nappali fény, és a túrát fagyos hőmérsékletben, az esti szürkületben fejezzük be.",
+            "ro": "Vântul înghețat bate dimineața în port, făcând drumul către muzeul submarin o provocare. La prânz, la Turnul cu Ceas, mișcarea ne încălzește, dar frigul rămâne simțitor. După-amiaza pedalăm rapid între moscheile istorice. După ora 16:30 lumina zilei dispare, iar noi încheiem turul la temperaturi geroase în amurgul serii.",
+            "en": "Icy wind blows at the harbor in the morning, making the ride to the submarine museum a challenge. At noon at the clock tower, movement warms you up, but the cold remains noticeable. In the afternoon, we pedal quickly between the historic mosques. After 16:30 daylight fades, and we finish the tour in freezing temperatures in the evening dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "TCG Hızırreis",
+                "hu": "TCG Hızırreis",
+                "ro": "TCG Hızırreis",
+                "en": "TCG Hızırreis"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe; das Metall am Rad und im U-Boot ist im Winter extrem kalt bei Berührung.",
+                "hu": "Viseljen szélálló kesztyűt; a bicikli és a tengeralattjáró fém alkatrészei télen rendkívül hideg tapintásúak.",
+                "ro": "Purtați mănuși rezistente la vânt; metalul bicicletei și al submarinului este extrem de rece la atingere iarna.",
+                "en": "Wear windproof gloves; the metal on the bike and in the submarine is extremely cold to the touch in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Saat Kulesi",
+                "hu": "Saat Kulesi",
+                "ro": "Saat Kulesi",
+                "en": "Saat Kulesi"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich nicht zu lange an exponierten Stellen auf; der Blick ist klar, aber der Frost zieht schnell in die Glieder.",
+                "hu": "Ne időzzön túl sokat a nyitott helyeken; a kilátás tiszta, de a fagy gyorsan áthatol a ruházaton.",
+                "ro": "Nu staționați prea mult în locurile expuse; vederea este clară, dar gerul pătrunde rapid în oase.",
+                "en": "Don't linger too long in exposed areas; the view is clear, but the frost quickly penetrates your layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasr-ı Hümayün Av Köşkü",
+                "hu": "Kasr-ı Hümayün Av Köşkü",
+                "ro": "Kasr-ı Hümayün Av Köşkü",
+                "en": "Kasr-ı Hümayün Av Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Palastbesichtigung für eine Aufwärmpause, bevor Sie wieder in den eisigen Fahrtwind steigen.",
+                "hu": "Használja a palotalátogatást egy bemelegítő szünetre, mielőtt újra visszaülne a jeges menetszélbe.",
+                "ro": "Folosiți vizita la palat pentru o pauză de încălzire înainte de a reveni în curentul de aer înghețat.",
+                "en": "Use the palace visit for a warm-up break before getting back into the icy wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Yumurtacı Cami",
+                "hu": "Yumurtacı Cami",
+                "ro": "Yumurtacı Cami",
+                "en": "Yumurtacı Cami"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Bremsen auch bei Kälte einwandfrei funktionieren, bevor Sie die Hügel hinunterfahren.",
+                "hu": "Győződjön meg róla, hogy a fékek hidegben is tökéletesen működnek, mielőtt leereszkedne a dombokról.",
+                "ro": "Asigurați-vă că frânele funcționează perfect chiar și la frig înainte de a coborî dealurile.",
+                "en": "Ensure your brakes function perfectly even in the cold before heading down the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Tepecik Cami",
+                "hu": "Tepecik Cami",
+                "ro": "Tepecik Cami",
+                "en": "Tepecik Cami"
+              },
+              "tip_5lang": {
+                "de": "Der Wintermarkt um die Moschee bietet heiße Kastanien; ein idealer Snack, um Energie für die kalte Fahrt zu tanken.",
+                "hu": "A mecset körüli téli piac sült gesztenyét kínál; ideális rágcsálnivaló a hideg úthoz szükséges energiához.",
+                "ro": "Piața de iarnă din jurul moscheii oferă castane coapte; o gustare ideală pentru a acumula energie pentru drumul rece.",
+                "en": "The winter market around the mosque offers roasted chestnuts; an ideal snack to fuel up for the cold ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Hüseyin Paşa Camii",
+                "hu": "Hüseyin Paşa Camii",
+                "ro": "Hüseyin Paşa Camii",
+                "en": "Hüseyin Paşa Camii"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Fahrradbeleuchtung frühzeitig ein; im Winter wird es in den engen Gassen von İzmit sehr schnell dunkel.",
+                "hu": "Kapcsolja be korán a biciklivilágítást; télen Izmit szűk utcáin nagyon hamar besötétedik.",
+                "ro": "Aprindeți luminile bicicletei din timp; iarna se întunecă foarte repede pe străzile înguste din İzmit.",
+                "en": "Turn on your bike lights early; in winter, it gets dark very quickly in the narrow streets of İzmit."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Morning: Autós túrája İzmit ipari örökségénél, a hatalmas Papírmúzeumnál kezdődik, mielőtt a lenyűgöző TCG Hızırreis tengeralattjáróhoz hajtana.\nMidday: A központba érve meglátogatja a híres Saat Kulesit, és elmerül az oszmán történelemben a közeli Kasr-ı Hümayün vadászkastélyban.\nAfternoon: Az autentikus Akçakoca Dere Camihoz tett rövid látogatás után kigördül a belvárosból, hogy elérje a nap utolsó és legfontosabb állomását.\nEvening: A napot egy elgondolkodtató látogatással zárja a Földrengés Múzeumban, amely fontos ismereteket nyújt a régió modern történelméről és geológiájáról.",
         "ro": "Morning: Călătoria cu mașina începe la imensul Muzeu al Hârtiei, înainte de a conduce spre impresionantul submarin naval TCG Hızırreis de pe mal.\nMidday: Ajunși în centru, vizitați simbolul orașului, Saat Kulesi, și pătrundeți în istoria otomană la pavilionul de vânătoare Kasr-ı Hümayün.\nAfternoon: După o scurtă oprire la autentica Akçakoca Dere Cami, veți conduce în afara centrului orașului către ultima dumneavoastră destinație.\nEvening: O încheiere profundă vă așteaptă la Muzeul Cutremurelor, care creează o conștientizare vitală asupra istoriei moderne și geologiei regiunii.",
         "en": "Morning: Your road trip begins with İzmit's industrial heritage at the immense Paper Museum, before driving to the impressive TCG Hızırreis submarine.\nMidday: Arriving in the center, you will visit the iconic Saat Kulesi and dive into Ottoman history at the nearby Kasr-ı Hümayün hunting lodge.\nAfternoon: Following a brief stop at the authentic Akçakoca Dere Cami, you will drive out of the bustling city center towards your final destination.\nEvening: A profound conclusion awaits at the Earthquake Awareness Museum, providing vital context on the region's modern history and local geology."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto erlaubt es uns, die großen Museen von İzmit bequem zu erkunden. Morgens im Papiermuseum sind wir sicher vor dem Sturm. Mittags parken wir nah am Uhrturm für ein schnelles Foto. Der Nachmittag gehört den historischen Moscheen, die wir trotz Starkregen mühelos erreichen. Am Abend fahren wir zum Gedenkmuseum hoch, während die Scheibenwischer im Takt wischen.",
+            "hu": "Az esős nap autóval kényelmes felfedezést tesz lehetővé Izmit nagy múzeumaiban. Reggel a papírmúzeumban védve vagyunk a vihartól. Délben az óratorony közelében parkolunk egy gyors fotóhoz. A délután a történelmi mecseteké, melyeket felhőszakadás idején is könnyen elérünk. Este a földrengés emlékmúzeumhoz hajtunk fel, miközben az ablaktörlők ütemesen járnak.",
+            "ro": "O zi ploioasă cu mașina ne permite să explorăm confortabil marile muzee din İzmit. Dimineața, la muzeul hârtiei, suntem feriți de furtună. La prânz, parcăm aproape de turnul cu ceas pentru o fotografie rapidă. După-amiaza aparține moscheilor istorice, la care ajungem fără efort în ciuda ploii torențiale. Seara urcăm la muzeul memorial, în timp ce ștergătoarele bat în ritm.",
+            "en": "A rainy day by car allows us to comfortably explore the major museums of İzmit. In the morning at the paper museum, we are safe from the storm. At noon, we park close to the clock tower for a quick photo. The afternoon belongs to the historic mosques, which we reach effortlessly despite heavy rain. In the evening, we drive up to the memorial museum while the wipers swing in rhythm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                "hu": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                "ro": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                "en": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Museumsgelände; die weitläufigen Hallen sind der perfekte Ort, um einen verregneten Vormittag zu verbringen.",
+                "hu": "Parkoljon közvetlenül a múzeum területén; a tágas csarnokok tökéletes helyszínt biztosítanak egy esős délelőtt eltöltéséhez.",
+                "ro": "Parcați direct în incinta muzeului; halele spațioase sunt locul perfect pentru a petrece o dimineață ploioasă.",
+                "en": "Park directly on the museum grounds; the spacious halls are the perfect place to spend a rainy morning."
+              }
+            },
+            {
+              "name": {
+                "de": "TCG Hızırreis",
+                "hu": "TCG Hızırreis",
+                "ro": "TCG Hızırreis",
+                "en": "TCG Hızırreis"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Regen Pfützen bilden; fahren Sie vorsichtig zum Parkplatz direkt gegenüber dem U-Boot.",
+                "hu": "A part menti út esőben tócsás lehet; vezessen óvatosan a közvetlenül a tengeralattjáróval szemben lévő parkolóhoz.",
+                "ro": "Drumul de coastă poate forma bălți în ploaie; conduceți cu atenție către parcarea situată direct vizavi de submarin.",
+                "en": "The coastal road can have puddles during rain; drive carefully to the parking lot directly across from the submarine."
+              }
+            },
+            {
+              "name": {
+                "de": "Saat Kulesi",
+                "hu": "Saat Kulesi",
+                "ro": "Saat Kulesi",
+                "en": "Saat Kulesi"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp am Straßenrand für ein Foto; der Regen verleiht dem Turm und dem Blick auf die Bucht eine dramatische Note.",
+                "hu": "Rövid megálló az út mentén egy fotóhoz; az eső drámai hangulatot kölcsönöz a toronynak és az öbölre nyíló kilátásnak.",
+                "ro": "Scurtă oprire la marginea drumului pentru o fotografie; ploaia conferă turnului și vederii spre golf o notă dramatică.",
+                "en": "Short stop at the roadside for a photo; the rain adds a dramatic touch to the tower and the view over the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasr-ı Hümayün Av Köşkü",
+                "hu": "Kasr-ı Hümayün Av Köşkü",
+                "ro": "Kasr-ı Hümayün Av Köşkü",
+                "en": "Kasr-ı Hümayün Av Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgedehnte Regenpause; das prächtige Interieur lässt Sie das schlechte Wetter draußen vergessen.",
+                "hu": "Használja a múzeumlátogatást hosszabb esőszünetként; a pompás belső tér elfeledteti a kinti rossz időt.",
+                "ro": "Folosiți vizita la muzeu ca o pauză prelungită de ploaie; interiorul magnific vă va face să uitați de vremea rea de afară.",
+                "en": "Use the museum visit as an extended rain break; the magnificent interior will make you forget the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Akçakoca Dere Cami",
+                "hu": "Akçakoca Dere Cami",
+                "ro": "Akçakoca Dere Cami",
+                "en": "Akçakoca Dere Cami"
+              },
+              "tip_5lang": {
+                "de": "Die engen Gassen zum Parkplatz sind bei Nässe rutschig; fahren Sie langsam und achten Sie auf Fußgänger unter Regenschirmen.",
+                "hu": "A parkolóhoz vezető szűk utcák nedvesen csúszósak; vezessen lassan, és ügyeljen az esernyővel közlekedő gyalogosokra.",
+                "ro": "Străzile înguste către parcare sunt alunecoase când sunt ude; conduceți încet și fiți atenți la pietonii cu umbrele.",
+                "en": "The narrow streets to the parking area are slippery when wet; drive slowly and watch out for pedestrians with umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                "hu": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                "ro": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                "en": "İzmit Deprem Farkındalık ve Anma Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist komplett überdacht und bietet eine tiefgründige Erfahrung im Trockenen zum Abschluss des Tages.",
+                "hu": "Ez a helyszín teljesen fedett, és mélyreható élményt nyújt szárazon a nap lezárásaként.",
+                "ro": "Această locație este complet acoperită și oferă o experiență profundă la uscat pentru finalul zilei.",
+                "en": "This location is completely indoors and offers a profound experience in the dry to conclude the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Heizung im Auto sorgt den ganzen Wintertag über für Komfort. Morgens im Papiermuseum entgehen wir dem Bodenfrost. Mittags bietet die Fahrt zum Uhrturm einen Panoramablick auf die schneebedeckten Gipfel in der Ferne. Am Nachmittag besuchen wir historische Stätten, ohne lange in der Kälte stehen zu müssen. Um 17:00 Uhr fahren wir im Dunkeln zum Gedenkmuseum hoch.",
+            "hu": "Az autó fűtése egész téli napon kényelmet biztosít. Reggel a papírmúzeumban elkerüljük a talajmenti fagyot. Délben az óratoronyhoz vezető út panorámás kilátást nyújt a távoli hófödte csúcsokra. Délután a történelmi helyszíneket látogatjuk meg, anélkül, hogy sokat állnánk a hidegben. 17:00-kor már sötétben hajtunk fel a földrengés emlékmúzeumhoz.",
+            "ro": "Încălzirea din mașină asigură confortul pe tot parcursul zilei de iarnă. Dimineața, la muzeul hârtiei, evităm înghețul de la sol. La prânz, drumul către turnul cu ceas oferă o vedere panoramică spre vârfurile înzăpezite din depărtare. După-amiaza vizităm siturile istorice fără a sta mult în frig. La ora 17:00 urcăm deja pe întuneric la muzeul memorial.",
+            "en": "The car's heating ensures comfort throughout the winter day. In the morning at the paper museum, we avoid the ground frost. At noon, the drive to the clock tower offers panoramic views of distant snow-capped peaks. In the afternoon, we visit historic sites without standing in the cold for long. By 17:00, we drive up to the memorial museum in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                "hu": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                "ro": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi",
+                "en": "Seka Mehmet Ali Kağıtçı Kağıt Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Die großen Innenräume sind gut klimatisiert; ein idealer Start in den Tag, um der morgendlichen Kälte draußen zu entkommen.",
+                "hu": "A nagy belső terek jól klimatizáltak; ideális kezdés a naphoz, hogy elkerüljük a kinti reggeli hideget.",
+                "ro": "Spațiile interioare mari sunt bine climatizate; un început ideal de zi pentru a evita frigul matinal de afară.",
+                "en": "The large interior spaces are well climate-controlled; an ideal start to the day to escape the morning cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "TCG Hızırreis",
+                "hu": "TCG Hızırreis",
+                "ro": "TCG Hızırreis",
+                "en": "TCG Hızırreis"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das U-Boot zügig, da das Metall die Kälte speichert; kehren Sie danach schnell in das warme Auto zurück.",
+                "hu": "Tekintse meg gyorsan a tengeralattjárót, mivel a fém tartja a hideget; utána térjen vissza mielőbb a meleg autóba.",
+                "ro": "Vizitați submarinul rapid, deoarece metalul reține frigul; reveniți apoi rapid în mașina caldă.",
+                "en": "Visit the submarine briskly as the metal retains the cold; return to the warm car quickly afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Saat Kulesi",
+                "hu": "Saat Kulesi",
+                "ro": "Saat Kulesi",
+                "en": "Saat Kulesi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für einen Moment und genießen Sie den klaren Winterblick; die Luft ist oft sehr rein und erlaubt weite Sicht über die Bucht.",
+                "hu": "Parkoljon le egy pillanatra és élvezze a tiszta téli kilátást; a levegő gyakran nagyon friss, messzire el lehet látni az öböl felett.",
+                "ro": "Parcați pentru un moment și bucurați-vă de vederea clară de iarnă; aerul este adesea foarte curat, permițând o vizibilitate mare peste golf.",
+                "en": "Park for a moment and enjoy the clear winter view; the air is often very crisp, allowing for long-distance views over the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Kasr-ı Hümayün Av Köşkü",
+                "hu": "Kasr-ı Hümayün Av Köşkü",
+                "ro": "Kasr-ı Hümayün Av Köşkü",
+                "en": "Kasr-ı Hümayün Av Köşkü"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren des Palastes ist es angenehm warm; bewundern Sie die Dekorationen, während Sie sich für die nächste Fahrt aufwärmen.",
+                "hu": "A palota belsejében kellemes meleg van; csodálja meg a díszítéseket, miközben bemelegszik a következő útszakasz előtt.",
+                "ro": "În interiorul palatului este plăcut și cald; admirați decorațiunile în timp ce vă încălziți pentru următoarea etapă a drumului.",
+                "en": "It is pleasantly warm inside the palace; admire the decorations while warming up for the next leg of the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Akçakoca Dere Cami",
+                "hu": "Akçakoca Dere Cami",
+                "ro": "Akçakoca Dere Cami",
+                "en": "Akçakoca Dere Cami"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck bei Kälte; die steilen Straßen zur Moschee erfordern im Winter eine gute Bodenhaftung.",
+                "hu": "Ellenőrizze a guminyomást hidegben; a mecsethez vezető meredek utcák télen jó tapadást igényelnek.",
+                "ro": "Verificați presiunea în anvelope la frig; străzile abrupte către moschee necesită o aderență bună iarna.",
+                "en": "Check your tire pressure in the cold; the steep streets to the mosque require good traction in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                "hu": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                "ro": "İzmit Deprem Farkındalık ve Anma Müzesi",
+                "en": "İzmit Deprem Farkındalık ve Anma Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in diesem beheizten Museum; die Fahrt dorthin bietet bei Einbruch der Dunkelheit schöne Ausblicke auf die Lichter der Stadt.",
+                "hu": "Zárja a napot ebben a fűtött múzeumban; az odaút a sötétedéskor szép kilátást nyújt a város fényeire.",
+                "ro": "Încheiați ziua în acest muzeu încălzit; drumul până acolo oferă vederi frumoase spre luminile orașului la lăsarea întunericului.",
+                "en": "End the day in this heated museum; the drive there offers beautiful views of the city lights as darkness falls."
+              }
+            }
+          ]
+        }
       }
     }
   }

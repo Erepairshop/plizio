@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Trèbes szívében a városházánál, majd figyelje meg a pezsgő életet a kikötőben. Délben felfedezheti az óvárosban található Saint-Étienne templom gazdag történelmét. A délután kivezeti a városból Berriac felé, ahol idillikus nyugalom várja. A nap koronája egy varázslatos séta a történelmi Canal du Midi mentén, ahol a platánfák alatt pihentetően zárhatja az estét.",
         "ro": "Începeți-vă ziua în inima orașului Trèbes la primărie, înainte de a observa forfota plină de viață din port. La prânz, puteți explora istoria bogată a bisericii Saint-Étienne din orașul vechi. După-amiaza vă poartă în afara orașului spre Berriac, unde vă așteaptă o liniște idilică. Punctul culminant este o plimbare magică de-a lungul istoricului Canal du Midi, încheind seara sub platani.",
         "en": "Start your day in the heart of Trèbes at the town hall, before watching the lively hustle and bustle at the port. Around midday, explore the rich history of the Saint-Étienne Church in the old town. The afternoon takes you out of the city towards Berriac, where idyllic peace awaits. The crowning finale is a magical walk along the historic Canal du Midi, ending the evening perfectly under the plane trees."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Rathaus und Hafen mit einem Regenschirm. Suchen Sie mittags Schutz in den historischen Kirchen und bewundern Sie die Innenräume. Spazieren Sie nachmittags am Canal du Midi entlang; die Wege könnten matschig sein, daher sind wasserdichte Schuhe wichtig. Der Abend endet trocken drinnen.",
+            "hu": "Kezdje a reggelt a városházánál és a kikötőben, legyen kéznél az esernyő. Délben keressen menedéket a történelmi templomokban, és csodálja meg a belső teret. Délután a Canal du Midi mentén sétáljon, de készüljön sárra és viseljen vízálló cipőt. Az este hamarabb véget ér egy száraz, meleg helyen.",
+            "ro": "Începeți dimineața la primărie și port, având mereu umbrela la îndemână. La prânz, vizitați bisericile istorice pentru a scăpa de ploaie. După-amiaza, plimbați-vă de-a lungul Canal du Midi; potecile pot fi noroioase, deci purtați încălțăminte impermeabilă. Seara se încheie devreme, într-un loc uscat.",
+            "en": "Start your morning at the town hall and port, keeping your umbrella handy. Midday, visit the historic churches to escape the rain and admire the interiors. Spend your afternoon along the Canal du Midi; paths may be muddy, so waterproof shoes are essential. The evening ends early as you seek a cozy, dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Trèbes",
+                "hu": "Trèbes Városháza",
+                "ro": "Primăria Trèbes",
+                "en": "Trèbes Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und warten Sie starke Schauer in einem Café ab.",
+                "hu": "Csodálja meg az építészetet, és húzódjon be egy közeli kávézóba, ha nagyon esik.",
+                "ro": "Admirați arhitectura și așteptați trecerea ploii într-o cafenea din apropiere.",
+                "en": "Admire the architecture, and use nearby cafes to wait out heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Trèbes",
+                "hu": "Trèbes Kikötő",
+                "ro": "Portul Trèbes",
+                "en": "Port of Trèbes"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser spiegelt den grauen Himmel, aber ein stabiler Schirm gegen den Wind ist nötig.",
+                "hu": "A víz szépen tükrözi a szürke eget, de a csatorna menti szél ellen kell a masszív esernyő.",
+                "ro": "Apa reflectă cerul gri, dar o umbrelă rezistentă vă va proteja de vântul de pe canal.",
+                "en": "The water reflects the grey skies, but bring a sturdy umbrella against canal winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in dieser historischen Kirche und bewundern Sie das Innere fernab des Regens.",
+                "hu": "Keressen menedéket ebben a történelmi templomban, és csodálja meg a belső teret az esőtől védve.",
+                "ro": "Adăpostiți-vă în această biserică istorică și admirați interiorul detaliat, departe de ploaie.",
+                "en": "Seek shelter inside this historic church and admire its intricate interior away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Cécile de Berriac",
+                "hu": "Sainte-Cécile templom",
+                "ro": "Biserica Sainte-Cécile",
+                "en": "Sainte-Cécile Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Zufluchtsort vor dem nassen Wetter; erkunden Sie das Kirchenschiff zum Trocknen.",
+                "hu": "Csendes menedék a nedves időben; fedezze fel a békés hajót, miközben kicsit megszárad.",
+                "ro": "Un refugiu liniștit de vremea umedă; explorați naosul senin în timp ce vă uscați puțin.",
+                "en": "A quiet refuge from the wet weather; explore the serene nave while drying off a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal du Midi",
+                "hu": "Canal du Midi",
+                "ro": "Canal du Midi",
+                "en": "Canal du Midi"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume bieten leichten Schutz, aber die Wege werden matschig, tragen Sie wasserdichte Schuhe.",
+                "hu": "A lombkorona ad némi fedezéket, de a part menti utak sarasak, így a vízálló cipő elengedhetetlen.",
+                "ro": "Coroanele copacilor oferă o ușoară acoperire, dar drumurile devin noroioase, purtați cizme impermeabile.",
+                "en": "The tree canopy offers slight cover, but towpaths get muddy, so wear waterproof boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgenspaziergang beginnt am Rathaus. Mittags können Sie sich in den historischen Kirchen etwas aufwärmen. Der Nachmittag am Canal du Midi zeigt wunderschöne kahle Bäume und Winterfrost. Beenden Sie die Route vor dem frühen Sonnenuntergang um 17 Uhr an einem warmen Ort.",
+            "hu": "A fagyos reggeli séta a városházától indul. Délben felmelegedhet egy kicsit a történelmi templomok belső terében. A délutáni séta a Canal du Midi mentén gyönyörű, csupasz fák látványát nyújtja. Fejezze be az utat a korai, 17:00 órás naplemente előtt, és keressen egy fűtött menedéket estére.",
+            "ro": "O plimbare matinală geroasă începe la primărie. La prânz vă puteți încălzi ușor în interiorul bisericilor istorice. După-amiaza pe malul Canal du Midi dezvăluie copaci desfrunziți și un peisaj de iarnă superb. Terminați traseul înainte de apusul devreme, în jur de ora 17:00, și găsiți un loc cald.",
+            "en": "A crisp morning walk begins at the town hall. Midday offers a chance to warm up slightly inside the historic churches. The afternoon stroll along the Canal du Midi showcases beautiful bare trees and winter frost. Finish your route before the early 5 PM sunset and find a warm place for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Trèbes",
+                "hu": "Trèbes Városháza",
+                "ro": "Primăria Trèbes",
+                "en": "Trèbes Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den Morgen am Rathaus; packen Sie sich warm gegen den Winterfrost ein.",
+                "hu": "Kezdje a reggelt a városháza megtekintésével; öltözzön fel melegen a téli fagy ellen.",
+                "ro": "Începeți dimineața la primărie; îmbrăcați-vă gros pentru a vă proteja de gerul iernii.",
+                "en": "Start your morning viewing the town hall; wrap up warmly against the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Trèbes",
+                "hu": "Trèbes Kikötő",
+                "ro": "Portul Trèbes",
+                "en": "Port of Trèbes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Winteratmosphäre am Hafen; der kalte Wind erfordert einen Schal.",
+                "hu": "Élvezze a békés téli hangulatot a kikötőben; a hideg szél miatt a sál kötelező.",
+                "ro": "Bucurați-vă de atmosfera pașnică de iarnă la port; briza rece necesită un fular bun.",
+                "en": "Enjoy the peaceful winter atmosphere at the port; the cold breeze requires a good scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in dieser beeindruckenden Kirche auf und bewundern Sie die historischen Kunstwerke.",
+                "hu": "Melegedjen fel ebben a lenyűgöző templomban, miközben megcsodálja az ólomüveg ablakokat.",
+                "ro": "Încălziți-vă în această biserică uimitoare în timp ce admirați vitraliile și arta istorică.",
+                "en": "Warm up inside this stunning church while marveling at its stained glass and historic artwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Cécile de Berriac",
+                "hu": "Sainte-Cécile templom",
+                "ro": "Biserica Sainte-Cécile",
+                "en": "Sainte-Cécile Church"
+              },
+              "tip_5lang": {
+                "de": "Aufgrund des kalten Steininneren sollten Sie den Mantel anbehalten, die Winterstille ist magisch.",
+                "hu": "A hideg kőbelső miatt érdemes magán hagyni a kabátot, de a téli csend varázslatos.",
+                "ro": "Interiorul rece din piatră înseamnă că trebuie să păstrați haina, dar liniștea iernii e magică.",
+                "en": "The cold stone interior means you should keep your coat on, but the winter silence is magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal du Midi",
+                "hu": "Canal du Midi",
+                "ro": "Canal du Midi",
+                "en": "Canal du Midi"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter den kahlen Bäumen; genießen Sie die Winterschönheit vor Einbruch der Dunkelheit.",
+                "hu": "Sétáljon a csupasz fák alatt; élvezze a zord téli szépséget, de végezzen sötétedés előtt.",
+                "ro": "Plimbați-vă sub copacii goi; bucurați-vă de frumusețea iernii, dar terminați înainte de a se întuneca.",
+                "en": "Walk under the bare trees; enjoy the stark winter beauty but finish before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Pattanjon kerékpárra, és induljon a festői Trèbes kikötőjéből, mielőtt megcsodálná a közeli templomot. Délben tekerjen észak felé a lenyűgöző Château de Bouilhonnac kastélyhoz. A délutánt a történelmi Saint-Julien templom és a világhírű Canal du Midi menti nyugodt tekerés határozza meg. Estefelé az útvonal Berriac felé vezet, ahol élvezheti a vidéki levegőt és lezárhatja a napot.",
         "ro": "Urcați-vă pe bicicletă și începeți de la portul pitoresc din Trèbes, înainte de a admira biserica din apropiere. La prânz, pedalați spre nord către impresionantul Château de Bouilhonnac. După-amiaza este marcată de biserica istorică Saint-Julien și de o plimbare relaxantă de-a lungul celebrului Canal du Midi. Spre seară, traseul vă duce la Berriac, unde vă puteți bucura de aerul rural liniștit.",
         "en": "Jump on your bike and start at the picturesque port of Trèbes, before admiring the nearby ancient church. At midday, cycle north to the impressive Château de Bouilhonnac. The afternoon is characterized by the historic Saint-Julien church and a relaxing ride along the world-famous Canal du Midi. Towards evening, the route takes you down to Berriac to enjoy the peaceful country air."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre morgendliche Fahrt beginnt am Hafen; Vorsicht vor rutschigem Kopfsteinpflaster. Mittags radeln Sie zum Schloss und zu den Kirchen, die trockene Zuflucht bieten. Nachmittags am matschigen Kanal ist vorsichtiges Lenken gefragt. Tragen Sie helle Regenkleidung für den Abend.",
+            "hu": "A reggeli tekerés a kikötőben kezdődik; vigyázzon a csúszós macskakövekre. Délben a kastélyhoz és a templomokhoz kerekezve száraz menedékeket találhat. A délutáni túra a csatorna sáros ösvényein óvatos kormányzást igényel. Viseljen élénk színű esőruhát a sötétedő estéken.",
+            "ro": "Plimbarea matinală începe la port; atenție la piatra cubică alunecoasă. La prânz pedalați spre castel și biserici, oferind sanctuare uscate. După-amiaza, pe potecile noroioase ale canalului, e nevoie de atenție. Purtați haine de ploaie reflectorizante pentru vizibilitate seara.",
+            "en": "Your morning ride starts at the port; beware of slippery cobblestones. Midday cycling takes you to the castle and historic churches, offering dry sanctuaries. The afternoon ride along the muddy paths of the Canal requires careful steering. Wear bright rain gear to stay visible and safe in the gloomy evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Trèbes",
+                "hu": "Trèbes Kikötő",
+                "ro": "Portul Trèbes",
+                "en": "Port of Trèbes"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Regentropfen am Kanal; prüfen Sie Ihre Bremsen bei Nässe genau.",
+                "hu": "Nézze az esőcseppeket a csatornán; ellenőrizze, hogy a fékek jól fognak-e a nedves időben.",
+                "ro": "Priviți picăturile de ploaie pe canal; asigurați-vă că frânele răspund bine pe carosabil ud.",
+                "en": "Watch raindrops on the canal; ensure your bike brakes are responsive in the wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und trocknen Sie sich beim Erkunden dieses herrlichen religiösen Erbes.",
+                "hu": "Parkolja le a bringát, és lépjen be megszáradni, miközben felfedezi a csodás örökséget.",
+                "ro": "Parcați bicicleta și intrați să vă uscați în timp ce explorați acest patrimoniu religios.",
+                "en": "Park your bike and step inside to dry off while exploring this magnificent religious heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bouilhonnac",
+                "hu": "Bouilhonnac kastély",
+                "ro": "Castelul Bouilhonnac",
+                "en": "Château de Bouilhonnac"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Schloss durch den Nebel; die Zufahrtsstraßen können rutschig sein.",
+                "hu": "Nézze meg a kastélyt a ködben; a felvezető utak csúszósak lehetnek, tekerjen óvatosan.",
+                "ro": "Priviți castelul prin ceață; drumurile de acces pot fi alunecoase, deci pedalați cu grijă.",
+                "en": "View the castle through the mist; the approaching roads can be slippery, so ride carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Julien",
+                "hu": "Saint-Julien templom",
+                "ro": "Biserica Saint-Julien",
+                "en": "Saint-Julien Church"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Pause vom Radfahren im Regen; nehmen Sie sich Zeit für den friedlichen Altar.",
+                "hu": "Tökéletes beltéri pihenő az esős tekerés után; szánjon időt a békés oltár megcsodálására.",
+                "ro": "O pauză perfectă în interior după pedalatul în ploaie; admirați altarul liniștit.",
+                "en": "A perfect indoor break from cycling in the rain; take time to appreciate the peaceful altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal du Midi",
+                "hu": "Canal du Midi",
+                "ro": "Canal du Midi",
+                "en": "Canal du Midi"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg ist auch bei Regen schön, aber achten Sie auf tiefe Pfützen und Matsch.",
+                "hu": "A bicikliút szép esőben is, de figyeljen a mély tócsákra és a saras szakaszokra.",
+                "ro": "Pista e frumoasă în ploaie, dar atenție la bălțile adânci și porțiunile noroioase.",
+                "en": "The cycling path is beautiful in the rain, but watch out for deep puddles and muddy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Cécile de Berriac",
+                "hu": "Sainte-Cécile templom",
+                "ro": "Biserica Sainte-Cécile",
+                "en": "Sainte-Cécile Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die nasse Fahrt mit einem Moment der Ruhe; tragen Sie eine Warnweste.",
+                "hu": "Zárja az esős túrát egy kis nyugalommal itt; mindenképp viseljen láthatósági mellényt.",
+                "ro": "Încheiați plimbarea ploioasă cu un moment de liniște aici; purtați o vestă reflectorizantă.",
+                "en": "End your wet ride with a moment of tranquility here; make sure to wear a high-vis jacket."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frische Morgenfahrt beginnt am Hafen mit eisigem Wind. Das Radeln mittags hält warm auf dem Weg zum Schloss und den Kirchen. Die Nachmittagsroute am Canal du Midi ist schön, erfordert aber Thermokleidung. Stellen Sie sicher, dass Ihr Fahrrad Licht für den frühen Abend hat.",
+            "hu": "A fagyos reggeli bringázás a kikötőnél indul, csípős szélben. A déli tekerés melegen tartja, miközben a kastélyhoz és a templomokhoz ér. A délutáni útvonal a csatorna mentén gyönyörű, de hideg, meleg rétegekre van szükség. Legyen lámpája, hogy sötétedés előtt visszaérjen.",
+            "ro": "O plimbare matinală geroasă începe la port cu vânturi înghețate. Ciclismul de prânz vă ține de cald spre castel și biserici. Traseul de după-amiază pe Canal du Midi este frumos, dar rece, necesitând haine termice. Asigurați-vă că aveți lumini pentru apusul devreme.",
+            "en": "A brisk morning ride starts at the port with freezing winds. Midday cycling keeps your body warm as you head to the castle and local churches. The afternoon route along the Canal du Midi is beautiful but cold, requiring thermal layers. Ensure your bike has lights to finish the route before the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Trèbes",
+                "hu": "Trèbes Kikötő",
+                "ro": "Portul Trèbes",
+                "en": "Port of Trèbes"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft ist belebend; tragen Sie Thermohandschuhe, um Ihre Hände warm zu halten.",
+                "hu": "A friss téli levegő élénkítő; viseljen termo kesztyűt, hogy melegen tartsa a kezét a kormányon.",
+                "ro": "Aerul de iarnă e revigorant; purtați mănuși termice pentru a vă păstra mâinile calde pe ghidon.",
+                "en": "The crisp winter air is invigorating; wear thermal gloves to keep your hands warm on the grips."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause vom kalten Wind und wärmen Sie sich bei der beeindruckenden Architektur auf.",
+                "hu": "Tartson egy szünetet a fagyos szélben, és melegedjen fel az impozáns építészet megcsodálása közben.",
+                "ro": "Faceți o pauză de la vântul înghețat și încălziți-vă în timp ce admirați arhitectura impresionantă.",
+                "en": "Take a break from the freezing wind and warm up while admiring the impressive architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bouilhonnac",
+                "hu": "Bouilhonnac kastély",
+                "ro": "Castelul Bouilhonnac",
+                "en": "Château de Bouilhonnac"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht majestätisch aus; bleiben Sie in Bewegung, um die Körperwärme zu erhalten.",
+                "hu": "A kastély fenségesen fest a halvány égbolt előtt; mozogjon folyamatosan, hogy ne fázzon meg.",
+                "ro": "Castelul arată maiestuos pe cerul palid; continuați să vă mișcați pentru a menține căldura corporală.",
+                "en": "The castle looks majestic against the pale sky; keep moving to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Julien",
+                "hu": "Saint-Julien templom",
+                "ro": "Biserica Saint-Julien",
+                "en": "Saint-Julien Church"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das kühle Kirchenschiff; das winterliche Licht durch die Fenster ist wunderschön.",
+                "hu": "Lépjen be a csendes, hűvös hajóba; az ablakokon átszűrődő téli fény gyönyörű.",
+                "ro": "Intrați în naosul liniștit și rece; lumina de iarnă care se filtrează prin ferestre e superbă.",
+                "en": "Step inside the quiet, chilly nave; the winter light filtering through the windows is beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal du Midi",
+                "hu": "Canal du Midi",
+                "ro": "Canal du Midi",
+                "en": "Canal du Midi"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie unter kahlen Ästen; der Weg ist leer, aber packen Sie sich warm gegen die Kälte ein.",
+                "hu": "Tekerjen a csupasz ágak alatt; az út mentes a tömegtől, de öltözzön fel jó melegen.",
+                "ro": "Pedalați pe sub ramurile goale; poteca este liberă de mulțimi, dar înfofoliți-vă contra frigului.",
+                "en": "Cycle under the bare branches; the path is clear of crowds, but bundle up against the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Cécile de Berriac",
+                "hu": "Sainte-Cécile templom",
+                "ro": "Biserica Sainte-Cécile",
+                "en": "Sainte-Cécile Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt vor der frühen Dämmerung; sorgen Sie für starkes Fahrradlicht.",
+                "hu": "Fejezze be a túrát itt a korai szürkület előtt; gondoskodjon erős kerékpárlámpákról.",
+                "ro": "Terminați plimbarea aici înainte de amurg; asigurați-vă că aveți lumini puternice la bicicletă.",
+                "en": "Finish your ride here before the early twilight; ensure you have strong bike lights."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A kényelmes autós utazás a városházától indul, és elviszi a környék bájos Saint-Marcel és Saint-Martin templomaihoz. Délben megérkezik a fenséges Château de Bouilhonnac kastélyhoz, ahol mintha megállt volna az idő. A délután az archaikus Saint-Julien templomot és a Canal du Midi zsenialitását ötvözi. Zárja ezt a csodálatos kirándulást este a trébesi kikötőben egy kiváló helyi vacsorával.",
         "ro": "O călătorie confortabilă cu mașina începe la primăria din Trèbes și vă duce la fermecătoarele biserici Saint-Marcel și Saint-Martin. La prânz, ajungeți la maiestuosul Château de Bouilhonnac, unde timpul pare să se oprească. După-amiaza combină biserica arhaică Saint-Julien cu strălucirea inginerească a Canal du Midi. Încheiați această excursie minunată seara, în portul Trèbes, cu o cină locală excelentă.",
         "en": "A comfortable car journey begins at the Trèbes town hall and takes you to the charming rural churches of Saint-Marcel and Saint-Martin. At midday, you reach the majestic Château de Bouilhonnac, where time seems to stand still. The afternoon seamlessly combines the archaic Saint-Julien church with the engineering brilliance of the Canal du Midi. End this wonderful trip back at the Port of Trèbes with an excellent local dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen mit einer Fahrt zum Rathaus und den Kirchen. Mittags bietet die Fahrt zum Schloss malerische, neblige Aussichten, ohne nass zu werden. Die Autotour am Nachmittag zum Kanal sorgt dafür, dass Sie trocken bleiben. Genießen Sie den Abend gemütlich drinnen.",
+            "hu": "Kezdje az esős reggelt kényelmes autózással a városházához és a templomokhoz. Délben a kastélyhoz vezető út festői, ködös kilátást nyújt, anélkül, hogy elázna. A délutáni autózás a csatornához biztosítja, hogy száraz maradjon. Töltsön egy hangulatos estét egy meleg étteremben az eső elől menekülve.",
+            "ro": "Începeți dimineața ploioasă conducând confortabil spre primărie și bisericile locale. La prânz, drumul spre castel oferă priveliști pitorești și cețoase. Traseul auto de după-amiază spre canal și port vă asigură că rămâneți uscat. Bucurați-vă de o seară confortabilă la adăpost de ploaie.",
+            "en": "Start the rainy morning driving comfortably to the town hall and local churches. Midday, the drive to the castle offers scenic, misty views without getting wet. The afternoon car route to the canal and port ensures you stay dry between stops. Enjoy a cozy evening in a warm restaurant while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Trèbes",
+                "hu": "Trèbes Városháza",
+                "ro": "Primăria Trèbes",
+                "en": "Trèbes Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe für einen schnellen Blick auf das Gebäude an einem Regentag.",
+                "hu": "Parkoljon a közelben, és szaladjon át megnézni az épületet; remek kezdőpont esős napon.",
+                "ro": "Parcați în apropiere și faceți o scurtă fugă pentru a vedea clădirea pe timp de ploaie.",
+                "en": "Park nearby and make a quick dash to see the building; a great starting point on a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Marcel",
+                "hu": "Saint-Marcel templom",
+                "ro": "Biserica Saint-Marcel",
+                "en": "Saint-Marcel Church"
+              },
+              "tip_5lang": {
+                "de": "Leicht mit dem Auto erreichbar; entfliehen Sie dem Regen in diese historische Atmosphäre.",
+                "hu": "Autóval könnyen megközelíthető, lépjen be az eső elől, és élvezze a történelmi hangulatot.",
+                "ro": "Ușor accesibilă cu mașina, intrați pentru a scăpa de ploaie și a admira istoria.",
+                "en": "Easily accessible by car, step inside to escape the downpour and enjoy the historic atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Schirm für den kurzen Weg zum Eingang bereit; genießen Sie die Ruhe drinnen.",
+                "hu": "Tartson esernyőt az autóban a bejáratig tartó rövid sétához; élvezze a száraz, békés belsőt.",
+                "ro": "Păstrați o umbrelă în mașină pentru scurta plimbare până la intrare; bucurați-vă de interior.",
+                "en": "Keep an umbrella in the car for the short walk to the entrance; enjoy the dry, peaceful interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bouilhonnac",
+                "hu": "Bouilhonnac kastély",
+                "ro": "Castelul Bouilhonnac",
+                "en": "Château de Bouilhonnac"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel verleiht dem Schloss eine mysteriöse Aura; genießen Sie die Sicht aus dem warmen Auto.",
+                "hu": "A köd titokzatos aurát kölcsönöz a kastélynak; élvezze a kilátást a fűtött autóból.",
+                "ro": "Ceața adaugă o aură misterioasă castelului; bucurați-vă de priveliște din mașina încălzită.",
+                "en": "The mist adds a mysterious aura to the castle; enjoy the view from the comfort of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Julien",
+                "hu": "Saint-Julien templom",
+                "ro": "Biserica Saint-Julien",
+                "en": "Saint-Julien Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Beine vertreten; flüchten Sie vor dem Regen, um den Altar zu sehen.",
+                "hu": "Gyors megálló a lábak kinyújtóztatására; szaladjon be az eső elől megnézni a szép oltárt.",
+                "ro": "O scurtă oprire pentru a vă dezmorți picioarele; fugiți înăuntru pentru a vedea altarul frumos.",
+                "en": "A quick stop to stretch your legs; dash inside to see the beautiful altar away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal du Midi",
+                "hu": "Canal du Midi",
+                "ro": "Canal du Midi",
+                "en": "Canal du Midi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser, um den Regen auf dem Kanal zu sehen, ohne matschig zu werden.",
+                "hu": "Parkoljon közel a vízhez, hogy lássa az esőt a csatornán, anélkül, hogy sáros lenne a parton.",
+                "ro": "Parcați aproape de apă pentru a vedea ploaia lovind canalul fără a vă murdări de noroi.",
+                "en": "Park close to the water to see the rain hitting the canal without getting muddy on the banks."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Trèbes",
+                "hu": "Trèbes Kikötő",
+                "ro": "Portul Trèbes",
+                "en": "Port of Trèbes"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Boote im Regen aus der Sicherheit und Wärme Ihres geparkten Autos.",
+                "hu": "Nézze az esőben ringatózó hajókat a parkoló járműve biztonságából és melegéből.",
+                "ro": "Priviți bărcile legănându-se în ploaie din siguranța și căldura vehiculului parcat.",
+                "en": "Watch the boats bobbing in the rain from the safety and warmth of your parked vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine bequeme Morgenfahrt lässt Sie die Stadt mit eingeschalteter Autoheizung erkunden. Der Mittagsbesuch am Schloss bietet frische Winterluft, bevor Sie sich wieder aufwärmen. Der Nachmittag endet am eisigen Kanal. Genießen Sie den frühen Sonnenuntergang um 17 Uhr bequem aus Ihrem Auto.",
+            "hu": "A kényelmes reggeli autózás lehetővé teszi, hogy fűtött kocsiból fedezze fel a várost és a templomokat. Délben a kastélynál élvezheti a friss téli levegőt, majd visszatérhet a melegbe. A délután a fagyos csatornánál és a kikötőnél ér véget. Nézze a korai naplementét az autó kényelméből.",
+            "ro": "O plimbare matinală confortabilă cu mașina, cu căldura pornită, vă permite să explorați orașul. Vizita de la prânz la castel vă învăluie în aerul rece de iarnă. După-amiaza se termină la canalul înghețat și portul liniștit. Admirați apusul devreme, la ora 17:00, din confortul mașinii.",
+            "en": "A comfortable morning drive lets you explore the town and churches with the car heater on. Midday visit to the castle immerses you in the crisp winter air before retreating to warmth. The afternoon finishes at the icy canal and quiet port. Enjoy the early winter evening comfortably, watching the 5 PM sunset from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Trèbes",
+                "hu": "Trèbes Városháza",
+                "ro": "Primăria Trèbes",
+                "en": "Trèbes Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der frischen Winterluft, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "Rövid szabadtéri megálló a friss téli levegőn, mielőtt visszaugrik a meleg, fűtött autóba.",
+                "ro": "O scurtă oprire în aerul rece de iarnă înainte de a sări înapoi în mașina caldă.",
+                "en": "A brief outdoor stop in the crisp winter air before hopping back into your warm, heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Marcel",
+                "hu": "Saint-Marcel templom",
+                "ro": "Biserica Saint-Marcel",
+                "en": "Saint-Marcel Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den ruhigen Wintermorgen drinnen; die Steinböden sind kalt, tragen Sie warme Socken.",
+                "hu": "Élvezze a csendes téli reggelt bent; a kőpadló hideg, ezért viseljen meleg zoknit.",
+                "ro": "Bucurați-vă de dimineața de iarnă înăuntru; podelele de piatră sunt reci, purtați șosete groase.",
+                "en": "Enjoy the quiet winter morning inside; the stone floors are cold, so wear warm socks."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet das Äußere; ein kurzer, kühler Spaziergang vom Parkplatz.",
+                "hu": "A téli napfény kiemeli a templom külsejét; rövid, fagyos séta a parkolótól.",
+                "ro": "Soarele de iarnă evidențiază exteriorul bisericii; o plimbare scurtă și rece de la parcare.",
+                "en": "The winter sun highlights the church exterior; a short, chilly walk from your parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Bouilhonnac",
+                "hu": "Bouilhonnac kastély",
+                "ro": "Castelul Bouilhonnac",
+                "en": "Château de Bouilhonnac"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die frostigen Anlagen um das Schloss; das Auto hält Sie schön warm.",
+                "hu": "Csodálja meg a kastély körüli dérmenetes területet; a vezetés megkönnyíti a felmelegedést.",
+                "ro": "Admirați terenurile acoperite de brumă din jurul castelului; mașina vă ține de cald.",
+                "en": "Admire the frost-covered grounds around the castle; driving makes it easy to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Julien",
+                "hu": "Saint-Julien templom",
+                "ro": "Biserica Saint-Julien",
+                "en": "Saint-Julien Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die Architektur zu bewundern; die Winterstille macht den Besuch sehr friedlich.",
+                "hu": "Lépjen be, hogy megcsodálja az építészetet; a téli csend hihetetlenül békéssé teszi a látogatást.",
+                "ro": "Intrați pentru a admira arhitectura; liniștea iernii face vizita incredibil de pașnică.",
+                "en": "Step inside to admire the architecture; the winter stillness makes the visit incredibly peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal du Midi",
+                "hu": "Canal du Midi",
+                "ro": "Canal du Midi",
+                "en": "Canal du Midi"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die kahlen Bäume im eisigen Wasser spiegeln; halten Sie den Wintermantel bereit.",
+                "hu": "Álljon meg megnézni a fagyos vízben tükröződő csupasz fákat; tartsa kéznél a télikabátot.",
+                "ro": "Opriți-vă pentru a vedea copacii goi reflectați în apa înghețată; țineți haina de iarnă la îndemână.",
+                "en": "Stop to see the bare trees reflecting in the icy water; keep your winter coat handy."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Trèbes",
+                "hu": "Trèbes Kikötő",
+                "ro": "Portul Trèbes",
+                "en": "Port of Trèbes"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt am ruhigen Hafen; genießen Sie ein warmes Getränk vor Sonnenuntergang.",
+                "hu": "Zárja az utat a csendes téli kikötőben; igyon egy meleg italt, mielőtt 17 óra körül lemegy a nap.",
+                "ro": "Încheiați plimbarea la portul liniștit de iarnă; beți ceva cald înainte de apusul de la ora 17:00.",
+                "en": "Conclude your drive at the quiet winter port; enjoy a warm drink before the sun sets around 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

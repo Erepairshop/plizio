@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt Poissy polgári szívében, a Hôtel de Ville-nél, majd kóstolja meg a helyi hagyományokat a Noyau de Poissy-nél. \n\n Délben merüljön el a történelemben a csodálatos Collégiale Notre-Dame-ban, mielőtt a Musée du Jouet gyermekkorba repítő nosztalgiájába lépne. \n\n A délután a béke és a természet ötvözete a királyi perjelség maradványai között és a Parc Meissonier tavainál. \n\n Zárja a sétát Le Corbusier ikonikus Villa Savoye-jának felejthetetlen esti látogatásával, megkoronázva a hatalmas építészeti változatosság napját.",
         "ro": "Începeți dimineața în centrul civic al orașului Poissy la Hôtel de Ville, urmat de un gust de tradiție la localul Noyau de Poissy. \n\n La prânz, cufundați-vă în istorie la magnifica Collégiale Notre-Dame înainte de a păși în nostalgia copilăriei la Musée du Jouet. \n\n După-amiaza este un amestec de pace și natură, plimbându-vă prin rămășițele Prioratului Regal și relaxându-vă la Parc Meissonier. \n\n Încheiați plimbarea cu o vizită de seară de neuitat la iconica Villa Savoye a lui Le Corbusier, încununând o zi de o imensă varietate arhitecturală.",
         "en": "Begin your morning in the civic heart of Poissy at the Hôtel de Ville, followed by a taste of tradition at the local Noyau de Poissy. \n\n By midday, immerse yourself in deep history at the magnificent Collégiale Notre-Dame before stepping into childhood nostalgia at the Musée du Jouet. \n\n Your afternoon is a blend of peace and nature, wandering through the Royal Priory remnants and relaxing by the ponds of Parc Meissonier. \n\n Conclude the walk with an unforgettable evening visit to Le Corbusier's iconic Villa Savoye, capping off a day of immense architectural variety."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt am Rathaus. Mittags bietet die Destillerie Noyau eine willkommene trockene Pause mit Verkostung. Am Nachmittag erkunden Sie die Stiftskirche und das Spielzeugmuseum, die beide hervorragenden Schutz vor Güssen bieten. Beenden Sie die Tour in der Villa Savoye, wo Sie den Regen durch die Panoramafenster beobachten können. Achten Sie auf rutschiges Kopfsteinpflaster.",
+            "hu": "Kezdje a napot a városháza ereszei alatt. Délben a Noyau lepárló nyújt fedett menedéket és melengető kóstolót. Délután a monumentális apátság és a Játékmúzeum belső tereiben maradhat szárazon. A napot a Villa Savoye-ban zárja, ahol a szalagablakokon át figyelheti az esőcseppeket. Viseljen vízálló cipőt a néha csúszós macskaköveken.",
+            "ro": "Începeți ziua sub arcadele primăriei. La prânz, distileria Noyau oferă un refugiu uscat și o degustare caldă. După-amiaza, explorați colegiata și Muzeul Jucăriilor, ambele oferind protecție excelentă împotriva ploii. Încheiați la Villa Savoye, admirând ploaia prin ferestrele panoramice. Atenție la pavajul alunecos din centrul vechi.",
+            "en": "Start your day sheltered by the Town Hall. At noon, the Noyau distillery provides a welcome dry break with a tasting. In the afternoon, explore the collegiate church and the Toy Museum, both offering excellent protection from showers. End your tour at Villa Savoye, watching the rain through the iconic ribbon windows. Watch out for slippery cobblestones in the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville",
+                "hu": "Hôtel de Ville",
+                "ro": "Hôtel de Ville",
+                "en": "Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus dem Schutz des Eingangs; der Platz davor kann bei Regen sehr rutschig sein, tragen Sie festes Schuhwerk.",
+                "hu": "Csodálja meg a homlokzatot a bejárat védelméből; a tér burkolata esőben csúszós lehet, ezért válasszon tapadó talpú lábbelit.",
+                "ro": "Admirați fațada din protecția intrării; piața poate fi foarte alunecoasă pe ploaie, purtați încălțăminte cu talpă aderentă.",
+                "en": "Admire the facade from the shelter of the entrance; the square can be very slippery in the rain, so wear sturdy footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Noyau de Poissy",
+                "hu": "Noyau de Poissy",
+                "ro": "Noyau de Poissy",
+                "en": "Noyau de Poissy"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort bei Regen; besichtigen Sie die historischen Kupferkessel im Trockenen und genießen Sie eine wärmende Likörverkostung.",
+                "hu": "Ideális megálló esőben; nézze meg a történelmi rézüstöket fedett helyen, és élvezze a melengető likőrkóstolót a látogatás végén.",
+                "ro": "Un loc ideal pe ploaie; vizitați cazanele istorice de cupru la adăpost și bucurați-vă de o degustare de lichior care vă va încălzi.",
+                "en": "An ideal spot during rain; visit the historic copper stills indoors and enjoy a warming liqueur tasting at the end of your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Notre-Dame",
+                "hu": "Collégiale Notre-Dame",
+                "ro": "Collégiale Notre-Dame",
+                "en": "Collégiale Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Das massive Kirchenschiff bietet perfekten Schutz; nutzen Sie die Zeit, um die Details der Kapitelle ohne Eile im Trockenen zu studieren.",
+                "hu": "A masszív templomhajó tökéletes menedéket nyújt; használja ki az időt a faragott oszlopfők nyugodt, száraz helyen történő megtekintésére.",
+                "ro": "Nava masivă a bisericii oferă adăpost perfect; folosiți timpul pentru a studia detaliile capitelurilor în liniște, la loc uscat.",
+                "en": "The massive nave offers perfect shelter; use the time to study the details of the capitals calmly while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Jouet",
+                "hu": "Musée du Jouet",
+                "ro": "Musée du Jouet",
+                "en": "Musée du Jouet"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in diesem Indoor-Paradies; die nostalgische Sammlung lässt Sie das graue Wetter draußen schnell vergessen.",
+                "hu": "Hosszabbítsa meg maradását ebben a fedett paradicsomban; a nosztalgikus gyűjtemény feledteti Önnel a kinti szürke és esős időjárást.",
+                "ro": "Prelungiți vizita în acest paradis interior; colecția nostalgică vă va face să uitați rapid de vremea gri și ploioasă de afară.",
+                "en": "Extend your stay in this indoor paradise; the nostalgic collection will make you quickly forget the grey, rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Prieuré royal Saint-Louis",
+                "hu": "Prieuré royal Saint-Louis",
+                "ro": "Prieuré royal Saint-Louis",
+                "en": "Prieuré royal Saint-Louis"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den alten Bögen; die mittelalterlichen Ruinen wirken im Regen besonders atmosphärisch, aber Vorsicht vor Pfützen.",
+                "hu": "Keressen menedéket a régi ívek alatt; a középkori romok esőben különösen hangulatosak, de ügyeljen a mélyebb pocsolyákra az udvaron.",
+                "ro": "Căutați adăpost sub arcadele vechi; ruinele medievale sunt extrem de atmosferice pe ploaie, dar fiți atenți la bălțile din curte.",
+                "en": "Seek shelter under the ancient arches; the medieval ruins are particularly atmospheric in the rain, but watch out for deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Meissonier",
+                "hu": "Parc Meissonier",
+                "ro": "Parc Meissonier",
+                "en": "Parc Meissonier"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie nur die befestigten Wege, um Schlamm zu vermeiden; der Blick auf den dampfenden Teich ist auch unter einem Schirm reizvoll.",
+                "hu": "Csak a kiépített utakat használja a sár elkerülése érdekében; a párás tó látványa az esernyő alól is különleges élményt nyújt.",
+                "ro": "Folosiți doar potecile pavate pentru a evita noroiul; vederea iazului aburind este încântătoare chiar și de sub umbrelă.",
+                "en": "Stick to the paved paths to avoid mud; the view of the misty pond is quite charming even when seen from under an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Savoye",
+                "hu": "Villa Savoye",
+                "ro": "Villa Savoye",
+                "en": "Villa Savoye"
+              },
+              "tip_5lang": {
+                "de": "Das Interieur ist absolut trocken und hell; beobachten Sie das Spiel des Regens auf der Dachterrasse durch die großen Glasfronten.",
+                "hu": "A belső terek világosak és szárazak; figyelje az eső játékát a tetőteraszon a hatalmas üvegfelületeken keresztül, biztonságban.",
+                "ro": "Interiorul este luminos și uscat; observați jocul ploii pe terasa de pe acoperiș prin suprafețele mari vitrate, în siguranță.",
+                "en": "The interior is bright and dry; watch the play of rain on the roof terrace through the large glass panes while staying warm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Poissy im Winterlicht. Starten Sie frisch am Rathaus und wärmen Sie sich mittags bei einer Likörprobe in der Destillerie auf. Nutzen Sie die frühen Nachmittagsstunden für die Museen, bevor die Sonne gegen 17:00 Uhr untergeht. Die Villa Savoye wirkt im klaren Winterlicht besonders grafisch. Kleiden Sie sich in Schichten gegen den kalten Wind von der Seine.",
+            "hu": "Fedezze fel Poissyt téli fényekben. Kezdje a reggelt a városházánál, majd délben melegedjen fel a lepárló fűszeres likőrjeivel. A délutáni órákat szentelje a múzeumoknak, mielőtt 17:00 körül leszáll az est. A Villa Savoye formái a tiszta téli levegőben érvényesülnek legjobban. Öltözzön rétegesen a Szajna felől fújó hideg szél miatt.",
+            "ro": "Descoperiți Poissy în lumina iernii. Începeți dimineața la primărie, apoi încălziți-vă la prânz cu lichiorurile aromate de la distilerie. Dedicați după-amiaza muzeelor, înainte de apusul de la ora 17:00. Villa Savoye arată spectaculos în aerul rece și clar. Îmbrăcați-vă în straturi groase împotriva vântului tăios de pe Sena.",
+            "en": "Experience Poissy in the winter light. Start fresh at the Town Hall and warm up at noon with a liqueur tasting at the distillery. Use the early afternoon for museums before the sun sets around 5:00 PM. Villa Savoye looks particularly graphic in the crisp winter air. Dress in layers against the cold wind blowing from the Seine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hôtel de Ville",
+                "hu": "Hôtel de Ville",
+                "ro": "Hôtel de Ville",
+                "en": "H0tel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos am Morgen; die Architektur wirkt im harten Winterlicht besonders scharf, aber halten Sie Ihre Handschuhe bereit.",
+                "hu": "Rövid fotómegálló reggel; az épület részletei a téli fényben élesen kirajzolódnak, de tartsa készenlétben a kesztyűit a hidegben.",
+                "ro": "O scurtă oprire pentru fotografii; detaliile arhitecturale sunt clare în lumina iernii, dar pregătiți-vă mănușile pentru frig.",
+                "en": "A short morning photo stop; the architecture looks particularly sharp in the winter light, but keep your gloves ready for the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Noyau de Poissy",
+                "hu": "Noyau de Poissy",
+                "ro": "Noyau de Poissy",
+                "en": "Noyau de Poissy"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich aufzuwärmen; die warmen Aromen der Destillerie sind eine Wohltat gegen den Frost draußen auf den Straßen.",
+                "hu": "Tökéletes hely a felmelegedéshez; a lepárló meleg illatai és aromái igazi menedéket nyújtanak a kinti fagyos utcák után.",
+                "ro": "Locul perfect pentru a vă încălzi; aromele calde din distilerie sunt o binecuvântare împotriva gerului de pe străzile orașului.",
+                "en": "The perfect place to warm up; the warm aromas of the distillery are a true comfort against the frost outside on the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Notre-Dame",
+                "hu": "Collégiale Notre-Dame",
+                "ro": "Collégiale Notre-Dame",
+                "en": "Collégiale Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihren Mantel in der Kirche an, da die Steinmauern die Kälte speichern; die Stille lädt zur meditativen Winterruhe ein.",
+                "hu": "Tartsa magán a kabátját a templomban, mert a kőfalak tartják a hideget; a csend tökéletes a meditatív téli elvonuláshoz.",
+                "ro": "Păstrați haina pe dvs. în biserică, deoarece zidurile de piatră rețin frigul; liniștea invită la o reflecție meditativă de iarnă.",
+                "en": "Keep your coat on inside the church as the stone walls retain the cold; the silence invites a meditative winter moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Jouet",
+                "hu": "Musée du Jouet",
+                "ro": "Musée du Jouet",
+                "en": "Musée du Jouet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Ausstellungsräume; die nostalgischen Spielzeuge wecken warme Kindheitserinnerungen an kalten Wintertagen.",
+                "hu": "Élvezze a fűtött kiállítótereket; a nosztalgikus játékok meleg gyermekkori emlékeket idéznek a hideg téli napokon.",
+                "ro": "Bucurați-vă de sălile de expoziție încălzite; jucăriile nostalgice trezesc amintiri calde din copilărie în zilele reci de iarnă.",
+                "en": "Enjoy the heated exhibition rooms; the nostalgic toys evoke warm childhood memories on even the coldest winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Prieuré royal Saint-Louis",
+                "hu": "Prieuré royal Saint-Louis",
+                "ro": "Prieuré royal Saint-Louis",
+                "en": "Prieuré royal Saint-Louis"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Gartenanlage lässt die mittelalterliche Struktur deutlicher hervortreten; ein kurzer Rundgang reicht bei der Winterkälte völlig aus.",
+                "hu": "A kopár kertben a középkori struktúra még tisztábban látszik; a téli hidegben egy rövid séta is elég a romok felfedezéséhez.",
+                "ro": "Grădina golașă scoate în evidență structura medievală; o scurtă plimbare este suficientă pentru a vedea ruinele pe ger.",
+                "en": "The bare garden makes the medieval structure stand out clearly; a short walk is plenty to explore the ruins in the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Meissonier",
+                "hu": "Parc Meissonier",
+                "ro": "Parc Meissonier",
+                "en": "Parc Meissonier"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gefrorene Oberfläche des Teiches; die kahlen Bäume bieten weite Sichtachsen, die im Sommer durch Laub verdeckt sind.",
+                "hu": "Csodálja meg a tó befagyott víztükrét; a kopasz fák olyan távlati kilátást engednek, amit nyáron elfed a dús lombozat.",
+                "ro": "Admirați suprafața înghețată a iazului; copacii desfrunziți oferă perspective largi care vara sunt ascunse de frunzișul bogat.",
+                "en": "Admire the frozen surface of the pond; the bare trees offer wide vistas that are usually hidden by foliage in the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Savoye",
+                "hu": "Villa Savoye",
+                "ro": "Villa Savoye",
+                "en": "Villa Savoye"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um das letzte Tageslicht zu nutzen; die weiße Fassade leuchtet im Sonnenuntergang besonders intensiv.",
+                "hu": "Érkezzen 16:30 előtt, hogy kihasználja az utolsó fényeket; a fehér homlokzat az alkonyatban különleges, ragyogó színt kap.",
+                "ro": "Sosiți înainte de ora 16:30 pentru a profita de ultima lumină; fațada albă strălucește intens în lumina apusului de iarnă.",
+                "en": "Arrive before 4:30 PM to catch the last daylight; the white facade glows intensely in the early winter sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje a kerékpáros napot a modern Forum Armand-Peugeot-nál, majd tekerjen a folyó felé, hogy megcsodálja a Vieux Pont középkori maradványait. \n\n A dél pihentető szünetet hoz a lenyűgöző Collégiale Notre-Dame-nál, amelyet egy gyors fotómegálló követ a Meissonier-szobornál. \n\n Töltse a délutánt zöldebb utakon kerekezve, hogy felfedezze az elegáns Chateau de Villiers-t, élvezve a friss levegőt. \n\n A nap a látványos Villa Savoye-hoz tett kerékpározással zárul, ahol a modernista történelem tökéletesen megkoronázza a kétkerekű kalandot.",
         "ro": "Începeți ziua de ciclism la modernul Forum Armand-Peugeot, înainte de a pedala spre râu pentru a admira rămășițele medievale ale Vieux Pont. \n\n Prânzul aduce o pauză spirituală la uimitoarea Collégiale Notre-Dame, urmată de o oprire foto rapidă la Statuia lui Meissonier. \n\n Petreceți-vă după-amiaza pedalând pe bulevarde mai verzi pentru a descoperi elegantul Chateau de Villiers, bucurându-vă de aerul proaspăt. \n\n Ziua se încheie cu o plimbare către spectaculoasa Villa Savoye, unde istoria modernistă vă încununează perfect aventura pe două roți.",
         "en": "Kick off your cycling day at the modern Forum Armand-Peugeot, before pedaling towards the river to admire the medieval remnants of the Vieux Pont. \n\n Midday brings a spiritual pause at the striking Collégiale Notre-Dame, followed by a quick photo stop at the Meissonier Statue to break up the ride. \n\n Spend your afternoon cycling through greener avenues to discover the elegant Chateau de Villiers, enjoying the fresh air and charming estates. \n\n Your day wraps up with a ride to the spectacular Villa Savoye, where modernist history perfectly caps your two-wheeled adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert Vorsicht. Starten Sie am Forum und nutzen Sie die Brücke für tolle Fotos, trotz Regen. Die Stiftskirche bietet einen trockenen Halt. Die Fahrt zum Schloss Villiers führt durch Pfützen, also Schutzbleche prüfen. Die Tour endet an der Villa Savoye, wo Sie Ihre Räder unter den Pilotis trocken parken können. Achten Sie auf Bremswege.",
+            "hu": "Az esős bringázás óvatosságot igényel. Kezdje a Forumnál, majd a hídon készítsen hangulatos fotókat a ködös Szajnáról. Az apátság kiváló megálló a száradáshoz. A Villiers kastély felé vezető úton figyeljen a tócsákra. A túrát a Villa Savoye-nál zárja, ahol a tartóoszlopok alatt fedett helyen parkolhat. Vigyázzon a féktávval.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență. Începeți la Forum și folosiți podul pentru fotografii atmosferice. Colegiata oferă un popas uscat. Drumul spre castelul Villiers poate avea bălți, verificați apărătorile. Încheiați la Villa Savoye, unde puteți parca sub piloni, la adăpost. Atenție la distanța de frânare.",
+            "en": "A wet bike ride requires caution. Start at the Forum and use the bridge for atmospheric photos despite the rain. The collegiate church offers a dry stop. The path to Chateau de Villiers might have puddles, so check your mudguards. End at Villa Savoye, where you can park under the pilotis to stay dry. Be careful with braking distances."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forum Armand-Peugeot",
+                "hu": "Forum Armand-Peugeot",
+                "ro": "Forum Armand-Peugeot",
+                "en": "Forum Armand-Peugeot"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier unter dem Vordach; prüfen Sie Ihre Bremsen und Beleuchtung, bevor Sie in den Regen hinausfahren.",
+                "hu": "Kezdje a túrát az előtető alatt; ellenőrizze a fékeket és a világítást, mielőtt kihajtana az esőbe.",
+                "ro": "Începeți sub copertină; verificați frânele și luminile înainte de a porni prin ploaie prin oraș.",
+                "en": "Start under the overhang; check your brakes and lights thoroughly before heading out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Pont",
+                "hu": "Vieux Pont",
+                "ro": "Vieux Pont",
+                "en": "Vieux Pont"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem nassen Steinbelag; steigen Sie eventuell ab, da der Boden auf der alten Brücke sehr rutschig sein kann.",
+                "hu": "Vigyázzon a nedves kőburkolaton; érdemes lehet leszállni, mert a régi híd felülete rendkívül csúszós esőben.",
+                "ro": "Atenție pe pavajul umed; ar fi bine să coborâți de pe bicicletă, deoarece podul vechi este foarte alunecos.",
+                "en": "Be careful on the wet stone surface; you might want to dismount as the old bridge can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Notre-Dame",
+                "hu": "Collégiale Notre-Dame",
+                "ro": "Collégiale Notre-Dame",
+                "en": "Collégiale Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Portal und nutzen Sie die Pause für eine Innenbesichtigung im Trockenen, um sich kurz aufzuwärmen.",
+                "hu": "Parkoljon közel a kapuhoz, és használja ki a szünetet egy belső látogatásra a szárazban, hogy kicsit átmelegedjen.",
+                "ro": "Parcați aproape de portal și profitați de pauză pentru o vizită în interior, la adăpost, pentru a vă încălzi puțin.",
+                "en": "Park near the portal and use the break for an indoor visit in the dry to warm up and dry off slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue of Ernest Meissonier",
+                "hu": "Statue of Ernest Meissonier",
+                "ro": "Statue of Ernest Meissonier",
+                "en": "Statue of Ernest Meissonier"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr kurzer Stopp für ein Foto; die Statue wirkt im Regen melancholisch, aber halten Sie die Fahrt kurz, um nicht auszukühlen.",
+                "hu": "Nagyon rövid fotómegálló; a szobor melankolikusnak tűnik az esőben, de tartsa röviden a pihenőt, hogy ne hűljön ki.",
+                "ro": "O oprire foarte scurtă pentru poze; statuia pare melancolică pe ploaie, dar nu staționați mult pentru a nu vă răci.",
+                "en": "A very short photo stop; the statue looks melancholic in the rain, but keep the pause brief to avoid getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Chateau de Villiers",
+                "hu": "Chateau de Villiers",
+                "ro": "Chateau de Villiers",
+                "en": "Chateau de Villiers"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können matschig sein; bleiben Sie auf den Hauptwegen und bewundern Sie das Schloss aus kurzer Distanz.",
+                "hu": "A bekötőutak sárosak lehetnek; maradjon a főutakon, és csodálja meg a kastélyt közelebbről, elkerülve a mély sarat.",
+                "ro": "Drumurile de acces pot fi noroioase; rămâneți pe căile principale și admirați castelul de la mică distanță.",
+                "en": "Access paths might be muddy; stay on the main tracks and admire the chateau from a safe distance to avoid mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Savoye",
+                "hu": "Villa Savoye",
+                "ro": "Villa Savoye",
+                "en": "Villa Savoye"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich unter dem Haus zum Abstellen der Räder; das Gebäude bietet exzellenten Schutz für den Abschluss.",
+                "hu": "Használja a ház alatti fedett részt a biciklik tárolására; az épület kiváló védelmet nyújt a túra befejezéséhez.",
+                "ro": "Folosiți zona acoperită de sub casă pentru a lăsa bicicletele; clădirea oferă protecție excelentă pentru finalul turei.",
+                "en": "Use the covered area under the house to park your bikes; the building offers excellent shelter for the end of your trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Poissy bietet klare Sichten. Starten Sie am Forum und genießen Sie den kalten Wind auf der alten Brücke. Ein Stopp in der Kirche bringt Ruhe und Windschutz. Der Weg zum Schloss Villiers ist bei Frost wunderschön, aber Vorsicht vor Glätte. Beenden Sie die Tour an der Villa Savoye vor Einbruch der Dunkelheit um 17:00 Uhr. Handschuhe sind Pflicht.",
+            "hu": "A téli bringázás Poissy-ban tiszta kilátást ígér. Kezdje a Forumnál, majd élvezze a csípős szelet a régi hídon. A templomi megálló nyugalmat és szélvédelmet nyújt. A Villiers kastély felé vezető út dérlepte tájai gyönyörűek, de ügyeljen a jeges foltokra. A túrát a Villa Savoye-nál zárja sötétedés előtt. A kesztyű kötelező.",
+            "ro": "Ciclismul de iarnă în Poissy oferă priveliști clare. Începeți la Forum și bucurați-vă de vântul rece pe podul vechi. Popasul la biserică oferă liniște și protecție. Drumul spre castelul Villiers este superb când e înghețat, dar atenție la gheață. Încheiați la Villa Savoye înainte de întuneric. Mănușile sunt obligatorii.",
+            "en": "Winter cycling in Poissy offers clear views. Start at the Forum and enjoy the biting wind on the old bridge. A stop at the church provides peace and wind protection. The path to Chateau de Villiers is beautiful when frosted, but watch out for icy patches. End your tour at Villa Savoye before dark. Gloves are a must."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forum Armand-Peugeot",
+                "hu": "Forum Armand-Peugeot",
+                "ro": "Forum Armand-Peugeot",
+                "en": "Forum Armand-Peugeot"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihren Reifendruck für kalte Temperaturen; der moderne Komplex ist ein guter Startpunkt für eine Wintertour.",
+                "hu": "Ellenőrizze a gumiabroncsok nyomását a hidegben; a modern komplexum kiváló kiindulópont egy frissítő téli túrához.",
+                "ro": "Verificați presiunea în pneuri pentru temperaturi scăzute; complexul modern este un punct bun de start pentru iarnă.",
+                "en": "Check your tire pressure for cold temperatures; the modern complex is a great starting point for a winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Pont",
+                "hu": "Vieux Pont",
+                "ro": "Vieux Pont",
+                "en": "Vieux Pont"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann eisig sein; ziehen Sie Ihren Schal fest, während Sie den Blick auf die winterliche Seine genießen.",
+                "hu": "A szél a hídon metsző lehet; húzza szorosabbra a sálját, miközben a téli Szajna látványában gyönyörködik a köveken.",
+                "ro": "Vântul pe pod poate fi tăios; strângeți fularul în timp ce admirați vederea asupra Senei înghețate de pe pod.",
+                "en": "The wind on the bridge can be freezing; tighten your scarf while enjoying the view of the winter Seine from the arches."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Notre-Dame",
+                "hu": "Collégiale Notre-Dame",
+                "ro": "Collégiale Notre-Dame",
+                "en": "Collégiale Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kircheninnere als windgeschützten Ort; die massive Bauweise bietet eine kurze Pause von der winterlichen Brise.",
+                "hu": "Használja a templombelsőt szélvédett helyként; a masszív falak rövid pihenőt kínálnak a téli szél elől menet közben.",
+                "ro": "Folosiți interiorul bisericii ca loc ferit de vânt; zidurile masive oferă o scurtă pauză de la briza rece de iarnă.",
+                "en": "Use the church interior as a wind-sheltered spot; the massive construction offers a brief respite from the winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue of Ernest Meissonier",
+                "hu": "Statue of Ernest Meissonier",
+                "ro": "Statue of Ernest Meissonier",
+                "en": "Statue of Ernest Meissonier"
+              },
+              "tip_5lang": {
+                "de": "Die Statue wirkt in der tiefstehenden Winterstimmung heroisch; machen Sie schnell ein Foto, bevor Ihre Finger zu kalt werden.",
+                "hu": "A szobor hősiesnek tűnik az alacsonyan járó téli napfényben; készítsen egy gyors fotót, mielőtt az ujjai teljesen átfagynának.",
+                "ro": "Statuia pare eroică în lumina joasă a iernii; faceți rapid o poză înainte ca degetele să vă înghețe pe ghidon.",
+                "en": "The statue looks heroic in the low winter sun; take a quick photo before your fingers get too cold for the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Chateau de Villiers",
+                "hu": "Chateau de Villiers",
+                "ro": "Chateau de Villiers",
+                "en": "Chateau de Villiers"
+              },
+              "tip_5lang": {
+                "de": "Der Park wirkt bei Frost wie verzaubert; fahren Sie vorsichtig auf den festen Wegen und achten Sie auf überfrierende Nässe.",
+                "hu": "A park dérlepte fái között tekerni varázslatos; haladjon óvatosan a szilárd utakon, és figyeljen a lefagyásokra.",
+                "ro": "Parcul pare vrăjit sub promoroacă; pedalați cu atenție pe aleile solide și fiți atenți la porțiunile înghețate.",
+                "en": "The park looks enchanted under the frost; ride carefully on the solid paths and watch out for frozen patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Savoye",
+                "hu": "Villa Savoye",
+                "ro": "Villa Savoye",
+                "en": "Villa Savoye"
+              },
+              "tip_5lang": {
+                "de": "Das weiße Haus bildet einen starken Kontrast zum grauen Winterhimmel; wärmen Sie sich nach der Fahrt im Inneren der Villa auf.",
+                "hu": "A fehér ház éles kontrasztot alkot a szürke téli éggel; a bringázás után melegedjen fel a villa fűtött belső tereiben.",
+                "ro": "Casa albă face un contrast puternic cu cerul gri de iarnă; încălziți-vă în interiorul vilei după tura cu bicicleta.",
+                "en": "The white house creates a sharp contrast with the grey winter sky; warm up inside the villa's interior after your ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje autós utazását a Maison de Fer rendkívül szokatlan fémes építészetével, kihasználva a rugalmasságot, amit egy autó nyújt e helyekhez. \n\n Vezessen délre délben, hogy felfedezze a Maison d'Andre Derain művészeti örökségét, elmerülve a gondosan megőrzött stúdiókban. \n\n A délután folytatódik, ahogy észak felé tart a kihagyhatatlan Villa Savoye-hoz, majd a Musée du Jouet vintage gyűjteményeibe vetve magát. \n\n Fejezze be a túrát a Vieux Pont megtekintésével, majd egy festői esti vezetéssel, hogy teljesen ellazuljon a Berges de la Seine mentén.",
         "ro": "Începeți călătoria cu mașina cu arhitectura metalică neobișnuită de la Maison de Fer, bucurându-vă de flexibilitatea pe care o oferă o mașină. \n\n Conduceți spre sud la prânz pentru a explora moștenirea artistică la Maison d'Andre Derain, cufundându-vă în studiourile conservate. \n\n După-amiaza continuă în timp ce vă îndreptați înapoi spre nord către inegalabila Villa Savoye, urmată de o vizită la Musée du Jouet. \n\n Terminați turul cu o scurtă vedere a Vieux Pont înainte de a conduce seara pentru a vă relaxa complet de-a lungul Berges de la Seine.",
         "en": "Start your road trip with the highly unusual metallic architecture of Maison de Fer, enjoying the flexibility a car provides to reach these unique spots. \n\n Drive south by midday to explore the artistic legacy at Maison d'Andre Derain, immersing yourself in the preserved studios and colorful history. \n\n Your afternoon continues as you head back north to the unmissable Villa Savoye, followed by a dive into vintage collections at the Musée du Jouet. \n\n Finish the driving tour with a quick view of the Vieux Pont before a scenic evening drive to relax completely along the Berges de la Seine."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Poissy komfortabel vom Auto aus. Besuchen Sie das Maison de Fer und das Maison Derain, die beide trockene Innenräume bieten. Die Villa Savoye und das Spielzeugmuseum sind perfekte Regen-Ziele. Ein kurzer Halt an der alten Brücke zeigt die Seine im Nebel. Beenden Sie den Tag an den Ufern der Seine, wo Sie den Regen bequem vom Fahrzeug aus beobachten können.",
+            "hu": "Fedezze fel Poissyt kényelmesen az autóból. Látogasson el a Maison de Fer-be és Derain házába, melyek száraz belső tereket kínálnak. A Villa Savoye és a Játékmúzeum tökéletes úticél esőben. A régi hídnál tett rövid megálló a ködös Szajnát mutatja be. A napot a folyóparton zárja, ahol az autó kényelméből figyelheti az esőt.",
+            "ro": "Bucurați-vă de Poissy confortabil din mașină. Vizitați Maison de Fer și casa lui Derain, ambele oferind interioare uscate. Villa Savoye și Muzeul Jucăriilor sunt destinații perfecte pe ploaie. O scurtă oprire la podul vechi oferă o vedere spre Sena în ceață. Încheiați ziua pe malul râului, privind ploaia din mașină.",
+            "en": "Enjoy Poissy comfortably from your car. Visit the Maison de Fer and Derain's house, both offering dry interiors. Villa Savoye and the Toy Museum are perfect rainy-day destinations. A short stop at the old bridge shows the Seine in the mist. End your day at the riverbanks, watching the rain from the comfort of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison de Fer",
+                "hu": "Maison de Fer",
+                "ro": "Maison de Fer",
+                "en": "Maison de Fer"
+              },
+              "tip_5lang": {
+                "de": "Diese Metallstruktur ist ein faszinierendes Indoor-Ziel; nutzen Sie den nahen Parkplatz, um schnell ins Trockene zu gelangen.",
+                "hu": "Ez a fémszerkezetű épület izgalmas fedett látnivaló; használja a közeli parkolót, hogy gyorsan száraz helyre érjen az esőben.",
+                "ro": "Această structură metalică este o atracție interioară fascinantă; folosiți parcarea apropiată pentru a ajunge rapid la adăpost.",
+                "en": "This iron structure is a fascinating indoor destination; use the nearby parking to get quickly into the dry during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison d'Andre Derain",
+                "hu": "Maison d'Andre Derain",
+                "ro": "Maison d'Andre Derain",
+                "en": "Maison d'Andre Derain"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie trocken in diesem Künstlerhaus; bewundern Sie das Atelier, während draußen der Regen gegen die hohen Fenster peitscht.",
+                "hu": "Maradjon szárazon a művész egykori otthonában; csodálja meg a műtermet, miközben kint az eső veri a hatalmas ablakokat.",
+                "ro": "Rămâneți uscați în casa artistului; admirați atelierul în timp ce ploaia bate în ferestrele înalte ale clădirii istorice.",
+                "en": "Stay dry inside this artist's home; admire the studio while the rain lashes against the high windows outside on this wet day."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Savoye",
+                "hu": "Villa Savoye",
+                "ro": "Villa Savoye",
+                "en": "Villa Savoye"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie direkt bis zum Eingang; das angehobene Haus bietet einen trockenen Zugangsweg für Besucher bei schlechtem Wetter.",
+                "hu": "Hajtson közvetlenül a bejárathoz; a megemelt épület száraz utat biztosít a látogatóknak még a legrosszabb időjárás esetén is.",
+                "ro": "Conduceți direct până la intrare; casa suspendată oferă o cale de acces uscată pentru vizitatori chiar și pe vreme rea.",
+                "en": "Drive right up to the entrance; the raised house provides a dry access path for visitors even during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Jouet",
+                "hu": "Musée du Jouet",
+                "ro": "Musée du Jouet",
+                "en": "Musée du Jouet"
+              },
+              "tip_5lang": {
+                "de": "Das perfekte Ziel für einen verregneten Nachmittag; bleiben Sie so lange im Trockenen, wie der Schauer draußen anhält.",
+                "hu": "Tökéletes célpont egy esős délutánra; maradjon a száraz és fűtött belső térben, amíg a kinti zápor el nem vonul végleg.",
+                "ro": "Destinația perfectă pentru o după-amiază ploioasă; rămâneți la adăpost în interior atât timp cât ploaia continuă afară.",
+                "en": "The perfect destination for a rainy afternoon; stay in the dry and heated interior as long as the showers persist outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Pont",
+                "hu": "Vieux Pont",
+                "ro": "Vieux Pont",
+                "en": "Vieux Pont"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie über die Brücke, um die Seine zu sehen; der Blick auf die Ruinen ist im Nebel besonders atmosphärisch und mystisch.",
+                "hu": "Hajtson át a hídon a Szajna látványáért; a romok képe a ködben és esőben különösen hangulatos és misztikus élmény.",
+                "ro": "Conduceți peste pod pentru vederea spre Sena; ruinele par deosebit de atmosferice și mistice în ceață și ploaie.",
+                "en": "Drive over the bridge for the Seine view; the sight of the ruins is particularly atmospheric and mystical in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Berges de la Seine",
+                "hu": "Berges de la Seine",
+                "ro": "Berges de la Seine",
+                "en": "Berges de la Seine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in Ufernähe und beobachten Sie den Regen auf dem Fluss bequem vom warmen Auto aus, während der Tag endet.",
+                "hu": "Parkoljon a part közelében, és figyelje az esőcseppeket a folyón a meleg autó kényelméből, ahogy a nap véget ér.",
+                "ro": "Parcați aproape de mal și observați ploaia pe râu din confortul mașinii calde, în timp ce ziua se încheie liniștit.",
+                "en": "Park near the bank and watch the rain on the river from the comfort of your warm car as the day comes to a close."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Poissy im warmen Auto. Das Maison de Fer und das Maison Derain bieten beheizte Innenräume. Die Villa Savoye ist im Winterlicht ein architektonisches Highlight. Nutzen Sie das Spielzeugmuseum als gemütlichen Rückzugsort. Sehen Sie den Sonnenuntergang an der alten Brücke gegen 17:00 Uhr und beenden Sie die Tour an der Seine mit Blick auf das ruhige Winterwasser.",
+            "hu": "Fedezze fel Poissyt a fűtött autó kényelmében. A Maison de Fer és Derain háza meleg belső tereket kínál. A Villa Savoye a téli fényekben igazi építészeti remekmű. Használja a Játékmúzeumot barátságos menedékként. Nézze meg a naplementét a régi hídnál 17:00 körül, majd zárja a túrát a Szajna nyugodt téli víztükrénél.",
+            "ro": "Explorați Poissy din confortul mașinii încălzite. Maison de Fer și casa lui Derain oferă interioare primitoare. Villa Savoye este o capodoperă în lumina iernii. Folosiți Muzeul Jucăriilor ca un refugiu călduros. Admirați apusul la podul vechi în jurul orei 17:00 și încheiați turul la malul Senei, privind apa liniștită.",
+            "en": "Explore Poissy from the comfort of your heated car. The Maison de Fer and Derain's house offer warm interiors. Villa Savoye is an architectural masterpiece in the winter light. Use the Toy Museum as a cozy retreat. Watch the sunset at the old bridge around 5:00 PM and end your tour at the Seine, viewing the calm winter water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison de Fer",
+                "hu": "Maison de Fer",
+                "ro": "Maison de Fer",
+                "en": "Maison de Fer"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Ästhetik des Eisenhauses wirkt in der tiefstehenden Wintersonne besonders markant und fotogen für Besucher.",
+                "hu": "A vasból készült ház ipari esztétikája az alacsonyan járó téli napfényben különösen markáns és fotogén látványt nyújt.",
+                "ro": "Estetica industrială a casei de fier pare deosebit de marcantă și fotogenă în lumina joasă a soarelui de iarnă.",
+                "en": "The industrial aesthetic of the Iron House looks particularly striking and photogenic in the low winter sun for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison d'Andre Derain",
+                "hu": "Maison d'Andre Derain",
+                "ro": "Maison d'Andre Derain",
+                "en": "Maison d'Andre Derain"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das beheizte Innere des Malerhauses; das Licht im Atelier ist an klaren Wintertagen ganz besonders inspirierend.",
+                "hu": "Élvezze a festő otthonának fűtött belső tereit; a műterem fényei a tiszta téli napokon egészen különlegesek és inspirálóak.",
+                "ro": "Bucurați-vă de interiorul încălzit al casei pictorului; lumina din atelier este deosebit de inspiratoare în zilele senine de iarnă.",
+                "en": "Enjoy the heated interior of the painter's home; the light in the studio is particularly inspiring on clear winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Savoye",
+                "hu": "Villa Savoye",
+                "ro": "Villa Savoye",
+                "en": "Villa Savoye"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie Le Corbusiers Vision im Winter; die Heizung ermöglicht einen komfortablen Besuch trotz der eisigen Kälte draußen.",
+                "hu": "Élje át Le Corbusier vízióját télen is; a fűtés lehetővé teszi a kényelmes látogatást a kinti fagyos időjárás ellenére is.",
+                "ro": "Experimentați viziunea lui Le Corbusier și iarna; încălzirea permite o vizită confortabilă în ciuda gerului de afară.",
+                "en": "Experience Le Corbusier's vision even in winter; the heating allows for a comfortable visit despite the freezing cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Jouet",
+                "hu": "Musée du Jouet",
+                "ro": "Musée du Jouet",
+                "en": "Musée du Jouet"
+              },
+              "tip_5lang": {
+                "de": "Ein nostalgischer Rückzugsort vor der Winterkälte; erkunden Sie die Geschichte des Spielens in einer angenehm beheizten Umgebung.",
+                "hu": "Nosztalgikus menedék a téli hideg elől; fedezze fel a játék történetét kellemesen fűtött és barátságos környezetben.",
+                "ro": "Un refugiu nostalgic în fața frigului de iarnă; explorați istoria jocurilor într-un mediu plăcut încălzit și primitor.",
+                "en": "A nostalgic retreat from the winter chill; explore the history of play in a pleasantly heated and welcoming environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieux Pont",
+                "hu": "Vieux Pont",
+                "ro": "Vieux Pont",
+                "en": "Vieux Pont"
+              },
+              "tip_5lang": {
+                "de": "Die alten Bögen sehen gegen den Winterhimmel wunderschön aus; ein kurzer Fotostopp aus dem Auto heraus ist sehr empfehlenswert.",
+                "hu": "A régi ívek gyönyörűen mutatnak a téli égbolt előtt; egy gyors fotómegálló az autóból kiszállva is erősen ajánlott.",
+                "ro": "Arcadele vechi arată superb pe fundalul cerului de iarnă; o scurtă oprire pentru poze din mașină este recomandată.",
+                "en": "The ancient arches look beautiful against the winter sky; a quick photo stop from the car is highly recommended for everyone."
+              }
+            },
+            {
+              "name": {
+                "de": "Berges de la Seine",
+                "hu": "Berges de la Seine",
+                "ro": "Berges de la Seine",
+                "en": "Berges de la Seine"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die winterliche Dämmerung über dem Fluss; die kahlen Bäume am Ufer bilden eine poetische und stille Kulisse.",
+                "hu": "Figyelje a téli szürkületet a folyó felett; a parton álló kopasz fák költői és csendes hátteret adnak a nap zárásához.",
+                "ro": "Observați amurgul de iarnă deasupra râului; copacii desfrunziți de pe mal creează un cadru poetic și liniștit la final.",
+                "en": "Watch the winter dusk settle over the river; the bare trees on the bank create a poetic and quiet backdrop for the day's end."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel a város szívében, a Viaszmúzeumban kezdődik, majd a Museo de Tijuana helyi öröksége következik. Délben a Teatro de la ciudad építészeti csodáit fedezheti fel. A délután folyamán a MULLME színes pankrátor-világába csöppenhet. Végül az este az El Foro lenyűgöző mór stílusú dizájnjának megcsodálásával zárul.",
         "ro": "Dimineața începe în inima orașului la Muzeul de Ceară, urmat de patrimoniul local la Museo de Tijuana. La prânz admirați arhitectura impresionantă de la Teatro de la ciudad. După-amiaza se schimbă către lumea colorată a wrestling-ului la MULLME. În cele din urmă, seara se încheie admirând designul maur al superbului El Foro.",
         "en": "Your morning starts in the heart of the city at the Wax Museum, followed by local heritage at Museo de Tijuana. Midday brings you to the grand Teatro de la ciudad for architectural marvels. Your afternoon shifts to the vibrant and colorful world of Mexican wrestling at MULLME. Finally, the evening concludes by admiring the stunning Moorish design of El Foro."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen im Wachsmuseum, um den ersten Regenschauern auszuweichen. Mittags bietet das Museo de Tijuana trockenen Unterschlupf, während Sie in die Stadtgeschichte eintauchen. Am Nachmittag führt der Weg zwischen Theater und MULLME durch belebte Straßen; nutzen Sie die Arkaden als Schutz. Der Abend endet im El Foro, dessen massive Struktur auch bei starkem Guss Geborgenheit bietet.",
+            "hu": "Kezdje a reggelt a viaszmúzeum fedett tereiben, elkerülve az első záporokat. Délben a Museo de Tijuana nyújt menedéket a város történetével. Délután a színház és a MULLME múzeum között használjon esernyőt, mert az utcák hamar feltelnek vízzel. Estére az El Foro monumentális épülete zárja a napot, ahol a belső udvar helyett válassza a fedett folyosókat a nézelődéshez a csapadékos időben.",
+            "ro": "Începeți dimineața la muzeul de ceară, evitând primele averse sub acoperiș. La prânz, Museo de Tijuana oferă un refugiu uscat pentru a explora istoria locală. După-amiaza, drumul dintre teatru și MULLME necesită o umbrelă, deoarece trotuarele pot deveni alunecoase. Seara se încheie la El Foro, unde arhitectura impresionantă vă protejează de ploaie în timp ce admirați detaliile palatului.",
+            "en": "Start your morning at the wax museum to escape the first rain showers. At noon, the Museo de Tijuana provides a dry sanctuary while you dive into local history. In the afternoon, the walk between the theater and MULLME requires an umbrella as streets can flood quickly. The evening ends at El Foro, whose massive structure offers great shelter while you admire its grand architecture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Cera",
+                "hu": "Museo de Cera",
+                "ro": "Museo de Cera",
+                "en": "Museo de Cera"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Wachsfiguren in den klimatisierten Hallen und nutzen Sie den überdachten Eingangsbereich, um Ihren Regenschirm in Ruhe aufzuspannen.",
+                "hu": "Csodálja meg a viaszfigurákat a légkondicionált termekben, és használja a fedett bejárati részt az esernyő kényelmes kinyitásához a távozás előtt.",
+                "ro": "Admirați figurile de ceară în sălile climatizate și folosiți zona de intrare acoperită pentru a vă pregăti umbrela fără a vă uda la plecare.",
+                "en": "Admire the wax figures in the climate-controlled halls and use the covered entrance area to comfortably open your umbrella before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Tijuana",
+                "hu": "Museo de Tijuana",
+                "ro": "Museo de Tijuana",
+                "en": "Museo de Tijuana"
+              },
+              "tip_5lang": {
+                "de": "Erforschen Sie die Stadtgeschichte in den trockenen Ausstellungsräumen und achten Sie auf die Stufen am Eingang, die bei Nässe extrem rutschig sein können.",
+                "hu": "Fedezze fel a város történelmét a száraz kiállítótermekben, de ügyeljen a bejárati lépcsőkre, amelyek esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Explorați istoria orașului în sălile de expoziție uscate, dar aveți grijă la treptele de la intrare, care pot fi extrem de alunecoase pe timp de ploaie.",
+                "en": "Explore the city's history in the dry exhibition rooms, but be careful with the entrance steps, which can become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la ciudad",
+                "hu": "Teatro de la ciudad",
+                "ro": "Teatro de la ciudad",
+                "en": "Teatro de la ciudad"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturelle Atmosphäre in diesem architektonischen Juwel und nutzen Sie die Wartebereiche im Inneren, falls ein plötzlicher Schauer niedergeht.",
+                "hu": "Élvezze a kulturális légkört ebben az építészeti ékszerdobozban, és használja a belső várótermeket menedékként, ha hirtelen zápor zúdulna le.",
+                "ro": "Bucurați-vă de atmosfera culturală în această bijuterie arhitecturală și folosiți zonele de așteptare interioare ca adăpost dacă începe o ploaie bruscă.",
+                "en": "Enjoy the cultural atmosphere in this architectural gem and use the interior waiting areas as shelter if a sudden downpour occurs outside."
+              }
+            },
+            {
+              "name": {
+                "de": "MULLME Museum",
+                "hu": "MULLME Múzeum",
+                "ro": "Muzeul MULLME",
+                "en": "MULLME Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Welt des Lucha Libre auf mehreren Etagen; der Besuch eignet sich perfekt, um eine längere Regenfront trocken zu überstehen.",
+                "hu": "Merüljön el a Lucha Libre világában több emeleten keresztül; a látogatás tökéletes módja egy hosszabb esőfront szárazon való átvészelésének.",
+                "ro": "Cufundați-vă în lumea Lucha Libre pe mai multe etaje; vizita este modalitatea perfectă de a supraviețui unei ploi prelungite într-un mediu uscat.",
+                "en": "Immerse yourself in the world of Lucha Libre across multiple floors; this visit is the perfect way to wait out a long rain front in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "El Foro - Antiguo Palacio jai-Alai",
+                "hu": "El Foro - Antiguo Palacio jai-Alai",
+                "ro": "El Foro - Antiguo Palacio jai-Alai",
+                "en": "El Foro - Antiguo Palacio jai-Alai"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die prächtige Fassade kurz und ziehen Sie sich dann in die Arkaden zurück, um die Details ohne nass zu werden zu fotografieren.",
+                "hu": "Csodálja meg rövid ideig a pompás homlokzatot, majd húzódjon be az árkádok alá, hogy anélkül fotózhassa a részleteket, hogy elázna.",
+                "ro": "Admirați fațada splendidă pentru scurt timp, apoi retrageți-vă sub arcade pentru a fotografia detaliile fără a vă uda în ploaie.",
+                "en": "Admire the magnificent facade briefly, then retreat under the arches to photograph the details without getting soaked in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Wintermorgen wärmt Sie der Besuch im Wachsmuseum schnell auf. Mittags lockt das Museo de Tijuana mit mild temperierten Räumen, während draußen eine frische Brise weht. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Weg zum MULLME zügig antreten. Den Abend genießen Sie im El Foro, das in der frühen Dunkelheit wunderschön beleuchtet ist und Schutz vor der Abendkühle bietet.",
+            "hu": "A hűvös téli reggelen a viaszmúzeum látogatása hamar felmelegíti. Délben a Museo de Tijuana mérsékelt hőmérsékletű termei csalogatják, miközben kint friss szél fúj. Mivel a nap már 17:00 körül lenyugszik, érdemes időben elindulni a MULLME felé. Az estét az El Foróban élvezheti, amely a korai sötétségben gyönyörűen ki van világítva, és védelmet nyújt az esti lehűlés ellen.",
+            "ro": "În dimineața răcoroasă de iarnă, vizita la muzeul de ceară vă va încălzi rapid. La prânz, Museo de Tijuana vă atrage cu săli temperate, în timp ce afară bate o briză rece. Deoarece soarele apune deja în jur de ora 17:00, ar trebui să porniți din timp spre MULLME. Seara o veți petrece la El Foro, care este superb iluminat în întunericul timpuriu, oferind adăpost contra frigului.",
+            "en": "On a cool winter morning, a visit to the wax museum will quickly warm you up. At noon, Museo de Tijuana invites you with temperate rooms while a fresh breeze blows outside. Since the sun sets around 5:00 PM, head to MULLME early to catch the last light. Enjoy the evening at El Foro, which is beautifully illuminated in the early darkness and provides shelter from the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Cera",
+                "hu": "Museo de Cera",
+                "ro": "Museo de Cera",
+                "en": "Museo de Cera"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Innenräume für einen gemütlichen Start in den Tag und tragen Sie Schichten, da es im Eingangsbereich ziehen kann.",
+                "hu": "Használja ki a fűtött belső tereket a nap kényelmes kezdéséhez, és öltözködjön rétegesen, mert a bejárati részen huzat lehet.",
+                "ro": "Profitați de interioarele încălzite pentru un început de zi confortabil și îmbrăcați-vă în straturi, deoarece la intrare poate fi curent.",
+                "en": "Take advantage of the heated interiors for a cozy start to the day and dress in layers, as the entrance area can be a bit drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Tijuana",
+                "hu": "Museo de Tijuana",
+                "ro": "Museo de Tijuana",
+                "en": "Museo de Tijuana"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Wärme gut; ideal, um sich zwischen den Spaziergängen aufzuwärmen und die lokalen Exponate in Ruhe zu studieren.",
+                "hu": "A vastag falak jól tartják a meleget; ideális hely a séták közötti felmelegedésre és a helyi kiállítási tárgyak nyugodt tanulmányozására.",
+                "ro": "Zidurile groase rețin bine căldura; locul este ideal pentru a vă încălzi între plimbări și pentru a studia în liniște exponatele locale.",
+                "en": "The thick walls retain heat well, making it an ideal place to warm up between walks while studying the local exhibits at your own pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro de la ciudad",
+                "hu": "Teatro de la ciudad",
+                "ro": "Teatro de la ciudad",
+                "en": "Teatro de la ciudad"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Theater am Nachmittag, um der sinkenden Außentemperatur zu entgehen; die Polstersitze bieten zusätzlichen Komfort an kalten Tagen.",
+                "hu": "Látogassa meg a színházat délután, hogy elkerülje a süllyedő kinti hőmérsékletet; a párnázott ülések extra kényelmet nyújtanak a hideg napokon.",
+                "ro": "Vizitați teatrul după-amiaza pentru a evita scăderea temperaturii exterioare; scaunele tapițate oferă un confort sporit în zilele reci.",
+                "en": "Visit the theater in the afternoon to escape the dropping outdoor temperature; the padded seats offer extra comfort on chilly days."
+              }
+            },
+            {
+              "name": {
+                "de": "MULLME Museum",
+                "hu": "MULLME Múzeum",
+                "ro": "Muzeul MULLME",
+                "en": "MULLME Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch vor 16:30 Uhr, um das natürliche Licht in den oberen Etagen zu nutzen, bevor die frühe winterliche Dämmerung einsetzt.",
+                "hu": "Tervezze látogatását 16:30 elé, hogy kihasználja a felső emeletek természetes fényeit, mielőtt beállna a korai téli szürkület.",
+                "ro": "Planificați-vă vizita înainte de ora 16:30 pentru a profita de lumina naturală de la etajele superioare înainte de amurgul timpuriu de iarnă.",
+                "en": "Plan your visit before 4:30 PM to make the most of the natural light on the upper floors before the early winter twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "El Foro - Antiguo Palacio jai-Alai",
+                "hu": "El Foro - Antiguo Palacio jai-Alai",
+                "ro": "El Foro - Antiguo Palacio jai-Alai",
+                "en": "El Foro - Antiguo Palacio jai-Alai"
+              },
+              "tip_5lang": {
+                "de": "Die frühe Dunkelheit hebt die historische Beleuchtung des Palastes hervor; ein warmer Mantel ist für den Weg zum Ausgang dennoch unerlässlich.",
+                "hu": "A korai sötétség kiemeli a palota történelmi kivilágítását; egy meleg kabát azonban elengedhetetlen a kijárathoz vezető úton.",
+                "ro": "Întunericul timpuriu evidențiază iluminatul istoric al palatului; totuși, o haină groasă este esențială pentru drumul spre ieșire.",
+                "en": "The early darkness highlights the palace's historic lighting; however, a warm coat is essential for the walk to the exit."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon először a Viaszmúzeumhoz, majd merüljön el a Lucha Libre kultúrában a MULLME-ben. A déli tekerés az El Foro ikonikus mór homlokzatához vezet. Délután délre, a Torre Agua Caliente felé indul a sporttörténelem felfedezésére. Az este a Monumento Cuauhtemoc érintésével és az Audiorama pihentető hangulatával ér véget.",
         "ro": "Pedați întâi spre fascinantul Muzeu de Ceară, apoi explorați cultura Lucha Libre la MULLME. Ciclismul de prânz vă aduce la fațada maură a El Foro. După-amiaza călătoriți spre Torre Agua Caliente pentru istoria sportului. Seara se încheie la Monumento Cuauhtemoc, urmată de o relaxare binemeritată la Audiorama.",
         "en": "Pedal to the fascinating Wax Museum first before diving into the unique Lucha Libre culture at MULLME. Midday cycling takes you to the iconic Moorish facade of El Foro. In the afternoon, you ride south to the towering Torre Agua Caliente, soaking in sports history. Your evening finishes navigating to the Monumento Cuauhtemoc and relaxing at Audiorama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig auf den nassen Straßen zum Wachsmuseum. Mittags ist das MULLME Museum ein idealer Stopp, um das Rad sicher zu parken und im Trockenen zu verweilen. Am Nachmittag führt die Route zur Torre Agua Caliente; meiden Sie tiefe Pfützen, die Schlaglöcher verbergen könnten. Der Tag endet am Audiorama, wo Sie unter den überdachten Bereichen Schutz vor dem Abendregen finden.",
+            "hu": "Reggel óvatosan tekerjen a vizes utakon a viaszmúzeumig. Délben a MULLME Múzeum ideális megálló, ahol biztonságban lezárhatja a bringát és szárazon maradhat. Délután az út a Torre Agua Caliente felé vezet; kerülje a mély tócsákat, amik kátyúkat rejthetnek. A nap az Audioramánál ér véget, ahol a fedett részek alatt menedéket talál az esti eső elől.",
+            "ro": "Dimineața, pedalați cu atenție pe străzile ude spre muzeul de ceară. La prânz, Muzeul MULLME este o oprire ideală pentru a parca bicicleta în siguranță și a sta la adăpost. După-amiaza, traseul duce spre Torre Agua Caliente; evitați bălțile adânci care pot ascunde gropi. Ziua se termină la Audiorama, unde veți găsi refugiu sub zonele acoperite contra ploii de seară.",
+            "en": "In the morning, cycle carefully on the wet roads to the wax museum. At noon, the MULLME Museum is an ideal stop to lock your bike safely and stay dry. In the afternoon, the route leads to Torre Agua Caliente; avoid deep puddles that might hide potholes. The day ends at Audiorama, where you can find shelter under the covered areas from the evening rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Cera",
+                "hu": "Museo de Cera",
+                "ro": "Museo de Cera",
+                "en": "Museo de Cera"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad unter dem Dachvorsprung und nutzen Sie den Besuch, um Ihre Regenbekleidung kurz abtropfen zu lassen.",
+                "hu": "Zárja le kerékpárját az ereszkedő tető alatt, és használja ki a látogatást, hogy esőruházata egy kicsit lecsöpöghessen.",
+                "ro": "Asigurați-vă bicicleta sub streșina acoperișului și folosiți vizita pentru a lăsa echipamentul de ploaie să se usuce puțin.",
+                "en": "Secure your bike under the roof overhang and use the visit to let your rain gear drip dry for a bit before the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "MULLME Museum",
+                "hu": "MULLME Múzeum",
+                "ro": "Muzeul MULLME",
+                "en": "MULLME Museum"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den glatten Boden vor dem Museum; im Inneren können Sie sich lange aufhalten, bis der Schlimmste Regen vorbei ist.",
+                "hu": "Vigyázzon a leszálláskor a múzeum előtti csúszós talajra; bent hosszan elidőzhet, amíg a leghevesebb eső alábbhagy.",
+                "ro": "Aveți grijă la solul alunecos din fața muzeului când coborâți; în interior puteți zăbovi mult timp până trece ploaia cea mai grea.",
+                "en": "Watch out for slippery ground in front of the museum when dismounting; stay inside until the heaviest rain subsides."
+              }
+            },
+            {
+              "name": {
+                "de": "El Foro - Antiguo Palacio jai-Alai",
+                "hu": "El Foro - Antiguo Palacio jai-Alai",
+                "ro": "El Foro - Antiguo Palacio jai-Alai",
+                "en": "El Foro - Antiguo Palacio jai-Alai"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden des Palastes als Wind- und Regenschutz für eine kurze Verschnaufpause zwischen den Etappen.",
+                "hu": "Használja a palota árkádjait szél- és esővédelemként egy rövid pihenőhöz a két szakasz közötti tekerés során.",
+                "ro": "Folosiți arcadele palatului ca protecție împotriva vântului și ploii pentru o scurtă pauză între etapele de pedalat.",
+                "en": "Use the palace's arches as wind and rain protection for a quick breather between the cycling legs of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Agua Caliente",
+                "hu": "Torre Agua Caliente",
+                "ro": "Torre Agua Caliente",
+                "en": "Torre Agua Caliente"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet im Eingangsbereich guten Schutz; parken Sie das Rad so, dass die Kette vor direktem Regen geschützt bleibt.",
+                "hu": "A torony bejárati része jó védelmet nyújt; úgy parkolja le a biciklit, hogy a láncot érje a legkevesebb közvetlen eső.",
+                "ro": "Intrarea turnului oferă o protecție bună; parcați bicicleta astfel încât lanțul să rămână protejat de ploaia directă.",
+                "en": "The tower entrance area offers good shelter; park your bike so that the chain remains protected from direct rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Cuauhtemoc",
+                "hu": "Monumento Cuauhtemoc",
+                "ro": "Monumento Cuauhtemoc",
+                "en": "Monumento Cuauhtemoc"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie hier nur kurz für ein Foto; die Straße am Kreisverkehr ist bei Regen besonders rutschig durch aufgewirbeltes Öl.",
+                "hu": "Csak rövid időre álljon meg egy fotóra; a körforgalomnál az út esőben a felvert olaj miatt különösen csúszós lehet.",
+                "ro": "Opriți-vă aici doar scurt pentru o fotografie; drumul de la sensul giratoriu este deosebit de alunecos în ploaie din cauza uleiului.",
+                "en": "Stop only briefly for a photo; the road at the roundabout is particularly slippery in the rain due to kicked-up oil."
+              }
+            },
+            {
+              "name": {
+                "de": "Audiorama",
+                "hu": "Audiorama",
+                "ro": "Audiorama",
+                "en": "Audiorama"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Sitzreihen, um den Tag entspannt ausklingen zu lassen, während Sie Ihr Rad im Blick behalten.",
+                "hu": "Használja a fedett üléssorokat a nap pihentető lezárásához, miközben szemmel tartja a kerékpárját a közeli tárolónál.",
+                "ro": "Folosiți rândurile de scaune acoperite pentru a încheia ziua relaxat, în timp ce vă supravegheați bicicleta parcată aproape.",
+                "en": "Use the covered seating rows to end the day in a relaxed way while keeping an eye on your bike parked nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen ist ideal zum Radfahren durch Tijuana. Starten Sie beim Wachsmuseum und genießen Sie die kühle Luft. Mittags bietet das MULLME Museum eine willkommene Pause zum Aufwärmen. Am Nachmittag sollten Sie die Torre Agua Caliente besuchen, bevor die Sonne gegen 17:00 Uhr sinkt. Den Abschluss bildet das Audiorama, wo die Abendkühle mit warmer Kleidung gut zu ertragen ist.",
+            "hu": "A friss téli reggel ideális a kerékpározáshoz Tijuanában. Kezdjen a viaszmúzeumnál, és élvezze a hűvös levegőt. Délben a MULLME Múzeum nyújt szívesen látott pihenőt a felmelegedéshez. Délután látogassa meg a Torre Agua Calientét, mielőtt a nap 17:00 körül lebukna a horizonton. A záróhelyszín az Audiorama, ahol az esti hűvös réteges öltözettel jól bírható.",
+            "ro": "O dimineață proaspătă de iarnă este ideală pentru ciclism prin Tijuana. Începeți la muzeul de ceară și bucurați-vă de aerul rece. La prânz, Muzeul MULLME oferă o pauză binevenită pentru încălzire. După-amiaza, vizitați Torre Agua Caliente înainte ca soarele să apună în jur de ora 17:00. Finalul are loc la Audiorama, unde răcoarea serii este suportabilă cu haine groase.",
+            "en": "A crisp winter morning is ideal for cycling through Tijuana. Start at the wax museum and enjoy the cool air. At noon, the MULLME Museum provides a welcome break to warm up. In the afternoon, visit Torre Agua Caliente before the sun sets around 5:00 PM. The final stop is Audiorama, where the evening chill is manageable with warm clothing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Cera",
+                "hu": "Museo de Cera",
+                "ro": "Museo de Cera",
+                "en": "Museo de Cera"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie beim Radfahren Handschuhe, da der Fahrtwind am Morgen recht beißend sein kann, bevor Sie das warme Museum betreten.",
+                "hu": "Viseljen kesztyűt kerékpározás közben, mivel a reggeli menetszél elég metsző lehet, mielőtt belépne a meleg múzeumba.",
+                "ro": "Purtați mănuși în timp ce pedalați, deoarece vântul de dimineață poate fi destul de tăios înainte de a intra în muzeul cald.",
+                "en": "Wear gloves while cycling, as the morning wind chill can be quite biting before you enter the warmth of the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "MULLME Museum",
+                "hu": "MULLME Múzeum",
+                "ro": "Muzeul MULLME",
+                "en": "MULLME Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um Ihre Glieder nach der Fahrt aufzuwärmen; die Ausstellungen sind gut beheizt und laden zum Verweilen ein.",
+                "hu": "Használja ki a megállót, hogy átmelegedjen a tekerés után; a kiállítások jól fűtöttek és marasztalóak a hideg ellen.",
+                "ro": "Profitați de oprire pentru a vă încălzi după drum; expozițiile sunt bine încălzite și vă invită să zăboviți la adăpost de frig.",
+                "en": "Use this stop to warm your limbs after the ride; the exhibits are well-heated and perfect for taking a break from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "El Foro - Antiguo Palacio jai-Alai",
+                "hu": "El Foro - Antiguo Palacio jai-Alai",
+                "ro": "El Foro - Antiguo Palacio jai-Alai",
+                "en": "El Foro - Antiguo Palacio jai-Alai"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet in der klaren Winterluft besonders schön; parken Sie das Rad kurz für ein schnelles Foto im Nachmittagslicht.",
+                "hu": "A homlokzat a tiszta téli levegőben különösen szépen ragyog; parkolja le rövid időre a gépet egy gyors fotóra a délutáni fényben.",
+                "ro": "Fațada strălucește deosebit de frumos în aerul clar de iarnă; parcați bicicleta pentru o fotografie rapidă în lumina după-amiezii.",
+                "en": "The facade shines especially bright in the clear winter air; park your bike briefly for a quick photo in the crisp afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Agua Caliente",
+                "hu": "Torre Agua Caliente",
+                "ro": "Torre Agua Caliente",
+                "en": "Torre Agua Caliente"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet Schutz vor dem aufkommenden Abendwind; machen Sie sich bereit für die letzte Etappe, bevor es dunkel wird.",
+                "hu": "A torony védelmet nyújt a feltámadó esti szél ellen; készülődjön fel az utolsó szakaszra, mielőtt teljesen besötétedne.",
+                "ro": "Turnul oferă protecție împotriva vântului de seară care începe să bată; pregătiți-vă pentru ultima etapă înainte de lăsarea întunericului.",
+                "en": "The tower provides shelter from the rising evening wind; get ready for the last leg of your trip before it gets completely dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Cuauhtemoc",
+                "hu": "Monumento Cuauhtemoc",
+                "ro": "Monumento Cuauhtemoc",
+                "en": "Monumento Cuauhtemoc"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Ihre Sichtbarkeit im dichten Verkehr, da die winterliche Dämmerung die Autofahrer blenden kann.",
+                "hu": "Ügyeljen a láthatóságára a sűrű forgalomban, mivel a téli szürkületben a szembe jövő autók fényei zavaróak lehetnek.",
+                "ro": "Aveți grijă la vizibilitate în traficul dens, deoarece amurgul de iarnă poate fi orbitor pentru șoferi în această zonă.",
+                "en": "Ensure your visibility in heavy traffic, as the winter twilight can be blinding for drivers at this busy intersection."
+              }
+            },
+            {
+              "name": {
+                "de": "Audiorama",
+                "hu": "Audiorama",
+                "ro": "Audiorama",
+                "en": "Audiorama"
+              },
+              "tip_5lang": {
+                "de": "Die Abendkühle zieht hier schnell ein; nutzen Sie eine Thermoskanne mit Tee, um die Atmosphäre trotz der Kälte zu genießen.",
+                "hu": "Az esti hűvös gyorsan beköszönt ide; használjon termoszban meleg teát, hogy a hideg ellenére is élvezhesse a hely hangulatát.",
+                "ro": "Răcoarea serii se instalează rapid aici; folosiți un termos cu ceai cald pentru a vă bucura de atmosferă în ciuda frigului.",
+                "en": "The evening chill sets in quickly here; bring a thermos with hot tea to enjoy the atmosphere despite the low temperature."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen a nagyszerű Casa de la Cultura-hoz, majd folytassa a regionális történelemmel a Museo de Tijuana-ban. Délben a MULLME nyújt betekintést a pankráció világába. Ebéd után az ikonikus Torre Agua Caliente és a Monumento Cuauhtemoc várja. Az autós kirándulás a Teatro IMSS Tijuana kényelmében ér véget.",
         "ro": "Conduceți la Casa de la Cultura pentru început, urmată de o incursiune în istoria regională la Museo de Tijuana. La prânz ajungeți la MULLME pentru poveștile de wrestling. După prânz vizitați iconicul Torre Agua Caliente și Monumento Cuauhtemoc. Excursia se încheie confortabil la spectacolele de la Teatro IMSS Tijuana.",
         "en": "Drive to the grand Casa de la Cultura to start the day, followed by a deeper dive into regional history at Museo de Tijuana. Midday takes you directly to the vibrant MULLME for wrestling lore. After lunch, you'll reach the iconic Torre Agua Caliente and the bold Monumento Cuauhtemoc. Your road trip wraps up comfortably at the Teatro IMSS Tijuana."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Fahrt im trockenen Wagen zur Casa de la Cultura. Mittags parken Sie nahe am Museo de Tijuana, um die kurzen Wege im Regen zu minimieren. Am Nachmittag führt die Route zur Torre Agua Caliente; schalten Sie bei starkem Regen das Licht ein. Den Tag beenden Sie beim Teatro IMSS, wo Sie fast direkt vor dem Eingang parken können, um trocken ins Innere zu gelangen.",
+            "hu": "Indítsa útját száraz autóban a Casa de la Cultura felé. Délben parkoljon minél közelebb a Museo de Tijuanához, hogy minimalizálja az esőben megtett gyalogutat. Délután az út a Torre Agua Caliente felé vezet; erős esőben mindenképpen kapcsolja fel a fényszórókat. A napot a Teatro IMSS-nél zárja, ahol szinte közvetlenül a bejárat előtt parkolhat le.",
+            "ro": "Începeți călătoria în mașina uscată spre Casa de la Cultura. La prânz, parcați cât mai aproape de Museo de Tijuana pentru a minimiza mersul prin ploaie. După-amiaza, traseul duce spre Torre Agua Caliente; aprindeți farurile în caz de ploaie torențială. Încheiați ziua la Teatro IMSS, unde puteți parca aproape direct în fața intrării pentru a intra uscat.",
+            "en": "Start your journey in the comfort of your dry car heading to Casa de la Cultura. At noon, park as close as possible to Museo de Tijuana to minimize walking in the rain. In the afternoon, the route leads to Torre Agua Caliente; be sure to turn on your headlights during heavy downpours. End the day at Teatro IMSS, where you can park almost directly in front of the entrance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de la Cultura de Tijuana",
+                "hu": "Casa de la Cultura de Tijuana",
+                "ro": "Casa de la Cultura de Tijuana",
+                "en": "Casa de la Cultura de Tijuana"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Nähe des Haupteingangs, da der Weg bergauf bei Regen rutschig und beschwerlich sein kann.",
+                "hu": "Keressen parkolót a főbejárat közelében, mivel a felfelé vezető út esőben csúszós és nehézkes lehet a látogatók számára.",
+                "ro": "Căutați un loc de parcare lângă intrarea principală, deoarece drumul în pantă poate fi alunecos și dificil pe timp de ploaie.",
+                "en": "Look for a parking spot near the main entrance, as the uphill path can be slippery and cumbersome during rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Tijuana",
+                "hu": "Museo de Tijuana",
+                "ro": "Museo de Tijuana",
+                "en": "Museo de Tijuana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um trockenen Fußes ins Museum zu gelangen; achten Sie auf Pfützen in den tiefer gelegenen Bereichen.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal jusson el a múzeumba; ügyeljen a tócsákra a mélyebben fekvő területeken.",
+                "ro": "Folosiți parcarea supraetajată din apropiere pentru a ajunge uscat la muzeu; atenție la bălțile din zonele mai joase ale parcării.",
+                "en": "Use the nearby parking garage to get to the museum with dry feet; watch out for deep puddles in the lower sections of the area."
+              }
+            },
+            {
+              "name": {
+                "de": "MULLME Museum",
+                "hu": "MULLME Múzeum",
+                "ro": "Muzeul MULLME",
+                "en": "MULLME Museum"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre nasse Jacke im Auto, da das Museum gut beheizt ist und Garderoben bei Regen oft überfüllt sein können.",
+                "hu": "Hagyja a vizes kabátját az autóban, mivel a múzeum jól fűtött, és az esőben a ruhatárak gyakran túlzsúfoltak lehetnek.",
+                "ro": "Lăsați haina udă în mașină, deoarece muzeul este bine încălzit, iar garderobele pot fi supraaglomerate pe timp de ploaie.",
+                "en": "Leave your wet jacket in the car, as the museum is well-heated and cloakrooms can often be overcrowded during rainy days."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Agua Caliente",
+                "hu": "Torre Agua Caliente",
+                "ro": "Torre Agua Caliente",
+                "en": "Torre Agua Caliente"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Turm ist begrenzt; warten Sie im Wagen auf eine Lücke, um nicht im Regen suchen zu müssen.",
+                "hu": "A torony melletti parkolóhelyek száma korlátozott; várjon az autóban egy üresedésre, hogy ne kelljen az esőben gyalogolnia.",
+                "ro": "Locurile de parcare de lângă turn sunt limitate; așteptați în mașină până se eliberează unul pentru a nu merge prin ploaie.",
+                "en": "Parking spots directly at the tower are limited; wait in the car for a vacancy to avoid a long walk in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Cuauhtemoc",
+                "hu": "Monumento Cuauhtemoc",
+                "ro": "Monumento Cuauhtemoc",
+                "en": "Monumento Cuauhtemoc"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal am besten direkt aus dem Autofenster; der dichte Verkehr und Spritzwasser machen einen Ausstieg ungemütlich.",
+                "hu": "A legjobb, ha közvetlenül az autó ablakából nézi meg az emlékművet; a sűrű forgalom és a felcsapódó víz miatt kényelmetlen kiszállni.",
+                "ro": "Cel mai bine este să priviți monumentul direct din geamul mașinii; traficul intens și apa stropită fac coborârea inconfortabilă.",
+                "en": "It's best to view the monument directly from your car window; heavy traffic and splashing water make getting out very uncomfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro IMSS Tijuana",
+                "hu": "Teatro IMSS Tijuana",
+                "ro": "Teatro IMSS Tijuana",
+                "en": "Teatro IMSS Tijuana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Vorplatz zum Aussteigen lassen Ihrer Mitfahrer, bevor Sie das Auto auf dem bewachten Parkplatz abstellen.",
+                "hu": "Használja a fedett előteret az utasok kiszállásához, mielőtt az autót a közeli őrzött parkolóban hagyná az esti program idejére.",
+                "ro": "Folosiți zona acoperită din față pentru a lăsa pasagerii să coboare înainte de a lăsa mașina în parcarea păzită din apropiere.",
+                "en": "Use the covered front area to drop off passengers before parking the car in the nearby secured lot for the evening program."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt im beheizten Auto durch das winterliche Tijuana. Morgens ist die Casa de la Cultura ein ruhiger, warmer Ort zum Starten. Mittags erreichen Sie das Museo de Tijuana bequem ohne Parkplatzstress. Wegen der frühen Dämmerung um 17:00 Uhr leuchten die Wahrzeichen wie die Torre Agua Caliente schon früh. Den Abend beschließen Sie gemütlich im Teatro IMSS.",
+            "hu": "Élvezze az utat a fűtött autóban a téli Tijuanán keresztül. Reggel a Casa de la Cultura egy csendes, meleg hely a kezdéshez. Délben kényelmesen, parkolási stressz nélkül érheti el a Museo de Tijuanát. A korai, 17:00 körüli szürkület miatt az olyan jelképek, mint a Torre Agua Caliente, már korán kivilágítva tündökölnek.",
+            "ro": "Bucurați-vă de drumul în mașina încălzită prin Tijuana de iarnă. Dimineața, Casa de la Cultura este un loc liniștit și cald pentru început. La prânz, ajungeți la Museo de Tijuana confortabil, fără stresul parcării. Din cauza amurgului timpuriu de la ora 17:00, simbolurile precum Torre Agua Caliente sunt iluminate devreme.",
+            "en": "Enjoy the ride in your heated car through wintery Tijuana. In the morning, Casa de la Cultura is a quiet, warm place to start. At noon, you can reach Museo de Tijuana comfortably without parking stress. Due to the early twilight at 5:00 PM, landmarks like Torre Agua Caliente are illuminated early in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de la Cultura de Tijuana",
+                "hu": "Casa de la Cultura de Tijuana",
+                "ro": "Casa de la Cultura de Tijuana",
+                "en": "Casa de la Cultura de Tijuana"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Gebäude ist im Winter sehr angenehm; parken Sie am Hang, um einen schönen Blick über die kühle Stadt zu haben.",
+                "hu": "Az épület fűtése télen nagyon kellemes; parkoljon a lejtőn, hogy szép kilátás nyíljon a hűvös, téli városra.",
+                "ro": "Încălzirea din clădire este foarte plăcută iarna; parcați pe pantă pentru a avea o vedere frumoasă asupra orașului răcoros.",
+                "en": "The building's heating is very pleasant in winter; park on the slope to enjoy a beautiful view of the cool city from above."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Tijuana",
+                "hu": "Museo de Tijuana",
+                "ro": "Museo de Tijuana",
+                "en": "Museo de Tijuana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um der Mittagskühle zu entfliehen; die Ausstellungsräume sind optimal temperiert und sehr einladend.",
+                "hu": "Használja ki a múzeumlátogatást, hogy elmeneküljön a déli hűvös elől; a kiállítótermek optimális hőmérsékletűek és hívogatóak.",
+                "ro": "Profitați de vizita la muzeu pentru a scăpa de răcoarea de la prânz; sălile de expoziție au o temperatură optimă și sunt primitoare.",
+                "en": "Take advantage of the museum visit to escape the midday chill; the exhibition rooms are perfectly tempered and very inviting."
+              }
+            },
+            {
+              "name": {
+                "de": "MULLME Museum",
+                "hu": "MULLME Múzeum",
+                "ro": "Muzeul MULLME",
+                "en": "MULLME Museum"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier weniger überlaufen; parken Sie direkt an der Straße und genießen Sie die bunte Welt des Lucha Libre im Warmen.",
+                "hu": "Télen itt kevésbé nagy a tömeg; parkoljon le közvetlenül az utcán, és élvezze a Lucha Libre színes világát a melegben.",
+                "ro": "Iarna este mai puțin aglomerat aici; parcați direct pe stradă și bucurați-vă de lumea colorată a Lucha Libre la căldură.",
+                "en": "It's less crowded here in winter; park directly on the street and enjoy the colorful world of Lucha Libre in a warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Agua Caliente",
+                "hu": "Torre Agua Caliente",
+                "ro": "Torre Agua Caliente",
+                "en": "Torre Agua Caliente"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Turms wirkt in der klaren Winterluft besonders scharf; ideal für Fotos aus dem warmen Auto heraus.",
+                "hu": "A torony kivilágítása a tiszta téli levegőben különösen élesnek tűnik; ideális fotózáshoz a meleg autó kényelméből.",
+                "ro": "Iluminarea turnului pare deosebit de clară în aerul curat de iarnă; ideal pentru fotografii din confortul mașinii calde.",
+                "en": "The tower's lighting looks particularly sharp in the clear winter air; ideal for taking photos from the comfort of your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Cuauhtemoc",
+                "hu": "Monumento Cuauhtemoc",
+                "ro": "Monumento Cuauhtemoc",
+                "en": "Monumento Cuauhtemoc"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie das Fernlicht aus, wenn Sie am Kreisverkehr kurz anhalten, um andere Autofahrer in der frühen Dämmerung nicht zu blenden.",
+                "hu": "Kapcsolja le a távolsági fényszórót, ha rövid időre megáll a körforgalomnál, hogy ne vakítsa el a többi autóst a szürkületben.",
+                "ro": "Opriți faza lungă dacă opriți scurt la sensul giratoriu pentru a nu orbi ceilalți șoferi în amurgul timpuriu.",
+                "en": "Turn off your high beams if you stop briefly at the roundabout to avoid blinding other drivers in the early twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro IMSS Tijuana",
+                "hu": "Teatro IMSS Tijuana",
+                "ro": "Teatro IMSS Tijuana",
+                "en": "Teatro IMSS Tijuana"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist gut beleuchtet, was bei der frühen winterlichen Dunkelheit für ein besseres Sicherheitsgefühl beim Aussteigen sorgt.",
+                "hu": "A parkoló jól kivilágított, ami a korai téli sötétségben jobb biztonságérzetet nyújt a kiszálláskor az esti előadás előtt.",
+                "ro": "Parcarea este bine iluminată, ceea ce oferă o senzație mai bună de siguranță la coborâre în întunericul timpuriu de iarnă.",
+                "en": "The parking lot is well-lit, providing a better sense of security when getting out of the car in the early winter darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a nagyszerű városháza polgári hangulatának magába szívásával. A történelmi utcák lassan életre kelnek, ahogy a közeli festői kilátók felé veszi az irányt.\n\nDélben útja az elkötelezett vadvilág múzeumhoz vezet. Itt döntő kontextust kap a környező természeti parkról, mielőtt folytatná a felfedezést.\n\nDélután fedezze fel a folyó felett átívelő lenyűgöző kőboltozatot. Ez a figyelemre méltó mérnöki teljesítmény tökéletesen kikövezi az utat a város védelmi örökségéhez.\n\nZárja a napot az ikonikus erődnél, amely az egész völgyre néz. A tájra vetülő drámai délutáni árnyékok felejthetetlen végső emlékeket nyújtanak.",
         "ro": "Începeți-vă dimineața absorbind atmosfera civică de la marea primărie. Străzile istorice vor prinde încet viață pe măsură ce vă îndreptați spre punctele de belvedere panoramice din apropiere.\n\nLa prânz, călătoria dumneavoastră duce la muzeul dedicat faunei sălbatice. Aici veți obține un context crucial despre parcul natural înconjurător înainte de explorare.\n\nDupă-amiaza, descoperiți bolta fascinantă de piatră care se întinde peste râu. Această remarcabilă realizare inginerească deschide calea perfect pentru moștenirea defensivă a orașului.\n\nÎncheiați ziua la fortăreața iconică cu vedere la întreaga vale. Umbrele dramatice ale după-amiezii aruncate peste peisaj vor oferi amintiri finale de neuitat.",
         "en": "Start your morning absorbing the civic atmosphere at the grand town hall. The historic streets will slowly come to life as you make your way towards the scenic viewpoints nearby.\n\nBy midday, your journey leads to the dedicated wildlife museum. Here you'll gain crucial context about the surrounding natural park before continuing your exploration.\n\nIn the afternoon, discover the intriguing stone vault stretching over the river. This remarkable engineering feat paves the way perfectly for the town's defensive legacy.\n\nConclude the day at the iconic fortress overlooking the entire valley. The dramatic afternoon shadows cast over the landscape will provide unforgettable final memories."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen verleiht Cazorla eine mystische Atmosphäre, wenn Wolken tief in den Gassen hängen. Beginnen Sie im trockenen Rathaus. Mittags bietet das Themenzentrum Schutz und spannende Einblicke in die Natur. Nachmittags führt der Weg durch die überdachte Bóveda am Fluss. Abends glänzt der nasse Stein der Burg Yedra im fahlen Licht, während Sie im Inneren die Museen erkunden.",
+            "hu": "Az eső különleges, misztikus hangulatot áraszt a hegyi városkában. Kezdje a napot a városháza hűvös, de száraz termeiben. Délben a természetvédelmi központ nyújt tökéletes fedett menedéket. Délután fedezze fel a folyó feletti boltíves folyosót, amely megvédi az égi áldástól. Az estét a vár belső kiállításai között zárja, ahol a vizes falak látványa az ablakokból a legszebb.",
+            "ro": "Ploaia aduce un aer proaspăt și o atmosferă mistică peste Cazorla. Începeți dimineața în interiorul primăriei, feriți de stropi. La prânz, centrul tematic este refugiul ideal pentru a învăța despre natură. După-amiaza, bolta râului oferă un pasaj acoperit spectaculos. Seara, castelul Yedra pare desprins din legende printre nori; vizitați secțiunile interioare ale muzeului pentru confort.",
+            "en": "Rain brings a fresh scent and a mystical veil to the mountain streets. Start your morning inside the historic town hall's dry corridors. At noon, the thematic center provides a perfect indoor escape. In the afternoon, the river vault acts as a natural umbrella over the water. End your day at the castle, where the mist creates a dramatic backdrop for the indoor museum exhibits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Cazorla",
+                "hu": "Ayuntamiento de Cazorla",
+                "ro": "Ayuntamiento de Cazorla",
+                "en": "Ayuntamiento de Cazorla"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Holzdecken dieses ehemaligen Klosters im Trockenen; ein idealer Ort, um den ersten Regenschauer des Tages gemütlich abzuwarten.",
+                "hu": "Csodálja meg az egykori kolostor belső fafaragásait a szárazban; ez a legjobb helyszín a reggeli zápor kivárására a történelmi falak között.",
+                "ro": "Admirați plafoanele de lemn sculptat ale fostei mănăstiri stând la adăpost; este locația perfectă pentru a începe ziua fără a vă uda la exterior.",
+                "en": "Admire the intricate wooden ceilings of this former convent while staying dry; it is an ideal spot to wait out the morning drizzle in historical comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Balcón del Pintor Zabaleta",
+                "hu": "Balcón del Pintor Zabaleta",
+                "ro": "Balcón del Pintor Zabaleta",
+                "en": "Balcón del Pintor Zabaleta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die dampfenden Dächer der Stadt; halten Sie sich am feuchten Geländer gut fest, da der Boden bei Nässe rutschig sein kann.",
+                "hu": "Figyelje meg a háztetők felett gomolygó ködöt a kilátóról; kapaszkodjon erősen a nedves korlátba, mert a kövezet ilyenkor rendkívül csúszóssá válik.",
+                "ro": "Observați ceața care se ridică peste acoperișurile orașului; aveți grijă la balustrada umedă și pășiți cu atenție pe pavajul care devine alunecos la ploaie.",
+                "en": "Watch the mist rising over the town's rooftops from this viewpoint; hold the wet railings firmly as the stone tiles can get quite slippery when damp."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Temático de Especies Amenazadas",
+                "hu": "Centro Temático de Especies Amenazadas",
+                "ro": "Centro Temático de Especies Amenazadas",
+                "en": "Centro Temático de Especies Amenazadas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses informative Museum als perfekten Unterschlupf vor dem Regen; die interaktiven Exponate lassen Sie das schlechte Wetter draußen völlig vergessen.",
+                "hu": "Használja ezt az informatív múzeumot tökéletes menedékként az eső elől; az interaktív kiállítások segítenek elfelejteni a kinti barátságtalan időjárást.",
+                "ro": "Folosiți acest muzeu informativ ca refugiu perfect împotriva ploii; expozițiile interactive vă vor face să uitați complet de vremea de afară.",
+                "en": "Use this educational museum as a perfect shelter from the downpour; the indoor exhibits about local wildlife are ideal for a rainy midday break."
+              }
+            },
+            {
+              "name": {
+                "de": "Bóveda del río Cerezuelo",
+                "hu": "Bóveda del río Cerezuelo",
+                "ro": "Bóveda del río Cerezuelo",
+                "en": "Bóveda del río Cerezuelo"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch dieses unterirdische Wunderwerk, das Sie komplett vor dem Regen schützt; achten Sie auf die Pfützen am Eingang des Gewölbes.",
+                "hu": "Sétáljon végig ezen a föld alatti mérnöki csodán, amely teljes védelmet nyújt az eső ellen; ügyeljen a bejáratnál kialakuló tócsákra.",
+                "ro": "Plimbați-vă prin această minune subterană care vă protejează complet de ploaie; fiți atenți la bălțile formate la intrarea în tunelul de piatră.",
+                "en": "Walk through this underground engineering marvel that keeps you completely dry; be mindful of the puddles that may collect at the vault's entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de la Yedra",
+                "hu": "Castillo de la Yedra",
+                "ro": "Castillo de la Yedra",
+                "en": "Castillo de la Yedra"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die ethnografische Sammlung im Wohnturm, um trocken zu bleiben; die nassen Außenstufen zur Burg erfordern festes Schuhwerk mit gutem Profil.",
+                "hu": "Fedezze fel az öregtorony néprajzi gyűjteményét, hogy szárazon maradjon; a várba vezető kültéri lépcsőkön viseljen jó tapadású, vízálló cipőt.",
+                "ro": "Explorați colecțiile etnografice din turnul principal pentru a rămâne uscați; treptele exterioare umede necesită încălțăminte cu talpă aderentă astăzi.",
+                "en": "Explore the ethnographic collections inside the keep to stay dry; the outdoor steps leading to the castle require waterproof shoes with good grip today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft bietet weite Sicht auf die schneebedeckten Gipfel. Morgens wärmen die dicken Klostermauern des Rathauses. Mittags ist das Naturzentrum ein willkommener beheizter Stopp. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Bóveda am frühen Nachmittag besuchen. Die Burg Yedra wirkt in der dämmerigen Kälte besonders imposant und stolz.",
+            "hu": "A kristálytiszta téli levegőben messzire ellátni a hófödte csúcsokig. Reggel a városháza vastag falai között keressen enyhülést a csípős hideg elől. Délben a fűtött természetvédelmi központ várja. Mivel 17:00 körül már sötétedik, a folyó feletti boltozatot kora délután nézze meg. A vár az alkonyati fényekben, a téli hidegben mutatja legzordabb, legszebb arcát.",
+            "ro": "Aerul rece de iarnă oferă o vizibilitate clară spre vârfurile înzăpezite ale Sierrei. Dimineața, pereții groși ai primăriei păstrează o temperatură plăcută. Prânzul este ideal de petrecut în centrul tematic încălzit. Deoarece soarele apune la ora 17:00, vizitați bolta râului mai devreme. Seara se așterne repede peste castel, oferind un peisaj de basm.",
+            "en": "Crisp winter air provides stunningly clear views of the surrounding snowy peaks. Start warm inside the town hall's thick walls. At noon, the heated thematic center is a welcome refuge from the mountain chill. With sunset arriving early at 17:00, reach the river vault by mid-afternoon. The castle looks majestic as the winter twilight settles over the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Cazorla",
+                "hu": "Ayuntamiento de Cazorla",
+                "ro": "Ayuntamiento de Cazorla",
+                "en": "Ayuntamiento de Cazorla"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehme Innentemperatur des historischen Gebäudes zum Aufwärmen; die steinernen Gänge schützen gut vor dem eisigen Morgenwind der Berge.",
+                "hu": "Használja ki a történelmi épület kellemes belső hőmérsékletét a bemelegítéshez; a kőfolyosók jól védenek a jeges reggeli hegyi szelek ellen.",
+                "ro": "Profitați de temperatura interioară plăcută a clădirii pentru a vă încălzi; coridoarele de piatră oferă protecție împotriva vântului rece de munte.",
+                "en": "Take advantage of the building's stable interior temperature to warm up; the stone corridors provide excellent shelter from the biting morning wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Balcón del Pintor Zabaleta",
+                "hu": "Balcón del Pintor Zabaleta",
+                "ro": "Balcón del Pintor Zabaleta",
+                "en": "Balcón del Pintor Zabaleta"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Berge ist im Winter am besten; tragen Sie eine winddichte Jacke, da es auf dem Balkon ungeschützt und sehr kalt sein kann.",
+                "hu": "A kilátás a hegyekre télen a legtisztább; viseljen szélálló kabátot, mert a kilátón állva a metsző szélben gyorsan átfázhat az ember.",
+                "ro": "Vizibilitatea spre munți este maximă iarna; purtați o jachetă rezistentă la vânt, deoarece pe balcon curentul poate fi foarte tăios și rece.",
+                "en": "The mountain visibility is best during winter; wear a windproof jacket as this viewpoint is exposed and can feel very cold in the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Temático de Especies Amenazadas",
+                "hu": "Centro Temático de Especies Amenazadas",
+                "ro": "Centro Temático de Especies Amenazadas",
+                "en": "Centro Temático de Especies Amenazadas"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger in den beheizten Ausstellungsräumen; dies ist der ideale Ort, um die Kälte zu vergessen und mehr über die lokale Fauna zu lernen.",
+                "hu": "Töltsön több időt a fűtött kiállítótermekben; ez a legjobb hely a felmelegedésre, miközben megismeri a környék különleges állatvilágát.",
+                "ro": "Petreceți mai mult timp în sălile de expoziție încălzite; este locul ideal pentru a scăpa de frig în timp ce învățați despre fauna locală.",
+                "en": "Spend extra time in the heated exhibition rooms; it is the perfect spot to escape the cold while learning about the region's unique wildlife."
+              }
+            },
+            {
+              "name": {
+                "de": "Bóveda del río Cerezuelo",
+                "hu": "Bóveda del río Cerezuelo",
+                "ro": "Bóveda del río Cerezuelo",
+                "en": "Bóveda del río Cerezuelo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Treppen zum Fluss; das Gewölbe speichert die Kälte, daher ist ein warmer Schal hier sehr empfehlenswert.",
+                "hu": "Ügyeljen a folyóhoz vezető lépcsők esetleges jegesedésére; a boltozat alatt megül a hideg, ezért egy meleg sál viselése itt erősen ajánlott.",
+                "ro": "Fiți atenți la porțiunile înghețate de pe scările spre râu; bolta reține frigul, așa că o eșarfă groasă este foarte utilă în timpul vizitei.",
+                "en": "Watch for icy patches on the stairs leading down to the river; the vault traps the cold air, so wearing a warm scarf is highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de la Yedra",
+                "hu": "Castillo de la Yedra",
+                "ro": "Castillo de la Yedra",
+                "en": "Castillo de la Yedra"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg vor 17:00 Uhr, um das goldene Licht zu nutzen; ziehen Sie sich warm an, da die alten Steinmauern im Winter sehr auskühlen.",
+                "hu": "Látogasson el a várba 17:00 előtt, hogy kihasználja az utolsó fényeket; öltözzön rétegesen, mert a vastag kőfalak télen nagyon sugározzák a hideget.",
+                "ro": "Vizitați castelul înainte de ora 17:00 pentru a prinde lumina aurie; îmbrăcați-vă gros, deoarece zidurile vechi de piatră sunt foarte reci iarna.",
+                "en": "Visit the castle before 17:00 to catch the golden twilight light; dress in warm layers as the old stone walls feel very chilly in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,26 @@
         "hu": "Kezdje lágyan a turistavonat útvonalának megtekintésével, mielőtt a város zenei szíve felé pedálozna. A friss levegő frissítő reggeli utazást tesz lehetővé.\n\nDélben merészkedjen kissé felfelé, hogy elérje a békés piknikezőhelyeket. A természettel körülvéve tökéletes hely a lábak pihentetésére és a tiszta hegyi levegő belélegzésére.\n\nA délutáni emelkedő megismerteti az ősi őrtorony romjaival. Ebből a megemelt kilátóból a történelmi városra nyíló pazar kilátás megjutalmazza a kerékpáros erőfeszítéseket.\n\nFejezze be útját a lenyűgöző óratorony közelében. A kongó harangok diadalmas lezárást nyújtanak egy aktív és kulturálisan gazdagító napnak a dombos vidéken.",
         "ro": "Începeți ușor cu o privire asupra traseului trenului turistic înainte de a pedala spre inima muzicală a orașului. Aerul curat oferă o plimbare revigorantă de dimineață.\n\nUrcați ușor la prânz pentru a ajunge la zonele pașnice de picnic. Înconjurat de natură, este locul perfect pentru a vă odihni picioarele și a respira aerul pur de munte.\n\nUrcușul de după-amiază vă prezintă ruinele antice ale turnului de veghe. Din acest punct de observație ridicat, priveliștea asupra orașului istoric vă va răsplăti eforturile.\n\nTerminați-vă traseul lângă impresionantul turn cu ceas. Clopotele sale răsunătoare servesc ca o concluzie triumfătoare a unei zile active și pline de cultură.",
         "en": "Embark on a gentle start with a look at the tourist train route before pedaling towards the musical heart of the town. The crisp air makes for a refreshing morning ride.\n\nVenture slightly uphill by midday to reach the peaceful picnic areas. Surrounded by nature, it is the perfect spot to rest your legs and breathe in the pure mountain air.\n\nThe afternoon climb introduces you to the ancient watchtower ruins. From this elevated vantage point, the sweeping views of the historic town will reward your cycling efforts.\n\nFinish your route near the impressive clock tower. Its ringing bells serve as a triumphant conclusion to an active and culturally enriching day traversing the hilly landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Cazorlas Kopfsteinpflaster. Starten Sie beim Touristenzug, wo Sie kurz unterstehen können. Suchen Sie kulturelle Pausen im Konservatorium. Meiden Sie steile, nasse Waldwege bei den Merenderos. Nachmittags ist die Sicht beim Atalaya-Turm oft neblig-schön. Beenden Sie die Fahrt frühzeitig, da Bremsen auf nasser Fahrbahn länger brauchen.",
+            "hu": "Az esőben való biciklizés fokozott figyelmet igényel a csúszós macskaköveken. Kezdje a túrát a kisvonatnál, ahol fedett helyen készülődhet. Használja ki a konzervatórium kulturális nyugalmát a záporok alatt. A pihenőhelyeken ügyeljen a sárra és a csúszós avarra. A toronynál a ködös panoráma különleges élmény, de a féktávolság ilyenkor jelentősen megnő.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe pavajul din Cazorla. Începeți la trenulețul turistic unde există zone acoperite. Căutați pauze culturale la conservator pentru a evita aversele. Evitați pantele noroioase de lângă Merenderos. După-amiaza, turnul Atalaya oferă vederi dramatice prin ceață; asigurați-vă că frânele funcționează perfect pe ud.",
+            "en": "Cycling in the rain requires extra caution on Cazorla's slippery stones. Start near the tourist train for some initial cover. Seek cultural breaks at the conservatory to avoid the heaviest showers. Avoid steep, muddy trails near the picnic areas. In the afternoon, the Atalaya tower offers dramatic misty views; ensure your brakes are reliable on the wet slopes."
+          },
+          "stops": []
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren bietet spektakuläre Ausblicke, aber kalten Fahrtwind. Starten Sie morgens mit warmen Handschuhen beim Touristenzug. Nutzen Sie das Konservatorium als kurzen Aufwärmstopp. Bei den Merenderos bleibt es frostig, halten Sie sich in Bewegung. Besuchen Sie den Atalaya-Turm vor 16:00 Uhr, um das Tageslicht zu nutzen. Der Rückweg zum Uhrturm sollte vor dem frühen Sonnenuntergang (17:00) erfolgen.",
+            "hu": "A téli kerékpározás tiszta tájakat, de metsző menedékszelet kínál. Kezdjen meleg kesztyűben a kisvonatnál. A konzervatórium épülete jó rövid melegedőpont. A pihenőhelyeken ne álljon meg sokáig, mert hamar átfázik. A tornyot még 16:00 előtt érje el a maradék fényben. A túrát zárja le 17:00-ig, mielőtt a hirtelen lehűlés és sötétség beköszönt.",
+            "ro": "Ciclismul de iarnă oferă peisaje clare, dar vânt tăios. Începeți dimineața cu mănuși groase la trenulețul turistic. Folosiți conservatorul ca punct rapid de încălzire. Nu staționați mult la Merenderos deoarece este foarte frig. Vizitați turnul Atalaya înainte de ora 16:00 pentru a profita de lumină. Întoarceți-vă la Turnul Ceasului înainte de apusul de la ora 17:00.",
+            "en": "Winter cycling offers crisp scenery but biting wind chill. Start with warm gloves near the tourist train. Use the conservatory as a brief indoor warm-up point. Don't linger too long at the picnic areas where frost persists. Reach the Atalaya tower before 16:00 to utilize the remaining daylight. Plan to be back at the Clock Tower before the 17:00 sunset and temperature drop."
+          },
+          "stops": []
+        }
       }
     },
     "car": {
@@ -399,6 +581,26 @@
         "hu": "Vezessen el a kellemes parki nézőtérhez egy csendes reggeli sétára. A parkolás itt általában egyszerű, ami nyugodt alaphangot ad a régió felfedezéséhez.\n\nFolytassa útját a zord tájon megbúvó középkori romok felé. A hegyi kilátónál tett későbbi megálló páratlan panorámát kínál a hatalmas természeti környezetre.\n\nDélután térjen vissza a központhoz, hogy a grandiózus óratorony előtt álljon. Lenyűgöző történelmi szünetet biztosít a festői autós útvonalakból.\n\nKoronázza meg a napot egy rövid autóúttal a látványos szomszédos erődbe. Megnézni, ahogy a naplemente arany árnyalatot vet az ősi kőfalakra, varázslatos élmény.",
         "ro": "Conduceți spre plăcutul auditoriu din parc pentru o plimbare liniștită dimineața. Parcarea este simplă aici, stabilind un ton relaxat pentru o zi de explorare.\n\nContinuați-vă drumul spre ruinele medievale cuibărite în peisajul accidentat. O oprire ulterioară la punctul de belvedere montan oferă panorame de neegalat.\n\nDupă-amiaza, întoarceți-vă mai aproape de centru pentru a sta în fața marelui turn cu ceas. Oferă o pauză istorică fascinantă de la rutele pitorești de conducere.\n\nÎncheiați ziua cu o scurtă plimbare cu mașina până la spectaculoasa fortăreață vecină. A privi cum apusul aruncă nuanțe aurii peste zidurile antice este o experiență magică.",
         "en": "Drive out to the pleasant park auditorium for a quiet morning stroll. Parking is generally straightforward here, setting a relaxed tone for a day exploring the region's broader landmarks.\n\nContinue your drive towards the medieval ruins nestled in the rugged landscape. A subsequent stop at the mountain viewpoint offers unparalleled panoramas of the vast natural surroundings.\n\nBy the afternoon, return closer to the center to stand before the grand clock tower. It provides a fascinating historical break from the scenic driving routes.\n\nCap off the day with a short drive to the spectacular neighboring fortress. Watching the sunset cast its golden hue over the ancient stone walls is an absolutely magical experience."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Cazorla auch bei Regen komfortabel zu erkunden. Starten Sie beim geschützten Auditorium. Mittags ist die Fahrt zum Salvatierra-Schloss kurz, aber der Boden kann rutschig sein. Genießen Sie den Panoramablick am Mirador Riogazas direkt durch die Windschutzscheibe. Beenden Sie den Tag in La Iruela, wo die beleuchtete Burg im Regen besonders dramatisch wirkt.",
+            "hu": "Autóval Cazorla esőben is kényelmesen felfedezhető. Kezdjen a védett auditóriumnál. Délben a Salvatierra várhoz vezető út rövid, de a sáros talajra ügyelni kell. A Mirador Riogazas kilátónál az autóból is élvezheti a panorámát. Az estét zárja La Iruela váránál, amely a lámpafényben, az esőfüggöny mögött egészen drámai látványt nyújt.",
+            "ro": "Cu mașina, Cazorla este confortabilă chiar și pe ploaie. Începeți la auditoriul protejat. La prânz, drumul spre castelul Salvatierra este scurt, dar atenție la solul alunecos. Bucurați-vă de panorama de la Mirador Riogazas direct prin parbriz. Încheiați ziua la La Iruela, unde castelul iluminat prin ploaie oferă un spectacol vizual dramatic.",
+            "en": "Exploring Cazorla by car is the most comfortable option on a rainy day. Start at the sheltered auditorium. At noon, the drive to Salvatierra is short, but watch for muddy parking. Enjoy the views from Mirador Riogazas directly from your vehicle's warmth. End your day at La Iruela castle, which looks incredibly dramatic through the rain in the evening lights."
+          },
+          "stops": []
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Auto-Tour im Winter schützt vor dem beißenden Bergwind. Starten Sie morgens beim Auditorium und nutzen Sie die Sitzheizung. Die Fahrt zum Mirador Riogazas bietet im Winter die klarste Sicht des Jahres auf die Sierra. Da es ab 17:00 Uhr dunkel wird, sollten Sie La Iruela rechtzeitig erreichen. Die beleuchteten Monumente in der kalten Winternacht sind ein perfekter, stimmungsvoller Abschluss.",
+            "hu": "A téli autós túra megvédi a metsző hegyi szelektől. Kezdjen reggel az auditóriumnál, élvezze a fűtött utasteret. A Mirador Riogazas kilátóhoz vezető út télen kínálja az év legtisztább panorámáját a Sierrára. Mivel 17:00-kor sötétedik, érjen időben La Iruela várához. A kivilágított műemlékek a hideg téli éjszakában fenséges és hangulatos lezárást adnak.",
+            "ro": "Turul cu mașina iarna vă protejează de vântul tăios de munte. Începeți dimineața la auditoriu, profitând de confortul termic. Drumul spre Mirador Riogazas oferă iarna cea mai clară vizibilitate din an asupra Sierrei. Deoarece se întunecă la ora 17:00, ajungeți din timp la La Iruela. Monumentele iluminate în noaptea rece de iarnă oferă un final de zi memorabil.",
+            "en": "A winter car tour protects you from the biting mountain winds between stops. Start at the auditorium and keep the cabin warm. The drive to Mirador Riogazas offers the year's clearest views of the Sierra in the winter air. Since it gets dark by 17:00, ensure you reach La Iruela in time. The illuminated monuments in the cold winter night provide a majestic and atmospheric finale."
+          },
+          "stops": []
+        }
       }
     }
   }

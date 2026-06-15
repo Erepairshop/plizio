@@ -137,6 +137,168 @@
         "hu": "A reggel az olívaolaj-készítés történelmével és az ikonikus Horgony emlékművel indul. Délben hódítsa meg Parga lenyűgöző várát, ahonnan páratlan kilátás nyílik a tengerre. Délutáni sétája a békés Parga-öbölhöz vezet, élvezve a friss parti szelet. Az este tökéletes lezárásaként pihenjen a Valtos strand aranyló homokján a naplemente előtt.",
         "ro": "Dimineața începe cu istoria captivantă a uleiului de măsline, continuând spre emblematicul monument Ancora. La prânz, cuceriți impresionantul Castel din Parga pentru o priveliște panoramică de neuitat. După-amiaza vă poartă spre apele liniștite din Golful Parga pentru a simți briza mării. Seara se încheie perfect relaxându-vă pe nisipul auriu al plajei Valtos.",
         "en": "Morning begins with the rich history of olive oil making, transitioning to the iconic Anchor monument. Midday invites you to conquer the impressive Castle of Parga with panoramic views. Afternoon strolls lead to the serene Parga Bay to enjoy the coastal breeze. The evening wraps up perfectly relaxing at the golden sands of Valtos Beach before sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Olivenölfabrik perfekten Schutz vor den ersten Tropfen. Mittags führt der Weg am Hafenanker vorbei, wo das nasse Metall im Regen glänzt. Nachmittags erkunden wir die Burgruine unter grauem Himmel, was eine mystische Atmosphäre schafft. Abends endet der Spaziergang an der Valtos-Bucht, wo wir das Rauschen der Wellen unter einem schützenden Vordach genießen können.",
+            "hu": "Reggel a régi olajgyár múzeumában bújunk el az eső elől, elmerülve a történelemben. Délben a kikötőben teszünk egy rövid sétát a horgonyhoz, ahol a vizes macskaköveken óvatosan kell lépkedni. Délután a vár bástyái között kalandozunk, ahonnan a borús ég alatt is drámai a kilátás. Este a Valtos strand partján pihenünk meg, figyelve a tengerre hulló esőcseppek végtelen táncát.",
+            "ro": "Dimineața, vechea fabrică de ulei oferă un refugiu perfect împotriva ploii. La prânz, trecem pe lângă ancora din port, unde metalul umed strălucește sub stropi. După-amiaza explorăm ruinele castelului sub un cer gri, ce creează o atmosferă mistică. Seara se încheie pe plaja Valtos, unde putem asculta sunetul valurilor la adăpostul unei terase acoperite, admirând marea agitată.",
+            "en": "In the morning, the old olive oil factory provides a perfect dry refuge. At noon, we pass the harbor anchor, where the wet metal gleams in the rain. In the afternoon, we explore the castle ruins under grey skies, which creates a mystical atmosphere. The evening ends at Valtos Beach, where we can listen to the rhythmic rain on the water from under a safe, covered terrace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paragaea - Alte Olivenölfabrik",
+                "hu": "Paragaea - Régi Olívaolaj Gyár",
+                "ro": "Paragaea - Vechea Fabrică de Ulei de Măsline",
+                "en": "Paragaea - Old Olive Oil Factory"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geheimnisse der Ölherstellung in diesen historischen, trockenen Hallen; ein idealer Ort, um den Regenschauer abzuwarten.",
+                "hu": "Fedezze fel az olajkészítés titkait a történelmi, fedett csarnokokban; kiváló helyszín egy hirtelen jövő zápor átvészelésére.",
+                "ro": "Descoperiți secretele producției de ulei în aceste hale istorice și uscate; un loc ideal pentru a aștepta trecerea unei averse de ploaie.",
+                "en": "Explore the secrets of olive oil production in these historic, dry halls; a perfect spot to wait out a passing rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Anker",
+                "hu": "Horgony",
+                "ro": "Ancora",
+                "en": "Anchor"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, fotogener Halt am Hafen; das nasse Eisen wirkt vor der stürmischen See besonders imposant, aber Vorsicht auf dem glatten Boden.",
+                "hu": "Rövid, fotogén megálló a kikötőben; a vizes vas és a viharos tenger látványa lenyűgöző, de vigyázzon a rendkívül csúszós burkolatra.",
+                "ro": "O oprire scurtă și fotogenă în port; fierul umed arată impunător în fața mării agitate, dar aveți grijă la pavajul foarte alunecos.",
+                "en": "A short, photogenic stop at the harbor; the wet iron looks impressive against the stormy sea, but watch your step on the slick pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Parga",
+                "hu": "Parga Vára",
+                "ro": "Castelul din Parga",
+                "en": "Castle of Parga"
+              },
+              "tip_5lang": {
+                "de": "Die moosigen Mauern wirken bei Regen noch geschichtsträchtiger; genießen Sie die Aussicht, aber nutzen Sie feste Schuhe für die rutschigen Steine.",
+                "hu": "A mohás falak esőben még patinásabbnak tűnnek; élvezze a kilátást a bástyákról, de a csúszós kövek miatt viseljen recés talpú cipőt.",
+                "ro": "Zidurile acoperite de mușchi par și mai vechi pe ploaie; admirați vederea de pe bastioane, dar purtați încălțăminte aderentă pe pietrele ude.",
+                "en": "The mossy walls look even more ancient in the rain; enjoy the view from the ramparts, but wear sturdy shoes for the slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Parga",
+                "hu": "Parga Öböl",
+                "ro": "Golful Parga",
+                "en": "Parga Bay"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Meeresoberfläche; die neblige Bucht ist ein tolles Motiv für stimmungsvolle Urlaubsfotos.",
+                "hu": "Figyelje meg az esőcseppek játékát a tenger felszínén; a ködös öböl kiváló helyszín hangulatos, melankolikus fényképek készítéséhez.",
+                "ro": "Urmăriți jocul stropilor de ploaie pe suprafața mării; golful cețos este un cadru excelent pentru fotografii de vacanță pline de atmosferă.",
+                "en": "Watch the play of raindrops on the sea surface; the misty bay is a great setting for atmospheric and moody holiday photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Valtos Strand",
+                "hu": "Valtos Strand",
+                "ro": "Plaja Valtos",
+                "en": "Valtos Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Strandspaziergang im Regen hat einen ganz eigenen Charme; suchen Sie sich danach einen gemütlichen Platz in einem der nahen Cafés.",
+                "hu": "A tengerparti séta esőben különleges élményt nyújt; utána keressen egy barátságos menedéket a közeli, fedett teraszos kávézók egyikében.",
+                "ro": "O plimbare pe plajă pe ploaie are un farmec aparte; după aceea, căutați un refugiu primitor la una dintre cafenelele acoperite din apropiere.",
+                "en": "A beach walk in the rain has its own unique charm; afterwards, find a cozy spot in one of the nearby cafes with a covered terrace."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Wintermorgen wärmen wir uns in der Olivenölfabrik auf. Mittags spazieren wir am ruhigen Hafen zum Anker, während die milde Mittelmeersonne scheint. Nachmittags bietet die Burg eine klare Fernsicht, die im Sommer oft getrübt ist. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir das letzte Licht am Valtos Strand, bevor die nächtliche Kühle der Stadt einsetzt.",
+            "hu": "A hűvös téli reggelen az olajgyár múzeumában melegedünk fel, ahol nincs tömeg. Délben a kikötői horgonynál teszünk egy sétát a gyenge napsütésben, élvezve a csendet. Délután a vár bástyáiról csodáljuk meg a kristálytiszta panorámát. Mivel a nap korán, 17:00 körül lebukik, az utolsó fényeket a Valtos strandon érjük el, majd behúzódunk a város fényeibe.",
+            "ro": "În dimineața răcoroasă de iarnă, ne încălzim în muzeul fabricii de ulei, evitând aglomerația. La prânz, ne plimbăm spre ancora din port sub soarele blând. După-amiaza, castelul oferă o panoramă clară, greu de văzut în arșița verii. Deoarece soarele apune în jur de ora 17:00, savurăm ultima lumină pe plaja Valtos înainte ca răcoarea serii să cuprindă întreg orașul.",
+            "en": "On a cool winter morning, we warm up inside the olive oil factory without the crowds. At noon, we stroll to the harbor anchor under the mild sun. In the afternoon, the castle offers a crisp panorama that is often hazy in summer. As the sun sets around 17:00, we catch the last light at Valtos Beach before the evening chill settles over the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paragaea - Alte Olivenölfabrik",
+                "hu": "Paragaea - Régi Olívaolaj Gyár",
+                "ro": "Paragaea - Vechea Fabrică de Ulei de Măsline",
+                "en": "Paragaea - Old Olive Oil Factory"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den Vormittag, um der winterlichen Kühle zu entkommen; lernen Sie die Traditionen in gemütlicher Atmosphäre kennen.",
+                "hu": "Ideális helyszín a délelőtti felmelegedéshez; ismerje meg a hagyományokat barátságos, zárt környezetben, távol a téli széltől.",
+                "ro": "Un loc ideal pentru a scăpa de răcoarea dimineții; învățați despre tradiții într-o atmosferă primitoare, ferită de vântul rece.",
+                "en": "A perfect indoor location to escape the morning chill; learn about local traditions in a cozy atmosphere away from the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Anker",
+                "hu": "Horgony",
+                "ro": "Ancora",
+                "en": "Anchor"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos ohne Touristenmassen; der Anker steht fest in der ruhigen, winterlichen Hafenlandschaft.",
+                "hu": "Használja ki a tiszta téli fényeket a fotózáshoz tömeg nélkül; a horgony büszkén áll a csendes, pihenő kikötői környezetben.",
+                "ro": "Profită de lumina clară de iarnă pentru fotografii fără mulțimi de turiști; ancora stă mândră în portul liniștit aflat în repaus.",
+                "en": "Take advantage of the crisp winter light for photos without the crowds; the anchor stands proudly in the quiet, resting harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Parga",
+                "hu": "Parga Vára",
+                "ro": "Castelul din Parga",
+                "en": "Castle of Parga"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Inseln ist im Winter oft spektakulär; ziehen Sie sich winddicht an, da es auf den Mauern empfindlich kalt sein kann.",
+                "hu": "A kilátás a környező szigetekre télen a legtisztább; öltözzön szélállóan, mert a bástyákon ilyenkor metsző lehet a tengeri fuvallat.",
+                "ro": "Vederea spre insulele din jur este cea mai clară iarna; purtați haine rezistente la vânt, deoarece pe bastioane poate fi foarte frig.",
+                "en": "The view of the surrounding islands is crystal clear in winter; dress in windproof layers as the sea breeze on the ramparts can be biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Bucht von Parga",
+                "hu": "Parga Öböl",
+                "ro": "Golful Parga",
+                "en": "Parga Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der fast menschenleeren Promenade; ideal für einen ruhigen Spaziergang, bevor die Sonne früh hinter dem Horizont verschwindet.",
+                "hu": "Élvezze az üres tengerparti sétány csendjét; tökéletes egy nyugodt sétához, mielőtt a nap korán eltűnik a látóhatár mögött.",
+                "ro": "Bucurați-vă de liniștea falezei aproape pustii; este locul perfect pentru o plimbare calmă înainte ca soarele să apună devreme.",
+                "en": "Enjoy the silence of the nearly empty promenade; perfect for a peaceful walk before the sun disappears early behind the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Valtos Strand",
+                "hu": "Valtos Strand",
+                "ro": "Plaja Valtos",
+                "en": "Valtos Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang am einsamen Strand; bringen Sie eine Thermoskanne mit einem heißen Getränk für den Rückweg mit.",
+                "hu": "Csodálja meg a korai naplementét az elhagyatott strandon; vigyen magával termoszt forró itallal a tengerparti barangoláshoz.",
+                "ro": "Admirați apusul timpuriu pe plaja pustie; luați un termos cu o băutură caldă pentru plimbarea revigorantă de pe malul mării.",
+                "en": "Witness the early sunset on the deserted beach; bring a thermos with a hot drink for a cozy stroll along the winter shoreline."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros napját a Parga Trains környékén, magába szívva a helyi nyüzsgést. A déli órák frissítő látványt nyújtanak a Piso Krioneri strandon és a Panagia-sziget erődjeinél. Délután tekerjen fel a fenséges Parga várához, majd guruljon le a Valtos strandra. Zárja az estét a nyugodt Panagia Vlacherna kolostornál, megcsodálva a naplementét.",
         "ro": "Începeți ziua de ciclism la Parga Trains, bucurându-vă de atmosfera locală plină de viață. Prânzul oferă priveliști răcoroase la Piso Krioneri și misteriosul Fort al insulei Panagia. Pedalarea de după-amiază vă duce la maiestuosul Castel din Parga, coborând apoi la plaja Valtos. Încheiați seara admirând apusul la liniștita Mănăstire Panagia Vlacherna.",
         "en": "Start your cycling day near the Parga Trains landmark, taking in the lively local atmosphere. Midday offers refreshing views at Piso Krioneri and the mysterious Fort of Panagia island. Afternoon pedaling takes you uphill to explore the majestic Castle of Parga and cruise down to Valtos Beach. End your evening admiring the sunset at the serene Monastery of Panagia Vlacherna."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten mit dem Bummelzug, der uns trocken durch die Gassen bringt. Mittags erreichen wir Piso Krioneri, wo die Wellen dramatisch gegen die nassen Klippen schlagen. Nachmittags geht es per Boot zur Insel Panagia, deren Kapelle im Regen mystisch wirkt. Die Tour endet am Valtos Strand und dem Kloster Vlacherna, wo wir trotz Regen die frische, würzige Meeresluft einatmen können.",
+            "hu": "A napot a kisvonattal kezdjük, ami fedett védelmet nyújt a szemerkélő esőben. Délben a Piso Krioneri szikláinál figyeljük a viharos tengert, ügyelve a csúszós ösvényekre. Délután a Panagia-sziget erődje felé vesszük az irányt, ahol a ködös romok különleges hangulatot árasztanak. A napot a Valtos strandnál és a Vlacherna kolostornál zárjuk, ahol az eső friss illatát élvezhetjük.",
+            "ro": "Începem ziua cu trenulețul turistic, care ne oferă protecție împotriva ploii ușoare. La prânz ajungem la Piso Krioneri, unde valurile se sparg dramatic de stâncile ude. După-amiaza traversăm spre insula Panagia, ale cărei ruine par mistice prin ceață. Turul se încheie la plaja Valtos și mănăstirea Vlacherna, unde aerul sărat și proaspăt al mării este revigorant în ciuda vremii.",
+            "en": "We start with the tourist train, which offers shelter from the light drizzle. At noon, we reach Piso Krioneri, where waves crash dramatically against wet cliffs. In the afternoon, we head to Panagia island, where the misty ruins offer a unique atmosphere. The tour ends at Valtos Beach and Vlacherna Monastery, where we can breathe in the fresh, salty sea air despite the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parga Züge",
+                "hu": "Parga Vonatok",
+                "ro": "Trenulețele din Parga",
+                "en": "Parga Trains"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Wagen für eine Stadtrundfahrt bei Regen; achten Sie beim Einsteigen auf die rutschigen Trittstufen.",
+                "hu": "Használja a fedett kocsikat a városnézéshez esőben is; felszálláskor ügyeljen a vizes és csúszós fém lépcsőfokokra.",
+                "ro": "Folosiți vagoanele acoperite pentru a vedea orașul pe ploaie; aveți grijă la treptele de metal umede și alunecoase la urcare.",
+                "en": "Use the covered carriages for a sightseeing tour even in the rain; watch out for wet and slippery metal steps when boarding."
+              }
+            },
+            {
+              "name": {
+                "de": "Piso Krioneri",
+                "hu": "Piso Krioneri",
+                "ro": "Piso Krioneri",
+                "en": "Piso Krioneri"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Felsen wirken bei Regen sehr dramatisch; meiden Sie die direkten Klippenpfade, da die Steine extrem glatt werden.",
+                "hu": "A sötét sziklák esőben rendkívül drámai látványt nyújtanak; kerülje a közvetlen sziklaösvényeket, mert a kövek ilyenkor nagyon csúsznak.",
+                "ro": "Stâncile întunecate oferă o vedere dramatică pe ploaie; evitați potecile de pe marginea falezei, deoarece pietrele devin extrem de alunecoase.",
+                "en": "The dark rocks provide a very dramatic sight in the rain; avoid the direct cliff paths as the stones become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung der Insel Panagia",
+                "hu": "Panagia-sziget Erődje",
+                "ro": "Fortul Insulei Panagia",
+                "en": "Fort of Panagia island"
+              },
+              "tip_5lang": {
+                "de": "Die Insel ist im Regen besonders grün und duftend; rechnen Sie bei der Bootsfahrt mit Wind und tragen Sie eine wasserfeste Regenjacke.",
+                "hu": "A sziget esőben különösen zöld és illatos; a csónakúton számítson szélre és vízpermetre, ezért viseljen vízhatlan esőkabátot.",
+                "ro": "Insula este extrem de verde și parfumată pe ploaie; așteptați-vă la vânt în timpul traversării și purtați o pelerină impermeabilă.",
+                "en": "The island is especially green and fragrant in the rain; expect wind and spray during the boat trip and wear a waterproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Parga",
+                "hu": "Parga Vára",
+                "ro": "Castelul din Parga",
+                "en": "Castle of Parga"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Torbögen der Festung; die Burg bietet viele überdachte Nischen, um die Aussicht trocken zu genießen.",
+                "hu": "Keressen menedéket az erőd kapubástyái alatt; a vár számos fedett fülkét kínál, ahonnan szárazon élvezheti a panorámát.",
+                "ro": "Căutați adăpost sub arcadele porților fortăreței; castelul oferă multe nișe acoperite unde puteți admira vederea fără a vă uda.",
+                "en": "Seek shelter under the fortress gate arches; the castle offers many covered niches where you can enjoy the view while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Valtos Strand",
+                "hu": "Valtos Strand",
+                "ro": "Plaja Valtos",
+                "en": "Valtos Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Regen dämpft alle Geräusche am Strand; genießen Sie die Einsamkeit, aber passen Sie auf dem nassen Holzsteg zum Wasser auf.",
+                "hu": "Az eső elcsendesíti a partot; élvezze a magányt, de legyen óvatos a vízhez vezető, átázott és síkos fa pallókon.",
+                "ro": "Ploaia liniștește întreaga plajă; bucurați-vă de singurătate, dar aveți grijă pe podețele de lemn ude care duc spre apă.",
+                "en": "The rain dampens all sounds on the beach; enjoy the solitude, but be careful on the soaked and slippery wooden walkways."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Panagia Vlacherna",
+                "hu": "Panagia Vlacherna Kolostor",
+                "ro": "Mănăstirea Panagia Vlacherna",
+                "en": "Monastery of Panagia Vlacherna"
+              },
+              "tip_5lang": {
+                "de": "Ein spiritueller Ort für ein stilles Gebet bei Regen; die historische Kirche bietet einen friedlichen Rückzugsort vor dem Wetter.",
+                "hu": "Spirituális helyszín egy csendes perchez esőben; a történelmi templom belső tere békés menedéket nyújt az időjárás elől.",
+                "ro": "Un loc spiritual pentru un moment de liniște pe ploaie; interiorul bisericii istorice oferă un refugiu pașnic împotriva vremii.",
+                "en": "A spiritual location for a quiet moment in the rain; the historic church interior provides a peaceful refuge from the weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Rad startet frisch am Bahnhof der Bummelzüge. Mittags besuchen wir Piso Krioneri, wo die Sonne das klare Wasser beleuchtet. Nachmittags geht es zur Insel Panagia, die im Winterlicht fast magisch wirkt. Nach einem Stopp an der Burg erreichen wir den Valtos Strand. Da es früh dunkel wird, nutzen wir die letzten Sonnenstrahlen am Kloster Vlacherna für ein Panoramafoto.",
+            "hu": "A téli biciklis túra frissítően indul a kisvonatok állomásától. Délben a Piso Krioneri öbölnél pihenünk meg, ahol a téli nap megcsillan a kristálytiszta vízen. Délután a Panagia-szigetre látogatunk, amely ilyenkor szinte varázslatos. A vár érintésével érjük el a Valtos strandot; a korai sötétedés miatt a Vlacherna kolostornál zárjuk a napot az utolsó fényekben.",
+            "ro": "Turul cu bicicleta iarna începe revigorant de la gara trenulețelor. La prânz vizităm golful Piso Krioneri, unde soarele de iarnă strălucește în apa clară. După-amiaza mergem pe insula Panagia, care pare magică în lumina iernii. După o scurtă oprire la castel, ajungem la plaja Valtos; din cauza apusului timpuriu, încheiem ziua la mănăstirea Vlacherna.",
+            "en": "The winter bike tour starts refreshingly from the tourist train station. At noon, we rest at Piso Krioneri bay, where the winter sun sparkles on crystal clear water. In the afternoon, we visit Panagia island, which looks almost magical. After passing the castle, we reach Valtos Beach; due to the early sunset, we finish the day at Vlacherna Monastery in the last light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parga Züge",
+                "hu": "Parga Vonatok",
+                "ro": "Trenulețele din Parga",
+                "en": "Parga Trains"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Treffpunkt für Radfahrer; im Winter ist der Bahnhof ruhiger und man kann die historischen Züge ohne Eile fotografieren.",
+                "hu": "Kiváló találkozóhely kerékpárosoknak; télen az állomás környéke csendesebb, így nyugodtan fotózhatja a történelmi szerelvényeket.",
+                "ro": "Un loc de întâlnire excelent pentru bicicliști; iarna, zona gării este mai liniștită, permițându-vă să fotografiați trenurile în tihnă.",
+                "en": "A great meeting point for cyclists; in winter the station area is quieter, allowing you to photograph the historic trains without haste."
+              }
+            },
+            {
+              "name": {
+                "de": "Piso Krioneri",
+                "hu": "Piso Krioneri",
+                "ro": "Piso Krioneri",
+                "en": "Piso Krioneri"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter windgeschützt und ideal für eine Pause; genießen Sie die milde Sonne in den Felsen, aber tragen Sie warme Kleidung.",
+                "hu": "Az öböl télen is szélvédett, ideális egy rövid pihenőre; élvezze a gyenge napsütést a sziklák között, de rétegesen öltözzön.",
+                "ro": "Golful este ferit de vânt chiar și iarna, fiind ideal pentru o pauză; bucurați-vă de soarele blând printre stânci, dar îmbrăcați-vă gros.",
+                "en": "The bay is wind-sheltered even in winter, making it ideal for a break; enjoy the mild sun among the rocks, but dress in warm layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung der Insel Panagia",
+                "hu": "Panagia-sziget Erődje",
+                "ro": "Fortul Insulei Panagia",
+                "en": "Fort of Panagia island"
+              },
+              "tip_5lang": {
+                "de": "Die Insel ist im Winter ein Ort absoluter Stille; nutzen Sie das weiche Licht für Aufnahmen der Kapelle, bevor die Schatten länger werden.",
+                "hu": "A sziget télen a tökéletes nyugalom szigete; használja ki a lágy fényeket a kápolna fotózásához, mielőtt a délutáni árnyékok megnyúlnak.",
+                "ro": "Insula este un loc al liniștii absolute iarna; profitați de lumina blândă pentru a fotografia capela înainte ca umbrele să se lungească.",
+                "en": "The island is a place of absolute peace in winter; use the soft light to photograph the chapel before the afternoon shadows lengthen."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg von Parga",
+                "hu": "Parga Vára",
+                "ro": "Castelul din Parga",
+                "en": "Castle of Parga"
+              },
+              "tip_5lang": {
+                "de": "Erklimmen Sie die Burg für den Panoramablick; die Luft ist im Winter klarer, was perfekte Fotos der gesamten Küstenlinie ermöglicht.",
+                "hu": "Másszon fel a várba a panorámáért; a levegő télen sokkal tisztább, így tökéletes felvételeket készíthet az egész partvonalról.",
+                "ro": "Urcați la castel pentru panoramă; aerul este mult mai clar iarna, permițând fotografii perfecte ale întregii linii de coastă.",
+                "en": "Climb up to the castle for the panorama; the air is much clearer in winter, allowing for perfect shots of the entire coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Valtos Strand",
+                "hu": "Valtos Strand",
+                "ro": "Plaja Valtos",
+                "en": "Valtos Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand gehört Ihnen im Winter fast allein; radeln Sie entspannt am Ufer entlang und genießen Sie die kühle, frische Brise.",
+                "hu": "Télen a strand szinte csak az Öné; kerékpározzon kényelmesen a parton, és élvezze a hűvös, frissítő tengeri szellőt.",
+                "ro": "Iarna, plaja este aproape în întregime a voastră; pedalați relaxat pe mal și bucurați-vă de briza marină răcoroasă și proaspătă.",
+                "en": "In winter, the beach is almost entirely yours; cycle leisurely along the shore and enjoy the cool, refreshing sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Panagia Vlacherna",
+                "hu": "Panagia Vlacherna Kolostor",
+                "ro": "Mănăstirea Panagia Vlacherna",
+                "en": "Monastery of Panagia Vlacherna"
+              },
+              "tip_5lang": {
+                "de": "Ein würdiger Abschluss bei Sonnenuntergang; das Kloster wirkt im Abendlicht erhaben, aber denken Sie an eine gute Fahrradbeleuchtung.",
+                "hu": "Méltó befejezés naplementekor; a kolostor fenséges az alkonyi fényben, de a visszútra legyen megbízható világítása a biciklin.",
+                "ro": "Un final pe măsură la apus; mănăstirea arată sublim în lumina serii, dar asigurați-vă că aveți lumini bune la bicicletă pentru întors.",
+                "en": "A fitting conclusion at sunset; the monastery looks sublime in the evening light, but ensure you have good bike lights for the return."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós túrája békésen indul a buja zöldben megbúvó történelmi Panagia Vlacherna kolostornál. Délben a Valtos strand tágas partjaihoz és az Athena hotel hangulatos környékéhez vezet az út. Délután fedezze fel az ipari örökséget a régi olívaolaj-gyárban. Zárja útját a Parga Trains közelében, és pihenjen meg este a Piso Krioneri partjánál.",
         "ro": "Călătoria cu mașina începe liniștit la istorica Mănăstire Panagia Vlacherna, ascunsă în verdeață. La prânz, vizitați țărmurile largi ale plajei Valtos și împrejurimile confortabile ale hotelului Athena. După-amiaza, descoperiți patrimoniul industrial la Vechea Fabrică de Ulei. Încheiați turul lângă Parga Trains, relaxându-vă la Piso Krioneri în adierea serii.",
         "en": "Your drive begins peacefully at the historic Monastery of Panagia Vlacherna nestled in lush greenery. Midday takes you to the wide shores of Valtos Beach and the cozy surroundings of Athena's hotel. In the afternoon, discover the industrial heritage at the Old Olive Oil Factory. Conclude your driving tour near Parga Trains and relax at Piso Krioneri by the evening tide."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt am Kloster Vlacherna, das wir trocken erreichen. Mittags halten wir am Valtos Strand, wo wir das Wetter aus dem Wagen beobachten. Danach besuchen wir das Athena Hotel für eine Pause. Nachmittags bietet die Olivenölfabrik ein ideales Indoor-Programm. Die Tour endet am Bahnhof und Piso Krioneri, wobei das Auto uns bequem und warm von Ort zu Ort bringt.",
+            "hu": "Az autós túra a Vlacherna kolostornál indul, amit kényelmesen, szárazon érhetünk el. Délben a Valtos strandon állunk meg, a kocsiból figyelve a hullámokat. Egy rövid pihenő után az Athena hotel következik. Délután a régi olajgyár nyújt fedett menedéket és kulturális élményt. A napot a kisvonatoknál és Piso Krioneri szikláinál zárjuk, élvezve az autó nyújtotta védelmet.",
+            "ro": "Turul cu mașina începe la mănăstirea Vlacherna, unde ajungem fără a ne uda. La prânz oprim la plaja Valtos, admirând marea din confortul vehiculului. După o pauză la hotelul Athena, după-amiaza vizităm fabrica de ulei, un loc ideal de interior. Ziua se încheie la trenulețe și Piso Krioneri, mașina oferindu-ne protecție și căldură între opriri.",
+            "en": "The car tour begins at Vlacherna Monastery, which we reach comfortably and dry. At noon, we stop at Valtos Beach, watching the waves from the vehicle. After a break at Athena's hotel, the afternoon provides a cultural indoor experience at the oil factory. The day ends at the trains and Piso Krioneri, enjoying the protection and warmth provided by the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster Panagia Vlacherna",
+                "hu": "Panagia Vlacherna Kolostor",
+                "ro": "Mănăstirea Panagia Vlacherna",
+                "en": "Monastery of Panagia Vlacherna"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe, um den kurzen Fußweg im Regen zu minimieren; die Stille des Klosters ist bei Regen besonders tief.",
+                "hu": "Parkoljon közvetlenül a közelben, hogy minimalizálja az esőben megtett sétát; a kolostor csendje esőben még meghittebbnek hat.",
+                "ro": "Parcați chiar în apropiere pentru a minimiza mersul pe jos prin ploaie; liniștea mănăstirii este și mai profundă când plouă.",
+                "en": "Park directly nearby to minimize the walk in the rain; the silence of the monastery feels even more intimate when it is raining."
+              }
+            },
+            {
+              "name": {
+                "de": "Valtos Strand",
+                "hu": "Valtos Strand",
+                "ro": "Plaja Valtos",
+                "en": "Valtos Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer aus dem warmen Auto; ein kurzer Spaziergang am Ufer ist mit einem stabilen Schirm möglich.",
+                "hu": "Élvezze a viharos tenger látványát a fűtött autó kényelméből; egy rövid parti séta egy stabil esernyővel ilyenkor is frissítő.",
+                "ro": "Bucurați-vă de vederea mării agitate din confortul mașinii încălzite; o scurtă plimbare pe mal este posibilă cu o umbrelă stabilă.",
+                "en": "Enjoy the view of the stormy sea from the comfort of your heated car; a short beach walk is possible with a sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Athenas Hotel",
+                "hu": "Athena Hotele",
+                "ro": "Hotelul Athena",
+                "en": "Athena's hotel"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine Pause bei schlechtem Wetter; nutzen Sie die Lobby oder das Restaurant, um sich aufzuwärmen und zu trocknen.",
+                "hu": "Kiváló helyszín egy pihenőre rossz idő esetén; használja a lobbit vagy az éttermet a felmelegedéshez és az átázott ruhák megszárításához.",
+                "ro": "Un loc excelent pentru o pauză în caz de vreme rea; folosiți holul sau restaurantul pentru a vă încălzi și a vă usca hainele.",
+                "en": "An excellent spot for a break in case of bad weather; use the lobby or restaurant to warm up and dry off any damp clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Paragaea - Alte Olivenölfabrik",
+                "hu": "Paragaea - Régi Olívaolaj Gyár",
+                "ro": "Paragaea - Vechea Fabrică de Ulei de Măsline",
+                "en": "Paragaea - Old Olive Oil Factory"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss bei Regen; das Museum ist komplett überdacht und bietet faszinierende Einblicke in die regionale Geschichte ohne nass zu werden.",
+                "hu": "Esőben kötelező program; a múzeum teljesen fedett, és lenyűgöző betekintést nyújt a régió történelmébe anélkül, hogy megázna.",
+                "ro": "O vizită obligatorie pe ploaie; muzeul este complet acoperit și oferă o incursiune fascinantă în istoria regiunii fără a vă uda.",
+                "en": "A must-visit in the rain; the museum is fully covered and offers a fascinating insight into regional history without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Parga Züge",
+                "hu": "Parga Vonatok",
+                "ro": "Trenulețele din Parga",
+                "en": "Parga Trains"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Bahnhof mit dem Wagen; die nostalgischen Züge sind auch bei Regen ein tolles Fotomotiv direkt vom Parkplatz aus.",
+                "hu": "Látogasson el az állomásra autóval; a nosztalgikus vonatok esőben is remek fotótémát szolgáltatnak akár a parkolóból is.",
+                "ro": "Vizitați gara cu mașina; trenurile nostalgice sunt un subiect foto excelent chiar și pe ploaie, direct din zona de parcare.",
+                "en": "Visit the station by car; the nostalgic trains are a great photo subject even in the rain, right from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Piso Krioneri",
+                "hu": "Piso Krioneri",
+                "ro": "Piso Krioneri",
+                "en": "Piso Krioneri"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet oft Sicht auf die Brandung; beobachten Sie die Kraft der Natur sicher aus dem Auto, da die Wege sehr rutschig sind.",
+                "hu": "A parkolóból gyakran látni a hullámverést; figyelje meg a természet erejét biztonságban az autóból, mert az utak nagyon csúszósak.",
+                "ro": "Parcarea oferă adesea vedere spre valuri; observați forța naturii în siguranță din mașină, deoarece potecile sunt foarte alunecoase.",
+                "en": "The parking lot often offers a view of the surf; observe nature's power safely from the car as the paths are very slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour startet am Kloster Vlacherna bei klarer Luft. Danach fahren wir zum Valtos Strand, wo wir einen einsamen Winterspaziergang genießen. Mittags machen wir Halt beim Athena Hotel. Nachmittags besuchen wir die Olivenölfabrik. Da es gegen 17:00 Uhr dunkelt, endet der Tag am Bahnhof der Züge und in Piso Krioneri, wo die Lichter der Stadt im kühlen Abend glänzen.",
+            "hu": "A téli autós túra a Vlacherna kolostornál indul a friss, tiszta levegőben. Ezután a Valtos strandhoz hajtunk egy magányos parti sétára. Délben az Athena hotelnél pihenünk meg. Délután a régi olajgyár múzeumát látogatjuk meg. Mivel 17:00 körül sötétedik, a napot a vonatállomásnál és Piso Krionerinél zárjuk, ahol a város fényei már az estét jelzik.",
+            "ro": "Turul cu mașina iarna începe la mănăstirea Vlacherna în aerul proaspăt și curat. Apoi conducem spre plaja Valtos pentru o plimbare solitară pe țărm. La prânz oprim la hotelul Athena. După-amiaza vizităm muzeul fabricii de ulei. Deoarece se întunecă în jur de ora 17:00, încheiem ziua la gara trenulețelor și la Piso Krioneri, sub luminile orașului.",
+            "en": "The winter car tour starts at Vlacherna Monastery in the fresh, crisp air. Next, we drive to Valtos Beach for a solitary shoreline stroll. At noon, we rest at Athena's hotel. In the afternoon, we visit the old oil factory museum. Since it gets dark around 17:00, we finish the day at the train station and Piso Krioneri under the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster Panagia Vlacherna",
+                "hu": "Panagia Vlacherna Kolostor",
+                "ro": "Mănăstirea Panagia Vlacherna",
+                "en": "Monastery of Panagia Vlacherna"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist im Winter problemlos und bietet tolle Aussichten; genießen Sie die Einsamkeit an diesem heiligen Ort ohne Sommertrubel.",
+                "hu": "A felvezető út télen forgalommentes és pazar kilátást nyújt; élvezze a szent hely nyugalmát a nyári tömeg és a hőség nélkül.",
+                "ro": "Drumul de acces este liber iarna și oferă vederi superbe; bucurați-vă de liniștea acestui loc sfânt fără aglomerația și arșița verii.",
+                "en": "The access road is clear in winter and offers great views; enjoy the peace of this holy site without the summer crowds and heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Valtos Strand",
+                "hu": "Valtos Strand",
+                "ro": "Plaja Valtos",
+                "en": "Valtos Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am leeren Strand für einen kurzen Spaziergang; die winterliche Meeresbrise ist belebend, aber ziehen Sie sich warm an.",
+                "hu": "Parkoljon közvetlenül az üres strandon egy rövid sétához; a téli tengeri szellő élénkítő, de öltözzön fel melegen a parthoz.",
+                "ro": "Parcați chiar pe plaja pustie pentru o scurtă plimbare; briza mării iarna este revigorantă, dar îmbrăcați-vă gros pentru malul apei.",
+                "en": "Park right on the empty beach for a short walk; the winter sea breeze is invigorating, but dress warmly for the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Athenas Hotel",
+                "hu": "Athena Hotele",
+                "ro": "Hotelul Athena",
+                "en": "Athena's hotel"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders ruhig; nutzen Sie den Halt für einen heißen Tee und genießen Sie die Aussicht auf die Olivenhaine.",
+                "hu": "Télen itt különösen nagy a csend; használja ki a megállót egy forró teára, és gyönyörködjön a környező olajfaligetek látványában.",
+                "ro": "Iarna este o liniște deosebită aici; profitați de oprire pentru un ceai fierbinte și admirați vederea livezilor de măslini din jur.",
+                "en": "It is especially quiet here in winter; take the opportunity for a hot tea and enjoy the view of the surrounding olive groves."
+              }
+            },
+            {
+              "name": {
+                "de": "Paragaea - Alte Olivenölfabrik",
+                "hu": "Paragaea - Régi Olívaolaj Gyár",
+                "ro": "Paragaea - Vechea Fabrică de Ulei de Măsline",
+                "en": "Paragaea - Old Olive Oil Factory"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte gut ab; ein informativer Vormittag in der Wärme des Museums ist die perfekte Winteraktivität.",
+                "hu": "A vastag falak jól tartják a hőt; egy informatív délelőtt a múzeum melegében a tökéletes téli program a város szívében.",
+                "ro": "Zidurile groase rețin bine căldura; o dimineață informativă în căldura muzeului este activitatea perfectă de iarnă în inima orașului.",
+                "en": "The thick walls keep the cold out well; an informative morning in the warmth of the museum is the perfect winter activity."
+              }
+            },
+            {
+              "name": {
+                "de": "Parga Züge",
+                "hu": "Parga Vonatok",
+                "ro": "Trenulețele din Parga",
+                "en": "Parga Trains"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchteten Züge im frühen Abendlicht sind ein magischer Anblick; nutzen Sie das Auto, um bequem zum Bahnhofsbereich zu gelangen.",
+                "hu": "A kora esti fényben kivilágított vonatok varázslatos látványt nyújtanak; használja az autót, hogy kényelmesen eljusson az állomáshoz.",
+                "ro": "Trenurile iluminate în lumina serii timpurii sunt o vedere magică; folosiți mașina pentru a ajunge confortabil în zona gării.",
+                "en": "The illuminated trains in the early evening light are a magical sight; use the car to get to the station area comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Piso Krioneri",
+                "hu": "Piso Krioneri",
+                "ro": "Piso Krioneri",
+                "en": "Piso Krioneri"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Schatten der Felsen im Winterlicht sind beeindruckend; parken Sie sicher und genießen Sie die kühle Abendstimmung am Meer.",
+                "hu": "A sziklák mély árnyékai a téli fényben lenyűgözőek; parkoljon le biztonságosan, és élvezze a hűvös esti hangulatot a tengerparton.",
+                "ro": "Umbrele adânci ale stâncilor în lumina iernii sunt impresionante; parcați în siguranță și bucurați-vă de atmosfera răcoroasă de seară.",
+                "en": "The deep shadows of the rocks in the winter light are impressive; park safely and enjoy the cool evening atmosphere by the sea."
+              }
+            }
+          ]
+        }
       }
     }
   }

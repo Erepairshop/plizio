@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Sikinos szívében, fedezze fel a központi Panagia Pantanassát, majd sétáljon fel a lenyűgöző Chrysopigi kolostorhoz.\nSétáljon a part felé, hogy felfedezze Alopronoia ősi tornyát, és gyönyörködjön a tengeri panorámában, mielőtt a nyugodt Dialiskari öbölbe indulna.\nTegyen egy hosszú, békés sétát a zord tájon az elszigetelt Aghios Panteleimonas felé, és élvezze az érintetlen szigeti növényvilágot.\nZárja a túrát ezen a békés helyszínen, miközben a lemenő nap csodálatos színekkel festi meg a tájat, méltó befejezést adva a napnak.",
         "ro": "Începeți ziua în inima insulei Sikinos explorând biserica centrală Panagia Pantanassa, înainte de a urca la impresionanta Mănăstire Chrysopigi.\nPlimbați-vă spre coastă pentru a descoperi vechiul Turn Alopronoia, bucurându-vă de priveliștile marine înainte de a ajunge la golful liniștit Dialiskari.\nBucurați-vă de o plimbare lungă și pașnică prin peisajul accidentat spre îndepărtatul Aghios Panteleimonas, admirând flora insulară neatinsă.\nÎncheiați-vă drumeția în această locație retrasă în lumina blândă a după-amiezii, oferind un final spectaculos și relaxant pentru o zi activă.",
         "en": "Begin your day in the heart of Sikinos by exploring the central Panagia Pantanassa before heading up to the striking Chrysopigi Monastery.\nWander towards the coast to discover the ancient Tower of Alopronoia, taking in sweeping sea views before heading to the serene Dialiskari cove.\nEnjoy a long, peaceful walk across the rugged landscape towards the remote Aghios Panteleimonas, soaking in the untouched island flora.\nConclude your trek immersed in nature as the sun begins to lower over the Aegean, offering a spectacular and peaceful end to an active walking day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie morgens die Kirchen in wasserdichten Schuhen. Mittags sollten Sie auf den rutschigen Pflastersteinen bei den Ruinen vorsichtig sein. Suchen Sie nachmittags rechtzeitig Schutz vor plötzlichen Regenschauern und Wind. Wärmen Sie sich abends gemütlich an einem trockenen Ort in der Stadt auf.",
+            "hu": "Reggel vízálló cipőben fedezze fel a templomokat. Délben óvatosan lépkedjen a macskaköveken a romoknál, mert nagyon csúsznak. Délután keressen menedéket a hirtelen záporok és az erős szél elől. Este melegedjen fel egy barátságos, száraz helyen a városban.",
+            "ro": "Explorați bisericile în pantofi impermeabili în această dimineață. La prânz, pășiți cu grijă pe pietrele alunecoase de lângă ruine. După-amiaza, căutați adăpost de ploile bruște și de vânt. Încălziți-vă într-un loc uscat și primitor seara.",
+            "en": "Explore the churches in waterproof shoes this morning. At noon, step carefully on the cobblestones around the ruins, as they get very slippery. In the afternoon, seek shelter from sudden showers and strong wind. Warm up in a cozy, dry place in town this evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Panagia Pantanassa",
+                "hu": "Panagia Pantanassa",
+                "ro": "Panagia Pantanassa",
+                "en": "Panagia Pantanassa"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Regenschutz, aber achten Sie auf die sehr rutschigen Steinstufen am Eingang. Betreten Sie ihn mit großer Vorsicht.",
+                "hu": "A belső tér menedéket nyújt a záporok elől, de a bejáratnál lévő kőlépcsők nagyon csúsznak. Óvatosan és lassan lépkedjen.",
+                "ro": "Interiorul oferă adăpost de ploaie, dar atenție la treptele de piatră foarte alunecoase de la intrare. Pășiți cu mare grijă.",
+                "en": "The interior offers shelter from the rain, but watch out for very slippery stone steps at the entrance. Take your time entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Chrysopigi",
+                "hu": "Chrysopigi kolostor",
+                "ro": "Mănăstirea Chrysopigi",
+                "en": "Chrysopigi Monastery"
+              },
+              "tip_5lang": {
+                "de": "Der regennasse Hof wirkt mystisch, aber die Wege werden extrem rutschig. Robuste, wasserdichte Wanderschuhe sind hier unerlässlich.",
+                "hu": "Az eső áztatta udvar misztikus hatást kelt, de a köves ösvények csúsznak. A masszív, vízálló túracipő itt elengedhetetlen.",
+                "ro": "Curtea îmbibată de ploaie pare mistică, dar potecile devin extrem de alunecoase. Încălțămintea robustă și impermeabilă este esențială.",
+                "en": "The rain-soaked courtyard looks mystical, but the paths get extremely slippery. Sturdy, waterproof hiking shoes are absolutely essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Alopronoia",
+                "hu": "Alopronoia tornya",
+                "ro": "Turnul Alopronoia",
+                "en": "Tower of Alopronoia"
+              },
+              "tip_5lang": {
+                "de": "Bei diesen Ruinen gibt es kaum Schutz vor plötzlichen Regengüssen. Bringen Sie einen robusten Regenschirm oder einen guten Regenmantel mit.",
+                "hu": "A romoknál szinte nincs fedett menedék a hirtelen záporok elől. Hozzon magával egy szélálló esernyőt vagy jó esőkabátot.",
+                "ro": "Există puțin adăpost de ploile torențiale bruște la aceste ruine. Aduceți o umbrelă rezistentă la vânt sau o pelerină de ploaie bună.",
+                "en": "There is little cover from sudden downpours at these ruins. Bring a sturdy, wind-resistant umbrella or a good hooded raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Dialiskari",
+                "hu": "Dialiskari",
+                "ro": "Dialiskari",
+                "en": "Dialiskari"
+              },
+              "tip_5lang": {
+                "de": "Die Küste zeigt bei Regen ihre wilde Seite. Tragen Sie wasserfeste Kleidung und meiden Sie rutschige Felsen in der Nähe der Wellen.",
+                "hu": "Esőben a partvidék vadabb arcát mutatja. Viseljen vízálló felszerelést, és kerülje a csúszós sziklákat a hullámzó víz közelében.",
+                "ro": "Coasta își arată latura sălbatică pe ploaie. Purtați echipament impermeabil și stați departe de stâncile alunecoase de lângă valuri.",
+                "en": "The coastline shows its wild side in the rain. Wear fully waterproof gear and stay away from slippery rocks near the crashing waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Aghios Panteleimonas",
+                "hu": "Aghios Panteleimonas",
+                "ro": "Aghios Panteleimonas",
+                "en": "Aghios Panteleimonas"
+              },
+              "tip_5lang": {
+                "de": "Der Weg um die Kapelle kann bei Stürmen zu einem Schlammbad werden. Feste, wasserdichte Stiefel sind für einen sicheren Besuch wichtig.",
+                "hu": "A kápolna körüli ösvény heves esőzéskor sártengerré válhat. A masszív, vízálló lábbeli elengedhetetlen a biztonságos vizithez.",
+                "ro": "Cărarea din jurul capelei se poate transforma în noroi în timpul furtunilor. Cizmele impermeabile sunt vitale pentru o vizită sigură.",
+                "en": "The path around the chapel can turn into a mud bath during heavy storms. Solid, waterproof boots are absolutely vital for a safe visit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie morgens die frische Luft bei den Kirchen. Nutzen Sie mittags die sonnigeren Stunden an den Ruinen. Ziehen Sie sich nachmittags wegen des kalten Küstenwinds warm in Schichten an. Kehren Sie wegen des frühen Sonnenuntergangs (gegen 17:00 Uhr) zeitig in die Stadt zurück.",
+            "hu": "Reggel élvezze a friss, hűvös levegőt a templomoknál. Délben a naposabb órákat használja ki a romok felfedezésére. Délután öltözzön rétegesen a tengerparti hideg szél miatt. Este a korai sötétedés miatt (17:00) időben térjen vissza a központba.",
+            "ro": "Bucurați-vă de aerul proaspăt și rece la biserici în această dimineață. La prânz, profitați de orele însorite pentru a explora ruinele. Îmbrăcați-vă în straturi după-amiaza din cauza vântului rece de coastă. Întoarceți-vă devreme din cauza apusului la 17:00.",
+            "en": "Enjoy the crisp, cool air at the churches this morning. At noon, take advantage of the sunnier hours to explore the ruins. Dress in layers this afternoon against the cold coastal wind. Return to the center early due to the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Panagia Pantanassa",
+                "hu": "Panagia Pantanassa",
+                "ro": "Panagia Pantanassa",
+                "en": "Panagia Pantanassa"
+              },
+              "tip_5lang": {
+                "de": "Die dicken alten Mauern schließen die kalte Luft ein. Behalten Sie Ihren Wintermantel an, während Sie die ruhige Atmosphäre genießen.",
+                "hu": "A vastag falak bent tartják a hideget, így tartsa magán a meleg téli kabátot, miközben a csendes, békés hangulatot élvezi.",
+                "ro": "Zidurile groase rețin aerul rece înăuntru, așa că păstrați-vă haina de iarnă pe dvs. în timp ce vă bucurați de atmosfera liniștită.",
+                "en": "The thick old walls trap the cold air inside, so keep your warm winter coat on while enjoying the quiet, peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Chrysopigi",
+                "hu": "Chrysopigi kolostor",
+                "ro": "Mănăstirea Chrysopigi",
+                "en": "Chrysopigi Monastery"
+              },
+              "tip_5lang": {
+                "de": "Die Winteraussicht ist atemberaubend klar, aber die Höhenwinde sind eiskalt. Ein warmer Schal und eine Mütze sind sehr zu empfehlen.",
+                "hu": "Téli időben csodásan tiszta innen a kilátás, de a magaslati szél jéghideg. Egy meleg sál és sapka erősen ajánlott a nézelődéshez.",
+                "ro": "Priveliștile de iarnă sunt uimitor de clare, dar vânturile de altitudine sunt înghețate. Un fular și o căciulă caldă sunt recomandate.",
+                "en": "The winter views are stunningly clear, but the high-altitude winds are freezing. A warm scarf and hat are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Alopronoia",
+                "hu": "Alopronoia tornya",
+                "ro": "Turnul Alopronoia",
+                "en": "Tower of Alopronoia"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne beleuchtet die alten Steine wunderschön, aber stellen Sie sich auf beißend kalte Zugluft vom offenen Meer ein.",
+                "hu": "Az alacsony téli napfény csodásan világítja meg a köveket, de készüljön fel a nyílt tenger felől érkező csípős, hideg fuvallatokra.",
+                "ro": "Soarele de iarnă luminează frumos pietrele antice, dar pregătiți-vă pentru curenți de aer reci și mușcători ce vin dinspre mare.",
+                "en": "The low winter sun beautifully illuminates the ancient stones, but prepare for biting cold drafts coming in from the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Dialiskari",
+                "hu": "Dialiskari",
+                "ro": "Dialiskari",
+                "en": "Dialiskari"
+              },
+              "tip_5lang": {
+                "de": "Der verlassene Winterstrand eignet sich perfekt für stille Reflexion. Packen Sie sich für einen erfrischenden Spaziergang warm ein.",
+                "hu": "A néptelen téli tengerpart tökéletes a csendes szemlélődésre. Öltözzön meleg rétegekbe egy frissítő sétához a hűvös part mentén.",
+                "ro": "Plaja pustie de iarnă este perfectă pentru o reflecție liniștită. Îmbrăcați-vă gros pentru o plimbare revigorantă pe coasta rece.",
+                "en": "The deserted winter beach is perfect for quiet reflection. Wrap up in warm layers for a refreshing walk along the chilly coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Aghios Panteleimonas",
+                "hu": "Aghios Panteleimonas",
+                "ro": "Aghios Panteleimonas",
+                "en": "Aghios Panteleimonas"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird (gegen 17:00 Uhr), sollten Sie ankommen, solange es noch hell ist, um die friedliche Umgebung zu genießen.",
+                "hu": "Mivel korán (17:00 körül) sötétedik, ide még a délutáni világosban érkezzen meg, hogy élvezhesse a békés, fenséges környezetet.",
+                "ro": "Deoarece se întunecă devreme (în jur de 17:00), asigurați-vă că ajungeți cât încă e lumină pentru a vă bucura de peisajul liniștit.",
+                "en": "Since it gets dark early (around 17:00), make sure to arrive while there is still afternoon light to fully enjoy the peaceful setting."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon a csendes utcákon a Panagia Pantanassához, majd tekerjen fel a kanyargós úton a Chrysopigi kolostorhoz, ahonnan panorámás kilátás nyílik.\nLovagoljon Alopronoia történelmi tornya felé, majd hűtse le magát egy déli pihenővel a Dialiskari öböl elszigetelt, kristálytiszta vizében.\nTegye próbára magát egy festői kerékpározással a szigeten át a nyugodt Aghios Panteleimonas felé, élvezve a csendes vidéki utakat.\nFejezze be kerékpáros kalandját a hangulatos tengerparti Santorineikánál, és jutalmazza meg magát az Égei-tenger feletti lélegzetelállító naplementével.",
         "ro": "Ciclism prin străzile liniștite spre Panagia Pantanassa și pedalați pe drumul șerpuit către Mănăstirea fortificată Chrysopigi pentru priveliști panoramice.\nMergeți spre istoricul Turn Alopronoia, apoi răcoriți-vă cu o pauză la amiază în apele izolate și cristaline ale golfului Dialiskari.\nProvocați-vă cu o plimbare pitorească traversând insula către liniștitul Aghios Panteleimonas, bucurându-vă de drumurile rurale.\nFinalizați aventura pe două roți în fermecătorul punct de coastă Santorineika, recompensându-vă cu o priveliște superbă asupra orizontului Mării Egee.",
         "en": "Cycle through the quiet streets to visit Panagia Pantanassa and pedal up the winding path to the fortified Chrysopigi Monastery for panoramic views.\nRide towards the historic Tower of Alopronoia, then cool off with a midday break at the secluded, crystal-clear waters of Dialiskari cove.\nChallenge yourself with a scenic ride across the island to the tranquil Aghios Panteleimonas, enjoying the quiet and charming countryside roads.\nFinish your cycling adventure at the charming coastal spot of Santorineika, rewarding yourself with a breathtaking view over the wide Aegean horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig auf nassen Straßen zum Kloster. Achten Sie mittags auf schlammige Hänge bei den Ruinen. Ein guter Regenmantel ist nachmittags an der Küste unerlässlich. Fahren Sie abends bei Regen und schlechter Sicht langsam und sicher zurück.",
+            "hu": "Reggel óvatosan tekerjen a csúszós utakon a kolostorhoz. Délben figyeljen a sáros lejtőkre a romok felé. Délután elengedhetetlen egy jó esőkabát a parton. Este lassan tekerjen vissza, mivel az esőben jelentősen romlanak a látási viszonyok.",
+            "ro": "Pedalați cu grijă pe drumurile alunecoase spre mănăstire dimineața. La prânz, atenție la pantele noroioase de lângă ruine. O pelerină de ploaie este esențială după-amiaza pe coastă. Întoarceți-vă încet seara, deoarece vizibilitatea scade pe ploaie.",
+            "en": "Ride carefully on slippery roads to the monastery this morning. At noon, watch out for muddy slopes near the ruins. A good raincoat is essential in the afternoon down by the coast. Ride slowly back this evening as visibility drops significantly in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Panagia Pantanassa",
+                "hu": "Panagia Pantanassa",
+                "ro": "Panagia Pantanassa",
+                "en": "Panagia Pantanassa"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Regenschutz, aber achten Sie auf die sehr rutschigen Steinstufen am Eingang. Betreten Sie ihn mit großer Vorsicht.",
+                "hu": "A belső tér menedéket nyújt a záporok elől, de a bejáratnál lévő kőlépcsők nagyon csúsznak. Óvatosan és lassan lépkedjen.",
+                "ro": "Interiorul oferă adăpost de ploaie, dar atenție la treptele de piatră foarte alunecoase de la intrare. Pășiți cu mare grijă.",
+                "en": "The interior offers shelter from the rain, but watch out for very slippery stone steps at the entrance. Take your time entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Chrysopigi",
+                "hu": "Chrysopigi kolostor",
+                "ro": "Mănăstirea Chrysopigi",
+                "en": "Chrysopigi Monastery"
+              },
+              "tip_5lang": {
+                "de": "Der regennasse Hof wirkt mystisch, aber die Wege werden extrem rutschig. Robuste, wasserdichte Wanderschuhe sind hier unerlässlich.",
+                "hu": "Az eső áztatta udvar misztikus hatást kelt, de a köves ösvények csúsznak. A masszív, vízálló cipő itt elengedhetetlen a sétához.",
+                "ro": "Curtea îmbibată de ploaie pare mistică, dar potecile devin extrem de alunecoase. Încălțămintea robustă și impermeabilă este esențială.",
+                "en": "The rain-soaked courtyard looks mystical, but the paths get extremely slippery. Sturdy, waterproof shoes are absolutely essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Alopronoia",
+                "hu": "Alopronoia tornya",
+                "ro": "Turnul Alopronoia",
+                "en": "Tower of Alopronoia"
+              },
+              "tip_5lang": {
+                "de": "Bei diesen Ruinen gibt es kaum Schutz vor plötzlichen Regengüssen. Bringen Sie einen robusten Regenschirm oder einen guten Regenmantel mit.",
+                "hu": "A romoknál szinte nincs fedett menedék a hirtelen záporok elől. Hozzon magával egy szélálló esernyőt vagy jó esőkabátot.",
+                "ro": "Există puțin adăpost de ploile torențiale bruște la aceste ruine. Aduceți o umbrelă rezistentă la vânt sau o pelerină de ploaie bună.",
+                "en": "There is little cover from sudden downpours at these ruins. Bring a sturdy, wind-resistant umbrella or a good hooded raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Dialiskari",
+                "hu": "Dialiskari",
+                "ro": "Dialiskari",
+                "en": "Dialiskari"
+              },
+              "tip_5lang": {
+                "de": "Die Küste zeigt bei Regen ihre wilde Seite. Tragen Sie wasserfeste Kleidung und meiden Sie rutschige Felsen in der Nähe der Wellen.",
+                "hu": "Esőben a partvidék vadabb arcát mutatja. Viseljen vízálló felszerelést, és kerülje a csúszós sziklákat a hullámzó víz közelében.",
+                "ro": "Coasta își arată latura sălbatică pe ploaie. Purtați echipament impermeabil și stați departe de stâncile alunecoase de lângă valuri.",
+                "en": "The coastline shows its wild side in the rain. Wear fully waterproof gear and stay away from slippery rocks near the crashing waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Aghios Panteleimonas",
+                "hu": "Aghios Panteleimonas",
+                "ro": "Aghios Panteleimonas",
+                "en": "Aghios Panteleimonas"
+              },
+              "tip_5lang": {
+                "de": "Der Weg um die Kapelle kann bei Stürmen zu einem Schlammbad werden. Feste, wasserdichte Stiefel sind für einen sicheren Besuch wichtig.",
+                "hu": "A kápolna körüli ösvény heves esőzéskor sártengerré válhat. A masszív, vízálló lábbeli elengedhetetlen a biztonságos vizithez.",
+                "ro": "Cărarea din jurul capelei se poate transforma în noroi în timpul furtunilor. Cizmele impermeabile sunt vitale pentru o vizită sigură.",
+                "en": "The path around the chapel can turn into a mud bath during heavy storms. Solid, waterproof boots are absolutely vital for a safe visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Santorineika",
+                "hu": "Santorineika",
+                "ro": "Santorineika",
+                "en": "Santorineika"
+              },
+              "tip_5lang": {
+                "de": "Bei Schauern finden Sie vielleicht kurz Schutz unter den Dachüberständen, aber wegen des Windes ist ein Regenmantel praktischer als ein Schirm.",
+                "hu": "Záporok idején az ereszek alatt találhat kis menedéket, de az erős szél miatt egy jó esőkabát sokkal praktikusabb, mint az esernyő.",
+                "ro": "Ați putea găsi un adăpost scurt sub streșini în timpul ploilor, dar vântul puternic face o pelerină mult mai practică decât o umbrelă.",
+                "en": "You might find brief shelter under the eaves during showers, but the strong winds make a solid raincoat far more practical than an umbrella."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre morgendliche Fahrt warm angezogen zum Kloster. Mittags hält Sie die körperliche Anstrengung bei den Ruinen warm. Schützen Sie nachmittags Ihr Gesicht vor dem beißenden Küstenwind. Fahren Sie vor dem frühen Sonnenuntergang (17:00) unbedingt rechtzeitig zurück.",
+            "hu": "Reggel melegen öltözve induljon tekerésbe a kolostorhoz. Délben a fizikai aktivitás kellemesen melegen tartja a romoknál. Délután védje arcát a csípős parti széltől. Este a korai, 17:00 körüli naplemente előtt mindenképpen induljon vissza.",
+            "ro": "Începeți plimbarea de dimineață bine îmbrăcat spre mănăstire. La prânz, efortul fizic vă va ține de cald la ruine. Protejați-vă fața de vântul tăios de coastă după-amiaza. Întoarceți-vă înainte de apusul devreme al soarelui în jurul orei 17:00.",
+            "en": "Start your morning ride warmly dressed towards the monastery. At noon, the physical effort will keep you warm near the ruins. Protect your face from the biting coastal wind this afternoon. Head back before the early sunset around 17:00 this evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Panagia Pantanassa",
+                "hu": "Panagia Pantanassa",
+                "ro": "Panagia Pantanassa",
+                "en": "Panagia Pantanassa"
+              },
+              "tip_5lang": {
+                "de": "Die dicken alten Mauern schließen die kalte Luft ein. Behalten Sie Ihren Wintermantel an, während Sie die ruhige Atmosphäre genießen.",
+                "hu": "A vastag falak bent tartják a hideget, így tartsa magán a meleg téli kabátot, miközben a csendes, békés hangulatot élvezi.",
+                "ro": "Zidurile groase rețin aerul rece înăuntru, așa că păstrați-vă haina de iarnă pe dvs. în timp ce vă bucurați de atmosfera liniștită.",
+                "en": "The thick old walls trap the cold air inside, so keep your warm winter coat on while enjoying the quiet, peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster Chrysopigi",
+                "hu": "Chrysopigi kolostor",
+                "ro": "Mănăstirea Chrysopigi",
+                "en": "Chrysopigi Monastery"
+              },
+              "tip_5lang": {
+                "de": "Die Winteraussicht ist atemberaubend klar, aber die Höhenwinde sind eiskalt. Ein warmer Schal und eine Mütze sind sehr zu empfehlen.",
+                "hu": "Téli időben csodásan tiszta innen a kilátás, de a magaslati szél jéghideg. Egy meleg sál és sapka erősen ajánlott a nézelődéshez.",
+                "ro": "Priveliștile de iarnă sunt uimitor de clare, dar vânturile de altitudine sunt înghețate. Un fular și o căciulă caldă sunt recomandate.",
+                "en": "The winter views are stunningly clear, but the high-altitude winds are freezing. A warm scarf and hat are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Alopronoia",
+                "hu": "Alopronoia tornya",
+                "ro": "Turnul Alopronoia",
+                "en": "Tower of Alopronoia"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne beleuchtet die alten Steine wunderschön, aber stellen Sie sich auf beißend kalte Zugluft vom offenen Meer ein.",
+                "hu": "Az alacsony téli napfény csodásan világítja meg a köveket, de készüljön fel a nyílt tenger felől érkező csípős, hideg fuvallatokra.",
+                "ro": "Soarele de iarnă luminează frumos pietrele antice, dar pregătiți-vă pentru curenți de aer reci și mușcători ce vin dinspre mare.",
+                "en": "The low winter sun beautifully illuminates the ancient stones, but prepare for biting cold drafts coming in from the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Dialiskari",
+                "hu": "Dialiskari",
+                "ro": "Dialiskari",
+                "en": "Dialiskari"
+              },
+              "tip_5lang": {
+                "de": "Der verlassene Winterstrand eignet sich perfekt für stille Reflexion. Packen Sie sich für einen erfrischenden Spaziergang warm ein.",
+                "hu": "A néptelen téli tengerpart tökéletes a csendes szemlélődésre. Öltözzön meleg rétegekbe egy frissítő sétához a hűvös part mentén.",
+                "ro": "Plaja pustie de iarnă este perfectă pentru o reflecție liniștită. Îmbrăcați-vă gros pentru o plimbare revigorantă pe coasta rece.",
+                "en": "The deserted winter beach is perfect for quiet reflection. Wrap up in warm layers for a refreshing walk along the chilly coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Aghios Panteleimonas",
+                "hu": "Aghios Panteleimonas",
+                "ro": "Aghios Panteleimonas",
+                "en": "Aghios Panteleimonas"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird (gegen 17:00 Uhr), sollten Sie ankommen, solange es noch hell ist, um die friedliche Umgebung zu genießen.",
+                "hu": "Mivel korán (17:00 körül) sötétedik, ide még a délutáni világosban érkezzen meg, hogy élvezhesse a békés, fenséges környezetet.",
+                "ro": "Deoarece se întunecă devreme (în jur de 17:00), asigurați-vă că ajungeți cât încă e lumină pentru a vă bucura de peisajul liniștit.",
+                "en": "Since it gets dark early (around 17:00), make sure to arrive while there is still afternoon light to fully enjoy the peaceful setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Santorineika",
+                "hu": "Santorineika",
+                "ro": "Santorineika",
+                "en": "Santorineika"
+              },
+              "tip_5lang": {
+                "de": "Die Schatten werden an Winternachmittagen hier sehr früh lang. Bringen Sie eine Thermoskanne mit heißem Tee mit, um sich aufzuwärmen.",
+                "hu": "A téli délutánokon az árnyékok itt nagyon hamar megnyúlnak. Hozzon egy termosz forró teát, hogy felmelegedjen a rövidülő naplementében.",
+                "ro": "Umbrele se lungesc foarte devreme în după-amiezile de iarnă aici. Aduceți un termos cu ceai fierbinte pentru a vă încălzi privindu-le.",
+                "en": "Shadows lengthen very early on winter afternoons here. Bring a thermos of hot tea to warm yourself while watching the short daylight fade."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje az autós túrát a történelmi Chrysopigi kolostor és a Panagia Pantanassa spirituális központjának meglátogatásával, élvezve a sziget örökségét.\nVezessen ki Alopronoia ősi tornyához, majd ugráljon a gyönyörű északi strandok, Dialiskari, Aghios Georgios és Malta között a kora délutáni órákban.\nAutózzon át a festői belső vidéken Aghios Panteleimonas felé, amely ideális hely a pihenésre a békés és csendes vidéki környezetben.\nParkoljon le Santorineikánál éppen időben, hogy megcsodálja a lenyűgöző égei-tengeri naplementét, lezárva a Sikinost átfogó autós utazást.",
         "ro": "Începeți turul auto cu o vizită la istorica Mănăstire Chrysopigi și la centrul spiritual Panagia Pantanassa, bucurându-vă de moștenirea insulei.\nConduceți spre vechiul Turn Alopronoia, apoi faceți o oprire la plajele superbe din nord, Dialiskari, Aghios Georgios și îndepărtata Malta.\nCroazierați prin interiorul pitoresc către Aghios Panteleimonas, un loc ideal pentru a vă relaxa în mijlocul peisajului rural liniștit.\nParcați la Santorineika la timp pentru a urmări apusul uimitor peste Marea Egee, încheind o călătorie cuprinzătoare pe insula Sikinos.",
         "en": "Start your driving tour with a visit to the historic Chrysopigi Monastery and the spiritual center of Panagia Pantanassa, enjoying the island's heritage.\nDrive out to the ancient Tower of Alopronoia, then hop between the beautiful northern beaches of Dialiskari, Aghios Georgios, and remote Malta.\nCruise through the scenic interior towards Aghios Panteleimonas, an ideal spot to relax in the peaceful countryside setting as the afternoon cools.\nPark at Santorineika just in time to watch the stunning Aegean sunset, wrapping up a comprehensive road trip around the rugged beauty of Sikinos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erreichen Sie das Kloster morgens sicher auf nassen Straßen. Achten Sie mittags auf schlammige Schuhe an den Aussichtspunkten. Fahren Sie nachmittags langsam zu den abgelegenen Küstenorten. Kehren Sie abends sicher zurück, da Regen die unbefestigten Wege erschwert.",
+            "hu": "Reggel biztonságosan érheti el a kolostort a vizes utakon is. Délben a kilátóknál vigyázzon a saras cipőkkel. Délután a távolabbi partok felé óvatosan vezessen. Este biztonságban térhet vissza, mivel az eső nehezen járhatóvá teszi a földutakat.",
+            "ro": "Ajungeți la mănăstire în siguranță pe drumuri ude în această dimineață. La prânz, atenție la noroi la punctele de belvedere. Conduceți încet spre locurile de coastă izolate după-amiaza. Întoarceți-vă în siguranță seara, ploaia îngreunând drumurile.",
+            "en": "Reach the monastery safely on wet roads this morning. At noon, be careful with muddy shoes at the viewpoints. Drive slowly towards the remote coastal spots this afternoon. Return safely to town this evening as the rain makes dirt tracks difficult."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster Chrysopigi",
+                "hu": "Chrysopigi kolostor",
+                "ro": "Mănăstirea Chrysopigi",
+                "en": "Chrysopigi Monastery"
+              },
+              "tip_5lang": {
+                "de": "Der regennasse Hof wirkt mystisch, aber die Wege werden extrem rutschig. Robuste, wasserdichte Wanderschuhe sind hier unerlässlich.",
+                "hu": "Az eső áztatta udvar misztikus hatást kelt, de a köves ösvények csúsznak. A masszív, vízálló túracipő itt elengedhetetlen.",
+                "ro": "Curtea îmbibată de ploaie pare mistică, dar potecile devin extrem de alunecoase. Încălțămintea robustă și impermeabilă este esențială.",
+                "en": "The rain-soaked courtyard looks mystical, but the paths get extremely slippery. Sturdy, waterproof hiking shoes are absolutely essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Pantanassa",
+                "hu": "Panagia Pantanassa",
+                "ro": "Panagia Pantanassa",
+                "en": "Panagia Pantanassa"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Regenschutz, aber achten Sie auf die sehr rutschigen Steinstufen am Eingang. Betreten Sie ihn mit großer Vorsicht.",
+                "hu": "A belső tér menedéket nyújt a záporok elől, de a bejáratnál lévő kőlépcsők nagyon csúsznak. Óvatosan és lassan lépkedjen.",
+                "ro": "Interiorul oferă adăpost de ploaie, dar atenție la treptele de piatră foarte alunecoase de la intrare. Pășiți cu mare grijă.",
+                "en": "The interior offers shelter from the rain, but watch out for very slippery stone steps at the entrance. Take your time entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Alopronoia",
+                "hu": "Alopronoia tornya",
+                "ro": "Turnul Alopronoia",
+                "en": "Tower of Alopronoia"
+              },
+              "tip_5lang": {
+                "de": "Bei diesen Ruinen gibt es kaum Schutz vor plötzlichen Regengüssen. Bringen Sie einen robusten Regenschirm oder einen guten Regenmantel mit.",
+                "hu": "A romoknál szinte nincs fedett menedék a hirtelen záporok elől. Hozzon magával egy szélálló esernyőt vagy jó esőkabátot.",
+                "ro": "Există puțin adăpost de ploile torențiale bruște la aceste ruine. Aduceți o umbrelă rezistentă la vânt sau o pelerină de ploaie bună.",
+                "en": "There is little cover from sudden downpours at these ruins. Bring a sturdy, wind-resistant umbrella or a good hooded raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Dialiskari",
+                "hu": "Dialiskari",
+                "ro": "Dialiskari",
+                "en": "Dialiskari"
+              },
+              "tip_5lang": {
+                "de": "Die Küste zeigt bei Regen ihre wilde Seite. Tragen Sie wasserfeste Kleidung und meiden Sie rutschige Felsen in der Nähe der Wellen.",
+                "hu": "Esőben a partvidék vadabb arcát mutatja. Viseljen vízálló felszerelést, és kerülje a csúszós sziklákat a hullámzó víz közelében.",
+                "ro": "Coasta își arată latura sălbatică pe ploaie. Purtați echipament impermeabil și stați departe de stâncile alunecoase de lângă valuri.",
+                "en": "The coastline shows its wild side in the rain. Wear fully waterproof gear and stay away from slippery rocks near the crashing waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Aghios Georgios",
+                "hu": "Aghios Georgios",
+                "ro": "Aghios Georgios",
+                "en": "Aghios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem kleinen Gebäude Schutz vor dem Regen und beobachten Sie die turbulenten Meereswellen sicher aus angenehmer Entfernung.",
+                "hu": "Az eső elől húzódjon be a kis épület védelmébe, és onnan csodálja a háborgó, hatalmas tengeri hullámokat biztonságos távolságból.",
+                "ro": "Adăpostiți-vă sub structura mică pentru a scăpa de ploaie și priviți în siguranță valurile turbulente ale mării de la o distanță confortabilă.",
+                "en": "Take cover under the small structure to escape the rain, and safely watch the turbulent, crashing sea waves from a comfortable distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Malta",
+                "hu": "Malta",
+                "ro": "Malta",
+                "en": "Malta"
+              },
+              "tip_5lang": {
+                "de": "Das felsige Gelände wird bei Nässe extrem gefährlich. Bewegen Sie sich langsam und meiden Sie bei starkem Regen die Ränder ganz.",
+                "hu": "A sziklás terep nedvesen kifejezetten balesetveszélyes. Lassan és megfontoltan közlekedjen, és heves esőben teljesen kerülje a peremeket.",
+                "ro": "Terenul stâncos devine excepțional de periculos când este ud. Mișcați-vă încet și evitați complet marginile în timpul ploilor abundente.",
+                "en": "The rocky terrain becomes exceptionally hazardous when wet. Move slowly and deliberately, and avoid the edges entirely during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aghios Panteleimonas",
+                "hu": "Aghios Panteleimonas",
+                "ro": "Aghios Panteleimonas",
+                "en": "Aghios Panteleimonas"
+              },
+              "tip_5lang": {
+                "de": "Der Weg um die Kapelle kann bei Stürmen zu einem Schlammbad werden. Feste, wasserdichte Stiefel sind für einen sicheren Besuch wichtig.",
+                "hu": "A kápolna körüli ösvény heves esőzéskor sártengerré válhat. A masszív, vízálló lábbeli elengedhetetlen a biztonságos vizithez.",
+                "ro": "Cărarea din jurul capelei se poate transforma în noroi în timpul furtunilor. Cizmele impermeabile sunt vitale pentru o vizită sigură.",
+                "en": "The path around the chapel can turn into a mud bath during heavy storms. Solid, waterproof boots are absolutely vital for a safe visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Santorineika",
+                "hu": "Santorineika",
+                "ro": "Santorineika",
+                "en": "Santorineika"
+              },
+              "tip_5lang": {
+                "de": "Bei Schauern finden Sie vielleicht kurz Schutz unter den Dachüberständen, aber wegen des Windes ist ein Regenmantel praktischer als ein Schirm.",
+                "hu": "Záporok idején az ereszek alatt találhat kis menedéket, de az erős szél miatt egy jó esőkabát sokkal praktikusabb, mint az esernyő.",
+                "ro": "Ați putea găsi un adăpost scurt sub streșini în timpul ploilor, dar vântul puternic face o pelerină mult mai practică decât o umbrelă.",
+                "en": "You might find brief shelter under the eaves during showers, but the strong winds make a solid raincoat far more practical than an umbrella."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie morgens die Landschaft bequem aus dem beheizten Auto. Fahren Sie mittags wegen des kurzen Tageslichts rechtzeitig zu fernen Zielen. Die verlassenen Strände bieten nachmittags eine raue Schönheit. Fahren Sie abends (ab 17:00 Uhr) im Dunkeln auf den engen Straßen vorsichtig.",
+            "hu": "Reggel kényelmesen, a fűtött autóból élvezze a tájat. Délben a rövid nappalok miatt időben induljon a távolabbi pontokra. Délután a kihalt partok különleges, nyers szépséget nyújtanak. Este, 17:00 után a korai sötétben vezessen különös óvatossággal.",
+            "ro": "Bucurați-vă de peisaj din mașina încălzită în această dimineață. La prânz, plecați la timp spre locurile îndepărtate din cauza zilelor scurte. Plajele pustii oferă o frumusețe brută după-amiaza. Conduceți cu atenție pe întuneric devreme după ora 17:00.",
+            "en": "Enjoy the scenery from your heated car comfortably this morning. At noon, leave on time for distant spots due to short daylight. The deserted beaches offer a unique stark beauty this afternoon. Drive carefully in the early dark after 17:00 this evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster Chrysopigi",
+                "hu": "Chrysopigi kolostor",
+                "ro": "Mănăstirea Chrysopigi",
+                "en": "Chrysopigi Monastery"
+              },
+              "tip_5lang": {
+                "de": "Die Winteraussicht ist atemberaubend klar, aber die Höhenwinde sind eiskalt. Ein warmer Schal und eine Mütze sind sehr zu empfehlen.",
+                "hu": "Téli időben csodásan tiszta innen a kilátás, de a magaslati szél jéghideg. Egy meleg sál és sapka erősen ajánlott a nézelődéshez.",
+                "ro": "Priveliștile de iarnă sunt uimitor de clare, dar vânturile de altitudine sunt înghețate. Un fular și o căciulă caldă sunt recomandate.",
+                "en": "The winter views are stunningly clear, but the high-altitude winds are freezing. A warm scarf and hat are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Pantanassa",
+                "hu": "Panagia Pantanassa",
+                "ro": "Panagia Pantanassa",
+                "en": "Panagia Pantanassa"
+              },
+              "tip_5lang": {
+                "de": "Die dicken alten Mauern schließen die kalte Luft ein. Behalten Sie Ihren Wintermantel an, während Sie die ruhige Atmosphäre genießen.",
+                "hu": "A vastag falak bent tartják a hideget, így tartsa magán a meleg téli kabátot, miközben a csendes, békés hangulatot élvezi.",
+                "ro": "Zidurile groase rețin aerul rece înăuntru, așa că păstrați-vă haina de iarnă pe dvs. în timp ce vă bucurați de atmosfera liniștită.",
+                "en": "The thick old walls trap the cold air inside, so keep your warm winter coat on while enjoying the quiet, peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Turm von Alopronoia",
+                "hu": "Alopronoia tornya",
+                "ro": "Turnul Alopronoia",
+                "en": "Tower of Alopronoia"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne beleuchtet die alten Steine wunderschön, aber stellen Sie sich auf beißend kalte Zugluft vom offenen Meer ein.",
+                "hu": "Az alacsony téli napfény csodásan világítja meg a köveket, de készüljön fel a nyílt tenger felől érkező csípős, hideg fuvallatokra.",
+                "ro": "Soarele de iarnă luminează frumos pietrele antice, dar pregătiți-vă pentru curenți de aer reci și mușcători ce vin dinspre mare.",
+                "en": "The low winter sun beautifully illuminates the ancient stones, but prepare for biting cold drafts coming in from the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Dialiskari",
+                "hu": "Dialiskari",
+                "ro": "Dialiskari",
+                "en": "Dialiskari"
+              },
+              "tip_5lang": {
+                "de": "Der verlassene Winterstrand eignet sich perfekt für stille Reflexion. Packen Sie sich für einen erfrischenden Spaziergang warm ein.",
+                "hu": "A néptelen téli tengerpart tökéletes a csendes szemlélődésre. Öltözzön meleg rétegekbe egy frissítő sétához a hűvös part mentén.",
+                "ro": "Plaja pustie de iarnă este perfectă pentru o reflecție liniștită. Îmbrăcați-vă gros pentru o plimbare revigorantă pe coasta rece.",
+                "en": "The deserted winter beach is perfect for quiet reflection. Wrap up in warm layers for a refreshing walk along the chilly coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Aghios Georgios",
+                "hu": "Aghios Georgios",
+                "ro": "Aghios Georgios",
+                "en": "Aghios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne spiegelt sich wunderschön auf dem Wasser, aber Sie brauchen eine winddichte Jacke gegen die starken Küstenböen.",
+                "hu": "A téli napfény gyönyörűen csillog a vízen, de az erős, csípős parti széllökések ellen mindenképpen jól záródó, szélálló kabátra lesz szüksége.",
+                "ro": "Soarele de iarnă sclipește frumos pe apă, dar veți avea nevoie de o jachetă rezistentă la vânt împotriva rafalelor puternice de coastă.",
+                "en": "The low winter sun glints beautifully off the water, but you will definitely need a tight, windproof jacket against the strong coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Malta",
+                "hu": "Malta",
+                "ro": "Malta",
+                "en": "Malta"
+              },
+              "tip_5lang": {
+                "de": "Die karge, isolierte Natur ist im Winter atemberaubend, aber schwindendes Licht verringert schnell die Sicht, bleiben Sie also nicht zu spät.",
+                "hu": "A nyers, elszigetelt természeti környezet lenyűgöző télen, de a csökkenő fény hamar rontja a látási viszonyokat, így ne maradjon túl sokáig.",
+                "ro": "Mediul natural izolat și aspru este uluitor iarna, dar lumina slabă reduce rapid vizibilitatea, așa că nu întârziați prea mult.",
+                "en": "The stark, isolated natural environment is breathtaking in winter, but fading light quickly reduces visibility, so don't linger too late."
+              }
+            },
+            {
+              "name": {
+                "de": "Aghios Panteleimonas",
+                "hu": "Aghios Panteleimonas",
+                "ro": "Aghios Panteleimonas",
+                "en": "Aghios Panteleimonas"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird (gegen 17:00 Uhr), sollten Sie ankommen, solange es noch hell ist, um die friedliche Umgebung zu genießen.",
+                "hu": "Mivel korán (17:00 körül) sötétedik, ide még a délutáni világosban érkezzen meg, hogy élvezhesse a békés, fenséges környezetet.",
+                "ro": "Deoarece se întunecă devreme (în jur de 17:00), asigurați-vă că ajungeți cât încă e lumină pentru a vă bucura de peisajul liniștit.",
+                "en": "Since it gets dark early (around 17:00), make sure to arrive while there is still afternoon light to fully enjoy the peaceful setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Santorineika",
+                "hu": "Santorineika",
+                "ro": "Santorineika",
+                "en": "Santorineika"
+              },
+              "tip_5lang": {
+                "de": "Die Schatten werden an Winternachmittagen hier sehr früh lang. Bringen Sie eine Thermoskanne mit heißem Tee mit, um sich aufzuwärmen.",
+                "hu": "A téli délutánokon az árnyékok itt nagyon hamar megnyúlnak. Hozzon egy termosz forró teát, hogy felmelegedjen a rövidülő naplementében.",
+                "ro": "Umbrele se lungesc foarte devreme în după-amiezile de iarnă aici. Aduceți un termos cu ceai fierbinte pentru a vă încălzi privindu-le.",
+                "en": "Shadows lengthen very early on winter afternoons here. Bring a thermos of hot tea to warm yourself while watching the short daylight fade."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "A reggel egy frissítő sétával indul a Playa de Portío felé, mielőtt megérkezne az Urros de Liencres lenyűgöző, óceánból kiemelkedő sziklaalakzataihoz.\nDélben megtapasztalhatja a Bufón de Liencres látványos vízsugarait, majd megpihenhet a nyugodt Playa de Cerrías varázslatos és védett aranyhomokos partján.\nDélután a Costa Quebrada drámai sziklafalai mentén túrázhat, ahol felejthetetlen, vad és nyers panoráma nyílik a hatalmas Kantábriai-tengerre.\nA nap a szélvédett Playa de Somocuevas strandján ér véget, ahol a tenger hullámainak lágy morajlása tökéletes befejezést nyújt e lenyűgöző parti sétának.",
         "ro": "Dimineața începe cu o plimbare revigorantă spre Playa de Portío, înainte de a ajunge la fascinantele formațiuni stâncoase din Urros de Liencres.\nLa prânz, experimentați fântânile spectaculoase de apă de la Bufón de Liencres și relaxați-vă pe nisipul auriu al plajei liniștite Playa de Cerrías.\nDupă-amiaza, veți face o drumeție de-a lungul stâncilor dramatice din Costa Quebrada, unde veți avea parte de priveliști de neuitat asupra Mării Cantabrice.\nZiua se încheie confortabil pe plaja adăpostită Playa de Somocuevas, unde sunetul blând al valurilor oferă finalul perfect pentru această plimbare de coastă.",
         "en": "Your morning begins with a refreshing coastal walk to the scenic Playa de Portío before reaching the dramatic and towering rock formations of Urros de Liencres.\nAround midday, witness the spectacular water spouts at Bufón de Liencres, followed by a relaxing pause on the beautifully sheltered golden sands of Playa de Cerrías.\nIn the afternoon, you will hike along the breathtakingly rugged cliffs of Costa Quebrada, offering truly unforgettable panoramic views of the wild Cantabrian Sea.\nThe day concludes peacefully at the wind-sheltered Playa de Somocuevas, where the gentle sound of the crashing waves provides a perfect end to your coastal journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erleben wir die Playa de Portío in mystischem Nebel. Mittags trotzen wir dem Wind bei den Urros-Felsen; Regenjacken sind hier Pflicht. Nachmittags wandern wir entlang der Costa Quebrada, wobei wir auf rutschige Pfade achten. Abends endet die Tour bei Somocuevas, wo wir das tosende Meer beobachten, bevor wir uns in eine warme Gaststube im Dorf zurückziehen.",
+            "hu": "Reggel a Playa de Portío ködös partján kezdünk. Délben az Urros sziklái között az eső ellenére is lenyűgöző a látvány; vízálló ruházat kötelező. Délután a Costa Quebrada mentén haladunk, ügyelve a csúszós ösvényekre. Este a túra Somocuevasnál zárul, ahol a viharos óceán morajlását hallgatjuk, majd a faluban keresünk egy fedett, meleg menedéket.",
+            "ro": "Dimineața explorăm Playa de Portío în ceață mistică. La prânz înfruntăm vântul la stâncile Urros; pelerinele de ploaie sunt esențiale aici. După-amiaza mergem de-a lungul Costa Quebrada, atenți la potecile alunecoase. Seara turul se încheie la Somocuevas, unde observăm marea agitată înainte de a ne retrage într-un loc călduros din sat.",
+            "en": "In the morning, we experience Playa de Portío in mystical mist. At noon, we brave the wind at the Urros rocks; raincoats are mandatory here. In the afternoon, we walk along Costa Quebrada, paying attention to slippery paths. In the evening, the tour ends at Somocuevas, where we watch the roaring sea before retreating to a warm spot in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Portío",
+                "hu": "Playa de Portío",
+                "ro": "Playa de Portío",
+                "en": "Playa de Portío"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist bei Regen faszinierend, aber die Felsen sind rutschig; tragen Sie wasserfeste Stiefel und prüfen Sie die Gezeiten für einen sicheren Besuch.",
+                "hu": "A part drámai látványt nyújt esőben is, de a sziklák csúszósak lehetnek; viselj vízálló bakancsot és figyeld az árapályt a biztonság érdekében.",
+                "ro": "Plaja este fascinantă pe ploaie, dar stâncile sunt alunecoase; purtați cizme impermeabile și verificați fluxul pentru a vizita în siguranță acest golf.",
+                "en": "The beach is mesmerizing in the rain, but rocks are slippery; wear waterproof boots and check the tide to ensure a safe visit to this rugged cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Urros de Liencres",
+                "hu": "Urros de Liencres",
+                "ro": "Urros de Liencres",
+                "en": "Urros de Liencres"
+              },
+              "tip_5lang": {
+                "de": "Diese Felsnadeln wirken bei grauem Himmel besonders dramatisch; halten Sie Abstand zur Kante, da der Boden aufgeweicht und unbeständig sein kann.",
+                "hu": "Ezek a sziklatűk szürke égbolt alatt különösen drámaiak; tarts távolságot a szikla szélétől, mert a talaj sáros és bizonytalan lehet.",
+                "ro": "Aceste coloane de stâncă par dramatice sub cerul gri; păstrați distanța față de margine, deoarece solul poate fi moale și instabil din cauza ploii.",
+                "en": "These rock needles look particularly dramatic under grey skies; keep a safe distance from the edge as the ground can be soft and unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "Bufón de Liencres",
+                "hu": "Bufón de Liencres",
+                "ro": "Bufón de Liencres",
+                "en": "Bufón de Liencres"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen und Sturm sind die Fontänen besonders aktiv; bringen Sie einen Regenschutz für Ihre Kamera mit, um das Naturschauspiel festzuhalten.",
+                "hu": "Esőben és viharos szélben a gejzírek különösen aktívak; hozz esővédőt a kamerádhoz, hogy biztonságban megörökíthesd a feltörő vízpermetet.",
+                "ro": "În timpul ploii și furtunii, fântânile naturale sunt foarte active; aduceți o protecție pentru cameră pentru a surprinde spectacolul apei.",
+                "en": "During rain and storms, the blowholes are especially active; bring rain protection for your camera to safely capture the erupting sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Cerrías",
+                "hu": "Playa de Cerrías",
+                "ro": "Playa de Cerrías",
+                "en": "Playa de Cerrías"
+              },
+              "tip_5lang": {
+                "de": "Ein geschützter Ort zwischen Klippen, ideal für eine kurze Rast im Regen; nutzen Sie die Felsvorsprünge als natürlichen Unterstand vor den Schauern.",
+                "hu": "Sziklák közé ékelt védett hely, ideális egy rövid pihenőre az esőben; használd a sziklakiszögelléseket természetes menedékként a záporok elől.",
+                "ro": "Un loc protejat între stânci, ideal pentru o scurtă pauză pe ploaie; folosiți proeminențele stâncoase ca adăpost natural împotriva averselor.",
+                "en": "A sheltered spot between cliffs, ideal for a short break in the rain; use the rock overhangs as a natural shield from the passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Costa Quebrada",
+                "hu": "Costa Quebrada",
+                "ro": "Costa Quebrada",
+                "en": "Costa Quebrada"
+              },
+              "tip_5lang": {
+                "de": "Die zerklüftete Küste zeigt bei Regen ihre wilde Seite; bleiben Sie auf den befestigten Wegen, da die Küstenpfade bei Nässe extrem rutschig sind.",
+                "hu": "A szaggatott partvonal esőben mutatja meg vad arcát; maradj a kijelölt ösvényeken, mert a sziklák feletti utak nedvesen rendkívül csúszósak.",
+                "ro": "Coasta frântă își arată latura sălbatică pe ploaie; rămâneți pe traseele marcate, deoarece potecile de pe faleză sunt extrem de alunecoase.",
+                "en": "The broken coastline reveals its wild side in the rain; stay on the marked paths as the clifftop trails are extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Somocuevas",
+                "hu": "Playa de Somocuevas",
+                "ro": "Playa de Somocuevas",
+                "en": "Playa de Somocuevas"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg über die Treppen erfordert bei Regen Vorsicht; genießen Sie den Blick auf die Brandung, die hier besonders kraftvoll gegen den Sand schlägt.",
+                "hu": "A lépcsőkön való lejutás esőben óvatosságot igényel; élvezd a hullámtörést, amely itt különösen erőteljesen csapódik a homokos partnak.",
+                "ro": "Coborârea pe trepte necesită prudență pe ploaie; bucurați-vă de spectacolul valurilor care se sparg aici cu mare putere de malul nisipos.",
+                "en": "Descending the stairs requires caution in the rain; enjoy the sight of the surf, which hits the sandy shore with great power here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Playa de Portío mit frischer Meeresbrise. Mittags erreichen wir die Urros, wo das tiefe Sonnenlicht lange Schatten wirft. Nachmittags erkunden wir die Costa Quebrada unter dem goldenen Schein der frühen Dämmerung. Da die Sonne gegen 17:00 Uhr untergeht, beenden wir den Tag gemütlich bei Somocuevas und kehren zum Aufwärmen ins Zentrum zurück.",
+            "hu": "A friss téli reggel a Playa de Portiónál indul, ahol a tengeri szél élénkítően hat. Délben az Urros szikláihoz érünk, ahol az alacsonyan járó nap hosszú árnyékokat vet. Délután az aranyló fényekben úszó Costa Quebradát fedezzük fel. Mivel a nap 17:00 körül nyugszik, a napot Somocuevasnál zárjuk, majd visszatérünk a központba átmelegedni.",
+            "ro": "O dimineață senină de iarnă începe la Playa de Portío cu o briză marină proaspătă. La prânz ajungem la Urros, unde lumina joasă a soarelui proiectează umbre lungi. După-amiaza explorăm Costa Quebrada sub strălucirea aurie a amurgului timpuriu. Deoarece soarele apune în jur de ora 17:00, încheiem ziua la Somocuevas și ne întoarcem în centru.",
+            "en": "A clear winter morning begins at Playa de Portío with a fresh sea breeze. At noon, we reach the Urros rocks, where the low sun casts long shadows. In the afternoon, we explore Costa Quebrada under the golden glow of early dusk. Since the sun sets around 17:00, we end the day at Somocuevas and return to the center to warm up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Portío",
+                "hu": "Playa de Portío",
+                "ro": "Playa de Portío",
+                "en": "Playa de Portío"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne sorgt für glitzerndes Wasser; tragen Sie eine winddichte Jacke, da der Nordwind an diesem offenen Strand sehr schneidend sein kann.",
+                "hu": "A téli nap csodásan csillog a vízen; viselj szélálló kabátot, mert az északi szél ezen a nyitott parton nagyon metsző tud lenni.",
+                "ro": "Soarele de iarnă face apa să sclipească; purtați o jachetă rezistentă la vânt, deoarece briza nordică poate fi tăioasă pe această plajă deschisă.",
+                "en": "The winter sun creates sparkling waters; wear a windproof jacket as the north wind can be very biting on this open stretch of beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Urros de Liencres",
+                "hu": "Urros de Liencres",
+                "ro": "Urros de Liencres",
+                "en": "Urros de Liencres"
+              },
+              "tip_5lang": {
+                "de": "Perfektes Licht für Fotografen zur Mittagszeit; nehmen Sie einen Thermosbecher mit Heißgetränk mit, um die Aussicht ohne Frieren zu genießen.",
+                "hu": "Tökéletes fények a fotózáshoz délidőben; vigyél magaddal egy termosz meleg italt, hogy átfagyás nélkül élvezhesd a lenyűgöző panorámát.",
+                "ro": "Lumină perfectă pentru fotografi la prânz; luați un termos cu băutură caldă pentru a vă bucura de priveliște fără să vă fie frig.",
+                "en": "Perfect light for photographers at noon; bring a thermos with a hot drink to enjoy the stunning panorama without getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Bufón de Liencres",
+                "hu": "Bufón de Liencres",
+                "ro": "Bufón de Liencres",
+                "en": "Bufón de Liencres"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die See oft rauer, was die Bufones spektakulärer macht; achten Sie auf warme Handschuhe, wenn Sie länger auf die Fontänen warten.",
+                "hu": "Télen a tenger gyakran hullámosabb, ami látványosabbá teszi a gejzíreket; legyen nálad meleg kesztyű, ha hosszabb ideig várnál a vízoszlopokra.",
+                "ro": "Iarna marea este adesea mai agitată, făcând bufones mai spectaculoase; purtați mănuși groase dacă plănuiți să așteptați erupția apei.",
+                "en": "In winter, the sea is often rougher, making the blowholes more spectacular; wear warm gloves if you plan to wait for the water eruptions."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Cerrías",
+                "hu": "Playa de Cerrías",
+                "ro": "Playa de Cerrías",
+                "en": "Playa de Cerrías"
+              },
+              "tip_5lang": {
+                "de": "In der Mittagssonne reflektieren die Felsen die Wärme; ein guter Ort für ein kurzes Winter-Picknick, bevor es am Nachmittag kühler wird.",
+                "hu": "A déli napsütésben a sziklák visszaverik a hőt; kiváló hely egy rövid téli piknikhez, mielőtt délután hirtelen lehűlne a levegő.",
+                "ro": "În soarele de la prânz, stâncile reflectă căldura; un loc bun pentru un scurt picnic de iarnă înainte ca temperatura să scadă după-amiaza.",
+                "en": "In the midday sun, the rocks reflect heat; a great spot for a short winter picnic before the air cools down significantly in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Costa Quebrada",
+                "hu": "Costa Quebrada",
+                "ro": "Costa Quebrada",
+                "en": "Costa Quebrada"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das goldene Licht kurz vor Sonnenuntergang; planen Sie Ihren Besuch hier spätestens um 16:00 Uhr, um das beste Licht zu nutzen.",
+                "hu": "Éld át az aranyló fényeket közvetlenül naplemente előtt; tervezd ide a látogatást legkésőbb 16:00-ra, hogy kihasználd a legszebb fényeket.",
+                "ro": "Experimentați lumina aurie chiar înainte de apus; planificați vizita aici cel târziu la ora 16:00 pentru a profita de cea mai bună lumină.",
+                "en": "Experience the golden light just before sunset; plan your visit here by 16:00 at the latest to make the most of the stunning winter glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Somocuevas",
+                "hu": "Playa de Somocuevas",
+                "ro": "Playa de Somocuevas",
+                "en": "Playa de Somocuevas"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter herrlich einsam; brechen Sie kurz nach 17:00 Uhr auf, da es nach Sonnenuntergang auf den Pfaden sehr schnell dunkel wird.",
+                "hu": "A part télen csodásan magányos; indulj vissza nem sokkal 17:00 után, mert a naplemente után az ösvényeken nagyon hamar besötétedik.",
+                "ro": "Plaja este minunat de solitară iarna; plecați imediat după ora 17:00, deoarece se întunecă foarte repede pe poteci după apusul soarelui.",
+                "en": "The beach is wonderfully solitary in winter; head back shortly after 17:00, as it gets dark very quickly on the trails after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúráját Liencres történelmi szívében, a templomnál kezdi, majd felfedezi a táj fölé magasodó Castillo de Pedraja rejtélyes, ősi romjait.\nDélben a part felé teker, ahol a vad Playa del Madero és a Bufón del Madero lenyűgöző, vízsugarakat kilövellő sziklahasadékai várják Önt.\nDélután a lenyűgöző Costa Quebrada mentén halad, amely zord szikláival és a morajló hullámveréssel felejthetetlen fotótémákat kínál minden utazónak.\nA nap a Playa de La Arnía partján ér véget, ahol a különleges geológiai kőzetrétegek a lemenő nap aranyló fényében varázslatos és drámai látványt nyújtanak.",
         "ro": "Începeți turul cu bicicleta în inima istorică la biserica din Liencres, înainte de a explora ruinele misterioase ale castelului Castillo de Pedraja.\nLa prânz, pedalați spre coastă, unde vă așteaptă plaja sălbatică Playa del Madero și crăpăturile stâncoase spectaculoase de la Bufón del Madero.\nDupă-amiaza, urmați impresionanta Costa Quebrada, care oferă oportunități foto de neuitat cu stâncile sale aspre și valurile care se sparg zgomotos.\nZiua se încheie la Playa de La Arnía, unde straturile geologice unice arată de-a dreptul magic în lumina aurie a soarelui de seară.",
         "en": "Start your cycling tour in the historical heart of Liencres at the charming local church before exploring the mysterious, ancient ruins of Castillo de Pedraja.\nAt midday, you will cycle towards the breathtaking coast, where the beautifully wild Playa del Madero and the spectacular vents of Bufón del Madero await.\nIn the afternoon, follow the incredibly impressive Costa Quebrada, offering unforgettable photography opportunities with its rugged cliffs and crashing surf.\nYour active day winds down at Playa de La Arnía, where the unique geological rock layers look absolutely magical when bathed in the golden evening sunlight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet an der Kirche im Regen; fahren Sie vorsichtig auf dem Asphalt. Mittags erkunden wir die Ruinen des Castillo de Pedraja, die unter grauem Himmel mystisch wirken. Nachmittags geht es zur Costa Quebrada, wo wir auf schlammige Wege achten. Wir beenden den Tag an der Playa de La Arnía und suchen Schutz in einem der strandnahen Lokale.",
+            "hu": "A kerékpártúra a templomnál indul esőben; óvatosan hajts az aszfalton a csúszásveszély miatt. Délben a Castillo de Pedraja romjait nézzük meg, melyek misztikusak a szürke ég alatt. Délután a Costa Quebrada felé vesszük az irányt, kerülgetve a tócsákat. A napot a Playa de La Arnía-nál zárjuk, menedéket keresve egy közeli vendéglőben.",
+            "ro": "Turul cu bicicleta începe la biserică pe ploaie; pedalați cu atenție pe asfaltul umed. La prânz explorăm ruinele Castillo de Pedraja, care par mistice sub cerul gri. După-amiaza ne îndreptăm spre Costa Quebrada, evitând bălțile de pe drum. Încheiem ziua la Playa de La Arnía, căutând adăpost într-un restaurant local de lângă plajă.",
+            "en": "The bike tour starts at the church in the rain; cycle carefully on the wet asphalt. At noon, we explore the ruins of Castillo de Pedraja, which look mystical under grey skies. In the afternoon, we head towards Costa Quebrada, avoiding puddles on the path. We end the day at Playa de La Arnía, seeking shelter in a nearby local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de la Inmaculada Concepción y San Julián",
+                "hu": "Iglesia de la Inmaculada Concepción y San Julián",
+                "ro": "Iglesia de la Inmaculada Concepción y San Julián",
+                "en": "Iglesia de la Inmaculada Concepción y San Julián"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Start im Trockenen; nutzen Sie den Kirchenvorraum, um Ihre Regenbekleidung optimal zu richten, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Csendes kezdés fedett helyen; használd a templom előterét az esőfelszerelésed pontos beállítására, mielőtt nekivágnál a vizes utaknak.",
+                "ro": "Un început liniștit la adăpost; folosiți pridvorul bisericii pentru a vă ajusta echipamentul de ploaie înainte de a porni pe drumurile ude.",
+                "en": "A quiet start under cover; use the church porch to properly adjust your rain gear before heading out onto the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de Pedraja",
+                "hu": "Castillo de Pedraja",
+                "ro": "Castillo de Pedraja",
+                "en": "Castillo de Pedraja"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten nur wenig Schutz; parken Sie die Räder an einer stabilen Stelle, da der Boden um die Burg herum bei Regen sehr weich wird.",
+                "hu": "A romok kevés védelmet nyújtanak; a kerékpárokat stabil helyen parkold le, mert a vár körüli talaj esőben nagyon felázik és süppedős lesz.",
+                "ro": "Ruinele oferă puțin adăpost; parcați bicicletele într-un loc stabil, deoarece solul din jurul castelului devine foarte moale când plouă.",
+                "en": "The ruins offer little shelter; park your bikes in a stable spot as the ground around the castle becomes very soft and muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Madero",
+                "hu": "Playa del Madero",
+                "ro": "Playa del Madero",
+                "en": "Playa del Madero"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Nässe tückisch sein; fahren Sie langsam, um ein Wegrutschen der Reifen auf dem sandigen und nassen Untergrund zu vermeiden.",
+                "hu": "A lejutás nedves időben trükkös lehet; hajts lassan, hogy elkerüld a gumik megcsúszását a homokos és vizes talajon a parthoz közel.",
+                "ro": "Accesul poate fi înșelător pe umiditate; pedalați încet pentru a evita deraparea anvelopelor pe terenul nisipos și ud de lângă plajă.",
+                "en": "The access path can be tricky when wet; ride slowly to avoid your tires slipping on the sandy and wet ground near the beach area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bufón del Madero",
+                "hu": "Bufón del Madero",
+                "ro": "Bufón del Madero",
+                "en": "Bufón del Madero"
+              },
+              "tip_5lang": {
+                "de": "Der Wind treibt die Gischt weit landeinwärts; tragen Sie eine Brille, um Ihre Augen vor dem salzigen Sprühregen während der Fahrt zu schützen.",
+                "hu": "A szél messze a szárazföld felé hordja a permetet; viselj szemüveget, hogy megvédd a szemed a sós vízpermettől tekerés közben.",
+                "ro": "Vântul împrăștie vaporii de apă departe spre uscat; purtați ochelari pentru a vă proteja ochii de spray-ul sărat în timp ce pedalați.",
+                "en": "The wind carries the spray far inland; wear glasses to protect your eyes from the salty sea spray while cycling near the blowholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Costa Quebrada",
+                "hu": "Costa Quebrada",
+                "ro": "Costa Quebrada",
+                "en": "Costa Quebrada"
+              },
+              "tip_5lang": {
+                "de": "Atemberaubende Aussichten trotz Wolken; reduzieren Sie den Reifendruck minimal für besseren Grip auf den nassen Küstenwegen über den Klippen.",
+                "hu": "Lélegzetelállító kilátás a felhők ellenére is; csökkentsd kicsit a keréknyomást a jobb tapadásért a vizes szikla menti utakon.",
+                "ro": "Priveliști uluitoare în ciuda norilor; reduceți minim presiunea în pneuri pentru o aderență mai bună pe drumurile umede de pe faleză.",
+                "en": "Breathtaking views despite the clouds; slightly reduce tire pressure for better grip on the wet coastal paths above the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Arnía",
+                "hu": "Playa de La Arnía",
+                "ro": "Playa de La Arnía",
+                "en": "Playa de La Arnía"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel der Tour bietet großartige Felsformationen; parken Sie die Räder im Dorf und gehen Sie das letzte Stück zu Fuß zum Strand hinunter.",
+                "hu": "A túra célpontja lenyűgöző sziklákat kínál; parkold le a bringát a faluban, és az utolsó szakaszt gyalog tedd meg a tengerpartig.",
+                "ro": "Destinația turului oferă formațiuni stâncoase grozave; parcați bicicletele în sat și mergeți pe jos ultima porțiune până la plajă.",
+                "en": "The tour's destination offers great rock formations; park your bikes in the village and walk the final section down to the beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour beginnt erfrischend an der Kirche. Mittags erkunden wir das Castillo de Pedraja, wobei die klare Luft weite Sicht bietet. Nachmittags radeln wir zur Costa Quebrada und genießen das tiefe Licht über den Klippen. Da es ab 17:00 Uhr dunkel wird, planen wir die Ankunft an der Playa de La Arnía rechtzeitig ein und kehren vor der Kälte zurück.",
+            "hu": "A téli kerékpártúra frissítően indul a templomnál. Délben a Castillo de Pedraját fedezzük fel, ahol a tiszta levegő messzi kilátást enged. Délután a Costa Quebrada felé tekerünk, élvezve az alacsony napfényt a sziklák felett. Mivel 17:00-kor sötétedik, időben érkezünk a Playa de La Arnía-hoz, mielőtt lehűlne az idő.",
+            "ro": "Turul de iarnă cu bicicleta începe revigorant la biserică. La prânz explorăm Castillo de Pedraja, unde aerul curat oferă o vizibilitate mare. După-amiaza pedalăm spre Costa Quebrada, bucurându-ne de lumina joasă. Deoarece se întunecă la ora 17:00, planificăm sosirea la Playa de La Arnía din timp.",
+            "en": "The winter bike tour starts refreshingly at the church. At noon, we explore Castillo de Pedraja, where the clear air offers distant views. In the afternoon, we cycle towards Costa Quebrada, enjoying the low sunlight over the cliffs. Since it gets dark at 17:00, we plan our arrival at Playa de La Arnía in good time."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de la Inmaculada Concepción y San Julián",
+                "hu": "Iglesia de la Inmaculada Concepción y San Julián",
+                "ro": "Iglesia de la Inmaculada Concepción y San Julián",
+                "en": "Iglesia de la Inmaculada Concepción y San Julián"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit warmer Kleidung; die Kirche bietet einen guten Windschutz, um sich vor der Abfahrt noch einmal kurz zu sammeln und aufzuwärmen.",
+                "hu": "Indulj réteges, meleg ruhában; a templom fala jó szélárnyékot nyújt, ahol még egyszer utoljára átmelegedhetsz a nyílt terep előtt.",
+                "ro": "Porniți echipat cu haine groase; biserica oferă o protecție bună împotriva vântului pentru a vă aduna forțele înainte de plecare.",
+                "en": "Start with warm layers; the church provides good wind protection to gather yourself and warm up before heading out into the open."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de Pedraja",
+                "hu": "Castillo de Pedraja",
+                "ro": "Castillo de Pedraja",
+                "en": "Castillo de Pedraja"
+              },
+              "tip_5lang": {
+                "de": "Die Burgmauern liegen im Winter oft im Schatten; bleiben Sie in Bewegung, um nicht auszukühlen, während Sie die historische Stätte besichtigen.",
+                "hu": "A várfalak télen gyakran árnyékban vannak; maradj mozgásban, hogy ne hűlj le, miközben a történelmi romokat és a környéket járod körbe.",
+                "ro": "Zidurile castelului sunt adesea în umbră iarna; rămâneți în mișcare pentru a nu vă răci în timp ce vizitați situl istoric.",
+                "en": "The castle walls are often in shadow during winter; stay active and keep moving to avoid getting cold while exploring the historical site."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Madero",
+                "hu": "Playa del Madero",
+                "ro": "Playa del Madero",
+                "en": "Playa del Madero"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille an diesem abgelegenen Ort; die Wintersonne erreicht den Strand am besten am späten Vormittag, ideal für ein Foto.",
+                "hu": "Élvezd a csendet ezen az eldugott helyen; a téli nap késő délelőtt éri el a partot a legjobban, ez a legalkalmasabb időpont egy fotóra.",
+                "ro": "Bucurați-vă de liniște în acest loc izolat; soarele de iarnă ajunge cel mai bine pe plajă spre sfârșitul dimineții, ideal pentru o poză.",
+                "en": "Enjoy the silence in this secluded spot; the winter sun hits the beach best in the late morning, making it the ideal time for a photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Bufón del Madero",
+                "hu": "Bufón del Madero",
+                "ro": "Bufón del Madero",
+                "en": "Bufón del Madero"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und rutschig sein; parken Sie die Räder sicher und gehen Sie vorsichtig zu den Aussichtspunkten über der Brandung.",
+                "hu": "A talaj reggelente fagyos és csúszós lehet; parkold le biztonságosan a bringát, és gyalogosan, óvatosan közelítsd meg a kilátópontokat.",
+                "ro": "Solul poate fi înghețat și alunecos dimineața; parcați bicicletele în siguranță și mergeți cu atenție spre punctele de observație.",
+                "en": "The ground can be frozen and slippery; park your bikes securely and walk carefully to the viewpoints overlooking the crashing surf."
+              }
+            },
+            {
+              "name": {
+                "de": "Costa Quebrada",
+                "hu": "Costa Quebrada",
+                "ro": "Costa Quebrada",
+                "en": "Costa Quebrada"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist spektakulär; ziehen Sie eine zusätzliche Schicht an, da die Temperaturen sinken, sobald die Sonne tiefer steht.",
+                "hu": "A délutáni fények látványosak; vegyél fel még egy réteget, mert a hőmérséklet gyorsan süllyedni kezd, ahogy a nap egyre lejjebb kerül.",
+                "ro": "Lumina de după-amiază este spectaculoasă; puneți un strat suplimentar de haine, deoarece temperatura scade rapid când soarele apune.",
+                "en": "The afternoon light is spectacular; put on an extra layer as temperatures drop quickly as the sun gets lower in the winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Arnía",
+                "hu": "Playa de La Arnía",
+                "ro": "Playa de La Arnía",
+                "en": "Playa de La Arnía"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor Einbruch der Dunkelheit; die Fahrt zurück zum Zentrum erfordert bei Winterkälte eine gute Beleuchtung am Fahrrad.",
+                "hu": "Fejezd be a túrát sötétedés előtt; a visszavezető út a központba jó világítást és meleg kesztyűt igényel a téli esti hidegben.",
+                "ro": "Încheiați turul înainte de lăsarea întunericului; drumul de întoarcere necesită un sistem bun de iluminare pe bicicletă în frigul serii.",
+                "en": "Finish the tour before dark; the ride back to the center requires good bicycle lighting and warm gloves in the winter evening cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A nap egy festői autózással indul a különleges Tómbolo de Covachos felé, majd megcsodálhatja a közeli Playa de Covachos kristálytiszta vizeit.\nDélben felfedezheti a Playa de La Arnía lenyűgöző geológiai képződményeit, valamint a partvidéket uraló Urros de Liencres markáns tengeri szikláit.\nDélután továbbvezet nyugat felé a Bufón del Maderohoz, hogy megfigyelhesse a természet lenyűgöző játékát, ahogy a víz kilövell a sziklák hasadékaiból.\nA kirándulás a szárazföld belsejében, a Castillo de Pedraja történelmi romjainál ér véget, ahonnan csodálatos naplementét élvezhet az egész régió felett.",
         "ro": "Ziua începe cu o plimbare pitorească cu mașina până la unicul Tómbolo de Covachos și la plaja alăturată cu ape cristaline, Playa de Covachos.\nLa prânz, veți admira caracteristicile geologice de la Playa de La Arnía și stâncile marine izbitoare de la Urros de Liencres de pe frumoasa coastă.\nDupă-amiaza, conduceți mai spre vest la Bufón del Madero pentru a observa spectacolul natural al fântânilor de apă care țâșnesc pe o mare agitată.\nExcursia se încheie în interiorul țării, la ruinele istorice ale Castillo de Pedraja, de unde vă puteți bucura de apusul de soare peste întreaga regiune.",
         "en": "Your road trip begins with a highly scenic drive to the unique Tómbolo de Covachos sandbank and the nearby crystal-clear turquoise waters of Playa de Covachos.\nAround midday, marvel at the striking geological features of Playa de La Arnía and the towering, dramatic sea stacks of Urros de Liencres along the coast.\nIn the afternoon, drive further west to Bufón del Madero to witness the breathtaking natural spectacle of seawater fiercely spouting through the rocky vents.\nThe journey ends beautifully inland at the historical ruins of Castillo de Pedraja, where you can enjoy a spectacular sunset over the entire coastal region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten gemütlich im Auto bei Covachos, während der Regen gegen die Scheiben trommelt. Mittags fahren wir zur Playa de La Arnía und genießen den Blick auf die Felsen aus der Wärme des Wagens. Nachmittags besuchen wir die Urros und den Bufón del Madero für kurze, windige Abstecher nach draußen. Den Tag lassen wir sicher und trocken beim Castillo de Pedraja ausklingen.",
+            "hu": "Kényelmesen kezdünk az autóban Covachosnál, miközben az eső a szélvédőn kopog. Délben a Playa de La Arnía felé autózunk, a kocsi melegéből csodálva a sziklákat. Délután az Urros szikláihoz és a Madero gejzírekhez teszünk rövid, szeles kitérőket a szabadba. A napot biztonságban és szárazon zárjuk a Castillo de Pedraja romjainál.",
+            "ro": "Începem confortabil în mașină la Covachos, în timp ce ploaia bate în parbriz. La prânz conducem spre Playa de La Arnía, admirând stâncile din căldura mașinii. După-amiaza vizităm stâncile Urros și bufón del Madero pentru scurte ieșiri în vânt. Încheiem ziua în siguranță și la adăpost lângă ruinele Castillo de Pedraja.",
+            "en": "We start comfortably in the car at Covachos while the rain drums on the windshield. At noon, we drive to Playa de La Arnía, admiring the rocks from the warmth of the car. In the afternoon, we visit the Urros rocks and Bufón del Madero for short, windy trips outside. We end the day safely and dry near the ruins of Castillo de Pedraja."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tómbolo de Covachos",
+                "hu": "Tómbolo de Covachos",
+                "ro": "Tómbolo de Covachos",
+                "en": "Tómbolo de Covachos"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto auf dem Parkplatz; der Blick auf die Insel durch die regennassen Scheiben hat einen ganz eigenen Charme.",
+                "hu": "Erős esőben maradj a parkoló autóban; a szigetre nyíló kilátás az esőtől ázott szélvédőn keresztül is különleges élményt nyújt.",
+                "ro": "Rămâneți în mașină în parcare dacă plouă torențial; priveliștea spre insulă prin geamurile ude are un farmec aparte.",
+                "en": "In heavy rain, stay in your car at the parking lot; the view of the island through the rain-streaked windows has its own unique charm."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Covachos",
+                "hu": "Playa de Covachos",
+                "ro": "Playa de Covachos",
+                "en": "Playa de Covachos"
+              },
+              "tip_5lang": {
+                "de": "Nur bei Regenpausen kurz hinuntergehen; die Stufen können sehr rutschig sein, daher ist festes Schuhwerk mit gutem Profil heute besonders wichtig.",
+                "hu": "Csak az eső szüneteiben menj le a partra; a lépcsők nagyon csúszósak lehetnek, így a jó tapadású bakancs ma elengedhetetlen.",
+                "ro": "Coborâți la plajă doar în pauzele dintre averse; treptele pot fi foarte alunecoase, deci încălțămintea cu aderență bună este esențială.",
+                "en": "Only go down to the beach during breaks in the rain; the steps can be very slippery, so sturdy boots with good grip are essential today."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Arnía",
+                "hu": "Playa de La Arnía",
+                "ro": "Playa de La Arnía",
+                "en": "Playa de La Arnía"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Aussichtspunkt; so können Sie die spektakulären Felsformationen bewundern, ohne durchnässt zu werden.",
+                "hu": "Parkolj közvetlenül a kilátópontnál; így a lenyűgöző sziklaalakzatokat anélkül is megcsodálhatod, hogy teljesen eláznál az esőben.",
+                "ro": "Parcați direct la punctul de observație; astfel puteți admira formațiunile stâncoase spectaculoase fără a vă uda complet.",
+                "en": "Park directly at the viewpoint; this way you can admire the spectacular rock formations without getting completely soaked in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Urros de Liencres",
+                "hu": "Urros de Liencres",
+                "ro": "Urros de Liencres",
+                "en": "Urros de Liencres"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als mobilen Unterstand; steigen Sie nur kurz für ein Foto aus, da der Wind hier oben bei Regen sehr heftig sein kann.",
+                "hu": "Használd az autót mobil menedékként; csak egy-egy fotó erejéig szállj ki, mert a szél itt fent esőben nagyon metsző és erős lehet.",
+                "ro": "Folosiți mașina ca adăpost mobil; coborâți doar scurt pentru o fotografie, deoarece vântul poate fi foarte puternic aici sus pe ploaie.",
+                "en": "Use the car as a mobile shelter; only get out briefly for a photo, as the wind up here can be very fierce and cold in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bufón del Madero",
+                "hu": "Bufón del Madero",
+                "ro": "Bufón del Madero",
+                "en": "Bufón del Madero"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt kann die Autoscheiben mit Salz beschlagen; parken Sie mit dem Heck zum Meer, um die Sicht nach vorne für die Weiterfahrt frei zu halten.",
+                "hu": "A sós pára rátapadhat az autó ablakaira; parkolj háttal a tengernek, hogy a szélvédőd tiszta maradjon a biztonságos továbbhaladáshoz.",
+                "ro": "Spray-ul sărat poate murdări geamurile mașinii; parcați cu spatele la mare pentru a păstra parbrizul curat pentru drumul de întoarcere.",
+                "en": "Salt spray can fog up the car windows; park with the back to the sea to keep your windshield clear for the safe onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de Pedraja",
+                "hu": "Castillo de Pedraja",
+                "ro": "Castillo de Pedraja",
+                "en": "Castillo de Pedraja"
+              },
+              "tip_5lang": {
+                "de": "Ein geschichtsträchtiger Abschluss im Regen; die Zufahrt ist asphaltiert, was die Ankunft auch bei nassem Wetter sicher und komfortabel macht.",
+                "hu": "Történelmi befejezés esőben; az út idáig végig aszfaltozott, így a megérkezés vizes időben is biztonságos és kényelmes marad.",
+                "ro": "Un final istoric pe ploaie; drumul până aici este asfaltat, ceea ce face sosirea sigură și confortabilă chiar și pe vreme umedă.",
+                "en": "A historic conclusion in the rain; the access road is paved, making the arrival safe and comfortable even in wet weather conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit klarer Sicht am Tómbolo de Covachos. Mittags fahren wir gemütlich an der Küste entlang zur Arnía-Bucht. Nachmittags besuchen wir die Urros und den Bufón, wobei die tiefstehende Sonne die Klippen in magisches Licht taucht. Da es um 17:00 Uhr dunkel wird, beenden wir den Tag beim Castillo de Pedraja und kehren schnell zum Aufwärmen zurück.",
+            "hu": "A téli nap tiszta látási viszonyokkal indul a Tómbolo de Covachosnál. Délben kényelmesen autózunk a part mentén az Arnía-öbölig. Délután az Urros szikláihoz és a gejzírekhez megyünk, ahol az alacsony napfény bűvös fénybe vonja a partot. Mivel 17:00-kor sötétedik, a napot a Castillo de Pedrajánál zárjuk, majd sietünk vissza melegedni.",
+            "ro": "Ziua de iarnă începe cu vizibilitate clară la Tómbolo de Covachos. La prânz conducem relaxat de-a lungul coastei până la golful Arnía. După-amiaza vizităm stâncile Urros și bufónul, lumina joasă a soarelui oferind un aspect magic falezei. Deoarece se întunecă la ora 17:00, încheiem ziua la Castillo de Pedraja.",
+            "en": "The winter day starts with clear visibility at Tómbolo de Covachos. At noon, we drive leisurely along the coast to Arnía Bay. In the afternoon, we visit the Urros rocks and the blowhole, where the low sun bathes the cliffs in magical light. Since it gets dark at 17:00, we end the day at Castillo de Pedraja."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tómbolo de Covachos",
+                "hu": "Tómbolo de Covachos",
+                "ro": "Tómbolo de Covachos",
+                "en": "Tómbolo de Covachos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die klare Winterluft für weite Panoramablicke; im Auto bleibt es warm, während Sie die Gezeiten und die Insel Covachos beobachten.",
+                "hu": "Használd ki a tiszta téli levegőt a távoli panorámáért; az autóban melegben maradhatsz, miközben az árapályt és a Covachos-szigetet figyeled.",
+                "ro": "Profitați de aerul curat de iarnă pentru panorame îndepărtate; rămâneți la căldură în mașină în timp ce observați fluxul și insula Covachos.",
+                "en": "Take advantage of the clear winter air for distant panoramas; stay warm in the car while observing the tides and Covachos Island."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Covachos",
+                "hu": "Playa de Covachos",
+                "ro": "Playa de Covachos",
+                "en": "Playa de Covachos"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet am Vormittag; haben Sie eine Sonnenbrille im Auto bereit, um die Fahrt entlang der Klippen zu genießen.",
+                "hu": "A téli nap alacsonyan jár és délelőtt erősen vakíthat; legyen kéznél napszemüveg az autóban, hogy zavartalanul élvezhesd a sziklák menti utat.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor dimineața; aveți ochelari de soare pregătiți în mașină pentru a vă bucura de drumul pe faleză.",
+                "en": "The winter sun is low and can be blinding in the morning; have sunglasses ready in the car to enjoy the drive along the cliffs comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de La Arnía",
+                "hu": "Playa de La Arnía",
+                "ro": "Playa de La Arnía",
+                "en": "Playa de La Arnía"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang zum Aussichtspunkt lohnt sich auch im Winter; der Windschutz des Wagens ist danach der ideale Ort zum Aufwärmen.",
+                "hu": "Egy rövid séta a kilátóhoz télen is megéri; utána az autó szélvédett tere tökéletes hely lesz az újbóli átmelegedéshez és pihenéshez.",
+                "ro": "O scurtă plimbare până la punctul de observație merită și iarna; interiorul ferit de vânt al mașinii este apoi locul ideal pentru a vă încălzi.",
+                "en": "A short walk to the viewpoint is worth it even in winter; the wind-protected space of the car is the ideal spot to warm up afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Urros de Liencres",
+                "hu": "Urros de Liencres",
+                "ro": "Urros de Liencres",
+                "en": "Urros de Liencres"
+              },
+              "tip_5lang": {
+                "de": "Die Felsnadeln wirken im flachen Winterlicht fast plastisch; parken Sie so, dass Sie die Aussicht direkt durch die Windschutzscheibe haben.",
+                "hu": "A sziklatűk a lapos téli fényben szinte térhatásúnak tűnnek; úgy parkolj le, hogy a kilátás közvetlenül a szélvédőn keresztül táruljon eléd.",
+                "ro": "Coloanele de stâncă par aproape tridimensionale în lumina joasă a iernii; parcați astfel încât să aveți priveliștea direct prin parbriz.",
+                "en": "The rock needles look almost three-dimensional in the flat winter light; park so that you can see the view directly through the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Bufón del Madero",
+                "hu": "Bufón del Madero",
+                "ro": "Bufón del Madero",
+                "en": "Bufón del Madero"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz am frühen Nachmittag; die kühle Meeresbrise lässt die Feuchtigkeit hier schnell gefrieren.",
+                "hu": "Figyelj a jeges foltokra a parkolóban kora délután; a hűvös tengeri szél miatt a pára itt hamar ráfagyhat az aszfaltra és a kövekre.",
+                "ro": "Atenție la porțiunile înghețate din parcare după-amiaza devreme; briza mării face ca umiditatea să înghețe rapid pe asfalt și pietre.",
+                "en": "Watch out for icy patches in the parking lot in the early afternoon; the cool sea breeze causes moisture to freeze quickly on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo de Pedraja",
+                "hu": "Castillo de Pedraja",
+                "ro": "Castillo de Pedraja",
+                "en": "Castillo de Pedraja"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg kurz vor 17:00 Uhr; die Ruinen im Abendlicht sind ein tolles Fotomotiv, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "Látogasd meg a várat 17:00 előtt; az esti fényekben úszó romok remek fotótémát adnak, mielőtt újra feltekernéd a fűtést az autóban.",
+                "ro": "Vizitați castelul chiar înainte de ora 17:00; ruinele în lumina serii sunt un subiect foto excelent înainte de a porni căldura în mașină.",
+                "en": "Visit the castle shortly before 17:00; the ruins in the evening light are a great photo motif before you turn up the car heater again."
+              }
+            }
+          ]
+        }
       }
     }
   }

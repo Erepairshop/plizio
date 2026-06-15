@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a szárazföldön a helyi templom békés meglátogatásával, mielőtt a part felé venné az irányt. Délben a Punta Aderci Rezervátum vad természetében barangolhat, érintetlen sziklák mentén túrázva. A délutánt a Mottagrossa és Punta Aderci strandok zord szépségének felfedezésére szánjuk. Zárja a napot a Libertini strand drámai sziklái alatt pihenve.",
         "ro": "Începeți dimineața în interior, cu o vizită liniștită la biserica locală, înainte de a vă îndrepta spre coastă. La prânz, vă veți cufunda în natura sălbatică a Rezervației Punta Aderci, parcurgând stâncile imaculate. După-amiaza este dedicată explorării frumuseții aspre a plajelor Mottagrossa și Punta Aderci. Încheiați ziua relaxându-vă sub stâncile spectaculoase ale plajei Libertini.",
         "en": "Start your morning inland with a peaceful visit to the local church before heading towards the coast. By midday, you'll immerse yourself in the wild nature of the Punta Aderci Reserve, trekking along unspoiled cliffs. The afternoon is dedicated to exploring the rugged beauty of Mottagrossa and Punta Aderci beaches. Conclude your day relaxing under the dramatic cliffs of the Libertini beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der schützenden Stille der Kirche. Mittags verwandelt der Regen das Naturschutzgebiet in eine mystische, neblige Küstenlandschaft. Am Nachmittag bieten die Strände einen dramatischen Anblick der rauen Adria. Der Abend klingt bei grauem Himmel und dem Rauschen der Wellen feucht, aber friedlich aus, ideal für Liebhaber melancholischer Küstenstimmungen.",
+            "hu": "Kezdje a reggelt a templom védelmező csendjében, elkerülve az első záporokat. Délben a rezervátum ködös, misztikus tájjá változik az esőben, a tenger illata ilyenkor a legerősebb. Délután a partok drámai látványt nyújtanak a morajló Adria mellett. Az este szürke égbolttal és a hullámok zúgásával zárul, ami különleges, melankolikus hangulatot áraszt a vízparton.",
+            "ro": "Începeți dimineața în liniștea protectoare a bisericii, evitând primele averse. La prânz, rezervația se transformă într-un peisaj de coastă mistic și încețoșat; mirosul mării este cel mai intens acum. După-amiaza, plajele oferă o vedere dramatică asupra Adriaticii agitate. Seara se încheie sub un cer gri și sunetul valurilor, perfect pentru iubitorii de atmosfere melancolice.",
+            "en": "Start your morning in the protective silence of the church, avoiding the first showers. By noon, the reserve transforms into a mystical, misty coastal landscape; the scent of the sea is strongest now. Afternoon visits to the beaches offer a dramatic view of the churning Adriatic. The evening concludes under gray skies and the sound of crashing waves, perfect for lovers of moody coastal vibes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Madonna Addolorata",
+                "hu": "Chiesa della Madonna Addolorata",
+                "ro": "Chiesa della Madonna Addolorata",
+                "en": "Chiesa della Madonna Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenausstattung der Kirche, während Sie vor dem Regen flüchten; nutzen Sie die Zeit für eine Besinnung und schütteln Sie Ihren Schirm draußen gründlich ab.",
+                "hu": "Csodálja meg a templom belső díszítését, miközben az eső elől menekül; használja ki az időt az elmélyülésre, és alaposan rázza le az esernyőjét a bejárat előtt.",
+                "ro": "Admirați decorațiunile interioare ale bisericii în timp ce vă adăpostiți de ploaie; profitați de timp pentru reflexie și scuturați bine umbrela la intrare.",
+                "en": "Admire the church's interior decorations while taking shelter from the rain; use the time for reflection and shake your umbrella thoroughly before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Regionale di Punta Aderci",
+                "hu": "Riserva Naturale Regionale di Punta Aderci",
+                "ro": "Riserva Naturale Regionale di Punta Aderci",
+                "en": "Riserva Naturale Regionale di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die wilde Natur im Regen, wenn die Vegetation besonders intensiv duftet; tragen Sie wasserfeste Wanderschuhe, da die unbefestigten Wege rutschig und matschig werden.",
+                "hu": "Tapasztalja meg a vad természetet az esőben, amikor a növényzet illata felerősödik; viseljen vízálló bakancsot, mert a földutak csúszóssá és sárossá válhatnak.",
+                "ro": "Experimentați natura sălbatică în ploaie, când vegetația are un parfum intens; purtați bocanci impermeabili, deoarece potecile de pământ devin alunecoase și noroioase.",
+                "en": "Experience wild nature in the rain when the vegetation's scent intensifies; wear waterproof boots as the dirt paths can become slippery and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Mottagrossa",
+                "hu": "Spiaggia di Mottagrossa",
+                "ro": "Spiaggia di Mottagrossa",
+                "en": "Spiaggia di Mottagrossa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der grauen Adria von diesem Kiesstrand aus; der Regen wäscht die Kieselsteine glänzend, aber Vorsicht vor den Wellen, die bei Sturm höher schlagen.",
+                "hu": "Élvezze a szürke Adria látványát erről a kavicsos partról; az eső fényesre mossa a köveket, de vigyázzon a viharosabb időben magasabbra csapó hullámokkal.",
+                "ro": "Bucurați-vă de vederea Adriaticii gri de pe această plajă cu pietriș; ploaia spală pietrele făcându-le lucioase, dar atenție la valurile care pot fi mai mari.",
+                "en": "Enjoy the view of the gray Adriatic from this pebble beach; the rain washes the stones shiny, but beware of the waves that strike higher in stormy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Punta Aderci",
+                "hu": "Spiaggia di Punta Aderci",
+                "ro": "Spiaggia di Punta Aderci",
+                "en": "Spiaggia di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das dramatische Zusammenspiel von Regen und Klippen; nutzen Sie ein langes Regencape, um Ihre Hände für Fotos der nebligen Küste frei zu haben.",
+                "hu": "Figyelje meg az eső és a sziklák drámai összjátékát; használjon hosszú esőköpenyt, hogy kezei szabadon maradjanak a ködös partvidék fotózásához.",
+                "ro": "Observați interacțiunea dramatică dintre ploaie și stânci; folosiți o pelerină lungă de ploaie pentru a avea mâinile libere să fotografiați coasta încețoșată.",
+                "en": "Observe the dramatic interplay between the rain and the cliffs; use a long rain poncho to keep your hands free for photographing the misty coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia dei Libertini",
+                "hu": "Spiaggia dei Libertini",
+                "ro": "Spiaggia dei Libertini",
+                "en": "Spiaggia dei Libertini"
+              },
+              "tip_5lang": {
+                "de": "Dieser abgelegene Ort wirkt im Regen besonders isoliert und friedlich; steigen Sie die Treppen sehr vorsichtig hinab, da die Stufen bei Nässe extrem rutschig sind.",
+                "hu": "Ez az eldugott hely az esőben különösen elszigeteltnek és békésnek tűnik; ereszkedjen le nagyon óvatosan, mert a lépcsőfokok vizesen rendkívül csúszósak.",
+                "ro": "Acest loc retras pare extrem de izolat și liniștit în ploaie; coborâți scările cu mare atenție, deoarece treptele umede sunt extrem de alunecoase.",
+                "en": "This secluded spot feels especially isolated and peaceful in the rain; descend the stairs very carefully as the wet steps are extremely slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch mit einer klaren Brise bei der Kirche. Mittags leuchtet das Naturschutzgebiet in sanften Farben unter der tiefstehenden Wintersonne. Am Nachmittag laden die einsamen Strände zu ausgedehnten, windgeschützten Spaziergängen ein. Da die Sonne bereits gegen 17:00 Uhr untergeht, endet die Tour in einer stimmungsvollen, kühlen Dämmerung.",
+            "hu": "A téli reggel friss, tiszta szellővel indul a templomnál. Délben a rezervátum lágy színekben pompázik az alacsonyan járó téli napfényben, ilyenkor a legtisztább a látótávolság. Délután a néptelen partok hosszú, szélvédett sétákra hívnak. Mivel a nap 17:00 körül lebukik, a túra hangulatos, hűvös alkonyatban ér véget.",
+            "ro": "Dimineața de iarnă începe proaspătă, cu o briză clară lângă biserică. La prânz, rezervația strălucește în culori pale sub soarele slab de iarnă; vizibilitatea este maximă acum. După-amiaza, plajele pustii vă invită la plimbări lungi, protejate de vânt. Deoarece soarele apune în jur de 17:00, turul se încheie într-un amurg răcoros.",
+            "en": "The winter morning starts fresh with a clear breeze by the church. At noon, the reserve glows in soft colors under the low winter sun; visibility is at its best now. In the afternoon, the deserted beaches invite you for long, wind-sheltered walks. As the sun sets around 17:00, the tour ends in an atmospheric, cool twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Madonna Addolorata",
+                "hu": "Chiesa della Madonna Addolorata",
+                "ro": "Chiesa della Madonna Addolorata",
+                "en": "Chiesa della Madonna Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Kirche am Morgen; tragen Sie warme Schichten, da die dicken Steinmauern im Winter die Kälte speichern und es im Inneren kühl ist.",
+                "hu": "Élvezze a templom reggeli csendjét; viseljen meleg rétegeket, mert a vastag kőfalak télen tartják a hideget, így a belső tér hűvös maradhat.",
+                "ro": "Bucurați-vă de liniștea dimineții în biserică; purtați haine groase, deoarece pereții de piatră mențin frigul în interior pe timpul iernii.",
+                "en": "Enjoy the morning silence of the church; wear warm layers because the thick stone walls retain the cold in winter, making the interior quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Regionale di Punta Aderci",
+                "hu": "Riserva Naturale Regionale di Punta Aderci",
+                "ro": "Riserva Naturale Regionale di Punta Aderci",
+                "en": "Riserva Naturale Regionale di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für weite Panoramablicke bis zu den Berggipfeln; eine winddichte Jacke ist hier ein Muss, um die kühle Meeresbrise zu genießen.",
+                "hu": "Használja ki a tiszta téli fényt a távoli hegycsúcsokig elnyúló panorámához; egy szélálló dzseki kötelező, hogy élvezhesse a hűvös tengeri szellőt.",
+                "ro": "Profitați de lumina clară de iarnă pentru panorame ce ajung până la vârfurile munților; o jachetă rezistentă la vânt este esențială pentru briza rece.",
+                "en": "Take advantage of the clear winter light for panoramas extending to the mountain peaks; a windproof jacket is a must to enjoy the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Mottagrossa",
+                "hu": "Spiaggia di Mottagrossa",
+                "ro": "Spiaggia di Mottagrossa",
+                "en": "Spiaggia di Mottagrossa"
+              },
+              "tip_5lang": {
+                "de": "Dieser Strand bietet im Winter eine meditative Einsamkeit; bringen Sie eine Thermoskanne mit heißem Tee mit, um sich beim Blick auf das weite Meer aufzuwärmen.",
+                "hu": "Ez a part télen meditatív magányt áraszt; hozzon magával egy termoszt forró teával, hogy felmelegedjen, miközben a végtelen tengert nézi.",
+                "ro": "Această plajă oferă o singurătate meditativă iarna; aduceți un termos cu ceai fierbinte pentru a vă încălzi în timp ce priviți marea nesfârșită.",
+                "en": "This beach offers meditative solitude in winter; bring a thermos with hot tea to warm up while gazing at the endless sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Punta Aderci",
+                "hu": "Spiaggia di Punta Aderci",
+                "ro": "Spiaggia di Punta Aderci",
+                "en": "Spiaggia di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen wirken unter der tiefen Wintersonne besonders plastisch; tragen Sie eine Mütze, da der Wind an der Landspitze im Winter sehr kräftig wehen kann.",
+                "hu": "A sziklaalakzatok az alacsony téli napfényben különösen plasztikusnak tűnnek; viseljen sapkát, mert a félszigeten a szél télen nagyon erősen fújhat.",
+                "ro": "Formațiunile stâncoase par deosebit de sculpturale sub soarele jos de iarnă; purtați o căciulă, deoarece vântul de pe promontoriu poate fi foarte tăios.",
+                "en": "The rock formations look particularly sculptural under the low winter sun; wear a hat as the wind on the headland can blow very strongly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia dei Libertini",
+                "hu": "Spiaggia dei Libertini",
+                "ro": "Spiaggia dei Libertini",
+                "en": "Spiaggia dei Libertini"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das frühe Lichtspiel der Dämmerung gegen 16:30 Uhr; treten Sie den Rückweg rechtzeitig an, da es nach Sonnenuntergang schnell sehr kalt wird.",
+                "hu": "Figyelje meg a korai alkonyi fényeket 16:30 körül; induljon vissza időben, mert a naplemente után a hőmérséklet gyorsan és jelentősen visszaesik.",
+                "ro": "Observați jocurile de lumină de la amurgul timpuriu în jur de ora 16:30; începeți drumul de întoarcere la timp, căci se face repede frig după apus.",
+                "en": "Observe the early twilight light play around 16:30; start your way back in time, as the temperature drops quickly and significantly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpáros kaland az ipari zóna csendes templománál kezdődik, mielőtt észak felé, a Punta Aderci Természetvédelmi Terület felé pedálozna. A dél láncolja be a pihenést Punta Aderci és Punta Penna látványos strandjain. Délután tekerjen végig a parti utakon a történelmi védőtorony felé. Az este a magasba törő Punta Penna világítótorony fenséges látványával jutalmazza a fáradalmakat.",
         "ro": "Aventura pe bicicletă începe lângă biserica liniștită, înainte de a pedala spre nord, către Rezervația Naturală Punta Aderci. Prânzul vă invită la odihnă pe plajele spectaculoase din Punta Aderci și Punta Penna. După-amiaza, mergeți pe traseele de coastă către turnul istoric de apărare. Seara vă răsplătește cu priveliștea maiestuoasă a impunătorului far din Punta Penna.",
         "en": "Your cycling adventure begins near the industrial zone's quiet church before pedaling north to the breathtaking Punta Aderci Nature Reserve. Midday invites you to rest on the spectacular beaches of Punta Aderci and Punta Penna. In the afternoon, ride along the coastal paths towards the historical defense tower. The evening rewards you with the majestic sight of the towering Punta Penna lighthouse."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig an der Kirche in den regnerischen Tag. Mittags erfordern die Pfade im Naturschutzgebiet volle Konzentration auf dem nassen Untergrund. Der Nachmittag führt entlang der Küste zum Leuchtturm, wo der Wind den Regen peitscht. Beenden Sie die Fahrt frühzeitig, um die Ausrüstung zu trocknen und sich nach der feuchten Tour durch die Küstenlandschaft aufzuwärmen.",
+            "hu": "Induljon óvatosan a templomtól az esős napon. Délben a rezervátum ösvényei teljes koncentrációt igényelnek a vizes talajon; a sár próbára teszi a kerékpáros tudást. Délután a part mentén haladjon a világítótorony felé, ahol a szél korbácsolja az esőt. Fejezze be korán a tekerést, hogy megszáríthassa felszerelését és felmelegedhessen a nyirkos túra után.",
+            "ro": "Porniți cu atenție de la biserică în această zi ploioasă. La prânz, potecile din rezervație necesită concentrare maximă pe solul ud; noroiul vă va testa abilitățile. După-amiaza, pedalați spre far, unde vântul biciuiește ploaia. Încheiați tura devreme pentru a vă usca echipamentul și a vă încălzi după traseul umed de coastă.",
+            "en": "Start carefully from the church on this rainy day. By noon, the trails in the reserve require full concentration on the wet ground; mud will test your cycling skills. In the afternoon, ride along the coast towards the lighthouse, where the wind whips the rain. Finish the ride early to dry your gear and warm up after the damp coastal tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Madonna Addolorata",
+                "hu": "Chiesa della Madonna Addolorata",
+                "ro": "Chiesa della Madonna Addolorata",
+                "en": "Chiesa della Madonna Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum der Kirche, um Ihre Regenjacke zu richten; prüfen Sie hier nochmals den Reifendruck für besseren Grip auf nassen Straßen.",
+                "hu": "Használja a templom előterét az esőkabátja megigazítására; ellenőrizze itt a guminyomást a vizes utakon való jobb tapadás érdekében.",
+                "ro": "Folosiți pridvorul bisericii pentru a vă ajusta pelerina; verificați presiunea în anvelope pentru o aderență mai bună pe drumurile ude.",
+                "en": "Use the church porch to adjust your raincoat; check your tire pressure here for better grip on the wet roads before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Regionale di Punta Aderci",
+                "hu": "Riserva Naturale Regionale di Punta Aderci",
+                "ro": "Riserva Naturale Regionale di Punta Aderci",
+                "en": "Riserva Naturale Regionale di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie im Reservat besonders vorausschauend, da Pfützen tiefe Schlaglöcher verbergen können; ein Schutzblech am Rad ist bei diesem Wetter unverzichtbar.",
+                "hu": "A rezervátumban vezessen különös előrelátással, mert a tócsák mély kátyúkat rejthetnek; egy sárvédő a bringán elengedhetetlen ilyen időben.",
+                "ro": "Pedalați cu prudență în rezervație, deoarece bălțile pot ascunde gropi adânci; o aripă de protecție la bicicletă este indispensabilă pe această vreme.",
+                "en": "Cycle with extra foresight in the reserve as puddles can hide deep potholes; a mudguard on your bike is indispensable in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Punta Aderci",
+                "hu": "Spiaggia di Punta Aderci",
+                "ro": "Spiaggia di Punta Aderci",
+                "en": "Spiaggia di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem festen Untergrund ab, bevor Sie den Blick auf die Klippen genießen; nasses Gras kann beim Absteigen tückisch rutschig sein.",
+                "hu": "Támassza le a bringát szilárd talajon, mielőtt a sziklák látványában gyönyörködne; a vizes fű trükkösen csúszós lehet leszálláskor.",
+                "ro": "Parcați bicicleta pe un sol solid înainte de a admira stâncile; iarba udă poate fi înșelător de alunecoasă la coborârea de pe bicicletă.",
+                "en": "Park your bike on solid ground before enjoying the view of the cliffs; wet grass can be trickily slippery when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Punta Penna",
+                "hu": "Spiaggia di Punta Penna",
+                "ro": "Spiaggia di Punta Penna",
+                "en": "Spiaggia di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Regen weit und verlassen; achten Sie beim Radfahren in Meeresnähe auf Sand auf dem Asphalt, der bei Nässe wie Schmierseife wirkt.",
+                "hu": "A strand az esőben tágasnak és elhagyatottnak tűnik; a tengerparti tekerésnél ügyeljen az aszfalton lévő homokra, ami vizesen nagyon csúszik.",
+                "ro": "Plaja pare vastă și pustie în ploaie; aveți grijă la nisipul de pe asfalt când pedalați lângă mare, deoarece devine alunecos când este ud.",
+                "en": "The beach looks vast and deserted in the rain; watch out for sand on the asphalt when cycling near the sea, as it becomes very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Punta Penna",
+                "hu": "Torre di Punta Penna",
+                "ro": "Torre di Punta Penna",
+                "en": "Torre di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Turm als Orientierungspunkt im grauen Dunst; halten Sie hier kurz inne, um Ihre Brille oder Ihr Visier vom Regenwasser zu befreien.",
+                "hu": "Használja a tornyot tájékozódási pontként a szürke párában; álljon meg itt egy pillanatra, hogy megtisztítsa szemüvegét vagy látómezejét az esőtől.",
+                "ro": "Folosiți turnul ca punct de reper în negura gri; opriți-vă aici un moment pentru a vă curăța ochelarii sau viziera de picăturile de ploaie.",
+                "en": "Use the tower as a landmark in the gray haze; stop here for a moment to clean your glasses or visor from the accumulated rainwater."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Punta Penna",
+                "hu": "Faro di Punta Penna",
+                "ro": "Faro di Punta Penna",
+                "en": "Faro di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt bei Regen besonders majestätisch; tragen Sie Neopren-Handschuhe, damit Ihre Hände am Lenker nicht auskühlen und die Bremsen sicher bedienen.",
+                "hu": "A világítótorony esőben különösen fenséges látvány; viseljen neoprén kesztyűt, hogy kezei ne hűljenek le a kormányon és biztosan fékezhessen.",
+                "ro": "Farul arată deosebit de maiestuos în ploaie; purtați mănuși de neopren pentru a nu vă îngheța mâinile pe ghidon și pentru a frâna în siguranță.",
+                "en": "The lighthouse looks especially majestic in the rain; wear neoprene gloves to keep your hands warm on the handlebars and ensure safe braking."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie erfrischt bei kühler Luft an der Kirche in den Wintertag. Mittags bietet die Fahrt durch das Reservat glasklare Ausblicke auf die Adria und die fernen Abruzzen. Nachmittags erreichen Sie den Leuchtturm von Punta Penna, während das Licht golden wird. Beenden Sie die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr, wenn die Kälte am Meer spürbar zunimmt.",
+            "hu": "Induljon felfrissülve a templomtól a hűvös téli napon. Délben a rezervátumon átvezető út kristálytiszta kilátást nyújt az Adriára és a távoli Abruzzókra. Délután a Punta Penna világítótoronyhoz érve a fények aranylóvá válnak az alacsony napállásban. Fejezze be a túrát pontosan a 17:00-s naplementére, amikor a tengerparti hideg hirtelen felerősödik.",
+            "ro": "Porniți înviorat de la biserică în această zi rece de iarnă. La prânz, drumul prin rezervație oferă vederi clare asupra Adriaticii și a munților Abruzzo din depărtare. După-amiaza, ajungând la farul Punta Penna, luminile devin aurii datorită soarelui jos. Încheiați tura exact la apusul de la ora 17:00, când frigul de pe coastă devine tăios.",
+            "en": "Start refreshed from the church on this cool winter day. At noon, the ride through the reserve offers crystal-clear views of the Adriatic and the distant Abruzzo mountains. In the afternoon, reaching the Punta Penna lighthouse, the lights turn golden in the low sun. Finish the tour right at the 17:00 sunset, when the coastal cold intensifies suddenly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Madonna Addolorata",
+                "hu": "Chiesa della Madonna Addolorata",
+                "ro": "Chiesa della Madonna Addolorata",
+                "en": "Chiesa della Madonna Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour mit ein paar Aufwärmübungen vor der Kirche; tragen Sie Thermokleidung, da der Fahrtwind bei winterlichen Temperaturen stark auskühlt.",
+                "hu": "Kezdje a túrát néhány bemelegítő gyakorlattal a templom előtt; viseljen aláöltözetet, mert a menetszél téli hőmérséklet mellett erősen hűt.",
+                "ro": "Începeți tura cu câteva exerciții de încălzire în fața bisericii; purtați haine termice, deoarece vântul creat de viteză vă poate răci rapid.",
+                "en": "Start the tour with some warm-up exercises in front of the church; wear thermal base layers as the wind chill while cycling is strong in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Regionale di Punta Aderci",
+                "hu": "Riserva Naturale Regionale di Punta Aderci",
+                "ro": "Riserva Naturale Regionale di Punta Aderci",
+                "en": "Riserva Naturale Regionale di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht, die oft bis zu den schneebedeckten Gipfeln reicht; schützen Sie Ihr Gesicht mit einem Tuch vor dem kalten Meereswind.",
+                "hu": "Élvezze a tiszta kilátást, amely gyakran a hófödte csúcsokig is elér; védje arcát egy csősállal a hideg tengeri szél ellen tekerés közben.",
+                "ro": "Bucurați-vă de vizibilitatea clară care ajunge adesea până la vârfurile înzăpezite; protejați-vă fața cu un fular împotriva vântului rece de coastă.",
+                "en": "Enjoy the clear views that often reach as far as the snow-capped peaks; protect your face with a neck gaiter against the cold coastal wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Punta Aderci",
+                "hu": "Spiaggia di Punta Aderci",
+                "ro": "Spiaggia di Punta Aderci",
+                "en": "Spiaggia di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Klippen ist im Winterlicht besonders scharf; achten Sie auf vereiste Stellen auf den Holzwegen, falls es nachts gefroren hat.",
+                "hu": "A sziklákra nyíló kilátás téli fényben különösen éles; ügyeljen a jeges foltokra a fapallókon, ha éjszaka fagyott volna a tengerparton.",
+                "ro": "Vederea asupra stâncilor este deosebit de clară în lumina iernii; atenție la porțiunile înghețate de pe podurile de lemn dacă a fost ger noaptea.",
+                "en": "The view of the cliffs is particularly sharp in winter light; watch out for icy patches on the wooden boardwalks if there was a frost overnight."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Punta Penna",
+                "hu": "Spiaggia di Punta Penna",
+                "ro": "Spiaggia di Punta Penna",
+                "en": "Spiaggia di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie ein Stück am breiten Ufer entlang, wo der Sand im Winter oft fester ist; tragen Sie warme Überschuhe, um Ihre Zehen vor dem kalten Wind zu schützen.",
+                "hu": "Tekerjen egy kicsit a széles parton, ahol a homok télen gyakran keményebb; viseljen meleg kamáslit, hogy megvédje lábujjait a fagyos széltől.",
+                "ro": "Pedalați puțin pe malul lat, unde nisipul este adesea mai tare iarna; purtați huse termice pentru pantofi pentru a vă proteja degetele de vânt.",
+                "en": "Cycle a bit along the wide shore where the sand is often firmer in winter; wear warm shoe covers to protect your toes from the freezing wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Punta Penna",
+                "hu": "Torre di Punta Penna",
+                "ro": "Torre di Punta Penna",
+                "en": "Torre di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Der historische Turm bildet einen starken Kontrast zum klaren Winterhimmel; nutzen Sie den Stopp für einen Schluck warmes Wasser aus Ihrer Isolierflasche.",
+                "hu": "A történelmi torony erős kontrasztot alkot a tiszta téli égbolttal; használja ki a megállót egy korty meleg vízre a termosztátos palackjából.",
+                "ro": "Turnul istoric formează un contrast puternic cu cerul senin de iarnă; profitați de oprire pentru o gură de apă caldă din bidonul izoterm.",
+                "en": "The historical tower forms a sharp contrast with the clear winter sky; use this stop for a sip of warm water from your insulated bottle."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Punta Penna",
+                "hu": "Faro di Punta Penna",
+                "ro": "Faro di Punta Penna",
+                "en": "Faro di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den zweithöchsten Leuchtturm Italiens im schwindenden Tageslicht; schalten Sie frühzeitig Ihre Fahrradbeleuchtung ein, da die Dämmerung schnell eintritt.",
+                "hu": "Csodálja meg Olaszország második legmagasabb világítótornyát a fogyatkozó fényben; kapcsolja be időben a lámpáit, mert az alkonyat gyorsan jön.",
+                "ro": "Admirați al doilea cel mai înalt far din Italia în lumina care scade; aprindeți din timp luminile bicicletei, deoarece amurgul se instalează rapid.",
+                "en": "Admire Italy's second-tallest lighthouse in the fading daylight; turn on your bike lights early as the twilight sets in very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Indítsa autós utazását az Acqualand vízi élményeivel, majd tegyen egy kulturális kitérőt a helyi templomnál. Délben a volt Genova-Rulli árvaház lenyűgöző építészetét és a Punta Penna világítótornyot csodálhatja meg. Délután élvezze a zord partvidék és az ősi parti torony látványát. Végül nézze meg a naplementét a békés Punta Aderci Természetvédelmi Területen.",
         "ro": "Începeți excursia cu o baie la Acqualand, urmată de o oprire culturală la biserica locală. La prânz ajungeți la arhitectura impunătoare a fostului orfelinat Genova-Rulli și la istoricul far Punta Penna. Petreceți-vă după-amiaza admirând coasta accidentată și vechiul turn. În cele din urmă, admirați apusul de soare la senina Rezervație Naturală Punta Aderci.",
         "en": "Kick off your road trip with a splash at Acqualand, followed by a cultural stop at the local church. Midday brings you to the imposing architecture of the former Genova-Rulli orphanage and the historic Punta Penna lighthouse. Spend your afternoon admiring the rugged coastline and the ancient coastal tower. Finally, watch the sunset at the serene Punta Aderci Nature Reserve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag entspannt beim Acqualand und der nahen Kirche, geschützt im Auto. Mittags erkunden Sie die historischen Gebäude, während der Regen gegen die Scheiben trommelt. Am Nachmittag bietet die Fahrt entlang der Küste spektakuläre Ausblicke auf die aufgewühlte Adria. Der Abend endet gemütlich bei einer Fahrt durch die neblige Küstenlandschaft, perfekt für Fotos aus dem trockenen Inneren.",
+            "hu": "Kezdje a napot az Acqualand és a közeli templom felfedezésével, kényelmesen az autóból. Délben látogassa meg a történelmi épületeket, miközben az eső kopog a szélvédőn. Délután a tengerparti autózás látványos panorámát kínál a felkorbácsolt Adriára. Az este hangulatosan zárul a ködös part menti utakon, ahol a száraz utastérből csodálhatja a természet erejét.",
+            "ro": "Începeți ziua explorând zona Acqualand și biserica din apropiere, la adăpost în mașină. La prânz, vizitați clădirile istorice în timp ce ploaia bate în parbriz. După-amiaza, condusul de-a lungul coastei oferă panorame spectaculoase asupra Adriaticii agitate. Seara se încheie confortabil pe drumurile încețoșate, admirând forța naturii din interiorul uscat al mașinii.",
+            "en": "Start the day exploring the Acqualand area and the nearby church from the comfort of your car. At noon, visit the historical buildings while rain taps on the windshield. In the afternoon, the coastal drive offers spectacular panoramas of the agitated Adriatic. The evening ends cozily on the misty coastal roads, admiring the power of nature from the dry cabin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Acqualand del Vasto",
+                "hu": "Acqualand del Vasto",
+                "ro": "Acqualand del Vasto",
+                "en": "Acqualand del Vasto"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz für einen ersten Blick auf die Umgebung; prüfen Sie Ihre Scheibenwischer, da starke Regengüsse die Sicht schnell einschränken können.",
+                "hu": "Használja a nagy parkolót a környék első szemrevételezésére; ellenőrizze az ablaktörlőket, mert a heves esőzés gyorsan rontja a látási viszonyokat.",
+                "ro": "Folosiți parcarea mare pentru o primă privire asupra împrejurimilor; verificați ștergătoarele, deoarece ploile torențiale pot reduce rapid vizibilitatea.",
+                "en": "Use the large parking lot for a first look at the surroundings; check your wipers as heavy downpours can quickly reduce visibility while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna Addolorata",
+                "hu": "Chiesa della Madonna Addolorata",
+                "ro": "Chiesa della Madonna Addolorata",
+                "en": "Chiesa della Madonna Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken in die Kirche zu gelangen; genießen Sie die spirituelle Ruhe, während es draußen heftig regnet.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy szárazon jusson be a templomba; élvezze a spirituális békét, miközben kint szakad az eső.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în biserică; bucurați-vă de liniștea spirituală în timp ce afară plouă torențial.",
+                "en": "Park as close to the entrance as possible to stay dry; enjoy the spiritual peace inside while it's pouring rain outside. Carry a small umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex Orfanotrofio Genova-Rulli",
+                "hu": "Ex Orfanotrofio Genova-Rulli",
+                "ro": "Ex Orfanotrofio Genova-Rulli",
+                "en": "Ex Orfanotrofio Genova-Rulli"
+              },
+              "tip_5lang": {
+                "de": "Das historische Gebäude wirkt bei Regen besonders geheimnisvoll; nutzen Sie den Stopp, um die Architektur zu bewundern und Ihre Frontscheibe zu entfeuchten.",
+                "hu": "A történelmi épület esőben különösen titokzatosnak tűnik; használja ki a megállót az építészet megcsodálására és a szélvédő páramentesítésére.",
+                "ro": "Clădirea istorică pare deosebit de misterioasă în ploaie; profitați de oprire pentru a admira arhitectura și pentru a dezaburi parbrizul.",
+                "en": "The historical building looks particularly mysterious in the rain; use this stop to admire the architecture and defrost your windshield if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Punta Penna",
+                "hu": "Faro di Punta Penna",
+                "ro": "Faro di Punta Penna",
+                "en": "Faro di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Leuchtturm durch das Fenster oder bei einem kurzen Gang nach draußen; halten Sie Abstand zur Kante, da der Wind hier heftig wehen kann.",
+                "hu": "Csodálja meg a tornyot az ablakból vagy egy rövid kiszállás erejéig; tartson távolságot a szikla szélétől, mert a szél itt nagyon felerősödhet.",
+                "ro": "Admirați farul din mașină sau printr-o scurtă ieșire afară; păstrați distanța față de margine, deoarece vântul poate fi foarte puternic aici.",
+                "en": "Admire the lighthouse from the car or during a quick step outside; keep your distance from the cliff edge as the wind can be very strong here."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Punta Penna",
+                "hu": "Torre di Punta Penna",
+                "ro": "Torre di Punta Penna",
+                "en": "Torre di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Der Turm ist ein tolles Fotomotiv im Regen; achten Sie beim Ein- und Ausparken auf unbefestigtem Boden auf Schlamm und rutschige Stellen.",
+                "hu": "A torony remek fotótéma az esőben; az autóval való manőverezésnél figyeljen a sárra és a csúszós felületekre a burkolatlan részeken.",
+                "ro": "Turnul este un subiect foto excelent în ploaie; la manevrele cu mașina, atenție la noroi și suprafețe alunecoase pe porțiunile neasfaltate.",
+                "en": "The tower is a great photo subject in the rain; pay attention to mud and slippery surfaces on unpaved areas when maneuvering the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Punta Aderci",
+                "hu": "Spiaggia di Punta Aderci",
+                "ro": "Spiaggia di Punta Aderci",
+                "en": "Spiaggia di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem trockenen Auto; wenn Sie aussteigen, tragen Sie eine rutschfeste Sohle für den Weg zum Aussichtspunkt.",
+                "hu": "Élvezze a panorámát a száraz autóból; ha kiszáll, viseljen tapadós talpú cipőt a kilátóponthoz vezető vizes, csúszós úton.",
+                "ro": "Bucurați-vă de panoramă din mașina uscată; dacă coborâți, purtați încălțăminte cu talpă aderentă pentru drumul ud spre punctul de observație.",
+                "en": "Enjoy the panorama from the dry car; if you step out, wear shoes with high-grip soles for the wet and slippery path to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Regionale di Punta Aderci",
+                "hu": "Riserva Naturale Regionale di Punta Aderci",
+                "ro": "Riserva Naturale Regionale di Punta Aderci",
+                "en": "Riserva Naturale Regionale di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Zufahrtswegen, um Wildtiere im Regen nicht zu erschrecken; nutzen Sie das Fernlicht bei schlechter Sicht durch Starkregen.",
+                "hu": "Vezessen lassan a bekötőutakon, hogy ne ijessze meg az esőben előbukkanó vadon élő állatokat; használja a ködlámpát, ha a látótávolság nagyon lecsökken.",
+                "ro": "Conduceți încet pe drumurile de acces pentru a nu speria animalele sălbatice; folosiți luminile de ceață dacă vizibilitatea scade foarte mult.",
+                "en": "Drive slowly on access roads to avoid startling wildlife out in the rain; use your fog lights if visibility drops significantly due to heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen beim Acqualand und der Kirche. Mittags führt die Route zu den historischen Sehenswürdigkeiten, während die Wintersonne die Küste in helles Licht taucht. Am Nachmittag genießen Sie die Fahrt zum Leuchtturm von Punta Penna mit weitem Blick über das Meer. Beenden Sie die Tour gegen 17:00 Uhr, wenn die Dämmerung einsetzt und die Lichter am Hafen zu leuchten beginnen.",
+            "hu": "Kezdje a tiszta téli reggelt az Acqualand és a templom környékén. Délben a történelmi látnivalók felé vegye az irányt, miközben a téli nap világos fénybe öltözteti a partot. Délután élvezze az autózást a Punta Penna világítótoronyhoz, ahonnan messzire ellátni a tenger felett. Fejezze be a túrát 17:00 körül, amikor leszáll az est és kigyúlnak a kikötő fényei.",
+            "ro": "Începeți dimineața senină de iarnă în zona Acqualand și la biserică. La prânz, îndreptați-vă spre obiectivele istorice, în timp ce soarele de iarnă luminează puternic coasta. După-amiaza, bucurați-vă de drumul spre farul Punta Penna, cu vederi largi peste mare. Încheiați turul în jur de ora 17:00, când se lasă seara și se aprind luminile în port.",
+            "en": "Start the clear winter morning around Acqualand and the church. At noon, head towards the historical sights while the winter sun bathes the coast in bright light. In the afternoon, enjoy the drive to the Punta Penna lighthouse with wide views over the sea. End the tour around 17:00 as dusk falls and the harbor lights begin to twinkle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Acqualand del Vasto",
+                "hu": "Acqualand del Vasto",
+                "ro": "Acqualand del Vasto",
+                "en": "Acqualand del Vasto"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Ort für einen ruhigen Start; stellen Sie sicher, dass Ihre Heizung gut funktioniert, um die Fahrt bei winterlichen Temperaturen zu genießen.",
+                "hu": "Használja a helyszínt egy nyugodt kezdéshez; győződjön meg róla, hogy az autó fűtése jól működik, hogy élvezhesse az utat a téli hidegben.",
+                "ro": "Folosiți locația pentru un început liniștit; asigurați-vă că încălzirea mașinii funcționează bine pentru a vă bucura de drum pe frigul iernii.",
+                "en": "Use the location for a calm start; ensure your car's heating is working well so you can enjoy the drive in the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna Addolorata",
+                "hu": "Chiesa della Madonna Addolorata",
+                "ro": "Chiesa della Madonna Addolorata",
+                "en": "Chiesa della Madonna Addolorata"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der Ruhe; lassen Sie den Motor nicht unnötig laufen, während Sie die frostige Schönheit der Umgebung bewundern.",
+                "hu": "Látogassa meg a templomot egy pillanatnyi csendre; ne járassa feleslegesen a motort, miközben a környék zúzmarás szépségét csodálja.",
+                "ro": "Vizitați biserica pentru un moment de liniște; nu lăsați motorul pornit inutil în timp ce admirați frumusețea înghețată a împrejurimilor.",
+                "en": "Visit the church for a moment of silence; don't leave the engine idling while you admire the frosty beauty of the surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Ex Orfanotrofio Genova-Rulli",
+                "hu": "Ex Orfanotrofio Genova-Rulli",
+                "ro": "Ex Orfanotrofio Genova-Rulli",
+                "en": "Ex Orfanotrofio Genova-Rulli"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im harten Winterlicht besonders beeindruckend; parken Sie vorsichtig, da sich in Schattenbereichen Glatteis bilden kann.",
+                "hu": "Az építészet különösen lenyűgöző a kemény téli fényben; parkoljon óvatosan, mert az árnyékos részeken jegesedés fordulhat elő az úton.",
+                "ro": "Arhitectura pare impresionantă în lumina tăioasă a iernii; parcați cu atenție, deoarece în zonele umbrite se poate forma polei pe carosabil.",
+                "en": "The architecture looks impressive in the harsh winter light; park carefully as black ice may form in shaded areas on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Punta Penna",
+                "hu": "Faro di Punta Penna",
+                "ro": "Faro di Punta Penna",
+                "en": "Faro di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm bietet eine tolle Fotokulisse vor dem klaren blauen Himmel; halten Sie eine warme Jacke im Auto bereit für den kurzen Stopp am Wind.",
+                "hu": "A világítótorony remek fotóhelyszín a tiszta kék égbolt előtt; tartson meleg kabátot az autóban a szeles helyen tett rövid megállóhoz.",
+                "ro": "Farul este un loc excelent pentru fotografii pe fundalul cerului senin; țineți o jachetă groasă în mașină pentru oprirea scurtă în vânt.",
+                "en": "The lighthouse provides a great photo backdrop against the clear blue sky; keep a warm jacket ready in the car for the short, windy stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Punta Penna",
+                "hu": "Torre di Punta Penna",
+                "ro": "Torre di Punta Penna",
+                "en": "Torre di Punta Penna"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den historischen Anblick ohne die sommerlichen Menschenmassen; prüfen Sie vor der Weiterfahrt den Stand Ihres Scheibenwischwassers mit Frostschutz.",
+                "hu": "Élvezze a történelmi látványt a nyári tömeg nélkül; továbbindulás előtt ellenőrizze a fagyálló szélvédőmosó folyadék szintjét az autóban.",
+                "ro": "Bucurați-vă de vederea istorică fără mulțimile de vară; înainte de a pleca, verificați nivelul lichidului de parbriz cu antigel.",
+                "en": "Enjoy the historical view without the summer crowds; check your frost-resistant windshield washer fluid level before continuing your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Punta Aderci",
+                "hu": "Spiaggia di Punta Aderci",
+                "ro": "Spiaggia di Punta Aderci",
+                "en": "Spiaggia di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die Farben der Klippen zum Leuchten; bleiben Sie im Auto, um die Aussicht zu genießen, falls der Wind zu stark bläst.",
+                "hu": "A téli napfény ragyogóvá teszi a sziklák színeit; maradjon az autóban a kilátás élvezetéhez, ha a tengerparti szél túl erősen fújna.",
+                "ro": "Soarele de iarnă face culorile stâncilor să strălucească; rămâneți în mașină pentru a admira priveliștea dacă vântul de coastă bate prea tare.",
+                "en": "The winter sun makes the colors of the cliffs glow; stay inside the car to enjoy the view if the coastal wind is blowing too strongly."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva Naturale Regionale di Punta Aderci",
+                "hu": "Riserva Naturale Regionale di Punta Aderci",
+                "ro": "Riserva Naturale Regionale di Punta Aderci",
+                "en": "Riserva Naturale Regionale di Punta Aderci"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die winterliche Ruhe des Reservats im letzten Tageslicht; schalten Sie das Licht ein, da es ab 16:30 Uhr merklich dunkler wird.",
+                "hu": "Figyelje meg a rezervátum téli nyugalmát az utolsó nappali fényben; kapcsolja be a világítást, mert 16:30-tól érezhetően sötétedni kezd.",
+                "ro": "Observați liniștea de iarnă a rezervației în ultima lumină a zilei; aprindeți farurile, deoarece după 16:30 se întunecă vizibil.",
+                "en": "Observe the winter peace of the reserve in the last daylight; turn on your headlights as it starts getting noticeably darker from 16:30."
+              }
+            }
+          ]
+        }
       }
     }
   }

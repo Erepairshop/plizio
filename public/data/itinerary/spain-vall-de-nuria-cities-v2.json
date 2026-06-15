@@ -160,6 +160,196 @@
         "hu": "A reggel békésen indul a szent Sant Gilnél, majd zökkenőmentesen halad a lenyűgöző Bazilikához.\n\nA dél a természeté, ahol élvezheti a Mirador de Núria panorámáját és a Salt de la Cua de Cavall vízesést.\n\nA délutánt a fenséges Pic de l'Àliga meghódításának szenteljük.\n\nAz este nyugodtan ereszkedik le, miközben a Cap de Porc-nál végleg befejezi a felejthetetlen hegyi túrát.",
         "ro": "Dimineața aduce un început senin la sfântul Sant Gil, trecând lin spre impresionanta Bazilică.\n\nMiezul zilei se îndreaptă spre natură, lăsându-vă să absorbiți panoramele de la Mirador de Núria și cascada Salt de la Cua de Cavall.\n\nDupă-amiaza este dedicată cuceririi maiestuosului Pic de l'Àliga.\n\nSeara coboară calm la Cap de Porc, unde vă veți încheia această explorare montană.",
         "en": "Morning brings a serene start at the sacred Sant Gil, moving seamlessly into the awe-inspiring Basilica.\n\nMidday shifts towards nature, letting you soak in the sweeping vistas from Mirador de Núria before marveling at the cascading Salt de la Cua de Cavall.\n\nThe afternoon is dedicated to conquering the majestic Pic de l'Àliga.\n\nEvening descends calmly as you conclude your scenic exploration at Cap de Porc."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der regnerische Morgen beginnt am nebligen Heiligtum. Mittags bietet die große Basilika trockenen Schutz vor dem Schauer. Nachmittags fordern schlammige Pfade gute wasserdichte Ausrüstung. Abends bei anhaltendem Regen hilft ein heißes Getränk im Trockenen.",
+            "hu": "Az esős reggel ködös kilátással indul a völgyben. Délben a hatalmas bazilika nyújt száraz menedéket a zápor elől. Délután a saras ösvényeken elengedhetetlen a vízálló felszerelés. Este egy forró ital melegít fel az eső után.",
+            "ro": "Dimineața ploioasă începe cu ceață la sanctuar. La prânz, marea bazilică oferă un refugiu uscat. După-amiaza, traseele noroioase necesită echipament impermeabil excelent. Seara se încheie cu o băutură caldă la adăpost de ploaie.",
+            "en": "The rainy morning begins with misty sanctuary views. Midday offers dry refuge from heavy showers inside the basilica. Afternoon muddy trails demand high-quality waterproof gear. Evening calls for a hot drink indoors as the rain persists."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Gil",
+                "hu": "Sant Gil",
+                "ro": "Sant Gil",
+                "en": "Sant Gil"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Kapelle im Nebel; halten Sie einen Schirm bereit, da der gepflasterte Weg rutschig ist.",
+                "hu": "Nézd meg az ikonikus kápolnát a ködben; tarts kéznél esernyőt, mert a köves út igencsak csúszik.",
+                "ro": "Admirați capela prin ceață; țineți la îndemână o umbrelă, deoarece aleea pietruită alunecă tare.",
+                "en": "See the iconic chapel through the mist; keep an umbrella handy as the stone path gets very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Mare de Déu de Núria",
+                "hu": "Mare de Déu de Núria Bazilika",
+                "ro": "Bazilica Mare de Déu de Núria",
+                "en": "Basilica of the Mare de Déu of Núria"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser atemberaubenden Kirche Schutz vor dem Regen und bewundern Sie das trockene Innere.",
+                "hu": "Keress menedéket a szakadó eső elől a gyönyörű templomban, és élvezd a békés, száraz belsőt.",
+                "ro": "Căutați refugiu de ploaie în această biserică și admirați interiorul său pașnic și complet uscat.",
+                "en": "Seek refuge from the heavy rain inside this stunning church, admiring its peaceful, dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Núria",
+                "hu": "Núria Kilátó",
+                "ro": "Punct de belvedere Núria",
+                "en": "Núria Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Das Tal wirkt im Regen absolut mystisch, aber treten Sie vorsichtig auf die nassen Felsen am Abgrund.",
+                "hu": "A völgy misztikusan fest a szakadó esőben, de lépj óvatosan a vizes, mohás sziklákon a peremnél.",
+                "ro": "Valea arată mistic în ploaie, dar pășiți cu mare grijă pe stâncile umede din apropierea marginii.",
+                "en": "The valley looks mystical in the pouring rain, but step carefully on wet rocks near the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Pferdeschwanz-Wasserfall",
+                "hu": "Lófarok-vízesés",
+                "ro": "Cascada Coada Calului",
+                "en": "Horsetail Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Regen lässt den Wasserfall mächtig rauschen; tragen Sie wasserdichte Stiefel für den tiefen Matsch.",
+                "hu": "Az esőtől a vízesés hatalmas robajjal zúdul le; viselj magas szárú vízálló bakancsot a sáros úton.",
+                "ro": "Ploaia face cascada să vuiască cu putere; purtați bocanci impermeabili pentru noroiul gros.",
+                "en": "Rain makes the waterfall roar with extra power; wear sturdy waterproof boots for the deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Adlergipfel (Pic de l'Àliga)",
+                "hu": "Sas-csúcs (Pic de l'Àliga)",
+                "ro": "Vârful Vulturului (Pic de l'Àliga)",
+                "en": "Eagle Peak (Pic de l'Àliga)"
+              },
+              "tip_5lang": {
+                "de": "Wind und Regen sind hier oben viel stärker; nutzen Sie Trekkingstöcke beim rutschigen Abstieg.",
+                "hu": "Itt fent sokkal erősebb a szél és az eső; használj túrabotot, és nagyon figyelj a csúszós ereszkedésnél.",
+                "ro": "Vântul și ploaia sunt mai puternice aici sus; folosiți bețe de trekking la coborârea alunecoasă.",
+                "en": "Wind and rain are much stronger up here; use trekking poles and watch your step on the slick descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap de Porc",
+                "hu": "Cap de Porc",
+                "ro": "Cap de Porc",
+                "en": "Cap de Porc"
+              },
+              "tip_5lang": {
+                "de": "Der letzte neblige Abschnitt bietet dramatische Ausblicke; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "Az utolsó ködös szakasz drámai látványt nyújt; maradj mozgásban, hogy ne fázz át a nyirkos időben.",
+                "ro": "Ultima porțiune cețoasă oferă peisaje dramatice; mișcați-vă constant pentru a vă încălzi în aerul umed.",
+                "en": "The final foggy stretch offers dramatic vibes; keep moving continuously to stay warm in the damp air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen hüllt das Tal in eine dicke Schneedecke. Mittags leuchten die Berggipfel herrlich im klaren Winterlicht. Nachmittags werden die Schatten schnell länger und die Kälte nimmt zu. Abends um 17:00 Uhr wird es dunkel und eiskalt.",
+            "hu": "A fagyos reggel vastag hóba burkolja a völgyet. Délben a hegycsúcsok ragyognak a tiszta téli fényben. Délután az árnyékok gyorsan megnőnek, a hideg pedig fokozódik. Este 17:00-ra sötét lesz, és a hőmérséklet drasztikusan zuhan.",
+            "ro": "Dimineața geroasă acoperă valea cu un strat gros de zăpadă. La prânz, vârfurile strălucesc în lumina clară de iarnă. După-amiaza umbrele se lungesc rapid. Seara se întunecă la 17:00 și devine extrem de frig.",
+            "en": "The frosty morning blankets the valley in thick snow. Midday peaks shine brilliantly in the clear winter light. Afternoon shadows lengthen quickly as the cold sets in. Evening falls rapidly by 17:00, bringing freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Gil",
+                "hu": "Sant Gil",
+                "ro": "Sant Gil",
+                "en": "Sant Gil"
+              },
+              "tip_5lang": {
+                "de": "Der Schnee macht diese Kapelle absolut magisch; tragen Sie isolierte Stiefel für den kalten Untergrund.",
+                "hu": "A havas környezet varázslatossá teszi a kápolnát; viselj vastagon bélelt bakancsot a hideg hóban.",
+                "ro": "Împrejurimile înzăpezite fac această capelă magică; purtați cizme izolate pentru zăpada foarte rece.",
+                "en": "The snowy surroundings make this chapel magical; wear heavily insulated boots for the cold snowpack."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Mare de Déu de Núria",
+                "hu": "Mare de Déu de Núria Bazilika",
+                "ro": "Bazilica Mare de Déu de Núria",
+                "en": "Basilica of the Mare de Déu of Núria"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der großen Basilika auf, einem perfekten beheizten Rückzugsort vor dem kalten Wind.",
+                "hu": "Melegedj fel a lenyűgöző bazilikában, ami tökéletes fűtött menedék a metsző hegyi szél elől.",
+                "ro": "Încălziți-vă în marea bazilică, un refugiu perfect și bine încălzit împotriva vântului tăios de munte.",
+                "en": "Warm up inside the grand basilica, a perfect heated escape from the biting mountain wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Núria",
+                "hu": "Núria Kilátó",
+                "ro": "Punct de belvedere Núria",
+                "en": "Núria Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das verschneite Tal; achten Sie auf versteckte Eisflächen am Rand.",
+                "hu": "Élvezd a hófedte völgy tágas panorámáját; ügyelj a perem közelében megbújó alattomos jégfoltokra.",
+                "ro": "Bucurați-vă de vederea panoramică a văii înzăpezite; aveți grijă la peticele de gheață de pe margine.",
+                "en": "Enjoy panoramic views of the snow-covered valley; watch out closely for hidden ice patches on the edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Pferdeschwanz-Wasserfall",
+                "hu": "Lófarok-vízesés",
+                "ro": "Cascada Coada Calului",
+                "en": "Horsetail Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der teils gefrorene Wasserfall ist beeindruckend; Grödel sind auf dem eisigen Pfad sehr zu empfehlen.",
+                "hu": "A félig befagyott vízesés csodás téli látvány; a hómacska vagy csúszásgátló használata erősen ajánlott.",
+                "ro": "Cascada parțial înghețată este uimitoare; colțarii sunt foarte recomandați pentru traseul alunecos.",
+                "en": "The partially frozen waterfall is a stunning winter sight; microspikes are highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Adlergipfel (Pic de l'Àliga)",
+                "hu": "Sas-csúcs (Pic de l'Àliga)",
+                "ro": "Vârful Vulturului (Pic de l'Àliga)",
+                "en": "Eagle Peak (Pic de l'Àliga)"
+              },
+              "tip_5lang": {
+                "de": "Eisige Winde wehen gnadenlos; tragen Sie dicke Schichten und steigen Sie vor dem frühen Sonnenuntergang ab.",
+                "hu": "Fagypont alatti szelek fújnak a csúcson; öltözz vastag rétegekbe, és ereszkedj le a korai sötétedés előtt.",
+                "ro": "Vânturi înghețate bat pe vârf; purtați haine groase și coborâți obligatoriu înainte de apusul devreme.",
+                "en": "Freezing winds sweep the exposed peak; dress in thick layers and descend before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap de Porc",
+                "hu": "Cap de Porc",
+                "ro": "Cap de Porc",
+                "en": "Cap de Porc"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne wirft schöne, lange Schatten; gehen Sie zügig, um nicht im Schatten auszukühlen.",
+                "hu": "Az alacsonyan járó téli nap gyönyörű árnyékokat vet; haladj egyenletesen, hogy ne hűlj ki az árnyékban.",
+                "ro": "Soarele de iarnă creează umbre lungi și frumoase; mențineți un ritm constant pentru a nu vă răci.",
+                "en": "The low winter sun casts beautiful long shadows; keep a steady walking pace to avoid getting too cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a kerékpározást a nagy Bazilikánál, majd látogasson el Sant Gilhez.\n\nA déli tekerés a gyönyörű Mirador de Núria-hoz és a mennydörgő Salt de la Cua de Cavall-hoz vezet.\n\nA délután kihívást jelentő utat kínál a Mirador del Salt del Sastre mellett a Pic de l'Àligáig.\n\nAz este Puig de Fontnegra lélegzetelállító magasságaival és nyugalmával jutalmaz.",
         "ro": "Începeți plimbarea la măreața Bazilică, apoi vizitați Sant Gil.\n\nPedalarea de la prânz vă duce la Mirador de Núria și la zgomotoasa Salt de la Cua de Cavall.\n\nDupă-amiaza vă invită la o plimbare provocatoare pe lângă Mirador del Salt del Sastre până la Pic de l'Àliga.\n\nSeara vă răsplătește cu înălțimile uluitoare și liniștea de la Puig de Fontnegra.",
         "en": "Begin your ride at the grand Basilica, taking time to absorb its history before visiting Sant Gil.\n\nMidday pedaling leads to the beautiful Mirador de Núria and the thundering Salt de la Cua de Cavall.\n\nThe afternoon invites a challenging ride past Mirador del Salt del Sastre up to Pic de l'Àliga.\n\nEvening rewards you with the breathtaking heights and serene silence of Puig de Fontnegra."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein sehr nasser Morgen auf rutschigen Bergpfaden. Mittags machen heftige Schauer die Fahrt zur echten Herausforderung. Nachmittags ist bei nassen Abfahrten absolute Vorsicht geboten. Abends heißt es das Fahrrad putzen und sich drinnen aufwärmen.",
+            "hu": "Kifejezetten nedves reggel a csúszós hegyi ösvényeken. Délben a záporok igazi kihívássá teszik a tekerést. Délután a lejtőkön fokozott fékóvatosság kell. Este jöhet a kerékpártisztítás és a jól megérdemelt benti felmelegedés.",
+            "ro": "O dimineață foarte umedă pe trasee montane alunecoase. La prânz, averselor fac plimbarea o provocare. După-amiaza necesită prudență extremă pe coborâri. Seara înseamnă curățarea bicicletei și încălzire la interior.",
+            "en": "A seriously wet morning ride on slippery mountain trails. Midday heavy showers make the journey a challenge. Afternoon descents require extreme caution on the brakes. Evening means cleaning the bike and warming up indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilika Mare de Déu de Núria",
+                "hu": "Mare de Déu de Núria Bazilika",
+                "ro": "Bazilica Mare de Déu de Núria",
+                "en": "Basilica of the Mare de Déu of Núria"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Fahrt nahe der Basilika und nutzen Sie die großen Bögen bei plötzlichen Schauern als Schutz.",
+                "hu": "Kezdd a túrát a bazilika közelében, és húzódj be a masszív árkádok alá egy hirtelen jövő eső elől.",
+                "ro": "Începeți plimbarea lângă bazilică, folosind arcadele sale mari pentru a scăpa de aversele bruște.",
+                "en": "Start your ride near the basilica, taking a moment under its grand arches to escape sudden showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Gil",
+                "hu": "Sant Gil",
+                "ro": "Sant Gil",
+                "en": "Sant Gil"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet kurzen Schutz; bremsen Sie extrem vorsichtig auf den nassen Pflastersteinen.",
+                "hu": "A kápolna rövid menedéket ad; nagyon óvatosan és lassan fékezz az itteni nedves, csúszós köveken.",
+                "ro": "Capela oferă un scurt adăpost; frânați cu mare grijă pe pietrele pavate extrem de umede de aici.",
+                "en": "The chapel provides brief shelter; be very careful when feathering your brakes on the wet paved stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Núria",
+                "hu": "Núria Kilátó",
+                "ro": "Punct de belvedere Núria",
+                "en": "Núria Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Dicke Wolken hängen tief über dem Tal; greifen Sie den Lenker fest auf dem nassen, rutschigen Weg.",
+                "hu": "A vastag felhők gyakran alacsonyan szállnak; fogd erősen a kormányt a síkos, saras megközelítésnél.",
+                "ro": "Norii groși atârnă adesea jos; țineți bine ghidonul pe porțiunea foarte alunecoasă de la intrare.",
+                "en": "Thick clouds often hang low over the valley; grip your handlebars firmly on the slick muddy approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Pferdeschwanz-Wasserfall",
+                "hu": "Lófarok-vízesés",
+                "ro": "Cascada Coada Calului",
+                "en": "Horsetail Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der starke Regen lässt den Wasserfall anschwellen; achten Sie auf tiefe Schlammpfützen auf dem Trail.",
+                "hu": "Az esőtől a vízesés drámaian megduzzad; fokozottan vigyázz a mély sártócsákra a közeli ösvényen.",
+                "ro": "Ploaia abundentă umflă cascada; aveți grijă la bălțile adânci de noroi de pe traseul din apropiere.",
+                "en": "Heavy rain swells the falls dramatically; beware of unexpectedly deep mud puddles on the trail nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Salt del Sastre",
+                "hu": "Salt del Sastre Kilátó",
+                "ro": "Punct de belvedere Salt del Sastre",
+                "en": "Salt del Sastre Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Kalter Nebel zieht durch die Schlucht; nutzen Sie kleine Gänge und prüfen Sie die Bremsen beim Abstieg.",
+                "hu": "Hideg köd áramlik a szurdokban; használj alacsonyabb fokozatot és teszteld a fékeket a meredek lejtőn.",
+                "ro": "Ceața rece se rotește prin defileu; folosiți viteze mici și verificați frânele pe coborârea udă.",
+                "en": "Cold mist rolls through the gorge; use lower gears and double-check your brakes on the wet descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Adlergipfel (Pic de l'Àliga)",
+                "hu": "Sas-csúcs (Pic de l'Àliga)",
+                "ro": "Vârful Vulturului (Pic de l'Àliga)",
+                "en": "Eagle Peak (Pic de l'Àliga)"
+              },
+              "tip_5lang": {
+                "de": "Der exponierte Weg wird sehr schlammig und glatt; senken Sie den Reifendruck leicht für mehr Grip.",
+                "hu": "A kitett ösvény nagyon sáros és síkos lesz; engedj ki egy picit a guminyomásból a jobb tapadásért.",
+                "ro": "Traseul expus devine foarte noroios; reduceți ușor presiunea în anvelope pentru o tracțiune mai bună.",
+                "en": "The exposed trail gets very muddy and slick; lower your tire pressure slightly for better wet traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de Fontnegra",
+                "hu": "Puig de Fontnegra",
+                "ro": "Puig de Fontnegra",
+                "en": "Puig de Fontnegra"
+              },
+              "tip_5lang": {
+                "de": "Große Höhe bedeutet eiskalten Regen; tragen Sie zwingend eine helle Regenjacke für gute Sichtbarkeit.",
+                "hu": "A nagy magasság jéghideg esőt jelent; viselj feltűnő színű vízálló kabátot, hogy jól lássanak a ködben.",
+                "ro": "Altitudinea mare aduce ploaie extrem de rece; purtați o jachetă impermeabilă strălucitoare pentru a fi văzuți.",
+                "en": "High altitude means freezing rain; wear a bright, fully waterproof cycling jacket for visibility in fog."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Morgenluft verlangt absolut warme Handschuhe. Mittags blendet die Sonne stark auf dem blendenden Schnee. Nachmittags kühlt es rasant ab, sobald die Schatten fallen. Abends um 17:00 Uhr gefrieren die Trails zu gefährlichem Eis.",
+            "hu": "A fagyos reggeli levegő vastag, meleg kesztyűt kíván. Délben a nap vakítóan süt a hómezőkön. Délután hirtelen lehűl a levegő, ahogy nőnek az árnyékok. Este 17:00-ra az ösvények kőkemény és veszélyes jéggé fagynak.",
+            "ro": "Aerul rece de dimineață cere mănuși foarte groase. La prânz, soarele strălucește orbitor pe zăpadă. După-amiaza se răcește brusc în umbră. Seara la 17:00, traseele îngheață solid și devin periculoase.",
+            "en": "Frosty morning air demands thick, warm gloves. Midday sun glares blindingly off the white snow. Afternoon temperatures plummet rapidly in the shadows. Evening arrives by 17:00, freezing the trails solid and slick."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilika Mare de Déu de Núria",
+                "hu": "Mare de Déu de Núria Bazilika",
+                "ro": "Bazilica Mare de Déu de Núria",
+                "en": "Basilica of the Mare de Déu of Núria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Areal der großen Basilika intensiv zum Aufwärmen, bevor es in die extrem kalte Bergluft geht.",
+                "hu": "Használd a bazilika környékét alapos bemelegítésre, mielőtt nekivágsz a metszően hideg hegyi levegőnek.",
+                "ro": "Folosiți zona bazilicii pentru a vă încălzi bine mușchii înainte de a înfrunta aerul foarte rece de munte.",
+                "en": "Use the basilica area to thoroughly warm up your muscles before tackling the freezing cold mountain air."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Gil",
+                "hu": "Sant Gil",
+                "ro": "Sant Gil",
+                "en": "Sant Gil"
+              },
+              "tip_5lang": {
+                "de": "Ein malerischer Stopp im tiefen Schnee; prüfen Sie unbedingt Ihr Winterprofil für die frostigen Wege.",
+                "hu": "Festői havas megálló; mindenképp ellenőrizd, hogy a gumiknak van-e elég mély téli mintázata a fagyos útra.",
+                "ro": "O oprire pitorească în zăpadă; asigurați-vă absolut că anvelopele au profil adânc de iarnă pentru poteci.",
+                "en": "A picturesque snowy stop; absolutely ensure your tires have deep winter tread for the frosty paths ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Núria",
+                "hu": "Núria Kilátó",
+                "ro": "Punct de belvedere Núria",
+                "en": "Núria Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene See tief unten ist wunderschön; achten Sie besonders auf gefährliches Blitzeis auf dem Weg.",
+                "hu": "A mélyben fekvő befagyott tó gyönyörű látvány; nagyon vigyázz a veszélyes tükörjégre ezen az útszakaszon.",
+                "ro": "Lacul înghețat de jos este o priveliște superbă; aveți mare grijă la gheața neagră periculoasă de pe traseu.",
+                "en": "The frozen lake below is a beautiful sight; keep a sharp eye out for dangerous black ice on the trail here."
+              }
+            },
+            {
+              "name": {
+                "de": "Pferdeschwanz-Wasserfall",
+                "hu": "Lófarok-vízesés",
+                "ro": "Cascada Coada Calului",
+                "en": "Horsetail Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Die bizarren Eisformationen sind unglaublich; steigen Sie ab und schieben Sie das Rad, wenn der Weg eisig wird.",
+                "hu": "A vízesés körüli jégképződmények lenyűgözők; szállj le és told a bringát, ha az ösvény túlságosan jeges.",
+                "ro": "Formațiunile de gheață sunt incredibile; coborâți și mergeți pe lângă bicicletă dacă drumul e prea alunecos.",
+                "en": "Ice formations around the falls are incredible; dismount and walk your bike if the path becomes too icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Salt del Sastre",
+                "hu": "Salt del Sastre Kilátó",
+                "ro": "Punct de belvedere Salt del Sastre",
+                "en": "Salt del Sastre Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Eisige Winterwinde können hier extrem heftig sein; tragen Sie eine winddichte Maske und bleiben Sie in Fahrt.",
+                "hu": "A téli szelek kíméletlenek lehetnek a szurdokban; viselj szélálló arcmaszkot és ne állj meg sokáig pihenni.",
+                "ro": "Vânturile de iarnă pot fi extrem de feroce aici; purtați o mască rezistentă la vânt și continuați să pedalați.",
+                "en": "Winter winds can be fiercely cold at this gorge; wear a windproof face mask and keep moving to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Adlergipfel (Pic de l'Àliga)",
+                "hu": "Sas-csúcs (Pic de l'Àliga)",
+                "ro": "Vârful Vulturului (Pic de l'Àliga)",
+                "en": "Eagle Peak (Pic de l'Àliga)"
+              },
+              "tip_5lang": {
+                "de": "Hohe Schneeverwehungen verengen den schmalen Weg; bleiben Sie strikt auf gut sichtbaren, festen Pfaden.",
+                "hu": "A hóátfúvások szűkíthetik a keskeny ösvényt; maradj szigorúan a látható nyomokon a mély hó elkerülése végett.",
+                "ro": "Troienele de zăpadă pot îngusta mult traseul; rămâneți strict pe potecile vizibile și evitați zăpada adâncă.",
+                "en": "Snowdrifts might significantly narrow the trail; stick strictly to visible paths and avoid the deep snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de Fontnegra",
+                "hu": "Puig de Fontnegra",
+                "ro": "Puig de Fontnegra",
+                "en": "Puig de Fontnegra"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne geht sehr früh unter und es wird sofort eiskalt; beginnen Sie den langen Abstieg zwingend bis 15:30.",
+                "hu": "A nap nagyon korán nyugszik, fagyosra hűtve a csúcsot; legkésőbb 15:30-kor kötelező elkezdeni a lejtmenetet.",
+                "ro": "Soarele apune devreme, aducând brusc temperaturi de îngheț; începeți coborârea lungă obligatoriu până la 15:30.",
+                "en": "The sun sets early, plunging the peak into freezing temps; it's mandatory to start descending by 15:30."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Indítsa el autóját Sant Gil és a nagy Bazilika közelében egy kulturális reggelhez.\n\nDélben vezessen a Mirador del Salt del Sastre vízesése felé, és gyönyörködjön a zord tájban.\n\nA délutáni emelkedők a Puig de Fontnegra és a Cim del Ras magaslataihoz visznek.\n\nFejezze be a vezetést, ahogy az esti árnyékok ráereszkednek a Cap de Porc-ra.",
         "ro": "Porniți motorul lângă Sant Gil și măreața Bazilică pentru o dimineață culturală.\n\nPână la prânz, conduceți spre cascadele vizibile de la Mirador del Salt del Sastre.\n\nAscensiunile de după-amiază vă aduc aproape de înălțimile sublime de la Puig de Fontnegra și Cim del Ras.\n\nÎncheiați-vă turul auto pe măsură ce umbrele serii se întind peste Cap de Porc.",
         "en": "Start your engine near Sant Gil and the grand Basilica for a cultural morning dip.\n\nBy midday, drive toward the cascading waters visible from Mirador del Salt del Sastre, embracing the rugged landscape.\n\nAfternoon ascents bring you near the sublime heights of Puig de Fontnegra and Cim del Ras.\n\nConclude your driving tour as evening shadows stretch over Cap de Porc."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendlicher dichter Nebel erfordert sofort das Abblendlicht. Mittags bleiben die Stopps wegen des anhaltenden Regens eher kurz. Nachmittags droht erhöhtes Aquaplaning auf nassen Bergstraßen. Abends heißt es langsam und sicher ins Tal zurückkehren.",
+            "hu": "A sűrű reggeli köd azonnal tompított fényszórót igényel. Délben a folyamatos eső miatt jóval rövidebbek a megállók. Délután a nedves hegyi utakon nagy a vízre felúszás veszélye. Este lassan és óvatosan térj vissza a bázisra.",
+            "ro": "Ceața densă de dimineață necesită faruri aprinse imediat. La prânz opririle sunt foarte scurte din cauza ploii continue. După-amiaza străzile montane umede prezintă risc de acvaplanare. Seara întoarceți-vă lent și în siguranță.",
+            "en": "Dense morning fog requires low-beam headlights immediately. Midday stops are kept short due to the relentless heavy rain. Afternoon mountain roads pose a serious hydroplaning risk. Evening means a slow, safe return down to base."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Gil",
+                "hu": "Sant Gil",
+                "ro": "Sant Gil",
+                "en": "Sant Gil"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie ganz in der Nähe und gehen Sie mit Regenschirm zur Kapelle, um dem starken Nieselregen zu entgehen.",
+                "hu": "Parkolj a lehető legközelebb, és egy esernyővel gyorsan sétálj át a kápolnához, hogy elkerüld az erős szitálást.",
+                "ro": "Parcați foarte aproape și mergeți rapid la capelă cu o umbrelă mare pentru a evita burnița puternică.",
+                "en": "Park very close by and take a quick walk to the chapel under a sturdy umbrella to avoid the heavy drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Mare de Déu de Núria",
+                "hu": "Mare de Déu de Núria Bazilika",
+                "ro": "Bazilica Mare de Déu de Núria",
+                "en": "Basilica of the Mare de Déu of Núria"
+              },
+              "tip_5lang": {
+                "de": "Vom nahen Parkplatz aus können Sie schnell hineinhuschen, um das trockene und ruhige Innere zu genießen.",
+                "hu": "A közeli parkolóból gyorsan beszaladhatsz, hogy zavartalanul élvezd a bazilika száraz, békés belső terét.",
+                "ro": "Din parcarea apropiată puteți intra rapid pentru a vă bucura de interiorul complet uscat și liniștit.",
+                "en": "The nearby parking area lets you dash inside quickly to enjoy the delightfully dry, peaceful interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Salt del Sastre",
+                "hu": "Salt del Sastre Kilátó",
+                "ro": "Punct de belvedere Salt del Sastre",
+                "en": "Salt del Sastre Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Scheibenwischer laufen; genießen Sie die neblige Schlucht ganz bequem aus dem warmen Auto.",
+                "hu": "Járasd az ablaktörlőt; élvezd a hangulatos, ködös szurdok látványát kényelmesen a fűtött, száraz autóból.",
+                "ro": "Păstrați ștergătoarele pornite; admirați defileul cețos foarte confortabil direct din mașina caldă.",
+                "en": "Keep your wipers running; enjoy the moody, fog-filled gorge directly from the comfort of the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de Fontnegra",
+                "hu": "Puig de Fontnegra",
+                "ro": "Puig de Fontnegra",
+                "en": "Puig de Fontnegra"
+              },
+              "tip_5lang": {
+                "de": "Die extrem hohen Straßen können wolkenverhangen sein; fahren Sie sehr langsam und nutzen Sie Nebelscheinwerfer.",
+                "hu": "A magasan fekvő utakat sűrű felhők takarhatják; vezess nagyon lassan, használj ködlámpát és figyeld az út szélét.",
+                "ro": "Drumurile înalte pot fi ascunse de nori denși; conduceți foarte încet și folosiți farurile de ceață obligatoriu.",
+                "en": "High-altitude roads may be partially obscured by clouds; drive slowly, use fog lights, and watch the edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Cim del Ras",
+                "hu": "Cim del Ras",
+                "ro": "Cim del Ras",
+                "en": "Cim del Ras"
+              },
+              "tip_5lang": {
+                "de": "Der starke Regen lässt die grüne Landschaft erstrahlen; achten Sie jedoch auf Steinschlag auf den nassen Straßen.",
+                "hu": "Az esőtől a táj mélyzölddé válik; ugyanakkor fokozottan figyelj az apróbb kőomlásokra a nedves hegyi utakon.",
+                "ro": "Ploaia face peisajul verde vibrant; totuși, fiți foarte atenți la căderile de pietre pe drumurile umede.",
+                "en": "The rain makes the landscape vibrant green; however, keep a sharp eye out for rockfalls on the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap de Porc",
+                "hu": "Cap de Porc",
+                "ro": "Cap de Porc",
+                "en": "Cap de Porc"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher an, um die dramatischen Sturmwolken über den Pyrenäen zu beobachten, bevor Sie zurückfahren.",
+                "hu": "Húzódj le egy biztonságos öbölbe, és nézd meg a Pireneusok felett átvonuló drámai viharfelhőket az ablakból.",
+                "ro": "Trageți pe dreapta în siguranță pentru a vedea norii furtunoși dramatici peste Pirinei înainte de a vă întoarce.",
+                "en": "Pull over safely to see the dramatic stormy clouds rolling over the Pyrenees before heading back down."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eisige Straßen erfordern morgens zwingend gute Winterreifen. Mittags glitzert der Schnee traumhaft im Sonnenlicht. Nachmittags zieht die extreme Kälte in die Täler hinab. Abends um 17:00 Uhr wird es stockdunkel und auf den Passstraßen gefährlich glatt.",
+            "hu": "A jeges hegyi utak reggel kötelezően téli gumit követelnek. Délben a hó csodásan szikrázik a napfényben. Délután az extrém hideg behúzódik a völgyekbe. Este 17:00-kor besötétedik, és a szerpentineken veszélyesen csúszóssá válik minden.",
+            "ro": "Drumurile înghețate cer obligatoriu anvelope de iarnă bune dimineața. La prânz zăpada strălucește superb. După-amiaza frigul extrem coboară în văi. Seara la 17:00 se întunecă complet și devine periculos de alunecos.",
+            "en": "Icy mountain roads strictly demand winter tires in the morning. Midday snow sparkles beautifully in the sun. Afternoon extreme cold settles into the valleys. Evening falls by 17:00, making mountain passes pitch black and dangerously slick."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Gil",
+                "hu": "Sant Gil",
+                "ro": "Sant Gil",
+                "en": "Sant Gil"
+              },
+              "tip_5lang": {
+                "de": "Selbst der kurze Fußweg vom Auto ist eiskalt; lassen Sie den Motor vorwärmen und tragen Sie draußen dicke Handschuhe.",
+                "hu": "Az autótól a rövid séta is dermesztő; tartsd melegen a motort, és viselj nagyon vastag kesztyűt kint.",
+                "ro": "Chiar și scurta plimbare de la mașină este înghețată; păstrați motorul cald și purtați mănuși foarte groase.",
+                "en": "Even the short walk from the car is freezing; keep the engine warm and wear extremely thick gloves outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Mare de Déu de Núria",
+                "hu": "Mare de Déu de Núria Bazilika",
+                "ro": "Bazilica Mare de Déu de Núria",
+                "en": "Basilica of the Mare de Déu of Núria"
+              },
+              "tip_5lang": {
+                "de": "Das herrlich beheizte Innere ist eine tolle Pause vom kalten Auto; prüfen Sie hier online die Straßenverhältnisse.",
+                "hu": "A fűtött belső tér remek pihenő a hideg autó után; amíg bent melegszel, ellenőrizd az aktuális útviszonyokat.",
+                "ro": "Interiorul bine încălzit este o pauză excelentă de la frigul din mașină; verificați starea drumurilor online aici.",
+                "en": "The wonderfully heated interior is a great break from the cold car; check local road conditions while inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Salt del Sastre",
+                "hu": "Salt del Sastre Kilátó",
+                "ro": "Punct de belvedere Salt del Sastre",
+                "en": "Salt del Sastre Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Tief verschneite Hänge umgeben die enge Straße; stellen Sie sicher, dass Sie griffbereit Schneeketten dabei haben.",
+                "hu": "Mély hóval borított lejtők övezik a szűk utat; feltétlenül győződj meg róla, hogy van a csomagtartóban hólánc.",
+                "ro": "Pante adânc acoperite de zăpadă înconjoară drumul îngust; asigurați-vă absolut că aveți lanțuri de zăpadă la îndemână.",
+                "en": "Deep snow-covered slopes surround the narrow road; absolutely ensure you have snow chains equipped if required."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de Fontnegra",
+                "hu": "Puig de Fontnegra",
+                "ro": "Puig de Fontnegra",
+                "en": "Puig de Fontnegra"
+              },
+              "tip_5lang": {
+                "de": "Die Höhenwinde hier oben sind extrem beißend; steigen Sie nur kurz für ein Foto aus und heizen Sie dann schnell auf.",
+                "hu": "A magassági szél itt fent metszően hideg; csak egy gyors fotóra szállj ki, majd azonnal menekülj a fűtött utastérbe.",
+                "ro": "Vânturile de aici sus sunt extrem de tăioase; ieșiți foarte scurt pentru o fotografie, apoi întoarceți-vă la căldură.",
+                "en": "The high-altitude winds up here are biting; step out briefly for a quick photo, then immediately retreat to the heater."
+              }
+            },
+            {
+              "name": {
+                "de": "Cim del Ras",
+                "hu": "Cim del Ras",
+                "ro": "Cim del Ras",
+                "en": "Cim del Ras"
+              },
+              "tip_5lang": {
+                "de": "Gefährliches Blitzeis ist in diesen schattigen Kurven sehr häufig; fahren Sie extrem langsam und bremsen Sie nie abrupt.",
+                "hu": "Ezekben a mély árnyékos kanyarokban gyakori a tükörjég; vezess extrém lassan, motorfékkel, és soha ne fékezz hirtelen.",
+                "ro": "Gheața neagră periculoasă este comună în aceste curbe umbrite; conduceți extrem de încet și nu frânați brusc.",
+                "en": "Dangerous black ice is common in these deeply shaded mountain curves; drive at a crawl and never brake suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap de Porc",
+                "hu": "Cap de Porc",
+                "ro": "Cap de Porc",
+                "en": "Cap de Porc"
+              },
+              "tip_5lang": {
+                "de": "Der eisige Sonnenuntergang über den Gipfeln ist toll, aber fahren Sie bald ab, da es pünktlich um 17:00 Uhr stockdunkel wird.",
+                "hu": "A fagyos naplemente a havas csúcsok felett lenyűgöző, de indulj vissza hamar, mert 17:00-ra teljesen és veszélyesen besötétedik.",
+                "ro": "Apusul înghețat peste vârfurile înzăpezite este uimitor, dar plecați rapid, deoarece se întunecă complet la 17:00 fix.",
+                "en": "The freezing sunset over the snowy peaks is stunning, but leave promptly as it gets very dark and dangerous by 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -183,6 +183,224 @@
         "hu": "A napot a történelmi központban kezdjük, egy kellemes sétával az elegáns Fontana De Torres-től a barokk Chiesa dell'Annunziata templomig. Délelőtt elérjük a vízpartot, ahol a Monumento a Virgilio a régi költészetet idézi, majd a Loggia del Palazzo Balsamo építészeti csodái következnek. A delet a művészetnek szenteljük a Pinacoteca galériában, mielőtt megcsodálnánk a Tempio di San Giovanni al Sepolcro misztikus kör alakú építészetét. Gyalogos túránkat a hatalmas Italian Sailor Monumentnél zárjuk, élvezve a kikötőre nyíló páratlan kilátást.",
         "ro": "Începem ziua în inima istorică a orașului cu o plimbare plăcută de la eleganta Fontana De Torres la baroca Chiesa dell'Annunziata. Spre prânz, ajungem la apă unde Monumento a Virgilio amintește de poezia antică, urmat de minunile arhitecturale de la Loggia del Palazzo Balsamo. Dedicăm miezul zilei artei la Pinacoteca, înainte de a admira arhitectura mistică de la Tempio di San Giovanni al Sepolcro. Ne încheiem explorarea pietonală la masivul Italian Sailor Monument, cu o vedere panoramică superbă asupra întregului port.",
         "en": "We start the day in the historical heart with a gentle stroll from the elegant Fontana De Torres to the baroque Chiesa dell'Annunziata. By late morning, we reach the water where Monumento a Virgilio recalls ancient poetry, followed by the architectural wonders of Loggia del Palazzo Balsamo. Midday is dedicated to local art at the Pinacoteca before admiring the mystical architecture of Tempio di San Giovanni al Sepolcro. We conclude our walking exploration at the massive Italian Sailor Monument with a sweeping view over the bustling harbor."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang beginnt an der Fontana De Torres, während Regen auf den Hafen peitscht; suchen Sie Schutz unter den Arkaden. Mittags bieten die Kirchen trockene Zuflucht; achten Sie auf das rutschige Kopfsteinpflaster in der Altstadt. Der Nachmittag gehört der Pinakothek, dem perfekten Ort, um Güssen zu entgehen. Abends spiegeln die nassen Gassen das Licht wider; ideal für ein Heißgetränk.",
+            "hu": "A séta a Fontana De Torresnél indul, miközben az eső kopog a kikötő kövein; keressen menedéket a közeli árkádok alatt. Délben a templomok nyújtanak száraz pihenőt, de vigyázzon a csúszós mészkőburkolattal. Délután a Pinacoteca termeiben vészelheti át a záport. Este a vizes aszfalton megcsillanó városi fények látványa kárpótolja a nedves időért; fejezze be a napot egy forró teával.",
+            "ro": "Turul începe la Fontana De Torres, cu ploaia căzând peste port; adăpostiți-vă sub arcadele din apropiere. La prânz, bisericile oferă un refugiu uscat, dar atenție la pavajul alunecos din centrul vechi. După-amiaza este ideală pentru Pinacotecă, evitând astfel aversele puternice. Seara, luminile orașului se reflectă superb în bălți; încheiați ziua într-o cafenea călduroasă.",
+            "en": "Start at Fontana De Torres as rain hits the harbor; find shelter under the nearby historic porticoes. At noon, the churches provide a dry sanctuary, but be careful on the slippery limestone streets. Spend the afternoon in the Pinacoteca to avoid the heavy downpours. In the evening, the wet streets reflect the city lights beautifully; it is the perfect time for a warm drink indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fontana De Torres",
+                "hu": "Fontana De Torres",
+                "ro": "Fontana De Torres",
+                "en": "Fontana De Torres"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diesen Barockbrunnen vom Schutz der nahen Arkaden aus; der dunkle Stein wirkt bei Regen besonders dramatisch und historisch.",
+                "hu": "Csodálja meg a barokk kutat a közeli árkádok védelméből; a nedves kő sötétebb és drámaibb látványt nyújt az esős, párás időben.",
+                "ro": "Admirați această fântână barocă de la adăpostul arcadelor din apropiere; piatra udă pare mai întunecată și mai dramatică sub ploaie.",
+                "en": "Admire this baroque fountain from the shelter of nearby arches; the wet stone looks darker and more dramatic against the gray sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine besinnliche Pause im Trockenen; die sakrale Akustik ist bei prasselndem Regen draußen besonders intensiv.",
+                "hu": "Használja ki a belső teret egy száraz pihenőre; a kinti eső kopogása mellett a templom szakrális csendje még intenzívebb élményt ad.",
+                "ro": "Folosiți interiorul pentru o pauză liniștită la uscat; acustica sacră este deosebit de intensă în timp ce ploaia bate în geamuri.",
+                "en": "Use the interior for a peaceful dry break; the sacred acoustics feel especially intense while the rain patters against the ancient roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Virgilio",
+                "hu": "Monumento a Virgilio",
+                "ro": "Monumento a Virgilio",
+                "en": "Monumento a Virgilio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zu Ehren des Dichters; halten Sie den Schirm gut fest, da der Wind hier am Hafen bei Regen oft stark auffrischt.",
+                "hu": "Rövid megálló a költő tiszteletére; fogja szorosan az esernyőjét, mert a kikötőnél a szél gyakran felerősödik az eső megérkezésekor.",
+                "ro": "O scurtă oprire în cinstea poetului; țineți bine umbrela, deoarece vântul de lângă port tinde să se intensifice în timpul ploii.",
+                "en": "A quick stop to honor the poet; hold your umbrella tightly as the wind near the harbor often picks up during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Loggia del Palazzo Balsamo",
+                "hu": "Loggia del Palazzo Balsamo",
+                "ro": "Loggia del Palazzo Balsamo",
+                "en": "Loggia del Palazzo Balsamo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die feinen gotischen Details von der gegenüberliegenden geschützten Seite; die Schnitzereien leuchten im diffusen Regenlicht.",
+                "hu": "Tekintse meg a gótikus részleteket a szemközti védett oldalról; a faragványok különlegesen csillognak a szórt, esős fényviszonyok között.",
+                "ro": "Observați detaliile gotice fine de pe partea protejată de vizavi; sculpturile strălucesc aparte în lumina difuză a zilei ploioase.",
+                "en": "View the fine Gothic details from the sheltered side across the street; the carvings glisten beautifully in the soft, rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinacoteca Comunale “Armando Scivales”",
+                "hu": "Pinacoteca Comunale “Armando Scivales”",
+                "ro": "Pinacoteca Comunale “Armando Scivales”",
+                "en": "Pinacoteca Comunale “Armando Scivales”"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Zufluchtsort; planen Sie hier mehr Zeit ein, um die lokale Kunst wetterunabhängig und im Warmen zu genießen.",
+                "hu": "Tökéletes menedék; tervezzen ide hosszabb látogatást, hogy az időjárástól függetlenül, szárazon élvezhesse a helyi művészeti kincseket.",
+                "ro": "Refugiul perfect; planificați mai mult timp aici pentru a vă bucura de arta locală la căldură, departe de intemperiile de afară.",
+                "en": "The perfect refuge; plan for a longer visit here to enjoy local art independently of the weather in a dry, comfortable setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di San Giovanni al Sepolcro",
+                "hu": "Tempio di San Giovanni al Sepolcro",
+                "ro": "Tempio di San Giovanni al Sepolcro",
+                "en": "Tempio di San Giovanni al Sepolcro"
+              },
+              "tip_5lang": {
+                "de": "Dieser runde Tempel bietet kompletten Schutz; die mystische Atmosphäre wird durch das ferne Grollen des Gewitters über dem Meer verstärkt.",
+                "hu": "Ez a kerek templom teljes védelmet nyújt; a misztikus hangulatot csak fokozza a tenger felől beszűrődő távoli vihar morajlása.",
+                "ro": "Acest templu rotund oferă protecție completă; atmosfera mistică este sporită de sunetul ploii care cade pe zidurile antice de piatră.",
+                "en": "This circular temple offers complete protection; the mystical atmosphere is enhanced by the sound of rain hitting the ancient stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Italian Sailor Monument",
+                "hu": "Italian Sailor Monument",
+                "ro": "Italian Sailor Monument",
+                "en": "Italian Sailor Monument"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das neblige Meer ist melancholisch schön; tragen Sie eine wetterfeste Jacke, da die Gischt hier hochspritzen kann.",
+                "hu": "A kilátás a ködös tengerre melankolikusan szép; viseljen vízálló kabátot, mert a szél itt gyakran behordja a permetet a víz felől.",
+                "ro": "Vederea spre marea cețoasă este melancolic de frumoasă; purtați o jachetă impermeabilă, deoarece vântul poate aduce stropi dinspre mare.",
+                "en": "The view of the misty sea is melancholically beautiful; wear a waterproof jacket as the wind often blows spray from the harbor."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Hafen belebt den Morgen an der Fontana De Torres. Mittags wärmen Sie sich in den dicken Mauern der Kirchen und Museen auf, während die tiefstehende Sonne lange Schatten wirft. Da es bereits gegen 17:00 Uhr dunkel wird, besuchen Sie das Seemannsdenkmal früh. Abends lockt das beleuchtete Zentrum mit seiner gemütlichen, kühlen Atmosphäre.",
+            "hu": "A friss téli levegő felfrissíti a reggelt a Fontana De Torresnél. Délben melegedjen fel a templomok és múzeumok vastag falai között, miközben az alacsonyan járó nap hosszú árnyékokat vet. Mivel 17:00 körül sötétedik, a tengerész emlékművet érdemes korábban felkeresni. Este a kivilágított belváros hangulatos, hűvös nyugalma várja.",
+            "ro": "Aerul proaspăt de iarnă revigorează dimineața la Fontana De Torres. La prânz, încălziți-vă între zidurile groase ale bisericilor și muzeelor, sub soarele palid. Deoarece întunericul se lasă în jurul orei 17:00, vizitați monumentul marinarilor devreme. Seara, centrul iluminat oferă o atmosferă primitoare și răcoroasă.",
+            "en": "Crisp winter air revives the morning at Fontana De Torres. At noon, warm up within the thick walls of churches and museums as the low sun casts long shadows. Since sunset is around 5 PM, visit the Sailor Monument early to catch the last light. In the evening, the illuminated historic center offers a cozy, chilled atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fontana De Torres",
+                "hu": "Fontana De Torres",
+                "ro": "Fontana De Torres",
+                "en": "Fontana De Torres"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenkälte lässt den Brunnen glänzen; tragen Sie Handschuhe für Fotos, da das Metall und der Stein im Winter sehr kalt sind.",
+                "hu": "A reggeli hidegben a kút szinte ragyog; viseljen kesztyűt a fotózáshoz, mert a fém és a kő felületek ilyenkor jéghidegek.",
+                "ro": "Frigul dimineții face fântâna să strălucească; purtați mănuși pentru fotografii, deoarece metalul și piatra sunt foarte reci iarna.",
+                "en": "The morning frost makes the fountain shine; wear gloves for photos as the metal and stone surfaces are very cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem beißenden Seewind zu entfliehen; die dicken Mauern halten die Winterkälte für eine Weile effektiv draußen.",
+                "hu": "Ideális hely a metsző tengeri szél elől; a vastag falak egy időre hatékonyan kizárják a téli fagyot, míg ön a freskókat csodálja.",
+                "ro": "Un loc ideal pentru a scăpa de vântul tăios al mării; zidurile groase țin eficient frigul iernii la distanță pentru o vreme.",
+                "en": "An ideal place to escape the biting sea wind; the thick walls effectively keep the winter chill at bay while you admire the art."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Virgilio",
+                "hu": "Monumento a Virgilio",
+                "ro": "Monumento a Virgilio",
+                "en": "Monumento a Virgilio"
+              },
+              "tip_5lang": {
+                "de": "Das flache Winterlicht betont die Texturen des Denkmals; besuchen Sie es mittags, wenn die Sonne am höchsten steht und wärmt.",
+                "hu": "A lapos téli fény kiemeli az emlékmű textúráit; délidőben látogassa meg, amikor a nap a legmagasabban jár és némi meleget ad.",
+                "ro": "Lumina joasă de iarnă scoate în evidență texturile monumentului; vizitați-l la prânz, când soarele este sus și oferă puțină căldură.",
+                "en": "The low winter light emphasizes the monument's textures; visit at noon when the sun is highest to enjoy a bit of warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Loggia del Palazzo Balsamo",
+                "hu": "Loggia del Palazzo Balsamo",
+                "ro": "Loggia del Palazzo Balsamo",
+                "en": "Loggia del Palazzo Balsamo"
+              },
+              "tip_5lang": {
+                "de": "Die fehlenden Touristenmassen machen den Besuch im Winter friedlich; genießen Sie die Architektur ohne Eile in der klaren Luft.",
+                "hu": "A téli tömeg hiánya miatt a látogatás békés; élvezze az építészetet kapkodás nélkül a tiszta, hideg téli levegőben.",
+                "ro": "Lipsa mulțimilor de turiști face vizita de iarnă foarte liniștită; bucurați-vă de arhitectură fără grabă în aerul curat.",
+                "en": "The lack of tourist crowds makes a winter visit peaceful; enjoy the architecture without haste in the clear, crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinacoteca Comunale “Armando Scivales”",
+                "hu": "Pinacoteca Comunale “Armando Scivales”",
+                "ro": "Pinacoteca Comunale “Armando Scivales”",
+                "en": "Pinacoteca Comunale “Armando Scivales”"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Aufwärmstopp zur Mittagszeit; die klimatisierten Räume bieten eine willkommene Pause von der kühlen Meeresbrise.",
+                "hu": "Tökéletes melegedőhely délidőben; a temperált belső terek kellemes pihenőt nyújtanak a hűvös tengeri szél után.",
+                "ro": "Un loc perfect pentru a vă încălzi la prânz; spațiile climatizate oferă o pauză binevenită de briza răcoroasă a mării.",
+                "en": "A perfect warm-up stop at midday; the climate-controlled rooms provide a welcome break from the chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Tempio di San Giovanni al Sepolcro",
+                "hu": "Tempio di San Giovanni al Sepolcro",
+                "ro": "Tempio di San Giovanni al Sepolcro",
+                "en": "Tempio di San Giovanni al Sepolcro"
+              },
+              "tip_5lang": {
+                "de": "Die antike Stille wirkt im Winterlicht noch mystischer; der geschlossene Raum schützt Sie hervorragend vor Windböen.",
+                "hu": "Az ősi csend a téli fényben még misztikusabbnak hat; a zárt belső tér kiválóan megvédi önt a hirtelen feltámadó széllökésektől.",
+                "ro": "Liniștea antică pare și mai mistică în lumina iernii; spațiul închis vă protejează excelent de rafalele de vânt.",
+                "en": "The ancient silence feels even more mystical in winter light; the enclosed space protects you excellently from wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Italian Sailor Monument",
+                "hu": "Italian Sailor Monument",
+                "ro": "Italian Sailor Monument",
+                "en": "Italian Sailor Monument"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 17:00 Uhr; bringen Sie eine dicke Jacke mit, da es nach dem Lichtwechsel rasch abkühlt.",
+                "hu": "Nézze meg a korai naplementét 17:00 körül; vigyen vastag kabátot, mert a naplemente után a hőmérséklet hirtelen leesik a vízparton.",
+                "ro": "Priviți apusul devreme, în jurul orei 17:00; aduceți o jachetă groasă, deoarece temperatura scade brusc după lăsarea serii.",
+                "en": "Witness the early sunset around 5 PM; bring a heavy coat as the temperature drops sharply by the waterfront after dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +532,168 @@
         "hu": "Sportosan indítunk egy frissítő kerékpártúrával a Parco Costiero Punta del Serrone parkban, élvezve a sós tengeri levegőt. Később délelőtt elérjük a lenyűgöző Santa Maria del Casale templomot, melynek kétszínű homlokzata ragyog a napsütésben. Ezután leereszkedünk a forgalmas kikötőbe, hogy megcsodáljuk az impozáns Italian Sailor Monumentet. Délután elhaladunk a történelmi Statua di San Teodoro d'Amasea mellett, majd túránk egy felejthetetlen tekeréssel zárul a Forte a Mare, a hatalmas tengeri erőd felé.",
         "ro": "Începem energic cu o plimbare revigorantă cu bicicleta prin Parco Costiero Punta del Serrone, bucurându-ne de aerul sărat al mării. Mai târziu în cursul dimineții, ajungem la fascinanta biserică Santa Maria del Casale, a cărei fațadă în două culori strălucește în soare. Coborâm apoi spre portul plin de viață pentru a admira impunătorul Italian Sailor Monument. După-amiaza trecem pe lângă istorica Statua di San Teodoro d'Amasea, înainte ca turul nostru să se încheie cu o plimbare memorabilă spre Forte a Mare, fortăreața maritimă.",
         "en": "We kick off actively with a refreshing morning ride through Parco Costiero Punta del Serrone, soaking in the pristine coastal atmosphere. Later, we pedal inland to the striking Santa Maria del Casale, an architectural gem with its unique two-tone facade. The route then sweeps down to the harbor to greet the towering Italian Sailor Monument. In the afternoon, we pause at the historical Statua di San Teodoro d'Amasea before finishing with an unforgettable ride across the water to the massive sea fortress, Forte a Mare."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren an der Küste erfordert bei Regen gute Kleidung; Vorsicht vor rutschigem Schlamm bei Punta del Serrone. Mittags bietet Santa Maria del Casale eine trockene Pause unter gotischen Bögen. Der Weg zum Seemannsdenkmal ist exponiert, halten Sie den Kopf gesenkt. Abends können Küstenwinde stark sein; beenden Sie die Tour früh und prüfen Sie Ihre Bremsen auf nasser Fahrbahn.",
+            "hu": "A parti kerékpározás esőben komoly öltözetet igényel; vigyázzon a csúszós sárral Punta del Serrone környékén. Délben Santa Maria del Casale nyújt száraz pihenőt a gótikus ívek alatt. Az emlékmű felé vezető út nyitott, húzza szorosra a kapucnit. Este a parti szél felerősödhet; fejezze be korábban a túrát, és tesztelje a fékeket a vizes aszfalton.",
+            "ro": "Ciclismul pe coastă necesită haine adecvate pe ploaie; atenție la noroiul alunecos lângă Punta del Serrone. La prânz, Santa Maria del Casale oferă o pauză uscată sub arcadele gotice. Drumul spre monument este expus, țineți gluga strânsă. Seara, vântul de coastă poate fi puternic; încheiați turul devreme și verificați frânele pe asfaltul umed.",
+            "en": "Cycling the coast in rain requires good gear; watch out for slippery mud near Punta del Serrone. At noon, Santa Maria del Casale offers a dry break under Gothic arches. The path to the monument is exposed, so keep your hood up. Coastal winds can be strong in the evening; finish your ride early and check your brakes on wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Costiero Punta del Serrone",
+                "hu": "Parco Costiero Punta del Serrone",
+                "ro": "Parco Costiero Punta del Serrone",
+                "en": "Parco Costiero Punta del Serrone"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können bei Regen sehr rutschig sein; fahren Sie vorsichtig und nutzen Sie Schutzbleche gegen den aufspritzenden Schlamm.",
+                "hu": "A burkolatlan utak esőben nagyon csúszósak lehetnek; hajtson óvatosan, és használjon sárvédőt a felcsapódó sár ellen.",
+                "ro": "Potecile neasfaltate pot fi foarte alunecoase pe ploaie; conduceți cu prudență și folosiți apărători de noroi pentru protecție.",
+                "en": "The unpaved paths can be very slippery in the rain; ride cautiously and use mudguards to protect against splashing mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria del Casale",
+                "hu": "Santa Maria del Casale",
+                "ro": "Santa Maria del Casale",
+                "en": "Santa Maria del Casale"
+              },
+              "tip_5lang": {
+                "de": "Ein majestätischer Ort, um den Regen abzuwarten; die Fassade wirkt unter grauem Himmel besonders eindrucksvoll und geheimnisvoll.",
+                "hu": "Fenséges hely az eső kivárására; a homlokzat a szürke égbolt alatt különösen hatásos és titokzatos látványt nyújt a bringásoknak.",
+                "ro": "Un loc maiestuos pentru a aștepta oprirea ploii; fațada arată deosebit de impresionant și misterios sub cerul gri de iarnă.",
+                "en": "A majestic place to wait out the rain; the facade looks especially striking and mysterious under the heavy gray clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Italian Sailor Monument",
+                "hu": "Italian Sailor Monument",
+                "ro": "Italian Sailor Monument",
+                "en": "Italian Sailor Monument"
+              },
+              "tip_5lang": {
+                "de": "Der exponierte Platz kann bei Regen windig sein; parken Sie Ihr Rad stabil und suchen Sie Schutz unter dem monumentalen Sockel.",
+                "hu": "A nyitott tér esőben szeles lehet; parkolja le stabilan a biciklit, és keressen menedéket a monumentális talpazat alatt.",
+                "ro": "Piața deschisă poate fi vântoasă pe ploaie; parcați bicicleta stabil și căutați adăpost sub soclul monumental.",
+                "en": "The exposed plaza can be windy in the rain; park your bike securely and seek shelter under the monumental base."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di San Teodoro d'Amasea",
+                "hu": "Statua di San Teodoro d'Amasea",
+                "ro": "Statua di San Teodoro d'Amasea",
+                "en": "Statua di San Teodoro d'Amasea"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen rund um die Statue; der nasse Steinboden kann für Fahrradreifen sehr glatt sein, fahren Sie hier langsam.",
+                "hu": "Vigyázzon a tócsákra a szobor körül; a nedves kőburkolat nagyon csúszós lehet a gumiabroncsoknak, haladjon lassabb tempóban.",
+                "ro": "Atenție la bălțile din jurul statuii; pavajul umed poate fi foarte alunecos pentru anvelope, circulați cu viteză redusă.",
+                "en": "Watch out for puddles around the statue; the wet stone pavement can be very slick for bike tires, so maintain a slow speed."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte a Mare",
+                "hu": "Forte a Mare",
+                "ro": "Forte a Mare",
+                "en": "Forte a Mare"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Festung ist bei Regen eine Herausforderung; prüfen Sie Ihre Bremsen, bevor Sie die nassen Wege wieder hinunterfahren.",
+                "hu": "A vár felé vezető út esőben kihívást jelenthet; ellenőrizze a fékeket, mielőtt elindulna lefelé a vizes, meredekebb szakaszokon.",
+                "ro": "Urcarea spre fortăreață poate fi o provocare pe ploaie; verificați frânele înainte de a coborî pe drumurile umede.",
+                "en": "The climb to the fortress is a challenge in the rain; check your brakes before descending the wet paths back to the city."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Küstenparks sind im Winter wunderschön, aber der Wind ist scharf; tragen Sie windfeste Schichten. Santa Maria del Casale bietet einen friedlichen, geschützten Stopp; das Winterlicht beleuchtet die Fresken herrlich. Die Sonne sinkt früh, fahren Sie also zügig zum Forte a Mare. Sobald die Sonne weg ist, setzt die Kälte ein; kehren Sie für einen warmen Abend nach Sciaia zurück.",
+            "hu": "A parti parkok télen is gyönyörűek, de a szél metsző; viseljen szélálló rétegeket a tekeréshez. Santa Maria del Casale békés, védett megálló; a téli fény szépen megvilágítja a freskókat. A nap korán nyugszik, haladjon tempósan a Forte a Mare felé. Amint lemegy a nap, a hideg felerősödik; térjen vissza Sciaiába.",
+            "ro": "Parcurile de coastă sunt superbe iarna, dar vântul este tăios; purtați haine rezistente la vânt. Santa Maria del Casale oferă o oprire liniștită; lumina iernii luminează superb frescele. Soarele apune devreme, deci pedalați vioi spre Forte a Mare. Odată ce soarele dispare, frigul se instalează; reveniți în Sciaia.",
+            "en": "Coastal parks are beautiful in winter, but the wind is sharp; wear windproof layers for your ride. Santa Maria del Casale offers a peaceful, sheltered stop where winter light illuminates the frescoes. The sun sets early, so cycle briskly toward Forte a Mare. Once the sun is gone, the chill sets in quickly; head back to Sciaia for a warm evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Costiero Punta del Serrone",
+                "hu": "Parco Costiero Punta del Serrone",
+                "ro": "Parco Costiero Punta del Serrone",
+                "en": "Parco Costiero Punta del Serrone"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an der Landspitze ist im Winter sehr stark; schützen Sie Ohren und Hände vor der Kälte während der Fahrt durch den Park.",
+                "hu": "A szél a foknál télen nagyon erős; védje a fülét és a kezét a hidegtől, miközben a park nyitottabb szakaszain pedálozik.",
+                "ro": "Vântul la promontoriu este foarte puternic iarna; protejați-vă urechile și mâinile de frig în timp ce traversați parcul.",
+                "en": "The wind at the headland is very strong in winter; protect your ears and hands from the cold while riding through the open park."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria del Casale",
+                "hu": "Santa Maria del Casale",
+                "ro": "Santa Maria del Casale",
+                "en": "Santa Maria del Casale"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause im Winter; die kühle, aber windstille Kirche bietet einen Moment der Einkehr fernab der Küstenbrise.",
+                "hu": "Csendes hely egy téli pihenőhöz; a hűvös, de szélvédett templombelső nyugalmat ad a parti szél utáni felfrissüléshez.",
+                "ro": "Un loc liniștit pentru o pauză de iarnă; interiorul răcoros, dar ferit de vânt, oferă un moment de tihnă departe de briză.",
+                "en": "A quiet spot for a winter break; the cool but wind-protected church interior offers a moment of peace away from the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Italian Sailor Monument",
+                "hu": "Italian Sailor Monument",
+                "ro": "Italian Sailor Monument",
+                "en": "Italian Sailor Monument"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal vor 16:30 Uhr, um die goldene Stunde zu nutzen; das weiche Winterlicht ist perfekt für Hafenaufnahmen.",
+                "hu": "Látogassa meg az emlékművet 16:30 előtt, hogy elcsípje az aranyórát; a lágy téli fény tökéletes a kikötői fotókhoz.",
+                "ro": "Vizitați monumentul înainte de 16:30 pentru a profita de ora aurie; lumina caldă de iarnă este perfectă pentru fotografii în port.",
+                "en": "Visit the monument before 4:30 PM to catch the golden hour; the soft winter light is perfect for harbor photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di San Teodoro d'Amasea",
+                "hu": "Statua di San Teodoro d'Amasea",
+                "ro": "Statua di San Teodoro d'Amasea",
+                "en": "Statua di San Teodoro d'Amasea"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter oft menschenleer; nutzen Sie die Freiheit für eine kurze Runde, aber achten Sie auf gefrorene Stellen am Boden.",
+                "hu": "A tér télen gyakran teljesen üres; élvezze a szabadságot egy rövid körre, de figyeljen az esetleges jeges foltokra a kövön.",
+                "ro": "Piața este adesea pustie iarna; bucurați-vă de libertate pentru o scurtă tură, dar atenție la porțiunile de pavaj înghețat.",
+                "en": "The plaza is often deserted in winter; enjoy the freedom for a quick loop, but watch out for any frosty patches on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte a Mare",
+                "hu": "Forte a Mare",
+                "ro": "Forte a Mare",
+                "en": "Forte a Mare"
+              },
+              "tip_5lang": {
+                "de": "Die Festung wirkt im Winterlicht rau und wehrhaft; planen Sie Ihre Rückfahrt vor Sonnenuntergang, da es auf dem Rad schnell frostig wird.",
+                "hu": "A vár a téli fényben zordnak és hősiesnek tűnik; tervezze meg a visszautat naplemente előtt, mert a bringán hamar átfagyhat.",
+                "ro": "Fortăreața pare aspră în lumina iernii; planificați întoarcerea înainte de apus, deoarece pe bicicletă se face repede foarte frig.",
+                "en": "The fort looks rugged in the winter light; plan your return trip before sunset, as it gets frosty very quickly while cycling."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Az autó tökéletesen feltárja a város tágasságát, kezdve a lenyűgöző Forte a Mare erőddel, amely büszkén trónol a vizeken. Ezt követően egy rövid szakaszon a szárazföld felé autózunk, hogy megcsodáljuk a Santa Maria del Casale művészi freskóit. Dél körül felfedezzük a zord északi partvidéket, és rábukkanunk a múlt rejtett bunkereire. A Parco Costiero Punta del Serrone parkban tett pihentető szünet után visszatérünk a város szívébe, a fenséges Municipio di Brindisi épületéhez.",
         "ro": "Cu mașina, explorăm cu ușurință întinderea orașului, începând cu impresionantul Forte a Mare, care stă mândru pe apă. Conducem apoi o scurtă distanță spre interior pentru a admira frescele artistice de la Santa Maria del Casale. Spre prânz, explorăm peisajul de coastă accidentat din nord, descoperind buncărele ascunse din epocile trecute. După o pauză relaxantă în Parco Costiero Punta del Serrone, ne întoarcem în inima orașului la maiestuosul Municipio di Brindisi.",
         "en": "Using a car opens up the broader scope of the city, starting right at the impressive Forte a Mare that sits proudly out on the water. We then drive a short distance inland to admire the stunning, historical frescoes of Santa Maria del Casale. By midday, we explore the rugged northern coastal landscape, discovering hidden World War II bunkers. After a relaxing and scenic pause at Parco Costiero Punta del Serrone, we cruise back into the city's heart to conclude at the majestic Municipio."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zur Festung ist bei starkem Regen die beste Wahl; genießen Sie den Meerblick aus dem warmen Auto. Parken Sie nah an den Kirchen, um kurze Wege zu haben; der Regen schafft eine stimmungsvolle Atmosphäre. Besuchen Sie die Bunker und den Park; auch bei Regen bleibt die Küstenlandschaft vom Fenster aus beeindruckend. Abends ist der Bereich um das Municipio gut erreichbar.",
+            "hu": "A vár felé autózni a legjobb választás heves esőben; élvezze a tengeri kilátást a fűtött kocsiból. Parkoljon közel a templomokhoz, hogy keveset kelljen áznia; az eső különleges hangulatot ad a Casale negyednek. Nézze meg a bunkereket az ablakból; a parti táj esőben is lenyűgöző marad. Este a Városháza környéke autóval is könnyen megközelíthető.",
+            "ro": "Drumul spre fortăreață este cea mai bună alegere pe ploaie torențială; admirați marea din confortul mașinii. Parcați aproape de biserici pentru a merge puțin pe jos; ploaia creează o atmosferă melancolică în zona Casale. Vizitați buncărele și parcul; peisajul de coastă rămâne impresionant privit de la geam.",
+            "en": "Driving to the fort is the best choice in heavy rain; enjoy the sea view from the comfort of your car. Park close to the churches to minimize walking; the rain creates a moody atmosphere over the Casale area. Visit the bunkers and the park; even in rain, the coastal scenery remains impressive from the windows. The Municipio area is easily accessible by car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte a Mare",
+                "hu": "Forte a Mare",
+                "ro": "Forte a Mare",
+                "en": "Forte a Mare"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz an der Brücke; die Festung wirkt durch die regennassen Scheiben Ihres Autos besonders imposant.",
+                "hu": "Hajtson egészen a híd melletti parkolóig; a vár a kocsi esőáztatta ablakán keresztül is rendkívül impozáns látványt nyújt.",
+                "ro": "Conduceți până la parcarea de lângă pod; fortăreața arată deosebit de impunătoare prin geamurile udate de ploaie ale mașinii.",
+                "en": "Drive right up to the parking near the bridge; the fort looks especially imposing through the rain-streaked windows of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria del Casale",
+                "hu": "Santa Maria del Casale",
+                "ro": "Santa Maria del Casale",
+                "en": "Santa Maria del Casale"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Vorplatz; so gelangen Sie mit nur wenigen Schritten trocken in die Kirche und können die Fresken genießen.",
+                "hu": "Parkoljon közvetlenül az előtéren; így pár lépéssel, szárazon juthat be a templomba, hogy megcsodálhassa a híres freskókat.",
+                "ro": "Parcați chiar în fața bisericii; astfel veți ajunge la interior în doar câțiva pași, rămânând uscați pentru a vedea frescele.",
+                "en": "Park directly in the plaza area; this way you can reach the interior in just a few dry steps to enjoy the famous frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker",
+                "hu": "Bunker",
+                "ro": "Bunker",
+                "en": "Bunker"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis; die Bunker lassen sich bei schlechtem Wetter gut von den nahen Haltepunkten aus erkunden.",
+                "hu": "Használja az autót bázisnak; a bunkerek rossz időben is jól megtekinthetők a közeli megállóhelyekről, kevés gyaloglással.",
+                "ro": "Folosiți mașina ca bază; buncărele pot fi explorate bine din punctele de oprire din apropiere, chiar și pe vreme rea.",
+                "en": "Use your car as a base; the bunkers can be easily explored from nearby stopping points with minimal walking in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Costiero Punta del Serrone",
+                "hu": "Parco Costiero Punta del Serrone",
+                "ro": "Parco Costiero Punta del Serrone",
+                "en": "Parco Costiero Punta del Serrone"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wilde Küstenlandschaft vom Auto aus; die Wellen peitschen bei Regen spektakulär gegen die Felsen.",
+                "hu": "Élvezze a vad parti tájat az autóból; az esőben a hullámok látványosan csapkodják a sziklákat a Punta del Serrone mentén.",
+                "ro": "Bucurați-vă de peisajul sălbatic de coastă din mașină; valurile se izbesc spectaculos de stânci în timpul ploii.",
+                "en": "Enjoy the wild coastal scenery from your car; the waves crash spectacularly against the rocks along Punta del Serrone in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Brindisi",
+                "hu": "Municipio di Brindisi",
+                "ro": "Municipio di Brindisi",
+                "en": "Municipio di Brindisi"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Parkhäuser; das beleuchtete Rathaus ist ein glanzvoller Abschluss für einen regnerischen Tag in Brindisi.",
+                "hu": "A közelben több parkolóház is található; a kivilágított városháza csillogó lezárása egy esős brindisi napnak az autósoknak.",
+                "ro": "Există parcări acoperite în apropiere; primăria iluminată este un final strălucitor pentru o zi ploioasă în Brindisi.",
+                "en": "There are parking garages nearby; the illuminated town hall is a brilliant end to a rainy day in Brindisi for car travelers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Forte a Mare; das winterliche Meer ist kraftvoll und das Auto bietet die perfekte Basis. Der kurze Weg zur Santa Maria del Casale ist machbar; das Innere ist eine tolle Zuflucht vor der Winterbrise. Erkunden Sie die Küstenbunker; die tiefstehende Wintersonne wirft lange Schatten. Beenden Sie die Tour am Municipio, wenn die Lichter früh angehen; das Auto macht alles bequem.",
+            "hu": "Kezdje a Forte a Marénál; a téli tenger ereje lenyűgöző, az autó pedig tökéletes meleg bázis. A rövid séta Santa Maria del Casaléig vállalható; a belső tér remek menedék a téli szél elől. Fedezze fel a parti bunkereket; az alacsony téli nap hosszú árnyékokat vet a tájra. Fejezze be a Városházánál, ahol korán kigyúlnak a fények.",
+            "ro": "Începeți la Forte a Mare; marea de iarnă este puternică, iar mașina oferă baza perfectă. Scurta plimbare spre Santa Maria del Casale este ușoară; interiorul este un refugiu bun. Explorați buncărele de coastă; soarele jos de iarnă creează umbre lungi. Încheiați la primărie, când luminile se aprind devreme; mașina face totul confortabil.",
+            "en": "Start at Forte a Mare; the winter sea is powerful, and your car provides a perfect warm base for exploration. The short walk to Santa Maria del Casale is manageable; the interior is a great refuge from the winter breeze. Explore the coastal bunkers as the low winter sun creates long shadows. Finish at the Municipio as the city lights come on early; the car makes moving around comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte a Mare",
+                "hu": "Forte a Mare",
+                "ro": "Forte a Mare",
+                "en": "Forte a Mare"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter eiskalt; nutzen Sie das Auto für Pausen zwischen den Fotostopps an der beeindruckenden Festung.",
+                "hu": "A tengeri szél télen jéghideg; használja az autót pihenőhelyként a fotózások között ennél a lenyűgöző erődítménynél.",
+                "ro": "Briza mării este înghețată iarna; folosiți mașina pentru pauze între sesiunile de fotografii la această fortăreață uimitoare.",
+                "en": "The sea breeze is freezing in winter; use your car as a warm retreat between photo stops at this impressive fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Maria del Casale",
+                "hu": "Santa Maria del Casale",
+                "ro": "Santa Maria del Casale",
+                "en": "Santa Maria del Casale"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die warmen Töne der Fassade hervor; die Kirche ist ein windstiller Ort, ideal zum Aufwärmen zwischendurch.",
+                "hu": "A téli fény kiemeli a homlokzat meleg tónusait; a templom szélcsendes belső tere ideális egy köztes felmelegedéshez.",
+                "ro": "Lumina iernii subliniază tonurile calde ale fațadei; biserica este un loc ferit de vânt, ideal pentru a vă încălzi puțin.",
+                "en": "The winter light highlights the warm tones of the facade; the church is a windless haven, ideal for warming up mid-trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Bunker",
+                "hu": "Bunker",
+                "ro": "Bunker",
+                "en": "Bunker"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um die Kältezeit draußen zu minimieren; die Bunker wirken im harten Winterlicht besonders authentisch.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja a kinti hidegben töltött időt; a bunkerek a kemény téli fényben hitelesebbek.",
+                "ro": "Parcați aproape de intrare pentru a minimiza timpul petrecut în frig; buncărele par mai autentice în lumina aspră a iernii.",
+                "en": "Park close to the entrance to minimize time in the cold; the bunkers look especially authentic in the harsh winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Costiero Punta del Serrone",
+                "hu": "Parco Costiero Punta del Serrone",
+                "ro": "Parco Costiero Punta del Serrone",
+                "en": "Parco Costiero Punta del Serrone"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht auf das stürmische Wintermeer; bleiben Sie im Auto, wenn der Wind zu stark auffrischt.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a viharos téli tengerre; maradjon a kocsiban, ha a szél túl erősen kezdene fújni a parton.",
+                "ro": "Parcarea oferă o vedere excelentă asupra mării agitate de iarnă; rămâneți în mașină dacă vântul devine prea tăios pe coastă.",
+                "en": "The parking area offers a great view of the stormy winter sea; stay in the car if the wind becomes too sharp along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Brindisi",
+                "hu": "Municipio di Brindisi",
+                "ro": "Municipio di Brindisi",
+                "en": "Municipio di Brindisi"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto ist nach dem Stadtgang ein Segen; genießen Sie die winterlich beleuchtete Stadt bei der Abfahrt durch das Zentrum.",
+                "hu": "A kocsi fűtése áldás lesz a városi séta után; élvezze a téli díszkivilágításban úszó várost, miközben áthajt a központon.",
+                "ro": "Căldura din mașină este o binecuvântare după plimbare; admirați orașul iluminat de iarnă în timp ce traversați centrul.",
+                "en": "The car's heater will be a blessing after your walk; enjoy the winter-lit city as you drive through the historic center."
+              }
+            }
+          ]
+        }
       }
     }
   }

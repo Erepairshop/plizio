@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Faliraki energikus központjának felfedezésével a Sky park közelében. Délben hűsöljön a homokos strandoknál. A délután lassabb tempóra csábít a családbarát Kathara strandon. Fejezze be sétáját a félreeső Mantomata strandon, és élvezze a robusztus természeti tájat és a békés mediterrán hangulatot.",
         "ro": "Începeți dimineața explorând centrul energic al stațiunii Faliraki, lângă Sky park. La prânz, răcoriți-vă pe porțiunile de nisip fin. După-amiaza invită la un ritm mai lent pe plaja prietenoasă Kathara. Încheiați plimbarea la plaja izolată Mantomata, bucurându-vă de peisajul natural sălbatic și de atmosfera liniștită a Mediteranei.",
         "en": "Start your morning exploring the energetic center of Faliraki, soaking in the vibrant atmosphere near the Sky park. Midday, hit the sandy stretches for a refreshing dip. The afternoon invites a slower pace at the family-friendly Kathara beach. Conclude your walk at the secluded Mantomata Beach, enjoying the rugged natural scenery and tranquil Mediterranean atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Sky Park überdachte Arcade-Bereiche, die idealen Schutz vor plötzlichen Regenschauern bieten. Mittags spazieren wir entlang der Küste, wo die stürmische See ein dramatisches Naturschauspiel unter dunklen Wolken bietet. Nachmittags erfordern die schlüpfrigen Felspfade an den Stränden festes Schuhwerk und erhöhte Vorsicht. Abends genießen wir die frische, klare Meeresluft in den ruhig gewordenen Gassen von Faliraki.",
+            "hu": "Reggel a Sky Park fedett játékterei tökéletes menedéket nyújtanak a hirtelen érkező mediterrán záporok elől. Délben az eső áztatta tengerparti sétányon haladunk, ahol a viharos tenger látványa egészen drámai arcát mutatja. Délután a sziklás partszakaszokon óvatosan lépkedünk a csúszóssá vált kövek és a mélyebb tócsák miatt. Este a kivilágított utcák víztükrében gyönyörködünk a felfrissült, tiszta tengeri levegőn.",
+            "ro": "Dimineața, Sky Park oferă zone acoperite ideale pentru a ne adăposti de aversele bruște de ploaie. La prânz, ne plimbăm pe faleză, unde marea agitată oferă un spectacol dramatic sub norii grei. După-amiaza, potecile stâncoase de pe plajă necesită încălțăminte aderentă și prudență sporită din cauza suprafețelor alunecoase. Seara ne bucurăm de aerul proaspăt de mare și de reflexiile luminilor pe asfaltul umed în Faliraki.",
+            "en": "In the morning, Sky Park's covered arcade areas provide the perfect refuge from sudden Mediterranean rain showers. At noon, we walk along the coast where the rain-soaked beach and stormy sea offer a dramatic natural spectacle. In the afternoon, the rocky paths near the beaches require sturdy shoes and extra caution due to slippery stones. In the evening, we enjoy the fresh sea air and the beautiful light reflections on the wet village streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sky park",
+                "hu": "Sky park",
+                "ro": "Sky park",
+                "en": "Sky park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Spielautomaten und Bowlingbahnen, um trocken zu bleiben; achten Sie beim Verlassen auf die rutschigen Bodenfliesen im Außenbereich des Parks.",
+                "hu": "Használja ki a fedett bowling- és játékrészleget, hogy szárazon maradjon a zápor alatt; kilépéskor ügyeljen a kültéri burkolatokra, mert az esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Profitați de zona acoperită de bowling și jocuri pentru a rămâne uscat în timpul ploii; la ieșire, aveți grijă la pavajul exterior care poate deveni extrem de alunecos.",
+                "en": "Take advantage of the indoor bowling and arcade sections to stay dry during the downpour; watch your step on the outdoor tiles as they become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Faliraki A",
+                "hu": "Faliraki A",
+                "ro": "Faliraki A",
+                "en": "Faliraki A"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Meeresbrandung von einem der Cafés mit Markisen aus; ein stabiler Regenschirm ist bei den starken Küstenwinden hier unverzichtbar für jeden Spaziergänger.",
+                "hu": "Figyelje a tenger hullámzását az egyik napellenzővel védett kávézó teraszáról; az erős parti szél miatt egy viharálló esernyő elengedhetetlen kelléke a sétának.",
+                "ro": "Urmăriți valurile mării de pe terasa unei cafenele protejate de copertină; din cauza vântului puternic de pe coastă, o umbrelă rezistentă este absolut necesară pentru plimbare.",
+                "en": "Watch the crashing waves from the safety of a cafe terrace with an awning; a windproof umbrella is essential here due to the strong coastal gusts during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Katafygio Strand",
+                "hu": "Katafygio strand",
+                "ro": "Plaja Katafygio",
+                "en": "Katafygio beach"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Felsen bieten einen tollen Kontrast zum grauen Meer; bleiben Sie unbedingt auf den befestigten Wegen, um nicht im schlammigen Sand der Bucht stecken zu bleiben.",
+                "hu": "A sötét sziklák látványos kontrasztot alkotnak a szürke tengerrel; maradjon a kiépített járdán, hogy elkerülje a part menti homokos szakaszok mély, saras részeit.",
+                "ro": "Stâncile întunecate creează un contrast spectaculos cu marea cenușie; rămâneți pe potecile pavate pentru a evita zonele cu noroi adânc de pe plaja nisipoasă.",
+                "en": "The dark rocks create a spectacular contrast against the grey sea; stick to the paved paths to avoid the deep mud that forms on the sandy parts of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathara Strand",
+                "hu": "Kathara strand",
+                "ro": "Plaja Kathara",
+                "en": "Kathara beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Stille am leeren Hafenbecken; tragen Sie wasserfeste Kleidung, da der Wind den Regen hier oft waagerecht über den offenen Sand peitscht.",
+                "hu": "Élvezze a melankolikus csendet az üres kikötőnél; viseljen vízhatlan kabátot, mert a szél gyakran vízszintesen hordja az esőt ezen a nyitott tengerparti szakaszon.",
+                "ro": "Bucurați-vă de liniștea melancolică de lângă portul gol; purtați o jachetă impermeabilă, deoarece vântul suflă adesea ploaia orizontal pe această secțiune deschisă.",
+                "en": "Enjoy the melancholic silence by the empty harbor; wear a waterproof jacket as the wind often blows the rain horizontally across this open stretch of the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantomata Strand",
+                "hu": "Mantomata strand",
+                "ro": "Plaja Mantomata",
+                "en": "Mantomata Beach"
+              },
+              "tip_5lang": {
+                "de": "Die geschützte Lage zwischen den Klippen bietet etwas Windschutz; achten Sie auf den Abstieg, da die natürlichen Felstreppen bei Nässe extrem gefährlich sein können.",
+                "hu": "A sziklák közötti védett fekvés némi szélárnyékot biztosít; fokozottan ügyeljen a lejutáskor, mert a természetes sziklalépcsők nedvesen életveszélyesen csúszhatnak.",
+                "ro": "Poziția protejată între stânci oferă un mic adăpost contra vântului; atenție sporită la coborâre, deoarece treptele naturale din piatră pot fi extrem de alunecoase.",
+                "en": "The sheltered position between the cliffs offers some protection from the wind; be extremely careful when descending as the natural rock steps are lethally slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise durch den Sky Park, ideal für einen zügigen Spaziergang in warmer Kleidung. Mittags wärmt die tiefstehende Wintersonne die fast menschenleeren Strände und lädt zur meditativen Ruhe ein. Nachmittags färbt sich der Himmel schon früh rosa, da die Sonne gegen 17:00 Uhr hinter den Bergen versinkt. Abends kehrt kühle Stille ein, die man am besten in den wenigen ganzjährig geöffneten Lokalen genießt.",
+            "hu": "Reggel friss, csípős szél fúj át a Sky Parkon, ami tökéletes egy élénkítő sétához réteges öltözetben. Délben a gyengébb téli napsütés melengeti a kihalt strandokat, lehetőséget adva a zavartalan elmélyülésre. Délután a nap már 17:00 körül elindul a horizont alá, csodás színekbe öltöztetve az öblöket. Este a hűvös csend telepszik a falura, ilyenkor a helyiek kedvenc, egész évben nyitva tartó helyein érdemes megpihenni.",
+            "ro": "Dimineața, o briză rece străbate Sky Park, fiind ideală pentru o plimbare revigorantă în haine groase. La prânz, soarele blând de iarnă încălzește plajele pustii, oferind o ocazie rară de liniște deplină. După-amiaza, cerul capătă nuanțe rozalii încă de devreme, soarele apunând în jurul orei 17:00. Seara, o liniște răcoroasă cuprinde satul, moment perfect pentru a ne retrage într-o tavernă locală deschisă tot anul.",
+            "en": "In the morning, a crisp breeze blows through Sky Park, perfect for a brisk walk in layered winter clothing. At noon, the gentle winter sun warms the deserted beaches, offering a rare sense of peaceful solitude. In the afternoon, the sky turns pink early as the sun sets behind the hills around 5:00 PM. In the evening, a cool stillness settles over the village, best enjoyed in the cozy atmosphere of a local year-round tavern."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sky park",
+                "hu": "Sky park",
+                "ro": "Sky park",
+                "en": "Sky park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Bowlingbahnen ohne Wartezeiten; ziehen Sie eine winddichte Jacke an, da der Wind im Winter ungehindert durch die offenen Durchgänge des Parks fegt.",
+                "hu": "Élvezze az üres bowlingpályákat várakozás nélkül; viseljen szélálló kabátot, mert télen a szél akadálytalanul süvít át a park nyitottabb folyosóin és terein.",
+                "ro": "Bucurați-vă de pistele de bowling goale fără a aștepta; purtați o jachetă rezistentă la vânt, deoarece curentul trece liber prin culoarele deschise ale parcului iarna.",
+                "en": "Enjoy the empty bowling lanes without any queues; wear a windproof jacket as the winter wind sweeps through the open corridors of the park unchecked."
+              }
+            },
+            {
+              "name": {
+                "de": "Faliraki A",
+                "hu": "Faliraki A",
+                "ro": "Faliraki A",
+                "en": "Faliraki A"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das authentische Dorfleben fernab des Sommertrubels; suchen Sie sich einen Sonnenplatz an der Hafenmauer, um die Vitamin-D-Speicher für kurze Zeit aufzutanken.",
+                "hu": "Ismerje meg a falu valódi arcát a nyári tömeg nélkül; keressen egy napos helyet a kikötő falánál, hogy kihasználja a téli nap sugarait a korai sötétedés előtt.",
+                "ro": "Descoperiți fața autentică a satului fără aglomerația de vară; căutați un loc însorit lângă zidul portului pentru a profita de razele soarelui înainte de apus.",
+                "en": "Experience the authentic village life without the summer crowds; find a sunny spot by the harbor wall to soak up some warmth before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Katafygio Strand",
+                "hu": "Katafygio strand",
+                "ro": "Plaja Katafygio",
+                "en": "Katafygio beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ideal für Muschelsucher und Naturliebhaber; nehmen Sie eine Thermoskanne mit warmem Tee mit, um die kalte Brise am Wasser länger genießen zu können.",
+                "hu": "A strand télen ideális a kagylógyűjtőknek és a természet kedvelőinek; vigyen magával egy termosz forró teát, hogy a hűvös parti szélben is tovább maradhasson.",
+                "ro": "Plaja este ideală iarna pentru căutătorii de scoici și iubitorii de natură; luați un termos cu ceai cald pentru a savura briza mării fără a dârdâi de frig.",
+                "en": "The beach is ideal in winter for shell seekers and nature lovers; bring a thermos of hot tea to enjoy the cool sea breeze without getting too chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathara Strand",
+                "hu": "Kathara strand",
+                "ro": "Plaja Kathara",
+                "en": "Kathara beach"
+              },
+              "tip_5lang": {
+                "de": "Die Fischerboote liegen ruhig im Hafen und bieten tolle Fotomotive; tragen Sie eine Mütze, da der Nordwind hier im Winter besonders kräftig und schneidend wehen kann.",
+                "hu": "A halászhajók nyugodtan pihennek a kikötőben, remek fotótémát adva; viseljen sapkát, mert az északi szél itt télen különösen metsző és fagyos lehet.",
+                "ro": "Bărci de pescuit se odihnesc liniștite în port, fiind subiecte foto excelente; purtați o căciulă, deoarece vântul de nord poate fi foarte tăios aici iarna.",
+                "en": "The fishing boats rest quietly in the harbor, providing great photo opportunities; wear a beanie as the north wind can be particularly sharp and biting here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantomata Strand",
+                "hu": "Mantomata strand",
+                "ro": "Plaja Mantomata",
+                "en": "Mantomata Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht strahlt eine unberührte Wildheit aus, die man nur im Winter erlebt; brechen Sie spätestens um 16:30 Uhr auf, damit Sie den steilen Rückweg noch bei Tageslicht schaffen.",
+                "hu": "Az öböl érintetlen vadságot áraszt, amit csak télen tapasztalhat meg; induljon vissza legkésőbb 16:30-kor, hogy a meredek ösvényt még természetes fénynél tehesse meg.",
+                "ro": "Golful emană o sălbăticie pură pe care o poți simți doar iarna; plecați înapoi cel târziu la 16:30 pentru a parcurge poteca abruptă pe lumină naturală.",
+                "en": "The bay radiates an untouched wildness that can only be experienced in winter; start your way back by 4:30 PM to manage the steep climb in daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros kalandját Phaleraki tágas északi strandjainál, és élvezze a friss reggeli levegőt. Délben tekerjen át a nyüzsgő központi strandokon, amelyek tökéletesek egy kis felfrissülésre. Délután hagyja maga mögött a lapos homokot, és lovagoljon délre a sziklás, festői öblök felé. Fejezze be az utat a híres Anthony Quinn strandon egy felejthetetlen fináléval.",
         "ro": "Începeți aventura pe bicicletă pe plajele întinse din nordul stațiunii Phaleraki, bucurându-vă de aerul proaspăt. La prânz, pedalați de-a lungul plajelor centrale pline de viață, perfecte pentru o pauză. După-amiaza, lăsați nisipul plat în urmă și mergeți spre sud spre golfurile stâncoase pitorești. Încheiați-vă plimbarea la faimoasa plajă Anthony Quinn pentru un final memorabil.",
         "en": "Kick off your cycling adventure at the expansive northern stretches of Phaleraki. Midday, pedal through the bustling central beaches of Faliraki, offering plenty of spots to pause and refresh. In the afternoon, leave the flat sands behind and ride south towards the scenic, rocky coves. End your ride at the famous Anthony Quinn Beach for an unforgettable finale of dramatic coastal views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig auf den glatten Straßen im Norden von Faliraki. Mittags suchen wir Schutz in den zentralen Bereichen, während die Gischt der Brandung über die Ufermauer peitscht. Nachmittags fordern Pfützen und Schlamm auf den Wegen zu den südlichen Buchten volle Konzentration. Abends lassen wir den Tag bei einem heißen Getränk ausklingen, während der Regen gegen die Fenster prasselt.",
+            "hu": "Reggel óvatosan tekerünk a Faliraki északi részén található csúszós utakon. Délben a központi, fedettebb részeken keresünk menedéket, miközben a tenger hullámai a partfalat ostromolják. Délután a déli öblök felé vezető utakon a tócsák és a sár miatt fokozott figyelemmel közlekedünk. Este egy forró ital mellett pihenünk meg, hallgatva az ablakon kopogó eső megnyugtató neszét.",
+            "ro": "Dimineața pedalăm cu atenție pe străzile alunecoase din nordul stațiunii Faliraki. La prânz căutăm adăpost în zonele centrale, în timp ce stropii mării sar peste zidul de protecție. După-amiaza, bălțile și noroiul de pe drumurile spre golfurile sudice necesită concentrare maximă. Seara ne relaxăm cu o băutură caldă, ascultând sunetul ploii care bate în ferestrele cafenelei.",
+            "en": "In the morning, we cycle cautiously on the slippery roads in the northern part of Faliraki. At noon, we seek shelter in the central areas while the sea spray lashes over the sea wall. In the afternoon, puddles and mud on the paths to the southern bays demand full concentration from every rider. In the evening, we wind down with a hot drink while listening to the rain drumming on the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phaleraki 1",
+                "hu": "Phaleraki 1",
+                "ro": "Phaleraki 1",
+                "en": "Phaleraki 1"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Weg für mehr Stabilität bei Nässe; prüfen Sie Ihre Bremsen vor der Abfahrt, da der feuchte Asphalt hier besonders rutschig sein kann.",
+                "hu": "Használja a szélesebb utat a nagyobb stabilitás érdekében; indulás előtt ellenőrizze a fékeket, mert a nedves aszfalt ezen a szakaszon rendkívül csúszós lehet.",
+                "ro": "Folosiți drumul lat pentru o stabilitate mai bună pe ud; verificați frânele înainte de plecare, deoarece asfaltul umed poate fi foarte alunecos aici.",
+                "en": "Use the wider path for better stability in the wet; check your brakes before starting as the damp asphalt can be particularly slippery in this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Phaleraki 4",
+                "hu": "Phaleraki 4",
+                "ro": "Phaleraki 4",
+                "en": "Phaleraki 4"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine wasserfeste Regenhose, um sich vor Spritzwasser vom Hinterrad zu schützen; halten Sie Abstand zu tiefen Pfützen, deren Tiefe schwer einzuschätzen ist.",
+                "hu": "Viseljen vízhatlan nadrágot, hogy megvédje magát a kerék felcsapódó vizétől; kerülje el a mélyebb tócsákat, mert nehéz megítélni a bennük rejlő kátyúk mélységét.",
+                "ro": "Purtați pantaloni impermeabili pentru a vă proteja de apa aruncată de roată; evitați bălțile mari, deoarece este greu de estimat adâncimea gropilor de sub apă.",
+                "en": "Wear waterproof trousers to protect yourself from tire spray; avoid large puddles as it is difficult to judge the depth of hidden potholes underneath."
+              }
+            },
+            {
+              "name": {
+                "de": "Faliraki B",
+                "hu": "Faliraki B",
+                "ro": "Faliraki B",
+                "en": "Faliraki B"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter einem Dachvorsprung ab, während Sie die Aussicht genießen; achten Sie auf Markierungen, die bei Regen fast unsichtbar werden könnten.",
+                "hu": "Parkolja le a kerékpárt egy eresz alatt, amíg a kilátásban gyönyörködik; ügyeljen az útburkolati jelekre, amelyek esőben szinte láthatatlanná és csúszóssá válnak.",
+                "ro": "Parcați bicicleta sub o streșină în timp ce admirați priveliștea; atenție la marcajele rutiere care devin aproape invizibile și foarte lucioase pe ploaie.",
+                "en": "Park your bike under an eave while enjoying the view; watch out for road markings which become almost invisible and very slippery when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Faliraki A",
+                "hu": "Faliraki A",
+                "ro": "Faliraki A",
+                "en": "Faliraki A"
+              },
+              "tip_5lang": {
+                "de": "Die zentrale Lage bietet viele Möglichkeiten, sich kurz unterzustellen; ein Helm mit Visier hilft Ihnen, trotz des peitschenden Regens eine klare Sicht zu behalten.",
+                "hu": "A központi elhelyezkedés sok lehetőséget kínál a gyors behúzódásra; a siltes bukósisak sokat segít abban, hogy a verő eső ellenére is tiszta maradjon a látása.",
+                "ro": "Locația centrală oferă multe opțiuni pentru adăpostire rapidă; o cască cu vizieră vă va ajuta să aveți o vizibilitate bună în ciuda ploii torențiale.",
+                "en": "The central location offers plenty of spots to take quick cover; a helmet with a visor will help you maintain clear vision despite the driving rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathara Strand",
+                "hu": "Kathara strand",
+                "ro": "Plaja Kathara",
+                "en": "Kathara beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren von Sandflächen, da der nasse Sand die Kette und Schaltung blockieren kann; bleiben Sie auf den harten, befestigten Randwegen.",
+                "hu": "Kerülje a homokos részeket, mert a vizes homok tönkreteheti a láncot és a váltót; maradjon a keményebb, szilárd burkolatú út menti szakaszokon.",
+                "ro": "Evitați porțiunile cu nisip, deoarece nisipul ud poate bloca lanțul și schimbătorul; rămâneți pe drumurile pavate de la marginea plajei.",
+                "en": "Avoid sandy areas as wet sand can clog your chain and derailleur; stick to the harder, paved paths along the edge of the beach for a smoother ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ladiko Strand",
+                "hu": "Ladiko strand",
+                "ro": "Plaja Ladiko",
+                "en": "Ladiko Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Bucht erfordert bei Nässe extremes Feingefühl an den Bremsen; rechnen Sie mit herabfallenden kleinen Steinen auf der Fahrbahn nach starken Güssen.",
+                "hu": "Az öbölhöz vezető lejtő nedves időben finom fékkezelést igényel; számítson az útra mosott kisebb kövekre és hordalékra a hevesebb záporok után.",
+                "ro": "Coborârea spre golf necesită o utilizare delicată a frânelor pe ud; atenție la pietrele mici aduse de ploaie pe carosabil după averselor torențiale.",
+                "en": "The descent to the bay requires delicate braking in the wet; watch out for small stones and debris washed onto the road surface after heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Anthony Quinn Strand",
+                "hu": "Anthony Quinn strand",
+                "ro": "Plaja Anthony Quinn",
+                "en": "Anthony Quinn Beach"
+              },
+              "tip_5lang": {
+                "de": "Die spektakuläre Bucht wirkt im Regen mystisch und verlassen; trocknen Sie Ihr Fahrrad nach der Tour gründlich ab, um Korrosion durch das Salzwasser-Regen-Gemisch zu verhindern.",
+                "hu": "A látványos öböl esőben misztikus és elhagyatott arcát mutatja; a túra után alaposan törölje szárazra a kerékpárt, hogy megelőzze a sós pára okozta korróziót.",
+                "ro": "Golful spectaculos arată mistic și pustiu pe ploaie; după tură, ștergeți bine bicicleta pentru a preveni coroziunea cauzată de amestecul de sare și apă.",
+                "en": "The spectacular bay looks mystical and deserted in the rain; dry your bike thoroughly after the ride to prevent corrosion from the salt-spray and rain mix."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die klare Sicht bei einer Fahrt durch den Norden, wobei Handschuhe gegen den Fahrtwind helfen. Mittags reflektiert das ruhige Meer die Wintersonne, während wir auf leeren Wegen entspannt radeln. Nachmittags erreichen wir die südlichen Buchten, bevor die frühe Dämmerung die Landschaft in weiches Licht taucht. Abends suchen wir die Wärme einer lokalen Taverne auf, da die Temperaturen nach Sonnenuntergang rasch sinken.",
+            "hu": "Reggel a tiszta látási viszonyok mellett tekerünk északon, ahol a kesztyű sokat segít a menetszél ellen. Délben a csendes tenger tükrözi a téli napot, miközben az üres utakon kényelmesen haladunk dél felé. Délután elérjük a távolabbi öblöket, még mielőtt a korai szürkület lágy fénybe vonná a tájat. Este egy helyi taverna melegét keressük, mivel naplemente után a hőmérséklet gyorsan csökkenni kezd.",
+            "ro": "Dimineața ne bucurăm de vizibilitatea clară într-o tură prin nord, mănușile fiind utile contra vântului rece. La prânz, marea liniștită reflectă soarele de iarnă în timp ce pedalăm relaxat pe drumurile goale. După-amiaza ajungem la golfurile sudice înainte ca amurgul timpuriu să scalde peisajul în lumină caldă. Seara căutăm căldura unei taverne locale, deoarece temperaturile scad brusc după apus.",
+            "en": "In the morning, we enjoy the clear visibility on a ride through the north, with gloves helping against the cold wind. At noon, the calm sea reflects the winter sun as we cycle relaxed on empty paths. In the afternoon, we reach the southern bays before the early twilight bathes the landscape in soft light. In the evening, we head for the warmth of a local tavern as temperatures drop quickly after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phaleraki 1",
+                "hu": "Phaleraki 1",
+                "ro": "Phaleraki 1",
+                "en": "Phaleraki 1"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das flache Gelände zum Aufwärmen der Muskulatur; tragen Sie eine Mütze unter dem Helm, um den Wärmeverlust über den Kopf bei kühlem Wind zu minimieren.",
+                "hu": "Használja ki a sík terepet az izmok bemelegítésére; viseljen vékony sapkát a sisak alatt, hogy minimalizálja a fején keresztüli hőveszteséget a hideg szélben.",
+                "ro": "Folosiți terenul plat pentru încălzirea mușchilor; purtați o căciulă subțire sub cască pentru a minimiza pierderea de căldură prin cap în vântul rece.",
+                "en": "Use the flat terrain to warm up your muscles; wear a thin cap under your helmet to minimize heat loss from your head in the cool winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Phaleraki 4",
+                "hu": "Phaleraki 4",
+                "ro": "Phaleraki 4",
+                "en": "Phaleraki 4"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine fantastische Sicht auf das Meer; halten Sie kurz an, um die Stille zu genießen, da es im Winter hier kaum Autoverkehr gibt.",
+                "hu": "A tiszta téli levegő fantasztikus kilátást biztosít a tengerre; álljon meg egy pillanatra élvezni a csendet, mivel télen itt alig van autós forgalom.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate fantastică spre mare; opriți-vă scurt pentru a savura liniștea, traficul auto fiind aproape inexistent iarna.",
+                "en": "The clear winter air offers fantastic visibility out to sea; stop for a moment to enjoy the silence as there is very little car traffic here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Faliraki B",
+                "hu": "Faliraki B",
+                "ro": "Faliraki B",
+                "en": "Faliraki B"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen windgeschützten Platz für eine kurze Trinkpause; die tiefstehende Sonne kann blenden, daher ist eine Sonnenbrille auch im Winter ratsam.",
+                "hu": "Keressen egy szélvédett helyet egy rövid frissítő szünethez; a mélyen járó nap vakíthat, ezért a napszemüveg télen is ajánlott a kerékpározáshoz.",
+                "ro": "Căutați un loc ferit de vânt pentru o scurtă pauză de hidratare; soarele jos poate fi orbitor, așa că ochelarii de soare sunt recomandați și iarna.",
+                "en": "Find a wind-sheltered spot for a short hydration break; the low winter sun can be blinding, so wearing sunglasses is advisable even in the colder months."
+              }
+            },
+            {
+              "name": {
+                "de": "Faliraki A",
+                "hu": "Faliraki A",
+                "ro": "Faliraki A",
+                "en": "Faliraki A"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch das ruhige Ortszentrum und beobachten Sie das lokale Leben; prüfen Sie Ihre Beleuchtung, da es im Winter bereits ab 16:30 Uhr dämmrig wird.",
+                "hu": "Tekerjen át a csendes központon és figyelje meg a helyiek mindennapjait; ellenőrizze a világítást, mert télen már 16:30 körül szürkülni kezd az idő.",
+                "ro": "Traversați centrul liniștit al satului și observați viața locală; verificați luminile bicicletei, deoarece iarna începe să se întunece deja de la ora 16:30.",
+                "en": "Ride through the quiet village center and observe the local life; check your bike lights as it starts getting dark as early as 4:30 PM in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathara Strand",
+                "hu": "Kathara strand",
+                "ro": "Plaja Kathara",
+                "en": "Kathara beach"
+              },
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen sind meist geschlossen, bieten aber tolle Sitzgelegenheiten in der Sonne; ziehen Sie eine Weste über, um den Oberkörper vor dem kalten Seewind zu schützen.",
+                "hu": "A kikötői kávézók többnyire zárva vannak, de remek napos pihenőhelyeket kínálnak; viseljen mellényt, hogy megvédje a törzsét a hideg tengeri széltől.",
+                "ro": "Cafenelele din port sunt în mare parte închise, dar oferă locuri bune de stat la soare; purtați o vestă pentru a vă proteja pieptul de vântul rece al mării.",
+                "en": "The harbor cafes are mostly closed but offer great sunny spots to sit; wear a vest to protect your core from the chilling sea breeze while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Ladiko Strand",
+                "hu": "Ladiko strand",
+                "ro": "Plaja Ladiko",
+                "en": "Ladiko Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zurück erfordert Energie, halten Sie einen Snack bereit; genießen Sie die Einsamkeit der Bucht, die im Sommer meist völlig überlaufen ist.",
+                "hu": "A visszafelé vezető emelkedő energiát igényel, legyen kéznél egy kis rágcsálnivaló; élvezze az öböl magányát, ami nyáron szinte teljesen megtelik turistákkal.",
+                "ro": "Urcarea înapoi necesită energie, așa că aveți la îndemână o gustare; savurați singurătatea golfului, care vara este de obicei ticsit de turiști.",
+                "en": "The climb back requires energy, so keep a snack handy; enjoy the solitude of the bay, which is usually completely overcrowded during the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Anthony Quinn Strand",
+                "hu": "Anthony Quinn strand",
+                "ro": "Plaja Anthony Quinn",
+                "en": "Anthony Quinn Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist glasklar, aber im Winter nur für sehr Abgehärtete zum Baden geeignet; beeilen Sie sich für den Rückweg, um vor Einbruch der Dunkelheit im Ort zu sein.",
+                "hu": "A víz kristálytiszta, de télen csak a legedzettebbeknek alkalmas fürdésre; igyekezzen a visszaindulással, hogy még sötétedés előtt visszaérjen a faluba.",
+                "ro": "Apa este extrem de clară, dar iarna este potrivită doar pentru cei foarte căliți; grăbiți-vă la întoarcere pentru a ajunge în sat înainte de lăsarea nopții.",
+                "en": "The water is crystal clear but in winter only suitable for the very brave to swim; hurry back to ensure you reach the village before total darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje festői autózását a lélegzetelállító Anthony Quinn és Ladiko öblök meglátogatásával, még a tömeg érkezése előtt. Délben hajtson Faliraki központja felé, hogy megtapasztalja a gyönyörű partokat. Délután szánjon időt a Sky park körüli szabadidős létesítmények élvezetére. Fejezze be autós túráját Phaleraki északi szakaszán egy békés alkonyati sétával.",
         "ro": "Începeți plimbarea pitorească vizitând golfurile uluitoare Anthony Quinn și Ladiko înainte să apară aglomerația. La prânz, conduceți spre centrul stațiunii Faliraki, experimentând țărmurile frumoase. După-amiaza, bucurați-vă de facilitățile de agrement din jurul parcului Sky. Încheiați turul cu mașina în nordul Phaleraki cu o plimbare liniștită la crepuscul.",
         "en": "Begin your scenic drive by visiting the breathtaking Anthony Quinn and Ladiko bays before the crowds arrive. Midday, drive up towards the central hub of Faliraki to experience the beautiful and lively shores. Afternoon invites you to enjoy the recreational facilities near the Sky park. Finish your driving tour at the northern stretches of Phaleraki with a peaceful twilight stroll."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir im trockenen Komfort des Autos zu den südlichen Buchten, während Regen gegen das Dach trommelt. Mittags bieten die Aussichtspunkte spektakuläre Ausblicke auf die aufgewühlte See, ohne dass wir nass werden. Nachmittags erkunden wir den Norden von Faliraki und nutzen die Parkmöglichkeiten nah an den überdachten Bereichen. Abends genießen wir die gemütliche Fahrt durch das beleuchtete Dorf, sicher geschützt vor den Schauern.",
+            "hu": "Reggel az autó kényelmében és szárazon közelítjük meg a déli öblöket, miközben az eső a tetőn kopog. Délben a kilátópontokról csodáljuk meg a felkorbácsolt tenger látványát anélkül, hogy bőrig áznánk. Délután Faliraki északi részét fedezzük fel, kihasználva a fedett helyekhez közeli parkolási lehetőségeket. Este kényelmesen autózunk a kivilágított faluban, biztonságban az ismétlődő záporoktól.",
+            "ro": "Dimineața conducem confortabil și uscat spre golfurile sudice în timp ce ploaia bate în plafonul mașinii. La prânz, punctele de observație oferă priveliști spectaculoase spre marea agitată fără a ne uda. După-amiaza explorăm nordul stațiunii Faliraki, profitând de parcările apropiate de zonele acoperite. Seara ne bucurăm de o plimbare relaxantă cu mașina prin satul luminat, protejați de aversele repetate.",
+            "en": "In the morning, we drive in dry comfort to the southern bays while rain drums steadily on the car roof. At noon, the viewpoints offer spectacular scenes of the turbulent sea without us getting soaked. In the afternoon, we explore northern Faliraki, making use of parking spots close to covered attractions. In the evening, we enjoy a cozy drive through the illuminated village, safely sheltered from the passing showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anthony Quinn Bucht",
+                "hu": "Anthony Quinn-öböl",
+                "ro": "Golful Anthony Quinn",
+                "en": "Anthony Quinn Bay"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Aussichtspunkt, um nur kurz im Regen stehen zu müssen; die Straße kann nach starken Regenfällen mit Schlamm bedeckt sein.",
+                "hu": "Parkoljon a lehető legközelebb a kilátóhoz, hogy csak rövid ideig kelljen az esőben lennie; heves záporok után az út helyenként saras és csúszós lehet.",
+                "ro": "Parcați cât mai aproape de punctul de observație pentru a sta cât mai puțin în ploaie; drumul poate fi acoperit de noroi și alunecos după averse puternice.",
+                "en": "Park as close to the viewpoint as possible to minimize your time out in the rain; be aware that the road may be covered in mud and slippery after heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ladiko Bucht",
+                "hu": "Ladiko-öböl",
+                "ro": "Golful Ladiko",
+                "en": "Ladiko Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen direkt aus dem parkenden Auto; achten Sie beim Einparken auf große Pfützen, die tiefe Schlaglöcher im Asphalt verbergen könnten.",
+                "hu": "Élvezze a hullámok látványát közvetlenül a parkoló autóból; parkoláskor ügyeljen a nagyobb tócsákra, mert mély kátyúkat rejthetnek az aszfaltban.",
+                "ro": "Savurați vederea valurilor direct din mașina parcată; la parcare, fiți atenți la bălțile mari care pot ascunde gropi adânci în stratul de asfalt.",
+                "en": "Enjoy the view of the waves directly from your parked car; when parking, watch out for large puddles that might hide deep potholes in the asphalt surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantomata Strand",
+                "hu": "Mantomata strand",
+                "ro": "Plaja Mantomata",
+                "en": "Mantomata Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine gute Übersicht über die Küste; lassen Sie das Gebläse laufen, damit die Scheiben bei der hohen Luftfeuchtigkeit im Wageninneren nicht beschlagen.",
+                "hu": "A parkoló remek rálátást biztosít a partvonalra; járassa a szellőztetést, hogy a magas páratartalom miatt ne párásodjanak be az autó ablakai belülről.",
+                "ro": "Parcarea oferă o vedere bună asupra liniei de coastă; lăsați ventilația pornită pentru a preveni aburirea geamurilor din cauza umidității ridicate din interior.",
+                "en": "The parking area provides a good overview of the coastline; keep the ventilation running to prevent the windows from fogging up due to high interior humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Katafygio Strand",
+                "hu": "Katafygio strand",
+                "ro": "Plaja Katafygio",
+                "en": "Katafygio beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum befestigten Weg hält Sie trocken; nutzen Sie die Scheibenwischer auf höchster Stufe, da die Gischt die Sicht hier stark einschränken kann.",
+                "hu": "Egy rövid futás az autótól a kiépített járdáig segít szárazon maradni; használja a szélvédőtörlőt intenzíven, mert a parti pára és a permet rontja a kilátást.",
+                "ro": "O scurtă fugă de la mașină la poteca pavată vă va menține uscat; folosiți ștergătoarele la maximum, deoarece spray-ul mării poate reduce mult vizibilitatea.",
+                "en": "A short dash from the car to the paved path will keep you dry; use your wipers on high as the sea spray can significantly reduce visibility along this stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Sky park",
+                "hu": "Sky park",
+                "ro": "Sky park",
+                "en": "Sky park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Eingang des Parks; stellen Sie sicher, dass alle Fenster fest geschlossen sind, bevor Sie zu den Indoor-Aktivitäten gehen.",
+                "hu": "Használja a közvetlenül a bejáratnál található nagy parkolót; győződjön meg róla, hogy minden ablakot jól felhúzott, mielőtt elindul a fedett programokra.",
+                "ro": "Folosiți parcarea mare situată chiar la intrarea în parc; asigurați-vă că toate geamurile sunt bine închise înainte de a pleca spre activitățile de interior.",
+                "en": "Use the large parking lot located right at the entrance to the park; make sure all windows are tightly closed before heading in for the indoor activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Phaleraki 5",
+                "hu": "Phaleraki 5",
+                "ro": "Phaleraki 5",
+                "en": "Phaleraki 5"
+              },
+              "tip_5lang": {
+                "de": "Der Abschluss im Norden ist bei Regen entspannt mit dem Auto zu erreichen; prüfen Sie die Reifenhaftung auf dem nassen Untergrund des unbefestigten Parkplatzes.",
+                "hu": "Az északi zárópont esőben is kényelmesen elérhető autóval; ellenőrizze a tapadást a nem aszfaltozott parkolóhely nedves és csúszós talaján.",
+                "ro": "Finalul traseului în nord este ușor de atins cu mașina pe ploaie; verificați aderența anvelopelor pe suprafața umedă a parcării neasfaltate.",
+                "en": "The final stop in the north is easily reached by car even in heavy rain; check your tire grip on the wet surface of the unpaved parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir entspannt durch die ruhigen Straßen zu den südlichen Highlights des Ortes. Mittags nutzen wir das Auto, um bequem zwischen den verschiedenen Stränden zu wechseln und die Wintersonne voll auszukosten. Nachmittags genießen wir das Panorama der Küste von den erhöht liegenden Parkplätzen aus. Abends kehren wir rechtzeitig vor dem frühen Sonnenuntergang in den Ortskern zurück, um die gemütliche Abendstimmung zu erleben.",
+            "hu": "Reggel nyugodtan autózunk át a csendes utcákon a falu déli részén található látnivalókhoz. Délben az autó segítségével kényelmesen váltunk a strandok között, hogy minél többet élvezhessünk a téli napsütésből. Délután a magasabban fekvő parkolóhelyekről csodáljuk meg a partvonal panorámáját. Este még a korai naplemente előtt visszaérünk a központba, hogy elkapjuk a hangulatos esti fényeket.",
+            "ro": "Dimineața conducem relaxat pe străzile liniștite spre punctele de atracție din sudul stațiunii. La prânz folosim mașina pentru a schimba rapid plajele și a profita la maximum de soarele de iarnă. După-amiaza admirăm panorama coastei din parcările situate la înălțime. Seara ne întoarcem în centrul satului înainte de apusul timpuriu pentru a simți atmosfera primitoare a serii.",
+            "en": "In the morning, we drive relaxed through the quiet streets to reach the scenic highlights in the south. At noon, we use the car to easily hop between different beaches and maximize our time in the winter sun. In the afternoon, we admire the coastal panorama from the elevated parking spots. In the evening, we return to the center well before the early sunset to catch the cozy evening atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anthony Quinn Bucht",
+                "hu": "Anthony Quinn-öböl",
+                "ro": "Golful Anthony Quinn",
+                "en": "Anthony Quinn Bay"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden Sie problemlos einen Parkplatz direkt am Rand der Bucht; die kalte Luft ist sehr klar und ermöglicht weite Blicke über das Meer bis zum Horizont.",
+                "hu": "Télen gond nélkül talál parkolóhelyet közvetlenül az öböl szélén; a hideg levegő nagyon tiszta, így messzire ellátni a tengeren egészen a horizontig.",
+                "ro": "Iarna veți găsi fără probleme loc de parcare chiar lângă golf; aerul rece este foarte curat și permite vederi clare pe mare până la orizont.",
+                "en": "In winter, you will easily find a parking spot right at the edge of the bay; the cold air is very clear, allowing for long views across the sea to the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Ladiko Bucht",
+                "hu": "Ladiko-öböl",
+                "ro": "Golful Ladiko",
+                "en": "Ladiko Bay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der fast menschenleeren Bucht; lassen Sie die Heizung im Auto laufen, um sich nach einem kurzen Spaziergang am Wasser schnell wieder aufzuwärmen.",
+                "hu": "Élvezze a szinte teljesen kihalt öböl nyugalmát; járassa a fűtést az autóban, hogy egy rövid parti séta után gyorsan felmelegedhessen a kocsiban.",
+                "ro": "Bucurați-vă de liniștea golfului aproape pustiu; lăsați căldura pornită în mașină pentru a vă încălzi rapid după o scurtă plimbare pe malul apei.",
+                "en": "Enjoy the silence of the almost deserted bay; keep the heater on in the car so you can warm up quickly after a short walk along the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantomata Strand",
+                "hu": "Mantomata strand",
+                "ro": "Plaja Mantomata",
+                "en": "Mantomata Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winter unberührt und wild; prüfen Sie den Reifendruck vor der Tour, da die Temperaturen im Winter auch auf Rhodos nachts stark sinken können.",
+                "hu": "A strand télen érintetlen és vad arcát mutatja; indulás előtt ellenőrizze a guminyomást, mert a hőmérséklet télen Rodoszon is jelentősen visszaeshet éjszaka.",
+                "ro": "Plaja arată sălbatică și neatinsă iarna; verificați presiunea în pneuri înainte de drum, deoarece temperaturile pot scădea mult noaptea și în Rodos.",
+                "en": "The beach looks untouched and wild in winter; check your tire pressure before the trip as temperatures can drop significantly at night even in Rhodes."
+              }
+            },
+            {
+              "name": {
+                "de": "Katafygio Strand",
+                "hu": "Katafygio strand",
+                "ro": "Plaja Katafygio",
+                "en": "Katafygio beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den bequemen Zugang zum Strand für ein kurzes Winter-Picknick im Auto; die tiefstehende Sonne bietet perfekte Bedingungen für stimmungsvolle Fotos.",
+                "hu": "Használja ki a könnyű hozzáférést a parthoz egy rövid téli piknikhez az autóban; a mélyen járó nap tökéletes fényeket biztosít a hangulatos fotókhoz.",
+                "ro": "Profitați de accesul ușor la plajă pentru un scurt picnic de iarnă în mașină; soarele jos oferă condiții perfecte pentru fotografii pline de atmosferă.",
+                "en": "Take advantage of the easy beach access for a quick winter picnic inside the car; the low sun provides perfect lighting for atmospheric coastal photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Sky park",
+                "hu": "Sky park",
+                "ro": "Sky park",
+                "en": "Sky park"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche im Zentrum ist im Winter völlig stressfrei; nutzen Sie die Zeit für eine Runde Bowling, wenn der Winterwind draußen zu kräftig auffrischt.",
+                "hu": "A központi parkolás télen teljesen stresszmentes; használja ki az időt egy kör bowlingra, ha a téli szél odakint túl erősen kezdene fújni.",
+                "ro": "Căutarea unui loc de parcare în centru este lipsită de stres iarna; profitați de timp pentru o partidă de bowling dacă vântul de iarnă devine prea tăios.",
+                "en": "Finding a parking spot in the center is completely stress-free in winter; use the time for a round of bowling if the winter wind picks up too much outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Phaleraki 5",
+                "hu": "Phaleraki 5",
+                "ro": "Phaleraki 5",
+                "en": "Phaleraki 5"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag rechtzeitig, da die Temperaturen nach 17:00 Uhr spürbar sinken; die klare Sicht ermöglicht oft den Blick auf die entfernten Berge der Türkei.",
+                "hu": "Fejezze be a napot időben, mert 17:00 után a hőmérséklet érezhetően csökken; a tiszta időben gyakran ellátni egészen Törökország távoli hegyeiig.",
+                "ro": "Încheiați ziua la timp, deoarece temperaturile scad simțitor după ora 17:00; vizibilitatea clară permite adesea vederea munților îndepărtați ai Turciei.",
+                "en": "End your day early as temperatures drop noticeably after 5:00 PM; the clear winter visibility often allows views of the distant mountains in Turkey."
+              }
+            }
+          ]
+        }
       }
     }
   }

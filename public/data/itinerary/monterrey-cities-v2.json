@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Függetlenségi Diadalívnél, majd fedezze fel a bájos városi színházat. Délben a sporté a főszerep, amikor a baseball legendáit ünnepli. A délutánt inspiráló kortárs művészeti alkotások között töltheti a Cyrus Stúdióban. Zárja a napot az UANL múzeum lenyűgöző tudományos kiállításaival, amely tökéletes befejezés.",
         "ro": "Începeți dimineața absorbind istoria la Arcul Independenței înainte de a explora teatrul municipal. La prânz, schimbați ritmul sărbătorind legendele baseballului la muzeul de profil. Petreceți după-amiaza admirând arta contemporană la Cyrus Studio. Încheiați ziua explorând exponatele științifice fascinante de la muzeul UANL.",
         "en": "Start your morning absorbing the history at the Independence Arch before exploring the city's charming municipal theater. Midday brings a sporty shift as you celebrate baseball legends and grab a quick bite nearby. Spend your afternoon wandering through inspiring contemporary art at Cyrus Studio. Conclude your day delving into fascinating scientific exhibits at the UANL museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Arco de la Independencia, wo Sie kurz unter dem Bogen Schutz suchen können. Der Weg zum Theater führt über oft rutschige Gehwege, also ist Vorsicht geboten. Mittags bietet das Teatro Municipal eine willkommene trockene Pause.\n\nAm Nachmittag verlagert sich das Programm in die Museen. Der Weg zum Salón de la Fama und zum Cyrus Art Studio erfordert festes Schuhwerk und einen stabilen Schirm gegen den Wind. Die Ausstellungen sind der perfekte Rückzugsort.\n\nDen späten Nachmittag verbringen Sie im Museo Universitario. Der Fußweg zwischen den Gebäuden ist kurz, sodass Sie kaum nass werden. Drinnen ist es warm und trocken, ideal um den Regen draußen zu vergessen.\n\nAbends endet die Tour im Norden der Stadt. Die Straßen glänzen im Laternenlicht, aber die Kälte zieht an. Suchen Sie sich nach dem Museumsbesuch zeitnah ein gemütliches Café mit Innenbereich für den Ausklang.",
+            "hu": "A nap az Arco de la Independenciánál indul, ahol az ív alatt rövid menedéket találhatsz a zápor elől. Az út a színház felé csúszós lehet, így óvatosan lépkedj. Délben a Teatro Municipal belső terei nyújtanak száraz pihenőt.\n\nDélután a program a múzeumokba költözik. A Salón de la Fama és a Cyrus Art Studio felé vezető úton szükséged lesz egy jó esernyőre és vízálló cipőre. A kiállítóterek tökéletes búvóhelyet jelentenek az eső elől.\n\nA késő délutánt a Museo Universitario falai között töltöd. A múzeumok közötti séta rövid, így nem ázol meg túlságosan. Odabent meleg és száraz környezet vár, ahol elmerülhetsz a tudomány világában.\n\nEste a túra a város északi részén zárul. Az utcák fényesen csillognak az esőben, de a levegő lehűl. A múzeumlátogatás után érdemes gyorsan egy fedett, fűtött helyet keresni a nap lezárásához.",
+            "ro": "Ziua începe la Arco de la Independencia, unde vă puteți adăposti scurt timp sub arcada istorică. Drumul spre teatru poate fi alunecos, deci mergeți cu atenție. La prânz, Teatro Municipal oferă un refugiu uscat și cultural.\n\nDupă-amiaza se concentrează pe muzee, ideale pentru a evita ploaia. Drumul către Salón de la Fama și Cyrus Art Studio necesită o umbrelă rezistentă și încălțăminte impermeabilă. Expozițiile vă vor ține ocupați și uscați.\n\nPetreceți sfârșitul după-amiezii la Museo Universitario. Distanța scurtă de mers pe jos între punctele de interes minimizează expunerea la intemperii. Interiorul este primitor și oferă o pauză binemeritată de la umezeală.\n\nSeara, turul se încheie în partea de nord a orașului. Străzile reflectă luminile orașului în bălți, creând o atmosferă aparte. După muzeu, retrageți-vă rapid într-un spațiu închis pentru a vă încălzi.",
+            "en": "The day begins at the Arco de la Independencia, where you can find brief shelter under the arch. The walk to the theater involves potentially slippery sidewalks, so watch your step. At noon, the Teatro Municipal provides a welcome dry break.\n\nIn the afternoon, the focus shifts to indoor museums. The walk to the Baseball Hall of Fame and Cyrus Art Studio requires a sturdy umbrella and waterproof shoes. The exhibitions are the perfect refuge from the persistent rain.\n\nSpend the late afternoon inside the Museo Universitario. The short walking distance between buildings ensures you won't get too soaked. Inside, it's warm and dry, allowing you to forget the weather outside.\n\nIn the evening, the tour concludes in the northern part of the city. The streets glisten in the lamplight, but the damp air is chilly. Find a cozy indoor spot quickly after your final museum visit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco de la Independencia",
+                "hu": "Arco de la Independencia",
+                "ro": "Arco de la Independencia",
+                "en": "Arco de la Independencia"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Monument kurz von unten, da der Bogen bei plötzlichen Schauern guten Schutz bietet; halten Sie den Schirm für den Weg zum Theater bereit.",
+                "hu": "Csodáld meg az emlékművet alulról, mivel az ív jó védelmet nyújt hirtelen zápor esetén; az út folytatásához mindenképpen legyen kéznél az esernyőd.",
+                "ro": "Admirați monumentul de dedesubt, deoarece arcada oferă protecție bună în caz de ploaie bruscă; pregătiți umbrela pentru drumul către teatru.",
+                "en": "Admire the monument from directly underneath, as the arch provides good protection during sudden showers; keep your umbrella ready for the walk to the theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal Jose Calderón",
+                "hu": "Teatro Municipal Jose Calderón",
+                "ro": "Teatro Municipal Jose Calderón",
+                "en": "Teatro Municipal Jose Calderón"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das kulturelle Ambiente in diesem beheizten Gebäude, das eine perfekte Flucht vor dem Regen bietet; prüfen Sie drinnen Ihre Route für den nächsten Stopp.",
+                "hu": "Élvezd a kulturális miliőt ebben a fűtött épületben, amely tökéletes menekülést kínál az eső elől; odabent ellenőrizd az útvonalat a következő megállóig.",
+                "ro": "Bucurați-vă de ambianța culturală în această clădire încălzită, care oferă o evadare perfectă de ploaie; verificați ruta pentru următoarea oprire cât sunteți înăuntru.",
+                "en": "Enjoy the cultural ambiance in this heated building, which offers a perfect escape from the rain; check your route for the next stop while staying dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la Fama del Beisbol",
+                "hu": "Salón de la Fama del Beisbol",
+                "ro": "Salón de la Fama del Beisbol",
+                "en": "Salón de la Fama del Beisbol"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die umfangreiche Sammlung im Trockenen; die Wege im Park zum Eingang können pfützenreich sein, achten Sie auf wasserfeste Schuhe beim Zugang.",
+                "hu": "Fedezd fel a hatalmas gyűjteményt a szárazban; a parkon átvezető utak tócsásak lehetnek, így figyelj a vízálló lábbelire a bejárat megközelítésekor.",
+                "ro": "Explorați colecția vastă la adăpost; potecile din parc spre intrare pot avea bălți, așa că purtați încălțăminte impermeabilă pentru a ajunge la intrare.",
+                "en": "Explore the extensive collection in the dry; paths through the park to the entrance can be puddled, so ensure waterproof footwear for the access walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Cyrus Art Studio",
+                "hu": "Cyrus Art Studio",
+                "ro": "Cyrus Art Studio",
+                "en": "Cyrus Art Studio"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Studio bietet farbenfrohe Kunst als Kontrast zum grauen Wetter; nutzen Sie den überdachten Eingangsbereich, um kurz Ihren Mantel auszuschütteln.",
+                "hu": "Ez a modern stúdió színes művészetet kínál a szürke időjárás ellenpontjaként; használd a fedett bejáratot a kabátod rövid lerázására érkezéskor.",
+                "ro": "Acest studio modern oferă artă colorată ca contrast pentru vremea gri; folosiți intrarea acoperită pentru a vă scutura scurt haina la sosire.",
+                "en": "This modern studio offers colorful art as a contrast to the grey weather; use the covered entrance area to briefly shake off your coat upon arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Universitario de Ciencias UANL",
+                "hu": "Museo Universitario de Ciencias UANL",
+                "ro": "Museo Universitario de Ciencias UANL",
+                "en": "Museo Universitario de Ciencias UANL"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Welt der Wissenschaft ein, während es draußen stürmt; planen Sie nach dem Besuch ein Taxi ein, da die Straßen abends sehr rutschig sind.",
+                "hu": "Merülj el a tudomány világában, miközben odakint esik; a látogatás utánra tervezz taxit, mivel az utcák este nagyon csúszóssá válhatnak a sár miatt.",
+                "ro": "Cufundați-vă în lumea științei în timp ce plouă afară; planificați un taxi după vizită, deoarece străzile devin foarte alunecoase seara din cauza umidității.",
+                "en": "Immerse yourself in the world of science while it storms outside; plan for a taxi after your visit, as the streets can become very slippery in the evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am Arco de la Independencia. Die Luft ist klar und kühl, also ziehen Sie sich warm an. Der kurze Spaziergang zum Theater hilft, die Lebensgeister zu wecken, bevor Sie ins warme Innere schlüpfen.\n\nMittags genießen Sie den Aufenthalt im Jose Calderón Theater. Die Heizung sorgt für eine behagliche Atmosphäre. Nach der Vorstellung geht es zügig weiter zum Baseball-Museum, wobei die Wintersonne oft trügerisch schwach wärmt.\n\nAm Nachmittag sollten Sie die Museen nutzen, um nicht auszukühlen. Da die Sonne bereits gegen 17:00 Uhr untergeht, wird es im Freien schnell deutlich kälter. Die Kunstateliers bieten hierfür einen warmen und inspirierenden Schutz.\n\nDer Abend endet am Universitätsmuseum. Sobald es dunkel ist, sinken die Temperaturen in Monterrey spürbar. Packen Sie Handschuhe ein, wenn Sie nach dem Museumsbesuch noch ein kurzes Stück zu Fuß zur nächsten Haltestelle gehen.",
+            "hu": "A friss téli reggel az Arco de la Independenciánál indul. A levegő tiszta és hűvös, ezért öltözz rétegesen. A rövid séta a színházig segít felébredni, mielőtt belépnél a kellemesen fűtött belső térbe.\n\nDélben élvezd a Jose Calderón színház vendégszeretetét. A fűtés otthonos hangulatot áraszt. Az előadás után tempósan haladj a baseball múzeum felé, mert a téli nap csalóka, és nem ad sok meleget.\n\nDélután érdemes a múzeumokat kihasználni, hogy ne hűlj le. Mivel a nap már 17:00 körül lemegy, a szabadban gyorsan hűvösebb lesz. A művészeti stúdiók meleg és inspiráló menedéket nyújtanak a korai sötétedés előtt.\n\nAz este az egyetemi múzeumnál ér véget. Amint besötétedik, Monterrey-ben érezhetően zuhan a hőmérséklet. Legyen nálad kesztyű, ha a múzeumlátogatás után még gyalogolnod kell a közeli megállóig.",
+            "ro": "O dimineață proaspătă de iarnă începe la Arco de la Independencia. Aerul este curat și rece, așa că îmbrăcați-vă gros. Scurta plimbare spre teatru vă va ajuta să vă treziți înainte de a intra în spațiul încălzit.\n\nLa prânz, bucurați-vă de vizita la Teatrul Jose Calderón. Sistemul de încălzire creează o atmosferă primitoare. După spectacol, mergeți rapid spre muzeul de baseball, deoarece soarele de iarnă nu încălzește suficient.\n\nDupă-amiaza, folosiți vizitele la muzee pentru a evita frigul de afară. Deoarece soarele apune în jurul orei 17:00, temperatura scade rapid. Studiourile de artă oferă un adăpost cald și plin de inspirație.\n\nSeara se încheie la muzeul universitar. Imediat ce se întunecă, temperaturile în Monterrey scad simțitor. Luați-vă mănușile dacă după vizită mai aveți de mers pe jos până la cea mai apropiată stație.",
+            "en": "A crisp winter morning begins at the Arco de la Independencia. The air is clear and cool, so dress warmly in layers. The short walk to the theater helps wake up your senses before you step into the cozy, heated interior.\n\nAt noon, enjoy your stay at the Jose Calderón Theater. The heating provides a comfortable atmosphere. After the performance, move briskly towards the Baseball Museum, as the winter sun is often deceptively weak.\n\nIn the afternoon, utilize the museum visits to avoid catching a chill. Since the sun sets around 17:00, it gets significantly colder outside very quickly. The art studios offer a warm and inspiring refuge before the early twilight.\n\nThe evening ends at the University Museum. As soon as it gets dark, temperatures in Monterrey drop noticeably. Pack gloves if you plan to walk even a short distance to the nearest transport stop after your museum visit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Arco de la Independencia",
+                "hu": "Arco de la Independencia",
+                "ro": "Arco de la Independencia",
+                "en": "Arco de la Independencia"
+              },
+              "tip_5lang": {
+                "de": "Das Monument wirkt in der klaren Winterluft besonders scharf; tragen Sie einen Schal, da der Wind in der offenen Allee morgens recht schneidig sein kann.",
+                "hu": "Az emlékmű a tiszta téli levegőben különösen élesen fest; viselj sálat, mivel a nyitott sugárúton a reggeli szél elég metsző tud lenni.",
+                "ro": "Monumentul arată spectaculos în aerul curat de iarnă; purtați un fular, deoarece vântul pe bulevardul deschis poate fi destul de tăios dimineața.",
+                "en": "The monument looks especially sharp in the clear winter air; wear a scarf, as the morning wind in the open avenue can be quite biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Municipal Jose Calderón",
+                "hu": "Teatro Municipal Jose Calderón",
+                "ro": "Teatro Municipal Jose Calderón",
+                "en": "Teatro Municipal Jose Calderón"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme im Theater ist ideal, um die Glieder wieder aufzuwärmen; nutzen Sie die Garderobe, um schwere Wintermäntel während der Besichtigung bequem abzulegen.",
+                "hu": "A színház melege ideális a végtagok átmelegítésére; használd a ruhatárat, hogy a nehéz télikabátot kényelmesen le tudd tenni a látogatás idejére.",
+                "ro": "Căldura din teatru este ideală pentru a vă dezmorți; folosiți garderoba pentru a lăsa hainele groase de iarnă în siguranță în timpul vizitei.",
+                "en": "The warmth inside the theater is ideal for thawing out; use the cloakroom to conveniently leave your heavy winter coats during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la Fama del Beisbol",
+                "hu": "Salón de la Fama del Beisbol",
+                "ro": "Salón de la Fama del Beisbol",
+                "en": "Salón de la Fama del Beisbol"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für einen langen Aufenthalt im beheizten Innenbereich; beachten Sie, dass die Gehwege im Park bei Frost stellenweise glatt sein können.",
+                "hu": "Nagyszerű hely egy hosszú tartózkodáshoz a fűtött belső térben; vedd figyelembe, hogy a park járdái fagy esetén helyenként csúszósak lehetnek.",
+                "ro": "Un loc excelent pentru o vizită lungă în interiorul încălzit; atenție la aleile din parc, care pot fi alunecoase în zonele umbrite dacă îngheață.",
+                "en": "A great place for a long stay in the heated interior; note that the park's walkways can be slippery in patches if there's frost on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Cyrus Art Studio",
+                "hu": "Cyrus Art Studio",
+                "ro": "Cyrus Art Studio",
+                "en": "Cyrus Art Studio"
+              },
+              "tip_5lang": {
+                "de": "Die hellen Studioräume lassen das spärliche Winterlicht optimal herein; genießen Sie die warme Atmosphäre, bevor es draußen in die frühe Dämmerung geht.",
+                "hu": "A világos stúdiótermek optimálisan engedik be a kevés téli fényt; élvezd a meleg légkört, mielőtt odakint leszállna a korai téli szürkület.",
+                "ro": "Sălile luminoase ale studioului profită la maximum de lumina slabă de iarnă; bucurați-vă de atmosfera caldă înainte de amurgul timpuriu de afară.",
+                "en": "The bright studio rooms make the most of the sparse winter light; enjoy the warm atmosphere before heading out into the early twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Universitario de Ciencias UANL",
+                "hu": "Museo Universitario de Ciencias UANL",
+                "ro": "Museo Universitario de Ciencias UANL",
+                "en": "Museo Universitario de Ciencias UANL"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im angenehm temperierten Museum; ziehen Sie sich für den Rückweg warm an, da die Temperaturen nach 17 Uhr rapide sinken.",
+                "hu": "Zárd a napot a kellemes hőmérsékletű múzeumban; a hazaútra öltözz fel jól, mert 17 óra után a hőmérséklet hirtelen és jelentősen csökken.",
+                "ro": "Încheiați ziua în muzeul cu temperatură plăcută; îmbrăcați-vă bine pentru drumul spre casă, deoarece temperaturile scad brusc după ora 17.",
+                "en": "End your day in the pleasantly tempered museum; dress warmly for the return journey, as temperatures drop rapidly after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a túrát az Obispado-domb lejtőin a regionális történelem és a szabadtéri kultúra felfedezésével. Délben élvezze a panorámát a monumentális zászlórúdnál, majd guruljon le a békés Szűz-emlékműhöz. A délutáni tekerés a pezsgő belvárosba vezet, a Függetlenségi Diadalívhez. A napot a Baseball Hírességek Csarnokában a sportlegendák ünneplésével zárja.",
         "ro": "Începeți traseul pe pantele dealului Obispado pentru a descoperi istoria regională și cultura în aer liber. La prânz, admirați panorama de la catargul monumental, înainte de a coborî la monumentul senin al Fecioarei. După-amiaza, pedalați spre centrul plin de viață pentru a vedea Arcul Independenței. Încheiați ziua celebrând legendele sportive la muzeul baseballului.",
         "en": "Kick off your ride tackling the slopes of the Obispado hill to uncover regional history and open-air culture. By midday, soak in sweeping panoramas at the monumental flagpole before descending to the serene Virgin monument. Your afternoon ride takes you into the bustling downtown heart to admire the iconic Independence Arch. Wrap up the journey celebrating sporting legends at the Baseball Hall of Fame."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Aufstieg zum Obispado-Hügel ist bei Regen eine Herausforderung. Die Straßen sind rutschig, achten Sie besonders auf Ihre Bremsen beim Herunterfahren. Oben angekommen, bietet das Museum einen hervorragenden Schutz vor den Elementen.\n\nMittags erkunden Sie die Umgebung der Concha. Der Mirador ist bei Regen oft neblig, was eine mystische Stimmung erzeugt, aber Vorsicht auf den nassen Steinflächen. Suchen Sie bei der Statue der Virgen kurz Unterschlupf unter Bäumen.\n\nAm Nachmittag führt die Route zurück ins Zentrum zum Arco de la Independencia. Die Pfützen in der Stadt können tief sein, fahren Sie also vorausschauend. Das Ziel ist es, trocken zum Baseball-Museum zu gelangen.\n\nDer Tag endet beim Salón de la Fama. Die Wege dort sind befestigt, aber achten Sie auf nasses Laub. Da die Sicht bei Regen schlechter ist, sollten Sie unbedingt mit eingeschaltetem Licht fahren, um für Autofahrer sichtbar zu bleiben.",
+            "hu": "Az Obispado-dombra való felkapaszkodás esőben kihívást jelent. Az utak csúszósak, különösen lefelé menet figyelj a fékeidre. Felérve a múzeum kiváló védelmet nyújt az időjárás viszontagságai ellen.\n\nDélben a Concha környékét fedezed fel. A kilátó esőben gyakran ködös, ami misztikus hangulatot áraszt, de vigyázz a vizes kőfelületeken. A Szűz Mária szobornál keress rövid menedéket a fák alatt.\n\nDélután az útvonal visszavezet a központba az Arco de la Independencia felé. A városi tócsák mélyek lehetnek, így haladj előrelátóan. A cél, hogy viszonylag szárazon érj el a baseball múzeumig.\n\nA nap a Salón de la Fama-nál zárul. Az ottani utak burkoltak, de ügyelj a nedves levelekre. Mivel esőben rosszabbak a látási viszonyok, mindenképpen kapcsold be a világítást, hogy látható maradj az autósoknak.",
+            "ro": "Urcarea pe dealul Obispado este o provocare pe ploaie. Drumurile sunt alunecoase, deci verificați frânele la coborâre. Odată ajunși sus, muzeul oferă o protecție excelentă împotriva elementelor.\n\nLa prânz, explorați zona Concha. Miradorul este adesea cețos pe ploaie, creând o atmosferă mistică, dar aveți grijă pe suprafețele de piatră ude. Căutați adăpost scurt sub copaci lângă statuia Fecioarei.\n\nDupă-amiaza, ruta revine spre centru către Arco de la Independencia. Bălțile din oraș pot fi adânci, deci conduceți preventiv. Scopul este să ajungeți cât mai uscați la muzeul de baseball.\n\nZiua se încheie la Salón de la Fama. Potecile de acolo sunt pavate, dar atenție la frunzele ude. Deoarece vizibilitatea este redusă pe ploaie, folosiți neapărat luminile bicicletei pentru a fi vizibili.",
+            "en": "Climbing Obispado Hill in the rain is a challenge. The roads are slippery, so pay extra attention to your brakes when coming down. Once at the top, the museum provides excellent shelter from the elements.\n\nAt noon, explore the area around the Concha. The Mirador is often foggy in the rain, creating a mystical atmosphere, but be careful on the wet stone surfaces. Seek brief shelter under trees near the Virgen statue.\n\nIn the afternoon, the route leads back to the center towards the Arco de la Independencia. City puddles can be deceptively deep, so ride carefully. The goal is to reach the Baseball Hall of Fame relatively dry.\n\nThe day concludes at the Salón de la Fama. The paths there are paved but watch out for wet leaves. Since visibility is poorer in the rain, make sure to ride with your lights on to stay visible to drivers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Obispado",
+                "hu": "Museo del Obispado",
+                "ro": "Museo del Obispado",
+                "en": "Museo del Obispado"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer am Eingang; drinnen ist es trocken und Sie können Ihre Regenbekleidung kurz abtropfen lassen, bevor Sie die Exponate sehen.",
+                "hu": "Használd a fedett kerékpártárolót a bejáratnál; odabent szárazság vár, és hagyhatod lecsöpögni az esőruházatodat, mielőtt megnéznéd a kiállítást.",
+                "ro": "Folosiți suportul de biciclete acoperit de la intrare; interiorul este uscat și vă puteți lăsa pelerina să se scurgă înainte de a vedea exponatele.",
+                "en": "Use the covered bike rack at the entrance; it's dry inside and you can let your rain gear drip dry for a bit before viewing the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Concha del Obispado",
+                "hu": "Concha del Obispado",
+                "ro": "Concha del Obispado",
+                "en": "Concha del Obispado"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen hier können extrem glatt sein; schieben Sie Ihr Rad lieber ein kurzes Stück und nutzen Sie das Dach der Concha als kurzen Regenschutz.",
+                "hu": "A kőlépcsők itt rendkívül csúszósak lehetnek; inkább told a bringát egy rövid szakaszon, és használd a Concha tetejét eső elleni rövid menedékként.",
+                "ro": "Treptele de piatră pot fi extrem de alunecoase; mai bine împingeți bicicleta pe o porțiune scurtă și folosiți acoperișul Concha ca adăpost temporar.",
+                "en": "The stone steps here can be extremely slippery; it's better to push your bike for a short stretch and use the Concha's roof as a quick rain shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Asta Bandera",
+                "hu": "Mirador Asta Bandera",
+                "ro": "Mirador Asta Bandera",
+                "en": "Mirador Asta Bandera"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht bei Regen ist dramatisch, aber der Wind ist stark; halten Sie den Lenker fest und vermeiden Sie plötzliche Bremsmanöver auf dem nassen Plateau.",
+                "hu": "A kilátás esőben drámai, de a szél erős; fogd erősen a kormányt, és kerüld a hirtelen fékezést a nedves fennsíkon.",
+                "ro": "Priveliștea pe ploaie este dramatică, dar vântul este puternic; țineți bine ghidonul și evitați frânările bruște pe platoul ud.",
+                "en": "The view in the rain is dramatic, but the wind is strong; grip your handlebars firmly and avoid sudden braking maneuvers on the wet plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Virgen de Guadalupe",
+                "hu": "Virgen de Guadalupe",
+                "ro": "Virgen de Guadalupe",
+                "en": "Virgen de Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; achten Sie beim Abstellen des Rades auf weichen, schlammigen Untergrund neben dem Weg, damit der Ständer nicht einsinkt.",
+                "hu": "Rövid megálló egy fotóra; a bringa leállításakor ügyelj a puha, sáros talajra az út mellett, nehogy elsüllyedjen a támasztó.",
+                "ro": "O oprire scurtă pentru o fotografie; când parcați bicicleta, atenție la solul moale și noroios de lângă drum pentru ca cricul să nu se scufunde.",
+                "en": "A quick stop for a photo; when parking your bike, watch out for soft, muddy ground next to the path so the kickstand doesn't sink in."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de la Independencia",
+                "hu": "Arco de la Independencia",
+                "ro": "Arco de la Independencia",
+                "en": "Arco de la Independencia"
+              },
+              "tip_5lang": {
+                "de": "Die vielbefahrene Kreuzung erfordert bei Nässe volle Konzentration; nutzen Sie den Bereich unter dem Bogen für einen kurzen Check Ihrer Ausrüstung im Trockenen.",
+                "hu": "A forgalmas kereszteződés teljes koncentrációt igényel nedves időben; használd az ív alatti részt a felszerelésed rövid, száraz ellenőrzésére.",
+                "ro": "Intersecția aglomerată necesită concentrare maximă pe carosabil ud; folosiți zona de sub arc pentru o scurtă verificare a echipamentului la uscat.",
+                "en": "The busy intersection requires full concentration in wet conditions; use the area under the arch for a quick check of your gear in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la Fama del Beisbol",
+                "hu": "Salón de la Fama del Beisbol",
+                "ro": "Salón de la Fama del Beisbol",
+                "en": "Salón de la Fama del Beisbol"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und genießen Sie die trockene Ausstellung; stellen Sie sicher, dass Ihre Beleuchtung für den Heimweg bei Regen voll funktionsfähig ist.",
+                "hu": "Parkold le biztonságosan a bringát, és élvezd a száraz kiállítást; győződj meg róla, hogy a világításod jól működik a hazafelé útra az esőben.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de expoziția uscată; asigurați-vă că luminile funcționează perfect pentru drumul spre casă pe ploaie.",
+                "en": "Park your bike securely and enjoy the dry exhibition; make sure your lights are fully functional for the ride home in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet frisch am Obispado-Hügel. Der Aufstieg wird Sie aufwärmen, aber oben angekommen zieht der kalte Wind. Ein Besuch im Museum bietet eine gute Gelegenheit, die Betriebstemperatur zu halten.\n\nMittags erkunden Sie die Aussichtspunkte. Die Wintersonne steht tief und blendet oft, tragen Sie daher eine Sonnenbrille. Der Mirador bietet ein klares Panorama, aber ohne Bewegung wird es im Schatten schnell ungemütlich kühl.\n\nNachmittags geht es bergab Richtung Stadtzentrum. Der Fahrtwind ist im Winter beißend, Handschuhe und ein Schlauchtuch sind unverzichtbar. Der Halt am Arco de la Independencia ist kurz, bevor Sie das warme Baseball-Museum erreichen.\n\nDer Tag endet im Parque Fundidora Bereich. Da die Sonne bereits gegen 17:00 Uhr untergeht, müssen Sie unbedingt an Ihre Fahrradbeleuchtung denken. Nach Einbruch der Dunkelheit sinken die Temperaturen rapide, planen Sie den Rückweg entsprechend zügig.",
+            "hu": "A bringatúra frissen indul az Obispado-dombon. A felkapaszkodás bemelegít, de fent a hideg szél fúj. A múzeumlátogatás jó alkalom arra, hogy fenntartsd az üzemi hőmérsékletet.\n\nDélben a kilátókat fedezed fel. A téli nap alacsonyan jár és gyakran vakít, ezért viselj napszemüveget. A Mirador tiszta panorámát kínál, de mozgás nélkül az árnyékban gyorsan barátságtalanul hűvös lesz.\n\nDélután lefelé gurulsz a városközpont felé. A menetszél télen metsző, a kesztyű és a csősál nélkülözhetetlen. Az Arco de la Independencia-nál tett megálló rövid, mielőtt elérnéd a meleg baseball múzeumot.\n\nA nap a Parque Fundidora környékén zárul. Mivel a nap már 17:00 körül lemegy, mindenképpen gondolj a kerékpár világítására. Sötétedés után a hőmérséklet gyorsan zuhan, így tervezd a hazautat tempósra.",
+            "ro": "Turul cu bicicleta începe în forță pe dealul Obispado. Urcarea vă va încălzi, dar sus vântul este tăios. O vizită la muzeu este o ocazie bună pentru a vă menține temperatura corpului.\n\nLa prânz, explorați punctele de belvedere. Soarele de iarnă este jos și adesea orbitor, deci purtați ochelari de soare. Miradorul oferă o panoramă clară, dar la umbră se face repede frig fără mișcare.\n\nDupă-amiaza, coborâți spre centrul orașului. Vântul din timpul mersului este mușcător iarna, așa că mănușile sunt indispensabile. Oprirea la Arco de la Independencia este scurtă înainte de a intra în muzeul de baseball.\n\nZiua se încheie în zona Parque Fundidora. Deoarece soarele apune în jurul orei 17:00, trebuie neapărat să aveți luminile aprinse. După lăsarea întunericului, temperaturile scad rapid, deci planificați drumul de întoarcere.",
+            "en": "The bike tour starts briskly at Obispado Hill. The climb will warm you up, but the cold wind bites at the top. A visit to the museum offers a good opportunity to maintain your operating temperature.\n\nAt noon, explore the viewpoints. The winter sun is low and often blinding, so wear sunglasses. The Mirador offers a clear panorama, but it quickly becomes uncomfortably cool in the shade without movement.\n\nIn the afternoon, head downhill towards the city center. The wind chill is biting in winter, making gloves and a neck warmer essential. The stop at the Arco de la Independencia is brief before you reach the warm Baseball Museum.\n\nThe day concludes in the Parque Fundidora area. Since the sun sets around 17:00, you must remember your bike lights. After dark, temperatures drop rapidly, so plan your return journey to be brisk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Obispado",
+                "hu": "Museo del Obispado",
+                "ro": "Museo del Obispado",
+                "en": "Museo del Obispado"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt wärmt Sie auf, aber ziehen Sie oben sofort Ihre Jacke wieder an; die dicken Mauern des Museums speichern die Kälte, also bleiben Sie in Bewegung.",
+                "hu": "A felfelé út felmelegít, de fent azonnal vedd vissza a kabátot; a múzeum vastag falai tartják a hideget, ezért maradj mozgásban odabent is.",
+                "ro": "Urcarea vă va încălzi, dar puneți-vă jacheta imediat ce ajungeți sus; zidurile groase ale muzeului rețin frigul, deci rămâneți în mișcare.",
+                "en": "The ride up will warm you up, but put your jacket back on immediately at the top; the museum's thick walls hold the cold, so keep moving inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Concha del Obispado",
+                "hu": "Concha del Obispado",
+                "ro": "Concha del Obispado",
+                "en": "Concha del Obispado"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Fernsicht von hier oben ist fantastisch; achten Sie auf Böen, die Ihr geparktes Rad umwerfen könnten, und tragen Sie winddichte Kleidung.",
+                "hu": "A téli távlati kilátás innen fentről fantasztikus; ügyelj a széllökésekre, amik feldönthetik a leállított bringát, és viselj szélálló ruházatot.",
+                "ro": "Vizibilitatea pe timp de iarnă de aici este fantastică; atenție la rafalele de vânt care pot răsturna bicicleta parcată și purtați haine rezistente la vânt.",
+                "en": "The winter long-distance visibility from up here is fantastic; watch out for gusts that could knock over your parked bike, and wear windproof clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Asta Bandera",
+                "hu": "Mirador Asta Bandera",
+                "ro": "Mirador Asta Bandera",
+                "en": "Mirador Asta Bandera"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist hier oben oft eiskalt; machen Sie Ihre Fotos zügig und nutzen Sie die Abfahrt, um durch die Anstrengung wieder etwas Wärme zu erzeugen.",
+                "hu": "A levegő itt fent gyakran jéghideg; készítsd el gyorsan a fotókat, és használd a lejtőt arra, hogy az erőkifejtéssel újra némi meleget termelj.",
+                "ro": "Aerul aici sus este adesea înghețat; faceți fotografiile rapid și folosiți coborârea pentru a genera puțină căldură prin efortul depus.",
+                "en": "The air up here is often freezing; take your photos quickly and use the descent to generate some warmth through physical effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Virgen de Guadalupe",
+                "hu": "Virgen de Guadalupe",
+                "ro": "Virgen de Guadalupe",
+                "en": "Virgen de Guadalupe"
+              },
+              "tip_5lang": {
+                "de": "Die Metalloberflächen können morgens mit Reif bedeckt sein; berühren Sie sie nicht mit bloßen Händen und achten Sie auf gefrorene Stellen auf dem Weg.",
+                "hu": "A fémfelületeket reggel zúzmara boríthatja; ne érj hozzájuk puszta kézzel, és ügyelj az úton lévő fagyott foltokra.",
+                "ro": "Suprafețele metalice pot fi acoperite cu promoroacă dimineața; nu le atingeți cu mâinile goale și atenție la porțiunile înghețate de pe drum.",
+                "en": "The metal surfaces can be covered with frost in the morning; don't touch them with bare hands and watch out for frozen patches on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Arco de la Independencia",
+                "hu": "Arco de la Independencia",
+                "ro": "Arco de la Independencia",
+                "en": "Arco de la Independencia"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie hier kurz Ihre Beleuchtung; durch die tiefstehende Sonne werden Radfahrer im Winter schlechter gesehen, Kleidung mit Reflektoren ist ratsam.",
+                "hu": "Ellenőrizd itt rövid ideig a világításodat; az alacsonyan járó nap miatt a bringásokat télen nehezebben látják, a fényvisszaverő ruházat ajánlott.",
+                "ro": "Verificați-vă luminile aici; din cauza soarelui jos, bicicliștii sunt mai greu de observat iarna, deci hainele reflectorizante sunt recomandate.",
+                "en": "Briefly check your lights here; because of the low sun, cyclists are harder to see in winter, so reflective clothing is highly advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la Fama del Beisbol",
+                "hu": "Salón de la Fama del Beisbol",
+                "ro": "Salón de la Fama del Beisbol",
+                "en": "Salón de la Fama del Beisbol"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss im Warmen; trinken Sie drinnen etwas Heißes, um sich vor dem endgültigen Heimweg in der kalten Abendluft zu stärken.",
+                "hu": "Tökéletes befejezés a melegben; igyál bent valami forrót, hogy erőt gyűjts a hideg esti levegőben megtett végső hazautazás előtt.",
+                "ro": "Un final perfect la căldură; beți ceva fierbinte înăuntru pentru a vă revigora înainte de drumul final spre casă în aerul rece de seară.",
+                "en": "A perfect ending in the warmth; have a hot drink inside to recharge before the final ride home in the cold evening air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje az autós túrát a helyi közlekedési múzeum kincseivel, mielőtt észak felé veszi az irányt a Szolidaritás Emlékműhöz. Délben látogasson el a történelmi Anahuac Toronyhoz és az impozáns Nuevo Leon Gimnáziumhoz. Délután közeledtével vezessen fel a történelmi Püspöki Palotához egy kis kulturális elmélyülésre. A nap látványosan zárul a Mirador Asta Bandera szeles panorámájával.",
         "ro": "Începeți turul auto explorând comorile de epocă la muzeul de transport înainte de a vă îndrepta spre Monumentul Solidarității. La prânz veți vizita Turnul istoric Anahuac și impozanta Sală Nuevo Leon. După-amiaza, conduceți până la istoricul Palat Episcopal pentru o imersiune culturală. Ziua se încheie spectaculos cu panorame uluitoare la Mirador Asta Bandera.",
         "en": "Start your driving tour exploring the vintage treasures at the local transport museum before venturing north to the Solidarity Monument. Midday leads you to the historic Antigua Anahuac Tower and the imposing Nuevo Leon Gymnasium. As afternoon approaches, navigate your way up to the historic Bishop's Palace for some cultural immersion. The day ends spectacularly with sweeping, windy panoramas at the Mirador Asta Bandera."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt entspannt im Museo de Autos, wo Ihr Fahrzeug trocken im Parkhaus steht. Die Fahrt zum Monumento a la Solidaridad erfordert bei Regen wegen der Gischt der anderen Autos erhöhte Vorsicht und mehr Abstand.\n\nMittags steuern Sie die historischen Türme an. Bleiben Sie für die Besichtigung der Torre Antigua im Auto, falls der Schauer zu stark ist, oder nutzen Sie die kurzen Regenpausen. Das Gimnasio bietet danach eine große überdachte Fläche.\n\nAm Nachmittag geht es zum Obispado-Hügel. Die Serpentinen können bei Nässe tückisch sein, fahren Sie langsam. Das Museum dort ist der ideale Ort, um dem prasselnden Regen für ein bis zwei Stunden zu entkommen.\n\nDer Tag endet am Mirador. Die Sicht auf Monterrey ist im Regen oft durch Wolken verhangen, was spektakuläre Fotos ermöglicht. Achten Sie beim Parken auf rutschige Markierungen und nutzen Sie die Klimaanlage gegen beschlagene Scheiben.",
+            "hu": "A nap kényelmesen indul az Autómúzeumban, ahol a kocsid szárazon áll a parkolóban. A Monumento a la Solidaridad felé vezető úton az eső és a többi autó felcsapódó vize miatt nagyobb követési távolságot tarts.\n\nDélben a történelmi tornyokat veszed célba. Ha túl heves a zápor, maradj az autóban a Torre Antigua megtekintésekor, vagy várd meg a rövid esőszünetet. A Gimnasio ezután tágas, fedett területet kínál.\n\nDélután az Obispado-domb felé veszed az irányt. A szerpentinek nedvesen trükkösek lehetnek, tarts lassú tempót. Az ottani múzeum ideális hely, hogy egy-két órára elmenekülj a kopogó eső elől.\n\nA nap a kilátónál zárul. Monterrey látképét esőben gyakran felhők tarkítják, ami látványos fotókat eredményez. Parkoláskor ügyelj a csúszós felfestésekre, és használd a klímát a szélvédő páramentesítésére.",
+            "ro": "Ziua începe relaxat la Muzeul Auto, unde mașina rămâne la adăpost în parcare. Drumul spre Monumento a la Solidaridad necesită atenție sporită și o distanță mai mare față de ceilalți participanți la trafic pe ploaie.\n\nLa prânz, vă îndreptați spre turnurile istorice. Rămâneți în mașină pentru a vedea Torre Antigua dacă plouă prea tare sau profitați de scurtele pauze. Gimnaziul oferă ulterior o zonă acoperită generoasă.\n\nDupă-amiaza, urcați spre dealul Obispado. Serpentinele pot fi înșelătoare pe carosabil ud, așa că conduceți încet. Muzeul de acolo este locul ideal pentru a scăpa de ploaia torențială pentru o oră sau două.\n\nZiua se încheie la Mirador. Vederea asupra orașului Monterrey este adesea acoperită de nori pe ploaie, permițând fotografii spectaculoase. Atenție la marcajele alunecoase din parcare și folosiți degivrarea.",
+            "en": "The day starts comfortably at the Car Museum, where your vehicle stays dry in the parking garage. The drive to the Solidarity Monument requires increased caution and more distance due to the spray from other cars.\n\nAt noon, head for the historical towers. Stay in the car to view Torre Antigua if the downpour is too heavy, or catch a break in the rain. The Gymnasium then offers a large covered area for your next stop.\n\nIn the afternoon, head to Obispado Hill. The winding roads can be treacherous when wet, so drive slowly. The museum there is the ideal place to escape the pitter-patter of the rain for an hour or two.\n\nThe day ends at the Mirador. The view of Monterrey in the rain is often shrouded in clouds, which allows for spectacular photos. Watch out for slippery markings when parking and use the AC to prevent fogged windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Autos y Transportes Mty",
+                "hu": "Museo de Autos y Transportes Mty",
+                "ro": "Museo de Autos y Transportes Mty",
+                "en": "Museo de Autos y Transportes Mty"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Startpunkt bei Regen; parken Sie direkt am Gebäude, um trockenen Fußes in die beeindruckende Oldtimer-Sammlung zu gelangen.",
+                "hu": "Tökéletes kezdőpont esőben; parkolj közvetlenül az épületnél, hogy száraz lábbal juthass be a lenyűgöző veteránautó-gyűjteménybe.",
+                "ro": "Un punct de plecare perfect pe ploaie; parcați chiar lângă clădire pentru a ajunge cu picioarele uscate la colecția impresionantă de mașini clasice.",
+                "en": "A perfect starting point in the rain; park directly by the building to reach the impressive vintage car collection with dry feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Solidaridad",
+                "hu": "Monumento a la Solidaridad",
+                "ro": "Monumento a la Solidaridad",
+                "en": "Monumento a la Solidaridad"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Denkmal am besten vom Auto aus, da der Parkplatz bei starkem Regen oft unter Wasser steht; ein kurzer Fotostopp genügt.",
+                "hu": "Ezt az emlékművet a legjobb az autóból szemlélni, mivel a parkoló heves esőzéskor gyakran víz alatt áll; egy rövid fotómegálló is bőven elég.",
+                "ro": "Cel mai bine este să vedeți acest monument din mașină, deoarece parcarea este adesea inundată în timpul ploilor abundente; o scurtă oprire foto e suficientă.",
+                "en": "It's best to view this monument from the car, as the parking lot is often underwater during heavy rain; a quick photo stop is quite sufficient."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Antigua Anahuac",
+                "hu": "Torre Antigua Anahuac",
+                "ro": "Torre Antigua Anahuac",
+                "en": "Torre Antigua Anahuac"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis; falls es aufhört zu regnen, steigen Sie kurz aus, ansonsten bietet der Turm auch aus dem Fenster ein tolles Motiv.",
+                "hu": "Használd a kocsit bázisként; ha eláll az eső, szállj ki egy pillanatra, egyébként a torony az ablakból is remek fotótémát szolgáltat.",
+                "ro": "Folosiți mașina ca bază; dacă se oprește ploaia, coborâți scurt, altfel turnul oferă un subiect excelent pentru fotografii chiar și de pe geam.",
+                "en": "Use the car as your base; if it stops raining, step out briefly, otherwise the tower makes for a great photo subject even through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Gimnasio Nuevo Leon",
+                "hu": "Gimnasio Nuevo Leon",
+                "ro": "Gimnasio Nuevo Leon",
+                "en": "Gimnasio Nuevo Leon"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur bietet viel Schutz beim Aussteigen; achten Sie auf Pfützen auf dem Weg zum Eingang und genießen Sie das geschäftige Treiben drinnen.",
+                "hu": "Az építészet jó védelmet nyújt a kiszálláskor; ügyelj a tócsákra a bejárat felé vezető úton, és élvezd a benti nyüzsgést a szárazban.",
+                "ro": "Arhitectura oferă multă protecție la coborâre; atenție la bălțile din drumul spre intrare și bucurați-vă de forfota din interior la adăpost.",
+                "en": "The architecture provides plenty of shelter when getting out; watch out for puddles on the way to the entrance and enjoy the indoor bustle."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Obispado",
+                "hu": "Museo del Obispado",
+                "ro": "Museo del Obispado",
+                "en": "Museo del Obispado"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt erfordert bei Nässe gute Reifen; parken Sie so nah wie möglich am Eingang, um den Aufenthalt im prachtvollen Interieur zu verlängern.",
+                "hu": "A felhajtó nedves időben jó gumikat igényel; parkolj a lehető legközelebb a bejárathoz, hogy több időt tölthess a pompás belső terekben.",
+                "ro": "Urcarea necesită anvelope bune pe timp umed; parcați cât mai aproape de intrare pentru a prelungi timpul petrecut în interiorul magnific.",
+                "en": "The drive up requires good tires in wet weather; park as close to the entrance as possible to maximize your stay in the magnificent interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Asta Bandera",
+                "hu": "Mirador Asta Bandera",
+                "ro": "Mirador Asta Bandera",
+                "en": "Mirador Asta Bandera"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, um das Panorama zu genießen, wenn der Wind zu stark peitscht; die beleuchtete Stadt sieht im Regen besonders funkelnd aus.",
+                "hu": "Maradj az autóban, és onnan élvezd a panorámát, ha túl erősen fúj a szél; a kivilágított város az esőben különösen csillogónak hat.",
+                "ro": "Rămâneți în mașină pentru a vă bucura de panoramă dacă vântul bate prea tare; orașul iluminat arată deosebit de strălucitor pe ploaie.",
+                "en": "Stay in the car to enjoy the panorama if the wind is whipping too hard; the lit-up city looks especially sparkling in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintermorgen mit einer warmen Fahrt zum Museo de Autos. Das Fahrzeug schützt Sie vor der kühlen Morgenbrise. Genießen Sie die Technikgeschichte im wohltemperierten Museum, bevor es zu den Außenmonumenten geht.\n\nMittags ist es sonnig, aber kühl. Der Stopp am Monumento a la Solidaridad ist kurz, ebenso wie an der Torre Antigua, da der Wind in den offenen Gebieten schneidig sein kann. Das Gimnasio bietet danach eine willkommene Aufwärmpause.\n\nAm Nachmittag erklimmen Sie mit dem Wagen den Obispado-Hügel. Die Heizung sorgt für Komfort, während Sie den Blick auf die oft schneebedeckten Gipfel in der Ferne genießen. Das Museum ist der perfekte Ort für die Zeit vor dem frühen Sonnenuntergang.\n\nDer Tag endet am Mirador gegen 17:00 Uhr. Wenn die Sonne untergeht, fallen die Temperaturen schnell. Bleiben Sie für das Panorama im warmen Auto und genießen Sie das Lichtermeer der Stadt, bevor Sie die Heimreise antreten.",
+            "hu": "Indítsd a téli reggelt egy meleg autózással az Autómúzeumhoz. A jármű megvéd a hűvös reggeli széltől. Élvezd a technikatörténetet a kellemes hőmérsékletű múzeumban, mielőtt a szabadtéri emlékművekhez indulnál.\n\nDélben napos, de hűvös az idő. A megálló a Monumento a la Solidaridad-nál rövid, ahogy a Torre Antigua-nál is, mivel a szél a nyílt területeken metsző lehet. A Gimnasio ezután jóleső bemelegítő szünetet kínál.\n\nDélután autóval hódítod meg az Obispado-dombot. A fűtés kényelmet nyújt, miközben a távoli, gyakran hófödte csúcsokat csodálod. A múzeum tökéletes hely a korai naplemente előtti időtöltésre.\n\nA nap a kilátónál zárul 17:00 körül. Amint lemegy a nap, a hőmérséklet gyorsan zuhan. A panoráma kedvéért maradj a meleg autóban, és élvezd a város fényeit, mielőtt elindulnál hazafelé.",
+            "ro": "Începeți dimineața de iarnă cu o călătorie caldă spre Muzeul Auto. Mașina vă protejează de briza rece. Bucurați-vă de istoria tehnologiei în muzeul bine încălzit înainte de a merge la monumentele exterioare.\n\nLa prânz este însorit, dar rece. Oprirea la Monumento a la Solidaridad este scurtă, la fel și la Torre Antigua, deoarece vântul poate fi tăios în zonele deschise. Gimnaziul oferă apoi o pauză de încălzire binevenită.\n\nDupă-amiaza, urcați cu mașina pe dealul Obispado. Căldura din interior vă asigură confortul în timp ce admirați vârfurile adesea înzăpezite din depărtare. Muzeul este locul perfect înainte de apusul timpuriu.\n\nZiua se încheie la Mirador în jurul orei 17:00. Când soarele apune, temperaturile scad rapid. Rămâneți în mașina caldă pentru panoramă și admirați marea de lumini a orașului înainte de a pleca spre casă.",
+            "en": "Start the winter morning with a warm drive to the Car Museum. The vehicle protects you from the cool morning breeze. Enjoy technical history in the well-tempered museum before heading to the outdoor monuments.\n\nAt noon, it's sunny but cool. The stop at the Solidarity Monument is brief, as is the one at Torre Antigua, as the wind can be biting in open areas. The Gymnasium then offers a welcome warm-up break.\n\nIn the afternoon, climb Obispado Hill by car. The heating ensures comfort while you enjoy the view of the often snow-capped peaks in the distance. The museum is the perfect place for the time before the early sunset.\n\nThe day concludes at the Mirador around 5 PM. As the sun sets, temperatures drop quickly. Stay in the warm car for the panorama and enjoy the city's sea of lights before starting your journey home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo de Autos y Transportes Mty",
+                "hu": "Museo de Autos y Transportes Mty",
+                "ro": "Museo de Autos y Transportes Mty",
+                "en": "Museo de Autos y Transportes Mty"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragend beheiztes Museum für den Start; lassen Sie Ihre dicke Jacke im Auto, da das Gebäude angenehm temperiert ist für die Besichtigung.",
+                "hu": "Kiválóan fűtött múzeum a kezdéshez; hagyd a vastag kabátot az autóban, mivel az épület kellemes hőmérsékletű a nézelődéshez.",
+                "ro": "Un muzeu excelent încălzit pentru început; lăsați jacheta groasă în mașină, deoarece clădirea are o temperatură plăcută pentru vizitare.",
+                "en": "An excellently heated museum to start with; leave your heavy jacket in the car, as the building is pleasantly tempered for the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Solidaridad",
+                "hu": "Monumento a la Solidaridad",
+                "ro": "Monumento a la Solidaridad",
+                "en": "Monumento a la Solidaridad"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier völlig aus; der Wind auf dem freien Gelände ist im Winter oft schneidig, halten Sie die Autotüren fest beim Öffnen.",
+                "hu": "Egy rövid fotómegálló itt bőven elég; a nyílt terepen a szél télen gyakran metsző, az ajtó nyitásakor fogd meg jól az autó kilincsét.",
+                "ro": "O scurtă oprire foto este suficientă aici; vântul pe terenul deschis este adesea tăios iarna, așa că țineți bine portierele când le deschideți.",
+                "en": "A quick photo stop is quite sufficient here; the wind in the open area is often biting in winter, so hold the car doors firmly when opening them."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Antigua Anahuac",
+                "hu": "Torre Antigua Anahuac",
+                "ro": "Torre Antigua Anahuac",
+                "en": "Torre Antigua Anahuac"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Turm, um die Exposition im Freien kurz zu halten; die warme Sitzheizung im Auto wird danach besonders geschätzt.",
+                "hu": "Parkolj közel a toronyhoz, hogy a kinti tartózkodást rövidre tudd fogni; az autó meleg ülésfűtése utána különösen jólesik majd.",
+                "ro": "Parcați aproape de turn pentru a scurta expunerea la frig; încălzirea din scaune va fi foarte apreciată după această scurtă vizită.",
+                "en": "Park close to the tower to keep the outdoor exposure brief; the car's seat heating will be especially appreciated afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Gimnasio Nuevo Leon",
+                "hu": "Gimnasio Nuevo Leon",
+                "ro": "Gimnasio Nuevo Leon",
+                "en": "Gimnasio Nuevo Leon"
+              },
+              "tip_5lang": {
+                "de": "Drinnen ist es lebhaft und warm; ein idealer Ort, um die Glieder zu lockern, bevor es für den Nachmittag weiter auf den Hügel geht.",
+                "hu": "Odabent élénk és meleg az élet; ideális hely a végtagok átmozgatására, mielőtt délután továbbmennél fel a dombra.",
+                "ro": "În interior este plin de viață și cald; un loc ideal pentru a vă dezmorți înainte de a continua drumul spre deal pentru după-amiază.",
+                "en": "It's lively and warm inside; an ideal spot to loosen your limbs before heading further up the hill for the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Obispado",
+                "hu": "Museo del Obispado",
+                "ro": "Museo del Obispado",
+                "en": "Museo del Obispado"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Atmosphäre im Warmen; der Blick aus den Fenstern auf die umliegenden Berge ist im klaren Winterlicht am besten.",
+                "hu": "Élvezd a történelmi hangulatot a melegben; az ablakokból a környező hegyekre nyíló kilátás a tiszta téli fényben a legszebb.",
+                "ro": "Bucurați-vă de atmosfera istorică la căldură; vederea de la ferestre spre munții din jur este cea mai bună în lumina clară de iarnă.",
+                "en": "Enjoy the historical atmosphere in the warmth; the view from the windows of the surrounding mountains is best in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Asta Bandera",
+                "hu": "Mirador Asta Bandera",
+                "ro": "Mirador Asta Bandera",
+                "en": "Mirador Asta Bandera"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 17 Uhr aus dem Auto; die Heizung hält Sie warm, während die Stadt unter Ihnen zu leuchten beginnt.",
+                "hu": "Éld át a naplementét 17 óra körül az autóból; a fűtés melegen tart, miközben a város alattad fénybe borul.",
+                "ro": "Experimentați apusul în jurul orei 17 direct din mașină; sistemul de încălzire vă va ține de cald în timp ce orașul începe să strălucească.",
+                "en": "Experience the sunset around 5 PM from the car; the heating keeps you warm while the city below begins to glow."
+              }
+            }
+          ]
+        }
       }
     }
   }

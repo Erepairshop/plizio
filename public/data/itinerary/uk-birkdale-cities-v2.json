@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi vasútállomáson kezdődik, ahonnan gyorsan a helyi falu nyüzsgő szívébe érünk. A dél közeledtével a Weld Road elegáns műemlékházai mellett haladunk a békés St James templom felé. A délutánt a Lord Street West mentén található építészeti csodák felfedezésére szánjuk. Végül az estét egy lélegzetelállító séta zárja a tágas tengerparti homokon.",
         "ro": "Dimineața începe la gara istorică, trecând rapid în inima plină de viață a satului local. La prânz treceți pe lângă casele de patrimoniu elegante de pe Weld Road spre biserica pașnică St James. După-amiaza este dedicată explorării splendorilor arhitecturale de-a lungul Lord Street West. În cele din urmă, seara se încheie cu o plimbare uluitoare pe nisipurile de coastă.",
         "en": "Morning begins with the arrival at the historic railway station, quickly transitioning into the bustling heart of the local village. Midday takes you past the elegant heritage homes on Weld Road toward the peaceful St James' Church. The afternoon is dedicated to exploring the architectural splendors along Lord Street West. Finally, the evening concludes with a breathtaking walk along the expansive coastal sands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das historische Bahnhofsdach Schutz. Mittags dienen die Markisen im Dorf als trockener Rückzugsort. Nachmittags spazieren wir unter den gusseisernen Arkaden der Lord Street, die ideal gegen den Regen abschirmen. Abends erleben wir die raue Schönheit des nebligen Strandes; wetterfeste Kleidung und festes Schuhwerk sind für diesen stimmungsvollen Tag unverzichtbar.",
+            "hu": "Reggel az állomás fedett peronján kezdünk. Délben a falu boltjai és beugrói védenek a záportól. Délután a Lord Street viktoriánus árkádjai alatt sétálunk szárazon, csodálva a díszes oszlopokat. Este a homokos parton a ködös, szürke tenger látványa zárja a napot; a vízálló cipő ma elengedhetetlen a dűnék között a csúszós szakaszok miatt.",
+            "ro": "Dimineața începe sub adăpostul gării istorice. La prânz, magazinele din sat oferă refugiu între reprizele de ploaie. După-amiaza explorăm arcadele victoriene de pe Lord Street, care ne mențin uscați în timp ce admirăm arhitectura. Seara se încheie pe plaja încețoșată, unde marea oferă un spectacol dramatic; nu uitați umbrela și încălțămintea impermeabilă pentru acest traseu.",
+            "en": "Morning starts under the station's shelter. At noon, village awnings provide dry spots between showers. Afternoon is spent under the grand canopies of Lord Street, perfect for avoiding the wet weather. Evening concludes with a misty walk on the sands, where the grey sea looks truly atmospheric; a sturdy umbrella and waterproof coat are essential companions today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Birkdale Railway Station",
+                "hu": "Birkdale Vasútállomás",
+                "ro": "Gara Birkdale",
+                "en": "Birkdale Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das historische Vordach der Station, um Ihren Regenschirm in Ruhe aufzuspannen und die Route trocken zu planen, bevor Sie ins Dorf aufbrechen.",
+                "hu": "Használja ki az állomás történelmi védőtetőjét, hogy szárazon tervezze meg az indulást; egy strapabíró esernyő ma a legfontosabb felszerelése lesz.",
+                "ro": "Folosiți copertina istorică a gării pentru a vă pregăti umbrela și a planifica traseul la adăpost înainte de a porni spre inima satului Birkdale.",
+                "en": "Utilize the station's historic canopy to open your umbrella in comfort and check your map while staying dry before heading out into the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Village",
+                "hu": "Birkdale Falu",
+                "ro": "Satul Birkdale",
+                "en": "Birkdale Village"
+              },
+              "tip_5lang": {
+                "de": "Die vielen kleinen Ladenfronten bieten exzellenten Schutz vor Schauern; nutzen Sie die kurzen Regenpausen, um zwischen den gemütlichen Boutiquen zu wechseln.",
+                "hu": "A boltok előtti ereszaljak és beugrók remek menedéket nyújtanak; használja ki a rövidebb záporszüneteket a hangulatos butikok közötti gyors átjutáshoz.",
+                "ro": "Fațadele magazinelor oferă o protecție excelentă împotriva ploii; profitați de pauzele scurte dintre reprize pentru a explora buticurile cochete din sat.",
+                "en": "The many shop frontages provide excellent cover from sudden downpours; use the brief gaps between showers to hop between the charming local boutiques."
+              }
+            },
+            {
+              "name": {
+                "de": "Weld Road",
+                "hu": "Weld Út",
+                "ro": "Drumul Weld",
+                "en": "Weld Road"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den nassen Gehwegen auf Rutschgefahr und bewundern Sie die viktorianische Architektur am besten im schnellen Vorbeigehen unter Ihrem Schirm.",
+                "hu": "A vizes aszfalton közlekedjen óvatosan a csúszásveszély miatt, és csodálja meg a viktoriánus villákat az esernyője biztonságos menedéke alól.",
+                "ro": "Atenție la trotuarele umede care pot deveni alunecoase; admirați arhitectura victoriană mergând rapid sub umbrelă spre următorul punct protejat.",
+                "en": "Be careful of slippery pavements when wet; the grand Victorian architecture is best admired while walking briskly under the protection of a good umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "St James' Church",
+                "hu": "St James Templom",
+                "ro": "Biserica Sfântul Iacob",
+                "en": "St James' Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die friedliche Stille und die bunten Glasfenster zu genießen, während draußen der Regen gegen die alten Steinmauern peitscht.",
+                "hu": "Lépjen be a templom belső terébe, ahol a csend és a színes üvegablakok látványa feledteti a kinti esőt, miközben megvárja a vihar elvonulását.",
+                "ro": "Intrați în interior pentru a vă bucura de liniște și de vitraliile colorate, în timp ce pereții groși de piatră vă protejează de vremea de afară.",
+                "en": "Step inside to appreciate the peaceful silence and stained glass windows while the thick stone walls offer a perfect dry refuge from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street West",
+                "hu": "Lord Street West",
+                "ro": "Lord Street West",
+                "en": "Lord Street West"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie gemütlich unter den berühmten gusseisernen Veranden, die Sie fast die gesamte Straße entlang trocken halten und zum Schaufensterbummel einladen.",
+                "hu": "Sétáljon a híres öntöttvas árkádok alatt, amelyek szinte az egész út mentén szárazon tartják, így zavartalanul csodálhatja az elegáns kirakatokat.",
+                "ro": "Plimbați-vă pe sub faimoasele arcade de fontă care vă țin uscat pe aproape toată lungimea străzii, fiind locul ideal pentru o plimbare în siguranță.",
+                "en": "Walk comfortably beneath the famous cast-iron verandas that keep you dry along most of the street, making it ideal for window shopping in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Sands",
+                "hu": "Birkdale Homokos Part",
+                "ro": "Plaja Birkdale",
+                "en": "Birkdale Sands"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist bei Regen sehr windig; tragen Sie eine windfeste Regenjacke und genießen Sie nur kurz den dramatischen Blick auf die aufgewühlte Irische See.",
+                "hu": "A part ilyenkor szeles és kitett, ezért csak egy gyors sétát javaslunk szélálló esőkabátban, hogy megcsodálja a háborgó tenger drámai látványát.",
+                "ro": "Plaja este foarte expusă vântului când plouă; purtați o jachetă impermeabilă și bucurați-vă de vederea dramatică a Mării Irlandei doar pentru scurt timp.",
+                "en": "The beach is very exposed when raining; wear a windproof waterproof jacket and enjoy a quick, bracing look at the dramatic, choppy Irish Sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische, frostige Brise vom Meer herüber. Mittags laden die warmen Cafés im Dorf zu einer gemütlichen Pause ein. Nachmittags erleuchten die festlichen Lichter der Lord Street den Weg in der frühen Dämmerung. Abends, noch vor 17 Uhr, erleben wir den Sonnenuntergang über den glitzernden Dünen; warme Schichten und Handschuhe sind heute ein Muss.",
+            "hu": "Reggel friss, csípős levegő fogadja a sétálókat. Délben a falu barátságos kávézói kínálnak menedéket a fagyos szél elől. Délután a Lord Street ünnepi fényei ragyogják be az utat a korai szürkületben. Este, még 17 óra előtt, a homokos dűnék felett nézzük a naplementét; a réteges öltözködés és egy forró ital elengedhetetlen a parton.",
+            "ro": "Dimineața aduce un aer proaspăt și tăios de iarnă. La prânz, cafenelele primitoare din sat sunt ideale pentru a vă încălzi cu o băutură fierbinte. După-amiaza, luminile festive de pe Lord Street strălucesc frumos în amurgul timpuriu. Seara se încheie cu apusul peste dunele înghețate înainte de ora 17; purtați haine groase în straturi.",
+            "en": "Morning brings a crisp, frosty breeze from the coast. At noon, cozy village cafes offer a warm respite from the winter chill. Afternoon features the beautiful festive lights of Lord Street glowing in the early dusk. Evening ends with a sunset over the dunes before 5 PM; thick layers and a thermos of tea are highly recommended for the beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Birkdale Railway Station",
+                "hu": "Birkdale Vasútállomás",
+                "ro": "Gara Birkdale",
+                "en": "Birkdale Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie sich zügig, um warm zu bleiben, und nutzen Sie den Warteraum, falls der Wind am Bahnsteig im Winter zu schneidend wird.",
+                "hu": "Induljon lendületesen a sétaútra, hogy testhőmérséklete emelkedjen, és használja a várótermet, ha a téli szél túl metsző lenne a peronon.",
+                "ro": "Începeți plimbarea într-un ritm alert pentru a vă încălzi și folosiți sala de așteptare dacă vântul de iarnă devine prea tăios pe peron.",
+                "en": "Set off at a brisk pace to keep your circulation going, and use the waiting room if the winter wind feels too biting on the platform."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Village",
+                "hu": "Birkdale Falu",
+                "ro": "Satul Birkdale",
+                "en": "Birkdale Village"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Fensterplätzchen in einem der Cafés, um das winterliche Treiben im Dorf bei einem heißen Kakao oder Tee gemütlich zu beobachten.",
+                "hu": "Keressen egy ablak melletti asztalt valamelyik kávézóban, és egy forró tea mellett élvezze a falu ünnepi készülődésének hangulatos látványát.",
+                "ro": "Găsiți un loc la geam într-o cafenea locală pentru a observa animația de iarnă a satului în timp ce savurați o ciocolată caldă primitoare.",
+                "en": "Find a window seat in a local cafe to watch the winter village life pass by while warming up with a hot chocolate or a pot of tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Weld Road",
+                "hu": "Weld Út",
+                "ro": "Drumul Weld",
+                "en": "Weld Road"
+              },
+              "tip_5lang": {
+                "de": "Der Frost auf den historischen Mauern bietet tolle Fotomotive; achten Sie jedoch auf glatte Stellen auf dem Gehweg bei niedrigen Temperaturen.",
+                "hu": "A történelmi kerítéseken megülő zúzmara gyönyörű látvány, de figyeljen a lába elé, mert a járdák a reggeli fagy miatt csúszósak lehetnek.",
+                "ro": "Bruma de pe zidurile istorice oferă oportunități foto superbe; totuși, fiți atenți la porțiunile de trotuar care pot fi înghețate dimineața.",
+                "en": "The frost on the historic boundary walls makes for beautiful photos; however, watch out for icy patches on the pavement in low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "St James' Church",
+                "hu": "St James Templom",
+                "ro": "Biserica Sfântul Iacob",
+                "en": "St James' Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Stille auf dem Kirchhof und wärmen Sie sich kurz im Inneren auf, wo oft eine besinnliche Adventsstimmung herrscht.",
+                "hu": "Élvezze a templomkert téli nyugalmát, majd melegedjen fel a belső térben, ahol ilyenkor gyakran ünnepi adventi díszítés fogadja a látogatókat.",
+                "ro": "Admirați liniștea de iarnă din curtea bisericii și intrați scurt pentru a vă încălzi într-o atmosferă spirituală plină de pace și căldură.",
+                "en": "Enjoy the winter stillness of the churchyard and step inside to warm up briefly in an atmosphere often filled with festive advent spirit."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street West",
+                "hu": "Lord Street West",
+                "ro": "Lord Street West",
+                "en": "Lord Street West"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie zur blauen Stunde hierher, wenn die festliche Beleuchtung unter den Arkaden die Straße in ein magisches Winterlicht taucht.",
+                "hu": "Érkezzen a szürkület idején, amikor az árkádok alatti ünnepi díszkivilágítás varázslatos téli hangulatba öltözteti ezt az elegáns sugárutat.",
+                "ro": "Veniți aici la lăsarea serii, când iluminatul festiv de sub arcade transformă strada într-un peisaj magic de iarnă, perfect pentru poze.",
+                "en": "Visit during the 'blue hour' as the festive lights beneath the verandas turn the street into a magical winter wonderland before dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Sands",
+                "hu": "Birkdale Homokos Part",
+                "ro": "Plaja Birkdale",
+                "en": "Birkdale Sands"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch vor 16:30 Uhr, um den winterlichen Sonnenuntergang zu sehen; der Wind ist eisig, nehmen Sie also unbedingt Schal und Mütze mit.",
+                "hu": "Tervezze a látogatást 16:30 előtt, hogy lássa a téli naplementét; a szél metsző, így a sál és a sapka ma kötelező darab a dűnék között.",
+                "ro": "Planificați vizita înainte de 16:30 pentru a vedea apusul de iarnă; vântul este tăios, deci asigurați-vă că aveți fular și căciulă groasă.",
+                "en": "Aim to arrive before 4:30 PM to catch the winter sunset; the coastal wind is icy, so make sure you are wearing a warm hat and scarf."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros útját a nyüzsgő faluban, mielőtt eltekerne a történelmi templomhoz egy kis reggeli elmélkedésre. Délben a festői tengerparti homok felé vesszük az irányt, érezve a friss óceáni szellőt. A délután a helyi vidámpark vibráló energiáját hozza el. Az estét a csendes mesterséges tó és a Lord Street West nagyszerű sugárútjai melletti kellemes gurulással zárja.",
         "ro": "Începeți călătoria cu bicicleta în satul plin de viață înainte de a pedala către biserica istorică. La prânz, accelerați în timp ce pedalați spre nisipurile pitorești de coastă, simțind briza proaspătă a oceanului. După-amiaza aduce energia vibrantă a parcului de distracții local. Încheiați seara alunecând pe lângă lacul marin liniștit și marile bulevarde de pe Lord Street West.",
         "en": "Start your cycling journey in the lively village before pedaling to the historic church for a moment of morning reflection. Midday speeds up as you ride out to the scenic coastal sands, feeling the fresh ocean breeze. Afternoon brings the vibrant energy of the local pleasureland rides. End your evening gliding past the tranquil marine lake and the grand boulevards of Lord Street West."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert der nasse Asphalt im Dorf volle Konzentration. Mittags bietet die Kirche eine willkommene trockene Pause für Radfahrer. Nachmittags ist die Fahrt am Marine Lake windig und regnerisch, was eine mystische Stimmung erzeugt. Abends nutzen wir die Lord Street Arkaden zum Unterstellen; helle Reflektoren und gute Bremsen sind bei diesem Wetter lebenswichtig.",
+            "hu": "Reggel a vizes aszfalt fokozott figyelmet igényel a faluban. Délben a templomkert fái és épülete kínál száraz pihenőt a bringásoknak. Délután a Marine Lake mentén tekerni esőben igazi kihívás, de a látvány misztikus. Este a Lord Street árkádjai alatt húzódunk meg; a jó fékek és a láthatósági mellény ma életmentő a városi forgalomban.",
+            "ro": "Dimineața necesită concentrare pe asfaltul umed din sat. La prânz, biserica oferă o pauză uscată binevenită pentru bicicliști. După-amiaza, plimbarea pe lângă Marine Lake este vântoasă, creând o atmosferă misterioasă. Seara folosim arcadele de pe Lord Street pentru adăpost; frânele bune și elementele reflectorizante sunt vitale.",
+            "en": "Morning requires extra focus on the wet village roads. At noon, the church provides a much-needed dry stop for cyclists. Afternoon cycling by Marine Lake is windy and wet, creating a moody coastal atmosphere. Evening sees us sheltering under the Lord Street verandas; bright reflectors and reliable brakes are essential for safety today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Birkdale Village",
+                "hu": "Birkdale Falu",
+                "ro": "Satul Birkdale",
+                "en": "Birkdale Village"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Beleuchtung im Regen ein und nutzen Sie die Vordächer der Cafés, um Ihr Rad kurz unterzustellen, während Sie sich orientieren.",
+                "hu": "Kapcsolja be a lámpákat az esőben a láthatóságért, és használja a kávézók előtetőit a bicikli rövid leállítására, amíg megnézi az útvonalat.",
+                "ro": "Aprindeți luminile pe ploaie și folosiți copertinele cafenelelor pentru a parca scurt bicicleta la adăpost în timp ce vă orientați.",
+                "en": "Switch on your lights in the rain for visibility and use the cafe awnings to park your bike briefly while you check your next turn."
+              }
+            },
+            {
+              "name": {
+                "de": "St James' Church",
+                "hu": "St James Templom",
+                "ro": "Biserica Sfântul Iacob",
+                "en": "St James' Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen und treten Sie ein, um im trockenen Kirchenschiff neue Energie für die Weiterfahrt im Regen zu tanken.",
+                "hu": "Parkoljon a fák védelmében, és menjen be a templomba, hogy a száraz és csendes belső térben újult erőre kapjon a további vizes tekeréshez.",
+                "ro": "Parcați bicicleta sub protecția copacilor și intrați pentru a vă recupera energia în interiorul uscat înainte de a continua drumul prin ploaie.",
+                "en": "Park your bike under the shelter of the trees and step inside to recharge your energy in the dry nave before continuing your rainy ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Sands",
+                "hu": "Birkdale Homokos Part",
+                "ro": "Plaja Birkdale",
+                "en": "Birkdale Sands"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem nassen Untergrund nahe dem Strand und tragen Sie eine wasserdichte Hose, um gegen das Spritzwasser geschützt zu sein.",
+                "hu": "Tekerjen óvatosan a vizes talajon a part közelében, és viseljen vízálló nadrágot a felcsapódó sár és esővíz elleni védekezés érdekében.",
+                "ro": "Pedalați cu prudență pe suprafața umedă de lângă plajă și purtați pantaloni impermeabili pentru a vă proteja de apa împroșcată de roți.",
+                "en": "Cycle carefully on the wet surfaces near the beach and wear waterproof trousers to stay dry from both the rain and the road spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pleasureland",
+                "hu": "Southport Vidámpark",
+                "ro": "Parcul de Distracții Southport",
+                "en": "Southport Pleasureland"
+              },
+              "tip_5lang": {
+                "de": "Die bunten Fahrgeschäfte bieten auch im Regen tolle Kontraste; nutzen Sie die überdachten Bereiche am Eingang für eine kurze Trinkpause im Trockenen.",
+                "hu": "A színes játékok esőben is jó fotótémák; használja a bejáratnál lévő fedett részeket egy gyors, száraz frissítőre a továbbindulás előtt.",
+                "ro": "Atractiile colorate oferă contraste frumoase pe ploaie; folosiți zonele acoperite de la intrare pentru o scurtă pauză de hidratare la uscat.",
+                "en": "The colourful rides offer great visual contrasts in the rain; use the covered areas near the entrance for a quick dry hydration break."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Marine Lake",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg kann bei Regen sehr windig sein; halten Sie den Lenker fest und achten Sie auf Pfützen, die tiefer sein könnten, als sie aussehen.",
+                "hu": "A tóparti út szeles lehet az esőben; tartsa stabilan a kormányt és kerülje a nagyobb pocsolyákat, mert mélyebbek lehetnek a vártnál.",
+                "ro": "Drumul de pe marginea lacului poate fi vântos pe ploaie; țineți bine ghidonul și evitați bălțile care pot ascunde gropi adânci pe traseu.",
+                "en": "The lakeside path can be very windy in the rain; keep a firm grip on the handlebars and avoid deep puddles that may hide uneven ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street West",
+                "hu": "Lord Street West",
+                "ro": "Lord Street West",
+                "en": "Lord Street West"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Rad am besten unter den Arkaden, um die Architektur im Trockenen zu bewundern und den Tag entspannt ausklingen zu lassen.",
+                "hu": "A legjobb, ha az árkádok alatt tolja a biciklit, így szárazon csodálhatja az épületeket és elkerülheti a sűrű városi forgalom felcsapódó vizét.",
+                "ro": "Cel mai bine este să mergeți pe lângă bicicletă sub arcade pentru a admira arhitectura la adăpost și a încheia ziua fără a vă uda mai tare.",
+                "en": "It is best to wheel your bike under the verandas to admire the architecture while staying dry and avoiding the heavy road spray from cars."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens startet die Tour bei frostigen Temperaturen durch das Dorf. Mittags bietet die Kirche einen Moment der Ruhe vor dem eisigen Küstenwind. Nachmittags erreichen wir den Marine Lake, wenn das Licht der frühen Dämmerung auf das Wasser fällt. Abends wärmen wir uns unter den beleuchteten Arkaden der Lord Street auf; Thermokleidung und Handschuhe sind für diese Winterfahrt unerlässlich.",
+            "hu": "Reggel fagyos hőmérsékletben indul a faluból a kerékpáros túra. Délben a templom csendje és fala kínál védelmet a metsző parti szél ellen. Délután a Marine Lake-nél már a korai szürkület fényei tükröződnek a vízen. Este a Lord Street kivilágított árkádjai alatt melegedünk fel; a réteges öltözet és a kesztyű ma kötelező darab minden bringásnak.",
+            "ro": "Dimineața turul începe la temperaturi de îngheț prin sat. La prânz, biserica oferă un moment de liniște ferit de vântul tăios de coastă. După-amiaza ajungem la Marine Lake când lumina amurgului se reflectă în apă. Seara ne încălzim sub arcadele luminate de pe Lord Street; hainele termice și mănușile sunt obligatorii.",
+            "en": "Morning starts with frosty temperatures for a crisp ride through the village. At noon, the church offers a quiet refuge from the biting coastal wind. Afternoon finds us at Marine Lake as the early twilight reflects off the cold water. Evening concludes under the glowing lights of Lord Street; thermal layers and gloves are essential for this winter ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Birkdale Village",
+                "hu": "Birkdale Falu",
+                "ro": "Satul Birkdale",
+                "en": "Birkdale Village"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihren Reifendruck bei Kälte und starten Sie mit einer warmen Tasse Kaffee aus dem Dorf, um die innere Wärme für die Fahrt zu speichern.",
+                "hu": "Ellenőrizze a guminyomást a hidegben, és induljon egy forró kávéval a faluból, hogy belsőleg is felkészüljön a fagyos menetszélre a túra elején.",
+                "ro": "Verificați presiunea în pneuri la frig și începeți cu o cafea fierbinte din sat pentru a vă păstra căldura interioară pe durata pedalatului.",
+                "en": "Check your tyre pressure in the cold and start with a hot coffee from the village to boost your internal temperature for the frosty ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "St James' Church",
+                "hu": "St James Templom",
+                "ro": "Biserica Sfântul Iacob",
+                "en": "St James' Church"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern die Kälte, treten Sie also kurz ein, um die windgeschützte Atmosphäre zu genießen, bevor Sie weiter zum Strand radeln.",
+                "hu": "A vastag falak között szélcsendes a levegő; pihenjen meg itt pár percet, és gyűjtsön erőt a nyitottabb, szelesebb tengerparti szakasz előtt.",
+                "ro": "Zidurile groase vă protejează de vânt; intrați scurt pentru a vă bucura de liniște înainte de a pedala spre zona expusă de lângă plajă.",
+                "en": "The thick stone walls block the wind; step inside briefly to enjoy the still air before cycling towards the more exposed coastal sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Sands",
+                "hu": "Birkdale Homokos Part",
+                "ro": "Plaja Birkdale",
+                "en": "Birkdale Sands"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und hart sein; fahren Sie vorsichtig über Unebenheiten und schützen Sie Ihr Gesicht mit einem Schal gegen den eisigen Seewind.",
+                "hu": "A talaj fagyott és kemény lehet; tekerjen óvatosan a dűnék között, és védje arcát sállal a tenger felől fújó jeges és metsző szél ellen.",
+                "ro": "Solul poate fi înghețat și dur; pedalați cu atenție peste denivelări și protejați-vă fața cu un fular împotriva vântului înghețat de pe mare.",
+                "en": "The ground can be frozen and hard; cycle carefully over bumps and protect your face with a scarf against the icy wind blowing off the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Southport Pleasureland",
+                "hu": "Southport Vidámpark",
+                "ro": "Parcul de Distracții Southport",
+                "en": "Southport Pleasureland"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier ruhiger; nutzen Sie die leeren Wege für eine schnelle Durchfahrt und machen Sie Fotos von den bunten, frostbedeckten Attraktionen.",
+                "hu": "Télen csendesebb a környék; használja ki az üres utakat a gyors haladáshoz, és készítsen képeket a színes, dérlepte vidámparki játékokról.",
+                "ro": "Iarna este mult mai liniște aici; folosiți aleile libere pentru a traversa rapid zona și faceți poze atracțiilor colorate acoperite de brumă.",
+                "en": "It is much quieter here in winter; use the empty paths for a quick transit and take photos of the colourful, frost-covered attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Marine Lake",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser strahlt im Winter Kälte ab; halten Sie sich beim Fahren in Bewegung und genießen Sie den Blick auf den oft nebligen oder gefrorenen See.",
+                "hu": "A víztükör télen ontja magából a hideget; maradjon folyamatos mozgásban tekerés közben, és gyönyörködjön a ködös vagy befagyott tó látványában.",
+                "ro": "Apa emană frig iarna; rămâneți în mișcare constantă în timp ce pedalați și admirați vederea lacului care este adesea învăluit în ceață.",
+                "en": "The large body of water radiates cold in winter; stay in constant motion while cycling and enjoy the view of the often misty or frozen lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street West",
+                "hu": "Lord Street West",
+                "ro": "Lord Street West",
+                "en": "Lord Street West"
+              },
+              "tip_5lang": {
+                "de": "Die festlichen Lichter machen die Kälte wett; schieben Sie Ihr Rad am Ende der Tour ein Stück, um die warme Winteratmosphäre unter den Arkaden zu spüren.",
+                "hu": "Az ünnepi fények feledtetik a hideget; a túra végén tolja kicsit a biciklit az árkádok alatt, hogy átadja magát a melengető téli hangulatnak.",
+                "ro": "Luminile festive compensează frigul; la finalul turului, mergeți pe lângă bicicletă sub arcade pentru a simți atmosfera caldă de iarnă.",
+                "en": "The festive lights make up for the cold; at the end of your ride, wheel your bike under the verandas to soak up the warm winter atmosphere."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Autós túrája a világhírű golfpályák buja zöldje közepette kezdődik a város szélén. A dél a faluközpontba hozza, hogy élvezze a helyi kultúrát és a történelmi utcákat. A délutánt a festői Lord Street West mentén való autózással tölti, megcsodálva viktoriánus báját. Végül parkoljon le a tónál egy nyugodt estére, figyelve, ahogy a víz visszatükrözi az elmúló fényt.",
         "ro": "Turul dumneavoastră auto începe printre verdeața luxuriantă a terenurilor de golf de renume mondial de la marginea orașului. Prânzul vă aduce în centrul satului pentru a vă bucura de cultura locală și străzile istorice. După-amiaza o petreceți conducând pe pitoreasca Lord Street West. În cele din urmă, parcați lângă lacul marin pentru o seară liniștită, privind reflexiile pe apă.",
         "en": "Your driving tour begins amidst the lush greenery of world-renowned golf courses on the town's edge. Midday brings you into the village center to enjoy local culture and historic streets. The afternoon is spent cruising down the picturesque Lord Street West, admiring its Victorian charm. Finally, park near the marine lake for a tranquil evening watching the water reflect the fading light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir den Ausblick auf die verregneten Golfplätze bequem vom warmen Auto aus. Mittags bietet das Dorf gute Parkmöglichkeiten nah an den Geschäften. Nachmittags fahren wir entlang der Lord Street, wo die prachtvollen Gebäude im Regen besonders glänzen. Abends blicken wir vom Marine Lake Parkplatz auf das graue Wasser; eine gute Heizung macht diesen Ausflug perfekt.",
+            "hu": "Reggel a fűtött autóból csodáljuk az esőáztatta golfpályák zöldjét. Délben a faluban a boltokhoz közel próbáljunk parkolni a gyors bejutásért. Délután a Lord Streeten autózva nézzük a díszes épületek vizes csillogását. Este a Marine Lake parkolójából figyeljük a szürke víztükröt; az esős időben a kocsi kényelme a legjobb választás a felfedezéshez.",
+            "ro": "Dimineața admirăm terenurile de golf plouate din confortul mașinii încălzite. La prânz, satul oferă parcări aproape de magazine pentru acces rapid. După-amiaza conducem pe Lord Street, unde clădirile strălucesc frumos sub ploaie. Seara privim lacul cenușiu din parcarea de la Marine Lake; confortul mașinii face această excursie ideală pe ploaie.",
+            "en": "Morning features views of the rain-soaked golf courses from the comfort of your heated car. At noon, the village offers parking close to the shops for quick access. Afternoon is spent driving along Lord Street, where the grand buildings glisten in the wet. Evening ends at Marine Lake parking with a view of the grey water; car travel is the best way to see Birkdale today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hillside Golf Club",
+                "hu": "Hillside Golf Klub",
+                "ro": "Clubul de Golf Hillside",
+                "en": "Hillside Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nahe am Clubhaus und genießen Sie den Blick auf die verregneten Dünen, während Sie im Trockenen auf den Start Ihrer Tour warten.",
+                "hu": "Parkoljon a klubház közelében, és élvezze az esőáztatta dűnék látványát a száraz autóból, mielőtt továbbindulna a faluba.",
+                "ro": "Parcați aproape de club și admirați dunele sub ploaie din interiorul mașinii înainte de a porni spre următoarea destinație a traseului.",
+                "en": "Park close to the clubhouse and enjoy the view of the rain-soaked dunes from your dry car before heading further into the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Royal Birkdale Golf Club",
+                "hu": "Royal Birkdale Golf Klub",
+                "ro": "Clubul de Golf Royal Birkdale",
+                "en": "Royal Birkdale Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt bietet einen tollen Blick auf das ikonische Clubhaus; machen Sie ein Foto durch das Autofenster, um nicht im Regen nass zu werden.",
+                "hu": "A behajtó útról remek kilátás nyílik az ikonikus klubházra; készítsen egy gyors fotót az autó ablakából, hogy elkerülje az ázást a nyílt terepen.",
+                "ro": "Drumul de acces oferă o priveliște excelentă spre clădirea simbolică; faceți o poză rapidă pe geamul mașinii pentru a evita ploaia de afară.",
+                "en": "The approach road offers great views of the iconic clubhouse; take a quick photo through the car window to stay dry in this exposed coastal spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Village",
+                "hu": "Birkdale Falu",
+                "ro": "Satul Birkdale",
+                "en": "Birkdale Village"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt an der Weld Road, um nur wenige Schritte bis zu den überdachten Gehwegen des Dorfes laufen zu müssen.",
+                "hu": "Próbáljon meg közvetlenül a Weld Road mentén parkolni, hogy csak pár lépést kelljen megtennie az esőben a falu fedett járdáiig.",
+                "ro": "Căutați un loc de parcare direct pe Weld Road pentru a avea de mers doar câțiva pași prin ploaie până la zonele acoperite din sat.",
+                "en": "Try to find a parking space right on Weld Road to minimize the walking distance in the rain to the village's sheltered walkways."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street West",
+                "hu": "Lord Street West",
+                "ro": "Lord Street West",
+                "en": "Lord Street West"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkbuchten entlang der Straße; so können Sie direkt unter die schützenden Arkaden treten und die Architektur genießen.",
+                "hu": "Használja az út menti parkolóhelyeket; így közvetlenül a védelmet nyújtó árkádok alá léphet, és szárazon csodálhatja az elegáns épületeket.",
+                "ro": "Folosiți locurile de parcare de pe marginea drumului; astfel puteți păși direct sub arcadele protectoare pentru a admira arhitectura victoriană.",
+                "en": "Use the on-street parking bays; this allows you to step directly under the protective verandas and admire the Victorian architecture dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Marine Lake",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am See bietet einen wunderbaren Panoramablick; bleiben Sie im Auto und beobachten Sie, wie die Regentropfen auf das Wasser fallen.",
+                "hu": "A tóparti parkoló tökéletes panorámát nyújt; maradjon a fűtött kocsiban, és nézze, ahogy az esőcseppek mintákat rajzolnak a szürke víztükörre.",
+                "ro": "Parcarea de lângă lac oferă o vedere panoramică superbă; rămâneți în mașină și observați ploaia care cade peste suprafața liniștită a apei.",
+                "en": "The lakeside car park provides a great panoramic view; stay in your warm vehicle and watch the rain fall across the still surface of the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir durch die frostige Dünenlandschaft der Golfclubs. Mittags bietet das Dorf eine gemütliche Atmosphäre mit weihnachtlicher Dekoration. Nachmittags gleiten wir über die festlich beleuchtete Lord Street, die in der frühen Dunkelheit erstrahlt. Abends genießen wir den Sonnenuntergang am Marine Lake aus dem warmen Wagen heraus; die Sitzheizung macht die Tour heute besonders angenehm.",
+            "hu": "Reggel a zúzmarás dűnék között autózunk a golfklubok felé. Délben a falu ünnepi díszítése és barátságos fényei fogadják a látogatókat. Délután a Lord Street kivilágított sugárútján suhanunk át a korai sötétedésben. Este a Marine Lake partján, a meleg kocsiból nézzük a jeges naplementét; a fűtött utastér ma a legjobb szövetségesünk a városnézésben.",
+            "ro": "Dimineața conducem printre dunele înghețate spre cluburile de golf. La prânz, satul ne întâmpină cu o atmosferă caldă și decorațiuni de iarnă. După-amiaza trecem pe Lord Street, strălucind sub luminile festive în amurgul timpuriu. Seara admirăm apusul peste lac din interiorul cald al mașinii; confortul termic face plimbarea foarte plăcută.",
+            "en": "Morning features a drive through the frost-covered dunes near the golf courses. At noon, the village offers a cozy atmosphere with winter decorations. Afternoon is spent driving down the beautifully lit Lord Street as darkness falls early. Evening concludes at Marine Lake, watching the sunset from your warm car; seat heaters are a welcome luxury on this tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hillside Golf Club",
+                "hu": "Hillside Golf Klub",
+                "ro": "Clubul de Golf Hillside",
+                "en": "Hillside Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Fairways sehen im Morgenlicht zauberhaft aus; genießen Sie den Anblick kurz vom Parkplatz aus, bevor es weitergeht.",
+                "hu": "A zúzmarás pályák varázslatosan festenek a reggeli fényben; élvezze a látványt pár percig a parkolóból, mielőtt továbbhajtana a faluba.",
+                "ro": "Terenurile înghețate arată magic în lumina dimineții; bucurați-vă de priveliște scurt din parcare înainte de a porni mai departe pe traseu.",
+                "en": "The frosty fairways look magical in the morning light; enjoy the view briefly from the car park before heading towards the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Royal Birkdale Golf Club",
+                "hu": "Royal Birkdale Golf Klub",
+                "ro": "Clubul de Golf Royal Birkdale",
+                "en": "Royal Birkdale Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Das weiße Clubhaus hebt sich im Winter markant von den dunklen Dünen ab; ideal für einen schnellen Fotostopp direkt am Straßenrand.",
+                "hu": "A fehér klubház télen élesen elüt a sötétebb tónusú dűnéktől; tökéletes helyszín egy gyors fotóhoz közvetlenül az út mellől, a kocsiból kiszállva.",
+                "ro": "Clădirea albă a clubului iese în evidență pe fundalul dunelor întunecate; este locul ideal pentru o oprire foto rapidă la marginea drumului.",
+                "en": "The white clubhouse stands out sharply against the darker dunes in winter; it is a perfect spot for a quick photo stop right by the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Birkdale Village",
+                "hu": "Birkdale Falu",
+                "ro": "Satul Birkdale",
+                "en": "Birkdale Village"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Beleuchtung im Dorf ist besonders ab dem späten Vormittag stimmungsvoll; parken Sie zentral für einen kurzen, knackigen Rundgang.",
+                "hu": "A falu téli díszkivilágítása már a késő délelőtti óráktól hangulatos; parkoljon központi helyen egy rövid, frissítő körsétához a butikoknál.",
+                "ro": "Iluminatul de iarnă din sat este foarte atmosferic; parcați central pentru o scurtă plimbare revigorantă printre micile magazine locale.",
+                "en": "The village's winter lighting is very atmospheric from late morning onwards; park centrally for a short, bracing stroll among the boutiques."
+              }
+            },
+            {
+              "name": {
+                "de": "Lord Street West",
+                "hu": "Lord Street West",
+                "ro": "Lord Street West",
+                "en": "Lord Street West"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, um die festliche Dekoration unter den Arkaden zu bewundern, die besonders im frühen Abendlicht prachtvoll zur Geltung kommt.",
+                "hu": "Hajtson lassan, hogy megcsodálhassa az árkádok alatti ünnepi dekorációt, amely a korai szürkületben a legpompásabb látványt nyújtja az autóból.",
+                "ro": "Conduceți încet pentru a admira decorațiunile festive de sub arcade, care arată superb în lumina amurgului timpuriu de iarnă.",
+                "en": "Drive slowly to admire the festive decorations beneath the verandas, which look most magnificent in the early winter evening light."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Marine Lake",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz als perfekten 'Drive-In'-Aussichtspunkt für den Sonnenuntergang über dem gefrorenen See vor 17 Uhr bei laufender Heizung.",
+                "hu": "Használja a parkolót tökéletes kilátópontként: nézze a naplementét a befagyott tó felett 17 óra előtt, a fűtött utastér kényelmében ülve.",
+                "ro": "Folosiți parcarea ca pe un punct de observație ideal pentru apusul peste lacul înghețat înainte de ora 17, stând la căldură în mașină.",
+                "en": "Use the car park as a perfect 'drive-in' viewing spot for the sunset over the frozen lake before 5 PM while staying warm inside your vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

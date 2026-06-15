@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az óváros időtlen kőutcáinak felfedezésével, magába szívva a középkori provence-i bájt.\n\nKora délután induljon a magasodó kastély felé, és merüljön el a régió gazdag történelmi örökségében.\n\nDélután csodálja meg a kortárs művészetet az Edgar Mélik Múzeumban, majd találjon lelki békére a Sainte-Marie templomban.\n\nZárja a napot egy rövid sétával a Piton de Cabriès sziklájához, ahonnan lenyűgöző naplementés kilátás nyílik a völgyre.",
         "ro": "Începeți dimineața explorând străzile atemporale de piatră din Satul Vechi, absorbind farmecul medieval provensal.\n\nLa prânz, îndreptați-vă spre castelul falnic și minunile sale istorice, scufundându-vă în patrimoniul bogat al regiunii.\n\nPetreceți după-amiaza admirând arta contemporană la Muzeul Edgar Mélik, înainte de a găsi liniștea în biserica Sainte-Marie.\n\nÎncheiați ziua cu o scurtă plimbare către Piton de Cabriès, bucurându-vă de o panoramă uimitoare la apus.",
         "en": "Start your morning exploring the timeless stone streets of the Old Village, soaking in the medieval Provençal charm.\n\nBy midday, transition to the towering Castle and its surrounding historical marvels, diving deep into the region's rich heritage.\n\nSpend your afternoon admiring contemporary art at the Edgar Mélik Museum before finding peace in the Sainte-Marie-de-la-Nativité Church.\n\nConclude your day with a short walk to the Piton de Cabriès, enjoying breathtaking sunset views over the serene valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen mit einem Regenschirm auf dem historischen Kopfsteinpflaster. Suchen Sie mittags im Museum und im Schloss nach einem trockenen Unterschlupf. Der Nachmittag bietet ruhige Momente in der Kirche. Beenden Sie den Tag mit einem vorsichtigen Spaziergang zum Aussichtspunkt.",
+            "hu": "Kezdje az esős reggelt az óváros macskakövein, egy masszív esernyővel felszerelkezve. Délben keressen száraz menedéket a múzeumban és a kastély termeiben. Délután a templom csendje nyújt békés pihenőt. Este óvatos, rövidebb sétával csodálja meg a kilátást, figyelve a csúszós utakra.",
+            "ro": "Începeți dimineața ploioasă pe străduțele pietruite, cu o umbrelă rezistentă. La prânz, găsiți refugiu explorând muzeul și coridoarele castelului istoric. După-amiaza oferă un moment de liniște în biserică. Încheiați cu o plimbare scurtă spre punctul de belvedere, atenție la noroi.",
+            "en": "Start your rainy morning navigating the historic cobblestones with a sturdy umbrella. By midday, find dry refuge exploring the local museum and castle corridors. The afternoon offers peaceful reflection inside the church. End with a brisk, cautious walk to the viewpoint before heading back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt von Cabriès",
+                "hu": "Cabriès óvárosa",
+                "ro": "Satul Vechi din Cabriès",
+                "en": "Old Village of Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Gassen mit einem Regenschirm, aber tragen Sie griffige Schuhe, da das nasse Kopfsteinpflaster sehr rutschig ist.",
+                "hu": "Fedezze fel a történelmi sikátorokat esernyővel, de vegyen fel tapadós cipőt, mert a vizes macskakövek nagyon csúszóssá válnak.",
+                "ro": "Explorați aleile istorice cu o umbrelă robustă, dar purtați pantofi aderenți, deoarece pietrele antice devin foarte alunecoase la umezeală.",
+                "en": "Explore the historic alleys with a sturdy umbrella, but wear grippy shoes as the ancient cobblestones become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cabriès",
+                "hu": "Cabriès kastélya",
+                "ro": "Castelul Cabriès",
+                "en": "Cabriès Castle"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Burg und nutzen Sie die massiven Steinbögen und überdachten Tore als vorübergehenden Schutz vor plötzlichen Regenschauern.",
+                "hu": "Fedezze fel a kastély külsejét, és használja a hatalmas kőíveket, valamint a fedett kapukat menedékként a hirtelen jövő záporok elől.",
+                "ro": "Descoperiți exteriorul măreț al castelului, folosind arcadele sale de piatră și porțile acoperite ca adăpost împotriva ploilor bruște.",
+                "en": "Discover the castle's grand exterior, using its massive stone archways and covered gates as temporary shelters from sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Edgar Mélik Museum",
+                "hu": "Edgar Mélik Múzeum",
+                "ro": "Muzeul Edgar Mélik",
+                "en": "Edgar Mélik Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie eine trockene Stunde in diesem faszinierenden Kunstmuseum, dem perfekten kulturellen Zufluchtsort bei nassem Wetter.",
+                "hu": "Töltsön el egy száraz, meghitt órát ebben a lenyűgöző művészeti múzeumban, amely tökéletes beltéri menedéket nyújt az esős időben.",
+                "ro": "Petreceți o oră uscată și confortabilă în acest muzeu de artă fascinant, refugiul cultural perfect atunci când vremea devine ploioasă.",
+                "en": "Spend a dry, cozy hour inside this fascinating art museum, making it the perfect indoor cultural escape when the weather turns wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-de-la-Nativité",
+                "hu": "Sainte-Marie-de-la-Nativité templom",
+                "ro": "Biserica Sainte-Marie-de-la-Nativité",
+                "en": "Church of Sainte-Marie-de-la-Nativité"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese Kirche ein, um sich aufzuwärmen. Wischen Sie sich jedoch die Schuhe ab, um nicht auf dem Steinboden auszurutschen.",
+                "hu": "Lépjen be a történelmi templomba megszáradni, miközben megcsodálja a részleteket, de törölje meg a cipőjét a csúszós kőpadló miatt.",
+                "ro": "Intrați în această biserică istorică pentru a vă usca admirând detaliile, dar ștergeți-vă cu grijă pantofii pentru a nu aluneca pe podea.",
+                "en": "Step inside this historic church to dry off while admiring the intricate details, but carefully wipe your shoes to prevent sliding on the floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Piton de Cabriès",
+                "hu": "Piton de Cabriès",
+                "ro": "Piton de Cabriès",
+                "en": "Piton de Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht von diesem felsigen Gipfel, bleiben Sie jedoch auf den asphaltierten Wegen, um nicht im Schlamm auszurutschen.",
+                "hu": "Élvezze a drámai kilátást a sziklás csúcsról, de maradjon a burkolt utakon, hogy elkerülje a megcsúszást a mély sárban és a nedves köveken.",
+                "ro": "Bucurați-vă de priveliștile dramatice de pe acest vârf stâncos, dar rămâneți pe cărările pavate pentru a evita alunecarea pe noroi și pietre umede.",
+                "en": "Enjoy the dramatic overcast views from this rocky peak, but stick strictly to the paved paths to avoid slipping on the deep mud and wet stones."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen klaren Wintermorgen im historischen Dorf. Der Mittag ist perfekt, um sich im Schloss und Museum aufzuwärmen. Verbringen Sie den Nachmittag in der Kirche, bevor Sie gegen 17:00 Uhr den frühen Sonnenuntergang am felsigen Gipfel genießen.",
+            "hu": "Öltözzön melegen a ropogós téli reggeli sétához a történelmi faluban. A dél tökéletes arra, hogy felmelegedjen a kastélyban és a helyi múzeumban. Délután csodálja meg a templomot, majd élvezze a korai, 17:00 óra körüli naplementét a sziklás csúcsról, mielőtt leszáll az est.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală de iarnă prin satul istoric. Prânzul este perfect pentru a vă încălzi în interiorul castelului și al muzeului. După-amiaza admirați biserica, apoi prindeți apusul timpuriu în jur de ora 17:00 la vârful stâncos, odată cu lăsarea serii.",
+            "en": "Wrap up warmly for a crisp winter morning stroll through the historic village. Midday is perfect for warming up inside the castle and local museum. Spend the afternoon admiring the church before catching the early golden hour around 17:00 at the rocky peak, as dusk settles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt von Cabriès",
+                "hu": "Cabriès óvárosa",
+                "ro": "Satul Vechi din Cabriès",
+                "en": "Old Village of Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Steinhäuser in warmen Schichten, da die engen mittelalterlichen Gassen an kalten Wintertagen wie ein Windkanal wirken.",
+                "hu": "Csodálja meg a kőházakat meleg rétegekbe öltözve, mivel a szűk középkori sikátorok szélcsatornaként működnek a fagyos téli napokon.",
+                "ro": "Admirați casele medievale din piatră îmbrăcați gros, deoarece aleile înguste atrag un vânt tăios în timpul zilelor friguroase de iarnă.",
+                "en": "Marvel at the medieval stone houses while dressed in extra layers, as the narrow alleys act as a wind tunnel during crisp winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cabriès",
+                "hu": "Cabriès kastélya",
+                "ro": "Castelul Cabriès",
+                "en": "Cabriès Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die imposante Struktur des Schlosses, aber vergessen Sie Ihre Handschuhe nicht, da der exponierte Hügel im Winter viel kälter ist.",
+                "hu": "Gyönyörködjön a kastély lenyűgöző szerkezetében, de ne hagyja otthon a kesztyűjét, mert a dombtetőn télen jóval hidegebb van.",
+                "ro": "Admirați structura impunătoare a castelului, dar nu uitați mănușile, deoarece dealul expus este considerabil mai rece pe timp de iarnă.",
+                "en": "Take in the castle's imposing structure, but don't forget your gloves, as the surrounding exposed hilltop is noticeably colder in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Edgar Mélik Museum",
+                "hu": "Edgar Mélik Múzeum",
+                "ro": "Muzeul Edgar Mélik",
+                "en": "Edgar Mélik Museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte und erkunden Sie die lebhaften Kunstwerke; die beheizten Räume bieten eine willkommene Pause zum Aufwärmen.",
+                "hu": "Meneküljön a téli hideg elől az élénk műalkotások közé; a fűtött termek remek lehetőséget kínálnak a fázós kezek felmelegítésére.",
+                "ro": "Scăpați de frigul iernii explorând operele de artă vibrante; camerele încălzite oferă o pauză binevenită pentru a vă încălzi mâinile.",
+                "en": "Escape the winter chill by exploring the vibrant artworks here; the heated rooms offer a very welcome break to warm up your freezing hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-de-la-Nativité",
+                "hu": "Sainte-Marie-de-la-Nativité templom",
+                "ro": "Biserica Sainte-Marie-de-la-Nativité",
+                "en": "Church of Sainte-Marie-de-la-Nativité"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster, aber behalten Sie Ihre Jacke an, da historische Steinkirchen in den Wintermonaten recht kühl bleiben.",
+                "hu": "Csodálja meg a gyönyörű ólomüveg ablakokat, de tartsa magán a kabátját, mert a történelmi kőtemplomok télen is meglehetősen hűvösek maradnak.",
+                "ro": "Admirați vitraliile frumoase, dar păstrați geaca pe dumneavoastră, deoarece bisericile istorice din piatră rămân destul de reci iarna.",
+                "en": "Admire the beautiful stained glass, though keep your jacket on since historic stone churches remain quite chilly throughout the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Piton de Cabriès",
+                "hu": "Piton de Cabriès",
+                "ro": "Piton de Cabriès",
+                "en": "Piton de Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Aussichtspunkt kurz vor 17:00 Uhr für einen atemberaubenden Wintersonnenuntergang, wenn die frühe Dämmerung magisches Licht spendet.",
+                "hu": "Látogasson el ide nem sokkal 17:00 óra előtt a lenyűgöző téli naplementéért, amikor a korai sötétedés varázslatos fényt vet a völgyre.",
+                "ro": "Vizitați acest punct de belvedere înainte de 17:00 pentru un apus de iarnă uimitor, deoarece amurgul timpuriu aruncă o lumină magică asupra văii.",
+                "en": "Visit this scenic viewpoint just before 17:00 to catch a stunning winter sunset, as the early dusk casts a magical light over the valley below."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel kerékpározzon Cabriès szívébe, fedezze fel az óváros utcáit, és élvezze a dombtető békés hangulatát.\n\nDélben fedezze fel a lenyűgöző kastély építészetét, és szánjon időt a középkori erődítmények megcsodálására.\n\nA délután tökéletes az Edgar Mélik Múzeum és a helyi templom meglátogatására, teljessé téve a kulturális élményt.\n\nZárásként élvezze a kilátást a Pitonról, majd tekerjen le a minigolfpályára egy vidám és pihentető estéért.",
         "ro": "Pedalați în inima orașului Cabriès în această dimineață, explorând străzile Satului Vechi și atmosfera liniștită a colinei.\n\nÎn jurul prânzului, explorați arhitectura impresionantă a castelului, apreciind fortificațiile sale medievale.\n\nDupă-amiaza este perfectă pentru Muzeul Edgar Mélik și biserica locală senină, completând imersiunea culturală.\n\nFinalizați cu o priveliște de pe Piton, apoi coborâți la Minigardengolf pentru o seară plină de joacă.",
         "en": "Pedal into the heart of Cabriès this morning, wandering the Old Village streets and absorbing the peaceful hilltop atmosphere.\n\nAround noon, explore the impressive Castle architecture, taking your time to appreciate the medieval fortifications.\n\nThe afternoon is perfect for the Edgar Mélik Museum and the serene local church, rounding out your cultural immersion.\n\nFinish with a breathtaking view from the Piton, then cycle down to Minigardengolf for a playful and relaxing twilight evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Morgenfahrt mit Regenkleidung. Suchen Sie mittags im Museum Zuflucht. Der Nachmittag bringt eine nasse Fahrt zur Kirche und zum Aussichtspunkt. Beenden Sie den Abend mit Minigolf, achten Sie auf rutschige Flächen.",
+            "hu": "Kezdje a reggeli tekerést teljes esőfelszerelésben, óvatosan navigálva. Délben keressen menedéket a múzeumban. A délután nedves kerekezést hoz a templomhoz és a kilátóhoz. Zárja az esős estét minigolffal, ügyelve a csúszós felületekre.",
+            "ro": "Începeți plimbarea de dimineață cu echipament complet de ploaie. La prânz, căutați refugiu în muzeu și castel. După-amiaza aduce o pedalare umedă spre biserică. Încheiați seara ploioasă cu mini-golf, atenție la suprafețele alunecoase.",
+            "en": "Start your morning ride with full rain gear, navigating cautiously. By midday, seek refuge inside the museum and castle. The afternoon brings a wet cycle to the church and viewpoint. Conclude the rainy evening with some mini-golf."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt von Cabriès",
+                "hu": "Cabriès óvárosa",
+                "ro": "Satul Vechi din Cabriès",
+                "en": "Old Village of Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Gassen mit einem Regenschirm, aber tragen Sie griffige Schuhe, da das nasse Kopfsteinpflaster sehr rutschig ist.",
+                "hu": "Fedezze fel a történelmi sikátorokat esernyővel, de vegyen fel tapadós cipőt, mert a vizes macskakövek nagyon csúszóssá válnak.",
+                "ro": "Explorați aleile istorice cu o umbrelă robustă, dar purtați pantofi aderenți, deoarece pietrele antice devin foarte alunecoase la umezeală.",
+                "en": "Explore the historic alleys with a sturdy umbrella, but wear grippy shoes as the ancient cobblestones become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cabriès",
+                "hu": "Cabriès kastélya",
+                "ro": "Castelul Cabriès",
+                "en": "Cabriès Castle"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Burg und nutzen Sie die massiven Steinbögen und überdachten Tore als vorübergehenden Schutz vor plötzlichen Regenschauern.",
+                "hu": "Fedezze fel a kastély külsejét, és használja a hatalmas kőíveket, valamint a fedett kapukat menedékként a hirtelen jövő záporok elől.",
+                "ro": "Descoperiți exteriorul măreț al castelului, folosind arcadele sale de piatră și porțile acoperite ca adăpost împotriva ploilor bruște.",
+                "en": "Discover the castle's grand exterior, using its massive stone archways and covered gates as temporary shelters from sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Edgar Mélik Museum",
+                "hu": "Edgar Mélik Múzeum",
+                "ro": "Muzeul Edgar Mélik",
+                "en": "Edgar Mélik Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie eine trockene Stunde in diesem faszinierenden Kunstmuseum, dem perfekten kulturellen Zufluchtsort bei nassem Wetter.",
+                "hu": "Töltsön el egy száraz, meghitt órát ebben a lenyűgöző művészeti múzeumban, amely tökéletes beltéri menedéket nyújt az esős időben.",
+                "ro": "Petreceți o oră uscată și confortabilă în acest muzeu de artă fascinant, refugiul cultural perfect atunci când vremea devine ploioasă.",
+                "en": "Spend a dry, cozy hour inside this fascinating art museum, making it the perfect indoor cultural escape when the weather turns wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-de-la-Nativité",
+                "hu": "Sainte-Marie-de-la-Nativité templom",
+                "ro": "Biserica Sainte-Marie-de-la-Nativité",
+                "en": "Church of Sainte-Marie-de-la-Nativité"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese Kirche ein, um sich aufzuwärmen. Wischen Sie sich jedoch die Schuhe ab, um nicht auf dem Steinboden auszurutschen.",
+                "hu": "Lépjen be a történelmi templomba megszáradni, miközben megcsodálja a részleteket, de törölje meg a cipőjét a csúszós kőpadló miatt.",
+                "ro": "Intrați în această biserică istorică pentru a vă usca admirând detaliile, dar ștergeți-vă cu grijă pantofii pentru a nu aluneca pe podea.",
+                "en": "Step inside this historic church to dry off while admiring the intricate details, but carefully wipe your shoes to prevent sliding on the floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Piton de Cabriès",
+                "hu": "Piton de Cabriès",
+                "ro": "Piton de Cabriès",
+                "en": "Piton de Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht von diesem felsigen Gipfel, bleiben Sie jedoch auf den asphaltierten Wegen, um nicht im Schlamm auszurutschen.",
+                "hu": "Élvezze a drámai kilátást a sziklás csúcsról, de maradjon a burkolt utakon, hogy elkerülje a megcsúszást a mély sárban és a nedves köveken.",
+                "ro": "Bucurați-vă de priveliștile dramatice de pe acest vârf stâncos, dar rămâneți pe cărările pavate pentru a evita alunecarea pe noroi și pietre umede.",
+                "en": "Enjoy the dramatic overcast views from this rocky peak, but stick strictly to the paved paths to avoid slipping on the deep mud and wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigardengolf",
+                "hu": "Minigardengolf",
+                "ro": "Minigardengolf",
+                "en": "Minigardengolf"
+              },
+              "tip_5lang": {
+                "de": "Testen Sie Ihre Putting-Fähigkeiten in diesem Garten, aber tragen Sie einen Regenmantel und achten Sie auf rutschige Flächen bei Nieselregen.",
+                "hu": "Tegye próbára tudását ebben a buja kertben, de viseljen jó esőkabátot, és ügyeljen a nedves, csúszós golfpályákra a szitáló esőben.",
+                "ro": "Testați-vă abilitățile de golf în această grădină luxuriantă, dar purtați pelerină și atenție la suprafețele de joc alunecoase în timpul ploii.",
+                "en": "Test your putting skills in this lush garden setup, but wear a good raincoat and watch out for slick, wet putting surfaces during sudden drizzles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine kühle Morgenfahrt ein. Der Mittag bietet warme Stopps im Museum. Fahren Sie nachmittags an der Kirche vorbei. Beenden Sie die Tour am Minigolfplatz vor 17:00 Uhr, wenn der frühe Sonnenuntergang Kälte bringt.",
+            "hu": "Öltözzön be a hűvös reggeli tekeréshez. A dél meleg kulturális megállókat kínál a múzeumban. Délután tekerjen el a templom mellett. Fejezze be a túrát a minigolfpályán 17:00 előtt, épp amikor a korai téli naplemente hideget hoz.",
+            "ro": "Îmbrăcați-vă bine pentru pedalarea de dimineață. Prânzul oferă opriri culturale calde la muzeu. După-amiaza, pedalați pe lângă biserică. Terminați turul la mini-golf înainte de 17:00, exact când apusul timpuriu de iarnă aduce frigul.",
+            "en": "Bundle up for a crisp morning cycle. Midday offers warm cultural stops at the museum and castle. In the afternoon, ride past the historic church. Finish your tour at the mini-golf course before 17:00, just as the early winter sunset brings a sudden drop in temperature."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Altstadt von Cabriès",
+                "hu": "Cabriès óvárosa",
+                "ro": "Satul Vechi din Cabriès",
+                "en": "Old Village of Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Steinhäuser in warmen Schichten, da die engen mittelalterlichen Gassen an kalten Wintertagen wie ein Windkanal wirken.",
+                "hu": "Csodálja meg a kőházakat meleg rétegekbe öltözve, mivel a szűk középkori sikátorok szélcsatornaként működnek a fagyos téli napokon.",
+                "ro": "Admirați casele medievale din piatră îmbrăcați gros, deoarece aleile înguste atrag un vânt tăios în timpul zilelor friguroase de iarnă.",
+                "en": "Marvel at the medieval stone houses while dressed in extra layers, as the narrow alleys act as a wind tunnel during crisp winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cabriès",
+                "hu": "Cabriès kastélya",
+                "ro": "Castelul Cabriès",
+                "en": "Cabriès Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die imposante Struktur des Schlosses, aber vergessen Sie Ihre Handschuhe nicht, da der exponierte Hügel im Winter viel kälter ist.",
+                "hu": "Gyönyörködjön a kastély lenyűgöző szerkezetében, de ne hagyja otthon a kesztyűjét, mert a dombtetőn télen jóval hidegebb van.",
+                "ro": "Admirați structura impunătoare a castelului, dar nu uitați mănușile, deoarece dealul expus este considerabil mai rece pe timp de iarnă.",
+                "en": "Take in the castle's imposing structure, but don't forget your gloves, as the surrounding exposed hilltop is noticeably colder in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Edgar Mélik Museum",
+                "hu": "Edgar Mélik Múzeum",
+                "ro": "Muzeul Edgar Mélik",
+                "en": "Edgar Mélik Museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte und erkunden Sie die lebhaften Kunstwerke; die beheizten Räume bieten eine willkommene Pause zum Aufwärmen.",
+                "hu": "Meneküljön a téli hideg elől az élénk műalkotások közé; a fűtött termek remek lehetőséget kínálnak a fázós kezek felmelegítésére.",
+                "ro": "Scăpați de frigul iernii explorând operele de artă vibrante; camerele încălzite oferă o pauză binevenită pentru a vă încălzi mâinile.",
+                "en": "Escape the winter chill by exploring the vibrant artworks here; the heated rooms offer a very welcome break to warm up your freezing hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-de-la-Nativité",
+                "hu": "Sainte-Marie-de-la-Nativité templom",
+                "ro": "Biserica Sainte-Marie-de-la-Nativité",
+                "en": "Church of Sainte-Marie-de-la-Nativité"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster, aber behalten Sie Ihre Jacke an, da historische Steinkirchen in den Wintermonaten recht kühl bleiben.",
+                "hu": "Csodálja meg a gyönyörű ólomüveg ablakokat, de tartsa magán a kabátját, mert a történelmi kőtemplomok télen is meglehetősen hűvösek maradnak.",
+                "ro": "Admirați vitraliile frumoase, dar păstrați geaca pe dumneavoastră, deoarece bisericile istorice din piatră rămân destul de reci iarna.",
+                "en": "Admire the beautiful stained glass, though keep your jacket on since historic stone churches remain quite chilly throughout the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Piton de Cabriès",
+                "hu": "Piton de Cabriès",
+                "ro": "Piton de Cabriès",
+                "en": "Piton de Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Aussichtspunkt kurz vor 17:00 Uhr für einen atemberaubenden Wintersonnenuntergang, wenn die frühe Dämmerung magisches Licht spendet.",
+                "hu": "Látogasson el ide nem sokkal 17:00 óra előtt a lenyűgöző téli naplementéért, amikor a korai sötétedés varázslatos fényt vet a völgyre.",
+                "ro": "Vizitați acest punct de belvedere înainte de 17:00 pentru un apus de iarnă uimitor, deoarece amurgul timpuriu aruncă o lumină magică asupra văii.",
+                "en": "Visit this scenic viewpoint just before 17:00 to catch a stunning winter sunset, as the early dusk casts a magical light over the valley below."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigardengolf",
+                "hu": "Minigardengolf",
+                "ro": "Minigardengolf",
+                "en": "Minigardengolf"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine Runde Minigolf, aber beenden Sie Ihr Spiel bis 17:00 Uhr, bevor der schnelle Wintersonnenuntergang den Platz verdunkelt.",
+                "hu": "Élvezze a minigolfot a családdal, de mindenképpen fejezze be a játékot 17:00 óráig, mielőtt a gyors téli sötétedés beborítja a pályát.",
+                "ro": "Bucurați-vă de mini-golf alături de familie, dar terminați jocul până la 17:00, înainte ca apusul rapid de iarnă să întunece complet terenul.",
+                "en": "Enjoy a fun round of mini-golf with the family, but make sure to finish your game by 17:00 before the quick winter sunset leaves the course dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Vezessen kora reggel a Lac Bleu nyugodt partjaira, és kezdje a napot az érintetlen természet és a friss levegő ölelésében.\n\nDélben a Le Barquieu felé veszi az irányt a természeti szépségek miatt, mielőtt felhajtana Cabriès történelmi óvárosába és kastélyához.\n\nA délutánt az Edgar Mélik Múzeum művészeti kincseinek és a helyi templom építészetének szentelje.\n\nEste csodálja meg a naplementét a Pitonról, majd vezessen a minigolfpályára egy kis családbarát szórakozásért.",
         "ro": "Conduceți devreme spre țărmurile liniștite ale Lac Bleu, începând ziua înconjurat de natură virgină și aer proaspăt.\n\nLa prânz ajungeți la Le Barquieu pentru natură, înainte de a urca în Satul Vechi din Cabriès și la castelul său.\n\nPetreceți după-amiaza la Muzeul Edgar Mélik și admirând arhitectura bisericii locale, plină de istorie.\n\nSpre seară, prindeți apusul de pe Piton, apoi conduceți la Minigardengolf pentru a încheia ziua cu distracție.",
         "en": "Drive out early to the tranquil shores of Lac Bleu, starting your day surrounded by pristine nature and fresh morning air.\n\nMidday takes you to Le Barquieu for more natural beauty before heading up to the historic Old Village and its towering Castle.\n\nSpend your afternoon immersing yourself in art at the Edgar Mélik Museum and admiring the architecture of the local church.\n\nAs evening approaches, catch the sunset from the Piton, then drive to Minigardengolf to end your day with some family-friendly fun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Verbringen Sie den regnerischen Morgen mit Fahrten zu malerischen Seen. Flüchten Sie mittags ins Museum. Der Nachmittag ist perfekt für die Kirche und Rundfahrten. Beenden Sie den nassen Abend beim Minigolf mit einem Regenschirm.",
+            "hu": "Töltse az esős reggelt festői tavakhoz autózva, szárazon maradva. Délben siessen a múzeumba a záporok elől. A délután tökéletes a templomhoz és autózáshoz. Zárja a nedves estét a minigolfpályán egy jó esernyővel felszerelkezve.",
+            "ro": "Petreceți dimineața ploioasă conducând spre lacuri pitorești, rămânând uscat în mașină. La prânz, fugiți în muzeu pentru a scăpa de ploaie. După-amiaza e perfectă pentru biserică. Încheiați seara umedă la mini-golf cu o umbrelă bună.",
+            "en": "Spend the rainy morning driving to picturesque lakes, staying dry in the car. At midday, dash into the museum and castle to escape the showers. The afternoon is perfect for the church and scenic drives. End your wet evening at the mini-golf course."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lac Bleu",
+                "hu": "Lac Bleu",
+                "ro": "Lac Bleu",
+                "en": "Lac Bleu"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zu diesem blauen See und genießen Sie die Aussicht bequem von Ihrem trockenen Auto aus, da die schlammigen Ufer tückisch sein können.",
+                "hu": "Hajtson el ehhez a gyönyörű kék tóhoz, és élvezze a békés kilátást száraz autójából, mivel a saras partok esőben veszélyesek lehetnek.",
+                "ro": "Conduceți până la acest lac albastru și bucurați-vă de priveliște din mașina uscată, deoarece malurile noroioase pot fi foarte periculoase.",
+                "en": "Drive up to this beautiful blue lake and enjoy the peaceful view from the comfort of your dry car, as the muddy banks can be treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Barquieu",
+                "hu": "Le Barquieu",
+                "ro": "Le Barquieu",
+                "en": "Le Barquieu"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine landschaftliche Fahrt; lassen Sie die Scheibenwischer an und meiden Sie die Wege, die sich schnell in rutschige Bäche verwandeln.",
+                "hu": "Tegyél egy festői autózást e természeti terület mellett; menjenek az ablaktörlők, és kerülje a gyorsan csúszós patakká váló ösvényeket.",
+                "ro": "Faceți o plimbare cu mașina pe lângă această zonă naturală; porniți ștergătoarele și evitați traseele care se transformă rapid în pâraie alunecoase.",
+                "en": "Take a scenic drive past this natural area; keep your windshield wipers on full and avoid walking the trails, which quickly turn into slippery streams."
+              }
+            },
+            {
+              "name": {
+                "de": "Altstadt von Cabriès",
+                "hu": "Cabriès óvárosa",
+                "ro": "Satul Vechi din Cabriès",
+                "en": "Old Village of Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Gassen mit einem Regenschirm, aber tragen Sie griffige Schuhe, da das nasse Kopfsteinpflaster sehr rutschig ist.",
+                "hu": "Fedezze fel a történelmi sikátorokat esernyővel, de vegyen fel tapadós cipőt, mert a vizes macskakövek nagyon csúszóssá válnak.",
+                "ro": "Explorați aleile istorice cu o umbrelă robustă, dar purtați pantofi aderenți, deoarece pietrele antice devin foarte alunecoase la umezeală.",
+                "en": "Explore the historic alleys with a sturdy umbrella, but wear grippy shoes as the ancient cobblestones become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cabriès",
+                "hu": "Cabriès kastélya",
+                "ro": "Castelul Cabriès",
+                "en": "Cabriès Castle"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Burg und nutzen Sie die massiven Steinbögen und überdachten Tore als vorübergehenden Schutz vor plötzlichen Regenschauern.",
+                "hu": "Fedezze fel a kastély külsejét, és használja a hatalmas kőíveket, valamint a fedett kapukat menedékként a hirtelen jövő záporok elől.",
+                "ro": "Descoperiți exteriorul măreț al castelului, folosind arcadele sale de piatră și porțile acoperite ca adăpost împotriva ploilor bruște.",
+                "en": "Discover the castle's grand exterior, using its massive stone archways and covered gates as temporary shelters from sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Edgar Mélik Museum",
+                "hu": "Edgar Mélik Múzeum",
+                "ro": "Muzeul Edgar Mélik",
+                "en": "Edgar Mélik Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie eine trockene Stunde in diesem faszinierenden Kunstmuseum, dem perfekten kulturellen Zufluchtsort bei nassem Wetter.",
+                "hu": "Töltsön el egy száraz, meghitt órát ebben a lenyűgöző művészeti múzeumban, amely tökéletes beltéri menedéket nyújt az esős időben.",
+                "ro": "Petreceți o oră uscată și confortabilă în acest muzeu de artă fascinant, refugiul cultural perfect atunci când vremea devine ploioasă.",
+                "en": "Spend a dry, cozy hour inside this fascinating art museum, making it the perfect indoor cultural escape when the weather turns wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-de-la-Nativité",
+                "hu": "Sainte-Marie-de-la-Nativité templom",
+                "ro": "Biserica Sainte-Marie-de-la-Nativité",
+                "en": "Church of Sainte-Marie-de-la-Nativité"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese Kirche ein, um sich aufzuwärmen. Wischen Sie sich jedoch die Schuhe ab, um nicht auf dem Steinboden auszurutschen.",
+                "hu": "Lépjen be a történelmi templomba megszáradni, miközben megcsodálja a részleteket, de törölje meg a cipőjét a csúszós kőpadló miatt.",
+                "ro": "Intrați în această biserică istorică pentru a vă usca admirând detaliile, dar ștergeți-vă cu grijă pantofii pentru a nu aluneca pe podea.",
+                "en": "Step inside this historic church to dry off while admiring the intricate details, but carefully wipe your shoes to prevent sliding on the floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Piton de Cabriès",
+                "hu": "Piton de Cabriès",
+                "ro": "Piton de Cabriès",
+                "en": "Piton de Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht von diesem felsigen Gipfel, bleiben Sie jedoch auf den asphaltierten Wegen, um nicht im Schlamm auszurutschen.",
+                "hu": "Élvezze a drámai kilátást a sziklás csúcsról, de maradjon a burkolt utakon, hogy elkerülje a megcsúszást a mély sárban és a nedves köveken.",
+                "ro": "Bucurați-vă de priveliștile dramatice de pe acest vârf stâncos, dar rămâneți pe cărările pavate pentru a evita alunecarea pe noroi și pietre umede.",
+                "en": "Enjoy the dramatic overcast views from this rocky peak, but stick strictly to the paved paths to avoid slipping on the deep mud and wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigardengolf",
+                "hu": "Minigardengolf",
+                "ro": "Minigardengolf",
+                "en": "Minigardengolf"
+              },
+              "tip_5lang": {
+                "de": "Testen Sie Ihre Putting-Fähigkeiten in diesem Garten, aber tragen Sie einen Regenmantel und achten Sie auf rutschige Flächen bei Nieselregen.",
+                "hu": "Tegye próbára tudását ebben a buja kertben, de viseljen jó esőkabátot, és ügyeljen a nedves, csúszós golfpályákra a szitáló esőben.",
+                "ro": "Testați-vă abilitățile de golf în această grădină luxuriantă, dar purtați pelerină și atenție la suprafețele de joc alunecoase în timpul ploii.",
+                "en": "Test your putting skills in this lush garden setup, but wear a good raincoat and watch out for slick, wet putting surfaces during sudden drizzles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens mit Heizung durch frostige Landschaften. Der Mittag bringt Wärme im Museum. Genießen Sie nachmittags die Aussicht nahe der Kirche. Kommen Sie bis 17:00 Uhr zum Minigolf, um das schwindende Licht des Sonnenuntergangs zu sehen.",
+            "hu": "Autózzon fagyos reggeli tájakon bekapcsolt fűtéssel. A dél benti meleget hoz a múzeumban. Élvezze a délutáni kilátást a templom közelében. Érkezzen a minigolfhoz 17:00-ig, hogy elkapja a korai téli naplemente halványuló fényét.",
+            "ro": "Conduceți prin peisaje matinale înghețate cu căldura pornită. Prânzul aduce căldură interioară la muzeu. Bucurați-vă de priveliștile de după-amiază lângă biserică. Ajungeți la mini-golf până la 17:00 pentru a prinde apusul timpuriu de iarnă.",
+            "en": "Drive through frosty morning landscapes with the heater on. Midday brings indoor warmth at the museum and historic castle. Enjoy the afternoon views near the church. Arrive at the mini-golf course by 17:00 to catch the fading winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lac Bleu",
+                "hu": "Lac Bleu",
+                "ro": "Lac Bleu",
+                "en": "Lac Bleu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am See, um seine frostige Schönheit an kalten Wintermorgen zu bewundern; die Heizung im Auto wärmt Sie nach einem kurzen Spaziergang auf.",
+                "hu": "Parkoljon le a tónál a lenyűgöző fagyos szépségért a téli reggeleken; az autó fűtése gyorsan felmelegíti egy rövid séta után.",
+                "ro": "Parcați lângă lac pentru a vedea frumusețea sa înghețată în diminețile de iarnă; căldura din mașină vă va încălzi rapid după o scurtă plimbare.",
+                "en": "Park by the lake to witness its stunning frosty beauty on cold winter mornings; the heater in your car will quickly warm you up after a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Barquieu",
+                "hu": "Le Barquieu",
+                "ro": "Le Barquieu",
+                "en": "Le Barquieu"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie für einen flotten Winterspaziergang durch die kahlen Bäume aus, ziehen Sie sich warm an und genießen Sie die klare Luft.",
+                "hu": "Szálljon ki egy tempós téli sétára a kopasz fák között, melegen felöltözve, és élvezze a friss levegőt, mielőtt visszatér a fűtött járműbe.",
+                "ro": "Ieșiți pentru o plimbare revigorantă de iarnă printre copacii goi, îmbrăcați-vă gros și bucurați-vă de aerul proaspăt înainte de a reveni în mașina caldă.",
+                "en": "Step out for a brisk winter walk through the bare trees, wrapping up warmly, and enjoy the crisp air before retreating to your heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Altstadt von Cabriès",
+                "hu": "Cabriès óvárosa",
+                "ro": "Satul Vechi din Cabriès",
+                "en": "Old Village of Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Steinhäuser in warmen Schichten, da die engen mittelalterlichen Gassen an kalten Wintertagen wie ein Windkanal wirken.",
+                "hu": "Csodálja meg a kőházakat meleg rétegekbe öltözve, mivel a szűk középkori sikátorok szélcsatornaként működnek a fagyos téli napokon.",
+                "ro": "Admirați casele medievale din piatră îmbrăcați gros, deoarece aleile înguste atrag un vânt tăios în timpul zilelor friguroase de iarnă.",
+                "en": "Marvel at the medieval stone houses while dressed in extra layers, as the narrow alleys act as a wind tunnel during crisp winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Cabriès",
+                "hu": "Cabriès kastélya",
+                "ro": "Castelul Cabriès",
+                "en": "Cabriès Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die imposante Struktur des Schlosses, aber vergessen Sie Ihre Handschuhe nicht, da der exponierte Hügel im Winter viel kälter ist.",
+                "hu": "Gyönyörködjön a kastély lenyűgöző szerkezetében, de ne hagyja otthon a kesztyűjét, mert a dombtetőn télen jóval hidegebb van.",
+                "ro": "Admirați structura impunătoare a castelului, dar nu uitați mănușile, deoarece dealul expus este considerabil mai rece pe timp de iarnă.",
+                "en": "Take in the castle's imposing structure, but don't forget your gloves, as the surrounding exposed hilltop is noticeably colder in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Edgar Mélik Museum",
+                "hu": "Edgar Mélik Múzeum",
+                "ro": "Muzeul Edgar Mélik",
+                "en": "Edgar Mélik Museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Winterkälte und erkunden Sie die lebhaften Kunstwerke; die beheizten Räume bieten eine willkommene Pause zum Aufwärmen.",
+                "hu": "Meneküljön a téli hideg elől az élénk műalkotások közé; a fűtött termek remek lehetőséget kínálnak a fázós kezek felmelegítésére.",
+                "ro": "Scăpați de frigul iernii explorând operele de artă vibrante; camerele încălzite oferă o pauză binevenită pentru a vă încălzi mâinile.",
+                "en": "Escape the winter chill by exploring the vibrant artworks here; the heated rooms offer a very welcome break to warm up your freezing hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-de-la-Nativité",
+                "hu": "Sainte-Marie-de-la-Nativité templom",
+                "ro": "Biserica Sainte-Marie-de-la-Nativité",
+                "en": "Church of Sainte-Marie-de-la-Nativité"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster, aber behalten Sie Ihre Jacke an, da historische Steinkirchen in den Wintermonaten recht kühl bleiben.",
+                "hu": "Csodálja meg a gyönyörű ólomüveg ablakokat, de tartsa magán a kabátját, mert a történelmi kőtemplomok télen is meglehetősen hűvösek maradnak.",
+                "ro": "Admirați vitraliile frumoase, dar păstrați geaca pe dumneavoastră, deoarece bisericile istorice din piatră rămân destul de reci iarna.",
+                "en": "Admire the beautiful stained glass, though keep your jacket on since historic stone churches remain quite chilly throughout the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Piton de Cabriès",
+                "hu": "Piton de Cabriès",
+                "ro": "Piton de Cabriès",
+                "en": "Piton de Cabriès"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Aussichtspunkt kurz vor 17:00 Uhr für einen atemberaubenden Wintersonnenuntergang, wenn die frühe Dämmerung magisches Licht spendet.",
+                "hu": "Látogasson el ide nem sokkal 17:00 óra előtt a lenyűgöző téli naplementéért, amikor a korai sötétedés varázslatos fényt vet a völgyre.",
+                "ro": "Vizitați acest punct de belvedere înainte de 17:00 pentru un apus de iarnă uimitor, deoarece amurgul timpuriu aruncă o lumină magică asupra văii.",
+                "en": "Visit this scenic viewpoint just before 17:00 to catch a stunning winter sunset, as the early dusk casts a magical light over the valley below."
+              }
+            },
+            {
+              "name": {
+                "de": "Minigardengolf",
+                "hu": "Minigardengolf",
+                "ro": "Minigardengolf",
+                "en": "Minigardengolf"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine Runde Minigolf, aber beenden Sie Ihr Spiel bis 17:00 Uhr, bevor der schnelle Wintersonnenuntergang den Platz verdunkelt.",
+                "hu": "Élvezze a minigolfot a családdal, de mindenképpen fejezze be a játékot 17:00 óráig, mielőtt a gyors téli sötétedés beborítja a pályát.",
+                "ro": "Bucurați-vă de mini-golf alături de familie, dar terminați jocul până la 17:00, înainte ca apusul rapid de iarnă să întunece complet terenul.",
+                "en": "Enjoy a fun round of mini-golf with the family, but make sure to finish your game by 17:00 before the quick winter sunset leaves the course dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

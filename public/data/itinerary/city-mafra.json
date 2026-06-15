@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Mafra történelmi szívében, a városháza és a helyi kultúra felfedezésével. A déli órákban helyi műemlékek és békés templomok hívogatnak. A délutánt Európa egyik legcsodálatosabb hangszermúzeumában töltheti. Zárja a napot egy nyugodt esti sétával a lenyűgöző királyi kertekben, élvezve a természet közelségét.",
         "ro": "Începeți dimineața în inima istorică a orașului, admirând primăria și atmosfera culturală. La prânz, explorați monumentele locale și un lăcaș de cult liniștit. După-amiaza este dedicată unuia dintre cele mai magnifice muzee de muzică din Europa. Încheiați-vă seara cu o plimbare pașnică pe aleile frumoaselor grădini regale.",
         "en": "Begin your morning at the historic heart, taking in the grand town hall and lively cultural vibes. Midday invites you to explore local monuments and serene religious sites. The afternoon is dedicated to the magnificent national music museum, offering profound heritage. Conclude your evening with a peaceful stroll among the fountains of the royal gardens."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag im Rathaus, wo Sie trocken bleiben. Mittags spazieren Sie mit Schirm zum Pelourinho und zur Kirche Santo André. Der Nachmittag gehört dem Musikmuseum, einem perfekten Rückzugsort bei Regen. Abends bietet der Jardim do Cerco trotz Nässe eine mystische Atmosphäre; feste Schuhe sind wegen der feuchten Wege in Mafra heute ein Muss für jeden Besucher.",
+            "hu": "Kezdje a napot a városházán, ahol fedél alatt maradhat. Délben esernyővel látogasson el a Pelourinho-hoz és a Santo André templomba. A délután a Zenemúzeumé, amely tökéletes menedék az eső elől. Este a Jardim do Cerco a nedvesség ellenére misztikus hangulatot áraszt; a csúszós utak miatt a vízálló lábbeli ma elengedhetetlen Mafra felfedezéséhez.",
+            "ro": "Începeți ziua la primărie, unde veți rămâne la adăpost. La prânz, vizitați Pelourinho și Biserica Santo André folosind o umbrelă. După-amiaza aparține Muzeului Muzicii, un refugiu perfect pe timp de ploaie. Seara, Jardim do Cerco oferă o atmosferă mistică în ciuda umidității; din cauza drumurilor alunecoase, încălțămintea impermeabilă este esențială astăzi în Mafra.",
+            "en": "Start your day at the town hall, staying dry indoors. At noon, visit the Pelourinho and Santo André Church with an umbrella. The afternoon is dedicated to the Music Museum, a perfect rainy-day retreat. In the evening, Jardim do Cerco offers a mystical atmosphere despite the dampness; waterproof footwear is essential today for exploring Mafra's slippery paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Mafra",
+                "hu": "Câmara Municipal de Mafra",
+                "ro": "Câmara Municipal de Mafra",
+                "en": "Câmara Municipal de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume des Rathauses, um die Architektur im Trockenen zu bewundern; achten Sie beim Betreten besonders auf den glatten Boden.",
+                "hu": "Használja ki a városháza belső tereit az építészet megcsodálására, így szárazon maradhat; belépéskor figyeljen a bejáratnál lévő csúszós padlóra.",
+                "ro": "Folosiți interiorul primăriei pentru a admira arhitectura la adăpost; aveți grijă la podeaua alunecoasă de la intrare când intrați de afară.",
+                "en": "Use the interior of the town hall to admire the architecture while staying dry; watch out for the slippery floor at the entrance when coming in."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Municipal Beatriz Costa",
+                "hu": "Auditorio Municipal Beatriz Costa",
+                "ro": "Auditorio Municipal Beatriz Costa",
+                "en": "Auditorio Municipal Beatriz Costa"
+              },
+              "tip_5lang": {
+                "de": "Dieses Kulturzentrum ist der ideale Ort, um eine kurze Pause vom Regen einzulegen; prüfen Sie das aktuelle Programm für kurzfristige Indoor-Events.",
+                "hu": "Ez a kulturális központ ideális hely egy rövid pihenőre az eső elől; ellenőrizze az aktuális programot rövid beltéri eseményekért.",
+                "ro": "Acest centru cultural este locul ideal pentru o scurtă pauză de ploaie; verificați programul actual pentru evenimente indoor de scurtă durată.",
+                "en": "This cultural center is the ideal place for a short break from the rain; check the current schedule for short-term indoor events or exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Mafra",
+                "hu": "Pelourinho de Mafra",
+                "ro": "Pelourinho de Mafra",
+                "en": "Pelourinho de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp unter dem Regenschirm reicht hier völlig aus; die umliegenden Cafés bieten danach sofortigen Schutz und warmen Tee.",
+                "hu": "Egy gyors fotómegálló az esernyő alatt itt bőven elég; a környező kávézók azonnali menedéket és forró teát kínálnak a megtekintés után.",
+                "ro": "O scurtă oprire pentru poze sub umbrelă este suficientă aici; cafenelele din jur oferă adăpost imediat și ceai cald după vizită.",
+                "en": "A quick photo stop under your umbrella is plenty here; the surrounding cafes offer immediate shelter and warm tea right after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santo André",
+                "hu": "Igreja de Santo André",
+                "ro": "Igreja de Santo André",
+                "en": "Igreja de Santo André"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine stille, trockene Atmosphäre für Besichtigungen; nutzen Sie die Zeit drinnen, bis der schlimmste Schauer draußen vorbeizieht.",
+                "hu": "A templom csendes, száraz környezetet biztosít a nézelődéshez; töltsön több időt bent, amíg a kinti intenzív zápor kicsit alábbhagy.",
+                "ro": "Biserica oferă o atmosferă liniștită și uscată pentru vizitare; profitați de timpul petrecut în interior până trece aversa de ploaie.",
+                "en": "The church provides a quiet, dry environment for sightseeing; take your time inside until the worst of the rain shower passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Nacional da Música",
+                "hu": "Museu Nacional da Música",
+                "ro": "Museu Nacional da Música",
+                "en": "Museu Nacional da Música"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist das Highlight an Regentagen mit seiner riesigen Sammlung; genießen Sie die Akustik der Instrumente sicher geschützt vor dem Wetter.",
+                "hu": "A múzeum az esős napok fénypontja hatalmas gyűjteményével; élvezze a hangszerek akusztikáját az időjárástól biztonságban elzárva.",
+                "ro": "Muzeul este punctul culminant al zilelor ploioase cu colecția sa vastă; bucurați-vă de acustica instrumentelor la adăpost de vreme.",
+                "en": "The museum is the highlight of rainy days with its vast collection; enjoy the acoustics of the instruments safely sheltered from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardim do Cerco",
+                "hu": "Jardim do Cerco",
+                "ro": "Jardim do Cerco",
+                "en": "Jardim do Cerco"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie nur auf den befestigten Wegen, da der Rasen sehr matschig wird; die Pavillons bieten kleine trockene Inseln für eine kurze Rast.",
+                "hu": "Csak a kövezett utakon sétáljon, mert a gyep nagyon sáros lehet; a pavilonok kis száraz szigeteket kínálnak egy rövid pihenőhöz.",
+                "ro": "Mergeți doar pe potecile pavate, deoarece iarba devine foarte noroioasă; pavilioanele oferă mici insule uscate pentru odihnă.",
+                "en": "Stick to the paved paths as the grass becomes very muddy; the pavilions offer small dry islands for a quick rest during your stroll."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Rathaus ist frisch, ziehen Sie sich warm an. Mittags besuchen Sie den Pelourinho und finden in der Kirche Santo André spirituelle Wärme. Das Musikmuseum bietet am Nachmittag Schutz vor dem kühlen Wind. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Jardim do Cerco frühzeitig besuchen, um das restliche Tageslicht zu genießen.",
+            "hu": "A reggel a városházánál hűvös, öltözzön rétegesen. Délben látogasson el a Pelourinho-hoz, majd keressen lelki melegséget a Santo André templomban. A Zenemúzeum délután védelmet nyújt a hideg szél elől. Mivel a nap már 17:00 körül lemegy, látogasson el korán a Jardim do Cerco-ba, hogy még a sötétedés előtt élvezhesse a kerteket.",
+            "ro": "Dimineața la primărie este răcoroasă, îmbrăcați-vă gros. La prânz, vizitați Pelourinho și găsiți căldură în Biserica Santo André. Muzeul Muzicii oferă protecție împotriva vântului rece după-amiaza. Deoarece soarele apune în jur de 17:00, vizitați Jardim do Cerco devreme pentru a profita de lumina zilei.",
+            "en": "The morning at the town hall is crisp, so wear warm layers. At noon, visit the Pelourinho and find spiritual warmth inside Santo André Church. The Music Museum provides shelter from the cold wind in the afternoon. As the sun sets around 5 PM, visit Jardim do Cerco early to enjoy the gardens before the winter twilight falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Mafra",
+                "hu": "Câmara Municipal de Mafra",
+                "ro": "Câmara Municipal de Mafra",
+                "en": "Câmara Municipal de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht den Besuch im Rathaus erfrischend; nutzen Sie die beheizten öffentlichen Bereiche für eine kurze Aufwärmpause.",
+                "hu": "A hűvös reggeli levegő frissítővé teszi a városházi látogatást; használja a fűtött nyilvános tereket egy rövid melegedő szünetre.",
+                "ro": "Aerul rece de dimineață face vizita la primărie revigorantă; folosiți spațiile publice încălzite pentru o scurtă pauză de încălzire.",
+                "en": "The crisp morning air makes the town hall visit refreshing; utilize the heated public areas for a quick warm-up break if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Municipal Beatriz Costa",
+                "hu": "Auditorio Municipal Beatriz Costa",
+                "ro": "Auditorio Municipal Beatriz Costa",
+                "en": "Auditorio Municipal Beatriz Costa"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem Winterwind zu entkommen; genießen Sie die kulturelle Atmosphäre in den gut temperierten Ausstellungsräumen.",
+                "hu": "Ideális hely a téli szél elől való menekülésre; élvezze a kulturális atmoszférát a jól temperált kiállítótermekben.",
+                "ro": "Un loc ideal pentru a scăpa de vântul de iarnă; bucurați-vă de atmosfera culturală în sălile de expoziție bine încălzite.",
+                "en": "An ideal place to escape the winter wind; enjoy the cultural atmosphere within the well-tempered exhibition rooms today."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Mafra",
+                "hu": "Pelourinho de Mafra",
+                "ro": "Pelourinho de Mafra",
+                "en": "Pelourinho de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht sorgt für fantastische Fotos des Denkmals; halten Sie Handschuhe bereit, da es auf dem Platz windig sein kann.",
+                "hu": "A tiszta téli fény fantasztikus fotókat eredményez az emlékműről; legyen kéznél kesztyű, mert a téren szeles lehet az idő.",
+                "ro": "Lumina clară de iarnă oferă fotografii fantastice ale monumentului; aveți mănușile pregătite, deoarece poate fi vânt în piață.",
+                "en": "The clear winter light makes for fantastic photos of the monument; keep your gloves ready as it can get windy in the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santo André",
+                "hu": "Igreja de Santo André",
+                "ro": "Igreja de Santo André",
+                "en": "Igreja de Santo André"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur in der windstillen Kirche; die dicken Mauern halten die Kälte draußen und bieten einen Moment der Ruhe.",
+                "hu": "Csodálja meg az építészetet a szélvédett templomban; a vastag falak kint tartják a hideget és egy pillanatnyi nyugalmat adnak.",
+                "ro": "Admirați arhitectura în biserica ferită de vânt; zidurile groase țin frigul afară și oferă un moment de liniște deplină.",
+                "en": "Admire the architecture in the wind-sheltered church; the thick walls keep the cold out and offer a moment of complete peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Nacional da Música",
+                "hu": "Museu Nacional da Música",
+                "ro": "Museu Nacional da Música",
+                "en": "Museu Nacional da Música"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den späten Nachmittag, um sich aufzuwärmen; erkunden Sie die Sammlung, während es draußen langsam kühler wird.",
+                "hu": "Tökéletes hely a késő délutáni felmelegedéshez; fedezze fel a gyűjteményt, miközben kint lassan hűvösebbé válik az idő.",
+                "ro": "Locul perfect pentru a vă încălzi după-amiaza târziu; explorați colecția în timp ce afară se face treptat mai frig.",
+                "en": "The perfect place to warm up in the late afternoon; explore the collection while it gradually gets colder outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardim do Cerco",
+                "hu": "Jardim do Cerco",
+                "ro": "Jardim do Cerco",
+                "en": "Jardim do Cerco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch vor Sonnenuntergang um 17:00 Uhr; die Winterfarben des Gartens sind in der goldenen Stunde besonders intensiv.",
+                "hu": "Fejezze be látogatását a 17:00-s naplemente előtt; a kert téli színei az aranyórában különösen intenzívek és szépek.",
+                "ro": "Încheiați vizita înainte de apusul soarelui de la ora 17:00; culorile de iarnă ale grădinii sunt deosebit de intense la ora aurie.",
+                "en": "Finish your visit before the 5 PM sunset; the garden's winter colors are particularly intense and beautiful during the golden hour."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a napot Mafra központjának emlékműveivel, majd pihenjen meg a buja kertekben. Ahogy közeledik a dél, kerékpározzon észak felé, a vadregényesebb tájak felé. A délutánt a történelmi védelmi erődök felfedezésével és a közöttük lévő tekeréssel töltheti. Az esti naplemente hosszú árnyékokat vet Murgeirára, tökéletes lezárásként.",
         "ro": "Începeți-vă ziua admirând monumentele din centrul Mafrei și relaxându-vă în grădinile verzi. Când se apropie prânzul, pedalați spre nord, spre peisajele accidentate. Petreceți după-amiaza vizitând forturile defensive istorice care au protejat regiunea. Soarele de seară aruncă umbre lungi peste Murgeira, marcând finalul cursei.",
         "en": "Kick off your day admiring central Mafra's monuments and relaxing in the lush Jardim do Cerco. As midday approaches, pedal northwards to the rugged landscapes. Spend the afternoon hopping between historic defensive forts built against invasions. The evening sun casts long dramatic shadows over Murgeira, ending your ride."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Cavalo Livre, da die Wege rutschig sind. Mittags bieten der Pelourinho und der Garten kurze Stopps zwischen den Schauern. Der Nachmittag zu den Forts erfordert gute Regenbekleidung und Vorsicht in den Kurven. Kehren Sie vor der Dämmerung zurück, da die Sicht bei Regen stark eingeschränkt ist und die Straßenoberflächen tückisch sein können.",
+            "hu": "Kezdjen óvatosan a Cavalo Livre-nél, mert az utak csúszósak. Délben a Pelourinho és a kert rövid megállókat kínál a záporok között. A délutáni túra az erődökhöz jó esőruházatot és óvatosságot igényel a kanyarokban. Térjen vissza sötétedés előtt, mert esőben a látási viszonyok korlátozottak, és az útburkolat trükkös lehet.",
+            "ro": "Începeți cu prudență la Cavalo Livre, deoarece drumurile sunt alunecoase. La prânz, Pelourinho și grădina oferă scurte opriri între averse. Turul de după-amiază spre cetăți necesită echipament de ploaie bun și atenție în curbe. Reveniți înainte de lăsarea serii, deoarece vizibilitatea este redusă pe ploaie.",
+            "en": "Start cautiously at Cavalo Livre as the paths are slippery. At noon, the Pelourinho and the garden offer short stops between showers. The afternoon trek to the forts requires good rain gear and care in the curves. Return before dusk as visibility is limited in the rain and the road surfaces can be tricky for cyclists."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cavalo Livre",
+                "hu": "Cavalo Livre",
+                "ro": "Cavalo Livre",
+                "en": "Cavalo Livre"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf nassen Straßen; die erste Etappe erfordert volle Konzentration wegen des rutschigen Asphalts.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes utakon; az első szakasz teljes koncentrációt igényel a csúszós aszfalt miatt.",
+                "ro": "Verificați frânele înainte de a porni pe drumuri ude; prima etapă necesită concentrare maximă din cauza asfaltului alunecos.",
+                "en": "Check your brakes before starting on wet roads; the first stage requires full concentration due to the potentially slippery asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Mafra",
+                "hu": "Pelourinho de Mafra",
+                "ro": "Pelourinho de Mafra",
+                "en": "Pelourinho de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto; achten Sie beim Absteigen auf die glatten Pflastersteine rund um das Denkmal.",
+                "hu": "Gyors megálló egy fotóra; leszálláskor ügyeljen a műemlék körüli csúszós macskakövekre a kerékpárral.",
+                "ro": "O oprire rapidă pentru o fotografie; aveți grijă la pietrele cubice alunecoase din jurul monumentului când coborâți de pe bicicletă.",
+                "en": "A quick stop for a photo; be careful of the slippery cobblestones around the monument when dismounting from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardim do Cerco",
+                "hu": "Jardim do Cerco",
+                "ro": "Jardim do Cerco",
+                "en": "Jardim do Cerco"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem plötzlichen Schauer Schutz unter den großen Bäumen oder in den Pavillons, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Hirtelen zápor esetén keressen menedéket a nagy fák alatt vagy a pavilonokban, mielőtt folytatná a kerékpározást.",
+                "ro": "Căutați adăpost sub copacii mari sau în pavilioane în cazul unei averse bruște, înainte de a vă continua drumul.",
+                "en": "Search for shelter under the large trees or in the pavilions if a sudden shower hits before you continue your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte da Ribeira Alva",
+                "hu": "Forte da Ribeira Alva",
+                "ro": "Forte da Ribeira Alva",
+                "en": "Forte da Ribeira Alva"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Fort kann schlammig sein; fahren Sie langsam und nutzen Sie die Mauern des Forts als Wind- und Regenschutz.",
+                "hu": "Az erődhöz vezető út sáros lehet; haladjon lassan, és használja az erőd falait szél- és esővédelemként a pihenő alatt.",
+                "ro": "Drumul spre cetate poate fi noroios; mergeți încet și folosiți zidurile cetății ca protecție împotriva vântului și ploii.",
+                "en": "The path to the fort can be muddy; ride slowly and use the fort walls as wind and rain protection during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Samoco",
+                "hu": "Forte do Samoco",
+                "ro": "Forte do Samoco",
+                "en": "Forte do Samoco"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den Küstenpfaden bei Wind und Regen; halten Sie ausreichend Abstand zum Rand und achten Sie auf Pfützen.",
+                "hu": "Vigyázat a parti ösvényeken szélben és esőben; tartson elegendő távolságot a szélétől, és figyeljen a mély tócsákra.",
+                "ro": "Atenție pe potecile de coastă pe vânt și ploaie; păstrați o distanță sigură de margine și fiți atenți la bălți.",
+                "en": "Be careful on the coastal paths in wind and rain; keep a safe distance from the edge and watch out for deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte da Murgeira",
+                "hu": "Forte da Murgeira",
+                "ro": "Forte da Murgeira",
+                "en": "Forte da Murgeira"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihren Sattel und die Griffe vor der Rückfahrt trocken; die kühle Brise nach dem Regen erfordert eine zusätzliche Kleidungsschicht.",
+                "hu": "Törölje szárazra a nyerget és a markolatokat a visszaindulás előtt; az eső utáni hűvös szél plusz réteg ruhát igényel.",
+                "ro": "Ștergeți șaua și mânerele înainte de drumul de întoarcere; briza răcoroasă de după ploaie necesită un strat suplimentar de haine.",
+                "en": "Wipe your saddle and grips dry before the return trip; the cool breeze after the rain requires an extra layer of clothing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Cavalo Livre mit warmer Kleidung gegen den Fahrtwind. Mittags ist das Licht am Pelourinho und im Garten klar und ideal für Fotos. Der Nachmittag bei den Forts ist windig und kühl, Handschuhe sind Pflicht. Beenden Sie die Tour bis 17:00 Uhr, da die Temperaturen nach Sonnenuntergang schnell fallen und es im Winter sehr früh dunkel wird.",
+            "hu": "Kezdjen a Cavalo Livre-nél meleg ruházatban a menetszél ellen. Délben a fények a Pelourinho-nál és a kertben tiszták, ideálisak fotózáshoz. A délután az erődöknél szeles és hűvös, a kesztyű kötelező. Fejezze be a túrát 17:00-ig, mert naplemente után a hőmérséklet gyorsan leesik, és télen korán sötétedik.",
+            "ro": "Începeți la Cavalo Livre cu haine groase împotriva vântului. La prânz, lumina la Pelourinho și în grădină este clară, ideală pentru poze. După-amiaza la cetăți este vântoasă și răcoroasă, mănușile sunt obligatorii. Încheiați turul până la 17:00, deoarece temperaturile scad rapid după apus.",
+            "en": "Start at Cavalo Livre with warm clothing to block the wind. At noon, the light at Pelourinho and the garden is clear and ideal for photos. The afternoon at the forts is windy and cool, so gloves are mandatory. Finish the tour by 5 PM as temperatures drop quickly after sunset and it gets dark very early in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cavalo Livre",
+                "hu": "Cavalo Livre",
+                "ro": "Cavalo Livre",
+                "en": "Cavalo Livre"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da die Winterluft beim Radfahren besonders beißend sein kann; wärmen Sie sich vor dem Start gut auf.",
+                "hu": "Viseljen szélálló ruházatot, mert a téli levegő kerékpározás közben különösen metsző lehet; indulás előtt jól melegítsen be.",
+                "ro": "Purtați haine rezistente la vânt, deoarece aerul de iarnă poate fi tăios în timpul mersului pe bicicletă; încălziți-vă bine înainte.",
+                "en": "Wear windproof clothing as the winter air can be particularly biting while cycling; warm up well before you start your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Mafra",
+                "hu": "Pelourinho de Mafra",
+                "ro": "Pelourinho de Mafra",
+                "en": "Pelourinho de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das tiefe Sonnenlicht für dramatische Schattenwürfe des Denkmals; ein kurzer Halt bewahrt Sie davor, zu stark auszukühlen.",
+                "hu": "Használja ki az alacsony napállást a műemlék drámai árnyékaihoz; egy rövid megálló megvédi Önt a túlzott lehűléstől.",
+                "ro": "Profitați de lumina joasă a soarelui pentru umbre dramatice ale monumentului; o scurtă oprire vă împiedică să vă răciți prea tare.",
+                "en": "Take advantage of the low sun for dramatic shadows of the monument; a short stop prevents you from getting too chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardim do Cerco",
+                "hu": "Jardim do Cerco",
+                "ro": "Jardim do Cerco",
+                "en": "Jardim do Cerco"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des winterlichen Gartens; die Bewegung hält Sie warm, aber meiden Sie schattige Bänke für längere Pausen.",
+                "hu": "Élvezze a téli kert nyugalmát; a mozgás melegen tartja, de kerülje az árnyékos padokat a hosszabb pihenőkhöz a hidegben.",
+                "ro": "Bucurați-vă de liniștea grădinii de iarnă; mișcarea vă menține cald, dar evitați băncile umbroase pentru pauze lungi.",
+                "en": "Enjoy the tranquility of the winter garden; movement keeps you warm, but avoid shaded benches for long breaks in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte da Ribeira Alva",
+                "hu": "Forte da Ribeira Alva",
+                "ro": "Forte da Ribeira Alva",
+                "en": "Forte da Ribeira Alva"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenwinde sind im Winter kräftig; halten Sie den Lenker fest und nutzen Sie das Fort als Windschatten für einen Snack.",
+                "hu": "A parti szelek télen erősek; fogja erősen a kormányt, és használja az erődöt szélárnyékként egy gyors tízóraihoz.",
+                "ro": "Vânturile de coastă sunt puternice iarna; țineți bine ghidonul și folosiți cetatea ca paravan pentru o gustare rapidă.",
+                "en": "Coastal winds are strong in winter; grip the handlebars firmly and use the fort as a windbreak for a quick snack."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Samoco",
+                "hu": "Forte do Samoco",
+                "ro": "Forte do Samoco",
+                "en": "Forte do Samoco"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das raue Wintermeer von hier oben; achten Sie auf den Untergrund, der bei Frost stellenweise glatt sein könnte.",
+                "hu": "Figyelje meg innen a haragos téli tengert; ügyeljen a talajra, amely fagy esetén helyenként csúszós lehet a kerékpárral.",
+                "ro": "Observați marea agitată de iarnă de aici de sus; aveți grijă la sol, care poate fi alunecos pe alocuri în caz de îngheț.",
+                "en": "Observe the rough winter sea from up here; be careful of the ground, which might be slippery in places if there is frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte da Murgeira",
+                "hu": "Forte da Murgeira",
+                "ro": "Forte da Murgeira",
+                "en": "Forte da Murgeira"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie rechtzeitig den Rückweg an, bevor die Kälte nach 17:00 Uhr zunimmt; funktionale Winterkleidung ist Ihr bester Begleiter.",
+                "hu": "Induljon vissza időben, mielőtt a hideg 17:00 után fokozódik; a funkcionális téli ruházat a legjobb társa ezen a túrán.",
+                "ro": "Porniți înapoi la timp înainte ca frigul să se intensifice după ora 17:00; îmbrăcămintea funcțională de iarnă este cel mai bun aliat.",
+                "en": "Head back in time before the cold intensifies after 5 PM; functional winter clothing is your best companion on this tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a napot José Franco varázslatos miniatűr falujával, amely minden korosztály kedvence. Délben vezessen a központba a zenei örökség és a történelmi csarnokok megcsodálásához. A délután a Torres Vedras vonal erődítményeinek felfedezésével telik. Fejezze be a túrát a Nemzeti Tapada hatalmas, vad szépségében.",
         "ro": "Începeți cu satul magic în miniatură al lui José Franco, o atracție pentru toate vârstele. Conduceți spre centru la prânz pentru a admira moștenirea muzicală. După-amiaza vă poartă într-o călătorie prin forturile Liniilor Torres Vedras, bogate în istorie. Finalizați ziua în frumusețea vastă și sălbatică a rezervației Tapada Nacional.",
         "en": "Start with the magical miniature village of José Franco, a hit with all ages. Drive to the center by midday to marvel at musical heritage and historic halls. The afternoon takes you on a journey through the protective Lines of Torres Vedras forts. Finish your road trip embraced by the vast, wild beauty of the National Tapada."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im Aldeia Típica, das auch bei Regen seinen Charme behält. Mittags ist das Musikmuseum der ideale trockene Rückzugsort. Nachmittags besuchen Sie das Rathaus und die Forts bequem mit dem Auto, während es draußen stürmt. Der Tag endet in der Tapada Nacional, die im Regen besonders mystisch und neblig wirkt; fahren Sie vorsichtig auf den nassen Straßen zu den Aussichtspunkten.",
+            "hu": "Kezdjen az Aldeia Típica-ban, amely esőben is megőrzi báját. Délben a Zenemúzeum az ideális száraz menedék. Délután látogassa meg a városházát és az erődöket kényelmesen autóval, miközben kint esik. A nap a Tapada Nacional-ban zárul, amely esőben különösen misztikus és ködös; vezessen óvatosan a vizes utakon a kilátópontok felé.",
+            "ro": "Începeți la Aldeia Típica, care își păstrează farmecul și pe ploaie. La prânz, Muzeul Muzicii este refugiul ideal. După-amiaza, vizitați primăria și cetățile confortabil cu mașina. Ziua se încheie la Tapada Nacional, care pare mistică pe ploaie; conduceți cu prudență pe drumurile ude spre punctele de belvedere.",
+            "en": "Start at Aldeia Típica, which retains its charm even in the rain. At noon, the Music Museum is the ideal dry retreat. In the afternoon, visit the town hall and the forts comfortably by car while it pours outside. The day ends at Tapada Nacional, which looks particularly mystical and misty in the rain; drive carefully on the wet roads to the viewpoints."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aldeia Típica de José Franco",
+                "hu": "Aldeia Típica de José Franco",
+                "ro": "Aldeia Típica de José Franco",
+                "en": "Aldeia Típica de José Franco"
+              },
+              "tip_5lang": {
+                "de": "Viele Bereiche sind überdacht, sodass Sie das Miniaturdorf fast trocken erkunden können; genießen Sie das frische Brot direkt aus dem warmen Ofen.",
+                "hu": "Számos terület fedett, így a falumúzeumot szinte szárazon fedezheti fel; élvezze a friss kenyeret közvetlenül a meleg kemencéből.",
+                "ro": "Multe zone sunt acoperite, astfel încât puteți explora satul aproape uscat; savurați pâinea proaspătă direct din cuptorul cald.",
+                "en": "Many areas are covered, so you can explore the miniature village almost dry; enjoy fresh bread directly from the warm oven today."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Nacional da Música",
+                "hu": "Museu Nacional da Música",
+                "ro": "Museu Nacional da Música",
+                "en": "Museu Nacional da Música"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu meiden; das Museum bietet stundenlangen Schutz und faszinierende Exponate.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt; a múzeum órákig tartó védelmet és lenyűgöző kiállításokat kínál.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; muzeul oferă ore întregi de protecție și exponate fascinante.",
+                "en": "Park as close as possible to the entrance to avoid the rain; the museum offers hours of shelter and fascinating exhibits to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Mafra",
+                "hu": "Câmara Municipal de Mafra",
+                "ro": "Câmara Municipal de Mafra",
+                "en": "Câmara Municipal de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Ein bequemer Stopp mit dem Auto; bewundern Sie die Fassade aus dem trockenen Fahrzeuginneren, bevor Sie für einen kurzen Rundgang hineingehen.",
+                "hu": "Kényelmes megálló autóval; csodálja meg a homlokzatot a száraz járműből, mielőtt bemenne egy rövid belső körútra.",
+                "ro": "O oprire confortabilă cu mașina; admirați fațada din interiorul vehiculului înainte de a intra pentru un scurt tur interior.",
+                "en": "A comfortable stop by car; admire the facade from the dry vehicle before heading inside for a short interior tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Juncal",
+                "hu": "Forte do Juncal",
+                "ro": "Forte do Juncal",
+                "en": "Forte do Juncal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Aussichtsplattform bei starkem Regen; die Sicht auf das stürmische Meer ist aus dem trockenen Wagen spektakulär.",
+                "hu": "Használja az autót kilátóként heves esőzésben; a viharos tenger látványa a száraz kocsiból is látványos és biztonságos.",
+                "ro": "Folosiți mașina ca punct de observare în caz de ploaie abundentă; vederea mării agitate din vehiculul uscat este spectaculoasă.",
+                "en": "Use your car as a viewing platform during heavy rain; the sight of the stormy sea is spectacular from the dry vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Sonivel",
+                "hu": "Forte do Sonivel",
+                "ro": "Forte do Sonivel",
+                "en": "Forte do Sonivel"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt kann bei Regen über unbefestigte Wege führen; fahren Sie langsam, um Pfützen und Schlamm auszuweichen.",
+                "hu": "Esőben az odaút burkolatlan szakaszokat érinthet; haladjon lassan, hogy elkerülje a mély tócsákat és a sarat az autóval.",
+                "ro": "Accesul pe ploaie poate implica drumuri neasfaltate; conduceți încet pentru a evita bălțile și noroiul cu mașina.",
+                "en": "The access road in the rain may involve unpaved sections; drive slowly to avoid deep puddles and mud with your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Tapada Nacional de Mafra",
+                "hu": "Tapada Nacional de Mafra",
+                "ro": "Tapada Nacional de Mafra",
+                "en": "Tapada Nacional de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Tiere zeigen sich oft bei Regen; bleiben Sie für Beobachtungen im Auto oder nutzen Sie die überdachten Besucherbereiche.",
+                "hu": "Az állatok gyakran megmutatkoznak esőben; maradjon az autóban a megfigyeléshez, vagy használja a fedett látogatói területeket.",
+                "ro": "Animalele apar adesea pe ploaie; rămâneți în mașină pentru observații sau folosiți zonele acoperite pentru vizitatori.",
+                "en": "Animals often show themselves in the rain; stay in the car for observations or use the covered visitor areas for shelter."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintermorgen im gemütlichen Aldeia Típica. Mittags bieten das Musikmuseum und das Rathaus angenehme Wärme. Nachmittags fahren Sie entlang der Küste zu den Forts, um das dramatische Winterlicht über dem Atlantik zu bewundern. Beenden Sie den Tag in der Tapada Nacional vor 17:00 Uhr, um die Tiere in der Dämmerung zu sehen, bevor es im Winter schnell dunkel wird.",
+            "hu": "Kezdje a téli reggelt a hangulatos Aldeia Típica-ban. Délben a Zenemúzeum és a városháza kínál kellemes meleget. Délután autózzon a part mentén az erődökhöz, hogy megcsodálja a dramatikus téli fényeket az Atlanti-óceán felett. Zárja a napot a Tapada Nacional-ban 17:00 előtt, hogy lássa az állatokat a szürkületben.",
+            "ro": "Începeți dimineața de iarnă la primitoarea Aldeia Típica. La prânz, Muzeul Muzicii și primăria oferă căldură plăcută. După-amiaza, conduceți de-a lungul coastei spre cetăți pentru lumina dramatică de iarnă. Încheiați ziua la Tapada Nacional înainte de 17:00 pentru a vedea animalele la amurg.",
+            "en": "Start your winter morning at the cozy Aldeia Típica. At noon, the Music Museum and the town hall offer pleasant warmth. In the afternoon, drive along the coast to the forts to admire the dramatic winter light over the Atlantic. End the day at Tapada Nacional before 5 PM to catch the animals at twilight before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aldeia Típica de José Franco",
+                "hu": "Aldeia Típica de José Franco",
+                "ro": "Aldeia Típica de José Franco",
+                "en": "Aldeia Típica de José Franco"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Kaffee und das frisch gebackene Brot sind im Winter ein Muss; genießen Sie die rustikale Atmosphäre am Morgen.",
+                "hu": "Egy meleg kávé és a frissen sült kenyér télen kötelező; élvezze a rusztikus hangulatot a hűvös reggeli órákban.",
+                "ro": "O cafea caldă și pâinea proaspăt coaptă sunt obligatorii iarna; bucurați-vă de atmosfera rustică în orele răcoroase ale dimineții.",
+                "en": "A warm coffee and freshly baked bread are a must in winter; enjoy the rustic atmosphere during the crisp morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Nacional da Música",
+                "hu": "Museu Nacional da Música",
+                "ro": "Museu Nacional da Música",
+                "en": "Museu Nacional da Música"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Räume machen das Museum zum perfekten Mittagsstopp; lassen Sie sich Zeit bei der Erkundung der wertvollen Sammlung.",
+                "hu": "A fűtött termek a múzeumot tökéletes déli megállóvá teszik; szánjon időt az értékes gyűjtemény alapos felfedezésére.",
+                "ro": "Sălile încălzite fac din muzeu oprirea perfectă la prânz; acordați-vă timp pentru a explora colecția valoroasă în tihnă.",
+                "en": "The heated rooms make the museum the perfect noon stop; take your time exploring the valuable collection in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Mafra",
+                "hu": "Câmara Municipal de Mafra",
+                "ro": "Câmara Municipal de Mafra",
+                "en": "Câmara Municipal de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus bietet Schutz vor dem kalten Winterwind; bewundern Sie die architektonischen Details in aller Ruhe drinnen.",
+                "hu": "A városháza védelmet nyújt a hideg téli szél elől; csodálja meg az építészeti részleteket teljes nyugalomban a benti melegben.",
+                "ro": "Primăria oferă protecție împotriva vântului rece de iarnă; admirați detaliile arhitecturale în liniște în interior.",
+                "en": "The town hall provides shelter from the cold winter wind; admire the architectural details in peace inside the warm building."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Juncal",
+                "hu": "Forte do Juncal",
+                "ro": "Forte do Juncal",
+                "en": "Forte do Juncal"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf die Brandung; die klare Winterluft ermöglicht weite Sichtachsen entlang der Küste.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a hullámverésre; a tiszta téli levegő távoli kilátást tesz lehetővé a part mentén.",
+                "ro": "Din parcare aveți o vedere minunată asupra valurilor; aerul clar de iarnă permite vederi la distanță de-a lungul coastei.",
+                "en": "From the parking lot, you have a great view of the surf; the clear winter air allows for distant views along the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Sonivel",
+                "hu": "Forte do Sonivel",
+                "ro": "Forte do Sonivel",
+                "en": "Forte do Sonivel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vom Auto aus, falls es draußen zu windig ist; die Wintersonne taucht die Forts in goldenes Licht.",
+                "hu": "Élvezze a naplementét az autóból, ha kint túl szeles az idő; a téli nap aranyló fénybe öltözteti az erődök falait.",
+                "ro": "Bucurați-vă de apus din mașină dacă afară este prea vânt; soarele de iarnă scaldă cetățile într-o lumină aurie superbă.",
+                "en": "Enjoy the sunset from your car if it's too windy outside; the winter sun bathes the forts in a beautiful golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Tapada Nacional de Mafra",
+                "hu": "Tapada Nacional de Mafra",
+                "ro": "Tapada Nacional de Mafra",
+                "en": "Tapada Nacional de Mafra"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie frühzeitig an, da das Licht im Winter gegen 17:00 Uhr schwindet; die dichte Vegetation schützt stellenweise vor Wind.",
+                "hu": "Érkezzen korán, mert a fény télen 17:00 körül elfogy; a sűrű vegetáció helyenként védelmet nyújt a hideg szél ellen.",
+                "ro": "Sosiți devreme, deoarece lumina dispare în jur de 17:00 iarna; vegetația densă oferă protecție împotriva vântului rece.",
+                "en": "Arrive early as the light fades around 5 PM in winter; the dense vegetation provides some protection against the cold wind."
+              }
+            }
+          ]
+        }
       }
     }
   }

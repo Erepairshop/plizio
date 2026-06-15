@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Panticosa szívében, a festői Asunción templomnál. Egy rövid séta elvezeti a lélegzetelállító Pasarelas de Panticosa függőhídjaihoz. A délelőtt látványos kilátást nyújt a Mirador del Tozal felől. Délben fedezze fel a dombokon található lenyűgöző történelmi bunkerrendszert. Délután mássza meg a Peña Medio-t egy még lenyűgözőbb perspektíváért. Fejezze be a túrát a békés Mirador de Cucuraza kilátónál.",
         "ro": "Începeți ziua în inima localității Panticosa, la pitoreasca biserică Asunción. O scurtă plimbare vă duce la podurile suspendate Pasarelas de Panticosa. Dimineața oferă priveliști spectaculoase de la Mirador del Tozal. La prânz, explorați buncărele istorice fascinante de pe dealuri. După-amiaza, urcați pe Peña Medio pentru o perspectivă și mai impresionantă. Încheiați traseul la liniștitul Mirador de Cucuraza.",
         "en": "Start your day in the heart of Panticosa at the picturesque Asunción church. A short walk takes you to the thrilling Pasarelas de Panticosa suspension bridges. The morning offers spectacular views from the Mirador del Tozal. At noon, explore the fascinating historical bunkers hidden in the hills. In the afternoon, climb Peña Medio for an even more impressive perspective. Finish the route at the peaceful Mirador de Cucuraza."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche Schutz vor dem Regen. Mittags führen die glitschigen Pasarelas durch eine mystische Nebellandschaft. Am Nachmittag dient der Bunker als trockener Aussichtspunkt. Der Abend endet bei prasselndem Regen sicher im Dorfzentrum.",
+            "hu": "Reggel a templom nyújt menedéket a zápor elől. Délben a Pasarelas sziklái közt misztikus ködfátyol kíséri utunkat. Délután a bunker falaiban lelünk száraz pihenőt. Az este folyamán az eső áztatta utcákon át térünk vissza a biztonságos szállásra.",
+            "ro": "Dimineața, biserica oferă un refugiu primitor împotriva ploii. La prânz, Pasarelas devine spectaculoasă sub ceața montană. După-amiaza, buncărul oferă adăpost uscat pentru observație. Seara se încheie liniștit, pe măsură ce ploaia spală străzile satului.",
+            "en": "Morning starts with a refuge in the church. By noon, the walkways are draped in a mystical mist. Afternoon brings a dry break inside the bunker's thick walls. The evening concludes with the soothing sound of rain on the village rooftops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de la Asunción de Nuestra Señora",
+                "hu": "Iglesia de la Asunción de Nuestra Señora",
+                "ro": "Iglesia de la Asunción de Nuestra Señora",
+                "en": "Iglesia de la Asunción de Nuestra Señora"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Altarbilder im trockenen Innenraum; die Kirche ist der ideale Ort, um einen Regenschauer abzuwarten, bevor Sie den Weg fortsetzen.",
+                "hu": "Csodálja meg a belső teret az eső elől menekülve; a csendes templom tökéletes menedék, amíg eláll a zivatar, csak vigyázzon a nedves küszöbre belépéskor.",
+                "ro": "Admirați detaliile interioare la adăpost de ploaie; biserica este locul perfect pentru a aștepta trecerea unei averse înainte de a pleca mai departe.",
+                "en": "Admire the interior altarpieces while staying dry; the church is an ideal refuge to wait out a heavy downpour before continuing your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasarelas de Panticosa",
+                "hu": "Pasarelas de Panticosa",
+                "ro": "Pasarelas de Panticosa",
+                "en": "Pasarelas de Panticosa"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich fest an den Handläufen, da die Metallstege bei Regen rutschig sind; die Aussicht auf den Fluss ist bei Regen besonders dramatisch.",
+                "hu": "Használja szorosan a korlátokat, mert a fém rácsok esőben csúszósak lehetnek; a vízesések látványa ilyenkor sokkal intenzívebb és vadabb.",
+                "ro": "Țineți-vă bine de balustrade, deoarece grilajele metalice devin alunecoase pe ploaie; debitul râului oferă un spectacol impresionant în zilele umede.",
+                "en": "Hold firmly onto the handrails as the metal walkways get slippery in the rain; the river views are exceptionally dramatic during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Tozal de O'Calvé",
+                "hu": "Mirador del Tozal de O'Calvé",
+                "ro": "Mirador del Tozal de O'Calvé",
+                "en": "Mirador del Tozal de O'Calvé"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel kann die Sicht einschränken, bietet aber tolle Fotomotive; tragen Sie wasserfeste Schuhe für den matschigen Pfad zum Aussichtspunkt.",
+                "hu": "A köd korlátozhatja a kilátást, de misztikus hangulatot áraszt; viseljen vízálló bakancsot a kilátóhoz vezető, helyenként felázott talaj miatt.",
+                "ro": "Ceața poate limita vizibilitatea, dar oferă un decor mistic; purtați încălțăminte impermeabilă pentru poteca noroioasă spre punctul de belvedere.",
+                "en": "Mist might limit the long-range view but creates a mystical atmosphere; wear waterproof boots for the muddy path leading up to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "bunker",
+                "hu": "bunker",
+                "ro": "bunker",
+                "en": "bunker"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Bunker als natürlichen Regenschutz und erkunden Sie die Gänge; die Betonwände halten Sie trocken, während Sie die Geschichte spüren.",
+                "hu": "Használja a bunkert természetes esővédőként és fedezze fel a belső járatokat; a vastag betonfalak szárazon tartják, miközben elmerül a múltban.",
+                "ro": "Folosiți buncărul ca adăpost natural împotriva ploii și explorați galeriile; zidurile groase vă mențin uscat în timp ce descoperiți istoria locului.",
+                "en": "Use the bunker as a natural rain shelter and explore its corridors; the thick concrete walls will keep you dry while you soak in the history."
+              }
+            },
+            {
+              "name": {
+                "de": "Peña Medio;Mirador de Peña Medio",
+                "hu": "Peña Medio;Mirador de Peña Medio",
+                "ro": "Peña Medio;Mirador de Peña Medio",
+                "en": "Peña Medio;Mirador de Peña Medio"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Felsen am Gipfel; die Wolken, die an den Bergen hängen, wirken wie aus einem Gemälde, wenn man einen Schirm dabei hat.",
+                "hu": "Vigyázzon a nedves sziklákon a csúcson; a hegyek közé szorult felhők látványa festői, de legyen kéznél egy stabil, szélálló esernyő is.",
+                "ro": "Atenție pe stâncile umede de pe culme; norii agățați de munți par desprinși dintr-o pictură, însă asigurați-vă că aveți o umbrelă rezistentă.",
+                "en": "Be careful on the wet rocks at the peak; the clouds clinging to the mountains look like a painting, just ensure you have a sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Cucuraza",
+                "hu": "Mirador de Cucuraza",
+                "ro": "Mirador de Cucuraza",
+                "en": "Mirador de Cucuraza"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg kann rutschig sein, nehmen Sie sich Zeit; genießen Sie den Blick auf das regnerische Tal, bevor Sie ins warme Dorf zurückkehren.",
+                "hu": "A leereszkedés csúszós lehet, haladjon lassan; élvezze az eső áztatta völgy látványát, mielőtt visszatérne a falu melegébe pihenni.",
+                "ro": "Coborârea poate fi alunecoasă, deci mergeți încet; admirați valea scăldată în ploaie înainte de a vă întoarce la căldura din sat.",
+                "en": "The descent can be slippery, so take your time; enjoy the view of the rainy valley before returning to the warmth of the village to dry off."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch mit schneebedeckten Gipfeln. Mittags wärmt die Sonne kurz den Weg zu den Aussichtspunkten. Am Nachmittag sorgt das klare Licht für scharfe Kontraste am Bunker. Gegen 17:00 Uhr sinkt die Kälte mit der frühen Dämmerung ins Tal.",
+            "hu": "A téli reggel friss, havas csúcsok látványával indul. Délben a nap bágyadt fénye kísér a kilátókhoz vezető úton. Délután a tiszta hegyi levegő éles kontrasztokat rajzol a bunkernél. 17:00 körül a korai sötétség és a fagy gyorsan visszakerget a faluba.",
+            "ro": "Dimineața de iarnă începe proaspătă, cu vârfuri înzăpezite. La prânz, soarele palid luminează potecile spre punctele de belvedere. După-amiaza, aerul rece oferă o vizibilitate clară spre buncăr. În jurul orei 17:00, întunericul și gerul coboară rapid în vale.",
+            "en": "Winter morning begins crisp with snow-capped peaks. By noon, the pale sun warms the paths to the viewpoints. Afternoon air provides sharp contrasts and clear views at the bunker. Around 17:00, the early dusk and cold settle quickly over the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de la Asunción de Nuestra Señora",
+                "hu": "Iglesia de la Asunción de Nuestra Señora",
+                "ro": "Iglesia de la Asunción de Nuestra Señora",
+                "en": "Iglesia de la Asunción de Nuestra Señora"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, tragen Sie Schichten; die Stille der Kirche im Winter ist perfekt für eine besinnliche Pause am Morgen.",
+                "hu": "A vastag falak télen ontják a hideget, öltözzön rétegesen; a templom téli csendje tökéletes egy elmélyült reggeli pillanathoz a fűtött terek előtt.",
+                "ro": "Zidurile groase rețin frigul, deci purtați straturi groase; liniștea bisericii iarna este perfectă pentru un moment de reculegere dimineața.",
+                "en": "The thick walls retain the cold, so wear plenty of layers; the church's winter silence is perfect for a reflective morning pause."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasarelas de Panticosa",
+                "hu": "Pasarelas de Panticosa",
+                "ro": "Pasarelas de Panticosa",
+                "en": "Pasarelas de Panticosa"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Metallstegen; die gefrorenen Wassertropfen an den Felswänden glitzern wunderschön in der Wintersonne.",
+                "hu": "Ügyeljen a jeges foltokra a fémrácsokon; a sziklafalakról lelógó jégcsapok és a fagyott vízcseppek gyönyörűen csillognak a téli napsütésben.",
+                "ro": "Atenție la porțiunile înghețate de pe grilajele metalice; țurțurii de pe stânci și picăturile înghețate sclipesc superb în soarele de iarnă.",
+                "en": "Watch out for icy patches on the metal walkways; the icicles on the rock faces and frozen droplets sparkle beautifully in the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Tozal de O'Calvé",
+                "hu": "Mirador del Tozal de O'Calvé",
+                "ro": "Mirador del Tozal de O'Calvé",
+                "en": "Mirador del Tozal de O'Calvé"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die verschneiten Pyrenäen ist im Winter am besten; warme Handschuhe sind wichtig, wenn man länger die Aussicht genießen will.",
+                "hu": "A távoli kilátás a havas Pireneusokra télen a legtisztább; vigyen meleg kesztyűt, ha hosszabb ideig szeretne gyönyörködni a panorámában.",
+                "ro": "Vizibilitatea spre Pirineii înzăpeziți este maximă iarna; mănușile groase sunt esențiale dacă doriți să admirați panorama mai mult timp.",
+                "en": "The long-range visibility of the snowy Pyrenees is clearest in winter; bring warm gloves if you plan to enjoy the panorama for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "bunker",
+                "hu": "bunker",
+                "ro": "bunker",
+                "en": "bunker"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren kann es sehr zugig und kalt sein; nutzen Sie den geschützten Raum für einen schnellen Tee aus der Thermoskanne vor dem Weitergehen.",
+                "hu": "A bunker belseje ilyenkor huzatos és rendkívül hideg lehet; használja a szélvédett részeket egy gyors termosz-teázáshoz a továbbindulás előtt.",
+                "ro": "Interiorul buncărului poate fi foarte rece și cu curent; folosiți spațiul adăpostit pentru un ceai cald din termos înainte de a pleca.",
+                "en": "The bunker's interior can be very drafty and cold; use the sheltered spots for a quick hot tea from your thermos before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Peña Medio;Mirador de Peña Medio",
+                "hu": "Peña Medio;Mirador de Peña Medio",
+                "ro": "Peña Medio;Mirador de Peña Medio",
+                "en": "Peña Medio;Mirador de Peña Medio"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad kann unter Schnee verborgen sein, bleiben Sie vorsichtig; die tiefstehende Sonne bietet fantastisches Licht für Fotos der weißen Gipfel.",
+                "hu": "Az ösvényt hó fedheti, maradjon a kijelölt úton; az alacsonyan járó nap fantasztikus fényeket fest a fehér csúcsokra a délutáni órákban.",
+                "ro": "Poteca poate fi acoperită de zăpadă, deci rămâneți pe traseu; soarele jos oferă o lumină fantastică pentru fotografii cu vârfurile albe.",
+                "en": "The path might be hidden under snow, so stay cautious; the low sun provides fantastic lighting for photos of the white peaks in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Cucuraza",
+                "hu": "Mirador de Cucuraza",
+                "ro": "Mirador de Cucuraza",
+                "en": "Mirador de Cucuraza"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor 17:00 Uhr, wenn die Kälte zunimmt; der Blick auf das beleuchtete Panticosa im Schnee ist ein magischer Abschluss.",
+                "hu": "Fejezze be a látogatást 17:00 előtt a hirtelen lehűlés miatt; a kivilágított, havas Panticosa látványa a völgyben varázslatos zárása a napnak.",
+                "ro": "Încheiați vizita înainte de ora 17:00 din cauza gerului; vederea spre satul Panticosa luminat în zăpadă este un final de zi magic.",
+                "en": "Finish your visit before 17:00 as the cold intensifies; the view of illuminated Panticosa in the snow is a magical end to your winter hike."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Induljon a történelmi Plaza Mayorról, és élvezze a falu nyüzsgő életét. Kerekezzen el gyorsan a Mirador del Castiecho-hoz az első hegyi kilátásért. Folytassa a túrát az árnyas Sabinas és a Mirador de Peña Santa María mentén. Dél körül elérkezik a Mirador A Claveta-hoz. Az El Escuacho sziklamászó útvonal izgalmas felfedezése után délután pihenhet az escarrillai városi medencénél a kellemes napsütésben.",
         "ro": "Porniți de la istorica Plaza Mayor și bucurați-vă de agitația satului. Pedalați rapid către Mirador del Castiecho pentru primele priveliști montane. Continuați turul de-a lungul umbroaselor Sabinas și a Mirador de Peña Santa María. Spre prânz veți ajunge la Mirador A Claveta. După o întâlnire interesantă cu traseul de escaladă El Escuacho, vă puteți relaxa la piscina municipală din Escarrilla după-amiaza.",
         "en": "Start at the historic Plaza Mayor and enjoy the lively hustle and bustle of the village. Cycle quickly to the Mirador del Castiecho for the first mountain views. Continue the tour along the shady Sabinas and the Mirador de Peña Santa María. Around noon you will reach the Mirador A Claveta. After an exciting encounter with the El Escuacho climbing route, you can relax in the municipal pool in Escarrilla."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radmorgen beginnt vorsichtig auf dem Plaza Mayor. Mittags erfordern die nassen Abfahrten zu den Miradors volle Konzentration. Am Nachmittag bietet der Weg zur Piscina eine Erfrischung von oben. Der Abend endet bei einer heißen Dusche nach der feuchten Tour.",
+            "hu": "Az esős kerékpáros reggel óvatosan indul a főtéren. Délben a kilátókhoz vezető vizes lejtők teljes koncentrációt igényelnek a csúszásveszély miatt. Délután a medence felé vezető út frissítő égi áldást kap. Az este forró zuhanyozással zárul a vizes túra után.",
+            "ro": "O dimineață ploioasă pe bicicletă începe cu prudență în Plaza Mayor. La prânz, coborârile umede spre miradores necesită concentrare maximă. După-amiaza, drumul spre piscină oferă o răcorire naturală. Seara se încheie cu un duș fierbinte după tura umedă.",
+            "en": "A rainy cycling morning starts cautiously at the main square. By noon, the wet descents to the viewpoints require full concentration. In the afternoon, the ride to the pool gets a natural refresh from above. The evening ends with a hot shower after the damp tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Kopfsteinpflaster; nutzen Sie die Arkaden der umliegenden Häuser, um die Karte im Trockenen zu checken.",
+                "hu": "Ellenőrizze a fékeit a vizes macskakövön; használja a közeli árkádokat a térkép szárazon történő tanulmányozásához az indulás előtt.",
+                "ro": "Verificați frânele pe pavajul umed; folosiți arcadele clădirilor din jur pentru a consulta harta la adăpost înainte de a porni la drum.",
+                "en": "Check your brakes on the wet cobblestones; use the nearby arcades to check your map in the dry before heading out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castiecho",
+                "hu": "Mirador del Castiecho",
+                "ro": "Mirador del Castiecho",
+                "en": "Mirador del Castiecho"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf grasigem Boden; die tiefhängenden Wolken über dem See bieten eine dramatische Kulisse trotz des Regens.",
+                "hu": "Vigyázzon a leszálláskor a felázott füves talajon; a tó felett lógó sötét felhők drámai hátteret adnak a fotókhoz az eső ellenére is.",
+                "ro": "Atenție la coborârea de pe bicicletă pe iarba udă; norii joși de deasupra lacului oferă un decor dramatic în ciuda ploii persistente.",
+                "en": "Be careful when dismounting on soggy grass; the low-hanging clouds over the lake provide a dramatic backdrop despite the persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Sabinas",
+                "hu": "Mirador de las Sabinas",
+                "ro": "Mirador de las Sabinas",
+                "en": "Mirador de las Sabinas"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad kann schlammig sein, achten Sie auf die Traktion; die Kiefernnadeln duften bei Regen besonders intensiv während der kurzen Pause.",
+                "hu": "Az ösvény sáros lehet, figyeljen a kerekek tapadására; a fenyőtűk illata esőben különösen intenzív a rövid pihenő alatt.",
+                "ro": "Poteca poate fi noroioasă, deci atenție la tracțiune; mirosul acelor de pin este mult mai intens pe ploaie în timpul scurtei pauze.",
+                "en": "The trail might be muddy, so watch your tire traction; the scent of pine needles is particularly intense in the rain during your short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Peña Santa María",
+                "hu": "Mirador de Peña Santa María",
+                "ro": "Mirador de Peña Santa María",
+                "en": "Mirador de Peña Santa María"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie bei Gewittergefahr exponierte Stellen; ein Poncho schützt Sie und Ihren Rucksack während der Fahrt durch den nassen Wald.",
+                "hu": "Viharveszély esetén kerülje a nyitott pontokat; egy jó poncsó megvédi Önt és a hátizsákját is a nedves erdőn át vezető tekerés közben.",
+                "ro": "Evitați punctele expuse dacă există risc de furtună; un pelerină de ploaie vă protejează pe dvs. și rucsacul în timpul traversării pădurii.",
+                "en": "Avoid exposed points if there is a risk of lightning; a good poncho will protect you and your backpack during the ride through the wet forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador A Claveta",
+                "hu": "Mirador A Claveta",
+                "ro": "Mirador A Claveta",
+                "en": "Mirador A Claveta"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen am Aussichtspunkt sind glatt, tragen Sie Schuhe mit Grip; genießen Sie das kühle Nass im Gesicht als natürliche Erfrischung.",
+                "hu": "A kilátónál a sziklák síkosak, viseljen tapadós talpú cipőt; élvezze a hűvös esőcseppeket az arcán, mint természetes frissítőt a kaptató után.",
+                "ro": "Stâncile de la belvedere sunt alunecoase, purtați pantofi cu aderență; bucurați-vă de stropii reci de ploaie ca o răcorire naturală după urcare.",
+                "en": "The rocks at the viewpoint are slick, so wear shoes with good grip; enjoy the cool raindrops on your face as a natural refresher after the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "hu": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "ro": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "en": "Ferrata de Escarrilla-Panticosa \"El Escuacho\""
+              },
+              "tip_5lang": {
+                "de": "Klettern Sie bei Regen nicht, die Griffe sind zu gefährlich; betrachten Sie die Wand sicher vom Weg aus und achten Sie auf Sturzbäche.",
+                "hu": "Esőben ne másszon, a fogások rendkívül veszélyesek; nézze meg a falat biztonságos távolságból az útról, figyelve a lezúduló vízre.",
+                "ro": "Nu escaladați pe ploaie, prizele sunt extrem de periculoase; admirați peretele în siguranță de pe drum, observând șuvoaiele de apă.",
+                "en": "Do not climb in the rain, the holds are dangerously slick; view the wall safely from the path, watching the seasonal water cascades."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal de Escarrilla",
+                "hu": "Piscina Municipal de Escarrilla",
+                "ro": "Piscina Municipal de Escarrilla",
+                "en": "Piscina Municipal de Escarrilla"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen sind Außenbecken oft geschlossen, prüfen Sie Alternativen; nutzen Sie den Ort für eine überdachte Pause, bevor Sie zurückradeln.",
+                "hu": "Esőben a kültéri medence zárva tarthat; használja a helyszínt egy fedett pihenőre és energiapótlásra, mielőtt visszaindulna a faluba.",
+                "ro": "Pe ploaie, bazinele exterioare pot fi închise; folosiți locația pentru o pauză acoperită și pentru a vă realimenta înainte de drumul de retur.",
+                "en": "Outdoor pools may be closed during rain; use the location for a sheltered rest and to refuel before the wet ride back to Panticosa."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit steifen Fingern am Plaza Mayor. Mittags glitzert der Schnee an den sonnigen Miradors. Nachmittags kühlt der Fahrtwind auf dem Weg nach Escarrilla stark ab. Die Tour endet pünktlich vor Sonnenuntergang um 17:00 Uhr im Warmen.",
+            "hu": "A fagyos reggel dermedt ujjakkal indul a főtéren. Délben a napsütötte kilátóknál csillog a friss hó a lábunk előtt. Délután a menetszél Escarrilla felé erősen lehűt, viseljen szélvédő réteget. A túra pontban a 17:00-s naplemente előtt ér véget.",
+            "ro": "O dimineață geroasă începe cu degete amorțite în Plaza Mayor. La prânz, zăpada strălucește la miradores sub soarele palid. După-amiaza, vântul de mișcare spre Escarrilla răcește puternic. Tura se încheie fix înainte de apusul de la ora 17:00.",
+            "en": "A frosty morning starts with stiff fingers at the main square. By noon, the snow glitters at the sunny viewpoints. In the afternoon, the wind chill on the way to Escarrilla drops sharply. The tour concludes right before the 17:00 sunset in the warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, um die Kontrolle über Bremsen und Schaltung zu behalten; starten Sie erst, wenn die Sonne das Eis auf taut.",
+                "hu": "Viseljen vastag kesztyűt, hogy megőrizze uralmát a fékek felett; várja meg az indulással, amíg a nap felolvasztja a hajnali zúzmarát.",
+                "ro": "Purtați mănuși groase pentru a menține controlul asupra frânelor; așteptați soarele să topească gheața de dimineață înainte de a porni.",
+                "en": "Wear warm gloves to maintain control over your brakes and gears; wait for the sun to melt any morning frost before starting your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castiecho",
+                "hu": "Mirador del Castiecho",
+                "ro": "Mirador del Castiecho",
+                "en": "Mirador del Castiecho"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Weg; die verschneite Bergkulisse spiegelt sich im klaren Winterlicht fantastisch im See wider.",
+                "hu": "Ügyeljen a megfagyott tócsákra az úton; a havas hegycsúcsok látványa a tiszta téli fényben fantasztikusan tükröződik a távolban.",
+                "ro": "Atenție la bălțile înghețate de pe drum; peisajul montan înzăpezit se reflectă superb în lumina clară de iarnă spre vale.",
+                "en": "Watch out for frozen puddles on the trail; the snowy mountain backdrop reflects beautifully in the clear winter light toward the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de las Sabinas",
+                "hu": "Mirador de las Sabinas",
+                "ro": "Mirador de las Sabinas",
+                "en": "Mirador de las Sabinas"
+              },
+              "tip_5lang": {
+                "de": "Die dichte Bewaldung schützt vor kaltem Wind; machen Sie nur kurze Pausen, damit Ihre Muskeln bei der Kälte nicht völlig auskühlen.",
+                "hu": "A sűrű erdő védelmet nyújt a metsző szél ellen; csak rövid pihenőket tartson, hogy az izmai ne hűljenek ki teljesen a nagy hidegben.",
+                "ro": "Pădurea deasă oferă protecție împotriva vântului rece; faceți doar pauze scurte pentru ca mușchii să nu se răcească complet în ger.",
+                "en": "The dense forest provides protection against the biting wind; keep breaks short so your muscles don't cool down too much in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de Peña Santa María",
+                "hu": "Mirador de Peña Santa María",
+                "ro": "Mirador de Peña Santa María",
+                "en": "Mirador de Peña Santa María"
+              },
+              "tip_5lang": {
+                "de": "Starke Böen können auf exponierten Graten auftreten; halten Sie den Lenker fest und genießen Sie kurz den Blick auf die weißen Gipfel.",
+                "hu": "Erős széllökések fordulhatnak elő a nyitott gerinceken; fogja szorosan a kormányt és élvezze a vakítóan fehér csúcsok látványát.",
+                "ro": "Rafale puternice de vânt pot apărea pe crestele expuse; țineți bine ghidonul și admirați vârfurile albe strălucitoare pentru un moment.",
+                "en": "Strong wind gusts can occur on exposed ridges; grip the handlebars firmly and enjoy the brilliant white peaks for a brief moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador A Claveta",
+                "hu": "Mirador A Claveta",
+                "ro": "Mirador A Claveta",
+                "en": "Mirador A Claveta"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber ziehen Sie für die Abfahrt eine Jacke an; die Wintersonne steht tief und blendet beim Blick nach Süden.",
+                "hu": "A felfelé tekerés melegen tart, de a lejtő előtt vegyen fel egy szélkabátot; az alacsonyan járó nap erősen vakíthat a kilátónál.",
+                "ro": "Urcarea vă menține cald, dar puneți o jachetă înainte de coborâre; soarele jos poate fi foarte orbitor la punctul de belvedere.",
+                "en": "The climb keeps you warm, but put on a windbreaker before the descent; the low winter sun can be quite blinding at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "hu": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "ro": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "en": "Ferrata de Escarrilla-Panticosa \"El Escuacho\""
+              },
+              "tip_5lang": {
+                "de": "Das Metall der Leiter ist im Winter eiskalt, Klettern ist nicht ratsam; bewundern Sie die bizarren Eisformationen am Fels beim Vorbeifahren.",
+                "hu": "A vaslétrák és a drótkötél jéghideg, a mászás télen nem ajánlott; csodálja meg a sziklákon kialakult különleges jégalakzatokat az útról.",
+                "ro": "Scările metalice sunt înghețate, escalada nu este recomandată iarna; admirați formațiunile de gheață de pe stâncă direct de pe drum.",
+                "en": "The metal ladders are freezing cold, climbing is not advised in winter; admire the bizarre ice formations on the rock from the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal de Escarrilla",
+                "hu": "Piscina Municipal de Escarrilla",
+                "ro": "Piscina Municipal de Escarrilla",
+                "en": "Piscina Municipal de Escarrilla"
+              },
+              "tip_5lang": {
+                "de": "Die Außenanlage ist im Winter meist geschlossen; planen Sie den Rückweg so, dass Sie vor der Dunkelheit um 17:00 Uhr wieder in Panticosa sind.",
+                "hu": "A kültéri strand télen zárva tart; úgy tervezze a visszautat, hogy a 17:00 órai sötétedés előtt mindenképpen visszaérjen Panticosába.",
+                "ro": "Ștrandul exterior este închis iarna; planificați drumul de întoarcere pentru a ajunge în Panticosa înainte de întunericul de la ora 17:00.",
+                "en": "The outdoor pool facility is closed in winter; plan your return journey to reach Panticosa well before the 17:00 darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Reggel vezessen a panticosai elegáns templomhoz, és tegyen egy rövid sétát a függőhidak felé. Ezután irányítsa az autót a közeli El Pueyo de Jaca-ba, és látogassa meg a Plaza Mayort. Innen a Mirador del Castiecho csak egy kőhajításnyira van. Délután hívogatnak az El Escuacho via ferrata meredek sziklafalai. A nap laza pihenéssel ér véget a kellemesen hűs Piscina Municipal medencéjénél.",
         "ro": "Conduceți dimineața la biserica elegantă din Panticosa și faceți o scurtă plimbare la podurile suspendate. Apoi îndreptați mașina către satul apropiat El Pueyo de Jaca pentru a vizita Plaza Mayor. De acolo, Mirador del Castiecho este la doar o aruncătură de băț. După-amiaza vă atrag pereții stâncoși ai traseului Ferrata El Escuacho. Ziua se încheie relaxant la răcoroasa Piscina Municipal din apropiere.",
         "en": "Drive to the elegant church in Panticosa in the morning and take a short walk to the suspension bridges. Then head the car into nearby El Pueyo de Jaca to visit the Plaza Mayor. From there, the Mirador del Castiecho is just a stone's throw away. In the afternoon, the steep rock faces of the Ferrata El Escuacho beckon. The day ends completely relaxed in the cool, refreshing waters of the Piscina Municipal."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt trocken im Auto auf dem Weg zur Kirche. Mittags ermöglichen kurze Fahrten den Besuch der Pasarelas trotz Schauer. Am Nachmittag bietet der Plaza Mayor Cafés als Zuflucht. Der Abend endet bei einer gemütlichen Fahrt durch das neblige Pyrenäental.",
+            "hu": "Az esős reggel szárazon, az autóban indul a templom felé. Délben a rövid autós szakaszok lehetővé teszik a Pasarelas látogatását a záporok közt is. Délután a főtér kávézói kínálnak menedéket. Az este egy hangulatos autózással zárul a ködbe burkolózó Pireneusok völgyeiben.",
+            "ro": "O dimineață ploioasă începe confortabil în mașină spre biserică. La prânz, deplasările scurte permit vizitarea Pasarelas între averse. După-amiaza, cafenelele din Plaza Mayor oferă un refugiu plăcut. Seara se încheie cu o plimbare cu mașina prin valea cețoasă a Pirineilor.",
+            "en": "A rainy morning starts dry inside the car on the way to the church. By noon, short drives allow visiting the walkways between showers. In the afternoon, the main square's cafes offer a perfect refuge. The evening ends with a cozy drive through the misty Pyrenean valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de la Asunción de Nuestra Señora",
+                "hu": "Iglesia de la Asunción de Nuestra Señora",
+                "ro": "Iglesia de la Asunción de Nuestra Señora",
+                "en": "Iglesia de la Asunción de Nuestra Señora"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; nutzen Sie die Zeit im Auto, um sich über die Geschichte der Kirche zu belesen.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az ázást; használja az autóban töltött időt a templom történetének megismerésére.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; folosiți timpul în mașină pentru a citi despre istoria bogată a bisericii.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; use the time in the car to read up on the church's fascinating history."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasarelas de Panticosa",
+                "hu": "Pasarelas de Panticosa",
+                "ro": "Pasarelas de Panticosa",
+                "en": "Pasarelas de Panticosa"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie nasse Regenschirme im Kofferraum, bevor Sie losgehen; die kurze Wanderung ist erfrischend, wenn man danach die Heizung im Auto hat.",
+                "hu": "Hagyja a vizes esernyőket a csomagtartóban a séta után; a rövid túra frissítő, tudva, hogy utána várja az autó fűtött utastere.",
+                "ro": "Lăsați umbrelele ude în portbagaj după plimbare; drumeția scurtă este revigorantă, știind că vă așteaptă căldura din mașină la retur.",
+                "en": "Leave wet umbrellas in the trunk after your walk; the short hike is refreshing, knowing the car's heater awaits you for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, falls vorhanden, um trocken ins Zentrum zu gelangen; die Plaza ist bei Regen leerer und wirkt sehr authentisch.",
+                "hu": "Keressen fedett parkolót, ha lehetséges, hogy szárazon jusson a központba; a főtér esőben csendesebb és rendkívül autentikus hangulatú.",
+                "ro": "Căutați o parcare acoperită pentru a ajunge uscat în centru; Plaza Mayor este mai liberă pe ploaie și oferă o atmosferă foarte autentică.",
+                "en": "Look for covered parking to reach the center dry; the main square is quieter in the rain and offers a very authentic, peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castiecho",
+                "hu": "Mirador del Castiecho",
+                "ro": "Mirador del Castiecho",
+                "en": "Mirador del Castiecho"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto, wenn der Regen zu stark ist; die Scheibenwischer geben den Blick auf den See immer wieder frei.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból, ha túl erősen esik; az ablaktörlők mögül is csodás panoráma nyílik a lenti tóra és a völgyre.",
+                "ro": "Admirați vederea direct din mașină dacă plouă prea tare; ștergătoarele vă vor dezvălui periodic panorama superbă asupra lacului.",
+                "en": "Enjoy the view directly from your car if the rain is too heavy; the wipers will periodically reveal the stunning panorama of the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "hu": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "ro": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "en": "Ferrata de Escarrilla-Panticosa \"El Escuacho\""
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz am Straßenrand für ein Foto der nassen Felswand; die Wasserläufe am Fels sind bei Regen ein beeindruckendes Naturschauspiel.",
+                "hu": "Álljon meg rövid időre az út szélén egy fotóra a vizes sziklafalról; az esőben kialakuló időszakos vízesések látványa lenyűgöző az autóból.",
+                "ro": "Opriți scurt pe marginea drumului pentru o fotografie cu peretele ud; cascadele temporare formate de ploaie sunt un spectacol impresionant.",
+                "en": "Stop briefly on the roadside for a photo of the wet rock face; the temporary waterfalls created by the rain are an impressive natural sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal de Escarrilla",
+                "hu": "Piscina Municipal de Escarrilla",
+                "ro": "Piscina Municipal de Escarrilla",
+                "en": "Piscina Municipal de Escarrilla"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Anfahrt telefonisch, ob die Anlage bei Regen geöffnet ist; das Auto bietet einen warmen Rückzugsort nach dem Besuch.",
+                "hu": "Érkezés előtt érdeklődjön telefonon, hogy nyitva vannak-e esőben; az autó fűtése jól fog jönni a vizes program utáni visszautazáskor.",
+                "ro": "Verificați telefonic dacă locația este deschisă pe ploaie; căldura din mașină va fi binevenită după orice activitate în zona bazinelor.",
+                "en": "Check by phone if the facility is open during rain; the car's heater will be very welcome after any activity near the pool area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit einer Panoramafahrt zur Kirche. Mittags glänzen die verschneiten Hänge am Castiecho-Aussichtspunkt. Am Nachmittag bringt das Auto Sie bequem durch die winterliche Landschaft nach Escarrilla. Die Tour endet gemütlich bei Einbruch der Dunkelheit um 17:00 Uhr.",
+            "hu": "A fagyos reggel egy panorámás autózással indul a templom felé. Délben a Castiecho kilátónál szikrázik a hó a napsütésben. Délután az autó kényelméből csodálhatja a téli tájat Escarrilla felé haladva. A túra kényelmesen, a 17:00-s sötétedéskor ér véget a falu központjában.",
+            "ro": "O dimineață geroasă începe cu o plimbare panoramică spre biserică. La prânz, zăpada sclipește la miradorul Castiecho sub soare. După-amiaza, mașina vă poartă confortabil prin peisajul hibernal spre Escarrilla. Tura se încheie la lăsarea întunericului, la ora 17:00.",
+            "en": "A frosty morning starts with a scenic drive toward the church. By noon, the snow glitters at the Castiecho viewpoint under the winter sun. In the afternoon, the car carries you comfortably through the winter landscape to Escarrilla. The tour ends as darkness falls at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de la Asunción de Nuestra Señora",
+                "hu": "Iglesia de la Asunción de Nuestra Señora",
+                "ro": "Iglesia de la Asunción de Nuestra Señora",
+                "en": "Iglesia de la Asunción de Nuestra Señora"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Standheizung, damit das Auto während Ihres Besuchs warm bleibt; der Anblick der Kirche im Schnee ist ein tolles Fotomotiv.",
+                "hu": "Használja az autó fűtését, hogy meleg maradjon az utastér a látogatás alatt; a havas templom látványa kiváló téli fotótémát szolgáltat.",
+                "ro": "Folosiți încălzirea auxiliară pentru ca mașina să rămână caldă în timpul vizitei; imaginea bisericii înzăpezite este un subiect foto superb.",
+                "en": "Keep the car's heater on to ensure the interior stays warm during your visit; the snowy church provides an excellent winter photo opportunity."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasarelas de Panticosa",
+                "hu": "Pasarelas de Panticosa",
+                "ro": "Pasarelas de Panticosa",
+                "en": "Pasarelas de Panticosa"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Straßenverhältnisse zum Parkplatz; festes Schuhwerk ist für den kurzen, eventuell vereisten Weg vom Auto unverzichtbar.",
+                "hu": "Ellenőrizze az útviszonyokat a parkolóig; a csúszásmentes bakancs elengedhetetlen az autótól a bejáratig vezető, jeges rövid szakaszon.",
+                "ro": "Verificați starea drumului până la parcare; încălțămintea aderentă este esențială pentru porțiunea scurtă și înghețată de la mașină.",
+                "en": "Check road conditions to the parking area; sturdy, non-slip boots are essential for the short, potentially icy walk from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza Mayor",
+                "hu": "Plaza Mayor",
+                "ro": "Plaza Mayor",
+                "en": "Plaza Mayor"
+              },
+              "tip_5lang": {
+                "de": "Der Platz wirkt mit Weihnachtsbeleuchtung oder Schnee magisch; parken Sie am Rand und genießen Sie einen kurzen Gang durch die Winterluft.",
+                "hu": "A főtér téli világítással vagy hóval fedve varázslatos; parkoljon a szélén, és tegyen egy rövid sétát a frissítő, hideg hegyi levegőn.",
+                "ro": "Plaza Mayor arată magic cu lumini de iarnă sau acoperită de zăpadă; parcați la margine și faceți o scurtă plimbare în aerul rece de munte.",
+                "en": "The main square looks magical with winter lights or snow cover; park nearby and enjoy a short walk in the refreshing, crisp mountain air."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castiecho",
+                "hu": "Mirador del Castiecho",
+                "ro": "Mirador del Castiecho",
+                "en": "Mirador del Castiecho"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Neuschnee schwierig sein, führen Sie Ketten mit; der Blick auf die weißen Gipfel ist vom Auto aus spektakulär.",
+                "hu": "Friss hó esetén a felvezető út nehézkes lehet, legyen Önnél hólánc; a fehér csúcsok látványa az autó ablakából is lélegzetelállító.",
+                "ro": "Accesul poate fi dificil în caz de zăpadă proaspătă, aveți lanțuri; vederea spre vârfurile albe este spectaculoasă chiar și din mașină.",
+                "en": "Access might be difficult with fresh snow, so carry chains; the view of the white peaks is spectacular even from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "hu": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "ro": "Ferrata de Escarrilla-Panticosa \"El Escuacho\"",
+                "en": "Ferrata de Escarrilla-Panticosa \"El Escuacho\""
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bizarren Eisformationen am Fels direkt von der Straße; ein kurzer Stopp reicht für eindrucksvolle Winterbilder der Wand.",
+                "hu": "Csodálja meg a sziklákon kialakult jégalakzatokat közvetlenül az útról; egy rövid megálló is elég a fal lenyűgöző téli fotózásához.",
+                "ro": "Admirați formațiunile de gheață de pe stâncă direct de pe drum; o scurtă oprire este suficientă pentru poze de iarnă impresionante.",
+                "en": "Admire the ice formations on the rock directly from the road; a short stop is enough for impressive winter photos of the massive wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal de Escarrilla",
+                "hu": "Piscina Municipal de Escarrilla",
+                "ro": "Piscina Municipal de Escarrilla",
+                "en": "Piscina Municipal de Escarrilla"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Winteröffnungszeiten, oft ist nur das Hallenbad nutzbar; kehren Sie vor der frühen Dunkelheit um 17:00 Uhr sicher zurück.",
+                "hu": "Ellenőrizze a téli nyitvatartást, gyakran csak a benti rész üzemel; térjen vissza biztonságban a 17:00-kor kezdődő korai sötétedés előtt.",
+                "ro": "Verificați programul de iarnă, adesea doar zona interioară e deschisă; reveniți în siguranță înainte de întunericul de la ora 17:00.",
+                "en": "Check winter hours as often only indoor areas are open; ensure a safe return journey before the early darkness sets in at 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

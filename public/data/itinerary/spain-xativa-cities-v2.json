@@ -160,6 +160,196 @@
         "hu": "Morning: A napot a helyi örökség felfedezésével kezdjük a gyönyörűen megőrzött Hospital Reialban, majd mélyebb régészeti betekintést nyerünk a közeli Museu Almodíban.\nMidday: Ahogy a nap magasabbra hág, megcsodáljuk a Basílica de Santa Maria tornyosuló építészetét, mielőtt megpihennénk az ősi Església de Sant Feliu templomnál.\nAfternoon: A délutánt a Castell de Xàtiva magasságainak meghódítására szánjuk, ahol a hatalmas kőfalak látványos kilátást nyújtanak a környező vidékre.\nEvening: Utunkat a Castell Menornál zárjuk, élvezve az aranyóra völgyre nyíló kilátását, miközben az alattunk elterülő történelmi város lassan kivilágosodik az éjszakára.",
         "ro": "Morning: Ne începem ziua descoperind patrimoniul local la frumosul Hospital Reial, urmat de o incursiune arheologică profundă la Museu Almodí din apropiere.\nMidday: Pe măsură ce soarele urcă, admirăm arhitectura impunătoare a Basílicii de Santa Maria înainte de a ne odihni la vechea biserică Església de Sant Feliu.\nAfternoon: După-amiaza este dedicată cuceririi înălțimilor Castell de Xàtiva, unde zidurile imense de piatră oferă perspective spectaculoase asupra peisajului înconjurător.\nEvening: Ne încheiem călătoria la Castell Menor, bucurându-ne de priveliștile orei de aur asupra văii, în timp ce orașul istoric de jos începe încet să se lumineze pentru noapte.",
         "en": "Morning: We begin our day discovering the local heritage at the beautifully preserved Hospital Reial, followed by deep archaeological dives at the nearby Museu Almodí.\nMidday: As the sun climbs, we marvel at the towering architecture of the Basílica de Santa Maria before resting at the ancient Església de Sant Feliu.\nAfternoon: The afternoon is dedicated to conquering the heights of Castell de Xàtiva, where immense stone walls offer spectacular perspectives of the surrounding landscape.\nEvening: We wrap up our journey at the Castell Menor, enjoying golden hour views over the valley as the historic city below slowly begins to light up for the night."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag geschützt im Hospital Reial, während der Regen gegen die alten Mauern trommelt. Mittags bieten das Museu Almodí und die Basilika trockene Zufluchtsorte voller Kunstschätze. Am Nachmittag führt der Weg hinauf zur Kirche Sant Feliu; die nassen Pfade erfordern festes Schuhwerk. Der Abend am Schloss ist neblig und mystisch, die Sicht reicht tief in das graue Tal.",
+            "hu": "Kezdje a napot a Hospital Reial védelmében, miközben az eső dobol a régi falakon. Délben a Museu Almodí és a Bazilika nyújt száraz menedéket a művészeti kincsek között. Délután az út Sant Feliu templomához vezet, ahol a vizes ösvények csúszósak, így óvatosan lépkedjen. Az este a várban ködös és misztikus, a kilátás ilyenkor különleges, borongós hangulatot áraszt a völgyre.",
+            "ro": "Începeți ziua la adăpost în Hospital Reial, în timp ce ploaia bate în zidurile vechi. La prânz, Museu Almodí și Basilica oferă refugii uscate pline de comori artistice. După-amiaza, drumul duce spre biserica Sant Feliu; potecile umede necesită încălțăminte aderentă. Seara la castel este ceațoasă și mistică, oferind o perspectivă dramatică asupra văii sub cerul plumburiu.",
+            "en": "Start the day sheltered in the Hospital Reial while the rain drums against the ancient walls. At noon, the Museu Almodí and the Basilica provide dry havens filled with artistic treasures. In the afternoon, the path leads to Sant Feliu church; the wet stones require sturdy, non-slip shoes. The evening at the castle is misty and mystical, with clouds hanging low over the historic valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hospital Reial",
+                "hu": "Hospital Reial",
+                "ro": "Hospital Reial",
+                "en": "Hospital Reial"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvolle Fassade vom überdachten Eingang aus und nutzen Sie die Innenräume als perfekten Schutz vor dem morgendlichen Regen.",
+                "hu": "Csodálja meg a pompás homlokzatot a fedett bejárat alól, és használja a belső tereket tökéletes menedékként a reggeli záporok elől.",
+                "ro": "Admirați fațada splendidă de la intrarea acoperită și folosiți spațiile interioare ca adăpost perfect împotriva ploii de dimineață.",
+                "en": "Admire the magnificent facade from the covered entrance and use the interior spaces as a perfect refuge from the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Almodí",
+                "hu": "Museu Almodí",
+                "ro": "Museu Almodí",
+                "en": "Museu Almodí"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die archäologischen Schätze in diesem ehemaligen Getreidespeicher, der bei Regen ein absolut trockenes und faszinierendes Kulturerlebnis bietet.",
+                "hu": "Fedezze fel a régészeti kincseket ebben az egykori magtárban, amely esőben is teljesen száraz és lenyűgöző kulturális élményt nyújt.",
+                "ro": "Explorați comorile arheologice în acest fost grânar, care oferă o experiență culturală fascinantă și complet uscată pe timp de ploaie.",
+                "en": "Explore the archaeological treasures in this former granary, which offers a fascinating and completely dry cultural experience during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Església Col·legiata Basílica de Santa Maria",
+                "hu": "Església Col·legiata Basílica de Santa Maria",
+                "ro": "Església Col·legiata Basílica de Santa Maria",
+                "en": "Església Col·legiata Basílica de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Die gewaltigen Dimensionen der Basilika lassen Sie das schlechte Wetter vergessen; achten Sie auf die Akustik des Regens auf der riesigen Kuppel.",
+                "hu": "A bazilika hatalmas méretei feledtetik a rossz időt; figyelje meg a hatalmas kupolán kopogó eső különleges akusztikáját a csendes belsőben.",
+                "ro": "Dimensiunile uriașe ale basilicii vă vor face să uitați de vremea rea; ascultați acustica ploii pe cupola imensă în liniștea interiorului.",
+                "en": "The vast dimensions of the basilica will make you forget the bad weather; notice the acoustics of the rain on the huge dome inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Feliu",
+                "hu": "Església de Sant Feliu",
+                "ro": "Església de Sant Feliu",
+                "en": "Església de Sant Feliu"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese archaische Kirche wegen ihrer Ruhe; der Aufstieg ist steil, tragen Sie daher unbedingt rutschfeste Sohlen auf den nassen Steinen.",
+                "hu": "Látogassa meg ezt az ősi templomot a békéje miatt; a felfelé vezető út meredek, ezért viseljen csúszásmentes talpú cipőt a vizes köveken.",
+                "ro": "Vizitați această biserică arhaică pentru liniștea sa; drumul spre ea este abrupt, deci purtați talpă antiderapantă pe pietrele umede.",
+                "en": "Visit this ancient church for its peace; the uphill path is steep, so wear non-slip soles on the wet stones for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Xàtiva",
+                "hu": "Castell de Xàtiva",
+                "ro": "Castell de Xàtiva",
+                "en": "Castell de Xàtiva"
+              },
+              "tip_5lang": {
+                "de": "Die Festung wirkt im Regen besonders imposant; nutzen Sie die überdachten Kasematten und Türme, um zwischendurch immer wieder trocken zu bleiben.",
+                "hu": "A vár esőben különösen tekintélyt parancsoló; használja a fedett kazamatákat és tornyokat, hogy két nézelődés között szárazon maradjon.",
+                "ro": "Fortăreața pare impunătoare pe ploaie; folosiți cazămatele și turnurile acoperite pentru a rămâne uscați între reprizele de explorare.",
+                "en": "The castle looks especially imposing in the rain; utilize the covered casemates and towers to stay dry between exploration points."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Menor",
+                "hu": "Castell Menor",
+                "ro": "Castell Menor",
+                "en": "Castell Menor"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die älteren Mauern der Burg; bei Nässe sind die Zinnen sehr glatt, halten Sie sich also immer gut an den Handläufen fest.",
+                "hu": "Fedezze fel a vár régebbi falait; nedves időben a bástyák széle nagyon csúszós, ezért mindig kapaszkodjon meg a korlátokban.",
+                "ro": "Explorați zidurile mai vechi ale castelului; pe timp umed, marginile bastioanelor sunt alunecoase, deci folosiți mereu balustradele.",
+                "en": "Explore the older walls of the castle; in wet weather, the ramparts are very slippery, so always hold onto the handrails."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Hospital Reial beginnt mit klarer Luft und scharfen Schatten. Mittags wärmen die Museen und die Basilika Körper und Geist. Da die Sonne bereits gegen 17:00 Uhr hinter den Bergen verschwindet, sollten Sie den Aufstieg zum Schloss frühzeitig planen. Der Abend endet kühl, aber mit einem spektakulären Sternenhimmel über der beleuchteten Festung.",
+            "hu": "A friss téli reggel a Hospital Reialnál tiszta levegővel és éles árnyékokkal indul. Délben a múzeumok és a Bazilika melegítik fel a testet és a lelket. Mivel a nap már 17:00 körül eltűnik a hegyek mögött, érdemes korán tervezni a várba való feljutást. Az este hűvösen zárul, de látványos csillagos égbolttal a kivilágított erőd felett.",
+            "ro": "O dimineață răcoroasă de iarnă la Hospital Reial începe cu aer curat și umbre ascuțite. La prânz, muzeele și Basilica încălzesc corpul și spiritul. Deoarece soarele apune deja în jurul orei 17:00 după munți, planificați urcarea la castel devreme. Seara se încheie răcoros, dar cu un cer înstelat spectaculos deasupra fortăreței iluminate.",
+            "en": "A crisp winter morning at Hospital Reial starts with clear air and sharp shadows. At noon, the museums and the Basilica warm both body and soul. Since the sun sets behind the mountains around 5:00 PM, plan your ascent to the castle early. The evening ends chilly, but with a spectacular starry sky over the illuminated fortress."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hospital Reial",
+                "hu": "Hospital Reial",
+                "ro": "Hospital Reial",
+                "en": "Hospital Reial"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht, das die Details der Fassade betont; tragen Sie warme Schichten für den kühlen Aufenthalt in den hohen Hallen.",
+                "hu": "Élvezze a tiszta téli fényt, amely kiemeli a homlokzat részleteit; viseljen réteges ruhát a magas termek hűvös levegője miatt.",
+                "ro": "Bucurați-vă de lumina clară de iarnă care accentuează detaliile fațadei; purtați haine groase pentru aerul rece din sălile înalte.",
+                "en": "Enjoy the clear winter light highlighting the facade's details; wear warm layers for the chilly atmosphere in the high-ceilinged halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Almodí",
+                "hu": "Museu Almodí",
+                "ro": "Museu Almodí",
+                "en": "Museu Almodí"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter ein angenehmer Rückzugsort; bewundern Sie das berühmte Porträt von Philipp V., das hier kopfüber hängt.",
+                "hu": "A múzeum télen kellemes menedékhely; csodálja meg V. Fülöp híres portréját, amelyet itt fejjel lefelé függesztettek ki.",
+                "ro": "Muzeul este un refugiu plăcut iarna; admirați celebrul portret al lui Filip al V-lea, care este expus aici cu susul în jos.",
+                "en": "The museum is a pleasant retreat in winter; admire the famous portrait of Philip V, which is displayed here hanging upside down."
+              }
+            },
+            {
+              "name": {
+                "de": "Església Col·legiata Basílica de Santa Maria",
+                "hu": "Església Col·legiata Basílica de Santa Maria",
+                "ro": "Església Col·legiata Basílica de Santa Maria",
+                "en": "Església Col·legiata Basílica de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Basilika zur Mittagszeit, wenn die Wintersonne durch die Fenster scheint und den riesigen Raum golden erleuchtet.",
+                "hu": "Látogasson el a bazilikába délidőben, amikor a téli nap átsüt az ablakokon, és arany fénybe vonja a hatalmas belső teret.",
+                "ro": "Vizitați basilica la amiază, când soarele de iarnă pătrunde prin ferestre și luminează auriu spațiul imens din interior.",
+                "en": "Visit the basilica at midday when the winter sun shines through the windows, bathing the enormous interior in golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Feliu",
+                "hu": "Església de Sant Feliu",
+                "ro": "Església de Sant Feliu",
+                "en": "Església de Sant Feliu"
+              },
+              "tip_5lang": {
+                "de": "Der Blick von hier oben ist im Winter besonders weit; nehmen Sie sich eine Thermoskanne mit, um die Aussicht bei einem heißen Getränk zu genießen.",
+                "hu": "A kilátás innen télen különösen tiszta; vigyen magával termoszt, hogy egy forró ital mellett élvezhesse a panorámát a templom mellől.",
+                "ro": "Vederea de aici este extrem de clară iarna; luați un termos cu voi pentru a vă bucura de panoramă cu o băutură caldă lângă biserică.",
+                "en": "The view from here is exceptionally clear in winter; bring a thermos to enjoy the panorama with a hot drink by the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Xàtiva",
+                "hu": "Castell de Xàtiva",
+                "ro": "Castell de Xàtiva",
+                "en": "Castell de Xàtiva"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 15:30 Uhr hier, um die goldene Stunde vor dem frühen Sonnenuntergang für die besten Fotos der Anlage zu nutzen.",
+                "hu": "Érkezzen legkésőbb 15:30-ra, hogy kihasználja a korai naplemente előtti aranyórát a legjobb fotók készítéséhez az erődítményről.",
+                "ro": "Sosiți cel târziu la ora 15:30 pentru a profita de ora de aur dinaintea apusului devreme pentru cele mai bune fotografii ale cetății.",
+                "en": "Arrive by 3:30 PM at the latest to catch the golden hour before the early sunset for the best photos of the fortification."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Menor",
+                "hu": "Castell Menor",
+                "ro": "Castell Menor",
+                "en": "Castell Menor"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Bergluft ist hier oben spürbar; eine winddichte Jacke ist unerlässlich, während Sie den Panoramablick auf die Stadt genießen.",
+                "hu": "A hideg hegyi levegő itt fent jól érezhető; egy szélálló dzseki elengedhetetlen, miközben a város panorámájában gyönyörködik.",
+                "ro": "Aerul rece de munte se simte puternic aici; o jachetă rezistentă la vânt este esențială în timp ce admirați panorama orașului.",
+                "en": "The cold mountain air is palpable up here; a windproof jacket is essential while you admire the panoramic views of the city."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,195 @@
         "hu": "Morning: Kezdje kerékpáros útvonalát a nyüzsgő Gran Teatre de Xàtiva-nál, pedálozva a csendes utcákon Sant Pere bájos és nyugodt környéke felé.\nMidday: Guruljon az Església de Sant Francesc elegáns gótikus boltívei felé, majd haladjon kicsit kijjebb, hogy szemügyre vegye az ősi védelmi Torre Romanát.\nAfternoon: Tegye próbára a lábait, ahogy az út felfelé ível, és tartson egy jól megérdemelt pihenőt a Cova dels Lleons lenyűgöző természetes menedékének felfedezésére.\nEvening: Az út a Castell de Xàtiva lábánál éri el csúcspontját, ahol lezárhatja kerékpárját, és felfedezheti a kiterjedt várfalakat, ahogy a nap a horizont alá bukik.",
         "ro": "Morning: Începeți traseul de ciclism la vibrantul Gran Teatre de Xàtiva, pedalând pe străzile calme către farmecul liniștit al cartierului Sant Pere.\nMidday: Rostogoliți-vă spre arcele gotice elegante ale Església de Sant Francesc, apoi mergeți puțin mai departe pentru a inspecta vechiul turn de apărare Torre Romana.\nAfternoon: Puneți-vă picioarele la încercare pe drumul în urcare, luând o pauză bine meritată pentru a explora adăpostul natural fascinant de la Cova dels Lleons.\nEvening: Călătoria atinge punctul culminant la baza Castell de Xàtiva, unde vă puteți lega bicicleta și explora zidurile extinse ale cetății în timp ce soarele apune.",
         "en": "Morning: Start your cycling route at the vibrant Gran Teatre de Xàtiva, pedaling through the calm streets to the quiet neighborhood charm of Sant Pere.\nMidday: Roll towards the elegant Gothic arches of Església de Sant Francesc, then head slightly further out to inspect the ancient defensive Torre Romana.\nAfternoon: Challenge your legs as the path slopes upward, taking a well-deserved break to explore the fascinating natural shelter of Cova dels Lleons.\nEvening: The ride peaks at the base of Castell de Xàtiva, where you can lock up your bike and explore the expansive fortress walls as the sun dips below the horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Gran Teatre; nasse Straßen verlangen nach gutem Profil. Mittags bieten Sant Pere und Sant Francesc Schutz während der Schauer. Die Fahrt zur Torre Romana und zur Cova dels Lleons ist aufgeweicht und rutschig, schalten Sie in kleine Gänge. Beenden Sie den Tag am Schloss, wo die Burgmauern dramatisch aus den Regenwolken ragen und der Abstieg volle Bremskraft erfordert.",
+            "hu": "Induljon óvatosan a Gran Teatre-tól; a vizes utak jó gumiabroncsot igényelnek. Délben Sant Pere és Sant Francesc nyújt védelmet a záporok idején. A Torre Romana és a Cova dels Lleons felé vezető út sáros és csúszós, használjon kis sebességfokozatot. A napot a várnál zárja, ahol a várfalak drámaian emelkednek ki az esőfelhőkből, és a leereszkedés teljes fékerőt igényel.",
+            "ro": "Porniți cu atenție de la Gran Teatre; străzile umede necesită anvelope cu profil bun. La prânz, Sant Pere și Sant Francesc oferă protecție în timpul averselor. Drumul spre Torre Romana și Cova dels Lleons este noroios și alunecos, folosiți viteze mici. Încheiați ziua la castel, unde zidurile se ridică dramatic din norii de ploaie, iar coborârea necesită forță maximă de frânare.",
+            "en": "Start carefully at Gran Teatre; wet roads demand good tire treads. At noon, Sant Pere and Sant Francesc provide shelter during rain showers. The ride to the Roman Tower and Cova dels Lleons is muddy and slippery, so use low gears. Finish the day at the castle, where the walls rise dramatically from the rain clouds, and the descent requires full braking power."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gran Teatre de Xàtiva",
+                "hu": "Gran Teatre de Xàtiva",
+                "ro": "Gran Teatre de Xàtiva",
+                "en": "Gran Teatre de Xàtiva"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; der glatte Asphalt vor dem Theater kann bei Nässe besonders tückisch für Radfahrer sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a színház előtti sima aszfalt nedvesen különösen trükkös lehet a kerékpárosok számára.",
+                "ro": "Verificați frânele înainte de plecare; asfaltul neted din fața teatrului poate fi înșelător pentru bicicliști când este ud.",
+                "en": "Check your brakes before starting; the smooth asphalt in front of the theater can be tricky for cyclists when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Pere",
+                "hu": "Sant Pere",
+                "ro": "Sant Pere",
+                "en": "Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum der Kirche für einen kurzen Trockenstopp und bewundern Sie die gotische Architektur, während der Schauer abzieht.",
+                "hu": "Használja a templom előterét egy rövid pihenőre, hogy megszáradjon, és csodálja meg a gótikus építészetet, amíg a zápor elvonul.",
+                "ro": "Folosiți pridvorul bisericii pentru un scurt popas la uscat și admirați arhitectura gotică în timp ce trece aversa.",
+                "en": "Use the church porch for a short dry stop and admire the Gothic architecture while the rain shower passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Francesc",
+                "hu": "Església de Sant Francesc",
+                "ro": "Església de Sant Francesc",
+                "en": "Església de Sant Francesc"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah an der Wand, um es trocken zu halten, während Sie das schlichte und friedliche Innere dieser Kirche besichtigen.",
+                "hu": "Parkolja le kerékpárját közel a falhoz, hogy szárazon maradjon, miközben megtekinti a templom egyszerű és békés belső terét.",
+                "ro": "Parcați bicicleta aproape de zid pentru a o menține uscată în timp ce vizitați interiorul simplu și liniștit al acestei biserici.",
+                "en": "Park your bike close to the wall to keep it dry while you visit the simple and peaceful interior of this church."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Romana",
+                "hu": "Torre Romana",
+                "ro": "Torre Romana",
+                "en": "Torre Romana"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur römischen Basis ist bei Regen kraftraubend; fahren Sie langsam, um ein Wegrutschen der Reifen auf dem Schlamm zu vermeiden.",
+                "hu": "A római alapokhoz vezető emelkedő esőben fárasztó; tekerjen lassan, hogy elkerülje a kerekek megcsúszását a sárban.",
+                "ro": "Urcarea spre baza romană este obositoare pe ploaie; pedalați încet pentru a evita deraparea roților pe noroi.",
+                "en": "The climb to the Roman base is exhausting in the rain; pedal slowly to avoid the wheels slipping on the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Cova dels Lleons",
+                "hu": "Cova dels Lleons",
+                "ro": "Cova dels Lleons",
+                "en": "Cova dels Lleons"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet einen natürlichen Unterstand für Sie und Ihr Rad; genießen Sie die kühle, feuchte Luft in dieser historischen Grotte.",
+                "hu": "A barlang természetes óvóhelyet nyújt Önnek és kerékpárjának is; élvezze a hűvös, párás levegőt ebben a történelmi grottában.",
+                "ro": "Peștera oferă un adăpost natural pentru voi și bicicletă; bucurați-vă de aerul răcoros și umed în această grotă istorică.",
+                "en": "The cave provides natural shelter for both you and your bike; enjoy the cool, humid air in this historic grotto."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Xàtiva",
+                "hu": "Castell de Xàtiva",
+                "ro": "Castell de Xàtiva",
+                "en": "Castell de Xàtiva"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Kleidung wasserdicht ist, da der Wind am Gipfel den Regen peitscht; der Rückweg erfordert höchste Konzentration.",
+                "hu": "Győződjön meg róla, hogy ruházata vízálló, mert a csúcson a szél fújja az esőt; a visszaút maximális koncentrációt igényel.",
+                "ro": "Asigurați-vă că aveți haine impermeabile, deoarece vântul de pe vârf amplifică ploaia; drumul de întoarcere necesită concentrare maximă.",
+                "en": "Ensure your clothing is waterproof as the wind at the summit whips the rain; the ride back down requires maximum concentration."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Theater erfordert winddichte Kleidung. Mittags wärmt die Sonne die historischen Gassen von Sant Pere und Sant Francesc, ideal für eine entspannte Fahrt. Am Nachmittag geht es bergauf zur Torre Romana und zum Schloss; die klare Winterluft sorgt für endlose Sicht. Achten Sie auf das schwindende Licht ab 16:30 Uhr und genießen Sie die stille, frostige Atmosphäre der Burg.",
+            "hu": "A színháznál tett hűvös kezdés szélálló ruházatot igényel. Délben a nap felmelegíti Sant Pere és Sant Francesc történelmi utcáit, ami ideális egy pihentető tekeréshez. Délután felfelé vezet az út a Torre Romana és a vár felé; a tiszta téli levegő végtelen kilátást biztosít. Ügyeljen a fogyó fényre 16:30-tól, és élvezze a vár csendes, fagyos hangulatát.",
+            "ro": "Un început răcoros la teatru necesită îmbrăcăminte rezistentă la vânt. La prânz, soarele încălzește străzile istorice din Sant Pere și Sant Francesc, ideal pentru o plimbare relaxată. După-amiaza urcați spre Torre Romana și castel; aerul clar de iarnă oferă o vizibilitate infinită. Atenție la lumina care scade de la ora 16:30 și bucurați-vă de atmosfera liniștită a cetății.",
+            "en": "A chilly start at the theater requires windproof clothing. At noon, the sun warms the historic streets of Sant Pere and Sant Francesc, ideal for a relaxed ride. In the afternoon, head uphill to the Roman Tower and the castle; the clear winter air ensures endless views. Watch for fading light from 4:30 PM and enjoy the quiet, frosty atmosphere of the fortress."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gran Teatre de Xàtiva",
+                "hu": "Gran Teatre de Xàtiva",
+                "ro": "Gran Teatre de Xàtiva",
+                "en": "Gran Teatre de Xàtiva"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Vollfingerhandschuhe, da der Fahrtwind am Morgen sehr beißend sein kann, während Sie die moderne Architektur bewundern.",
+                "hu": "Viseljen hosszú ujjú kesztyűt, mert a reggeli menetszél nagyon csípős lehet, miközben a modern építészetet csodálja.",
+                "ro": "Purtați mănuși întregi, deoarece vântul de dimineață poate fi tăios în timp ce admirați arhitectura modernă.",
+                "en": "Wear full-finger gloves as the morning wind can be very biting while you admire the modern architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Pere",
+                "hu": "Sant Pere",
+                "ro": "Sant Pere",
+                "en": "Sant Pere"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz auf dem Kirchplatz für eine kurze Pause; die Wintersonne ist hier mittags wunderbar wärmend.",
+                "hu": "Keressen egy napos helyet a templomtéren egy rövid szünetre; a téli nap itt délidőben csodálatosan melengető.",
+                "ro": "Căutați un loc însorit în piața bisericii pentru o scurtă pauză; soarele de iarnă este minunat de cald aici la prânz.",
+                "en": "Find a sunny spot in the church square for a short break; the winter sun is wonderfully warming here at midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Francesc",
+                "hu": "Església de Sant Francesc",
+                "ro": "Església de Sant Francesc"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe im Winterviertel ist herrlich; nutzen Sie die Zeit für eine Innenbesichtigung, um sich für die bevorstehende Bergfahrt aufzuwärmen.",
+                "hu": "A téli negyed csendje fenséges; használja ki az időt egy belső látogatásra, hogy bemelegítsen a várba vezető emelkedő előtt.",
+                "ro": "Liniștea cartierului iarna este sublimă; profitați de timp pentru o vizită în interior pentru a vă încălzi înainte de urcare.",
+                "en": "The winter quiet in this district is sublime; use the time for an indoor visit to warm up before the upcoming mountain climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Romana",
+                "hu": "Torre Romana",
+                "ro": "Torre Romana",
+                "en": "Torre Romana"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg bringt Ihren Kreislauf in Schwung; oben angekommen bietet die kühle Luft eine willkommene Erfrischung bei bester Fernsicht.",
+                "hu": "Az emelkedő beindítja a vérkeringést; felérve a hűvös levegő üdítően hat a tiszta, messzire nyúló kilátás mellett.",
+                "ro": "Urcarea vă va pune sângele în mișcare; odată ajunși sus, aerul rece oferă o împrospătare binevenită lângă panorama vastă.",
+                "en": "The climb will get your circulation going; once at the top, the cool air offers a welcome refreshment alongside the far-reaching views."
+              }
+            },
+            {
+              "name": {
+                "de": "Cova dels Lleons",
+                "hu": "Cova dels Lleons",
+                "ro": "Cova dels Lleons",
+                "en": "Cova dels Lleons"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle schützt vor kaltem Wind; machen Sie hier einen kurzen Stopp, um die bizarren Felsformationen im klaren Winterlicht zu sehen.",
+                "hu": "A barlang megvéd a hideg széltől; tartson itt egy rövid pihenőt, hogy megnézze a bizarr sziklákat a tiszta téli fényben.",
+                "ro": "Peștera vă protejează de vântul rece; opriți-vă scurt pentru a vedea formațiunile stâncoase bizare în lumina clară de iarnă.",
+                "en": "The cave protects against the cold wind; make a short stop here to see the bizarre rock formations in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Xàtiva",
+                "hu": "Castell de Xàtiva",
+                "ro": "Castell de Xàtiva",
+                "en": "Castell de Xàtiva"
+              },
+              "tip_5lang": {
+                "de": "Die Festung ist im Winter weniger überlaufen; packen Sie eine helle Taschenlampe für den Abstieg in der Dämmerung ein.",
+                "hu": "Az erődítmény télen kevésbé zsúfolt; vigyen magával egy erős lámpát a szürkületben történő leereszkedéshez.",
+                "ro": "Fortăreața este mai puțin aglomerată iarna; luați o lanternă puternică pentru coborârea prin amurg.",
+                "en": "The fortress is less crowded in winter; pack a bright flashlight for the descent during the twilight hours."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +847,196 @@
         "hu": "Morning: Egy rövid autóút a tágas Piscina municipalhoz vezet egy friss kezdésért, amelyet egy gyors ugrás követ a Bañeras del Raval történelmi mindennapjainak felfedezésére.\nMidday: A városközpontba gurulunk, leparkolunk, hogy felfedezzük a helyi történelmet a Museu Almodíban, és felnézzünk a monumentális Basílica de Santa Mariára.\nAfternoon: Hátrahagyva az alsóvárost, a kanyargós festői út egyenesen a kiterjedt erődkomplexumhoz visz minket, kezdve a régebbi Castell Menorral.\nEvening: Autós utunk látványosan zárul a tornyosuló Castell de Xàtivánál, amely páratlan panorámát kínál a régióra, ahogy az este szép lassan leszáll.",
         "ro": "Morning: O scurtă plimbare cu mașina ne aduce la spațioasa Piscina municipal pentru un început proaspăt, urmată de o vizită pentru a descoperi viața istorică la Bañeras del Raval.\nMidday: Ne îndreptăm spre centrul orașului, parcând în apropiere pentru a descoperi istoria la Museu Almodí și a admira monumentala Basílica de Santa Maria.\nAfternoon: Lăsând în urmă orașul de jos, drumul pitoresc și șerpuit ne duce direct sus la complexul fortăreței extinse, începând cu vechiul Castell Menor.\nEvening: Călătoria noastră se încheie spectaculos la impresionantul Castell de Xàtiva, oferind vederi panoramice de neegalat asupra regiunii pe măsură ce se lasă seara.",
         "en": "Morning: A quick drive brings us to the spacious Piscina municipal for a fresh start, followed by a short hop to discover the historic daily life at Bañeras del Raval.\nMidday: We cruise into the city center, parking nearby to uncover local history at Museu Almodí and gaze up at the monumental Basílica de Santa Maria.\nAfternoon: Leaving the lower town behind, the winding scenic road takes us directly up to the sprawling fortress complex, starting with the older Castell Menor.\nEvening: Our road trip concludes spectacularly at the towering Castell de Xàtiva, offering unparalleled panoramic views over the region as evening settles in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort des Autos, während der Regen auf das Dach prasselt. Die Piscina und die Bañeras sind ruhige, nasse Orte mit historischem Flair. Mittags bieten das Museum und die Basilika ein trockenes Kulturprogramm direkt am Parkplatz. Am Nachmittag fahren Sie bequem zum Castell Menor und zum Hauptschloss hoch; die Auffahrt ist sicher und erspart Ihnen den nassen Aufstieg zu Fuß.",
+            "hu": "Élvezze az autó kényelmét, miközben az eső kopog a tetőn. A Piscina és a Bañeras csendes, vizes helyszínek történelmi hangulattal. Délben a múzeum és a Bazilika kínál száraz kulturális programot közvetlenül a parkoló mellett. Délután kényelmesen hajtson fel a Castell Menorhoz és a fővárhoz; az autóút biztonságos, és megkíméli Önt a vizes, gyalogos hegymenettől.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce ploaia bate pe plafon. Piscina și Bañeras sunt locuri liniștite, cu farmec istoric. La prânz, muzeul și Basilica oferă un program cultural uscat chiar lângă parcare. După-amiaza conduceți confortabil spre Castell Menor și castelul principal; drumul este sigur și vă scutește de urcarea pe jos prin ploaie.",
+            "en": "Enjoy the comfort of your car while the rain drums on the roof. The Piscina and Bañeras are quiet, historic spots with a rainy-day charm. At noon, the museum and Basilica offer a dry cultural program right next to the parking area. In the afternoon, drive conveniently up to Castell Menor and the main castle; the road is safe and saves you from a wet hike on foot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Piscina municipal",
+                "ro": "Piscina municipal",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel des Regens auf der Wasseroberfläche vom Auto aus; die Gegend ist bei schlechtem Wetter angenehm leer.",
+                "hu": "Figyelje meg az eső játékát a víz felszínén az autóból; a környék rossz időben kellemesen üres és nyugodt.",
+                "ro": "Observați jocul ploii pe suprafața apei din mașină; zona este plăcut de goală și liniștită pe vreme rea.",
+                "en": "Observe the play of rain on the water's surface from your car; the area is pleasantly empty and quiet in bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bañeras del Raval",
+                "hu": "Bañeras del Raval",
+                "ro": "Bañeras del Raval",
+                "en": "Bañeras del Raval"
+              },
+              "tip_5lang": {
+                "de": "Diese historischen Bäder wirken bei Regen besonders authentisch; nutzen Sie die kurzen Wege vom Parkplatz, um nicht nass zu werden.",
+                "hu": "Ezek a történelmi fürdők esőben különösen autentikusnak tűnnek; használja a parkolótól vezető rövid utat, hogy ne ázzon el.",
+                "ro": "Aceste băi istorice par extrem de autentice pe ploaie; folosiți distanța scurtă de la parcare pentru a nu vă uda.",
+                "en": "These historic baths seem particularly authentic in the rain; use the short walk from the parking lot to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Almodí",
+                "hu": "Museu Almodí",
+                "ro": "Museu Almodí",
+                "en": "Museu Almodí"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Starkregen; das Gebäude bietet Schutz für Stunden, während Sie in die lokale Geschichte eintauchen.",
+                "hu": "Ideális megálló heves esőzés esetén; az épület órákig védelmet nyújt, miközben elmerül a helyi történelemben.",
+                "ro": "O oprire ideală în caz de ploaie torențială; clădirea oferă protecție ore întregi în timp ce explorați istoria locală.",
+                "en": "An ideal stop during heavy rain; the building provides shelter for hours while you dive into local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Església Col·legiata Basílica de Santa Maria",
+                "hu": "Església Col·legiata Basílica de Santa Maria",
+                "ro": "Església Col·legiata Basílica de Santa Maria",
+                "en": "Església Col·legiata Basílica de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe der Plaza de la Seo; der kurze Sprint zur Basilika lohnt sich für das prachtvolle, trockene Innere.",
+                "hu": "Parkoljon a Plaza de la Seo közelében; a rövid sprint a bazilikáig megéri a pompás, száraz belső tér látványáért.",
+                "ro": "Parcați lângă Plaza de la Seo; sprintul scurt până la basilică merită pentru interiorul splendid și uscat.",
+                "en": "Park near Plaza de la Seo; the short dash to the basilica is worth it for the magnificent, dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Menor",
+                "hu": "Castell Menor",
+                "ro": "Castell Menor",
+                "en": "Castell Menor"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt mit dem Auto ist bei Nässe die beste Wahl; genießen Sie den Blick auf die triefenden Mauern direkt aus dem Fenster.",
+                "hu": "A vizes időben az autóval való felhajtás a legjobb választás; élvezze a kilátást a vizes várfalakra közvetlenül az ablakból.",
+                "ro": "Urcarea cu mașina este cea mai bună alegere pe timp umed; bucurați-vă de vederea zidurilor ude direct de la fereastră.",
+                "en": "Driving up is the best choice in wet weather; enjoy the view of the dripping castle walls directly from your window."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Xàtiva",
+                "hu": "Castell de Xàtiva",
+                "ro": "Castell de Xàtiva",
+                "en": "Castell de Xàtiva"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den oberen Parkplatz, um die Gehwege im Regen zu minimieren; die Aussicht oben ist trotz Wolken spektakulär.",
+                "hu": "Használja a felső parkolót, hogy minimalizálja a gyaloglást az esőben; a kilátás fent a felhők ellenére is lenyűgöző.",
+                "ro": "Folosiți parcarea de sus pentru a minimiza mersul prin ploaie; priveliștea de sus este spectaculoasă în ciuda norilor.",
+                "en": "Use the upper parking lot to minimize walking in the rain; the view from the top is spectacular despite the clouds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag in Xàtiva lässt sich am besten mit dem Auto erkunden. Starten Sie erfrischt an der Piscina und besuchen Sie die Bañeras del Raval. Mittags laden das beheizte Museum und die imposante Basilika zum Verweilen ein. Am späten Nachmittag geht es hoch zum Schloss; nutzen Sie das Auto, um pünktlich zum Sonnenuntergang um 17:00 Uhr die besten Aussichtspunkte der Festung zu erreichen.",
+            "hu": "Xàtiva tiszta téli napja leginkább autóval fedezhető fel. Kezdjen frissen a Piscinánál, majd látogassa meg a Bañeras del Ravalt. Délben a fűtött múzeum és az impozáns Bazilika várja. Késő délután hajtson fel a várhoz; használja az autót, hogy pontosan a 17:00-s naplementére elérje az erődítmény legjobb kilátópontjait.",
+            "ro": "O zi senină de iarnă în Xàtiva este cel mai bine explorată cu mașina. Începeți la Piscina, apoi vizitați Bañeras del Raval. La prânz, muzeul încălzit și Basilica impunătoare vă așteaptă. După-amiaza târziu urcați la castel; folosiți mașina pentru a ajunge la timp pentru apusul de la ora 17:00 la cele mai bune puncte de observație.",
+            "en": "A clear winter day in Xàtiva is best explored by car. Start fresh at the Piscina and visit the Bañeras del Raval. At noon, the heated museum and the imposing Basilica invite you to stay. In the late afternoon, drive up to the castle; use the car to reach the best viewpoints of the fortress exactly for the 5:00 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina municipal",
+                "hu": "Piscina municipal",
+                "ro": "Piscina municipal",
+                "en": "Piscina municipal"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter sehr ruhig; nutzen Sie die Zeit für einen kurzen Spaziergang in der frischen, klaren Morgenluft.",
+                "hu": "A létesítmény télen nagyon csendes; használja ki az időt egy rövid sétára a friss, tiszta reggeli levegőn a parkoló körül.",
+                "ro": "Complexul este foarte liniștit iarna; profitați de timp pentru o scurtă plimbare în aerul curat de dimineață lângă parcare.",
+                "en": "The facility is very quiet in winter; use the time for a short walk in the fresh, clear morning air around the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bañeras del Raval",
+                "hu": "Bañeras del Raval",
+                "ro": "Bañeras del Raval",
+                "en": "Bañeras del Raval"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern die Kälte; tragen Sie warme Schuhe, während Sie diese interessanten historischen Überreste besichtigen.",
+                "hu": "A kövek tartják a hideget; viseljen meleg cipőt, miközben megtekinti ezeket az érdekes történelmi maradványokat.",
+                "ro": "Pietrele rețin frigul; purtați încălțăminte călduroasă în timp ce vizitați aceste vestigii istorice interesante.",
+                "en": "The stones retain the cold; wear warm shoes while visiting these interesting historical remains."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Almodí",
+                "hu": "Museu Almodí",
+                "ro": "Museu Almodí",
+                "en": "Museu Almodí"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist gut temperiert; nehmen Sie sich Zeit für die Kunstwerke, bevor die Temperatur draußen am Nachmittag sinkt.",
+                "hu": "A múzeum jól temperált; szánjon időt a műalkotásokra, mielőtt kint a hőmérséklet csökkenni kezdene délután.",
+                "ro": "Muzeul are o temperatură plăcută; acordați timp operelor de artă înainte ca temperatura de afară să scadă după-amiaza.",
+                "en": "The museum is well-tempered; take your time with the artworks before the temperature outside starts to drop in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Església Col·legiata Basílica de Santa Maria",
+                "hu": "Església Col·legiata Basílica de Santa Maria",
+                "ro": "Església Col·legiata Basílica de Santa Maria",
+                "en": "Església Col·legiata Basílica de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Basilika am frühen Nachmittag wunderschön; perfekt für Fotos der imposanten Außenansicht.",
+                "hu": "A téli nap kora délután gyönyörűen megvilágítja a bazilikát; tökéletes időpont az impozáns külső fotózásához.",
+                "ro": "Soarele de iarnă luminează frumos basilica după-amiaza devreme; moment perfect pentru fotografii ale exteriorului impunător.",
+                "en": "The winter sun illuminates the basilica beautifully in the early afternoon; a perfect time for photos of the imposing exterior."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell Menor",
+                "hu": "Castell Menor",
+                "ro": "Castell Menor",
+                "en": "Castell Menor"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang der Burg; die klare Winterluft bietet eine Sicht bis zum Meer, wenn der Tag wolkenlos ist.",
+                "hu": "Parkoljon közvetlenül a vár bejáratánál; a tiszta téli levegőben akár a tengerig is ellátni, ha a nap felhőtlen.",
+                "ro": "Parcați direct la intrarea castelului; aerul clar de iarnă oferă o vizibilitate până la mare dacă ziua este senină.",
+                "en": "Park directly at the castle entrance; the clear winter air offers a view as far as the sea if the day is cloudless."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Xàtiva",
+                "hu": "Castell de Xàtiva",
+                "ro": "Castell de Xàtiva",
+                "en": "Castell de Xàtiva"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang vom höchsten Punkt; im Auto auf dem Rückweg können Sie sich sofort wieder aufwärmen.",
+                "hu": "Élvezze a naplementét a legmagasabb pontról; az autóba visszatérve a hazaúton azonnal felmelegedhet.",
+                "ro": "Bucurați-vă de apus de la cel mai înalt punct; odată reveniți în mașină, vă puteți încălzi imediat pe drumul de întoarcere.",
+                "en": "Enjoy the sunset from the highest point; once back in the car, you can warm up immediately on the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

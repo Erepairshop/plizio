@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Puerto Escondido történelmi központjának és az autentikus oaxacai művészetnek a felfedezésével. A délidő a regionális mesterműveket bemutató galéria meglátogatását hozza el. Délután ereszkedjen le a part felé egy festői gyalogos sétányon. Az estét egy drámai tengerparti emlékműnél tett elgondolkodtató és emlékezetes látogatással zárhatja.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Puerto Escondido și arta autentică oaxacană. La prânz accentul se mută pe cultură, vizitând o galerie cu capodopere regionale. După-amiaza, coborâți spre coastă pe o alee pietonală pitorească plină de viață. Încheiați seara reflectând la un monument de coastă dramatic, sub lumina caldă a apusului.",
         "en": "Start your morning exploring the historical heart of Puerto Escondido, paying respects at local monuments and immersing in authentic Oaxacan art. Midday brings a shift towards cultural appreciation with a gallery visit showcasing regional masterpieces. In the afternoon, descend towards the coast along a scenic pedestrian walkway. Conclude the evening reflecting at a dramatic coastal monument."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Colosio-Denkmal, wo man unter Bäumen Schutz vor dem ersten Guss sucht. Mittags bietet das Taller libre einen perfekten, trockenen Ort für kreative Entfaltung. Nachmittags erkunden wir die Galeria Diana, während es draußen stürmt. Der Abend am Andador turístico erfordert Vorsicht auf den glatten Wegen, bietet aber eine dramatische Sicht auf das aufgewühlte Meer.",
+            "hu": "A reggelt a Colosio-szobornál kezdjük, az eső elől a közeli lombok alatt keresve menedéket. Délben a Pincel Mágico műhelye nyújt tökéletes, fedett helyszínt az alkotáshoz. Délután a Galeria Diana kiállításait böngésszük, amíg eláll a zivatar. Az este az Andador sétányon zárul, ahol a csúszós kövek miatt óvatosan kell lépkedni a monumentális hullámok látványa mellett.",
+            "ro": "Dimineața începe la bustul Colosio, căutând adăpost sub copaci de ploaia tropicală. La prânz, atelierul de pictură oferă un refugiu creativ și uscat. După-amiaza explorăm Galeria Diana în timp ce afară plouă torențial. Seara pe Andador turístico necesită atenție sporită pe pavajul alunecos, oferind în schimb o priveliște dramatică asupra oceanului învolburat.",
+            "en": "Morning starts at the Colosio bust, seeking shelter under nearby trees from the tropical rain. At noon, the painting workshop provides a perfect covered sanctuary for creativity. In the afternoon, we browse Galeria Diana while the storm passes. The evening at Andador turístico requires caution on slippery paths but offers a dramatic view of the powerful, rain-lashed waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busto de Luis Donaldo Colosio",
+                "hu": "Busto de Luis Donaldo Colosio",
+                "ro": "Busto de Luis Donaldo Colosio",
+                "en": "Busto de Luis Donaldo Colosio"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Denkmal schnell zwischen den Regenschauern und nutzen Sie die nahen Arkaden als Unterstand; ein stabiler Regenschirm ist hier unverzichtbar.",
+                "hu": "Tekintse meg a szobrot két zápor között, és használja a közeli árkádokat menedékként; egy strapabíró esernyő elengedhetetlen a hirtelen lezúduló csapadék ellen.",
+                "ro": "Vizitați monumentul rapid între reprizele de ploaie și folosiți arcadele din apropiere pentru adăpost; o umbrelă rezistentă este indispensabilă împotriva rafalelor.",
+                "en": "View this monument quickly between rain showers and use nearby overhangs for shelter; a sturdy umbrella is essential against the sudden tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Taller libre \"El pincel mágico\"",
+                "hu": "Taller libre \"El pincel mágico\"",
+                "ro": "Taller libre \"El pincel mágico\"",
+                "en": "Taller libre \"El pincel mágico\""
+              },
+              "tip_5lang": {
+                "de": "Dieses Atelier ist der ideale Rückzugsort bei Regen, um in gemütlicher Atmosphäre zu malen; prüfen Sie die Öffnungszeiten, da es bei Gewitter sehr voll wird.",
+                "hu": "Ez a műhely ideális menedék esőben, ahol barátságos környezetben alkothatunk; érdemes korábban érkezni, mert vihar idején hamar megtelik a fedett alkotótér.",
+                "ro": "Acest atelier este refugiul ideal pe ploaie, permițându-vă să pictați într-o atmosferă primitoare; verificați programul, deoarece devine aglomerat în timpul furtunilor.",
+                "en": "This workshop is the ideal indoor retreat during rain, allowing you to paint in a cozy atmosphere; check the hours as it gets crowded during heavy storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Benito Juárez",
+                "hu": "Monumento a Benito Juárez",
+                "ro": "Monumento a Benito Juárez",
+                "en": "Monumento a Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Die Statue ist im Regen besonders eindrucksvoll, aber die Stufen können sehr rutschig sein; tragen Sie Schuhe mit gutem Profil für den Aufstieg zum Monument.",
+                "hu": "A szobor az esőben különösen monumentális látványt nyújt, de a lépcsők rendkívül csúszósak lehetnek; viseljen tapadós talpú cipőt a biztonságos megközelítéshez.",
+                "ro": "Statuia este impresionantă în ploaie, dar treptele pot deveni foarte alunecoase; purtați încălțăminte cu aderență bună pentru a urca în siguranță la monument.",
+                "en": "The statue looks particularly imposing in the rain, but the steps can be very slippery; wear shoes with good grip for a safe approach to the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Diana",
+                "hu": "Galeria Diana",
+                "ro": "Galeria Diana",
+                "en": "Galeria Diana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die klimatisierten Räume, um lokale Kunst trocken zu genießen; ein perfekter Ort, um die Zeit zu überbrücken, bis der stärkste Regen nachlässt.",
+                "hu": "Élvezze a helyi művészetet a száraz, légkondicionált termekben; tökéletes helyszín a várakozásra, amíg a kinti trópusi felhőszakadás intenzitása alábbhagy.",
+                "ro": "Bucurați-vă de arta locală în sălile uscate și climatizate; este locul perfect pentru a aștepta până când intensitatea ploii tropicale de afară scade.",
+                "en": "Enjoy local art in the dry, air-conditioned rooms; it is the perfect spot to wait out the heaviest tropical downpour while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Andador turístico",
+                "hu": "Andador turístico",
+                "ro": "Andador turístico",
+                "en": "Andador turístico"
+              },
+              "tip_5lang": {
+                "de": "Der Klippenweg bietet dramatische Ausblicke auf die stürmische See, erfordert aber höchste Vorsicht bei Nässe; halten Sie sich unbedingt an den Geländern fest.",
+                "hu": "A szikla menti sétány drámai kilátást nyújt a viharos tengerre, de nedves időben fokozott óvatosságot igényel; mindenképpen kapaszkodjon a korlátokba.",
+                "ro": "Faleza oferă vederi dramatice asupra mării învolburate, dar necesită prudență maximă pe timp de ploaie; folosiți neapărat balustradele pentru siguranță.",
+                "en": "The cliffside walkway offers dramatic views of the stormy sea but requires extra caution when wet; be sure to hold onto the railings at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al ahogado, Las Manos",
+                "hu": "Monumento al ahogado, Las Manos",
+                "ro": "Monumento al ahogado, Las Manos",
+                "en": "Monumento al ahogado, Las Manos"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal wirkt bei grauem Himmel besonders mystisch, achten Sie jedoch auf die Gischt; wasserfeste Kleidung schützt Sie vor den peitschenden Wellen.",
+                "hu": "A monumentális kezek a szürke égbolt alatt különösen misztikusak, de ügyeljen a tenger permetére; vízálló ruházat védhet meg a kicsapó hullámoktól.",
+                "ro": "Monumentul pare mistic sub cerul gri, dar aveți grijă la vaporii de apă sărați; îmbrăcămintea impermeabilă vă va proteja de valurile care se sparg.",
+                "en": "The monumental hands look particularly mystical under grey skies, but watch out for sea spray; waterproof gear will protect you from the crashing waves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Puerto Escondido ist im Winter angenehm kühl, ideal für den Stadtrundgang. Mittags besuchen wir die Monumente unter einer sanfteren Sonne als im Sommer. Nachmittags lädt die Galeria Diana zum Verweilen ein, bevor wir zum Andador turístico aufbrechen. Da die Sonne bereits gegen 17:00 Uhr sinkt, erleben wir den Sonnenuntergang am Meer früher, gefolgt von einer frischen Brise.",
+            "hu": "A téli reggelek Puerto Escondidóban kellemesen frissek, ideálisak a városi sétához. Délben a szobrokat a nyárinál lágyabb napsütésben fedezzük fel. Délután a Galeria Diana nyújt kulturális kikapcsolódást a sétány előtt. Mivel a nap már 17 óra körül nyugovóra tér, a naplemente korábban érkezik, amit az óceán felől feltámadó hűvösebb szél követ.",
+            "ro": "Diminețile de iarnă în Puerto Escondido sunt plăcut de răcoroase, ideale pentru o plimbare urbană. La prânz, vizităm monumentele sub un soare mai blând decât vara. După-amiaza, Galeria Diana oferă relaxare culturală înainte de faleză. Deoarece soarele apune deja în jur de ora 17:00, amurgul vine mai devreme, urmat de o briză răcoroasă dinspre ocean.",
+            "en": "Winter mornings in Puerto Escondido are pleasantly cool, ideal for an urban stroll. At noon, we visit the monuments under a softer sun than in summer. In the afternoon, Galeria Diana offers cultural relaxation before heading to the walkway. Since the sun sets around 5 PM, dusk comes early, followed by a refreshing breeze blowing in from the ocean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busto de Luis Donaldo Colosio",
+                "hu": "Busto de Luis Donaldo Colosio",
+                "ro": "Busto de Luis Donaldo Colosio",
+                "en": "Busto de Luis Donaldo Colosio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft bei diesem morgendlichen Stopp; das weiche Morgenlicht ist perfekt für Fotos ohne die harte Mittagssonne des Sommers.",
+                "hu": "Élvezze a tiszta téli levegőt ennél a reggeli megállónál; a lágy reggeli fények tökéletesek a fotózáshoz a nyári vakító napsütés nélkül.",
+                "ro": "Bucurați-vă de aerul curat de iarnă la această oprire matinală; lumina blândă a dimineții este perfectă pentru fotografii fără soarele puternic de vară.",
+                "en": "Enjoy the crisp winter air at this morning stop; the soft morning light is perfect for photos without the harsh summer midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Taller libre \"El pincel mágico\"",
+                "hu": "Taller libre \"El pincel mágico\"",
+                "ro": "Taller libre \"El pincel mágico\"",
+                "en": "Taller libre \"El pincel mágico\""
+              },
+              "tip_5lang": {
+                "de": "Das offene Atelier ist im Winter angenehm temperiert und bietet eine tolle Lichtqualität; nutzen Sie die hellen Stunden für Ihre künstlerischen Projekte.",
+                "hu": "A nyitott műhely télen kellemes hőmérsékletű és kiváló fényviszonyokat kínál; használja ki a világos órákat az alkotásra a korai sötétedés előtt.",
+                "ro": "Atelierul deschis are o temperatură plăcută iarna și oferă o calitate excelentă a luminii; profitați de orele luminoase pentru proiectele artistice.",
+                "en": "The open workshop is pleasantly temperate in winter and offers great light quality; take advantage of the bright hours for your artistic projects."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Benito Juárez",
+                "hu": "Monumento a Benito Juárez",
+                "ro": "Monumento a Benito Juárez",
+                "en": "Monumento a Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei den milden Wintertemperaturen weit weniger anstrengend; genießen Sie den Blick über die Stadt, bevor die Sonne am frühen Abend sinkt.",
+                "hu": "A feljutás a hűvösebb téli hőmérsékletben sokkal kevésbé fárasztó; élvezze a városi panorámát, mielőtt a nap korán, délután öt után lebukik a horizont alá.",
+                "ro": "Urcarea este mult mai puțin obositoare la temperaturile blânde de iarnă; bucurați-vă de vederea spre oraș înainte ca soarele să apună devreme.",
+                "en": "The climb is much less exhausting in the mild winter temperatures; enjoy the city views before the sun sets early in the evening after 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Diana",
+                "hu": "Galeria Diana",
+                "ro": "Galeria Diana",
+                "en": "Galeria Diana"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den späten Nachmittag, wenn es draußen kühler wird; bewundern Sie die Exponate und planen Sie Ihren Weg zum frühen Sonnenuntergang.",
+                "hu": "Ideális helyszín késő délutánra, amikor odakint hűvösebbé válik a levegő; csodálja meg a műveket, és tervezze meg az utat a korai naplementéhez.",
+                "ro": "Un loc ideal pentru după-amiaza târziu, când afară se face mai răcoare; admirați exponatele și planificați-vă traseul pentru apusul timpuriu.",
+                "en": "An ideal spot for late afternoon when it starts to get cooler outside; admire the exhibits and plan your route for the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Andador turístico",
+                "hu": "Andador turístico",
+                "ro": "Andador turístico",
+                "en": "Andador turístico"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Weg unbedingt vor 17:00 Uhr, um das goldene Licht zu nutzen; bringen Sie eine leichte Jacke für den kühlen Wind nach Sonnenuntergang mit.",
+                "hu": "Mindenképpen érjen ide 17 óra előtt, hogy elcsípje az aranyló fényeket; hozzon egy vékony kabátot a naplemente utáni hűvös óceáni szél ellen.",
+                "ro": "Ajungeți pe această potecă înainte de ora 17:00 pentru a profita de lumina aurie; aduceți o jachetă subțire pentru briza rece de după apus.",
+                "en": "Make sure to reach this path before 5 PM to catch the golden light; bring a light jacket for the cool ocean breeze that kicks in after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al ahogado, Las Manos",
+                "hu": "Monumento al ahogado, Las Manos",
+                "ro": "Monumento al ahogado, Las Manos",
+                "en": "Monumento al ahogado, Las Manos"
+              },
+              "tip_5lang": {
+                "de": "Der Abendhimmel bietet im Winter oft spektakuläre Farben hinter der Skulptur; kleiden Sie sich im Zwiebelprinzip, da es nach dem frühen Sunset rasch abkühlt.",
+                "hu": "A téli esti égbolt gyakran látványos színekben pompázik a szobor mögött; öltözzön rétegesen, mert a korai naplemente után gyorsan lehűl a levegő.",
+                "ro": "Cerul de iarnă oferă adesea culori spectaculoase în spatele sculpturii; îmbrăcați-vă în straturi, deoarece se răcește rapid după apusul timpuriu.",
+                "en": "The winter evening sky often shows spectacular colors behind the sculpture; dress in layers as it cools down quickly after the early 5 PM sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "Tekerjen a belvárosi galériától egyenesen egy strandnéző kalandra, Manzanillo nyugodt vizével kezdve. A dél tökéletes a nyüzsgő öblök és egy rejtett szörfös paradicsom felfedezésére. Délután magaslati természetes kilátópontokról figyelheti meg a gazdag tengeri élővilágot. Az este egy laza, elegáns tengerparti klubban ér véget, ahol koccinthat a csodálatos napra.",
         "ro": "Pedalați de la galeria de artă din centru direct într-o aventură pe plaje, începând cu apele liniștite din Manzanillo. Prânzul este perfect pentru a explora golfuri pline de viață și un paradis ascuns al surferilor. După-amiaza vă ridică la puncte de observație naturale pentru viața marină. Seara se instalează cu o atmosferă relaxată de club de plajă pentru a încheia ziua.",
         "en": "Pedal from the town center's art gallery straight into a beach-hopping adventure, starting with the calm, family-friendly waters of Manzanillo. Midday is perfect for exploring adjacent bustling bays and finding a hidden surfer's paradise. The afternoon elevates you to natural viewpoints for spotting marine life. Evening sets in with a relaxed, upscale beach club vibe to toast the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Puerto Escondido volle Konzentration. Wir starten bei Galeria Diana, um trocken zu bleiben. Die Fahrt zu den Stränden erfolgt auf nassen Straßen, wo die Reifen leicht rutschen. Mittags suchen wir Schutz in den Strandhütten von Manzanillo und Angelito. Da die Sicht nachmittags bei Schauern sinkt, beenden wir die Tour frühzeitig in einem sicheren Beach Club.",
+            "hu": "Az esőben való biciklizés Puerto Escondidóban teljes koncentrációt igényel. A Galeria Dianánál kezdünk, hogy szárazon maradjunk. A strandokhoz vezető út nedves aszfalton halad, ahol a gumik könnyen megcsúszhatnak. Délben a Manzanillo és Angelito part menti házaiban keresünk menedéket. Mivel a látási viszonyok délután romlanak, a túrát korán, egy biztonságos Beach Clubban zárjuk.",
+            "ro": "Ciclismul pe ploaie în Puerto Escondido necesită concentrare maximă. Începem la Galeria Diana pentru a rămâne uscați. Drumul spre plaje se face pe asfalt umed, unde anvelopele pot aluneca ușor. La prânz, căutăm adăpost în cabanele de pe plajele Manzanillo și Angelito. Deoarece vizibilitatea scade după-amiaza, încheiem turul devreme într-un Beach Club sigur.",
+            "en": "Cycling in the rain in Puerto Escondido requires full concentration. We start at Galeria Diana to stay dry. The ride to the beaches is on wet asphalt where tires can easily slip. At noon, we seek shelter in the beach huts of Manzanillo and Angelito. As visibility drops during afternoon showers, we end the tour early at a secure Beach Club."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galeria Diana",
+                "hu": "Galeria Diana",
+                "ro": "Galeria Diana",
+                "en": "Galeria Diana"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Startort, um den ersten Guss abzuwarten; prüfen Sie Ihre Bremsen gründlich, bevor Sie auf die nassen Straßen von Puerto hinausfahren.",
+                "hu": "Tökéletes kezdőpont az első zápor kivárásához; alaposan ellenőrizze a fékeket, mielőtt kimerészkedne Puerto vizes és csúszós útjaira.",
+                "ro": "Un punct de plecare perfect pentru a aștepta prima rafală; verificați frânele cu atenție înainte de a porni pe străzile umede din Puerto.",
+                "en": "A perfect starting point to wait out the first downpour; check your brakes thoroughly before heading out onto Puerto's wet and slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Manzanillo",
+                "hu": "Playa Manzanillo",
+                "ro": "Playa Manzanillo",
+                "en": "Playa Manzanillo"
+              },
+              "tip_5lang": {
+                "de": "Die Palapas bieten guten Schutz vor Regen, während Sie das graue Meer beobachten; parken Sie das Rad auf festem Grund, um ein Einsinken im Schlamm zu vermeiden.",
+                "hu": "A pálmatetős kunyhók jó védelmet nyújtanak az eső ellen a szürke tenger látványa mellett; parkoljon szilárd talajon, hogy a bicikli ne süllyedjen el a sárban.",
+                "ro": "Palapas oferă protecție bună împotriva ploii în timp ce priviți marea cenușie; parcați bicicleta pe teren solid pentru a evita scufundarea în noroi.",
+                "en": "The palapas offer good protection from the rain while watching the grey sea; park your bike on firm ground to avoid sinking into the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Puerto Angelito",
+                "hu": "Playa Puerto Angelito",
+                "ro": "Playa Puerto Angelito",
+                "en": "Playa Puerto Angelito"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Strandrestaurants als Unterstand bei plötzlichen Gewittern; achten Sie auf die sandigen Wege, die bei Nässe besonders tückisch für Radfahrer sind.",
+                "hu": "Használja a parti éttermeket menedékként hirtelen vihar esetén; ügyeljen a homokos utakra, amelyek vizesen különösen csalókák a biciklisek számára.",
+                "ro": "Folosiți restaurantele de pe plajă ca adăpost în caz de furtună; atenție la potecile cu nisip, care devin trădătoare pentru bicicliști când sunt ude.",
+                "en": "Use the beach restaurants as shelter during sudden storms; watch out for sandy paths, which are especially treacherous for cyclists when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Carrizalillo",
+                "hu": "Playa Carrizalillo",
+                "ro": "Playa Carrizalillo",
+                "en": "Playa Carrizalillo"
+              },
+              "tip_5lang": {
+                "de": "Die steilen Stufen hinunter zum Strand sind bei Regen extrem gefährlich; lassen Sie das Rad oben gesichert stehen und gehen Sie sehr langsam hinunter.",
+                "hu": "A strandra vezető meredek lépcsők esőben rendkívül veszélyesek; hagyja a biciklit fent lezárva, és nagyon lassan, kapaszkodva ereszkedjen le.",
+                "ro": "Treptele abrupte spre plajă sunt extrem de periculoase pe ploaie; lăsați bicicleta încuiată sus și coborâți foarte încet, ținându-vă de balustradă.",
+                "en": "The steep steps down to the beach are extremely dangerous in the rain; leave your bike locked at the top and descend very slowly while holding on."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Sunset Mugu",
+                "hu": "Belvedere Sunset Mugu",
+                "ro": "Belvedere Sunset Mugu",
+                "en": "Belvedere Sunset Mugu"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist ungeschützt, also nur bei Regenpausen anfahren; die Felsen sind bei Nässe sehr glatt, bleiben Sie auf den markierten Wegen.",
+                "hu": "A kilátópont teljesen nyitott, így csak esőszünetben érdemes felkeresni; a sziklák vizesen csúsznak, maradjon a kijelölt aszfaltozott részeken.",
+                "ro": "Belvedere-ul este complet deschis, deci vizitați-l doar în pauzele de ploaie; stâncile sunt alunecoase, rămâneți pe zonele asfaltate marcate.",
+                "en": "The lookout is completely exposed, so only visit during breaks in the rain; the rocks are very slippery when wet, stay on the marked paved areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Las Tortugas",
+                "hu": "Mirador Las Tortugas",
+                "ro": "Mirador Las Tortugas",
+                "en": "Mirador Las Tortugas"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Guss Deckung unter den Bäumen, aber meiden Sie Metallzäune; helle Kleidung ist wichtig, da die Sicht für Autofahrer nun schlecht ist.",
+                "hu": "Heves zápor esetén keressen fedezéket a fák alatt, de kerülje a fémkerítéseket; viseljen élénk ruhát, mert a látási viszonyok ilyenkor rosszak.",
+                "ro": "În caz de aversă, căutați adăpost sub copaci, dar evitați gardurile metalice; purtați haine reflectorizante, deoarece vizibilitatea este redusă acum.",
+                "en": "In case of heavy downpour, seek cover under trees but avoid metal fences; wear bright clothing as visibility for drivers is poor during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Coral",
+                "hu": "Playa Coral",
+                "ro": "Playa Coral",
+                "en": "Playa Coral"
+              },
+              "tip_5lang": {
+                "de": "Der sandige Zugangsweg kann im Regen zu einer Schlammfalle werden; schieben Sie Ihr Rad lieber das letzte Stück, um Stürze im Matsch zu vermeiden.",
+                "hu": "A homokos bejárati út az esőben sárdaivá válhat; inkább tolja a biciklit az utolsó szakaszon, hogy elkerülje az elcsúszást a mély sárban.",
+                "ro": "Drumul de acces cu nisip se poate transforma în noroi pe ploaie; mai bine împingeți bicicleta pe ultima porțiune pentru a evita căzăturile.",
+                "en": "The sandy access road can turn into a mud trap in the rain; it's better to push your bike on the last stretch to avoid falling in the deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach Club Cocos",
+                "hu": "Beach Club Cocos",
+                "ro": "Beach Club Cocos",
+                "en": "Beach Club Cocos"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag trocken ausklingen zu lassen; parken Sie unter dem Vordach und genießen Sie die Sicht auf das stürmische Meer im Trockenen.",
+                "hu": "A tökéletes hely a nap száraz befejezéséhez; parkoljon az előtető alatt, és élvezze a viharos tenger látványát a biztonságos fedett teraszról.",
+                "ro": "Locul perfect pentru a încheia ziua la uscat; parcați sub copertină și bucurați-vă de vederea mării învolburate de pe terasa acoperită.",
+                "en": "The perfect place to end the day dry; park under the overhang and enjoy the view of the stormy sea from the safety of the covered terrace."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die beste Zeit zum Radfahren in Puerto Escondido, da die Hitze moderat ist. Wir starten an der Galeria Diana und fahren entlang der Küste zu den malerischen Buchten. Mittags genießen wir die Strände Angelito und Carrizalillo bei strahlendem, aber mildem Sonnenschein. Da es bereits gegen 17:00 Uhr dämmert, steuern wir die Aussichtspunkte frühzeitig an, um den Sonnenuntergang nicht zu verpassen.",
+            "hu": "A tél a legjobb időszak a biciklizésre Puerto Escondidóban, mivel a hőség mérsékelt. A Galeria Dianától indulunk a part menti festői öblök felé. Délben az Angelito és Carrizalillo strandokat élvezzük a ragyogó, de enyhe napsütésben. Mivel 17 óra körül már szürkül, a kilátópontokat korán vesszük célba, hogy ne maradjunk le a lenyűgöző téli naplementéről.",
+            "ro": "Iarna este cel mai bun moment pentru ciclism în Puerto Escondido, deoarece căldura este moderată. Plecăm de la Galeria Diana spre golfurile pitorești de coastă. La prânz, ne bucurăm de plajele Angelito și Carrizalillo sub un soare strălucitor, dar blând. Deoarece se înserează deja în jur de ora 17:00, vizităm punctele de belvedere devreme pentru apus.",
+            "en": "Winter is the best time for cycling in Puerto Escondido as the heat is moderate. We start at Galeria Diana and ride along the coast towards the picturesque bays. At noon, we enjoy Angelito and Carrizalillo beaches under bright but mild sunshine. Since it starts getting dark around 5 PM, we head to the viewpoints early to catch the winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galeria Diana",
+                "hu": "Galeria Diana",
+                "ro": "Galeria Diana",
+                "en": "Galeria Diana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Morgenstunden für den Start der Tour; im Winter ist die Luftfeuchtigkeit geringer, was das Radfahren deutlich angenehmer macht.",
+                "hu": "Használja ki a hűvös reggeli órákat a túra megkezdéséhez; télen a páratartalom alacsonyabb, ami sokkal kellemesebbé teszi a városi biciklizést.",
+                "ro": "Profitați de orele răcoroase ale dimineții pentru a începe turul; iarna umiditatea este mai scăzută, ceea ce face ciclismul mult mai plăcut.",
+                "en": "Take advantage of the cool morning hours to start your tour; in winter, humidity is lower, making urban cycling much more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Manzanillo",
+                "hu": "Playa Manzanillo",
+                "ro": "Playa Manzanillo",
+                "en": "Playa Manzanillo"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht im Winter tiefer, was tolles Licht für Fotos der Bucht liefert; ein kurzes Bad ist bei den milden Wassertemperaturen erfrischend.",
+                "hu": "A nap télen alacsonyabban jár, ami remek fényeket biztosít az öböl fotózásához; a fürdőzés frissítő az ilyenkor is kellemes hőmérsékletű vízben.",
+                "ro": "Soarele este mai jos iarna, oferind o lumină excelentă pentru fotografii; o baie scurtă este revigorantă în apa care are temperaturi blânde.",
+                "en": "The sun is lower in winter, providing great light for photos of the bay; a quick swim is refreshing in the water's mild winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Puerto Angelito",
+                "hu": "Playa Puerto Angelito",
+                "ro": "Playa Puerto Angelito",
+                "en": "Playa Puerto Angelito"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist es am Strand ideal, da die Hitze nicht so drückend ist wie im Sommer; achten Sie auf die Radwege, die im Winter stark befahren sein können.",
+                "hu": "Délben a parton ideális az idő, a hőség nem olyan nyomasztó, mint nyáron; ügyeljen az utakra, amelyek a főszezon miatt télen zsúfoltabbak lehetnek.",
+                "ro": "La prânz, timpul pe plajă este ideal, căldura nefiind atât de sufocantă ca vara; atenție la drumuri, care pot fi aglomerate iarna în plin sezon.",
+                "en": "At noon, the beach time is ideal as the heat isn't as oppressive as in summer; watch out for the roads, which can be busy during the winter peak season."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Carrizalillo",
+                "hu": "Playa Carrizalillo",
+                "ro": "Playa Carrizalillo",
+                "en": "Playa Carrizalillo"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit für den Wiederaufstieg ein, bevor es kühl wird; die Bucht ist im Winter ruhiger und perfekt für eine entspannte Pause mit dem Rad.",
+                "hu": "Tervezzen elég időt a visszajutásra, mielőtt lehűlne a levegő; az öböl télen nyugodtabb, tökéletes helyszín egy pihentető kerékpáros megállóra.",
+                "ro": "Planificați-vă suficient timp pentru a urca înapoi înainte de a se face răcoare; golful este mai liniștit iarna, perfect pentru o pauză de relaxare.",
+                "en": "Plan enough time for the climb back up before it gets cool; the bay is calmer in winter, making it a perfect spot for a relaxing cycling break."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Sunset Mugu",
+                "hu": "Belvedere Sunset Mugu",
+                "ro": "Belvedere Sunset Mugu",
+                "en": "Belvedere Sunset Mugu"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie spätestens um 16:30 Uhr hier an, um den Sonnenuntergang voll zu genießen; eine leichte Weste schützt vor dem nun auffrischenden Wind.",
+                "hu": "Legkésőbb 16:30-ra érjen ide, hogy teljes egészében élvezhesse a naplementét; egy könnyű mellény megvédi a feltámadó esti óceáni széltől.",
+                "ro": "Ajungeți aici până la ora 16:30 pentru a vă bucura din plin de apus; o vestă ușoară vă va proteja de vântul de seară care începe să bată.",
+                "en": "Arrive here by 4:30 PM at the latest to fully enjoy the sunset; a light vest will protect you from the freshening evening ocean breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Las Tortugas",
+                "hu": "Mirador Las Tortugas",
+                "ro": "Mirador Las Tortugas",
+                "en": "Mirador Las Tortugas"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Ort für das frühe Abendlicht; da es nach 17:00 Uhr schnell dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradlichter funktionieren.",
+                "hu": "Látványos helyszín a kora esti fényekhez; mivel 17 óra után gyorsan sötétedik, győződjön meg róla, hogy a bicikli lámpái megfelelően működnek.",
+                "ro": "Un loc spectaculos pentru lumina serii; deoarece se întunecă rapid după ora 17:00, asigurați-vă că luminile bicicletei funcționează corect.",
+                "en": "A spectacular spot for early evening light; since it gets dark quickly after 5 PM, make sure your bike lights are in good working order."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Coral",
+                "hu": "Playa Coral",
+                "ro": "Playa Coral",
+                "en": "Playa Coral"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die letzten Sonnenstrahlen am Strand, bevor Sie zurückfahren; im Winter sind die Farben des Wassers hier besonders intensiv und klar.",
+                "hu": "Élvezze az utolsó napsugarakat a parton a visszaindulás előtt; télen a víz színei itt különösen intenzívek és tiszták a szárazabb időjárásnak hála.",
+                "ro": "Bucurați-vă de ultimele raze de soare pe plajă înainte de plecare; iarna culorile apei sunt deosebit de intense și clare datorită vremii uscate.",
+                "en": "Enjoy the last rays of sun on the beach before heading back; in winter, the water colors here are particularly intense and clear due to dry weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach Club Cocos",
+                "hu": "Beach Club Cocos",
+                "ro": "Beach Club Cocos",
+                "en": "Beach Club Cocos"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort für den Winterabend; nach Sonnenuntergang kühlt es spürbar ab, also halten Sie eine zweite Schicht Kleidung für die Heimfahrt bereit.",
+                "hu": "Hangulatos helyszín a téli estéhez; naplemente után érezhetően hűvösebb lesz, így készítsen elő egy plusz réteg ruhát a hazafelé tartó útra.",
+                "ro": "Un loc primitor pentru seara de iarnă; după apus se face simțitor mai răcoare, deci pregătiți un strat suplimentar de haine pentru drumul spre casă.",
+                "en": "A cozy spot for a winter evening; it gets noticeably cooler after sunset, so have a second layer of clothing ready for the ride back home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Induljon Bacocho hatalmas homokos partjáról, élvezve a reggeli nyugalmat, mielőtt eldugott korallos strandokhoz és klubokhoz hajtana. A délidő egy festői autózást kínál a kulturális központba, vibráló helyi műhelyekhez. A délután egy sétával telik a tengerparti sétányon és fontos szobrok megtekintésével. Zárja az estét egy hangulatos tengerparti emlékműnél, ahogy a nap lebukik.",
         "ro": "Conduceți de la nisipurile întinse din Bacocho, bucurându-vă de liniștea dimineții înainte de a merge la plaje izolate cu corali. Prânzul oferă o plimbare pitorească spre centrul cultural pentru ateliere locale vibrante. După-amiaza se desfășoară cu o plimbare pe promenada vibrantă și vizitarea statuilor. Încheiați seara la un monument evocator pe malul mării.",
         "en": "Drive starting from the expansive sands of Bacocho, enjoying morning tranquility before moving to secluded coral beaches and lively clubs. Midday offers a scenic drive to the cultural center for vibrant local workshops. Your afternoon unfolds with a stroll along the vibrant coastal promenade and visiting key statues. Conclude your evening at an evocative seaside monument as the sun dips below."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist bei Regen das ideale Transportmittel in Puerto Escondido. Wir besuchen Playa Bacocho am Morgen und genießen den Ausblick aus dem geschützten Wagen. Mittags bietet das Taller libre ein wunderbares Indoor-Erlebnis. Nachmittags erkunden wir den Andador turístico nur bei Regenpausen und beenden den Tag sicher am Monumento al ahogado, wo wir die Brandung beobachten.",
+            "hu": "Az autó az ideális választás esőben Puerto Escondidóban. Reggel a Playa Bacochót látogatjuk meg, a partot a védett kocsiból is megcsodálhatjuk. Délben a Pincel Mágico műhelye kínál kiváló beltéri programot. Délután az Andador sétányt csak esőszünetben keressük fel, majd a napot a Monumento al ahogado-nál zárjuk, biztonságban figyelve a hullámokat.",
+            "ro": "Mașina este alegerea ideală pe ploaie în Puerto Escondido. Dimineața vizităm Playa Bacocho, admirând malul din vehiculul protejat. La prânz, atelierul de pictură oferă o activitate excelentă în interior. După-amiaza explorăm faleza doar în pauzele de ploaie, încheind ziua la Monumento al ahogado, privind în siguranță valurile.",
+            "en": "A car is the ideal choice during rain in Puerto Escondido. We visit Playa Bacocho in the morning, enjoying the beach view from the sheltered vehicle. At noon, the painting workshop offers an excellent indoor activity. In the afternoon, we explore the walkway only during breaks in the rain, ending the day at the drowned man's monument while watching the waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Bacocho",
+                "hu": "Playa Bacocho",
+                "ro": "Playa Bacocho",
+                "en": "Playa Bacocho"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Strandzugang, um bei Schauern schnell wieder im Trockenen zu sein; der weite Sandstrand wirkt im Regen besonders dramatisch.",
+                "hu": "Parkoljon közel a strandbejárathoz, hogy zápor esetén gyorsan fedezékbe vonulhasson; a széles homokos part esőben különösen drámai látványt nyújt.",
+                "ro": "Parcați aproape de intrarea pe plajă pentru a vă putea adăposti rapid în caz de aversă; plaja lată de nisip pare deosebit de dramatică pe ploaie.",
+                "en": "Park close to the beach entrance to quickly seek shelter in case of a downpour; the wide sandy beach looks especially dramatic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach Club Cocos",
+                "hu": "Beach Club Cocos",
+                "ro": "Beach Club Cocos",
+                "en": "Beach Club Cocos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Club, um trocken hineinzukommen; ein hervorragender Ort, um den stärksten Regen bei einem Drink abzuwarten.",
+                "hu": "Használja a közvetlenül a klub előtt található parkolót a száraz bejutáshoz; kiváló helyszín a legnagyobb felhőszakadás kivárására egy ital mellett.",
+                "ro": "Folosiți parcarea direct din fața clubului pentru a intra la uscat; este un loc excelent pentru a aștepta trecerea ploii torențiale cu o băutură.",
+                "en": "Use the parking lot directly in front of the club to get inside dry; it's an excellent spot to wait out the heaviest downpour with a drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Coral",
+                "hu": "Playa Coral",
+                "ro": "Playa Coral",
+                "en": "Playa Coral"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Zufahrten können schlammig sein; achten Sie beim Fahren auf tiefe Pfützen und parken Sie auf festem Untergrund, um nicht steckenzubleiben.",
+                "hu": "A burkolatlan bekötőutak sárossá válhatnak; vezetés közben ügyeljen a mély tócsákra, és parkoljon szilárd talajon, hogy elkerülje az elakadást.",
+                "ro": "Drumurile de acces neasfaltate pot deveni noroioase; atenție la bălțile adânci în timp ce conduceți și parcați pe teren solid pentru a nu rămâne blocat.",
+                "en": "The unpaved access roads can get muddy; watch out for deep puddles while driving and park on firm ground to avoid getting stuck in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Taller libre \"El pincel mágico\"",
+                "hu": "Taller libre \"El pincel mágico\"",
+                "ro": "Taller libre \"El pincel mágico\"",
+                "en": "Taller libre \"El pincel mágico\""
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe, um Ihre Kunstwerke nach dem Kurs sicher und trocken zum Auto zu bringen; die Malstunden sind die beste Regenalternative.",
+                "hu": "Parkoljon a közelben, hogy az elkészült műveket a foglalkozás után szárazon a kocsiba vihesse; a festőórák a legjobb esőnapi alternatívát kínálják.",
+                "ro": "Parcați în apropiere pentru a vă putea duce lucrările la mașină la uscat după curs; orele de pictură sunt cea mai bună alternativă pentru zilele ploioase.",
+                "en": "Park nearby so you can carry your artwork to the car dry after the session; the painting classes offer the best rainy day alternative in town."
+              }
+            },
+            {
+              "name": {
+                "de": "Andador turístico",
+                "hu": "Andador turístico",
+                "ro": "Andador turístico",
+                "en": "Andador turístico"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vom Wagen aus, wie stark die Gischt ist, bevor Sie den Klippenweg betreten; bei Starkregen ist die Sicht auf die Felsen vom Auto aus sicherer.",
+                "hu": "Ellenőrizze a kocsiból a tenger permetének erejét, mielőtt a sziklás útra lépne; heves esőben a sziklák látványa az autóból biztonságosabb választás.",
+                "ro": "Verificați din mașină intensitatea vaporilor mării înainte de a merge pe potecă; pe ploaie torențială, vederea stâncilor din vehicul este mai sigură.",
+                "en": "Check the sea spray from the car before stepping onto the cliff path; during heavy rain, viewing the rocks from the vehicle is a much safer choice."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Benito Juárez",
+                "hu": "Monumento a Benito Juárez",
+                "ro": "Monumento a Benito Juárez",
+                "en": "Monumento a Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen rund um das Monument können bei Regen überflutet sein; fahren Sie vorsichtig und meiden Sie tiefe Wasserstellen in den tiefer gelegenen Gassen.",
+                "hu": "A szobor körüli utcák esőben víz alá kerülhetnek; vezessen óvatosan, és kerülje a mélyebb vizes szakaszokat az alacsonyabban fekvő mellékutcákban.",
+                "ro": "Străzile din jurul monumentului pot fi inundate pe ploaie; conduceți cu prudență și evitați porțiunile cu apă adâncă din străzile lăturalnice joase.",
+                "en": "The streets around the monument can get flooded during rain; drive cautiously and avoid deep water patches in the lower-lying side streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al ahogado, Las Manos",
+                "hu": "Monumento al ahogado, Las Manos",
+                "ro": "Monumento al ahogado, Las Manos",
+                "en": "Monumento al ahogado, Las Manos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die beleuchtete Skulptur im Regen direkt aus der Frontscheibe sehen können; genießen Sie das Naturschauspiel ohne nass zu werden.",
+                "hu": "Parkoljon úgy, hogy a megvilágított szobrot esőben is közvetlenül a szélvédőn át láthassa; élvezze a természet erejét anélkül, hogy bőrig ázna.",
+                "ro": "Parcați astfel încât să puteți vedea sculptura iluminată direct prin parbriz în timp ce plouă; bucurați-vă de spectacolul naturii fără a vă uda.",
+                "en": "Park so you can see the illuminated sculpture directly through the windshield while it rains; enjoy the power of nature without getting soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist Puerto Escondido perfekt für eine Autotour zu den Stränden. Wir beginnen am Playa Bacocho und fahren weiter zu den Beach Clubs bei angenehmen Temperaturen. Mittags besuchen wir das Taller libre, wenn das Licht am schönsten ist. Da die Sonne gegen 17:00 Uhr untergeht, planen wir unsere Route so, dass wir die Monumente und den Sonnenuntergang stressfrei im kühleren Abend erreichen.",
+            "hu": "Télen Puerto Escondido tökéletes helyszín egy autós strandtúrához. A Playa Bacochónál kezdünk, majd a Beach Clubok felé vesszük az irányt a kellemes időben. Délben a Pincel Mágico műhelyt látogatjuk meg, amikor a fények a legszebbek. Mivel a nap 17 óra körül nyugszik, úgy tervezzük az utat, hogy a szobrokat és a naplementét már a hűvösebb esti órákban érjük el.",
+            "ro": "Iarna, Puerto Escondido este locația perfectă pentru un tur auto al plajelor. Începem la Playa Bacocho, apoi ne îndreptăm spre cluburile de plajă pe vreme plăcută. La prânz vizităm atelierul de pictură, când lumina este cea mai frumoasă. Deoarece soarele apune în jur de ora 17:00, ne planificăm traseul pentru a vedea monumentele și apusul pe răcoare.",
+            "en": "In winter, Puerto Escondido is the perfect location for a beach tour by car. We start at Playa Bacocho, then head towards the beach clubs in pleasant weather. At noon, we visit the painting workshop when the light is at its best. Since the sun sets around 5 PM, we plan our route to reach the monuments and the sunset during the cooler evening hours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Bacocho",
+                "hu": "Playa Bacocho",
+                "ro": "Playa Bacocho",
+                "en": "Playa Bacocho"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter oft voll, kommen Sie also früh am Morgen an; die milde Meeresbrise ist ideal für einen ersten Strandspaziergang.",
+                "hu": "A parkolók télen hamar megtelnek a főszezon miatt, érdemes korán érkezni; az enyhe tengeri szellő ideális egy korai sétához a homokos parton.",
+                "ro": "Parcările se umplu rapid iarna fiind plin sezon, deci veniți devreme; briza blândă a mării este ideală pentru o primă plimbare pe plajă.",
+                "en": "Parking lots fill up fast in winter due to peak season, so arrive early; the mild sea breeze is ideal for an early stroll along the sandy shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach Club Cocos",
+                "hu": "Beach Club Cocos",
+                "ro": "Beach Club Cocos",
+                "en": "Beach Club Cocos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Valet-Service, falls verfügbar, da es im Winter sehr belebt ist; genießen Sie den Pool bei den angenehmen Tagestemperaturen.",
+                "hu": "Használja a parkolóinas szolgáltatást, ha elérhető, mert télen nagy a forgalom; élvezze a medencét a rendkívül kellemes nappali hőmérséklet mellett.",
+                "ro": "Folosiți serviciul de valet parking dacă este disponibil, fiind trafic mare iarna; bucurați-vă de piscină la temperaturile diurne foarte plăcute.",
+                "en": "Use the valet service if available, as traffic is heavy in winter; enjoy the pool while taking advantage of the very pleasant daytime temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Coral",
+                "hu": "Playa Coral",
+                "ro": "Playa Coral",
+                "en": "Playa Coral"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet im Winter eine gute Aussicht auf die Bucht; nutzen Sie die Klimaanlage im Wagen nur sparsam, die Außenluft ist nun sehr erfrischend.",
+                "hu": "A parkolóból télen remek kilátás nyílik az öbölre; a légkondicionálót csak mérsékelten használja, a kinti levegő ilyenkor rendkívül frissítő.",
+                "ro": "Parcarea oferă o vedere excelentă spre golf iarna; folosiți aerul condiționat cu moderație, deoarece aerul de afară este foarte revigorant acum.",
+                "en": "The parking area offers a great view of the bay in winter; use the air conditioning sparingly as the outside air is very refreshing at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Taller libre \"El pincel mágico\"",
+                "hu": "Taller libre \"El pincel mágico\"",
+                "ro": "Taller libre \"El pincel mágico\"",
+                "en": "Taller libre \"El pincel mágico\""
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen schattigen Parkplatz, damit der Wagen für die Weiterfahrt kühl bleibt; die Wintersonne ist stark, auch wenn die Lufttemperatur mild ist.",
+                "hu": "Keressen árnyékos parkolót, hogy az autó hűvös maradjon a továbbinduláshoz; a téli nap ereje csalóka lehet, bár a levegő hőmérséklete kellemes.",
+                "ro": "Căutați un loc de parcare la umbră pentru ca mașina să rămână răcoroasă; puterea soarelui de iarnă este înșelătoare, chiar dacă aerul este blând.",
+                "en": "Look for a shaded parking spot so the car stays cool for the next leg; the winter sun's strength is deceptive even if the air temperature is mild."
+              }
+            },
+            {
+              "name": {
+                "de": "Andador turístico",
+                "hu": "Andador turístico",
+                "ro": "Andador turístico",
+                "en": "Andador turístico"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Eingang des Andador vor 16:30 Uhr, um einen Platz zu sichern; das frühe Abendlicht ist fantastisch für Panoramaaufnahmen aus dem Fenster.",
+                "hu": "Parkoljon a sétány bejáratánál 16:30 előtt, hogy biztosítson magának helyet; a kora esti fények fantasztikusak a kocsi ablakából készített fotókhoz.",
+                "ro": "Parcați la intrarea pe faleză înainte de ora 16:30 pentru a vă asigura un loc; lumina serii este fantastică pentru fotografii făcute din mașină.",
+                "en": "Park at the walkway entrance before 4:30 PM to secure a spot; the early evening light is fantastic for panoramic photos taken from the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Benito Juárez",
+                "hu": "Monumento a Benito Juárez",
+                "ro": "Monumento a Benito Juárez",
+                "en": "Monumento a Benito Juárez"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Denkmal im weichen Winterlicht; da es nach 17:00 Uhr kühler wird, ist das Auto für den Rückweg angenehm beheizt.",
+                "hu": "Élvezze a szobor látványát a lágy téli fényekben; mivel 17 óra után hűvösebbé válik az idő, a kocsi kellemes menedéket nyújt a visszaúton.",
+                "ro": "Bucurați-vă de vederea monumentului în lumina blândă de iarnă; deoarece se răcește după ora 17:00, mașina oferă un refugiu plăcut la întoarcere.",
+                "en": "Enjoy the view of the monument in the soft winter light; as it gets cooler after 5 PM, the car provides a comfortable retreat for the way back."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al ahogado, Las Manos",
+                "hu": "Monumento al ahogado, Las Manos",
+                "ro": "Monumento al ahogado, Las Manos",
+                "en": "Monumento al ahogado, Las Manos"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den frühen Sonnenuntergang; halten Sie eine Jacke griffbereit, falls Sie für ein Foto kurz aus dem warmen Auto aussteigen möchten.",
+                "hu": "Ideális helyszín a korai naplementéhez; tartson egy kabátot kéznél, ha egy fotó erejéig ki szeretne szállni a fűtött autóból a hűvös parti szélbe.",
+                "ro": "Locul ideal pentru apusul timpuriu; țineți o jachetă la îndemână dacă doriți să coborâți din mașină pentru o poză în briza răcoroasă.",
+                "en": "An ideal location for the early sunset; keep a jacket handy if you want to step out of the warm car for a photo in the cool coastal breeze."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A gyalogtúra a helyi történelembe való elmélyüléssel kezdődik a Maison du Patrimoine-ban. Délben egy sétával eljut a modern Église Saint-Erkonwaldhoz. Délután délkelet felé veszi az irányt, hogy megcsodálja az impozáns Château d'Orchert és a Szajna torkolatára nyíló kilátást. Az estét a két rusztikus templom, a Saint-Michel és a Saint-Pierre et Saint-Paul békés meglátogatása zárja.",
         "ro": "Turul pietonal începe cu istoria locală la Maison du Patrimoine. La prânz veți face o scurtă plimbare până la moderna biserică Saint-Erkonwald. După-amiaza vă veți îndrepta spre sud-est pentru a admira impunătorul Château d'Orcher cu priveliștea sa asupra estuarului Senei. Seara se încheie la două biserici rustice, Saint-Michel și Saint-Pierre et Saint-Paul, prezentând moștenirea regiunii.",
         "en": "Your walk begins with local history at the unique Maison du Patrimoine, setting a thoughtful tone. Midday brings a short stroll to the modern Église Saint-Erkonwald, offering architectural contrast. In the afternoon, head southeast to marvel at Château d'Orcher and its magnificent estuary views. The evening wraps up peacefully at two rustic churches, Église Saint-Michel and Saint-Pierre et Saint-Paul."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Museum, um trocken zu bleiben. Mittags bieten die Kirchen Schutz vor Schauern. Am Nachmittag ist der Weg zum Schloss vielleicht schlammig, aber die Aussicht lohnt sich. Beenden Sie den Tag bei reflektierenden Lichtern auf den nassen Straßen.",
+            "hu": "A napot a múzeumban indítjuk, hogy fedett helyen maradjunk. Délben a templomok nyújtanak menedéket a záporok elől. Délután a kastélyhoz vezető út sáros lehet, de a látvány kárpótol. Az estét a vizes aszfalton megcsillanó fények teszik hangulatossá.",
+            "ro": "Începeți ziua la muzeu pentru a rămâne la adăpost. La prânz, bisericile oferă refugiu împotriva averselor. După-amiaza, drumul spre castel poate fi noroios, dar priveliștea merită. Încheiați ziua cu luminile reflectate pe străzile umede.",
+            "en": "Start the day at the museum to stay under cover. At noon, the local churches provide shelter from the showers. In the afternoon, the path to the castle might be muddy, but the view is worth it. End the day with city lights reflecting on the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Patrimoine et des Cités Provisoires",
+                "hu": "Maison du Patrimoine et des Cités Provisoires",
+                "ro": "Maison du Patrimoine et des Cités Provisoires",
+                "en": "Maison du Patrimoine et des Cités Provisoires"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Museum zur Nachkriegsgeschichte, das einen trockenen Rückzugsort vor dem Regen bietet, während Sie mehr über die lokale Entwicklung erfahren.",
+                "hu": "Látogasson el a háború utáni időket bemutató múzeumba, ahol a fedett kiállítótér kiváló menedéket nyújt a záporok elől, miközben a város fejlődéséről tanulhat.",
+                "ro": "Vizitați acest muzeu despre istoria postbelică, care oferă un refugiu uscat împotriva ploii în timp ce învățați despre evoluția locală și patrimoniu.",
+                "en": "Explore the post-war history in this dry indoor museum, which offers the perfect refuge from the rain while you learn about the local urban evolution."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Erkonwald",
+                "hu": "Église Saint-Erkonwald",
+                "ro": "Église Saint-Erkonwald",
+                "en": "Église Saint-Erkonwald"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur dieser Kirche bietet nicht nur Schutz vor dem Regen, sondern auch eine ruhige Atmosphäre für eine kurze Pause im Trockenen.",
+                "hu": "A templom modern építészete nemcsak esztétikai élményt nyújt, hanem biztonságos menedéket is az eső elől, ahol megpihenhet a következő megálló előtt.",
+                "ro": "Arhitectura modernă a acestei biserici oferă nu doar o experiență estetică, ci și un adăpost sigur împotriva ploii, unde vă puteți odihni puțin.",
+                "en": "The modern architecture of this church offers not only an aesthetic experience but also a safe shelter from the rain where you can rest for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Orcher",
+                "hu": "Château d'Orcher",
+                "ro": "Château d'Orcher",
+                "en": "Château d'Orcher"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Seine von der Festung aus; tragen Sie festes Schuhwerk, da die Gartenwege bei Regen rutschig und schlammig sein können.",
+                "hu": "Élvezze a Szajnára nyíló kilátást az erődből; viseljen vízálló cipőt, mivel a kert ösvényei esős időben csúszósak és sárosak lehetnek a séta során.",
+                "ro": "Bucurați-vă de vederea spre Sena din fortăreață; purtați încălțăminte impermeabilă, deoarece potecile grădinii pot fi alunecoase și noroioase pe ploaie.",
+                "en": "Enjoy the view of the Seine from the fortress; wear waterproof shoes as the garden paths can be slippery and muddy during rainy weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Michel",
+                "hu": "Église Saint-Michel",
+                "ro": "Église Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt in dieser historischen Kirche, um den Schauer abzuwarten und die sakrale Kunst im Inneren ganz in Ruhe zu bewundern.",
+                "hu": "Használja ki a tartózkodást ebben a történelmi templomban, hogy kivárja a zápor végét, miközben nyugodtan megcsodálja a belső szakrális művészeti kincseket.",
+                "ro": "Profită de șederea în această biserică istorică pentru a aștepta trecerea aversei, în timp ce admiri în liniște comorile de artă sacră din interior.",
+                "en": "Take advantage of your stay in this historical church to wait out the shower while quietly admiring the sacred art treasures inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Dieser letzte Stopp bietet eine trockene Umgebung, um die Tour abzuschließen; vergessen Sie nicht, Ihren Regenschirm vor dem Betreten gut auszuschütteln.",
+                "hu": "Ez az utolsó állomás száraz környezetet biztosít a túra befejezéséhez; ne felejtse el jól kirázni az esernyőjét, mielőtt belépne a belső térbe.",
+                "ro": "Această ultimă oprire oferă un mediu uscat pentru a finaliza turul; nu uitați să scuturați bine umbrela înainte de a intra în spațiul interior.",
+                "en": "This final stop provides a dry environment to conclude the tour; don't forget to shake your umbrella well before entering the interior space."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am kalten Morgen im beheizten Museum. Mittags wärmen die Kirchenräume auf. Der Nachmittag am Schloss ist windig, bietet aber klare Winteransichten. Da es gegen 17:00 Uhr dunkel wird, genießen Sie die beleuchtete Stadt am Abend.",
+            "hu": "A hideg reggelt a fűtött múzeumban kezdjük. Délben a templomok belső terei nyújtanak melegséget. A délutáni kastélylátogatás szeles lehet, de tiszta téli panorámát kínál. Mivel 17 óra körül sötétedik, az estét már a kivilágított városban töltjük.",
+            "ro": "Începeți dimineața rece la muzeul încălzit. La prânz, interioarele bisericilor oferă căldură. Vizita de după-amiază la castel poate fi vântoasă, dar oferă o panoramă clară. Deoarece se întunecă în jur de ora 17, petreceți seara în orașul iluminat.",
+            "en": "Start the cold morning in the heated museum. At noon, the church interiors provide warmth. The afternoon visit to the castle might be windy but offers clear winter panoramas. As it gets dark around 5 PM, spend the evening in the lit city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Patrimoine et des Cités Provisoires",
+                "hu": "Maison du Patrimoine et des Cités Provisoires",
+                "ro": "Maison du Patrimoine et des Cités Provisoires",
+                "en": "Maison du Patrimoine et des Cités Provisoires"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Museum ist der ideale Ort, um sich an einem frostigen Morgen aufzuwärmen, während man tief in die Geschichte der Stadt eintaucht.",
+                "hu": "A jól fűtött múzeum ideális hely a felmelegedésre egy fagyos reggelen, miközben elmélyedhet a város különleges újjáépítési történetében.",
+                "ro": "Muzeul bine încălzit este locul ideal pentru a vă încălzi într-o dimineață geroasă, în timp ce vă cufundați în istoria specială a orașului.",
+                "en": "The well-heated museum is the ideal place to warm up on a frosty morning while immersing yourself in the town's unique reconstruction history."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Erkonwald",
+                "hu": "Église Saint-Erkonwald",
+                "ro": "Église Saint-Erkonwald",
+                "en": "Église Saint-Erkonwald"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche zur Mittagszeit, um der Kälte zu entfliehen; die dicken Mauern schützen gut vor dem beißenden Winterwind von draußen.",
+                "hu": "Látogassa meg a templomot délidőben, hogy elmeneküljön a hideg elől; a vastag falak jól védenek a kinti metsző téli széllel szemben.",
+                "ro": "Vizitați biserica la prânz pentru a scăpa de frig; pereții groși oferă o protecție bună împotriva vântului tăios de iarnă de afară.",
+                "en": "Visit the church at noon to escape the cold; the thick walls provide good protection against the biting winter wind blowing outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Orcher",
+                "hu": "Château d'Orcher",
+                "ro": "Château d'Orcher",
+                "en": "Château d'Orcher"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie mehrere Schichten Kleidung für den Spaziergang im Park, da die Brise von der Seine im Winter besonders kalt und intensiv sein kann.",
+                "hu": "Öltözzön rétegesen a parkban tett sétához, mivel a Szajna felől érkező szellő télen különösen hideg és intenzív lehet a kastély környékén.",
+                "ro": "Îmbrăcați-vă în straturi pentru plimbarea în parc, deoarece briza care vine dinspre Sena poate fi deosebit de rece și intensă iarna lângă castel.",
+                "en": "Dress in layers for the walk in the park, as the breeze coming from the Seine can be particularly cold and intense in winter around the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Michel",
+                "hu": "Église Saint-Michel",
+                "ro": "Église Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht, um die Fassade zu bewundern, bevor die frühe Dämmerung einsetzt und die Details der Kirche im Dunkeln verschwinden.",
+                "hu": "Használja ki az utolsó nappali fényeket a homlokzat megcsodálására, mielőtt beáll a korai szürkület, és a templom részletei sötétségbe borulnak.",
+                "ro": "Profitați de ultimele lumini ale zilei pentru a admira fațada, înainte de lăsarea amurgului timpuriu și înainte ca detaliile bisericii să dispară în întuneric.",
+                "en": "Take advantage of the last daylight to admire the facade before the early dusk sets in and the church details are covered by darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im Warmen, während draußen die Dunkelheit hereinbricht; die Beleuchtung der Kirche wirkt im Winter besonders stimmungsvoll.",
+                "hu": "Fejezze be a túrát itt a melegben, miközben kint leszáll az est; a templom világítása télen különösen hangulatos látványt nyújt.",
+                "ro": "Încheiați turul aici, la căldură, în timp ce afară se lasă seara; iluminarea bisericii oferă o priveliște deosebit de primitoare iarna.",
+                "en": "Finish your tour here in the warmth as evening falls outside; the church lighting provides a particularly atmospheric sight in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros kalandját a történelmi Colombier de Bévilliers-nél, majd pedálozzon a közeli udvarházhoz. Délre az útvonal a bájos Notre-Dame-de-la-Consolation és a Saint-Martin templomok mellett halad el. A délutánt a Maison du Patrimoine gazdag kiállításainak felfedezésére szánja, hűvös pihenőt tartva. Az esti kerékpározás a Saint-Erkonwaldnál tett megállóval és a fenséges Château d'Orcher körüli naplementés sétával zárul gyönyörűen.",
         "ro": "Începeți aventura pe bicicletă la istoricul Colombier de Bévilliers, înainte de a pedala spre conacul din apropiere. Până la prânz, traseul vă poartă pe lângă fermecătoarele biserici Notre-Dame-de-la-Consolation și Saint-Martin. După-amiaza este dedicată explorării expozițiilor bogate de la Maison du Patrimoine, oferind un răgaz răcoros. Călătoria de seară se încheie frumos cu o oprire la Saint-Erkonwald și o plimbare la apus de soare în jurul mărețului Château d'Orcher.",
         "en": "Kick off your adventure at the historic Colombier de Bévilliers, admiring the dovecote before pedaling to the nearby Manoir. By midday, your route takes you past Église Notre-Dame-de-la-Consolation and Église Saint-Martin. The afternoon is for exploring the rich exhibits of the Maison du Patrimoine. Your evening concludes with a stop at Saint-Erkonwald and a sunset walk at Château d'Orcher."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig auf nassen Straßen zu den historischen Stätten. Mittags bieten Kirchen Schutz vor Regenpausen. Der Nachmittag im Museum ist ideal zum Abtrocknen. Achten Sie auf rutschige Kurven und tragen Sie wasserfeste Kleidung während der gesamten Fahrt.",
+            "hu": "Óvatosan kerekezzen a vizes utakon a történelmi helyszínek felé. Délben a templomok nyújtanak menedéket az eső elől. A délutáni múzeumlátogatás tökéletes a száradáshoz. Ügyeljen a csúszós kanyarokra és viseljen vízálló ruházatot az út során.",
+            "ro": "Pedalați cu atenție pe drumurile ude spre siturile istorice. La prânz, bisericile oferă adăpost în timpul pauzelor de ploaie. Vizita de după-amiază la muzeu este ideală pentru a vă usca. Atenție la curbele alunecoase și purtați haine impermeabile.",
+            "en": "Cycle carefully on wet roads towards the historical sites. At noon, churches provide shelter during rain breaks. The afternoon museum visit is ideal for drying off. Watch out for slippery curves and wear waterproof clothing throughout the trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Colombier de Bévilliers",
+                "hu": "Colombier de Bévilliers",
+                "ro": "Colombier de Bévilliers",
+                "en": "Colombier de Bévilliers"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Vorsprüngen des Taubenschlags Schutz vor dem Regen und bewundern Sie die historische Architektur aus einer trockenen Perspektive.",
+                "hu": "Keressen menedéket a galambdúc ereszei alatt az eső elől, és csodálja meg a történelmi építészetet egy szárazabb nézőpontból.",
+                "ro": "Căutați adăpost sub streșinile porumbarului pentru a vă feri de ploaie și admirați arhitectura istorică dintr-o perspectivă mai uscată.",
+                "en": "Seek shelter under the eaves of the dovecote to escape the rain and admire the historical architecture from a drier perspective."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Bévilliers",
+                "hu": "Manoir de Bévilliers",
+                "ro": "Manoir de Bévilliers",
+                "en": "Manoir de Bévilliers"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade des Herrenhauses wirkt bei Regen besonders markant; stellen Sie Ihr Fahrrad an einem geschützten Ort ab, um die Details in Ruhe zu betrachten.",
+                "hu": "Az udvarház homlokzata esőben különösen markánsnak tűnik; parkolja le kerékpárját egy védett helyen, hogy nyugodtan megfigyelhesse a részleteket.",
+                "ro": "Fațada conacului pare deosebit de frapantă în ploaie; parcați bicicleta într-un loc protejat pentru a observa detaliile în liniște.",
+                "en": "The manor's facade looks particularly striking in the rain; park your bike in a protected spot to observe the details in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-la-Consolation",
+                "hu": "Église Notre-Dame-de-la-Consolation",
+                "ro": "Église Notre-Dame-de-la-Consolation",
+                "en": "Église Notre-Dame-de-la-Consolation"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Regenpause im Trockenen; nutzen Sie die Zeit, um die besinnliche Ruhe und die Architektur des Innenraums zu genießen.",
+                "hu": "Ideális hely egy száraz pihenőre az esőben; használja ki az időt a belső tér megnyugtató csendjének és építészetének élvezetére.",
+                "ro": "Un loc ideal pentru o pauză uscată în ploaie; profitați de timp pentru a vă bucura de liniștea reconfortantă și de arhitectura interiorului.",
+                "en": "An ideal place for a dry break in the rain; use the time to enjoy the comforting silence and the architecture of the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf Pfützen und rutschiges Laub; die Kirche bietet danach einen herzlichen und trockenen Empfang für Radfahrer.",
+                "hu": "Útközben ügyeljen a tócsákra és a csúszós levelekre; a templom ezután meleg és száraz fogadtatást nyújt a kerékpárosoknak.",
+                "ro": "Pe drum, atenție la bălți și frunze alunecoase; biserica oferă apoi o primire caldă și uscată pentru bicicliști.",
+                "en": "On the way, watch out for puddles and slippery leaves; the church then provides a warm and dry welcome for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine et des Cités Provisoires",
+                "hu": "Maison du Patrimoine et des Cités Provisoires",
+                "ro": "Maison du Patrimoine et des Cités Provisoires",
+                "en": "Maison du Patrimoine et des Cités Provisoires"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den längeren Aufenthalt im Museum, um sich vollständig von der regnerischen Fahrt aufzuwärmen und abzutrocknen.",
+                "hu": "Parkolja le biztonságosan a kerékpárját, és használja ki a múzeumban töltött időt, hogy teljesen felmelegedjen és megszáradjon az esős út után.",
+                "ro": "Parcați bicicleta în siguranță și profitați de timpul petrecut în muzeu pentru a vă încălzi și usca complet după drumul ploios.",
+                "en": "Park your bike safely and take advantage of the time in the museum to fully warm up and dry off after the rainy journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Erkonwald",
+                "hu": "Église Saint-Erkonwald",
+                "ro": "Église Saint-Erkonwald",
+                "en": "Église Saint-Erkonwald"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Struktur bietet exzellenten Schutz; prüfen Sie Ihre Bremsen vor der Weiterfahrt, da Nässe die Bremswirkung Ihres Fahrrads verringern kann.",
+                "hu": "A modern szerkezet kiváló védelmet nyújt; ellenőrizze a fékeket a továbbindulás előtt, mivel a nedvesség csökkentheti a kerékpár fékhatását.",
+                "ro": "Structura modernă oferă o protecție excelentă; verificați frânele înainte de a pleca, deoarece umezeala poate reduce eficiența frânării bicicletei.",
+                "en": "The modern structure offers excellent protection; check your brakes before continuing, as moisture can reduce the braking efficiency of your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Orcher",
+                "hu": "Château d'Orcher",
+                "ro": "Château d'Orcher",
+                "en": "Château d'Orcher"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Anstieg kann bei Regen anstrengend sein; genießen Sie die triumphale Aussicht und tragen Sie eine Regenjacke gegen den Wind auf der Höhe.",
+                "hu": "Az utolsó emelkedő megterhelő lehet esőben; élvezze a kilátást, és viseljen esőkabátot a magasan fújó szél ellen a kastély környékén.",
+                "ro": "Ultima urcare poate fi solicitantă în ploaie; bucurați-vă de priveliște și purtați o pelerină de ploaie împotriva vântului de la înălțime lângă castel.",
+                "en": "The final climb can be demanding in the rain; enjoy the view and wear a raincoat against the wind at the top around the castle area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am frostigen Morgen gut eingepackt. Mittags bieten Kirchen eine willkommene Aufwärmpause. Der Museumsbesuch am Nachmittag ist perfekt gegen die Kälte. Da es früh dunkel wird, beenden Sie Ihre Tour bei Licht am Schloss vor 17:00 Uhr.",
+            "hu": "Induljon el jól felöltözve a fagyos reggelen. Délben a templomok szívesen látott meleg pihenőt nyújtanak. A délutáni múzeumlátogatás tökéletes a hideg ellen. Mivel korán sötétedik, fejezze be a túrát a kastélynál még 17 óra előtt.",
+            "ro": "Porniți bine îmbrăcați în dimineața geroasă. La prânz, bisericile oferă o pauză caldă binevenită. Vizita la muzeu de după-amiază este perfectă împotriva frigului. Deoarece se întunecă devreme, terminați turul la castel înainte de ora 17.",
+            "en": "Start well-wrapped in the frosty morning. At noon, the churches offer a welcome warm break. The afternoon museum visit is perfect against the cold. As it gets dark early, finish your tour at the castle before 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Colombier de Bévilliers",
+                "hu": "Colombier de Bévilliers",
+                "ro": "Colombier de Bévilliers",
+                "en": "Colombier de Bévilliers"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf den Taubenschlag frei; tragen Sie warme Handschuhe, da der Metalllenker Ihres Rades im Winter sehr kalt wird.",
+                "hu": "A kopár fák szabaddá teszik a kilátást a galambdúcra; viseljen meleg kesztyűt, mivel a kerékpár fém kormánya télen nagyon lehűlhet.",
+                "ro": "Copacii golași lasă la vedere porumbarul; purtați mănuși groase, deoarece ghidonul metalic al bicicletei devine foarte rece iarna.",
+                "en": "The bare trees reveal a clear view of the dovecote; wear warm gloves as the metal handlebars of your bike get very cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Bévilliers",
+                "hu": "Manoir de Bévilliers",
+                "ro": "Manoir de Bévilliers",
+                "en": "Manoir de Bévilliers"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historischen Linien des Herrenhauses im klaren Winterlicht; eine kurze Pause hilft, die Durchblutung in den Fingern anzuregen.",
+                "hu": "Csodálja meg az udvarház történelmi vonalait a tiszta téli fényben; egy rövid pihenő segít felfrissíteni a vérkeringést az ujjaiban.",
+                "ro": "Admirați liniile istorice ale conacului în lumina clară de iarnă; o scurtă pauză ajută la stimularea circulației sângelui în degete.",
+                "en": "Admire the historical lines of the manor in the clear winter light; a short break helps to stimulate blood circulation in your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-la-Consolation",
+                "hu": "Église Notre-Dame-de-la-Consolation",
+                "ro": "Église Notre-Dame-de-la-Consolation",
+                "en": "Église Notre-Dame-de-la-Consolation"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort für eine Pause; nutzen Sie die Zeit, um sich für die nächste Etappe Ihrer Wintertour aufzuwärmen.",
+                "hu": "A templom szélvédett helyet kínál a pihenésre; használja ki az időt a felmelegedésre a téli túra következő szakasza előtt.",
+                "ro": "Biserica oferă un loc ferit de vânt pentru odihnă; profitați de timp pentru a vă încălzi înainte de următoarea etapă a turului de iarnă.",
+                "en": "The church offers a wind-sheltered spot for a break; use the time to warm up before the next stage of your winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der Kirche, während Sie sich vom Fahrtwind erholen; achten Sie auf mögliche Glätte auf den Nebenwegen zur Kirche.",
+                "hu": "Élvezze a templom nyugalmát, miközben kipiheni a menetszelet; ügyeljen az esetleges jegesedésre a templomhoz vezető mellékutakon.",
+                "ro": "Bucurați-vă de liniștea bisericii în timp ce vă odihniți după vântul de drum; atenție la posibilele porțiuni înghețate de pe drumurile secundare.",
+                "en": "Enjoy the peace of the church while recovering from the wind chill; watch out for possible icy spots on the side roads to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine et des Cités Provisoires",
+                "hu": "Maison du Patrimoine et des Cités Provisoires",
+                "ro": "Maison du Patrimoine et des Cités Provisoires",
+                "en": "Maison du Patrimoine et des Cités Provisoires"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp am Nachmittag, um die Kälte draußen zu lassen; die geheizten Ausstellungsräume sind eine Wohltat für winterliche Radfahrer.",
+                "hu": "Tökéletes délutáni megálló, hogy kint hagyja a hideget; a fűtött kiállítótermek valóságos áldást jelentenek a téli kerékpárosok számára.",
+                "ro": "O oprire perfectă după-amiaza pentru a lăsa frigul afară; sălile de expoziție încălzite sunt o binecuvântare pentru bicicliștii de iarnă.",
+                "en": "A perfect afternoon stop to leave the cold outside; the heated exhibition rooms are a true blessing for winter cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Erkonwald",
+                "hu": "Église Saint-Erkonwald",
+                "ro": "Église Saint-Erkonwald",
+                "en": "Église Saint-Erkonwald"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz auf, bevor die Sonne tiefer sinkt; prüfen Sie Ihre Beleuchtung, da die Sichtverhältnisse im Winter oft schlechter sind.",
+                "hu": "Melegedjen fel egy kicsit, mielőtt a nap lejjebb süllyed; ellenőrizze a világítást, mivel télen a látási viszonyok gyakran rosszabbak.",
+                "ro": "Încălziți-vă puțin înainte ca soarele să apună mai jos; verificați luminile, deoarece vizibilitatea este adesea mai slabă iarna.",
+                "en": "Warm up for a bit before the sun sinks lower; check your lights as visibility conditions are often poorer during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Orcher",
+                "hu": "Château d'Orcher",
+                "ro": "Château d'Orcher",
+                "en": "Château d'Orcher"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winterlicht majestätisch; beenden Sie die Besichtigung zügig, um noch vor der völligen Dunkelheit sicher heimzuradeln.",
+                "hu": "A kastély fenségesen mutat a téli fényben; fejezze be időben a látogatást, hogy még a teljes sötétség előtt biztonságban hazatekerhessen.",
+                "ro": "Castelul arată maiestuos în lumina iernii; finalizați vizita la timp pentru a pedala în siguranță spre casă înainte de întunericul deplin.",
+                "en": "The castle looks majestic in the winter light; finish your visit in time to cycle home safely before the total darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "Autós túrája északon, az Église Saint-Martinnál kezdődik, majd zökkenőmentesen átugrik a Notre-Dame-de-la-Consolation templomhoz a reggeli csendben. A dél tökéletes a történelmi Bévilliers birtok, a kúria és a galambdúc felfedezésére. Délután merüljön el a történelemben a Maison du Patrimoine-ban, mielőtt megcsodálja a Saint-Pierre et Saint-Paul és a Saint-Michel templomok örökségét. A nap a Château d'Orcher pompájával és a Saint-Erkonwald esti pillanatával csúcsosodik ki.",
         "ro": "Turul cu mașina începe în nord, la Église Saint-Martin, sărind la Notre-Dame-de-la-Consolation pentru a savura liniștea dimineții. Prânzul este perfect pentru a explora domeniul istoric Bévilliers, vizitând atât conacul, cât și legendarul Colombier. După-amiaza, pătrundeți în istoria locală la Maison du Patrimoine înainte de a admira bisericile Saint-Pierre et Saint-Paul și Saint-Michel. Ziua culminează cu măreția Château d'Orcher și un ultim moment la biserica Saint-Erkonwald.",
         "en": "Your driving tour starts in the north at Église Saint-Martin, moving to Notre-Dame-de-la-Consolation in the morning quiet. Midday is perfect for exploring the historic Bévilliers estate. In the afternoon, dive into local history at the Maison du Patrimoine before admiring the heritage at two local churches. The day culminates with the grandeur of Château d'Orcher and a stop at Saint-Erkonwald."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Tour bequem im Auto, während der Regen prasselt. Mittags bieten Kirchen trockene Haltepunkte. Am Nachmittag ist das Museum der ideale Ort zum Verweilen. Da das Parken einfach ist, können Sie jeden Stopp ohne nass zu werden erreichen.",
+            "hu": "Élvezze a túrát kényelmesen az autóban, miközben kint kopog az eső. Délben a templomok nyújtanak száraz megállókat. Délután a múzeum az ideális hely az időtöltésre. Mivel a parkolás egyszerű, minden állomást elérhet anélkül, hogy megázna.",
+            "ro": "Bucurați-vă de tur confortabil în mașină, în timp ce ploaia bate în geam. La prânz, bisericile oferă puncte de oprire uscate. După-amiaza, muzeul este locul ideal de petrecere a timpului. Parcarea fiind ușoară, ajungeți la fiecare obiectiv fără a vă uda.",
+            "en": "Enjoy the tour comfortably in your car while the rain falls outside. At noon, churches provide dry stopping points. In the afternoon, the museum is the ideal place to spend time. With easy parking, you can reach every stop without getting wet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Kirche und nutzen Sie den Schirm für den kurzen Weg zum Eingang, um die historische Architektur im Trockenen zu bewundern.",
+                "hu": "Parkoljon közvetlenül a templomnál, és használja az esernyőt a rövid úton a bejáratig, hogy szárazon csodálhassa meg a történelmi építészetet.",
+                "ro": "Parcați direct lângă biserică și folosiți umbrela pentru drumul scurt până la intrare, pentru a admira arhitectura istorică la adăpost.",
+                "en": "Park right by the church and use an umbrella for the short walk to the entrance to admire the historical architecture while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-la-Consolation",
+                "hu": "Église Notre-Dame-de-la-Consolation",
+                "ro": "Église Notre-Dame-de-la-Consolation",
+                "en": "Église Notre-Dame-de-la-Consolation"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto ins Innere lohnt sich; genießen Sie die friedliche Atmosphäre der Kirche, während draußen der Regen gegen die Scheiben peitscht.",
+                "hu": "Érdemes egy rövid sprinttel bejutni az autóból; élvezze a templom békés hangulatát, miközben kint az eső veri az ablakokat.",
+                "ro": "Merită un sprint scurt din mașină până în interior; bucurați-vă de atmosfera liniștită a bisericii în timp ce afară ploaia bate în ferestre.",
+                "en": "A short sprint from the car to the inside is worth it; enjoy the peaceful atmosphere of the church while the rain beats against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Bévilliers",
+                "hu": "Manoir de Bévilliers",
+                "ro": "Manoir de Bévilliers",
+                "en": "Manoir de Bévilliers"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die prachtvolle Fassade zunächst aus dem Auto; die Zufahrt kann bei starkem Regen rutschig sein, fahren Sie daher besonders vorsichtig.",
+                "hu": "Csodálja meg a pompás homlokzatot először az autóból; a feljáró heves esőzéskor csúszós lehet, ezért vezessen különös óvatossággal.",
+                "ro": "Admirați fațada splendidă mai întâi din mașină; aleea de acces poate fi alunecoasă la ploi torențiale, așa că conduceți cu multă prudență.",
+                "en": "Admire the splendid facade from the car first; the driveway can be slippery during heavy rain, so drive with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Colombier de Bévilliers",
+                "hu": "Colombier de Bévilliers",
+                "ro": "Colombier de Bévilliers",
+                "en": "Colombier de Bévilliers"
+              },
+              "tip_5lang": {
+                "de": "Der Taubenschlag ist ein tolles Fotomotiv bei Regen; nutzen Sie die kurzen Regenpausen für einen schnellen Blick aus der Nähe ohne nass zu werden.",
+                "hu": "A galambdúc remek fotótéma esőben is; használja ki a rövid esőszüneteket egy gyors közeli pillantásra anélkül, hogy bőrig ázna.",
+                "ro": "Porumbarul este un subiect foto excelent chiar și pe ploaie; profitați de scurtele pauze de ploaie pentru o privire rapidă de aproape fără a vă uda.",
+                "en": "The dovecote is a great photo subject even in rain; take advantage of short rain breaks for a quick close-up look without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine et des Cités Provisoires",
+                "hu": "Maison du Patrimoine et des Cités Provisoires",
+                "ro": "Maison du Patrimoine et des Cités Provisoires",
+                "en": "Maison du Patrimoine et des Cités Provisoires"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet ausreichend Parkmöglichkeiten; es ist der perfekte Ort, um längere Zeit im Trockenen zu verbringen und die Geschichte zu erkunden.",
+                "hu": "A múzeumnál bőséges parkolási lehetőség van; tökéletes hely arra, hogy hosszabb időt töltsön szárazon, és felfedezze a helyi történelmet.",
+                "ro": "Muzeul oferă suficiente locuri de parcare; este locul perfect pentru a petrece mai mult timp la adăpost și pentru a explora istoria locală.",
+                "en": "The museum offers ample parking; it's the perfect place to spend a longer time indoors and explore the local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort Ihres Wagens für den Weg zwischen den Kirchen; so bleiben Sie den ganzen Tag über trocken und entspannt trotz des Wetters.",
+                "hu": "Használja ki autója kényelmét a templomok közötti úton; így egész nap száraz és kipihent maradhat az időjárás ellenére is.",
+                "ro": "Profitați de confortul mașinii pentru drumul dintre biserici; astfel veți rămâne uscat și relaxat toată ziua, în ciuda vremii nefavorabile.",
+                "en": "Take advantage of your car's comfort for the drive between churches; this way you'll stay dry and relaxed all day despite the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Michel",
+                "hu": "Église Saint-Michel",
+                "ro": "Église Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Pfützen in der Nähe des Parkplatzes; die Kirche bietet ein ruhiges Interieur, um dem Regen für einen Moment zu entkommen.",
+                "hu": "Kiszálláskor ügyeljen a parkoló melletti tócsákra; a templom csendes belső teret kínál, hogy egy pillanatra elmenekülhessen az eső elől.",
+                "ro": "Atenție la bălțile de lângă parcare la coborâre; biserica oferă un interior liniștit pentru a scăpa de ploaie pentru o clipă.",
+                "en": "Watch out for puddles near the parking lot when getting out; the church offers a quiet interior to escape the rain for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Orcher",
+                "hu": "Château d'Orcher",
+                "ro": "Château d'Orcher",
+                "en": "Château d'Orcher"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss ist bei Regen besonders stimmungsvoll; parken Sie nah am Eingang, um den Wind und Regen auf der Anhöhe zu minimieren.",
+                "hu": "A kastélyhoz vezető út esőben különösen hangulatos; parkoljon közel a bejárathoz, hogy minimalizálja a szelet és az esőt a dombtetőn.",
+                "ro": "Aleea spre castel este deosebit de atmosferică pe ploaie; parcați aproape de intrare pentru a minimiza expunerea la vânt și ploaie.",
+                "en": "The drive up to the castle is particularly atmospheric in the rain; park close to the entrance to minimize wind and rain exposure on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Erkonwald",
+                "hu": "Église Saint-Erkonwald",
+                "ro": "Église Saint-Erkonwald",
+                "en": "Église Saint-Erkonwald"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre bequeme Autotour in dieser modernen Kirche; prüfen Sie vor der Heimfahrt Ihre Scheibenwischer für optimale Sicht bei Regen.",
+                "hu": "Fejezze be kényelmes autós túráját ebben a modern templomban; hazaút előtt ellenőrizze az ablaktörlőket a tökéletes látási viszonyokért.",
+                "ro": "Încheiați turul auto confortabil în această biserică modernă; înainte de plecare, verificați ștergătoarele pentru o vizibilitate optimă pe ploaie.",
+                "en": "Finish your comfortable car tour in this modern church; before heading home, check your wipers for optimal visibility in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Stadt warm und trocken im Auto. Mittags bieten Kirchen beheizte Haltepunkte. Am Nachmittag lädt das Museum zu einer kulturellen Pause ein. Da es um 17:00 Uhr dunkel wird, nutzen Sie das Scheinwerferlicht für die späten Stopps am Schloss.",
+            "hu": "Fedezze fel a várost melegben és szárazon az autóban. Délben a templomok fűtött megállókat kínálnak. Délután a múzeum invitál egy kulturális pihenőre. Mivel 17 órakor sötétedik, használja a fényszórókat a későbbi kastélylátogatáshoz.",
+            "ro": "Explorați orașul la căldură și uscat în mașină. La prânz, bisericile oferă puncte de oprire încălzite. După-amiaza, muzeul invită la o pauză culturală. Deoarece se întunecă la ora 17, folosiți farurile pentru vizita târzie la castel.",
+            "en": "Explore the city warm and dry in your car. At noon, the churches offer heated stopping points. In the afternoon, the museum invites you for a cultural break. As it gets dark at 5 PM, use your headlights for the later stops at the castle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Wintertour hier; die Sitzheizung im Auto macht die kurzen Wege zwischen den historischen Stätten besonders angenehm und komfortabel.",
+                "hu": "Indítsa itt a téli túrát; az autó ülésfűtése különösen kellemessé és kényelmessé teszi a történelmi helyszínek közötti rövid utazásokat.",
+                "ro": "Începeți turul de iarnă aici; încălzirea în scaune face drumurile scurte între siturile istorice deosebit de plăcute și confortabile.",
+                "en": "Start your winter tour here; the car's seat heating makes the short drives between historical sites particularly pleasant and comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-la-Consolation",
+                "hu": "Église Notre-Dame-de-la-Consolation",
+                "ro": "Église Notre-Dame-de-la-Consolation",
+                "en": "Église Notre-Dame-de-la-Consolation"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Inneren der Kirche; achten Sie auf glatte Stellen auf dem Parkplatz bei morgendlichem Frost und Raureif.",
+                "hu": "Egy rövid megálló a templom belső felmelegedéséhez; ügyeljen a jeges foltokra a parkolóban a reggeli fagy és zúzmara idején.",
+                "ro": "O scurtă oprire pentru încălzire în interiorul bisericii; atenție la porțiunile înghețate din parcare în timpul gerului de dimineață.",
+                "en": "A short stop to warm up inside the church; watch out for icy spots in the parking lot during morning frost and rime conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Bévilliers",
+                "hu": "Manoir de Bévilliers",
+                "ro": "Manoir de Bévilliers",
+                "en": "Manoir de Bévilliers"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus wirkt im Winterlicht besonders edel; genießen Sie den Anblick kurz von draußen und kehren Sie dann ins warme Auto zurück.",
+                "hu": "Az udvarház különösen nemes látványt nyújt a téli fényben; élvezze a látványt rövid ideig kívülről, majd térjen vissza a meleg autóba.",
+                "ro": "Conacul arată deosebit de nobil în lumina iernii; bucurați-vă de priveliște scurt timp afară, apoi reveniți în mașina caldă.",
+                "en": "The manor looks particularly noble in the winter light; enjoy the sight briefly from the outside, then return to your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Colombier de Bévilliers",
+                "hu": "Colombier de Bévilliers",
+                "ro": "Colombier de Bévilliers",
+                "en": "Colombier de Bévilliers"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp am Taubenschlag ist ideal; die winterliche Klarheit sorgt für hervorragende Kontraste auf Ihren Urlaubsfotos.",
+                "hu": "Egy gyors fotómegálló a galambdúcnál ideális; a téli tisztaság kiváló kontrasztokat biztosít a nyaralási fotókhoz ebben az időszakban.",
+                "ro": "O oprire foto rapidă la porumbar este ideală; claritatea iernii oferă contraste excelente pentru fotografiile de vacanță în această perioadă.",
+                "en": "A quick photo stop at the dovecote is ideal; the winter clarity provides excellent contrasts for your vacation photos at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Patrimoine et des Cités Provisoires",
+                "hu": "Maison du Patrimoine et des Cités Provisoires",
+                "ro": "Maison du Patrimoine et des Cités Provisoires",
+                "en": "Maison du Patrimoine et des Cités Provisoires"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den längeren Aufenthalt im beheizten Museum als Herzstück Ihrer Tour, um der winterlichen Kälte für eine gute Stunde zu entfliehen.",
+                "hu": "Használja ki a fűtött múzeumban töltött hosszabb időt túrája központi elemeként, hogy legalább egy órára elmeneküljön a téli hideg elől.",
+                "ro": "Profitați de timpul prelungit în muzeul încălzit ca element central al turului, pentru a scăpa de frigul iernii timp de cel puțin o oră.",
+                "en": "Take advantage of the longer stay in the heated museum as the centerpiece of your tour to escape the winter cold for at least an hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Weiterfahrt die Frostschutzmittel Ihres Wagens; die Kirche bietet einen besinnlichen Ort, um die Winterstimmung zu genießen.",
+                "hu": "Továbbindulás előtt ellenőrizze az autó fagyállóját; a templom áhítatos helyszínt kínál a téli hangulat békés megéléséhez.",
+                "ro": "Înainte de a pleca, verificați antigelul mașinii; biserica oferă un loc de reculegere pentru a vă bucura de atmosfera de iarnă.",
+                "en": "Check your car's antifreeze before continuing; the church offers a solemn venue to peacefully experience the winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Michel",
+                "hu": "Église Saint-Michel",
+                "ro": "Église Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Die frühe Dämmerung beginnt hier oft schon; schalten Sie das Abblendlicht ein, um auf den schmalen Straßen zur Kirche gut gesehen zu werden.",
+                "hu": "Itt már gyakran elkezdődik a korai szürkület; kapcsolja be a tompított fényszórókat, hogy jól látható legyen a templomhoz vezető utakon.",
+                "ro": "Amurgul timpuriu începe adesea aici; aprindeți faza scurtă pentru a fi bine vizibil pe drumurile înguste care duc spre biserică.",
+                "en": "Early dusk often begins here; turn on your low beam headlights to be clearly visible on the narrow roads leading to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Orcher",
+                "hu": "Château d'Orcher",
+                "ro": "Château d'Orcher",
+                "en": "Château d'Orcher"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die Seine im Abendlicht vom Auto aus; die Heizung sorgt für wohlige Wärme bei der Aussicht auf die Kälte.",
+                "hu": "Élvezze a Szajnára nyíló panorámát az esti fényben az autóból; a fűtés gondoskodik a kellemes melegről a hideg táj bámulása közben.",
+                "ro": "Bucurați-vă de panorama spre Sena în lumina serii din mașină; încălzirea asigură un confort plăcut în timp ce priviți peisajul rece.",
+                "en": "Enjoy the panorama of the Seine in the evening light from the car; the heater ensures pleasant warmth while gazing at the cold landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Erkonwald",
+                "hu": "Église Saint-Erkonwald",
+                "ro": "Église Saint-Erkonwald",
+                "en": "Église Saint-Erkonwald"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei beleuchteter Kulisse; die moderne Kirche strahlt im Winterdunkel eine ganz besondere, einladende Wärme aus.",
+                "hu": "Fejezze be a napot a kivilágított díszletek között; a modern templom a téli sötétben különleges, hívogató melegséget áraszt.",
+                "ro": "Încheiați ziua în decorul iluminat; biserica modernă emană o căldură specială și primitoare în întunericul serii de iarnă.",
+                "en": "End the day amidst the illuminated scenery; the modern church radiates a special, inviting warmth in the dark winter evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

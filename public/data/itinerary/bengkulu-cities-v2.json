@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Bengkulu történelmi szívében, a nyüzsgő Tugu Simpang Lima-nál. A lágy reggeli szellő tökéletes alaphangot ad a város gyalogos felfedezéséhez.\n\nDélig áttérhet az indonéz alapító család megható történelmére. Sétáljon közvetlenül Fatmawati és Soekarno gyönyörűen megőrzött házai között.\n\nDélután a tempó megváltozik, ahogy egy helyi spirituális központ felé halad. A mecset környéke csendes pillanatot kínál a főutcáktól távol.\n\nFejezze be sétáját a Simpang Padang Jati-nál. Ez a kereszteződés ideális hely egy helyi snack elfogyasztására és a város örökségének átgondolására.",
         "ro": "Începeți dimineața în inima istorică a orașului Bengkulu, la Tugu Simpang Lima. Briza blândă este perfectă pentru a explora orașul la pas.\n\nLa prânz, treceți în istoria familiei fondatoare a Indoneziei. Veți merge între casele frumos conservate ale lui Fatmawati și Soekarno.\n\nDupă-amiaza, ritmul se schimbă în timp ce vă plimbați spre un centru spiritual local. Terenul moscheii oferă un moment liniștit de reflecție.\n\nÎncheiați-vă turul la Simpang Padang Jati. Această intersecție plină de viață este locul ideal pentru a gusta ceva local și a reflecta la patrimoniu.",
         "en": "Begin your morning in the historical heart of Bengkulu, starting at the vibrant Tugu Simpang Lima. The gentle morning breeze sets a perfect tone for exploring the city on foot.\n\nBy midday, transition into the poignant history of Indonesia's founding family. You will walk closely between the beautifully preserved houses of Fatmawati and Soekarno.\n\nIn the afternoon, the pace shifts as you stroll towards a local spiritual center. Visiting the mosque grounds provides a quiet moment of reflection away from the main streets.\n\nConclude your walking tour at Simpang Padang Jati. This lively intersection is the ideal place to grab a local snack and reflect on the deep heritage of this Sumatran city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Tugu Simpang Lima unter dem Schutz von Regenschirmen. Mittags bieten die historischen Häuser von Fatmawati und Soekarno perfekten trockenen Unterschlupf für Kulturinteressierte. Am Nachmittag finden Sie in der Masjid Khalifah spirituelle Ruhe, während der Regen draußen prasselt. Der Abend endet am Padang Jati, wo sich die Stadtlichter in den nassen Straßen spiegeln.",
+            "hu": "A reggel esernyők alatt indul a Tugu Simpang Limánál. Délben Fatmawati és Soekarno történelmi házaiban találunk száraz menedéket, miközben a trópusi eső áztatja a várost. Délután a Masjid Khalifah nyújt csendes pihenőt a kopogó eső elől. Az estét a Padang Jati környékén zárjuk, ahol a városi fények megcsillannak a vizes aszfalton, különleges hangulatot árasztva.",
+            "ro": "Dimineața începe la Tugu Simpang Lima sub protecția umbrelelor. La prânz, casele istorice ale lui Fatmawati și Soekarno oferă adăpost perfect împotriva ploii tropicale. După-amiaza, Masjid Khalifah oferă liniște spirituală în timp ce ploaia cade afară. Seara se încheie la Padang Jati, unde luminile orașului se reflectă în bălțile de pe asfaltul ud.",
+            "en": "Morning starts at Tugu Simpang Lima under the protection of umbrellas. At noon, the historical houses of Fatmawati and Soekarno provide excellent dry shelter for culture lovers while the rain pours. Afternoon brings spiritual peace at Masjid Khalifah. The evening ends at Padang Jati, where the city lights glisten on the wet streets, creating a magical atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Simpang Lima",
+                "hu": "Tugu Simpang Lima",
+                "ro": "Tugu Simpang Lima",
+                "en": "Tugu Simpang Lima"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Treiben vom überdachten Rand aus; die Architektur wirkt im Regen besonders dramatisch. Ein Taschenschirm ist hier unverzichtbar.",
+                "hu": "Figyelje a forgalmat a fedett árkádok alól; az emlékmű látványa az esőfüggönyön át igazán drámai. Egy erős esernyő elengedhetetlen a rövid sétához.",
+                "ro": "Observați agitația orașului de la marginea acoperită; arhitectura monumentului pare dramatică prin ploaie. O umbrelă compactă este absolut necesară aici.",
+                "en": "Watch the city bustle from the covered edges; the monument looks particularly dramatic through the rain. A sturdy umbrella is essential for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Fatmawati",
+                "hu": "Rumah Fatmawati",
+                "ro": "Rumah Fatmawati",
+                "en": "Rumah Fatmawati"
+              },
+              "tip_5lang": {
+                "de": "Dieses Holzhaus bietet perfekten Schutz vor dem Guss; bewundern Sie die Nähmaschine der Nationalflagge im trockenen Innenraum. Rutschfeste Schuhe für die Stufen nutzen.",
+                "hu": "Ez a faház tökéletes védelmet nyújt a felhőszakadás elől; csodálja meg a nemzeti zászló varrógépét a száraz belső térben. A lépcsőknél vigyázzon a csúszásveszélyre.",
+                "ro": "Această casă de lemn oferă adăpost perfect împotriva potopului; admirați mașina de cusut a steagului național în interior. Atenție la treptele umede la intrare.",
+                "en": "This wooden house offers perfect shelter from the downpour; admire the national flag's sewing machine in the dry interior. Watch your step on the wet stairs."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Soekarno",
+                "hu": "Rumah Soekarno",
+                "ro": "Rumah Soekarno",
+                "en": "Rumah Soekarno"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Veranden, um den Garten im Regen zu sehen, ohne nass zu werden. Die historischen Dokumente sind im Inneren sicher und trocken ausgestellt.",
+                "hu": "Használja a verandákat a kert megtekintéséhez anélkül, hogy elázna. A történelmi dokumentumok a belső terekben biztonságban és szárazon tekinthetők meg.",
+                "ro": "Folosiți verandele pentru a vedea grădina în ploaie fără a vă uda. Documentele istorice sunt expuse în siguranță și uscate în interiorul clădirii.",
+                "en": "Use the spacious verandas to view the garden in the rain without getting soaked. Historical documents are displayed safely and dry inside the house."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Khalifah SMPN 02 Kota Bengkulu",
+                "hu": "Masjid Khalifah SMPN 02 Kota Bengkulu",
+                "ro": "Masjid Khalifah SMPN 02 Kota Bengkulu",
+                "en": "Masjid Khalifah SMPN 02 Kota Bengkulu"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist ein Ort der absoluten Stille und Trockenheit; ideal für eine meditative Pause. Achten Sie auf trockene Socken beim Betreten des Gebetsraums.",
+                "hu": "A belső tér a csend és a szárazság szigete, ideális egy meditatív szünethez. Ügyeljen rá, hogy zoknija száraz maradjon, mielőtt belépne a szőnyeggel borított részre.",
+                "ro": "Interiorul este un loc de liniște și uscăciune absolută; ideal pentru o pauză meditativă. Asigurați-vă că aveți șosete uscate înainte de a intra în zona de rugăciune.",
+                "en": "The interior is a sanctuary of silence and dryness; ideal for a meditative break. Ensure your socks are dry before stepping onto the prayer hall's carpets."
+              }
+            },
+            {
+              "name": {
+                "de": "Simpang Padang Jati",
+                "hu": "Simpang Padang Jati",
+                "ro": "Simpang Padang Jati",
+                "en": "Simpang Padang Jati"
+              },
+              "tip_5lang": {
+                "de": "Die Abenddämmerung im Regen lässt die Kreuzung in sanftem Licht erscheinen. Suchen Sie sich ein nahes Café mit Vordach, um den Tag gemütlich ausklingen zu lassen.",
+                "hu": "Az alkonyati eső lágy fénybe vonja a kereszteződést. Keressen egy közeli, előtetővel rendelkező kávézót, hogy szárazon élvezhesse a városi este hangulatát.",
+                "ro": "Amurgul în ploaie face ca intersecția să pară scăldată într-o lumină difuză. Căutați o cafenea cu copertină în apropiere pentru a încheia ziua confortabil.",
+                "en": "Twilight in the rain bathes the intersection in soft, reflected light. Find a nearby cafe with an awning to enjoy the evening atmosphere while staying dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgen am Tugu Simpang Lima lädt zu längeren Spaziergängen ein. Mittags erkunden Sie die Museen ohne die drückende tropische Hitze. Aufgrund des frühen Sonnenuntergangs gegen 17:00 Uhr verlagern sich die Aktivitäten am Nachmittag in die stimmungsvoll beleuchtete Masjid Khalifah. Der Abend am Padang Jati ist erfrischend kühl und perfekt für einen heißen Tee im Freien.",
+            "hu": "A hűvösebb reggel a Tugu Simpang Limánál kedvez a hosszabb sétáknak. Délben a trópusi hőség nélkül fedezhetjük fel a múzeumokat. A korai, 17:00 körüli naplemente miatt a délutáni programok hamarabb kapnak esti hangulatot a Masjid Khalifah-nál. Az este a Padang Jatinál frissítően hűvös, tökéletes egy meleg ital elfogyasztásához a csillagos ég alatt.",
+            "ro": "Dimineața răcoroasă la Tugu Simpang Lima invită la plimbări prelungite. La prânz, explorați muzeele fără căldura tropicală sufocantă. Din cauza apusului timpuriu în jurul orei 17:00, activitățile de după-amiază se mută la Masjid Khalifah, frumos luminată. Seara la Padang Jati este revigorantă, perfectă pentru un ceai fierbinte în aer liber.",
+            "en": "The cool morning at Tugu Simpang Lima is ideal for extended walks. At noon, explore the museums without the oppressive tropical heat. Due to the early sunset around 17:00, afternoon activities shift to the atmospherically lit Masjid Khalifah. The evening at Padang Jati is refreshingly cool, perfect for enjoying a hot beverage outdoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Simpang Lima",
+                "hu": "Tugu Simpang Lima",
+                "ro": "Tugu Simpang Lima",
+                "en": "Tugu Simpang Lima"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milde Morgenluft für Fotos ohne die übliche Mittagshitze. Eine leichte Jacke ist für die frühen Stunden empfehlenswert.",
+                "hu": "Használja ki a reggeli enyhe időt a fotózáshoz, mielőtt felerősödne a forgalom. Egy könnyű kabát ajánlott a kora reggeli hűvösben.",
+                "ro": "Profită de aerul blând de dimineață pentru fotografii fără căldura obișnuită. O jachetă ușoară este recomandată pentru orele matinale.",
+                "en": "Take advantage of the mild morning air for photos without the usual midday haze. A light jacket is recommended for the early hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Fatmawati",
+                "hu": "Rumah Fatmawati",
+                "ro": "Rumah Fatmawati",
+                "en": "Rumah Fatmawati"
+              },
+              "tip_5lang": {
+                "de": "Die Belüftung des Hauses sorgt jetzt für eine sehr angenehme Kühle im Inneren. Bewundern Sie die Handwerkskunst bei bestem natürlichem Licht.",
+                "hu": "A ház szellőzése most kifejezetten kellemes hűvöset biztosít odabent. Csodálja meg a kézműves részleteket a legszebb természetes fények mellett.",
+                "ro": "Ventilația casei asigură acum o răcoare foarte plăcută în interior. Admirați măiestria detaliilor la cea mai bună lumină naturală.",
+                "en": "The house's natural ventilation provides a very pleasant coolness inside now. Admire the craftsmanship under the best natural light conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Soekarno",
+                "hu": "Rumah Soekarno",
+                "ro": "Rumah Soekarno",
+                "en": "Rumah Soekarno"
+              },
+              "tip_5lang": {
+                "de": "Der Garten ist in dieser Jahreszeit besonders grün und angenehm zu begehen. Besuchen Sie das Haus vor 16 Uhr, um das volle Tageslicht zu nutzen.",
+                "hu": "A kert ebben az időszakban különösen zöld és kellemes a sétához. Látogassa meg a házat 16 óra előtt, hogy kihasználja a teljes nappali fényt.",
+                "ro": "Grădina este deosebit de verde și plăcută pentru plimbare în acest sezon. Vizitați casa înainte de ora 16:00 pentru a profita de lumina zilei.",
+                "en": "The garden is exceptionally lush and pleasant for a stroll this season. Visit the house before 4 PM to make the most of the daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Khalifah SMPN 02 Kota Bengkulu",
+                "hu": "Masjid Khalifah SMPN 02 Kota Bengkulu",
+                "ro": "Masjid Khalifah SMPN 02 Kota Bengkulu",
+                "en": "Masjid Khalifah SMPN 02 Kota Bengkulu"
+              },
+              "tip_5lang": {
+                "de": "Bei Sonnenuntergang um 17 Uhr leuchtet die Moschee in goldenen Farben. Ein ruhiger Ort, um den Übergang zum kühlen Abend zu erleben.",
+                "hu": "A 17 órai naplementekor a mecset arany színekben tündököl. Nyugodt helyszín, ahol átélheti az átmenetet a hűvösebb estébe.",
+                "ro": "La apusul soarelui de la ora 17:00, moscheea strălucește în culori aurii. Un loc liniștit pentru a experimenta tranziția spre seara răcoroasă.",
+                "en": "At sunset around 5 PM, the mosque glows in golden hues. It is a peaceful place to experience the transition to the cool evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Simpang Padang Jati",
+                "hu": "Simpang Padang Jati",
+                "ro": "Simpang Padang Jati",
+                "en": "Simpang Padang Jati"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Abendbrise macht diesen Ort zum Treffpunkt für Einheimische. Genießen Sie eine warme Speise an einem der Straßenstände.",
+                "hu": "A hűvös esti szellő miatt ez a hely a helyiek kedvenc találkozópontja. Élvezzen egy meleg helyi ételt az egyik utcai árusnál.",
+                "ro": "Briza răcoroasă de seară face din acest loc un punct de întâlnire pentru localnici. Savurați o mâncare caldă la tarabele de pe stradă.",
+                "en": "The cool evening breeze makes this spot a popular meeting point for locals. Enjoy a warm local dish at one of the street stalls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpáros utazása a part közelében, a Thomas Parr emlékműnél kezdődik. Az üres reggeli utcák biztonságossá és élvezetessé teszik a tekerést.\n\nFélidőben felfedezi a Fort Marlborough falait, majd egy csendes imateremhez teker. A tengeri szellő kényelmessé teszi az utazást.\n\nEgy pihentető szünet után a Rumah Soekarnónál újra a nemzeti történelembe teker. Az árnyékos utcák kellemes utazást biztosítanak a trópusi nap alatt.\n\nZárja a napot a híres Pantai Panjang mentén. A hosszú, fenyőfás strand hihetetlen naplementével jutalmazza meg az Indiai-óceán felett.",
         "ro": "Călătoria pe bicicletă începe proaspăt lângă țărm, la Monumentul Thomas Parr. Străzile goale de dimineață fac pedalarea sigură și plăcută.\n\nLa prânz explorați zidurile impunătoare de la Fort Marlborough înainte de a merge la o musholla liniștită. Briza mării menține plimbarea confortabilă.\n\nDupă o pauză, pedalați în istoria națională la Rumah Soekarno. Străzile umbrite oferă o plimbare plăcută sub soarele tropical.\n\nÎncheiați ziua mergând spre sud pe Pantai Panjang. Plaja lungă cu pini vă răsplătește cu un apus incredibil peste Oceanul Indian.",
         "en": "Your cycling journey starts fresh near the shore at the intriguing Thomas Parr Monument. The empty morning streets make it safe and enjoyable to pedal around.\n\nMidday finds you exploring the imposing walls of Fort Marlborough before taking a short ride to a quiet neighborhood musholla. The sea breeze keeps the ride comfortable.\n\nAfter a restful break, you pedal back into national history at Rumah Soekarno. The shaded streets along this stretch offer a pleasant ride under the tropical sun.\n\nEnd the day riding south along the famous Pantai Panjang. The long stretch of beach and pine trees rewards you with an incredible sunset reflecting off the Indian Ocean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsicht am Morgen beim Monumen Thomas Parr, da das Kopfsteinpflaster rutschig sein kann. Mittags bietet das Fort Marlborough massiven Schutz vor Wind und Wetter. Nach einem kurzen Stopp an der Musholla geht es weiter zum Rumah Soekarno. Den Nachmittag beenden wir am Pantai Panjang, wo man die stürmische See von einem überdachten Strandcafé aus beobachten kann.",
+            "hu": "Vigyázat reggel a Monumen Thomas Parrnál, a burkolat csúszós lehet az esőben. Délben a Fort Marlborough masszív falai nyújtanak védelmet a szél és víz ellen. Egy rövid pihenő után a Mushollánál a Soekarno-ház felé vesszük az irányt. Délután a Pantai Panjangon zárjuk a napot, ahol egy fedett kávézóból nézhetjük a viharos óceánt.",
+            "ro": "Atenție dimineața la Monumen Thomas Parr, deoarece pavajul poate fi alunecos. La prânz, Fort Marlborough oferă protecție masivă împotriva vântului și ploii. După o scurtă oprire la Musholla, continuăm spre Casa Soekarno. Încheiem după-amiaza la Pantai Panjang, admirând marea agitată dintr-o cafenea acoperită.",
+            "en": "Caution in the morning at Monumen Thomas Parr, as the pavement can be slippery. At noon, Fort Marlborough provides massive shelter from wind and rain. After a quick stop at the Musholla, head to Rumah Soekarno. Finish the afternoon at Pantai Panjang, watching the stormy sea from a covered beach cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumen Thomas Parr",
+                "hu": "Monumen Thomas Parr",
+                "ro": "Monumen Thomas Parr",
+                "en": "Monumen Thomas Parr"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die Umgebung des Monuments hat bei Regen tückische Kurven. Ein Poncho hält Sie beim Fahren trocken.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; az emlékmű környéke esőben trükkös kanyarokat tartogat. Egy esőponcsó szárazon tartja tekerés közben.",
+                "ro": "Verificați frânele înainte de plecare; zona din jurul monumentului are curbe înșelătoare pe ploaie. Un pelerin de ploaie vă va menține uscat.",
+                "en": "Check your brakes before setting off; the area around the monument has tricky turns when wet. A rain poncho will keep you dry while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Marlborough",
+                "hu": "Fort Marlborough",
+                "ro": "Fort Marlborough",
+                "en": "Fort Marlborough"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad im überdachten Eingangsbereich ab. Die Kasematten des Forts sind ideal, um einen starken Guss trocken abzuwarten.",
+                "hu": "Parkolja le kerékpárját a fedett bejáratnál. Az erőd kazamatái ideálisak arra, hogy szárazon várja meg a felhőszakadás végét.",
+                "ro": "Parcați bicicleta în zona de intrare acoperită. Cazematele fortului sunt ideale pentru a aștepta trecerea unei ploi torențiale la adăpost.",
+                "en": "Park your bike in the covered entrance area. The fort's casemates are ideal for waiting out a heavy downpour while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Musholla",
+                "hu": "Musholla",
+                "ro": "Musholla",
+                "en": "Musholla"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Rückzugsort für Radfahrer. Nutzen Sie die Pause, um Ihre Ausrüstung zu trocknen und neue Kraft zu tanken.",
+                "hu": "Kicsi, száraz menedékhely kerékpárosoknak. Használja ki a pihenőt a felszerelése megszárítására és az újult erő gyűjtésére.",
+                "ro": "Un refugiu mic și uscat pentru bicicliști. Folosiți pauza pentru a vă usca echipamentul și pentru a vă reîncărca bateriile.",
+                "en": "A small, dry retreat for cyclists. Use the break to dry your gear and recharge your energy before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Soekarno",
+                "hu": "Rumah Soekarno",
+                "ro": "Rumah Soekarno",
+                "en": "Rumah Soekarno"
+              },
+              "tip_5lang": {
+                "de": "Das Fahrrad lässt sich gut unter den Bäumen oder am Tor parken. Drinnen erfahren Sie viel über Geschichte, während es draußen regnet.",
+                "hu": "A kerékpárt jól le lehet parkolni a fák alatt vagy a kapunál. Odabent sokat tanulhat a történelemről, amíg kint szakad az eső.",
+                "ro": "Bicicleta poate fi parcată sub copaci sau la poartă. În interior, veți învăța multe despre istorie în timp ce afară plouă torențial.",
+                "en": "The bike can be parked safely under trees or at the gate. Inside, you can learn plenty about history while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Panjang",
+                "hu": "Pantai Panjang",
+                "ro": "Pantai Panjang",
+                "en": "Pantai Panjang"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren direkt im Sand bei Nässe. Genießen Sie den Ausblick auf die tosenden Wellen von einem der festen Kioske aus.",
+                "hu": "Kerülje a közvetlen homokon való tekerést esőben. Élvezze a tajtékzó hullámok látványát az egyik szilárd talajú tengerparti bódéból.",
+                "ro": "Evitați să pedalați direct pe nisip când este ud. Bucurați-vă de vederea valurilor înspumate de la unul dintre chioșcurile cu podea solidă.",
+                "en": "Avoid cycling directly on the sand when wet. Enjoy the view of the crashing waves from one of the solid-floor beach kiosks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Start am Monumen Thomas Parr bei kühler Brise. Mittags ist die Fahrt zum Fort Marlborough besonders angenehm, da die Sonne nicht zu stark brennt. Nach einem kurzen Halt an der Musholla und dem Rumah Soekarno erreichen wir Pantai Panjang pünktlich zum frühen Sonnenuntergang um 17:00 Uhr. Der Abend am Meer ist kühl und windig, perfekt für eine zügige Rückfahrt.",
+            "hu": "Frissítő kezdés a Monumen Thomas Parrnál hűvös szellővel. Délben a Fort Marlborough felé vezető út kellemes, mert a nap nem tűz annyira. A Musholla és a Soekarno-ház után pont a korai, 17:00-s naplementére érünk a Pantai Panjangra. Az este a tengerparton hűvös és szeles, ideális egy tempós visszatekeréshez.",
+            "ro": "Un început revigorant la Monumen Thomas Parr cu o briză răcoroasă. La prânz, drumul spre Fort Marlborough este plăcut, soarele nefiind prea puternic. După Musholla și Casa Soekarno, ajungem la Pantai Panjang exact pentru apusul timpuriu de la ora 17:00. Seara la malul mării este răcoroasă, perfectă pentru întoarcere.",
+            "en": "A refreshing start at Monumen Thomas Parr with a cool breeze. At noon, the ride to Fort Marlborough is pleasant as the sun isn't too strong. After Musholla and Rumah Soekarno, we reach Pantai Panjang just in time for the early sunset at 17:00. The evening by the sea is cool and windy, ideal for a brisk return ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumen Thomas Parr",
+                "hu": "Monumen Thomas Parr",
+                "ro": "Monumen Thomas Parr",
+                "en": "Monumen Thomas Parr"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht am Morgen. Ein langärmliges Shirt hilft gegen den kühlen Fahrtwind in den schattigen Gassen.",
+                "hu": "Élvezze a tiszta kilátást reggel. Egy hosszú ujjú póló segít a hűvös menetszél ellen az árnyékosabb utcákban.",
+                "ro": "Bucurați-vă de vizibilitatea clară de dimineață. O cămașă cu mânecă lungă ajută împotriva vântului rece în zonele umbrite.",
+                "en": "Enjoy the clear views in the morning. A long-sleeved shirt helps against the cool wind while cycling through shaded streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Marlborough",
+                "hu": "Fort Marlborough",
+                "ro": "Fort Marlborough",
+                "en": "Fort Marlborough"
+              },
+              "tip_5lang": {
+                "de": "Die Mauern des Forts speichern die Wärme der Mittagssonne; ein angenehmer Ort zum Erkunden vor der frühen Dämmerung.",
+                "hu": "Az erőd falai jól tartják a déli nap melegét; kellemes hely a felfedezésre a korai sötétedés előtt.",
+                "ro": "Zidurile fortului păstrează căldura soarelui de la amiază; un loc plăcut de explorat înainte de lăsarea timpurie a întunericului.",
+                "en": "The fort's walls retain the warmth of the midday sun; it's a pleasant place to explore before the early twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Musholla",
+                "hu": "Musholla",
+                "ro": "Musholla",
+                "en": "Musholla"
+              },
+              "tip_5lang": {
+                "de": "Die friedliche Atmosphäre lädt zur kurzen Rast ein. Achten Sie auf den frühen Lichtwechsel am Nachmittag.",
+                "hu": "A békés környezet rövid pihenőre csábít. Ügyeljen a délutáni fények gyors változására a korai naplemente előtt.",
+                "ro": "Atmosfera pașnică invită la un scurt popas. Fiți atenți la schimbarea rapidă a luminii după-amiaza înainte de apus.",
+                "en": "The peaceful atmosphere invites a short rest. Be mindful of the quick change in light during the afternoon before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumah Soekarno",
+                "hu": "Rumah Soekarno",
+                "ro": "Rumah Soekarno",
+                "en": "Rumah Soekarno"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Haus vor 16 Uhr, um die Architektur im warmen Licht der tiefstehenden Sonne zu bewundern.",
+                "hu": "Látogassa meg a házat 16 óra előtt, hogy megcsodálhassa az építészetet az alacsonyan járó nap meleg fényeiben.",
+                "ro": "Vizitați casa înainte de ora 16:00 pentru a admira arhitectura în lumina caldă a soarelui care apune.",
+                "en": "Visit the house before 4 PM to admire the architecture in the warm light of the low-hanging sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Panjang",
+                "hu": "Pantai Panjang",
+                "ro": "Pantai Panjang",
+                "en": "Pantai Panjang"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight ist der Sonnenuntergang um 17:00 Uhr. Tragen Sie windfeste Kleidung, da es am Strand abends merklich abkühlt.",
+                "hu": "A csúcspont a 17:00-s naplemente. Viseljen szélálló ruházatot, mert a tengerparton este érezhetően lehűl a levegő.",
+                "ro": "Punctul culminant este apusul de la ora 17:00. Purtați haine rezistente la vânt, deoarece pe plajă se răcește considerabil seara.",
+                "en": "The highlight is the sunset at 17:00. Wear windproof clothing, as the beach cools down noticeably in the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Kezdje autós utazását a külvárosban az ikonikus Tugu Hiu-nál. A reggeli vezetés lehetővé teszi, hogy elkerülje a nagy forgalmat, miközben nagyobb távokat tesz meg.\n\nAhogy közeledik a dél, merüljön el Szumátra örökségében a Tartományi Múzeumban. Az autó kényelme könnyűvé teszi a nyüzsgő Simpang Hibrida navigálását.\n\nDélután parkolja le járművét a város kulturális zónájának felfedezéséhez. A Gedung Sensas és a szabadtéri színház helyi művészeteket mutat be.\n\nEste vezessen a part felé a Fort Marlborough-hoz. A hatalmas gyarmati építmény szürkületkor látványosan ki van világítva, drámai lezárást nyújtva.",
         "ro": "Începeți-vă călătoria la periferie cu iconicul Tugu Hiu. Conducerea dimineața vă permite să evitați traficul intens în timp ce parcurgeți distanțe mai lungi.\n\nSpre prânz, aprofundați patrimoniul Sumatrei la Muzeul Provincial. Confortul mașinii face ca navigarea prin aglomeratul Simpang Hibrida să fie ușoară.\n\nDupă-amiaza, parcați vehiculul pentru a explora zona culturală. Gedung Sensas și Teatrul în aer liber prezintă artele locale într-o zonă compactă.\n\nPentru seară, conduceți spre coastă până la Fort Marlborough. Structura colonială masivă este iluminată spectaculos la amurg, oferind un final dramatic.",
         "en": "Kick off your road trip at the outskirts with the iconic Tugu Hiu. Driving in the morning allows you to beat the heavy traffic while covering longer distances.\n\nAs midday approaches, dive deep into Sumatra's heritage at the Provincial Museum. The comfort of your car makes navigating through the bustling Simpang Hibrida effortless.\n\nIn the afternoon, park your vehicle to explore the city's cultural zone. The nearby Gedung Sensas and Outdoor Teater showcase local arts in a compact, walkable area.\n\nFor the evening, drive toward the coast to reach Fort Marlborough. The massive colonial structure is spectacularly lit at dusk, providing a dramatic end to your comprehensive tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist der Regen am Tugu Hiu kein Problem. Mittags bietet das Provinzmuseum Bengkulu einen trockenen und informativen Aufenthalt. Die Fahrt über Simpang Hibrida und Gedung Sensas bleibt komfortabel, während draußen der Monsun tobt. Den Nachmittag verbringen wir im Teater und beenden die Tour im Fort Marlborough, wo wir das historische Gemäuer ohne nass zu werden erkunden.",
+            "hu": "Az autóban ülve a Tugu Hiunál kezdődő eső nem akadály. Délben a Bengkulu Tartományi Múzeum kínál száraz és tartalmas kikapcsolódást. Az út a Simpang Hibrida és a Gedung Sensas érintésével kényelmes marad, miközben kint szakad az eső. A délutánt a Teaterben töltjük, majd a Fort Marlborough-nál zárjuk a napot, fedett helyen maradva.",
+            "ro": "În mașină, ploaia de la Tugu Hiu nu reprezintă o problemă. La prânz, Muzeul Provinciei Bengkulu oferă o vizită uscată și informativă. Drumul prin Simpang Hibrida și Gedung Sensas rămâne confortabil în timp ce afară plouă torențial. După-amiaza o petrecem la Teatru și încheiem turul la Fort Marlborough, la adăpost.",
+            "en": "Sitting in the car, the rain at Tugu Hiu is no obstacle. At noon, the Bengkulu Provincial Museum offers a dry and informative stay. The drive through Simpang Hibrida and Gedung Sensas remains comfortable while the monsoon rages outside. We spend the afternoon at the Theater and end the tour at Fort Marlborough, staying dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Hiu",
+                "hu": "Tugu Hiu",
+                "ro": "Tugu Hiu",
+                "en": "Tugu Hiu"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp aus dem Autofenster reicht hier völlig aus. Die beleuchtete Haifischstatue wirkt bei Regen besonders glänzend.",
+                "hu": "Egy rövid fotómegálló az autó ablakából bőven elég. A kivilágított cápaszobor az esőben különösen fényesnek és látványosnak tűnik.",
+                "ro": "O scurtă oprire pentru fotografii de la fereastra mașinii este suficientă. Statuia rechinului pare deosebit de strălucitoare în ploaie.",
+                "en": "A quick photo stop from the car window is quite sufficient here. The lit shark statue looks particularly shiny and impressive in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Musium Provinsi Bengkulu",
+                "hu": "Musium Provinsi Bengkulu",
+                "ro": "Musium Provinsi Bengkulu",
+                "en": "Musium Provinsi Bengkulu"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der beste Ort, um die stärksten Regenstunden trocken zu überbrücken. Parken Sie direkt am Eingang, um nass zu vermeiden.",
+                "hu": "A múzeum a legjobb hely arra, hogy szárazon vészelje át a legerősebb esőket. Parkoljon közvetlenül a bejáratnál, hogy ne ázzon el.",
+                "ro": "Muzeul este cel mai bun loc pentru a petrece orele cu ploaie torențială la uscat. Parcați chiar lângă intrare pentru a evita udarea.",
+                "en": "The museum is the best place to bridge the heaviest rain hours while staying dry. Park right at the entrance to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Simpang Hibrida",
+                "hu": "Simpang Hibrida",
+                "ro": "Simpang Hibrida",
+                "en": "Simpang Hibrida"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die lebhafte Kreuzung sicher aus dem Wagen. Die Sicht kann durch Beschlagen der Scheiben eingeschränkt sein; Lüftung nutzen.",
+                "hu": "Figyelje a forgalmas kereszteződést biztonságban az autóból. A látási viszonyokat a párásodás ronthatja; használja a légkondicionálót.",
+                "ro": "Observați intersecția animată în siguranță din mașină. Vizibilitatea poate fi redusă din cauza aburirii geamurilor; folosiți ventilația.",
+                "en": "Watch the busy intersection safely from your vehicle. Visibility might be limited due to fogged windows; keep the ventilation running."
+              }
+            },
+            {
+              "name": {
+                "de": "Gedung Sensas",
+                "hu": "Gedung Sensas",
+                "ro": "Gedung Sensas",
+                "en": "Gedung Sensas"
+              },
+              "tip_5lang": {
+                "de": "Dieses kulturelle Zentrum bietet gute Innenräume, um dem Regen zu entfliehen. Nutzen Sie den nahen Parkplatz für einen kurzen Weg ins Trockene.",
+                "hu": "Ez a kulturális központ jó belső tereket kínál az eső elől való meneküléshez. Használja a közeli parkolót a rövid, száraz bejutáshoz.",
+                "ro": "Acest centru cultural oferă spații interioare bune pentru a scăpa de ploaie. Folosiți parcarea din apropiere pentru acces rapid la uscat.",
+                "en": "This cultural center offers good indoor spaces to escape the rain. Use the nearby parking for a quick walk to the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Outdoor Teater",
+                "hu": "Outdoor Teater",
+                "ro": "Outdoor Teater",
+                "en": "Outdoor Teater"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und bewundern Sie die Anlage aus der Ferne. Bei leichtem Nieselregen sind die überdachten Bühnenbereiche sicher.",
+                "hu": "Erős esőben maradjon az autóban, és távolról csodálja meg a létesítményt. Szemerkélő esőben a fedett színpadi részek biztonságosak.",
+                "ro": "Rămâneți în mașină în caz de ploaie puternică și admirați complexul de la distanță. Zonele acoperite ale scenei sunt sigure pe burniță.",
+                "en": "Stay in the car during heavy rain and admire the complex from a distance. During light drizzle, the covered stage areas are safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Marlborough",
+                "hu": "Fort Marlborough",
+                "ro": "Fort Marlborough",
+                "en": "Fort Marlborough"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in den schützenden Mauern des Forts. Die massiven Steingänge halten Sie auch bei starkem Gewitter zuverlässig trocken.",
+                "hu": "Zárja a napot az erőd védelmező falai között. A masszív kőfolyosók még egy erős vihar idején is megbízhatóan szárazon tartják.",
+                "ro": "Încheiați ziua între zidurile protectoare ale fortului. Coridoarele masive de piatră vă vor menține uscat chiar și în timpul unei furtuni.",
+                "en": "End the day within the protective walls of the fort. The massive stone corridors will keep you reliably dry even during a heavy storm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgen am Tugu Hiu lässt sich am besten im beheizten Auto genießen. Mittags ist das Provinzmuseum ein angenehmer Aufenthaltsort, bevor wir über Simpang Hibrida zum Gedung Sensas fahren. Der frühe Sonnenuntergang um 17:00 Uhr taucht das Outdoor Teater in wunderschönes Licht. Die Tour endet am Fort Marlborough, das in der klaren Abendluft besonders imposant wirkt.",
+            "hu": "A hűvös reggel a Tugu Hiunál a legkellemesebb az autó kényelméből. Délben a Tartományi Múzeum kellemes helyszín, mielőtt a Simpang Hibridán át a Gedung Sensashoz mennénk. A korai, 17:00-s naplemente csodás fénybe vonja az Outdoor Teatert. A túra a Fort Marlborough-nál zárul, amely a tiszta esti levegőben különösen impozáns.",
+            "ro": "Dimineața răcoroasă la Tugu Hiu este cel mai bine savurată din confortul mașinii. La prânz, Muzeul Provinciei este o destinație plăcută înainte de a merge la Gedung Sensas. Apusul timpuriu de la ora 17:00 scaldă Teatrul în lumină superbă. Turul se încheie la Fort Marlborough, impunător în aerul serii.",
+            "en": "The cool morning at Tugu Hiu is best enjoyed from the comfort of the car. At noon, the Provincial Museum is a pleasant spot before heading to Gedung Sensas. The early sunset at 17:00 bathes the Outdoor Theater in beautiful light. The tour ends at Fort Marlborough, looking particularly imposing in the clear evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Hiu",
+                "hu": "Tugu Hiu",
+                "ro": "Tugu Hiu",
+                "en": "Tugu Hiu"
+              },
+              "tip_5lang": {
+                "de": "Die klare Luft sorgt heute für exzellente Sichtbarkeit der Statue. Ein kurzer Stopp für ein Foto ohne die übliche Hitze lohnt sich.",
+                "hu": "A tiszta levegő ma kiváló láthatóságot biztosít a szobornak. Érdemes megállni egy fotóra a megszokott hőség nélkül.",
+                "ro": "Aerul curat asigură astăzi o vizibilitate excelentă a statuii. Merită o scurtă oprire pentru o fotografie fără căldura obișnuită.",
+                "en": "The clear air provides excellent visibility of the statue today. It's worth a quick stop for a photo without the usual midday heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Musium Provinsi Bengkulu",
+                "hu": "Musium Provinsi Bengkulu",
+                "ro": "Musium Provinsi Bengkulu",
+                "en": "Musium Provinsi Bengkulu"
+              },
+              "tip_5lang": {
+                "de": "Drinnen herrscht nun eine sehr angenehme Temperatur. Nutzen Sie die Mittagsstunden, um die Exponate ohne die drückende Schwüle zu studieren.",
+                "hu": "Odabent most kifejezetten kellemes a hőmérséklet. Használja ki a déli órákat a kiállítások tanulmányozására a fülledtség nélkül.",
+                "ro": "În interior este acum o temperatură foarte plăcută. Profită de orele amiezii pentru a studia exponatele fără umezeala sufocantă.",
+                "en": "The temperature inside is very pleasant now. Use the midday hours to study the exhibits without the usual oppressive humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Simpang Hibrida",
+                "hu": "Simpang Hibrida",
+                "ro": "Simpang Hibrida",
+                "en": "Simpang Hibrida"
+              },
+              "tip_5lang": {
+                "de": "Ein geschäftiger Ort, der in der kühlen Luft weniger hektisch wirkt. Ideal für einen schnellen Blick auf das lokale Leben vom Auto aus.",
+                "hu": "Nyüzsgő helyszín, amely a hűvös levegőben kevésbé tűnik kaotikusnak. Ideális a helyi élet gyors megfigyelésére az autóból.",
+                "ro": "Un loc aglomerat care pare mai puțin haotic în aerul răcoros. Ideal pentru o privire rapidă asupra vieții locale din mașină.",
+                "en": "A busy spot that feels less chaotic in the cool air. Ideal for a quick glimpse into local life from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Gedung Sensas",
+                "hu": "Gedung Sensas",
+                "ro": "Gedung Sensas",
+                "en": "Gedung Sensas"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, wo es nun gemütlich warm ist. Die tiefstehende Sonne sorgt für dramatische Schatten am Gebäude.",
+                "hu": "Látogassa meg a benti kiállításokat, ahol most kellemesen meleg van. Az alacsonyan járó nap drámai árnyékokat vet az épületre.",
+                "ro": "Vizitați expozițiile din interior, unde acum este plăcut și cald. Soarele care apune aruncă umbre dramatice asupra clădirii.",
+                "en": "Visit the exhibitions inside where it is now comfortably warm. The low sun creates dramatic shadows on the building's facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Outdoor Teater",
+                "hu": "Outdoor Teater",
+                "ro": "Outdoor Teater",
+                "en": "Outdoor Teater"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17:00 Uhr hierher. Das Licht auf der Bühne ist zu dieser Zeit für Fotografen spektakulär.",
+                "hu": "Érkezzen pontban a 17:00-s naplementére. A színpadon megcsillanó fények ilyenkor látványosak a fotózáshoz.",
+                "ro": "Sosiți exact pentru apusul de la ora 17:00. Lumina de pe scenă este spectaculoasă pentru fotografi în acest moment al zilei.",
+                "en": "Arrive exactly for the sunset at 17:00. The light on the stage is spectacular for photography at this time of day."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Marlborough",
+                "hu": "Fort Marlborough",
+                "ro": "Fort Marlborough",
+                "en": "Fort Marlborough"
+              },
+              "tip_5lang": {
+                "de": "Die Abendkühle in den alten Mauern ist erfrischend. Tragen Sie eine Jacke, wenn Sie die Bastionen bei einsetzender Dunkelheit erkunden.",
+                "hu": "Az esti hűvös az ódon falak között frissítő. Viseljen kabátot, ha a sötétedés beálltakor fedezi fel a bástyákat.",
+                "ro": "Răcoarea serii între zidurile vechi este revigorantă. Purtați o jachetă dacă explorați bastioanele la lăsarea întunericului.",
+                "en": "The evening chill within the ancient walls is refreshing. Wear a jacket if you're exploring the bastions as darkness falls."
+              }
+            }
+          ]
+        }
       }
     }
   }

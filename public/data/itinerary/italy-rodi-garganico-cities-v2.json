@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi központban kezdődik, megcsodálva a klasszikus építészetet és tisztelegve a hagyományok előtt. A dél a vibráló kulturális arénához vezet, mielőtt a nyugati homokos partok felé venné az irányt. A délutánt a tengerpart pihentető légkörének és a tengeri szellőnek szentelheti. Az estét egy festői parti séta zárja az ősi horgony és a kényelmes strandok mentén.",
         "ro": "Dimineața începe în centrul istoric, admirând arhitectura clasică și onorând tradițiile locale. La prânz ajungeți la arena culturală vibrantă, înainte de a vă îndrepta spre plajele vestice de nisip. După-amiaza este dedicată atmosferei relaxante a coastei, simțind briza proaspătă. Seara se încheie cu o plimbare maritimă pitorească pe lângă ancora antică și stațiunile de pe coastă.",
         "en": "Morning starts in the historic center, admiring the classical architecture and honoring local traditions. Midday brings you to the vibrant cultural arena before heading to the sandy shores of the west. The afternoon is spent enjoying the relaxing atmosphere of the coast, feeling the fresh sea breeze. Evening concludes with a picturesque maritime stroll by the ancient anchor and coastal resorts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir das historische Rathaus unter dem Schutz der Arkaden. Mittags machen wir einen kurzen Abstecher zur Statue von Padre Pio, während der Regen leise auf die Blätter fällt. Nachmittags suchen wir in den Gassen nahe der Arena Schutz vor stärkeren Schauern. Abends beobachten wir von der Promenade aus das beeindruckende Spiel der Wellen an der verregneten Küste.",
+            "hu": "Reggel a városháza környékén kezdünk, az épületek ereszei alatt húzódva az eső elől. Délben a Padre Pio szobornál teszünk egy gyors látogatást, kihasználva a fák adta természetes védelmet. Délután az Arena környékén keresünk menedéket a szűk utcákban. Az estét a tengerparti sétányon zárjuk, ahol a szürke égbolt és a tajtékzó tenger látványa esőben is különleges élményt nyújt.",
+            "ro": "Dimineața explorăm primăria istorică sub protecția arcadelor, ferindu-ne de stropii de ploaie. La prânz facem o scurtă oprire la statuia lui Padre Pio, profitând de adăpostul oferit de copaci. După-amiaza căutăm refugiu pe străzile înguste de lângă Arena în timpul unei averse. Seara observăm de pe faleză jocul impresionant al valurilor pe coasta plictisită de ploaia persistentă.",
+            "en": "Morning starts at the historic town hall, staying under the safety of the porticos. At noon, we make a quick stop at the Padre Pio statue as the rain falls softly on the greenery. In the afternoon, we seek shelter in the narrow alleys near the Arena during heavier showers. The evening concludes on the promenade, watching the waves crash against the rainy shore in a dramatic display."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Rodi Garganico",
+                "hu": "Comune di Rodi Garganico",
+                "ro": "Comune di Rodi Garganico",
+                "en": "Comune di Rodi Garganico"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus dem Schutz der umliegenden Eingänge; der Steinboden ist bei Nässe sehr rutschig, tragen Sie festes Schuhwerk.",
+                "hu": "Csodálja meg az épületet a szemközti árkádok alól; a köves út esőben csúszóssá válhat, ezért óvatosan lépkedjen a vizes burkolaton.",
+                "ro": "Admirați fațada clădirii de sub protecția intrărilor din apropiere; pavajul de piatră devine alunecos, deci purtați încălțăminte aderentă.",
+                "en": "Admire the facade from the safety of nearby doorways; the stone pavement gets very slippery when wet, so wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Padre Pio",
+                "hu": "Statua di Padre Pio",
+                "ro": "Statua di Padre Pio",
+                "en": "Statua di Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für ein Foto im Regen; die Bäume am Platz bieten einen kleinen natürlichen Schutzschirm gegen leichten Nieselregen.",
+                "hu": "Gyors fotómegálló a szakadó esőben is; a tér körüli fák lombjai némi természetes védelmet nyújtanak a szemerkélő csapadék ellen.",
+                "ro": "O oprire rapidă pentru o fotografie în ploaie; copacii din piață oferă o mică umbrelă naturală împotriva burniței ușoare de afară.",
+                "en": "A quick photo stop in the rain; the trees around the square offer a bit of natural shelter against a light, misty drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena Via Varano",
+                "hu": "Arena Via Varano",
+                "ro": "Arena Via Varano",
+                "en": "Arena Via Varano"
+              },
+              "tip_5lang": {
+                "de": "Das offene Theater wirkt unter dunklen Wolken sehr dramatisch; nutzen Sie die überdachten Bereiche der nahen Cafés als Regenschutz.",
+                "hu": "A nyitott színház drámai látványt nyújt a sötét fellegek alatt; használja a közeli kávézók fedett teraszait eső elleni menedékként.",
+                "ro": "Teatrul în aer liber arată dramatic sub norii negri; folosiți zonele acoperite ale cafenelelor din apropiere ca adăpost temporar.",
+                "en": "The open-air theater looks dramatic under dark clouds; use the covered areas of nearby cafes as a temporary shield from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Ponente Rodi",
+                "hu": "Lido Ponente Rodi",
+                "ro": "Lido Ponente Rodi",
+                "en": "Lido Ponente Rodi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Meeresbrise unter einem Schirm; die Holzstege sind nass, aber sie verhindern, dass Sie im nassen Sand einsinken.",
+                "hu": "Élvezze a friss tengeri szellőt egy esernyő alatt; a fapadlók segítenek, hogy ne süllyedjen el a felázott, vizes homokban.",
+                "ro": "Bucurați-vă de briza mării sub o umbrelă; pasarelele de lemn sunt umede, dar vă împiedică să vă scufundați în nisipul ud.",
+                "en": "Enjoy the fresh sea breeze under an umbrella; the wooden walkways are wet but prevent you from sinking into the soaked sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Dieses maritime Symbol glänzt im Regen besonders stark; halten Sie sich für Windschutz nah an den Mauern der angrenzenden Gebäude auf.",
+                "hu": "Ez a tengerészeti jelkép különösen csillog az esőben; a szél elleni védelem érdekében maradjon a szomszédos épületek falai mellett.",
+                "ro": "Acest simbol maritim strălucește puternic în ploaie; pentru protecție împotriva vântului, stați aproape de zidurile clădirilor.",
+                "en": "This maritime symbol shines brightly in the rain; for wind protection, stay close to the walls of the adjacent stone buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Nautilus",
+                "hu": "Lido Nautilus",
+                "ro": "Lido Nautilus",
+                "en": "Lido Nautilus"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer bei einem Spaziergang am Ufer; wasserfeste Schuhe sind unerlässlich, um die nasse Küste zu genießen.",
+                "hu": "Figyelje a szürke tengert egy rövid parti séta során; a vízálló cipő elengedhetetlen a vizes tengerparti szakasz felfedezéséhez.",
+                "ro": "Observați marea cenușie în timpul unei plimbări pe mal; pantofii impermeabili sunt esențiali pentru a explora coasta udă.",
+                "en": "Watch the gray sea during a short stroll along the shore; waterproof shoes are essential for enjoying the wet coastal scenery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Winterbrise am Rathaus, die klare Luft macht die Farben der Stadt intensiver. Mittags wärmen wir uns in der sanften Dezembersonne am Padre-Pio-Platz. Nachmittags erreichen wir den Strand rechtzeitig vor dem frühen Sonnenuntergang um 17:00 Uhr. Abends kehrt Ruhe in die Gassen ein, während die Lichter von Rodi im kalten Winterhimmel funkeln.",
+            "hu": "Reggel friss téli szellő fogad a városházánál, a tiszta levegőben élesebbek a város színei. Délben a Padre Pio téren élvezzük a lágy téli napsütés melegét. Délután még a korai, 17 órás naplemente előtt kiérünk a tengerpartra, hogy lássuk az alkonyi fényeket. Este a város elcsendesedik, a hideg téli égbolton pedig vibrálnak Rodi fényei.",
+            "ro": "Dimineața o briză proaspătă de iarnă ne întâmpină la primărie, aerul curat făcând culorile orașului mai intense. La prânz ne încălzim sub soarele blând de decembrie în piața Padre Pio. După-amiaza ajungem la plajă înainte de apusul devreme de la ora 17:00. Seara, liniștea se așterne pe străzi, în timp ce luminile orașului sclipesc sub cerul rece.",
+            "en": "Morning brings a crisp winter breeze at the town hall; the clear air makes the city's colors pop. At noon, we warm up in the gentle December sun by the Padre Pio square. In the afternoon, we reach the beach in time for the early 5 PM sunset. The evening brings a peaceful hush to the streets as the lights of Rodi twinkle under the cold winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Rodi Garganico",
+                "hu": "Comune di Rodi Garganico",
+                "ro": "Comune di Rodi Garganico",
+                "en": "Comune di Rodi Garganico"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus wirkt im Winterlicht majestätisch; tragen Sie mehrere Schichten Kleidung, da der Wind in den Gassen kühl wehen kann.",
+                "hu": "A városháza fenséges a téli fényben; öltözzön rétegesen, mert a szűk utcákban hűvös és metsző lehet a tengeri szél.",
+                "ro": "Primăria arată maiestuos în lumina iernii; purtați mai multe straturi de haine, deoarece vântul poate fi tăios pe străzile înguste.",
+                "en": "The town hall looks majestic in the winter light; wear multiple layers as the wind can blow cold through the narrow alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Padre Pio",
+                "hu": "Statua di Padre Pio",
+                "ro": "Statua di Padre Pio",
+                "en": "Statua di Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine kurze Rast; die tiefstehende Wintersonne wirft lange Schatten und erzeugt eine besondere Atmosphäre.",
+                "hu": "Békés hely egy rövid pihenőhöz; az alacsonyan járó téli nap hosszú árnyékokat vet, ami különleges hangulatot áraszt a téren.",
+                "ro": "Un loc liniștit pentru un scurt popas; soarele jos de iarnă aruncă umbre lungi, creând o atmosferă specială în jurul statuii.",
+                "en": "A peaceful spot for a short rest; the low winter sun casts long shadows, creating a unique and quiet atmosphere in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena Via Varano",
+                "hu": "Arena Via Varano",
+                "ro": "Arena Via Varano",
+                "en": "Arena Via Varano"
+              },
+              "tip_5lang": {
+                "de": "Die Arena ist im Winter verlassen und ruhig; nutzen Sie die klare Sicht auf das Meer, bevor es gegen 17 Uhr dunkel wird.",
+                "hu": "Az Arena télen elhagyatott és csendes; élvezze a tiszta kilátást a tengerre, mielőtt délután 5 óra körül hirtelen besötétedik.",
+                "ro": "Arena este pustie și liniștită în timpul iernii; profitați de vizibilitatea clară asupra mării înainte de lăsarea întunericului la ora 17.",
+                "en": "The Arena is deserted and quiet in winter; take advantage of the clear sea views before it gets dark around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Ponente Rodi",
+                "hu": "Lido Ponente Rodi",
+                "ro": "Lido Ponente Rodi",
+                "en": "Lido Ponente Rodi"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang ist jetzt besonders erholsam; eine warme Mütze schützt Sie vor dem kalten Wind direkt am Wasser.",
+                "hu": "Egy magányos tengerparti séta ilyenkor nagyon pihentető; egy meleg sapka elengedhetetlen a vízparti hideg szél elleni védekezéshez.",
+                "ro": "O plimbare solitară pe plajă este foarte relaxantă acum; o căciulă groasă vă va proteja de vântul rece de lângă apă.",
+                "en": "A solitary beach walk is very refreshing now; a warm hat will protect you from the cold wind blowing directly off the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Das kalte Eisen des Ankers erinnert an die harte Arbeit der Fischer; bewundern Sie das Denkmal im goldenen Licht der späten Nachmittagssonne.",
+                "hu": "A vasmacska hideg érintése a halászok kemény munkájára emlékeztet; csodálja meg az emlékművet a késő délutáni nap arany fényében.",
+                "ro": "Fierul rece al ancorei amintește de munca grea a pescarilor; admirați monumentul în lumina aurie a soarelui de după-amiază.",
+                "en": "The cold iron of the anchor reminds one of the fishermen's hard work; admire it in the golden glow of the late afternoon sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Nautilus",
+                "hu": "Lido Nautilus",
+                "ro": "Lido Nautilus",
+                "en": "Lido Nautilus"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Winter-Sonnenuntergang am Horizont; beeilen Sie sich, da die Temperaturen sinken, sobald die Sonne im Meer versinkt.",
+                "hu": "Nézze meg a téli naplementét a látóhatáron; siessen, mert a hőmérséklet gyorsan zuhan, amint a nap a tengerbe bukik.",
+                "ro": "Urmăriți apusul de iarnă la orizont; grăbiți-vă, deoarece temperatura scade brusc imediat ce soarele dispare în mare.",
+                "en": "Watch the winter sunset on the horizon; be quick, as the temperature drops sharply as soon as the sun dips into the sea."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Tekerjen át a reggelen a bájos központból indulva, magába szívva a történelmi hangulatot, mielőtt megáll a szent bronzszobornál. Délre a kerékpározás a tágas nyugati strandokhoz vezet egy kis tengerparti pihenésre. A délutáni túra tovább visz a partvonal mentén a fenyőfákkal szegélyezett ikonikus partszakaszokhoz. Az este a város tengerészeti emlékművei mellett lassan a nyugalomba hajlik.",
         "ro": "Pedalați dimineața pornind din centrul municipal fermecător, absorbind atmosfera istorică înainte de o scurtă oprire la statuia de bronz. La prânz, plimbarea vă duce la vastele plaje vestice pentru o relaxare binemeritată la malul mării. Ciclismul de după-amiază vă conduce de-a lungul coastei spre țărmurile mărginite de pini. Seara se încheie trecând pe lângă monumentele maritime.",
         "en": "Pedal through the morning starting at the charming municipal center, taking in the historical vibe before a quick stop at the sacred bronze statue. By midday, your ride takes you to the expansive western beaches for some serious seaside relaxation. Afternoon cycling leads you further along the coastline to the iconic pine-fringed shores. Evening winds down past the town's maritime monuments."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig durch die nassen Gassen zum Rathaus. Mittags legen wir kurze Pausen bei Padre Pio ein, während wir auf den rutschigen Straßen aufpassen. Nachmittags suchen wir Schutz bei der Arena und erkunden die Küste bis zu den Due Pini trotz des Regens. Abends beenden wir die Tour am Hafen, wo die Luft feucht und salzig riecht.",
+            "hu": "Reggel óvatosan kerekezünk a vizes utcákon a városháza felé. Délben rövid pihenőket tartunk Padre Pio szobránál, ügyelve a csúszós útviszonyokra. Délután az Arena mellett keresünk fedett részt, majd az esőben is felfedezzük a Due Pini szakaszát. Estére a kikötőben fejezzük be a kört, ahol a levegő párás és sós illatú.",
+            "ro": "Dimineața pedalăm cu atenție pe străzile ude spre primărie. La prânz facem pauze scurte la Padre Pio, fiind atenți la drumul alunecos. După-amiaza căutăm adăpost lângă Arena și explorăm coasta până la Due Pini în ciuda ploii. Seara încheiem turul în port, unde aerul miroase umed și sărat.",
+            "en": "Morning finds us cycling carefully through wet streets toward the town hall. At noon, we take short breaks at the Padre Pio statue, minding the slippery road conditions. In the afternoon, we seek cover near the Arena and explore the coast toward Due Pini despite the rain. The evening ends at the harbor, where the air is damp and salty."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Rodi Garganico",
+                "hu": "Comune di Rodi Garganico",
+                "ro": "Comune di Rodi Garganico",
+                "en": "Comune di Rodi Garganico"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter einen Vorsprung; die Pflastersteine hier sind bei Regen extrem glatt, bremsen Sie frühzeitig.",
+                "hu": "Parkoljon le egy ereszhajlat alatt; a macskakövek itt rendkívül csúszósak esőben, ezért időben kezdje meg a fékezést.",
+                "ro": "Parcați bicicleta sub o streașină; pietrele de pavaj sunt extrem de alunecoase pe ploaie, așa că frânați din timp.",
+                "en": "Park your bike under an eave; the cobblestones here are extremely slippery in the rain, so start braking much earlier."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Padre Pio",
+                "hu": "Statua di Padre Pio",
+                "ro": "Statua di Padre Pio",
+                "en": "Statua di Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Sattel; achten Sie auf die nassen Markierungen auf der Straße, die für Reifen gefährlich sein können.",
+                "hu": "Gyors megálló a nyeregben ülve; ügyeljen a vizes útburkolati jelekre, mert a gumi könnyen megcsúszhat rajtuk az esőben.",
+                "ro": "O oprire scurtă din șa; fiți atenți la marcajele rutiere ude, deoarece pot fi periculoase pentru anvelopele bicicletei.",
+                "en": "A brief stop while staying in the saddle; watch out for wet road markings, which can be dangerous for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena Via Varano",
+                "hu": "Arena Via Varano",
+                "ro": "Arena Via Varano",
+                "en": "Arena Via Varano"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie mit Ihrem Rad Schutz unter den Bäumen; die Abfahrt zur Arena erfordert bei Regen volle Konzentration und gute Bremsen.",
+                "hu": "Keresse a fák védelmét a biciklivel; az Arena felé vezető lejtő esőben teljes koncentrációt és jó fékeket igényel.",
+                "ro": "Căutați protecția copacilor cu bicicleta; coborârea spre Arena necesită concentrare maximă și frâne bune pe timp de ploaie.",
+                "en": "Seek shelter under the trees with your bike; the descent toward the Arena requires full focus and good brakes in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Ponente Rodi",
+                "hu": "Lido Ponente Rodi",
+                "ro": "Lido Ponente Rodi",
+                "en": "Lido Ponente Rodi"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Meer kann Pfützen bilden; tragen Sie wasserfeste Kleidung, um gegen das Spritzwasser geschützt zu sein.",
+                "hu": "A tengerparti kerékpárúton tócsák alakulhatnak ki; viseljen vízhatlan ruházatot a felcsapódó víz és a sár ellen.",
+                "ro": "Pe pista de biciclete de lângă mare se pot forma bălți; purtați haine impermeabile pentru a vă proteja de stropii de apă.",
+                "en": "Puddles may form on the seaside bike path; wear waterproof clothing to stay dry from splashing water and mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Due Pini",
+                "hu": "Spiaggia Due Pini",
+                "ro": "Spiaggia Due Pini",
+                "en": "Spiaggia Due Pini"
+              },
+              "tip_5lang": {
+                "de": "Der Sand auf der Straße macht das Radfahren rutschig; halten Sie genügend Abstand zum Fahrbahnrand bei diesem regnerischen Wetter.",
+                "hu": "Az útra hordott homok csúszóssá teszi a bringázást; tartson biztonságos távolságot az út szélétől a szakadó esőben.",
+                "ro": "Nisipul de pe drum face pedalatul alunecos; păstrați o distanță sigură de marginea drumului pe această vreme ploioasă.",
+                "en": "Sand washed onto the road makes cycling slippery; keep a safe distance from the road edge in this rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Hafen; wischen Sie den Sattel trocken, bevor Sie Ihre Fahrt zur Spiaggia di Levante fortsetzen.",
+                "hu": "Gyors megálló a kikötőnél; törölje szárazra a nyerget, mielőtt továbbkerekezik a Spiaggia di Levante irányába.",
+                "ro": "O oprire rapidă în port; ștergeți șaua înainte de a vă continua drumul spre Spiaggia di Levante în ploaie.",
+                "en": "A quick stop at the harbor; wipe your saddle dry before continuing your ride toward Spiaggia di Levante in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Levante",
+                "hu": "Spiaggia di Levante",
+                "ro": "Spiaggia di Levante",
+                "en": "Spiaggia di Levante"
+              },
+              "tip_5lang": {
+                "de": "Die Tour endet an der rauen Küste; achten Sie auf den starken Seitenwind, der das Radfahren am Strand erschweren kann.",
+                "hu": "A túra a zord tengerparton ér véget; ügyeljen az erős oldalszélre, amely megnehezítheti a haladást a nyílt parton.",
+                "ro": "Turul se încheie pe coasta aspră; fiți atenți la vântul lateral puternic care poate îngreuna pedalatul pe malul mării.",
+                "en": "The tour ends at the rugged coast; watch out for strong crosswinds that can make cycling difficult along the open beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft am Rathaus beißend kalt, aber perfekt für eine zügige Fahrt. Mittags nutzen wir die Wintersonne für eine Pause bei Padre Pio. Nachmittags radeln wir entlang der leeren Strände bis zur Spiaggia di Levante, bevor es um 17:00 Uhr dunkel wird. Abends kehren wir durch die beleuchteten, kühlen Straßen von Rodi zurück.",
+            "hu": "Reggel metszően hideg a levegő a városházánál, de tökéletes egy tempós tekeréshez. Délben a téli napsütést kihasználva pihenünk Padre Pio szobránál. Délután az üres strandok mentén haladunk a Spiaggia di Levante felé, mielőtt 17 órakor ránk sötétedik. Este Rodi kivilágított, hűvös utcáin át térünk vissza.",
+            "ro": "Dimineața aerul este tăios la primărie, dar perfect pentru o plimbare rapidă. La prânz profităm de soarele de iarnă pentru o pauză la Padre Pio. După-amiaza pedalăm de-a lungul plajelor pustii spre Spiaggia di Levante înainte de ora 17:00. Seara ne întoarcem prin străzile luminate și reci ale orașului.",
+            "en": "Morning air is biting cold at the town hall, but perfect for a brisk ride. At noon, we use the winter sun for a break at the Padre Pio statue. In the afternoon, we cycle along empty beaches toward Spiaggia di Levante before darkness falls at 5 PM. The evening sees us returning through the illuminated, cool streets of Rodi."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune di Rodi Garganico",
+                "hu": "Comune di Rodi Garganico",
+                "ro": "Comune di Rodi Garganico",
+                "en": "Comune di Rodi Garganico"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe; der Metalllenker Ihres Rades kann bei den winterlichen Temperaturen extrem kalt werden.",
+                "hu": "Viseljen meleg kesztyűt; a kerékpár fém kormánya a téli hőmérsékletben rendkívül hideg lehet, ami gyorsan lehűti a kezeit.",
+                "ro": "Purtați mănuși groase; ghidonul metalic al bicicletei poate deveni extrem de rece la temperaturile de iarnă de afară.",
+                "en": "Wear warm gloves; the metal handlebars of your bike can get extremely cold in the winter temperatures, chilling your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Padre Pio",
+                "hu": "Statua di Padre Pio",
+                "ro": "Statua di Padre Pio",
+                "en": "Statua di Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Sonne; die klare Winterluft bietet eine fantastische Sicht auf die umliegenden historischen Gebäude.",
+                "hu": "Rövid megálló a napon; a tiszta téli levegő fantasztikus kilátást biztosít a tér körüli történelmi épületekre.",
+                "ro": "O scurtă oprire la soare; aerul curat de iarnă oferă o vizibilitate fantastică asupra clădirilor istorice din jur.",
+                "en": "A short stop in the sun; the clear winter air provides fantastic visibility of the surrounding historic buildings and statues."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena Via Varano",
+                "hu": "Arena Via Varano",
+                "ro": "Arena Via Varano",
+                "en": "Arena Via Varano"
+              },
+              "tip_5lang": {
+                "de": "Die Arena ist im Winter ein stiller Ort; achten Sie auf den Windschatten der Mauern, um sich kurzzeitig aufzuwärmen.",
+                "hu": "Az Arena télen csendes hely; keressen szélvédett pontot a falak mentén, hogy egy kicsit felmelegedjen a tekerés közben.",
+                "ro": "Arena este un loc liniștit iarna; căutați adăpost de vânt lângă ziduri pentru a vă încălzi puțin în timpul turului.",
+                "en": "The Arena is a quiet place in winter; look for a spot sheltered from the wind near the walls to warm up briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Ponente Rodi",
+                "hu": "Lido Ponente Rodi",
+                "ro": "Lido Ponente Rodi",
+                "en": "Lido Ponente Rodi"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht am Strand stärker; treten Sie kräftig in die Pedale, um Ihren Körper bei der kühlen Seebrise warm zu halten.",
+                "hu": "A tengerparton erősebben fúj a szél; tekerjen intenzívebben, hogy testhőmérsékletét fenntartsa a hűvös parti szélben.",
+                "ro": "Vântul suflă mai tare pe plajă; pedalați cu energie pentru a vă menține corpul cald în briza marină rece.",
+                "en": "The wind blows harder on the beach; pedal vigorously to keep your body temperature up in the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia Due Pini",
+                "hu": "Spiaggia Due Pini",
+                "ro": "Spiaggia Due Pini",
+                "en": "Spiaggia Due Pini"
+              },
+              "tip_5lang": {
+                "de": "Die Pinien bieten im Winter etwas Windschutz; prüfen Sie Ihr Reifendruck, da kalte Luft den Druck in den Reifen mindern kann.",
+                "hu": "A fenyők télen némi szélvédelmet nyújtanak; ellenőrizze a guminyomást, mert a hideg levegő miatt csökkenhet a kerékben a nyomás.",
+                "ro": "Pinii oferă puțin adăpost de vânt iarna; verificați presiunea anvelopelor, deoarece aerul rece poate scădea presiunea din roți.",
+                "en": "The pines offer some wind protection in winter; check your tire pressure, as cold air can cause it to drop significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal steht einsam im Winterwind; planen Sie Ihre Rückkehr sorgfältig, da es nach Sonnenuntergang schnell sehr kalt wird.",
+                "hu": "Az emlékmű magányosan áll a téli szélben; tervezze meg a visszautat, mert naplemente után hirtelen lehűl a levegő.",
+                "ro": "Monumentul stă singur în vântul de iarnă; planificați-vă întoarcerea, deoarece se face foarte frig imediat după apus.",
+                "en": "The monument stands lonely in the winter wind; plan your return carefully as it gets very cold right after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Levante",
+                "hu": "Spiaggia di Levante",
+                "ro": "Spiaggia di Levante",
+                "en": "Spiaggia di Levante"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor 17:00 Uhr; sorgen Sie für funktionierende Fahrradlichter für den Weg zurück durch die Dunkelheit.",
+                "hu": "Érkezzen meg ide délután 5 előtt; gondoskodjon a kerékpár lámpáiról, mert a visszaút már sötétben fog telni.",
+                "ro": "Ajungeți aici înainte de ora 17:00; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere pe întuneric.",
+                "en": "Reach this point before 5 PM; ensure your bike lights are working for the return journey through the early darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "A festői autózás a nyugati fenyőknél kezdődik, nyugodt napkezdést kínálva a csillogó víz mellett. A dél a város szívébe visz, hogy felfedezze annak történelmét és vibráló kulturális tereit. Délután könnyedén navigálhat a jelentős helyi szobrok és fenséges horgonyok között. Az este a keleti strandokon ér véget, gyönyörködve az arany óra varázslatos és színpompás kilátásában.",
         "ro": "Plimbarea scenică cu mașina începe la pinii din vest, oferind un start liniștit al zilei lângă apele sclipitoare. Prânzul vă aduce în inima orașului pentru a explora istoria sa și spațiile culturale deschise. După-amiaza, navigați ușor între statuile locale semnificative și ancorele maiestuoase. Seara se termină pe plajele estice, cu vederi absolut minunate în timpul orei de aur.",
         "en": "Your scenic drive begins by the western pines, offering a tranquil start to the day by the sparkling waters. Midday brings you into the heart of town to explore its administrative history and vibrant cultural open spaces. In the afternoon, you easily navigate between significant local statues and majestic anchors. The evening finishes on the eastern beaches with golden hour views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir im trockenen Auto zu den nebligen Stränden der Due Pini. Mittags erkunden wir das Stadtzentrum und parken nah am Rathaus, um dem Regen zu entkommen. Nachmittags genießen wir die Aussicht auf die Küste durch die Scheiben, während es draußen stürmt. Abends beenden wir den Tag entspannt an der Spiaggia di Levante, während die Regentropfen auf das Autodach trommeln.",
+            "hu": "Reggel száraz autóban ülve indulunk a ködös Due Pini strandok felé. Délben a városközpontot fedezzük fel, a városháza közelében parkolva, hogy elkerüljük az esőt. Délután az autó ablakán keresztül csodáljuk a viharos partot. Estére a Spiaggia di Levante környékén állunk meg, hallgatva, ahogy az esőcseppek kopognak az autó tetején.",
+            "ro": "Dimineața conducem în confortul mașinii spre plajele cețoase de la Due Pini. La prânz explorăm centrul orașului, parcând aproape de primărie pentru a evita ploaia. După-amiaza admirăm coasta furtunoasă prin geamurile mașinii. Seara încheiem ziua la Spiaggia di Levante, ascultând picăturile de ploaie bătând în plafonul mașinii.",
+            "en": "Morning starts in the comfort of our car, driving toward the misty Due Pini beaches. At noon, we explore the town center, parking near the town hall to dodge the rain. In the afternoon, we enjoy the stormy coastal views through the car windows. The evening ends at Spiaggia di Levante, listening to the raindrops drumming on the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia Due Pini",
+                "hu": "Spiaggia Due Pini",
+                "ro": "Spiaggia Due Pini",
+                "en": "Spiaggia Due Pini"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund; der Regen kann den Boden am Strand aufweichen, was das Ausfahren erschweren könnte.",
+                "hu": "Parkoljon szilárd talajon; az eső feláztathatja a parti utakat, ami megnehezítheti a későbbi kiállást az autóval.",
+                "ro": "Parcați pe un teren solid; ploaia poate înmuia solul de lângă plajă, făcând plecarea cu mașina mai dificilă.",
+                "en": "Park on solid ground; the rain can soften the soil near the beach, potentially making it difficult to drive out later."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Ponente Rodi",
+                "hu": "Lido Ponente Rodi",
+                "ro": "Lido Ponente Rodi",
+                "en": "Lido Ponente Rodi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt an der Promenade; so kommen Sie auch bei starkem Regen schnell und trocken zum Aussichtspunkt.",
+                "hu": "Használja a közvetlenül a sétány melletti parkolót; így heves esőzés esetén is gyorsan és szárazon érheti el a kilátópontot.",
+                "ro": "Folosiți parcarea de lângă faleză; astfel puteți ajunge rapid și uscat la punctul de observație chiar și pe ploaie torențială.",
+                "en": "Use the parking lot right by the promenade; this allows you to reach the viewpoint quickly and stay dry during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Comune di Rodi Garganico",
+                "hu": "Comune di Rodi Garganico",
+                "ro": "Comune di Rodi Garganico",
+                "en": "Comune di Rodi Garganico"
+              },
+              "tip_5lang": {
+                "de": "Die engen Gassen sind bei Regen rutschig; fahren Sie langsam und achten Sie auf Fußgänger mit Regenschirmen, die die Sicht einschränken.",
+                "hu": "A szűk utcák esőben csúszósak; vezessen lassan, és figyeljen az esernyős gyalogosokra, akik akadályozhatják a kilátást.",
+                "ro": "Străzile înguste sunt alunecoase pe ploaie; conduceți încet și fiți atenți la pietonii cu umbrele care pot limita vizibilitatea.",
+                "en": "Narrow streets are slippery in the rain; drive slowly and watch out for pedestrians with umbrellas who may block your view."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Padre Pio",
+                "hu": "Statua di Padre Pio",
+                "ro": "Statua di Padre Pio",
+                "en": "Statua di Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Straßenrand; halten Sie die Scheibenwischer bereit, da die Sicht am Platz bei starkem Regen eingeschränkt sein kann.",
+                "hu": "Rövid megálló az út szélén; tartsa készenlétben az ablaktörlőket, mert a téren a heves esőzés korlátozhatja a kilátást.",
+                "ro": "O oprire scurtă pe marginea drumului; folosiți ștergătoarele, deoarece vizibilitatea în piață poate fi redusă pe ploaie torențială.",
+                "en": "A short roadside stop; keep your wipers ready as visibility in the square can be quite limited during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal bequem vom Fahrersitz aus; die Beleuchtung des Hafens wirkt bei Regen besonders stimmungsvoll.",
+                "hu": "Csodálja meg az emlékművet kényelmesen a vezetőülésből; a kikötő fényei esőben különösen hangulatos látványt nyújtanak.",
+                "ro": "Admirați monumentul din confortul scaunului șoferului; luminile portului par deosebit de sugestive prin perdeaua de ploaie.",
+                "en": "Admire the monument from the comfort of your car; the harbor lights look especially atmospheric through the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Levante",
+                "hu": "Spiaggia di Levante",
+                "ro": "Spiaggia di Levante",
+                "en": "Spiaggia di Levante"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer; so können Sie das Gewitter über der Adria sicher und trocken im Auto miterleben.",
+                "hu": "Parkoljon a tenger felé fordulva; így biztonságban és szárazon nézheti végig a vihart az Adria felett az autóból.",
+                "ro": "Parcați cu fața spre mare; astfel puteți urmări furtuna de deasupra Adriaticii în siguranță și fără a vă uda în mașină.",
+                "en": "Park facing the sea; this way you can watch the storm over the Adriatic safely and dry from inside your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens nutzen wir die Heizung im Auto auf dem Weg zur klaren, kalten Spiaggia Due Pini. Mittags parken wir bequem im Zentrum für einen kurzen Besuch am Rathaus. Nachmittags fahren wir die Küstenstraße entlang und genießen das goldene Winterlicht vor dem frühen Sonnenuntergang. Abends bietet das Auto einen warmen Rückzugsort, während die Dämmerung über Rodi hereinbricht.",
+            "hu": "Reggel a fűtött autó kényelmét élvezzük a tiszta, hideg Due Pini strand felé vezető úton. Délben a központban parkolunk egy rövid városházi látogatáshoz. Délután a tengerparti úton autózunk, élvezve az arany téli fényeket a korai naplemente előtt. Este az autó meleg menedéket nyújt, miközben a szürkület leszáll Rodi városára.",
+            "ro": "Dimineața ne bucurăm de căldura mașinii în drum spre plaja Due Pini, sub cerul senin de iarnă. La prânz parcăm în centru pentru o scurtă vizită la primărie. După-amiaza conducem pe drumul de coastă, admirând lumina aurie înainte de apusul devreme. Seara, mașina oferă un refugiu cald în timp ce amurgul coboară peste Rodi.",
+            "en": "Morning finds us enjoying the car's heater on the way to the clear, cold Spiaggia Due Pini. At noon, we park conveniently in the center for a quick visit to the town hall. In the afternoon, we drive along the coastal road, enjoying the golden winter light before the early sunset. The evening offers a warm retreat in the car as twilight settles over Rodi."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia Due Pini",
+                "hu": "Spiaggia Due Pini",
+                "ro": "Spiaggia Due Pini",
+                "en": "Spiaggia Due Pini"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze am Strand sind im Winter fast leer; genießen Sie die Ruhe der Natur, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A tengerparti parkolók télen szinte üresek; élvezze a természet csendjét, mielőtt visszatérne az autóba felmelegedni.",
+                "ro": "Parcările de lângă plajă sunt aproape goale iarna; bucurați-vă de liniștea naturii înainte de a vă încălzi din nou în mașină.",
+                "en": "The beach parking lots are almost empty in winter; enjoy the peace of nature before warming up again inside your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Ponente Rodi",
+                "hu": "Lido Ponente Rodi",
+                "ro": "Lido Ponente Rodi",
+                "en": "Lido Ponente Rodi"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für die Aussicht; lassen Sie den Motor nicht zu lange im Leerlauf laufen, um die Umwelt in der klaren Winterluft zu schonen.",
+                "hu": "Rövid megálló a kilátásért; ne járassa feleslegesen a motort, hogy kímélje a környezetet és a tiszta téli levegőt a parton.",
+                "ro": "O oprire scurtă pentru priveliște; nu lăsați motorul pornit inutil pentru a proteja mediul și aerul curat de iarnă de la malul mării.",
+                "en": "A short stop for the view; don't leave the engine idling for too long to protect the environment and the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Comune di Rodi Garganico",
+                "hu": "Comune di Rodi Garganico",
+                "ro": "Comune di Rodi Garganico",
+                "en": "Comune di Rodi Garganico"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen in den schattigen Gassen; parken Sie etwas außerhalb, wenn Sie die engen Wege im Winter meiden möchten.",
+                "hu": "Ügyeljen a jeges foltokra az árnyékos utcákban; parkoljon kicsit távolabb, ha télen el akarja kerülni a nagyon szűk átjárókat.",
+                "ro": "Atenție la porțiunile înghețate de pe străzile umbrite; parcați puțin mai departe dacă doriți să evitați drumurile foarte înguste iarna.",
+                "en": "Watch out for icy patches in shaded alleys; park slightly further out if you want to avoid the very narrow paths in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Padre Pio",
+                "hu": "Statua di Padre Pio",
+                "ro": "Statua di Padre Pio",
+                "en": "Statua di Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter im Zentrum unkompliziert; nutzen Sie die Zeit für ein kurzes Gebet oder einen Moment der Stille.",
+                "hu": "A központban a parkolás télen egyszerű; használja ki az időt egy rövid imára vagy egy csendes pillanatra a szobornál.",
+                "ro": "Găsirea unui loc de parcare în centru este ușoară iarna; folosiți timpul pentru o scurtă rugăciune sau un moment de liniște.",
+                "en": "Finding parking in the center is easy in winter; use the extra time for a short prayer or a quiet moment by the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancora",
+                "hu": "Ancora",
+                "ro": "Ancora",
+                "en": "Ancora"
+              },
+              "tip_5lang": {
+                "de": "Das Hafenviertel ist im Winter sehr ruhig; genießen Sie die maritime Atmosphäre direkt aus dem warmen Inneren Ihres Fahrzeugs.",
+                "hu": "A kikötő környéke télen nagyon csendes; élvezze a tengerparti hangulatot közvetlenül a járműve meleg belsejéből.",
+                "ro": "Zona portului este foarte liniștită iarna; bucurați-vă de atmosfera maritimă direct din interiorul cald al mașinii dumneavoastră.",
+                "en": "The harbor area is very quiet in winter; enjoy the maritime atmosphere directly from the warm interior of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Levante",
+                "hu": "Spiaggia di Levante",
+                "ro": "Spiaggia di Levante",
+                "en": "Spiaggia di Levante"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Verschwinden der Sonne um 17:00 Uhr; prüfen Sie Ihre Autobatterie, da Kälte die Leistung im Winter mindern kann.",
+                "hu": "Nézze meg, ahogy a nap 17 órakor eltűnik; ellenőrizze az akkumulátort, mert a hideg megviselheti az autó teljesítményét télen.",
+                "ro": "Urmăriți cum dispare soarele la ora 17:00; verificați bateria mașinii, deoarece frigul îi poate reduce performanța iarna.",
+                "en": "Watch the sun disappear at 5 PM; check your car battery as the cold can reduce its performance during winter months."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a történelmi Place Belliard téren, majd élvezze a Notre-Dame templom rendkívül nyugodt atmoszféráját a város szívében.\n\nDélben merüljön el a helyi történelemben a Fontenay Múzeumban, majd sétáljon el a díszes Fontaine des Quatre-Tias szökőkúthoz fotózni.\n\nDélután tegyen egy pihentető sétát a Baron Park zöldellő, romokkal teli oázisában, gyönyörködve a békés és csendes természetben.\n\nA napot a hihetetlenül lenyűgöző Terre-Neuve kastély reneszánsz pompájával és gazdag díszítéseivel zárja kellemesen.",
         "ro": "Începeți dimineața în istorica Place Belliard, înainte de a păși în superba Biserică Notre-Dame pentru momente prețioase de liniște și contemplare.\n\nLa prânz, explorați cu atenție Muzeul Fontenay pentru istoria regională, apoi admirați sculpturile fântânii clasice Fontaine des Quatre-Tias.\n\nPetreceți după-amiaza bucurându-vă de o plimbare foarte relaxantă prin oaza verde a Parcului Baron și a ruinelor sale.\n\nÎncheiați ziua explorând în detaliu minunatul Castel Terre-Neuve, o veritabilă bijuterie arhitecturală renascentistă din zonă.",
         "en": "Start your morning at the historic Place Belliard, admiring its stunning facades before stepping into the serene and majestic Notre-Dame Church.\n\nMidday, dive deep into local history at the Fontenay Museum, then take a moment to marvel at the intricate details of Fontaine des Quatre-Tias.\n\nSpend your afternoon enjoying a peaceful stroll through the green oasis of Baron Park, completely surrounded by charming ancient ruins.\n\nConclude your satisfying day with a visit to the magnificent Terre-Neuve Castle, renowned as a true French Renaissance gem."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Arkaden der Place Belliard, während der Regen auf das Kopfsteinpflaster trommelt. Mittags bieten die Kirche und das Museum trockene Zuflucht für kulturelle Entdeckungen im Warmen. Am Nachmittag führt der Weg durch den Parc Baron, wo die Bäume teilweisen Schutz bieten, bevor es zum Schloss geht. Abends glänzen die nassen Gassen im Schein der Laternen.",
+            "hu": "Reggel a Place Belliard árkádjai alatt keresünk menedéket az eső elől, figyelve a vizes macskakövek csillogását. Délben a templom hűvös csendje és a múzeum gazdag gyűjteménye kínál száraz programot. Délután a park fái között sétálva élvezzük a friss, esőáztatta levegőt, majd a kastély felé vesszük az irányt. Este a város fényei visszatükröződnek a pocsolyákban, különleges hangulatot árasztva.",
+            "ro": "Dimineața începe sub arcadele protectoare din Place Belliard, în timp ce ploaia tobează pe piatra cubică. La prânz, biserica și muzeul oferă un refugiu uscat pentru descoperiri culturale la căldură. După-amiaza, drumul trece prin Parcul Baron, unde copacii oferă o protecție parțială înainte de a merge la castel. Seara, străzile umede strălucesc sub lumina felinarelor, creând o atmosferă intimă.",
+            "en": "The morning starts under the protective arcades of Place Belliard as rain drums on the cobblestones. At noon, the church and museum provide dry sanctuary for warm cultural exploration. In the afternoon, the path through Parc Baron offers some tree cover before heading to the castle. In the evening, the wet streets shimmer under the lamplight, creating a romantic and moody atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Belliard",
+                "hu": "Place Belliard",
+                "ro": "Place Belliard",
+                "en": "Place Belliard"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Renaissance-Architektur von den trockenen Arkaden aus; nutzen Sie die überdachten Bereiche, da das nasse Kopfsteinpflaster sehr rutschig sein kann.",
+                "hu": "Csodálja meg a reneszánsz építészetet a száraz árkádok alól; használja a fedett részeket, mivel a vizes macskakő meglehetősen csúszós és balesetveszélyes lehet.",
+                "ro": "Admirați arhitectura renascentistă de sub arcadele uscate; folosiți zonele acoperite, deoarece piatra cubică umedă poate fi destul de alunecoasă și periculoasă.",
+                "en": "Admire the Renaissance architecture from the dry arcades; use the covered areas as the wet cobblestones can be quite slippery and tricky for walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in diesem gotischen Juwel und bestaunen Sie die Details; der Innenraum bleibt angenehm trocken, während draußen der Regen gegen die Fenster peitscht.",
+                "hu": "Keressen menedéket ebben a gótikus ékszerdobozban; a belső tér kellemesen száraz marad, miközben az eső kopog az üvegablakokon, fokozva a hely szakrális csendjét.",
+                "ro": "Căutați refugiu în această bijuterie gotică; interiorul rămâne plăcut uscat în timp ce ploaia bate în ferestre, sporind liniștea sacră a acestui lăcaș istoric.",
+                "en": "Seek shelter in this Gothic gem and marvel at its details; the interior remains pleasantly dry while the rain beats against the windows, enhancing the silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Fontenay",
+                "hu": "Fontenay Múzeum",
+                "ro": "Muzeul Fontenay",
+                "en": "Fontenay Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier viel Zeit, um der Nässe zu entfliehen und die Kunstschätze zu prüfen; nutzen Sie die Garderobe, um Ihre nassen Regenmäntel bequem abzugeben.",
+                "hu": "Töltsön itt hosszabb időt az eső elől menekülve a műkincsek között; használja a ruhatárat, hogy kényelmesen letehesse a vizes esőkabátot a látogatás idejére.",
+                "ro": "Petreceți mai mult timp aici scăpând de ploaie printre operele de artă; folosiți garderoba pentru a vă lăsa pelerina umedă în siguranță pe durata vizitei.",
+                "en": "Spend extended time here escaping the wet weather among art treasures; use the cloakroom to drop off your wet raincoats comfortably during your gallery tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontaine des Quatre-Tias",
+                "hu": "Fontaine des Quatre-Tias",
+                "ro": "Fontaine des Quatre-Tias",
+                "en": "Fontaine des Quatre-Tias"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Fließen des Brunnens, das mit dem Regen verschmilzt; halten Sie Ihren Regenschirm fest, da der Wind in dieser Gasse oft plötzlich zunimmt.",
+                "hu": "Nézze meg, hogyan olvad össze a kút folyása az esőcseppekkel; fogja szorosan az esernyőjét, mert a szél ebben a szűk utcában gyakran hirtelen felerősödhet.",
+                "ro": "Vedeți cum se contopește curgerea fântânii cu picăturile de ploaie; țineți strâns umbrela, deoarece vântul în această stradă îngustă se poate intensifica brusc.",
+                "en": "Watch the fountain's flow blend with the falling raindrops; hold your umbrella firmly as the wind in this narrow street often picks up suddenly during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Baron",
+                "hu": "Baron Park",
+                "ro": "Parcul Baron",
+                "en": "Baron Park"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie unter den dichten Baumkronen, die einen natürlichen Schirm bilden; meiden Sie jedoch die unbefestigten Wege, die bei Regen sehr schlammig werden.",
+                "hu": "Sétáljon a sűrű lombkoronák alatt, melyek természetes ernyőt tartanak; kerülje a burkolatlan ösvényeket, mert esőben sárossá és nehezen járhatóvá válnak.",
+                "ro": "Plimbați-vă sub coronamentul des al copacilor, care formează o umbrelă naturală; evitați potecile neasfaltate, care devin noroioase și greu de parcurs.",
+                "en": "Walk under the dense tree canopies which act as a natural umbrella; avoid unpaved paths though, as they become muddy and difficult to navigate in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Terre-Neuve",
+                "hu": "Terre-Neuve kastély",
+                "ro": "Castelul Terre-Neuve",
+                "en": "Terre-Neuve Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die prunkvollen Innenräume und die Kamine im Renaissance-Stil; es ist der ideale Ort, um sich nach einem nassen Spaziergang im Trockenen zu erholen.",
+                "hu": "Élvezze a pompás belső tereket és a reneszánsz kandallókat; ez a tökéletes hely a pihenésre egy vizes séta után, miközben felfedezi a kastély történelmét.",
+                "ro": "Bucurați-vă de interioarele splendide și de șemineele renascentiste; este locul perfect pentru odihnă după o plimbare umedă, explorând istoria castelului.",
+                "en": "Enjoy the magnificent interiors and Renaissance fireplaces; it is the ideal place to dry off and rest after a wet walk while exploring the castle's history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt auf der Place Belliard, wo der Nebel die Renaissance-Häuser einhüllt. Mittags bieten die beheizten Hallen der Kirche und des Museums eine willkommene Wärmepause vom kalten Wind. Am Nachmittag eilen wir durch den Park, um das Schloss vor dem frühen Sonnenuntergang um 17:00 Uhr zu erreichen. Abends leuchten die Fenster der Altstadt gemütlich in der Dunkelheit.",
+            "hu": "A fagyos reggel a Place Belliard-on indul, ahol a köd különleges keretbe foglalja a reneszánsz házakat. Délben a templom és a múzeum fűtött terei nyújtanak menedéket a csípős szél elől. Délután sietünk át a parkon, hogy a korai, 17:00-s naplemente előtt még lássuk a kastélyt teljes pompájában. Este az óváros ablakai melegen világítanak a korán leszálló téli sötétségben.",
+            "ro": "Dimineața geroasă începe în Place Belliard, unde ceața învăluie casele renascentiste. La prânz, spațiile încălzite ale bisericii și muzeului oferă o pauză binemeritată de la vântul rece. După-amiaza, grăbim pasul prin parc pentru a ajunge la castel înainte de apusul timpuriu de la ora 17:00. Seara, ferestrele orașului vechi luminează primitor în întunericul iernii.",
+            "en": "The frosty morning begins at Place Belliard, where mist enshrouds the Renaissance houses. At noon, the heated halls of the church and museum provide a welcome break from the biting winter wind. In the afternoon, we hurry through the park to reach the castle before the early 17:00 sunset. In the evening, the old town's windows glow warmly in the early descending winter darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Belliard",
+                "hu": "Place Belliard",
+                "ro": "Place Belliard",
+                "en": "Place Belliard"
+              },
+              "tip_5lang": {
+                "de": "Schätzen Sie die klaren Linien der Fassaden im harten Winterlicht; tragen Sie warme Handschuhe, da der Wind auf dem offenen Platz oft besonders eisig weht.",
+                "hu": "Csodálja meg a homlokzatok éles vonalait a tiszta téli fényben; viseljen meleg kesztyűt, mert a nyitott téren a szél gyakran különösen jegesen tud fújni.",
+                "ro": "Admirați liniile clare ale fațadelor în lumina rece de iarnă; purtați mănuși groase, deoarece vântul în piața deschisă poate fi extrem de tăios și înghețat.",
+                "en": "Appreciate the sharp lines of the facades in the crisp winter light; wear warm gloves as the wind on the open square can be particularly biting and icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die etwas mildere Luft im Inneren der dicken Steinmauern; achten Sie auf den Temperaturunterschied beim Hinausgehen in die Kälte.",
+                "hu": "Élvezze a csendet és a vastag kőfalak közötti valamivel enyhébb levegőt; ügyeljen a hirtelen hőmérséklet-változásra, amikor kilép a téli szabadba a látogatás után.",
+                "ro": "Bucurați-vă de liniște și de aerul ceva mai blând din interiorul zidurilor groase de piatră; atenție la diferența de temperatură când ieșiți din nou în frig.",
+                "en": "Enjoy the silence and the slightly milder air within the thick stone walls; be mindful of the temperature drop when stepping back outside into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Fontenay",
+                "hu": "Fontenay Múzeum",
+                "ro": "Muzeul Fontenay",
+                "en": "Fontenay Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich aufzuwärmen und dabei die lokale Geschichte zu studieren; die gut beheizten Galerien laden zum langen Verweilen an kalten Tagen ein.",
+                "hu": "Tökéletes hely a felmelegedésre a helyi történelem tanulmányozása közben; a jól fűtött galériák hosszas időtöltésre csábítanak a hideg téli napokon is.",
+                "ro": "Un loc perfect pentru a vă încălzi în timp ce studiați istoria locală; galeriile bine încălzite vă invită la o vizită lungă și confortabilă în zilele geroase.",
+                "en": "A perfect spot to warm up while studying local history; the well-heated galleries invite you to linger for a long time on these freezing winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontaine des Quatre-Tias",
+                "hu": "Fontaine des Quatre-Tias",
+                "ro": "Fontaine des Quatre-Tias",
+                "en": "Fontaine des Quatre-Tias"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach Eiskristallen am Brunnenrand, wenn die Temperaturen unter Null fallen; seien Sie vorsichtig, da das Wasser auf dem Boden gefrieren und glatt sein kann.",
+                "hu": "Keressen jégkristályokat a kút szélén, ha a hőmérséklet fagypont alá süllyed; legyen óvatos, mert a kifröccsenő víz a talajon hamar jégpáncélt képezhet.",
+                "ro": "Căutați cristale de gheață pe marginea fântânii dacă temperatura scade sub zero; fiți atenți, apa revărsată poate îngheța pe jos, făcând zona alunecoasă.",
+                "en": "Look for ice crystals on the fountain's edge if temperatures drop below freezing; be careful as splashed water can freeze on the ground, creating slippery patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Baron",
+                "hu": "Baron Park",
+                "ro": "Parcul Baron",
+                "en": "Baron Park"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die skelettartige Schönheit der Bäume gegen den Winterhimmel; bewegen Sie sich zügig, um warm zu bleiben, und genießen Sie die klare, frische Luft.",
+                "hu": "Csodálja meg a fák csupasz ágainak rajzolatát a téli égbolt előtt; mozogjon tempósan, hogy testhőmérsékletét megőrizze, és élvezze a tiszta, friss levegőt.",
+                "ro": "Admirați frumusețea scheletică a copacilor pe fundalul cerului de iarnă; mergeți rapid pentru a vă menține căldura și bucurați-vă de aerul proaspăt și curat.",
+                "en": "Experience the skeletal beauty of the bare trees against the winter sky; move briskly to stay warm while enjoying the invigorating and crisp fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Terre-Neuve",
+                "hu": "Terre-Neuve kastély",
+                "ro": "Castelul Terre-Neuve",
+                "en": "Terre-Neuve Castle"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Schloss in der dämmerigen Atmosphäre des späten Nachmittags; die Steinmauern strahlen eine besondere Ruhe aus, wenn der Wintertag zu Ende geht.",
+                "hu": "Látogasson el a kastélyba a késő délutáni szürkületben; a kőfalak különleges nyugalmat árasztanak, ahogy a téli naplemente fényei megfestik a homlokzatot.",
+                "ro": "Vizitați castelul în amurgul târziu al după-amiezii; zidurile de piatră emană o liniște aparte în timp ce lumina apusului de iarnă pictază fațada clădirii.",
+                "en": "Visit the castle in the late afternoon twilight; the stone walls radiate a special calm as the winter sunset paints the facade in soft, golden hues."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpározzon el kényelmesen a Place Belliard térre és a Notre-Dame templomhoz, könnyedén navigálva az egész város pezsgő történelmi szívében.\n\nDélben tekerjen át egyenesen a Fontenay Múzeumhoz, hogy sokkal jobban megismerje a rendkívül gazdag helyi és regionális kulturális örökséget.\n\nDélután vegye könnyedén az irányt a zöldellő Baron Park felé, és pihenjen meg kényelmesen a hatalmas, ősi fák megnyugtató és hűsítő árnyékában.\n\nFejezze be ezt az aktív napot a lenyűgöző Terre-Neuve kastélynál, majd frissüljön fel egy igazán jóleső úszással a közeli, modern vízi központban.",
         "ro": "Pedalați dimineața spre Place Belliard și frumoasa Biserică Notre-Dame, navigând cu ușurință prin centrul istoric absolut vibrant al întregului oraș.\n\nLa prânz, mergeți relaxat cu bicicleta direct la Muzeul Fontenay pentru o incursiune deosebit de fascinantă în istoria locală și arta regională.\n\nDupă-amiaza, îndreptați-vă încet spre Parcul Baron pentru a vă relaxa confortabil la umbra copacilor seculari uriași și a admira vechile ruine de piatră.\n\nÎncheiați ziua activă explorând unicul Castel Terre-Neuve, urmat de o sesiune de înot deosebit de răcoritoare la excelentul centru acvatic local.",
         "en": "Cycle your way to the bustling Place Belliard and the gorgeous Notre-Dame Church, easily navigating through the truly historic heart of the old town.\n\nRide directly over to the Fontenay Museum by midday for an incredibly engaging and thorough look into the rich local heritage and regional history.\n\nIn the afternoon, gently pedal towards the sprawling Baron Park to fully relax under the comforting shade of massive ancient trees and stone ruins.\n\nFinish your active and fulfilling day at the impressive Terre-Neuve Castle before heading out to the modern aquatic center to swim and fully unwind."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet vorsichtig auf der Place Belliard bei leichtem Regen. Mittags dienen die Kirche und das Museum als trockene Haltepunkte, während wir die Ausrüstung prüfen. Am Nachmittag führt die Fahrt durch den feuchten Parc Baron zum Schloss. Der Abschluss im Aquatik-Zentrum ist ideal, um sich nach der nassen Fahrt in den warmen Becken vollständig zu entspannen.",
+            "hu": "A kerékpáros nap óvatosan indul a Place Belliard-on az esőben. Délben a templom és a múzeum kínál száraz pihenőt, ahol ellenőrizhetjük felszerelésünket. Délután a vizes aszfalton tekerünk át a parkon a kastélyig. A napot az uszodában zárjuk, ami tökéletes helyszín arra, hogy a vizes és hűvös tekerés után a meleg medencékben teljesen ellazuljunk.",
+            "ro": "Ziua pe bicicletă începe cu precauție în Place Belliard pe o ploaie ușoară. La prânz, biserica și muzeul servesc ca puncte de oprire uscate pentru verificarea echipamentului. După-amiaza, cursa continuă prin parcul umed către castel. Finalul la centrul acvatic este ideal pentru a vă relaxa complet în bazinele calde după o cursă umedă.",
+            "en": "The cycling day starts cautiously at Place Belliard in light rain. At noon, the church and museum serve as dry stopovers where we can check our gear. In the afternoon, the ride continues through the damp Parc Baron to the castle. Ending at the aquatic centre is perfect for warming up and relaxing in the pools after a wet ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Belliard",
+                "hu": "Place Belliard",
+                "ro": "Place Belliard",
+                "en": "Place Belliard"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über das nasse Kopfsteinpflaster, um Ausrutscher zu vermeiden; parken Sie Ihr Fahrrad unter den Arkaden, um den Sattel beim Erkunden trocken zu halten.",
+                "hu": "Tekerjen lassan a vizes macskakövön az elcsúszás elkerülése érdekében; parkoljon az árkádok alatt, hogy a nyereg száraz maradjon, amíg körülnéz a téren.",
+                "ro": "Pedalați încet pe piatra cubică umedă pentru a evita derapajele; parcați sub arcade pentru a păstra șaua uscată în timp ce explorați zona la pas.",
+                "en": "Ride slowly over the wet cobblestones to avoid slipping; park your bike under the arcades to keep the seat dry while you explore the square on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine kurze Aufwärmpause im Trockenen; stellen Sie sicher, dass Ihre Bremsen trotz der Feuchtigkeit gut funktionieren, bevor Sie weiterfahren.",
+                "hu": "Használja ki a látogatást egy rövid, száraz pihenőre; mielőtt továbbindulna, ellenőrizze, hogy a fékek a nedvesség ellenére is megfelelően fognak-e.",
+                "ro": "Folosiți vizita pentru o scurtă pauză uscată; asigurați-vă că frânele funcționează corect în ciuda umidității înainte de a porni din nou la drum prin oraș.",
+                "en": "Use this visit for a brief dry break; ensure your brakes are working effectively despite the moisture before continuing your ride through the city streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Fontenay",
+                "hu": "Fontenay Múzeum",
+                "ro": "Muzeul Fontenay",
+                "en": "Fontenay Museum"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad sicher an und genießen Sie die Ausstellung ohne Zeitdruck; ein langer Museumsbesuch ist die beste Strategie, um einen Regenschauer abzuwarten.",
+                "hu": "Zárja le biztonságosan kerékpárját, és élvezze a kiállítást időnyomás nélkül; egy hosszú múzeumlátogatás a legjobb stratégia egy hirtelen zápor kivárására.",
+                "ro": "Blocați bicicleta în siguranță și bucurați-vă de expoziție fără grabă; o vizită lungă la muzeu este cea mai bună strategie pentru a aștepta trecerea ploii.",
+                "en": "Lock your bike securely and enjoy the exhibition without rush; a long museum visit is the best strategy to wait out a passing rain shower in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Baron",
+                "hu": "Baron Park",
+                "ro": "Parcul Baron",
+                "en": "Baron Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf den Wegen, das sehr rutschig sein kann; nutzen Sie die asphaltierten Hauptwege, um eine schlammige Fahrt durch das Gras zu vermeiden.",
+                "hu": "Ügyeljen az utakon lévő vizes levelekre, mert rendkívül csúszósak lehetnek; használja az aszfaltozott főutakat, hogy elkerülje a sáros terepen való tekerést.",
+                "ro": "Atenție la frunzele umede de pe alei, care pot fi foarte alunecoase; folosiți căile principale asfaltate pentru a evita noroiul de pe zonele cu iarbă.",
+                "en": "Watch out for wet leaves on the paths as they can be extremely slippery; stick to the paved main routes to avoid a muddy ride through the grassy areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Terre-Neuve",
+                "hu": "Terre-Neuve kastély",
+                "ro": "Castelul Terre-Neuve",
+                "en": "Terre-Neuve Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Regen anstrengend sein, aber die Aussicht lohnt sich; nehmen Sie sich Zeit für die Innenbesichtigung, um wieder ganz trocken zu werden.",
+                "hu": "A kastélyhoz vezető emelkedő esőben fárasztó lehet, de a látvány kárpótolja; szánjon időt a belső terekre, hogy teljesen megszáradjon a tekerés után.",
+                "ro": "Urcarea spre castel poate fi obositoare pe ploaie, dar vederea merită; alocați timp pentru interior pentru a vă usca complet după efortul depus pe bicicletă.",
+                "en": "The climb to the castle can be tiring in the rain, but the view is worth it; take your time visiting the interior to dry off completely after the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Aquatique Océanides",
+                "hu": "Centre Aquatique Océanides",
+                "ro": "Centrul Acvatic Océanides",
+                "en": "Centre Aquatique Océanides"
+              },
+              "tip_5lang": {
+                "de": "Der ultimative Abschluss für einen nassen Radtag; springen Sie in die warmen Innenbecken, um Ihre Muskeln zu lockern und den Tag entspannt ausklingen zu lassen.",
+                "hu": "A vizes kerékpáros nap tökéletes lezárása; merüljön el a meleg belső medencékben, hogy ellazítsa izmait és kellemesen fejezze be ezt a kalandos napot.",
+                "ro": "Finalul suprem pentru o zi umedă pe bicicletă; săriți în bazinele interioare calde pentru a vă relaxa mușchii și a încheia ziua într-un mod reconfortant.",
+                "en": "The ultimate finish for a wet cycling day; jump into the warm indoor pools to loosen your muscles and end the day in a relaxing and comforting way."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dicken Handschuhen beginnt die Fahrt auf der Place Belliard in der klaren Winterluft. Mittags bieten die Stopps bei der Kirche und im Museum notwendige Aufwärmpausen für die Finger und Zehen. Am Nachmittag führt die Route durch den winterlich kargen Park zum Schloss. Das Aquatik-Zentrum am Abend ist ein Segen, um die Kälte der Fahrt in der Sauna oder im warmen Wasser zu vergessen.",
+            "hu": "Vastag kesztyűben indul a tekerés a Place Belliard-on a tiszta téli levegőben. Délben a templom és a múzeum kínál elengedhetetlen felmelegedési lehetőséget az átfagyott ujjaknak. Délután a kopár téli parkon keresztül tekerünk a kastélyig. Az uszoda az este folyamán igazi áldás, ahol a szaunában vagy a meleg vízben végleg elfelejthetjük a kinti hideget.",
+            "ro": "Cu mănuși groase, cursa începe în Place Belliard în aerul curat de iarnă. La prânz, opririle la biserică și muzeu oferă pauze necesare de încălzire pentru degete. După-amiaza, ruta trece prin parcul golaș spre castel. Centrul acvatic de seară este o binecuvântare pentru a uita de frigul rutei în saună sau în apa caldă.",
+            "en": "With thick gloves, the ride starts at Place Belliard in the crisp winter air. At noon, stops at the church and museum provide essential warming breaks for cold fingers. In the afternoon, the route leads through the barren park to the castle. The aquatic centre in the evening is a blessing to thaw out in the sauna or warm water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Belliard",
+                "hu": "Place Belliard",
+                "ro": "Place Belliard",
+                "en": "Place Belliard"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisflächen auf dem Platz, besonders im Schatten der Gebäude; tragen Sie winddichte Kleidung, da die Fahrtgeschwindigkeit die Kälte verstärkt.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a téren, különösen az épületek árnyékában; viseljen szélálló ruhát, mert a haladási sebesség felerősíti a hidegérzetet.",
+                "ro": "Atenție la zonele cu gheață din piață, în special la umbra clădirilor; purtați haine rezistente la vânt, deoarece viteza de deplasare accentuează senzația de frig.",
+                "en": "Watch out for potential ice patches on the square, especially in shaded areas; wear windproof clothing as your riding speed will intensify the cold sensation."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenraum für eine kurze Rast; die dicken Mauern halten die schlimmste Kälte draußen und bieten einen Moment der spirituellen Ruhe.",
+                "hu": "Használja ki a szélvédett belső teret egy rövid pihenőre; a vastag falak kirekesztik a legzordabb hideget is, és pillanatnyi lelki békét nyújtanak a túra közben.",
+                "ro": "Folosiți interiorul protejat de vânt pentru o scurtă odihnă; zidurile groase țin la distanță gerul și oferă un moment de liniște spirituală în timpul traseului.",
+                "en": "Utilize the wind-sheltered interior for a brief rest; the thick walls keep out the worst of the cold and offer a moment of spiritual peace during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Fontenay",
+                "hu": "Fontenay Múzeum",
+                "ro": "Muzeul Fontenay",
+                "en": "Fontenay Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Pause ein, um Ihre Körpertemperatur wieder zu normalisieren; die beheizten Räume sind ideal, um neue Energie für die Weiterfahrt zu tanken.",
+                "hu": "Tervezzen ide hosszabb szünetet, hogy testhőmérséklete helyreálljon; a fűtött termek ideálisak ahhoz, hogy újult erővel vágjon neki a túra hátralévő részének.",
+                "ro": "Planificați o pauză mai lungă aici pentru a vă normaliza temperatura corpului; camerele încălzite sunt ideale pentru a vă reîncărca energiile pentru drum.",
+                "en": "Plan a longer break here to normalize your body temperature; the heated rooms are ideal for recharging your energy before continuing the winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Baron",
+                "hu": "Baron Park",
+                "ro": "Parcul Baron",
+                "en": "Baron Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht durch die blattlosen Bäume bis hinunter zur Stadt; bleiben Sie in Bewegung, um nicht auszukühlen, und meiden Sie vereiste Stellen.",
+                "hu": "Élvezze a tiszta kilátást a kopasz fákon keresztül egészen a városig; maradjon folyamatos mozgásban, hogy ne hűljön ki, és kerülje a gyanúsan csillogó útszakaszokat.",
+                "ro": "Bucurați-vă de vederea clară prin copacii fără frunze până spre oraș; rămâneți în mișcare pentru a nu îngheța și evitați porțiunile de drum care par înghețate.",
+                "en": "Enjoy the clear views through the leafless trees down to the town; keep moving to maintain body heat and avoid any suspicious-looking frozen patches on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Terre-Neuve",
+                "hu": "Terre-Neuve kastély",
+                "ro": "Castelul Terre-Neuve",
+                "en": "Terre-Neuve Castle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss zügig vor dem frühen Lichteinbruch; die historische Atmosphäre wirkt im Winter besonders authentisch und ruhig ohne die Sommermassen.",
+                "hu": "Látogasson el a kastélyba még a korai sötétedés előtt; a történelmi hangulat télen különösen hitelesnek és nyugodtnak hat a nyári tömeg hiánya miatt.",
+                "ro": "Vizitați castelul înainte de lăsarea timpurie a întunericului; atmosfera istorică pare deosebit de autentică și liniștită iarna, fără aglomerația de vară.",
+                "en": "Visit the castle promptly before the early sunset; the historical atmosphere feels particularly authentic and peaceful in winter without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Aquatique Océanides",
+                "hu": "Centre Aquatique Océanides",
+                "ro": "Centrul Acvatic Océanides",
+                "en": "Centre Aquatique Océanides"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach der kalten Fahrt in der Sauna oder im Dampfbad auf; das warme Wasser ist die beste Belohnung für Ihre winterliche Radtour durch Fontenay.",
+                "hu": "Melegedjen fel a szaunában vagy a gőzkabinban a hideg tekerés után; a forró víz a legjobb jutalom a Fontenay környéki téli kerékpártúra végén.",
+                "ro": "Încălziți-vă în saună sau în baia de aburi după cursa geroasă; apa caldă este cea mai bună recompensă pentru turul dumneavoastră hibernal prin Fontenay.",
+                "en": "Warm up in the sauna or steam room after your freezing ride; the hot water is the best reward for completing your winter cycling tour through Fontenay."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje nagyszerű autós túráját a lenyűgöző Terre-Neuve kastélynál, és csodálja meg annak páratlan reneszánsz építészetét a friss, nyugalmas és békés kora reggeli órákban.\n\nDélben hajtson kényelmesen a nyüzsgő városközpontba, hogy maradéktalanul felfedezze az elegáns Place Belliard-t és a magasba törő, impozáns Notre-Dame templomot.\n\nDélután tegyen egy rövid, de annál festőibb utat a Baron Park hatalmas fáihoz, majd látogasson el a kifejezetten családbarát és rendkívül modern Centre Aquatique Océanides-be.\n\nA hosszú napot a vadregényes és egészen különleges hangulatú Carrière de la Guerre lenyűgöző természeti képződményeinek és régi kőbányájának alapos felfedezésével zárja.",
         "ro": "Începeți turul cu mașina la impresionantul Castel Terre-Neuve, admirând cu mare atenție superba sa arhitectură renascentistă exact la primele și cele mai liniștite ore ale dimineții.\n\nConduceți spre centrul istoric al orașului la prânz pentru a vedea detaliat atât cocheta Place Belliard, cât și absolut uimitoarea și înalta Biserică Notre-Dame cu turla sa.\n\nBucurați-vă de o după-amiază deosebit de pitorească conducând scurt până la Parcul Baron, urmată de momente incredibil de distractive la excelentul Centru Acvatic Océanides.\n\nÎncheiați călătoria explorând pe îndelete peisajul natural sălbatic și de-a dreptul fascinant de la impresionanta carieră de piatră părăsită cunoscută sub numele de Carrière de la Guerre.",
         "en": "Start your extensive driving tour directly at the grand Terre-Neuve Castle, taking ample time to deeply appreciate its magnificent and historic Renaissance architecture early in the morning.\n\nDrive effortlessly into the old town center right around midday to comprehensively explore the charming Place Belliard and the incredibly striking and tall Notre-Dame Church.\n\nEnjoy a very scenic and pleasant afternoon drive first to the shady Baron Park, then straight to the highly modern and completely family-friendly aquatic center, Centre Aquatique Océanides.\n\nWrap up your diverse and fulfilling daytrip by venturing out slightly to thoroughly explore the wonderfully rugged, ancient, and highly fascinating natural landscapes of Carrière de la Guerre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt bequem im trockenen Auto beim Schloss Terre-Neuve. Mittags parken wir nah an der Place Belliard und der Kirche, um die Gehwege im Regen kurz zu halten. Am Nachmittag schützt uns das Auto auf dem Weg zum Aquatik-Zentrum vor den Güssen. Der Tag endet mit einem Besuch beim Steinbruch, wo wir die dramatischen Felswände sicher aus dem Fahrzeugfenster beobachten.",
+            "hu": "A nap kényelmesen indul a száraz autóban a Terre-Neuve kastélynál. Délben a Place Belliard és a templom közelében parkolunk, hogy minimalizáljuk az esőben töltött időt. Délután az autó védelmet nyújt az uszoda felé vezető úton a záporok elől. A napot a kőfejtőnél zárjuk, ahol a drámai sziklafalakat biztonságban, az autó ablakából is megcsodálhatjuk.",
+            "ro": "Călătoria începe confortabil în mașina uscată la Castelul Terre-Neuve. La prânz parcăm aproape de Place Belliard și de biserică pentru a scurta mersul prin ploaie. După-amiaza, mașina ne protejează de averse în drumul spre centrul acvatic. Ziua se încheie cu o vizită la carieră, unde observăm pereții dramatici de stâncă în siguranță de la fereastra vehiculului.",
+            "en": "The trip begins comfortably in the dry car at Terre-Neuve Castle. At noon, we park close to Place Belliard and the church to keep walking distances in the rain short. In the afternoon, the car shields us from downpours on the way to the aquatic centre. The day ends at the quarry, where we can observe the dramatic rock walls safely from the vehicle window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Terre-Neuve",
+                "hu": "Terre-Neuve kastély",
+                "ro": "Castelul Terre-Neuve",
+                "en": "Terre-Neuve Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den parkplatznahen Eingang, um nicht nass zu werden; die Innenbesichtigung ist perfekt, um den ersten starken Regen des Tages trocken zu überbrücken.",
+                "hu": "Használja a parkolóhoz közeli bejáratot, hogy ne ázzon el; a belső látogatás tökéletes módja annak, hogy szárazon vészelje át a nap első nagyobb esőzését.",
+                "ro": "Folosiți intrarea de lângă parcare pentru a nu vă uda; vizitarea interiorului este modalitatea perfectă de a aștepta trecerea primei ploi serioase a zilei.",
+                "en": "Use the entrance near the parking area to stay dry; the interior tour is the perfect way to spend time while waiting for the first heavy rain to pass over."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Belliard",
+                "hu": "Place Belliard",
+                "ro": "Place Belliard",
+                "en": "Place Belliard"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den umliegenden Straßen und nutzen Sie einen Regenschirm für den kurzen Weg zum Platz; die nassen Fassaden bieten tolle Fotomotive mit Spiegelungen.",
+                "hu": "Parkoljon a közeli utcákban, és használjon esernyőt a térig tartó rövid úton; a vizes homlokzatok és a tükröződések remek fotótémát kínálnak az esőben is.",
+                "ro": "Parcați pe străzile din apropiere și folosiți o umbrelă pentru drumul scurt până în piață; fațadele umede oferă oportunități foto excelente cu reflexii frumoase.",
+                "en": "Park in the nearby streets and use an umbrella for the short walk to the square; the wet facades and reflections offer great photo opportunities even in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ruhige, trockene Atmosphäre fernab vom Regenwetter; prüfen Sie vor der Abfahrt den Zustand der Scheibenwischer für eine sichere Weiterfahrt.",
+                "hu": "A templom csendes, száraz menedéket nyújt az esős idő elől; továbbindulás előtt ellenőrizze az ablaktörlők állapotát a biztonságos közlekedés érdekében.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat departe de vremea ploioasă; înainte de plecare, verificați starea ștergătoarelor pentru o călătorie în siguranță.",
+                "en": "The church offers a quiet, dry sanctuary away from the rainy weather; check your windshield wipers before leaving to ensure safe driving in visibility conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Baron",
+                "hu": "Baron Park",
+                "ro": "Parcul Baron",
+                "en": "Baron Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das satte Grün des Parks nach dem Regen aus dem Auto heraus oder bei einem kurzen Gang; achten Sie auf Aquaplaning auf den Zufahrtswegen zum Park.",
+                "hu": "Élvezze a park eső utáni élénk zöld színeit az autóból vagy egy rövid séta során; ügyeljen a felgyülemlett vízre a parkhoz vezető bekötőutakon.",
+                "ro": "Bucurați-vă de verdele intens al parcului după ploaie din mașină sau în timpul unei scurte plimbări; atenție la acvaplanare pe drumurile de acces spre parc.",
+                "en": "Enjoy the park's vibrant green colors after the rain from the car or during a short walk; be mindful of aquaplaning on the access roads leading to the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Aquatique Océanides",
+                "hu": "Centre Aquatique Océanides",
+                "ro": "Centrul Acvatic Océanides",
+                "en": "Centre Aquatique Océanides"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um trockenen Fußes ins Bad zu gelangen; das warme Wasser ist der perfekte Kontrast zum grauen Regenwetter vor den Fenstern.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy száraz lábbal jusson be az uszodába; a meleg víz tökéletes kontrasztot nyújt az ablakon túli szürke, esős idővel.",
+                "ro": "Parcați chiar la intrare pentru a ajunge uscat în interior; apa caldă oferă un contrast perfect cu vremea gri și ploioasă de afară, vizibilă prin ferestre.",
+                "en": "Park right at the entrance to reach the facility dry; the warm water provides a perfect contrast to the grey, rainy weather visible through the large windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrière de la Guerre",
+                "hu": "Carrière de la Guerre",
+                "ro": "Carrière de la Guerre",
+                "en": "Carrière de la Guerre"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Naturschauspiel der nassen Felsen bequem vom Auto aus; die Farben des Gesteins wirken im Regen besonders intensiv und dramatisch.",
+                "hu": "Csodálja meg a vizes sziklák látványát kényelmesen, az autóból; a kőzet színei esőben különösen intenzívnek és drámainak hatnak ezen a különleges helyszínen.",
+                "ro": "Admirați spectacolul stâncilor umede confortabil, din mașină; culorile rocii par deosebit de intense și dramatice pe ploaie în această locație specială.",
+                "en": "Admire the spectacle of the wet rocks comfortably from your car; the rock colors appear particularly intense and dramatic in the rain at this unique site."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt im beheizten Wagen beim Schloss Terre-Neuve im morgendlichen Reif. Mittags genießen wir die kurzen Wege zwischen Parkplatz und den historischen Sehenswürdigkeiten der Stadt. Am Nachmittag bringt uns das Auto zügig zum Aquatik-Zentrum, wo wir die Kälte vergessen. Zum Abschluss fahren wir zum Steinbruch, um die karge Winterlandschaft im letzten Licht des Tages vor 17:00 Uhr zu erleben.",
+            "hu": "A túra a fűtött autóban indul a Terre-Neuve kastélynál a reggeli dérben. Délben élvezzük a rövid sétákat a parkoló és a város történelmi látnivalói között. Délután az autóval gyorsan eljutunk az uszodáig, ahol elfelejthetjük a kinti hideget. Végezetül a kőfejtőhöz hajtunk, hogy még a 17:00-s sötétedés előtt lássuk a kopár téli tájat.",
+            "ro": "Turul începe în mașina încălzită la Castelul Terre-Neuve în chiciura dimineții. La prânz ne bucurăm de distanțele scurte între parcare și atracțiile istorice ale orașului. După-amiaza, mașina ne duce rapid la centrul acvatic pentru a uita de frig. La final, mergem la carieră pentru a vedea peisajul hibernal golaș înainte de ora 17:00.",
+            "en": "The tour starts in a heated car at Terre-Neuve Castle in the morning frost. At noon, we enjoy the short walks between parking and the town's historical sights. In the afternoon, the car quickly takes us to the aquatic centre to escape the cold. Finally, we drive to the quarry to see the barren winter landscape before the 17:00 darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Terre-Neuve",
+                "hu": "Terre-Neuve kastély",
+                "ro": "Castelul Terre-Neuve",
+                "en": "Terre-Neuve Castle"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh an, um das Schloss im sanften Winterlicht zu sehen; achten Sie auf Frost auf den Zufahrtswegen, die am Morgen noch glatt sein können.",
+                "hu": "Érkezzen korán, hogy láthassa a kastélyt a lágy téli fényekben; ügyeljen a bekötőutakon a hajnali dérre, amely reggelente még csúszóssá teheti az utat.",
+                "ro": "Sosiți devreme pentru a vedea castelul în lumina blândă de iarnă; atenție la chiciura de pe drumurile de acces, care poate face carosabilul alunecos dimineața.",
+                "en": "Arrive early to see the castle in the soft winter light; be mindful of frost on the access roads, which can make the driving surface slippery in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Belliard",
+                "hu": "Place Belliard",
+                "ro": "Place Belliard",
+                "en": "Place Belliard"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie nahegelegene Parkplätze, um die Zeit im kalten Wind auf dem Platz zu minimieren; die klare Winterluft bietet eine exzellente Sicht auf die Details.",
+                "hu": "Használja a közeli parkolókat, hogy minimalizálja a hideg szélben töltött időt a téren; a tiszta téli levegőben kiválóan látszanak az építészeti részletek.",
+                "ro": "Folosiți parcările din apropiere pentru a minimiza timpul petrecut în vântul rece din piață; aerul curat de iarnă oferă o vizibilitate excelentă asupra detaliilor.",
+                "en": "Use nearby parking lots to minimize time spent in the cold wind on the square; the crisp winter air provides excellent visibility for architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren der Kirche als willkommene Pause von der Außenkälte; stellen Sie sicher, dass Ihre Autobatterie fit für die Wintertemperaturen ist.",
+                "hu": "Élvezze a templom belső nyugalmát, mint kellemes pihenőt a kinti hidegtől; indulás előtt győződjön meg róla, hogy az autó akkumulátora bírja a téli fagyokat.",
+                "ro": "Bucurați-vă de liniștea din interiorul bisericii ca o pauză binevenită de la frigul exterior; asigurați-vă că bateria mașinii este pregătită pentru iarnă.",
+                "en": "Enjoy the inner peace of the church as a welcome break from the outside cold; ensure your car battery is in good condition for the low winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Baron",
+                "hu": "Baron Park",
+                "ro": "Parcul Baron",
+                "en": "Baron Park"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang durch den winterlichen Park belebt die Sinne, bevor es zurück ins warme Auto geht; tragen Sie festes Schuhwerk für gefrorene Wege.",
+                "hu": "Egy rövid séta a téli parkban felfrissíti az érzékeket, mielőtt visszatérne a meleg autóba; viseljen stabil cipőt a fagyott és kemény útszakaszokhoz.",
+                "ro": "O scurtă plimbare prin parcul hibernal vă va revigora înainte de a reveni în mașina caldă; purtați încălțăminte stabilă pentru potecile înghețate și tari.",
+                "en": "A short walk through the winter park refreshes the senses before returning to the warm car; wear sturdy shoes for the frozen and hard sections of the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Aquatique Océanides",
+                "hu": "Centre Aquatique Océanides",
+                "ro": "Centrul Acvatic Océanides",
+                "en": "Centre Aquatique Océanides"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Kälte des Tages endgültig abzuschütteln; genießen Sie die wohltuende Wärme der Becken, während draußen der Wintertag früh endet.",
+                "hu": "Tökéletes helyszín, hogy végleg lerázza magáról a nap hidegét; élvezze a medencék jótékony melegét, miközben odakint korán véget ér a téli nappal.",
+                "ro": "Locul perfect pentru a scăpa definitiv de frigul zilei; bucurați-vă de căldura binefăcătoare a bazinelor în timp ce afară ziua de iarnă se termină devreme.",
+                "en": "The perfect location to finally shake off the day's cold; enjoy the beneficial warmth of the pools while the winter day ends early outside the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrière de la Guerre",
+                "hu": "Carrière de la Guerre",
+                "ro": "Carrière de la Guerre",
+                "en": "Carrière de la Guerre"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort im letzten Licht des Nachmittags für eine fast mystische Stimmung; bleiben Sie im Auto, um die Aussicht ohne Frieren zu genießen.",
+                "hu": "Látogasson el ide a délutáni utolsó fényekben a szinte misztikus hangulatért; maradjon az autóban, hogy fázás nélkül élvezhesse a téli táj szépségét.",
+                "ro": "Vizitați acest loc în ultimele lumini ale după-amiezii pentru o atmosferă aproape mistică; rămâneți în mașină pentru a vedea peisajul fără a îngheța.",
+                "en": "Visit this site in the last light of the afternoon for an almost mystical atmosphere; stay inside the car to enjoy the winter landscape without freezing."
+              }
+            }
+          ]
+        }
       }
     }
   }

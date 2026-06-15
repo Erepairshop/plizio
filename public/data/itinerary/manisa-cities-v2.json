@@ -137,6 +137,168 @@
         "hu": "A manisai reggel a lenyűgöző oszmán kori történelmi műemlékek felfedezésével kezdődik. Dél körül a kanyargós utcákon sétálva fedezheti fel a régebbi negyedek spirituális központját. Ahogy a délután kibontakozik, az utazás lenyűgöző domboldali mecsetekkel és csodás kilátásokkal folytatódik. Az estét pedig a város utolsó, békés és csendes helyszínein elmélkedve fejezheti be.",
         "ro": "Dimineața în Manisa începe cu marile monumente istorice care au modelat epoca otomană. Până la prânz, vă veți plimba pe străzile șerpuite descoperind nucleul spiritual al cartierelor vechi. Pe măsură ce după-amiaza se desfășoară, călătoria continuă cu moschei impresionante pe dealuri și priveliști ample. Vă veți încheia seara reflectând la ultimele opriri senine din acest oraș antic.",
         "en": "Your morning in Manisa starts with the grand historical monuments that shaped the Ottoman era. By midday, you will wander through the winding streets discovering the spiritual core of the older neighborhoods. As the afternoon unfolds, the journey continues with impressive hillside mosques and sweeping views. You will finish your evening reflecting at the final serene stops of this ancient city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Manisa im Regen bietet eine mystische Atmosphäre. Der Morgen beginnt geschützt unter den Arkaden der Sultan-Moschee. Mittags führt der Weg über glänzende, rutschige Kopfsteinpflaster zur Ulu-Moschee. Am Nachmittag bieten die kleineren Gebetshäuser willkommenen Schutz vor dem Guss. Der Abend endet früh, während das Prasseln des Regens die Stille der historischen Viertel untermalt.",
+            "hu": "Manisa esőben misztikus hangulatot áraszt. A reggel a Sultan-mecset árkádjai alatt indul, védve az égi áldástól. Délben a fényes, csúszós macskaköveken vezet az út az Ulu-mecsethez. Délután a kisebb imaházak nyújtanak menedéket a záporok elől. Az este korán zárul, miközben az eső kopogása festi alá a történelmi negyedek csendjét.",
+            "ro": "Manisa în ploaie oferă o atmosferă mistică. Dimineața începe protejată sub arcadele Moscheii Sultan. La prânz, drumul duce pe pavaje lucioase și alunecoase spre Moscheea Ulu. După-amiaza, micile lăcașuri de cult oferă adăpost binevenit împotriva aversei. Seara se încheie devreme, în timp ce ropotul ploii acompaniază liniștea cartierelor istorice.",
+            "en": "Manisa in the rain offers a mystical atmosphere. The morning starts protected under the arches of the Sultan Mosque. At noon, the path leads over shiny, slippery cobblestones to the Ulu Mosque. In the afternoon, the smaller prayer houses provide welcome shelter from the downpour. The evening ends early, as the pattering rain underscores the silence of the historic districts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sultan-Moschee",
+                "hu": "Sultan-mecset",
+                "ro": "Moscheea Sultan",
+                "en": "Sultan Camii"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Geburtsstätte des Mesir-Heilsaftes unter den trockenen Arkaden; bringen Sie einen stabilen Schirm für die kurzen Wege zwischen den Gebäuden mit.",
+                "hu": "Csodálja meg a Mesir Macunu születési helyét a száraz árkádok alatt; hozzon magával strapabíró esernyőt az épületek közötti rövid, de ázós szakaszokhoz.",
+                "ro": "Admirați locul de naștere al elixirului Mesir sub arcadele uscate; aduceți o umbrelă rezistentă pentru scurtele distanțe dintre clădiri.",
+                "en": "Admire the birthplace of the Mesir Macunu elixir under the dry arches; bring a sturdy umbrella for the short, wet walks between the historic buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu-Moschee",
+                "hu": "Ulu-mecset",
+                "ro": "Moscheea Ulu",
+                "en": "Ulu Camii"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das verregnete Manisa von der Anhöhe aus; achten Sie auf die extrem rutschigen Steinstufen beim Aufstieg zur Moschee.",
+                "hu": "Élvezze a drámai kilátást az eső áztatta Manisára a magaslatról; ügyeljen a rendkívül csúszós lépcsőfokokra, miközben felkapaszkodik a mecset bejáratához.",
+                "ro": "Bucurați-vă de vederea dramatică asupra orașului Manisa sub ploaie de pe înălțime; atenție la treptele de piatră extrem de alunecoase în timpul urcării.",
+                "en": "Enjoy the dramatic view of rain-soaked Manisa from the hilltop; watch out for the extremely slippery stone steps while climbing up to the mosque entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Göktaşlı-Moschee",
+                "hu": "Göktaşlı-mecset",
+                "ro": "Moscheea Göktaşlı",
+                "en": "Göktaşlı Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen ruhigen Ort als perfekten Unterschlupf bei plötzlichen Schauern; die dunklen Steine der Fassade wirken bei Nässe besonders kontrastreich und edel.",
+                "hu": "Használja ezt a csendes helyet tökéletes menedékként a hirtelen záporok elől; a homlokzat sötét kövei nedvesen különösen kontrasztosak és elegánsak.",
+                "ro": "Folosiți acest loc liniștit ca adăpost perfect în timpul averselor bruște; pietrele întunecate ale fațadei par deosebit de contrastante și nobile când sunt ude.",
+                "en": "Use this quiet spot as a perfect refuge from sudden showers; the dark stones of the facade look particularly contrasting and elegant when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Hatuniye-Moschee",
+                "hu": "Hatuniye-mecset",
+                "ro": "Moscheea Hatuniye",
+                "en": "Hatuniye Cami"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die feinen Details der Kuppel, während draußen der Regen fällt; wasserfestes Schuhwerk ist auf den umliegenden, teils unebenen Wegen unerlässlich.",
+                "hu": "Szemlélje meg a kupola finom részleteit, miközben kint dobol az eső; a vízálló lábbeli elengedhetetlen a környező, helyenként egyenetlen utakon.",
+                "ro": "Observați detaliile fine ale cupolei în timp ce afară plouă; încălțămintea impermeabilă este esențială pe drumurile din jur, parțial denivelate.",
+                "en": "Contemplate the fine details of the dome while the rain falls outside; waterproof footwear is essential on the surrounding, sometimes uneven paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaybey-Moschee",
+                "hu": "Alaybey-mecset",
+                "ro": "Moscheea Alaybey",
+                "en": "Alaybey Camii"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag in der Geborgenheit dieser Moschee ausklingen; die feuchte Abendluft lässt die beleuchteten Minarette im Nebel besonders sanft erstrahlen.",
+                "hu": "Zárja a napot e mecset biztonságos falai között; a párás esti levegőben a kivilágított minaretek különösen lágyan ragyognak át a ködön keresztül.",
+                "ro": "Încheiați ziua în siguranța acestei moschei; aerul umed al serii face ca minaretele iluminate să strălucească deosebit de blând prin ceață.",
+                "en": "End your day within the safety of this mosque; the damp evening air makes the illuminated minarets glow particularly softly through the mist."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterspaziergang in Manisa ist erfrischend und klar. Der Morgen beginnt mit kühler Luft an der Sultan-Moschee. Mittags wärmt die tiefstehende Sonne die alten Mauern der Ulu-Moschee. Am Nachmittag ziehen lange Schatten durch die Gassen. Da die Sonne bereits gegen 17:00 Uhr untergeht, hüllt die frühe Dämmerung die Stadt in ein sanftes, winterliches Licht.",
+            "hu": "Egy téli séta Manisában frissítő és tiszta. A reggel hűvös levegőben indul a Sultan-mecsetnél. Délben az alacsonyan járó nap melegíti az Ulu-mecset ősi falait. Délután hosszú árnyékok nyúlnak végig a szűk utcákon. Mivel a nap már 17:00 körül lenyugszik, a korai szürkület lágy, téli fénybe öltözteti a várost.",
+            "ro": "O plimbare de iarnă în Manisa este revigorantă și clară. Dimineața începe cu aer rece la Moscheea Sultan. La prânz, soarele blând încălzește zidurile vechi ale Moscheii Ulu. După-amiaza, umbre lungi străbat străduțele. Deoarece soarele apune deja în jur de ora 17:00, amurgul timpuriu îmbracă orașul într-o lumină blândă de iarnă.",
+            "en": "A winter walk in Manisa is refreshing and clear. The morning starts with crisp air at the Sultan Mosque. At noon, the low-lying sun warms the ancient walls of the Ulu Mosque. In the afternoon, long shadows stretch through the alleys. Since the sun sets around 17:00, the early dusk envelops the city in soft, wintry light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sultan-Moschee",
+                "hu": "Sultan-mecset",
+                "ro": "Moscheea Sultan",
+                "en": "Sultan Camii"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten für den zugigen Innenhof; das Innere der Moschee bietet eine friedliche Wärme, ideal um sich vor dem nächsten Ziel kurz aufzuwärmen.",
+                "hu": "Viseljen réteges, meleg ruhát a huzatos belső udvar miatt; a mecset belseje békés meleget áraszt, ideális egy rövid felmelegedéshez a következő célpont előtt.",
+                "ro": "Purtați haine groase în straturi pentru curtea interioară unde trage curentul; interiorul moscheii oferă o căldură pașnică, ideală pentru o scurtă încălzire.",
+                "en": "Wear warm layers for the drafty courtyard; the interior of the mosque offers a peaceful warmth, ideal for a quick warm-up before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu-Moschee",
+                "hu": "Ulu-mecset",
+                "ro": "Moscheea Ulu",
+                "en": "Ulu Camii"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick ist im Winter besonders klar; ziehen Sie Handschuhe an, da der Wind auf diesem Hügel deutlich schärfer weht als in den geschützten Tälern.",
+                "hu": "A panoráma télen különösen tiszta; húzzon kesztyűt, mert a szél ezen a dombon jóval metszőbb, mint a város védettebb, mélyebben fekvő részein.",
+                "ro": "Panorama este deosebit de clară iarna; puneți-vă mănuși, deoarece vântul pe acest deal este mult mai tăios decât în zonele protejate ale orașului.",
+                "en": "The panoramic view is exceptionally clear in winter; put on gloves as the wind on this hill is much sharper than in the protected lower parts of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Göktaşlı-Moschee",
+                "hu": "Göktaşlı-mecset",
+                "ro": "Moscheea Göktaşlı",
+                "en": "Göktaşlı Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, gemütlicher Rückzugsort vor der Winterkälte; nutzen Sie das weiche Licht der kurzen Wintertage für stimmungsvolle Fotos der Backsteinfassade.",
+                "hu": "Kicsi, meghitt menedék a téli hideg elől; használja ki a rövid téli napok lágy fényeit a téglahomlokzat hangulatos fotózásához.",
+                "ro": "Un refugiu mic și primitor împotriva frigului de iarnă; profitați de lumina caldă a scurtelor zile de iarnă pentru fotografii de atmosferă ale fațadei.",
+                "en": "A small, cozy retreat from the winter cold; take advantage of the soft light of short winter days for atmospheric photos of the brick facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Hatuniye-Moschee",
+                "hu": "Hatuniye-mecset",
+                "ro": "Moscheea Hatuniye",
+                "en": "Hatuniye Cami"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne beleuchtet das Portal im Winter besonders vorteilhaft; achten Sie auf glatte Stellen im Schattenbereich der dicken historischen Mauern.",
+                "hu": "A déli napsütés télen különösen előnyösen világítja meg a kaput; ügyeljen a jeges vagy síkos foltokra a vastag történelmi falak árnyékos oldalán.",
+                "ro": "Soarele de la prânz luminează portalul deosebit de avantajos iarna; atenție la porțiunile alunecoase din umbra zidurilor istorice groase.",
+                "en": "The midday sun illuminates the portal particularly well in winter; watch out for slippery patches in the shadows cast by the thick historical walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaybey-Moschee",
+                "hu": "Alaybey-mecset",
+                "ro": "Moscheea Alaybey",
+                "en": "Alaybey Camii"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Rundgang pünktlich zum Sonnenuntergang um 17 Uhr; die warmen Lichter im Inneren bilden einen tollen Kontrast zur blauen Stunde draußen.",
+                "hu": "Fejezze be a körutat pontosan a 17 órai naplementekor; a belső tér meleg fényei csodás kontrasztot alkotnak a kinti kék óra hűvös árnyalataival.",
+                "ro": "Încheiați turul exact la apusul soarelui de la ora 17:00; luminile calde din interior creează un contrast superb cu nuanțele orei albastre de afară.",
+                "en": "Finish the tour right at the 17:00 sunset; the warm indoor lights create a wonderful contrast with the cool tones of the blue hour outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A manisai reggel a lenyűgöző oszmán kori történelmi műemlékek felfedezésével kezdődik. Dél körül a kanyargós utcákon sétálva fedezheti fel a régebbi negyedek spirituális központját. Ahogy a délután kibontakozik, az utazás lenyűgöző domboldali mecsetekkel és csodás kilátásokkal folytatódik. Az estét pedig a város utolsó, békés és csendes helyszínein elmélkedve fejezheti be.",
         "ro": "Dimineața în Manisa începe cu marile monumente istorice care au modelat epoca otomană. Până la prânz, vă veți plimba pe străzile șerpuite descoperind nucleul spiritual al cartierelor vechi. Pe măsură ce după-amiaza se desfășoară, călătoria continuă cu moschei impresionante pe dealuri și priveliști ample. Vă veți încheia seara reflectând la ultimele opriri senine din acest oraș antic.",
         "en": "Your morning in Manisa starts with the grand historical monuments that shaped the Ottoman era. By midday, you will wander through the winding streets discovering the spiritual core of the older neighborhoods. As the afternoon unfolds, the journey continues with impressive hillside mosques and sweeping views. You will finish your evening reflecting at the final serene stops of this ancient city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen durch Manisa erfordert gute Ausrüstung. Der Vormittag verbringen Sie trocken im Museum. Mittags geht es über nasse Straßen zu den Moscheen im Stadtzentrum. Am Nachmittag sind die Wege zum Berg Spil oft neblig und kühl. Achten Sie auf die Bremswege auf dem feuchten Asphalt, während Sie die Stadt aus einer anderen Perspektive erleben.",
+            "hu": "Az esőben tett manisai kerékpártúra jó felszerelést igényel. A délelőttöt töltse szárazon a múzeumban. Délben nedves utakon guruljon a belvárosi mecsetek felé. Délután a Spil-hegy lábánál fekvő utak gyakran ködösek és hűvösek. Figyeljen a megnövekedett féktávra a nedves aszfalton, miközben új perspektívából látja a várost.",
+            "ro": "O tură cu bicicleta prin Manisa pe ploaie necesită echipament bun. Petreceți dimineața la adăpost în muzeu. La prânz, pedalați pe străzi ude spre moscheile din centru. După-amiaza, drumurile spre muntele Spil sunt adesea cețoase. Atenție la distanța de frânare pe asfaltul umed în timp ce descoperiți orașul dintr-o altă perspectivă.",
+            "en": "A bike tour in the rain through Manisa requires good gear. Spend the morning dry in the museum. At noon, cycle over wet streets towards the city center mosques. In the afternoon, the paths near Mount Spil are often misty and cool. Pay attention to longer braking distances on wet asphalt as you experience the city from a different perspective."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manisa-Museum",
+                "hu": "Manisa Múzeum",
+                "ro": "Muzeul Manisa",
+                "en": "Manisa Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um den schlimmsten Regen abzuwarten; nutzen Sie die überdachten Fahrradständer in der Nähe, um Ihr Rad vor Nässe zu schützen.",
+                "hu": "Kezdjen itt, hogy megvárja a leghevesebb esőt; használja a közeli fedett kerékpártárolókat, hogy megóvja járművét a teljes átázástól.",
+                "ro": "Începeți aici pentru a aștepta trecerea celei mai grele ploi; folosiți rastelele acoperite din apropiere pentru a vă proteja bicicleta de umezeală.",
+                "en": "Start here to wait out the worst of the rain; use the nearby covered bike racks to protect your bicycle from getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Arap Alanı-Moschee",
+                "hu": "Arap Alanı-mecset",
+                "ro": "Moscheea Arap Alanı",
+                "en": "Arap Alanı Camii"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Abbiegen auf den nassen Straßen; die Moschee bietet eine gute Gelegenheit, kurz die Regenjacke zu lüften und sich im Trockenen zu sammeln.",
+                "hu": "Óvatosan kanyarodjon a nedves utakon; a mecset jó lehetőséget kínál az esőkabát rövid kiszellőztetésére és a szárazon történő pihenésre.",
+                "ro": "Atenție la viraje pe străzile ude; moscheea oferă o ocazie bună de a aerisi puțin pelerina de ploaie și de a vă reculege la adăpost.",
+                "en": "Be careful when turning on wet roads; the mosque provides a good opportunity to air out your raincoat briefly and regroup in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Karaköy Attar Hoca Moschee",
+                "hu": "Karaköy Attar Hoca-mecset",
+                "ro": "Moscheea Karaköy Attar Hoca",
+                "en": "Karaköy Attar Hoca Camii"
+              },
+              "tip_5lang": {
+                "de": "Die engen Gassen hier können bei Regen sehr rutschig sein; parken Sie das Rad sicher am Rand und genießen Sie die Stille im Inneren der Moschee.",
+                "hu": "Az itteni szűk utcák esőben nagyon csúszósak lehetnek; parkolja le biztonságosan a biciklit a szélen, és élvezze a mecset belső csendjét.",
+                "ro": "Străduțele înguste de aici pot fi foarte alunecoase pe ploaie; parcați bicicleta în siguranță pe margine și bucurați-vă de liniștea din interior.",
+                "en": "The narrow alleys here can be very slippery in the rain; park your bike safely at the side and enjoy the quiet interior of the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacı Yahya Moschee",
+                "hu": "Hacı Yahya-mecset",
+                "ro": "Moscheea Hacı Yahya",
+                "en": "Hacı Yahya Camii"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, um sich unter dem Vordach kurz abzutrocknen; prüfen Sie Ihre Bremsen, bevor es weiter durch den dichten Stadtverkehr geht.",
+                "hu": "Egy gyors megálló, hogy rövid időre megszárítkozzon az előtető alatt; ellenőrizze a fékeket, mielőtt továbbindulna a sűrű városi forgalomban.",
+                "ro": "O scurtă oprire pentru a vă usca sub streașină; verificați frânele înainte de a continua drumul prin traficul dens al orașului.",
+                "en": "A quick stop to dry off briefly under the overhang; check your brakes before continuing through the heavy city traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Sultan-Moschee",
+                "hu": "Sultan-mecset",
+                "ro": "Moscheea Sultan",
+                "en": "Sultan Camii"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvolle Anlage entschädigt für die nasse Fahrt; nutzen Sie die Zeit für eine ausführliche Besichtigung, während draußen ein Schauer durchzieht.",
+                "hu": "A pompás épületegyüttes kárpótolja a nedves utazásért; szánjon időt a részletes megtekintésre, amíg kint elvonul egy kiadósabb zápor.",
+                "ro": "Complexul magnific compensează călătoria umedă; folosiți timpul pentru o vizitare detaliată în timp ce afară trece o aversă puternică.",
+                "en": "The magnificent complex compensates for the wet ride; use the time for a detailed tour while a heavy shower passes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu-Moschee",
+                "hu": "Ulu-mecset",
+                "ro": "Moscheea Ulu",
+                "en": "Ulu Camii"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg mit dem Rad erfordert bei Nässe viel Kraft und Vorsicht; belohnen Sie sich mit dem Ausblick, der bei Regen oft besonders dramatisch wirkt.",
+                "hu": "A kerékpáros emelkedő nedves úton nagy erőt és óvatosságot igényel; kárpótolja magát a kilátással, ami esőben gyakran rendkívül drámai hatást kelt.",
+                "ro": "Urcarea cu bicicleta pe carosabil umed necesită multă forță și atenție; recompensați-vă cu priveliștea, care pe ploaie pare adesea extrem de dramatică.",
+                "en": "The uphill climb on wet roads requires significant effort and caution; reward yourself with the view, which often looks particularly dramatic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Dervişali-Moschee",
+                "hu": "Dervişali-mecset",
+                "ro": "Moscheea Dervişali",
+                "en": "Dervişali Camii"
+              },
+              "tip_5lang": {
+                "de": "Letzte Station, um sich vor der Heimfahrt aufzuwärmen; wischen Sie den Sattel vor dem Start gründlich trocken, um eine angenehme Fahrt zu haben.",
+                "hu": "Az utolsó állomás a felmelegedésre a hazaút előtt; indulás előtt törölje alaposan szárazra a nyerget a kényelmesebb tekerés érdekében.",
+                "ro": "Ultima oprire pentru a vă încălzi înainte de drumul spre casă; ștergeți bine șaua înainte de plecare pentru a avea o călătorie plăcută.",
+                "en": "The final stop to warm up before the ride home; wipe your saddle thoroughly dry before starting for a more comfortable trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im winterlichen Manisa bietet klare Luft und weite Sichten. Der Vormittag startet frisch am Museum. Mittags laden die sonnigen Plätze vor den Moscheen zu kurzen Pausen ein. Nachmittags kühlt es schnell ab, besonders im Schatten des Berges. Planen Sie Ihre Route so, dass Sie vor der frühen Dunkelheit gegen 17:00 Uhr zurück sind, um sicher zu fahren.",
+            "hu": "A téli Manisában a kerékpározás tiszta levegőt és távoli kilátást ígér. A délelőtt frissen indul a múzeumnál. Délben a mecsetek előtti napos terek rövid pihenőkre hívogatnak. Délután gyorsan lehűl a levegő, különösen a hegy árnyékában. Tervezze úgy az utat, hogy a 17:00 körüli korai sötétedés előtt hazaérjen a biztonság érdekében.",
+            "ro": "Ciclismul în Manisa pe timp de iarnă oferă aer curat și vizibilitate mare. Dimineața începe proaspăt la muzeu. La prânz, piețele însorite din fața moscheilor invită la scurte pauze. După-amiaza se răcește rapid, mai ales în umbra muntelui. Planificați ruta astfel încât să vă întoarceți înainte de întunericul de la ora 17:00.",
+            "en": "Cycling in wintry Manisa offers crisp air and far-reaching views. The morning starts fresh at the museum. At noon, sunny squares in front of the mosques invite brief rests. In the afternoon, it cools down quickly, especially in the mountain's shadow. Plan your route to be back before the early darkness around 17:00 for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manisa-Museum",
+                "hu": "Manisa Múzeum",
+                "ro": "Muzeul Manisa",
+                "en": "Manisa Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf, bevor Sie die Fahrt fortsetzen; im Winter ist der Besucherandrang geringer, was für mehr Ruhe sorgt.",
+                "hu": "Melegedjen fel a kiállítótermekben, mielőtt folytatná az utat; télen kevesebb a látogató, így nyugodtabban csodálhatja meg a gyűjteményt.",
+                "ro": "Încălziți-vă în sălile de expoziție înainte de a continua drumul; iarna fluxul de vizitatori este mai mic, ceea ce oferă mai multă liniște.",
+                "en": "Warm up in the exhibition halls before continuing your ride; in winter, there are fewer visitors, allowing for a more peaceful experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Arap Alanı-Moschee",
+                "hu": "Arap Alanı-mecset",
+                "ro": "Moscheea Arap Alanı",
+                "en": "Arap Alanı Camii"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrpausen kurz, um nicht auszukühlen; die tiefstehende Wintersonne wirft lange Schatten auf den Platz vor dem markanten Minarett.",
+                "hu": "Tartsa röviden a pihenőket, hogy ne hűljön ki a teste; az alacsonyan járó téli nap hosszú árnyékokat vet a jellegzetes minaret előtti térre.",
+                "ro": "Păstrați pauzele scurte pentru a nu vă răci corpul; soarele de iarnă aruncă umbre lungi pe piața din fața minaretului distinctiv.",
+                "en": "Keep your breaks short to avoid getting chilled; the low-lying winter sun casts long shadows on the square in front of the striking minaret."
+              }
+            },
+            {
+              "name": {
+                "de": "Karaköy Attar Hoca Moschee",
+                "hu": "Karaköy Attar Hoca-mecset",
+                "ro": "Moscheea Karaköy Attar Hoca",
+                "en": "Karaköy Attar Hoca Camii"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif in den schattigen Gassen am frühen Morgen; die Moschee ist ein idealer Ort für eine stille, windgeschützte Pause.",
+                "hu": "Kora reggel ügyeljen a dérre az árnyékos utcákban; a mecset ideális helyszín egy csendes, széltől védett rövid megállóhoz.",
+                "ro": "Atenție la chiciură pe străduțele umbrite dimineața devreme; moscheea este un loc ideal pentru o pauză liniștită și ferită de vânt.",
+                "en": "Watch out for hoarfrost in the shaded alleys early in the morning; the mosque is an ideal spot for a quiet, wind-protected break."
+              }
+            },
+            {
+              "name": {
+                "de": "Hacı Yahya Moschee",
+                "hu": "Hacı Yahya-mecset",
+                "ro": "Moscheea Hacı Yahya",
+                "en": "Hacı Yahya Camii"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie bei der Weiterfahrt winddichte Kleidung an; die kühle Luft zieht hier oft spürbar durch die Straßen des historischen Viertels.",
+                "hu": "Induláskor vegyen fel szélálló ruhát; a hűvös levegő itt gyakran érezhetően átfúj a történelmi negyed szűk utcáin.",
+                "ro": "Puneți-vă haine rezistente la vânt înainte de a pleca; aerul rece pătrunde adesea sesizabil prin străzile cartierului istoric.",
+                "en": "Put on windproof clothing before riding on; the cool air often blows noticeably through the streets of the historic district here."
+              }
+            },
+            {
+              "name": {
+                "de": "Sultan-Moschee",
+                "hu": "Sultan-mecset",
+                "ro": "Moscheea Sultan",
+                "en": "Sultan Camii"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den weitläufigen Komplex für einen Spaziergang zum Aufwärmen der Beine; das historische Ambiente wirkt im kahlen Winterlicht sehr puristisch.",
+                "hu": "Használja ki a tágas komplexumot egy sétára, hogy átmozgassa lábait; a történelmi környezet a kopár téli fényben nagyon puritánnak hat.",
+                "ro": "Folosiți complexul vast pentru o plimbare pentru a vă încălzi picioarele; ambianța istorică pare foarte puristă în lumina rece de iarnă.",
+                "en": "Take advantage of the spacious complex for a walk to warm up your legs; the historic ambiance looks very purist in the stark winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu-Moschee",
+                "hu": "Ulu-mecset",
+                "ro": "Moscheea Ulu",
+                "en": "Ulu Camii"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die schneebedeckten Gipfel des Spil-Berges ist von hier oben grandios; vergessen Sie nicht, Ihr Rad beim Abstieg sicher zu kontrollieren.",
+                "hu": "A kilátás a Spil-hegy hófödte csúcsaira innen fentről fenséges; ne felejtse el biztonságosan és óvatosan irányítani a gépet a lejtőn lefelé.",
+                "ro": "Vederea spre vârfurile înzăpezite ale muntelui Spil este grandioasă de aici; nu uitați să controlați bicicleta cu atenție la coborâre.",
+                "en": "The view of the snow-capped peaks of Mount Spil is magnificent from here; don't forget to control your bike safely and carefully on the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Dervişali-Moschee",
+                "hu": "Dervişali-mecset",
+                "ro": "Moscheea Dervişali",
+                "en": "Dervişali Camii"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe kurz vor Einbruch der frühen Dämmerung; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg einwandfrei funktioniert.",
+                "hu": "Élvezze a csendet közvetlenül a korai szürkület beállta előtt; győződjön meg róla, hogy a kerékpár világítása tökéletesen működik a hazafelé útra.",
+                "ro": "Bucurați-vă de liniște chiar înainte de lăsarea amurgului timpuriu; asigurați-vă că luminile bicicletei funcționează perfect pentru drumul de întoarcere.",
+                "en": "Enjoy the silence just before the early dusk sets in; make sure your bicycle lights are working perfectly for the ride back home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "A manisai reggel a lenyűgöző oszmán kori történelmi műemlékek felfedezésével kezdődik. Dél körül a kanyargós utcákon sétálva fedezheti fel a régebbi negyedek spirituális központját. Ahogy a délután kibontakozik, az utazás lenyűgöző domboldali mecsetekkel és csodás kilátásokkal folytatódik. Az estét pedig a város utolsó, békés és csendes helyszínein elmélkedve fejezheti be.",
         "ro": "Dimineața în Manisa începe cu marile monumente istorice care au modelat epoca otomană. Până la prânz, vă veți plimba pe străzile șerpuite descoperind nucleul spiritual al cartierelor vechi. Pe măsură ce după-amiaza se desfășoară, călătoria continuă cu moschei impresionante pe dealuri și priveliști ample. Vă veți încheia seara reflectând la ultimele opriri senine din acest oraș antic.",
         "en": "Your morning in Manisa starts with the grand historical monuments that shaped the Ottoman era. By midday, you will wander through the winding streets discovering the spiritual core of the older neighborhoods. As the afternoon unfolds, the journey continues with impressive hillside mosques and sweeping views. You will finish your evening reflecting at the final serene stops of this ancient city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch das regnerische Manisa ist komfortabel und effizient. Morgens erreichen Sie das Museum trocken und entspannt. Mittags parken Sie nah an den großen Moscheen, um Regenpassagen kurz zu halten. Nachmittags bietet die Fahrt durch die nassen Straßen gute Ausblicke auf die architektonischen Highlights. Der Abend lässt sich wunderbar bei einer gemütlichen Fahrt durch die Stadt genießen.",
+            "hu": "Az autóút az esős Manisában kényelmes és hatékony. Reggel szárazon és pihenten érkezhet a múzeumhoz. Délben parkoljon közel a nagy mecsetekhez, hogy lerövidítse az ázós szakaszokat. Délután az autó ablakából jó rálátás nyílik az építészeti remekművekre a vizes utcákon át. Az este csodásan tölthető egy hangulatos városi autózással a csillogó fények között.",
+            "ro": "O călătorie cu mașina prin Manisa pe ploaie este confortabilă și eficientă. Dimineața ajungeți la muzeu uscat și relaxat. La prânz, parcați aproape de marile moschei pentru a scurta segmentele prin ploaie. După-amiaza, drumul oferă vederi bune spre punctele de atracție prin geamul mașinii. Seara poate fi savurată printr-o plimbare plăcută prin oraș.",
+            "en": "A car trip through rainy Manisa is comfortable and efficient. In the morning, you reach the museum dry and relaxed. At noon, park close to the large mosques to keep rainy walks short. In the afternoon, driving through wet streets offers good views of architectural highlights. The evening can be wonderfully enjoyed with a cozy drive through the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manisa-Museum",
+                "hu": "Manisa Múzeum",
+                "ro": "Muzeul Manisa",
+                "en": "Manisa Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Museum, um den Weg im Regen zu minimieren; im Inneren finden Sie interessante Artefakte fernab vom nassen Wetter.",
+                "hu": "Használja a közvetlenül a múzeumnál lévő parkolót, hogy minimalizálja az esőben megtett utat; bent érdekes leleteket talál, távol a nedves időtől.",
+                "ro": "Folosiți parcarea direct de la muzeu pentru a minimiza drumul prin ploaie; în interior veți găsi artefacte interesante, departe de vremea umedă.",
+                "en": "Use the parking lot directly at the museum to minimize the walk in the rain; inside you'll find interesting artifacts far away from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Arap Alanı-Moschee",
+                "hu": "Arap Alanı-mecset",
+                "ro": "Moscheea Arap Alanı",
+                "en": "Arap Alanı Camii"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in den tiefer gelegenen Straßenabschnitten; die Moschee ist ein guter Ort für eine kurze Besichtigung, während es draußen schüttet.",
+                "hu": "Ügyeljen a tócsákra az alacsonyabban fekvő útszakaszokon; a mecset kiváló helyszín egy rövid látogatásra, miközben kint szakad az eső.",
+                "ro": "Atenție la bălți în secțiunile de drum mai joase; moscheea este un loc bun pentru o scurtă vizită în timp ce afară plouă torențial.",
+                "en": "Watch out for puddles in lower-lying street sections; the mosque is a good place for a short visit while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sultan-Moschee",
+                "hu": "Sultan-mecset",
+                "ro": "Moscheea Sultan",
+                "en": "Sultan Camii"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Gassen können bei Regen eng und rutschig sein; parken Sie etwas abseits auf befestigtem Untergrund für einen sicheren Stand des Wagens.",
+                "hu": "A környező utcák esőben szűkek és csúszósak lehetnek; parkoljon kicsit távolabb szilárd burkolaton az autó biztonságos megállása érdekében.",
+                "ro": "Străzile din jur pot fi înguste și alunecoase pe ploaie; parcați puțin mai departe pe o suprafață stabilă pentru siguranța mașinii.",
+                "en": "The surrounding alleys can be narrow and slippery in the rain; park a bit further away on solid ground for a safe standing position for your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu-Moschee",
+                "hu": "Ulu-mecset",
+                "ro": "Moscheea Ulu",
+                "en": "Ulu Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Hügel ist bei Nässe mit Vorsicht zu befahren; genießen Sie den Blick auf die regenverhangene Stadt direkt vom warmen Autofenster aus.",
+                "hu": "A dombra vezető utat nedves időben óvatosan használja; élvezze az esőbe burkolózott város látványát közvetlenül a meleg autó ablakából.",
+                "ro": "Urcarea pe deal trebuie parcursă cu atenție pe timp de ploaie; bucurați-vă de vederea orașului acoperit de ploaie direct de la fereastra caldă a mașinii.",
+                "en": "The uphill drive should be taken with caution in wet weather; enjoy the view of the rain-shrouded city directly from your warm car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Göktaşlı-Moschee",
+                "hu": "Göktaşlı-mecset",
+                "ro": "Moscheea Göktaşlı",
+                "en": "Göktaşlı Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an dieser kleinen Moschee lohnt sich auch bei Regen; die historischen Ziegelsteine leuchten bei Nässe besonders farbintensiv.",
+                "hu": "Egy rövid megálló ennél a kis mecsetnél esőben is megéri; a történelmi téglák nedvesen különösen intenzív színben tündökölnek.",
+                "ro": "O scurtă oprire la această mică moschee merită chiar și pe ploaie; cărămizile istorice strălucesc deosebit de intens când sunt ude.",
+                "en": "A short stop at this small mosque is worth it even in the rain; the historic bricks glow with particularly intense color when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Hatuniye-Moschee",
+                "hu": "Hatuniye-mecset",
+                "ro": "Moscheea Hatuniye",
+                "en": "Hatuniye Cami"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe des Komplexes; die Moschee bietet im Inneren eine prachtvolle Ästhetik, die vom grauen Wetter draußen ablenkt.",
+                "hu": "Használja a komplexum közeli parkolási lehetőségeket; a mecset belső pompája segít elfelejteni a kinti szürke, esős időjárást.",
+                "ro": "Folosiți posibilitățile de parcare din apropierea complexului; moscheea oferă o estetică magnifică în interior, care distrage atenția de la vremea gri.",
+                "en": "Use the parking options near the complex; the mosque offers a magnificent aesthetic inside that distracts from the grey weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaybey-Moschee",
+                "hu": "Alaybey-mecset",
+                "ro": "Moscheea Alaybey",
+                "en": "Alaybey Camii"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen entspannten Abschluss bei Regen; die Minarette spiegeln sich wunderschön in den Pfützen auf dem Vorplatz der Moschee.",
+                "hu": "Ideális egy pihentető befejezéshez esőben; a minaretek gyönyörűen tükröződnek a mecset előtti téren kialakuló tócsákban.",
+                "ro": "Ideal pentru o încheiere relaxată pe ploaie; minaretele se oglindesc minunat în bălțile de pe platforma din fața moscheii.",
+                "en": "Ideal for a relaxed ending in the rain; the minarets are beautifully reflected in the puddles on the square in front of the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Dervişali-Moschee",
+                "hu": "Dervişali-mecset",
+                "ro": "Moscheea Dervişali",
+                "en": "Dervişali Camii"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Scheibenwischer vor der letzten Etappe; die Moschee wirkt im Abendregen besonders ruhig und ist ein würdevoller Schlusspunkt der Tour.",
+                "hu": "Ellenőrizze az ablaktörlőket az utolsó szakasz előtt; a mecset az esti esőben különösen nyugodt, és méltó zárópontja a túrának.",
+                "ro": "Verificați ștergătoarele înainte de ultima etapă; moscheea pare deosebit de liniștită în ploaia de seară și este un punct final demn pentru tur.",
+                "en": "Check your wipers before the last leg; the mosque looks particularly peaceful in the evening rain and is a dignified final point for the tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Manisa im Auto zu erkunden ist im Winter die wärmste Option. Der Vormittag am Museum ist dank Sitzheizung und Komfort sehr angenehm. Mittags bieten die Fahrten zwischen den Moscheen Schutz vor der kühlen Brise. Nachmittags können Sie die klare Winterluft bei kurzen Stopps genießen. Da es ab 17:00 Uhr dunkel wird, beleuchten die Scheinwerfer die alten Fassaden stimmungsvoll.",
+            "hu": "Autóval felfedezni Manisát télen a legmelegebb opció. A délelőtt a múzeumnál az ülésfűtésnek és a kényelemnek köszönhetően nagyon kellemes. Délben a mecsetek közötti út megvéd a hűvös széltől. Délután élvezheti a tiszta téli levegőt a rövid megállók során. Mivel 17:00-tól sötétedik, a fényszórók hangulatosan világítják meg a régi homlokzatokat.",
+            "ro": "Explorarea orașului Manisa cu mașina este cea mai călduroasă opțiune iarna. Dimineața la muzeu este foarte plăcută datorită confortului mașinii. La prânz, drumurile între moschei vă protejează de briza rece. După-amiaza puteți savura aerul curat de iarnă în timpul scurtelor opriri. Deoarece se întunecă de la ora 17:00, farurile luminează fațadele vechi.",
+            "en": "Exploring Manisa by car is the warmest option in winter. The morning at the museum is very pleasant thanks to seat heating and comfort. At noon, drives between mosques protect you from the cool breeze. In the afternoon, you can enjoy the crisp winter air during short stops. Since it gets dark from 17:00, headlights illuminate old facades atmospherically."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manisa-Museum",
+                "hu": "Manisa Múzeum",
+                "ro": "Muzeul Manisa",
+                "en": "Manisa Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort, direkt am Eingang zu parken; im Winter sind die Räume angenehm temperiert und bieten eine ideale Flucht vor der Kälte.",
+                "hu": "Élvezze a kényelmet, hogy közvetlenül a bejáratnál parkolhat; télen a termek kellemes hőmérsékletűek, ideális menekülést nyújtva a hideg elől.",
+                "ro": "Bucurați-vă de confortul parcării chiar la intrare; iarna sălile sunt la o temperatură plăcută, oferind o evadare ideală de frig.",
+                "en": "Enjoy the comfort of parking right at the entrance; in winter, the rooms are pleasantly tempered, providing an ideal escape from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Arap Alanı-Moschee",
+                "hu": "Arap Alanı-mecset",
+                "ro": "Moscheea Arap Alanı",
+                "en": "Arap Alanı Camii"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz stehen für einen Blick ins Innere; die tiefstehende Wintersonne lässt die Farben der Glasfenster besonders intensiv leuchten.",
+                "hu": "Hagyja ott az autót egy rövid időre a belső tér megtekintéséhez; az alacsony téli napfényben az üvegablakok színei különösen intenzíven ragyognak.",
+                "ro": "Lăsați mașina pentru scurt timp pentru o privire în interior; soarele de iarnă face ca culorile vitraliilor să strălucească deosebit de intens.",
+                "en": "Leave the car briefly for a look inside; the low winter sun makes the colors of the stained glass windows glow particularly intensely."
+              }
+            },
+            {
+              "name": {
+                "de": "Sultan-Moschee",
+                "hu": "Sultan-mecset",
+                "ro": "Moscheea Sultan",
+                "en": "Sultan Camii"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei gefrorenem Tau auf den Kopfsteinpflastergassen; die weitläufige Anlage wirkt im klaren Winterlicht besonders majestätisch und ruhig.",
+                "hu": "Vigyázzon a fagyott dérrel a macskaköves utcákon; a tágas épületegyüttes a tiszta téli fényben különösen fenségesnek és nyugodtnak hat.",
+                "ro": "Atenție la roua înghețată pe străzile pavate; complexul vast pare deosebit de maiestuos și liniștit în lumina clară de iarnă.",
+                "en": "Watch out for frozen dew on the cobblestone alleys; the expansive complex looks particularly majestic and peaceful in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulu-Moschee",
+                "hu": "Ulu-mecset",
+                "ro": "Moscheea Ulu",
+                "en": "Ulu Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet im Winter tolle Ausblicke auf die oft schneebedeckten Berge; nutzen Sie die Parkfläche für einen kurzen, erfrischenden Fotostopp.",
+                "hu": "A felvezető út télen remek kilátást nyújt a gyakran hófödte hegyekre; használja a parkolót egy rövid, frissítő fotómegálló erejéig.",
+                "ro": "Drumul de urcare oferă iarna vederi grozave spre munții adesea înzăpeziți; folosiți parcarea pentru o scurtă și revigorantă oprire foto.",
+                "en": "The drive up offers great views of the often snow-capped mountains in winter; use the parking area for a quick, refreshing photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Göktaşlı-Moschee",
+                "hu": "Göktaşlı-mecset",
+                "ro": "Moscheea Göktaşlı",
+                "en": "Göktaşlı Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt, um die markante Ziegelarchitektur zu bewundern; die kühle Winterluft macht die Farben der Ziegel noch kräftiger und deutlicher.",
+                "hu": "Gyors megálló a jellegzetes téglaépítészet megcsodálására; a hűvös téli levegő még élénkebbé és határozottabbá teszi a téglák színeit.",
+                "ro": "O oprire rapidă pentru a admira arhitectura deosebită din cărămidă; aerul rece de iarnă face culorile cărămizilor și mai vii și mai clare.",
+                "en": "A quick stop to admire the striking brick architecture; the cool winter air makes the colors of the bricks even more vivid and distinct."
+              }
+            },
+            {
+              "name": {
+                "de": "Hatuniye-Moschee",
+                "hu": "Hatuniye-mecset",
+                "ro": "Moscheea Hatuniye",
+                "en": "Hatuniye Cami"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Moschee ist im Winter ein stiller, wärmender Ort; genießen Sie die Architektur, während die Sonne langsam hinter den Bergen versinkt.",
+                "hu": "A mecset belseje télen csendes, melegítő helyszín; élvezze az építészetet, miközben a nap lassan lebukik a távoli hegyek mögött.",
+                "ro": "Interiorul moscheii este iarna un loc liniștit și cald; bucurați-vă de arhitectură în timp ce soarele apune încet după munți.",
+                "en": "The interior of the mosque is a quiet, warming place in winter; enjoy the architecture as the sun slowly sinks behind the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaybey-Moschee",
+                "hu": "Alaybey-mecset",
+                "ro": "Moscheea Alaybey",
+                "en": "Alaybey Camii"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die frühe Dämmerung gegen 17 Uhr; die beleuchtete Moschee bildet einen tollen Kontrast zum tiefblauen Winterhimmel der blauen Stunde.",
+                "hu": "Ügyeljen a 17 óra körüli korai szürkületre; a kivilágított mecset remek kontrasztot alkot a kék óra mélyszín kék téli egével.",
+                "ro": "Atenție la amurgul timpuriu în jur de ora 17:00; moscheea iluminată creează un contrast excelent cu cerul albastru intens de iarnă.",
+                "en": "Watch out for the early dusk around 17:00; the illuminated mosque provides a great contrast to the deep blue winter sky during the blue hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Dervişali-Moschee",
+                "hu": "Dervişali-mecset",
+                "ro": "Moscheea Dervişali",
+                "en": "Dervişali Camii"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im Warmen, bevor die Nacht einbricht; prüfen Sie das Frostschutzmittel Ihres Wagens für die kalten Nächte in Manisa.",
+                "hu": "Fejezze be a túrát a melegben, mielőtt beállna az éjszaka; ellenőrizze autója fagyállóját a hideg manisai éjszakák előtt.",
+                "ro": "Încheiați turul la căldură înainte de lăsarea nopții; verificați antigelul mașinii pentru nopțile reci din Manisa.",
+                "en": "Finish your tour in the warmth before night falls; check your car's antifreeze for the cold nights in Manisa."
+              }
+            }
+          ]
+        }
       }
     }
   }

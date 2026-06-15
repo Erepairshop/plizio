@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Étampes történelmi szívében, sétáljon végig a festői utcákon és fedezze fel a csodálatos építészetet. Töltse a delet a helyi történelem megismerésével, vagy pihenjen a város zöldövezeteiben. Délután fedezze fel a bájos nevezetességeket, amelyek lenyűgöző kilátást kínálnak. Fejezze be a napot lazítva, gyűjtse be az utolsó benyomásokat és élvezze a békés esti hangulatot.",
         "ro": "Începeți ziua în inima istorică a orașului Étampes, plimbându-vă pe străzile pitorești. Petreceți prânzul aflând mai multe despre istoria locală sau relaxați-vă în spațiile verzi ale orașului. După-amiaza, puteți explora repere fermecătoare care oferă priveliști uimitoare. Încheiați-vă ziua relaxându-vă, captând ultimele impresii și bucurându-vă de atmosfera pașnică a serii.",
         "en": "Start your day in the historical heart of Étampes, strolling through picturesque streets and discovering magnificent architecture. Spend your midday learning more about local history or relaxing in the city's quiet green spaces. In the afternoon, explore charming landmarks that offer stunning views and fantastic photo opportunities. Wind down your day enjoying the peaceful evening atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Arkaden der Kirche. Mittags bietet das Museum einen trockenen Zufluchtsort vor den Schauern. Am Nachmittag erfordern die Wege zum Turm wegen der Rutschgefahr Vorsicht. Der Abend endet mit dem Anblick der nassen, glänzenden Gassen von Étampes, die im Schein der Straßenlaternen leuchten.",
+            "hu": "A reggel a templom boltívei alatt kezdődik, védve az esőtől. Délben a múzeum nyújt biztos menedéket a záporok elől. Délután a toronyhoz vezető emelkedőn óvatosan haladjunk a csúszós út miatt. Az este a vizes macskaköveken megcsillanó fények között telik, miközben a város történelmi központja különleges, komor fénybe öltözik.",
+            "ro": "Dimineața începe sub arcadele protectoare ale bisericii. La prânz, muzeul oferă un refugiu uscat în fața ploii. După-amiaza, potecile spre turn necesită prudență din cauza riscului de alunecare. Seara se încheie cu imaginea străzilor umede din Étampes, care strălucesc sub lumina felinarelor, oferind o atmosferă melancolică.",
+            "en": "Morning starts under the protective arches of the church. At noon, the museum provides a dry sanctuary from the showers. In the afternoon, the paths to the tower require caution due to slippery surfaces. The evening concludes with the sight of wet, glistening cobblestones in Étampes reflecting the soft glow of the streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame-du-Fort Kirche",
+                "hu": "Notre-Dame-du-Fort templom",
+                "ro": "Biserica Notre-Dame-du-Fort",
+                "en": "Notre-Dame-du-Fort Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Skulpturen am Portal und suchen Sie im Inneren Schutz vor dem Regen; die massiven Steinmauern bieten eine trockene und andächtige Atmosphäre.",
+                "hu": "Csodálja meg a gótikus kapu szobrait, majd keressen menedéket a belső térben a zápor elől; a vastag falak között az eső kopogása még misztikusabbá teszi a látogatást.",
+                "ro": "Admirați sculpturile gotice de la portal și căutați adăpost în interior împotriva ploii; zidurile masive de piatră oferă o atmosferă uscată și plină de reculegere.",
+                "en": "Admire the Gothic sculptures on the portal and seek shelter inside from the rain; the massive stone walls provide a dry and prayerful atmosphere during the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Étampes",
+                "hu": "Étampes Városháza",
+                "ro": "Primăria din Étampes",
+                "en": "Étampes City Hall"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die prächtige Fassade von einem der umliegenden Cafés aus, um trocken zu bleiben; ein Regenschirm ist für den kurzen Weg über den Platz unerlässlich.",
+                "hu": "Figyelje meg a pompás homlokzatot egy közeli kávézó fedett teraszáról, hogy száraz maradjon; az épület előtti nyitott téren egy erős esernyő nélkülözhetetlen kellék.",
+                "ro": "Priviți fațada splendidă de la una dintre cafenelele din apropiere pentru a rămâne uscați; o umbrelă este esențială pentru scurta plimbare prin piața deschisă.",
+                "en": "Observe the magnificent facade from one of the nearby cafes to stay dry; a sturdy umbrella is an essential accessory for the short walk across the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Interkommunales Museum von Étampes",
+                "hu": "Étampes Interkommunális Múzeuma",
+                "ro": "Muzeul Intercomunal din Étampes",
+                "en": "Intercommunal Museum of Étampes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenzeit für eine ausführliche Besichtigung der lokalen Sammlungen im Trockenen; die Garderobe bietet Platz, um nasse Regenjacken bequem abzulegen.",
+                "hu": "Használja ki a csapadékos időt a helyi gyűjtemények alapos, fedett felfedezésére; a ruhatárban kényelmesen leteheti a vizes kabátokat és esernyőket a nézelődés előtt.",
+                "ro": "Profitați de timpul ploios pentru o vizită detaliată a colecțiilor locale la adăpost; garderoba oferă spațiu pentru a lăsa hainele de ploaie umede înainte de tur.",
+                "en": "Take advantage of the rainy weather for a detailed indoor tour of the local collections; the cloakroom allows you to leave wet jackets and umbrellas comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Guinette-Turm",
+                "hu": "Guinette-torony",
+                "ro": "Turnul Guinette",
+                "en": "Guinette Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Hügel kann bei Nässe rutschig sein, tragen Sie daher festes Schuhwerk; die Aussicht auf die regenverhangene Stadt hat einen ganz eigenen Charme.",
+                "hu": "A dombra vezető út esőben csúszóssá válhat, ezért viseljen bordázott talpú cipőt; a ködös, esős város látképe a torony mellől egészen különleges, drámai hatást kelt.",
+                "ro": "Urcarea dealului poate fi alunecoasă pe timp de ploaie, așa că purtați încălțăminte aderentă; vederea orașului învăluit în ploaie are un farmec aparte de la înălțime.",
+                "en": "The climb up the hill can be slippery when wet, so wear high-traction shoes; the view of the rain-shrouded city from the tower has its own unique, dramatic charm."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Kirchenschiff ist der ideale Ort, um einen plötzlichen Wolkenbruch abzuwarten; achten Sie auf die Wasserspeier, die den Regen eindrucksvoll ableiten.",
+                "hu": "A csendes templomhajó ideális hely egy hirtelen zápor átvészelésére; figyelje meg a külső vízköpőket, amelyek látványosan vezetik el a vizet a tetőről az utca felé.",
+                "ro": "Naosul liniștit este locul ideal pentru a aștepta trecerea unei averse bruște; observați garguiele exterioare care direcționează impresionant apa de ploaie de pe acoperiș.",
+                "en": "The quiet nave is an ideal place to wait out a sudden downpour; observe the exterior gargoyles that impressively direct rainwater away from the historical roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Square Jack Têtedoux",
+                "hu": "Square Jack Têtedoux",
+                "ro": "Parcul Jack Têtedoux",
+                "en": "Square Jack Têtedoux"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Bäumen oder im Pavillon, falls es wieder regnet; die feuchte Erde verströmt im Park einen angenehm frischen Naturduft.",
+                "hu": "Keressen menedéket a sűrűbb lombozatú fák alatt vagy a pavilonban, ha elered az eső; a parkban a nedves föld friss illata ilyenkor még intenzívebbé teszi a sétát.",
+                "ro": "Căutați adăpost sub copacii cu frunziș des sau în pavilion dacă începe ploaia; pământul umed emană un miros natural proaspăt și plăcut în întregul parc.",
+                "en": "Seek shelter under the dense trees or in the pavilion if it starts raining again; the damp earth releases a fresh, pleasant natural scent throughout the entire park."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit kühler Luft an der Notre-Dame-du-Fort. Mittags laden die städtischen Gebäude zum Aufwärmen ein. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollte man den Turm im Nachmittagslicht besuchen. Der Abend wird kurz und gemütlich in den beleuchteten Gassen verbracht, bevor die Kälte des Winters die Oberhand gewinnt.",
+            "hu": "A téri reggel friss, fagyos levegővel indul a Notre-Dame-du-Fort falainál. Napközben a városi épületek és a múzeum kínálnak melegedőt a séták között. A nap hamar, délután 5 körül nyugszik, így a toronyhoz még világosban érdemes felérni. Az este a kivilágított főutca barátságos fényeivel és a téli nyugalommal zárul.",
+            "ro": "Dimineața de iarnă începe cu aer rece la zidurile Notre-Dame-du-Fort. În timpul zilei, clădirile civice și muzeul oferă locuri de încălzire între plimbări. Soarele apune devreme, în jur de ora 17:00, așa că vizitați turnul cât încă este lumină. Seara se încheie confortabil pe străzile luminate, înainte ca frigul nopții să se instaleze.",
+            "en": "The winter morning starts with crisp, cold air by the walls of Notre-Dame-du-Fort. During the day, civic buildings and the museum offer warm retreats between walks. The sun sets early, around 5 PM, so aim to reach the tower in the afternoon light. The evening ends cozily in the illuminated streets before the winter frost takes over."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame-du-Fort Kirche",
+                "hu": "Notre-Dame-du-Fort templom",
+                "ro": "Biserica Notre-Dame-du-Fort",
+                "en": "Notre-Dame-du-Fort Church"
+              },
+              "tip_5lang": {
+                "de": "Im Winter herrscht in der Kirche eine mystische Stille; ziehen Sie sich warm an, da die Steinmauern die Kälte lange speichern und es im Inneren kühl sein kann.",
+                "hu": "Télen misztikus csend honol a templomban; öltözzön rétegesen, mert a vastag kőfalak tartják a hideget, és a belső térben is hűvös lehet a levegő hosszabb távon.",
+                "ro": "Iarna, în biserică domnește o liniște mistică; îmbrăcați-vă gros, deoarece zidurile de piatră rețin frigul, iar interiorul poate fi destul de rece în timpul vizitei.",
+                "en": "In winter, a mystical silence reigns in the church; dress in layers because the thick stone walls hold the cold, and the interior air can be quite chilly for a visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Étampes",
+                "hu": "Étampes Városháza",
+                "ro": "Primăria din Étampes",
+                "en": "Étampes City Hall"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Rathaus am späten Nachmittag, wenn die Weihnachtsbeleuchtung die Fassade erstrahlen lässt; ein heißes Getränk am Marktplatz wärmt Sie nach der Besichtigung.",
+                "hu": "Látogassa meg a városházát késő délután, amikor az ünnepi fények megvilágítják a homlokzatot; egy forró ital a piacon jól fog esni a téli szélben tett séta után.",
+                "ro": "Vizitați primăria după-amiaza târziu, când luminile de sărbătoare luminează fațada; o băutură caldă în piață vă va prinde bine după plimbarea în vântul de iarnă.",
+                "en": "Visit the city hall in the late afternoon when festive lights illuminate the facade; a hot drink at the market square will be welcome after a walk in the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Interkommunales Museum von Étampes",
+                "hu": "Étampes Interkommunális Múzeuma",
+                "ro": "Muzeul Intercomunal din Étampes",
+                "en": "Intercommunal Museum of Étampes"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Ausstellungsräume sind der perfekte Ort, um sich an einem frostigen Tag aufzuwärmen; nehmen Sie sich Zeit für die Geschichte der Region ohne die Kälte.",
+                "hu": "A fűtött kiállítótermek tökéletes helyszínt biztosítanak a felmelegedéshez egy fagyos napon; szánjon időt a régió történelmére, miközben kint repkednek a mínuszok.",
+                "ro": "Sălile de expoziție încălzite sunt locul perfect pentru a vă încălzi într-o zi geroasă; acordați-vă timp pentru istoria regiunii în timp ce afară este frig de îngheț.",
+                "en": "The heated exhibition rooms are the perfect place to warm up on a frosty day; take your time exploring the region's history while escaping the sub-zero temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Guinette-Turm",
+                "hu": "Guinette-torony",
+                "ro": "Turnul Guinette",
+                "en": "Guinette Tower"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch vor 16:30 Uhr, um die Aussicht bei Tageslicht zu genießen; Handschuhe und eine Mütze sind wegen des ungeschützten Windes auf dem Hügel nötig.",
+                "hu": "Tervezze látogatását fél 5 előtt, hogy még nappali fényben lássa a panorámát; a dombtetőn a szél miatt a kesztyű és sapka elengedhetetlen a fagyos délutánon.",
+                "ro": "Planificați vizita înainte de ora 16:30 pentru a vedea panorama în lumina zilei; mănușile și căciula sunt esențiale din cauza vântului de pe deal în amiaza geroasă.",
+                "en": "Plan your visit before 4:30 PM to catch the panoramic view in daylight; gloves and a hat are essential due to the biting wind on the hilltop during winter afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet im Winter eine ruhige Zuflucht vor der klirrenden Kälte; genießen Sie das Spiel des spärlichen Sonnenlichts durch die historischen Kirchenfenster.",
+                "hu": "A templom télen csendes menedéket nyújt a kinti csípős hideg elől; gyönyörködjön a korai naplemente fényeiben, ahogy átszűrődnek a történelmi ólomüveg ablakokon.",
+                "ro": "Biserica oferă iarna un refugiu liniștit împotriva gerului de afară; admirați jocurile de lumină ale apusului timpuriu prin vitraliile istorice ale lăcașului.",
+                "en": "The church provides a quiet sanctuary from the biting cold in winter; enjoy the play of early sunset light filtering through the historic stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Square Jack Têtedoux",
+                "hu": "Square Jack Têtedoux",
+                "ro": "Parcul Jack Têtedoux",
+                "en": "Square Jack Têtedoux"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die umliegende Architektur frei; kommen Sie kurz vor Einbruch der Dunkelheit, um die winterliche Abendstimmung einzufangen.",
+                "hu": "A lombkorona nélküli fák között télen jobban látszanak a környező épületek; sötétedés előtt érkezzen, hogy elkapja a park békés, zúzmarás téli hangulatát.",
+                "ro": "Copacii fără frunziș permit iarna o vedere mai bună asupra arhitecturii din jur; sosiți înainte de lăsarea întunericului pentru a surprinde atmosfera de iarnă.",
+                "en": "The leafless trees allow for better views of the surrounding architecture in winter; arrive just before dark to catch the park's peaceful, frosty evening mood."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpártúrát a város lenyűgöző történelmi nevezetességeinél. Délben tekerjen el a tágas szabadidős területekre, és élvezze a friss levegőt. Délután frissítő szórakozás várja a szabadtéri medencében és aktív pihenés a zöldben. A nap egy csendes városi parkban, kellemes utolsó benyomásokkal zárul lazán.",
         "ro": "Începeți turul cu bicicleta la reperele istorice magnifice ale orașului. La prânz, pedalați către zonele vaste de agrement și bucurați-vă de aerul curat. După-amiaza vă așteaptă o distracție răcoritoare la piscina în aer liber și recreere activă. Ziua se încheie relaxat într-un parc liniștit cu impresii finale frumoase.",
         "en": "Start your bike tour at the city's magnificent historical landmarks. At midday, ride to the expansive leisure areas and enjoy the fresh outdoor air. In the afternoon, refreshing fun awaits at the outdoor pool along with active green recreation. The day ends relaxingly in a quiet city park with beautiful final impressions."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Radwegen von Étampes. Der Morgen führt zur Kirche, wo man trocken parken kann. Mittags bieten die überdachten Bereiche der Freizeitbasis Schutz. Achten Sie auf nasse Blätter und rutschige Kurven am Nachmittag. Der Tag endet mit einer kühleren Brise am See, die den Regen langsam vertreibt.",
+            "hu": "Az esőben való biciklizés fokozott figyelmet igényel Étampes kerékpárútjain. A reggel a templomhoz vezet, ahol fedett helyen parkolhatunk. Délben a szabadidőközpont épületei nyújtanak menedéket. Délután ügyeljen a vizes levelekre és a csúszós kanyarokra. A nap a tónál zárul, ahol a friss eső illata kíséri az utolsó kilométereket.",
+            "ro": "Ciclismul pe ploaie necesită atenție sporită pe pistele din Étampes. Dimineața duce la biserică, unde puteți parca la adăpost. La prânz, zonele acoperite ale bazei de agrement oferă protecție. Atenție la frunzele ude și curbele alunecoase după-amiaza. Ziua se încheie cu o briză răcoroasă la lac, care alungă încet ploaia.",
+            "en": "Cycling in the rain requires extra caution on Étampes' bike paths. The morning leads to the church, where you can park under cover. At noon, the sheltered areas of the leisure base provide protection. Watch out for wet leaves and slippery corners in the afternoon. The day ends with a cool breeze by the lake as the rain slowly subsides."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame-du-Fort Kirche",
+                "hu": "Notre-Dame-du-Fort templom",
+                "ro": "Biserica Notre-Dame-du-Fort",
+                "en": "Notre-Dame-du-Fort Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Vordach und nutzen Sie den Besuch, um die Regenkleidung zu richten; der Innenraum ist ein idealer Ort für eine kurze, trockene Pause.",
+                "hu": "Parkoljon a fedett bejárat közelében, és használja ki a látogatást az esővédő felszerelés igazítására; a templombelső tökéletes helyszín egy rövid, száraz pihenőre.",
+                "ro": "Parcați bicicleta lângă intrarea acoperită și profitați de vizită pentru a vă ajusta echipamentul de ploaie; interiorul este un loc ideal pentru o scurtă pauză uscată.",
+                "en": "Park your bike near the sheltered entrance and use the visit to adjust your rain gear; the church interior is a perfect spot for a brief, dry break from the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Guinette-Turm",
+                "hu": "Guinette-torony",
+                "ro": "Turnul Guinette",
+                "en": "Guinette Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zum Turm ist steil und bei Regen rutschig, fahren Sie vorsichtig; oben angekommen bietet das Mauerwerk nur wenig Schutz, halten Sie den Aufenthalt kurz.",
+                "hu": "A toronyhoz vezető emelkedő meredek és esőben csúszós, tekerjen óvatosan; a dombtetőn kevés a fedett rész, így csak egy rövid fotózásra álljon meg a szitálásban.",
+                "ro": "Urcarea spre turn este abruptă și alunecoasă pe ploaie, pedalați cu prudență; sus sunt puține zone acoperite, așa că faceți doar o oprire scurtă pentru poze.",
+                "en": "The climb to the tower is steep and slippery in the rain, so pedal carefully; there's little shelter at the top, so keep your stop brief for a few misty photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um sich im trockenen Kirchenschiff aufzuwärmen; die umliegenden Wege können bei starkem Regen Pfützen bilden, achten Sie auf Ihre Fahrspur.",
+                "hu": "Használja ki a megállót a száraz templomhajóban való felmelegedésre; a környékbeli utakon nagy tócsák alakulhatnak ki, ezért válasszon biztonságos nyomvonalat.",
+                "ro": "Folosiți oprirea pentru a vă încălzi în naosul uscat; pe drumurile din jur se pot forma bălți mari, așa că alegeți o trasă sigură pentru a evita stropirea.",
+                "en": "Use the stop to warm up in the dry nave of the church; large puddles can form on the surrounding roads, so choose a safe line to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitbasis Étampes",
+                "hu": "Étampes Szabadidőközpont",
+                "ro": "Baza de Agrement Étampes",
+                "en": "Étampes Leisure Base"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege sind auch bei Nässe gut befahrbar, meiden Sie jedoch unbefestigte Pfade; das Hauptgebäude bietet eine gute Unterstellmöglichkeit für Radfahrer.",
+                "hu": "Az aszfaltozott utak esőben is jól járhatók, de kerülje a földutakat a sár miatt; a főépületnél jó lehetőséget talál a kerékpár és önmaga szárazon tartására.",
+                "ro": "Drumurile asfaltate sunt practicabile și pe ploaie, dar evitați potecile de pământ din cauza noroiului; clădirea principală oferă un adăpost bun pentru bicicliști.",
+                "en": "The paved paths are manageable even in rain, but avoid dirt tracks due to mud; the main building provides a good spot to keep both you and your bike dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Wellenbad",
+                "hu": "Hullámmedence",
+                "ro": "Piscina cu valuri",
+                "en": "Piscine à vagues"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Öffnungszeiten der Innenbereiche bei schlechtem Wetter; die Fahrradständer befinden sich in der Nähe des Eingangs, um lange Wege im Regen zu vermeiden.",
+                "hu": "Ellenőrizze a fedett részlegek nyitvatartását rossz idő esetén; a kerékpártárolók a bejárat közelében vannak, így nem kell sokat áznia a belépés előtt.",
+                "ro": "Verificați programul secțiunilor interioare în caz de vreme rea; rastelele de biciclete sunt aproape de intrare, evitând astfel expunerea prelungită la ploaie.",
+                "en": "Check the opening hours of the indoor sections during bad weather; bike racks are located near the entrance, minimizing your time spent in the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Square Jack Têtedoux",
+                "hu": "Square Jack Têtedoux",
+                "ro": "Parcul Jack Têtedoux",
+                "en": "Square Jack Têtedoux"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Park ist erfrischend, aber die Wege können durch Matsch rutschig sein; Schutzbleche am Fahrrad sind an einem solchen Regentag Gold wert.",
+                "hu": "Egy rövid megálló a parkban frissítő lehet, de az utak a sár miatt csúszhatnak; a sárvédő ezen az esős napon aranyat ér a kerékpáron a felverődő víz ellen.",
+                "ro": "O scurtă oprire în parc poate fi revigorantă, dar aleile pot fi alunecoase din cauza noroiului; aripile la bicicletă sunt esențiale în această zi ploioasă.",
+                "en": "A brief stop in the park is refreshing, but paths can be slippery due to mud; mudguards on your bike are worth their weight in gold on such a rainy day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Étampes erfordert warme Handschuhe und helle Lichter. Der Morgen startet frisch an der Kirche. Mittags ist die Freizeitbasis ein ruhiger Ort für eine Pause in der klaren Luft. Da es um 17:00 Uhr dunkel wird, sollten Sie die Rückfahrt rechtzeitig planen. Der Tag endet mit der winterlichen Stille, die sich über den See und die Stadt legt.",
+            "hu": "A téli kerékpározáshoz Étampes-ban meleg kesztyűre és jó világításra lesz szükség. A reggel frissen indul a templomnál. Délben a szabadidőközpont csendes helyszín egy pihenőhöz a tiszta, hideg levegőn. Mivel 5-kor sötétedik, a visszautat tervezze időben. A nap a tó feletti téli nyugalommal és a város fényeivel zárul.",
+            "ro": "Ciclismul de iarnă în Étampes necesită mănuși groase și lumini bune. Dimineața începe proaspăt la biserică. La prânz, baza de agrement este un loc liniștit pentru o pauză în aerul curat și rece. Deoarece se întunecă la ora 17:00, planificați drumul de întoarcere din timp. Ziua se încheie cu liniștea iernii peste lac.",
+            "en": "Winter cycling in Étampes requires warm gloves and reliable lighting. The morning starts briskly at the church. At noon, the leisure base is a quiet spot for a break in the crisp, cold air. Since it gets dark by 5 PM, plan your return trip ahead of time. The day ends with winter stillness settling over the lake and the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame-du-Fort Kirche",
+                "hu": "Notre-Dame-du-Fort templom",
+                "ro": "Biserica Notre-Dame-du-Fort",
+                "en": "Notre-Dame-du-Fort Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kälte ist im Inneren der Kirche spürbar, halten Sie die Besichtigung kurz und bewegen Sie sich viel; das historische Portal wirkt im harten Winterlicht besonders plastisch.",
+                "hu": "A hideg a templom belsejében is érezhető, tartson rövid látogatást és mozogjon sokat; a történelmi kapu a tiszta téli fényben különösen látványos és részletgazdag.",
+                "ro": "Frigul se simte și în interiorul bisericii, așa că faceți o vizită scurtă și mișcați-vă mult; portalul istoric arată spectaculos în lumina clară de iarnă.",
+                "en": "The cold is noticeable inside the church, so keep your visit brief and stay active; the historic portal looks particularly striking in the sharp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Guinette-Turm",
+                "hu": "Guinette-torony",
+                "ro": "Turnul Guinette",
+                "en": "Guinette Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel kann im Winter beißend sein, tragen Sie einen Gesichtsschutz; der Blick über das schneebedeckte oder frostige Étampes ist die Anstrengung wert.",
+                "hu": "A dombtetőn a szél télen metsző lehet, használjon csősálat az arca védelmére; a kilátás a zúzmarás vagy hófödte Étampes-ra megéri a meredek kaptatót.",
+                "ro": "Vântul de pe deal poate fi tăios iarna, folosiți o eșarfă pentru protecția feței; vederea peste orașul Étampes înghețat merită efortul urcării abrupte.",
+                "en": "The wind on the hilltop can be biting in winter, so use a neck gaiter for face protection; the view over frosty or snow-covered Étampes is worth the steep climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier kurz Schutz vor dem kalten Fahrtwind; achten Sie beim Abstellen des Rades auf vereiste Stellen auf dem Kopfsteinpflaster vor dem Eingang.",
+                "hu": "Itt keressen egy kis menedéket a menetszél okozta hideg elől; a bicikli leállításakor ügyeljen a bejárat előtti macskaköveken esetlegesen előforduló jeges foltokra.",
+                "ro": "Căutați aici un mic adăpost împotriva curentului rece de aer; când parcați bicicleta, atenție la eventualele porțiuni înghețate de pe pietrele de la intrare.",
+                "en": "Seek a brief refuge here from the cold wind during your ride; when parking your bike, watch out for any icy patches on the cobblestones in front of the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitbasis Étampes",
+                "hu": "Étampes Szabadidőközpont",
+                "ro": "Baza de Agrement Étampes",
+                "en": "Étampes Leisure Base"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost rutschig sein, reduzieren Sie den Reifendruck für besseren Halt; die winterliche Natur am See bietet eine friedliche Kulisse für Radfahrer.",
+                "hu": "A fagyott utak csúszósak lehetnek, érdemes kicsit leengedni a guminyomást a jobb tapadásért; a tó körüli téli természet békés hátteret nyújt a tekeréshez.",
+                "ro": "Drumurile înghețate pot fi alunecoase, merită să scădeți puțin presiunea în pneuri pentru aderență; natura de iarnă de lângă lac oferă un decor liniștit.",
+                "en": "Frozen paths can be slippery, so consider lowering your tire pressure slightly for better grip; the winter nature around the lake provides a peaceful backdrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Wellenbad",
+                "hu": "Hullámmedence",
+                "ro": "Piscina cu valuri",
+                "en": "Piscine à vagues"
+              },
+              "tip_5lang": {
+                "de": "In der Wintersaison sind oft nur die Innenbecken in Betrieb, wärmen Sie sich im Wasser auf; sorgen Sie für eine gute Beleuchtung Ihres Fahrrads für die Rückfahrt.",
+                "hu": "A téli szezonban gyakran csak a belső medencék üzemelnek, melegedjen fel a vízben; gondoskodjon a kerékpár megfelelő kivilágításáról a korai sötétedés miatt.",
+                "ro": "În sezonul de iarnă, adesea funcționează doar bazinele interioare, încălziți-vă în apă; asigurați iluminarea corespunzătoare a bicicletei pentru întunericul timpuriu.",
+                "en": "In the winter season, often only the indoor pools are open, so warm up in the water; ensure your bike has proper lighting for the early darkness of the return."
+              }
+            },
+            {
+              "name": {
+                "de": "Square Jack Têtedoux",
+                "hu": "Square Jack Têtedoux",
+                "ro": "Parcul Jack Têtedoux",
+                "en": "Square Jack Têtedoux"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter sehr ruhig, ideal für ein schnelles Foto vor der Heimfahrt; ziehen Sie eine zusätzliche Schicht an, da man beim Stehenbleiben schnell auskühlt.",
+                "hu": "A park télen nagyon csendes, ideális egy gyors fotóhoz a hazaút előtt; vegyen fel egy plusz réteget, mert a megállás után a hidegben gyorsan lehűl a testhőmérséklet.",
+                "ro": "Parcul este foarte liniștit iarna, ideal pentru o poză rapidă înainte de plecare; puneți un strat în plus de haine, deoarece după oprire frigul se simte imediat.",
+                "en": "The park is very quiet in winter, ideal for a quick photo before heading home; add an extra layer of clothing as your body cools down fast after you stop pedaling."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Vezessen kényelmesen az első történelmi állomásokhoz, és csodálja meg az építészetet. Dél körül tegyen egy kirándulást a város szélén található nagy szabadidőközpontba. Délután egy nyugodt természetjárás a festői tónál a program. Fejezze be a túrát egy gyönyörű régi templomnál, és élvezze a békességet.",
         "ro": "Conduceți confortabil către primele stații istorice și admirați arhitectura. În jurul prânzului, faceți o excursie la marele centru de agrement de la periferia orașului. După-amiaza, o plimbare liniștită în natură la lacul pitoresc este în program. Încheiați turul la o frumoasă biserică veche și bucurați-vă de liniște.",
         "en": "Drive comfortably to the first historical stops and admire the stunning architecture. Around midday, take a trip to the large recreation center on the outskirts. In the afternoon, a peaceful nature walk by the scenic pond is on the agenda. Finish the tour at a beautiful old church and simply enjoy the tranquility."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Étampes auch bei starkem Regen komfortabel erkunden. Der Morgen beginnt trocken an der Kirche. Mittags ist die Fahrt zur Freizeitbasis trotz der Schauer angenehm. Am Nachmittag bietet der See Mare du Chesnay eine melancholische Aussicht aus dem warmen Fahrzeug. Der Tag endet sicher und trocken in der beleuchteten Innenstadt, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Autóval Étampes az erős esőben is kényelmesen felfedezhető marad. A reggel szárazon indul a templomnál, a parkolótól csak pár lépés a bejárat. Délben a szabadidőközpontba való utazás a záporok ellenére is kellemes. Délután a Mare du Chesnay tó melankolikus látványt nyújt az ablakon át. A nap biztonságban és szárazon zárul a kivilágított belvárosban.",
+            "ro": "Cu mașina, Étampes poate fi explorat confortabil chiar și pe ploaie torențială. Dimineața începe la adăpost la biserică. La prânz, drumul spre baza de agrement este plăcut în ciuda averselor. După-amiaza, lacul Mare du Chesnay oferă o priveliște melancolică prin geamul vehiculului. Ziua se încheie în siguranță și uscat în centrul luminat al orașului.",
+            "en": "By car, Étampes remains comfortable to explore even during heavy rain. The morning starts dry at the church, with the entrance just steps from the parking lot. At noon, the drive to the leisure base is pleasant despite the showers. In the afternoon, Mare du Chesnay lake offers a melancholy view through the window. The day ends safely and dry in the illuminated city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame-du-Fort Kirche",
+                "hu": "Notre-Dame-du-Fort templom",
+                "ro": "Biserica Notre-Dame-du-Fort",
+                "en": "Notre-Dame-du-Fort Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu meiden; im Inneren können Sie die beeindruckende Architektur in aller Ruhe und im Trockenen genießen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást; a belső térben nyugodtan és szárazon csodálhatja meg a lenyűgöző középkori építészetet.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; în interior puteți admira arhitectura medievală impresionantă în liniște și la loc uscat.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; inside, you can admire the stunning medieval architecture in peace and while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Guinette-Turm",
+                "hu": "Guinette-torony",
+                "ro": "Turnul Guinette",
+                "en": "Guinette Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Regen rutschig sein, fahren Sie vorsichtig; genießen Sie den Blick auf die Stadt direkt aus dem Auto, falls es zu stark regnet.",
+                "hu": "A felvezető út erős esőben csúszós lehet, vezessen óvatosan; ha túl erősen esne, a városra nyíló kilátást közvetlenül az autóból is élvezheti a dombtetőn.",
+                "ro": "Drumul de acces poate fi alunecos pe ploaie torențială, conduceți cu atenție; dacă plouă prea tare, puteți admira vederea spre oraș direct din mașină de pe deal.",
+                "en": "The access road can be slippery in heavy rain, so drive carefully; if it rains too hard, you can enjoy the view of the city directly from your car at the hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitbasis Étampes",
+                "hu": "Étampes Szabadidőközpont",
+                "ro": "Baza de Agrement Étampes",
+                "en": "Étampes Leisure Base"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe der Hauptgebäude; die überdachten Bereiche der Basis sind ideal, um die Natur zu genießen, ohne nass zu werden.",
+                "hu": "Használja a főépületekhez közeli parkolóhelyeket; a központ fedett részei ideálisak a természet közelségének élvezetére anélkül, hogy elázna a záporokban.",
+                "ro": "Folosiți locurile de parcare din apropierea clădirilor principale; zonele acoperite ale centrului sunt ideale pentru a vă bucura de natură fără a vă uda în averse.",
+                "en": "Use the parking spaces close to the main buildings; the sheltered areas of the base are ideal for enjoying nature without getting soaked in the passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare du Chesnay",
+                "hu": "Mare du Chesnay",
+                "ro": "Lacul Mare du Chesnay",
+                "en": "Mare du Chesnay"
+              },
+              "tip_5lang": {
+                "de": "Der See bietet eine wunderbare Kulisse für einen Halt im Regen; beobachten Sie die Regentropfen auf der Wasseroberfläche gemütlich vom trockenen Beifahrersitz aus.",
+                "hu": "A tó csodálatos hátteret nyújt egy esős pihenőhöz; figyelje a víztükrön kopogó esőcseppeket kényelmesen, a száraz autóból, egy forró kávé társaságában.",
+                "ro": "Lacul oferă un decor minunat pentru o pauză pe ploaie; observați picăturile de ploaie pe suprafața apei confortabil din mașină, cu o băutură caldă în mână.",
+                "en": "The lake provides a wonderful backdrop for a rainy break; watch the raindrops dance on the water's surface comfortably from your car with a hot drink in hand."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Die Suche nach einem nahen Parkplatz lohnt sich, um trocken in die Kirche zu gelangen; das gedimmte Licht im Inneren wirkt an Regentagen besonders besinnlich.",
+                "hu": "Érdemes közeli parkolót keresni, hogy szárazon jusson be a templomba; a benti tompa fények az esős napokon különösen áhítatos és megnyugtató hangulatot árasztanak.",
+                "ro": "Merită să căutați un loc de parcare aproape pentru a intra uscați în biserică; luminile difuze din interior creează o atmosferă liniștitoare în zilele ploioase.",
+                "en": "It's worth finding a nearby parking spot to enter the church dry; the dim interior lighting creates a particularly solemn and peaceful atmosphere on rainy days."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Étampes ist dank der Heizung sehr angenehm. Der Morgen beginnt am Notre-Dame-du-Fort. Mittags ist die Fahrt zur Freizeitbasis kurz und warm. Da die Sonne gegen 17:00 Uhr untergeht, leuchten die Lichter der Stadt am späten Nachmittag besonders schön. Der Tag endet mit einem Blick auf den Mare du Chesnay, während draußen der Frost die Landschaft überzieht.",
+            "hu": "A téli autós túra Étampes-ban a fűtésnek köszönhetően igen kényelmes. A reggel a Notre-Dame-du-Fort-nál indul. Napközben a szabadidőközpontba vezető út gyors és meleg. Mivel 5-kor nyugszik a nap, a város fényei már késő délután felgyúlnak, varázslatos hangulatot keltve. A nap a Mare du Chesnay tónál zárul a fagyos táj látványával.",
+            "ro": "Un tur cu mașina prin Étampes iarna este foarte confortabil datorită căldurii. Dimineața începe la Notre-Dame-du-Fort. În timpul zilei, drumul spre baza de agrement este rapid și cald. Soarele apune la ora 17:00, așa că luminile orașului se aprind devreme. Ziua se încheie la lacul Mare du Chesnay, cu vederea peisajului înghețat.",
+            "en": "A winter car tour of Étampes is very comfortable thanks to the heating. The morning begins at Notre-Dame-du-Fort. During the day, the drive to the leisure base is quick and warm. With the sun setting at 5 PM, city lights flicker on early, creating a magical vibe. The day concludes at Mare du Chesnay lake with views of the frosty landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame-du-Fort Kirche",
+                "hu": "Notre-Dame-du-Fort templom",
+                "ro": "Biserica Notre-Dame-du-Fort",
+                "en": "Notre-Dame-du-Fort Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Standheizung, falls vorhanden, während der Besichtigung; die Kirche ist im Winter kühl, aber die Ruhe im Inneren ist nach der Fahrt sehr erholsam.",
+                "hu": "Ha van állófűtése, használja a látogatás alatt; a templom télen hűvös, de a benti csend és nyugalom nagyon pihentető az autós út után a hideg délelőttön.",
+                "ro": "Folosiți încălzirea auxiliară dacă aveți, în timpul vizitei; biserica este rece iarna, dar liniștea din interior este foarte odihnitoare după drumul parcurs.",
+                "en": "Use your car's heater to stay warm between stops; the church is chilly in winter, but the interior peace and quiet are very relaxing after the morning drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Guinette-Turm",
+                "hu": "Guinette-torony",
+                "ro": "Turnul Guinette",
+                "en": "Guinette Tower"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei Frost auf glatte Stellen auf der Zufahrtsstraße zum Turm; der Blick auf das winterliche Étampes ist im klaren Licht des Nachmittags spektakulär.",
+                "hu": "Fagyos időben ügyeljen a jeges foltokra a toronyhoz vezető emelkedőn; a téli Étampes látképe a délutáni tiszta fényekben különösen látványos a dombtetőről.",
+                "ro": "Pe timp de îngheț, atenție la porțiunile alunecoase de pe drumul spre turn; vederea orașului iarna este spectaculoasă în lumina clară a după-amiezii.",
+                "en": "In freezing weather, watch out for icy patches on the climb to the tower; the winter view of Étampes is spectacular in the clear afternoon light from the hilltop."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitbasis Étampes",
+                "hu": "Étampes Szabadidőközpont",
+                "ro": "Baza de Agrement Étampes",
+                "en": "Étampes Leisure Base"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter meist leerer, parken Sie nah am Ziel; die verschneiten oder frostigen Bäume der Basis bieten ein tolles Motiv für Winterfotos.",
+                "hu": "A parkoló télen általában üresebb, álljon meg közel a célpontjához; a központ hófödte vagy zúzmarás fái remek témát szolgáltatnak a téli fotózáshoz.",
+                "ro": "Parcarea este de obicei mai goală iarna, parcați aproape de destinație; copacii înghețați ai bazei oferă un subiect excelent pentru fotografii de iarnă.",
+                "en": "The parking lot is usually emptier in winter, so park close to your destination; the snow-covered or frosty trees of the base make for great winter photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare du Chesnay",
+                "hu": "Mare du Chesnay",
+                "ro": "Lacul Mare du Chesnay",
+                "en": "Mare du Chesnay"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Einsamkeit am See vom warmen Auto aus; das zugefrorene oder neblige Ufer wirkt im Winterlicht wie eine verwunschene Welt.",
+                "hu": "Élvezze a tó téli magányát a meleg autóból; a befagyott vagy ködös partvidék a téli fényekben olyan, mintha egy elvarázsolt világba csöppent volna bele.",
+                "ro": "Bucurați-vă de singurătatea iernii la lac din mașina caldă; malul înghețat sau învăluit în ceață arată ca o lume vrăjită în lumina palidă a iernii.",
+                "en": "Enjoy the winter solitude of the lake from your warm car; the frozen or misty shoreline looks like an enchanted world in the pale winter light of the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Gilles Kirche",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Auto zur Kirche ist auch bei Kälte gut machbar; im Inneren können Sie die weihnachtliche oder winterliche Stille des Ortes genießen.",
+                "hu": "Az autótól a templomig tartó rövid séta még nagy hidegben is jól bírható; bent élvezze a hely ünnepi vagy téli nyugalmát, mielőtt visszatérne a meleg kocsiba.",
+                "ro": "Scurta plimbare de la mașină la biserică este ușor de făcut chiar și pe ger; în interior, bucurați-vă de liniștea iernii înainte de a reveni la căldura mașinii.",
+                "en": "The short walk from the car to the church is manageable even in severe cold; inside, enjoy the festive or winter peace before returning to your warm vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

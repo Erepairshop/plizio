@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Canggu-ban egy helyi ékszerkészítő workshopon, ahol saját ezüst emléktárgyat alkothat. Délben sétáljon végig a csendes utcákon, fedezze fel a rejtett templomokat és a balinéz mindennapokat meghatározó szentélyeket. Délután merüljön el a nyüzsgő Pasar Berawa piac illataiban és színeiben. Az estét nyugodt, helyi ízekkel teli hangulatban zárhatja a környéken.",
         "ro": "Începeți dimineața în Canggu confecționând o bijuterie unică din argint la un atelier local. La prânz, plimbați-vă pe străzile liniștite pentru a descoperi templele ascunse și sanctuarele familiale ce definesc viața de zi cu zi balineză. După-amiaza, pătrundeți în aromele și culorile vibrantei piețe Pasar Berawa. Seara oferă un final relaxant perfect pentru această zi de explorare.",
         "en": "Start your morning in Canggu by crafting a unique silver keepsake at a local jewelry workshop. By midday, wander through quiet streets to discover hidden temples and family shrines that define daily Balinese life. In the afternoon, immerse yourself in the vibrant sights and scents of the bustling Pasar Berawa. The evening promises a relaxing conclusion after a satisfying day of cultural exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken in der Schmuckwerkstatt, ideal um dem Regen zu entkommen. Mittags erkunden wir die Tempel unter dem Schutz von Regenschirmen, was der Architektur eine mystische Atmosphäre verleiht. Nachmittags bietet der Pasar Berawa überdachte Gänge zum Bummeln. Am Abend genießen wir die gemütliche Stimmung in einem der wetterfesten Cafés bei prasselndem Regen.",
+            "hu": "A reggel az ékszerkészítő műhelyben indul, amely tökéletes menedék az eső elől. Délben esernyővel járjuk végig a templomokat, amelyek ilyenkor különlegesen misztikus látványt nyújtanak. Délután a Pasar Berawa fedett árusai között böngészünk, elkerülve a nagyobb tócsákat. Estére egy hangulatos, zárt kávézóban pihenünk meg, hallgatva az eső dobolását a tetőn.",
+            "ro": "Dimineața începe la atelierul de bijuterii, refugiul perfect împotriva ploii. La prânz explorăm templele cu umbrela, ceea ce oferă arhitecturii o atmosferă mistică. După-amiaza, Pasar Berawa oferă coridoare acoperite pentru plimbare. Seara ne bucurăm de atmosfera primitoare a unei cafenele ferite de intemperii, în timp ce ploaia bate în geam.",
+            "en": "The morning starts dry in the jewelry workshop, a perfect escape from the rain. At noon, we explore the temples under the protection of umbrellas, giving the architecture a mystical vibe. In the afternoon, Pasar Berawa offers covered aisles for browsing. In the evening, enjoy the cozy atmosphere of a weatherproof cafe while listening to the rain on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Canggu jewelry classes",
+                "hu": "Canggu jewelry classes",
+                "ro": "Canggu jewelry classes",
+                "en": "Canggu jewelry classes"
+              },
+              "tip_5lang": {
+                "de": "Diese Werkstatt ist komplett überdacht; ideal um kreativ zu sein, während es draußen schüttet. Tragen Sie Flip-Flops für den kurzen, oft matschigen Weg zum Eingang.",
+                "hu": "A műhely teljesen fedett, így ideális kreatív elfoglaltság, miközben kint szakad az eső. Viselj papucsot a bejáratig tartó, gyakran sáros rövid szakasz miatt.",
+                "ro": "Acest atelier este complet acoperit, fiind ideal pentru creativitate în timp ce afară plouă. Poartă șlapi pentru drumul scurt și adesea noroios până la intrare.",
+                "en": "This workshop is fully covered, making it an ideal creative activity while it pours outside. Wear flip-flops for the short, often muddy path to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Small Temple (No Name)",
+                "hu": "Small Temple (No Name)",
+                "ro": "Small Temple (No Name)",
+                "en": "Small Temple (No Name)"
+              },
+              "tip_5lang": {
+                "de": "Die Steinstufen werden bei Regen extrem rutschig; halten Sie sich an den Mauern fest. Die nassen Steine glänzen wunderschön für stimmungsvolle Fotos mit dem Schirm.",
+                "hu": "A kőlépcsők esőben rendkívül csúszóssá válnak, ezért kapaszkodj a falakba. A vizes kövek gyönyörűen csillognak, ami esernyős fotókhoz különleges hátteret ad.",
+                "ro": "Treptele de piatră devin extrem de alunecoase pe ploaie; sprijină-te de ziduri. Pietrele ude strălucesc frumos, oferind un decor deosebit pentru poze cu umbrela.",
+                "en": "The stone steps become extremely slippery in the rain; hold onto the walls. The wet stones shine beautifully, providing a unique backdrop for umbrella photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Hyang",
+                "hu": "Pura Hyang",
+                "ro": "Pura Hyang",
+                "en": "Pura Hyang"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den kleinen Pavillons Schutz vor den schwersten Güssen. Die grauen Wolken über dem Tempel verstärken die spirituelle Aura dieses ruhigen Ortes.",
+                "hu": "Keress menedéket a kis pavilonok alatt a nagyobb záporok idején. A templom feletti szürke felhők felerősítik ennek a csendes helynek a spirituális auráját.",
+                "ro": "Caută adăpost sub micile pavilioane în timpul averselor puternice. Norii gri de deasupra templului amplifică aura spirituală a acestui loc liniștit.",
+                "en": "Seek shelter under the small pavilions during the heaviest downpours. The grey clouds above the temple enhance the spiritual aura of this quiet spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelinggih / Merajan",
+                "hu": "Pelinggih / Merajan",
+                "ro": "Pelinggih / Merajan",
+                "en": "Pelinggih / Merajan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, schneller Stopp zwischen den Regenschauern reicht hier völlig aus. Achten Sie auf die Opfergaben am Boden, die im Regen oft schwerer zu erkennen sind.",
+                "hu": "Egy rövid, gyors megálló két zápor között bőven elég itt. Ügyelj a földön lévő felajánlásokra, amelyeket az esőben és a pocsolyák között nehezebb észrevenni.",
+                "ro": "O oprire scurtă și rapidă între două averse este suficientă aici. Atenție la ofrandele de pe jos, care sunt mai greu de observat prin ploaie și bălți.",
+                "en": "A short, quick stop between showers is plenty here. Watch out for the offerings on the ground, which are harder to spot in the rain and puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Berawa",
+                "hu": "Pasar Berawa",
+                "ro": "Pasar Berawa",
+                "en": "Pasar Berawa"
+              },
+              "tip_5lang": {
+                "de": "Die Markthallen bieten hervorragenden Schutz vor Regen beim Stöbern nach lokalen Waren. Nutzen Sie die Zeit für einen warmen Tee an einem der überdachten Stände.",
+                "hu": "A piaci csarnokok kiváló védelmet nyújtanak az eső ellen a helyi áruk böngészése közben. Használd ki az időt egy meleg teára az egyik fedett standnál.",
+                "ro": "Halele pieței oferă o protecție excelentă împotriva ploii în timp ce cauți produse locale. Profită de timp pentru un ceai cald la unul dintre standurile acoperite.",
+                "en": "The market halls provide excellent shelter from the rain while browsing for local goods. Use the time for a warm tea at one of the covered stalls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und klar, perfekt für den Spaziergang zur Schmuckklasse. Mittags genießen wir die milde Sonne bei den Tempelbesuchen, ohne die extreme Hitze des Sommers. Da die Sonne bereits gegen 17:00 Uhr sinkt, nutzen wir das goldene Licht am Nachmittag intensiv. Den Abend verbringen wir gemütlich am Pasar Berawa bei angenehm kühlen Temperaturen.",
+            "hu": "A téli reggel friss és tiszta, tökéletes a sétához az ékszerkészítő műhelyig. Délben élvezzük az enyhe napsütést a templomoknál, a nyári hőség nélkül. Mivel a nap már 17:00 körül nyugovóra tér, korán élvezhetjük az aranyló fényeket. Az estét a Pasar Berawa környékén töltjük, kihasználva a kellemesen hűvös, tengerparti szellőt.",
+            "ro": "Dimineața de iarnă este proaspătă și senină, perfectă pentru plimbarea spre atelierul de bijuterii. La prânz ne bucurăm de soarele blând la temple, fără căldura extremă. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumina aurie a după-amiezii. Seara o petrecem la Pasar Berawa, bucurându-ne de temperaturile plăcute.",
+            "en": "The winter morning is fresh and clear, perfect for the walk to the jewelry class. At noon, we enjoy the mild sun at the temples without the summer's extreme heat. Since the sun sets around 17:00, we make the most of the golden afternoon light. We spend the evening cozily at Pasar Berawa with pleasantly cool temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Canggu jewelry classes",
+                "hu": "Canggu jewelry classes",
+                "ro": "Canggu jewelry classes",
+                "en": "Canggu jewelry classes"
+              },
+              "tip_5lang": {
+                "de": "Am frühen Morgen ist es in der Werkstatt noch angenehm kühl; ideal für präzises Arbeiten. Ein leichter Cardigan schützt vor dem kühlen Luftzug während der Sitzung.",
+                "hu": "Kora reggel még kellemesen hűvös a műhely, ami ideális a precíz munkához. Egy vékony kardigán jól jöhet a hűvösebb huzat ellen az óra alatt.",
+                "ro": "Dimineața devreme este încă plăcut de răcoare în atelier, ideal pentru munca de precizie. Un cardigan subțire te protejează de curentul răcoros în timpul cursului.",
+                "en": "Early morning is still pleasantly cool in the workshop, ideal for precision work. A light cardigan will protect you from the cool breeze during the session."
+              }
+            },
+            {
+              "name": {
+                "de": "Small Temple (No Name)",
+                "hu": "Small Temple (No Name)",
+                "ro": "Small Temple (No Name)",
+                "en": "Small Temple (No Name)"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht um die Mittagszeit lässt die Details der Steinschnitzereien ohne harte Schatten hervortreten. Perfekt für detaillierte Architekturaufnahmen.",
+                "hu": "A dél körüli lágy téli fény kiemeli a kőfaragások részleteit az éles árnyékok nélkül. Tökéletes időpont a részletgazdag építészeti fotók készítéséhez.",
+                "ro": "Lumina blândă de iarnă din jurul prânzului scoate în evidență detaliile sculpturilor în piatră fără umbre dure. Perfect pentru fotografii de arhitectură.",
+                "en": "The soft winter light around noon highlights the details of the stone carvings without harsh shadows. Perfect for detailed architectural photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Hyang",
+                "hu": "Pura Hyang",
+                "ro": "Pura Hyang",
+                "en": "Pura Hyang"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Nachmittag; im Winter ist der Tempel oft weniger besucht. Die tiefstehende Sonne taucht die Anlage in ein warmes, spirituelles Licht.",
+                "hu": "Élvezd a délutáni csendet; télen a templom gyakran kevésbé látogatott. Az alacsonyan járó nap meleg, spirituális fénybe öltözteti az egész épületegyüttest.",
+                "ro": "Bucură-te de liniștea după-amiezii; iarna templul este adesea mai puțin vizitat. Soarele care apune îmbracă complexul într-o lumină caldă și spirituală.",
+                "en": "Enjoy the afternoon silence; in winter, the temple is often less crowded. The low sun bathes the complex in a warm, spiritual light."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelinggih / Merajan",
+                "hu": "Pelinggih / Merajan",
+                "ro": "Pelinggih / Merajan",
+                "en": "Pelinggih / Merajan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor 17 Uhr, um die magische Blaue Stunde direkt vor dem frühen Sonnenuntergang zu erleben. Die kühle Brise ist hier besonders erfrischend.",
+                "hu": "Látogass el ide 17 óra előtt, hogy elcsípd a mágikus kék órát közvetlenül a korai naplemente előtt. A hűvös szellő itt különösen frissítően hat.",
+                "ro": "Vizitează acest loc înainte de ora 17:00 pentru a surprinde ora albastră magică înainte de apusul timpuriu. Briza răcoroasă este deosebit de revigorantă aici.",
+                "en": "Visit this spot before 17:00 to catch the magical blue hour just before the early sunset. The cool breeze here is particularly refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Berawa",
+                "hu": "Pasar Berawa",
+                "ro": "Pasar Berawa",
+                "en": "Pasar Berawa"
+              },
+              "tip_5lang": {
+                "de": "Am Abend wird es am Markt merklich kühler; ideal zum ausgiebigen Shoppen ohne zu schwitzen. Probieren Sie eine warme lokale Suppe gegen die abendliche Frische.",
+                "hu": "Estére a piac észrevehetően lehűl, így ideális a hosszas vásárlásra izzadás nélkül. Próbálj ki egy forró helyi levest az esti hűvösség ellen.",
+                "ro": "Seara piața se răcește considerabil, fiind ideală pentru cumpărături prelungite fără transpirație. Încearcă o supă locală fierbinte împotriva răcorii serii.",
+                "en": "By evening the market cools down noticeably, making it ideal for long shopping without sweating. Try a hot local soup against the evening chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Reggel kényelmesen kerékpározhat a friss, zöld rizsföldeken keresztül, amelyek megmutatják Canggu vidéki arcát. Délben két lenyűgöző templomot fedezhet fel, amelyek építészete a balinéz és a keresztény hagyományokat ötvözi. A délután egy nyüzsgő piacra kalauzolja, ahol finomságokat kóstolhat. Este a tengerparton pihenve nézheti, ahogy a szörfösök meglovagolják a hullámokat.",
         "ro": "Dimineața, pedalați prin câmpurile de orez verzi și proaspete, ce ilustrează perfect inima rurală a zonei Canggu. La prânz, descoperiți două biserici fascinante unde tradițiile balineze se împletesc cu cele creștine într-o arhitectură unică. După-amiaza vă aduce la o piață vibrantă pentru gustări delicioase. Seara, relaxați-vă pe plajă și admirați surferii care prind valurile.",
         "en": "In the morning, enjoy a breezy ride through the fresh, emerald rice fields that showcase Canggu's rural charm. By midday, explore two fascinating local churches where Balinese architecture beautifully intertwines with Christian traditions. The afternoon leads you to a bustling market for authentic local snacks. End your active day on the beach, watching talented surfers conquer the rolling waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den rutschigen Reisfeldern am Morgen. Mittags suchen wir Schutz in den beeindruckenden Kirchen von Babakan und Kulibul, während draußen der Tropenregen fällt. Nachmittags radeln wir zum Pasar Berawa, um uns unterzustellen. Den Abend lassen wir am Berawa Surfspot ausklingen, wo wir die raue See sicher von einer überdachten Bar beobachten.",
+            "hu": "Az esős biciklitúra óvatosságot igényel a csúszós rizsföldeken a reggeli órákban. Délben Babakan és Kulibul lenyűgöző templomaiban keresünk menedéket a trópusi eső elől. Délután a Pasar Berawa fedett része felé vesszük az irányt. Az estét a Berawa Surfspotnál zárjuk, ahol egy védett bárból figyeljük a viharos óceánt.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe câmpurile de orez alunecoase dimineața. La prânz căutăm adăpost în bisericile impresionante din Babakan și Kulibul. După-amiaza pedalăm spre Pasar Berawa pentru a ne adăposti sub acoperiș. Încheiem seara la Berawa Surfspot, observând marea agitată dintr-un bar acoperit.",
+            "en": "A bike ride in the rain requires caution on the slippery rice fields in the morning. At noon, we seek shelter in the impressive churches of Babakan and Kulibul while tropical rain falls outside. In the afternoon, we pedal to Pasar Berawa to stay dry. We end the evening at Berawa Surfspot, watching the rough sea safely from a covered bar."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scenic rice fields route",
+                "hu": "Scenic rice fields route",
+                "ro": "Scenic rice fields route",
+                "en": "Scenic rice fields route"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam, da die schmalen Pfade durch die Reisfelder bei Nässe extrem schlammig und rutschig sind. Die sattgrünen Farben wirken im Regen besonders intensiv.",
+                "hu": "Haladj lassan, mert a rizsföldek közötti keskeny utak vizesen rendkívül sárosak és csúszósak. A buja zöld színek az esőben különösen élénknek hatnak.",
+                "ro": "Pedalează încet, deoarece cărările înguste printre câmpurile de orez sunt extrem de noroioase și alunecoase când sunt ude. Culorile verzi sunt intense pe ploaie.",
+                "en": "Ride slowly as the narrow paths through the rice fields are extremely muddy and slippery when wet. The lush green colors look particularly intense in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Roh Kudus, Babakan",
+                "hu": "Gereja Roh Kudus, Babakan",
+                "ro": "Gereja Roh Kudus, Babakan",
+                "en": "Gereja Roh Kudus, Babakan"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet ein weites, schützendes Dach für Radfahrer während eines Schauers. Bewundern Sie die balinesische Architektur, während Sie im Trockenen warten.",
+                "hu": "A templom hatalmas, védelmet nyújtó tetővel rendelkezik a biciklisek számára zápor idején. Csodáld meg a balinéz építészetet, miközben a szárazban várakozol.",
+                "ro": "Biserica oferă un acoperiș larg și protector pentru bicicliști în timpul unei averse. Admiră arhitectura balineză în timp ce aștepți la adăpost.",
+                "en": "The church offers a vast, protective roof for cyclists during a downpour. Admire the Balinese architecture while waiting in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Paulus, Kulibul",
+                "hu": "Gereja Santo Paulus, Kulibul",
+                "ro": "Gereja Santo Paulus, Kulibul",
+                "en": "Gereja Santo Paulus, Kulibul"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Ausrüstung zu checken. Das Trommeln des Regens auf das Kirchendach schafft eine beruhigende, friedliche Stimmung.",
+                "hu": "Használd a fedett bejárati részt a felszerelésed ellenőrzésére. Az eső kopogása a templomtetőn megnyugtató, békés hangulatot teremt a pihenőhöz.",
+                "ro": "Folosește zona de intrare acoperită pentru a-ți verifica echipamentul. Răpăitul ploii pe acoperișul bisericii creează o atmosferă liniștitoare și pașnică.",
+                "en": "Use the covered entrance area to check your gear. The drumming of the rain on the church roof creates a calming, peaceful atmosphere for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Berawa",
+                "hu": "Pasar Berawa",
+                "ro": "Pasar Berawa",
+                "en": "Pasar Berawa"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab und wärmen Sie sich mit einem heißen Snack auf. Der Markt ist der perfekte Ort, um den schlimmsten Regen abzuwarten.",
+                "hu": "Parkold a biciklidet az előtető alá, és melegedj fel egy forró helyi falattal. A piac tökéletes hely arra, hogy kivárd a leghevesebb eső végét.",
+                "ro": "Parchează bicicleta sub copertină și încălzește-te cu o gustare fierbinte. Piața este locul perfect pentru a aștepta trecerea celei mai puternice ploi.",
+                "en": "Park your bike under the overhang and warm up with a hot snack. The market is the perfect spot to wait out the worst of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Berawa Surfspot",
+                "hu": "Berawa Surfspot",
+                "ro": "Berawa Surfspot",
+                "en": "Berawa Surfspot"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt am sandigen Ufer, da der Boden nun sehr weich ist. Beobachten Sie die hohen Wellen sicher von einer der überdachten Strandbars.",
+                "hu": "Kerüld a biciklizést közvetlenül a homokos parton, mert a talaj most nagyon puha. Figyeld a hatalmas hullámokat biztonságban az egyik fedett strandbárból.",
+                "ro": "Evită mersul cu bicicleta direct pe malul nisipos, deoarece solul este acum foarte moale. Observă valurile mari în siguranță de la un bar de plajă acoperit.",
+                "en": "Avoid cycling directly on the sandy shore as the ground is now very soft. Watch the high waves safely from one of the covered beach bars."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen ist ideal für die Radtour durch die Reisfelder, ohne ins Schwitzen zu kommen. Mittags bieten die Kirchen von Babakan und Kulibul eine angenehme Stille und Kühle für eine Pause. Am Nachmittag führt die Fahrt zum Pasar Berawa bei bestem Fotolicht. Da es früh dunkel wird, erreichen wir den Berawa Surfspot rechtzeitig zum spektakulären Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "A hűvös téli reggel ideális a rizsföldeken való biciklizéshez, mert nem izzadunk meg a tekerés közben. Délben Babakan és Kulibul templomai kellemes csendet és hűvöst nyújtanak a pihenéshez. Délután a Pasar Berawa felé vesszük az irányt a legjobb fotófényekben. Mivel korán sötétedik, 17:00 körül már a Berawa Surfspotnál élvezzük a naplementét.",
+            "ro": "Dimineața răcoroasă de iarnă este ideală pentru tura cu bicicleta prin câmpurile de orez. La prânz, bisericile oferă o liniște plăcută pentru o pauză. După-amiaza, drumul spre Pasar Berawa se face în cea mai bună lumină pentru poze. Deoarece se întunecă devreme, ajungem la Berawa Surfspot la timp pentru apusul de la ora 17:00.",
+            "en": "The cool winter morning is ideal for cycling through the rice fields without breaking a sweat. At noon, the churches offer a pleasant silence and coolness for a break. In the afternoon, the ride to Pasar Berawa is blessed with the best photo light. Since it gets dark early, we reach Berawa Surfspot just in time for the sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Scenic rice fields route",
+                "hu": "Scenic rice fields route",
+                "ro": "Scenic rice fields route",
+                "en": "Scenic rice fields route"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine weite Sicht bis zu den Bergen im Hintergrund. Tragen Sie eine Windjacke, da der Fahrtwind am Morgen recht frisch sein kann.",
+                "hu": "A tiszta téli levegő messzi kilátást enged egészen a távoli hegyekig. Viselj széldzsekit, mert a menetszél reggel meglehetősen friss lehet tekerés közben.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate mare până la munții din depărtare. Poartă o jachetă de vânt, deoarece curentul poate fi destul de rece dimineața.",
+                "en": "The clear winter air offers a wide view all the way to the mountains in the distance. Wear a windbreaker, as the breeze can be quite fresh in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Roh Kudus, Babakan",
+                "hu": "Gereja Roh Kudus, Babakan",
+                "ro": "Gereja Roh Kudus, Babakan",
+                "en": "Gereja Roh Kudus, Babakan"
+              },
+              "tip_5lang": {
+                "de": "Das Licht fällt im Winter flacher ein und beleuchtet die kunstvollen Schnitzereien im Inneren besonders schön. Ein ruhiger Ort, um sich kurz aufzuwärmen.",
+                "hu": "A fény télen laposabb szögben érkezik, és különösen szépen világítja meg a belső faragványokat. Nyugodt hely egy rövid pihenőhöz a hűvösebb szél elől.",
+                "ro": "Lumina cade într-un unghi mai mic iarna, luminând frumos sculpturile interioare. Un loc liniștit pentru a te odihni scurt ferit de vântul mai rece.",
+                "en": "The light hits at a lower angle in winter, illuminating the intricate interior carvings beautifully. A quiet place to take a short break from the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santo Paulus, Kulibul",
+                "hu": "Gereja Santo Paulus, Kulibul",
+                "ro": "Gereja Santo Paulus, Kulibul",
+                "en": "Gereja Santo Paulus, Kulibul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Atmosphäre ohne die üblichen Touristenmassen des Sommers. Die Umgebung der Kirche wirkt im Winterlicht besonders malerisch.",
+                "hu": "Élvezd a békés hangulatot a nyári turistatömeg nélkül. A templom környéke a téli fényben különösen festőinek hat a bicikliről nézve.",
+                "ro": "Bucură-te de atmosfera pașnică fără mulțimile de turiști din timpul verii. Împrejurimile bisericii par deosebit de pitorești în lumina de iarnă.",
+                "en": "Enjoy the peaceful atmosphere without the typical summer tourist crowds. The surroundings of the church look especially picturesque in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Berawa",
+                "hu": "Pasar Berawa",
+                "ro": "Pasar Berawa",
+                "en": "Pasar Berawa"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie am Nachmittag frisches Obst für den Weg zum Strand. Die Temperaturen sind jetzt perfekt, um den Markt ohne Hitzeerschöpfung zu erkunden.",
+                "hu": "Vegyél friss gyümölcsöt délután a tengerparti úthoz. A hőmérséklet most tökéletes ahhoz, hogy hőkimerültség nélkül járd be a piac minden sarkát.",
+                "ro": "Cumpără fructe proaspete după-amiaza pentru drumul spre plajă. Temperaturile sunt acum perfecte pentru a explora piața fără a te supraîncălzi.",
+                "en": "Buy fresh fruit in the afternoon for the ride to the beach. The temperatures are perfect now to explore the market without heat exhaustion."
+              }
+            },
+            {
+              "name": {
+                "de": "Berawa Surfspot",
+                "hu": "Berawa Surfspot",
+                "ro": "Berawa Surfspot",
+                "en": "Berawa Surfspot"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:45 Uhr hier, um den frühen Sonnenuntergang nicht zu verpassen. Nehmen Sie einen Pullover für die Rückfahrt nach Einbruch der Dunkelheit mit.",
+                "hu": "Légy itt 16:45 körül, hogy ne maradj le a korai naplementéről. Vigyél magaddal egy pulóvert a sötétedés utáni hűvösebb visszaúthoz.",
+                "ro": "Fii aici în jur de ora 16:45 pentru a nu rata apusul timpuriu. Ia un pulover pentru drumul de întoarcere după lăsarea întunericului.",
+                "en": "Be here around 16:45 so you don't miss the early sunset. Take a sweater for the ride back after dark as it gets quite chilly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "A délelőtt történelmi emlékművek megtekintésével és egy helyi kincsekkel teli, nyüzsgő piaccal indul. Délben frissüljön fel egy laza tengerparti bárban, mielőtt az autó elviszi Batu Bolong forgalmas bazárjaiba. A délután folyamán a parton pihenve figyelheti a szörfösöket. A nap méltó lezárásaként egy hagyományos piacon kóstolhatja meg a legfinomabb utcai ételeket.",
         "ro": "Dimineața începe cu o oprire la monumentele istorice și o piață de duminică plină de comori locale. La prânz, vă puteți răcori la un bar relaxant pe plajă, înainte ca mașina să vă ducă la bazarurile aglomerate din Batu Bolong. După-amiaza oferă un spectacol fascinant al surferilor pe plajă. Finalul zilei este rezervat explorării unei piețe tradiționale, ideală pentru o cină cu preparate stradale delicioase.",
         "en": "Your morning kicks off with a visit to a historical landmark and a lively Sunday market full of local treasures. By midday, refresh yourself at a laid-back beach bar before driving over to the bustling bazaars of Batu Bolong. In the afternoon, enjoy watching the surfers tackle the waves right from the sand. The day concludes wonderfully with a trip to a traditional market for incredibly authentic street food."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto bleiben wir den ganzen Tag über trocken und flexibel. Am Morgen besuchen wir die Statue und nutzen den Wagen als Basis bei Güssen. Mittags erkunden wir die Märkte, wobei wir direkt vor den Eingängen parken können. Den Nachmittag verbringen wir in der BBC Bazzar und lassen den Tag entspannt an der Berawa Küste ausklingen, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Autóval egész nap szárazon maradhatunk és rugalmasan mozoghatunk. Reggel megnézzük a szobrot, az autót bázisként használva a záporok idején. Délben a piacokat fedezzük fel, közvetlenül a bejáratoknál parkolva. A délutánt a BBC Bazzarban töltjük, majd a napot a Berawa parton zárjuk, miközben az eső az ablakon kopog.",
+            "ro": "Cu mașina rămânem uscați și flexibili pe parcursul întregii zile. Dimineața vizităm statuia, folosind mașina ca bază în timpul averselor. La prânz explorăm piețele, parcând direct la intrări. După-amiaza o petrecem la BBC Bazzar și încheiem ziua relaxați la Berawa, în timp ce ploaia bate în geamurile mașinii.",
+            "en": "By car, we stay dry and flexible throughout the day. In the morning, we visit the statue, using the car as a base during showers. At noon, we explore the markets, parking right by the entrances. We spend the afternoon at BBC Bazzar and end the day relaxed at the Berawa coast while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue",
+                "hu": "Statue",
+                "ro": "Statue",
+                "en": "Statue"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den schnellen Stopp für Fotos direkt aus dem Autofenster oder bei einer Regenpause. Der nasse Stein der Statue wirkt auf Bildern sehr kontrastreich.",
+                "hu": "Használd ki a gyors megállót fotózásra közvetlenül az autóablakból vagy egy esőszünetben. A szobor vizes köve nagyon kontrasztos a képeken.",
+                "ro": "Profită de oprirea rapidă pentru poze direct de la geamul mașinii sau în timpul unei pauze de ploaie. Piatra udă a statuii oferă un contrast mare în poze.",
+                "en": "Use the quick stop for photos directly from the car window or during a break in the rain. The wet stone of the statue looks very high-contrast in pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Krasivyi voskresnyi rynok",
+                "hu": "Krasivyi voskresnyi rynok",
+                "ro": "Krasivyi voskresnyi rynok",
+                "en": "Krasivyi voskresnyi rynok"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden. Der Markt ist teilweise überdacht, was das Stöbern auch bei Regen angenehm macht.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy ne ázz meg. A piac részben fedett, ami az esőben is kellemessé teszi a böngészést a standok között.",
+                "ro": "Parchează cât mai aproape de intrare pentru a nu te uda. Piața este parțial acoperită, ceea ce face căutarea prin standuri plăcută chiar și pe ploaie.",
+                "en": "Park as close to the entrance as possible to avoid getting wet. The market is partially covered, making browsing pleasant even when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Othree Beach Bar",
+                "hu": "Othree Beach Bar",
+                "ro": "Othree Beach Bar",
+                "en": "Othree Beach Bar"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie sich einen Tisch tief im Inneren der Bar, um vor Wind und Gischt geschützt zu sein. Genießen Sie den Blick auf den stürmischen Ozean bei einem Drink.",
+                "hu": "Foglalj asztalt mélyen a bár belsejében, hogy védve legyél a széltől és a permettől. Élvezd a viharos óceán látványát egy ital mellett, szárazon.",
+                "ro": "Ocupă o masă în interiorul barului pentru a fi protejat de vânt și stropi. Bucură-te de vederea spre oceanul învolburat cu o băutură în mână, la uscat.",
+                "en": "Secure a table deep inside the bar to stay protected from the wind and spray. Enjoy the view of the stormy ocean with a drink while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "BBC Batu Bolong Center Bazzar",
+                "hu": "BBC Batu Bolong Center Bazzar",
+                "ro": "BBC Batu Bolong Center Bazzar",
+                "en": "BBC Batu Bolong Center Bazzar"
+              },
+              "tip_5lang": {
+                "de": "Dieses Zentrum ist ideal, um längere Regenperioden trocken zu überbrücken. Nutzen Sie die klimatisierten Innenräume für eine entspannte Shopping-Pause.",
+                "hu": "Ez a központ ideális a hosszabb esős időszakok szárazon történő átvészeléséhez. Használd ki a légkondicionált belső tereket egy pihentető vásárláshoz.",
+                "ro": "Acest centru este ideal pentru a trece peste perioadele lungi de ploaie la uscat. Folosește spațiile interioare cu aer condiționat pentru o pauză de cumpărături.",
+                "en": "This center is ideal for bridging longer rainy periods in the dry. Use the air-conditioned interiors for a relaxed shopping break."
+              }
+            },
+            {
+              "name": {
+                "de": "Berawa Surfspot",
+                "hu": "Berawa Surfspot",
+                "ro": "Berawa Surfspot",
+                "en": "Berawa Surfspot"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben der Surfer im Regen direkt aus der Sicherheit Ihres Autos. Die Parkplätze bieten oft eine gute Sicht auf die Brandung.",
+                "hu": "Figyeld a szörfösök küzdelmét az esőben közvetlenül az autód biztonságából. A parkolók gyakran jó kilátást nyújtanak a hullámtörésre.",
+                "ro": "Observă activitatea surferilor pe ploaie direct din siguranța mașinii tale. Locurile de parcare oferă adesea o vedere bună asupra valurilor.",
+                "en": "Watch the surfers' action in the rain directly from the safety of your car. The parking spots often provide a good view of the surf."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Berawa",
+                "hu": "Pasar Berawa",
+                "ro": "Pasar Berawa",
+                "en": "Pasar Berawa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Markt für letzte Besorgungen vor der Rückfahrt. Im Auto können Sie Ihre Einkäufe sicher und trocken verstauen.",
+                "hu": "Használd a fedett piacot az utolsó beszerzésekhez a hazatérés előtt. Az autóban biztonságosan és szárazon tárolhatod a vásárolt holmikat.",
+                "ro": "Folosește piața acoperită pentru ultimele cumpărături înainte de întoarcere. În mașină poți depozita cumpărăturile în siguranță și la uscat.",
+                "en": "Use the covered market for final errands before heading back. You can store your purchases safely and dry in the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt im Winter ist dank Klimatisierung besonders angenehm. Am Vormittag besuchen wir die Statue und den Sonntagsmarkt bei klarem Himmel. Mittags entspannen wir in der Othree Beach Bar und genießen die milde Brise. Nachmittags nutzen wir das perfekte Licht im Batu Bolong Center und beenden die Tour am Berawa Surfspot pünktlich zum frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Az autós túra télen a szabályozható hőmérséklet miatt különösen kényelmes. Délelőtt meglátogatjuk a szobrot és a vasárnapi piacot a tiszta égbolt alatt. Délben az Othree Beach bárban pihenünk, élvezve az enyhe szellőt. Délután kihasználjuk a tökéletes fényeket a Batu Bolong Centerben, és 17:00-kor már a Berawa parton várjuk a naplementét.",
+            "ro": "Călătoria cu mașina iarna este deosebit de confortabilă datorită aerului condiționat. Dimineața vizităm statuia și piața sub cerul senin. La prânz ne relaxăm la Othree Beach Bar. După-amiaza profităm de lumina perfectă la Batu Bolong Center și încheiem turul la Berawa Surfspot exact pentru apusul de la ora 17:00.",
+            "en": "Driving in winter is particularly pleasant thanks to climate control. In the morning, we visit the statue and the Sunday market under clear skies. At noon, we relax at Othree Beach Bar, enjoying the mild breeze. In the afternoon, we take advantage of the perfect light at Batu Bolong Center and end the tour at Berawa Surfspot right for the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue",
+                "hu": "Statue",
+                "ro": "Statue",
+                "en": "Statue"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Morgenlicht im Winter ist ideal für Fotos der Statue ohne starke Blendung. Nutzen Sie die kühlen Temperaturen für einen kurzen Spaziergang um das Denkmal.",
+                "hu": "A lágy téli reggeli fény ideális a szobor fotózásához, erős tükröződés nélkül. Használd ki a hűvösebb időt egy rövid sétára az emlékmű körül.",
+                "ro": "Lumina blândă a dimineții de iarnă este ideală pentru pozele cu statuia. Profită de temperaturile scăzute pentru o scurtă plimbare în jurul monumentului.",
+                "en": "The soft morning light in winter is ideal for photos of the statue without harsh glare. Take advantage of the cool temperatures for a short walk around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Krasivyi voskresnyi rynok",
+                "hu": "Krasivyi voskresnyi rynok",
+                "ro": "Krasivyi voskresnyi rynok",
+                "en": "Krasivyi voskresnyi rynok"
+              },
+              "tip_5lang": {
+                "de": "Der Markt ist im Winter weniger überlaufen; Sie finden leichter einen Parkplatz. Genießen Sie das Stöbern bei angenehmen 25 Grad statt der üblichen Sommerhitze.",
+                "hu": "A piac télen kevésbé zsúfolt, így könnyebben találsz parkolóhelyet. Élvezd a nézelődést a kellemes 25 fokban a szokásos nyári hőség helyett.",
+                "ro": "Piața este mai puțin aglomerată iarna; vei găsi mai ușor un loc de parcare. Bucură-te de cumpărături la 25 de grade în loc de căldura obișnuită de vară.",
+                "en": "The market is less crowded in winter, making it easier to find a parking spot. Enjoy browsing at a pleasant 25 degrees instead of the usual summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Othree Beach Bar",
+                "hu": "Othree Beach Bar",
+                "ro": "Othree Beach Bar",
+                "en": "Othree Beach Bar"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist es am Strand im Winter herrlich mild. Ein idealer Ort, um die Meeresbrise zu genießen, ohne dass es im Auto zu heiß wird, wenn es in der Sonne steht.",
+                "hu": "Délben a tengerpart télen csodálatosan enyhe. Ideális hely a tengeri szellő élvezetére, miközben az autó sem forrósodik fel túlságosan a napon.",
+                "ro": "La prânz, plaja este minunat de blândă iarna. Un loc ideal pentru a te bucura de briza mării, fără ca mașina să se încingă prea tare în soare.",
+                "en": "At noon, the beach is wonderfully mild in winter. An ideal spot to enjoy the sea breeze without the car getting too hot while parked in the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "BBC Batu Bolong Center Bazzar",
+                "hu": "BBC Batu Bolong Center Bazzar",
+                "ro": "BBC Batu Bolong Center Bazzar",
+                "en": "BBC Batu Bolong Center Bazzar"
+              },
+              "tip_5lang": {
+                "de": "Das Center ist ein guter Ort, um den Nachmittag bei moderaten Temperaturen zu verbringen. Die Shops bieten oft spezielle Winterkollektionen für kühlere Abende an.",
+                "hu": "A központ remek hely a délután eltöltésére mérsékelt hőmérséklet mellett. A boltok gyakran kínálnak speciális téli darabokat a hűvösebb estékre.",
+                "ro": "Centrul este un loc bun pentru a petrece după-amiaza la temperaturi moderate. Magazinele oferă adesea colecții speciale de iarnă pentru serile răcoroase.",
+                "en": "The center is a great place to spend the afternoon in moderate temperatures. The shops often offer special winter collections for cooler evenings."
+              }
+            },
+            {
+              "name": {
+                "de": "Berawa Surfspot",
+                "hu": "Berawa Surfspot",
+                "ro": "Berawa Surfspot",
+                "en": "Berawa Surfspot"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean, um den Sonnenuntergang bequem aus dem Auto zu genießen. Die Farben am Winterhimmel sind oft besonders intensiv und klar.",
+                "hu": "Parkolj az óceán felé nézve, hogy kényelmesen, az autóból élvezhesd a naplementét. A téli égbolt színei gyakran különösen intenzívek és tiszták.",
+                "ro": "Parchează cu fața spre ocean pentru a te bucura de apus confortabil din mașină. Culorile cerului de iarnă sunt adesea deosebit de intense și clare.",
+                "en": "Park facing the ocean to comfortably enjoy the sunset from the car. The colors of the winter sky are often particularly intense and clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Berawa",
+                "hu": "Pasar Berawa",
+                "ro": "Pasar Berawa",
+                "en": "Pasar Berawa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Marktbesuch am frühen Abend, wenn die kühle Luft das Bummeln besonders angenehm macht. Verstauen Sie Ihre Einkäufe einfach im Kofferraum.",
+                "hu": "Használd ki a kora esti piaci látogatást, amikor a hűvösebb levegő különösen kellemessé teszi a sétát. A vásárolt holmikat könnyen elpakolhatod a csomagtartóba.",
+                "ro": "Profită de vizita la piață de seara devreme, când aerul răcoros face plimbarea foarte plăcută. Poți depozita ușor cumpărăturile în portbagaj.",
+                "en": "Take advantage of an early evening market visit when the cool air makes strolling especially pleasant. Easily stow your purchases in the trunk."
+              }
+            }
+          ]
+        }
       }
     }
   }

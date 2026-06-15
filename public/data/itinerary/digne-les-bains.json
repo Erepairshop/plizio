@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Digne-les-Bains történelmi központjának felfedezésével, és csodálja meg a lenyűgöző Saint-Jérôme katedrálist.\n\nEzután ismerje meg a régió aromás és művészeti örökségét a Levendula Múzeumban és az eklektikus Gassendi Múzeumban.\n\nDélután tegyen egy békés sétát a középkori Jardin des Cordeliers-ben, és látogassa meg a lenyűgöző román stílusú Notre-Dame-du-Bourg-ot.\n\nZárja gyalogos túráját egy jól megérdemelt, mélyen pihentető fürdőzéssel a város híres termálfürdőjében.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Digne-les-Bains, admirând marea Catedrală Saint-Jérôme.\n\nApoi, descoperiți moștenirea aromatică și artistică a regiunii la Muzeul Lavandei și la Muzeul eclectic Gassendi.\n\nDupă-amiaza, bucurați-vă de o plimbare liniștită prin grădina medievală Jardin des Cordeliers și vizitați impresionanta Notre-Dame-du-Bourg.\n\nÎncheiați turul pietonal cu o baie binemeritată și profund relaxantă în renumitele băi termale ale orașului.",
         "en": "Start your morning exploring the historic heart of Digne-les-Bains, admiring the grand Saint-Jérôme Cathedral.\n\nNext, uncover the region's aromatic and artistic heritage at the Lavender Museum and the eclectic Gassendi Museum.\n\nIn the afternoon, enjoy a peaceful stroll through the medieval Jardin des Cordeliers and visit the impressive Romanesque Notre-Dame-du-Bourg.\n\nConclude your walking tour with a well-deserved, deeply relaxing soak in the town's renowned thermal baths."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Schutz der Kathedrale, um dem Regen zu entkommen. Mittags bieten die Museen trockene und duftende Zufluchtsorte. Nachmittags spazieren wir trotz Pfützen zur Notre-Dame, bevor wir den Tag im heißen Thermalwasser ausklingen lassen, wo das Wetter keine Rolle spielt. Die Stadt wirkt im Regen melancholisch und ruhig, ideal für Innenbesichtigungen.",
+            "hu": "A napot a katedrális védelmében kezdjük az eső elől. Délben a múzeumok kínálnak száraz és illatos menedéket. Délután a pocsolyák ellenére is elsétálunk a Notre-Dame-hoz, majd a napot a forró termálvízben zárjuk, ahol az időjárás már nem számít. A város esőben melankolikus és csendes, ideális a belső terek felfedezésére.",
+            "ro": "Începeți ziua sub protecția catedralei pentru a scăpa de ploaie. La prânz, muzeele oferă refugii uscate și parfumate. După-amiaza, în ciuda bălților, mergem la Notre-Dame, înainte de a încheia ziua în apele termale fierbinți, unde vremea nu mai contează. Orașul pare melancolic și liniștit pe ploaie, ideal pentru vizite interioare.",
+            "en": "Start the day under the protection of the cathedral to escape the rain. At noon, the museums offer dry and fragrant sanctuaries. In the afternoon, despite the puddles, we walk to Notre-Dame before ending the day in the hot thermal waters, where the weather no longer matters. The city feels melancholic and quiet in the rain, ideal for indoor exploration."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Jérôme",
+                "hu": "Saint-Jérôme Katedrális",
+                "ro": "Catedrala Saint-Jérôme",
+                "en": "Saint-Jérôme Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Interieur und die Ruhe, während es draußen regnet; die dicken Mauern halten Sie trocken, nutzen Sie den Schirmständer am Eingang.",
+                "hu": "Csodálja meg a gótikus belsőt és a csendet, miközben kint esik; a vastag falak között garantáltan száraz marad, vigyen esernyőt a bejárathoz.",
+                "ro": "Admirați interiorul gotic și liniștea în timp ce afară plouă; pereții groși vă vor ține uscat, folosiți suportul de umbrele de la intrare.",
+                "en": "Admire the Gothic interior and the silence while it rains outside; the thick walls will keep you dry, use the umbrella stand at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Lavendelmuseum",
+                "hu": "Levendula Múzeum",
+                "ro": "Muzeul Lavandei",
+                "en": "Musee de la Lavande"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Welt der Düfte, perfekt um trübe Regentage zu vergessen; die interaktiven Ausstellungen sind komplett überdacht und sehr gemütlich.",
+                "hu": "Merüljön el az illatok világában, ami tökéletes a borús esős napok elfeledésére; az interaktív kiállítások fedettek és rendkívül hangulatosak.",
+                "ro": "Cufundați-vă în lumea aromelor, perfectă pentru a uita de zilele ploioase; expozițiile interactive sunt complet acoperite și foarte primitoare.",
+                "en": "Immerse yourself in the world of scents, perfect for forgetting gloomy rainy days; the interactive exhibitions are fully covered and very cozy."
+              }
+            },
+            {
+              "name": {
+                "de": "Gassendi-Museum",
+                "hu": "Gassendi Múzeum",
+                "ro": "Muzeul Gassendi",
+                "en": "Gassendi Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die fünf Etagen mit Kunst und Wissenschaft, ein idealer Zufluchtsort bei Dauerregen; achten Sie auf die rutschigen Stufen vor dem Gebäude.",
+                "hu": "Fedezze fel a művészet és tudomány öt emeletét, ideális menedék tartós esőben; ügyeljen a múzeum előtti lépcsők csúszósságára vizes időben.",
+                "ro": "Explorați cele cinci etaje de artă și știință, un refugiu ideal în caz de ploaie persistentă; atenție la treptele alunecoase din fața clădirii.",
+                "en": "Explore five floors of art and science, an ideal refuge during persistent rain; watch out for slippery steps in front of the building when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des Cordeliers",
+                "hu": "Jardin des Cordeliers",
+                "ro": "Grădina Cordeliers",
+                "en": "Jardin des Cordeliers"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang zwischen den Kräutern wirkt im Regen besonders frisch; suchen Sie Schutz unter den großen Bäumen, falls der Schauer stärker wird.",
+                "hu": "Egy rövid séta a fűszernövények között esőben különösen frissítő; keressen menedéket a nagy fák alatt, ha eleredne az intenzívebb zápor.",
+                "ro": "O scurtă plimbare printre ierburi este deosebit de revigorantă pe ploaie; căutați adăpost sub copacii mari dacă aversa devine mai intensă.",
+                "en": "A short walk among the herbs is especially refreshing in the rain; seek shelter under the large trees if a heavier downpour starts suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame-du-Bourg",
+                "hu": "Notre-Dame-du-Bourg Katedrális",
+                "ro": "Catedrala Notre-Dame-du-Bourg",
+                "en": "Notre-Dame-du-Bourg Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Krypta, um archäologische Schätze im Trockenen zu sehen; die mystische Atmosphäre wird durch das Trommeln des Regens auf das Dach verstärkt.",
+                "hu": "Látogasson el a kriptába, hogy szárazon láthassa a régészeti kincseket; a misztikus hangulatot csak fokozza a tetőn kopogó eső hangja.",
+                "ro": "Vizitați cripta pentru a vedea comorile arheologice la adăpost; atmosfera mistică este sporită de sunetul ploii care bate în acoperiș.",
+                "en": "Visit the crypt to see archaeological treasures in the dry; the mystical atmosphere is enhanced by the sound of rain drumming on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes de Digne-les-Bains",
+                "hu": "Digne-les-Bains Termálfürdő",
+                "ro": "Băile Termale Digne-les-Bains",
+                "en": "Thermes de Digne-les-Bains"
+              },
+              "tip_5lang": {
+                "de": "Der ultimative Abschluss für einen Regentag; das warme Mineralwasser entspannt die Muskeln, bringen Sie rutschfeste Badeschuhe für den Innenbereich mit.",
+                "hu": "A tökéletes lezárás egy esős napra; a meleg ásványvíz ellazítja az izmokat, hozzon csúszásmentes papucsot a belső medencék használatához.",
+                "ro": "Finalul suprem pentru o zi ploioasă; apa minerală caldă relaxează mușchii, aduceți papuci antiderapanți pentru zonele interioare de baie.",
+                "en": "The ultimate finale for a rainy day; the warm mineral water relaxes the muscles, bring non-slip slippers for the indoor pool areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie das winterliche Digne mit klarem Himmel und kühler Luft. Vormittags wärmen wir uns in der Kathedrale und den Museen auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das Tageslicht für die Gärten und die Notre-Dame. Abends bietet das Thermalbad die nötige Wärme gegen den Frost. Tragen Sie mehrere Schichten Kleidung für den Wechsel zwischen Innen und Außen.",
+            "hu": "Tapasztalja meg a téli Digne-t tiszta éggel és hűvös levegővel. Délelőtt a katedrálisban és a múzeumokban melegszünk fel. Mivel a nap 17:00 körül lenyugszik, a világos órákat a kertekre és a Notre-Dame-ra szánjuk. Este a termálfürdő adja meg a szükséges meleget a fagy ellen. Öltözzön rétegesen a kinti hideg és a benti fűtött terek váltakozása miatt.",
+            "ro": "Experimentați Digne iarna, cu cer senin și aer rece. Dimineața ne încălzim în catedrală și în muzee. Deoarece soarele apune în jurul orei 17:00, folosim lumina zilei pentru grădini și Notre-Dame. Seara, băile termale oferă căldura necesară împotriva înghețului. Purtați haine în straturi pentru trecerea de la frig la spațiile încălzite.",
+            "en": "Experience winter in Digne with clear skies and cool air. In the morning, we warm up in the cathedral and museums. Since the sun sets around 17:00, we use the daylight hours for the gardens and Notre-Dame. In the evening, the thermal baths provide the necessary warmth against the frost. Dress in layers for the transition between cold outside and heated interiors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Jérôme",
+                "hu": "Saint-Jérôme Katedrális",
+                "ro": "Catedrala Saint-Jérôme",
+                "en": "Saint-Jérôme Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale kann im Winter recht kühl sein; behalten Sie Ihren Mantel an, während Sie die religiöse Kunst in der ruhigen Wintermorgenstille bewundern.",
+                "hu": "A katedrális télen elég hűvös lehet; tartsa magán a kabátját, miközben a szakrális művészetet csodálja a csendes téli reggeli áhítatban.",
+                "ro": "Catedrala poate fi destul de rece iarna; păstrați haina pe dvs. în timp ce admirați arta religioasă în liniștea dimineții de iarnă.",
+                "en": "The cathedral can be quite chilly in winter; keep your coat on while admiring the sacred art in the quiet winter morning stillness."
+              }
+            },
+            {
+              "name": {
+                "de": "Lavendelmuseum",
+                "hu": "Levendula Múzeum",
+                "ro": "Muzeul Lavandei",
+                "en": "Musee de la Lavande"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren und den Duft des Sommers mitten im Winter; ideal, um sich nach dem ersten Spaziergang wieder aufzuwärmen.",
+                "hu": "Élvezze a benti kellemes meleget és a nyár illatát a tél közepén; ideális helyszín az első séta utáni felmelegedéshez és töltekezéshez.",
+                "ro": "Bucurați-vă de căldura plăcută din interior și de parfumul verii în mijlocul iernii; ideal pentru a vă reîncălzi după prima plimbare.",
+                "en": "Enjoy the pleasant warmth inside and the scent of summer in the middle of winter; an ideal spot to warm up again after the first walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Gassendi-Museum",
+                "hu": "Gassendi Múzeum",
+                "ro": "Muzeul Gassendi",
+                "en": "Gassendi Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die kältesten Stunden des Tages in beheizten Räumen; die kuriosen Sammlungen lassen Sie die frostigen Temperaturen draußen vergessen.",
+                "hu": "Töltse itt a nap leghidegebb óráit fűtött termekben; a különleges gyűjtemények feledtetik a kinti fagyos hőmérsékletet és a jeges szelet.",
+                "ro": "Petreceți aici cele mai reci ore ale zilei în săli încălzite; colecțiile curioase vă vor face să uitați de temperaturile înghețate de afară.",
+                "en": "Spend the coldest hours of the day here in heated rooms; the curious collections will make you forget the frosty temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des Cordeliers",
+                "hu": "Jardin des Cordeliers",
+                "ro": "Grădina Cordeliers",
+                "en": "Jardin des Cordeliers"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Struktur der winterruhenden Pflanzen vor dem frühen Sonnenuntergang; feste Schuhe sind wichtig, da die Wege gefroren sein können.",
+                "hu": "Csodálja meg a téli pihenőt tartó növények szerkezetét a korai naplemente előtt; fontos a stabil cipő, mert az utak fagyottak lehetnek.",
+                "ro": "Admirați structura plantelor în repaus hibernal înainte de apusul timpuriu; încălțămintea solidă este importantă, potecile pot fi înghețate.",
+                "en": "Admire the structure of plants in winter dormancy before the early sunset; sturdy shoes are important as paths may be frozen or icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame-du-Bourg",
+                "hu": "Notre-Dame-du-Bourg Katedrális",
+                "ro": "Catedrala Notre-Dame-du-Bourg",
+                "en": "Notre-Dame-du-Bourg Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht im Inneren bietet einen schönen Kontrast zur blauen Stunde draußen; besuchen Sie diesen Ort kurz vor Einbruch der Dunkelheit.",
+                "hu": "A benti meleg fények szép kontrasztot alkotnak a kinti kék órával; látogassa meg ezt a helyet közvetlenül a sötétedés beállta előtt.",
+                "ro": "Luminile calde din interior oferă un contrast frumos cu ora albastră de afară; vizitați acest loc chiar înainte de lăsarea întunericului.",
+                "en": "The warm lights inside offer a beautiful contrast to the blue hour outside; visit this place just before the early darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes de Digne-les-Bains",
+                "hu": "Digne-les-Bains Termálfürdő",
+                "ro": "Băile Termale Digne-les-Bains",
+                "en": "Thermes de Digne-les-Bains"
+              },
+              "tip_5lang": {
+                "de": "Nichts schlägt das heiße Thermalbad nach einem kalten Wintertag; ziehen Sie sich nach dem Bad sehr warm an, um die Körperwärme zu speichern.",
+                "hu": "Semmi sem múlja felül a forró termálfürdőt egy hideg téli nap után; a fürdés után öltözzön nagyon melegen, hogy megőrizze a testhőt.",
+                "ro": "Nimic nu bate o baie termală fierbinte după o zi rece de iarnă; după baie, îmbrăcați-vă foarte gros pentru a menține căldura corpului.",
+                "en": "Nothing beats a hot thermal bath after a cold winter day; dress very warmly after your soak to preserve your body heat effectively."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje a kerékpáros kalandot a központi Saint-Jérôme katedrális meglátogatásával, mielőtt észak felé tekerne a folyó mentén.\n\nDélben fedezze fel a művészet és a természet fúzióját a Musee Promenade-ban, majd tegyen egy vidám kitérőt az élénk dinoszauruszparkban.\n\nA délután folyamán lovagoljon délre a lenyűgöző Maison Alexandra David Neel-hez, hogy megismerje az utazó epikus kalandjait.\n\nZárja aktív napját a festői Ferréols Szabadidőtó partján, élvezve a nyugodt vizeket és a gyönyörű naplementét.",
         "ro": "Începeți aventura pe bicicletă vizitând Catedrala centrală Saint-Jérôme înainte de a pedala spre nord de-a lungul râului.\n\nLa amiază, explorați fuziunea dintre artă și natură la Musee Promenade, urmată de o oprire distractivă la parcul de dinozauri.\n\nPe măsură ce după-amiaza avansează, mergeți spre sud la fascinanta Casă Alexandra David Neel pentru a afla despre călătoriile ei epice.\n\nÎncheiați-vă ziua activă relaxându-vă lângă pitorescul Lac de Agrement Ferréols, bucurându-vă de apele calme și de un apus frumos.",
         "en": "Kick off your cycling adventure by visiting the central Saint-Jérôme Cathedral before pedaling north along the river.\n\nMidday, explore the Musee Promenade's fusion of art and nature, followed by a fun stop at the lively dinosaur park.\n\nAs the afternoon progresses, ride south to the fascinating Maison Alexandra David Neel to learn about her epic journeys.\n\nFinish your active day relaxing by the picturesque Ferréols Leisure Lake, enjoying the calm waters and beautiful sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Bergstraßen. Vormittags nutzen wir die Kathedrale und das Musee Promenade als trockene Stützpunkte. Mittags suchen wir Schutz bei den Dinosauriern. Die Fahrt zur Maison David Neel führt über nasse Asphaltwege, planen Sie längere Bremswege ein. Trotz Nässe bleibt die Landschaft grün und die Luft angenehm frisch und belebend.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a hegyi utakon. Délelőtt a katedrálist és a Musee Promenade-ot használjuk száraz bázisként. Délben a dinoszauruszoknál keresünk menedéket. Az Alexandra David-Neel házhoz vezető út vizes lehet, tervezzen hosszabb fékúttal. A nedvesség ellenére a táj zöld marad, a levegő pedig friss és élénkítő.",
+            "ro": "Mersul pe bicicletă pe ploaie necesită prudență pe drumurile montane. Dimineața folosim catedrala și Musee Promenade ca baze uscate. La prânz căutăm adăpost la dinozauri. Drumul spre Casa David Neel trece pe asfalt umed, planificați distanțe de frânare mai lungi. În ciuda umidității, peisajul rămâne verde, iar aerul este proaspăt.",
+            "en": "Cycling in the rain requires caution on the mountain roads. In the morning, we use the cathedral and Musee Promenade as dry bases. At noon, we seek shelter with the dinosaurs. The ride to Maison David Neel involves wet asphalt, so plan for longer braking distances. Despite the wetness, the landscape remains green and the air is pleasantly fresh."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Jérôme",
+                "hu": "Saint-Jérôme Katedrális",
+                "ro": "Catedrala Saint-Jérôme",
+                "en": "Saint-Jérôme Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab und nutzen Sie die Pause, um die Schuhe zu trocknen; die Kathedrale bietet perfekten Schutz vor Schauern.",
+                "hu": "Parkoljon a biciklivel az előtető alatt, és használja a szünetet a cipők szárítására; a katedrális tökéletes védelmet nyújt a záporok elől.",
+                "ro": "Parcați bicicleta sub copertină și folosiți pauza pentru a vă usca încălțămintea; catedrala oferă protecție perfectă împotriva averselor.",
+                "en": "Park your bike under the overhang and use the break to dry your shoes; the cathedral offers perfect protection from sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Musee Promenade",
+                "hu": "Musee Promenade",
+                "ro": "Musee Promenade",
+                "en": "Musee Promenade"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Museum kann bei Regen rutschig sein; im Inneren finden Sie faszinierende Geologie, die Sie die Nässe draußen schnell vergessen lässt.",
+                "hu": "A múzeumba vezető út esőben csúszós lehet; bent lenyűgöző geológiai leleteket talál, amik feledtetik a kinti ázást és a szürke eget.",
+                "ro": "Drumul spre muzeu poate fi alunecos pe ploaie; în interior veți găsi geologie fascinantă care vă va face să uitați de umezeala de afară.",
+                "en": "The path to the museum can be slippery in the rain; inside you will find fascinating geology that will make you forget the wetness outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Les dinosaures 'vivants'",
+                "hu": "Élő Dinoszauruszok",
+                "ro": "Dinozaurii 'Vii'",
+                "en": "Les dinosaures 'vivants'"
+              },
+              "tip_5lang": {
+                "de": "Die lebensgroßen Modelle wirken im Regen fast noch realistischer; tragen Sie eine gute Regenjacke, da einige Teile des Pfades im Freien liegen.",
+                "hu": "Az élethű modellek esőben még valóságosabbnak tűnnek; viseljen jó esőkabátot, mivel az útvonal egyes részei a szabad ég alatt találhatók.",
+                "ro": "Modelele în mărime naturală par aproape mai realiste pe ploaie; purtați o jachetă de ploaie bună, deoarece unele părți ale traseului sunt afară.",
+                "en": "The life-sized models look almost more realistic in the rain; wear a good raincoat as some parts of the path are located in the open air."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus Alexandra David-Neel",
+                "hu": "Alexandra David-Neel Ház",
+                "ro": "Casa Alexandra David-Neel",
+                "en": "Maison Alexandra David Neel"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um sich im Trockenen in ferne Welten zu träumen; sichern Sie Ihr Rad gut ab, da der Boden hier etwas aufgeweicht sein kann.",
+                "hu": "Csodálatos hely, ahol szárazon álmodozhat távoli világokról; rögzítse stabilan a biciklit, mert a talaj itt kissé felázott és puha lehet.",
+                "ro": "Un loc minunat pentru a visa la lumi îndepărtate la adăpost; asigurați bine bicicleta, deoarece solul poate fi puțin moale din cauza ploii.",
+                "en": "A wonderful place to dream of far-off worlds while staying dry; secure your bike well, as the ground here can be a bit soft from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitsee Ferréols",
+                "hu": "Ferréols Szabadidőtó",
+                "ro": "Lacul de Agrement Ferréols",
+                "en": "Ferréols Leisure Lake"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt bei Regen mystisch, aber meiden Sie die unbefestigten Uferwege; nutzen Sie die asphaltierte Zufahrt für eine sicherere Rückfahrt.",
+                "hu": "A tó esőben misztikus látványt nyújt, de kerülje a part menti földutakat; használja az aszfaltozott bejárót a biztonságosabb visszatéréshez.",
+                "ro": "Lacul pare mistic pe ploaie, dar evitați potecile de pământ de pe mal; folosiți accesul asfaltat pentru o întoarcere mai sigură în oraș.",
+                "en": "The lake looks mystical in the rain, but avoid the unpaved shoreline paths; use the paved access road for a safer ride back to the center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Digne bietet klare Bergluft, erfordert aber warme Handschuhe. Vormittags wärmen wir uns in der Kathedrale auf, bevor wir zum Musee Promenade fahren. Die Dinosaurier-Ausstellung ist auch im Winter beeindruckend. Nachmittags besuchen wir das Haus von Alexandra David-Neel. Beenden Sie die Tour vor 17:00 Uhr, wenn die Kälte mit dem Sonnenuntergang spürbar zunimmt.",
+            "hu": "A téli biciklizés Digne-ben friss hegyi levegőt kínál, de meleg kesztyű kötelező. Délelőtt a katedrálisban melegszünk fel, mielőtt a Musee Promenade-hoz tekernénk. A dinoszaurusz-kiállítás télen is lenyűgöző. Délután meglátogatjuk Alexandra David-Neel házát. A túrát fejezze be 17:00 előtt, mert a hideg a naplementével hirtelen felerősödik.",
+            "ro": "Ciclismul de iarnă în Digne oferă aer curat de munte, dar mănușile groase sunt obligatorii. Dimineața ne încălzim în catedrală înainte de a merge la Musee Promenade. Expoziția de dinozauri este impresionantă și iarna. După-amiaza vizităm casa Alexandrei David-Neel. Încheiați turul înainte de 17:00, deoarece frigul se intensifică odată cu apusul.",
+            "en": "Winter cycling in Digne offers crisp mountain air, but warm gloves are a must. In the morning, we warm up in the cathedral before riding to Musee Promenade. The dinosaur exhibit is impressive even in winter. In the afternoon, we visit Alexandra David-Neel’s house. Finish your tour before 17:00, as the cold intensifies quickly with the sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Jérôme",
+                "hu": "Saint-Jérôme Katedrális",
+                "ro": "Catedrala Saint-Jérôme",
+                "en": "Saint-Jérôme Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Eingangsbereich für eine kurze Pause; die kalte Morgenluft wird im Inneren der Kathedrale angenehm abgemildert.",
+                "hu": "Használja a szélvédett bejárati részt egy rövid pihenőre; a hideg reggeli levegőt a katedrális belseje kellemesen letompítja és lecsendesíti.",
+                "ro": "Folosiți zona de intrare ferită de vânt pentru o scurtă pauză; aerul rece de dimineață este atenuat plăcut în interiorul catedralei.",
+                "en": "Use the wind-protected entrance area for a short break; the cold morning air is pleasantly softened and stilled inside the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Musee Promenade",
+                "hu": "Musee Promenade",
+                "ro": "Musee Promenade",
+                "en": "Musee Promenade"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber oben angekommen sollten Sie schnell ins warme Museum gehen; die Aussicht auf die verschneiten Gipfel ist herrlich.",
+                "hu": "A felfelé tekerés melegen tart, de felérve menjen gyorsan a fűtött múzeumba; a kilátás a környező havas csúcsokra ilyenkor a legszebb.",
+                "ro": "Urcarea vă va ține de cald, dar odată ajunși sus, intrați repede în muzeul încălzit; vederea spre vârfurile înzăpezite este superbă acum.",
+                "en": "The climb will keep you warm, but once at the top, head quickly into the heated museum; the view of the snowy peaks is most beautiful now."
+              }
+            },
+            {
+              "name": {
+                "de": "Les dinosaures 'vivants'",
+                "hu": "Élő Dinoszauruszok",
+                "ro": "Dinozaurii 'Vii'",
+                "en": "Les dinosaures 'vivants'"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorischen Riesen wirken in der kargen Winterlandschaft besonders mächtig; tragen Sie Thermo-Socken, da der Boden die Kälte abstrahlt.",
+                "hu": "A prehisztorikus óriások a kopár téli tájban különösen monumentálisnak tűnnek; viseljen thermo-zoknit, mert a talaj felől jön a hideg.",
+                "ro": "Giganții preistorici par deosebit de monumentali în peisajul arid de iarnă; purtați șosete termice, deoarece frigul vine de la nivelul solului.",
+                "en": "The prehistoric giants look especially monumental in the barren winter landscape; wear thermal socks as the cold radiates from the frozen ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus Alexandra David-Neel",
+                "hu": "Alexandra David-Neel Ház",
+                "ro": "Casa Alexandra David-Neel",
+                "en": "Maison Alexandra David Neel"
+              },
+              "tip_5lang": {
+                "de": "Die tibetische Atmosphäre passt perfekt zur kalten Jahreszeit; wärmen Sie sich bei der Besichtigung der persönlichen Gegenstände der Forscherin auf.",
+                "hu": "A tibeti hangulat tökéletesen illik a hideg évszakhoz; melegedjen fel a kutatónő személyes tárgyainak és különleges emlékeinek megtekintése közben.",
+                "ro": "Atmosfera tibetană se potrivește perfect cu sezonul rece; încălziți-vă vizitând obiectele personale și amintirile speciale ale cercetătoarei.",
+                "en": "The Tibetan atmosphere fits the cold season perfectly; warm up while viewing the researcher’s personal belongings and unique memorabilia."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitsee Ferréols",
+                "hu": "Ferréols Szabadidőtó",
+                "ro": "Lacul de Agrement Ferréols",
+                "en": "Ferréols Leisure Lake"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille am gefrorenen oder frostigen Ufer kurz vor Sonnenuntergang; beeilen Sie sich mit der Rückfahrt, bevor die Straßen glatt werden.",
+                "hu": "Élvezze a csendet a fagyos tóparton közvetlenül naplemente előtt; siessen a visszatéréssel, mielőtt az utak a hidegtől jegesedni kezdenének.",
+                "ro": "Bucurați-vă de liniștea de pe malul înghețat chiar înainte de apus; grăbiți-vă cu întoarcerea înainte ca drumurile să înceapă să înghețe.",
+                "en": "Enjoy the silence on the frosty lakeshore just before sunset; hurry back to the center before the roads start to ice over from the falling temperature."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós túráját a történelmi Saint-Jérôme katedrálisnál és a Notre-Dame-du-Bourg ősi kriptáinál.\n\nVezessen ki a hatalmas Haute-Provence Földtani Rezervátumba, és csodálja meg a zord tájban megőrzött hihetetlen kövületeket.\n\nDélután élvezze a Gaubert-tó nyugodt természeti szépségét, mielőtt a népszerű Ferréols Szabadidőtó felé venné az irányt.\n\nZárja az estét egy kis helyi kortárs kultúrával a pezsgő Ecole du Sous Sol - Studio 57-ben.",
         "ro": "Începeți-vă turul cu mașina la istorica Catedrală Saint-Jérôme și la criptele antice de la Notre-Dame-du-Bourg.\n\nConduceți spre vasta Rezervație Geologică Haute-Provence pentru a vedea incredibilele paturi de fosile conservate în peisajul accidentat.\n\nDupă-amiaza, bucurați-vă de frumusețea naturală senină a Lacului Gaubert înainte de a vă îndrepta spre popularul Lac de Agrement Ferréols.\n\nÎncheiați-vă seara cu un strop de cultură contemporană locală la vibranta Ecole du Sous Sol - Studio 57.",
         "en": "Begin your driving tour at the historic Saint-Jérôme Cathedral and the ancient crypts of Notre-Dame-du-Bourg.\n\nDrive out to the vast Haute-Provence Geological Reserve to witness incredible fossil beds preserved in the rugged landscape.\n\nIn the afternoon, enjoy the serene natural beauty of Lac de Gaubert before heading to the popular Ferréols Leisure Lake.\n\nWrap up your evening with a touch of local contemporary culture at the vibrant Ecole du Sous Sol - Studio 57."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist bei Regen der beste Verbündete in Digne. Vormittags besuchen wir die Kathedralen, parken Sie nah an den Eingängen. Mittags erkunden wir das geologische Reservat, wo das Auto als mobiler Unterstand dient. Nachmittags genießen wir den Blick auf den Lac de Gaubert durch die Scheiben. Der Tag endet kulturell im Studio 57, wo wir trocken und bequem ankommen können.",
+            "hu": "Az autó a legjobb szövetséges esős időben Digne-ben. Délelőtt a katedrálisokat látogatjuk meg, parkoljon közel a bejáratokhoz. Délben a földtani rezervátumot fedezzük fel, ahol az autó mobil menedékként szolgál. Délután a Gaubert-tó látványát élvezzük a szélvédő mögül. A napot kulturális programmal zárjuk a Studio 57-ben, kényelmesen és szárazon érkezve.",
+            "ro": "Mașina este cel mai bun aliat pe vreme ploioasă în Digne. Dimineața vizităm catedralele, parcați aproape de intrări. La prânz explorăm rezervația geologică, unde mașina servește ca adăpost mobil. După-amiaza ne bucurăm de vederea lacului Gaubert prin parbriz. Ziua se încheie cu un program cultural la Studio 57, ajungând confortabil și uscați.",
+            "en": "The car is your best ally in rainy weather in Digne. In the morning, we visit the cathedrals, park close to the entrances. At noon, we explore the geological reserve, where the car serves as a mobile shelter. In the afternoon, we enjoy the view of Lac de Gaubert from behind the windshield. The day ends with a cultural program at Studio 57, arriving comfortably and dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Jérôme",
+                "hu": "Saint-Jérôme Katedrális",
+                "ro": "Catedrala Saint-Jérôme",
+                "en": "Saint-Jérôme Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz Place du Marché, um den Fußweg im Regen kurz zu halten; im Inneren erwartet Sie eine trockene, spirituelle Atmosphäre.",
+                "hu": "Használja a Place du Marché parkolót, hogy minimalizálja az esőben való gyaloglást; bent száraz és spirituális hangulat várja a látogatókat.",
+                "ro": "Folosiți parcarea Place du Marché pentru a minimiza mersul prin ploaie; în interior vă așteaptă o atmosferă spirituală și uscată.",
+                "en": "Use the Place du Marché parking to minimize walking in the rain; inside, a dry and spiritual atmosphere awaits all visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame-du-Bourg",
+                "hu": "Notre-Dame-du-Bourg Katedrális",
+                "ro": "Catedrala Notre-Dame-du-Bourg",
+                "en": "Notre-Dame-du-Bourg Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Direkt vor der Kathedrale gibt es Parkmöglichkeiten; ideal, um die archäologische Krypta zu besichtigen, ohne dabei völlig nass zu werden.",
+                "hu": "Közvetlenül a katedrális előtt vannak parkolóhelyek; ideális a régészeti kripta meglátogatásához anélkül, hogy teljesen elázna az úton.",
+                "ro": "Există locuri de parcare chiar în fața catedralei; ideal pentru a vizita cripta arheologică fără a vă uda complet pe drum.",
+                "en": "There are parking spaces right in front of the cathedral; ideal for visiting the archaeological crypt without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Geologisches Reservat Haute-Provence",
+                "hu": "Haute-Provence Földtani Rezervátum",
+                "ro": "Rezervația Geologică Haute-Provence",
+                "en": "Haute-Provence Geological Reserve"
+              },
+              "tip_5lang": {
+                "de": "Viele Fossilien sind von der Straße aus sichtbar; parken Sie an den Aussichtspunkten, um die Geologie auch bei starkem Regen bewundern zu können.",
+                "hu": "Sok kövület látható közvetlenül az út mellől; álljon meg a kilátópontoknál, hogy a geológiát erős esőben is kényelmesen megcsodálhassa.",
+                "ro": "Multe fosile sunt vizibile chiar de lângă drum; opriți la punctele de belvedere pentru a admira geologia chiar și pe ploaie torențială.",
+                "en": "Many fossils are visible right from the road; stop at the viewpoints to admire the geology comfortably even during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Gaubert",
+                "hu": "Gaubert-tó",
+                "ro": "Lacul Gaubert",
+                "en": "Lac de Gaubert"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für eine kurze Pause im Auto mit Seeblick; die Zufahrtsstraße kann bei Regen schlammig sein, fahren Sie daher langsam und vorsichtig.",
+                "hu": "Szép hely egy rövid autós pihenőre tóparti kilátással; a bekötőút esőben sáros lehet, ezért hajtson lassan és fokozott óvatossággal.",
+                "ro": "Un loc frumos pentru o scurtă pauză în mașină cu vedere la lac; drumul de acces poate fi noroios pe ploaie, conduceți încet și cu prudență.",
+                "en": "A nice spot for a short break in the car with a lake view; the access road can be muddy in the rain, so drive slowly and with caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitsee Ferréols",
+                "hu": "Ferréols Szabadidőtó",
+                "ro": "Lacul de Agrement Ferréols",
+                "en": "Ferréols Leisure Lake"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hauptgebäude, um schnell ins Trockene zu kommen; der graue Himmel spiegelt sich im Regen besonders stimmungsvoll im Wasser wider.",
+                "hu": "Parkoljon a főépületnél, hogy gyorsan fedél alá érjen; a szürke égbolt esőben különösen hangulatosan tükröződik a tó nyugodt felszínén.",
+                "ro": "Parcați lângă clădirea principală pentru a ajunge repede la adăpost; cerul gri se reflectă foarte sugestiv în apă pe timp de ploaie.",
+                "en": "Park near the main building to get under cover quickly; the gray sky reflects very atmospheric in the water during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecole du Sous Sol - Studio 57",
+                "hu": "Ecole du Sous Sol - Studio 57",
+                "ro": "Ecole du Sous Sol - Studio 57",
+                "en": "Ecole du Sous Sol - Studio 57"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Indoor-Ort, um den Abend bei Kultur zu verbringen; die Parkplätze sind beleuchtet, was die Ankunft bei Dunkelheit und Regen erleichtert.",
+                "hu": "Tökéletes beltéri helyszín a kulturális esti kikapcsolódáshoz; a parkolók kivilágítottak, ami megkönnyíti az érkezést sötétben és esőben.",
+                "ro": "Locație interioară perfectă pentru relaxare culturală seara; parcările sunt iluminate, facilitând sosirea pe întuneric și ploaie.",
+                "en": "A perfect indoor location for a cultural evening out; the parking lots are well-lit, making arrival easier in the dark and rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Digne im Winter bequem mit dem Auto. Vormittags wärmen wir uns in den Kathedralen auf. Mittags führt die Fahrt durch das glitzernde geologische Reservat, achten Sie auf eventuelles Glatteis in schattigen Kurven. Da es früh dunkel wird, besuchen wir den Lac de Gaubert am frühen Nachmittag. Der Abend im Studio 57 bietet ein warmes und gemütliches Finale für diesen Wintertag.",
+            "hu": "Fedezze fel téli Digne-t kényelmesen, autóval. Délelőtt a katedrálisokban melegszünk fel. Délben az út a csillogó földtani rezervátumon át vezet, figyeljen az esetleges jegesedésre az árnyékos kanyarokban. Mivel korán sötétedik, a Gaubert-tavat kora délután keressük fel. Az este a Studio 57-ben meleg és barátságos lezárást kínál a téli napnak.",
+            "ro": "Descoperiți Digne iarna confortabil cu mașina. Dimineața ne încălzim în catedrale. La prânz, drumul trece prin rezervația geologică sclipitoare, atenție la gheață în curbele umbrite. Deoarece se întunecă devreme, vizităm lacul Gaubert la începutul după-amiezii. Seara la Studio 57 oferă un final cald și primitor pentru această zi de iarnă.",
+            "en": "Discover Digne in winter comfortably by car. In the morning, we warm up in the cathedrals. At noon, the drive takes us through the sparkling geological reserve; watch for potential ice in shaded curves. Since it gets dark early, we visit Lac de Gaubert in the early afternoon. The evening at Studio 57 offers a warm and welcoming finale to the winter day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Jérôme",
+                "hu": "Saint-Jérôme Katedrális",
+                "ro": "Catedrala Saint-Jérôme",
+                "en": "Saint-Jérôme Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Heizen Sie das Auto vor, bevor Sie aussteigen; die Kathedrale ist im Winter kühl, aber die spirituelle Ruhe am Morgen ist jede Minute wert.",
+                "hu": "Fűtse fel az autót kiszállás előtt; a katedrális télen hűvös, de a reggeli spirituális nyugalom minden percet megér a látogatóknak.",
+                "ro": "Încălziți mașina înainte de a coborî; catedrala este rece iarna, dar liniștea spirituală de dimineață merită fiecare minut petrecut acolo.",
+                "en": "Warm up the car before getting out; the cathedral is cool in winter, but the spiritual morning peace is worth every minute for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Notre-Dame-du-Bourg",
+                "hu": "Notre-Dame-du-Bourg Katedrális",
+                "ro": "Catedrala Notre-Dame-du-Bourg",
+                "en": "Notre-Dame-du-Bourg Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach der Besichtigung der Krypta; die romanische Architektur wirkt im klaren Winterlicht besonders plastisch und klar.",
+                "hu": "Használja az ülésfűtést a kripta megtekintése után; a román építészet a tiszta téli fényben különösen plasztikusnak és tisztának hat.",
+                "ro": "Folosiți încălzirea în scaune după vizitarea criptei; arhitectura romanică pare deosebit de plastică și clară în lumina curată de iarnă.",
+                "en": "Use the seat heating after visiting the crypt; the Romanesque architecture looks particularly plastic and clear in the crisp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Geologisches Reservat Haute-Provence",
+                "hu": "Haute-Provence Földtani Rezervátum",
+                "ro": "Rezervația Geologică Haute-Provence",
+                "en": "Haute-Provence Geological Reserve"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Wetterbericht für die Bergstraßen; die gefrorenen Wasserfälle entlang der Route sind im Winter ein spektakulärer Anblick.",
+                "hu": "Ellenőrizze az időjárás-jelentést a hegyi utakra; az útvonal mentén látható fagyott vízesések télen látványos és különleges élményt nyújtanak.",
+                "ro": "Verificați prognoza meteo pentru drumurile montane; cascadele înghețate de-a lungul traseului sunt o priveliște spectaculoasă iarna.",
+                "en": "Check the weather report for the mountain roads; the frozen waterfalls visible along the route are a spectacular and unique sight in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Gaubert",
+                "hu": "Gaubert-tó",
+                "ro": "Lacul Gaubert",
+                "en": "Lac de Gaubert"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den oft nebligen oder frostigen See; bleiben Sie im Auto, wenn der Wind zu stark ist, und genießen Sie die Stille.",
+                "hu": "Élvezze a kilátást a gyakran ködös vagy fagyos tóra; maradjon az autóban, ha a szél túl erős, és élvezze a táj nyugalmát és csendjét.",
+                "ro": "Bucurați-vă de vederea lacului adesea cețos sau înghețat; rămâneți în mașină dacă vântul este prea puternic și savurați liniștea peisajului.",
+                "en": "Enjoy the view of the often misty or frosty lake; stay in the car if the wind is too strong and savor the tranquility and silence of the landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Freizeitsee Ferréols",
+                "hu": "Freizeitsee Ferréols",
+                "ro": "Lacul de Agrement Ferréols",
+                "en": "Ferréols Leisure Lake"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den See kurz vor dem Sonnenuntergang um 17:00 Uhr; die Wintersonne zaubert goldene Reflexe auf die frostigen Uferwiesen.",
+                "hu": "Látogasson el a tóhoz közvetlenül a 17:00 órai naplemente előtt; a téli nap arany fényeket varázsol a fagyos parti mezőkre és a vízre.",
+                "ro": "Vizitați lacul chiar înainte de apusul de la ora 17:00; soarele de iarnă creează reflexe aurii pe pajiștile înghețate de pe mal.",
+                "en": "Visit the lake just before the 17:00 sunset; the winter sun creates golden reflections on the frosty shoreline meadows and the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecole du Sous Sol - Studio 57",
+                "hu": "Ecole du Sous Sol - Studio 57",
+                "ro": "Ecole du Sous Sol - Studio 57",
+                "en": "Ecole du Sous Sol - Studio 57"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich am Abend aufzuwärmen und Kultur zu genießen; das Studio ist gut beheizt und bietet eine einladende Winteratmosphäre.",
+                "hu": "Tökéletes helyszín az esti felmelegedéshez és a kultúrához; a stúdió jól fűtött, és barátságos téli hangulattal várja a betérő vendégeket.",
+                "ro": "Locația perfectă pentru a vă încălzi seara și a vă bucura de cultură; studioul este bine încălzit și oferă o atmosferă primitoare de iarnă.",
+                "en": "The perfect location to warm up in the evening and enjoy culture; the studio is well-heated and offers a welcoming winter atmosphere for guests."
+              }
+            }
+          ]
+        }
       }
     }
   }

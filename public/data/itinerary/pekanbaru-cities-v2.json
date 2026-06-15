@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a Tugu Keris emlékműnél, a maláj büszkeség szimbólumánál. A reggeli levegőt követve sétáljon el a Riau Múzeumba, hogy elmerüljön a gazdag történelemben. Délben az út a bájos Monumen Payung felé vezet. Délután csodálja meg a történelmi katonai repülőgépet, majd zárja a napot a zöld Nonblok Ekosistem parkban pihenve.",
         "ro": "Începeți-vă ziua la Tugu Keris, un simbol al mândriei malaieziene. Urmând aerul dimineții, faceți o plimbare până la Muzeul Riau pentru o incursiune istorică. La prânz, drumul vă duce la fermecătorul Monumen Payung. După-amiaza admirați o aeronavă militară istorică. Ziua se încheie cu o relaxare în parcul verde Nonblok Ekosistem.",
         "en": "Start your day at Tugu Keris, a proud symbol of Malay heritage. Following the morning breeze, stroll to the Riau Museum to dive deep into regional history. Midday brings you to the uniquely shaped Monumen Payung. Spend your afternoon marveling at a preserved military aircraft before ending the day relaxing at the green Nonblok Ekosistem."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Tugu Keris mit einem stabilen Regenschirm, da die offenen Flächen wenig Schutz bieten. Mittags bietet das Sang Nila Utama Museum den perfekten, trockenen Zufluchtsort, um die lokale Kultur ohne Nässe zu erkunden. Am Nachmittag sollten Sie die Denkmäler zügig zwischen den Schauern besuchen. Der Tag endet im Nonblok Ekosistem, wo Sie sich im Trockenen entspannen können.",
+            "hu": "Kezdje a napot a Tugu Keris-nél egy masszív esernyővel, mivel a nyitott téren kevés a menedék. Délben a Sang Nila Utama Múzeum tökéletes száraz búvóhelyet nyújt a helyi kultúra felfedezéséhez. Délután a monumentumokat gyorsan, a záporok között érdemes felkeresni, figyelve a csúszós útburkolatra. A napot a Nonblok Ekosistem fedett közösségi terében zárhatja, távol az eső zajától.",
+            "ro": "Începeți ziua la Tugu Keris cu o umbrelă solidă, deoarece spațiile deschise oferă puțin adăpost. La prânz, Muzeul Sang Nila Utama oferă refugiul uscat perfect pentru a explora cultura locală. După-amiaza, vizitați monumentele rapid între averse, fiind atenți la pavajul alunecos. Ziua se încheie la Nonblok Ekosistem, unde vă puteți relaxa într-un mediu acoperit și primitor.",
+            "en": "Start your day at Tugu Keris with a sturdy umbrella, as the open areas offer little shelter. At noon, the Sang Nila Utama Museum provides the perfect dry sanctuary to explore local culture. In the afternoon, visit the monuments quickly between showers, keeping an eye on the slippery pavement. The day ends at Nonblok Ekosistem, where you can relax in a cozy, covered environment."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Keris",
+                "hu": "Tugu Keris",
+                "ro": "Tugu Keris",
+                "en": "Tugu Keris"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die riesige Kris-Skulptur unter dem Schutz Ihres Regenschirms und achten Sie auf Pfützen auf dem Vorplatz.",
+                "hu": "Csodálja meg az óriási Kris szobrot az esernyője alól, és vigyázzon a téren kialakuló mélyebb tócsákra a fotózás közben.",
+                "ro": "Admirați sculptura uriașă Kris de la adăpostul umbrelei și aveți grijă la bălțile care se formează pe platforma monumentului.",
+                "en": "Admire the giant Kris sculpture from the shelter of your umbrella and watch out for deep puddles forming on the monument grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Riau Sang Nila Utama",
+                "hu": "Museum Daerah Riau Sang Nila Utama",
+                "ro": "Museum Daerah Riau Sang Nila Utama",
+                "en": "Museum Daerah Riau Sang Nila Utama"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen großzügigen Innenraum, um die Geschichte von Riau zu studieren, während draußen der tropische Regen niedergeht.",
+                "hu": "Használja ki a tágas belső tereket Riau történelmének tanulmányozására, miközben kint szakad a trópusi eső.",
+                "ro": "Profitați de spațiile interioare generoase pentru a studia istoria regiunii Riau în timp ce afară plouă torențial.",
+                "en": "Take advantage of the spacious interior to study Riau's history while the tropical rain pours down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Payung",
+                "hu": "Monumen Payung",
+                "ro": "Monumen Payung",
+                "en": "Monumen Payung"
+              },
+              "tip_5lang": {
+                "de": "Ironischerweise bietet dieses Schirm-Denkmal wenig echten Regenschutz; machen Sie ein schnelles Foto und suchen Sie das nächste Vordach.",
+                "hu": "Ironikus módon ez az esernyő-emlékmű kevés valódi védelmet nyújt; készítsen egy gyors fotót, majd keressen egy közeli ereszt.",
+                "ro": "În mod ironic, acest monument-umbrelă oferă puțină protecție reală; faceți o fotografie rapidă și căutați următoarea streașină.",
+                "en": "Ironically, this umbrella monument offers little real rain protection; snap a quick photo and seek the nearest shop awning."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pesawat A - 4E Skyhawk",
+                "hu": "Monumen Pesawat A - 4E Skyhawk",
+                "ro": "Monumen Pesawat A - 4E Skyhawk",
+                "en": "Monumen Pesawat A - 4E Skyhawk"
+              },
+              "tip_5lang": {
+                "de": "Der glänzende Rumpf des Flugzeugs sieht im Regen dramatisch aus, aber die Wege dorthin sind bei Nässe sehr rutschig.",
+                "hu": "A repülőgép csillogó törzse drámai látványt nyújt az esőben, de a hozzá vezető utak vizesen rendkívül csúszósak lehetnek.",
+                "ro": "Fuzelajul strălucitor al avionului arată dramatic în ploaie, dar potecile care duc spre el sunt foarte alunecoase când sunt ude.",
+                "en": "The aircraft's shiny fuselage looks dramatic in the rain, but the paths leading to it can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Nonblok Ekosistem",
+                "hu": "Nonblok Ekosistem",
+                "ro": "Nonblok Ekosistem",
+                "en": "Nonblok Ekosistem"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kreative Atmosphäre in diesem überdachten Kulturraum und trocknen Sie Ihre Kleidung bei einem warmen Getränk.",
+                "hu": "Élvezze a kreatív légkört ebben a fedett kulturális térben, és szárítsa meg ruháit egy forró ital társaságában.",
+                "ro": "Bucurați-vă de atmosfera creativă în acest spațiu cultural acoperit și uscați-vă hainele alături de o băutură caldă.",
+                "en": "Enjoy the creative atmosphere in this covered cultural space and dry off your gear while sipping a warm drink."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das milde Morgenlicht am Tugu Keris, bevor die Mittagssonne an Kraft gewinnt. Das Sang Nila Utama Museum bietet eine kühle Erfrischung während der heißesten Stunden. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Denkmäler am frühen Nachmittag besuchen. Der Abend klingt bei angenehmeren Temperaturen im Nonblok Ekosistem stimmungsvoll aus.",
+            "hu": "Használja ki a reggeli enyhébb fényeket a Tugu Keris-nél, mielőtt a nap ereje teljébe érne. A Sang Nila Utama Múzeum hűvös menedéket nyújt a legmelegebb órákban. Mivel a nap már 17:00 körül nyugovóra tér, a délutáni látnivalókat korábban pipálja ki. Az este a Nonblok Ekosistem-nél éri, ahol a korai sötétedés után is pezseg az élet.",
+            "ro": "Profitați de lumina blândă a dimineții la Tugu Keris înainte ca soarele să devină prea puternic. Muzeul Sang Nila Utama oferă un răcoare în orele amiezii. Deoarece soarele apune în jur de ora 17:00, vizitați monumentele mai devreme. Seara se încheie la Nonblok Ekosistem, unde atmosfera rămâne vibrantă chiar și după apusul timpuriu.",
+            "en": "Take advantage of the mild morning light at Tugu Keris before the sun reaches its full strength. The Sang Nila Utama Museum offers cool relief during the midday heat. Since the sun sets around 17:00, finish your outdoor monument visits early. Your evening ends at Nonblok Ekosistem, which stays lively even after the early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Keris",
+                "hu": "Tugu Keris",
+                "ro": "Tugu Keris",
+                "en": "Tugu Keris"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Morgenlicht dieser Jahreszeit eignet sich hervorragend für Fotos ohne die harten Schatten der starken Mittagssonne.",
+                "hu": "Az évszak lágy reggeli fényei kiválóak a fotózáshoz, elkerülve az erős déli napsütés zavaró árnyékait.",
+                "ro": "Lumina blândă a dimineții din acest sezon este excelentă pentru fotografii, evitând umbrele dure ale soarelui puternic.",
+                "en": "The soft morning light of this season is excellent for photography, avoiding the harsh shadows of the strong midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Riau Sang Nila Utama",
+                "hu": "Museum Daerah Riau Sang Nila Utama",
+                "ro": "Museum Daerah Riau Sang Nila Utama",
+                "en": "Museum Daerah Riau Sang Nila Utama"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die heiße Mittagszeit in den klimatisierten Hallen und erkunden Sie die prächtigen traditionellen Gewänder der Region.",
+                "hu": "Töltse a forró déli órákat a klimatizált termekben, felfedezve a régió pazar tradicionális viseleteit és ereklyéit.",
+                "ro": "Petreceți orele fierbinți de la prânz în sălile climatizate, explorând costumele tradiționale somptuoase ale regiunii.",
+                "en": "Spend the hot midday hours in the air-conditioned halls, exploring the region's magnificent traditional costumes and relics."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Payung",
+                "hu": "Monumen Payung",
+                "ro": "Monumen Payung",
+                "en": "Monumen Payung"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier am frühen Nachmittag Schatten und bewundern Sie die architektonische Symbolik dieses einzigartigen Wahrzeichens.",
+                "hu": "Keressen itt árnyékot a kora délutáni órákban, és csodálja meg e különleges jelkép építészeti szimbolikáját.",
+                "ro": "Căutați umbră aici la începutul după-amiezii și admirați simbolismul arhitectural al acestui punct de reper unic.",
+                "en": "Seek shade here in the early afternoon and admire the architectural symbolism of this unique landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pesawat A - 4E Skyhawk",
+                "hu": "Monumen Pesawat A - 4E Skyhawk",
+                "ro": "Monumen Pesawat A - 4E Skyhawk",
+                "en": "Monumen Pesawat A - 4E Skyhawk"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Flugzeug vor 16:30 Uhr, um das goldene Licht kurz vor dem frühen Sonnenuntergang für perfekte Aufnahmen zu nutzen.",
+                "hu": "Látogassa meg a repülőt 16:30 előtt, hogy kihasználja a korai naplemente előtti aranyórákat a tökéletes felvételekhez.",
+                "ro": "Vizitați avionul înainte de ora 16:30 pentru a profita de ora de aur dinaintea apusului timpuriu pentru cadre perfecte.",
+                "en": "Visit the aircraft before 16:30 to catch the golden hour light just before the early sunset for perfect shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Nonblok Ekosistem",
+                "hu": "Nonblok Ekosistem",
+                "ro": "Nonblok Ekosistem",
+                "en": "Nonblok Ekosistem"
+              },
+              "tip_5lang": {
+                "de": "Wenn die Dunkelheit früh hereinbricht, leuchtet dieser Ort auf und bietet eine warme, einladende Umgebung für den Abend.",
+                "hu": "Ahogy korán leszáll az éj, ez a hely kigyúló fényeivel meleg és hívogató környezetet kínál az esti kikapcsolódáshoz.",
+                "ro": "Pe măsură ce întunericul se lasă devreme, acest loc se luminează și oferă un mediu cald și primitor pentru seară.",
+                "en": "As darkness falls early, this place lights up and offers a warm, inviting environment for your evening relaxation."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon a központi Tugu Keris emlékműtől a lenyűgöző Riau Múzeumig. Egy adag történelem után tekerjen a Riau Abdurrab Malay Heritage felé. Délben fedezze fel a helyi művészeteket a Riau Creative Hubban. Délután guruljon a Monumen Pesawat repülőgéphez. A napot a békés Nonblok Ekosistem zárja a gyönyörű alkonyati fényekben.",
         "ro": "Porniți de la Tugu Keris către fascinantul Muzeu Riau. După o doză de istorie, pedalați către Riau Abdurrab Malay Heritage. La prânz, explorați arta locală din Riau Creative Hub. După-amiaza, plimbați-vă până la monumentul aviatic Pesawat. Ziua se încheie perfect la Nonblok Ekosistem în lumina liniștită a amurgului.",
         "en": "Cycle from the iconic Tugu Keris monument to the fascinating Riau Museum. After absorbing some history, ride out to the Riau Abdurrab Malay Heritage. Midday is perfect for exploring local art at the Riau Creative Hub. In the afternoon, pedal down to the historic aircraft monument before enjoying a peaceful twilight at Nonblok Ekosistem."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert wasserfeste Kleidung und Vorsicht bei nassen Straßen. Starten Sie vorsichtig am Tugu Keris und steuern Sie das Museum als trockenen Zwischenstopp an. Das Malay Heritage und das Creative Hub bieten am Nachmittag ideale Rückzugsorte vor starken Güssen. Beenden Sie die Tour am Abend im Nonblok Ekosistem, wo Sie Ihr Rad sicher und trocken abstellen können.",
+            "hu": "A kerékpározás esőben vízálló öltözetet és fokozott figyelmet igényel a csúszós utakon. Kezdjen óvatosan a Tugu Kerisnél, majd vegye az irányt a múzeum felé. A Malay Heritage és a Creative Hub délután ideális menedéket nyújt a záporok elől. A túrát a Nonblok Ekosistemnél zárja, ahol biztonságos és fedett helyen parkolhat le.",
+            "ro": "Ciclismul pe ploaie necesită echipament impermeabil și atenție sporită pe drumurile ude. Începeți cu grijă la Tugu Keris, apoi îndreptați-vă spre muzeu. Malay Heritage și Creative Hub oferă adăpost ideal după-amiaza în fața averselor. Încheiați turul la Nonblok Ekosistem, unde puteți parca bicicleta într-un loc sigur și acoperit.",
+            "en": "Cycling in the rain requires waterproof gear and extra caution on wet roads. Start carefully at Tugu Keris and head toward the museum for a dry break. The Malay Heritage and Creative Hub offer ideal afternoon shelter from heavy showers. End your ride at Nonblok Ekosistem, where you can park your bike in a secure and covered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Keris",
+                "hu": "Tugu Keris",
+                "ro": "Tugu Keris",
+                "en": "Tugu Keris"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen die Fahrbahnmarkierungen um das Denkmal, da diese bei Regen extrem rutschig für Fahrradreifen werden.",
+                "hu": "Fékezéskor kerülje az emlékmű körüli felfestéseket, mert az esőben ezek rendkívül csúszóssá válnak a kerékpárgumik számára.",
+                "ro": "Evitați marcajele rutiere din jurul monumentului când frânați, deoarece devin extrem de alunecoase pentru anvelopele de bicicletă pe ploaie.",
+                "en": "Avoid road markings around the monument when braking, as they become extremely slippery for bike tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Riau Sang Nila Utama",
+                "hu": "Museum Daerah Riau Sang Nila Utama",
+                "ro": "Museum Daerah Riau Sang Nila Utama",
+                "en": "Museum Daerah Riau Sang Nila Utama"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer am Eingang und gönnen Sie sich eine lange Pause, um den stärksten Regen abzuwarten.",
+                "hu": "Használja a bejáratnál található fedett kerékpártárolót, és tartson egy hosszabb szünetet, hogy megvárja a nagyobb eső végét.",
+                "ro": "Folosiți suportul de biciclete acoperit de la intrare și luați o pauză lungă pentru a lăsa să treacă cea mai grea parte a ploii.",
+                "en": "Use the covered bike rack at the entrance and take a long break to wait out the heaviest part of the rain inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Riau Abdurrab Malay Heritage",
+                "hu": "Riau Abdurrab Malay Heritage",
+                "ro": "Riau Abdurrab Malay Heritage",
+                "en": "Riau Abdurrab Malay Heritage"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum bietet hervorragenden Schutz; prüfen Sie hier Ihren Reifendruck, falls Sie durch tiefe Pfützen gefahren sind.",
+                "hu": "Ez a múzeum kiváló védelmet nyújt; ellenőrizze itt a guminyomást, ha korábban mélyebb tócsákon kellett áthajtania.",
+                "ro": "Acest muzeu oferă o protecție excelentă; verificați presiunea în anvelope aici dacă ați trecut prin bălți adânci anterior.",
+                "en": "This museum offers excellent shelter; check your tire pressure here if you had to ride through deep puddles earlier."
+              }
+            },
+            {
+              "name": {
+                "de": "Riau Creative Hub",
+                "hu": "Riau Creative Hub",
+                "ro": "Riau Creative Hub",
+                "en": "Riau Creative Hub"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Stopp mit WLAN und Kaffee; ideal, um die Regenradar-App zu checken und die restliche Route zu planen.",
+                "hu": "Modern megálló wifivel és kávéval; ideális az esőradar csekkolására és a hátralévő útvonal újratervezésére.",
+                "ro": "O oprire modernă cu Wi-Fi și cafea; ideală pentru a verifica radarul de ploaie și pentru a replanifica restul traseului.",
+                "en": "A modern stop with Wi-Fi and coffee; ideal for checking the rain radar and replanning the rest of your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pesawat A - 4E Skyhawk",
+                "hu": "Monumen Pesawat A - 4E Skyhawk",
+                "ro": "Monumen Pesawat A - 4E Skyhawk",
+                "en": "Monumen Pesawat A - 4E Skyhawk"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad schnell unter einem Baum für ein Foto vom Flugzeug, bevor der nächste Schauer einsetzt.",
+                "hu": "Parkolja le gyorsan a biciklit egy fa alatt, amíg elkészíti a fotót a repülőről, mielőtt a következő zápor megérkezik.",
+                "ro": "Parcați rapid bicicleta sub un copac pentru o fotografie cu avionul înainte ca următoarea aversă să înceapă.",
+                "en": "Quickly park your bike under a tree for a photo of the aircraft before the next shower starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Nonblok Ekosistem",
+                "hu": "Nonblok Ekosistem",
+                "ro": "Nonblok Ekosistem",
+                "en": "Nonblok Ekosistem"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihr Fahrrad nach der Tour kurz trocken und genießen Sie den entspannten Ausklang in dieser wetterfesten Location.",
+                "hu": "A túra után törölje szárazra a kerékpárt, és élvezze a lazítást ebben az időjárásálló közösségi központban.",
+                "ro": "Ștergeți bicicleta după tur și bucurați-vă de relaxare în acest centru comunitar rezistent la intemperii.",
+                "en": "Wipe down your bike after the tour and enjoy winding down in this weather-proof community hub."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die kühle Brise bei Ihrer morgendlichen Fahrt zum Tugu Keris. Mittags bieten die Museen eine willkommene Pause von der intensiven Strahlung. Planen Sie Ihre Route so, dass Sie die Denkmäler vor 16:30 Uhr erreichen, da das Licht schnell schwindet. Die Tour endet pünktlich zum frühen Sonnenuntergang im Nonblok Ekosistem, wenn die Stadtlichter erwachen.",
+            "hu": "Élvezze a hűsítő fuvallatot a reggeli tekerés közben a Tugu Keris felé. Délben a múzeumok kínálnak üdítő pihenőt az erős napsugárzás elől. Tervezze úgy az utat, hogy 16:30 előtt elérje a látnivalókat, mert a fény gyorsan fogyatkozik. A túra pont a korai naplementére ér véget a Nonblok Ekosistembnél.",
+            "ro": "Bucurați-vă de briza răcoroasă în timpul plimbării de dimineață spre Tugu Keris. La prânz, muzeele oferă o pauză binemeritată de soarele puternic. Planificați traseul astfel încât să ajungeți la obiective înainte de 16:30, deoarece lumina scade rapid. Turul se încheie exact la apusul timpuriu la Nonblok Ekosistem.",
+            "en": "Enjoy the cooling breeze during your morning ride toward Tugu Keris. At noon, the museums offer a refreshing break from the strong sun. Plan your route to reach the sights before 16:30, as the light fades quickly. The tour ends just in time for the early sunset at Nonblok Ekosistem."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tugu Keris",
+                "hu": "Tugu Keris",
+                "ro": "Tugu Keris",
+                "en": "Tugu Keris"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Morgentemperaturen machen das Radfahren hier sehr angenehm; perfekt für ein ausgiebiges Fotoshooting am Denkmal.",
+                "hu": "A hűvösebb reggeli hőmérséklet nagyon kellemessé teszi itt a biciklizést; tökéletes időpont egy hosszabb fotózáshoz az emlékműnél.",
+                "ro": "Temperaturile mai scăzute de dimineață fac ciclismul aici foarte plăcut; momentul perfect pentru o sesiune foto lungă la monument.",
+                "en": "The cooler morning temperatures make cycling here very pleasant; it's the perfect time for an extended photo session at the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Riau Sang Nila Utama",
+                "hu": "Museum Daerah Riau Sang Nila Utama",
+                "ro": "Museum Daerah Riau Sang Nila Utama",
+                "en": "Museum Daerah Riau Sang Nila Utama"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Schatten und kühlen Sie sich drinnen ab, während Sie die beeindruckenden Exponate der Riau-Kultur bewundern.",
+                "hu": "Parkolja a biciklit árnyékba, és hűsöljön bent, miközben Riau kultúrájának lenyűgöző kiállítási tárgyait csodálja.",
+                "ro": "Parcați bicicleta la umbră și răcoriți-vă în interior în timp ce admirați exponatele impresionante ale culturii Riau.",
+                "en": "Park your bike in the shade and cool off inside while admiring the impressive exhibits of Riau culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Riau Abdurrab Malay Heritage",
+                "hu": "Riau Abdurrab Malay Heritage",
+                "ro": "Riau Abdurrab Malay Heritage",
+                "en": "Riau Abdurrab Malay Heritage"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer großartiger Ort für eine Pause; füllen Sie hier Ihre Wasserflaschen auf, bevor es weiter durch die Stadt geht.",
+                "hu": "Egy újabb nagyszerű hely a pihenésre; töltse fel itt a vizespalackokat, mielőtt továbbtekerne a városon keresztül.",
+                "ro": "Un alt loc minunat pentru o pauză; umpleți sticlele cu apă aici înainte de a pedala mai departe prin oraș.",
+                "en": "Another great place for a break; refill your water bottles here before cycling further through the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Riau Creative Hub",
+                "hu": "Riau Creative Hub",
+                "ro": "Riau Creative Hub",
+                "en": "Riau Creative Hub"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittagsschatten dieses modernen Gebäudes für eine kurze Rast und laden Sie Ihre Geräte für den Abend auf.",
+                "hu": "Használja ki a modern épület délutáni árnyékát egy rövid pihenőre, és töltse fel eszközeit az esti szakaszra.",
+                "ro": "Profitate de umbra de după-amiază a acestei clădiri moderne pentru o scurtă odihnă și încărcați-vă dispozitivele pentru seară.",
+                "en": "Take advantage of the modern building's afternoon shade for a short rest and charge your devices for the evening stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen Pesawat A - 4E Skyhawk",
+                "hu": "Monumen Pesawat A - 4E Skyhawk",
+                "ro": "Monumen Pesawat A - 4E Skyhawk",
+                "en": "Monumen Pesawat A - 4E Skyhawk"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie unbedingt Ihre Fahrradbeleuchtung ein, da die Sicht bei der frühen Dämmerung um 17:00 Uhr rapide abnimmt.",
+                "hu": "Mindenképpen kapcsolja be a kerékpár lámpáit, mivel a látási viszonyok a korai, 17:00 körüli szürkületben gyorsan romlanak.",
+                "ro": "Asigurați-vă că aprindeți luminile bicicletei, deoarece vizibilitatea scade rapid în amurgul timpuriu de la ora 17:00.",
+                "en": "Make sure to turn on your bike lights, as visibility drops rapidly during the early dusk around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Nonblok Ekosistem",
+                "hu": "Nonblok Ekosistem",
+                "ro": "Nonblok Ekosistem",
+                "en": "Nonblok Ekosistem"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier in der gemütlichen Atmosphäre und genießen Sie die kühleren Abendstunden nach der Radtour.",
+                "hu": "Zárja itt a napot a hangulatos légkörben, és élvezze a túra utáni hűvösebb esti órákat ebben a közösségi térben.",
+                "ro": "Încheiați ziua aici în atmosfera primitoare și bucurați-vă de orele mai răcoroase de seară după plimbarea cu bicicleta.",
+                "en": "End your day here in the cozy atmosphere and enjoy the cooler evening hours after your bike tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós túrája a RUMAH MOMON SEKELUARGA épületénél kezdődik. Utazzon kényelmesen a Tugu Kerishez és a Riau Múzeumhoz. Délután merüljön el a hagyományokban a Riau Abdurrab Heritage területén. Ezután a feltűnő Bundaran Tiang mellett elhaladva elérheti az elefántszobrokat. Az este a KUA Air Dingin gazdag történelemével zárul nyugodtan.",
         "ro": "Turul auto începe cu o vizită la RUMAH MOMON SEKELUARGA. Conduceți confortabil către Tugu Keris și Muzeul Riau. După-amiaza, descoperiți tradițiile la Riau Abdurrab Malay Heritage. Treceți apoi de impresionantul Bundaran Tiang pentru a vedea statuile elefanților. Seara se încheie profund istoric la muzeul KUA Air Dingin.",
         "en": "Your driving tour starts with a visit to RUMAH MOMON SEKELUARGA. Drive comfortably to the iconic Tugu Keris and the comprehensive Riau Museum. Spend the afternoon exploring deep traditions at the Riau Abdurrab Heritage. Later, navigate past the towering Bundaran Tiang to reach the elephant statues, concluding your historical day at KUA Air Dingin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr bester Freund gegen den Regen. Starten Sie entspannt bei Rumah Momon und genießen Sie die trockene Fahrt zwischen den Sehenswürdigkeiten. Museen bieten stundenlangen Schutz, während Sie draußen dem Prasseln zuschauen können. Abends ist die Fahrt zum KUA Air Dingin im Wagen am sichersten, da die Straßen oft unter Wasser stehen.",
+            "hu": "Az autó ma a legjobb barátja az eső elleni küzdelemben. Kezdjen kényelmesen a Rumah Momonnál, és élvezze a száraz utazást a látnivalók között. A múzeumok órákig tartó védelmet nyújtanak. Este a KUA Air Dingin felé vezető út autóval a legbiztonságosabb, mivel az utak ilyenkor gyakran víz alá kerülnek.",
+            "ro": "Mașina este astăzi cel mai bun prieten împotriva ploii. Începeți relaxat la Rumah Momon și bucurați-vă de călătoria uscată între obiective. Muzeele oferă protecție timp de ore întregi. Seara, drumul spre KUA Air Dingin este cel mai sigur cu mașina, deoarece drumurile sunt adesea inundate.",
+            "en": "The car is your best friend against the rain today. Start comfortably at Rumah Momon and enjoy the dry ride between sights. Museums offer hours of protection while you watch the rain fall outside. In the evening, the drive to KUA Air Dingin is safest by car, as roads often flood during heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "RUMAH MOMON SEKELUARGA",
+                "hu": "RUMAH MOMON SEKELUARGA",
+                "ro": "RUMAH MOMON SEKELUARGA",
+                "en": "RUMAH MOMON SEKELUARGA"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden, und genießen Sie die familiäre Atmosphäre drinnen.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az elázást, és élvezze a barátságos, családi hangulatot odabent.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia și bucurați-vă de atmosfera primitoare de familie din interior.",
+                "en": "Park as close to the entrance as possible to avoid getting wet and enjoy the friendly, family atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Keris",
+                "hu": "Tugu Keris",
+                "ro": "Tugu Keris",
+                "en": "Tugu Keris"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal aus dem Auto heraus, wenn der Regen zu stark ist; die monumentale Form ist auch so beeindruckend.",
+                "hu": "Csodálja meg az emlékművet az autóból, ha túl erősen esne; a monumentális forma így is lenyűgöző látványt nyújt.",
+                "ro": "Admirați monumentul din mașină dacă plouă prea tare; forma monumentală este impresionantă chiar și de la distanță.",
+                "en": "Admire the monument from your car if the rain is too heavy; the monumental shape is impressive even from a distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Riau Sang Nila Utama",
+                "hu": "Museum Daerah Riau Sang Nila Utama",
+                "ro": "Museum Daerah Riau Sang Nila Utama",
+                "en": "Museum Daerah Riau Sang Nila Utama"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz; das Museum ist der ideale Ort, um die regenreichste Zeit des Tages im Trockenen zu verbringen.",
+                "hu": "Használja a tágas parkolót; a múzeum ideális helyszín ahhoz, hogy a nap legesősebb részét szárazon vészelje át.",
+                "ro": "Folosiți parcarea spațioasă; muzeul este locul ideal pentru a petrece cea mai ploioasă parte a zilei la adăpost.",
+                "en": "Use the spacious parking lot; the museum is the ideal place to spend the rainiest part of the day staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Riau Abdurrab Malay Heritage",
+                "hu": "Riau Abdurrab Malay Heritage",
+                "ro": "Riau Abdurrab Malay Heritage",
+                "en": "Riau Abdurrab Malay Heritage"
+              },
+              "tip_5lang": {
+                "de": "Ein weiteres Indoor-Highlight; prüfen Sie die Wetter-App für das nächste Zeitfenster mit weniger Regen für die Weiterfahrt.",
+                "hu": "Egy újabb beltéri fénypont; csekkolja az időjárás-appot a következő csapadékmentesebb ablakért a továbbinduláshoz.",
+                "ro": "Un alt punct de atracție interior; verificați aplicația meteo pentru următoarea fereastră fără ploaie înainte de a pleca.",
+                "en": "Another indoor highlight; check the weather app for the next rain-free window before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Bundaran Tiang",
+                "hu": "Bundaran Tiang",
+                "ro": "Bundaran Tiang",
+                "en": "Bundaran Tiang"
+              },
+              "tip_5lang": {
+                "de": "Der Kreisverkehr kann bei Regen unübersichtlich sein; fahren Sie besonders vorsichtig und achten Sie auf Motorradfahrer.",
+                "hu": "A körforgalom esőben beláthatatlanabb lehet; vezessen különös óvatossággal, és figyeljen a hirtelen felbukkanó motorosokra.",
+                "ro": "Sensul giratoriu poate fi mai puțin vizibil pe ploaie; conduceți cu prudență sporită și atenție la motocicliști.",
+                "en": "The roundabout can be less visible in the rain; drive with extra caution and watch out for motorcyclists popping up."
+              }
+            },
+            {
+              "name": {
+                "de": "Patung Dua Gajah",
+                "hu": "Patung Dua Gajah",
+                "ro": "Patung Dua Gajah",
+                "en": "Patung Dua Gajah"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; lassen Sie den Motor laufen und die Scheibenwischer auf höchster Stufe für klare Sicht.",
+                "hu": "Gyors fotómegálló; hagyja járni a motort és állítsa az ablaktörlőt maximális sebességre a tiszta kilátás érdekében.",
+                "ro": "O oprire rapidă pentru poze; lăsați motorul pornit și reglați ștergătoarele la viteză maximă pentru o vizibilitate clară.",
+                "en": "A quick photo stop; keep the engine running and set the wipers to maximum speed for a clear view of the elephants."
+              }
+            },
+            {
+              "name": {
+                "de": "KUA Air Dingin",
+                "hu": "KUA Air Dingin",
+                "ro": "KUA Air Dingin",
+                "en": "KUA Air Dingin"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier sicher im Trockenen; die Scheinwerfer helfen Ihnen, tiefe Wasseransammlungen auf der Straße zu erkennen.",
+                "hu": "Zárja itt a napot biztonságban és szárazon; a fényszórók segítenek időben észrevenni az úton lévő mélyebb vízátfolyásokat.",
+                "ro": "Încheiați ziua aici în siguranță și la uscat; farurile vă vor ajuta să observați la timp bălțile adânci de pe carosabil.",
+                "en": "End your day here safely and dry; your headlights will help you spot deep water patches on the road in time."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die komfortable Fahrt mit der Klimaanlage, während Sie die winterlichen Lichtverhältnisse bewundern. Vormittags ist das Licht am Tugu Keris ideal für Fotos. Planen Sie die Museumsbesuche um die Mittagszeit. Da es bereits gegen 17:00 Uhr dämmert, sollten Sie die Außenstopps am frühen Nachmittag abschließen. Der Tag endet gemütlich am KUA Air Dingin.",
+            "hu": "Élvezze a kényelmes utazást a légkondicionált autóban, miközben megcsodálja a téli fényviszonyokat. Délelőtt a Tugu Keris-nél a legszebbek a fények. A múzeumlátogatásokat időzítse délre. Mivel 17:00 körül már sötétedik, a kültéri megállókat tudja le kora délután. A napot a KUA Air Dinginnél zárhatja egy kellemes környezetben.",
+            "ro": "Bucurați-vă de călătoria confortabilă în mașina climatizată în timp ce admirați lumina de iarnă. Dimineața, lumina la Tugu Keris este ideală pentru poze. Programați vizitele la muzee la prânz. Deoarece se întunecă în jur de ora 17:00, terminați opririle exterioare devreme. Ziua se încheie plăcut la KUA Air Dingin.",
+            "en": "Enjoy the comfortable ride in your air-conditioned car while admiring the winter light. In the morning, the lighting at Tugu Keris is ideal for photos. Schedule your museum visits for midday. Since it gets dark around 17:00, finish your outdoor stops in the early afternoon. The day ends pleasantly at KUA Air Dingin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "RUMAH MOMON SEKELUARGA",
+                "hu": "RUMAH MOMON SEKELUARGA",
+                "ro": "RUMAH MOMON SEKELUARGA",
+                "en": "RUMAH MOMON SEKELUARGA"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den Tag in dieser herzlichen Umgebung; das sanfte Morgenlicht sorgt für eine besonders einladende Atmosphäre.",
+                "hu": "Kezdje a napot ebben a szívélyes környezetben; a lágy reggeli fények különösen hívogató hangulatot árasztanak.",
+                "ro": "Începeți ziua în acest cadru călduros; lumina blândă a dimineții creează o atmosferă deosebit de primitoare.",
+                "en": "Start your day in this warm environment; the soft morning light creates a particularly inviting atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Keris",
+                "hu": "Tugu Keris",
+                "ro": "Tugu Keris",
+                "en": "Tugu Keris"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühleren Morgen für einen Spaziergang um das Denkmal, bevor Sie die Fahrt im klimatisierten Wagen fortsetzen.",
+                "hu": "Használja ki a hűvösebb reggelt egy rövid sétára az emlékmű körül, mielőtt folytatná az utat a klimatizált autóban.",
+                "ro": "Profitate de dimineața mai răcoroasă pentru o scurtă plimbare în jurul monumentului înainte de a pleca mai departe cu mașina.",
+                "en": "Take advantage of the cooler morning for a short walk around the monument before continuing your drive in the air-conditioned car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Daerah Riau Sang Nila Utama",
+                "hu": "Museum Daerah Riau Sang Nila Utama",
+                "ro": "Museum Daerah Riau Sang Nila Utama",
+                "en": "Museum Daerah Riau Sang Nila Utama"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten der Bäume auf dem Gelände und nehmen Sie sich Zeit für die beeindruckenden kulturellen Schätze von Riau.",
+                "hu": "Parkoljon a fák árnyékában a múzeum területén, és szánjon időt Riau lenyűgöző kulturális kincseinek felfedezésére.",
+                "ro": "Parcați la umbra copacilor din incinta muzeului și acordați-vă timp pentru a explora comorile culturale impresionante din Riau.",
+                "en": "Park in the shade of the trees on the museum grounds and take your time exploring the impressive cultural treasures of Riau."
+              }
+            },
+            {
+              "name": {
+                "de": "Riau Abdurrab Malay Heritage",
+                "hu": "Riau Abdurrab Malay Heritage",
+                "ro": "Riau Abdurrab Malay Heritage",
+                "en": "Riau Abdurrab Malay Heritage"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp während der Mittagshitze; genießen Sie die Ruhe und die kühle Luft in diesem geschichtsträchtigen Haus.",
+                "hu": "Tökéletes megálló a déli hőségben; élvezze a nyugalmat és a hűvös levegőt ebben a történelemmel átitatott házban.",
+                "ro": "O oprire perfectă în timpul căldurii de la prânz; bucurați-vă de liniște și de aerul răcoros în această casă plină de istorie.",
+                "en": "A perfect stop during the midday heat; enjoy the tranquility and cool air in this history-filled heritage house."
+              }
+            },
+            {
+              "name": {
+                "de": "Bundaran Tiang",
+                "hu": "Bundaran Tiang",
+                "ro": "Bundaran Tiang",
+                "en": "Bundaran Tiang"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den Berufsverkehr am Nachmittag, der hier zunehmen kann, während die Sonne langsam tiefer sinkt.",
+                "hu": "Figyeljen a délutáni csúcsforgalomra, amely itt felerősödhet, miközben a nap lassan egyre lejjebb ereszkedik az égen.",
+                "ro": "Atenție la traficul de vârf de după-amiază care se poate intensifica aici, în timp ce soarele coboară treptat pe cer.",
+                "en": "Watch out for the afternoon rush hour traffic which can increase here as the sun slowly starts to set lower in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Patung Dua Gajah",
+                "hu": "Patung Dua Gajah",
+                "ro": "Patung Dua Gajah",
+                "en": "Patung Dua Gajah"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Elefantenstatuen kurz vor 17:00 Uhr, um das warme Licht des Sonnenuntergangs für Ihre Fotos einzufangen.",
+                "hu": "Látogassa meg az elefántszobrokat közvetlenül 17:00 előtt, hogy elkapja a naplemente meleg fényeit a fényképeihez.",
+                "ro": "Vizitați statuile elefanților chiar înainte de ora 17:00 pentru a surprinde lumina caldă a apusului în fotografiile voastre.",
+                "en": "Visit the elephant statues just before 17:00 to catch the warm sunset glow for your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "KUA Air Dingin",
+                "hu": "KUA Air Dingin",
+                "ro": "KUA Air Dingin",
+                "en": "KUA Air Dingin"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag hier ausklingen; die frühe Dunkelheit verleiht diesem Ort eine ganz eigene, ruhige Atmosphäre.",
+                "hu": "Zárja itt a napot; a korai sötétedés egészen különleges és nyugodt hangulatot kölcsönöz ennek a helyszínnek.",
+                "ro": "Încheiați ziua aici; întunericul timpuriu oferă acestui loc o atmosferă cu totul specială și liniștită.",
+                "en": "End your day here; the early darkness gives this place a very special and peaceful atmosphere of its own."
+              }
+            }
+          ]
+        }
       }
     }
   }

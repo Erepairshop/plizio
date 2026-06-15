@@ -160,6 +160,196 @@
         "hu": "Kezdje a sétát a gyönyörű Chapelle Saints-Pierre-et-Paul kápolnánál. Egy rövid séta elvezeti a festői Notre-Dame des 7 Douleurs természeti szépségeihez. Délben merüljön el a Sainte-Lucie kápolna nyugalmában, majd látogasson el a titkokat rejtő Guy Savelli Magánmúzeumba. Délután a Musée du Trésor Cubaru várja Önt, ahol felfedezheti a régió lenyűgöző vallási és történelmi kincseit. Fejezze be a tökéletes napot a Castel de Guido de Sabellis történelmi romjainál, ahonnan csodálatos kilátás nyílik a naplementében.",
         "ro": "Începeți turul pietonal la frumoasa capelă Saints-Pierre-et-Paul. O scurtă plimbare vă aduce apoi la pitorescul loc natural Notre-Dame des 7 Douleurs. La prânz, scufundați-vă în cultura locală la Sainte-Lucie și vizitați Muzeul Privat Guy Savelli, plin de secrete. După-amiaza vă așteaptă Muzeul Tezaurului Cubaru, care găzduiește artă religioasă și o istorie corsicană bogată. Încheiați ziua perfectă la istoricul Castel de Guido de Sabellis, explorând ruinele medievale la lumina magică a apusului.",
         "en": "Begin your walking tour at the beautiful Chapelle Saints-Pierre-et-Paul. A short stroll then takes you to the scenic natural site of Notre-Dame des 7 Douleurs. By midday, immerse yourself in the serene Chapelle Sainte-Lucie before visiting the Musée privé de Guy Savelli, a place full of local secrets. In the afternoon, the Musée du Trésor Cubaru awaits you with religious art and rich Corsican heritage. End the perfect day at the historic Castel de Guido de Sabellis, exploring the medieval ruins as the sun sets over the landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in den historischen Kapellen, wo die dicken Mauern den Regen draußen halten. Mittags sind die steinernen Gassen rutschig, daher ist festes Schuhwerk ratsam. Der Nachmittag gehört den Museen, die ein trockenes und kulturell reiches Refugium bieten. Am Abend sorgen die Spiegelungen auf dem nassen Pflaster für eine fast mystische Atmosphäre im Dorf.",
+            "hu": "A reggelt a történelmi kápolnák védelmében kezdjük, ahol a vaskos falak kizárják az eső kopogását. Délben a köves utcák csúszóssá válhatnak, ezért óvatosan haladjunk a múzeumok felé. A délutáni órákban a belső tárlatok kínálnak száraz és tartalmas menedéket. Estére a vizes aszfalton megcsillanó fények különleges, misztikus hangulatot kölcsönöznek az ódon falunak.",
+            "ro": "Dimineața începe la adăpostul capelelor istorice, unde zidurile groase țin ploaia la distanță. La prânz, străzile pietruite pot deveni alunecoase, deci se recomandă încălțăminte aderentă. După-amiaza este dedicată muzeelor, care oferă un refugiu uscat și bogat cultural. Seara, reflexiile luminii pe pavajul umed creează o atmosferă aproape mistică în sat.",
+            "en": "The morning begins sheltered within historical chapels, where thick walls keep the rain at bay. At noon, the stone alleys can become slippery, so sturdy footwear is advised. The afternoon is dedicated to museums, providing a dry and culturally rich sanctuary. In the evening, reflections on the wet pavement create an almost mystical atmosphere throughout the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saints-Pierre-et-Paul",
+                "hu": "Chapelle Saints-Pierre-et-Paul",
+                "ro": "Chapelle Saints-Pierre-et-Paul",
+                "en": "Chapelle Saints-Pierre-et-Paul"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanische Architektur im Trockenen; achten Sie beim Betreten auf die glatten Steinstufen, die bei Regen sehr rutschig sein können.",
+                "hu": "Csodálja meg a román stílusú építészetet a száraz belső térben; belépéskor ügyeljen a kőlépcsőkre, amelyek az esőtől rendkívül csúszóssá válnak.",
+                "ro": "Admirați arhitectura romanică în interiorul uscat; aveți grijă la intrare pe treptele de piatră, care pot fi foarte alunecoase din cauza ploii.",
+                "en": "Admire the Romanesque architecture in the dry interior; be careful when entering as the stone steps can become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den dichten Baumbestand auf dem Weg als natürlichen Schirm und genießen Sie die dramatische Aussicht auf die regenverhangenen Berge.",
+                "hu": "Használja a sűrű lombozatot természetes esernyőként az úton, és élvezze a drámai kilátást az esőfelhőkbe burkolózó hegycsúcsokra.",
+                "ro": "Folosiți copacii de pe drum ca umbrelă naturală și bucurați-vă de vederea dramatică asupra munților învăluiți în nori de ploaie.",
+                "en": "Use the dense foliage along the path as a natural umbrella and enjoy the dramatic views of the mountains shrouded in rain clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Lucie",
+                "hu": "Chapelle Sainte-Lucie",
+                "ro": "Chapelle Sainte-Lucie",
+                "en": "Chapelle Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für eine kurze Rast im Trockenen; die schlichte Innenausstattung wirkt bei prasselndem Regen draußen besonders beruhigend.",
+                "hu": "Tökéletes helyszín egy rövid, száraz pihenőhöz; a belső tér egyszerűsége a kinti eső kopogása mellett különösen megnyugtató élmény.",
+                "ro": "Un loc perfect pentru un scurt popas la uscat; simplitatea interiorului este deosebit de liniștitoare în timp ce ploaia bate afară.",
+                "en": "A perfect spot for a short, dry break; the simplicity of the interior is particularly soothing while the rain patters outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée privé de Guy Savelli",
+                "hu": "Musée privé de Guy Savelli",
+                "ro": "Musée privé de Guy Savelli",
+                "en": "Musée privé de Guy Savelli"
+              },
+              "tip_5lang": {
+                "de": "Dieses private Museum ist das ideale Ziel bei Regen; vertiefen Sie sich in die korsische Geschichte, während es draußen ununterbrochen gießt.",
+                "hu": "Ez a magánmúzeum ideális célpont esőben; merüljön el a korzikai történelemben, miközben odakint rendületlenül esik az eső.",
+                "ro": "Acest muzeu privat este destinația ideală pe ploaie; aprofundați istoria corsicană în timp ce afară plouă torențial.",
+                "en": "This private museum is the ideal destination in the rain; immerse yourself in Corsican history while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Trésor Cubaru",
+                "hu": "Musée du Trésor Cubaru",
+                "ro": "Musée du Trésor Cubaru",
+                "en": "Musée du Trésor Cubaru"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die wertvollen Exponate in den geschützten Ausstellungsräumen und nutzen Sie die Zeit für eine ausführliche Besichtigung ohne Nässe.",
+                "hu": "Fedezze fel az értékes kiállítási tárgyakat a védett termekben, kihasználva az időt egy alapos, ázásmentes tárlatvezetésre.",
+                "ro": "Explorați exponatele prețioase în sălile protejate, profitând de timp pentru o vizită detaliată fără a vă uda.",
+                "en": "Explore the precious exhibits in the protected halls, taking advantage of the time for a thorough, dry visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel de Guido de Sabellis",
+                "hu": "Castel de Guido de Sabellis",
+                "ro": "Castel de Guido de Sabellis",
+                "en": "Castel de Guido de Sabellis"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern bieten soliden Schutz; suchen Sie sich ein trockenes Plätzchen, um die regenfrische Luft und die Aussicht zu genießen.",
+                "hu": "A történelmi falak stabil védelmet nyújtanak; keressen egy fedett pontot, ahonnan megcsodálhatja az eső utáni friss levegőt és a panorámát.",
+                "ro": "Zidurile istorice oferă o protecție solidă; căutați un loc uscat pentru a vă bucura de aerul proaspăt și de priveliștea de după ploaie.",
+                "en": "The historical walls offer solid protection; find a dry spot to enjoy the rain-freshened air and the panoramic views."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zu einem erfrischenden Spaziergang durch die kühlen Gassen ein. Mittags suchen wir Wärme in den Museen, die eine willkommene Pause vom Wind bieten. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Nachmittagslicht intensiv. Der Abend endet früh in der gemütlichen Stille des winterlich schlummernden Bergdorfes.",
+            "hu": "A tiszta téli reggel frissítő sétára hív a hűvös utcákon. Napközben a múzeumok belső terei nyújtanak kellemes felmelegedést a szél elől. Mivel a nap korán, délután öt óra körül lebukik, érdemes kihasználni az utolsó fényeket. Az este korán köszönt be a téli álmot alvó hegyi falu meghitt csendjébe.",
+            "ro": "O dimineață senină de iarnă vă invită la o plimbare revigorantă pe străzile răcoroase. La prânz, căutăm căldură în muzee, care oferă o pauză binevenită de la vânt. Deoarece soarele apune deja în jur de ora 17:00, profităm din plin de lumina după-amiezii. Seara se încheie devreme în liniștea primitoare a satului de munte.",
+            "en": "A clear winter morning invites a refreshing walk through the cool alleys. At noon, we seek warmth in museums, offering a welcome break from the wind. Since the sun sets early around 5 PM, we make the most of the afternoon light. The evening ends early in the cozy silence of the winter-slumbering mountain village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saints-Pierre-et-Paul",
+                "hu": "Chapelle Saints-Pierre-et-Paul",
+                "ro": "Chapelle Saints-Pierre-et-Paul",
+                "en": "Chapelle Saints-Pierre-et-Paul"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da die Steinkapelle im Winter sehr kühl ist; die klare Wintersonne lässt die Fassade besonders hell leuchten.",
+                "hu": "Öltözzön rétegesen, mert a kőkápolna télen igen hűvös; a tiszta téli napsütésben a homlokzat különösen fényesen ragyog.",
+                "ro": "Purtați haine groase, deoarece capela de piatră este foarte răcoroasă iarna; soarele clar de iarnă face fațada să strălucească intens.",
+                "en": "Wear warm layers as the stone chapel is very cool in winter; the clear winter sun makes the facade glow particularly brightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Fernsicht, die im Winter durch die kahlen Bäume und die klare Luft besonders spektakulär und ungetrübt ist.",
+                "hu": "Élvezze a messzire nyúló panorámát, amely télen a kopár ágak és a tiszta levegő miatt különösen látványos és zavartalan.",
+                "ro": "Bucurați-vă de panorama vastă, care iarna, datorită copacilor golași și aerului curat, este deosebit de spectaculoasă și clară.",
+                "en": "Enjoy the vast panorama, which is particularly spectacular and unobstructed in winter due to the bare trees and clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Lucie",
+                "hu": "Chapelle Sainte-Lucie",
+                "ro": "Chapelle Sainte-Lucie",
+                "en": "Chapelle Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet kurzzeitig Schutz vor dem kalten Wind; zünden Sie eine Kerze an, um die friedliche und warme Atmosphäre zu spüren.",
+                "hu": "A kis kápolna rövid ideig védelmet nyújt a hideg szél elől; gyújtson egy gyertyát, hogy átélje a békés és meghitt téli hangulatot.",
+                "ro": "Mica chapelă oferă protecție temporară împotriva vântului rece; aprindeți o lumânare pentru a simți atmosfera caldă și pașnică.",
+                "en": "The small chapel offers temporary shelter from the cold wind; light a candle to experience the peaceful and warm winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée privé de Guy Savelli",
+                "hu": "Musée privé de Guy Savelli",
+                "ro": "Musée privé de Guy Savelli",
+                "en": "Musée privé de Guy Savelli"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich aufzuwärmen und gleichzeitig tief in die lokale Kultur einzutauchen, fernab der winterlichen Kälte draußen.",
+                "hu": "Ideális helyszín a felmelegedéshez és a helyi kultúrában való elmélyüléshez, távol a kinti téli hidegtől.",
+                "ro": "Un loc ideal pentru a vă încălzi și, în același timp, pentru a explora cultura locală, departe de frigul iernii de afară.",
+                "en": "An ideal spot to warm up while diving deep into local culture, far from the winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Trésor Cubaru",
+                "hu": "Musée du Trésor Cubaru",
+                "ro": "Musée du Trésor Cubaru",
+                "en": "Musée du Trésor Cubaru"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Pause im Warmen und bewundern Sie die Schätze in aller Ruhe ohne Besuchermassen.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb benti pihenőre, és csodálja meg a kincseket nyugodtan, tömeg nélkül.",
+                "ro": "Profități de vizita la muzeu pentru un popas mai lung la căldură și admirați comorile în liniște, fără mulțimi de turiști.",
+                "en": "Use the museum visit for a longer break in the warmth and admire the treasures in peace without the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel de Guido de Sabellis",
+                "hu": "Castel de Guido de Sabellis",
+                "ro": "Castel de Guido de Sabellis",
+                "en": "Castel de Guido de Sabellis"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Kastell kurz vor Sonnenuntergang um 17:00 Uhr, wenn das schräge Licht die alten Mauern in warmes Gold taucht.",
+                "hu": "Látogasson el a kastélyhoz közvetlenül a 17:00 órai naplemente előtt, amikor a súrolófények aranyba vonják az ősi falakat.",
+                "ro": "Vizitați castelul chiar înainte de apusul de la ora 17:00, când lumina caldă îmbracă zidurile vechi în nuanțe aurii.",
+                "en": "Visit the castle just before the 5 PM sunset, when the low-angled light bathes the ancient walls in warm gold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Indítsa kerékpártúráját a Chapelle Saints-Pierre-et-Paul kápolnánál, majd tekerjen el a Notre-Dame des 7 Douleurs érintetlen természeti környezetébe. Délben látogassa meg a Sainte-Lucie kápolnát és a Guy Savelli Múzeumot, majd a Castel de Guido de Sabellis lenyűgöző romjait. Délután tekerjen északra, a Ghjunchitu szabadidős övezet felé, ahol megpihenhet a gyönyörű parti környezetben. Végül látogasson el a történelmi Tour Vallitone őrtoronyhoz, ahonnan az esti fényben pompázó tengerre nyílik csodás kilátás.",
         "ro": "Începeți turul cu bicicleta la Chapelle Saints-Pierre-et-Paul și pedalați către natura virgină de la Notre-Dame des 7 Douleurs. La prânz, vizitați capela Sainte-Lucie și fascinantul muzeu Guy Savelli, urmate de ruinele impunătoare ale Castel de Guido de Sabellis. După-amiaza vă poartă spre nord, la zona de agrement Ghjunchitu, unde vă puteți relaxa minunat pe malul apei. Încheiați ziua pedalând către istoricul Tour Vallitone, un vechi turn de veghe cu priveliști superbe la mare în lumina serii.",
         "en": "Start your cycling tour at the Chapelle Saints-Pierre-et-Paul and pedal smoothly to the untouched nature of Notre-Dame des 7 Douleurs. At midday, visit the Sainte-Lucie chapel and the fascinating Guy Savelli Museum, followed by the ruins of Castel de Guido de Sabellis. The afternoon takes you north to the Ghjunchitu recreational area, where you can relax by the water's edge. Finally, cycle to the historic Tour Vallitone, an ancient watchtower offering magnificent views of the sea in the evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig in den verregneten Tag; die asphaltierten Wege können rutschig sein. Mittags bieten die Kapellen und Museen trockene Zwischenstopps für Radfahrer. Am Nachmittag führt die Route zur Küste, wo die salzige Gischt und der Regen eins werden. Achten Sie auf gute Beleuchtung, da die Sicht bei starkem Regen eingeschränkt sein kann.",
+            "hu": "Kezdje óvatosan az esős napot; az aszfaltozott utak csúszóssá válhatnak. Napközben a kápolnák és múzeumok kínálnak száraz pihenőket a kerékpárosoknak. Délután az út a part felé vezet, ahol a sós tengeri permet és az eső összeér. Ügyeljen a jó világításra, mert a látási viszonyok korlátozottak lehetnek.",
+            "ro": "Începeți ziua ploioasă cu prudență; drumurile asfaltate pot fi alunecoase. La prânz, capelele și muzeele oferă opriri uscate pentru bicicliști. După-amiaza, traseul duce spre coastă, unde stropii de mare și ploaia se unesc. Asigurați-vă că aveți lumini bune, deoarece vizibilitatea poate fi redusă.",
+            "en": "Start the rainy day cautiously; paved roads can become slippery. At noon, chapels and museums offer dry stops for cyclists. In the afternoon, the route leads to the coast, where sea spray and rain merge. Ensure good lighting as visibility can be limited during heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saints-Pierre-et-Paul",
+                "hu": "Chapelle Saints-Pierre-et-Paul",
+                "ro": "Chapelle Saints-Pierre-et-Paul",
+                "en": "Chapelle Saints-Pierre-et-Paul"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den Innenraum für eine erste trockene Pause; Vorsicht beim Absteigen auf nassem Untergrund.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és használja a belső teret az első száraz pihenőre; vigyázzon a leszálláskor a nedves talajon.",
+                "ro": "Parcați bicicleta în siguranță și folosiți interiorul pentru o primă pauză uscată; atenție la coborârea de pe bicicletă pe solul umed.",
+                "en": "Park your bike securely and use the interior for a first dry break; be careful when dismounting on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg erfordert bei Regen Konzentration; oben angekommen bietet der Ausblick trotz Wolken eine dramatische Belohnung für die Mühe.",
+                "hu": "Az emelkedő esőben koncentrációt igényel; felérve a kilátás a felhők ellenére is drámai jutalmat kínál a fáradozásért.",
+                "ro": "Urcarea necesită concentrare pe ploaie; odată ajunși sus, priveliștea oferă o recompensă dramatică în ciuda norilor.",
+                "en": "The climb requires focus in the rain; once at the top, the view offers a dramatic reward for the effort despite the clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Lucie",
+                "hu": "Chapelle Sainte-Lucie",
+                "ro": "Chapelle Sainte-Lucie",
+                "en": "Chapelle Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, geschützter Halt; prüfen Sie hier kurz Ihre Bremsen, bevor es auf den möglicherweise rutschigen Straßen weitergeht.",
+                "hu": "Rövid, védett megálló; ellenőrizze itt a fékeket, mielőtt továbbhaladna az esetlegesen csúszós utakon.",
+                "ro": "O scurtă oprire protejată; verificați frânele aici înainte de a continua pe drumurile care pot fi alunecoase.",
+                "en": "A short, sheltered stop; check your brakes here before continuing on potentially slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée privé de Guy Savelli",
+                "hu": "Musée privé de Guy Savelli",
+                "ro": "Musée privé de Guy Savelli",
+                "en": "Musée privé de Guy Savelli"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um Ihre Kleidung zu trocknen; die Exponate bieten eine spannende Ablenkung vom Wetter draußen.",
+                "hu": "Használja ki a múzeumban töltött időt a ruházat megszárítására; a kiállítás izgalmas kikapcsolódást nyújt a kinti időjárás elől.",
+                "ro": "Folosiți timpul petrecut în muzeu pentru a vă usca hainele; exponatele oferă o relaxare interesantă față de vremea de afară.",
+                "en": "Use the time in the museum to dry your clothes; the exhibits provide an exciting diversion from the weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel de Guido de Sabellis",
+                "hu": "Castel de Guido de Sabellis",
+                "ro": "Castel de Guido de Sabellis",
+                "en": "Castel de Guido de Sabellis"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Fahrrad unter und genießen Sie den Blick auf das Meer unter den dunklen Regenwolken von einem überdachten Punkt aus.",
+                "hu": "Állítsa fedett helyre a kerékpárt, és csodálja meg a tengert a sötét esőfelhők alatt egy védett kilátópontról.",
+                "ro": "Parcați bicicleta la adăpost și admirați marea sub norii negri de ploaie dintr-un punct de observație protejat.",
+                "en": "Park your bike under cover and admire the sea under dark rain clouds from a sheltered viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Ghjunchitu",
+                "hu": "Ghjunchitu",
+                "ro": "Ghjunchitu",
+                "en": "Ghjunchitu"
+              },
+              "tip_5lang": {
+                "de": "Der Strandweg kann bei Regen matschig sein; genießen Sie das raue Meer aus sicherer Entfernung mit wasserfester Ausrüstung.",
+                "hu": "A strandhoz vezető út esőben sáros lehet; élvezze a haragos tengert biztonságos távolságból, vízálló felszerelésben.",
+                "ro": "Drumul spre plajă poate fi noroios pe ploaie; bucurați-vă de marea agitată de la o distanță sigură, echipat cu haine impermeabile.",
+                "en": "The path to the beach can be muddy in the rain; enjoy the rough sea from a safe distance with waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Vallitone",
+                "hu": "Tour Vallitone",
+                "ro": "Tour Vallitone",
+                "en": "Tour Vallitone"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet Schutz vor dem Wind; achten Sie auf den Rückweg auf die Sichtbarkeit bei einsetzender Dämmerung und Regen.",
+                "hu": "A torony védelmet nyújt a szél elől; a visszaúton ügyeljen a láthatóságra a szürkületben és az esőben.",
+                "ro": "Turnul oferă protecție împotriva vântului; pe drumul de întoarcere, aveți grijă la vizibilitate în amurg și pe ploaie.",
+                "en": "The tower offers shelter from the wind; on the way back, pay attention to visibility in the twilight and rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen erfordert warme Handschuhe auf dem Rad. Mittags wärmen wir uns in den Museen von Curzo auf, während das Rad draußen in der klaren Luft wartet. Die Nachmittagstour zur Küste bietet einsame Wege und eine frische Meeresbrise. Da es um 17:00 Uhr dunkel wird, planen wir den Rückweg rechtzeitig ein, um die beleuchtete Silhouette des Dorfes zu sehen.",
+            "hu": "A hűvös téli reggel meleg kesztyűt igényel a kerékpáron. Napközben Curzo múzeumaiban melegszünk fel, miközben a bicikli odakint vár a friss levegőn. A délutáni túra a part felé magányos utakat és friss tengeri szellőt kínál. Mivel 17:00-kor sötétedik, a visszautat időben tervezzük meg, hogy lássuk a falu kivilágított sziluettjét.",
+            "ro": "Dimineața răcoroasă de iarnă necesită mănuși groase pe bicicletă. La prânz, ne încălzim în muzeele din Curzo, în timp ce bicicleta așteaptă afară în aerul curat. Turul de după-amiază spre coastă oferă drumuri pustii și o briză marină proaspătă. Deoarece se întunecă la ora 17:00, planificăm întoarcerea din timp.",
+            "en": "The cool winter morning requires warm gloves on the bike. At noon, we warm up in Curzo's museums while the bike waits outside in the crisp air. The afternoon tour to the coast offers solitary paths and a fresh sea breeze. As it gets dark by 5 PM, plan the return trip early to catch the village's illuminated silhouette."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saints-Pierre-et-Paul",
+                "hu": "Chapelle Saints-Pierre-et-Paul",
+                "ro": "Chapelle Saints-Pierre-et-Paul",
+                "en": "Chapelle Saints-Pierre-et-Paul"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zur Besichtigung; die Kühle im Inneren ist erfrischend, aber bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "Rövid megálló a megtekintéshez; a benti hűvös frissítő, de maradjon mozgásban, hogy ne fázzon meg a pihenő alatt.",
+                "ro": "O scurtă oprire pentru vizitare; răcoarea din interior este revigorantă, dar rămâneți în mișcare pentru a nu vă fi frig.",
+                "en": "A short stop for sightseeing; the cool interior is refreshing, but stay moving to keep warm during the break."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg bringt den Kreislauf in Schwung; die klare Sicht von oben über die winterliche Landschaft ist jede Anstrengung wert.",
+                "hu": "Az emelkedő jól megmozgatja a keringést; a fenti tiszta kilátás a téli tájra minden fáradozást megér.",
+                "ro": "Urcarea vă pune sângele în mișcare; priveliștea clară de sus asupra peisajului de iarnă merită orice efort.",
+                "en": "The climb gets your circulation going; the clear view from the top over the winter landscape is worth every effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Lucie",
+                "hu": "Chapelle Sainte-Lucie",
+                "ro": "Chapelle Sainte-Lucie",
+                "en": "Chapelle Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windstillen Ort für einen Schluck aus der Thermoskanne; die Ruhe hier oben ist im Winter besonders intensiv.",
+                "hu": "Használja ki a szélvédett helyet egy korty meleg italra a termoszból; a csend itt fent télen különösen mély.",
+                "ro": "Profități de locul ferit de vânt pentru o gură de băutură caldă din termos; liniștea de aici este deosebit de intensă iarna.",
+                "en": "Take advantage of the wind-sheltered spot for a sip from your thermos; the silence up here is particularly intense in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée privé de Guy Savelli",
+                "hu": "Musée privé de Guy Savelli",
+                "ro": "Musée privé de Guy Savelli",
+                "en": "Musée privé de Guy Savelli"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und genießen Sie die Wärme und die faszinierende Geschichte im Inneren; perfekt zum Aufwärmen der Finger.",
+                "hu": "Parkolja le a gépet, és élvezze a meleget és a lenyűgöző történelmet bent; tökéletes az elgémberedett ujjak felmelegítésére.",
+                "ro": "Parcați bicicleta și bucurați-vă de căldura și istoria fascinantă din interior; perfect pentru încălzirea degetelor amorțite.",
+                "en": "Park your bike and enjoy the warmth and fascinating history inside; perfect for warming up cold fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel de Guido de Sabellis",
+                "hu": "Castel de Guido de Sabellis",
+                "ro": "Castel de Guido de Sabellis",
+                "en": "Castel de Guido de Sabellis"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne sorgt für lange Schatten und tolle Fotos; ziehen Sie vor der Abfahrt zur Küste Ihre Jacke wieder fest zu.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat és remek fotótémákat kínál; a parti lejtő előtt húzza fel jól a cipzárt.",
+                "ro": "Soarele de iarnă oferă umbre lungi și cadre foto superbe; înainte de coborârea spre coastă, închideți bine jacheta.",
+                "en": "The low winter sun provides long shadows and great photo opportunities; zip up your jacket tightly before heading to the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Ghjunchitu",
+                "hu": "Ghjunchitu",
+                "ro": "Ghjunchitu",
+                "en": "Ghjunchitu"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandbesuch im Winter; der Wind kann hier schneidend kalt sein, aber das Licht auf den Wellen ist einzigartig schön.",
+                "hu": "Magányos tengerparti látogatás télen; a szél itt metszően hideg lehet, de a hullámokon megcsillanó fény páratlanul szép.",
+                "ro": "O vizită solitară la plajă iarna; vântul poate fi tăios, dar lumina reflectată pe valuri este de o frumusețe rară.",
+                "en": "A solitary beach visit in winter; the wind can be biting here, but the light on the waves is uniquely beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour Vallitone",
+                "hu": "Tour Vallitone",
+                "ro": "Tour Vallitone",
+                "en": "Tour Vallitone"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Turm vor 17:00 Uhr, um den winterlichen Sonnenuntergang über dem Meer zu erleben, bevor es schnell abkühlt.",
+                "hu": "Érjen a toronyhoz 17:00 előtt, hogy átélje a téli naplementét a tenger felett, mielőtt a levegő gyorsan lehűlne.",
+                "ro": "Ajungeți la turn înainte de ora 17:00 pentru a vedea apusul de iarnă peste mare, înainte ca temperatura să scadă brusc.",
+                "en": "Reach the tower before 5 PM to experience the winter sunset over the sea before the air cools down rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Autós túrája északnyugaton, a Tour Vallitone őrtoronynál kezdődik, mielőtt továbbhajtana a gyönyörű Ghjunchitu szabadidős területre. Élvezze a delet a Castel de Guido de Sabellis történelmi falai között, majd csodálja meg a Musée du Trésor Cubaru gazdag gyűjteményét. Délután fedezze fel a Notre-Dame des 7 Douleurs-t, amelyet a Sainte-Lucie és a Saints-Pierre-et-Paul kápolnák spirituális nyugalma követ. A nap megkoronázásaként autózzon a Monte Sant Anghjulu csúcsához, ahol látványos természeti környezet és felejthetetlen naplemente várja.",
         "ro": "Călătoria începe în nord-vest, la Tour Vallitone, înainte de a conduce confortabil către frumoasa zonă de agrement Ghjunchitu. Bucurați-vă de prânz între zidurile istorice ale Castel de Guido de Sabellis și admirați apoi colecția de la Musée du Trésor Cubaru. După-amiaza explorați Notre-Dame des 7 Douleurs, urmată de liniștea spirituală a capelelor Sainte-Lucie și Saints-Pierre-et-Paul. Ca o încununare, conduceți către Monte Sant Anghjulu, unde veți experimenta un peisaj natural spectaculos și un apus de soare de neuitat.",
         "en": "Your drive begins in the northwest at the Tour Vallitone before heading to the beautiful Ghjunchitu recreational area. Enjoy midday exploring the historic walls of Castel de Guido de Sabellis and admiring the collection at the Musée du Trésor Cubaru. In the afternoon, explore Notre-Dame des 7 Douleurs, followed by the spiritual quiet of the Sainte-Lucie and Saints-Pierre-et-Paul chapels. To cap it off, drive to Monte Sant Anghjulu, where you will experience a spectacular natural landscape and an unforgettable sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist das Auto das komfortabelste Transportmittel zwischen den Sehenswürdigkeiten. Am Vormittag steuern wir die Küstentürme an, während die Scheibenwischer den Rhythmus vorgeben. Mittags bieten die Museen im Dorfzentrum einen trockenen Aufenthalt. Der Nachmittag führt zu den Kapellen, wo kurze Wege vom Parkplatz zum Eingang die Nässe minimieren. Der Abend klingt sicher und trocken aus.",
+            "hu": "Esőben az autó a legkényelmesebb közlekedési eszköz a látnivalók között. Délelőtt a parti tornyokat vesszük célba, miközben az ablaktörlők adják a ritmust. Napközben a falu központjában található múzeumok kínálnak száraz programot. Délután a kápolnák felé vesszük az irányt, ahol a parkolótól rövid sétával bejuthatunk a fedett terekbe. Az este biztonságban és szárazon telik.",
+            "ro": "Pe ploaie, mașina este cel mai confortabil mijloc de transport între obiective. Dimineața vizităm turnurile de pe coastă, în timp ce ștergătoarele dau ritmul. La prânz, muzeele din centrul satului oferă un program uscat. După-amiaza mergem spre capele, unde distanța scurtă de la parcare permite un acces rapid. Seara se încheie în siguranță și la uscat.",
+            "en": "In the rain, the car is the most comfortable way to travel between sights. In the morning, we head to the coastal towers while the wipers set the pace. At noon, museums in the village center offer a dry program. The afternoon leads to the chapels, where short walks from the parking lot minimize exposure to the wet. The evening ends safely and dryly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tour Vallitone",
+                "hu": "Tour Vallitone",
+                "ro": "Tour Vallitone",
+                "en": "Tour Vallitone"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer direkt aus dem warmen Auto, falls der Regen zu stark für den kurzen Weg zum Turm ist.",
+                "hu": "Élvezze a viharos tenger látványát közvetlenül a meleg autóból, ha az eső túl erős lenne a toronyhoz vezető rövid sétához.",
+                "ro": "Bucurați-vă de vederea mării înfuriate direct din mașina caldă, dacă ploaia este prea puternică pentru scurta plimbare spre turn.",
+                "en": "Enjoy the view of the stormy sea directly from the warm car if the rain is too heavy for the short walk to the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Ghjunchitu",
+                "hu": "Ghjunchitu",
+                "ro": "Ghjunchitu",
+                "en": "Ghjunchitu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf befestigtem Untergrund und bewundern Sie die Brandung; ein Regenschirm ist für den kurzen Weg zum Aussichtspunkt unverzichtbar.",
+                "hu": "Parkoljon szilárd talajon, és csodálja meg a hullámtörést; egy esernyő elengedhetetlen a kilátóponthoz vezető rövid úton.",
+                "ro": "Parcați pe un teren solid și admirați valurile; o umbrelă este indispensabilă pentru scurta plimbare până la punctul de observație.",
+                "en": "Park on solid ground and admire the surf; an umbrella is essential for the short walk to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel de Guido de Sabellis",
+                "hu": "Castel de Guido de Sabellis",
+                "ro": "Castel de Guido de Sabellis",
+                "en": "Castel de Guido de Sabellis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe und erkunden Sie die historischen Gemäuer, die auch bei Regen Schutz und Atmosphäre bieten.",
+                "hu": "Használja a közeli parkolási lehetőségeket, és fedezze fel a történelmi falakat, amelyek esőben is védelmet és különleges hangulatot árasztanak.",
+                "ro": "Folosiți locurile de parcare din apropiere și explorați zidurile istorice, care oferă protecție și o atmosferă specială chiar și pe ploaie.",
+                "en": "Use nearby parking options and explore the historical walls, which offer protection and a special atmosphere even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Trésor Cubaru",
+                "hu": "Musée du Trésor Cubaru",
+                "ro": "Musée du Trésor Cubaru",
+                "en": "Musée du Trésor Cubaru"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp zum Aufwärmen und Trockenbleiben; lassen Sie sich Zeit bei der Besichtigung der wertvollen religiösen Schätze.",
+                "hu": "Tökéletes megálló a felmelegedéshez és a szárazon maradáshoz; szánjon bőven időt az értékes vallási kincsek megtekintésére.",
+                "ro": "O oprire perfectă pentru a vă încălzi și a rămâne uscat; acordați-vă suficient timp pentru a vedea obiectele religioase prețioase.",
+                "en": "A perfect stop to warm up and stay dry; take your time viewing the precious religious treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Aussichtspunkt ist bei Regen gut befahrbar; genießen Sie das Panorama aus dem Schutz der Kapelle oder des Autos.",
+                "hu": "A kilátóhoz vezető út esőben is jól járható; élvezze a panorámát a kápolna vagy az autó védelméből.",
+                "ro": "Drumul spre punctul de observație este ușor practicabil pe ploaie; bucurați-vă de panoramă din protecția capelei sau a mașinii.",
+                "en": "The drive to the viewpoint is easily accessible in the rain; enjoy the panorama from the shelter of the chapel or the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Lucie",
+                "hu": "Chapelle Sainte-Lucie",
+                "ro": "Chapelle Sainte-Lucie",
+                "en": "Chapelle Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Aufenthalt im Inneren; achten Sie beim Aussteigen auf Pfützen und rutschige Steine direkt am Parkplatz.",
+                "hu": "Rövid, száraz látogatás a belső térben; kiszálláskor ügyeljen a tócsákra és a csúszós kövekre közvetlenül a parkoló mellett.",
+                "ro": "O vizită scurtă și uscată în interior; la coborâre, aveți grijă la bălți și la pietrele alunecoase de lângă parcare.",
+                "en": "A short, dry visit inside; when getting out, watch out for puddles and slippery stones right next to the parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saints-Pierre-et-Paul",
+                "hu": "Chapelle Saints-Pierre-et-Paul",
+                "ro": "Chapelle Saints-Pierre-et-Paul",
+                "en": "Chapelle Saints-Pierre-et-Paul"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung im Inneren wirkt an grauen Regentagen besonders warm; nutzen Sie den Schirm für den kurzen Weg vom Auto zur Tür.",
+                "hu": "A belső világítás a szürke esős napokon különösen melegnek hat; használja az esernyőt az autó és a bejárat közötti rövid úton.",
+                "ro": "Lumina din interior pare deosebit de caldă în zilele cenușii de ploaie; folosiți umbrela pentru drumul scurt de la mașină la intrare.",
+                "en": "The interior lighting feels particularly warm on gray rainy days; use an umbrella for the short walk from the car to the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Sant Anghjulu",
+                "hu": "Monte Sant Anghjulu",
+                "ro": "Monte Sant Anghjulu",
+                "en": "Monte Sant Anghjulu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Lichtstimmung über den Wolken; bei starkem Regen bietet die Fahrt zum Gipfel dennoch tolle Ausblicke.",
+                "hu": "Élvezze a drámai fényeket a felhők felett; erős eső esetén a csúcsra vezető út is remek kilátást nyújt az autóból.",
+                "ro": "Bucurați-vă de luminile dramatice de deasupra norilor; în caz de ploaie torențială, drumul spre vârf oferă vederi superbe din mașină.",
+                "en": "Enjoy the dramatic lights above the clouds; even in heavy rain, the drive to the summit offers great views from the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt gemütlich im beheizten Auto mit der Fahrt zur Küste. Mittags erkunden wir die kulturellen Schätze in den Museen von Curzo, die eine angenehme Wärme ausstrahlen. Der Nachmittag bietet spektakuläre Ausblicke auf die schneebedeckten Gipfel im Hinterland. Wegen des frühen Sonnenuntergangs um 17:00 Uhr beenden wir die Tour mit einer Panoramafahrt im letzten Tageslicht.",
+            "hu": "A téli nap kényelmesen, a fűtött autóban kezdődik a parti tornyok felé. Napközben Curzo múzeumaiban merülünk el a kultúrában, ahol kellemes meleg fogad minket. A délutáni órákban látványos kilátás nyílik a háttérben magasodó hófödte csúcsokra. A korai, 17:00 órai naplemente miatt a túrát egy panorámaautózással zárjuk az utolsó fényekben.",
+            "ro": "Ziua de iarnă începe confortabil în mașina încălzită spre turnurile de pe coastă. La prânz, explorăm comorile culturale în muzeele din Curzo, unde ne întâmpină o căldură plăcută. După-amiaza oferă vederi spectaculoase spre vârfurile înzăpezite din depărtare. Din cauza apusului devreme de la ora 17:00, încheiem turul cu o plimbare panoramică.",
+            "en": "The winter day begins comfortably in a heated car driving toward the coastal towers. At noon, we explore cultural treasures in Curzo's museums, where a pleasant warmth awaits. The afternoon offers spectacular views of the snow-capped peaks in the distance. Due to the early 5 PM sunset, we end the tour with a scenic drive in the last daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tour Vallitone",
+                "hu": "Tour Vallitone",
+                "ro": "Tour Vallitone",
+                "en": "Tour Vallitone"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Sichtweiten bis zum Horizont; nutzen Sie das Auto als warmen Rückzugsort nach dem kurzen Fotostopp am Turm.",
+                "hu": "A tiszta téli levegő a látóhatárig érő kilátást tesz lehetővé; használja az autót meleg menedékként a toronynál tett rövid fotózás után.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate până la orizont; folosiți mașina ca refugiu cald după scurta oprire foto la turn.",
+                "en": "The clear winter air allows views all the way to the horizon; use the car as a warm retreat after a quick photo stop at the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Ghjunchitu",
+                "hu": "Ghjunchitu",
+                "ro": "Ghjunchitu",
+                "en": "Ghjunchitu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das klare, blaue Wintermeer; da der Wind am Strand sehr kalt sein kann, ist eine warme Jacke für den kurzen Ausstieg Pflicht.",
+                "hu": "Csodálja meg a kristálytiszta kék téli tengert; mivel a parton a szél nagyon hideg lehet, a meleg kabát kötelező a kiszálláshoz.",
+                "ro": "Admirați marea albastră și clară de iarnă; deoarece vântul la plajă poate fi foarte rece, o jachetă groasă este obligatorie pentru ieșire.",
+                "en": "Admire the crystal-clear blue winter sea; since the wind at the beach can be very cold, a warm jacket is mandatory for stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Castel de Guido de Sabellis",
+                "hu": "Castel de Guido de Sabellis",
+                "ro": "Castel de Guido de Sabellis",
+                "en": "Castel de Guido de Sabellis"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne lässt die alten Steine in warmen Farben leuchten; perfekt für stimmungsvolle Winterfotos direkt vom Parkplatz aus.",
+                "hu": "Az alacsonyan járó nap meleg színekkel festi meg az ősi köveket; tökéletes hangulatos téli fotókhoz, akár közvetlenül a parkolóból is.",
+                "ro": "Soarele jos colorează pietrele vechi în nuanțe calde; perfect pentru fotografii de iarnă pline de atmosferă, chiar din parcare.",
+                "en": "The low sun paints the ancient stones in warm colors; perfect for atmospheric winter photos, even directly from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée du Trésor Cubaru",
+                "hu": "Musée du Trésor Cubaru",
+                "ro": "Musée du Trésor Cubaru",
+                "en": "Musée du Trésor Cubaru"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um der winterlichen Kälte zu entkommen; genießen Sie die sakrale Stille und die kunstvollen Exponate im Warmen.",
+                "hu": "Kiváló helyszín a téli hideg elöli menekülésre; élvezze a szakrális csendet és a művészi kiállítási tárgyakat a meleg belső térben.",
+                "ro": "Un loc excelent pentru a scăpa de frigul iernii; bucurați-vă de liniștea sacră și de exponatele artistice în interiorul călduros.",
+                "en": "An excellent spot to escape the winter cold; enjoy the sacred silence and artistic exhibits in the warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame des 7 Douleurs",
+                "hu": "Notre-Dame des 7 Douleurs",
+                "ro": "Notre-Dame des 7 Douleurs",
+                "en": "Notre-Dame des 7 Douleurs"
+              },
+              "tip_5lang": {
+                "de": "Vom Aussichtspunkt aus bietet sich ein grandioser Blick auf die schneebedeckten Berge; die Heizung im Auto sorgt danach schnell wieder für Wohlbefinden.",
+                "hu": "A kilátópontról fenséges látvány nyílik a hófödte hegyekre; az autó fűtése a látogatás után gyorsan visszaadja a komfortérzetet.",
+                "ro": "De la punctul de observație se deschide o vedere superbă spre munții înzăpeziți; încălzirea din mașină vă va oferi rapid confortul după vizită.",
+                "en": "The viewpoint offers a majestic sight of the snow-covered mountains; the car's heater will quickly restore comfort after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Lucie",
+                "hu": "Chapelle Sainte-Lucie",
+                "ro": "Chapelle Sainte-Lucie",
+                "en": "Chapelle Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Ein besinnlicher Stopp im Winter; die Schlichtheit der Kapelle wirkt in der klaren, kalten Jahreszeit besonders eindrucksvoll.",
+                "hu": "Meghitt téli megálló; a kápolna egyszerűsége a tiszta, hideg évszakban különösen lenyűgöző hatást kelt.",
+                "ro": "O oprire plină de liniște iarna; simplitatea capelei este deosebit de impresionantă în acest anotimp rece și clar.",
+                "en": "A peaceful winter stop; the chapel's simplicity is particularly impressive during the clear, cold season."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saints-Pierre-et-Paul",
+                "hu": "Chapelle Saints-Pierre-et-Paul",
+                "ro": "Chapelle Saints-Pierre-et-Paul",
+                "en": "Chapelle Saints-Pierre-et-Paul"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Kapelle und genießen Sie das Gefühl der Zeitlosigkeit, bevor Sie sich für die letzte Etappe wieder ins warme Auto setzen.",
+                "hu": "Tekintse meg a kápolnát, és élvezze az időtlenség érzését, mielőtt az utolsó szakaszra visszaszállna a meleg autóba.",
+                "ro": "Vizitați capela și bucurați-vă de sentimentul atemporalității înainte de a urca înapoi în mașina caldă pentru ultima etapă.",
+                "en": "Visit the chapel and enjoy the sense of timelessness before getting back into the warm car for the final leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Sant Anghjulu",
+                "hu": "Monte Sant Anghjulu",
+                "ro": "Monte Sant Anghjulu",
+                "en": "Monte Sant Anghjulu"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zum Gipfel bietet im Winter oft spektakuläre Inversionswetterlagen; erleben Sie den Sonnenuntergang um 17:00 Uhr direkt vom Fahrersitz.",
+                "hu": "A csúcsra vezető út télen gyakran lenyűgöző inverziós látványt kínál; élje át a 17:00 órai naplementét közvetlenül a vezetőülésből.",
+                "ro": "Drumul spre vârf oferă adesea peisaje de inversiune termică spectaculoase; vedeți apusul de la ora 17:00 direct de la volan.",
+                "en": "The drive to the summit often offers spectacular temperature inversion views in winter; catch the 5 PM sunset directly from the driver's seat."
+              }
+            }
+          ]
+        }
       }
     }
   }

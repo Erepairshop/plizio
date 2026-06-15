@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Niolon és La Vesse kristálytiszta vizeinél a friss tengeri levegőn. Egy rövid gyaloglás után elérjük a történelmi Fort de Figuerolles erődöt, ahonnan lélegzetelállító kilátás nyílik a tengerre. A délután a pihentető strandoké, ahol a hullámok lágy zúgása dominál. Az estét kényelmesen a parton töltheti, élvezve a nyugtató, meleg napsugarakat.",
         "ro": "Începeți-vă ziua la apele cristaline din Niolon și La Vesse sub briza mării. După un scurt marș ajungeți la istoricul Fort de Figuerolles, cu vederi uluitoare la mare. După-amiaza este dedicată plajelor relaxante, unde domină zgomotul blând al valurilor. Vă veți petrece seara confortabil pe mal, bucurându-vă de ultimele raze calde ale soarelui apus.",
         "en": "Begin your day by the crystal-clear waters of Niolon and La Vesse, breathing in the fresh sea air. Following a coastal walk, you will reach the historic Fort de Figuerolles to enjoy breathtaking maritime vistas. Your afternoon is dedicated to the soothing pebble beaches, accompanied by the gentle sound of crashing waves. Conclude your evening relaxing on the serene shoreline as the sun dips below the horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der dramatischen Bucht von Niolon, wo der Regen den Klippen eine mystische Stimmung verleiht. Mittags geht es über die Küstenpfade; tragen Sie rutschfeste Schuhe. Am Nachmittag erkunden Sie die Festungsruinen am besten mit Regenschirm. Beenden Sie den Tag an den Stränden und beobachten Sie die wilde See unter dem grauen Himmel.",
+            "hu": "Kezdd a reggelt a drámai Niolon öbölben, ahol az eső misztikus hangulatot ad a szikláknak. Délben a parti ösvényeken haladsz; viselj csúszásmentes túracipőt. Délután fedezd fel a történelmi erőd romjait esernyővel a kézben. A napot a partokon zárd, figyelve a tenger vad hullámait a borús égbolt alatt.",
+            "ro": "Începeți dimineața în golful dramatic Niolon, unde ploaia oferă stâncilor o atmosferă mistică. La prânz mergeți pe potecile de coastă; purtați încălțăminte anti-alunecare. După-amiaza explorați ruinele fortului cu o umbrelă robustă. Încheiați ziua pe plaje, privind valurile agitate sub cerul înnorat.",
+            "en": "Start your morning at the dramatic Niolon calanque, where the rain adds a moody atmosphere to the cliffs. Midday takes you through the coastal paths; wear sturdy, slip-resistant shoes. Afternoon brings you to the historic fort ruins, best viewed with an umbrella. End the day at the beaches, watching the sea foam under the overcast sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Calanque de Niolon",
+                "hu": "Calanque de Niolon",
+                "ro": "Calanque de Niolon",
+                "en": "Calanque de Niolon"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fischerhütten im Nebel, aber achten Sie auf die rutschigen Kalksteinfelsen.",
+                "hu": "Csodáld meg a halászkunyhókat a ködben, de lépkedj óvatosan a nedves, csúszós mészkősziklákon.",
+                "ro": "Admirați colibele pescărești prin ceață, dar pășiți cu grijă pe stâncile de calcar umede și alunecoase.",
+                "en": "Admire the fishing huts through the mist, but step carefully on the slippery wet limestone rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de la Vesse",
+                "hu": "Calanque de la Vesse",
+                "ro": "Calanque de la Vesse",
+                "en": "Calanque de la Vesse"
+              },
+              "tip_5lang": {
+                "de": "Das markante Viadukt wirkt im Regen dramatisch; suchen Sie bei Schauern Schutz unter den massiven Bögen.",
+                "hu": "A látványos viadukt drámaian fest az esőben; keress menedéket a hatalmas boltívek alatt egy zápor idején.",
+                "ro": "Viaductul impresionant arată dramatic în ploaie; găsiți adăpost sub arcadele sale masive în timpul averselor.",
+                "en": "The striking viaduct looks dramatic in the rain; find shelter under its massive arches during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Figuerolles",
+                "hu": "Fort de Figuerolles",
+                "ro": "Fort de Figuerolles",
+                "en": "Fort de Figuerolles"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die alten Militärruinen, die im grauen Wetter mystisch wirken, aber meiden Sie schlammige Ränder.",
+                "hu": "Fedezd fel a katonai romokat, melyek misztikusak a szürke időben, de kerüld a sáros sziklaszéleket.",
+                "ro": "Explorați ruinele militare care par mistice pe vremea gri, dar evitați să mergeți pe marginile noroioase.",
+                "en": "Explore the old military ruins which feel mystical in the grey weather, but avoid walking on the muddy edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Batterie",
+                "hu": "Plage de la Batterie",
+                "ro": "Plage de la Batterie",
+                "en": "Plage de la Batterie"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmischen Wellen; halten Sie eine wasserdichte Jacke gegen die plötzliche Gischt bereit.",
+                "hu": "Nézd, ahogy a viharos hullámok a partnak csapódnak; tarts kéznél vízálló kabátot a hirtelen vízpermet ellen.",
+                "ro": "Priviți valurile furtunoase lovind plaja; purtați o jachetă impermeabilă pentru a vă proteja de stropii mării.",
+                "en": "Watch the stormy waves crash onto the small beach; keep a waterproof jacket handy against sudden sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de La Lave",
+                "hu": "Plage de La Lave",
+                "ro": "Plage de La Lave",
+                "en": "Plage de La Lave"
+              },
+              "tip_5lang": {
+                "de": "Der regennasse Sand hat eine raue Schönheit; perfekt für ein schnelles, stimmungsvolles Foto, bevor Sie weitergehen.",
+                "hu": "Az eső áztatta homoknak nyers szépsége van, bár sokáig nem fogsz maradni; tökéletes egy hangulatos fotóhoz.",
+                "ro": "Nisipul bătut de ploaie are o frumusețe brută; deși nu veți zăbovi mult, e perfect pentru o fotografie cu atmosferă.",
+                "en": "The rain-swept sand has its own raw beauty, though you won't linger long; perfect for a quick, moody photo."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen frischen Morgen in der Niolon-Bucht und atmen Sie die kalte, klare Meeresluft ein. Mittags bieten sich friedliche Küstenspaziergänge an; tragen Sie winddichte Schichten. Nachmittags werden die Schatten an der Festung schnell länger. Beenden Sie die Tour an den Stränden vor dem frühen Sonnenuntergang um 17 Uhr.",
+            "hu": "Élvezd a csípős reggelt a Niolon öbölben, magadba szívva a hideg, tiszta tengeri levegőt. A déli órák békés sétát kínálnak a parton; öltözz meleg, szélálló rétegekbe. Délután az erőd romjainál hamar nyúlnak az árnyékok a korai naplemente miatt. A partokon fejezd be a napot még az 5 órás sötétedés előtt.",
+            "ro": "Bucurați-vă de o dimineață proaspătă în golful Niolon, respirând aerul rece și curat. Prânzul oferă plimbări pașnice pe coastă; purtați straturi calde și rezistente la vânt. Umbrele după-amiezii se lungesc rapid la fortăreață. Încheiați traseul pe plaje înainte de apusul timpuriu de la ora 17:00.",
+            "en": "Enjoy a crisp morning at the Niolon calanque, embracing the cold, clear sea air. Midday offers peaceful walks along the coast; dress in warm, windproof layers. Afternoon shadows lengthen quickly at the historic fort, offering stunning sunset colors. Conclude at the beaches before the early 5 PM sunset brings a chill to the air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Calanque de Niolon",
+                "hu": "Calanque de Niolon",
+                "ro": "Calanque de Niolon",
+                "en": "Calanque de Niolon"
+              },
+              "tip_5lang": {
+                "de": "Die leere Winterbucht ist atemberaubend; ziehen Sie sich warm an, um die kalte Meeresbrise zu genießen.",
+                "hu": "Az üres téli öböl lélegzetelállító, öltözz melegen, hogy élvezhesd a csípős tengeri szellőt.",
+                "ro": "Golful gol de iarnă este uluitor; îmbrăcați-vă gros pentru a vă bucura de briza mării în solitudine.",
+                "en": "The empty winter cove is breathtaking, so wrap up warm to enjoy the biting sea breeze in solitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de la Vesse",
+                "hu": "Calanque de la Vesse",
+                "ro": "Calanque de la Vesse",
+                "en": "Calanque de la Vesse"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt das weiße Viadukt leuchten; bringen Sie eine Thermoskanne für eine wärmende Pause mit.",
+                "hu": "A téli napfény kiemeli a fehér viaduktot a kék tengerből; hozz termoszban teát egy melegítő szünethez.",
+                "ro": "Soarele de iarnă evidențiază viaductul alb; aduceți un termos cu ceai pentru o pauză încălzitoare.",
+                "en": "Winter sun highlights the white viaduct against the deep blue sea; bring a thermal flask for a warming break."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Figuerolles",
+                "hu": "Fort de Figuerolles",
+                "ro": "Fort de Figuerolles",
+                "en": "Fort de Figuerolles"
+              },
+              "tip_5lang": {
+                "de": "Die erhöhte Festung bietet unglaubliche Winterpanoramen; stellen Sie sich auf starken, kalten Küstenwind ein.",
+                "hu": "A magasan fekvő erőd lenyűgöző téli panorámát nyújt; készülj fel az erős, fagyos parti szelekre.",
+                "ro": "Ruinele fortului oferă panorame de iarnă incredibile; fiți pregătiți pentru vânturile de coastă puternice și reci.",
+                "en": "The elevated fort ruins offer incredible winter panoramas; be prepared for strong, chilly coastal winds here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Batterie",
+                "hu": "Plage de la Batterie",
+                "ro": "Plage de la Batterie",
+                "en": "Plage de la Batterie"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für einen winterlichen Spaziergang auf den Kieseln; die tiefstehende Sonne lässt die Felsen leuchten.",
+                "hu": "Csendes hely egy frissítő téli sétához a kavicsokon; az alacsonyan járó nap melegen ragyogtatja be a sziklákat.",
+                "ro": "Un loc liniștit pentru o plimbare revigorantă de iarnă; soarele blând face ca stâncile să strălucească cald.",
+                "en": "A quiet spot for a brisk winter stroll on the pebbles; the low sun makes the coastal rocks glow warmly."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de La Lave",
+                "hu": "Plage de La Lave",
+                "ro": "Plage de La Lave",
+                "en": "Plage de La Lave"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang kurz vor 17 Uhr, um den wunderschönen, kalten Wintersonnenuntergang zu erleben.",
+                "hu": "Fejezd be itt a sétát nem sokkal 5 óra előtt, hogy elkapd a gyönyörű, de hideg téli naplementét a horizonton.",
+                "ro": "Încheiați plimbarea aici înainte de ora 17:00 pentru a prinde apusul de iarnă superb, dar rece, peste orizont.",
+                "en": "Finish your walk here just before 5 PM to catch the beautiful, albeit cold, winter sunset over the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpártúra a szárazföld belsejében indul a festői Saint-Michel kápolnánál, majd a lenyűgöző Tunnel du Rove felé veszi az irányt. Délben a kerékpárral felkapaszkodunk az Oppidum de la Campane magaslataira egy történelmi szünetre. Délután kényelmesen legurulunk a tengerparthoz, hogy felfedezzük a Fort de Figuerolles-t. A nap a La Vesse és Niolon csodás tengeri panorámájával zárul.",
         "ro": "Turul cu bicicleta începe spre interior, la pitoreasca capelă Saint-Michel și duce la impresionantul Tunnel du Rove. La prânz veți urca cu bicicleta până la Oppidum de la Campane pentru o pauză istorică. După-amiaza coborâți spre coastă pentru a vizita impresionantul Fort de Figuerolles. Ziua se încheie cu priveliști magnifice la coastă din calancile La Vesse și Niolon.",
         "en": "Your cycling journey starts inland at the picturesque Saint-Michel Chapel before heading to the impressive Tunnel du Rove engineering marvel. By midday, pedal up towards the Oppidum de la Campane to uncover fascinating ancient ruins. In the afternoon, coast downhill to explore the coastal fortifications of Fort de Figuerolles. The ride gracefully concludes with the stunning sunset views from the calanques of La Vesse and Niolon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens in voller Regenkleidung zur versteckten Kapelle. Mittags fahren Sie vorbei am historischen Tunnel und dem alten Oppidum; bremsen Sie vorsichtig auf nassen Abfahrten. Nachmittags erfordern die Wege zur Festung auf den rutschigen Steinen extra Vorsicht. Beenden Sie die Tour an den stürmischen Buchten.",
+            "hu": "Tekerj ki reggel az eldugott kápolnához teljes esőfelszerelésben, dacolva az elemekkel. Délben a történelmi alagút és az ősi oppidum felé haladsz; fékezz óvatosan a nedves lejtőkön. A délutáni utak az erődhöz és az öblökhöz fokozott figyelmet igényelnek. Zárd a nyirkos utat a viharos hullámok látványával.",
+            "ro": "Pedalați dimineața spre capela ascunsă, purtând echipament complet de ploaie. La prânz treceți pe lângă tunelul istoric și vechiul oppidum; frânați cu grijă pe coborârile umede. Potecile de după-amiază spre fortăreață și golfuri necesită prudență suplimentară pe pietrele alunecoase. Încheiați traseul privind valurile.",
+            "en": "Cycle out in the morning to the hidden chapel, wearing full rain gear to brave the elements. Midday takes you past the historic tunnel and ancient oppidum; brake carefully on wet descents. Afternoon paths to the fort and calanques require extra caution on slippery stones. End the damp ride watching the stormy waves crash."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt im Regen friedlich; lassen Sie Ihr Fahrradlicht an und nutzen Sie Schutzbleche für den Weg.",
+                "hu": "A kis kápolna békés az esőben; kapcsold fel a bringalámpákat, és a sáros ösvényen sárvédő használata ajánlott.",
+                "ro": "Mica capelă arată senin în ploaie; țineți farurile bicicletei aprinse și folosiți apărători pentru noroi pe traseu.",
+                "en": "This small chapel looks serene in the rain; keep your bike lights on and use mudguards for the muddy trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel du Rove",
+                "hu": "Tunnel du Rove",
+                "ro": "Tunnel du Rove",
+                "en": "Tunnel du Rove"
+              },
+              "tip_5lang": {
+                "de": "Der Kanaleingang ist unter Regenwolken dramatisch; halten Sie Abstand vom schlammigen Wasserrand.",
+                "hu": "A csatorna bejárata drámai az esőfelhők alatt; állj hátrébb a sáros vízszéltől, hogy tiszta és biztonságos maradj.",
+                "ro": "Intrarea canalului este dramatică sub norii de ploaie; stați departe de marginea apei noroioase pentru a rămâne curat.",
+                "en": "The canal entrance is dramatic under rain clouds; stand back from the muddy water edge to stay clean and safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum de la Campane",
+                "hu": "Oppidum de la Campane",
+                "ro": "Oppidum de la Campane",
+                "en": "Oppidum de la Campane"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten keinen Schutz; genießen Sie kurz die Aussicht im Regencape, bevor Sie vorsichtig weiterfahren.",
+                "hu": "Az ókori romok nem adnak menedéket, így esőköpenyben élvezd röviden a kilátást, majd óvatosan tekerj tovább.",
+                "ro": "Ruinele antice nu oferă adăpost, așa că admirați priveliștea purtând pelerina de ploaie, apoi mergeți mai departe.",
+                "en": "The ancient ruins offer no shelter, so appreciate the view briefly in your rain cape before riding carefully on."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Figuerolles",
+                "hu": "Fort de Figuerolles",
+                "ro": "Fort de Figuerolles",
+                "en": "Fort de Figuerolles"
+              },
+              "tip_5lang": {
+                "de": "Der Steinweg zur Festung ist bei Nässe rutschig; steigen Sie ab und schieben Sie Ihr Rad, um die Anlage zu erkunden.",
+                "hu": "Az erődhöz vezető kőút nedvesen csúszik; szállj le, és told a biciklit, hogy biztonságosan felfedezd a védművet.",
+                "ro": "Poteca de piatră spre fort este alunecoasă; descălecați și împingeți bicicleta pentru a explora în siguranță fortăreața.",
+                "en": "The stone path to the fort is slippery when wet; dismount and push your bike to safely explore the coastal defense."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de la Vesse",
+                "hu": "Calanque de la Vesse",
+                "ro": "Calanque de la Vesse",
+                "en": "Calanque de la Vesse"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das imposante Viadukt im Regen; suchen Sie Schutz unter den Bögen und prüfen Sie Ihre nassen Bremsen.",
+                "hu": "Nézd meg az esőben magasodó impozáns viaduktot; keress menedéket a boltívek alatt, amíg ellenőrzöd a nedves fékeket.",
+                "ro": "Vedeți viaductul impresionant în ploaie; căutați adăpost sub arcade în timp ce verificați frânele umede ale bicicletei.",
+                "en": "See the impressive viaduct looming in the rain; seek cover under the arches while checking your bike's wet brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de Niolon",
+                "hu": "Calanque de Niolon",
+                "ro": "Calanque de Niolon",
+                "en": "Calanque de Niolon"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einem stimmungsvollen Blick; der steile Rückweg erfordert kleine Gänge auf Nässe.",
+                "hu": "Zárd a napot az öböl esős látványával; a meredek visszaút alacsony sebességfokozatot igényel a nedves úton.",
+                "ro": "Încheiați cu o vedere a golfului în ploaie; urcarea abruptă înapoi necesită viteze mici pe drumul umed.",
+                "en": "Finish with a moody view of the calanque; the steep ride back up requires low gears and steady traction on wet roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zur Kapelle ist frisch; Schichtenkleidung ist gegen den kalten Wind unerlässlich. Mittags wärmt Sie das Radeln am Tunnel und Oppidum. Die nachmittäglichen Abfahrten zu den Buchten sind zur goldenen Stunde atemberaubend. Beenden Sie die Tour bis 17 Uhr, da die Temperaturen rasch sinken.",
+            "hu": "A reggeli tekerés a kápolnához frissítő; a réteges öltözködés elengedhetetlen a hideg szél ellen. Délben az alagút és az oppidum felé a mozgás kellemesen melegen tart. A délutáni gurulás az erődhöz és az öblökhöz csodás az aranyórában. Fejezd be az utat 5 óra körül, mielőtt a hőmérséklet drasztikusan visszaesik.",
+            "ro": "Mersul de dimineață spre capelă este revigorant; îmbrăcămintea în straturi este esențială contra vântului rece. La prânz, pedalarea pe lângă tunel și oppidum vă ține cald. Coborârile de după-amiază spre fort și golfuri sunt uimitoare la ora de aur. Încheiați traseul până la 17:00, când temperaturile scad brusc.",
+            "en": "Morning riding to the chapel is brisk; layered clothing is essential against the cold wind. Midday brings you to the Rove tunnel and historic oppidum, where cycling keeps you comfortably warm. Afternoon descents to the fort and calanques are stunning in the golden hour. Finish the ride by 5 PM as temperatures drop rapidly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte Architektur vor dem Winterhimmel; tragen Sie winddichte Handschuhe für die Auffahrt.",
+                "hu": "Csodáld meg az egyszerű építészetet a téli éggel a háttérben; viselj szélálló kerékpáros kesztyűt a nyitott szakaszon.",
+                "ro": "Admirați arhitectura simplă pe fundalul cerului de iarnă; purtați mănuși de ciclism rezistente la vânt pentru urcare.",
+                "en": "Admire the simple architecture against the winter sky; wear windproof cycling gloves for the exposed ride up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Tunnel du Rove",
+                "hu": "Tunnel du Rove",
+                "ro": "Tunnel du Rove",
+                "en": "Tunnel du Rove"
+              },
+              "tip_5lang": {
+                "de": "Ein architektonisches Wunder, das im Winter leicht unheimlich wirkt; bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "Mérnöki csoda, ami kissé kísérteties a téli hidegben; maradj mozgásban, hogy megőrizd a testhőmérsékletedet.",
+                "ro": "O minune inginerească ce pare ușor stranie în frigul iernii; continuați să vă mișcați pentru a vă menține căldura corporală.",
+                "en": "An engineering marvel that feels slightly eerie in the winter cold; keep moving to maintain your core body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum de la Campane",
+                "hu": "Oppidum de la Campane",
+                "ro": "Oppidum de la Campane",
+                "en": "Oppidum de la Campane"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die kalten Hügel; der klare Winterhimmel bietet hier oft die weiteste Sicht.",
+                "hu": "Gyönyörködj a hideg dombok panorámájában; a tiszta téli égbolt gyakran innen nyújtja a legnagyobb látótávolságot.",
+                "ro": "Admirați vederea panoramică a dealurilor reci; cerul senin de iarnă oferă adesea cea mai bună vizibilitate de aici.",
+                "en": "Take in the panoramic views of the cold hills; winter clear skies often provide the longest visibility from this peak."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Figuerolles",
+                "hu": "Fort de Figuerolles",
+                "ro": "Fort de Figuerolles",
+                "en": "Fort de Figuerolles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit der Ruinen im Winter; parken Sie Ihr Rad sicher, da der Küstenwind es leicht umwerft.",
+                "hu": "Élvezd a romok zord szépségét télen; parkold le stabilan a bringát, mert a téli parti szél könnyen felboríthatja.",
+                "ro": "Bucurați-vă de frumusețea aspră a ruinelor; parcați bicicleta în siguranță, deoarece vânturile de coastă o pot răsturna.",
+                "en": "Enjoy the stark beauty of the ruins in winter; park your bike securely as coastal winter winds can easily blow it over."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de la Vesse",
+                "hu": "Calanque de la Vesse",
+                "ro": "Calanque de la Vesse",
+                "en": "Calanque de la Vesse"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist unter der Wintersonne atemberaubend; fahren Sie vorsichtig hinab, da schattige Straßen frostig sind.",
+                "hu": "Az apró kikötő lenyűgöző a téli napsütésben; tekerj le óvatosan, mert az árnyékos meredek utak déresek lehetnek.",
+                "ro": "Micul port este uimitor sub soarele de iarnă; coborâți cu grijă, deoarece drumurile abrupte umbrite pot fi înghețate.",
+                "en": "The tiny port is stunning under the winter sun; cycle down carefully as the shaded steep roads can be frosty and slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de Niolon",
+                "hu": "Calanque de Niolon",
+                "ro": "Calanque de Niolon",
+                "en": "Calanque de Niolon"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt an dieser Bucht vor der Dämmerung; bringen Sie gutes Licht für den Heimweg nach 17 Uhr mit.",
+                "hu": "Fejezd be az utat a festői öbölnél sötétedés előtt; a korai, 5 órás naplemente miatt jó lámpákra lesz szükséged.",
+                "ro": "Încheiați cursa la acest golf pitoresc înainte de amurg; apusul de la ora 17:00 înseamnă că aveți nevoie de lumini bune.",
+                "en": "End your ride at this picturesque cove before dusk; the early sunset at 5 PM means you need good lights for the ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Autóstúrája a Tunnel du Rove mérnöki csodáit köti össze a Saint-Michel kápolna északi, vidéki nyugalmával. Az Oppidum de la Campane-hoz vezető utazás után történelmi kilátásban lesz része az egész régióra. A délután elegendő időt kínál arra, hogy kényelmesen végigautózzon a déli partvidék gyönyörű strandjain. Végül a rejtett calanque-ok egyedülálló, békés tengeri hangulattal csábítanak kora este.",
         "ro": "Turul cu mașina combină minunile tehnice ale Tunnel du Rove cu liniștea rurală a Capelei Saint-Michel în nord. După o plimbare spre Oppidum de la Campane, bucurați-vă de vederi istorice asupra întregii regiuni. După-amiaza oferă suficient timp pentru a conduce confortabil de-a lungul plajelor din sud. În cele din urmă, calancile ascunse atrag cu o atmosferă maritimă unică seara devreme.",
         "en": "This driving tour seamlessly connects the engineering wonder of the Tunnel du Rove with the rustic tranquility of the Saint-Michel Chapel up north. Following a scenic drive to the Oppidum de la Campane, you are treated to sweeping regional views. The afternoon allows plenty of time to comfortably beach-hop along the beautiful southern coastline. Ultimately, the hidden calanques draw you in for a captivating maritime sunset experience."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Autotour am historischen Tunnel und nutzen Sie das Auto als gemütlichen Zufluchtsort. Mittags besuchen Sie die Kapelle und das Oppidum; packen Sie einen Regenschirm ein. Die Küstenstraßen am Nachmittag sind rutschig, fahren Sie vorsichtig. Beenden Sie die Tour an den stürmischen Buchten sicher aus dem Auto.",
+            "hu": "Kezdd autós túrádat a történelmi alagútnál, az autót meleg menedékként használva a megállók között. Délben a kápolnát és az oppidumot nézed meg; vigyél esernyőt a rövid sétákhoz. A délutáni parti utak csúszósak, vezess óvatosan a strandok felé. Zárd a napot a viharos öblöknél, biztonságból figyelve a tengert.",
+            "ro": "Începeți turul cu mașina la tunelul istoric, folosind mașina ca un refugiu confortabil între opriri. La prânz vizitați capela și oppidum-ul; luați o umbrelă. Drumurile de coastă de după-amiază sunt alunecoase, conduceți cu prudență pe curbele spre plaje. Încheiați la golfurile furtunoase, admirând marea în siguranță.",
+            "en": "Start your driving tour at the historic tunnel, using your car as a cozy refuge between stops. Midday brings you to the chapel and oppidum; pack an umbrella for short walks. Afternoon coastal roads are slick, so drive the winding curves carefully to the beaches. Finish at the stormy calanques, enjoying the dramatic sea safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tunnel du Rove",
+                "hu": "Tunnel du Rove",
+                "ro": "Tunnel du Rove",
+                "en": "Tunnel du Rove"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den eingestürzten Kanaltunnel aus dem trockenen Auto, bevor Sie kurz mit Schirm aussteigen.",
+                "hu": "Nézd meg a hatalmas beomlott csatornaalagutat a száraz autóból, mielőtt röviden kiszállnál egy esernyővel.",
+                "ro": "Priviți masivul tunel de canal prăbușit din siguranța mașinii uscate înainte de a ieși scurt cu o umbrelă.",
+                "en": "View the massive collapsed canal tunnel from the safety of your dry car before stepping out briefly with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an der einsamen Kapelle und bewundern Sie, wie das Steingebäude dem starken Regen trotzt.",
+                "hu": "Parkolj közel a magányos kápolnához, és csodáld meg kőépületét, ahogy dacol a heves esővel és a parti széllel.",
+                "ro": "Parcați aproape de această capelă singuratică și admirați structura sa de piatră ce înfruntă ploaia puternică.",
+                "en": "Park close to this lonely chapel and admire its resilient stone structure braving the heavy rain and coastal squalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum de la Campane",
+                "hu": "Oppidum de la Campane",
+                "ro": "Oppidum de la Campane",
+                "en": "Oppidum de la Campane"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hinauf bietet einen stimmungsvollen Blick auf die antike Siedlung; achten Sie auf schlammige Pfützen.",
+                "hu": "A felhajtás során hangulatos kilátás nyílik az ókori településre; vigyázz a sáros tócsákkal, ha kiszállsz sétálni.",
+                "ro": "Urcarea oferă o priveliște cu atmosferă a așezării antice; aveți grijă la bălțile de noroi dacă vă plimbați.",
+                "en": "Driving up gives a moody view of the ancient settlement; be careful of muddy puddles if you decide to walk the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de La Lave",
+                "hu": "Plage de La Lave",
+                "ro": "Plage de La Lave",
+                "en": "Plage de La Lave"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie vom Parkplatz, wie der Regen auf das Meer trifft; ein toller Ort, um dem Regen auf dem Dach zu lauschen.",
+                "hu": "Nézd a parkolóból, ahogy az eső veri a tenger felszínét; remek hely hallgatni az időjárás dobolását a tetőn.",
+                "ro": "Priviți din parcare cum ploaia lovește suprafața mării; un loc minunat pentru a asculta vremea bătând pe acoperiș.",
+                "en": "Watch the rain pockmark the sea surface from the parking lot; a great spot to listen to the weather drumming on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Batterie",
+                "hu": "Plage de la Batterie",
+                "ro": "Plage de la Batterie",
+                "en": "Plage de la Batterie"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenaussicht ist grau und kraftvoll; meiden Sie die Klippenränder, da die felsigen Pfade gefährlich rutschig werden.",
+                "hu": "A parti kilátás szürke és erőteljes; kerüld a sziklaszéleket, mert az ösvények veszélyesen csúszóssá válnak.",
+                "ro": "Priveliștile de coastă sunt gri și puternice; evitați marginea stâncilor deoarece potecile devin periculos de alunecoase.",
+                "en": "The coastal views are grey and powerful; avoid walking near the edge as the rocky paths get dangerously slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Figuerolles",
+                "hu": "Fort de Figuerolles",
+                "ro": "Fort de Figuerolles",
+                "en": "Fort de Figuerolles"
+              },
+              "tip_5lang": {
+                "de": "Die Festungsruinen wirken im Sturm imposant; huschen Sie im Regenmantel hinaus, um die alten Mauern zu sehen.",
+                "hu": "Az erőd romjai tekintélyt parancsolóak a viharban; szaladj ki esőkabátban megnézni az öreg falakat, majd siess vissza.",
+                "ro": "Ruinele fortăreței par impunătoare în furtună; ieșiți rapid în pelerină pentru a vedea zidurile vechi, apoi retrageți-vă.",
+                "en": "The fortress ruins look imposing in the storm; dash out in your raincoat to see the old walls, then retreat to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de la Vesse",
+                "hu": "Calanque de la Vesse",
+                "ro": "Calanque de la Vesse",
+                "en": "Calanque de la Vesse"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die kurvige, nasse Straße hinab; das Viadukt bietet Schutz, wenn Sie zu Fuß erkunden.",
+                "hu": "Vezess óvatosan a kanyargós, nedves úton az öbölbe; a viadukt átmeneti menedéket nyújt, ha gyalog fedezed fel.",
+                "ro": "Conduceți cu atenție pe drumul șerpuit și umed spre acest golf; viaductul oferă adăpost temporar dacă explorați pe jos.",
+                "en": "Drive carefully down the winding, wet road to this cove; the viaduct provides temporary shelter if you explore on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de Niolon",
+                "hu": "Calanque de Niolon",
+                "ro": "Calanque de Niolon",
+                "en": "Calanque de Niolon"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie und beobachten Sie den Regen über dem Mittelmeer; die nassen Kalksteinhäuser wirken wie ein Gemälde.",
+                "hu": "Parkolj le, és nézd, ahogy az eső elmossa a horizontot; a nedves mészkőházak úgy festenek, mint egy impresszionista festmény.",
+                "ro": "Parcați și priviți ploaia estompând orizontul; casele umede de calcar arată ca o pictură impresionistă.",
+                "en": "Park and watch the rain blur the horizon over the Mediterranean; the wet limestone houses look like an impressionist painting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendlichen Fahrten zum Tunnel und zur Kapelle sind mit Heizung gemütlich. Die Stopps am Mittag am Oppidum und an den Stränden bieten klare Luft und Ruhe; ziehen Sie sich warm an. Die nachmittägliche Fahrt an der Küste ist im tiefen Licht spektakulär. Beenden Sie die Buchten, bevor es um 17 Uhr dunkel wird.",
+            "hu": "A reggeli vezetés az alagúthoz és a kápolnához kényelmes a bekapcsolt fűtéssel a kinti hideg ellenére. A déli megállók tiszta levegőt és csendet kínálnak; öltözz melegen a felfedezéshez. A délutáni parti vezetés lenyűgöző az alacsony napfényben. Az öblökkel fejezd be a túrát, mielőtt 5 órakor leszáll az éj.",
+            "ro": "Conducerea de dimineață spre tunel și capelă este confortabilă cu căldura pornită, contrastând cu frigul de afară. Opririle de la prânz oferă aer proaspăt și liniște; îmbrăcați-vă gros. Drumul de după-amiază de-a lungul coastei este spectaculos în lumina blândă. Încheiați vizita la golfuri chiar înainte de întunericul de la ora 17:00.",
+            "en": "Morning drives to the tunnel and chapel are comfortable with the heater on, contrasting the cold outside. Midday stops at the oppidum and beaches offer crisp air and fewer crowds; wrap up warm for exploring. Afternoon driving along the coast is spectacular in the low light. Finish the calanques just before the 5 PM darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tunnel du Rove",
+                "hu": "Tunnel du Rove",
+                "ro": "Tunnel du Rove",
+                "en": "Tunnel du Rove"
+              },
+              "tip_5lang": {
+                "de": "Dieses Industriedenkmal ist faszinierend; steigen Sie aus dem warmen Auto, um den frostigen Steinbogen zu fotografieren.",
+                "hu": "Ez az ipari emlék lenyűgöző; szállj ki a meleg autóból, és fotózd le a dércsípte kőboltívet.",
+                "ro": "Această relicvă industrială este fascinantă; ieșiți din mașina caldă pentru a fotografia arcada de piatră acoperită de brumă.",
+                "en": "This industrial relic is fascinating; step out of the warm car to take photos of the frost-covered stone archway."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Michel",
+                "hu": "Chapelle Saint-Michel",
+                "ro": "Chapelle Saint-Michel",
+                "en": "Chapelle Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Die isolierte Kapelle wirkt wunderschön in der Winterlandschaft; lassen Sie den Motor kurz laufen für eine warme Kabine.",
+                "hu": "Az elszigetelt kápolna gyönyörűen fest a téli tájban; hagyd járni a motort, hogy meleg utastérbe térhess vissza.",
+                "ro": "Capela izolată arată superb în peisajul de iarnă; lăsați motorul pornit pentru a vă întoarce într-o cabină caldă.",
+                "en": "The isolated chapel stands beautifully in the winter landscape; leave the engine running to return to a warm cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Oppidum de la Campane",
+                "hu": "Oppidum de la Campane",
+                "ro": "Oppidum de la Campane",
+                "en": "Oppidum de la Campane"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf das kalte Buschland; die klare Winterluft ermöglicht weite Sichten an der Küste.",
+                "hu": "Élvezd a hideg bozótos panorámáját; a tiszta téli levegő mérföldekre ellátni enged a zord partvonal mentén.",
+                "ro": "Bucurați-vă de priveliștile panoramice ale tufișurilor reci; aerul curat de iarnă vă permite să vedeți kilometri întregi.",
+                "en": "Enjoy panoramic views of the cold scrubland; the clear winter air allows you to see miles along the rugged coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de La Lave",
+                "hu": "Plage de La Lave",
+                "ro": "Plage de La Lave",
+                "en": "Plage de La Lave"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Stopp für einen Spaziergang am Winterstrand; trinken Sie einen heißen Kaffee, bevor Sie weiterfahren.",
+                "hu": "Békés megálló egy téli tengerparti sétához; igyál egy forró kávét a termoszból, mielőtt visszatérsz a volán mögé.",
+                "ro": "O oprire liniștită pentru o plimbare pe plaja de iarnă; beți o cafea caldă din termos înainte de a reveni la volan.",
+                "en": "A peaceful stop to stroll on the winter beach; grab a hot coffee from a thermos before returning to the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Batterie",
+                "hu": "Plage de la Batterie",
+                "ro": "Plage de la Batterie",
+                "en": "Plage de la Batterie"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang an der rauen Küste; die Wintersonne wirft lange Schatten auf die Kiesel.",
+                "hu": "Tegyél egy frissítő sétát a zord partvidéken; a téli nap hosszú, drámai árnyékokat vet a kavicsokra és a hullámokra.",
+                "ro": "Faceți o plimbare rapidă pentru a vedea coasta accidentată; soarele de iarnă aruncă umbre lungi și dramatice pe valuri.",
+                "en": "Take a brisk walk to see the rugged coastline; the winter sun casts long, dramatic shadows over the pebbles and waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Figuerolles",
+                "hu": "Fort de Figuerolles",
+                "ro": "Fort de Figuerolles",
+                "en": "Fort de Figuerolles"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie kurz zur Festung für unglaubliche frostige Aussichten; tragen Sie eine dicke Mütze gegen den kalten Wind.",
+                "hu": "Túrázz fel röviden az erődhöz a lenyűgöző jeges kilátásért; viselj vastag sapkát, mert a parti szél fagyos decemberben.",
+                "ro": "Urcați scurt spre fort pentru priveliști uimitoare de iarnă; purtați o căciulă groasă, deoarece vânturile sunt înghețate.",
+                "en": "Hike briefly up to the fort for incredible frosty views; wear a thick hat as the headland winds are freezing in December."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de la Vesse",
+                "hu": "Calanque de la Vesse",
+                "ro": "Calanque de la Vesse",
+                "en": "Calanque de la Vesse"
+              },
+              "tip_5lang": {
+                "de": "Ein atemberaubender Ort im Winterlicht; achten Sie auf Glatteis auf der steilen, schattigen Abfahrt in die Bucht.",
+                "hu": "Lenyűgöző hely a téli fényekben; vigyázz a fekete jéggel a meredek, árnyékos lejtőn a kis öböl felé.",
+                "ro": "Un loc uimitor în lumina iernii; aveți grijă la gheața neagră pe coborârea abruptă și umbrită spre micul golf.",
+                "en": "A stunning spot under the winter light; be cautious of black ice on the steep, shaded descent into the small calanque."
+              }
+            },
+            {
+              "name": {
+                "de": "Calanque de Niolon",
+                "hu": "Calanque de Niolon",
+                "ro": "Calanque de Niolon",
+                "en": "Calanque de Niolon"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt im stillen Wintercharme des Hafens; fahren Sie vor 17 Uhr ab, da die kurvigen Straßen dunkel sind.",
+                "hu": "Zárd a vezetést a kikötő csendes téli bájával; indulj el 5 óra előtt, mert a kanyargós utak sötétek lesznek.",
+                "ro": "Încheiați drumul bucurându-vă de farmecul liniștit de iarnă al portului; asigurați-vă că plecați înainte de ora 17:00.",
+                "en": "End your drive enjoying the quiet winter charm of the port; make sure to leave before 5 PM as the winding roads are dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

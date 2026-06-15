@@ -114,6 +114,140 @@
         "hu": "A reggel az ősi kőépítészet és a helyi történelem felfedezésével kezdődik.\n\nA dél a hagyományos kultúra és a vallási örökség szívébe invitál.\n\nA délután lenyűgöző természeti tájakra és békés kilátásokra vált.\n\nAz este egy csendes elmélkedéssel zárja az utazást a történelmi kisváros felett.",
         "ro": "Dimineața începe cu explorarea arhitecturii din piatră și istoriei locale.\n\nMiezul zilei vă invită în inima culturii tradiționale și a moștenirii religioase.\n\nDupă-amiaza trece la peisaje naturale vaste și vederi senine.\n\nSeara încheie călătoria cu o reflecție liniștită asupra orașului istoric.",
         "en": "Morning begins with exploring ancient stone architecture and local history.\n\nMidday invites you into the heart of traditional culture and religious heritage.\n\nAfternoon shifts to sweeping natural landscapes and serene views.\n\nEvening wraps up the journey with a quiet reflection over the historical town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der nebligen Stonebridge, wo der Regen die alten Steine glänzen lässt. Mittags bietet das Ethnografische Museum einen perfekten, trockenen Zufluchtsort in die Geschichte Albaniens. Nachmittags schützt das Vordach der Basar-Moschee vor Güssen, bevor es zum Aussichtspunkt geht. Den Abend genießt man am besten bei der Beobachtung der Wolken, die über die Burgmauern ziehen.",
+            "hu": "A reggel a ködös Stonebridge-nél indul, ahol az eső fényessé teszi az ősi köveket. Délben a Néprajzi Múzeum nyújt tökéletes, száraz menedéket az albán történelem felfedezéséhez. Délután a Bazár-mecset eresze véd a záporoktól, mielőtt a kilátó felé vennénk az irányt. Az estét érdemes a várfalak felett úszó felhők látványával zárni, miközben az eső kopog a tetőkön.",
+            "ro": "Dimineața începe la Stonebridge, unde ploaia face pietrele vechi să strălucească sub ceață. La prânz, Muzeul Etnografic oferă un refugiu uscat perfect pentru a explora istoria Albaniei. După-amiaza, streașina Moscheii Bazarului protejează de averse înainte de a urca spre punctul de belvedere. Seara este cel mai bine petrecută admirând norii care trec peste zidurile cetății.",
+            "en": "The morning starts at the misty Stonebridge, where rain makes the ancient stones glisten. At noon, the Ethnographic Museum provides a perfect, dry sanctuary to explore Albanian history. In the afternoon, the eaves of the Bazaar Mosque offer shelter from downpours before heading to the viewpoint. Spend the evening watching the clouds dance over the castle walls as the rain falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stonebridge",
+                "hu": "Stonebridge",
+                "ro": "Stonebridge",
+                "en": "Stonebridge"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die osmanische Architektur im Regen, aber gehen Sie vorsichtig, da die runden Steine bei Nässe sehr rutschig werden können; festes Schuhwerk ist hier Pflicht.",
+                "hu": "Csodálja meg az oszmán építészetet az esőben, de vigyázzon, mert a kerek kövek vizesen rendkívül csúszósak; a stabil, tapadós talpú cipő elengedhetetlen ezen a szakaszon.",
+                "ro": "Admirați arhitectura otomană în ploaie, dar mergeți cu grijă deoarece pietrele rotunde devin foarte alunecoase când sunt ude; încălțămintea aderentă este obligatorie aici.",
+                "en": "Admire the Ottoman architecture in the rain, but walk carefully as the round stones become extremely slippery when wet; sturdy footwear is a must for this historical crossing."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Ethnografisches Museum",
+                "hu": "Nemzeti Néprajzi Múzeum",
+                "ro": "Muzeul Național Etnografic",
+                "en": "National Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen umfassenden Indoor-Stopp, um im Trockenen die traditionelle Lebensweise zu erkunden; das alte Haus ist der beste Ort, um einen starken Regenschauer abzuwarten.",
+                "hu": "Használja ki ezt a belső teret, hogy szárazon ismerje meg a hagyományos életmódot; a régi udvarház a legjobb hely Krujë-ban egy kiadósabb zápor átvészelésére.",
+                "ro": "Profită de acest popas interior pentru a explora modul de viață tradițional la adăpost; vechea casă este cel mai bun loc din Krujë pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Take advantage of this indoor stop to explore traditional lifestyles while staying dry; the old manor house is the best place in Krujë to wait out a heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Basar-Moschee",
+                "hu": "Bazár mecset",
+                "ro": "Moscheea Bazarului",
+                "en": "Bazaar Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee bietet eine ruhige Atmosphäre und Schutz vor dem Wetter; achten Sie auf die kunstvollen Malereien im Inneren, während draußen der Regen auf das Kopfsteinpflaster trommelt.",
+                "hu": "A mecset nyugodt légkört és védelmet nyújt az időjárás elől; figyelje meg a belső festményeket, miközben odakint az eső kopog a bazár macskaköves utcáin.",
+                "ro": "Moscheea oferă o atmosferă liniștită și protecție împotriva vremii; admirați picturile interioare în timp ce afară ploaia bate în pavajul de piatră al bazarului.",
+                "en": "The mosque offers a peaceful atmosphere and shelter from the weather; observe the intricate interior paintings while the rain drums on the bazaar's cobblestones outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt über die Stadt",
+                "hu": "Városi kilátó",
+                "ro": "Punct de belvedere asupra orașului",
+                "en": "View Point over City"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die mystische Stimmung, wenn der Nebel tief in den Bergen hängt; ein Regenschirm ist bei diesem exponierten Stopp wegen des oft böigen Windes weniger effektiv als ein Poncho.",
+                "hu": "Élje át a misztikus hangulatot, amikor a köd alacsonyan száll a hegyek között; ezen a nyitott ponton egy esőponcho többet ér a szél miatt, mint egy esernyő.",
+                "ro": "Experimentați atmosfera mistică atunci când ceața coboară peste munți; o pelerină de ploaie este mai utilă decât o umbrelă în acest punct expus din cauza vântului.",
+                "en": "Experience the mystical atmosphere when the fog hangs low in the mountains; a rain poncho is more effective than an umbrella at this exposed spot due to gusty winds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht den Morgen an der Stonebridge besonders erfrischend. Mittags wärmen die dicken Mauern des Ethnografischen Museums auf, während man in die Kultur eintaucht. Nachmittags leuchtet die Basar-Moschee im tiefstehenden Sonnenlicht. Da die Sonne bereits gegen 17:00 Uhr hinter den Bergen verschwindet, sollte man den Aussichtspunkt frühzeitig für das Abendrot besuchen.",
+            "hu": "A friss téli levegő különösen üdítővé teszi a reggelt a Stonebridge-nél. Délben a Néprajzi Múzeum vastag falai között melegedhetünk fel, miközben elmerülünk a kultúrában. Délután a Bazár-mecset csillog a laposan érkező napsütésben. Mivel a nap 17:00 körül már eltűnik a hegyek mögött, érdemes korán a kilátóhoz érni az alkonyi fényekért.",
+            "ro": "Aerul rece de iarnă face dimineața la Stonebridge deosebit de revigorantă. La prânz, zidurile groase ale Muzeului Etnografic te încălzesc în timp ce te cufunzi în cultură. După-amiaza, Moscheea Bazarului strălucește în lumina joasă a soarelui. Deoarece soarele apune după munte în jurul orei 17:00, vizitați punctul de belvedere devreme pentru amurg.",
+            "en": "The crisp winter air makes the morning at Stonebridge especially refreshing. At noon, the thick walls of the Ethnographic Museum provide warmth while you immerse yourself in culture. In the afternoon, the Bazaar Mosque glows in the low sunlight. As the sun sets behind the mountains around 17:00, visit the viewpoint early to catch the winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stonebridge",
+                "hu": "Stonebridge",
+                "ro": "Stonebridge",
+                "en": "Stonebridge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den freien Blick auf die schneebedeckten Gipfel in der Ferne; tragen Sie warme Socken, da die Kälte des Steins schnell durch dünne Schuhsohlen zieht.",
+                "hu": "Élvezze a tiszta kilátást a távoli havas csúcsokra; viseljen meleg zoknit, mert a kövek hidege gyorsan átjárja a vékonyabb talpú cipőket a reggeli órákban.",
+                "ro": "Bucurați-vă de vederea clară spre vârfurile înzăpezite din depărtare; purtați șosete groase, deoarece frigul pietrei pătrunde rapid prin tălpile subțiri ale pantofilor.",
+                "en": "Enjoy the clear views of distant snow-capped peaks; wear warm socks as the cold from the stone floor can quickly penetrate thin shoe soles in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Ethnografisches Museum",
+                "hu": "Nemzeti Néprajzi Múzeum",
+                "ro": "Muzeul Național Etnografic",
+                "en": "National Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter ein gemütlicher Rückzugsort; die authentische Innenausstattung zeigt, wie die Einheimischen früher die kalten Bergwinter in ihren Häusern verbrachten.",
+                "hu": "A múzeum télen barátságos menedék; az autentikus belső terek hűen bemutatják, hogyan vészelték át a helyiek régen a hideg hegyi teleket otthonaikban.",
+                "ro": "Muzeul este un refugiu primitor iarna; interioarele autentice arată cum localnicii treceau peste iernile reci de munte în casele lor în vremurile trecute.",
+                "en": "The museum is a cozy retreat in winter; the authentic interiors show how locals used to spend the cold mountain winters in their homes in the past."
+              }
+            },
+            {
+              "name": {
+                "de": "Basar-Moschee",
+                "hu": "Bazár mecset",
+                "ro": "Moscheea Bazarului",
+                "en": "Bazaar Mosque"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier besonders ruhig; nutzen Sie die Stille für eine kurze Meditation und wärmen Sie sich auf, bevor Sie den Aufstieg zum windigen Aussichtspunkt wagen.",
+                "hu": "Télen különösen nagy itt a nyugalom; használja ki a csendet egy rövid meditációra és melegedjen fel, mielőtt elindulna a szeles kilátó felé vezető emelkedőn.",
+                "ro": "Iarna este deosebit de liniște aici; profitați de tăcere pentru o scurtă meditație și încălziți-vă înainte de a porni spre punctul de belvedere vântos.",
+                "en": "It is exceptionally quiet here in winter; take advantage of the silence for a brief meditation and warm up before starting the climb to the windy viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt über die Stadt",
+                "hu": "Városi kilátó",
+                "ro": "Punct de belvedere asupra orașului",
+                "en": "View Point over City"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine Thermoskanne mit Tee mit, um den frühen Sonnenuntergang gegen 17:00 Uhr zu genießen, wenn die Temperaturen oben am Berg rapide sinken.",
+                "hu": "Hozzon magával egy termosz forró teát, hogy élvezhesse a korai, 17:00 körüli naplementét, amikor a hőmérséklet a hegytetőn hirtelen zuhanni kezd.",
+                "ro": "Aduceți un termos cu ceai fierbinte pentru a vă bucura de apusul timpuriu de la ora 17:00, când temperaturile pe munte încep să scadă brusc.",
+                "en": "Bring a thermos with hot tea to enjoy the early sunset around 17:00, as temperatures on the mountain top begin to drop rapidly once the sun is gone."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -245,6 +379,168 @@
         "hu": "A reggel az ősi kőépítészet és a helyi történelem felfedezésével kezdődik.\n\nA dél a hagyományos kultúra és a vallási örökség szívébe invitál.\n\nA délután lenyűgöző természeti tájakra és békés kilátásokra vált.\n\nAz este egy csendes elmélkedéssel zárja az utazást a történelmi kisváros felett.",
         "ro": "Dimineața începe cu explorarea arhitecturii din piatră și istoriei locale.\n\nMiezul zilei vă invită în inima culturii tradiționale și a moștenirii religioase.\n\nDupă-amiaza trece la peisaje naturale vaste și vederi senine.\n\nSeara încheie călătoria cu o reflecție liniștită asupra orașului istoric.",
         "en": "Morning begins with exploring ancient stone architecture and local history.\n\nMidday invites you into the heart of traditional culture and religious heritage.\n\nAfternoon shifts to sweeping natural landscapes and serene views.\n\nEvening wraps up the journey with a quiet reflection over the historical town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt vorsichtig an der nassen Stonebridge. Mittags bietet das Museum eine lange Pause, um dem stärksten Regen zu entgehen. Die Fahrt zur Sari-Salltiku-Höhle führt steil bergauf, doch die Höhle selbst ist ein trockener Naturhafen. Am Nachmittag wirkt der Liqeni i Baruneve im Regen melancholisch und ruhig. Der Abend schließt mit einer erfrischenden Abfahrt im kühlen Nass.",
+            "hu": "A bringás nap óvatosan indul a vizes Stonebridge-nél. Délben a múzeum hosszú pihenőt kínál, hogy elkerüljük a legerősebb esőt. Az út a Sari Salltiku barlanghoz meredek, de maga a barlang száraz természeti menedék. Délután a Liqeni i Baruneve melankolikus és csendes az esőben. Az este egy frissítő, de vizes lejtmenettel zárul a város felé.",
+            "ro": "Ziua de ciclism începe cu prudență la Stonebridge-ul ud. La prânz, muzeul oferă o pauză lungă pentru a evita ploaia cea mai puternică. Drumul spre Peștera Sari Salltiku este abrupt, dar peștera este un adăpost natural uscat. După-amiaza, Liqeni i Baruneve pare melancolic și liniștit în ploaie. Seara se încheie cu o coborâre revigorantă prin aerul umed.",
+            "en": "The cycling day starts cautiously at the wet Stonebridge. At noon, the museum offers a long break to avoid the heaviest rain. The ride to Sari Salltiku's Cave is steep, but the cave itself is a dry natural harbor. In the afternoon, Liqeni i Baruneve looks melancholic and peaceful in the rain. The evening concludes with a refreshing but wet descent back to the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stonebridge",
+                "hu": "Stonebridge",
+                "ro": "Stonebridge",
+                "en": "Stonebridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie extrem langsam über die Brücke; die nassen Pflastersteine bieten kaum Grip, daher ist es sicherer, das Fahrrad hier für ein kurzes Stück zu schieben.",
+                "hu": "Hajtson rendkívül lassan a hídon; a vizes macskaköveken szinte nincs tapadás, ezért biztonságosabb, ha ezen a rövid szakaszon inkább tolja a kerékpárt.",
+                "ro": "Mergeți extrem de încet pe pod; pavajul ud nu oferă aderență, așa că este mai sigur să împingeți bicicleta pentru această distanță scurtă.",
+                "en": "Ride extremely slowly across the bridge; the wet cobblestones offer almost no grip, so it is safer to push your bike for this short section."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Ethnografisches Museum",
+                "hu": "Nemzeti Néprajzi Múzeum",
+                "ro": "Muzeul Național Etnografic",
+                "en": "National Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung zu lüften; nutzen Sie die Zeit für eine ausführliche Besichtigung, während Ihr Rad sicher im geschützten Bereich steht.",
+                "hu": "Ideális hely az esőruházat szellőztetésére; használja ki az időt egy alapos látogatásra, miközben a bringa védett helyen pihen a múzeum közelében.",
+                "ro": "Un loc ideal pentru a aerisi echipamentul de ploaie; profitați de timp pentru o vizită detaliată în timp ce bicicleta stă într-o zonă protejată.",
+                "en": "An ideal place to air out your rain gear; take your time for a detailed visit while your bike rests in a sheltered area near the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Basar-Moschee",
+                "hu": "Bazár mecset",
+                "ro": "Moscheea Bazarului",
+                "en": "Bazaar Mosque"
+              },
+              "tip_5lang": {
+                "de": "Der Basarweg ist bei Regen tückisch; achten Sie auf Fußgänger mit Regenschirmen und nutzen Sie die Moschee für einen kurzen Moment der Besinnung im Trockenen.",
+                "hu": "A bazár útja esőben trükkös; ügyeljen az esernyős gyalogosokra, és használja a mecsetet egy rövid, száraz pihenőre a következő emelkedő előtt.",
+                "ro": "Drumul prin bazar este înșelător pe ploaie; atenție la pietonii cu umbrele și folosiți moscheea pentru un moment scurt de liniște la adăpost.",
+                "en": "The bazaar path is tricky in the rain; watch out for pedestrians with umbrellas and use the mosque for a brief, dry moment of reflection before the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Höhle von Sari Salltiku",
+                "hu": "Sari Salltiku barlangja",
+                "ro": "Peștera lui Sari Salltiku",
+                "en": "Sari Salltiku's Cave"
+              },
+              "tip_5lang": {
+                "de": "Diese natürliche Höhle ist der beste Zufluchtsort am Berg; genießen Sie den Blick auf die regenverhangene Ebene Albaniens, während Sie völlig geschützt sind.",
+                "hu": "Ez a természetes barlang a legjobb menedék a hegyen; élvezze a kilátást Albánia esőáztatta síkságaira, miközben Ön teljesen védett helyen van.",
+                "ro": "Această peșteră naturală este cel mai bun refugiu de pe munte; admirați vederea spre câmpia inundată de ploaie în timp ce sunteți complet protejat.",
+                "en": "This natural cave is the best sanctuary on the mountain; enjoy the view over Albania's rain-soaked plains while staying completely sheltered inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Baruneve",
+                "hu": "Liqeni i Baruneve",
+                "ro": "Liqeni i Baruneve",
+                "en": "Liqeni i Baruneve"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg kann schlammig sein; prüfen Sie den Untergrund genau, bevor Sie zu nah ans Wasser fahren, und bereiten Sie sich auf eine kühle Rückfahrt vor.",
+                "hu": "A tóparti út sáros lehet; alaposan ellenőrizze a talajt, mielőtt túl közel hajtana a vízhez, és készüljön fel a hűvös visszaútra a városba.",
+                "ro": "Poteca de pe malul lacului poate fi noroioasă; verificați bine terenul înainte de a vă apropia de apă și pregătiți-vă pentru o întoarcere răcoroasă.",
+                "en": "The lakeside path can be muddy; check the ground carefully before riding too close to the water and prepare for a chilly return ride to the city."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen fordert mit eisiger Luft auf dem Weg zur Stonebridge. Mittags ist das Museum ein willkommener Ort zum Aufwärmen der Finger und Füße. Die Auffahrt zur Sari-Salltiku-Höhle hält den Körper warm, während die Höhle eine konstante Temperatur bietet. Am Liqeni i Baruneve weht ein kalter Wind, daher sollte man die Tour rechtzeitig vor dem Sonnenuntergang um 17:00 Uhr beenden.",
+            "hu": "A téli reggel jeges levegővel köszönt a Stonebridge felé vezető úton. Délben a múzeum szívesen látott hely a megfagyott ujjak és lábak felmelegítésére. A Sari Salltiku barlanghoz vezető emelkedő mozgásban tart, a barlangban pedig állandó a hőmérséklet. A Liqeni i Baruneve-nél hideg szél fúj, így a túrát érdemes a 17:00-s naplemente előtt befejezni.",
+            "ro": "Dimineața de iarnă vine cu aer înghețat în drum spre Stonebridge. La prânz, muzeul este un loc binevenit pentru a-ți încălzi degetele și picioarele. Urcarea spre Peștera Sari Salltiku menține corpul cald, în timp ce peștera oferă o temperatură constantă. La Liqeni i Baruneve bate un vânt rece, așa că încheiați turul înainte de apusul de la 17:00.",
+            "en": "The winter morning challenges with icy air on the way to Stonebridge. At noon, the museum is a welcome spot to warm up frozen fingers and feet. The climb to Sari Salltiku's Cave keeps the body moving, while the cave provides a stable temperature. A cold wind blows at Liqeni i Baruneve, so aim to finish the tour before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stonebridge",
+                "hu": "Stonebridge",
+                "ro": "Stonebridge",
+                "en": "Stonebridge"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte am frühen Morgen; tragen Sie winddichte Handschuhe, da der Fahrtwind auf der offenen Brücke im Winter besonders schneidend ist.",
+                "hu": "Ügyeljen a hajnali zúzmarára a köveken; viseljen szélálló kesztyűt, mert a menetszél a nyitott hídon télen különösen metsző tud lenni.",
+                "ro": "Atenție la poleiul de dimineață de pe pietre; purtați mănuși rezistente la vânt, deoarece curentul de aer pe podul deschis este tăios iarna.",
+                "en": "Watch out for early morning frost on the stones; wear windproof gloves, as the wind chill on the open bridge is particularly biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Ethnografisches Museum",
+                "hu": "Nemzeti Néprajzi Múzeum",
+                "ro": "Muzeul Național Etnografic",
+                "en": "National Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Stopp, um die Körpertemperatur zu regulieren; die traditionellen Räume sind windgeschützt und bieten eine faszinierende Pause fernab der Kälte.",
+                "hu": "Remek megálló a testhőmérséklet rendezésére; a tradicionális szobák szélvédettek, és lenyűgöző pihenőt kínálnak távol a kinti hidegtől.",
+                "ro": "Un popas excelent pentru a-ți regla temperatura corpului; camerele tradiționale sunt ferite de vânt și oferă o pauză fascinantă departe de frig.",
+                "en": "A great stop to regulate your body temperature; the traditional rooms are sheltered from the wind and offer a fascinating break away from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Basar-Moschee",
+                "hu": "Bazár mecset",
+                "ro": "Moscheea Bazarului",
+                "en": "Bazaar Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht im Winter tief und blendet beim Fahren durch den Basar; eine Sonnenbrille hilft, die Hindernisse auf dem unebenen Boden besser zu erkennen.",
+                "hu": "A nap télen alacsonyan jár és elvakíthat a bazáron való áthajtáskor; egy napszemüveg segít jobban látni az egyenetlen talaj akadályait.",
+                "ro": "Soarele apune jos iarna și te poate orbi în timp ce mergi prin bazar; ochelarii de soare te vor ajuta să vezi mai bine denivelările drumului.",
+                "en": "The winter sun is low and can be blinding while riding through the bazaar; sunglasses will help you better spot obstacles on the uneven ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Höhle von Sari Salltiku",
+                "hu": "Sari Salltiku barlangja",
+                "ro": "Peștera lui Sari Salltiku",
+                "en": "Sari Salltiku's Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle ist im Winter oft wärmer als die Außenluft; nutzen Sie diesen Ort für eine windstille Rast, bevor Sie zum exponierten See weiterfahren.",
+                "hu": "A barlang télen gyakran melegebb, mint a külső levegő; használja ezt a helyet egy szélmentes pihenőre, mielőtt továbbindulna a kitett tó felé.",
+                "ro": "Peștera este adesea mai caldă decât aerul de afară iarna; folosiți acest loc pentru o pauză ferită de vânt înainte de a continua spre lac.",
+                "en": "The cave is often warmer than the outside air in winter; use this spot for a wind-free rest before continuing to the exposed lake area."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Baruneve",
+                "hu": "Liqeni i Baruneve",
+                "ro": "Liqeni i Baruneve",
+                "en": "Liqeni i Baruneve"
+              },
+              "tip_5lang": {
+                "de": "Das Seeufer ist im Winter sehr zugig; planen Sie, bis spätestens 16:00 Uhr hier zu sein, um das letzte Tageslicht für die Rückfahrt zu nutzen.",
+                "hu": "A tópart télen nagyon huzatos; tervezze úgy, hogy legkésőbb 16:00-ig ideérjen, így kihasználhatja az utolsó fényeket a biztonságos visszaúthoz.",
+                "ro": "Malul lacului este foarte expus vântului iarna; planificați să ajungeți aici până cel târziu la ora 16:00 pentru a folosi ultima lumină la întoarcere.",
+                "en": "The lakeside is very drafty in winter; plan to arrive by 16:00 at the latest to use the last daylight for a safe return journey to the city."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -376,6 +672,168 @@
         "hu": "A reggel az ősi kőépítészet és a helyi történelem felfedezésével kezdődik.\n\nA dél a hagyományos kultúra és a vallási örökség szívébe invitál.\n\nA délután lenyűgöző természeti tájakra és békés kilátásokra vált.\n\nAz este egy csendes elmélkedéssel zárja az utazást a történelmi kisváros felett.",
         "ro": "Dimineața începe cu explorarea arhitecturii din piatră și istoriei locale.\n\nMiezul zilei vă invită în inima culturii tradiționale și a moștenirii religioase.\n\nDupă-amiaza trece la peisaje naturale vaste și vederi senine.\n\nSeara încheie călătoria cu o reflecție liniștită asupra orașului istoric.",
         "en": "Morning begins with exploring ancient stone architecture and local history.\n\nMidday invites you into the heart of traditional culture and religious heritage.\n\nAfternoon shifts to sweeping natural landscapes and serene views.\n\nEvening wraps up the journey with a quiet reflection over the historical town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die Basar-Moschee auch bei Regen bequem erreichbar. Mittags bietet das Museum einen trockenen Kulturstopp. Die Fahrt zur Sari-Salltiku-Höhle ist sicher, und die Höhle selbst schützt vor dem Wetter. Nachmittags wirkt Kalaja e Irmajt im Regen dramatisch. Den Abend verbringt man im Kraste-Verjon Schutzgebiet, wo das Auto als perfekter Aussichtspunkt dient.",
+            "hu": "Autóval a Bazár-mecset esőben is kényelmesen megközelíthető. Délben a múzeum nyújt száraz kulturális megállót. A Sari Salltiku barlanghoz vezető út biztonságos, maga a barlang pedig véd az elemektől. Délután Kalaja e Irmajt drámai látványt nyújt az esőben. Az estét a Kraste-Verjon területén zárhatjuk, ahol az autó tökéletes kilátóként szolgál.",
+            "ro": "Cu mașina, Moscheea Bazarului este ușor accesibilă chiar și pe ploaie. La prânz, muzeul oferă un popas cultural uscat. Drumul spre Peștera Sari Salltiku este sigur, iar peștera protejează de intemperii. După-amiaza, Kalaja e Irmajt arată dramatic în ploaie. Seara se încheie în zona Kraste-Verjon, unde mașina servește drept punct de observație.",
+            "en": "By car, the Bazaar Mosque is easily accessible even in the rain. At noon, the museum provides a dry cultural stop. The drive to Sari Salltiku's Cave is safe, and the cave itself protects from the elements. In the afternoon, Kalaja e Irmajt looks dramatic in the rain. Spend the evening in the Kraste-Verjon area, where the car serves as a perfect dry viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basar-Moschee",
+                "hu": "Bazár mecset",
+                "ro": "Moscheea Bazarului",
+                "en": "Bazaar Mosque"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Basareingang, um den kurzen Fußweg zur Moschee im Regen zu minimieren; die Aussicht auf die nassen Dächer ist von hier besonders schön.",
+                "hu": "Parkoljon a lehető legközelebb a bazár bejáratához, hogy minimálisra csökkentse az esőben megtett utat a mecsetig; a vizes tetők látványa innen különösen szép.",
+                "ro": "Parcați cât mai aproape de intrarea în bazar pentru a minimiza mersul prin ploaie până la moschee; vederea acoperișurilor ude este deosebit de frumoasă de aici.",
+                "en": "Park as close as possible to the bazaar entrance to minimize the walk to the mosque in the rain; the view of the wet rooftops is especially beautiful from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Ethnografisches Museum",
+                "hu": "Nemzeti Néprajzi Múzeum",
+                "ro": "Muzeul Național Etnografic",
+                "en": "National Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieser Stopp ist ideal bei schlechtem Wetter; genießen Sie die Innenräume ausgiebig, da das Museum viel Platz bietet, um sich vor dem nächsten Ziel abzutrocknen.",
+                "hu": "Ez a megálló ideális rossz időben; élvezze ki a belső tereket, mivel a múzeum tágas helyet kínál a megszárítkozáshoz a következő úticél előtt.",
+                "ro": "Acest popas este ideal pe vreme rea; bucurați-vă de interioare, deoarece muzeul oferă mult spațiu pentru a vă usca înainte de următoarea destinație.",
+                "en": "This stop is ideal for bad weather; enjoy the interiors extensively, as the museum offers plenty of space to dry off before heading to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Höhle von Sari Salltiku",
+                "hu": "Sari Salltiku barlangja",
+                "ro": "Peștera lui Sari Salltiku",
+                "en": "Sari Salltiku's Cave"
+              },
+              "tip_5lang": {
+                "de": "Die steile Straße erfordert bei Nässe Konzentration; oben angekommen bietet die Höhle einen der besten regensicheren Aussichtspunkte in der gesamten Region.",
+                "hu": "A meredek út nedvesen koncentrációt igényel; felérve a barlang az egyik legjobb esőbiztos kilátópontot kínálja az egész régióban.",
+                "ro": "Drumul abrupt necesită concentrare când este ud; odată ajuns sus, peștera oferă unul dintre cele mai bune puncte de belvedere ferite de ploaie din regiune.",
+                "en": "The steep road requires concentration when wet; once at the top, the cave offers one of the best rain-proof viewpoints in the entire region."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalaja e Irmajt",
+                "hu": "Kalaja e Irmajt",
+                "ro": "Kalaja e Irmajt",
+                "en": "Kalaja e Irmajt"
+              },
+              "tip_5lang": {
+                "de": "Der Zugang kann schlammig sein; betrachten Sie die Ruinen bei starkem Regen vom Auto aus oder tragen Sie Gummistiefel für die Erkundung der Außenanlagen.",
+                "hu": "A bejárat sáros lehet; erős esőben tekintse meg a romokat az autóból, vagy viseljen gumicsizmát a külső területek felfedezéséhez.",
+                "ro": "Accesul poate fi noroios; priviți ruinele din mașină în caz de ploaie torențială sau purtați cizme de cauciuc pentru a explora zonele exterioare.",
+                "en": "Access can be muddy; view the ruins from the car during heavy rain or wear rubber boots for exploring the outdoor grounds properly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kraste-Verjon Landschaftsschutzgebiet",
+                "hu": "Kraste-Verjon Tájvédelmi Körzet",
+                "ro": "Aria Protejată Kraste-Verjon",
+                "en": "Kraste-Verjon Protected Landscape"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die erhöhte Position für Panoramafotos durch das Autofenster; der Regen erzeugt oft spektakuläre Lichtstimmungen über der albanischen Küstenebene.",
+                "hu": "Használja ki a magaslati pontot panorámafotókhoz az autó ablakán keresztül; az eső gyakran látványos fényeket hoz létre az albán tengerparti síkság felett.",
+                "ro": "Folosiți poziția ridicată pentru fotografii panoramice prin geamul mașinii; ploaia creează adesea jocuri de lumină spectaculoase peste câmpia de coastă.",
+                "en": "Use the elevated position for panoramic photos through the car window; the rain often creates spectacular lighting moods over the Albanian coastal plain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an der Basar-Moschee bietet beste Fotomöglichkeiten. Das Ethnografische Museum wärmt mittags mit seiner gemütlichen Atmosphäre auf. Die Fahrt zur Sari-Salltiku-Höhle führt an schneebedeckten Hängen vorbei. Nachmittags erkundet man Kalaja e Irmajt im kühlen Winterlicht. Der Tag endet im Kraste-Verjon Schutzgebiet rechtzeitig zum Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A tiszta téli reggel a Bazár-mecsetnél kiváló fotózási lehetőségeket kínál. A Néprajzi Múzeum délben felmelegít barátságos légkörével. Az út a Sari Salltiku barlanghoz havas hegyoldalak mellett vezet. Délután Kalaja e Irmajt romjait hűvös téli fényben fedezhetjük fel. A nap a Kraste-Verjon területén zárul, pont a 17:00-s naplemente idején.",
+            "ro": "O dimineață senină de iarnă la Moscheea Bazarului oferă oportunități excelente de fotografiere. Muzeul Etnografic te încălzește la prânz cu atmosfera sa primitoare. Drumul spre Peștera Sari Salltiku trece pe lângă versanți înzăpeziți. După-amiaza, explorați Kalaja e Irmajt în lumina rece de iarnă. Ziua se încheie la Kraste-Verjon exact la apusul de la ora 17:00.",
+            "en": "A clear winter morning at the Bazaar Mosque offers excellent photo opportunities. The Ethnographic Museum warms you up at noon with its cozy atmosphere. The drive to Sari Salltiku's Cave passes by snow-dusted slopes. In the afternoon, explore Kalaja e Irmajt in the cool winter light. The day ends in the Kraste-Verjon area just in time for the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basar-Moschee",
+                "hu": "Bazár mecset",
+                "ro": "Moscheea Bazarului",
+                "en": "Bazaar Mosque"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht am Morgen; im Winter ist der Basar weniger überlaufen, was das Parken und die Besichtigung der Moschee wesentlich entspannter macht.",
+                "hu": "Élvezze a tiszta kilátást reggel; télen a bazár kevésbé zsúfolt, ami sokkal nyugodtabbá teszi a parkolást és a mecset megtekintését.",
+                "ro": "Bucurați-vă de vederea clară de dimineață; iarna bazarul este mai puțin aglomerat, ceea ce face parcarea și vizitarea moscheii mult mai relaxante.",
+                "en": "Enjoy the clear views in the morning; the bazaar is less crowded in winter, making parking and visiting the mosque much more relaxed."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Ethnografisches Museum",
+                "hu": "Nemzeti Néprajzi Múzeum",
+                "ro": "Muzeul Național Etnografic",
+                "en": "National Ethnographic Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; die historischen Holzinterieurs wirken im Winter besonders einladend und strahlen eine wohlige Wärme aus.",
+                "hu": "Használja a múzeumlátogatást melegedő pihenőként; a történelmi fa belső terek télen különösen hívogatóak és barátságos meleget árasztanak.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; interioarele istorice din lemn par deosebit de primitoare iarna și emană o căldură plăcută.",
+                "en": "Use the museum visit as a warm-up break; the historical wooden interiors feel particularly inviting in winter and radiate a cozy warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Höhle von Sari Salltiku",
+                "hu": "Sari Salltiku barlangja",
+                "ro": "Peștera lui Sari Salltiku",
+                "en": "Sari Salltiku's Cave"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Auffahrt den Straßenzustand auf mögliche Vereisungen; die Höhle bietet im Winter einen faszinierenden, frostfreien Blick über das Land.",
+                "hu": "Indulás előtt ellenőrizze az útviszonyokat az esetleges jegesedés miatt; a barlang télen lenyűgöző, fagymentes kilátást nyújt az alatta elterülő vidékre.",
+                "ro": "Verificați starea drumului pentru eventuale porțiuni înghețate înainte de a urca; peștera oferă iarna o vedere fascinantă și ferită de îngheț asupra țării.",
+                "en": "Check the road conditions for possible icing before driving up; the cave offers a fascinating, frost-free view over the country in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalaja e Irmajt",
+                "hu": "Kalaja e Irmajt",
+                "ro": "Kalaja e Irmajt",
+                "en": "Kalaja e Irmajt"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Licht am Nachmittag ist ideal für Architekturaufnahmen der Ruinen; ziehen Sie sich winddicht an, da die Burgmauern im Winter sehr exponiert sind.",
+                "hu": "A délutáni lapos fények ideálisak a romok fotózásához; öltözzön szélállóan, mert a várfalak télen nagyon kitettek a hideg hegyi szélnek.",
+                "ro": "Lumina joasă de după-amiază este ideală pentru fotografii ale ruinelor; îmbrăcați-vă cu haine rezistente la vânt, deoarece zidurile cetății sunt foarte expuse iarna.",
+                "en": "The low afternoon light is ideal for architectural shots of the ruins; dress in windproof layers, as the castle walls are very exposed to cold winds in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kraste-Verjon Landschaftsschutzgebiet",
+                "hu": "Kraste-Verjon Tájvédelmi Körzet",
+                "ro": "Aria Protejată Kraste-Verjon",
+                "en": "Kraste-Verjon Protected Landscape"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17:00 Uhr an, um den Sonnenuntergang im Auto zu genießen; danach sinken die Temperaturen in diesem Naturschutzgebiet sehr schnell.",
+                "hu": "Érkezzen meg időben 17:00 előtt, hogy az autóból élvezhesse a naplementét; utána a hőmérséklet ezen a természetvédelmi területen nagyon gyorsan zuhan.",
+                "ro": "Ajungeți la timp înainte de ora 17:00 pentru a vă bucura de apus din mașină; după aceea, temperaturile în această arie protejată scad foarte repede.",
+                "en": "Arrive in time before 17:00 to enjoy the sunset from the comfort of your car; temperatures in this protected area drop very quickly once the sun is gone."
+              }
+            }
+          ]
+        }
       }
     }
   }

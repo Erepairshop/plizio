@@ -137,6 +137,168 @@
         "hu": "A reggel a tengerparti Maria Stella del Mare templom meglátogatásával indul, amely békés hangulatot teremt a Lido Camomilla homokjának felfedezése előtt. A telet a szicíliai napfényben fürdőzve tölthetjük a Lido Fontane Bianche kristálytiszta vizénél és élénk partszakaszán. Délután tegyen egy kellemes sétát a vízparton, amíg el nem éri a Lido Sayonara barátságos környezetét. Az este a Kukua Beach trópusi hangulatában zárul, ahol a tengerparton ülve gyönyörködhet a csodálatos rózsaszínű naplementében.",
         "ro": "Dimineața începe cu o vizită spirituală la frumoasa biserică Maria Stella del Mare, stabilind un ton pașnic înainte de a păși pe nisipul de la Lido Camomilla. La prânz, relaxați-vă sub soarele sicilian, bucurându-vă de atmosfera vibrantă și apele limpezi ale plajei Lido Fontane Bianche. După-amiaza aduce o plimbare liniștită de-a lungul țărmului până la mediul primitor de la Lido Sayonara. Seara se încheie elegant la Kukua Beach, unde puteți admira apusul spectaculos savurând un cocktail răcoritor pe malul mării.",
         "en": "Morning begins with a spiritual visit to the beautiful coastal church of Maria Stella del Mare, setting a peaceful tone before stepping onto the soft sands of Lido Camomilla. Midday is spent relaxing under the warm Sicilian sun, enjoying the vibrant atmosphere and crystal-clear waters of Lido Fontane Bianche. In the afternoon, take a leisurely stroll down the shoreline to the welcoming environment of Lido Sayonara. The evening concludes gracefully at Kukua Beach, where you can watch the sky turn pink while enjoying a refreshing seaside cocktail."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt bei Regen in der schützenden Kirche. Mittags spazieren wir mit robusten Regenschirmen entlang der Küste. Nachmittags bieten Strandclubs überdachte Veranden für den Blick auf stürmische Wellen. Tragen Sie abends wasserdichte Schuhe für die nassen Wege.",
+            "hu": "A reggel a templom védett falai között indul az esőben. Délben a part mentén sétálunk, erős esernyőkkel felszerelve. Délután a strandklubok fedett teraszairól figyelhetjük a viharos hullámokat. Az esti séta végére vízálló cipő javasolt a csúszós és vizes járdák miatt.",
+            "ro": "Dimineața începe la adăpostul bisericii, în timp ce plouă. La prânz, ne plimbăm de-a lungul coastei cu umbrele rezistente. După-amiaza, cluburile de pe plajă oferă verande acoperite pentru a privi valurile. Seara, purtați încălțăminte impermeabilă pe trotuarele umede.",
+            "en": "Morning starts with a sheltered visit to the church as rain falls. By noon, we move along the coastline using sturdy umbrellas. Afternoon beach clubs provide covered verandas to watch the stormy waves. The walk ends in the early evening; wear waterproof shoes for wet sidewalks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Maria Stella del Mare",
+                "hu": "Chiesa di Maria Stella del Mare",
+                "ro": "Chiesa di Maria Stella del Mare",
+                "en": "Chiesa di Maria Stella del Mare"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das schlichte Innere, während Sie komplett trocken bleiben; bringen Sie einen stabilen, kompakten Schirm für den nassen Spaziergang mit.",
+                "hu": "Csodálja meg az egyszerű belső teret, miközben teljesen száraz marad; mindenképpen hozzon egy erős, kompakt esernyőt a rövid, de nedves sétához.",
+                "ro": "Admirați interiorul simplu în timp ce rămâneți complet uscat; asigurați-vă că aduceți o umbrelă compactă și rezistentă pentru scurta plimbare umedă.",
+                "en": "Admire the simple interior while staying completely dry; make sure to bring a sturdy, compact umbrella for the short but wet walk from the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Camomilla",
+                "hu": "Lido Camomilla",
+                "ro": "Lido Camomilla",
+                "en": "Lido Camomilla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das regnerische Meer von einem sicheren Platz aus; Gummistiefel sind für die nassen Sandwege sehr zu empfehlen.",
+                "hu": "Élvezze a viharos tenger drámai látványát egy biztonságos, védett helyről; gumicsizma erősen ajánlott a nedves, homokos parti ösvényeken való sétához.",
+                "ro": "Bucurați-vă de vederea dramatică a mării ploioase dintr-un loc sigur și ferit; cizmele de ploaie sunt foarte recomandate pe cărările nisipoase și umede.",
+                "en": "Enjoy the dramatic view of the rainy sea from a safe, sheltered spot; rain boots are highly recommended to navigate the wet, sandy coastal paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Fontane Bianche",
+                "hu": "Lido Fontane Bianche",
+                "ro": "Lido Fontane Bianche",
+                "en": "Lido Fontane Bianche"
+              },
+              "tip_5lang": {
+                "de": "Der berühmte weiße Sand wirkt im Regen wunderbar dunkel; suchen Sie Schutz unter den stabilen Terrassen des Clubs, während Sie ein Heißgetränk genießen.",
+                "hu": "A híres fehér homok csodásan sötétebb az esőben; keressen kényelmes menedéket a klub fedett teraszain, miközben egy lélekmelegítő forró italt kortyolgat.",
+                "ro": "Faimosul nisip alb pare minunat de închis pe ploaie; refugiați-vă sub terasele acoperite și rezistente ale clubului savurând o băutură caldă și plăcută.",
+                "en": "The famous white sand looks wonderfully darker under the rain; take refuge under the club's sturdy covered terraces while enjoying a warming hot drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sayonara",
+                "hu": "Lido Sayonara",
+                "ro": "Lido Sayonara",
+                "en": "Lido Sayonara"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die mächtigen Wellen gegen die Küste prallen; eine hochwertige Windjacke ist unerlässlich, da oft starke Küstenböen den Regen begleiten.",
+                "hu": "Nézze, ahogy az erőteljes hullámok hevesen a partnak csapódnak; egy kiváló minőségű széldzseki elengedhetetlen, mivel gyakoriak a heves parti szélrohamok.",
+                "ro": "Priviți cum valurile puternice se lovesc violent de țărm; o geacă de vânt de înaltă calitate este esențială deoarece rafalele de coastă însoțesc ploaia.",
+                "en": "Watch the powerful waves violently crash against the winter shore; a high-quality windbreaker is essential as coastal gusts frequently accompany the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kukua Beach",
+                "hu": "Kukua Beach",
+                "ro": "Kukua Beach",
+                "en": "Kukua Beach"
+              },
+              "tip_5lang": {
+                "de": "Dieser letzte Stopp bietet einen wirklich gemütlichen Rückzugsort im Innenbereich; trocknen Sie sich im stabilen Pavillon bei dem entspannenden Klang des Regens auf.",
+                "hu": "Ez az utolsó megálló igazán hangulatos beltéri menedéket nyújt; száradjon meg teljesen az erős pavilon alatt, miközben a heves eső pihentető hangját hallgatja.",
+                "ro": "Această ultimă oprire oferă un refugiu interior cu adevărat confortabil; uscați-vă complet sub pavilionul solid ascultând sunetul relaxant al ploii abundente.",
+                "en": "This final stop offers a truly cozy indoor retreat; dry off completely under their sturdy pavilion while listening to the relaxing sound of the heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Kirche. Mittags sorgt angenehmer Sonnenschein für einen ruhigen Küstenspaziergang. Das Nachmittagslicht taucht die leeren Strände in Gold. Tragen Sie warme Schichten, da die Sonne gegen 17:00 Uhr untergeht und es abends kühl wird.",
+            "hu": "A fagyos téli reggel a templomnál indul hűvös levegővel. A dél kellemes napsütést hoz egy csendes parti sétához. Délután a fények aranyba borítják az üres strandokat. Öltözzön meleg rétegekbe, mivel a nap 17:00 körül lenyugszik, és az este csípős hideget hoz.",
+            "ro": "O dimineață de iarnă geroasă începe la biserică. Prânzul aduce un soare plăcut pentru o plimbare liniștită pe coastă. Lumina după-amiezii devine aurie pe plajele goale. Purtați straturi calde, deoarece soarele apune devreme, în jur de 17:00, aducând o seară foarte rece.",
+            "en": "A crisp winter morning begins at the church with cool air. Midday brings pleasant sunshine for a quiet coastal stroll. The afternoon light turns golden over the empty beaches. Dress in warm layers as the sun sets early around 17:00, bringing a sharp chill to the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Maria Stella del Mare",
+                "hu": "Chiesa di Maria Stella del Mare",
+                "ro": "Chiesa di Maria Stella del Mare",
+                "en": "Chiesa di Maria Stella del Mare"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die überaus friedliche Winteratmosphäre dieser lokalen Kirche; die Morgentemperaturen sind sehr frisch, tragen Sie daher einen dicken Mantel.",
+                "hu": "Tapasztalja meg a helyi templom békés téli hangulatát; a reggeli hőmérséklet rendkívül csípős lehet, így egy vastag, meleg kabát viselése kötelező.",
+                "ro": "Experimentați atmosfera pașnică de iarnă a acestei biserici locale; diminețile pot fi foarte reci, așa că asigurați-vă că purtați o haină călduroasă.",
+                "en": "Experience the incredibly peaceful winter atmosphere of this local church; morning temperatures can be quite crisp, so wearing a thick, warm coat is advised."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Camomilla",
+                "hu": "Lido Camomilla",
+                "ro": "Lido Camomilla",
+                "en": "Lido Camomilla"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie am völlig leeren Winterstrand für ein ruhiges Erlebnis; eine winddichte Jacke ist dringend empfehlenswert, um die steife Meeresbrise abzublocken.",
+                "hu": "Sétáljon végig az üres téli strandon egy igazán nyugodt élményért; viseljen szélálló dzsekit, hogy tökéletesen megvédje magát a hűvös tengeri szellőtől.",
+                "ro": "Plimbați-vă pe plaja complet goală de iarnă pentru o experiență liniștită; purtați o geacă de vânt pentru a bloca complet briza aspră și rece a mării.",
+                "en": "Walk along the completely empty winter beach for a tranquil experience; tightly wear a windproof jacket to entirely block the brisk and chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Fontane Bianche",
+                "hu": "Lido Fontane Bianche",
+                "ro": "Lido Fontane Bianche",
+                "en": "Lido Fontane Bianche"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weißen Sand völlig ohne Menschenmassen; ein dicker Wollschal ist absolut perfekt für die spürbar kühleren Küstentemperaturen am Nachmittag.",
+                "hu": "Élvezze az érintetlen fehér homokot a nyári tömeg nélkül; egy vastag gyapjúsál tökéletes kiegészítő a hűvösebb délutáni parti hőmérséklethez sétálás közben.",
+                "ro": "Apreciați nisipul alb impecabil complet fără aglomerație; un fular gros de lână este absolut perfect pentru temperaturile mult mai scăzute de pe coastă.",
+                "en": "Appreciate the pristine white sands completely without the summer crowds; a thick wool scarf is absolutely perfect for the noticeably cooler coastal temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sayonara",
+                "hu": "Lido Sayonara",
+                "ro": "Lido Sayonara",
+                "en": "Lido Sayonara"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang am Ufer; da die Sonne hier im Winter sehr früh sinkt, ist das goldene Nachmittagslicht absolut ideal für die Fotografie.",
+                "hu": "Tegyen egy élénk, frissítő sétát a partvonal mentén; mivel a nap korán leereszkedik télen, az aranyóra lágy fényei egyszerűen tökéletesek a fotózáshoz.",
+                "ro": "Faceți o plimbare vioaie pe țărmul liniștit; deoarece soarele coboară foarte devreme, lumina moale a orei de aur este absolut perfectă pentru fotografii.",
+                "en": "Take a brisk, refreshing walk along the shoreline; since the winter sun lowers very early, the soft golden hour light is absolutely perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Kukua Beach",
+                "hu": "Kukua Beach",
+                "ro": "Kukua Beach",
+                "en": "Kukua Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang mit dem sehr frühen Sonnenuntergang gegen 17:00 Uhr; ziehen Sie sich warm an, da die Temperaturen extrem schnell und tief fallen.",
+                "hu": "Fejezze be a sétát a korai, 17:00 óra körüli naplemente megtekintésével; öltözzön fel nagyon jól, mert a hőmérséklet sötétedés után meglepően gyorsan esik.",
+                "ro": "Încheiați plimbarea privind apusul extrem de timpuriu, în jur de 17:00; îmbrăcați-vă foarte gros, deoarece temperaturile scad surprinzător de rapid seara.",
+                "en": "End your walk by watching the very early sunset around 17:00; make sure to bundle up tightly as temperatures drop surprisingly quickly once the sun sets entirely."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt egy kerékpártúrával Cassibile falujában, hogy meglátogassa a történelmi Chiesa di San Giuseppe-t és a Torre di Cassibile ősi romjait. Délben csodálja meg a hagyományos papírmasé betlehemet, mielőtt a szellős partvidék felé pedálozna. Délután tegyen egy rövid látogatást a helyi templomban, majd telepedjen le a Lido Fontane Bianche nyüzsgő partjainál. Az este tökéletesen zárul a Kukua Beach partszakaszán, ahol a csodás naplemente varázslatos hátteret biztosít kerékpáros kalandjának befejezéséhez.",
         "ro": "Începeți dimineața pedalând prin Cassibile pentru a vizita istorica Chiesa di San Giuseppe și ruinele antice de la Torre di Cassibile. La prânz, admirați măiestria tradițională a Presepe di cartapesta înainte de a coborî spre coasta brizei marine. După-amiaza, faceți o scurtă vizită la biserica locală înainte de a vă relaxa pe țărmurile pline de viață ale Lido Fontane Bianche. Seara se încheie perfect la Kukua Beach, unde priveliștile apusului oferă un fundal magic pentru finalul aventurii dumneavoastră pe bicicletă.",
         "en": "Start your morning cycling through the village of Cassibile to visit the historic Chiesa di San Giuseppe and the ancient ruins of Torre di Cassibile. Midday invites you to marvel at the traditional craftsmanship of the Presepe di cartapesta before pedaling down towards the breezy coastline. In the afternoon, pay a quick visit to the local church before settling down on the lively shores of Lido Fontane Bianche. The evening wraps up perfectly at Kukua Beach, where the sunset views provide a magical backdrop to the end of your cycling adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die regnerische Fahrt vorsichtig mit geschützten historischen Stätten. Mittags navigieren Sie wegen rutschiger Straßen bedacht an der Küste. Nachmittags geht es zu Stränden mit überdachten Stopps. Kehren Sie vor Einbruch der Dunkelheit in Warnkleidung und mit guten Lichtern zurück.",
+            "hu": "Óvatosan kezdje az esős tekerést, fedett menedéket nyújtó történelmi helyszínekkel. Délben figyelmesen navigáljon a csúszós parti utakon. A délután a strandok mentén folytatódik, fedett megállókkal. Alkonyat előtt térjen vissza, vízálló láthatósági ruhában és működő kerékpárlámpákkal.",
+            "ro": "Începeți cu atenție cursa ploioasă, vizitând situri istorice cu adăpost. La prânz, navigați pe drumurile de coastă cu prudență din cauza suprafețelor alunecoase. După-amiaza continuă pe plaje cu opriri acoperite. Întoarceți-vă înainte de amurg, purtând echipament de ploaie reflectorizant.",
+            "en": "Begin the rainy ride carefully, visiting historical sites with indoor shelter. By midday, navigate the coastal roads with caution due to slippery surfaces. The afternoon continues along the beaches with covered stops. Return before dusk, ensuring your bike lights work and wearing high-visibility rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser äußerst ruhigen Kirche Schutz vor dem Morgenregen; tragen Sie unbedingt eine gut sichtbare wasserdichte Jacke für die Fahrt hierher.",
+                "hu": "Keressen menedéket a reggeli eső elől ebben a végtelenül csendes templomban; mindenképpen viseljen jól látható, teljesen vízálló dzsekit az ide vezető úton.",
+                "ro": "Căutați adăpost de ploaia de dimineață în această biserică extrem de liniștită; asigurați-vă că purtați o geacă impermeabilă reflectorizantă pentru siguranță.",
+                "en": "Seek excellent shelter from the morning rain in this quiet church; always make sure to wear a high-vis completely waterproof jacket for the slippery ride here."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Cassibile",
+                "hu": "Torre di Cassibile",
+                "ro": "Torre di Cassibile",
+                "en": "Torre di Cassibile"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen historischen Turm direkt von der Straße aus; die nassen Pflastersteine sind extrem rutschig, bremsen Sie also sehr früh und vorsichtig.",
+                "hu": "Tekintse meg a történelmi tornyot biztonságosan az útról; a vizes kövek rendkívül csúszósak, ezért fékezzen nagyon korán és tartson megnövelt távolságot.",
+                "ro": "Priviți acest turn istoric direct de pe drumul principal; pietrele umede sunt extrem de alunecoase, deci frânați foarte devreme și păstrați o distanță sigură.",
+                "en": "View this fascinating historic tower safely from the road; the wet stones are extremely slippery, so make sure to brake very early and keep a completely safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Presepe di cartapesta",
+                "hu": "Presepe di cartapesta",
+                "ro": "Presepe di cartapesta",
+                "en": "Presepe di cartapesta"
+              },
+              "tip_5lang": {
+                "de": "Diese wunderschöne Pappmaché-Krippe ist ein perfekter trockener Zufluchtsort; ein wasserdichter Rucksacküberzug hält Ihre Wertsachen während der Fahrt sicher.",
+                "hu": "Ez a beltéri papírmasé betlehem tökéletes és száraz menedék a vihar elől; egy vízálló hátizsákvédő teljesen biztonságban és szárazon tartja minden holmiját.",
+                "ro": "Această superbă iesle din papier-mâché este un refugiu uscat absolut perfect; o husă impermeabilă pentru rucsac vă va păstra toate bunurile în siguranță.",
+                "en": "This indoor paper-mâché nativity is an absolutely perfect dry refuge; securely attach a waterproof backpack cover to keep all your sensitive belongings perfectly safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Stella del Mare",
+                "hu": "Chiesa di Maria Stella del Mare",
+                "ro": "Chiesa di Maria Stella del Mare",
+                "en": "Chiesa di Maria Stella del Mare"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender überdachter Stopp zum vollständigen Trocknen; extreme Vorsicht auf den nassen Fliesen am Eingang und stellen Sie das Rad sicher unter.",
+                "hu": "Egy újabb kiváló fedett megálló a teljes száradáshoz; nagyon vigyázzon a vizes csempékre a bejáratnál, és kösse le a biciklit biztonságosan a tető alatt.",
+                "ro": "O altă oprire acoperită excelentă pentru a vă usca complet; mare atenție la gresia extrem de umedă și asigurați-vă bicicleta în siguranță sub o copertină.",
+                "en": "Another excellent covered stop to completely dry off; be extremely careful on the dangerously wet tiles near the entrance and securely park your bike under an awning."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Fontane Bianche",
+                "hu": "Lido Fontane Bianche",
+                "ro": "Lido Fontane Bianche",
+                "en": "Lido Fontane Bianche"
+              },
+              "tip_5lang": {
+                "de": "Ruhen Sie sich unter den stabilen Veranden aus und beobachten Sie das wilde Meer; prüfen Sie unbedingt den Grip Ihrer Reifen auf der völlig nassen Straße.",
+                "hu": "Pihenjen meg a parti verandák alatt a viharos tengert figyelve; indulás előtt feltétlenül ellenőrizze, hogy gumijai jól tapadnak-e a vizes, csúszós aszfalton.",
+                "ro": "Odihniți-vă sub verandele solide de coastă privind marea complet ploioasă; asigurați-vă neapărat că anvelopele bicicletei au o aderență excelentă pe asfaltul ud.",
+                "en": "Safely rest under the strong coastal verandas while watching the rainy seascape; thoroughly ensure your tires have excellent grip for navigating the dangerously wet pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Kukua Beach",
+                "hu": "Kukua Beach",
+                "ro": "Kukua Beach",
+                "en": "Kukua Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die nasse Fahrt sicher im überdachten Bereich dieses Clubs; trocknen Sie sich und das Rad komplett ab, bevor es in den sehr feuchten Abend geht.",
+                "hu": "Fejezze be a vizes tekerést a klub teljesen fedett részén; szárítsa meg felszerelését és melegedjen fel alaposan a nyirkos és hűvös esti visszaindulás előtt.",
+                "ro": "Terminați cursa umedă în zona complet acoperită a clubului; uscați-vă echipamentul și încălziți-vă foarte bine înainte de a vă întoarce în seara umedă și rece.",
+                "en": "Finish the wet ride comfortably at this beach club's fully covered area; completely dry your gear and profoundly warm up before heading back in the dangerously damp evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterradtour in der frischen Morgenluft zu historischen Stätten. Mittags gibt es kühles Wetter für Fahrten an der Küste ohne Überhitzen. Nachmittags fahren Sie an leeren Stränden bei sanfter Wintersonne. Da es gegen 17:00 Uhr dunkel wird, beenden Sie die Route früh mit Thermoschichten.",
+            "hu": "Kezdje a téli kerékpártúrát a friss reggeli levegőn a történelmi helyeknél. A dél hűvös időt kínál a parti tekeréshez túlmelegedés nélkül. A délutáni bringázás üres strandokat tár fel a lágy téli napfényben. Mivel 17:00 körül sötétedik, fejezze be korán az utat, és viseljen termo aláöltözetet.",
+            "ro": "Începeți turul de iarnă cu bicicleta în aerul proaspăt al dimineții. Prânzul oferă o vreme răcoroasă pentru pedalat pe coastă fără supraîncălzire. După-amiaza dezvăluie plaje goale sub soarele de iarnă. Deoarece se întunecă la 17:00, planificați să terminați traseul devreme și purtați straturi termice.",
+            "en": "Start your winter cycling tour in the crisp morning air, exploring historic sites. Midday offers cool weather for pedaling along the coast without overheating. Afternoon riding reveals empty beaches under a soft winter sun. Since it gets dark around 17:00, plan to finish your route early and wear thermal layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Ein äußerst friedlicher Morgenstopp; tragen Sie unbedingt dicke thermische Radhandschuhe, um Ihre Hände vor der kalten, schneidenden Winterbrise zu schützen.",
+                "hu": "Nagyon békés reggeli megálló az út kezdéseként; viseljen minőségi termo kerékpáros kesztyűt, hogy teljesen megvédje a kezét a fagyos, metsző téli széltől.",
+                "ro": "O oprire extrem de pașnică de dimineață pentru a începe cursa; purtați mănuși de ciclism termice foarte groase pentru a vă proteja mâinile de briza rece de iarnă.",
+                "en": "A wonderfully peaceful morning stop to safely start your ride; wear thick thermal cycling gloves to entirely protect your hands from the unpleasantly chilly winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Cassibile",
+                "hu": "Torre di Cassibile",
+                "ro": "Torre di Cassibile",
+                "en": "Torre di Cassibile"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur unter klarem Winterhimmel; eine hochwertige Thermo-Basisschicht ist für die kühle Küstenabfahrt extrem wichtig.",
+                "hu": "Csodálja meg a történelmi építészetet a kristálytiszta téli ég alatt; egy minőségi termo aláöltözet erősen ajánlott a jelentősen hűvös parti lejtmenethez.",
+                "ro": "Admirați arhitectura istorică sub cerul senin și absolut clar de iarnă; un strat de bază termic este extrem de recomandat pentru coborârea foarte răcoroasă.",
+                "en": "Admire the historic architecture under perfectly clear winter skies; wearing a high-quality thermal base layer is strongly recommended for the noticeably cool coastal descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Presepe di cartapesta",
+                "hu": "Presepe di cartapesta",
+                "ro": "Presepe di cartapesta",
+                "en": "Presepe di cartapesta"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dieses einzigartige Handwerk zu sehen und Ihre fast gefrorenen Finger richtig aufzuwärmen, bevor Sie die kalte Radtour fortsetzen.",
+                "hu": "Lépjen be, hogy megnézze ezt az egyedi helyi alkotást, és teljesen felmelegítse a fagyos ujjait, mielőtt folytatná a kerékpártúrát a hideg szélben.",
+                "ro": "Intrați pentru a vedea această meserie locală absolut unică și pentru a vă încălzi complet degetele înghețate înainte de a continua cursa rece cu bicicleta.",
+                "en": "Step comfortably inside to see this unique local craft and fully warm up your freezing fingers before safely continuing your cycling route in the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Stella del Mare",
+                "hu": "Chiesa di Maria Stella del Mare",
+                "ro": "Chiesa di Maria Stella del Mare",
+                "en": "Chiesa di Maria Stella del Mare"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen sehr ruhigen Moment in dieser schönen Kirche am Meer; die Winterluft ist hier enorm frisch, ziehen Sie Ihren Schal also besonders hoch.",
+                "hu": "Töltsön el egy nagyon csendes percet ebben a tengerparti templomban; a téli levegő itt rendkívül csípős, ezért húzza fel egészen az arcáig a nyakmelegítőjét.",
+                "ro": "Bucurați-vă de un moment foarte liniștit în această biserică de la mare; aerul de iarnă este extrem de rece aici, deci trageți fularul gros cât mai sus.",
+                "en": "Take a deeply quiet moment in this serene seaside church; the winter air is exceptionally crisp here, so firmly keep your thick neck warmer pulled up extremely high."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Fontane Bianche",
+                "hu": "Lido Fontane Bianche",
+                "ro": "Lido Fontane Bianche",
+                "en": "Lido Fontane Bianche"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den leeren Sand; das schnelle Treten hält Sie warm, aber eine absolut winddichte Fahrradweste ist direkt am Wasser völlig unerlässlich.",
+                "hu": "Élvezze a teljesen üres fehér homokot; az aktív pedálozás melegen tartja, de egy minőségi, teljesen szélálló mellény létfontosságú közvetlenül a víz mellett.",
+                "ro": "Bucurați-vă de nisipurile albe și complet goale; pedalatul activ vă ține de cald, dar o vestă de ciclism total rezistentă la vânt e absolut esențială lângă apă.",
+                "en": "Enjoy the wonderfully serene, empty white sands; active pedaling easily keeps you warm, but a completely windproof cycling vest is absolutely essential right near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Kukua Beach",
+                "hu": "Kukua Beach",
+                "ro": "Kukua Beach",
+                "en": "Kukua Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie passend zum frühen Sonnenuntergang um 17:00 Uhr an; sorgen Sie zwingend für extrem starke Fahrradlichter für die völlig dunkle, eiskalte Rückfahrt.",
+                "hu": "Érkezzen pont időben a lenyűgöző, korai (17:00) naplementére; feltétlenül gondoskodjon erős első és hátsó világításról a teljesen sötét, rendkívül hideg visszaútra.",
+                "ro": "Ajungeți exact la timp pentru apusul de iarnă de la 17:00; asigurați-vă neapărat că aveți lumini foarte puternice pentru drumul de întoarcere extrem de întunecat și rece.",
+                "en": "Arrive just in time for the stunning early winter sunset around 17:00; ensure you have powerful front and rear bike lights for the completely dark, surprisingly chilly ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autózzon a napba a Torre di Cassibile történelmi védelmi romjainak és a közeli faluban található, lenyűgöző kézműves papírmasé betlehemnek a felfedezésével. A délidő kecsesen vált át a Chiesa di San Giuseppe csendes áhítatából a Maria Stella del Mare part menti nyugalmába. Délután tapasztalja meg a szicíliai tengerpart igazi esszenciáját a Lido Camomilla és a Lido Fontane Bianche pihentető megállóival. Ahogy leszáll az est, találja meg a tökéletes helyet a Lido Sayonara strandján a teljes kikapcsolódáshoz a hullámok hangja mellett.",
         "ro": "Conduceți spre o nouă zi explorând ruinele defensive istorice de la Torre di Cassibile și fascinanta expoziție artizanală Presepe di cartapesta din satul vecin. Prânzul face o tranziție grațioasă de la reverența tăcută a Chiesa di San Giuseppe spre calmul de coastă al Mariei Stella del Mare. După-amiaza, experimentați adevărata esență a litoralului sicilian cu opriri relaxante la Lido Camomilla și Lido Fontane Bianche. Pe măsură ce se lasă seara, găsiți-vă locul perfect la Lido Sayonara pentru a vă deconecta complet ascultând valurile blânde.",
         "en": "Drive into the day by exploring the historic defensive ruins of Torre di Cassibile and the fascinating artisanal display of the Presepe di cartapesta in the nearby village. Midday transitions gracefully from the quiet reverence of Chiesa di San Giuseppe down to the coastal calm of Maria Stella del Mare. In the afternoon, experience the true essence of the Sicilian seaside with relaxing stops at Lido Camomilla and Lido Fontane Bianche. As evening descends, find your perfect spot at Lido Sayonara to unwind completely as the gentle waves roll in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am regnerischen Morgen trocken im Auto zu historischen Stätten. Mittags erreichen Sie die Küste und hüpfen zwischen geschützten Orten. Nachmittags bieten Strandstopps dramatische Blicke auf das stürmische Meer. Fahren Sie abends vorsichtig, da Straßen überfluten können und die Sicht sinkt.",
+            "hu": "Vezessen végig az esős reggelen a történelmi helyszínekhez, szárazon maradva az autóban. Délben a partvidékre érünk, fedett helyek között ugrálva. A délutáni strandmegállók drámai kilátást nyújtanak a viharos tengerre a verandákról. Este vezessen óvatosan, mivel a parti utak víz alá kerülhetnek és a látótávolság csökken.",
+            "ro": "Conduceți în dimineața ploioasă către situri istorice, stând uscat în mașină. La prânz ajungeți în zona de coastă, sărind între locuri ferite. Opririle de după-amiază la plajă oferă vederi dramatice ale mării furtunoase. Conduceți cu atenție seara, deoarece drumurile se pot inunda și vizibilitatea scade.",
+            "en": "Drive through the rainy morning to historic sites, keeping dry inside your vehicle. Midday brings you to the coastal area, hopping between sheltered spots. Afternoon beach stops offer dramatic views of the stormy sea from covered verandas. Drive carefully in the evening as coastal roads can flood and visibility drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di Cassibile",
+                "hu": "Torre di Cassibile",
+                "ro": "Torre di Cassibile",
+                "en": "Torre di Cassibile"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den historischen Turm bequem aus dem trockenen Auto oder mit Schirm; achten Sie zwingend auf extrem tiefe Pfützen auf dem unbefestigten Parkplatz.",
+                "hu": "Figyelje meg ezt a történelmi tornyot a biztonságos autóból vagy erős esernyővel; nagyon vigyázzon a hatalmas, mély tócsákra a teljesen burkolatlan parkolóban.",
+                "ro": "Observați acest turn istoric extrem de confortabil din mașină sau cu o umbrelă; atenție mare la bălțile foarte adânci din zona de parcare complet neasfaltată.",
+                "en": "Observe this profoundly historic tower comfortably from the dry car or with a sturdy umbrella; watch out extremely carefully for deep puddles in the unpaved parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Presepe di cartapesta",
+                "hu": "Presepe di cartapesta",
+                "ro": "Presepe di cartapesta",
+                "en": "Presepe di cartapesta"
+              },
+              "tip_5lang": {
+                "de": "Eine wunderbare Innenattraktion, um dem starken Regen zu entfliehen; halten Sie einen stabilen Schirm für den sehr kurzen, aber nassen Fußweg zum Eingang bereit.",
+                "hu": "Csodálatos és teljesen száraz beltéri látványosság az eső elől; tartson egy igazán erős esernyőt a csomagtartóban az autótól való rövid, de nagyon nedves sétához.",
+                "ro": "O atracție interioară absolut minunată pentru a scăpa de ploaia grea; păstrați o umbrelă extrem de solidă în portbagaj pentru scurta plimbare umedă până la intrare.",
+                "en": "A wonderfully dry indoor attraction to completely escape the heavy rain; securely keep a sturdy umbrella in the trunk for the short but exceedingly wet walk from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie extrem nah, um das Heiligtum trocken zu erreichen; die nassen Steinstufen können enorm rutschig sein, tragen Sie also zwingend griffiges Schuhwerk.",
+                "hu": "Parkoljon nagyon közel, hogy szárazon élvezze a szentélyt; a kőlépcsők vizesen rendkívül csúszósak és veszélyesek lehetnek, így feltétlenül tapadós cipőt viseljen.",
+                "ro": "Parcați extrem de aproape pentru a vă bucura uscat de sanctuar; treptele de piatră pot fi foarte alunecoase la umezeală, deci purtați pantofi cu o aderență excelentă.",
+                "en": "Park extremely close to completely enjoy the quiet sanctuary while dry; the historic stone steps can be dangerously slippery when wet, so exclusively wear shoes with superior traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Stella del Mare",
+                "hu": "Chiesa di Maria Stella del Mare",
+                "ro": "Chiesa di Maria Stella del Mare",
+                "en": "Chiesa di Maria Stella del Mare"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie perfekte Zuflucht in dieser schönen Kirche; nutzen Sie effektiv die leistungsstarke Autoheizung, um feuchte Kleidung zwischen den nassen Stopps zu trocknen.",
+                "hu": "Keressen tökéletes menedéket ebben a gyönyörű templomban; használja ki maximálisan az autó fűtését a nedves ruhák teljes megszárítására az esős megállók között.",
+                "ro": "Căutați refugiul perfect în această biserică deosebit de frumoasă; folosiți eficient sistemul puternic de încălzire al mașinii pentru a usca rapid hainele complet umede.",
+                "en": "Seek absolute refuge entirely within this exceptionally beautiful church; fully utilize your vehicle's excellent heating system to completely dry off any damp clothes between the thoroughly wet stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Camomilla",
+                "hu": "Lido Camomilla",
+                "ro": "Lido Camomilla",
+                "en": "Lido Camomilla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den extrem wilden Meerblick von einem sicheren Ort aus; Fahren im strömenden Regen erfordert hier durch oft herumfliegende Küstenteile besondere Vorsicht.",
+                "hu": "Élvezze a lenyűgözően vad tengeri kilátást egy biztonságos, védett helyről; az esős vezetés itt maximális extra óvatosságot igényel a lehetséges parti törmelékek miatt.",
+                "ro": "Bucurați-vă de vederile extrem de sălbatice ale mării dintr-un loc sigur; condusul pe ploaie torențială necesită prudență maximă din cauza resturilor aduse de vântul puternic.",
+                "en": "Enjoy the wonderfully wild and untamed sea views safely from a completely sheltered spot; heavy rain driving requires extreme extra caution here due to occasionally unpredictable coastal debris."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Fontane Bianche",
+                "hu": "Lido Fontane Bianche",
+                "ro": "Lido Fontane Bianche",
+                "en": "Lido Fontane Bianche"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie ein warmes, überdachtes Café in direkter Strandnähe; halten Sie Ihre wasserdichte Regenjacke für den sehr schnellen, regnerischen Sprint vom Parkplatz bereit.",
+                "hu": "Keressen egy teljesen fedett, meleg kávézót a tengerpart közelében; tartsa azonnal kéznél a vízálló esőkabátját a parkolóból a bejáratig való rendkívül gyors sprinthez.",
+                "ro": "Găsiți o cafenea complet acoperită și caldă chiar lângă plajă; păstrați geaca groasă de ploaie absolut la îndemână pentru fuga extrem de rapidă prin ploaie din parcarea udă.",
+                "en": "Find a completely covered, comfortably warm cafe incredibly close to the beach; strictly keep your fully waterproof rain jacket extremely handy for the very quick dash from the incredibly wet parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sayonara",
+                "hu": "Lido Sayonara",
+                "ro": "Lido Sayonara",
+                "en": "Lido Sayonara"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmischen Wellen sicher vom Auto aus; beenden Sie den Tag unbedingt, bevor der extrem starke Abendregen das Fahren völlig gefährlich macht.",
+                "hu": "Nézze meg a hatalmas viharos hullámokat biztonságosan; feltétlenül fejezze be a napot, mielőtt a heves esti esőzések a parti vezetést rendkívül veszélyessé teszik.",
+                "ro": "Priviți valurile masive și furtunoase în siguranță; terminați ziua obligatoriu înainte ca ploaia abundentă și vizibilitatea extrem de redusă de seară să facă condusul periculos.",
+                "en": "Watch the profoundly stormy and massive waves crash dramatically against the shore; explicitly plan to end the day safely before the extraordinarily heavy evening rain makes coastal driving unpleasantly hazardous."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterfahrt zu historischen Orten gemütlich mit der Autoheizung. Mittags locken malerische Küstenfahrten unter klarem Himmel. Die nachmittäglichen Strandstopps sind friedlich und in goldenes Licht getaucht. Beenden Sie die Tour bis 17:00 Uhr, da der frühe Sonnenuntergang plötzliche Kälte bringt.",
+            "hu": "Kezdje a téli autózást a történelmi helyek felfedezésével a bekapcsolt fűtés kényelmében. A dél festői parti utakat kínál tiszta égbolt alatt. A délutáni strandmegállók békések, gyönyörű arany fényekkel. Fejezze be a városnézést 17:00-ra, mivel a korai naplemente hirtelen hideget és sötét utakat hoz.",
+            "ro": "Începeți traseul de iarnă explorând locuri istorice confortabil, cu încălzirea mașinii pornită. Prânzul permite plimbări pitorești pe coastă sub cerul senin. Opririle de după-amiază la plaje oferă o lumină aurie superbă. Terminați vizita până la 17:00, deoarece apusul devreme aduce frig brusc și drumuri întunecate.",
+            "en": "Begin your winter drive exploring historic spots comfortably with the car's heater on. Midday allows for scenic coastal drives under crisp, clear skies. Afternoon stops at the beaches are peaceful, offering beautiful golden light. Complete your sightseeing by 17:00, as the early sunset brings sudden cold and dark roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di Cassibile",
+                "hu": "Torre di Cassibile",
+                "ro": "Torre di Cassibile",
+                "en": "Torre di Cassibile"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Sicht auf den historischen Turm in der sehr klaren Winterluft; das Parken ist herrlich einfach, aber tragen Sie draußen zwingend einen extrem warmen Mantel.",
+                "hu": "Kiváló látási viszonyok a toronynál a kristálytiszta, csípős téli levegőben; az üres utakon a parkolás nagyon könnyű, de kint mindenképpen vegyen fel meleg kabátot.",
+                "ro": "Vizibilitate absolut excelentă a turnului în aerul rece și incredibil de clar de iarnă; parcarea este extrem de ușoară, dar purtați obligatoriu o haină foarte călduroasă afară.",
+                "en": "Enjoy perfectly unhindered visibility of the tower in the exceptionally crisp winter air; delightfully quiet roads make parking effortlessly easy, but always wear a wonderfully warm coat entirely zipped outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Presepe di cartapesta",
+                "hu": "Presepe di cartapesta",
+                "ro": "Presepe di cartapesta",
+                "en": "Presepe di cartapesta"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese sehr gemütliche Innenausstellung; es ist ein absolut hervorragender Ort, um sich in den besonders kühlen, ungemütlichen Morgenstunden richtig aufzuwärmen.",
+                "hu": "Lépjen be ebbe a rendkívül hangulatos és meleg beltéri kiállításba; nagyszerű módja annak, hogy teljesen felmelegedjen a nagyon hűvös, szeles téli reggeli órákban.",
+                "ro": "Pășiți cu încredere în această expoziție interioară extrem de confortabilă; este o modalitate absolut excelentă de a vă încălzi rapid și complet în diminețile foarte răcoroase.",
+                "en": "Step completely inside to absolutely enjoy this incredibly cozy and fascinating indoor exhibit; it is a truly outstanding way to fully warm up perfectly during the bitterly chilly and windy morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das unglaublich ruhige Winterambiente der Kirche; halten Sie unbedingt einen dicken, sehr warmen Schal bereit, wenn Sie das hervorragend beheizte Auto verlassen.",
+                "hu": "Tapasztalja meg a templom lenyűgözően békés téli hangulatát; tartson közvetlenül kéznél egy vastag, nagyon meleg sálat, amikor kiszáll a tökéletesen fűtött autóból.",
+                "ro": "Experimentați ambianța extraordinar de senină de iarnă a bisericii; păstrați un fular foarte gros și călduros la absolută îndemână când ieșiți din mașina excelent încălzită.",
+                "en": "Gently experience the extraordinarily serene and quiet winter ambiance of the historic church; firmly keep a thick and intensely warm scarf extremely handy when finally stepping out of the completely heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Stella del Mare",
+                "hu": "Chiesa di Maria Stella del Mare",
+                "ro": "Chiesa di Maria Stella del Mare",
+                "en": "Chiesa di Maria Stella del Mare"
+              },
+              "tip_5lang": {
+                "de": "Die extrem helle Wintersonne beleuchtet das Äußere wunderschön; kleiden Sie sich zwingend im warmen Zwiebellook, um die starken Temperaturwechsel draußen auszugleichen.",
+                "hu": "A ragyogóan tiszta téli nap gyönyörűen megvilágítja a külsejét; öltözzön okosan több meleg rétegbe a kinti és benti jelentős hőmérséklet-változások tökéletes kezelése miatt.",
+                "ro": "Soarele extrem de strălucitor de iarnă iluminează pur și simplu frumos exteriorul; îmbrăcați-vă exclusiv în straturi foarte calde pentru a gestiona schimbările mari de temperatură.",
+                "en": "The profoundly bright winter sun absolutely beautifully illuminates the church exterior; dress completely sensibly in extremely warm layers to easily adjust to the highly noticeable temperature changes directly outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Camomilla",
+                "hu": "Lido Camomilla",
+                "ro": "Lido Camomilla",
+                "en": "Lido Camomilla"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie am herrlichen, ruhigen Winterstrand; die Meeresbrise ist vom Parkplatz an enorm frisch, daher wird eine sehr dicke winddichte Jacke wärmstens empfohlen.",
+                "hu": "Sétáljon a teljesen csendes és lenyűgöző téli strandon; a tengeri szél rendkívül élénk a parkolótól, így egy igazán vastag szélálló dzseki viselése erősen és határozottan ajánlott.",
+                "ro": "Plimbați-vă liniștit pe plaja de iarnă complet tăcută; briza aspră a mării lovește extrem de tare de la parcare, deci o geacă foarte groasă de vânt e absolut și total recomandată.",
+                "en": "Peacefully stroll the incredibly quiet and stunning winter beach; the freezing sea breeze is extremely brisk right from the car park, so a tremendously thick windproof jacket is highly appropriately recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Fontane Bianche",
+                "hu": "Lido Fontane Bianche",
+                "ro": "Lido Fontane Bianche",
+                "en": "Lido Fontane Bianche"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den extrem ruhigen weißen Sand am Wintermeer; völlig ohne die Sommermassen ist das Parken direkt und bequem am Strand ein absolutes, stressfreies Kinderspiel.",
+                "hu": "Élvezze a hófehér homok és a téli tenger lenyűgöző kontrasztját; a hatalmas nyári tömeg hiánya miatt a parkolás közvetlenül és kényelmesen a partnál egyszerű gyerekjáték.",
+                "ro": "Bucurați-vă de contrastul absolut uimitor dintre nisipul alb imaculat și marea de iarnă; lipsa completă a aglomerației face parcarea exact la plajă o activitate extrem de ușoară.",
+                "en": "Profoundly enjoy the absolutely stunning and pristine contrast of white sand and the majestic winter sea; the complete lack of summer crowds delightfully makes parking directly completely by the beach an absolute breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sayonara",
+                "hu": "Lido Sayonara",
+                "ro": "Lido Sayonara",
+                "en": "Lido Sayonara"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen, herrlichen Sonnenuntergang gegen 17:00 Uhr; nach Einbruch der vollkommenen Dunkelheit wird es eiskalt, schalten Sie die Autoheizung auf Maximum.",
+                "hu": "Nézze meg a csodálatos, korai naplementét a víz felett pontosan 17:00-kor; sötétedés után meglepően és hirtelen hideg lesz, így tekerje fel teljesen a fűtést a kényelmes visszaútra.",
+                "ro": "Prindeți magnificul apus timpuriu exact peste apă la ora 17:00; se face uluitor de frig după lăsarea completă a întunericului, porniți imediat încălzirea la maxim în mașină.",
+                "en": "Catch the phenomenally beautiful and breathtakingly early sunset perfectly over the water exactly at 17:00; it gets surprisingly and intensely cold instantly after dark, so turn up the car heater enormously for the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

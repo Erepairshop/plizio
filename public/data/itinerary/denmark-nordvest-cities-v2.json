@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját a Grøndalskirken nyugodt közösségének felfedezésével, mielőtt a nyüzsgő Nørrebro negyed felé venné az irányt. Délben csodálja meg a történelmi De Gamles Bys Kirke-t. Délután gyönyörködjön a Szent János templom oltárképében, majd zárja a napot a kortárs előadóművészet elmélyülésével a híres Blaagaard Teaterben.",
         "ro": "Începeți plimbarea explorând comunitatea liniștită de la Grøndalskirken înainte de a vă îndrepta spre cartierul vibrant Nørrebro. La amiază, admirați istorica De Gamles Bys Kirke. După-amiaza, minunați-vă de altarul Bisericii Sf. Ioan. Încheiați ziua bucurându-vă de arta spectacolului contemporan la proeminentul Blaagaard Teater.",
         "en": "Begin your walk exploring the tranquil community of Grøndalskirken before heading to the vibrant Nørrebro district. Midday involves admiring the historic De Gamles Bys Kirke and enjoying a short stroll. In the afternoon, marvel at the altarpiece of Saint John's Church. End your day soaking in contemporary performance art at the prominent Blaagaard Teater."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der Grøndalskirken, deren gelbe Ziegel im Regen glänzen. Mittags bietet die Stefanskirke Schutz vor den Schauern, während man die Atmosphäre genießt. Am Nachmittag führt der Weg zur St. John's Church, bevor der Tag im Blaagaard Teater trocken ausklingt. Achten Sie auf festes Schuhwerk, da die Gehwege bei Nässe rutschig sein können.",
+            "hu": "A nap a Grøndalskirken sárga téglái között indul, amelyek esőben mélyebb árnyalatot kapnak. Délben a Stefanskirken nyújt menedéket a záporok elől. Délután a Szent János templom csendjét élvezhetjük, majd az estét a Blaagaard Teater fedett nézőterén zárjuk. Az utak csúszósak lehetnek, így a vízálló cipő és az óvatos léptek elengedhetetlenek.",
+            "ro": "Ziua începe la Grøndalskirken, unde cărămida galbenă capătă o strălucire aparte în ploaie. La prânz, Stefanskirken oferă un refugiu primitor. După-amiaza explorăm Biserica Sf. Ioan, iar seara ne retragem la Blaagaard Teater pentru un spectacol de interior. Atenție la pavajul ud care poate deveni alunecos; o pelerină de ploaie este obligatorie.",
+            "en": "Start at Grøndalskirken, where the rain highlights the unique brickwork. By noon, find shelter in the serene Stefanskirken. Spend the afternoon at Saint John's Church, escaping the drizzle, and conclude your day inside the cozy Blaagaard Teater. The sidewalks can be slippery when wet, so wear reliable waterproof boots and keep an umbrella handy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grøndalskirken",
+                "hu": "Grøndalskirken",
+                "ro": "Grøndalskirken",
+                "en": "Grøndalskirken"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markante Backsteinarchitektur im Trockenen und nutzen Sie den großen Eingangsbereich, um Ihren Regenschirm in Ruhe auszuschütteln.",
+                "hu": "Csodáld meg a különleges téglaépítészetet a fedett belső térben, a bejáratnál pedig tarts szünetet, amíg lerázod az esőt az esernyődről.",
+                "ro": "Admirați arhitectura distinctivă din interiorul uscat și folosiți zona de intrare spațioasă pentru a vă scutura umbrela înainte de vizită.",
+                "en": "Admire the striking brick architecture from the dry interior and use the spacious entrance area to shake off your umbrella before exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Stefanskirken",
+                "hu": "Stefanskirken",
+                "ro": "Stefanskirken",
+                "en": "Stefanskirken"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine warme Akustik bei Regen; setzen Sie sich in eine der hinteren Bänke und lauschen Sie dem Prasseln der Tropfen auf das Dach.",
+                "hu": "A templom meleg akusztikát kínál esőben; ülj le a hátsó padok egyikébe, és hallgasd a tetőn kopogó esőcseppek megnyugtató neszét.",
+                "ro": "Biserica oferă o acustică caldă pe timp de ploaie; așezați-vă în ultimele bănci și ascultați sunetul picăturilor care bat în acoperiș.",
+                "en": "The church offers warm acoustics during rain; take a seat in the back pews and listen to the soothing sound of droplets hitting the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "De Gamles Bys Kirke",
+                "hu": "De Gamles Bys Kirke",
+                "ro": "De Gamles Bys Kirke",
+                "en": "De Gamles Bys Kirke"
+              },
+              "tip_5lang": {
+                "de": "Dieser verborgene Ort ist ideal für eine kurze Regenpause; genießen Sie die schlichte Eleganz, während draußen der dänische Schauer niedergeht.",
+                "hu": "Ez a rejtett hely tökéletes egy rövid esőszünetre; élvezd a letisztult eleganciát, miközben kint elvonul a dániai zápor.",
+                "ro": "Acest loc ascuns este ideal pentru o scurtă pauză de ploaie; bucurați-vă de eleganța simplă în timp ce afară trece aversa daneză.",
+                "en": "This hidden gem is ideal for a short rain break; enjoy the simple elegance while waiting for the Danish shower to pass outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint John's Church",
+                "hu": "Szent János templom",
+                "ro": "Biserica Sf. Ioan",
+                "en": "Saint John's Church"
+              },
+              "tip_5lang": {
+                "de": "Die prächtige neugotische Fassade wirkt im grauen Regenlicht besonders mystisch; ein kurzer Sprint zum Portal hält Sie trocken.",
+                "hu": "A pompás neogótikus homlokzat a szürke esőben különösen misztikusnak tűnik; egy gyors sprint a kapuig segít szárazon maradni.",
+                "ro": "Fațada neogotică splendidă arată deosebit de mistică în lumina ploii; un sprint rapid către portal vă va menține hainele uscate.",
+                "en": "The grand Neo-Gothic facade looks particularly mystical in the gray rain; a quick sprint to the portal will keep you dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaagaard Teater",
+                "hu": "Blaagaard Teater",
+                "ro": "Blaagaard Teater",
+                "en": "Blaagaard Teater"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Warmen; nutzen Sie die Garderobe für Ihre nasse Kleidung und genießen Sie die Vorstellung völlig ungestört.",
+                "hu": "Tökéletes befejezés a melegben; használd a ruhatárat a vizes kabátodnak, és élvezd az előadást teljesen zavartalanul.",
+                "ro": "Finalul perfect la căldură; folosiți garderoba pentru hainele ude și bucurați-vă de spectacol fără nicio grijă de afară.",
+                "en": "The perfect end in the warmth; use the cloakroom for your wet gear and enjoy the performance without any worries about the weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen an der Grøndalskirken beginnt mit frostiger Luft. Mittags wärmt man sich in der Stefanskirke auf, bevor die frühe Dämmerung gegen 16 Uhr einsetzt. Die De Gamles Bys Kirke leuchtet einladend im fahlen Winterlicht. Der Tag endet festlich im Blaagaard Teater. Tragen Sie Thermokleidung, da der Wind in Nordvest im Winter sehr schneidend sein kann.",
+            "hu": "A fagyos téli reggel a Grøndalskirken templomnál indul. Délben a Stefanskirken falai között melegedhetünk fel, mielőtt 16 óra körül leszállna a korai sötétség. A De Gamles Bys Kirke barátságosan világít a téli szürkületben, az estét pedig a Blaagaard Teater ünnepi fényeiben zárjuk. Réteges öltözet ajánlott a Nordvest metsző szele ellen.",
+            "ro": "O dimineață răcoroasă de iarnă începe la Grøndalskirken cu aer înghețat. La prânz ne încălzim în Stefanskirken, înainte ca amurgul timpuriu să se lase în jur de ora 16. Biserica De Gamles Bys luminează primitor în lumina palidă de iarnă, iar seara se încheie festiv la Blaagaard Teater. Purtați haine termice pentru vântul tăios.",
+            "en": "A crisp winter morning at Grøndalskirken starts with frosty air. Warm up at noon inside Stefanskirken before the early sunset arrives around 4 PM. De Gamles Bys Kirke glows invitingly in the winter twilight, and the day ends festively at Blaagaard Teater. Wear thermal layers, as the winter wind in Nordvest can be quite sharp and biting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grøndalskirken",
+                "hu": "Grøndalskirken",
+                "ro": "Grøndalskirken",
+                "en": "Grøndalskirken"
+              },
+              "tip_5lang": {
+                "de": "Die warme Farbe der Ziegel bildet einen schönen Kontrast zum Frost; treten Sie ein, um der ersten morgendlichen Kälte zu entkommen.",
+                "hu": "A téglák meleg színe szép kontrasztot alkot a zúzmarával; lépj be korán, hogy elmenekülj a csípős reggeli hideg elől.",
+                "ro": "Culoarea caldă a cărămizilor face un contrast frumos cu gerul; intrați devreme pentru a scăpa de prima răceală a dimineții.",
+                "en": "The warm color of the bricks provides a lovely contrast to the frost; step inside early to escape the first morning chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Stefanskirken",
+                "hu": "Stefanskirken",
+                "ro": "Stefanskirken",
+                "en": "Stefanskirken"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort zum Aufwärmen im Viertel Nørrebro; genießen Sie die Ruhe des brennenden Kerzenlichts in der kalten Mittagszeit.",
+                "hu": "Ideális hely a felmelegedésre Nørrebro negyedében; élvezd a gyertyák megnyugtató fényét a fagyos délidőben.",
+                "ro": "Un loc ideal pentru încălzire în cartierul Nørrebro; bucurați-vă de liniștea lumânărilor aprinse în timpul prânzului geros.",
+                "en": "An ideal place to warm up in the Nørrebro district; enjoy the peaceful candlelight during the freezing midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "De Gamles Bys Kirke",
+                "hu": "De Gamles Bys Kirke",
+                "ro": "De Gamles Bys Kirke",
+                "en": "De Gamles Bys Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche wirkt im tiefstehenden Sonnenlicht des Winters besonders intim; achten Sie auf glatte Stellen auf den Gehwegen.",
+                "hu": "A kis templom a téli alacsony napállásban különösen meghittnek tűnik; ügyelj a járdák esetleges jegesedésére a környéken.",
+                "ro": "Mica biserică pare deosebit de intimă în lumina joasă a soarelui de iarnă; atenție la porțiunile cu gheață de pe trotuare.",
+                "en": "The small church feels especially intimate in the low winter sun; watch out for icy patches on the surrounding sidewalks."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint John's Church",
+                "hu": "Szent János templom",
+                "ro": "Biserica Sf. Ioan",
+                "en": "Saint John's Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor Einbruch der Dunkelheit, um die beleuchteten Fenster in der winterlichen Blauen Stunde zu sehen.",
+                "hu": "Látogasd meg a templomot közvetlenül sötétedés előtt, hogy lásd a kivilágított ablakokat a téli kék órában.",
+                "ro": "Vizitați biserica chiar înainte de lăsarea întunericului pentru a vedea ferestrele luminate în ora albastră a iernii.",
+                "en": "Visit the church just before dark to see the illuminated windows glowing during the winter blue hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaagaard Teater",
+                "hu": "Blaagaard Teater",
+                "ro": "Blaagaard Teater",
+                "en": "Blaagaard Teater"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre drinnen, während draußen der Winterwind weht; ideal, um den Tag entspannt im Warmen zu beenden.",
+                "hu": "Élvezd a benti barátságos hangulatot, miközben kint süvít a téli szél; ideális a nap melegben történő lezárásához.",
+                "ro": "Bucurați-vă de atmosfera primitoare din interior în timp ce vântul de iarnă suflă afară; ideal pentru a încheia ziua la căldură.",
+                "en": "Enjoy the cozy atmosphere inside while the winter wind howls outside; ideal for finishing your day relaxed and warm."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a Brønshøj Kirke középkori gyökereivel, majd tekerjen a geometrikus Bellahøj Kirke felé. Dél közeledtével lovagoljon el a Taksigelseskirkenhez, és merüljön el Nørrebroban a Stefanskirkennél. Töltse a délutánt az Aveny-T modern drámáival, és fejezze be a túrát az Alhambra szatíramúzeumában.",
         "ro": "Începeți turul cu bicicleta la rădăcinile medievale ale Brønshøj Kirke, pedalând spre geometrica Bellahøj Kirke. Pe măsură ce se apropie prânzul, mergeți la Taksigelseskirken și explorați Nørrebro la Stefanskirken. Petreceți după-amiaza la Aveny-T și terminați turul râzând cu poftă la muzeul de satiră Alhambra.",
         "en": "Kick off your cycling tour with the medieval roots of Brønshøj Kirke, pedaling towards the geometric Bellahøj Kirke. As noon approaches, ride to Taksigelseskirken and immerse yourself in Nørrebro at Stefanskirken. Spend your afternoon catching modern drama at Aveny-T, and finish the tour laughing your heart out at Alhambra’s satire museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet an der Brønshøj Kirke auf nassen Straßen. Mittags erreichen wir die Taksigelseskirken, wobei wir auf die rutschigen Markierungen auf dem Asphalt achten. Nachmittags geht es zur Stefanskirke, bevor wir den Tag bei Alhambra im Trockenen beenden. Regenponchos sind Pflicht, und Bremswege sollten wegen der Nässe länger kalkuliert werden.",
+            "hu": "A biciklitúra a Brønshøj Kirke mellől indul vizes utakon. Délben érjük el a Taksigelseskirkent, figyelve az aszfalton lévő csúszós útburkolati jelekre. Délután a Stefanskirken a cél, majd az Alhambra múzeumban száradhatunk meg. Az esőponcsó kötelező, és a féktávolságot nagyobbra kell hagyni a nedves út miatt.",
+            "ro": "Turul cu bicicleta pornește de la Brønshøj Kirke pe străzi ude. La prânz ajungem la Taksigelseskirken, fiind atenți la marcajele alunecoase de pe asfalt. După-amiaza mergem spre Stefanskirken, terminând ziua la muzeul Alhambra. Pelerina de ploaie este obligatorie, iar distanța de frânare trebuie calculată cu grijă.",
+            "en": "The cycling tour starts at Brønshøj Kirke on wet streets. Reach Taksigelseskirken by noon, being extra careful with slippery road markings. Spend the afternoon at Stefanskirken before drying off at the Alhambra museum. Rain ponchos are a must, and remember that braking distances are longer on wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brønshøj Kirke",
+                "hu": "Brønshøj Kirke",
+                "ro": "Brønshøj Kirke",
+                "en": "Brønshøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Platz am Kircheneingang, um Ihre Ausrüstung zu ordnen, bevor Sie auf die nassen Radwege starten.",
+                "hu": "Használd a templombejárat melletti fedett részt a felszerelésed elrendezésére, mielőtt nekivágnál a vizes kerékpárutaknak.",
+                "ro": "Folosiți zona acoperită de lângă intrarea bisericii pentru a vă organiza echipamentul înainte de a porni pe pistele ude.",
+                "en": "Use the covered area near the church entrance to organize your gear before heading out onto the wet bike paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellahøj Kirke",
+                "hu": "Bellahøj Kirke",
+                "ro": "Bellahøj Kirke",
+                "en": "Bellahøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche liegt auf einer Anhöhe; fahren Sie die Abfahrt bei Regen vorsichtig und mit moderater Geschwindigkeit hinunter.",
+                "hu": "A templom dombtetőn található; esőben óvatosan, mérsékelt sebességgel ereszkedj le a lejtőn a kerékpárral.",
+                "ro": "Biserica este situată pe o colină; coborâți panta cu mare atenție și viteză moderată pe timp de ploaie.",
+                "en": "The church is located on a hill; descend the slope carefully and at a moderate speed when the roads are wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Taksigelseskirken",
+                "hu": "Taksigelseskirken",
+                "ro": "Taksigelseskirken",
+                "en": "Taksigelseskirken"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Gebäude und genießen Sie die trockene Stille des Innenraums als perfekte Pause vom dänischen Wetter.",
+                "hu": "Parkold a biciklidet közvetlenül az épület mellé, és élvezd a belső tér száraz csendjét, mint tökéletes menedéket.",
+                "ro": "Parcați bicicleta aproape de clădire și bucurați-vă de liniștea uscată a interiorului ca o pauză perfectă de la vremea daneză.",
+                "en": "Park your bike close to the building and enjoy the dry silence of the interior as a perfect break from the Danish weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Stefanskirken",
+                "hu": "Stefanskirken",
+                "ro": "Stefanskirken",
+                "en": "Stefanskirken"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf die Pfützen vor der Kirche; der Innenraum bietet viel Platz, um sich kurz aufzuwärmen.",
+                "hu": "A parkolásnál ügyelj a templom előtti pocsolyákra; a belső térben bőven van hely egy rövid felmelegedésre.",
+                "ro": "Atenție la bălțile din fața bisericii când parcați; interiorul oferă mult spațiu pentru o scurtă încălzire.",
+                "en": "Watch out for puddles in front of the church when parking; the interior provides plenty of space for a quick warm-up."
+              }
+            },
+            {
+              "name": {
+                "de": "Aveny-T",
+                "hu": "Aveny-T",
+                "ro": "Aveny-T",
+                "en": "Aveny-T"
+              },
+              "tip_5lang": {
+                "de": "Das Theaterfoyer ist ein wunderbarer Ort, um kurz zu verschnaufen, während das Rad draußen im Regen sicher abgeschlossen steht.",
+                "hu": "A színház előcsarnoka remek hely egy rövid pihenőre, miközben a biciklid kint az esőben biztonságosan lezárva áll.",
+                "ro": "Foaierul teatrului este un loc minunat pentru o scurtă pauză, în timp ce bicicleta stă încuiată în siguranță afară în ploaie.",
+                "en": "The theater foyer is a wonderful place for a quick breather while your bike remains safely locked outside in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Alhambra - Museet for humor og satire",
+                "hu": "Alhambra - Museet for humor og satire",
+                "ro": "Alhambra - Museet for humor og satire",
+                "en": "Alhambra - Museet for humor og satire"
+              },
+              "tip_5lang": {
+                "de": "Hängen Sie Ihre Regenjacke im Museum auf und lassen Sie sich von der Ausstellung aufheitern, während es draußen weiter regnet.",
+                "hu": "Akaszd fel az esőkabátodat a múzeumban, és hagyd, hogy a kiállítás felvidítson, miközben kint tovább esik.",
+                "ro": "Agățați-vă pelerina în muzeu și lăsați expoziția să vă înveselească în timp ce afară ploaia continuă să cadă.",
+                "en": "Hang up your raincoat in the museum and let the exhibition cheer you up while the rain continues to fall outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Brønshøj Kirke erfordert warme Handschuhe am Lenker. Mittags geht es durch die klare Winterluft zur Taksigelseskirken. Ab 15:30 Uhr sinkt die Sonne, und bei Aveny-T schalten wir die Beleuchtung ein. Der Tag endet im gemütlichen Alhambra Museum. Vorsicht vor Glatteis auf den Radwegen, besonders in schattigen Abschnitten.",
+            "hu": "A fagyos induláshoz a Brønshøj Kirke mellől meleg kesztyűre lesz szükséged a kormányon. Délben a kristálytiszta téli levegőben tekerünk a Taksigelseskirken felé. 15:30-kor már bukik le a nap, az Aveny-T-nél pedig felkapcsoljuk a lámpákat. A nap az Alhambra múzeumban ér véget. Vigyázz a kerékpárutak jegesedésére az árnyékos részeken.",
+            "ro": "Un start înghețat la Brønshøj Kirke necesită mănuși groase pe ghidon. La prânz pedalăm prin aerul clar de iarnă spre Taksigelseskirken. De la 15:30 soarele apune, iar la Aveny-T aprindem luminile bicicletei. Ziua se termină la muzeul Alhambra. Atenție la gheața de pe pistele de biciclete în zonele umbrite.",
+            "en": "A frosty start at Brønshøj Kirke requires warm gloves on the handlebars. Pedal through the crisp winter air to Taksigelseskirken by noon. As the sun dips at 3:30 PM, turn on your bike lights near Aveny-T. The day concludes at the cozy Alhambra Museum. Watch out for black ice on bike paths, especially in shaded sections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brønshøj Kirke",
+                "hu": "Brønshøj Kirke",
+                "ro": "Brønshøj Kirke",
+                "en": "Brønshøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Beleuchtung vor der Abfahrt; im dänischen Winter ist gute Sichtbarkeit auf dem Rad lebenswichtig.",
+                "hu": "Indulás előtt ellenőrizd a világítást; a dán télben a jó láthatóság életmentő a kerékpáron.",
+                "ro": "Verificați luminile înainte de plecare; în iarna daneză, vizibilitatea bună pe bicicletă este esențială.",
+                "en": "Check your lights before departing; in the Danish winter, being visible on your bike is vital for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellahøj Kirke",
+                "hu": "Bellahøj Kirke",
+                "ro": "Bellahøj Kirke",
+                "en": "Bellahøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber oben angekommen sollten Sie schnell eintreten, um nicht im kalten Wind auszukühlen.",
+                "hu": "Az emelkedő melegen tart, de felérve gyorsan menj be a templomba, hogy ne hűlj le a metsző szélben.",
+                "ro": "Urcarea vă va ține cald, dar odată ajunși sus, intrați rapid pentru a nu răci în vântul tăios.",
+                "en": "The climb will keep you warm, but once at the top, step inside quickly to avoid cooling down in the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Taksigelseskirken",
+                "hu": "Taksigelseskirken",
+                "ro": "Taksigelseskirken",
+                "en": "Taksigelseskirken"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Architektur wirkt im Winterlicht sehr rein; wärmen Sie Ihre Hände kurz an den Heizkörpern im Inneren auf.",
+                "hu": "A letisztult építészet a téli fényben nagyon tiszta hatást kelt; melegítsd fel a kezed a benti fűtőtesteknél.",
+                "ro": "Arhitectura simplă pare foarte pură în lumina iernii; încălziți-vă mâinile la radiatoarele din interior pentru câteva minute.",
+                "en": "The simple architecture looks very pure in the winter light; take a moment to warm your hands by the radiators inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Stefanskirken",
+                "hu": "Stefanskirken",
+                "ro": "Stefanskirken",
+                "en": "Stefanskirken"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad vorsichtig auf dem oft gefrorenen Kopfsteinpflaster vor dem Eingang der Kirche.",
+                "hu": "Parkold a biciklidet óvatosan a templom előtti macskaköveken, amelyek ilyenkor gyakran le vannak fagyva.",
+                "ro": "Parcați bicicleta cu atenție pe pavajul de piatră care este adesea înghețat în fața intrării bisericii.",
+                "en": "Park your bike carefully on the cobblestones in front of the church, as they are often frozen and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Aveny-T",
+                "hu": "Aveny-T",
+                "ro": "Aveny-T",
+                "en": "Aveny-T"
+              },
+              "tip_5lang": {
+                "de": "Bei Einbruch der Dunkelheit wirkt das beleuchtete Theater wie ein warmer Hafen; ideal für eine Pause vom Radfahren im Frost.",
+                "hu": "Sötétedéskor a kivilágított színház meleg kikötőnek tűnik; ideális pihenőhely a fagyos tekerés közben.",
+                "ro": "La lăsarea serii, teatrul luminat arată ca un port cald; ideal pentru o pauză de la pedalatul prin ger.",
+                "en": "At dusk, the illuminated theater looks like a warm harbor; an ideal rest stop from cycling in the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Alhambra - Museet for humor og satire",
+                "hu": "Alhambra - Museet for humor og satire",
+                "ro": "Alhambra - Museet for humor og satire",
+                "en": "Alhambra - Museet for humor og satire"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im Warmen und genießen Sie die dänische Gemütlichkeit (Hygge), während es draußen eiskalt wird.",
+                "hu": "Zárd a túrát a melegben, és élvezd a dán életérzést (hygge), miközben kint már repkednek a mínuszok.",
+                "ro": "Încheiați turul la căldură și bucurați-vă de confortul danez (hygge), în timp ce afară se face extrem de frig.",
+                "en": "End your tour in the warmth and enjoy the Danish coziness (hygge) while it gets freezing cold outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje az autós napot a neogótikus Taksigelseskirken megcsodálásával, mielőtt a középkori Brønshøj Kirkéhez cirkálna. A déli utazás a Flintholm Kirke modern egyházközségén és az elegáns Møstings Huson vezet keresztül. Délután élvezze a karikatúrákat a Storm P. Museet-ben, és fejezze be az utat a csodálatos Szent János templomnál.",
         "ro": "Începeți ziua de condus admirând neogotica Taksigelseskirken înainte de a merge la medievala Brønshøj Kirke. Călătoria de la amiază vă poartă prin parohia modernă Flintholm Kirke și eleganta Møstings Hus. După-amiaza, bucurați-vă de desenele animate la Storm P. Museet și finalizați călătoria la superba Biserică Sf. Ioan.",
         "en": "Start your driving day admiring the neo-gothic Taksigelseskirken before cruising to the medieval Brønshøj Kirke. Your midday journey takes you through the modern parish of Flintholm Kirke and the elegant Møstings Hus. In the afternoon, enjoy the cartoons at Storm P. Museet, and finalize the trip at the magnificent Saint John's Church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt an der Taksigelseskirken, wobei die Scheibenwischer den Rhythmus vorgeben. Mittags besuchen wir das Møstings Hus und parken nah am Eingang. Nachmittags geht es zum Storm P. Museet, während es draußen ununterbrochen regnet. Der Tag endet an der Saint John's Church. Achten Sie auf Aquaplaning auf den größeren Straßen und nutzen Sie die Parkplätze direkt vor den Zielen.",
+            "hu": "Az út a Taksigelseskirkentől indul, az ablaktörlők ütemes kattogása mellett. Délben a Møstings Hus-t látogatjuk meg, közvetlenül a bejáratnál parkolva. Délután a Storm P. Museet következik, miközben kint megállás nélkül esik. A nap a Szent János templomnál ér véget. Ügyelj a vízenfutásra a főutakon, és válaszd a bejárathoz legközelebbi parkolóhelyeket.",
+            "ro": "Călătoria începe la Taksigelseskirken, cu ștergătoarele setate pe viteză medie. La prânz vizităm Møstings Hus, parcând cât mai aproape de intrare. După-amiaza urmează Storm P. Museet, în timp ce afară plouă neîncetat. Ziua se încheie la Biserica Sf. Ioan. Atenție la acvaplanare pe drumurile principale și folosiți parcările din imediata apropiere.",
+            "en": "Start at Taksigelseskirken with the wipers keeping a steady rhythm. Visit Møstings Hus at noon, parking as close to the entrance as possible. Spend the afternoon at the Storm P. Museum while the rain falls continuously outside. End your day at Saint John's Church. Be cautious of aquaplaning on main roads and take advantage of parking spots right in front of the stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Taksigelseskirken",
+                "hu": "Taksigelseskirken",
+                "ro": "Taksigelseskirken",
+                "en": "Taksigelseskirken"
+              },
+              "tip_5lang": {
+                "de": "Es gibt gute Parkmöglichkeiten in der Nähe; ein kurzer Weg durch den Regen führt Sie direkt in die moderne Stille der Kirche.",
+                "hu": "Jók a parkolási lehetőségek a közelben; egy rövid séta az esőben, és máris a templom modern csendjében találod magad.",
+                "ro": "Există opțiuni bune de parcare în apropiere; un scurt drum prin ploaie vă duce direct în liniștea modernă a bisericii.",
+                "en": "There are good parking options nearby; a short walk through the rain leads you directly into the modern silence of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Brønshøj Kirke",
+                "hu": "Brønshøj Kirke",
+                "ro": "Brønshøj Kirke",
+                "en": "Brønshøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz an der Kirche; der historische Innenraum ist der ideale Zufluchtsort vor dem nasskalten Wetter.",
+                "hu": "Használd a templom saját parkolóját; a történelmi belső tér ideális menedék a nyirkos, esős időjárás elől.",
+                "ro": "Folosiți parcarea de la biserică; interiorul istoric este refugiul ideal împotriva vremii umede și reci.",
+                "en": "Use the church's parking lot; the historical interior is an ideal sanctuary from the damp and rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Flintholm Kirke",
+                "hu": "Flintholm Kirke",
+                "ro": "Flintholm Kirke",
+                "en": "Flintholm Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur bietet auch von außen einen tollen Anblick, den man bei Regen bequem aus dem Auto bewundern kann.",
+                "hu": "A modern építészet kívülről is remek látványt nyújt, amit esőben kényelmesen, az autóból is megcsodálhatsz.",
+                "ro": "Arhitectura modernă oferă o priveliște excelentă și de afară, pe care o puteți admira confortabil din mașină pe timp de ploaie.",
+                "en": "The modern architecture offers a great view from the outside, which you can comfortably admire from the car during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Møstings Hus",
+                "hu": "Møstings Hus",
+                "ro": "Møstings Hus",
+                "en": "Møstings Hus"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Allee und genießen Sie die Kunstausstellung im Trockenen; das Haus wirkt bei Regen besonders gemütlich.",
+                "hu": "Parkolj a fasor mentén, és élvezd a művészeti kiállítást a szárazban; a ház esőben különösen otthonosnak hat.",
+                "ro": "Parcați de-a lungul aleii și bucurați-vă de expoziția de artă la uscat; casa pare deosebit de primitoare când plouă.",
+                "en": "Park along the avenue and enjoy the art exhibition in the dry; the house feels especially cozy when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Storm P. Museet",
+                "hu": "Storm P. Museet",
+                "ro": "Storm P. Museet",
+                "en": "Storm P. Museet"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für einen regnerischen Nachmittag; tauchen Sie in die Welt des Humors ein, während die Tropfen an die Fenster klopfen.",
+                "hu": "Tökéletes hely egy esős délutánra; merülj el a humor világában, miközben az esőcseppek az ablakon kopognak.",
+                "ro": "Locul perfect pentru o după-amiază ploioasă; scufundați-vă în lumea umorului în timp ce picăturile bat în ferestre.",
+                "en": "The perfect spot for a rainy afternoon; immerse yourself in the world of humor while the raindrops drum on the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt Thomas Kirke",
+                "hu": "Sankt Thomas Kirke",
+                "ro": "Sankt Thomas Kirke",
+                "en": "Sankt Thomas Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Portal genügt; im Inneren erwartet Sie eine friedliche Atmosphäre fernab des Regenchaos.",
+                "hu": "Csak egy rövid sprint az autótól a kapuig; bent békés hangulat vár, távol az esős utcák zajától.",
+                "ro": "Doar un sprint scurt de la mașină până la poartă; în interior vă așteaptă o atmosferă pașnică, departe de haosul ploii.",
+                "en": "Just a short sprint from the car to the portal; inside, a peaceful atmosphere awaits you, far from the rainy chaos."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint John's Church",
+                "hu": "Szent János templom",
+                "ro": "Biserica Sf. Ioan",
+                "en": "Saint John's Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier und genießen Sie das prasselnde Geräusch des Regens auf dem Kirchendach vor der Rückfahrt.",
+                "hu": "Zárd itt a napot, és élvezd a templomtetőn kopogó eső hangját, mielőtt visszaindulnál az autóval.",
+                "ro": "Încheiați ziua aici și bucurați-vă de sunetul ploii pe acoperișul bisericii înainte de drumul de întoarcere.",
+                "en": "Conclude your day here and enjoy the sound of the rain drumming on the church roof before your drive back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour startet mit Sitzheizung an der Taksigelseskirken. Mittags führt die Fahrt durch das frostige Kopenhagen zum Møstings Hus. Da es um 16 Uhr dunkel wird, erstrahlt das Storm P. Museet in festlichem Licht. Der Tag endet an der Saint John's Church. Achten Sie auf überfrierende Nässe und nutzen Sie die beheizten Innenräume der Museen für ausgiebige Pausen.",
+            "hu": "A téli autós túra ülésfűtéssel indul a Taksigelseskirkennél. Délben a fagyos Koppenhágán át hajtunk a Møstings Hus felé. Mivel 16 órakor sötétedik, a Storm P. Museet már ünnepi fényekben úszik délután. A nap a Szent János templomnál ér véget. Ügyelj a lefagyott utakra, és használd ki a múzeumok melegét a hosszabb pihenőkhöz.",
+            "ro": "Turul de iarnă începe cu încălzirea în scaune la Taksigelseskirken. La prânz conducem prin Copenhaga înghețată spre Møstings Hus. Deoarece la ora 16 se întunecă, Storm P. Museet strălucește în lumini festive. Ziua se termină la Biserica Sf. Ioan. Atenție la polei pe drum și folosiți interiorul cald al muzeelor pentru pauze lungi.",
+            "en": "Start your winter drive with seat heating at Taksigelseskirken. At noon, drive through frosty Copenhagen to Møstings Hus. Since it gets dark by 4 PM, the Storm P. Museum will be glowingly lit for your afternoon visit. End your day at Saint John's Church. Be cautious of black ice on the roads and enjoy the warm museum interiors for extended breaks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Taksigelseskirken",
+                "hu": "Taksigelseskirken",
+                "ro": "Taksigelseskirken",
+                "en": "Taksigelseskirken"
+              },
+              "tip_5lang": {
+                "de": "Das Auto bleibt draußen im Frost, während Sie die moderne und gut beheizte Kirche in Ruhe besichtigen können.",
+                "hu": "Az autó kint marad a fagyban, miközben te nyugodtan körülnézhetsz a modern és jól fűtött templomban.",
+                "ro": "Mașina rămâne afară în ger, în timp ce puteți vizita în liniște biserica modernă și bine încălzită.",
+                "en": "The car stays outside in the frost while you can peacefully visit the modern and well-heated church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Brønshøj Kirke",
+                "hu": "Brønshøj Kirke",
+                "ro": "Brønshøj Kirke",
+                "en": "Brønshøj Kirke"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf den Parkplatzoberflächen auf Eis; der Innenraum bietet eine wunderbare Zuflucht vor der winterlichen Kälte.",
+                "hu": "Ügyelj a parkoló jeges felületére; a belső tér csodálatos menedéket nyújt a téli csípős hideg elől.",
+                "ro": "Atenție la gheața de pe suprafața parcării; interiorul oferă un refugiu minunat împotriva frigului de iarnă.",
+                "en": "Watch out for ice on the parking lot surface; the interior provides a wonderful escape from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Flintholm Kirke",
+                "hu": "Flintholm Kirke",
+                "ro": "Flintholm Kirke",
+                "en": "Flintholm Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft lässt die scharfen Kanten der modernen Kirche besonders eindrucksvoll zur Geltung kommen.",
+                "hu": "A tiszta téli levegőben a modern templom éles vonalai különösen lenyűgözően érvényesülnek.",
+                "ro": "Aerul clar de iarnă face ca liniile ascuțite ale bisericii moderne să iasă în evidență într-un mod impresionant.",
+                "en": "The crisp winter air makes the sharp edges of the modern church stand out in an especially impressive way."
+              }
+            },
+            {
+              "name": {
+                "de": "Møstings Hus",
+                "hu": "Møstings Hus",
+                "ro": "Møstings Hus",
+                "en": "Møstings Hus"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der Kälte draußen und der warmen Atmosphäre im Inneren dieses historischen Gebäudes.",
+                "hu": "Élvezd a kinti hideg és e történelmi épület belső, meleg hangulata közötti kellemes kontrasztot.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și atmosfera caldă din interiorul acestei clădiri istorice.",
+                "en": "Enjoy the pleasant contrast between the cold outside and the warm atmosphere inside this historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Storm P. Museet",
+                "hu": "Storm P. Museet",
+                "ro": "Storm P. Museet",
+                "en": "Storm P. Museet"
+              },
+              "tip_5lang": {
+                "de": "Ein Highlight in der frühen winterlichen Dämmerung; das Museum ist ein gemütlicher Ort, um dem Frost zu entkommen.",
+                "hu": "Fénypont a korai téli szürkületben; a múzeum barátságos hely, hogy elmenekülj a kinti fagy elől.",
+                "ro": "Un punct culminant în amurgul timpuriu de iarnă; muzeul este un loc primitor pentru a scăpa de ger.",
+                "en": "A highlight during the early winter twilight; the museum is a cozy place to escape the freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt Thomas Kirke",
+                "hu": "Sankt Thomas Kirke",
+                "ro": "Sankt Thomas Kirke",
+                "en": "Sankt Thomas Kirke"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und wärmen Sie sich im Inneren auf, bevor Sie die letzte Etappe Ihrer Tour antreten.",
+                "hu": "Parkolj a közelben, és melegedj fel bent egy kicsit, mielőtt nekivágnál a túra utolsó szakaszának.",
+                "ro": "Parcați în apropiere și încălziți-vă în interior înainte de a porni în ultima etapă a turului.",
+                "en": "Park nearby and warm up inside for a while before heading out on the final leg of your winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint John's Church",
+                "hu": "Szent János templom",
+                "ro": "Biserica Sf. Ioan",
+                "en": "Saint John's Church"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchtete Kirche in der winterlichen Dunkelheit ist ein herrlicher Anblick zum Abschluss Ihrer Autofahrt.",
+                "hu": "A kivilágított templom a téli sötétségben fenséges látvány, tökéletes zárása az autós kirándulásnak.",
+                "ro": "Biserica luminată în întunericul iernii este o priveliște superbă pentru a încheia călătoria cu mașina.",
+                "en": "The illuminated church in the winter darkness is a magnificent sight to conclude your driving tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az Asminderød Kirkénél, élvezve a gazdag helyi örökséget.\n\nDélben látogasson el a lenyűgöző Fredensborgi kastélyba és annak zöld kertjeibe.\n\nDélután fedezze fel a történelmi Slotskirke és a Nordmandsdalen lenyűgöző szobrait.\n\nZárja sétáját a Kovangsgården történelmi birtokánál, elmerülve a helyi múltban.",
         "ro": "Începeți dimineața la Biserica Asminderød, bucurându-vă de moștenirea locală.\n\nLa prânz, vizitați magnificul Palat Fredensborg și grădinile sale spectaculoase.\n\nDupă-amiaza, explorați Slotskirke și sculpturile unice din zona Nordmandsdalen.\n\nÎncheiați plimbarea la Kovangsgården, descoperind fascinanta istorie tradițională.",
         "en": "Start your morning at Asminderød Kirke, soaking in the area's local heritage.\n\nMidday takes you to the magnificent Fredensborg Palace and its beautiful gardens.\n\nIn the afternoon, explore the historic Slotskirke and the sculptures of Nordmandsdalen.\n\nConclude your walking tour at Kovangsgården, diving deep into regional history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Asminderød Kirke, wo die massiven Mauern Schutz vor dem dänischen Regen bieten. Mittags führt der Weg zum Schloss Fredensborg, dessen prachtvolle Innenräume die perfekte Flucht vor dem nassen Wetter ermöglichen. Am Nachmittag laden die Schlosskirche und das mystische Nordmandsdalen zu einem stimmungsvollen Spaziergang ein. Der Tag endet gemütlich am historischen Kovangsgården.",
+            "hu": "A reggel az Asminderød templomnál indul, ahol a vastag falak menedéket nyújtanak az eső elől. Délben a Fredensborgi kastély belső terei kínálnak tökéletes menekülést a csapadékos időben. Délután a kastélytemplom és a ködös Nordmandsdalen szobrai között tehetünk hangulatos sétát, ügyelve a csúszós ösvényekre. Az este a történelmi Kovangsgården vidéki nyugalmában zárul.",
+            "ro": "Dimineața începe la Biserica Asminderød, unde zidurile groase oferă adăpost împotriva ploii daneze. La prânz, interiorul Palatului Fredensborg oferă refugiul perfect pentru a explora istoria regală la adăpost. După-amiaza este dedicată bisericii palatului și văii Nordmandsdalen, care capătă un aer mistic pe ploaie. Ziua se încheie la Kovangsgården, într-o atmosferă istorică liniștită.",
+            "en": "The morning starts at Asminderød Kirke, where the ancient walls provide shelter from the Danish rain. At noon, Fredensborg Palace offers the perfect indoor escape to admire royal history. The afternoon continues at the palace church and the misty Nordmandsdalen, where statues look dramatic in the grey light. The day concludes at the historic Kovangsgården with its rustic charm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Asminderød Kirke",
+                "hu": "Asminderød Kirke",
+                "ro": "Biserica Asminderød",
+                "en": "Asminderød Kirke"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die mittelalterlichen Fresken im trockenen Kirchenschiff; ein idealer Ort, um die Regenkleidung zu richten und die Stille zu genießen.",
+                "hu": "Csodálja meg a középkori freskókat a templom száraz belső terében; ideális hely az esőkabát megigazítására és a csend élvezetére.",
+                "ro": "Admirați frescele medievale în interiorul uscat al bisericii; este locul ideal pentru a vă ajusta pelerina de ploaie și a savura liniștea.",
+                "en": "Admire the medieval frescoes inside the dry nave; it is the ideal spot to adjust your raincoat and enjoy the peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fredensborg",
+                "hu": "Fredensborgi kastély",
+                "ro": "Palatul Fredensborg",
+                "en": "Fredensborg Palace"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für eine Führung durch die prunkvollen Säle; drinnen bleiben Sie trocken, während Sie königliche Geschichte erleben.",
+                "hu": "Használja ki az esőt egy kastélytúrára a pompás termekben; maradjon szárazon, miközben testközelből ismeri meg a dán királyi történelmet.",
+                "ro": "Profită de ploaie pentru un tur al sălilor fastuoase; rămâi la adăpost în timp ce descoperi istoria regală daneză la ea acasă.",
+                "en": "Take advantage of the rain for a palace tour through the grand halls; stay dry while experiencing Danish royal history up close."
+              }
+            },
+            {
+              "name": {
+                "de": "Fredensborg Slotskirke",
+                "hu": "Fredensborg Slotskirke",
+                "ro": "Biserica Palatului Fredensborg",
+                "en": "Fredensborg Slotskirke"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvolle Decke der Kapelle ist ein Highlight; genießen Sie den geschützten Raum, während der Regen gegen die hohen Fenster prasselt.",
+                "hu": "A kápolna pompás mennyezete igazi látványosság; élvezze a védett teret, miközben az eső a magas ablakokon kopog.",
+                "ro": "Tavanul splendid al capelei este o atracție majoră; bucurați-vă de spațiul protejat în timp ce ploaia bate în ferestrele înalte.",
+                "en": "The chapel's magnificent ceiling is a highlight; enjoy the sheltered space while the rain drums against the tall windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordmandsdalen",
+                "hu": "Nordmandsdalen",
+                "ro": "Nordmandsdalen",
+                "en": "Nordmandsdalen"
+              },
+              "tip_5lang": {
+                "de": "Die Sandsteinstatuen wirken im Regen besonders dramatisch; tragen Sie wasserfeste Schuhe, da die Pfade im Tal aufweichen können.",
+                "hu": "A homokkő szobrok az esőben különösen drámai látványt nyújtanak; viseljen vízálló cipőt, mert a völgy ösvényei felázhatnak.",
+                "ro": "Statuile de gresie par deosebit de dramatice în ploaie; purtați încălțăminte impermeabilă, deoarece potecile din vale pot deveni noroioase.",
+                "en": "The sandstone statues look particularly dramatic in the rain; wear waterproof shoes as the paths in the valley can get muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kovangsgården",
+                "hu": "Kovangsgården",
+                "ro": "Kovangsgården",
+                "en": "Kovangsgården"
+              },
+              "tip_5lang": {
+                "de": "Das historische Gehöft versprüht auch bei grauem Himmel Charme; nutzen Sie die überdachten Bereiche, um den Tag entspannt ausklingen zu lassen.",
+                "hu": "A történelmi tanya szürke égbolt alatt is bájos; használja a fedett részeket a nap nyugodt lezárásához.",
+                "ro": "Ferma istorică are farmec chiar și sub cerul gri; folosiți zonele acoperite pentru a încheia ziua într-un mod relaxant.",
+                "en": "The historic farmstead exudes charm even under grey skies; use the sheltered areas to end the day in a relaxed manner."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen führt zur Asminderød Kirke, deren Kerzenlicht Wärme spendet. Mittags glänzt Schloss Fredensborg in der klaren Winterluft, oft umgeben von einer feinen Reifschicht. Da die Sonne gegen 17:00 Uhr untergeht, besuchen wir die Slotskirke und das magische Nordmandsdalen noch im hellen Schein. Der Abend endet am Kovangsgården, wenn die Dunkelheit Fredensborg fest im Griff hat.",
+            "hu": "A fagyos reggel az Asminderød templomhoz vezet, ahol a gyertyafény melegséget áraszt. Délben a Fredensborgi kastély csillog a tiszta téli levegőben, gyakran zúzmara borítja. Mivel a nap 17:00 körül nyugszik, a Slotskirkét és a varázslatos Nordmandsdalent még világosban látogatjuk meg. Az este a Kovangsgårdennél zárul, amikor a sötétség már teljesen körbeöleli a várost.",
+            "ro": "O dimineață geroasă duce la Biserica Asminderød, unde lumina lumânărilor oferă căldură. La prânz, Palatul Fredensborg strălucește în aerul rece de iarnă, adesea acoperit de chiciură. Deoarece soarele apune în jurul orei 17:00, vizităm Slotskirke și valea magică Nordmandsdalen cât încă este lumină. Seara se încheie la Kovangsgården, sub cerul înstelat de iarnă.",
+            "en": "A frosty morning leads to Asminderød Kirke, where candlelight offers warmth. At noon, Fredensborg Palace shines in the crisp winter air, often covered in hoarfrost. Since the sun sets around 17:00, we visit the Slotskirke and the magical Nordmandsdalen while it is still light. The evening concludes at Kovangsgården as the winter darkness settles over the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Asminderød Kirke",
+                "hu": "Asminderød Kirke",
+                "ro": "Biserica Asminderød",
+                "en": "Asminderød Kirke"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im beheizten Innenraum; die dicken Mauern halten den eisigen Nordwind draußen perfekt fern.",
+                "hu": "Élvezze a fűtött belső tér nyugalmát; a vastag falak tökéletesen távol tartják a kinti jeges északi szelet.",
+                "ro": "Bucurați-vă de liniștea interiorului încălzit; zidurile groase țin la distanță vântul înghețat de nord din exterior.",
+                "en": "Enjoy the peace of the heated interior; the thick walls perfectly keep the icy north wind outside at bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fredensborg",
+                "hu": "Fredensborgi kastély",
+                "ro": "Palatul Fredensborg",
+                "en": "Fredensborg Palace"
+              },
+              "tip_5lang": {
+                "de": "Die weiße Fassade wirkt im Winterlicht besonders edel; tragen Sie warme Schichten für den kurzen Weg vom Tor zum Eingang.",
+                "hu": "A fehér homlokzat a téli fényben különösen nemes hatást kelt; viseljen meleg rétegeket a kaputól a bejáratig tartó rövid úton.",
+                "ro": "Fațada albă arată deosebit de nobil în lumina iernii; purtați straturi calde pentru scurta plimbare de la poartă până la intrare.",
+                "en": "The white facade looks particularly noble in the winter light; wear warm layers for the short walk from the gate to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Fredensborg Slotskirke",
+                "hu": "Fredensborg Slotskirke",
+                "ro": "Biserica Palatului Fredensborg",
+                "en": "Fredensborg Slotskirke"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die festliche Winterstimmung in der Kapelle; die prunkvolle Innenausstattung wirkt im schwindenden Tageslicht besonders golden.",
+                "hu": "Élje át a kápolna ünnepi téli hangulatát; a pompás belső tér a fogyatkozó nappali fényben különösen aranylón ragyog.",
+                "ro": "Experimentați atmosfera festivă de iarnă în capelă; interiorul somptuos pare deosebit de auriu în lumina slabă a zilei.",
+                "en": "Experience the festive winter atmosphere in the chapel; the grand interior looks particularly golden in the fading daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordmandsdalen",
+                "hu": "Nordmandsdalen",
+                "ro": "Nordmandsdalen",
+                "en": "Nordmandsdalen"
+              },
+              "tip_5lang": {
+                "de": "Bei Schnee verwandelt sich das Tal in eine Märchenlandschaft; achten Sie auf glatte Stellen auf den historischen Steinstufen.",
+                "hu": "Hóban a völgy mesebeli tájjá változik; ügyeljen a jeges foltokra a történelmi kőlépcsőkön.",
+                "ro": "În zăpadă, valea se transformă într-un peisaj de basm; atenție la porțiunile alunecoase de pe treptele de piatră istorice.",
+                "en": "In the snow, the valley turns into a fairytale landscape; watch out for slippery patches on the historic stone steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Kovangsgården",
+                "hu": "Kovangsgården",
+                "ro": "Kovangsgården",
+                "en": "Kovangsgården"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Hof vor Einbruch der Dunkelheit; die tiefstehende Sonne sorgt für eine wunderschöne Lichtstimmung auf dem Gelände.",
+                "hu": "Sötétedés előtt látogassa meg a tanyát; az alacsonyan járó nap gyönyörű fényeket varázsol az udvarra.",
+                "ro": "Vizitați ferma înainte de lăsarea întunericului; soarele de joasă altitudine creează o lumină superbă pe domeniu.",
+                "en": "Visit the farm before dark; the low sun creates beautiful lighting on the grounds."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a tekerést a Grønholt Kirkénél és a helyi történelmi motte régi romjainál.\n\nDélben tekerjen az Asminderød Kirke és a lenyűgöző királyi Fredensborgi kastély felé.\n\nDélután csodálja meg a Nordmandsdalen különleges és hihetetlenül művészi kőszobrait.\n\nFejezze be az aktív napot a Falkonergården lenyűgöző madárkiállításainak otthonában.",
         "ro": "Începeți traseul la Biserica Grønholt și la vechile ruine istorice ale fortăreței.\n\nLa prânz, pedalați spre Biserica Asminderød și elegantul, spectaculosul Palat Fredensborg.\n\nPetreceți după-amiaza admirând statuile fascinante din frumosul și pitorescul Nordmandsdalen.\n\nÎncheiați ziua activă la Falkonergården cu expozițiile sale incredibile de păsări.",
         "en": "Start cycling at Grønholt Kirke and the historic, subtle ruins of the Grønholt motte.\n\nPedal north at midday to Asminderød Kirke and the grand, royal Fredensborg Palace.\n\nSpend your afternoon admiring the fascinating statues located at beautiful Nordmandsdalen.\n\nFinish the active day at Falkonergården with its incredible birds of prey exhibitions."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir per Rad in Grønholt. Die Kirchen bieten guten Unterschlupf, während wir uns nach Fredensborg vorarbeiten. Mittags erkunden wir das Schloss, das eine trockene Abwechslung bietet. Am Nachmittag radeln wir vorsichtig durch das feuchte Nordmandsdalen zur Falkonergården. Die Wege können rutschig sein, daher ist bei den Abfahrten erhöhte Aufmerksamkeit geboten.",
+            "hu": "Az eső ellenére Grønholtban kezdünk kerékpárral. A templomok jó menedéket nyújtanak, miközben Fredensborg felé haladunk. Délben a kastélyt fedezzük fel, ami száraz kikapcsolódást ígér. Délután óvatosan tekerünk a vizes Nordmandsdalenen át a Falkonergården felé. Az utak csúszósak lehetnek, ezért a lejtőkön fokozott figyelemre van szükség.",
+            "ro": "În ciuda ploii, pornim pe bicicletă din Grønholt. Bisericile oferă un adăpost bun în timp ce ne îndreptăm spre Fredensborg. La prânz explorăm palatul, care oferă o pauză uscată. După-amiaza pedalăm cu atenție prin valea umedă Nordmandsdalen spre Falkonergården. Drumurile pot fi alunecoase, deci este necesară prudență sporită la coborâri.",
+            "en": "Despite the rain, we start by bike in Grønholt. The churches provide good shelter as we make our way toward Fredensborg. At noon, we explore the palace, which offers a dry break. In the afternoon, we cycle carefully through the wet Nordmandsdalen to Falkonergården. Paths can be slippery, so extra caution is needed on descents."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grønholt Kirke",
+                "hu": "Grønholt Kirke",
+                "ro": "Biserica Grønholt",
+                "en": "Grønholt Kirke"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach, bevor Sie den Innenraum besichtigen; prüfen Sie Ihre Bremsen für die Weiterfahrt auf nassen Straßen.",
+                "hu": "Keressen menedéket az előtető alatt a belső tér megtekintése előtt; ellenőrizze a fékeket a vizes utakon való továbbinduláshoz.",
+                "ro": "Căutați adăpost sub streșină înainte de a vizita interiorul; verificați frânele pentru continuarea drumului pe carosabil umed.",
+                "en": "Seek shelter under the porch before visiting the interior; check your brakes for continuing on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønholt Motte",
+                "hu": "Grønholt motte",
+                "ro": "Grønholt motte",
+                "en": "Grønholt motte"
+              },
+              "tip_5lang": {
+                "de": "Der Grashügel kann bei Regen sehr rutschig sein; lassen Sie das Rad unten und steigen Sie vorsichtig für den Ausblick hinauf.",
+                "hu": "A füves domb esőben nagyon csúszós lehet; hagyja lent a biciklit, és óvatosan másszon fel a kilátásért.",
+                "ro": "Dealul înierbat poate fi foarte alunecos pe ploaie; lăsați bicicleta jos și urcați cu atenție pentru priveliște.",
+                "en": "The grassy mound can be very slippery in the rain; leave your bike below and climb up carefully for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Asminderød Kirke",
+                "hu": "Asminderød Kirke",
+                "ro": "Biserica Asminderød",
+                "en": "Asminderød Kirke"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche als trockene Raststation; parken Sie das Rad sicher und wärmen Sie sich kurz auf, bevor es weitergeht.",
+                "hu": "Használja a templomot száraz pihenőhelyként; parkolja le biztonságosan a biciklit, és melegedjen fel kicsit a folytatás előtt.",
+                "ro": "Folosiți biserica ca punct de oprire uscat; parcați bicicleta în siguranță și încălziți-vă puțin înainte de a pleca mai departe.",
+                "en": "Use the church as a dry rest stop; park your bike securely and warm up briefly before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fredensborg",
+                "hu": "Fredensborgi kastély",
+                "ro": "Palatul Fredensborg",
+                "en": "Fredensborg Palace"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an den ausgewiesenen Plätzen ab; die Besichtigung der Innenräume ist die perfekte Belohnung nach der nassen Fahrt.",
+                "hu": "Helyezze el a kerékpárt a kijelölt helyeken; a belső terek megtekintése tökéletes jutalom a vizes tekerés után.",
+                "ro": "Lăsați bicicleta în locurile special amenajate; vizitarea interiorului este recompensa perfectă după drumul prin ploaie.",
+                "en": "Park your bike in the designated areas; touring the interior is the perfect reward after a wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordmandsdalen",
+                "hu": "Nordmandsdalen",
+                "ro": "Nordmandsdalen",
+                "en": "Nordmandsdalen"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie im Park langsam und achten Sie auf Pfützen; die Statuen wirken im Regenlicht besonders eindrucksvoll.",
+                "hu": "A parkban haladjon lassan és figyeljen a tócsákra; a szobrok az esős fényviszonyok között különösen hatásosak.",
+                "ro": "Mergeți încet prin parc și atenție la bălți; statuile arată deosebit de impresionant în lumina ploioasă.",
+                "en": "Ride slowly through the park and watch out for puddles; the statues look particularly impressive in the rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Falkonergården",
+                "hu": "Falkonergården",
+                "ro": "Falkonergården",
+                "en": "Falkonergården"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Vorführungen wetterbedingt drinnen stattfinden; genießen Sie den geschützten Bereich nach der Radtour im Regen.",
+                "hu": "Ellenőrizze, hogy az előadások az időjárás miatt bent zajlanak-e; élvezze a fedett részt az esős biciklitúra után.",
+                "ro": "Verificați dacă spectacolele au loc în interior din cauza vremii; bucurați-vă de zona protejată după turul cu bicicleta prin ploaie.",
+                "en": "Check if shows are held indoors due to the weather; enjoy the sheltered area after your bike tour in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintertag auf dem Rad beginnt in Grønholt. Die klare Luft ist erfrischend, erfordert aber gute Handschuhe. Über Asminderød erreichen wir Schloss Fredensborg, das in der Wintersonne strahlt. Am Nachmittag erkunden wir Nordmandsdalen, bevor wir die Falkonergården erreichen. Wegen des Sonnenuntergangs um 17:00 Uhr nutzen wir das Tageslicht effizient aus, bevor wir die Tour beenden.",
+            "hu": "Egy hűvös téli nap kerékpáron Grønholtban kezdődik. A friss levegő üdítő, de jó kesztyűt igényel. Asminderődön át érjük el a Fredensborgi kastélyt, amely ragyog a téli napsütésben. Délután a Nordmandsdalent fedezzük fel, mielőtt elérjük a Falkonergårdent. A 17:00-s napnyugta miatt hatékonyan használjuk ki a fényt.",
+            "ro": "O zi răcoroasă de iarnă pe bicicletă începe în Grønholt. Aerul curat este revigorant, dar necesită mănuși bune. Prin Asminderød ajungem la Palatul Fredensborg, care strălucește sub soarele de iarnă. După-amiaza explorăm Nordmandsdalen înainte de a ajunge la Falkonergården. Din cauza apusului la 17:00, profităm eficient de lumină.",
+            "en": "A cool winter day on the bike begins in Grønholt. The crisp air is refreshing but requires good gloves. Via Asminderød, we reach Fredensborg Palace, shining in the winter sun. In the afternoon, we explore Nordmandsdalen before reaching Falkonergården. Due to the 17:00 sunset, we use the daylight efficiently before finishing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grønholt Kirke",
+                "hu": "Grønholt Kirke",
+                "ro": "Biserica Grønholt",
+                "en": "Grønholt Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist ein friedlicher Startpunkt; wärmen Sie Ihre Hände kurz drinnen auf, bevor Sie die nächste Etappe antreten.",
+                "hu": "A kis templom békés kiindulópont; melegítse fel a kezét bent egy kicsit, mielőtt nekivág a következő szakasznak.",
+                "ro": "Mica biserică este un punct de plecare liniștit; încălziți-vă mâinile în interior înainte de a începe următoarea etapă.",
+                "en": "The small church is a peaceful starting point; warm your hands inside for a bit before starting the next leg of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønholt Motte",
+                "hu": "Grønholt motte",
+                "ro": "Grønholt motte",
+                "en": "Grønholt motte"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenen Boden beim Aufstieg; der Ausblick über die winterliche Landschaft belohnt die kurze Anstrengung sehr.",
+                "hu": "Ügyeljen a fagyott talajra a mászáskor; a téli tájra nyíló kilátás bőven kárpótolja a rövid megerőltetésért.",
+                "ro": "Atenție la pământul înghețat în timpul urcării; priveliștea asupra peisajului de iarnă merită din plin scurtul efort.",
+                "en": "Watch out for frozen ground while climbing; the view over the winter landscape well rewards the short effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Asminderød Kirke",
+                "hu": "Asminderød Kirke",
+                "ro": "Biserica Asminderød",
+                "en": "Asminderød Kirke"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für einen warmen Tee aus der Thermoskanne; die Kirche bietet einen windgeschützten Ort für eine kurze Pause.",
+                "hu": "Használja ki a megállót egy meleg teára a termoszból; a templom szélvédett helyet kínál egy rövid pihenőhöz.",
+                "ro": "Profită de oprire pentru un ceai cald din termos; biserica oferă un loc ferit de vânt pentru o scurtă pauză.",
+                "en": "Use the stop for a warm tea from your thermos; the church offers a wind-sheltered spot for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fredensborg",
+                "hu": "Fredensborgi kastély",
+                "ro": "Palatul Fredensborg",
+                "en": "Fredensborg Palace"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufige Anlage wirkt bei Frost majestätisch; planen Sie genug Zeit für die Innenräume ein, um sich richtig aufzuwärmen.",
+                "hu": "A kiterjedt birtok fagyos időben fenséges; hagyjon elég időt a belső terekre, hogy rendesen felmelegedhessen.",
+                "ro": "Domeniul vast arată maiestuos în condiții de îngheț; alocați suficient timp pentru interior ca să vă încălziți cum trebuie.",
+                "en": "The sprawling estate looks majestic in the frost; plan enough time for the interior to warm up properly."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordmandsdalen",
+                "hu": "Nordmandsdalen",
+                "ro": "Nordmandsdalen",
+                "en": "Nordmandsdalen"
+              },
+              "tip_5lang": {
+                "de": "Die Statuen mit einer Reifschicht sind ein tolles Fotomotiv; fahren Sie vorsichtig, da die Wege im Schatten glatt sein können.",
+                "hu": "A zúzmarás szobrok remek fotótémát szolgáltatnak; tekerjen óvatosan, mert az árnyékos utak csúszósak lehetnek.",
+                "ro": "Statuile acoperite de chiciură sunt un subiect foto excelent; pedalați cu atenție, căci potecile umbrite pot fi alunecoase.",
+                "en": "The statues covered in hoarfrost make a great photo motif; ride carefully as paths in the shade can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Falkonergården",
+                "hu": "Falkonergården",
+                "ro": "Falkonergården",
+                "en": "Falkonergården"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Ort vor 16:30 Uhr, um das letzte Tageslicht zu nutzen; die Vögel im Wintergefieder sind ein seltener Anblick.",
+                "hu": "Érkezzen 16:30 előtt, hogy kihasználja az utolsó fényeket; a téli tollazatú madarak ritka látványt nyújtanak.",
+                "ro": "Ajungeți aici înainte de 16:30 pentru a profita de ultima lumină; păsările în penaj de iarnă sunt o priveliște rară.",
+                "en": "Reach this location before 16:30 to use the last daylight; birds in their winter plumage are a rare sight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje útját a békés Stenholt Fuglereservatnál és a varázslatos szépségű Grønholt Kirkénél.\n\nDélben fedezze fel a középkori romokat és a fenséges, hatalmas Fredensborgi kastélyt.\n\nA délután a Nordmandsdalen és a lenyűgöző Falkonergården kiváló múzeumához vezet tovább.\n\nZárja az autós kirándulást a Kovangsgården birtokán, elmerülve a gazdag helyi múltban.",
         "ro": "Începeți plimbarea la frumoasa rezervație de păsări Stenholt și fascinanta Biserică Grønholt.\n\nLa prânz, explorați ruina medievală de pământ și impresionantul, vastul Palat Fredensborg.\n\nDupă-amiaza vă aduce la Nordmandsdalen și la uimitorul, educativul muzeu Falkonergården.\n\nÎncheiați călătoria la Kovangsgården, descoperind interesanta istorie arhitecturală locală.",
         "en": "Kick off your drive at the serene Stenholt Fuglereservat and the beautiful Grønholt Kirke.\n\nBy midday, explore the medieval motte earthworks and the grand, royal Fredensborg Palace.\n\nThe afternoon brings you to Nordmandsdalen and the fascinating Falkonergården museum.\n\nWrap up your scenic road trip at Kovangsgården, diving deep into local architectural history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt am regnerischen Stenholt Fuglereservat, wo man Vögel bequem aus dem Wagen oder von Hütten beobachten kann. Über Grønholt fahren wir zum Schloss Fredensborg, dem idealen Ziel für einen verregneten Mittag. Nachmittags besuchen wir die Falkonergården und den Kovangsgården. Das Auto dient als perfekter, trockener Rückzugsort zwischen den historischen Stätten.",
+            "hu": "Az autós túra az esős Stenholt madárrezervátumnál kezdődik, ahol a kocsiból vagy a lesekből is megfigyelhetjük a madarakat. Grønholton át a Fredensborgi kastélyhoz hajtunk, ami ideális célpont egy esős délre. Délután a Falkonergården és a Kovangsgården következik. Az autó tökéletes, száraz menedékként szolgál a történelmi helyszínek között.",
+            "ro": "Turul auto începe la rezervația Stenholt, unde păsările pot fi observate din mașină sau din observatoare. Prin Grønholt mergem la Palatul Fredensborg, destinația ideală pentru o amiază ploioasă. După-amiaza vizităm Falkonergården și Kovangsgården. Mașina servește ca refugiu perfect și uscat între diferitele situri istorice.",
+            "en": "The car tour begins at the rainy Stenholt bird sanctuary, where birds can be observed from the car or hides. Via Grønholt, we drive to Fredensborg Palace, the ideal destination for a rainy noon. In the afternoon, we visit Falkonergården and Kovangsgården. The car serves as a perfect, dry retreat between the historic sites."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stenholt Fuglereservat",
+                "hu": "Stenholt Fuglereservat",
+                "ro": "Rezervația de păsări Stenholt",
+                "en": "Stenholt Fuglereservat"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wasservögel direkt vom Parkplatz aus; die Vögel sind bei Regen oft besonders aktiv in den Uferzonen.",
+                "hu": "Figyelje meg a vízimadarakat közvetlenül a parkolóból; esőben a madarak gyakran különösen aktívak a parti zónákban.",
+                "ro": "Observați păsările de apă direct din parcare; pe ploaie, păsările sunt adesea deosebit de active în zonele de mal.",
+                "en": "Observe the waterfowl directly from the parking area; birds are often particularly active in the shore zones during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønholt Kirke",
+                "hu": "Grønholt Kirke",
+                "ro": "Biserica Grønholt",
+                "en": "Grønholt Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zur Tür hält Sie trocken; genießen Sie die intime Atmosphäre der kleinen Kirche während eines Schauers.",
+                "hu": "Egy rövid sprint az autótól az ajtóig szárazon tartja; élvezze a kis templom meghitt hangulatát egy zápor alatt.",
+                "ro": "Un scurt sprint de la mașină la ușă vă va menține uscat; bucurați-vă de atmosfera intimă a micii biserici în timpul unei averse.",
+                "en": "A quick sprint from the car to the door keeps you dry; enjoy the intimate atmosphere of the small church during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønholt Motte",
+                "hu": "Grønholt motte",
+                "ro": "Grønholt motte",
+                "en": "Grønholt motte"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Anlage bei starkem Regen vom Fenster aus; für den Aufstieg sind wasserfeste Stiefel unerlässlich.",
+                "hu": "Heves esőben tekintse meg a történelmi helyszínt az ablakból; a megmászáshoz vízálló csizma elengedhetetlen.",
+                "ro": "Priviți situl istoric de la fereastră în caz de ploaie torențială; cizmele impermeabile sunt esențiale pentru urcare.",
+                "en": "View the historic site from the window if the rain is heavy; waterproof boots are essential for the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fredensborg",
+                "hu": "Fredensborgi kastély",
+                "ro": "Palatul Fredensborg",
+                "en": "Fredensborg Palace"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingangsbereich; die geführten Touren im Inneren sind die beste Option, um dem Regen für längere Zeit zu entfliehen.",
+                "hu": "Parkoljon közel a bejárathoz; a belső vezetett túrák a legjobb választások, hogy hosszabb időre elmeneküljön az eső elől.",
+                "ro": "Parcați aproape de intrare; tururile ghidate în interior sunt cea mai bună opțiune pentru a scăpa de ploaie mai mult timp.",
+                "en": "Park close to the entrance; guided indoor tours are the best option to escape the rain for an extended period."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordmandsdalen",
+                "hu": "Nordmandsdalen",
+                "ro": "Nordmandsdalen",
+                "en": "Nordmandsdalen"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, aber lohnenswerter Spaziergang mit Regenschirm; die nasse Oberfläche der Statuen bringt feine Details besser zur Geltung.",
+                "hu": "Egy rövid, de megéri egy séta esernyővel; a szobrok nedves felülete jobban kiemeli a finom részleteket.",
+                "ro": "O plimbare scurtă, dar care merită, cu umbrela; suprafața umedă a statuilor scoate mai bine în evidență detaliile fine.",
+                "en": "A short but worthwhile walk with an umbrella; the wet surface of the statues brings out fine details more clearly."
+              }
+            },
+            {
+              "name": {
+                "de": "Falkonergården",
+                "hu": "Falkonergården",
+                "ro": "Falkonergården",
+                "en": "Falkonergården"
+              },
+              "tip_5lang": {
+                "de": "Die meisten Aktivitäten sind überdacht; nutzen Sie die kurzen Wege vom Parkplatz, um trocken zu den Vorführungen zu gelangen.",
+                "hu": "A legtöbb tevékenység fedett; használja a rövid utat a parkolótól, hogy szárazon jusson el az előadásokra.",
+                "ro": "Majoritatea activităților sunt acoperite; folosiți distanța scurtă de la parcare pentru a ajunge uscat la prezentări.",
+                "en": "Most activities are covered; use the short path from the parking lot to reach the shows dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kovangsgården",
+                "hu": "Kovangsgården",
+                "ro": "Kovangsgården",
+                "en": "Kovangsgården"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag gemütlich im Auto mit Blick auf die Anlage; die beleuchteten Fenster der historischen Gebäude wirken im Regen sehr einladend.",
+                "hu": "Zárja a napot kényelmesen az autóban, kilátással a birtokra; a történelmi épületek kivilágított ablakai hívogatóak az esőben.",
+                "ro": "Încheiați ziua confortabil în mașină cu vedere spre domeniu; ferestrele luminate ale clădirilor istorice par foarte primitoare pe ploaie.",
+                "en": "End the day comfortably in the car with a view of the estate; the lit windows of the historic buildings look very inviting in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt am Stenholt Fuglereservat, wo man die frostige Natur sicher aus der Wärme beobachtet. Nach Besuchen in Grønholt erreichen wir Schloss Fredensborg zur Mittagszeit, wenn das Winterlicht am schönsten ist. Nachmittags geht es zur Falkonergården. Da es um 17:00 Uhr dunkel wird, endet die Tour am beleuchteten Kovangsgården in gemütlicher Atmosphäre.",
+            "hu": "A téli autós túra a Stenholt madárrezervátumnál kezdődik, ahol a fagyos természetet a meleg kocsiból is csodálhatjuk. Grønholt után délben érünk a Fredensborgi kastélyhoz, amikor a legszebb a téli fény. Délután a Falkonergården következik. Mivel 17:00-kor sötétedik, a túra a kivilágított Kovangsgårdennél zárul barátságos hangulatban.",
+            "ro": "Turul auto de iarnă începe la rezervația Stenholt, unde natura înghețată poate fi admirată din căldura mașinii. După Grønholt ajungem la Palatul Fredensborg la prânz, când lumina iernii este cea mai frumoasă. După-amiaza mergem la Falkonergården. Deoarece se întunecă la 17:00, turul se încheie la Kovangsgården, într-o atmosferă primitoare.",
+            "en": "The winter car tour starts at the Stenholt bird sanctuary, where the frosty nature can be admired from the warmth of the car. After Grønholt, we reach Fredensborg Palace at noon, when the winter light is best. In the afternoon, we head to Falkonergården. Since it gets dark at 17:00, the tour ends at the illuminated Kovangsgården in a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stenholt Fuglereservat",
+                "hu": "Stenholt Fuglereservat",
+                "ro": "Rezervația de păsări Stenholt",
+                "en": "Stenholt Fuglereservat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den zugefrorenen See vom warmen Auto aus; Wintergäste unter den Vögeln sind oft zahlreich vorhanden.",
+                "hu": "Élvezze a kilátást a befagyott tóra a meleg autóból; a madarak között ilyenkor sok a téli vendég.",
+                "ro": "Bucurați-vă de vederea spre lacul înghețat din mașina caldă; printre păsări se numără adesea mulți oaspeți de iarnă.",
+                "en": "Enjoy the view of the frozen lake from your warm car; many wintering birds can often be seen here."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønholt Kirke",
+                "hu": "Grønholt Kirke",
+                "ro": "Biserica Grønholt",
+                "en": "Grønholt Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine gute Gelegenheit, sich auf dem Weg aufzuwärmen; die klare Winterluft macht die Sicht auf die Details schärfer.",
+                "hu": "A templom jó lehetőséget kínál a felmelegedésre útközben; a tiszta téli levegő élesebbé teszi a részletek látványát.",
+                "ro": "Biserica oferă o oportunitate bună de a vă încălzi pe drum; aerul curat de iarnă face vizibilitatea detaliilor mai clară.",
+                "en": "The church offers a good opportunity to warm up along the way; the crisp winter air makes the view of details sharper."
+              }
+            },
+            {
+              "name": {
+                "de": "Grønholt Motte",
+                "hu": "Grønholt motte",
+                "ro": "Grønholt motte",
+                "en": "Grønholt motte"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher und machen Sie einen kurzen Gang auf den Hügel; die weite Sicht über das gefrorene Umland ist im Winter spektakulär.",
+                "hu": "Parkoljon biztonságosan, és tegyen egy rövid sétát a dombra; a kilátás a fagyos vidékre télen lenyűgöző.",
+                "ro": "Parcați în siguranță și faceți o scurtă plimbare pe deal; vederea panoramică asupra împrejurimilor înghețate este spectaculoasă iarna.",
+                "en": "Park safely and take a short walk up the mound; the wide view over the frozen countryside is spectacular in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Fredensborg",
+                "hu": "Fredensborgi kastély",
+                "ro": "Palatul Fredensborg",
+                "en": "Fredensborg Palace"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch für die Mittagsstunden, um das beste Licht für Fotos zu haben; die Innenräume sind angenehm temperiert.",
+                "hu": "Tervezze a látogatást délidőre a legjobb fotófényekért; a belső terek kellemesen temperáltak.",
+                "ro": "Planificați vizita la prânz pentru cele mai bune lumini foto; interiorul este încălzit la o temperatură plăcută.",
+                "en": "Plan your visit for midday to get the best photo lighting; the interiors are kept at a pleasant temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordmandsdalen",
+                "hu": "Nordmandsdalen",
+                "ro": "Nordmandsdalen",
+                "en": "Nordmandsdalen"
+              },
+              "tip_5lang": {
+                "de": "Die Statuen mit Reif wirken wie aus einer anderen Welt; beeilen Sie sich, da das Tal früh im Schatten der Bäume liegt.",
+                "hu": "A zúzmarás szobrok olyanok, mintha egy másik világból jöttek volna; siessen, mert a völgy korán a fák árnyékába kerül.",
+                "ro": "Statuile cu chiciură par din altă lume; grăbiți-vă, deoarece valea intră devreme în umbra copacilor.",
+                "en": "The statues with hoarfrost look like they're from another world; hurry, as the valley falls into the trees' shadows early."
+              }
+            },
+            {
+              "name": {
+                "de": "Falkonergården",
+                "hu": "Falkonergården",
+                "ro": "Falkonergården",
+                "en": "Falkonergården"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung im Auto nach dem Aufenthalt im Freien; die Vögel zeigen im Winter oft ein interessantes Verhalten.",
+                "hu": "Használja az autó ülésfűtését a kinti tartózkodás után; a madarak télen gyakran érdekesen viselkednek.",
+                "ro": "Folosiți încălzirea în scaune după timpul petrecut afară; păsările au adesea un comportament interesant iarna.",
+                "en": "Use your car's heated seats after being outdoors; the birds often display interesting behavior in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kovangsgården",
+                "hu": "Kovangsgården",
+                "ro": "Kovangsgården",
+                "en": "Kovangsgården"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Hof bei Dämmerung; die warmen Lichter der Fenster bilden einen schönen Kontrast zur blauen Stunde im Winter.",
+                "hu": "Látogassa meg a tanyát szürkületkor; az ablakok meleg fényei szép kontrasztot alkotnak a téli kék órával.",
+                "ro": "Vizitați ferma la amurg; luminile calde de la ferestre creează un contrast frumos cu ora albastră de iarnă.",
+                "en": "Visit the farm at dusk; the warm lights from the windows create a beautiful contrast with the winter blue hour."
+              }
+            }
+          ]
+        }
       }
     }
   }

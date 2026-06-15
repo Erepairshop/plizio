@@ -160,6 +160,196 @@
         "hu": "Kezdje sétáját a pueblo szívében, egyenesen a Dzonot Wayak Cenote frissítő vizébe csobbanva. A dél a kulturális elmélyülésé a Casa de la Cultura falai között, ahol a helyi művészet feltárja Tulum lelkét. A délutáni árnyékok a nyüzsgő utcákon át a gyönyörű Cenote Aldea Zama felé vezetnek. Fejezze be sétáját a Pozitív gondolkodás piramisánál a naplementében.",
         "ro": "Începeți turul de mers pe jos în inima orașului făcând o baie în apele răcoroase ale Cenote Dzonot Wayak. Prânzul aduce imersiune culturală la Casa de la Cultura, unde arta locală dezvăluie sufletul Tulumului. Umbrele după-amiezii vă poartă prin străzile vibrante spre superba Cenote Aldea Zama. Încheiați plimbarea la Piramida gândirii pozitive în timp ce soarele apune.",
         "en": "Start your walking tour in the heart of the pueblo by diving straight into the refreshing waters of the Dzonot Wayak Cenote. Midday brings cultural immersion at the Casa de la Cultura, where local art and history reveal the soul of Tulum. Afternoon shadows lead you through the vibrant streets to the naturally beautiful Cenote Aldea Zama. Conclude your stroll at the Pyramid of positive thinking as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der morgendliche Regen wird durch das Blätterdach des Dschungels und die Höhlen der Cenoten gemildert. Mittags bietet das Kulturhaus den perfekten trockenen Zufluchtsort für Kunstliebhaber. Am Nachmittag sind die Straßen von Tulum glatt, gehen Sie also vorsichtig durch das Zentrum. Der Abend endet aufgrund der grauen Wolken etwas früher in gemütlicher Atmosphäre.",
+            "hu": "A reggeli trópusi eső elől a cenote barlangja nyújt tökéletes menedéket, ahol a víz hangja megnyugtató. Délben a kultúrház kiállításai között maradhatunk szárazon. Délután az utcák csúszóssá válnak, így óvatos léptekkel haladjunk a központ felé. Az este a szürke égbolt miatt korábban és csendesebben köszönt be.",
+            "ro": "Ploaia de dimineață este domolită de baldachinul junglei și de peșterile cenotelor, oferind un decor mistic. La prânz, casa de cultură este refugiul ideal pentru a admira arta locală la adăpost. După-amiaza, străzile pot fi alunecoase, deci mergeți cu atenție prin oraș. Seara se încheie mai devreme sub cerul plumburiu.",
+            "en": "The morning rain is softened by the jungle canopy and the cenote caves, creating a mystical atmosphere. At noon, the culture house provides the perfect dry refuge for art lovers. In the afternoon, the streets of Tulum can be slick, so walk carefully through the center. The evening wraps up a bit earlier under the gray clouds in a cozy setting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dzonot Wayak Cenote",
+                "hu": "Dzonot Wayak Cenote",
+                "ro": "Dzonot Wayak Cenote",
+                "en": "Dzonot Wayak Cenote"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den höhlenartigen Bereich des Cenote, um beim Schwimmen trocken zu bleiben; die Felsen wirken im Regen besonders magisch. Tragen Sie Wasserschuhe auf den glatten Stufen.",
+                "hu": "Használja a cenote barlangi részét, hogy úszás közben szárazon maradjon a felszerelés; a sziklák látványa esőben lenyűgöző. Viseljen vízi cipőt a csúszós lépcsőkön.",
+                "ro": "Folosiți zona de peșteră a cenotei pentru a rămâne uscat în timp ce înotați; formațiunile stâncoase arată magic în ploaie. Purtați pantofi de apă pe treptele alunecoase.",
+                "en": "Use the cavernous area of the cenote to stay dry while swimming; the rock formations look extra magical in the rain. Wear water shoes for the slippery steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Diving Cenotes dive center",
+                "hu": "Diving Cenotes dive center",
+                "ro": "Diving Cenotes dive center",
+                "en": "Diving Cenotes dive center"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich unter dem Vordach Informationen über Tauchgänge; es ist ein kurzer Stopp, um das nächste Abenteuer zu planen. Halten Sie Ihren Regenmantel für den Weg bereit.",
+                "hu": "Az ereszhajlat alatt tájékozódjon a merülési lehetőségekről; ez egy rövid megálló a következő kaland megtervezéséhez. Tartsa készenlétben az esőkabátot a továbbinduláshoz.",
+                "ro": "Informați-vă despre scufundări sub streșina centrului; este o oprire scurtă pentru a planifica următoarea aventură. țineți pelerina de ploaie la îndemână pentru drum.",
+                "en": "Get info about diving under the center's awning; it's a short stop to plan your next underwater adventure. Keep your raincoat ready for the onward walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Innengalerien und lokalen Geschichtsausstellungen, während Sie darauf warten, dass der Schauer nachlässt. Dies ist der beste trockene Ort im Zentrum von Tulum.",
+                "hu": "Fedezze fel a belső galériákat és a helytörténeti kiállításokat, amíg várja a felhőszakadás végét. Ez a legjobb fedett menedék Tulum központjában.",
+                "ro": "Explorați galeriile interioare și expozițiile de istorie locală în timp ce așteptați să treacă ploaia. Este cel mai bun refugiu uscat din centrul orașului Tulum.",
+                "en": "Explore the indoor galleries and local history exhibits while waiting for the downpour to pass. This is the best dry refuge in the center of Tulum."
+              }
+            },
+            {
+              "name": {
+                "de": "Carlos",
+                "hu": "Carlos",
+                "ro": "Carlos",
+                "en": "Carlos"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal befindet sich im Freien, machen Sie also ein schnelles Foto und gehen Sie weiter. Das nasse Pflaster um die Statue kann bei Regen sehr rutschig sein.",
+                "hu": "Ez az emlékmű a szabadban található, így csak egy gyors fotóra álljon meg. A szobor körüli nedves burkolat nagyon csúszós lehet az esőben.",
+                "ro": "Acest monument este în aer liber, așa că faceți o fotografie rapidă și continuați. Pavajul umed din jurul statuii poate fi foarte alunecos pe ploaie.",
+                "en": "This landmark is outdoors, so take a quick photo and move on. The wet pavement around the statue can be very slippery when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Aldea Zama",
+                "hu": "Cenote Aldea Zama",
+                "ro": "Cenote Aldea Zama",
+                "en": "Cenote Aldea Zama"
+              },
+              "tip_5lang": {
+                "de": "Der umliegende Dschungel duftet im Regen herrlich; nutzen Sie den überdachten Sitzbereich für eine Pause. Achten Sie auf Pfützen auf dem Zugangsweg.",
+                "hu": "A környező dzsungel illata csodás az esőben; használja a fedett pihenőt egy rövid szünetre. Ügyeljen a nagyobb tócsákra az odavezető ösvényen.",
+                "ro": "Jungla din jur miroase minunat în ploaie; folosiți zona de relaxare acoperită pentru o pauză. Aveți grijă la bălțile de pe poteca de acces.",
+                "en": "The surrounding jungle smells amazing in the rain; use the covered seating area for a break. Watch out for large puddles on the access path."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramid of positive thinking",
+                "hu": "Pyramid of positive thinking",
+                "ro": "Pyramid of positive thinking",
+                "en": "Pyramid of positive thinking"
+              },
+              "tip_5lang": {
+                "de": "Reflektieren Sie unter den Bäumen über Ihren Tag; der Regen verleiht diesem Ort eine friedliche Atmosphäre. Ein kleiner Regenschirm ist für das letzte Stück unverzichtbar.",
+                "hu": "Gondolja át a napját a fák oltalma alatt; az eső békés hangulatot kölcsönöz ennek a helynek. Egy kis esernyő elengedhetetlen az utolsó szakaszhoz.",
+                "ro": "Reflectați asupra zilei sub protecția copacilor; ploaia conferă acestui loc o atmosferă liniștită. O umbrelă mică este esențială pentru ultima porțiune.",
+                "en": "Reflect on your day under the shelter of the trees; the rain adds a peaceful atmosphere to this spot. A small umbrella is essential for the final stretch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die erfrischende Winterbrise macht das Wandern in Tulum ohne die extreme Hitze angenehm. Mittags ist die milde Sonne am Kulturhaus ideal für einen Spaziergang. Da der Dschungel am Nachmittag schnell abkühlt, sollten Sie in Bewegung bleiben. Der Sonnenuntergang gegen 17:00 Uhr taucht die Stadt in ein sanftes Dämmerlicht.",
+            "hu": "A frissítő téli szellő kellemessé teszi a gyaloglást Tulum utcáin a hőség nélkül. Délben a kultúrház környékén élvezhetjük a lágy napsütést. Mivel a dzsungel délután gyorsan hűl, érdemes mozgásban maradni. A naplemente 17:00 körül köszönt be, aranybarna fénybe vonva a várost.",
+            "ro": "Briza răcoroasă de iarnă face plimbarea prin Tulum foarte plăcută, fără căldura extremă. La prânz, soarele blând de lângă casa de cultură este ideal pentru explorare. Deoarece jungla se răcește rapid după-amiaza, păstrați ritmul. Apusul în jur de 17:00 scaldă orașul într-o lumină caldă.",
+            "en": "The refreshing winter breeze makes walking through Tulum pleasant without the extreme heat. At noon, the mild sun near the culture house is ideal for exploration. As the jungle cools quickly in the afternoon, keep moving to stay warm. Sunset around 17:00 bathes the town in a soft twilight glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dzonot Wayak Cenote",
+                "hu": "Dzonot Wayak Cenote",
+                "ro": "Dzonot Wayak Cenote",
+                "en": "Dzonot Wayak Cenote"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser der Cenote behält das ganze Jahr über die gleiche Temperatur; nehmen Sie ein Bad, bevor die Luft abkühlt. Ein leichtes Handtuch ist nach dem Schwimmen wichtig.",
+                "hu": "A cenote vize egész évben azonos hőmérsékletű; fürödjön meg, mielőtt a levegő lehűlne. Egy könnyű törölköző fontos a vízből kijövet után.",
+                "ro": "Apa cenotei păstrează aceeași temperatură tot anul; faceți o baie înainte ca aerul să se răcească. Un prosop ușor este esențial după înot.",
+                "en": "The cenote water stays the same temperature year-round; take a dip before the air cools down. A light towel is important after getting out of the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Diving Cenotes dive center",
+                "hu": "Diving Cenotes dive center",
+                "ro": "Diving Cenotes dive center",
+                "en": "Diving Cenotes dive center"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Wintertauchgänge, wenn das Wasser oft ruhiger und klarer ist. Eine dünne Windjacke schützt Sie beim Stehenbleiben vor der kühlen Brise.",
+                "hu": "Tervezze meg téli merüléseit, amikor a víz gyakran nyugodtabb és tisztább. Egy vékony szélkabát jól jöhet a megálló alatt a hűvös szél ellen.",
+                "ro": "Planificați-vă scufundările de iarnă, când apa este adesea mai calmă și mai clară. O jachetă subțire vă va proteja de briza răcoroasă în timpul opririi.",
+                "en": "Plan your winter dives when the water is often calmer and clearer. A thin windbreaker will protect you from the cool breeze during the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturellen Veranstaltungen im Freien, die im Winter aufgrund der angenehmen Temperaturen häufiger stattfinden. Die Sonne steht tief und blendet weniger.",
+                "hu": "Élvezze a szabadtéri kulturális eseményeket, amelyek télen a kellemes idő miatt gyakoribbak. A nap alacsonyan jár, így kevésbé vakít a nézelődés közben.",
+                "ro": "Bucurați-vă de evenimentele culturale în aer liber, care sunt mai frecvente iarna datorită temperaturilor blânde. Soarele apune jos și este mai puțin orbitor.",
+                "en": "Enjoy the outdoor cultural events, which are more frequent in winter due to the pleasant weather. The sun sits low, making sightseeing less blinding."
+              }
+            },
+            {
+              "name": {
+                "de": "Carlos",
+                "hu": "Carlos",
+                "ro": "Carlos",
+                "en": "Carlos"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht ist perfekt für Fotos von diesem Denkmal ohne harte Schatten. Machen Sie Ihren Rundgang hier vor dem frühen Sonnenuntergang fertig.",
+                "hu": "A lágy téli fények tökéletesek a fotózáshoz, elkerülve az erős árnyékokat ennél az emlékműnél. Fejezze be a nézelődést a korai naplemente előtt.",
+                "ro": "Lumina blândă de iarnă este perfectă pentru fotografii fără umbre dure la acest monument. Terminați vizita înainte de apusul timpuriu.",
+                "en": "The soft winter light is perfect for photos of this landmark without harsh shadows. Finish your sightseeing here before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Aldea Zama",
+                "hu": "Cenote Aldea Zama",
+                "ro": "Cenote Aldea Zama",
+                "en": "Cenote Aldea Zama"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist im Winter etwas weniger dicht, was die Sicht auf den Cenote verbessert. Bringen Sie eine zusätzliche Schicht Kleidung für den schattigen Weg mit.",
+                "hu": "A növényzet télen kevésbé dús, így tisztább kilátás nyílik a cenote vízére. Vigyen magával egy plusz réteg ruhát az árnyékos ösvényekre.",
+                "ro": "Vegetația este mai puțin densă iarna, oferind o vedere mai clară asupra cenotei. Aduceți un strat suplimentar de haine pentru poteca umbrită.",
+                "en": "The vegetation is slightly less dense in winter, offering a clearer view of the cenote. Bring an extra layer of clothing for the shaded path."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramid of positive thinking",
+                "hu": "Pyramid of positive thinking",
+                "ro": "Pyramid of positive thinking",
+                "en": "Pyramid of positive thinking"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Ende des Tages, wenn die Temperaturen sinken; der Ort strahlt eine besondere Ruhe aus. Die Dämmerung beginnt hier bereits gegen 17 Uhr.",
+                "hu": "Figyelje a nap végét, ahogy a hőmérséklet csökkenni kezd; a hely különleges nyugalmat áraszt. A szürkület itt már 17 óra körül elkezdődik.",
+                "ro": "Urmăriți sfârșitul zilei pe măsură ce temperaturile scad; locul emană o liniște aparte. Amurgul începe aici deja în jurul orei 17:00.",
+                "en": "Watch the day end as temperatures start to drop; the spot radiates a special calm. Twilight begins here as early as 17:00 in the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpározzon a városhatárig, és kezdje a reggelt az izgalmas Végzet Temploma víznyelőinek felfedezésével. Ahogy melegszik az idő, tekerjen vissza a központba a Casa de la Cultura kulturális kincseihez. A délutáni túra a Cenote Aldea Zama kristálytiszta medencéihez visz. Zárja a napot egy kellemes utazással a Pozitív gondolkodás piramisához.",
         "ro": "Pedalați spre marginea orașului pentru a explora cenotele palpitante de la Templul Destinului. Pe măsură ce ziua se încălzește, întoarceți-vă spre centru pentru a descoperi Casa de la Cultura. Călătoria de după-amiază vă conectează cu bazinele cristaline de la Cenote Aldea Zama. Încheiați cu o plimbare ușoară spre contemplativa Piramidă a gândirii pozitive.",
         "en": "Cycle past the town limits to start your morning exploring the thrilling sinkholes at the Temple of Doom. As the day warms up, pedal back towards the center to uncover local landmarks and immerse yourself in the Casa de la Cultura. Your afternoon ride connects you with the crystalline pools of Cenote Aldea Zama. Wind down with a gentle cycle to the contemplative Pyramid of positive thinking."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den sandigen und schlammigen Wegen zu den Cenoten. Mittags bietet das Kulturhaus Schutz für eine längere Pause vom Radfahren. Achten Sie am Nachmittag auf nasse Bremsen und tiefe Pfützen in Aldea Zama. Kehren Sie vor Einbruch der Dunkelheit zurück, da die Sicht bei starkem Regen eingeschränkt ist.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a cenotékhoz vezető homokos és saras utakon. Délben a kultúrház nyújt védelmet egy hosszabb pihenőhöz. Délután ügyeljen a nedves fékekre és a mélyebb tócsákra Aldea Zama területén. Érjen vissza sötétedés előtt, mert a látótávolság esőben jelentősen csökken.",
+            "ro": "Mersul pe bicicletă în ploaie necesită atenție pe drumurile nisipoase și noroioase spre cenote. La prânz, casa de cultură oferă protecție pentru o pauză prelungită. După-amiaza, aveți grijă la frânele umede și la bălțile adânci din Aldea Zama. Reveniți înainte de lăsarea întunericului, deoarece vizibilitatea scade.",
+            "en": "Cycling in the rain requires caution on the sandy and muddy paths leading to the cenotes. At noon, the culture house offers protection for a longer break from riding. In the afternoon, watch out for wet brakes and deep puddles in Aldea Zama. Return before dark as visibility decreases significantly during heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Temple of Doom",
+                "hu": "Temple of Doom",
+                "ro": "Temple of Doom",
+                "en": "Temple of Doom"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um den Eingang ist bei Nässe extrem rutschig; parken Sie Ihr Fahrrad sicher an einem Baum. Nutzen Sie die Höhle als natürlichen Regenschutz.",
+                "hu": "A bejárat körüli talaj nedvesen rendkívül csúszós; parkolja le a biciklit egy biztonságos fánál. Használja a barlangot természetes esővédőként.",
+                "ro": "Terenul din jurul intrării este extrem de alunecos când este ud; parcați bicicleta în siguranță lângă un copac. Folosiți peștera ca adăpost natural.",
+                "en": "The ground around the entrance is extremely slippery when wet; park your bike securely by a tree. Use the cave as a natural rain shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "No way",
+                "hu": "No way",
+                "ro": "No way",
+                "en": "No way"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; achten Sie beim Absteigen auf Schlamm auf dem Weg. Regenjacken mit Kapuze sind für diesen ungeschützten Abschnitt ideal.",
+                "hu": "Egy rövid megálló fotózásra; ügyeljen a sárra az úton a bicikliről való leszálláskor. Kapucnis esőkabát ideális ehhez a nyitott szakaszhoz.",
+                "ro": "O oprire scurtă pentru poze; atenție la noroiul de pe drum când coborâți de pe bicicletă. Pelerinele cu glugă sunt ideale pentru această secțiune expusă.",
+                "en": "A short stop for a photo; watch out for mud on the path when dismounting your bike. Hooded raincoats are ideal for this unsheltered stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Dzonot Wayak Cenote",
+                "hu": "Dzonot Wayak Cenote",
+                "ro": "Dzonot Wayak Cenote",
+                "en": "Dzonot Wayak Cenote"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das warme Wasser der Cenote, während es draußen regnet; die Höhle hält Ihre Sachen trocken. Wischen Sie den Fahrradsattel vor der Weiterfahrt ab.",
+                "hu": "Élvezze a cenote meleg vizét, miközben kint esik; a barlangi rész szárazon tartja a csomagokat. Törölje le a bicikliülést a továbbindulás előtt.",
+                "ro": "Bucurați-vă de apa caldă a cenotei în timp ce afară plouă; peștera vă va menține lucrurile uscate. Ștergeți șaua bicicletei înainte de a pleca.",
+                "en": "Enjoy the warm cenote water while it rains outside; the cave area will keep your belongings dry. Wipe down the bike seat before heading out again."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer und wärmen Sie sich drinnen bei den Kunstausstellungen auf. Ein idealer Ort, um die Regenpause abzuwarten.",
+                "hu": "Használja a fedett biciklitárolót, és melegedjen fel odabent a művészeti kiállítások között. Ideális hely a nagyobb esőfelhők elvonulásának kivárására.",
+                "ro": "Folosiți parcarea de biciclete acoperită și încălziți-vă în interior admirând expozițiile de artă. Un loc ideal pentru a aștepta trecerea ploii.",
+                "en": "Use the covered bike parking and warm up inside while viewing the art exhibits. It is an ideal spot to wait for the rain clouds to clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Aldea Zama",
+                "hu": "Cenote Aldea Zama",
+                "ro": "Cenote Aldea Zama",
+                "en": "Cenote Aldea Zama"
+              },
+              "tip_5lang": {
+                "de": "Die Dschungelpfade hier können sehr schlammig sein; fahren Sie langsam, um Spritzer zu vermeiden. Der Regen verstärkt die grünen Farben der Natur.",
+                "hu": "A dzsungel ösvényei itt nagyon sarasak lehetnek; haladjon lassan, hogy elkerülje a felverődő vizet. Az eső még intenzívebbé teszi a természet színeit.",
+                "ro": "Potecile din junglă pot fi foarte noroioase; pedalați încet pentru a evita stropirea. Ploaia face culorile naturii și mai intense.",
+                "en": "The jungle paths here can be very muddy; ride slowly to avoid splashing. The rain makes the green colors of nature even more intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramid of positive thinking",
+                "hu": "Pyramid of positive thinking",
+                "ro": "Pyramid of positive thinking",
+                "en": "Pyramid of positive thinking"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier und genießen Sie die Ruhe unter den tropischen Bäumen. Achten Sie auf den rutschigen Boden beim Abstellen Ihres Rades.",
+                "hu": "Zárja itt a túrát, és élvezze a nyugalmat a trópusi fák oltalma alatt. Ügyeljen a csúszós talajra a bicikli leállításakor.",
+                "ro": "Încheiați turul aici și bucurați-vă de liniște sub copacii tropicali. Atenție la solul alunecos când parcați bicicleta.",
+                "en": "End your tour here and enjoy the tranquility under the tropical trees. Watch out for the slippery ground when parking your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft ist belebend für eine Radtour zum Temple of Doom. Mittags sind die Temperaturen ideal zum Fahren, ohne die übliche tropische Feuchtigkeit. Am Nachmittag beginnt die goldene Stunde früh, also steuern Sie Aldea Zama rechtzeitig an. Nach 17:00 Uhr kühlt es merklich ab, bringen Sie also eine leichte Jacke für die Rückfahrt mit.",
+            "hu": "A hűvös reggeli levegő frissítő egy biciklitúrához a Temple of Doom felé. Délben a hőmérséklet ideális a tekeréshez a szokásos pára nélkül. Délután az aranyóra hamarabb kezdődik, így időben érjen Aldea Zamához. 17:00 után a levegő hirtelen hűlni kezd, készítsen be egy vékony kabátot.",
+            "ro": "Aerul răcoros al dimineții este revigorant pentru o tură cu bicicleta spre Temple of Doom. La prânz, temperaturile sunt ideale pentru pedalat, fără umiditatea tropicală. După-amiaza, ora de aur începe devreme, deci ajungeți la timp în Aldea Zama. După ora 17:00 se răcește vizibil, deci luați o jachetă.",
+            "en": "The cool morning air is invigorating for a bike ride toward Temple of Doom. At noon, the temperatures are ideal for riding without the usual tropical humidity. In the afternoon, the golden hour starts early, so reach Aldea Zama in time. After 17:00, it cools down noticeably, so bring a light jacket for the return ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Temple of Doom",
+                "hu": "Temple of Doom",
+                "ro": "Temple of Doom",
+                "en": "Temple of Doom"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Morgen ist perfekt für Erkundungen; der Cenote wirkt im Winterlicht besonders klar. Die Wege sind trocken und ideal zum Radfahren.",
+                "hu": "A reggeli fények tökéletesek a felfedezéshez; a cenote vize téli fényben különösen tisztának tűnik. Az utak szárazak és kiválóak a biciklizéshez.",
+                "ro": "Lumina dimineții este perfectă pentru explorare; apa cenotei pare extrem de clară în lumina iernii. Drumurile sunt uscate și ideale pentru ciclism.",
+                "en": "The morning light is perfect for exploration; the cenote water looks especially clear in the winter light. The paths are dry and ideal for cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "No way",
+                "hu": "No way",
+                "ro": "No way",
+                "en": "No way"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt für ein Panoramafoto; die Sonne steht im Winter niedriger und sorgt für weiche Schatten. Genießen Sie die frische Fahrt ohne Schwitzen.",
+                "hu": "Gyors megálló egy panorámafotóra; a nap télen alacsonyabban jár, ami lágy árnyékokat eredményez. Élvezze a frissítő tekerést izzadás nélkül.",
+                "ro": "O oprire rapidă pentru o fotografie panoramică; soarele stă mai jos iarna, creând umbre moi. Bucurați-vă de plimbarea revigorantă fără a transpira.",
+                "en": "A quick stop for a panoramic photo; the sun sits lower in winter, creating soft shadows. Enjoy the refreshing ride without breaking a sweat."
+              }
+            },
+            {
+              "name": {
+                "de": "Dzonot Wayak Cenote",
+                "hu": "Dzonot Wayak Cenote",
+                "ro": "Dzonot Wayak Cenote",
+                "en": "Dzonot Wayak Cenote"
+              },
+              "tip_5lang": {
+                "de": "Schwimmen ist im Winter angenehm, da das Wasser wärmer als die Außenluft sein kann. Trocknen Sie sich schnell ab, um nach dem Bad nicht zu frieren.",
+                "hu": "Az úszás télen is kellemes, mivel a víz gyakran melegebb, mint a külső levegő. Gyorsan szárítkozzon meg, hogy ne fázzon meg a fürdés után.",
+                "ro": "Înotul este plăcut iarna, deoarece apa poate fi mai caldă decât aerul exterior. Uscați-vă rapid pentru a nu vă fi frig după baie.",
+                "en": "Swimming is pleasant in winter as the water can be warmer than the outside air. Dry off quickly to avoid getting chilled after your dip."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen und genießen Sie die kühle Brise im Innenhof. Dies ist ein guter Ort, um Ihre Wasserreserven für die Weiterfahrt aufzufüllen.",
+                "hu": "Látogassa meg a kiállításokat, és élvezze a hűvös szellőt a belső udvaron. Jó hely a vízkészletek feltöltésére a további tekerés előtt.",
+                "ro": "Vizitați expozițiile și bucurați-vă de briza răcoroasă din curtea interioară. Este un loc bun pentru a vă reface rezervele de apă.",
+                "en": "Visit the exhibits and enjoy the cool breeze in the courtyard. This is a good place to refill your water supplies before the next stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Cenote Aldea Zama",
+                "hu": "Cenote Aldea Zama",
+                "ro": "Cenote Aldea Zama",
+                "en": "Cenote Aldea Zama"
+              },
+              "tip_5lang": {
+                "de": "Die Wege in Aldea Zama sind im Winter staubfrei und fest; ideal für eine entspannte Fahrt. Nutzen Sie das Tageslicht für Fotos im Dschungel.",
+                "hu": "Aldea Zama útjai télen pormentesek és szilárdak; ideálisak egy pihentető tekeréshez. Használja ki a nappali fényt a dzsungelben készült fotókhoz.",
+                "ro": "Drumurile din Aldea Zama sunt fără praf și ferme iarna; ideale pentru o plimbare relaxantă. Profitați de lumina zilei pentru poze în junglă.",
+                "en": "The paths in Aldea Zama are dust-free and firm in winter; ideal for a relaxed ride. Make use of the daylight for photos in the jungle."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramid of positive thinking",
+                "hu": "Pyramid of positive thinking",
+                "ro": "Pyramid of positive thinking",
+                "en": "Pyramid of positive thinking"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das sanfte Verschwinden der Sonne hinter den Palmen; die Farben sind im Winter intensiver. Treten Sie den Rückweg vor 17:30 Uhr an.",
+                "hu": "Figyelje a naplemente lágy fényeit a pálmák mögött; a színek télen intenzívebbek. Induljon vissza a szállásra még 17:30 előtt.",
+                "ro": "Urmăriți apusul blând printre palmieri; culorile sunt mai intense iarna. Începeți drumul de întoarcere înainte de ora 17:30.",
+                "en": "Watch the soft sunset behind the palms; the colors are more intense in winter. Start your ride back before 17:30 to avoid the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Vezessen egy kicsit északra, és kezdje a napot a Végzet Templomának titokzatos mélységeiben. Délben gyors kitérőt tehet a városba a Casa de la Cultura felé, mielőtt délnek venné az irányt. Töltse a délutánt a látványos tengerparti övezetben, olyan elegáns pihenőhelyeket felkeresve, mint a Coco Beach és a Kanan. Fejezze be luxusútját a Casa Violetában.",
         "ro": "Conduceți puțin spre nord pentru a începe ziua explorând adâncurile de la Templul Destinului. Prânzul invită la o plimbare înapoi în oraș pentru perspective culturale la Casa de la Cultura înainte de a vă îndrepta spre sud. Petreceți după-amiaza pe plaja spectaculoasă, între Coco Beach și Kanan. Încheiați cursa de lux la Casa Violeta la apus.",
         "en": "Drive slightly north to kick off your day exploring the mysterious depths of the Temple of Doom. Midday invites a quick drive back into town for cultural insights at Casa de la Cultura before heading south. Spend the entire afternoon cruising along the spectacular beach zone, hopping between chic recreational spots like Coco Beach and Kanan. Finish your luxurious drive at Casa Violeta for sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig zu den Cenoten, da einige Straßenabschnitte bei starkem Regen überschwemmt sein können. Mittags bietet das Kulturhaus trockene Parkplätze und Schutz vor dem Wetter. Die Fahrt entlang der Küste ist bei Regen sehr atmosphärisch; parken Sie nah an den Eingängen. Genießen Sie den Abend in einem Restaurant am Meer und lauschen Sie dem Regen.",
+            "hu": "Vezessen óvatosan a cenoték felé, mert egyes útszakaszok heves esőzéskor víz alá kerülhetnek. Délben a kultúrház fedett parkolást és védelmet nyújt az időjárás elől. A tengerparti autózás esőben is hangulatos; parkoljon közel a bejáratokhoz. Az estét töltheti egy vízparti étteremben, hallgatva az eső kopogását.",
+            "ro": "Conduceți cu prudență spre cenote, deoarece unele porțiuni de drum pot fi inundate la ploi abundente. La prânz, casa de cultură oferă parcare și protecție. Drumul de coastă este foarte atmosferic pe ploaie; parcați aproape de intrări. Bucurați-vă de seară într-un restaurant la malul mării, ascultând ploaia.",
+            "en": "Drive carefully to the cenotes as some road sections can flood during heavy rain. At noon, the culture house offers dry parking and shelter from the weather. The coastal drive is very atmospheric in the rain; park close to the building entrances. Enjoy the evening at a seaside restaurant while listening to the rain on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Temple of Doom",
+                "hu": "Temple of Doom",
+                "ro": "Temple of Doom",
+                "en": "Temple of Doom"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um nicht im Schlamm steckenzubleiben. Die Höhle bietet einen großartigen natürlichen Schutz, während Sie den Cenote bewundern.",
+                "hu": "Parkoljon szilárd talajon, hogy elkerülje az elakadást a sárban. A barlang nagyszerű természetes védelmet nyújt, miközben a cenotét csodálja.",
+                "ro": "Parcați pe teren ferm pentru a evita blocarea în noroi. Peștera oferă un adăpost natural excelent în timp ce admirați cenotea.",
+                "en": "Park on firm ground to avoid getting stuck in the mud. The cave provides great natural shelter while you admire the cenote's beauty."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Stopp, um das Auto zu verlassen und drinnen Kultur zu genießen. Nutzen Sie die Zeit für einen längeren Besuch der Ausstellungen.",
+                "hu": "Ez az ideális megálló, hogy kiszálljon az autóból és élvezze a kultúrát. Használja ki az időt a kiállítások alaposabb megtekintésére.",
+                "ro": "Aceasta este oprirea ideală pentru a lăsa mașina și a vă bucura de cultură la interior. Profitați de timp pentru o vizită prelungită a expozițiilor.",
+                "en": "This is the ideal stop to get out of the car and enjoy some culture indoors. Use the time for a longer visit to the various art exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramid of positive thinking",
+                "hu": "Pyramid of positive thinking",
+                "ro": "Pyramid of positive thinking",
+                "en": "Pyramid of positive thinking"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Regen; das nasse Holz und die Steine der Pyramide wirken sehr kontrastreich. Halten Sie einen Regenschirm für den kurzen Weg bereit.",
+                "hu": "Rövid megálló az esőben; a piramis nedves fája és kövei nagyon kontrasztos látványt nyújtanak. Legyen kéznél esernyő a rövid sétához.",
+                "ro": "O oprire scurtă pe ploaie; lemnul și pietrele umede ale piramidei oferă un contrast deosebit. Aveți umbrela pregătită pentru scurta plimbare.",
+                "en": "A short stop in the rain; the wet wood and stones of the pyramid look very high-contrast. Keep an umbrella ready for the short walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Coco Beach",
+                "hu": "Coco Beach",
+                "ro": "Coco Beach",
+                "en": "Coco Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf das stürmische Meer vom geschützten Bereich der Strandbar aus. Der Regen über dem Ozean ist ein beeindruckendes Schauspiel.",
+                "hu": "Élvezze a viharos tenger látványát a strandbár védett részéről. Az óceán feletti esőfüggöny lenyűgöző látványt nyújt a fedél alól.",
+                "ro": "Bucurați-vă de vederea mării agitate din zona protejată a barului de pe plajă. Ploaia deasupra oceanului este un spectacol impresionant.",
+                "en": "Enjoy the view of the stormy sea from the sheltered area of the beach bar. The rain over the ocean is an impressive sight from under cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Dune boutique hotel",
+                "hu": "Dune boutique hotel",
+                "ro": "Dune boutique hotel",
+                "en": "Dune boutique hotel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Hotel und genießen Sie einen Kaffee in der Lobby mit Blick auf die Palmen. Perfekt, um sich kurz aufzuwärmen und abzutrocknen.",
+                "hu": "Parkoljon közvetlenül a hotelnél, és igyon egy kávét a lobbiban a pálmákra nézve. Tökéletes hely a rövid felmelegedésre és megszáradásra.",
+                "ro": "Parcați chiar lângă hotel și savurați o cafea în lobby privind palmierii. Perfect pentru a vă încălzi puțin și a vă usca hainele.",
+                "en": "Park right by the hotel and enjoy a coffee in the lobby while looking at the palms. Perfect for a quick warm-up and to dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanan",
+                "hu": "Kanan",
+                "ro": "Kanan",
+                "en": "Kanan"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur bietet viele überdachte Gänge, um das Meer zu beobachten, ohne nass zu werden. Nutzen Sie die Zeit für entspannte Gespräche drinnen.",
+                "hu": "Az épület sok fedett folyosót kínál a tenger megfigyelésére anélkül, hogy elázna. Használja ki az időt egy kellemes benti beszélgetésre.",
+                "ro": "Arhitectura oferă multe coridoare acoperite pentru a observa marea fără a vă uda. Profitați de timp pentru o discuție relaxată la interior.",
+                "en": "The architecture offers many covered walkways to watch the sea without getting wet. Use the time for some relaxed conversation indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa violeta",
+                "hu": "Casa violeta",
+                "ro": "Casa violeta",
+                "en": "Casa violeta"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei Kerzenschein und dem Geräusch des Regens auf dem Dach. Ein gemütlicher Abschluss Ihrer Autotour durch das regnerische Tulum.",
+                "hu": "Zárja a napot gyertyafény mellett, hallgatva az eső kopogását a tetőn. Hangulatos lezárása az autós túrának az esős Tulumban.",
+                "ro": "Încheiați ziua la lumina lumânărilor și sunetul ploii pe acoperiș. Un final primitor pentru turul dumneavoastră auto prin Tulumul ploios.",
+                "en": "End the day by candlelight and the sound of the rain on the roof. A cozy conclusion to your car tour through rainy Tulum."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die ideale Zeit für eine längere Autofahrt, da die Klimaanlage kaum benötigt wird. Genießen Sie die Denkmäler im Freien unter der sanften Wintersonne. Am Nachmittag sollten Sie die Strandclubs frühzeitig ansteuern, um das Tageslicht voll auszunutzen. Beenden Sie Ihren Tag gegen 17:00 Uhr, wenn sich der Himmel über den Palmen violett färbt.",
+            "hu": "A tél a legalkalmasabb időszak egy hosszabb autózásra, hiszen alig van szükség a klímára. Élvezze a szabadtéri látnivalókat a lágy téli napsütésben. Délután érdemes korábban a tengerparti klubok felé venni az irányt a világos órák miatt. 17:00 körül zárja a napot, amikor az ég lila színbe fordul a pálmák felett.",
+            "ro": "Iarna este perioada ideală pentru o plimbare lungă cu mașina, deoarece aerul condiționat este rar necesar. Admirați monumentele sub soarele blând. După-amiaza, îndreptați-vă spre cluburile de pe plajă devreme pentru a profita de lumină. Încheiați ziua în jurul orei 17:00, când cerul devine violet deasupra palmierilor.",
+            "en": "Winter is the ideal time for a longer car ride as the AC is hardly needed. Enjoy the outdoor landmarks under the gentle winter sun. In the afternoon, head toward the beach clubs early to make the most of the daylight. Wrap up your day around 17:00 as the sky turns purple over the palms."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Temple of Doom",
+                "hu": "Temple of Doom",
+                "ro": "Temple of Doom",
+                "en": "Temple of Doom"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine hervorragende Sicht in die Tiefe des Cenote. Ein angenehmer Stopp, bevor die Mittagssonne an Kraft gewinnt.",
+                "hu": "A tiszta téli levegő kiváló látási viszonyokat biztosít a cenote mélyére. Kellemes megálló, mielőtt a déli napsütés felerősödne.",
+                "ro": "Aerul clar de iarnă oferă o vizibilitate excelentă în adâncurile cenotei. O oprire plăcută înainte ca soarele de la prânz să devină puternic.",
+                "en": "The clear winter air ensures excellent visibility into the depths of the cenote. A pleasant stop before the midday sun gains strength."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Cultura",
+                "hu": "Casa de la Cultura",
+                "ro": "Casa de la Cultura",
+                "en": "Casa de la Cultura"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Winter für den Besuch von Außenveranstaltungen, die jetzt besonders angenehm sind. Das Parken ist in dieser Saison oft etwas einfacher.",
+                "hu": "Használja ki a telet a szabadtéri események látogatására, amelyek most különösen kellemesek. A parkolás ebben a szezonban gyakran valamivel könnyebb.",
+                "ro": "Profitați de iarnă pentru a vizita evenimentele în aer liber, care sunt acum deosebit de plăcute. Parcarea este adesea mai ușoară în acest sezon.",
+                "en": "Take advantage of the winter season to attend outdoor events, which are especially pleasant now. Parking is often a bit easier during this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyramid of positive thinking",
+                "hu": "Pyramid of positive thinking",
+                "ro": "Pyramid of positive thinking",
+                "en": "Pyramid of positive thinking"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht am frühen Nachmittag ist ideal für Fotos der Pyramide. Die Temperaturen sind perfekt für eine kurze Meditation im Freien.",
+                "hu": "A kora délutáni meleg fények ideálisak a piramis fotózásához. A hőmérséklet tökéletes egy rövid szabadtéri meditációhoz.",
+                "ro": "Luminile calde de după-amiază sunt ideale pentru fotografierea piramidei. Temperaturile sunt perfecte pentru o scurtă meditație în aer liber.",
+                "en": "The warm early afternoon light is ideal for taking photos of the pyramid. Temperatures are perfect for a short outdoor meditation."
+              }
+            },
+            {
+              "name": {
+                "de": "Coco Beach",
+                "hu": "Coco Beach",
+                "ro": "Coco Beach",
+                "en": "Coco Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann am Strand im Winter etwas stärker sein; eine leichte Strickjacke ist beim Aussteigen ratsam. Das Meer hat eine wunderschöne tiefblaue Farbe.",
+                "hu": "A szél télen erősebb lehet a parton; tanácsos egy vékony kardigánt felvenni kiszálláskor. A tenger ilyenkor gyönyörű sötétkék színben tündököl.",
+                "ro": "Vântul poate fi mai puternic pe plajă iarna; un cardigan subțire este recomandat la coborâre. Marea are o culoare albastru închis superbă.",
+                "en": "The wind can be stronger on the beach in winter; a light cardigan is advisable when getting out. The sea has a beautiful deep blue color now."
+              }
+            },
+            {
+              "name": {
+                "de": "Dune boutique hotel",
+                "hu": "Dune boutique hotel",
+                "ro": "Dune boutique hotel",
+                "en": "Dune boutique hotel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang von der Hotelterrasse aus, bevor es kühl wird. Der Service ist im Winter oft persönlicher und entspannter.",
+                "hu": "Élvezze a naplementét a hotel teraszáról, mielőtt hűvösre fordulna az idő. A kiszolgálás télen gyakran személyesebb és nyugodtabb.",
+                "ro": "Bucurați-vă de apus de pe terasa hotelului înainte să se răcească. Servirea este adesea mai personală și mai relaxată în timpul iernii.",
+                "en": "Enjoy the sunset from the hotel terrace before it gets cool. The service is often more personal and relaxed during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanan",
+                "hu": "Kanan",
+                "ro": "Kanan",
+                "en": "Kanan"
+              },
+              "tip_5lang": {
+                "de": "Die hölzernen Strukturen wirken im Winterlicht besonders warm. Ein toller Ort für einen Drink, während die Dämmerung über der Küste einsetzt.",
+                "hu": "A faszerkezetek a téli fényben különösen meleg hatást keltenek. Kiváló hely egy italra, miközben a szürkület leszáll a partvidékre.",
+                "ro": "Structurile din lemn par deosebit de calde în lumina iernii. Un loc excelent pentru o băutură în timp ce amurgul coboară peste coastă.",
+                "en": "The wooden structures look especially warm in the winter light. A great spot for a drink as twilight begins to settle over the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa violeta",
+                "hu": "Casa violeta",
+                "ro": "Casa violeta",
+                "en": "Casa violeta"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag mit dem Blick auf die Sterne, die im klaren Winterhimmel besonders hell leuchten. Bringen Sie einen Schal für die kühle Nachtluft mit.",
+                "hu": "Zárja a napot a csillagok nézésével, amelyek a tiszta téli égen ragyognak a legjobban. Vigyen sálat a hűvös éjszakai levegő ellen.",
+                "ro": "Încheiați ziua admirând stelele, care strălucesc intens pe cerul clar de iarnă. Aduceți un fular pentru aerul răcoros al nopții.",
+                "en": "End your day by stargazing; the stars shine brightest in the clear winter sky. Bring a scarf to protect yourself from the cool night air."
+              }
+            }
+          ]
+        }
       }
     }
   }

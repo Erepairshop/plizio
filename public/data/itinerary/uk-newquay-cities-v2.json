@@ -160,6 +160,196 @@
         "hu": "Kezdjen egy frissítő reggeli sétával a Trenance kertekben, majd fedezze fel a vadvilágot a Newquay Állatkertben. Délben a Blue Reef Akvárium lenyűgöző tengeri bemutatói várják. A délutánt a történelmi kikötő és a Huer's Hut tengeri varázsának szentelje. Zárja a napot a híres Fistral strand aranyhomokján, a naplementében gyönyörködve.",
         "ro": "Începeți cu o plimbare răcoroasă prin vibrantele Grădini Trenance, înainte de a explora fauna de la Newquay Zoo. Prânzul vine cu fascinanta viață marină de la Blue Reef Aquarium. Petreceți după-amiaza bucurându-vă de farmecul maritim istoric la Portul Newquay și Huer's Hut. Încheiați ziua admirând apusul de la legendara Plajă Fistral.",
         "en": "Start with a refreshing morning walk through the vibrant Trenance Gardens before exploring wildlife at Newquay Zoo. Midday features the fascinating marine displays at the Blue Reef Aquarium. Spend your afternoon embracing the historic maritime charm at Newquay Harbour and Huer's Hut. End the day relaxing and watching the sunset at the iconic Fistral Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in den Trenance Gardens, wo die Cafés Schutz vor dem Nieselregen bieten. Mittags geht es in die tropischen Hallen des Zoos, gefolgt von einem trockenen Nachmittag im Blue Reef Aquarium. Der Abend endet mit einem dramatischen Blick auf die stürmische See am Fistral Beach, geschützt durch wetterfeste Kleidung.",
+            "hu": "A reggel a Trenance kertekben indul, ahol a kávézók fedezéket nyújtanak a szemerkélő esőben. Délben az állatkert trópusi házaiba húzódunk, majd a délutánt a Blue Reef Akvárium száraz folyosóin töltjük. Az este a Fistral strand viharos látványával zárul, vízhatlan ruházatban élvezve az óceán erejét.",
+            "ro": "Dimineața începe în Grădinile Trenance, unde cafenelele oferă adăpost împotriva burniței. La prânz explorăm pavilioanele tropicale ale grădinii zoologice, urmate de o după-amiază uscată la Acvariul Blue Reef. Seara se încheie cu o priveliște dramatică a mării furtunoase la Plaja Fistral, protejați de haine impermeabile.",
+            "en": "The morning starts in Trenance Gardens, where cafes provide shelter from the drizzle. At noon, we head into the zoo's tropical houses, followed by a dry afternoon in the Blue Reef Aquarium. The evening ends with a dramatic view of the stormy sea at Fistral Beach, enjoyed in full waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trenance Gärten",
+                "hu": "Trenance kertek",
+                "ro": "Grădinile Trenance",
+                "en": "Trenance Gardens"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft der feuchten Gärten vom Vordach des Teesalons aus; halten Sie einen Schirm für den kurzen Weg zum See bereit.",
+                "hu": "Élvezze a nedves kert illatát a teázó előtetője alól; tartson kéznél esernyőt a tó körüli rövid sétához a csúszós utakon.",
+                "ro": "Bucurați-vă de parfumul grădinilor umede de sub copertina ceainăriei; aveți umbrela pregătită pentru scurta plimbare spre lac.",
+                "en": "Enjoy the scent of the damp gardens from the tea room's canopy; keep an umbrella ready for the short walk to the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Newquay Zoo",
+                "hu": "Newquay Állatkert",
+                "ro": "Grădina Zoologică Newquay",
+                "en": "Newquay Zoo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Tropenhäusern, um exotische Tiere im Trockenen zu beobachten; die Wege zwischen den Gehegen sind oft pfützig.",
+                "hu": "Keresse a menedéket a trópusi házakban, ahol szárazon figyelheti az egzotikus állatokat; a kifutók közötti utak gyakran tócsásak.",
+                "ro": "Căutați adăpost în casele tropicale pentru a observa animalele exotice la uscat; potecile dintre țarcuri au adesea bălți mari.",
+                "en": "Seek shelter in the tropical houses to observe exotic animals while dry; the paths between enclosures often have deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Reef Aquarium",
+                "hu": "Blue Reef Akvárium",
+                "ro": "Acvariul Blue Reef",
+                "en": "Blue Reef Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um dem Regen zu entkommen und den Unterwassertunnel zu erkunden; nutzen Sie die Zeit für eine lange Pause.",
+                "hu": "Ez a tökéletes hely az eső elöli menekülésre az óriási víz alatti alagútban; használja ki az időt egy hosszú, száraz pihenőre.",
+                "ro": "Acesta este locul perfect pentru a scăpa de ploaie în tunelul subacvatic; profitați de timp pentru o pauză lungă și uscată.",
+                "en": "This is the perfect place to escape the rain in the underwater tunnel; use the time for a long, dry break inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Newquay",
+                "hu": "Newquay Kikötő",
+                "ro": "Portul Newquay",
+                "en": "Newquay Harbour"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote vom Schutz der Hafenmauer aus; achten Sie auf den rutschigen Boden durch Algen und Regenwasser.",
+                "hu": "Figyelje a halászhajókat a kikötői fal védelméből; vigyázzon az algák és az esővíz miatt rendkívül csúszós kövezettel.",
+                "ro": "Urmăriți bărcile de pescuit din protecția zidului portului; atenție la pavajul alunecos din cauza algelor și a apei de ploaie.",
+                "en": "Watch the fishing boats from the protection of the harbour wall; watch out for the slippery ground due to algae and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Huer's Hut",
+                "hu": "Huer Kunyhója",
+                "ro": "Coliba Huer",
+                "en": "Huer's Hut"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zur Hütte belohnt Sie mit einem grauen, majestätischen Blick auf den Atlantik; der Wind ist hier oben sehr stark.",
+                "hu": "Egy rövid sprint a kunyhóhoz fenséges szürke kilátással jutalmazza az Atlanti-óceánra; a szél itt fent nagyon erős esőben.",
+                "ro": "Un sprint scurt până la colibă vă răsplătește cu o vedere gri maiestuoasă asupra Atlanticului; vântul este foarte puternic aici sus.",
+                "en": "A short sprint to the hut rewards you with a majestic grey view of the Atlantic; the wind is very strong up here in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fistral Beach",
+                "hu": "Fistral Strand",
+                "ro": "Plaja Fistral",
+                "en": "Fistral Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die mutigen Surfer vom Strandkomplex aus; tragen Sie festes Schuhwerk, da der Sand nass und schwer zu begehen ist.",
+                "hu": "Figyelje a bátor szörfösöket a parti komplexum fedett teraszáról; viseljen bakancsot, mert a vizes homok nehéz és ragadós.",
+                "ro": "Urmăriți surferii curajoși de pe terasa acoperită a complexului de pe plajă; purtați bocanci, nisipul ud este greu de parcurs.",
+                "en": "Watch the brave surfers from the beach complex's covered terrace; wear boots as the wet sand is heavy and hard to walk on."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in den Trenance Gardens mit Raureif auf den Wegen. Nach einem Zoobesuch lockt das beheizte Aquarium zur Aufwärmpause. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir den Fistral Beach pünktlich zum goldenen Zwielicht, gefolgt von einem heißen Getränk.",
+            "hu": "A friss téli reggel a Trenance kertekben indul, dérrel a kerti utakon. Az állatkerti látogatás után a fűtött akvárium csábít felmelegedésre. Mivel a nap 17:00 körül nyugszik, a Fistral strandot az aranyló alkonyatban érjük el, amit egy forró ital követ.",
+            "ro": "O dimineață răcoroasă de iarnă începe în Grădinile Trenance cu chiciură pe poteci. După grădina zoologică, acvariul încălzit vă invită la o pauză. Deoarece soarele apune în jurul orei 17:00, ajungem la Plaja Fistral în amurgul auriu.",
+            "en": "A crisp winter morning starts in Trenance Gardens with frost on the paths. After the zoo visit, the heated aquarium invites you for a warm-up. Since the sun sets around 17:00, we reach Fistral Beach in the golden twilight, followed by a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trenance Gärten",
+                "hu": "Trenance kertek",
+                "ro": "Grădinile Trenance",
+                "en": "Trenance Gardens"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Stille und die gefrorenen Teiche; wärmen Sie sich nach dem Spaziergang mit einer heißen Schokolade im Café auf.",
+                "hu": "Csodálja meg a téli csendet és a befagyott tavat; a séta után melegedjen fel egy forró csokoládéval a közeli hangulatos kávézóban.",
+                "ro": "Admirați liniștea iernii și lacul înghețat; după plimbare, încălziți-vă cu o ciocolată caldă în cafeneaua primitoare din apropiere.",
+                "en": "Admire the winter silence and the frozen ponds; warm up with a hot chocolate in the cozy cafe after your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Newquay Zoo",
+                "hu": "Newquay Állatkert",
+                "ro": "Grădina Zoologică Newquay",
+                "en": "Newquay Zoo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Roten Pandas, die im Winter besonders aktiv sind; tragen Sie Schichten, da es in den Schattenbereichen sehr kühl ist.",
+                "hu": "Látogassa meg a vörös pandákat, akik télen különösen aktívak; öltözzön rétegesen, mert az árnyékos részeken nagyon hideg az idő.",
+                "ro": "Vizitați panda roșii, care sunt deosebit de activi iarna; purtați straturi groase, deoarece în zonele umbrite este foarte frig.",
+                "en": "Visit the red pandas, who are particularly active in winter; wear layers as the shaded areas of the zoo stay very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Reef Aquarium",
+                "hu": "Blue Reef Akvárium",
+                "ro": "Acvariul Blue Reef",
+                "en": "Blue Reef Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Aquarium als wohlig warmen Rückzugsort zur Mittagszeit; die Innenräume sind angenehm temperiert und bieten tollen Schutz.",
+                "hu": "Használja az akváriumot kellemesen meleg menedékként ebédidőben; a belső terek jól fűtöttek és kiváló védelmet nyújtanak a hideg ellen.",
+                "ro": "Folosiți acvariul ca un refugiu călduros la ora prânzului; spațiile interioare sunt bine încălzite și oferă protecție contra frigului.",
+                "en": "Use the aquarium as a cozy warm retreat at lunchtime; the interiors are well-heated and offer great protection from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Newquay",
+                "hu": "Newquay Kikötő",
+                "ro": "Portul Newquay",
+                "en": "Newquay Harbour"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare, kalte Meeresluft und suchen Sie nach Seehunden im Hafen; der Wind vom Wasser her kann schneidend kalt sein.",
+                "hu": "Élvezze a tiszta, hideg tengeri levegőt és keresse a fókákat a kikötőben; a víz felől fújó szél metszően hideg lehet télen.",
+                "ro": "Bucurați-vă de aerul curat și rece al mării și căutați focile în port; vântul care suflă dinspre apă poate fi tăios de rece.",
+                "en": "Enjoy the clear, cold sea air and look for seals in the harbour; the wind blowing off the water can be piercingly cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Huer's Hut",
+                "hu": "Huer Kunyhója",
+                "ro": "Coliba Huer",
+                "en": "Huer's Hut"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr hierher, um den frühen Sonnenuntergang über den Klippen zu sehen; Handschuhe sind für das Fotografieren nötig.",
+                "hu": "Érkezzen 16:30 előtt, hogy láthassa a korai naplementét a sziklák felett; a fotózáshoz feltétlenül szükség lesz kesztyűre.",
+                "ro": "Sosiți înainte de 16:30 pentru a vedea apusul timpuriu peste stânci; veți avea nevoie de mănuși pentru a face fotografii.",
+                "en": "Arrive before 16:30 to see the early sunset over the cliffs; gloves are absolutely necessary for taking photos in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Fistral Beach",
+                "hu": "Fistral Strand",
+                "ro": "Plaja Fistral",
+                "en": "Fistral Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das wilde Wintermeer vom Ufer aus; beenden Sie Ihren Spaziergang schnell, bevor es nach 17:00 Uhr ganz dunkel wird.",
+                "hu": "Figyelje a vad téli tengert a partról; fejezze be a sétát időben, mielőtt 17:00 után teljesen besötétedik az óceánparton.",
+                "ro": "Urmăriți marea sălbatică de iarnă de pe țărm; terminați plimbarea rapid înainte de a se întuneca complet după ora 17:00.",
+                "en": "Watch the wild winter sea from the shore; finish your walk quickly before it gets completely dark after 17:00 at the coast."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúrája a Gannel nyugodt és homokos partjai mentén kezdődik. Dél közeledtével tekerjen a Fistral strand híres szörfhullámaihoz és a történelmi Huer's Huthoz. Délután fedezze fel a tengeri fajokat a Blue Reef Akváriumban, és lazítson a Tolcarne strandon. Zárja az estét a védett Lusty Glaze strandon egy jól megérdemelt vacsorával.",
         "ro": "Călătoria pe bicicletă începe pe țărmurile liniștite și nisipoase de la The Gannel. Spre prânz, mergeți spre valurile faimoase ale Plajei Fistral și istorica Huer's Hut. După-amiaza, descoperiți speciile marine la Blue Reef Aquarium și relaxați-vă la Plaja Tolcarne. Încheiați seara liniștit la Plaja ferită Lusty Glaze.",
         "en": "Your cycling journey begins along the serene and sandy shores of The Gannel. As midday approaches, ride towards the famous surfing waves of Fistral Beach and the historic Huer's Hut. In the afternoon, discover vibrant marine species at the Blue Reef Aquarium and relax at Tolcarne Beach. Conclude the evening at the beautifully sheltered Lusty Glaze Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour führt morgens entlang des Gannel, wo Vorsicht auf schlammigen Wegen geboten ist. Mittags bietet das Blue Reef Aquarium eine lange, trockene Pause. Trotz Regen ist die Fahrt zur Huer's Hut wegen der Aussicht lohnenswert, sofern man gute Regenbekleidung und Schutzbleche nutzt.",
+            "hu": "A kerékpártúra reggel a Gannel mentén indul, ahol óvatosság ajánlott a sáros utakon. Délben a Blue Reef Akvárium nyújt hosszú, száraz pihenőt. Az eső ellenére a Huer kunyhójához vezető út megéri a látványt, feltéve, ha van sárvédőnk és jó esőruhánk.",
+            "ro": "Turul cu bicicleta începe dimineața de-a lungul Gannel, unde este necesară prudență pe potecile noroioase. La prânz, Acvariul Blue Reef oferă o pauză lungă și uscată. În ciuda ploii, drumul spre Coliba Huer merită pentru vedere, cu aripi bune la bicicletă.",
+            "en": "The bike tour starts in the morning along the Gannel, where caution is needed on muddy paths. At noon, the Blue Reef Aquarium offers a long, dry break. Despite the rain, the ride to Huer's Hut is worth the view, provided you have mudguards and good waterproofs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Gannel",
+                "hu": "A Gannel",
+                "ro": "The Gannel",
+                "en": "The Gannel"
+              },
+              "tip_5lang": {
+                "de": "Die Uferwege können sehr rutschig und schlammig sein; bremsen Sie vorsichtig und meiden Sie tiefe Pfützen am Wegrand.",
+                "hu": "A parti utak nagyon csúszósak és sárosak lehetnek; fékezzen óvatosan és kerülje a mély tócsákat az út szélén.",
+                "ro": "Potecile de pe mal pot fi foarte alunecoase și noroioase; frânați cu prudență și evitați bălțile adânci de pe marginea drumului.",
+                "en": "The riverside paths can be very slippery and muddy; brake carefully and avoid deep puddles at the edge of the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Fistral Beach",
+                "hu": "Fistral Strand",
+                "ro": "Plaja Fistral",
+                "en": "Fistral Beach"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad nahe am Café-Eingang; der starke Wind am Strand kann das Fahren auf der Promenade erschweren.",
+                "hu": "Zárja le kerékpárját a kávézó bejárata közelében; a parton fújó erős szél megnehezítheti a haladást a sétányon.",
+                "ro": "Asigurați bicicleta aproape de intrarea cafenelei; vântul puternic de pe plajă poate îngreuna deplasarea pe faleză.",
+                "en": "Secure your bike close to the cafe entrance; the strong wind on the beach can make riding on the promenade difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Huer's Hut",
+                "hu": "Huer Kunyhója",
+                "ro": "Coliba Huer",
+                "en": "Huer's Hut"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist bei Regen anstrengend, aber die Sicht auf die Gischt ist toll; achten Sie auf glatten Asphalt bei der Abfahrt.",
+                "hu": "Az emelkedő esőben fárasztó, de a habzó tenger látványa kárpótol; figyeljen a sima aszfaltra a lefelé vezető úton.",
+                "ro": "Urcarea este obositoare pe ploaie, dar vederea mării înspumate merită; atenție la asfaltul lucios pe drumul de coborâre.",
+                "en": "The climb is tiring in the rain, but the view of the sea spray is great; watch out for smooth asphalt on the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Reef Aquarium",
+                "hu": "Blue Reef Akvárium",
+                "ro": "Acvariul Blue Reef",
+                "en": "Blue Reef Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an den überdachten Ständern in der Nähe; wärmen Sie Ihre Hände im gut temperierten Gebäude auf.",
+                "hu": "Parkoljon a közelben található fedett tárolóknál; melegítse fel kezeit a jól temperált épületben a hosszú tekerés után.",
+                "ro": "Parcați la rastelele acoperite din apropiere; încălziți-vă mâinile în clădirea bine temperată după tura lungă.",
+                "en": "Park your bike at the covered racks nearby; warm up your hands in the well-tempered building after the long ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Tolcarne Beach",
+                "hu": "Tolcarne Strand",
+                "ro": "Plaja Tolcarne",
+                "en": "Tolcarne Beach"
+              },
+              "tip_5lang": {
+                "de": "Die steile Zufahrt zum Strand ist bei Nässe tückisch; steigen Sie im Zweifelsfall ab und schieben Sie Ihr Rad nach unten.",
+                "hu": "A strandra vezető meredek út nedvesen csalóka; kétség esetén szálljon le és tolja lefelé a kerékpárját.",
+                "ro": "Drumul abrupt spre plajă este înșelător pe umezeală; dacă aveți dubii, coborâți și împingeți bicicleta la vale.",
+                "en": "The steep access road to the beach is treacherous when wet; if in doubt, get off and push your bike downwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Lusty Glaze Beach",
+                "hu": "Lusty Glaze Strand",
+                "ro": "Plaja Lusty Glaze",
+                "en": "Lusty Glaze Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick von oben, bevor Sie im Regen zurückradeln; prüfen Sie Ihre Bremsen vor der Abfahrt ins Stadtzentrum.",
+                "hu": "Élvezze a kilátást fentről, mielőtt visszatekerne az esőben; ellenőrizze a fékeket a városközpont felé vezető lejtő előtt.",
+                "ro": "Bucurați-vă de priveliștea de sus înainte de a pedala înapoi prin ploaie; verificați frânele înainte de coborârea spre centru.",
+                "en": "Enjoy the view from above before cycling back in the rain; check your brakes before the descent towards the town center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour bietet klare Luft und weite Sichten am Gannel. Am Fistral Beach beobachten wir die großen Winterwellen, bevor wir uns im Aquarium aufwärmen. Die Tour endet bei Einbruch der Dunkelheit am Lusty Glaze Beach, weshalb eine funktionierende Beleuchtung am Rad unerlässlich ist.",
+            "hu": "A téli kerékpártúra tiszta levegőt és messzi kilátást kínál a Gannelnél. A Fistral strandon megnézzük a hatalmas téli hullámokat, mielőtt az akváriumban felmelegednénk. A túra sötétedéskor ér véget a Lusty Glaze strandnál, ezért a világítás elengedhetetlen.",
+            "ro": "Turul de iarnă cu bicicleta oferă aer curat și vederi îndepărtate la Gannel. Pe plaja Fistral vedem valurile uriașe de iarnă, înainte de a ne încălzi la acvariu. Turul se termină la Lusty Glaze la lăsarea întunericului, deci luminile sunt esențiale.",
+            "en": "The winter bike tour offers clear air and distant views at the Gannel. At Fistral Beach, we watch the massive winter waves before warming up in the aquarium. The tour ends at dark at Lusty Glaze Beach, so working lights are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Gannel",
+                "hu": "A Gannel",
+                "ro": "The Gannel",
+                "en": "The Gannel"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren blenden; tragen Sie eine Sonnenbrille und achten Sie auf gefrorene Stellen auf dem Weg.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat tekerés közben; viseljen napszemüveget és figyeljen a befagyott foltokra az úton.",
+                "ro": "Soarele jos de iarnă vă poate orbi în timp ce pedalați; purtați ochelari de soare și atenție la porțiunile înghețate de pe drum.",
+                "en": "The low winter sun can blind you while riding; wear sunglasses and watch out for frozen patches on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Fistral Beach",
+                "hu": "Fistral Strand",
+                "ro": "Plaja Fistral",
+                "en": "Fistral Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Wind ist im Winter schneidend kalt; tragen Sie unbedingt winddichte Handschuhe, um die Kontrolle über den Lenker zu behalten.",
+                "hu": "A szél télen metszően hideg a parton; viseljen szélálló kesztyűt, hogy megőrizze uralmát a kormány felett a nagy szélben is.",
+                "ro": "Vântul este tăios de rece iarna pe plajă; purtați mănuși rezistente la vânt pentru a păstra controlul asupra ghidonului.",
+                "en": "The wind is piercingly cold in winter on the beach; wear windproof gloves to maintain control of the handlebars in high winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Huer's Hut",
+                "hu": "Huer Kunyhója",
+                "ro": "Coliba Huer",
+                "en": "Huer's Hut"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für Winterfotos bei klarem Himmel; parken Sie Ihr Rad sicher, da Böen das Rad leicht umwerfen können.",
+                "hu": "Nagyszerű hely téli fotókhoz tiszta égbolt mellett; támassza le stabilan a kerékpárt, mert a lökések könnyen felboríthatják.",
+                "ro": "Un loc grozav pentru fotografii de iarnă cu cer senin; asigurați bicicleta stabil, deoarece rafalele o pot răsturna ușor.",
+                "en": "A great place for winter photos under clear skies; park your bike securely as gusts can easily knock it over."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Reef Aquarium",
+                "hu": "Blue Reef Akvárium",
+                "ro": "Acvariul Blue Reef",
+                "en": "Blue Reef Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause, um die kalten Glieder aufzuwärmen; das Aquarium ist im Winter angenehm leer und sehr entspannend.",
+                "hu": "Használja ki a szünetet a hideg végtagok felmelegítésére; az akvárium télen kellemesen üres és rendkívül pihentető.",
+                "ro": "Profită de pauză pentru a-ți încălzi membrele înghețate; acvariul este plăcut de gol iarna și foarte relaxant.",
+                "en": "Take advantage of the break to warm up cold limbs; the aquarium is pleasantly empty in winter and very relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Tolcarne Beach",
+                "hu": "Tolcarne Strand",
+                "ro": "Plaja Tolcarne",
+                "en": "Tolcarne Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Uhrzeit; der Weg zurück nach oben sollte vor 16:45 Uhr angetreten werden, um das Tageslicht zu nutzen.",
+                "hu": "Figyeljen az időre; a visszafelé vezető utat érdemes 16:45 előtt megkezdeni, hogy kihasználja a maradék nappali fényt.",
+                "ro": "Atenție la oră; drumul de întoarcere ar trebui început înainte de 16:45 pentru a profita de lumina zilei rămasă.",
+                "en": "Watch the time; the journey back up should be started before 16:45 to make the most of the remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Lusty Glaze Beach",
+                "hu": "Lusty Glaze Strand",
+                "ro": "Plaja Lusty Glaze",
+                "en": "Lusty Glaze Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Rückfahrt im Dunkeln Ihre Beleuchtung; die Küstenstraße ist im Winter bei Nacht schlecht beleuchtet.",
+                "hu": "Visszaindulás előtt ellenőrizze a világítást; a part menti út télen éjszaka rosszul megvilágított, legyen látható.",
+                "ro": "Verificați luminile înainte de plecare; drumul de coastă este prost iluminat noaptea iarna, asigurați-vă că sunteți vizibil.",
+                "en": "Check your lights before heading back; the coastal road is poorly lit at night in winter, so make sure you are visible."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kora reggel vezessen a Porth strandra, hogy élvezze festői gyaloghídját és nyugodt vizét. Délben parkoljon a Newquay Állatkert közelében a vadvilágért, majd sétáljon át a Trenance kertekbe. Délután szívja magába a kikötő és a Fistral strand energikus hangulatát, végül pedig a gyönyörű Crantock strandon fejezze be a napot egy esti sétával.",
         "ro": "Conduceți la Plaja Porth la prima oră pentru a vă bucura de pasarela pitorească și apele calme. La prânz, parcați lângă Newquay Zoo pentru a vedea fauna diversă și plimbați-vă prin Grădinile Trenance. Petreceți după-amiaza la Portul Newquay și pe energica Plajă Fistral, terminând la superba și liniștita Plajă Crantock.",
         "en": "Drive to Porth Beach first thing in the morning to enjoy its scenic footbridge and calm waters. By midday, park near Newquay Zoo to encounter diverse wildlife and stroll through the adjacent Trenance Gardens. Spend your afternoon soaking in the atmosphere of Newquay Harbour and the energetic Fistral Beach, finishing at the beautiful Crantock Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Regentour mit dem Auto ermöglicht bequemes Sightseeing zwischen den Stränden. Den Vormittag verbringen wir im geschützten Zoo, mittags genießen wir den Blick auf den Hafen aus dem Autofenster. Der Nachmittag gehört dem warmen Aquarium, bevor wir am Fistral Beach die stürmischen Wellen sicher vom Parkplatz aus beobachten.",
+            "hu": "Az esős autós túra kényelmes városnézést tesz lehetővé a strandok között. A délelőttöt a védett állatkertben töltjük, délben a kikötő látványát az autó ablakából élvezzük. A délután az akváriumé, majd a Fistral strandon a viharos hullámokat a parkolóból figyeljük.",
+            "ro": "Turul cu mașina pe ploaie permite vizitarea confortabilă a plajelor. Dimineața o petrecem la zoo, la prânz admirăm portul din mașină. După-amiaza aparține acvariului, apoi la Plaja Fistral urmărim valurile furtunoase în siguranță din parcare.",
+            "en": "The rainy car tour allows for comfortable sightseeing between the beaches. We spend the morning at the zoo, and at noon we enjoy the view of the harbour from the car window. The afternoon belongs to the aquarium, then at Fistral Beach, we watch the stormy waves safely from the parking lot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porth Beach",
+                "hu": "Porth Strand",
+                "ro": "Plaja Porth",
+                "en": "Porth Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Straße für einen tollen Meerblick ohne nass zu werden; der Sand ist bei Regen sehr fest und dunkel.",
+                "hu": "Parkoljon közvetlenül az út mentén a remek tengeri kilátásért anélkül, hogy elázna; a homok esőben nagyon tömör és sötét.",
+                "ro": "Parcați direct pe marginea drumului pentru o vedere excelentă la mare fără a vă uda; nisipul este foarte compact și închis la culoare.",
+                "en": "Park directly along the road for a great sea view without getting wet; the sand is very compact and dark in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Newquay Zoo",
+                "hu": "Newquay Állatkert",
+                "ro": "Grădina Zoologică Newquay",
+                "en": "Newquay Zoo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz und konzentrieren Sie sich auf die Innengehege; ein Regenschirm ist für den Weg vom Auto nötig.",
+                "hu": "Használja a közeli parkolót és koncentráljon a belső kifutókra; egy esernyő mindenképpen kell az autótól a bejáratig.",
+                "ro": "Folosiți parcarea din apropiere și concentrați-vă pe țarcurile interioare; o umbrelă este necesară de la mașină până la intrare.",
+                "en": "Use the nearby car park and focus on the indoor enclosures; an umbrella is definitely needed from the car to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Trenance Gärten",
+                "hu": "Trenance kertek",
+                "ro": "Grădinile Trenance",
+                "en": "Trenance Gardens"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Fahrt um den See und parken Sie nahe am Teehaus; genießen Sie die grüne Kulisse durch die Scheibe.",
+                "hu": "Tegyen egy rövid kört autóval a tó körül, és parkoljon a teaház közelében; élvezze a zöld környezetet a szélvédő mögül.",
+                "ro": "Faceți o scurtă tură cu mașina în jurul lacului și parcați lângă ceainărie; bucurați-vă de peisajul verde de după parbriz.",
+                "en": "Take a short drive around the lake and park near the tea house; enjoy the green surroundings from behind the windscreen."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Newquay",
+                "hu": "Newquay Kikötő",
+                "ro": "Portul Newquay",
+                "en": "Newquay Harbour"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafenrand für einen Panoramablick auf die Boote; die Gischt kann die Windschutzscheibe schnell mit Salz bedecken.",
+                "hu": "Parkoljon a kikötő szélén a hajók panorámás kilátásáért; a sós tengeri permet gyorsan befedheti a szélvédőt esőben.",
+                "ro": "Parcați la marginea portului pentru o vedere panoramică a bărcilor; spray-ul marin sărat poate acoperi rapid parbrizul pe ploaie.",
+                "en": "Park at the edge of the harbour for a panoramic view of the boats; salt spray can quickly cover the windscreen in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fistral Beach",
+                "hu": "Fistral Strand",
+                "ro": "Plaja Fistral",
+                "en": "Fistral Beach"
+              },
+              "tip_5lang": {
+                "de": "Der große Parkplatz bietet ideale Sicht auf die Brandung; bleiben Sie im warmen Auto, während draußen der Sturm tobt.",
+                "hu": "A nagy parkoló ideális kilátást nyújt a hullámtörésre; maradjon a meleg autóban, miközben kint tombol a tengeri vihar.",
+                "ro": "Parcarea mare oferă o vedere ideală asupra valurilor; rămâneți în mașina caldă în timp ce afară dezlănțuie furtuna marină.",
+                "en": "The large car park offers an ideal view of the surf; stay in the warm car while the sea storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Crantock Beach",
+                "hu": "Crantock Strand",
+                "ro": "Plaja Crantock",
+                "en": "Crantock Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz am Ende der Straße für einen letzten Blick; bei starkem Regen können die Zufahrtswege matschig sein.",
+                "hu": "Hajtson az út végi parkolóba egy utolsó pillantásért; heves esőzéskor a bekötőutak sárosak lehetnek, óvatosan vezessen.",
+                "ro": "Conduceți până la parcarea de la capătul drumului pentru o ultimă privire; la ploi abundente, drumurile de acces pot fi noroioase.",
+                "en": "Drive to the car park at the end of the road for a final look; during heavy rain, the access roads can be muddy, drive carefully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto startet am Porth Beach bei klarer, kalter Luft. Nach einem Besuch im Newquay Zoo wärmen wir uns bei der Fahrt durch die Stadt auf. Das Aquarium bietet einen perfekten Stopp vor dem frühen Sonnenuntergang am Crantock Beach, den wir gemütlich vom Auto aus miterleben.",
+            "hu": "A téli autós túra a Porth strandon indul a tiszta, hideg levegőben. Az állatkerti látogatás után a városi autózás alatt melegszünk fel. Az akvárium tökéletes megálló a korai naplemente előtt, amit a Crantock strandon az autóból nézünk végig.",
+            "ro": "Turul de iarnă cu mașina începe la Plaja Porth în aerul rece și curat. După vizita la zoo, ne încălzim în timpul condusului prin oraș. Acvariul este o oprire perfectă înainte de apusul timpuriu de la Crantock, văzut din mașină.",
+            "en": "The winter car tour starts at Porth Beach in the clear, cold air. After a visit to the zoo, we warm up during the drive through town. The aquarium is a perfect stop before the early sunset, which we watch from the car at Crantock Beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porth Beach",
+                "hu": "Porth Strand",
+                "ro": "Plaja Porth",
+                "en": "Porth Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Strände und die weite Sicht; im Winter sind die Parkplätze hier oft kostenlos oder sehr günstig.",
+                "hu": "Élvezze az üres strandokat és a messzi kilátást; télen az itteni parkolók gyakran ingyenesek vagy nagyon olcsók.",
+                "ro": "Bucurați-vă de plajele goale și de vederea îndepărtată; iarna, parcările de aici sunt adesea gratuite sau foarte ieftine.",
+                "en": "Enjoy the empty beaches and the distant views; in winter, the car parks here are often free or very cheap."
+              }
+            },
+            {
+              "name": {
+                "de": "Newquay Zoo",
+                "hu": "Newquay Állatkert",
+                "ro": "Grădina Zoologică Newquay",
+                "en": "Newquay Zoo"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung für die Außenbereiche; nach dem Rundgang lässt sich das Auto mit der Heizung schnell wieder aufwärmen.",
+                "hu": "Viseljen meleg ruhát a külső részekhez; a körséta után az autó fűtésével gyorsan újra felmelegedhet a következő állomásig.",
+                "ro": "Purtați haine groase pentru zonele exterioare; după plimbare, mașina se va reîncălzi rapid cu ajutorul sistemului de încălzire.",
+                "en": "Wear warm clothes for the outdoor areas; after the tour, the car heater will quickly warm you up for the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Trenance Gärten",
+                "hu": "Trenance kertek",
+                "ro": "Grădinile Trenance",
+                "en": "Trenance Gardens"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Struktur der Bäume; nutzen Sie die Parkbuchten nahe dem See für einen schnellen Fotostopp.",
+                "hu": "Csodálja meg a fák téli struktúráját; használja a tó melletti parkolóhelyeket egy gyors, de látványos fotómegállóhoz.",
+                "ro": "Admirați structura de iarnă a copacilor; folosiți locurile de parcare de lângă lac pentru o oprire foto rapidă și spectaculoasă.",
+                "en": "Admire the winter structure of the trees; use the parking bays near the lake for a quick but spectacular photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Newquay",
+                "hu": "Newquay Kikötő",
+                "ro": "Portul Newquay",
+                "en": "Newquay Harbour"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen wirkt im Winterlicht besonders malerisch; parken Sie so, dass Sie die Wellen gegen die Kaimauer klatschen sehen.",
+                "hu": "A kikötő téli fényben különösen festői; parkoljon úgy, hogy láthassa a rakpart falának csapódó hatalmas hullámokat.",
+                "ro": "Portul este deosebit de pitoresc în lumina iernii; parcați astfel încât să puteți vedea valurile izbindu-se de zidul cheiului.",
+                "en": "The harbour is particularly picturesque in winter light; park so that you can see the waves crashing against the quay wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Fistral Beach",
+                "hu": "Fistral Strand",
+                "ro": "Plaja Fistral",
+                "en": "Fistral Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben der Wintersurfer vom warmen Fahrersitz aus; die Brandung ist in dieser Jahreszeit oft am höchsten.",
+                "hu": "Figyelje a téli szörfösöket a meleg vezetőülésből; a hullámverés ebben az évszakban gyakran a legmagasabb és leglátványosabb.",
+                "ro": "Urmăriți surferii de iarnă de pe scaunul cald al șoferului; valurile sunt adesea cele mai înalte și spectaculoase în acest sezon.",
+                "en": "Watch the winter surfers from the warm driver's seat; the surf is often at its highest and most spectacular at this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Crantock Beach",
+                "hu": "Crantock Strand",
+                "ro": "Plaja Crantock",
+                "en": "Crantock Beach"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:45 Uhr für den Sonnenuntergang hier; genießen Sie das Farbspiel über den Dünen, bevor es um 17:00 Uhr dunkel wird.",
+                "hu": "Legyen itt 16:45 körül a naplementére; élvezze a dűnék feletti színeket, mielőtt 17:00-kor hirtelen leszáll az éj.",
+                "ro": "Fiți aici în jurul orei 16:45 pentru apus; bucurați-vă de culorile peste dune înainte ca noaptea să cadă brusc la 17:00.",
+                "en": "Be here around 16:45 for the sunset; enjoy the colors over the dunes before night suddenly falls at 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

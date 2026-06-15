@@ -137,6 +137,168 @@
         "hu": "A reggel a Consolação kápolna spirituális nyugalmával indul. Délben az ikonikus Cristo Rei és a drámai Garajau sziklák várják. A délutánt a parti természetvédelmi terület felfedezésével töltheti. Az este egy békés túrával zárul a Figueirinhas vidékén.",
         "ro": "Dimineața începe cu liniște spirituală la capela Consolação. Prânzul vă aduce la stâncile spectaculoase Garajau și Cristo Rei. După-amiaza este petrecută explorând rezervația naturală. Seara se încheie cu o drumeție pașnică prin Figueirinhas.",
         "en": "Morning starts with spiritual serenity at the Consolação chapel. Midday brings you to the iconic Cristo Rei and dramatic Garajau cliffs. Afternoon is spent exploring the coastal Tern Nature Reserve. Evening concludes with a tranquil hike through Figueirinhas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen in Caniço, wir starten geschützt in der Kapelle. Mittags geht es zum Garajau, Vorsicht auf den rutschigen Stufen an den Klippen. Nachmittags ist das Reservat üppig grün, aber die Wege können matschig sein. Abends frischt der Wind an der Küste auf, wasserfeste Kleidung ist ein Muss.",
+            "hu": "Esős reggel Caniçóban, a kápolnánál kezdünk menedéket keresve. Délben a Garajau szikláihoz megyünk, vigyázzunk a csúszós lépcsőkön. Délután a rezervátum buja zöld, de az utak sarasak lehetnek. Estére a szél felerősödhet a parton, mindenképpen viseljünk réteges, vízálló öltözetet.",
+            "ro": "Dimineață ploioasă în Caniço, începem adăpostiți în capelă. La prânz mergem la Garajau, atenție la treptele alunecoase de pe faleză. După-amiaza rezervația este luxuriantă, dar potecile pot fi noroioase. Seara vântul se întețește pe coastă, îmbrăcămintea impermeabilă este obligatorie.",
+            "en": "A rainy morning in Caniço starts with shelter at the chapel. At noon, head to Garajau, but watch your step on slippery cliff paths. In the afternoon, the reserve is lush and green, though trails may be muddy. By evening, coastal winds pick up; waterproof layers are essential for comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora da Consolação",
+                "hu": "Capela de Nossa Senhora da Consolação",
+                "ro": "Capela de Nossa Senhora da Consolação",
+                "en": "Capela de Nossa Senhora da Consolação"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie das ruhige Innere, um dem Regen zu entkommen; die historische Atmosphäre wird durch das Prasseln der Tropfen verstärkt. Ein fester Schirm ist ratsam.",
+                "hu": "Látogasson el a csendes belső térbe az eső elől; a történelmi hangulatot fokozza a tetőn kopogó eső hangja. Vigyen magával egy erős esernyőt a sétához.",
+                "ro": "Vizitați interiorul liniștit pentru a scăpa de ploaie; atmosfera istorică este sporită de sunetul picăturilor pe acoperiș. Aduceți o umbrelă rezistentă.",
+                "en": "Visit the quiet interior to escape the rain; the historic atmosphere is enhanced by the sound of raindrops on the roof. Bring a sturdy umbrella for the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Cristo Rei",
+                "hu": "Cristo Rei",
+                "ro": "Cristo Rei",
+                "en": "Cristo Rei"
+              },
+              "tip_4lang": {
+                "de": "Die Statue wirkt im Nebel mystisch, aber der gepflasterte Weg kann bei Nässe sehr rutschig sein. Tragen Sie Schuhe mit gutem Profil für sicheren Halt.",
+                "hu": "A szobor misztikusnak tűnik a ködben, de a kövezett út nedvesen nagyon csúszós lehet. Viseljen bordázott talpú cipőt a biztonságos közlekedés érdekében.",
+                "ro": "Statuia pare mistică în ceață, dar drumul pavat poate fi foarte alunecos când este ud. Purtați încălțăminte cu aderență bună pentru siguranță.",
+                "en": "The statue looks mystical in the mist, but the paved path can be very slippery when wet. Wear shoes with good grip to ensure a safe walk to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponta do Garajau",
+                "hu": "Ponta do Garajau",
+                "ro": "Ponta do Garajau",
+                "en": "Ponta do Garajau"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das wilde Meer von den Klippen aus; halten Sie jedoch wegen böiger Winde Abstand zur Kante. Eine winddichte Regenjacke schützt Sie ideal.",
+                "hu": "Figyelje a vad tengert a sziklákról, de a széllökések miatt tartson biztonságos távolságot a peremtől. Egy szélálló esőkabát ideális védelmet nyújt.",
+                "ro": "Observați marea agitată de pe stânci, dar păstrați distanța față de margine din cauza rafalelor de vânt. O jachetă impermeabilă vă va proteja ideal.",
+                "en": "Watch the wild ocean from the cliffs, but keep a safe distance from the edge due to gusty winds. A windproof rain jacket will provide the best protection here."
+              }
+            },
+            {
+              "name": {
+                "de": "Tern Partial Nature Reserve",
+                "hu": "Tern Partial Nature Reserve",
+                "ro": "Tern Partial Nature Reserve",
+                "en": "Tern Partial Nature Reserve"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den frischen Duft der feuchten Erde und die intensive Farbe der Farne; wasserfeste Wanderschuhe verhindern nasse Füße auf den Erdwegen.",
+                "hu": "Élvezze a nedves föld friss illatát és a páfrányok intenzív színét; a vízálló túrabakancs megakadályozza a lábak átázását a földutakon.",
+                "ro": "Bucurați-vă de mirosul proaspăt al pământului umed și de culoarea intensă a ferigilor; bocancii impermeabili vor preveni picioarele ude pe poteci.",
+                "en": "Enjoy the fresh scent of damp earth and the intense green of the ferns; waterproof hiking boots are essential to prevent wet feet on the dirt paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Figueirinhas",
+                "hu": "Figueirinhas",
+                "ro": "Figueirinhas",
+                "en": "Figueirinhas"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie den Spaziergang in den ruhigen Gassen; die vielen Gärten blühen nach dem Regen auf. Halten Sie Ihren Schirm für plötzliche Schauer griffbereit.",
+                "hu": "Fejezze be a sétát a csendes utcákon; a kertek virágai valósággal felélednek az eső után. Tartsa készenlétben esernyőjét a hirtelen záporok miatt.",
+                "ro": "Încheiați plimbarea pe străzile liniștite; florile din grădini par să prindă viață după ploaie. Aveți umbrela la îndemână pentru averse bruște.",
+                "en": "Finish your walk through the quiet streets; the garden flowers truly come alive after the rain. Keep your umbrella ready for any sudden afternoon showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Wintermorgen, ideal für einen frühen Start vor dem Sonnenuntergang um 17:00 Uhr. Mittags genießen wir die milde Sonne an der Küste mit klarer Sicht. Nachmittags erkunden wir das Reservat in der kühlen Brise. Abends, wenn die Temperaturen sinken, suchen wir die Wärme im Dorfzentrum.",
+            "hu": "Friss téli reggel, érdemes korán indulni a 17:00-ás naplemente előtt. Délben élvezzük a lágy napsütést a parton a tiszta látvány mellett. Délután a rezervátumot hűvös szellőben fedezzük fel. Este, ahogy csökken a hőmérséklet, keressük a falu központjának melegét.",
+            "ro": "Dimineață răcoroasă de iarnă, ideală pentru un început devreme înainte de apusul de la ora 17:00. La prânz ne bucurăm de soarele blând pe coastă. După-amiaza explorăm rezervația în briza răcoroasă. Seara, când temperaturile scad, căutăm căldura satului.",
+            "en": "A crisp winter morning is perfect for an early start before the 17:00 sunset. At noon, enjoy the mild sun and clear Atlantic views on the coast. Explore the reserve in the cool afternoon breeze. As temperatures drop in the evening, retreat to the warmth of the village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora da Consolação",
+                "hu": "Capela de Nossa Senhora da Consolação",
+                "ro": "Capela de Nossa Senhora da Consolação",
+                "en": "Capela de Nossa Senhora da Consolação"
+              },
+              "tip_4lang": {
+                "de": "Beginnen Sie hier in der kühlen Morgenluft; die Kapelle bietet einen friedlichen Start. Tragen Sie einen leichten Schal gegen den Wind an der Küste.",
+                "hu": "Kezdje itt a sétát a hűvös reggeli levegőben; a kápolna békés kezdést nyújt. Viseljen könnyű sálat a tengerparti szél elleni védekezésül.",
+                "ro": "Începeți aici în aerul răcoros al dimineții; capela oferă un start liniștit. Purtați o eșarfă ușoară împotriva vântului de pe coastă.",
+                "en": "Start your walk here in the cool morning air; the chapel offers a peaceful beginning. Wear a light scarf to stay comfortable against the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Cristo Rei",
+                "hu": "Cristo Rei",
+                "ro": "Cristo Rei",
+                "en": "Cristo Rei"
+              },
+              "tip_4lang": {
+                "de": "Das Winterlicht sorgt für perfekte Fotoklarheit über den Ozean; der Wind kann hier oben jedoch beißend sein. Eine windfeste Schicht ist sehr zu empfehlen.",
+                "hu": "A téli fény tökéletes tisztaságot ad az óceáni fotókhoz; a szél azonban itt fent csípős lehet. Egy szélálló réteg viselete erősen ajánlott.",
+                "ro": "Lumina de iarnă oferă o claritate perfectă pentru fotografii; totuși, vântul poate fi tăios aici sus. Se recomandă o jachetă rezistentă la vânt.",
+                "en": "The winter light provides perfect clarity for ocean photos, but the wind can be biting up here. A windproof outer layer is highly recommended for this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponta do Garajau",
+                "hu": "Ponta do Garajau",
+                "ro": "Ponta do Garajau",
+                "en": "Ponta do Garajau"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie das Panorama ohne die Sommerhitze; die tiefstehende Wintersonne blendet, bringen Sie also eine Sonnenbrille für die Aussichtspunkte mit.",
+                "hu": "Élvezze a panorámát a nyári hőség nélkül; az alacsony téli nap elvakíthat, ezért vigyen napszemüveget a kilátópontokhoz.",
+                "ro": "Bucurați-vă de panoramă fără căldura verii; soarele jos de iarnă poate fi orbitor, așa că aduceți ochelari de soare pentru punctele de observație.",
+                "en": "Enjoy the panorama without the summer heat; the low winter sun can be dazzling, so bring sunglasses for the viewpoints to appreciate the scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Tern Partial Nature Reserve",
+                "hu": "Tern Partial Nature Reserve",
+                "ro": "Tern Partial Nature Reserve",
+                "en": "Tern Partial Nature Reserve"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie die lokale Flora im Winterzustand; beenden Sie Ihren Besuch vor 16:30 Uhr, um nicht im Dunkeln zurückwandern zu müssen.",
+                "hu": "Figyelje meg a helyi flórát téli állapotában; fejezze be a látogatást 16:30 előtt, hogy ne kelljen sötétben visszamennie a városba.",
+                "ro": "Observați flora locală în starea ei de iarnă; finalizați vizita înainte de ora 16:30 pentru a nu fi nevoiți să vă întoarceți pe întuneric.",
+                "en": "Observe the local flora in its winter state; finish your visit before 16:30 to avoid hiking back in the dark after the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Figueirinhas",
+                "hu": "Figueirinhas",
+                "ro": "Figueirinhas",
+                "en": "Figueirinhas"
+              },
+              "tip_4lang": {
+                "de": "Ein ruhiger Spaziergang im schwindenden Abendlicht; die Temperaturen fallen nach 17:00 Uhr schnell, halten Sie eine warme Jacke für den Rückweg bereit.",
+                "hu": "Csendes séta a halványuló esti fényben; a hőmérséklet 17:00 után gyorsan esik, tartson készenlétben egy meleg kabátot a visszaútra.",
+                "ro": "O plimbare liniștită în lumina serii; temperaturile scad rapid după ora 17:00, deci aveți pregătită o jachetă groasă pentru drumul de întoarcere.",
+                "en": "A calm stroll in the fading evening light; temperatures drop quickly after 17:00, so have a warm jacket ready for the final stretch of your walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggelt a QART Galéria kortárs műalkotásainak befogadásával kezdi. Délben a Lido Galomar napos teraszai és a Cristo Rei következnek. A délután a Pináculo lenyűgöző kilátópontjához vezet. Az estét a történelmi partvédelmi üteg felfedezése zárja.",
         "ro": "Dimineața începe admirând arta contemporană la Galeria QART. Prânzul se mută pe terasele Lido Galomar și priveliștile de la Cristo Rei. După-amiaza urcă spre panoramele de la Pináculo. Seara se termină explorând bateria istorică de coastă.",
         "en": "Your morning begins absorbing contemporary pieces at the QART Gallery. Midday shifts to the sunny terraces of Lido Galomar and views at Cristo Rei. Afternoon winds up towards the sweeping vistas of Pináculo. Evening finishes tracing historical defenses at the coast battery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Tour, wir starten in der Galerie, um trocken zu bleiben. Mittags geht es zum Lido, die Straßen sind glatt, also bremsen Sie vorsichtig. Nachmittags besuchen wir das Dragoeiros-Zentrum unter Dach. Abends an der Bateria wirkt der Atlantik durch den Regennebel wild und stimmungsvoll.",
+            "hu": "Esős túra, a galériában kezdünk, hogy szárazon maradjunk. Délben a Lido felé az utak csúszósak, óvatosan fékezzünk a kanyarokban. Délután a Dragoeiros központot fedett helyen nézzük meg. Este a Bateria-nál az óceán vadnak és hangulatosnak tűnik az esőfüggönyön keresztül.",
+            "ro": "Tur ploios, începem la galerie pentru a rămâne uscați. La prânz spre Lido, drumurile sunt alunecoase, deci frânați cu grijă în curbe. După-amiaza vizităm centrul Dragoeiros sub acoperiș. Seara la Bateria, oceanul pare sălbatic și atmosferic prin ceața ploii.",
+            "en": "A rainy bike tour starts at the gallery to stay dry. At noon, roads to the Lido are slick, so check your brakes and take corners slowly. Spend the afternoon under cover at the Dragoeiros center. In the evening, the Atlantic looks wild and moody through the misty rain at the battery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "QART Gallery Gerald Bretterbauer",
+                "hu": "QART Gallery Gerald Bretterbauer",
+                "ro": "QART Gallery Gerald Bretterbauer",
+                "en": "QART Gallery Gerald Bretterbauer"
+              },
+              "tip_4lang": {
+                "de": "Der ideale Zufluchtsort bei Regen; bewundern Sie lokale Kunst, während Sie auf eine Regenpause warten. Parken Sie Ihr Rad unter dem Vordach.",
+                "hu": "Ideális menedék eső esetén; csodálja meg a helyi művészetet, miközben várja a zápor végét. Parkolja le kerékpárját az előtető alatt.",
+                "ro": "Refugiul ideal în caz de ploaie; admirați arta locală în timp ce așteptați oprirea aversei. Parcați bicicleta sub copertina de la intrare.",
+                "en": "The ideal indoor refuge during rain; admire local art while waiting for the showers to pass. Park your bike under the overhang to keep the seat dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Galomar",
+                "hu": "Lido Galomar",
+                "ro": "Lido Galomar",
+                "en": "Lido Galomar"
+              },
+              "tip_4lang": {
+                "de": "Das Meer ist heute aufgewühlt; bleiben Sie auf den gepflasterten oberen Wegen und meiden Sie tiefe Pfützen, um nicht nassgespritzt zu werden.",
+                "hu": "A tenger ma nyugtalan; maradjon a burkolt felső utakon, és kerülje a mély tócsákat, hogy ne fröccsenjen fel a víz tekerés közben.",
+                "ro": "Marea este agitată astăzi; rămâneți pe potecile pavate de sus și evitați bălțile adânci pentru a nu vă uda în timpul mersului pe bicicletă.",
+                "en": "The sea is powerful today; stay on the paved upper paths and avoid deep puddles to prevent getting splashed while cycling along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Cristo Rei",
+                "hu": "Cristo Rei",
+                "ro": "Cristo Rei",
+                "en": "Cristo Rei"
+              },
+              "tip_4lang": {
+                "de": "Die Statue steht stolz im Nebel; halten Sie den Lenker auf dem nassen Gefälle fest umschlossen. Prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "A szobor büszkén áll a ködben; markolja meg erősen a kormányt a nedves lejtőn. Indulás előtt ellenőrizze a fékek állapotát.",
+                "ro": "Statuia stă mândră în ceață; strângeți bine ghidonul pe panta umedă. Verificați starea frânelor înainte de a începe coborârea.",
+                "en": "The statue stands tall in the mist; maintain a firm grip on your handlebars on the wet slope. Check your brake pads before descending to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Pináculo",
+                "hu": "Pináculo",
+                "ro": "Pináculo",
+                "en": "Pináculo"
+              },
+              "tip_4lang": {
+                "de": "Dramatisches Meerespanorama bei grauem Himmel; halten Sie Ihr Regenkap gegen den böigen Wind bereit, der hier oft von der See her weht.",
+                "hu": "Drámai tengeri panoráma szürke égbolt mellett; tartsa készenlétben esőköpenyét a gyakori széllökések ellen, amelyek itt a tenger felől érkeznek.",
+                "ro": "Panoramă marină dramatică sub cerul gri; aveți pelerina de ploaie pregătită împotriva rafalelor de vânt care bat adesea dinspre mare.",
+                "en": "A dramatic ocean panorama under grey skies; keep your rain cape ready for the gusty winds that often sweep in from the sea at this exposed spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Núcleo dos Dragoeiros das Neves",
+                "hu": "Centro Núcleo dos Dragoeiros das Neves",
+                "ro": "Centro Núcleo dos Dragoeiros das Neves",
+                "en": "Centro Núcleo dos Dragoeiros das Neves"
+              },
+              "tip_4lang": {
+                "de": "Überdachte Ausstellungen erklären die Flora; nutzen Sie die Zeit für eine Pause im Trockenen. Die Drachenbäume wirken im Regen besonders urzeitlich.",
+                "hu": "Fedett kiállítások mutatják be a flórát; használja ki az időt egy száraz pihenőre. A sárkányfák esőben különösen ősi hangulatot árasztanak.",
+                "ro": "Expozițiile acoperite explică flora; folosiți timpul pentru o pauză la uscat. Arborii dragon par deosebit de arhaici sub ploaie.",
+                "en": "Indoor exhibits explain the local flora; use this time for a dry break. The dragon trees look particularly ancient and atmospheric in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bateria de Costa",
+                "hu": "Bateria de Costa",
+                "ro": "Bateria de Costa",
+                "en": "Bateria de Costa"
+              },
+              "tip_4lang": {
+                "de": "Historische Ruinen mit düsterer Atmosphäre; schieben Sie Ihr Rad auf den rutschigsten Steinabschnitten nahe der Kante, um Stürze zu vermeiden.",
+                "hu": "Történelmi romok borongós hangulattal; a legcsúszósabb köves részeken a perem közelében inkább tolja a kerékpárt az esés elkerülése végett.",
+                "ro": "Ruine istorice cu o atmosferă sumbră; pe porțiunile de piatră cele mai alunecoase de lângă margine, mai bine împingeți bicicleta pentru siguranță.",
+                "en": "Historic ruins with a moody atmosphere; walk your bike on the most slippery stone sections near the edge to avoid any falls on the wet surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Start in der Galerie, bevor es in die kühle Brise geht. Mittags radeln wir die Küste entlang, Handschuhe sind für die Abfahrten ratsam. Nachmittags erkunden wir das botanische Zentrum im weichen Winterlicht. Abends erreichen wir die Bateria rechtzeitig für den frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Friss kezdés a galériában, mielőtt a hűvös szélbe tekernénk. Délben a part mentén haladunk, a lejtőkön ajánlott a kesztyű viselete. Délután a botanikai központot fedezzük fel lágy téli fényben. Este a Bateriát még a korai, 17:00-ás naplemente előtt elérjük.",
+            "ro": "Start revigorant la galerie înainte de a pedala în briza răcoroasă. La prânz mergem pe coastă, mănușile sunt recomandate pentru coborâri. După-amiaza explorăm centrul botanic în lumina blândă. Seara ajungem la Bateria înainte de apusul de la 17:00.",
+            "en": "A crisp start at the gallery before heading into the cool breeze. Ride along the coast at noon; gloves are recommended for the chilly descents. Explore the botanical center in soft winter light. Reach the battery by evening for the beautiful 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "QART Gallery Gerald Bretterbauer",
+                "hu": "QART Gallery Gerald Bretterbauer",
+                "ro": "QART Gallery Gerald Bretterbauer",
+                "en": "QART Gallery Gerald Bretterbauer"
+              },
+              "tip_4lang": {
+                "de": "Beginnen Sie Ihre Tour mit etwas Kultur in warmer Umgebung, bevor Sie in die kühle Winterluft aufbrechen. Ein warmes Getränk bereitet Sie ideal vor.",
+                "hu": "Kezdje a túrát egy kis kultúrával meleg környezetben, mielőtt a hűvös téli levegőre indulna. Egy meleg ital tökéletesen felkészíti a tekerésre.",
+                "ro": "Începeți turul cu puțină cultură într-un mediu cald înainte de a ieși în aerul răcoros. O băutură caldă vă va pregăti ideal pentru drum.",
+                "en": "Start your tour with some culture in a warm environment before heading out into the cool winter air. A warm drink here is a great way to prepare."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Galomar",
+                "hu": "Lido Galomar",
+                "ro": "Lido Galomar",
+                "en": "Lido Galomar"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Aussicht in der frischen Luft; eine windfeste Jacke ist für diesen Küstenabschnitt unerlässlich, da der Wind im Winter kühler weht.",
+                "hu": "Élvezze a kilátást a friss levegőn; egy szélálló dzseki elengedhetetlen ezen a tengerparti szakaszon, mivel télen hűvösebb a szél.",
+                "ro": "Bucurați-vă de priveliște în aerul proaspăt; o jachetă rezistentă la vânt este esențială pe acest segment, deoarece vântul este mai rece iarna.",
+                "en": "Enjoy the views in the fresh air; a windproof jacket is essential for this coastal stretch, as the winter breeze can feel quite chilly while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Cristo Rei",
+                "hu": "Cristo Rei",
+                "ro": "Cristo Rei",
+                "en": "Cristo Rei"
+              },
+              "tip_4lang": {
+                "de": "Hervorragende Sicht über die Bucht; die Wintersonne steht tief, tragen Sie also eine Sonnenbrille gegen die Blendung auf dem Weg nach unten.",
+                "hu": "Kiváló kilátás a öbölre; a téli nap alacsonyan jár, ezért viseljen napszemüveget a vakítás ellen a lejtőn lefelé menet.",
+                "ro": "Vizibilitate excelentă peste golf; soarele de iarnă este jos, așa că purtați ochelari de soare împotriva orbirii pe drumul de coborâre.",
+                "en": "Excellent visibility across the bay; the winter sun is low, so wear sunglasses against the glare as you cycle down to the statue's viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Pináculo",
+                "hu": "Pináculo",
+                "ro": "Pináculo",
+                "en": "Pináculo"
+              },
+              "tip_4lang": {
+                "de": "Perfekter Ort für eine kurze Pause; die Luft ist knackig, also bleiben Sie in Bewegung, um Ihre Körperwärme während des Halts zu halten.",
+                "hu": "Tökéletes hely egy rövid pihenőre; a levegő friss, ezért maradjon mozgásban a megálló alatt is, hogy megőrizze teste melegét.",
+                "ro": "Loc perfect pentru o scurtă pauză; aerul este revigorant, deci rămâneți în mișcare chiar și în timpul popasului pentru a vă menține căldura.",
+                "en": "A perfect spot for a quick break; the air is crisp, so keep moving during your stop to maintain your body heat in the cool winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Núcleo dos Dragoeiros das Neves",
+                "hu": "Centro Núcleo dos Dragoeiros das Neves",
+                "ro": "Centro Núcleo dos Dragoeiros das Neves",
+                "en": "Centro Núcleo dos Dragoeiros das Neves"
+              },
+              "tip_4lang": {
+                "de": "Lernen Sie mehr über Madeiras Natur; beenden Sie Ihren Besuch frühzeitig, um Fahrten im Dunkeln nach 17:00 Uhr zu vermeiden.",
+                "hu": "Ismerje meg Madeira természetét; fejezze be korán a látogatást, hogy elkerülje a sötétben való tekerést a 17:00-ás naplemente után.",
+                "ro": "Aflați mai multe despre natura Madeirei; finalizați vizita devreme pentru a evita pedalatul pe întuneric după apusul de la ora 17:00.",
+                "en": "Learn more about Madeira's nature; finish your visit early to avoid riding in the dark after the 17:00 sunset. Plan your route carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Bateria de Costa",
+                "hu": "Bateria de Costa",
+                "ro": "Bateria de Costa",
+                "en": "Bateria de Costa"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie Ihre Tour mit dem Sonnenuntergang; die goldene Stunde beginnt im Winter früh, gegen 16:30 Uhr, was für tolles Licht sorgt.",
+                "hu": "Zárja a túrát a naplementével; az aranyóra télen korán, 16:30 körül kezdődik, ami csodás fényeket varázsol a történelmi romokra.",
+                "ro": "Încheiați turul cu apusul; ora de aur începe devreme iarna, în jurul orei 16:30, oferind o lumină superbă peste ruinele istorice.",
+                "en": "End your tour with the sunset; the golden hour starts early in winter, around 16:30, offering beautiful light over the historic ruins."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "A reggel friss szellővel érkezik a Reis Magos kavicsos partján. Délben a Ponta do Garajau lenyűgöző tengerparti sziklái következnek. A délután a Cabeço das Eiras zöldellő lejtőire vezet. Az este a Neves kápolna történelmi bájával ér véget.",
         "ro": "Dimineața sosește cu o briză răcoroasă pe țărmul cu pietriș de la Reis Magos. Prânzul prezintă stâncile abrupte de la Ponta do Garajau. Ascensiunea de după-amiază duce spre pantele înverzite ale Cabeço das Eiras. Seara se încheie la capela Neves.",
         "en": "Morning arrives with a refreshing breeze at the pebble shores of Reis Magos. Midday features stunning ocean drop-offs at Ponta do Garajau. Afternoon ascents bring you to the verdant slopes of Cabeço das Eiras. Evening concludes with historical charm at the Neves chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt nach Reis Magos, beobachten Sie die Wellen vom warmen Auto aus. Mittags verleiht der Nebel der Christusstatue eine mystische Note. Nachmittags geht es zu den Aussichtspunkten, die Straßen in den Bergen können rutschig sein, fahren Sie vorsichtig. Abends in der Kapelle wirkt der Regen auf dem alten Stein friedlich.",
+            "hu": "Esős autózás Reis Magos felé, figyelje a hullámokat a meleg autóból. Délben a köd misztikus hangulatot kölcsönöz a Krisztus-szobornak. Délután a kilátópontokhoz megyünk, a hegyi utak csúszósak lehetnek, vezessen óvatosan. Este a kápolnánál az eső kopogása a köveken békés hangulatot áraszt.",
+            "ro": "Drum ploios spre Reis Magos, observați valurile din mașina caldă. La prânz, ceața oferă o notă mistică statuii lui Cristos. După-amiaza mergem la punctele de belvedere, drumurile montane pot fi alunecoase, conduceți cu prudență. Seara la capelă, ploaia pe piatra veche creează o liniște aparte.",
+            "en": "A rainy drive to Reis Magos; watch the waves from the comfort of your car. At noon, the mist adds a mystical layer to the Christ statue. Head to the viewpoints in the afternoon, but drive cautiously as mountain roads may be slick. By evening, the rain on the chapel's stones creates a peaceful atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Reis Magos",
+                "hu": "Reis Magos",
+                "ro": "Reis Magos",
+                "en": "Reis Magos"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie die Kraft des Atlantiks vom Ufer aus; bei starkem Regen bieten die Cafés in der Nähe tolle geschützte Ausblicke auf die Brandung.",
+                "hu": "Figyelje az Atlanti-óceán erejét a partról; ha esik, a közeli kávézók remek fedett kilátást nyújtanak a hullámverésre.",
+                "ro": "Observați forța Atlanticului de pe țărm; dacă plouă, cafenelele din apropiere oferă vederi superbe adăpostite spre valurile care se sparg.",
+                "en": "Watch the Atlantic's power from the shore; if it pours, the nearby cafes offer great sheltered views of the crashing waves while you stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponta do Garajau",
+                "hu": "Ponta do Garajau",
+                "ro": "Ponta do Garajau",
+                "en": "Ponta do Garajau"
+              },
+              "tip_4lang": {
+                "de": "Die Klippen wirken im Regen dramatisch; halten Sie Ihren Schirm wegen plötzlicher Küstenböen gut fest, wenn Sie das Auto für Fotos verlassen.",
+                "hu": "A sziklák drámaiak az esőben; tartsa erősen az esernyőjét a hirtelen tengerparti széllökések miatt, ha kiszáll az autóból fotózni.",
+                "ro": "Stâncile par dramatice în ploaie; țineți bine umbrela din cauza rafalelor de vânt de pe coastă când coborâți din mașină pentru fotografii.",
+                "en": "The cliffs look dramatic in the rain; keep your umbrella firmly held against sudden coastal gusts when stepping out of the car for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabeço das Eiras",
+                "hu": "Cabeço das Eiras",
+                "ro": "Cabeço das Eiras",
+                "en": "Cabeço das Eiras"
+              },
+              "tip_4lang": {
+                "de": "Saftig grüne Hügel, die vom Regen erfrischt werden; die Straße hinauf kann rutschig sein, nutzen Sie daher bergab einen niedrigen Gang zur Motorbremsung.",
+                "hu": "Üde zöld dombok, melyeket felfrissít az eső; a felfelé vezető út csúszós lehet, lefelé menet pedig használjon alacsony sebességfokozatot.",
+                "ro": "Dealuri verzi luxuriante împrospătate de ploaie; drumul spre vârf poate fi alunecos, așa că folosiți o treaptă inferioară de viteză la coborâre.",
+                "en": "Lush green hills refreshed by the rain; the road up can be slippery, so use lower gears and drive with extra caution on the winding ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Neves",
+                "hu": "Neves",
+                "ro": "Neves",
+                "en": "Neves"
+              },
+              "tip_4lang": {
+                "de": "Mystische Bergaussichten, die sich wie ein Traum anfühlen; die Wolken hängen hier oft tief und schaffen eine einzigartige Atmosphäre für Autofahrer.",
+                "hu": "Misztikus hegyi kilátás, amely álomszerűnek tűnik; a felhők itt gyakran alacsonyan szállnak, egyedülálló hangulatot teremtve az autózáshoz.",
+                "ro": "Vederi montane mistice care par desprinse din vis; norii stau adesea jos aici, creând o atmosferă unică pentru cei care conduc prin zonă.",
+                "en": "Misty mountain views that feel like a dream; the clouds often hang low here, creating a unique and moody atmosphere for a scenic rainy drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora das Neves",
+                "hu": "Capela de Nossa Senhora das Neves",
+                "ro": "Capela de Nossa Senhora das Neves",
+                "en": "Capela de Nossa Senhora das Neves"
+              },
+              "tip_4lang": {
+                "de": "Ein friedlicher Ausklang des Tages; das Innere ist ein trockener Zufluchtsort vor dem anhaltenden Nieselregen Madeiras. Genießen Sie die Stille.",
+                "hu": "A nap békés lezárása; a belső tér száraz menedéket nyújt a folyamatos madeirai szitálás elől. Élvezze a hely csendjét és nyugalmát.",
+                "ro": "Un final de zi liniștit; interiorul este un refugiu uscat împotriva burniței persistente din Madeira. Bucurați-vă de tăcerea și pacea capelei.",
+                "en": "A serene end to the day; the interior is a dry sanctuary from the persistent Madeiran drizzle. Take a moment to enjoy the quiet and historic peace."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühler, aber sonniger Start am Strand, das Winterlicht lässt das Wasser kristallklar erscheinen. Mittags genießen wir die scharfe Sicht auf Funchal. Nachmittags fahren wir zu den Berggipfeln, wo die Temperaturen mit der Sonne schnell sinken. Abends besuchen wir die Kapelle vor dem Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Hűvös, de napos kezdés a tengerparton, a téli fényben a víz kristálytisztának tűnik. Délben élvezzük a Funchalra nyíló éles kilátást. Délután a hegycsúcsok felé autózunk, ahol a hőmérséklet a nappal együtt gyorsan esik. Este a kápolnát még a 17:00-ás naplemente előtt nézzük meg.",
+            "ro": "Start răcoros dar însorit la plajă, lumina de iarnă face apa să pară de cristal. La prânz ne bucurăm de vederea clară spre Funchal. După-amiaza urcăm spre vârfuri, unde temperaturile scad rapid. Seara vizităm capela înainte de apusul de la ora 17:00.",
+            "en": "A cool but sunny start at the beach; the winter light makes the water look crystal clear. Enjoy sharp views of Funchal at noon. In the afternoon, drive to the peaks where temperatures drop quickly. Visit the chapel by evening before the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Reis Magos",
+                "hu": "Reis Magos",
+                "ro": "Reis Magos",
+                "en": "Reis Magos"
+              },
+              "tip_4lang": {
+                "de": "Ein erfrischender Spaziergang am Kiesstrand; die Winterluft ist sauber und das Meer oft sehr ruhig. Bringen Sie eine Jacke für die frische Brise mit.",
+                "hu": "Frissítő séta a kavicsos strandon; a téli levegő tiszta, a tenger pedig gyakran nagyon nyugodt. Vigyen kabátot a hűvös tengerparti szél miatt.",
+                "ro": "O plimbare revigorantă pe plaja cu pietriș; aerul de iarnă este curat, iar marea este adesea foarte calmă. Purtați o jachetă pentru briza răcoroasă.",
+                "en": "A refreshing walk on the pebble beach; the winter air is clean and the sea is often very calm. Bring a light jacket for the fresh coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponta do Garajau",
+                "hu": "Ponta do Garajau",
+                "ro": "Ponta do Garajau",
+                "en": "Ponta do Garajau"
+              },
+              "tip_4lang": {
+                "de": "Spektakuläre Sicht bis zu den Desertas-Inseln; tragen Sie eine warme Mütze gegen den Wind auf den Klippen, der im Winter recht kühl sein kann.",
+                "hu": "Látványos kilátás egészen a Desertas-szigetekig; viseljen meleg sapkát a sziklákon fújó szél ellen, amely télen meglehetősen hűvös lehet.",
+                "ro": "Vizibilitate spectaculoasă până la Insulele Desertas; purtați o căciulă caldă împotriva vântului de pe stânci, care poate fi destul de rece iarna.",
+                "en": "Spectacular visibility all the way to the Desertas Islands; wear a warm hat against the cliff-top wind, which can be quite chilly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabeço das Eiras",
+                "hu": "Cabeço das Eiras",
+                "ro": "Cabeço das Eiras",
+                "en": "Cabeço das Eiras"
+              },
+              "tip_4lang": {
+                "de": "Knackige Bergluft und Panorama; die tiefstehende Wintersonne hebt die Texturen der Landschaft wunderschön hervor. Ideal für Landschaftsfotografie.",
+                "hu": "Friss hegyi levegő és panoráma; az alacsonyan járó téli nap gyönyörűen kiemeli a táj textúráit. Tökéletes helyszín a tájfotózáshoz.",
+                "ro": "Aer montan revigorant și panoramă; soarele jos de iarnă evidențiază superb texturile peisajului. Este un loc ideal pentru fotografia de peisaj.",
+                "en": "Crisp mountain air and panoramic views; the low winter sun highlights the textures of the landscape beautifully. A great spot for winter photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Neves",
+                "hu": "Neves",
+                "ro": "Neves",
+                "en": "Neves"
+              },
+              "tip_4lang": {
+                "de": "Perfekter Ort für Nachmittagsfotos; kommen Sie unbedingt vor 16:30 Uhr an, um das beste Licht vor dem frühen Sonnenuntergang einzufangen.",
+                "hu": "Tökéletes hely a délutáni fotózáshoz; mindenképpen érkezzen meg 16:30 előtt, hogy elkapja a legjobb fényeket a korai naplemente előtt.",
+                "ro": "Loc perfect pentru fotografii de după-amiază; asigurați-vă că ajungeți înainte de 16:30 pentru a surprinde cea mai bună lumină înainte de apus.",
+                "en": "A perfect spot for afternoon photography; be sure to arrive before 16:30 to catch the best golden light before the early winter sunset begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de Nossa Senhora das Neves",
+                "hu": "Capela de Nossa Senhora das Neves",
+                "ro": "Capela de Nossa Senhora das Neves",
+                "en": "Capela de Nossa Senhora das Neves"
+              },
+              "tip_4lang": {
+                "de": "Die Steinkapelle leuchtet im Abendlicht; bringen Sie eine Jacke mit, da die Temperaturen nach 17:00 Uhr in dieser Höhe spürbar sinken.",
+                "hu": "A kőkápolna ragyog az esti fényben; vigyen magával kabátot, mivel a hőmérséklet 17:00 után ebben a magasságban érezhetően visszaesik.",
+                "ro": "Capela de piatră strălucește în lumina serii; aduceți o jachetă, deoarece temperaturile scad considerabil la această altitudine după ora 17:00.",
+                "en": "The stone chapel glows in the evening light; bring a warm jacket as the temperature falls quickly at this altitude after the 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

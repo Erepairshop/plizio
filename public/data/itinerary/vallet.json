@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Vallet szívében, ahol a lenyűgöző építészet és a hangulatos utcák békés alaphangot adnak.\n\nDélben merüljön el a gazdag helyi borászati örökségben a lenyűgöző interaktív kiállítások révén.\n\nA délután arra invitálja, hogy felfedezze a város pezsgő művészeti és kulturális lelkét.\n\nZárja az estét fenséges történelmi birtokok látogatásával, amelyek hűen megőrizték a régmúltat.",
         "ro": "Începeți dimineața în inima orașului Vallet, unde arhitectura impresionantă și străzile fermecătoare creează pace.\n\nLa prânz, cufundați-vă în bogata moștenire viticolă locală explorând expoziții istorice fascinante.\n\nDupă-amiaza vă invită să descoperiți sufletul artistic și cultural vibrant al acestui oraș minunat.\n\nÎncheiați seara vizitând moșii istorice maiestuoase care reflectă perfect trecutul.",
         "en": "Start your morning in the heart of Vallet, where grand architecture and charming streets set a peaceful tone.\n\nAs midday approaches, immerse yourself in the rich local wine heritage by exploring fascinating exhibits.\n\nThe afternoon invites you to discover the vibrant artistic and cultural soul of the city.\n\nConclude your evening by visiting majestic historical estates that beautifully echo the past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt geschützt in der Kirche. Mittags bietet das Weinmuseum eine perfekte, trockene Zuflucht. Der Nachmittag wird bei kulturellen Besuchen drinnen verbracht. Abends auf dem Schlossgelände braucht man einen Regenschirm, aber die nassen Pflastersteine und die Stimmung sind wunderbar mystisch.",
+            "hu": "Az esős reggel a templom védelmében indul. Délben a bormúzeum nyújt tökéletes, száraz menedéket a záporok elől. A délutánt kulturális terekben, esőtől védve töltjük. Az esti kastélylátogatáshoz esernyő szükséges, de a vizes macskakövek és a borongós hangulat különleges varázst adnak a sétának.",
+            "ro": "O dimineață ploioasă începe la adăpostul bisericii. La prânz, muzeul vinului oferă un refugiu perfect și uscat. După-amiaza este petrecută cu vizite culturale în interior. Seara, pe domeniul castelului, aveți nevoie de o umbrelă, dar pietrele umede și atmosfera melancolică adaugă un farmec deosebit.",
+            "en": "A rainy morning starts sheltered inside the church. By noon, the wine museum offers a perfect dry refuge from the showers. The afternoon is spent enjoying indoor cultural visits. The evening walk around the castle grounds requires an umbrella, but the wet cobblestones and moody atmosphere are beautifully romantic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Vallet",
+                "hu": "Notre-Dame de Vallet templom",
+                "ro": "Biserica Notre-Dame de Vallet",
+                "en": "Notre-Dame de Vallet Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster, die auch bei grauem Himmel leuchten; lassen Sie Ihren nassen Schirm am Eingang stehen.",
+                "hu": "Csodálja meg a szürke időben is ragyogó ólomüveg ablakokat; az esernyőt hagyja a bejáratnál a békés benti nézelődéshez.",
+                "ro": "Admirați vitraliile care strălucesc chiar și pe vreme gri; lăsați umbrela udă la intrare pentru o vizită liniștită.",
+                "en": "Admire the stained glass that glows even in gray weather; keep your wet umbrella at the entrance for a peaceful visit inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Muscadet",
+                "hu": "Maison du Muscadet",
+                "ro": "Maison du Muscadet",
+                "en": "Maison du Muscadet"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie den lokalen Muscadet im Trockenen und lernen Sie die Geschichte kennen; perfekt, um dem Regen zu entkommen.",
+                "hu": "Kóstolja meg a helyi Muscadet bort a melegben, miközben megismeri a történetét; ideális program az eső elkerülésére.",
+                "ro": "Degustați vinul local Muscadet în interior și aflați-i istoria; este locul ideal pentru a scăpa de ploaia de afară.",
+                "en": "Taste the local Muscadet wine indoors while learning about its history; it is a perfect stop to avoid the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Champilambart",
+                "hu": "Champilambart",
+                "ro": "Champilambart",
+                "en": "Champilambart"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die kulturellen Ausstellungen in den Innenräumen und lassen Sie sich Zeit, während der Schauer vorbeizieht.",
+                "hu": "Fedezze fel a belső kulturális kiállításokat, és töltsön el itt több időt, amíg odakint elvonulnak a leghevesebb záporok.",
+                "ro": "Explorați expozițiile culturale interioare și luați-vă timp aici în timp ce aversa de ploaie trece pe afară.",
+                "en": "Explore the indoor cultural exhibits and take your time staying dry while the heaviest showers pass outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë de Bel-Air",
+                "hu": "Château de la Noë de Bel-Air",
+                "ro": "Château de la Noë de Bel-Air",
+                "en": "Château de la Noë de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die markante Architektur des Schlosses; die Wege können schlammig sein, tragen Sie unbedingt wasserdichte Schuhe.",
+                "hu": "Csodálja meg a kastély lenyűgöző homlokzatát; az ösvények sárosak lehetnek, így a vízálló cipő elengedhetetlen a sétához.",
+                "ro": "Priviți arhitectura izbitoare a castelului; potecile pot fi noroioase, așa că purtați neapărat încălțăminte rezistentă la apă.",
+                "en": "View the striking exterior of the castle; the walking paths can be muddy, so wearing sturdy, waterproof shoes is a must."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Schlossstallungen",
+                "hu": "A kastély istállói",
+                "ro": "Grajdurile Castelului",
+                "en": "The Castle Stables"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Stallungen bieten einen geschützten Blick in die Vergangenheit; treten Sie ein, wenn ein plötzlicher Guss kommt.",
+                "hu": "A történelmi istállók fedett betekintést nyújtanak a múltba; húzódjon be ide a masszív falak közé, ha hirtelen eleredne az eső.",
+                "ro": "Grajdurile istorice oferă o privire adăpostită în trecut; intrați pentru a vă proteja dacă începe o ploaie bruscă.",
+                "en": "The historic stables offer a sheltered glimpse into the past; step inside to stay dry if a sudden downpour hits the area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt in der Kirche. Mittags wärmt man sich im Weinhaus auf. Der Nachmittag bringt kulturelle Wärme. Das abendliche Schloss erfordert dicke Kleidung, da die Sonne schon gegen 17:00 Uhr untergeht und es schnell frostig wird.",
+            "hu": "A fagyos téli reggel a templomban indul. Délben a bormúzeumban melegedhetünk fel. A délután kulturális programokkal telik a fűtött terekben. Az esti kastélysétához meleg rétegek kellenek, mivel 17:00 körül korán sötétedik.",
+            "ro": "O dimineață rece de iarnă începe la biserică. La prânz, vă încălziți la casa vinului. După-amiaza aduce căldură culturală. Vizita de seară la castel necesită haine groase, deoarece soarele apune devreme în jurul orei 17:00.",
+            "en": "A brisk winter morning starts at the church. Noon warms up at the wine house with local specialties. Afternoon brings cultural warmth indoors. The evening castle visit needs warm layers as the sun sets early around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Vallet",
+                "hu": "Notre-Dame de Vallet templom",
+                "ro": "Biserica Notre-Dame de Vallet",
+                "en": "Notre-Dame de Vallet Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Winteratmosphäre; wärmen Sie sich in den dicken Mauern auf, bevor Sie in die Kälte zurückkehren.",
+                "hu": "Élvezze a templom csendes téli hangulatát; melegedjen fel a vastag falak között, mielőtt visszatér a csípős levegőre.",
+                "ro": "Bucurați-vă de atmosfera liniștită de iarnă; încălziți-vă între zidurile groase înainte de a ieși din nou în aerul rece.",
+                "en": "Enjoy the quiet winter atmosphere; warm up inside the thick stone walls before stepping back into the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Muscadet",
+                "hu": "Maison du Muscadet",
+                "ro": "Maison du Muscadet",
+                "en": "Maison du Muscadet"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem Glas lokalen Weins auf; ein gemütlicher und informativer Stopp an einem frostigen Wintertag.",
+                "hu": "Melegedjen fel egy pohár helyi borral, miközben megismeri a történelmet; hangulatos megálló egy fagyos téli napon.",
+                "ro": "Încălziți-vă cu un pahar de vin local în timp ce îi aflați istoria; o oprire confortabilă într-o zi geroasă de iarnă.",
+                "en": "Warm up with a glass of local wine while learning the history; a cozy and informative stop on a frosty winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Champilambart",
+                "hu": "Champilambart",
+                "ro": "Champilambart",
+                "en": "Champilambart"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz vor der Kälte und genießen Sie die kulturellen Ausstellungen in diesem gut beheizten lokalen Zentrum.",
+                "hu": "Keressen menedéket a hideg elől, és élvezze a kulturális kiállításokat ebben a jól fűtött, barátságos helyi központban.",
+                "ro": "Căutați refugiu din calea frigului și bucurați-vă de expozițiile culturale în acest centru local bine încălzit.",
+                "en": "Seek refuge from the cold and enjoy the cultural displays in this well-heated, welcoming local center."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë de Bel-Air",
+                "hu": "Château de la Noë de Bel-Air",
+                "ro": "Château de la Noë de Bel-Air",
+                "en": "Château de la Noë de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht auf das Schloss; ziehen Sie für den Spaziergang einen dicken Mantel an.",
+                "hu": "A csupasz téli fák akadálytalan kilátást nyújtanak a kastélyra; vegyen fel vastag kabátot a szabadtéri sétához.",
+                "ro": "Copacii goi de iarnă oferă vederi neobstrucționate ale castelului; purtați o haină groasă pentru plimbarea în aer liber.",
+                "en": "The bare winter trees offer unobstructed views of the castle; wear a thick coat to stay warm during the outdoor walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Schlossstallungen",
+                "hu": "A kastély istállói",
+                "ro": "Grajdurile Castelului",
+                "en": "The Castle Stables"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die starken Steinmauern; das späte Licht ist schön, aber kleiden Sie sich warm gegen die Zugluft.",
+                "hu": "Csodálja meg az erős kőfalakat; a lemenő nap fénye gyönyörű, de öltözzön melegen a huzatos terek miatt.",
+                "ro": "Admirați zidurile puternice de piatră; lumina apusului este frumoasă, dar îmbrăcați-vă gros din cauza curenților de aer.",
+                "en": "Marvel at the strong stone walls; the fading sunlight is beautiful, but dress warmly to combat the drafty spaces."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt Vallet szívében, ahol a lenyűgöző építészet és a hangulatos utcák békés alaphangot adnak.\n\nDélben merüljön el a gazdag helyi borászati örökségben a lenyűgöző interaktív kiállítások révén.\n\nA délután arra invitálja, hogy felfedezze a város pezsgő művészeti és kulturális lelkét.\n\nZárja az estét fenséges történelmi birtokok látogatásával, amelyek hűen megőrizték a régmúltat.",
         "ro": "Începeți dimineața în inima orașului Vallet, unde arhitectura impresionantă și străzile fermecătoare creează pace.\n\nLa prânz, cufundați-vă în bogata moștenire viticolă locală explorând expoziții istorice fascinante.\n\nDupă-amiaza vă invită să descoperiți sufletul artistic și cultural vibrant al acestui oraș minunat.\n\nÎncheiați seara vizitând moșii istorice maiestuoase care reflectă perfect trecutul.",
         "en": "Start your morning in the heart of Vallet, where grand architecture and charming streets set a peaceful tone.\n\nAs midday approaches, immerse yourself in the rich local wine heritage by exploring fascinating exhibits.\n\nThe afternoon invites you to discover the vibrant artistic and cultural soul of the city.\n\nConclude your evening by visiting majestic historical estates that beautifully echo the past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt erfordert Regenkleidung bis zur Kirche. Mittags bietet das Museum eine trockene Pause. Nachmittags bei kulturellen Stopps auf rutschige Wege achten. Abends am Schloss unbedingt helle Fahrradlichter im Regen nutzen!",
+            "hu": "Az esős reggeli tekeréshez vízálló felszerelés kell a templomig. Délben a bormúzeum száraz pihenőt ad. A délutáni kulturális megállóknál vigyázzon a csúszós utakra. Az esti kastélytúra borongós; használjon erős kerékpáros lámpákat az esőben!",
+            "ro": "Plimbarea de dimineață necesită pelerină până la biserică. La prânz, muzeul oferă o pauză uscată. După-amiaza, la opririle culturale, atenție la drumurile alunecoase. Seara la castel folosiți lumini puternice pentru bicicletă în ploaie!",
+            "en": "Morning ride requires rain gear as we head to the church. Noon at the museum offers a dry break. Afternoon cultural stops are great, but watch for slippery roads. Evening rides are moody; use bright bike lights in the rain!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Vallet",
+                "hu": "Notre-Dame de Vallet templom",
+                "ro": "Biserica Notre-Dame de Vallet",
+                "en": "Notre-Dame de Vallet Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unterm Dach und trocknen Sie sich drinnen ab, während Sie die regennassen Fenster bewundern.",
+                "hu": "Parkolja le a biciklit az eresz alá, és száradjon meg odabent, miközben csodálja a békés, eső áztatta ablakokat.",
+                "ro": "Parcați bicicleta sub streașină și uscați-vă înăuntru în timp ce admirați ferestrele pașnice udate de ploaie.",
+                "en": "Park your bike under the eaves and dry off inside while admiring the peaceful, rain-splattered stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Muscadet",
+                "hu": "Maison du Muscadet",
+                "ro": "Maison du Muscadet",
+                "en": "Maison du Muscadet"
+              },
+              "tip_5lang": {
+                "de": "Ein toller trockener Stopp für Weinwissen; lassen Sie die nasse Ausrüstung an der Tür und genießen Sie die Ausstellung.",
+                "hu": "Remek száraz megálló a bor megismerésére; hagyja a vizes felszerelést az ajtónál, és élvezze a benti kiállítást.",
+                "ro": "O oprire uscată excelentă pentru a învăța despre vin; lăsați echipamentul ud la ușă și bucurați-vă de expoziție.",
+                "en": "A great dry stop to learn about wine; leave your wet gear at the door and enjoy the indoor historical exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Champilambart",
+                "hu": "Champilambart",
+                "ro": "Champilambart",
+                "en": "Champilambart"
+              },
+              "tip_5lang": {
+                "de": "Ruhen Sie Ihre Beine aus und entfliehen Sie dem Regen in diesem Kulturraum, bevor die nasse Fahrt weitergeht.",
+                "hu": "Pihentesse a lábát, és meneküljön az eső elől ebben a kulturális térben, mielőtt folytatná a nedves tekerést.",
+                "ro": "Odihniți-vă picioarele și scăpați de ploaie în acest spațiu cultural înainte de a continua cursa umedă.",
+                "en": "Rest your legs and escape the rain inside this cultural venue before continuing your wet ride through the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Cléray",
+                "hu": "Château du Cléray",
+                "ro": "Château du Cléray",
+                "en": "Château du Cléray"
+              },
+              "tip_5lang": {
+                "de": "Die Weinberge sehen im Regen üppig aus, aber bremsen Sie vorsichtig, da die Zufahrtswege sehr rutschig sind.",
+                "hu": "A szőlőültetvények buján festenek az esőben, de fékezzen óvatosan, mert a bekötőutak nagyon csúszósak lehetnek.",
+                "ro": "Viile arată luxuriant în ploaie, dar frânați cu grijă, deoarece drumurile de acces pot fi foarte alunecoase.",
+                "en": "The vineyards look lush in the rain, but brake carefully as the approach paths and wet leaves can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë de Bel-Air",
+                "hu": "Château de la Noë de Bel-Air",
+                "ro": "Château de la Noë de Bel-Air",
+                "en": "Château de la Noë de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Die nasse Steinfassade ist beeindruckend; tragen Sie einen guten Poncho, um den Anblick trotz Schauer zu genießen.",
+                "hu": "A kastély vizes kőhomlokzata lenyűgöző; viseljen jó minőségű esőköpenyt, hogy a záporok ellenére is élvezze.",
+                "ro": "Fațada de piatră umedă este impresionantă; purtați un poncho bun pentru a vă bucura de priveliște în ciuda ploii.",
+                "en": "The castle's wet stone facade is striking; wear a good quality poncho to enjoy the view despite the passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Schlossstallungen",
+                "hu": "A kastély istállói",
+                "ro": "Grajdurile Castelului",
+                "en": "The Castle Stables"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den massiven Ställen und prüfen Sie Ihre Schutzbleche vor dem nassen Heimweg.",
+                "hu": "Keressen menedéket a masszív istállókban, és ellenőrizze a sárvédőket az utolsó, esős hazavezető szakasz előtt.",
+                "ro": "Căutați adăpost în grajdurile masive și verificați apărătoarele de noroi înainte de ultima porțiune ploioasă spre casă.",
+                "en": "Seek shelter in the sturdy stables and check your bike's mudguards before tackling the final wet stretch home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Morgenfahrt beginnt an der Kirche. Mittags wärmt man sich im Museum auf. Nachmittags braucht man Handschuhe für die Schlösser. Beenden Sie die Tour vor 17:00 Uhr, da die Winterstraßen schnell dunkel und eisig werden.",
+            "hu": "A hideg reggeli tekerés a templomnál indul. Délben a múzeumban melegszünk fel. A délutáni kastélytúrákhoz kesztyű és meleg rétegek kellenek. Fejezze be az esti kört 17:00 előtt, mert a téli utak gyorsan sötétek és jegesek lesznek.",
+            "ro": "Plimbarea rece de dimineață începe la biserică. La prânz vă încălziți la muzeu. După-amiaza spre castele necesită mănuși. Terminați traseul de seară înainte de 17:00, deoarece drumurile de iarnă devin rapid întunecate și înghețate.",
+            "en": "Cold morning ride starts at the church. By noon, warm up at the museum. Afternoon rides to the castles require gloves and warm layers. Finish the evening loop before 17:00, as winter roads get dark and icy fast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Vallet",
+                "hu": "Notre-Dame de Vallet templom",
+                "ro": "Biserica Notre-Dame de Vallet",
+                "en": "Notre-Dame de Vallet Church"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier die frische Tour; die dicken Wände isolieren den Innenraum angenehm vor dem eisigen Winterwind.",
+                "hu": "Kezdje itt a csípős tekerést; a vastag kőfalak kellemesen szigetelik a belső teret a fagyos téli széltől.",
+                "ro": "Începeți aici cursa rece; pereții groși de piatră izolează plăcut interiorul de vântul înghețat de iarnă.",
+                "en": "Start your chilly ride here; the thick stone walls keep the interior comfortably insulated from the freezing winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Muscadet",
+                "hu": "Maison du Muscadet",
+                "ro": "Maison du Muscadet",
+                "en": "Maison du Muscadet"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre kalten Finger mit einem Glas Wein auf, während Sie die reiche Weinbaugeschichte der Region entdecken.",
+                "hu": "Melegítse fel fagyos ujjait egy pohár helyi borral, miközben felfedezi a régió gazdag borászati múltját.",
+                "ro": "Încălziți-vă degetele înghețate cu un pahar de vin în timp ce descoperiți bogata istorie viticolă a regiunii.",
+                "en": "Thaw your cold fingers with a glass of local wine while discovering the region's rich viticultural past."
+              }
+            },
+            {
+              "name": {
+                "de": "Champilambart",
+                "hu": "Champilambart",
+                "ro": "Champilambart",
+                "en": "Champilambart"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den gemütlich beheizten Innenraum und wärmen Sie sich auf, bevor Sie zurück in den frostigen Sattel steigen.",
+                "hu": "Élvezze a hangulatos, fűtött benti teret, és melegedjen át, mielőtt visszapattanna a fagyos kerékpárnyeregre.",
+                "ro": "Bucurați-vă de spațiul interior încălzit și confortabil înainte de a vă întoarce în șaua înghețată a bicicletei.",
+                "en": "Enjoy the cozy, heated indoor space and warm your core before hopping back onto your frosty bicycle saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Cléray",
+                "hu": "Château du Cléray",
+                "ro": "Château du Cléray",
+                "en": "Château du Cléray"
+              },
+              "tip_5lang": {
+                "de": "Die schlafenden Reben sind im Winter faszinierend; tragen Sie winddichte Handschuhe für das Tempo auf offener Straße.",
+                "hu": "Az alvó szőlőtőkék lenyűgözőek télen; viseljen szélálló kesztyűt a nyílt úton történő gyorsabb tekeréshez.",
+                "ro": "Viile adormite sunt fascinante iarna; purtați mănuși rezistente la vânt pentru a pedala rapid pe drum deschis.",
+                "en": "The dormant vines are stunning in winter; wear windproof gloves for the faster open-road cycling stretches."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë de Bel-Air",
+                "hu": "Château de la Noë de Bel-Air",
+                "ro": "Château de la Noë de Bel-Air",
+                "en": "Château de la Noë de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die raue Winterschönheit des Anwesens; bleiben Sie in Bewegung, um sich an der frischen Luft warmzuhalten.",
+                "hu": "Csodálja meg a birtok zord téli szépségét; mozogjon folyamatosan, hogy melegen tartsa magát a friss levegőn.",
+                "ro": "Admirați frumusețea aspră de iarnă a domeniului; mișcați-vă constant pentru a vă menține cald în aerul curat.",
+                "en": "Admire the stark winter beauty of the estate; keep moving steadily to stay warm in the crisp countryside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Schlossstallungen",
+                "hu": "A kastély istállói",
+                "ro": "Grajdurile Castelului",
+                "en": "The Castle Stables"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das Abendlicht auf den alten Steinen vor Einbruch der Dunkelheit ein; prüfen Sie, ob Ihre Lichter geladen sind.",
+                "hu": "Kapja el a lenyugvó nap fényét az ősi köveken sötétedés előtt; ellenőrizze, hogy a biciklilámpák fel vannak-e töltve.",
+                "ro": "Prindeți lumina apusului pe pietrele antice înainte de a se întuneca; verificați dacă luminile bicicletei sunt încărcate.",
+                "en": "Catch the fading golden light on the ancient stones before sunset; ensure your bike lights are fully charged for the ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje a reggelt Vallet szívében, ahol a lenyűgöző építészet és a hangulatos utcák békés alaphangot adnak.\n\nDélben merüljön el a gazdag helyi borászati örökségben a lenyűgöző interaktív kiállítások révén.\n\nA délután arra invitálja, hogy felfedezze a város pezsgő művészeti és kulturális lelkét.\n\nZárja az estét fenséges történelmi birtokok látogatásával, amelyek hűen megőrizték a régmúltat.",
         "ro": "Începeți dimineața în inima orașului Vallet, unde arhitectura impresionantă și străzile fermecătoare creează pace.\n\nLa prânz, cufundați-vă în bogata moștenire viticolă locală explorând expoziții istorice fascinante.\n\nDupă-amiaza vă invită să descoperiți sufletul artistic și cultural vibrant al acestui oraș minunat.\n\nÎncheiați seara vizitând moșii istorice maiestuoase care reflectă perfect trecutul.",
         "en": "Start your morning in the heart of Vallet, where grand architecture and charming streets set a peaceful tone.\n\nAs midday approaches, immerse yourself in the rich local wine heritage by exploring fascinating exhibits.\n\nThe afternoon invites you to discover the vibrant artistic and cultural soul of the city.\n\nConclude your evening by visiting majestic historical estates that beautifully echo the past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die regnerische Fahrt zur Kapelle ist gemütlich. Nehmen Sie einen Schirm für das Schloss mit! Mittags ist das Weinhaus trocken. Nachmittagsschauer verbringt man drinnen, bevor der Tag mit einem schönen abendlichen Kirchenbesuch endet.",
+            "hu": "Az esős reggeli autózás a kápolnához kényelmes indulás. A kastélyhoz és az istállókhoz vigyen esernyőt! Délben a borház száraz menedék. A délutáni záporok alatt kulturális helyeket nézünk, majd a napot a templom borongós, de szép esti látványa zárja.",
+            "ro": "Condusul pe ploaie spre capelă este un început confortabil. Luați umbrela pentru grajduri. Prânzul la casa vinului este un refugiu uscat. Aversele de după-amiază trec la vizitele culturale, terminând cu o vizită frumoasă la biserică.",
+            "en": "A rainy drive to the chapel is a cozy start. Bring an umbrella for the castle stables. Noon at the wine house is a dry haven. Afternoon showers pass during cultural visits, ending with a damp but beautiful evening church viewing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Bonne Fontaine",
+                "hu": "Bonne Fontaine kápolna",
+                "ro": "Capela Bonne Fontaine",
+                "en": "Bonne Fontaine Chapel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um dem Regen zu entgehen; das Innere ist perfekt für einen grauen, nieseligen Morgen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt; a meghitt belső tér tökéletes egy szürke, szitáló reggelen.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; interiorul este perfect pentru o dimineață gri, cu burniță.",
+                "en": "Park close to the entrance to avoid the rain; the intimate interior is perfect for a gray, drizzly morning start."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Schlossstallungen",
+                "hu": "A kastély istállói",
+                "ro": "Grajdurile Castelului",
+                "en": "The Castle Stables"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in die historischen Stallungen, um den Schauern zu entkommen und die robuste Architektur zu bewundern.",
+                "hu": "Lépjen be a történelmi istállókba a záporok elől, miközben megcsodálja a robusztus lovas építészetet.",
+                "ro": "Intrați în grajdurile istorice pentru a scăpa de averse, în timp ce admirați arhitectura ecvestră robustă.",
+                "en": "Step inside the historic stables to escape the sudden showers while appreciating the robust equestrian architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë de Bel-Air",
+                "hu": "Château de la Noë de Bel-Air",
+                "ro": "Château de la Noë de Bel-Air",
+                "en": "Château de la Noë de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf der Zufahrt; bewundern Sie die nass glänzenden Schieferdächer des Schlosses unter Ihrem Schirm.",
+                "hu": "Vezessen lassan a bekötőúton; csodálja meg a kastély vizes, csillogó palatetőit az esernyője biztos védelme alól.",
+                "ro": "Conduceți încet pe drumul de acces; admirați acoperișurile umede și strălucitoare ale castelului de sub umbrela dumneavoastră.",
+                "en": "Drive slowly on the approach road; admire the wet, shiny slate roofs of the castle safely from beneath your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Muscadet",
+                "hu": "Maison du Muscadet",
+                "ro": "Maison du Muscadet",
+                "en": "Maison du Muscadet"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Zuflucht; genießen Sie die Entdeckung der Weinkultur, während draußen der Regen die Straßen wäscht.",
+                "hu": "Tökéletes benti menedék; élvezze a borkultúra felfedezését, miközben kint az eső mossa az utcákat.",
+                "ro": "Refugiu perfect în interior; bucurați-vă de descoperirea culturii vinului în timp ce ploaia spală străzile afară.",
+                "en": "A perfect indoor escape; enjoy exploring the rich wine heritage while the steady rain washes the streets outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Vallet",
+                "hu": "Notre-Dame de Vallet templom",
+                "ro": "Biserica Notre-Dame de Vallet",
+                "en": "Notre-Dame de Vallet Church"
+              },
+              "tip_5lang": {
+                "de": "Das Buntglas leuchtet warm trotz grauem Himmel; Vorsicht auf den rutschigen Stufen, die zum Eingang führen.",
+                "hu": "Az ólomüveg melegen világít a szürke égbolt ellenére; vigyázzon a bejárathoz vezető csúszós lépcsőkön.",
+                "ro": "Vitraliile strălucesc cald în ciuda cerului gri; aveți grijă la treptele alunecoase care duc spre intrare.",
+                "en": "The stained glass glows warmly against the gray sky; be careful on the slippery stone steps leading to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Champilambart",
+                "hu": "Champilambart",
+                "ro": "Champilambart",
+                "en": "Champilambart"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie eine trockene Stunde mit Kultur; die nahe Tiefgarage ist bei nassem Wetter ein großer Vorteil.",
+                "hu": "Töltsön el egy száraz órát a helyi kultúra felfedezésével; a közeli parkolóhelyek nagy előnyt jelentenek nedves időben.",
+                "ro": "Petreceți o oră uscată explorând cultura; locurile de parcare din apropiere sunt un mare avantaj pe vreme umedă.",
+                "en": "Spend a dry hour exploring local culture; having nearby parking options is a huge bonus during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Cléray",
+                "hu": "Château du Cléray",
+                "ro": "Château du Cléray",
+                "en": "Château du Cléray"
+              },
+              "tip_5lang": {
+                "de": "Die Weinberge sind im Regen lebendig; halten Sie einen Schirm für den kurzen Weg vom Auto zum Eingang bereit.",
+                "hu": "A szőlőültetvények élénkek az esőben; tartson kéznél esernyőt az autótól a bejáratig tartó rövid sétához.",
+                "ro": "Viile sunt vibrante în ploaie; țineți o umbrelă la îndemână pentru scurta plimbare de la mașină la intrare.",
+                "en": "The vineyards are vibrant in the rain; keep an umbrella handy for the short walk from your car to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Szent Márton templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Regentag in diesem ruhigen Raum; die nasse Steinfassade bietet ein tolles Motiv für stimmungsvolle Fotos.",
+                "hu": "Fejezze be az esős napot ebben a csendes térben; a vizes kőhomlokzat remek témát ad a hangulatos fotókhoz.",
+                "ro": "Încheiați ziua ploioasă în acest spațiu liniștit; fațada de piatră udă oferă un subiect excelent pentru fotografii de atmosferă.",
+                "en": "End your rainy day in this quiet space; the wet stone exterior makes for excellent moody and atmospheric photography."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Fahrt beginnt an der Kapelle. Der Schlossgarten ist frisch. Mittags im Weinmuseum aufwärmen. Nachmittagsbesuche sind im tiefen Sonnenlicht magisch. Der Abend bricht früh herein, gegen 17:00 Uhr ist es an der Kirche bereits dunkel.",
+            "hu": "A fagyos reggeli autózás a csendes kápolnánál kezdődik. A kastélykert gyönyörű, de csípős. Délben melegedjen fel a bormúzeumban. A délutáni kastélylátogatások varázslatosak az alacsony napfényben. Az este hamar leszáll, 17:00-kor már sötétedik a templomnál.",
+            "ro": "Plimbarea geroasă de dimineață începe la capelă. Domeniul castelului este răcoros. Încălziți-vă la prânz la muzeu. Vizitele de după-amiază sunt magice în soarele blând. Seara cade devreme, întunecându-se până la 17:00 la ultima biserică.",
+            "en": "Frosty morning drive starts at the chapel. Castle grounds are brisk. Warm up at noon in the wine museum. Afternoon visits are magical in the low sun. Evening falls early, with darkness setting in by 17:00 at the final church stop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Bonne Fontaine",
+                "hu": "Bonne Fontaine kápolna",
+                "ro": "Capela Bonne Fontaine",
+                "en": "Bonne Fontaine Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der morgendliche Frost auf dem Dach ist wunderschön; treten Sie ein, um Schutz vor dem beißenden Winterwind zu finden.",
+                "hu": "A kápolna tetején lévő reggeli zúzmara gyönyörű; lépjen be, hogy menedéket találjon a metsző téli szél elől.",
+                "ro": "Gerul dimineții de pe acoperiș este frumos; intrați pentru a găsi adăpost de vântul tăios de iarnă.",
+                "en": "The morning frost on the chapel roof is beautiful; step inside to find quick shelter from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Schlossstallungen",
+                "hu": "A kastély istállói",
+                "ro": "Grajdurile Castelului",
+                "en": "The Castle Stables"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Wände speichern die Kälte, behalten Sie Ihren Mantel an, während Sie die historische Anlage betrachten.",
+                "hu": "A vastag falak tartják a hideget, így tartsa magán a kabátot, miközben megcsodálja az istállók történelmi elrendezését.",
+                "ro": "Pereții groși mențin frigul, așa că păstrați haina pe dumneavoastră în timp ce admirați amenajarea istorică a grajdurilor.",
+                "en": "The thick stone walls hold the cold, so keep your heavy coat on while admiring the historic layout of the stables."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Noë de Bel-Air",
+                "hu": "Château de la Noë de Bel-Air",
+                "ro": "Château de la Noë de Bel-Air",
+                "en": "Château de la Noë de Bel-Air"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie Fotos vom Schloss zwischen kahlen Bäumen; die Autoheizung wird nach diesem frischen Halt wohltuend sein.",
+                "hu": "Készítsen fotókat a csupasz fák keretezte kastélyról; a fagyos megálló után jól fog esni az autó fűtése.",
+                "ro": "Faceți fotografii cu castelul încadrat de copaci goi; încălzirea mașinii va fi binevenită după această oprire geroasă.",
+                "en": "Take photos of the castle framed by bare trees; returning to the car's heater will feel amazing after this brisk stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Muscadet",
+                "hu": "Maison du Muscadet",
+                "ro": "Maison du Muscadet",
+                "en": "Maison du Muscadet"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich hier gründlich auf und tauchen Sie in die Weingeschichte in einer geschützten, warmen Umgebung ein.",
+                "hu": "Melegedjen fel itt alaposan, merüljön el a helyi borászat történelmében egy kényelmes, védett környezetben.",
+                "ro": "Încălziți-vă bine aici, cufundați-vă în istoria vinului local într-un mediu confortabil și protejat.",
+                "en": "Warm up thoroughly here, diving into the local wine history within a comfortable, well-insulated environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Vallet",
+                "hu": "Notre-Dame de Vallet templom",
+                "ro": "Biserica Notre-Dame de Vallet",
+                "en": "Notre-Dame de Vallet Church"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Stille verstärkt das spirituelle Erlebnis; die dicken Wände bieten massiven Schutz vor der Kälte.",
+                "hu": "A csendes téli hangulat fokozza a spirituális élményt; a vastag falak masszív védelmet nyújtanak a hideg ellen.",
+                "ro": "Liniștea iernii sporește experiența spirituală; pereții groși oferă o protecție masivă împotriva frigului.",
+                "en": "The quiet winter ambiance enhances the spiritual experience; the thick walls provide a solid barrier against the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Champilambart",
+                "hu": "Champilambart",
+                "ro": "Champilambart",
+                "en": "Champilambart"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten kulturellen Ausstellungen, bevor Sie sich wieder den sinkenden Nachmittagstemperaturen stellen.",
+                "hu": "Élvezze a jól fűtött kulturális kiállításokat, mielőtt újra nekivágna a csökkenő délutáni hőmérsékletnek.",
+                "ro": "Bucurați-vă de expozițiile culturale bine încălzite înainte de a înfrunta din nou temperaturile în scădere ale după-amiezii.",
+                "en": "Enjoy the well-heated cultural exhibits before heading back out into the rapidly dropping afternoon temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Cléray",
+                "hu": "Château du Cléray",
+                "ro": "Château du Cléray",
+                "en": "Château du Cléray"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief über den Reben; fahren Sie vorsichtig und achten Sie auf die frühen Schatten der Dämmerung.",
+                "hu": "A téli nap alacsonyan jár a szőlőtőkék felett; vezessen óvatosan, és figyeljen a korai szürkületi árnyékokra.",
+                "ro": "Soarele de iarnă este jos deasupra viilor; conduceți cu grijă și fiți atenți la umbrele timpurii ale crepusculului.",
+                "en": "The winter sun sits low over the vineyards; drive carefully and watch for the early twilight shadows on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Szent Márton templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie zur frühen Dunkelheit um 17:00 Uhr an; die beleuchtete Kirche ist ein warmer Leuchtturm in der kalten Nacht.",
+                "hu": "Érkezzen meg a 17:00 órás korai sötétedés idején; a kivilágított templom meleg jelzőfény a sötét hidegben.",
+                "ro": "Ajungeți la întunericul devreme de la ora 17:00; biserica iluminată este un far cald în noaptea rece și întunecată.",
+                "en": "Arrive as the early darkness sets in at 17:00; the beautifully lit church serves as a warm beacon in the cold night."
+              }
+            }
+          ]
+        }
       }
     }
   }

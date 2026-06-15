@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi Plateau d'Assy-n kezdődik, ahol századközepi építészetet és egy művészetekkel teli templomot fedezhet fel. Délben a nyüzsgő Jardin des Cimes várja Önt egy botanikai élményre. Délután felgyalogol a Plaine-Joux felé, erőfeszítéseit lenyűgöző völgyi kilátás jutalmazza. Az este békésen zárul a Lac Vert smaragdzöld vizénél.",
         "ro": "Dimineața începe pe istoricul Plateau d'Assy, unde veți descoperi arhitectura de la mijlocul secolului și o biserică plină de artă. La prânz veți vizita vibrantul Jardin des Cimes pentru o experiență botanică imersivă. După-amiaza, veți urca spre Plaine-Joux, răsplătindu-vă eforturile cu priveliști ample. Seara se încheie liniștit la apele de smarald ale Lac Vert.",
         "en": "Morning begins on the historic Plateau d'Assy, where you will discover incredible mid-century architecture and an art-filled church. Midday brings you to the vibrant Jardin des Cimes for an immersive botanical experience. In the afternoon, you will hike up toward Plaine-Joux, rewarding your efforts with sweeping valley views. The evening concludes peacefully at the emerald waters of Lac Vert."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Plateau d'Assy beginnt mystisch, wenn die Wolken tief hängen. Mittags bietet die moderne Kirche Schutz vor dem Regen und fasziniert mit ihrer Kunst. Am Nachmittag führen feuchte Pfade zum smaragdgrünen See, dessen Farben bei Regen besonders tief wirken. Der Abend klingt bei frischer Bergluft und dem sanften Prasseln des Regens gemütlich aus.",
+            "hu": "A Plateau d'Assy reggele misztikus, ahogy a felhők mélyen úsznak a hegyoldalban. Délben a templom modern műalkotásai között találunk menedéket az eső elől. Délután a nedves ösvényeken a Lac Vert smaragd színei még mélyebbnek tűnnek a szürkületben. Az este friss hegyi levegővel és az eső megnyugtató kopogásával zárul a völgyben.",
+            "ro": "Dimineața pe Plateau d'Assy începe mistic, cu nori joși care îmbrățișează muntele. La prânz, biserica modernă oferă un adăpost perfect și o incursiune în artă. După-amiaza, potecile umede duc spre Lac Vert, ale cărui culori par mai intense pe ploaie. Seara se încheie liniștit, cu aer proaspăt de munte și sunetul relaxant al picăturilor.",
+            "en": "The morning at Plateau d'Assy feels mystical with low hanging clouds over the slopes. At noon, the modern church provides a dry sanctuary filled with fascinating art. In the afternoon, the damp trails lead to Lac Vert, where the emerald colors look even deeper in the rain. The evening winds down with fresh mountain air and the soothing sound of rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plateau d'Assy",
+                "hu": "Plateau d'Assy",
+                "ro": "Plateau d'Assy",
+                "en": "Plateau d'Assy"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht auf den Mont-Blanc zwischen den Wolkenlücken; wasserfeste Wanderschuhe sind auf den asphaltierten Wegen dennoch ratsam.",
+                "hu": "Csodálja meg a Mont-Blanc drámai látványát a felhőrések között; a kiépített utak ellenére is javasolt a kényelmes, vízálló túracipő viselete.",
+                "ro": "Admirați vederea dramatică spre Mont-Blanc printre rupturile din nori; deși drumurile sunt asfaltate, se recomandă încălțăminte impermeabilă.",
+                "en": "Enjoy the dramatic views of Mont Blanc through gaps in the clouds; waterproof hiking shoes are recommended even on the paved sections of the plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Toute-Grâce",
+                "hu": "Église Notre-Dame-de-Toute-Grâce",
+                "ro": "Église Notre-Dame-de-Toute-Grâce",
+                "en": "Église Notre-Dame-de-Toute-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für eine ausgiebige Besichtigung der Innenräume; die modernen Mosaike von Léger strahlen auch ohne direktes Sonnenlicht hell.",
+                "hu": "Használja ki az esőt a belső terek alapos felfedezésére; Léger modern mozaikjai közvetlen napfény nélkül is lenyűgöző színekben tündökölnek.",
+                "ro": "Profitați de ploaie pentru o vizită detaliată a interiorului; mozaicurile moderne ale lui Léger strălucesc intens chiar și fără lumina directă a soarelui.",
+                "en": "Use the rain as an excuse for an extended indoor visit; the modern mosaics by Léger glow vibrantly even without direct sunlight inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des Cimes",
+                "hu": "Jardin des Cimes",
+                "ro": "Jardin des Cimes",
+                "en": "Jardin des Cimes"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten verströmen bei Regen einen intensiven Duft; tragen Sie ein Cape, da einige Abschnitte der künstlerischen Pfade ungeschützt sind.",
+                "hu": "A kertek esőben különösen intenzív illatot árasztanak; viseljen esőköpenyt, mivel a művészi ösvények egyes szakaszai teljesen nyitottak.",
+                "ro": "Grădinile emană un parfum intens pe timp de ploaie; purtați o pelerină, deoarece unele secțiuni ale potecilor artistice sunt neprotejate.",
+                "en": "The gardens release intense floral scents during the rain; wear a rain poncho as several sections of the artistic paths are quite exposed."
+              }
+            },
+            {
+              "name": {
+                "de": "Passy Plaine-Joux",
+                "hu": "Passy Plaine-Joux",
+                "ro": "Passy Plaine-Joux",
+                "en": "Passy Plaine-Joux"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den lokalen Gaststätten, wenn der Nebel aufzieht; die Atmosphäre am Startplatz der Gleitschirmflieger ist bei Regen sehr ruhig.",
+                "hu": "Keressen menedéket a helyi fogadókban, ha leszáll a köd; a siklóernyősök starthelye ilyenkor különösen csendes és békés hangulatot áraszt.",
+                "ro": "Căutați adăpost în tavernele locale dacă ceața se lasă; atmosfera la punctul de lansare pentru parapante este foarte calmă pe timp de ploaie.",
+                "en": "Seek shelter in the local eateries if the fog rolls in; the paragliding take-off area has a very serene and quiet atmosphere during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Vert",
+                "hu": "Lac Vert",
+                "ro": "Lac Vert",
+                "en": "Lac Vert"
+              },
+              "tip_5lang": {
+                "de": "Der Waldpfad kann sehr rutschig und matschig sein; der Anblick des smaragdgrünen Wassers im Nebel ist jedoch ein unvergessliches Naturerlebnis.",
+                "hu": "Az erdei ösvény nagyon csúszós és sáros lehet; a ködben úszó smaragdzöld víz látványa azonban felejthetetlen természeti élményt nyújt.",
+                "ro": "Poteca prin pădure poate fi foarte alunecoasă și noroioasă; totuși, vederea apei de smarald prin ceață este o experiență naturală de neuitat.",
+                "en": "The forest trail can become very slippery and muddy; however, seeing the emerald water through the mist is an unforgettable natural experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Plateau d'Assy offenbart die schneebedeckten Alpen in voller Pracht. Mittags wärmen die Sonnenstrahlen trotz frostiger Temperaturen, während die Kirche im Schnee glänzt. Am Nachmittag führt der Weg durch den tief verschneiten Wald zum erstarrten See. Wegen der frühen Dunkelheit gegen 17:00 Uhr sollte man den Abstieg rechtzeitig planen und die warme Kleidung genießen.",
+            "hu": "A Plateau d'Assy tiszta téli reggelén a havas Alpok teljes pompájában ragyog. Délben a napsugarak felmelegítik a levegőt, miközben a templom fehér környezetben tündököl. Délután az út a mély hóval borított erdőn át vezet a befagyott tóhoz. A korai, 17:00 körüli sötétedés miatt időben tervezze meg a visszautat, és élvezze a réteges, meleg öltözetet.",
+            "ro": "O dimineață senină de iarnă pe Plateau d'Assy dezvăluie Alpii înzăpeziți în toată splendoarea lor. La prânz, soarele încălzește aerul înghețat, în timp ce biserica strălucește în zăpadă. După-amiaza, drumul trece prin pădurea ninsă spre lacul înghețat. Din cauza întunericului care coboară la ora 17:00, planificați coborârea din timp.",
+            "en": "A crisp winter morning at Plateau d'Assy reveals the snow-capped Alps in all their glory. At noon, the sun warms the frosty air while the church stands out against the white landscape. In the afternoon, the path leads through the deep snow of the forest to the frozen lake. Due to early sunset around 5:00 PM, plan your return early and enjoy your warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plateau d'Assy",
+                "hu": "Plateau d'Assy",
+                "ro": "Plateau d'Assy",
+                "en": "Plateau d'Assy"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf den Mont-Blanc ist im Winter oft am klarsten; tragen Sie unbedingt eine Sonnenbrille wegen der starken Reflexion im Schnee.",
+                "hu": "A Mont-Blanc-ra nyíló kilátás télen gyakran a legtisztább; a hó erős fényvisszaverése miatt mindenképpen viseljen napszemüveget.",
+                "ro": "Vizibilitatea spre Mont-Blanc este adesea cea mai clară iarna; purtați neapărat ochelari de soare din cauza reflexiei puternice a zăpezii.",
+                "en": "The distant views of Mont Blanc are often clearest in winter; be sure to wear sunglasses due to the intense reflection from the snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Toute-Grâce",
+                "hu": "Église Notre-Dame-de-Toute-Grâce",
+                "ro": "Église Notre-Dame-de-Toute-Grâce",
+                "en": "Église Notre-Dame-de-Toute-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein idealer Ort, um sich kurz aufzuwärmen; die bunten Glasfenster erzeugen im Winterlicht eine besonders warme Atmosphäre.",
+                "hu": "A templom ideális hely egy rövid felmelegedéshez; a színes üvegablakok a téli fényben különlegesen meleg és meghitt hangulatot árasztanak.",
+                "ro": "Biserica este un loc ideal pentru a vă încălzi puțin; vitraliile colorate creează o atmosferă deosebit de caldă în lumina iernii.",
+                "en": "The church is a perfect spot to warm up briefly; the colorful stained-glass windows create a particularly warm atmosphere in winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des Cimes",
+                "hu": "Jardin des Cimes",
+                "ro": "Jardin des Cimes",
+                "en": "Jardin des Cimes"
+              },
+              "tip_5lang": {
+                "de": "Einige Gartenbereiche sind im Winter geschlossen, aber die skulpturalen Elemente wirken unter der Schneelast wie moderne Kunstwerke.",
+                "hu": "Bár a kertek egyes részei télen zárva tarthatnak, a szoborszerű elemek a hó alatt lenyűgöző modern műalkotásokként hatnak.",
+                "ro": "Unele zone ale grădinii sunt închise iarna, dar elementele sculpturale arată ca niște opere de artă modernă sub greutatea zăpezii.",
+                "en": "Some garden areas may be closed in winter, but the sculptural elements look like modern art pieces under the blanket of snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Passy Plaine-Joux",
+                "hu": "Passy Plaine-Joux",
+                "ro": "Passy Plaine-Joux",
+                "en": "Passy Plaine-Joux"
+              },
+              "tip_5lang": {
+                "de": "Plaine-Joux verwandelt sich in ein familienfreundliches Skigebiet; achten Sie auf Skifahrer und genießen Sie die lebhafte Winterstimmung.",
+                "hu": "Plaine-Joux ilyenkor családbarát síterepé változik; figyeljen a síelőkre, és élvezze a pezsgő, vidám téli hangulatot a lejtőkön.",
+                "ro": "Plaine-Joux se transformă într-o stațiune de schi de familie; aveți grijă la schiori și bucurați-vă de atmosfera plină de viață a iernii.",
+                "en": "Plaine-Joux transforms into a family-friendly ski resort; watch out for skiers and soak in the lively winter atmosphere on the slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Vert",
+                "hu": "Lac Vert",
+                "ro": "Lac Vert",
+                "en": "Lac Vert"
+              },
+              "tip_5lang": {
+                "de": "Schneeschuhe sind für diesen Abschnitt oft notwendig; der See ist teilweise zugefroren und bietet ein spektakuläres Fotomotiv im Eis.",
+                "hu": "Ezen a szakaszon gyakran hótalp szükséges; a tó részben befagyhat, ami látványos és különleges fotótémát kínál a jég fogságában.",
+                "ro": "Rachetele de zăpadă sunt adesea necesare pentru această secțiune; lacul este parțial înghețat și oferă un decor spectaculos pentru fotografii.",
+                "en": "Snowshoes are often necessary for this section; the lake is partially frozen and offers a spectacular photo opportunity amidst the ice."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot a nyugodt Lacs de la Cavettaz felfedezésével, majd tekerjen a népszerű Ilettes tavak felé. Délre eléri a látványos Cascade de l'Arpenaz-t, amely tökéletes egy frissítő pihenőre. A délután kihívást jelentő, de megéri a Plateau d'Assy-ra való emelkedést. Az aktív nap a Notre-Dame templom modern művészetével zárul.",
         "ro": "Începeți ziua de ciclism explorând liniștitele Lacs de la Cavettaz înainte de a pedala spre popularele lacuri Ilettes. Până la prânz, veți ajunge la spectaculoasa cascadă Arpenaz. După-amiaza implică o urcare provocatoare, dar plină de satisfacții, până la Plateau d'Assy. Ziua dumneavoastră activă se încheie cu arta modernă de la Église Notre-Dame.",
         "en": "Start your cycling day exploring the tranquil Lacs de la Cavettaz before rolling towards the popular Ilettes lakes. By midday, you'll reach the spectacular Cascade de l'Arpenaz, perfect for a refreshing break. The afternoon involves a challenging but rewarding climb up to the Plateau d'Assy. Your active day ends with the remarkable modern art of the Église Notre-Dame."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet erfrischend an den Seen, erfordert aber Vorsicht auf nassen Wegen. Mittags bieten die Uferbereiche der Ilettes kleine Unterstände gegen die Schauer. Am Nachmittag wird der Anstieg zum Plateau d'Assy bei Regen sportlich und verlangt gute Bremsen auf der Abfahrt. Der Abend endet nach einer reinigenden Tour durch die feuchte Alpenluft mit einem wohlverdienten Gefühl der Erschöpfung.",
+            "hu": "A kerékpártúra frissítően indul a tavaknál, de óvatosságot igényel a nedves utakon. Délben az Ilettes partján lévő kis beállók nyújtanak védelmet a záporok elől. Délután a Plateau d'Assy-ra vezető emelkedő esőben igazi sportteljesítmény, a lejtőn pedig jó fékek kellenek. Az este a nedves alpesi levegőn végzett tisztító túra után megérdemelt pihenéssel zárul.",
+            "ro": "Turul cu bicicleta începe revigorant la lacuri, dar necesită prudență pe drumurile ude. La prânz, malurile lacurilor Ilettes oferă mici adăposturi împotriva averselor. După-amiaza, urcarea spre Plateau d'Assy pe ploaie devine o provocare sportivă, necesitând frâne bune. Seara se încheie cu o satisfacție deplină după o tură prin aerul curat de munte.",
+            "en": "The bike tour starts refreshingly by the lakes but requires caution on the wet paths. At noon, the shores of Les Ilettes offer small shelters against the showers. In the afternoon, the climb to Plateau d'Assy becomes a true sporting challenge in the rain, requiring reliable brakes. The evening ends with a well-deserved rest after a cleansing ride through the alpine air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lacs de la Cavettaz",
+                "hu": "Lacs de la Cavettaz",
+                "ro": "Lacs de la Cavettaz",
+                "en": "Lacs de la Cavettaz"
+              },
+              "tip_5lang": {
+                "de": "Die Uferwege können schlammig sein; ein Schutzblech am Rad ist bei diesem Wetter sehr empfehlenswert, um trocken zu bleiben.",
+                "hu": "A parti utak sárosak lehetnek; sárvédő használata kifejezetten ajánlott ezen az időben, hogy tisztább és szárazabb maradjon a túra során.",
+                "ro": "Potecile de pe mal pot fi noroioase; o apărătoare la bicicletă este foarte recomandată pe această vreme pentru a rămâne uscat.",
+                "en": "The lakeside paths can be muddy; a mudguard on your bike is highly recommended in this weather to help keep you dry and clean."
+              }
+            },
+            {
+              "name": {
+                "de": "2e Lac des Ilettes",
+                "hu": "2e Lac des Ilettes",
+                "ro": "2e Lac des Ilettes",
+                "en": "2e Lac des Ilettes"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht auf das Wasser ist bei Regen sehr friedlich; achten Sie beim Radfahren auf rutschiges Laub auf den Uferpfaden.",
+                "hu": "A víz látványa esőben nagyon megnyugtató; kerékpározás közben ügyeljen a parti ösvényeken lévő csúszós falevelekre.",
+                "ro": "Vederea apei pe timp de ploaie este foarte liniștitoare; aveți grijă la frunzele alunecoase de pe potecile de pe mal în timp ce pedalați.",
+                "en": "The view of the water is very peaceful in the rain; watch out for slippery leaves on the lakeside paths while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "3e Lac des Ilettes",
+                "hu": "3e Lac des Ilettes",
+                "ro": "3e Lac des Ilettes",
+                "en": "3e Lac des Ilettes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fischerhütten für eine kurze Pause im Trockenen; prüfen Sie Ihre Bremsbeläge vor der Weiterfahrt im Regen.",
+                "hu": "Használja a horgászkunyhókat egy rövid száraz pihenőre; a továbbindulás előtt ellenőrizze a fékbetéteket a nedves körülmények miatt.",
+                "ro": "Folosiți colibele pescarilor pentru o scurtă pauză la uscat; verificați saboții de frână înainte de a continua drumul prin ploaie.",
+                "en": "Utilize the fishing huts for a short break in the dry; check your brake pads before continuing your ride in the wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade de l'Arpenaz",
+                "hu": "Cascade de l'Arpenaz",
+                "ro": "Cascade de l'Arpenaz",
+                "en": "Cascade de l'Arpenaz"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist nach Regenfällen besonders kraftvoll; der Boden in der Nähe ist extrem rutschig, stellen Sie Ihr Rad sicher ab.",
+                "hu": "A vízesés esőzés után különösen erőteljes; a közeli talaj rendkívül csúszós, ezért kerékpárját biztonságos helyen támassza le.",
+                "ro": "Cascada este deosebit de puternică după ploi; solul din apropiere este extrem de alunecos, așa că parcați bicicleta cu mare atenție.",
+                "en": "The waterfall is exceptionally powerful after rainfall; the ground nearby is very slippery, so park your bike securely and carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Plateau d'Assy",
+                "hu": "Plateau d'Assy",
+                "ro": "Plateau d'Assy",
+                "en": "Plateau d'Assy"
+              },
+              "tip_5lang": {
+                "de": "Der lange Anstieg wärmt den Körper auf; tragen Sie oben angekommen sofort eine Windjacke, um bei den kühleren Temperaturen nicht auszukühlen.",
+                "hu": "A hosszú emelkedő alaposan felmelegíti a testet; felérve azonnal vegyen fel szélkabátot, hogy a hűvösebb időben ne fázzon meg.",
+                "ro": "Urcarea lungă vă va încălzi corpul; odată ajunși sus, purtați imediat o jachetă de vânt pentru a nu răci la temperaturile mai scăzute.",
+                "en": "The long climb will warm your body up; once at the top, put on a windbreaker immediately to avoid getting chilled in the cooler air."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Toute-Grâce",
+                "hu": "Église Notre-Dame-de-Toute-Grâce",
+                "ro": "Église Notre-Dame-de-Toute-Grâce",
+                "en": "Église Notre-Dame-de-Toute-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab; die Besichtigung bietet eine perfekte Erholung für die Beine vor der finalen Abfahrt.",
+                "hu": "Támassza le kerékpárját az előtető alatt; a templomlátogatás tökéletes pihenőt nyújt lábainak a végső lejtő megkezdése előtt.",
+                "ro": "Parcați bicicleta sub streșină; vizita oferă o odihnă perfectă pentru picioare înainte de coborârea finală spre vale.",
+                "en": "Park your bike under the overhang; the visit provides a perfect rest for your legs before the final descent back down."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Start an den Seen, wo der Raureif die Wege glitzern lässt. Mittags reflektiert der Schnee das Licht an den Ilettes und schafft eine helle, aber kalte Kulisse. Am Nachmittag erfordert der Anstieg zum Plateau d'Assy Ausdauer und warme Handschuhe für die eisige Abfahrt. Wegen der frühen Dämmerung um 17:00 Uhr ist eine gute Beleuchtung am Fahrrad für die Rückkehr ins Tal unerlässlich.",
+            "hu": "Deres indulás a tavaknál, ahol a zúzmara csillogóvá teszi az utakat. Délben a hó visszaveri a fényt az Ilettes partján, világos, de hideg környezetet teremtve. Délután a Plateau d'Assy-ra vezető emelkedő kitartást, a jeges lejtő pedig meleg kesztyűt igényel. A 17:00 körüli korai sötétedés miatt a völgybe való visszatéréshez elengedhetetlen a jó világítás.",
+            "ro": "Start înghețat la lacuri, unde bruma face potecile să strălucească. La prânz, zăpada reflectă lumina la Ilettes, creând un cadru luminos, dar rece. După-amiaza, urcarea spre Plateau d'Assy necesită rezistență și mănuși groase pentru coborârea înghețată. Din cauza amurgului de la ora 17:00, iluminarea bicicletei este esențială.",
+            "en": "A frosty start by the lakes where rime ice makes the paths glitter. At noon, the snow reflects light at Les Ilettes, creating a bright but cold backdrop. In the afternoon, the climb to Plateau d'Assy requires stamina and warm gloves for the icy descent. Due to early twilight at 5:00 PM, good bike lights are essential for the return to the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lacs de la Cavettaz",
+                "hu": "Lacs de la Cavettaz",
+                "ro": "Lacs de la Cavettaz",
+                "en": "Lacs de la Cavettaz"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können stellenweise vereist sein; reduzieren Sie den Reifendruck leicht für besseren Grip auf dem winterlichen Untergrund.",
+                "hu": "Az utak helyenként jegesek lehetnek; csökkentse kissé a guminyomást a jobb tapadás érdekében a téli útviszonyok között.",
+                "ro": "Potecile pot fi înghețate pe alocuri; reduceți ușor presiunea în anvelope pentru o aderență mai bună pe suprafața de iarnă.",
+                "en": "Paths may be icy in spots; slightly reduce your tire pressure for better grip on the winter ground during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "2e Lac des Ilettes",
+                "hu": "2e Lac des Ilettes",
+                "ro": "2e Lac des Ilettes",
+                "en": "2e Lac des Ilettes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der gefrorenen Natur; halten Sie Ihre Trinkflasche nah am Körper, damit das Wasser während der Fahrt nicht gefriert.",
+                "hu": "Élvezze a fagyos természet csendjét; tartsa a kulacsát a teste közelében, hogy a víz ne fagyjon meg tekerés közben.",
+                "ro": "Bucurați-vă de liniștea naturii înghețate; păstrați bidonul cu apă aproape de corp pentru a preveni înghețarea apei în timpul mersului.",
+                "en": "Enjoy the silence of the frozen nature; keep your water bottle close to your body to prevent the water from freezing while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "3e Lac des Ilettes",
+                "hu": "3e Lac des Ilettes",
+                "ro": "3e Lac des Ilettes",
+                "en": "3e Lac des Ilettes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Spaziergänger auf den schmalen Wegen; die tiefstehende Wintersonne kann beim Fahren stark blenden.",
+                "hu": "Ügyeljen a gyalogosokra a keskeny utakon; az alacsonyan járó téli nap tekerés közben erősen elvakíthatja a kerékpárost.",
+                "ro": "Aveți grijă la pietonii de pe potecile înguste; soarele de iarnă care stă jos pe cer vă poate orbi puternic în timpul mersului.",
+                "en": "Watch out for pedestrians on the narrow paths; the low winter sun can be quite blinding while you are cycling along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascade de l'Arpenaz",
+                "hu": "Cascade de l'Arpenaz",
+                "ro": "Cascade de l'Arpenaz",
+                "en": "Cascade de l'Arpenaz"
+              },
+              "tip_5lang": {
+                "de": "Eiszapfen am Wasserfall bilden beeindruckende Skulpturen; halten Sie Sicherheitsabstand, da herabstürzende Eisstücke eine Gefahr sein können.",
+                "hu": "A vízesésnél kialakuló jégcsapok lenyűgöző alakzatokat öltenek; tartson biztonságos távolságot a lehulló jégdarabok veszélye miatt.",
+                "ro": "Țurțurii de la cascadă formează sculpturi impresionante; păstrați o distanță de siguranță, deoarece bucățile de gheață care cad pot fi periculoase.",
+                "en": "Icicles at the waterfall form impressive sculptures; maintain a safe distance as falling ice chunks can be a significant hazard."
+              }
+            },
+            {
+              "name": {
+                "de": "Plateau d'Assy",
+                "hu": "Plateau d'Assy",
+                "ro": "Plateau d'Assy",
+                "en": "Plateau d'Assy"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraße wird geräumt, kann aber Splitt enthalten; fahren Sie vorsichtig und achten Sie auf winterliche Fahrbahnveränderungen.",
+                "hu": "A hegyi utat takarítják, de zúzott kő maradhat rajta; közlekedjen óvatosan, és figyeljen az útburkolat téli változásaira.",
+                "ro": "Drumul montan este deszăpezit, dar poate conține pietriș; conduceți cu prudență și fiți atenți la schimbările suprafeței de rulare.",
+                "en": "The mountain road is cleared but may contain grit; ride carefully and be alert to changes in the winter road surface conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Toute-Grâce",
+                "hu": "Église Notre-Dame-de-Toute-Grâce",
+                "ro": "Église Notre-Dame-de-Toute-Grâce",
+                "en": "Église Notre-Dame-de-Toute-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Stopp zum Aufwärmen; stellen Sie sicher, dass Ihre Kleidung für die bevorstehende Abfahrt ins kalte Tal wieder trocken ist.",
+                "hu": "Kulturális megálló a felmelegedéshez; győződjön meg róla, hogy ruházata száraz, mielőtt megkezdi a hűvös lejtmenetet a völgybe.",
+                "ro": "O oprire culturală pentru a vă încălzi; asigurați-vă că hainele sunt uscate înainte de a începe coborârea spre valea rece.",
+                "en": "A cultural stop to warm up; ensure your clothing is dry before starting the cold descent back down into the valley."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Szép autós túrája a magasodó Arpenaz vízesésnél kezdődik, majd a nyugodt Ilettes tavakhoz vezet. Délben hegyi út vezet a Plateau d'Assy művészetének megcsodálásához. A Plaine-Joux-ban és a smaragdzöld Lac Vertnél töltött napsütéses délután után délre autózva fejezze be az estét a szépen parkosított Lac des Chavants körül.",
         "ro": "Traseul dvs. pitoresc începe la cascada înaltă Arpenaz, trecând rapid la lacurile liniștite Ilettes. La prânz, veți conduce pe munte pentru a admira arta de la Plateau d'Assy. După o după-amiază însorită la Plaine-Joux și Lac Vert, conduceți spre sud pentru a termina seara plimbându-vă în jurul lacului frumos amenajat Lac des Chavants.",
         "en": "Your scenic drive begins at the towering Cascade de l'Arpenaz, moving swiftly to the serene Ilettes lakes. Midday features a drive up the mountain to admire the art and architecture of Plateau d'Assy and Jardin des Cimes. After a sunny afternoon at Plaine-Joux and the emerald Lac Vert, drive south to finish the evening strolling around the beautifully landscaped Lac des Chavants."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequeme Fahrt im Trockenen zum tosenden Wasserfall am Morgen. Mittags laden die Seen trotz Regen zu kurzen, stimmungsvollen Fotostopps ein. Am Nachmittag bietet die Auffahrt zum Plateau d'Assy spektakuläre Ausblicke auf die wolkenverhangenen Gipfel. Der Abend lässt sich wunderbar bei einer Panoramafahrt durch die beleuchteten Bergdörfer und dem Prasseln des Regens am Autodach genießen.",
+            "hu": "Kényelmes, száraz autózás a reggeli dübörgő vízeséshez. Délben a tavak az eső ellenére is rövid, hangulatos fotómegállókra csábítanak. Délután a Plateau d'Assy-ra vezető út látványos kilátást nyújt a felhőkbe burkolózó csúcsokra. Az este panorámás autózással zárul a kivilágított hegyi falvak között, miközben az eső lágyan kopog a tetőn.",
+            "ro": "Călătorie confortabilă spre cascada tunătoare în cursul dimineții. La prânz, lacurile invită la scurte opriri foto pline de atmosferă, în ciuda ploii. După-amiaza, urcarea spre Plateau d'Assy oferă vederi spectaculoase asupra vârfurilor acoperite de nori. Seara poate fi savurată cu o plimbare panoramică prin satele de munte iluminate.",
+            "en": "A comfortable, dry drive to the roaring waterfall in the morning. At noon, the lakes invite short, atmospheric photo stops despite the rain. In the afternoon, the climb to Plateau d'Assy offers spectacular views of the cloud-covered peaks. The evening can be enjoyed with a scenic drive through the illuminated mountain villages as the rain drums on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cascade de l'Arpenaz",
+                "hu": "Cascade de l'Arpenaz",
+                "ro": "Cascade de l'Arpenaz",
+                "en": "Cascade de l'Arpenaz"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist vom Parkplatz aus fast ohne nass zu werden sichtbar; genießen Sie die Kraft der Natur aus sicherer Entfernung.",
+                "hu": "A vízesés a parkolóból szinte anélkül is látható, hogy megázna; élvezze a természet erejét biztonságos távolságból.",
+                "ro": "Cascada este vizibilă din parcare aproape fără a vă uda; bucurați-vă de forța naturii de la o distanță sigură.",
+                "en": "The waterfall is visible from the parking area almost without getting wet; enjoy nature's power from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "3e Lac des Ilettes",
+                "hu": "3e Lac des Ilettes",
+                "ro": "3e Lac des Ilettes",
+                "en": "3e Lac des Ilettes"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt am See vorhanden; ein kurzer Spaziergang mit dem Schirm offenbart die mystische Stimmung auf dem Wasser.",
+                "hu": "Parkolóhelyek közvetlenül a tó partján találhatók; egy rövid esernyős séta feltárja a víz feletti misztikus hangulatot.",
+                "ro": "Locurile de parcare sunt chiar lângă lac; o scurtă plimbare cu umbrela dezvăluie atmosfera mistică de pe apă.",
+                "en": "Parking spaces are available right by the lake; a short walk with an umbrella reveals the mystical mood over the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Toute-Grâce",
+                "hu": "Église Notre-Dame-de-Toute-Grâce",
+                "ro": "Église Notre-Dame-de-Toute-Grâce",
+                "en": "Église Notre-Dame-de-Toute-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte kulturelle Stopp bei starkem Regen; die Kirche bietet ausreichend trockene Zeit, um die Kunstwerke zu bewundern.",
+                "hu": "Tökéletes kulturális megálló szakadó esőben; a templom bőséges időt kínál a műalkotások szárazon történő megcsodálására.",
+                "ro": "Oprirea culturală perfectă pe timp de ploaie torențială; biserica oferă suficient timp la uscat pentru a admira operele de artă.",
+                "en": "The perfect cultural stop during heavy rain; the church offers plenty of dry time to admire the artworks in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des Cimes",
+                "hu": "Jardin des Cimes",
+                "ro": "Jardin des Cimes",
+                "en": "Jardin des Cimes"
+              },
+              "tip_5lang": {
+                "de": "Die Cafeteria bietet einen tollen Panoramablick ins Tal, während es draußen regnet; nutzen Sie die überdachten Terrassenbereiche.",
+                "hu": "A kávézó kiváló panorámát nyújt a völgyre, miközben kint esik; használja ki a fedett teraszrészeket a kilátáshoz.",
+                "ro": "Cafeneaua oferă o vedere panoramică excelentă spre vale în timp ce plouă afară; profitați de terasele acoperite.",
+                "en": "The cafeteria provides a great panoramic view of the valley while it rains outside; make use of the covered terrace areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Passy Plaine-Joux",
+                "hu": "Passy Plaine-Joux",
+                "ro": "Passy Plaine-Joux",
+                "en": "Passy Plaine-Joux"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Starkregen durch Aquaplaning gefährlich sein; fahren Sie langsam und achten Sie auf kleine Geröllmengen auf der Straße.",
+                "hu": "A felvezető út heves esőben a vízátfolyások miatt veszélyes lehet; vezessen lassan, és figyeljen az úton lévő apró törmelékre.",
+                "ro": "Urcarea poate fi periculoasă în caz de ploaie torențială din cauza acvaplanării; conduceți încet și atenție la resturile de pe drum.",
+                "en": "The drive up can be tricky in heavy rain due to aquaplaning; drive slowly and watch out for small debris on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Vert",
+                "hu": "Lac Vert",
+                "ro": "Lac Vert",
+                "en": "Lac Vert"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem oberen Parkplatz für den kürzesten Weg zum See; die Farben sind bei bewölktem Himmel besonders tiefgrün.",
+                "hu": "Parkoljon a felső parkolóban a tóhoz vezető legrövidebb úthoz; a színek felhős égbolt alatt különösen mélyzöldnek tűnnek.",
+                "ro": "Parcați în parcarea de sus pentru cel mai scurt drum spre lac; culorile sunt de un verde intens sub cerul înnorat.",
+                "en": "Park in the upper lot for the shortest path to the lake; the colors look especially deep green under cloudy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Chavants",
+                "hu": "Lac des Chavants",
+                "ro": "Lac des Chavants",
+                "en": "Lac des Chavants"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss der Tour; genießen Sie den Blick auf den See durch die Windschutzscheibe bei einer Tasse warmem Kaffee.",
+                "hu": "A túra nyugodt lezárása; élvezze a tó látványát a szélvédőn keresztül egy csésze meleg kávé társaságában.",
+                "ro": "Un final relaxat al turului; bucurați-vă de vederea lacului prin parbriz în timp ce savurați o ceașcă de cafea caldă.",
+                "en": "A relaxed end to the tour; enjoy the view of the lake through your windshield with a cup of warm coffee."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour beginnt am beeindruckend vereisten Wasserfall. Mittags bieten die schneebedeckten Seen an den Ilettes eine strahlend weiße Kulisse für kurze Spaziergänge. Am Nachmittag verlangt die Auffahrt zum Plateau d'Assy volle Konzentration und Winterausrüstung am Fahrzeug. Wegen des frühen Sonnenuntergangs um 17:00 Uhr sollte man die Bergstrecken bei Tageslicht beenden und die gemütliche Wärme im Auto genießen.",
+            "hu": "A téli túra a lenyűgözően jeges vízesésnél kezdődik. Délben a hóval borított Ilettes-tavak ragyogó fehér hátteret kínálnak a rövid sétákhoz. Délután a Plateau d'Assy-ra vezető út teljes koncentrációt és téli felszerelést igényel az autón. A korai, 17:00-s naplemente miatt fejezze be a hegyi szakaszokat még világosban, és élvezze az autó melegét.",
+            "ro": "Turul de iarnă începe la cascada înghețată impresionant. La prânz, lacurile înzăpezite de la Ilettes oferă un cadru alb strălucitor pentru plimbări scurte. După-amiaza, urcarea spre Plateau d'Assy necesită concentrare maximă și echipament de iarnă. Din cauza apusului devreme de la ora 17:00, terminați traseele montane pe lumină.",
+            "en": "The winter tour begins at the impressively frozen waterfall. At noon, the snow-covered lakes at Les Ilettes provide a brilliant white backdrop for short strolls. In the afternoon, the drive up to Plateau d'Assy demands full concentration and winter gear for your vehicle. Due to the early sunset at 5:00 PM, finish the mountain sections in daylight and enjoy the car's warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cascade de l'Arpenaz",
+                "hu": "Cascade de l'Arpenaz",
+                "ro": "Cascade de l'Arpenaz",
+                "en": "Cascade de l'Arpenaz"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann vereist sein; nutzen Sie den Parkplatz und gehen Sie vorsichtig das kurze Stück zum gefrorenen Naturschauspiel.",
+                "hu": "A bekötőút jeges lehet; használja a parkolót, és óvatosan tegye meg a rövid utat a fagyott természeti jelenségig.",
+                "ro": "Drumul de acces poate fi înghețat; folosiți parcarea și mergeți cu prudență pe distanța scurtă până la spectacolul naturii înghețate.",
+                "en": "The access road may be icy; use the parking lot and walk carefully the short distance to the frozen natural spectacle."
+              }
+            },
+            {
+              "name": {
+                "de": "3e Lac des Ilettes",
+                "hu": "3e Lac des Ilettes",
+                "ro": "3e Lac des Ilettes",
+                "en": "3e Lac des Ilettes"
+              },
+              "tip_5lang": {
+                "de": "Der See ist oft von einer dicken Schneeschicht bedeckt; bleiben Sie auf den geräumten Wegen, um nicht im tiefen Schnee einzusinken.",
+                "hu": "A tavat gyakran vastag hóréteg borítja; maradjon a letakarított utakon, hogy ne süllyedjen el a mély hóban.",
+                "ro": "Lacul este adesea acoperit de un strat gros de zăpadă; rămâneți pe potecile deszăpezite pentru a nu vă scufunda în zăpada adâncă.",
+                "en": "The lake is often covered by a thick layer of snow; stay on the cleared paths to avoid sinking into the deep drifts."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Toute-Grâce",
+                "hu": "Église Notre-Dame-de-Toute-Grâce",
+                "ro": "Église Notre-Dame-de-Toute-Grâce",
+                "en": "Église Notre-Dame-de-Toute-Grâce"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Kontrast zwischen der bunten Fassade und der weißen Umgebung besonders fotogen; wärmen Sie sich kurz im Inneren auf.",
+                "hu": "Télen a színes homlokzat és a fehér környezet kontrasztja különösen fotogén; használja ki az alkalmat egy rövid benti felmelegedésre.",
+                "ro": "Iarna, contrastul dintre fațada colorată și mediul alb este foarte fotogenic; profitați de ocazie pentru a vă încălzi puțin în interior.",
+                "en": "In winter, the contrast between the colorful facade and the white surroundings is very photogenic; warm up for a bit inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des Cimes",
+                "hu": "Jardin des Cimes",
+                "ro": "Jardin des Cimes",
+                "en": "Jardin des Cimes"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe im Garten ist magisch; tragen Sie feste Stiefel, da die Parkwege nicht immer vollständig schneefrei sind.",
+                "hu": "A kert téli nyugalma varázslatos; viseljen bakancsot, mivel a park ösvényei nem mindig teljesen hómentesek.",
+                "ro": "Liniștea iernii în grădină este magică; purtați ghete solide, deoarece potecile parcului nu sunt întotdeauna complet deszăpezite.",
+                "en": "The winter serenity in the garden is magical; wear sturdy boots as the park paths are not always completely clear of snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Passy Plaine-Joux",
+                "hu": "Passy Plaine-Joux",
+                "ro": "Passy Plaine-Joux",
+                "en": "Passy Plaine-Joux"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Auffahrt den Straßenzustand; Winterreifen und ggf. Schneeketten sind für diese Bergstrecke zwingend erforderlich.",
+                "hu": "Indulás előtt ellenőrizze az útviszonyokat; a téli gumi és szükség esetén a hólánc kötelező ezen a hegyi szakaszon.",
+                "ro": "Verificați starea drumului înainte de a urca; anvelopele de iarnă și, eventual, lanțurile sunt obligatorii pentru acest traseu montan.",
+                "en": "Check road conditions before heading up; winter tires and potentially snow chains are mandatory for this mountain route."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac Vert",
+                "hu": "Lac Vert",
+                "ro": "Lac Vert",
+                "en": "Lac Vert"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum See kann im Winter gesperrt sein; parken Sie in Plaine-Joux und genießen Sie den märchenhaften Spaziergang durch den Schnee.",
+                "hu": "A tóhoz vezető út télen lezárható; parkoljon Plaine-Joux-ban, és élvezze a mesebeli sétát a havas erdőn keresztül.",
+                "ro": "Drumul spre lac poate fi închis iarna; parcați în Plaine-Joux și bucurați-vă de o plimbare de basm prin zăpadă.",
+                "en": "The road to the lake may be closed in winter; park at Plaine-Joux and enjoy a fairytale-like walk through the deep snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Chavants",
+                "hu": "Lac des Chavants",
+                "ro": "Lac des Chavants",
+                "en": "Lac des Chavants"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um den Tag ausklingen zu lassen; die umliegenden Berggipfel glühen bei klarem Wetter im letzten Licht des Tages.",
+                "hu": "Kiváló hely a nap lezárásához; tiszta időben a környező hegycsúcsok csodásan fénylenek a nap utolsó sugaraiban.",
+                "ro": "Un loc minunat pentru a încheia ziua; vârfurile muntoase din jur strălucesc superb în ultima lumină a zilei pe vreme senină.",
+                "en": "A beautiful spot to end your day; the surrounding mountain peaks glow wonderfully in the last light of a clear winter day."
+              }
+            }
+          ]
+        }
       }
     }
   }

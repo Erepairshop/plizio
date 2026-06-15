@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Androsz kulturális szívében, a látványos szabadtéri színháznál, majd merüljön el a Kortárs Művészeti Múzeum világszínvonalú kiállításaiban.\n\nDélben sétáljon le a Paraporti strandra, hogy élvezze a szélfútta partvidék nyers szépségét, és érezze a frissítő tengeri szellőt, miközben a panorámában gyönyörködik.\n\nA délutánt a sziget tengerészeti örökségének szenteljük: fedezze fel a Tengerészeti Múzeum ritka leleteit, majd keljen át a velencei erőd drámai romjaihoz vezető hídon.\n\nAz este közeledtével álljon ki a félsziget peremére, hogy megcsodálja a tengerből kiemelkedő ikonikus Tourlites világítótornyot, és elkészítse a tökéletes naplementés fotót.",
         "ro": "Începeți dimineața explorând inima culturală a insulei Andros, pornind de la spectaculosul teatru în aer liber, înainte de a admira expozițiile de la Muzeul de Artă Contemporană.\n\nLa amiază, plimbați-vă până la plaja Paraporti pentru a savura frumusețea brută a coastei, simțind briza mării în timp ce admirați priveliștile panoramice.\n\nDupă-amiaza este dedicată moștenirii maritime. Descoperiți artefacte nautice rare la Muzeul Maritim înainte de a traversa podul spre ruinele castelului venețian.\n\nPe măsură ce se apropie seara, ajungeți la marginea peninsulei pentru a admira iconicul Far Tourlites și pentru a surprinde fotografia perfectă la apus.",
         "en": "Begin your morning exploring the cultural heart of Andros, starting at the spectacular open-air theatre before immersing yourself in the world-class exhibits at the Museum of Contemporary Art.\n\nAt midday, stroll down to Paraporti beach to enjoy the raw beauty of the windswept coastline, feeling the refreshing sea breeze against your skin as you admire the panoramic views.\n\nYour afternoon is dedicated to the island's maritime legacy, discovering rare nautical artifacts at the Maritime Museum before crossing the bridge to the dramatic Venetian castle ruins.\n\nAs evening approaches, stand at the very edge of the peninsula to admire the iconic Tourlites Lighthouse emerging from the sea, capturing the perfect sunset photograph."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch am Freilichttheater; halten Sie den Regenschirm bereit. Mittags bieten die Museen der Chora perfekten Schutz vor dem Regen. Am Nachmittag führt der Weg zur Burg an der dramatisch aufgewühlten Küste entlang. Der Abend endet am Tourlites, wo die Wellen bei Regen besonders spektakulär gegen die Felsen schlagen.",
+            "hu": "A reggel friss levegővel indul a színháznál, de legyen kéznél az esernyő. Délben a Chora múzeumai nyújtanak tökéletes menedéket az eső elől. Délután a vár felé vezető séta során a viharos Égei-tenger látványában gyönyörködhetünk. Az este a világítótoronynál zárul, ahol a hullámok drámai módon csapkodják a sziklákat.",
+            "ro": "Dimineața începe cu aer curat la teatru; aveți umbrela pregătită. La prânz, muzeele din Chora oferă adăpostul perfect împotriva ploii. După-amiaza, plimbarea spre castel dezvăluie o mare Egee dramatică și agitată. Seara se încheie la farul Tourlites, unde valurile se sparg spectaculos de stânci pe timp de ploaie.",
+            "en": "The morning starts with fresh air at the theater; keep your umbrella ready. At noon, the museums in Chora provide a perfect shelter from the rain. In the afternoon, the walk towards the castle reveals a dramatic and moody Aegean sea. The evening concludes at the lighthouse, where the waves crash spectacularly against the rocks in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freilichttheater von Andros",
+                "hu": "Androsz Szabadtéri Színháza",
+                "ro": "Teatrul în Aer Liber din Andros",
+                "en": "Anoikto Theatro Androu"
+              },
+              "tip_5lang": {
+                "de": "Die Marmorstufen können bei Regen extrem rutschig sein; tragen Sie Schuhe mit gutem Profil und genießen Sie die Akustik kurz.",
+                "hu": "Az esőben a márványlépcsők rendkívül csúszósak lehetnek; viseljen tapadós talpú cipőt és csak rövid ideig élvezze az akusztikát.",
+                "ro": "Treptele de marmură pot fi extrem de alunecoase pe ploaie; purtați încălțăminte cu aderență și bucurați-vă scurt de acustică.",
+                "en": "The marble steps can be extremely slippery in the rain; wear shoes with good grip and enjoy the acoustics briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst",
+                "hu": "Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană",
+                "en": "Museum of Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den starken Regen abzuwarten; nutzen Sie die Garderobe für nasse Mäntel und lassen Sie sich Zeit.",
+                "hu": "Ideális helyszín a szakadó eső kivárására; használja a ruhatárat a vizes kabátoknak és szánjon időt a tárlatra.",
+                "ro": "Un loc ideal pentru a aștepta trecerea ploii; folosiți garderoba pentru hainele ude și acordați-vă timp pentru vizitare.",
+                "en": "An ideal spot to wait out heavy rain; use the cloakroom for wet coats and take your time exploring the galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Paraporti",
+                "hu": "Paraporti",
+                "ro": "Paraporti",
+                "en": "Paraporti"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fest, aber halten Sie Abstand zur Brandung, da die Wellen unvorhersehbar weit auflaufen können.",
+                "hu": "Az esőben a homok keményebb, de tartson távolságot a parttól, mert a hullámok váratlanul messzire kifuthatnak.",
+                "ro": "Nisipul este mai tare pe ploaie, dar păstrați distanța față de apă, deoarece valurile pot ajunge neașteptat de departe.",
+                "en": "The sand is firmer in the rain, but keep a safe distance from the shoreline as waves can reach unexpectedly far up."
+              }
+            },
+            {
+              "name": {
+                "de": "Schifffahrtsmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Martime museum"
+              },
+              "tip_5lang": {
+                "de": "Die maritime Geschichte passt perfekt zum regnerischen Wetter; besichtigen Sie die Modelle im trockenen Innenraum des Museums.",
+                "hu": "A tengerészeti múlt tökéletesen illik az esős időhöz; nézze meg a hajómodelleket a múzeum száraz belső tereiben.",
+                "ro": "Istoria maritimă se potrivește perfect cu vremea ploioasă; vizitați machetele de nave în interiorul uscat al muzeului.",
+                "en": "The maritime history matches the rainy weather perfectly; view the detailed ship models in the dry interior of the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Burg von Andros",
+                "hu": "Androsz Alsó Erődje",
+                "ro": "Castelul de Jos din Andros",
+                "en": "Lower Castle of Andros"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine der Burgruine sind bei Nässe tückisch; bleiben Sie auf den befestigten Pfaden und nutzen Sie festes Schuhwerk.",
+                "hu": "A várrom régi kövei vizesen csalókák; maradjon a kijelölt ösvényeken és viseljen stabil, zárt lábbelit a csúszásveszély miatt.",
+                "ro": "Pietrele vechi ale ruinelor sunt înșelătoare când sunt ude; rămâneți pe potecile stabilite și purtați încălțăminte solidă.",
+                "en": "The old stones of the castle ruins are treacherous when wet; stay on the designated paths and wear sturdy footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourlites Leuchtturm",
+                "hu": "Tourlites Világítótorony",
+                "ro": "Farul Tourlites",
+                "en": "Pharos Tourlites"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick vom Ufer aus; bei Regen und Wind ist der Gischtnebel besonders dicht und sorgt für tolle Fotos.",
+                "hu": "Élvezze a látványt a partról; esőben és szélben a vízpermet különösen sűrű, ami drámai fotótémát szolgáltat.",
+                "ro": "Bucurați-vă de priveliște de pe mal; pe ploaie și vânt, ceața de aerosoli este densă, oferind cadre foto dramatice.",
+                "en": "Enjoy the view from the shore; in rain and wind, the sea spray is particularly thick, creating dramatic photo opportunities."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Theater ist kühl und ruhig. Mittags wärmen die Museen den Geist, während draußen der Wind weht. Der Nachmittag bietet goldenes Licht an der Burg, ideal vor dem frühen Sonnenuntergang um 17:00 Uhr. Den Abend lassen wir am Leuchtturm ausklingen, wenn die Dämmerung die Chora in sanftes Blau taucht.",
+            "hu": "A téli reggel a színháznál hűvös és csendes. Délben a múzeumok melegítik fel a lelket, miközben kint fúj a szél. A délután aranyló fényeket kínál a várnál, tökéletes az 5 órai naplemente előtt. Az estét a világítótoronynál zárjuk, amikor a szürkület lágy kékbe vonja a várost.",
+            "ro": "Dimineața de iarnă la teatru este răcoroasă și liniștită. La prânz, muzeele vă încălzesc, în timp ce afară bate vântul. După-amiaza oferă o lumină aurie la castel, ideală înainte de apusul devreme de la ora 17:00. Seara se încheie la far, când amurgul îmbracă Chora în albastru moale.",
+            "en": "The winter morning at the theater is cool and quiet. At noon, the museums warm the soul while the wind blows outside. The afternoon offers golden light at the castle, perfect before the early 5 PM sunset. We end the evening at the lighthouse as dusk wraps the town in soft blue tones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freilichttheater von Andros",
+                "hu": "Androsz Szabadtéri Színháza",
+                "ro": "Teatrul în Aer Liber din Andros",
+                "en": "Anoikto Theatro Androu"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, da das Theater exponiert liegt; die klare Winterluft bietet jedoch eine weite Sicht über das Tal.",
+                "hu": "Viseljen szélálló ruházatot, mert a színház kitett helyen van; a tiszta téli levegő viszont messzire enged látni a völgyben.",
+                "ro": "Purtați haine rezistente la vânt, deoarece teatrul este expus; aerul curat de iarnă oferă însă o vizibilitate mare spre vale.",
+                "en": "Wear windproof clothing as the theater is exposed; however, the crisp winter air offers far-reaching views across the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst",
+                "hu": "Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană",
+                "en": "Museum of Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Winter ohne Touristenmassen; die Ausstellungsräume sind gut temperiert und laden zum langen Verweilen ein.",
+                "hu": "Élvezze a téli nyugalmat tömeg nélkül; a kiállítóterek kellemesen fűtöttek, így hosszan elidőzhet a műalkotások között.",
+                "ro": "Bucurați-vă de liniștea iernii fără mulțimi; sălile de expoziție sunt bine încălzite, invitându-vă la o vizită prelungită.",
+                "en": "Enjoy the winter tranquility without the crowds; the exhibition halls are well-heated, making it easy to stay for a long visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Paraporti",
+                "hu": "Paraporti",
+                "ro": "Paraporti",
+                "en": "Paraporti"
+              },
+              "tip_5lang": {
+                "de": "Ein Winterspaziergang am leeren Strand ist erholsam; achten Sie auf die kühle Brise vom Meer und ziehen Sie sich in Schichten an.",
+                "hu": "A téli séta az üres strandon pihentető; ügyeljen a tenger felől érkező hűvös szélre, és öltözzön rétegesen a kényelemért.",
+                "ro": "O plimbare de iarnă pe plaja goală este relaxantă; atenție la briza rece dinspre mare și îmbrăcați-vă în straturi groase.",
+                "en": "A winter walk on the empty beach is refreshing; watch out for the cool sea breeze and dress in layers for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Schifffahrtsmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Martime museum"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Museumsmitarbeiter oft für Gespräche offen; nutzen Sie die ruhige Atmosphäre, um mehr über Andros zu erfahren.",
+                "hu": "Télen a múzeumi dolgozók gyakran nyitottabbak a beszélgetésre; használja ki a nyugodt légkört, hogy többet tudjon meg Androszról.",
+                "ro": "Iarna, personalul muzeului este adesea mai deschis la discuții; profitați de atmosfera calmă pentru a afla mai multe despre Andros.",
+                "en": "In winter, museum staff are often more open to chats; use the quiet atmosphere to learn more about the island's history."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Burg von Andros",
+                "hu": "Androsz Alsó Erődje",
+                "ro": "Castelul de Jos din Andros",
+                "en": "Lower Castle of Andros"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt im Winterlicht besonders majestätisch; besuchen Sie sie vor 16:30 Uhr, um das letzte Tageslicht auf den Ruinen zu sehen.",
+                "hu": "A vár a téli fényben különösen fenséges; látogasson el ide 16:30 előtt, hogy lássa az utolsó napsugarakat a romokon.",
+                "ro": "Castelul pare deosebit de maiestuos în lumina iernii; vizitați-l înainte de 16:30 pentru a vedea ultima lumină pe ruine.",
+                "en": "The castle looks particularly majestic in the winter light; visit before 4:30 PM to catch the last daylight on the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourlites Leuchtturm",
+                "hu": "Tourlites Világítótorony",
+                "ro": "Farul Tourlites",
+                "en": "Pharos Tourlites"
+              },
+              "tip_5lang": {
+                "de": "Die Winterdämmerung am Leuchtturm ist magisch; bringen Sie eine Taschenlampe für den Rückweg durch die Gassen der Chora mit.",
+                "hu": "A téli szürkület a világítótoronynál varázslatos; vigyen magával zseblámpát a Chora szűk utcáin való esti visszatéréshez.",
+                "ro": "Amurgul de iarnă la far este magic; aduceți o lanternă pentru drumul de întoarcere prin străduțele înguste din Chora.",
+                "en": "The winter dusk at the lighthouse is magical; bring a flashlight for the walk back through the narrow alleys of Chora."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros kalandja a modern művészet felfedezésével kezdődik a híres múzeumban, mielőtt megismerkedne a sziget tengerészeti múltjával.\n\nDélben elérkezik a Chora történelmi csücskére, ahol felfedezheti az Alsó Erőd romjait, és rápillanthat a sziklára épült, látványos Tourlites világítótoronyra.\n\nDélután észak felé teker, a csendes partvidék irányába. Maga mögött hagyja a nyüzsgő várost, hogy élvezze a Gualia strand kavicsos, nyugtató hangulatát.\n\nZárja az aktív napot az érintetlen Piso Gualia öbölben, és élvezze a békés esti úszást a kristálytiszta vízben, miközben a nap lassan lebukik a horizonton.",
         "ro": "Aventura pe bicicletă începe la Muzeul de Artă Contemporană, admirând colecțiile înainte de a pătrunde în trecutul naval al insulei la muzeul maritim.\n\nLa amiază, ajungeți la capătul istoric al orașului Chora, explorând ruinele castelului și admirând spectaculosul Far Tourlites cocoțat pe o stâncă.\n\nDupă-amiaza, pedalați spre nord, spre coasta liniștită, lăsând în urmă orașul vibrant pentru ambianța relaxantă și pietricelele fine ale plajei Gualia.\n\nÎncheiați ziua activă la golful retras Piso Gualia, bucurându-vă de o baie liniștită de seară în apele limpezi, în timp ce soarele apune.",
         "en": "Your cycling adventure starts with a deep dive into modern art, taking in the exquisite contemporary collections at the renowned museum before learning about the island's naval past.\n\nMidday brings you to the historic tip of Chora, where you will explore the weathered ruins of the Lower Castle and gaze out at the spectacular Tourlites Lighthouse perched on a rock.\n\nIn the afternoon, pedal north towards the tranquil coastline, leaving the vibrant town behind for the relaxing ambiance and smooth pebbles of Gualia beach.\n\nConclude your active day by cycling to the pristine and secluded Piso Gualia cove, enjoying a peaceful evening swim in the crystal-clear waters as the sun begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster. Starten Sie bei den Museen, um trocken zu bleiben. Mittags bietet die Fahrt zum Hafen eine Erfrischung, sofern Sie gute Regenkleidung tragen. Der Nachmittag an der Burg ist windig, aber die Aussicht auf die stürmische See belohnt die Anstrengung. Abends geht es zurück durch die nassen Gassen.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a csúszós macskakövön. Kezdjen a múzeumoknál, hogy száraz maradjon. Délben a kikötő felé tartó út frissítő, ha jó az esőruhája. A délután a várnál szeles, de a viharos tenger látványa kárpótol. Este a vizes utcákon keresztül térünk vissza a szállásunkra.",
+            "ro": "Mersul cu bicicleta pe ploaie necesită atenție pe pavajul alunecos. Începeți la muzee pentru a rămâne uscați. La prânz, drumul spre port este revigorant dacă aveți haine de ploaie bune. După-amiaza la castel este vântoasă, dar vederea mării agitate merită efortul. Seara revenim prin străzile ude.",
+            "en": "Cycling in the rain requires caution on the slippery cobblestones. Start at the museums to stay dry. At noon, the ride towards the port is refreshing if you have good rain gear. The afternoon at the castle is windy, but the view of the stormy sea rewards the effort. Evening returns through the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst",
+                "hu": "Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană",
+                "en": "Museum of Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die Kunst, während draußen der Regen auf die Dächer prasselt.",
+                "hu": "Parkolja le a biciklit fedett helyen, és élvezze a művészetet, miközben kint az eső kopog a háztetőkön.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de artă în timp ce afară ploaia bate în acoperișuri.",
+                "en": "Park your bike in a sheltered spot and enjoy the art while the rain drums on the roofs outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schifffahrtsmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Martime museum"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zwischen den Museen hält Sie fit; nutzen Sie die Zeit drinnen, um Ihre Ausrüstung kurz zu trocknen.",
+                "hu": "Egy rövid sprint a múzeumok között fitten tart; használja ki a bent töltött időt a felszerelése megszárítására.",
+                "ro": "Un sprint scurt între muzee vă menține în formă; folosiți timpul petrecut în interior pentru a vă usca echipamentul.",
+                "en": "A short sprint between museums keeps you fit; use the time inside to briefly dry off your cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Burg von Andros",
+                "hu": "Androsz Alsó Erődje",
+                "ro": "Castelul de Jos din Andros",
+                "en": "Lower Castle of Andros"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf nassen Steinen nahe der Burg; die salzige Gischt kann die Bremswirkung kurzzeitig beeinflussen.",
+                "hu": "Vigyázzon a fékezéssel a vizes köveken a vár közelében; a sós vízpermet átmenetileg befolyásolhatja a fékek hatékonyságát.",
+                "ro": "Atenție la frânare pe pietrele ude de lângă castel; aerosolii sărați pot afecta temporar eficiența frânelor.",
+                "en": "Be careful when braking on wet stones near the castle; salt spray can briefly affect your braking performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourlites Leuchtturm",
+                "hu": "Tourlites Világítótorony",
+                "ro": "Farul Tourlites",
+                "en": "Pharos Tourlites"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab, da Windböen am Ufer stark sein können; der Leuchtturm wirkt im Regen besonders mystisch.",
+                "hu": "Biztonságosan támassza le a biciklit, mert a széllökések erősek lehetnek a parton; a torony esőben különösen misztikus.",
+                "ro": "Sprijiniți bicicleta în siguranță, deoarece rafalele de vânt pot fi puternice; farul pare deosebit de mistic pe ploaie.",
+                "en": "Secure your bike firmly as wind gusts can be strong on the shore; the lighthouse looks especially mystical in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gualia",
+                "hu": "Gualia",
+                "ro": "Gualia",
+                "en": "Gualia"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum Strand kann bei Regen schlammig sein; fahren Sie langsam und achten Sie auf Pfützen in den Kurven.",
+                "hu": "A strandra vezető út esőben saras lehet; haladjon lassan és ügyeljen a kanyarokban lévő tócsákra.",
+                "ro": "Drumul spre plajă poate fi noroios pe ploaie; mergeți încet și aveți grijă la bălțile din curbe.",
+                "en": "The road to the beach can be muddy in the rain; ride slowly and watch out for deep puddles in the bends."
+              }
+            },
+            {
+              "name": {
+                "de": "Piso Gualia",
+                "hu": "Piso Gualia",
+                "ro": "Piso Gualia",
+                "en": "Piso Gualia"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Stopp für ein Foto; die menschenleere Bucht im Regen hat eine ganz eigene, melancholische Schönheit.",
+                "hu": "Egy rövid, vizes megálló fotózáshoz; az esőben elnéptelenedett öbölnek sajátos, melankolikus szépsége van.",
+                "ro": "O oprire scurtă și udă pentru o fotografie; golful pustiu pe ploaie are o frumusețe melancolică aparte.",
+                "en": "A short, wet stop for a photo; the deserted bay in the rain has its own unique, melancholic beauty."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Morgenbrisen machen die Fahrt zu den Museen belebend. Mittags genießen Sie die leeren Straßen der Chora auf zwei Rädern. Der Nachmittag an der Burg bietet klare Sicht, aber ziehen Sie sich warm an gegen den Fahrtwind. Der Tag endet früh an den Stränden von Gualia, bevor die Kälte der Winternacht ab 17:00 Uhr spürbar wird.",
+            "hu": "A hűvös reggeli szellő élénkítővé teszi az utat a múzeumok felé. Délben élvezze Chora üres utcáit két keréken. A délután a várnál tiszta kilátást nyújt, de öltözzön melegen a menetszél ellen. A nap korán ér véget Gualia strandjainál, mielőtt 5 óra után beállna a téli éjszaka hidege.",
+            "ro": "Briza răcoroasă de dimineață face drumul spre muzee revigorant. La prânz, bucurați-vă de străzile pustii din Chora pe două roți. După-amiaza la castel oferă o vedere clară, dar îmbrăcați-vă bine împotriva vântului. Ziua se încheie devreme la plajele Gualia, înainte ca frigul nopții să se simtă după ora 17:00.",
+            "en": "Cool morning breezes make the ride to the museums invigorating. At noon, enjoy the empty streets of Chora on two wheels. The afternoon at the castle offers clear views, but dress warmly against the wind. The day ends early at Gualia beaches before the winter night's cold sets in after 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst",
+                "hu": "Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană",
+                "en": "Museum of Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; Ihre Muskeln werden es Ihnen vor der Weiterfahrt danken.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetnek; az izmai hálásak lesznek érte a továbbindulás előtt.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; mușchii vă vor mulțumi înainte de a pleca mai departe.",
+                "en": "Use the museum visit as a warm-up break; your muscles will thank you before you continue your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Schifffahrtsmuseum",
+                "hu": "Tengerészeti Múzeum",
+                "ro": "Muzeul Maritim",
+                "en": "Martime museum"
+              },
+              "tip_5lang": {
+                "de": "Die kurze Distanz zum nächsten Stopp hält den Kreislauf in Schwung; tragen Sie Handschuhe gegen die kalten Griffe.",
+                "hu": "A következő megállóig tartó rövid táv mozgásban tartja a keringést; viseljen kesztyűt a hideg kormányfogantyúk ellen.",
+                "ro": "Distanța scurtă până la următoarea oprire menține circulația activă; purtați mănuși împotriva ghidonului rece.",
+                "en": "The short distance to the next stop keeps your circulation going; wear gloves against the cold handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Burg von Andros",
+                "hu": "Androsz Alsó Erődje",
+                "ro": "Castelul de Jos din Andros",
+                "en": "Lower Castle of Andros"
+              },
+              "tip_5lang": {
+                "de": "Binden Sie Ihr Rad fest an, da Winterstürme plötzlich aufkommen können; genießen Sie die Einsamkeit der Ruinen.",
+                "hu": "Kösse ki stabilan a biciklit, mert a téli viharok hirtelen támadhatnak; élvezze a romok közötti magányt.",
+                "ro": "Legați bine bicicleta, deoarece furtunile de iarnă pot apărea brusc; bucurați-vă de singurătatea ruinelor.",
+                "en": "Lock your bike securely as winter storms can pick up suddenly; enjoy the solitude among the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourlites Leuchtturm",
+                "hu": "Tourlites Világítótorony",
+                "ro": "Farul Tourlites",
+                "en": "Pharos Tourlites"
+              },
+              "tip_5lang": {
+                "de": "Der Fotostopp am Leuchtturm ist im Winter kurz, aber intensiv; die Lichtverhältnisse sind am frühen Nachmittag am besten.",
+                "hu": "A fotómegálló a toronynál télen rövid, de intenzív; a fényviszonyok kora délután a legjobbak a fényképezéshez.",
+                "ro": "Oprirea foto la far este scurtă dar intensă iarna; condițiile de lumină sunt cele mai bune la începutul după-amiezii.",
+                "en": "The photo stop at the lighthouse is short but intense in winter; lighting conditions are best in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Gualia",
+                "hu": "Gualia",
+                "ro": "Gualia",
+                "en": "Gualia"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zum Strand ist im Winter kühl; achten Sie auf loses Geröll auf der Straße und fahren Sie vorausschauend.",
+                "hu": "A tengerparti lejtő télen hűvös; ügyeljen az úton lévő laza törmelékre, és vezessen előrelátóan a biztonságért.",
+                "ro": "Coborârea spre plajă este răcoroasă iarna; atenție la pietrișul de pe drum și conduceți preventiv.",
+                "en": "The descent to the beach is chilly in winter; watch out for loose debris on the road and ride defensively."
+              }
+            },
+            {
+              "name": {
+                "de": "Piso Gualia",
+                "hu": "Piso Gualia",
+                "ro": "Piso Gualia",
+                "en": "Piso Gualia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier rechtzeitig; der Rückweg im Dunkeln bei sinkenden Temperaturen sollte vermieden werden.",
+                "hu": "Fejezze be túráját időben; a sötétben, csökkenő hőmérséklet mellett való visszautat érdemes elkerülni.",
+                "ro": "Încheiați turul la timp; întoarcerea pe întuneric la temperaturi în scădere ar trebui evitată.",
+                "en": "Finish your tour here in good time; avoid riding back in the dark as temperatures drop significantly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós túráját a zöldellő belső területeken, és csodálja meg a történelmi Bistis-Mouvelas tornyot, a sziget középkori védelmi építészetének szimbólumát.\n\nDélben hajtson le az északi partokra, és élvezze a Piso Gualia és a Gualia strandok derűs szépségét, amelyek tökéletesek egy frissítő tengeri csobbanásra.\n\nDélután térjen vissza az elegáns Chorába, és tekintse meg a Kortárs Művészeti Múzeum remekműveit, majd fedezze fel az Alsó Erőd hangulatos romjait.\n\nZárja a napot a Tourlites világítótorony magányos sziklájának látványával; a varázslatos panoráma tökéletesen megragadja Androsz egyedi szellemét és atmoszféráját.",
         "ro": "Începeți călătoria cu mașina spre interiorul verde pentru a admira Turnul istoric Bistis-Mouvelas, un simbol uimitor al arhitecturii defensive medievale a insulei.\n\nPână la amiază, conduceți spre țărmurile nordice pentru a experimenta frumusețea plajelor Piso Gualia și Gualia, locuri perfecte pentru a vă relaxa la malul mării.\n\nÎntoarceți-vă în eleganta Chora după-amiaza pentru a admira capodoperele de la Muzeul de Artă Contemporană și pentru a explora ruinele fascinante ale castelului.\n\nTerminați turul admirând valurile care se sparg de stânca solitară a Farului Tourlites, o priveliște magică ce surprinde perfect spiritul insulei Andros.",
         "en": "Kick off your road trip by driving to the verdant interior to marvel at the historic Bistis-Mouvelas Tower, a towering reminder of the island's medieval defensive architecture.\n\nBy midday, drive down to the northern shores to experience the serene beauty of Piso Gualia and Gualia beaches, perfect spots to relax and dip your toes in the Aegean waters.\n\nHead back into the elegant Chora in the afternoon to admire the masterpieces at the Museum of Contemporary Art and explore the atmospheric ruins of the Lower Castle.\n\nFinish your driving tour by watching the waves crash against the solitary rock of the Tourlites Lighthouse, a magical sight that perfectly captures the spirit of Andros."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Andros auch bei Regen komfortabel. Beginnen Sie am Bistis-Turm und genießen Sie die Aussicht aus dem trockenen Wagen. Mittags führen Küstenstraßen zu den Stränden, wo die raue See ein Schauspiel bietet. Der Nachmittag gehört den Museen der Chora, bevor Sie abends den Leuchtturm im Schutz des Regenschirms besuchen.",
+            "hu": "Autóval kényelmesen felfedezheti Androszt esőben is. Kezdjen a Bistis-toronynál, élvezve a kilátást a száraz utastérből. Délben a tengerparti utak a strandokhoz vezetnek, ahol a háborgó tenger látványt nyújt. A délután a múzeumoké, este pedig látogasson el a világítótoronyhoz esernyővel.",
+            "ro": "Cu mașina puteți explora Andros confortabil chiar și pe ploaie. Începeți la turnul Bistis și bucurați-vă de vedere din interiorul uscat. La prânz, drumurile de coastă duc spre plaje, unde marea agitată oferă un spectacol. După-amiaza aparține muzeelor, iar seara vizitați farul cu umbrela.",
+            "en": "By car, you can explore Andros comfortably even in the rain. Start at the Bistis Tower and enjoy the view from the dry cabin. At noon, coastal roads lead to the beaches where the rough sea puts on a show. The afternoon belongs to the museums, and in the evening, visit the lighthouse with an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bistis-Mouvelas Turm",
+                "hu": "Bistis-Mouvelas Torony",
+                "ro": "Turnul Bistis-Mouvelas",
+                "en": "Bistis-Mouvelas Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten sind nah am Turm; ideal, um bei einem plötzlichen Schauer schnell wieder ins Trockene zu kommen.",
+                "hu": "A parkolási lehetőség közel van a toronyhoz; ideális, hogy egy hirtelen zápor esetén gyorsan visszaérjen a száraz autóba.",
+                "ro": "Locurile de parcare sunt aproape de turn; ideal pentru a reveni rapid la uscat în cazul unei averse bruște.",
+                "en": "Parking is available close to the tower; ideal for returning quickly to the dry car if a sudden shower starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Piso Gualia",
+                "hu": "Piso Gualia",
+                "ro": "Piso Gualia",
+                "en": "Piso Gualia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht vom Fenster aus; die Straße kann rutschig sein, fahren Sie vorsichtig in den Serpentinen.",
+                "hu": "Élvezze a kilátást az ablakból; az út csúszós lehet, ezért óvatosan vezessen a szerpentineken lefelé.",
+                "ro": "Bucurați-vă de priveliște de la fereastră; drumul poate fi alunecos, așa că conduceți cu grijă pe serpentine.",
+                "en": "Enjoy the view from the window; the road can be slippery, so drive carefully on the switchbacks down to the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Gualia",
+                "hu": "Gualia",
+                "ro": "Gualia",
+                "en": "Gualia"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen schnellen Fotostopp; lassen Sie den Motor kurz laufen, um die Scheiben vor dem Beschlagen zu schützen.",
+                "hu": "Tökéletes egy gyors fotómegállóhoz; járassa kicsit a motort, hogy megvédje a szélvédőt a párásodástól az esőben.",
+                "ro": "Perfect pentru o oprire foto rapidă; lăsați motorul pornit puțin pentru a preveni aburirea parbrizului pe ploaie.",
+                "en": "Perfect for a quick photo stop; keep the engine running briefly to help defog the windshield during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst",
+                "hu": "Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană",
+                "en": "Museum of Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Stadtzentrums; so minimieren Sie den Fußweg im Regen bis zum Museumseingang.",
+                "hu": "Parkoljon a városközponthoz közel; így minimalizálhatja az esőben megtett utat a múzeum bejáratáig.",
+                "ro": "Parcați aproape de centrul orașului; astfel minimizați distanța parcursă pe jos prin ploaie până la intrarea în muzeu.",
+                "en": "Park close to the town center; this minimizes the walk in the rain to the museum's entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Burg von Andros",
+                "hu": "Androsz Alsó Erődje",
+                "ro": "Castelul de Jos din Andros",
+                "en": "Lower Castle of Andros"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Wind und Regen bietet die Mole kaum Schutz; bleiben Sie nah an den Gebäuden der Chora für Windschatten.",
+                "hu": "Erős szélben és esőben a móló alig nyújt védelmet; maradjon közel a Chora épületeihez a szélárnyékért.",
+                "ro": "Pe vânt puternic și ploaie, debarcaderul oferă puțin adăpost; rămâneți aproape de clădirile din Chora pentru protecție.",
+                "en": "In strong wind and rain, the pier offers little protection; stay close to the buildings of Chora for windbreak."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourlites Leuchtturm",
+                "hu": "Tourlites Világítótorony",
+                "ro": "Farul Tourlites",
+                "en": "Pharos Tourlites"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Rand der Chora und gehen Sie das letzte Stück; der Leuchtturm ist im Regen ein unvergessliches Motiv.",
+                "hu": "Parkoljon Chora szélén, és tegye meg gyalog az utolsó szakaszt; a torony esőben felejthetetlen fotótéma.",
+                "ro": "Parcați la marginea orașului Chora și mergeți pe jos ultima porțiune; farul este un subiect foto de neuitat pe ploaie.",
+                "en": "Park at the edge of Chora and walk the final stretch; the lighthouse is an unforgettable photo subject in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Bistis-Turm bietet weite Sichten ohne die Hitze des Sommers. Mittags führen einsame Straßen zu den Gualia-Stränden, wo Sie die Stille genießen. Der Nachmittag in der Chora ist perfekt für die Museen, wenn es draußen kühler wird. Beenden Sie den Tag am Leuchtturm gegen 17:00 Uhr, wenn die Wintersonne schnell versinkt.",
+            "hu": "A téli reggel a Bistis-toronynál távoli kilátást kínál a nyári hőség nélkül. Délben elhagyatott utak vezetnek a Gualia strandokhoz, ahol élvezheti a csendet. A délután a múzeumoké, amikor kint hűvösebbre fordul az idő. Zárja a napot a világítótoronynál 5 óra körül, amikor a téli nap gyorsan lebukik.",
+            "ro": "Dimineața de iarnă la turnul Bistis oferă vederi îndepărtate fără căldura verii. La prânz, drumuri pustii duc spre plajele Gualia, unde vă bucurați de liniște. După-amiaza este pentru muzee, când afară se face mai răcoare. Încheiați ziua la far în jurul orei 17:00, când soarele de iarnă apune rapid.",
+            "en": "A winter morning at the Bistis Tower offers far-reaching views without summer's heat. At noon, lonely roads lead to Gualia beaches where you can enjoy the silence. The afternoon is for museums as it gets cooler outside. End the day at the lighthouse around 5 PM as the winter sun sets quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bistis-Mouvelas Turm",
+                "hu": "Bistis-Mouvelas Torony",
+                "ro": "Turnul Bistis-Mouvelas",
+                "en": "Bistis-Mouvelas Tower"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Fotos mit unglaublicher Tiefenschärfe; bringen Sie ein Stativ für das sanfte Morgenlicht mit.",
+                "hu": "A tiszta téli levegő hihetetlen mélységélességet tesz lehetővé; hozzon állványt a lágy reggeli fények fotózásához.",
+                "ro": "Aerul curat de iarnă permite fotografii cu o claritate incredibilă; aduceți un trepied pentru lumina blândă a dimineții.",
+                "en": "The clear winter air allows for photos with incredible depth; bring a tripod for the soft morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Piso Gualia",
+                "hu": "Piso Gualia",
+                "ro": "Piso Gualia",
+                "en": "Piso Gualia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den menschenleeren Strand; im Winter können Sie oft direkt am Zugang parken, was im Sommer unmöglich ist.",
+                "hu": "Élvezze a néptelen strandot; télen gyakran közvetlenül a lejárónál parkolhat, ami nyáron szinte lehetetlen.",
+                "ro": "Bucurați-vă de plaja pustie; iarna puteți parca adesea direct la intrare, ceea ce este imposibil vara.",
+                "en": "Enjoy the deserted beach; in winter, you can often park right at the entrance, which is impossible in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Gualia",
+                "hu": "Gualia",
+                "ro": "Gualia",
+                "en": "Gualia"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht im Winter tief und glitzert spektakulär auf dem Wasser; ideal für Landschaftsaufnahmen vom Parkplatz aus.",
+                "hu": "A nap télen alacsonyan jár, és látványosan csillog a vízen; ideális tájképekhez közvetlenül a parkolóból.",
+                "ro": "Soarele este jos iarna și sclipește spectaculos pe apă; ideal pentru fotografii de peisaj direct din parcare.",
+                "en": "The sun is low in winter and glitters spectacularly on the water; ideal for landscape shots right from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für zeitgenössische Kunst",
+                "hu": "Kortárs Művészeti Múzeum",
+                "ro": "Muzeul de Artă Contemporană",
+                "en": "Museum of Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Die Klimatisierung sorgt im Winter für wohlige Wärme; nutzen Sie die Zeit, um die anspruchsvollen Werke in Ruhe zu studieren.",
+                "hu": "A légkondicionálás télen kellemes meleget biztosít; használja ki az időt a művek alapos és nyugodt tanulmányozására.",
+                "ro": "Sistemul de climatizare asigură o căldură plăcută iarna; profitați de timp pentru a studia operele în liniște.",
+                "en": "The climate control provides cozy warmth in winter; take your time to study the complex artworks in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Untere Burg von Andros",
+                "hu": "Androsz Alsó Erődje",
+                "ro": "Castelul de Jos din Andros",
+                "en": "Lower Castle of Andros"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an der Burgruine ist im Winter schneidend; tragen Sie eine Mütze und Handschuhe für den kurzen Rundgang.",
+                "hu": "A szél a várromnál télen metsző lehet; viseljen sapkát és kesztyűt a rövid, de látványos sétához a kövek között.",
+                "ro": "Vântul la ruinele castelului este tăios iarna; purtați căciulă și mănuși pentru scurta plimbare printre pietre.",
+                "en": "The wind at the castle ruins is biting in winter; wear a hat and gloves for the short walk among the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourlites Leuchtturm",
+                "hu": "Tourlites Világítótorony",
+                "ro": "Farul Tourlites",
+                "en": "Pharos Tourlites"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der blauen Stunde ist im Winter besonders intensiv; beenden Sie hier Ihren Tag pünktlich zum Sonnenuntergang.",
+                "hu": "A kék óra fényei télen különösen intenzívek; fejezze be itt a napot pontosan a naplemente idején.",
+                "ro": "Lumina orei albastre este deosebit de intensă iarna; încheiați ziua aici exact la ora apusului.",
+                "en": "The blue hour light is particularly intense in winter; end your day here right at the moment of sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje gyalogos kalandját a csendes kápolnánál, átölelve Comino békés reggeli hangulatát, még mielőtt a nagy hőség beköszöntene.\n\nÉrkezzen meg a híres Kék Lagúnához, csodálja meg színeit, majd tegyen egy festői sétát az impozáns Saint Mary torony felé.\n\nFolytassa parti túráját a történelmi Saint Mary ágyúüteghez, élvezve a drámai mészkősziklák nyújtotta páratlan kilátást az út során.\n\nFejezze be a napot a Santa Marija barlangok közelében, elmerengve a sziget természetes szépségében a késő délutáni nap aranyló fényében.",
         "ro": "Începeți aventura la pas la capela liniștită, bucurându-vă de atmosfera pașnică a dimineții din Comino înainte de apariția căldurii.\n\nAjungeți la faimoasa Laguna Albastră pentru a admira culorile sale uluitoare, apoi faceți o plimbare spre impunătorul Turn Saint Mary.\n\nContinuați drumeția de coastă către istorica Baterie Saint Mary, bucurându-vă de stâncile spectaculoase de calcar de-a lungul drumului.\n\nÎncheiați ziua lângă peșterile Santa Marija, reflectând la frumusețea naturală a insulei în timp ce soarele după-amiezii aruncă o lumină aurie.",
         "en": "Start your walking adventure at the quiet Chapel, embracing Comino's peaceful morning atmosphere before the heat sets in.\n\nArrive at the famous Blue Lagoon to witness its stunning colors, then take a scenic stroll toward the imposing Saint Mary Tower.\n\nContinue your coastal trek to the historic Saint Mary's Gun Battery, enjoying the dramatic limestone cliffs along the way.\n\nEnd your day near the Santa Marija Caves, reflecting on the island's natural beauty as the late afternoon sun casts a golden glow."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kapelle Schutz vor dem Regen, ideal für einen Moment der Ruhe. Mittags wirkt die Blaue Lagune unter grauem Himmel mystisch, doch die Pfade sind schlammig. Nachmittags ist der Turm ein massiver Zufluchtsort mit Blick auf die tosende See. Abends führen rutschige Kalksteinwege zurück zur Fähre; feste, wasserdichte Schuhe sind für die Wanderung über die Insel jetzt unerlässlich.",
+            "hu": "Reggel a kápolna nyújt fedelet a zápor elől, érdemes itt bevárni a csendesebb időt. Délben a Kék Lagúna drámai látványt nyújt, de a parti sziklák rendkívül csúszósak. Délután a torony vastag falai között biztonságban figyelhetjük a viharos tengert. Este a kikötő felé az alacsonyabb területeken kerüljük a kialakuló tócsákat és a felázott, agyagos talajt; a vízálló bakancs ma kötelező viselet.",
+            "ro": "Dimineața, capela oferă un adăpost liniștit împotriva ploii, fiind momentul perfect pentru reflecție. La prânz, Laguna Albastră are culori intense sub cerul gri, dar potecile sunt noroioase. După-amiaza, turnul masiv este cel mai sigur punct de observație pentru marea agitată. Seara, drumul spre feribot necesită atenție sporită din cauza pietrelor alunecoase; încălțămintea impermeabilă este vitală.",
+            "en": "In the morning, the chapel provides a dry sanctuary from the drizzle, perfect for a peaceful start. At noon, the Blue Lagoon looks dramatic under gray skies, but cliff paths get muddy. Afternoon is best spent sheltered by the massive tower walls while watching the stormy sea. Evening walks back to the ferry require caution on slippery limestone; waterproof hiking boots are essential today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle der Rückkehr Unserer Lieben Frau aus Ägypten",
+                "hu": "A Miasszonyunk Egyiptomból való visszatérésének kápolnája",
+                "ro": "Capela Întoarcerii Maicii Domnului din Egipt",
+                "en": "Chapel of Our Lady's Return from Egypt"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum als trockenen Rückzugsort und bewundern Sie die Ikonen, während es draußen regnet.",
+                "hu": "Használja a kápolna belső terét száraz menedékként, és csodálja meg az ikonokat, amíg kint esik az eső.",
+                "ro": "Folosiți interiorul ca adăpost uscat și admirați icoanele în timp ce afară plouă; ușa oferă protecție bună.",
+                "en": "Use the interior as a dry retreat and admire the icons while it rains outside; the heavy door provides great shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser leuchtet auch bei Regen türkis; meiden Sie die glatten Felskanten und bleiben Sie auf den oberen Wegen.",
+                "hu": "A víz esőben is türkizkék marad; kerülje a közvetlen part menti sziklákat, mert a nedves mészkő életveszélyesen csúszik.",
+                "ro": "Apa rămâne turcoaz chiar și pe ploaie; evitați marginea stâncilor deoarece calcarul ud devine extrem de alunecos.",
+                "en": "The water stays turquoise even in rain; stay away from the immediate rock edges as wet limestone is dangerously slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary Tower",
+                "hu": "Saint Mary torony",
+                "ro": "Turnul Saint Mary",
+                "en": "Saint Mary Tower"
+              },
+              "tip_5lang": {
+                "de": "Sollte der Turm geöffnet sein, bieten die dicken Mauern perfekten Schutz; genießen Sie das Panorama aus den Fenstern.",
+                "hu": "Ha a torony nyitva van, a vastag falak tökéletes védelmet nyújtanak; élvezze a panorámát a lőréseken keresztül.",
+                "ro": "Dacă turnul este deschis, zidurile groase oferă protecție perfectă; admirați panorama prin ferestrele înguste.",
+                "en": "If the tower is open, the thick walls offer perfect protection; enjoy the stormy panorama through the narrow windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary's Gun Battery",
+                "hu": "Saint Mary ágyúüteg",
+                "ro": "Bateria de tunuri Saint Mary",
+                "en": "Saint Mary's Gun Battery"
+              },
+              "tip_5lang": {
+                "de": "Die offene Stellung ist dem Wind ausgesetzt; tragen Sie eine Regenjacke mit Kapuze, um die historische Anlage zu erkunden.",
+                "hu": "A nyitott állás ki van téve a szélnek; viseljen kapucnis esőkabátot a történelmi helyszín alapos bejárásához.",
+                "ro": "Amplasamentul deschis este expus vântului; purtați o pelerină de ploaie cu glugă pentru a explora situl istoric.",
+                "en": "The open site is exposed to wind; wear a hooded raincoat to explore the historic battery despite the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marija Caves Tauchplatz",
+                "hu": "Santa Marija barlangok merülőhely",
+                "ro": "Loc de scufundări Peșterile Santa Marija",
+                "en": "Santa Marija Caves Dive Site"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in den flacheren Höhleneingängen Schutz vor dem Guss und lauschen Sie dem verstärkten Echo der Brandung.",
+                "hu": "Keressen menedéket a sekélyebb barlangbejáratoknál a zápor elől, és hallgassa a hullámverés felerősödött visszhangját.",
+                "ro": "Căutați adăpost în intrările peșterilor pentru a scăpa de aversă și ascultați ecoul amplificat al valurilor.",
+                "en": "Seek shelter in the shallower cave entrances from the downpour and listen to the amplified echo of the crashing waves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise an der Kapelle, die Wintersonne steht tief. Mittags ist die Insel fast menschenleer, ideal für einsame Wanderungen in Schichtenkleidung. Nachmittags färbt das klare Winterlicht die Felsen golden, bevor es empfindlich kühl wird. Abends beginnt die Dämmerung bereits gegen 17:00 Uhr; sorgen Sie dafür, rechtzeitig am Fähranleger zu sein, da die Boote seltener fahren.",
+            "hu": "Reggel friss téli szél fogad a kápolnánál, a nap alacsonyan jár. Délben a sziget szinte teljesen néptelen, ami tökéletes a zavartalan túrázáshoz réteges öltözetben. Délután a tiszta téli fények aranyba vonják a sziklákat, de a hőmérséklet gyorsan süllyed. Este 17 óra körül már sötétedik; figyeljen a ritkább kompmenetrendre és érjen időben a kikötőbe a hideg szélben.",
+            "ro": "Dimineața, briza rece de iarnă suflă spre capelă, soarele fiind jos la orizont. La prânz, insula este aproape pustie, ideală pentru drumeții solitare în haine stratificate. După-amiaza, lumina clară de iarnă colorează stâncile în nuanțe aurii înainte de lăsarea frigului. Seara, amurgul vine deja la ora 17:00; asigurați-vă că ajungeți la timp pentru feribotul de întoarcere.",
+            "en": "In the morning, a fresh winter breeze blows by the chapel with the sun low on the horizon. Noon is perfect for solitary hikes in layered clothing as the island is quiet. In the afternoon, the clear winter light turns the cliffs golden before it gets chilly. Evening starts early around 17:00; check the reduced ferry schedule and head back to the pier before the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle der Rückkehr Unserer Lieben Frau aus Ägypten",
+                "hu": "A Miasszonyunk Egyiptomból való visszatérésének kápolnája",
+                "ro": "Capela Întoarcerii Maicii Domnului din Egipt",
+                "en": "Chapel of Our Lady's Return from Egypt"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist ein windgeschützter Ort; genießen Sie die Stille dieses einsamen Wahrzeichens in der Nebensaison.",
+                "hu": "A kápolna kiváló szélvédett pont; élvezze a magányos műemlék csendjét és nyugalmát a téli előszezonban.",
+                "ro": "Capela este un loc ferit de vânt; bucurați-vă de liniștea acestui monument solitar în afara sezonului turistic.",
+                "en": "The chapel is a great windbreak; enjoy the silence and peace of this solitary landmark during the winter low season."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Obwohl es zum Schwimmen zu kalt ist, bietet die Lagune jetzt glasklares Wasser ohne Boote für perfekte Fotos.",
+                "hu": "Bár az úszáshoz túl hideg van, a lagúna kristálytiszta vize hajók nélkül kínál tökéletes fotótémát ilyenkor.",
+                "ro": "Deși este prea frig pentru înot, apa cristalină a lagunei fără bărci oferă acum oportunități perfecte pentru fotografii.",
+                "en": "Although it is too cold for swimming, the crystal-clear water without boats offers perfect photo opportunities now."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary Tower",
+                "hu": "Saint Mary torony",
+                "ro": "Turnul Saint Mary",
+                "en": "Saint Mary Tower"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Schicht, da es auf dem Turmhügel im Winter sehr zugig sein kann, aber die Sicht ist fantastisch.",
+                "hu": "Viseljen szélálló ruhát, mert a torony dombján télen erős lökések lehetnek, de a látótávolság ilyenkor a legjobb.",
+                "ro": "Purtați haine rezistente la vânt, deoarece pe dealul turnului pot fi rafale puternice iarna, dar vizibilitatea este maximă.",
+                "en": "Wear a windproof layer as the tower hill can be very drafty in winter, but the visibility is best at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary's Gun Battery",
+                "hu": "Saint Mary ágyúüteg",
+                "ro": "Bateria de tunuri Saint Mary",
+                "en": "Saint Mary's Gun Battery"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne leuchtet die historischen Kanonen perfekt aus; ideal für Architekturfotografie ohne Touristen.",
+                "hu": "Az alacsonyan járó téli nap tökéletesen megvilágítja a történelmi ágyúkat; ideális fotózáshoz tömegek nélkül.",
+                "ro": "Soarele de iarnă jos luminează perfect tunurile istorice; locație ideală pentru fotografii fără mulțimi de turiști.",
+                "en": "The low winter sun illuminates the historic cannons perfectly; it is an ideal spot for photography without the crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marija Caves Tauchplatz",
+                "hu": "Santa Marija barlangok merülőhely",
+                "ro": "Loc de scufundări Peșterile Santa Marija",
+                "en": "Santa Marija Caves Dive Site"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das raue Wintermeer von den Felsen aus, aber halten Sie wegen unerwarteter Wellen sicheren Abstand.",
+                "hu": "Figyelje a haragos téli tengert a sziklákról, de tartson biztonságos távolságot a váratlanul kicsapó hullámoktól.",
+                "ro": "Observați marea agitată de iarnă de pe stânci, dar păstrați o distanță sigură față de valurile neașteptate.",
+                "en": "Watch the rough winter sea from the cliffs, but keep a safe distance from unexpected large waves crashing in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a Saint Anthony ütegnél, élvezve a hűvös tengeri szellőt és a zord északi terepet a nap elején.\n\nTekerjen a Santa Marija zátony és a történelmi kápolna felé, megpihenve egy pillanatra, hogy értékelje a sziget szellemi örökségét.\n\nEreszkedjen le a lélegzetelállító Kék Lagúnához egy rövid pihenőre, majd kapaszkodjon fel az uralkodó Saint Mary toronyhoz.\n\nFejezze be útját a Saint Mary ágyúütegnél, gyönyörködve a végtelen óceáni kilátásban, miközben megpihenteti lábait az aktív nap után.",
         "ro": "Începeți turul cu bicicleta la Bateria Saint Anthony, bucurându-vă de briza răcoroasă a mării și de terenul accidentat din nord devreme.\n\nPedalați spre reciful Santa Marija și capela istorică, oprindu-vă pentru a aprecia moștenirea spirituală și naturală a insulei.\n\nCoborâți spre uluitoarea Laguna Albastră pentru o scurtă pauză, apoi urcați spre prezența impunătoare a Turnului Saint Mary.\n\nÎncheiați călătoria la Bateria Saint Mary, privind priveliștile vaste ale oceanului în timp ce vă odihniți picioarele după o după-amiază activă.",
         "en": "Kick off your cycling tour at Saint Anthony's Battery, enjoying the cool sea breeze and rugged northern terrain early in the day.\n\nPedal towards the Santa Marija Reef and the historic Chapel, pausing to appreciate the island's spiritual and natural heritage.\n\nRide down to the breathtaking Blue Lagoon for a quick break, then push upward toward the commanding presence of Saint Mary Tower.\n\nConclude your journey at Saint Mary's Gun Battery, watching the sweeping ocean views as you rest your legs after an active afternoon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens beginnt die Tour an der Batterie, wo Regen den Stein rutschig macht. Mittags erfordert die Fahrt zum Riff höchste Konzentration auf den unbefestigten Wegen. Nachmittags bieten Kapelle und Turm notwendige Pausen im Trockenen. Abends ist die Rückfahrt über matschige Pfade mühsam; reduzieren Sie den Reifendruck leicht für besseren Grip auf dem nassen, unebenen Untergrund Cominos.",
+            "hu": "Reggel az ütegnél kezdünk, ahol az eső csúszóssá teszi a köveket. Délben a zátony felé vezető úton fokozott figyelmet igényelnek a felázott földutak. Délután a kápolna és a torony nyújt fedett megállót a pihenéshez. Este a sárban nehezebb a tekerés; csökkentse kissé a keréknyomást a jobb tapadás érdekében a vizes, egyenetlen terepen, és vigyázzon a mély tócsákkal.",
+            "ro": "Dimineața începe la baterie, unde ploaia face piatra alunecoasă. La prânz, drumul spre recif necesită concentrare maximă pe potecile noroioase. După-amiaza, capela și turnul oferă pauze necesare la adăpost. Seara, pedalatul prin noroi este obositor; reduceți presiunea în pneuri pentru o aderență mai bună pe terenul ud și denivelat al insulei.",
+            "en": "Morning starts at the battery where rain makes the stones slippery. At noon, the ride to the reef requires extra focus on the muddy unpaved paths. Afternoon offers necessary dry breaks at the chapel and tower. Evening cycling through mud is strenuous; slightly reduce tire pressure for better grip on wet, uneven terrain and watch out for deep puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Anthony's Battery",
+                "hu": "Saint Anthony üteg",
+                "ro": "Bateria Saint Anthony",
+                "en": "Saint Anthony's Battery"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem stabilen Punkt und erkunden Sie die Anlage zu Fuß, da der nasse Boden tückisch ist.",
+                "hu": "Parkolja le a kerékpárt egy stabil ponton, és gyalogosan járja be az üteget, mert a vizes talaj nagyon csalóka.",
+                "ro": "Parcați bicicleta într-un punct stabil și explorați bateria la pas, deoarece solul umed este foarte înșelător.",
+                "en": "Park your bike at a stable spot and explore the battery on foot, as the wet ground is very treacherous for wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marija Riff Tauchplatz",
+                "hu": "Santa Marija zátony merülőhely",
+                "ro": "Loc de scufundări Reciful Santa Marija",
+                "en": "Santa Marija Reef Dive Site"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die Pfade direkt an der Kante; der Regen kann den Boden unter den Rädern instabil machen.",
+                "hu": "Kerülje a közvetlenül a peremen futó ösvényeket; az eső instabillá teheti a talajt a kerekek alatt.",
+                "ro": "Evitați potecile de pe marginea falezei; ploaia poate face solul instabil sub roțile bicicletei.",
+                "en": "Avoid paths right on the edge; heavy rain can make the ground unstable under your bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Rückkehr Unserer Lieben Frau aus Ägypten",
+                "hu": "A Miasszonyunk Egyiptomból való visszatérésének kápolnája",
+                "ro": "Capela Întoarcerii Maicii Domnului din Egipt",
+                "en": "Chapel of Our Lady's Return from Egypt"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Ausrüstung zu checken und den nächsten Schauer abzuwarten.",
+                "hu": "Használja a fedett bejárati részt a felszerelése ellenőrzésére és a következő zápor megvárására.",
+                "ro": "Folosiți zona de intrare acoperită pentru a vă verifica echipamentul și pentru a aștepta trecerea aversei.",
+                "en": "Use the covered entrance area to check your gear and wait out the next shower in relative comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf den steilsten Abschnitten, da der Kalksteinstaub in Verbindung mit Wasser extrem glatt wird.",
+                "hu": "Tolja a kerékpárt a legmeredekebb szakaszokon, mert a mészkőpor a vízzel keveredve rendkívül síkossá válik.",
+                "ro": "Împingeți bicicleta pe secțiunile abrupte, deoarece praful de calcar amestecat cu apă devine extrem de alunecos.",
+                "en": "Push your bike on the steepest sections, as limestone dust mixed with water becomes extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary Tower",
+                "hu": "Saint Mary torony",
+                "ro": "Turnul Saint Mary",
+                "en": "Saint Mary Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zum Turm ist bei Regen anstrengend; nutzen Sie die Mauer als Windschutz für eine kurze Verschnaufpause.",
+                "hu": "A toronyhoz vezető emelkedő esőben fárasztó; használja a falat szélvédőként egy rövid pihenőhöz.",
+                "ro": "Urcarea spre turn este obositoare pe ploaie; folosiți zidul ca paravan împotriva vântului pentru un scurt popas.",
+                "en": "The climb to the tower is tiring in the rain; use the wall as a windbreak for a quick breather."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary's Gun Battery",
+                "hu": "Saint Mary ágyúüteg",
+                "ro": "Bateria de tunuri Saint Mary",
+                "en": "Saint Mary's Gun Battery"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Löcher verbergen könnten; fahren Sie auf diesem Abschnitt besonders defensiv.",
+                "hu": "Ügyeljen a tócsákra, amelyek mély lyukakat rejthetnek; ezen a szakaszon tekerjen különösen óvatosan.",
+                "ro": "Atenție la bălțile care pot ascunde gropi adânci; pedalați defensiv pe această porțiune de drum.",
+                "en": "Watch out for puddles that might hide deep holes; ride particularly defensively on this section of the trail."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht ein kalter Wind über die Batterie, Handschuhe sind beim Radfahren ratsam. Mittags bietet das klare Wetter weite Sichten bis nach Gozo und Malta. Nachmittags kühlt es im Schatten des Turms schnell ab; halten Sie sich durch stetiges Treten warm. Abends ist eine gute Beleuchtung wichtig, da die Wege unbeleuchtet sind und die Sonne früh im Meer versinkt.",
+            "hu": "Reggel hideg szél fúj az ütegnél, kerékpározáshoz ajánlott a kesztyű viselése. Délben a tiszta időben messzire ellátni Gozo és Málta irányába is. Délután a torony árnyékában gyorsan hűl a levegő; maradjon mozgásban a testhőmérséklet megőrzéséhez. Este a jó világítás elengedhetetlen, mivel az ösvények sötétek és a nap korán, 17 óra körül nyugszik.",
+            "ro": "Dimineața un vânt rece suflă peste baterie, mănușile fiind recomandate pentru pedalat. La prânz, vremea senină oferă vizibilitate până în Gozo și Malta. După-amiaza, aerul se răcește rapid la umbra turnului; mențineți un ritm constant pentru a vă încălzi. Seara, iluminarea bună este esențială, deoarece potecile nu sunt luminate și soarele apune devreme.",
+            "en": "In the morning, a cold wind blows over the battery, so gloves are highly recommended for cycling. At noon, clear weather offers far-reaching views towards Gozo and Malta. In the afternoon, it cools down quickly in the tower's shadow; keep moving to stay warm. In the evening, good bike lights are essential as the paths are unlit and the sun sets early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Anthony's Battery",
+                "hu": "Saint Anthony üteg",
+                "ro": "Bateria Saint Anthony",
+                "en": "Saint Anthony's Battery"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist im Winter fest und ideal zum Fahren; genießen Sie die raue Küstenlandschaft in der klaren Luft.",
+                "hu": "A talaj télen kemény és ideális a tekeréshez; élvezze a zord parti tájat a friss, tiszta levegőben.",
+                "ro": "Solul este solid iarna și ideal pentru pedalat; bucurați-vă de peisajul de coastă în aerul curat.",
+                "en": "The ground is firm in winter and ideal for riding; enjoy the rugged coastal landscape in the crisp, clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marija Riff Tauchplatz",
+                "hu": "Santa Marija zátony merülőhely",
+                "ro": "Loc de scufundări Reciful Santa Marija",
+                "en": "Santa Marija Reef Dive Site"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für eine Pause in der Wintersonne, die hier oft noch angenehm wärmt, wenn der Wind nachlässt.",
+                "hu": "Remek hely egy pihenőre a téli napsütésben, ami itt gyakran még kellemesen melegít, ha elül a szél.",
+                "ro": "Un loc excelent pentru o pauză la soarele de iarnă, care aici adesea încă încălzește plăcut dacă vântul scade.",
+                "en": "A great spot for a break in the winter sun, which often still feels pleasantly warm here when the wind drops."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Rückkehr Unserer Lieben Frau aus Ägypten",
+                "hu": "A Miasszonyunk Egyiptomból való visszatérésének kápolnája",
+                "ro": "Capela Întoarcerii Maicii Domnului din Egipt",
+                "en": "Chapel of Our Lady's Return from Egypt"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle speichert etwas Wärme; ein kurzer Besuch hilft, die Finger vor der Weiterfahrt aufzuwärmen.",
+                "hu": "A kis kápolna megtart némi hőt; egy rövid látogatás segít felmelegíteni az ujjait a továbbindulás előtt.",
+                "ro": "Mica chapelă păstrează puțină căldură; o scurtă vizită vă ajută să vă încălziți degetele înainte de a pleca.",
+                "en": "The small chapel retains some warmth inside; a short visit helps warm up your fingers before riding on."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Ohne die Touristenmassen können Sie mit dem Rad bis nah an die Aussichtspunkte fahren, was im Sommer unmöglich ist.",
+                "hu": "A turistahadak nélkül kerékpárral egészen közel mehet a kilátópontokhoz, ami nyáron lehetetlen lenne.",
+                "ro": "Fără masele de turiști, puteți merge cu bicicleta până aproape de punctele de belvedere, ceea ce vara este imposibil.",
+                "en": "Without the tourist crowds, you can cycle very close to the viewpoints, which would be impossible in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary Tower",
+                "hu": "Saint Mary torony",
+                "ro": "Turnul Saint Mary",
+                "en": "Saint Mary Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Winterstürme können hier oben heftig sein; halten Sie den Lenker bei Böen besonders fest.",
+                "hu": "A téli viharok itt fent hevesek lehetnek; tartsa a kormányt különösen erősen az erős széllökések idején.",
+                "ro": "Furtunile de iarnă pot fi violente aici sus; țineți ghidonul cu putere în timpul rafalelor de vânt.",
+                "en": "Winter storms can be fierce up here; hold your handlebars extra firmly during strong wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary's Gun Battery",
+                "hu": "Saint Mary ágyúüteg",
+                "ro": "Bateria de tunuri Saint Mary",
+                "en": "Saint Mary's Gun Battery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf die raue See, bevor Sie den Rückweg antreten, solange es noch hell ist.",
+                "hu": "Élvezze a tágas kilátást a haragos tengerre, mielőtt elindulna visszafelé, amíg még tart a világosság.",
+                "ro": "Bucurați-vă de priveliștea largă spre marea agitată înainte de a porni înapoi, cât timp încă este lumină.",
+                "en": "Enjoy the wide view of the rough sea before starting your return journey while it is still daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a sziget motorizált felfedezését a csodálatos Saint Mary toronynál, magába szívva a panorámás kilátást ebből a magaslatból.\n\nVezessen óvatosan lefelé a déli merülőhelyek felé, megállva, hogy megnézze a látványos hajóroncsokat a zord partvonalról.\n\nNavigáljon a Saint Mary ágyúüteg és a kápolna felé, ötvözve a lenyűgöző hadtörténetet a nyugodt építészeti bájjal.\n\nFejezze be körútját a Santa Marija barlangok és a Saint Anthony üteg északi előőrseinél, megörökítve a tenger feletti utolsó fényeket.",
         "ro": "Începeți explorarea motorizată a insulei la magnificul Turn Saint Mary, absorbind vederile panoramice din acest punct de observație înalt.\n\nConduceți cu atenție spre locurile de scufundări din sud, oprindu-vă pentru a vizualiza zonele spectaculoase ale epavelor de pe coasta stâncoasă.\n\nNavigați spre Bateria Saint Mary și Capelă, combinând istoria militară fascinantă cu farmecul arhitectural senin și pașnic.\n\nFinalizați circuitul la avanposturile nordice ale peșterilor Santa Marija și Bateria Saint Anthony, captând ultima lumină peste mare.",
         "en": "Begin your motorized island exploration at the magnificent Saint Mary Tower, soaking in panoramic views from this high vantage point.\n\nDrive carefully down towards the southern dive sites, stopping to view the spectacular shipwreck areas from the rugged coastline.\n\nNavigate towards Saint Mary's Gun Battery and the Chapel, combining fascinating military history with serene architectural charm.\n\nFinish your circuit at the northern outposts of Santa Marija Caves and Saint Anthony's Battery, capturing the last light over the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erreichen wir den Turm, während der Regen gegen das Fahrzeug trommelt. Mittags bietet der Wagen einen sicheren Rückzugsort vor den Schauern bei der Besichtigung der Batterie. Nachmittags besuchen wir die Kapelle, wobei kurze Sprints zwischen Auto und Gebäude nötig sind. Abends ist die Sicht auf den schmalen Wegen durch Beschlagen und Regen eingeschränkt; fahren Sie extrem vorsichtig.",
+            "hu": "Reggel a toronyhoz érkezünk, miközben az eső a jármű tetején dobog. Délben az autó biztonságos menedéket nyújt a záporok elől az üteg megtekintése közben. Délután a kápolnát látogatjuk meg, rövid sprinteket téve az autó és az épület között. Este a kilátás a szűk utakon a pára és az eső miatt korlátozott; vezessen rendkívül óvatosan a felázott útszélek mellett.",
+            "ro": "Dimineața ajungem la turn în timp ce ploaia bate în parbriz. La prânz, mașina oferă un refugiu sigur în timpul vizitării bateriei de tunuri. După-amiaza vizităm capela, fiind necesare scurte sprinturi între vehicul și clădire. Seara, vizibilitatea pe drumurile înguste este limitată din cauza aburului și a ploii; conduceți cu maximă prudență.",
+            "en": "In the morning we reach the tower while rain drums on the vehicle roof. At noon, the car provides a safe refuge from showers during the battery visit. Afternoon is for the chapel, requiring short sprints between the car and the building. Evening visibility on narrow paths is limited due to fog and rain; drive extremely cautiously near the soft road edges."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Mary Tower",
+                "hu": "Saint Mary torony",
+                "ro": "Turnul Saint Mary",
+                "en": "Saint Mary Tower"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starken Güssen kurz im Wagen; der Blick aus dem Fenster auf den grauen Kanal ist beeindruckend.",
+                "hu": "Heves zápor idején várjon kicsit az autóban; az ablakból nyíló kilátás a szürke csatornára lenyűgöző.",
+                "ro": "În timpul averselor puternice, așteptați puțin în mașină; priveliștea spre canalul gri este impresionantă.",
+                "en": "During heavy downpours, wait a bit in the car; the view from the window over the gray channel is impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchplatz und Schiffswrack",
+                "hu": "Merülőhely és hajóroncs",
+                "ro": "Loc de scufundare și epavă",
+                "en": "Dive Site and Shipwreck"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Regen unterspült sein; parken Sie nur auf befestigten Flächen oberhalb der Klippen.",
+                "hu": "A parti út mentén az eső alámoshatja a talajt; csak szilárd burkolatú helyen parkoljon a sziklák felett.",
+                "ro": "Drumul de coastă poate fi spălat de ploaie; parcați doar pe suprafețe solide deasupra falezei.",
+                "en": "The coastal path edges can be washed out by rain; only park on firm ground well away from the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary's Gun Battery",
+                "hu": "Saint Mary ágyúüteg",
+                "ro": "Bateria de tunuri Saint Mary",
+                "en": "Saint Mary's Gun Battery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Wind- und Regenschutz, um die Anlage in Etappen zu erkunden, wenn die Schauer nachlassen.",
+                "hu": "Használja az autót szél- és esővédőként, hogy szakaszosan járja be az üteget, amikor alábbhagy a zápor.",
+                "ro": "Folosiți mașina ca protecție împotriva vântului și ploii pentru a explora bateria în etape, când aversa scade.",
+                "en": "Use the car as a wind and rain shield to explore the battery in stages when the showers let up."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Rückkehr Unserer Lieben Frau aus Ägypten",
+                "hu": "A Miasszonyunk Egyiptomból való visszatérésének kápolnája",
+                "ro": "Capela Întoarcerii Maicii Domnului din Egipt",
+                "en": "Chapel of Our Lady's Return from Egypt"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet eine trockene Pause; achten Sie darauf, beim Ein- und Aussteigen keinen Matsch ins Auto zu tragen.",
+                "hu": "A kápolna száraz pihenőt kínál; ügyeljen rá, hogy a ki- és beszálláskor ne vigyen sarat az utastérbe.",
+                "ro": "Capela oferă un popas uscat; aveți grijă să nu aduceți noroi în mașină la urcare și coborâre.",
+                "en": "The chapel offers a dry break; be careful not to track mud into the vehicle when getting in and out."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marija Caves Tauchplatz",
+                "hu": "Santa Marija barlangok merülőhely",
+                "ro": "Loc de scufundări Peșterile Santa Marija",
+                "en": "Santa Marija Caves Dive Site"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch Pfützen, da diese tiefer sein können, als sie scheinen, und die Technik des Wagens gefährden.",
+                "hu": "Vezessen lassan a tócsákon át, mert azok mélyebbek lehetnek, mint látszanak, és veszélyeztethetik az autót.",
+                "ro": "Conduceți încet prin bălți, deoarece pot fi mai adânci decât par și pot afecta mecanica mașinii.",
+                "en": "Drive slowly through puddles as they can be deeper than they appear and might damage the vehicle's underside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Anthony's Battery",
+                "hu": "Saint Anthony üteg",
+                "ro": "Bateria Saint Anthony",
+                "en": "Saint Anthony's Battery"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei Regen schlammig werden; stellen Sie den Wagen so ab, dass Sie beim Losfahren nicht stecken bleiben.",
+                "hu": "A parkoló esőben sárossá válhat; úgy álljon meg, hogy induláskor ne akadjon el a felázott talajon.",
+                "ro": "Parcarea poate deveni noroioasă; opriți astfel încât să nu rămâneți blocat în noroi la plecare.",
+                "en": "The parking area can get muddy; park in a way that ensures you won't get stuck in soft ground when leaving."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist es im Wagen angenehm warm, während wir zum Turm fahren. Mittags genießen wir die weiten Panoramen aus dem Schutz des Fahrzeugs, da der Wind draußen schneidend kalt ist. Nachmittags ist die Kapelle ein friedlicher Stopp im weichen Winterlicht. Abends sinken die Temperaturen drastisch; schalten Sie die Heizung rechtzeitig ein, bevor Sie zur letzten Fähre am Pier aufbrechen.",
+            "hu": "Reggel a kocsiban kellemes meleg fogad, miközben a torony felé tartunk. Délben a tágas panorámát az autó védelméből élvezzük, mivel odakint metsző a szél. Délután a kápolna békés megálló a lágy téli fényekben. Este a hőmérséklet drasztikusan süllyed; kapcsolja be időben a fűtést, mielőtt elindulna az utolsó komphoz a kikötőbe a korai sötétben.",
+            "ro": "Dimineața în mașină este plăcut și cald în timp ce ne îndreptăm spre turn. La prânz, admirăm panoramele largi din confortul vehiculului, deoarece vântul de afară este tăios. După-amiaza, capela este un popas liniștit în lumina blândă de iarnă. Seara, temperaturile scad drastic; porniți încălzirea din timp înainte de a pleca spre ultimul feribot.",
+            "en": "In the morning, it's pleasantly warm inside the car as we head to the tower. At noon, we enjoy the wide panoramas from the shelter of the vehicle because the wind outside is biting cold. Afternoon at the chapel is a peaceful stop in the soft winter light. In the evening, temperatures drop drastically; turn on the heater well before heading to the last ferry in the early dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint Mary Tower",
+                "hu": "Saint Mary torony",
+                "ro": "Turnul Saint Mary",
+                "en": "Saint Mary Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt nach dem windigen Spaziergang zum Turm für schnelle Erwärmung; genießen Sie die Ruhe.",
+                "hu": "Az autó fűtése gyors felfrissülést nyújt a szeles toronyhoz tett séta után; élvezze a téli nyugalmat.",
+                "ro": "Încălzirea mașinii oferă o revenire rapidă după plimbarea vântoasă la turn; bucurați-vă de liniștea iernii.",
+                "en": "The car heater provides quick relief after the windy walk to the tower; enjoy the peaceful winter solitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchplatz und Schiffswrack",
+                "hu": "Merülőhely és hajóroncs",
+                "ro": "Loc de scufundare și epavă",
+                "en": "Dive Site and Shipwreck"
+              },
+              "tip_5lang": {
+                "de": "Dank des Wagens erreichen Sie diesen abgelegenen Ort, ohne dem kalten Wind zu lange ausgesetzt zu sein.",
+                "hu": "Az autónak köszönhetően elérheti ezt a távoli pontot anélkül, hogy túl sokáig ki lenne téve a hideg szélnek.",
+                "ro": "Datorită mașinii puteți ajunge în acest punct izolat fără a fi expuși prea mult timp vântului rece de coastă.",
+                "en": "Thanks to the car, you can reach this remote spot without being exposed to the biting coastal wind for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Mary's Gun Battery",
+                "hu": "Saint Mary ágyúüteg",
+                "ro": "Bateria de tunuri Saint Mary",
+                "en": "Saint Mary's Gun Battery"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Fahren; stellen Sie sicher, dass Sie eine Sonnenbrille griffbereit haben.",
+                "hu": "A téli nap alacsonyan jár és vezetés közben vakíthat; győződjön meg róla, hogy van kéznél napszemüveg.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor la volan; asigurați-vă că aveți ochelarii de soare la îndemână.",
+                "en": "The winter sun is low and can be blinding while driving; make sure you have sunglasses ready in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Rückkehr Unserer Lieben Frau aus Ägypten",
+                "hu": "A Miasszonyunk Egyiptomból való visszatérésének kápolnája",
+                "ro": "Capela Întoarcerii Maicii Domnului din Egipt",
+                "en": "Chapel of Our Lady's Return from Egypt"
+              },
+              "tip_5lang": {
+                "de": "Die windgeschützte Lage der Kapelle lädt zu einem kurzen Verweilen ein, bevor es im warmen Wagen weitergeht.",
+                "hu": "A kápolna szélvédett fekvése rövid időzésre csábít, mielőtt folytatná az utat a meleg utastérben.",
+                "ro": "Poziția ferită de vânt a capelei vă invită la un scurt popas înainte de a continua drumul în mașina caldă.",
+                "en": "The wind-sheltered location of the chapel invites a short stay before continuing in the warm car cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marija Caves Tauchplatz",
+                "hu": "Santa Marija barlangok merülőhely",
+                "ro": "Loc de scufundări Peșterile Santa Marija",
+                "en": "Santa Marija Caves Dive Site"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung sicher aus dem Wagen, wenn es draußen zu zugig ist, um an den Klippen zu stehen.",
+                "hu": "Figyelje a hullámverést biztonságosan az autóból, ha odakint túl huzatos a sziklák szélén állni.",
+                "ro": "Observați valurile în siguranță din mașină dacă afară este prea curent pentru a sta pe marginea stâncilor.",
+                "en": "Watch the crashing waves safely from your car if it is too drafty outside to stand on the cliff edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint Anthony's Battery",
+                "hu": "Saint Anthony üteg",
+                "ro": "Bateria Saint Anthony",
+                "en": "Saint Anthony's Battery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Restlicht der frühen Dämmerung für Fotos und treten Sie dann zügig die Rückfahrt mit Heizung an.",
+                "hu": "Használja ki a korai szürkület fényeit a fotózáshoz, majd induljon visszafelé a fűtött utastérben.",
+                "ro": "Profitați de lumina amurgului timpuriu pentru fotografii, apoi porniți înapoi în confortul mașinii încălzite.",
+                "en": "Take advantage of the early twilight light for photos, then head back quickly in the comfort of your heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

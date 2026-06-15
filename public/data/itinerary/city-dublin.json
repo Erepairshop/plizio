@@ -137,6 +137,168 @@
         "hu": "A reggel a viking múlt izgalmas kiállításaival kezdődik a Dublinia múzeumban, majd értékes kéziratokkal folytatódik. / Délben a Garda Múzeumban elmerülhet a nemzeti rendőrség történelmében. / Délután felfedezheti a bájos Little Múzeumot, a huszadik század lenyűgöző emlékeivel. / Az este lenyűgözően zárul a híres Természettudományi Múzeum állattani gyűjteményei között.",
         "ro": "Dimineața începe cu expozițiile captivante despre trecutul viking la Dublinia, urmate de manuscrise valoroase. / La prânz, vă scufundați în istoria poliției naționale irlandeze la Muzeul Garda. / După-amiaza descoperiți fermecătorul Little Museum, plin de amintiri din secolul douăzeci. / Seara se încheie impresionant în faimosul muzeu de istorie naturală.",
         "en": "The morning starts with exciting exhibitions about the Viking past in Dublinia, followed by precious ancient manuscripts. / At midday, you immerse yourself in the history of the national police force at the Garda Museum. / In the afternoon, discover the charming Little Museum with countless 20th-century artifacts. / The evening ends impressively at the Natural History Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Dublinia, wo die mittelalterlichen Mauern sicheren Schutz vor dem typisch irischen Regen bieten. Mittags laden die ruhigen Gänge der Chester Beatty Library zum Verweilen im Trockenen ein. Am Nachmittag erkunden Sie das Little Museum, während die Stadt draußen im Grau versinkt. Abends glänzen die nassen Straßen Dublins im Laternenlicht, was dem Heimweg einen besonderen Charme verleiht.",
+            "hu": "Reggel a Dublinia falai között kezdjük a napot, elkerülve az ír esőt a középkori falak oltalmában. Délben a Chester Beatty könyvtár kincsei nyújtanak menedéket, ahol a kéziratok között észrevétlen telik az idő. Délután a Little Museum és a Nemzeti Múzeum termeiben kalandozunk, távol a kinti sártól. Estére a város fényei megcsillannak a vizes aszfalton, ami sajátos hangulatot ad a sétának.",
+            "ro": "Începeți ziua la Dublinia, unde zidurile medievale oferă adăpost sigur împotriva ploii tipice irlandeze. La prânz, galeriile liniștite de la Chester Beatty vă invită să rămâneți la adăpost. După-amiaza, explorați Micul Muzeu în timp ce orașul de afară este cuprins de gri. Seara, străzile umede ale Dublinului strălucesc sub lumina felinarelor, oferind drumului spre casă un farmec aparte.",
+            "en": "Start your day at Dublinia, where medieval walls provide safe shelter from the typical Irish rain. At noon, the quiet galleries of the Chester Beatty Library invite you to stay dry indoors. In the afternoon, explore the Little Museum while the city outside turns grey. By evening, Dublin's wet streets glisten under streetlights, adding a unique charm to your walk back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dublinia",
+                "hu": "Dublinia",
+                "ro": "Dublinia",
+                "en": "Dublinia"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Welt der Wikinger in dieser vollständig überdachten Anlage; ideal, um dem Regen zu entkommen. Tragen Sie wasserfeste Schuhe für den kurzen Weg zum Eingang.",
+                "hu": "Fedezze fel a vikingek világát ebben a teljesen fedett komplexumban, amely ideális menedék az eső elől. Viseljen vízálló cipőt a bejárathoz vezető rövid, de vizes útszakaszon.",
+                "ro": "Descoperiți lumea vikingilor în acest complex complet acoperit, ideal pentru a scăpa de ploaie. Purtați încălțăminte impermeabilă pentru drumul scurt până la intrare.",
+                "en": "Explore the Viking world in this fully indoor complex, perfect for escaping a downpour. Wear waterproof shoes for the short walk to the entrance as puddles form quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Chester Beatty Library",
+                "hu": "Chester Beatty Könyvtár",
+                "ro": "Biblioteca Chester Beatty",
+                "en": "Chester Beatty Library"
+              },
+              "tip_5lang": {
+                "de": "Diese Weltklasse-Sammlung bietet stundenlangen Schutz im Trockenen; der Dachgarten ist bei Regen leider oft rutschig. Nutzen Sie die Garderobe für Ihre nassen Regenschirme.",
+                "hu": "Ez a világszínvonalú gyűjtemény órákig tartó száraz szórakozást nyújt; a tetőkert esőben sajnos csúszós lehet. Használja a ruhatárat a vizes esernyők leadásához.",
+                "ro": "Această colecție de talie mondială oferă ore de divertisment la uscat; grădina de pe acoperiș poate fi alunecoasă pe ploaie. Folosiți garderoba pentru umbrelele ude.",
+                "en": "This world-class collection offers hours of dry entertainment; the roof garden is often slippery when wet. Use the cloakroom to store your wet umbrellas upon arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "Garda Museum",
+                "hu": "Garda Múzeum",
+                "ro": "Muzeul Garda",
+                "en": "Garda Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, feiner Rückzugsort im Dublin Castle, der Einblicke in die Polizeigeschichte bietet. Achten Sie auf dem Weg durch den Schlosshof auf rutschiges Kopfsteinpflaster.",
+                "hu": "A Dublin Castle területén található kis múzeum remek búvóhely a rendőrség története iránt érdeklődőknek. A várudvaron vigyázzon a rendkívül csúszós macskakövekre.",
+                "ro": "Un mic muzeu în incinta Castelului Dublin, oferind un refugiu excelent pentru cei interesați de istoria poliției. Atenție la pavajul alunecos din curtea castelului.",
+                "en": "This small museum within Dublin Castle is a great hideout for those interested in police history. Be careful on the castle courtyard's very slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "The Little Museum of Dublin",
+                "hu": "Dublin Kis Múzeuma",
+                "ro": "Micul Muzeu din Dublin",
+                "en": "The Little Museum of Dublin"
+              },
+              "tip_5lang": {
+                "de": "Die gemütliche Atmosphäre dieses Stadthauses lässt Sie das schlechte Wetter sofort vergessen. Ein Regencape ist praktisch, da der Eingangsbereich recht eng zum Unterstellen ist.",
+                "hu": "Ennek a városi háznak a barátságos légköre azonnal elfeledteti a rossz időt. Az esőponcsó praktikus, mivel a bejáratnál kevés hely van a várakozásra.",
+                "ro": "Atmosfera primitoare a acestei case orășenești vă va face să uitați de vremea rea. O pelerină de ploaie este practică, deoarece zona de intrare este destul de îngustă.",
+                "en": "The cozy atmosphere of this townhouse will make you forget the bad weather instantly. A rain poncho is practical as the entrance area is quite narrow for sheltering."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum von Irland, Naturgeschichte",
+                "hu": "Ír Nemzeti Múzeum, Természettudomány",
+                "ro": "Muzeul Național al Irlandei, Istorie Naturală",
+                "en": "National Museum of Ireland, Natural History"
+              },
+              "tip_5lang": {
+                "de": "Das 'Dead Zoo' bietet eine faszinierende, trockene Umgebung für den späten Nachmittag. Wischen Sie Ihre Brille ab, da die Luftfeuchtigkeit im historischen Gebäude hoch ist.",
+                "hu": "A „Döglött Állatkert” lenyűgöző és száraz környezetet biztosít késő délutánra. Érdemes szemüvegtörlőt hozni, mert a páratartalom az épületben ilyenkor magasabb.",
+                "ro": "„Grădina Zoologică Moartă” oferă un mediu fascinant și uscat pentru după-amiaza târziu. Ștergeți-vă ochelarii, deoarece umiditatea în clădirea istorică este ridicată.",
+                "en": "The 'Dead Zoo' provides a fascinating and dry environment for the late afternoon. Bring a lens cloth as the humidity inside this historic building can fog up glasses."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie den winterlichen Charme Dublins bei kühler, klarer Luft. Beginnen Sie die Tour in der beheizten Dublinia. Mittags wärmen Sie sich in den Ausstellungsräumen der Chester Beatty Library auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen Sie das goldene Licht am Nachmittag. Abends laden die beleuchteten Straßen zu einem kurzen, zügigen Spaziergang ein.",
+            "hu": "Élje át Dublin téli báját a hűvös, tiszta levegőn. Kezdje a túrát a jól fűtött Dubliniában. Délben melegedjen fel a Chester Beatty könyvtár termeiben. Mivel a nap már 17:00 körül lemegy, élvezze a délutáni arany fényeket a múzeumok között. Az este hűvös, de a kivilágított belváros látványa kárpótolja a hidegért, ha rétegesen öltözik.",
+            "ro": "Experimentați farmecul de iarnă al Dublinului în aerul rece și curat. Începeți turul la Dublinia, bine încălzită. La prânz, încălziți-vă în sălile Bibliotecii Chester Beatty. Deoarece soarele apune în jurul orei 17:00, bucurați-vă de lumina aurie a după-amiezii. Seara, străzile luminate vă invită la o plimbare scurtă și vioaie.",
+            "en": "Experience Dublin's winter charm in the cool, crisp air. Start your tour at the well-heated Dublinia. At noon, warm up in the galleries of the Chester Beatty Library. As the sun sets around 17:00, enjoy the golden afternoon light between museums. The evening is chilly, but the illuminated city center is worth the walk if you dress in layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dublinia",
+                "hu": "Dublinia",
+                "ro": "Dublinia",
+                "en": "Dublinia"
+              },
+              "tip_5lang": {
+                "de": "Die mittelalterlichen Ausstellungen sind im Winter angenehm temperiert. Tragen Sie warme Socken, da die Steinböden in den alten Hallen etwas Kälte abstrahlen können.",
+                "hu": "A középkori kiállítások télen is kellemes hőmérsékletűek. Viseljen meleg zoknit, mert a régi csarnokok kőpadlója hidegérzetet kelthet hosszabb tartózkodás alatt.",
+                "ro": "Expozițiile medievale au o temperatură plăcută iarna. Purtați șosete groase, deoarece podelele de piatră din vechile săli pot emana frig.",
+                "en": "The medieval exhibits are kept at a comfortable temperature during winter. Wear warm socks as the stone floors in the old halls can feel quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Chester Beatty Library",
+                "hu": "Chester Beatty Könyvtár",
+                "ro": "Biblioteca Chester Beatty",
+                "en": "Chester Beatty Library"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Winterkälte zu entfliehen und Weltkultur zu genießen. Nutzen Sie die frühen Nachmittagsstunden, um das restliche Tageslicht im Atrium zu erleben.",
+                "hu": "Tökéletes hely a téli hideg elől való menekülésre és a világkultúra élvezetére. Használja ki a kora délutáni órákat, hogy lássa a természetes fényt az átriumban.",
+                "ro": "Un loc perfect pentru a scăpa de frigul iernii și a vă bucura de cultura mondială. Profitat de orele amiezii pentru a prinde lumina naturală în atrium.",
+                "en": "A perfect place to escape the winter cold and enjoy world culture. Make the most of the early afternoon hours to experience the natural light in the atrium."
+              }
+            },
+            {
+              "name": {
+                "de": "Garda Museum",
+                "hu": "Garda Múzeum",
+                "ro": "Muzeul Garda",
+                "en": "Garda Museum"
+              },
+              "tip_5lang": {
+                "de": "Die kompakte Größe des Museums ist ideal für eine kurze Aufwärmpause während des Schlossrundgangs. Der Wind im Castle Yard kann im Winter besonders schneidend sein.",
+                "hu": "A múzeum kompakt mérete ideális egy rövid felmelegedésre a várnézés közben. A Castle Yard szeles udvarán télen különösen metsző lehet a hideg szél.",
+                "ro": "Dimensiunea compactă a muzeului este ideală pentru o scurtă pauză de încălzire în timpul vizitei la castel. Vântul din curtea castelului poate fi tăios iarna.",
+                "en": "The museum's compact size is ideal for a quick warm-up break during your castle tour. The wind in the Castle Yard can be particularly biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "The Little Museum of Dublin",
+                "hu": "Dublin Kis Múzeuma",
+                "ro": "Micul Muzeu din Dublin",
+                "en": "The Little Museum of Dublin"
+              },
+              "tip_5lang": {
+                "de": "Die geführten Touren bieten eine herzliche Wärme und Gemeinschaft an kalten Tagen. Gegen 16:30 Uhr beginnt es zu dämmern, was die Aussicht auf den Park romantisch macht.",
+                "hu": "A vezetett túrák barátságos meleget és közösségi élményt nyújtanak a hideg napokon. 16:30 körül már szürkül, ami romantikus kilátást nyújt a szemközti parkra.",
+                "ro": "Tururile ghidate oferă o căldură primitoare și o experiență comunitară în zilele reci. În jurul orei 16:30 începe amurgul, oferind o vedere romantică spre parc.",
+                "en": "Guided tours offer welcoming warmth and a community experience on cold days. Around 16:30 the twilight begins, offering a romantic view of the adjacent park."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum von Irland, Naturgeschichte",
+                "hu": "Ír Nemzeti Múzeum, Természettudomány",
+                "ro": "Muzeul Național al Irlandei, Istorie Naturală",
+                "en": "National Museum of Ireland, Natural History"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 17:00 Uhr, um die Exponate bei Tageslicht zu sehen. Da es im Gebäude kühl sein kann, lassen Sie Ihre Winterjacke am besten während des Besuchs an.",
+                "hu": "Látogasson el ide 17:00 előtt, hogy még természetes fénynél lássa a gyűjteményt. Mivel az épület hűvösebb lehet, érdemes a téli kabátot magán hagynia a vizit alatt.",
+                "ro": "Vizitați acest loc înainte de ora 17:00 pentru a vedea exponatele în lumina zilei. Deoarece în clădire poate fi răcoare, păstrați haina de iarnă pe dvs.",
+                "en": "Visit before 17:00 to see the exhibits in natural light. Since the building can be drafty, it's best to keep your winter coat on during the entire visit."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Reggel a Collins laktanyához teker, hogy felfedezze Írország történelmét és díszítőművészetét. / Dél körül a Jameson Lepárlóban testközelből tapasztalhatja meg a whiskykészítés művészetét. / A délután James Joyce és az ír kivándorlók nyomába vezet a városon keresztül. / Este a lenyűgöző Nemzeti Nyomdamúzeumban fejezi be ezt az aktív, kerékpáros felfedezőutat.",
         "ro": "Dimineața pedalați spre Cazarma Collins pentru a explora istoria și arta decorativă a Irlandei. / În jurul prânzului, experimentați arta fabricării whiskey-ului la Distileria Jameson. / După-amiaza vă poartă pe urmele lui James Joyce și ale emigranților irlandezi prin oraș. / Seara încheiați acest tur activ la fascinantul Muzeu Național al Tiparului.",
         "en": "In the morning, cycle to Collins Barracks to explore Ireland's history and decorative arts collections. / Around midday, experience the art of whiskey making firsthand at the Old Jameson Distillery. / The afternoon takes you on the trail of James Joyce and Irish emigrants across the city. / In the evening, you conclude this active tour at the fascinating National Print Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Dublin Konzentration, besonders auf den nassen Schienen. Starten Sie bei den Collins Barracks. Mittags wärmt eine Tour durch die Jameson Distillery von innen. Nachmittags radeln Sie vorsichtig zum EPIC Museum. Achten Sie auf rutschige Straßenabschnitte und nutzen Sie die gut ausgebauten Radwege entlang des Flusses Liffey.",
+            "hu": "A vizes aszfalton és villamossíneken való biciklizés fokozott figyelmet igényel Dublinban. Kezdjen a Collins Barracks-nál. Délben a Jameson lepárló túrája belülről melegít fel. Délután tekerjen óvatosan az EPIC múzeumhoz. Ügyeljen a csúszós útszakaszokra, és használja a Liffey menti jól kiépített kerékpárutakat az esőben is.",
+            "ro": "Mersul pe bicicletă pe ploaie necesită concentrare, mai ales pe șinele de tramvai umede. Începeți la Collins Barracks. La prânz, un tur la distileria Jameson vă va încălzi. După-amiaza, pedalați cu atenție spre muzeul EPIC. Atenție la porțiunile de drum alunecoase și folosiți pistele de biciclete de-a lungul râului Liffey.",
+            "en": "Cycling in the rain requires extra focus, especially on wet tram tracks in Dublin. Start at Collins Barracks. At noon, a tour of the Jameson Distillery will warm you from the inside. In the afternoon, pedal carefully to the EPIC museum. Watch out for slippery road sections and use the well-established bike lanes along the Liffey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nationalmuseum von Irland (Kunsthandwerk & Geschichte)",
+                "hu": "Ír Nemzeti Múzeum (Díszítőművészet és Történelem)",
+                "ro": "Muzeul Național al Irlandei (Arte Decorative și Istorie)",
+                "en": "National Museum of Ireland (Decorative Arts & History)"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Hallen sind perfekt, um den ersten Regenschauer abzuwarten. Es gibt überdachte Fahrradständer in der Nähe des Haupteingangs für Ihr Rad.",
+                "hu": "A tágas csarnokok tökéletesek az első zápor kivárására. A főbejárat közelében fedett kerékpártárolók állnak rendelkezésre, így a biciklije is száraz marad.",
+                "ro": "Sălile spațioase sunt perfecte pentru a aștepta trecerea primei averse. Există suporturi de biciclete acoperite lângă intrarea principală pentru bicicleta dvs.",
+                "en": "The spacious halls are perfect for waiting out the first rain shower. There are covered bike racks near the main entrance to keep your bicycle dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Jameson Distillery",
+                "hu": "Old Jameson Lepárló",
+                "ro": "Vechea Distilerie Jameson",
+                "en": "Old Jameson Distillery"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Regen; die Tour findet komplett im Innenbereich statt. Vorsicht beim Aufsteigen nach der Verkostung, der Boden draußen ist bei Nässe glatt.",
+                "hu": "Ideális megálló esőben; a túra teljesen fedett helyen zajlik. Legyen óvatos a felszállással a kóstoló után, mert a külső burkolat vizesen nagyon csúszik.",
+                "ro": "O oprire ideală pe ploaie; turul are loc în întregime la interior. Atenție la urcatul pe bicicletă după degustare, pavajul exterior este alunecos când e ud.",
+                "en": "An ideal stop in the rain; the tour takes place entirely indoors. Be careful when mounting your bike after the tasting, as the ground outside is slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Das James Joyce Centre",
+                "hu": "James Joyce Központ",
+                "ro": "Centrul James Joyce",
+                "en": "The James Joyce Centre"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Literatur ein, während es draußen stürmt. Parken Sie Ihr Rad sicher und achten Sie auf Pfützen in den Seitenstraßen von North Joyce Street.",
+                "hu": "Merüljön el az irodalomban, amíg kint tombol az ír időjárás. Parkolja le biztonságosan a gépet, és ügyeljen a tócsákra a North Joyce utca környéki mellékutcákban.",
+                "ro": "Cufundați-vă în literatură în timp ce afară e vreme urâtă. Parcați bicicleta în siguranță și atenție la bălțile din străzile lăturalnice de lângă North Joyce.",
+                "en": "Immerse yourself in literature while the Irish weather rages outside. Park your bike securely and watch out for deep puddles in the side streets near North Joyce."
+              }
+            },
+            {
+              "name": {
+                "de": "EPIC The Irish Emigration Museum",
+                "hu": "EPIC Ír Kivándorlási Múzeum",
+                "ro": "Muzeul Emigrației Irlandeze EPIC",
+                "en": "EPIC The Irish Emigration Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses hochmoderne Museum im CHQ Building bietet perfekten Schutz. Die Tiefgarage des Gebäudes kann oft zum sicheren Abstellen des Rades genutzt werden.",
+                "hu": "Ez a modern múzeum a CHQ épületében tökéletes védelmet nyújt. Az épület alagsori részei gyakran használhatók a kerékpár biztonságos és száraz tárolására.",
+                "ro": "Acest muzeu modern din clădirea CHQ oferă protecție perfectă. Zonele de la subsol pot fi adesea folosite pentru parcarea sigură și uscată a bicicletei.",
+                "en": "This high-tech museum in the CHQ Building offers perfect shelter. The building's lower levels can often be used for secure and dry bike parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Druckereimuseum",
+                "hu": "Nemzeti Nyomdamúzeum",
+                "ro": "Muzeul Național al Tiparului",
+                "en": "National Print Museum"
+              },
+              "tip_5lang": {
+                "de": "Das gemütliche Café und die Werkstätten sind ein toller Abschluss für einen Regentag. Prüfen Sie Ihre Bremsen vor der Abfahrt, da Nässe die Bremswirkung reduziert.",
+                "hu": "A barátságos kávézó és a műhelyek remek zárást jelentenek egy esős napon. Indulás előtt ellenőrizze a fékeket, mert a nedvesség csökkenti a fékhatást.",
+                "ro": "Cafeneaua primitoare și atelierele sunt un final excelent pentru o zi ploioasă. Verificați frânele înainte de plecare, deoarece umezeala reduce eficiența lor.",
+                "en": "The cozy café and workshops are a great end to a rainy day. Check your brakes before heading out, as moisture significantly reduces braking performance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Dublin erfordert warme Handschuhe und helle Lichter. Starten Sie morgens bei den Collins Barracks. Mittags bietet die Jameson Distillery eine willkommene Aufwärmpause. Da es ab 16:30 Uhr dunkel wird, planen Sie Ihren Weg zum Print Museum rechtzeitig. Die kühle Brise vom Liffey ist erfrischend, erfordert aber winddichte Kleidung.",
+            "hu": "A téli kerékpározáshoz Dublinban meleg kesztyű és erős lámpák szükségesek. Kezdje a reggelt a Collins Barracks-nál. Délben a Jameson lepárló kellemes felmelegedést kínál. Mivel 16:30-tól sötétedik, időben tervezze meg az utat a Nyomdamúzeumhoz. A Liffey felől fújó hűvös szél frissítő, de szélálló öltözetet igényel.",
+            "ro": "Ciclismul de iarnă în Dublin necesită mănuși groase și lumini puternice. Începeți dimineața la Collins Barracks. La prânz, distileria Jameson oferă o pauză de încălzire. Deoarece se întunecă de la 16:30, planificați din timp drumul spre Muzeul Tiparului. Briza rece de pe Liffey este revigorantă, dar necesită haine rezistente la vânt.",
+            "en": "Winter cycling in Dublin requires warm gloves and bright lights. Start your morning at Collins Barracks. At noon, the Jameson Distillery offers a welcome warming break. Since it gets dark from 16:30, plan your route to the Print Museum in time. The cool breeze from the Liffey is refreshing but demands windproof clothing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nationalmuseum von Irland (Kunsthandwerk & Geschichte)",
+                "hu": "Ír Nemzeti Múzeum (Díszítőművészet és Történelem)",
+                "ro": "Muzeul Național al Irlandei (Arte Decorative și Istorie)",
+                "en": "National Museum of Ireland (Decorative Arts & History)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzulegen und die Ausstellungen entspannt zu genießen. Sichern Sie Ihr Rad gut gegen den oft starken Winterwind.",
+                "hu": "Használja a ruhatárat a nehéz téli ruhák leadásához, hogy kényelmesen nézhesse meg a kiállítást. Rögzítse stabilan a biciklit az erős téli szél miatt.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă și a vizita relaxat expoziția. Asigurați bine bicicleta împotriva vântului puternic de iarnă.",
+                "en": "Use the cloakroom to drop off heavy winter gear and enjoy the exhibits comfortably. Secure your bike firmly against the often strong winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Old Jameson Distillery",
+                "hu": "Old Jameson Lepárló",
+                "ro": "Vechea Distilerie Jameson",
+                "en": "Old Jameson Distillery"
+              },
+              "tip_5lang": {
+                "de": "Die warme, holzgetäfelte Atmosphäre ist im Winter besonders einladend. Ein heißer Whiskey-Drink am Ende der Tour vertreibt die Kälte vor der nächsten Etappe.",
+                "hu": "A meleg, faborítású belső tér télen különösen hívogató. Egy forró whisky ital a túra végén elűzi a hideget a következő kerékpáros szakasz előtt.",
+                "ro": "Atmosfera caldă, cu lambriuri de lemn, este deosebit de primitoare iarna. O băutură cu whiskey fierbinte la finalul turului va alunga frigul înainte de drum.",
+                "en": "The warm, wood-paneled interior is especially inviting in winter. A hot whiskey drink at the end of the tour will chase away the chill before the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Das James Joyce Centre",
+                "hu": "James Joyce Központ",
+                "ro": "Centrul James Joyce",
+                "en": "The James Joyce Centre"
+              },
+              "tip_5lang": {
+                "de": "Das historische Gebäude ist gut beheizt und bietet eine intime Atmosphäre. Da es früh dunkelt, prüfen Sie vor der Weiterfahrt unbedingt die Funktion Ihrer Rückleuchten.",
+                "hu": "A történelmi épület jól fűtött és bensőséges hangulatot áraszt. Mivel korán sötétedik, a továbbindulás előtt feltétlenül ellenőrizze a hátsó lámpák működését.",
+                "ro": "Clădirea istorică este bine încălzită și oferă o atmosferă intimă. Deoarece se întunecă devreme, verificați neapărat funcționarea stopurilor înainte de a pleca.",
+                "en": "The historic building is well-heated and offers an intimate atmosphere. Since it gets dark early, be sure to check your rear lights before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "EPIC The Irish Emigration Museum",
+                "hu": "EPIC Ír Kivándorlási Múzeum",
+                "ro": "Muzeul Emigrației Irlandeze EPIC",
+                "en": "EPIC The Irish Emigration Museum"
+              },
+              "tip_5lang": {
+                "de": "In den unterirdischen Gewölben herrscht ein konstantes, warmes Klima. Planen Sie den Besuch so, dass Sie die beleuchtete Custom House Fassade bei Dämmerung sehen.",
+                "hu": "A föld alatti boltozatok alatt állandó, meleg klíma uralkodik. Úgy tervezze a látogatást, hogy szürkületkor láthassa a kivilágított Custom House épületét.",
+                "ro": "În bolțile subterane predomină un climat constant și cald. Planificați vizita astfel încât să puteți vedea clădirea Custom House iluminată la amurg.",
+                "en": "The underground vaults maintain a constant, warm temperature. Plan your visit to see the illuminated Custom House facade as twilight falls nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Druckereimuseum",
+                "hu": "Nemzeti Nyomdamúzeum",
+                "ro": "Muzeul Național al Tiparului",
+                "en": "National Print Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für einen warmen Tee vor dem Ende der Tour. Denken Sie an reflektierende Kleidung für die Rückfahrt im dichten, dunklen Stadtverkehr.",
+                "hu": "Tökéletes hely egy meleg teára a túra vége előtt. Ne feledkezzen meg a fényvisszaverő ruházatról a sötét, esti városi forgalomban való visszatekeréshez.",
+                "ro": "Locul perfect pentru un ceai cald înainte de finalul turului. Nu uitați de hainele reflectorizante pentru drumul de întoarcere prin traficul intens și întunecat.",
+                "en": "The perfect spot for a hot tea before ending your tour. Remember to wear reflective gear for the ride back through the dark evening city traffic."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "A nap nyugodtan indul, betekintéssel Írország zsidó örökségébe egy bájos egykori zsinagógában. / Délben a modern Irodalmi Múzeumban inspirálódhat a legnagyobb ír írók és költők munkásságából. / Délután a kortárs művészet és a kivándorlók megrázó története várja a látogatókat. / Az este a történelmi Collins laktanya gazdag kiállításaival és gyűjteményeivel zárul.",
         "ro": "Ziua începe liniștit, explorând moștenirea evreiască a Irlandei într-o fostă sinagogă fermecătoare. / La prânz, lăsați-vă inspirați de marii scriitori irlandezi în modernul Muzeu al Literaturii. / După-amiaza vă atrage cu artă contemporană și istoria impresionantă a emigranților. / Seara se încheie explorând bogatele expoziții din istorica Cazarmă Collins.",
         "en": "The day begins quietly with insights into Ireland's Jewish heritage in a charming former synagogue. / At midday, let yourself be inspired by the great Irish writers at the modern Museum of Literature. / In the afternoon, contemporary art and the impressive history of the emigrants await you. / The evening concludes exploring the rich exhibitions at the historic Collins Barracks."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Dublin bei Regen am bequemsten. Starten Sie beim Jüdischen Museum. Mittags bietet das MoLI trockene Inspiration. Parkhäuser in der Nähe des EPIC Museums sind ideal, um trockenen Fußes in die Ausstellungen zu gelangen. Achten Sie bei starkem Regen auf schlechte Sichtverhältnisse und Aquaplaning auf den Straßen entlang der Docks.",
+            "hu": "Autóval a legkényelmesebb Dublin felfedezése esőben. Kezdjen a Zsidó Múzeumnál. Délben a MoLI nyújt száraz inspirációt. Az EPIC múzeum közeli parkolóházai ideálisak, hogy száraz lábbal jusson be a kiállításokra. Heves esőzéskor ügyeljen a romló látási viszonyokra és a víztócsákra a kikötői utak mentén.",
+            "ro": "Explorarea Dublinului cu mașina este cea mai confortabilă variantă pe ploaie. Începeți la Muzeul Evreiesc. La prânz, MoLI oferă inspirație la uscat. Parcarea de lângă muzeul EPIC este ideală pentru a ajunge la expoziții fără a vă uda. Atenție la vizibilitatea redusă și la acvaplanare pe drumurile de lângă docuri.",
+            "en": "Exploring Dublin by car is the most comfortable option in the rain. Start at the Jewish Museum. At noon, MoLI provides dry inspiration. Parking garages near the EPIC museum are ideal for reaching exhibits without getting wet. During heavy rain, watch out for reduced visibility and standing water along the docks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Irisch-Jüdisches Museum",
+                "hu": "Ír Zsidó Múzeum",
+                "ro": "Muzeul Evreiesc Irlandez",
+                "en": "Irish Jewish Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses kleine Museum ist ein wunderbarer Zufluchtsort vor dem Regen. Parkplätze auf der Straße sind begrenzt; suchen Sie frühzeitig in den Nebenstraßen nach einer Lücke.",
+                "hu": "Ez a kis múzeum csodálatos menedék az eső elől. Az utcai parkolás korlátozott, keressen időben helyet a környező kis utcákban a bejárat közelében.",
+                "ro": "Acest mic muzeu este un refugiu minunat împotriva ploii. Parcarea stradală este limitată; căutați din timp un loc pe străzile lăturalnice din apropiere.",
+                "en": "This small museum is a wonderful refuge from the rain. Street parking is limited, so look for a spot in the nearby side streets early to stay close to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Literaturmuseum Irland",
+                "hu": "Ír Irodalmi Múzeum",
+                "ro": "Muzeul Literaturii din Irlanda",
+                "en": "Museum of Literature Ireland"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet großzügige Innenräume und ein tolles Café für Regentage. Nutzen Sie das Parkhaus am St. Stephen’s Green für einen kurzen, trockenen Weg.",
+                "hu": "A múzeum tágas belső terekkel és remek kávézóval várja az esős napokon. Használja a St. Stephen’s Green parkolóházat a rövid és viszonylag száraz eléréshez.",
+                "ro": "Muzeul oferă spații interioare generoase și o cafenea excelentă pentru zilele ploioase. Folosiți parcarea St. Stephen’s Green pentru un acces scurt și uscat.",
+                "en": "The museum offers spacious interiors and a great café for rainy days. Use the St. Stephen’s Green parking garage for a short and mostly dry walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Douglas Hyde Gallery",
+                "hu": "Douglas Hyde Galéria",
+                "ro": "Galeria Douglas Hyde",
+                "en": "Douglas Hyde Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdische Lage der Galerie macht sie zum perfekten Ort bei schwerem Wetter. Parken Sie am Trinity College Parkplatz, falls Sie eine Parkerlaubnis haben.",
+                "hu": "A galéria föld alatti elhelyezkedése miatt tökéletes hely heves esőzés idején. Ha van engedélye, parkoljon a Trinity College belső parkolójában a gyors bejutáshoz.",
+                "ro": "Locația subterană a galeriei o face locul perfect în caz de ploi torențiale. Dacă aveți permis, parcați în parcarea Trinity College pentru acces rapid.",
+                "en": "The gallery's underground location makes it a perfect spot during heavy rain. If you have a permit, park in the Trinity College lot for the quickest indoor access."
+              }
+            },
+            {
+              "name": {
+                "de": "EPIC The Irish Emigration Museum",
+                "hu": "EPIC Ír Kivándorlási Múzeum",
+                "ro": "Muzeul Emigrației Irlandeze EPIC",
+                "en": "EPIC The Irish Emigration Museum"
+              },
+              "tip_5lang": {
+                "de": "Das CHQ Building bietet alles unter einem Dach, inklusive Gastronomie. Das nahegelegene Parkhaus sorgt dafür, dass Sie beim Aussteigen nicht nass werden.",
+                "hu": "A CHQ épületében minden egy fedél alatt található, beleértve az éttermeket is. A közeli parkolóház biztosítja, hogy kiszálláskor ne ázzon el a múzeum előtt.",
+                "ro": "Clădirea CHQ oferă totul sub un singur acoperiș, inclusiv restaurante. Parcarea din apropiere vă asigură că nu vă veți uda la coborârea din mașină.",
+                "en": "The CHQ Building offers everything under one roof, including dining options. The nearby parking garage ensures you won't get wet when exiting the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum von Irland (Kunsthandwerk & Geschichte)",
+                "hu": "Ír Nemzeti Múzeum (Díszítőművészet és Történelem)",
+                "ro": "Muzeul Național al Irlandei (Arte Decorative și Istorie)",
+                "en": "National Museum of Ireland (Decorative Arts & History)"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt auf dem Gelände der Collins Barracks, was bei Regen ideal ist. Planen Sie Zeit für die Rückfahrt durch den oft zähen Abendverkehr ein.",
+                "hu": "A Collins Barracks területén közvetlenül is vannak parkolóhelyek, ami esőben ideális. Számoljon extra idővel a hazajutáshoz az esti csúcsforgalomban.",
+                "ro": "Există locuri de parcare chiar în incinta Collins Barracks, ceea ce este ideal pe ploaie. Alocați timp suplimentar pentru drumul de întoarcere prin trafic.",
+                "en": "There are parking spaces directly on the grounds of Collins Barracks, ideal for rainy days. Allow extra time for the drive back through heavy evening traffic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Dublins Sehenswürdigkeiten gemütlich vom geheizten Auto aus. Beginnen Sie beim Jüdischen Museum. Mittags verweilen Sie im warmen MoLI. Da die Sonne gegen 17:00 Uhr untergeht, erleben Sie die winterliche Dämmerung bei den Docks. Achten Sie auf mögliche Glätte in den Morgenstunden und nutzen Sie die festliche Beleuchtung für eine abendliche Panoramafahrt.",
+            "hu": "Élvezze Dublin látnivalóit kényelmesen a fűtött autóból. Kezdjen a Zsidó Múzeumnál. Délben időzzön a meleg MoLI-ban. Mivel a nap 17:00 körül lemegy, élvezze a téli szürkületet a kikötőknél. Ügyeljen a reggeli jegesedésre az utakon, és használja ki az ünnepi kivilágítást egy esti panoráma-autózáshoz a belvárosban.",
+            "ro": "Bucurați-vă de atracțiile Dublinului din confortul mașinii încălzite. Începeți la Muzeul Evreiesc. La prânz, zăboviți în atmosfera caldă de la MoLI. Soarele apune în jurul orei 17:00, deci prindeți amurgul de iarnă la docuri. Atenție la polei dimineața și profitați de iluminatul festiv pentru un tur panoramic de seară.",
+            "en": "Enjoy Dublin's sights comfortably from a heated car. Start at the Jewish Museum. At noon, linger in the warm atmosphere of MoLI. As the sun sets around 17:00, experience the winter twilight at the docks. Watch out for morning frost on the roads and use the festive lights for a panoramic evening drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Irisch-Jüdisches Museum",
+                "hu": "Ír Zsidó Múzeum",
+                "ro": "Muzeul Evreiesc Irlandez",
+                "en": "Irish Jewish Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist klein und gemütlich, ideal zum Aufwärmen am Morgen. Prüfen Sie die Scheibenheizung Ihres Autos, da es im Winter oft neblig oder frostig sein kann.",
+                "hu": "A múzeum kicsi és otthonos, ideális a reggeli felmelegedéshez. Ellenőrizze az autó szélvédőfűtését, mert télen gyakori a pára vagy a reggeli fagy a környéken.",
+                "ro": "Muzeul este mic și primitor, ideal pentru încălzirea de dimineață. Verificați dezaburirea mașinii, deoarece iarna este adesea ceață sau îngheț în zonă.",
+                "en": "The museum is small and cozy, ideal for a morning warm-up. Check your car's windshield heater, as morning frost or fog is common in winter here."
+              }
+            },
+            {
+              "name": {
+                "de": "Literaturmuseum Irland",
+                "hu": "Ír Irodalmi Múzeum",
+                "ro": "Muzeul Literaturii din Irlanda",
+                "en": "Museum of Literature Ireland"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Räume sind im Winter gut beheizt und bieten eine festliche Stimmung. Der nahegelegene Park am St. Stephen's Green ist abends wunderschön beleuchtet.",
+                "hu": "A pompás termek télen jól fűtöttek és ünnepi hangulatot árasztanak. A közeli St. Stephen's Green park este gyönyörűen ki van világítva, érdemes arra autózni.",
+                "ro": "Sălile splendide sunt bine încălzite iarna și oferă o atmosferă festivă. Parcul St. Stephen's Green din apropiere este superb iluminat seara, merită o trecere.",
+                "en": "The magnificent rooms are well-heated and offer a festive winter mood. The nearby St. Stephen's Green park is beautifully illuminated in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Douglas Hyde Gallery",
+                "hu": "Douglas Hyde Galéria",
+                "ro": "Galeria Douglas Hyde",
+                "en": "Douglas Hyde Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Betonästhetik der Galerie bildet einen spannenden Kontrast zur winterlichen Außenwelt. Nutzen Sie die Tiefgarage für einen direkten Zugang ohne Kälteschock.",
+                "hu": "A galéria hűvös beton-esztétikája izgalmas kontrasztot alkot a téli külvilággal. Használja a mélygarázst a közvetlen bejutáshoz a kinti hideg elkerülése érdekében.",
+                "ro": "Estetica rece a betonului din galerie oferă un contrast interesant cu iarna de afară. Folosiți parcarea subterană pentru acces direct, evitând frigul de afară.",
+                "en": "The gallery's cool concrete aesthetic creates an exciting contrast with the winter outside. Use the underground garage for direct access to avoid the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "EPIC The Irish Emigration Museum",
+                "hu": "EPIC Ír Kivándorlási Múzeum",
+                "ro": "Muzeul Emigrației Irlandeze EPIC",
+                "en": "EPIC The Irish Emigration Museum"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag, wenn es draußen bereits dunkel und ungemütlich ist. Die Docks bieten abends eine beeindruckende Kulisse für die Parkplatzsuche.",
+                "hu": "Tökéletes késő délutánra, amikor kint már sötét és barátságtalan az idő. A dokkok környéke este lenyűgöző látványt nyújt a kivilágított épületekkel.",
+                "ro": "Perfect pentru după-amiaza târziu, când afară e deja întuneric și frig. Zona docurilor oferă o priveliște impresionantă seara cu toate clădirile iluminate.",
+                "en": "Perfect for late afternoon when it's already dark and unpleasant outside. The docks offer an impressive backdrop with illuminated buildings in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum von Irland (Kunsthandwerk & Geschichte)",
+                "hu": "Ír Nemzeti Múzeum (Díszítőművészet és Történelem)",
+                "ro": "Muzeul Național al Irlandei (Arte Decorative és Istorie)",
+                "en": "National Museum of Ireland (Decorative Arts & History)"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in der majestätischen Atmosphäre der ehemaligen Kaserne. Achten Sie beim Verlassen des Geländes auf eventuelle Glätte auf den Ausfahrten.",
+                "hu": "Zárja a napot az egykori laktanya fenséges hangulatú termeiben. A terület elhagyásakor ügyeljen az esetleges jegesedésre a kihajtóknál az esti órákban.",
+                "ro": "Încheiați ziua în atmosfera maiestuoasă a fostei cazărmi. La părăsirea incintei, atenție la posibila gheață de pe drumurile de ieșire în orele serii.",
+                "en": "End your day in the majestic atmosphere of the former barracks. When leaving the grounds, watch out for potential icy patches on the exits during evening hours."
+              }
+            }
+          ]
+        }
       }
     }
   }

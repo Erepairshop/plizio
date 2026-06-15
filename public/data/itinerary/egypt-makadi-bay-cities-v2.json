@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját a Makadi-öbölben az elegáns Cabaret-nél, magába szívva a terület gazdag színházi hangulatát. Egy rövid séta elviszi a lenyűgöző Theatre-hez, amelynek kialakítása látványos előadásokra utal.\n\nAhogy a nap feljebb hág, térjen át a nyüzsgő Aquapark Kids felé. A vidám környezet és a frissítő vízi elemek kellemes déli szünetet biztosítanak.\n\nDélután folytassa a felfedezést a Vörös-tenger melletti párizsi éjszakai életre utaló Moulin Rouge felé sétálva. Élvezze az egyedi homlokzatokat és a kreatív hangulatot.\n\nZárja a napot a központi Arénában, amely a szórakozás nyüzsgő központja. A széles ösvények és az élénk esti tömegek a Makadi-öböl igazi nyaralási szellemét tükrözik.",
         "ro": "Începeți turul de mers pe jos prin Makadi Bay la elegantul Cabaret, absorbind atmosfera teatrală bogată a zonei. O scurtă plimbare vă duce la impresionantul Theatre, cu un design în aer liber.\n\nPe măsură ce soarele urcă, treceți spre plinul de viață Aquapark Kids. Mediul vesel și elementele de apă oferă o pauză încântătoare la amiază.\n\nDupă-amiaza, continuați explorarea mergând spre iconicul Moulin Rouge, o aluzie arhitecturală la viața de noapte pariziană chiar lângă Marea Roșie. Bucurați-vă de fațadele unice.\n\nÎncheiați-vă ziua la centrala Arena, un centru plin de viață pentru divertisment. Aleile largi și mulțimile pline de viață reflectă adevăratul spirit de vacanță al golfului.",
         "en": "Begin your walking tour through Makadi Bay at the elegant Cabaret, soaking in the area's rich theatrical atmosphere. A short stroll takes you to the impressive Theatre, where the open-air design hints at spectacular performances.\n\nAs the sun rises higher, transition towards the lively Aquapark Kids. The cheerful environment and refreshing water elements offer a delightful midday pause.\n\nIn the afternoon, continue your exploration by walking to the iconic Moulin Rouge, an architectural nod to Parisian nightlife right by the Red Sea. Enjoy the unique facades and creative ambiance.\n\nConclude your day at the central Arena, a bustling hub of entertainment. The wide pathways and lively evening crowds reflect the true holiday spirit of Makadi Bay perfectly."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den überdachten Bereichen des Resorts. Mittags bieten die Theater perfekten Schutz vor den kurzen Schauern. Am Nachmittag schlendern Sie vorsichtig über die nassen Fliesen zwischen den Attraktionen. Abends genießen Sie die Shows drinnen, während draußen die milde Meeresbrise den Regen verteilt.",
+            "hu": "Kezdje a napot a szállodakomplexum fedett folyosóin. Délben a színházak nyújtanak menedéket a frissítő záporok elől. Délután sétáljon óvatosan a vizes díszburkolaton a látnivalók között. Estére válasszon beltéri programot, élvezve a sós tengeri levegő illatát, amit a csapadék felerősít.",
+            "ro": "Începeți ziua sub arcadele acoperite ale complexului. La prânz, teatrele oferă adăpostul ideal împotriva ploilor scurte de coastă. După-amiaza, mergeți cu grijă pe aleile umede între punctele de interes. Seara, retrageți-vă la spectacolele de interior, ascultând ritmul ploii pe acoperiș.",
+            "en": "Start your day exploring the covered walkways of the resort. At noon, the theaters provide perfect shelter from the passing showers. In the afternoon, walk carefully on the wet tiles between the attractions. In the evening, enjoy indoor entertainment as the sea air turns fresh and humid."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cabaret",
+                "hu": "Cabaret",
+                "ro": "Cabaret",
+                "en": "Cabaret"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Vorstellung im Trockenen; der Innenraum ist ideal, um dem Regen zu entgehen und lokale Kunst zu erleben. Ein Regenschirm für den kurzen Weg ist ratsam.",
+                "hu": "Élvezze az előadást fedett helyen; a belső tér ideális az eső elkerülésére és a helyi művészet megismerésére. Vigyen ernyőt a bejárathoz vezető rövid útra.",
+                "ro": "Bucurați-vă de spectacol la adăpost; interiorul este ideal pentru a evita ploaia și a descoperi arta locală. O umbrelă este utilă pentru drumul scurt până la intrare.",
+                "en": "Enjoy the show in the dry; the interior is ideal for escaping the rain while experiencing local art. A small umbrella is recommended for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre",
+                "hu": "Theatre",
+                "ro": "Theatre",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Diese überdachte Anlage bietet auch bei Regen eine tolle Akustik; setzen Sie sich in die Mitte, um ganz trocken zu bleiben. Achten Sie auf rutschige Stufen am Eingang.",
+                "hu": "Ez a fedett helyszín esőben is kiváló akusztikát kínál; üljön középre, hogy teljesen száraz maradjon. Ügyeljen a csúszós lépcsőkre a bejáratnál.",
+                "ro": "Această locație acoperită oferă o acustică excelentă chiar și pe ploaie; stați la mijloc pentru a rămâne uscați. Atenție la treptele alunecoase de la intrare.",
+                "en": "This covered venue offers great acoustics even in the rain; sit in the center to stay completely dry. Watch out for slippery steps at the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquapark Kids",
+                "hu": "Aquapark Kids",
+                "ro": "Aquapark Kids",
+                "en": "Aquapark Kids"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist warm, also stört der Regen kaum; nutzen Sie die beheizten Zonen. Ein großes Handtuch bereit halten, da es beim Verlassen der Becken windig sein kann.",
+                "hu": "A víz meleg, így az eső alig zavaró; használják a fűtött zónákat. Legyen kéznél nagy törölköző, mert a medencékből kijőve szeles lehet az idő.",
+                "ro": "Apa este caldă, deci ploaia nu deranjează; folosiți zonele încălzite. Aveți la îndemână un prosop mare, deoarece poate fi vânt la ieșirea din bazine.",
+                "en": "The water is warm, so the rain is hardly bothersome; use the heated zones. Keep a large towel ready as it can get windy when leaving the pools."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Rouge",
+                "hu": "Moulin Rouge",
+                "ro": "Moulin Rouge",
+                "en": "Moulin Rouge"
+              },
+              "tip_5lang": {
+                "de": "Die farbenfrohe Dekoration hellt die Stimmung an grauen Regentagen auf; der Zugang ist fast vollständig überdacht. Ideal für ein warmes Getränk während eines Schauers.",
+                "hu": "A színes dekoráció feldobja a hangulatot a szürke esős napokon; a bejárat szinte teljesen fedett. Ideális egy forró italra, amíg elvonul az égi áldás.",
+                "ro": "Decorul colorat vă va binedispune în zilele ploioase; accesul este aproape complet acoperit. Ideal pentru o băutură caldă în timpul unei averse.",
+                "en": "The colorful decor brightens the mood on grey rainy days; the entrance is almost fully covered. Ideal for a warm drink while waiting out a shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena",
+                "hu": "Arena",
+                "ro": "Arena",
+                "en": "Arena"
+              },
+              "tip_5lang": {
+                "de": "Die Arena bietet weite, geschützte Sitzreihen; perfekt, um den Blick auf das Resort im Regen zu genießen. Die Wege dorthin können kleine Pfützen bilden.",
+                "hu": "Az Arena tágas, védett üléssorokat kínál; tökéletes a szálloda esőben úszó látványának megtekintéséhez. Az odavezető utakon kisebb tócsák alakulhatnak ki.",
+                "ro": "Arena oferă rânduri de scaune spațioase și protejate; perfect pentru a admira complexul sub ploaie. Aleile de acces pot avea mici bălți.",
+                "en": "The Arena offers spacious, protected seating rows; perfect for enjoying the view of the resort in the rain. Access paths may develop small puddles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne für ausgiebige Spaziergänge ohne Hitze. Mittags ist die beste Zeit für die Wasserparks, solange es am wärmsten ist. Der Sonnenuntergang gegen 17:00 Uhr taucht alles in goldenes Licht. Abends kühlt es schnell ab, packen Sie daher eine leichte Jacke ein.",
+            "hu": "Élvezze a lágy téli napsütést a hosszú sétákhoz a hőség nélkül. A délidő a legalkalmasabb a vízi parkok látogatására, amíg a legmelegebb van. A naplemente 17:00 körül arany fénybe vonja a tájat. Estére a levegő gyorsan lehűl, készítsen össze egy könnyű dzsekit.",
+            "ro": "Bucurați-vă de soarele blând de iarnă pentru plimbări lungi fără caniculă. Prânzul este momentul ideal pentru parcurile acvatice, cât timp e cald. Apusul de la ora 17:00 scaldă totul în lumină aurie. Seara se răcește brusc, deci luați o jachetă subțire.",
+            "en": "Enjoy the mild winter sun for long walks without the intense heat. Noon is the best time for water parks while temperatures are highest. Sunset around 17:00 paints the landscape in golden light. Evenings cool down quickly, so bring a light jacket."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cabaret",
+                "hu": "Cabaret",
+                "ro": "Cabaret",
+                "en": "Cabaret"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Vorstellungen weniger überlaufen; die angenehme Raumtemperatur macht den Besuch sehr entspannt. Perfekt für den späten Nachmittag.",
+                "hu": "Télen az előadások kevésbé zsúfoltak; a kellemes belső hőmérséklet nagyon pihentetővé teszi a látogatást. Tökéletes program a késő délutánra.",
+                "ro": "Iarna, spectacolele sunt mai puțin aglomerate; temperatura interioară plăcută face vizita foarte relaxantă. Perfect pentru după-amiaza târzie.",
+                "en": "In winter, shows are less crowded; the pleasant indoor temperature makes the visit very relaxing. A perfect activity for the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre",
+                "hu": "Theatre",
+                "ro": "Theatre",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Architektur; die offene Bauweise ist ohne die Sommerhitze sehr angenehm. Ein Schal schützt vor der Abendbrise.",
+                "hu": "Használja ki a tiszta téli fényeket az építészet fotózásához; a nyitott szerkezet a nyári hőség nélkül nagyon kellemes. Egy sál védhet az esti szellőtől.",
+                "ro": "Profită de lumina clară de iarnă pentru fotografii; structura deschisă este foarte plăcută fără căldura verii. Un fular vă poate proteja de briza serii.",
+                "en": "Take advantage of the clear winter light for architectural photos; the open structure is very pleasant without the summer heat. A scarf helps against the evening breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquapark Kids",
+                "hu": "Aquapark Kids",
+                "ro": "Aquapark Kids",
+                "en": "Aquapark Kids"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Stopp zwischen 11 und 14 Uhr für maximale Sonnenwärme; die beheizten Becken sind im Winter ein Muss. Trocknen Sie sich sofort nach dem Baden ab.",
+                "hu": "Látogasson el ide 11 és 14 óra között a maximális napsütésért; a fűtött medencék télen elengedhetetlenek. Fürdés után azonnal szárítkozzon meg.",
+                "ro": "Vizitați acest punct între orele 11 și 14 pentru căldură maximă; bazinele încălzite sunt obligatorii iarna. Uscați-vă imediat după baie.",
+                "en": "Visit this stop between 11:00 and 14:00 for maximum sun warmth; the heated pools are a must in winter. Dry off immediately after swimming."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Rouge",
+                "hu": "Moulin Rouge",
+                "ro": "Moulin Rouge",
+                "en": "Moulin Rouge"
+              },
+              "tip_5lang": {
+                "de": "Die lebendige Atmosphäre ist ein toller Kontrast zum frühen Sonnenuntergang; genießen Sie die Farbenpracht im weichen Winterlicht. Idealer Ort für einen Kaffee.",
+                "hu": "A vibráló hangulat remek kontraszt a korai naplementéhez; élvezze a színek pompáját a lágy téli fényben. Ideális hely egy délutáni kávéhoz.",
+                "ro": "Atmosfera vibrantă este un contrast excelent cu apusul timpuriu; bucurați-vă de culori în lumina blândă a iernii. Locul ideal pentru o cafea după-amiaza.",
+                "en": "The vibrant atmosphere is a great contrast to the early sunset; enjoy the colors in the soft winter light. An ideal spot for an afternoon coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena",
+                "hu": "Arena",
+                "ro": "Arena",
+                "en": "Arena"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen Spaziergang vor Einbruch der Dunkelheit; die Arena wirkt im Winterlicht besonders imposant. Beachten Sie, dass es ab 17 Uhr kühl wird.",
+                "hu": "Szép hely egy sétához sötétedés előtt; az Arena a téli fényekben különösen impozáns. Vegye figyelembe, hogy 17 óra után gyorsan hűlni kezd az idő.",
+                "ro": "Un loc frumos pentru o plimbare înainte de lăsarea întunericului; Arena arată impunător în lumina iernii. Rețineți că se răcește rapid după ora 17:00.",
+                "en": "A beautiful place for a walk before dark; the Arena looks particularly imposing in the winter light. Note that it starts cooling down fast after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a vidám Aquapark Kids-ben, hagyva, hogy az energikus hangulat pozitív alaphangot adjon a napnak. Tekerjen el a Moulin Rouge-hoz, élvezve a reggeli szellőt.\n\nLovagoljon a központi szórakoztató negyed felé, hogy felfedezze a nagyszerű Theatre-t. Folytassa útját a közeli Cabaret-hez, miközben a pálmafákkal szegélyezett utcákon navigál.\n\nDélután tekerjen egy kicsit tovább a fenséges Amphitheater felé. Ez a lenyűgöző építmény rengeteg fotogén pillanatot kínál, mielőtt az esti árnyékok elkezdenek hullani.\n\nFejezze be a kerékpártúrát a pihentető Shisha Corner-ben. Parkolja le kerékpárját, és kapcsolódjon ki a hagyományosan díszített szabadtéri társalgóban, tökéletesen zárva a napot.",
         "ro": "Începeți aventura pe bicicletă la Aquapark Kids, lăsând vibrația plină de energie să stabilească un ton pozitiv. Pedalați lin către Moulin Rouge, bucurându-vă de briza dimineții.\n\nMergeți spre districtul central de divertisment pentru a descoperi grandiosul Theatre. Continuați-vă călătoria către Cabaret, navigând pe străzile mărginite de palmieri ale stațiunii.\n\nDupă-amiaza, pedalați puțin mai departe către majestuosul Amphitheater. Această structură impresionantă oferă o mulțime de momente fotogenice înainte ca umbrele serii să cadă.\n\nTerminați-vă turul cu bicicleta la relaxantul Shisha Corner. Parcați bicicleta și relaxați-vă în lounge-ul în aer liber decorat tradițional pentru a încheia o zi activă.",
         "en": "Start your cycling adventure at the fun-filled Aquapark Kids, letting the energetic vibe set a positive tone for the day. Pedal smoothly over to the famous Moulin Rouge to admire its design.\n\nRide towards the central entertainment district to discover the grand Theatre. Continue your cycling journey to the nearby Cabaret, feeling the theatrical pulse of Makadi Bay.\n\nAs the afternoon sets in, cycle slightly further out to the majestic Amphitheater. This impressive structure offers plenty of photogenic moments before the evening shadows begin to fall.\n\nFinish your bike tour at the relaxing Shisha Corner. Park your bicycle and unwind in the traditionally decorated outdoor lounge, creating a perfect tranquil end to an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig auf den nassen Resortwegen, da die Reifen auf Fliesen rutschen können. Mittags bieten die überdachten Theater gute Pausenplätze. Am Nachmittag radeln Sie schnell zwischen den Schauern zu den Highlights. Abends ist ein warmes Getränk am Shisha Corner der ideale Abschluss nach der feuchten Tour.",
+            "hu": "Óvatosan tekerjen a vizes utakon, mert a burkolat csúszóssá válhat. Délben a fedett színházaknál tarthat pihenőt az eső elől. Délután használja ki a szüneteket a csapadékban a gyors közlekedéshez. Estére a Shisha Corner meleg teája lesz a legjobb jutalom a nedves túra után.",
+            "ro": "Pedalați cu atenție pe aleile umede, deoarece pneurile pot aluneca pe plăci. La prânz, teatrele acoperite oferă locuri bune de popas. După-amiaza, pedalați rapid între reprizele de ploaie. Seara, o băutură caldă la Shisha Corner este finalul ideal după tura umedă.",
+            "en": "Ride carefully on wet resort paths, as tires can slip on tiled surfaces. At noon, covered theaters offer good break spots from the rain. In the afternoon, cycle quickly between showers to reach the highlights. In the evening, a warm drink at Shisha Corner is the perfect reward after a damp tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aquapark Kids",
+                "hu": "Aquapark Kids",
+                "ro": "Aquapark Kids",
+                "en": "Aquapark Kids"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem trockenen Platz; im Wasser macht der Regen nichts aus, solange es nicht windig ist. Nutzen Sie die Umkleiden zum Abtrocknen.",
+                "hu": "Parkolja le a biciklit száraz helyen; a vízben nem számít az eső, amíg nem fúj a szél. Használja az öltözőket az alapos megszárítkozáshoz.",
+                "ro": "Parcați bicicleta într-un loc uscat; în apă ploaia nu contează, atâta timp cât nu e vânt. Folosiți vestiarele pentru a vă usca bine.",
+                "en": "Park your bike in a dry spot; in the water, the rain doesn't matter as long as it's not windy. Use the changing rooms to dry off thoroughly."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Rouge",
+                "hu": "Moulin Rouge",
+                "ro": "Moulin Rouge",
+                "en": "Moulin Rouge"
+              },
+              "tip_5lang": {
+                "de": "Der Eingangsbereich bietet guten Schutz für eine kurze Pause; die bunten Fassaden leuchten auch bei grauem Himmel. Vorsicht beim Auf- und Absteigen auf nassem Grund.",
+                "hu": "A bejárati rész jó védelmet nyújt egy rövid pihenőre; a színes homlokzatok szürke ég alatt is világítanak. Vigyázzon a fel- és leszálláskor a vizes talajon.",
+                "ro": "Zona de intrare oferă protecție bună pentru o scurtă pauză; fațadele colorate strălucesc și sub cerul gri. Atenție la urcarea și coborârea de pe bicicletă pe sol umed.",
+                "en": "The entrance area offers good protection for a short break; the colorful facades glow even under grey skies. Be careful when mounting/dismounting on wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre",
+                "hu": "Theatre",
+                "ro": "Theatre",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Rad kurz stehen zu lassen und eine Show im Trockenen zu genießen. Prüfen Sie die Bremsen nach der Fahrt durch Pfützen.",
+                "hu": "Ideális hely a bicikli leállítására, és egy előadás megtekintésére szárazon. Ellenőrizze a fékeket, miután tócsákon tekert keresztül.",
+                "ro": "Un loc ideal pentru a lăsa bicicleta și a vă bucura de un spectacol la adăpost. Verificați frânele după ce ați trecut prin bălți.",
+                "en": "An ideal place to park the bike and enjoy a show in the dry. Check your brakes after riding through puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabaret",
+                "hu": "Cabaret",
+                "ro": "Cabaret",
+                "en": "Cabaret"
+              },
+              "tip_5lang": {
+                "de": "Die kurzen Wege zwischen den Gebäuden minimieren den Kontakt mit dem Regen; parken Sie unter den Arkaden. Der Innenraum ist warm und einladend.",
+                "hu": "Az épületek közötti rövid utak minimalizálják az érintkezést az esővel; parkoljon az árkádok alatt. A belső tér meleg és hívogató.",
+                "ro": "Distanțele scurte între clădiri minimizează contactul cu ploaia; parcați sub arcade. Interiorul este cald și primitor.",
+                "en": "Short distances between buildings minimize contact with rain; park under the arcades. The interior is warm and inviting."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amphitheater",
+                "ro": "Amphitheater",
+                "en": "Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf den Steinstufen, wenn diese nass sind; die weite Fläche bietet jedoch viele Unterstände. Ein Regenponcho ist hier sehr nützlich.",
+                "hu": "Kerülje a biciklizést közvetlenül a kőlépcsőkön, ha azok vizesek; a tágas területen sok a fedett rész. Egy esőponcsó itt nagyon hasznos lehet.",
+                "ro": "Evitați să pedalați direct pe treptele de piatră dacă sunt ude; zona vastă oferă însă multe adăposturi. O pelerină de ploaie este foarte utilă aici.",
+                "en": "Avoid cycling directly on the stone steps when they are wet; the vast area offers many shelters though. A rain poncho is very useful here."
+              }
+            },
+            {
+              "name": {
+                "de": "Shisha Corner",
+                "hu": "Shisha Corner",
+                "ro": "Shisha Corner",
+                "en": "Shisha Corner"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort, um die Tour zu beenden und sich bei einem Tee aufzuwärmen; der Bereich ist gut vor Wind und Regen geschützt. Parkplätze sind direkt davor vorhanden.",
+                "hu": "A legjobb hely a túra befejezéséhez és egy tea melletti felmelegedéshez; a terület védett a széltől és az esőtől. Parkoló közvetlenül előtte található.",
+                "ro": "Cel mai bun loc pentru a încheia turul și a vă încălzi cu un ceai; zona este protejată de vânt și ploaie. Parcarea este disponibilă chiar în față.",
+                "en": "The best place to end the tour and warm up with a tea; the area is well protected from wind and rain. Parking is available right in front."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Winterklima ist ideal zum Radfahren, da die Sonne nicht zu stark brennt. Nutzen Sie die Mittagsstunden für die Wasserattraktionen. Achten Sie auf den frühen Sonnenuntergang um 17:00 Uhr, danach wird es auf dem Rad schnell kühl. Eine Windjacke ist für die Fahrt entlang der Küste unverzichtbar.",
+            "hu": "A téli klíma ideális a biciklizéshez, mert a nap nem tűz túl erősen. Használja ki a déli órákat a vízi attrakciókhoz. Ügyeljen a korai, 17:00 órai naplementére, utána a bringán gyorsan lehűl az idő. Egy szélkabát elengedhetetlen a parti tekeréshez.",
+            "ro": "Clima de iarnă este ideală pentru ciclism, deoarece soarele nu arde prea tare. Profită de orele prânzului pentru atracțiile acvatice. Atenție la apusul devreme de la ora 17:00, după care se răcește rapid pe bicicletă. O jachetă de vânt este indispensabilă.",
+            "en": "The winter climate is ideal for cycling as the sun isn't too intense. Use the midday hours for water attractions. Be mindful of the early sunset at 17:00, after which it cools down quickly on the bike. A windbreaker is essential for coastal riding."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aquapark Kids",
+                "hu": "Aquapark Kids",
+                "ro": "Aquapark Kids",
+                "en": "Aquapark Kids"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist die beste Zeit zum Planschen, wenn die Luft am wärmsten ist; die beheizten Pools sind perfekt für den Winterurlaub. Nehmen Sie trockene Kleidung zum Wechseln mit.",
+                "hu": "Délben a legjobb pancsolni, amikor a levegő a legmelegebb; a fűtött medencék tökéletesek a téli pihenéshez. Vigyen száraz váltóruhát a biciklizéshez.",
+                "ro": "Prânzul este cel mai bun moment pentru bălăceală, când aerul e cald; bazinele încălzite sunt perfecte pentru iarnă. Luați haine de schimb uscate.",
+                "en": "Midday is the best time for splashing when the air is warmest; heated pools are perfect for winter holidays. Bring dry clothes to change into for the ride back."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Rouge",
+                "hu": "Moulin Rouge",
+                "ro": "Moulin Rouge",
+                "en": "Moulin Rouge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das sanfte Winterlicht für Fotos der farbigen Gebäude; die Temperatur ist perfekt für eine Erkundungstour zu Fuß rund um den Stopp. Radständer sind vorhanden.",
+                "hu": "Élvezze a lágy téli fényeket a színes épületek fotózásához; a hőmérséklet tökéletes a megálló környékének gyalogos felfedezéséhez. Biciklitárolók rendelkezésre állnak.",
+                "ro": "Bucurați-vă de lumina blândă a iernii pentru fotografii; temperatura este perfectă pentru a explora zona pe jos. Există rastele pentru biciclete.",
+                "en": "Enjoy the soft winter light for photos of the colorful buildings; the temperature is perfect for exploring the area on foot. Bike racks are available."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre",
+                "hu": "Theatre",
+                "ro": "Theatre",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Eine Show am Nachmittag ist die perfekte Pause vom Radfahren; ohne die Sommerfeuchtigkeit ist das Klima im Inneren sehr angenehm. Sichern Sie Ihr Rad ordnungsgemäß.",
+                "hu": "Egy délutáni előadás tökéletes szünet a biciklizésben; a nyári páratartalom nélkül a belső klíma nagyon kellemes. Zárolja le megfelelően a kerékpárt.",
+                "ro": "Un spectacol după-amiaza este pauza perfectă de la pedalat; fără umiditatea verii, climatul interior este foarte plăcut. Asigurați-vă bicicleta corespunzător.",
+                "en": "An afternoon show is the perfect break from cycling; without summer humidity, the indoor climate is very pleasant. Ensure your bike is properly locked."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabaret",
+                "hu": "Cabaret",
+                "ro": "Cabaret",
+                "en": "Cabaret"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Erfrischung im Schatten, bevor die kühle Abendluft einsetzt; im Winter ist die Atmosphäre hier besonders entspannt. Das Radfahren dazwischen belebt.",
+                "hu": "Tökéletes egy frissítőre az árnyékban, mielőtt beáll a hűvös esti levegő; télen az itteni hangulat különösen pihentető. A köztes biciklizés frissítőleg hat.",
+                "ro": "Perfect pentru o revigorare la umbră înainte de aerul rece de seară; iarna, atmosfera este foarte relaxată. Ciclismul între puncte vă va revigora.",
+                "en": "Perfect for a refreshment in the shade before the cool evening air sets in; in winter, the atmosphere here is especially relaxed. The cycling in between is invigorating."
+              }
+            },
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amphitheater",
+                "ro": "Amphitheater",
+                "en": "Amphitheater"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufige Anlage bietet im Winter tolle Ausblicke auf das Meer; radeln Sie entspannt über das Gelände. Denken Sie an den frühen Sonnenuntergang um 17 Uhr.",
+                "hu": "A tágas komplexum télen remek kilátást nyújt a tengerre; tekerjen kényelmesen a területen. Ne feledkezzen meg a korai, 17 órai naplementéről.",
+                "ro": "Complexul vast oferă vederi superbe la mare iarna; pedalați relaxat prin zonă. Nu uitați de apusul devreme de la ora 17:00.",
+                "en": "The vast complex offers great sea views in winter; cycle comfortably through the grounds. Keep in mind the early sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Shisha Corner",
+                "hu": "Shisha Corner",
+                "ro": "Shisha Corner",
+                "en": "Shisha Corner"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Abschluss, um bei einem heißen Minztee den Sonnenuntergang zu beobachten; ziehen Sie sich für die Rückfahrt warm an. Die Winterabende sind am Meer kühl.",
+                "hu": "Ideális befejezés a naplemente megtekintéséhez egy forró mentatea mellett; öltözzön fel melegen a visszaútra. A téli esték hűvösek a tengerparton.",
+                "ro": "Finalul ideal pentru a vedea apusul cu un ceai fierbinte de mentă; îmbrăcați-vă bine pentru drumul de întoarcere. Serile de iarnă sunt reci la malul mării.",
+                "en": "The ideal finish to watch the sunset with a hot mint tea; dress warmly for the ride back. Winter evenings are chilly by the sea."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a SeaHorses-nál, amely egy gyönyörű északi hely a parti reggeli nyugalomhoz. Innen utazzon el az energikus Aquapark Kids-be, hogy megtapasztalja az öböl vidám oldalát.\n\nVezessen kényelmesen a Moulin Rouge-hoz és a Theatre-hez, élvezve a légkondicionáló kényelmét, miközben e kulturális nevezetességek között ugrál a központi területen.\n\nDélután induljon a látványos Makadi Aqua Parkba, amely egy hatalmas medencekomplexum. Ezután hajtson tovább a Shisha Corner felé egy rövid megállóra, hogy megcsodálja a hagyományos esztétikáját.\n\nFejezze be átfogó autós útját a déli Serenity Water Parkban. Az érkezés, amikor a nap lehűl, lehetővé teszi, hogy lágy esti fényben lássa a nagyszerű létesítményeket.",
         "ro": "Începeți turul cu mașina la SeaHorses, un loc frumos în nord perfect pentru calmul dimineții de coastă. Conduceți rapid către Aquapark Kids, văzând latura recreativă a golfului înainte de căldură.\n\nConduceți confortabil la Moulin Rouge și la Theatre, bucurându-vă de aerul condiționat în timp ce săriți între aceste repere culturale. Zona centrală este ușor de explorat cu mașina.\n\nMergeți la spectaculosul Makadi Aqua Park, un complex imens de piscine. Ulterior, faceți o croazieră către Shisha Corner pentru o scurtă oprire pentru a admira estetica sa primitoare.\n\nÎncheiați-vă călătoria cuprinzătoare la Serenity Water Park din sud. Ajungând când ziua se răcește, vă permite să vedeți facilitățile sub o lumină moale, de seară, perfect.",
         "en": "Kick off your driving tour at SeaHorses, a beautiful spot in the north perfect for embracing the coastal morning calm. Take a quick drive down to the energetic Aquapark Kids before midday.\n\nDrive comfortably to the Moulin Rouge and the adjacent Theatre, enjoying the convenience of air conditioning as you hop between these cultural landmarks in the central bay area.\n\nHead out to the spectacular Makadi Aqua Park, an immense complex of pools and towering slides. Afterwards, cruise towards the Shisha Corner for a short stop to admire its traditional aesthetics.\n\nEnd your comprehensive road trip at the southern Serenity Water Park. Arriving as the day cools down lets you see the grand recreational facilities under a soft evening light, perfectly concluding the trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist bei Regen das beste Transportmittel im Resort; prüfen Sie die Wischerblätter vor dem Start. Mittags steuern Sie die großen Wasserparks an, die beheizte Innenbereiche haben. Am Nachmittag sind die Wege zwischen den Zielen sicher und trocken im Wagen zu bewältigen. Abends parken Sie direkt an den Entertainment-Hubs.",
+            "hu": "Az autó a legjobb választás esőben; indulás előtt ellenőrizze az ablaktörlőket. Délben látogassa meg a nagy vízi parkokat, ahol fűtött belső terek is vannak. Délután az úti célok közötti távolságokat biztonságban és szárazon teheti meg a kocsiban. Este parkoljon közvetlenül a szórakoztató központoknál.",
+            "ro": "Mașina este cel mai bun mod de transport pe ploaie; verificați ștergătoarele înainte de plecare. La prânz, mergeți la parcurile acvatice cu zone interioare încălzite. După-amiaza, parcurgeți distanțele dintre obiective în siguranță și confort. Seara, parcați aproape de centrele de divertisment.",
+            "en": "A car is the best way to get around the resort in the rain; check your wiper blades before starting. At noon, head to the large water parks with heated indoor areas. In the afternoon, cover the distances between stops safely and dry in the vehicle. In the evening, park right by the entertainment hubs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "SeaHorses",
+                "hu": "SeaHorses",
+                "ro": "SeaHorses",
+                "en": "SeaHorses"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Pferde aus dem trockenen Auto oder nutzen Sie die überdachten Ställe; der Regen macht den Tieren nichts aus. Parken Sie auf befestigtem Untergrund.",
+                "hu": "Figyelje meg a lovakat a száraz autóból, vagy használja a fedett istállókat; az eső nem zavarja az állatokat. Parkoljon szilárd burkolatú helyen.",
+                "ro": "Observați caii din mașina uscată sau folosiți grajdurile acoperite; ploaia nu deranjează animalele. Parcați pe o suprafață stabilă.",
+                "en": "Observe the horses from the dry car or use the covered stables; the rain doesn't bother the animals. Park on a paved surface if possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquapark Kids",
+                "hu": "Aquapark Kids",
+                "ro": "Aquapark Kids",
+                "en": "Aquapark Kids"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; im Wasser stört der Regen nicht, aber der Weg zurück zum Auto sollte kurz sein. Nutzen Sie die beheizten Umkleideräume.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a vízben nem zavaró az eső, de az autóhoz visszaút legyen rövid. Használja a fűtött öltözőket.",
+                "ro": "Parcați cât mai aproape de intrare; în apă ploaia nu deranjează, dar drumul înapoi la mașină trebuie să fie scurt. Folosiți vestiarele încălzite.",
+                "en": "Park as close to the entrance as possible; the rain isn't an issue in the water, but the walk back to the car should be short. Use heated changing rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Rouge",
+                "hu": "Moulin Rouge",
+                "ro": "Moulin Rouge",
+                "en": "Moulin Rouge"
+              },
+              "tip_5lang": {
+                "de": "Die farbenfrohe Anlage bietet viele überdachte Gänge, die Sie schnell vom Parkplatz aus erreichen. Ideal für ein Indoor-Erlebnis bei schlechtem Wetter.",
+                "hu": "A színes komplexum sok fedett folyosót kínál, amiket a parkolóból gyorsan elérhet. Ideális beltéri élmény rossz idő esetén is.",
+                "ro": "Complexul colorat oferă multe coridoare acoperite, accesibile rapid din parcare. Ideal pentru o experiență de interior pe vreme rea.",
+                "en": "The colorful complex offers many covered walkways reachable quickly from the parking lot. Ideal for an indoor experience during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre",
+                "hu": "Theatre",
+                "ro": "Theatre",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Akustik im geschützten Bereich; das Auto hält Ihre Sachen trocken, während Sie die Show besuchen. Achten Sie auf Pfützen auf dem Parkplatz.",
+                "hu": "Élvezze az akusztikát a védett területen; az autó szárazon tartja a holmiját, amíg ön az előadáson van. Ügyeljen a tócsákra a parkolóban.",
+                "ro": "Bucurați-vă de acustică în zona protejată; mașina vă ține lucrurile uscate în timpul spectacolului. Atenție la bălțile din parcare.",
+                "en": "Enjoy the acoustics in the protected area; the car keeps your belongings dry while you attend the show. Watch out for puddles in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Makadi Aqua Park",
+                "hu": "Makadi Aqua Park",
+                "ro": "Makadi Aqua Park",
+                "en": "Makadi Aqua Park"
+              },
+              "tip_5lang": {
+                "de": "Dieser große Park bietet viele Möglichkeiten, auch bei Regen Spaß zu haben; das Wasser ist meist beheizt. Ein kurzer Sprint zum Auto nach dem Bad ist ratsam.",
+                "hu": "Ez a nagy park sok lehetőséget kínál az esőben is; a víz többnyire fűtött. Fürdés után egy gyors sprint az autóig ajánlott a megfázás elkerülésére.",
+                "ro": "Acest parc mare oferă multe opțiuni de distracție chiar și pe ploaie; apa este de obicei încălzită. Un sprint rapid spre mașină după baie este recomandat.",
+                "en": "This large park offers many options for fun even in the rain; the water is mostly heated. A quick sprint to the car after swimming is advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "Shisha Corner",
+                "hu": "Shisha Corner",
+                "ro": "Shisha Corner",
+                "en": "Shisha Corner"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine gemütliche Pause im Trockenen; die Anfahrt mit dem Auto ist sehr bequem. Genießen Sie die entspannte Atmosphäre trotz Regen.",
+                "hu": "Tökéletes hely egy hangulatos pihenőre szárazon; az autóval való megközelítés nagyon kényelmes. Élvezze a nyugodt hangulatot az eső ellenére is.",
+                "ro": "Locul perfect pentru o pauză confortabilă la adăpost; accesul cu mașina este foarte comod. Bucurați-vă de atmosfera relaxată în ciuda ploii.",
+                "en": "The perfect spot for a cozy break in the dry; reaching it by car is very convenient. Enjoy the relaxed atmosphere despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Serenity Water Park",
+                "hu": "Serenity Water Park",
+                "ro": "Serenity Water Park",
+                "en": "Serenity Water Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Indoor-Rutschen und beheizten Bereiche; das Auto ist für den Rückweg in nasser Kleidung (mit Handtuchunterlage) ideal. Parkplätze sind nah am Eingang.",
+                "hu": "Használja a beltéri csúszdákat és a fűtött részeket; az autó ideális a visszaútra a nedves ruhában (törölközővel leterítve). A parkoló közel van a bejárathoz.",
+                "ro": "Folosiți toboganele interioare și zonele încălzite; mașina este ideală pentru drumul de întoarcere în haine ude. Parcarea este aproape de intrare.",
+                "en": "Use the indoor slides and heated areas; the car is ideal for the ride back in wet gear (use towels on seats). Parking is close to the entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das milde Winterwetter ist perfekt für eine Erkundungstour mit dem Auto. Mittags ist die ideale Zeit für die Wasserparks, solange die Sonne kräftig scheint. Planen Sie Ihre Rückfahrt vor 17:00 Uhr ein, um den plötzlichen Temperaturabfall zu umgehen. Die Klimaanlage im Auto hilft gegen die trockene Winterluft.",
+            "hu": "A lágy téli időjárás tökéletes egy autós felfedezőtúrához. Délben a legideálisabb a vízi parkok látogatása, amíg erősen süt a nap. Tervezze meg a visszautat 17:00 előtt, hogy elkerülje a hirtelen lehűlést. Az autó klímája segít a száraz téli levegő ellensúlyozásában.",
+            "ro": "Vremea blândă de iarnă este perfectă pentru o explorare cu mașina. Prânzul este momentul ideal pentru parcurile acvatice, cât timp soarele e sus. Planificați drumul înapoi înainte de ora 17:00 pentru a evita răcirea bruscă. Aerul condiționat ajută contra aerului uscat.",
+            "en": "The mild winter weather is perfect for a car exploration tour. Midday is the ideal time for water parks while the sun is still strong. Plan your return trip before 17:00 to avoid the sudden drop in temperature. The car's climate control helps against the dry winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "SeaHorses",
+                "hu": "SeaHorses",
+                "ro": "SeaHorses",
+                "en": "SeaHorses"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Pferde morgens sehr aktiv; genießen Sie den Besuch in der milden Vormittagssonne. Parken Sie im Schatten, um das Auto kühl zu halten.",
+                "hu": "Télen a lovak reggel nagyon aktívak; élvezze a látogatást a lágy délelőtti napsütésben. Parkoljon árnyékba, hogy az autó hűvös maradjon.",
+                "ro": "Iarna, caii sunt foarte activi dimineața; bucurați-vă de vizită în soarele blând al dimineții. Parcați la umbră pentru a menține mașina răcoroasă.",
+                "en": "In winter, horses are very active in the morning; enjoy the visit in the mild morning sun. Park in the shade to keep the car interior cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquapark Kids",
+                "hu": "Aquapark Kids",
+                "ro": "Aquapark Kids",
+                "en": "Aquapark Kids"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die wärmsten Stunden des Tages für diesen Stopp; beheizte Pools machen den Winterbesuch angenehm. Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
+                "hu": "Használja ki a nap legmelegebb óráit ehhez a megállóhoz; a fűtött medencék kellemessé teszik a téli látogatást. Ne hagyjon értéket látható helyen az autóban.",
+                "ro": "Profită de cele mai calde ore ale zilei pentru această oprire; bazinele încălzite fac vizita plăcută. Nu lăsați obiecte de valoare la vedere în mașină.",
+                "en": "Take advantage of the warmest hours of the day for this stop; heated pools make winter visits pleasant. Don't leave valuables visible in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin Rouge",
+                "hu": "Moulin Rouge",
+                "ro": "Moulin Rouge",
+                "en": "Moulin Rouge"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht ist perfekt, um die bunte Architektur zu fotografieren; die Parkplätze sind im Winter leicht zu finden. Ein schöner Ort für einen Spaziergang.",
+                "hu": "A lágy téli fény tökéletes a színes építészet fotózásához; a parkolóhelyeket télen könnyű megtalálni. Szép hely egy rövid sétához a kocsiból kiszállva.",
+                "ro": "Lumina blândă de iarnă este perfectă pentru a fotografia arhitectura colorată; parcarea este ușor de găsit iarna. Un loc frumos pentru o plimbare scurtă.",
+                "en": "The soft winter light is perfect for photographing the colorful architecture; parking spots are easy to find in winter. A nice place for a short stroll after parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre",
+                "hu": "Theatre",
+                "ro": "Theatre",
+                "en": "Theatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Vorstellungen ohne die sommerliche Hitze; das Klima im Theater ist im Winter ideal. Das Auto bietet Komfort für den Weg dorthin.",
+                "hu": "Élvezze az előadásokat a nyári hőség nélkül; a színház belső klímája télen ideális. Az autó kényelmes megoldást nyújt az odaúthoz.",
+                "ro": "Bucurați-vă de spectacole fără căldura verii; climatul din teatru este ideal iarna. Mașina oferă confortul necesar pentru drum.",
+                "en": "Enjoy the shows without the summer heat; the theater's climate is ideal in winter. The car provides comfort for the journey there."
+              }
+            },
+            {
+              "name": {
+                "de": "Makadi Aqua Park",
+                "hu": "Makadi Aqua Park",
+                "ro": "Makadi Aqua Park",
+                "en": "Makadi Aqua Park"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss im Winter, dank der beheizten Wasserattraktionen; verbringen Sie hier den Mittag für die besten Temperaturen. Parken Sie nah am Haupteingang.",
+                "hu": "Télen kihagyhatatlan a fűtött vízi attrakciók miatt; töltse itt a délidőt a legjobb hőmérsékletért. Parkoljon közel a főbejárathoz.",
+                "ro": "O necesitate iarna datorită atracțiilor acvatice încălzite; petreceți prânzul aici pentru cele mai bune temperaturi. Parcați aproape de intrarea principală.",
+                "en": "A must in winter thanks to heated water attractions; spend midday here for the best temperatures. Park close to the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Shisha Corner",
+                "hu": "Shisha Corner",
+                "ro": "Shisha Corner",
+                "en": "Shisha Corner"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um den frühen Sonnenuntergang bei einem warmen Getränk zu sehen; die Rückfahrt im beheizten Auto ist danach sehr angenehm. Warme Kleidung einpacken.",
+                "hu": "Ideális a korai naplemente megtekintéséhez egy meleg ital mellett; a visszaút a fűtött autóban utána nagyon kellemes. Készítsen be meleg ruhát.",
+                "ro": "Ideal pentru a vedea apusul timpuriu cu o băutură caldă; drumul de întoarcere în mașina încălzită va fi foarte plăcut. Luați haine groase.",
+                "en": "Ideal for watching the early sunset with a warm drink; the return trip in a heated car is very pleasant afterwards. Pack some warm clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Serenity Water Park",
+                "hu": "Serenity Water Park",
+                "ro": "Serenity Water Park",
+                "en": "Serenity Water Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Nachmittag in den beheizten Pools, solange die Sonne scheint; das Auto ist perfekt, um schnell ins Hotel zurückzukommen. Ein toller Winterstopp.",
+                "hu": "Élvezze a délutánt a fűtött medencékben, amíg süt a nap; az autó tökéletes a gyors visszatéréshez a hotelbe. Remek téli megálló.",
+                "ro": "Bucurați-vă de după-amiază în bazinele încălzite cât soarele e sus; mașina e perfectă pentru o întoarcere rapidă la hotel. O oprire excelentă iarna.",
+                "en": "Enjoy the afternoon in heated pools while the sun is out; the car is perfect for a quick return to the hotel. A great winter stop for families."
+              }
+            }
+          ]
+        }
       }
     }
   }

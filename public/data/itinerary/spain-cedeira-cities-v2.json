@@ -137,6 +137,168 @@
         "hu": "Sétánk Cedeira történelmi szívében, az ősi városfalnál kezdődik, mielőtt tiszteletünket tennénk a kikötőben álló halászfeleség szobra előtt. Késő délelőtt a tengerészeti múzeumban mélyedünk el a kultúrában. Délután kényelmesen elindulunk a világítótoronyhoz, majd a napot a festői öbölnél zárjuk, ahol a tengeri szellő és a hullámok lágy zúgása nyújt tökéletes kikapcsolódást.",
         "ro": "Plimbarea noastră începe în inima istorică a orașului Cedeira, la vechiul zid, înainte de a aduce un omagiu soției pescarului din port. Spre sfârșitul dimineții, ne cufundăm în cultura marină la muzeu. După-amiaza, ne plimbăm pe îndelete până la far și încheiem ziua în golful pitoresc, unde briza mării și sunetul blând al valurilor oferă o relaxare absolută.",
         "en": "Our walk begins in the historical heart of Cedeira at the ancient city wall before paying respects to the fisherman's wife at the harbor. By late morning, we dive deep into local maritime culture at the museum. In the afternoon, we stroll leisurely to the charming lighthouse and end the day at the picturesque bay, where the sea breeze and gentle sound of waves offer absolute relaxation."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an den alten Mauern, wo der Regen die Steine glänzen lässt. Mittags bietet das Museum einen trockenen Zufluchtsort vor den galicischen Schauern. Am Nachmittag peitscht der Wind am Leuchtturm, bringen Sie wetterfeste Kleidung mit. Der Abend endet mystisch im Nebel der Flussmündung.",
+            "hu": "A reggel a falaknál indul, ahol a nedves kövek csillognak a szürkületben. Délben a múzeum falai között keresünk menedéket a galíciai záporok elől. Délután a világítótoronynál a vad atlanti szél és az eső mossa az arcunkat. Este a torkolat misztikus ködfátyolba burkolózik, tökéletes lezárásként.",
+            "ro": "Dimineața începe la vechile ziduri, unde ploaia face pietrele să strălucească. La prânz, muzeul oferă un refugiu uscat împotriva averselor galiciene. După-amiaza, vântul bate puternic la far, aduceți haine impermeabile. Seara se încheie mistic în ceața estuarului.",
+            "en": "Morning starts at the walls where the wet stones glisten in the twilight. At noon, seek refuge within the museum walls from the Galician showers. In the afternoon, the wild Atlantic wind and rain lash the lighthouse. The evening wraps the estuary in a mystical veil of mist as a perfect conclusion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antiga Muralla",
+                "hu": "Antiga Muralla",
+                "ro": "Antiga Muralla",
+                "en": "Antiga Muralla"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Granitsteine können extrem rutschig sein, gehen Sie also vorsichtig an den Mauern entlang und tragen Sie unbedingt Gummisohlen zur Sicherheit.",
+                "hu": "A nedves gránitkövek rendkívül csúszósak lehetnek, így lépkedjen óvatosan a falak mentén, használjon gumitalpú cipőt és tartsa szabadon a kezeit az egyensúlyozáshoz.",
+                "ro": "Pietrele de granit umede pot fi extrem de alunecoase, așa că mergeți cu atenție de-a lungul zidurilor și purtați neapărat pantofi cu talpă de cauciuc.",
+                "en": "The wet granite stones can be extremely slippery, so walk carefully along the walls, use rubber-soled shoes, and keep your hands free for better balance."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento á Muller do Pescador",
+                "hu": "Monumento á Muller do Pescador",
+                "ro": "Monumento á Muller do Pescador",
+                "en": "Monumento á Muller do Pescador"
+              },
+              "tip_5lang": {
+                "de": "Im Regen wirkt die Statue noch melancholischer; achten Sie auf den Boden, da das Pflaster bei Nässe sehr glatt ist und man leicht ausrutschen kann.",
+                "hu": "Az esőben a szobor még mélabúsabbnak tűnik a tengerparton; vigyázzon, mert a környező járda vizesen nagyon csúszik, így csak lassan közelítse meg az alkotást.",
+                "ro": "În ploaie, statuia pare și mai melancolică; aveți grijă la podea, deoarece pavajul este foarte alunecos când este ud și puteți aluneca ușor.",
+                "en": "In the rain, the statue appears even more melancholic; watch your step as the surrounding pavement is very slick when wet, so approach the artwork slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mares de Cedeira",
+                "hu": "Museo Mares de Cedeira",
+                "ro": "Museo Mares de Cedeira",
+                "en": "Museo Mares de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort bei Regen, um die Fischereigeschichte im Trockenen zu erkunden, während draußen der galicische Regen gegen die Fenster trommelt.",
+                "hu": "Ideális helyszín esős időben, ahol fedett helyen ismerheti meg a halászati eszközöket, miközben kint kopog az eső, így szárazon maradhat a városnézés alatt.",
+                "ro": "Acesta este locul ideal în caz de ploaie pentru a explora istoria pescuitului la adăpost, în timp ce afară ploaia galiciană bate în ferestre.",
+                "en": "This is the ideal spot during rain to explore fishing history in the dry while the Galician rain drums against the windows, keeping you warm and sheltered."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro do Espigón",
+                "hu": "Faro do Espigón",
+                "ro": "Faro do Espigón",
+                "en": "Faro do Espigón"
+              },
+              "tip_5lang": {
+                "de": "Auf der Mole sind Regenschutz und festes Schuhwerk unerlässlich, da die Wellen bei Sturm über die Absperrung schwappen können und es sehr windig wird.",
+                "hu": "A mólón az eső és a hullámok fröccsenése miatt vízhatlan kabát és stabil lábbeli elengedhetetlen a biztonságos nézelődéshez a világítótorony tövében.",
+                "ro": "Pe dig, pelerina de ploaie și încălțămintea solidă sunt esențiale, deoarece valurile pot trece peste barieră în timpul furtunii și vântul este puternic.",
+                "en": "On the pier, waterproof gear and sturdy footwear are essential for safe sightseeing at the base of the lighthouse as waves may splash over the edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Ría de Cedeira",
+                "hu": "Ría de Cedeira",
+                "ro": "Ría de Cedeira",
+                "en": "Ría de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Flussmündung ist wunderschön, aber die Wege können schlammig sein; tragen Sie wasserfeste Wanderstiefel für diesen stimmungsvollen Spaziergang.",
+                "hu": "A torkolat feletti köd és eső látványa különleges, de a parti ösvények sárassá válhatnak, ezért válasszon vízálló bakancsot a délutáni barangoláshoz.",
+                "ro": "Estuarul cețos este frumos, dar potecile pot fi noroioase; purtați bocanci de drumeție impermeabili pentru această plimbare atmosferică de seară.",
+                "en": "The misty estuary is beautiful, but coastal paths can become muddy; choose waterproof boots for your afternoon stroll to enjoy the unique atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft macht die Sicht auf die Stadtmauern am Morgen besonders scharf. Mittags wärmen wir uns im Schifffahrtsmuseum auf. Am Nachmittag eilen wir zum Leuchtturm, um das letzte Tageslicht vor dem frühen Sonnenuntergang zu nutzen. Der Abend findet uns in der Stille der Mündung.",
+            "hu": "A friss téli levegőben a városfalak látványa éles és tiszta. Délben a tengerészeti múzeum fűtött tereiben melegedhetünk fel. Délután sietnünk kell a világítótoronyhoz, hogy elkapjuk az utolsó fényeket a korai sötétedés előtt. Az este már a torkolat menti csendes sötétségben talál minket.",
+            "ro": "Aerul curat de iarnă face vederea zidurilor orașului deosebit de clară dimineața. La prânz ne încălzim în muzeul maritim. După-amiaza ne grăbim spre far pentru a prinde ultima lumină înainte de apusul timpuriu. Seara ne găsește în liniștea estuarului.",
+            "en": "The crisp winter air makes the view of the city walls sharp and clear in the morning. At noon, warm up in the heated spaces of the maritime museum. In the afternoon, hurry to the lighthouse to catch the last light before the early sunset. Evening finds us in the quiet darkness by the estuary."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antiga Muralla",
+                "hu": "Antiga Muralla",
+                "ro": "Antiga Muralla",
+                "en": "Antiga Muralla"
+              },
+              "tip_5lang": {
+                "de": "Der kalte Winterwind pfeift durch die Gassen, tragen Sie daher mehrere Schichten Kleidung und einen warmen Schal für den morgendlichen Rundgang.",
+                "hu": "A falak mentén fújó fagyos téli szél miatt érdemes sálat és sapkát viselni a reggeli séta során, hogy komfortosan fedezhesse fel a történelmi negyedet.",
+                "ro": "Vântul rece de iarnă șuieră pe străzi, așa că purtați mai multe straturi de haine și un fular călduros pentru turul de dimineață la ziduri.",
+                "en": "The freezing winter wind blows along the walls, so wear a scarf and hat during your morning walk to comfortably explore the historic quarter."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento á Muller do Pescador",
+                "hu": "Monumento á Muller do Pescador",
+                "ro": "Monumento á Muller do Pescador",
+                "en": "Monumento á Muller do Pescador"
+              },
+              "tip_5lang": {
+                "de": "Die aufgewühlte Wintersee bietet von hier aus ein dramatisches Panorama; halten Sie Ihre Mütze fest, da die Böen an diesem offenen Punkt sehr stark sind.",
+                "hu": "A téli viharos tenger látványa a szobortól lenyűgöző, de a szél miatt húzza szorosabbra a kabátját ezen a nyitott ponton, és vigyázzon az értékeire.",
+                "ro": "Marea agitată de iarnă oferă de aici o panoramă dramatică; țineți-vă bine căciula, deoarece rafalele sunt foarte puternice în acest punct deschis.",
+                "en": "The sight of the stormy winter sea from the statue is breathtaking, but tighten your coat at this open point as the wind can be very strong and biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mares de Cedeira",
+                "hu": "Museo Mares de Cedeira",
+                "ro": "Museo Mares de Cedeira",
+                "en": "Museo Mares de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Innenräume des Museums, um sich aufzuwärmen, und nehmen Sie sich Zeit für die Ausstellungen, während draußen der Frost herrscht.",
+                "hu": "Használja ki a múzeum fűtött belső tereit a felmelegedésre a téli hidegben, és szánjon több időt a részletes kiállításokra, amíg kint a jeges szél fúj.",
+                "ro": "Folosiți interioarele încălzite ale muzeului pentru a vă încălzi și acordați-vă timp pentru expoziții în timp ce afară domnește înghețul de iarnă.",
+                "en": "Take advantage of the museum's heated interior to warm up during the winter chill and spend more time on the detailed exhibits while the icy wind blows."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro do Espigón",
+                "hu": "Faro do Espigón",
+                "ro": "Faro do Espigón",
+                "en": "Faro do Espigón"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch vor 16:30 Uhr ein, da die Sonne im Winter sehr früh untergeht und der Weg zur Mole bei Dunkelheit schwerer zu begehen ist.",
+                "hu": "Érkezzen meg 16:30 előtt, hogy a korai téli naplementét még világosban láthassa az Atlanti-óceán felett, mert a sötétség hirtelen száll le a partra.",
+                "ro": "Planificați-vă vizita înainte de ora 16:30, deoarece soarele apune foarte devreme iarna și drumul spre dig este mai greu de parcurs pe întuneric.",
+                "en": "Arrive before 4:30 PM to see the early winter sunset over the Atlantic in daylight, as darkness falls suddenly and quickly on the exposed coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Ría de Cedeira",
+                "hu": "Ría de Cedeira",
+                "ro": "Ría de Cedeira",
+                "en": "Ría de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Die Winterdämmerung am Wasser ist friedlich, aber kalt; beenden Sie Ihren Spaziergang rechtzeitig, um das Stadtzentrum vor der völligen Dunkelheit zu erreichen.",
+                "hu": "A téli sötétség korán leszáll a vízpartra, így a délutáni séta után keressen egy kivilágított utat a városközpont felé, ahol már várják a fények.",
+                "ro": "Amurgul de iarnă pe apă este liniștit, dar rece; terminați plimbarea la timp pentru a ajunge în centrul orașului înainte de întunericul deplin.",
+                "en": "Winter darkness falls early on the waterfront, so after your afternoon walk, head back toward the lit town center before complete nightfall sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpárral a városfal romjaitól indulunk, és gyorsan a tengerészeti múzeumhoz tekerünk. Ezután a part mentén a történelmi medencékhez és a régi katonai üteghez megyünk, ahol a történelem és a természet találkozik. A délután a lenyűgöző Corveiro kilátóhoz visz minket, majd a túrát a tágas Ría de Cedeira partján fejezzük be nyugodt környezetben.",
         "ro": "Cu bicicleta pornim de la rămășițele zidului orașului și pedalăm rapid spre muzeul maritim. Apoi mergem de-a lungul coastei către bazinele istorice și vechea baterie militară. După-amiaza ne aduce la uluitorul punct de belvedere Corveiro, unde natura și istoria se împletesc, înainte de a încheia turul într-o notă relaxantă la întinsa Ría de Cedeira, bucurându-ne de priveliște.",
         "en": "On our bikes, we start at the city wall ruins and pedal swiftly to the maritime museum. Afterward, we head along the coast to the historical holding pools and the old military battery, where history meets nature. The afternoon brings us to the breathtaking Corveiro viewpoint before we conclude the tour in a relaxed atmosphere at the expansive Ría de Cedeira."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen durch Cedeira ist eine echte Herausforderung und ein Abenteuer an der frischen Seeluft. Mittags rasten wir im Museum, bis die stärksten Schauer abziehen. Nachmittags geht es zu den Aussichtspunkten, wo der Wind an Kraft gewinnt. Die Tour endet stimmungsvoll an der Mündung.",
+            "hu": "Kerékpárral az esőben Cedeira utcái igazi kihívást és kalandot jelentenek a friss tengeri levegőn. Délben a múzeumban pihenhetünk meg, amíg a legerősebb záporok elvonulnak a város felett. Délután a kilátók felé tekerünk, ahol a szél ereje megduplázódik. Este a torkolatnál zárjuk a kört.",
+            "ro": "Mersul cu bicicleta prin ploaie în Cedeira oferă o adevărată provocare și aventură în aerul proaspăt al mării. La prânz, odihniți-vă în muzeu până când trec cele mai grele averse. După-amiaza pedalăm spre punctele de belvedere. Turul se termină la estuar.",
+            "en": "Cycling in the rain through Cedeira offers a true challenge and adventure in the fresh sea air. At noon, rest in the museum until the heaviest showers pass over the town. In the afternoon, pedal toward the viewpoints where the wind doubles in strength. The tour ends atmospherically by the estuary."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antiga Muralla",
+                "hu": "Antiga Muralla",
+                "ro": "Antiga Muralla",
+                "en": "Antiga Muralla"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Radfahren auf Kopfsteinpflaster; die Steine sind bei Regen spiegelglatt. Bremsen Sie frühzeitig vor Kurven im historischen Viertel.",
+                "hu": "Vigyázzon a kerékpározással a macskaköves utakon; a kövek esőben rendkívül csúszósak. Fékezzen időben a kanyarok előtt a történelmi negyedben.",
+                "ro": "Atenție la mersul pe bicicletă pe pavaj; pietrele sunt alunecoase ca oglinda când plouă. Frânați din timp înainte de curbe în cartierul istoric.",
+                "en": "Be careful cycling on cobblestones as they become mirror-slick in the rain. Brake early before turns throughout the historic district for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mares de Cedeira",
+                "hu": "Museo Mares de Cedeira",
+                "ro": "Museo Mares de Cedeira",
+                "en": "Museo Mares de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem überdachten Ort und nutzen Sie die Zeit im Museum, um Ihre Kleidung zu trocknen und sich für die Weiterfahrt zu stärken.",
+                "hu": "Parkolja le kerékpárját egy fedett helyen, és használja ki a múzeumban töltött időt a ruházata megszárítására, mielőtt folytatná az utat a vizes terepen.",
+                "ro": "Parcați bicicleta într-un loc acoperit și folosiți timpul petrecut în muzeu pentru a vă usca hainele și a vă întări pentru continuarea drumului.",
+                "en": "Park your bike in a sheltered spot and use your time in the museum to dry your clothes before continuing your journey across the wet terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "A Cetaria do Canexo",
+                "hu": "A Cetaria do Canexo",
+                "ro": "A Cetaria do Canexo",
+                "en": "A Cetaria do Canexo"
+              },
+              "tip_5lang": {
+                "de": "Der Boden an der Cetaria ist bei Nässe sehr gefährlich; lassen Sie das Rad oben stehen und gehen Sie die letzten Meter zu Fuß zum Meer hinunter.",
+                "hu": "A tengerparti sziklák és a cetaria környéke esőben nagyon csúszós, ezért a kerékpárt hagyja biztonságos helyen és gyalog közelítsen a vizes falakhoz.",
+                "ro": "Solul de la cetaria este foarte periculos când este ud; lăsați bicicleta sus și mergeți ultimii metri pe jos până la mare pentru siguranță.",
+                "en": "The ground near the cetaria is very dangerous when wet; leave your bike above and walk the last few meters down to the sea for better balance."
+              }
+            },
+            {
+              "name": {
+                "de": "Batería de Sarridal",
+                "hu": "Batería de Sarridal",
+                "ro": "Batería de Sarridal",
+                "en": "Batería de Sarridal"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen rutschig sein; prüfen Sie Ihre Reifenprofile und seien Sie besonders vorsichtig bei der Abfahrt auf den nassen Waldwegen.",
+                "hu": "A domboldalon az ösvények sárassá válhatnak a záporok után; ellenőrizze a fékeket és a gumik állapotát a meredekebb, vizes szakaszok előtt.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie; verificați profilul anvelopelor și fiți deosebit de atenți la coborâre pe potecile umede de pădure.",
+                "en": "The paths on the hillside can become muddy after showers; check your brakes and tire condition before tackling the steeper, wet sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro de San Antón de Corveiro",
+                "hu": "Miradoiro de San Antón de Corveiro",
+                "ro": "Miradoiro de San Antón de Corveiro",
+                "en": "Miradoiro de San Antón de Corveiro"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Wind und Regen ist die Sicht eingeschränkt; fahren Sie nur hoch, wenn es eine Regenpause gibt, um den Ausblick sicher genießen zu können.",
+                "hu": "Az erős eső és szél korlátozhatja a látótávolságot a kilátónál, így csak tiszta szünetekben tekerjen fel ide, és vigyázzon az éles széllökésekkel.",
+                "ro": "În caz de vânt puternic și ploaie, vizibilitatea este limitată; urcați doar dacă există o pauză de ploaie pentru a vă bucura de priveliște în siguranță.",
+                "en": "Heavy rain and strong winds may limit visibility at the viewpoint, so only cycle up during clear breaks and beware of sudden, sharp gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Ría de Cedeira",
+                "hu": "Ría de Cedeira",
+                "ro": "Ría de Cedeira",
+                "en": "Ría de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Die Uferpromenade ist bei Regen oft menschenleer, was eine ruhige Fahrt ermöglicht; tragen Sie jedoch eine Warnweste für bessere Sichtbarkeit im Nebel.",
+                "hu": "A torkolat melletti út esőben is járható, de a sár miatt válasszon sárvédős kerékpárt, és viseljen láthatósági mellényt a ködös időben.",
+                "ro": "Promenada este adesea pustie pe ploaie, ceea ce permite o plimbare liniștită; purtați totuși o vestă reflectorizantă pentru o mai bună vizibilitate.",
+                "en": "The riverside road is passable in rain, but choose a bike with fenders due to mud, and wear a high-visibility vest in the misty conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im kalten Winterwind erfordert das Radfahren ein schnelleres Tempo, um an der Küste warm zu bleiben. Mittags bietet das Museum einen beheizten Rückzugsort. Unser Nachmittagsziel ist der Aussichtspunkt, wo das Winterlicht dramatische Schatten wirft. Wir beenden den Abend in den Lichtern der Stadt.",
+            "hu": "A hideg téli szélben a tekerés gyorsabb tempót igényel, hogy melegen tartsuk magunkat a parton. Délben a múzeum nyújt fűtött menedéket és kulturális feltöltődést a hegyek lábánál. Délutáni célpontunk a kilátó, ahol a téli fények drámai árnyékokat vetnek a tájra. Az estét a város fényeiben fejezzük be.",
+            "ro": "În vântul rece de iarnă, mersul cu bicicleta necesită un ritm mai rapid pentru a rămâne cald pe coastă. La prânz, muzeul oferă un refugiu încălzit. Scopul nostru de după-amiază este punctul de belvedere, unde lumina iernii aruncă umbre dramatice. Încheiem seara în luminile orașului.",
+            "en": "In the cold winter wind, cycling requires a faster pace to stay warm along the coast. At noon, the museum provides a heated refuge and cultural enrichment at the foot of the hills. Our afternoon goal is the viewpoint, where winter light casts dramatic shadows. We finish the evening among the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antiga Muralla",
+                "hu": "Antiga Muralla",
+                "ro": "Antiga Muralla",
+                "en": "Antiga Muralla"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind bei Minustemperaturen an den Mauern sehr beißend sein kann und die Finger schnell auskühlen.",
+                "hu": "Viseljen szélálló kesztyűt, mert a menetszél a falak menti hidegben nagyon metsző lehet, és a kezei gyorsan kihűlhetnek a reggeli tekerés alatt.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece curentul de aer la temperaturi scăzute lângă ziduri poate fi foarte tăios și degetele îngheață repede.",
+                "en": "Wear windproof gloves, as the wind chill along the walls can be very biting in the cold and your hands will freeze quickly during the morning ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mares de Cedeira",
+                "hu": "Museo Mares de Cedeira",
+                "ro": "Museo Mares de Cedeira",
+                "en": "Museo Mares de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; lassen Sie Ihre nassen Radsachen im Eingangsbereich und genießen Sie die Wärme der Räume.",
+                "hu": "Használja a múzeumi látogatást melegedő szünetként; a fűtött belső terek segítenek visszanyerni a testhőmérsékletét a folytatáshoz a téli szélben.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; lăsați echipamentul umed la intrare și bucurați-vă de căldura încăperilor înainte de a pleca.",
+                "en": "Use the museum visit as a warm-up break; the heated interiors will help you regain your body temperature before continuing in the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "A Cetaria do Canexo",
+                "hu": "A Cetaria do Canexo",
+                "ro": "A Cetaria do Canexo",
+                "en": "A Cetaria do Canexo"
+              },
+              "tip_5lang": {
+                "de": "Die Winterstürme können hohe Wellen gegen die Cetaria peitschen; halten Sie ausreichend Sicherheitsabstand zum Wasser und tragen Sie Thermokleidung.",
+                "hu": "A téli tenger hullámai néha átcsapnak a cetaria falain; viseljen szélálló öltözetet és tartson biztonságos távolságot a tajtékzó víztől.",
+                "ro": "Furtunile de iarnă pot biciui valuri mari împotriva cetariei; păstrați o distanță de siguranță suficientă față de apă și purtați haine termice.",
+                "en": "Winter sea waves sometimes crash over the cetaria walls; wear windproof clothing and maintain a safe distance from the churning water at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Batería de Sarridal",
+                "hu": "Batería de Sarridal",
+                "ro": "Batería de Sarridal",
+                "en": "Batería de Sarridal"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und rutschig sein; passen Sie Ihre Geschwindigkeit an und genießen Sie das klare Winterpanorama über dem Atlantik.",
+                "hu": "A dombtetőn a téli szél felerősödhet, a talaj pedig deres és csúszós lehet; válasszon lassabb tempót a biztonságos ereszkedés érdekében.",
+                "ro": "Solul poate fi înghețat și alunecos; adaptați-vă viteza și bucurați-vă de panorama clară de iarnă deasupra Atlanticului de pe deal.",
+                "en": "Winter winds can pick up on the hilltop and the ground may be frosty and slick; choose a slower pace for a safe descent from the battery."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro de San Antón de Corveiro",
+                "hu": "Miradoiro de San Antón de Corveiro",
+                "ro": "Miradoiro de San Antón de Corveiro",
+                "en": "Miradoiro de San Antón de Corveiro"
+              },
+              "tip_5lang": {
+                "de": "Das Sonnenlicht verschwindet gegen 17 Uhr; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, um sicher im Dunkeln zurückzukehren.",
+                "hu": "A naplemente itt már 17 óra körül bekövetkezik, ezért tervezze úgy, hogy még szürkület előtt biztonságban visszaérjen, és legyen lámpája.",
+                "ro": "Lumina soarelui dispare în jurul orei 17:00; asigurați-vă că luminile bicicletei funcționează pentru a vă întoarce în siguranță pe întuneric.",
+                "en": "The sun sets here around 5 PM, so plan your trip to return safely before twilight and make sure your bicycle lights are functioning properly."
+              }
+            },
+            {
+              "name": {
+                "de": "Ría de Cedeira",
+                "hu": "Ría de Cedeira",
+                "ro": "Ría de Cedeira",
+                "en": "Ría de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Kälte am Fluss zieht schnell in die Glieder; beenden Sie die Tour mit einer zügigen Fahrt, um die Durchblutung anzuregen.",
+                "hu": "A vízparti hideg télen hamar átjárja az embert; tekerjen élénkebb tempóban az utolsó szakaszon, hogy melegen tartsa az izmait a végéig.",
+                "ro": "Frigul umed de lângă râu pătrunde repede în membre; încheiați turul cu o plimbare rapidă pentru a stimula circulația sângelui.",
+                "en": "The riverside chill quickly penetrates in winter; cycle at a brisker pace on the final stretch to keep your muscles warm until the end of the tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Ez az autós túra lehetővé teszi Cedeira távolabbi kincseinek felfedezését. Egy kelta településen kezdünk, majd a délelőttöt csendes strandokon és vad sziklákon töltjük. Délben a központban lévő múzeumot látogatjuk meg. A délutánt hatalmas kilátások és történelmi építmények jellemzik, majd a napot egy felejthetetlen naplemente zárja a part menti Castro ősi romjainál.",
         "ro": "Acest tur cu mașina ne permite să descoperim comorile mai îndepărtate ale orașului Cedeira. Începem la o așezare celtică antică și petrecem dimineața pe plaje liniștite și stânci sălbatice. La prânz, vizităm muzeul maritim din centru. După-amiaza este caracterizată de priveliști ample, facilități istorice și se termină cu un apus de soare de neuitat la vechiul sit Castro.",
         "en": "This driving tour allows us to discover the more remote treasures of Cedeira. We start at an ancient Celtic settlement and spend the morning at quiet beaches and wild cliffs. Around noon, we visit the maritime museum in the center. The afternoon is characterized by vast views, historical facilities, and ends with an unforgettable sunset at the coastal Castro ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto bietet das regnerische Cedeira eine komfortable Erkundung im Rhythmus der Scheibenwischer. Mittags parken wir am Museum, um die Ausstellung im Trockenen zu genießen. Nachmittags besuchen wir ferne Aussichtspunkte, wo der Ozean hinter Regenvorhängen erscheint. Der Abend endet an der Mündung.",
+            "hu": "Autóval az esős Cedeira kényelmes felfedezést ígér, miközben az ablaktörlők ütemére figyeljük a tájat. Délben a múzeumnál parkolunk le, hogy szárazon élvezzük a tengeri kiállítást. Délután a távolabbi kilátópontokat keressük fel, ahol az esőfüggöny mögött feltűnik az óceán. Este a torkolat mellett kanyargunk vissza.",
+            "ro": "Cu mașina, Cedeira ploioasă oferă o explorare confortabilă în ritmul ștergătoarelor. La prânz, parcăm la muzeu pentru a ne bucura de expoziție la uscat. După-amiaza vizităm puncte de belvedere îndepărtate unde oceanul apare după perdele de ploaie. Seara ne întoarcem pe lângă estuar.",
+            "en": "By car, rainy Cedeira offers comfortable exploration while watching the landscape to the rhythm of the wipers. At noon, park at the museum to enjoy the maritime exhibit in the dry. In the afternoon, visit distant viewpoints where the ocean appears behind rain curtains. Evening winds back by the estuary."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "O Castro das Croas",
+                "hu": "O Castro das Croas",
+                "ro": "O Castro das Croas",
+                "en": "O Castro das Croas"
+              },
+              "tip_5lang": {
+                "de": "Der Feldweg zu den Ruinen kann bei Regen sehr matschig sein; parken Sie am besten auf festem Untergrund und gehen Sie das kurze Stück zu Fuß.",
+                "hu": "A romokhoz vezető földút vizes időben sáros lehet, így parkoljon kicsit távolabb a szilárd útburkolaton, ha szükséges, és vigyen esernyőt.",
+                "ro": "Drumul de pământ către ruine poate fi foarte noroios când plouă; cel mai bine este să parcați pe teren solid și să mergeți pe jos distanța scurtă.",
+                "en": "The dirt road to the ruins can be very muddy in the rain; it's best to park further back on a solid paved surface if necessary and bring an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Xiao",
+                "hu": "Praia de Xiao",
+                "ro": "Praia de Xiao",
+                "en": "Praia de Xiao"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die wilde Brandung sicher aus dem warmen Auto heraus, da der Regen am Strand oft sehr peitschend und unangenehm ist.",
+                "hu": "Az esőben a strand elhagyatott és vad; figyelje a viharos tengert az autó biztonságából, vagy használjon nagy esernyőt a rövid parti sétához.",
+                "ro": "Bucurați-vă de vederea valurilor sălbatice în siguranță din mașina caldă, deoarece ploaia de pe plajă este adesea foarte biciuitoare și neplăcută.",
+                "en": "The beach is deserted and wild in the rain; watch the stormy sea from the safety of your car or use a large umbrella for a short walk on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro da Punta Promontoiro",
+                "hu": "Faro da Punta Promontoiro",
+                "ro": "Faro da Punta Promontoiro",
+                "en": "Faro da Punta Promontoiro"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum Leuchtturm ist gut befestigt, aber Vorsicht beim Aussteigen an den Klippen, da der Wind und die Nässe den Boden sehr rutschig machen.",
+                "hu": "A kilátóponthoz vezető út esőben is járható autóval, de a sziklák szélén legyen nagyon óvatos a csúszásveszély és az erős széllökések miatt.",
+                "ro": "Drumul către far este bine consolidat, dar atenție la coborârea la stânci, deoarece vântul și umezeala fac solul foarte alunecos.",
+                "en": "The road to the lighthouse is passable by car even in rain, but be very careful at the cliff edge due to slippery conditions and strong gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mares de Cedeira",
+                "hu": "Museo Mares de Cedeira",
+                "ro": "Museo Mares de Cedeira",
+                "en": "Museo Mares de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz in der Nähe des Eingangs, um den galicischen Regengüssen zu entgehen, und genießen Sie die maritime Ausstellung.",
+                "hu": "Keressen parkolóhelyet a bejárat közelében, hogy elkerülje a galíciai záporokat, és száraz lábbal érkezzen meg a tengerészeti kiállításra.",
+                "ro": "Căutați un loc de parcare lângă intrare pentru a evita aversele galiciene și bucurați-vă de expoziția maritimă în confort.",
+                "en": "Find a parking spot near the entrance to avoid the Galician showers and arrive with dry feet for your visit to the maritime exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "A Cetaria de Fifo",
+                "hu": "A Cetaria de Fifo",
+                "ro": "A Cetaria de Fifo",
+                "en": "A Cetaria de Fifo"
+              },
+              "tip_5lang": {
+                "de": "Die Cetaria hat offene Bereiche, die bei Regen nass werden; tragen Sie daher wasserfeste Schuhe, wenn Sie das Gelände zu Fuß erkunden möchten.",
+                "hu": "A cetaria fedetlen részei esőben vizesek, de a közeli épület védelmet nyújt; vigyen magával vízálló lábbelit a kültéri falak bejárásához.",
+                "ro": "Cetaria are zone deschise care se udă când plouă; prin urmare, purtați pantofi impermeabili dacă doriți să explorați terenul pe jos.",
+                "en": "The cetaria has uncovered areas that get wet in the rain, but nearby structures offer shelter; wear waterproof footwear for exploring the outer walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro de San Antón de Corveiro",
+                "hu": "Miradoiro de San Antón de Corveiro",
+                "ro": "Miradoiro de San Antón de Corveiro",
+                "en": "Miradoiro de San Antón de Corveiro"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Aussteigen bei starkem Gewitter; das Panorama lässt sich auch durch die Frontscheibe des Autos hervorragend bewundern.",
+                "hu": "Erős vihar esetén kerülje a kiszállást; a panoráma az autó szélvédőjén keresztül is lenyűgöző, miközben Ön szárazon és biztonságban marad.",
+                "ro": "Evitați să coborâți în timpul unei furtuni puternice; panorama poate fi admirată excelent și prin parbrizul mașinii în siguranță.",
+                "en": "Avoid getting out during heavy storms; the panorama can be admired perfectly through the car windshield while you stay dry and safe inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro do Campo do Castro",
+                "hu": "Castro do Campo do Castro",
+                "ro": "Castro do Campo do Castro",
+                "en": "Castro do Campo do Castro"
+              },
+              "tip_5lang": {
+                "de": "Die Grasflächen des Castros weichen bei Regen schnell auf; bleiben Sie auf den gepflasterten Wegen, um trockene Füße zu behalten.",
+                "hu": "A régészeti lelőhely füves területei hamar átáznak az esőtől, így a rövid séta során maradjon a kijelölt kövezett ösvényeken a sár elkerülésére.",
+                "ro": "Zonele cu iarbă ale castrului se înmoaie repede când plouă; rămâneți pe potecile pavate pentru a vă păstra picioarele uscate.",
+                "en": "The grassy areas of the archaeological site soak up rain quickly, so stay on the designated paved paths during your walk to avoid the mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Schutz eines beheizten Autos können wir die Schönheit der Winterlandschaft genießen, ohne an der Küste zu frieren. Mittags besuchen wir die Schätze des Museums im Warmen. Nachmittags fahren wir zu den Klippen, um das Licht des frühen Sonnenuntergangs einzufangen. Der Abend findet uns in den beleuchteten Straßen.",
+            "hu": "A fűtött autó védelmében a téli táj minden szépségét élvezhetjük anélkül, hogy átfagynánk a parton. Délben a városi múzeum melegében teszünk egy hosszabb látogatást a kulturális kincsek között. Délután a sziklákhoz autózunk a korai naplemente fényeit keresve az égen. Az este a kivilágított városi utcákon ér minket.",
+            "ro": "În protecția unei mașini încălzite, ne putem bucura de frumusețea peisajului de iarnă fără să înghețăm pe coastă. La prânz, vizităm comorile muzeului la căldură. După-amiaza mergem la stânci pentru luminile apusului timpuriu. Seara ne găsește pe străzile luminate ale orașului.",
+            "en": "In the protection of a heated car, we can enjoy all the beauty of the winter landscape without freezing on the shore. At noon, we pay a long visit to the museum's treasures in the warmth. In the afternoon, drive to the cliffs for the early sunset lights in the sky. Evening finds us on the lit city streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "O Castro das Croas",
+                "hu": "O Castro das Croas",
+                "ro": "O Castro das Croas",
+                "en": "O Castro das Croas"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Hügel herrscht oft ein eisiger Wind; ziehen Sie Ihre warme Jacke an, bevor Sie das Auto verlassen, um die Aussicht zu genießen.",
+                "hu": "A dombtetőn a téli szél metsző lehet a nyitott terep miatt; a kocsiból kiszállva azonnal vegye fel a meleg kabátját és a sálját a nézelődéshez.",
+                "ro": "Pe deal este adesea un vânt înghețat; puneți-vă jacheta groasă înainte de a părăsi mașina pentru a vă bucura de priveliște în confort.",
+                "en": "The winter wind can be biting on the hilltop due to the open terrain; put on your warm coat and scarf immediately after getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Xiao",
+                "hu": "Praia de Xiao",
+                "ro": "Praia de Xiao",
+                "en": "Praia de Xiao"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt den Strand in besonderen Farben erstrahlen; wärmen Sie sich nach einem kurzen Strandspaziergang wieder im Auto auf.",
+                "hu": "A téli napfényben a strand különleges színekben játszik, de a part menti szél hideg; egy rövid séta után melegedjen vissza a fűtött autóban.",
+                "ro": "Lumina iernii face ca plaja să strălucească în culori deosebite; încălziți-vă din nou în mașină după o scurtă plimbare pe plajă.",
+                "en": "The beach displays special colors in the winter sunlight, but the coastal wind is cold; warm up back in the heated car after a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro da Punta Promontoiro",
+                "hu": "Faro da Punta Promontoiro",
+                "ro": "Faro da Punta Promontoiro",
+                "en": "Faro da Punta Promontoiro"
+              },
+              "tip_5lang": {
+                "de": "Bei Winterstürmen können die Wellen am Leuchtturm meterhoch werden; bleiben Sie in sicherer Entfernung zum Abgrund und genießen Sie das Schauspiel.",
+                "hu": "A téli viharok idején a hullámok méteresre nőhetnek a világítótoronynál; maradjon biztonságos távolságban a parttól és élvezze a drámai látványt.",
+                "ro": "În timpul furtunilor de iarnă, valurile la far pot ajunge la câțiva metri înălțime; rămâneți la o distanță sigură de prăpastie și bucurați-vă de spectacol.",
+                "en": "During winter storms, waves can grow several meters high at the lighthouse; maintain a safe distance from the shore and enjoy the dramatic sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Mares de Cedeira",
+                "hu": "Museo Mares de Cedeira",
+                "ro": "Museo Mares de Cedeira",
+                "en": "Museo Mares de Cedeira"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Pause im Warmen, da die Besichtigung der Außenanlagen im Winter sehr anstrengend sein kann.",
+                "hu": "Használja ki a múzeum melegét egy hosszabb látogatásra a téli hideg elől menekülve, és ismerje meg alaposan a város gazdag tengeri múltját.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză mai lungă la căldură, deoarece vizitarea facilităților exterioare iarna poate fi foarte obositoare.",
+                "en": "Take advantage of the museum's warmth for a long visit escaping the winter cold while learning about the city's rich maritime history in detail."
+              }
+            },
+            {
+              "name": {
+                "de": "A Cetaria de Fifo",
+                "hu": "A Cetaria de Fifo",
+                "ro": "A Cetaria de Fifo",
+                "en": "A Cetaria de Fifo"
+              },
+              "tip_5lang": {
+                "de": "In den alten Mauern der Cetaria hält sich die Kälte hartnäckig; tragen Sie dicke Socken und festes Schuhwerk für Ihren winterlichen Rundgang.",
+                "hu": "A régi cetaria falai között a téli hideg megrekedhet, ezért viseljen vastag zoknit és meleg bakancsot a rövid, de látványos látogatás alatt.",
+                "ro": "În zidurile vechi ale cetariei, frigul persistă; purtați șosete groase și încălțăminte solidă pentru turul dumneavoastră de iarnă.",
+                "en": "The winter cold can get trapped between the old cetaria walls, so wear thick socks and warm boots during your brief but spectacular visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro de San Antón de Corveiro",
+                "hu": "Miradoiro de San Antón de Corveiro",
+                "ro": "Miradoiro de San Antón de Corveiro",
+                "en": "Miradoiro de San Antón de Corveiro"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne geht früh unter; parken Sie das Auto so, dass Sie das Farbspiel am Himmel gemütlich von innen aus beobachten können.",
+                "hu": "A téli nap korán nyugszik; parkoljon le úgy, hogy az autó fűtött belteréből, kényelmesen csodálhassa meg az égbolt narancsos színeit.",
+                "ro": "Soarele de iarnă apune devreme; parcați mașina astfel încât să puteți urmări jocul culorilor pe cer confortabil din interiorul mașinii.",
+                "en": "The winter sun sets early; park your car so that you can comfortably admire the orange colors of the sky from the heated interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro do Campo do Castro",
+                "hu": "Castro do Campo do Castro",
+                "ro": "Castro do Campo do Castro",
+                "en": "Castro do Campo do Castro"
+              },
+              "tip_5lang": {
+                "de": "Dies sollte Ihr letzter Stopp vor der Dunkelheit sein; die Ruinen wirken im Licht der tiefstehenden Wintersonne besonders eindrucksvoll.",
+                "hu": "A korai sötétedés miatt ez az utolsó megálló legyen; a romok a lemenő téli nap fényében nyújtják a legszebb és legdrámaibb látványt.",
+                "ro": "Aceasta ar trebui să fie ultima oprire înainte de întuneric; ruinele arată deosebit de impresionant în lumina soarelui de iarnă la apus.",
+                "en": "Make this your final stop before dark; the ruins offer their most beautiful and dramatic views in the light of the setting winter sun."
+              }
+            }
+          ]
+        }
       }
     }
   }

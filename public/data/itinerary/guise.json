@@ -137,6 +137,168 @@
         "hu": "A reggel Guise szívében indul, ahol átélheti a Szent Péter és Pál templom gótikus báját. Délben visszalép az időben a hatalmas guise-i kastélynál, felfedezve annak középkori erődítményeit. A délután egy frissítő sétára csábít a buja Axe vert de la Thiérache zöld ösvényen. Végül a napját a Godin Familistère utópisztikus építészetének megcsodálásával zárja, mielőtt leszállna az est.",
         "ro": "Dimineața dumneavoastră începe în inima orașului Guise, îmbrățișând farmecul gotic al bisericii centrale. Până la prânz, faceți un pas înapoi în timp la puternicul Castel Guise, explorând fortificațiile sale medievale. După-amiaza vă invită la o plimbare revigorantă de-a lungul traseului verde luxuriant Axe vert de la Thiérache. Veți încheia ziua minunându-vă de arhitectura utopică a Familisterului Godin.",
         "en": "Your morning starts in the heart of Guise, embracing the Gothic charm of the Saint-Pierre et Saint-Paul church. By midday, you are stepping back in time at the mighty Guise Castle, exploring its medieval fortifications and donjon. The afternoon invites you for a refreshing walk along the lush Axe vert de la Thiérache greenway. Finally, you will conclude your day marvelling at the utopian architecture of the Godin Familistère before evening sets in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie in der Kirche, um trocken zu bleiben, und erkunden Sie dann vorsichtig das schlammige Schlossgelände. Verbringen Sie den Nachmittag sicher drinnen im riesigen Familistère. Regenschirm und wasserdichte Schuhe sind Pflicht für den grünen Weg.",
+            "hu": "Kezdje a templomban, hogy szárazon maradjon, majd óvatosan járja be a kastély sarasodó udvarát. A délutánt töltse a hatalmas Familistère fedett tereiben. Esernyő és vízálló cipő elengedhetetlen a zöld útvonalhoz a nap végén.",
+            "ro": "Începeți la biserică pentru a sta la uscat, apoi explorați cu grijă curtea castelului care devine noroioasă. Petreceți după-amiaza în interior, vizitând imensul Familistère. O umbrelă și încălțăminte impermeabilă sunt esențiale.",
+            "en": "Start at the church to stay dry, then carefully navigate the castle grounds where paths get muddy. Spend the afternoon safely indoors exploring the massive Familistère. An umbrella and waterproof boots are essential for the greenway."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre et Saint-Paul",
+                "hu": "Szent Péter és Pál templom",
+                "ro": "Biserica Saint-Pierre și Saint-Paul",
+                "en": "Saint-Pierre and Saint-Paul Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Gewölbedecken und entfliehen Sie dem Regen; halten Sie Ihren Schirm für den Ausgang bereit.",
+                "hu": "Csodálja meg a boltíves mennyezetet, miközben menedéket talál a reggeli eső elől; készítse elő az esernyőjét.",
+                "ro": "Admirați tavanele boltite adăpostindu-vă de ploaia matinală; țineți umbrela la îndemână la ieșire.",
+                "en": "Admire the vaulted ceilings while escaping the morning rain; keep an umbrella handy for the exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guise",
+                "hu": "Guise-i kastély",
+                "ro": "Castelul Guise",
+                "en": "Guise Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festungsmauern, aber achten Sie beim Aufstieg auf die nassen, rutschigen Pflastersteine.",
+                "hu": "Fedezze fel az erődített falakat, de nagyon figyeljen a lépéseire a vizes, csúszós macskaköveken.",
+                "ro": "Explorați zidurile fortificate, dar aveți grijă la pași pe pietrele umede și alunecoase în timpul urcării.",
+                "en": "Explore the fortified walls, but watch your step on the wet, slippery cobblestones during the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergfried von Schloss Guise",
+                "hu": "A guise-i kastély öregtornya",
+                "ro": "Donjonul castelului Guise",
+                "en": "Donjon of Guise Castle"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den historischen Bergfried von unten, da der Regen die alten Stufen rutschig macht.",
+                "hu": "Tekintse meg az ősi öregtornyot alulról, mivel az eső miatt a régi lépcsők veszélyesen csúszósak lehetnek.",
+                "ro": "Priviți donjonul istoric de jos, deoarece ploaia face ca treptele vechi să fie periculoase la urcare.",
+                "en": "View the historic donjon from below, as the rain makes the ancient steps treacherous to climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Axe vert de la Thiérache",
+                "hu": "Axe vert de la Thiérache",
+                "ro": "Axe vert de la Thiérache",
+                "en": "Axe vert de la Thiérache"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen kurzen Spaziergang auf diesem grünen Weg; tragen Sie wasserdichte Schuhe wegen des Schlamms.",
+                "hu": "Tegyél egy rövid, párás sétát ezen a zöld úton; viselj vízálló cipőt, mert az ösvény nagyon saras.",
+                "ro": "Bucurați-vă de o scurtă plimbare pe această cale verde; purtați pantofi impermeabili deoarece poteca devine noroioasă.",
+                "en": "Enjoy a brief, misty stroll along this greenway; wear waterproof shoes as the path gets quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Godin Familistère",
+                "hu": "Godin Familistère",
+                "ro": "Familisterul Godin",
+                "en": "Godin Familistère"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie diesen faszinierenden utopischen Palast komplett drinnen, der perfekten Schutz vor Regen bietet.",
+                "hu": "Fedezze fel ezt a lenyűgöző utópisztikus palotát teljesen beltéren, ami tökéletes menedék a délutáni záporok elől.",
+                "ro": "Descoperiți acest palat utopic fascinant complet în interior, oferind un adăpost perfect de ploile de după-amiază.",
+                "en": "Discover this fascinating utopian palace entirely indoors, providing perfect shelter from the afternoon showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Winterluft begrüßt Sie an der Kirche vor dem Aufstieg zur frostigen Burgruine. Der Nachmittag wird auf dem kühlen grünen Weg verbracht, bevor Sie sich im Familistère aufwärmen. Ziehen Sie sich warm an, Sonnenuntergang ist um 17:00.",
+            "hu": "Csípős téli levegő fogadja a templomnál, mielőtt felmászna a dérlepte kastélyromokhoz. A délutánt a hűvös zöld úton tölti, majd felmelegszik a Familistère-ben. Öltözzön melegen, mert a nap korán, 17:00 körül nyugszik.",
+            "ro": "Aerul rece de iarnă vă întâmpină la biserică înainte de a urca la ruinele înghețate ale castelului. După-amiaza o petreceți pe calea verde, apoi vă încălziți în Familistère. Îmbrăcați-vă gros, soarele apune devreme pe la 17:00.",
+            "en": "Crisp winter air greets you at the church before ascending to the frost-covered castle ruins. The afternoon is spent walking the chilly greenway before warming up inside the grand Familistère. Dress warmly as the sun sets early around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre et Saint-Paul",
+                "hu": "Szent Péter és Pál templom",
+                "ro": "Biserica Saint-Pierre și Saint-Paul",
+                "en": "Saint-Pierre and Saint-Paul Church"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren kühlen Morgen in dieser historischen Kirche, wo dicke Steinmauern den Wind abhalten.",
+                "hu": "Kezdje a hűvös reggelt ebben a történelmi templomban, ahol a vastag kőfalak kint tartják a téli szelet.",
+                "ro": "Începeți dimineața rece în această biserică istorică, unde zidurile groase de piatră țin vântul de iarnă la distanță.",
+                "en": "Start your chilly morning inside this historic church, where the thick stone walls keep the cold wind at bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guise",
+                "hu": "Guise-i kastély",
+                "ro": "Castelul Guise",
+                "en": "Guise Castle"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie durch die frostige Burgruine; packen Sie sich warm ein, da der erhöhte Grund kalte Winde anzieht.",
+                "hu": "Sétáljon a fagyos erődromok között; öltözzön fel melegen, mert a magaslati fekvés miatt hideg szél fúj.",
+                "ro": "Plimbați-vă prin ruinele înghețate; îmbrăcați-vă bine, deoarece terenul înalt prinde brize reci de iarnă.",
+                "en": "Wander through the frosty fortress ruins; bundle up tightly as the elevated grounds catch cold winter breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergfried von Schloss Guise",
+                "hu": "A guise-i kastély öregtornya",
+                "ro": "Donjonul castelului Guise",
+                "en": "Donjon of Guise Castle"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie den Bergfried gegen den blassen Winterhimmel und achten Sie auf eisige Stellen auf den Wegen.",
+                "hu": "Fotózza le az impozáns öregtornyot a halvány téli égbolt előtt, ügyelve a jeges foltokra az ösvényeken.",
+                "ro": "Fotografiați donjonul impunător pe cerul palid de iarnă, având grijă la porțiunile de gheață de pe poteci.",
+                "en": "Photograph the imposing keep against the pale winter sky, watching for icy patches on the surrounding paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Axe vert de la Thiérache",
+                "hu": "Axe vert de la Thiérache",
+                "ro": "Axe vert de la Thiérache",
+                "en": "Axe vert de la Thiérache"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Winterspaziergang und kehren Sie vor dem frühen Sonnenuntergang gegen 17 Uhr zurück.",
+                "hu": "Tegyél egy tempós téli sétát a csendes ösvényen, és térj vissza, mielőtt a korai sötétedés 17 óra körül korlátozná a látást.",
+                "ro": "Faceți o plimbare vioaie pe traseul liniștit, întorcându-vă înainte ca apusul devreme de la ora 17 să scadă vizibilitatea.",
+                "en": "Take a brisk winter walk along the quiet trail, returning before the early sunset around 5 PM limits visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Godin Familistère",
+                "hu": "Godin Familistère",
+                "ro": "Familisterul Godin",
+                "en": "Godin Familistère"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der Kälte in diesen utopischen Komplex und genießen Sie den warmen, lichtdurchfluteten Innenhof.",
+                "hu": "Lépjen be a hidegből ebbe a hatalmas beltéri utópisztikus komplexumba, és élvezze a fűtött, világos belső udvart.",
+                "ro": "Ieșiți din frig pentru a explora acest complex utopic masiv, bucurându-vă de curtea sa interioară caldă și luminoasă.",
+                "en": "Step out of the cold to explore this massive, indoor utopian complex, enjoying its warm, light-filled courtyard."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpáros napot a nyugodt keleti negyedben, a történelmi Saint-Médard templomnál. Dél felé tekerjen át a békés Saint-Médard temetőhöz, majd hódítsa meg a kastély történelmi magaslatait. Ahogy halad a délután, a Godin Familistère lenyűgöző szociális palotája várja felfedezésre. A késő délután egy békés kerékpározást kínál a festői Saint-Germain templomhoz, lezárva a napot.",
         "ro": "Începeți ziua de ciclism în cartierul estic liniștit, la istorica Biserică Saint-Médard. Spre prânz, pedalați către seninul Cimitir Saint-Médard înainte de a cuceri înălțimile Castelului Guise. Pe măsură ce după-amiaza avansează, impresionantul palat social al Familisterului Godin vă așteaptă. După-amiaza târziu vă oferă o plimbare pașnică până la pitoreasca Biserică Saint-Germain.",
         "en": "Kick off your cycling day in the tranquil eastern quarter at the historic Église Saint-Médard. Towards midday, pedal over to the serene Cimetière Saint-Médard before conquering the historic heights of Guise Castle. As the afternoon progresses, the awe-inspiring social palace of Godin Familistère awaits your discovery. The late afternoon offers a peaceful ride out to the quaint Église Saint-Germain."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre nasse Fahrt beginnt an der Saint-Médard Kirche. Fahren Sie vorsichtig auf rutschigem Laub zur Burg. Das Familistère bietet eine lange Pause im Trockenen. Schutzbleche sind heute auf dem Weg nach Saint-Germain unerlässlich!",
+            "hu": "A nedves túra a Saint-Médard templomnál indul. Óvatosan tekerjen a csúszós leveleken a kastély felé. A Familistère hosszú, száraz pihenőt kínál. A sárvédő ma életmentő a Saint-Germain felé vezető úton!",
+            "ro": "Călătoria umedă începe la Saint-Médard. Conduceți cu grijă pe frunzele alunecoase spre castel. Familistère oferă o pauză lungă la uscat. Apărătorile de noroi sunt vitale pe drumul final spre Saint-Germain!",
+            "en": "Ride starts wet but Saint-Médard offers quick shelter. Be careful on slippery leaves towards the castle. The Familistère is the perfect long indoor break before ending at Saint-Germain. Mudguards are vital!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser friedlichen Kirche Schutz vor dem Morgenregen; wischen Sie Ihren Sattel ab, bevor Sie weiterfahren.",
+                "hu": "Keressen menedéket a békés templomban a reggeli eső elől; törölje le a nyerget, mielőtt továbbindul.",
+                "ro": "Adăpostiți-vă în această biserică liniștită în timpul ploii de dimineață; ștergeți șaua înainte de a continua.",
+                "en": "Take shelter in this peaceful church while the morning rain passes; wipe your bike seat before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Friedhof Saint-Médard",
+                "hu": "Saint-Médard temető",
+                "ro": "Cimitirul Saint-Médard",
+                "en": "Saint-Médard Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Fahrrad vorsichtig durch den Friedhof, da nasses Laub auf den Wegen sehr rutschig sein kann.",
+                "hu": "Tolja óvatosan a kerékpárt a temetőben, mivel a nedves falevelek az ösvényeken nagyon csúszósak lehetnek.",
+                "ro": "Împingeți bicicleta cu grijă prin cimitir, deoarece frunzele umede de pe alei pot fi foarte alunecoase.",
+                "en": "Walk your bike carefully through the cemetery, as the wet leaves on the paths can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guise",
+                "hu": "Guise-i kastély",
+                "ro": "Castelul Guise",
+                "en": "Guise Castle"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Festungsanlagen, aber bremsen Sie frühzeitig auf den nassen Zufahrtsstraßen zur Burg.",
+                "hu": "Fedezze fel az erődítményeket, de kezdjen el korán fékezni a kastélyhoz vezető vizes emelkedőkön.",
+                "ro": "Descoperiți fortificațiile, dar frânați din timp pe drumurile de acces umede care urcă spre castel.",
+                "en": "Discover the medieval fortifications, but brake early on the wet approach roads leading up to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Godin Familistère",
+                "hu": "Godin Familistère",
+                "ro": "Familisterul Godin",
+                "en": "Godin Familistère"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr nasses Rad und genießen Sie einen langen, trockenen Besuch in diesem sozialen Palast aus dem 19. Jahrhundert.",
+                "hu": "Parkolja le a vizes biciklit, és élvezze a hosszú, száraz látogatást ebben a 19. századi szociális palotában.",
+                "ro": "Parcați bicicleta udă și bucurați-vă de o vizită lungă și uscată în acest palat social din secolul 19.",
+                "en": "Park your wet bike and enjoy a long, dry visit inside this incredible 19th-century social palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Germain",
+                "hu": "Saint-Germain templom",
+                "ro": "Biserica Saint-Germain",
+                "en": "Saint-Germain Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre verregnete Fahrt an dieser schönen Kirche, die einen letzten trockenen Zufluchtsort bietet.",
+                "hu": "Fejezze be az esős túrát ennél a gyönyörű templomnál, amely egy utolsó száraz menedéket nyújt.",
+                "ro": "Încheiați-vă plimbarea ploioasă la această biserică frumoasă, oferind un ultim refugiu uscat.",
+                "en": "End your rainy ride at this beautiful church, offering a final dry refuge before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in Saint-Médard. Wärmen Sie sich beim Radeln zur Burg auf. Das beheizte Familistère ist ein gemütlicher Stopp. Beenden Sie die Tour vor 17:00 Uhr in Saint-Germain. Gute Handschuhe und Licht sind wichtig!",
+            "hu": "A fagyos reggel a Saint-Médardnál indul. Melegedjen be a kastélyhoz tekerve. A fűtött Familistère hosszú, otthonos megálló. Fejezze be a túrát 17:00 előtt a Saint-Germainnél. Jó kesztyű és lámpa elengedhetetlen!",
+            "ro": "Dimineața înghețată începe la Saint-Médard. Încălziți-vă pedalând spre castel. Familistère încălzit este o oprire confortabilă. Terminați înainte de 17:00 la Saint-Germain. Mănușile bune și luminile sunt esențiale!",
+            "en": "A frosty morning starts at Saint-Médard. Warm up pedaling to the castle. The heated Familistère is a long, cozy stop. Finish before 17:00 at Saint-Germain. Good gloves and bike lights are essential!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den ruhigen Wintermorgen in der Kirche; tragen Sie dicke Handschuhe für die kühle Fahrt.",
+                "hu": "Élvezze a csendes téli reggelt a templomban; győződjön meg róla, hogy vastag kesztyűt visel a hideg útra.",
+                "ro": "Bucurați-vă de dimineața liniștită de iarnă în biserică; purtați mănuși groase pentru plimbarea rece.",
+                "en": "Enjoy the quiet winter morning inside the church; make sure you wear thick gloves for the chilly ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Friedhof Saint-Médard",
+                "hu": "Saint-Médard temető",
+                "ro": "Cimitirul Saint-Médard",
+                "en": "Saint-Médard Cemetery"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frostbedeckten Grabsteine und achten Sie auf eisige Stellen auf den gepflasterten Wegen.",
+                "hu": "Nézze meg a dércsípte sírköveket, és nagyon figyeljen a jeges foltokra a kikövezett ösvényeken.",
+                "ro": "Experimentați pietrele funerare acoperite de gheață, fiind atenți la porțiunile de gheață de pe aleile pavate.",
+                "en": "Experience the serene, frost-covered gravestones, keeping an eye out for icy patches on the paved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guise",
+                "hu": "Guise-i kastély",
+                "ro": "Castelul Guise",
+                "en": "Guise Castle"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie zur Burgruine hinauf, wo der frische Winterwind eine gute Windjacke erfordert.",
+                "hu": "Tekerjen fel az impozáns kastélyromokhoz, ahol a csípős téli szél miatt jó széldzsekire lesz szüksége.",
+                "ro": "Pedalați până la ruinele castelului impunător, unde vântul de iarnă necesită o jachetă bună de vânt.",
+                "en": "Cycle up to the imposing castle ruins, where the brisk winter wind requires a good windbreaker."
+              }
+            },
+            {
+              "name": {
+                "de": "Godin Familistère",
+                "hu": "Godin Familistère",
+                "ro": "Familisterul Godin",
+                "en": "Godin Familistère"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine lange Pause von der Kälte in diesem beheizten utopischen Museum und bewundern Sie die Architektur.",
+                "hu": "Tartson egy hosszú pihenőt a hideg elől ebben a fűtött utópisztikus múzeumban, csodálva a belső teret.",
+                "ro": "Luați o pauză lungă de la frig în acest muzeu utopic încălzit, minunându-vă de arhitectura interioară.",
+                "en": "Take a long break from the cold in this heated utopian museum, marveling at the vast indoor architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Germain",
+                "hu": "Saint-Germain templom",
+                "ro": "Biserica Saint-Germain",
+                "en": "Saint-Germain Church"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diese historische Kirche vor dem Sonnenuntergang um 17:00 Uhr; prüfen Sie Ihre Fahrradlichter.",
+                "hu": "Érjen ehhez a történelmi templomhoz a 17:00-s korai sötétedés előtt, ellenőrizve, hogy a lámpák fel vannak töltve.",
+                "ro": "Ajungeți la această biserică înainte de apusul de la ora 17:00, asigurându-vă că luminile bicicletei sunt încărcate.",
+                "en": "Arrive at this historic church before the early 17:00 sunset, ensuring your bike lights are fully charged."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autós túrája lendületesen indul a monumentális Godin Familistère-nél, felfedezve a 19. század utópisztikus álmait. Délben az északi határok felé cirkál, hogy meglátogassa a gyönyörűen megőrzött Saint-Germain templomot. Délután fedezze fel a Saint-Médard templom klasszikus eleganciáját és a kastély hatalmas romjait. A nap tökéletesen zárul egy békés, pihentető sétával a természetben.",
         "ro": "Turul dumneavoastră auto începe luminos la monumentalul Familister Godin, explorând visele utopice ale secolului 19. La prânz, veți conduce spre nord pentru a vizita frumoasa Biserică Saint-Germain. După-amiaza, descoperiți eleganța clasică a bisericii Saint-Médard și ruinele medievale întinse ale Castelului Guise. Ziua se încheie perfect cu o plimbare pașnică și relaxantă în mijlocul naturii.",
         "en": "Your driving tour begins brightly at the monumental Godin Familistère, exploring the utopian dreams of the 19th century. By midday, you will cruise to the northern limits to visit the beautifully preserved Église Saint-Germain. In the afternoon, discover the classic elegance of Église Saint-Médard and the sprawling medieval ruins of Guise Castle. The day winds down perfectly with a peaceful nature walk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie trocken im Familistère. Fahren Sie bequem zu den Kirchen und weichen Sie Schauern aus. Machen Sie kurze Stopps an der Burg und am Axe vert, die Sie vom Auto aus oder unter dem Schirm am besten genießen können.",
+            "hu": "Kezdjen szárazon a Familistère-ben. Vezessen kényelmesen a templomokhoz, kikerülve a záporokat. Tegyen rövid megállókat a kastélynál és a zöld útnál, amelyeket esernyő alól a legjobb megtekinteni.",
+            "ro": "Începeți uscat în Familistère. Conduceți confortabil către biserici, evitând ploile. Faceți opriri scurte la castel și pe calea verde, cel mai bine admirate de sub o umbrelă sau din mașină.",
+            "en": "Start dry indoors at the Familistère. Drive comfortably to the churches, dodging showers. Make quick stops at the castle and Axe vert, best seen from the comfort of your car or under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Godin Familistère",
+                "hu": "Godin Familistère",
+                "ro": "Familisterul Godin",
+                "en": "Godin Familistère"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Regentag perfekt trocken und verbringen Sie den Morgen in diesem riesigen sozialen Palast.",
+                "hu": "Kezdje az esős napot tökéletesen szárazon, és töltse a délelőttöt ebben a hatalmas beltéri szociális palotában.",
+                "ro": "Începeți-vă ziua ploioasă perfect uscat, petrecând dimineața în interiorul acestui vast palat social.",
+                "en": "Start your rainy day perfectly dry by spending the morning inside this vast, fascinating indoor social palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Germain",
+                "hu": "Saint-Germain templom",
+                "ro": "Biserica Saint-Germain",
+                "en": "Saint-Germain Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um dem Regen auszuweichen, und bewundern Sie das friedliche, geschützte Innere.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt, és csodálja meg a békés, védett belső teret.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia și pășiți înăuntru pentru a admira interiorul liniștit.",
+                "en": "Park close to the entrance to avoid the rain, and step inside to admire the peaceful, sheltered interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Architektur im Trockenen; halten Sie Ihren Schirm für den kurzen Weg vom Auto bereit.",
+                "hu": "Élvezze a történelmi építészetet az esőtől védve; készítse elő esernyőjét az autótól való rövid sétához.",
+                "ro": "Bucurați-vă de arhitectura istorică feriți de ploaie; țineți umbrela la îndemână pentru scurta plimbare de la mașină.",
+                "en": "Enjoy the historic architecture while staying out of the drizzle; keep your umbrella handy for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guise",
+                "hu": "Guise-i kastély",
+                "ro": "Castelul Guise",
+                "en": "Guise Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zur Festung und erkunden Sie das untere Gelände; achten Sie auf rutschige Steine bei Schauern.",
+                "hu": "Vezessen fel az erődhöz, és fedezze fel az alsó területet; vigyázzon a csúszós kövekre a záporok alatt.",
+                "ro": "Conduceți până la fortăreață și explorați terenurile inferioare, având grijă la pietrele alunecoase pe timp de ploaie.",
+                "en": "Drive up to the fortress and explore the lower grounds, taking care on the slippery, wet stones during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Axe vert de la Thiérache",
+                "hu": "Axe vert de la Thiérache",
+                "ro": "Axe vert de la Thiérache",
+                "en": "Axe vert de la Thiérache"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie in wasserdichter Kleidung einen kurzen Spaziergang oder bewundern Sie die neblige Landschaft vom Parkplatz.",
+                "hu": "Tegyen egy gyors sétát vízálló ruházatban, vagy egyszerűen csodálja meg a párás tájat a parkolóból.",
+                "ro": "Faceți o scurtă plimbare ploioasă cu echipament impermeabil sau pur și simplu admirați peisajul din parcare.",
+                "en": "Take a quick rainy stroll in waterproof gear, or simply admire the misty landscape from the parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie gemütlich im beheizten Familistère. Ihr warmes Auto macht das Wechseln zwischen den Kirchen angenehm. Packen Sie sich für die letzten kühlen Stopps an der Burg und dem grünen Weg vor dem Sonnenuntergang um 17:00 Uhr warm ein.",
+            "hu": "Kényelmes kezdés a fűtött Familistère-ben. A meleg autó kellemessé teszi a templomok közötti utazást. Öltözzön fel jól az utolsó hűvös megállókhoz a kastélynál és a zöld útnál a 17:00 órai naplemente előtt.",
+            "ro": "Începeți confortabil în Familistère încălzit. Mașina caldă face plăcută deplasarea între biserici. Îmbrăcați-vă gros pentru ultimele opriri reci la castel și pe calea verde înainte de apusul de la ora 17:00.",
+            "en": "Cozy start at the heated Familistère. Your warm car makes hopping between churches pleasant. Bundle up for the final chilly stops at the castle and greenway before the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Godin Familistère",
+                "hu": "Godin Familistère",
+                "ro": "Familisterul Godin",
+                "en": "Godin Familistère"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Morgenfrost in diesem riesigen utopischen Komplex, wo der Glasdach-Innenhof die Wintersonne einfängt.",
+                "hu": "Meneküljön a reggeli fagy elől ebbe a hatalmas komplexumba, ahol az üvegtetős udvar csapdába ejti a téli napfényt.",
+                "ro": "Scăpați de gerul dimineții în acest complex utopic masiv, unde curtea cu acoperiș de sticlă captează soarele de iarnă.",
+                "en": "Escape the morning frost inside this massive utopian complex, where the glass-roofed courtyard traps the winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Germain",
+                "hu": "Saint-Germain templom",
+                "ro": "Biserica Saint-Germain",
+                "en": "Saint-Germain Church"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus dem warmen Auto, um diese ruhige Kirche zu erkunden, ein friedlicher Stopp auf Ihrer Winterfahrt.",
+                "hu": "Szálljon ki a meleg autóból, és fedezze fel ezt a csendes templomot, amely egy békés megálló a téli úton.",
+                "ro": "Ieșiți din mașina caldă pentru a explora această biserică liniștită, o oprire pașnică în timpul plimbării de iarnă.",
+                "en": "Step out of your warm car to explore this quiet church, a peaceful stop during your chilly winter drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Médard",
+                "hu": "Saint-Médard templom",
+                "ro": "Biserica Saint-Médard",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historischen Details; tragen Sie einen warmen Mantel für den kurzen Weg vom Parkplatz.",
+                "hu": "Csodálja meg a történelmi részleteket; viseljen meleg kabátot a parkolótól való rövid sétához.",
+                "ro": "Admirați detaliile istorice; purtați o haină groasă pentru scurta plimbare de la locul de parcare.",
+                "en": "Admire the historic details of this church; wear a warm coat for the brief walk from your parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Guise",
+                "hu": "Guise-i kastély",
+                "ro": "Castelul Guise",
+                "en": "Guise Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Burgruine in der klaren Winterluft und packen Sie sich gegen den kühlen Wind auf dem Hügel warm ein.",
+                "hu": "Fedezze fel az erődromokat a csípős téli levegőn, és öltözzön fel melegen a dombon fújó hideg szél ellen.",
+                "ro": "Explorați ruinele castelului în aerul rece de iarnă, înfofolindu-vă bine împotriva vânturilor reci de pe deal.",
+                "en": "Explore the imposing castle ruins in the crisp winter air, wrapping up warmly against the chilly winds on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Axe vert de la Thiérache",
+                "hu": "Axe vert de la Thiérache",
+                "ro": "Axe vert de la Thiérache",
+                "en": "Axe vert de la Thiérache"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen letzten flotten Spaziergang auf diesem frostigen Weg und kehren Sie vor Einbruch der Dunkelheit um 17 Uhr zurück.",
+                "hu": "Élvezze a tempós utolsó sétát ezen a fagyos ösvényen, és győződjön meg róla, hogy 5 óra előtt visszatér.",
+                "ro": "Bucurați-vă de o ultimă plimbare vioaie pe acest traseu înghețat, asigurându-vă că vă întoarceți înainte de ora 17:00.",
+                "en": "Enjoy a brisk final walk on this frosty trail, making sure to head back before darkness falls around 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

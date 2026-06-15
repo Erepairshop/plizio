@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot St Austell nyüzsgő központjában, megcsodálva a civil tereket és a történelmi építészetet.\nMerüljön el Cornwall sörfőző történelmében egy sörfőzdei túrával, majd fogyasszon el egy finom ebédet.\nSétáljon a part felé, hogy elérje az ikonikus Charlestown Harbourt, amely történelmi hajóiról híres.\nZárja a sétát a pihentető Porthpean strandon, és gondoljon vissza a napra a nyugodt víz mellett.",
         "ro": "Începeți ziua în centrul plin de viață al orașului St Austell, admirând arhitectura istorică.\nPătrundeți în istoria berii din Cornwall cu un tur captivant înainte de a savura un prânz delicios.\nMergeți spre coastă pentru a ajunge la portul iconic Charlestown, renumit pentru navele sale istorice.\nÎncheiați plimbarea pe plaja relaxantă Porthpean, reflectând la ziua petrecută la malul apei liniștite.",
         "en": "Start your day in the bustling center of St Austell, admiring civic spaces and historic church architecture.\nDive into Cornwall's brewing history with an engaging brewery tour before enjoying a hearty pub lunch.\nWalk towards the coast to reach the iconic Charlestown Harbour, famous for its historic tall ships.\nConclude your walk at the relaxing Porthpean Beach, reflecting on the day as the sun sets over the calm waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt grau, wir suchen Schutz in den Passagen des Stadtzentrums. Mittags bieten die dicken Kirchenmauern und die Brauerei trockene Zuflucht vor dem kornischen Sprühregen. Nachmittags führt der Weg zur Küste durch neblige, mystische Landschaften. Der Abend endet gemütlich in einem Pub am Hafen, während draußen der Regen gegen die Scheiben peitscht.",
+            "hu": "A reggel borús, így a belvárosi fedett részeken kezdünk. Délre a templom vastag falai és a sörfőzde belső terei nyújtanak száraz menedéket a szitáló eső elől. Délután a tengerparti út csúszós és ködös, de a látvány így is drámai. Az estét egy meleg kikötői fogadóban zárjuk, hallgatva a kinti vihart.",
+            "ro": "Dimineața începe sub nori, căutând adăpost în pasajele din centrul orașului. La prânz, zidurile groase ale bisericii și berăria oferă refugiu uscat împotriva ploii mizerabile. După-amiaza, drumul spre coastă este cețos și mistic, dar spectaculos. Seara se încheie confortabil într-un pub din port, în timp ce ploaia bate în geam.",
+            "en": "The morning starts grey, as we seek shelter in the town centre's covered passages. By noon, the thick church walls and the brewery provide a dry haven from the Cornish drizzle. In the afternoon, the coastal path is misty and dramatic despite the rain. The evening ends cozily in a harbour-side pub while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "White River Place",
+                "hu": "White River Place",
+                "ro": "White River Place",
+                "en": "White River Place"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Einkaufszentrums, um trocken zu bleiben; ideal für einen Kaffee, während Sie den ersten Schauer abwarten.",
+                "hu": "Használja ki a bevásárlóközpont fedett részeit a szárazon maradáshoz; tökéletes hely egy kávéra, amíg az első zápor elvonul.",
+                "ro": "Profitați de zonele acoperite ale centrului comercial pentru a rămâne uscat; este locul ideal pentru o cafea în timp ce așteptați să treacă ploaia.",
+                "en": "Utilize the covered areas of the shopping centre to stay dry; it is the perfect spot for a coffee while waiting for the first shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "St Austell Parish Church",
+                "hu": "St Austell plébániatemplom",
+                "ro": "Biserica Parohială St Austell",
+                "en": "St Austell Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur im trockenen Innenraum; die ruhige Atmosphäre ist der perfekte Zufluchtsort vor dem nassen Wetter draußen.",
+                "hu": "Csodálja meg a történelmi építészetet a száraz belső térben; a csendes atmoszféra tökéletes menedék a kinti nedves időjárás elől.",
+                "ro": "Admirați arhitectura istorică în interiorul uscat; atmosfera liniștită este refugiul perfect împotriva vremii umede de afară.",
+                "en": "Admire the historic architecture in the dry interior; the peaceful atmosphere is the perfect refuge from the wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "St Austell Brewery",
+                "hu": "St Austell Sörfőzde",
+                "ro": "Berăria St Austell",
+                "en": "St Austell Brewery"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie an einer Innenführung teil, um dem Regen zu entkommen; das Besucherzentrum bietet eine warme und trockene Umgebung für Verkostungen.",
+                "hu": "Vegyen részt egy belső túrán, hogy elkerülje az esőt; a látogatóközpont meleg és száraz környezetet biztosít a kóstoláshoz.",
+                "ro": "Participați la un tur interior pentru a scăpa de ploaie; centrul pentru vizitatori oferă un mediu cald și uscat pentru degustări.",
+                "en": "Take an indoor tour to escape the rain; the visitor centre provides a warm and dry environment for tastings and local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Charlestown Harbour",
+                "hu": "Charlestown Kikötő",
+                "ro": "Portul Charlestown",
+                "en": "Charlestown Harbour"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schiffswrack-Museum direkt am Hafen für ein Indoor-Erlebnis; tragen Sie rutschfeste Schuhe auf den nassen Kopfsteinpflastern.",
+                "hu": "Látogasson el a kikötő melletti hajóroncs-múzeumba a fedett élményért; viseljen csúszásmentes cipőt a vizes macskaköveken.",
+                "ro": "Vizitați muzeul epavelor de lângă port pentru o experiență la interior; purtați încălțăminte antiderapantă pe pietrele umede.",
+                "en": "Visit the shipwreck museum by the harbour for an indoor experience; wear non-slip shoes on the wet and slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthpean Beach",
+                "hu": "Porthpean Strand",
+                "ro": "Plaja Porthpean",
+                "en": "Porthpean Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue See sicher von der Uferpromenade aus; eine wasserfeste Jacke ist unerlässlich für diesen kurzen, windigen Strandspaziergang.",
+                "hu": "Élje át a haragos tenger látványát biztonságosan a sétányról; egy vízálló dzseki elengedhetetlen ehhez a rövid, szeles parthoz.",
+                "ro": "Experimentați marea agitată în siguranță de pe faleză; o jachetă impermeabilă este esențială pentru această scurtă plimbare vântoasă.",
+                "en": "Experience the rough sea safely from the promenade; a waterproof jacket is essential for this short, windy beach stroll."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit klarer Luft in der Stadt. Mittags wärmen wir uns in historischen Gebäuden auf, bevor die Sonne bereits gegen 17 Uhr untergeht. Der Nachmittag an der Küste ist kurz, aber die tiefstehende Wintersonne taucht alles in goldenes Licht. Den Abend verbringen wir bei Kerzenschein in einem geheizten Restaurant am Meer.",
+            "hu": "Fagyos reggel köszönt ránk a városban, tiszta téli levegővel. Délben történelmi épületekben melegszünk fel, figyelve a korai, délután 5 órai naplementét. A tengerparti séta rövid, de az alacsony téli napfény aranyba vonja a tájat. Az estét gyertyafény mellett, egy fűtött tengerparti étteremben töltjük.",
+            "ro": "O dimineață geroasă începe cu aer curat în oraș. La prânz ne încălzim în clădiri istorice, având în vedere apusul timpuriu de la ora 17:00. După-amiaza la malul mării este scurtă, dar soarele palid de iarnă scaldă totul în aur. Seara o petrecem la lumina lumânărilor într-un restaurant încălzit.",
+            "en": "A frosty morning starts with crisp air in town. By noon, we warm up inside historic buildings, keeping in mind the early 5 PM sunset. The afternoon by the coast is brief, but the low winter sun bathes the landscape in gold. We spend the evening by candlelight in a heated seaside restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "White River Place",
+                "hu": "White River Place",
+                "ro": "White River Place",
+                "en": "White River Place"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Winterdekoration und wärmen Sie sich in den Cafés auf; ideal für einen schnellen heißen Kakao vor dem Start der Tour.",
+                "hu": "Élvezze a téli dekorációt és melegedjen fel a kávézókban; ideális hely egy gyors forró csokira a túra megkezdése előtt.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă și încălziți-vă în cafenele; locul este ideal pentru o ciocolată caldă înainte de drum.",
+                "en": "Enjoy the winter decorations and warm up in the local cafes; it is an ideal spot for a quick hot chocolate before starting your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "St Austell Parish Church",
+                "hu": "St Austell plébániatemplom",
+                "ro": "Biserica Parohială St Austell",
+                "en": "St Austell Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Vormittag, um das Licht durch die Fenster zu sehen; ziehen Sie sich warm an, da die alten Mauern die Kälte speichern.",
+                "hu": "Látogasson el délelőtt a templomba, hogy lássa az ablakokon beszűrődő fényt; öltözzön rétegesen, mert a régi falak tartják a hideget.",
+                "ro": "Vizitați biserica dimineața pentru a vedea lumina prin ferestre; îmbrăcați-vă bine, deoarece zidurile vechi păstrează frigul.",
+                "en": "Visit the church in the morning to see the winter light through the windows; dress warmly as the old stone walls retain the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "St Austell Brewery",
+                "hu": "St Austell Sörfőzde",
+                "ro": "Berăria St Austell",
+                "en": "St Austell Brewery"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um der Winterkälte zu entfliehen; genießen Sie ein wärmendes lokales Ale in der gemütlichen, geheizten Bar nach der Tour.",
+                "hu": "Tökéletes hely a téli hideg elől való menekülésre; élvezze a melengető helyi sört a túra után a barátságos, fűtött bárban.",
+                "ro": "Locul perfect pentru a scăpa de frigul iernii; savurați o bere locală în barul primitor și încălzit după finalizarea turului.",
+                "en": "The perfect place to escape the winter chill; enjoy a warming local ale in the cozy, heated bar area after your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Charlestown Harbour",
+                "hu": "Charlestown Kikötő",
+                "ro": "Portul Charlestown",
+                "en": "Charlestown Harbour"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um den Hafen im letzten Tageslicht zu sehen; die Winterbeleuchtung der historischen Schiffe ist besonders stimmungsvoll.",
+                "hu": "Érkezzen 16:30 előtt, hogy még lássa a kikötőt az utolsó fényeknél; a történelmi hajók téli kivilágítása rendkívül hangulatos.",
+                "ro": "Sosiți înainte de 16:30 pentru a vedea portul în ultima lumină a zilei; iluminatul de iarnă al navelor istorice este foarte atmosferic.",
+                "en": "Arrive before 4:30 PM to catch the harbour in the last daylight; the winter lighting on the historic ships is particularly atmospheric."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthpean Beach",
+                "hu": "Porthpean Strand",
+                "ro": "Plaja Porthpean",
+                "en": "Porthpean Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Spaziergang ist ideal, aber achten Sie auf den frühen Sonnenuntergang; Handschuhe und Mütze gegen den Seewind sind Pflicht.",
+                "hu": "Egy rövid, frissítő séta ideális, de ügyeljen a korai naplementére; kesztyű és sapka kötelező a metsző tengeri szél ellen.",
+                "ro": "O plimbare scurtă și revigorantă este ideală, dar atenție la apusul timpuriu; mănușile și căciula sunt obligatorii contra vântului.",
+                "en": "A short, bracing walk is ideal here, but be mindful of the early sunset; gloves and a hat are essential against the biting sea wind."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Tekerjen a történelmi központból a lenyűgöző agyagbányászati maradványokig a friss cornwalli levegőn.\nTapasztalja meg a világhírű ökológiai kupolákat, bőséges időt szánva a változatos beltéri klímák felfedezésére.\nKerékpározzon a buja, nyugodt botanikus kerteken keresztül, mielőtt a történelmi partvidék felé venné az irányt.\nFejezze be az utat a fenséges György-kori kikötőben, megcsodálva az esti fényben fürdő tengerészeti történelmet.",
         "ro": "Pedalați din centrul istoric până la rămășițele fascinante ale mineritului de argilă, bucurându-vă de aerul proaspăt.\nExperimentați faimoasele domuri ecologice, luându-vă timp amplu pentru a explora diversele climate interioare.\nCiclism prin grădinile botanice luxuriante și liniștite înainte de a vă îndrepta spre coasta istorică.\nTerminați plimbarea la portul georgian maiestuos, admirând istoria maritimă scăldată în lumina serii.",
         "en": "Pedal from the historic town center up to the fascinating clay mining remnants, enjoying the crisp Cornish air.\nExperience the world-famous ecological domes, taking ample time to explore the diverse indoor climates.\nCycle through the lush, tranquil botanical gardens before making your way toward the historic coastline.\nFinish your ride at the majestic Georgian harbour, admiring the maritime history bathed in the evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen erkunden wir die Gegend auf zwei Rädern, achten aber auf rutschige Wege. Der Vormittag im Museum bietet Schutz, während wir mittags zum Eden Project radeln, wo die Biome eine tropische, trockene Oase sind. Nachmittags durchqueren wir die Gärten im Regenponcho. Der Tag endet mit einer vorsichtigen Fahrt zurück zum Hafen.",
+            "hu": "Az eső ellenére két keréken vágunk neki, de figyelünk a csúszós utakra. A délelőtti múzeumlátogatás védelmet nyújt, délben pedig az Eden Project biomjaiban találunk trópusi, száraz oázist. Délután esőponchóban tekerünk át a kerteken. A napot egy óvatos, kikötői visszautazással zárjuk.",
+            "ro": "În ciuda ploii, explorăm zona pe două roți, fiind atenți la drumurile alunecoase. Dimineața la muzeu oferă protecție, iar la prânz pedalăm spre Eden Project, unde cupolele sunt o oază uscată. După-amiaza traversăm grădinile cu pelerina de ploaie. Ziua se încheie cu o cursă precaută spre port.",
+            "en": "Despite the rain, we explore on two wheels, staying alert for slippery paths. A morning at the museum offers cover, while at noon we cycle to the Eden Project's biomes, a tropical dry oasis. Afternoon is spent in rain ponchos through the gardens. The day ends with a cautious ride back to the harbour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Austell Parish Church",
+                "hu": "St Austell plébániatemplom",
+                "ro": "Biserica Parohială St Austell",
+                "en": "St Austell Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Kirche für eine kurze Pause im Trockenen, bevor es weitergeht.",
+                "hu": "Zárja le kerékpárját egy védett helyen, és használja a templomot egy rövid száraz pihenőre, mielőtt tovább indulna.",
+                "ro": "Asigurați-vă bicicleta într-un loc ferit și folosiți biserica pentru o scurtă pauză la uscat înainte de a pleca mai departe.",
+                "en": "Secure your bike in a sheltered spot and use the church for a brief dry break to check your map before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Wheal Martyn China Clay Museum",
+                "hu": "Wheal Martyn Porcelánföld Múzeum",
+                "ro": "Muzeul Argilei Wheal Martyn",
+                "en": "Wheal Martyn China Clay Museum"
+              },
+              "tip_5lang": {
+                "de": "Konzentrieren Sie sich auf die Ausstellungen in den Gebäuden; die Wege im Freien können bei Regen sehr schlammig und rutschig sein.",
+                "hu": "Fókuszáljon az épületeken belüli kiállításokra; a kültéri ösvények esőben nagyon sárosak és csúszósak lehetnek.",
+                "ro": "Concentrați-vă pe expozițiile din interiorul clădirilor; potecile exterioare pot fi foarte noroioase și alunecoase pe ploaie.",
+                "en": "Focus on the indoor exhibits within the buildings; the outdoor trails can be very muddy and slippery during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Eden Project",
+                "hu": "Éden Projekt",
+                "ro": "Proiectul Eden",
+                "en": "Eden Project"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Regenziel; parken Sie Ihr Rad und verbringen Sie Stunden in den riesigen, überdachten Biomen bei tropischem Klima.",
+                "hu": "A végső úticél esőben; parkolja le a gépét, és töltsön órákat az óriási, fedett biomokban, trópusi klímában.",
+                "ro": "Destinația supremă pe ploaie; parcați bicicleta și petreceți ore în șir în biodomurile uriașe, într-un climat tropical.",
+                "en": "The ultimate rainy day destination; park your bike and spend hours inside the massive, covered biomes in a tropical climate."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinetum Gardens",
+                "hu": "Pinetum Kertek",
+                "ro": "Grădinile Pinetum",
+                "en": "Pinetum Gardens"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Gewächshäusern oder dem Café, wenn der Regen zu stark wird; die Teiche wirken bei Regen besonders friedlich.",
+                "hu": "Keressen menedéket az üvegházakban vagy a kávézóban, ha felerősödik az eső; a tavak ilyenkor különösen békés látványt nyújtanak.",
+                "ro": "Căutați adăpost în sere sau la cafenea dacă ploaia se întețește; iazurile par deosebit de liniștite în timpul ploii.",
+                "en": "Seek shelter in the glasshouses or the cafe if the rain intensifies; the garden ponds look particularly peaceful in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Charlestown Harbour",
+                "hu": "Charlestown Kikötő",
+                "ro": "Portul Charlestown",
+                "en": "Charlestown Harbour"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt an den Kaimauern bei starkem Wind und Regen; parken Sie oben und erkunden Sie den Hafen zu Fuß.",
+                "hu": "Kerülje a közvetlen kerékpározást a rakpartokon erős szélben és esőben; parkoljon le fent, és gyalog fedezze fel a kikötőt.",
+                "ro": "Evitați pedalatul direct pe cheiuri în condiții de vânt și ploaie; parcați sus și explorați portul la pas.",
+                "en": "Avoid cycling directly on the quay walls during wind and rain; park your bike safely and explore the harbour area on foot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kaltes, aber klares Wetter begleitet unsere Radtour. Vormittags wärmen wir uns im Porzellanmuseum auf, bevor wir zum Eden Project fahren, das im Winter mit Lichtern verzaubert. Die Gärten wirken in der Winterruhe fast magisch. Wir beenden die Tour früh vor Einbruch der Dunkelheit im historischen Charlestown.",
+            "hu": "Hideg, de tiszta idő kíséri kerékpártúránkat. Délelőtt a porcelánmúzeumban melegszünk, majd az Eden Projecthez tekerünk, amely télen fényekkel vár. A kertek a téli nyugalomban szinte varázslatosak. A túrát korán, még sötétedés előtt fejezzük be a történelmi Charlestownban.",
+            "ro": "Vreme rece, dar senină însoțește tura noastră cu bicicleta. Dimineața ne încălzim la muzeul argilei, apoi pedalăm spre Eden Project, decorat cu lumini de iarnă. Grădinile par magice în liniștea iernii. Încheiem tura devreme, înainte de lăsarea întunericului, în Charlestown.",
+            "en": "Cold but clear weather accompanies our bike tour. We warm up at the clay museum in the morning, then cycle to the Eden Project, which is festive in winter. The gardens feel magical in their winter dormancy. We finish the tour early, before dark, in historic Charlestown."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Austell Parish Church",
+                "hu": "St Austell plébániatemplom",
+                "ro": "Biserica Parohială St Austell",
+                "en": "St Austell Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto in der klaren Winterluft; Handschuhe sind wichtig, da der Lenker bei diesen Temperaturen schnell auskühlt.",
+                "hu": "Egy rövid megálló fotózásra a tiszta téli levegőben; a kesztyű fontos, mert a kormány gyorsan lehűlhet ebben az időben.",
+                "ro": "O scurtă oprire pentru fotografii în aerul curat de iarnă; mănușile sunt importante, deoarece ghidonul se răcește rapid.",
+                "en": "A brief stop for photos in the crisp winter air; gloves are essential as handlebars can get very cold at these temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Wheal Martyn China Clay Museum",
+                "hu": "Wheal Martyn Porcelánföld Múzeum",
+                "ro": "Muzeul Argilei Wheal Martyn",
+                "en": "Wheal Martyn China Clay Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das beheizte Café für eine warme Pause; die Aussicht auf die Gruben ist bei tiefstehender Wintersonne besonders scharf und weit.",
+                "hu": "Használja a fűtött kávézót egy melegítő pihenőre; a bányákra nyíló kilátás az alacsony téli napállásnál különösen éles és tiszta.",
+                "ro": "Folosiți cafeneaua încălzită pentru o pauză revigorantă; vederea spre mine este deosebit de clară sub soarele palid de iarnă.",
+                "en": "Use the heated cafe for a warming break; the views over the clay pits are especially sharp and clear in the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Eden Project",
+                "hu": "Éden Projekt",
+                "ro": "Proiectul Eden",
+                "en": "Eden Project"
+              },
+              "tip_5lang": {
+                "de": "Die Biome bieten perfekte Wärme; im Winter gibt es oft eine Eislaufbahn im Freien, die man nach dem Radfahren besuchen kann.",
+                "hu": "A biomok tökéletes meleget biztosítanak; télen gyakran van szabadtéri jégpálya is, amit bringázás után érdemes kipróbálni.",
+                "ro": "Biodomurile oferă căldura perfectă; iarna există adesea un patinoar în aer liber care merită vizitat după tura cu bicicleta.",
+                "en": "The biomes offer perfect warmth; in winter, there is often an outdoor ice rink that is worth visiting after your cycle ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Pinetum Gardens",
+                "hu": "Pinetum Kertek",
+                "ro": "Grădinile Pinetum",
+                "en": "Pinetum Gardens"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Struktur der Bäume; achten Sie auf Frost auf den Holzbrücken, da diese sehr rutschig sein können.",
+                "hu": "Élvezze a fák téli sziluettjét; figyeljen a faggyal borított fahidakra, mert ezek nagyon csúszósak lehetnek kerékpárral.",
+                "ro": "Bucurați-vă de siluetele hibernale ale copacilor; atenție la gheața de pe podurile de lemn, care poate fi foarte alunecoasă.",
+                "en": "Enjoy the winter structure of the trees; watch out for frost on the wooden bridges, as they can be very slippery for bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Charlestown Harbour",
+                "hu": "Charlestown Kikötő",
+                "ro": "Portul Charlestown",
+                "en": "Charlestown Harbour"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt vor Sonnenuntergang (ca. 17 Uhr); die warme Beleuchtung des Hafens ist eine Belohnung für die kalte Fahrt.",
+                "hu": "Fejezze be a túrát naplemente előtt (kb. 17 óra); a kikötő meleg fényei jutalmat jelentenek a hideg tekerés után.",
+                "ro": "Încheiați cursa înainte de apus (aprox. ora 17); iluminarea caldă a portului este o recompensă după pedalatul prin frig.",
+                "en": "Finish your ride before sunset (around 5 PM); the warm harbour lighting is a great reward after a cold winter cycle."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Vezessen korán a csodálatos biokupolákhoz, majd fedezze fel a régió ipari örökségét a közelben.\nIrány vissza a városba egy hagyományos sörfőzdei élményre, majd egy festői utazás a déli birtokok felé.\nVesszen el a varázslatos, felújított botanikus tájakon, és fedezze fel a miniatűr csodákat a falu közelében.\nParkoljon le a klasszikus vitorlás kikötő közelében, és zárja a napot egy festői tengerparti sétával.",
         "ro": "Conduceți devreme la magnificele bio-domuri, apoi explorați moștenirea industrială a regiunii în apropiere.\nÎntoarceți-vă în oraș pentru o experiență tradițională de berărie, urmată de o plimbare pitorească spre sud.\nPierdeți-vă în peisajele botanice magice și restaurate și descoperiți minuni în miniatură lângă satul de pescari.\nParcați lângă portul clasic cu nave înalte pentru a vă încheia ziua cu o plimbare pitorească pe litoral.",
         "en": "Drive to the magnificent bio-domes early to beat the crowds, then explore the region's industrial heritage nearby.\nHead back into town for a traditional brewery experience, followed by a scenic drive towards the southern estates.\nGet lost in the magical, restored botanical landscapes and discover miniature rail marvels near the fishing village.\nPark near the classic tall-ship harbour to end your day with a picturesque seaside stroll and dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem im Auto trotzen wir dem Regen und besuchen die Highlights. Vormittags bieten die Biome des Eden Projects ein trockenes Naturerlebnis. Mittags wärmen wir uns in der Brauerei und Museen auf. Trotz des Wetters wirken die Lost Gardens of Heligan im Regen geheimnisvoll. Den Tag lassen wir im malerischen Charlestown ausklingen.",
+            "hu": "Az autó kényelméből dacolunk az esővel. Délelőtt az Eden Project biomjai száraz természeti élményt nyújtanak. Délben a sörfőzdében és múzeumokban melegszünk fel. Az eső ellenére a Heligan kertjei titokzatosnak tűnnek. A napot a festői Charlestownban zárjuk, biztonságban a víztől.",
+            "ro": "Din confortul mașinii sfidăm ploaia și vizităm atracțiile principale. Dimineața, cupolele Eden Project oferă o experiență uscată în natură. La prânz ne încălzim la berărie și muzee. În ciuda ploii, grădinile Heligan par misterioase. Încheiem ziua în pitorescul Charlestown.",
+            "en": "From the comfort of our car, we defy the rain to visit the highlights. Morning at the Eden Project biomes offers a dry nature experience. By noon, we warm up at the brewery and museums. Despite the weather, the Lost Gardens of Heligan feel mysterious. We end the day in picturesque Charlestown."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eden Project",
+                "hu": "Éden Projekt",
+                "ro": "Proiectul Eden",
+                "en": "Eden Project"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den oberen Plätzen und nutzen Sie den Shuttle-Bus, um nicht nass zu werden, bevor Sie in die überdachten Biome eintauchen.",
+                "hu": "Parkoljon a felső helyeken, és használja a transzferbuszt, hogy ne ázzon el, mielőtt belépne a fedett biomokba.",
+                "ro": "Parcați în zonele superioare și folosiți autobuzul de transfer pentru a nu vă uda înainte de a intra în biodomurile acoperite.",
+                "en": "Park in the upper lots and use the shuttle bus to stay dry before entering the massive, sheltered biomes."
+              }
+            },
+            {
+              "name": {
+                "de": "Wheal Martyn China Clay Museum",
+                "hu": "Wheal Martyn Porcelánföld Múzeum",
+                "ro": "Muzeul Argilei Wheal Martyn",
+                "en": "Wheal Martyn China Clay Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet viele Indoor-Exponate; nutzen Sie die kurzen Wege zwischen den Gebäuden, um Schlamm und Pfützen zu vermeiden.",
+                "hu": "A múzeum sok beltéri kiállítással rendelkezik; használja az épületek közötti rövid utakat, hogy elkerülje a sarat és a tócsákat.",
+                "ro": "Muzeul are multe exponate la interior; folosiți potecile scurte dintre clădiri pentru a evita noroiul și bălțile.",
+                "en": "The museum has many indoor exhibits; use the short paths between buildings to avoid the worst of the mud and puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "St Austell Brewery",
+                "hu": "St Austell Sörfőzde",
+                "ro": "Berăria St Austell",
+                "en": "St Austell Brewery"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist direkt vor Ort; genießen Sie die Tour und den Shop im Trockenen, ideal für einen verregneten Mittag.",
+                "hu": "A parkoló közvetlenül a helyszínen van; élvezze a túrát és a boltot szárazon, ideális egy esős délidőben.",
+                "ro": "Parcarea este chiar la fața locului; bucurați-vă de tur și de magazin la adăpost, ideal pentru o amiază ploioasă.",
+                "en": "Parking is available directly on-site; enjoy the indoor tour and gift shop, making it a perfect rainy midday activity."
+              }
+            },
+            {
+              "name": {
+                "de": "Lost Gardens of Heligan",
+                "hu": "Heligan Elveszett Kertjei",
+                "ro": "Grădinile Pierdute din Heligan",
+                "en": "Lost Gardens of Heligan"
+              },
+              "tip_5lang": {
+                "de": "Die dichte Vegetation bietet teilweise Schutz vor leichtem Regen; besuchen Sie die Gewächshäuser und das Café für längere Schauer.",
+                "hu": "A sűrű növényzet részben véd az enyhe esőtől; látogasson el az üvegházakba és a kávézóba a nagyobb záporok idején.",
+                "ro": "Vegetația densă oferă oarecare protecție contra ploii ușoare; vizitați serele și cafeneaua în timpul averselor mai puternice.",
+                "en": "Dense vegetation provides partial shelter from light rain; visit the glasshouses and the cafe during heavier downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Model Railway",
+                "hu": "Mevagissey Kisvasút",
+                "ro": "Calea Ferată în Miniatură Mevagissey",
+                "en": "Mevagissey Model Railway"
+              },
+              "tip_5lang": {
+                "de": "Eine komplett überdachte Attraktion, perfekt für Regentage; der Parkplatz ist nur einen kurzen, flachen Fußweg entfernt.",
+                "hu": "Teljesen fedett látnivaló, tökéletes esős napokra; a parkoló csak egy rövid, sík sétára található.",
+                "ro": "O atracție complet acoperită, perfectă pentru zilele ploioase; parcarea este la doar o scurtă plimbare pe teren drept.",
+                "en": "A completely indoor attraction, perfect for rainy days; the car park is only a short, level walk away from the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Charlestown Harbour",
+                "hu": "Charlestown Kikötő",
+                "ro": "Portul Charlestown",
+                "en": "Charlestown Harbour"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie oben im Ort, um steile, rutschige Wege am Hafen zu vermeiden; genießen Sie den Blick auf die raue See aus einem Caféfenster.",
+                "hu": "Parkoljon fent a faluban, hogy elkerülje a meredek, csúszós utakat; élvezze a haragos tenger látványát egy kávézó ablakából.",
+                "ro": "Parcați sus în sat pentru a evita drumurile abrupte și alunecoase; admirați marea agitată de la fereastra unei cafenele.",
+                "en": "Park at the top of the village to avoid steep, slippery paths; enjoy the view of the rough sea from a cozy cafe window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Komfort einer Heizung. Vormittags erleben wir tropische Wärme im Eden Project, mittags industrielle Geschichte im Porzellanmuseum. Die Gärten wirken in der tiefen Wintersonne bezaubernd. Vor dem frühen Sonnenuntergang besuchen wir die Kisvasút und beenden den Tag bei Dämmerung im beleuchteten Charlestown.",
+            "hu": "Téli kirándulás a fűtés kényelmével. Délelőtt trópusi meleget élvezünk az Eden Projectben, délben pedig ipari történelmet a porcelánmúzeumban. A kertek lenyűgözőek az alacsony téli napfényben. A korai naplemente előtt megnézzük a kisvasutat, majd az alkonyatban zárjuk a napot.",
+            "ro": "O excursie de iarnă cu confortul căldurii din mașină. Dimineața experimentăm căldura tropicală la Eden Project, iar la prânz istoria industrială. Grădinile sunt încântătoare sub soarele palid. Vizităm miniatuira feroviară înainte de apus și încheiem ziua în Charlestown.",
+            "en": "A winter trip with the comfort of car heating. Morning brings tropical warmth at the Eden Project, followed by industrial history at noon. The gardens look enchanting in the low winter sun. We visit the model railway before the early sunset and end the day in Charlestown."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Eden Project",
+                "hu": "Éden Projekt",
+                "ro": "Proiectul Eden",
+                "en": "Eden Project"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Eislaufbahn, die oft im Winter aufgebaut wird; die Biome bieten den perfekten Kontrast zur kalten Außenluft.",
+                "hu": "Látogasson el a jégpályára, amelyet gyakran felállítanak télen; a biomok tökéletes kontrasztot nyújtanak a kinti hideggel.",
+                "ro": "Vizitați patinoarul, amenajat adesea pe timp de iarnă; biodomurile oferă contrastul perfect față de aerul rece de afară.",
+                "en": "Visit the ice rink often set up in winter; the biomes provide a perfect warm contrast to the crisp outside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Wheal Martyn China Clay Museum",
+                "hu": "Wheal Martyn Porcelánföld Múzeum",
+                "ro": "Muzeul Argilei Wheal Martyn",
+                "en": "Wheal Martyn China Clay Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die weißen Gruben im klaren Winterlicht; wärmen Sie sich danach bei einer Suppe im Café auf.",
+                "hu": "Élvezze a tiszta téli fényben a fehér bányákra nyíló kilátást; utána melegedjen fel egy levessel a múzeum kávézójában.",
+                "ro": "Bucurați-vă de vederea panoramică asupra minelor albe în lumina clară; încălziți-vă apoi cu o supă la cafenea.",
+                "en": "Enjoy the panoramic views over the white clay pits in the clear winter light; warm up with a hot soup in the cafe afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "St Austell Brewery",
+                "hu": "St Austell Sörfőzde",
+                "ro": "Berăria St Austell",
+                "en": "St Austell Brewery"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp zur Mittagszeit; probieren Sie die saisonalen Winterbiere im gemütlichen Besucherzentrum.",
+                "hu": "Ideális beltéri megálló délidőben; kóstolja meg a szezonális téli söröket a barátságos látogatóközpontban.",
+                "ro": "O oprire ideală la interior pentru ora prânzului; gustați berile sezoniere de iarnă în centrul primitor pentru vizitatori.",
+                "en": "An ideal indoor stop for midday; be sure to sample the seasonal winter ales in the cozy visitor centre bar."
+              }
+            },
+            {
+              "name": {
+                "de": "Lost Gardens of Heligan",
+                "hu": "Heligan Elveszett Kertjei",
+                "ro": "Grădinile Pierdute din Heligan",
+                "en": "Lost Gardens of Heligan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gärten früh, um das Beste aus dem Licht zu machen; die Winterkamelien und die frostige Landschaft sind wunderschön.",
+                "hu": "Látogasson el korán a kertekbe, hogy kihasználja a fényt; a téli kaméliák és a fagyos táj gyönyörű látványt nyújtanak.",
+                "ro": "Vizitați grădinile devreme pentru a profita de lumină; cameliile de iarnă și peisajul înghețat sunt superbe.",
+                "en": "Visit the gardens early to make the most of the light; the winter camellias and frosty landscape are truly beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Mevagissey Model Railway",
+                "hu": "Mevagissey Kisvasút",
+                "ro": "Calea Ferată în Miniatură Mevagissey",
+                "en": "Mevagissey Model Railway"
+              },
+              "tip_5lang": {
+                "de": "Perfekt, um sich am Nachmittag drinnen aufzuwärmen; die detailreichen Landschaften begeistern bei jedem Wetter.",
+                "hu": "Tökéletes hely a délutáni benti melegedéshez; a részletgazdag terepasztalok minden időben lenyűgözőek.",
+                "ro": "Locul perfect pentru a vă încălzi la interior după-amiaza; machetele detaliate sunt fascinante pe orice vreme.",
+                "en": "Perfect for warming up indoors in the late afternoon; the detailed railway layouts are fascinating regardless of the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Charlestown Harbour",
+                "hu": "Charlestown Kikötő",
+                "ro": "Portul Charlestown",
+                "en": "Charlestown Harbour"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Stimmung und die Lichterketten an den Masten der Schiffe bei Einbruch der Dunkelheit (gegen 17 Uhr).",
+                "hu": "Élvezze az ünnepi hangulatot és a hajók árbocain lévő fényfüzéreket a sötétedés beálltakor (17 óra körül).",
+                "ro": "Bucurați-vă de atmosfera festivă și de luminile de pe catargele navelor la lăsarea întunericului (în jur de ora 17).",
+                "en": "Enjoy the festive atmosphere and the strings of lights on the ships' masts as darkness falls (around 5 PM)."
+              }
+            }
+          ]
+        }
       }
     }
   }

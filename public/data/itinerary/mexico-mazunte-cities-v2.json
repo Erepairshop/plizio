@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a tengeri élővilág megismerésével a teknősközpontban. Délben élvezze a napsütést a csendes öbölben, mielőtt egy izgalmas bálnalesre indulna. Délután csodálja meg a cirkuszi művészeteket és fedezze fel a vad partvonal drámai vulkáni homokját. Zárja a napot a Punta Cometa lenyűgöző naplementéjével és egy tengeri vacsorával a vízparton.",
         "ro": "Începeți dimineața învățând despre viața marină la centrul de broaște țestoase. La prânz, bucurați-vă de soare într-un golf blând înainte de o aventură uluitoare de observare a balenelor. După-amiaza, savurați arta circului și explorați nisipurile vulcanice dramatice ale coastei. Încheiați ziua cu un apus spectaculos la Punta Cometa și fructe de mare proaspete.",
         "en": "Start your morning learning about incredible marine life and conservation at the local turtle center. By midday, soak up the sun at a gentle local cove before heading out on a breathtaking whale-watching adventure. In the afternoon, enjoy vibrant circus arts and explore the dramatic volcanic sands of the coastline. End the day with a spectacular sunset at Punta Cometa and fresh seafood."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Schildkrötenzentrum, während der Regen auf das Dach trommelt. Mittags suchen wir unter den Palapas von Rinconcito Zuflucht und genießen die Meeresbrise. Am Nachmittag bietet das Zirkuszelt Schutz vor tropischen Schauern, bevor wir die neblige Küste bewundern. Der Abend klingt gemütlich in einem überdachten Restaurant bei lokaler Küche und Kerzenschein aus.",
+            "hu": "A reggel a teknősök védett birodalmában indul, ahol az eső kopogása a tetőn megnyugtató háttérzaj. Délben a Playa Rinconcito palapái alatt hűsölünk és figyeljük a tenger hullámait. Délután a cirkuszi sátor ad menedéket a trópusi zápor elől, majd a párás horizontot csodáljuk a parton. Este a falu egy barátságos, fedett teraszán zárjuk a napot, ahol a helyi ízek és a lágy eső illata vár.",
+            "ro": "Dimineața începe la adăpostul centrului de țestoase, în timp ce ploaia bate ritmic în acoperiș. La prânz căutăm refugiu sub umbrelele de pe Rinconcito și admirăm marea agitată. După-amiaza, cortul circului oferă protecție împotriva averselor tropicale, urmată de o vizită la malul mării. Seara se încheie confortabil pe o terasă acoperită, savurând preparate locale într-o atmosferă intimă.",
+            "en": "The morning starts in the sheltered turtle center, with rain tapping on the roof as a calming backdrop. At noon, we find cover under the palapas of Rinconcito to watch the waves. In the afternoon, the circus tent provides refuge from tropical showers before we admire the misty coast. The evening concludes at a cozy, covered restaurant where local flavors and the scent of rain await."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Mexicano de la Tortuga",
+                "hu": "Centro Mexicano de la Tortuga",
+                "ro": "Centro Mexicano de la Tortuga",
+                "en": "Centro Mexicano de la Tortuga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Aquarien, um Meeresschildkröten trocken zu beobachten; tragen Sie auf den Verbindungswegen rutschfeste Schuhe gegen die Nässe.",
+                "hu": "Használd ki a fedett akváriumokat a teknősök megfigyeléséhez, és viselj csúszásmentes lábbelit a pavilonok közötti vizes ösvényeken.",
+                "ro": "Profită de acvariile acoperite pentru a observa țestoasele la adăpost de ploaie; poartă încălțăminte antiderapantă pe potecile umede dintre pavilioane.",
+                "en": "Take advantage of the indoor aquariums to observe the turtles while staying dry; wear non-slip shoes for the wet paths between the exhibition halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Rinconcito",
+                "hu": "Playa Rinconcito",
+                "ro": "Playa Rinconcito",
+                "en": "Playa Rinconcito"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer von einem der Strandrestaurants aus; eine wasserdichte Hülle für Ihr Handy ist bei diesem Wetter unverzichtbar.",
+                "hu": "Figyeld a viharos tengert az egyik parti étterem oltalma alól; egy vízálló tok a telefonodnak ilyenkor elengedhetetlen kellék a fotózáshoz.",
+                "ro": "Observă marea agitată de sub protecția unui restaurant de pe plajă; o husă impermeabilă pentru telefon este esențială pentru poze pe acest timp.",
+                "en": "Watch the stormy sea from the shelter of a beachfront restaurant; a waterproof phone case is an essential accessory for photos in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Whales tour",
+                "hu": "Bálnales",
+                "ro": "Turul balenelor",
+                "en": "Whales tour"
+              },
+              "tip_5lang": {
+                "de": "Buchen Sie nur bei ruhiger See und tragen Sie ein hochwertiges Regenponcho gegen die Gischt; halten Sie sich am Boot gut fest, da es rutschig sein kann.",
+                "hu": "Csak nyugodtabb tenger esetén indulj útnak és viselj minőségi esőponchót a permet ellen; kapaszkodj erősen a hajóban, mert a felületek csúszósak.",
+                "ro": "Pleacă în larg doar dacă marea este calmă și poartă o pelerină de ploaie de calitate; ține-te bine de barcă, deoarece suprafețele devin alunecoase.",
+                "en": "Only head out if the sea is relatively calm and wear a high-quality rain poncho; hold on tight to the boat as surfaces can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Mermejita Circus",
+                "hu": "Mermejita Cirkusz",
+                "ro": "Mermejita Circus",
+                "en": "Mermejita Circus"
+              },
+              "tip_5lang": {
+                "de": "Das große Zelt bietet perfekten Schutz vor Regen, während Sie Akrobatik genießen; bringen Sie eine leichte Jacke gegen die feuchte Kühle mit.",
+                "hu": "A nagy cirkuszi sátor tökéletes menedéket nyújt az eső elől az előadás alatt; vigyél egy könnyű kardigánt a párás hűvösség ellen.",
+                "ro": "Cortul mare al circului oferă un adăpost perfect împotriva ploii în timpul spectacolului; adu o jachetă ușoară pentru răcoarea umedă de afară.",
+                "en": "The large circus tent provides perfect shelter from the rain while you enjoy the show; bring a light cardigan against the humid dampness."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Mermejita",
+                "hu": "Playa Mermejita",
+                "ro": "Playa Mermejita",
+                "en": "Playa Mermejita"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie die Kraft der Natur am menschenleeren Strand im Regen; meiden Sie jedoch die Felsränder, da diese bei Nässe extrem rutschig sind.",
+                "hu": "Érezd a természet erejét az esőben elnéptelenedett strandon; kerüld a sziklák szélét, mert nedvesen rendkívül veszélyesek és csúszósak.",
+                "ro": "Simte forța naturii pe plaja pustie sub ploaie; evită însă marginile stâncilor, deoarece devin extrem de alunecoase și periculoase.",
+                "en": "Feel the power of nature on the deserted beach in the rain; however, avoid the edges of the rocks as they become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador",
+                "hu": "Mirador",
+                "ro": "Mirador",
+                "en": "Mirador"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg kann schlammig sein, nutzen Sie Wanderstöcke oder feste Schuhe; der Blick auf die regnerische Bucht ist mystisch und einzigartig.",
+                "hu": "A felfelé vezető út sáros lehet, használj túrabakancsot vagy stabil cipőt; az esős öböl látványa ilyenkor misztikus és felejthetetlen.",
+                "ro": "Drumul spre culme poate fi noroios, folosește bocanci de munte sau pantofi stabili; vederea golfului sub ploaie este mistică și unică.",
+                "en": "The path uphill can be muddy, so use hiking boots or stable shoes; the view of the rainy bay is mystical and truly unforgettable."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pescador",
+                "hu": "El Pescador",
+                "ro": "El Pescador",
+                "en": "El Pescador"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie frischen Fisch im überdachten Bereich und lauschen Sie dem Regen; reservieren Sie einen Tisch in der Mitte, um trocken zu bleiben.",
+                "hu": "Élvezd a friss halat a fedett belső részben és hallgasd az eső dobolását; foglalj asztalt középen, hogy biztosan szárazon maradj.",
+                "ro": "Savurează peștele proaspăt în zona acoperită și ascultă sunetul ploii; rezervă o masă spre interior pentru a rămâne la uscat.",
+                "en": "Enjoy fresh fish in the covered interior area and listen to the rain; book a table towards the center to ensure you stay completely dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Mazunte ist angenehm kühl und perfekt für einen Spaziergang. Mittags wärmt die Sonne die Strände, ohne zu brennen. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Besuch des Aussichtspunkts früher ein. Der Abend ist mild und ideal für ein Abendessen im Freien, wobei eine leichte Schicht Kleidung für die kühle Brise ratsam ist.",
+            "hu": "A téli reggel Mazuntéban kellemesen hűvös, ideális a gyalogos felfedezéshez. Délben a nap lágyan melegíti a partot, de nem éget. Mivel a nap már 17:00 körül lenyugszik, a kilátót korábban ejtjük útba. Az este enyhe, tökéletes egy szabadtéri vacsorához, de a tengeri szél miatt érdemes egy vékony réteget magunkkal vinni a sétához.",
+            "ro": "Dimineața de iarnă în Mazunte este plăcut de răcoroasă, perfectă pentru explorarea pe jos. La prânz, soarele încălzește blând plaja. Deoarece soarele apune deja în jur de ora 17:00, planificăm vizita la mirador mai devreme. Seara este blândă, ideală pentru o cină în aer liber, dar o jachetă subțire este utilă împotriva brizei mării.",
+            "en": "The winter morning in Mazunte is pleasantly cool, ideal for exploring on foot. At noon, the sun gently warms the beach without burning. Since sunset is already around 17:00, we plan the viewpoint visit earlier. The evening is mild, perfect for outdoor dining, but a light layer is recommended for the cool sea breeze during your stroll."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Mexicano de la Tortuga",
+                "hu": "Centro Mexicano de la Tortuga",
+                "ro": "Centro Mexicano de la Tortuga",
+                "en": "Centro Mexicano de la Tortuga"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Temperaturen machen den Rundgang im Freien sehr angenehm; nutzen Sie das weiche Morgenlicht für tolle Fotos der Schildkröten.",
+                "hu": "A hűvösebb reggeli hőmérséklet miatt a kültéri séta nagyon kellemes; használd ki a lágy fényeket a teknősök fotózásához.",
+                "ro": "Temperaturile mai scăzute fac plimbarea în aer liber foarte plăcută; profită de lumina blândă a dimineții pentru poze reușite cu țestoasele.",
+                "en": "The cooler morning temperatures make the outdoor tour very pleasant; use the soft morning light for great photos of the turtles."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Rinconcito",
+                "hu": "Playa Rinconcito",
+                "ro": "Playa Rinconcito",
+                "en": "Playa Rinconcito"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter erfrischend; genießen Sie die Sonne am Mittag, bevor die Schatten der Klippen am frühen Nachmittag länger werden.",
+                "hu": "A tengervíz télen frissítő; élvezd a napsütést délben, mielőtt a sziklák árnyékai kora délután elkezdenének megnyúlni a parton.",
+                "ro": "Apa mării este revigorantă iarna; bucură-te de soare la prânz, înainte ca umbrele stâncilor să se lungească pe plajă devreme după-amiaza.",
+                "en": "The sea water is refreshing in winter; enjoy the sun at noon before the shadows of the cliffs start to lengthen in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Whales tour",
+                "hu": "Bálnales",
+                "ro": "Turul balenelor",
+                "en": "Whales tour"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die Hauptsaison für Buckelwale; bringen Sie ein langärmeliges Shirt mit, da es auf dem offenen Meer im Fahrtwind kühl sein kann.",
+                "hu": "Ez a púpos bálnák főszezonja; vigyél magaddal hosszú ujjú felsőt, mert a nyílt tengeren a menetszélben hűvös lehet az idő.",
+                "ro": "Aceasta este sezonul de vârf pentru balenele cu cocoașă; ia o bluză cu mânecă lungă, deoarece în larg briza poate fi destul de rece.",
+                "en": "This is peak humpback whale season; bring a long-sleeved shirt as the wind on the open sea can be quite cool during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Mermejita Circus",
+                "hu": "Mermejita Cirkusz",
+                "ro": "Mermejita Circus",
+                "en": "Mermejita Circus"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Nachmittagsvorstellung, um vor dem frühen Sonnenuntergang fertig zu sein; die trockene Luft sorgt für eine klare Akustik.",
+                "hu": "Látogass el a délutáni előadásra, hogy még a korai naplemente előtt végezz; a száraz téli levegőben az akusztika is tisztább.",
+                "ro": "Vizitează spectacolul de după-amiază pentru a termina înainte de apusul devreme; aerul uscat de iarnă face ca acustica să fie mai clară.",
+                "en": "Attend the afternoon performance to finish before the early sunset; the dry winter air makes the acoustics even clearer."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Mermejita",
+                "hu": "Playa Mermejita",
+                "ro": "Playa Mermejita",
+                "en": "Playa Mermejita"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen langen Spaziergang bei mildem Wetter; achten Sie auf die Zeit, da es ab 17:00 Uhr schnell dunkel wird.",
+                "hu": "Ideális hely egy hosszú sétához a kellemes időben; figyelj az időre, mert 17:00 után hirtelen sötétedik be a parton.",
+                "ro": "Un loc ideal pentru o plimbare lungă pe vreme blândă; fii atent la timp, deoarece după ora 17:00 se întunecă rapid pe plajă.",
+                "en": "An ideal spot for a long walk in the mild weather; keep an eye on the time as it gets dark very quickly after 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador",
+                "hu": "Mirador",
+                "ro": "Mirador",
+                "en": "Mirador"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie spätestens um 16:30 Uhr hier an, um den Sonnenuntergang nicht zu verpassen; im Winter ist der Himmel oft besonders klar.",
+                "hu": "Érkezz meg legkésőbb 16:30-ra, hogy ne maradj le a korai naplementéről; télen az égbolt gyakran különösen tiszta és csillagos.",
+                "ro": "Ajunge aici cel târziu la ora 16:30 pentru a nu rata apusul devreme; iarna, cerul este adesea extrem de senin și spectaculos.",
+                "en": "Arrive here by 16:30 at the latest to catch the early sunset; in winter, the sky is often exceptionally clear and beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "El Pescador",
+                "hu": "El Pescador",
+                "ro": "El Pescador",
+                "en": "El Pescador"
+              },
+              "tip_5lang": {
+                "de": "Reservieren Sie einen Platz im Freien, um die kühle Abendluft zu genießen; ein leichter Pullover macht das Essen am Meer perfekt.",
+                "hu": "Foglalj asztalt a teraszon, hogy élvezd a hűvös esti levegőt; egy vékony pulóver kényelmessé teszi a tengerparti vacsorát.",
+                "ro": "Rezervă o masă la exterior pentru a te bucura de aerul răcoros de seară; un pulover subțire va face cina la malul mării perfectă.",
+                "en": "Book a table outside to enjoy the cool evening air; a light sweater will make your dinner by the sea perfectly comfortable."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kerékpártúrája a teknősmenedékhelynél kezdődik, amely ideális a reggeli látogatásra. Délben tekerjen a festői parton, hogy felfedezzen csendes, eldugott öblöket. Délután kerékpározzon el a drámai hullámokkal és sötét homokkal jellemezhető sziklás partok mellett. Zárja az aktív napot a kerékpár leparkolásával és egy túrával a régió leghíresebb panorámás naplemente pontjához.",
         "ro": "Plimbarea începe la renumitul sanctuar de țestoase, perfect dimineața. Pedalați de-a lungul coastei la prânz pentru a descoperi golfuri liniștite și ascunse. După-amiaza, mergeți cu bicicleta pe lângă țărmuri accidentate cu valuri dramatice și nisip întunecat. Încheiați ziua parcând bicicleta și urcând la cel mai faimos punct panoramic pentru a admira apusul spectaculos.",
         "en": "Your ride begins at the renowned turtle sanctuary, perfect for an early morning visit. Pedal along the scenic coast by midday to discover tranquil bays and hidden coves away from the crowds. In the afternoon, cycle past rugged shorelines characterized by dramatic waves and dark sands. Conclude your active day by parking your bike and hiking to the region's most famous panoramic sunset spot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf den rutschigen Wegen von Mazunte. Der Morgen beginnt am Schildkrötenzentrum, gefolgt von einer vorsichtigen Fahrt zum Strand. Mittags bietet eine Pause in Aragón Schutz. Nachmittags erkunden wir die Küste bei gemäßigtem Tempo. Der Tag endet mit einer kurzen, sicheren Fahrt zurück ins Zentrum vor dem Einbruch der Dunkelheit.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Mazunte csúszós útjain. A reggel a teknősöknél indul, majd óvatos tekerés következik a partra. Délben Aragónban tartunk pihenőt egy fedett helyen. Délután mérsékelt tempóban fedezzük fel a környéket. A napot egy rövid, biztonságos visszautúval zárjuk a faluba, még a sötétedés előtt.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile alunecoase din Mazunte. Dimineața începe la țestoase, urmată de o pedalare atentă spre plajă. La prânz, o pauză în Aragón oferă adăpost. După-amiaza explorăm coasta într-un ritm moderat. Ziua se încheie cu o întoarcere scurtă și sigură în centru înainte de lăsarea întunericului.",
+            "en": "Cycling in the rain requires caution on Mazunte's slippery paths. The morning starts at the turtle center, followed by a careful ride to the beach. At noon, a break in Aragón provides shelter. In the afternoon, we explore the coast at a moderate pace. The day ends with a short, safe ride back to the center before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Mexicano de la Tortuga",
+                "hu": "Centro Mexicano de la Tortuga",
+                "ro": "Centro Mexicano de la Tortuga",
+                "en": "Centro Mexicano de la Tortuga"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Platz; nutzen Sie die Zeit drinnen, um den stärksten Regen abzuwarten, bevor Sie weiterfahren.",
+                "hu": "Parkold a biciklidet fedett helyre; használd ki a benti időt a legnagyobb zápor kivárására, mielőtt továbbtekernél a következő ponthoz.",
+                "ro": "Parchează bicicleta într-un loc acoperit; folosește timpul petrecut în interior pentru a aștepta trecerea ploii înainte de a pleca mai departe.",
+                "en": "Park your bike in a covered spot; use the time indoors to wait out the heaviest downpour before cycling to the next location."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Rinconcito",
+                "hu": "Playa Rinconcito",
+                "ro": "Playa Rinconcito",
+                "en": "Playa Rinconcito"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann schlammig sein, fahren Sie langsam; suchen Sie bei einem plötzlichen Schauer sofort Schutz unter einer Palapa.",
+                "hu": "A bekötőút sáros lehet, tekerj lassan; hirtelen zápor esetén keress azonnal menedéket az egyik nádtetős palapa alatt.",
+                "ro": "Drumul de acces poate fi noroios, pedalează încet; în caz de aversă bruscă, caută imediat adăpost sub o palapa cu acoperiș de stuf.",
+                "en": "The access road can be muddy, so ride slowly; in case of a sudden downpour, seek immediate shelter under a thatched palapa."
+              }
+            },
+            {
+              "name": {
+                "de": "Aragón",
+                "hu": "Aragón",
+                "ro": "Aragón",
+                "en": "Aragón"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher ist hügelig und bei Nässe rutschig, prüfen Sie Ihre Bremsen; genießen Sie eine längere Pause, bis der Regen nachlässt.",
+                "hu": "Az idevezető út dombos és nedvesen csúszós, ellenőrizd a fékeidet; tarts hosszabb pihenőt egy fedett részen, amíg eláll az eső.",
+                "ro": "Drumul până aici este deluros și alunecos pe ud, verifică-ți frânele; ia o pauză mai lungă într-o zonă acoperită până când ploaia se oprește.",
+                "en": "The road here is hilly and slippery when wet, so check your brakes; take a longer break in a covered area until the rain subsides."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Cuevitas",
+                "hu": "Playa Las Cuevitas",
+                "ro": "Playa Las Cuevitas",
+                "en": "Playa Las Cuevitas"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen bieten natürlichen Schutz, aber der Weg dorthin ist steinig; lassen Sie das Rad oben stehen, wenn der Pfad zu glitschig ist.",
+                "hu": "A sziklák természetes védelmet nyújtanak, de az út köves; hagyd a biciklit fent, ha az ösvény túl csúszósnak tűnik a lejutáshoz.",
+                "ro": "Stâncile oferă protecție naturală, dar drumul este pietros; lasă bicicleta sus dacă poteca pare prea alunecoasă pentru a coborî.",
+                "en": "The rocks offer natural protection, but the path is stony; leave your bike at the top if the trail seems too slippery to descend safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Mermejita",
+                "hu": "Playa Mermejita",
+                "ro": "Playa Mermejita",
+                "en": "Playa Mermejita"
+              },
+              "tip_5lang": {
+                "de": "Breite Reifen sind hier von Vorteil für den sandigen, nassen Boden; tragen Sie helle Regenkleidung, um für andere sichtbar zu bleiben.",
+                "hu": "A szélesebb gumik előnyt jelentenek a homokos, vizes talajon; viselj világos esőruházatot, hogy jól látható maradj a forgalomban.",
+                "ro": "Anvelopele late sunt un avantaj pe solul nisipos și ud; poartă haine de ploaie în culori deschise pentru a fi vizibil în trafic.",
+                "en": "Wider tires are an advantage on the sandy, wet ground; wear bright rain gear to stay visible to others while cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador",
+                "hu": "Mirador",
+                "ro": "Mirador",
+                "en": "Mirador"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad sicher an und gehen Sie das letzte Stück zu Fuß; die neblige Aussicht ist die Mühe des nassen Aufstiegs wert.",
+                "hu": "Zárd le a biciklit biztonságos helyen és az utolsó szakaszt tedd meg gyalog; a párás kilátás megéri a vizes kapaszkodót.",
+                "ro": "Încuie bicicleta într-un loc sigur și parcurge ultima porțiune pe jos; vederea cețoasă merită efortul urcușului prin ploaie.",
+                "en": "Lock your bike in a secure spot and walk the last section; the misty view is well worth the effort of the wet climb."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das milde Winterwetter ist ideal für eine Radtour entlang der Küste von Mazunte. Am Morgen ist die Luft frisch und belebend. Mittags genießen wir die Sonne an den Stränden, während die Temperaturen perfekt zum Treten sind. Da es bereits um 17:00 Uhr dämmert, beenden wir unsere Tour am Mirador rechtzeitig, um das goldene Licht sicher auf dem Heimweg zu nutzen.",
+            "hu": "A mild téli időjárás ideális egy tengerparti biciklitúrához Mazuntéban. Reggel a levegő friss és élénkítő. Délben a strandokon élvezzük a napsütést, miközben a hőmérséklet tökéletes a tekeréshez. Mivel 17:00 körül már alkonyodik, a Miradornál időben befejezzük a túrát, hogy a maradék fényt kihasználva biztonságban érjünk haza.",
+            "ro": "Vremea blândă de iarnă este ideală pentru o tură cu bicicleta pe coasta din Mazunte. Dimineața, aerul este proaspăt și revigorant. La prânz ne bucurăm de soare pe plajă, temperaturile fiind perfecte pentru pedalat. Deoarece la ora 17:00 începe să se înnopteze, terminăm vizita la Mirador din timp pentru a ajunge acasă în siguranță.",
+            "en": "The mild winter weather is ideal for a coastal bike tour in Mazunte. In the morning, the air is fresh and invigorating. At noon, we enjoy the sun on the beaches while the temperatures are perfect for cycling. Since it starts getting dark around 17:00, we finish our tour at the Mirador in time to ride home safely in the remaining light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Mexicano de la Tortuga",
+                "hu": "Centro Mexicano de la Tortuga",
+                "ro": "Centro Mexicano de la Tortuga",
+                "en": "Centro Mexicano de la Tortuga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für den Besuch; die Sonne steht flach und blendet nicht so stark beim Radeln zum Eingang.",
+                "hu": "Használd ki a hűvös reggelt a látogatáshoz; a nap alacsonyan jár és nem vakít annyira, miközben a bejárathoz tekersz.",
+                "ro": "Profită de dimineața răcoroasă pentru vizită; soarele este jos și nu te va orbi atât de tare în timp ce pedalezi spre intrare.",
+                "en": "Take advantage of the cool morning for your visit; the sun is low and won't be as blinding while you cycle to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Rinconcito",
+                "hu": "Playa Rinconcito",
+                "ro": "Playa Rinconcito",
+                "en": "Playa Rinconcito"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist perfekt für eine Pause am Strand; denken Sie daran, sich trotz der Kühle mit Sonnenschutz einzureiben.",
+                "hu": "A téli napsütés tökéletes egy tengerparti pihenőhöz; a hűvösebb szél ellenére se feledkezz meg a naptej használatáról tekerés közben.",
+                "ro": "Soarele de iarnă este perfect pentru o pauză pe plajă; în ciuda brizei răcoroase, nu uita să folosești protecție solară în timp ce pedalezi.",
+                "en": "The winter sun is perfect for a beach break; despite the cool breeze, don't forget to apply sunscreen while cycling between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Aragón",
+                "hu": "Aragón",
+                "ro": "Aragón",
+                "en": "Aragón"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Luft macht den Anstieg weniger anstrengend; genießen Sie den weiten Blick auf den Ozean bei klarer Wintersicht.",
+                "hu": "A száraz levegő kevésbé teszi megerőltetővé az emelkedőt; élvezd a távoli kilátást az óceánra a tiszta téli látási viszonyok mellett.",
+                "ro": "Aerul uscat face urcușul mai puțin obositor; bucură-te de vederea panoramică asupra oceanului datorită vizibilității clare de iarnă.",
+                "en": "The dry air makes the uphill climb less exhausting; enjoy the far-reaching view of the ocean thanks to the clear winter visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Las Cuevitas",
+                "hu": "Playa Las Cuevitas",
+                "ro": "Playa Las Cuevitas",
+                "en": "Playa Las Cuevitas"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Erkundungstour zu Fuß, während das Rad oben wartet; die Meeresbrise ist hier im Winter besonders erfrischend.",
+                "hu": "Tökéletes egy gyalogos felfedezéshez, amíg a bicikli fent vár; a tengeri szellő itt télen különösen frissítő és élénkítő.",
+                "ro": "Perfect pentru o explorare pe jos în timp ce bicicleta așteaptă sus; briza mării este deosebit de revigorantă aici în timpul iernii.",
+                "en": "Perfect for an exploration on foot while your bike waits at the top; the sea breeze is particularly refreshing here during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Mermejita",
+                "hu": "Playa Mermejita",
+                "ro": "Playa Mermejita",
+                "en": "Playa Mermejita"
+              },
+              "tip_5lang": {
+                "de": "Das Radeln auf dem festen Sand am Spülsaum ist ein Erlebnis; starten Sie spätestens um 16:00 Uhr zum nächsten Ziel.",
+                "hu": "A kemény homokon való tekerés a vízparton nagy élmény; indulj el legkésőbb 16:00-kor a következő úticélod felé.",
+                "ro": "Pedalatul pe nisipul umed de la marginea apei este o experiență deosebită; pleacă spre următoarea destinație cel târziu la ora 16:00.",
+                "en": "Cycling on the firm sand by the water's edge is a great experience; leave for your next destination by 16:00 at the latest."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador",
+                "hu": "Mirador",
+                "ro": "Mirador",
+                "en": "Mirador"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter früher, planen Sie Ihre Ankunft für 16:30 Uhr; bringen Sie Licht für die Rückfahrt am Abend mit.",
+                "hu": "A naplemente télen korábban van, tervezd az érkezést 16:30-ra; legyen nálad lámpa a sötétedés utáni biztonságos hazatekeréshez.",
+                "ro": "Apusul este mai devreme iarna, planifică sosirea pentru ora 16:30; asigură-te că ai lumini pentru drumul de întoarcere după lăsarea serii.",
+                "en": "Sunset is earlier in winter, so plan to arrive by 16:30; make sure you have lights for a safe ride home after dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Vezessen kora reggel a buja ökológiai övezetek felé, és élvezze a frissítő szellőt. Délben hajtson végig a parton, látogasson el csendesebb strandokra és az oktató teknősközpontba. A délután egy izgalmas hajótúrával és lenyűgöző tengerparti kilátópontokkal folytatódik. Az este csodálatosan zárul helyi cirkuszi előadásokkal és egy ízletes vacsorával a csillagos oaxacai égbolt alatt.",
         "ro": "Conduceți devreme spre zonele ecologice luxuriante pentru a savura briza dimineții. La prânz, coborâți pe coastă pentru a vizita țărmuri liniștite și centrul de țestoase. După-amiaza aduce un tur interesant cu barca și puncte de belvedere de coastă impresionante. Seara se încheie frumos cu spectacole locale de circ și o cină relaxantă sub impresionantul cer înstelat din Oaxaca.",
         "en": "Drive out early to lush ecological zones and enjoy the refreshing morning breeze. By midday, cruise down the coast to visit peaceful, lesser-known shores and explore the educational turtle center. Your afternoon shifts to an exciting boat tour followed by awe-inspiring coastal viewpoints. The evening winds down beautifully with local circus performances and dinner under the starry Oaxacan sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto bietet den perfekten Schutz vor den heftigen tropischen Regenfällen in Mazunte. Wir starten entspannt bei Los Mangos und fahren sicher zu den Stränden. Mittags genießen wir die Küstenlandschaft aus dem trockenen Innenraum. Am Nachmittag besuchen wir das Schildkrötenzentrum und den Zirkus. Der Abend endet mit einer bequemen Fahrt zum Mirador und einem trockenen Rückweg ins Hotel.",
+            "hu": "Az autó tökéletes menedéket nyújt a heves trópusi esők elől Mazuntéban. Kényelmesen indulunk Los Mangosnál, és biztonságban autózunk a partokhoz. Délben a száraz utastérből csodáljuk a tájat. Délután meglátogatjuk a teknősöket és a cirkuszt, anélkül hogy eláznánk. A napot egy kényelmes autózással zárjuk a kilátóhoz, majd szárazon érünk vissza a szállásunkra.",
+            "ro": "Mașina oferă adăpostul perfect împotriva ploilor tropicale abundente din Mazunte. Începem relaxați la Los Mangos și conducem în siguranță spre plaje. La prânz admirăm peisajul de coastă din interiorul uscat. După-amiaza vizităm centrul de țestoase și circul fără a ne uda. Ziua se încheie cu o plimbare confortabilă spre mirador și o întoarcere la hotel fără peripeții.",
+            "en": "The car provides the perfect shelter from heavy tropical rains in Mazunte. We start relaxed at Los Mangos and drive safely to the beaches. At noon, we admire the coastal landscape from the dry interior. In the afternoon, we visit the turtle center and the circus without getting soaked. The day ends with a comfortable drive to the viewpoint and a dry return to the hotel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Los Mangos",
+                "hu": "Los Mangos",
+                "ro": "Los Mangos",
+                "en": "Los Mangos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um im Schlamm nicht steckenzubleiben; nutzen Sie die kurzen Regenpausen für einen Spaziergang.",
+                "hu": "Parkolj szilárd talajon, hogy elkerüld az elakadást a sárban; használd ki a rövid esőszüneteket egy gyors sétára a környéken.",
+                "ro": "Parchează pe teren solid pentru a evita blocarea în noroi; profită de scurte paze între averses pentru o plimbare rapidă prin zonă.",
+                "en": "Park on firm ground to avoid getting stuck in the mud; take advantage of short breaks in the rain for a quick walk around the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Conchita",
+                "hu": "Playa La Conchita",
+                "ro": "Playa La Conchita",
+                "en": "Playa La Conchita"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigte Straße kann Schlaglöcher haben, fahren Sie vorsichtig; beobachten Sie das Meer durch das Fenster, wenn es zu stark regnet.",
+                "hu": "A nem aszfaltozott út kátyús lehet, vezess óvatosan; figyeld a tengert az ablakból, ha túl erősen esne a kiszálláshoz.",
+                "ro": "Drumul neasfaltat poate avea gropi, condu cu prudență; observă marea prin fereastră dacă plouă prea tare pentru a coborî din mașină.",
+                "en": "The unpaved road may have potholes, so drive carefully; watch the sea through the window if it's raining too hard to get out."
+              }
+            },
+            {
+              "name": {
+                "de": "Aragón",
+                "hu": "Aragón",
+                "ro": "Aragón",
+                "en": "Aragón"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am überdachten Bereich; die Scheibenwischer sollten bei den plötzlichen Güssen in gutem Zustand sein.",
+                "hu": "Használd a fedett részhez közeli parkolót; az ablaktörlők legyenek jó állapotban a hirtelen lezúduló trópusi záporok miatt.",
+                "ro": "Folosește parcarea apropiată de zona acoperită; ștergătoarele trebuie să fie în stare bună pentru averselor tropicale bruște.",
+                "en": "Use the parking area close to the sheltered section; ensure your windshield wipers are in good condition for sudden tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Mexicano de la Tortuga",
+                "hu": "Centro Mexicano de la Tortuga",
+                "ro": "Centro Mexicano de la Tortuga",
+                "en": "Centro Mexicano de la Tortuga"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Regen, da viele Ausstellungen überdacht sind; lassen Sie nasse Regenschirme im Kofferraum des Autos.",
+                "hu": "Ideális megálló esőben, mivel a legtöbb kiállítás fedett helyen van; a vizes esernyőket hagyd az autó csomagtartójában.",
+                "ro": "Oprire ideală pe ploaie, deoarece majoritatea expozițiilor sunt acoperite; lasă umbrelele ude în portbagajul mașinii după vizită.",
+                "en": "An ideal stop in the rain as most exhibits are covered; keep wet umbrellas in the trunk of the car after your visit to stay dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Whales tour",
+                "hu": "Bálnales",
+                "ro": "Turul balenelor",
+                "en": "Whales tour"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie telefonisch, ob die Tour trotz Regen stattfindet; nutzen Sie die Klimaanlage im Auto, um die Fenster vor dem Beschlagen zu schützen.",
+                "hu": "Érdeklődj telefonon, hogy az eső ellenére elindul-e a túra; használd az autó klímáját a párátlanításhoz a nedves időben.",
+                "ro": "Verifică prin telefon dacă turul se organizează în ciuda ploii; folosește aerul condiționat pentru a dezaburi geamurile mașinii.",
+                "en": "Check by phone if the tour is running despite the rain; use the car's AC to keep the windows from fogging up in the humid weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador",
+                "hu": "Mirador",
+                "ro": "Mirador",
+                "en": "Mirador"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Ende der befestigten Straße und gehen Sie nur kurz hinaus; die Aussicht auf die stürmische Küste ist dramatisch.",
+                "hu": "Hajts az aszfaltozott út végéig, és csak rövid időre szállj ki; a viharos tengerpart látványa ilyenkor rendkívül drámai.",
+                "ro": "Condu până la capătul drumului asfaltat și coboară doar pentru scurt timp; vederea coastei sub furtună este extrem de dramatică.",
+                "en": "Drive to the end of the paved road and only step out briefly; the view of the stormy coastline is exceptionally dramatic right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Mermejita Circus",
+                "hu": "Mermejita Cirkusz",
+                "ro": "Mermejita Circus",
+                "en": "Mermejita Circus"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingangszelt; im Auto bleiben Sie trocken, bis die Vorstellung unter der Plane beginnt.",
+                "hu": "Parkolj a lehető legközelebb a bejárati sátorhoz; maradj az autóban szárazon, amíg el nem kezdődik az előadás a ponyvák alatt.",
+                "ro": "Parchează cât mai aproape de cortul de intrare; rămâi în mașină la uscat până când începe spectacolul sub prelata circului.",
+                "en": "Park as close to the entrance tent as possible; stay dry in the car until the performance begins under the safety of the circus big top."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermonate in Mazunte bieten perfektes Fahrwetter mit klarer Sicht. Wir starten unsere Tour bei Los Mangos und genießen die frische Meeresbrise bei offenen Fenstern. Mittags ist es warm, aber nicht drückend. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir unsere Stopps effizient, um den Sonnenuntergang am Mirador und den Zirkusbesuch im Hellen zu erleben.",
+            "hu": "A téli hónapok Mazuntéban tökéletes autós időt kínálnak tiszta látási viszonyokkal. Los Mangosnál indulunk, és nyitott ablakokkal élvezzük a friss tengeri szellőt. Délben meleg van, de nem fülledt az idő. Mivel a nap már 17:00 körül lenyugszik, hatékonyan tervezzük a megállókat, hogy a Miradornál még világosban lássuk a naplementét.",
+            "ro": "Lunile de iarnă în Mazunte oferă vreme perfectă pentru condus, cu vizibilitate clară. Începem turul la Los Mangos și ne bucurăm de briza mării cu geamurile deschise. La prânz este cald, dar nu sufocant. Deoarece soarele apune deja la ora 17:00, planificăm opririle eficient pentru a prinde apusul la Mirador cât încă e lumină.",
+            "en": "The winter months in Mazunte offer perfect driving weather with clear visibility. We start our tour at Los Mangos and enjoy the fresh sea breeze with the windows down. At noon, it's warm but not humid. Since the sun sets around 17:00, we plan our stops efficiently to experience the sunset at the Mirador while it's still light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Los Mangos",
+                "hu": "Los Mangos",
+                "ro": "Los Mangos",
+                "en": "Los Mangos"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter trocken und leicht befahrbar; nutzen Sie die Morgensonne für einen kurzen Spaziergang in der Umgebung.",
+                "hu": "A parkoló télen száraz és könnyen járható; használd ki a reggeli napsütést egy rövid sétára a környék gyümölcsösei között.",
+                "ro": "Parcarea este uscată și ușor accesibilă iarna; profită de soarele dimineții pentru o scurtă plimbare prin livezile din zonă.",
+                "en": "The parking lot is dry and easily accessible in winter; take advantage of the morning sun for a short walk through the nearby orchards."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Conchita",
+                "hu": "Playa La Conchita",
+                "ro": "Playa La Conchita",
+                "en": "Playa La Conchita"
+              },
+              "tip_5lang": {
+                "de": "Die Straßenverhältnisse sind stabil; parken Sie im Schatten der Bäume, damit sich das Auto über Mittag nicht zu sehr aufheizt.",
+                "hu": "Az útviszonyok stabilak és pormentesebbek; parkolj a fák árnyékában, hogy az autó ne melegedjen fel túlságosan a déli órákban.",
+                "ro": "Condițiile de drum sunt stabile și fără praf; parchează la umbra copacilor pentru ca mașina să nu se încingă prea tare la prânz.",
+                "en": "Road conditions are stable and less dusty; park in the shade of the trees so the car doesn't heat up too much during the midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Aragón",
+                "hu": "Aragón",
+                "ro": "Aragón",
+                "en": "Aragón"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt bei heruntergelassenen Fenstern; die Luft ist trocken und angenehm, ideal für eine Pause ohne Klimaanlage.",
+                "hu": "Élvezd az autózást lehúzott ablakokkal; a levegő száraz és kellemes, ideális egy pihenőhöz a légkondicionáló használata nélkül.",
+                "ro": "Bucură-te de condus cu geamurile coborâte; aerul este uscat și plăcut, ideal pentru o pauză fără a folosi aerul condiționat.",
+                "en": "Enjoy the drive with the windows down; the air is dry and pleasant, ideal for a break without needing the air conditioning."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Mexicano de la Tortuga",
+                "hu": "Centro Mexicano de la Tortuga",
+                "ro": "Centro Mexicano de la Tortuga",
+                "en": "Centro Mexicano de la Tortuga"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Winter staubig sein; nutzen Sie die milden Temperaturen für einen entspannten Rundgang im Freien.",
+                "hu": "A parkoló télen poros lehet; használd ki az enyhe hőmérsékletet egy kényelmes, hosszasabb szabadtéri sétához a központban.",
+                "ro": "Parcarea poate fi prăfuită iarna; profită de temperaturile blânde pentru o plimbare relaxată și prelungită în aer liber la centru.",
+                "en": "The parking lot can be dusty in winter; take advantage of the mild temperatures for a comfortable, extended outdoor walk at the center."
+              }
+            },
+            {
+              "name": {
+                "de": "Whales tour",
+                "hu": "Bálnales",
+                "ro": "Turul balenelor",
+                "en": "Whales tour"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die beste Zeit für Walbeobachtungen; lassen Sie keine Wertsachen sichtbar im Auto, während Sie auf dem Boot sind.",
+                "hu": "Ez a legjobb időszak a bálnalesre; ne hagyj értéktárgyakat látható helyen az autóban, amíg a hajón tartózkodsz.",
+                "ro": "Aceasta este cea mai bună perioadă pentru observarea balenelor; nu lăsa obiecte de valoare la vedere în mașină cât timp ești pe barcă.",
+                "en": "This is the best time for whale watching; do not leave any valuables in plain sight in the car while you are out on the boat."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador",
+                "hu": "Mirador",
+                "ro": "Mirador",
+                "en": "Mirador"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um einen Parkplatz zu finden; der frühe Sonnenuntergang im Winter ist oft spektakulär klar.",
+                "hu": "Érkezz meg 16:30 előtt, hogy biztosan találj parkolóhelyet; a korai téli naplemente gyakran látványosan tiszta és színpompás.",
+                "ro": "Ajunge înainte de ora 16:30 pentru a găsi un loc de parcare; apusul devreme de iarnă este adesea spectaculos de clar și colorat.",
+                "en": "Arrive before 16:30 to ensure you find a parking spot; the early winter sunset is often spectacularly clear and colorful."
+              }
+            },
+            {
+              "name": {
+                "de": "Mermejita Circus",
+                "hu": "Mermejita Cirkusz",
+                "ro": "Mermejita Circus",
+                "en": "Mermejita Circus"
+              },
+              "tip_5lang": {
+                "de": "Die Abendvorstellung kann kühl sein; nehmen Sie eine Jacke aus dem Auto mit ins Zelt für ein gemütliches Erlebnis.",
+                "hu": "Az esti előadás alatt lehűlhet a levegő; vigyél magaddal egy pulóvert az autóból a sátorba a kényelmes szórakozáshoz.",
+                "ro": "Aerul se poate răci în timpul spectacolului de seară; ia o jachetă din mașină în cort pentru o experiență confortabilă.",
+                "en": "The air can cool down during the evening performance; take a jacket from the car into the tent for a comfortable experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

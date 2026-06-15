@@ -160,6 +160,196 @@
         "hu": "Reggele Aniche szívében kezdődik, ahol magába szívhatja a Saint-Martin templom nyugodt hangulatát, mielőtt elmerülne az üveggyártás ipari történelmében a helyi múzeumban. Délután egy kellemes séta vezet észak felé a Mont d'Aniche kilátójához. Később felfedezi a nyugati peremet a Verreries Hayez-nél, majd késő délután megmássza a bányászati múltat őrző Terril Sainte-Marie-t. A nap békésen zárul az Église Notre-Dame de la Visitation-ban, ahogy az alkonyat leszáll a város bájos utcáira.",
         "ro": "Dimineața dvs. începe în inima orașului Aniche, unde vă bucurați de atmosfera liniștită de la Biserica Saint-Martin, înainte de a pătrunde în istoria industrială la muzeul local. După-amiaza, o plimbare plăcută vă duce la nord spre Mont d'Aniche pentru o priveliște panoramică. Mai târziu explorați marginile vestice la Verreries Hayez, înainte de a urca pe fosta haldă minieră Terril Sainte-Marie. Ziua se încheie liniștit la Église Notre-Dame de la Visitation, pe măsură ce amurgul se lasă peste străzile fermecătoare.",
         "en": "Your morning starts in the heart of Aniche, soaking in the quiet atmosphere of Saint-Martin Church before delving into the profound industrial history of glassmaking at the local museum. Midday brings a leisurely walk north to Mont d'Aniche for sweeping panoramic views. Later, you'll explore the western edges at Verreries Hayez before making a late afternoon ascent up the mining heritage site of Terril Sainte-Marie. The day concludes peacefully at the Église Notre-Dame de la Visitation as dusk falls over the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Tag in Aniche beginnt unter dem Schutz der hohen Gewölbe der Saint-Martin-Kirche. Mittags bietet das Glasmuseum einen idealen Rückzugsort vor den Schauern. Am Nachmittag erkunden wir die industriellen Wahrzeichen mit festem Schuhwerk, da die Wege am Terril schlammig sein können. Der Tag endet besinnlich in der Kirche Notre-Dame de la Visitation, während der Regen draußen trommelt.",
+            "hu": "Egy esős nap Aniche-ben a Saint-Martin templom védelmező boltívei alatt kezdődik. Délben az üvegmúzeum nyújt tökéletes menedéket a záporok elől. Délután a bányászati örökséget járjuk be, de a meddőhányó környékén vigyázzunk a csúszós sárral. A napot a Notre-Dame de la Visitation templom csendjében zárjuk, miközben kint kopog az eső.",
+            "ro": "O zi ploioasă în Aniche începe sub protecția bolților înalte ale bisericii Saint-Martin. La prânz, muzeul sticlei oferă refugiul ideal împotriva averselor. După-amiază explorăm reperele industriale cu încălțăminte aderentă, deoarece potecile de lângă haldă pot fi noroioase. Ziua se încheie liniștit în biserica Notre-Dame de la Visitation, în timp ce ploaia bate în geamuri.",
+            "en": "A rainy day in Aniche starts under the protective arches of Saint-Martin Church. At noon, the glass museum provides a perfect refuge from the showers. In the afternoon, explore the industrial landmarks with sturdy shoes, as paths near the slag heap can be muddy. The day ends peacefully in the Church of Notre-Dame de la Visitation while the rain drums outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Glasmalereien im Inneren, während es draußen regnet; das Gebäude bietet einen hervorragenden, trockenen Start in den Tag.",
+                "hu": "Csodálja meg a belső üvegablakokat, miközben kint esik; az épület kiváló, száraz kezdést biztosít a naphoz.",
+                "ro": "Admirați vitraliile din interior în timp ce afară plouă; clădirea oferă un început de zi excelent și uscat.",
+                "en": "Admire the stained glass windows inside while it rains outside; the building provides an excellent, dry start to the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Aniche",
+                "hu": "Aniche Múzeum",
+                "ro": "Muzeul Aniche",
+                "en": "Aniche Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für einen ausführlichen Besuch der Glasausstellung; Garderoben für nasse Mäntel sind vorhanden.",
+                "hu": "Használja ki az esőszünetet az üvegkiállítás alapos megtekintésére; a vizes kabátoknak van ruhatár.",
+                "ro": "Profită de pauza de ploaie pentru o vizită detaliată a expoziției de sticlă; există garderobă pentru hainele ude.",
+                "en": "Take advantage of the rain break for a detailed visit to the glass exhibition; cloakrooms for wet coats are available."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Aniche",
+                "hu": "Mont d'Aniche",
+                "ro": "Mont d'Aniche",
+                "en": "Mont d'Aniche"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht bei Wolken; achten Sie auf den rutschigen Rasen und bleiben Sie auf den befestigten Wegen.",
+                "hu": "Élvezze a drámai kilátást felhős időben is; vigyázzon a csúszós fűre és maradjon a kijelölt ösvényeken.",
+                "ro": "Bucurați-vă de priveliștea dramatică sub nori; atenție la iarba alunecoasă și rămâneți pe potecile principale.",
+                "en": "Enjoy the dramatic views under the clouds; watch out for slippery grass and stay on the main paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasfabrik Hayez",
+                "hu": "Hayez Üveggyár",
+                "ro": "Fabrica de sticlă Hayez",
+                "en": "Verreries Hayez"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses Industriedenkmal unter Ihrem Regenschirm; die Ziegelmauern wirken bei Nässe besonders farbintensiv.",
+                "hu": "Fedezze fel ezt az ipari emléket esernyő alatt; a téglafalak színe nedvesen különösen intenzívnek hat.",
+                "ro": "Explorați acest monument industrial sub umbrelă; zidurile de cărămidă par deosebit de intens colorate când sunt ude.",
+                "en": "Explore this industrial monument under your umbrella; the brick walls look particularly intense in color when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Abraumhalde Sainte-Marie",
+                "hu": "Sainte-Marie meddőhányó",
+                "ro": "Halda Sainte-Marie",
+                "en": "Terril Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Der schlackige Boden kann bei Regen sehr rutschig werden; tragen Sie Wanderschuhe mit gutem Profil für den Aufstieg.",
+                "hu": "A salakos talaj esőben nagyon csúszóssá válhat; a felkapaszkodáshoz viseljen jó tapadású túracipőt.",
+                "ro": "Solul de zgură poate deveni foarte alunecos la ploaie; purtați bocanci cu talpă aderentă pentru urcare.",
+                "en": "The slag soil can become very slippery in the rain; wear hiking boots with good grip for the climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de la Visitation",
+                "hu": "Notre-Dame de la Visitation templom",
+                "ro": "Biserica Notre-Dame de la Visitation",
+                "en": "Église Notre-Dame de la Visitation"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um die Kleidung zu trocknen und den Tag Revue passieren zu lassen, während Sie die sakrale Stille genießen.",
+                "hu": "Csendes hely a ruhák megszárítására és a nap átgondolására, miközben élvezi a szakrális nyugalmat.",
+                "ro": "Un loc liniștit pentru a vă usca hainele și a reflecta asupra zilei, bucurându-vă de liniștea sacră.",
+                "en": "A quiet place to dry your clothes and reflect on the day while enjoying the sacred silence."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An frostigen Wintertagen bietet Aniche eine herbe Schönheit. Morgens wärmen wir uns in der Kirche auf, bevor wir das Museum besuchen, das den Mittelpunkt des Tages bildet. Die Außenbesichtigungen am Terril und der Glasfabrik absolvieren wir zügig vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Den Abend lassen wir bei den beleuchteten Fassaden der Stadt ausklingen.",
+            "hu": "A fagyos téli napokon Aniche zord szépsége tárul elénk. Reggel a templomban melegszünk fel, mielőtt a múzeumba mennénk, amely a nap központját adja. A meddőhányót és az üveggyárat gyorsan járjuk be a korai, 17:00 körüli naplemente előtt. Az estét a város kivilágított homlokzatai között zárjuk.",
+            "ro": "În zilele geroase de iarnă, Aniche oferă o frumusețe austeră. Dimineața ne încălzim în biserică înainte de a vizita muzeul, centrul zilei. Vizitele exterioare la haldă și fabrica de sticlă se fac rapid înainte de apusul devreme de la ora 17:00. Încheiem seara printre fațadele iluminate ale orașului.",
+            "en": "On frosty winter days, Aniche offers a rugged beauty. In the morning, warm up in the church before visiting the museum, the day's centerpiece. Complete the outdoor visits to the slag heap and glass factory quickly before the early sunset around 5:00 PM. End the evening among the city's illuminated facades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Innenraum für einen spirituellen Start; die dicken Mauern halten die schlimmste Kälte ab.",
+                "hu": "Használja a szélvédett belső teret a lelki kezdéshez; a vastag falak felfogják a legzordabb hideget is.",
+                "ro": "Folosiți interiorul ferit de vânt pentru un început spiritual; zidurile groase țin la distanță cel mai rău frig.",
+                "en": "Use the wind-sheltered interior for a spiritual start; the thick walls keep out the worst of the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Aniche",
+                "hu": "Aniche Múzeum",
+                "ro": "Muzeul Aniche",
+                "en": "Aniche Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort zum Aufwärmen; nehmen Sie sich Zeit für die Exponate, während die Wintersonne tief am Himmel steht.",
+                "hu": "Tökéletes hely a felmelegedéshez; szánjon időt a kiállítási tárgyakra, amíg a téli nap alacsonyan jár.",
+                "ro": "Locul perfect pentru a vă încălzi; acordați timp exponatelor în timp ce soarele de iarnă stă jos pe cer.",
+                "en": "The perfect place to warm up; take your time with the exhibits while the winter sun hangs low in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Mont d'Aniche",
+                "hu": "Mont d'Aniche",
+                "ro": "Mont d'Aniche",
+                "en": "Mont d'Aniche"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Winterlandschaft bietet weite Sichtweiten; ziehen Sie eine winddichte Jacke für das exponierte Plateau an.",
+                "hu": "A kopár téli táj messzi kilátást enged; viseljen szélálló kabátot a nyitott fennsíkon való tartózkodáshoz.",
+                "ro": "Peisajul golaș de iarnă oferă vizibilitate la distanță; purtați o jachetă rezistentă la vânt pentru platoul expus.",
+                "en": "The bare winter landscape offers long-distance views; wear a windproof jacket for the exposed plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasfabrik Hayez",
+                "hu": "Hayez Üveggyár",
+                "ro": "Fabrica de sticlă Hayez",
+                "en": "Verreries Hayez"
+              },
+              "tip_5lang": {
+                "de": "Das rote Backstein-Ensemble wirkt im Winterlicht besonders malerisch; halten Sie Ihre Kamera für schnelle Schnappschüsse bereit.",
+                "hu": "A vörös téglaépület-együttes a téli fényben különösen festői; tartsa készenlétben a fényképezőgépét a gyors fotókhoz.",
+                "ro": "Ansamblul de cărămidă roșie pare deosebit de pitoresc în lumina iernii; pregătiți camera pentru fotografii rapide.",
+                "en": "The red brick ensemble looks particularly picturesque in the winter light; have your camera ready for quick snapshots."
+              }
+            },
+            {
+              "name": {
+                "de": "Abraumhalde Sainte-Marie",
+                "hu": "Sainte-Marie meddőhányó",
+                "ro": "Halda Sainte-Marie",
+                "en": "Terril Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Bei Frost ist der Boden fest und gut begehbar; achten Sie jedoch auf vereiste Stellen an den Nordhängen.",
+                "hu": "Fagyban a talaj kemény és jól járható; ügyeljen azonban az északi lejtőkön előforduló jeges foltokra.",
+                "ro": "Când e îngheț, solul este ferm și ușor de parcurs; totuși, atenție la porțiunile înghețate de pe versanții nordici.",
+                "en": "In frost, the ground is firm and easy to walk on; however, watch out for icy patches on the northern slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de la Visitation",
+                "hu": "Notre-Dame de la Visitation templom",
+                "ro": "Biserica Notre-Dame de la Visitation",
+                "en": "Église Notre-Dame de la Visitation"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Wanderung hier pünktlich zum Sonnenuntergang; die Kerzen im Inneren spenden in der Dämmerung Trost.",
+                "hu": "Itt fejezze be a túrát pontosan naplementekor; a benti gyertyák fénye vigaszt nyújt a szürkületben.",
+                "ro": "Încheiați drumeția aici exact la apus; lumânările din interior oferă mângâiere în amurg.",
+                "en": "Finish your hike here right at sunset; the candles inside provide comfort in the twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A délelőtt kulturális adaggal indul a Saint-Martin templomnál és a helyi múzeumban. Ezután elteker a tóparti madármegfigyelő ponthoz, hogy élvezze a természetet. A délutánt a bányászat és az üveggyártás öröksége határozza meg a Terril Sainte-Marie és a Verreries Hayez területén. Késő délután egy hosszabb kerékpározás vezet délre a történelmi Eglis Notre-Dame des Orages-hez, ahol a nap nyugodt csendben ér véget.",
         "ro": "Dimineața începe cu o doză culturală la Biserica Saint-Martin și la muzeul local. Apoi pedalați către punctul de observare a păsărilor pentru a vă bucura de natură. După-amiaza este definită de moștenirea minieră și de fabricare a sticlei la Terril Sainte-Marie și Verreries Hayez. Mai târziu, o plimbare mai lungă vă duce spre sud, la istorica Eglis Notre-Dame des Orages, unde ziua se încheie într-o liniște contemplativă.",
         "en": "The morning kicks off with a cultural dose at Saint-Martin Church and the local museum. Afterwards, you'll cycle to the lakeside bird-watching viewpoint to enjoy some tranquil nature. The afternoon is defined by the region's mining and glassmaking heritage at Terril Sainte-Marie and Verreries Hayez. A longer ride south in the late afternoon brings you to the historic Eglis Notre-Dame des Orages, where the day concludes in reflective quiet."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Aniche im Regen erfordert gute Schutzbleche. Vormittags nutzen wir die Kirchenbesichtigung für eine erste Trockenpause. Mittags parken wir die Räder sicher am Museum für einen langen Aufenthalt im Warmen. Nachmittags geht es über befestigte Wege zu den Halden, bevor wir den Tag an der Kirche Notre-Dame des Orages abschließen.",
+            "hu": "Egy esős bringatúra Aniche-ben jó sárvédőt igényel. Délelőtt a templomlátogatást használjuk az első száraz pihenőre. Délben a múzeumnál biztonságban lezárjuk a gépeket egy hosszú benti programra. Délután szilárd utakon tekerünk a meddőhányókhoz, majd a napot a Notre-Dame des Orages templomnál fejezzük be.",
+            "ro": "O tură cu bicicleta prin Aniche pe ploaie necesită apărători bune. Dimineața folosim vizita la biserică pentru o primă pauză uscată. La prânz parcăm bicicletele în siguranță la muzeu pentru o ședere lungă la căldură. După-amiază pedalăm pe drumuri pavate spre halde, încheind ziua la biserica Notre-Dame des Orages.",
+            "en": "A bike tour through Aniche in the rain requires good mudguards. In the morning, use the church visit for a first dry break. At noon, park the bikes safely at the museum for a long indoor stay. In the afternoon, ride on paved paths to the slag heaps before finishing the day at Notre-Dame des Orages Church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach, falls möglich; die Kirche bietet Schutz vor dem ersten Regenguss des Tages.",
+                "hu": "Ha lehet, parkolja a bringát az előtető alá; a templom védelmet nyújt a nap első nagy zápora elől.",
+                "ro": "Parcați bicicleta sub copertină dacă este posibil; biserica oferă protecție împotriva primei averse a zilei.",
+                "en": "Park your bike under the overhang if possible; the church offers protection from the day's first downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Aniche",
+                "hu": "Aniche Múzeum",
+                "ro": "Muzeul Aniche",
+                "en": "Aniche Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung auszuschütteln; das Museum ist groß genug für eine ausgiebige, trockene Pause.",
+                "hu": "Ideális hely az esőruházat lerázására; a múzeum elég nagy egy alapos, száraz pihenőhöz.",
+                "ro": "Un loc ideal pentru a scutura echipamentul de ploaie; muzeul este destul de mare pentru o pauză uscată prelungită.",
+                "en": "An ideal place to shake off your rain gear; the museum is large enough for an extensive, dry break."
+              }
+            },
+            {
+              "name": {
+                "de": "Ornithologischer Aussichtspunkt",
+                "hu": "Madármegfigyelő kilátó",
+                "ro": "Punct de observare ornitologic",
+                "en": "Point de vue ornithologique"
+              },
+              "tip_5lang": {
+                "de": "Die hölzerne Beobachtungshütte bietet ein Dach über dem Kopf; nutzen Sie Ihr Fernglas, um Wasservögel im Regen zu beobachten.",
+                "hu": "A fából készült megfigyelőkunyhó tetőt ad a feje fölé; távcsővel figyelje meg a vízimadarakat az esőben.",
+                "ro": "Cabana de observație din lemn oferă un acoperiș deasupra capului; folosiți binoclul pentru a observa păsările de apă în ploaie.",
+                "en": "The wooden observation hut provides a roof over your head; use binoculars to watch water birds in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Abraumhalde Sainte-Marie",
+                "hu": "Sainte-Marie meddőhányó",
+                "ro": "Halda Sainte-Marie",
+                "en": "Terril Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Pfaden; der dunkle Boden kann bei Regen tückisch und schmierig sein.",
+                "hu": "Óvatosan tekerjen a vizes ösvényeken; a sötét talaj esőben csalóka és csúszós lehet.",
+                "ro": "Pedalați cu atenție pe potecile ude; solul întunecat poate fi înșelător și alunecos pe ploaie.",
+                "en": "Ride carefully on the wet paths; the dark soil can be treacherous and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasfabrik Hayez",
+                "hu": "Hayez Üveggyár",
+                "ro": "Fabrica de sticlă Hayez",
+                "en": "Verreries Hayez"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier aus; die nassen Ziegel reflektieren das spärliche Licht auf interessante Weise.",
+                "hu": "Egy rövid fotómegálló itt is elég; a vizes téglák érdekesen verik vissza a kevés fényt.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă aici; cărămizile ude reflectă interesant lumina puțină.",
+                "en": "A short photo stop is enough here; the wet bricks reflect the sparse light in interesting ways."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Orages",
+                "hu": "Notre-Dame des Orages templom",
+                "ro": "Biserica Notre-Dame des Orages",
+                "en": "Eglis Notre-Dame des Orages"
+              },
+              "tip_5lang": {
+                "de": "Passenderweise ist dies die Kirche 'unserer lieben Frau der Gewitter'; ein symbolischer Ort, um die Tour trocken zu beenden.",
+                "hu": "Stílusosan ez a 'Viharos Miasszonyunk' temploma; szimbolikus hely a túra száraz befejezéséhez.",
+                "ro": "În mod simbolic, aceasta este biserica „Maicii Domnului a Furtunilor”; un loc perfect pentru a încheia turul la adăpost.",
+                "en": "Fittingly, this is the church of 'Our Lady of the Storms'; a symbolic place to end the tour in the dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radeln in Aniche erfordert warme Handschuhe und helle Lichter. Morgens starten wir an der Saint-Martin-Kirche und verbringen den kältesten Teil des Tages im Museum. Die Fahrt zum ornithologischen Aussichtspunkt ist erfrischend, aber wir achten auf Frost auf der Fahrbahn. Gegen 17:00 Uhr erreichen wir unser Ziel, bevor die Dunkelheit einsetzt.",
+            "hu": "A téli bringázás Aniche-ben meleg kesztyűt és erős lámpákat igényel. Reggel a Saint-Martin templomnál kezdünk, a nap leghidegebb részét pedig a múzeumban töltjük. A madármegfigyelőhöz vezető út frissítő, de figyelünk a fagypont alatti aszfaltra. 17:00 körül érünk célba, mielőtt beáll a sötétség.",
+            "ro": "Ciclismul de iarnă în Aniche necesită mănuși groase și lumini puternice. Dimineața începem la biserica Saint-Martin și petrecem cea mai rece parte a zilei în muzeu. Drumul spre punctul de observare este revigorant, dar atenție la asfaltul înghețat. Ajungem la destinație în jur de ora 17:00, înainte de lăsarea întunericului.",
+            "en": "Winter cycling in Aniche requires warm gloves and bright lights. In the morning, start at Saint-Martin Church and spend the coldest part of the day in the museum. The ride to the bird viewpoint is refreshing, but watch out for frost on the road. Reach your destination around 5:00 PM before darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einer inneren Einkehr; die Kirche bietet einen windgeschützten Moment, bevor Sie wieder in den Sattel steigen.",
+                "hu": "Kezdjen egy belső elcsendesedéssel; a templom szélvédett pillanatot nyújt, mielőtt újra nyeregbe szállna.",
+                "ro": "Începeți cu un moment de liniște; biserica oferă un moment ferit de vânt înainte de a urca din nou în șa.",
+                "en": "Start with a moment of inner peace; the church provides a wind-sheltered moment before you get back in the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Aniche",
+                "hu": "Aniche Múzeum",
+                "ro": "Muzeul Aniche",
+                "en": "Aniche Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an den Heizkörpern auf; die Glasgeschichte lässt sich in wohltemperierter Umgebung am besten genießen.",
+                "hu": "Melegítse fel a kezeit a fűtőtesteknél; az üveggyártás történetét a legjobb kellemes hőmérsékleten élvezni.",
+                "ro": "Încălziți-vă mâinile la calorifere; istoria sticlei se savurează cel mai bine într-un mediu cu temperatură plăcută.",
+                "en": "Warm your hands by the radiators; the glass history is best enjoyed in a well-tempered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Ornithologischer Aussichtspunkt",
+                "hu": "Madármegfigyelő kilátó",
+                "ro": "Punct de observare ornitologic",
+                "en": "Point de vue ornithologique"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach Wintergästen auf dem Wasser; der hölzerne Unterstand schützt vor dem eisigen Nordwind.",
+                "hu": "Keressen téli madárvendégeket a vízen; a fából készült menedék védelmet nyújt a jeges északi szél ellen.",
+                "ro": "Căutați păsările de iarnă pe apă; adăpostul de lemn vă protejează de vântul înghețat din nord.",
+                "en": "Look for winter bird guests on the water; the wooden shelter protects you from the icy north wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Abraumhalde Sainte-Marie",
+                "hu": "Sainte-Marie meddőhányó",
+                "ro": "Halda Sainte-Marie",
+                "en": "Terril Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen; die Abfahrt erfordert volle Konzentration und gute Bremsen bei Kälte.",
+                "hu": "Figyeljen a zúzmarára az utakon; a leereszkedés teljes koncentrációt és jó fékeket igényel a hidegben.",
+                "ro": "Atenție la chiciura de pe drumuri; coborârea necesită concentrare maximă și frâne bune pe timp de frig.",
+                "en": "Watch out for hoarfrost on the paths; the descent requires full concentration and good brakes in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasfabrik Hayez",
+                "hu": "Hayez Üveggyár",
+                "ro": "Fabrica de sticlă Hayez",
+                "en": "Verreries Hayez"
+              },
+              "tip_5lang": {
+                "de": "Die Ziegelbauten wirken bei tiefstehender Wintersonne glühend rot; ein kurzer Stopp für ein Foto lohnt sich trotz der Kälte.",
+                "hu": "A téglaépületek az alacsony téli napfényben izzó vörösnek tűnnek; a hideg ellenére érdemes megállni egy fotóra.",
+                "ro": "Clădirile din cărămidă par de un roșu aprins în soarele de iarnă; merită să opriți pentru o poză în ciuda frigului.",
+                "en": "The brick buildings look glowing red in the low winter sun; it's worth stopping for a photo despite the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Orages",
+                "hu": "Notre-Dame des Orages templom",
+                "ro": "Biserica Notre-Dame des Orages",
+                "en": "Eglis Notre-Dame des Orages"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihre Fahrradbeleuchtung ein, bevor Sie aufbrechen; die Dämmerung setzt im Winter sehr schnell ein.",
+                "hu": "Kapcsolja be a bringalámpákat, mielőtt útnak indul; télen a szürkület nagyon gyorsan beköszönt.",
+                "ro": "Aprindeți luminile bicicletei înainte de a pleca; amurgul se lasă foarte repede pe timp de iarnă.",
+                "en": "Turn on your bike lights before you set off; twilight comes very quickly in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Az autós túra nyugodtan indul a Liberty Square-en, majd egy reggeli út vezet a hangulatos déli Eglis Notre-Dame des Orages-hez. Dél körül eléri a központot, hogy meglátogassa a főtemplomot és a múzeumot. Délután felfedezi a nyugati ipari műemlékeket a Verreries Hayez-nél és a Terril Sainte-Marie-nál. Az útvonal egy békés autózással ér véget a madármegfigyelő ponthoz, amely tökéletes természeti befejezést kínál.",
         "ro": "Turul dvs. cu mașina începe relaxat la Piața Libertății, urmat de un drum matinal către atmosfera de la Eglis Notre-Dame des Orages. La prânz ajungeți în centru pentru a vizita biserica principală și muzeul. După-amiaza, explorați monumentele industriale vestice de la Verreries Hayez și Terril Sainte-Marie. Traseul se încheie cu un drum pașnic spre punctul ornitologic, oferind un final perfect în mijlocul naturii.",
         "en": "Your driving tour begins smoothly at Liberty Square, followed by a morning cruise to the atmospheric Eglis Notre-Dame des Orages in the south. By midday, you'll reach the core to visit the main church and museum. The afternoon allows for easy exploration of western industrial monuments at Verreries Hayez and the towering Terril Sainte-Marie. The route concludes with a peaceful drive to the ornithological viewpoint, offering a perfect natural finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Aniche auch bei starkem Regen komfortabel zu erkunden. Wir starten am Liberty Square und nutzen den Pkw als trockene Basis zwischen den Kirchen und dem Museum. Die Fahrt zu den ländlicheren Punkten wie dem ornithologischen Aussichtspunkt ist sicher, auch wenn die Sicht durch die Schauer eingeschränkt sein kann. Den Tag beenden wir entspannt im trockenen Fahrzeug.",
+            "hu": "Autóval Aniche még erős esőben is kényelmesen felfedezhető. A Liberty Square-en kezdünk, és a kocsit száraz bázisnak használjuk a templomok és a múzeum között. A vidéki pontokhoz, például a madármegfigyelőhöz vezető út biztonságos, még ha a látótávolság korlátozott is. A napot nyugodtan, a száraz autóban zárjuk.",
+            "ro": "Cu mașina, Aniche este confortabil de explorat chiar și pe ploaie torențială. Începem în Liberty Square și folosim vehiculul ca bază uscată între biserici și muzeu. Drumul spre punctele mai rurale, cum este cel ornitologic, este sigur, chiar dacă vizibilitatea e redusă. Încheiem ziua relaxați în mașina primitoare.",
+            "en": "By car, Aniche is comfortable to explore even in heavy rain. Start at Liberty Square and use the car as a dry base between the churches and the museum. The drive to rural points like the bird viewpoint is safe, even if visibility is limited by showers. End the day relaxed in your dry vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freiheitsplatz",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Liberty Square"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Gebäuden, um lange Wege im Regen zu vermeiden; ein kurzer Blick auf die Architektur genügt bei Nässe.",
+                "hu": "Parkoljon közel az épületekhez, hogy elkerülje a hosszú ázást; esőben elég egy rövid pillantás az építészetre.",
+                "ro": "Parcați aproape de clădiri pentru a evita mersul lung prin ploaie; o scurtă privire spre arhitectură e suficientă pe ploaie.",
+                "en": "Park close to the buildings to avoid long walks in the rain; a brief look at the architecture is enough in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Orages",
+                "hu": "Notre-Dame des Orages templom",
+                "ro": "Biserica Notre-Dame des Orages",
+                "en": "Eglis Notre-Dame des Orages"
+              },
+              "tip_5lang": {
+                "de": "Direkt vor der Kirche gibt es Parkmöglichkeiten; nutzen Sie den Schirm nur für die wenigen Meter bis zum Portal.",
+                "hu": "Közvetlenül a templom előtt van parkoló; az esernyőt csak arra a pár méterre használja a bejáratig.",
+                "ro": "Există parcare chiar în fața bisericii; folosiți umbrela doar pentru acei câțiva metri până la portal.",
+                "en": "There is parking right in front of the church; use your umbrella only for the few meters to the portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Verstauen Sie Ihren nassen Schirm im Kofferraum, bevor Sie die Fahrt zum Museum fortsetzen; die Kirche ist ein idealer Ort zum Innehalten.",
+                "hu": "Tegye a vizes ernyőt a csomagtartóba, mielőtt továbbhajt a múzeumhoz; a templom ideális hely az elmélyülésre.",
+                "ro": "Puneți umbrela udă în portbagaj înainte de a continua spre muzeu; biserica este un loc ideal pentru reculegere.",
+                "en": "Store your wet umbrella in the trunk before driving to the museum; the church is an ideal place for quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Aniche",
+                "hu": "Aniche Múzeum",
+                "ro": "Muzeul Aniche",
+                "en": "Aniche Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier den längsten Aufenthalt ein; das Auto wartet trocken auf dem Parkplatz, während Sie die Glasgeschichte erkunden.",
+                "hu": "Itt tervezze a leghosszabb tartózkodást; az autó szárazon várja a parkolóban, amíg Ön az üveg történetét kutatja.",
+                "ro": "Planificați cea mai lungă ședere aici; mașina așteaptă uscată în parcare în timp ce explorați istoria sticlei.",
+                "en": "Plan your longest stay here; the car waits dry in the parking lot while you explore the glass history."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasfabrik Hayez",
+                "hu": "Hayez Üveggyár",
+                "ro": "Fabrica de sticlă Hayez",
+                "en": "Verreries Hayez"
+              },
+              "tip_5lang": {
+                "de": "Sie können das beeindruckende Backsteinensemble sogar teilweise vom Wagen aus bewundern; perfekt bei heftigen Schauern.",
+                "hu": "Az impozáns téglaegyüttest akár részben az autóból is megcsodálhatja; tökéletes megoldás heves zápor esetén.",
+                "ro": "Puteți admira ansamblul de cărămidă chiar și parțial din mașină; perfect în caz de averse torențiale.",
+                "en": "You can admire the impressive brick ensemble partly even from the car; perfect during heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Abraumhalde Sainte-Marie",
+                "hu": "Sainte-Marie meddőhányó",
+                "ro": "Halda Sainte-Marie",
+                "en": "Terril Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Ein- und Aussteigen auf den schlammigen Untergrund am Straßenrand; festes Schuhwerk ist trotz Auto ratsam.",
+                "hu": "Ki- és beszálláskor ügyeljen a sárra az út mentén; az autó ellenére is tanácsos a stabil lábbeli.",
+                "ro": "Atenție la noroiul de pe marginea drumului la urcare și coborâre; încălțămintea stabilă e recomandată chiar dacă aveți mașină.",
+                "en": "Watch out for mud at the roadside when getting in and out; sturdy footwear is advisable despite having a car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ornithologischer Aussichtspunkt",
+                "hu": "Madármegfigyelő kilátó",
+                "ro": "Punct de observare ornitologic",
+                "en": "Point de vue ornithologique"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See aus dem warmen Auto heraus, falls der Regen zu stark für die Aussichtsplattform ist.",
+                "hu": "Élvezze a kilátást a tóra a meleg autóból, ha az eső túl erős lenne a kilátóteraszhoz.",
+                "ro": "Bucurați-vă de priveliștea spre lac din mașina călduroasă, dacă ploaia este prea puternică pentru terasa de observație.",
+                "en": "Enjoy the lake view from the warm car if the rain is too heavy for the observation deck."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Aniche verbindet Industriekultur mit gemütlicher Mobilität. Wir starten am frostigen Liberty Square und nutzen die Sitzheizung auf dem Weg zum Museum. Die kurzen Wege zu den Kirchen und Aussichtspunkten lassen uns die kühle Luft genießen, ohne zu unterkühlen. Vor dem Sonnenuntergang um 17:00 Uhr haben wir alle Highlights bequem erreicht.",
+            "hu": "Egy téli autós körút Aniche-ben ötvözi az ipari kultúrát a kényelmes közlekedéssel. A fagyos Liberty Square-en kezdünk, és élvezzük az ülésfűtést a múzeum felé menet. A templomok és kilátók közötti rövid utak lehetővé teszik a friss levegőt anélkül, hogy átfagynánk. A 17:00-s naplemente előtt minden látnivalót kényelmesen elérünk.",
+            "ro": "O excursie de iarnă cu mașina prin Aniche îmbină cultura industrială cu mobilitatea confortabilă. Începem în Liberty Square și folosim încălzirea în scaune spre muzeu. Drumurile scurte spre biserici și punctele de observație ne permit să ne bucurăm de aerul rece fără să înghețăm. Înainte de apusul de la ora 17:00, am vizitat deja toate punctele cheie.",
+            "en": "A winter drive through Aniche combines industrial culture with cozy mobility. Start at the frosty Liberty Square and use the seat heating on your way to the museum. Short distances between churches and viewpoints let you enjoy the crisp air without getting too cold. Before the 5:00 PM sunset, you will have reached all the highlights comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freiheitsplatz",
+                "hu": "Szabadság tér",
+                "ro": "Piața Libertății",
+                "en": "Liberty Square"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben zu enteisen; der Platz wirkt im Wintermorgenlicht sehr weitläufig.",
+                "hu": "Hagyja járni a motort, amíg leolvad a szélvédő; a tér nagyon tágasnak tűnik a téli reggeli fényben.",
+                "ro": "Lăsați motorul pornit puțin pentru dezghețarea parbrizului; piața pare foarte vastă în lumina dimineții de iarnă.",
+                "en": "Let the engine run for a bit to defrost the windshield; the square looks very spacious in the winter morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Orages",
+                "hu": "Notre-Dame des Orages templom",
+                "ro": "Biserica Notre-Dame des Orages",
+                "en": "Eglis Notre-Dame des Orages"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für die Architektur; das Innere bietet eine friedliche Pause von der winterlichen Brise draußen.",
+                "hu": "Egy gyors megálló az építészetért; a belső tér békés menedéket nyújt a kinti téli szél elől.",
+                "ro": "O oprire rapidă pentru arhitectură; interiorul oferă o pauză liniștită de la briza rece de afară.",
+                "en": "A quick stop for the architecture; the interior provides a peaceful break from the winter breeze outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Kirche; die Heizung im Wagen sorgt danach schnell wieder für Wohlbefinden.",
+                "hu": "Élvezze a templom csendjét; az autó fűtése utána gyorsan gondoskodik a jó közérzetről.",
+                "ro": "Bucurați-vă de liniștea bisericii; încălzirea din mașină vă va reda rapid confortul după aceea.",
+                "en": "Enjoy the silence of the church; the car's heater will quickly restore your comfort afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Aniche",
+                "hu": "Aniche Múzeum",
+                "ro": "Muzeul Aniche",
+                "en": "Aniche Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ideale Ort, um die Mittagskälte zu überbrücken; Parkplätze befinden sich in unmittelbarer Nähe.",
+                "hu": "A múzeum ideális hely a déli hideg átvészelésére; parkolók közvetlenül a közelben találhatók.",
+                "ro": "Muzeul este locul ideal pentru a evita frigul de la prânz; locurile de parcare sunt în imediata apropiere.",
+                "en": "The museum is the ideal place to bridge the midday cold; parking spaces are located in the immediate vicinity."
+              }
+            },
+            {
+              "name": {
+                "de": "Glasfabrik Hayez",
+                "hu": "Hayez Üveggyár",
+                "ro": "Fabrica de sticlă Hayez",
+                "en": "Verreries Hayez"
+              },
+              "tip_5lang": {
+                "de": "Das Ziegelrot bildet einen tollen Kontrast zum grauen Winterhimmel; ideal für Fotos direkt vom Parkplatz aus.",
+                "hu": "A tégla vöröse remek kontrasztot alkot a szürke téli éggel; ideális fotózáshoz közvetlenül a parkolóból.",
+                "ro": "Roșul cărămizii face un contrast grozav cu cerul gri de iarnă; ideal pentru poze direct din parcare.",
+                "en": "The brick red creates a great contrast with the gray winter sky; ideal for photos directly from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Abraumhalde Sainte-Marie",
+                "hu": "Sainte-Marie meddőhányó",
+                "ro": "Halda Sainte-Marie",
+                "en": "Terril Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Wenn Sie hinaufsteigen, achten Sie auf gefrorenen Boden; das Auto bleibt derweil auf dem festen Untergrund sicher stehen.",
+                "hu": "Ha felkapaszkodik, ügyeljen a fagyott talajra; az autó addig is biztonságban áll a szilárd talajon.",
+                "ro": "Dacă urcați, atenție la solul înghețat; mașina rămâne între timp în siguranță pe terenul ferm.",
+                "en": "If you climb up, watch out for frozen ground; the car stays safely parked on the firm surface in the meantime."
+              }
+            },
+            {
+              "name": {
+                "de": "Ornithologischer Aussichtspunkt",
+                "hu": "Madármegfigyelő kilátó",
+                "ro": "Punct de observare ornitologic",
+                "en": "Point de vue ornithologique"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss bei Sonnenuntergang; genießen Sie die winterliche Ruhe am Wasser bequem aus dem Wagen.",
+                "hu": "Tökéletes befejezés naplementekor; élvezze a téli nyugalmat a víznél kényelmesen, az autóból.",
+                "ro": "Încheierea perfectă la apus; bucurați-vă de liniștea iernii de lângă apă confortabil din mașină.",
+                "en": "The perfect ending at sunset; enjoy the winter peace by the water comfortably from the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

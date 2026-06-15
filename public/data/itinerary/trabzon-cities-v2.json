@@ -160,6 +160,196 @@
         "hu": "Morning: Kezdje a napot Trabzon szívében az Ortahisar Történeti Múzeumban, majd fedezze fel a közeli Irodalmi Múzeumot a régió gyökereinek megismeréséhez.\nMidday: Sétáljon el a lenyűgöző Zaganos pasa toronyhoz, majd látogasson el a Szent János-templomba, hogy megcsodálja kulturális örökségét.\nAfternoon: Merüljön el a múltban a Trabzon Múzeumban, ahol a bizánci leletek a város aranykorát mutatják be.\nEvening: Zárja a napot a Trabzon Városi Múzeum felfedezésével, magába szívva a pezsgő mindennapi hagyományokat egy kellemes vacsora előtt.",
         "ro": "Morning: Începeți în inima orașului Trabzon la Muzeul de Istorie Ortahisar, descoperind rădăcinile regiunii înainte de a merge la Muzeul de Literatură.\nMidday: Plimbați-vă până la Turnul Zaganos Pasha pentru priveliști uluitoare, urmat de o vizită la Biserica Sf. Ioan pentru a-i admira moștenirea culturală.\nAfternoon: Aprofundați trecutul la Muzeul Trabzon, unde artefactele prezintă cu mândrie epocile de aur ale orașului.\nEvening: Încheiați cu o explorare a Muzeului Orașului Trabzon, absorbind tradițiile vibrante ale vieții de zi cu zi înainte de cină.",
         "en": "Morning: Start in the heart of Trabzon at the Ortahisar History Museum, discovering the region's roots before heading to the nearby Literature Museum.\nMidday: Wander to the impressive Zaganos Pasha Tower for breathtaking views, followed by a visit to the multi-purpose St. John's Church to admire its cultural heritage.\nAfternoon: Delve deeper into the past at the Trabzon Museum, where Byzantine artifacts showcase the city's golden eras.\nEvening: Conclude with a relaxed exploration of the Trabzon City Museum, absorbing the vibrant daily life traditions before enjoying dinner nearby."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den schützenden Mauern der Museen von Ortahisar, während der feine Schwarzmeer-Regen die historischen Gassen benetzt. Mittags bietet die Zaganos-Pasha-Brücke trotz Regen eine mystische Kulisse, bevor Sie in den kulturellen Hallen Zuflucht suchen. Nachmittags erkunden Sie die prächtige Architektur des Trabzon-Museums. Den Abend lassen Sie im Stadtmuseum ausklingen, wo Sie trocken in die lokale Geschichte eintauchen können.",
+            "hu": "Kezdje a reggelt Ortahisar múzeumaiban, ahol a fedett kiállítások megóvják a fekete-tengeri szitálástól. Délben a Zaganos pasa torony környéke misztikus arcát mutatja az esőben, de a közeli kulturális terek gyors menedéket nyújtanak. Délután a Trabzon Múzeum díszes belső terei kápráztatják el, távol a tócsáktól. Az estét a Városi Múzeumban zárja, ahol szárazon és kényelemben ismerheti meg a város múltját.",
+            "ro": "Începeți dimineața în muzeele din Ortahisar, unde expozițiile interioare vă protejează de burnița specifică Pontului Euxin. La prânz, zona Turnului Zaganos oferă un cadru mistic în ploaie, înainte de a vă refugia în spațiile culturale din apropiere. După-amiaza, admirați arhitectura somptuoasă a Muzeului Trabzon, ferit de umezeală. Seara se încheie la Muzeul Orașului, un loc perfect pentru a explora istoria locală la adăpost.",
+            "en": "Start your morning in the sheltered museums of Ortahisar while the Black Sea drizzle coats the historic alleys. At midday, the Zaganos Pasha area offers a mystical rainy backdrop before you seek refuge in nearby cultural halls. In the afternoon, explore the ornate interiors of the Trabzon Museum, staying dry while admiring the art. End your evening at the City Museum, diving deep into local heritage away from the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trabzon Ortahisar History Museum",
+                "hu": "Trabzon Ortahisar Történeti Múzeum",
+                "ro": "Muzeul de Istorie Trabzon Ortahisar",
+                "en": "Trabzon Ortahisar History Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Stadtgeschichte in diesem prächtigen Herrenhaus; die Innenräume sind ideal, um dem Regen zu entkommen und dabei faszinierende Exponate zu sehen. Tragen Sie wasserfeste Schuhe.",
+                "hu": "Fedezze fel a város történelmét ebben a pompás kúriában; a belső terek ideálisak az eső elől való menekülésre a lenyűgöző tárlatok között. Viseljen vízálló cipőt a rövid sétához.",
+                "ro": "Explorați istoria orașului în acest conac splendid; interioarele sunt ideale pentru a scăpa de ploaie în timp ce admirați exponate fascinante. Purtați încălțăminte impermeabilă pentru acces.",
+                "en": "Explore city history inside this grand mansion; the interiors are ideal for escaping the rain while viewing fascinating exhibits. Wear waterproof shoes for the short walk between buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Literature Museum",
+                "hu": "Trabzon Irodalmi Múzeum",
+                "ro": "Muzeul de Literatură din Trabzon",
+                "en": "Trabzon Literature Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Juwel in einem historischen Gebäude, das eine ruhige und trockene Atmosphäre für Literaturliebhaber bietet. Nutzen Sie den überdachten Eingangsbereich zum Schirm ausschütteln.",
+                "hu": "Kulturális ékszerdoboz egy történelmi épületben, amely nyugodt és száraz környezetet biztosít az irodalom kedvelőinek. Használja a fedett bejáratot az esernyő lerázásához.",
+                "ro": "O bijuterie culturală într-o clădire istorică, oferind o atmosferă liniștită și uscată pentru iubitorii de literatură. Folosiți zona de intrare acoperită pentru a scutura umbrela.",
+                "en": "A cultural gem in a historic building, providing a calm and dry atmosphere for literature lovers. Use the sheltered entrance area to shake off your umbrella before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaganos Pasha Tower",
+                "hu": "Zaganos pasa torony",
+                "ro": "Turnul Zaganos Pasha",
+                "en": "Zaganos Pasha Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die massiven Mauern, die im Regen besonders dramatisch wirken; die nahegelegenen Cafés bieten schnellen Schutz bei heftigen Güssen. Vorsicht auf den teils rutschigen Pflastersteinen.",
+                "hu": "Csodálja meg a masszív falakat, amelyek esőben különösen drámai látványt nyújtanak; a közeli kávézók gyors menedéket adnak zápor esetén. Vigyázzon a helyenként csúszós macskaköveken.",
+                "ro": "Admirați zidurile masive care par dramatice în ploaie; cafenelele din apropiere oferă adăpost rapid în caz de aversă. Atenție la pavajul care poate deveni alunecos când este ud.",
+                "en": "Admire the massive walls which look particularly dramatic in the rain; nearby cafes offer quick shelter during heavy downpours. Be careful on the occasionally slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Multi-Purpose Hall (St. John's Church)",
+                "hu": "Szent János-templom",
+                "ro": "Biserica Sf. Ioan",
+                "en": "Multi-Purpose Hall (St. John's Church)"
+              },
+              "tip_5lang": {
+                "de": "Dieser umgebaute historische Raum bietet eine spirituelle Stille und kompletten Schutz vor dem Wetter. Bewundern Sie die Akustik, während draußen der Regen gegen die Fenster prasselt.",
+                "hu": "Ez az átalakított történelmi tér spirituális csendet és teljes védelmet nyújt az időjárás elől. Csodálja meg az akusztikát, miközben odakint az eső kopog az ablakokon.",
+                "ro": "Acest spațiu istoric reconvertit oferă o liniște spirituală și protecție completă împotriva vremii. Admirați acustica în timp ce ploaia bate în ferestre la exterior.",
+                "en": "This converted historic space offers spiritual silence and complete protection from the weather. Admire the acoustics while the rain drums against the windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Museum",
+                "hu": "Trabzon Múzeum",
+                "ro": "Muzeul Trabzon",
+                "en": "Trabzon Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Kostaki-Herrenhaus ist eines der schönsten Gebäude der Stadt; seine prachtvollen Deckenmalereien lassen den grauen Himmel vergessen. Ein Muss an Regentagen wegen der Weitläufigkeit.",
+                "hu": "A Kostaki-kúria a város egyik legszebb épülete; díszes mennyezeti festményei elfeledtetik a szürke eget. Tágas belső terei miatt kötelező program esős napokon.",
+                "ro": "Conacul Kostaki este una dintre cele mai frumoase clădiri; picturile murale de pe tavan vă vor face să uitați de cerul gri. Esențial în zilele ploioase datorită spațiului generos.",
+                "en": "The Kostaki Mansion is one of the city's finest buildings; its ornate ceiling paintings will make you forget the grey sky. A must-visit on rainy days due to its spacious interiors."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon City Museum",
+                "hu": "Trabzon Városi Múzeum",
+                "ro": "Muzeul Orașului Trabzon",
+                "en": "Trabzon City Museum"
+              },
+              "tip_5lang": {
+                "de": "Interaktive Ausstellungen auf mehreren Etagen bieten stundenlange Unterhaltung im Trockenen. Ideal, um den Abend bei schlechtem Wetter informativ zu verbringen. Schirmständer sind vorhanden.",
+                "hu": "Az interaktív kiállítások több emeleten kínálnak órákig tartó szórakozást szárazon. Ideális az este informatív eltöltéséhez rossz időben is. Esernyőtartók állnak rendelkezésre.",
+                "ro": "Expozițiile interactive pe mai multe etaje oferă ore de divertisment la adăpost. Ideal pentru a petrece seara într-un mod informativ pe vreme rea. Există suporturi pentru umbrele.",
+                "en": "Interactive exhibits across multiple floors offer hours of entertainment in the dry. Ideal for spending an informative evening during bad weather. Umbrella stands are available at the entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die klare Winterluft in Ortahisar ein, wo die Museen wohlige Wärme und tiefe Einblicke in die anatolische Kultur bieten. Mittags wärmen Sie sich in den historischen Gemäuern der Zaganos-Pasha-Anlage auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das goldene Nachmittagslicht im Trabzon-Museum. Der Abend im Stadtmuseum bietet einen gemütlichen, geheizten Abschluss Ihres Winterspaziergangs.",
+            "hu": "Szívja be a friss téli levegőt Ortahisarban, ahol a múzeumok barátságos meleget és mély betekintést nyújtanak az anatóliai kultúrába. Délben melegedjen fel a Zaganos pasa negyed történelmi falaiban. Mivel a nap már 17:00 körül nyugszik, használja ki a délutáni aranyló fényeket a Trabzon Múzeumban. A Városi Múzeumban töltött este fűtött és hangulatos zárása lesz a téli sétának.",
+            "ro": "Respirați aerul proaspăt de iarnă în Ortahisar, unde muzeele oferă căldură primitoare și o privire profundă în cultura anatoliană. La prânz, încălziți-vă între zidurile istorice ale complexului Zaganos. Deoarece soarele apune în jurul orei 17:00, profitați de lumina aurie a după-amiezii la Muzeul Trabzon. Seara la Muzeul Orașului oferă un final călduros și plăcut plimbării de iarnă.",
+            "en": "Inhale the crisp winter air in Ortahisar, where museums offer welcoming warmth and deep insights into Anatolian culture. At midday, warm up within the historic walls of the Zaganos Pasha complex. Since the sun sets around 17:00, make the most of the golden afternoon light at the Trabzon Museum. The evening at the City Museum provides a cozy, heated conclusion to your winter walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trabzon Ortahisar History Museum",
+                "hu": "Trabzon Ortahisar Történeti Múzeum",
+                "ro": "Muzeul de Istorie Trabzon Ortahisar",
+                "en": "Trabzon Ortahisar History Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre in den gut geheizten Räumen dieses historischen Hauses. Ein perfekter Ort, um die Tour bei kühlen Temperaturen entspannt zu beginnen. Tragen Sie warme Socken.",
+                "hu": "Élvezze a hangulatos légkört a történelmi ház jól fűtött szobáiban. Tökéletes hely a túra megkezdéséhez hűvös időben, távol a kinti széltől. Viseljen meleg zoknit a kényelemért.",
+                "ro": "Bucurați-vă de atmosfera primitoare în camerele bine încălzite ale acestei case istorice. Un loc perfect pentru a începe turul relaxat când temperaturile sunt scăzute. Purtați șosete groase.",
+                "en": "Enjoy the cozy atmosphere in the well-heated rooms of this historic house. A perfect spot to start your tour relaxed when temperatures are low. Wear warm socks for extra comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Literature Museum",
+                "hu": "Trabzon Irodalmi Múzeum",
+                "ro": "Muzeul de Literatură din Trabzon",
+                "en": "Trabzon Literature Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe der Wintermonate macht dieses Museum zu einem idealen Ort für Besinnung. Bewundern Sie die Handschriften, während Sie sich vom kalten Wind erholen. Schal und Mütze im Schließfach lassen.",
+                "hu": "A téli hónapok csendje ideális hellyé teszi ezt a múzeumot az elmélyüléshez. Csodálja meg a kéziratokat, miközben kipiheni a hideg szelet. A sálat és sapkát hagyja az értékmegőrzőben.",
+                "ro": "Liniștea lunilor de iarnă face din acest muzeu un loc ideal pentru reflecție. Admirați manuscrisele în timp ce vă recuperați după vântul rece de afară. Lăsați fularul și căciula la garderobă.",
+                "en": "The quiet of the winter months makes this museum an ideal place for reflection. Admire the manuscripts while recovering from the cold wind. Leave your scarf and hat in the lockers provided."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaganos Pasha Tower",
+                "hu": "Zaganos pasa torony",
+                "ro": "Turnul Zaganos Pasha",
+                "en": "Zaganos Pasha Tower"
+              },
+              "tip_5lang": {
+                "de": "Die historische Struktur wirkt im klaren Winterlicht besonders scharfkantig und imposant; ein schneller Fotostopp ist ideal. Achten Sie auf festes Schuhwerk wegen möglicher Reifglätte am Boden.",
+                "hu": "A történelmi építmény a tiszta téli fényben különösen élesnek és impozánsnak tűnik; egy gyors fotómegálló ideális. Figyeljen a stabil lábbelire az esetleges zúzmarás, csúszós talaj miatt.",
+                "ro": "Structura istorică pare deosebit de impunătoare în lumina clară de iarnă; o oprire rapidă pentru fotografii este ideală. Atenție la încălțăminte din cauza posibilei polei pe jos.",
+                "en": "The historic structure looks particularly sharp and imposing in the clear winter light; a quick photo stop is ideal. Ensure you have sturdy footwear for potential frost on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Multi-Purpose Hall (St. John's Church)",
+                "hu": "Szent János-templom",
+                "ro": "Biserica Sf. Ioan",
+                "en": "Multi-Purpose Hall (St. John's Church)"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle, aber der Innenraum bietet Windschutz und eine einzigartige Winter-Aura. Perfekt für eine kurze Pause in absoluter Stille. Behalten Sie Ihre Jacke an.",
+                "hu": "A vastag falak tartják a hűvöset, de a belső tér szélvédelmet és egyedi téli aurát kínál. Tökéletes egy rövid pihenőre a síri csendben. Tartsa magán a kabátját látogatás alatt.",
+                "ro": "Zidurile groase mențin răcoarea, dar interiorul oferă protecție împotriva vântului și o aură unică de iarnă. Perfect pentru o scurtă pauză în liniște totală. Păstrați haina pe dvs.",
+                "en": "The thick walls retain the chill, but the interior offers wind protection and a unique winter aura. Perfect for a short break in absolute silence. Keep your jacket on during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Museum",
+                "hu": "Trabzon Múzeum",
+                "ro": "Muzeul Trabzon",
+                "en": "Trabzon Museum"
+              },
+              "tip_5lang": {
+                "de": "Die prächtige Architektur des 19. Jahrhunderts kommt bei tiefstehender Wintersonne wunderbar zur Geltung. Nutzen Sie das Tageslicht bis 16:30 Uhr für die besten Eindrücke. Drinnen ist es angenehm warm.",
+                "hu": "A 19. századi pazar építészet csodálatosan érvényesül az alacsonyan járó téli napfényben. Használja ki a világosságot 16:30-ig a legjobb benyomásokért. Bent kellemes meleg fogadja.",
+                "ro": "Arhitectura splendidă de secol XIX este pusă în valoare de soarele jos de iarnă. Profită de lumina zilei până la ora 16:30 pentru cele mai bune impresii. Interiorul este plăcut încălzit.",
+                "en": "The grand 19th-century architecture looks wonderful in the low-lying winter sun. Use the daylight until 16:30 for the best impressions. The interior is comfortably warm for exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon City Museum",
+                "hu": "Trabzon Városi Múzeum",
+                "ro": "Muzeul Orașului Trabzon",
+                "en": "Trabzon City Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag nach Sonnenuntergang (ca. 17:00 Uhr) im Warmen ausklingen zu lassen. Die modernen Displays sind hell und einladend gegen den Winterblues. Genießen Sie die Heizung.",
+                "hu": "Tökéletes hely a nap lezárására naplemente után (kb. 17:00), a melegben. A modern kijelzők fényesek és hívogatóak a téli szürkeség ellen. Élvezze a kellemes fűtést a tárlatvezetés alatt.",
+                "ro": "Locul perfect pentru a încheia ziua după apusul soarelui (aprox. 17:00), la căldură. Ecranele moderne sunt luminoase și primitoare împotriva melancoliei de iarnă. Bucurați-vă de căldură.",
+                "en": "The perfect place to end your day in the warm after sunset (approx. 17:00). The modern displays are bright and inviting against the winter blues. Enjoy the heating throughout the museum."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Morning: Kezdje a napot egy frissítő kerékpározással az Ayasofya Plajı mellett, majd merüljön el az interaktív Trabzon Zaman Tüneli kiállításaiban.\nMidday: Tekerjen el a történelmi Zaganos pasa toronyhoz, csodálja meg a hatalmas erődítményeket, és tartson egy jól megérdemelt ebédszünetet a közelben.\nAfternoon: Folytassa útját a városközpont felé, fedezze fel a Trabzon Városi Múzeumot, és csodálja meg a hagyományos Nemlioğlu Konağı szépségét.\nEvening: Fejezze be aktív napját egy kellemes emelkedővel a Guzelhisar várba, ahol végignézheti a felejthetetlen naplementét a Fekete-tenger partja felett.",
         "ro": "Morning: Începeți cu o plimbare revigorantă cu bicicleta pe lângă Ayasofya Plajı, înainte de a vă scufunda în expozițiile interactive de la Trabzon Zaman Tüneli.\nMidday: Pedalați până la istoricul Turn Zaganos Pasha, admirând fortificațiile magnifice și oprindu-vă pentru un prânz pitoresc bine meritat.\nAfternoon: Continuați spre centrul orașului, explorând Muzeul Orașului Trabzon și admirând minunatul și tradiționalul Nemlioğlu Konağı.\nEvening: Terminați-vă ziua activă cu o urcare către Castelul Guzelhisar, unde puteți urmări fabulosul apus de soare peste coasta Mării Negre.",
         "en": "Morning: Begin with a refreshing bike ride past Ayasofya Plajı, feeling the sea breeze before diving into the interactive exhibits at the Trabzon Zaman Tüneli.\nMidday: Pedal your way to the historic Zaganos Pasha Tower, taking in the magnificent fortifications and pausing for a well-deserved scenic lunch.\nAfternoon: Continue cycling towards the city center, exploring the rich exhibits at the Trabzon City Museum and marveling at the traditional Nemlioğlu Konağı.\nEvening: Finish your active day with a steady climb to Guzelhisar Castle, where you can watch the sunset over the beautiful Black Sea coastline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig entlang der Küste zum Ayasofya-Strand, wo die Brandung bei Regen besonders wild wirkt. Mittags bieten der Zeittunnel und die Zaganos-Türme feste Unterstände für Fahrradpausen. Nachmittags führt die Tour durch das nasse Stadtzentrum zum Stadtmuseum und dem Nemlioğlu-Herrenhaus. Den Tag beschließen Sie bei dramatischer Wolkenstimmung an der Burg Guzelhisar.",
+            "hu": "Tekerjen óvatosan a part mentén az Ayasofya strandig, ahol a tajtékzó tenger látványa esőben lenyűgöző. Délben az Időalagút és a Zaganos tornyok biztos fedezéket nyújtanak a bringás pihenőkhöz. Délután a vizes belvároson át vezet az út a Városi Múzeumhoz és a Nemlioğlu kúriához. A napot a Guzelhisar várnál zárja, élvezve a drámai felhőket a tenger felett.",
+            "ro": "Pedalați cu atenție de-a lungul coastei spre plaja Ayasofya, unde marea furioasă oferă un spectacol grandios pe ploaie. La prânz, Tunelul Timpului și Turnurile Zaganos oferă adăposturi sigure pentru pauze. După-amiaza, traseul continuă prin centrul umed spre Muzeul Orașului și Conacul Nemlioğlu. Încheiați ziua la Castelul Guzelhisar, sub un cer cu nori dramatici.",
+            "en": "Cycle carefully along the coast to Ayasofya Beach, where the surf looks particularly wild in the rain. At midday, the Time Tunnel and Zaganos Towers provide solid shelters for bike breaks. In the afternoon, the route leads through the wet city center to the City Museum and Nemlioğlu Mansion. Conclude your day at Guzelhisar Castle with dramatic clouds over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayasofya Plajı",
+                "hu": "Ayasofya Plajı",
+                "ro": "Ayasofya Plajı",
+                "en": "Ayasofya Plajı"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das stürmische Meer; der befestigte Radweg ist auch bei Nässe gut befahrbar, aber Vorsicht in Kurven. Tragen Sie eine vollflächige Regenjacke für den Gegenwind.",
+                "hu": "Élvezze a viharos tenger látványát; a kiépített kerékpárút esőben is jól járható, de a kanyarokban legyen óvatos. Viseljen teljes esőruházatot az erős szembeszél miatt.",
+                "ro": "Bucurați-vă de priveliștea mării învolburate; pista de biciclete amenajată este practicabilă și pe ploaie, dar atenție în curbe. Purtați o jachetă de ploaie rezistentă pentru vântul frontal.",
+                "en": "Enjoy the view of the stormy sea; the paved bike path remains rideable even when wet, but be cautious in turns. Wear a full rain jacket to handle the headwind from the Black Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Zaman Tüneli",
+                "hu": "Trabzon Időalagút",
+                "ro": "Tunelul Timpului Trabzon",
+                "en": "Trabzon Zaman Tüneli"
+              },
+              "tip_5lang": {
+                "de": "Dieser Tunnel ist der perfekte trockene Ort für eine Radpause; parken Sie Ihr Rad sicher am Eingang und tauchen Sie in die Geschichte ein. Die Beleuchtung ist bei grauem Wetter sehr stimmungsvoll.",
+                "hu": "Ez az alagút tökéletes száraz hely egy kerékpáros pihenőhöz; parkolja le biztonságosan a bringát a bejáratnál és merüljön el a múltban. A világítás nagyon hangulatos borús időben.",
+                "ro": "Acest tunel este locul uscat perfect pentru o pauză de pedalat; parcați bicicleta în siguranță la intrare și explorați istoria. Iluminarea este foarte sugestivă pe vreme gri.",
+                "en": "This tunnel is the perfect dry spot for a cycling break; park your bike securely at the entrance and dive into history. The lighting is very atmospheric during gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaganos Pasha Tower",
+                "hu": "Zaganos pasa torony",
+                "ro": "Turnul Zaganos Pasha",
+                "en": "Zaganos Pasha Tower"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Turmmauern bieten Schutz vor seitlichem Regen. Nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten, um schnell wieder ins Trockene zu kommen. Prüfen Sie Ihre Bremsen bei Nässe.",
+                "hu": "A masszív toronyfalak védelmet nyújtanak az oldalirányú eső ellen. Használja ki a látnivalók közötti rövid távokat, hogy hamar fedett helyre érjen. Ellenőrizze a fékeket a vizes aszfalton.",
+                "ro": "Zidurile masive ale turnului oferă protecție împotriva ploii laterale. Profitați de distanțele scurte între obiective pentru a ajunge rapid la adăpost. Verificați frânele pe asfaltul ud.",
+                "en": "The massive tower walls provide shelter from sideways rain. Take advantage of the short distances between sights to quickly get back under cover. Check your brakes on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon City Museum",
+                "hu": "Trabzon Városi Múzeum",
+                "ro": "Muzeul Orașului Trabzon",
+                "en": "Trabzon City Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich nach einer nassen Fahrt aufzuwärmen und das Rad in Sichtweite abzustellen. Die Innenräume sind weitläufig genug für eine ausgiebige Regenpause. Schirm/Regencape gut abtropfen lassen.",
+                "hu": "Ideális hely a bemelegedésre egy vizes menet után, miközben a kerékpárt látótávolságban hagyhatja. A belső terek elég tágasak egy hosszabb esőpihenőhöz. Az esőköpenyt hagyja kint száradni.",
+                "ro": "Un loc ideal pentru a vă încălzi după o tură udă, lăsând bicicleta la vedere. Interioarele sunt suficient de spațioase pentru o pauză prelungită de ploaie. Lăsați pelerina la scurs la intrare.",
+                "en": "An ideal place to warm up after a wet ride while leaving your bike within sight. The interiors are spacious enough for an extended rain break. Let your rain cape drip dry at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Nemlioğlu Konağı",
+                "hu": "Nemlioğlu Konağı",
+                "ro": "Nemlioğlu Konağı",
+                "en": "Nemlioğlu Konağı"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Herrenhaus bietet eine würdevolle Kulisse im Regen; der Innenhof bietet teilweise Schutz für die Fahrräder. Bewundern Sie die Holzschnitzereien, während Sie kurz pausieren.",
+                "hu": "Ez a történelmi kúria méltóságteljes látványt nyújt esőben; a belső udvar részben védelmet nyújt a kerékpároknak. Csodálja meg a fafaragásokat egy rövid pihenő alatt.",
+                "ro": "Acest conac istoric oferă un cadru demn pe ploaie; curtea interioară oferă parțial adăpost pentru biciclete. Admirați sculpturile în lemn în timp ce faceți o scurtă pauză.",
+                "en": "This historic mansion offers a dignified backdrop in the rain; the inner courtyard provides partial shelter for bicycles. Admire the woodwork while taking a short break from the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Guzelhisar Castle",
+                "hu": "Guzelhisar vára",
+                "ro": "Castelul Guzelhisar",
+                "en": "Guzelhisar Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine bietet einen dramatischen Blick auf das graue Meer; seien Sie vorsichtig beim Begehen der Mauern, da diese rutschig sein können. Ein kurzes, aber lohnendes Ziel zum Abschluss.",
+                "hu": "A várrom drámai kilátást nyújt a szürke tengerre; legyen óvatos a falakon, mert csúszósak lehetnek az esőtől. Rövid, de megéri a fáradságot a nap végén is.",
+                "ro": "Ruinele castelului oferă o vedere dramatică asupra mării gri; fiți atenți pe ziduri, deoarece pot fi alunecoase din cauza ploii. O destinație scurtă, dar care merită la final de zi.",
+                "en": "The castle ruins offer a dramatic view of the grey sea; be careful when walking the walls as they can be slippery from the rain. A short but rewarding destination to finish your ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine erfrischende Winterfahrt entlang der Küste, wo die salzige Brise Ihre Sinne schärft. Mittags bieten die Museen und Tunnel willkommene Wärme für kalte Hände. Da es bereits gegen 17:00 Uhr dunkelt, radeln Sie rechtzeitig zur Burg Guzelhisar, um den frühen Sonnenuntergang über dem Hafen zu erleben. Die beleuchtete Stadt führt Sie schließlich sicher durch den kühlen Winterabend.",
+            "hu": "Élvezze a frissítő téli tekerést a part mentén, ahol a sós szellő felélénkíti az érzékeit. Délben a múzeumok és az alagút hívogató meleget ad a hideg kezeknek. Mivel 17:00 körül már sötétedik, tekerjen időben a Guzelhisar várhoz, hogy elcsípje a korai naplementét a kikötő felett. A kivilágított város végül biztonságosan vezet át a hűvös téli estén.",
+            "ro": "Bucurați-vă de o tură răcoritoare de iarnă de-a lungul coastei, unde briza sărată vă ascute simțurile. La prânz, muzeele și tunelul oferă căldură binevenită pentru mâinile reci. Deoarece se întunecă în jur de 17:00, pedalați din timp spre Castelul Guzelhisar pentru apusul devreme peste port. Orașul iluminat vă va ghida în siguranță prin seara răcoroasă de iarnă.",
+            "en": "Enjoy a refreshing winter ride along the coast, where the salty breeze sharpens your senses. At midday, museums and tunnels provide welcome warmth for cold hands. Since it gets dark around 17:00, cycle to Guzelhisar Castle in time to catch the early sunset over the harbor. The lit-up city will then guide you safely through the chilly winter evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayasofya Plajı",
+                "hu": "Ayasofya Plajı",
+                "ro": "Ayasofya Plajı",
+                "en": "Ayasofya Plajı"
+              },
+              "tip_5lang": {
+                "de": "Die leere Strandpromenade ist ideal zum Radfahren ohne Massen; die klare Luft bietet weite Sicht auf das Meer. Tragen Sie winddichte Handschuhe für die Fahrt am Ufer. Kühle Brise garantiert.",
+                "hu": "Az üres strandpromenád ideális a tömeg nélküli kerékpározáshoz; a tiszta levegő messzi kilátást enged a tengerre. Viseljen szélálló kesztyűt a parti menethez. Hűvös szélre készüljön.",
+                "ro": "Promenada goală este ideală pentru pedalat fără mulțimi; aerul curat oferă o vizibilitate mare spre mare. Purtați mănuși rezistente la vânt pentru tura de pe mal. Briza rece este garantată.",
+                "en": "The empty beach promenade is ideal for cycling without the crowds; the crisp air offers far-reaching sea views. Wear windproof gloves for the ride along the shore to keep hands warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Zaman Tüneli",
+                "hu": "Trabzon Időalagút",
+                "ro": "Tunelul Timpului Trabzon",
+                "en": "Trabzon Zaman Tüneli"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren des Tunnels herrscht eine konstante, angenehme Temperatur, weit weg vom beißenden Winterwind. Nutzen Sie die Zeit, um sich aufzuwärmen und die Geschichte der Stadt zu studieren.",
+                "hu": "Az alagút belsejében állandó, kellemes hőmérséklet uralkodik, távol a metsző téli széltől. Használja ki az időt a felmelegedésre és a város történelmének tanulmányozására a tárlatok mentén.",
+                "ro": "În interiorul tunelului este o temperatură constantă și plăcută, departe de vântul tăios de iarnă. Profitați de timp pentru a vă încălzi și pentru a studia istoria orașului prin exponate.",
+                "en": "Inside the tunnel, there's a constant, pleasant temperature, far from the biting winter wind. Use this time to warm up and study the city's history through the well-lit displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaganos Pasha Tower",
+                "hu": "Zaganos pasa torony",
+                "ro": "Turnul Zaganos Pasha",
+                "en": "Zaganos Pasha Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern die Kälte, aber der Anblick im Winterlicht ist majestätisch; bleiben Sie in Bewegung, um warm zu bleiben. Achten Sie auf Schattenbereiche, wo es glatt sein könnte.",
+                "hu": "A kövek tartják a hideget, de a látvány a téli fényben fenséges; maradjon mozgásban, hogy ne fázzon meg. Ügyeljen az árnyékos részekre az úton, ahol lefagyások lehetnek a talajon.",
+                "ro": "Pietrele rețin frigul, dar vederea în lumina iernii este maiestuoasă; rămâneți în mișcare pentru a vă menține căldura. Atenție la zonele cu umbră unde drumul poate fi alunecos.",
+                "en": "The stones retain the cold, but the sight in the winter light is majestic; keep moving to stay warm. Watch out for shaded areas on the path where there might be patches of ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon City Museum",
+                "hu": "Trabzon Városi Múzeum",
+                "ro": "Muzeul Orașului Trabzon",
+                "en": "Trabzon City Museum"
+              },
+              "tip_5lang": {
+                "de": "Die gut geheizten Ausstellungsräume sind eine Wohltat nach dem Radfahren; parken Sie das Rad in der Nähe des hell beleuchteten Eingangs. Ein langer Aufenthalt lohnt sich besonders am Nachmittag.",
+                "hu": "A jól fűtött kiállítótermek valóságos áldást jelentenek kerékpározás után; parkoljon a fényesen kivilágított bejárat közelében. Egy hosszabb látogatás különösen délután éri meg a meleg miatt.",
+                "ro": "Sălile de expoziție bine încălzite sunt o binecuvântate după pedalat; parcați bicicleta lângă intrarea iluminată. O vizită lungă merită din plin, mai ales în orele după-amiezii reci.",
+                "en": "The well-heated exhibition rooms are a blessing after cycling; park your bike near the brightly lit entrance. A long stay is especially worthwhile in the chilly afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Nemlioğlu Konağı",
+                "hu": "Nemlioğlu Konağı",
+                "ro": "Nemlioğlu Konağı",
+                "en": "Nemlioğlu Konağı"
+              },
+              "tip_5lang": {
+                "de": "Die dunkle Holzarchitektur wirkt im Winter besonders warm und einladend; ein kurzer Halt für Fotos im letzten Tageslicht (ca. 16:30 Uhr) ist perfekt. Schließen Sie Ihr Rad gut sichtbar an.",
+                "hu": "A sötét faépítészet télen különösen melegnek és hívogatónak tűnik; egy rövid fotómegálló az utolsó nappali fényben (kb. 16:30) tökéletes. Zárja le a kerékpárt jól látható helyen.",
+                "ro": "Arhitectura din lemn închis la culoare pare deosebit de caldă și primitoare iarna; o oprire scurtă pentru poze în ultima lumină (cca. 16:30) este perfectă. Legați bicicleta la vedere.",
+                "en": "The dark wood architecture looks particularly warm and inviting in winter; a short photo stop in the last daylight (around 16:30) is perfect. Lock your bike in a clearly visible spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Guzelhisar Castle",
+                "hu": "Guzelhisar vára",
+                "ro": "Castelul Guzelhisar",
+                "en": "Guzelhisar Castle"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang (17:00 Uhr) von den Burgmauern aus; das Licht über dem Hafen ist im Winter unschlagbar. Die Fahrt zurück ins Zentrum ist kurz und beleuchtet. Licht einschalten!",
+                "hu": "Élje át a korai naplementét (17:00) a várfalakról; a kikötő feletti fények télen verhetetlenek. A visszaút a központba rövid és jól kivilágított. Ne felejtse el bekapcsolni a lámpákat!",
+                "ro": "Trăiți apusul devreme (ora 17:00) de pe zidurile castelului; lumina peste port este imbatabilă iarna. Drumul înapoi spre centru este scurt și iluminat. Nu uitați să aprindeți luminile!",
+                "en": "Experience the early sunset (17:00) from the castle walls; the light over the harbor is unbeatable in winter. The ride back to the center is short and well-lit. Remember to turn on your lights!"
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Morning: Vezessen el a csendes Atatürk Pavilon Múzeumhoz, élvezve az elegáns építészetet és a buja kerteket a békés reggeli fényben, még a nagy tömeg megérkezése előtt.\nMidday: Irány a partvidék a Trabzon Akvárium meglátogatásához, majd tegyen egy rövid utat a központi Trabzon Múzeum lenyűgöző tárlatainak megtekintéséhez.\nAfternoon: Töltse a délutánt a múzeum leleteinek megcsodálásával, mielőtt az életteli Alacahanba hajtana, hogy helyi hagyományos kézműves termékeket böngésszen.\nEvening: Hajtson fel a fenséges Guzelhisar várba egy felejthetetlen estéért, megörökítve az elsöprő panorámát, ahogy a nap lassan lenyugszik a város felett.",
         "ro": "Morning: Conduceți la liniștitul Muzeu Pavilion Ataturk, bucurându-vă de arhitectura elegantă și de grădinile luxuriante în lumina pașnică a dimineții.\nMidday: Îndreptați-vă spre coastă pentru a vizita Acvariul din Trabzon pentru o scufundare în viața marină, apoi mergeți cu mașina până la Muzeul central Trabzon.\nAfternoon: Petreceți după-amiaza admirând artefactele din muzeu înainte de a conduce spre vibrantul Alacahan pentru a răsfoi meșteșugurile tradiționale locale.\nEvening: Conduceți până la maiestuosul Castel Guzelhisar pentru o seară absolut de neuitat, captând priveliștile panoramice vaste în timp ce soarele apune lin.",
         "en": "Morning: Drive to the tranquil Ataturk Pavilion Museum, enjoying the elegant architecture and lush gardens in the peaceful morning light before the crowds arrive.\nMidday: Head towards the coast to visit the Trabzon Aquarium for a fun dive into marine life, then take a short drive to the central Trabzon Museum.\nAfternoon: Spend the afternoon marveling at the artifacts in the museum before driving to the vibrant Alacahan to browse traditional local crafts and textiles.\nEvening: Drive up to the majestic Guzelhisar Castle for an unforgettable evening, capturing the sweeping panoramic views as the sun slowly sets over the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres Wagens, während der Regen gegen die Scheiben prasselt, auf dem Weg zum Atatürk-Pavillon in den Hügeln. Mittags bietet das Aquarium eine faszinierende Unterwasserwelt, völlig unberührt vom Wetter draußen. Nachmittags besuchen Sie das Trabzon-Museum im Stadtzentrum, bevor Sie zum Alacahan weiterfahren. Der Tag endet sicher und trocken an der Burg Guzelhisar mit Blick auf den regnerischen Hafen.",
+            "hu": "Élvezze autója kényelmét, miközben az eső kopog a szélvédőn az Atatürk pavilon felé vezető úton a dombok között. Délben az akvárium lenyűgöző vízi világa várja, teljesen zavartalanul a kinti időjárástól. Délután látogasson el a belvárosi Trabzon Múzeumba, majd folytassa útját az Alacahanhoz. A nap biztonságban és szárazon zárul a Guzelhisar várnál, kilátással az esős kikötőre.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce ploaia bate în parbriz pe drumul spre Pavilionul Atatürk din dealuri. La prânz, acvariul oferă o lume subacvatică fascinantă, ferită de vremea de afară. După-amiaza vizitați Muzeul Trabzon din centru, înainte de a continua spre Alacahan. Ziua se încheie în siguranță și la uscat la Castelul Guzelhisar, cu vedere spre portul ploios.",
+            "en": "Enjoy the comfort of your car while the rain drums against the windshield on your way to the Atatürk Pavilion in the hills. At midday, the aquarium offers a fascinating underwater world, untouched by the weather outside. In the afternoon, visit the Trabzon Museum in the center before moving on to Alacahan. The day ends safely and dry at Guzelhisar Castle with a view of the rainy harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ataturk Pavilion Museum",
+                "hu": "Atatürk Pavilon Múzeum",
+                "ro": "Muzeul Pavilion Ataturk",
+                "en": "Ataturk Pavilion Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um den Regen zu meiden; das weiße Gebäude wirkt vor dem grauen Himmel und dem nassen Grün besonders edel. Die Innenräume sind prachtvoll und trocken. Regenschirm mitnehmen.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy elkerülje az esőt; a fehér épület különösen elegáns a szürke ég és a vizes zöld környezet előtt. A belső terek pompásak és szárazak. Vigyen esernyőt a kerthez.",
+                "ro": "Parcați chiar lângă intrare pentru a evita ploaia; clădirea albă pare deosebit de nobilă pe fundalul cerului gri și al vegetației ude. Interioarele sunt splendide și uscate. Luați umbrela pentru exterior.",
+                "en": "Park right by the entrance to avoid the rain; the white building looks particularly noble against the grey sky and lush wet greenery. The interiors are grand and dry. Bring an umbrella for the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Aquarium",
+                "hu": "Trabzon Akvárium",
+                "ro": "Acvariul Trabzon",
+                "en": "Trabzon Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Ziel für Regentage; verbringen Sie so viel Zeit wie Sie möchten unterirdisch bei den Fischen. Der Tunnel bietet perfekten Schutz und ist ein Highlight für Familien. Einfacher Parkplatz.",
+                "hu": "A végső úti cél esős napokra; töltsön el bármennyi időt a föld alatt a halak között. Az alagút tökéletes védelmet nyújt és igazi családi kedvenc. Könnyen megközelíthető parkoló a közelben.",
+                "ro": "Destinația supremă pentru zilele ploioase; petreceți cât timp doriți sub pământ printre pești. Tunelul oferă protecție perfectă și este un punct de atracție pentru familii. Parcare facilă în zonă.",
+                "en": "The ultimate rainy day destination; spend as much time as you like underground with the sea life. The tunnel provides perfect shelter and is a family highlight. Easy parking is available nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Museum",
+                "hu": "Trabzon Múzeum",
+                "ro": "Muzeul Trabzon",
+                "en": "Trabzon Museum"
+              },
+              "tip_5lang": {
+                "de": "Mitten im Zentrum gelegen, bietet dieses Museum weite Hallen zum Erkunden, während es draußen schüttet. Ein kurzer Sprint vom Parkplatz genügt, um ins prachtvolle Innere zu gelangen. Warme Atmosphäre.",
+                "hu": "A belváros közepén található múzeum tágas termeket kínál a felfedezésre, miközben odakint ömlik az eső. Egy rövid futás a parkolótól elég, hogy a pompás belső térbe jusson. Meleg hangulat.",
+                "ro": "Situat în centrul orașului, acest muzeu oferă săli vaste de explorat în timp ce afară toarnă. Un scurt sprint de la parcare este suficient pentru a ajunge în interiorul somptuos. Atmosferă caldă.",
+                "en": "Located in the heart of the city, this museum offers vast halls to explore while it's pouring outside. A short dash from the parking lot is all it takes to reach the grand interior. Warm atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Alacahan",
+                "hu": "Alacahan",
+                "ro": "Alacahan",
+                "en": "Alacahan"
+              },
+              "tip_5lang": {
+                "de": "Diese alte Karawanserei bietet durch ihre Architektur viele überdachte Gänge und Arkaden. Ein charmanter Ort für einen Tee im Trockenen, um die lokale Handwerkskunst zu bewundern. Parken in Nebenstraßen.",
+                "hu": "Ez a régi karavánszeráj építészetéből adódóan sok fedett folyosót és árkádot kínál. Bájos hely egy teára a szárazon, miközben a helyi kézműveseket figyeli. Parkolás a mellékutcákban lehetséges.",
+                "ro": "Acest vechi caravanserai oferă multe coridoare acoperite și arcade datorită arhitecturii sale. Un loc fermecător pentru un ceai la uscat, admirând meșteșugurile locale. Parcare în străzile adiacente.",
+                "en": "This old caravanserai offers many covered corridors and archways due to its architecture. A charming place for a tea in the dry while admiring local craftsmanship. Parking in side streets nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Guzelhisar Castle",
+                "hu": "Guzelhisar vára",
+                "ro": "Castelul Guzelhisar",
+                "en": "Guzelhisar Castle"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus oder nach einem kurzen Weg zu den Mauern haben Sie einen tollen Blick auf die regnerische Küste. Bleiben Sie bei Windböen vorsichtig an den Kanten. Die Fahrt ist auch bei Nässe unproblematisch.",
+                "hu": "Az autóból vagy a falakhoz tett rövid séta után remek kilátás nyílik az esős partvonalra. Széllökések esetén legyen óvatos a széleken. Az autós feljutás esőben is problémamentes az aszfalton.",
+                "ro": "Din mașină sau după o scurtă plimbare la ziduri, aveți o vedere excelentă asupra coastei ploioase. Fiți atenți la margini în caz de rafale de vânt. Drumul este ușor accesibil și pe carosabil ud.",
+                "en": "From the car or after a short walk to the walls, you'll have a great view of the rainy coastline. Be careful near the edges during wind gusts. The drive up is straightforward even in wet conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie durch die klare Winterluft zu den Hügeln, wo der Atatürk-Pavillon in weißem Glanz erstrahlt. Mittags bietet das Aquarium eine warme Flucht in tropische Gewässer. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie Ihren Besuch im Trabzon-Museum und Alacahan davor ein. Der Tag schließt mit einem atemberaubenden Blick auf den beleuchteten Hafen von der Burg Guzelhisar, bevor Sie die Heizung im Wagen wieder aufdrehen.",
+            "hu": "Autózzon a friss téli levegőben a dombok közé, ahol az Atatürk pavilon fehér ragyogásban várja. Délben az akvárium meleg menekülést kínál a trópusi vizek világába. Mivel a nap 17:00 körül nyugszik, tervezze a Trabzon Múzeum és az Alacahan látogatását korábbra. A nap a kivilágított kikötő látványával zárul a Guzelhisar vártól, mielőtt visszatérne az autó melegébe.",
+            "ro": "Conduceți prin aerul curat de iarnă spre dealuri, unde Pavilionul Atatürk strălucește în alb. La prânz, acvariul oferă o evadare caldă în apele tropicale. Deoarece soarele apune în jur de 17:00, planificați vizita la Muzeul Trabzon și Alacahan înainte. Ziua se încheie cu o vedere uluitoare asupra portului iluminat de la Castelul Guzelhisar, înainte de a porni iar căldura în mașină.",
+            "en": "Drive through the crisp winter air to the hills, where the Atatürk Pavilion shines in white splendor. At midday, the aquarium offers a warm escape into tropical waters. Since the sun sets around 17:00, schedule your visits to the Trabzon Museum and Alacahan earlier. The day ends with a stunning view of the lit-up harbor from Guzelhisar Castle before you turn the car heater back up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ataturk Pavilion Museum",
+                "hu": "Atatürk Pavilon Múzeum",
+                "ro": "Muzeul Pavilion Ataturk",
+                "en": "Ataturk Pavilion Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht besonders rein; genießen Sie die geheizten Räume mit historischem Charme. Parkplätze sind in der Nebensaison reichlich vorhanden. Warme Kleidung für den Gartenbesuch.",
+                "hu": "Az építészet különösen tisztának tűnik a téli fényben; élvezze a történelmi bájjal rendelkező fűtött szobákat. A főszezonon kívül bőséges a parkolóhely. Meleg ruházat ajánlott a kert megtekintéséhez.",
+                "ro": "Arhitectura pare deosebit de pură în lumina iernii; bucurați-vă de camerele încălzite cu farmec istoric. Parcarea este din abundență în extrasezon. Haine groase sunt necesare pentru vizita în grădină.",
+                "en": "The architecture looks particularly pristine in the winter light; enjoy the heated rooms filled with historic charm. Parking is plentiful in the low season. Wear warm clothes for the garden visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Aquarium",
+                "hu": "Trabzon Akvárium",
+                "ro": "Acvariul Trabzon",
+                "en": "Trabzon Aquarium"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlich warmer Ort, um den Winterwind zu vergessen; die Beleuchtung der Becken wirkt an dunklen Tagen besonders magisch. Ideal für einen längeren Aufenthalt zur Mittagszeit. Einfache Anfahrt.",
+                "hu": "Pompásan meleg hely, ahol elfelejtheti a téli szelet; a medencék megvilágítása különösen mágikus a sötétebb napokon. Ideális egy hosszabb déli tartózkodásra. Könnyű megközelítés autóval.",
+                "ro": "Un loc minunat de cald pentru a uita de vântul de iarnă; iluminarea bazinelor pare magică în zilele întunecate. Ideal pentru o ședere mai lungă la ora prânzului. Acces auto facil în zonă.",
+                "en": "A wonderfully warm place to forget the winter wind; the tank lighting looks particularly magical on darker days. Ideal for a longer stay during midday. Very easy access by car with nearby parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Trabzon Museum",
+                "hu": "Trabzon Múzeum",
+                "ro": "Muzeul Trabzon",
+                "en": "Trabzon Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das warme Licht des Nachmittags im Inneren dieses prachtvollen Herrenhauses. Die Heizung sorgt für eine behagliche Atmosphäre beim Bestaunen der Exponate. Parken Sie im nahen Parkhaus.",
+                "hu": "Használja ki a délutáni meleg fényeket e pompás kúria belsejében. A fűtés kellemes légkört biztosít a tárlatok megcsodálása közben. Használja a közeli parkolóházat a kényelmes megálláshoz.",
+                "ro": "Profitați de lumina caldă a după-amiezii în interiorul acestui conac splendid. Căldura oferă o atmosferă confortabilă în timp ce admirați exponatele. Parcați în parcarea supraetajată din apropiere.",
+                "en": "Take advantage of the warm afternoon light inside this grand mansion. The heating ensures a comfortable atmosphere while marveling at the exhibits. Park in the nearby multi-story car park for ease."
+              }
+            },
+            {
+              "name": {
+                "de": "Alacahan",
+                "hu": "Alacahan",
+                "ro": "Alacahan",
+                "en": "Alacahan"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor Wind, und ein heißer türkischer Tee im Innenhof wärmt Sie sofort auf. Besuchen Sie die Kunsthandwerker, bevor es um 17:00 Uhr dunkelt. Kurzer Fußweg vom Wagen.",
+                "hu": "A vastag kőfalak védenek a széltől, egy forró török tea a belső udvarban pedig azonnal felmelegíti. Látogassa meg a kézműveseket, mielőtt 17:00-kor besötétedik. Rövid séta az autótól.",
+                "ro": "Zidurile groase de piatră protejează de vânt, iar un ceai turcesc fierbinte în curte vă va încălzi imediat. Vizitați meșteșugarii înainte de lăsarea întunericului la ora 17:00. Scurtă plimbare de la mașină.",
+                "en": "The thick stone walls protect from the wind, and a hot Turkish tea in the courtyard will warm you up instantly. Visit the artisans before it gets dark at 17:00. Just a short walk from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Guzelhisar Castle",
+                "hu": "Guzelhisar vára",
+                "ro": "Castelul Guzelhisar",
+                "en": "Guzelhisar Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die beleuchtete Stadt und den Hafen nach 17:00 Uhr ist ein winterliches Highlight. Die Fahrt zur Burg ist auch bei Kälte sicher, aber achten Sie auf Rauhreif auf den Mauern. Heizung genießen!",
+                "hu": "A kivilágított város és kikötő látványa 17:00 után igazi téli fénypont. A várhoz vezető út hidegben is biztonságos, de ügyeljen a zúzmarára a falakon. Élvezze az autó fűtését visszaúton!",
+                "ro": "Vederea asupra orașului iluminat și a portului după ora 17:00 este un punct culminant al iernii. Drumul spre castel este sigur, dar atenție la chiciura de pe ziduri. Bucurați-vă de căldura din mașină!",
+                "en": "The view of the illuminated city and harbor after 17:00 is a winter highlight. The drive to the castle is safe in the cold, but watch out for frost on the stones. Enjoy the car heater on the way back!"
+              }
+            }
+          ]
+        }
       }
     }
   }

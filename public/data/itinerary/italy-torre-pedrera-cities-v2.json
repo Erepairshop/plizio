@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Torre Pedrera spirituális szívének felfedezésével a helyi plébánián. Közeledve a délhez, menjen a part felé, hogy élvezze a napsütést. Töltse a délutánt a vidám tengerparti hangulat élvezetével a helyi fürdőkben. Zárja a napot egy pihentető naplemente nézéssel a Kamoke Beach-en.",
         "ro": "Începeți dimineața explorând inima spirituală a orașului la parohia locală. Pe măsură ce se apropie prânzul, îndreptați-vă spre coastă pentru a vă bucura de soare. Petreceți după-amiaza absorbind atmosfera plină de viață a stațiunilor balneare. Încheiați ziua cu o privire relaxantă a apusului de soare la plajă.",
         "en": "Start your morning exploring the spiritual heart of Torre Pedrera at the local parish. As midday approaches, move towards the coast to embrace the sun at Bagno Rinato. Spend your afternoon soaking up the lively vibes at Belaburderla and Onda Blue Village. Conclude the day with a relaxing sunset watch at Kamoke Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt unter dem schützenden Dach der Pfarrkirche, während der Regen sanft gegen die Fenster trommelt. Mittags führt der Weg entlang der Strandpromenade, wo die salzige Luft besonders intensiv riecht. Nachmittags bieten die überdachten Terrassen der Strandbäder einen dramatischen Blick auf die aufgewühlte Adria. Abends sorgt das Rauschen der Wellen im Regen für eine meditative Stille.",
+            "hu": "A nap a plébániatemplom védelmező falai között indul, miközben az eső lágyan kopog az ablakokon. Délben a tengerparti sétányon haladunk, ahol az eső utáni sós pára különösen frissítő. Délután a strandklubok fedett teraszai kínálnak menedéket és drámai kilátást a hullámzó Adriára. Az este a tenger morajlásával és az eső áztatta part csendjével zárul, ami különleges, meditatív hangulatot áraszt.",
+            "ro": "Ziua începe sub acoperișul protector al bisericii parohiale, în timp ce ploaia bate ușor în ferestre. La prânz, plimbarea pe faleză oferă un aer sărat și revigorant, specific vremii umede. După-amiaza, terasele acoperite ale băilor oferă o vedere dramatică asupra Adriaticii agitate. Seara, sunetul ploii amestecat cu cel al valurilor creează o atmosferă liniștită și meditativă pe malul mării.",
+            "en": "The day begins under the protective roof of the parish church as rain taps gently on the windows. At noon, the walk along the promenade offers a refreshing, salty air intensified by the moisture. In the afternoon, covered terraces of beach clubs provide shelter and a dramatic view of the choppy Adriatic. Evening ends with the rhythmic sound of rain hitting the sea, creating a calm atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pfarrkirche Torre Pedrera",
+                "hu": "Torre Pedrera Plébániatemplom",
+                "ro": "Biserica Parohială Torre Pedrera",
+                "en": "Torre Pedrera Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche als trockenen Rückzugsort, um die religiöse Kunst und die Stille zu genießen, während draußen der Regen fällt; idealer Startpunkt bei Schmuddelwetter.",
+                "hu": "Használja a templomot száraz menedékként, ahol megcsodálhatja a vallási művészetet és a csendet, miközben kint esik; ideális kezdőpont borús időben a városnézéshez.",
+                "ro": "Folosiți biserica ca refugiu uscat pentru a admira arta religioasă și liniștea în timp ce afară plouă; este punctul de plecare ideal pentru o zi cu vreme nefavorabilă.",
+                "en": "Use the church as a dry sanctuary to enjoy the religious art and silence while it rains outside; it is the perfect starting point for a sightseeing tour in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Rinato 68/89",
+                "hu": "Bagno Rinato 68/89",
+                "ro": "Bagno Rinato 68/89",
+                "en": "Bagno Rinato 68/89"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf dem Sand von einer der überdachten Strukturen aus; tragen Sie festes Schuhwerk, da der nasse Sandboden rutschig sein kann.",
+                "hu": "Figyelje meg az esőcseppek játékát a homokon az egyik fedett építmény alól; viseljen stabil cipőt, mert a nedves homokos talaj csúszóssá és nehézkessé válhat a séta során.",
+                "ro": "Urmăriți jocul picăturilor de ploaie pe nisip de sub una dintre structurile acoperite; purtați încălțăminte stabilă, deoarece nisipul ud poate fi alunecos la mers.",
+                "en": "Watch the play of raindrops on the sand from under one of the covered structures; wear sturdy shoes as the wet sandy ground can be slippery during your coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Belaburderla",
+                "hu": "Belaburderla",
+                "ro": "Belaburderla",
+                "en": "Belaburderla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das graue Meer, das im Regen eine mystische Aura bekommt; ein windfester Regenschirm ist hier an der offenen Küste unerlässlich.",
+                "hu": "Élvezze a tágas kilátást a szürke tengerre, amely az esőben misztikus aurát kap; egy szélálló esernyő itt a nyitott parton elengedhetetlen a kényelmes nézelődéshez.",
+                "ro": "Bucurați-vă de vederea largă asupra mării gri, care capătă o aură mistică în ploaie; o umbrelă rezistentă la vânt este esențială aici, pe coasta deschisă și expusă.",
+                "en": "Enjoy the expansive view of the gray sea, which takes on a mystical aura in the rain; a windproof umbrella is essential here on the open coast for a comfortable visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 72 Onda Blue Village",
+                "hu": "Bagno 72 Onda Blue Village",
+                "ro": "Bagno 72 Onda Blue Village",
+                "en": "Bagno 72 Onda Blue Village"
+              },
+              "tip_5lang": {
+                "de": "Die blauen Farbtöne des Resorts bilden einen schönen Kontrast zum grauen Regenwetter; suchen Sie Schutz unter den Markisen und lauschen Sie dem prasselnden Regen.",
+                "hu": "Az üdülőhely kék tónusai szép kontrasztot alkotnak a szürke esős idővel; keressen menedéket a napellenzők alatt, és hallgassa a kopogó eső megnyugtató ritmusát.",
+                "ro": "Nuanțele de albastru ale stațiunii creează un contrast frumos cu vremea gri; căutați adăpost sub copertine și ascultați ritmul relaxant al ploii care cade pe acoperiș.",
+                "en": "The blue tones of the resort provide a nice contrast to the gray rainy weather; seek shelter under the awnings and listen to the soothing rhythm of the rain hitting the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 76 Kamoke Beach",
+                "hu": "Bagno 76 Kamoke Beach",
+                "ro": "Bagno 76 Kamoke Beach",
+                "en": "Bagno 76 Kamoke Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Spaziergang mit einem Blick auf die Brandung, die bei Regen besonders kräftig wirkt; eine wasserdichte Regenjacke schützt Sie vor der Gischt und dem Wind.",
+                "hu": "Zárja a sétát a hullámtörés látványával, amely esőben különösen erőteljesnek tűnik; egy vízálló esőkabát megvédi Önt a tengerpermettől és a hűvös parti széltől.",
+                "ro": "Încheiați plimbarea cu o privire asupra valurilor, care par deosebit de puternice în ploaie; o jachetă impermeabilă vă va proteja de spray-ul mării și de vântul umed.",
+                "en": "End your walk with a view of the surf, which looks particularly powerful in the rain; a waterproof rain jacket will protect you from the sea spray and the coastal wind."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit kühler Seeluft bei der Pfarrkirche. Mittags strahlt die tiefstehende Sonne über dem leeren Strand, was perfekte Lichtverhältnisse für Fotos schafft. Nachmittags färbt sich der Himmel früh in Pastelltönen, während man sich in eine warme Jacke kuschelt. Da die Sonne gegen 17:00 Uhr untergeht, endet der Tag in der gemütlichen blauen Stunde am Meer.",
+            "hu": "A tiszta téli reggel friss tengeri levegővel indul a plébániatemplomnál. Délben az alacsonyan járó nap megvilágítja az üres strandot, ami tökéletes fényeket ad a fotózáshoz. Délután az ég korán pasztell színekbe öltözik, miközben jól esik a meleg kabátba burkolózni. Mivel a nap 17:00 körül nyugszik, a nap a tengerparti kék óra meghitt hangulatában ér véget.",
+            "ro": "O dimineață senină de iarnă începe cu aerul rece al mării lângă biserica parohială. La prânz, soarele jos strălucește peste plaja pustie, creând lumina perfectă pentru fotografii. După-amiaza, cerul capătă nuanțe pastelate devreme, fiind momentul ideal pentru o plimbare înfofolită. Deoarece soarele apune în jur de ora 17:00, ziua se încheie în ora albastră.",
+            "en": "A clear winter morning begins with crisp sea air by the parish church. At noon, the low sun shines over the empty beach, creating perfect lighting for photography. In the afternoon, the sky turns pastel colors early, making it cozy to walk in a warm jacket. As the sun sets around 5:00 PM, the day concludes in the intimate atmosphere of the seaside blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pfarrkirche Torre Pedrera",
+                "hu": "Torre Pedrera Plébániatemplom",
+                "ro": "Biserica Parohială Torre Pedrera",
+                "en": "Torre Pedrera Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Morgen, um sich kurz aufzuwärmen und die winterliche Stille im Inneren zu genießen; die Architektur wirkt im klaren Winterlicht besonders edel.",
+                "hu": "Látogassa meg a templomot reggel, hogy kissé felmelegedjen és élvezze a belső téli csendet; az építészet a tiszta téli fényben különösen nemesnek és magasztosnak tűnik.",
+                "ro": "Vizitați biserica dimineața pentru a vă încălzi puțin și pentru a vă bucura de liniștea iernii în interior; arhitectura arată deosebit de nobilă în lumina clară de iarnă.",
+                "en": "Visit the church in the morning to warm up briefly and enjoy the winter silence inside; the architecture looks particularly noble in the clear and bright winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Rinato 68/89",
+                "hu": "Bagno Rinato 68/89",
+                "ro": "Bagno Rinato 68/89",
+                "en": "Bagno Rinato 68/89"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die weite, leere Strandlandschaft im Winter; bringen Sie eine Thermoskanne mit warmem Tee mit, um die melancholische Schönheit des Meeres ohne Frost zu genießen.",
+                "hu": "Tapasztalja meg a tágas, üres strandot télen; hozzon magával egy termoszt meleg teával, hogy fagyoskodás nélkül élvezhesse a tenger melankolikus és békés szépségét.",
+                "ro": "Experimentați peisajul vast și pustiu al plajei în timpul iernii; aduceți un termos cu ceai cald pentru a vă bucura de frumusețea melancolică a mării fără a îngheța.",
+                "en": "Experience the vast, empty beach landscape in winter; bring a thermos with warm tea to enjoy the melancholic beauty of the sea without feeling the bite of the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Belaburderla",
+                "hu": "Belaburderla",
+                "ro": "Belaburderla",
+                "en": "Belaburderla"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine enorme Sichtweite über die Adria; tragen Sie mehrere Schichten Kleidung, da der Wind am offenen Ufer im Winter sehr schneidend sein kann.",
+                "hu": "A tiszta téli levegő hatalmas látótávolságot biztosít az Adria felett; öltözzön rétegesen, mert a nyitott parton a szél télen nagyon metsző és hideg lehet.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate enormă peste marea Adriatică; purtați mai multe straturi de haine, deoarece vântul pe malul deschis poate fi foarte tăios iarna.",
+                "en": "The clear winter air provides enormous visibility across the Adriatic; wear multiple layers of clothing, as the wind on the open shore can be very biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 72 Onda Blue Village",
+                "hu": "Bagno 72 Onda Blue Village",
+                "ro": "Bagno 72 Onda Blue Village",
+                "en": "Bagno 72 Onda Blue Village"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterfeste Verpackung der Strandeinrichtungen, die fast wie moderne Kunst wirkt; nutzen Sie die Zeit für einen zügigen Marsch, um warm zu bleiben.",
+                "hu": "Csodálja meg a strandlétesítmények téliesített csomagolását, amely szinte modern művészetnek tűnik; használja az időt egy tempós sétára, hogy mozgásban maradva ne fázzon.",
+                "ro": "Admirați protecțiile de iarnă ale facilităților de pe plajă, care par aproape ca o artă modernă; folosiți timpul pentru un marș rapid pentru a vă menține căldura corporală.",
+                "en": "Admire the winter-proof covering of the beach facilities, which looks almost like modern art; use this time for a brisk walk to keep your body temperature up in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 76 Kamoke Beach",
+                "hu": "Bagno 76 Kamoke Beach",
+                "ro": "Bagno 76 Kamoke Beach",
+                "en": "Bagno 76 Kamoke Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt am Wasser; die Farben sind im Winter oft intensiver. Eine Wollmütze ist wegen der Kälte unbedingt ratsam.",
+                "hu": "Élvezze a korai, 17:00 körüli naplementét közvetlenül a víznél; a színek télen gyakran intenzívebbek. A hideg miatt egy gyapjúsapka viselése mindenképpen tanácsos.",
+                "ro": "Bucurați-vă de apusul devreme, în jurul orei 17:00, direct lângă apă; culorile sunt adesea mai intense iarna. O căciulă de lână este neapărat recomandată din cauza frigului.",
+                "en": "Enjoy the early sunset around 5:00 PM right by the water; colors are often more intense in winter. A wool hat is definitely advisable due to the freezing temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját egy frissítő megállóval a Malu Beach-en, hogy üdvözölje a tengert. A dél egy kellemes utazást hoz a part mentén a város hangulatos temploma felé. A délután tökéletes további nyüzsgő strandklubok felfedezésére északon. Fejezze be aktív napját a tengerparton, ahogy leszáll az este.",
         "ro": "Începeți turul cu bicicleta cu o oprire revigorantă la Malu Beach pentru a saluta marea. Prânzul aduce o plimbare plăcută de-a lungul coastei spre biserica fermecătoare a orașului. După-amiaza este perfectă pentru a descoperi mai multe cluburi de plajă vibrante. Încheiați ziua activă la Kamoke Beach.",
         "en": "Kick off your cycling tour with a refreshing stop at Malu Beach to greet the sea. Midday brings a pleasant ride along the coast towards Amerigo and the town's charming church. The afternoon is perfect for discovering more vibrant beach clubs up north. Finish your active day at Kamoke Beach as evening falls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet mit Vorsicht auf den feuchten Wegen nahe Bagno 46. Mittags erfordert der Regen volle Konzentration und gute Bremsen, während man die menschenleere Küste passiert. Nachmittags bietet die Kirche einen trockenen Zwischenstopp für die müden Beine. Der Tag endet mit einer schnellen Fahrt durch die Pfützen zurück zur Unterkunft, wobei die Lichter der Stadt im nassen Asphalt glänzen.",
+            "hu": "A kerékpártúra óvatosan indul a nedves utakon a Bagno 46 közelében. Délben az eső teljes koncentrációt és jó fékeket igényel, miközben az üres part mentén haladunk. Délután a templom kínál száraz pihenőt a fáradt lábaknak. A nap egy gyors, tócsákon átívelő tekeréssel zárul a szállás felé, miközben a város fényei megcsillannak a vizes aszfalton.",
+            "ro": "Turul cu bicicleta începe cu prudență pe drumurile umede de lângă Bagno 46. La prânz, ploaia necesită concentrare maximă și frâne bune în timp ce treceți pe lângă coasta pustie. După-amiaza, biserica oferă o oprire uscată pentru picioarele obosite. Ziua se încheie cu o cursă rapidă prin bălți înapoi spre cazare, luminile orașului strălucind pe asfaltul ud.",
+            "en": "The bike tour starts cautiously on the damp paths near Bagno 46. At noon, the rain requires full concentration and good brakes while passing the deserted coast. In the afternoon, the church offers a dry stop for tired legs. The day ends with a quick ride through the puddles back to the accommodation, with city lights shimmering on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagno 46 Malu Beach",
+                "hu": "Bagno 46 Malu Beach",
+                "ro": "Bagno 46 Malu Beach",
+                "en": "Bagno 46 Malu Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Losfahren auf rutschige Markierungen auf der Fahrbahn; ein Schutzblech am Fahrrad ist bei diesem Wetter Gold wert, um trocken zu bleiben.",
+                "hu": "Induláskor ügyeljen az úttesten lévő csúszós felfestésekre; egy sárvédő a kerékpáron aranyat ér ilyenkor, hogy szárazon tartsa a ruházatát tekerés közben.",
+                "ro": "Aveți grijă la marcajele alunecoase de pe carosabil când plecați; o apărătoare de noroi la bicicletă valorează aur pe această vreme pentru a vă menține uscat.",
+                "en": "Watch out for slippery road markings when starting; a mudguard on your bike is worth its weight in gold in this weather to keep you dry while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 58 Amerigo",
+                "hu": "Bagno 58 Amerigo",
+                "ro": "Bagno 58 Amerigo",
+                "en": "Bagno 58 Amerigo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in moderatem Tempo, da Bremswege auf nassem Asphalt deutlich länger sind; nutzen Sie den Stopp für einen kurzen Check Ihrer Beleuchtung.",
+                "hu": "Haladjon mérsékelt tempóban, mivel a fékút nedves aszfalton jelentősen hosszabb; használja ki ezt a megállót a kerékpár világításának gyors ellenőrzésére.",
+                "ro": "Conduceți cu viteză moderată, deoarece distanțele de frânare pe asfaltul ud sunt semnificativ mai mari; folosiți oprirea pentru o verificare rapidă a luminilor.",
+                "en": "Ride at a moderate pace as braking distances on wet asphalt are significantly longer; use this stop for a quick check of your bike lights for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Torre Pedrera",
+                "hu": "Torre Pedrera Plébániatemplom",
+                "ro": "Biserica Parohială Torre Pedrera",
+                "en": "Torre Pedrera Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Kirche, um sich aufzuwärmen; die Ruhe im Inneren ist der ideale Kontrast zum stürmischen Wetter.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és használja a templomot a felmelegedéshez; a belső nyugalom ideális kontrasztot nyújt a viharos kinti időjáráshoz.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți biserica pentru a vă încălzi; liniștea din interior este contrastul ideal pentru vremea furtunoasă de afară.",
+                "en": "Park your bike in a sheltered spot and use the church to warm up; the peace inside is the ideal contrast to the stormy and wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 72 Onda Blue Village",
+                "hu": "Bagno 72 Onda Blue Village",
+                "ro": "Bagno 72 Onda Blue Village",
+                "en": "Bagno 72 Onda Blue Village"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen, da diese tiefe Schlaglöcher verbergen könnten; eine wasserfeste Hose ist für diesen Abschnitt der Tour besonders zu empfehlen.",
+                "hu": "Kerülje a tócsákat, mivel azok mély kátyúkat rejthetnek; egy vízálló nadrág viselése kifejezetten ajánlott a túra ezen szakaszán a kényelem érdekében.",
+                "ro": "Evitați bălțile, deoarece acestea ar putea ascunde gropi adânci; pantalonii impermeabili sunt recomandați în mod special pentru această etapă a turului.",
+                "en": "Avoid puddles as they could hide deep potholes; waterproof trousers are highly recommended for this section of the tour to stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 76 Kamoke Beach",
+                "hu": "Bagno 76 Kamoke Beach",
+                "ro": "Bagno 76 Kamoke Beach",
+                "en": "Bagno 76 Kamoke Beach"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad gut gegen den Wind, falls Sie zum Wasser gehen; wischen Sie den Sattel vor der Rückfahrt trocken, um eine Erkältung zu vermeiden.",
+                "hu": "Rögzítse jól a kerékpárt a szél ellen, ha lemegy a vízhez; a visszaindulás előtt törölje szárazra a nyerget, hogy elkerülje a megfázást a hazaúton.",
+                "ro": "Asigurați bine bicicleta împotriva vântului dacă mergeți la apă; ștergeți șaua înainte de drumul de întoarcere pentru a evita răceala pe parcurs.",
+                "en": "Secure your bike well against the wind if you go down to the water; wipe the saddle dry before the return trip to avoid catching a cold on the way back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Radfahrt bei Minustemperaturen weckt die Lebensgeister. Mittags glitzert das Meer in der Wintersonne, während man fast allein auf den Radwegen unterwegs ist. Nachmittags kühlt es schnell ab, weshalb Thermokleidung und Handschuhe unerlässlich sind. Gegen 17:00 Uhr verschwindet die Sonne, und die beleuchteten Schaufenster begleiten die Heimfahrt in der kalten Abendluft.",
+            "hu": "A reggeli kerékpározás a fagypont körüli hőmérsékleten azonnal felébreszti az embert. Délben a tenger csillog a téli napsütésben, miközben szinte egyedül tekerhetünk a kerékpárutakon. Délután gyorsan lehűl az idő, ezért a hőszigetelt ruházat és a kesztyű elengedhetetlen. 17:00 körül a nap eltűnik, és a kivilágított kirakatok kísérik a hazautat a hideg esti levegőben.",
+            "ro": "Ciclismul de dimineață la temperaturi scăzute vă va trezi cu siguranță simțurile. La prânz, marea sclipeste în soarele de iarnă, fiind aproape singur pe pistele de biciclete. După-amiaza se răcește rapid, motiv pentru care hainele termice și mănușile sunt esențiale. În jurul orei 17:00 soarele dispare, iar vitrinele luminate vă însoțesc drumul spre casă.",
+            "en": "The morning bike ride in freezing temperatures is sure to wake you up. At noon, the sea glitters in the winter sun while you have the cycle paths almost to yourself. In the afternoon, it cools down quickly, so thermal clothing and gloves are essential. Around 5:00 PM, the sun disappears, and illuminated shop windows guide your ride home in the cold air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagno 46 Malu Beach",
+                "hu": "Bagno 46 Malu Beach",
+                "ro": "Bagno 46 Malu Beach",
+                "en": "Bagno 46 Malu Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, um die Beweglichkeit Ihrer Finger beim Schalten und Bremsen zu erhalten; die Seeluft ist am frühen Morgen besonders beißend.",
+                "hu": "Viseljen meleg kesztyűt, hogy ujjai mozgékonyak maradjanak a váltáshoz és fékezéshez; a tengeri levegő kora reggel különösen metsző és hideg lehet.",
+                "ro": "Purtați mănuși groase pentru a menține mobilitatea degetelor la schimbarea vitezelor și frânare; aerul mării este deosebit de tăios dimineața devreme.",
+                "en": "Wear warm gloves to maintain finger mobility for shifting and braking; the sea air is particularly biting and cold in the early morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 58 Amerigo",
+                "hu": "Bagno 58 Amerigo",
+                "ro": "Bagno 58 Amerigo",
+                "en": "Bagno 58 Amerigo"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und kann blenden; eine Sonnenbrille hilft nicht nur gegen das Licht, sondern schützt die Augen auch vor dem kalten Fahrtwind.",
+                "hu": "A nap alacsonyan jár és elvakíthat; egy napszemüveg nemcsak a fény ellen segít, hanem megvédi a szemét a hideg menetszéltől is tekerés közben.",
+                "ro": "Soarele este jos și poate fi orbitor; o pereche de ochelari de soare nu ajută doar împotriva luminii, ci protejează și ochii de vântul rece din față.",
+                "en": "The sun is low and can be blinding; sunglasses not only help against the glare but also protect your eyes from the cold wind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Torre Pedrera",
+                "hu": "Torre Pedrera Plébániatemplom",
+                "ro": "Biserica Parohială Torre Pedrera",
+                "en": "Torre Pedrera Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause, um die Durchblutung Ihrer Füße zu fördern; die Kirche bietet einen windgeschützten Ort für eine kurze Rast und innere Einkehr.",
+                "hu": "Tartson szünetet, hogy serkentse lábai vérkeringését; a templom szélvédett helyet kínál egy rövid pihenőhöz és a belső elcsendesedéshez a túra alatt.",
+                "ro": "Faceți o pauză pentru a stimula circulația sângelui în picioare; biserica oferă un loc ferit de vânt pentru o scurtă odihnă și reflecție interioară.",
+                "en": "Take a break to stimulate circulation in your feet; the church offers a wind-sheltered place for a short rest and inner reflection during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 72 Onda Blue Village",
+                "hu": "Bagno 72 Onda Blue Village",
+                "ro": "Bagno 72 Onda Blue Village",
+                "en": "Bagno 72 Onda Blue Village"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Raureifstellen im Schatten der Gebäude; die leeren Radwege verleiten zum schnellen Fahren, aber Vorsicht ist bei Kälte geboten.",
+                "hu": "Ügyeljen az épületek árnyékában előforduló zúzmarás, csúszós szakaszokra; az üres utak gyors tekerésre csábítanak, de hidegben kötelező az óvatosság.",
+                "ro": "Atenție la eventualele porțiuni cu polei la umbra clădirilor; pistele goale vă tentează să mergeți repede, dar prudența este obligatorie pe frig.",
+                "en": "Watch out for any frosty patches in the shadows of buildings; empty cycle paths tempt you to ride fast, but caution is mandatory in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 76 Kamoke Beach",
+                "hu": "Bagno 76 Kamoke Beach",
+                "ro": "Bagno 76 Kamoke Beach",
+                "en": "Bagno 76 Kamoke Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Rückfahrt im Dunkeln Ihre Reflektoren; der Sonnenuntergang ist atemberaubend, aber danach sinken die Temperaturen extrem schnell ab.",
+                "hu": "A sötétben való visszaindulás előtt ellenőrizze a prizmákat; a naplemente lélegzetelállító, de utána a hőmérséklet rendkívül gyorsan zuhanni kezd.",
+                "ro": "Verificați reflectorizantele înainte de întoarcerea pe întuneric; apusul este uluitor, dar după aceea temperaturile scad extrem de repede.",
+                "en": "Check your reflectors before heading back in the dark; the sunset is breathtaking, but temperatures drop extremely quickly immediately afterward."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autóútja a hihetetlen Italia in Miniatura-nál kezdődik, amely fantasztikus reggeli kalandot kínál. A dél a San Giovanni Battista és a főplébánia történelmi nyugalmára összpontosít. Töltse a délutánt a város tengerparti energiájának megismerésével. Parkoljon le a Kamoke Beach közelében egy békés estéhez.",
         "ro": "Plimbarea dvs. cu mașina începe la incredibila Italia in Miniatura, oferind o aventură fantastică de dimineață. Prânzul se concentrează pe seninătatea istorică a lui San Giovanni Battista. Petreceți după-amiaza trecând la energia de coastă a orașului. Parcați lângă plajă pentru a vă bucura de o seară pașnică.",
         "en": "Your drive begins at the incredible Italia in Miniatura, offering a fantastic morning adventure. Midday shifts focus to the historical serenity of San Giovanni Battista and the main parish. Spend your afternoon transitioning to the coastal energy of the town. Park near Kamoke Beach to enjoy a peaceful coastal evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt bequem mit der Fahrt zum Miniaturpark, wo man bei Regen gut zwischen den überdachten Pavillons wechseln kann. Mittags bieten die Kirchen trockene kulturelle Erlebnisse ohne Parkplatzsorgen. Nachmittags genießt man den Ausblick auf das stürmische Meer aus der Wärme des Autos. Abends sorgen die Regentropfen auf der Windschutzscheibe für eine gemütliche Fahrt zum Dinner.",
+            "hu": "A nap kényelmesen indul az Italia in Miniatura parkban, ahol esőben is jól lehet mozogni a fedett pavilonok között. Délben a templomok nyújtanak száraz kulturális élményt, parkolási gondok nélkül. Délután az autó melegéből csodálhatjuk a viharos tenger látványát. Este a szélvédőn kopogó esőcseppek mellett hangulatos a gurulás a városi fényekben a vacsora felé.",
+            "ro": "Ziua începe confortabil cu o vizită la parcul de miniaturi, unde vă puteți deplasa ușor între pavilioanele acoperite. La prânz, bisericile oferă experiențe culturale uscate, fără griji privind parcarea. După-amiaza, admirați marea furtunoasă din căldura mașinii. Seara, picăturile de ploaie de pe parbriz creează o atmosferă primitoare în drum spre cină.",
+            "en": "The day starts comfortably with a drive to the miniature park, where you can easily move between covered pavilions during rain. At noon, the churches offer dry cultural experiences without parking worries. In the afternoon, enjoy the view of the stormy sea from the warmth of your car. Evening rain on the windshield creates a cozy atmosphere while driving to dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Italia in Miniatura",
+                "hu": "Italia in Miniatura",
+                "ro": "Italia in Miniatura",
+                "en": "Italia in Miniatura"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Indoor-Attraktionen und Museen auf dem Gelände, wenn es stark regnet; Parkplätze direkt am Eingang minimieren die Zeit im Freien.",
+                "hu": "Használja ki a területen található fedett attrakciókat és múzeumokat, ha erősen esik; a bejáratnál lévő parkolók minimalizálják a szabadban töltött időt.",
+                "ro": "Profitați de atracțiile interioare și de muzeele din incintă dacă plouă torențial; parcarea de lângă intrare minimizează timpul petrecut în aer liber.",
+                "en": "Take advantage of the indoor attractions and museums on the grounds if it rains heavily; parking right by the entrance minimizes time spent outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni Battista",
+                "hu": "San Giovanni Battista",
+                "ro": "San Giovanni Battista",
+                "en": "San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zur Kirche hält Sie trocken; bewundern Sie die Details der Innenausstattung, während draußen der Regen die Straßen reinigt.",
+                "hu": "Egy rövid sprint az autótól a templomig szárazon tartja Önt; csodálja meg a belső részleteket, miközben kint az eső mossa tisztára az utcákat.",
+                "ro": "Un sprint scurt de la mașină la biserică vă va menține uscat; admirați detaliile interiorului în timp ce afară ploaia curăță străzile orașului.",
+                "en": "A short sprint from the car to the church keeps you dry; admire the interior details while the rain outside washes the streets of the town clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Torre Pedrera",
+                "hu": "Torre Pedrera Plébániatemplom",
+                "ro": "Biserica Parohială Torre Pedrera",
+                "en": "Torre Pedrera Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen zu umgehen; die Kirche ist ein hervorragender Ort, um auf ein kurzes Nachlassen des Schauers zu warten.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt; a templom kiváló hely arra, hogy megvárja, amíg egy rövid időre eláll vagy csendesedik a zápor.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; biserica este un loc excelent pentru a aștepta până când aversa se mai potolește puțin.",
+                "en": "Park close to the entrance to avoid the rain; the church is an excellent place to wait until the shower lets up for a short while before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Belaburderla",
+                "hu": "Belaburderla",
+                "ro": "Belaburderla",
+                "en": "Belaburderla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die Küste direkt aus dem Fenster Ihres parkenden Autos; die Scheibenwischer sorgen für freie Sicht auf das Wetter-Spektakel.",
+                "hu": "Élvezze a tengerparti panorámát közvetlenül a parkoló autó ablakából; az ablaktörlők biztosítják a tiszta kilátást az izgalmas időjárási jelenségekre.",
+                "ro": "Bucurați-vă de panorama de pe coastă direct de la fereastra mașinii parcate; ștergătoarele asigură o vedere clară asupra spectacolului vremii.",
+                "en": "Enjoy the panoramic view of the coast directly from your parked car window; the wipers ensure a clear view of the exciting weather spectacle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 76 Kamoke Beach",
+                "hu": "Bagno 76 Kamoke Beach",
+                "ro": "Bagno 76 Kamoke Beach",
+                "en": "Bagno 76 Kamoke Beach"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto als Basisstation für Ihre Regenbekleidung dienen; ein kurzer Gang zum Wasser im Regen lohnt sich für die dramatischen Wellenfotos.",
+                "hu": "Használja az autót bázisként az esőruházata számára; egy rövid séta a vízhez az esőben megéri a drámai hullámokról készült fotók kedvéért.",
+                "ro": "Lăsați mașina să servească drept bază pentru hainele de ploaie; o scurtă plimbare până la apă merită pentru fotografiile cu valuri dramatice.",
+                "en": "Let the car serve as a base station for your rain gear; a quick walk to the water in the rain is worth it for the dramatic wave photos you can take."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt entspannt im beheizten Auto auf dem Weg zur Miniaturwelt. Mittags glänzt die Adria unter einem strahlend blauen Himmel, den man am besten bei einem kurzen Stopp am Strand genießt. Nachmittags sinkt die Temperatur merklich, doch die Fahrt zwischen den Sehenswürdigkeiten bleibt angenehm warm. Um 17:00 Uhr verabschiedet sich die Sonne und hinterlässt ein glühendes Licht am Horizont.",
+            "hu": "A téli reggel pihentetően indul a fűtött autóban, útban a miniatűr világ felé. Délben az Adria ragyog a szikrázó kék ég alatt, amit a legjobban egy rövid tengerparti megálló során élvezhetünk. Délután a hőmérséklet érezhetően csökken, de a látnivalók közötti út kellemesen meleg marad. 17:00-kor a nap elbúcsúzik, izzó fényt hagyva maga után a látóhatáron.",
+            "ro": "Dimineața de iarnă începe relaxat în mașina încălzită, în drum spre lumea miniaturilor. La prânz, Adriatica strălucește sub un cer albastru senin, admirat cel mai bine la o scurtă oprire pe plajă. După-amiaza temperatura scade simțitor, dar drumul între obiective rămâne plăcut. La ora 17:00, soarele își ia rămas bun, lăsând o lumină incandescentă.",
+            "en": "The winter morning starts relaxed in a heated car on the way to the miniature world. At noon, the Adriatic shines under a brilliant blue sky, best enjoyed during a quick beach stop. In the afternoon, the temperature drops noticeably, but the drive between sights remains pleasantly warm. At 5:00 PM, the sun says goodbye, leaving a glowing light on the horizon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Italia in Miniatura",
+                "hu": "Italia in Miniatura",
+                "ro": "Italia in Miniatura",
+                "en": "Italia in Miniatura"
+              },
+              "tip_5lang": {
+                "de": "Die klaren Wintertage bieten die schärfste Sicht auf die Modelle; nutzen Sie die beheizten Innenräume für Aufwärmpausen während Ihres Rundgangs.",
+                "hu": "A tiszta téli napok kínálják a legélesebb kilátást a makettekre; használja a fűtött belső tereket a felmelegedéshez a park bejárása közben.",
+                "ro": "Zilele senine de iarnă oferă cea mai clară vedere asupra modelelor; folosiți spațiile interioare încălzite pentru pauze de încălzire în timpul turului.",
+                "en": "Clear winter days offer the sharpest views of the models; use the heated indoor areas for warming-up breaks during your tour of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "San Giovanni Battista",
+                "hu": "San Giovanni Battista",
+                "ro": "San Giovanni Battista",
+                "en": "San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der Kälte draußen und der andächtigen Wärme im Kirchenschiff; die tiefstehende Sonne wirft lange Schatten durch die Fenster.",
+                "hu": "Élvezze a kinti hideg és a templomhajó áhítatos melege közötti kontrasztot; az alacsonyan járó nap hosszú, művészi árnyékokat vet az ablakokon keresztül.",
+                "ro": "Bucurați-vă de contrastul dintre frigul de afară și căldura pioasă din interiorul bisericii; soarele jos proiectează umbre lungi prin ferestre.",
+                "en": "Enjoy the contrast between the cold outside and the prayerful warmth inside the nave; the low sun casts long, artistic shadows through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Torre Pedrera",
+                "hu": "Torre Pedrera Plébániatemplom",
+                "ro": "Biserica Parohială Torre Pedrera",
+                "en": "Torre Pedrera Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Winterpause; das Auto bleibt auf dem Parkplatz warm, während Sie die spirituelle Stille der Kirche erkunden.",
+                "hu": "Ideális hely egy rövid téli szünethez; az autó meleg marad a parkolóban, miközben Ön felfedezi a templom spirituális és békés csendjét.",
+                "ro": "Un loc ideal pentru o scurtă pauză de iarnă; mașina rămâne caldă în parcare în timp ce explorați liniștea spirituală a bisericii locale.",
+                "en": "An ideal place for a short winter break; the car stays warm in the parking lot while you explore the spiritual and peaceful silence of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Belaburderla",
+                "hu": "Belaburderla",
+                "ro": "Belaburderla",
+                "en": "Belaburderla"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz für einen schnellen Blick auf das winterliche Meer; die kalte Brise ist herrlich erfrischend, wenn die Sitzheizung im Auto wartet.",
+                "hu": "Használja a parkolót egy gyors pillantásra a téli tengerre; a hideg szellő csodálatosan frissítő, ha tudja, hogy az ülésfűtés várja Önt az autóban.",
+                "ro": "Folosiți parcarea pentru o privire rapidă asupra mării de iarnă; briza rece este minunat de revigorantă când încălzirea în scaune vă așteaptă în mașină.",
+                "en": "Use the parking area for a quick look at the winter sea; the cold breeze is wonderfully refreshing when the seat heating is waiting for you in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno 76 Kamoke Beach",
+                "hu": "Bagno 76 Kamoke Beach",
+                "ro": "Bagno 76 Kamoke Beach",
+                "en": "Bagno 76 Kamoke Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang am leeren Strand ist ein Muss im Winter; danach ist es nur ein kurzer Weg zurück ins warme Auto für die Rückfahrt.",
+                "hu": "A naplemente az üres strandon kötelező látnivaló télen; utána csak egy rövid séta választja el a meleg autótól a hazaút megkezdése előtt.",
+                "ro": "Apusul pe plaja pustie este un must-see iarna; după aceea, este doar un drum scurt înapoi la mașina caldă pentru călătoria de întoarcere.",
+                "en": "The sunset on the empty beach is a must-see in winter; afterward, it is only a short walk back to the warm car for the journey home."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "A banyolesi reggel a helyi örökség felfedezésével kezdődik a régészeti múzeumban, majd a modern kulturális építészet felé vesszük az irányt. A délidő a művészetekre fókuszál, múzeumokkal és a nagyszerű városi színházzal. Délután a víz felé haladva egy békés, lassan hömpölygő tóra néző kilátóhoz érünk. A nap a pezsgő úszóklubnál zárul, ahol megpihenhet a történelmi olimpiai evezős vizek mellett.",
         "ro": "Dimineața în Banyoles începe cu o incursiune în moștenirea locală la muzeul arheologic, înainte de a merge spre arhitectura culturală modernă. Mijlocul zilei se concentrează pe arte, vizitând muzee specializate și marele teatru municipal. După-amiaza, vă veți îndrepta spre apă, ajungând la un punct de belvedere pașnic. Ziua se încheie la clubul de înot vibrant, unde vă puteți relaxa lângă apele istorice.",
         "en": "Morning in Banyoles begins with a deep dive into local heritage at the archaeological museum before strolling towards modern cultural architecture. Midday shifts focus to the arts, taking in specialized museums and the grand municipal theater. In the afternoon, you will head towards the water, arriving at a peaceful viewpoint overlooking the serene lake. Your day concludes at the vibrant swimming club, where you can unwind by the historic Olympic rowing waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in den geschützten Hallen des Archäologischen Museums, wo Sie der Geschichte Banyoles' nahekommen, ohne nass zu werden. Mittags bieten das Auditori und das Theater kulturelle Abwechslung unter festen Dächern, während Sie dem Prasseln des Regens lauschen. Am Nachmittag führt ein kurzer Weg zum Mirador, bevor Sie den Tag entspannt und trocken im Hallenbadbereich des Schwimmclubs ausklingen lassen. Abends spiegelt sich das gedämpfte Licht stimmungsvoll im regnerischen See.",
+            "hu": "Kezdje a napot a Régészeti Múzeum védett termeiben, ahol szárazon ismerkedhet meg a környék múltjával. Délben az Auditori és a színház kínál kulturális feltöltődést fedett tető alatt, miközben az eső kopogását hallgatja. Délután tegyen egy rövid sétát a kilátóhoz, majd zárja a napot a tóparti úszóklub fedett részlegében. Este a város fényei misztikusan csillannak meg a vizes aszfalton és a tó felszínén.",
+            "ro": "Începeți ziua în sălile protejate ale Muzeului Arheologic, unde puteți explora istoria locală fără a vă uda. La prânz, Auditoriul și teatrul oferă refugiu cultural sub acoperișuri sigure, în timp ce ascultați ropotul ploii. După-amiaza include o scurtă vizită la mirador, urmată de o relaxare binemeritată în zona acoperită a clubului de înot de pe malul lacului. Seara, luminile orașului se reflectă misterios în apa ploii.",
+            "en": "Start your day in the sheltered halls of the Archaeological Museum, exploring history while staying completely dry. At midday, the Auditorium and theater provide cultural enrichment under solid roofs as you listen to the rhythmic rain. In the afternoon, take a short walk to the viewpoint before ending the day at the indoor facilities of the swimming club. By evening, the city lights reflect atmospherically on the wet surfaces and the lake's misty mirror."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Arqueològic",
+                "hu": "Museu Arqueològic",
+                "ro": "Museu Arqueològic",
+                "en": "Museu Arqueològic"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Funde in den trockenen Ausstellungsräumen; das Museum ist der perfekte Ort, um den ersten Regenschauer bei faszinierender Geschichte abzuwarten.",
+                "hu": "Csodálja meg az antik leleteket a száraz kiállítótermekben; a múzeum tökéletes hely az első eső elől való meneküléshez a lenyűgöző történelem társaságában.",
+                "ro": "Admirați descoperirile antice în sălile de expoziție uscate; muzeul este locul perfect pentru a aștepta trecerea ploii în compania unei istorii fascinante.",
+                "en": "Admire ancient artifacts in the dry exhibition rooms; the museum is the perfect place to wait out the rain while immersed in fascinating local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori",
+                "hu": "Auditori",
+                "ro": "Auditori",
+                "en": "Auditori"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die moderne Architektur dieses Kulturraums, der Ihnen Schutz vor Wind und Wetter bietet; nutzen Sie die Zeit für eine Innenbesichtigung der Akustiksäle.",
+                "hu": "Élvezze e kulturális tér modern építészetét, amely menedéket nyújt a szél és az eső elől; használja ki az időt az akusztikus termek belső megtekintésére.",
+                "ro": "Bucurați-vă de arhitectura modernă a acestui spațiu cultural care oferă protecție împotriva vântului; folosiți timpul pentru o vizită în interiorul sălilor acustice.",
+                "en": "Enjoy the modern architecture of this cultural space, which provides excellent shelter from the wind; take the opportunity to see the impressive acoustic halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Mobles Terrades",
+                "hu": "Mobles Terrades",
+                "ro": "Mobles Terrades",
+                "en": "Mobles Terrades"
+              },
+              "tip_5lang": {
+                "de": "Dieser einzigartige Ausstellungsort im Innenraum bewahrt Sie vor Nässe, während Sie lokales Handwerk bestaunen; ideal für eine längere Pause bei starkem Regen.",
+                "hu": "Ez az egyedülálló beltéri kiállítóhely megóvja a nedvességtől, miközben a helyi mesterségeket csodálja; ideális egy hosszabb pihenőre erős esőzés esetén.",
+                "ro": "Acest spațiu expozițional interior vă protejează de umezeală în timp ce admirați meșteșugurile locale; ideal pentru o pauză prelungită în caz de ploaie torențială.",
+                "en": "This unique indoor exhibition space keeps you dry while you admire local craftsmanship; it is an ideal spot for a longer break during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre Municipal de Banyoles",
+                "hu": "Teatre Municipal de Banyoles",
+                "ro": "Teatre Municipal de Banyoles",
+                "en": "Teatre Municipal de Banyoles"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das prächtige Foyer dieses historischen Gebäudes, das eine trockene Alternative zum Stadtspaziergang bietet; achten Sie auf die kunstvollen Details im Inneren.",
+                "hu": "Fedezze fel e történelmi épület pompás előcsarnokát, amely száraz alternatívát kínál a városi sétához; ügyeljen a belső tér művészi részleteire.",
+                "ro": "Explorați holul magnific al acestei clădiri istorice, care oferă o alternativă uscată la plimbarea prin oraș; observați detaliile artistice din interior.",
+                "en": "Explore the magnificent foyer of this historic building, offering a dry alternative to walking the streets; pay attention to the artistic interior details."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Joan de Palau",
+                "hu": "Mirador Joan de Palau",
+                "ro": "Mirador Joan de Palau",
+                "en": "Mirador Joan de Palau"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Regentropfen auf den See fallen; die Sicht ist oft mystisch, aber seien Sie vorsichtig auf den bei Nässe rutschigen Holzwegen.",
+                "hu": "Nézze meg, hogyan hullanak az esőcseppek a tóra; a kilátás ilyenkor gyakran misztikus, de legyen óvatos a nedvesen csúszós fapallókon.",
+                "ro": "Priviți cum cad picăturile de ploaie pe lac; priveliștea este adesea mistică, dar aveți grijă pe podețele de lemn care devin alunecoase la umezeală.",
+                "en": "Watch the raindrops fall onto the lake; the view is often mystical in the rain, but be careful on the wooden paths which become slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina del Club Natació Banyoles",
+                "hu": "Piscina del Club Natació Banyoles",
+                "ro": "Piscina del Club Natació Banyoles",
+                "en": "Piscina del Club Natació Banyoles"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im beheizten Innenbereich oder unter dem Vordach des Clubs; ein Handtuch und trockene Kleidung sind nach dem Spaziergang Gold wert.",
+                "hu": "Zárja a napot a klub fűtött belső terében vagy az előtető alatt; egy törölköző és száraz ruha aranyat ér a vizes séta után.",
+                "ro": "Încheiați ziua în zona interioară încălzită sau sub copertina clubului; un prosop și haine uscate vor fi esențiale după plimbarea prin ploaie.",
+                "en": "End your day in the heated indoor area or under the club's awning; a towel and dry clothes will feel wonderful after your rainy walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei einem Besuch im Archäologischen Museum, wo die Kälte draußen bleibt. Mittags wärmen Sie sich in den Kulturzentren auf, wenn die tiefstehende Sonne den See in goldenes Licht taucht. Planen Sie den Besuch des Mirador unbedingt vor 17:00 Uhr ein, um den frühen Sonnenuntergang über dem Wasser zu erleben. Abends kehren Sie in die behagliche Wärme des Schwimmclubs zurück, während die Temperaturen draußen spürbar sinken.",
+            "hu": "Élvezze a friss téli levegőt a Régészeti Múzeumban, ahol a hideg a falakon kívül marad. Napközben melegedjen fel a kulturális központokban, miközben az alacsonyan járó nap arany fénybe vonja a tavat. A kilátó látogatását mindenképpen 17:00 előttre tervezze, hogy elcsípje a korai naplementét a víz felett. Este térjen vissza az úszóklub kellemes melegébe, ahogy a kinti hőmérséklet érezhetően zuhanni kezd.",
+            "ro": "Bucurați-vă de aerul curat de iarnă cu o vizită la Muzeul Arheologic, unde frigul rămâne afară. La prânz, încălziți-vă în centrele culturale în timp ce soarele jos scaldă lacul în lumină aurie. Planificați vizita la mirador neapărat înainte de ora 17:00 pentru a surprinde apusul timpuriu peste apă. Seara, retrageți-vă în căldura confortabilă a clubului de înot, pe măsură ce temperaturile de afară scad brusc.",
+            "en": "Enjoy the crisp winter air with a visit to the Archaeological Museum, keeping the chill at bay indoors. During midday, warm up in the cultural centers while the low sun bathes the lake in golden light. Be sure to schedule your viewpoint visit before 5:00 PM to catch the early winter sunset over the water. In the evening, retreat to the cozy warmth of the swimming club as temperatures drop significantly outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Arqueològic",
+                "hu": "Museu Arqueològic",
+                "ro": "Museu Arqueològic",
+                "en": "Museu Arqueològic"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Räume, um tief in die katalanische Geschichte einzutauchen; die dicken Mauern bieten hervorragenden Schutz vor der klaren Winterkälte.",
+                "hu": "Használja ki a fűtött tereket a katalán történelemben való elmélyüléshez; a vastag falak kiváló védelmet nyújtanak a metsző téli hideg ellen.",
+                "ro": "Profitati de spațiile încălzite pentru a aprofunda istoria catalană; zidurile groase oferă o protecție excelentă împotriva frigului tăios de iarnă.",
+                "en": "Take advantage of the heated spaces to dive deep into Catalan history; the thick walls provide excellent protection from the biting winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori",
+                "hu": "Auditori",
+                "ro": "Auditori",
+                "en": "Auditori"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause in angenehmer Wärme; die moderne Isolierung sorgt dafür, dass Sie nach dem Marsch durch die Kälte schnell auftauen.",
+                "hu": "Ideális hely egy pihenőre a kellemes melegben; a modern szigetelés biztosítja, hogy a hidegben tett séta után gyorsan felengedjen.",
+                "ro": "Un loc ideal pentru o pauză la o căldură plăcută; izolația modernă garantează că vă veți încălzi rapid după plimbarea prin frig.",
+                "en": "An ideal place for a break in pleasant warmth; the modern insulation ensures you will thaw out quickly after your walk through the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Mobles Terrades",
+                "hu": "Mobles Terrades",
+                "ro": "Mobles Terrades",
+                "en": "Mobles Terrades"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das Holzhandwerk im wohltemperierten Inneren; die warme Atmosphäre des Ausstellungsraums lädt zum längeren Verweilen an kurzen Wintertagen ein.",
+                "hu": "Csodálja meg a fafaragásokat a jól temperált belső térben; a kiállítóterem meleg hangulata hosszabb maradásra csábít a rövid téli napokon.",
+                "ro": "Admirați meșteșugul lemnului în interiorul bine temperat; atmosfera caldă a sălii de expoziție vă invită să zăboviți mai mult în zilele scurte de iarnă.",
+                "en": "Admire the woodwork in the well-tempered interior; the warm atmosphere of the showroom invites you to linger longer during short winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre Municipal de Banyoles",
+                "hu": "Teatre Municipal de Banyoles",
+                "ro": "Teatre Municipal de Banyoles",
+                "en": "Teatre Municipal de Banyoles"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Theater am frühen Nachmittag, um die prachtvolle Innenausstattung ohne Winterzugluft zu genießen; ein Schal ist für den Übergang ratsam.",
+                "hu": "Látogasson el a színházba kora délután, hogy téli huzat nélkül élvezhesse a pompás belsőt; a be- és kilépéshez egy sál erősen ajánlott.",
+                "ro": "Vizitați teatrul după-amiaza devreme pentru a vă bucura de interiorul splendid fără curentul rece de iarnă; o eșarfă este recomandată pentru tranziție.",
+                "en": "Visit the theater in the early afternoon to enjoy the splendid interior without winter drafts; a scarf is highly recommended for moving between locations."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Joan de Palau",
+                "hu": "Mirador Joan de Palau",
+                "ro": "Mirador Joan de Palau",
+                "en": "Mirador Joan de Palau"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17 Uhr; die tiefstehende Wintersonne erzeugt fantastische Lichtreflexe auf dem ruhigen, kalten Wasser des Sees.",
+                "hu": "Érkezzen pontosan a 17 órai naplementére; az alacsonyan járó téli nap fantasztikus fényvisszaverődéseket kelt a tó nyugodt, hideg vizén.",
+                "ro": "Sosiți exact la apusul de la ora 17; soarele jos de iarnă creează reflexii fantastice pe apa liniștită și rece a lacului.",
+                "en": "Arrive exactly for the 5 PM sunset; the low winter sun creates fantastic light reflections on the calm, cold surface of the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina del Club Natació Banyoles",
+                "hu": "Piscina del Club Natació Banyoles",
+                "ro": "Piscina del Club Natació Banyoles",
+                "en": "Piscina del Club Natació Banyoles"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort zum Aufwärmen nach dem Aufenthalt im Freien; genießen Sie den Blick auf den winterlichen See durch die großen Panoramafenster.",
+                "hu": "A tökéletes hely a felmelegedéshez a szabadtéri tartózkodás után; élvezze a téli tó látványát a nagy panorámaablakokon keresztül.",
+                "ro": "Locul perfect pentru a vă încălzi după timpul petrecut afară; bucurați-vă de vederea spre lacul hibernal prin ferestrele panoramice mari.",
+                "en": "The perfect place to warm up after spending time outdoors; enjoy the view of the wintry lake through the large panoramic windows."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpártúráját a lenyűgöző neolitikus településen közvetlenül a tóparton, magába szívva az ősi történelmet. Délben nyugodt természetes hegyfokok mentén teker, mint a Punta Cuaranya, élvezve az érintetlen partszakaszokat. A délutáni túra a víztől eltávolodva les Estunes varázslatos sziklaképződményeihez vezet. Zárja aktív napját egy csendes vidéki templomnál, mielőtt egy panorámás kilátóról csodálná meg a naplementét.",
         "ro": "Începeți călătoria cu bicicleta la uimitoarea așezare neolitică de pe malul lacului, absorbind istoria antică. Până la prânz, veți pedala prin promontorii naturale liniștite, bucurându-vă de poteci imaculate. Plimbările de după-amiază vă duc departe de apă, către formațiunile stâncoase fermecătoare din les Estunes. Încheiați ziua activă vizitând o biserică liniștită, înainte de a admira culorile apusului de la un punct de belvedere.",
         "en": "Kick off your cycling journey at the astonishing Neolithic settlement right on the lakeside, soaking in ancient history before mounting your bike. By midday, you'll pedal through tranquil natural promontories like Punta Cuaranya and Freixenet, enjoying pristine shoreline paths. Afternoon rides take you away from the water to the enchanting rock formations of les Estunes. Wrap up your active day by visiting a quiet country church before witnessing sunset colors from a panoramic viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zum neolithischen Dorf La Draga, wo die Pfade bei Regen rutschig sein können. Mittags erkunden Sie die Uferzonen und Aussichtspunkte, wobei Sie die Fahrtzeiten zwischen den Regenschauern kurz halten sollten. Am Nachmittag bieten die Felsspalten von Les Estunes natürlichen Schutz vor dem Wasser. Denken Sie an wasserfeste Kleidung und Schutzbleche, um den Tag trotz des nassen Wetters sicher und halbwegs trocken auf zwei Rädern zu genießen.",
+            "hu": "Kerekezzen óvatosan La Draga neolitikus falujához, ahol az ösvények esőben csúszósak lehetnek. Napközben fedezze fel a tóparti pontokat, rövidre fogva az utazási időt a záporok között. Délután Les Estunes sziklahasadékai természetes menedéket nyújtanak az égi áldás elől. Ügyeljen a vízálló ruházatra és a sárvédőkre, hogy a nedves idő ellenére is biztonságban és viszonylag szárazon maradjon.",
+            "ro": "Pedalați cu atenție spre satul neolitic La Draga, unde potecile pot fi alunecoase pe ploaie. În timpul zilei, explorați punctele de pe malul lacului, scurtând timpul de deplasare între averse. După-amiaza, fisurile stâncoase de la Les Estunes oferă adăpost natural împotriva ploii. Nu uitați de hainele impermeabile și de apărători pentru a rămâne în siguranță și relativ uscat pe două roți.",
+            "en": "Cycle carefully to the Neolithic village of La Draga, where paths can become slippery in the rain. During the day, explore the lakeside spots, keeping travel times short between showers. In the afternoon, the rocky crevices of Les Estunes provide natural shelter from the elements. Make sure to wear waterproof gear and use mudguards to stay safe and relatively dry on two wheels despite the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Poblat Neolític de La Draga",
+                "hu": "Poblat Neolític de La Draga",
+                "ro": "Poblat Neolític de La Draga",
+                "en": "Poblat Neolític de La Draga"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die rekonstruierten Hütten, die auch bei Regen Schutz bieten; die feuchte Erde verleiht der prähistorischen Stätte einen besonders authentischen Geruch.",
+                "hu": "Látogassa meg a rekonstruált kunyhókat, amelyek esőben is védelmet nyújtanak; a nedves föld különlegesen hiteles illatot kölcsönöz a történelem előtti helyszínnek.",
+                "ro": "Vizitați colibele reconstruite care oferă protecție chiar și pe ploaie; pământul umed conferă sitului preistoric un miros deosebit de autentic.",
+                "en": "Visit the reconstructed huts which offer shelter even in the rain; the damp earth gives the prehistoric site a uniquely authentic atmosphere and scent."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Cuaranya",
+                "hu": "Punta Cuaranya",
+                "ro": "Punta Cuaranya",
+                "en": "Punta Cuaranya"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Halt für einen schnellen Blick auf den aufgewühlten See; achten Sie beim Absteigen auf den rutschigen Untergrund direkt am Wasserufer.",
+                "hu": "Szép megálló egy gyors pillantásra a felkorbácsolt tóra; a leszálláskor ügyeljen a közvetlenül a vízparton található csúszós talajra.",
+                "ro": "O oprire frumoasă pentru o privire rapidă asupra lacului agitat; aveți grijă la coborârea de pe bicicletă pe solul alunecos de pe malul apei.",
+                "en": "A beautiful stop for a quick look at the choppy lake; be careful when dismounting your bike as the ground near the water's edge can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Freixenet",
+                "hu": "Punta Freixenet",
+                "ro": "Punta Freixenet",
+                "en": "Punta Freixenet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bäume als leichten Regenschutz, während Sie die Aussicht genießen; fahren Sie auf den Uferwegen besonders langsam, um Spritzwasser zu vermeiden.",
+                "hu": "Használja a fákat enyhe esővédőként, miközben élvezi a kilátást; a parti utakon haladjon lassan, hogy elkerülje a felcsapódó vizet.",
+                "ro": "Folosiți copacii ca protecție ușoară împotriva ploii în timp ce admirați priveliștea; pedalați încet pe potecile de pe mal pentru a evita stropirea.",
+                "en": "Use the trees as a light rain cover while enjoying the view; ride slowly on the lakeside paths to avoid splashing water from puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "les Estunes",
+                "hu": "les Estunes",
+                "ro": "les Estunes",
+                "en": "les Estunes"
+              },
+              "tip_5lang": {
+                "de": "Die tiefen Felsspalten sind der perfekte Ort, um einen starken Schauer trocken zu überstehen; die moosigen Steine sind jedoch bei Nässe extrem glatt.",
+                "hu": "A mély sziklahasadékok tökéletesek egy erős zápor száraz átvészeléséhez; a mohás kövek azonban nedvesen rendkívül csúszósak.",
+                "ro": "Fisurile adânci în stâncă sunt locul perfect pentru a trece uscat de o aversă puternică; totuși, pietrele cu mușchi sunt extrem de alunecoase la umezeală.",
+                "en": "The deep rocky crevices are the perfect spot to stay dry during a heavy shower; however, the mossy stones are extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Magdalena de Noves",
+                "hu": "Església de Santa Magdalena de Noves",
+                "ro": "Església de Santa Magdalena de Noves",
+                "en": "Església de Santa Magdalena de Noves"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche bietet einen friedlichen Rückzugsort vor dem Regen; nutzen Sie die Zeit für eine meditative Pause im trockenen Innenraum des Gotteshauses.",
+                "hu": "A kis templom békés menedéket nyújt az eső elől; használja ki az időt egy meditatív pihenőre a templom száraz belső terében.",
+                "ro": "Mica biserică oferă un refugiu liniștit împotriva ploii; folosiți timpul pentru o pauză meditativă în interiorul uscat al lăcașului de cult.",
+                "en": "This small church provides a peaceful retreat from the rain; use the time for a meditative break inside the dry interior of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Joan de Palau",
+                "hu": "Mirador Joan de Palau",
+                "ro": "Mirador Joan de Palau",
+                "en": "Mirador Joan de Palau"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den verregneten See, bevor es zurückgeht; trocknen Sie die Bremsen Ihres Fahrrads nach der Fahrt gründlich ab, um Korrosion zu vermeiden.",
+                "hu": "Egy utolsó pillantás az esős tóra a visszatérés előtt; az út után alaposan szárítsa meg a kerékpár fékeit a korrózió elkerülése érdekében.",
+                "ro": "O ultimă privire asupra lacului ploios înainte de întoarcere; după cursă, uscați bine frânele bicicletei pentru a evita coroziunea.",
+                "en": "One last look at the rainy lake before heading back; make sure to dry your bike's brakes thoroughly after the ride to prevent corrosion."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Banyoles im Winter auf dem Fahrrad bei klarer, kalter Luft. Starten Sie dick eingepackt am neolithischen Dorf und genießen Sie die freie Sicht über den winterlichen See. Mittags erreichen Sie die abgelegeneren Kirchen und Aussichtspunkte, wobei die Bewegung Sie warm hält. Achten Sie auf die Uhrzeit: Um 17:00 Uhr verschwindet die Sonne, und es wird schlagartig kälter. Ein heißer Tee in der Thermoskanne ist der ideale Begleiter für diese sportliche Winterrunde.",
+            "hu": "Tapasztalja meg Banyoles téli arcát kerékpáron, a tiszta, hideg levegőben. Induljon rétegesen öltözve a neolitikus falutól, és élvezze a zavartalan kilátást a téli tóra. Napközben érje el a távolabbi templomokat és kilátókat, a mozgás pedig segít melegen tartani. Figyeljen az időre: 17:00-kor lebukik a nap, és hirtelen lehűl a levegő. Egy termosz forró tea ideális kísérője ennek a sportos téli körnek.",
+            "ro": "Experimentați fața de iarnă a orașului Banyoles pe bicicletă, în aerul curat și rece. Porniți bine îmbrăcat de la satul neolitic și bucurați-vă de vederea neobstrucționată asupra lacului hibernal. În timpul zilei, ajungeți la bisericile și punctele de belvedere mai îndepărtate, mișcarea ajutându-vă să rămâneți cald. Atenție la oră: la 17:00 soarele apune și se face brusc mai frig. Un termos cu ceai fierbinte este partenerul ideal.",
+            "en": "Experience the winter side of Banyoles on a bike in the crisp, cold air. Start layered up at the Neolithic village and enjoy unobstructed views across the wintry lake. During the day, reach the more distant churches and viewpoints, with the movement helping you stay warm. Watch the clock: at 5:00 PM the sun disappears and it gets cold instantly. A thermos of hot tea is the ideal companion for this active winter loop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Poblat Neolític de La Draga",
+                "hu": "Poblat Neolític de La Draga",
+                "ro": "Poblat Neolític de La Draga",
+                "en": "Poblat Neolític de La Draga"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt die Strohdächer der Hütten silbrig glänzen; ziehen Sie beim Rundgang Handschuhe an, da die Kälte hier am Seeufer besonders zieht.",
+                "hu": "A téli fényben a kunyhók nádtetői ezüstösen csillognak; a séta során viseljen kesztyűt, mert a hideg itt a tóparton különösen metsző.",
+                "ro": "Lumina de iarnă face ca acoperișurile de stuf ale colibelor să strălucească argintiu; purtați mănuși în timpul vizitei, deoarece frigul este pătrunzător pe malul lacului.",
+                "en": "The winter light makes the thatched roofs of the huts shimmer like silver; wear gloves during your tour as the chill is especially sharp here by the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Cuaranya",
+                "hu": "Punta Cuaranya",
+                "ro": "Punta Cuaranya",
+                "en": "Punta Cuaranya"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Wasser, die man nur im Winter erlebt; halten Sie sich nicht zu lange unbewegt auf, um den Körper auf Betriebstemperatur zu halten.",
+                "hu": "Élvezze a vízparti csendet, amelyet csak télen tapasztalhat meg; ne álljon meg túl hosszú időre, hogy testhőmérséklete ne essen le a hidegben.",
+                "ro": "Bucurați-vă de liniștea de pe malul apei, care poate fi experimentată doar iarna; nu staționați prea mult timp pentru a vă menține temperatura corpului.",
+                "en": "Enjoy the lakeside silence that can only be experienced in winter; don't stay still for too long to keep your body temperature up in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Freixenet",
+                "hu": "Punta Freixenet",
+                "ro": "Punta Freixenet",
+                "en": "Punta Freixenet"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Fotopunkt für den tiefblauen Winterhimmel; achten Sie auf Raureif auf den Wegen, der die Fahrt am Morgen rutschig machen kann.",
+                "hu": "Látványos fotópont a mélykék téli égbolthoz; ügyeljen a reggeli zúzmarára az utakon, amely csúszóssá teheti a közlekedést.",
+                "ro": "Un punct foto spectaculos sub cerul albastru intens de iarnă; atenție la bruma de pe poteci, care poate face deplasarea alunecoasă dimineața.",
+                "en": "A spectacular photo spot under the deep blue winter sky; watch out for hoarfrost on the paths, which can make your morning ride quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "les Estunes",
+                "hu": "les Estunes",
+                "ro": "les Estunes",
+                "en": "les Estunes"
+              },
+              "tip_5lang": {
+                "de": "Der Wald wirkt im Winter fast verzaubert und still; besuchen Sie diesen Ort am Mittag, wenn die Sonne am höchsten steht und durch die kahlen Zweige dringt.",
+                "hu": "Az erdő télen szinte varázslatos és néma; látogassa meg ezt a helyet délben, amikor a nap a legmagasabban jár és áthatol a kopár ágak között.",
+                "ro": "Pădurea pare aproape fermecată și tăcută iarna; vizitați acest loc la prânz, când soarele este cel mai sus și pătrunde printre ramurile golașe.",
+                "en": "The forest seems almost enchanted and silent in winter; visit this spot at midday when the sun is highest and penetrates through the bare branches."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Magdalena de Noves",
+                "hu": "Església de Santa Magdalena de Noves",
+                "ro": "Església de Santa Magdalena de Noves",
+                "en": "Església de Santa Magdalena de Noves"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche ist ein tolles Etappenziel, um kurz dem Wind zu entfliehen; das alte Gemäuer speichert die Kälte, wirkt aber sehr atmosphärisch.",
+                "hu": "A kis templom remek úti cél, hogy rövid időre elmeneküljön a szél elől; a régi falak tartják a hideget, de rendkívül hangulatosak.",
+                "ro": "Mica biserică este o destinație excelentă pentru a scăpa scurt de vânt; zidurile vechi păstrează frigul, dar sunt extrem de atmosferice.",
+                "en": "This small church is a great destination to escape the wind briefly; the old walls hold the cold but provide a very atmospheric setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Joan de Palau",
+                "hu": "Mirador Joan de Palau",
+                "ro": "Mirador Joan de Palau",
+                "en": "Mirador Joan de Palau"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für das letzte Tageslicht; machen Sie sich sofort nach dem Sonnenuntergang auf den Rückweg, bevor die Nachtkälte richtig zuschlägt.",
+                "hu": "Tökéletes hely az utolsó nappali fényekhez; a naplemente után azonnal induljon vissza, mielőtt az éjszakai fagy igazán lecsapna.",
+                "ro": "Locul perfect pentru ultimele lumini ale zilei; porniți înapoi imediat după apus, înainte ca frigul nopții să se instaleze serios.",
+                "en": "The perfect spot for the last daylight; head back immediately after sunset before the night chill really sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós túrája a tó északi kilátóiból nyíló lenyűgöző reggeli panorámával kezdődik, amely befogja az alattunk elterülő hatalmas víztömeget. Késő délelőtt egy rövid utazás a dombtetőn lévő romokhoz vezet, majd a neolitikus faluba látogatunk. A délután egy misztikus sétát tartogat az erdő híres mésztufa hasadékai között. Végül egy békés vidéki autózás csendes elmélkedést kínál egy történelmi kőtemplomnál.",
         "ro": "Turul dvs. cu mașina începe cu priveliști ample de dimineață de la punctele de belvedere nordice. Până dimineața târziu, un drum scurt vă duce la ruinele de pe deal înainte de a explora preistoria în satul neolitic. După-amiaza vă rezervă o plimbare mistică prin faimoasele crăpături de travertin din pădurea locală. În cele din urmă, o plimbare liniștită în mediul rural vă permite să vizitați o biserică istorică de piatră.",
         "en": "Your driving tour begins with sweeping morning views from the northern lake lookouts, capturing the vastness of the water below. By late morning, a short drive brings you to the elevated hilltop ruins before diving into deep prehistory at the Neolithic village. The afternoon features a mystical walk through the famed travertine cracks of the local forest area. Finally, a peaceful drive into the countryside allows for quiet contemplation at a historical stone church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort des Autos, um die Aussichtspunkte rund um den See zu erkunden, während der Regen gegen die Scheiben trommelt. Der Nebel über dem Wasser schafft am Vormittag eine mystische Stimmung an den Miradors. Mittags erreichen Sie La Draga und Les Estunes, wo Sie nur kurze Wege im Freien zurücklegen müssen. Bleiben Sie flexibel und nutzen Sie die trockenen Phasen für kurze Erkundungen, bevor Sie sich wieder in die Wärme Ihres Fahrzeugs zurückziehen.",
+            "hu": "Használja ki az autó kényelmét a tó körüli kilátók felfedezéséhez, miközben az eső a szélvédőn kopog. A víz feletti köd délelőtt misztikus hangulatot teremt a Miradoroknál. Napközben látogasson el La Draga és Les Estunes helyszíneire, ahol csak rövid utat kell a szabadban megtennie. Maradjon rugalmas, és használja ki a szárazabb időszakokat a felfedezésre, mielőtt visszatérne a kocsiba.",
+            "ro": "Folosiți confortul mașinii pentru a explora punctele de belvedere din jurul lacului în timp ce ploaia bate în parbriz. Ceața de deasupra apei creează o atmosferă mistică la miradori dimineața. În timpul zilei, vizitați La Draga și Les Estunes, unde aveți de parcurs doar distanțe scurte afară. Rămâneți flexibil și profitați de perioadele fără ploaie pentru scurte explorări.",
+            "en": "Use the comfort of your car to explore the viewpoints around the lake while the rain drums against the windows. The mist over the water creates a mystical atmosphere at the lookouts in the morning. During the day, visit La Draga and Les Estunes, where you only need to walk short distances outdoors. Stay flexible and take advantage of any dry spells for exploration before retreating back to your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador de l'Estany",
+                "hu": "Mirador de l'Estany",
+                "ro": "Mirador de l'Estany",
+                "en": "Mirador de l'Estany"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem Auto oder unter einem Regenschirm; der See wirkt im Regen wie ein grauer Spiegel von unglaublicher Ruhe.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból vagy egy esernyő alól; a tó esőben olyan, mint egy hihetetlen nyugalmú szürke tükör.",
+                "ro": "Bucurați-vă de panoramă direct din mașină sau de sub o umbrelă; lacul pe ploaie pare o oglindă gri de o liniște incredibilă.",
+                "en": "Enjoy the panoramic view directly from your car or from under an umbrella; the lake in the rain looks like a gray mirror of incredible stillness."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Torre del Rem",
+                "hu": "Mirador de la Torre del Rem",
+                "ro": "Mirador de la Torre del Rem",
+                "en": "Mirador de la Torre del Rem"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Turm lohnt sich für die Sicht; achten Sie auf Pfützen auf dem unbefestigten Boden direkt neben dem Fahrzeug.",
+                "hu": "Egy rövid futás a parkolótól a toronyig megéri a látványért; ügyeljen a tócsákra a közvetlenül a jármű melletti burkolatlan talajon.",
+                "ro": "Un scurt sprint de la parcare la turn merită pentru priveliște; atenție la bălțile de pe solul neamenajat de lângă vehicul.",
+                "en": "A short dash from the parking spot to the tower is worth it for the view; watch out for puddles on the unpaved ground right next to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de Sant Martirià",
+                "hu": "Puig de Sant Martirià",
+                "ro": "Puig de Sant Martirià",
+                "en": "Puig de Sant Martirià"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet tolle Ausblicke, auch wenn es regnet; die Wolken hängen hier oft tief, was dem Hügel ein dramatisches Aussehen verleiht.",
+                "hu": "A felfelé vezető út nagyszerű kilátást nyújt esőben is; a felhők itt gyakran alacsonyan szállnak, ami drámai megjelenést kölcsönöz a dombnak.",
+                "ro": "Drumul spre culme oferă vederi minunate chiar și pe ploaie; norii stau adesea jos aici, dând dealului un aspect dramatic.",
+                "en": "The drive up offers great views even in the rain; clouds often hang low here, giving the hill a dramatic and moody appearance."
+              }
+            },
+            {
+              "name": {
+                "de": "Poblat Neolític de La Draga",
+                "hu": "Poblat Neolític de La Draga",
+                "ro": "Poblat Neolític de La Draga",
+                "en": "Poblat Neolític de La Draga"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; die rekonstruierten Hütten bieten ein trockenes Dach für eine Zeitreise in die Steinzeit.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a rekonstruált kunyhók száraz tetőt kínálnak egy kőkorszaki időutazáshoz.",
+                "ro": "Parcați cât mai aproape de intrare; colibele reconstruite oferă un acoperiș uscat pentru o călătorie în timp în epoca pietrei.",
+                "en": "Park as close to the entrance as possible; the reconstructed huts provide a dry roof for your journey back to the Stone Age."
+              }
+            },
+            {
+              "name": {
+                "de": "les Estunes",
+                "hu": "les Estunes",
+                "ro": "les Estunes",
+                "en": "les Estunes"
+              },
+              "tip_5lang": {
+                "de": "Die Felsspalten sind ein natürlicher Regenschutz; lassen Sie nasse Jacken im Kofferraum, damit die Autositze während der Weiterfahrt trocken bleiben.",
+                "hu": "A sziklahasadékok természetes esővédők; a nedves kabátokat hagyja a csomagtartóban, hogy az autóülések szárazak maradjanak a továbbhaladáskor.",
+                "ro": "Fisurile stâncoase sunt protecții naturale împotriva ploii; lăsați jachetele ude în portbagaj pentru ca scaunele mașinii să rămână uscate.",
+                "en": "The rock crevices act as natural rain shelters; leave wet jackets in the trunk to keep your car seats dry during the rest of the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Magdalena de Noves",
+                "hu": "Església de Santa Magdalena de Noves",
+                "ro": "Església de Santa Magdalena de Noves",
+                "en": "Església de Santa Magdalena de Noves"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zur Kirche führt durch eine wunderschöne, regenverhangene Landschaft; nutzen Sie den Besuch für einen letzten Moment der Ruhe im Trockenen.",
+                "hu": "A templomhoz vezető út csodálatos, eső áztatta tájon át vezet; használja ki a látogatást egy utolsó csendes pillanatra a száraz belső térben.",
+                "ro": "Drumul spre biserică trece printr-un peisaj minunat sub ploaie; profitați de vizită pentru un ultim moment de liniște la adăpost.",
+                "en": "The drive to the church passes through a beautiful rainy landscape; use the visit for one last quiet moment in the dry interior."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour rund um den Banyoles-See bietet spektakuläre Fernsichten dank der klaren Luft. Besuchen Sie die Miradors am Vormittag, wenn der Raureif die Landschaft verzaubert. Mittags erkunden Sie die historischen Stätten, wobei Sie die Heizung Ihres Autos zwischen den Stopps genießen können. Achten Sie darauf, die Bergstraßen vor Einbruch der Dunkelheit um 17:00 Uhr zu verlassen, da die Temperaturen auf den Höhen schnell unter den Gefrierpunkt sinken können.",
+            "hu": "Egy téli autós körút a Banyoles-tó körül látványos távoli kilátásokat kínál a tiszta levegőnek köszönhetően. Látogassa meg a kilátókat délelőtt, amikor a zúzmara varázslatossá teszi a tájat. Napközben fedezze fel a történelmi helyszíneket, a megállók között élvezve az autó fűtését. Ügyeljen arra, hogy a hegyi utakat sötétedés előtt, 17:00-ig hagyja el, mert a magaslatokon a hőmérséklet gyorsan fagypont alá eshet.",
+            "ro": "O excursie auto de iarnă în jurul lacului Banyoles oferă vederi spectaculoase la distanță datorită aerului curat. Vizitați miradorii dimineața, când bruma transformă peisajul. În timpul zilei, explorați siturile istorice, bucurându-vă de căldura mașinii între opriri. Aveți grijă să părăsiți drumurile de munte înainte de lăsarea întunericului, la ora 17:00, deoarece temperaturile pot scădea rapid sub zero.",
+            "en": "A winter driving tour around Lake Banyoles offers spectacular distant views thanks to the exceptionally clear air. Visit the lookouts in the morning when hoarfrost enchants the landscape. During the day, explore the historical sites while enjoying the car's heater between stops. Be sure to leave the mountain roads before darkness falls at 5:00 PM, as temperatures on the heights can drop below freezing very quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador de l'Estany",
+                "hu": "Mirador de l'Estany",
+                "ro": "Mirador de l'Estany",
+                "en": "Mirador de l'Estany"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht bis zu den Pyrenäen ist im Winter oft kristallklar; genießen Sie den Anblick kurz im Freien und wärmen Sie sich dann im Auto wieder auf.",
+                "hu": "A kilátás a Pireneusokig télen gyakran kristálytiszta; élvezze a látványt rövid ideig a szabadban, majd melegedjen fel újra az autóban.",
+                "ro": "Vederea până la Pirinei este adesea de cristal iarna; bucurați-vă scurt de peisaj afară, apoi încălziți-vă din nou în mașină.",
+                "en": "The view all the way to the Pyrenees is often crystal clear in winter; enjoy the sight briefly outdoors, then warm up again in your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Torre del Rem",
+                "hu": "Mirador de la Torre del Rem",
+                "ro": "Mirador de la Torre del Rem",
+                "en": "Mirador de la Torre del Rem"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche glatte Stellen auf den Zufahrtswegen am frühen Morgen; der gefrorene Tau macht die unbefestigten Wege tückisch.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a bekötőutakon kora reggel; a fagyott harmat trükkössé teheti a burkolatlan utakat.",
+                "ro": "Atenție la posibilele zone alunecoase de pe drumurile de acces dimineața devreme; roua înghețată face potecile neamenajate înșelătoare.",
+                "en": "Watch out for potential icy patches on the access roads in the early morning; frozen dew can make the unpaved paths quite treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de Sant Martirià",
+                "hu": "Puig de Sant Martirià",
+                "ro": "Puig de Sant Martirià",
+                "en": "Puig de Sant Martirià"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer Ort, um die Wintersonne zu genießen; der Wind kann hier oben sehr schneidend sein, lassen Sie die Motorhaube nicht zu lange offen.",
+                "hu": "Fantasztikus hely a téli napsütés élvezetére; a szél itt fent nagyon metsző lehet, ne hagyja nyitva az autó ajtaját túl sokáig.",
+                "ro": "Un loc fantastic pentru a vă bucura de soarele de iarnă; vântul poate fi foarte tăios aici sus, nu lăsați ușile mașinii deschise prea mult timp.",
+                "en": "A fantastic spot to enjoy the winter sun; the wind can be very biting up here, so don't leave your car doors open for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Poblat Neolític de La Draga",
+                "hu": "Poblat Neolític de La Draga",
+                "ro": "Poblat Neolític de La Draga",
+                "en": "Poblat Neolític de La Draga"
+              },
+              "tip_5lang": {
+                "de": "Die Steinzeit wirkt bei Frost besonders rau und echt; nutzen Sie die kurzen Wege zwischen den Hütten, um nicht zu sehr auszukühlen.",
+                "hu": "A kőkorszak fagyban különösen zordnak és valódinak tűnik; használja ki a kunyhók közötti rövid utakat, hogy ne hűljön ki túlságosan.",
+                "ro": "Epoca pietrei pare deosebit de aspră și reală pe ger; folosiți distanțele scurte dintre colibe pentru a nu vă răci prea tare.",
+                "en": "The Stone Age feels especially rugged and real in the frost; take advantage of the short paths between the huts to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "les Estunes",
+                "hu": "les Estunes",
+                "ro": "les Estunes",
+                "en": "les Estunes"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang durch den winterlichen Wald regt den Kreislauf an; die Felsen schützen ein wenig vor dem kalten Nordwind.",
+                "hu": "Egy rövid séta a téli erdőben felpezsdíti a keringést; a sziklák némileg védenek a hideg északi szél elől.",
+                "ro": "O scurtă plimbare prin pădurea de iarnă stimulează circulația; stâncile oferă o mică protecție împotriva vântului rece de nord.",
+                "en": "A short walk through the winter forest will boost your circulation; the rocks provide some protection from the cold northern wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Santa Magdalena de Noves",
+                "hu": "Església de Santa Magdalena de Noves",
+                "ro": "Església de Santa Magdalena de Noves",
+                "en": "Església de Santa Magdalena de Noves"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor 16:30 Uhr, um das letzte Licht auf den Steinen zu sehen; die Heizung im Auto wird auf dem Rückweg eine Wohltat sein.",
+                "hu": "Látogassa meg a templomot 16:30 előtt, hogy lássa az utolsó fényeket a köveken; az autó fűtése áldás lesz a visszaúton.",
+                "ro": "Vizitați biserica înainte de 16:30 pentru a vedea ultima lumină pe pietre; căldura din mașină va fi o binecuvântare la întoarcere.",
+                "en": "Visit the church before 4:30 PM to see the last light on the stones; the car's heater will be a welcome comfort on the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

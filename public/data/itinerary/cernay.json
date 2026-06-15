@@ -137,6 +137,168 @@
         "hu": "A napot a történelmi Thann-kapunál kezdi, ahol azonnal bepillantást nyerhet Cernay gazdag középkori múltjába. Egy rövid séta után a Szent Henrik Kápolna békéje várja.\nDél körül a Szent István-templom fenséges építészete és színes üvegablakai nyűgözik le. Ezután a folyó felé veszi az irányt.\nA délután folyamán a Thur folyó partján fekvő park nyújt kiváló lehetőséget a pihenésre és egy kellemes sétára a friss levegőn.\nA túra az Örökös Segítő Szűzanya Kápolnánál ér véget, amely tökéletes spirituális záróakkordja ennek az élményekkel teli napnak.",
         "ro": "Ziua începe la istorica Poartă Thann, unde veți plonja în bogatul trecut medieval al orașului Cernay. După o scurtă plimbare, veți găsi liniștea la Capela Sfântul Henric.\nÎn preajma prânzului, Biserica Sfântul Ștefan vă va impresiona cu arhitectura sa măreață și vitraliile colorate. Apoi, vă veți îndrepta spre râu.\nDupă-amiaza vă invită la o plimbare relaxantă în Parcul Rives de la Thur, un loc ideal pentru a vă bucura de natură.\nTraseul se încheie într-o notă spirituală la Capela Maicii Domnului a Ajutorului Perpetuu, oferind un final pașnic acestei zile pline de descoperiri.",
         "en": "Your day begins at the historic Thann Gate, immediately immersing you in the rich medieval past of Cernay. A short walk then brings you to the peaceful Chapelle Saint-Henri.\nAround midday, the majestic Saint-Etienne Church will impress you with its striking architecture and colorful stained glass. You then head towards the river.\nThe afternoon invites you to enjoy a relaxing stroll in the Rives de la Thur Park, perfectly blending urban life with scenic nature.\nThe walking tour concludes gracefully at the Chapelle Notre-Dame-du-Perpétuel-Secours, providing a quiet and spiritual end to an eventful day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Cernay zeigt sich im Regen von seiner mystischen Seite. Der Vormittag beginnt geschützt unter den historischen Bögen der Stadt. Mittags bieten die sakralen Bauten trockene Zuflucht und spirituelle Ruhe. Nachmittags spazieren wir am Flussufer, wo der Nebel über der Thur eine besondere Atmosphäre schafft. Der Tag endet sicher im Trockenen bei der letzten Kapelle, während draußen der Regen prasselt.",
+            "hu": "Cernay esőben is tartogat látnivalót, a történelmi kapuk és templomok kiváló menedéket nyújtanak. Reggel a városfalak tövében kezdünk, délben pedig a hűvös, de száraz templombelsőkben gyönyörködünk. Délután a Thur folyó partján a ködös táj nyújt különleges látványt, az estét pedig egy csendes kápolnában zárjuk, elkerülve a nagyobb felhőszakadásokat.",
+            "ro": "Cernay oferă o atmosferă mistică pe ploaie, cu porți istorice și biserici ce servesc drept refugiu ideal. Dimineața începe sub arcadele vechi, iar la prânz interioarele bisericilor ne protejează de intemperii. După-amiaza, malul râului Thur devine spectaculos în ceață, iar seara se încheie într-o capelă liniștită, departe de agitația stropilor de ploaie.",
+            "en": "Cernay reveals a mystical side in the rain, with historic gates and churches providing perfect shelter. The morning starts under ancient arches, and by noon, the dry church interiors offer spiritual calm. In the afternoon, the misty banks of the Thur river create a unique atmosphere, and the evening ends peacefully inside a chapel, safe from the downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thanner Tor",
+                "hu": "Thann-kapu",
+                "ro": "Poarta Thann",
+                "en": "Thann Gate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den massiven Torbogen als Unterstand vor dem Regen und bewundern Sie die mittelalterliche Steinmetzkunst; achten Sie auf glattes Kopfsteinpflaster.",
+                "hu": "Használja a masszív kapuboltívet esernyő helyett, miközben megcsodálja a középkori kőfaragásokat; vigyázzon a vizes macskaköveken, mert csúszhatnak.",
+                "ro": "Folosiți arcada masivă a porții ca adăpost împotriva ploii în timp ce admirați sculpturile medievale; atenție la pavajul umed care poate fi alunecos.",
+                "en": "Use the massive gate arch as a natural shelter from the rain while admiring the medieval stonework; watch your step on the wet and slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Heinrichskapelle",
+                "hu": "Szent Henrik Kápolna",
+                "ro": "Capela Sfântul Henric",
+                "en": "Chapelle Saint-Henri"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kapelle bietet einen intimen und trockenen Ort für eine kurze Rast; prüfen Sie vor dem Eintreten, ob Ihre Kleidung gut imprägniert ist.",
+                "hu": "Ez a kis kápolna meghitt és száraz helyszínt biztosít egy rövid pihenőhöz; belépés előtt ellenőrizze, hogy a ruházata megfelelően vízhatlan-e.",
+                "ro": "Această capelă mică oferă un spațiu intim și uscat pentru un scurt popas; înainte de a intra, verificați dacă hainele sunt bine impermeabilizate.",
+                "en": "This small chapel provides an intimate and dry setting for a short break; ensure your gear is fully waterproofed before continuing your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Stephanuskirche",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint-Etienne Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Glasfenster, die auch bei grauem Regenwetter leuchten; nutzen Sie die Zeit im Inneren, um Ihre Ausrüstung kurz zu trocknen.",
+                "hu": "Csodálja meg a pompás üvegablakokat, amelyek szürke esőben is ragyognak; használja ki a bent töltött időt, hogy felszerelése kissé megszáradjon.",
+                "ro": "Admirați vitraliile superbe care strălucesc chiar și pe vreme gri; folosiți timpul petrecut în interior pentru a vă usca puțin echipamentul.",
+                "en": "Admire the magnificent stained-glass windows that glow even in grey rain; use your time inside to let your walking gear dry off for a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Park am Ufer der Thur",
+                "hu": "Rives de la Thur Park",
+                "ro": "Parcul Rives de la Thur",
+                "en": "Rives de la Thur Park"
+              },
+              "tip_5lang": {
+                "de": "Der asphaltierte Weg am Fluss verhindert matschige Schuhe und bietet tolle Ausblicke auf das Wasser; ein stabiler Sturmschirm ist hier bei Wind ratsam.",
+                "hu": "A folyóparti aszfaltozott út megkíméli cipőjét a sártól, és remek kilátást nyújt a vízre; szeles időben egy viharálló esernyő használata javasolt.",
+                "ro": "Aleea asfaltată de pe malul râului vă protejează încălțămintea de noroi; în caz de vânt, este recomandată o umbrelă rezistentă la furtună.",
+                "en": "The paved riverside path keeps your shoes mud-free and offers great water views; a sturdy storm umbrella is recommended if the wind picks up."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Mutter von der Immerwährenden Hilfe",
+                "hu": "Örökös Segítő Szűzanya Kápolna",
+                "ro": "Capela Maicii Domnului a Ajutorului Perpetuu",
+                "en": "Chapelle Notre-Dame-du-Perpétuel-Secours"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in der Stille dieser Kapelle, weit weg vom prasselnden Regen; ein warmes Getränk in der Thermoskanne wärmt Sie nach dem Marsch auf.",
+                "hu": "Zárja a túrát e kápolna csendjében, távol az eső kopogásától; egy termoszban vitt meleg ital sokat segíthet a túra utáni átmelegedésben.",
+                "ro": "Încheiați turul în liniștea acestei capele, departe de zgomotul ploii; o băutură caldă din termos vă va ajuta să vă încălziți după drum.",
+                "en": "End your tour in the silence of this chapel, away from the patter of rain; a warm drink from a thermos will help you recover after the wet walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterspaziergang durch Cernay erfordert warme Kleidung, belohnt aber mit klarer Luft. Der Vormittag führt durch die frostige Altstadt. Mittags wärmen wir uns in den Kirchen auf, während die tiefstehende Sonne lange Schatten wirft. Am frühen Nachmittag genießen wir den Park, bevor es gegen 17:00 Uhr dunkel wird. Der Tag klingt gemütlich in der abendlichen Stille der Kapelle aus.",
+            "hu": "A téli séta Cernay-ban réteges öltözködést igényel, de a friss levegő kárpótol. Reggel a fagyos óvárost járjuk be, délben a templomok falai között melegszünk fel. Kora délután még élvezzük a park látványát, de 17:00-kor már sötétedik, így a város esti fényei kísérnek utunkon. A napot egy csendes kápolnában zárjuk, mielőtt a hőmérséklet jelentősen visszaesne.",
+            "ro": "O plimbare de iarnă în Cernay necesită haine groase, dar aerul curat merită efortul. Dimineața explorăm orașul vechi înghețat, iar la prânz ne încălzim în biserici. După-amiaza profităm de parcul local înainte de apusul de la ora 17:00. Ziua se încheie în liniștea capelei, sub luminile difuze ale serii, înainte ca temperaturile să scadă drastic.",
+            "en": "A winter walk in Cernay requires warm layers, but the crisp air is refreshing. Spend the morning in the frosty old town and warm up in the churches at noon. Enjoy the park in the early afternoon before the 5 PM sunset brings the evening chill. The day concludes in the peaceful chapel as the town lights begin to twinkle in the gathering dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thanner Tor",
+                "hu": "Thann-kapu",
+                "ro": "Poarta Thann",
+                "en": "Thann Gate"
+              },
+              "tip_5lang": {
+                "de": "Das Steintor wirkt im Winter besonders imposant; tragen Sie winddichte Handschuhe, da es im Durchgang oft unangenehm zieht.",
+                "hu": "A kőkapu télen különösen impozáns látványt nyújt; viseljen szélálló kesztyűt, mert a boltozat alatt gyakran felerősödik a hideg huzat.",
+                "ro": "Poarta de piatră arată impunător iarna; purtați mănuși rezistente la vânt, deoarece curentul de aer sub boltă poate fi foarte rece.",
+                "en": "The stone gate looks particularly imposing in winter; wear windproof gloves as the draft under the archway can be quite biting in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Heinrichskapelle",
+                "hu": "Szent Henrik Kápolna",
+                "ro": "Capela Sfântul Henric",
+                "en": "Chapelle Saint-Henri"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, windgeschützter Ort für eine Pause; achten Sie auf den Stufen auf überfrierende Nässe, die oft schwer zu erkennen ist.",
+                "hu": "Szélvédett, apró helyszín egy rövid pihenőhöz; a lépcsőkön figyeljen a jegesedésre, amely télen gyakran alig látható, mégis veszélyes.",
+                "ro": "Un loc mic și protejat de vânt pentru o pauză; atenție la gheața de pe trepte, care este adesea greu de observat în timpul iernii.",
+                "en": "A small, sheltered spot for a quick break; be careful of black ice on the steps, which can be very slippery and hard to see in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Stephanuskirche",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint-Etienne Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Innenraum zum Aufwärmen und bewundern Sie die Kunstwerke; die dicken Mauern halten die Kälte für eine Weile draußen.",
+                "hu": "Használja ki a hatalmas belső teret az átmelegedésre, miközben a műalkotásokat nézi; a vastag falak egy ideig távol tartják a kinti fagyot.",
+                "ro": "Folosiți interiorul spațios pentru a vă încălzi în timp ce admirați arta sacră; zidurile groase mențin o temperatură constantă și plăcută.",
+                "en": "Take advantage of the vast interior to warm up while admiring the sacred art; the thick walls keep the freezing outdoor air at bay for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Park am Ufer der Thur",
+                "hu": "Rives de la Thur Park",
+                "ro": "Parcul Rives de la Thur",
+                "en": "Rives de la Thur Park"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten weite Sicht auf den Fluss; beenden Sie den Besuch vor 16:30 Uhr, um nicht im Dunkeln auf glatten Wegen zu laufen.",
+                "hu": "A kopár fák miatt messzebb ellátni a folyó mentén; fejezze be a sétát 16:30-ig, hogy elkerülje a sötétben való botorkálást a csúszós utakon.",
+                "ro": "Copacii golași permit o vizibilitate mai bună asupra râului; terminați vizita înainte de 16:30 pentru a nu merge pe întuneric pe aleile înghețate.",
+                "en": "The bare trees allow for wider views of the river; finish your walk by 4:30 PM to avoid navigating the icy paths in the dark after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Mutter von der Immerwährenden Hilfe",
+                "hu": "Örökös Segítő Szűzanya Kápolna",
+                "ro": "Capela Maicii Domnului a Ajutorului Perpetuu",
+                "en": "Chapelle Notre-Dame-du-Perpétuel-Secours"
+              },
+              "tip_5lang": {
+                "de": "Der friedliche Abschluss des Tages bei schwindendem Licht; eine Mütze und warme Socken sind für den Rückweg in der Abendkälte unerlässlich.",
+                "hu": "A nap békés lezárása a fogyatkozó fényben; a visszaútra mindenképp húzzon meleg sapkát, mert az esti hideg gyorsan áthűti az embert.",
+                "ro": "Încheierea pașnică a zilei în lumina slabă a serii; o căciulă și șosete groase sunt esențiale pentru drumul de întoarcere prin frig.",
+                "en": "A peaceful end to the day in the fading light; warm hats and thick socks are essential for the walk back in the sharp evening cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpártúrája kényelmes tempóban indul a kissé távolabb eső Szent Erazmus-templomtól. Innen gyorsan beér a központba, az ikonikus Thann-kapuhoz.\nDél körül meglátogatja a közeli Szent István-templomot, hogy megcsodálja pompáját. A központi utak ideálisak a biztonságos kerékpározáshoz.\nA délután folyamán a Thur folyó partján fekvő park festői ösvényei nyújtanak kiváló lehetőséget a természet közeli kikapcsolódásra.\nZárásként egy rövid, látványos tekerés vezet a Szentlélek Kápolnához, ahol nyugodtan lezárhatja a város felfedezését.",
         "ro": "Turul pe bicicletă începe relaxant la Biserica Sfântul Erasmus, situată puțin mai departe. De acolo, pedalați rapid spre centru, la emblematica Poartă Thann.\nÎn preajma prânzului, vizitați Biserica Sfântul Ștefan din apropiere pentru a-i admira măreția. Traseele din centru sunt excelente pentru bicicliști.\nDupă-amiaza, Parcul Rives de la Thur vă oferă cadrul perfect pentru a vă bucura de natură de-a lungul râului, pe alei bine amenajate.\nÎn final, o scurtă cursă pitorească vă duce la Capela Sfântul Duh, unde vă puteți încheia în liniște turul de explorare a orașului.",
         "en": "Your cycling tour starts at a relaxed pace at the Église Saint-Erasme, located slightly off the main paths. You then swiftly ride to the iconic Thann Gate.\nAround midday, you visit the nearby Saint-Etienne Church to soak in its splendor. The central streets are highly cycle-friendly and easy to navigate.\nIn the afternoon, the Rives de la Thur Park provides the perfect setting to enjoy a scenic ride along the river on its well-maintained paths.\nFinally, a short and picturesque ride takes you to the Chapelle du Saint-Esprit, where you can quietly conclude your comprehensive exploration of the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Cernay bei Regen verlangt Vorsicht auf nassen Straßen. Wir starten mit guter Regenbekleidung im Norden der Stadt. Mittags nutzen wir die massiven Gebäude im Zentrum als trockene Rastplätze. Die Wege entlang der Thur können rutschig sein, daher ist ein gemäßigtes Tempo wichtig. Den Tag beenden wir zügig, bevor die Sicht bei anhaltendem Niederschlag schlechter wird.",
+            "hu": "A kerékpározás esőben óvatosságot igényel a vizes utakon, de megfelelő öltözékkel kivitelezhető. Északról indulunk dél felé, a városközpont templomait pedig esővédett pihenőként használjuk. A Thur menti ösvényeken a sár és a vizes levelek miatt lassabb tempót javasolunk. A nap végén gyorsan elérjük az utolsó megállót, mielőtt a látási viszonyok romlanának.",
+            "ro": "Ciclismul în Cernay pe ploaie necesită prudență pe drumurile umede. Începem din nord cu echipament impermeabil, folosind clădirile centrale ca puncte de odihnă uscate. Pe potecile de lângă Thur, viteza trebuie redusă din cauza frunzelor ude. Ziua se încheie rapid la ultima oprire, înainte ca vizibilitatea să scadă din cauza precipitațiilor.",
+            "en": "Cycling in Cernay in the rain requires extra caution on wet roads. We start in the north with full rain gear, using central landmarks as dry rest stops. On the Thur paths, slow down to avoid slipping on wet leaves or mud. The day finishes quickly at the last stop before visibility decreases due to the persistent rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Erasmuskirche",
+                "hu": "Szent Erazmus-templom",
+                "ro": "Biserica Sfântul Erasmus",
+                "en": "Église Saint-Erasme"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang unter dem Dachvorsprung; prüfen Sie vor der Abfahrt den Bremsweg auf dem nassen Asphalt.",
+                "hu": "Parkolja le a biciklit az előtető alatt a bejárat közelében; indulás előtt tesztelje a fékutat a vizes és csúszós aszfalton.",
+                "ro": "Parcați bicicleta sub streașina de lângă intrare; înainte de plecare, testați distanța de frânare pe asfaltul umed și alunecos.",
+                "en": "Park your bike under the eaves near the entrance; test your braking distance on the wet asphalt before heading out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Thanner Tor",
+                "hu": "Thann-kapu",
+                "ro": "Poarta Thann",
+                "en": "Thann Gate"
+              },
+              "tip_5lang": {
+                "de": "Das Tor bietet einen kurzen, trockenen Stopp für einen Schluck Wasser; meiden Sie die Metallschienen am Boden, da diese extrem rutschig sind.",
+                "hu": "A kapu rövid, száraz megállót kínál egy korty vízhez; kerülje a földön lévő fém síneket vagy elemeket, mert esőben életveszélyesen csúsznak.",
+                "ro": "Poarta oferă un scurt popas uscat; evitați șinele de metal de pe sol, deoarece devin extrem de alunecoase atunci când sunt ude.",
+                "en": "The gate offers a brief dry stop for a quick drink; avoid any metal tracks or grates on the ground as they become dangerously slippery in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Stephanuskirche",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint-Etienne Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirchenbesichtigung, um die Hände abzutrocknen; helle Reflektoren am Rad sind bei diesem grauen Wetter für die Sicherheit wichtig.",
+                "hu": "Használja ki a templomlátogatást, hogy megszárítsa a kezét; a szürke időben a kerékpáron lévő fényvisszaverők életmentőek lehetnek.",
+                "ro": "Folosiți vizita la biserică pentru a vă usca mâinile; elementele reflectorizante pe bicicletă sunt esențiale pe această vreme gri și închisă.",
+                "en": "Use the church visit to dry your hands and gloves; bright reflectors on your bike are essential for safety in this dull, grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Park am Ufer der Thur",
+                "hu": "Rives de la Thur Park",
+                "ro": "Parcul Rives de la Thur",
+                "en": "Rives de la Thur Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig in Kurven, da nasses Laub die Bodenhaftung verringert; Schutzbleche am Rad verhindern Schlammspritzer auf der Kleidung.",
+                "hu": "Kanyarodjon óvatosan, mert a vizes levelek csökkentik a tapadást; a sárvédő használata kötelező, ha nem akarja, hogy a sár felverődjön a hátára.",
+                "ro": "Luați curbele cu prudență, deoarece frunzele ude reduc aderența; aripile la bicicletă sunt necesare pentru a evita stropirea cu noroi.",
+                "en": "Take turns slowly as wet leaves reduce tire grip significantly; make sure your bike has mudguards to prevent splashes on your clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Heilig-Geist-Kapelle",
+                "hu": "Szentlélek Kápolna",
+                "ro": "Capela Sfântul Duh",
+                "en": "Chapelle du Saint-Esprit"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Endpunkt, um den Puls nach der nassen Fahrt zu senken; trocknen Sie die Fahrradkette nach der Rückkehr unbedingt ab, um Rost zu vermeiden.",
+                "hu": "Nyugodt végpont a vizes tekerés után; hazaérkezés után mindenképpen törölje szárazra a láncot és a váltót a rozsdásodás megelőzése érdekében.",
+                "ro": "Un punct final liniștit după drumul umed; la întoarcere, ștergeți neapărat lanțul bicicletei pentru a preveni apariția ruginii.",
+                "en": "A calm final stop to lower your heart rate after the wet ride; remember to dry your bike chain immediately after the trip to prevent rust."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Cernay bietet klare Fernsichten, erfordert aber Kälteschutz für Hände und Füße. Wir starten bei frostigen Temperaturen im Norden. Mittags laden die Kirchen zur inneren Einkehr und zum kurzen Aufwärmen ein. Die Nachmittagstour am Fluss endet zeitig vor Sonnenuntergang um 17:00 Uhr. Den Rückweg treten wir an, bevor der Boden bei Frost erneut gefriert.",
+            "hu": "A téli kerékpározás Cernay-ban tiszta kilátást ígér, de a végtagok védelme kiemelten fontos. Reggel fagyos időben indulunk északról. Délben a templomok melegében tartunk pihenőt, kora délután pedig a folyóparti friss levegőt élvezzük. 17:00-kor már sötétedik, így a túrát időben befejezzük, mielőtt az utak a hajnali fagy után újra jegesedni kezdenének.",
+            "ro": "Ciclismul de iarnă în Cernay oferă priveliști clare, dar necesită protecție termică pentru mâini și picioare. Începem în nord la temperaturi scăzute, iar la prânz ne încălzim în biserici. Turul de după-amiază de pe malul râului se încheie înainte de apusul de la ora 17:00, evitând astfel gheața care se formează seara.",
+            "en": "Winter cycling in Cernay offers clear views but requires thermal protection for your hands and feet. Start in the north in freezing conditions, using churches for brief warm-ups at noon. The afternoon river tour must end well before the 5 PM sunset. Plan to be back before the falling evening temperatures turn any damp patches into ice."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Erasmuskirche",
+                "hu": "Szent Erazmus-templom",
+                "ro": "Biserica Sfântul Erasmus",
+                "en": "Église Saint-Erasme"
+              },
+              "tip_5lang": {
+                "de": "Ein winterliches Fotomotiv mit den weißen Feldern im Hintergrund; prüfen Sie den Reifendruck, da dieser bei Kälte oft leicht sinkt.",
+                "hu": "Téli fotótémának tökéletes a háttérben elnyúló havas mezőkkel; indulás előtt ellenőrizze a keréknyomást, mert hidegben az abroncsok veszíthetnek erejükből.",
+                "ro": "Un cadru perfect pentru fotografii de iarnă cu câmpurile albe în fundal; verificați presiunea în pneuri, care scade adesea la temperaturi joase.",
+                "en": "A perfect winter photo spot with white fields in the background; check your tire pressure as it often drops slightly in freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Thanner Tor",
+                "hu": "Thann-kapu",
+                "ro": "Poarta Thann",
+                "en": "Thann Gate"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad kurz ab, um das historische Tor zu bewundern; dicke Sohlen helfen, die Kälte der Pedale von den Füßen fernzuhalten.",
+                "hu": "Álljon meg egy pillanatra, hogy megcsodálja a kaput; a vastag talpú cipő sokat segít, hogy ne hűljön át a lába a fém pedálok érintésétől.",
+                "ro": "Opriți-vă scurt pentru a admira poarta istorică; tălpile groase ajută la izolarea picioarelor de frigul transmis prin pedalele bicicletei.",
+                "en": "Stop briefly to admire the historic gate; wearing shoes with thick soles will help insulate your feet from the cold metal of the bike pedals."
+              }
+            },
+            {
+              "name": {
+                "de": "Stephanuskirche",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint-Etienne Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die gefrorenen Finger für zehn Minuten aufzuwärmen; die Kirche liegt zentral und ist leicht mit dem Rad zu erreichen.",
+                "hu": "Ideális helyszín az elgémberedett ujjak átmelegítésére tíz perc alatt; a templom központi elhelyezkedése miatt könnyen megközelíthető két keréken.",
+                "ro": "Un loc ideal pentru a vă încălzi degetele înghețate timp de zece minute; biserica este centrală și foarte ușor de accesat cu bicicleta.",
+                "en": "An ideal place to warm up frozen fingers for ten minutes; the church is centrally located and very easy to reach by bike from any direction."
+              }
+            },
+            {
+              "name": {
+                "de": "Park am Ufer der Thur",
+                "hu": "Rives de la Thur Park",
+                "ro": "Parcul Rives de la Thur",
+                "en": "Rives de la Thur Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das raureifbedeckte Gras am Ufer; fahren Sie besonders vorsichtig auf Brücken, da diese zuerst vereisen.",
+                "hu": "Élvezze a zúzmarás fű látványát a parton; a hidakon különösen óvatosan közlekedjen, mert a szerkezetek sokkal gyorsabban jegesednek, mint az utak.",
+                "ro": "Bucurați-vă de priveliștea ierbii acoperite de chiciură; pedalați cu mare atenție pe poduri, deoarece acestea îngheață primele iarna.",
+                "en": "Enjoy the view of the frost-covered grass along the river; be especially careful on bridges as they freeze much faster than regular road surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Heilig-Geist-Kapelle",
+                "hu": "Szentlélek Kápolna",
+                "ro": "Capela Sfântul Duh",
+                "en": "Chapelle du Saint-Esprit"
+              },
+              "tip_5lang": {
+                "de": "Ein stiller Ort zum Abschluss, wenn die Sonne tief steht; schalten Sie bereits jetzt das Licht ein, da die Dämmerung im Winter rasch einsetzt.",
+                "hu": "Csendes befejezés, amikor a nap már alacsonyan jár; kapcsolja be a lámpákat már most, mert a téli szürkület váratlanul gyorsan rásötétedik az emberre.",
+                "ro": "Un loc liniștit pentru final, când soarele este jos; aprindeți luminile bicicletei acum, deoarece amurgul se instalează rapid în timpul iernii.",
+                "en": "A quiet spot to finish as the sun hangs low; turn on your bike lights now, as winter dusk sets in much faster than you might expect."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "A napot Cernay impozáns Városházájánál kezdi, majd egy rövid autózással eléri a város szélén található idilli Szent András Kápolnát.\nDélelőtt megérkezik a központba. A lenyűgöző Thann-kapu és a fenséges Szent István-templom a település mély történelmi jelentőségéről tanúskodik.\nEbéd után autóval kényelmesen eljut a Szent Erazmus-templomhoz, ahol felfedezheti a helyi építészet további izgalmas dimenzióit.\nAz autós túra tökéletes, nyugodt zárópontja a Szentlélek Kápolna, amely a forgatagtól távol biztosít egy csendes pillanatot a nap végén.",
         "ro": "Ziua începe la impunătoarea Primărie din Cernay, urmată de o scurtă deplasare spre idilica Capelă Sfântul Andrei, situată la periferie.\nDimineața ajungeți în centru. Impresionanta Poartă Thann și maiestuoasa Biserică Sfântul Ștefan depun mărturie despre semnificația istorică profundă a locului.\nDupă prânz, mașina vă duce confortabil la Biserica Sfântul Erasmus, unde veți descoperi alte fațete captivante ale arhitecturii locale.\nTurul auto se încheie perfect și liniștit la Capela Sfântul Duh, care oferă un moment de reculegere departe de agitația cotidiană.",
         "en": "The day begins at the impressive Cernay Town Hall, followed by a quick drive to the idyllic Chapelle Saint-André on the outskirts.\nBy mid-morning, you reach the center. The imposing Thann Gate and the majestic Saint-Etienne Church are testaments to the town's deep historical roots.\nAfter lunch, your car comfortably takes you to the Église Saint-Erasme, where you can discover further captivating facets of local architecture.\nThe driving tour comes to a perfect, quiet end at the Chapelle du Saint-Esprit, offering a peaceful moment of reflection away from the bustle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Cernay auch bei starkem Regen komfortabel erkunden. Wir fahren von Sehenswürdigkeit zu Sehenswürdigkeit und minimieren die Zeit im Freien. Mittags bieten die Kirchen trockene Besichtigungsmöglichkeiten. Die kurzen Wege vom Parkplatz zum Eingang lassen sich mit einem Schirm leicht überbrücken. Der Tag endet entspannt im Schutz des Fahrzeugs.",
+            "hu": "Autóval Cernay felfedezése még szakadó esőben is kényelmes marad, hisz így minimalizáljuk a szabadban töltött időt. A templomok és középületek száraz belső terei kiváló úti célok. A parkolótól a bejáratig tartó rövid távokon egy esernyő is elég. A napot nyugodtan zárjuk, élvezve a fűtött utasteret a városnézés végén.",
+            "ro": "Cu mașina, explorarea orașului Cernay rămâne confortabilă chiar și pe ploaie torențială, minimizând timpul petrecut afară. Interioarele bisericilor și clădirilor publice oferă adăpost perfect. Distanțele scurte de la parcare la intrare pot fi parcurse ușor cu o umbrelă. Ziua se încheie relaxat, în confortul vehiculului.",
+            "en": "By car, exploring Cernay remains comfortable even in heavy rain, as we minimize time spent outdoors. The dry interiors of churches and public buildings are excellent destinations. The short walks from parking spaces to entrances are easily managed with an umbrella. The day ends peacefully within the comfort of your heated vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Cernay",
+                "hu": "Cernay Városháza",
+                "ro": "Primăria Cernay",
+                "en": "Cernay Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Place de la République für einen kurzen Weg zum Gebäude; achten Sie beim Aussteigen auf tiefe Pfützen.",
+                "hu": "Parkoljon közvetlenül a Place de la République téren a rövid séta érdekében; kiszálláskor figyeljen a mélyebb tócsákra a járdaszegélynél.",
+                "ro": "Parcați direct în Place de la République pentru un acces rapid; atenție la bălțile adânci de lângă bordură atunci când coborâți din mașină.",
+                "en": "Park directly in Place de la République for the shortest walk to the building; watch out for deep puddles near the curb as you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Andreaskapelle",
+                "hu": "Szent András Kápolna",
+                "ro": "Capela Sfântul Andrei",
+                "en": "Chapelle Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Diese abgelegene Kapelle ist mit dem Auto leicht erreichbar; halten Sie den Schirm bereit, da der Weg vom Wagen zum Tor ungeschützt ist.",
+                "hu": "Ez a kieső kápolna autóval könnyen megközelíthető; tartsa készenlétben az esernyőt, mert az autó és a bejárat közötti út teljesen nyitott.",
+                "ro": "Această capelă izolată este ușor accesibilă cu mașina; țineți umbrela la îndemână, deoarece drumul de la mașină la poartă este neprotejat.",
+                "en": "This secluded chapel is easily reached by car; have your umbrella ready as the short path from your vehicle to the gate is completely unsheltered."
+              }
+            },
+            {
+              "name": {
+                "de": "Thanner Tor",
+                "hu": "Thann-kapu",
+                "ro": "Poarta Thann",
+                "en": "Thann Gate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in den umliegenden Straßen; das Tor bietet einen guten Unterstand, falls der Regen plötzlich stärker wird.",
+                "hu": "Használja a környező utcák parkolóhelyeit; a kapu kiváló menedéket nyújt, ha a séta közben hirtelen eleredne az eső.",
+                "ro": "Folosiți locurile de parcare de pe străzile adiacente; poarta oferă un adăpost bun în cazul în care ploaia se intensifică brusc.",
+                "en": "Utilize the parking spots on the adjacent streets; the gate arch provides excellent cover if the rain suddenly becomes much heavier during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Stephanuskirche",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint-Etienne Church"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für eine längere Regenpause im Trockenen; die Scheinwerferreflexionen auf dem nassen Asphalt machen das Parken anspruchsvoll.",
+                "hu": "Remek helyszín egy hosszabb esőszünethez a szárazban; az útburkolaton megcsillanó fények miatt a parkolás esőben kicsit nehezebb lehet.",
+                "ro": "Un loc excelent pentru o pauză mai lungă la adăpost; reflexiile farurilor pe asfaltul umed pot face parcarea puțin mai dificilă.",
+                "en": "A great spot for a longer rain break in a dry environment; light reflections on the wet asphalt can make parking a bit tricky in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Erasmuskirche",
+                "hu": "Szent Erazmus-templom",
+                "ro": "Biserica Sfântul Erasmus",
+                "en": "Église Saint-Erasme"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche liegt etwas außerhalb, was die Anfahrt bei Regen erleichtert; prüfen Sie, ob Ihre Scheibenwischer für die Fahrt frei von Laub sind.",
+                "hu": "A templom kicsit kijjebb esik, ami megkönnyíti az autós megközelítést; indulás előtt ellenőrizze, hogy az ablaktörlők alatt nincsenek-e vizes levelek.",
+                "ro": "Biserica este situată puțin în afara centrului, facilitând accesul auto; verificați ca ștergătoarele să fie libere de frunze ude înainte de plecare.",
+                "en": "The church is slightly further out, making car access very convenient; check that your wipers are clear of wet leaves before you start driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Heilig-Geist-Kapelle",
+                "hu": "Szentlélek Kápolna",
+                "ro": "Capela Sfântul Duh",
+                "en": "Chapelle du Saint-Esprit"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Abschluss Ihrer Tour; stellen Sie sicher, dass Ihre Kleidung nicht zu nass wird, um die Autoscheiben von innen nicht zu beschlagen.",
+                "hu": "A túra csendes befejezése; ügyeljen rá, hogy ne vigyen be túl sok vizet az autóba, mert a vizes ruhák miatt gyorsan bepárásodhatnak az ablakok.",
+                "ro": "Un final liniștit al turului; aveți grijă să nu aduceți prea multă apă în mașină, deoarece hainele ude vor duce la aburirea rapidă a geamurilor.",
+                "en": "A calm end to your tour; try to keep your clothes dry to prevent the car windows from fogging up quickly once you're back inside the vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Cernay im Winter lässt sich am besten mit dem Auto erkunden, um der beißenden Kälte zu entgehen. Wir fahren durch die festlich beleuchtete Stadt und genießen die Aussicht aus dem warmen Wagen. Die Kirchen dienen als kulturelle Stopps mit angenehmer Atmosphäre. Da es um 17:00 Uhr dunkel wird, planen wir die Route so, dass wir die Außenansichten bei Tageslicht sehen.",
+            "hu": "A téli Cernay leginkább autóval fedezhető fel kényelmesen, elkerülve a metsző hideget. A kivilágított városon keresztül hajtunk, élvezve a fűtött utastér kényelmét. A templomok kulturális megállóként szolgálnak, ahol kicsit elidőzhetünk. Mivel 17:00-kor már sötétedik, a külső helyszíneket még világosban látogatjuk meg, az estét pedig fényárban úszó utcákon zárjuk.",
+            "ro": "Cernay iarna se explorează cel mai bine cu mașina, evitând frigul tăios de afară. Conducem prin orașul luminat festiv, bucurându-ne de căldura din vehicul. Bisericile servesc drept opriri culturale cu o atmosferă plăcută. Deoarece se întunecă la 17:00, planificăm traseul astfel încât să vedem exteriorul clădirilor pe lumină.",
+            "en": "Winter in Cernay is best explored by car to escape the biting cold outside. Drive through the festively lit streets and enjoy the views from your warm vehicle. Churches serve as cultural stops with a pleasant atmosphere. Since it gets dark by 5 PM, we plan the route to see the outdoor landmarks in daylight, ending the day as the streetlights turn on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Cernay",
+                "hu": "Cernay Városháza",
+                "ro": "Primăria Cernay",
+                "en": "Cernay Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Der Platz vor dem Rathaus ist oft festlich dekoriert; achten Sie beim Parken auf Glatteis auf den markierten Flächen.",
+                "hu": "A városháza előtti tér gyakran ünnepi díszben tündököl; parkoláskor ügyeljen a jegesedésre a felfestett területeken, mert csúszósak lehetnek.",
+                "ro": "Piața din fața primăriei este adesea decorată festiv; atenție la gheața de pe marcajele rutiere atunci când parcați mașina.",
+                "en": "The square in front of the town hall is often festively decorated; watch out for ice on the painted parking lines as they can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Andreaskapelle",
+                "hu": "Szent András Kápolna",
+                "ro": "Capela Sfântul Andrei",
+                "en": "Chapelle Saint-André"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt im Winterschnee wie aus einem Märchen; lassen Sie den Motor nicht unnötig laufen, während Sie kurz aussteigen.",
+                "hu": "A kis kápolna a téli hóban úgy néz ki, mint egy mesebeli helyszín; ne hagyja feleslegesen járni a motort, amíg kiszáll a rövid látogatásra.",
+                "ro": "Capela mică arată ca în povești sub zăpada iernii; nu lăsați motorul pornit inutil în timp ce coborâți pentru o scurtă vizită.",
+                "en": "The small chapel looks like a fairytale scene in the winter snow; avoid leaving your engine idling while you step out for a quick look around."
+              }
+            },
+            {
+              "name": {
+                "de": "Thanner Tor",
+                "hu": "Thann-kapu",
+                "ro": "Poarta Thann",
+                "en": "Thann Gate"
+              },
+              "tip_5lang": {
+                "de": "Ein massives Denkmal, das auch im Winterwind standhält; nutzen Sie die Sitzheizung, um nach dem Fotostopp schnell wieder warm zu werden.",
+                "hu": "Masszív műemlék, amely a téli szélben is büszkén áll; használja az ülésfűtést, hogy a fotózás után gyorsan visszanyerje testhőmérsékletét.",
+                "ro": "Un monument masiv care rezistă dârz în vântul iernii; folosiți încălzirea în scaune pentru a vă reîncălzi rapid după ce faceți fotografii.",
+                "en": "A massive monument that stands proud even in the winter wind; use your seat heaters to warm up quickly after your photo stop at the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Stephanuskirche",
+                "hu": "Szent István-templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint-Etienne Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Vormittag für das beste Licht; prüfen Sie den Frostschutz in Ihrer Scheibenwaschanlage vor der Abfahrt.",
+                "hu": "Látogassa meg a templomot késő délelőtt a legjobb fényviszonyokért; indulás előtt ellenőrizze a fagyállót a szélvédőmosó tartályában.",
+                "ro": "Vizitați biserica spre sfârșitul dimineții pentru cea mai bună lumină; verificați nivelul antigelului din lichidul de parbriz înainte de plecare.",
+                "en": "Visit the church in the late morning for the best natural light; ensure your windshield washer fluid is rated for freezing temperatures before driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Erasmuskirche",
+                "hu": "Szent Erazmus-templom",
+                "ro": "Biserica Sfântul Erasmus",
+                "en": "Église Saint-Erasme"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt bietet weite Blicke über die winterliche Landschaft; achten Sie auf freilaufende Tiere, die bei Kälte oft nah an die Straßen kommen.",
+                "hu": "Az idevezető út során szép kilátás nyílik a téli tájra; figyeljen a vadállatokra, amelyek télen gyakran közelebb merészkednek az utakhoz.",
+                "ro": "Drumul oferă priveliști largi asupra peisajului de iarnă; atenție la animalele sălbatice care se apropie adesea de șosea în căutare de hrană.",
+                "en": "The drive here offers expansive views of the winter landscape; watch for wildlife that may stray near the road during the cold winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Heilig-Geist-Kapelle",
+                "hu": "Szentlélek Kápolna",
+                "ro": "Capela Sfântul Duh",
+                "en": "Chapelle du Saint-Esprit"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort im Abendlicht; schalten Sie das Abblendlicht ein, da die Dämmerung im Winter die Sichtverhältnisse schnell verschlechtert.",
+                "hu": "Békés helyszín az esti fényekben; kapcsolja be a tompított fényszórókat, mert a téli szürkületben a látótávolság nagyon hirtelen lecsökkenhet.",
+                "ro": "Un loc liniștit în lumina serii; aprindeți faza scurtă, deoarece vizibilitatea scade foarte rapid odată cu instalarea amurgului de iarnă.",
+                "en": "A peaceful spot in the evening light; keep your headlights on as visibility can decrease very rapidly during the short winter twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

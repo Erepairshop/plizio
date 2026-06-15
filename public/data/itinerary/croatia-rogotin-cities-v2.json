@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Veliki Trovro megmászásával, amely felejthetetlen kilátást nyújt a deltára. Délben fedezze fel a Sestrun természeti szépségeit, majd csodálja meg a Rogotinski most hidat. Délután pihenjen meg a Kozjak békés és csendes környezetében. Végül, ahogy közeledik az este, érjen el a Galičak festői folyópartjára, hogy nyugodt körülmények között zárja ezt a tartalmas gyalogos túrát.",
         "ro": "Începeți dimineața cu o drumeție revigorantă pe Veliki Trovro, oferind vederi de neuitat asupra deltei. La amiază, îndreptați-vă spre refugiul natural Sestrun înainte de a admira podul Rogotinski most. Petreceți după-amiaza relaxându-vă în peisajul senin de la Kozjak. În cele din urmă, pe măsură ce se apropie seara, ajungeți la malul râului Galičak pentru a încheia ziua într-o atmosferă liniștită.",
         "en": "Start your morning with an invigorating hike up Veliki Trovro, offering unforgettable delta views. By midday, wander towards the natural haven of Sestrun before admiring the architectural grace of Rogotinski most. Spend your afternoon relaxing amidst the serene landscape of Kozjak. Finally, as evening approaches, reach the stunning riverside at Galičak for a tranquil end to your day's journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens steigen wir im dichten Nebel zum Veliki Trovro auf, wo der Regen die Steine glatt macht. Mittags führt der Weg über Sestrun zur Rogotinski-Brücke, während die Neretva grau dahinließt. Nachmittags erkunden wir Kozjak und Galičak unter dem Schutz von Regenjacken. Abends kehren wir durch die dampfenden Sumpfwiesen zurück nach Rogotin, wo die Lichter im Wasser reflektieren.",
+            "hu": "Reggel a ködbe burkolózó Veliki Trovro csúcsára kapaszkodunk fel, ahol az eső dobol a szélorgonán. Délben Sestrun és a Rogotinski híd környékét járjuk be a sárga esőkabátok védelmében. Délután a Kozjak és Galičak sziklás ösvényein figyelünk a csúszós kövekre. Este a Neretva-delta párás, misztikus látványával és a vizes aszfalton csillogó fényekkel térünk vissza a faluba.",
+            "ro": "Dimineața urcăm spre Veliki Trovro prin ceața densă, unde ploaia face pietrele alunecoase. La prânz explorăm Sestrun și podul Rogotinski, în timp ce Delta Neretvei capătă nuanțe de gri. După-amiaza continuăm spre Kozjak și Galičak sub protecția pelerinelor de ploaie. Seara ne întoarcem în Rogotin prin luncile umede, admirând reflexiile luminilor în apele deltei.",
+            "en": "In the morning, we ascend Veliki Trovro in dense mist, where rain drums on the wind organ. At noon, we explore Sestrun and the Rogotinski Bridge under the protection of waterproof gear. In the afternoon, we navigate the rocky paths of Kozjak and Galičak, being careful of slippery stones. In the evening, we return to Rogotin through the steaming marshes as lights shimmer in the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Veliki Trovro",
+                "hu": "Veliki Trovro",
+                "ro": "Veliki Trovro",
+                "en": "Veliki Trovro"
+              },
+              "tip_5lang": {
+                "de": "Hören Sie dem einzigartigen Klang der Windorgel im Regen zu; tragen Sie unbedingt rutschfeste Wanderschuhe für die nassen Kalksteinfelsen.",
+                "hu": "Hallgassa meg a szélorgona különleges hangját az esőben is; viseljen csúszásmentes bakancsot a vizes, mészköves kaptatón.",
+                "ro": "Ascultați sunetul unic al orgii de vânt chiar și pe ploaie; purtați bocanci aderenți pentru stâncile calcaroase umede.",
+                "en": "Listen to the unique sound of the wind organ even in the rain; wear non-slip boots for the wet limestone ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Sestrun",
+                "hu": "Sestrun",
+                "ro": "Sestrun",
+                "en": "Sestrun"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das neblige Delta von diesem Hügel aus; halten Sie eine wasserdichte Hülle für Ihre Kamera bereit.",
+                "hu": "Élvezze a ködös deltára nyíló kilátást erről a dombról; tartson készenlétben vízálló tokot a fényképezőgépéhez.",
+                "ro": "Bucurați-vă de vederea asupra deltei cețoase de pe acest deal; aveți pregătită o husă impermeabilă pentru aparatul foto.",
+                "en": "Enjoy the view of the misty delta from this hill; keep a waterproof cover ready for your camera equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Rogotinski most",
+                "hu": "Rogotinski most",
+                "ro": "Rogotinski most",
+                "en": "Rogotinski most"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke zügig und beobachten Sie die Regenringe auf dem Fluss; nutzen Sie die Brückenkonstruktion als kurzen Unterstand.",
+                "hu": "Keljen át gyorsan a hídon, és figyelje az esőcseppek gyűrűit a folyón; használja a híd szerkezetét rövid eső elleni menedékként.",
+                "ro": "Traversați podul rapid și observați cercurile formate de ploaie pe râu; folosiți structura podului ca scurt adăpost.",
+                "en": "Cross the bridge quickly and watch the rain rings on the river surface; use the bridge structure as a brief shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kozjak",
+                "hu": "Kozjak",
+                "ro": "Kozjak",
+                "en": "Kozjak"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist hier bei Nässe besonders grün und duftend; meiden Sie die steilen Pfadränder, da der Boden aufweichen kann.",
+                "hu": "A növényzet itt ilyenkor különösen zöld és illatos; kerülje a meredek ösvényszéleket, mert a talaj felázhat.",
+                "ro": "Vegetația este deosebit de verde și parfumată aici pe ploaie; evitați marginile abrupte ale potecii, deoarece solul poate fi instabil.",
+                "en": "The vegetation is especially green and fragrant here in the rain; avoid steep path edges as the soil can be soft."
+              }
+            },
+            {
+              "name": {
+                "de": "Galičak",
+                "hu": "Galičak",
+                "ro": "Galičak",
+                "en": "Galičak"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die stürmische Adria ist von hier oben dramatisch; suchen Sie nach dem Abstieg sofort einen trockenen Platz in Rogotin.",
+                "hu": "A viharos Adriára nyíló kilátás innen fentről drámai; az ereszkedés után keressen azonnal egy száraz helyet Rogotinban.",
+                "ro": "Vederea spre marea agitată este dramatică de aici de sus; după coborâre, căutați imediat un loc uscat în Rogotin.",
+                "en": "The view of the stormy Adriatic is dramatic from up here; after the descent, find a dry spot in Rogotin immediately."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Veliki Trovro ist klar und windig. Mittags wandern wir unter der milden dalmatinischen Sonne über Sestrun zur Brücke. Nachmittags erreichen wir Kozjak und Galičak, während die Luft kristallklar ist. Da die Sonne bereits gegen 17:00 Uhr hinter den Bergen versinkt, genießen wir den frühen, goldenen Abendhimmel über den gefrorenen Kanälen der Neretva.",
+            "hu": "A téli reggel a Veliki Trovro csúcsán tiszta és szeles. Délben az enyhe dalmát napsütésben sétálunk Sestrun és a híd felé. Délután a Kozjak és Galičak ormairól csodáljuk a kristálytiszta tájat. Mivel a nap már 17 óra körül a hegyek mögé bukik, az estét a Neretva befagyott csatornái feletti aranyló fényekben zárjuk.",
+            "ro": "Dimineața de iarnă pe Veliki Trovro este senină și vântoasă. La prânz ne plimbăm sub soarele blând dalmațian spre Sestrun și pod. După-amiaza ajungem la Kozjak și Galičak, unde aerul este de o claritate rară. Deoarece soarele apune deja în jurul orei 17:00, ne bucurăm de cerul auriu de seară peste canalele înghețate ale Neretvei.",
+            "en": "Winter morning on Veliki Trovro is clear and windy. At noon, we hike under the mild Dalmatian sun towards Sestrun and the bridge. In the afternoon, we reach Kozjak and Galičak with crystal-clear visibility. Since the sun sets behind the mountains around 5:00 PM, we enjoy the early golden evening sky over the quiet channels of the Neretva."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Veliki Trovro",
+                "hu": "Veliki Trovro",
+                "ro": "Veliki Trovro",
+                "en": "Veliki Trovro"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist spektakulär; ziehen Sie eine winddichte Schale an, da die Bura hier oben sehr kräftig wehen kann.",
+                "hu": "A téli látótávolság egészen elképesztő; vegyen fel szélálló réteget, mert a bóra itt fent nagyon erősen fújhat.",
+                "ro": "Vizibilitatea pe timp de iarnă este spectaculoasă; purtați o jachetă rezistentă la vânt, deoarece vântul Bura poate fi puternic.",
+                "en": "Winter visibility is spectacular; wear a windproof shell as the Bura wind can be very strong up here on the ridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Sestrun",
+                "hu": "Sestrun",
+                "ro": "Sestrun",
+                "en": "Sestrun"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die winterliche Stille über den Feldern; bringen Sie eine Thermoskanne mit heißem Tee für die Pause auf dem Gipfel mit.",
+                "hu": "Figyelje meg a téli csendet a mezők felett; hozzon magával egy termosz forró teát a csúcson tartott pihenőhöz.",
+                "ro": "Observați liniștea de iarnă deasupra câmpurilor; aduceți un termos cu ceai fierbinte pentru pauza de pe culme.",
+                "en": "Observe the winter silence over the fields; bring a thermos with hot tea for the break at the summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Rogotinski most",
+                "hu": "Rogotinski most",
+                "ro": "Rogotinski most",
+                "en": "Rogotinski most"
+              },
+              "tip_5lang": {
+                "de": "Das Licht steht tief und lässt die Brücke golden glänzen; achten Sie auf glatte Stellen auf den Metallteilen am frühen Morgen.",
+                "hu": "A nap alacsonyan jár, és aranyba vonja a hidat; figyeljen a fémszerkezetek jegesedésére kora reggel.",
+                "ro": "Lumina joasă face podul să strălucească auriu; atenție la porțiunile alunecoase de pe elementele metalice dimineața devreme.",
+                "en": "The low sun makes the bridge glow golden; watch out for icy spots on the metal parts early in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Kozjak",
+                "hu": "Kozjak",
+                "ro": "Kozjak",
+                "en": "Kozjak"
+              },
+              "tip_5lang": {
+                "de": "Ohne das Laub ist der Blick auf die Kanäle viel freier; nutzen Sie die sonnigen Abschnitte, um sich beim Wandern aufzuwärmen.",
+                "hu": "Lombozat nélkül sokkal szabadabb a kilátás a csatornákra; használja ki a napos szakaszokat a bemelegedéshez.",
+                "ro": "Fără frunziș, vederea spre canale este mult mai liberă; profitați de secțiunile însorite pentru a vă încălzi în timpul mersului.",
+                "en": "Without the foliage, the view of the channels is much clearer; use the sunny stretches to warm up while hiking."
+              }
+            },
+            {
+              "name": {
+                "de": "Galičak",
+                "hu": "Galičak",
+                "ro": "Galičak",
+                "en": "Galičak"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang über dem Meer; kehren Sie vor Einbruch der Dunkelheit um 17 Uhr ins Dorf zurück.",
+                "hu": "Csodálja meg a korai naplementét a tenger felett; térjen vissza a faluba a sötétedés beállta előtt, 17 óráig.",
+                "ro": "Admirați apusul devreme deasupra mării; întoarceți-vă în sat înainte de lăsarea întunericului, în jurul orei 17:00.",
+                "en": "Admire the early sunset over the sea; return to the village before dark, around 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája a helyi templom békés látogatásával indul, megadva a nap nyugodt alaphangját. Délben a szellős partra érkezik, ahol megcsodálhatja a sárkányszörfösöket, majd tovább teker Galičak festői partjaihoz. Délután a Veliki Trovro és Sestrun felé veszi az irányt, teljesen elmerülve a buja mediterrán tájban. Az este a Desansko jezero nyugodt vize mellett éri, ahol kipihenheti a nap fáradalmait a lenyűgöző alkonyati fényekben.",
         "ro": "Turul dvs. cu bicicleta începe cu o vizită pașnică la biserica locală, stabilind un ton calm pentru restul zilei. Amiaza vă aduce pe coasta bătută de vânt pentru a urmări surferii și la țărmurile naturale din Galičak. În timpul după-amiezii, pedalați spre Veliki Trovro și Sestrun pentru a vă cufunda complet în peisajele luxuriante mediteraneene. Seara vă invită să vă relaxați la apele senine ale lacului Desansko, care reflectă cerul la amurg.",
         "en": "Your cycling tour starts with a peaceful visit to the local church, setting a calm tone for the day. Midday brings you to the breezy coast for exciting kite surfing views and a scenic ride to the natural shores of Galičak. During the afternoon, pedal towards Veliki Trovro and Sestrun to fully immerse yourself in the lush Mediterranean landscapes. The evening invites you to relax by the serene waters of Desansko jezero, reflecting the twilight sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour an der Kirche im Regen. Mittags erreichen wir den Kite Surf Spot, wo nur die Wellen rauschen. Nachmittags führt die Route über Galičak und Veliki Trovro durch nasse Macchia. Wir beenden die Tour am Desansko jezero, während der Regen auf die Wasseroberfläche prasselt und die Luft nach frischer Erde duftet.",
+            "hu": "Esőben kezdjük a bringázást a templomnál. Délben elérjük a Kite Surf Spotot, ahol csak a hullámok zúgnak. Délután a Galičak és Veliki Trovro felé tekerünk a vizes bozótosban. A túrát a Desansko-tónál zárjuk, miközben az eső kopog a vízfelületen, és a levegő friss földillatú.",
+            "ro": "Începem tura cu bicicleta la biserică sub ploaie. La prânz ajungem la Kite Surf Spot, unde se aud doar valurile. După-amiaza traseul ne poartă spre Galičak și Veliki Trovro prin vegetația udă. Încheiem tura la Desansko jezero, în timp ce ploaia bate în suprafața apei și aerul miroase a pământ proaspăt.",
+            "en": "We start the bike tour at the church in the rain. At noon, we reach the Kite Surf Spot, where only the waves roar. In the afternoon, the route leads via Galičak and Veliki Trovro through wet macchia. We end the tour at Desansko jezero, while rain peters on the water surface and the air smells of fresh earth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "crkva Kraljice Neba i Zemlje",
+                "hu": "crkva Kraljice Neba i Zemlje",
+                "ro": "crkva Kraljice Neba i Zemlje",
+                "en": "crkva Kraljice Neba i Zemlje"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als trockenen Startpunkt; prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen aufbrechen.",
+                "hu": "Használja a templom bejáratát száraz indítóhelyként; ellenőrizze a fékeit, mielőtt elindul a vizes utakra.",
+                "ro": "Folosiți intrarea bisericii ca punct de plecare uscat; verificați frânele înainte de a porni pe drumurile ude.",
+                "en": "Use the church entrance as a dry starting point; check your brakes before setting off on the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Kite Surf Spot",
+                "hu": "Kite Surf Spot",
+                "ro": "Kite Surf Spot",
+                "en": "Kite Surf Spot"
+              },
+              "tip_5lang": {
+                "de": "Der Ort wirkt im Regen verlassen und weitläufig; meiden Sie sandige Abschnitte, da diese zu tiefem Schlamm werden können.",
+                "hu": "A hely esőben elhagyatott és tágas; kerülje a homokos részeket, mert mély sárra válthatnak.",
+                "ro": "Locul pare pustiu și vast sub ploaie; evitați porțiunile cu nisip, deoarece pot deveni noroioase și greu de parcurs.",
+                "en": "The spot feels deserted and vast in the rain; avoid sandy sections as they can turn into deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Galičak",
+                "hu": "Galičak",
+                "ro": "Galičak",
+                "en": "Galičak"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den kurvigen Bergwegen; die Aussicht auf die graue Adria ist trotz des Regens beeindruckend.",
+                "hu": "Tekerjen óvatosan a kanyargós hegyi utakon; a szürke Adriára nyíló kilátás az eső ellenére is lenyűgöző.",
+                "ro": "Pedalați cu atenție pe drumurile de munte sinuoase; vederea spre marea gri este impresionantă în ciuda ploii.",
+                "en": "Cycle carefully on the winding mountain roads; the view of the grey Adriatic is impressive despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Veliki Trovro",
+                "hu": "Veliki Trovro",
+                "ro": "Veliki Trovro",
+                "en": "Veliki Trovro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und steigen Sie zu Fuß zur Orgel; der Wind kann bei Regen recht böig sein.",
+                "hu": "Parkolja le biztonságosan a bringát, és gyalog menjen fel az orgonához; az esőben a szél lökésszerű lehet.",
+                "ro": "Parcați bicicleta în siguranță și urcați pe jos la orgă; vântul poate fi destul de puternic în timpul ploii.",
+                "en": "Park your bike safely and walk up to the organ; the wind can be quite gusty during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sestrun",
+                "hu": "Sestrun",
+                "ro": "Sestrun",
+                "en": "Sestrun"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt von Sestrun erfordert volle Konzentration; tragen Sie eine klare Brille gegen den Spritzregen beim Fahren.",
+                "hu": "A leereszkedés Sestrunról teljes koncentrációt igényel; viseljen víztiszta szemüveget a szemerkélő eső ellen.",
+                "ro": "Coborârea de pe Sestrun necesită concentrare maximă; purtați ochelari transparenți împotriva ploii în timp ce pedalați.",
+                "en": "The descent from Sestrun requires full concentration; wear clear glasses against the drizzle while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Desansko jezero",
+                "hu": "Desansko jezero",
+                "ro": "Desansko jezero",
+                "en": "Desansko jezero"
+              },
+              "tip_5lang": {
+                "de": "Die Uferpfade können rutschig sein; genießen Sie das Spiel der Regentropfen auf dem See von einem überdachten Steg aus.",
+                "hu": "A tóparti ösvények csúszósak lehetnek; élvezze az esőcseppek játékát a tavon egy fedett stégről.",
+                "ro": "Potecile de pe malul lacului pot fi alunecoase; bucurați-vă de jocul picăturilor de ploaie pe lac de pe un ponton acoperit.",
+                "en": "The lakeside paths can be slippery; enjoy the play of raindrops on the lake from a covered pier if possible."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Kirche. Mittags radeln wir zum windigen Kite Surf Spot und weiter nach Galičak. Nachmittags erklimmen wir mit dem Rad die Höhen von Veliki Trovro und Sestrun unter der tiefstehenden Sonne. Den Tag beenden wir am Desansko jezero, wo das Schilf im kalten Wind raschelt und die Dämmerung früh einsetzt.",
+            "hu": "Friss téli reggel kezdődik a templomnál. Délben a szeles Kite Surf Spot felé tekerünk, majd tovább a Galičakhoz. Délután a Veliki Trovro és Sestrun magaslatait hódítjuk meg bringával az alacsonyan járó nap fényében. A napot a Desansko-tónál zárjuk, ahol a nádas zúg a hideg szélben, és korán leszáll az alkony.",
+            "ro": "O dimineață răcoroasă de iarnă începe la biserică. La prânz pedalăm spre Kite Surf Spot și mai departe spre Galičak. După-amiaza urcăm pe înălțimile Veliki Trovro și Sestrun sub soarele palid. Încheiem ziua la Desansko jezero, unde stuful foșnește în vântul rece și amurgul se lasă devreme.",
+            "en": "A crisp winter morning begins at the church. At noon, we cycle to the windy Kite Surf Spot and on to Galičak. In the afternoon, we tackle the heights of Veliki Trovro and Sestrun under the low-hanging sun. We end the day at Desansko jezero, where the reeds rustle in the cold wind and dusk sets in early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "crkva Kraljice Neba i Zemlje",
+                "hu": "crkva Kraljice Neba i Zemlje",
+                "ro": "crkva Kraljice Neba i Zemlje",
+                "en": "crkva Kraljice Neba i Zemlje"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind am Morgen sehr kalt sein kann; die Kirche bietet einen ruhigen Moment zum Aufwärmen.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél reggel nagyon hideg lehet; a templom csendes hely a bemelegedéshez.",
+                "ro": "Purtați mănuși groase, deoarece vântul de deplasare poate fi foarte rece dimineața; biserica oferă un moment liniștit pentru încălzire.",
+                "en": "Wear warm gloves as the wind chill can be very cold in the morning; the church offers a quiet moment to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Kite Surf Spot",
+                "hu": "Kite Surf Spot",
+                "ro": "Kite Surf Spot",
+                "en": "Kite Surf Spot"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Strand fast leer und perfekt für Fotos; schützen Sie Ihr Gesicht mit einem Tuch vor dem kalten Meereswind.",
+                "hu": "Télen a strand szinte üres és tökéletes fotózáshoz; védje arcát csősállal a hideg tengeri szél ellen.",
+                "ro": "Iarna plaja este aproape goală și perfectă pentru fotografii; protejați-vă fața cu un fular împotriva vântului rece de mare.",
+                "en": "In winter, the beach is almost empty and perfect for photos; protect your face with a buff against the cold sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Galičak",
+                "hu": "Galičak",
+                "ro": "Galičak",
+                "en": "Galičak"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird Sie aufwärmen, aber oben weht oft eine kalte Bura; halten Sie eine isolierende Schicht für die Abfahrt bereit.",
+                "hu": "A felfelé út felmelegíti, de fent gyakran fúj a hideg bóra; tartson készenlétben egy hőszigetelő réteget a lejtmenethez.",
+                "ro": "Urcarea vă va încălzi, dar sus bate adesea vântul rece Bura; aveți pregătit un strat izolator pentru coborâre.",
+                "en": "The climb will warm you up, but a cold Bura often blows at the top; have an insulating layer ready for the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Veliki Trovro",
+                "hu": "Veliki Trovro",
+                "ro": "Veliki Trovro",
+                "en": "Veliki Trovro"
+              },
+              "tip_5lang": {
+                "de": "Die Orgel klingt in der dünnen Winterluft besonders klar; achten Sie auf Raureif auf den schattigen Abschnitten des Weges.",
+                "hu": "Az orgona különösen tisztán szól a ritka téli levegőben; ügyeljen a zúzmarás foltokra az út árnyékos szakaszain.",
+                "ro": "Orga sună deosebit de clar în aerul rarefiat de iarnă; atenție la porțiunile cu chiciură de pe secțiunile umbrite ale drumului.",
+                "en": "The organ sounds particularly clear in the thin winter air; watch out for frost on the shaded sections of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Sestrun",
+                "hu": "Sestrun",
+                "ro": "Sestrun",
+                "en": "Sestrun"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das weiche Licht der Winternachmittage über der Neretva; planen Sie die Rückkehr vor 17 Uhr ein.",
+                "hu": "Élvezze a téli délutánok lágy fényeit a Neretva felett; tervezze a visszatérést 17 óra előtt.",
+                "ro": "Bucurați-vă de lumina caldă a după-amiezelor de iarnă peste Neretva; planificați întoarcerea înainte de ora 17:00.",
+                "en": "Enjoy the soft light of winter afternoons over the Neretva; plan to be back before the early sunset at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Desansko jezero",
+                "hu": "Desansko jezero",
+                "ro": "Desansko jezero",
+                "en": "Desansko jezero"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe am See ist im Winter absolut magisch; ziehen Sie sich nach Sonnenuntergang schnell etwas Wärmeres an.",
+                "hu": "A tó körüli nyugalom télen abszolút varázslatos; naplemente után gyorsan vegyen fel valami melegebbet.",
+                "ro": "Liniștea de lângă lac este absolut magică iarna; după apusul soarelui, îmbrăcați-vă rapid cu ceva mai gros.",
+                "en": "The tranquility by the lake is absolutely magical in winter; put on something warmer quickly after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós utazása az északi karszttavak lenyűgöző világában kezdődik a Crniševo, Vrbnik és Plitko jezero reggeli felfedezésével. Délben a Kolovrat sziklás dombjai és a Šušnjevac rejtett zöldellő lankái felé veszi az irányt. Délután elmélyülhet a helyi kulturális örökségben a crkva Kraljice Neba i Zemlje templom meglátogatásával. Az utazás a Desansko jezero tó partján ér véget, amelynek tükörsima vize tökéletesen veri vissza az esti égbolt színeit.",
         "ro": "Călătoria dvs. cu mașina începe printre lacurile carstice nordice fascinante, explorând Crniševo, Vrbnik și Plitko jezero în lumina dimineții. Amiaza vă aduce spre dealurile stâncoase din Kolovrat și verdeața izolată din Šušnjevac pentru scurte plimbări pitorești. După-amiaza, descoperiți patrimoniul local vizitând biserica crkva Kraljice Neba i Zemlje. Călătoria se încheie grațios la Desansko jezero, unde apele calme reflectă perfect cerul vibrant de seară.",
         "en": "Your road trip begins among the fascinating northern karst lakes, exploring Crniševo, Vrbnik, and Plitko jezero in the morning light. Midday shifts towards the rugged hills of Kolovrat and the secluded greenery of Šušnjevac for short, scenic walks. In the afternoon, dive into local heritage by visiting the charming crkva Kraljice Neba i Zemlje. The trip winds down gracefully at Desansko jezero, where calm waters flawlessly reflect the vibrant evening sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen die Fahrt durch das verregnete Crniševo und Vrbnik. Mittags halten wir am Plitko jezero und Kolovrat, während der Regen gegen die Scheiben trommelt. Nachmittags besuchen wir Šušnjevac und die Kirche, die einen trockenen Zufluchtsort bietet. Zum Abschluss bewundern wir das Desansko jezero vom warmen Auto aus, während draußen die Natur im Wasser versinkt.",
+            "hu": "Autós túránkat az eső áztatta Crniševo és Vrbnik környékén kezdjük. Délben a Plitko-tónál és Kolovratnál állunk meg, miközben az eső kopog a szélvédőn. Délután Šušnjevac és a templom következik, utóbbi száraz menedéket nyújt. Végezetül a Desansko-tavat csodáljuk meg a meleg autóból, ahogy kint a táj az esőbe vész.",
+            "ro": "Începem călătoria cu mașina prin Crniševo și Vrbnik sub ploaie. La prânz oprim la Plitko jezero și Kolovrat, în timp ce ploaia bate în parbriz. După-amiaza vizităm Šušnjevac și biserica, care oferă un refugiu uscat. La final, admirăm Desansko jezero din căldura mașinii, în timp ce afară natura este scăldată de ploaie.",
+            "en": "We begin our drive through rainy Crniševo and Vrbnik. At noon, we stop at Plitko jezero and Kolovrat as rain drums against the windows. In the afternoon, we visit Šušnjevac and the church, which offers a dry sanctuary. Finally, we admire Desansko jezero from the warmth of the car while the landscape outside is drenched in rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Crniševo",
+                "hu": "Crniševo",
+                "ro": "Crniševo",
+                "en": "Crniševo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wolkenformationen über den Hügeln; bleiben Sie auf den asphaltierten Straßen, um Schlamm zu vermeiden.",
+                "hu": "Figyelje a drámai felhőalakzatokat a dombok felett; maradjon az aszfaltozott utakon a sár elkerülése érdekében.",
+                "ro": "Observați formațiunile dramatice de nori deasupra dealurilor; rămâneți pe drumurile asfaltate pentru a evita noroiul.",
+                "en": "Watch the dramatic cloud formations over the hills; stay on paved roads to avoid muddy sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Vrbnik",
+                "hu": "Vrbnik",
+                "ro": "Vrbnik",
+                "en": "Vrbnik"
+              },
+              "tip_5lang": {
+                "de": "Die Farbe des Sees wirkt im Regen tiefblau bis grau; nutzen Sie die Aussichtspunkte direkt an der Straße für schnelle Fotos.",
+                "hu": "A tó színe esőben mélykékből szürkébe hajlik; használja az út menti kilátópontokat a gyors fotózáshoz.",
+                "ro": "Culoarea lacului pare albastru închis spre gri pe ploaie; folosiți punctele de observație de lângă drum pentru fotografii rapide.",
+                "en": "The color of the lake shifts from deep blue to grey in the rain; use the roadside viewpoints for quick photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Plitko jezero",
+                "hu": "Plitko jezero",
+                "ro": "Plitko jezero",
+                "en": "Plitko jezero"
+              },
+              "tip_5lang": {
+                "de": "Das seichte Wasser erzeugt bei Regen interessante Muster; parken Sie so, dass Sie die Aussicht trocken aus dem Wagen genießen können.",
+                "hu": "A sekély víz érdekes mintákat produkál az esőben; parkoljon úgy, hogy a kocsiból is élvezhesse a kilátást.",
+                "ro": "Apa puțin adâncă creează modele interesante în timpul ploii; parcați astfel încât să puteți admira vederea din mașină.",
+                "en": "The shallow water creates interesting patterns in the rain; park so you can enjoy the view dry from inside your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolovrat",
+                "hu": "Kolovrat",
+                "ro": "Kolovrat",
+                "en": "Kolovrat"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Berge sind oft in dichten Nebel gehüllt; fahren Sie langsam, da die Sichtverhältnisse stark eingeschränkt sein können.",
+                "hu": "A környező hegyeket gyakran sűrű köd borítja; vezessen lassan, mert a látási viszonyok korlátozottak lehetnek.",
+                "ro": "Munții din jur sunt adesea învăluiți în ceață densă; conduceți încet, deoarece vizibilitatea poate fi redusă.",
+                "en": "The surrounding mountains are often shrouded in dense mist; drive slowly as visibility can be severely limited."
+              }
+            },
+            {
+              "name": {
+                "de": "Šušnjevac",
+                "hu": "Šušnjevac",
+                "ro": "Šušnjevac",
+                "en": "Šušnjevac"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Stimmung der winterlichen Sumpflandschaft; halten Sie für einen kurzen Spaziergang einen Schirm bereit.",
+                "hu": "Élvezze a téli mocsárvilág melankolikus hangulatát; tartsanak készenlétben esernyőt egy rövid sétához.",
+                "ro": "Bucurați-vă de atmosfera melancolică a peisajului mlăștinos; aveți pregătită o umbrelă pentru o scurtă plimbare.",
+                "en": "Enjoy the melancholic atmosphere of the marshy landscape; keep an umbrella ready for a short walk if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "crkva Kraljice Neba i Zemlje",
+                "hu": "crkva Kraljice Neba i Zemlje",
+                "ro": "crkva Kraljice Neba i Zemlje",
+                "en": "crkva Kraljice Neba i Zemlje"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche ist ein herrlich trockener und warmer Ort für eine Besichtigung; parken Sie direkt auf dem Kirchplatz.",
+                "hu": "A templom belseje remek száraz és meleg hely a nézelődéshez; parkoljon közvetlenül a templom melletti téren.",
+                "ro": "Interiorul bisericii este un loc uscat și cald pentru vizitare; parcați direct în piața din fața bisericii.",
+                "en": "The interior of the church is a wonderful dry and warm place for a visit; park directly in the square next to it."
+              }
+            },
+            {
+              "name": {
+                "de": "Desansko jezero",
+                "hu": "Desansko jezero",
+                "ro": "Desansko jezero",
+                "en": "Desansko jezero"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Regenwetter über dem weiten See; nutzen Sie die Zeit für eine kleine Pause im Auto mit Blick aufs Wasser.",
+                "hu": "Figyelje meg az esős tájat a hatalmas tó felett; használja ki az időt egy rövid autós pihenőre a tóra néző kilátással.",
+                "ro": "Observați peisajul ploios deasupra lacului vast; profitați de timp pentru o scurtă pauză în mașină cu vedere la apă.",
+                "en": "Observe the rainy landscape over the vast lake; take a short break in the car with a direct view of the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen fahren wir durch Crniševo und Vrbnik. Mittags glitzert das Plitko jezero in der tiefstehenden Sonne, während wir nach Kolovrat weiterfahren. Nachmittags besuchen wir Šušnjevac und wärmen uns in der Kirche auf. Zum Sonnenuntergang gegen 17:00 Uhr erreichen wir das Desansko jezero, wo das goldene Licht die Schilffelder in eine magische Atmosphäre taucht.",
+            "hu": "Tiszta téli reggelen autózunk át Crniševón és Vrbniken. Délben a Plitko-tó csillog az alacsony napfényben, miközben Kolovrat felé haladunk. Délután Šušnjevacot látogatjuk meg, majd a templomban melegszünk fel. A 17 óra körüli naplementére érünk a Desansko-tóhoz, ahol az aranyló fények varázslatossá teszik a nádasokat.",
+            "ro": "Într-o dimineață senină de iarnă conducem prin Crniševo și Vrbnik. La prânz, Plitko jezero scliprește sub soarele palid în timp ce înaintăm spre Kolovrat. După-amiaza vizităm Šušnjevac și ne încălzim în biserică. La apus, în jurul orei 17:00, ajungem la Desansko jezero, unde lumina aurie transformă stuful într-un peisaj magic.",
+            "en": "On a clear winter morning, we drive through Crniševo and Vrbnik. At noon, Plitko jezero glistens in the low sun as we continue towards Kolovrat. In the afternoon, we visit Šušnjevac and warm up in the church. By sunset around 5:00 PM, we reach Desansko jezero, where golden light bathes the reed fields in a magical atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Crniševo",
+                "hu": "Crniševo",
+                "ro": "Crniševo",
+                "en": "Crniševo"
+              },
+              "tip_5lang": {
+                "de": "Die kahle Winterlandschaft bietet weite Sichtachsen; achten Sie auf die Heizungseinstellung im Auto für maximalen Komfort.",
+                "hu": "A kopár téli táj messzi kilátást enged a hegyekre; állítsa be jól a kocsi fűtését a maximális kényelemért.",
+                "ro": "Peisajul golaș de iarnă oferă perspective largi; ajustați încălzirea în mașină pentru un confort maxim.",
+                "en": "The sparse winter landscape offers wide views of the mountains; set the car heating for maximum comfort during stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Vrbnik",
+                "hu": "Vrbnik",
+                "ro": "Vrbnik",
+                "en": "Vrbnik"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter spiegelglatt und ruhig; parken Sie am Rand für ein schnelles Foto im besten Mittagslicht.",
+                "hu": "A víz télen tükörsima és nyugodt; parkoljon le az út szélén egy gyors fotóhoz a legjobb déli fényekben.",
+                "ro": "Apa este calmă și netedă ca o oglindă iarna; parcați pe marginea drumului pentru o fotografie rapidă în cea mai bună lumină.",
+                "en": "The water is mirror-smooth and calm in winter; park at the edge for a quick photo in the best midday light."
+              }
+            },
+            {
+              "name": {
+                "de": "Plitko jezero",
+                "hu": "Plitko jezero",
+                "ro": "Plitko jezero",
+                "en": "Plitko jezero"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Uferbereiche bieten ein seltenes und schönes Fotomotiv; bleiben Sie im Auto, um die Kälte draußen zu lassen.",
+                "hu": "A befagyott parti részek ritka és szép fotótémát kínálnak; maradjon a kocsiban, hogy elkerülje a kinti hideget.",
+                "ro": "Marginile înghețate ale lacului oferă un subiect foto rar și frumos; rămâneți în mașină pentru a evita frigul de afară.",
+                "en": "The frozen edges of the lake offer a rare and beautiful photo subject; stay in the car to avoid the outside chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kolovrat",
+                "hu": "Kolovrat",
+                "ro": "Kolovrat",
+                "en": "Kolovrat"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das Tal ist im Winter besonders kontrastreich; nutzen Sie die warmen Sonnenstrahlen durch die Autoscheiben.",
+                "hu": "A völgyre nyíló kilátás télen különösen kontrasztos; élvezze a meleg napsugarakat az autó ablakain keresztül.",
+                "ro": "Vederea asupra văii este deosebit de contrastantă iarna; bucurați-vă de razele calde ale soarelui prin geamurile mașinii.",
+                "en": "The view of the valley is particularly high-contrast in winter; enjoy the warm sun rays through the car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Šušnjevac",
+                "hu": "Šušnjevac",
+                "ro": "Šušnjevac",
+                "en": "Šušnjevac"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Zugvögel, die in den winterlichen Marschen rasten; bringen Sie ein Fernglas für die Beobachtung aus dem Auto mit.",
+                "hu": "Figyelje meg a téli mocsarakban pihenő költöző madarakat; hozzon távcsövet az autóból történő megfigyeléshez.",
+                "ro": "Observați păsările migratoare care se odihnesc în mlaștinile de iarnă; aduceți un binoclu pentru observarea din mașină.",
+                "en": "Observe migratory birds resting in the winter marshes; bring binoculars for observation from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "crkva Kraljice Neba i Zemlje",
+                "hu": "crkva Kraljice Neba i Zemlje",
+                "ro": "crkva Kraljice Neba i Zemlje",
+                "en": "crkva Kraljice Neba i Zemlje"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag für eine ruhige Atmosphäre; die dicken Mauern halten die Kälte draußen.",
+                "hu": "Látogassa meg a templomot késő délután a nyugodt hangulatért; a vastag falak jól tartják kint a hideget.",
+                "ro": "Vizitați biserica la sfârșitul după-amiezii pentru o atmosferă liniștită; zidurile groase țin frigul afară.",
+                "en": "Visit the church in the late afternoon for a peaceful atmosphere; the thick walls keep the outside cold at bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Desansko jezero",
+                "hu": "Desansko jezero",
+                "ro": "Desansko jezero",
+                "en": "Desansko jezero"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist hier im Winter aufgrund der klaren Luft atemberaubend; parken Sie mit Blick nach Westen für das Finale.",
+                "hu": "A naplemente itt télen a tiszta levegő miatt lélegzetelállító; parkoljon nyugati kilátással a túra zárásához.",
+                "ro": "Apusul este uluitor aici iarna datorită aerului curat; parcați cu fața spre vest pentru finalul călătoriei.",
+                "en": "The sunset here is breathtaking in winter due to the clear air; park facing west for the perfect tour finale."
+              }
+            }
+          ]
+        }
       }
     }
   }

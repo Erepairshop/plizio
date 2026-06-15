@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a tengerparti kilátással a Frigiano-toronynál. Délben másszon fel a történelmi Doria-kastélyba a középkori hangulatért. Délután fedezze fel a katedrálist, és sétáljon el a helyi parkok felé. Az este a festői Baia Ostina békés naplementéjével zárul.",
         "ro": "Începeți dimineața admirând vederea de coastă la turnul Frigiano. La prânz, urcați la castelul istoric Doria pentru farmecul medieval. După-amiaza, descoperiți catedrala și plimbați-vă prin parcurile locale. Seara se încheie cu un apus de soare relaxant la pitorescul Baia Ostina.",
         "en": "Start your morning admiring the coastal views at the Frigiano tower. Midday brings a climb to the historic Doria Castle to soak in medieval charm. In the afternoon, discover the iconic cathedral and stroll towards the local parks. Your evening concludes with a sunset retreat at the scenic Baia Ostina."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit einem vorsichtigen Spaziergang zum Turm im Regen.\n\nSuchen Sie mittags Schutz im historischen Schloss und trocknen Sie sich im Museum auf.\n\nVerbringen Sie den Nachmittag damit, die Kathedrale und die dramatischen, nebligen Küstenblicke zu bewundern.\n\nBeenden Sie den Tag an der Baia Ostina und beobachten Sie die Wellen vor der Rückkehr.",
+            "hu": "Indítsa a reggelt egy óvatos sétával a toronyhoz az esőben.\n\nDélben keressen menedéket a történelmi kastélyban, és száradjon meg a múzeumban.\n\nA délutánt a katedrális és a párás, drámai tengerparti kilátás csodálásával töltheti.\n\nZárja a napot a Baia Ostina öbölnél, figyelve a hullámokat a biztonságos visszatérés előtt.",
+            "ro": "Începeți dimineața cu o plimbare precaută spre turn pe ploaie.\n\nLa prânz, adăpostiți-vă în castelul istoric și uscați-vă vizitând muzeul.\n\nPetreceți după-amiaza admirând catedrala și priveliștile de coastă dramatice și cețoase.\n\nÎncheiați ziua la Baia Ostina, privind valurile învolburate înainte de a vă întoarce în siguranță.",
+            "en": "Start the morning with a cautious walk to the tower in the rain.\n\nBy midday, take shelter in the historic castle and dry off while exploring the museum.\n\nSpend the afternoon admiring the cathedral and the dramatic, misty coastal views from Cantareddi.\n\nFinish your day at Baia Ostina, watching the moody waves before heading back safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di Frigiano",
+                "hu": "Torre di Frigiano",
+                "ro": "Torre di Frigiano",
+                "en": "Torre di Frigiano"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die nassen, rutschigen Felsen rund um den Turm und bringen Sie einen Regenschirm mit.",
+                "hu": "Vigyázzon a csúszós, nedves sziklákon a torony körül, és hozzon magával erős esernyőt.",
+                "ro": "Fiți atenți la pietrele umede și alunecoase din jurul turnului și luați o umbrelă rezistentă.",
+                "en": "Watch your step on the wet, slippery rocks around the tower and bring a sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello dei Doria",
+                "hu": "Castello dei Doria",
+                "ro": "Castello dei Doria",
+                "en": "Castello dei Doria"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der perfekte Zufluchtsort im Innenbereich, um sich aufzutrocknen.",
+                "hu": "Ez a múzeum tökéletes beltéri menedék, ahol megszáradhat, miközben a helyi történelemmel ismerkedik.",
+                "ro": "Acest muzeu este refugiul perfect pentru a vă usca în timp ce învățați despre istoria locală.",
+                "en": "This museum is the perfect indoor refuge to dry off while learning about local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Concattedrale di Sant'Antonio Abate",
+                "hu": "Concattedrale di Sant'Antonio Abate",
+                "ro": "Concattedrale di Sant'Antonio Abate",
+                "en": "Concattedrale di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem Regen zu entkommen, und bewundern Sie die bemalten Gewölbe im Trockenen.",
+                "hu": "Lépjen be, hogy elmeneküljön a záporok elől, és csodálja meg a gyönyörűen festett boltozatokat a száraz térben.",
+                "ro": "Intrați pentru a scăpa de ploaie și admirați bolțile frumos pictate în interiorul uscat.",
+                "en": "Step inside to escape the showers and admire the beautifully painted vaults in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Cantareddi",
+                "hu": "Cantareddi",
+                "ro": "Cantareddi",
+                "en": "Cantareddi"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei starkem Regen matschig werden, tragen Sie also wasserdichte Schuhe.",
+                "hu": "Az ösvények sarasak lehetnek heves esőzéskor, ezért viseljen vízálló cipőt ezen a szakaszon.",
+                "ro": "Potecile pot deveni noroioase pe ploaie, purtați încălțăminte impermeabilă pentru această secțiune.",
+                "en": "The paths may get muddy during heavy rain, so wear waterproof walking shoes for this section."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Ostina",
+                "hu": "Baia Ostina",
+                "ro": "Baia Ostina",
+                "en": "Baia Ostina"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dramatische, stürmische Meereskulisse aus sicherer Entfernung im Regenmantel.",
+                "hu": "Tapasztalja meg a drámai, viharos tengeri kilátást biztonságos távolságból; húzza fel az esőkabátját!",
+                "ro": "Experimentați priveliștile dramatice ale mării furtunoase de la o distanță sigură sub umbrelă.",
+                "en": "Experience the dramatic, stormy sea views from a safe distance; keep your raincoat zipped up!"
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen flotten Morgenspaziergang zum Turm in der klaren Winterluft.\n\nDer Mittag bietet einen ruhigen Besuch im Schloss, um sich drinnen aufzuwärmen.\n\nBewundern Sie nachmittags die Kathedrale und die ruhigen Wege.\n\nErreichen Sie Baia Ostina pünktlich, um den frühen Sonnenuntergang gegen 17:00 Uhr warm eingepackt zu erleben.",
+            "hu": "Élvezze a frissítő reggeli sétát a toronyhoz a csípős téli levegőben.\n\nA dél csöndes, tömeg nélküli látogatást kínál a kastélyban, ahol felmelegedhet.\n\nDélután csodálja meg a katedrálist és a csendes ösvényeket.\n\nÉrjen a Baia Ostina öbölhöz pont időben, hogy melegen felöltözve elcsípje a korai, 17:00 óra körüli naplementét.",
+            "ro": "Bucurați-vă de o plimbare matinală revigorantă spre turn în aerul proaspăt de iarnă.\n\nPrânzul oferă o vizită liniștită la castel pentru a vă încălzi.\n\nDupă-amiaza, admirați arhitectura catedralei și potecile liniștite.\n\nAjungeți la Baia Ostina exact la timp pentru a prinde apusul devreme de iarnă în jurul orei 17:00, îmbrăcați gros.",
+            "en": "Enjoy a brisk morning walk to the tower in the crisp winter air.\n\nMidday offers a peaceful, uncrowded visit to the castle to warm up inside.\n\nIn the afternoon, marvel at the cathedral's architecture and the quiet trails of Cantareddi.\n\nReach Baia Ostina just in time to catch the early winter sunset around 17:00, bundled up warmly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre di Frigiano",
+                "hu": "Torre di Frigiano",
+                "ro": "Torre di Frigiano",
+                "en": "Torre di Frigiano"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenwind kann beißend sein, tragen Sie also eine winddichte Jacke bei der Besichtigung.",
+                "hu": "A parti szél csípős lehet, ezért viseljen szélálló kabátot, miközben megcsodálja az építményt.",
+                "ro": "Vântul de coastă poate fi tăios, așa că purtați o jachetă rezistentă la vânt în timpul vizitei.",
+                "en": "The coastal wind can be biting, so wear a windproof jacket while admiring this historical structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello dei Doria",
+                "hu": "Castello dei Doria",
+                "ro": "Castello dei Doria",
+                "en": "Castello dei Doria"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Burgmauern auf und genießen Sie die Ausstellungen ohne die Sommermassen.",
+                "hu": "Melegedjen fel a kastély falai között, és élvezze a kiállításokat a nyári tömeg nélkül.",
+                "ro": "Încălziți-vă în interiorul castelului și bucurați-vă de expoziții fără aglomerația de vară.",
+                "en": "Warm up inside the castle walls and enjoy the exhibits without the usual summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Concattedrale di Sant'Antonio Abate",
+                "hu": "Concattedrale di Sant'Antonio Abate",
+                "ro": "Concattedrale di Sant'Antonio Abate",
+                "en": "Concattedrale di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht, das durch die Fenster fällt, schafft eine sehr friedliche Atmosphäre.",
+                "hu": "Az ablakokon beszűrődő lágy téli fény mélyen békés hangulatot teremt a belső térben.",
+                "ro": "Lumina blândă de iarnă care pătrunde prin ferestre creează o atmosferă profund pașnică.",
+                "en": "The soft winter light filtering through the windows creates a deeply peaceful atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cantareddi",
+                "hu": "Cantareddi",
+                "ro": "Cantareddi",
+                "en": "Cantareddi"
+              },
+              "tip_5lang": {
+                "de": "Wickeln Sie sich in einen dicken Schal, um die frische Winterluft in diesem Gebiet zu genießen.",
+                "hu": "Burkolózzon vastag sálba, hogy élvezze a friss téli levegőt a festői pihenőövezet felfedezésekor.",
+                "ro": "Înfășurați-vă cu un fular gros pentru a vă bucura de aerul rece explorând această zonă.",
+                "en": "Wrap up with a thick scarf to enjoy the brisk winter air while exploring this scenic recreational area."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Ostina",
+                "hu": "Baia Ostina",
+                "ro": "Baia Ostina",
+                "en": "Baia Ostina"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den frühen Sonnenuntergang über der Bucht warm eingepackt zu sehen.",
+                "hu": "Érkezzen 17:00 óra előtt, hogy meleg rétegekben csípje el a látványos korai naplementét az öböl felett.",
+                "ro": "Ajungeți înainte de 17:00 pentru a prinde apusul spectaculos peste golf, îmbrăcați în straturi.",
+                "en": "Arrive before 17:00 to catch the spectacular early sunset over the bay, dressed in warm layers."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A tekerés az Ampurias strand hullámainál kezdődik, majd a történelmi toronyhoz vezet. Dél körül tegye le a bringát a kastély és a katedrális felfedezéséhez. Később tekerjen keletre, és pihenjen a Baia Ostina partján. A napot a múltba tett utazással zárja a Campulandru nuraghénál.",
         "ro": "Plimbarea începe pe plaja Ampurias înainte de a pedala spre turnul istoric. La prânz, lăsați bicicleta pentru a explora castelul și catedrala. Mai târziu, pedalați spre est spre țărmurile din Baia Ostina. Încheiați ziua cu o călătorie în trecut la anticul nuraghe Campulandru.",
         "en": "Your ride starts by the waves at Ampurias beach before rolling to the historic tower. Around midday, park your bike to explore the towering castle and cathedral. Later, pedal eastwards to relax along the shores of Baia Ostina. End the day with a journey into the past at the Campulandru nuraghe."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Morgenfahrt erfordert Schutzbleche und wasserdichte Ausrüstung zum Strand und Turm.\n\nMachen Sie mittags eine trockene Pause im Schloss und in der Kathedrale.\n\nDie Nachmittagsfahrt zur Bucht erfordert Vorsicht auf rutschigen Straßen.\n\nBeenden Sie die Fahrt am alten Nuraghe vor dem dunklen Abend.",
+            "hu": "A nedves reggeli tekeréshez sárvédő és vízálló felszerelés kell a strand és a torony felé.\n\nDélben tartson egy jól megérdemelt, száraz pihenőt a kastélyban és a katedrálisban.\n\nA délutáni tekerés az öbölhöz óvatosságot igényel a csúszós utakon.\n\nFejezze be nedves, de hálás útját az ősi nuraghénál estig.",
+            "ro": "O plimbare umedă de dimineață necesită apărători de noroi și echipament impermeabil.\n\nLa prânz, faceți o pauză uscată și binemeritată în castel și catedrală.\n\nCălătoria de după-amiază spre golf necesită prudență pe drumurile alunecoase.\n\nÎncheiați călătoria umedă la nuraghe înainte de a se înnopta.",
+            "en": "A wet morning ride requires mudguards and waterproof gear as you cycle to the beach and tower.\n\nBy noon, take a well-deserved, dry break inside the historical castle and cathedral.\n\nThe afternoon ride to the bay demands caution on slippery roads.\n\nFinish your wet but rewarding journey at the ancient nuraghe before evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Ampurias",
+                "hu": "Spiaggia di Ampurias",
+                "ro": "Spiaggia di Ampurias",
+                "en": "Spiaggia di Ampurias"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist nass, bleiben Sie also auf den gepflasterten Radwegen im wasserdichten Poncho.",
+                "hu": "A homok nedves lesz, ezért maradjon a burkolt kerékpárutakon, és viseljen vízálló poncsót.",
+                "ro": "Nisipul va fi umed, așa că rămâneți pe pistele asfaltate și purtați un poncho impermeabil.",
+                "en": "The sand will be wet, so stay on the paved cycle paths and wear a solid waterproof poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Frigiano",
+                "hu": "Torre di Frigiano",
+                "ro": "Torre di Frigiano",
+                "en": "Torre di Frigiano"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie früh, da die gepflasterten Bereiche in der Nähe des Turms bei Regen rutschig werden.",
+                "hu": "Fékezzen időben a közeledéskor, mert a torony körüli macskaköves részek nagyon csúsznak esőben.",
+                "ro": "Frânați devreme când vă apropiați, deoarece zonele pietruite de lângă turn devin foarte alunecoase.",
+                "en": "Brake early as you approach, because the cobbled areas near the tower get extremely slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello dei Doria",
+                "hu": "Castello dei Doria",
+                "ro": "Castello dei Doria",
+                "en": "Castello dei Doria"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und gehen Sie hinein, um sich bei den Ausstellungen aufzutrocknen.",
+                "hu": "Parkolja le biztonságosan a kerékpárt, és menjen be teljesen megszáradni a lenyűgöző kiállításokra.",
+                "ro": "Parcați bicicleta în siguranță și intrați pentru a vă usca complet explorând expozițiile.",
+                "en": "Park your bike securely and head inside to dry off completely while exploring the fascinating exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Concattedrale di Sant'Antonio Abate",
+                "hu": "Concattedrale di Sant'Antonio Abate",
+                "ro": "Concattedrale di Sant'Antonio Abate",
+                "en": "Concattedrale di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Ein friedliches, trockenes Heiligtum, in dem Sie die nasse Ausrüstung ablegen können.",
+                "hu": "Békés, száraz menedék, ahol leveheti vizes felszerelését, és megcsodálhatja a történelmi belsőt.",
+                "ro": "Un sanctuar pașnic și uscat unde vă puteți scoate echipamentul ud și admira interiorul.",
+                "en": "A peaceful, dry sanctuary where you can take off your wet gear and admire the historical interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Ostina",
+                "hu": "Baia Ostina",
+                "ro": "Baia Ostina",
+                "en": "Baia Ostina"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt kann bei Nässe tückisch sein; verringern Sie die Geschwindigkeit deutlich.",
+                "hu": "Az ereszkedés veszélyes lehet vizesen; csökkentse a sebességet, és figyeljen a tócsákra.",
+                "ro": "Coborârea poate fi periculoasă pe ploaie; reduceți viteza semnificativ și atenție la bălți.",
+                "en": "The descent can be treacherous when wet; lower your speed significantly and watch for puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Campulandru",
+                "hu": "Nuraghe Campulandru",
+                "ro": "Nuraghe Campulandru",
+                "en": "Nuraghe Campulandru"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Rad am Wegeingang; Sie benötigen feste, schlammfeste Stiefel für die Ruinen.",
+                "hu": "Hagyja a biciklit az ösvény bejáratánál; erős, sárálló csizmára lesz szüksége a romokhoz.",
+                "ro": "Lăsați bicicleta la intrarea pe potecă; veți avea nevoie de cizme rezistente la noroi.",
+                "en": "Leave your bike at the path entrance; you'll need sturdy, mud-proof boots to walk up to the ruins."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Radtag flott, um sich am Strand und Turm aufzuwärmen.\n\nMittags bieten Schloss und Kathedrale tolle Orte, um der Kälte zu entfliehen.\n\nFahren Sie nachmittags zur Bucht und halten Sie ein stetiges Tempo.\n\nErreichen Sie den Nuraghe vor dem Sonnenuntergang um 17:00 Uhr mit Licht.",
+            "hu": "Indítsa a biciklis napot lendületesen, hogy bemelegedjen a strand és a torony mellett.\n\nDélben a kastély és a katedrális remek beltéri helyeket kínál a hideg elől.\n\nDélután tekerjen az öböl felé, egyenletes tempóval melegen tartva magát.\n\nÉrjen a nuraghéhoz a korai 17:00-es sötétedés előtt lámpákkal.",
+            "ro": "Începeți ziua de ciclism în forță pentru a vă încălzi lângă plajă și turnul de coastă.\n\nLa prânz, castelul și catedrala oferă locuri minunate pentru a scăpa de frig.\n\nPedalați spre golf după-amiaza pentru a vă menține căldura.\n\nAsigurați-vă că ajungeți la nuraghe înainte de apusul de la 17:00, cu lumini la bicicletă.",
+            "en": "Start your cycling day briskly to warm up by the beach and coastal tower.\n\nAround midday, the castle and cathedral offer wonderful indoor spots to escape the chill.\n\nRide towards the bay in the afternoon, keeping a steady pace to stay warm.\n\nEnsure you reach the nuraghe before the early 17:00 sunset, equipped with bike lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Ampurias",
+                "hu": "Spiaggia di Ampurias",
+                "ro": "Spiaggia di Ampurias",
+                "en": "Spiaggia di Ampurias"
+              },
+              "tip_5lang": {
+                "de": "Der verlassene Winterstrand ist wunderschön, aber die Meeresbrise erfordert Handschuhe.",
+                "hu": "Az elhagyatott téli strand gyönyörű, de a tengeri szellő miatt kesztyűre és széldzsekire van szükség.",
+                "ro": "Plaja pustie de iarnă este frumoasă, dar briza mării necesită mănuși și un paravânt.",
+                "en": "The deserted winter beach is beautiful, but the sea breeze requires gloves and a windbreaker."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Frigiano",
+                "hu": "Torre di Frigiano",
+                "ro": "Torre di Frigiano",
+                "en": "Torre di Frigiano"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp ist perfekt; behalten Sie die Helmmütze auf, um die Ohren zu schützen.",
+                "hu": "Egy gyors fotómegálló tökéletes itt; tartsa magán a sisakbélést, hogy védje a fülét a hidegtől.",
+                "ro": "O oprire scurtă pentru fotografii este perfectă; purtați o căciulă sub cască pentru a vă proteja urechile.",
+                "en": "A quick photo stop is perfect here; keep your helmet liner on to protect your ears from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello dei Doria",
+                "hu": "Castello dei Doria",
+                "ro": "Castello dei Doria",
+                "en": "Castello dei Doria"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten eine hervorragende Isolierung, um die Körpertemperatur zu halten.",
+                "hu": "A vastag kőfalak kiváló szigetelést nyújtanak, így remek hely a testhőmérséklet helyreállítására.",
+                "ro": "Pereții groși de piatră oferă o izolație excelentă, fiind un loc minunat pentru a vă încălzi.",
+                "en": "The thick stone walls provide excellent insulation, making it a great place to restore your core temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Concattedrale di Sant'Antonio Abate",
+                "hu": "Concattedrale di Sant'Antonio Abate",
+                "ro": "Concattedrale di Sant'Antonio Abate",
+                "en": "Concattedrale di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre; die innere Wärme ist eine willkommene Erleichterung.",
+                "hu": "Élvezze a csendes hangulatot; a benti meleg szívesen látott felüdülés a fagyos téli tekerés során.",
+                "ro": "Bucurați-vă de atmosfera liniștită; căldura interioară este o ușurare binevenită iarna.",
+                "en": "Enjoy the quiet, serene atmosphere; the indoor warmth is a welcome relief during a crisp winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Ostina",
+                "hu": "Baia Ostina",
+                "ro": "Baia Ostina",
+                "en": "Baia Ostina"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie nicht zu lange, da die Sonne gegen 17:00 Uhr untergeht und die Rückfahrt kalt wird.",
+                "hu": "Ne időzzön túl sokáig, mivel a nap korán, 17:00 körül nyugszik, amitől a visszaút hideg lesz.",
+                "ro": "Nu zăboviți prea mult, deoarece soarele apune devreme, făcând drumul de întoarcere foarte rece.",
+                "en": "Don't linger too long as the sun drops early, around 17:00, making the coastal ride back quite cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Campulandru",
+                "hu": "Nuraghe Campulandru",
+                "ro": "Nuraghe Campulandru",
+                "en": "Nuraghe Campulandru"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie dies zu Ihrem letzten Stopp vor der frühen Dämmerung; bringen Sie starke Lichter mit.",
+                "hu": "Ez legyen az utolsó megálló a korai szürkület előtt; hozzon erős lámpákat a sötét hazaúthoz.",
+                "ro": "Faceți din aceasta ultima oprire înainte de lăsarea întunericului devreme; aduceți lumini puternice.",
+                "en": "Make this your final stop before the early dusk sets in; bring strong bike lights for the dark ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Korán induljon délre a misztikus Franzesu romokhoz, mielőtt az Ampurias strandra hajtana. A délidő tökéletes az őrtorony és a fenséges Doria-kastély meglátogatására. A katedrális után vezessen keletre Campulandru felé. Vezesse le a napot egy tengerparti estével a Baia Ostina partjainál.",
         "ro": "Mergeți spre sud pentru a explora ruinele mistice Franzesu înainte de plaja Ampurias. Prânzul este perfect pentru a vizita turnul de veghe și castelul maiestuos Doria. După catedrală, conduceți spre est către Campulandru. Relaxați-vă seara pe malul mării la frumoasa Baia Ostina.",
         "en": "Drive south early to explore the mystical Franzesu ruins before hitting the Ampurias beach. Midday is perfect for visiting the watchtower and wandering through the majestic Doria Castle. After seeing the cathedral, drive east to the Campulandru site. Wind down with an evening by the sea at Baia Ostina."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Autofahren ist ideal für einen Regentag. Beginnen Sie den Morgen mit kurzen Ausflügen mit Regenschirm.\n\nMittags können Sie bequem parken und Stunden im Trockenen im Schloss verbringen.\n\nGenießen Sie nachmittags die Küstenstraße und Kathedrale.\n\nErleben Sie am Ende des Tages die wilden Küstenblicke von der Baia Ostina bequem vom Auto aus.",
+            "hu": "A vezetés ideális esős napokon. Kezdje a reggelt esernyővel védett, gyors kiugrásokkal az ősi romokhoz.\n\nDélben kényelmesen parkolhat, és órákig száraz maradhat a kastélyban.\n\nDélután élvezze a drámai tengerparti utat az öbölhöz az autó meleg kényelméből.\n\nFejezze be a napot a Baia Ostina viharos látványával a biztonságos járműből.",
+            "ro": "Condusul este ideal pentru o zi ploioasă. Începeți dimineața cu opriri scurte sub umbrelă la ruine.\n\nLa prânz, puteți parca confortabil și petrece ore întregi la adăpost în castel.\n\nDupă-amiaza, bucurați-vă de drumul de coastă dramatic spre golf din confortul mașinii.\n\nÎncheiați ziua admirând priveliștile sălbatice ale mării în siguranță.",
+            "en": "Driving is ideal for a rainy day. Start the morning with quick, umbrella-shielded dashes to the ancient ruins.\n\nAt midday, you can comfortably park and spend hours staying dry inside the castle.\n\nIn the afternoon, enjoy the dramatic coastal road to the bay from the warm comfort of your car.\n\nEnd your day safely watching the moody ocean from Baia Ostina."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe Franzesu",
+                "hu": "Nuraghe Franzesu",
+                "ro": "Nuraghe Franzesu",
+                "en": "Nuraghe Franzesu"
+              },
+              "tip_5lang": {
+                "de": "Bewahren Sie einen Regenschirm im Kofferraum auf; der kurze Weg vom Parkplatz zu den Ruinen kann matschig sein.",
+                "hu": "Tartson esernyőt a csomagtartóban; a parkolóból a romokhoz vezető rövid séta meglehetősen saras lehet.",
+                "ro": "Păstrați o umbrelă în portbagaj; scurta plimbare de la parcare la ruine poate fi destul de noroioasă.",
+                "en": "Keep an umbrella in the trunk; the short walk from the parking area to the ruins can get quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Ampurias",
+                "hu": "Spiaggia di Ampurias",
+                "ro": "Spiaggia di Ampurias",
+                "en": "Spiaggia di Ampurias"
+              },
+              "tip_5lang": {
+                "de": "Sie können die wilde, stürmische Meereskulisse bequem und warm aus Ihrem geparkten Auto genießen.",
+                "hu": "A vad, viharos tengeri kilátást a parkoló autó kényelméből és melegéből is élvezheti.",
+                "ro": "Vă puteți bucura de priveliștile sălbatice ale mării furtunoase din confortul și căldura mașinii parcate.",
+                "en": "You can enjoy the wild, stormy sea views from the comfort and warmth of your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Frigiano",
+                "hu": "Torre di Frigiano",
+                "ro": "Torre di Frigiano",
+                "en": "Torre di Frigiano"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und machen Sie ein schnelles Foto; die nassen Steine sehen sehr fotogen aus.",
+                "hu": "Parkoljon a közelben, és ugorjon ki egy gyors fotóra; a torony körüli nedves kövek nagyon fotogének.",
+                "ro": "Parcați aproape și ieșiți pentru o fotografie rapidă; pietrele umede din jurul turnului arată fotogenic.",
+                "en": "Park close by and dash out for a quick photo; the wet stones around the tower look highly photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello dei Doria",
+                "hu": "Castello dei Doria",
+                "ro": "Castello dei Doria",
+                "en": "Castello dei Doria"
+              },
+              "tip_5lang": {
+                "de": "Dieses weitläufige Innenmuseum ist der ultimative Zufluchtsort, um dem starken Regen für Stunden zu entkommen.",
+                "hu": "Ez a kiterjedt beltéri múzeum a végső menedék, ahol pár órára elmenekülhet a heves eső elől.",
+                "ro": "Acest muzeu interior extins este sanctuarul suprem pentru a scăpa de ploaia torențială câteva ore.",
+                "en": "This extensive indoor museum is the ultimate sanctuary to escape heavy rain for a couple of hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Concattedrale di Sant'Antonio Abate",
+                "hu": "Concattedrale di Sant'Antonio Abate",
+                "ro": "Concattedrale di Sant'Antonio Abate",
+                "en": "Concattedrale di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Leicht vom nahegelegenen Parkplatz erreichbar, bietet es eine trockene Umgebung bei Regengüssen.",
+                "hu": "A közeli parkolóból könnyen megközelíthető, gyönyörűen száraz és csendes környezetet kínál felhőszakadáskor.",
+                "ro": "Ușor accesibil din parcarea din apropiere, oferă un mediu uscat și liniștit în timpul ploilor torențiale.",
+                "en": "Easily accessible from nearby parking, it offers a beautifully dry and quiet environment during downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Campulandru",
+                "hu": "Nuraghe Campulandru",
+                "ro": "Nuraghe Campulandru",
+                "en": "Nuraghe Campulandru"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie Gummistiefel mit, wenn Sie aussteigen, da der Anfahrtsweg zu dickem Schlamm wird.",
+                "hu": "Hozzon erős gumicsizmát, ha ki akar szállni az autóból, mivel a megközelítési útvonal sűrű sártengerré válik.",
+                "ro": "Aduceți cizme de ploaie rezistente dacă ieșiți din mașină, deoarece drumul de acces devine plin de noroi.",
+                "en": "Bring sturdy rain boots if you plan to get out of the car, as the approach path turns to thick mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Ostina",
+                "hu": "Baia Ostina",
+                "ro": "Baia Ostina",
+                "en": "Baia Ostina"
+              },
+              "tip_5lang": {
+                "de": "Die Straße nach unten kann rutschig sein; fahren Sie langsam und genießen Sie die Aussicht sicher aus dem Fahrzeug.",
+                "hu": "A lefelé vezető út csúszós lehet; vezessen lassan, és élvezze a drámai kilátást biztonságosan a járműből.",
+                "ro": "Drumul poate fi alunecos; conduceți încet și bucurați-vă de priveliștile dramatice în siguranță din vehicul.",
+                "en": "The road leading down can be slick; drive slowly and enjoy the dramatic views safely from your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Auto bietet perfekte Wärme für eine Wintertour. Verbringen Sie den Morgen mit der Erkundung der Ruinen.\n\nGenießen Sie mittags einen gemütlichen Besuch der historischen Wahrzeichen drinnen.\n\nFahren Sie nachmittags zur Bucht, um den Sonnenuntergang vor 17:00 Uhr zu sehen.\n\nNutzen Sie die Autoheizung, um sich zwischen den Stopps angenehm aufzuwärmen.",
+            "hu": "Az autó tökéletes meleget biztosít egy téli túrához. Töltse a reggelt a friss, tömeg nélküli régészeti lelőhelyeken.\n\nÉlvezze a hangulatos déli látogatást a város történelmi beltéri nevezetességeiben.\n\nDélután vezessen a festői öbölhöz, jócskán a 17:00 órás naplemente előtt érkezve.\n\nHasználja ki az autófűtést a kényelmes utazáshoz.",
+            "ro": "O mașină oferă căldura perfectă pentru un tur de iarnă. Petreceți dimineața explorând siturile arheologice.\n\nBucurați-vă de o vizită confortabilă la prânz la reperele istorice interioare.\n\nDupă-amiaza, conduceți spre golful pitoresc înaintea apusului de la 17:00.\n\nFolosiți încălzirea mașinii pentru un plus de confort între opriri.",
+            "en": "A car provides perfect warmth for a winter tour. Spend the morning exploring the crisp, uncrowded archaeological sites.\n\nEnjoy a cozy midday visit to the town's historical indoor landmarks.\n\nFor the afternoon, drive out to the scenic bay, arriving well before the 17:00 sunset.\n\nUse the car heater to stay perfectly comfortable between all your stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nuraghe Franzesu",
+                "hu": "Nuraghe Franzesu",
+                "ro": "Nuraghe Franzesu",
+                "en": "Nuraghe Franzesu"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung ist willkommen, nachdem Sie diese windigen antiken Ruinen am Morgen erkundet haben.",
+                "hu": "Az autófűtés jól fog esni, miután felfedezte ezeket a szeles, ókori romokat a csípős reggelen.",
+                "ro": "Încălzirea mașinii va fi binevenită după explorarea acestor ruine antice expuse și vântoase dimineața.",
+                "en": "The car heater will be welcome after exploring these exposed, windy ancient ruins in the crisp morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Ampurias",
+                "hu": "Spiaggia di Ampurias",
+                "ro": "Spiaggia di Ampurias",
+                "en": "Spiaggia di Ampurias"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang am leeren Strand in Ihrem dicken Mantel in der Nähe Ihres Autos.",
+                "hu": "Tegyen egy élénk sétát az üres tengerparton vastag kabátjában, tudva, hogy a meleg autó csak pár lépésre van.",
+                "ro": "Faceți o plimbare pe plaja goală în palton, știind că mașina caldă este la doar câțiva pași.",
+                "en": "Take a brisk walk on the empty beach in your thick coat, knowing the warm car is just steps away."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Frigiano",
+                "hu": "Torre di Frigiano",
+                "ro": "Torre di Frigiano",
+                "en": "Torre di Frigiano"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie die Fenster herunter, um das Wintermeer zu hören, bevor Sie in einen Schal gewickelt aussteigen.",
+                "hu": "Húzza le az ablakot, hogy hallja a zúgó téli tengert, mielőtt kiszállna a legmelegebb sáljába burkolózva.",
+                "ro": "Coborâți geamurile pentru a auzi marea de iarnă înainte de a ieși înfășurat în cel mai călduros fular.",
+                "en": "Roll down the windows to hear the roaring winter sea before stepping out wrapped in your warmest scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello dei Doria",
+                "hu": "Castello dei Doria",
+                "ro": "Castello dei Doria",
+                "en": "Castello dei Doria"
+              },
+              "tip_5lang": {
+                "de": "Die Erkundung der Burg ist im Winter viel angenehmer, da die extreme Hitze der Sommermonate vermieden wird.",
+                "hu": "A kastély felfedezése télen sokkal kényelmesebb, elkerülve a nyári csúcsidőszakok intenzív hőségét.",
+                "ro": "Explorarea castelului este mult mai confortabilă iarna, evitând căldura intensă a lunilor de vară.",
+                "en": "Exploring the castle is much more comfortable in winter, avoiding the intense heat of the peak summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Concattedrale di Sant'Antonio Abate",
+                "hu": "Concattedrale di Sant'Antonio Abate",
+                "ro": "Concattedrale di Sant'Antonio Abate",
+                "en": "Concattedrale di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, bewundern Sie die Kunst und wärmen Sie sich auf; die Türen halten die Winterkälte fern.",
+                "hu": "Lépjen be, csodálja meg a művészetet és melegítse meg a kezét; a nehéz ajtók teljesen kint tartják a hideget.",
+                "ro": "Intrați pentru a vă minuna de artă și a vă încălzi mâinile; ușile grele țin complet frigul de iarnă afară.",
+                "en": "Step inside to marvel at the art and warm your hands; the heavy doors keep the winter chill completely out."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Campulandru",
+                "hu": "Nuraghe Campulandru",
+                "ro": "Nuraghe Campulandru",
+                "en": "Nuraghe Campulandru"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie am Nachmittag an, um die alten Steine von der niedrigen, goldenen Wintersonne beleuchtet zu sehen.",
+                "hu": "Érkezzen késő délután, hogy lássa az ősi köveket a gyönyörű, alacsonyan járó arany téli napfényben fürödni.",
+                "ro": "Ajungeți la mijlocul după-amiezii pentru a vedea pietrele iluminate de soarele auriu de iarnă.",
+                "en": "Arrive in the mid-afternoon to see the ancient stones illuminated by the beautiful, low golden winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia Ostina",
+                "hu": "Baia Ostina",
+                "ro": "Baia Ostina",
+                "en": "Baia Ostina"
+              },
+              "tip_5lang": {
+                "de": "Perfekter letzter Stopp, um den frühen Sonnenuntergang um 17:00 Uhr direkt vom Parkplatz mit Heizung zu beobachten.",
+                "hu": "Tökéletes végső megálló a korai, 17:00 órás naplemente megtekintéséhez közvetlenül a parkolóból, fűtéssel.",
+                "ro": "Oprire finală perfectă pentru a privi apusul de la ora 17:00 direct din zona de parcare cu încălzirea pornită.",
+                "en": "Perfect final stop to watch the early 17:00 sunset right from the parking area with the heater turned up."
+              }
+            }
+          ]
+        }
       }
     }
   }

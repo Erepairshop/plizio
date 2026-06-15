@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a nyüzsgő piacon, hogy magába szívja a helyi hangulatot. Délben csodálja meg a plébániatemplom neogótikus vonalait, és látogasson el a történelmi kulturális csarnokba. Délután rójja le tiszteletét a Walter Benjamin-emlékműnél, mielőtt a fő strandon pihenne. Végül kora este keressen fel egy hangulatos öblöt a csendes mediterrán naplemente megtekintéséhez.",
         "ro": "Începeți dimineața la piața municipală plină de viață pentru a simți atmosfera locală. La prânz, admirați liniile neogotice ale bisericii parohiale și vizitați sala culturală. După-amiaza, aduceți un omagiu emoționant la Memorialul Walter Benjamin înainte de a vă relaxa pe plaja principală. Seara, căutați golfurile intime pentru un apus liniștit peste Marea Mediterană.",
         "en": "Begin your morning at the bustling municipal market to soak in the lively local atmosphere. By midday, take in the beautiful neo-Gothic lines of the parish church and visit the historical cultural hall. In the afternoon, pay a moving tribute at the Walter Benjamin Memorial before relaxing on the main beach. Finally, as evening approaches, seek out the intimate coves for a quiet sunset over the Mediterranean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im städtischen Markt, wo Sie lokale Düfte genießen können, während es draußen regnet. Die neugotische Kirche bietet danach einen trockenen Rückzugsort für besinnliche Momente.\n\nMittags suchen wir Schutz in der Sala Congesta. Die kulturellen Ausstellungen lassen Sie das graue Wetter draußen vergessen, während Sie tief in die lokale Geschichte eintauchen.\n\nAm Nachmittag besuchen wir das Walter-Benjamin-Memorial. Die nassen Eisenstufen wirken bei Regen besonders melancholisch, erfordern aber beim Abstieg Vorsicht wegen Rutschgefahr.\n\nDer Tag endet früh an den Stränden. Die aufgewühlte See bietet ein dramatisches Schauspiel. Ein kurzer Spaziergang führt uns zurück ins Hotel, um uns im Trockenen aufzuwärmen.",
+            "hu": "A reggel a fedett városi piacon indul, ahol a helyi áruk illata kárpótol a kinti esőért. Utána a neogótikus templom nyújt száraz menedéket a csendes elmélyüléshez.\n\nDélben a Sala Congesta kulturális központ felé vesszük az irányt. A kiállítások között észre sem veszi a kopogó esőt, miközben a város művészeti életével ismerkedik.\n\nDélután a Walter Benjamin emlékhelyet látogatjuk meg. Az eső áztatta vaslépcsők különlegesen melankolikus hangulatot árasztanak, de ügyeljen a csúszós fokokra.\n\nAz este a parton ér minket, ahol a viharos tenger látványa lenyűgöző. Korán visszahúzódunk egy közeli kávézóba, hogy egy forró ital mellett pihenjük ki a napot.",
+            "ro": "Dimineața începe la adăpost în piața municipală, unde aromele locale vă fac să uitați de ploaie. Ulterior, biserica neogotică oferă un refugiu uscat și liniștit.\n\nLa prânz, ne îndreptăm spre Sala Congesta. Expozițiile culturale vă permit să explorați arta locală fără a fi udați de ploaia de afară, într-o atmosferă primitoare.\n\nDupă-amiaza vizităm Memorialul Walter Benjamin. Treptele de metal ude creează o atmosferă dramatică și melancolică, dar necesită atenție sporită pentru a nu aluneca.\n\nSeara se încheie pe plajă, unde spectacolul valurilor sub ploaie este fascinant. Ne retragem devreme spre un loc călduros pentru a ne usca și a reflecta asupra zilei.",
+            "en": "The morning starts under the cover of the municipal market, where local scents delight despite the rain. Afterward, the neo-Gothic church provides a dry sanctuary for reflection.\n\nAt noon, we seek shelter in Sala Congesta. The cultural exhibits let you forget the gray weather outside while you immerse yourself in the vibrant local history.\n\nIn the afternoon, we visit the Walter Benjamin Memorial. The wet iron steps evoke a deeply melancholic mood in the rain, but watch your step as surfaces can be slippery.\n\nAs evening approaches, the beaches offer a dramatic view of the restless sea. We wrap up early to find a cozy spot and warm up after a damp but inspiring walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mercat municipal",
+                "hu": "Mercat municipal",
+                "ro": "Mercat municipal",
+                "en": "Mercat municipal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Markthalle als perfekten Regenschutz und probieren Sie lokalen Käse; bringen Sie eine eigene Tasche für Ihre Einkäufe mit.",
+                "hu": "Használja ki a piaccsarnokot tökéletes esővédőként és kóstoljon helyi sajtokat; vigyen saját szatyrot a vásárláshoz.",
+                "ro": "Profitați de hala pieței ca adăpost perfect împotriva ploii și gustați brânzeturi locale; aduceți propria plasă pentru cumpărături.",
+                "en": "Enjoy the market hall as a perfect rain shelter and taste local cheeses; bring your own bag for any indoor shopping finds."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple parroquial de Santa Maria",
+                "hu": "Temple parroquial de Santa Maria",
+                "ro": "Temple parroquial de Santa Maria",
+                "en": "Temple parroquial de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Glasfenster, die auch bei trübem Wetter leuchten; schütteln Sie Ihren Regenschirm vor dem Eintreten gut ab.",
+                "hu": "Csodálja meg a színes üvegablakokat, melyek borús időben is ragyognak; alaposan rázza le az esernyőjét belépés előtt.",
+                "ro": "Admirați vitraliile colorate care strălucesc chiar și pe vreme mohorâtă; scuturați bine umbrela înainte de a intra în lăcaș.",
+                "en": "Admire the colorful stained glass windows that glow even in gloomy weather; shake your umbrella thoroughly before entering the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Congesta",
+                "hu": "Sala Congesta",
+                "ro": "Sala Congesta",
+                "en": "Sala Congesta"
+              },
+              "tip_5lang": {
+                "de": "Dieser überdachte Kulturraum ist ideal bei Starkregen; prüfen Sie das aktuelle Programm für kurzfristige Indoor-Veranstaltungen oder Filme.",
+                "hu": "Ez a fedett kulturális tér ideális heves esőzés idején; nézze meg az aktuális programot beltéri eseményekért vagy filmekért.",
+                "ro": "Acest spațiu cultural acoperit este ideal în caz de ploaie torențială; verificați programul pentru evenimente sau filme de interior.",
+                "en": "This covered cultural space is ideal during heavy rain; check the local schedule for indoor events or films to pass the time dryly."
+              }
+            },
+            {
+              "name": {
+                "de": "Passatges. Memorial Walter Benjamin",
+                "hu": "Passatges. Memorial Walter Benjamin",
+                "ro": "Passatges. Memorial Walter Benjamin",
+                "en": "Passatges. Memorial Walter Benjamin"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Regen besonders kraftvoll; tragen Sie Schuhe mit gutem Profil, da die Metallstufen bei Nässe sehr glatt sind.",
+                "hu": "Az emlékhely esőben különösen hatásos; viseljen jól tapadó talpú cipőt, mert a fémlépcsők vizesen nagyon csúszósak.",
+                "ro": "Memorialul este deosebit de sugestiv pe ploaie; purtați încălțăminte cu talpă aderentă, deoarece treptele metalice sunt foarte alunecoase.",
+                "en": "The memorial is especially powerful in the rain; wear shoes with good grip as the metal steps become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Portbou",
+                "hu": "Platja de Portbou",
+                "ro": "Platja de Portbou",
+                "en": "Platja de Portbou"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer von einer der überdachten Promenadenbänke aus; eine windfeste Regenjacke ist hier besser als ein Schirm.",
+                "hu": "Figyelje a szürke tengert a sétány egyik fedett padjáról; egy szélálló esőkabát itt sokkal többet ér, mint egy esernyő.",
+                "ro": "Observați marea cenușie de pe o bancă acoperită de pe faleză; o jachetă impermeabilă este mai utilă aici decât o umbrelă.",
+                "en": "Watch the gray sea from a covered bench on the promenade; a windproof raincoat is much more effective here than an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Pi",
+                "hu": "Platja del Pi",
+                "ro": "Platja del Pi",
+                "en": "Platja del Pi"
+              },
+              "tip_5lang": {
+                "de": "Der felsige Weg zum Strand kann bei Regen schlammig sein; bleiben Sie auf den befestigten Teilen, um nicht auszurutschen.",
+                "hu": "A partra vezető sziklás út esőben sáros lehet; maradjon a kövezett részeken, hogy elkerülje az elcsúszást a meredekebb szakaszon.",
+                "ro": "Poteca stâncoasă spre plajă poate fi noroioasă pe ploaie; rămâneți pe porțiunile pavate pentru a evita alunecarea pe pante.",
+                "en": "The rocky path to the beach can be muddy in the rain; stick to the paved sections to avoid slipping on the steeper parts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen weckt die Geister auf dem Markt. Warme Kleidung ist Pflicht, während man lokale Köstlichkeiten für ein Picknick im Warmen kauft.\n\nMittags genießen wir die milde Sonne an der Kirche Santa Maria. Die Steinmauern strahlen eine kühle Ruhe aus, während man sich nach dem Besuch schnell wieder bewegt.\n\nAm Nachmittag bietet die Sala Congesta angenehme Wärme und Kultur. Da die Sonne bereits gegen 17:00 Uhr sinkt, nutzen wir das goldene Licht für Fotos am Walter-Benjamin-Memorial.\n\nDer Abend bricht früh herein. Die leeren Strände wirken friedlich in der Dämmerung. Wir beenden den Tag bei einem Glas Wein in einem beheizten Bistro im Ortskern.",
+            "hu": "A friss téli reggel felébreszti az érzékeket a piacon. A réteges öltözködés kötelező, miközben beszerezzük a helyi finomságokat a későbbi falatozáshoz.\n\nDélben a Santa Maria templom környékén élvezzük a bágyadt napsütést. A vastag falak között hűvös van, de a séta segít megőrizni a testhőt.\n\nDélután a Sala Congesta nyújt menedéket a szél elől. Mivel a nap már 17:00 körül lemegy, az utolsó fényeket a tengerparti emlékműnél használjuk ki fotózásra.\n\nAz este gyorsan ránk köszön. A néptelen strandok békések a szürkületben. A napot egy forró tea vagy forralt bor mellett zárjuk egy hangulatos főtéri helyen.",
+            "ro": "Aerul proaspăt de iarnă din zori vă înviorează în piață. Îmbrăcămintea groasă este obligatorie în timp ce alegeți delicatese locale pentru gustare.\n\nLa prânz, profităm de soarele blând de lângă biserica Santa Maria. Zidurile groase păstrează răcoarea, dar mișcarea continuă vă ajută să rămâneți încălziți.\n\nDupă-amiaza, Sala Congesta oferă adăpost împotriva vântului tăios. Deoarece soarele apune în jurul orei 17:00, folosim lumina aurie pentru poze la memorial.\n\nSeara se instalează rapid. Plajele pustii sunt de o frumusețe rară în amurg. Încheiem ziua cu o băutură caldă într-un bistro încălzit din centrul vechi.",
+            "en": "The crisp winter air wakes you up at the morning market. Layered clothing is essential while you pick up local treats for a cozy snack later.\n\nAt noon, we enjoy the mild winter sun near Santa Maria church. The interior is chilly, so keep your coat on while admiring the religious art.\n\nIn the afternoon, Sala Congesta provides a warm cultural break. Since the sun sets around 17:00, we catch the last golden rays at the memorial for great photos.\n\nEvening falls quickly. The empty beaches feel serene and private in the twilight. We conclude the day in a heated local bistro with a comforting warm drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mercat municipal",
+                "hu": "Mercat municipal",
+                "ro": "Mercat municipal",
+                "en": "Mercat municipal"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich morgens einen heißen Kaffee am Stand; die Markthalle schützt gut vor dem kalten Tramontana-Wind aus den Bergen.",
+                "hu": "Igyon egy forró kávét az egyik standnál; a piaccsarnok jól véd a hegyek felől fújó hideg Tramontana szél ellen.",
+                "ro": "Luați o cafea fierbinte de la un stand; hala pieței oferă o protecție excelentă împotriva vântului rece Tramontana dinspre munți.",
+                "en": "Grab a hot coffee from a stand; the market hall provides great shelter from the cold Tramontana wind blowing from the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple parroquial de Santa Maria",
+                "hu": "Temple parroquial de Santa Maria",
+                "ro": "Temple parroquial de Santa Maria",
+                "en": "Temple parroquial de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche ist es im Winter kühler als draußen; behalten Sie Mantel und Mütze an, während Sie das Interieur besichtigen.",
+                "hu": "A templomban télen hidegebb van, mint odakint; tartsa magán a kabátot és a sapkát a belső tér megtekintése közben.",
+                "ro": "În interiorul bisericii este mai frig decât afară iarna; păstrați haina și căciula pe cap în timp ce vizitați interiorul.",
+                "en": "The church interior is colder than the outside air in winter; keep your coat and hat on while exploring the religious art."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Congesta",
+                "hu": "Sala Congesta",
+                "ro": "Sala Congesta",
+                "en": "Sala Congesta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen geheizten Innenraum für eine längere Pause; es ist der beste Ort, um sich zwischen den Wanderungen aufzuwärmen.",
+                "hu": "Használja ki ezt a fűtött belső teret egy hosszabb pihenőre; ez a legjobb hely a felmelegedésre két séta között.",
+                "ro": "Folosiți acest spațiu interior încălzit pentru o pauză mai lungă; este cel mai bun loc pentru a vă încălzi între plimbări.",
+                "en": "Take advantage of this heated indoor space for a longer break; it is the best spot to warm up between your outdoor walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Passatges. Memorial Walter Benjamin",
+                "hu": "Passatges. Memorial Walter Benjamin",
+                "ro": "Passatges. Memorial Walter Benjamin",
+                "en": "Passatges. Memorial Walter Benjamin"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor Sonnenuntergang (ca. 16:45); das Licht bricht sich herrlich im Glas des Memorials am Meer.",
+                "hu": "Látogassa meg ezt a helyet közvetlenül naplemente előtt (kb. 16:45); a fények csodásan törnek meg az emlékmű üvegfelületein.",
+                "ro": "Vizitați acest loc chiar înainte de apus (cca. 16:45); lumina se reflectă superb în sticla memorialului de lângă mare.",
+                "en": "Visit this spot just before sunset (around 16:45); the low winter light reflects beautifully through the memorial's glass structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Portbou",
+                "hu": "Platja de Portbou",
+                "ro": "Platja de Portbou",
+                "en": "Platja de Portbou"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Winterstrand; ein schneller Spaziergang am Flutsaum hält den Kreislauf bei kühler Meeresbrise in Schwung.",
+                "hu": "Élvezze a téli strand magányát; egy gyors séta a parton frissítő élmény, de a tengeri szél miatt öltözzön fel jól.",
+                "ro": "Bucurați-vă de singurătatea plajei de iarnă; o plimbare rapidă pe mal vă va revigora, dar atenție la briza rece a mării.",
+                "en": "Enjoy the solitude of the winter beach; a brisk walk along the shoreline is invigorating, but dress warmly against the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Pi",
+                "hu": "Platja del Pi",
+                "ro": "Platja del Pi",
+                "en": "Platja del Pi"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die frühe Dämmerung im Pinienwald; kehren Sie vor 17:30 Uhr zurück, da der Pfad im Dunkeln schwer erkennbar ist.",
+                "hu": "Figyeljen a korai sötétedésre a fenyvesben; térjen vissza 17:30 előtt, mert sötétben az ösvény nehezen járható lámpa nélkül.",
+                "ro": "Atenție la amurgul timpuriu în pădurea de pini; reveniți înainte de 17:30, deoarece poteca este greu de urmat pe întuneric.",
+                "en": "Be mindful of the early twilight in the pine grove; head back before 17:30 as the path becomes tricky to navigate in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Indítsa kerékpáros napját a helyi piac és a lenyűgöző főtemplom meglátogatásával. Dél körül tekerjen le a tengerparti emlékműhöz, és élvezze a pihenést a strandon. A délután egy kis kalandot tartogat, ahogy felkarikázik a dombokra a régi kunyhók felfedezéséhez. Fejezze be utazását a késő délutáni órákban egy történelem előtti állókőnél, amely csodálatos panorámát kínál.",
         "ro": "Începeți ziua de ciclism cu o vizită la piața locală și la biserica principală impresionantă. La prânz, coborâți spre memorialul de coastă și bucurați-vă de plaja principală. După-amiaza aduce puțină aventură pe măsură ce pedalați pe dealuri pentru a descoperi colibe vechi. Încheiați călătoria târziu după-amiaza la o piatră preistorică ce oferă vederi panoramice.",
         "en": "Kick off your cycling day with a visit to the local market and the impressive main church. Around noon, ride down to the coastal memorial and enjoy some downtime at the main beach. The afternoon brings a bit of adventure as you cycle up into the hills to discover old dry stone huts. End your journey in the late afternoon at a prehistoric standing stone offering sweeping panoramic views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Wetter erfordert auf zwei Rädern Vorsicht. Wir starten am Markt und nutzen die kurzen Distanzen zwischen den innerstädtischen Zielen, um wenig nass zu werden.\n\nMittags radeln wir vorsichtig zum Denkmal. Die Straßen sind rutschig, also bremsen Sie frühzeitig. Die raue Küstenlandschaft wirkt unter den Wolken besonders mystisch.\n\nAm Nachmittag verlassen wir den Ortskern. Der Weg zu den steinernen Baracken führt über unbefestigte Wege, die bei Regen schlammig sind. Schutzbleche sind hier Gold wert.\n\nDer Abend endet mit einer zügigen Fahrt zurück. Die Sicht ist bei Regen eingeschränkt, achten Sie auf funktionierende Beleuchtung. Wir stellen die Räder trocken ab und wärmen uns auf.",
+            "hu": "Az esős idő óvatosságot igényel két keréken. A piacról indulva a városi megállók közti rövid távokat használjuk ki, hogy minél kevesebbet ázzunk.\n\nDélben óvatosan tekerünk az emlékműhöz. Az utak csúszósak, így időben kezdjen lassítani. A borús ég alatt a tengerparti táj misztikus arcát mutatja.\n\nDélután elhagyjuk a központot. A kőkunyhókhoz vezető földutak esőben sarasak lehetnek, a sárvédő most kincset ér. Csak gyakorlott bringásoknak ajánlott.\n\nAz este gyors visszatekeréssel zárul. Esőben a látási viszonyok rosszabbak, ügyeljen a világításra. A kerékpárokat fedett helyre tesszük, mi pedig irány a zuhany.",
+            "ro": "Vremea ploioasă necesită prudență pe două roți. Pornim de la piață și profităm de distanțele scurte dintre obiectivele urbane pentru a ne uda cât mai puțin.\n\nLa prânz, pedalăm cu grijă spre memorial. Străzile sunt alunecoase, deci frânați din timp. Peisajul de coastă sub nori are o alură mistică deosebită.\n\nDupă-amiaza părăsim centrul. Drumul spre colibele de piatră trece prin zone neasfaltate care devin noroioase; aripile la bicicletă sunt esențiale aici.\n\nSeara se încheie cu o întoarcere rapidă. Vizibilitatea este redusă pe ploaie, asigurați-vă că luminile funcționează. Depozităm bicicletele la uscat și ne încălzim.",
+            "en": "Rainy weather demands caution on two wheels. Starting from the market, we take advantage of short urban distances to minimize time spent in the downpour.\n\nAt noon, we cycle carefully to the memorial. Roads are slick, so brake early. The rugged coastline looks particularly mystical under the heavy rain clouds.\n\nIn the afternoon, we head out of town. The paths to the stone huts can be muddy; mudguards are a lifesaver today. Only recommended for experienced riders.\n\nEvening ends with a brisk ride back. Visibility is lower in the rain, so ensure your lights are bright. We'll park the bikes in a dry spot and head inside to warm up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mercat municipal",
+                "hu": "Mercat municipal",
+                "ro": "Mercat municipal",
+                "en": "Mercat municipal"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach; drinnen können Sie in Ruhe Ihre Regenkleidung richten, bevor es zur nächsten Etappe geht.",
+                "hu": "Parkoljon az előtető alatt; bent nyugodtan megigazíthatja az esőruházatát, mielőtt továbbindulna a következő állomásra.",
+                "ro": "Parcați bicicleta sub streșină; în interior vă puteți aranja hainele de ploaie în liniște înainte de a pleca spre următoarea etapă.",
+                "en": "Park your bike under the overhang; inside, you can adjust your rain gear in comfort before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple parroquial de Santa Maria",
+                "hu": "Temple parroquial de Santa Maria",
+                "ro": "Temple parroquial de Santa Maria",
+                "en": "Temple parroquial de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Bremsen auf den nassen Markierungen vor der Kirche; nutzen Sie den Stopp für eine kurze Pause im trockenen Kirchenschiff.",
+                "hu": "Kerülje a fékezést a templom előtti felfestéseken; használja ki a megállót egy rövid pihenőre a száraz templomhajóban.",
+                "ro": "Evitați frânarea pe marcajele rutiere ude din fața bisericii; folosiți oprirea pentru o scurtă pauză în nava uscată a bisericii.",
+                "en": "Avoid braking on the wet road markings in front of the church; use the stop for a quick rest inside the dry nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Passatges. Memorial Walter Benjamin",
+                "hu": "Passatges. Memorial Walter Benjamin",
+                "ro": "Passatges. Memorial Walter Benjamin",
+                "en": "Passatges. Memorial Walter Benjamin"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab, da der Wind hier an der Küste bei Regen stark zunehmen kann; die Metallstufen sind extrem rutschig.",
+                "hu": "Támassza le biztonságosan a bringát, mert a parti szél esőben felerősödhet; a fémlépcsők ilyenkor rendkívül csúszósak.",
+                "ro": "Parcați bicicleta în siguranță, deoarece vântul de pe coastă se poate intensifica; treptele metalice sunt extrem de alunecoase acum.",
+                "en": "Secure your bike firmly as coastal winds can pick up during rain; keep in mind that the metal steps are extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Portbou",
+                "hu": "Platja de Portbou",
+                "ro": "Platja de Portbou",
+                "en": "Platja de Portbou"
+              },
+              "tip_5lang": {
+                "de": "Die Promenade kann durch Gischt und Regen glatt sein; fahren Sie langsam und achten Sie auf Pfützen, die tiefe Löcher verbergen könnten.",
+                "hu": "A sétány a permettől és esőtől csúszós lehet; haladjon lassan és figyeljen a tócsákra, melyek mély kátyúkat rejthetnek.",
+                "ro": "Faleza poate fi alunecoasă din cauza spray-ului marin; pedalați încet și atenție la bălțile care pot ascunde gropi adânci.",
+                "en": "The promenade can be slick from sea spray and rain; cycle slowly and watch out for puddles that might hide deep potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "barraca de pedra seca 10251",
+                "hu": "barraca de pedra seca 10251",
+                "ro": "barraca de pedra seca 10251",
+                "en": "barraca de pedra seca 10251"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist auf nassem Schotter anstrengend; die kleine Steinhütte bietet gerade genug Platz für eine Person als Notschutz vor Regen.",
+                "hu": "A kapaszkodó vizes murván fárasztó; a kis kőkunyhó épp elég helyet kínál egy embernek, hogy vészhelyzetben meghúzódjon az eső elől.",
+                "ro": "Urcarea pe pietriș ud este obositoare; mica colibă de piatră oferă suficient loc pentru o persoană ca adäpost de urgență.",
+                "en": "The climb on wet gravel is taxing; the small stone hut offers just enough space for one person to shelter from a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de San Salvador",
+                "hu": "Menhir de San Salvador",
+                "ro": "Menhir de San Salvador",
+                "en": "Menhir de San Salvador"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt auf den schlammigen Wegen; prüfen Sie vor der Tour Ihre Bremsen, da der Rückweg bei Regen technischer ist.",
+                "hu": "Vigyázat a sáros lejtőkön; ellenőrizze a fékeket indulás előtt, mert a visszaút esőben sokkal nagyobb technikai tudást igényel.",
+                "ro": "Atenție la coborârea pe poteci noroioase; verificați frânele înainte de tură, deoarece drumul de întoarcere este mai tehnic pe ploaie.",
+                "en": "Careful on the muddy descents; check your brakes before the tour, as the return path is more technical in rainy conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kalter Wintermorgen lädt zur Radtour ein. Wir starten am Markt, wo der heiße Tee in der Thermoskanne unser bester Begleiter wird.\n\nMittags radeln wir entlang der Küste. Die Luft ist glasklar, was eine fantastische Fernsicht ermöglicht. Die Bewegung hält uns warm, aber Handschuhe sind unverzichtbar.\n\nAm Nachmittag fordern uns die Anstiege zu den historischen Stätten heraus. Die Wintersonne steht tief und wirft lange Schatten über die karge, felsige Landschaft Kataloniens.\n\nDer Tag endet, bevor es richtig frostig wird. Nach dem Sonnenuntergang gegen 17:00 Uhr sinken die Temperaturen rapide. Wir radeln zügig zurück und freuen uns auf eine warme Dusche.",
+            "hu": "A napsütéses, de hideg téli reggel tökéletes egy bringázáshoz. A piacról indulunk, a termoszban gőzölgő tea lesz a legjobb barátunk az út során.\n\nDélben a part mentén tekerünk. A levegő kristálytiszta, ami fantasztikus kilátást tesz lehetővé. A mozgás felmelegít, de a kesztyű elengedhetetlen kellék.\n\nDélután a történelmi emlékekhez vezető emelkedők izzasztanak meg minket. A téli nap alacsonyan jár, hosszú árnyékokat vetve Katalónia sziklás tájaira.\n\nA nap véget ér, mielőtt igazán fagyosra fordulna. A 17:00 órai naplemente után a hőmérséklet gyorsan zuhan. Gyorsan visszatekerünk a szállásra melegedni.",
+            "ro": "O dimineață de iarnă însorită, dar rece, ne invită la o tură cu bicicleta. Pornim de la piață, având ceaiul fierbinte din termos ca cel mai bun companion.\n\nLa prânz, pedalăm de-a lungul coastei. Aerul este extrem de clar, oferind o vizibilitate fantastică spre orizont. Mișcarea ne menține calzi, dar mănușile sunt vitale.\n\nDupă-amiaza, urcările spre siturile istorice ne pun la încercare rezistența. Soarele de iarnă apune devreme, aruncând umbre lungi peste peisajul stâncos.\n\nZiua se încheie înainte de îngheț. După apusul de la ora 17:00, temperaturile scad brusc. Pedalăm rapid înapoi spre centru pentru un duș fierbinte.",
+            "en": "A sunny but cold winter morning is perfect for a bike ride. Starting at the market, a thermos of hot tea will be your best friend throughout the journey.\n\nAt noon, we cycle along the coast. The air is crystal clear, allowing for fantastic long-distance views. Pedaling keeps you warm, but gloves are essential.\n\nIn the afternoon, the climbs to the historical sites challenge our stamina. The winter sun hangs low, casting long shadows across the rugged Catalan landscape.\n\nWe wrap up before it gets truly frosty. After the 17:00 sunset, temperatures drop rapidly. We head back quickly to enjoy a warm shower and a hearty meal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mercat municipal",
+                "hu": "Mercat municipal",
+                "ro": "Mercat municipal",
+                "en": "Mercat municipal"
+              },
+              "tip_5lang": {
+                "de": "Dehnen Sie Ihre Muskeln kurz auf, bevor Sie losfahren; die Kälte kann die Gelenke zu Beginn der Tour etwas steif machen.",
+                "hu": "Nyújtsa meg kicsit az izmait indulás előtt; a hidegben az ízületek merevebbek lehetnek a túra kezdetén.",
+                "ro": "Încălziți-vă mușchii înainte de a porni; frigul poate face articulațiile rigide la începutul turei de iarnă.",
+                "en": "Warm up your muscles briefly before starting; the cold can make your joints feel stiff at the beginning of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple parroquial de Santa Maria",
+                "hu": "Temple parroquial de Santa Maria",
+                "ro": "Temple parroquial de Santa Maria",
+                "en": "Temple parroquial de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Rast; achten Sie darauf, beim Schwitzen nicht auszukühlen, und ziehen Sie für die Abfahrt eine Weste drüber.",
+                "hu": "Csendes hely egy rövid pihenőre; ügyeljen rá, hogy ne hűljön ki az izzadás után, vegyen fel egy mellényt a lejtő előtt.",
+                "ro": "Un loc liniștit pentru un scurt popas; aveți grijă să nu răciți după ce ați transpirat, puneți o vestă înainte de coborâre.",
+                "en": "A peaceful spot for a short rest; be careful not to cool down too much after sweating, put on a vest before the next descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Passatges. Memorial Walter Benjamin",
+                "hu": "Passatges. Memorial Walter Benjamin",
+                "ro": "Passatges. Memorial Walter Benjamin",
+                "en": "Passatges. Memorial Walter Benjamin"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Meer ist im Winter schneidend kalt; eine winddichte Jacke ist für Radfahrer hier absolut lebensnotwendig.",
+                "hu": "A tengerparti szél télen metszően hideg; egy szélálló dzseki a kerékpárosok számára itt létszükséglet.",
+                "ro": "Vântul de pe coastă este tăios iarna; o jachetă rezistentă la vânt este vitală pentru bicicliști în acest punct.",
+                "en": "The coastal wind is biting cold in winter; a windproof jacket is absolutely essential for cyclists here to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de Portbou",
+                "hu": "Platja de Portbou",
+                "ro": "Platja de Portbou",
+                "en": "Platja de Portbou"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne wärmt hier mittags am stärksten; nutzen Sie die helle Zeit für eine Pause im Sand, bevor die Schatten der Berge länger werden.",
+                "hu": "Itt délben a legerősebb a napsütés; használja ki a világos órákat egy homokparti pihenőre, mielőtt a hegyek árnyéka ránk vetülne.",
+                "ro": "Soarele încălzește cel mai bine aici la prânz; profitați de orele luminoase pentru o pauză pe nisip înainte ca umbrele să se lungească.",
+                "en": "The sun is strongest here at noon; take advantage of the bright hours for a break on the sand before the mountain shadows stretch out."
+              }
+            },
+            {
+              "name": {
+                "de": "barraca de pedra seca 10251",
+                "hu": "barraca de pedra seca 10251",
+                "ro": "barraca de pedra seca 10251",
+                "en": "barraca de pedra seca 10251"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern die Mittagssonne; lehnen Sie sich kurz an die warme Mauer, um Kraft für den letzten Anstieg des Tages zu sammeln.",
+                "hu": "A kövek tárolják a déli nap melegét; dőljön neki kicsit a meleg falnak, hogy erőt gyűjtsön a nap utolsó emelkedőjéhez.",
+                "ro": "Pietrele rețin căldura soarelui de prânz; sprijiniți-vă puțin de zidul cald pentru a prinde puteri pentru ultima urcare a zilei.",
+                "en": "The stones soak up the midday sun; lean against the warm wall for a moment to gather strength for the day's final climb."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir de San Salvador",
+                "hu": "Menhir de San Salvador",
+                "ro": "Menhir de San Salvador",
+                "en": "Menhir de San Salvador"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick, aber beeilen Sie sich mit der Abfahrt; nach 16:30 Uhr verschwindet die Sonne hinter den Gipfeln.",
+                "hu": "Élvezze a távoli kilátást, de siessen a lejtmenettel; 16:30 után a nap eltűnik a csúcsok mögött és hirtelen lehűl a levegő.",
+                "ro": "Bucurați-vă de priveliștea largă, dar grăbiți coborârea; după ora 16:30 soarele dispare după culmi și se face brusc frig.",
+                "en": "Enjoy the sweeping views but don't linger too long; after 16:30, the sun drops behind the peaks and it gets cold instantly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje a festői autózást magasan a dombok között, felfedezve az ősi megalitok titkait. Délben kanyarogjon le a partra, hogy elgondolkodjon a feltűnő modern emlékműnél. A délután a város történelmi és vallási építészetének felfedezésével telik, majd a késő délutáni órákban egy utolsó túrát tehet a titokzatos határvidéki romoknál a lemenő nap fényében.",
         "ro": "Începeți drumul pitoresc pe dealuri, descoperind misterele megalitilor antici. La prânz, coborâți spre coastă pentru a reflecta la memorialul modern impresionant. După-amiaza este petrecută descoperind arhitectura orașului, lăsând spre seară o ultimă explorare a ruinelor misterioase de frontieră la apusul soarelui.",
         "en": "Start your scenic drive high in the hills, uncovering the mysteries of ancient megaliths and dolmens right on the border. By midday, wind your way down to the coast to reflect at the striking modern memorial. Your afternoon is well spent discovering the town's historical and religious architecture, leaving the late afternoon for a final exploration of mysterious frontier ruins as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir heute die mystischen Megalithbauten der Region, während der Regen gegen die Scheiben trommelt. Die Fahrt durch die Nebelwälder ist spektakulär.\n\nMittags erreichen wir das Zentrum. Parken Sie nahe dem Memorial, um den Weg im Regen kurzzuhalten. Das Meer wirkt bei diesem Wetter besonders kraftvoll und ungezähmt.\n\nAm Nachmittag besuchen wir die Kirche und den Markt. Diese überdachten Orte bieten perfekten Schutz. Die kurzen Fahrten zwischen den Stopps halten uns angenehm trocken und warm.\n\nDer Tag endet an den Ruinen außerhalb des Ortes. Die nassen Steine glänzen im fahlen Licht. Wir genießen den Ausblick aus dem warmen Auto, bevor wir den Heimweg antreten.",
+            "hu": "Autóval fedezzük fel a régió misztikus megalitikus építményeit, miközben az eső kopog a szélvédőn. A ködös erdőkön átvezető út látványos és hangulatos.\n\nDélben érünk a központba. Parkoljon közel az emlékműhöz, hogy minél kevesebbet kelljen az esőben gyalogolnia. A tenger ilyenkor különösen vad és zabolátlan.\n\nDélután a templomot és a piacot látogatjuk meg. Ezek a fedett helyszínek tökéletes védelmet nyújtanak. A megállók közti rövid autózás alatt mindig megszáradhatunk.\n\nA nap a falun kívüli romoknál zárul. A vizes kövek csillognak a bágyadt fényben. A kilátást a meleg autóból élvezzük, mielőtt elindulnánk visszafelé.",
+            "ro": "Cu mașina explorăm astăzi monumentele megalitice mistice ale regiunii, în timp ce ploaia bate în parbriz. Drumul prin pădurile cețoase este spectaculos.\n\nLa prânz ajungem în centru. Parcați aproape de memorial pentru a scurta drumul prin ploaie. Marea pare deosebit de puternică și neîmblânzită pe această vreme.\n\nDupă-amiaza vizităm biserica și piața. Aceste locații acoperite oferă protecție perfectă. Scurtele deplasări între opriri ne mențin uscați și la căldură.\n\nZiua se încheie la ruinele din afara localității. Pietrele ude strălucesc în lumina slabă. Admirăm peisajul din confortul mașinii înainte de a porni spre casă.",
+            "en": "By car, we explore the region's mystical megalithic sites today while rain drums against the windshield. The drive through misty forests is atmospheric and spectacular.\n\nAt noon, we reach the town center. Park close to the memorial to minimize your time in the rain. The sea looks particularly powerful and untamed in this weather.\n\nIn the afternoon, we visit the church and the market. These indoor locations provide perfect shelter. The short drives between stops keep us comfortably dry and warm.\n\nOur day concludes at the ruins outside of town. The wet stones glisten in the pale light. We enjoy the coastal view from the warmth of the car before heading back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menhir de Perafita",
+                "hu": "Menhir de Perafita",
+                "ro": "Menhir de Perafita",
+                "en": "Menhir de Perafita"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um den Menhir kann sehr aufgeweicht sein; parken Sie sicher am Straßenrand und tragen Sie wasserfeste Wanderschuhe.",
+                "hu": "A menhir körüli talaj nagyon felázhat; parkoljon biztonságosan az út szélén és viseljen vízálló túrabakancsot a rövid sétához.",
+                "ro": "Terenul din jurul menhirului poate fi foarte moale; parcați în siguranță pe marginea drumului și purtați bocanci impermeabili.",
+                "en": "The ground around the menhir can be very soggy; park safely by the roadside and wear waterproof hiking boots for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Peyra Ficta",
+                "hu": "Menhir Peyra Ficta",
+                "ro": "Menhir Peyra Ficta",
+                "en": "Menhir Peyra Ficta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie eine Regenpause für die Besichtigung; das Auto ist der beste Ort, um Schauer abzuwarten, während Sie die Aussicht genießen.",
+                "hu": "Használjon ki egy esőszünetet a megtekintéshez; az autó a legjobb hely a zápor kivárására, miközben a kilátásban gyönyörködik.",
+                "ro": "Folosiți o pauză între averse pentru vizitare; mașina este cel mai bun loc pentru a aștepta trecerea ploii admirând peisajul.",
+                "en": "Wait for a break in the rain to visit; the car is the best place to wait out showers while still enjoying the panoramic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de la Coma Enestapera",
+                "hu": "Dolmen de la Coma Enestapera",
+                "ro": "Dolmen de la Coma Enestapera",
+                "en": "Dolmen de la Coma Enestapera"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Fahrt auf den schmalen, nassen Bergstraßen; der Dolmen bietet unter seinen massiven Steinen einen kleinen natürlichen Regenschutz.",
+                "hu": "Vigyázat a szűk, vizes hegyi utakon; a dolmen masszív kövei alatt egy kis természetes esővédőt találhat a fotózás idejére.",
+                "ro": "Atenție la condus pe drumurile montane înguste și ude; dolmenul oferă sub pietrele sale masive un mic adăpost natural contra ploii.",
+                "en": "Be careful driving on narrow, wet mountain roads; the dolmen's massive stones provide a small natural rain shelter while you take photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Passatges. Memorial Walter Benjamin",
+                "hu": "Passatges. Memorial Walter Benjamin",
+                "ro": "Passatges. Memorial Walter Benjamin",
+                "en": "Passatges. Memorial Walter Benjamin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem öffentlichen Parkplatz am Friedhof; der kurze Fußweg zum Denkmal ist auch bei Regen mit einem Schirm gut machbar.",
+                "hu": "Parkoljon a temető melletti nyilvános parkolóban; az emlékműhöz vezető rövid séta esernyővel esőben is könnyen teljesíthető.",
+                "ro": "Parcați în parcarea publică de lângă cimitir; scurta plimbare spre memorial este ușor de făcut cu o umbrelă chiar și pe ploaie.",
+                "en": "Park in the public lot near the cemetery; the short walk to the memorial is easily manageable with an umbrella even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple parroquial de Santa Maria",
+                "hu": "Temple parroquial de Santa Maria",
+                "ro": "Temple parroquial de Santa Maria",
+                "en": "Temple parroquial de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um dem Regen für 40 Minuten zu entkommen; bewundern Sie die Architektur, während Ihre Kleidung im Auto oder im Vorraum trocknet.",
+                "hu": "Ideális hely, hogy 40 percre elmeneküljön az eső elől; csodálja az építészetet, miközben a ruházata az autóban vagy az előtérben szárad.",
+                "ro": "Ideal pentru a scăpa de ploaie timp de 40 de minute; admirați arhitectura în timp ce hainele vi se usucă în mașină sau în pridvor.",
+                "en": "Ideal for escaping the rain for 40 minutes; admire the architecture while your gear dries out in the car or the church vestibule."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercat municipal",
+                "hu": "Mercat municipal",
+                "ro": "Mercat municipal",
+                "en": "Mercat municipal"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie regionale Produkte für ein Abendessen im Trockenen; die Markthalle ist der gesellschaftliche Mittelpunkt bei Schlechtwetter.",
+                "hu": "Vásároljon helyi termékeket egy otthoni vacsorához; a piaccsarnok a rosszidőben a helyi közösségi élet központja.",
+                "ro": "Cumpărați produse regionale pentru o cină la adăpost; hala pieței este centrul social al orașului pe vreme nefavorabilă.",
+                "en": "Buy regional products for a cozy dinner indoors; the market hall is the social heart of the town when the weather turns bad."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines",
+                "hu": "Ruines",
+                "ro": "Ruines",
+                "en": "Ruines"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ruinen vom Auto aus oder nutzen Sie eine kurze Regenpause; die Steine sind sehr rutschig, bleiben Sie vorsichtig.",
+                "hu": "Nézze meg a romokat az autóból, vagy használjon ki egy rövid esőszünetet; a kövek nagyon csúszósak, legyen óvatos.",
+                "ro": "Vizitați ruinele din mașină sau folosiți o scurtă pauză de ploaie; pietrele sunt foarte alunecoase, rămâneți vigilenți.",
+                "en": "View the ruins from the car or take advantage of a brief rain break; the stones are very slippery, so please stay cautious."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den Komfort einer mobilen Aussichtsplattform. Wir starten morgens zu den Menhiren, während die Sitzheizung für wohlige Wärme sorgt.\n\nMittags erkunden wir den Dolmen in den Bergen. Die Fernsicht bis zum Mittelmeer ist im Winter unvergleichlich klar. Die kühle Luft ist erfrischend bei den kurzen Stopps.\n\nAm Nachmittag parken wir im Ort für Kultur und Geschichte. Da es bereits gegen 17:00 Uhr dunkel wird, genießen wir das stimmungsvoll beleuchtete Denkmal vor der Abfahrt.\n\nDer Abend bricht über der Küstenstraße herein. Wir fahren entspannt zurück, während die Lichter der kleinen Häfen unter uns funkeln. Ein perfekter Abschluss eines klaren Wintertages.",
+            "hu": "Télen az autó kényelmes mozgó kilátóként szolgál. Reggel a menhirekhez indulunk, miközben az utastérben kellemes meleg fogad minket.\n\nDélben a hegyi dolment keressük fel. A kilátás a Földközi-tengerig télen páratlanul tiszta. A friss levegő üdítő a rövid szabadtéri megállóknál.\n\nDélután a faluban parkolunk a kulturális látnivalókért. Mivel 17:00 körül sötétedik, az emlékművet már az esti kivilágításban látjuk a visszaindulás előtt.\n\nAz este a tengerparti úton ér minket. Nyugodtan autózunk vissza, miközben a kis kikötők fényei csillognak alattunk. Tökéletes zárása a tiszta téli napnak.",
+            "ro": "Iarna, mașina oferă confortul unei platforme mobile de observație. Pornim dimineața spre menhiri, în timp ce căldura din interior ne face plimbarea plăcută.\n\nLa prânz explorăm dolmenul din munți. Vizibilitatea până la Marea Mediterană este neegalată iarna. Aerul rece este revigorant la scurtele opriri în exterior.\n\nDupă-amiaza parcăm în localitate pentru cultură și istorie. Deoarece se întunecă în jur de ora 17:00, admirăm memorialul iluminat înainte de plecare.\n\nSeara se așterne peste drumul de coastă. Conducem relaxați înapoi, în timp ce luminile micilor porturi sclipesc sub noi. O încheiere perfectă de zi de iarnă.",
+            "en": "In winter, the car serves as a comfortable mobile observation deck. We head to the menhirs in the morning, enjoying the warmth of the interior.\n\nAt noon, we explore the mountain dolmen. The long-distance views to the Mediterranean are incomparably clear in winter. The crisp air is refreshing during short stops.\n\nIn the afternoon, we park in town for culture and history. Since it gets dark around 17:00, we can enjoy the atmospherically lit memorial before heading home.\n\nEvening falls over the coastal road. We drive back relaxed, watching the lights of small harbors twinkle below us. A perfect end to a clear winter day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menhir de Perafita",
+                "hu": "Menhir de Perafita",
+                "ro": "Menhir de Perafita",
+                "en": "Menhir de Perafita"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet den Menhir morgens flach; ziehen Sie eine dicke Jacke für den kurzen Weg vom Parkplatz zum Monument an.",
+                "hu": "A téli nap reggel laposan világítja meg a menhirt; vegyen fel egy vastag dzsekit a parkolótól a monumentumig tartó rövid útra.",
+                "ro": "Soarele de iarnă luminează menhirul din lateral dimineața; puneți o jachetă groasă pentru scurta plimbare de la parcare la monument.",
+                "en": "The winter sun illuminates the menhir at a low angle in the morning; put on a heavy jacket for the short walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir Peyra Ficta",
+                "hu": "Menhir Peyra Ficta",
+                "ro": "Menhir Peyra Ficta",
+                "en": "Menhir Peyra Ficta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht bis zu den Pyrenäen; im Winter sind kaum andere Touristen hier, was die Atmosphäre sehr friedlich macht.",
+                "hu": "Élvezze a tiszta kilátást egészen a Pireneusokig; télen alig van itt más turista, ami nagyon békéssé teszi a hely hangulatát.",
+                "ro": "Bucurați-vă de vizibilitatea clară până spre Pirinei; iarna sunt puțini turiști aici, ceea ce face atmosfera extrem de liniștită.",
+                "en": "Enjoy the clear views all the way to the Pyrenees; in winter, there are very few tourists here, making the atmosphere incredibly peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de la Coma Enestapera",
+                "hu": "Dolmen de la Coma Enestapera",
+                "ro": "Dolmen de la Coma Enestapera",
+                "en": "Dolmen de la Coma Enestapera"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen auf schattigen Bergstraßen; der Ort bietet ein tolles Panorama über die winterlich-karge Küstenlandschaft.",
+                "hu": "Ügyeljen az esetleges jeges foltokra az árnyékos hegyi utakon; a helyről nagyszerű panoráma nyílik a téli, kopár tengerparti tájra.",
+                "ro": "Atenție la porțiunile cu gheață de pe drumurile montane umbrite; locația oferă o panoramă superbă asupra coastei aride pe timp de iarnă.",
+                "en": "Watch out for potential icy patches on shaded mountain roads; the site offers a great panorama of the barren winter coastal landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Passatges. Memorial Walter Benjamin",
+                "hu": "Passatges. Memorial Walter Benjamin",
+                "ro": "Passatges. Memorial Walter Benjamin",
+                "en": "Passatges. Memorial Walter Benjamin"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal bei Dämmerung; die kühle Winterbeleuchtung verleiht diesem Ort eine ganz besondere, andächtige Aura.",
+                "hu": "Látogassa meg az emlékművet szürkületkor; a hűvös téli kivilágítás különleges, áhítatos aurát kölcsönöz ennek a helyszínnek.",
+                "ro": "Vizitați memorialul la amurg; iluminatul rece de iarnă oferă acestui loc o aură solemnă și deosebită.",
+                "en": "Visit the memorial at twilight; the cool winter lighting gives this site a very special, solemn and reverent aura."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple parroquial de Santa Maria",
+                "hu": "Temple parroquial de Santa Maria",
+                "ro": "Temple parroquial de Santa Maria",
+                "en": "Temple parroquial de Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um kurz zur Ruhe zu kommen; da es drinnen kühl ist, ist ein warmer Schal für die Besichtigung sehr zu empfehlen.",
+                "hu": "Jó hely egy rövid elcsendesedéshez; mivel bent hűvös van, egy meleg sál viselése kifejezetten ajánlott a látogatás idejére.",
+                "ro": "Un loc bun pentru reculegere; deoarece în interior este răcoare, un fular călduros este recomandat pentru vizitare.",
+                "en": "A good place for a quiet moment; since it's cool inside, wearing a warm scarf is highly recommended during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Mercat municipal",
+                "hu": "Mercat municipal",
+                "ro": "Mercat municipal",
+                "en": "Mercat municipal"
+              },
+              "tip_5lang": {
+                "de": "Decken Sie sich mit Vorräten für die Fahrt ein; im Winter haben viele Cafés außerhalb der Orte eingeschränkte Öffnungszeiten.",
+                "hu": "Tárazzon be készletekből az útra; télen a falvakon kívüli kávézók egy része korlátozott nyitvatartással üzemelhet.",
+                "ro": "Faceți provizii pentru drum; iarna, multe cafenele din afara localităților pot avea program de funcționare redus.",
+                "en": "Stock up on supplies for the drive; in winter, many cafes outside of town may have limited opening hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruines",
+                "hu": "Ruines",
+                "ro": "Ruines",
+                "en": "Ruines"
+              },
+              "tip_5lang": {
+                "de": "Das späte Licht um 16:30 Uhr ist ideal für Fotos; bleiben Sie wegen der frühen Dunkelheit auf den markierten Wegen bei den Ruinen.",
+                "hu": "A 16:30 körüli kései fények ideálisak a fotózáshoz; a korai sötétedés miatt maradjon a kijelölt utakon a romok területén.",
+                "ro": "Lumina târzie de la 16:30 este ideală pentru fotografii; din cauza întunericului timpuriu, rămâneți pe potecile marcate la ruine.",
+                "en": "The late light around 16:30 is ideal for photography; stay on marked paths at the ruins due to the early onset of darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

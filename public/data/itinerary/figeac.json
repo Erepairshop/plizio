@@ -160,6 +160,196 @@
         "hu": "A reggel Figeac élettel teli szívében, a Place Carnot-n kezdődik. Egy rövid séta után eléri a lenyűgöző Place des Écritures-t. / A délidő teljes egészében az ősi írások rejtélyeinek felfedezéséről szól a csodálatos Musée Champollionban. / Délután másszon fel a Notre-Dame-du-Puy-hoz a panorámáért, majd ereszkedjen le a lenyűgöző apátsági templomhoz. / Az est egy pihentető sétával zárul a történelmi Hôtel de la Monnaie körül.",
         "ro": "Dimineața începe în inima vibrantă a orașului Figeac, în Place Carnot. O scurtă plimbare vă duce la fascinanta Place des Écritures. / Amiaza este dedicată în întregime descoperirii misterelor scrierilor antice la impresionantul Muzeu Champollion. / După-amiaza vă invită să urcați la Notre-Dame-du-Puy pentru panoramă, înainte de a coborî la biserica abațială. / Seara se încheie cu o plimbare relaxantă în jurul istoricului Hôtel de la Monnaie.",
         "en": "Morning begins in the vibrant heart of Figeac, where half-timbered houses line the lively Place Carnot. A short stroll reveals the fascinating Place des Écritures. / Midday is entirely dedicated to unraveling the mysteries of ancient scripts at the incredible Musée Champollion. / Afternoon invites you to climb to the panoramic Notre-Dame-du-Puy before descending to the grand Abbey Church. / Evening concludes with a relaxing walk around the historic Hôtel de la Monnaie, ending your cultural journey in the old town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Start unter den schützenden Arkaden der Place Carnot. Mittag: Das Champollion-Museum bietet ein ideales trockenes Refugium für Stunden. Nachmittag: Die Kirchen Notre-Dame-du-Puy und Saint-Sauveur bieten spirituelle Ruhe im Trockenen. Abend: Die nassen Gassen der Altstadt reflektieren die Lichter und schaffen eine magische, melancholische Atmosphäre in den mittelalterlichen Vierteln.",
+            "hu": "Reggel: Kezdje a napot a Place Carnot középkori árkádjai alatt, védve az esőtől. Délben: A Champollion Múzeum tökéletes fedett menedék az írástörténet felfedezéséhez. Délután: A város templomai száraz és csendes megállót kínálnak a záporok idején. Este: Az eső áztatta macskakövek tükrözik a lámpák fényeit, különleges, csillogó hangulatot kölcsönözve a történelmi belváros szűk utcáinak.",
+            "ro": "Dimineața: Începeți sub arcadele protectoare din Place Carnot. Prânz: Muzeul Champollion oferă un refugiu interior ideal pentru a explora istoria scrierii. După-amiaza: Vizitarea bisericilor oferă momente de liniște la adăpost de ploaie. Seara: Străzile medievale umede reflectă luminile orașului, creând o atmosferă cinematică și plină de farmec în timp ce vă îndreptați spre un restaurant local.",
+            "en": "Morning: Start your day under the protective medieval arcades of Place Carnot. Noon: The Champollion Museum provides a perfect indoor sanctuary to explore world scripts while it rains. Afternoon: Visiting the local churches offers a dry and peaceful retreat from the showers. Evening: The wet cobblestones reflect the streetlights, creating a magical atmosphere in the old town's narrow alleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Carnot",
+                "hu": "Place Carnot",
+                "ro": "Place Carnot",
+                "en": "Place Carnot"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die mittelalterlichen Arkaden als Schutz vor dem Regen und bewundern Sie die Details der Fassaden, die im nassen Zustand kräftiger leuchten.",
+                "hu": "Használja a középkori árkádokat esernyő helyett; a vizes kőfalak színei ilyenkor sokkal mélyebbnek és karakteresebbnek tűnnek a téren.",
+                "ro": "Folosiți arcadele medievale ca adăpost natural împotriva ploii în timp ce admirați fațadele ale căror culori devin mai intense atunci când sunt ude.",
+                "en": "Use the medieval arcades as natural shelter from the rain while admiring the facades whose colors become more intense and vivid when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Place des Écritures",
+                "hu": "Place des Écritures",
+                "ro": "Place des Écritures",
+                "en": "Place des Écritures"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den riesigen Rosette-Stein aus schwarzem Granit, der im Regen glänzt; halten Sie den Regenschirm fest, da der Platz windanfällig sein kann.",
+                "hu": "A fekete gránitból készült Rosette-i kő esőben gyönyörűen csillog; tartsunk rövid megállót, mert a tér nyitott és szeles lehet ilyenkor.",
+                "ro": "Admirați replica uriașă a Pietrei din Rosetta, care strălucește sub ploaie; aveți grijă la pavajul de granit care poate deveni alunecos.",
+                "en": "Admire the giant Rosetta Stone replica made of black granite, which shines beautifully in the rain; be careful as the surface can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Champollion - Les Écritures du Monde",
+                "hu": "Musée Champollion - Les Écritures du Monde",
+                "ro": "Musée Champollion - Les Écritures du Monde",
+                "en": "Musée Champollion - Les Écritures du Monde"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um dem Regen zu entkommen; nehmen Sie sich Zeit, um die faszinierende Entwicklung der Schrift in warmen Räumen zu erkunden.",
+                "hu": "Ez a legjobb hely az eső elől való menekülésre; szánjon bőséges időt az írás fejlődésének felfedezésére a modern és fűtött belső terekben.",
+                "ro": "Acesta este cel mai bun loc pentru a scăpa de ploaie; acordați-vă timp generos pentru a explora istoria scrierii în sălile calde și primitoare.",
+                "en": "This is the best place to escape the rain; take your time to explore the fascinating history of writing within the warm and modern galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-du-Puy",
+                "hu": "Église Notre-Dame-du-Puy",
+                "ro": "Église Notre-Dame-du-Puy",
+                "en": "Église Notre-Dame-du-Puy"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine trockene Zuflucht; achten Sie beim Aufstieg auf die nassen Steinstufen, die bei Regen rutschig sein können.",
+                "hu": "A templom belső tere tökéletes menedéket nyújt; a felfelé vezető külső lépcsőknél vigyázzon, mert az esőben könnyen csúszóssá válnak.",
+                "ro": "Interiorul bisericii oferă un refugiu uscat; aveți grijă pe treptele exterioare care pot fi alunecoase din cauza ploii persistente.",
+                "en": "The church interior offers a dry sanctuary; be careful on the exterior steps as they can become quite slippery during persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in diesem weitläufigen Innenraum, während das Prasseln des Regens auf das Dach eine besondere Akustik erzeugt.",
+                "hu": "Élvezze a nyugalmat ebben a tágas belső térben, miközben az eső kopogása a tetőn különleges akusztikai élményt nyújt a látogatás mellé.",
+                "ro": "Bucurați-vă de liniștea acestui spațiu vast, în timp ce sunetul ploii pe acoperiș adaugă o notă atmosferică unică vizitei dumneavoastră.",
+                "en": "Enjoy the tranquility of this vast interior while the sound of rain on the roof adds a unique atmospheric layer to your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de la Monnaie",
+                "hu": "Hôtel de la Monnaie",
+                "ro": "Hôtel de la Monnaie",
+                "en": "Hôtel de la Monnaie"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in diesem prächtigen Gebäude; die dicken Steinmauern bieten perfekten Schutz vor dem nasskalten Wetter draußen.",
+                "hu": "Zárja a napot ebben a pompás épületben; a vastag kőfalak tökéletes védelmet nyújtanak a kinti hűvös és nyirkos időjárás ellen.",
+                "ro": "Încheiați ziua în această clădire splendidă; zidurile groase de piatră oferă o protecție excelentă împotriva vremii umede și reci.",
+                "en": "End your day in this splendid building; the thick stone walls provide excellent protection against the damp and chilly weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein erfrischender Spaziergang durch die frostige Place Carnot. Mittag: Lange Aufenthalte in beheizten Museen wie dem Champollion, um sich aufzuwärmen. Nachmittag: Die Kirchen bieten kühle, aber trockene Orte der Besinnung; die tiefstehende Wintersonne wirft lange Schatten. Abend: Da es gegen 17:00 Uhr dunkel wird, erstrahlt die Stadt früh in warmem Laternenlicht.",
+            "hu": "Reggel: Frissítő séta a dérlepte Place Carnot-n, a tiszta téli levegőben. Délben: Hosszabb pihenő a fűtött Champollion Múzeumban a felmelegedéshez. Délután: A templomok hűvösek, de szárazak; a korai naplemente hosszú árnyékokat vet a középkori sikátorokra. Este: A sötétség már 17 óra körül beáll, ilyenkor a város fényei meghitt és barátságos hangulatot árasztanak.",
+            "ro": "Dimineața: O plimbare revigorantă prin Place Carnot în aerul rece al iernii. Prânz: Popasuri prelungite în muzee încălzite pentru a vă dezmorți. După-amiaza: Bisericile oferă spații liniștite, iar soarele palid creează umbre lungi pe străzile vechi. Seara: Întunericul se lasă devreme, în jurul orei 17:00, transformând orașul într-un loc primitor luminat de felinare.",
+            "en": "Morning: A refreshing walk through the frosty Place Carnot in the crisp winter air. Noon: Spend extra time in heated museums to stay warm and comfortable. Afternoon: The churches are cool but dry; the low winter sun casts long, dramatic shadows through the alleys. Evening: Darkness falls early around 5 PM, making the town's streetlights feel extra cozy and welcoming."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place Carnot",
+                "hu": "Place Carnot",
+                "ro": "Place Carnot",
+                "en": "Place Carnot"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die mittelalterlichen Fassaden im klaren Winterlicht; tragen Sie einen warmen Schal gegen den kalten Wind auf dem Platz.",
+                "hu": "Csodálja meg a középkori homlokzatokat a tiszta téli fényben; viseljen meleg sálat a téren átfújó hideg szél ellen.",
+                "ro": "Admirați fațadele medievale în lumina clară a iernii; purtați un fular călduros pentru a vă proteja de vântul tăios din piață.",
+                "en": "Admire the medieval facades in the clear winter light; wear a warm scarf to protect yourself from the biting wind in the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Place des Écritures",
+                "hu": "Place des Écritures",
+                "ro": "Place des Écritures",
+                "en": "Place des Écritures"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto des Rosette-Steins; die dunkle Schrift bildet einen starken Kontrast zum oft grauen Winterhimmel.",
+                "hu": "Egy rövid megálló a Rosette-i kőnél; a sötét gránit és a betűk éles kontrasztban állnak a gyakran szürke téli égbolttal.",
+                "ro": "O oprire scurtă pentru a fotografia Piatra din Rosetta; granitul închis oferă un contrast puternic cu cerul adesea gri de iarnă.",
+                "en": "A quick stop for a photo of the Rosetta Stone; the dark granite provides a sharp contrast against the often grey winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Champollion - Les Écritures du Monde",
+                "hu": "Musée Champollion - Les Écritures du Monde",
+                "ro": "Musée Champollion - Les Écritures du Monde",
+                "en": "Musée Champollion - Les Écritures du Monde"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort zum Aufwärmen; nutzen Sie die Garderobe für Ihre schwere Winterkleidung, um die Ausstellungen bequem zu genießen.",
+                "hu": "Tökéletes hely a felmelegedéshez; használja a ruhatárat a nehéz téli kabátokhoz, hogy kényelmesen élvezhesse a kiállítást.",
+                "ro": "Locul perfect pentru a vă încălzi; folosiți garderoba pentru hainele groase de iarnă pentru a vizita expozițiile în confort.",
+                "en": "The perfect place to warm up; use the cloakroom for your heavy winter coats to enjoy the exhibitions in comfort and ease."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-du-Puy",
+                "hu": "Église Notre-Dame-du-Puy",
+                "ro": "Église Notre-Dame-du-Puy",
+                "en": "Église Notre-Dame-du-Puy"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihren Mantel an, da das Innere recht kühl sein kann; der Blick über die frostigen Dächer von Figeac ist im Winter besonders klar.",
+                "hu": "Tartsa magán a kabátját, mert a belső tér hűvös lehet; a kilátás a dérlepte háztetőkre ilyenkor különösen éles és tiszta.",
+                "ro": "Păstrați-vă haina pe dumneavoastră deoarece interiorul poate fi rece; vederea asupra acoperișurilor înghețate este extrem de clară iarna.",
+                "en": "Keep your coat on as the interior can be quite chilly; the view over the frosty rooftops of Figeac is exceptionally clear in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte, aber der Ort ist windgeschützt; ideal für eine ruhige Pause, bevor die Sonne früh untergeht.",
+                "hu": "A vastag falak tartják a hideget, de a templom szélvédett; ideális egy csendes pihenőre, mielőtt a nap korán nyugovóra tér.",
+                "ro": "Zidurile groase rețin frigul, dar locul este protejat de vânt; ideal pentru o pauză liniștită înainte de apusul devreme al soarelui.",
+                "en": "The thick walls retain the cold, but the church is well protected from the wind; ideal for a quiet break before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de la Monnaie",
+                "hu": "Hôtel de la Monnaie",
+                "ro": "Hôtel de la Monnaie",
+                "en": "Hôtel de la Monnaie"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Rundgang hier, wenn es draußen dunkel wird; die warme Beleuchtung im Inneren wirkt im Winter besonders einladend.",
+                "hu": "Itt fejezze be a sétát, amikor kint már sötétedik; a belső terek meleg világítása télen különösen hívogató és barátságos.",
+                "ro": "Încheiați turul aici când afară se întunecă; iluminarea caldă din interior este extrem de primitoare în serile reci de iarnă.",
+                "en": "End your tour here as it gets dark outside; the warm interior lighting feels especially inviting and cozy during winter evenings."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "A reggel a híres Place des Écritures kulturális élményével indul, amit a Musée Champollion történelmi felfedezése követ. / Délben kigurul a középkori központból, hogy átkeljen a történelmi Pont du Pin-en a Célé felett. / A délután tiszta kikapcsolódást kínál, miközben a csendes Plan d'eau du Surgié felé teker egy kis friss levegőért. / Az estét egy kellemes kerékpározás zárja a város szélén található kalandos Cap Nature-höz.",
         "ro": "Dimineața începe cu o imersiune culturală la Place des Écritures, urmată de o explorare istorică la Muzeul Champollion. / La amiază ieșiți din centrul medieval pentru a traversa istoricul Pont du Pin peste râul Célé. / După-amiaza oferă relaxare pură în timp ce pedalați spre liniștitul Plan d'eau du Surgié pentru aer proaspăt. / Seara aduce o plimbare plăcută către aventurosul Cap Nature de la periferie, încheind perfect o zi activă.",
         "en": "Morning starts with a cultural immersion at the famous Place des Écritures, followed directly by a deep dive into history at the Musée Champollion. / Midday takes you rolling out of the compact medieval center to cross the historic Pont du Pin over the Célé river. / Afternoon offers pure relaxation and nature as you cycle towards the tranquil Plan d'eau du Surgié for some fresh air. / Evening brings a gentle ride to the adventurous Cap Nature on the outskirts, perfectly wrapping up an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Eine nasse Fahrt durch das Zentrum mit Stopp am Champollion-Museum. Mittag: Lange Pause im Museum, um den heftigsten Schauern zu entgehen. Nachmittag: Fahrt entlang des Flusses Célé; Vorsicht auf rutschigen Wegen und Pfützen. Abend: Rückfahrt durch die glänzenden Straßen, wenn der Regen nachlässt, und ein gemütlicher Abschluss im Trockenen.",
+            "hu": "Reggel: Esős tekerés a belvároson át, megállóval a Champollion Múzeumnál. Délben: Hosszabb szünet a múzeumban a heves záporok elől menekülve. Délután: Gurulás a Célé folyó mentén; legyen óvatos a csúszós utakkal és tócsákkal. Este: Visszatérés a csillogó utcákon, ahogy az eső alábbhagy, majd a nap lezárása egy barátságos, száraz helyen.",
+            "ro": "Dimineața: O cursă umedă prin centru cu oprire la Muzeul Champollion. Prânz: O pauză lungă la muzeu pentru a evita cele mai puternice averse. După-amiaza: Pedalare de-a lungul râului Célé; atenție sporită la drumurile alunecoase și bălți. Seara: Întoarcere pe străzile strălucitoare când ploaia se domolește, finalizând ziua la adăpost.",
+            "en": "Morning: A wet ride through the center with a strategic stop at the Champollion Museum. Noon: Take a long break in the museum to avoid the heaviest showers. Afternoon: Cycling along the Célé river; be extra cautious of slippery paths and puddles. Evening: Ride back through the shiny streets as the rain eases off, ending your journey in a cozy, dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place des Écritures",
+                "hu": "Place des Écritures",
+                "ro": "Place des Écritures",
+                "en": "Place des Écritures"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab; der Granitboden kann für Fahrradschuhe bei Nässe sehr rutschig sein.",
+                "hu": "Parkoljon le egy védett helyen; a gránitburkolat a kerékpáros cipők számára nagyon csúszós lehet esős időben.",
+                "ro": "Parcați bicicleta într-un loc protejat; pavajul de granit poate fi foarte alunecos pentru încălțămintea de ciclism când este ud.",
+                "en": "Park your bike in a sheltered spot; the granite pavement can be very slippery for cycling shoes when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Champollion - Les Écritures du Monde",
+                "hu": "Musée Champollion - Les Écritures du Monde",
+                "ro": "Musée Champollion - Les Écritures du Monde",
+                "en": "Musée Champollion - Les Écritures du Monde"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgedehnte Trockenpause; Ihre Ausrüstung kann hier in der Garderobe etwas abtrocknen.",
+                "hu": "Használja a múzeumi látogatást hosszabb száradási szünetnek; a felszerelése a ruhatárban némileg megszáradhat, amíg bent nézelődik.",
+                "ro": "Folosiți vizita la muzeu ca o pauză prelungită pentru a vă usca; echipamentul se poate scurge puțin la garderobă în acest timp.",
+                "en": "Use the museum visit as an extended drying break; your gear can dry off a bit in the cloakroom while you explore the galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont du Pin",
+                "hu": "Pont du Pin",
+                "ro": "Pont du Pin",
+                "en": "Pont du Pin"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke vorsichtig, da Metall- oder Steinelemente rutschig sind; genießen Sie den Blick auf den angeschwollenen Fluss.",
+                "hu": "Óvatosan keljen át a hídon, mert a kő- és fémelemek csúszhatnak; élvezze a kilátást az esőtől megduzzadt folyóra.",
+                "ro": "Traversați podul cu prudență, deoarece elementele de piatră sau metal sunt alunecoase; admirați râul umflat de ploi.",
+                "en": "Cross the bridge with caution as stone or metal elements can be slippery; enjoy the view of the river swollen by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau du Surgié",
+                "hu": "Plan d'eau du Surgié",
+                "ro": "Plan d'eau du Surgié",
+                "en": "Plan d'eau du Surgié"
+              },
+              "tip_5lang": {
+                "de": "Die Wege am See können matschig sein; bleiben Sie auf befestigten Pfaden und genießen Sie die mystische Stimmung über dem Wasser.",
+                "hu": "A tó körüli utak sarasak lehetnek; maradjon a burkolt ösvényeken, és élvezze a víz felett kialakuló misztikus ködös hangulatot.",
+                "ro": "Potecile din jurul lacului pot fi noroioase; rămâneți pe traseele pavate și bucurați-vă de atmosfera mistică deasupra apei.",
+                "en": "The paths around the lake can be muddy; stay on the paved trails and enjoy the mystical, misty atmosphere over the water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Nature Figeac",
+                "hu": "Cap Nature Figeac",
+                "ro": "Cap Nature Figeac",
+                "en": "Cap Nature Figeac"
+              },
+              "tip_5lang": {
+                "de": "Informieren Sie sich über wetterbedingte Schließungen; wasserfeste Kleidung ist für die bewaldeten Strecken unerlässlich.",
+                "hu": "Tájékozódjon az időjárás miatti esetleges zárvatartásról; a vízálló ruházat elengedhetetlen az erdei szakaszokon való tekeréshez.",
+                "ro": "Informați-vă despre posibilele închideri din cauza vremii; îmbrăcămintea impermeabilă este esențială pentru traseele împădurite.",
+                "en": "Check for any weather-related closures before arriving; waterproof clothing is essential for cycling through the forested sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Eine zügige Fahrt durch die klare, kalte Morgenluft von Figeac. Mittag: Aufwärmen im Champollion-Museum bei einer faszinierenden Zeitreise durch die Schrift. Nachmittag: Fahrt entlang der Célé; die kahle Landschaft bietet weite Ausblicke. Abend: Die Kälte zieht an, kehren Sie frühzeitig zurück, bevor die Sonne gegen 17:00 Uhr untergeht und die Temperaturen sinken.",
+            "hu": "Reggel: Gyors tekerés a friss, hideg reggeli levegőben Figeac utcáin. Délben: Felmelegedés a Champollion Múzeumban egy lenyűgöző időutazás során. Délután: Gurulás a Célé mentén; a lombkorona nélküli táj ilyenkor tágas kilátást nyújt. Este: A hideg fokozódik, érdemes korán visszatérni, mielőtt a nap 17 óra körül lebukik a horizont alá.",
+            "ro": "Dimineața: O cursă rapidă prin aerul proaspăt și rece al dimineții în Figeac. Prânz: Încălzire la Muzeul Champollion în timpul unei călătorii fascinante în timp. După-amiaza: Pedalare de-a lungul râului Célé; peisajul golaș oferă vederi largi. Seara: Frigul se intensifică, reveniți devreme înainte ca soarele să apună în jurul orei 17:00.",
+            "en": "Morning: A brisk ride through the fresh, cold morning air in the streets of Figeac. Noon: Warm up at the Champollion Museum during a fascinating journey through history. Afternoon: Cycling along the Célé; the leafless landscape offers wide and clear views of the surroundings. Evening: The cold intensifies, so plan to return early before the sun sets around 5 PM and temperatures drop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place des Écritures",
+                "hu": "Place des Écritures",
+                "ro": "Place des Écritures",
+                "en": "Place des Écritures"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, um die Bremskontrolle bei der Kälte zu behalten; ein kurzer Stopp für Fotos reicht bei Wind aus.",
+                "hu": "Viseljen meleg kesztyűt, hogy a hidegben is magabiztosan fékezhessen; egy rövid fotómegálló bőven elég a szeles téren.",
+                "ro": "Purtați mănuși groase pentru a menține controlul frânelor în frig; o oprire scurtă pentru poze este suficientă în piața vântoasă.",
+                "en": "Wear warm gloves to maintain good braking control in the cold; a short stop for photos is enough in the windy square."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Champollion - Les Écritures du Monde",
+                "hu": "Musée Champollion - Les Écritures du Monde",
+                "ro": "Musée Champollion - Les Écritures du Monde",
+                "en": "Musée Champollion - Les Écritures du Monde"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um die Durchblutung Ihrer Finger und Zehen wieder anzuregen; die Räume sind angenehm beheizt.",
+                "hu": "Használja ki a múzeumi látogatást a végtagok felmelegítésére; a belső terek kellemesen fűtöttek a téli napokon.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi extremitățile; spațiile interioare sunt încălzite confortabil pentru zilele de iarnă.",
+                "en": "Take advantage of the museum visit to warm up your hands and feet; the galleries are comfortably heated for winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont du Pin",
+                "hu": "Pont du Pin",
+                "ro": "Pont du Pin",
+                "en": "Pont du Pin"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor eventuellem Glatteis auf der Brücke am frühen Morgen; das klare Winterlicht sorgt für scharfe Fotomotive vom Fluss.",
+                "hu": "Vigyázzon az esetleges jeges foltokra a hídon kora reggel; a tiszta téli fényben éles fotókat készíthet a folyóról.",
+                "ro": "Atenție la posibilele porțiuni înghețate de pe pod dimineața devreme; lumina clară de iarnă oferă condiții excelente pentru fotografii.",
+                "en": "Watch out for potential icy patches on the bridge early in the morning; the clear winter light provides sharp photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau du Surgié",
+                "hu": "Plan d'eau du Surgié",
+                "ro": "Plan d'eau du Surgié",
+                "en": "Plan d'eau du Surgié"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt um den See ist erfrischend; achten Sie auf die tiefstehende Sonne, die blenden kann, wenn sie vom Wasser reflektiert wird.",
+                "hu": "A tó körüli tekerés frissítő; ügyeljen az alacsonyan járó napra, amely a vízről visszaverődve vakító lehet télen.",
+                "ro": "Turul lacului este revigorant; atenție la soarele jos care poate fi orbitor când se reflectă din suprafața apei iarna.",
+                "en": "A ride around the lake is refreshing; be careful of the low sun which can be blinding when reflected off the water in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Nature Figeac",
+                "hu": "Cap Nature Figeac",
+                "ro": "Cap Nature Figeac",
+                "en": "Cap Nature Figeac"
+              },
+              "tip_5lang": {
+                "de": "Bewegung hält warm, aber kleiden Sie sich nach dem Zwiebelprinzip; planen Sie die Rückfahrt vor Einbruch der frühen Dämmerung ein.",
+                "hu": "A mozgás melegen tart, de öltözzön rétegesen; tervezze meg a visszautat a korai szürkület beállta előtt.",
+                "ro": "Mişcarea vă menține cald, dar îmbrăcați-vă în straturi; planificați întoarcerea înainte de lăsarea amurgului devreme.",
+                "en": "Activity keeps you warm, but dress in layers; plan your return journey well before the early twilight sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "A reggel a Notre-Dame-du-Puy templomhoz vezet, ahonnan csodás kilátás nyílik, mielőtt levezetne a történelmi Hôtel de la Monnaie-hoz. / Délben a festői útvonal a kedvelt Pont du Pin-en vezet át, élvezve a folyóparti hangulatot. / A délután a vízi mókáról szól, amikor a Piscine à vagues közelében parkol egy frissítő pihenőre. / Az este a városon kívül, a Cap Nature Figeac-ban ér véget, a városi varázst természetre cserélve.",
         "ro": "Dimineața vă duce pe înălțimile bisericii Notre-Dame-du-Puy, oferind vederi largi, înainte de a conduce la istoricul Hôtel de la Monnaie. / Amiaza permite o rută pitorească traversând Pont du Pin, admirând atmosfera râului. / După-amiaza este dedicată distracției acvatice, parcând lângă Piscine à vagues pentru o pauză răcoritoare. / Seara se termină la periferie, la Cap Nature Figeac, schimbând farmecul urban pe un strop de sălbăticie.",
         "en": "Morning takes you straight to the heights of Église Notre-Dame-du-Puy, offering sweeping views before you drive down to the historic Hôtel de la Monnaie. / Midday allows for a scenic route crossing the beloved Pont du Pin, taking in the picturesque riverside atmosphere. / Afternoon is all about aquatic fun as you park near the Piscine à vagues to enjoy a refreshing break with the family. / Evening finishes just outside the city at Cap Nature Figeac, trading the urban charm for a touch of wilderness."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Fahrt zur erhöht gelegenen Kirche Notre-Dame-du-Puy für einen Blick über die nassen Dächer. Mittag: Besuch des Hôtel de la Monnaie, um im Trockenen Geschichte zu erleben. Nachmittag: Fahrt zum Pont du Pin und danach ein entspannter Aufenthalt im Hallenbad. Abend: Gemütliche Rückfahrt durch den Regen und Abschluss in einem der gut erreichbaren Restaurants im Zentrum.",
+            "hu": "Reggel: Autózás a magasabban fekvő Notre-Dame-du-Puy templomhoz a vizes háztetők látványáért. Délben: Az Hôtel de la Monnaie látogatása, ahol szárazon ismerkedhet a történelemmel. Délután: Rövid megálló a Pont du Pinnél, majd pihentető kikapcsolódás a fedett hullámfürdőben. Este: Kényelmes visszautazás az esőben, vacsora a belváros egyik könnyen megközelíthető helyén.",
+            "ro": "Dimineața: Conduceți spre biserica Notre-Dame-du-Puy pentru o vedere panoramică asupra acoperișurilor ude. Prânz: Vizită la Hôtel de la Monnaie pentru a descoperi istoria la adăpost. După-amiaza: Oprire la Pont du Pin urmată de relaxare la piscina acoperită. Seara: Întoarcere confortabilă prin ploaie și cină într-unul din restaurantele accesibile din centru.",
+            "en": "Morning: Drive to the elevated Notre-Dame-du-Puy church for a panoramic view over the wet rooftops. Noon: Visit the Hôtel de la Monnaie to experience history in a dry and grand setting. Afternoon: A quick stop at Pont du Pin followed by a relaxing session at the indoor wave pool. Evening: Comfortable drive back through the rain, ending with dinner at an easy-to-reach central location."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-du-Puy",
+                "hu": "Église Notre-Dame-du-Puy",
+                "ro": "Église Notre-Dame-du-Puy",
+                "en": "Église Notre-Dame-du-Puy"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz, um den Fußweg im Regen kurz zu halten; die Aussicht auf das verregnete Figeac ist von hier oben grandios.",
+                "hu": "Használja a közeli parkolót, hogy minimalizálja az esőben való gyaloglást; a kilátás az eső áztatta Figeacra innen a legszebb.",
+                "ro": "Folosiți parcarea din apropiere pentru a scurta mersul prin ploaie; vederea asupra orașului Figeac sub ploaie este grandioasă de aici.",
+                "en": "Use the nearby parking to keep your walk in the rain short; the view over rain-soaked Figeac from up here is truly magnificent."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de la Monnaie",
+                "hu": "Hôtel de la Monnaie",
+                "ro": "Hôtel de la Monnaie",
+                "en": "Hôtel de la Monnaie"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragendes Ziel bei Dauerregen; erkunden Sie die prächtigen Innenräume dieses historischen Gebäudes, ohne nass zu werden.",
+                "hu": "Kiváló úti cél tartós esőben; fedezze fel e történelmi épület pompás belső tereit anélkül, hogy elázna a városnézés közben.",
+                "ro": "O destinație excelentă în caz de ploaie persistentă; explorați interioarele splendide ale acestei clădiri istorice fără a vă uda.",
+                "en": "An excellent destination during persistent rain; explore the splendid interiors of this historic building without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont du Pin",
+                "hu": "Pont du Pin",
+                "ro": "Pont du Pin",
+                "en": "Pont du Pin"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke lässt sich gut aus dem Auto bewundern; für ein Foto steigen Sie nur kurz aus, da der Platz am Fluss sehr exponiert ist.",
+                "hu": "A híd az autóból is jól látható; egy fotó erejéig csak rövid időre szálljon ki, mert a folyóparti rész ilyenkor nagyon szeles.",
+                "ro": "Podul poate fi admirat bine din mașină; coborâți doar scurt pentru o fotografie, deoarece zona râului este foarte expusă ploii.",
+                "en": "The bridge can be admired from the car; get out only briefly for a photo as the river area is very exposed to the wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine à vagues",
+                "hu": "Piscine à vagues",
+                "ro": "Piscine à vagues",
+                "en": "Piscine à vagues"
+              },
+              "tip_5lang": {
+                "de": "Die ultimative Regenalternative; genießen Sie das tropische Klima im Inneren, während es draußen stürmt und regnet.",
+                "hu": "A tökéletes esős napi alternatíva; élvezze a benti trópusi klímát és a hullámmedencét, miközben kint viharos az időjárás.",
+                "ro": "Alternativa supremă pentru o zi ploioasă; bucurați-vă de climatul tropical din interior în timp ce afară plouă torențial.",
+                "en": "The ultimate rainy day alternative; enjoy the indoor tropical climate and the wave pool while it storms and rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Nature Figeac",
+                "hu": "Cap Nature Figeac",
+                "ro": "Cap Nature Figeac",
+                "en": "Cap Nature Figeac"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihre Regenkleidung im Kofferraum bereit; einige Aktivitäten sind überdacht oder auch bei leichtem Regen gut machbar.",
+                "hu": "Tartsa készenlétben az esőfelszerelését az autóban; néhány tevékenység fedett helyen van, vagy gyenge esőben is élvezhető marad.",
+                "ro": "Păstrați echipamentul de ploaie în portbagaj; unele activități sunt acoperite sau pot fi practicate și pe o ploaie ușoară.",
+                "en": "Keep your rain gear ready in the trunk; some activities are covered or can still be enjoyed even during light rainfall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Bequeme Fahrt zur Kirche Notre-Dame-du-Puy mit Blick auf die frostige Stadt. Mittag: Ein langer, gemütlicher Aufenthalt im beheizten Hôtel de la Monnaie. Nachmittag: Kurze Stopps an Sehenswürdigkeiten und danach Aufwärmen im warmen Wasser des Hallenbads. Abend: Da es früh dunkel wird, genießen Sie die Fahrt durch das beleuchtete Figeac und beenden den Tag in einem warmen Restaurant.",
+            "hu": "Reggel: Kényelmes autózás a Notre-Dame-du-Puy templomhoz a dérlepte város látványával. Délben: Hosszú, kellemes időtöltés a fűtött Hôtel de la Monnaie múzeumban. Délután: Rövid megállók a látnivalóknál, majd felmelegedés a hullámfürdő meleg vizében. Este: A korai sötétedés miatt élvezze a kivilágított Figeac látványát az autóból, majd zárja a napot egy meleg étteremben.",
+            "ro": "Dimineața: Conduceți confortabil spre biserica Notre-Dame-du-Puy pentru vederi asupra orașului înghețat. Prânz: Un popas lung și plăcut la Hôtel de la Monnaie, bine încălzit. După-amiaza: Vizite scurte la obiective urmate de o baie caldă la piscina acoperită. Seara: Deoarece se întunecă devreme, admirați Figeacul iluminat din mașină și cinați într-un loc călduros.",
+            "en": "Morning: A comfortable drive to the Notre-Dame-du-Puy church with views over the frosty town. Noon: Spend a long, pleasant time inside the well-heated Hôtel de la Monnaie museum. Afternoon: Brief stops at outdoor sights followed by warming up in the heated waters of the wave pool. Evening: As it gets dark early, enjoy a drive through illuminated Figeac before dinner in a cozy restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame-du-Puy",
+                "hu": "Église Notre-Dame-du-Puy",
+                "ro": "Église Notre-Dame-du-Puy",
+                "en": "Église Notre-Dame-du-Puy"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung ist nach dem kurzen Weg zur Kirche ein Segen; die winterliche Klarheit macht die Fernsicht heute besonders beeindruckend.",
+                "hu": "Az autó fűtése igazi áldás lesz a rövid séta után; a téli tisztaság ma különösen lenyűgözővé teszi a távoli kilátást.",
+                "ro": "Căldura din mașină va fi binevenită după scurta plimbare; claritatea iernii face ca vederea la distanță să fie impresionantă azi.",
+                "en": "The car's heater will be a blessing after the short walk; the winter clarity makes the distant views today especially impressive."
+              }
+            },
+            {
+              "name": {
+                "de": "Hôtel de la Monnaie",
+                "hu": "Hôtel de la Monnaie",
+                "ro": "Hôtel de la Monnaie",
+                "en": "Hôtel de la Monnaie"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger in den beheizten Ausstellungsräumen; die mittelalterliche Architektur wirkt im Winterlicht besonders stimmungsvoll.",
+                "hu": "Időzzön hosszabban a fűtött kiállítótermekben; a középkori építészet a téli fényekben különösen hangulatosnak hat.",
+                "ro": "Zăboviți mai mult în sălile de expoziție încălzite; arhitectura medievală pare extrem de sugestivă în lumina iernii.",
+                "en": "Stay longer in the heated exhibition rooms; the medieval architecture looks especially atmospheric in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont du Pin",
+                "hu": "Pont du Pin",
+                "ro": "Pont du Pin",
+                "en": "Pont du Pin"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht aus; der kahle Baumbestand am Flussufer lässt im Winter mehr Details der Brückenkonstruktion erkennen.",
+                "hu": "Egy rövid fotómegálló is elég; a folyóparti kopár fák miatt télen a híd szerkezetének több részlete válik láthatóvá.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă; copacii golași de pe malul râului permit vederea mai multor detalii ale podului.",
+                "en": "A brief photo stop is enough; the leafless trees along the riverbank reveal more details of the bridge's construction in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine à vagues",
+                "hu": "Piscine à vagues",
+                "ro": "Piscine à vagues",
+                "en": "Piscine à vagues"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Kälte im beheizten Wasser; es ist der wärmste und entspannteste Ort der Stadt an einem frostigen Nachmittag.",
+                "hu": "Meneküljön el a hideg elől a meleg vízbe; ez a város legmelegebb és legpihentetőbb helye egy fagyos téli délutánon.",
+                "ro": "Evadați de frig în apa încălzită; este cel mai cald și relaxant loc din oraș într-o după-amiază geroasă de iarnă.",
+                "en": "Escape the cold in the heated water; it is the warmest and most relaxing place in town on a freezing winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Cap Nature Figeac",
+                "hu": "Cap Nature Figeac",
+                "ro": "Cap Nature Figeac",
+                "en": "Cap Nature Figeac"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft frühzeitig ein, da die Dämmerung gegen 17 Uhr beginnt; die klare Luft macht Outdoor-Aktivitäten sehr erfrischend.",
+                "hu": "Tervezze a megérkezést korábbra, mert 17 óra körül sötétedik; a tiszta levegő miatt a kinti mozgás nagyon frissítő lesz.",
+                "ro": "Planificați sosirea devreme deoarece amurgul începe în jurul orei 17; aerul curat face activitățile în aer liber foarte revigorante.",
+                "en": "Plan to arrive early as twilight begins around 5 PM; the crisp air makes any outdoor activity feel very refreshing."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi Bab Marrakech kapunál kezdődik, amely a medina szívébe vezet. A delet az impozáns Bab Skala és az óceáni kilátás felfedezésével tölti. Délután művészeti élmények várják a Gallerie Pecheur-ben. Ahogy közeledik az este, a nyüzsgő kikötő tökéletes, autentikus tengerparti búcsút kínál.",
         "ro": "Dimineața începe la istorica Bab Marrakech, conducându-vă în inima medinei. La amiază explorați impunătoarea Bab Skala cu vederile sale spre ocean. După-amiaza, descoperiri artistice vă așteaptă la Gallerie Pecheur. Spre seară, portul pescăresc plin de viață oferă un rămas bun de coastă autentic și perfect.",
         "en": "Morning begins at the historic Bab Marrakech, leading you into the heart of the medina. Midday is spent exploring the imposing Bab Skala and its ocean views. In the afternoon, artistic insights await at Gallerie Pecheur. As evening approaches, the vibrant Fishery offers a perfect, authentic coastal farewell."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Bab Marrakech, dessen massive Bögen Schutz vor dem Regen bieten. Mittags navigieren wir durch die überdachten Gassen der Medina, um trocken zu bleiben. Am Nachmittag bietet die Galerie Pecheur einen warmen, kunstvollen Rückzugsort. Abends beobachten wir das tosende Meer vom Hafen aus, gut geschützt unter einem stabilen Regenschirm.",
+            "hu": "Reggel a Bab Marrakechnél kezdünk, ahol a kapu vastag boltívei alatt menedéket találunk az eső elől. Délben a medina fedett részei felé vesszük az irányt, kerülve a csúszós macskaköveket. Délután a Gallerie Pecheur kiállítása nyújt száraz és inspiráló kikapcsolódást. Estére a kikötőhöz látogatunk, ahol a viharos Atlanti-óceán látványa lenyűgöző az esernyő alól.",
+            "ro": "Începeți la Bab Marrakech, unde arcadele masive oferă adăpost în caz de aversă atlantică. La prânz, navigați prin pasajele acoperite ale medinei pentru a evita străzile alunecoase. După-amiaza, vizitați Gallerie Pecheur pentru un refugiu artistic și uscat. Seara, admirați marea agitată din port, protejați de o umbrelă rezistentă la vântul puternic de pe coastă.",
+            "en": "Start at Bab Marrakech, where the massive arches provide a quick refuge from the Atlantic rain. At noon, navigate through the covered passages of the medina to avoid the slippery cobblestones. In the afternoon, Gallerie Pecheur offers a dry and artistic retreat from the drizzle. In the evening, watch the stormy sea from the harbor, well-protected under a sturdy umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab Marrakech",
+                "hu": "Bab Marrakech",
+                "ro": "Bab Marrakech",
+                "en": "Bab Marrakech"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das rote Mauerwerk dieses Tors und nutzen Sie die tiefen Bögen als Unterstand bei plötzlichen Schauern.",
+                "hu": "Csodálja meg a vörös kőfalakat, és használja a mély boltíveket menedékként, ha hirtelen eleredne az atlanti eső.",
+                "ro": "Admirați zidăria roșie a acestei porți și folosiți arcadele adânci ca adăpost în cazul unei ploi bruște de pe ocean.",
+                "en": "Admire the red stonework of this gate and use its deep arches as a shelter if a sudden Atlantic downpour begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Mechouar",
+                "hu": "Bab El Mechouar",
+                "ro": "Bab El Mechouar",
+                "en": "Bab El Mechouar"
+              },
+              "tip_5lang": {
+                "de": "Dieser belebte Platz kann bei Regen rutschig sein; gehen Sie vorsichtig am Rand unter den Mauervorsprüngen entlang.",
+                "hu": "Ez a forgalmas tér esőben csúszós lehet; sétáljon óvatosan a szélén, a falak nyújtotta keskeny védelem alatt.",
+                "ro": "Această piață animată poate fi alunecoasă pe ploaie; mergeți cu atenție pe margine, pe sub marginile clădirilor.",
+                "en": "This busy square can be slippery when wet; walk carefully along the edges under the protection of the wall overhangs."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Skala",
+                "hu": "Bab Skala",
+                "ro": "Bab Skala",
+                "en": "Bab Skala"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Festungswälle, aber meiden Sie die nassen Kanonen, da das Metall und der Stein extrem glatt werden.",
+                "hu": "Látogasson el a bástyákhoz, de kerülje a vizes ágyúkat, mert a fém és a kő ilyenkor rendkívül csúszóssá válik.",
+                "ro": "Vizitați meterezele, dar evitați tunurile umede, deoarece metalul și piatra devin extrem de alunecoase pe ploaie.",
+                "en": "Visit the ramparts but avoid the wet cannons, as the metal and stone become extremely slick during a rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallerie Pecheur",
+                "hu": "Gallerie Pecheur",
+                "ro": "Gallerie Pecheur",
+                "en": "Gallerie Pecheur"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um dem Regen zu entfliehen und lokale Kunst in einer trockenen, ruhigen Umgebung zu genießen.",
+                "hu": "Tökéletes hely az eső elől való menekülésre, ahol száraz és nyugodt környezetben élvezheti a helyi művészetet.",
+                "ro": "Locul perfect pentru a scăpa de ploaie și pentru a savura arta locală într-un mediu uscat și liniștit.",
+                "en": "The perfect spot to escape the rain and enjoy local art in a dry, quiet environment while the storm passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Fischerei",
+                "hu": "Halászat",
+                "ro": "Pescărie",
+                "en": "Fishery"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischer beim Einholen des Fangs; tragen Sie wasserfeste Schuhe für den nassen Hafenboden.",
+                "hu": "Nézze meg a halászokat munka közben; viseljen vízálló cipőt a kikötő vizes és sárfoltos talaja miatt.",
+                "ro": "Urmăriți pescarii aducând captura zilei; purtați încălțăminte impermeabilă pentru solul umed din zona portului.",
+                "en": "Watch the fishermen bringing in their catch; wear waterproof shoes for the wet and puddle-filled harbor ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milde Wintersonne am Bab Marrakech, bevor die kühle Meeresbrise auffrischt. Mittags erkunden wir die Medina im sanften Licht, ideal für Fotografie ohne harte Schatten. Da es früher dunkel wird, besuchen wir die Galerie am Nachmittag. Der Tag endet gegen 17 Uhr mit einem spektakulären Sonnenuntergang über dem Atlantik, warm eingepackt in Schichten.",
+            "hu": "Élvezze az enyhe téli napsütést a Bab Marrakechnél, mielőtt feltámadna a hűvös tengeri szél. Napközben a medina lágy fényei tökéletesek a fotózáshoz, a tömeg pedig kisebb ilyenkor. Mivel korán sötétedik, a galériát délután ejtjük útba. A nap 17 óra körül ér véget a bástyákon, ahonnan réteges öltözetben csodálhatjuk meg az atlanti naplementét.",
+            "ro": "Bucurați-vă de soarele blând de iarnă la Bab Marrakech înainte ca briza rece a mării să se intensifice. La prânz, explorați medina în lumina caldă, ideală pentru fotografii fără umbre dure. Deoarece se întunecă devreme, vizitați galeria după-amiaza. Ziua se încheie în jurul orei 17:00 cu un apus spectaculos, fiind bine îmbrăcați în straturi.",
+            "en": "Enjoy the mild winter sun at Bab Marrakech before the cool sea breeze picks up. During the day, explore the medina in the soft light, ideal for photography without harsh shadows. Since it gets dark early, visit the gallery in the afternoon. The day ends around 5 PM with a spectacular sunset over the Atlantic, dressed warmly in layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bab Marrakech",
+                "hu": "Bab Marrakech",
+                "ro": "Bab Marrakech",
+                "en": "Bab Marrakech"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die roten Steine zum Leuchten; kommen Sie früh für die besten Lichtverhältnisse.",
+                "hu": "A téli napsütés gyönyörűen megvilágítja a vörös köveket; érkezzen korán a legszebb fényekért.",
+                "ro": "Soarele de iarnă face pietrele roșii să strălucească; veniți devreme pentru cele mai bune condiții de lumină.",
+                "en": "The winter sun makes the red stones glow beautifully; arrive early to catch the best lighting for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab El Mechouar",
+                "hu": "Bab El Mechouar",
+                "ro": "Bab El Mechouar",
+                "en": "Bab El Mechouar"
+              },
+              "tip_5lang": {
+                "de": "Ein offener Platz, an dem der Wind ziehen kann; ein warmer Schal schützt Sie vor der kühlen Atlantikbrise.",
+                "hu": "Nyitott tér, ahol gyakran fúj a szél; egy meleg sál jól jöhet a hűvös atlanti szellő ellen.",
+                "ro": "O piață deschisă unde vântul poate fi tăios; un fular călduros vă va proteja de briza rece a Atlanticului.",
+                "en": "An open square where the wind can pick up; a warm scarf will protect you from the cool Atlantic breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Skala",
+                "hu": "Bab Skala",
+                "ro": "Bab Skala",
+                "en": "Bab Skala"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das Meer ist im Winter kristallklar, aber auf den Wällen ist es deutlich kühler als in der Stadt.",
+                "hu": "A kilátás a tengerre télen kristálytiszta, de a bástyákon jóval hűvösebb van, mint bent a városban.",
+                "ro": "Vederea spre mare este extrem de clară iarna, dar pe metereze este mult mai răcoare decât în interiorul orașului.",
+                "en": "The view of the sea is crystal clear in winter, but it is significantly cooler on the ramparts than inside the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallerie Pecheur",
+                "hu": "Gallerie Pecheur",
+                "ro": "Gallerie Pecheur",
+                "en": "Gallerie Pecheur"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort am späten Nachmittag, wenn die Außentemperaturen im Winter spürbar sinken.",
+                "hu": "Hangulatos menedék késő délutánra, amikor a kinti hőmérséklet télen már érezhetően csökkenni kezd.",
+                "ro": "Un refugiu primitor la sfârșitul după-amiezii, când temperaturile exterioare încep să scadă considerabil iarna.",
+                "en": "A cozy retreat for late afternoon when the outside temperatures start to drop noticeably during winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Fischerei",
+                "hu": "Halászat",
+                "ro": "Pescărie",
+                "en": "Fishery"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Hafen vor 17 Uhr, um das geschäftige Treiben im letzten goldenen Licht des Tages zu erleben.",
+                "hu": "Látogasson el a kikötőbe 17 óra előtt, hogy a nap utolsó aranyló fényeiben láthassa a nyüzsgő életet.",
+                "ro": "Vizitați portul înainte de ora 17:00 pentru a vedea activitatea intensă în ultima lumină aurie a zilei.",
+                "en": "Visit the harbor before 5 PM to see the bustling activity in the last golden light of the winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpáros napja a Carage Múzeum lenyűgöző kiállításaival kezdődik, mielőtt a Bab Marrakech kapun át begurulna az óvárosba. A délidő a szeles partvidékre viszi a Kitesensation és a Plage d'Essaouira aktív pihenéséhez. Késő délután a Bab Skala pompás ágyúi drámai és történelmi finálét nyújtanak.",
         "ro": "Ziua de ciclism începe cu expoziții intrigante la Muzeul Carage înainte de a intra în orașul vechi prin Bab Marrakech. Amiaza vă aduce pe coasta răcoroasă la Kitesensation și Plage d'Essaouira. Spre sfârșitul după-amiezii, tunurile magnifice de la Bab Skala oferă un final dramatic și istoric.",
         "en": "Your cycling day starts with intriguing exhibits at the Carage Museum before rolling into the old town via Bab Marrakech. Midday brings you to the breezy coast at Kitesensation and Plage d'Essaouira for active relaxation. In the late afternoon, the magnificent cannons of Bab Skala provide a dramatic and historic finale to your ride."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Tour im Museum, um den morgendlichen Schauern auszuweichen. Beim Radfahren durch die Stadt ist Vorsicht geboten, da die nassen Steine rutschig sind. Mittags machen wir kurze Stopps an den Toren und suchen Schutz unter den Torbögen. Der Strandabschnitt wird bei Wind und Regen zur Herausforderung, daher ist wasserfeste Kleidung für diese Küstenfahrt unerlässlich.",
+            "hu": "Kezdje a túrát a múzeumban, hogy elkerülje a reggeli záporokat. A városban való kerékpározás során legyen óvatos, mert a vizes kövek csúszósak. Délben rövid megállókat tartunk a kapuknál, menedéket keresve a boltívek alatt. A tengerparti szakasz szeles és esős időben kihívást jelenthet, ezért a vízálló ruházat elengedhetetlen ehhez a parti tekeréshez.",
+            "ro": "Începeți turul la muzeu pentru a evita aversele de dimineață. Aveți grijă când pedalați prin oraș, deoarece pietrele umede sunt alunecoase. La prânz, faceți opriri scurte la porți, căutând adăpost sub arcade. Secțiunea de plajă poate fi o provocare pe vânt și ploaie, așa că vestimentația impermeabilă este esențială pentru această plimbare pe coastă.",
+            "en": "Start the tour at the museum to avoid the morning showers. Use caution while cycling through the city as the wet stones are slippery. At noon, take short breaks at the gates, seeking shelter under the archways. The beach section can be challenging in wind and rain, so waterproof gear is essential for this coastal ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carage Museum",
+                "hu": "Carage Múzeum",
+                "ro": "Muzeul Carage",
+                "en": "Carage Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt im Trockenen; parken Sie Ihr Fahrrad sicher im Eingangsbereich während der Besichtigung.",
+                "hu": "Ideális indítás fedett helyen; parkolja le kerékpárját biztonságosan a bejáratnál a látogatás idejére.",
+                "ro": "Un punct de plecare ideal la adăpost; parcați bicicleta în siguranță la intrare în timpul vizitei.",
+                "en": "An ideal indoor starting point; park your bike securely near the entrance while you explore the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Marrakech",
+                "hu": "Bab Marrakech",
+                "ro": "Bab Marrakech",
+                "en": "Bab Marrakech"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz unter dem Tor an, um die Karte zu prüfen, ohne im Regen nass zu werden.",
+                "hu": "Álljon meg rövid időre a kapu alatt, hogy ellenőrizze az útvonalat anélkül, hogy megázna az esőben.",
+                "ro": "Opriți-vă scurt sub poartă pentru a verifica traseul fără a vă uda în ploaia atlantică.",
+                "en": "Stop briefly under the gate to check your map without getting soaked in the ongoing rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Kitesensation Essaouira",
+                "hu": "Kitesensation Essaouira",
+                "ro": "Kitesensation Essaouira",
+                "en": "Kitesensation Essaouira"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmischen Wellen; achten Sie beim Radfahren auf den vom Wind verwehten Sand auf dem nassen Boden.",
+                "hu": "Figyelje a viharos hullámokat; tekerés közben ügyeljen a szél által a vizes útra hordott homokra.",
+                "ro": "Observați valurile furtunoase; aveți grijă la nisipul suflat de vânt pe drumul umed în timp ce pedalați.",
+                "en": "Watch the stormy waves; be careful of wind-blown sand on the wet path while cycling along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Essaouira",
+                "hu": "Essaouira tengerpartja",
+                "ro": "Plaja din Essaouira",
+                "en": "Plage d'Essaouira"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fester zum Radfahren, aber der Gegenwind kann die Fahrt sehr anstrengend machen.",
+                "hu": "Az esőtől tömörödött homokon könnyebb tekerni, de az erős ellenszél alaposan megnehezítheti a haladást.",
+                "ro": "Nisipul umed este mai compact pentru pedalat, dar vântul puternic din față poate face înaintarea dificilă.",
+                "en": "The wet sand is firmer for cycling, but the strong headwinds can make the ride quite strenuous today."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Skala",
+                "hu": "Bab Skala",
+                "ro": "Bab Skala",
+                "en": "Bab Skala"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier; parken Sie das Rad vorsichtig auf dem nassen Pflaster, bevor Sie die Wälle begehen.",
+                "hu": "Itt fejezze be a túrát; parkoljon óvatosan a vizes köveken, mielőtt gyalogosan felfedezné a bástyákat.",
+                "ro": "Încheiați turul aici; parcați cu grijă pe pavajul umed înainte de a explora meterezele la pas.",
+                "en": "Finish your tour here; park your bike carefully on the wet pavement before exploring the ramparts on foot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Museum, wo es morgens noch angenehm warm ist. Die winterliche Radtour entlang der Küste bietet frische Luft und weite Ausblicke auf den Atlantik. Mittags wärmt die Sonne die Promenade auf, perfekt für eine entspannte Fahrt. Planen Sie die Ankunft an den Stadtmauern vor 16:30 Uhr ein, um den frühen Wintersonnenuntergang nicht zu verpassen.",
+            "hu": "Kezdje a múzeumban, ahol reggel még kellemes a hőmérséklet. A téli kerékpártúra a parton friss levegőt és tiszta kilátást kínál az Atlanti-óceánra. Napközben a nap felmelegíti a sétányt, ami tökéletes egy lazább tekeréshez. Tervezze úgy, hogy 16:30 előtt érjen a bástyákhoz, így nem marad le a korai téli naplementéről.",
+            "ro": "Începeți la muzeu, unde dimineața este încă destul de cald. Turul de iarnă pe bicicletă oferă aer proaspăt și vederi clare spre Atlantic. La prânz, soarele încălzește promenada, fiind ideal pentru o plimbare relaxată. Planificați să ajungeți la metereze înainte de ora 16:30 pentru a nu rata apusul timpuriu.",
+            "en": "Start at the museum, where it's still pleasantly warm in the morning. The winter bike tour along the coast offers fresh air and clear views of the Atlantic. During the day, the sun warms up the promenade, perfect for a relaxed ride. Plan to reach the ramparts before 4:30 PM to catch the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carage Museum",
+                "hu": "Carage Múzeum",
+                "ro": "Muzeul Carage",
+                "en": "Carage Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag für die Innenräume, wenn die Winterluft draußen noch sehr kühl ist.",
+                "hu": "Használja ki a délelőttöt a belső terek felfedezésére, amikor a téli levegő kint még hűvösebb.",
+                "ro": "Profități de dimineață pentru a explora interiorul, când aerul de iarnă de afară este încă rece.",
+                "en": "Take advantage of the morning to explore the indoors when the winter air outside is still quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Marrakech",
+                "hu": "Bab Marrakech",
+                "ro": "Bab Marrakech",
+                "en": "Bab Marrakech"
+              },
+              "tip_5lang": {
+                "de": "Das Tor bietet einen tollen Kontrast zum klaren Winterhimmel; tragen Sie Handschuhe für die Fahrt.",
+                "hu": "A kapu gyönyörű kontrasztot alkot a tiszta téli égbolttal; viseljen kesztyűt a tekeréshez.",
+                "ro": "Poarta oferă un contrast superb cu cerul senin de iarnă; purtați mănuși pentru plimbarea pe bicicletă.",
+                "en": "The gate offers a great contrast against the clear winter sky; wear gloves for the bike ride today."
+              }
+            },
+            {
+              "name": {
+                "de": "Kitesensation Essaouira",
+                "hu": "Kitesensation Essaouira",
+                "ro": "Kitesensation Essaouira",
+                "en": "Kitesensation Essaouira"
+              },
+              "tip_5lang": {
+                "de": "Auch im Winter sind Kitesurfer aktiv; halten Sie kurz an, um den Sportlern im harten Wind zuzusehen.",
+                "hu": "Télen is aktívak a kiteszörfösök; álljon meg egy pillanatra, és nézze meg a sportolókat az erős szélben.",
+                "ro": "Kitesurferii sunt activi și iarna; opriți-vă un moment pentru a vedea sportivii în vântul puternic.",
+                "en": "Kitesurfers are active even in winter; stop for a moment to watch the athletes in the strong winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Essaouira",
+                "hu": "Essaouira tengerpartja",
+                "ro": "Plaja din Essaouira",
+                "en": "Plage d'Essaouira"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie auf der befestigten Promenade, um den kalten nassen Sand am Ufer im Winter zu meiden.",
+                "hu": "Tekerjen a kiépített sétányon, hogy elkerülje a télen hideg és vizes homokot a parton.",
+                "ro": "Pedalați pe promenada amenajată pentru a evita nisipul rece și umed de la malul mării în timpul iernii.",
+                "en": "Cycle on the paved promenade to avoid the cold and wet sand at the shore during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Skala",
+                "hu": "Bab Skala",
+                "ro": "Bab Skala",
+                "en": "Bab Skala"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Aussichtspunkt rechtzeitig zum Sonnenuntergang, wenn das Licht die Festung golden färbt.",
+                "hu": "Érjen ide időben a naplementéhez, amikor a fények aranybarnára festik az ősi erődítmény falait.",
+                "ro": "Ajungeți la acest punct de observație la timp pentru apus, când lumina colorează fortăreața în auriu.",
+                "en": "Reach this viewpoint in time for sunset when the light paints the ancient fortress in golden hues."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "A reggeli autózás délre indul, hogy felfedezze a Kis Portugál Erőd és a Borj El baroud tengerparti romjait. A délidő távoli, de lenyűgöző kilátást nyújt a történelmi Mogador börtönre. Délután visszatér a kikötő felé, hogy megtapasztalja az autentikus halpiacot. Az estét a Gallerie Pecheur tengerészeti művészete teszi tökéletessé.",
         "ro": "Plimbarea de dimineață se îndreaptă spre sud pentru a descoperi ruinele Micului Fort Portughez și Borj El baroud. Amiaza vă aduce o vedere îndepărtată a istoricei Închisori din Mogador. După-amiaza, vă întoarceți spre port pentru a experimenta autenticul port pescăresc. Seara se încheie perfect cu artă maritimă la Gallerie Pecheur.",
         "en": "The morning drive heads south to uncover the coastal ruins of the Little Portuguese Fort and Borj El baroud. Midday brings you a distant but striking view of the historic Prison de Mogador. In the afternoon, you return towards the port to experience the authentic Fishery. The evening rounds off perfectly with maritime art at Gallerie Pecheur."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl für regnerische Tage in Essaouira. Wir besuchen die abgelegenen Forts und Ruinen, während wir zwischen den Stopps im Trockenen bleiben. Mittags machen wir einen Abstecher zum Hafen, wenn der Regen nachlässt. Den Nachmittag verbringen wir in der Galerie Pecheur, die einen perfekten, überdachten Abschluss für diesen nassen Tag an der Küste bietet.",
+            "hu": "Az autó a legjobb választás Essaouira esős napjaira. Meglátogatjuk a távolabbi erődöket és romokat, miközben a megállók között szárazon maradunk. Napközben teszünk egy kitérőt a kikötőbe, amikor csendesedik az eső. A délutánt a Gallerie Pecheur-ben töltjük, amely tökéletes fedett befejezést kínál ezen a vizes parti napon.",
+            "ro": "Mașina este cea mai bună alegere pentru zilele ploioase în Essaouira. Vizităm forturile și ruinele mai îndepărtate, rămânând la uscat între opriri. La prânz, facem o scurtă vizită la port când ploaia se mai domolește. După-amiaza o petrecem la Gallerie Pecheur, care oferă un final acoperit perfect pentru această zi umedă pe coastă.",
+            "en": "The car is the best choice for rainy days in Essaouira. We will visit the outlying forts and ruins while staying dry between stops. At noon, we'll take a trip to the harbor when the rain eases off. We'll spend the afternoon at Gallerie Pecheur, which offers a perfect indoor conclusion to this wet coastal day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kleines portugiesisches Fort",
+                "hu": "Kis portugál erőd",
+                "ro": "Micul Fort Portughez",
+                "en": "Little Portuguese Fort"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen vorsichtig; die Steine sind extrem rutschig, wenn sie vom Regen nass sind.",
+                "hu": "Fedezze fel óvatosan a romokat; a kövek rendkívül csúszósak, ha az esőtől átnedvesednek.",
+                "ro": "Explorați ruinele cu atenție; pietrele sunt extrem de alunecoase când sunt umezite de ploaie.",
+                "en": "Explore the ruins carefully; the ancient stones are extremely slippery when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Borj El baroud",
+                "hu": "Borj El baroud",
+                "ro": "Borj El baroud",
+                "en": "Borj El baroud"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen können Sie dieses Denkmal auch bequem vom Parkplatz aus durch das Autofenster betrachten.",
+                "hu": "Erős esőzés esetén ezt az emlékművet kényelmesen, az autó ablakából is megcsodálhatja a parkolóból.",
+                "ro": "În caz de ploaie torențială, puteți admira acest monument confortabil din fereastra mașinii, din parcare.",
+                "en": "In case of heavy rain, you can admire this monument comfortably from your car window in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Gefängnis von Mogador",
+                "hu": "Mogador börtön",
+                "ro": "Închisoarea Mogador",
+                "en": "Prison de Mogador"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Regenschirm mit für den kurzen Fußweg vom Parkplatz zu den historischen Ruinen.",
+                "hu": "Vigyen magával esernyőt a parkolótól a történelmi romokig tartó rövid sétához az esős időben.",
+                "ro": "Luați o umbrelă pentru scurta plimbare de la parcare până la ruinele istorice în acest timp ploios.",
+                "en": "Take an umbrella with you for the short walk from the parking area to the historical ruins in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fischerei",
+                "hu": "Halászat",
+                "ro": "Pescărie",
+                "en": "Fishery"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Hafenbecken, um die Fischerboote ohne langes Laufen im Regen zu sehen.",
+                "hu": "Parkoljon a lehető legközelebb a kikötőhöz, hogy gyaloglás nélkül is láthassa a halászhajókat az esőben.",
+                "ro": "Parcați cât mai aproape de port pentru a vedea bărcile de pescuit fără a merge mult prin ploaie.",
+                "en": "Park as close as possible to the harbor to see the fishing boats without walking far in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallerie Pecheur",
+                "hu": "Gallerie Pecheur",
+                "ro": "Gallerie Pecheur",
+                "en": "Gallerie Pecheur"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um den Tag trocken zu beenden; genießen Sie die Kunst, während es draußen regnet.",
+                "hu": "Nagyszerű hely a nap száraz befejezéséhez; élvezze a művészetet, miközben kint dobol az eső.",
+                "ro": "Un loc excelent pentru a încheia ziua la uscat; savurați arta în timp ce afară plouă torențial.",
+                "en": "A great spot to end the day dry; enjoy the local art while the rain falls outside on the coast."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autotour im Winter führt uns entlang der dramatischen Küstenlinie Essaouiras. Morgens besuchen wir die südlichen Forts, wenn das Licht klar und hell ist. Mittags erkunden wir den Hafen und spüren die frische Winterbrise. Da die Sonne bereits gegen 17 Uhr untergeht, planen wir den Besuch der Galerie für den späten Nachmittag, um uns vor der abendlichen Kälte aufzuwärmen.",
+            "hu": "A téli autós túra Essaouira látványos partvonala mentén vezet. Reggel a déli erődöket látogatjuk meg, amikor a fények tiszták és élesek. Napközben felfedezzük a kikötőt, érezve a friss téli szellőt. Mivel a nap 17 óra körül nyugszik, a galéria látogatását késő délutánra időzítjük, hogy felmelegedjünk az esti lehűlés előtt.",
+            "ro": "Turul cu mașina iarna ne poartă de-a lungul liniei de coastă dramatice a Essaouirei. Dimineața vizităm forturile sudice, când lumina este clară. La prânz explorăm portul, simțind briza proaspătă de iarnă. Deoarece soarele apune în jurul orei 17:00, vizităm galeria după-amiaza târziu pentru a ne încălzi înainte de frigul serii.",
+            "en": "The winter car tour takes us along Essaouira's dramatic coastline. In the morning, we visit the southern forts when the light is clear and bright. At noon, we explore the harbor, feeling the fresh winter breeze. Since the sun sets around 5 PM, we plan the gallery visit for late afternoon to warm up before the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kleines portugiesisches Fort",
+                "hu": "Kis portugál erőd",
+                "ro": "Micul Fort Portughez",
+                "en": "Little Portuguese Fort"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Fort am Vormittag, um die wärmenden Strahlen der Wintersonne am Strand zu genießen.",
+                "hu": "Látogasson el ide délelőtt, hogy kiélvezze a téli napsütés melengető sugarait a tengerparton.",
+                "ro": "Vizitați acest fort dimineața pentru a vă bucura de razele calde ale soarelui de iarnă pe plajă.",
+                "en": "Visit this fort in the morning to enjoy the warming rays of the winter sun along the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Borj El baroud",
+                "hu": "Borj El baroud",
+                "ro": "Borj El baroud",
+                "en": "Borj El baroud"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal sieht vor dem klaren, winterlichen Abendhimmel besonders dramatisch und fotogen aus.",
+                "hu": "Ez az emlékmű különösen drámai és fotogén a tiszta, téli esti égbolt előtt állva.",
+                "ro": "Acest monument arată deosebit de dramatic și fotogenic pe fundalul cerului senin de iarnă.",
+                "en": "This monument looks particularly dramatic and photogenic against the clear winter evening sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Gefängnis von Mogador",
+                "hu": "Mogador börtön",
+                "ro": "Închisoarea Mogador",
+                "en": "Prison de Mogador"
+              },
+              "tip_5lang": {
+                "de": "Ein geschichtsträchtiger Ort; tragen Sie eine windfeste Jacke für den kurzen Aufenthalt an der Küste.",
+                "hu": "Történelmi helyszín; viseljen szélálló dzsekit a rövid part menti séta és nézelődés idejére.",
+                "ro": "Un loc încărcat de istorie; purtați o jachetă rezistentă la vânt pentru scurta oprire pe coastă.",
+                "en": "A place steeped in history; wear a windproof jacket for the short stay along the breezy coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Fischerei",
+                "hu": "Halászat",
+                "ro": "Pescărie",
+                "en": "Fishery"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt die blauen Boote leuchten; ein perfekter Moment für farbenfrohe Fotos im Hafen.",
+                "hu": "A téli napfényben ragyognak a kék hajók; tökéletes pillanat színes fotók készítésére a kikötőben.",
+                "ro": "Lumina de iarnă face bărcile albastre să strălucească; un moment perfect pentru fotografii colorate în port.",
+                "en": "The winter sun makes the blue boats glow; a perfect moment for colorful photos in the harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallerie Pecheur",
+                "hu": "Gallerie Pecheur",
+                "ro": "Gallerie Pecheur",
+                "en": "Gallerie Pecheur"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich am späten Nachmittag im Inneren auf, wenn der Wind draußen im Winter kühler wird.",
+                "hu": "Melegedjen fel bent késő délután, amikor a szél kint télen már érezhetően hűvösebbé válik.",
+                "ro": "Încălziți-vă în interior după-amiaza târziu, când vântul de afară devine mai rece în timpul iernii.",
+                "en": "Warm up inside in the late afternoon when the wind outside becomes much cooler during winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

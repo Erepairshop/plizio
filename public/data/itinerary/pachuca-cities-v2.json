@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a Plaza Juárez-en, majd sétáljon át a történelmi belvároson. Ezt követően merüljön el a Teatro Jardín del Arte helyi kulturális életében. Délután fedezze fel a Centro Cultural del Ferrocarril vasúttörténeti kincseit. Este pedig csodálja meg az egyedülálló axolotlokat.",
         "ro": "Începeți ziua în Plaza Juárez și faceți o plimbare prin centrul istoric al orașului. Ulterior, pătrundeți în scena culturală la Teatro Jardín del Arte. După-amiaza, descoperiți istoria feroviară fascinantă la Centro Cultural del Ferrocarril. Seara, admirați axoloții unici la Ajolotario.",
         "en": "Start your day at Plaza Juárez and take a stroll through the historic downtown. Afterwards, immerse yourself in the local cultural scene at the Teatro Jardín del Arte. In the afternoon, discover fascinating railway history at the Centro Cultural del Ferrocarril. In the evening, admire unique axolotls at the Ajolotario."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag am Plaza Juárez, wo die umliegenden Arkaden Schutz vor dem morgendlichen Nieselregen bieten. Mittags laden die gemütlichen Galerien des Cuartel del Arte zum Verweilen im Trockenen ein. Am Nachmittag erkunden Sie die überdachten Bahnsteige des Eisenbahnzentrums. Den Abend verbringen Sie sicher und trocken bei den Axolotln, während draußen der Regen gegen die Scheiben peitscht.",
+            "hu": "Kezdje a napot a Plaza Juáreznél, ahol a környező árkádok védelmet nyújtanak a reggeli szemerkélő eső elől. Délben a Cuartel del Arte barátságos galériái hívogatnak a száraz belső terekbe. Délután a vasúttörténeti központ fedett peronjai alatt kalandozhat. Az estét biztonságban és szárazon töltheti az axolotlok között, miközben kint az eső veri az ablakokat.",
+            "ro": "Începeți ziua în Plaza Juárez, unde arcadele din jur oferă adăpost împotriva burniței de dimineață. La prânz, galeriile primitoare de la Cuartel del Arte vă invită în spații interioare uscate. După-amiaza, explorați sub platformele acoperite ale centrului feroviar. Seara o veți petrece la adăpost și uscat printre axolotli, în timp ce afară ploaia bate în geamuri.",
+            "en": "Start your day at Plaza Juárez, where the surrounding arches provide shelter from the morning drizzle. At noon, the cozy galleries of Cuartel del Arte invite you into dry indoor spaces. In the afternoon, explore under the covered platforms of the railway center. Spend the evening safe and dry among the axolotls while the rain drums against the windows outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Juárez",
+                "hu": "Plaza Juárez",
+                "ro": "Plaza Juárez",
+                "en": "Plaza Juárez"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die Architektur von den schützenden Arkaden aus; der glatte Boden kann bei Nässe rutschig sein, tragen Sie daher Schuhe mit gutem Profil.",
+                "hu": "Csodálja meg az építészetet a védelmet nyújtó árkádok alól; a sima burkolat vizesen csúszós lehet, ezért viseljen bordázott talpú cipőt.",
+                "ro": "Admirați arhitectura de sub arcadele protectoare; pavajul neted poate fi alunecos când este ud, așa că purtați pantofi cu talpă aderentă.",
+                "en": "Admire the architecture from the protective arches; the smooth pavement can be slippery when wet, so wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Jardín del Arte",
+                "hu": "Teatro Jardín del Arte",
+                "ro": "Teatro Jardín del Arte",
+                "en": "Teatro Jardín del Arte"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für Fotos der Skulpturen im Garten; ein stabiler Regenschirm ist für den kurzen Weg zwischen den Gebäuden unerlässlich.",
+                "hu": "Használja a fedett bejárati részt a kertben lévő szobrok fotózásához; egy erős esernyő elengedhetetlen az épületek közötti rövid szakaszokon.",
+                "ro": "Folosiți zona de intrare acoperită pentru a fotografia sculpturile din grădină; o umbrelă rezistentă este esențială pentru porțiunile scurte dintre clădiri.",
+                "en": "Use the covered entrance area to photograph the sculptures in the garden; a sturdy umbrella is essential for the short stretches between buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuartel del Arte",
+                "hu": "Cuartel del Arte",
+                "ro": "Cuartel del Arte",
+                "en": "Cuartel del Arte"
+              },
+              "tip_4lang": {
+                "de": "Dieses ehemalige Kloster bietet dicke Mauern und perfekte Trockenheit für Kunstliebhaber; nutzen Sie die Garderobe, um Ihre nasse Regenjacke bequem abzugeben.",
+                "hu": "Ez az egykori kolostor vastag falaival tökéletes szárazságot nyújt a művészetkedvelőknek; használja a ruhatárat a vizes esőkabát kényelmes tárolására.",
+                "ro": "Această fostă mănăstire cu ziduri groase oferă o uscăciune perfectă pentru iubitorii de artă; folosiți garderoba pentru a vă lăsa confortabil pelerina de ploaie udă.",
+                "en": "This former convent with thick walls offers perfect dryness for art lovers; use the cloakroom to conveniently leave your wet raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería de Arte Contemporáneo de Hidalgo",
+                "hu": "Galería de Arte Contemporáneo de Hidalgo",
+                "ro": "Galería de Arte Contemporáneo de Hidalgo",
+                "en": "Galería de Arte Contemporáneo de Hidalgo"
+              },
+              "tip_4lang": {
+                "de": "Die hellen Innenräume lassen das graue Regenwetter draußen schnell vergessen; prüfen Sie am Eingang, ob Sie Ihren nassen Schirm in einem Ständer lassen können.",
+                "hu": "A világos belső terekkel gyorsan elfelejtheti a kinti szürke esős időt; a bejáratnál ellenőrizze, hogy az esernyőtartóban hagyhatja-e vizes ernyőjét.",
+                "ro": "Interioarele luminoase vă vor face să uitați rapid de vremea gri de afară; verificați la intrare dacă puteți lăsa umbrela udă într-un suport.",
+                "en": "The bright interiors will quickly make you forget the gray rainy weather outside; check at the entrance if you can leave your wet umbrella in a stand."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural del Ferrocarril",
+                "hu": "Centro Cultural del Ferrocarril",
+                "ro": "Centro Cultural del Ferrocarril",
+                "en": "Centro Cultural del Ferrocarril"
+              },
+              "tip_4lang": {
+                "de": "Die historischen Waggons und Hallen bieten ein nostalgisches Ambiente und Schutz vor Güssen; tragen Sie wasserfeste Schuhe für die Pfützen auf dem Bahnhofsgelände.",
+                "hu": "A történelmi vagonok és csarnokok nosztalgikus hangulatot és védelmet nyújtanak a záporok ellen; viseljen vízálló cipőt az állomás területén lévő tócsák miatt.",
+                "ro": "Vagoanele și halele istorice oferă o ambianță nostalgică și protecție împotriva averselor; purtați pantofi impermeabili pentru bălțile din zona gării.",
+                "en": "The historic wagons and halls offer a nostalgic ambiance and protection against showers; wear waterproof shoes for the puddles in the station area."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajolotario Miquiztli Xolotl",
+                "hu": "Ajolotario Miquiztli Xolotl",
+                "ro": "Ajolotario Miquiztli Xolotl",
+                "en": "Ajolotario Miquiztli Xolotl"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um den Tag entspannt im Warmen zu beenden, während Sie die aquatischen Tiere beobachten; die ruhige Atmosphäre ist bei Regen besonders besinnlich.",
+                "hu": "Ideális hely a nap nyugodt, meleg befejezéséhez, miközben a vízi állatokat figyeli; az eső kopogása mellett a hangulat még bensőségesebb.",
+                "ro": "Un loc ideal pentru a încheia ziua relaxat la căldură, în timp ce observați animalele acvatice; atmosfera liniștită este deosebit de contemplativă pe ploaie.",
+                "en": "An ideal place to end the day relaxed in the warm while observing the aquatic animals; the quiet atmosphere is especially contemplative during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft am Plaza Juárez macht munter für den Tag. Mittags bieten die Kulturzentren eine willkommene Wärme und faszinierende Ausstellungen. Nutzen Sie die hellen Stunden für die Galeriebesuche, da die Sonne bereits gegen 17:00 Uhr untergeht. Den frostigen Abend lassen Sie am besten im beheizten Ajolotario ausklingen.",
+            "hu": "A Plaza Juárez hűvös reggeli levegője felfrissíti az embert a nap indításához. Délben a kulturális központok kellemes meleget és lenyűgöző kiállításokat kínálnak. Használja ki a világos órákat a galériák meglátogatására, mert a nap már 17:00 körül lemegy. A fagyos estét a fűtött Ajolotarióban érdemes zárni.",
+            "ro": "Aerul răcoros de dimineață din Plaza Juárez vă înviorează pentru începutul zilei. La prânz, centrele culturale oferă o căldură binevenită și expoziții fascinante. Profitați de orele cu lumină pentru vizitarea galeriilor, deoarece soarele apune deja în jur de ora 17:00. Cel mai bine este să încheiați seara geroasă în Ajolotario, care este încălzit.",
+            "en": "The cool morning air at Plaza Juárez freshens you up for the start of the day. At noon, the cultural centers offer a welcome warmth and fascinating exhibitions. Use the light hours for gallery visits, as the sun already sets around 5:00 PM. It's best to end the frosty evening in the heated Ajolotario."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Juárez",
+                "hu": "Plaza Juárez",
+                "ro": "Plaza Juárez",
+                "en": "Plaza Juárez"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne steht tief und wirft lange Schatten auf den Platz; ziehen Sie sich nach dem Zwiebelprinzip an, um für die kühlen Windböen gewappnet zu sein.",
+                "hu": "A téli nap alacsonyan jár, és hosszú árnyékokat vet a térre; öltözzön rétegesen, hogy felkészüljön a hűvös széllökésekre.",
+                "ro": "Soarele de iarnă este jos și aruncă umbre lungi pe piață; îmbrăcați-vă în straturi pentru a fi pregătiți pentru rafalele de vânt răcoroase.",
+                "en": "The winter sun is low and casts long shadows on the square; dress in layers to be prepared for the cool gusts of wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Jardín del Arte",
+                "hu": "Teatro Jardín del Arte",
+                "ro": "Teatro Jardín del Arte",
+                "en": "Teatro Jardín del Arte"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Spaziergang durch den Garten ist erfrischend, aber suchen Sie bald das warme Foyer auf; die klare Winterluft bietet exzellente Sicht für Fernaufnahmen.",
+                "hu": "Egy rövid séta a kertben frissítő, de hamarosan keresse fel a meleg előcsarnokot; a tiszta téli levegő kiváló látási viszonyokat biztosít a távoli fotókhoz.",
+                "ro": "O scurtă plimbare prin grădină este revigorantă, dar căutați curând foierul cald; aerul curat de iarnă oferă o vizibilitate excelentă pentru fotografii de la distanță.",
+                "en": "A short walk through the garden is refreshing, but seek out the warm foyer soon; the clear winter air provides excellent visibility for long-distance photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuartel del Arte",
+                "hu": "Cuartel del Arte",
+                "ro": "Cuartel del Arte",
+                "en": "Cuartel del Arte"
+              },
+              "tip_4lang": {
+                "de": "Die dicken Mauern speichern die Wärme der Heizung hervorragend, ein idealer Rückzugsort; genießen Sie die Kunst in aller Ruhe ohne winterliche Hektik.",
+                "hu": "A vastag falak kiválóan tartják a fűtés melegét, ideális menedékhely; élvezze a művészetet nyugodtan, a téli sietség nélkül.",
+                "ro": "Zidurile groase rețin excelent căldura sistemului de încălzire, fiind un refugiu ideal; bucurați-vă de artă în liniște, fără agitația specifică iernii.",
+                "en": "The thick walls retain the heat from the heating system excellently, making it an ideal retreat; enjoy the art in peace without winter haste."
+              }
+            },
+            {
+              "name": {
+                "de": "Galería de Arte Contemporáneo de Hidalgo",
+                "hu": "Galería de Arte Contemporáneo de Hidalgo",
+                "ro": "Galería de Arte Contemporáneo de Hidalgo",
+                "en": "Galería de Arte Contemporáneo de Hidalgo"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den hellen Vormittag für die Galerie, bevor die Nachmittagskälte einsetzt; ein warmer Schal schützt Sie beim Verlassen des gut temperierten Gebäudes.",
+                "hu": "Használja ki a világos délelőttöt a galériára, mielőtt beállna a délutáni hideg; egy meleg sál jól jön majd, amikor elhagyja a kellemes hőmérsékletű épületet.",
+                "ro": "Profitați de dimineața luminoasă pentru galerie, înainte de lăsarea frigului de după-amiază; un fular cald vă va proteja la ieșirea din clădirea bine temperată.",
+                "en": "Take advantage of the bright morning for the gallery before the afternoon cold sets in; a warm scarf will protect you when leaving the well-tempered building."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural del Ferrocarril",
+                "hu": "Centro Cultural del Ferrocarril",
+                "ro": "Centro Cultural del Ferrocarril",
+                "en": "Centro Cultural del Ferrocarril"
+              },
+              "tip_4lang": {
+                "de": "Gegen 16:30 Uhr beginnt das goldene Licht der Dämmerung die alten Züge magisch zu beleuchten; denken Sie an Handschuhe für die Außenbesichtigungen.",
+                "hu": "16:30 körül az alkonyat aranyló fényei bűvösen megvilágítják a régi vonatokat; ne felejtsen el kesztyűt húzni a szabadtéri részek megtekintéséhez.",
+                "ro": "În jur de ora 16:30, lumina aurie a amurgului începe să lumineze magic vechile trenuri; nu uitați mănușile pentru vizitarea zonelor exterioare.",
+                "en": "Around 4:30 PM, the golden light of dusk begins to magically illuminate the old trains; remember gloves for the outdoor visits."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajolotario Miquiztli Xolotl",
+                "hu": "Ajolotario Miquiztli Xolotl",
+                "ro": "Ajolotario Miquiztli Xolotl",
+                "en": "Ajolotario Miquiztli Xolotl"
+              },
+              "tip_4lang": {
+                "de": "Der perfekte Ort, um sich nach dem Fußmarsch aufzuwärmen und den frühen Sonnenuntergang im Inneren zu verbringen; die Luftfeuchtigkeit ist wohltuend für die Haut.",
+                "hu": "Tökéletes hely a bemelegedésre a gyalogtúra után, és a korai naplemente bent töltésére; a páratartalom jótékony hatással van a bőrre a kinti száraz hideg után.",
+                "ro": "Locul perfect pentru a vă încălzi după traseul pe jos și pentru a petrece apusul timpuriu în interior; umiditatea aerului este benefică pentru piele.",
+                "en": "The perfect place to warm up after the walk and spend the early sunset indoors; the air humidity is beneficial for the skin after the dry cold outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúrája a központból indul, egyenesen a lenyűgöző vasúti múzeumhoz. Délben továbbteker, hogy felfedezze az Ecoparque helyi állat- és növényvilágát. A délután színes élményt nyújt a hatalmas Macromural Palmitas megtekintésével. Az estét a tágas Parque Ecológico Cubitosban töltheti.",
         "ro": "Turul cu bicicleta începe relaxant în centru și vă poartă la impresionantul muzeu feroviar. La prânz, pedalați mai departe pentru a explora flora și fauna locală din Ecoparque. După-amiaza devine plină de culoare la imensul Macromural Palmitas. Petreceți seara în vastul Parque Ecológico Cubitos.",
         "en": "Your bike tour starts smoothly in the center, taking you to the impressive railway museum. At midday, pedal on to explore the local wildlife and flora at the Ecoparque. The afternoon gets colorful with the giant Macromural Palmitas. Spend your evening in the spacious Parque Ecológico Cubitos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert in Pachuca volle Konzentration auf den glatten Straßen. Starten Sie vorsichtig am Plaza Juárez und nutzen Sie die Museen für längere Pausen zum Abtrocknen. Der Ecoparque kann schlammig sein, bleiben Sie auf befestigten Wegen. Beenden Sie die Tour frühzeitig, bevor die Sicht bei starkem Regen zu stark abnimmt.",
+            "hu": "Az esőben való biciklizés Pachucában teljes koncentrációt igényel a csúszós utakon. Kezdjen óvatosan a Plaza Juáreznél, és használja a múzeumokat hosszabb pihenőkre a megszáradáshoz. Az Ecoparque sáros lehet, maradjon a kövezett utakon. Fejezze be a túrát korán, mielőtt a látótávolság az erős esőben túlságosan lecsökkenne.",
+            "ro": "Mersul pe bicicletă în ploaie necesită concentrare maximă pe străzile alunecoase din Pachuca. Începeți cu prudență în Plaza Juárez și folosiți muzeele pentru pauze lungi de uscare. Ecoparque poate fi noroios, rămâneți pe potecile pavate. Încheiați turul devreme, înainte ca vizibilitatea să scadă prea mult din cauza ploii abundente.",
+            "en": "Cycling in the rain requires full concentration on the slippery roads of Pachuca. Start cautiously at Plaza Juárez and use the museums for longer breaks to dry off. Ecoparque can be muddy, stay on the paved paths. End the tour early before visibility drops too much in heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Juárez",
+                "hu": "Plaza Juárez",
+                "ro": "Plaza Juárez",
+                "en": "Plaza Juárez"
+              },
+              "tip_4lang": {
+                "de": "Die Bodenfliesen sind extrem rutschig, fahren Sie langsam und vermeiden Sie plötzliches Bremsen; eine wasserfeste Regenhose ist für Radfahrer heute Gold wert.",
+                "hu": "A burkolólapok rendkívül csúszósak, hajtson lassan és kerülje a hirtelen fékezést; egy vízálló esőnadrág ma aranyat ér a bicikliseknek.",
+                "ro": "Plăcile de pavaj sunt extrem de alunecoase, conduceți încet și evitați frânarea bruscă; o pereche de pantaloni impermeabili este esențială pentru bicicliști astăzi.",
+                "en": "The floor tiles are extremely slippery, ride slowly and avoid sudden braking; waterproof rain pants are worth their weight in gold for cyclists today."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural del Ferrocarril",
+                "hu": "Centro Cultural del Ferrocarril",
+                "ro": "Centro Cultural del Ferrocarril",
+                "en": "Centro Cultural del Ferrocarril"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie unter den großen Bahnsteigdächern Schutz für sich und Ihr Rad; nutzen Sie die Zeit, um Ihre Kette kurz abzuwischen, damit sie nicht rostet.",
+                "hu": "Keressen menedéket a nagy perontetők alatt magának és a biciklijének is; használja ki az időt a lánc rövid áttörlésére, hogy ne rozsdásodjon.",
+                "ro": "Căutați adăpost sub acoperișurile mari ale peroanelor pentru dumneavoastră și bicicletă; profitați de timp pentru a șterge scurt lanțul, astfel încât să nu ruginească.",
+                "en": "Seek shelter under the large platform roofs for both yourself and your bike; use the time to briefly wipe down your chain so it doesn't rust."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajolotario Miquiztli Xolotl",
+                "hu": "Ajolotario Miquiztli Xolotl",
+                "ro": "Ajolotario Miquiztli Xolotl",
+                "en": "Ajolotario Miquiztli Xolotl"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab und genießen Sie die Wärme drinnen; ein Handtuch im Rucksack hilft, den Sattel vor der Weiterfahrt zu trocknen.",
+                "hu": "Parkolja le a biciklit védett helyen, és élvezze a benti meleget; egy törölköző a hátizsákban sokat segít a nyereg megszárításában a továbbindulás előtt.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de căldura din interior; un prosop în rucsac vă va ajuta să uscați șaua înainte de a pleca mai departe.",
+                "en": "Park your bike in a protected spot and enjoy the warmth inside; a towel in your backpack helps to dry the saddle before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecoparque",
+                "hu": "Ecoparque",
+                "ro": "Ecoparque",
+                "en": "Ecoparque"
+              },
+              "tip_4lang": {
+                "de": "Achtung vor aufgeweichten Wegen, bleiben Sie auf dem Hauptasphalt, um nicht steckenzubleiben; Schutzbleche am Rad sind bei diesem Wetter absolut notwendig.",
+                "hu": "Vigyázzon a felázott utakkal, maradjon a fő aszfaltúton, hogy ne akadjon el; a sárvédő ezen az időben elengedhetetlen kellék a kerékpáron.",
+                "ro": "Atenție la drumurile moi, rămâneți pe asfaltul principal pentru a nu vă bloca; aripile la bicicletă sunt absolut necesare pe această vreme.",
+                "en": "Watch out for softened paths, stay on the main asphalt to avoid getting stuck; mudguards on the bike are absolutely necessary in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Macromural Palmitas",
+                "hu": "Macromural Palmitas",
+                "ro": "Macromural Palmitas",
+                "en": "Macromural Palmitas"
+              },
+              "tip_4lang": {
+                "de": "Die Farben leuchten im nassen Zustand besonders kräftig, aber die steilen Gassen sind gefährlich; schieben Sie Ihr Rad in den steilsten Abschnitten lieber.",
+                "hu": "A színek vizesen különösen élénkek, de a meredek utcák veszélyesek; a legmeredekebb szakaszokon inkább tolja a kerékpárját a biztonság érdekében.",
+                "ro": "Culorile strălucesc deosebit de intens când sunt ude, dar străzile abrupte sunt periculoase; mai bine împingeți bicicleta în porțiunile cele mai înclinate.",
+                "en": "The colors shine particularly brightly when wet, but the steep alleys are dangerous; it's better to push your bike in the steepest sections for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Cubitos",
+                "hu": "Parque Ecológico Cubitos",
+                "ro": "Parque Ecológico Cubitos",
+                "en": "Parque Ecológico Cubitos"
+              },
+              "tip_4lang": {
+                "de": "Die Abfahrten können tückisch sein, prüfen Sie Ihre Bremsen vor dem Start; das feuchte Wüstenklima bringt einen ganz eigenen, würzigen Duft hervor.",
+                "hu": "A lejtők trükkösek lehetnek, indulás előtt ellenőrizze a fékeket; a párás sivatagi klíma egyedi, fűszeres illatokat csal elő a növényzetből.",
+                "ro": "Coborârile pot fi înșelătoare, verificați frânele înainte de pornire; climatul umed de deșert scoate la iveală un miros specific, condimentat.",
+                "en": "The descents can be treacherous, check your brakes before starting; the moist desert climate brings out a unique, spicy scent from the vegetation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein, der Fahrtwind in Pachuca ist im Winter eisig. Starten Sie mit der Morgensonne am Plaza Juárez und nutzen Sie die Anstiege, um warm zu bleiben. Die Aussicht vom Macromural ist bei klarer Winterluft fantastisch. Achten Sie auf die Zeit, die Dämmerung setzt früh ein und die Temperaturen sinken dann rapide.",
+            "hu": "Öltözzön fel melegen, a menetszél Pachucában télen jeges. Kezdjen a reggeli napsütésben a Plaza Juáreznél, és használja ki az emelkedőket a bemelegedéshez. A Macromural kilátása a tiszta téli levegőben fantasztikus. Ügyeljen az időre, az alkonyat korán beköszönt, és a hőmérséklet hirtelen leesik.",
+            "ro": "Îmbrăcați-vă bine, vântul din timpul mersului este înghețat iarna în Pachuca. Începeți cu soarele dimineții în Plaza Juárez și folosiți urcușurile pentru a vă menține cald. Vederea de la Macromural este fantastică în aerul curat de iarnă. Atenție la timp, amurgul se lasă devreme și temperaturile scad apoi rapid.",
+            "en": "Pack warm, the wind chill in Pachuca is icy in winter. Start with the morning sun at Plaza Juárez and use the climbs to stay warm. The view from the Macromural is fantastic in the clear winter air. Watch the time, dusk sets in early and temperatures drop rapidly then."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza Juárez",
+                "hu": "Plaza Juárez",
+                "ro": "Plaza Juárez",
+                "en": "Plaza Juárez"
+              },
+              "tip_4lang": {
+                "de": "Tragen Sie winddichte Handschuhe, um Ihre Finger beweglich zu halten; der Platz liegt morgens oft im Schatten, was die gefühlte Temperatur senkt.",
+                "hu": "Viseljen szélálló kesztyűt, hogy ujjai mozgékonyak maradjanak; a tér reggelente gyakran árnyékban van, ami csökkenti a hőérzetet.",
+                "ro": "Purtați mănuși rezistente la vânt pentru a vă menține degetele mobile; piața este adesea în umbră dimineața, ceea ce scade temperatura resimțită.",
+                "en": "Wear windproof gloves to keep your fingers mobile; the square is often in shadow in the morning, which lowers the perceived temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro Cultural del Ferrocarril",
+                "hu": "Centro Cultural del Ferrocarril",
+                "ro": "Centro Cultural del Ferrocarril",
+                "en": "Centro Cultural del Ferrocarril"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Stopp für ein warmes Getränk, um Ihre Körpermitte zu heizen; die historischen Hallen bieten einen guten Schutz vor dem schneidenden Wind.",
+                "hu": "Használja ki a megállót egy meleg italra, hogy felmelegedjen; a történelmi csarnokok jó védelmet nyújtanak a metsző szél elől.",
+                "ro": "Profitați de oprire pentru o băutură caldă pentru a vă încălzi corpul; halele istorice oferă o bună protecție împotriva vântului tăios.",
+                "en": "Use the stop for a warm drink to heat your core; the historic halls offer good protection from the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajolotario Miquiztli Xolotl",
+                "hu": "Ajolotario Miquiztli Xolotl",
+                "ro": "Ajolotario Miquiztli Xolotl",
+                "en": "Ajolotario Miquiztli Xolotl"
+              },
+              "tip_4lang": {
+                "de": "Dies ist die wärmste Station Ihrer Tour, ideal zum Ausruhen der Beine; checken Sie Ihre Beleuchtung, da Sie wahrscheinlich in der Dämmerung weiterfahren.",
+                "hu": "Ez a túra legmelegebb állomása, ideális a lábak pihentetésére; ellenőrizze a világítást, mivel valószínűleg már szürkületben fog továbbhaladni.",
+                "ro": "Aceasta este cea mai caldă stație a turului dumneavoastră, ideală pentru odihna picioarelor; verificați luminile, deoarece probabil veți continua în amurg.",
+                "en": "This is the warmest station of your tour, ideal for resting your legs; check your lights as you will likely continue riding in the twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecoparque",
+                "hu": "Ecoparque",
+                "ro": "Ecoparque",
+                "en": "Ecoparque"
+              },
+              "tip_4lang": {
+                "de": "Die kahlen Bäume bieten weniger Windschutz, halten Sie das Tempo hoch, um warm zu bleiben; die tiefstehende Sonne blendet beim Fahren oft stark.",
+                "hu": "A kopár fák kevesebb szélfogót jelentenek, tartsa a tempót a bemelegedéshez; az alacsonyan járó nap vezetés közben gyakran erősen vakíthat.",
+                "ro": "Copacii golași oferă mai puțină protecție împotriva vântului, mențineți ritmul pentru a rămâne cald; soarele jos vă poate orbi adesea în timp ce pedalați.",
+                "en": "The bare trees offer less wind protection, keep the pace up to stay warm; the low-lying sun often glares strongly while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Macromural Palmitas",
+                "hu": "Macromural Palmitas",
+                "ro": "Macromural Palmitas",
+                "en": "Macromural Palmitas"
+              },
+              "tip_4lang": {
+                "de": "Der Anstieg bringt Sie ordentlich ins Schwitzen, aber oben weht oft ein eiskalter Wind; eine winddichte Weste ist hier das perfekte Kleidungsstück.",
+                "hu": "Az emelkedőtől rendesen megizzad, de fent gyakran jéghideg szél fúj; egy szélálló mellény itt a legtökéletesebb ruhadarab.",
+                "ro": "Urcarea vă va face să transpirați, dar sus suflă adesea un vânt înghețat; o vestă rezistentă la vânt este piesa de îmbrăcăminte perfectă aici.",
+                "en": "The climb will make you sweat, but an icy wind often blows at the top; a windproof vest is the perfect piece of clothing here."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Cubitos",
+                "hu": "Parque Ecológico Cubitos",
+                "ro": "Parque Ecológico Cubitos",
+                "en": "Parque Ecológico Cubitos"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie den Besuch pünktlich um 17:00 Uhr, um im letzten Tageslicht sicher nach Hause zu kommen; reflektierende Kleidung ist jetzt überlebenswichtig.",
+                "hu": "Fejezze be a látogatást pontosan 17:00-kor, hogy az utolsó fénynél biztonságban hazaérjen; a fényvisszaverő ruházat most létfontosságú.",
+                "ro": "Încheiați vizita punctual la ora 17:00 pentru a ajunge acasă în siguranță pe ultima lumină; îmbrăcămintea reflectorizantă este acum esențială.",
+                "en": "End your visit punctually at 5:00 PM to get home safely in the last daylight; reflective clothing is now vital for your safety."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autóval először a történelmi vasúti múzeumot és a Cuartel del Arte művészetét fedezi fel. Ezután a színpompás Macromural Palmitas felé veszi az irányt remek fotókért. Délután a Museo El Rehilete kínál izgalmas kiállításokat az egész családnak. Az este a nyüzsgő fesztiválterületen ér véget.",
         "ro": "Cu mașina, explorați mai întâi muzeul istoric feroviar și arta de la Cuartel del Arte. Apoi, mergeți la coloratul Macromural Palmitas pentru fotografii fantastice. După-amiaza, Museo El Rehilete oferă expoziții fascinante pentru toată familia. Seara se încheie la vibrantul teren al festivalului.",
         "en": "By car, first explore the historic railway museum and the art at the Cuartel del Arte. Next, drive to the colorful Macromural Palmitas for fantastic photo opportunities. In the afternoon, Museo El Rehilete offers exciting exhibits for the whole family. The evening concludes at the lively fairgrounds."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Pachuca bei Regen ein komfortables Erlebnis. Nutzen Sie das Fahrzeug als mobile Basis, um zwischen den kulturellen Highlights hin und her zu pendeln. Die Parkplätze am Rehilete sind nah am Eingang, sodass Sie kaum nass werden. Der Abend auf der Feria bietet trotz Regen viel überdachten Spaß für die ganze Familie.",
+            "hu": "Autóval Pachuca esőben is kényelmes élmény. Használja a járművet mobil bázisként a kulturális fénypontok közötti ingázáshoz. A Rehilete parkolói közel vannak a bejárathoz, így alig lesz vizes. Az este a Ferián az eső ellenére is sok fedett szórakozást kínál az egész családnak.",
+            "ro": "Cu mașina, Pachuca este o experiență confortabilă pe timp de ploaie. Folosiți vehiculul ca bază mobilă pentru a face naveta între atracțiile culturale. Parcarea de la Rehilete este aproape de intrare, așa că abia dacă vă veți uda. Seara la Feria oferă multă distracție acoperită pentru întreaga familie, în ciuda ploii.",
+            "en": "By car, Pachuca is a comfortable experience in the rain. Use the vehicle as a mobile base to commute between cultural highlights. The parking lots at Rehilete are close to the entrance, so you'll hardly get wet. The evening at the Feria offers plenty of covered fun for the whole family despite the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural del Ferrocarril",
+                "hu": "Centro Cultural del Ferrocarril",
+                "ro": "Centro Cultural del Ferrocarril",
+                "en": "Centro Cultural del Ferrocarril"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Haupteingang, um dem Guss zu entgehen; die Ausstellungen in den Waggons sind auch bei prasselndem Regen wunderbar gemütlich.",
+                "hu": "Parkoljon a lehető legközelebb a főbejárathoz, hogy elkerülje a záport; a vagonokban lévő kiállítások még doboló esőben is csodálatosan barátságosak.",
+                "ro": "Parcați cât mai aproape de intrarea principală pentru a evita aversa; expozițiile din vagoane sunt minunat de primitoare chiar și atunci când plouă torențial.",
+                "en": "Park as close to the main entrance as possible to avoid the downpour; the exhibitions in the wagons are wonderfully cozy even with drumming rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuartel del Arte",
+                "hu": "Cuartel del Arte",
+                "ro": "Cuartel del Arte",
+                "en": "Cuartel del Arte"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf die Einbahnstraßen im Zentrum, die bei Regen rutschig sein können; nutzen Sie das nahegelegene Parkhaus, um trockenen Fußes zur Galerie zu gelangen.",
+                "hu": "Figyeljen a belvárosi egyirányú utcákra, amelyek esőben csúszósak lehetnek; használja a közeli parkolóházat, hogy száraz lábbal érjen a galériához.",
+                "ro": "Atenție la străzile cu sens unic din centru, care pot fi alunecoase pe ploaie; folosiți parcarea etajată din apropiere pentru a ajunge la galerie cu picioarele uscate.",
+                "en": "Watch out for the one-way streets in the center, which can be slippery in the rain; use the nearby parking garage to reach the gallery with dry feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Macromural Palmitas",
+                "hu": "Macromural Palmitas",
+                "ro": "Macromural Palmitas",
+                "en": "Macromural Palmitas"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Panoramablick auf das farbenfrohe Viertel direkt aus dem Autofenster; bei starkem Regen ist dies die beste Art, das Kunstwerk sicher zu bewundern.",
+                "hu": "Élvezze a panorámát a színes negyedre közvetlenül az autó ablakából; erős esőben ez a legjobb módja a műalkotás biztonságos megcsodálásának.",
+                "ro": "Bucurați-vă de vederea panoramică asupra cartierului colorat direct de la geamul mașinii; pe ploaie abundentă, aceasta este cea mai bună modalitate de a admira opera.",
+                "en": "Enjoy the panoramic view of the colorful neighborhood directly from the car window; in heavy rain, this is the best way to safely admire the artwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Cubitos",
+                "hu": "Parque Ecológico Cubitos",
+                "ro": "Parque Ecológico Cubitos",
+                "en": "Parque Ecológico Cubitos"
+              },
+              "tip_4lang": {
+                "de": "Fahren Sie die asphaltierten Wege im Park langsam ab, da sich Wasserlachen bilden können; die Kakteenlandschaft sieht im Regen dramatisch und schön aus.",
+                "hu": "Lassan haladjon a park aszfaltozott útjain, mert tócsák alakulhatnak ki; a kaktuszos táj az esőben drámai és gyönyörű látványt nyújt.",
+                "ro": "Conduceți încet pe drumurile asfaltate din parc, deoarece se pot forma bălți; peisajul cu cactuși arată dramatic și frumos în ploaie.",
+                "en": "Drive slowly on the paved roads in the park as puddles can form; the cactus landscape looks dramatic and beautiful in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo El Rehilete",
+                "hu": "Museo El Rehilete",
+                "ro": "Museo El Rehilete",
+                "en": "Museo El Rehilete"
+              },
+              "tip_4lang": {
+                "de": "Das ideale Ziel für Regentage, da fast alle Attraktionen überdacht sind; nutzen Sie den großen Parkplatz direkt am Museumsgelände.",
+                "hu": "Ideális úti cél esős napokra, mivel szinte minden látnivaló fedett; használja a múzeum területén található nagy parkolót.",
+                "ro": "Destinația ideală pentru zilele ploioase, deoarece aproape toate atracțiile sunt acoperite; folosiți parcarea mare direct de la sediul muzeului.",
+                "en": "The ideal destination for rainy days as almost all attractions are covered; use the large parking lot directly on the museum grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de toros - Vicente Segura",
+                "hu": "Plaza de toros - Vicente Segura",
+                "ro": "Plaza de toros - Vicente Segura",
+                "en": "Plaza de toros - Vicente Segura"
+              },
+              "tip_4lang": {
+                "de": "Ein schneller Fotostopp vom Auto aus reicht bei diesem Wetter völlig aus; die monumentale Struktur wirkt unter grauen Wolken besonders gewaltig.",
+                "hu": "Egy gyors fotómegálló az autóból ebben az időben teljesen elegendő; a monumentális szerkezet a szürke felhők alatt különösen hatalmasnak tűnik.",
+                "ro": "O oprire rapidă pentru fotografii din mașină este suficientă pe această vreme; structura monumentală pare deosebit de impunătoare sub norii gri.",
+                "en": "A quick photo stop from the car is completely sufficient in this weather; the monumental structure looks particularly massive under gray clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Feria de Pachuca Hidalgo",
+                "hu": "Feria de Pachuca Hidalgo",
+                "ro": "Feria de Pachuca Hidalgo",
+                "en": "Feria de Pachuca Hidalgo"
+              },
+              "tip_4lang": {
+                "de": "Die großen Messehallen bieten perfekten Schutz vor Regen und Wind; prüfen Sie die Wettervorhersage für die Rückfahrt, da Nebel im Hochland häufig ist.",
+                "hu": "A nagy vásárcsarnokok tökéletes védelmet nyújtanak az eső és a szél elől; ellenőrizze az előrejelzést a hazatéréshez, mert a köd gyakori a fennsíkon.",
+                "ro": "Halele mari de expoziție oferă protecție perfectă împotriva ploii și vântului; verificați prognoza pentru drumul de întoarcere, deoarece ceața este frecventă.",
+                "en": "The large exhibition halls offer perfect protection from rain and wind; check the forecast for the return trip, as fog is common in the highlands."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Pachuca bedeutet klare Sicht, aber auch beißende Kälte außerhalb des Autos. Starten Sie gemütlich im Eisenbahnzentrum und genießen Sie die Sitzheizung auf dem Weg zum Cuartel del Arte. Der Nachmittag im Park Cubitos bietet tolle Fotomotive im tiefen Sonnenlicht. Beenden Sie den Tag auf der Feria, wenn die bunten Lichter in der frühen Dunkelheit erstrahlen.",
+            "hu": "A tél Pachucában tiszta látási viszonyokat, de az autón kívül metsző hideget jelent. Kezdjen kényelmesen a vasúti központban, és élvezze az ülésfűtést a Cuartel del Arte felé vezető úton. A délután a Cubitos parkban nagyszerű fotótémákat kínál az alacsony napfényben. Zárja a napot a Ferián, amikor a színes fények felgyulladnak a korai sötétségben.",
+            "ro": "Iarna în Pachuca înseamnă vizibilitate clară, dar și frig tăios în afara mașinii. Începeți relaxat la centrul feroviar și bucurați-vă de încălzirea în scaune în drum spre Cuartel del Arte. După-amiaza în parcul Cubitos oferă subiecte grozave pentru fotografii în lumina joasă a soarelui. Încheiați ziua la Feria, când luminile colorate strălucesc în întunericul timpuriu.",
+            "en": "Winter in Pachuca means clear visibility but also biting cold outside the car. Start comfortably at the railway center and enjoy the seat heating on the way to Cuartel del Arte. The afternoon in Cubitos Park offers great photo opportunities in the low sunlight. End the day at the Feria when the colorful lights shine in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro Cultural del Ferrocarril",
+                "hu": "Centro Cultural del Ferrocarril",
+                "ro": "Centro Cultural del Ferrocarril",
+                "en": "Centro Cultural del Ferrocarril"
+              },
+              "tip_4lang": {
+                "de": "Lassen Sie den Motor kurz warm laufen, bevor Sie starten; die historischen Hallen können morgens recht kühl sein, tragen Sie also eine warme Jacke.",
+                "hu": "Hagyja a motort rövid ideig melegedni indulás előtt; a történelmi csarnokok reggelente elég hűvösek lehetnek, ezért viseljen meleg kabátot.",
+                "ro": "Lăsați motorul să se încălzească puțin înainte de a porni; halele istorice pot fi destul de răcoroase dimineața, așa că purtați o jachetă groasă.",
+                "en": "Let the engine warm up briefly before you start; the historic halls can be quite cool in the morning, so wear a warm jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Cuartel del Arte",
+                "hu": "Cuartel del Arte",
+                "ro": "Cuartel del Arte",
+                "en": "Cuartel del Arte"
+              },
+              "tip_4lang": {
+                "de": "Parkplätze im Zentrum sind im Winter begehrt, kommen Sie frühzeitig; die Galerie ist gut beheizt und bietet eine wunderbare Pause von der Außenkälte.",
+                "hu": "A belvárosi parkolóhelyek télen keresettek, érkezzen időben; a galéria jól fűtött, és csodálatos pihenőt nyújt a kinti hideg után.",
+                "ro": "Locurile de parcare din centru sunt căutate iarna, veniți din timp; galeria este bine încălzită și oferă o pauză minunată de frigul de afară.",
+                "en": "Parking spaces in the center are in demand in winter, arrive early; the gallery is well heated and offers a wonderful break from the outside cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Macromural Palmitas",
+                "hu": "Macromural Palmitas",
+                "ro": "Macromural Palmitas",
+                "en": "Macromural Palmitas"
+              },
+              "tip_4lang": {
+                "de": "Das klare Winterlicht lässt die Farben des Murals besonders lebendig wirken; halten Sie nur kurz für Fotos, da es in den Gassen zugig sein kann.",
+                "hu": "A tiszta téli fényben a mural színei különösen élénknek tűnnek; csak rövid időre álljon meg fotózni, mert az utcákon huzatos lehet.",
+                "ro": "Lumina clară de iarnă face ca culorile picturii murale să pară deosebit de vibrante; opriți doar scurt pentru fotografii, deoarece pe străzi poate fi curent.",
+                "en": "The clear winter light makes the colors of the mural look particularly vibrant; stop only briefly for photos as it can be drafty in the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Ecológico Cubitos",
+                "hu": "Parque Ecológico Cubitos",
+                "ro": "Parque Ecológico Cubitos",
+                "en": "Parque Ecológico Cubitos"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Sonnenuntergang über der Stadt vom Parkplatz aus; die Temperaturen fallen rapide, sobald die Sonne hinter den Bergen verschwindet.",
+                "hu": "Élvezze a város feletti naplementét a parkolóból; a hőmérséklet hirtelen leesik, amint a nap eltűnik a hegyek mögött.",
+                "ro": "Bucurați-vă de apusul de soare peste oraș din parcare; temperaturile scad rapid de îndată ce soarele dispare după munți.",
+                "en": "Enjoy the sunset over the city from the parking lot; temperatures drop rapidly as soon as the sun disappears behind the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo El Rehilete",
+                "hu": "Museo El Rehilete",
+                "ro": "Museo El Rehilete",
+                "en": "Museo El Rehilete"
+              },
+              "tip_4lang": {
+                "de": "Das Planetarium ist im Winter ein Highlight, warm und faszinierend; planen Sie den Besuch für den späten Nachmittag, um der Außenkälte zu entfliehen.",
+                "hu": "A planetárium télen kiemelkedő élmény, meleg és lenyűgöző; tervezze a látogatást késő délutánra, hogy elmeneküljön a kinti hideg elől.",
+                "ro": "Planetariul este un punct de atracție iarna, cald și fascinant; planificați vizita pentru sfârșitul după-amiezii pentru a scăpa de frigul de afară.",
+                "en": "The planetarium is a highlight in winter, warm and fascinating; plan the visit for the late afternoon to escape the outside cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de toros - Vicente Segura",
+                "hu": "Plaza de toros - Vicente Segura",
+                "ro": "Plaza de toros - Vicente Segura",
+                "en": "Plaza de toros - Vicente Segura"
+              },
+              "tip_4lang": {
+                "de": "Das metallische Licht der Wintersaison gibt der Arena einen kühlen, modernen Look; ideal für Architekturfotografen bei tiefstehender Sonne.",
+                "hu": "A téli szezon fémes fényei hűvös, modern megjelenést kölcsönöznek az arénának; ideális az építészeti fotózáshoz alacsony napállásnál.",
+                "ro": "Lumina metalică a sezonului de iarnă oferă arenei un aspect rece și modern; ideal pentru fotografii de arhitectură când soarele este jos.",
+                "en": "The metallic light of the winter season gives the arena a cool, modern look; ideal for architectural photography with the low sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Feria de Pachuca Hidalgo",
+                "hu": "Feria de Pachuca Hidalgo",
+                "ro": "Feria de Pachuca Hidalgo",
+                "en": "Feria de Pachuca Hidalgo"
+              },
+              "tip_4lang": {
+                "de": "Ziehen Sie sich warm an, da die Wege zwischen den Hallen ungeschützt sind; die festliche Beleuchtung sorgt für eine gemütliche Winterstimmung.",
+                "hu": "Öltözzön fel melegen, mert a csarnokok közötti utak védtelenek; az ünnepi kivilágítás barátságos téli hangulatot áraszt.",
+                "ro": "Îmbrăcați-vă gros, deoarece căile dintre hale sunt expuse; iluminatul festiv creează o atmosferă de iarnă primitoare.",
+                "en": "Dress warmly as the paths between the halls are unprotected; the festive lighting creates a cozy winter atmosphere."
+              }
+            }
+          ]
+        }
       }
     }
   }

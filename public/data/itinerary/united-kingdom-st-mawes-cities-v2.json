@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a bájos faluközpontban, a történelmi Saint Mawes templomnál, megadva a nap békés alaphangját. Délben induljon nyugatra a tengerparti üteg felé, majd a Cellars strand csendes partjaihoz. Délután a Roseland-félsziget csúcsa felé vesszük az irányt, megállva a festői Szent Antal templomnál, mielőtt élvezné a Great Molunan homokját. Zárja a túrát látványos esti tengeri kilátással az ikonikus St Anthony világítótoronyból.",
         "ro": "Începeți în centrul fermecător al satului, vizitând biserica istorică Saint Mawes, stabilind un ton pașnic. La prânz mergeți spre vest pentru a explora trecutul militar la Coastal Battery, apoi pe țărmurile liniștite ale plajei Cellars. După-amiaza se îndreaptă spre vârful peninsulei Roseland, cu o pauză la biserica pitorească Saint Anthony, înainte de a vă bucura de nisipurile de la Great Molunan. Încheiați drumeția cu vederi spectaculoase de la farul St Anthony.",
         "en": "Begin in the charming village center by visiting the historic Saint Mawes Church, setting a peaceful tone for the day. Midday takes you westward to explore the Coastal Battery's military past, then to the tranquil shores of Cellars Beach. The afternoon shifts toward the Roseland Peninsula's tip, pausing at the quaint Church of Saint Anthony before enjoying the sands of Great Molunan. Conclude your hike with spectacular evening sea views from the iconic St Anthony Lighthouse."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der schützenden St. Mawes Kirche, einem trockenen Zufluchtsort vor dem Küstenregen. Mittags erkunden wir die Batterie, wobei wetterfeste Kleidung vor dem peitschenden Wind schützt. Der Nachmittag am Strand ist neblig und mystisch. Am Abend durchdringt das Leuchtfeuer den Regen, während wir rechtzeitig vor der Dunkelheit in die gemütliche Wärme des Dorfes zurückkehren.",
+            "hu": "A reggel a templom védelmében indul, ami száraz menedéket nyújt a parti záporok elől. Délben az üteg falai között dacolunk a széllel, vízálló ruházatban élvezve a tajtékos kilátást. A délutáni séta a ködös parton misztikus hangulatot áraszt. Estére a világítótorony fénye átvág az esőn, miközben mi visszatérünk a falu melegébe, még a sötétség beállta előtt.",
+            "ro": "Dimineața începe la biserică, un refugiu uscat împotriva ploii de coastă. La prânz, explorăm bateria, unde echipamentul impermeabil ne protejează de vântul tăios și stropii mării. După-amiaza la plajă este cețoasă și mistică sub picăturile de ploaie. Seara, lumina farului străpunge ploaia, ghidându-ne înapoi spre căldura satului înainte ca întunericul să se instaleze complet.",
+            "en": "Morning starts at the church, a dry haven from coastal showers. By noon, explore the battery's robust defenses while waterproof gear keeps the Atlantic spray at bay. The afternoon walk to the beach reveals a moody, mist-covered coastline. As evening falls, the lighthouse beacon pierces the rain, guiding us back to the village for a warm, dry conclusion to our wet Cornish adventure."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Mawes",
+                "hu": "Saint Mawes templom",
+                "ro": "Biserica Saint Mawes",
+                "en": "Saint Mawes"
+              },
+              "tip_5lang": {
+                "de": "Der Kirchenraum bietet perfekten Schutz vor dem morgendlichen Regen; bewundern Sie die Holzschnitzereien, während Sie im Trockenen auf eine kurze Regenpause warten.",
+                "hu": "A templom belső tere tökéletes menedéket nyújt a reggeli zápor elől; csodálja meg a fafaragásokat, miközben szárazon várja, hogy az eső elcsendesedjen a faluban.",
+                "ro": "Interiorul bisericii oferă un adăpost perfect împotriva ploii de dimineață; admirați detaliile sculptate în timp ce așteptați ca precipitațiile să se domolească.",
+                "en": "The church interior offers a peaceful sanctuary from the morning drizzle; admire the intricate woodwork while waiting for the heaviest rain to pass before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Mawes Küstenbatterie",
+                "hu": "St. Mawes partmenti üteg",
+                "ro": "Bateria de coastă St. Mawes",
+                "en": "St. Mawes Coastal Battery"
+              },
+              "tip_5lang": {
+                "de": "Die Batterie bietet einige überdachte Nischen mit Blick auf das stürmische Meer; tragen Sie feste Schuhe, da die alten Steinstufen bei Nässe sehr rutschig werden.",
+                "hu": "Az üteg több fedett fülkét is kínál kilátással a háborgó tengerre; viseljen stabil cipőt, mert a régi kőlépcsők az esőtől rendkívül csúszóssá válnak a séta során.",
+                "ro": "Bateria oferă câteva nișe acoperite cu vedere spre marea agitată; purtați încălțăminte aderentă, deoarece treptele vechi de piatră devin foarte alunecoase când plouă.",
+                "en": "The battery offers several covered niches with views of the stormy sea; wear sturdy boots as the old stone steps become dangerously slick during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Cellars Beach",
+                "hu": "Cellars strand",
+                "ro": "Plaja Cellars",
+                "en": "Cellars Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein regnerischer Spaziergang am Ufer hat seinen ganz eigenen Charme; nutzen Sie einen großen Schirm, um die dramatische, graue Küstenlandschaft trocken zu genießen.",
+                "hu": "Az esős tengerparti séta különleges, melankolikus hangulatot áraszt; használjon stabil esernyőt, hogy szárazon élvezhesse a drámai, szürke tengerparti látványt.",
+                "ro": "O plimbare pe plajă în timp ce plouă are un farmec aparte; folosiți o umbrelă rezistentă pentru a vă bucura de peisajul dramatic al coastei fără a vă uda prea tare.",
+                "en": "A rainy walk along the shore has a unique, moody charm; use a windproof umbrella to enjoy the dramatic, grey coastal scenery while staying relatively dry and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint Anthony",
+                "hu": "Szent Antal templom",
+                "ro": "Biserica Saint Anthony",
+                "en": "Church of Saint Anthony"
+              },
+              "tip_5lang": {
+                "de": "Diese abgeschiedene Kirche ist der ideale Ort, um sich vor einem Schauer aufzuwärmen; genießen Sie die Ruhe und die trockene Akustik in diesem historischen Bauwerk.",
+                "hu": "Ez az eldugott templom ideális hely a felmelegedésre egy zápor közepén; élvezze a csendet és a száraz akusztikát ebben a történelmi, vastag falú épületben.",
+                "ro": "Această biserică retrasă este locul ideal pentru a vă încălzi în timpul unei averse; bucurați-vă de liniște și de acustica uscată în această clădire istorică.",
+                "en": "This secluded church is the perfect place to warm up during a sudden shower; enjoy the silence and dry acoustics within this historic and sturdy stone structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Molunan",
+                "hu": "Great Molunan",
+                "ro": "Great Molunan",
+                "en": "Great Molunan"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fester zu begehen, aber achten Sie auf Pfützen; eine wasserfeste Hose ist hier Gold wert, wenn man sich kurz an den Klippenrand setzen möchte.",
+                "hu": "A homok esőben keményebb és könnyebben járható, de ügyeljen a tócsákra; egy vízálló nadrág hasznos, ha le szeretne ülni a sziklák tövébe egy rövid pihenőre.",
+                "ro": "Nisipul este mai ferm și mai ușor de parcurs pe ploaie, dar atenție la bălți; pantalonii impermeabili sunt foarte utili dacă doriți să vă așezați lângă stânci.",
+                "en": "The sand is firmer and easier to walk on when damp, but watch out for puddles; waterproof trousers are ideal if you want to sit near the cliffs for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St Anthony",
+                "hu": "St Anthony világítótorony",
+                "ro": "Farul St Anthony",
+                "en": "St Anthony Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt spritzt bei Regen hoch an den Leuchtturm, was spektakuläre Fotos ermöglicht; schützen Sie Ihre Kamera mit einer Folie vor den salzigen Regentropfen.",
+                "hu": "A tajték magasra csap az esős időben, ami látványos fotótémát kínál; védje fényképezőgépét egy tokkal a sós esőcseppektől a világítótorony lábánál.",
+                "ro": "Valurile se sparg spectaculos de far în zilele ploioase, oferind cadre foto unice; protejați-vă camera cu o folie împotriva picăturilor de ploaie sărate.",
+                "en": "The waves crash spectacularly against the lighthouse in rainy weather; protect your camera with a cover against salty raindrops while capturing the scene."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft am Morgen weckt die Geister in St. Mawes. Mittags wärmen wir uns in der Batterie, während die Sonne tief über dem Horizont steht. Der Strandspaziergang ist kurz und belebend. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir den Leuchtturm im goldenen Dämmerlicht und kehren rechtzeitig vor der nächtlichen Kälte in das beheizte Dorf zurück.",
+            "hu": "A friss téli reggel St. Mawesben felfrissíti az érzékeket. Napközben az üteg falai között keresünk szélvédett helyet, miközben a nap alacsonyan jár. A strandolás most csak egy rövid, élénkítő séta. Mivel délután 17:00 körül már sötétedik, a világítótornyot aranyló alkonyatban érjük el, majd sietünk vissza a falu melegébe a fagyos éjszaka előtt.",
+            "ro": "Aerul proaspăt de iarnă revigorează simțurile în St. Mawes. La prânz, căutăm locuri ferite de vânt la baterie, în timp ce soarele stă jos la orizont. Plimbarea pe plajă este scurtă și revigorantă. Deoarece soarele apune deja în jur de ora 17:00, ajungem la far în lumina aurie a amurgului, revenind rapid spre satul încălzit.",
+            "en": "The crisp winter air wakes the senses in St Mawes. By noon, we explore the battery while the low sun casts long shadows over the bay. Beach visits are short and brisk. With sunset arriving early at 17:00, we reach the lighthouse in golden twilight, returning to the village's warmth just as the freezing night air begins to settle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Mawes",
+                "hu": "Saint Mawes templom",
+                "ro": "Biserica Saint Mawes",
+                "en": "Saint Mawes"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Restwärme und bieten Schutz vor dem beißenden Winterwind; beginnen Sie den Tag ruhig im Inneren, um sich für die Wanderung zu sammeln.",
+                "hu": "A vastag falak jól tartják a hőt és védelmet nyújtanak a csípős téli szél ellen; kezdje itt a napot, hogy felkészüljön a hideg tengerparti túrára a szabadban.",
+                "ro": "Zidurile groase rețin căldura și oferă protecție împotriva vântului tăios de iarnă; începeți ziua aici pentru a vă aduna forțele înainte de plimbarea prin frig.",
+                "en": "The thick stone walls retain some warmth and offer shelter from the biting winter wind; start your day here to gather your resolve before the cold coastal hike."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Mawes Küstenbatterie",
+                "hu": "St. Mawes partmenti üteg",
+                "ro": "Bateria de coastă St. Mawes",
+                "en": "St. Mawes Coastal Battery"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt die alten Steine in klaren Farben erstrahlen; ziehen Sie sich nach dem Zwiebelprinzip an, da es in den offenen Gängen sehr zugig sein kann.",
+                "hu": "A téli fények tisztán ragyogtatják fel a régi köveket; öltözzön rétegesen, mert a nyitott folyosókon a huzat sokkal hidegebbnek érződik, mint a falu központjában.",
+                "ro": "Lumina de iarnă face ca pietrele vechi să strălucească în culori clare; îmbrăcați-vă în straturi, deoarece culoarele deschise pot fi foarte expuse curentului rece.",
+                "en": "The winter light makes the ancient stones glow with clarity; dress in layers as the open corridors can be much windier and colder than the village centre."
+              }
+            },
+            {
+              "name": {
+                "de": "Cellars Beach",
+                "hu": "Cellars strand",
+                "ro": "Plaja Cellars",
+                "en": "Cellars Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des winterlichen Strandes; eine Thermoskanne mit heißem Tee macht die kurze Rast im kalten Sand zu einem gemütlichen Erlebnis.",
+                "hu": "Élvezze a téli strand magányos békéjét; egy termosz forró tea az üres, fagyos parton igazi luxus élményt nyújt a rövid, frissítő pihenő alatt a homokban.",
+                "ro": "Bucurați-vă de liniștea plajei pustii pe timp de iarnă; un termos cu ceai fierbinte va transforma scurta pauză pe nisipul rece într-o experiență foarte plăcută.",
+                "en": "Enjoy the solitude of the winter beach; a thermos of hot tea makes a short rest on the cold sand a cozy experience while watching the frosty waves roll in."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint Anthony",
+                "hu": "Szent Antal templom",
+                "ro": "Biserica Saint Anthony",
+                "en": "Church of Saint Anthony"
+              },
+              "tip_5lang": {
+                "de": "In der Winterstille wirkt dieser Ort besonders spirituell; achten Sie auf den frühen Sonnenuntergang, um den Rückweg noch bei Resthelligkeit anzutreten.",
+                "hu": "A téli csendben ez a hely különösen spirituálisnak hat; ügyeljen a korai naplementére, hogy a visszautat még a maradék fénynél megkezdhesse a dűlőkön át.",
+                "ro": "În liniștea iernii, acest loc pare deosebit de spiritual; aveți grijă la apusul timpuriu pentru a începe drumul de întoarcere cât încă mai este puțină lumină.",
+                "en": "In the winter silence, this place feels exceptionally spiritual; mind the early sunset and start your journey back while there is still some lingering light."
+              }
+            },
+            {
+              "name": {
+                "de": "Great Molunan",
+                "hu": "Great Molunan",
+                "ro": "Great Molunan",
+                "en": "Great Molunan"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Klippen; tragen Sie Handschuhe, da der Wind hier am Kap besonders ungeschützt und eisig wehen kann.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a sziklákra; viseljen kesztyűt, mert a szél itt a foknál különösen védetlen és fagyos tud lenni ilyenkor.",
+                "ro": "Soarele de iarnă proiectează umbre lungi pe stânci; purtați mănuși, deoarece vântul la capătul peninsulei poate fi extrem de tăios și înghețat iarna.",
+                "en": "The low winter sun casts long, dramatic shadows on the cliffs; wear gloves as the wind at this exposed cape can be exceptionally icy and unrelenting."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St Anthony",
+                "hu": "St Anthony világítótorony",
+                "ro": "Farul St Anthony",
+                "en": "St Anthony Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Turm vor 17:00 Uhr, um das Leuchtfeuer in der Dämmerung zu sehen; der Kontrast zum dunklen Meer ist im Winter besonders beeindruckend.",
+                "hu": "Érjen a toronyhoz 17:00 előtt, hogy lássa a jelzőfényt az alkonyatban; a sötét tengerrel alkotott kontraszt télen a leglátványosabb a sziklák pereméről.",
+                "ro": "Ajungeți la turn înainte de ora 17:00 pentru a vedea lumina farului în amurg; contrastul cu marea întunecată este deosebit de impresionant iarna.",
+                "en": "Reach the tower before 17:00 to see the beacon flare in the twilight; the contrast against the dark winter sea is truly stunning from the cliff edge."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a kerékpározást a falu központjában a Saint Mawes templomnál, mielőtt eltekerne a lenyűgöző tengerparti üteghez. Délben a Carrick Roads mentén széles parti panoráma fogadja, majd egy pihentető szünet a Cellars strandon. Délután tekerjen tovább délre a félreeső Porthbeor strandhoz és a történelmi Szent Antal templomhoz. A kerékpáros kaland a St Anthony világítótoronynál ér véget, miközben a nap lassan a csillogó víz fölé ereszkedik.",
         "ro": "Începeți să pedalați din inima satului de la biserica Saint Mawes, urmată de o scurtă plimbare până la fascinanta Coastal Battery. Prânzul aduce panorame largi de coastă de-a lungul Carrick Roads, urmate de o pauză relaxantă la plaja Cellars. După-amiaza, pedalați mai spre sud până la plaja retrasă Porthbeor și biserica istorică Saint Anthony. Aventura pe bicicletă se încheie frumos la farul St Anthony, în timp ce soarele coboară peste ape.",
         "en": "Start cycling from the village heart at Saint Mawes Church before a quick ride to the fascinating Coastal Battery. Midday brings sweeping coastal vistas along Carrick Roads, followed by a relaxing pause at Cellars Beach. In the afternoon, pedal further south to the secluded Porthbeor Beach and the historic Church of Saint Anthony. Your cycling adventure wraps up beautifully at the St Anthony Lighthouse as the sun lowers over the shimmering waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert Vorsicht auf den rutschigen Wegen von St. Mawes. Morgens bieten Kirchen Schutz, während wir mittags die Batterie bei Nieselregen besichtigen. Die Küstenstraße glänzt im Regen und bietet dramatische Ausblicke. Den Abend lassen wir im Dorf ausklingen, wo wir unsere Ausrüstung nach einem Tag voller feuchter Abenteuer trocknen können.",
+            "hu": "A vizes kerékpártúra óvatosságot igényel St. Mawes csúszós útjain. Reggel a templomok nyújtanak menedéket, délben pedig szemerkélő esőben fedezzük fel az üteget. A parti utak fénylenek a csapadéktól, drámai panorámát nyújtva. Az estét a faluban zárjuk, ahol egy forró ital mellett szárítjuk meg felszerelésünket a kalandos nap után.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile alunecoase din St. Mawes. Dimineața, bisericile oferă adăpost, iar la prânz vizităm bateria sub o ploaie ușoară. Drumurile de coastă strălucesc în ploaie, oferind panorame dramatice. Încheiem seara în sat, uscându-ne echipamentul după o zi plină de aventuri umede.",
+            "en": "A wet cycle tour requires extra caution on St Mawes' slippery roads. Morning starts with church visits for shelter, followed by a drizzly noon exploration of the battery. The coastal roads glisten in the rain, offering dramatic vistas. We finish the evening in the village, drying our gear after a day of adventurous, damp Cornish cycling."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Mawes",
+                "hu": "Saint Mawes templom",
+                "ro": "Biserica Saint Mawes",
+                "en": "Saint Mawes"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab und nutzen Sie die Kirche als trockenen Sammelpunkt, bevor Sie die rutschigen Küstenstraßen in Angriff nehmen.",
+                "hu": "Támassza le kerékpárját az ereszték alá, és használja a templomot száraz gyülekezőhelyként, mielőtt nekivágna a csúszós parti utaknak az esőben.",
+                "ro": "Parcați bicicleta sub streașină și folosiți biserica ca punct de întâlnire uscat înainte de a porni pe drumurile de coastă alunecoase din cauza ploii.",
+                "en": "Park your bike under the overhang and use the church as a dry meeting point before tackling the slippery coastal roads in the morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Mawes Küstenbatterie",
+                "hu": "St. Mawes partmenti üteg",
+                "ro": "Bateria de coastă St. Mawes",
+                "en": "St. Mawes Coastal Battery"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den gepflasterten Flächen der Batterie; der Stein kann bei Regen tückisch glatt sein, besonders beim Absteigen vom Fahrrad.",
+                "hu": "Közlekedjen óvatosan az üteg kövezett felületein; a kövek esőben csalókán csúszósak lehetnek, különösen a kerékpárról való leszállás közben.",
+                "ro": "Circulați cu atenție pe suprafețele pavate ale bateriei; piatra poate fi înșelător de alunecoasă pe ploaie, mai ales când coborâți de pe bicicletă.",
+                "en": "Ride carefully on the paved areas of the battery; the stones can be treacherously smooth when wet, especially when dismounting your bike for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrick Roads",
+                "hu": "Carrick Roads",
+                "ro": "Carrick Roads",
+                "en": "Carrick Roads"
+              },
+              "tip_5lang": {
+                "de": "Der Blick über das Wasser ist bei Regen neblig und stimmungsvoll; tragen Sie eine gute Regenbrille, um trotz der Gischt und des Windes freie Sicht zu behalten.",
+                "hu": "A víz feletti kilátás esőben ködös és hangulatos; viseljen jó minőségű kerékpáros szemüveget, hogy a szél és az eső ellenére is tiszta maradjon a látása.",
+                "ro": "Vederea peste apă este cețoasă și plină de atmosferă pe ploaie; purtați ochelari de ciclism pentru a vă păstra vizibilitatea în ciuda stropilor și a vântului.",
+                "en": "The view over the water is misty and atmospheric in the rain; wear clear cycling glasses to maintain visibility despite the wind and sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Cellars Beach",
+                "hu": "Cellars strand",
+                "ro": "Plaja Cellars",
+                "en": "Cellars Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Strand kann schlammig sein; achten Sie auf tiefere Pfützen und verlangsamen Sie Ihr Tempo, um Spritzer auf Ihrer Kleidung zu minimieren.",
+                "hu": "A strandhoz vezető út sáros lehet; ügyeljen a mélyebb tócsákra, és lassítson le, hogy minimalizálja a ruhájára felcsapódó sarat és vizet a kerekeiről.",
+                "ro": "Accesul spre plajă poate fi noroios; atenție la bălțile adânci și încetiniți viteza pentru a minimiza stropirea hainelor în timpul deplasării.",
+                "en": "The access path to the beach can get muddy; watch out for deep puddles and slow down to minimize splashes on your clothing from your bike wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthbeor Beach",
+                "hu": "Porthbeor strand",
+                "ro": "Plaja Porthbeor",
+                "en": "Porthbeor Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Stopp im Regen; nutzen Sie eine wasserfeste Satteltasche, damit Ihre Wertsachen trocken bleiben, während Sie kurz den Blick aufs Meer genießen.",
+                "hu": "Egy magányos megálló az esőben; használjon vízálló nyeregtáskát, hogy értékei szárazon maradjanak, amíg Ön a sziklaszirtről gyönyörködik a tengerben.",
+                "ro": "O oprire solitară pe ploaie; folosiți o geantă de bicicletă impermeabilă pentru ca obiectele de valoare să rămână uscate în timp ce admirați marea.",
+                "en": "A lonely stop in the rain; use a waterproof saddlebag to keep your valuables dry while you take a moment to enjoy the moody sea views from the cliff."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint Anthony",
+                "hu": "Szent Antal templom",
+                "ro": "Biserica Saint Anthony",
+                "en": "Church of Saint Anthony"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorraum der Kirche, um Ihre Regenjacke kurz auszuschütteln; ein trockener Moment hilft, die Motivation für das letzte Wegstück zu bewahren.",
+                "hu": "Használja a templom előterét, hogy lerázza a vizet az esőkabátjáról; egy rövid száraz pihenő sokat segít a motiváció fenntartásában az utolsó szakaszon.",
+                "ro": "Folosiți pridvorul bisericii pentru a vă scutura pelerina de ploaie; un moment de răgaz uscat vă va ajuta să vă mențineți motivația pentru ultima etapă.",
+                "en": "Use the church porch to shake the water off your raincoat; a brief dry moment helps maintain your spirits for the final leg of the cycle journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St Anthony",
+                "hu": "St Anthony világítótorony",
+                "ro": "Farul St Anthony",
+                "en": "St Anthony Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Kap ist bei Regen oft stark; lehnen Sie Ihr Fahrrad sicher an und achten Sie auf festen Stand auf den nassen Klippenwegen zum Turm.",
+                "hu": "A szél a foknál esőben gyakran felerősödik; támassza le stabilan a kerékpárját, és figyeljen a lépteire a vizes sziklaösvényen a torony felé.",
+                "ro": "Vântul la capătul peninsulei este adesea puternic pe ploaie; sprijiniți bicicleta bine și atenție la echilibru pe potecile umede spre turn.",
+                "en": "The wind at the cape is often strong during rain; lean your bike securely and watch your footing on the wet cliff paths leading to the tower."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren erfordert warme Kleidung gegen den Fahrtwind. Morgens ist es ruhig im Dorf, während die Batterie mittags in der tiefstehenden Sonne glänzt. Die Strände wirken verlassen und friedlich. Da es gegen 17:00 Uhr dunkel wird, planen wir unsere Tour so, dass wir den Leuchtturm in der frühen Dämmerung erreichen und bei klarem Frostwetter zurückkehren.",
+            "hu": "A téli kerékpározás meleg ruházatot igényel a menetszél ellen. Reggel csendes a falu, délben pedig az üteg falai csillognak az alacsonyan járó napfényben. A strandok elhagyatottak és békések. Mivel 17:00 körül sötétedik, túránkat úgy tervezzük, hogy a világítótornyot már az alkonyatban érjük el, majd fagyos időben tekerünk vissza.",
+            "ro": "Ciclismul de iarnă necesită haine groase împotriva vântului creat de viteză. Dimineața este liniște în sat, iar la prânz bateria strălucește în soarele slab. Plajele par pustii și liniștite. Deoarece se întunecă în jur de ora 17:00, planificăm tura astfel încât să ajungem la far în amurg, revenind pe un ger uscat spre sat.",
+            "en": "Winter cycling requires warm layers against the biting headwind. Morning is peaceful in the village, while the battery gleams in the low noon sun. The beaches appear deserted and serene. Since it gets dark around 17:00, we plan to reach the lighthouse by early twilight, returning through the crisp frost to our warm base."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Mawes",
+                "hu": "Saint Mawes templom",
+                "ro": "Biserica Saint Mawes",
+                "en": "Saint Mawes"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die Finger vor der Abfahrt aufzuwärmen; die dicken Mauern bieten eine willkommene Pause vom frostigen Morgenwind.",
+                "hu": "Egy rövid megálló bent segít felmelegíteni az ujjait az indulás előtt; a vastag falak kellemes pihenőt nyújtanak a fagyos reggeli szél elől.",
+                "ro": "O scurtă oprire în interior vă va ajuta să vă încălziți degetele înainte de plecare; zidurile groase oferă un răgaz binevenit de la vântul înghețat.",
+                "en": "A quick stop inside helps warm up your fingers before starting the ride; the thick walls provide a welcome break from the frosty morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Mawes Küstenbatterie",
+                "hu": "St. Mawes partmenti üteg",
+                "ro": "Bateria de coastă St. Mawes",
+                "en": "St. Mawes Coastal Battery"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unter dem Helm eine dünne Mütze; die Batterie ist der Witterung sehr ausgesetzt, und der Winterwind kann hier oben beim Radfahren eisig sein.",
+                "hu": "Viseljen vékony sapkát a bukósisak alatt; az üteg nagyon kitett az időjárásnak, és a téli szél itt fent tekerés közben rendkívül jeges tud lenni.",
+                "ro": "Purtați o căciulă subțire sub cască; bateria este foarte expusă intemperiilor, iar vântul de iarnă poate fi înghețat în timp ce pedalați pe aici.",
+                "en": "Wear a thin thermal cap under your helmet; the battery is very exposed, and the winter wind can be particularly icy while cycling around the ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrick Roads",
+                "hu": "Carrick Roads",
+                "ro": "Carrick Roads",
+                "en": "Carrick Roads"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht über das Wasser ist an klaren Wintertagen unschlagbar; halten Sie nur kurz an, damit Ihr Körper durch die Kälte nicht zu sehr auskühlt.",
+                "hu": "A távoli kilátás a víz felett verhetetlen a tiszta téli napokon; csak rövid időre álljon meg, hogy a teste ne hűljön ki túlságosan a hidegben.",
+                "ro": "Vizibilitatea la distanță peste apă este imbatabilă în zilele senine de iarnă; opriți-vă doar scurt, pentru ca corpul să nu se răcească prea tare.",
+                "en": "The long-distance visibility over the water is unbeatable on clear winter days; stop only briefly to ensure your body temperature doesn't drop too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Cellars Beach",
+                "hu": "Cellars strand",
+                "ro": "Plaja Cellars",
+                "en": "Cellars Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strandweg kann im Winter gefroren und hart sein; fahren Sie vorsichtig über Bodenwellen, da die Federung bei Kälte oft etwas steifer reagiert.",
+                "hu": "A strandra vezető út télen fagyott és kemény lehet; közlekedjen óvatosan a bukkanókon, mert a kerékpár felfüggesztése hidegben gyakran merevebben reagál.",
+                "ro": "Drumul spre plajă poate fi înghețat și dur iarna; treceți cu atenție peste denivelări, deoarece suspensia bicicletei tinde să fie mai rigidă la frig.",
+                "en": "The path to the beach can be frozen and hard in winter; ride carefully over bumps as bike suspension often reacts more stiffly in cold temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthbeor Beach",
+                "hu": "Porthbeor strand",
+                "ro": "Plaja Porthbeor",
+                "en": "Porthbeor Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das einsame Panorama der Klippen; achten Sie auf tiefstehende Sonne, die beim Fahren blenden kann – eine Sonnenbrille ist auch im Winter nötig.",
+                "hu": "Élvezze a sziklák magányos panorámáját; ügyeljen az alacsonyan járó napra, amely elvakíthat tekerés közben – napszemüveg télen is szükséges kellék.",
+                "ro": "Bucurați-vă de panorama solitară a stâncilor; atenție la soarele jos care vă poate orbi în timp ce pedalați – ochelarii de soare sunt necesari și iarna.",
+                "en": "Enjoy the solitary panorama of the cliffs; be mindful of the low sun that can blind you while riding – sunglasses are a necessary accessory even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint Anthony",
+                "hu": "Szent Antal templom",
+                "ro": "Biserica Saint Anthony",
+                "en": "Church of Saint Anthony"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort für eine windgeschützte Pause; nutzen Sie die Zeit, um Ihre Handschuhe zu richten, bevor Sie die letzte Etappe zum Leuchtturm antreten.",
+                "hu": "Csodálatos hely egy szélvédett pihenőre; használja ki az időt kesztyűi megigazítására, mielőtt nekivágna a toronyhoz vezető utolsó, szeles szakasznak.",
+                "ro": "Un loc minunat pentru o pauză ferită de vânt; folosiți timpul pentru a vă ajusta mănușile înainte de a porni pe ultima etapă spre far.",
+                "en": "A wonderful spot for a wind-sheltered break; use this time to adjust your gloves and layers before tackling the final, breezy stretch to the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St Anthony",
+                "hu": "St Anthony világítótorony",
+                "ro": "Farul St Anthony",
+                "en": "St Anthony Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das Lichtspiel der Dämmerung gegen 17:00 Uhr; schalten Sie für den Rückweg unbedingt Ihre Fahrradbeleuchtung ein, da es schnell dunkel wird.",
+                "hu": "Figyelje meg az alkonyat fényjátékát 17:00 körül; a visszautashoz mindenképpen kapcsolja be kerékpárja világítását, mert a sötétség gyorsan beáll télen.",
+                "ro": "Observați jocurile de lumină ale amurgului în jur de ora 17:00; aprindeți neapărat farurile bicicletei pentru drumul de întoarcere, se întunecă repede.",
+                "en": "Observe the play of light at twilight around 17:00; be sure to turn on your bike lights for the return journey, as darkness falls very quickly in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Induljon a központi Saint Mawes templomtól a közeli tengerparti üteg robusztus védelmi rendszerei felé. A déli útvonal a lenyűgöző Pendennis kastélymúzeumhoz és a Carrick Roads festői autóútjaihoz vezet. A délutánt töltse lazítással a gyönyörű Porthbeor strandon és a családbarát Little Molunan öbölben. Az autós túra elegánsan a St Anthony világítótoronynál zárul, páratlan alkonyati panorámát kínálva az öbölre.",
         "ro": "Conduceți de la biserica centrală Saint Mawes spre apărarea robustă a Coastal Battery din apropiere. Itinerarul de prânz vă poartă către impresionantul muzeu Pendennis Castle și rutele pitorești de pe Carrick Roads. Petreceți după-amiaza relaxându-vă pe frumoasa plajă Porthbeor și în golfurile liniștite de la Little Molunan. Turul cu mașina se încheie elegant la farul St Anthony, oferind panorame de neegalat ale crepusculului peste golf.",
         "en": "Drive off from the central Saint Mawes Church towards the robust defenses of the nearby Coastal Battery. The midday itinerary takes you across to the impressive Pendennis Castle Museum and the scenic driving routes along Carrick Roads. Spend your afternoon unwinding at the beautiful Porthbeor Beach and the family-friendly coves of Little Molunan. The driving tour concludes elegantly at the St Anthony Lighthouse, offering unmatched twilight panoramas over the bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Regen bietet das Auto den besten Komfort für St. Mawes. Wir starten bei der Kirche und besichtigen die Batterie im Schutz unserer Regenjacken. Mittags ist das Pendennis Castle Museum ein ideales Indoor-Ziel. Die Küstenfahrt bietet trotz des grauen Himmels wunderbare Ausblicke, und wir erreichen den Leuchtturm trocken und bequem am späten Nachmittag.",
+            "hu": "Esőben az autó nyújtja a legnagyobb kényelmet St. Mawes felfedezéséhez. A templomnál kezdünk, majd az üteget látogatjuk meg esőkabátban. Délben a Pendennis Kastélymúzeum ideális fedett program. A parti autózás a szürke égbolt ellenére is csodás látványt kínál, a világítótornyot pedig szárazon és kényelmesen érjük el a nap végén.",
+            "ro": "Pe ploaie, mașina oferă cel mai mare confort pentru a explora St. Mawes. Începem la biserică, apoi vizităm bateria protejați de pelerine. La prânz, Muzeul Castelului Pendennis este o destinație ideală de interior. Traseul de coastă oferă vederi superbe în ciuda cerului gri, ajungând la far uscați și comod.",
+            "en": "In the rain, a car provides the ultimate comfort for exploring St Mawes. We start at the church and visit the battery well-protected. At noon, Pendennis Castle Museum is an ideal indoor destination to escape the showers. The coastal drive offers stunning views despite the grey skies, reaching the lighthouse dry and warm by late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Mawes",
+                "hu": "Saint Mawes templom",
+                "ro": "Biserica Saint Mawes",
+                "en": "Saint Mawes"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen zu meiden; das Innere der Kirche ist ein herrlich ruhiger und trockener Ort für den Beginn Ihrer heutigen Tour.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy elkerülje az esőt; a templom belseje csodálatosan nyugodt és száraz hely a mai körutazás méltó megkezdéséhez.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; interiorul bisericii este un loc minunat de liniștit și uscat pentru a începe turul de astăzi.",
+                "en": "Park as close to the entrance as possible to avoid the downpour; the church interior is a wonderfully peaceful and dry spot to start your coastal tour."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Mawes Küstenbatterie",
+                "hu": "St. Mawes partmenti üteg",
+                "ro": "Bateria de coastă St. Mawes",
+                "en": "St. Mawes Coastal Battery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz oberhalb der Anlage; der kurze Weg zur Batterie führt über Gras, das bei Regen rutschig sein kann, also gehen Sie bitte vorsichtig.",
+                "hu": "Használja a létesítmény feletti parkolót; az üteghez vezető rövid út füves részen át vezet, amely esőben csúszós lehet, ezért kérjük, lépkedjen óvatosan.",
+                "ro": "Folosiți parcarea de deasupra complexului; drumul scurt spre baterie trece peste iarbă, care poate fi alunecoasă pe ploaie, așa că vă rugăm să mergeți cu grijă.",
+                "en": "Use the car park located above the site; the short path to the battery leads across grass that can be very slippery when wet, so please walk carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendenis Castle Museum",
+                "hu": "Pendennis Kastélymúzeum",
+                "ro": "Muzeul Castelului Pendennis",
+                "en": "Pendennis Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist das perfekte Regenwetter-Ziel; verbringen Sie viel Zeit in den Ausstellungsräumen und genießen Sie die Geschichte Cornwalls ganz ohne nass zu werden.",
+                "hu": "Ez a tökéletes esős időre való célpont; töltsön el bőven időt a kiállítótermekben, és élvezze Cornwall történelmét anélkül, hogy egy cseppet is megázna.",
+                "ro": "Aceasta este destinația perfectă pentru vreme ploioasă; petreceți mult timp în sălile de expoziție și bucurați-vă de istoria Cornwall-ului fără a vă uda.",
+                "en": "This is the perfect rainy-day destination; spend plenty of time in the exhibition halls and enjoy Cornwall's rich history without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrick Roads",
+                "hu": "Carrick Roads",
+                "ro": "Carrick Roads",
+                "en": "Carrick Roads"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus haben Sie einen tollen Panoramablick; halten Sie an einem Aussichtspunkt und genießen Sie die Stimmung des Meeres durch das Autofenster.",
+                "hu": "Az autóból remek panoráma nyílik az öbölre; álljon meg egy kilátópontnál, és élvezze a tenger morajlását és hangulatát az ablak biztonságából.",
+                "ro": "Din mașină aveți o panoramă excelentă asupra golfului; opriți la un punct de observație și bucurați-vă de atmosfera mării prin geamul portierei.",
+                "en": "The car provides a great panoramic view of the bay; stop at a viewpoint and enjoy the moody atmosphere of the sea from the safety of your vehicle window."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthbeor Beach",
+                "hu": "Porthbeor strand",
+                "ro": "Plaja Porthbeor",
+                "en": "Porthbeor Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Blick von oben ist auch bei Regen fantastisch; Sie müssen gar nicht aussteigen, um die dramatische Steilküste und die brechenden Wellen zu bewundern.",
+                "hu": "A fentről nyíló kilátás esőben is fantasztikus; ki sem kell szállnia az autóból, hogy megcsodálja a drámai sziklákat és a partnak csapódó hullámokat.",
+                "ro": "Vederea de sus este fantastică și pe ploaie; nici nu trebuie să coborâți din mașină pentru a admira stâncile dramatice și valurile care se sparg.",
+                "en": "The view from above is fantastic even in the rain; you don't even have to step out of the car to admire the dramatic cliffs and the crashing white waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Little Molunan",
+                "hu": "Little Molunan",
+                "ro": "Little Molunan",
+                "en": "Little Molunan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Stopp; behalten Sie Ihre Regenjacke griffbereit auf dem Rücksitz, falls Sie doch für ein schnelles Foto an den Klippenrand treten wollen.",
+                "hu": "Egy rövid, vizes megálló; tartsa esőkabátját kéznél a hátsó ülésen, ha mégis ki szeretne lépni a szikla szélére egy gyors és látványos fotó kedvéért.",
+                "ro": "O oprire scurtă și umedă; păstrați pelerina de ploaie la îndemână pe bancheta din spate, în cazul în care doriți să ieșiți pentru o fotografie rapidă.",
+                "en": "A short, damp stop; keep your raincoat handy on the back seat in case you want to step out to the cliff edge for a quick and spectacular photograph."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St Anthony",
+                "hu": "St Anthony világítótorony",
+                "ro": "Farul St Anthony",
+                "en": "St Anthony Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Scheinwerfer Ihres Autos beim Parken für zusätzliche Sicht; der Leuchtturm im Regen ist ein unvergesslicher Anblick zum Abschluss der Tour.",
+                "hu": "Használja az autó fényszóróit parkoláskor a jobb látási viszonyokért; a világítótorony az esőben felejthetetlen látvány a mai autós túra lezárásaként.",
+                "ro": "Folosiți farurile mașinii la parcare pentru vizibilitate sporită; farul în ploaie este o priveliște de neuitat pentru încheierea turului de astăzi.",
+                "en": "Use your car's headlights when parking for extra visibility; the lighthouse in the rain is an unforgettable sight to conclude your coastal driving tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto lässt sich St. Mawes im Winter entspannt erkunden. Morgens ist die Luft klar und frostig, ideal für den Kirchenbesuch. Das Pendennis Castle Museum bietet mittags wohlige Wärme und Geschichte. Da es bereits gegen 17:00 Uhr dunkelt, genießen wir die Küstenlandschaft im letzten Tageslicht und erreichen den Leuchtturm pünktlich zur stimmungsvollen blauen Stunde.",
+            "hu": "A fűtött autóban kényelmesen fedezhetjük fel St. Mawest télen is. Reggel a levegő tiszta és fagyos, ideális a templomlátogatáshoz. A Pendennis Kastélymúzeum délben kellemes meleget és izgalmas történelmet kínál. Mivel 17:00 körül már sötétedik, az utolsó fényeknél autózzuk végig a partot, és az alkonyatban érjük el a világítótornyot.",
+            "ro": "În mașina încălzită, puteți explora relaxat St. Mawes iarna. Dimineața, aerul este clar și geros, ideal pentru vizitarea bisericii. Muzeul Castelului Pendennis oferă căldură și istorie la prânz. Deoarece se întunecă deja în jur de ora 17:00, ne bucurăm de peisajul de coastă în ultima lumină, ajungând la far la ora albastră.",
+            "en": "A heated car makes winter exploration of St Mawes a joy. Morning brings crisp, frosty air, perfect for a peaceful church visit. Pendennis Castle Museum offers cozy warmth and rich history at midday. As darkness falls around 17:00, we enjoy the coastal scenery in the lingering light, reaching the lighthouse just in time for the atmospheric twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint Mawes",
+                "hu": "Saint Mawes templom",
+                "ro": "Biserica Saint Mawes",
+                "en": "Saint Mawes"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto lässt Sie den frostigen Morgen schnell vergessen; die Kirche ist ein wunderbarer, ruhiger Ort, um sich auf den Tag einzustimmen.",
+                "hu": "Az autó fűtése segít gyorsan elfelejteni a fagyos reggelt; a templom pedig csodálatos, csendes hely, hogy ráhangolódjon a téli parti körutazás kezdésére.",
+                "ro": "Căldura din mașină vă va ajuta să uitați rapid de dimineața geroasă; biserica este un loc minunat și liniștit pentru a vă începe ziua de explorare.",
+                "en": "The car's heating will quickly make you forget the frosty morning; the church is a wonderful, quiet place to set a peaceful tone for your winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Mawes Küstenbatterie",
+                "hu": "St. Mawes partmenti üteg",
+                "ro": "Bateria de coastă St. Mawes",
+                "en": "St. Mawes Coastal Battery"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen auf dem Parkplatz; das klare Winterlicht sorgt für fantastische Fernsicht über die Bucht bis hinüber nach Falmouth.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a parkolóban; a tiszta téli fények fantasztikus távoli kilátást biztosítanak az öblön át egészen Falmouth városáig.",
+                "ro": "Atenție la posibilele porțiuni cu gheață din parcare; lumina clară de iarnă oferă o vizibilitate excelentă peste golf, până hăt departe, spre Falmouth.",
+                "en": "Watch out for potential icy patches in the car park; the clear winter light provides fantastic long-distance visibility across the bay towards Falmouth."
+              }
+            },
+            {
+              "name": {
+                "de": "Pendenis Castle Museum",
+                "hu": "Pendennis Kastélymúzeum",
+                "ro": "Muzeul Castelului Pendennis",
+                "en": "Pendennis Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Räume des Museums; im Winter ist es hier deutlich leerer, was eine private und entspannte Besichtigung der Exponate ermöglicht.",
+                "hu": "Élvezze a múzeum fűtött termeit; télen sokkal kevesebb a látogató, ami lehetővé teszi a kiállítási tárgyak privát és zavartalan megtekintését a melegben.",
+                "ro": "Bucurați-vă de sălile încălzite ale muzeului; iarna este mult mai liber aici, ceea ce permite o vizitare relaxată și privată a tuturor exponatelor istorice.",
+                "en": "Enjoy the heated rooms of the museum; it is much quieter in winter, allowing for a more private and relaxed viewing of the fascinating historical exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Carrick Roads",
+                "hu": "Carrick Roads",
+                "ro": "Carrick Roads",
+                "en": "Carrick Roads"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne glitzert herrlich auf dem Wasser; halten Sie die Sonnenblenden bereit, da die Reflexionen beim Fahren sehr intensiv sein können.",
+                "hu": "Az alacsonyan járó téli napfény csodásan csillog a vízen; készítse elő a napellenzőt, mert a tükröződések vezetés közben nagyon erősek lehetnek ilyenkor.",
+                "ro": "Soarele slab de iarnă sclipește superb pe apă; pregătiți parasolarele, deoarece reflexiile în timp ce conduceți pot fi foarte intense pe acest drum.",
+                "en": "The low winter sun sparkles beautifully on the water; have your sun visors ready as the reflections can be quite intense while driving along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthbeor Beach",
+                "hu": "Porthbeor strand",
+                "ro": "Plaja Porthbeor",
+                "en": "Porthbeor Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Aussichtspunkt, den man direkt aus dem warmen Auto genießen kann; die winterliche Brandung ist aus der Höhe besonders eindrucksvoll zu beobachten.",
+                "hu": "Nagyszerű kilátópont, amelyet közvetlenül a meleg autóból élvezhet; a téli hullámverés a magasból nézve különösen lenyűgöző látványt nyújt a sziklák felett.",
+                "ro": "Un punct de observație excelent pe care îl puteți savura din mașina caldă; valurile de iarnă sunt deosebit de impresionante privite de la înălțime.",
+                "en": "A great viewpoint you can enjoy directly from your warm car; the winter surf is particularly impressive when watched from the high cliff-top parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Little Molunan",
+                "hu": "Little Molunan",
+                "ro": "Little Molunan",
+                "en": "Little Molunan"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben eisfrei zu halten; der Blick auf die einsamen Klippen im Winterlicht ist perfekt für ein schnelles Foto.",
+                "hu": "Hagyja a motort járni egy rövid ideig, hogy a szélvédő páramentes maradjon; az elhagyatott sziklák látványa a téli fényben tökéletes egy gyors fotóhoz.",
+                "ro": "Lăsați motorul pornit puțin pentru a menține parbrizul curat; vederea stâncilor pustii în lumina de iarnă este perfectă pentru o fotografie rapidă.",
+                "en": "Keep the engine running briefly to keep the windows clear; the view of the lonely winter cliffs in the afternoon light is perfect for a quick photograph."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm St Anthony",
+                "hu": "St Anthony világítótorony",
+                "ro": "Farul St Anthony",
+                "en": "St Anthony Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Parkplatz vor 17:00 Uhr für den besten Ausblick; das Leuchtfeuer in der klaren Winternacht ist ein magischer Abschluss Ihrer Fahrt.",
+                "hu": "Érjen a parkolóba 17:00 előtt a legszebb kilátásért; a világítótorony jelzőfénye a tiszta téli éjszakában varázslatos zárása a mai autós túrának.",
+                "ro": "Ajungeți în parcare înainte de ora 17:00 pentru cea mai bună vedere; lumina farului în noaptea clară de iarnă este un final magic pentru traseul de azi.",
+                "en": "Reach the car park before 17:00 for the best twilight views; the beacon flashing in the clear winter night is a magical end to your driving journey."
+              }
+            }
+          ]
+        }
       }
     }
   }

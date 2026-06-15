@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Kauniainen építészeti örökségének felfedezésével a Villa Junghans és a helyi templom meglátogatásával.\n\nA dél közeledtével a Villa Odenvall és a Villa Skogshyddan elegáns történelmi kúriái várják.\n\nA délutánt a Lintu-alue madárrezervátum természeti szépségeinek megcsodálásával töltheti.\n\nZárja a napot a Studio Kukkapuro modern dizájnkiállításának megtekintésével.",
         "ro": "Începeți dimineața explorând patrimoniul arhitectural din Kauniainen la Villa Junghans și biserica locală.\n\nLa amiază vizitați conacele istorice elegante Villa Odenvall și Villa Skogshyddan, o perspectivă asupra trecutului.\n\nPetreceți după-amiaza bucurându-vă de frumusețea naturală a sanctuarului de păsări Lintu-alue.\n\nÎncheiați ziua admirând designul modern de la Studio Kukkapuro.",
         "en": "Start the morning exploring the rich architectural heritage of Kauniainen at Villa Junghans and the serene local church.\n\nMidday brings you to the elegant historical manors of Villa Odenvall and Villa Skogshyddan.\n\nSpend the afternoon taking in the natural beauty of the Lintu-alue bird sanctuary.\n\nConclude your day admiring modern design at Studio Kukkapuro."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der Villa Junghans, wo die Veranden Schutz bieten. Mittags bietet die moderne Kirche einen trockenen Rückzugsort. Nachmittags sind die Villenviertel bei Regen besonders ruhig, aber ein Regenschirm ist Pflicht. Den Abend verbringen Sie im Studio Kukkapuro, wo das Lichtdesign die graue Stimmung draußen vergessen lässt, während Sie trocken die Architektur genießen.",
+            "hu": "Kezdje a reggelt a Villa Junghansnál, ahol a tornácok védelmet nyújtanak a szemerkélő esőben. Délben a modern templom belső tere kínál száraz menedéket. Délután a villák közötti séta közben az esernyő kötelező, ilyenkor a kertek illata intenzívebb. Az estét a Studio Kukkapuro falai között zárja, ahol a belső világítás elűzi a kinti szürkeséget a látogatás végére.",
+            "ro": "Începeți dimineața la Villa Junghans, unde verandele oferă protecție împotriva ploii. La prânz, biserica modernă oferă un refugiu uscat și liniștit. După-amiaza, plimbarea printre vile necesită o umbrelă, dar străzile sunt mai libere. Seara se încheie la Studio Kukkapuro, unde designul interior vă face să uitați de vremea mohorâtă de afară în timp ce admirați exponatele.",
+            "en": "Start your morning at Villa Junghans, where the porches offer shelter from the drizzle. At noon, the modern church provides a dry and peaceful sanctuary. In the afternoon, an umbrella is essential while walking between the historic villas. End your evening inside Studio Kukkapuro, where the indoor lighting and design create a cozy atmosphere away from the wet Finnish weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Junghans",
+                "hu": "Villa Junghans",
+                "ro": "Villa Junghans",
+                "en": "Villa Junghans"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um die Holzarchitektur zu bewundern; feste Schuhe sind wegen der feuchten Wege im Park sehr ratsam.",
+                "hu": "Használja a fedett bejárati részt a faépítészet megcsodálására; a környező park nedves ösvényei miatt a vízálló cipő viselése erősen ajánlott a séta során.",
+                "ro": "Folosiți zona de intrare acoperită pentru a admira arhitectura din lemn; încălțămintea impermeabilă este recomandată din cauza potecilor umede din parc.",
+                "en": "Use the covered entrance area to admire the wooden architecture; waterproof shoes are highly recommended due to the damp paths in the surrounding park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Kauniainen",
+                "hu": "Kauniaisten kirkko",
+                "ro": "Biserica Kauniainen",
+                "en": "Kauniaisten kirkko"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Akustik und das Lichtspiel bei Regen machen den Innenraum stimmungsvoll; idealer Ort, um einen starken Regenschauer trocken abzuwarten.",
+                "hu": "A modern akusztika és az esőben beszűrődő fények különleges hangulatot adnak; tökéletes hely egy intenzívebb zápor szárazon való megvárásához.",
+                "ro": "Acustica modernă și jocul de lumini în timpul ploii creează o atmosferă specială; este locul ideal pentru a aștepta trecerea unei averse sub acoperiș.",
+                "en": "The modern acoustics and the play of light during rain create a special atmosphere; it is the ideal spot to wait out a heavy downpour while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Odenvall",
+                "hu": "Villa Odenvall",
+                "ro": "Villa Odenvall",
+                "en": "Villa Odenvall"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Villa unter Ihrem Schirm, da die Steine bei Nässe rutschig sein können; achten Sie auf festen Tritt beim Stehen auf dem Gehweg.",
+                "hu": "Az esernyője alól tekintse meg a villát, mivel a kövek nedvesen csúszhatnak; ügyeljen a biztos léptekre, miközben az épület részleteit figyeli.",
+                "ro": "Admirați vila de la adăpostul umbrelei, deoarece pietrele pot fi alunecoase când sunt ude; aveți grijă la pași în timp ce observați detaliile de pe stradă.",
+                "en": "View the villa under your umbrella, as the stones can be slippery when wet; watch your footing while observing the architectural details from the sidewalk."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Skogshyddan",
+                "hu": "Villa Skogshyddan",
+                "ro": "Villa Skogshyddan",
+                "en": "Villa Skogshyddan"
+              },
+              "tip_5lang": {
+                "de": "Die dunkle Holzfassade wirkt im Regen besonders markant; bleiben Sie auf den befestigten Wegen, um Schlamm auf den unbefestigten Abschnitten zu vermeiden.",
+                "hu": "A sötét homlokzat esőben különösen karakteres látványt nyújt; maradjon a kövezett utakon, hogy elkerülje a sarat a kert nem burkolt részein.",
+                "ro": "Fațada din lemn închis la culoare arată deosebit de marcantă în ploaie; rămâneți pe potecile pavate pentru a evita noroiul de pe secțiunile neamenajate.",
+                "en": "The dark wooden facade looks particularly striking in the rain; stick to the paved paths to avoid mud on the unpaved sections of the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Vogelschutzgebiet Lintu-alue",
+                "hu": "Lintu-alue madárrezervátum",
+                "ro": "Zona de păsări Lintu-alue",
+                "en": "Lintu-alue Bird Area"
+              },
+              "tip_5lang": {
+                "de": "Vögel suchen im Gebüsch Schutz vor Regen, halten Sie Ausschau; tragen Sie Gummistiefel, da die Waldwege bei Nässe sehr matschig werden können.",
+                "hu": "A madarak a bokrok alján keresnek menedéket az eső elől, figyeljen a levelek alá; viseljen gumicsizmát, mert az erdei ösvények ilyenkor sárosak.",
+                "ro": "Păsările caută adăpost sub tufișuri în timpul ploii; purtați cizme de cauciuc deoarece potecile prin pădure pot deveni foarte noroioase acum.",
+                "en": "Birds seek shelter in the bushes during rain; wear rain boots as the forest trails can become quite muddy and difficult to navigate when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Kukkapuro",
+                "hu": "Studio Kukkapuro",
+                "ro": "Studio Kukkapuro",
+                "en": "Studio Kukkapuro"
+              },
+              "tip_5lang": {
+                "de": "Dies ist das Highlight an Regentagen, da Sie drinnen im Trockenen das Design bewundern können; nutzen Sie den Schirmständer im Eingangsbereich.",
+                "hu": "Ez az esős napok fénypontja, mivel bent a szárazon csodálhatja meg az innovatív designt; használja a bejáratnál található esernyőtartót érkezéskor.",
+                "ro": "Acesta este punctul culminant în zilele ploioase, putând admira designul la interior; folosiți suportul de umbrele de la intrare la sosire.",
+                "en": "This is the highlight of a rainy day, as you can admire the design indoors; make use of the umbrella stand at the entrance upon arrival."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Kauniainen bietet verschneite Landschaften, erfordert aber warme Kleidung. Am Morgen glänzt der Schnee an der Villa Junghans. Mittags spendet die beheizte Kirche Wärme. Da es gegen 16 Uhr dunkel wird, sollten Sie die Waldgebiete früh besuchen. Der Abend endet im Studio Kukkapuro, wo das Licht der blauen Stunde die finnische Winterromantik abrundet.",
+            "hu": "A téli nap Kauniainenben havas tájakat ígér, de meleg ruházatot igényel. Reggel a hó csillog a Villa Junghans kertjében. Délben a fűtött templom nyújt kellemes pihenőt. Mivel 16 óra után sötétedik, a természetvédelmi területeket korán keresse fel. Az este a stúdióban ér véget, ahol a kék óra fényei és a belső meleg tökéletes zárása a napnak.",
+            "ro": "O zi de iarnă în Kauniainen oferă peisaje înzăpezite, dar necesită haine groase. Dimineața, zăpada strălucește lângă Villa Junghans. La prânz, biserica încălzită oferă un popas plăcut. Deoarece se întunecă în jur de ora 16, vizitați zonele naturale devreme. Seara se încheie la studio, unde luminile albastre ale amurgului completează atmosfera.",
+            "en": "A winter day in Kauniainen offers snowy landscapes but requires warm layers. In the morning, snow glistens at Villa Junghans. At noon, the heated church provides a cozy break. As it gets dark by 4 PM, visit the natural areas early. Your evening ends at the studio, where the blue hour lights and indoor warmth perfectly conclude the winter experience."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Junghans",
+                "hu": "Villa Junghans",
+                "ro": "Villa Junghans",
+                "en": "Villa Junghans"
+              },
+              "tip_5lang": {
+                "de": "Die Villa wirkt im Schnee wie aus einem Märchen; achten Sie auf vereiste Treppenstufen und tragen Sie Schuhe mit gutem Profil für den verschneiten Parkweg.",
+                "hu": "A villa a hóban olyan, mint egy tündérmese; ügyeljen a jeges lépcsőfokokra, és viseljen jó tapadású talpú cipőt a havas parki ösvényeken való sétához.",
+                "ro": "Vila arată ca într-o poveste sub zăpadă; atenție la treptele înghețate și purtați încălțăminte cu talpă aderentă pentru potecile înzăpezite din parc.",
+                "en": "The villa looks like a fairytale in the snow; watch out for icy steps and wear shoes with good grip for walking on the snowy park paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Kauniainen",
+                "hu": "Kauniaisten kirkko",
+                "ro": "Biserica Kauniainen",
+                "en": "Kauniaisten kirkko"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die Wärme im Inneren, während draußen der Schnee fällt; der Kontrast zwischen Beton und Winterlandschaft ist fotogen.",
+                "hu": "Élvezze a benti csendet és meleget, miközben kint hull a hó; a betonfalak és a fehér téli táj kontrasztja rendkívül fotogén látványt nyújt.",
+                "ro": "Bucurați-vă de liniștea și căldura din interior în timp ce afară ninge; contrastul dintre pereții de beton și peisajul alb este foarte fotogenic.",
+                "en": "Enjoy the silence and warmth inside while it snows outside; the contrast between the concrete walls and the white winter landscape is very photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Odenvall",
+                "hu": "Villa Odenvall",
+                "ro": "Villa Odenvall",
+                "en": "Villa Odenvall"
+              },
+              "tip_5lang": {
+                "de": "Die historische Architektur hebt sich prächtig vom weißen Schnee ab; halten Sie Ihre Kamera warm, da Kälte die Akkulaufzeit deutlich verkürzen kann.",
+                "hu": "A történelmi építészet pompásan kiemelkedik a fehér hóból; tartsa melegen a fényképezőgépét, mert a hideg lerövidítheti az akkumulátor élettartamát.",
+                "ro": "Arhitectura istorică se evidențiază superb pe fundalul alb al zăpezii; păstrați aparatul foto la căldură, deoarece frigul poate descărca rapid bateria.",
+                "en": "The historic architecture stands out magnificently against the white snow; keep your camera warm as the cold can significantly shorten battery life."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Skogshyddan",
+                "hu": "Villa Skogshyddan",
+                "ro": "Villa Skogshyddan",
+                "en": "Villa Skogshyddan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor Einbruch der Dunkelheit; Thermo-Einlegesohlen helfen gegen die Kälte beim Stehen im Freien, um die Fassade zu bewundern.",
+                "hu": "Még sötétedés előtt látogasson el ide, hogy lássa a részleteket; a termotalpbetétek segítenek a hideg ellen, miközben kint állva nézelődik a kertben.",
+                "ro": "Vizitați acest loc înainte de lăsarea întunericului pentru a vedea detaliile; branțurile termice vă vor ajuta să suportați mai ușor frigul de afară.",
+                "en": "Visit this spot before dusk to see the details; thermal insoles will help keep your feet warm while standing outside to admire the wooden facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Vogelschutzgebiet Lintu-alue",
+                "hu": "Lintu-alue madárrezervátum",
+                "ro": "Zona de păsări Lintu-alue",
+                "en": "Lintu-alue Bird Area"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach Tierspuren im frischen Schnee; tragen Sie unbedingt Wollsocken und Mütze, da der Wind im Gelände im Winter sehr schneidend ist.",
+                "hu": "Keressen állatnyomokat a friss hóban; feltétlenül viseljen gyapjúzoknit és sapkát, mert a szél a nyitott terepen télen nagyon metsző lehet.",
+                "ro": "Căutați urme de animale în zăpada proaspătă; purtați neapărat șosete de lână și căciulă, deoarece vântul poate fi tăios în zonele deschise iarna.",
+                "en": "Look for animal tracks in the fresh snow; be sure to wear wool socks and a hat, as the wind can be very biting in open areas during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Kukkapuro",
+                "hu": "Studio Kukkapuro",
+                "ro": "Studio Kukkapuro",
+                "en": "Studio Kukkapuro"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach dem Spaziergang hier auf; das warme Licht im Studio bietet einen gemütlichen Abschluss, bevor Sie sich auf den Heimweg machen.",
+                "hu": "Melegedjen fel itt a séta után; a stúdió meleg fényei hangulatos és kényelmes zárást kínálnak a napnak, mielőtt elindulna a szállására.",
+                "ro": "Încălziți-vă aici după plimbare; luminile calde din studio oferă un final confortabil și primitor zilei înainte de a pleca spre casă.",
+                "en": "Warm up here after your walk; the studio's warm lighting offers a cozy and comfortable end to the day before you head back to your accommodation."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Korán induljon kerékpárral, hogy megtapasztalja a Kauniainen templom és a hangulatos Villa Junghans békés légkörét.\n\nDélben a természet felé veszi az irányt, és elteker a festői Karvasbacka mogyoróligethez.\n\nDélután tisztelegjen a háborús emlékműnél, mielőtt felfedezné a tájban megbúvó izgalmas Stockmann-romokat.\n\nZárja az aktív napot a Villa Pelander és az ikonikus Studio Kukkapuro meglátogatásával.",
         "ro": "Pedalați devreme pentru a experimenta atmosfera pașnică a Bisericii Kauniainen și a fermecătoarei Villa Junghans.\n\nLa prânz vă îndreptați spre natură, pedalând către pitoreasca livadă de aluni Karvasbacka.\n\nDupă-amiaza, aduceți un omagiu la memorialul de război înainte de a explora fascinantele ruine Stockmann ascunse în peisaj.\n\nÎncheiați-vă ziua activă mergând cu bicicleta spre Villa Pelander și admirând iconicul Studio Kukkapuro.",
         "en": "Pedal out early to experience the peaceful atmosphere of Kauniainen Church and the charming Villa Junghans.\n\nMidday shifts towards nature as you ride out to the scenic Karvasbacka hazelnut grove.\n\nIn the afternoon, pay your respects at the war memorial before exploring the intriguing Stockmann ruins hidden in the landscape.\n\nWrap up your active day by cycling to Villa Pelander and marveling at the iconic Studio Kukkapuro."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radtouren im Regen erfordern Vorsicht auf den Wegen von Kauniainen. Beginnen Sie morgens an der Kirche. Mittags sind die Villenviertel ruhig, aber achten Sie auf rutschiges Laub. Nachmittags ist die Fahrt zu den Ruinen erfrischend, wenn Sie regenfest gekleidet sind. Der Tag endet sicher im Studio Kukkapuro, wo Sie Ihr Rad im Trockenen abstellen können.",
+            "hu": "Az esős biciklizés óvatosságot igényel Kauniainen útjain. Kezdje a reggelt a templomnál, amely menedéket nyújt. Délben a villanegyedek csendesek, de ügyeljen a csúszós levelekre. Délután a romok felé vezető út frissítő, ha vízálló ruházatot visel. A nap a Studio Kukkapuro biztonságában ér véget, ahol száraz helyen hagyhatja kerékpárját.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe pistele din Kauniainen. Începeți dimineața la biserică. La prânz, cartierele cu vile sunt liniștite, dar atenție la frunzele umede. După-amiaza, drumul spre ruine este revigorant dacă aveți echipament impermeabil. Ziua se încheie la Studio Kukkapuro, unde puteți lăsa bicicleta la loc uscat.",
+            "en": "Cycling in the rain requires caution on the paths of Kauniainen. Start your morning at the church, which offers shelter. At noon, the villa districts are quiet, but watch out for slippery leaves. In the afternoon, the ride to the ruins is refreshing if you have waterproof gear. The day ends safely at Studio Kukkapuro, where you can park your bike in a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Kauniainen",
+                "hu": "Kauniaisten kirkko",
+                "ro": "Biserica Kauniainen",
+                "en": "Kauniaisten kirkko"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingang zum Abstellen Ihres Rades und wischen Sie den Sattel trocken, bevor Sie zur Villa Junghans weiterfahren.",
+                "hu": "Használja a fedett bejáratot a kerékpár tárolására, és törölje szárazra a nyerget, mielőtt továbbtekerne a Villa Junghans irányába.",
+                "ro": "Folosiți intrarea acoperită pentru a parca bicicleta și ștergeți șaua înainte de a pleca mai departe spre Villa Junghans.",
+                "en": "Use the covered entrance to park your bike and wipe the saddle dry before continuing your ride towards Villa Junghans."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Junghans",
+                "hu": "Villa Junghans",
+                "ro": "Villa Junghans",
+                "en": "Villa Junghans"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den großen Bäumen am Rand, um es vor direktem Regen zu schützen, während Sie die Architektur der Villa bewundern.",
+                "hu": "Parkoljon a szélen található nagy fák alá, hogy megvédje kerékpárját a közvetlen esőtől, miközben a villa építészetét csodálja meg.",
+                "ro": "Parcați bicicleta sub copacii mari de la margine pentru a o proteja de ploaia directă în timp ce admirați arhitectura vilei.",
+                "en": "Park your bike under the large trees at the edge to protect it from direct rain while you admire the villa's architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Karvasbacka Haselnusshain",
+                "hu": "Karvasbacka mogyoróliget",
+                "ro": "Livada de aluni Karvasbacka",
+                "en": "Karvasbackan pähkinäpensaslehto"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Haselnusssträucher bieten natürlichen Regenschutz; reduzieren Sie Ihr Tempo auf den Waldwegen, da diese bei Nässe schlammig sind.",
+                "hu": "A sűrű mogyoróbokrok természetes esővédelmet nyújtanak; csökkentse a sebességét az erdei utakon, mivel azok nedvesen sárosak és csúszósak.",
+                "ro": "Alunii deși oferă o protecție naturală împotriva ploii; reduceți viteza pe potecile din pădure, deoarece sunt noroioase și alunecoase când plouă.",
+                "en": "The dense hazel bushes provide natural rain protection; reduce your speed on the forest paths as they get muddy and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Sankarihauta",
+                "ro": "Memorialul Eroilor",
+                "en": "Sankarihauta - Pro Patria"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt unter dem Regenschirm ist hier angebracht; prüfen Sie Ihre Bremsen, bevor Sie die Hügel in der Umgebung befahren.",
+                "hu": "Egy rövid, elmélyült megálló az esernyő alatt itt helyénvaló; ellenőrizze a fékeit, mielőtt a környék dombosabb részein folytatná útját.",
+                "ro": "O scurtă oprire sub umbrelă este potrivită aici; verificați frânele înainte de a parcurge zonele deluroase din împrejurimi pe carosabil umed.",
+                "en": "A short stop under your umbrella is appropriate here; check your brakes before cycling on the potentially slippery hilly areas in the vicinity."
+              }
+            },
+            {
+              "name": {
+                "de": "Stockmann-Ruinen",
+                "hu": "Stockmann-romok",
+                "ro": "Ruinele Stockmann",
+                "en": "Stockmann ruins"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken bei Regen besonders mystisch; steigen Sie vom Rad ab, da der Boden um die Ruinen bei Nässe sehr rutschig sein kann.",
+                "hu": "A romok esőben különösen misztikus látványt nyújtanak; szálljon le a bicikliről és tolja, mert a romok körüli talaj nagyon csúszós lehet ilyenkor.",
+                "ro": "Ruinele arată deosebit de mistic pe ploaie; coborâți de pe bicicletă și împingeți-o, deoarece terenul din jur poate fi foarte alunecos.",
+                "en": "The ruins look particularly mystical in the rain; dismount and push your bike, as the ground around the ruins can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Pelander",
+                "hu": "Villa Pelander",
+                "ro": "Villa Pelander",
+                "en": "Villa Pelander"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Details der Fassade schnell und fahren Sie zügig weiter; wasserdichte Handschuhe sind beim Radfahren im Regen wichtig.",
+                "hu": "Gyorsan tekintse meg a homlokzat részleteit, és haladjon tovább tempósan, hogy ne hűljön ki; a vízálló kesztyű fontos biciklizés közben.",
+                "ro": "Admirați rapid detaliile fațadei și continuați drumul în ritm susținut pentru a nu răci; mănușile impermeabile sunt esențiale la ciclism.",
+                "en": "Quickly view the facade details and keep moving at a steady pace to stay warm; waterproof gloves are important when cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Kukkapuro",
+                "hu": "Studio Kukkapuro",
+                "ro": "Studio Kukkapuro",
+                "en": "Studio Kukkapuro"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich im Studio ab und genießen Sie die Wärme; stellen Sie sicher, dass Ihre Beleuchtung für den Rückweg im Regen gut funktioniert.",
+                "hu": "Szárítkozzon meg a stúdióban és élvezze a benti meleget; győződjön meg róla, hogy a világítása jól működik a hazaúthoz az esőben.",
+                "ro": "Uscați-vă în studio și bucurați-vă de căldură; asigurați-vă că luminile bicicletei funcționează bine pentru drumul de întoarcere pe ploaie.",
+                "en": "Dry off in the studio and enjoy the warmth; make sure your bike lights are working properly for the ride back in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Kauniainen erfordert Spikereifen und warme Kleidung. Am Morgen ist die Luft an der Kirche kristallklar. Mittags ist die Fahrt durch den Haselnusshain bei Frost besonders schön. Nachmittags sollten Sie vor Einbruch der Dunkelheit an den Ruinen sein. Der Tag endet im warmen Studio Kukkapuro, wo Sie sich perfekt aufwärmen können.",
+            "hu": "A téli biciklizés Kauniainenben szöges gumit és meleg öltözetet igényel. Reggel a levegő a templomnál kristálytiszta. Délben a mogyoróligeten át tekerni fagyos időben különösen szép. Délután sötétedés előtt érjen a romokhoz. A nap a meleg Studio Kukkapuro falai között ér véget, ahol tökéletesen felmelegedhet.",
+            "ro": "Ciclismul de iarnă în Kauniainen necesită anvelope cu ținte și haine groase. Dimineața, aerul de la biserică este deosebit de curat. La prânz, plimbarea prin livada de aluni înghețată este superbă. După-amiaza, ajungeți la ruine înainte de întuneric. Ziua se încheie în căldura de la Studio Kukkapuro.",
+            "en": "Winter cycling in Kauniainen requires studded tires and warm layers. In the morning, the air at the church is crystal clear. At noon, riding through the frozen hazel grove is especially beautiful. In the afternoon, reach the ruins before dark. The day ends at the warm Studio Kukkapuro, where you can perfectly warm up after the ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche von Kauniainen",
+                "hu": "Kauniaisten kirkko",
+                "ro": "Biserica Kauniainen",
+                "en": "Kauniaisten kirkko"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen warmen Raum zum Aufwärmen der Hände vor der Weiterfahrt; achten Sie beim Losfahren auf Glatteis auf den Parkplätzen.",
+                "hu": "A templom meleg belső teret kínál a kezek felmelegítéséhez a továbbindulás előtt; elinduláskor ügyeljen a jeges foltokra a parkoló területén.",
+                "ro": "Biserica oferă un spațiu încălzit pentru a vă încălzi mâinile înainte de plecare; atenție la gheață pe zonele de parcare la pornire.",
+                "en": "The church offers a warm interior to warm up your hands before continuing; watch out for icy patches in the parking area when starting off."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Junghans",
+                "hu": "Villa Junghans",
+                "ro": "Villa Junghans",
+                "en": "Villa Junghans"
+              },
+              "tip_5lang": {
+                "de": "Der verschneite Garten ist ein tolles Fotomotiv; halten Sie den Aufenthalt kurz, um nicht auszukühlen, und tragen Sie winddichte Kleidung beim Fahren.",
+                "hu": "A havas kert remek fotótéma; tartsa röviden a megállót, hogy ne hűljön ki túlságosan, és viseljen szélálló ruházatot a kerékpározáshoz.",
+                "ro": "Grădina înzăpezită este un subiect excelent pentru fotografii; nu staționați prea mult pentru a nu răci și purtați haine rezistente la vânt.",
+                "en": "The snowy garden is a great photo subject; keep your stay short to avoid getting too cold and wear windproof clothing while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Karvasbacka Haselnusshain",
+                "hu": "Karvasbacka mogyoróliget",
+                "ro": "Livada de aluni Karvasbacka",
+                "en": "Karvasbackan pähkinäpensaslehto"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Zweige im Frost wirken wie Kunstwerke; meiden Sie tiefe Schneeverwehungen auf den Waldwegen, um nicht mit dem Rad stecken zu bleiben.",
+                "hu": "A fagyos, kopasz ágak műalkotásnak tűnnek; kerülje a mély hóátfúvásokat az erdei utakon, hogy ne akadjon el a kerékpárral a puha hóban.",
+                "ro": "Ramurile înghețate și goale par niște opere de artă; evitați troienele de zăpadă de pe potecile din pădure pentru a nu rămâne blocați cu bicicleta.",
+                "en": "The frosty, bare branches look like artworks; avoid deep snowdrifts on the forest paths to prevent getting stuck with your bike in the soft snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Sankarihauta",
+                "ro": "Memorialul Eroilor",
+                "en": "Sankarihauta - Pro Patria"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Schnee besonders würdevoll; steigen Sie vorsichtig ab, da der Boden unter dem Schnee oft tückisch glatt gefroren ist.",
+                "hu": "Az emlékmű a hóban különösen méltóságteljes; óvatosan szálljon le a bicikliről, mert a hó alatti talaj gyakran csalókán jegesre van fagyva.",
+                "ro": "Monumentul arată deosebit de demn sub zăpadă; coborâți cu grijă de pe bicicletă, deoarece solul de sub zăpadă este adesea înghețat și înșelător.",
+                "en": "The memorial looks particularly dignified in the snow; dismount carefully as the ground under the snow is often treacherously frozen and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Stockmann-Ruinen",
+                "hu": "Stockmann-romok",
+                "ro": "Ruinele Stockmann",
+                "en": "Stockmann ruins"
+              },
+              "tip_5lang": {
+                "de": "Die Steine sind oft von einer Eisschicht bedeckt, seien Sie vorsichtig beim Gehen; eine Thermoskanne mit Tee ist eine gute Ergänzung für die Pause.",
+                "hu": "A köveket gyakran jégréteg borítja, legyen óvatos a járással; egy termosz forró tea jó kiegészítője lehet az itt tartott rövid pihenőnek.",
+                "ro": "Pietrele sunt adesea acoperite de un strat de gheață, fiți atenți la mers; un termos cu ceai fierbinte este binevenit pentru o scurtă pauză.",
+                "en": "The stones are often covered by a layer of ice, so be careful when walking; a thermos of hot tea is a good companion for a short break here."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Pelander",
+                "hu": "Villa Pelander",
+                "ro": "Villa Pelander",
+                "en": "Villa Pelander"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Architektur in der blauen Stunde; schalten Sie frühzeitig Ihre Fahrradbeleuchtung ein, da es nun schnell dunkel wird.",
+                "hu": "Élvezze a történelmi építészet látványát a kék órában; időben kapcsolja be a kerékpár világítását, mert ilyenkor már gyorsan sötétedik.",
+                "ro": "Admirați arhitectura istorică în lumina amurgului; aprindeți din timp luminile bicicletei, deoarece acum se întunecă foarte repede.",
+                "en": "Enjoy the sight of the historic architecture during the blue hour; turn on your bike lights early as it is now getting dark very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Kukkapuro",
+                "hu": "Studio Kukkapuro",
+                "ro": "Studio Kukkapuro",
+                "en": "Studio Kukkapuro"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag im Warmen ausklingen zu lassen; parken Sie Ihr Rad an einem gut sichtbaren Ort, falls es erneut zu schneien beginnt.",
+                "hu": "A tökéletes hely, hogy a napot a melegben fejezze be; parkoljon jól látható helyen, arra az esetre, ha a látogatás alatt újra elkezdene havazni.",
+                "ro": "Locul perfect pentru a încheia ziua la căldură; parcați bicicleta într-un loc vizibil, în cazul în care începe să ningă din nou pe durata vizitei.",
+                "en": "The perfect place to end the day in the warmth; park your bike in a visible spot in case it starts snowing again during your visit."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje autós útját a város békés déli peremén, és tegyen egy frissítő reggeli sétát a buja természetvédelmi területeken.\n\nDélben hajtson nyugatra, hogy felfedezze a ritka mogyoróligetet és a lenyűgöző történelmi Stockmann-romokat.\n\nA délután közepén tartson egy pillanatnyi elmélkedést a háborús emlékműnél, majd látogasson el az építészetileg lenyűgöző Studio Kukkapuroba.\n\nEste parkoljon le a központ közelében, és élvezze a templom és a Villa Junghans békés hangulatát.",
         "ro": "Începeți plimbarea cu mașina la marginile liniștite din sudul orașului, făcând plimbări revigorante de dimineață prin rezervele naturale luxuriante.\n\nLa prânz, mergeți spre vest pentru a explora crângul rar de aluni și fascinantele ruine istorice Stockmann.\n\nDupă-amiaza oferă un moment de reflecție la memorialul de război, urmat de o vizită la impresionantul Studio Kukkapuro.\n\nSeara coboară în timp ce parcați aproape de centru, bucurându-vă de atmosfera senină de la Biserică și Villa Junghans.",
         "en": "Begin your drive on the peaceful southern edges of the city, taking refreshing morning walks through the lush Lillträsk and Central Park nature reserves.\n\nBy midday, cruise westward to explore the rare hazelnut grove and the fascinating historic Stockmann ruins.\n\nMid-afternoon offers a moment of reflection at the local war memorial followed by a visit to the architecturally stunning Studio Kukkapuro.\n\nEvening descends as you park near the center, enjoying the serene atmosphere of Kauniainen Church and Villa Junghans."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt ist die beste Wahl für einen Regentag in Kauniainen. Morgens erkunden Sie die Naturschutzgebiete bequem vom Wagen aus. Mittags sind die Waldwege zu den Ruinen matschig, aber mit dem Auto erreichbar. Nachmittags besuchen Sie die Kirche und das Studio Kukkapuro trocken. Der Abend endet gemütlich, ohne dass Sie sich dem Wetter aussetzen müssen.",
+            "hu": "Az autó a legjobb választás egy esős napra Kauniainenben. Reggel a természetvédelmi területeket kényelmesen, a kocsiból is felfedezheti. Délben az erdei utak a romok felé sárosak, de autóval könnyen megközelíthetők. Délután a templomot és a stúdiót szárazon látogathatja meg. A nap kényelmesen ér véget, anélkül, hogy megázna.",
+            "ro": "Mașina este cea mai bună alegere pentru o zi ploioasă în Kauniainen. Dimineața explorați rezervațiile naturale confortabil din vehicul. La prânz, drumurile spre ruine sunt noroioase, dar accesibile cu mașina. După-amiaza vizitați biserica și studioul fără să vă udați. Ziua se încheie plăcut, fără a fi expuși ploii.",
+            "en": "Driving is the best choice for a rainy day in Kauniainen. In the morning, explore the nature reserves comfortably from your car. At noon, the forest roads to the ruins are muddy but accessible by car. In the afternoon, visit the church and studio while staying dry. The day ends comfortably without having to expose yourself to the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lillträsk Naturschutzgebiet",
+                "hu": "Lillträsk természetvédelmi terület",
+                "ro": "Rezervația naturală Lillträsk",
+                "en": "Lillträskin luonnonsuojelualue"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf den See durch die Windschutzscheibe; wenn Sie aussteigen, ist eine Regenjacke wegen des windigen Ufers unverzichtbar.",
+                "hu": "Élvezze a tóra nyíló kilátást a szélvédőn keresztül; ha kiszáll, az esőkabát elengedhetetlen a szeles tóparton a hirtelen záporok miatt.",
+                "ro": "Admirați priveliștea spre lac prin parbriz; dacă coborâți din mașină, o jachetă de ploaie este indispensabilă pe malul vântos al lacului.",
+                "en": "Enjoy the lake view through your windshield; if you get out, a rain jacket is essential on the windy lakeshore due to sudden showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Central Park Waldgebiet",
+                "hu": "Központi Park erdő",
+                "ro": "Pădurea Parcului Central",
+                "en": "Keskuspuiston metsäalue"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Waldrand, um kurze Wege im Regen zu haben; die Bäume wirken bei grauem Himmel und Nässe besonders majestätisch und tiefgrün.",
+                "hu": "Parkoljon közel az erdőszélhez, hogy keveset kelljen gyalogolnia az esőben; a fák szürke égbolt mellett és nedvesen különösen fenséges látványt nyújtanak.",
+                "ro": "Parcați aproape de marginea pădurii pentru a merge puțin prin ploaie; copacii arată maiestuos și de un verde intens sub cerul gri și umed.",
+                "en": "Park close to the edge of the forest to minimize walking in the rain; the trees look particularly majestic and deep green under the grey, wet sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Karvasbacka Haselnusshain",
+                "hu": "Karvasbacka mogyoróliget",
+                "ro": "Livada de aluni Karvasbacka",
+                "en": "Karvasbackan pähkinäpensaslehto"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei Regen rutschig sein, fahren Sie vorsichtig; nutzen Sie den Wagen als trockenen Rückzugsort für kurze Pausen.",
+                "hu": "A keskeny bekötőutak heves esőben csúszósak lehetnek, vezessen óvatosan; használja az autót száraz menedékként a megállók és pihenők során.",
+                "ro": "Drumurile înguste de acces pot fi alunecoase pe ploaie torențială, conduceți cu grijă; folosiți mașina ca refugiu uscat pentru pauze între vizite.",
+                "en": "The narrow access roads can be slippery in heavy rain, so drive carefully; use your car as a dry sanctuary for breaks during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Stockmann-Ruinen",
+                "hu": "Stockmann-romok",
+                "ro": "Ruinele Stockmann",
+                "en": "Stockmann ruins"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Auto so, dass Sie die Ruinen aus dem Fenster sehen können; festes Schuhwerk ist nötig, wenn Sie die alten Steine im Regen begehen wollen.",
+                "hu": "Parkoljon úgy, hogy az autóból is láthassa a romokat; stabil cipőre lesz szüksége, ha az esőben közvetlen közelről is bejárná a régi köveket.",
+                "ro": "Parcați mașina astfel încât să puteți vedea ruinele de pe geam; aveți nevoie de încălțăminte stabilă dacă doriți să explorați pietrele vechi pe ploaie.",
+                "en": "Park your car so that you can see the ruins from the window; sturdy shoes are needed if you want to walk among the old stones in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Sankarihauta",
+                "ro": "Memorialul Eroilor",
+                "en": "Sankarihauta - Pro Patria"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz am Straßenrand für einen besinnlichen Blick; achten Sie beim Wiedereinfahren in den Verkehr auf die Gischt der anderen Fahrzeuge.",
+                "hu": "Álljon meg rövid időre az út szélén egy méltóságteljes pillantásra; a forgalomba való visszatéréskor ügyeljen a többi autó által felvert vízpermetre.",
+                "ro": "Opriți scurt pe marginea drumului pentru o privire solemnă; la revenirea în trafic, atenție la apa împroșcată de celelalte vehicule de pe șosea.",
+                "en": "Stop briefly at the roadside for a solemn look; when re-entering traffic, watch out for the water spray kicked up by other vehicles on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Kukkapuro",
+                "hu": "Studio Kukkapuro",
+                "ro": "Studio Kukkapuro",
+                "en": "Studio Kukkapuro"
+              },
+              "tip_5lang": {
+                "de": "Das Studio hat Parkplätze direkt am Eingang, was den Zugang bei Regen komfortabel macht; genießen Sie die Ausstellung ohne nass zu werden.",
+                "hu": "A stúdiónak közvetlenül a bejáratnál vannak parkolóhelyei, ami esőben kényelmessé teszi a bejutást; élvezze a kiállítást anélkül, hogy megázna.",
+                "ro": "Studioul are locuri de parcare chiar la intrare, ceea ce face accesul foarte confortabil pe ploaie; bucurați-vă de expoziție fără a vă uda deloc.",
+                "en": "The studio has parking spaces right at the entrance, making access very comfortable in the rain; enjoy the exhibition without getting wet at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Kauniainen",
+                "hu": "Kauniaisten kirkko",
+                "ro": "Biserica Kauniainen",
+                "en": "Kauniaisten kirkko"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur der Kirche bietet Schutz beim Aussteigen; prüfen Sie im Wagen die Wettervorhersage für die restliche Fahrt durch die Stadt.",
+                "hu": "A templom architektúrája védelmet nyújt a kiszálláskor; az autóban ülve ellenőrizze az időjárás-előrejelzést a városi túra hátralévő részére.",
+                "ro": "Arhitectura bisericii oferă protecție la coborârea din mașină; verificați prognoza meteo în vehicul pentru restul traseului prin oraș.",
+                "en": "The church's architecture provides shelter when getting out of the car; check the weather forecast in the car for the rest of your city tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Junghans",
+                "hu": "Villa Junghans",
+                "ro": "Villa Junghans",
+                "en": "Villa Junghans"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss, da Sie im Auto die Heizung nutzen können, während Sie das beleuchtete Gebäude im Abendregen von außen betrachten.",
+                "hu": "Szép zárás, hiszen az autóban használhatja a fűtést, miközben az esti esőben kívülről tekinti meg a kivilágított történelmi épületet.",
+                "ro": "Un final frumos, deoarece puteți folosi încălzirea în mașină în timp ce admirați clădirea istorică iluminată din exterior în ploaia de seară.",
+                "en": "A nice conclusion, as you can use the heater in the car while viewing the illuminated historic building from the outside in the evening rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto in Kauniainen wohlige Wärme zwischen den Stopps. Beginnen Sie morgens an den zugefrorenen Seen. Mittags erkunden Sie die verschneiten Villenviertel, ohne frieren zu müssen. Da die Sonne früh untergeht, genießen Sie die festliche Beleuchtung vom Wagen aus. Der Tag endet am Studio Kukkapuro, wo Sie die Architektur sicher erreichen.",
+            "hu": "Télen az autó kellemes meleget nyújt Kauniainenben a megállók között. Kezdje a reggelt a befagyott tavaknál. Délben a havas villanegyedeket anélkül fedezheti fel, hogy fáznia kellene. Mivel a nap korán nyugszik, az autó kényelméből csodálhatja meg az ünnepi fényeket. A nap a Studio Kukkapuro-nál ér véget.",
+            "ro": "Iarna, mașina oferă o căldură plăcută în Kauniainen între opriri. Începeți dimineața la lacurile înghețate. La prânz explorați cartierele înzăpezite fără să vă fie frig. Deoarece soarele apune devreme, admirați luminile festive din mașină. Ziua se încheie confortabil la Studio Kukkapuro.",
+            "en": "In winter, the car provides cozy warmth in Kauniainen between stops. Start your morning at the frozen lakes. At noon, explore the snowy villa districts without having to be cold. Since the sun sets early, enjoy the city's festive lights from the comfort of your car. The day ends at Studio Kukkapuro."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lillträsk Naturschutzgebiet",
+                "hu": "Lillträsk természetvédelmi terület",
+                "ro": "Rezervația naturală Lillträsk",
+                "en": "Lillträskin luonnonsuojelualue"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz und am Seeufer; die winterliche Stille am zugefrorenen See ist vom warmen Wagen aus besonders friedlich.",
+                "hu": "Ügyeljen a jegesedésre a parkolóban és a tóparton; a befagyott tó téli csendje a meleg autóból szemlélve különösen békés élményt nyújt látogatóknak.",
+                "ro": "Atenție la gheața din parcare și de pe malul lacului; liniștea iernii la lacul înghețat este deosebit de pașnică privită din mașina încălzită.",
+                "en": "Watch out for ice in the parking lot and on the lakeshore; the winter silence at the frozen lake is particularly peaceful viewed from the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Central Park Waldgebiet",
+                "hu": "Központi Park erdő",
+                "ro": "Pădurea Parcului Central",
+                "en": "Keskuspuiston metsäalue"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schneebedeckten Waldwegen; die verschneiten Tannen bieten eine malerische Kulisse für eine kurze Fotopause im Freien.",
+                "hu": "Vezessen óvatosan a hóval borított erdei utakon; a havas fenyők festői hátteret biztosítanak egy rövid, frissítő szabadtéri fotószünethez a túra során.",
+                "ro": "Conduceți cu atenție pe drumurile forestiere acoperite de zăpadă; brăduții înzăpeziți oferă un decor pitoresc pentru o scurtă pauză foto în aer liber.",
+                "en": "Drive carefully on the snow-covered forest roads; the snowy fir trees provide a picturesque backdrop for a short, refreshing outdoor photo break."
+              }
+            },
+            {
+              "name": {
+                "de": "Karvasbacka Haselnusshain",
+                "hu": "Karvasbacka mogyoróliget",
+                "ro": "Livada de aluni Karvasbacka",
+                "en": "Karvasbackan pähkinäpensaslehto"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Natur bewundern; warme Getränke im Becherhalter machen die Fahrt noch gemütlicher.",
+                "hu": "Ne járassa feleslegesen a motort, miközben a téli természetet csodálja; a pohártartóba készített forró italok még hangulatosabbá teszik az utazást.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce admirați natura de iarnă; băuturile calde din suportul de pahare fac călătoria și mai plăcută și confortabilă.",
+                "en": "Don't leave the engine running unnecessarily while admiring the winter nature; hot drinks in the cup holder make the ride even more cozy and pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Stockmann-Ruinen",
+                "hu": "Stockmann-romok",
+                "ro": "Ruinele Stockmann",
+                "en": "Stockmann ruins"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winter oft schwerer zugänglich; nutzen Sie die Sitzheizung nach dem kurzen Rundgang zwischen den Steinen zum schnellen Aufwärmen.",
+                "hu": "A romok télen nehezebben megközelíthetők lehetnek, ellenőrizze a hóvastagságot; használja az ülésfűtést a kövek közötti rövid séta után a felmelegedéshez.",
+                "ro": "Ruinele pot fi mai greu accesibile iarna, verificați grosimea zăpezii; folosiți încălzirea în scaune după scurta plimbare printre pietre pentru confort.",
+                "en": "The ruins may be harder to access in winter, so check the snow depth; use the seat heating to warm up after a short walk among the historic stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Sankarihauta",
+                "ro": "Memorialul Eroilor",
+                "en": "Sankarihauta - Pro Patria"
+              },
+              "tip_5lang": {
+                "de": "Die Kerzen am Denkmal wirken in der winterlichen Dämmerung hell; halten Sie kurz an, ohne den Verkehrsfluss auf den glatten Straßen zu stören.",
+                "hu": "Az emlékműnél elhelyezett gyertyák a téli szürkületben különösen fényesen égnek; álljon meg röviden, anélkül, hogy zavarná a forgalmat a csúszós utakon.",
+                "ro": "Lumânările de la monument ard foarte strălucitor în amurgul de iarnă; opriți scurt fără a perturba traficul pe drumurile care pot fi alunecoase.",
+                "en": "The candles at the memorial burn very brightly in the winter twilight; stop briefly without disturbing the traffic flow on potentially slippery roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Studio Kukkapuro",
+                "hu": "Studio Kukkapuro",
+                "ro": "Studio Kukkapuro",
+                "en": "Studio Kukkapuro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Studio für eine längere Pause im Warmen; prüfen Sie vor der Abfahrt, ob Ihre Scheiben frei von Frost und Schnee sind für gute Sicht.",
+                "hu": "Használja a stúdiót egy hosszabb, meleg pihenőre; indulás előtt ellenőrizze, hogy a szélvédők mentesek-e a fagytól és hótól a jó kilátás érdekében.",
+                "ro": "Folosiți studioul pentru o pauză lungă la căldură; înainte de plecare, asigurați-vă că parbrizele sunt curate de gheață și zăpadă pentru vizibilitate.",
+                "en": "Use the studio for a long, warm break; before leaving, ensure your windshields are clear of frost and snow for good visibility on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Kauniainen",
+                "hu": "Kauniaisten kirkko",
+                "ro": "Biserica Kauniainen",
+                "en": "Kauniaisten kirkko"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchtete Kirche ist in der Dunkelheit ein markanter Orientierungspunkt; parken Sie vorsichtig, da Markierungen unter dem Schnee liegen können.",
+                "hu": "A kivilágított templom a sötétben fontos tájékozódási pont; parkoljon óvatosan, mivel a felfestések a hó alatt rejtve maradhatnak ilyenkor.",
+                "ro": "Biserica iluminată este un reper important în întuneric; parcați cu atenție, deoarece marcajele pot fi ascunse sub stratul de zăpadă depus.",
+                "en": "The illuminated church is a prominent landmark in the dark; park carefully as the road markings may be hidden under the layer of fallen snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Junghans",
+                "hu": "Villa Junghans",
+                "ro": "Villa Junghans",
+                "en": "Villa Junghans"
+              },
+              "tip_5lang": {
+                "de": "Die Villa glänzt im nächtlichen Winterlicht; genießen Sie die warme Fahrt zurück und achten Sie auf Wildtiere, die im Winter oft die Straßen kreuzen.",
+                "hu": "A villa csodásan fest az éjszakai téli fényekben; élvezze a meleg hazafelé utat, és ügyeljen a vadállatokra, amelyek télen gyakran átkelnek az úton.",
+                "ro": "Vila arată minunat în luminile nocturne de iarnă; bucurați-vă de drumul cald spre casă și atenție la animalele sălbatice care pot traversa șoseaua.",
+                "en": "The villa looks wonderful in the nightly winter lights; enjoy the warm drive home and watch out for wildlife that often crosses the roads in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

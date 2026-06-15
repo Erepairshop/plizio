@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Saint-Flour történelmi szívében a Maison Consulaire-nél, majd merüljön el a művészetben a Musée Alfred Douët-ben. Délben csodálja meg a Cathédrale Saint-Pierre sötét pompáját, és ismerje meg a helyi történelmet. A délután lenyűgöző kilátást kínál a városi ősi erődítményfalakról. Fejezze be a napot egy kellemes sétával az alsóvárosban, a festői Pont Vieux hídnál.",
         "ro": "Începeți ziua în inima istorică a orașului Saint-Flour la Maison Consulaire și admirați arta la Musée Alfred Douët. La prânz, vizitați Cathédrale Saint-Pierre, o bijuterie vulcanică, urmată de o incursiune în istorie la Musée de la Haute-Auvergne. După-amiaza vă așteaptă cu priveliști uimitoare de pe metereze. Încheiați ziua relaxându-vă lângă pitorescul Pont Vieux.",
         "en": "Start your day in the historic heart of Saint-Flour at the Maison Consulaire and immerse yourself in art at the Musée Alfred Douët. Midday, marvel at the dark splendor of Cathédrale Saint-Pierre and uncover local history at the Musée de la Haute-Auvergne. The afternoon offers spectacular views from the ancient ramparts. End your walking tour down by the historic Pont Vieux."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Maison Consulaire, während der Regen auf das Kopfsteinpflaster prasselt. Mittags bieten die Museen der Oberstadt trockene Zufluchtsorte voller Geschichte. Am Nachmittag führt der Weg entlang der Stadtmauern, wo der Nebel eine mystische Atmosphäre schafft. Der Tag endet im tiefer gelegenen Stadtteil, wo die nasse alte Brücke im fahlen Licht glänzt.",
+            "hu": "A reggel a Maison Consulaire védelmében indul, miközben az eső kopog a macskaköveken. Délben a felsőváros múzeumai kínálnak száraz menedéket és gazdag történelmi látnivalókat. Délután a városfalakon tett séta során a köd misztikus hangulatot áraszt a vulkáni kövekre. Az este az alsóvárosban zárul, ahol a vizes Öreg híd tükrözi vissza a város fényeit a sötétben.",
+            "ro": "Dimineața începe la adăpost în Maison Consulaire, în timp ce ploaia bate în pavajul vechi. La prânz, muzeele din orașul de sus oferă refugii uscate pline de istorie și artă. După-amiaza, plimbarea pe zidurile cetății capătă o atmosferă mistică datorită ceații. Ziua se încheie în orașul de jos, unde podul vechi umed strălucește sub lumina difuză a serii.",
+            "en": "Morning starts under the shelter of the Maison Consulaire while rain taps on the cobblestones. At midday, the museums of the upper town provide dry havens filled with history and art. Afternoon brings a misty walk along the ramparts, where the fog adds a dramatic touch to the volcanic stones. The day ends in the lower town, where the wet Old Bridge reflects the city lights in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison Consulaire",
+                "hu": "Maison Consulaire",
+                "ro": "Maison Consulaire",
+                "en": "Maison Consulaire"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um die Renaissance-Fassade zu bewundern und sich vor dem ersten Regenschauer des Tages zu schützen.",
+                "hu": "Használja ki a fedett bejárati részt a reneszánsz homlokzat megcsodálására, így szárazon maradhat a nap első záporai közben.",
+                "ro": "Folosiți zona de intrare acoperită pentru a admira fațada renascentistă și pentru a vă proteja de primele averse ale zilei.",
+                "en": "Take advantage of the covered entrance area to admire the Renaissance facade while staying dry during the day's first showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Alfred Douët",
+                "hu": "Alfred Douët Múzeum",
+                "ro": "Muzeul Alfred Douët",
+                "en": "Alfred Douët Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses private Herrenhaus ist ideal bei Regen, da Sie Stunden in den prächtigen Zimmern verbringen können; nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Ez a magánkastély ideális esőben, hiszen órákat tölthet a pompás szobákban; használja a ruhatárat a vizes kabátok és esernyők számára.",
+                "ro": "Acest conac privat este ideal pe ploaie, deoarece puteți petrece ore întregi în camerele somptuoase; folosiți garderoba pentru hainele ude.",
+                "en": "This private mansion is ideal in the rain, as you can spend hours in the sumptuous rooms; use the cloakroom for your wet coats."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die dunkle vulkanische Architektur wirkt bei grauem Himmel besonders imposant; im Inneren finden Sie absolute Trockenheit und spirituelle Ruhe.",
+                "hu": "A sötét vulkáni építészet szürke égbolt alatt különösen lenyűgöző; odabent teljes szárazság és spirituális nyugalom várja a látogatót.",
+                "ro": "Arhitectura vulcanică întunecată pare deosebit de impunătoare sub cerul gri; în interior veți găsi uscăciune totală și liniște spirituală.",
+                "en": "The dark volcanic architecture looks particularly imposing under gray skies; inside you will find absolute dryness and spiritual peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Haute-Auvergne",
+                "hu": "Haute-Auvergne Múzeum",
+                "ro": "Muzeul Haute-Auvergne",
+                "en": "Haute-Auvergne Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die lokalen Traditionen in den ehemaligen bischöflichen Räumen und warten Sie hier bequem das Ende des stärksten Regens ab.",
+                "hu": "Fedezze fel a helyi hagyományokat az egykori püspöki termekben, és várja meg itt kényelmesen a leghevesebb esőzés végét.",
+                "ro": "Explorați tradițiile locale în fostele săli episcopale și așteptați aici confortabil sfârșitul celei mai puternice ploi a zilei.",
+                "en": "Explore local traditions in the former episcopal rooms and wait here comfortably for the heaviest rain of the day to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern von Saint-Flour",
+                "hu": "Saint-Flour városfalai",
+                "ro": "Zidurile cetății Saint-Flour",
+                "en": "Ramparts of Saint-Flour"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Gehen auf den nassen Steinen, die rutschig sein können; genießen Sie den dramatischen Blick auf das neblige Tal von Cantal.",
+                "hu": "Vigyázzon a vizes köveken, amelyek csúszósak lehetnek; élvezze a drámai kilátást a ködös Cantal-völgyre az esernyője alól.",
+                "ro": "Atenție la mersul pe pietrele umede, care pot fi alunecoase; bucurați-vă de vederea dramatică asupra văii cețoase Cantal.",
+                "en": "Be careful when walking on the wet stones, which can be slippery; enjoy the dramatic view of the misty Cantal valley from your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Old Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke bietet wenig Schutz, aber das Rauschen des Flusses Ander ist bei Regen intensiver; tragen Sie unbedingt wasserfeste Schuhe.",
+                "hu": "A híd kevés menedéket nyújt, de az Ander folyó zúgása esőben intenzívebb; mindenképpen viseljen vízálló cipőt a folyóparti sétához.",
+                "ro": "Podul oferă puțin adăpost, dar vuietul râului Ander este mai intens pe ploaie; purtați neapărat încălțăminte impermeabilă pentru plimbare.",
+                "en": "The bridge offers little shelter, but the sound of the Ander river is more intense in the rain; be sure to wear waterproof shoes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in den historischen Gassen, wo die Luft klar und kalt ist. Mittags wärmen Sie sich in den beheizten Museen und der Kathedrale auf, während das Winterlicht durch die Fenster fällt. Am Nachmittag leuchtet der Sonnenuntergang bereits gegen 17:00 Uhr golden über den verschneiten Dächern. Der Abend ist kurz und lädt zu einem zügigen Spaziergang an der frischen Luft ein.",
+            "hu": "Fagyos reggel indul a történelmi utcákon, ahol a levegő tiszta és hideg. Napközben a fűtött múzeumok és a katedrális nyújtanak meleget, miközben a téli fény átszűrődik az ablakokon. Délután a naplemente már 17:00 körül aranyba vonja a havas háztetőket a városfalaknál. Az este rövid és csípős, ideális egy gyors, frissítő sétához az alsóváros hídja felé.",
+            "ro": "O dimineață geroasă începe pe străzile istorice, unde aerul este clar și rece. La prânz, încălziți-vă în muzeele încălzite și în catedrală, în timp ce lumina de iarnă pătrunde prin ferestre. După-amiaza, apusul de soare de la ora 17:00 scaldă acoperișurile înzăpezite în culori aurii. Seara este scurtă și rece, invitând la o plimbare rapidă în aerul proaspăt.",
+            "en": "A frosty morning begins in the historic alleys, where the air is crisp and cold. During the day, heated museums and the cathedral offer warmth while winter light filters through the windows. In the afternoon, the sunset already turns the snowy rooftops golden around 5:00 PM. The evening is short and chilly, perfect for a brisk, refreshing walk towards the old bridge."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison Consulaire",
+                "hu": "Maison Consulaire",
+                "ro": "Maison Consulaire",
+                "en": "Maison Consulaire"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Morgenluft bringt die Details des Basalts gut zur Geltung; ziehen Sie sich warm an, da der Wind in den Gassen ziehen kann.",
+                "hu": "A hideg reggeli levegő jól kiemeli a bazalt részleteit; öltözzön rétegesen, mert a szél erősen befújhat a szűk utcákba.",
+                "ro": "Aerul rece de dimineață scoate în evidență detaliile bazaltului; îmbrăcați-vă gros, deoarece vântul poate fi tăios pe străduțe.",
+                "en": "The cold morning air brings out the basalt details; dress warmly as the wind can whistle through the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée Alfred Douët",
+                "hu": "Alfred Douët Múzeum",
+                "ro": "Muzeul Alfred Douët",
+                "en": "Alfred Douët Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre der historischen Wohnräume, die im Winter eine besonders behagliche und warme Zuflucht bieten.",
+                "hu": "Élvezze a történelmi lakószobák meghitt hangulatát, amelyek télen különösen barátságos és meleg menedéket nyújtanak a látogatóknak.",
+                "ro": "Bucurați-vă de atmosfera primitoare a camerelor istorice, care oferă un refugiu deosebit de confortabil și cald pe timp de iarnă.",
+                "en": "Enjoy the cozy atmosphere of the historic living rooms, which provide a particularly welcoming and warm refuge in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte etwas ab, aber eine Mütze ist ratsam; bewundern Sie die Stille der winterlichen Kathedrale.",
+                "hu": "A vastag kőfalak némileg felfogják a hideget, de sapka viselése ajánlott; csodálja meg a téli katedrális fenséges csendjét.",
+                "ro": "Zidurile groase de piatră rețin parțial frigul, dar se recomandă purtarea unei căciuli; admirați liniștea solemnă a catedralei iarna.",
+                "en": "The thick stone walls keep some of the cold out, but a hat is advisable; admire the solemn silence of the cathedral in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Haute-Auvergne",
+                "hu": "Haute-Auvergne Múzeum",
+                "ro": "Muzeul Haute-Auvergne",
+                "en": "Haute-Auvergne Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden im warmen Inneren des Museums, um die reiche Kulturgeschichte der Region ohne Frieren zu erkunden.",
+                "hu": "Használja ki a déli órákat a múzeum meleg belső tereiben, hogy átfagyás nélkül fedezze fel a régió gazdag kultúrtörténetét.",
+                "ro": "Folosiți orele amiezii în interiorul cald al muzeului pentru a explora istoria culturală bogată a regiunii fără a îngheța.",
+                "en": "Use the midday hours inside the warm museum to explore the region's rich cultural history without getting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern von Saint-Flour",
+                "hu": "Saint-Flour városfalai",
+                "ro": "Zidurile cetății Saint-Flour",
+                "en": "Ramparts of Saint-Flour"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie spätestens um 16:30 Uhr hierher, um das kurze, aber intensive Winterlicht über der Auvergne vor dem Dunkelwerden zu sehen.",
+                "hu": "Legkésőbb 16:30-ra érjen ide, hogy még sötétedés előtt láthassa a rövid, de intenzív téli fényeket az Auvergne-i táj felett.",
+                "ro": "Mergeți aici cel târziu la ora 16:30 pentru a vedea lumina scurtă, dar intensă de iarnă peste Auvergne înainte de lăsarea întunericului.",
+                "en": "Arrive here by 4:30 PM at the latest to catch the short but intense winter light over the Auvergne landscape before dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Old Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Fluss ist im Winter schneidend kalt; beenden Sie Ihren Besuch zügig und tragen Sie winddichte Kleidung.",
+                "hu": "A folyóparti szél télen metszően hideg lehet; fejezze be gyorsan a látogatást, és viseljen szélálló, meleg ruházatot.",
+                "ro": "Vântul de lângă râu este tăios iarna; încheiați vizita rapid și purtați haine rezistente la vânt și foarte călduroase.",
+                "en": "The wind by the river is biting cold in winter; finish your visit quickly and wear windproof, warm clothing."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpártúráját a történelmi Pont Vieux hídnál a város alsó részén. Tekerjen el az ősi várfalakig, majd érje el a lenyűgöző központot és a katedrálist. Délben látogasson el a felsőváros izgalmas múzeumaiba és történelmi épületeibe. Délután tekerjen el az Arena City felé, ahol szórakoztató családi programok várják, tökéletes lezárásként ennek az aktív és tartalmas napnak.",
         "ro": "Începeți turul cu bicicleta la istoricul Pont Vieux din partea de jos a orașului. Pedalați spre vechile ziduri ale cetății înainte de a ajunge la impresionanta catedrală din centru. La prânz, vizitați muzeele fascinante din orașul de sus. După-amiaza, o plimbare relaxantă cu bicicleta vă va duce la Arena City, încheind ziua cu activități distractive pentru întreaga familie.",
         "en": "Begin your cycling journey at the historic Pont Vieux in the lower town. Pedal your way up to explore the ancient ramparts before reaching the striking cathedral in the center. Midday is perfect for exploring the upper town's fascinating museums and civic buildings. In the afternoon, enjoy a breezy ride to Arena City, ending your active day with some fun family entertainment."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt an der alten Brücke, wo das Wasser des Ander unter dem grauen Himmel rauscht. Der Aufstieg in die Oberstadt ist auf nassem Asphalt anstrengend und erfordert Vorsicht. Mittags bieten die Museen willkommene Pausen im Trockenen. Nachmittags geht es durch die nebligen Gassen zur Arena City, wo sportliche Aktivitäten in der Halle vor dem Regen schützen.",
+            "hu": "A nap az Öreg hídnál indul, ahol az Ander folyó vize zúg a szürke égbolt alatt. A felsővárosba való felkapaszkodás a vizes aszfalton óvatosságot igényel. Délben a múzeumok kínálnak száraz pihenőt a bicikliseknek. Délután a ködös utcákon át tekerünk az Arena City felé, ahol a fedett sportpályák védelmet nyújtanak az eső ellen.",
+            "ro": "Ziua începe la podul vechi, unde apa râului Ander curge rapid sub cerul gri. Urcarea spre orașul de sus pe asfaltul umed necesită prudență sporită. La prânz, muzeele oferă pauze binevenite la adăpost. După-amiaza, pedalăm prin străzile cețoase spre Arena City, unde activitățile sportive de interior ne protejează de ploaie.",
+            "en": "The day begins at the old bridge, where the Ander river rushes under gray skies. The climb to the upper town requires caution on the wet asphalt. At midday, museums offer welcome dry breaks for cyclists. In the afternoon, we ride through misty streets to Arena City, where indoor sports facilities provide shelter from the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Old Bridge"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Fugen der Brücke beim Losfahren; eine gute Regenjacke ist für den Start im Tal unverzichtbar.",
+                "hu": "Induláskor ügyeljen a híd csúszós illesztéseire; a völgyben való kezdéshez egy jó esőkabát elengedhetetlen kellék.",
+                "ro": "Atenție la îmbinările alunecoase ale podului la plecare; o jachetă de ploaie bună este indispensabilă pentru startul din vale.",
+                "en": "Watch out for the slippery joints on the bridge when starting; a good raincoat is essential for the start in the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern von Saint-Flour",
+                "hu": "Saint-Flour városfalai",
+                "ro": "Zidurile cetății Saint-Flour",
+                "en": "Ramparts of Saint-Flour"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem nassen Pflaster entlang der Mauern und genießen Sie den wolkenverhangenen Blick auf die Basaltklippen.",
+                "hu": "Tekerjen lassan a vizes kövezeten a falak mentén, és élvezze a felhőkbe burkolózó bazaltsziklák látványát a magasból.",
+                "ro": "Pedalați încet pe pavajul umed de-a lungul zidurilor și admirați vederea stâncilor de bazalt învăluite în nori.",
+                "en": "Ride slowly on the wet pavement along the walls and enjoy the view of the basalt cliffs shrouded in clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher unter und nutzen Sie den Besuch für eine trockene Pause in der beeindruckenden gotischen Halle.",
+                "hu": "Parkolja le biciklijét egy védett helyen, és használja ki a látogatást egy száraz pihenőre a lenyűgöző gótikus csarnokban.",
+                "ro": "Parcați bicicleta într-un loc sigur și profitați de vizită pentru o pauză uscată în impresionanta hală gotică.",
+                "en": "Park your bike securely and use the visit for a dry break inside the impressive Gothic cathedral hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Haute-Auvergne",
+                "hu": "Haute-Auvergne Múzeum",
+                "ro": "Muzeul Haute-Auvergne",
+                "en": "Haute-Auvergne Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die nassen Handschuhe kurz abzulegen und in die Geschichte einzutauchen, während draußen der Regen fällt.",
+                "hu": "Ideális hely, hogy rövid időre levegye a vizes kesztyűket és elmerüljön a történelemben, miközben kint esik az eső.",
+                "ro": "Un loc ideal pentru a vă scoate mănușile ude pentru scurt timp și a explora istoria în timp ce afară plouă.",
+                "en": "An ideal place to take off your wet gloves for a while and immerse yourself in history while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison Consulaire",
+                "hu": "Maison Consulaire",
+                "ro": "Maison Consulaire",
+                "en": "Maison Consulaire"
+              },
+              "tip_5lang": {
+                "de": "Der Platz bietet kleine Vorsprünge zum Unterstellen; prüfen Sie hier kurz Ihre Bremsen für die Weiterfahrt auf nasser Fahrbahn.",
+                "hu": "A tér kis kiszögelései védelmet nyújtanak; ellenőrizze itt rövidre a fékeit a vizes úton való további közlekedés előtt.",
+                "ro": "Piața oferă mici cornișe pentru adăpost; verificați-vă frânele aici înainte de a continua drumul pe carosabilul umed.",
+                "en": "The square offers small ledges for shelter; quickly check your brakes here before continuing on the wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena City",
+                "hu": "Arena City",
+                "ro": "Arena City",
+                "en": "Arena City"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in der Sporthalle, wo Sie unabhängig vom Wetter aktiv bleiben können; trocknen Sie Ihre Fahrradausrüstung.",
+                "hu": "Zárja a napot a sportcsarnokban, ahol az időjárástól függetlenül aktív maradhat; szárítsa meg itt kerékpáros felszerelését.",
+                "ro": "Încheiați ziua în sala de sport, unde puteți rămâne activ indiferent de vreme; uscați-vă echipamentul de ciclism aici.",
+                "en": "End the day at the sports complex where you can stay active regardless of the weather; dry your cycling gear here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eisiger Morgen beginnt im Tal an der alten Brücke, der Fahrtwind ist im Winter beißend. Der steile Weg nach oben bringt den Kreislauf in Schwung und wärmt auf. Mittags bieten die Kulturstätten der Oberstadt Schutz vor der Kälte. Nachmittags radeln wir im klaren Winterlicht durch Saint-Flour, bevor es um 17:00 Uhr dunkel wird und wir den Tag sportlich ausklingen lassen.",
+            "hu": "Jeges reggel indul a völgyben az Öreg hídnál, a menetszél télen metszően hideg. A meredek út felfelé segít felmelegedni és felpörgetni a keringést. Napközben a felsőváros kulturális helyszínei nyújtanak védelmet a fagy ellen. Délután a tiszta téli fényben tekerünk át Saint-Flour-on, mielőtt 17:00-kor besötétedik és a sportcsarnokba érünk.",
+            "ro": "O dimineață gerosă începe în vale la podul vechi, unde vântul este tăios iarna. Urcarea abruptă spre orașul de sus vă va ajuta să vă încălziți. La prânz, locurile culturale oferă protecție împotriva gerului. După-amiaza, pedalăm prin Saint-Flour în lumina clară de iarnă, înainte de lăsarea întunericului la ora 17:00.",
+            "en": "An icy morning begins in the valley at the old bridge; the wind chill is biting in winter. The steep climb up helps you warm up and gets the circulation going. During the day, the cultural sites of the upper town offer protection from the frost. In the afternoon, we ride through Saint-Flour in the clear winter light before dark falls at 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Old Bridge"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt winddichte Handschuhe, da die Kälte am Flussufer im Winter besonders intensiv zu spüren ist.",
+                "hu": "Mindenképpen viseljen szélálló kesztyűt, mivel a folyóparti hideg télen különösen intenzíven érezhető kerékpározás közben.",
+                "ro": "Purtați neapărat mănuși rezistente la vânt, deoarece frigul de lângă râu este resimțit intens iarna în timpul mersului.",
+                "en": "Be sure to wear windproof gloves, as the cold by the river is particularly intense in winter while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern von Saint-Flour",
+                "hu": "Saint-Flour városfalai",
+                "ro": "Zidurile cetății Saint-Flour",
+                "en": "Ramparts of Saint-Flour"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor möglichen Glatteisstellen in schattigen Abschnitten der Mauer; genießen Sie die klare Sicht auf die verschneiten Berge.",
+                "hu": "Vigyázzon az esetleges jeges foltokra a fal árnyékos szakaszain; élvezze a tiszta kilátást a távoli havas hegycsúcsokra.",
+                "ro": "Atenție la posibilele porțiuni cu polei în zonele umbrite ale zidului; admirați vederea clară spre munții înzăpeziți.",
+                "en": "Watch out for potential ice patches in shaded sections of the wall; enjoy the clear view of the distant snowy mountain peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kathedrale als windgeschützten Ort für eine kurze Rast, um die kalten Finger wieder aufzuwärmen.",
+                "hu": "Használja a katedrálist szélvédett helyként egy rövid pihenőre, hogy felmelegítse elgémberedett ujjait a továbbindulás előtt.",
+                "ro": "Folosiți catedrala ca loc ferit de vânt pentru un scurt popas, util pentru a vă încălzi degetele amorțite de frig.",
+                "en": "Use the cathedral as a wind-sheltered place for a short break to warm up your cold fingers before riding on."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Haute-Auvergne",
+                "hu": "Haute-Auvergne Múzeum",
+                "ro": "Muzeul Haute-Auvergne",
+                "en": "Haute-Auvergne Museum"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Museum ist der perfekte Stopp zur Mittagszeit, um die Winterkälte für eine Weile ganz zu vergessen.",
+                "hu": "A fűtött múzeum tökéletes megálló délidőben, hogy egy időre teljesen elfelejtse a kinti téli fagyot és hideget.",
+                "ro": "Muzeul încălzit este oprirea perfectă la prânz pentru a uita pentru o vreme de gerul și frigul de afară.",
+                "en": "The heated museum is the perfect stop at midday to completely forget the winter frost and cold outside for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison Consulaire",
+                "hu": "Maison Consulaire",
+                "ro": "Maison Consulaire",
+                "en": "Maison Consulaire"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und beleuchtet die Fassade wunderschön; halten Sie kurz an, aber bleiben Sie in Bewegung, um warm zu bleiben.",
+                "hu": "A nap alacsonyan jár és gyönyörűen megvilágítja a homlokzatot; álljon meg egy percre, de maradjon mozgásban a hőérzet miatt.",
+                "ro": "Soarele este jos și luminează frumos fațada; opriți-vă pentru un moment, dar rămâneți în mișcare pentru a vă menține căldura.",
+                "en": "The sun is low and illuminates the facade beautifully; stop for a moment but keep moving to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena City",
+                "hu": "Arena City",
+                "ro": "Arena City",
+                "en": "Arena City"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Abschluss in der warmen Halle, wenn es draußen bereits dunkel und frostig wird; machen Sie noch etwas Indoor-Sport.",
+                "hu": "Ideális befejezés a meleg csarnokban, amikor kint már sötét és fagyos az idő; sportoljon még egy kicsit beltéren.",
+                "ro": "Un final ideal în sala caldă, când afară este deja întuneric și ger; faceți puțin sport în interior înainte de final.",
+                "en": "An ideal finish in the warm hall when it is already dark and frosty outside; enjoy some indoor sports to end the day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a napot a felsővárosban a fenséges katedrális és a várfalak megtekintésével. Ezután vezessen le a Pont Vieux-hoz egy történelmi fotószünetre. Délben tegyen egy rövid kitérőt az Arena City szabadidőközpontba. Délután a természet hívogat: fedezze fel a festői Lac du Sailhant krátertavat, és fejezze be a fantasztikus utazást a lenyűgöző Grandval gátnál és hatalmas víztározójánál.",
         "ro": "Începeți ziua în orașul de sus vizitând maiestuoasa catedrală și meterezele. Conduceți apoi spre Pont Vieux pentru o scurtă oprire fotografică istorică. La prânz, faceți o vizită rapidă la Arena City pentru puțină distracție. După-amiaza este dedicată naturii: explorați pitorescul Lac du Sailhant și încheiați acest tur spectaculos la impresionantul baraj și lac de acumulare Grandval.",
         "en": "Start your driving tour in the upper town, visiting the majestic cathedral and strolling the historic ramparts. Drive down to the Pont Vieux for a picturesque photo stop. Midday, pop into Arena City for a bit of leisure. The afternoon is all about natural beauty: explore the stunning crater lake of Lac du Sailhant, and conclude your grand tour at the impressive Grandval dam and reservoir."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Saint-Flour bequem und trocken trotz des Regens. Der Vormittag gehört den historischen Schätzen der Oberstadt, während die Scheibenwischer die Sicht auf den dunklen Basalt freigeben. Mittags fahren wir zum Arena City für Indoor-Spaß. Am Nachmittag führt die Route zu den umliegenden Seen, deren neblige Ufer durch das Autofenster besonders dramatisch wirken.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Saint-Flour-t az eső ellenére is. A délelőtt a felsőváros történelmi kincseié, miközben az ablaktörlők mögül csodáljuk a sötét bazaltépületeket. Délben az Arena City felé vesszük az irányt beltéri szórakozásért. Délután a környékbeli tavakhoz autózunk, melyek ködös partjai az ablakból nézve különösen drámaiak.",
+            "ro": "Cu mașina explorați Saint-Flour confortabil și la uscat, în ciuda ploii. Dimineața aparține comorilor istorice din orașul de sus, în timp ce ștergătoarele curăță vederea spre bazaltul negru. La prânz mergem spre Arena City pentru distracție la interior. După-amiaza, ruta duce spre lacurile din jur, ale căror maluri cețoase par dramatice prin fereastra mașinii.",
+            "en": "By car, you can explore Saint-Flour comfortably and stay dry despite the rain. The morning is dedicated to the historic treasures of the upper town, watching the dark basalt buildings through the wipers. At midday, we head to Arena City for indoor fun. In the afternoon, the route leads to nearby lakes, whose misty shores look particularly dramatic through the car window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Platz, um nur wenige Meter durch den Regen zur beeindruckenden Kathedrale laufen zu müssen.",
+                "hu": "Parkoljon közvetlenül a téren, így csak pár métert kell megtennie az esőben a lenyűgöző katedrális bejáratáig.",
+                "ro": "Parcați direct în piață pentru a merge doar câțiva metri prin ploaie până la catedrala impresionantă.",
+                "en": "Park directly on the square to minimize the walk through the rain to the impressive cathedral entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern von Saint-Flour",
+                "hu": "Saint-Flour városfalai",
+                "ro": "Zidurile cetății Saint-Flour",
+                "en": "Ramparts of Saint-Flour"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem warmen Auto heraus oder machen Sie einen kurzen, erfrischenden Gang mit dem Schirm.",
+                "hu": "Élvezze a panorámát a meleg autóból, vagy tegyen egy rövid, frissítő sétát az esernyője alatt a falak mentén.",
+                "ro": "Bucurați-vă de panorama din mașina caldă sau faceți o scurtă plimbare revigorantă cu umbrela de-a lungul zidurilor.",
+                "en": "Enjoy the panoramic view from your warm car or take a short, refreshing walk with an umbrella along the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Old Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke ist bei Regen oft menschenleer; nutzen Sie den nahen Parkplatz für ein schnelles Foto des angeschwollenen Flusses.",
+                "hu": "A híd esőben gyakran néptelen; használja a közeli parkolót egy gyors fotóhoz a megduzzadt Ander folyóról.",
+                "ro": "Podul este adesea pustiu pe ploaie; folosiți parcarea din apropiere pentru o fotografie rapidă a râului umflat.",
+                "en": "The bridge is often deserted in the rain; use the nearby parking for a quick photo of the swollen Ander river."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena City",
+                "hu": "Arena City",
+                "ro": "Arena City",
+                "en": "Arena City"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort bei Starkregen, wo Sie das Auto sicher abstellen und sich drinnen ausgiebig bewegen können.",
+                "hu": "Tökéletes menedék heves esőzés idején, ahol biztonságban hagyhatja az autót, és odabent kedvére mozoghat.",
+                "ro": "Un refugiu perfect în caz de ploaie torențială, unde puteți lăsa mașina în siguranță și vă puteți mișca în interior.",
+                "en": "A perfect refuge during heavy rain, where you can leave the car safely and enjoy moving around indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "See von Sailhant",
+                "hu": "Sailhant-tó",
+                "ro": "Lacul Sailhant",
+                "en": "Lake Sailhant"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall am See ist nach Regen besonders kraftvoll; betrachten Sie das Naturschauspiel bequem von einem nahen Aussichtspunkt.",
+                "hu": "A tónál lévő vízesés eső után különösen erőteljes; nézze meg a természeti látványosságot egy közeli kilátópontról.",
+                "ro": "Cascada de la lac este deosebit de puternică după ploaie; admirați spectacolul naturii de la un punct de observație apropiat.",
+                "en": "The waterfall at the lake is particularly powerful after rain; watch the natural spectacle from a nearby viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Grandval-Stausee",
+                "hu": "Grandval-víztározó",
+                "ro": "Lacul de acumulare Grandval",
+                "en": "Grandval Dam Lake"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Weite des Sees wirkt mystisch; genießen Sie die Fahrt am Ufer entlang und bleiben Sie bei Schauern im Wagen.",
+                "hu": "A tó ködös víztükre misztikus hatást kelt; élvezze az autózást a part mentén, és maradjon a kocsiban a záporok alatt.",
+                "ro": "Întinderea cețoasă a lacului pare mistică; bucurați-vă de drumul de-a lungul malului și rămâneți în mașină în timpul averselor.",
+                "en": "The misty expanse of the lake looks mystical; enjoy driving along the shore and stay in the car during heavy showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten durch die Auvergne bieten atemberaubende Ausblicke auf verschneite Hochebenen. Der Vormittag ist der Kultur in den beheizten Gebäuden von Saint-Flour gewidmet. Mittags geht es zum Sportkomplex, um die Kälte zu vertreiben. Am Nachmittag führt die Fahrt zu den gefrorenen Seen, wo das klare Winterlicht für fantastische Fotos sorgt, bevor die Dämmerung früh einsetzt.",
+            "hu": "A téli autózás az Auvergne-i tájon lélegzetelállító kilátást nyújt a havas fennsíkokra. A délelőtt a fűtött épületek kulturális kincseié Saint-Flour-ban. Délben a sportkomplexumba megyünk, hogy elűzzük a hideget. Délután a befagyott tavakhoz autózunk, ahol a tiszta téli fények fantasztikus fotótémát kínálnak a korai sötétedés előtt.",
+            "ro": "Călătoriile cu mașina iarna prin Auvergne oferă priveliști uluitoare spre podișurile înzăpezite. Dimineața este dedicată culturii în clădirile încălzite din Saint-Flour. La prânz mergem la complexul sportiv pentru a alunga frigul. După-amiaza, drumul duce spre lacurile înghețate, unde lumina clară oferă cadre fantastice înainte de amurg.",
+            "en": "Winter drives through Auvergne offer breathtaking views of snowy plateaus. The morning is dedicated to culture inside the heated buildings of Saint-Flour. At midday, we head to the sports complex to drive away the cold. In the afternoon, the drive leads to frozen lakes, where the clear winter light provides fantastic photo opportunities before early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung Ihres Autos nach dem Besuch der kühlen Kathedrale, um schnell wieder auf Betriebstemperatur zu kommen.",
+                "hu": "Használja autója ülésfűtését a hűvös katedrális meglátogatása után, hogy gyorsan visszanyerje optimális hőérzetét.",
+                "ro": "Folosiți încălzirea în scaune a mașinii după vizitarea catedralei răcoroase pentru a vă reîncălzi rapid.",
+                "en": "Use your car's seat heating after visiting the cool cathedral to quickly get back to a comfortable temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtmauern von Saint-Flour",
+                "hu": "Saint-Flour városfalai",
+                "ro": "Zidurile cetății Saint-Flour",
+                "en": "Ramparts of Saint-Flour"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die verschneiten Cantal-Berge ist im Winter bei klarem Himmel am besten; parken Sie für einen kurzen Fotostopp.",
+                "hu": "A kilátás a havas Cantal-hegyekre télen, tiszta égbolt mellett a legszebb; parkoljon le egy rövid fotómegálló erejéig.",
+                "ro": "Vederea spre munții Cantal înzăpeziți este cea mai bună iarna pe cer senin; parcați pentru o scurtă oprire fotografică.",
+                "en": "The view of the snowy Cantal mountains is best in winter under clear skies; park for a short photo stop along the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke",
+                "hu": "Öreg híd",
+                "ro": "Podul Vechi",
+                "en": "Old Bridge"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Fahrt ins Tal auf mögliche Straßenglätte; die Brücke selbst wirkt im Winterfrost wie verzaubert.",
+                "hu": "A völgybe való leereszkedéskor ügyeljen az esetleges jegesedésre; a híd a téli fagyban egészen varázslatos látványt nyújt.",
+                "ro": "Atenție la polei pe drumul spre vale; podul însuși pare vrăjit sub înghețul iernii, oferind un peisaj de basm.",
+                "en": "Watch out for potential ice on the road down to the valley; the bridge looks quite magical in the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena City",
+                "hu": "Arena City",
+                "ro": "Arena City",
+                "en": "Arena City"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um der Kälte zu entgehen, und genießen Sie die warme, aktive Atmosphäre in der Sporthalle.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a fagyos szelet, és élvezze a meleg, aktív hangulatot a sportcsarnokban.",
+                "ro": "Parcați aproape de intrare pentru a evita vântul tăios și bucurați-vă de atmosfera caldă și activă din sala de sport.",
+                "en": "Park close to the entrance to avoid the freezing wind and enjoy the warm, active atmosphere inside the sports hall."
+              }
+            },
+            {
+              "name": {
+                "de": "See von Sailhant",
+                "hu": "Sailhant-tó",
+                "ro": "Lacul Sailhant",
+                "en": "Lake Sailhant"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Frost kann der Wasserfall teilweise gefrieren; ein seltener und wunderschöner Anblick, den man vom Auto aus sehen kann.",
+                "hu": "Erős fagyban a vízesés részben megfagyhat; ez egy ritka és gyönyörű látvány, amelyet az autóból is megcsodálhat.",
+                "ro": "În caz de ger puternic, cascada poate îngheța parțial; o priveliște rară și frumoasă care poate fi admirată din mașină.",
+                "en": "In heavy frost, the waterfall can partially freeze; a rare and beautiful sight that can be admired from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Grandval-Stausee",
+                "hu": "Grandval-víztározó",
+                "ro": "Lacul de acumulare Grandval",
+                "en": "Grandval Dam Lake"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihr Wagen winterfest ist, da die Straßen zum See oft verschneit sind; die Wintersonne glitzert herrlich auf dem Eis.",
+                "hu": "Győződjön meg róla, hogy autója fel van készítve a télre, mivel a tóhoz vezető utak havasak lehetnek; a nap csodásan csillog a jégen.",
+                "ro": "Asigurați-vă că mașina este pregătită de iarnă, deoarece drumurile spre lac pot fi înzăpezite; soarele sclipeste superb pe gheață.",
+                "en": "Ensure your car is winter-ready as the roads to the lake can be snowy; the winter sun glitters beautifully on the ice."
+              }
+            }
+          ]
+        }
       }
     }
   }

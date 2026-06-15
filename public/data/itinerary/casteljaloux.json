@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot Casteljaloux történelmi szívében. Csodálja meg a fagerendás Maison du Roy épületét, mielőtt felfedezné a békés Couvent des Cordeliers-t és a Notre-Dame templomot.\n\nMidday: Kövesse a középkori várfalak maradványait, és merüljön el a város erődített múltjában. Kényeztesse magát egy kiadós gascogne-i ebéddel a főtér közeli bisztrók egyikében.\n\nAfternoon: Hagyja maga mögött a városközpontot, és élvezze a régió természeti szépségeit. Akár a termálfürdőben pihen, akár a Lac de Clarens homokos partjait fedezi fel, nyugalom várja.\n\nEvening: Zárja a kirándulást egy kellemes vízparti sétával, miközben a nap lenyugszik a fenyvesek felett. Fogyasszon el egy nyugodt vacsorát helyi borokkal és regionális finomságokkal.",
         "ro": "Morning: Începeți ziua în inima istorică a orașului Casteljaloux. Admirați Maison du Roy cu structura sa de lemn, înainte de a explora liniștitul Couvent des Cordeliers și Église Notre-Dame.\n\nMidday: Urmați rămășițele meterezelor medievale reflectând la trecutul fortificat. Răsfățați-vă cu un prânz gascon copios într-unul dintre bistrourile locale din apropierea pieței centrale.\n\nAfternoon: Lăsați centrul orașului în urmă și îmbrățișați frumusețea naturală a regiunii. Fie că vă relaxați în băile termale sau explorați malurile lacului Clarens, liniștea vă așteaptă.\n\nEvening: Încheiați excursia cu o plimbare pe malul apei în timp ce soarele apune peste pădurile de pini. Bucurați-vă de o cină relaxată, savurând vinuri locale și delicatese regionale.",
         "en": "Morning: Start your day in the historic heart of Casteljaloux. Admire the half-timbered Maison du Roy before exploring the peaceful Couvent des Cordeliers and the striking Église Notre-Dame.\n\nMidday: Follow the remnants of the medieval ramparts as you reflect on the town's fortified past. Treat yourself to a hearty Gascon lunch in one of the local bistros near the town square.\n\nAfternoon: Leave the town center behind and embrace the natural beauty of the region. Whether relaxing in the famous thermal baths or exploring the sandy shores of Lac de Clarens, tranquility awaits.\n\nEvening: Conclude your excursion with a leisurely stroll by the water as the sun sets over the pine forests. Enjoy a relaxed dinner, savoring local wines and regional delicacies."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Maison du Roy, wo Sie trocken in die Geschichte eintauchen können. Mittags bieten das Kloster und die Kirche schützende Dächer für besinnliche Momente. Der Nachmittag gehört den Thermen, die bei Regen der perfekte Rückzugsort sind. Den Abend lassen Sie gemütlich ausklingen, während die nassen Gassen der Stadt im Schein der Laternen glänzen.",
+            "hu": "Kezdje a reggelt a Maison du Roy falai között, ahol az eső elől menedéket találva ismerkedhet a város múltjával. Délben a kolostor és a templom fedett belső terei nyújtanak nyugalmat és száraz pihenőt. Délután a termálfürdő forró vize a legjobb választás a szürke időben. Az estét zárja egy rövid sétával a vizes óvárosi utcákon, élvezve a lámpák tükröződését a fényes köveken.",
+            "ro": "Începeți dimineața ploioasă la Maison du Roy, unde puteți explora istoria locală la adăpost. La prânz, mănăstirea și biserica oferă interioare uscate pentru o pauză liniștită. După-amiaza este dedicată termelor, refugiul ideal atunci când plouă afară. Încheiați seara cu o plimbare scurtă pe străzile umede, admirând reflexiile luminilor orașului în bălțile de pe trotuar.",
+            "en": "Start your rainy morning at Maison du Roy, finding shelter while exploring local history. At midday, the convent and church provide covered interiors for a peaceful break from the weather. The afternoon is best spent at the thermal baths, the perfect indoor escape. Finish the evening with a short walk through the glistening wet streets, enjoying the urban reflections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Roy",
+                "hu": "Maison du Roy",
+                "ro": "Maison du Roy",
+                "en": "Maison du Roy"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren dieses Renaissance-Hauses; es ist der ideale Ort, um die Tour trocken zu starten und ein Regencape zu kaufen.",
+                "hu": "Fedezze fel a reneszánsz épület belső kiállításait; ez a legjobb hely, hogy szárazon kezdje a napot, és szükség esetén esőköpenyt szerezzen be.",
+                "ro": "Explorați expozițiile interioare ale acestei case renascentiste; este locul ideal pentru a începe turul la uscat și pentru a cumpăra o pelerină de ploaie.",
+                "en": "Explore the indoor exhibits of this Renaissance house; it is the ideal place to start your tour dry and pick up a rain poncho if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Cordeliers",
+                "hu": "Couvent des Cordeliers",
+                "ro": "Couvent des Cordeliers",
+                "en": "Couvent des Cordeliers"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Kreuzgänge, um die Architektur zu bewundern, ohne nass zu werden; die Akustik des Regens ist hier besonders beruhigend.",
+                "hu": "Használja ki a fedett folyosókat az építészet megcsodálására anélkül, hogy elázna; az eső kopogása itt különösen megnyugtató hangulatot áraszt.",
+                "ro": "Folosiți galeriile acoperite pentru a admira arhitectura fără a vă uda; sunetul ploii pe acoperiș creează aici o atmosferă foarte relaxantă.",
+                "en": "Take advantage of the covered walkways to admire the architecture without getting wet; the sound of rain here creates a very peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen trockenen Zufluchtsort; bewundern Sie die Glasfenster, die auch bei grauem Himmel ein mystisches Licht in den Innenraum werfen.",
+                "hu": "A templom kiváló menedéket nyújt az eső elől; csodálja meg az üvegablakokat, amelyek szürke égbolt mellett is misztikus fényt árasztanak bent.",
+                "ro": "Biserica oferă un refugiu uscat excelent; admirați vitraliile care, chiar și sub un cer gri, proiectează o lumină mistică în interiorul navei.",
+                "en": "The church offers an excellent dry refuge; admire the stained glass windows which, even under grey skies, cast a mystical light inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Remparts de Casteljaloux",
+                "hu": "Casteljaloux Várfalai",
+                "ro": "Meterezele din Casteljaloux",
+                "en": "Remparts de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur einen kurzen Fotostopp bei den Mauern und achten Sie auf rutschiges Kopfsteinpflaster; ein Regenschirm ist bei diesem Wind unerlässlich.",
+                "hu": "Csak egy rövid fotómegállót tartsanak a falaknál, és ügyeljenek a csúszós macskakövekre; a szél miatt egy stabil esernyő elengedhetetlen itt.",
+                "ro": "Faceți doar o scurtă oprire pentru poze la ziduri și atenție la pavajul alunecos; o umbrelă rezistentă este esențială din cauza vântului.",
+                "en": "Keep your stop at the walls brief and watch out for slippery cobblestones; a sturdy umbrella is essential here due to the potential wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes de Casteljaloux",
+                "hu": "Casteljaloux Termálfürdő",
+                "ro": "Băile Termale Casteljaloux",
+                "en": "Thermes de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Dies ist das Highlight an Regentagen; entspannen Sie im heißen Wasser, während die Tropfen auf die Außenbecken prasseln – pure Erholung.",
+                "hu": "Ez a nap fénypontja esőben; lazítson a forró vízben, miközben az esőcseppek a külső medencék felszínén táncolnak – igazi relaxáció.",
+                "ro": "Acesta este punctul culminant în zilele ploioase; relaxați-vă în apa fierbinte în timp ce stropii de ploaie cad în bazinele exterioare.",
+                "en": "This is the highlight of a rainy day; relax in the hot water while raindrops dance on the surface of the outdoor pools – pure relaxation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Maison du Roy, wo die Heizung für wohlige Wärme sorgt. Mittags erkunden Sie die historischen Stätten, wobei die kühle Luft die Sinne schärft. Am frühen Nachmittag, bevor die Sonne gegen 17:00 Uhr sinkt, tauchen Sie in die heißen Quellen der Thermen ein. Den Abend verbringen Sie bei einem wärmenden Getränk in der Nähe des beleuchteten Stadtzentrums.",
+            "hu": "A friss téli reggel a Maison du Roy falai között indul, ahol a fűtött terek kellemes meleget adnak. Délben a történelmi helyszíneken tett séta során a hűvös levegő frissítően hat. Kora délután, még a 17:00 órai naplemente előtt, merüljön el a termálfürdő gőzölgő vizében. Az estét töltse a kivilágított központ közelében, egy forró ital társaságában.",
+            "ro": "O dimineață crocantă de iarnă începe la Maison du Roy, unde spațiile încălzite oferă confort. La prânz, explorarea siturilor istorice este revigorantă în aerul rece. După-amiaza devreme, înainte ca soarele să apună în jur de ora 17:00, scufundați-vă în apele termale aburinde. Seara este rezervată relaxării lângă centrul luminat, cu o băutură caldă în mână.",
+            "en": "A crisp winter morning starts at Maison du Roy, where heated rooms provide cozy comfort. At midday, exploring historical sites is refreshing in the cool air. In the early afternoon, before the sun sets around 5:00 PM, immerse yourself in the steaming thermal waters. Spend the evening near the illuminated city center with a warming drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Roy",
+                "hu": "Maison du Roy",
+                "ro": "Maison du Roy",
+                "en": "Maison du Roy"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Informationszentrum, um sich aufzuwärmen und den Stadtplan zu studieren; warme Kleidung ist für den Rest des Weges sehr wichtig.",
+                "hu": "Használja ki az információs központot a felmelegedésre és a térkép áttanulmányozására; a réteges, meleg öltözet elengedhetetlen a nap további részében.",
+                "ro": "Folosiți centrul de informare pentru a vă încălzi și a studia harta; îmbrăcămintea groasă este esențială pentru restul traseului în aer liber.",
+                "en": "Use the information center to warm up and study the map; layered, warm clothing is essential for the rest of your outdoor walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Cordeliers",
+                "hu": "Couvent des Cordeliers",
+                "ro": "Couvent des Cordeliers",
+                "en": "Couvent des Cordeliers"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen im Winter Kälte aus, daher sollten Sie sich in Bewegung halten, um die klösterliche Stille und Architektur zu genießen.",
+                "hu": "A kőfalak télen árasztják a hideget, ezért maradjon mozgásban, miközben megcsodálja a kolostori csendet és a különleges építészeti megoldásokat.",
+                "ro": "Zidurile de piatră emană frig iarna, așa că rămâneți în mișcare în timp ce admirați liniștea mănăstirii și detaliile arhitecturale unice.",
+                "en": "The stone walls radiate cold in winter, so keep moving while you admire the monastic silence and the unique architectural features."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Schutz vor dem Wind; zünden Sie eine Kerze an, um die warme Atmosphäre in der stillen, winterlichen Kirche zu genießen.",
+                "hu": "A belső tér védelmet nyújt a szél elől; gyújtson egy gyertyát, és élvezze a csendes, téli templom meghitt és áhítatos hangulatát.",
+                "ro": "Interiorul oferă protecție împotriva vântului; aprindeți o lumânare și bucurați-vă de atmosfera liniștită și caldă a bisericii în timpul iernii.",
+                "en": "The interior provides protection from the wind; light a candle and enjoy the peaceful, warm atmosphere of the church during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Remparts de Casteljaloux",
+                "hu": "Casteljaloux Várfalai",
+                "ro": "Meterezele din Casteljaloux",
+                "en": "Remparts de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht von den Mauern ist bei klarer Winterluft besonders weit, aber achten Sie auf vereiste Stellen auf den Wegen; Handschuhe einpacken.",
+                "hu": "A kilátás a falakról a tiszta téli levegőben messzire nyúlik, de figyeljen a jeges foltokra az utakon; a kesztyű viselete itt erősen ajánlott.",
+                "ro": "Priveliștea de pe ziduri este spectaculoasă în aerul curat de iarnă, dar atenție la porțiunile înghețate; nu uitați să purtați mănuși groase.",
+                "en": "The view from the walls stretches far in the clear winter air, but watch out for icy patches on the paths; wearing gloves is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes de Casteljaloux",
+                "hu": "Casteljaloux Termálfürdő",
+                "ro": "Băile Termale Casteljaloux",
+                "en": "Thermes de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist dies der ultimative Ort; der Kontrast zwischen der kalten Luft und dem heißen Wasser ist ein unvergessliches Wellness-Erlebnis.",
+                "hu": "Télen ez a tökéletes helyszín; a hideg levegő és a forró víz közötti kontraszt felejthetetlen és frissítő wellness-élményt nyújt minden látogatónak.",
+                "ro": "Iarna, acesta este locul suprem; contrastul dintre aerul rece și apa fierbinte oferă o experiență de wellness de neuitat și revigorantă.",
+                "en": "In winter, this is the ultimate spot; the contrast between the cold air and the hot water provides an unforgettable and refreshing wellness experience."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Kezdje a napot Casteljaloux történelmi szívében. Csodálja meg a fagerendás Maison du Roy épületét, mielőtt felfedezné a békés Couvent des Cordeliers-t és a Notre-Dame templomot.\n\nMidday: Kövesse a középkori várfalak maradványait, és merüljön el a város erődített múltjában. Kényeztesse magát egy kiadós gascogne-i ebéddel a főtér közeli bisztrók egyikében.\n\nAfternoon: Hagyja maga mögött a városközpontot, és élvezze a régió természeti szépségeit. Akár a termálfürdőben pihen, akár a Lac de Clarens homokos partjait fedezi fel, nyugalom várja.\n\nEvening: Zárja a kirándulást egy kellemes vízparti sétával, miközben a nap lenyugszik a fenyvesek felett. Fogyasszon el egy nyugodt vacsorát helyi borokkal és regionális finomságokkal.",
         "ro": "Morning: Începeți ziua în inima istorică a orașului Casteljaloux. Admirați Maison du Roy cu structura sa de lemn, înainte de a explora liniștitul Couvent des Cordeliers și Église Notre-Dame.\n\nMidday: Urmați rămășițele meterezelor medievale reflectând la trecutul fortificat. Răsfățați-vă cu un prânz gascon copios într-unul dintre bistrourile locale din apropierea pieței centrale.\n\nAfternoon: Lăsați centrul orașului în urmă și îmbrățișați frumusețea naturală a regiunii. Fie că vă relaxați în băile termale sau explorați malurile lacului Clarens, liniștea vă așteaptă.\n\nEvening: Încheiați excursia cu o plimbare pe malul apei în timp ce soarele apune peste pădurile de pini. Bucurați-vă de o cină relaxată, savurând vinuri locale și delicatese regionale.",
         "en": "Morning: Start your day in the historic heart of Casteljaloux. Admire the half-timbered Maison du Roy before exploring the peaceful Couvent des Cordeliers and the striking Église Notre-Dame.\n\nMidday: Follow the remnants of the medieval ramparts as you reflect on the town's fortified past. Treat yourself to a hearty Gascon lunch in one of the local bistros near the town square.\n\nAfternoon: Leave the town center behind and embrace the natural beauty of the region. Whether relaxing in the famous thermal baths or exploring the sandy shores of Lac de Clarens, tranquility awaits.\n\nEvening: Conclude your excursion with a leisurely stroll by the water as the sun sets over the pine forests. Enjoy a relaxed dinner, savoring local wines and regional delicacies."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen beginnt die Radtour am Maison du Roy. Mittags radeln Sie vorsichtig durch die Stadt zur Kirche und den Mauern. Der Nachmittag führt Sie zum See von Clarens, wo die Natur im Regen besonders intensiv duftet. Ein Besuch in den Thermen bietet zwischendurch die nötige Wärme, bevor Sie am Abend Ihre nasse Ausrüstung gegen trockene Kleidung tauschen.",
+            "hu": "Az eső ellenére a kerékpártúra a Maison du Roy-tól indul. Délben óvatosan tekeregjen a városban a templom és a várfalak érintésével. Délután a Clarens-tóhoz vezet az út, ahol az esőben a természet illata még intenzívebb. A termálfürdő közbeiktatása segít átmelegedni, mielőtt este száraz ruhára cserélné vizes felszerelését.",
+            "ro": "În ciuda ploii, turul cu bicicleta începe la Maison du Roy. La prânz, pedalați cu atenție prin oraș spre biserică și metereze. După-amiaza vă îndreptați spre Lacul Clarens, unde natura miroase intens în ploaie. O vizită la terme vă va ajuta să vă încălziți înainte de a schimba echipamentul ud seara.",
+            "en": "Despite the rain, the bike tour starts at Maison du Roy. At midday, cycle carefully through town to the church and walls. The afternoon takes you to Lake Clarens, where nature's scent is intensified by the rain. Stopping at the thermal baths provides much-needed warmth before changing into dry clothes in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Roy",
+                "hu": "Maison du Roy",
+                "ro": "Maison du Roy",
+                "en": "Maison du Roy"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Start Ihre Bremsen, da nasse Straßen rutschig sind; im Gebäude können Sie sich noch einmal kurz unterstellen und die Route planen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket, mert a vizes utak csúszósak; az épületben még egyszer utoljára átnézheti az útvonalat az eső elől védve.",
+                "ro": "Verificați frânele înainte de a pleca, deoarece drumurile umede sunt alunecoase; în clădire puteți să vă mai adăpostiți puțin și să planificați ruta.",
+                "en": "Check your brakes before starting as wet roads are slippery; inside the building, you can take a final moment to shelter and plan your route."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen sicheren Abstellplatz für Ihr Rad und nutzen Sie die Pause für eine trockene Besichtigung des beeindruckenden Kirchenschiffs.",
+                "hu": "Keressen egy biztonságos, fedett helyet a kerékpárnak, és használja ki a szünetet a lenyűgöző templombelső száraz és nyugodt megtekintésére.",
+                "ro": "Găsiți un loc sigur și acoperit pentru bicicletă și profitați de pauză pentru o vizită uscată în interiorul impresionant al bisericii.",
+                "en": "Find a safe, covered spot for your bike and take advantage of the break for a dry visit to the impressive interior of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Remparts de Casteljaloux",
+                "hu": "Casteljaloux Várfalai",
+                "ro": "Meterezele din Casteljaloux",
+                "en": "Remparts de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Radfahren direkt auf den Mauern Pfützen; ein kurzer Halt reicht aus, um die historischen Verteidigungsanlagen kurz zu bestaunen.",
+                "hu": "Kerékpározás közben kerülje el a tócsákat a falak környékén; egy rövid megálló is elég, hogy megcsodálja ezeket a történelmi erődítményeket.",
+                "ro": "Evitați bălțile când pedalați în apropierea zidurilor; o scurtă oprire este suficientă pentru a admira aceste fortificații istorice vechi.",
+                "en": "Avoid puddles while cycling near the walls; a brief stop is enough to admire these historic fortifications even in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes de Casteljaloux",
+                "hu": "Casteljaloux Termálfürdő",
+                "ro": "Băile Termale Casteljaloux",
+                "en": "Thermes de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Belohnung für nasse Radfahrer; wärmen Sie Ihre Muskeln im Thermalwasser auf, bevor Sie die Fahrt zum See fortsetzen.",
+                "hu": "Tökéletes jutalom az elázott kerékpárosoknak; melegítse át az izmait a termálvízben, mielőtt továbbhajtana a tó irányába az esős tájon.",
+                "ro": "Recompensa perfectă pentru bicicliștii uzi; încălziți-vă mușchii în apa termală înainte de a continua drumul spre lac prin ploaie.",
+                "en": "The perfect reward for wet cyclists; warm up your muscles in the thermal water before continuing your ride toward the lake through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Clarens",
+                "hu": "Lac de Clarens",
+                "ro": "Lacul Clarens",
+                "en": "Lac de Clarens"
+              },
+              "tip_5lang": {
+                "de": "Die Wege um den See können schlammig sein; genießen Sie die mystische Atmosphäre des Sees im Regen und halten Sie am Ufer nur kurz an.",
+                "hu": "A tó körüli utak sarasak lehetnek; élvezze a tó misztikus hangulatát az esőben, de a parton csak rövid ideig tartózkodjon a szél miatt.",
+                "ro": "Potecile din jurul lacului pot fi noroioase; bucurați-vă de atmosfera mistică a lacului în ploaie, dar nu staționați mult pe mal.",
+                "en": "Paths around the lake might be muddy; enjoy the mystical atmosphere of the lake in the rain, but keep your stop on the shore brief."
+              }
+            },
+            {
+              "name": {
+                "de": "AquaFun' Park Clarens",
+                "hu": "AquaFun' Park Clarens",
+                "ro": "AquaFun' Park Clarens",
+                "en": "AquaFun' Park Clarens"
+              },
+              "tip_5lang": {
+                "de": "Da der Park im Freien liegt, ist er bei starkem Regen weniger einladend, bietet aber eine dramatische Kulisse für ein schnelles Foto.",
+                "hu": "Mivel a park szabadtéri, erős esőben kevésbé hívogató, de drámai hátteret biztosít egy gyors fotóhoz a kerékpáros kaland emlékére.",
+                "ro": "Deoarece parcul este în aer liber, este mai puțin primitor pe ploaie puternică, dar oferă un cadru dramatic pentru o fotografie rapidă.",
+                "en": "Since the park is outdoors, it's less inviting in heavy rain, but it provides a dramatic backdrop for a quick photo of your bike adventure."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie dick eingepackt am Maison du Roy in den Wintertag. Die Fahrt durch die Stadt zur Kirche ist erfrischend. Mittags bieten die Thermen eine willkommene Aufwärmpause. Nachmittags führt die Radtour zum See von Clarens, wo die tiefstehende Sonne die Landschaft verzaubert. Beenden Sie die Tour vor Einbruch der Dunkelheit um 17:00 Uhr, wenn die Kälte spürbar zunimmt.",
+            "hu": "Vastagon felöltözve induljon a Maison du Roy-tól a téli napon. A városi tekerés a templomig felfrissíti a testet. Délben a termálfürdő kínál várva várt meleg pihenőt. Délután a Clarens-tóhoz vezet az út, ahol az alacsonyan járó nap varázslatos fénybe vonja a tájat. Fejezze be a túrát a 17:00 órai sötétedés előtt, amikor a hideg fokozódik.",
+            "ro": "Porniți bine îmbrăcați de la Maison du Roy în această zi de iarnă. Plimbarea prin oraș până la biserică este revigorantă. La prânz, termele oferă o pauză binemeritată pentru încălzire. După-amiaza, drumul duce spre Lacul Clarens, unde soarele de iarnă creează un peisaj magic. Încheiați turul înainte de lăsarea întunericului, la ora 17:00.",
+            "en": "Start your winter day warmly dressed at Maison du Roy. The ride through town to the church is refreshing. At midday, the thermal baths offer a welcome warming break. In the afternoon, the cycle path leads to Lake Clarens, where the low sun creates a magical landscape. Finish your tour before darkness falls at 5:00 PM as the cold intensifies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Roy",
+                "hu": "Maison du Roy",
+                "ro": "Maison du Roy",
+                "en": "Maison du Roy"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie windfeste Handschuhe für den Start der Tour; im Inneren können Sie sich noch einmal kurz aufwärmen, bevor es auf die Räder geht.",
+                "hu": "Viseljen szélálló kesztyűt a túra kezdetén; az épületben még egyszer utoljára átmelegedhet, mielőtt nyeregbe pattanna a hidegben.",
+                "ro": "Purtați mănuși rezistente la vânt pentru începutul turului; în interior vă mai puteți încălzi puțin înainte de a urca pe bicicletă.",
+                "en": "Wear windproof gloves for the start of the tour; inside the building, you can warm up one last time before heading out into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Notre-Dame Templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein guter Ort, um den eisigen Wind kurz zu vergessen; bewundern Sie die Ruhe der winterlichen Atmosphäre im Kirchenschiff.",
+                "hu": "A templom kiváló hely, hogy egy rövid időre elfelejtse a jeges szelet; csodálja meg a téli hangulatú, békés és csendes belső teret.",
+                "ro": "Biserica este un loc bun pentru a uita scurt de vântul înghețat; admirați liniștea atmosferei de iarnă în nava centrală a bisericii.",
+                "en": "The church is a good place to briefly forget the icy wind; admire the peaceful winter atmosphere in the nave during your quick stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Remparts de Casteljaloux",
+                "hu": "Casteljaloux Várfalai",
+                "ro": "Meterezele din Casteljaloux",
+                "en": "Remparts de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif oder Eis auf den Wegen an den Mauern; die klare Luft bietet jedoch eine fantastische Sicht auf die Umgebung der Stadt.",
+                "hu": "Ügyeljen a zúzmarára vagy jégre a falak menti utakon; a tiszta téli levegőben azonban fantasztikus kilátás nyílik a város környékére.",
+                "ro": "Atenție la chiciură sau gheață pe potecile de lângă ziduri; aerul curat oferă totuși o vizibilitate fantastică asupra împrejurimilor orașului.",
+                "en": "Watch out for frost or ice on the paths along the walls; however, the clear winter air provides fantastic visibility over the surrounding area."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes de Casteljaloux",
+                "hu": "Casteljaloux Termálfürdő",
+                "ro": "Băile Termale Casteljaloux",
+                "en": "Thermes de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Radfahren in der Kälte ist das heiße Wasser eine Wohltat; nutzen Sie die Zeit zur Entspannung, aber planen Sie den Rückweg im Hellen.",
+                "hu": "A hidegben való tekerés után a forró víz igazi áldás; használja ki az időt a lazításra, de tervezze meg a hazautat még világosban.",
+                "ro": "După pedala prin frig, apa fierbinte este o binecuvântare; folosiți timpul pentru relaxare, dar planificați drumul de întoarcere pe lumină.",
+                "en": "After cycling in the cold, the hot water is a blessing; use the time to relax, but plan your ride back while it is still daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac de Clarens",
+                "hu": "Lac de Clarens",
+                "ro": "Lacul Clarens",
+                "en": "Lac de Clarens"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt im Winter friedlich und verlassen; genießen Sie die winterliche Stille am Wasser, bevor die Sonne am späten Nachmittag untergeht.",
+                "hu": "A tó télen békésnek és elhagyatottnak tűnik; élvezze a vízparti téli csendet, mielőtt a nap késő délután végleg lebukna a horizont alá.",
+                "ro": "Lacul pare liniștit și părăsit iarna; bucurați-vă de liniștea iernii de lângă apă înainte ca soarele să apună târziu după-amiaza.",
+                "en": "The lake looks peaceful and deserted in winter; enjoy the winter silence by the water before the sun sets in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "AquaFun' Park Clarens",
+                "hu": "AquaFun' Park Clarens",
+                "ro": "AquaFun' Park Clarens",
+                "en": "AquaFun' Park Clarens"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter geschlossen, aber die Umgebung eignet sich hervorragend für eine schnelle, kühle Radrunde am Seeufer entlang.",
+                "hu": "A park télen zárva tart, de a környezete kiválóan alkalmas egy gyors, frissítő kerékpáros körre a tóparti ösvényeken a hideg szélben.",
+                "ro": "Parcul este închis iarna, dar împrejurimile sunt excelente pentru o tură rapidă și răcoroasă cu bicicleta pe malul lacului.",
+                "en": "The park is closed in winter, but the surroundings are excellent for a quick, cool bike loop along the lake shore in the crisp air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Morning: Kezdje a napot Casteljaloux történelmi szívében. Csodálja meg a fagerendás Maison du Roy épületét, mielőtt felfedezné a békés Couvent des Cordeliers-t és a Notre-Dame templomot.\n\nMidday: Kövesse a középkori várfalak maradványait, és merüljön el a város erődített múltjában. Kényeztesse magát egy kiadós gascogne-i ebéddel a főtér közeli bisztrók egyikében.\n\nAfternoon: Hagyja maga mögött a városközpontot, és élvezze a régió természeti szépségeit. Akár a termálfürdőben pihen, akár a Lac de Clarens homokos partjait fedezi fel, nyugalom várja.\n\nEvening: Zárja a kirándulást egy kellemes vízparti sétával, miközben a nap lenyugszik a fenyvesek felett. Fogyasszon el egy nyugodt vacsorát helyi borokkal és regionális finomságokkal.",
         "ro": "Morning: Începeți ziua în inima istorică a orașului Casteljaloux. Admirați Maison du Roy cu structura sa de lemn, înainte de a explora liniștitul Couvent des Cordeliers și Église Notre-Dame.\n\nMidday: Urmați rămășițele meterezelor medievale reflectând la trecutul fortificat. Răsfățați-vă cu un prânz gascon copios într-unul dintre bistrourile locale din apropierea pieței centrale.\n\nAfternoon: Lăsați centrul orașului în urmă și îmbrățișați frumusețea naturală a regiunii. Fie că vă relaxați în băile termale sau explorați malurile lacului Clarens, liniștea vă așteaptă.\n\nEvening: Încheiați excursia cu o plimbare pe malul apei în timp ce soarele apune peste pădurile de pini. Bucurați-vă de o cină relaxată, savurând vinuri locale și delicatese regionale.",
         "en": "Morning: Start your day in the historic heart of Casteljaloux. Admire the half-timbered Maison du Roy before exploring the peaceful Couvent des Cordeliers and the striking Église Notre-Dame.\n\nMidday: Follow the remnants of the medieval ramparts as you reflect on the town's fortified past. Treat yourself to a hearty Gascon lunch in one of the local bistros near the town square.\n\nAfternoon: Leave the town center behind and embrace the natural beauty of the region. Whether relaxing in the famous thermal baths or exploring the sandy shores of Lac de Clarens, tranquility awaits.\n\nEvening: Conclude your excursion with a leisurely stroll by the water as the sun sets over the pine forests. Enjoy a relaxed dinner, savoring local wines and regional delicacies."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag ist ideal für eine Autotour durch Casteljaloux. Starten Sie trocken am Maison du Roy. Mittags erreichen Sie bequem die Stadtmauern und die Thermen. Der Nachmittag führt Sie zum See von Clarens und zum Teich von Pindérèse, wo Sie die regnerische Natur aus dem Schutz Ihres Fahrzeugs genießen können. Der Abend endet entspannt in einem lokalen Restaurant.",
+            "hu": "Az esős idő ideális egy autós túrához Casteljaloux környékén. Kezdje szárazon a napot a Maison du Roy-nál. Délben kényelmesen érheti el a várfalakat és a termálfürdőt. Délután a Clarens-tó és a Pindérèse-tó következik, ahol a kocsi védelméből csodálhatja a vizes tájat. Az estét zárja egy kellemes vacsorával a városban.",
+            "ro": "O zi ploioasă este ideală pentru un tur cu mașina prin Casteljaloux. Începeți ziua la Maison du Roy, fără să vă udați. La prânz ajungeți ușor la metereze și la terme. După-amiaza vă conduce spre Lacul Clarens și Iazul Pindérèse, unde puteți admira natura din protecția vehiculului. Seara se încheie relaxat în oraș.",
+            "en": "A rainy day is ideal for a car tour through Casteljaloux. Start dry at Maison du Roy. At midday, you can comfortably reach the town walls and thermal baths. The afternoon takes you to Lake Clarens and the Pindérèse pond, where you can enjoy the rainy nature from the safety of your vehicle. Finish the evening at a local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Roy",
+                "hu": "Maison du Roy",
+                "ro": "Maison du Roy",
+                "en": "Maison du Roy"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Zentrums und nutzen Sie einen Regenschirm für den kurzen Weg zum Eingang dieses historischen Renaissance-Gebäudes.",
+                "hu": "Parkoljon a központ közelében, és használjon esernyőt arra a rövid útra, amíg eljut ennek a történelmi reneszánsz épületnek a bejáratáig.",
+                "ro": "Parcați aproape de centru și folosiți o umbrelă pentru drumul scurt până la intrarea în această clădire renascentistă istorică.",
+                "en": "Park near the center and use an umbrella for the short walk to the entrance of this historic Renaissance building."
+              }
+            },
+            {
+              "name": {
+                "de": "Remparts de Casteljaloux",
+                "hu": "Casteljaloux Várfalai",
+                "ro": "Meterezele din Casteljaloux",
+                "en": "Remparts de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp bei den Mauern ist auch im Regen lohnenswert; man kann die Befestigungen oft schon gut vom Auto aus sehen und kurz aussteigen.",
+                "hu": "Egy rövid megálló a falaknál esőben is megéri; az erődítmények nagy része az autóból is jól látható, így csak egy pillanatra kell kiszállnia.",
+                "ro": "O scurtă oprire la ziduri merită chiar și pe ploaie; fortificațiile pot fi văzute bine din mașină, deci trebuie să coborâți doar un moment.",
+                "en": "A brief stop at the walls is worth it even in the rain; most of the fortifications are visible from the car, so you only need to hop out for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes de Casteljaloux",
+                "hu": "Casteljaloux Termálfürdő",
+                "ro": "Băile Termale Casteljaloux",
+                "en": "Thermes de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Thermenparkplatz, um schnell ins warme Innere zu gelangen; bei Regen ist das Thermalwasser besonders wohltuend.",
+                "hu": "Parkoljon közvetlenül a fürdő parkolójában, hogy gyorsan bejusson a meleg épületbe; esős időben a termálvíz különösen jótékony és nyugtató hatású.",
+                "ro": "Parcați direct în parcarea băilor pentru a ajunge rapid în interiorul cald; pe timp de ploaie, apa termală este extrem de reconfortantă.",
+                "en": "Park directly in the spa's parking lot to get inside quickly; during rainy weather, the thermal water is especially soothing and relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Base de Loisirs du Lac de Clarens",
+                "hu": "Lac de Clarens Szabadidőpark",
+                "ro": "Parcul de Agrement Lac de Clarens",
+                "en": "Base de Loisirs du Lac de Clarens"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum Seeufer und genießen Sie den Blick auf das Wasser durch die Windschutzscheibe; ideal für eine kurze, trockene Kaffeepause im Auto.",
+                "hu": "Hajtson le a tópartra, és élvezze a kilátást a szélvédőn keresztül; ideális helyszín egy rövid, száraz kávészünetre az autó kényelmében.",
+                "ro": "Conduceți până la malul lacului și admirați vederea prin parbriz; este locul ideal pentru o scurtă pauză de cafea la uscat, în mașină.",
+                "en": "Drive down to the lakeshore and enjoy the view through your windshield; it is an ideal spot for a short, dry coffee break inside your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Pindérèse",
+                "hu": "Étang de la Pindérèse",
+                "ro": "Iazul Pindérèse",
+                "en": "Étang de la Pindérèse"
+              },
+              "tip_5lang": {
+                "de": "Dieser abgelegene Ort wirkt im Regen sehr stimmungsvoll; achten Sie auf die unbefestigten Zufahrtswege, die bei Nässe rutschig sein können.",
+                "hu": "Ez a távoli helyszín nagyon hangulatos az esőben; ügyeljen a burkolatlan utakra a megközelítéskor, mert nedvesen csúszóssá válhatnak.",
+                "ro": "Acest loc izolat este foarte atmosferic pe ploaie; atenție la drumurile neasfaltate de acces, care pot deveni alunecoase când sunt ude.",
+                "en": "This remote spot is very atmospheric in the rain; watch out for unpaved access roads which can become slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres beheizten Autos an einem kalten Wintertag. Nach dem Start am Maison du Roy besuchen Sie die historischen Highlights der Stadt. Mittags bieten die Thermen eine perfekte Aufwärmmöglichkeit. Am Nachmittag führt die Fahrt zu den umliegenden Seen, die in der Wintersonne glitzern. Beenden Sie die Tour gegen 17:00 Uhr, wenn die Dämmerung einsetzt.",
+            "hu": "Élvezze a fűtött autó kényelmét egy hideg téli napon. A Maison du Roy-tól indulva látogassa meg a város történelmi nevezetességeit. Délben a termálfürdő kínál tökéletes lehetőséget a felmelegedésre. Délután autózzon a környékbeli tavakhoz, amelyek szikráznak a téli napsütésben. Fejezze be a túrát 17:00 óra körül, a szürkület beálltakor.",
+            "ro": "Bucurați-vă de confortul mașinii încălzite într-o zi rece de iarnă. După plecarea de la Maison du Roy, vizitați reperele istorice ale orașului. La prânz, termele oferă ocazia perfectă pentru încălzire. După-amiaza, conduceți spre lacurile din jur care sclipesc în soarele de iarnă. Încheiați turul în jur de ora 17:00.",
+            "en": "Enjoy the comfort of your heated car on a cold winter day. After starting at Maison du Roy, visit the city's historical highlights. At midday, the thermal baths offer a perfect opportunity to warm up. In the afternoon, drive to the nearby lakes which sparkle in the winter sun. Finish your tour around 5:00 PM as dusk sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Roy",
+                "hu": "Maison du Roy",
+                "ro": "Maison du Roy",
+                "en": "Maison du Roy"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz im Zentrum und wärmen Sie sich im Inneren des Gebäudes auf, während Sie mehr über die Geschichte von Casteljaloux erfahren.",
+                "hu": "Használja a központi parkolót, és melegedjen fel az épületben, miközben többet tud meg Casteljaloux izgalmas és gazdag történelméről.",
+                "ro": "Folosiți parcarea centrală și încălziți-vă în interiorul clădirii în timp ce aflați mai multe despre istoria fascinantă din Casteljaloux.",
+                "en": "Use the central parking lot and warm up inside the building while learning more about the fascinating history of Casteljaloux."
+              }
+            },
+            {
+              "name": {
+                "de": "Remparts de Casteljaloux",
+                "hu": "Casteljaloux Várfalai",
+                "ro": "Meterezele din Casteljaloux",
+                "en": "Remparts de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Die Mauern sind im Winter besonders fotogen; halten Sie kurz an, um die klare Sicht zu genießen, bevor Sie schnell zurück ins warme Auto steigen.",
+                "hu": "A várfalak télen különösen fotogének; álljon meg egy pillanatra, élvezze a tiszta kilátást, majd gyorsan térjen vissza a fűtött autóba.",
+                "ro": "Meterezele sunt foarte fotogenice iarna; opriți-vă scurt pentru a admira vizibilitatea clară, apoi reveniți rapid în mașina încălzită.",
+                "en": "The walls are very photogenic in winter; stop for a moment to enjoy the clear view, then quickly return to the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes de Casteljaloux",
+                "hu": "Casteljaloux Termálfürdő",
+                "ro": "Băile Termale Casteljaloux",
+                "en": "Thermes de Casteljaloux"
+              },
+              "tip_5lang": {
+                "de": "Das heiße Thermalwasser ist im Winter ein Muss; die kurze Fahrt von der Stadt hierher ist auch bei Kälte absolut lohnenswert für Ihre Gesundheit.",
+                "hu": "A forró termálvíz télen kötelező program; a rövid autózás a várostól ide abszolút megéri az egészsége és a közérzete érdekében.",
+                "ro": "Apa termală fierbinte este obligatorie iarna; drumul scurt cu mașina din oraș până aici merită din plin pentru sănătatea dumneavoastră.",
+                "en": "The hot thermal water is a must in winter; the short drive from the city here is absolutely worth it for your health and well-being."
+              }
+            },
+            {
+              "name": {
+                "de": "Base de Loisirs du Lac de Clarens",
+                "hu": "Lac de Clarens Szabadidőpark",
+                "ro": "Parcul de Agrement Lac de Clarens",
+                "en": "Base de Loisirs du Lac de Clarens"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den winterlichen Blick auf den See direkt vom Parkplatz aus; ideal für einen schnellen Spaziergang an der frischen, kalten Luft.",
+                "hu": "Élvezze a tó téli látványát közvetlenül a parkolóból; ez a helyszín tökéletes egy gyors sétára a friss, tiszta és csípős téli levegőn.",
+                "ro": "Bucurați-vă de vederea de iarnă a lacului direct din parcare; locul este ideal pentru o scurtă plimbare în aerul curat și rece de iarnă.",
+                "en": "Enjoy the winter view of the lake directly from the parking lot; it is a perfect spot for a quick walk in the fresh, crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la Pindérèse",
+                "hu": "Étang de la Pindérèse",
+                "ro": "Iazul Pindérèse",
+                "en": "Étang de la Pindérèse"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor Sonnenuntergang um 17:00 Uhr hierher, um das Licht auf dem gefrorenen oder kalten Wasser zu sehen; Vorsicht bei Glätte auf den Waldwegen.",
+                "hu": "Érkezzen ide a 17:00 órai naplemente előtt, hogy lássa a fényeket a hideg vízen; vigyázzon az erdő melletti utakon az esetleges jegesedés miatt.",
+                "ro": "Ajungeți aici înainte de apusul de la ora 17:00 pentru a vedea lumina pe apa rece; atenție pe drumurile de lângă pădure la eventualul îngheț.",
+                "en": "Arrive here before the 5:00 PM sunset to see the light on the cold water; be careful on the forest roads due to potential icy conditions."
+              }
+            }
+          ]
+        }
       }
     }
   }

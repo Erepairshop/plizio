@@ -160,6 +160,196 @@
         "de": "Der Morgen beginnt im Herzen von Pyle, wo Sie die historische Pfarrkirche und das Eisenbahnerbe erkunden. Mittags spazieren Sie nach Westen zu den sandverwehten Ruinen einer alten normannischen Burg. Der Nachmittag bringt Ruhe am Flussufer des Afon Cynffig, bevor Sie in einem legendären Gasthaus einkehren. Schließlich endet Ihr Tag inmitten der riesigen Dünen von Kenfig.",
         "hu": "A reggel Pyle szívében kezdődik, felfedezve történelmi plébániatemplomát és vasúti örökségét. Délre nyugat felé sétál, hogy felfedezze egy ősi normann kastély homokfútta romjait. A délután folyóparti nyugalmat hoz az Afon Cynffig mentén, mielőtt megiszik egy pintet egy tizenhatodik századi fogadóban. Végül napja Kenfig hatalmas, fenséges dűnéi között ér véget.",
         "ro": "Dimineața începe în Pyle, explorând biserica parohială istorică și moștenirea feroviară. La prânz, veți merge spre vest pentru a descoperi ruinele bătute de nisip ale unui vechi castel normand. După-amiaza aduce liniște pe malul râului Afon Cynffig înainte de o bere meritată la un han din secolul al șaisprezecelea. În cele din urmă, ziua se încheie printre dunele vaste din Kenfig."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning begins at St James' Church, where thick stone walls offer a dry sanctuary. The walk to the station is short, but an umbrella is essential. Midday at Kenfig Castle is dramatic in the mist, though the paths are muddy. Afternoon is perfect for drying off by the fire at the Prince of Wales Inn. The day ends with a misty, atmospheric stroll through the wet dunes of the reserve.",
+            "de": "Der Morgen beginnt in der St. James' Church, deren dicke Mauern Schutz vor dem walisischen Regen bieten. Der Weg zum Bahnhof ist kurz, ein Schirm ist jedoch unerlässlich. Mittags wirken die Ruinen von Kenfig Castle im Nebel dramatisch, auch wenn die Pfade matschig sind. Den Nachmittag verbringt man am besten am Kamin im Prince of Wales Inn. Der Tag endet neblig im Naturschutzgebiet.",
+            "hu": "A reggel a St James' templomban indul, ahol a vastag kőfalak menedéket nyújtanak. Az állomás felé vezető út rövid, de az esernyő kötelező. Délben a Kenfig vár romjai drámaiak a ködben, bár az utak sarasak. A délutánt a Prince of Wales fogadó tüzénél tölthetjük száradva. Az este a természetvédelmi terület nedves dűnéi között, párás, különleges hangulatban zárul.",
+            "ro": "Dimineața începe la Biserica St James, unde zidurile groase oferă un sanctuar uscat. Drumul spre gară este scurt, dar umbrela este esențială. La prânz, Castelul Kenfig este dramatic în ceață, deși potecile sunt noroioase. După-amiaza este perfectă pentru a vă usca lângă foc la Prince of Wales Inn. Ziua se încheie cu o plimbare mistică prin dunele umede ale rezervației."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "St James' Church",
+                "de": "St James' Church",
+                "hu": "St James' Church",
+                "ro": "St James' Church"
+              },
+              "tip_5lang": {
+                "en": "Explore the medieval interior while staying dry; check the ancient carvings which look mystical in the soft rain light through stained glass.",
+                "de": "Erkunden Sie das mittelalterliche Innere im Trockenen; die alten Schnitzereien wirken im sanften Regenlicht durch die Fenster besonders mystisch.",
+                "hu": "Fedezze fel a középkori belsőt, miközben szárazon marad; a régi faragványok misztikusan festenek a színes üvegeken át beszűrődő lágy fényben.",
+                "ro": "Explorați interiorul medieval în timp ce rămâneți uscat; sculpturile vechi par mistice în lumina difuză a ploii care trece prin vitralii."
+              }
+            },
+            {
+              "name": {
+                "en": "Pyle Railway Station",
+                "de": "Pyle Railway Station",
+                "hu": "Pyle Railway Station",
+                "ro": "Pyle Railway Station"
+              },
+              "tip_5lang": {
+                "en": "Use the platform shelters to wait out heavy bursts; the industrial landscape of the station takes on a moody, silver hue in the rain.",
+                "de": "Nutzen Sie die Bahnsteigdächer bei starken Schauern; die industrielle Landschaft des Bahnhofs nimmt im Regen einen stimmungsvollen Silberton an.",
+                "hu": "Használja a peronfedeleket a záporok idején; az állomás ipari tája különleges, ezüstös árnyalatot ölt a szakadó esőben.",
+                "ro": "Folosiți adăposturile de pe peron în timpul rafalelor; peisajul industrial al gării capătă o nuanță argintie și melancolică în ploaie."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Castle",
+                "de": "Kenfig Castle",
+                "hu": "Kenfig Castle",
+                "ro": "Kenfig Castle"
+              },
+              "tip_5lang": {
+                "en": "Wear sturdy waterproof boots as the ground near the ruins becomes very slippery and muddy; the mist makes the castle look haunting.",
+                "de": "Tragen Sie wasserfeste Stiefel, da der Boden an den Ruinen rutschig ist; der Nebel verleiht der Burg eine gespenstische Atmosphäre.",
+                "hu": "Viseljen vízálló bakancsot, mert a romok környéke csúszós és sáros; a köd kísérteties és fenséges megjelenést kölcsönöz a várnak.",
+                "ro": "Purtați cizme impermeabile deoarece solul de lângă ruine devine alunecos; ceața face castelul să pară bântuit și plin de istorie."
+              }
+            },
+            {
+              "name": {
+                "en": "Afon Cynffig",
+                "de": "Afon Cynffig",
+                "hu": "Afon Cynffig",
+                "ro": "Afon Cynffig"
+              },
+              "tip_5lang": {
+                "en": "The river flows faster and sounds more powerful in the rain; watch the rising water from the safety of the bridge with a raincoat.",
+                "de": "Der Fluss fließt im Regen schneller und lauter; beobachten Sie das steigende Wasser sicher von der Brücke aus mit Regenjacke.",
+                "hu": "A folyó gyorsabb és hangosabb esőben; figyelje a duzzadó vizet a híd biztonságából, egy jó esőkabátban a természet erejét érezve.",
+                "ro": "Râul curge mai repede și sună mai puternic în ploaie; urmăriți creșterea apei de pe pod, protejat de o pelerină de ploaie rezistentă."
+              }
+            },
+            {
+              "name": {
+                "en": "Prince of Wales Inn",
+                "de": "Prince of Wales Inn",
+                "hu": "Prince of Wales Inn",
+                "ro": "Prince of Wales Inn"
+              },
+              "tip_5lang": {
+                "en": "This historic pub is the ultimate rainy refuge; dry your gear by the fireplace while enjoying a hearty, warm Welsh meal indoors.",
+                "de": "Dieser historische Pub ist der ideale Zufluchtsort; trocknen Sie Ihre Sachen am Kamin und genießen Sie ein warmes walisiches Gericht.",
+                "hu": "Ez a történelmi kocsma a tökéletes esős menedék; szárítsa meg ruháit a kandallónál, miközben egy bőséges, meleg walesi ételt fogyaszt.",
+                "ro": "Acest pub istoric este refugiul suprem pe ploaie; uscați-vă hainele lângă șemineu în timp ce savurați o mâncare caldă galeză."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Nature Reserve",
+                "de": "Kenfig Nature Reserve",
+                "hu": "Kenfig Nature Reserve",
+                "ro": "Kenfig Nature Reserve"
+              },
+              "tip_5lang": {
+                "en": "Head to the bird hides for a dry spot to observe wetland wildlife; the dunes have a unique, fresh scent when the rain hits the sand.",
+                "de": "Suchen Sie die Vogelbeobachtungshütten auf, um trocken zu bleiben; die Dünen duften herrlich frisch, wenn der Regen auf den Sand trifft.",
+                "hu": "Irány a madármegfigyelő kunyhó, ahol szárazon figyelheti a vadvilágot; a dűnéknek friss illata van, amikor az eső a homokot éri.",
+                "ro": "Mergeți la foișoarele de observație pentru a vedea păsările la adăpost; dunele au un miros proaspăt când ploaia atinge nisipul."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "A crisp morning at the church requires thermal layers. The walk to the station is brisk under a low winter sun. Midday light reveals the frosty beauty of the castle ruins, though the air is biting. Afternoon is best spent warming up inside the historic inn before the light fades. By 17:00, the nature reserve is dark, offering a quiet, wintry end to the day.",
+            "de": "Ein frostiger Morgen an der Kirche erfordert warme Kleidung. Der Weg zum Bahnhof ist bei tiefstehender Wintersonne erfrischend. Mittags glitzert der Frost auf den Burgruinen. Den Nachmittag verbringt man im warmen Inn, bevor das Licht schwindet. Gegen 17:00 Uhr ist es im Naturschutzgebiet bereits dunkel und sehr friedlich.",
+            "hu": "A templomnál töltött csípős reggelhez réteges öltözet kell. Az állomáshoz vezető út frissítő az alacsonyan járó téli napfényben. Délben a várromok zúzmarás szépsége lenyűgöző a hideg levegőben. A délutánt a fogadó melegében érdemes tölteni, mielőtt korán sötétedik. 17:00-ra a természetvédelmi terület elcsendesedik a téli szürkületben.",
+            "ro": "O dimineață geroasă la biserică necesită straturi termice. Plimbarea spre gară este revigorantă sub soarele slab de iarnă. Lumina amiezii dezvăluie frumusețea înghețată a ruinelor castelului. După-amiaza este cel mai bine petrecută la căldură în hanul istoric. Până la ora 17:00, rezervația este deja întunecată și foarte liniștită."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "St James' Church",
+                "de": "St James' Church",
+                "hu": "St James' Church",
+                "ro": "St James' Church"
+              },
+              "tip_5lang": {
+                "en": "The church interior is peaceful and quiet in winter; check the historical plaques which tell stories of the community through centuries.",
+                "de": "Das Innere der Kirche ist im Winter besonders friedlich; betrachten Sie die historischen Tafeln, die von der alten Gemeinde erzählen.",
+                "hu": "A templombelső télen békés és csendes; nézze meg a történelmi emléktáblákat, amelyek évszázadok közösségi történeteit mesélik el.",
+                "ro": "Interiorul bisericii este liniștit iarna; citiți plăcile istorice care spun poveștile comunității de-a lungul secolelor trecute."
+              }
+            },
+            {
+              "name": {
+                "en": "Pyle Railway Station",
+                "de": "Pyle Railway Station",
+                "hu": "Pyle Railway Station",
+                "ro": "Pyle Railway Station"
+              },
+              "tip_5lang": {
+                "en": "Wrap your scarf tight against the biting wind on the open platforms; it is a great spot to see the steam of passing winter trains.",
+                "de": "Wickeln Sie Ihren Schal fest um, da der Wind am Bahnsteig beißend kalt sein kann; ein guter Ort, um den Dampf der Züge zu sehen.",
+                "hu": "Tekerje szorosra a sálat a metsző szél ellen a nyitott peronon; remek hely, hogy lássa a téli vonatok gomolygó kondenzcsíkjait.",
+                "ro": "Înfășurați-vă fularul strâns împotriva vântului tăios de pe peron; este un loc bun pentru a vedea aburul trenurilor care trec prin frig."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Castle",
+                "de": "Kenfig Castle",
+                "hu": "Kenfig Castle",
+                "ro": "Kenfig Castle"
+              },
+              "tip_5lang": {
+                "en": "The ruins look like a fairytale when covered in frost; stay on the marked paths to avoid hidden icy patches near the ancient walls.",
+                "de": "Die Ruinen wirken wie aus einem Märchen, wenn sie mit Frost bedeckt sind; bleiben Sie auf den Wegen, um Glatteis zu vermeiden.",
+                "hu": "A romok mesebeliek, amikor zúzmara fedi őket; maradjon a kijelölt úton, hogy elkerülje a jeges foltokat az ősi falak mentén.",
+                "ro": "Ruinele arată ca într-un basm când sunt acoperite de chiciură; rămâneți pe poteci pentru a evita porțiunile de gheață ascunse."
+              }
+            },
+            {
+              "name": {
+                "en": "Afon Cynffig",
+                "de": "Afon Cynffig",
+                "hu": "Afon Cynffig",
+                "ro": "Afon Cynffig"
+              },
+              "tip_5lang": {
+                "en": "Watch for icy edges along the riverbank; the winter sun reflecting off the water creates beautiful photographic opportunities at midday.",
+                "de": "Achten Sie auf vereiste Ränder am Flussufer; das Licht der Wintersonne auf dem Wasser bietet mittags tolle Fotomotive.",
+                "hu": "Vigyázzon a jeges szélekre a folyópart mentén; a vízen megcsillanó téli napfény gyönyörű fotótémát kínál a déli órákban.",
+                "ro": "Atenție la marginile înghețate de-a lungul malului râului; soarele de iarnă reflectat în apă oferă ocazii superbe pentru fotografii."
+              }
+            },
+            {
+              "name": {
+                "en": "Prince of Wales Inn",
+                "de": "Prince of Wales Inn",
+                "hu": "Prince of Wales Inn",
+                "ro": "Prince of Wales Inn"
+              },
+              "tip_5lang": {
+                "en": "Warm up with a hot cider or tea by the roaring fireplace; the low ceilings and historic wood create a cozy winter atmosphere.",
+                "de": "Wärmen Sie sich mit einem heißen Cidre oder Tee am prasselnden Kamin auf; das alte Holz sorgt für eine gemütliche Winterstimmung.",
+                "hu": "Melegedjen fel egy forró ciderrel vagy teával a lobogó tűz mellett; az alacsony mennyezet és a fagerendák igazi téli hangulatot árasztanak.",
+                "ro": "Încălziți-vă cu un cidru fierbinte sau un ceai lângă șemineul aprins; tavanul jos și lemnul vechi creează o atmosferă de iarnă intimă."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Nature Reserve",
+                "de": "Kenfig Nature Reserve",
+                "hu": "Kenfig Nature Reserve",
+                "ro": "Kenfig Nature Reserve"
+              },
+              "tip_5lang": {
+                "en": "Winter is the best time to spot migratory birds on the lake; be prepared for an early sunset and the temperature dropping quickly.",
+                "de": "Der Winter ist die beste Zeit, um Zugvögel auf dem See zu beobachten; achten Sie auf den frühen Sonnenuntergang und sinkende Werte.",
+                "hu": "A tél a legjobb időszak a vándormadarak megfigyelésére a tavon; készüljön fel a korai naplementére és a hirtelen lehűlésre.",
+                "ro": "Iarna este cel mai bun moment pentru a observa păsările migratoare pe lac; fiți gata pentru apusul timpuriu și scăderea temperaturii."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "de": "Beginnen Sie Ihre Fahrt an der örtlichen Kirche, bevor Sie zur prächtigen Margam Abbey radeln. Mittags fahren Sie nach Süden zu den wandernden Sanden, die die mittelalterliche Ruine von Kenfig Castle verbergen. Verbringen Sie den Nachmittag damit, das Naturschutzgebiet zu umradeln und das beeindruckende gelbe Sker House zu bewundern. Am Abend bietet die Küstenbrise am Sker Beach den perfekten Abschluss.",
         "hu": "Kezdje a kerékpározást a helyi templomnál, mielőtt eltekerne a walesi vidéken a csodálatos Margam Apátságig. Délben dél felé indul a vándorló homok felé, amely a középkori Kenfig kastély romjait rejti. A délutánt a természetvédelmi terület körüli kerékpározással és az impozáns sárga Sker House megcsodálásával tölti. Este a Sker Beach part menti szellője tökéletes befejezést kínál.",
         "ro": "Începeți plimbarea la biserica locală înainte de a pedala prin mediul rural galez până la magnifica Abație Margam. Prânzul vă duce spre sud, spre nisipurile care ascund ruinele medievale ale Castelului Kenfig. Petreceți după-amiaza cu bicicleta în jurul rezervației naturale și admirând impunătoarea Sker House. Seara, briza de coastă de la Sker Beach oferă un final perfect."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Cycling starts at the church with wet roads requiring caution. Margam Abbey's ruins are stunning but the gravel can be slippery. Midday at the castle is damp and muddy, so check your brakes frequently. Afternoon takes you past the reserve to the historic Sker House. The day ends with a bracing, rainy ride along the coastal paths towards the beaches.",
+            "de": "Die Radtour beginnt an der Kirche auf nassen Straßen, die Vorsicht erfordern. Margam Abbey ist wunderschön, aber der Kies kann rutschig sein. Mittags am Castle sind die Wege matschig. Nachmittags geht es am Reservat vorbei zum Sker House. Der Tag endet mit einer erfrischenden Regenfahrt entlang der Küstenwege.",
+            "hu": "A kerékpározás a templomnál indul vizes utakon, óvatosságot igényelve. A Margam apátság lenyűgöző, de a murva csúszós lehet. Délben a várnál sárra kell számítani, ellenőrizze a fékeket. Délután a rezervátum mellett elhaladva érjük el a Sker House-t. A nap egy frissítő, esős tekeréssel zárul a tengerparti utakon.",
+            "ro": "Ciclismul începe la biserică pe drumuri ude care necesită prudență. Margam Abbey este superbă, dar pietrișul poate fi alunecos. La prânz, castelul este umed și noroios. După-amiaza treceți pe lângă rezervație spre Sker House. Ziua se încheie cu o plimbare revigorantă pe ploaie de-a lungul potecilor de coastă."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "St James' Church",
+                "de": "St James' Church",
+                "hu": "St James' Church",
+                "ro": "St James' Church"
+              },
+              "tip_5lang": {
+                "en": "Park your bike under the porch for a brief dry look at the architecture; use the time to adjust your waterproof gear for the ride ahead.",
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab; nutzen Sie die Zeit, um Ihre Regenbekleidung für die Weiterfahrt optimal anzupassen.",
+                "hu": "Parkoljon a tornác alatt, hogy szárazon nézze meg az épületet; állítsa be a vízálló felszerelését a hosszabb tekerés előtt.",
+                "ro": "Parcați bicicleta sub portic pentru o scurtă vizită la adăpost; folosiți timpul pentru a vă ajusta echipamentul impermeabil pentru drum."
+              }
+            },
+            {
+              "name": {
+                "en": "Margam Abbey",
+                "de": "Margam Abbey",
+                "hu": "Margam Abbey",
+                "ro": "Margam Abbey"
+              },
+              "tip_5lang": {
+                "en": "The abbey ruins provide some shelter; cycle carefully on the wet gravel paths as they can be unpredictable in heavy rain.",
+                "de": "Die Abteiruinen bieten etwas Schutz; fahren Sie vorsichtig auf dem nassen Kies, da dieser bei starkem Regen unberechenbar sein kann.",
+                "hu": "Az apátság romjai némi menedéket nyújtanak; tekerjen óvatosan a vizes murvás utakon, mert nagy esőben kiszámíthatatlanok lehetnek.",
+                "ro": "Ruinele abației oferă puțin adăpost; pedalați cu atenție pe aleile cu pietriș umed, deoarece pot fi imprevizibile la ploaie torențială."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Castle",
+                "de": "Kenfig Castle",
+                "hu": "Kenfig Castle",
+                "ro": "Kenfig Castle"
+              },
+              "tip_5lang": {
+                "en": "The approach is muddy; lower your tire pressure slightly for better grip on the slippery grass around the castle ruins.",
+                "de": "Die Zufahrt ist matschig; senken Sie den Reifendruck leicht, um besseren Grip auf dem rutschigen Gras an der Burgruine zu haben.",
+                "hu": "A megközelítés sáros; csökkentse kicsit a guminyomást a jobb tapadás érdekében a várrom körüli csúszós, füves területen.",
+                "ro": "Accesul este noroios; reduceți ușor presiunea din pneuri pentru o aderență mai bună pe iarba alunecoasă din jurul ruinelor castelului."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Nature Reserve",
+                "de": "Kenfig Nature Reserve",
+                "hu": "Kenfig Nature Reserve",
+                "ro": "Kenfig Nature Reserve"
+              },
+              "tip_5lang": {
+                "en": "Follow the hard-standing paths to avoid sinking into the sand; the visitor center offers a dry spot to check your maps.",
+                "de": "Bleiben Sie auf befestigten Wegen, um nicht im Sand einzusinken; das Besucherzentrum ist ideal, um trocken die Karte zu prüfen.",
+                "hu": "Maradjon a szilárd burkolatú utakon, hogy ne süllyedjen el a homokban; a látogatóközpontban szárazon átnézheti a térképet.",
+                "ro": "Urmați potecile pavate pentru a evita afundarea în nisip; centrul de vizitare oferă un loc uscat pentru a verifica traseul."
+              }
+            },
+            {
+              "name": {
+                "en": "Sker House",
+                "de": "Sker House",
+                "hu": "Sker House",
+                "ro": "Sker House"
+              },
+              "tip_5lang": {
+                "en": "This isolated house looks incredibly gothic in the rain; take a quick photo and continue quickly as the coastal wind increases.",
+                "de": "Dieses einsame Haus wirkt im Regen unglaublich gotisch; machen Sie ein schnelles Foto, bevor der Küstenwind noch stärker wird.",
+                "hu": "Ez az elszigetelt ház rendkívül gótikus hangulatú az esőben; készítsen egy gyors fotót, mielőtt a parti szél felerősödne.",
+                "ro": "Această casă izolată arată incredibil de gotic pe ploaie; faceți o fotografie rapidă și continuați drumul, vântul de coastă crește."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Sands",
+                "de": "Kenfig Sands",
+                "hu": "Kenfig Sands",
+                "ro": "Kenfig Sands"
+              },
+              "tip_5lang": {
+                "en": "Salt spray and rain will hit you here; keep your chain well-lubricated to protect it from the corrosive seaside elements.",
+                "de": "Gischt und Regen werden Sie hier treffen; halten Sie die Kette gut geschmiert, um sie vor der salzigen Seeluft zu schützen.",
+                "hu": "Itt sós permetre és esőre számíthat; tartsa a láncot jól kenve, hogy megvédje a tengerparti korrozív elemektől.",
+                "ro": "Aici veți fi lovit de aerosoli sărați și ploaie; păstrați lanțul bine lubrifiat pentru a-l proteja de elementele corozive ale mării."
+              }
+            },
+            {
+              "name": {
+                "en": "Sker Beach",
+                "de": "Sker Beach",
+                "hu": "Sker Beach",
+                "ro": "Sker Beach"
+              },
+              "tip_5lang": {
+                "en": "The final stretch is exposed; enjoy the wild, stormy sea views but maintain a firm grip on your handlebars against the gusts.",
+                "de": "Das letzte Stück ist sehr exponiert; genießen Sie die wilde See, aber halten Sie den Lenker bei Böen besonders fest.",
+                "hu": "Az utolsó szakasz nagyon nyitott; élvezze a viharos tenger látványát, de tartsa erősen a kormányt a hirtelen széllökésekben.",
+                "ro": "Ultima etapă este expusă; bucurați-vă de vederea mării înfuriate, dar țineți bine ghidonul împotriva rafalelor de vânt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning is freezing, so gloves are a must for the ride to Margam Abbey. The low sun glints off the frosty trails at Kenfig. Midday is bright but cold as you cycle through the reserve towards Sker House. Afternoon light creates long shadows on the dunes. The day concludes at the beach with a spectacular, early winter sunset around 16:30, before the night chill sets in.",
+            "de": "Der Morgen ist eiskalt, Handschuhe sind Pflicht für die Fahrt zur Margam Abbey. Die tiefe Sonne glitzert auf den frostigen Wegen. Mittags ist es hell, aber kalt bei der Fahrt zum Sker House. Nachmittags werfen die Dünen lange Schatten. Der Tag endet am Strand mit einem frühen Sonnenuntergang gegen 16:30 Uhr.",
+            "hu": "A reggel fagyos, a kesztyű kötelező a Margam apátság felé. Az alacsony napfény megcsillan a zúzmarás ösvényeken. A délben ragyogó, de hideg időben tekerhetünk a rezervátumon át. A délutáni fények hosszú árnyékokat vetnek a dűnéken. A nap a tengerparton zárul egy korai, 16:30 körüli téli naplementével.",
+            "ro": "Dimineața este înghețată, deci mănușile sunt obligatorii spre Margam Abbey. Soarele slab strălucește pe potecile înghețate. Amiaza este luminoasă, dar rece spre Sker House. Lumina după-amiezii creează umbre lungi pe dune. Ziua se încheie la plajă cu un apus spectaculos de iarnă în jurul orei 16:30."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "St James' Church",
+                "de": "St James' Church",
+                "hu": "St James' Church",
+                "ro": "St James' Church"
+              },
+              "tip_5lang": {
+                "en": "A quick stop to admire the church tower; keep moving to maintain your body heat as the winter air is very still and cold here.",
+                "de": "Ein kurzer Stopp am Kirchturm; bleiben Sie in Bewegung, um nicht auszukühlen, da die Winterluft hier sehr stehend und kalt ist.",
+                "hu": "Gyors megálló a templomtoronynál; maradjon mozgásban a testhő megtartása érdekében, mert a téli levegő itt nagyon álló és hideg.",
+                "ro": "O oprire scurtă pentru a admira turnul bisericii; continuați deplasarea pentru a vă menține căldura, aerul este foarte rece aici."
+              }
+            },
+            {
+              "name": {
+                "en": "Margam Abbey",
+                "de": "Margam Abbey",
+                "hu": "Margam Abbey",
+                "ro": "Margam Abbey"
+              },
+              "tip_5lang": {
+                "en": "The stark winter branches against the stone ruins are beautiful; watch for black ice in shaded areas of the park near the abbey.",
+                "de": "Die kahlen Winteräste vor den Steinruinen sind herrlich; achten Sie auf Glatteis in schattigen Bereichen des Parks an der Abtei.",
+                "hu": "A kopár téli ágak a kőromok előtt gyönyörűek; figyeljen a fekete jégre a park árnyékos részein az apátság közelében.",
+                "ro": "Ramurile golașe pe fundalul ruinelor sunt superbe; atenție la gheața neagră în zonele umbrite ale parcului de lângă abație."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Castle",
+                "de": "Kenfig Castle",
+                "hu": "Kenfig Castle",
+                "ro": "Kenfig Castle"
+              },
+              "tip_5lang": {
+                "en": "The ruins look ancient and frozen in time; the ground is hard and bumpy when frozen, so pick your line carefully through the grass.",
+                "de": "Die Ruinen wirken wie in der Zeit eingefroren; der gefrorene Boden ist hart und uneben, wählen Sie Ihren Weg durch das Gras sorgfältig.",
+                "hu": "A romok olyanok, mintha megfagytak volna az időben; a fagyott talaj kemény és rázós, óvatosan válassza meg az útvonalat a fűben.",
+                "ro": "Ruinele par înghețate în timp; solul este tare și accidentat când e înghețat, alegeți-vă traseul cu grijă prin iarbă."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Nature Reserve",
+                "de": "Kenfig Nature Reserve",
+                "hu": "Kenfig Nature Reserve",
+                "ro": "Kenfig Nature Reserve"
+              },
+              "tip_5lang": {
+                "en": "The lake often has a thin layer of ice; enjoy the crisp air but be mindful of the light fading quickly behind the dunes in the afternoon.",
+                "de": "Der See hat oft eine dünne Eisschicht; genießen Sie die klare Luft, aber denken Sie an das schwindende Licht hinter den Dünen.",
+                "hu": "A tavon gyakran vékony jégréteg látható; élvezze a friss levegőt, de ügyeljen a dűnék mögött gyorsan eltűnő délutáni fényekre.",
+                "ro": "Lacul are adesea un strat subțire de gheață; bucurați-vă de aerul curat, dar fiți atenți la lumina care scade repede după dune."
+              }
+            },
+            {
+              "name": {
+                "en": "Sker House",
+                "de": "Sker House",
+                "hu": "Sker House",
+                "ro": "Sker House"
+              },
+              "tip_5lang": {
+                "en": "The house stands starkly against the winter sky; the exposed coastal path can be very windy and chill your hands, so wear windproof gloves.",
+                "de": "Das Haus steht markant vor dem Winterhimmel; der Küstenweg kann sehr windig sein, windfeste Handschuhe sind hier ein Segen.",
+                "hu": "A ház élesen kirajzolódik a téli égen; a nyitott parti út nagyon szeles lehet, viseljen szélálló kesztyűt a kezei védelmére.",
+                "ro": "Casa se profilează clar pe cerul de iarnă; poteca de coastă poate fi foarte vântoasă, purtați mănuși rezistente la vânt."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Sands",
+                "de": "Kenfig Sands",
+                "hu": "Kenfig Sands",
+                "ro": "Kenfig Sands"
+              },
+              "tip_5lang": {
+                "en": "The winter sea is often a deep blue; the sand can be hard and easy to ride on when frozen, but watch for loose icy pools.",
+                "de": "Das Wintermeer ist oft tiefblau; der gefrorene Sand ist leicht zu befahren, aber achten Sie auf gefrorene Pfützen im Sand.",
+                "hu": "A téli tenger gyakran mélykék; a homok fagyott állapotban kemény és könnyen tekerhető, de vigyázzon a jeges pocsolyákra.",
+                "ro": "Marea de iarnă este adesea de un albastru profund; nisipul înghețat este ușor de parcurs, dar atenție la bălțile cu gheață."
+              }
+            },
+            {
+              "name": {
+                "en": "Sker Beach",
+                "de": "Sker Beach",
+                "hu": "Sker Beach",
+                "ro": "Sker Beach"
+              },
+              "tip_5lang": {
+                "en": "Arrive before 16:30 for the sunset; the cold air makes the colors more vibrant, but the temperature will drop sharply once the sun is down.",
+                "de": "Kommen Sie vor 16:30 Uhr zum Sonnenuntergang; die kalte Luft macht die Farben intensiver, aber danach sinkt die Temperatur rapide.",
+                "hu": "Érkezzen 16:30 előtt a naplementére; a hideg levegő miatt a színek élénkebbek, de a naplemente után a hőmérséklet hirtelen leesik.",
+                "ro": "Ajungeți înainte de 16:30 pentru apus; aerul rece face culorile mai vibrante, dar temperatura va scădea brusc după apus."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "de": "Beginnen Sie Ihre malerische Fahrt bei den Überresten lokaler Eisenwerke und halten Sie dann an der charmanten mittelalterlichen Kirche der Stadt. Bewundern Sie mittags eine historische Abtei, bevor Sie eine von Dünen verschluckte Burg erkunden. Der Nachmittag lädt zu einer Pause in einer alten Taverne ein, gefolgt von einem Spaziergang in der Natur. Ihre Reise endet mit Küstenblicken bei Sonnenuntergang.",
         "hu": "Kezdje festői autózását a helyi vasmű lenyűgöző maradványainál, majd álljon meg a város bájos középkori templománál. Dél körül csodálja meg egy történelmi apátság építészetét, mielőtt felfedezne egy dűnék által elnyelt kastélyt. A délután pihentető szünetre hív egy ősi fogadóban, majd egy kellemes sétára a természetben. Utazása naplementekor ér véget a tengerparti kilátással.",
         "ro": "Începeți călătoria panoramică la rămășițele fascinante ale fierăriilor locale, apoi opriți-vă la fermecătoarea biserică medievală. La prânz, admirați arhitectura unei abații istorice înainte de a explora un castel înghițit de dune. După-amiaza vă invită la o pauză relaxantă într-o tavernă antică, urmată de o plimbare în natură. Călătoria se încheie cu vederi la coastă la apus."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Morning drive to Cefn Cribwr Ironworks offers sheltered industrial exploration. St James' Church and Margam Abbey provide historical indoor escapes as the rain intensifies. Midday lunch at the Prince of Wales Inn is the perfect way to stay dry. Afternoon includes a quick view of the reserve's lake from the visitor center, followed by storm watching from your car at Sker Beach.",
+            "de": "Die morgendliche Fahrt zu den Cefn Cribwr Ironworks bietet geschützte Einblicke. St James' Church und Margam Abbey sind ideale Rückzugsorte bei Regen. Ein Mittagessen im Prince of Wales Inn hält Sie trocken. Nachmittags blickt man vom Besucherzentrum auf den See und beobachtet später vom Auto aus den Sturm am Sker Beach.",
+            "hu": "A reggeli út a Cefn Cribwr vasműhöz fedett ipari felfedezést kínál. A St James' templom és a Margam apátság történelmi menedéket nyújt az erősödő esőben. A Prince of Wales fogadóban elköltött ebéd a legjobb módja a szárazon maradásnak. Délután a látogatóközpontból nézhetjük a tavat, majd az autóból figyelhetjük a viharos tengert a Sker Beachen.",
+            "ro": "Drumul spre Cefn Cribwr oferă o explorare industrială la adăpost. Biserica St James și Margam Abbey sunt refugii istorice excelente pe ploaie. Prânzul la Prince of Wales Inn este modul perfect de a rămâne uscat. După-amiaza include vizitarea rezervației de la centru, apoi privitul furtunii din mașină la Sker Beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Cefn Cribwr Ironworks",
+                "de": "Cefn Cribwr Ironworks",
+                "hu": "Cefn Cribwr Ironworks",
+                "ro": "Cefn Cribwr Ironworks"
+              },
+              "tip_5lang": {
+                "en": "The remains of the blast furnace offer some structural shelter; the rain highlights the dark, industrial textures of the historic ironworks site.",
+                "de": "Die Reste des Hochofens bieten etwas Schutz; der Regen betont die dunklen, industriellen Texturen der historischen Eisenhütte.",
+                "hu": "A nagyolvasztó maradványai némi fedezéket nyújtanak; az eső kiemeli a történelmi vasmű sötét, ipari textúráit.",
+                "ro": "Rămășițele furnalului oferă un adăpost parțial; ploaia scoate în evidență texturile industriale întunecate ale sitului istoric."
+              }
+            },
+            {
+              "name": {
+                "en": "St James' Church",
+                "de": "St James' Church",
+                "hu": "St James' Church",
+                "ro": "St James' Church"
+              },
+              "tip_5lang": {
+                "en": "Park close to the entrance to minimize time in the rain; the interior is peaceful and dry, perfect for a slow study of the architecture.",
+                "de": "Parken Sie nah am Eingang, um trocken zu bleiben; das Innere ist friedlich und ideal, um die Architektur in Ruhe zu studieren.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt; a belső tér békés és száraz, tökéletes az építészet lassú felfedezéséhez.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; interiorul este liniștit și uscat, perfect pentru studierea arhitecturii."
+              }
+            },
+            {
+              "name": {
+                "en": "Margam Abbey",
+                "de": "Margam Abbey",
+                "hu": "Margam Abbey",
+                "ro": "Margam Abbey"
+              },
+              "tip_5lang": {
+                "en": "The abbey's massive stone structure feels very grounding in heavy rain; use the nearby museum areas to stay dry while learning the history.",
+                "de": "Die massiven Mauern der Abtei wirken bei Regen sehr beruhigend; nutzen Sie die Musemsbereiche, um trocken die Geschichte zu erfahren.",
+                "hu": "Az apátság masszív kőszerkezete megnyugtató látvány nagy esőben; használja a múzeumi részeket, hogy szárazon ismerje meg a történelmet.",
+                "ro": "Structura masivă de piatră a abației oferă siguranță pe ploaie; vizitați zonele de muzeu pentru a rămâne uscat în timp ce aflați istoria."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Castle",
+                "de": "Kenfig Castle",
+                "hu": "Kenfig Castle",
+                "ro": "Kenfig Castle"
+              },
+              "tip_5lang": {
+                "en": "The walk from the parking area can be very muddy; check the ruins quickly and return to the warmth of your car for the next leg.",
+                "de": "Der Weg vom Parkplatz kann sehr matschig sein; besichtigen Sie die Ruinen kurz und kehren Sie dann ins warme Auto zurück.",
+                "hu": "A parkolóból vezető út nagyon sáros lehet; nézze meg gyorsan a romokat, majd térjen vissza az autó melegébe a következő szakaszig.",
+                "ro": "Drumul de la parcare poate fi foarte noroios; vizitați ruinele rapid și întoarceți-vă la căldura mașinii pentru următoarea etapă."
+              }
+            },
+            {
+              "name": {
+                "en": "Prince of Wales Inn",
+                "de": "Prince of Wales Inn",
+                "hu": "Prince of Wales Inn",
+                "ro": "Prince of Wales Inn"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the sound of rain against the old windows from the comfort of a warm booth; the pub is famous for its cozy, dry interior.",
+                "de": "Genießen Sie das Trommeln des Regens an den alten Fenstern in einer gemütlichen Nische; der Pub ist für seine Behaglichkeit bekannt.",
+                "hu": "Élvezze az eső kopogását a régi ablakokon egy meleg boksz kényelméből; a pub híres a barátságos, száraz belső teréről.",
+                "ro": "Bucurați-vă de sunetul ploii în ferestrele vechi dintr-o cabină caldă; pub-ul este faimos pentru interiorul său primitor și uscat."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Nature Reserve",
+                "de": "Kenfig Nature Reserve",
+                "hu": "Kenfig Nature Reserve",
+                "ro": "Kenfig Nature Reserve"
+              },
+              "tip_5lang": {
+                "en": "The visitor center provides excellent indoor views of the reserve; use their binoculars to spot birds on the lake without getting wet.",
+                "de": "Das Besucherzentrum bietet tolle Ausblicke ins Reservat; nutzen Sie die Ferngläser, um Vögel zu sehen, ohne nass zu werden.",
+                "hu": "A látogatóközpontból kiváló rálátás nyílik a rezervátumra; használja a távcsöveiket a tavi madarak megfigyeléséhez, ázás nélkül.",
+                "ro": "Centrul de vizitare oferă vederi interioare excelente; folosiți binoclurile lor pentru a vedea păsările de pe lac fără a vă uda."
+              }
+            },
+            {
+              "name": {
+                "en": "Sker Beach",
+                "de": "Sker Beach",
+                "hu": "Sker Beach",
+                "ro": "Sker Beach"
+              },
+              "tip_5lang": {
+                "en": "The sea is spectacular during a storm; stay in the car at the edge of the dunes for a safe and dry view of the crashing waves.",
+                "de": "Die See ist bei Sturm spektakulär; bleiben Sie im Auto am Rand der Dünen für einen sicheren Blick auf die tosenden Wellen.",
+                "hu": "A tenger látványos vihar idején; maradjon az autóban a dűnék szélén, hogy biztonságban és szárazon lássa a becsapódó hullámokat.",
+                "ro": "Marea este spectaculoasă în timpul furtunii; rămâneți în mașină la marginea dunelor pentru a vedea valurile în siguranță."
+              }
+            },
+            {
+              "name": {
+                "en": "Parc Stormy",
+                "de": "Parc Stormy",
+                "hu": "Parc Stormy",
+                "ro": "Parc Stormy"
+              },
+              "tip_5lang": {
+                "en": "The open space is very exposed to wind and rain; a quick circular drive-through offers a sense of the scale of this unique landscape.",
+                "de": "Die Freifläche ist Wind und Regen stark ausgesetzt; eine kurze Rundfahrt vermittelt einen Eindruck von der Weite dieser Landschaft.",
+                "hu": "A nyílt terület ki van téve a szélnek és esőnek; egy gyors autós körút is átadja e különleges táj monumentális méreteit.",
+                "ro": "Spațiul deschis este foarte expus la vânt și ploaie; o scurtă tură cu mașina oferă o idee despre scara acestui peisaj unic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Morning drive to the Ironworks reveals a frosty industrial heritage. St James' Church and Margam Abbey look stark and beautiful against the cold sky. Midday lunch at the inn provides warmth before exploring the castle ruins. Afternoon is spent at the reserve, catching the golden hour light on the water. The day ends with a sunset at Sker Beach and a quick loop through Parc Stormy.",
+            "de": "Die morgendliche Fahrt zu den Ironworks zeigt das industrielle Erbe im Frost. Die Kirche und die Abtei wirken vor dem kalten Himmel besonders rein. Ein warmes Mittagessen stärkt Sie für die Burgruinen. Nachmittags im Reservat fangen Sie das goldene Licht auf dem Wasser ein. Der Tag endet mit dem Sonnenuntergang am Sker Beach.",
+            "hu": "A reggeli út a vasműhöz a zúzmarás ipari örökséget mutatja be. A templom és az apátság méltóságteljes a hideg téli égbolt alatt. A déli ebéd után melegedjen fel a fogadóban, mielőtt a várat felfedezné. A délutánt a rezervátumban töltjük az aranyórában. A nap a Sker Beachen zárul naplementével, majd egy körrel a Parc Stormy-ban.",
+            "ro": "Drumul de dimineață spre Ironworks dezvăluie o moștenire industrială înghețată. Biserica și abația arată superbe sub cerul rece. Prânzul la han oferă căldură înainte de a explora ruinele castelului. După-amiaza este petrecută în rezervație sub lumina aurie. Ziua se încheie cu apusul la Sker Beach și o tură prin Parc Stormy."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Cefn Cribwr Ironworks",
+                "de": "Cefn Cribwr Ironworks",
+                "hu": "Cefn Cribwr Ironworks",
+                "ro": "Cefn Cribwr Ironworks"
+              },
+              "tip_5lang": {
+                "en": "The ironworks site is atmospheric when covered in frost; the cold air preserves the industrial silence of this historic monument.",
+                "de": "Das Gelände der Eisenhütte ist bei Frost sehr atmosphärisch; die kalte Luft bewahrt die industrielle Stille dieses Denkmals.",
+                "hu": "A vasmű területe rendkívül hangulatos zúzmarás időben; a hideg levegő konzerválja e történelmi műemlék ipari csendjét.",
+                "ro": "Situl industrial este plin de atmosferă când este înghețat; aerul rece păstrează tăcerea industrială a acestui monument istoric."
+              }
+            },
+            {
+              "name": {
+                "en": "St James' Church",
+                "de": "St James' Church",
+                "hu": "St James' Church",
+                "ro": "St James' Church"
+              },
+              "tip_5lang": {
+                "en": "The church interior is a peaceful, still place in winter; take a moment to admire the contrast between the cold exterior and warm history.",
+                "de": "Das Innere der Kirche ist im Winter ein Ort der Stille; bewundern Sie den Kontrast zwischen der Kälte draußen und der alten Geschichte.",
+                "hu": "A templombelső békés, nyugodt hely télen; szánjon egy percet a hideg külvilág és a melegséget árasztó történelem kontrasztjára.",
+                "ro": "Interiorul bisericii este un loc liniștit iarna; admirați contrastul dintre exteriorul rece și istoria caldă a locului."
+              }
+            },
+            {
+              "name": {
+                "en": "Margam Abbey",
+                "de": "Margam Abbey",
+                "hu": "Margam Abbey",
+                "ro": "Margam Abbey"
+              },
+              "tip_5lang": {
+                "en": "The parkland around the abbey can be icy; enjoy the stark beauty of the bare trees framing the ancient stone ruins from your car window.",
+                "de": "Der Park um die Abtei kann vereist sein; genießen Sie die karge Schönheit der kahlen Bäume um die Ruinen bequem aus dem Auto.",
+                "hu": "Az apátság körüli park jeges lehet; élvezze a kopár fák és az ősi kőromok tiszta szépségét az autó ablakából figyelve.",
+                "ro": "Parcul din jurul abației poate fi înghețat; admirați frumusețea copacilor golași care încadrează ruinele din fereastra mașinii."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Castle",
+                "de": "Kenfig Castle",
+                "hu": "Kenfig Castle",
+                "ro": "Kenfig Castle"
+              },
+              "tip_5lang": {
+                "en": "The castle ruins look sharp and clear in the dry winter air; keep your visit brief to avoid the wind chill on the exposed hill.",
+                "de": "Die Burgruinen wirken in der trockenen Winterluft scharf und klar; fassen Sie den Besuch kurz, um dem kalten Wind zu entgehen.",
+                "hu": "A várromok élesen és tisztán rajzolódnak ki a száraz téli levegőben; tartsa rövidre a látogatást a nyitott dombon lévő metsző szél miatt.",
+                "ro": "Ruinele castelului par clare în aerul uscat de iarnă; vizitați-le scurt pentru a evita vântul tăios de pe dealul expus."
+              }
+            },
+            {
+              "name": {
+                "en": "Prince of Wales Inn",
+                "de": "Prince of Wales Inn",
+                "hu": "Prince of Wales Inn",
+                "ro": "Prince of Wales Inn"
+              },
+              "tip_5lang": {
+                "en": "The best place to defrost after the morning's exploration; enjoy the historic ambiance and a hot drink by the fire.",
+                "de": "Der beste Ort, um nach der Erkundung am Morgen aufzutauen; genießen Sie das historische Ambiente und ein heißes Getränk am Feuer.",
+                "hu": "A legjobb hely a felengedésre a reggeli felfedezés után; élvezze a történelmi hangulatot és egy forró italt a kandalló mellett.",
+                "ro": "Cel mai bun loc pentru a vă încălzi după explorarea de dimineață; savurați ambianța istorică și o băutură caldă lângă foc."
+              }
+            },
+            {
+              "name": {
+                "en": "Kenfig Nature Reserve",
+                "de": "Kenfig Nature Reserve",
+                "hu": "Kenfig Nature Reserve",
+                "ro": "Kenfig Nature Reserve"
+              },
+              "tip_5lang": {
+                "en": "The winter sunset over Kenfig Pool is unforgettable; park at the visitor center for easy access to the best viewpoints before dusk.",
+                "de": "Der Wintersonnenuntergang über dem Kenfig Pool ist unvergesslich; parken Sie am Besucherzentrum für den besten Blick vor der Dämmerung.",
+                "hu": "A Kenfig-tó feletti téli naplemente felejthetetlen; parkoljon a látogatóközpontnál, hogy sötétedés előtt elérje a legjobb kilátópontokat.",
+                "ro": "Apusul de iarnă peste Kenfig Pool este de neuitat; parcați la centrul de vizitare pentru acces ușor la cele mai bune puncte de observație."
+              }
+            },
+            {
+              "name": {
+                "en": "Sker Beach",
+                "de": "Sker Beach",
+                "hu": "Sker Beach",
+                "ro": "Sker Beach"
+              },
+              "tip_5lang": {
+                "en": "The beach is wild and empty in winter; the car heater will be your best friend after a quick, bracing walk on the cold sand.",
+                "de": "Der Strand ist im Winter wild und leer; die Autoheizung wird Ihr bester Freund nach einem erfrischenden Spaziergang im kalten Sand sein.",
+                "hu": "A tengerpart vad és üres télen; az autófűtés lesz a legjobb barátja egy gyors, frissítő séta után a hideg homokban.",
+                "ro": "Plaja este sălbatică și goală iarna; încălzirea mașinii va fi binevenită după o plimbare revigorantă pe nisipul rece."
+              }
+            },
+            {
+              "name": {
+                "en": "Parc Stormy",
+                "de": "Parc Stormy",
+                "hu": "Parc Stormy",
+                "ro": "Parc Stormy"
+              },
+              "tip_5lang": {
+                "en": "The landscape here looks vast and stark in the winter twilight; a quick drive through captures the unique character of this plateau.",
+                "de": "Die Landschaft wirkt im winterlichen Zwielicht weit und karg; eine kurze Fahrt zeigt den einzigartigen Charakter dieses Plateaus.",
+                "hu": "A táj hatalmasnak és zordnak tűnik a téli szürkületben; egy gyors átautózás is visszaadja e fennsík egyedi karakterét.",
+                "ro": "Peisajul pare vast și golaș în amurgul de iarnă; o scurtă traversare cu mașina surprinde caracterul unic al acestui platou."
+              }
+            }
+          ]
+        }
       }
     }
   }

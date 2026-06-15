@@ -137,6 +137,168 @@
         "hu": "A reggel a Liqeni i Dunjve békés légkörével kezdődik, amelyet a Liqeni i Vores tágas vizei felé tett frissítő túra követ. A délidő laza sétára hív Selja buja zöldjében, tökéletes természeti menedéket kínálva. A délutánt a Liqeni Gerdec szépségének megörökítésével töltjük. Az este a Liqeni i Huqve melletti nyugodt piknikkel közeledik, ahogy a nap szép lassan lenyugszik.",
         "ro": "Dimineața începe cu atmosfera pașnică de la Liqeni i Dunjve, urmată de o drumeție revigorantă spre Liqeni i Vores. La prânz, verdeața luxuriantă de la Selja vă invită la o plimbare relaxantă, oferind un refugiu natural perfect. După-amiaza este dedicată capturării frumuseții de la Liqeni Gerdec. Seara se apropie cu un picnic relaxant la apus pe malul liniștit al Liqeni i Huqve.",
         "en": "Morning begins with the peaceful atmosphere of Liqeni i Dunjve, followed by a refreshing hike toward the expansive waters of Liqeni i Vores. Midday invites a leisurely stroll through the lush greenery of Selja, offering a perfect natural retreat. Afternoon is spent capturing the serene beauty and reflections at Liqeni Gerdec. Evening approaches with a relaxing sunset picnic at Liqeni i Huqve."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit leichtem Nieselregen über den Seen, was die Wege rutschig macht; feste Wanderschuhe sind ratsam. Mittags suchen wir Schutz unter Vordächern, während der Nebel die Hügel einhüllt. Am Nachmittag sorgt der Regen für eine mystische Stille in der Natur. Der Abend endet gemütlich im Trockenen, während man den Tropfen am Fenster lauscht.",
+            "hu": "A reggel borús, az ösvények pedig a sár miatt csúszósak, így a vízálló lábbeli elengedhetetlen a tóparti sétához. Délben a közeli ereszek alatt pihenünk, figyelve a tájra telepedő ködöt. Délután az eső kopogása ritmust ad a természet csendjének. Az este a hosszú és vizes túra után egy meleg tea mellett, fedett helyen a legkellemesebb.",
+            "ro": "Dimineața începe cu ploaie ușoară peste lacuri, făcând potecile noroioase; încălțămintea impermeabilă este esențială pentru siguranță. La prânz căutăm adăpost sub streșini în timp ce ceața acoperă dealurile. După-amiaza, ploaia creează o liniște mistică în natură. Seara se încheie confortabil la adăpost, ascultând ritmul picăturilor de apă.",
+            "en": "The morning starts with light drizzle over the lakes, making paths slippery; waterproof boots are essential for a safe walk. At noon, we find shelter under eaves as mist rolls over the hills. In the afternoon, the rain creates a mystical silence throughout the landscape. The evening ends comfortably indoors, warming up after a long day in the damp air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liqeni i Dunjve",
+                "hu": "Liqeni i Dunjve",
+                "ro": "Liqeni i Dunjve",
+                "en": "Liqeni i Dunjve"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dramatischen Wolkenspiegelungen im grauen Wasser; bleiben Sie auf befestigten Wegen, da das Ufergras bei Regen extrem rutschig ist.",
+                "hu": "Csodálja meg a szürke felhők drámai tükröződését a vízen; maradjon a kövezett úton, mert a part menti fű esőben rendkívül csúszóssá és veszélyessé válik.",
+                "ro": "Admirați reflexiile dramatice ale norilor în apa cenușie; rămâneți pe potecile pavate, deoarece iarba de pe mal devine extrem de alunecoasă pe ploaie.",
+                "en": "Admire the dramatic cloud reflections in the grey water; stay on the paved paths as the shore grass becomes extremely slippery and muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Vores",
+                "hu": "Liqeni i Vores",
+                "ro": "Liqeni i Vores",
+                "en": "Liqeni i Vores"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel über dem See bietet eine perfekte Kulisse für Fotos; nutzen Sie einen stabilen Regenschirm, da der Wind hier oft böig auffrischen kann.",
+                "hu": "A tó feletti köd tökéletes hátteret biztosít a fotózáshoz; használjon erős szélálló esernyőt, mert a nyílt terepen a szél gyakran hirtelen feltámadhat.",
+                "ro": "Ceața de deasupra lacului oferă un fundal perfect pentru fotografii; folosiți o umbrelă rezistentă, deoarece vântul se poate intensifica brusc aici.",
+                "en": "The mist over the lake provides a perfect backdrop for moody photos; use a sturdy umbrella as the wind often picks up unexpectedly in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Selja",
+                "hu": "Selja",
+                "ro": "Selja",
+                "en": "Selja"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe unter den Bäumen, die einen natürlichen Schutz bieten; tragen Sie eine wasserfeste Jacke, um die frische, feuchte Waldluft zu genießen.",
+                "hu": "Élvezze a természetes oltalmat nyújtó fák alatti csendet; viseljen vízhatlan dzsekit, hogy zavartalanul szívhassa be a friss, párás erdei levegőt.",
+                "ro": "Bucurați-vă de liniștea de sub copacii care oferă un adăpost natural; purtați o jachetă impermeabilă pentru a savura aerul proaspăt și umed al pădurii.",
+                "en": "Enjoy the silence under the trees which offer natural shelter; wear a waterproof jacket to fully experience the fresh, damp forest air without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni Gerdec",
+                "hu": "Liqeni Gerdec",
+                "ro": "Liqeni Gerdec",
+                "en": "Liqeni Gerdec"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wasservögel, die im Regen besonders aktiv sind; achten Sie auf Ihre Schritte auf den unebenen, jetzt schlammigen Uferpassagen.",
+                "hu": "Figyelje meg az esőben különösen aktív vízimadarakat; lépkedjen óvatosan az egyenetlen, ilyenkor mélyen sáros és süppedős tóparti szakaszokon.",
+                "ro": "Observați păsările de apă care sunt deosebit de active pe ploaie; aveți grijă la pași pe porțiunile de mal denivelate și acum pline de noroi.",
+                "en": "Observe the water birds that are particularly active in the rain; watch your step on the uneven lakeshore sections which are now quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Huqve",
+                "hu": "Liqeni i Huqve",
+                "ro": "Liqeni i Huqve",
+                "en": "Liqeni i Huqve"
+              },
+              "tip_5lang": {
+                "de": "Ein atmosphärischer Ort, um den Tag bei Regengeräuschen ausklingen zu lassen; halten Sie ein trockenes Handtuch im Rucksack für den Rückweg bereit.",
+                "hu": "Hangulatos hely a nap lezárásához az eső kopogását hallgatva; tartsunk egy száraz törölközőt a hátizsákban a városba való visszatérés előtt.",
+                "ro": "Un loc atmosferic pentru a încheia ziua ascultând sunetul ploii; păstrați un prosop uscat în rucsac pentru drumul de întoarcere spre oraș.",
+                "en": "An atmospheric spot to end the day listening to the rain; keep a dry towel in your backpack for a quick cleanup before returning to the city center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Luft und kahle Bäume prägen den winterlichen Morgen an den Seen; Zwiebelprinzip bei der Kleidung ist heute Pflicht. Mittags wärmt die tiefstehende Sonne nur schwach, bietet aber goldenes Licht. Ab 16:00 Uhr beginnt die Dämmerung, und es wird spürbar kälter. Um 17:00 Uhr ist es dunkel, Zeit für eine warme Mahlzeit in einer geheizten Stube.",
+            "hu": "Deres fű és kopár fák fogadják a látogatót a téli reggelen; a réteges öltözködés elengedhetetlen a hideg szélben. Délben a laposan járó nap gyenge fénye aranyba vonja a tavat. Délután négytől gyorsan hűlni kezd a levegő, ötkor pedig már sötét van. Az estét töltsük egy fűtött helyen, felmelegedve a jeges túra után.",
+            "ro": "Aerul înghețat și copacii golași definesc dimineața de iarnă la lacuri; îmbrăcămintea în straturi este obligatorie astăzi. La prânz, soarele jos încălzește slab, dar oferă o lumină aurie. De la ora 16:00 începe amurgul și se face mult mai frig. La ora 17:00 este deja întuneric, timpul ideal pentru o masă caldă.",
+            "en": "Frosty air and bare trees define the winter morning by the lakes; layering your clothes is a must today. At noon, the low sun provides weak warmth but beautiful golden light. From 4 PM, the twilight sets in and it gets significantly colder. By 5 PM it is dark, perfect timing for a warm meal in a heated indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liqeni i Dunjve",
+                "hu": "Liqeni i Dunjve",
+                "ro": "Liqeni i Dunjve",
+                "en": "Liqeni i Dunjve"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Uferkanten bieten ein glitzerndes Naturschauspiel; bringen Sie eine Thermoskanne mit heißem Tee mit, um den Körper von innen zu wärmen.",
+                "hu": "A befagyott tóparti peremek csillogó látványt nyújtanak; vigyen magával forró teát termoszban, hogy belülről is melegen tartsa testét a hidegben.",
+                "ro": "Marginile înghețate ale lacului oferă un spectacol sclipitor; aduceți un termos cu ceai fierbinte pentru a vă încălzi corpul din interior pe parcurs.",
+                "en": "The frozen edges of the lake offer a sparkling natural spectacle; bring a thermos of hot tea to keep your core temperature up during the cold walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Vores",
+                "hu": "Liqeni i Vores",
+                "ro": "Liqeni i Vores",
+                "en": "Liqeni i Vores"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sichtweiten auf die Berge; tragen Sie Thermo-Socken, da die Kälte hier am Wasser besonders schnell durch die Sohlen zieht.",
+                "hu": "A tiszta téli levegő távoli kilátást enged a hegyekre; viseljen thermo-zoknit, mert a vízparti hideg gyorsan áthatol a cipőtalpakon keresztül.",
+                "ro": "Aerul clar de iarnă permite vederi îndepărtate spre munți; purtați șosete termice, deoarece frigul de lângă apă pătrunde rapid prin tălpile pantofilor.",
+                "en": "The clear winter air allows for distant views of the mountains; wear thermal socks as the lakeside cold seeps quickly through your shoe soles."
+              }
+            },
+            {
+              "name": {
+                "de": "Selja",
+                "hu": "Selja",
+                "ro": "Selja",
+                "en": "Selja"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort tiefer Stille in der kalten Jahreszeit; bewegen Sie sich stetig, um die Blutzirkulation in den Extremitäten bei den niedrigen Temperaturen zu fördern.",
+                "hu": "A mély csend helyszíne a hideg évszakban; mozogjon folyamatosan, hogy fenntartsa végtagjaiban a vérkeringést az alacsony hőmérséklet ellenére.",
+                "ro": "Un loc de liniște profundă în sezonul rece; mișcați-vă constant pentru a menține circulația sângelui în extremități la aceste temperaturi scăzute.",
+                "en": "A place of profound silence in the cold season; keep moving steadily to maintain blood circulation in your extremities against the low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni Gerdec",
+                "hu": "Liqeni Gerdec",
+                "ro": "Liqeni Gerdec",
+                "en": "Liqeni Gerdec"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für stimmungsvolle Winterfotos; planen Sie den Aufbruch rechtzeitig, da die Wege im Schatten früh zu vereisen beginnen.",
+                "hu": "Használja ki az utolsó fényeket a hangulatos téli fotókhoz; induljon vissza időben, mert az árnyékos szakaszokon az utak korán jegesedni kezdenek.",
+                "ro": "Profități de ultimele raze de lumină pentru fotografii de iarnă; planificați plecarea din timp, deoarece potecile la umbră încep să înghețe devreme.",
+                "en": "Use the last bit of daylight for atmospheric winter photos; plan your return early as shaded path sections begin to freeze over quickly after 4 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Huqve",
+                "hu": "Liqeni i Huqve",
+                "ro": "Liqeni i Huqve",
+                "en": "Liqeni i Huqve"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt im fahlen Winterlicht beinahe verlassen und friedlich; eine Taschenlampe ist für den Rückweg ab 17:00 Uhr absolut notwendig.",
+                "hu": "A tó a téli fényben szinte elhagyatottnak és végtelenül békésnek tűnik; ötfelé már sötétedik, így a visszatéréshez mindenképp legyen önnél lámpa.",
+                "ro": "Lacul pare aproape pustiu și pașnic în lumina palidă de iarnă; o lanternă este absolut necesară pentru drumul de întoarcere după ora 17:00.",
+                "en": "The lake looks almost deserted and peaceful in the pale winter light; a flashlight is absolutely necessary for the walk back after 5 PM darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpáros utazását a nyugodt Liqeni i Kasëve tónál, majd tekerjen energikusan a Liqeni i Rrubjekes vad növényzete felé. Délben a Liqeni i Borçës érintetlen partjainál pihen, élvezve a tiszta elszigeteltséget. A délutáni túra a Liqeni i Huqve és Gerdec festői kilátásához folytatódik. Az este akkor érkezik el, amikor begurul Seljába, és a napot a Liqeni i Voresnél zárja.",
         "ro": "Începeți călătoria cu bicicleta la liniștitul Liqeni i Kasëve înainte de a pedala energic spre vegetația sălbatică de la Liqeni i Rrubjekes. La prânz vă odihniți pe malurile neatinse de la Liqeni i Borçës, bucurându-vă de izolarea pură. Plimbarea de după-amiază continuă spre Huqve și Gerdec. Seara sosește pe măsură ce rulați în Selja și încheiați ziua pitorească la Liqeni i Vores.",
         "en": "Start your cycling journey at the serene Liqeni i Kasëve before pedaling energetically towards the wild vegetation of Liqeni i Rrubjekes. Midday sees you resting by the untouched banks of Liqeni i Borçës, enjoying the pure isolation. The afternoon ride continues to Liqeni i Huqve and Gerdec for scenic views. Evening arrives as you roll into Selja and conclude at Liqeni i Vores."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert heute volle Konzentration auf die rutschigen Asphaltflächen. Am Vormittag ist die Sicht durch den Sprühregen eingeschränkt, tragen Sie helle Kleidung. Mittags sind Pausen unter festen Unterständen wichtig, um die Ausrüstung zu prüfen. Der Nachmittag bleibt feucht, aber die Luft ist herrlich frisch. Abends ist die warme Dusche das Ziel.",
+            "hu": "A mai esős tekerés teljes koncentrációt igényel a csúszós aszfalt miatt. Délelőtt a szitálás rontja a látási viszonyokat, így viseljünk feltűnő ruházatot. Délben keressünk stabil fedelet a pihenéshez és a felszerelés ellenőrzéséhez. A délután nedves marad, de a levegő frissítő. Az este célja egy forró fürdő és a száraz ruha.",
+            "ro": "Ciclismul pe ploaie necesită astăzi concentrare maximă pe suprafețele de asfalt alunecoase. Dimineața vizibilitatea este limitată de burniță, purtați haine reflectorizante. La prânz pauzele sub adăposturi fixe sunt importante pentru verificarea echipamentului. După-amiaza rămâne umedă, dar aerul este revigorant. Seara dușul cald este obiectivul principal.",
+            "en": "Cycling in the rain today requires full concentration on the slippery asphalt surfaces. In the morning, visibility is limited by drizzle, so wear bright clothing. At noon, breaks under solid shelters are important to check your gear and dry off. The afternoon remains damp, but the air is wonderfully fresh. Evening's goal is a warm shower."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liqeni i Kasëve",
+                "hu": "Liqeni i Kasëve",
+                "ro": "Liqeni i Kasëve",
+                "en": "Liqeni i Kasëve"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie auf den nassen Wegen frühzeitig ab; eine wasserdichte Packtasche schützt Ihre persönlichen Gegenstände vor dem eindringenden Regenwasser.",
+                "hu": "Fékezzen időben a nedves utakon; egy vízálló kerékpáros táska megvédi személyes tárgyait és a tartalék ruhát a beszivárgó esővíztől a túra során.",
+                "ro": "Frânați din timp pe drumurile ude; o geantă de bicicletă impermeabilă vă va proteja obiectele personale de infiltrațiile apei de ploaie pe traseu.",
+                "en": "Apply your brakes early on the wet roads; a waterproof pannier bag will protect your personal belongings from the rain during the entire trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Rrubjekes",
+                "hu": "Liqeni i Rrubjekes",
+                "ro": "Liqeni i Rrubjekes",
+                "en": "Liqeni i Rrubjekes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten; tragen Sie eine Regenbrille, um Ihre Augen vor aufspritzendem Schlamm und Wasser zu schützen.",
+                "hu": "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek; viseljen víztiszta szemüveget, hogy megvédje szemeit a felverődő sártól és víztől tekerés közben.",
+                "ro": "Atenție la bălțile care ar putea ascunde gropi adânci; purtați ochelari de protecție pentru a vă feri ochii de noroiul și apa împroșcate de roți.",
+                "en": "Watch out for puddles that could hide deep potholes; wear clear cycling glasses to protect your eyes from mud and water spray while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Borçës",
+                "hu": "Liqeni i Borçës",
+                "ro": "Liqeni i Borçës",
+                "en": "Liqeni i Borçës"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation am Ufer ist triefend nass, halten Sie Abstand zu Büschen; prüfen Sie regelmäßig den Reifendruck für besseren Grip auf rutschigem Grund.",
+                "hu": "A parti növényzet csuromvizes, tartson távolságot a bokroktól; rendszeresen ellenőrizze a guminyomást a jobb tapadás érdekében a csúszós talajon.",
+                "ro": "Vegetația de pe mal este îmbibată cu apă, păstrați distanța de tufișuri; verificați presiunea anvelopelor pentru o aderență mai bună pe solul alunecos.",
+                "en": "The shore vegetation is soaking wet, so keep your distance from bushes; regularly check tire pressure for better grip on the slippery ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Huqve",
+                "hu": "Liqeni i Huqve",
+                "ro": "Liqeni i Huqve",
+                "en": "Liqeni i Huqve"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die natürliche Umgebung für eine kurze Pause im Stehen; Schutzbleche am Rad sind heute ein Muss, um Ihren Rücken vor Nässe zu bewahren.",
+                "hu": "Használja ki a természetes környezetet egy rövid álló pihenőhöz; a sárvédő ma elengedhetetlen, hogy megvédje hátát a felverődő hideg víztől.",
+                "ro": "Folosiți mediul natural pentru o scurtă pauză în picioare; apărătorile de noroi sunt obligatorii astăzi pentru a vă proteja spatele de umezeală.",
+                "en": "Utilize the natural surroundings for a short standing break; mudguards are a must today to keep your back dry from the spray of the rear wheel."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni Gerdec",
+                "hu": "Liqeni Gerdec",
+                "ro": "Liqeni Gerdec",
+                "en": "Liqeni Gerdec"
+              },
+              "tip_5lang": {
+                "de": "Die feuchte Luft macht die Anstiege weniger anstrengend, aber kühler; ziehen Sie bei Abfahrten eine winddichte Schicht über, um nicht auszukühlen.",
+                "hu": "A párás levegőben az emelkedők kevésbé fárasztóak, de hűvösebbek; lejtmenetben vegyen fel szélálló réteget, hogy elkerülje a test lehűlését.",
+                "ro": "Aerul umed face urcările mai puțin obositoare, dar mai răcoroase; purtați un strat rezistent la vânt la coborâri pentru a nu răci.",
+                "en": "The damp air makes climbs feel less exhausting but cooler; put on a windproof layer during descents to prevent your body temperature from dropping."
+              }
+            },
+            {
+              "name": {
+                "de": "Selja",
+                "hu": "Selja",
+                "ro": "Selja",
+                "en": "Selja"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie abrupte Lenkbewegungen auf schlammigen Abschnitten; halten Sie Ihre Kette gut geschmiert, da der Regen den Schmierfilm schnell abwäscht.",
+                "hu": "Kerülje a hirtelen kormánymozdulatokat a sáros szakaszokon; tartsa a láncot jól olajozottan, mert az eső gyorsan lemossa a kenőanyagot a fémről.",
+                "ro": "Evitați mișcările bruște ale ghidonului pe porțiunile noroioase; păstrați lanțul bine lubrifiat, deoarece ploaia spală rapid pelicula protectoare.",
+                "en": "Avoid abrupt steering movements on muddy sections; keep your chain well-lubricated as the rain quickly washes away the protective oil film."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Vores",
+                "hu": "Liqeni i Vores",
+                "ro": "Liqeni i Vores",
+                "en": "Liqeni i Vores"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den regnerischen See vor der Rückkehr; schalten Sie Ihre Fahrradlichter ein, da die Sichtverhältnisse am späten Nachmittag sinken.",
+                "hu": "Egy utolsó pillantás az esős tóra a visszatérés előtt; kapcsolja be a lámpákat, mert a látási viszonyok késő délutánra drasztikusan romlanak.",
+                "ro": "O ultimă privire spre lacul ploios înainte de întoarcere; aprindeți luminile bicicletei, deoarece vizibilitatea scade mult spre sfârșitul zilei.",
+                "en": "A last look at the rainy lake before returning; turn on your bike lights as visibility drops significantly in the late afternoon drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei klarem Frost und eisigem Wind führt die Radtour heute durch die stille Winterlandschaft. Vormittags sind Handschuhe und Gesichtsschutz gegen den Fahrtwind unerlässlich. Mittags suchen wir warme Plätze für Pausen, um die Finger beweglich zu halten. Die Sonne sinkt früh, ab 16:30 Uhr ist mit Dunkelheit zu rechnen. Um 17:00 Uhr sollte die Tour beendet sein.",
+            "hu": "Tiszta fagy és jeges szél kíséri a mai bringázást a csendes téli tájon. Délelőtt a kesztyű és az arcvédő elengedhetetlen a metsző menetszél ellen. Délben keressünk fűtött helyet a pihenőhöz, hogy ujjaink ne gémberedjenek el. A nap korán nyugszik, fél öttől már szürkület van. Ötkor már sötétben, biztonságos helyen kell lennünk.",
+            "ro": "Cu ger clar și vânt înghețat, tura de bicicletă trece astăzi prin peisajul liniștit de iarnă. Dimineața, mănușile și protecția facială sunt esențiale. La prânz căutăm locuri calde pentru pauze, pentru a menține degetele mobile. Soarele apune devreme, de la 16:30 se lasă întunericul. Tura ar trebui încheiată până la ora 17:00.",
+            "en": "With clear frost and icy wind, today's bike ride goes through the quiet winter landscape. In the morning, gloves and face protection are essential against the wind chill. At noon, we seek warm spots for breaks to keep fingers mobile. The sun sets early, with darkness expected by 4:30 PM. The tour should be finished by 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Liqeni i Kasëve",
+                "hu": "Liqeni i Kasëve",
+                "ro": "Liqeni i Kasëve",
+                "en": "Liqeni i Kasëve"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe in schattigen Kurven; tragen Sie winddichte Kleidung, um den Körper vor dem eisigen Fahrtwind am Wasser zu schützen.",
+                "hu": "Ügyeljen a felfagyásokra az árnyékos kanyarokban; viseljen szélálló ruházatot, hogy megvédje testét a vízparti metsző, jeges menetszéltől.",
+                "ro": "Atenție la porțiunile de gheață în curbele umbrite; purtați haine rezistente la vânt pentru a proteja corpul de curentul înghețat de lângă apă.",
+                "en": "Watch out for black ice in shaded corners; wear windproof clothing to protect your body from the icy wind chill near the open water surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Rrubjekes",
+                "hu": "Liqeni i Rrubjekes",
+                "ro": "Liqeni i Rrubjekes",
+                "en": "Liqeni i Rrubjekes"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und kann blenden, nutzen Sie eine Sonnenbrille; halten Sie die Pausen kurz, damit Ihre Muskulatur nicht zu stark auskühlt.",
+                "hu": "A téli nap alacsonyan jár és elvakíthat, használjon napszemüveget; a pihenőket tartsa röviden, hogy az izmai ne hűljenek le túlságosan a hidegben.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor, folosiți ochelari de soare; păstrați pauzele scurte pentru ca mușchii să nu se răcească prea tare.",
+                "en": "The winter sun is low and can be blinding, so use sunglasses; keep your breaks short so your muscles don't cool down too much in the freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Borçës",
+                "hu": "Liqeni i Borçës",
+                "ro": "Liqeni i Borçës",
+                "en": "Liqeni i Borçës"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Ausblick auf den frostigen See; achten Sie darauf, dass Ihre Trinkflasche isoliert ist, damit das Wasser während der Fahrt nicht gefriert.",
+                "hu": "Csodálatos kilátás nyílik a deres tóra; ügyeljen rá, hogy kulacsa hőszigetelt legyen, különben a víz tekerés közben hamar jéghideggé válhat vagy megfagyhat.",
+                "ro": "O vedere superbă asupra lacului înghețat; asigurați-vă că bidonul de apă este izolat, astfel încât apa să nu înghețe în timpul deplasării.",
+                "en": "A magnificent view of the frosty lake; make sure your water bottle is insulated so that your drink doesn't freeze or become too cold during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Huqve",
+                "hu": "Liqeni i Huqve",
+                "ro": "Liqeni i Huqve",
+                "en": "Liqeni i Huqve"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können durch gefrorenen Matsch sehr uneben sein; verringern Sie das Tempo, um Stürze auf den harten, rutschigen Bodenwellen zu vermeiden.",
+                "hu": "Az utak a megfagyott sár miatt rázósak lehetnek; lassítson le, hogy elkerülje az eséseket a keményre fagyott, csúszós és egyenetlen talajon.",
+                "ro": "Drumurile pot fi foarte denivelate din cauza noroiului înghețat; reduceți viteza pentru a evita căderile pe dâmburile dure și alunecoase.",
+                "en": "Paths can be very bumpy due to frozen mud; reduce your speed to avoid falls on the hard, slippery ruts and uneven winter ground surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni Gerdec",
+                "hu": "Liqeni Gerdec",
+                "ro": "Liqeni Gerdec",
+                "en": "Liqeni Gerdec"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für Landschaftsaufnahmen; tragen Sie Überschuhe, um Ihre Zehen vor der Kälte zu bewahren, die vom Metall der Pedale kommt.",
+                "hu": "Élvezze a tiszta fényeket a tájképfotózáshoz; viseljen kamáslit, hogy megvédje lábujjait a pedálok fémfelülete felől érkező átható hidegtől.",
+                "ro": "Bucurați-vă de lumina clară pentru fotografii de peisaj; purtați protecții de încălțăminte pentru a vă feri degetele de frigul transmis de pedale.",
+                "en": "Enjoy the clear light for landscape photography; wear shoe covers to protect your toes from the cold radiating from the metal pedals."
+              }
+            },
+            {
+              "name": {
+                "de": "Selja",
+                "hu": "Selja",
+                "ro": "Selja",
+                "en": "Selja"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Moment in der Natur, bevor es zurückgeht; prüfen Sie Ihre Beleuchtung, da die Dämmerung im Waldgebiet bereits sehr früh einsetzt.",
+                "hu": "Egy nyugodt pillanat a természetben a visszatérés előtt; ellenőrizze a világítást, mert az erdős részeken a szürkület már igen korán beköszönt.",
+                "ro": "Un moment liniștit în natură înainte de întoarcere; verificați luminile, deoarece amurgul se lasă foarte devreme în zonele împădurite.",
+                "en": "A quiet moment in nature before heading back; check your lighting as twilight sets in very early in the forested areas during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Vores",
+                "hu": "Liqeni i Vores",
+                "ro": "Liqeni i Vores",
+                "en": "Liqeni i Vores"
+              },
+              "tip_5lang": {
+                "de": "Die Kälte nimmt am Abend drastisch zu; treten Sie kräftig in die Pedale, um die Körperwärme auf den letzten Kilometern bis zum Ziel zu halten.",
+                "hu": "A hideg este drasztikusan fokozódik; tekerjen intenzívebben az utolsó kilométereken, hogy megőrizze testhőjét a célállomás eléréséig.",
+                "ro": "Frigul se intensifică drastic seara; pedalați cu spor pe ultimii kilometri pentru a menține căldura corporală până la destinație.",
+                "en": "The cold increases drastically in the evening; pedal vigorously on the last few kilometers to maintain body heat until you reach your destination."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autós utazása a hatalmas Reservari i Rrashbullitnál kezdődik, mielőtt gyorsan eljutna a Liqeni i Durrësit történelmi partjaihoz. A délidőt a Liqeni i Kasëve központi csomópontja felé navigálva és Rrubjekes tájainak felfedezésével tölti. A délutáni út összeköti a Borçës, Huqve és Gerdec tavakat. Az este békés befejezést hoz a lenyűgöző Liqeni i Vores vibráló vizeinél.",
         "ro": "Călătoria cu mașina începe la vastul Reservari i Rrashbullit înainte de a conduce spre țărmurile istorice de la Liqeni i Durrësit. Prânzul este petrecut navigând spre centrul Liqeni i Kasëve și explorând peisajele din Rrubjekes. După-amiaza conectează lacurile imaculate Borçës, Huqve și Gerdec. Seara aduce un final pașnic la vibrantul lac Liqeni i Vores, perfect la apus.",
         "en": "Your road trip kicks off at the vast Reservari i Rrashbullit before a quick drive to the historic shores of Liqeni i Durrësit. Midday is spent navigating towards the central hub of Liqeni i Kasëve and exploring the rich landscapes of Rrubjekes. The afternoon drive connects the pristine lakes of Borçës, Huqve, and Gerdec. Evening brings a peaceful end at the vibrant Liqeni i Vores."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt durch den Regen bietet heute eine komfortable Möglichkeit, die Seenlandschaft trocken zu erkunden. Vormittags sind die Straßen durch Aquaplaning-Gefahr tückisch, fahren Sie vorsichtig. Mittags genießen wir den Ausblick aus dem warmen Wageninneren. Der Nachmittag lädt zu kurzen Fotostopps ein. Abends ist die Rückreise bei prasselndem Regen sicher und bequem.",
+            "hu": "Az esős autózás kényelmes módot kínál a tóvidék felfedezésére, miközben mi szárazon maradunk. Délelőtt az utak a vízátfolyások miatt veszélyesek lehetnek, vezessünk óvatosan. Délben a meleg utastérből csodáljuk a kilátást. A délután rövid fotómegállóknak kedvez. Az este biztonságos és kényelmes visszatérést ígér a szakadó esőben is.",
+            "ro": "Călătoria cu mașina prin ploaie oferă astăzi o modalitate confortabilă de a explora zona lacurilor rămânând uscat. Dimineața drumurile sunt înșelătoare din cauza riscului de acvaplanare. La prânz ne bucurăm de priveliște din interiorul cald al mașinii. După-amiaza permite scurte opriri foto. Seara, drumul de întoarcere este sigur și comod.",
+            "en": "Driving through the rain offers a comfortable way to explore the lake district while staying dry. In the morning, roads can be tricky due to aquaplaning risks, so drive carefully. At noon, we enjoy the view from the warm interior. The afternoon allows for short photo stops. The evening return is safe and convenient even in heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Reservari i Rrashbullit",
+                "hu": "Reservari i Rrashbullit",
+                "ro": "Reservari i Rrashbullit",
+                "en": "Reservari i Rrashbullit"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um nicht im nassen Boden stecken zu bleiben; genießen Sie den Blick auf das Wasser direkt durch die Windschutzscheibe.",
+                "hu": "Parkoljon szilárd burkolaton, hogy elkerülje az elakadást a felázott talajon; élvezze a vízre néző kilátást közvetlenül a szélvédő védelme mögül.",
+                "ro": "Parcați pe teren solid pentru a nu rămâne blocat în solul umed; bucurați-vă de vederea spre apă direct prin parbrizul mașinii.",
+                "en": "Park on solid ground to avoid getting stuck in the soaked soil; enjoy the view of the water directly through the protection of your windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Durrësit",
+                "hu": "Liqeni i Durrësit",
+                "ro": "Liqeni i Durrësit",
+                "en": "Liqeni i Durrësit"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen am Seeufer können teilweise überschwemmt sein; nutzen Sie die Klimaanlage Ihres Autos, um das Beschlagen der Scheiben bei der hohen Feuchtigkeit zu verhindern.",
+                "hu": "A tóparti utak néhol víz alatt lehetnek; használja az autó légkondicionálóját, hogy megakadályozza az üvegek párásodását a nagy külső nedvesség miatt.",
+                "ro": "Drumurile de pe malul lacului pot fi parțial inundate; folosiți aerul condiționat pentru a preveni aburirea geamurilor din cauza umidității ridicate.",
+                "en": "Lakeside roads may be partially flooded; use your car's air conditioning to prevent window fogging caused by the high humidity levels outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Kasëve",
+                "hu": "Liqeni i Kasëve",
+                "ro": "Liqeni i Kasëve",
+                "en": "Liqeni i Kasëve"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Ufer lohnt sich für die frische Luft; halten Sie die Scheibenwischerblätter sauber für optimale Sicht bei starkem Regen.",
+                "hu": "Egy rövid futás a partig megéri a friss levegőért; tartsa tisztán az ablaktörlő lapátokat az optimális látási viszonyok érdekében a heves esőben.",
+                "ro": "Un scurt sprint până la mal merită pentru aerul curat; păstrați lamelele ștergătoarelor curate pentru o vizibilitate optimă în timpul ploii abundente.",
+                "en": "A short dash to the shore is worth it for the fresh air; keep your wiper blades clean for optimal visibility during the heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Rrubjekes",
+                "hu": "Liqeni i Rrubjekes",
+                "ro": "Liqeni i Rrubjekes",
+                "en": "Liqeni i Rrubjekes"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt die grünen Farben der Umgebung; achten Sie beim Aussteigen auf tiefe Pfützen direkt neben der Fahrbahntür Ihres Fahrzeugs.",
+                "hu": "Az eső elmélyíti a környezet zöld színeit; kiszálláskor ügyeljen a mély tócsákra közvetlenül az autó ajtaja mellett az út szélén.",
+                "ro": "Ploaia intensifică culorile verzi ale împrejurimilor; la coborâre, atenție la bălțile adânci aflate chiar lângă portiera vehiculului.",
+                "en": "The rain intensifies the green colors of the surroundings; watch out for deep puddles right next to the car door when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Borçës",
+                "hu": "Liqeni i Borçës",
+                "ro": "Liqeni i Borçës",
+                "en": "Liqeni i Borçës"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die erhöhte Sitzposition für einen Panoramablick; prüfen Sie vor der Weiterfahrt, ob Ihre Scheinwerfer für andere Verkehrsteilnehmer gut sichtbar sind.",
+                "hu": "Használja ki az emelt üléspozíciót a panoráma megtekintéséhez; indulás előtt ellenőrizze, hogy fényszórói tiszták-e a többi autós számára.",
+                "ro": "Folosiți poziția înaltă la volan pentru o vedere panoramică; înainte de plecare, verificați dacă farurile sunt curate și vizibile pentru ceilalți.",
+                "en": "Take advantage of the elevated seating for a panoramic view; check before driving if your headlights are clean and visible to other road users."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Huqve",
+                "hu": "Liqeni i Huqve",
+                "ro": "Liqeni i Huqve",
+                "en": "Liqeni i Huqve"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Stopp, während der Regen auf das Autodach trommelt; ein griffbereiter Regenschirm im Türfach ist für kurze Erkundungen ideal.",
+                "hu": "Békés pihenő, miközben az eső kopog az autó tetőlemezén; egy kéznél lévő esernyő az ajtózsebben ideális a rövid parti felfedezésekhez.",
+                "ro": "O oprire liniștită în timp ce ploaia bate în plafonul mașinii; o umbrelă la îndemână în buzunarul portierei este ideală pentru scurte explorări.",
+                "en": "A peaceful stop while rain drums on the car roof; keep an umbrella handy in the door pocket for short explorations of the lakeside."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni Gerdec",
+                "hu": "Liqeni Gerdec",
+                "ro": "Liqeni Gerdec",
+                "en": "Liqeni Gerdec"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können schlammig sein, vermeiden Sie unbefestigte Randstreifen; genießen Sie die düstere, aber faszinierende Lichtstimmung über dem See.",
+                "hu": "A bekötőutak sárosak lehetnek, kerülje a burkolatlan útpadkát; élvezze a sötét, de lenyűgöző fényeket a tó felett a biztonságos utastérből.",
+                "ro": "Drumurile de acces pot fi noroioase, evitați acostamentele neasfaltate; bucurați-vă de lumina sumbră, dar fascinantă de deasupra lacului.",
+                "en": "Access roads can be muddy, so avoid unpaved road shoulders; enjoy the somber but fascinating lighting over the lake from your dry seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Selja",
+                "hu": "Selja",
+                "ro": "Selja",
+                "en": "Selja"
+              },
+              "tip_5lang": {
+                "de": "Letzter Halt im Trockenen mit weitem Blick; wischen Sie die Seitenspiegel ab, um beim Rückwärtsfahren im Regen eine klare Sicht nach hinten zu haben.",
+                "hu": "Utolsó megálló szárazon, tágas kilátással; törölje le az oldalsó tükröket, hogy tolatáskor tisztán lásson a szakadó esőben is.",
+                "ro": "Ultima oprire la adăpost cu o vedere largă; ștergeți oglinzile laterale pentru a avea o vizibilitate clară în spate la manevrele de întoarcere.",
+                "en": "Last stop in the dry with a wide view; wipe your side mirrors to ensure clear rear visibility when reversing in the heavy afternoon rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winterfahrt führt durch eine glitzernde Welt aus Frost und klarem Licht, geschützt durch die Standheizung. Vormittags ist Vorsicht vor Reifglätte auf den Brücken geboten. Mittags bietet der Wagen eine warme Basis für Ausflüge ans Ufer. Die Sonne steht tief, Sonnenblenden sind wichtig. Ab 17:00 Uhr ist es dunkel, die Heimfahrt erfolgt im Schein der Lichter.",
+            "hu": "A téli autózás a deres világban és tiszta fényekben zajlik, a fűtött utastér biztonságában. Délelőtt a hidakon és felüljárókon fokozott az eljegesedés veszélye. Délben az autó meleg bázisként szolgál a parti sétákhoz. A nap alacsonyan jár, a napellenző ma fontos. Ötkor már sötét van, a hazatérés esti fényben történik.",
+            "ro": "Călătoria de iarnă trece printr-o lume sclipitoare de ger și lumină clară, protejată de încălzirea mașinii. Dimineața atenție la polei pe poduri. La prânz mașina oferă o bază caldă pentru incursiuni pe mal. Soarele este jos, parasolarele sunt importante. La ora 17:00 este întuneric, drumul spre casă se face la lumina farurilor.",
+            "en": "The winter drive goes through a sparkling world of frost and clear light, protected by the car's heater. In the morning, watch out for frost on bridges. At noon, the car provides a warm base for short lakeside excursions. The sun is low, so sun visors are important. By 5 PM it is dark, and the drive home is under streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Reservari i Rrashbullit",
+                "hu": "Reservari i Rrashbullit",
+                "ro": "Reservari i Rrashbullit",
+                "en": "Reservari i Rrashbullit"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben vollständig zu enteisen; genießen Sie die frostige Stille, während Sie im vorgeheizten Wagen sitzen.",
+                "hu": "Hagyja járni a motort, amíg a szélvédő teljesen jégmentessé válik; élvezze a deres csendet a már előmelegített utastér kényelméből.",
+                "ro": "Lăsați motorul pornit scurt pentru a dezgheța complet geamurile; bucurați-vă de liniștea înghețată în timp ce stați în mașina preîncălzită.",
+                "en": "Let the engine run briefly to fully de-ice the windows; enjoy the frosty silence while sitting comfortably in your pre-heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Durrësit",
+                "hu": "Liqeni i Durrësit",
+                "ro": "Liqeni i Durrësit",
+                "en": "Liqeni i Durrësit"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorenes Spritzwasser auf der Fahrbahn; prüfen Sie den Frostschutzgehalt Ihres Scheibenwischwassers vor dem Start der winterlichen Tour.",
+                "hu": "Ügyeljen az úttestre fagyott vízátfolyásokra; indulás előtt ellenőrizze a szélvédőmosó folyadék fagyállóságát a téli túra biztonsága érdekében.",
+                "ro": "Atenție la apa înghețată de pe carosabil; verificați nivelul antigelului din lichidul de parbriz înainte de a începe turul de iarnă.",
+                "en": "Watch out for frozen spray on the road surface; check the antifreeze level of your windshield washer fluid before starting the winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Kasëve",
+                "hu": "Liqeni i Kasëve",
+                "ro": "Liqeni i Kasëve",
+                "en": "Liqeni i Kasëve"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne kann auf dem Wasser stark reflektieren; nutzen Sie die Sitzheizung für maximalen Komfort während der Pausen mit Blick auf den See.",
+                "hu": "A téli nap erősen tükröződhet a vízfelületen; használja az ülésfűtést a maximális kényelemért a tóra néző pihenők alkalmával.",
+                "ro": "Soarele de iarnă poate reflecta puternic pe apă; folosiți încălzirea în scaune pentru confort maxim în timpul pauzelor cu vedere la lac.",
+                "en": "The winter sun can reflect strongly off the water; use your seat heating for maximum comfort during breaks with a direct view of the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Rrubjekes",
+                "hu": "Liqeni i Rrubjekes",
+                "ro": "Liqeni i Rrubjekes",
+                "en": "Liqeni i Rrubjekes"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zum Ufer können rutschig sein, tragen Sie Schuhe mit gutem Profil; behalten Sie die Batteriestandsanzeige bei extremen Minustemperaturen im Auge.",
+                "hu": "A partra vezető utak csúszósak lehetnek, viseljen jó tapadású cipőt; extrém hidegben figyeljen az autó akkumulátorának töltöttségi szintjére is.",
+                "ro": "Potecile spre mal pot fi alunecoase, purtați pantofi cu aderență bună; monitorizați indicatorul bateriei la temperaturi extrem de scăzute.",
+                "en": "Paths to the shore can be slippery, so wear shoes with good tread; keep an eye on your car battery indicator in extremely low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Borçës",
+                "hu": "Liqeni i Borçës",
+                "ro": "Liqeni i Borçës",
+                "en": "Liqeni i Borçës"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Wetter für Fernsichten aus dem Auto; vermeiden Sie es, die Handbremse über Nacht anzuziehen, falls diese einfrieren könnte.",
+                "hu": "Használja ki a tiszta időt a távoli kilátáshoz az autóból; kerülje a kézifék behúzását hosszabb megálláskor, ha fennáll a befagyás veszélye.",
+                "ro": "Profități de vremea clară pentru vederi la distanță din mașină; evitați tragerea frânei de mână la opriri lungi dacă există risc de îngheț.",
+                "en": "Take advantage of the clear weather for long-distance views from the car; avoid using the parking brake during long stops if it might freeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni i Huqve",
+                "hu": "Liqeni i Huqve",
+                "ro": "Liqeni i Huqve",
+                "en": "Liqeni i Huqve"
+              },
+              "tip_5lang": {
+                "de": "Die Landschaft wirkt im Winter beinahe surreal; achten Sie darauf, dass der Kraftstofftank gut gefüllt ist, um die Heizung sorgenfrei nutzen zu können.",
+                "hu": "A táj télen szinte szürreálisnak tűnik; ügyeljen rá, hogy az üzemanyagtartály tele legyen, így gondtalanul használhatja a fűtést a pihenők alatt.",
+                "ro": "Peisajul pare aproape ireal iarna; asigurați-vă că rezervorul este plin pentru a putea folosi încălzirea fără griji în timpul pauzelor.",
+                "en": "The landscape looks almost surreal in winter; make sure your fuel tank is full so you can use the heater freely during your lakeside stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Liqeni Gerdec",
+                "hu": "Liqeni Gerdec",
+                "ro": "Liqeni Gerdec",
+                "en": "Liqeni Gerdec"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrten können durch gefrorene Spurrillen unruhig sein; halten Sie eine warme Decke im Kofferraum für Notfälle oder längere Fotostopps bereit.",
+                "hu": "A bekötőutak a fagyott keréknyomok miatt rázósak lehetnek; tartson egy meleg takarót a csomagtartóban vészhelyzetre vagy hosszabb fotózáshoz.",
+                "ro": "Drumurile de acces pot fi neregulate din cauza făgașelor înghețate; păstrați o pătură caldă în portbagaj pentru urgențe sau opriri foto lungi.",
+                "en": "Access roads can be bumpy due to frozen ruts; keep a warm blanket in the trunk for emergencies or extended outdoor photography sessions."
+              }
+            },
+            {
+              "name": {
+                "de": "Selja",
+                "hu": "Selja",
+                "ro": "Selja",
+                "en": "Selja"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf das winterliche Panorama vor dem Dunkelwerden; prüfen Sie die Funktion Ihrer Nebelscheinwerfer für die Fahrt in der Dämmerung.",
+                "hu": "Utolsó pillantás a téli panorámára a sötétedés előtt; ellenőrizze a ködlámpák működését a szürkületben való biztonságos hazatéréshez.",
+                "ro": "O ultimă privire asupra panoramei de iarnă înainte de întuneric; verificați funcționarea farurilor de ceață pentru drumul de întoarcere în amurg.",
+                "en": "A final look at the winter panorama before it gets dark; check your fog lights' function for the safe drive home in the early twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

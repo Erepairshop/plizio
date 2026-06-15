@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a csendes hajótemetőben, átérezve a tengerészeti múltat, mielőtt az ősi kősorokhoz sétálna. Délben Saint-Pol-Roux kúriájának romjai és a Pen Hat strand drámai hullámai várják. Délután fedezze fel a robusztus Toulinguet erődöket, és merüljön el a hadtörténetben. Zárja a napot az ikonikus világítótorony lenyűgöző kilátásával.",
         "ro": "Începeți dimineața la cimitirul liniștit de bărci, simțind istoria maritimă înainte de a merge la aliniamentele antice. La prânz ajungeți la ruinele conacului Saint-Pol-Roux și la valurile dramatice de pe plaja Pen Hat. După-amiaza, explorați fortărețele robuste Toulinguet. Încheiați cu priveliști uimitoare la farul emblematic.",
         "en": "Start your morning at the quiet boat cemetery, feeling the rich maritime history before walking to the mysterious ancient alignments. Midday brings you to the haunting ruins of Saint-Pol-Roux's manor and the dramatic crashing waves of Pen Hat beach. In the afternoon, explore the robust Toulinguet fortresses, taking in the military history. Conclude with stunning views at the iconic lighthouse."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mystisch am nebligen Bootsfriedhof, wo der Regen die Farben des alten Holzes vertieft. Mittags bieten die prähistorischen Steinreihen ein dramatisches Bild unter grauem Himmel. Nachmittags suchen wir Schutz in den Ruinen des Herrenhauses und beobachten die brechenden Wellen. Der Abend endet gemütlich am Hafen, wo die nassen Gassen das Licht der Laternen golden reflektieren.",
+            "hu": "A reggel ködös és misztikus a hajótemetőnél, ahol az eső kiemeli a korhadó fa sötét tónusait. Délben a történelem előtti kősorok drámai látványt nyújtanak a szürke égbolt alatt. Délután a kúria romjai között húzódunk meg a zápor elől, figyelve a tenger morajlását. Az este a kikötőben ér minket, ahol a vizes kövezet különleges fénybe öltözteti a hangulatos utcákat.",
+            "ro": "Dimineața începe mistic la cimitirul de bărci, unde ploaia accentuează culorile lemnului vechi în ceață. La prânz, aliniamentele de piatră oferă o imagine dramatică sub cerul plumburiu. După-amiaza căutăm adăpost printre ruinele conacului, admirând forța oceanului. Seara se încheie în port, unde reflexiile luminilor pe asfaltul ud creează o atmosferă caldă și primitoare.",
+            "en": "Morning starts mystically at the boat cemetery, where rain deepens the colors of the aged wood. At noon, the prehistoric alignments offer a dramatic sight under heavy clouds. Afternoon finds us seeking shelter in the manor ruins while watching the Atlantic swells. Evening concludes at the harbor, where the wet pavement reflects the golden glow of streetlights beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cimetière des bâteaux",
+                "hu": "Cimetière des bâteaux",
+                "ro": "Cimetière des bâteaux",
+                "en": "Cimetière des bâteaux"
+              },
+              "tip_5lang": {
+                "de": "Die verlassenen Schiffsrümpfe wirken im Regen besonders melancholisch; tragen Sie feste Wanderstiefel, da der Boden rund um das Hafenbecken sehr rutschig sein kann.",
+                "hu": "Az elhagyatott hajótestek az esőben különösen melankolikusak; viselj túrabakancsot, mert a kikötői medence környéke ilyenkor nagyon csúszóssá és sárossá válhat.",
+                "ro": "Trupurile abandonate ale bărcilor par deosebit de melancolice în ploaie; purtați bocanci de munte, deoarece terenul din jurul docului poate deveni foarte alunecos.",
+                "en": "The abandoned ship hulls look particularly melancholic in the rain; wear sturdy hiking boots as the ground around the quay can become very slippery and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Alignements de Lagatjar",
+                "hu": "Alignements de Lagatjar",
+                "ro": "Alignements de Lagatjar",
+                "en": "Alignements de Lagatjar"
+              },
+              "tip_5lang": {
+                "de": "Die Menhire ragen düster aus dem Küstennebel empor und bieten ein tolles Fotomotiv; nehmen Sie einen windfesten Regenschirm mit, da es auf dem offenen Feld zieht.",
+                "hu": "A menhirek komoran emelkednek ki a parti ködből, kiváló fotótémát nyújtva; hozz szélálló esernyőt, mert a nyílt terepen az esőhöz gyakran erős széllökések társulnak.",
+                "ro": "Menhirele se ridică sumbre din ceața de coastă, oferind un subiect foto excelent; luați o umbrelă rezistentă la vânt, deoarece câmpul deschis este expus rafalelor.",
+                "en": "The menhirs rise gloomily from the coastal mist, creating a great photo opportunity; bring a windproof umbrella as the open field is very exposed to the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "hu": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "ro": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "en": "Manoir de Cœcilian (Saint-Pol-Roux)"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen des Dichterschlosses bieten teilweise Schutz vor dem Guss; nutzen Sie die alten Mauern als Unterstand und genießen Sie die raue Aussicht auf das Meer.",
+                "hu": "A költő egykori kastélyának romjai részleges védelmet nyújtanak a zápor elől; használd az ódon falakat menedékként, és élvezd a vad kilátást a háborgó tengerre.",
+                "ro": "Ruinele castelului poetului oferă adăpost parțial împotriva ploii; folosiți zidurile vechi ca paravan și bucurați-vă de priveliștea sălbatică spre mare prin stropi.",
+                "en": "The ruins of the poet's castle offer partial shelter from the downpour; use the old walls as a windbreak and enjoy the raw, atmospheric views of the Atlantic."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Pen Hat",
+                "hu": "Plage de Pen Hat",
+                "ro": "Plage de Pen Hat",
+                "en": "Plage de Pen Hat"
+              },
+              "tip_5lang": {
+                "de": "Der Strand zeigt sich bei Regen von seiner wildesten Seite mit tosenden Wellen; halten Sie Abstand zur Brandung, da der Wind hier oft unberechenbar zunimmt.",
+                "hu": "A strand esőben a legvadabb arcát mutatja a hatalmas hullámokkal; maradj távol a közvetlen partvonaltól, mert a szél és a dagály ilyenkor kiszámíthatatlan lehet.",
+                "ro": "Plaja își arată latura cea mai sălbatică în timpul ploii, cu valuri uriașe; păstrați distanța față de apă, deoarece vântul și fluxul pot fi periculoase acum.",
+                "en": "The beach shows its wildest side in the rain with crashing waves; keep a safe distance from the surf as the wind and tide can be unpredictable in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie du Toulinguet",
+                "hu": "Batterie du Toulinguet",
+                "ro": "Batterie du Toulinguet",
+                "en": "Batterie du Toulinguet"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Festungsanlagen wirken bei grauem Wetter besonders uneinnehmbar; eine wasserdichte Regenjacke ist hier Pflicht, um den Klippenpfad sicher zu begehen.",
+                "hu": "A masszív erődítmények szürke időben különösen bevehetetlennek tűnnek; egy vízálló esőkabát kötelező ide, hogy a sziklás ösvényen szárazon és biztonságban maradj.",
+                "ro": "Fortificațiile masive par deosebit de inexpugnabile pe vreme gri; o jachetă impermeabilă este obligatorie aici pentru a parcurge poteca de pe stânci în siguranță.",
+                "en": "The massive fortifications look particularly impregnable in grey weather; a waterproof rain jacket is essential here to walk the cliff path safely and stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Le Toulinguet",
+                "hu": "Lighthouse Le Toulinguet",
+                "ro": "Lighthouse Le Toulinguet",
+                "en": "Lighthouse Le Toulinguet"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm trotzt tapfer dem Regen und dient als Orientierungspunkt im Dunst; achten Sie auf den Weg, da die Felsen bei Nässe extrem rutschig werden.",
+                "hu": "A világítótorony büszkén dacol az esővel és tájékozódási pontként szolgál a párában; figyelj a lábad elé, mert a sziklák nedvesen rendkívül csúszóssá válnak.",
+                "ro": "Farul înfruntă cu curaj ploaia, servind ca punct de reper în negură; atenție sporită la drum, deoarece rocile devin extrem de alunecoase când sunt umede.",
+                "en": "The lighthouse bravely braves the rain and serves as a vital landmark in the haze; watch your step carefully as the rocks become extremely slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen macht die Sicht auf die Küste gestochen scharf. Mittags wärmt die tiefstehende Sonne die Megalithen, während der Wind über das Heidekraut fegt. Am frühen Nachmittag erkunden wir die Festungen, bevor die Sonne gegen 17:00 Uhr in leuchtenden Farben im Meer versinkt. Der Abend gehört der wohligen Wärme eines Kamins in einer der traditionellen Creperien der Stadt.",
+            "hu": "A tiszta téli levegőben a reggeli kilátás a partra bámulatosan éles és távoli. Délben az alacsonyan járó nap megvilágítja a megalitokat, miközben a szél átfúj a hangás mezőkön. Kora délután az erődöket fedezzük fel, mielőtt a nap 17:00 körül látványos színekben elmerül az óceánban. Az este egy forró ital és a kandalló melege mellett telik a város egyik hangulatos kis vendéglőjében.",
+            "ro": "Aerul clar de iarnă face ca vederea de dimineață asupra coastei să fie extrem de clară. La prânz, soarele blând luminează megalitii în timp ce vântul suflă peste câmpuri. După-amiaza explorăm fortărețele înainte ca soarele să apună spectaculos în ocean în jurul orei 17:00. Seara este dedicată căldurii unui șemineu într-o creperie tradițională din oraș.",
+            "en": "The crisp winter air in the morning makes the coastal views incredibly sharp. At noon, the low sun warms the megaliths while the wind sweeps across the heathland. In the early afternoon, we explore the forts before the sun sets in vibrant colors over the sea around 5:00 PM. The evening is spent in the cozy warmth of a local tavern by a crackling fireplace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cimetière des bâteaux",
+                "hu": "Cimetière des bâteaux",
+                "ro": "Cimetière des bâteaux",
+                "en": "Cimetière des bâteaux"
+              },
+              "tip_5lang": {
+                "de": "Der Frost auf den alten Planken glitzert in der Morgensonne; ziehen Sie sich warm an, da die Kälte vom Wasser her direkt in die Kleidung kriecht.",
+                "hu": "A zúzmara csillog az öreg hajódeszkákon a reggeli napfényben; öltözz rétegesen, mert a víz felől érkező hideg szél hamar átjárja az ember ruháját.",
+                "ro": "Promoroaca de pe scândurile vechi sclipește în soarele dimineții; îmbrăcați-vă gros, deoarece frigul care vine de pe apă pătrunde rapid prin haine.",
+                "en": "The frost on the old planks glitters in the morning sun; dress in warm layers as the cold wind from the water can cut right through your clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Alignements de Lagatjar",
+                "hu": "Alignements de Lagatjar",
+                "ro": "Alignements de Lagatjar",
+                "en": "Alignements de Lagatjar"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten zwischen den Menhiren; besuchen Sie diesen Ort am Vormittag für das schönste Licht und weniger Wind.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a menhirek közé; látogass el ide délelőtt a legszebb fényekért, és hogy elkerüld a délutáni jeges szelet.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi între menhire; vizitați acest loc dimineața pentru cea mai frumoasă lumină și pentru a evita vântul tăios de după-amiază.",
+                "en": "The low winter sun casts long, dramatic shadows between the menhirs; visit in the morning for the best light and to avoid the harshest afternoon winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "hu": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "ro": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "en": "Manoir de Cœcilian (Saint-Pol-Roux)"
+              },
+              "tip_5lang": {
+                "de": "In der kahlen Winterlandschaft kommen die architektonischen Details der Ruine besser zur Geltung; eine Thermoskanne mit Tee macht die Pause hier oben angenehm.",
+                "hu": "A kopár téli tájban a romok építészeti részletei még jobban érvényesülnek; egy termosz forró tea sokat segít, hogy tovább élvezhesd a fennsíki panorámát.",
+                "ro": "În peisajul golaș de iarnă, detaliile arhitecturale ale ruinelor ies mai bine în evidență; un termos cu ceai cald face pauza aici mult mai plăcută.",
+                "en": "In the barren winter landscape, the architectural details of the ruins stand out clearly; a thermos of hot tea will make your break here much more enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Pen Hat",
+                "hu": "Plage de Pen Hat",
+                "ro": "Plage de Pen Hat",
+                "en": "Plage de Pen Hat"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang ist jetzt besonders erfrischend; tragen Sie eine winddichte Mütze, da der Atlantikwind im Winter sehr bissig sein kann.",
+                "hu": "Egy magányos tengerparti séta ilyenkor rendkívül frissítő; viselj szélálló sapkát, mert az atlanti szél télen nagyon metsző és hideg tud lenni.",
+                "ro": "O plimbare solitară pe plajă este extrem de revigorantă acum; purtați o căciulă rezistentă la vânt, deoarece briza oceanului este tăioasă iarna.",
+                "en": "A solitary beach walk is exceptionally refreshing right now; wear a windproof hat as the Atlantic breeze can be very biting and cold during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie du Toulinguet",
+                "hu": "Batterie du Toulinguet",
+                "ro": "Batterie du Toulinguet",
+                "en": "Batterie du Toulinguet"
+              },
+              "tip_5lang": {
+                "de": "Die Steine der Batterie speichern kaum Wärme, daher ist dicke Kleidung wichtig; genießen Sie die weite Sicht, die im Winter oft klarer als im Sommer ist.",
+                "hu": "Az erőd kövei nem tartják a meleget, így a vastag ruházat elengedhetetlen; élvezd a messzire nyúló kilátást, ami télen gyakran tisztább, mint nyáron.",
+                "ro": "Pietrele bateriei nu rețin căldura, deci îmbrăcămintea groasă este esențială; bucurați-vă de vizibilitatea mare, care iarna este adesea mai clară.",
+                "en": "The stones of the battery hold no warmth, so heavy clothing is essential; enjoy the far-reaching views, which are often clearer in winter than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Le Toulinguet",
+                "hu": "Lighthouse Le Toulinguet",
+                "ro": "Lighthouse Le Toulinguet",
+                "en": "Lighthouse Le Toulinguet"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Leuchtturm vor 16:30 Uhr, um das glühende Abendlicht einzufangen; die Sonne sinkt im Winter früh und sehr schnell hinter den Horizont.",
+                "hu": "Érj el a világítótoronyhoz 16:30 előtt, hogy elcsípd az alkonyi fényeket; a nap télen korán és nagyon gyorsan bukik alá a horizont mögé.",
+                "ro": "Ajungeți la far înainte de ora 16:30 pentru a surprinde lumina incandescentă a amurgului; soarele apune devreme și foarte repede iarna.",
+                "en": "Reach the lighthouse before 4:30 PM to catch the glowing twilight light; the sun sets early and very quickly behind the horizon during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Tekerjen a lenyűgöző hajótemetőhöz, majd a part mentén fedezzen fel történelmi köveket és világítótornyokat. Élvezze a déli utazást a kúria romjaihoz, és látogasson el az Atlanti-csata Emlékművéhez. A délutánt a Veryac'h strandon pihenve töltheti. Ahogy közeledik az este, kerékpározzon vissza Lagatjar misztikus állókövei mellett.",
         "ro": "Porniți spre cimitirul de bărci, apoi pedalați pe coastă pentru a descoperi pietre istorice și faruri falnice. Bucurați-vă de o plimbare la prânz spre ruinele conacului și vizitați Memorialul Bătăliei Atlanticului. Petreceți după-amiaza relaxându-vă la plaja Veryac'h. Pe măsură ce se apropie seara, pedalați înapoi pe la pietrele mistice din Lagatjar.",
         "en": "Pedal off towards the striking boat cemetery, then cycle along the coast to uncover historic gathering stones and towering lighthouses. Enjoy a breezy midday ride to the evocative manor ruins and immerse yourself in the moving Battle of the Atlantic Memorial. Spend your afternoon relaxing at Veryac'h beach. As evening nears, cycle back via the mystical standing stones of Lagatjar."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour startet am Hafen, wo das Wasser grau in grau mit dem Himmel verschmilzt. Auf den Küstenwegen ist Vorsicht geboten, da der Boden aufweichen kann. Mittags bietet das Memorial Museum einen trockenen Rückzugsort voller Geschichte. Nachmittags radeln wir durch den stürmischen Wind zurück, bevor wir den Tag bei einem heißen Getränk in einer gemütlichen Bar am Kai ausklingen lassen.",
+            "hu": "A túra a kikötőben indul, ahol a víz és az ég szürkesége összeolvad. A parti utakon óvatosan haladjunk, mert a talaj felázhat és csúszóssá válhat. Délben az Emlékmúzeum nyújt száraz menedéket és érdekes történelmi látnivalókat. Délután a széllel dacolva tekerünk vissza a városba, majd a napot egy forró itallal zárjuk a rakpart egyik barátságos büféjében.",
+            "ro": "Turul pornește din port, unde apa și cerul se confundă în nuanțe de gri. Pe potecile de coastă este necesară prudență, deoarece terenul poate deveni noroios. La prânz, Memorialul oferă un refugiu uscat și plin de istorie. După-amiaza pedalăm contra vântului spre oraș, încheind ziua cu o băutură caldă într-un local primitor de pe chei.",
+            "en": "The ride begins at the port, where the grey water blends seamlessly with the sky. Caution is needed on coastal paths as the ground can become soft and muddy. At noon, the Memorial Museum provides a dry sanctuary filled with history. Afternoon involves cycling back through the stormy wind before ending the day with a hot drink in a cozy harbor-side bar."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cimetière des bâteaux",
+                "hu": "Cimetière des bâteaux",
+                "ro": "Cimetière des bâteaux",
+                "en": "Cimetière des bâteaux"
+              },
+              "tip_5lang": {
+                "de": "Schutzbleche am Fahrrad sind bei diesem Wetter ein Muss, um Schlammspritzer von den alten Wracks zu vermeiden; parken Sie das Rad auf festem Untergrund.",
+                "hu": "A sárvédő kötelező kiegészítő ilyenkor, hogy elkerüld a sárfelcsapódást a roncsok körül; a biciklit csak szilárd burkolaton támaszd le, ne a sárban.",
+                "ro": "Apărătorile de noroi sunt obligatorii pe această vreme pentru a evita stropirea lângă epave; parcați bicicleta pe o suprafață solidă, nu în noroi.",
+                "en": "Mudguards are a must in this weather to avoid splashes while exploring the wrecks; make sure to park your bike on solid ground rather than soft mud."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pierre du Conseil",
+                "hu": "La Pierre du Conseil",
+                "ro": "La Pierre du Conseil",
+                "en": "La Pierre du Conseil"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Ort liegt exponiert; tragen Sie eine wasserdichte Hose, da der Regen hier oft waagerecht kommt und die Sicht auf die Bucht einschränkt.",
+                "hu": "Ez a történelmi pont nagyon kitett a szélnek; viselj vízálló nadrágot, mert az eső itt gyakran vízszintesen esik, korlátozva a kilátást az öbölre.",
+                "ro": "Acest loc istoric este foarte expus; purtați pantaloni impermeabili, deoarece ploaia vine adesea orizontal aici și limitează vizibilitatea asupra golfului.",
+                "en": "This historical spot is very exposed; wear waterproof trousers as the rain often blows in horizontally here, obscuring the views of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Le Toulinguet",
+                "hu": "Lighthouse Le Toulinguet",
+                "ro": "Lighthouse Le Toulinguet",
+                "en": "Lighthouse Le Toulinguet"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Leuchtturm kann bei Nässe tückisch sein; fahren Sie langsam und achten Sie auf Pfützen, die tiefe Schlaglöcher im Pfad verbergen können.",
+                "hu": "A világítótoronyhoz vezető út trükkös lehet esőben; haladj lassan és figyelj a tócsákra, mert mély kátyúkat rejthetnek az aszfalton vagy az ösvényen.",
+                "ro": "Drumul spre far poate fi înșelător pe ploaie; pedalați încet și atenție la bălți, deoarece pot ascunde gropi adânci pe potecă.",
+                "en": "The path to the lighthouse can be tricky when wet; ride slowly and watch out for puddles that might hide deep potholes along the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "hu": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "ro": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "en": "Manoir de Cœcilian (Saint-Pol-Roux)"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten einen kurzen Unterstand für Radfahrer; nutzen Sie die Pause, um die Bremsen zu prüfen, da nasse Felgen einen längeren Bremsweg haben.",
+                "hu": "A romok rövid menedéket nyújtanak a bringásoknak; használd ki a szünetet a fékek ellenőrzésére, mert a vizes felniken jóval hosszabb a féktáv.",
+                "ro": "Ruinele oferă un scurt adăpost pentru bicicliști; profitați de pauză pentru a verifica frânele, deoarece jantele ude măresc distanța de frânare.",
+                "en": "The ruins offer a brief shelter for cyclists; use the break to check your brakes, as wet rims significantly increase your stopping distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Battle of the Atlantic Memorial",
+                "hu": "Battle of the Atlantic Memorial",
+                "ro": "Battle of the Atlantic Memorial",
+                "en": "Battle of the Atlantic Memorial"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Ort, um sich bei einem starken Schauer aufzuwärmen; die Ausstellungen im Inneren sind absolut trocken und sehr sehenswert.",
+                "hu": "A múzeum tökéletes hely a felmelegedésre egy nagyobb zápor idején; a benti kiállítások teljesen szárazak és rendkívül érdekesek.",
+                "ro": "Muzeul este locul perfect pentru a vă încălzi în timpul unei averse puternice; expozițiile interioare sunt complet uscate și merită vizitate.",
+                "en": "The museum is the perfect spot to warm up during a heavy downpour; the indoor exhibits are completely dry and definitely worth a long visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Veryac'h",
+                "hu": "Plage du Veryac'h",
+                "ro": "Plage du Veryac'h",
+                "en": "Plage du Veryac'h"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zum Strand kann rutschig sein; lassen Sie das Fahrrad oben an der Straße stehen und gehen Sie die letzten Meter zu Fuß für mehr Sicherheit.",
+                "hu": "A strandra vezető lejtő csúszós lehet; hagyd a biciklit fent az út mellett, és menj le gyalog az utolsó pár méteren a biztonság kedvéért.",
+                "ro": "Coborârea spre plajă poate fi alunecoasă; lăsați bicicleta sus, lângă drum, și parcurgeți ultimii metri pe jos pentru mai multă siguranță.",
+                "en": "The descent to the beach can be slippery; leave your bike at the top by the road and walk the last few meters for better safety and grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Alignements de Lagatjar",
+                "hu": "Alignements de Lagatjar",
+                "ro": "Alignements de Lagatjar",
+                "en": "Alignements de Lagatjar"
+              },
+              "tip_5lang": {
+                "de": "Die Steine wirken im Regen sehr archaisch; achten Sie beim Fahren auf dem Gras auf versteckte Steine, die bei Nässe unter den Reifen wegrutschen können.",
+                "hu": "A kövek nagyon ősi hangulatot árasztanak az esőben; a füvön tekerve vigyázz a rejtett kövekre, amik nedvesen könnyen kicsúszhatnak a kerék alól.",
+                "ro": "Pietrele par foarte arhaice în ploaie; atenție când pedalați pe iarbă la pietrele ascunse care pot aluneca sub roți când sunt ude.",
+                "en": "The stones feel very archaic in the rain; when cycling on the grass, watch out for hidden stones that can easily slip under your tires when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frisch und belebend startet die Tour am winterlichen Hafen. Die tiefstehende Sonne glitzert auf dem Meer, während wir uns warm eingepackt gegen den Küstenwind stemmen. Mittags ist das Memorial Museum ein willkommener Ort, um die Hände aufzuwärmen. Da es früh dunkel wird, beenden wir die Runde zügig am Nachmittag und genießen die blaue Stunde bei einem Crêpe in der warmen Stadtmitte.",
+            "hu": "Frissítően indul a túra a téli kikötőben. Az alacsony napfény megcsillan a tengeren, miközben melegen felöltözve tekerünk a parti szélben. Délben az Emlékmúzeum vár ránk, ahol kicsit átmelegedhetünk a kiállítások nézése közben. Mivel korán sötétedik, a kört már délután befejezzük, és a kék órát már egy forró palacsinta mellett élvezzük a meleg városközpontban.",
+            "ro": "Turul pornește revigorant din portul hibernal. Soarele jos sclipește pe mare în timp ce pedalăm bine înfofoliți împotriva vântului de coastă. La prânz, Memorialul este un loc binevenit pentru a ne încălzi. Deoarece se întunecă devreme, încheiem tura după-amiaza și ne bucurăm de ora albastră cu o clătită în centrul cald al orașului.",
+            "en": "The ride starts fresh and invigorating at the winter harbor. The low sun glitters on the sea as we cycle well-wrapped against the coastal breeze. At noon, the Memorial Museum is a welcome place to warm up your hands. As it gets dark early, we finish the loop by late afternoon to enjoy the blue hour with a crepe in the warm city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cimetière des bâteaux",
+                "hu": "Cimetière des bâteaux",
+                "ro": "Cimetière des bâteaux",
+                "en": "Cimetière des bâteaux"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Seeluft am Kai ist sehr intensiv; tragen Sie winddichte Handschuhe, damit Ihre Finger am Lenker beim Betrachten der Wracks nicht einfrieren.",
+                "hu": "A hideg tengeri levegő a rakparton nagyon metsző; viselj szélálló kesztyűt, hogy ne fagyjanak rá az ujjaid a kormányra a roncsok nézegetése közben.",
+                "ro": "Aerul rece al mării pe chei este foarte intens; purtați mănuși rezistente la vânt pentru ca degetele să nu înghețe pe ghidon în timp ce priviți epavele.",
+                "en": "The cold sea air at the quay is very intense; wear windproof gloves to prevent your fingers from freezing on the handlebars while viewing the wrecks."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pierre du Conseil",
+                "hu": "La Pierre du Conseil",
+                "ro": "La Pierre du Conseil",
+                "en": "La Pierre du Conseil"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier oben im Winter kräftig; halten Sie die Pause kurz, um nicht auszukühlen, und genießen Sie die klare Weitsicht über das Meer.",
+                "hu": "Itt fent télen nagyon fütyül a szél; tarts rövid szünetet, hogy ne hűlj ki túlságosan, és élvezd a tiszta kilátást a távoli horizontra.",
+                "ro": "Vântul suflă cu putere aici sus iarna; faceți o pauză scurtă pentru a nu îngheța și bucurați-vă de vizibilitatea clară asupra mării.",
+                "en": "The wind whistles loudly up here in winter; keep your break short to avoid getting chilled, and enjoy the exceptionally clear views across the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Lighthouse Le Toulinguet",
+                "hu": "Lighthouse Le Toulinguet",
+                "ro": "Lighthouse Le Toulinguet",
+                "en": "Lighthouse Le Toulinguet"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt in der klaren Winterluft sehr nah; achten Sie auf mögliche Glätte auf dem Asphalt der Zufahrtsstraße im Schatten der Felsen.",
+                "hu": "A világítótorony a tiszta téli levegőben nagyon közelinek tűnik; figyelj az esetleges jegesedésre az út árnyékos részein a sziklák tövében.",
+                "ro": "Farul pare foarte aproape în aerul clar de iarnă; atenție la posibila gheață pe asfaltul drumului de acces în zonele umbrite de stânci.",
+                "en": "The lighthouse looks very close in the clear winter air; watch out for potential icy patches on the access road in the shadows of the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "hu": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "ro": "Manoir de Cœcilian (Saint-Pol-Roux)",
+                "en": "Manoir de Cœcilian (Saint-Pol-Roux)"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten wenig Schutz gegen die Kälte; eine winddichte Jacke ist für Radfahrer hier oben auf dem Plateau im Winter unverzichtbar.",
+                "hu": "A romok kevés védelmet nyújtanak a hideg ellen; egy szélálló dzseki elengedhetetlen a bringásoknak itt fent a fennsíkon a téli hónapokban.",
+                "ro": "Ruinele oferă puțină protecție împotriva frigului; o jachetă rezistentă la vânt este indispensabilă pentru bicicliști aici sus pe platou iarna.",
+                "en": "The ruins offer little protection against the cold; a windproof jacket is indispensable for cyclists up here on the plateau during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Battle of the Atlantic Memorial",
+                "hu": "Battle of the Atlantic Memorial",
+                "ro": "Battle of the Atlantic Memorial",
+                "en": "Battle of the Atlantic Memorial"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; das Gebäude ist gut temperiert und bietet eine tolle Abwechslung zum kalten Wind auf dem Rad.",
+                "hu": "Használd ki a múzeumlátogatást egy kis melegedő szünetre; az épületben kellemes a hőmérséklet, remek felüdülés a bringázás utáni hideg szélben.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; clădirea are o temperatură plăcută și oferă o alternativă excelentă la vântul rece de pe bicicletă.",
+                "en": "Use the museum visit as a warming break; the building is well-tempered and offers a great alternative to the cold wind on the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Veryac'h",
+                "hu": "Plage du Veryac'h",
+                "ro": "Plage du Veryac'h",
+                "en": "Plage du Veryac'h"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter oft menschenleer und wunderschön; parken Sie das Rad oben und machen Sie ein paar Kniebeugen, um die Blutzirkulation anzuregen.",
+                "hu": "A strand télen gyakran teljesen néptelen és gyönyörű; parkolj le fent, és végezz pár guggolást, hogy felélénkítsd a vérkeringésed a hidegben.",
+                "ro": "Plaja este adesea pustie și superbă iarna; parcați bicicleta sus și faceți câteva exerciții pentru a vă stimula circulația sângelui în frig.",
+                "en": "The beach is often deserted and beautiful in winter; park your bike at the top and do a few squats to boost your circulation in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Alignements de Lagatjar",
+                "hu": "Alignements de Lagatjar",
+                "ro": "Alignements de Lagatjar",
+                "en": "Alignements de Lagatjar"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Steine rechtzeitig vor Sonnenuntergang um 17:00 Uhr; das goldene Licht auf den Menhiren ist im Winter besonders farbenfroh.",
+                "hu": "Látogasd meg a köveket jóval a 17:00 órai naplemente előtt; az aranyló fény a menhireken télen különösen intenzív és szép.",
+                "ro": "Vizitați pietrele cu mult înainte de apusul soarelui de la ora 17:00; lumina aurie pe menhire este deosebit de intensă și frumoasă iarna.",
+                "en": "Visit the stones well before the 5:00 PM sunset; the golden winter light on the menhirs is particularly vibrant and colorful."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Autózzon ki korán az ősi Rigonou dolmenekhez, majd induljon a kikötő felé rejtett kőművészetet és a hajótemetőt keresve. Délben haladjon a legnyugatibb pontra, hogy felfedezze a masszív tüzérségi ütegeket. Délután délre veszi az irányt a megható Atlanti-csata Emlékművéhez. Zárja a napot a védett Veryac'h strand gyönyörű naplementéjével.",
         "ro": "Conduceți devreme la dolmenele Rigonou, apoi spre port pentru a găsi artă ascunsă în piatră și cimitirul de bărci. La prânz, mergeți spre vest pentru a explora bateriile masive de artilerie istorică. După-amiaza se mută spre sud la emoționantul Memorial al Atlanticului. Încheiați ziua urmărind soarele coborând de pe frumoasa plajă Veryac'h.",
         "en": "Drive out to the ancient Rigonou dolmens early, then head towards the port to find hidden stone art and the famous boat cemetery. Around midday, cruise to the far western point to explore massive historic artillery batteries overlooking the sea. Your afternoon shifts south to the poignant Atlantic Memorial. Finish the day watching the sun dip low from the beautiful, sheltered Veryac'h beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet den Komfort eines trockenen Cockpits, während draußen der atlantische Regen peitscht. Wir starten bei den Dolmen, die im Regen fast schwarz schimmern. Mittags erkunden wir die unterirdischen Bunker des Memorials, der ideale Ort für schlechtes Wetter. Nachmittags genießen wir die wilde Aussicht von den Klippenparkplätzen aus, bevor wir den Tag entspannt in einem Restaurant am Hafen beenden.",
+            "hu": "Az autós túra kényelmes és száraz menedéket nyújt, miközben odakint az atlanti eső dobol. A dolmeneknél kezdünk, amik a nedvességtől szinte feketén csillognak. Délben a múzeum földalatti bunkereit fedezzük fel, ami ideális program rossz időben. Délután a sziklák menti parkolókból csodáljuk a vad kilátást, majd a napot egy hangulatos kikötői étteremben zárjuk.",
+            "ro": "Turul cu mașina oferă confortul unui habitaclu uscat în timp ce afară ploaia atlantică bate în geamuri. Începem la dolmene, care par aproape negre de la umezeală. La prânz explorăm buncărele subterane ale Memorialului, locul ideal pentru vreme rea. După-amiaza admirăm priveliștea sălbatică din parcările de pe stânci, încheind ziua la un restaurant în port.",
+            "en": "The car tour offers the comfort of a dry cabin while the Atlantic rain lashes outside. We start at the dolmens, which shimmer almost black in the wet. At noon, we explore the underground bunkers of the Memorial, an ideal spot for bad weather. Afternoon is spent enjoying wild views from cliffside parking areas before ending the day in a cozy harbor restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmens de Rigonou",
+                "hu": "Dolmens de Rigonou",
+                "ro": "Dolmens de Rigonou",
+                "en": "Dolmens de Rigonou"
+              },
+              "tip_5lang": {
+                "de": "Die Dolmen liegen direkt an einer kleinen Straße; parken Sie so nah wie möglich, um den kurzen Fußweg durch den Regen zu minimieren und trocken zu bleiben.",
+                "hu": "A dolmenek közvetlenül egy kis út mellett találhatók; parkolj a lehető legközelebb, hogy minimálisra csökkentsd az esőben megtett utat a kövekig.",
+                "ro": "Dolmenele sunt situate chiar lângă un drum mic; parcați cât mai aproape posibil pentru a minimiza mersul prin ploaie până la pietre.",
+                "en": "The dolmens are located right next to a small road; park as close as possible to minimize the short walk through the rain to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Oeil de Pierre Chanteau",
+                "hu": "Oeil de Pierre Chanteau",
+                "ro": "Oeil de Pierre Chanteau",
+                "en": "Oeil de Pierre Chanteau"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man bereits eine gute Sicht auf dieses Kuriosum; nutzen Sie eine Regenpause für ein schnelles Foto, da der Untergrund hier lehmig sein kann.",
+                "hu": "Az autóból is jó rálátás nyílik erre a különlegességre; várj meg egy rövidebb esőszünetet a fotózáshoz, mert a talaj itt hamar agyagossá és csúszóssá válik.",
+                "ro": "Din mașină aveți deja o vedere bună asupra acestei curiozități; așteptați o pauză de ploaie pentru o poză rapidă, deoarece solul poate fi lutos.",
+                "en": "You can get a good view of this curiosity from your car; wait for a brief break in the rain for a quick photo, as the ground can get quite muddy here."
+              }
+            },
+            {
+              "name": {
+                "de": "Cimetière des bâteaux",
+                "hu": "Cimetière des bâteaux",
+                "ro": "Cimetière des bâteaux",
+                "en": "Cimetière des bâteaux"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Parkplatz am Hafen; von dort aus können Sie die Schiffsgerippe auch bei Regen gut sehen, ohne im Schlamm zu versinken.",
+                "hu": "Használd a kikötő melletti szilárd burkolatú parkolót; onnan esőben is jól láthatod a hajóroncsokat anélkül, hogy elmerülnél a sárban.",
+                "ro": "Parcați în parcarea asfaltată de lângă port; de acolo puteți vedea bine epavele chiar și pe ploaie, fără a vă afunda în noroi.",
+                "en": "Use the paved parking area by the harbor; from there, you can see the ship remains well even in the rain without sinking into the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie de 24cm",
+                "hu": "Batterie de 24cm",
+                "ro": "Batterie de 24cm",
+                "en": "Batterie de 24cm"
+              },
+              "tip_5lang": {
+                "de": "Die Batterie liegt exponiert am Klippenrand; bleiben Sie bei starkem Wind im Auto und genießen Sie die Aussicht durch die Scheibe für maximale Sicherheit.",
+                "hu": "Az üteg nagyon kitett helyen van a sziklaszélen; erős szélben maradj az autóban, és élvezd a kilátást a szélvédőn keresztül a legnagyobb biztonságban.",
+                "ro": "Bateria este situată într-un loc expus pe marginea stâncii; în caz de vânt puternic, rămâneți în mașină și admirați priveliștea prin parbriz.",
+                "en": "The battery is in a very exposed spot on the cliff edge; stay in your car during high winds and enjoy the view through the windshield for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie de Kerbonn",
+                "hu": "Batterie de Kerbonn",
+                "ro": "Batterie de Kerbonn",
+                "en": "Batterie de Kerbonn"
+              },
+              "tip_5lang": {
+                "de": "Diese Anlage ist weitläufig; parken Sie direkt am Eingang des Memorial-Geländes und nutzen Sie einen Regenschirm für den kurzen Weg zwischen den Bunkern.",
+                "hu": "Ez az erődítmény nagy területen fekszik; parkolj közvetlenül az emlékmű bejáratánál, és használj esernyőt a bunkerek közötti rövid sétákhoz.",
+                "ro": "Această fortificație este întinsă; parcați chiar la intrarea în complexul memorial și folosiți o umbrelă pentru scurtele deplasări între buncăre.",
+                "en": "This site is quite spread out; park right at the memorial entrance and use an umbrella for the short walks between the various bunker structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Battle of the Atlantic Memorial",
+                "hu": "Battle of the Atlantic Memorial",
+                "ro": "Battle of the Atlantic Memorial",
+                "en": "Battle of the Atlantic Memorial"
+              },
+              "tip_5lang": {
+                "de": "Dies ist das Highlight für Regentage; das Museum befindet sich komplett im Inneren eines Bunkers und bietet stundenlangen Schutz und spannende Infos.",
+                "hu": "Ez az esős napok fénypontja; a múzeum teljesen egy bunker belsejében található, így órákig tartó védelmet és izgalmas látnivalót kínál.",
+                "ro": "Acesta este punctul culminant pentru zilele ploioase; muzeul se află complet în interiorul unui buncăr, oferind protecție și informații captivante.",
+                "en": "This is the highlight for rainy days; the museum is entirely inside a bunker, offering hours of protection and fascinating historical exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Veryac'h",
+                "hu": "Plage du Veryac'h",
+                "ro": "Plage du Veryac'h",
+                "en": "Plage du Veryac'h"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz oben an der Klippe hat man ein fantastisches Panorama; bleiben Sie im warmen Auto und beobachten Sie das Schauspiel der Brandung im Regen.",
+                "hu": "A szikla feletti parkolóból fantasztikus panoráma nyílik; maradj a meleg autóban, és figyeld a hullámok játékát a szakadó esőben.",
+                "ro": "Din parcarea de deasupra stâncii aveți o panoramă fantastică; rămâneți în mașina caldă și observați spectacolul valurilor în ploaia torențială.",
+                "en": "The parking lot above the cliff offers a fantastic panorama; stay in your warm car and watch the dramatic surf crashing against the rocks in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Cap de la Chèvre ist klar und weitläufig. Im Auto genießen wir die Fahrt entlang der Panoramastraßen, während die Heizung für Wohlbefinden sorgt. Mittags bietet das Memorial Museum eine spannende Aufwärmpause. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den letzten Stopp an der Klippe rechtzeitig ein, um das Farbspektakel bequem vom Sitz aus zu erleben.",
+            "hu": "A téli reggel a Cap de la Chèvre-nél tiszta és tágas. Az autóban élvezzük a kanyargós panorámautakat, miközben a fűtés gondoskodik a kényelemről. Délben a múzeum nyújt tartalmas és meleg pihenőt. Mivel a nap már 17:00 körül nyugszik, az utolsó megállót időben tervezzük, hogy a sziklákról, az autó kényelméből nézzük végig a színes naplementét.",
+            "ro": "Dimineața de iarnă la Cap de la Chèvre este clară și vastă. În mașină ne bucurăm de drumurile panoramice în timp ce căldura ne oferă confort. La prânz, muzeul oferă o pauză de încălzire interesantă. Deoarece soarele apune deja în jurul orei 17:00, planificăm ultima oprire la timp pentru a vedea spectacolul de culori din confortul scaunului.",
+            "en": "The winter morning at Cap de la Chèvre is clear and vast. In the car, we enjoy cruising along scenic roads while the heater keeps us comfortable. At noon, the Memorial Museum offers a fascinating warming break. Since the sun sets around 5:00 PM, we time our last cliffside stop perfectly to watch the sunset from the comfort of our seats."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmens de Rigonou",
+                "hu": "Dolmens de Rigonou",
+                "ro": "Dolmens de Rigonou",
+                "en": "Dolmens de Rigonou"
+              },
+              "tip_5lang": {
+                "de": "Die Steine sind im Wintermorgen oft von Reif bedeckt; parken Sie am Straßenrand und genießen Sie den Anblick kurz, bevor es zurück ins warme Auto geht.",
+                "hu": "A köveket téli reggeleken gyakran zúzmara borítja; parkolj az út szélén, és élvezd a látványt egy rövid ideig, mielőtt visszatérnél a fűtött autóba.",
+                "ro": "Pietrele sunt adesea acoperite de chiciură în diminețile de iarnă; parcați pe marginea drumului și admirați-le scurt înainte de a reveni în mașina caldă.",
+                "en": "The stones are often covered in frost on winter mornings; park on the roadside and enjoy the sight briefly before hopping back into the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Oeil de Pierre Chanteau",
+                "hu": "Oeil de Pierre Chanteau",
+                "ro": "Oeil de Pierre Chanteau",
+                "en": "Oeil de Pierre Chanteau"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die Farben dieses Felsens besonders intensiv leuchten; ideal für ein schnelles Foto direkt vom Fahrersitz aus.",
+                "hu": "A tiszta téli fényben a szikla színei különösen intenzíven ragyognak; ideális egy gyors fotóhoz akár közvetlenül a vezetőülésből is.",
+                "ro": "Lumina clară de iarnă face ca culorile acestei stânci să strălucească intens; ideal pentru o fotografie rapidă direct de la volan.",
+                "en": "The clear winter light makes the colors of this rock glow intensely; it's perfect for a quick photo directly from the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Cimetière des bâteaux",
+                "hu": "Cimetière des bâteaux",
+                "ro": "Cimetière des bâteaux",
+                "en": "Cimetière des bâteaux"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken auf unbefestigten Flächen, die bei Frost hart, aber bei Sonne matschig werden; nutzen Sie die geteerten Plätze am Hafen.",
+                "hu": "Kerüld a burkolatlan helyeken való parkolást, amik fagyban kemények, de napsütésben sárossá válnak; használd a kikötő aszfaltozott helyeit.",
+                "ro": "Evitați parcarea pe suprafețe neamenajate care sunt tari la îngheț dar devin noroioase la soare; folosiți locurile asfaltate din port.",
+                "en": "Avoid parking on unpaved surfaces that are hard when frozen but muddy in the sun; stick to the asphalted spots near the harbor instead."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie de 24cm",
+                "hu": "Batterie de 24cm",
+                "ro": "Batterie de 24cm",
+                "en": "Batterie de 24cm"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann im Winter windig sein; achten Sie auf Böen beim Öffnen der Autotür und genießen Sie das Panorama über die Bucht von Douarnenez.",
+                "hu": "A bekötőút télen nagyon szeles lehet; vigyázz az ajtónyitásnál a széllökésekre, és élvezd a Douarnenez-öbölre nyíló téli panorámát.",
+                "ro": "Drumul de acces poate fi vântos iarna; atenție la rafale când deschideți ușa mașinii și admirați panorama peste golful Douarnenez.",
+                "en": "The access road can be very windy in winter; watch out for gusts when opening car doors and enjoy the winter panorama over Douarnenez Bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie de Kerbonn",
+                "hu": "Batterie de Kerbonn",
+                "ro": "Batterie de Kerbonn",
+                "en": "Batterie de Kerbonn"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze direkt am Memorial sind im Winter meist leer; nutzen Sie die Nähe zum Eingang, um die Zeit im kalten Wind so kurz wie möglich zu halten.",
+                "hu": "Az emlékmű melletti parkolók télen többnyire üresek; használd ki a bejárat közelségét, hogy minél kevesebb időt kelljen a hideg szélben töltened.",
+                "ro": "Parcările de lângă memorial sunt de obicei goale iarna; profitați de proximitatea intrării pentru a petrece cât mai puțin timp în vântul rece.",
+                "en": "The parking lots by the memorial are mostly empty in winter; take advantage of the proximity to the entrance to minimize time in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Battle of the Atlantic Memorial",
+                "hu": "Battle of the Atlantic Memorial",
+                "ro": "Battle of the Atlantic Memorial",
+                "en": "Battle of the Atlantic Memorial"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet eine perfekte, klimatisierte Umgebung für eine längere Pause; hier können Sie die Geschichte der Küste im Warmen studieren.",
+                "hu": "A múzeum tökéletes, temperált környezetet biztosít egy hosszabb pihenőhöz; itt kényelmesen, a melegben tanulmányozhatod a partvidék történelmét.",
+                "ro": "Muzeul oferă un mediu perfect, climatizat, pentru o pauză lungă; aici puteți studia istoria coastei în liniște și la căldură.",
+                "en": "The museum provides a perfect, climate-controlled environment for a long break; here you can study coastal history in comfort and warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Veryac'h",
+                "hu": "Plage du Veryac'h",
+                "ro": "Plage du Veryac'h",
+                "en": "Plage du Veryac'h"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto mit Blick auf das Meer ab; der Sonnenuntergang gegen 17:00 Uhr ist vom warmen Innenraum aus ein unvergessliches Erlebnis.",
+                "hu": "Állítsd le az autót a tengerre nézve; a 17:00 óra körüli naplemente a fűtött utastérből nézve felejthetetlen és kényelmes élmény.",
+                "ro": "Parcați mașina cu fața spre mare; apusul de soare în jurul orei 17:00 este o experiență de neuitat din habitaclul cald al mașinii.",
+                "en": "Park your car facing the sea; watching the 5:00 PM sunset from your heated vehicle is an unforgettable and cozy winter experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

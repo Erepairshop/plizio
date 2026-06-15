@@ -206,6 +206,252 @@
         "hu": "Kezdje a reggelt az elegáns központban a San Pio V és a MIC modern művészetének felfedezésével. Délben frissüljön fel az Adriai-tenger partján a Bagno delle sirene-nél. Délután tegyen egy sétát a történelmi felsővárosba, az ősi Porta Maggiore felé. Az estét a lenyűgöző kilátás és a naplemente koronázza meg a fenséges Castello di Grottammare romjainál.",
         "ro": "Începeți dimineața explorând centrul elegant, admirând San Pio V și arta de la MIC. La prânz, faceți o pauză revigorantă pe malul Mării Adriatice, la Bagno delle sirene. După-amiaza vă invită la o plimbare în orașul de sus, trecând prin antica Porta Maggiore. Seara vă răsplătește cu vederi spectaculoase și un apus de soare superb la maiestuosul Castello di Grottammare.",
         "en": "Start your morning exploring the elegant center, viewing San Pio V and modern art at MIC. Midday brings you to the Adriatic shore for a refreshing pause at Bagno delle sirene. Afternoon calls for an uphill stroll to the historic upper town, wandering through the ancient Porta Maggiore. Evening rewards you with spectacular views and a sunset at the majestic Castello di Grottammare."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen geschützt in San Pio V, bevor Sie die Museen MIC und Dep Art besuchen, die ideale Rückzugsorte bei Regen bieten. Mittags laden die überdachten Galerien zum Verweilen ein. Nachmittags bieten die Kirchen Sant'Agostino und die Gassen des Borgo trockene Abschnitte. Den Abend krönt ein Blick auf das neblige Meer von der Burgruine aus, wo die Wolken tief hängen.",
+            "hu": "Kezdje a reggelt a San Pio V templom oltalmában, majd látogasson el a MIC és Dep Art galériákba, melyek tökéletes menedéket nyújtanak az eső elől. Délben a fedett kulturális terekben böngészhet. Délután a Sant'Agostino templom és az óváros boltívei alatt sétálhat szárazon. Az estét a várromok közötti ködös tengeri panoráma zárja, ahol a párás levegő különleges hangulatot áraszt.",
+            "ro": "Începeți dimineața la adăpost în biserica San Pio V, apoi vizitați muzeul MIC și galeria Dep Art, refugiile ideale pentru o zi ploioasă. La prânz, spațiile culturale oferă confort și protecție. După-amiaza, arcadele din Borgo și biserica Sant'Agostino vă țin uscați. Seara se încheie cu o vedere panoramică spre marea cețoasă de la castel, unde atmosfera devine dramatică sub nori.",
+            "en": "Start the morning sheltered inside San Pio V church before heading to MIC and Dep Art, which are perfect retreats from the rain. At midday, enjoy the indoor cultural exhibits. In the afternoon, the arches of the old town and Sant'Agostino church provide dry passages. End the evening at the castle ruins with a misty view of the Adriatic, where the grey clouds add a unique charm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Pio V",
+                "hu": "San Pio V",
+                "ro": "San Pio V",
+                "en": "San Pio V"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum als ersten trockenen Halt des Tages. Achten Sie auf den rutschigen Marmor am Kircheneingang bei Nässe.",
+                "hu": "Használja ki a pompás belső teret a nap első száraz állomásaként. Ügyeljen a bejáratnál a nedvességtől csúszóssá váló márványlépcsőkre.",
+                "ro": "Folosiți interiorul splendid ca primă oprire uscată a zilei. Aveți grijă la marmura alunecoasă de la intrare când plouă afară.",
+                "en": "Utilize the splendid interior as your first dry stop of the day. Be careful with the marble steps at the entrance which get slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "MIC – Museo dell'Illustrazione Contemporanea",
+                "hu": "MIC – Kortárs Illusztrációs Múzeum",
+                "ro": "MIC – Muzeul Ilustrației Contemporane",
+                "en": "MIC – Museum of Contemporary Illustration"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um starken Regen zu überbrücken und dabei moderne Kunst zu genießen. Planen Sie hier wegen der gemütlichen Atmosphäre mehr Zeit ein.",
+                "hu": "Ez a legjobb hely az intenzív eső átvészelésére a modern művészet élvezete közben. A barátságos légkör miatt tervezzen ide hosszabb tartózkodást.",
+                "ro": "Acesta este cel mai bun loc pentru a aștepta oprirea ploii în timp ce admirați arta modernă. Planificați mai mult timp datorită atmosferei primitoare.",
+                "en": "This is the best place to wait out heavy rain while enjoying modern art. Plan for extra time here because of the cozy and dry atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno delle sirene",
+                "hu": "Bagno delle sirene",
+                "ro": "Bagno delle sirene",
+                "en": "Bagno delle sirene"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, stürmischer Blick auf die Adria lohnt sich auch bei Regen für dramatische Fotos. Tragen Sie feste, wasserdichte Schuhe für den Sandweg.",
+                "hu": "A viharos Adriára nyíló kilátás esőben is megéri egy gyors fotó erejéig. Viseljen vízálló cipőt a homokos és ilyenkor sáros útszakaszon.",
+                "ro": "O privire rapidă spre marea agitată merită chiar și pe ploaie pentru fotografii dramatice. Purtați încălțăminte impermeabilă pentru poteca cu nisip.",
+                "en": "A quick look at the stormy Adriatic is worth it even in the rain for dramatic photos. Wear waterproof shoes for the sandy and muddy path."
+              }
+            },
+            {
+              "name": {
+                "de": "Dep Art",
+                "hu": "Dep Art",
+                "ro": "Dep Art",
+                "en": "Dep Art"
+              },
+              "tip_5lang": {
+                "de": "Die hellen Ausstellungsräume bieten einen wunderbaren Kontrast zum grauen Wetter draußen. Nutzen Sie den überdachten Eingangsbereich zum Schirmfalten.",
+                "hu": "A világos kiállítóterek csodás kontrasztot alkotnak a kinti szürke idővel. Használja a fedett bejáratot az esernyők kényelmes összecsukásához.",
+                "ro": "Spațiile luminoase de expoziție oferă un contrast minunat cu vremea gri de afară. Folosiți intrarea acoperită pentru a vă scutura umbrela.",
+                "en": "The bright exhibition spaces offer a wonderful contrast to the grey weather outside. Use the sheltered entrance area to fold your umbrella comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Agostino",
+                "hu": "Chiesa di Sant'Agostino",
+                "ro": "Chiesa di Sant'Agostino",
+                "en": "Chiesa di Sant'Agostino"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Fresken, während Sie sich im Inneren aufwärmen und trocknen. Die dicken Mauern bieten perfekten Schutz vor Windböen.",
+                "hu": "Csodálja meg az ősi freskókat, miközben bent felmelegszik és megszárad. A vastag falak tökéletes védelmet nyújtanak az erős széllökések ellen is.",
+                "ro": "Admirați frescele vechi în timp ce vă încălziți și vă uscați în interior. Zidurile groase oferă protecție perfectă împotriva rafalelor de vânt.",
+                "en": "Admire the ancient frescoes while drying off and warming up inside. The thick stone walls provide perfect shelter from strong wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti di Porta Maggiore",
+                "hu": "Resti di Porta Maggiore",
+                "ro": "Resti di Porta Maggiore",
+                "en": "Resti di Porta Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Bögen dienen als natürlicher Regenschutz beim Betreten des alten Stadtteils. Bleiben Sie kurz unter dem Mauerwerk stehen.",
+                "hu": "A történelmi boltívek természetes esővédőként szolgálnak az óvárosba való belépéskor. Álljon meg egy pillanatra a falak alatt, amíg eláll.",
+                "ro": "Arcadele istorice servesc drept paravan natural împotriva ploii la intrarea în orașul vechi. Staționați sub ziduri până se domolește ploaia.",
+                "en": "The historical arches serve as natural rain shelter when entering the old town area. Stop for a moment under the stonework to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Torrione della battaglia",
+                "hu": "Torrione della battaglia",
+                "ro": "Torrione della battaglia",
+                "en": "Torrione della battaglia"
+              },
+              "tip_5lang": {
+                "de": "Vom Turm aus wirken die regennassen Dächer von Grottammare besonders malerisch. Vorsicht auf den Steinstufen, diese sind bei Nässe extrem rutschig.",
+                "hu": "A toronyból Grottammare esőtől ázott háztetői különösen festőien mutatnak. Vigyázzon a kőlépcsőkön, mert nedvesen rendkívül csúszósak.",
+                "ro": "Din turn, acoperișurile umede ale orașului Grottammare arată deosebit de pitoresc. Atenție pe treptele de piatră, sunt extrem de alunecoase.",
+                "en": "From the tower, the rain-soaked rooftops of Grottammare look particularly picturesque. Be careful on the stone steps as they get very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Grottammare",
+                "hu": "Castello di Grottammare",
+                "ro": "Castello di Grottammare",
+                "en": "Castello di Grottammare"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Nebel fast mystisch; ein toller Ort für atmosphärische Bilder. Suchen Sie Schutz unter den Pinien bei leichtem Nieselregen.",
+                "hu": "A romok a ködben szinte misztikusnak tűnnek; kiváló helyszín hangulatos fotókhoz. Enyhe szemerkélés esetén a fenyőfák alatt találhat menedéket.",
+                "ro": "Ruinele par aproape mistice în ceață; un loc excelent pentru fotografii atmosferice. Căutați adăpost sub pini în caz de burniță ușoară.",
+                "en": "The ruins look almost mystical in the fog, making it a great spot for moody photos. Seek shelter under the pine trees during light drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei einem Spaziergang zur Kirche San Pio V und wärmen Sie sich danach im MIC Museum auf. Mittags ist das Licht am Meer besonders sanft. Am Nachmittag leuchten die Ziegel der Porta Maggiore in der tiefstehenden Sonne. Da es bereits gegen 17:00 Uhr dunkel wird, erleben Sie die Burgruine in einer magischen, abendlichen Beleuchtung.",
+            "hu": "Élvezze a friss téli levegőt a San Pio V templom felé, majd melegedjen fel a MIC múzeum tárlatai között. Délben a tengerparti fények különösen lágyak. Délután a Porta Maggiore téglái vörösesen izzanak az alacsony napfényben. Mivel ötkor sötétedik, a várromokat már ünnepi esti kivilágításban csodálhatja meg.",
+            "ro": "Bucurați-vă de aerul curat de iarnă spre biserica San Pio V, apoi încălziți-vă în muzeul MIC. La prânz, lumina de pe malul mării este extrem de blândă. După-amiaza, cărămizile de la Porta Maggiore strălucesc în soarele jos. Deoarece se întunecă la ora 17:00, veți vedea ruinele castelului într-o iluminare nocturnă magică.",
+            "en": "Enjoy the crisp winter air on your way to San Pio V, then warm up inside the MIC museum. At noon, the coastal light is particularly soft and beautiful. In the afternoon, the low sun makes the bricks of Porta Maggiore glow. Since sunset is around 5 PM, you will experience the castle ruins in a magical evening illumination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Pio V",
+                "hu": "San Pio V",
+                "ro": "San Pio V",
+                "en": "San Pio V"
+              },
+              "tip_5lang": {
+                "de": "Der friedliche Innenraum ist der ideale Ort, um die Tour ohne die sommerlichen Menschenmassen zu starten. Tragen Sie Schichten für den Temperaturwechsel.",
+                "hu": "A békés belső tér ideális a túra megkezdéséhez a nyári tömeg nélkül. Öltözködjön rétegesen a kinti hideg és a benti meleg miatt.",
+                "ro": "Interiorul liniștit este locul ideal pentru a începe turul fără aglomerația de vară. Purtați haine în straturi pentru schimbările de temperatură.",
+                "en": "The peaceful interior is the ideal place to start your tour without the summer crowds. Wear layers to adjust to the temperature changes."
+              }
+            },
+            {
+              "name": {
+                "de": "MIC – Museo dell'Illustrazione Contemporanea",
+                "hu": "MIC – Kortárs Illusztrációs Múzeum",
+                "ro": "MIC – Muzeul Ilustrației Contemporane",
+                "en": "MIC – Museum of Contemporary Illustration"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit im beheizten Museum, um die Kunstwerke in Ruhe zu studieren. Perfekt, um sich vor dem nächsten Außenteil aufzuwärmen.",
+                "hu": "Használja ki a délidőt a fűtött múzeumban a műalkotások nyugodt tanulmányozására. Tökéletes hely a felmelegedésre a következő szabadtéri szakasz előtt.",
+                "ro": "Folosiți timpul amiezii în muzeul încălzit pentru a studia operele de artă în liniște. Este locul perfect pentru a vă încălzi înainte de restul turului.",
+                "en": "Use the midday time in the heated museum to study the artworks in peace. It is the perfect spot to warm up before the next outdoor section."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno delle sirene",
+                "hu": "Bagno delle sirene",
+                "ro": "Bagno delle sirene",
+                "en": "Bagno delle sirene"
+              },
+              "tip_5lang": {
+                "de": "Der menschenleere Winterstrand hat einen ganz eigenen, meditativen Reiz. Ein windfester Mantel ist für den Aufenthalt an der Küste unerlässlich.",
+                "hu": "Az üres téli tengerpartnak különleges, meditatív vonzereje van ilyenkor. Egy szélálló kabát elengedhetetlen a parton való tartózkodáshoz.",
+                "ro": "Plaja pustie de iarnă are un farmec meditativ aparte. O haină rezistentă la vânt este indispensabilă pentru plimbarea pe malul mării.",
+                "en": "The deserted winter beach has a very special, meditative appeal. A windproof coat is essential for spending time by the coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Dep Art",
+                "hu": "Dep Art",
+                "ro": "Dep Art",
+                "en": "Dep Art"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Kunst bietet eine farbenfrohe Abwechslung zum grauen Wintertag. Genießen Sie die Stille in der Galerie während der Nebensaison.",
+                "hu": "A modern művészet színes kikapcsolódást nyújt a szürke téli napokon. Élvezze a galéria csendjét a főszezonon kívüli időszakban.",
+                "ro": "Arta modernă oferă o recreere colorată în zilele gri de iarnă. Bucurați-vă de liniștea galeriei în timpul extrasezonului.",
+                "en": "Modern art provides a colorful distraction from the grey winter days. Enjoy the silence of the gallery during the off-season period."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Agostino",
+                "hu": "Chiesa di Sant'Agostino",
+                "ro": "Chiesa di Sant'Agostino",
+                "en": "Chiesa di Sant'Agostino"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche wirkt im Winterlicht besonders andächtig und ruhig. Achten Sie auf die verkürzten Öffnungszeiten in den Wintermonaten.",
+                "hu": "A templom a téli fényben különösen áhítatosnak és nyugodtnak tűnik. Figyeljen a téli hónapokban érvényes rövidített nyitvatartási időre.",
+                "ro": "Biserica pare deosebit de pioasă și liniștită în lumina iernii. Verificați programul redus de vizitare în lunile de iarnă.",
+                "en": "The church looks particularly solemn and quiet in the winter light. Be mindful of the shortened opening hours during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti di Porta Maggiore",
+                "hu": "Resti di Porta Maggiore",
+                "ro": "Resti di Porta Maggiore",
+                "en": "Resti di Porta Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht betont die Textur der alten Steine auf magische Weise. Ideale Zeit für Fotos ist gegen 15:30 Uhr.",
+                "hu": "Az alacsonyan járó napfény mágikus módon emeli ki a régi kövek textúráját. A fotózáshoz a legalkalmasabb időpont 15:30 körül van.",
+                "ro": "Lumina soarelui jos accentuează textura pietrelor vechi într-un mod magic. Momentul ideal pentru fotografii este în jurul orei 15:30.",
+                "en": "The low-angle sunlight highlights the texture of the ancient stones magically. The ideal time for photos is around 3:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Torrione della battaglia",
+                "hu": "Torrione della battaglia",
+                "ro": "Torrione della battaglia",
+                "en": "Torrione della battaglia"
+              },
+              "tip_5lang": {
+                "de": "Vom Turm aus sehen Sie oft die schneebedeckten Gipfel des Apennin im Hintergrund. Ein warmer Schal schützt Sie vor dem eisigen Küstenwind.",
+                "hu": "A toronyból gyakran látni a távolban az Appenninek hófödte csúcsait. Egy meleg sál megvédi Önt a jeges tengerparti széltől.",
+                "ro": "Din turn puteți vedea adesea vârfurile înzăpezite ale Apeninilor în depărtare. Un fular călduros vă va proteja de vântul înghețat de coastă.",
+                "en": "From the tower, you can often see the snow-capped peaks of the Apennines in the distance. A warm scarf will protect you from the icy wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Grottammare",
+                "hu": "Castello di Grottammare",
+                "ro": "Castello di Grottammare",
+                "en": "Castello di Grottammare"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Burg vor 17 Uhr, um den Sonnenuntergang über den Hügeln zu erleben. Die abendliche Beleuchtung setzt die Ruinen toll in Szene.",
+                "hu": "Érjen fel a várhoz délután 5 előtt, hogy elcsípje a naplementét a dombok felett. Az esti világítás csodásan emeli ki a romok körvonalait.",
+                "ro": "Ajungeți la castel înainte de ora 17 pentru a prinde apusul peste dealuri. Iluminatul de seară scoate în evidență superb conturul ruinelor.",
+                "en": "Reach the castle before 5 PM to catch the sunset over the hills. The evening lighting beautifully highlights the silhouettes of the ruins."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +629,224 @@
         "hu": "Indítsa kerékpártúráját a nyüzsgő központban, megtekintve a műemlékeket és a képregénymúzeumot. Délben pihenjen meg a tengerparton a Bagno delle sirene-nél. Délután tekerjen a történelmi Porta Maggiore és a hegyvidéki szentélyek felé. Fejezze be túráját egy esti tekeréssel délre, hogy megcsodálja a modern Chiesa della Gran Madre di Dio épületét.",
         "ro": "Începeți turul cu bicicleta în centrul plin de viață, admirând monumentele istorice și muzeul. La prânz, relaxați-vă pe malul animat al mării la Bagno delle sirene. După-amiaza, pedalați spre istorica Porta Maggiore și sanctuarele din orașul de sus. Încheiați cursa cu o plimbare de seară spre sud, către moderna biserică Chiesa della Gran Madre di Dio.",
         "en": "Kick off your cycling tour in the bustling center, taking in historic monuments and the comic art museum. Midday invites a quick rest by the lively shoreline at Bagno delle sirene. In the afternoon, shift gears and pedal towards the historic Porta Maggiore and uphill sanctuaries. Conclude your ride with an evening cruise south to the modern Chiesa della Gran Madre di Dio."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht, besonders bei den Denkmälern am Morgen. Das MIC bietet eine lange, trockene Pause. Mittags radeln Sie vorsichtig entlang der Küste zum Borgo. Der Nachmittag gehört den Kirchen Santa Maria und Gran Madre, die als spirituelle und trockene Rastplätze dienen, bevor die Tour endet.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel, főleg a reggeli emlékműveknél. A MIC múzeum hosszú, száraz pihenőt kínál. Délben óvatosan tekerjen a part mentén az óváros felé. A délután a Santa Maria és Gran Madre templomoké, melyek lelki és fizikai menedéket nyújtanak a túra végén.",
+            "ro": "Ciclismul pe ploaie necesită prudență, mai ales la monumentele de dimineață. Muzeul MIC oferă o pauză lungă și uscată. La prânz, pedalați cu grijă pe coastă spre orașul vechi. După-amiaza aparține bisericilor Santa Maria și Gran Madre, care servesc drept refugii spirituale și uscate.",
+            "en": "Cycling in the rain requires caution, especially at the monuments in the morning. MIC museum offers a long, dry break. At noon, cycle carefully along the coast towards the old town. The afternoon is dedicated to Santa Maria and Gran Madre churches, serving as spiritual and dry shelters before finishing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busto di Giuseppe Garibaldi",
+                "hu": "Busto di Giuseppe Garibaldi",
+                "ro": "Busto di Giuseppe Garibaldi",
+                "en": "Busto di Giuseppe Garibaldi"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier aus; achten Sie auf glatte Pflastersteine in der Nähe des Sockels. Tragen Sie eine gut sichtbare Regenjacke.",
+                "hu": "Egy rövid megálló is elég itt; ügyeljen a talapzat körüli csúszós macskakövekre. Viseljen jól látható, fényvisszaverős esőkabátot.",
+                "ro": "O oprire scurtă este suficientă; atenție la pavajul alunecos din jurul soclului. Purtați o pelerină de ploaie cu elemente reflectorizante.",
+                "en": "A short stop is enough here; watch out for slippery cobblestones near the pedestal. Wear a highly visible, reflective raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti",
+                "hu": "Monumento ai Caduti",
+                "ro": "Monumento ai Caduti",
+                "en": "Monumento ai Caduti"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal zügig, da es kaum Unterstand gibt. Prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf nasser Straße fortsetzen.",
+                "hu": "Tekintse meg gyorsan az emlékművet, mivel nincs fedett rész a közelben. Ellenőrizze a fékeket, mielőtt vizes úton folytatná az utat.",
+                "ro": "Vizualizați monumentul rapid, deoarece nu există adăpost în apropiere. Verificați frânele înainte de a continua drumul pe carosabil umed.",
+                "en": "View the monument quickly as there is little shelter nearby. Check your brakes before continuing your ride on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "MIC – Museo dell'Illustrazione Contemporanea",
+                "hu": "MIC – Kortárs Illusztrációs Múzeum",
+                "ro": "MIC – Muzeul Ilustrației Contemporane",
+                "en": "MIC – Museum of Contemporary Illustration"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem sicheren Ort ab und nutzen Sie die Ausstellung für eine ausgiebige Trockenpause. Idealer Ort für ein Indoor-Programm.",
+                "hu": "Helyezze el kerékpárját biztonságos helyen, és használja a kiállítást egy alapos száraz pihenőre. Ideális helyszín beltéri programhoz.",
+                "ro": "Lăsați bicicleta într-un loc sigur și folosiți expoziția pentru o pauză lungă de uscare. Este locația ideală pentru un program de interior.",
+                "en": "Park your bike in a safe spot and use the exhibition for an extensive dry break. This is the ideal location for an indoor program."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno delle sirene",
+                "hu": "Bagno delle sirene",
+                "ro": "Bagno delle sirene",
+                "en": "Bagno delle sirene"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise kann bei Regen kühl sein; halten Sie den Stopp kurz. Achten Sie auf Pfützen auf dem Radweg, die tiefer sein könnten.",
+                "hu": "A tengeri szellő esőben hűvös lehet; tartsa rövidre a megállót. Ügyeljen a kerékpárúton lévő tócsákra, amelyek mélyebbek lehetnek.",
+                "ro": "Briza mării poate fi răcoroasă pe ploaie; păstrați oprirea scurtă. Atenție la bălțile de pe pistă, care pot fi mai adânci decât par.",
+                "en": "The sea breeze can be chilly in the rain; keep the stop short. Watch out for puddles on the bike path that might be deeper than they look."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti di Porta Maggiore",
+                "hu": "Resti di Porta Maggiore",
+                "ro": "Resti di Porta Maggiore",
+                "en": "Resti di Porta Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zum Borgo ist bei Regen anstrengender; schalten Sie in einen niedrigen Gang. Die Bögen bieten kurzzeitig Schutz vor Schauern.",
+                "hu": "Az óvárosba vezető emelkedő esőben fárasztóbb; váltson alacsonyabb sebességfokozatba. A boltívek rövid ideig védenek a záporoktól.",
+                "ro": "Urcarea spre orașul vechi este mai obositoare pe ploaie; folosiți o viteză inferioară. Arcadele oferă protecție temporară împotriva ploii.",
+                "en": "The climb to the old town is more tiring in the rain; switch to a lower gear. The arches provide temporary shelter from passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria dei Monti",
+                "hu": "Chiesa di Santa Maria dei Monti",
+                "ro": "Chiesa di Santa Maria dei Monti",
+                "en": "Chiesa di Santa Maria dei Monti"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um zur Ruhe zu kommen, während es draußen regnet. Nutzen Sie die Zeit, um Ihre Ausrüstung kurz zu ordnen.",
+                "hu": "Csodálatos hely a megnyugvásra, miközben kint esik az eső. Használja ki az időt a felszerelése gyors rendszerezésére és szárítására.",
+                "ro": "Un loc minunat pentru liniște în timp ce afară plouă. Folosiți timpul pentru a vă organiza și usca rapid echipamentul.",
+                "en": "A wonderful place for tranquility while it rains outside. Use the time to quickly organize and dry off your cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Gran Madre di Dio",
+                "hu": "Chiesa della Gran Madre di Dio",
+                "ro": "Chiesa della Gran Madre di Dio",
+                "en": "Chiesa della Gran Madre di Dio"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Innere bietet einen trockenen Abschluss der Tour. Wischen Sie Ihr Rad nach der Ankunft ab, um Rostbildung zu vermeiden.",
+                "hu": "A modern belső tér száraz lezárást biztosít a túrának. Érkezés után törölje át kerékpárját a rozsdásodás megelőzése érdekében.",
+                "ro": "Interiorul modern oferă un final uscat al turului. Ștergeți bicicleta după sosire pentru a preveni formarea ruginii.",
+                "en": "The modern interior provides a dry conclusion to the tour. Wipe down your bike after arrival to prevent rust from forming."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die frische Küstenluft zu den Denkmälern. Ein langer Aufenthalt im MIC wärmt Sie zur Mittagszeit auf. Nachmittags radeln Sie durch das goldene Licht des Borgo zur Kirche Santa Maria. Beenden Sie die Fahrt bei der Gran Madre di Dio, bevor die frühe Dämmerung gegen 17:00 Uhr die Stadt einhüllt.",
+            "hu": "A téli kerékpártúra a friss tengeri levegőn vezet az emlékművekhez. A MIC múzeumban tett látogatás felmelegíti Önt délidőben. Délután az óváros aranyló fényeiben tekerhet a Santa Maria templomig. Zárja a napot a Gran Madre di Dio templomnál, mielőtt a korai sötétség ötkor leszáll a városra.",
+            "ro": "Turul cu bicicleta pe timp de iarnă trece prin aerul curat de coastă către monumente. O vizită la muzeul MIC vă va încălzi la amiază. După-amiaza, pedalați prin lumina aurie a orașului vechi către biserica Santa Maria. Încheiați la Gran Madre di Dio înainte ca întunericul să cadă la ora 17:00.",
+            "en": "The winter bike tour takes you through fresh coastal air to the monuments. A long stay at the MIC museum warms you up at midday. In the afternoon, cycle through the golden light of the old town to Santa Maria church. Finish at Gran Madre di Dio before the early darkness sets in at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busto di Giuseppe Garibaldi",
+                "hu": "Busto di Giuseppe Garibaldi",
+                "ro": "Busto di Giuseppe Garibaldi",
+                "en": "Busto di Giuseppe Garibaldi"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind am Morgen sehr kalt sein kann. Der Halt ist kurz, aber geschichtlich interessant.",
+                "hu": "Viseljen meleg kesztyűt, mivel a reggeli menetszél nagyon hideg lehet. A megálló rövid, de történelmileg nagyon érdekes.",
+                "ro": "Purtați mănuși groase, deoarece vântul matinal poate fi foarte rece. Oprirea este scurtă, dar interesantă din punct de vedere istoric.",
+                "en": "Wear warm gloves, as the morning wind chill can be very cold. The stop is brief but historically very interesting."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti",
+                "hu": "Monumento ai Caduti",
+                "ro": "Monumento ai Caduti",
+                "en": "Monumento ai Caduti"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine weite Sicht vom Denkmal aus. Bleiben Sie in Bewegung, um die Körperwärme beim Radeln zu halten.",
+                "hu": "A tiszta téli levegő messzi kilátást biztosít az emlékműtől. Maradjon mozgásban, hogy tekerés közben megőrizze teste melegét.",
+                "ro": "Aerul curat de iarnă asigură o vizibilitate la distanță de la monument. Rămâneți în mișcare pentru a menține căldura corpului în timp ce pedalați.",
+                "en": "The clear winter air provides distant views from the monument. Stay in motion to maintain your body heat while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "MIC – Museo dell'Illustrazione Contemporanea",
+                "hu": "MIC – Kortárs Illusztrációs Múzeum",
+                "ro": "MIC – Muzeul Ilustrației Contemporane",
+                "en": "MIC – Museum of Contemporary Illustration"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte draußen zu vergessen. Die beheizten Räume laden zum Verweilen und Aufwärmen der Hände ein.",
+                "hu": "Ideális helyszín, hogy elfelejtse a kinti hideget. A fűtött termek hívogatóak egy kis pihenésre és a kezek felmelegítésére.",
+                "ro": "Locul ideal pentru a uita de frigul de afară. Sălile încălzite sunt primitoare pentru o pauză și pentru a vă încălzi mâinile.",
+                "en": "An ideal place to forget the cold outside. The heated rooms are perfect for a rest and to warm up your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno delle sirene",
+                "hu": "Bagno delle sirene",
+                "ro": "Bagno delle sirene",
+                "en": "Bagno delle sirene"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne glitzert herrlich auf den Wellen. Schützen Sie Ihr Gesicht mit einer Creme vor dem schneidenden Meereswind.",
+                "hu": "A téli napfény gyönyörűen csillog a hullámokon. Védje arcát krémmel a metsző tengeri szél okozta kiszáradás ellen.",
+                "ro": "Soarele de iarnă strălucește superb pe valuri. Protejați-vă fața cu o cremă împotriva vântului tăios de pe mare.",
+                "en": "The winter sun glitters beautifully on the waves. Protect your face with cream against the biting coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti di Porta Maggiore",
+                "hu": "Resti di Porta Maggiore",
+                "ro": "Resti di Porta Maggiore",
+                "en": "Resti di Porta Maggiore"
+              },
+              "tip_5lang": {
+                "de": "Durch den Anstieg wird Ihnen warm werden; atmen Sie die frische Luft tief ein. Das warme Licht am Nachmittag ist perfekt für Fotos.",
+                "hu": "Az emelkedőnek köszönhetően kimelegszik majd; lélegezze be mélyen a friss levegőt. A délutáni meleg fények tökéletesek a fotózáshoz.",
+                "ro": "Datorită urcării vă veți încălzi; respirați adânc aerul curat. Lumina caldă de după-amiază este perfectă pentru fotografii.",
+                "en": "You'll warm up thanks to the climb; take deep breaths of the fresh air. The warm afternoon light is perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria dei Monti",
+                "hu": "Chiesa di Santa Maria dei Monti",
+                "ro": "Chiesa di Santa Maria dei Monti",
+                "en": "Chiesa di Santa Maria dei Monti"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille dieses Ortes fernab des Sommertrubels. Prüfen Sie Ihre Fahrradbeleuchtung für den Rückweg im Dunkeln.",
+                "hu": "Élvezze a hely csendjét távol a nyári nyüzsgéstől. Ellenőrizze a kerékpárlámpákat a sötétben való visszatéréshez.",
+                "ro": "Bucurați-vă de liniștea locului, departe de agitația verii. Verificați luminile bicicletei pentru întoarcerea pe întuneric.",
+                "en": "Enjoy the silence of this place away from the summer hustle. Check your bike lights for the return journey in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Gran Madre di Dio",
+                "hu": "Chiesa della Gran Madre di Dio",
+                "ro": "Chiesa della Gran Madre di Dio",
+                "en": "Chiesa della Gran Madre di Dio"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Kontrast zum historischen Kern. Ziehen Sie sich nach dem Halt schnell warm an, da die Temperaturen abends rasch sinken.",
+                "hu": "Modern kontraszt a történelmi városmaggal szemben. A megálló után öltözzön fel melegen, mert az esti hőmérséklet gyorsan süllyed.",
+                "ro": "Un contrast modern față de centrul istoric. Îmbrăcați-vă gros după oprire, deoarece temperaturile scad rapid seara.",
+                "en": "A modern contrast to the historical center. Bundle up after the stop as the temperature drops rapidly in the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "Az utazás a Gran Madre di Dio lenyűgöző modern építészetével indul a déli részen. Délben haladjon a szárazföld belseje felé, hogy felfedezze a történelmi kincseket és a csendes Bagno della Reginát. Délután vezessen a panorámautakon a Castellóhoz a lélegzetelállító tengerparti kilátásért. Zárja a napot a városközpontban egy pihentető múzeumlátogatással a MIC-ben.",
         "ro": "Călătoria cu mașina începe cu arhitectura modernă a Gran Madre di Dio din sud. La prânz, îndreptați-vă spre interior pentru a descoperi comori ascunse și liniștitul Bagno della Regina. După-amiaza, navigați pe drumurile panoramice spre Castello pentru priveliști de coastă uluitoare. Încheiați ziua revenind în centru pentru o vizită relaxantă la muzeul MIC.",
         "en": "Your drive begins with the striking modern architecture of Gran Madre di Dio in the south. Midday takes you inland to discover hidden historical treasures and the tranquil Bagno della Regina. In the afternoon, navigate the panoramic roads to Castello di Grottammare for breathtaking coastal views. Wrap up your day returning to the town center for a relaxed museum visit at MIC."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Grottammare bei Regen bequem zu erkunden. Besuchen Sie die Kirchen Gran Madre und Madonna della Speranza am Vormittag. Mittags bietet das Bagno della Regina einen kurzen, geschichtsträchtigen Halt. Der Nachmittag gehört der Burg und dem MIC, wo Sie trocken parken und die Kultur im Innenraum genießen können, während die Regentropfen an den Fenstern perlen.",
+            "hu": "Autóval Grottammare esőben is kényelmesen felfedezhető. Látogassa meg délelőtt a Gran Madre és Madonna della Speranza templomokat. Délben a Bagno della Regina egy rövid, történelmi megállót kínál. A délután a váré és a MIC múzeumé, ahol szárazon parkolhat és élvezheti a kultúrát, miközben kint az eső veri az ablakokat.",
+            "ro": "Cu mașina, Grottammare poate fi explorat confortabil chiar și pe ploaie. Vizitați bisericile Gran Madre și Madonna della Speranza dimineața. La prânz, Bagno della Regina oferă o oprire scurtă și istorică. După-amiaza aparține castelului și muzeului MIC, unde puteți parca la uscat și vă puteți bucura de cultură.",
+            "en": "Exploring Grottammare by car is comfortable even in the rain. Visit the Gran Madre and Madonna della Speranza churches in the morning. At noon, Bagno della Regina offers a brief historical stop. The afternoon is dedicated to the castle and MIC museum, where you can park nearby and enjoy the indoor culture while it rains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Gran Madre di Dio",
+                "hu": "Chiesa della Gran Madre di Dio",
+                "ro": "Chiesa della Gran Madre di Dio",
+                "en": "Chiesa della Gran Madre di Dio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um trocken ins Innere zu gelangen. Die moderne Architektur wirkt bei grauem Himmel besonders markant.",
+                "hu": "Parkoljon közvetlenül az épület előtt, hogy szárazon jusson be. A modern építészet különösen hangsúlyos a szürke égbolt alatt.",
+                "ro": "Parcați direct în față pentru a intra la uscat. Arhitectura modernă este deosebit de marcantă sub cerul gri.",
+                "en": "Park directly in front of the building to get inside dry. The modern architecture looks particularly striking under grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna della Speranza",
+                "hu": "Chiesa della Madonna della Speranza",
+                "ro": "Chiesa della Madonna della Speranza",
+                "en": "Chiesa della Madonna della Speranza"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause vom Fahren bei Regen. Achten Sie auf Pfützen auf dem Parkplatz beim Aussteigen.",
+                "hu": "Csendes hely az esőben való vezetés utáni pihenőhöz. Kiszálláskor ügyeljen a parkolóban lévő mélyebb tócsákra.",
+                "ro": "Un loc liniștit pentru o pauză după condusul prin ploaie. Atenție la bălțile din parcare când coborâți din mașină.",
+                "en": "A quiet place for a break from driving in the rain. Watch out for puddles in the parking lot when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno della Regina",
+                "hu": "Bagno della Regina",
+                "ro": "Bagno della Regina",
+                "en": "Bagno della Regina"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen vom Auto aus oder nutzen Sie eine Regenpause für einen kurzen Gang. Der Weg kann schlammig sein.",
+                "hu": "Tekintse meg a romokat az autóból, vagy használja ki az esőszünetet egy rövid sétára. Az út ilyenkor sáros lehet.",
+                "ro": "Vizualizați ruinele din mașină sau profitați de o pauză de ploaie pentru o scurtă plimbare. Drumul poate fi noroios.",
+                "en": "View the ruins from the car or take advantage of a break in the rain for a short walk. The path can be quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria dei Monti",
+                "hu": "Chiesa di Santa Maria dei Monti",
+                "ro": "Chiesa di Santa Maria dei Monti",
+                "en": "Chiesa di Santa Maria dei Monti"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet tolle Ausblicke auf das regnerische Meer. Parken Sie vorsichtig auf den nassen, abschüssigen Wegen.",
+                "hu": "A felvezető út remek kilátást nyújt az esős tengerre. Parkoljon óvatosan a nedves, lejtős útszakaszokon.",
+                "ro": "Drumul de acces oferă vederi superbe asupra mării ploioase. Parcați cu atenție pe porțiunile de drum umede și în pantă.",
+                "en": "The drive up offers great views of the rainy sea. Park carefully on the wet, sloping sections of the access road."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Grottammare",
+                "hu": "Castello di Grottammare",
+                "ro": "Castello di Grottammare",
+                "en": "Castello di Grottammare"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nahe dem Eingang für einen schnellen Zugang zu den Ruinen. Der Nebel macht den Ort besonders mystisch.",
+                "hu": "Használja a bejárathoz közeli parkolót a romok gyors eléréséhez. A köd különösen misztikussá teszi a helyszínt.",
+                "ro": "Folosiți parcarea de lângă intrare pentru acces rapid la ruine. Ceața face locația să pară deosebit de mistică.",
+                "en": "Use the parking lot near the entrance for quick access to the ruins. The fog makes the site feel particularly mystical."
+              }
+            },
+            {
+              "name": {
+                "de": "MIC – Museo dell'Illustrazione Contemporanea",
+                "hu": "MIC – Kortárs Illusztrációs Múzeum",
+                "ro": "MIC – Muzeul Ilustrației Contemporane",
+                "en": "MIC – Museum of Contemporary Illustration"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss, um den Tag im Trockenen ausklingen zu lassen. Prüfen Sie die Scheibenwischer für die Rückfahrt bei Dunkelheit.",
+                "hu": "Tökéletes befejezés, hogy a napot szárazon zárja le. Ellenőrizze az ablaktörlőket a sötétben való hazavezetés előtt.",
+                "ro": "Finalul perfect pentru a încheia ziua la uscat. Verificați ștergătoarele înainte de drumul de întoarcere pe întuneric.",
+                "en": "The perfect conclusion to finish your day dry. Check your windshield wipers before the return drive in the dark."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Grottammare zeigt die Stadt von ihrer ruhigen Seite. Besuchen Sie die Gran Madre und Madonna della Speranza am Morgen. Mittags ist das Licht am Bagno della Regina besonders klar. Der Nachmittag führt Sie hinauf zur Burg Santa Maria und zum MIC, wo Sie die goldene Stunde und die frühe abendliche Illumination gegen 17:00 Uhr genießen können.",
+            "hu": "Egy téli autós kirándulás Grottammare nyugodt arcát mutatja meg. Látogassa meg délelőtt a Gran Madre és Madonna della Speranza templomokat. Délben a fények a Bagno della Regina környékén különösen tiszták. A délután a vár és a MIC múzeum felé vezet, ahol élvezheti az aranyórát és a korai esti fényeket ötkor.",
+            "ro": "O excursie cu mașina pe timp de iarnă dezvăluie latura liniștită a orașului Grottammare. Vizitați bisericile Gran Madre și Madonna della Speranza dimineața. La prânz, lumina de la Bagno della Regina este foarte clară. După-amiaza vă duce spre castel și muzeul MIC pentru a prinde ora aurie la 17:00.",
+            "en": "A winter drive through Grottammare reveals the town's peaceful side. Visit the Gran Madre and Madonna della Speranza churches in the morning. At noon, the light at Bagno della Regina is particularly clear. The afternoon takes you up to the castle and MIC museum to enjoy the golden hour and early lights at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Gran Madre di Dio",
+                "hu": "Chiesa della Gran Madre di Dio",
+                "ro": "Chiesa della Gran Madre di Dio",
+                "en": "Chiesa della Gran Madre di Dio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den Stopps, um nicht auszukühlen. Die Kirche ist im Winter angenehm leer und ruhig.",
+                "hu": "Használja az autó fűtését a megállók között, hogy ne fázzon meg. A templom télen kellemesen üres és csendes.",
+                "ro": "Folosiți încălzirea mașinii între opriri pentru a nu răci. Biserica este plăcut de goală și liniștită în timpul iernii.",
+                "en": "Use the car heater between stops to stay warm. The church is pleasantly empty and quiet during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna della Speranza",
+                "hu": "Chiesa della Madonna della Speranza",
+                "ro": "Chiesa della Madonna della Speranza",
+                "en": "Chiesa della Madonna della Speranza"
+              },
+              "tip_5lang": {
+                "de": "Die klare Wintersonne fällt morgens besonders schön durch die Fenster. Ein kurzer Halt reicht, um die Atmosphäre zu genießen.",
+                "hu": "A tiszta téli napsütés reggelente különösen szépen hatol be az ablakokon. Egy rövid megálló is elég a hangulat átéléséhez.",
+                "ro": "Soarele curat de iarnă pătrunde superb prin ferestre dimineața. O oprire scurtă este suficientă pentru a savura atmosfera.",
+                "en": "The clear winter sun shines beautifully through the windows in the morning. A short stop is enough to soak in the atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno della Regina",
+                "hu": "Bagno della Regina",
+                "ro": "Bagno della Regina",
+                "en": "Bagno della Regina"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf die winterliche Adria. Halten Sie eine warme Jacke für den kurzen Fotostopp bereit.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a téli Adriára. Legyen kéznél egy meleg kabát a rövid fotózási szünethez.",
+                "ro": "Din parcare aveți o vedere excelentă asupra Adriaticii în timpul iernii. Aveți pregătită o jachetă groasă pentru scurta oprire foto.",
+                "en": "The parking area offers a great view of the winter Adriatic. Have a warm jacket ready for a quick photo session outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria dei Monti",
+                "hu": "Chiesa di Santa Maria dei Monti",
+                "ro": "Chiesa di Santa Maria dei Monti",
+                "en": "Chiesa di Santa Maria dei Monti"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet im Winter eine bessere Fernsicht, da die Luft klarer ist. Parken Sie auf den befestigten Flächen.",
+                "hu": "A felvezető útról télen jobb a távoli kilátás, mivel tisztább a levegő. Parkoljon a kijelölt, szilárd burkolatú felületeken.",
+                "ro": "Drumul de acces oferă o vizibilitate mai bună la distanță iarna, aerul fiind mai curat. Parcați pe suprafețele pavate.",
+                "en": "The drive up offers better distant views in winter as the air is clearer. Park on the designated paved areas only."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Grottammare",
+                "hu": "Castello di Grottammare",
+                "ro": "Castello di Grottammare",
+                "en": "Castello di Grottammare"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine ist in der frühen Abenddämmerung ein Highlight. Planen Sie die Ankunft so, dass Sie das Restlicht noch nutzen können.",
+                "hu": "A várrom a korai alkonyatban a túra fénypontja. Tervezze úgy az érkezést, hogy még kiélvezhesse a nap utolsó sugarait.",
+                "ro": "Ruinele castelului sunt punctul culminant la apus. Planificați sosirea astfel încât să mai profitați de ultima lumină a zilei.",
+                "en": "The castle ruins are a highlight during the early twilight. Plan your arrival to make the most of the last remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "MIC – Museo dell'Illustrazione Contemporanea",
+                "hu": "MIC – Kortárs Illusztrációs Múzeum",
+                "ro": "MIC – Muzeul Ilustrației Contemporane",
+                "en": "MIC – Museum of Contemporary Illustration"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im angenehm temperierten Museum. Achten Sie auf eventuellen Frost auf der Windschutzscheibe nach dem Besuch.",
+                "hu": "Zárja a napot a kellemes hőmérsékletű múzeumban. Látogatás után ellenőrizze az esetleges fagyot a szélvédőn.",
+                "ro": "Încheiați ziua în muzeul cu temperatură plăcută. După vizită, verificați parbrizul pentru eventualul îngheț depus.",
+                "en": "Finish your day in the pleasantly warm museum. After your visit, check your windshield for any potential frost buildup."
+              }
+            }
+          ]
+        }
       }
     }
   }

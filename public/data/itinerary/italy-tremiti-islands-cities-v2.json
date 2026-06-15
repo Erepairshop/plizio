@@ -183,6 +183,224 @@
         "hu": "A nap a Tremiti-szigetek történelmi szívében kezdődik, magába szívva az adminisztratív központ báját. Hamarosan leereszkedik a part felé, hogy élvezze a Cala Spido nyugodt reggeli vizeit.\n\nAhogy a nap egyre magasabbra hág, a túra a lenyűgöző keleti öblök mentén folytatódik. Megpihen a Cala Matano híres parti menedékénél, mielőtt elérné a szeles Cala Tramontana partjait.\n\nA délután a zord nyugati öblök felé tett sétával telik. A történelemmel átitatott Cala degli Inglesi tökéletes pihenőhely, ahol a kristálytiszta Adriai-tenger hűsítő csobbanásra csábít.\n\nAz utazás az északi csúcsok mentén a varázslatos aranyóra látványával zárul. A Punta del Vapore és a Punta del Vuccolo drámai díszletet biztosít, ahogy a nap lemegy a végtelen horizonton.",
         "ro": "Ziua începe în inima istorică a Insulelor Tremiti. Bucurați-vă de atmosfera centrului administrativ pitoresc, înainte de a coborî spre coastă pentru a admira apele liniștite de dimineață la Cala Spido.\n\nPe măsură ce soarele urcă, drumeția continuă de-a lungul golfurilor uluitoare. Vă veți opri la Cala Matano, un refugiu celebru de coastă, înainte de a ajunge pe țărmurile brizei de la Cala Tramontana.\n\nDupă-amiaza se desfășoară cu o plimbare spre golfurile stâncoase din vest. Cala degli Inglesi oferă un loc de odihnă perfect, plin de istorie, unde Marea Adriatică cristalină vă invită la o baie răcoroasă.\n\nCălătoria se încheie cu priveliști magice la ora de aur, de-a lungul vârfurilor nordice. Punta del Vapore și Punta del Vuccolo oferă un peisaj dramatic suprem pe măsură ce soarele apune la orizont.",
         "en": "Your day begins in the historic heart of the Tremiti Islands, soaking in the quaint administrative center. Soon, you will descend towards the coast to embrace the calm morning waters of Cala Spido.\n\nAs the sun climbs higher, the trek continues along the stunning eastern coves. You will pause at Cala Matano, a famous coastal retreat, before reaching the breezy shores of Cala Tramontana.\n\nThe afternoon unfolds with a walk toward the rugged western coves. Cala degli Inglesi offers a perfect resting spot, steeped in history, where the crystal-clear Adriatic invites you for a cooling dip.\n\nThe journey concludes with magical golden hour views along the northern tips. Punta del Vapore and Punta del Vuccolo provide the ultimate dramatic scenery as the sun sets over the endless horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt am Rathaus, wo wir die Route planen. Mittags zeigen sich die Buchten Cala Spido und Matano in dramatischem Grau; die Kalkfelsen sind bei Nässe sehr rutschig, tragen Sie feste Schuhe. Nachmittags wandern wir an der Küste entlang, während die Gischt an die Klippen peitscht. Den Abend lassen wir im Dorf ausklingen, weit weg von den windigen Aussichtspunkten.",
+            "hu": "A reggelt a városháza környékén, fedett helyen kezdjük az útvonal tervezésével. Délben a Cala Spido és Matano öblök drámai szürkeségben tündökölnek; a mészkő sziklák esőben nagyon csúszósak, válasszunk tapadós talpú cipőt. Délután a part mentén haladunk, miközben a tengeri permet az arcunkba csap. Az estét a faluban zárjuk, távol a szeles és kitett kilátópontoktól.",
+            "ro": "Dimineața începe la primărie, un loc adăpostit unde putem planifica traseul. La prânz, golfurile Cala Spido și Matano oferă un peisaj dramatic; stâncile de calcar sunt foarte alunecoase pe ploaie, purtați încălțăminte adecvată. După-amiaza continuăm de-a lungul coastei, admirând valurile care se sparg de mal. Seara ne retragem în sat, departe de punctele de observație expuse vântului.",
+            "en": "Morning starts sheltered near the town hall while we plan our route. At noon, Cala Spido and Matano show a dramatic grey side; the limestone rocks are very slippery when wet, so wear high-grip shoes. In the afternoon, we walk along the coast as the sea spray hits the cliffs. We finish the evening in the village, staying away from the exposed and windy viewpoints."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune Isole Tremiti",
+                "hu": "Comune Isole Tremiti",
+                "ro": "Comune Isole Tremiti",
+                "en": "Comune Isole Tremiti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume und überdachten Arkaden des Rathauses, um die Geschichte der Inseln trocken zu erkunden und die Regenpause für die Routenplanung abzuwarten.",
+                "hu": "Használja ki a városháza belső tereit és fedett árkádjait, hogy szárazon ismerje meg a szigetek történelmét, miközben megvárja az eső elálltát a tervezéshez.",
+                "ro": "Profitați de spațiile interioare și de arcadele primăriei pentru a explora istoria insulelor la adăpost și pentru a planifica traseul în timp ce așteptați oprirea ploii.",
+                "en": "Utilize the interior spaces and sheltered arcades of the town hall to explore the islands' history while staying dry and waiting for a gap in the rain to plan."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Spido",
+                "hu": "Cala Spido",
+                "ro": "Cala Spido",
+                "en": "Cala Spido"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen mystisch, aber bleiben Sie auf den befestigten Pfaden, da die steilen Felszugänge bei Nässe lebensgefährlich glatt werden können.",
+                "hu": "Az öböl esőben misztikus látványt nyújt, de maradjon a kijelölt ösvényeken, mert a meredek sziklák vizesen életveszélyesen csúszóssá válhatnak a parton.",
+                "ro": "Golful arată mistic pe ploaie, dar rămâneți pe potecile principale, deoarece accesul pe stâncile abrupte devine extrem de periculos și alunecos când este ud.",
+                "en": "The bay looks mystical in the rain, but stick to the main paths as the steep rocky access points become dangerously slippery and unstable when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "cala Matano",
+                "hu": "cala Matano",
+                "ro": "cala Matano",
+                "en": "cala Matano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die türkisfarbenen Nuancen des Meeres von einem erhöhten Aussichtspunkt aus, um nicht auf den nassen Kieselsteinen am Ufer auszurutschen.",
+                "hu": "Csodálja meg a tenger türkizkék árnyalatait egy magasabb kilátópontról, hogy elkerülje az elcsúszást a parton lévő nedves és mozgó kavicsokon.",
+                "ro": "Admirați nuanțele turcoaz ale mării de la un punct de observație mai înalt pentru a evita alunecarea pe pietrele umede și instabile de pe malul apei.",
+                "en": "Admire the turquoise nuances of the sea from a higher vantage point to avoid slipping on the wet and shifting pebbles down by the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Tramontana",
+                "hu": "Cala Tramontana",
+                "ro": "Cala Tramontana",
+                "en": "Cala Tramontana"
+              },
+              "tip_5lang": {
+                "de": "Diese Nordbucht ist bei Regen sehr windig; tragen Sie eine hochwertige Regenjacke, um den Anblick der tobenden Adria ohne Auskühlung genießen zu können.",
+                "hu": "Ez az északi öböl esőben nagyon szeles; viseljen minőségi esőkabátot, hogy a lehűlés veszélye nélkül élvezhesse a háborgó Adria látványát a parton.",
+                "ro": "Acest golf nordic este foarte vântos pe ploaie; purtați o jachetă impermeabilă de calitate pentru a savura spectacolul mării fără riscul de a răci.",
+                "en": "This northern bay is very windy during rain; wear a high-quality raincoat to enjoy the sight of the churning Adriatic without the risk of getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala degli Inglesi",
+                "hu": "Cala degli Inglesi",
+                "ro": "Cala degli Inglesi",
+                "en": "Cala degli Inglesi"
+              },
+              "tip_5lang": {
+                "de": "Der Pinienwald oberhalb der Bucht bietet natürlichen Schutz vor leichtem Nieselregen, während Sie die Aussicht auf die felsige Küste genießen.",
+                "hu": "Az öböl feletti fenyőerdő természetes menedéket nyújt a szemerkélő eső elől, miközben a sziklás partvonal vadregényes látványában gyönyörködik.",
+                "ro": "Pădurea de pini de deasupra golfului oferă un adăpost natural împotriva ploii ușoare, în timp ce admirați vederea sălbatică asupra coastei stâncoase.",
+                "en": "The pine forest above the bay offers natural shelter from light drizzle while you enjoy the rugged and atmospheric views of the rocky coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Vapore",
+                "hu": "Punta del Vapore",
+                "ro": "Punta del Vapore",
+                "en": "Punta del Vapore"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie respektvollen Abstand zur Kante, da starke Windböen und nasser Untergrund hier ein Sicherheitsrisiko darstellen können; Fernglas einpacken.",
+                "hu": "Tartson tiszteletreméltó távolságot a szikla szélétől, mert az erős széllökések és a nedves talaj itt biztonsági kockázatot jelenthetnek; vigyen távcsövet.",
+                "ro": "Păstrați o distanță respectuoasă de marginea stâncii, deoarece rafalele puternice de vânt și solul umed pot reprezenta un risc de siguranță aici.",
+                "en": "Keep a respectful distance from the cliff edge, as strong wind gusts and wet ground can pose a safety risk here; bring binoculars for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Vuccolo",
+                "hu": "Punta del Vuccolo",
+                "ro": "Punta del Vuccolo",
+                "en": "Punta del Vuccolo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen auf das offene Meer trifft; danach schnell zurück ins Dorf, da die Sicht bei Dämmerung und Regen stark abnimmt.",
+                "hu": "Figyelje meg, ahogy az esőcseppek találkoznak a nyílt tengerrel; utána siessen vissza a faluba, mert a látási viszonyok szürkületben és esőben sokat romlanak.",
+                "ro": "Observați cum ploaia se întâlnește cu marea deschisă, apoi întoarceți-vă repede în sat, deoarece vizibilitatea scade brusc la amurg pe timp de ploaie.",
+                "en": "Watch how the raindrops hit the open sea; afterwards, head back to the village quickly as visibility drops significantly in twilight and rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen auf San Domino verspricht weite Sicht. Mittags wärmt die tiefstehende Sonne die Felsen der Buchten, doch der Wind bleibt kühl. Nachmittags färbt sich der Himmel schon gegen 16:30 Uhr golden, was die Kalkküste magisch leuchten lässt. Abends sinken die Temperaturen schnell, sobald die Sonne um 17:00 Uhr untergeht, also suchen wir rechtzeitig Wärme im Ortskern.",
+            "hu": "A tiszta téli reggel San Dominón lenyűgöző látótávolságot ígér a tengeren. Délben az alacsonyan járó nap melegíti az öblök szikláit, de a szél hűvös marad. Délután az ég már fél öt körül aranyba hajlik, amitől a mészkőpart varázslatosan felragyog. Este a hőmérséklet gyorsan süllyed a 17 órai naplemente után, így időben keressünk meleg menedéket a faluban.",
+            "ro": "O dimineață senină de iarnă pe San Domino promite o vizibilitate spectaculoasă peste mare. La prânz, soarele blând încălzește stâncile, dar vântul rămâne rece. După-amiaza, cerul devine auriu încă de la ora 16:30, făcând coasta de calcar să strălucească magic. Seara, temperaturile scad rapid după apusul de la ora 17:00, așa că ne retragem din timp în sat.",
+            "en": "A clear winter morning on San Domino promises stunning visibility across the sea. At noon, the low sun warms the rocks of the bays, but the wind remains chilly. By afternoon, the sky turns golden around 4:30 PM, making the limestone coast glow magically. In the evening, temperatures drop fast after the 5:00 PM sunset, so find warmth in the village center early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune Isole Tremiti",
+                "hu": "Comune Isole Tremiti",
+                "ro": "Comune Isole Tremiti",
+                "en": "Comune Isole Tremiti"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison und unterhalten Sie sich mit den Einheimischen, die im Winter Zeit für Geschichten über das Inselleben haben.",
+                "hu": "Élvezze az utószezon nyugalmát, és beszélgessen a helyiekkel, akiknek télen több idejük van történeteket mesélni a szigeti élet mindennapjairól.",
+                "ro": "Bucurați-vă de liniștea extrasezonului și discutați cu localnicii, care iarna au mai mult timp pentru povești despre viața autentică de pe insulă.",
+                "en": "Enjoy the peacefulness of the off-season and chat with the locals, who have more time in winter to share stories about daily life on the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Spido",
+                "hu": "Cala Spido",
+                "ro": "Cala Spido",
+                "en": "Cala Spido"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht perfekt für Fotos der klaren Bucht; tragen Sie eine winddichte Schicht, da die Böen hier direkt vom offenen Meer kommen.",
+                "hu": "A téli nap beesési szöge tökéletes a tiszta öböl fotózásához; viseljen szélálló réteget, mert a széllökések itt közvetlenül a nyílt tengerről érkeznek.",
+                "ro": "Soarele de iarnă este perfect pentru fotografii în acest golf clar; purtați un strat rezistent la vânt, deoarece rafalele vin direct dinspre mare.",
+                "en": "The winter sun is perfectly angled for photos of the clear bay; wear a windproof layer as the gusts here come directly from the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "cala Matano",
+                "hu": "cala Matano",
+                "ro": "cala Matano",
+                "en": "cala Matano"
+              },
+              "tip_5lang": {
+                "de": "Ein windstiller Platz im Winter, ideal für ein Picknick mit Thermoskanne; das Wasser ist zu kalt zum Baden, aber die Farbe ist intensiver als im Sommer.",
+                "hu": "Szélvédett hely télen, ideális egy termoszos piknikhez; a víz túl hideg a fürdéshez, de a színe ilyenkor sokkal intenzívebb, mint a nyári hőségben.",
+                "ro": "Un loc ferit de vânt iarna, ideal pentru un picnic cu termosul; apa este prea rece pentru înot, dar culoarea este mai intensă decât în timpul verii.",
+                "en": "A sheltered spot in winter, ideal for a picnic with a thermos; the water is too cold for swimming, but the color is more intense than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Tramontana",
+                "hu": "Cala Tramontana",
+                "ro": "Cala Tramontana",
+                "en": "Cala Tramontana"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die raue Wintersee im Norden der Insel; die Luft ist so klar, dass man oft die kroatische Küste am Horizont erahnen kann.",
+                "hu": "Figyelje meg a zord téli tengert a sziget északi részén; a levegő ilyenkor olyan tiszta, hogy gyakran látni a horvát partokat a horizonton.",
+                "ro": "Observați marea aspră de iarnă în nordul insulei; aerul este atât de clar încât adesea se pot zări coastele Croației la orizont.",
+                "en": "Observe the rugged winter sea on the north of the island; the air is so clear that you can often spot the Croatian coast on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala degli Inglesi",
+                "hu": "Cala degli Inglesi",
+                "ro": "Cala degli Inglesi",
+                "en": "Cala degli Inglesi"
+              },
+              "tip_5lang": {
+                "de": "Die Pinien duften im Winter bei feuchter Luft besonders intensiv; nutzen Sie die Einsamkeit für eine meditative Pause am menschenleeren Strand.",
+                "hu": "A fenyők illata télen, a párás levegőben különösen intenzív; használja ki a magányt egy meditatív pihenőre a teljesen néptelen tengerparton.",
+                "ro": "Mirosul pinilor este deosebit de intens în aerul umed de iarnă; profitați de singurătate pentru o pauză meditativă pe plaja pustie.",
+                "en": "The scent of pines is especially intense in the damp winter air; take advantage of the solitude for a meditative break on the deserted beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Vapore",
+                "hu": "Punta del Vapore",
+                "ro": "Punta del Vapore",
+                "en": "Punta del Vapore"
+              },
+              "tip_5lang": {
+                "de": "Blicken Sie auf das weite, einsame Meer; nehmen Sie eine Mütze mit, da der Wind an diesem exponierten Punkt im Winter sehr schneidend sein kann.",
+                "hu": "Tekintsen ki a végtelen, magányos tengerre; vigyen sapkát, mert a szél ezen a kitett ponton télen nagyon metsző és hideg tud lenni.",
+                "ro": "Priviți marea vastă și solitară; luați o căciulă, deoarece vântul în acest punct expus poate fi extrem de tăios și rece în timpul iernii.",
+                "en": "Gaze out at the vast, lonely sea; bring a warm hat as the wind at this exposed point can be very biting and cold during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Vuccolo",
+                "hu": "Punta del Vuccolo",
+                "ro": "Punta del Vuccolo",
+                "en": "Punta del Vuccolo"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort für den frühen Sonnenuntergang um 17:00 Uhr; die Farben sind im Winter kräftiger, aber machen Sie sich direkt danach auf den Rückweg.",
+                "hu": "A legjobb hely a korai, 17 órai naplemente megtekintéséhez; a színek télen sokkal élénkebbek, de a naplemente után azonnal induljon vissza.",
+                "ro": "Cel mai bun loc pentru a vedea apusul timpuriu de la ora 17:00; culorile sunt mai vii iarna, dar porniți înapoi imediat ce soarele a dispărut.",
+                "en": "The best spot for the early 5:00 PM sunset; the colors are more vibrant in winter, but head back immediately after the sun disappears."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje kerékpáros kalandját a sziget hangulatos fő településén, mielőtt a legészakibb peremre, a Punta del Diamante-hoz tekerne, ahol a tenger hullámai fenséges szikláknak csapódnak.\n\nAz útvonal zökkenőmentesen halad a part mentén, elvezetve a Cala Tramontana frissítő szellőjéhez. Innen a lenyűgöző Fecske-barlang (Grotta delle Rondinelle) felé folytatja útját.\n\nAz utazás egy látványos ereszkedéssel folytatódik a L'Architiello felé. Ez a lenyűgöző természetes mészkőív lélegzetelállító délutáni fotómegállót kínál a türkizkék tenger közepén.\n\nA festői utazás a Faro di San Domino világítótoronynál ér véget. A történelmi épületnél a békés csendben, a gyönyörű mediterrán naplementét figyelve emlékezhet vissza a szigeti kalandokra.",
         "ro": "Începeți-vă aventura cu bicicleta în așezarea principală fermecătoare a insulei, înainte de a pedala spre marginea extremă nordică la Punta del Diamante, unde valurile se izbesc de stâncile maiestuoase.\n\nTraseul continuă ușor de-a lungul coastei, conducându-vă către briza răcoroasă a Cala Tramontana. De acolo, veți pedala spre fascinanta peșteră marină Grotta delle Rondinelle.\n\nPlimbarea continuă cu o coborâre spectaculoasă la L'Architiello. Acest incredibil arc natural de calcar constituie un popas fotografic uluitor de după-amiază, în mijlocul mării turcoaz imaculate.\n\nCălătoria pitorească se termină la Faro di San Domino. La farul istoric, puteți reflecta la explorarea insulei din acea zi în timp ce urmăriți un apus mediteranean uluitor în liniște absolută.",
         "en": "Kickstart your cycling adventure in the island's charming main settlement before pedaling to the extreme northern edge at Punta del Diamante, where untamed waves crash against majestic cliffs.\n\nThe route smoothly transitions along the coastline, leading you to the refreshing breeze of Cala Tramontana. From there, you will cycle towards the fascinating Grotta delle Rondinelle.\n\nThe ride continues with a spectacular descent to L'Architiello. This incredible natural arch of limestone makes for a breathtaking afternoon photo stop amidst the pristine turquoise sea.\n\nYour scenic ride finishes at the Faro di San Domino. At the historic lighthouse, you can reflect on the day's island exploration while watching the stunning Mediterranean sunset in absolute peace."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenschutz ist beim Radfahren heute Pflicht, da die Wege rutschig sind. Morgens erkunden wir den Ort, mittags radeln wir vorsichtig zum Diamanten-Punkt, wo der Regen das Meer peitscht. Nachmittags bieten die Pinienwälder etwas Schutz auf dem Weg zum Leuchtturm. Der Abend endet früh, um das Equipment zu trocknen und sich bei einem warmen Getränk aufzuwärmen.",
+            "hu": "Ma kötelező az esővédelem a biciklizéshez, mivel az utak csúszósak. Reggel a falut járjuk be, délben óvatosan tekerünk a Gyémánt-fokhoz a viharos tenger mellett. Délután a fenyőerdők nyújtanak némi védelmet a világítótorony felé vezető úton. Az este korán véget ér, hogy megszárítsuk a felszerelést és felmelegedjünk egy forró itallal.",
+            "ro": "Echipamentul de ploaie este obligatoriu astăzi pentru ciclism, deoarece drumurile sunt alunecoase. Dimineața explorăm satul, iar la prânz pedalăm cu grijă spre Punta del Diamante. După-amiaza, pădurile de pini oferă protecție pe drumul spre far. Seara se încheie devreme pentru a usca echipamentul și a ne încălzi cu o băutură caldă.",
+            "en": "Rain gear is mandatory for cycling today as the paths are slippery. In the morning we explore the village, at noon we cycle carefully to Diamond Point by the stormy sea. In the afternoon, the pine forests offer some shelter on the way to the lighthouse. The evening ends early to dry the equipment and warm up with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune Isole Tremiti",
+                "hu": "Comune Isole Tremiti",
+                "ro": "Comune Isole Tremiti",
+                "en": "Comune Isole Tremiti"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt Ihre Bremsen gründlich, da die nassen Gefälle im Ort erhöhte Aufmerksamkeit und funktionstüchtiges Material erfordern.",
+                "hu": "Indulás előtt alaposan ellenőrizze a fékeket, mert a faluban lévő nedves lejtők fokozott figyelmet és kifogástalan műszaki állapotot igényelnek.",
+                "ro": "Verificați frânele cu atenție înainte de plecare, deoarece pantele umede din sat necesită atenție sporită și echipament funcțional.",
+                "en": "Check your brakes thoroughly before leaving, as the wet slopes in the village require extra caution and perfectly functioning equipment."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Diamante",
+                "hu": "Punta del Diamante",
+                "ro": "Punta del Diamante",
+                "en": "Punta del Diamante"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann schlammig sein; reduzieren Sie die Geschwindigkeit in den Kurven, um auf dem nassen Untergrund nicht die Bodenhaftung zu verlieren.",
+                "hu": "Az idevezető út sáros lehet; csökkentse a sebességet a kanyarokban, hogy a nedves talajon ne veszítse el a tapadást a kerekek alatt.",
+                "ro": "Drumul până aici poate fi noroios; reduceți viteza în curbe pentru a nu pierde aderența pe suprafața umedă și alunecoasă.",
+                "en": "The path here can be muddy; reduce your speed in the corners to avoid losing traction on the wet and unstable ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Tramontana",
+                "hu": "Cala Tramontana",
+                "ro": "Cala Tramontana",
+                "en": "Cala Tramontana"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab, bevor Sie zum Aussichtspunkt gehen; der Wind kann hier oben stark genug sein, um ein Fahrrad umzustoßen.",
+                "hu": "Biztonságosan támassza le a biciklit, mielőtt a kilátóhoz megy; a szél itt elég erős lehet ahhoz, hogy felborítsa a kerékpárt a nyílt terepen.",
+                "ro": "Parcați bicicleta într-un loc sigur înainte de a merge la punctul de observație; vântul poate fi suficient de puternic pentru a o răsturna.",
+                "en": "Park your bike securely before walking to the viewpoint; the wind here can be strong enough to blow over a bicycle on the open terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta delle Rondinelle",
+                "hu": "Grotta delle Rondinelle",
+                "ro": "Grotta delle Rondinelle",
+                "en": "Grotta delle Rondinelle"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen bei der Grotte sind bei Regen extrem glatt; bewundern Sie das Naturschauspiel lieber aus ein paar Metern Entfernung vom Radweg aus.",
+                "hu": "A barlang körüli sziklák esőben rendkívül csúszósak; csodálja a természeti jelenséget inkább pár méter távolságból, a bicikliút biztonságából.",
+                "ro": "Stâncile din jurul grotei sunt extrem de alunecoase pe ploaie; admirați fenomenul de la distanță, din siguranța pistei de biciclete.",
+                "en": "The rocks around the cave are extremely slippery in the rain; admire the natural phenomenon from a distance for safety while on your bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Architiello",
+                "hu": "L'Architiello",
+                "ro": "L'Architiello",
+                "en": "L'Architiello"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto im Regen; die Steinformation wirkt bei grauem Himmel besonders plastisch. Achten Sie auf festen Stand beim Absteigen.",
+                "hu": "Egy rövid megálló fotózáshoz az esőben; a sziklaív szürke ég alatt különösen plasztikusnak tűnik. Ügyeljen a stabil állásra a leszállásnál.",
+                "ro": "O scurtă oprire pentru fotografii pe ploaie; arcul de piatră pare foarte plastic sub cerul gri. Atenție la stabilitate când coborâți de pe bicicletă.",
+                "en": "A short stop for a photo in the rain; the rock arch looks particularly striking under a grey sky. Ensure stable footing when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di San Domino",
+                "hu": "Faro di San Domino",
+                "ro": "Faro di San Domino",
+                "en": "Faro di San Domino"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm ist ein guter Orientierungspunkt bei schlechter Sicht; treten Sie den Rückweg an, bevor die Dunkelheit die Orientierung erschwert.",
+                "hu": "A világítótorony jó tájékozódási pont rossz látási viszonyok között; induljon vissza, mielőtt a sötétség és az eső megnehezítené az utat.",
+                "ro": "Farul este un punct de reper excelent în condiții de vizibilitate redusă; porniți înapoi înainte ca întunericul să îngreuneze orientarea.",
+                "en": "The lighthouse is a great landmark during poor visibility; start your return journey before darkness and rain make navigation difficult."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren auf der Insel erfordert warme Handschuhe gegen den Fahrtwind. Morgens ist die Luft kristallklar, perfekt für den Ausblick am Diamanten-Punkt. Mittags radeln wir durch die ruhigen Pinienwälder, wo es etwas windstiller ist. Nachmittags erreichen wir den Leuchtturm pünktlich zum frühen Sonnenuntergang. Abends kehren wir zügig zurück, da die Kälte nach Sonnenuntergang spürbar anzieht.",
+            "hu": "A téli biciklizéshez meleg kesztyű szükséges a menetszél ellen. Reggel a levegő kristálytiszta, ami tökéletes kilátást biztosít a Gyémánt-foknál. Délben a csendes fenyőerdőkön tekerünk át, ahol kevésbé fúj a szél. Délután a világítótoronyhoz érünk a korai naplementére. Este gyorsan visszafordulunk, mert a naplemente után a hideg hirtelen és erősen támad.",
+            "ro": "Ciclismul de iarnă necesită mănuși groase împotriva vântului rece. Dimineața, aerul este de cristal, perfect pentru panorama de la Punta del Diamante. La prânz, pedalăm prin pădurile liniștite de pini. După-amiaza, ajungem la far exact pentru apusul timpuriu. Seara ne întoarcem rapid, deoarece frigul devine tăios imediat ce soarele apune.",
+            "en": "Winter cycling requires warm gloves against the biting wind. In the morning the air is crystal clear, perfect for the views at Diamond Point. At noon we cycle through the quiet pine forests where it's less windy. In the afternoon we reach the lighthouse for the early sunset. In the evening we return quickly as the cold sets in sharply after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune Isole Tremiti",
+                "hu": "Comune Isole Tremiti",
+                "ro": "Comune Isole Tremiti",
+                "en": "Comune Isole Tremiti"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie erst, wenn der Bodenfrost getaut ist; die schattigen Gassen im Ort können morgens im Winter überraschend glatt sein.",
+                "hu": "Csak akkor induljon, ha a talajmenti fagy már felengedett; a falu árnyékos utcái téli reggeleken váratlanul csúszósak lehetnek.",
+                "ro": "Porniți la drum doar după ce înghețul de la sol s-a topit; străzile umbrite din sat pot fi surprinzător de alunecoase în diminețile de iarnă.",
+                "en": "Start only after the ground frost has thawed; the shaded alleys in the village can be unexpectedly slippery on winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Diamante",
+                "hu": "Punta del Diamante",
+                "ro": "Punta del Diamante",
+                "en": "Punta del Diamante"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick bis zum Festland, der im Winter durch die geringe Luftfeuchtigkeit oft viel klarer ist als im Sommerdunst.",
+                "hu": "Élvezze a kilátást egészen a szárazföldig, amely télen az alacsony páratartalom miatt gyakran sokkal tisztább, mint a nyári párában.",
+                "ro": "Bucurați-vă de panorama până la continent, care iarna este mult mai clară datorită umidității scăzute a aerului față de cea din timpul verii.",
+                "en": "Enjoy the panoramic view all the way to the mainland, which is often much clearer in winter due to low humidity than in the summer haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Tramontana",
+                "hu": "Cala Tramontana",
+                "ro": "Cala Tramontana",
+                "en": "Cala Tramontana"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz für eine kurze Pause; die Wintersonne ist hier oben angenehm, solange man in Bewegung bleibt.",
+                "hu": "Keressen egy napos helyet egy rövid pihenőhöz; a téli napsütés itt fent kellemes, amíg az ember mozgásban marad és megfelelően van felöltözve.",
+                "ro": "Căutați un loc însorit pentru o scurtă pauză; soarele de iarnă este plăcut aici, atâta timp cât rămâneți în mișcare și sunteți bine îmbrăcat.",
+                "en": "Find a sunny spot for a short break; the winter sun is pleasant up here as long as you stay moving and are dressed appropriately."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta delle Rondinelle",
+                "hu": "Grotta delle Rondinelle",
+                "ro": "Grotta delle Rondinelle",
+                "en": "Grotta delle Rondinelle"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier absolut ruhig; nutzen Sie die Stille für ein paar Fotos ohne Touristenmassen, bevor der kalte Wind Sie weitertreibt.",
+                "hu": "Télen itt abszolút csend honol; használja ki a nyugalmat néhány turista nélküli fotóhoz, mielőtt a hideg szél továbbűzné az útján.",
+                "ro": "Iarna este o liniște absolută aici; profitați de calm pentru câteva fotografii fără turiști, înainte ca vântul rece să vă îndemne la drum.",
+                "en": "It is absolutely quiet here in winter; take advantage of the peace for some tourist-free photos before the cold wind pushes you along."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Architiello",
+                "hu": "L'Architiello",
+                "ro": "L'Architiello",
+                "en": "L'Architiello"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag betont die Textur des Gesteins; ideal für Detailaufnahmen der Erosion. Trinken Sie einen warmen Tee aus der Thermoskanne.",
+                "hu": "A délutáni fény kiemeli a kőzet textúráját; ideális az erózió részleteinek fotózásához. Igyon egy meleg teát a termoszából a pihenő alatt.",
+                "ro": "Lumina de după-amiază scoate în evidență textura rocii; ideal pentru fotografii detaliate ale eroziunii. Beți un ceai cald din termos.",
+                "en": "The afternoon light emphasizes the rock's texture; ideal for detail shots of erosion. Have some warm tea from your thermos during the break."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di San Domino",
+                "hu": "Faro di San Domino",
+                "ro": "Faro di San Domino",
+                "en": "Faro di San Domino"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Endpunkt der Tour; schauen Sie zu, wie das Leuchtfeuer bei Dämmerung aktiviert wird, und radeln Sie dann zügig zum Ort zurück.",
+                "hu": "A túra tökéletes végpontja; nézze meg, ahogy szürkületkor bekapcsolják a jelzőfényt, majd tekerjen vissza tempósan a faluba a sötétedés előtt.",
+                "ro": "Punctul final perfect al turului; priviți cum se aprinde farul la amurg, apoi pedalați rapid înapoi spre sat înainte de lăsarea serii.",
+                "en": "The perfect endpoint for the tour; watch the lighthouse signal turn on at dusk, then cycle briskly back to the village before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kezdje autós útját a központi csomópontban, mielőtt dél felé venné az irányt. Az első természeti csoda az útvonalán a Grotta del Sale, egy lenyűgöző tengerparti barlang a kora reggeli fényben.\n\nA festői útvonal a legdélibb peremre, a Punta di Zio Cesare-hoz viszi a teljes nyugalomért. Ezután egy rövid autózás az ikonikus világítótoronyhoz, a Faro di San Domino-hoz vezet.\n\nAhogy beköszönt a délután, járműve kissé a szárazföld belsejébe, a csendes Colle dell'Eremita hegyre viszi. Egy árnyékos pihenő után a part menti utazás a látványos Grotta delle Rondinelle-nél folytatódik.\n\nAz expedíció a sziget északnyugati partja közelében ér véget. A Punta del Vuccolo-hoz érve hatalmas panorámás naplementével lesz megjutalmazva, ami megkoronázza a felejthetetlen kalandot.",
         "ro": "Începeți plimbarea de la punctul central al insulei, înainte de a naviga spre sud. Prima minune naturală de pe traseul dvs. este Grotta del Sale, o peșteră de coastă fascinantă în lumina dimineții.\n\nTraseul pitoresc vă aduce la marginea sudică extremă la Punta di Zio Cesare pentru liniște absolută. Ulterior, o scurtă călătorie duce la farul iconic, Faro di San Domino.\n\nDupă-amiaza, vehiculul vă duce ușor spre interior, la liniștitul Colle dell'Eremita. După o odihnă la umbră, plimbarea pe coastă se reia la spectaculoasa Grotta delle Rondinelle.\n\nExpediția se încheie lângă coasta pitorească de nord-vest a insulei. Ajungând la Punta del Vuccolo, veți fi răsplătiți cu un apus panoramic vast, încheind o aventură de neuitat în Tremiti.",
         "en": "Begin your island drive at the central hub before navigating southwards. The first natural wonder on your route is Grotta del Sale, a fascinating coastal cave framed by the early morning light.\n\nThe scenic route brings you to the southernmost edge at Punta di Zio Cesare for absolute tranquility. Afterward, a short drive leads to the iconic lighthouse, Faro di San Domino.\n\nAs the afternoon sets in, your vehicle takes you slightly inland to the tranquil Colle dell'Eremita. Following a shaded rest, the coastal drive resumes at the spectacular Grotta delle Rondinelle.\n\nThe expedition wraps up near the island's scenic northwestern coast. Reaching Punta del Vuccolo, you will be rewarded with a sweeping panoramic sunset, capping off an unforgettable Tremiti adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto bietet heute den besten Schutz vor den Regenschauern. Morgens starten wir im Ort, mittags fahren wir zu den Grotten und Aussichtspunkten, während der Regen gegen die Scheiben trommelt. Nachmittags besuchen wir den Leuchtturm und den Eremitenhügel, wobei wir nur für kurze Fotostopps aussteigen. Der Abend endet gemütlich, ohne dass wir nass geworden sind.",
+            "hu": "Az autó nyújtja ma a legjobb védelmet a záporok elől. Reggel a faluból indulunk, délben a barlangokhoz és kilátópontokhoz hajtunk, miközben az eső a szélvédőn kopog. Délután a világítótornyot és a Remete-dombot keressük fel, csak rövid fotószünetekre kiszállva. Az este kényelmesen ér véget anélkül, hogy bőrig áztunk volna a szigeti utakon.",
+            "ro": "Mașina oferă astăzi cea mai bună protecție împotriva averselor. Dimineața plecăm din sat, la prânz conducem spre grote și punctele de observație în timp ce ploaia bate în parbriz. După-amiaza vizităm farul și dealul pustnicului, coborând doar pentru scurte opriri foto. Seara se încheie confortabil, fără să ne fi udat deloc.",
+            "en": "The car provides the best protection against the rain showers today. In the morning we start from the village, at noon we drive to the caves and viewpoints while rain drums on the windshield. In the afternoon we visit the lighthouse and Hermit's Hill, getting out only for short photo breaks. The evening ends comfortably without us getting soaked."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune Isole Tremiti",
+                "hu": "Comune Isole Tremiti",
+                "ro": "Comune Isole Tremiti",
+                "en": "Comune Isole Tremiti"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an einem sicheren, nicht abschüssigen Platz, da die schmalen Straßen im Ort bei Regen sehr rutschig für Reifen sein können.",
+                "hu": "Parkoljon biztonságos, nem lejtős helyen, mert a falu szűk utcái esőben nagyon csúszósak lehetnek az autógumik számára is.",
+                "ro": "Parcați într-un loc sigur, nu în pantă, deoarece străzile înguste din sat pot fi foarte alunecoase pentru anvelope pe timp de ploaie.",
+                "en": "Park in a safe, level spot, as the narrow streets in the village can be very slippery for tires during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Sale",
+                "hu": "Grotta del Sale",
+                "ro": "Grotta del Sale",
+                "en": "Grotta del Sale"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Wagen und genießen Sie den Blick auf die Küste durch das Fenster; der Boden ist hier oft lehmig und rutschig.",
+                "hu": "Heves esőben maradjon az autóban, és az ablakon keresztül élvezze a parti látványt; a talaj itt gyakran agyagos és nagyon csúszós.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați coasta prin geam; solul este adesea lutos și alunecos în această zonă.",
+                "en": "During heavy rain, stay in the car and enjoy the coastal view through the window; the ground here is often clayey and very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta di Zio Cesare",
+                "hu": "Punta di Zio Cesare",
+                "ro": "Punta di Zio Cesare",
+                "en": "Punta di Zio Cesare"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Aussichtspunkt für ein Foto der wilden See und dann schnell zurück ins trockene Auto; Schirm nicht vergessen.",
+                "hu": "Egy rövid sprint a kilátóhoz a vad tenger fotózásához, majd gyorsan vissza a száraz autóba; ne felejtse el az esernyőt a kiszálláskor.",
+                "ro": "O scurtă fugă până la punctul de observație pentru o poză cu marea învolburată și apoi repede înapoi în mașină; nu uitați umbrela.",
+                "en": "A quick sprint to the viewpoint for a photo of the wild sea and then quickly back into the dry car; don't forget your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di San Domino",
+                "hu": "Faro di San Domino",
+                "ro": "Faro di San Domino",
+                "en": "Faro di San Domino"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus hat man einen tollen Blick; perfekt, um den Scheibenwischer kurz auszuschalten und das Licht des Turms im Regen zu sehen.",
+                "hu": "A parkolóból nagyszerű a kilátás; tökéletes hely, hogy rövid időre kikapcsolja az ablaktörlőt és nézze a torony fényét az esőben.",
+                "ro": "Din parcare aveți o priveliște excelentă; este locul perfect pentru a opri ștergătoarele scurt și a vedea lumina farului prin ploaie.",
+                "en": "There is a great view from the parking area; perfect for briefly turning off the wipers and watching the lighthouse beam through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Colle dell'Eremita",
+                "hu": "Colle dell'Eremita",
+                "ro": "Colle dell'Eremita",
+                "en": "Colle dell'Eremita"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt erfordert bei Nässe Vorsicht; nutzen Sie die erhöhte Position des Hügels für einen Panorama-Rundumblick aus dem warmen Fahrzeug.",
+                "hu": "A felfelé vezető út nedvesen óvatosságot igényel; használja ki a domb magaslati pozícióját egy teljes panorámához a meleg autóból.",
+                "ro": "Urcarea necesită prudență pe carosabil ud; profitați de poziția înaltă a dealului pentru o panoramă completă din interiorul mașinii calde.",
+                "en": "The drive up requires caution when wet; take advantage of the hill's elevation for a full panorama from the warmth of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta delle Rondinelle",
+                "hu": "Grotta delle Rondinelle",
+                "ro": "Grotta delle Rondinelle",
+                "en": "Grotta delle Rondinelle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Pfützen und tiefe Schlaglöcher, die durch den Regen gefüllt und schwer als solche erkennbar sind.",
+                "hu": "Kiszálláskor ügyeljen a tócsákra és a mély kátyúkra, amelyeket feltöltött az eső, így nehéz felismerni őket a sárban vagy az úton.",
+                "ro": "Când coborâți, atenție la bălți și gropi adânci care s-au umplut cu apă și sunt greu de observat pe drumul neasfaltat.",
+                "en": "When getting out, watch for puddles and deep potholes that have filled with rain and are difficult to spot on the unpaved surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Vuccolo",
+                "hu": "Punta del Vuccolo",
+                "ro": "Punta del Vuccolo",
+                "en": "Punta del Vuccolo"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto mit dem Heck zum Wind parken, um beim Öffnen der Türen keinen Regenschwall ins Innere zu bekommen; Rückfahrt bei Tageslicht.",
+                "hu": "Parkoljon háttal a szélnek, hogy az ajtónyitáskor ne verjen be az eső az autóba; induljon vissza a faluba még teljes nappali fénynél.",
+                "ro": "Parcați cu spatele la vânt pentru ca ploaia să nu pătrundă în interior la deschiderea ușilor; întoarceți-vă în sat pe lumină.",
+                "en": "Park with the rear to the wind to prevent rain from blowing inside when opening doors; head back to the village while it's still light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto ideal, um die windigen Küstenpunkte bequem zu erreichen. Morgens erkunden wir die menschenleere Insel, mittags genießen wir die Sonne in den geschützten Buchten. Nachmittags fahren wir zügig zwischen den Aussichtspunkten hin und her, um alles vor dem Sonnenuntergang um 17:00 Uhr zu sehen. Abends nutzen wir die Heizung des Wagens auf dem Weg zurück in den warmen Ortskern.",
+            "hu": "Télen az autó ideális a szeles parti pontok kényelmes eléréséhez. Reggel a néptelen szigetet fedezzük fel, délben a védett öblökben élvezzük a napsütést. Délután gyorsan váltunk a kilátópontok között, hogy a 17 órai naplemente előtt mindent lássunk. Este kihasználjuk az autó fűtését, miközben visszahajtunk a falu barátságos és meleg központjába.",
+            "ro": "Iarna, mașina este ideală pentru a ajunge confortabil la punctele de coastă bătute de vânt. Dimineața explorăm insula pustie, iar la prânz savurăm soarele în golful protejat. După-amiaza circulăm rapid între punctele de belvedere pentru a vedea totul înainte de apusul de la ora 17:00. Seara folosim căldura mașinii pe drumul spre centrul satului.",
+            "en": "In winter, the car is ideal for comfortably reaching the windy coastal points. In the morning we explore the deserted island, at noon we enjoy the sun in the sheltered bays. In the afternoon we move quickly between viewpoints to see everything before the 5:00 PM sunset. In the evening we use the car's heater on the way back to the warm village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Comune Isole Tremiti",
+                "hu": "Comune Isole Tremiti",
+                "ro": "Comune Isole Tremiti",
+                "en": "Comune Isole Tremiti"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz warmlaufen, bevor Sie in die kühleren, schattigen Bereiche der Insel aufbrechen; die Straßen sind im Winter oft leer.",
+                "hu": "Hagyja a motort rövid ideig melegedni, mielőtt elindulna a sziget hűvösebb, árnyékos részei felé; az utak télen gyakran teljesen üresek.",
+                "ro": "Lăsați motorul să se încălzească puțin înainte de a porni spre zonele mai reci și umbrite ale insulei; drumurile sunt adesea pustii iarna.",
+                "en": "Let the engine warm up briefly before heading out to the cooler, shaded areas of the island; the roads are often completely empty in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Sale",
+                "hu": "Grotta del Sale",
+                "ro": "Grotta del Sale",
+                "en": "Grotta del Sale"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet den Eingang der Grotte mittags sehr schön; nutzen Sie das Auto als Windschutz für ein entspanntes Beobachten der Küste.",
+                "hu": "A téli nap délben szépen megvilágítja a barlang bejáratát; használja az autót szélfogóként, hogy kényelmesen figyelhesse meg a parti sziklákat.",
+                "ro": "Soarele de iarnă luminează frumos intrarea grotei la prânz; folosiți mașina ca paravan împotriva vântului pentru a observa coasta în confort.",
+                "en": "The winter sun illuminates the cave entrance beautifully at noon; use the car as a windbreak to comfortably observe the coastal rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta di Zio Cesare",
+                "hu": "Punta di Zio Cesare",
+                "ro": "Punta di Zio Cesare",
+                "en": "Punta di Zio Cesare"
+              },
+              "tip_5lang": {
+                "de": "Hier weht im Winter oft eine steife Brise; bewundern Sie die Aussicht am besten direkt aus dem Wagen, wenn es draußen zu ungemütlich wird.",
+                "hu": "Itt télen gyakran fúj erős szél; a legjobb, ha közvetlenül az autóból csodálja a kilátást, ha kint túl barátságtalanná válik az időjárás.",
+                "ro": "Aici suflă adesea un vânt puternic iarna; cel mai bine este să admirați priveliștea direct din mașină dacă afară devine prea inconfortabil.",
+                "en": "A stiff breeze often blows here in winter; it's best to admire the view directly from the car if it becomes too unpleasant outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di San Domino",
+                "hu": "Faro di San Domino",
+                "ro": "Faro di San Domino",
+                "en": "Faro di San Domino"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine perfekte Sicht auf das Leuchtfeuer; im warmen Auto sitzend wirkt das Blinksignal in der Winterdämmerung fast schon romantisch.",
+                "hu": "A parkolóból tökéletes a kilátás a jelzőfényre; a meleg autóban ülve a villogó fény a téli szürkületben szinte romantikus hangulatot áraszt.",
+                "ro": "Parcarea oferă o vedere perfectă spre far; stând în mașina caldă, semnalul luminos în amurgul de iarnă are o notă aproape romantică.",
+                "en": "The parking area offers a perfect view of the beacon; sitting in the warm car, the flashing signal in the winter twilight feels almost romantic."
+              }
+            },
+            {
+              "name": {
+                "de": "Colle dell'Eremita",
+                "hu": "Colle dell'Eremita",
+                "ro": "Colle dell'Eremita",
+                "en": "Colle dell'Eremita"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter durch die kalte, trockene Luft phänomenal; machen Sie ein Panoramafoto, bevor Sie die Heizung wieder voll aufdrehen.",
+                "hu": "A kilátás télen a hideg, száraz levegő miatt fenomenális; készítsen egy panorámaképet, mielőtt újra teljesen feltekerné a fűtést az autóban.",
+                "ro": "Vizibilitatea este fenomenală iarna datorită aerului rece și uscat; faceți o fotografie panoramică înainte de a porni căldura la maximum.",
+                "en": "The visibility is phenomenal in winter due to the cold, dry air; take a panoramic photo before turning the car heater back up to maximum."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta delle Rondinelle",
+                "hu": "Grotta delle Rondinelle",
+                "ro": "Grotta delle Rondinelle",
+                "en": "Grotta delle Rondinelle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich an den Klippen, um die Brandung zu hören, ohne dem eisigen Winterwind direkt ausgesetzt zu sein; warme Kleidung bereitlegen.",
+                "hu": "Parkoljon minél közelebb a sziklákhoz, hogy hallja a hullámzást anélkül, hogy kitenné magát a jeges szélnek; készítse elő a meleg ruhát a kiszálláshoz.",
+                "ro": "Parcați cât mai aproape de stânci pentru a auzi valurile fără a vă expune direct vântului înghețat; pregătiți hainele groase pentru coborâre.",
+                "en": "Park as close to the cliffs as possible to hear the surf without direct exposure to the icy winter wind; have warm clothes ready for getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Vuccolo",
+                "hu": "Punta del Vuccolo",
+                "ro": "Punta del Vuccolo",
+                "en": "Punta del Vuccolo"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang bequem vom Fahrersitz aus; die Farben des Himmels sind im Winter oft intensiver und das Auto bleibt schön warm.",
+                "hu": "Élje át a naplementét kényelmesen a vezetőülésből; az ég színei télen gyakran intenzívebbek, az autóban pedig kellemes meleg marad a visszaindulásig.",
+                "ro": "Trăiți experiența apusului confortabil din scaunul șoferului; culorile cerului sunt adesea mai intense iarna, iar mașina rămâne caldă și primitoare.",
+                "en": "Experience the sunset comfortably from the driver's seat; the sky colors are often more intense in winter, and the car stays nice and warm."
+              }
+            }
+          ]
+        }
       }
     }
   }

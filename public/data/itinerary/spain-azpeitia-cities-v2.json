@@ -137,6 +137,168 @@
         "hu": "A napja Azpeitia szívében kezdődik, ahol a történelmi építészet a modern baszk kultúrával találkozik. Élvezze a kreatív légkört az átalakított kulturális központokban. Délután a vasútmúzeumban elmerülhet a régió ipari múltjában. Az estét egy békés történelmi nevezetességnél zárja, amely tökéletes befejezése a napnak.",
         "ro": "Ziua dumneavoastră începe în inima orașului Azpeitia, unde arhitectura istorică întâlnește cultura bască modernă. Bucurați-vă de atmosfera creativă în centrele culturale transformate. După-amiaza, pătrundeți în trecutul industrial al regiunii la muzeul căilor ferate. Seara se încheie la un punct de reper istoric pașnic, oferind o concluzie perfectă.",
         "en": "Your day begins in the heart of Azpeitia, where historic architecture meets modern Basque culture. Enjoy the creative atmosphere in the transformed cultural centers. In the afternoon, dive into the region's industrial past at the railway museum. The evening concludes at a peaceful historic landmark, offering a perfect and relaxing finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Sanagustin kulturgunea einen trockenen Start. Mittags erkunden wir die kreativen Innenräume von Dinamoa. Nachmittags ist das Eisenbahnmuseum der perfekte Zufluchtsort vor dem Regen. Abends schlendern wir mit dem Regenschirm durch die Altstadt zur Stierkampfarena und beenden den Tag bei den historischen Überresten von Eskusta, wo der nasse Stein geheimnisvoll glänzt.",
+            "hu": "A reggelt a Sanagustin kulturális központ fedett terében kezdjük, elkerülve a záporokat. Délben a Dinamoa alkotóterében merülünk el a művészetben. Délután a Vasúttörténeti Múzeum hatalmas csarnokai nyújtanak menedéket. Az estét esernyővel a kézben zárjuk a Zezenplaza és Eskusta történelmi falai között, ahol az eső áztatta kövek különleges hangulatot árasztanak a lámpafényben.",
+            "ro": "Dimineața începe la Sanagustin, un refugiu cultural perfect împotriva ploii. La prânz, explorăm spațiul creativ Dinamoa. După-amiaza, Muzeul Trenurilor oferă adăpost interior excelent. Seara, cu umbrela pregătită, vizităm arena de tauri și situl istoric Eskusta, unde reflexiile luminii pe pavajul umed creează o atmosferă melancolică și autentică în inima Țării Basce.",
+            "en": "Morning starts dry at the Sanagustin cultural center. At noon, we dive into the creative indoor workshops of Dinamoa. Afternoon is spent sheltered in the vast halls of the Railway Museum. We end the evening with umbrellas, visiting the bullring and the historic Eskusta site, where the rain-slicked stones reflect the city lights in a uniquely Basque atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sanagustin kulturgunea",
+                "hu": "Sanagustin kulturgunea",
+                "ro": "Sanagustin kulturgunea",
+                "en": "Sanagustin kulturgunea"
+              },
+              "tip_5lang": {
+                "de": "Diese umgebaute Kirche bietet ein gemütliches Café und Kulturprogramm unter einem schützenden Dach; ideal, um den ersten Regenschauer bei einem heißen Kaffee abzuwarten.",
+                "hu": "Ez az átalakított templom kávézóval és kulturális terekkel vár a fedett tető alatt; tökéletes hely egy forró kávé mellett megvárni az első reggeli zápor végét.",
+                "ro": "Această fostă biserică oferă o cafenea primitoare și evenimente sub un acoperiș protector; locul ideal pentru a aștepta trecerea ploii cu o băutură caldă în mână.",
+                "en": "This converted church offers a cozy cafe and cultural events under a protective roof; the perfect spot to wait out the morning rain with a hot local coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinamoa sormen gunea",
+                "hu": "Dinamoa sormen gunea",
+                "ro": "Dinamoa sormen gunea",
+                "en": "Dinamoa sormen gunea"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Kreativraum, der lokale Künstler beherbergt; nutzen Sie die überdachten Galerien, um die lokale Kunstszene ohne nass zu werden im Detail zu erkunden.",
+                "hu": "Modern alkotóműhely, amely helyi művészeknek ad otthont; fedezze fel a kortárs baszk művészetet a fedett belső terekben, miközben kint kopog az eső az ablakokon.",
+                "ro": "Un spațiu creativ modern care găzduiește artiști locali; explorați galeriile interioare pentru a simți vibrația culturală bască fără a fi afectat de vremea de afară.",
+                "en": "A modern creative hub hosting local artists; explore the indoor galleries to experience the Basque art scene while staying completely dry and comfortable inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tren Museoa",
+                "hu": "Tren Museoa",
+                "ro": "Tren Museoa",
+                "en": "Tren Museoa"
+              },
+              "tip_5lang": {
+                "de": "Das baskische Eisenbahnmuseum bietet weitläufige, überdachte Hallen voller alter Lokomotiven; ein wasserfestes Schuhwerk ist ratsam für den kurzen Weg zwischen den Depots.",
+                "hu": "A vasúttörténeti múzeum hatalmas fedett csarnokai tele vannak régi mozdonyokkal; a depók közötti rövid sétához érdemes vízálló cipőt viselni a kisebb tócsák miatt.",
+                "ro": "Muzeul Căilor Ferate Basce are hale interioare vaste pline de locomotive vechi; purtați încălțăminte impermeabilă pentru scurtele deplasări între pavilioanele expoziționale.",
+                "en": "The Basque Railway Museum features vast indoor sheds filled with historic locomotives; wear waterproof shoes for the short walks between the different display halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Azpeitiko Zezenplaza",
+                "hu": "Azpeitiko Zezenplaza",
+                "ro": "Azpeitiko Zezenplaza",
+                "en": "Azpeitiko Zezenplaza"
+              },
+              "tip_5lang": {
+                "de": "Die markante Stierkampfarena ist von außen beeindruckend; suchen Sie bei plötzlichem Guss Schutz unter den Arkaden der nahegelegenen Häuser am Rande des Platzes.",
+                "hu": "A jellegzetes bikaviadal-aréna kívülről is lenyűgöző; hirtelen zápor esetén keressen menedéket a tér széle felé eső közeli házak boltíves árkádjai alatt.",
+                "ro": "Arena de tauri este impresionantă chiar și privită de afară; în caz de aversă bruscă, folosiți arcadele clădirilor din apropiere pentru a rămâne la adăpost.",
+                "en": "The iconic bullring is visually striking from the outside; if a sudden downpour hits, seek shelter under the arched arcades of the nearby buildings facing the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Eskusta",
+                "hu": "Eskusta",
+                "ro": "Eskusta",
+                "en": "Eskusta"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Ort kann bei Regen rutschig sein; gehen Sie vorsichtig auf den Pfaden und genießen Sie die mystische Nebelstimmung über den archäologischen Resten.",
+                "hu": "Ez a történelmi helyszín esőben csúszóssá válhat; közlekedjen óvatosan az ösvényeken, és élvezze a régészeti romok felett gomolygó misztikus ködös hangulatot.",
+                "ro": "Acest sit istoric poate deveni alunecos pe timp de ploaie; mergeți cu atenție pe poteci și admirați atmosfera mistică a ruinelor învăluite în ceața bască.",
+                "en": "This historical site can be slippery when wet; walk carefully on the paths and enjoy the mystical, misty atmosphere hanging over the archaeological remains."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt wärmend im Kulturzentrum. Mittags bietet Dinamoa einen inspirierenden Rückzugsort vor der Kälte. Nachmittags erkunden wir das Eisenbahnmuseum, bevor die Sonne gegen 17:00 Uhr untergeht. Den Abend verbringen wir bei der beleuchteten Stierkampfarena und beenden die Tour zügig bei Eskusta, während die kühle Winterluft den Himmel klärt.",
+            "hu": "A téli reggel a fűtött kulturális központban indul. Délben a Dinamoa belső terei nyújtanak menedéket a csípős szél elől. Délután a Vasúttörténeti Múzeumot járjuk be, figyelve a korai, 17:00 körüli naplementére. Az estét a kivilágított arénánál zárjuk, majd egy frissítő séta után Eskusta romjainál fejezzük be a napot a hideg téli alkonyatban.",
+            "ro": "Dimineața de iarnă începe cu căldură în centrul cultural. La prânz, Dinamoa oferă un refugiu creativ protejat de frig. După-amiaza vizităm Muzeul Trenurilor înainte de apusul de la ora 17:00. Seara admirăm arena iluminată și încheiem turul la Eskusta, profitând de aerul curat și rece care oferă o vizibilitate excelentă asupra văii.",
+            "en": "Winter morning begins warmly inside the cultural center. At noon, Dinamoa provides a creative escape from the biting wind. We explore the Railway Museum in the afternoon before the early 5 PM sunset. The evening features the illuminated bullring, concluding with a brisk walk to Eskusta under the clear, chilly winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sanagustin kulturgunea",
+                "hu": "Sanagustin kulturgunea",
+                "ro": "Sanagustin kulturgunea",
+                "en": "Sanagustin kulturgunea"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich mit einem lokalen Gebäck aufzuwärmen; die dicken Mauern der ehemaligen Kirche halten die Kälte draußen und sorgen für wohlige Wärme.",
+                "hu": "Ideális hely a felmelegedésre egy helyi sütemény mellett; az egykori templom vastag falai távol tartják a kinti hideget, és otthonos meleget árasztanak télen.",
+                "ro": "Locul perfect pentru a vă încălzi cu o prăjitură locală; zidurile groase ale fostei biserici izolează excelent împotriva frigului de afară în zilele de iarnă.",
+                "en": "The perfect place to warm up with local pastries; the thick walls of the former church keep the winter chill at bay, providing a cozy and warm start to your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinamoa sormen gunea",
+                "hu": "Dinamoa sormen gunea",
+                "ro": "Dinamoa sormen gunea",
+                "en": "Dinamoa sormen gunea"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebendige Atmosphäre im Inneren, während es draußen zieht; ein Wollpullover ist ideal, um entspannt durch die verschiedenen Kunstbereiche zu schlendern.",
+                "hu": "Élvezze a benti nyüzsgést, amíg kint fúj a szél; egy meleg gyapjúpulóver ideális viselet, hogy kényelmesen járja végig a különféle művészeti szekciókat.",
+                "ro": "Bucurați-vă de atmosfera vibrantă din interior în timp ce afară bate vântul; un pulover de lână este ideal pentru a vizita relaxat diferitele secțiuni de artă.",
+                "en": "Enjoy the lively indoor atmosphere while the wind blows outside; a warm wool sweater is ideal for comfortably browsing through the various art sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Tren Museoa",
+                "hu": "Tren Museoa",
+                "ro": "Tren Museoa",
+                "en": "Tren Museoa"
+              },
+              "tip_5lang": {
+                "de": "Die Museumshallen können im Winter kühl sein; tragen Sie Thermokleidung, um die beeindruckende Sammlung alter Züge ohne Frösteln bewundern zu können.",
+                "hu": "A múzeumi csarnokok télen hűvösek lehetnek; viseljen réteges öltözetet, hogy borzongás nélkül csodálhassa meg a régi gőzmozdonyok lenyűgöző gyűjteményét.",
+                "ro": "Halele muzeului pot fi reci pe timp de iarnă; purtați haine termice pentru a admira colecția impresionantă de trenuri vechi fără a simți disconfortul frigului.",
+                "en": "The museum halls can be quite chilly in winter; wear thermal layers to appreciate the impressive collection of old locomotives without feeling the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Azpeitiko Zezenplaza",
+                "hu": "Azpeitiko Zezenplaza",
+                "ro": "Azpeitiko Zezenplaza",
+                "en": "Azpeitiko Zezenplaza"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort kurz vor Sonnenuntergang, wenn die tiefstehende Wintersonne die Fassade in goldenes Licht taucht; perfekt für ein schnelles Foto vor der Dunkelheit.",
+                "hu": "Látogasson el ide nem sokkal naplemente előtt, amikor a téli nap aranyló fénybe vonja a homlokzatot; tökéletes hely egy gyors fotóhoz a sötétedés előtt.",
+                "ro": "Vizitați arena înainte de apus, când soarele palid de iarnă scaldă fațada în lumină aurie; locul perfect pentru o fotografie rapidă înainte de lăsarea serii.",
+                "en": "Visit shortly before sunset when the low winter sun bathes the facade in golden light; it's the perfect spot for a quick photo before the early darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Eskusta",
+                "hu": "Eskusta",
+                "ro": "Eskusta",
+                "en": "Eskusta"
+              },
+              "tip_5lang": {
+                "de": "Wegen des frühen Sonnenuntergangs sollten Sie Stirnlampen oder volle Handys mitnehmen; die klare Winterluft bietet oft einen weiten Blick auf die umliegenden Berge.",
+                "hu": "A korai sötétedés miatt legyen önnél lámpa vagy feltöltött telefon; a tiszta téli levegőben ilyenkor látszanak legjobban a környező hegyek sziluettjei.",
+                "ro": "Din cauza apusului timpuriu, asigurați-vă că aveți telefonul încărcat pentru lanternă; aerul curat de iarnă oferă adesea cele mai bune priveliști spre munți.",
+                "en": "Due to the early sunset, bring a flashlight or a charged phone; the crisp winter air often provides the clearest views of the surrounding mountain peaks."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpárral rugalmasan és dinamikusan fedezheti fel Azpeitiát. A délelőtt a kulturális látnivalók és a lenyűgöző vonatok izgalmas keverékét kínálja. Délben az útvonal a fenséges Ignác-szentélyhez, egy igazi építészeti remekműhöz vezet. Végül egy zöld rekreációs területen pihenhet meg a festői folyópart mentén.",
         "ro": "Cu bicicleta explorați Azpeitia într-un mod flexibil și dinamic. Dimineața oferă un amestec încântător de atracții culturale și trenuri impresionante. La prânz, traseul vă duce la sanctuarul maiestuos al lui Ignațiu, o capodoperă arhitecturală. În cele din urmă, vă relaxați într-o zonă verde de recreere de-a lungul malului pitoresc al râului.",
         "en": "By bike, you can explore Azpeitia flexibly and dynamically. The morning offers a delightful mix of cultural highlights and impressive historic trains. At midday, your route leads to the majestic sanctuary of Saint Ignatius, a true architectural masterpiece. Finally, you can relax in a green recreational area along the picturesque riverbank."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt vorsichtig bei der Stierkampfarena. Mittags bietet das Kulturzentrum Sanagustin eine trockene Pause. Nachmittags besuchen wir die Museen, während die Reifen auf dem nassen Asphalt surren. Gegen Abend erreichen wir die Basilika von Loyola und beenden die Tour bei Ugarteigaran, wobei wir stets auf rutschige Blätter und Pfützen achten.",
+            "hu": "Az esős bringás nap óvatosan indul a Zezenplazánál. Délben a Sanagustin központban tartunk száraz pihenőt. Délután a múzeumok fedett világa vár, miközben a kerekek az ázott aszfalton surrogna. Estére elérjük a Loiolai Bazilikát, majd Ugarteigarannál zárjuk a kört, figyelve a csúszós falevelekre és a pocsolyákra az út mentén.",
+            "ro": "O zi de ciclism pe ploaie începe cu prudență la arena de tauri. La prânz, facem o pauză uscată la centrul cultural Sanagustin. După-amiaza vizităm muzeele, în timp ce anvelopele șuieră pe asfaltul ud. Spre seară ajungem la Basilica Loyola și încheiem la Ugarteigaran, fiind atenți la frunzele alunecoase și la bălți.",
+            "en": "A rainy cycling day starts cautiously at the bullring. At noon, we take a dry break at Sanagustin center. Afternoon is dedicated to museums while tires hum on the wet asphalt. By evening, we reach the Loyola Basilica and finish at Ugarteigaran, staying alert for slippery leaves and puddles along the cycle paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Azpeitiko Zezenplaza",
+                "hu": "Azpeitiko Zezenplaza",
+                "ro": "Azpeitiko Zezenplaza",
+                "en": "Azpeitiko Zezenplaza"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und prüfen Sie Ihre Bremsen; der Platz ist bei Nässe rutschig, bietet aber ein tolles Motiv im Regenlicht.",
+                "hu": "Parkolja le a bringát egy védettebb ponton, és ellenőrizze a fékeket; a tér esőben csúszós lehet, de a vizes felületek remek fotótémát kínálnak.",
+                "ro": "Parcați bicicleta într-un loc protejat și verificați frânele; piața poate fi alunecoasă pe ploaie, dar oferă reflexii superbe pentru fotografii.",
+                "en": "Park your bike in a sheltered spot and check your brakes; the square can be slippery when wet, but the reflections offer great photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanagustin kulturgunea",
+                "hu": "Sanagustin kulturgunea",
+                "ro": "Sanagustin kulturgunea",
+                "en": "Sanagustin kulturgunea"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stop, um Ihre Regenkleidung zu richten; im Inneren gibt es reichlich Platz, um sich kurz aufzuwärmen und den Helm zu trocknen.",
+                "hu": "Használja ki a megállót az esőruházat igazítására; bent tágas hely vár, ahol felmelegedhet és megszáríthatja a sisakját a következő szakasz előtt.",
+                "ro": "Folosiți oprirea pentru a vă ajusta echipamentul de ploaie; interiorul spațios vă permite să vă încălziți și să vă uscați casca în siguranță.",
+                "en": "Use this stop to adjust your rain gear; the spacious interior is perfect for warming up and drying your helmet before the next leg of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Tren Museoa",
+                "hu": "Tren Museoa",
+                "ro": "Tren Museoa",
+                "en": "Tren Museoa"
+              },
+              "tip_5lang": {
+                "de": "Fahrradständer befinden sich in der Nähe des Eingangs; die großen Hallen sind der ideale Ort, um das Radfahren im Regen für eine ausgiebige Besichtigung zu unterbrechen.",
+                "hu": "A kerékpártárolók a bejárat közelében vannak; a hatalmas csarnokok ideálisak arra, hogy egy hosszabb látogatás erejéig szüneteltesse a tekerést az esőben.",
+                "ro": "Suporturile pentru biciclete sunt lângă intrare; halele mari sunt locul ideal pentru a lua o pauză de la pedalat prin ploaie și a vizita expoziția.",
+                "en": "Bike racks are located near the entrance; the large indoor halls are the ideal place to take a break from cycling in the rain for an extensive visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekomuseoa",
+                "hu": "Ekomuseoa",
+                "ro": "Ekomuseoa",
+                "en": "Ekomuseoa"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher führt über befestigte Wege, die jedoch bei Regen Pfützen bilden können; im Ökomuseum erfahren Sie viel über die Natur, während Sie im Trockenen stehen.",
+                "hu": "Az idevezető út burkolt, de esőben pocsolyák alakulhatnak ki; az ökomúzeumban sokat tanulhat a természetről, miközben biztonságban van a felhőszakadástól.",
+                "ro": "Drumul până aici este pavat, dar poate avea bălți pe ploaie; la ecomuzeu veți învăța multe despre natură stând la adăpost de precipitații.",
+                "en": "The path here is paved but can collect puddles during rain; at the ecomuseum, you can learn about nature while staying fully protected from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Loiolako Basilika",
+                "hu": "Loiolako Basilika",
+                "ro": "Loiolako Basilika",
+                "en": "Loiolako Basilika"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter und bewundern Sie die Kuppel; im Inneren der Basilika finden Sie absolute Ruhe und Schutz vor dem baskischen Regenwetter.",
+                "hu": "Támassza le a biciklit fedett helyen, és csodálja meg a kupolát; a bazilika belsejében teljes nyugalom és védelem várja a baszk esős idő elől.",
+                "ro": "Lăsați bicicleta într-un loc ferit și admirați cupola; interiorul basilicii oferă liniște absolută și protecție totală împotriva vremii ploioase.",
+                "en": "Park your bike in a sheltered spot and admire the dome; inside the basilica, you will find absolute peace and protection from the rainy Basque weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Ugarteigaran",
+                "hu": "Ugarteigaran",
+                "ro": "Ugarteigaran",
+                "en": "Ugarteigaran"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege im Park können durch Schlamm rutschig sein; fahren Sie langsam zum Abschluss der Tour und achten Sie auf gute Sichtbarkeit durch Ihre Beleuchtung.",
+                "hu": "A park kerékpárútjai a sártól csúszóssá válhatnak; a túra végén tekerjen lassan, és ügyeljen a jó láthatóságra a bekapcsolt lámpákkal az esőben.",
+                "ro": "Pistele din parc pot fi alunecoase din cauza noroiului; pedalați încet la finalul turului și asigurați-vă că sunteți vizibil folosind luminile.",
+                "en": "The park's bike paths can get slippery with mud; ride slowly at the end of your tour and ensure high visibility with your lights on during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln wir zur Stierkampfarena. Mittags wärmen wir uns im Kulturzentrum auf. Die Nachmittagsfahrt führt uns durch die frische Luft zu den Museen, bevor die Dämmerung Loyola in blaues Licht taucht. Wir beenden die Tour bei Ugarteigaran kurz nach Sonnenuntergang, eingepackt in Handschuhe und Schal gegen den kühlen Fahrtwind.",
+            "hu": "Tiszta téli reggelen tekerünk a Zezenplazához. Délben a kulturális központban melegszünk fel. A délutáni szakasz friss levegőn vezet a múzeumokhoz, mielőtt az alkony kék fénybe vonná Loiolát. A túrát Ugarteigarannál zárjuk nem sokkal naplemente után, kesztyűben és sálban védekezve a hideg menetszél ellen.",
+            "ro": "Într-o dimineață clară de iarnă pedalăm spre arena de tauri. La prânz ne încălzim în centrul cultural. Traseul de după-amiază ne poartă prin aerul curat spre muzee, înainte ca amurgul să îmbrace Loyola în lumină albastră. Încheiem turul la Ugarteigaran după apus, protejați de mănuși și fular.",
+            "en": "On a crisp winter morning, we cycle to the bullring. We warm up at the cultural center at noon. The afternoon ride leads us through fresh air to the museums before twilight bathes Loyola in blue light. We finish at Ugarteigaran just after sunset, wrapped in gloves and scarves against the cold wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Azpeitiko Zezenplaza",
+                "hu": "Azpeitiko Zezenplaza",
+                "ro": "Azpeitiko Zezenplaza",
+                "en": "Azpeitiko Zezenplaza"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt; die Arena sieht im klaren Winterlicht besonders scharfkantig und imposant aus, ideal für Fotos.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez; az aréna a tiszta téli fényben különösen éles kontúrokkal és impozánsan mutat, remek fotótéma.",
+                "ro": "Purtați mănuși rezistente la vânt pentru pedalat; arena arată impunător în lumina clară de iarnă, oferind un contrast perfect pentru fotografii.",
+                "en": "Wear windproof gloves for the ride; the arena looks particularly sharp and imposing in the clear winter light, perfect for high-contrast photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanagustin kulturgunea",
+                "hu": "Sanagustin kulturgunea",
+                "ro": "Sanagustin kulturgunea",
+                "en": "Sanagustin kulturgunea"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich einen heißen Kakao, um die Körpertemperatur zu halten; der Innenraum ist ein wichtiger Wärmestopp auf Ihrer winterlichen Radtour.",
+                "hu": "Igyon egy forró kakaót, hogy fenntartsa a testhőmérsékletét; a belső tér fontos melegedő állomás a téli kerékpáros felfedezés során.",
+                "ro": "Savurați o ciocolată caldă pentru a vă menține temperatura corpului; interiorul este un punct de oprire esențial pentru a vă încălzi în timpul turului.",
+                "en": "Treat yourself to a hot cocoa to maintain your body temperature; the interior is a vital warming station on your winter cycling exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Tren Museoa",
+                "hu": "Tren Museoa",
+                "ro": "Tren Museoa",
+                "en": "Tren Museoa"
+              },
+              "tip_5lang": {
+                "de": "Die Bewegung im Museum hilft gegen die Kälte; planen Sie hier eine längere Pause ein, da die großen Hallen windgeschützt, aber nicht voll geheizt sind.",
+                "hu": "A múzeumi séta segít a hideg ellen; tervezzen ide hosszabb megállót, mert a csarnokok szélvédettek, bár nincsenek teljesen felfűtve.",
+                "ro": "Mişcarea prin muzeu vă va ajuta să vă încălziți; planificați o vizită mai lungă aici, deoarece halele sunt ferite de vânt, deși nu sunt încălzite.",
+                "en": "Moving around the museum helps fight off the chill; plan a longer break here as the halls are wind-sheltered even if they aren't fully heated."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekomuseoa",
+                "hu": "Ekomuseoa",
+                "ro": "Ekomuseoa",
+                "en": "Ekomuseoa"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Anstieg hält Sie warm; im Ökomuseum können Sie sich im Gebäude über die regionale Flora informieren, während draußen der Frost glitzert.",
+                "hu": "Egy rövid, tempós emelkedő segít melegen tartani a testét; az ökomúzeum épületében a regionális flóráról tanulhat, miközben kint zúzmara csillog.",
+                "ro": "O urcare scurtă și intensă vă va ține de cald; în interiorul ecomuzeului puteți învăța despre flora regională în timp ce afară sclipeste chiciura.",
+                "en": "A short, brisk climb will keep you warm; inside the ecomuseum, you can learn about regional flora while the frost glitters on the grass outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Loiolako Basilika",
+                "hu": "Loiolako Basilika",
+                "ro": "Loiolako Basilika",
+                "en": "Loiolako Basilika"
+              },
+              "tip_5lang": {
+                "de": "Die Basilika ist ein majestätischer Ort, um der Winterkälte kurz zu entfliehen; beachten Sie die kurzen Öffnungszeiten an Wintertagen.",
+                "hu": "A bazilika fenséges helyszín, ahol rövid időre elmenekülhet a téli hideg elől; ügyeljen a téli napokon érvényes rövidebb nyitvatartási időre.",
+                "ro": "Basilica este un loc maiestuos unde puteți evada scurt din frigul iernii; aveți în vedere programul de vizitare mai scurt în zilele de iarnă.",
+                "en": "The basilica is a majestic place to briefly escape the winter cold; keep in mind the shorter visiting hours during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Ugarteigaran",
+                "hu": "Ugarteigaran",
+                "ro": "Ugarteigaran",
+                "en": "Ugarteigaran"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Brücken; beenden Sie die Tour zügig, bevor die Temperaturen nach 17:00 Uhr im Park deutlich sinken.",
+                "hu": "Ügyeljen a dérre és a zúzmarára a hidakon; fejezze be a túrát gyorsan, mielőtt a hőmérséklet 17:00 után jelentősen visszaesik a parkban.",
+                "ro": "Fiți atenți la bruma de pe poduri; încheiați turul rapid înainte ca temperaturile să scadă semnificativ în parc după ora 17:00.",
+                "en": "Watch out for frost on the bridges; finish your tour quickly before temperatures drop significantly in the park after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autó kényelmes utazást tesz lehetővé Azpeitia legfontosabb látnivalóihoz. Reggel izgalmas múzeumokat és lenyűgöző barokk építészetet fedezhet fel. Egy történelmi emlékműveknél eltöltött pihentető délután után továbbhajt a természetbe. A nap békésen ér véget Arauntza festői környezetében, távol a nyüzsgő városközponttól.",
         "ro": "Mașina vă permite o călătorie confortabilă către principalele atracții din jurul orașului Azpeitia. Dimineața veți descoperi muzee fascinante și arhitectură barocă. După o după-amiază relaxantă explorând monumente istorice, conduceți mai departe în natură. Ziua se termină pașnic în împrejurimile pitorești din Arauntza, departe de centrul orașului.",
         "en": "The car allows for a comfortable journey to the main attractions around Azpeitia. In the morning, you will discover fascinating museums and stunning Baroque architecture. After a relaxing afternoon exploring historical monuments, you drive further into nature. The day ends peacefully in the picturesque surroundings of Arauntza, away from the bustling city center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Regentag mit dem Auto beginnt beim Eisenbahnmuseum. Mittags fahren wir zur Basilika von Loyola, wo wir im Trockenen parken können. Nachmittags genießen wir den Blick auf den Park Ugarteigaran durch die Scheiben. Wir besuchen das Denkmal von San Ignacio und beenden den Tag bei den Aussichtspunkten von Eskusta und Arauntza, während der Nebel mystisch durch die Täler zieht.",
+            "hu": "Kényelmes esős nap autónkkal, kezdés a Vasúttörténeti Múzeumnál. Délben a Loiolai Bazilikához hajtunk, ahol a közelben találunk fedett parkolót. Délután az autó ablakából csodáljuk az Ugarteigaran parkot. Meglátogatjuk San Ignacio szobrát, majd Eskusta és Arauntza kilátópontjainál zárjuk a napot, miközben a köd misztikusan gomolyog a völgyben.",
+            "ro": "O zi relaxată de condus pe ploaie începe la Muzeul Trenurilor. La prânz mergem la Basilica Loyola, beneficiind de parcări apropiate. După-amiaza admirăm parcul Ugarteigaran prin geamul mașinii. Vizităm statuia lui San Ignacio și încheiem la Eskusta și Arauntza, în timp ce ceața se ridică mistic peste văile verzi.",
+            "en": "A relaxed rainy day by car starts at the Railway Museum. At noon, we drive to the Loyola Basilica with convenient nearby parking. Afternoon is spent viewing Ugarteigaran park through the car windows. We visit the San Ignacio statue and finish at the Eskusta and Arauntza viewpoints as mist rolls mystically through the Basque valleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tren Museoa",
+                "hu": "Tren Museoa",
+                "ro": "Tren Museoa",
+                "en": "Tren Museoa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den großen Parkplatz direkt am Museum; so kommen Sie fast trocken in die beeindruckenden Ausstellungshallen der Eisenbahngeschichte.",
+                "hu": "Használja a közvetlenül a múzeumnál lévő nagy parkolót; így szinte teljesen szárazon juthat be a vasúttörténet lenyűgöző kiállítócsarnokaiba.",
+                "ro": "Folosiți parcarea mare de lângă muzeu; astfel veți ajunge aproape uscat în halele expoziționale impresionante ale istoriei feroviare.",
+                "en": "Use the large parking lot directly at the museum; this allows you to enter the impressive railway history display halls while staying mostly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Loiolako Basilika",
+                "hu": "Loiolako Basilika",
+                "ro": "Loiolako Basilika",
+                "en": "Loiolako Basilika"
+              },
+              "tip_5lang": {
+                "de": "Es gibt bequeme Parkmöglichkeiten in der Nähe des Eingangs; die Basilika ist der ideale Ort, um einen heftigen Regenschauer im prunkvollen Inneren auszusitzen.",
+                "hu": "A bejárat közelében kényelmes parkolóhelyek találhatók; a bazilika ideális helyszín, hogy a pompás belső térben vészeljen át egy hevesebb záport.",
+                "ro": "Există locuri de parcare convenabile lângă intrare; basilica este locul ideal pentru a aștepta trecerea unei averse în interiorul său somptuos.",
+                "en": "Convenient parking is available near the entrance; the basilica is an ideal location to wait out a heavy downpour within its magnificent interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Ugarteigaran",
+                "hu": "Ugarteigaran",
+                "ro": "Ugarteigaran",
+                "en": "Ugarteigaran"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie die grüne Landschaft; der Parkplatz bietet einen schönen Blick auf den Fluss und die nasse Natur.",
+                "hu": "Heves esőben maradjon az autóban, és élvezze a zöld tájat; a parkolóból szép kilátás nyílik a folyóra és az ázott, életteli természetre.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați peisajul verde; parcarea oferă o vedere frumoasă spre râu și natura luxuriantă.",
+                "en": "In case of heavy rain, stay in the car and enjoy the lush green landscape; the parking area offers a nice view of the river and the vibrant wet nature."
+              }
+            },
+            {
+              "name": {
+                "de": "Loiolako San Inazioren estatua",
+                "hu": "Loiolako San Inazioren estatua",
+                "ro": "Loiolako San Inazioren estatua",
+                "en": "Loiolako San Inazioren estatua"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nah an das Denkmal heran für einen kurzen Fotostopp; die Statue wirkt im grauen Regenlicht besonders dramatisch und historisch bedeutsam.",
+                "hu": "Hajtson egészen közel a szoborhoz egy gyors fotó erejéig; az emlékmű a szürke esős fényekben különösen drámai és történelmi hangulatot áraszt.",
+                "ro": "Conduceți cât mai aproape de statuie pentru o oprire foto rapidă; monumentul pare deosebit de dramatic și plin de istorie în lumina cenușie a ploii.",
+                "en": "Drive as close as possible to the statue for a quick photo stop; the monument looks particularly dramatic and historically significant in the grey rain light."
+              }
+            },
+            {
+              "name": {
+                "de": "Eskusta",
+                "hu": "Eskusta",
+                "ro": "Eskusta",
+                "en": "Eskusta"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Auffahrt auf schmalen, nassen Straßen; von den Parkbuchten aus haben Sie einen tollen Blick auf die vom Regen gewaschene Ausgrabungsstätte.",
+                "hu": "Vigyázzon a felhajtó szűk, vizes útjain; a parkolóöblökből remek kilátás nyílik az eső által lemosott, tiszta színekben pompázó régészeti lelőhelyre.",
+                "ro": "Atenție la drumul îngust și ud în timpul urcării; din alveolele de parcare aveți o vedere excelentă spre situl arheologic spălat de ploaie.",
+                "en": "Be careful on the narrow, wet roads during the drive up; from the parking bays, you have a great view of the archaeological site washed clean by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Arauntza",
+                "hu": "Arauntza",
+                "ro": "Arauntza",
+                "en": "Arauntza"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem trockenen Auto; die tief hängenden Regenwolken über den baskischen Bergen bieten ein beeindruckendes Naturschauspiel.",
+                "hu": "Élvezze a panorámát közvetlenül a száraz autóból; a baszk hegyek felett alacsonyan szálló esőfelhők lenyűgöző természeti látványt nyújtanak ilyenkor.",
+                "ro": "Bucurați-vă de panoramă direct din confortul mașinii; norii de ploaie care plutesc jos peste munții basci oferă un spectacol natural impresionant.",
+                "en": "Enjoy the panoramic view directly from the dry car; the low-hanging rain clouds over the Basque mountains provide an impressive natural spectacle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour startet gemütlich beim Eisenbahnmuseum. Mittags bewundern wir die prachtvolle Basilika von Loyola. Nachmittags fahren wir zum Park Ugarteigaran und zur Statue von San Ignacio, während die Wintersonne tief steht. Wir erreichen Eskusta pünktlich zum Sonnenuntergang gegen 17:00 Uhr und beenden den Tag bei Arauntza mit Blick auf die beleuchteten Täler.",
+            "hu": "A téli autós túra kényelmesen indul a Vasúttörténeti Múzeumnál. Délben a Loiolai Bazilika pompás belső terét csodáljuk meg. Délután az Ugarteigaran parkhoz és San Ignacio szobrához hajtunk az alacsonyan járó téli napfényben. Eskustát pont naplementére, 17:00 körül érjük el, majd Arauntzánál zárjuk a napot a kivilágított völgyek látványával.",
+            "ro": "Turul de iarnă cu mașina începe confortabil la Muzeul Trenurilor. La prânz admirăm interiorul somptuos al Basilicii Loyola. După-amiaza mergem spre parcul Ugarteigaran și statuia lui San Ignacio în lumina caldă a soarelui de iarnă. Ajungem la Eskusta exact la apus, în jur de ora 17:00, și încheiem la Arauntza cu vederea spre văile luminate.",
+            "en": "The winter car tour starts comfortably at the Railway Museum. At noon, we admire the magnificent interior of the Loyola Basilica. Afternoon includes a drive to Ugarteigaran park and the San Ignacio statue in the low winter sun. We reach Eskusta exactly for the 5 PM sunset and finish at Arauntza with a view of the illuminated valleys below."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tren Museoa",
+                "hu": "Tren Museoa",
+                "ro": "Tren Museoa",
+                "en": "Tren Museoa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung nach dem Museumsbesuch; die Hallen sind im Winter recht kühl, aber das Auto bietet danach sofortige Wärme für die Weiterfahrt.",
+                "hu": "Használja az ülésfűtést a múzeumlátogatás után; a csarnokok télen meglehetősen hűvösek, de az autó azonnali meleget ad a túra folytatásához.",
+                "ro": "Folosiți încălzirea în scaune după vizitarea muzeului; halele sunt reci iarna, dar mașina vă va oferi căldura necesară imediat după vizită.",
+                "en": "Turn on your seat heaters after the museum visit; the halls are quite cool in winter, but the car provides instant warmth for the rest of your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Loiolako Basilika",
+                "hu": "Loiolako Basilika",
+                "ro": "Loiolako Basilika",
+                "en": "Loiolako Basilika"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um die Zeit an der kalten Winterluft zu minimieren; die Basilika ist im Winter oft weniger überlaufen und sehr besinnlich.",
+                "hu": "Parkoljon a bejárat közelében, hogy keveset kelljen a hideg téli levegőn tartózkodnia; a bazilika télen kevésbé zsúfolt, így még elmélyültebb élményt nyújt.",
+                "ro": "Parcați aproape de intrare pentru a minimiza timpul petrecut în aerul rece; basilica este mai puțin aglomerată iarna și oferă o atmosferă foarte liniștită.",
+                "en": "Park close to the entrance to minimize time in the cold winter air; the basilica is often less crowded in winter, offering a more contemplative experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Ugarteigaran",
+                "hu": "Ugarteigaran",
+                "ro": "Ugarteigaran",
+                "en": "Ugarteigaran"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht im Winter aus, um die klare Luft am Fluss zu genießen; die Parkplätze sind gut erreichbar und bieten einen schnellen Zugang zum Park.",
+                "hu": "Télen egy rövid megálló is elég, hogy élvezze a tiszta levegőt a folyóparton; a parkolók könnyen elérhetőek, így csak rövid ideig kell a hidegben sétálnia.",
+                "ro": "O oprire scurtă este suficientă iarna pentru a vă bucura de aerul curat de pe malul râului; parcările sunt accesibile și oferă acces rapid în parc.",
+                "en": "A short stop is enough in winter to enjoy the crisp air by the river; the parking areas are easily accessible, providing quick access to the park's highlights."
+              }
+            },
+            {
+              "name": {
+                "de": "Loiolako San Inazioren estatua",
+                "hu": "Loiolako San Inazioren estatua",
+                "ro": "Loiolako San Inazioren estatua",
+                "en": "Loiolako San Inazioren estatua"
+              },
+              "tip_5lang": {
+                "de": "Die Statue wird am späten Nachmittag oft von der tiefstehenden Sonne angestrahlt; nutzen Sie die Parkbucht direkt an der Straße für einen schnellen Blick.",
+                "hu": "A szobrot késő délután gyakran megvilágítja az alacsonyan járó nap; használja az út menti parkolósávot egy gyors megállóhoz és az emlékmű megtekintéséhez.",
+                "ro": "Statuia este adesea luminată de soarele palid de după-amiază; folosiți alveola de parcare de lângă drum pentru o oprire rapidă și o fotografie reușită.",
+                "en": "The statue is often illuminated by the low afternoon sun; use the parking bay directly by the road for a quick stop to admire the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Eskusta",
+                "hu": "Eskusta",
+                "ro": "Eskusta",
+                "en": "Eskusta"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Sonnenuntergang über dem Tal zu erleben; die Heizung im Auto sorgt dafür, dass Sie die Aussicht ohne Frieren genießen können.",
+                "hu": "Érkezzen 17:00 előtt, hogy lássa a naplementét a völgy felett; az autó fűtése lehetővé teszi, hogy fázás nélkül élvezze a téli alkonyat látványát.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea apusul peste vale; căldura din mașină vă va permite să admirați priveliștea fără a simți frigul de afară.",
+                "en": "Arrive before 5 PM to witness the sunset over the valley; the car's heater ensures you can enjoy the winter twilight views without freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Arauntza",
+                "hu": "Arauntza",
+                "ro": "Arauntza",
+                "en": "Arauntza"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet spektakuläre Blicke auf die winterlich kahlen, aber majestätischen Berge; oben angekommen, können Sie die Lichter der Stadt im Tal bewundern.",
+                "hu": "A felvezető út látványos kilátást nyújt a téli, kopár, de fenséges hegyekre; a csúcsra érve megcsodálhatja a völgyben kigyúló városi fényeket.",
+                "ro": "Urcarea oferă vederi spectaculoase spre munții golași dar maiestuoși; odată ajunși sus, puteți admira luminile orașului care se aprind în vale.",
+                "en": "The drive up offers spectacular views of the barren but majestic winter mountains; once at the top, enjoy the city lights sparkling in the valley below."
+              }
+            }
+          ]
+        }
       }
     }
   }

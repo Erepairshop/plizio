@@ -137,6 +137,168 @@
         "hu": "Fedezze fel Gleizét gyalogosan, a központi templomtól kezdve, majd sétáljon el a történelmi kastélyhoz. A délután zöld kikapcsolódást nyújt a parkban és további bepillantást a helyi építészetbe.",
         "ro": "Explorați Gleizé pe jos, începând cu biserica centrală, înainte de a vă plimba spre castelul istoric. După-amiaza oferă relaxare verde în parc și alte perspective asupra arhitecturii locale.",
         "en": "Discover Gleizé on foot, starting with the central church before strolling to the historic castle. The afternoon offers green relaxation in the park and further insights into local architecture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Église Notre-Dame. Mittags spazieren wir mit dem Schirm durch den Schlosspark von Vaurenard. Am Nachmittag suchen wir die Chapelle Sainte-Agathe auf, während der Regen die Weinberge in dichten Nebel hüllt. Der Abend endet friedlich in der Église Saint-Curé-d'Ars, wo wir im trockenen Innenraum die Architektur bewundern können.",
+            "hu": "A reggel az Église Notre-Dame falai között indul, menedéket lelve az eső elől. Délben esernyővel járjuk be a Vaurenard kastély kertjét, élvezve a friss illatokat. Délután a Sainte-Agathe kápolna felé vesszük az irányt a párás dűlők között. Az estét az Église Saint-Curé-d'Ars belső terében zárjuk, ahol szárazon pihenhetjük ki a nap fáradalmait.",
+            "ro": "Dimineața începe la adăpost în Église Notre-Dame. La prânz, ne plimbăm cu umbrela prin parcul castelului Vaurenard. După-amiaza vizităm Chapelle Sainte-Agathe, în timp ce ploaia îmbracă podgoriile în ceață deasă. Seara se încheie liniștit la Église Saint-Curé-d'Ars, unde putem admira arhitectura în interiorul primitor și uscat.",
+            "en": "The morning begins sheltered inside Église Notre-Dame. At noon, we stroll through Vaurenard Castle park with an umbrella. In the afternoon, we head to Chapelle Sainte-Agathe as the rain wraps the vineyards in mist. The evening ends peacefully at Église Saint-Curé-d'Ars, where the dry interior allows us to appreciate the local religious heritage."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum als ersten trockenen Stopp; die Akustik bei Regen ist besonders meditativ und beruhigend.",
+                "hu": "Használja ki a templom belső terét első száraz állomásként; az eső kopogása a tetőn különleges, meditatív hangulatot áraszt.",
+                "ro": "Folosiți interiorul splendid ca primă oprire uscată; acustica în timpul ploii este deosebit de meditativă și liniștitoare.",
+                "en": "Use the magnificent interior as your first dry stop; the acoustics during rainfall are particularly meditative and calming."
+              }
+            },
+            {
+              "name": {
+                "de": "Vaurenard Castle",
+                "hu": "Vaurenard Castle",
+                "ro": "Vaurenard Castle",
+                "en": "Vaurenard Castle"
+              },
+              "tip_5lang": {
+                "de": "Die gepflasterten Wege können rutschig sein; tragen Sie festes Schuhwerk und bewundern Sie die dramatische Optik des nassen Mauerwerks.",
+                "hu": "A köves utak csúszósak lehetnek, így viseljen stabil cipőt; a vizes kőfalak ilyenkor mutatják meg legdrámaibb arcukat.",
+                "ro": "Potecile pavate pot fi alunecoase; purtați încălțăminte aderentă și admirați aspectul dramatic al zidăriei umede.",
+                "en": "The paved paths can be slippery; wear sturdy shoes and admire the dramatic look of the wet stonework in the garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Agathe",
+                "hu": "Chapelle Sainte-Agathe",
+                "ro": "Chapelle Sainte-Agathe",
+                "en": "Chapelle Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Der Ausblick auf die Weinberge wirkt im Regen mystisch; halten Sie unter dem Dachvorsprung inne, um das Panorama trocken zu genießen.",
+                "hu": "A szőlőültetvények látványa esőben misztikus; pihenjen meg az eresz alatt, hogy szárazon élvezhesse a panorámát.",
+                "ro": "Vedere asupra podgoriilor pare mistică în ploaie; opriți-vă sub streșină pentru a vă bucura de panoramă fără a vă uda.",
+                "en": "The view over the vineyards looks mystical in the rain; pause under the eaves to enjoy the panorama while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des droits de l'enfant",
+                "hu": "Jardin des droits de l'enfant",
+                "ro": "Jardin des droits de l'enfant",
+                "en": "Jardin des droits de l'enfant"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen; die herbstlichen Farben leuchten bei Nässe besonders kräftig und fotogen.",
+                "hu": "Keressen menedéket a nagy fák lombjai alatt; a levelek színei nedvesen sokkal intenzívebbek és fotogénebbek.",
+                "ro": "Căutați adăpost sub copacii mari; culorile parcului sunt mult mai vibrante și fotogenice atunci când sunt ude.",
+                "en": "Seek shelter under the large trees; the park's colors are much more vibrant and photogenic when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Curé-d'Ars",
+                "hu": "Église Saint-Curé-d'Ars",
+                "ro": "Église Saint-Curé-d'Ars",
+                "en": "Église Saint-Curé-d'Ars"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss, um die Kleidung zu trocknen; genießen Sie die Stille der modernen Kapelle fernab des prasselnden Regens.",
+                "hu": "Tökéletes zárópont a ruhák megszárításához; élvezze a modern kápolna csendjét távol a kinti eső kopogásától.",
+                "ro": "Un punct final perfect pentru a vă usca hainele; bucurați-vă de liniștea capelei moderne, departe de ploaia de afară.",
+                "en": "A perfect final point to dry off; enjoy the silence of the modern chapel away from the pitter-patter of the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Église Notre-Dame. Mittags wärmen wir uns bei einem kurzen Spaziergang am Schloss Vaurenard auf. Am Nachmittag nutzen wir das schwindende Licht für den Weg zur Sainte-Agathe Kapelle. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir die Église Saint-Curé-d'Ars pünktlich zur stimmungsvollen blauen Stunde.",
+            "hu": "A fagyos reggel az Église Notre-Dame-nál indul. Délben a Vaurenard kastélynál tett rövid séta alatt próbálunk felmelegedni. Délután kihasználjuk a fogyatkozó fényt a Sainte-Agathe kápolna felé. Mivel a nap 17:00 körül már lebukik, az Église Saint-Curé-d'Ars templomot éppen a hangulatos kék órában érjük el.",
+            "ro": "O dimineață geroasă începe la Église Notre-Dame. La prânz, ne încălzim în timpul unei scurte plimbări la castelul Vaurenard. După-amiaza profităm de lumina slabă pentru drumul spre capela Sainte-Agathe. Deoarece soarele apune deja în jur de ora 17:00, ajungem la Église Saint-Curé-d'Ars exact la ora albastră.",
+            "en": "A frosty morning starts at Église Notre-Dame. At noon, we warm up during a brisk walk at Vaurenard Castle. In the afternoon, we take advantage of the fading light for the path to Sainte-Agathe. As the sun sets around 17:00, we reach Église Saint-Curé-d'Ars just in time for the atmospheric blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da Steinkirchen im Winter sehr kühl sind; die klare Winterluft lässt die Fassade hell erstrahlen.",
+                "hu": "Öltözzön rétegesen, mert a kőtemplomok télen nagyon hűvösek; a tiszta téli levegőben a homlokzat fehéren ragyog.",
+                "ro": "Purtați haine groase, deoarece bisericile de piatră sunt răcoroase iarna; aerul curat de iarnă face ca fațada să strălucească.",
+                "en": "Wear warm layers as stone churches are very cool in winter; the clear winter air makes the facade shine brightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Vaurenard Castle",
+                "hu": "Vaurenard Castle",
+                "ro": "Vaurenard Castle",
+                "en": "Vaurenard Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kahle, majestätische Architektur des Schlosses; die kahlen Bäume geben den Blick auf Details frei, die im Sommer verborgen sind.",
+                "hu": "Csodálja meg a kastély fenséges, zord téli arcát; a kopár fák olyan részleteket engednek látni, amiket a lombkorona nyáron elfed.",
+                "ro": "Admirați arhitectura maiestuoasă a castelului; copacii golași dezvăluie detalii care sunt ascunse de frunziș în timpul verii.",
+                "en": "Admire the majestic winter look of the castle; the bare trees reveal architectural details hidden by foliage in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Agathe",
+                "hu": "Chapelle Sainte-Agathe",
+                "ro": "Chapelle Sainte-Agathe",
+                "en": "Chapelle Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:00 Uhr hierher, um den Wintersonnenuntergang über dem Beaujolais zu erleben; die Farben sind im Winter besonders intensiv.",
+                "hu": "Érkezzen 16:00 előtt, hogy lássa a téli naplementét a Beaujolais felett; a színek ilyenkor a legintenzívebbek.",
+                "ro": "Veniți aici înainte de ora 16:00 pentru a vedea apusul de iarnă peste Beaujolais; culorile sunt deosebit de intense în acest sezon.",
+                "en": "Arrive here before 16:00 to catch the winter sunset over the Beaujolais; the sky colors are exceptionally intense in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des droits de l'enfant",
+                "hu": "Jardin des droits de l'enfant",
+                "ro": "Jardin des droits de l'enfant",
+                "en": "Jardin des droits de l'enfant"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, zügiger Spaziergang hält die Körperwärme aufrecht; achten Sie auf gefrorene Stellen auf den Wegen.",
+                "hu": "Egy rövid, tempós séta segít megőrizni a testhőt; ügyeljen a jeges foltokra a park sétányain.",
+                "ro": "O plimbare scurtă și rapidă ajută la menținerea căldurii corporale; atenție la porțiunile înghețate de pe alei.",
+                "en": "A short, brisk walk will help maintain body heat; watch out for frozen patches on the park paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Curé-d'Ars",
+                "hu": "Église Saint-Curé-d'Ars",
+                "ro": "Église Saint-Curé-d'Ars",
+                "en": "Église Saint-Curé-d'Ars"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Beleuchtung wirkt in der frühen Dunkelheit besonders einladend; ein ruhiger Ort zur inneren Einkehr vor dem Abend.",
+                "hu": "A modern világítás a korai sötétségben különösen hívogató; csendes hely a belső elcsendesedéshez az este előtt.",
+                "ro": "Iluminatul modern este deosebit de primitor în întunericul timpuriu; un loc liniștit pentru reflecție înainte de seară.",
+                "en": "The modern lighting is particularly inviting in the early darkness; a quiet place for inner reflection before the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Ismerje meg Gleizét kerékpárral, amellyel könnyedén navigálhat a bájos templomok, a kastélypark és a festői kápolnák között, miközben élvezi a friss levegőt.",
         "ro": "Experimentați Gleizé pe bicicletă pentru a naviga fără efort între bisericile fermecătoare, parcul castelului și capelele pitorești ale orașului, bucurându-vă de aerul curat.",
         "en": "Experience Gleizé on a bike to effortlessly navigate between the charming churches, the castle park, and the town's picturesque chapels while enjoying the fresh air."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Tour an der Église Notre-Dame. Die Fahrt zum Schloss Vaurenard erfordert Vorsicht auf nassen Straßen. Mittags suchen wir Schutz an der Chapelle Sainte-Agathe. Am Nachmittag radeln wir vorsichtig durch den Jardin des droits de l'enfant und beenden die Tour über Saint-Gilles bis zur Chapelle du Château de Saint-Fonds bei abnehmender Sicht.",
+            "hu": "Az eső ellenére az Église Notre-Dame-tól indulunk. A Vaurenard kastélyig vezető út óvatosságot igényel a vizes aszfalton. Délben a Sainte-Agathe kápolnánál keresünk fedezéket. Délután óvatosan gurulunk át a Jardin des droits de l'enfant parkon, majd Saint-Gilles érintésével érjük el a Saint-Fonds kastély kápolnáját a szürkületben.",
+            "ro": "În ciuda ploii, începem turul la Église Notre-Dame. Drumul către castelul Vaurenard necesită prudență pe carosabilul umed. La prânz, căutăm adăpost la capela Sainte-Agathe. După-amiaza pedalăm cu grijă prin Jardin des droits de l'enfant și încheiem turul prin Saint-Gilles până la capela castelului Saint-Fonds.",
+            "en": "Despite the rain, we start the tour at Église Notre-Dame. The ride to Vaurenard Castle requires caution on wet roads. At noon, we seek shelter at Chapelle Sainte-Agathe. In the afternoon, we cycle carefully through Jardin des droits de l'enfant and finish the tour via Saint-Gilles to Chapelle du Château de Saint-Fonds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie losfahren; das Kopfsteinpflaster vor der Kirche wird bei Nässe extrem glatt.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a templom előtti macskaköves burkolat vizesen rendkívül csúszóssá válik.",
+                "ro": "Verificați frânele înainte de a pleca; pavajul din fața bisericii devine extrem de alunecos când este ud.",
+                "en": "Check your brakes before setting off; the cobblestones in front of the church become extremely slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Vaurenard Castle",
+                "hu": "Vaurenard Castle",
+                "ro": "Vaurenard Castle",
+                "en": "Vaurenard Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vordach; die Auffahrt zum Schloss ist steil und bei Regen rutschgefährdet.",
+                "hu": "Parkolja le kerékpárját egy előtető alá; a kastélyhoz vezető feljáró meredek és esőben csúszásveszélyes.",
+                "ro": "Parcați bicicleta sub o copertină; drumul spre castel este abrupt și periculos în condiții de ploaie.",
+                "en": "Park your bike under a canopy; the driveway to the castle is steep and prone to slipping in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Agathe",
+                "hu": "Chapelle Sainte-Agathe",
+                "ro": "Chapelle Sainte-Agathe",
+                "en": "Chapelle Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Hügel als Aussichtspunkt, aber achten Sie auf Pfützen in den Kurven bei der Abfahrt.",
+                "hu": "Használja a dombtetőt kilátópontként, de a lefelé vezető úton ügyeljen a kanyarokban megbújó tócsákra.",
+                "ro": "Folosiți dealul ca punct de observație, dar aveți grijă la bălțile din curbe în timpul coborârii.",
+                "en": "Use the hilltop as a viewpoint, but watch out for deep puddles in the corners during the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des droits de l'enfant",
+                "hu": "Jardin des droits de l'enfant",
+                "ro": "Jardin des droits de l'enfant",
+                "en": "Jardin des droits de l'enfant"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen, um Fußgänger mit Regenschirmen nicht zu gefährden; der Boden ist weich.",
+                "hu": "Hajtson lassan a parki utakon, hogy ne veszélyeztesse az esernyős gyalogosokat; a talaj ilyenkor felázhat.",
+                "ro": "Mergeți încet pe aleile parcului pentru a nu periclita pietonii cu umbrele; solul poate fi moale.",
+                "en": "Ride slowly on the park paths to avoid endangering pedestrians with umbrellas; the ground can be soft."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Curé-d'Ars",
+                "hu": "Église Saint-Curé-d'Ars",
+                "ro": "Église Saint-Curé-d'Ars",
+                "en": "Église Saint-Curé-d'Ars"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihren Sattel trocken, bevor Sie weiterfahren; die moderne Kirche bietet einen guten Windschutz.",
+                "hu": "Törölje szárazra a nyerget, mielőtt tovább indul; a modern templom fala jó szélfogóként szolgál.",
+                "ro": "Ștergeți șaua înainte de a pleca mai departe; biserica modernă oferă o bună protecție împotriva vântului.",
+                "en": "Wipe your saddle dry before continuing; the modern church building provides good wind protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gilles",
+                "hu": "Église Saint-Gilles",
+                "ro": "Église Saint-Gilles",
+                "en": "Église Saint-Gilles"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße zur Kirche kann bei Regen verschmutzt sein; achten Sie auf Steine und Schlamm auf der Fahrbahn.",
+                "hu": "A templomhoz vezető keskeny út esőben hordalékos lehet; figyeljen a sárra és a kavicsokra az aszfalton.",
+                "ro": "Drumul îngust spre biserică poate fi murdar în ploaie; atenție la noroi și pietriș pe carosabil.",
+                "en": "The narrow road to the church can be messy in the rain; watch out for mud and gravel on the pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Château de Saint-Fonds",
+                "hu": "Chapelle du Château de Saint-Fonds",
+                "ro": "Chapelle du Château de Saint-Fonds",
+                "en": "Chapelle du Château de Saint-Fonds"
+              },
+              "tip_5lang": {
+                "de": "Ein würdiger Abschluss; stellen Sie sicher, dass Ihre Regenbekleidung noch dicht hält, bevor Sie den Rückweg antreten.",
+                "hu": "Méltó befejezés; győződjön meg róla, hogy esőruhája még jól bírja, mielőtt elindulna visszafelé.",
+                "ro": "Un final pe măsură; asigurați-vă că pelerina de ploaie este încă etanșă înainte de a porni pe drumul de întoarcere.",
+                "en": "A worthy finish; make sure your rain gear is still holding up well before starting your journey back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei klarer Kälte starten wir die Radtour an der Église Notre-Dame. Der Fahrtwind ist eisig, also sind Handschuhe Pflicht. Mittags erreichen wir die Chapelle Sainte-Agathe für einen schnellen Panoramablick. Am Nachmittag geht es durch den winterlichen Jardin des droits de l'enfant und weiter über Saint-Gilles zur Chapelle du Château de Saint-Fonds, bevor uns das Tageslicht verlässt.",
+            "hu": "Tiszta, hideg időben indulunk az Église Notre-Dame-tól. A menetszél jeges, így a kesztyű kötelező. Délben a Sainte-Agathe kápolnánál állunk meg egy gyors panorámára. Délután a téli Jardin des droits de l'enfant parkon keresztül tekerünk Saint-Gilles felé a Saint-Fonds kastély kápolnájáig, még mielőtt teljesen ránk sötétedne.",
+            "ro": "Pe un frig pătrunzător, începem turul de la Église Notre-Dame. Vântul este înghețat, deci mănușile sunt obligatorii. La prânz ajungem la capela Sainte-Agathe pentru o vedere panoramică rapidă. După-amiaza traversăm Jardin des droits de l'enfant spre Saint-Gilles și capela castelului Saint-Fonds înainte de lăsarea întunericului.",
+            "en": "In clear, cold weather, we start the bike tour at Église Notre-Dame. The wind chill is icy, so gloves are mandatory. At noon, we reach Chapelle Sainte-Agathe for a quick panoramic view. In the afternoon, we cycle through the wintry Jardin des droits de l'enfant towards Saint-Gilles and Saint-Fonds before daylight fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln vor der Abfahrt auf; die kalte Luft kann die Gelenke beim Radfahren belasten.",
+                "hu": "Melegítse be izmait indulás előtt; a hideg levegő megviselheti az ízületeket kerékpározás közben.",
+                "ro": "Încălziți-vă mușchii înainte de plecare; aerul rece poate afecta articulațiile în timpul pedalatului.",
+                "en": "Warm up your muscles before starting; the cold air can be tough on your joints while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Vaurenard Castle",
+                "hu": "Vaurenard Castle",
+                "ro": "Vaurenard Castle",
+                "en": "Vaurenard Castle"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Reifglätte auf den schattigen Abschnitten der Schlossallee; fahren Sie besonders vorsichtig.",
+                "hu": "Ügyeljen a zúzmarás, csúszós szakaszokra a kastély sugárútjának árnyékos részein; hajtson fokozott óvatossággal.",
+                "ro": "Atenție la porțiunile cu chiciură de pe secțiunile umbrite ale aleii castelului; pedalați cu prudență sporită.",
+                "en": "Watch out for frosty, slippery patches on the shaded sections of the castle avenue; ride with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Agathe",
+                "hu": "Chapelle Sainte-Agathe",
+                "ro": "Chapelle Sainte-Agathe",
+                "en": "Chapelle Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und kann blenden; eine Sonnenbrille hilft, die Strecke sicher im Blick zu behalten.",
+                "hu": "A téli nap alacsonyan jár és vakíthat; egy napszemüveg segít, hogy biztonságosan lássa az utat.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor; o pereche de ochelari de soare vă va ajuta să vedeți drumul în siguranță.",
+                "en": "The winter sun sits low and can be blinding; sunglasses will help you keep a safe eye on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des droits de l'enfant",
+                "hu": "Jardin des droits de l'enfant",
+                "ro": "Jardin des droits de l'enfant",
+                "en": "Jardin des droits de l'enfant"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können im Winter hart gefroren sein; nutzen Sie die befestigten Pfade für besseren Grip.",
+                "hu": "Az utak télen keményre fagyhatnak; a jobb tapadás érdekében maradjon a kijelölt, szilárd burkolatú ösvényeken.",
+                "ro": "Aleile pot fi înghețate bocnă; folosiți potecile pavate pentru o aderență mai bună a cauciucurilor.",
+                "en": "The paths can be frozen hard in winter; stay on the paved sections for better tire grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Curé-d'Ars",
+                "hu": "Église Saint-Curé-d'Ars",
+                "ro": "Église Saint-Curé-d'Ars",
+                "en": "Église Saint-Curé-d'Ars"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie Ihre Beleuchtung; im Winter bricht die Dämmerung hier sehr schnell herein.",
+                "hu": "Ellenőrizze a világítását; télen a szürkület ezen a környéken rendkívül gyorsan beköszönt.",
+                "ro": "Verificați sistemul de iluminare; iarna, amurgul se lasă foarte repede în această zonă.",
+                "en": "Check your lights; in winter, twilight sets in very quickly in this part of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gilles",
+                "hu": "Église Saint-Gilles",
+                "ro": "Église Saint-Gilles",
+                "en": "Église Saint-Gilles"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich bei der Abfahrt warm; der Fahrtwind kühlt den Körper im Winter extrem schnell aus.",
+                "hu": "Tartsa magát melegen a lejtőn; a menetszél télen rendkívül gyorsan lehűti a testet gurulás közben.",
+                "ro": "Mențineți-vă căldura la coborâre; vântul răcește corpul extrem de repede în timpul iernii.",
+                "en": "Keep yourself warm during the descent; the wind chill cools the body down extremely fast in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Château de Saint-Fonds",
+                "hu": "Chapelle du Château de Saint-Fonds",
+                "ro": "Chapelle du Château de Saint-Fonds",
+                "en": "Chapelle du Château de Saint-Fonds"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um kurz innezuhalten, bevor die Kälte den Rückweg zur Herausforderung macht.",
+                "hu": "Szép hely egy rövid megállásra, mielőtt a fagyos esti levegő kihívássá tenné a hazafelé vezető utat.",
+                "ro": "Un loc frumos pentru o scurtă oprire înainte ca frigul serii să facă drumul de întoarcere o provocare.",
+                "en": "A beautiful spot for a quick pause before the freezing evening air makes the return trip a challenge."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Ez az autós túra maximalizálja az idejét Gleizében, lehetővé téve a kompakt központ és a távolabbi történelmi kincsek, például a pompás Bellerive udvarház meglátogatását.",
         "ro": "Acest tur cu mașina vă maximizează timpul în Gleizé, permițându-vă să vizitați atât centrul compact, cât și comori istorice mai îndepărtate, cum ar fi magnificul conac Bellerive.",
         "en": "This car tour maximizes your time in Gleizé, allowing you to visit both the compact center and more distant historical treasures like the magnificent Bellerive Manor."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom trockenen Auto aus genießen wir die Fahrt zur Église Notre-Dame. Die Route zum Schloss Vaurenard führt durch verregnete Weinberge. Mittags besichtigen wir die Chapelle Sainte-Agathe und den Jardin des droits de l'enfant. Am Nachmittag geht es weiter über Saint-Gilles zum Bellerive Manor, bevor wir den Tag an der Chapelle du Château de Saint-Fonds beenden.",
+            "hu": "A száraz autóból élvezzük az utat az Église Notre-Dame felé. A Vaurenard kastélyhoz vezető út elmosódott szőlőtáblák között visz. Délben a Sainte-Agathe kápolnát és a Jardin des droits de l'enfant parkot érintjük. Délután Saint-Gilles és a Bellerive Manor következik, majd a Saint-Fonds kastély kápolnájánál zárjuk a napot.",
+            "ro": "Din mașina confortabilă, ne bucurăm de drumul spre Église Notre-Dame. Traseul către castelul Vaurenard trece prin podgorii ploioase. La prânz vizităm capela Sainte-Agathe și Jardin des droits de l'enfant. După-amiaza continuăm spre Saint-Gilles și Bellerive Manor, încheind ziua la capela castelului Saint-Fonds.",
+            "en": "From the comfort of our car, we enjoy the drive to Église Notre-Dame. The route to Vaurenard Castle passes through rainy vineyards. At noon, we visit Chapelle Sainte-Agathe and Jardin des droits de l'enfant. In the afternoon, we continue via Saint-Gilles to Bellerive Manor, ending the day at Chapelle du Château de Saint-Fonds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken in die Kirche zu gelangen; die Sicht beim Einparken kann durch Regen eingeschränkt sein.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be; a tolatáskor ügyeljen az eső miatt korlátozott látási viszonyokra.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în biserică; vizibilitatea la parcare poate fi redusă din cauza ploii.",
+                "en": "Park close to the entrance to reach the church dry; be careful as visibility while parking can be limited by rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Vaurenard Castle",
+                "hu": "Vaurenard Castle",
+                "ro": "Vaurenard Castle",
+                "en": "Vaurenard Castle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze am Schlossgelände; die Zufahrt ist gut befestigt, aber Vorsicht vor tiefen Pfützen.",
+                "hu": "Használja a kastély melletti parkolókat; az út jól kiépített, de a mélyebb tócsákban felúszhat az autó.",
+                "ro": "Folosiți locurile de parcare de la castel; drumul este bine amenajat, dar atenție la bălțile adânci.",
+                "en": "Use the parking spaces at the castle; the access road is well-paved, but watch out for deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Agathe",
+                "hu": "Chapelle Sainte-Agathe",
+                "ro": "Chapelle Sainte-Agathe",
+                "en": "Chapelle Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Wege zur Kapelle erfordern bei Regen volle Konzentration; genießen Sie den Ausblick direkt aus dem Fenster.",
+                "hu": "A kápolnához vezető keskeny utak esőben teljes koncentrációt igényelnek; élvezze a kilátást közvetlenül az ablakból.",
+                "ro": "Drumurile înguste spre capelă necesită concentrare maximă în ploaie; admirați vederea direct de la fereastra mașinii.",
+                "en": "The narrow paths to the chapel require full concentration in the rain; enjoy the view directly from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des droits de l'enfant",
+                "hu": "Jardin des droits de l'enfant",
+                "ro": "Jardin des droits de l'enfant",
+                "en": "Jardin des droits de l'enfant"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie den Wagen auf einem befestigten Platz ab; die unbefestigten Ränder können bei Dauerregen aufweichen.",
+                "hu": "Szilárd burkolatú helyen állítsa le az autót; a füves útpadka tartós esőben felázhat és csúszóssá válhat.",
+                "ro": "Lăsați mașina pe un loc pavat; marginile neasfaltate ale drumului se pot înmuia în timpul ploilor prelungite.",
+                "en": "Leave the car on a paved spot; the unpaved roadside can soften and become slippery during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Curé-d'Ars",
+                "hu": "Église Saint-Curé-d'Ars",
+                "ro": "Église Saint-Curé-d'Ars",
+                "en": "Église Saint-Curé-d'Ars"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur ist ein idealer Kurzstopp im Regen; nutzen Sie die Parkbucht direkt gegenüber.",
+                "hu": "A modern épület ideális rövid megálló esőben; használja a közvetlenül szemben található parkolóöblöt.",
+                "ro": "Arhitectura modernă este un punct ideal de oprire în ploaie; folosiți parcarea situată direct vizavi.",
+                "en": "The modern architecture is an ideal short stop in the rain; use the parking bay located directly opposite."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gilles",
+                "hu": "Église Saint-Gilles",
+                "ro": "Église Saint-Gilles",
+                "en": "Église Saint-Gilles"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Spritzwasser von entgegenkommenden Fahrzeugen in den engen Kurven rund um die Kirche.",
+                "hu": "Ügyeljen a szembejövő járművek által felcsapott vízre a templom körüli szűk kanyarokban.",
+                "ro": "Atenție la apa împroșcată de vehiculele care vin din sens opus în curbele strânse din jurul bisericii.",
+                "en": "Watch out for spray from oncoming vehicles in the tight curves surrounding the church area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellerive Manor",
+                "hu": "Bellerive Manor",
+                "ro": "Bellerive Manor",
+                "en": "Bellerive Manor"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus wirkt bei Regen besonders herrschaftlich; die Zufahrt bietet genug Platz zum bequemen Wenden.",
+                "hu": "Az udvarház esőben is méltóságteljes; a bejáratnál elegendő hely van a kényelmes megforduláshoz.",
+                "ro": "Conacul pare deosebit de impunător în ploaie; aleea de acces oferă destul loc pentru o întoarcere comodă.",
+                "en": "The manor looks particularly grand in the rain; the driveway offers enough space for a comfortable turnaround."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Château de Saint-Fonds",
+                "hu": "Chapelle du Château de Saint-Fonds",
+                "ro": "Chapelle du Château de Saint-Fonds",
+                "en": "Chapelle du Château de Saint-Fonds"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Abschluss der Tour; lassen Sie die Scheibenwischer kurz ruhen und genießen Sie die Stille im Wagen.",
+                "hu": "A túra nyugodt lezárása; pihentesse meg az ablaktörlőket és élvezze az autóban uralkodó csendet.",
+                "ro": "Un final relaxat al turului; lăsați ștergătoarele să se odihnească și bucurați-vă de liniștea din mașină.",
+                "en": "A relaxed end to the tour; give the wipers a rest and enjoy the quiet atmosphere inside the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In der beheizten Kabine erkunden wir die winterliche Region um Gleizé. Von der Église Notre-Dame geht es zum Schloss Vaurenard, wo der Frost die Bäume verziert. Mittags besuchen wir die Sainte-Agathe Kapelle und den Jardin des droits de l'enfant. Nachmittags folgen Saint-Gilles, Bellerive Manor und der stimmungsvolle Abschluss am Schloss Saint-Fonds.",
+            "hu": "A fűtött utastérből fedezzük fel Gleizé téli vidékét. Az Église Notre-Dame után a Vaurenard kastély következik, ahol a dér díszíti a fákat. Délben a Sainte-Agathe kápolnát és a Jardin des droits de l'enfant parkot látogatjuk meg. Délután Saint-Gilles és Bellerive Manor után a Saint-Fonds kastélynál zárunk.",
+            "ro": "În cabina încălzită, explorăm regiunea iernatică din jurul Gleizé. De la Église Notre-Dame mergem la castelul Vaurenard, unde promoroaca împodobește copacii. La prânz vizităm capela Sainte-Agathe și Jardin des droits de l'enfant. După-amiaza urmează Saint-Gilles, Bellerive Manor și finalul la castelul Saint-Fonds.",
+            "en": "In the heated cabin, we explore the wintry region around Gleizé. From Église Notre-Dame, we head to Vaurenard Castle, where frost decorates the trees. At noon, we visit Sainte-Agathe and Jardin des droits de l'enfant. The afternoon includes Saint-Gilles, Bellerive Manor, and an atmospheric finish at Saint-Fonds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz; die Morgensonne braucht lange, um die Schattenplätze zu tauen.",
+                "hu": "Ügyeljen a jeges foltokra a parkolóban; a reggeli napnak idő kell, mire felolvasztja az árnyékos helyeket.",
+                "ro": "Atenție la porțiunile înghețate din parcare; soarele dimineții are nevoie de timp pentru a dezgheța locurile umbrite.",
+                "en": "Watch out for icy spots in the parking lot; the morning sun takes a while to thaw the shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Vaurenard Castle",
+                "hu": "Vaurenard Castle",
+                "ro": "Vaurenard Castle",
+                "en": "Vaurenard Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Frost tückisch sein; nutzen Sie die niedrigen Gänge und bewundern Sie die schneebedeckten Türme.",
+                "hu": "A feljáró fagyban trükkös lehet; használjon alacsony sebességfokozatot és csodálja meg a hófödte tornyokat.",
+                "ro": "Drumul de acces poate fi înșelător pe timp de îngheț; folosiți treptele inferioare de viteză și admirați turnurile înzăpezite.",
+                "en": "The driveway can be tricky in the frost; use low gears and admire the majestic snow-dusted towers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Agathe",
+                "hu": "Chapelle Sainte-Agathe",
+                "ro": "Chapelle Sainte-Agathe",
+                "en": "Chapelle Sainte-Agathe"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen; die Winterluft ist hier oben sehr rein.",
+                "hu": "Ne járassa feleslegesen a motort, miközben a kilátást élvezi; a téli levegő itt fent rendkívül tiszta és friss.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce admirați vederea; aerul de iarnă este deosebit de curat aici sus.",
+                "en": "Don't leave the engine idling while enjoying the view; the winter air up here is exceptionally clean and crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin des droits de l'enfant",
+                "hu": "Jardin des droits de l'enfant",
+                "ro": "Jardin des droits de l'enfant",
+                "en": "Jardin des droits de l'enfant"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für ein paar Winterfotos aus dem warmen Wagen heraus; die klare Luft sorgt für weite Fernsicht.",
+                "hu": "Ideális hely néhány téli fotóhoz a meleg autóból; a tiszta levegő miatt ilyenkor ellátni a távoli hegyekig.",
+                "ro": "Un loc ideal pentru câteva fotografii de iarnă din mașina caldă; aerul curat oferă o vizibilitate excelentă la distanță.",
+                "en": "An ideal spot for some winter photos from the warm car; the clear air provides excellent long-distance visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Curé-d'Ars",
+                "hu": "Église Saint-Curé-d'Ars",
+                "ro": "Église Saint-Curé-d'Ars",
+                "en": "Église Saint-Curé-d'Ars"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Heizung in der Kirche macht diesen Stopp besonders angenehm; ein warmer Ort für eine kurze Rast.",
+                "hu": "A templom modern fűtése különösen kellemessé teszi ezt a megállót; meleg hely egy rövid pihenőhöz.",
+                "ro": "Sistemul modern de încălzire din biserică face această oprire foarte plăcută; un loc cald pentru un scurt popas.",
+                "en": "The modern heating in the church makes this stop particularly pleasant; a warm place for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gilles",
+                "hu": "Église Saint-Gilles",
+                "ro": "Église Saint-Gilles",
+                "en": "Église Saint-Gilles"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Fahrt; Kälte lässt ihn sinken, was auf den kurvigen Straßen wichtig ist.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást; a hidegben csökkenhet az érték, ami fontos a kanyargós utakon.",
+                "ro": "Verificați presiunea în anvelope înainte de drum; frigul o poate reduce, ceea ce este important pe drumurile virajate.",
+                "en": "Check your tire pressure before setting off; the cold can cause it to drop, which is critical on these winding roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Bellerive Manor",
+                "hu": "Bellerive Manor",
+                "ro": "Bellerive Manor",
+                "en": "Bellerive Manor"
+              },
+              "tip_5lang": {
+                "de": "Das Anwesen wirkt im Winterlicht besonders edel; achten Sie auf Wildwechsel in der Dämmerung auf den Zufahrtswegen.",
+                "hu": "Az ingatlan téli fényben különösen előkelő; ügyeljen a vadakra a szürkületben a bekötőutakon.",
+                "ro": "Proprietatea arată deosebit de elegant în lumina iernii; atenție la animalele sălbatice în amurg pe drumurile de acces.",
+                "en": "The estate looks particularly noble in the winter light; watch out for wildlife at dusk on the access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle du Château de Saint-Fonds",
+                "hu": "Chapelle du Château de Saint-Fonds",
+                "ro": "Chapelle du Château de Saint-Fonds",
+                "en": "Chapelle du Château de Saint-Fonds"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den stimmungsvollen Tagesausklang; stellen Sie sicher, dass Ihre Scheiben frostfrei sind für den Rückweg.",
+                "hu": "Élvezze a hangulatos naplementét; győződjön meg róla, hogy az ablakok jégmentesek a hazaúthoz.",
+                "ro": "Bucurați-vă de finalul atmosferic al zilei; asigurați-vă că geamurile sunt dezghețate pentru drumul de întoarcere.",
+                "en": "Enjoy the atmospheric end of the day; make sure your windows are frost-free for the return journey."
+              }
+            }
+          ]
+        }
       }
     }
   }

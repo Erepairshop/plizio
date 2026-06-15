@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Szent Miklós-templom csendes látogatásával.\nDélben merüljön el a helyi kultúrában az UFO ifjúsági központban.\nDélután élvezze a természetjárást a Kühbergl hegyen és a békés Moarberger Weiher biotópban.\nZárja az estét a Cron4 pihentető termálmedencéiben lazítva.",
         "ro": "Începeți dimineața cu o vizită liniștită la Sfântul Nicolae.\nLa prânz, pătrundeți în cultura locală vibrantă la centrul de tineret UFO.\nDupă-amiaza, bucurați-vă de o plimbare în natură traversând Kühbergl și serena rezervație Moarberger Weiher.\nÎncheiați seara relaxându-vă în piscinele termale de la Cron4.",
         "en": "Start your morning with a quiet visit to St. Nikolaus, admiring its art.\nBy midday, dive into the vibrant local culture at the UFO youth center.\nIn the afternoon, enjoy a nature walk traversing Kühbergl and the serene Moarberger Weiher biotope.\nConclude your evening unwinding in the relaxing thermal pools of Cron4."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der St. Nikolaus Kirche. Mittags bietet das UFO-Zentrum einen trockenen Ort für Kultur. Nachmittags führt der Weg durch den nebligen Wald am Kühbergl, wo festes Schuhwerk wichtig ist. Der Abend endet perfekt in den warmen Innenbecken des Cron4, während draußen der Regen gegen die Scheiben prasselt.",
+            "hu": "Reggel a templom belső tere nyújt menedéket a szemerkélő eső elől. Délben az UFO központ fedett tereiben merülhetünk el a kultúrában. Délután a vizes erdő illata kárpótol a sár közepette a Kühbergl dombon. Estére a Cron4 wellness részlege a tökéletes választás, ahol teljesen átmelegedhetünk a vizes nap után.",
+            "ro": "Dimineața începe la adăpost în biserica Sf. Nicolae. La prânz, centrul UFO oferă un spațiu uscat pentru explorare culturală. După-amiaza, potecile din pădurea Kühbergl pot fi noroioase, deci purtați încălțăminte impermeabilă. Seara se încheie relaxant la piscinele interioare de la Cron4, departe de ploaia de afară.",
+            "en": "The morning starts sheltered inside St. Nikolaus church. At noon, the UFO center provides a dry haven for cultural activities. In the afternoon, the forest trails at Kühbergl offer misty views, but waterproof boots are essential. The evening ends perfectly at the Cron4 spa, where you can stay warm and dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Nikolaus - San Nicolò",
+                "hu": "St. Nikolaus - San Nicolò",
+                "ro": "St. Nikolaus - San Nicolò",
+                "en": "St. Nikolaus - San Nicolò"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken im trockenen Innenraum; nutzen Sie die Zeit für Details, bis der Schauer nachlässt, und schütteln Sie Schirme am Eingang gut aus.",
+                "hu": "A templom freskói között szárazon maradhatunk; érdemes megcsodálni a részleteket, amíg elvonul egy kiadósabb zápor, a bejáratnál pedig rázzuk le az ernyőket.",
+                "ro": "Admirați frescele în interiorul uscat; folosiți timpul pentru a studia detaliile până trece ploaia și scuturați bine umbrelele la intrare.",
+                "en": "Admire the interior frescoes while staying dry; take your time with the details until the rain eases up, and remember to shake your umbrella at the door."
+              }
+            },
+            {
+              "name": {
+                "de": "Jugend- und Kulturzentrum UFO",
+                "hu": "Jugend- und Kulturzentrum UFO",
+                "ro": "Jugend- und Kulturzentrum UFO",
+                "en": "Jugend- und Kulturzentrum UFO"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Rückzugsort bei Regen mit vielen Indoor-Aktivitäten; prüfen Sie das aktuelle Programm für kurzfristige Veranstaltungen in den warmen Hallen.",
+                "hu": "Ideális búvóhely esőben a sok belső programmal; nézzük meg az aktuális kiállításokat a fűtött csarnokokban, amíg kint vigasztalanul esik az eső.",
+                "ro": "Un refugiu ideal pe ploaie, cu multe activități interioare; verificați programul actual pentru evenimente în sălile calde cât timp afară plouă.",
+                "en": "A perfect rainy day retreat with plenty of indoor activities; check the current schedule for events in the warm halls while waiting for better weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kühbergl - Monte Spalliera",
+                "hu": "Kühbergl - Monte Spalliera",
+                "ro": "Kühbergl - Monte Spalliera",
+                "en": "Kühbergl - Monte Spalliera"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege können rutschig sein; nutzen Sie die überdachten Aussichtspunkte für einen Blick auf die Rienz und tragen Sie unbedingt griffige Wanderschuhe.",
+                "hu": "Az erdei utak csúszósak lehetnek; használjuk a fedett kilátópontokat a Rienza folyó megfigyelésére, és viseljünk bordázott talpú, vízálló bakancsot.",
+                "ro": "Potecile din pădure pot fi alunecoase; folosiți punctele de observație acoperite pentru a vedea râul Rienza și purtați bocanci cu talpă aderentă.",
+                "en": "Forest paths can be slippery; use the covered viewpoints to enjoy the Rienza river views and make sure to wear waterproof hiking boots with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Biotop Moarberger Weiher",
+                "hu": "Biotop Moarberger Weiher",
+                "ro": "Biotop Moarberger Weiher",
+                "en": "Biotop Moarberger Weiher"
+              },
+              "tip_5lang": {
+                "de": "Das Biotop wirkt im Regen mystisch; beobachten Sie die Regentropfen auf der Wasseroberfläche von den geschützten Holzhütten am Ufer aus.",
+                "hu": "A biotóp misztikus arcát mutatja esőben; figyeljük a vízen táncoló esőcseppeket a part menti védett faházakból, így szárazon maradhatunk.",
+                "ro": "Biotopul pare mistic în ploaie; observați picăturile pe suprafața apei din foișoarele de lemn de pe mal pentru a rămâne uscați în timpul vizitei.",
+                "en": "The biotope looks mystical in the rain; watch the raindrops on the water surface from the sheltered wooden huts on the shore to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Cron4",
+                "hu": "Cron4",
+                "ro": "Cron4",
+                "en": "Cron4"
+              },
+              "tip_5lang": {
+                "de": "Das beste Ziel bei Schlechtwetter; entspannen Sie in der weitläufigen Saunalandschaft und genießen Sie das warme Wasser, während es draußen stürmt.",
+                "hu": "A legjobb célpont rosszidőben; lazítsunk a hatalmas szaunavilágban és élvezzük a meleg vizet, miközben odakint dörög az ég vagy szakad az eső.",
+                "ro": "Cea mai bună destinație pe vreme rea; relaxați-vă în zona vastă de saune și bucurați-vă de apa caldă în timp ce afară plouă torențial.",
+                "en": "The ultimate bad weather destination; relax in the extensive sauna area and enjoy the warm water while the rain pours down outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen führt zur St. Nikolaus Kirche. Mittags wärmt man sich im UFO-Zentrum bei heißem Tee auf. Der verschneite Kühbergl bietet eine herrliche Aussicht, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend im Cron4 ist durch das warme Thermalwasser besonders wohltuend bei Frost.",
+            "hu": "A fagyos reggel a Szent Miklós templomnál indul. Délben az UFO központ melegében pihenhetünk meg egy tea mellett. A havas Kühbergl gyönyörű panorámát nyújt, de a 17 órai napnyugta előtt érdemes leérni a dombról. Este a Cron4 forró termálvize esik a legjobban a mínuszok után.",
+            "ro": "O dimineață geroasă de iarnă începe la biserica Sf. Nicolae. La prânz, încălziți-vă în centrul UFO cu un ceai fierbinte. Dealul Kühbergl înzăpezit oferă o priveliște superbă înainte de apusul de la ora 17:00. Seara la Cron4 este perfectă pentru a vă încălzi în apele termale.",
+            "en": "A crisp winter morning begins at St. Nikolaus church. At noon, warm up at the UFO center with a hot drink. The snowy Kühbergl hill offers stunning views, but head back before the 17:00 sunset. The evening at Cron4 is especially pleasant with hot thermal pools in the freezing air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Nikolaus - San Nicolò",
+                "hu": "St. Nikolaus - San Nicolò",
+                "ro": "St. Nikolaus - San Nicolò",
+                "en": "St. Nikolaus - San Nicolò"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche strahlt im Winter eine besondere Stille aus; achten Sie auf die vereisten Stufen am Kircheneingang und ziehen Sie sich warm an.",
+                "hu": "A templom télen különleges nyugalmat áraszt; vigyázzunk a templomlépcső jegesedésére, és öltözzünk rétegesen a hideg kőfalak között.",
+                "ro": "Biserica emană o liniște aparte iarna; atenție la treptele înghețate de la intrare și îmbrăcați-vă gros pentru interiorul răcoros.",
+                "en": "The church has a special quiet atmosphere in winter; watch out for icy steps at the entrance and dress in warm layers for the cold interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Jugend- und Kulturzentrum UFO",
+                "hu": "Jugend- und Kulturzentrum UFO",
+                "ro": "Jugend- und Kulturzentrum UFO",
+                "en": "Jugend- und Kulturzentrum UFO"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher, beheizter Treffpunkt im Winter; nutzen Sie die Cafeteria für eine Aufwärmpause, bevor Sie den Spaziergang im Freien fortsetzen.",
+                "hu": "Hangulatos, fűtött találkozóhely a téli hidegben; használjuk ki a kávézót egy rövid melegedőre, mielőtt folytatnánk utunkat a jeges szabadba.",
+                "ro": "Un punct de întâlnire primitor și încălzit iarna; folosiți cafeneaua pentru o pauză de încălzire înainte de a continua plimbarea în aer liber.",
+                "en": "A cozy, heated meeting point in the winter cold; stop by the cafeteria for a warm-up break before continuing your walk in the frosty air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kühbergl - Monte Spalliera",
+                "hu": "Kühbergl - Monte Spalliera",
+                "ro": "Kühbergl - Monte Spalliera",
+                "en": "Kühbergl - Monte Spalliera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verschneite Bruneck; die Pfade können gefroren sein, daher sind Schuhe mit gutem Profil und Wanderstöcke ratsam.",
+                "hu": "Élvezzük a havas Brunico látványát a magasból; az ösvények lefagyhatnak, ezért jó profilú bakancs és túrabot használata kifejezetten ajánlott.",
+                "ro": "Bucurați-vă de vederea orașului Bruneck înzăpezit; potecile pot fi înghețate, deci recomandăm încălțăminte cu profil bun și bețe de trekking.",
+                "en": "Enjoy the view of snowy Brunico from above; the paths may be frozen, so boots with good tread and walking poles are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Biotop Moarberger Weiher",
+                "hu": "Biotop Moarberger Weiher",
+                "ro": "Biotop Moarberger Weiher",
+                "en": "Biotop Moarberger Weiher"
+              },
+              "tip_5lang": {
+                "de": "Der Weiher ist oft zugefroren und von Raureif bedeckt; betreten Sie das Eis jedoch nicht und nutzen Sie das frühe Licht für Winterfotos.",
+                "hu": "A tó gyakran befagy és zúzmara borítja a nádat; ne menjünk a jégre, de használjuk ki a súroló téli fényt a hangulatos fotók készítéséhez.",
+                "ro": "Iazul este adesea înghețat și acoperit de chiciură; nu intrați pe gheață, dar profitați de lumina iernii pentru fotografii deosebite.",
+                "en": "The pond is often frozen and covered in frost; do not step on the ice, but use the low winter light for beautiful atmospheric photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Cron4",
+                "hu": "Cron4",
+                "ro": "Cron4",
+                "en": "Cron4"
+              },
+              "tip_5lang": {
+                "de": "Das Außenbecken ist im Winter ein Erlebnis; der Dampf des warmen Wassers in der kalten Luft ist magisch, besonders vor dem frühen Sonnenuntergang.",
+                "hu": "A kültéri medence télen igazi élmény; a meleg víz gőze a hideg levegőben varázslatos, különösen a korai, 17 óra körüli naplemente idején.",
+                "ro": "Piscina exterioară este o experiență unică iarna; aburul apei calde în aerul rece este magic, mai ales înainte de apusul timpuriu.",
+                "en": "The outdoor pool is a great experience in winter; the steam from the warm water in the cold air is magical, especially around the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen a friss reggeli levegőn az egyedülálló Kramoos biotóp felfedezéséhez.\nDél körül merüljön el a történelemben az Archeo és a Villa Rustica területén.\nDélután kerékpározzon a békés Szent Kereszt és a festői Reipertingermoos biotóp felé.\nEste találjon nyugalomra a festői Kappler Stöckl útszéli szentélynél.",
         "ro": "Pedalați în aerul proaspăt al dimineții pentru a explora unicul Biotop Kramoos.\nÎn jurul prânzului, scufundați-vă în istorie la Archeo și la apropiata Villa Rustica.\nPetreceți după-amiaza mergând spre pașnicul Hl. Kreuz și Biotopul Reipertingermoos.\nSpre seară, găsiți un moment de liniște la altarul Kappler Stöckl.",
         "en": "Pedal out in the fresh morning air to explore the unique Biotop Kramoos.\nAround noon, immerse yourself in local history at Archeo and the nearby Villa Rustica.\nSpend the afternoon cycling to the peaceful Hl. Kreuz and the scenic Biotop Reipertingermoos.\nAs evening falls, find a quiet moment at the Kappler Stöckl shrine."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt zum Kramoos-Biotop erfordert gute Schutzbleche. Mittags erkunden wir die historischen Stätten Archeo und Villa Rustica unter Regenponchos. Nachmittags wird es bei der Hl. Kreuz Kirche und im Reipertingermoos rutschig. Der Tag endet bei der Kappler Stöckl Kapelle, während die Räder im Trockenen parken.",
+            "hu": "A vizes tekerés a Kramoos biotóphoz sárvédőt igényel. Délben az Archeo és Villa Rustica romjait esőponchóban érdemes felfedezni. Délután a Hl. Kreuz és a Reipertingermoos ösvényei csúszóssá válnak, óvatosan kanyarodjunk. A nap a Kappler Stöckl kápolnánál zárul, miközben a bringák a fedett alatt pihennek.",
+            "ro": "O plimbare umedă spre biotopul Kramoos necesită aripi la bicicletă. La prânz explorăm siturile Archeo și Villa Rustica sub pelerine de ploaie. După-amiaza, potecile de la Reipertingermoos devin alunecoase. Ziua se încheie la capela Kappler Stöckl, în timp ce parcăm bicicletele la loc uscat.",
+            "en": "A wet ride to Kramoos biotope requires mudguards on your bike. At noon, explore Archeo and Villa Rustica under rain ponchos. In the afternoon, paths around Reipertingermoos become slippery, so cycle with care. The day ends at Kappler Stöckl chapel, keeping the bikes in a dry spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Biotop Kramoos",
+                "hu": "Biotop Kramoos",
+                "ro": "Biotop Kramoos",
+                "en": "Biotop Kramoos"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Holzstege, die sehr glatt sein können; fahren Sie langsam und nutzen Sie wasserfeste Packtaschen für Ihre Ausrüstung.",
+                "hu": "Vigyázzunk a vizes fapallókra, amik rendkívül csúszósak lehetnek; lassítsunk le, és használjunk vízhatlan táskákat a felszerelésünk védelmére.",
+                "ro": "Atenție la podețele de lemn umede care pot fi foarte alunecoase; pedalați încet și folosiți genți impermeabile pentru echipament.",
+                "en": "Be careful on wet wooden walkways as they can be extremely slippery; slow down and use waterproof panniers to protect your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Archeo",
+                "hu": "Archeo",
+                "ro": "Archeo",
+                "en": "Archeo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem plötzlichen Schauer Schutz unter den archäologischen Überdachungen; die Infotafeln sind auch bei Regen gut lesbar und trocken.",
+                "hu": "Hirtelen zápor esetén keressünk menedéket a régészeti védőtetők alatt; az információs táblák esőben is jól olvashatóak és szárazon maradnak.",
+                "ro": "În caz de ploaie bruscă, adăpostiți-vă sub acoperișurile sitului; panourile informative sunt lizibile și protejate chiar și pe timp de ploaie.",
+                "en": "In case of a sudden shower, seek shelter under the archaeological coverings; the info boards remain dry and readable even during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Rustica",
+                "hu": "Villa Rustica",
+                "ro": "Villa Rustica",
+                "en": "Villa Rustica"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauern sind bei Nässe empfindlich; bleiben Sie auf den befestigten Wegen und tragen Sie eine reflektierende Regenjacke für bessere Sicht.",
+                "hu": "Az ókori falak vizesen sérülékenyek; maradjunk a kijelölt utakon, és viseljünk fényvisszaverő esőkabátot a jobb láthatóság érdekében.",
+                "ro": "Zidurile antice sunt sensibile la umiditate; rămâneți pe potecile amenajate și purtați o pelerină reflectorizantă pentru vizibilitate sporită.",
+                "en": "Ancient walls are sensitive when wet; stay on the designated paths and wear a reflective rain jacket for better visibility on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Hl. Kreuz",
+                "hu": "Hl. Kreuz",
+                "ro": "Hl. Kreuz",
+                "en": "Hl. Kreuz"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als kurzen Unterstand; prüfen Sie Ihre Bremsen, da Felgenbremsen bei Nässe eine längere Bremswirkung haben.",
+                "hu": "Használjuk a templombejáratot rövid pihenőre az eső elől; ellenőrizzük a fékeket, mert a vizes felniken a fékút jelentősen meghosszabbodik.",
+                "ro": "Folosiți intrarea bisericii ca scurt adăpost; verificați frânele, deoarece jantele umede necesită o distanță mai mare de frânare.",
+                "en": "Use the church porch as a quick shelter; check your brakes frequently, as wet rims significantly increase your stopping distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Biotop Reipertingermoos",
+                "hu": "Biotop Reipertingermoos",
+                "ro": "Biotop Reipertingermoos",
+                "en": "Biotop Reipertingermoos"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann tiefgründig und matschig sein; Schutzbleche sind hier unerlässlich, um Schlammspritzer auf der Kleidung zu vermeiden.",
+                "hu": "A talaj mély és sáros lehet ezen a szakaszon; a sárvédő itt elengedhetetlen, hogy elkerüljük a felcsapódó vizet és sarat az öltözetünkön.",
+                "ro": "Solul poate fi moale și noroios în această zonă; aripile sunt esențiale aici pentru a evita stropirea hainelor cu noroi în timpul mersului.",
+                "en": "The ground can be soft and muddy in this area; mudguards are essential here to prevent mud splashes on your clothing while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Kappler Stöckl",
+                "hu": "Kappler Stöckl",
+                "ro": "Kappler Stöckl",
+                "en": "Kappler Stöckl"
+              },
+              "tip_5lang": {
+                "de": "Nach der Tour die Fahrradkette reinigen und ölen, um Rost durch Regenwasser zu vermeiden; die kleine Kapelle bietet einen spirituellen Abschluss.",
+                "hu": "A túra után érdemes letisztítani és beolajozni a láncot a rozsda ellen; a kis kápolna csendes és száraz zárópontja a vizes kerékpározásnak.",
+                "ro": "După tură, curățați și ungeți lanțul bicicletei pentru a evita rugina; mica chapelă oferă un final spiritual și uscat zilei ploioase.",
+                "en": "Clean and oil your chain after the ride to prevent rust from rainwater; the small chapel offers a quiet and dry end to your cycling day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start führt durch das Kramoos-Biotop, wo Vorsicht bei Glatteis geboten ist. Mittags erkunden wir Archeo und Villa Rustica in dicker Winterkleidung. Nachmittags geht es zügig zum Reipertingermoos, um das Tageslicht zu nutzen. Die Tour endet am Kappler Stöckl kurz vor der frühen Dämmerung um 17:00 Uhr.",
+            "hu": "A fagyos reggel a Kramoos biotópon át vezet, ahol vigyázni kell a jeges foltokra. Délben az Archeo és Villa Rustica romjait vastag öltözetben járjuk be. Délután tempósan haladunk a Reipertingermoos felé, hogy kihasználjuk a fényt. A túra a Kappler Stöcklnél ér véget a 17 órai sötétedés előtt.",
+            "ro": "Un început înghețat prin biotopul Kramoos, unde atenția la gheață este esențială. La prânz explorăm Archeo și Villa Rustica bine înfofoliți. După-amiaza pedalăm spre Reipertingermoos pentru a profita de lumină. Turul se încheie la Kappler Stöckl înainte de lăsarea întunericului la ora 17:00.",
+            "en": "A frosty start through Kramoos biotope requires caution on icy patches. At noon, explore Archeo and Villa Rustica in warm winter gear. In the afternoon, cycle briskly to Reipertingermoos to make the most of the daylight. The tour ends at Kappler Stöckl just before the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Biotop Kramoos",
+                "hu": "Biotop Kramoos",
+                "ro": "Biotop Kramoos",
+                "en": "Biotop Kramoos"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen; reduzieren Sie den Reifendruck leicht für besseren Grip auf Schnee oder festgefrorenem Boden und tragen Sie Handschuhe.",
+                "hu": "Vigyázzunk a befagyott tócsákra; csökkentsük kicsit a guminyomást a jobb tapadásért a jeges talajon, és ne felejtsük el a meleg kesztyűt.",
+                "ro": "Atenție la bălțile înghețate; reduceți ușor presiunea în anvelope pentru aderență mai bună pe solul înghețat și purtați mănuși groase.",
+                "en": "Watch out for frozen puddles; slightly reduce tire pressure for better grip on icy ground and don't forget to wear warm thermal gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Archeo",
+                "hu": "Archeo",
+                "ro": "Archeo",
+                "en": "Archeo"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen wirken unter einer Schneedecke magisch; planen Sie kürzere Standzeiten ein, um nicht auszukühlen, und bewegen Sie sich regelmäßig.",
+                "hu": "Az ásatások varázslatosak hótakaró alatt; tervezzünk rövidebb megállókat, hogy ne hűljünk ki, és tartsuk mozgásban a végtagjainkat a hidegben.",
+                "ro": "Săpăturile par magice sub zăpada proaspătă; planificați opriri scurte pentru a nu vă răci și mențineți-vă în mișcare constantă.",
+                "en": "The excavations look magical under a blanket of snow; plan shorter stops to avoid getting too cold and keep your body moving to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Rustica",
+                "hu": "Villa Rustica",
+                "ro": "Villa Rustica",
+                "en": "Villa Rustica"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Wege oft geräumt, aber schattige Stellen bleiben glatt; tragen Sie winddichte Kleidung, da der Fahrtwind die Kälte verstärkt.",
+                "hu": "Télen az utak gyakran tisztítottak, de az árnyékos részek jegesek maradnak; viseljünk szélálló ruházatot, mert a menetszél fokozza a hidegérzetet.",
+                "ro": "Iarna drumurile sunt curățate, dar zonele umbrite rămân înghețate; purtați haine rezistente la vânt, deoarece curentul amplifică senzația de frig.",
+                "en": "In winter, paths are often cleared, but shaded spots remain icy; wear windproof clothing as the wind chill factor is high while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Hl. Kreuz",
+                "hu": "Hl. Kreuz",
+                "ro": "Hl. Kreuz",
+                "en": "Hl. Kreuz"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet Schutz vor kaltem Wind; überprüfen Sie Ihre Beleuchtung, da es im Winter schon am frühen Nachmittag dämmerig werden kann.",
+                "hu": "A kápolna védelmet nyújt a hideg szél ellen; ellenőrizzük a világítást, mert télen már kora délután szürkület lehet az árnyékos völgyekben.",
+                "ro": "Capela oferă protecție împotriva vântului rece; verificați luminile bicicletei, deoarece iarna se întunecă devreme în zonele muntoase.",
+                "en": "The chapel provides a quick shield from the cold wind; check your bike lights as it can get dusky early in the afternoon during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Biotop Reipertingermoos",
+                "hu": "Biotop Reipertingermoos",
+                "ro": "Biotop Reipertingermoos",
+                "en": "Biotop Reipertingermoos"
+              },
+              "tip_5lang": {
+                "de": "Die Winterlandschaft im Moor ist einzigartig; bleiben Sie auf den Hauptwegen, um nicht im tiefen Schnee steckenzubleiben, und wärmen Sie die Füße.",
+                "hu": "A téli táj a lápon egyedülálló látvány; maradjunk a főúton, hogy ne akadjunk el a mély hóban, és mozgassuk meg a lábujjakat a keringésért.",
+                "ro": "Peisajul de iarnă din mlaștină este unic; rămâneți pe drumurile principale pentru a nu rămâne blocați în zăpadă și mențineți picioarele calde.",
+                "en": "The winter scenery in the moor is unique; stay on the main paths to avoid getting stuck in deep snow and keep your toes moving for circulation."
+              }
+            },
+            {
+              "name": {
+                "de": "Kappler Stöckl",
+                "hu": "Kappler Stöckl",
+                "ro": "Kappler Stöckl",
+                "en": "Kappler Stöckl"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, wenn die Kälte stark zunimmt; eine heiße Dusche nach der Rückkehr ist die beste Belohnung für Winterradler.",
+                "hu": "Fejezzük be a túrát 17 óra előtt, amikor a hideg hirtelen fokozódik; a visszaérkezés utáni forró zuhany a legjobb jutalom a téli bringásnak.",
+                "ro": "Încheiați turul înainte de ora 17:00, când gerul se intensifică; un duș fierbinte la întoarcere este cea mai bună răsplată pentru efort.",
+                "en": "Finish your tour before 17:00 as the temperature drops quickly; a hot shower after returning is the best reward for winter cyclists."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Vezessen a Baggalocke rekreációs területre egy frissítő szabadtéri reggelért.\nEbédidőben fedezze fel a Georgener Möser biotóp változatos növényvilágát.\nDélután látogasson el a Szent Miklós és a fenséges Szent Péter és Pál templomhoz.\nZárja a napot egy hosszú, megnyugtató estével a Cron4 wellness központban.",
         "ro": "Conduceți spre zona de agrement Baggalocke pentru o dimineață răcoroasă în aer liber.\nLa prânz, descoperiți flora diversă de la Biotopul Georgener Möser.\nDupă-amiaza, vizitați istoricul Sf. Nicolae și biserica maiestuoasă Sf. Petru și Pavel.\nÎncheiați-vă ziua cu o seară lungă și relaxantă la centrul de wellness Cron4.",
         "en": "Drive to the Baggalocke recreation area for a refreshing morning outdoors.\nBy lunchtime, discover the diverse flora at the Biotop Georgener Möser.\nIn the afternoon, visit the historic St. Nikolaus and the majestic St. Peter und Paul church.\nFinish your day with a long, soothing evening at the Cron4 wellness center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag startet bei der Baggalocke, bequem mit dem Auto erreichbar. Mittags erkunden wir das Georgener Möser Biotop, wobei das Auto als trockener Rückzugsort dient. Nachmittags besuchen wir die Kirchen St. Nikolaus und St. Peter und Paul. Der Abend findet seinen entspannten Ausklang im Cron4, während es draußen weiter regnet.",
+            "hu": "Az esős nap a Baggalockénál indul, amely autóval kényelmesen megközelíthető. Délben a Georgener Möser biotópnál az autó száraz bázisként szolgál a séták között. Délután a Szent Miklós, majd a Szent Péter és Pál templomokat látogatjuk meg. Az este a Cron4-ben zárul, ahol a wellness segít elfelejteni a kinti esőt.",
+            "ro": "O zi ploioasă începe la Baggalocke, accesibilă ușor cu mașina. La prânz explorăm biotopul Georgener Möser, mașina fiind un refugiu uscat între plimbări. După-amiaza vizităm bisericile Sf. Nicolae și Sf. Petru și Pavel. Seara se încheie relaxant la Cron4, în timp ce afară plouă în continuare.",
+            "en": "A rainy day starts at Baggalocke, easily reachable by car. At noon, explore the Georgener Möser biotope, using the car as a dry base between short walks. In the afternoon, visit St. Nikolaus and St. Peter and Paul churches. The evening ends perfectly at Cron4 spa, escaping the persistent rain outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baggalocke",
+                "hu": "Baggalocke",
+                "ro": "Baggalocke",
+                "en": "Baggalocke"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken zum Ziel zu kommen; bei Regen ist hier weniger los, was eine ruhige Atmosphäre für Fotos garantiert.",
+                "hu": "Parkoljunk a bejárathoz minél közelebb, hogy szárazon jussunk be; esőben kevesebben vannak, így nyugodtan fotózhatunk a tó partján.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscați la destinație; pe ploaie este mai puțină aglomerație, oferind o atmosferă liniștită pentru poze.",
+                "en": "Park as close to the entrance as possible to stay dry; it's less crowded in the rain, ensuring a peaceful atmosphere for your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio",
+                "hu": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio",
+                "ro": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio",
+                "en": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen für einen Spaziergang; das Auto ermöglicht einen schnellen Wechsel zum nächsten Ziel, falls der Regen stärker wird.",
+                "hu": "Használjuk ki a rövid esőszüneteket egy-egy sétára; az autó lehetővé teszi a gyors váltást, ha az eső ismét intenzívebbé válna a lápon.",
+                "ro": "Profitați de scurte pauze de ploaie pentru o plimbare; mașina permite o schimbare rapidă de traseu dacă ploaia devine prea puternică.",
+                "en": "Take advantage of short breaks in the rain for quick walks; the car allows for a swift move to the next stop if the weather worsens."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Nikolaus - San Nicolò",
+                "hu": "St. Nikolaus - San Nicolò",
+                "ro": "St. Nikolaus - San Nicolò",
+                "en": "St. Nikolaus - San Nicolò"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um im Trockenen die Kunstschätze zu bewundern; achten Sie auf die Parkzonen in der Nähe, um lange Fußwege im Regen zu vermeiden.",
+                "hu": "Tökéletes megálló a művészeti kincsek szárazon történő megcsodálására; figyeljünk a közeli parkolózónákra, hogy elkerüljük a hosszú gyaloglást.",
+                "ro": "O oprire perfectă pentru a admira comorile de artă la loc uscat; atenție la zonele de parcare din apropiere pentru a evita plimbările lungi în ploaie.",
+                "en": "A perfect stop to admire art treasures while staying dry; look for parking zones nearby to avoid long walks in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Peter und Paul",
+                "hu": "St. Peter und Paul",
+                "ro": "St. Peter und Paul",
+                "en": "St. Peter und Paul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Innenraum, während es draußen regnet; im Auto können Sie nasse Kleidung bequem gegen trockene Wechselkleidung tauschen.",
+                "hu": "Élvezzük a belső tér csendjét, amíg kint esik; az autóban kényelmesen átöltözhetünk száraz ruhába, ha a korábbi séták során megáztunk volna.",
+                "ro": "Bucurați-vă de liniștea interiorului în timp ce plouă afară; în mașină puteți schimba confortabil hainele umede cu unele uscate de rezervă.",
+                "en": "Enjoy the silence of the interior while it rains outside; you can conveniently change into dry clothes in the car if you got wet earlier."
+              }
+            },
+            {
+              "name": {
+                "de": "Cron4",
+                "hu": "Cron4",
+                "ro": "Cron4",
+                "en": "Cron4"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Cron4, um den Regentag entspannt zu beenden; die warme Wellnesswelt lässt Sie das graue Wetter draußen schnell vergessen.",
+                "hu": "Parkoljunk közvetlenül a Cron4 mellett, hogy kényelmesen zárjuk a napot; a meleg wellness világ hamar elfeledteti a kinti szürke, vizes időt.",
+                "ro": "Parcați chiar lângă Cron4 pentru a încheia ziua relaxat; universul cald de wellness vă va face să uitați rapid de vremea gri de afară.",
+                "en": "Park right next to Cron4 to end your day comfortably; the warm wellness world will make you forget the grey, wet weather outside quickly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip beginnt an der Baggalocke mit Blick auf die verschneite Landschaft. Mittags führt die Fahrt zum Georgener Möser Biotop, ideal für kurze Fotostopps. Nachmittags besuchen wir die beheizten Kirchen St. Nikolaus und St. Peter und Paul. Der Abend endet bei frostigen Temperaturen im dampfenden Außenbecken des Cron4.",
+            "hu": "A téli autós túra a Baggalockénál indul a havas táj látványával. Délben a Georgener Möser biotóphoz hajtunk, amely ideális rövid fotómegállókra a hidegben. Délután a Szent Miklós és Szent Péter és Pál templomok csendjét élvezzük. Az este a Cron4 gőzölgő kültéri medencéjében ér véget a fagyos időben.",
+            "ro": "O excursie de iarnă cu mașina începe la Baggalocke cu vedere spre peisajul înzăpezit. La prânz mergem spre biotopul Georgener Möser pentru scurte opriri foto. După-amiaza vizităm bisericile Sf. Nicolae și Sf. Petru și Pavel. Seara se încheie în piscina exterioară aburindă de la Cron4.",
+            "en": "A winter road trip starts at Baggalocke with views of the snowy landscape. At noon, drive to Georgener Möser biotope, perfect for short photo stops in the cold. In the afternoon, enjoy the quiet of St. Nikolaus and St. Peter and Paul churches. The evening ends in the steaming outdoor pool of Cron4."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baggalocke",
+                "hu": "Baggalocke",
+                "ro": "Baggalocke",
+                "en": "Baggalocke"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schneeglätte auf den Zufahrtswegen; genießen Sie den Blick aus dem warmen Auto, bevor Sie einen kurzen Spaziergang am See wagen.",
+                "hu": "Vigyázzunk a havas utakra a bekötőúton; élvezzük a kilátást a fűtött autóból, mielőtt bevállalnánk egy rövid, frissítő sétát a tó partján.",
+                "ro": "Atenție la drumurile înzăpezite la acces; bucurați-vă de priveliște din mașina încălzită înainte de a face o scurtă plimbare pe malul lacului.",
+                "en": "Watch out for snowy conditions on the access roads; enjoy the view from your warm car before venturing out for a short, brisk walk by the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio",
+                "hu": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio",
+                "ro": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio",
+                "en": "Biotop Georgener Möser - Biotopo Paludi di S. Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Moorlandschaft ist ein tolles Fotomotiv; lassen Sie das Auto nicht zu lange im Schatten parken und nutzen Sie die Wintersonne.",
+                "hu": "A befagyott lápi táj kiváló fotótéma; ne parkoljunk túl sokáig árnyékos helyen, és használjuk ki a ritka téli napsütést a sétához.",
+                "ro": "Peisajul înghețat al mlaștinii este un subiect foto excelent; nu parcați mașina prea mult timp la umbră și profitați de soarele de iarnă.",
+                "en": "The frozen moorland is a great photo subject; avoid parking the car in shaded spots for too long and make the most of the rare winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Nikolaus - San Nicolò",
+                "hu": "St. Nikolaus - San Nicolò",
+                "ro": "St. Nikolaus - San Nicolò",
+                "en": "St. Nikolaus - San Nicolò"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer kultureller Stopp im Winter; achten Sie auf geräumte Parkplätze in der Nähe und betreten Sie die Kirche für einen Moment der Stille.",
+                "hu": "Rövid kulturális megálló a téli hidegben; keressünk letakarított parkolót a közelben, és térjünk be a templomba egy csendes elmélkedésre.",
+                "ro": "O scurtă oprire culturală iarna; căutați locuri de parcare curățate de zăpadă în apropiere și intrați în biserică pentru un moment de liniște.",
+                "en": "A brief cultural stop in the winter chill; look for cleared parking spaces nearby and enter the church for a quiet moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Peter und Paul",
+                "hu": "St. Peter und Paul",
+                "ro": "St. Peter und Paul",
+                "en": "St. Peter und Paul"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem kalten Winterwind; planen Sie den Besuch vor 16:30 Uhr ein, da es danach schnell dunkel und kälter wird.",
+                "hu": "A templom védelmet nyújt a metsző téli szél elől; tervezzük a látogatást 16:30 előttre, mert utána gyorsan sötétedik és hűl a levegő.",
+                "ro": "Biserica oferă adăpost împotriva vântului tăios de iarnă; planificați vizita înainte de 16:30, deoarece apoi se întunecă și se răcește rapid.",
+                "en": "The church provides shelter from the biting winter wind; plan your visit before 16:30, as it gets dark and much colder very quickly after that."
+              }
+            },
+            {
+              "name": {
+                "de": "Cron4",
+                "hu": "Cron4",
+                "ro": "Cron4",
+                "en": "Cron4"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss für einen Wintertag; genießen Sie den Kontrast zwischen heißem Thermalwasser und der eiskalten Winterluft im Freien.",
+                "hu": "A téli nap tökéletes zárása; élvezzük a forró termálvíz és a jéghideg kinti levegő közötti különleges kontrasztot a kültéri medencében.",
+                "ro": "Finalul perfect pentru o zi de iarnă; bucurați-vă de contrastul dintre apa termală fierbinte și aerul rece de afară în piscina exterioară.",
+                "en": "The perfect end to a winter day; enjoy the unique contrast between the hot thermal water and the freezing outdoor air in the pool."
+              }
+            }
+          ]
+        }
       }
     }
   }

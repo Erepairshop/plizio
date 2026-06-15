@@ -183,6 +183,224 @@
         "hu": "Reggel: Kezdje a napot a történelmi városfalak mentén. Olyan bástyákat fog meglátogatni, amelyek egykor megvédték Campechét a könyörtelen kalóztámadásoktól.\nDélben: Amikor a nap a legmagasabban jár, merüljön el a régió gazdag örökségében a Maja Építészeti Múzeumban, majd látogasson el a lenyűgöző fő katedrálishoz.\nDélután: Sétáljon át a város színes gyarmati központján, és álljon meg a Casa 6-nál, hogy megtapasztalja a 19. századi elit fényűző életmódját.\nEste: Zárja a gyalogos túrát egy történelmi bástyában található botanikus kert buja növényzete között, élvezve a hűvös alkonyati szellőt.",
         "ro": "Dimineața: Începeți ziua urmărind zidurile istorice. Veți vizita o serie de bastioane care au protejat cândva orașul Campeche de atacurile necruțătoare ale piraților.\nPrânz: Când soarele arde tare, aprofundați moștenirea la Muzeul de Arhitectură Maya, înainte de a vizita superba catedrală principală.\nDupă-amiaza: Plimbați-vă prin inima colonială colorată a orașului, oprindu-vă la Casa 6 pentru a experimenta stilul de viață opulent al elitei din secolul 19.\nSeara: Încheiați turul pietonal printre verdeața luxuriantă a Grădinii Botanice aflate într-un bastion istoric, bucurându-vă de briza răcoroasă de seară.",
         "en": "Morning: Start your day tracing the historic city walls. You will visit a series of bastions that once protected Campeche from relentless pirate attacks.\nMidday: As the sun peaks, delve into the rich heritage of the region at the Maya Architecture Museum, marveling at artifacts before visiting the Cathedral.\nAfternoon: Wander through the colorful colonial heart of the city, stopping at Casa 6 to experience the opulent lifestyle of the 19th-century elite.\nEvening: Conclude your walking tour amid the lush greenery of the Jardín Botánico inside a historic bastion, enjoying the cool twilight ocean breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie unter den schützenden Arkaden des Hauptplatzes, während die tropischen Regengüsse die historischen Mauern der Bastionen in glänzendes Grau hüllen. Mittags bieten die Museen in den Forts trockene Zuflucht und faszinierende Einblicke in die Maya-Kultur. Am Nachmittag laden die überdachten Gänge der Kathedrale und Casa 6 zum Verweilen ein, bevor der Tag in den feuchten, aromatischen Gärten bei nachlassendem Regen endet.",
+            "hu": "Kezdje a napot a főtér védelmet nyújtó árkádjai alatt, miközben a trópusi záporok csillogó szürkére festik a bástyák történelmi falait. Délben a belső múzeumok nyújtanak száraz menedéket és lenyűgöző betekintést a maja kultúrába. Délután a katedrális és a Casa 6 fedett folyosói hívogatnak pihenésre, mielőtt a nap a botanikus kert párás, illatos ösvényei között, az elcsendesedő esőben véget érne.",
+            "ro": "Începeți sub arcadele protectoare ale pieței principale, în timp ce aversa tropicală îmbracă zidurile istorice ale bastioanelor într-un gri strălucitor. La prânz, muzeele din forturi oferă refugiu uscat și perspective fascinante asupra culturii Maya. După-amiaza, coridoarele acoperite ale catedralei și Casa 6 vă invită la odihnă, înainte ca ziua să se încheie în grădinile umede și aromate, pe măsură ce ploaia se oprește.",
+            "en": "Start under the protective arches of the main square as tropical downpours turn the historic bastion walls into a shimmering grey. At noon, the indoor museums provide dry refuge and fascinating insights into Maya culture. In the afternoon, the covered walkways of the Cathedral and Casa 6 invite you to linger, before the day ends in the damp, aromatic gardens as the rain finally eases off."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bastion San Juan",
+                "hu": "San Juan bástya",
+                "ro": "Bastionul San Juan",
+                "en": "Baluarte de San Juan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Torbögen als Unterstand vor plötzlichen Güssen und bewundern Sie, wie der Regen die alten Verteidigungsmauern dramatisch in Szene setzt.",
+                "hu": "Használja a masszív kapuboltozatokat menedékként a hirtelen záporok elől, és csodálja meg, ahogy az eső drámai hangulatot kölcsönöz a régi védőfalaknak.",
+                "ro": "Folosiți arcadele masive ca adăpost împotriva averselor bruște și admirați modul în care ploaia pune în scenă dramatic vechile ziduri de apărare ale orașului.",
+                "en": "Use the massive archways as shelter from sudden downpours and admire how the rain dramatically sets the scene for the ancient defensive walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion Santa Rosa",
+                "hu": "Santa Rosa bástya",
+                "ro": "Bastionul Santa Rosa",
+                "en": "Baluarte de Santa Rosa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen im Inneren, um trocken zu bleiben; die dicken Steinmauern bieten perfekten Schutz vor dem lauten Prasseln des tropischen Regens.",
+                "hu": "Látogassa meg a belső kiállításokat, hogy szárazon maradjon; a vastag kőfalak tökéletes védelmet nyújtanak a trópusi eső hangos kopogása ellen.",
+                "ro": "Vizitați expozițiile din interior pentru a rămâne uscat; zidurile groase de piatră oferă o protecție perfectă împotriva ropotului puternic al ploii tropicale.",
+                "en": "Visit the interior exhibitions to stay dry; the thick stone walls provide perfect protection against the loud drumming of the tropical rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion San Carlos",
+                "hu": "San Carlos bástya",
+                "ro": "Bastionul San Carlos",
+                "en": "Baluarte de San Carlos"
+              },
+              "tip_5lang": {
+                "de": "Die unterirdischen Kasematten sind bei Regen ein faszinierender Ort; achten Sie auf den rutschigen Boden beim Abstieg in die historischen Gewölbe.",
+                "hu": "A föld alatti kazamaták esőben is lenyűgözőek; ügyeljen a csúszós padlóra, amikor leereszkedik a történelmi boltozatok közé a vihar elől.",
+                "ro": "Cazămile subterane sunt un loc fascinant pe timp de ploaie; atenție la podeaua alunecoasă când coborâți în bolțile istorice pentru a vă adăposti.",
+                "en": "The underground casemates are a fascinating place in the rain; watch out for the slippery floor when descending into the historic vaults for cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Maya-Architektur",
+                "hu": "Maja Építészeti Múzeum",
+                "ro": "Muzeul de Arhitectură Maya",
+                "en": "Maya Architecture Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Zufluchtsort; studieren Sie die detaillierten Stelen der Maya in Ruhe drinnen, während draußen der warme Regen niedergeht.",
+                "hu": "Ez a múzeum ideális menedékhely; tanulmányozza nyugodtan bent a maja sztéléket, miközben odakint a meleg trópusi eső mossa a város utcáit.",
+                "ro": "Acest muzeu este refugiul ideal; studiați în liniște stelele mayașe la interior, în timp ce afară ploaia caldă tropicală spală străzile orașului.",
+                "en": "This museum is the ideal sanctuary; study the detailed Maya stelae in peace indoors while the warm tropical rain falls on the city outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Katedrális",
+                "ro": "Catedrala Imaculatei Concepții",
+                "en": "Cathedral of Our Lady of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Decke und genießen Sie die spirituelle Stille, während das Trommeln des Regens auf dem Dach eine beruhigende Atmosphäre schafft.",
+                "hu": "Csodálja meg a pompás mennyezetet és élvezze a spirituális csendet, miközben az eső kopogása a tetőn megnyugtató és meghitt hangulatot áraszt.",
+                "ro": "Admirați tavanul magnific și bucurați-vă de liniștea spirituală, în timp ce ropotul ploii pe acoperiș creează o atmosferă liniștitoare și intimă.",
+                "en": "Admire the magnificent ceiling and enjoy the spiritual silence as the drumming of the rain on the roof creates a soothing and cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa 6",
+                "hu": "Casa 6",
+                "ro": "Casa 6",
+                "en": "Casa 6"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie in dieses aristokratische Haus; die überdachten Innenhöfe lassen Sie den Regen beobachten, ohne dabei nass zu werden oder den Charme zu verlieren.",
+                "hu": "Meneküljön be ebbe az arisztokrata házba; a fedett belső udvarok lehetővé teszik az eső megfigyelését anélkül, hogy elázna vagy elveszítené a hely varázsát.",
+                "ro": "Refugiați-vă în această casă aristocratică; curțile interioare acoperite vă permit să observați ploaia fără a vă uda sau a pierde farmecul locului.",
+                "en": "Escape into this aristocratic house; the covered inner courtyards allow you to watch the rain without getting wet or losing any of the historic charm."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten X’much haltún",
+                "hu": "X’much haltún Botanikus Kert",
+                "ro": "Grădina Botanică X’much haltún",
+                "en": "Jardín Botánico X’much haltún"
+              },
+              "tip_5lang": {
+                "de": "Die Pflanzen wirken nach dem Regen besonders lebendig; nutzen Sie die kurzen Pausen zwischen den Schauern für einen Spaziergang durch das frische Grün.",
+                "hu": "A növények eső után különösen élénknek tűnnek; használja ki a záporok közötti rövid szüneteket egy frissítő sétára a haragoszöld levelek között.",
+                "ro": "Plantele par deosebit de vii după ploaie; profitați de pauzele scurte dintre averse pentru o plimbare revigorantă printre frunzele de un verde intens.",
+                "en": "The plants look particularly vibrant after the rain; take advantage of the brief pauses between showers for a refreshing stroll through the lush greenery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Campeche bei milden Wintertemperaturen, die ideal für lange Erkundungsgänge sind. Der Morgen beginnt erfrischend auf den Stadtmauern, gefolgt von einem Besuch der Museen um die Mittagszeit. Da die Sonne bereits gegen 17 Uhr untergeht, sollten Sie die Nachmittagsstunden in den historischen Häusern und der Kathedrale nutzen. Der Abend klingt gemütlich aus, wenn die frühe Dunkelheit die beleuchteten Gassen in ein magisches Licht taucht.",
+            "hu": "Fedezze fel Campeche városát a kellemes téli hőmérsékletben, amely ideális a hosszú felfedezőutakhoz. A reggel frissítően indul a várfalakon, majd délidőben érdemes felkeresni a múzeumokat. Mivel a nap már 17 óra körül nyugovóra tér, használja ki a délutáni órákat a történelmi házakban és a katedrálisban. Az este korai sötétséggel érkezik, varázslatos fénybe vonva a kivilágított utcákat.",
+            "ro": "Experimentați Campeche la temperaturi blânde de iarnă, ideale pentru plimbări lungi de explorare. Dimineața începe revigorant pe zidurile orașului, urmată de o vizită la muzee la prânz. Deoarece soarele apune deja în jur de ora 17:00, profitați de orele după-amiezii în casele istorice și catedrală. Seara se încheie confortabil, când întunericul timpuriu scaldă străzile iluminate într-o lumină magică.",
+            "en": "Experience Campeche in mild winter temperatures, ideal for long exploratory walks. The morning starts refreshingly on the city walls, followed by a visit to the museums around noon. Since the sun sets as early as 5 PM, make the most of the afternoon hours in the historic houses and the cathedral. The evening ends comfortably as the early darkness bathes the illuminated streets in a magical light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bastion San Juan",
+                "hu": "San Juan bástya",
+                "ro": "Bastionul San Juan",
+                "en": "Baluarte de San Juan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Winterbrise auf den Festungsmauern und nutzen Sie das sanfte Morgenlicht für klare Fotos der kolonialen Architektur ohne die Sommerhitze.",
+                "hu": "Élvezze a hűvös téli szellőt a bástyafalakon, és használja ki a lágy reggeli fényeket a gyarmati építészet fotózásához a nyári hőség nélkül.",
+                "ro": "Bucurați-vă de briza răcoroasă de iarnă de pe zidurile bastionului și folosiți lumina blândă a dimineții pentru fotografii clare ale arhitecturii coloniale.",
+                "en": "Enjoy the cool winter breeze on the bastion walls and use the soft morning light for clear photos of the colonial architecture without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion Santa Rosa",
+                "hu": "Santa Rosa bástya",
+                "ro": "Bastionul Santa Rosa",
+                "en": "Baluarte de Santa Rosa"
+              },
+              "tip_5lang": {
+                "de": "Die angenehmen Temperaturen machen den Aufenthalt im Freien auf der Bastion sehr komfortabel; ideal für eine Pause, bevor die Sonne am frühen Nachmittag sinkt.",
+                "hu": "A kellemes hőmérséklet nagyon kényelmessé teszi a bástyán való tartózkodást; ideális hely egy pihenőre, mielőtt a nap kora délután alacsonyabbra kerülne.",
+                "ro": "Temperaturile plăcute fac șederea în aer liber pe bastion foarte confortabilă; este locul ideal pentru o pauză înainte ca soarele să coboare după-amiaza devreme.",
+                "en": "The pleasant temperatures make staying outdoors on the bastion very comfortable; ideal for a break before the sun gets lower in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion San Carlos",
+                "hu": "San Carlos bástya",
+                "ro": "Bastionul San Carlos",
+                "en": "Baluarte de San Carlos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die klare Wintersicht vom Dach der Bastion auf den Golf, bevor Sie in die warmen, geschützten Innenräume wechseln, wenn es kühler wird.",
+                "hu": "Használja ki a tiszta téli kilátást a bástya tetejéről az öbölre, mielőtt behúzódna a meleg, védett belső terekbe, ahogy a levegő lehűl.",
+                "ro": "Profitați de vizibilitatea clară de iarnă de pe terasa bastionului spre golf, înainte de a intra în spațiile interioare calde când se face mai răcoare.",
+                "en": "Take advantage of the clear winter views from the bastion roof over the Gulf before moving into the warm, sheltered interiors as it gets cooler."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Maya-Architektur",
+                "hu": "Maja Építészeti Múzeum",
+                "ro": "Muzeul de Arhitectură Maya",
+                "en": "Maya Architecture Museum"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist es im Museum angenehm warm; nehmen Sie sich Zeit für die Exponate, da das natürliche Winterlicht die Reliefs besonders plastisch erscheinen lässt.",
+                "hu": "Délidőben a múzeum kellemesen meleg; szánjon időt a kiállításokra, mert a természetes téli fény különösen plasztikussá teszi a domborműveket.",
+                "ro": "La prânz, muzeul este plăcut de cald; acordați-vă timp pentru exponate, deoarece lumina naturală de iarnă face basoreliefurile să pară deosebit de plastice.",
+                "en": "At noon, the museum is pleasantly warm; take your time with the exhibits as the natural winter light makes the reliefs appear especially sculptural."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Katedrális",
+                "ro": "Catedrala Imaculatei Concepții",
+                "en": "Cathedral of Our Lady of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kathedrale am späten Nachmittag, wenn die tiefe Wintersonne die Fassade in goldenes Licht taucht, kurz bevor es um 17 Uhr dunkel wird.",
+                "hu": "Látogassa meg a katedrálist késő délután, amikor az alacsonyan járó téli nap arany fénybe vonja a homlokzatot, éppen mielőtt 17 órakor besötétedik.",
+                "ro": "Vizitați catedrala după-amiaza târziu, când soarele jos de iarnă scaldă fațada în lumină aurie, chiar înainte de a se însera la ora 17:00.",
+                "en": "Visit the cathedral in the late afternoon when the low winter sun bathes the facade in golden light, just before it gets dark at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa 6",
+                "hu": "Casa 6",
+                "ro": "Casa 6",
+                "en": "Casa 6"
+              },
+              "tip_5lang": {
+                "de": "Das gemütliche Interieur bietet einen warmen Rückzugsort; genießen Sie den Blick in den Patio, während draußen die kühle Abendluft durch die Gassen zieht.",
+                "hu": "A barátságos belső terek meleg menedéket nyújtanak; élvezze a kilátást a patióra, miközben odakint a hűvös esti levegő átjárja az utcákat.",
+                "ro": "Interiorul primitor oferă un refugiu cald; bucurați-vă de vederea spre curtea interioară în timp ce afară aerul răcoros de seară pătrunde pe străduțe.",
+                "en": "The cozy interior offers a warm retreat; enjoy the view into the patio while the cool evening air begins to drift through the narrow streets outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten X’much haltún",
+                "hu": "X’much haltún Botanikus Kert",
+                "ro": "Grădina Botanică X’much haltún",
+                "en": "Jardín Botánico X’much haltún"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang hier pünktlich zum Sonnenuntergang um 17 Uhr, wenn die tropischen Pflanzen im schwindenden Licht eine geheimnisvolle Ruhe ausstrahlen.",
+                "hu": "Zárja itt a körutat pontosan a 17 órai naplementekor, amikor a trópusi növények a fogyatkozó fényben titokzatos nyugalmat árasztanak.",
+                "ro": "Încheiați turul aici exact la apusul soarelui de la ora 17:00, când plantele tropicale emană o liniște misterioasă în lumina care scade.",
+                "en": "End your tour here right at sunset at 5 PM, when the tropical plants radiate a mysterious calm in the fading winter light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Reggel: Kezdjen frissen egy pihentető kerékpározással a festői vízparti sétányon, miközben élvezi a Mexikói-öbölre nyíló pazar és széles kilátást.\nDélben: Tekerjen be a város gyarmati szívébe, ahol felfedezheti a központ leglenyűgözőbb bástyáit és legjelentősebb történelmi templomait.\nDélután: Látogasson el a keleti határ mentén található történelmi védművekhez, ahol egykor a legkeményebb kalózellenes védelem összpontosult.\nEste: Küzdje le a San Miguel erődhöz vezető emelkedőt, és jutalmazza magát lenyűgöző maja történelemmel, valamint egy csodás naplementével.",
         "ro": "Dimineața: Începeți plin de energie cu o plimbare relaxantă cu bicicleta de-a lungul promenadei pitorești, bucurându-vă de vederea la Golf.\nPrânz: Pedalați adânc în inima colonială a orașului, unde veți explora cele mai impresionante bastioane și biserici istorice din centru.\nDupă-amiaza: Vizitați sistemele defensive istorice de-a lungul graniței estice, acolo unde apărarea împotriva piraților era odinioară cea mai acerbă.\nSeara: Cuceriti urcușul pitoresc spre Fortul San Miguel și recompensați-vă cu istoria fascinantă a mayașilor și cu un apus de soare de neuitat.",
         "en": "Morning: Start fresh with a relaxing bike ride along the picturesque waterfront promenade, taking in the sweeping views of the Gulf of Mexico.\nMidday: Cycle deep into the colonial heart of the city, where you will explore the most impressive bastions and historical churches in the center.\nAfternoon: Visit the historic defensive systems along the eastern border, where the anti-pirate defense was once at its fiercest.\nEvening: Conquer the scenic climb to Fuerte San Miguel and reward yourself with fascinating Mayan history and an unforgettable coastal sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem glatten Malecon, bietet aber eine erfrischende Perspektive auf die Küste. Starten Sie morgens bei der Flagge und nutzen Sie die Bastionen als strategische Pausenpunkte bei Schauern. Mittags bieten die Kathedrale und San Pedro trockenen Halt. Der Nachmittag führt Sie zum Fort San Miguel, wo Sie den Regen über dem Ozean beobachten können, bevor Sie sicher zurückfahren.",
+            "hu": "Egy esős biciklitúra óvatosságot igényel a csúszós Maleconon, de frissítő kilátást nyújt a partpartra. Kezdje reggel a zászlónál, és használja a bástyákat stratégiai pihenőhelyként a záporok alatt. Délben a katedrális és a San Pedro bástya nyújt száraz pihenőt. Délután tekerjen el a San Miguel erődhöz, ahol megfigyelheti az óceán feletti esőt, mielőtt biztonságosan visszatérne.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență pe faleza alunecoasă, dar oferă o perspectivă revigorantă asupra coastei. Începeți dimineața la steag și folosiți bastioanele ca puncte strategice de pauză în timpul averselor. La prânz, catedrala și San Pedro oferă un popas uscat. După-amiaza vă duce la fortul San Miguel, unde puteți observa ploaia peste ocean înainte de a reveni.",
+            "en": "A bike tour in the rain requires caution on the slippery Malecon but offers a refreshing perspective on the coast. Start in the morning at the flag and use the bastions as strategic break points during showers. At noon, the Cathedral and San Pedro provide a dry stop. The afternoon leads you to Fort San Miguel, where you can watch the rain over the ocean before heading back safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumentale Flagge",
+                "hu": "Monumentális Zászló",
+                "ro": "Steagul Monumental",
+                "en": "Monumental Flag"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf starken Wind am Meer; tragen Sie eine fest sitzende Regenjacke, während Sie das imposante Wahrzeichen im grauen Küstennebel bewundern.",
+                "hu": "Ügyeljen az erős tengeri szélre; viseljen szorosan záródó esőkabátot, miközben megcsodálja az impozáns jelképet a szürke tengerparti ködben.",
+                "ro": "Atenție la vântul puternic de pe mare; purtați o pelerină de ploaie bine fixată în timp ce admirați simbolul impunător în ceața gri de pe coastă.",
+                "en": "Watch out for strong sea winds; wear a tight-fitting raincoat while admiring the imposing landmark in the grey coastal mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion San Carlos",
+                "hu": "San Carlos bástya",
+                "ro": "Bastionul San Carlos",
+                "en": "Baluarte de San Carlos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Eingangsbereich und nutzen Sie die Innenräume der Bastion, um den stärksten Regen trocken abzuwarten.",
+                "hu": "Parkolja le biztonságosan a kerékpárját a bejáratnál, és használja a bástya belső tereit, hogy szárazon várja meg a leghevesebb zápor végét.",
+                "ro": "Parcați bicicleta în siguranță la intrare și folosiți spațiile interioare ale bastionului pentru a aștepta la adăpost trecerea celei mai puternice ploi.",
+                "en": "Park your bike safely at the entrance and use the interior spaces of the bastion to wait out the heaviest rain in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Katedrális",
+                "ro": "Catedrala Imaculatei Concepții",
+                "en": "Cathedral of Our Lady of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Die Portale gegenüber bieten trockene Abstellmöglichkeiten; nutzen Sie den Besuch für eine spirituelle Pause, während sich die Straßen draußen füllen.",
+                "hu": "A szemközti árkádok száraz parkolási lehetőséget kínálnak; használja a látogatást egy spirituális pihenőre, miközben odakint az utcák vízben úsznak.",
+                "ro": "Porticurile de vizavi oferă locuri de parcare uscate; profitați de vizită pentru o pauză spirituală în timp ce străzile de afară se umplu de apă.",
+                "en": "The arcades opposite offer dry parking options; use the visit for a spiritual break while the streets outside fill with rainwater."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion San Pedro",
+                "hu": "San Pedro bástya",
+                "ro": "Bastionul San Pedro",
+                "en": "Baluarte de San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Parken tiefe Pfützen vor dem Eingang und genießen Sie die kühle, feuchte Luft in den historischen Mauern dieser Festung.",
+                "hu": "Parkoláskor kerülje a mély tócsákat a bejárat előtt, és élvezze a hűvös, párás levegőt ezen erőd történelmi falai között.",
+                "ro": "Evitați bălțile adânci din fața intrării când parcați și bucurați-vă de aerul răcoros și umed între zidurile istorice ale acestei fortărețe.",
+                "en": "Avoid deep puddles in front of the entrance when parking and enjoy the cool, damp air within the historic walls of this fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion San Juan",
+                "hu": "San Juan bástya",
+                "ro": "Bastionul San Juan",
+                "en": "Baluarte de San Juan"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern sind der perfekte Ort, um das Radfahren kurz zu unterbrechen und die dramatische Regenlandschaft der Altstadt sicher zu überblicken.",
+                "hu": "A vastag falak tökéletes helyszínt biztosítanak a bringázás rövid megszakítására és az óváros drámai, esős látképének biztonságos megfigyelésére.",
+                "ro": "Zidurile groase sunt locul perfect pentru a întrerupe scurt tura cu bicicleta și pentru a privi în siguranță peisajul dramatic de ploaie al centrului vechi.",
+                "en": "The thick walls are the perfect spot to briefly interrupt your bike ride and safely overlook the dramatic rainy landscape of the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort San Miguel",
+                "hu": "San Miguel Erőd",
+                "ro": "Fortul San Miguel",
+                "en": "Fuerte de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Nässe rutschig sein; fahren Sie langsam und genießen Sie oben das Museum als Belohnung für die feuchte Fahrt.",
+                "hu": "Az emelkedő nedves időben csúszós lehet; tekerjen lassan, és élvezze a fenti múzeumot jutalomként a párás és vizes út után.",
+                "ro": "Urcarea poate fi alunecoasă pe umezeală; pedalați încet și bucurați-vă de muzeul de sus ca recompensă pentru drumul umed parcurs.",
+                "en": "The climb can be slippery when wet; ride slowly and enjoy the museum at the top as a reward for the damp and misty journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter bietet das ideale Klima für eine Radtour ohne die drückende Hitze. Morgens weht eine frische Brise am Malecon, ideal für die Fahrt zu den Bastionen. Mittags können Sie die Kathedrale und San Pedro erkunden. Da die Sonne gegen 17 Uhr untergeht, planen Sie den Besuch des Forts San Miguel für den frühen Nachmittag ein, um den spektakulären Sonnenuntergang über dem Golf zu erleben.",
+            "hu": "A tél ideális klímát kínál a biciklitúrához a nyomasztó hőség nélkül. Reggel friss szellő fúj a Maleconon, ami tökéletes a bástyák felé vezető úthoz. Délben felfedezheti a katedrálist és a San Pedro bástyát. Mivel a nap 17 óra körül nyugszik, tervezze a San Miguel erőd látogatását kora délutánra, hogy elcsípje a látványos naplementét.",
+            "ro": "Iarna oferă climatul ideal pentru o tură cu bicicleta fără căldura sufocantă. Dimineața, o briză proaspătă suflă pe faleză, ideală pentru drumul spre bastioane. La prânz puteți explora catedrala și San Pedro. Deoarece soarele apune în jur de ora 17:00, planificați vizita la fortul San Miguel pentru după-amiaza devreme pentru a prinde apusul spectaculos.",
+            "en": "Winter offers the ideal climate for a bike tour without the oppressive heat. In the morning, a fresh breeze blows along the Malecon, perfect for the ride to the bastions. At noon, you can explore the Cathedral and San Pedro. Since the sun sets around 5 PM, plan your visit to Fort San Miguel for early afternoon to catch the spectacular sunset over the Gulf."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumentale Flagge",
+                "hu": "Monumentális Zászló",
+                "ro": "Steagul Monumental",
+                "en": "Monumental Flag"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühle Morgenluft für eine schnelle Fahrt zum Meer; die Wintersonne ist weniger intensiv, ideal für Fotos am Fuße der riesigen Flagge.",
+                "hu": "Használja ki a hűvös reggeli levegőt egy gyors tekeréshez a tengerhez; a téli nap kevésbé intenzív, ideális a fotózáshoz az óriási zászló tövében.",
+                "ro": "Profitați de aerul răcoros al dimineții pentru o tură rapidă la mare; soarele de iarnă este mai puțin intens, ideal pentru poze la baza steagului uriaș.",
+                "en": "Take advantage of the cool morning air for a quick ride to the sea; the winter sun is less intense, ideal for photos at the foot of the giant flag."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion San Carlos",
+                "hu": "San Carlos bástya",
+                "ro": "Bastionul San Carlos",
+                "en": "Baluarte de San Carlos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten der Mauern; die milden Temperaturen erlauben eine ausgiebige Erkundung der Terrasse, bevor Sie zur Kathedrale weiterfahren.",
+                "hu": "Parkoljon a falak árnyékában; a szelíd hőmérséklet lehetővé teszi a terasz alapos felfedezését, mielőtt továbbindulna a katedrális felé.",
+                "ro": "Parcați la umbra zidurilor; temperaturile blânde permit o explorare amănunțită a terasei înainte de a continua drumul spre catedrală.",
+                "en": "Park in the shade of the walls; the mild temperatures allow for an extensive exploration of the terrace before continuing to the cathedral."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Katedrális",
+                "ro": "Catedrala Imaculatei Concepții",
+                "en": "Cathedral of Our Lady of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad am belebten Zócalo ab; das milde Winterklima lädt dazu ein, die Fassade in der hellen Mittagssonne länger zu bewundern.",
+                "hu": "Hagyja a bringát a nyüzsgő Zócalón; a szelíd téli klíma hívogató, hogy a homlokzatot a világos déli napsütésben hosszabb ideig megcsodálja.",
+                "ro": "Lăsați bicicleta în Zócalo cel animat; climatul blând de iarnă vă invită să admirați fațada mai mult timp în soarele strălucitor de la prânz.",
+                "en": "Leave your bike at the lively Zócalo; the mild winter climate invites you to admire the facade longer in the bright midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion San Pedro",
+                "hu": "San Pedro bástya",
+                "ro": "Bastionul San Pedro",
+                "en": "Baluarte de San Pedro"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Meeresbrise erreicht diese Bastion besonders gut; ideal für eine kurze Trinkpause im Freien, bevor es zum historischen Zentrum zurückgeht.",
+                "hu": "A hűvös tengeri szellő itt különösen jól érezhető; ideális hely egy rövid ivószünetre a szabadban, mielőtt visszakerekezne a történelmi központba.",
+                "ro": "Briza răcoroasă a mării ajunge foarte bine la acest bastion; este locul ideal pentru o scurtă pauză de hidratare înainte de a reveni în centru.",
+                "en": "The cool sea breeze reaches this bastion especially well; ideal for a short water break outdoors before cycling back to the historical center."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastion San Juan",
+                "hu": "San Juan bástya",
+                "ro": "Bastionul San Juan",
+                "en": "Baluarte de San Juan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am frühen Nachmittag; das warme Licht der Wintersonne hebt die Details der alten Mauern wunderschön hervor.",
+                "hu": "Kora délután látogasson el ide; a téli nap meleg fénye gyönyörűen kiemeli a régi falak részleteit, mielőtt a fények fogyni kezdenének.",
+                "ro": "Vizitați acest loc după-amiaza devreme; lumina caldă a soarelui de iarnă scoate frumos în evidență detaliile vechilor ziduri înainte de apus.",
+                "en": "Visit this spot in the early afternoon; the warm light of the winter sun beautifully highlights the details of the old walls before the light fades."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort San Miguel",
+                "hu": "San Miguel Erőd",
+                "ro": "Fortul San Miguel",
+                "en": "Fuerte de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor 17 Uhr; der Blick auf den winterlichen Sonnenuntergang vom Fort aus ist das absolute Highlight Ihrer Radtour.",
+                "hu": "Tervezze az érkezést 17 óra elé; a várfokról nyíló kilátás a téli naplementére a kerékpártúra abszolút csúcspontja lesz.",
+                "ro": "Planificați sosirea înainte de ora 17:00; vederea spre apusul de iarnă de pe fort este punctul culminant absolut al turei cu bicicleta.",
+                "en": "Plan to arrive before 5 PM; the view of the winter sunset from the fort is the absolute highlight of your bike tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Reggel: Élvezze az autó nyújtotta szabadságot, és elsőként vezessen el a San José El Alto fenséges erődjéhez a különleges tengerészeti kiállításért.\nDélben: Parkoljon le a történelmi központ szélén, majd gyalogosan fedezze fel a békés katedrálist és a növényekkel teli, történelmi szépségű bástyát.\nDélután: Ismerkedjen a gazdag kultúrával a Maja Építészeti Múzeumban és a Casa 6-ban, miközben kényelmesen végigsétál az óváros sétálóutcáin.\nEste: A lemenő nap fényében vezessen el a déli San Miguel erődhöz, és zárja a napot a nyílt tengerre nyíló lélegzetelállító kilátással.",
         "ro": "Dimineața: Bucurați-vă de libertatea mașinii și conduceți mai întâi la maiestuosul fort San José El Alto pentru a vedea colecția de istorie navală.\nPrânz: Parcați la marginea centrului istoric și explorați pe jos catedrala liniștită, precum și un bastion antic care acum găzduiește o grădină superbă.\nDupă-amiaza: Descoperiți cultura la Muzeul de Arhitectură Maya și Casa 6, plimbându-vă relaxat pe străduțele pietonale pitorești din orașul vechi.\nSeara: Conduceți la apus spre sud la impresionantul Fort San Miguel și încheiați-vă ziua admirând priveliștile grandioase asupra mării.",
         "en": "Morning: Take advantage of your car to easily access the majestic northern fortress of San José El Alto and explore its fascinating naval history exhibits.\nMidday: Park securely near the historical center and switch to walking mode to visit the peaceful cathedral and a bastion transformed into a botanical garden.\nAfternoon: Dive into regional history at the Maya Architecture Museum and Casa 6 while enjoying a leisurely stroll through the colorful pedestrian streets.\nEvening: Drive down to the imposing Fuerte San Miguel as the afternoon wanes, wrapping up your day with spectacular panoramic views across the open sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Campeche bei Regen am komfortabelsten, da Sie die Distanzen zwischen den Forts trocken überbrücken. Morgens bietet San José El Alto einen weiten Blick über das verregnete Meer. Mittags parken Sie nahe der Kathedrale und nutzen die Arkaden. Der Nachmittag gehört dem Museum Casa 6 und dem Fort San Miguel, wo Sie den Sturm sicher aus den Innenräumen beobachten können.",
+            "hu": "Autóval a legkényelmesebb Campeche felfedezése esőben, mivel szárazon teheti meg az erődök közötti távolságot. Reggel a San José El Alto erőd nyújt kilátást az esős tengerre. Délben parkoljon a katedrális közelében, és használja az árkádokat. A délután a Casa 6 múzeumé és a San Miguel erődé, ahol a belső terekből biztonságban figyelheti a vihart.",
+            "ro": "Cu mașina, explorarea orașului Campeche în ploaie este cea mai confortabilă, deoarece parcurgeți distanțele dintre forturi la adăpost. Dimineața, San José El Alto oferă o vedere largă asupra mării ploioase. La prânz, parcați lângă catedrală și folosiți arcadele. După-amiaza aparține muzeului Casa 6 și fortului San Miguel, unde puteți observa furtuna din interior.",
+            "en": "By car, exploring Campeche in the rain is most comfortable as you can cover the distances between the forts while staying dry. In the morning, San José El Alto offers a wide view over the rainy sea. At noon, park near the Cathedral and use the arcades. The afternoon belongs to Casa 6 and Fort San Miguel, where you can safely watch the storm from the interior spaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Fort San José El Alto",
+                "hu": "San José El Alto Erődmúzeum",
+                "ro": "Muzeul Fortului San José El Alto",
+                "en": "Museo Fuerte de San José El Alto"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang und flüchten Sie ins Innere, um die Schiffsexponate zu bewundern, während draußen der Regen auf den Golf peitscht.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, és meneküljenek be a belső térbe megcsodálni a hajómaketteket, miközben odakint az eső veri az öblöt.",
+                "ro": "Parcați chiar la intrare și refugiați-vă în interior pentru a admira exponatele navale, în timp ce afară ploaia biciuiește golful.",
+                "en": "Park right at the entrance and escape inside to admire the maritime exhibits while the rain lashes down on the Gulf outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten X’much haltún",
+                "hu": "X’much haltún Botanikus Kert",
+                "ro": "Grădina Botanică X’much haltún",
+                "en": "Jardín Botánico X’much haltún"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen für einen schnellen Rundgang; das Grün der tropischen Pflanzen wirkt unter dem grauen Himmel besonders intensiv.",
+                "hu": "Használja ki a rövid esőszüneteket egy gyors sétára; a trópusi növények zöldje a szürke égbolt alatt különösen intenzívnek hat.",
+                "ro": "Profitați de scurtul răgaz dintre ploi pentru un tur rapid; verdele plantelor tropicale pare deosebit de intens sub cerul gri.",
+                "en": "Take advantage of brief breaks in the rain for a quick tour; the green of the tropical plants appears especially intense under the grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Katedrális",
+                "ro": "Catedrala Imaculatei Concepții",
+                "en": "Cathedral of Our Lady of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in einem der nahen Parkhäuser, um trocken zu bleiben; das Innere der Kathedrale bietet einen friedlichen Rückzugsort vor dem Unwetter.",
+                "hu": "Parkoljon a közeli parkolóházak egyikében, hogy száraz maradjon; a katedrális belső tere békés menedéket nyújt az ítéletidő elől.",
+                "ro": "Parcați într-una dintre parcările din apropiere pentru a rămâne uscat; interiorul catedralei oferă un refugiu pașnic împotriva vremii rele.",
+                "en": "Park in one of the nearby parking garages to stay dry; the interior of the cathedral offers a peaceful sanctuary from the bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Maya-Architektur",
+                "hu": "Maja Építészeti Múzeum",
+                "ro": "Muzeul de Arhitectură Maya",
+                "en": "Maya Architecture Museum"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Bastion Soledad halten den Regenlärm draußen; ideal, um ungestört in die Geschichte der Maya-Architektur einzutauchen.",
+                "hu": "A Soledad bástya vastag falai távol tartják az eső zaját; ideális helyszín, hogy zavartalanul elmerüljön a maja építészet történetében.",
+                "ro": "Zidurile groase ale bastionului Soledad țin zgomotul ploii la distanță; locul ideal pentru a vă cufunda netulburat în istoria arhitecturii Maya.",
+                "en": "The thick walls of the Soledad bastion keep the noise of the rain outside; ideal for immersing yourself undisturbed in the history of Maya architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa 6",
+                "hu": "Casa 6",
+                "ro": "Casa 6",
+                "en": "Casa 6"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto reicht aus; genießen Sie die historische Atmosphäre der Zimmer, während der Regen romantisch auf den Innenhof fällt.",
+                "hu": "Egy rövid sprint az autótól elegendő; élvezze a szobák történelmi hangulatát, miközben az eső romantikusan dobol a belső udvar kövein.",
+                "ro": "Un scurt sprint de la mașină este suficient; bucurați-vă de atmosfera istorică a camerelor în timp ce ploaia cade romantic în curtea interioară.",
+                "en": "A short sprint from the car is enough; enjoy the historic atmosphere of the rooms while the rain falls romantically onto the inner courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort San Miguel",
+                "hu": "San Miguel Erőd",
+                "ro": "Fortul San Miguel",
+                "en": "Fuerte de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen tollen Blick; bleiben Sie bei starkem Guss kurz im Auto sitzen und genießen Sie das Schauspiel der Natur.",
+                "hu": "A parkolóból remek a kilátás; heves zápor esetén maradjon egy kicsit az autóban, és élvezze a természet látványos játékát az öböl felett.",
+                "ro": "Parcarea oferă o priveliște excelentă; în caz de aversă puternică, rămâneți puțin în mașină și bucurați-vă de spectacolul naturii deasupra golfului.",
+                "en": "The parking lot offers a great view; in case of heavy downpours, stay in the car for a moment and enjoy the spectacle of nature over the bay."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto, um die weitläufigen Forts von Campeche bequem bei mildem Winterwetter zu verbinden. Der Morgen beginnt am Fort San José mit herrlicher Aussicht. Mittags parken Sie im Zentrum für den Besuch der Kathedrale und der Museen. Da es bereits gegen 17 Uhr dunkel wird, bietet das Auto die Flexibilität, pünktlich zum Sonnenuntergang am Fort San Miguel zu sein und den Tag entspannt ausklingen zu lassen.",
+            "hu": "Használja az autót, hogy kényelmesen összekösse Campeche távoli erődjeit a szelíd téli időben. A reggel a San José erődben indul gyönyörű kilátással. Délben parkoljon a központban a katedrális és a múzeumok felkereséséhez. Mivel 17 óra körül már sötétedik, az autó rugalmasságot ad, hogy időben a San Miguel erődhöz érjen a naplementére.",
+            "ro": "Folosiți mașina pentru a conecta confortabil forturile îndepărtate din Campeche pe vremea blândă de iarnă. Dimineața începe la fortul San José cu o vedere superbă. La prânz, parcați în centru pentru catedrală și muzee. Deoarece se înserează deja în jur de ora 17:00, mașina vă oferă flexibilitatea de a ajunge la timp pentru apus la fortul San Miguel.",
+            "en": "Use the car to comfortably connect the sprawling forts of Campeche during the mild winter weather. The morning begins at Fort San José with a magnificent view. At noon, park in the center for the cathedral and museums. Since it gets dark around 5 PM, the car provides flexibility to arrive at Fort San Miguel on time for the sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Fort San José El Alto",
+                "hu": "San José El Alto Erődmúzeum",
+                "ro": "Muzeul Fortului San José El Alto",
+                "en": "Museo Fuerte de San José El Alto"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Morgenluft auf der Brücke des Forts; das klare Winterlicht sorgt für eine perfekte Fernsicht über die gesamte Küste.",
+                "hu": "Élvezze a hűvös reggeli levegőt az erőd hídján; a tiszta téli fény tökéletes távlati kilátást biztosít az egész tengerpartra.",
+                "ro": "Bucurați-vă de aerul răcoros al dimineții pe podul fortului; lumina clară de iarnă oferă o vizibilitate perfectă asupra întregii coaste.",
+                "en": "Enjoy the cool morning air on the fort's bridge; the clear winter light provides perfect long-distance views across the entire coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten X’much haltún",
+                "hu": "X’much haltún Botanikus Kert",
+                "ro": "Grădina Botanică X’much haltún",
+                "en": "Jardín Botánico X’much haltún"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unkompliziert in der Nähe; die milden Temperaturen machen den Spaziergang durch die Bastion heute besonders erholsam und schweißfrei.",
+                "hu": "Parkoljon le egyszerűen a közelben; a szelíd hőmérséklet a bástyán tett sétát ma különösen pihentetővé és izzadásmentessé teszi.",
+                "ro": "Parcați simplu în apropiere; temperaturile blânde fac plimbarea prin bastion astăzi deosebit de relaxantă și fără efort.",
+                "en": "Park easily nearby; the mild temperatures make the stroll through the bastion especially relaxing and sweat-free today."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale der Unbefleckten Empfängnis",
+                "hu": "Szeplőtelen Fogantatás Katedrális",
+                "ro": "Catedrala Imaculatei Concepții",
+                "en": "Cathedral of Our Lady of the Immaculate Conception"
+              },
+              "tip_5lang": {
+                "de": "Das helle Mittagslicht lässt die weißen Türme der Kathedrale erstrahlen; nutzen Sie das angenehme Klima für einen kurzen Gang über den Zócalo.",
+                "hu": "A világos déli fényben ragyognak a katedrális fehér tornyai; használja ki a kellemes klímát egy rövid sétára a Zócalo téren az autó közelében.",
+                "ro": "Lumina strălucitoare de la prânz face turnurile albe ale catedralei să strălucească; profitați de climatul plăcut pentru o scurtă plimbare în Zócalo.",
+                "en": "The bright midday light makes the white towers of the cathedral shine; take advantage of the pleasant climate for a short walk across the Zócalo."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Maya-Architektur",
+                "hu": "Maja Építészeti Múzeum",
+                "ro": "Muzeul de Arhitectură Maya",
+                "en": "Maya Architecture Museum"
+              },
+              "tip_5lang": {
+                "de": "Die kühleren Innenräume der Bastion sind im Winter perfekt temperiert; nehmen Sie sich Zeit für die beeindruckenden Funde ohne die übliche Hitze.",
+                "hu": "A bástya hűvösebb belső terei télen tökéletes hőmérsékletűek; szánjon időt a lenyűgöző leletekre a szokásos fojtogató hőség nélkül.",
+                "ro": "Spațiile interioare mai răcoroase ale bastionului au o temperatură perfectă iarna; acordați-vă timp pentru vestigiile impresionante fără căldura obișnuită.",
+                "en": "The cooler interior spaces of the bastion are perfectly tempered in winter; take your time with the impressive finds without the usual heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa 6",
+                "hu": "Casa 6",
+                "ro": "Casa 6",
+                "en": "Casa 6"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Haus am frühen Nachmittag; die Wintersonne fällt in einem schönen Winkel in den Patio und belebt die antiken Möbel.",
+                "hu": "Látogasson el ide kora délután; a téli napfény szép szögben esik be a patióra, és életre kelti az antik bútorok gazdag díszítését.",
+                "ro": "Vizitați această casă după-amiaza devreme; soarele de iarnă cade într-un unghi frumos în curte și dă viață mobilierului antic.",
+                "en": "Visit this house in the early afternoon; the winter sun falls at a beautiful angle into the patio and brings the antique furniture to life."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort San Miguel",
+                "hu": "San Miguel Erőd",
+                "ro": "Fortul San Miguel",
+                "en": "Fuerte de San Miguel"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie rechtzeitig vor 17 Uhr hoch; das winterliche Abendrot über dem Golf von Mexiko ist vom Fort aus ein unvergessliches Erlebnis.",
+                "hu": "Hajtson fel időben 17 óra előtt; a Mexikói-öböl feletti téli alkonyat az erődből nézve felejthetetlen és romantikus élmény lesz.",
+                "ro": "Urcați cu mașina înainte de ora 17:00; amurgul de iarnă peste Golful Mexic privit de la fort este o experiență de neuitat.",
+                "en": "Drive up in time before 5 PM; the winter sunset over the Gulf of Mexico is an unforgettable experience from the vantage point of the fort."
+              }
+            }
+          ]
+        }
       }
     }
   }

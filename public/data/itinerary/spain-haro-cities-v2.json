@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a központ történelmi palotáinak felfedezésével, ahol a lenyűgöző építészet tükrözi Haro gazdag örökségét. Délben élvezze a kilátást a Mirador del Castillóról, és sétáljon a városfalaknál. A délután a híres borászatoknak van szentelve, ahol megismerheti a borkészítés művészetét. Este pihenjen meg, és kóstoljon meg néhány kiváló helyi bort egy pincészetben.",
         "ro": "Începeți dimineața explorând palatele istorice din centru, unde arhitectura magnifică reflectă moștenirea bogată a orașului Haro. La prânz, bucurați-vă de priveliștile de la Mirador del Castillo și vechile ziduri. După-amiaza este dedicată faimoaselor crame locale, unde veți descoperi arta vinificației. Seara vă va găsi relaxându-vă cu un pahar de vin excepțional.",
         "en": "Start your morning by exploring the historical palaces in the center, where magnificent architecture reflects Haro's rich heritage. At midday, enjoy the views from the Mirador del Castillo and stroll along the ancient city walls. The afternoon is completely dedicated to the famous local bodegas, learning about winemaking. In the evening, relax with a premium wine tasting experience."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die prachtvollen Paläste von Haro idealen Schutz vor dem Regen. Mittags schlendern wir durch die nassen Gassen der Altstadt zu den historischen Mauern. Der Nachmittag gehört den berühmten Weinkellern, in denen man im Trockenen die edlen Tropfen verkosten kann. Abends glänzen die Lichter der Stadt in den Pfützen und laden zu einem gemütlichen Abschluss unter den Arkaden ein.",
+            "hu": "Reggel Haro pompás palotái nyújtanak menedéket az eső elől. Délben a történelmi falak felé vesszük az irányt, élvezve az óváros esőáztatta hangulatát. A délutánt a híres borpincékben töltjük, ahol szárazon kóstolhatjuk meg a vidék legjobb borait. Este a város fényei megcsillannak a tócsákban, tökéletes hátteret biztosítva egy hangulatos, fedett teraszos záráshoz.",
+            "ro": "Dimineața, palatele somptuoase din Haro oferă adăpostul ideal împotriva ploii. La prânz, explorăm zidurile vechi, admirând farmecul orașului sub umbrelă. După-amiaza este dedicată celebrelor crame, unde puteți degusta vinuri fine la adăpost de intemperii. Seara, luminile orașului se reflectă în bălți, creând o atmosferă magică pentru o încheiere relaxantă sub arcadele pieței.",
+            "en": "In the morning, Haro's grand palaces provide the perfect shelter from the rain. At noon, we head towards the historic walls, enjoying the atmospheric wet streets of the old town. The afternoon is spent inside famous wine cellars, tasting premium labels while staying dry. In the evening, the city lights shimmer on the pavement, offering a cozy end to the day under the covered walkways."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de la Plaza de la Cruz",
+                "hu": "Plaza de la Cruz Palota",
+                "ro": "Palatul Plaza de la Cruz",
+                "en": "Plaza de la Cruz Palace"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocken Details der Fassade unter dem Schutz der umliegenden Arkaden. Ein stabiler Regenschirm ist für den kurzen Weg zum Eingang unverzichtbar.",
+                "hu": "Csodálja meg a homlokzat barokk részleteit a környező árkádok védelméből. Egy masszív esernyő elengedhetetlen a bejárathoz vezető rövid úton a hirtelen záporok miatt.",
+                "ro": "Admirați detaliile baroce ale fațadei sub protecția arcadelor din jur. O umbrelă rezistentă este indispensabilă pentru scurta plimbare până la intrare în caz de ploaie.",
+                "en": "Admire the Baroque details of the facade while standing under the protection of nearby arches. A sturdy umbrella is essential for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Bendaña o Paternina",
+                "hu": "Bendaña vagy Paternina Palota",
+                "ro": "Palatul Bendaña sau Paternina",
+                "en": "Palace of Bendaña or Paternina"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum dieses Plateresco-Palastes, um der Nässe zu entkommen und die Geschichte Haros zu studieren. Achten Sie auf die rutschigen Steinstufen am Eingang.",
+                "hu": "Használja ki e platereszk palota belső tereit, hogy elmeneküljön a nedvesség elől és megismerje Haro történetét. Ügyeljen a csúszós kőlépcsőkre a bejáratnál.",
+                "ro": "Explorați interiorul acestui palat în stil plateresc pentru a scăpa de umezeală și a studia istoria locală. Atenție la treptele de piatră care pot fi alunecoase.",
+                "en": "Utilize the interior of this Plateresque palace to escape the dampness and study Haro's history. Watch out for slippery stone steps at the entrance during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Castillo",
+                "hu": "Castillo Kilátó",
+                "ro": "Punctul de belvedere Castillo",
+                "en": "Castillo Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die nebligen Weinberge ist auch bei Regen spektakulär, aber halten Sie den Besuch kurz. Tragen Sie wasserfeste Schuhe für den eventuell schlammigen Pfad.",
+                "hu": "A ködös szőlőültetvények látványa esőben is lenyűgöző, de tartsa rövidre a látogatást. Viseljen vízálló cipőt a sár felé hajló ösvény miatt.",
+                "ro": "Priveliștea podgoriilor încețoate este spectaculoasă chiar și pe ploaie, dar faceți o vizită scurtă. Purtați încălțăminte impermeabilă pentru poteca ce poate fi noroioasă.",
+                "en": "The view of the misty vineyards is spectacular even in the rain, but keep your visit brief. Wear waterproof shoes for the potentially muddy path to the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Stadtmauer",
+                "hu": "Ősi városfal",
+                "ro": "Vechiul zid al orașului",
+                "en": "Ancient City Wall"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen, nassen Steine der Mauer wirken bei Regen besonders historisch und geheimnisvoll. Suchen Sie unter den nahen Bäumen Schutz vor direktem Niederschlag.",
+                "hu": "A fal sötét, nedves kövei esőben különösen történelminek és titokzatosnak tűnnek. Keressen menedéket a közeli fák alatt a közvetlen csapadék elől.",
+                "ro": "Pietrele întunecate și umede ale zidului par deosebit de istorice și misterioase pe ploaie. Căutați adăpost sub copacii din apropiere pentru a evita ploaia directă.",
+                "en": "The dark, wet stones of the wall look particularly historic and mysterious in the rain. Seek shelter under nearby trees to avoid the direct downpour while viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Rioja Santiago",
+                "hu": "Bodegas Rioja Santiago",
+                "ro": "Bodegas Rioja Santiago",
+                "en": "Bodegas Rioja Santiago"
+              },
+              "tip_5lang": {
+                "de": "In den tiefen Kellern dieser Bodega ist es absolut trocken und angenehm temperiert. Ideal, um einen starken Regenschauer bei einer ausführlichen Verkostung auszusitzen.",
+                "hu": "A borászat mély pincéiben teljesen száraz és kellemes a hőmérséklet. Ideális hely egy nagyobb zápor átvészelésére egy alapos borkóstoló keretében.",
+                "ro": "În pivnițele adânci ale acestei crame este perfect uscat și o temperatură plăcută. Ideal pentru a aștepta trecerea unei ploi torențiale în timpul unei degustări.",
+                "en": "The deep cellars of this winery are perfectly dry and temperature-controlled. It's the ideal spot to wait out a heavy downpour during an extensive tasting session."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas TIHOM",
+                "hu": "Bodegas TIHOM",
+                "ro": "Bodegas TIHOM",
+                "en": "Bodegas TIHOM"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur bietet viele überdachte Bereiche zum Verweilen und Genießen. Nutzen Sie die Regenpause für ein schnelles Foto der beeindruckenden Außenanlagen.",
+                "hu": "A modern építészet számos fedett területet kínál a pihenésre és a borok élvezetére. Használja ki az esőszünetet a lenyűgöző külső létesítmények gyors lefotózására.",
+                "ro": "Arhitectura modernă oferă multe zone acoperite pentru a vă relaxa și a savura vinul. Profită de o pauză de ploaie pentru o fotografie rapidă a exteriorului.",
+                "en": "The modern architecture offers plenty of covered areas to relax and enjoy the wine. Use any break in the rain to snap a quick photo of the impressive exterior."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Muga S.A.",
+                "hu": "Bodegas Muga S.A.",
+                "ro": "Bodegas Muga S.A.",
+                "en": "Bodegas Muga S.A."
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die hoteleigene Küferei, um das Handwerk im Trockenen zu erleben. Der Boden in den Lagerhallen kann bei Feuchtigkeit rutschig sein, gehen Sie vorsichtig.",
+                "hu": "Látogassa meg a saját kádárműhelyt, hogy szárazon ismerkedhessen meg a mesterséggel. A raktárak padlója nedvesség esetén csúszós lehet, közlekedjen óvatosan.",
+                "ro": "Vizitați dogăria proprie pentru a descoperi meșteșugul la adăpost de ploaie. Podeaua depozitelor poate fi alunecoasă când este umezeală, mergeți cu atenție.",
+                "en": "Visit the on-site cooperage to see the barrel-making craft while staying completely dry. Warehouse floors can be slippery when damp, so walk carefully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Haro beginnt frisch und oft neblig, ideal für Museumsbesuche in den Palästen. Mittags wärmt die tiefstehende Sonne die historischen Plätze. Am frühen Nachmittag nutzen wir das letzte Tageslicht für die Aussichtspunkte, bevor um 17:00 Uhr die Dämmerung einsetzt. Den Abend verbringen wir gemütlich in den beheizten Bodegas bei einem kräftigen Rioja-Rotwein.",
+            "hu": "A téli reggel Haróban friss és gyakran ködös, ideális a paloták múzeumi tereinek felfedezéséhez. Délben az alacsonyan járó nap sugarai melengetik a történelmi tereket. Kora délután kihasználjuk az utolsó fényeket a kilátópontoknál az ötkor kezdődő szürkület előtt. Az estét a fűtött borpincék kényelmében töltjük egy pohár testes vörösbor társaságában.",
+            "ro": "Dimineața de iarnă în Haro este răcoroasă și adesea încețoată, perfectă pentru vizite la muzeele din palate. La prânz, soarele blând încălzește piețele istorice. Profităm de lumina zilei la punctele de belvedere înainte de apusul de la ora 17:00. Seara este rezervată confortului cramelor încălzite, savurând un vin roșu robust de Rioja.",
+            "en": "Winter mornings in Haro are crisp and often misty, perfect for exploring museum spaces inside the palaces. At noon, the low sun warms the historic plazas. In the early afternoon, we catch the last daylight at the viewpoints before dusk at 17:00. The evening is best spent in the cozy, heated wineries with a glass of full-bodied Rioja red wine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de la Plaza de la Cruz",
+                "hu": "Plaza de la Cruz Palota",
+                "ro": "Palatul Plaza de la Cruz",
+                "en": "Plaza de la Cruz Palace"
+              },
+              "tip_5lang": {
+                "de": "Die kühlen Steinmauern wirken im Winter besonders majestätisch. Tragen Sie warme Kleidung, da es in den historischen Hallen trotz Schutz vor Wind zugig sein kann.",
+                "hu": "A hűvös kőfalak télen különösen méltóságteljesek. Viseljen meleg ruházatot, mivel a történelmi csarnokok a szélvédettség ellenére is huzatosak lehetnek.",
+                "ro": "Zidurile de piatră par deosebit de maiestuoase iarna. Purtați haine groase, deoarece holurile istorice pot fi răcoroase chiar dacă sunt ferite de vânt.",
+                "en": "The cool stone walls look especially majestic in winter. Wear warm layers as the historic halls can be drafty even though they offer protection from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Bendaña o Paternina",
+                "hu": "Bendaña vagy Paternina Palota",
+                "ro": "Palatul Bendaña sau Paternina",
+                "en": "Palace of Bendaña or Paternina"
+              },
+              "tip_5lang": {
+                "de": "Die kunstvollen Holzschnitzereien im Inneren strahlen im Winter eine behagliche Atmosphäre aus. Planen Sie den Besuch am Vormittag, um die sanfte Wintersonne zu nutzen.",
+                "hu": "A belső terek művészi fafaragásai télen meghitt hangulatot árasztanak. Tervezze a látogatást délelőttre, hogy kihasználja a gyenge téli napsütést.",
+                "ro": "Sculpturile în lemn din interior emană o atmosferă primitoare iarna. Planificați vizita dimineața pentru a profita de lumina blândă a soarelui de iarnă.",
+                "en": "The ornate wood carvings inside radiate a cozy atmosphere in winter. Schedule your visit in the morning to make the most of the soft winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Castillo",
+                "hu": "Castillo Kilátó",
+                "ro": "Punctul de belvedere Castillo",
+                "en": "Castillo Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht auf die schneebedeckten Gipfel der Sierra de Cantabria. Seien Sie spätestens um 16:30 Uhr hier, um das Alpenglühen vor dem Sonnenuntergang zu sehen.",
+                "hu": "Élvezze a tiszta kilátást a Sierra de Cantabria hófödte csúcsaira. Legyen itt legkésőbb 16:30-kor, hogy láthassa az alkonyi fényeket az ötkor kezdődő sötétedés előtt.",
+                "ro": "Bucurați-vă de vizibilitatea clară asupra vârfurilor înzăpezite ale Sierra de Cantabria. Sosiți până la 16:30 pentru a vedea culorile apusului înainte de ora 17:00.",
+                "en": "Enjoy the clear views of the snow-capped Sierra de Cantabria peaks. Be here by 16:30 at the latest to catch the golden glow before the early 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Stadtmauer",
+                "hu": "Ősi városfal",
+                "ro": "Vechiul zid al orașului",
+                "en": "Ancient City Wall"
+              },
+              "tip_5lang": {
+                "de": "Die Stadtmauer bietet einen hervorragenden Windschutz für einen kleinen Spaziergang. Der Boden kann in schattigen Bereichen frostig und glatt sein, Vorsicht ist geboten.",
+                "hu": "A városfal kiváló szélfogót biztosít egy rövid sétához. Az árnyékos részeken a talaj fagyos és csúszós lehet, ezért fokozott óvatosság ajánlott.",
+                "ro": "Zidul orașului oferă o protecție excelentă împotriva vântului pentru o scurtă plimbare. Podeaua poate fi înghețată în zonele umbrite, mergeți cu atenție.",
+                "en": "The city wall provides an excellent windbreak for a short stroll. The ground can be frosty and slick in shaded areas, so tread carefully during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Rioja Santiago",
+                "hu": "Bodegas Rioja Santiago",
+                "ro": "Bodegas Rioja Santiago",
+                "en": "Bodegas Rioja Santiago"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Kellertemperatur wirkt im Vergleich zur Außenluft im Winter angenehm mild. Ein schwerer Rotwein ist der perfekte Wärmespender für diesen Nachmittag.",
+                "hu": "A pince állandó hőmérséklete a kinti levegőhöz képest télen kellemesen enyhének hat. Egy testes vörösbor a tökéletes belső melegítő ezen a délutánon.",
+                "ro": "Temperatura constantă din pivniță pare plăcut de blândă iarna față de aerul de afară. Un vin roșu corpolent este sursa ideală de căldură pentru această după-amiază.",
+                "en": "The constant cellar temperature feels pleasantly mild compared to the winter air outside. A heavy red wine is the perfect inner warmer for this afternoon visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas TIHOM",
+                "hu": "Bodegas TIHOM",
+                "ro": "Bodegas TIHOM",
+                "en": "Bodegas TIHOM"
+              },
+              "tip_5lang": {
+                "de": "Die modernen Glasfronten lassen viel Licht herein und halten die Kälte draußen. Genießen Sie den Blick auf die kahlen, aber reizvollen winterlichen Weinberge.",
+                "hu": "A modern üvegfelületek rengeteg fényt engednek be, miközben kint tartják a hideget. Élvezze a kilátást a kopár, de látványos téli szőlőültetvényekre.",
+                "ro": "Fațadele moderne din sticlă lasă lumina să intre, menținând frigul afară. Bucurați-vă de priveliștea podgoriilor de iarnă, golașe dar pline de farmec.",
+                "en": "Modern glass fronts let in plenty of light while keeping the winter chill out. Enjoy the view of the bare but charming winter vineyards from the warm tasting room."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Muga S.A.",
+                "hu": "Bodegas Muga S.A.",
+                "ro": "Bodegas Muga S.A.",
+                "en": "Bodegas Muga S.A."
+              },
+              "tip_5lang": {
+                "de": "Der Duft von frisch getoasteten Eichenfässern ist im Winter besonders einladend. Bleiben Sie für eine Verkostung bis zum Einbruch der Dunkelheit um 17:00 Uhr.",
+                "hu": "A frissen pörkölt tölgyfahordók illata télen különösen hívogató. Maradjon egy borkóstolóra egészen a sötétedés beálltáig, ami ötkor már várható.",
+                "ro": "Mirosul de stejar proaspăt prăjit este deosebit de primitor iarna. Rămâneți pentru o degustare până la lăsarea întunericului, în jurul orei 17:00.",
+                "en": "The scent of freshly toasted oak barrels is particularly inviting in winter. Stay for a tasting session until darkness falls at 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje a napot egy pihentető kerékpározással a Santa Lucía zöldövezetében, mielőtt Haro történelmi központjába tekerne. Délben kerékpározzon el az Ebro partjára, és csodálja meg a hatalmas szőlőültetvényeket. A délután elviszi a festői Puente de Briñas középkori hídjához, amely valódi építészeti ékszer. Zárja a napot a Muga pincészet lenyűgöző borainak társaságában.",
         "ro": "Începeți ziua cu o plimbare relaxantă cu bicicleta la Santa Lucía înainte de a intra în centrul istoric al orașului. La prânz, pedalați spre malurile râului Ebro, admirând monumentele și viile întinse. După-amiaza vă poartă peste pitorescul Puente de Briñas, o adevărată bijuterie medievală. Încheiați ziua explorând domeniile majestoase ale faimoasei crame Muga.",
         "en": "Start your day with a relaxing bike ride in the green spaces of Santa Lucía before heading into Haro's historical core. At midday, cycle towards the Ebro riverbanks, admiring the sweeping vineyards. The afternoon takes you across the picturesque Puente de Briñas, a true medieval gem. End your active day exploring the majestic grounds and cellars of the Muga winery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Kopfsteinpflastern von Haro. Morgens erkunden wir die Natur bei Santa Lucía, bevor der Regen stärker wird. Mittags suchen wir Schutz in den Palästen der Stadt. Nachmittags konzentrieren wir uns auf die Bodegas im Bahnhofsviertel, wo die Wege kurz sind. Abends genießen wir die Ruhe der nassen Stadt bei einer vorsichtigen Fahrt zum Hotel.",
+            "hu": "Az esős kerékpározás óvatosságot igényel Haro csúszós macskakövein. Reggel felfedezzük Santa Lucía környékét, mielőtt eleredne az eső. Délben a város palotáiban keresünk menedéket. Délután a vasútnegyed borászataira koncentrálunk, ahol a távolságok rövidek. Este a nedves város nyugalmát élvezzük egy óvatos, hotelig tartó tekerés közben.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe pavajul alunecos din Haro. Dimineața explorăm natura la Santa Lucía înainte ca ploaia să se intensifice. La prânz căutăm adăpost în palatele orașului. După-amiaza ne concentrăm pe cramele din cartierul gării, unde distanțele sunt mici. Seara savurăm liniștea orașului umed în drum spre hotel.",
+            "en": "Cycling in the rain requires extra caution on Haro's slippery cobblestones. In the morning, explore the nature around Santa Lucía before the rain intensifies. At noon, seek shelter in the city's grand palaces. Focus on the winery district in the afternoon, where distances between stops are short. Enjoy the quiet of the wet city during a careful evening ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Lucía",
+                "hu": "Santa Lucía",
+                "ro": "Santa Lucía",
+                "en": "Santa Lucía"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können bei Regen schlammig und rutschig sein. Achten Sie auf eine gute Bereifung und nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
+                "hu": "A burkolatlan utak esőben sárosak és csúszósak lehetnek. Ügyeljen a megfelelő gumikra és használjon sárvédőt, hogy megvédje magát a felcsapódó víztől.",
+                "ro": "Drumurile neasfaltate pot fi noroioase și alunecoase pe ploaie. Asigurați-vă că aveți anvelope bune și folosiți apărători pentru a vă proteja de stropi.",
+                "en": "The unpaved paths can be muddy and slippery in the rain. Ensure your bike has good tires and use fenders to protect yourself from water splashes."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Bendaña o Paternina",
+                "hu": "Bendaña vagy Paternina Palota",
+                "ro": "Palatul Bendaña sau Paternina",
+                "en": "Palace of Bendaña or Paternina"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Arkaden in der Nähe sicher ab. Nutzen Sie die Zeit im Palast, um Ihre Regenbekleidung kurz zu lüften und sich aufzuwärmen.",
+                "hu": "Parkolja le kerékpárját biztonságosan a közeli árkádok alatt. Használja ki a palotában töltött időt esőruhája szellőztetésére és a bemelegedésre.",
+                "ro": "Parcați bicicleta în siguranță sub arcadele din apropiere. Profitați de timpul petrecut în palat pentru a vă usca echipamentul de ploaie și a vă încălzi.",
+                "en": "Park your bike securely under the nearby arches. Use your time inside the palace to vent your rain gear and warm up before the next leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Castillo",
+                "hu": "Castillo Kilátó",
+                "ro": "Punctul de belvedere Castillo",
+                "en": "Castillo Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zum Aussichtspunkt erfordert bei Nässe gute Traktion. Seien Sie bei der Abfahrt besonders vorsichtig und bremsen Sie frühzeitig vor den Kurven.",
+                "hu": "A kilátóhoz vezető emelkedő nedves időben jó tapadást igényel. Lefelé menet legyen különösen óvatos, és fékezzen időben a kanyarok előtt.",
+                "ro": "Urcarea spre punctul de belvedere necesită o tracțiune bună pe umiditate. Fiți extrem de prudenți la coborâre și frânați din timp înaintea curbelor.",
+                "en": "The climb to the viewpoint requires good traction in wet conditions. Be extra cautious during the descent and brake early before reaching the turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Bilbaínas. Viña Pomal",
+                "hu": "Bodegas Bilbaínas. Viña Pomal",
+                "ro": "Bodegas Bilbaínas. Viña Pomal",
+                "en": "Bodegas Bilbaínas. Viña Pomal"
+              },
+              "tip_5lang": {
+                "de": "Der große Innenhof bietet Platz zum Abstellen der Räder. Genießen Sie die Führung durch die Keller, während Ihre Ausrüstung im Eingangsbereich trocknen kann.",
+                "hu": "A tágas belső udvar bőven kínál helyet a kerékpárok tárolására. Élvezze a pincetúrát, miközben felszerelése a bejárati részen száradhat.",
+                "ro": "Curtea interioară mare oferă spațiu suficient pentru parcarea bicicletelor. Bucurați-vă de turul pivnițelor în timp ce echipamentul se poate usca la intrare.",
+                "en": "The large inner courtyard provides ample space for bike parking. Enjoy the cellar tour while allowing your gear to dry off in the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Briñas Brücke",
+                "hu": "Briñas Híd",
+                "ro": "Podul Briñas",
+                "en": "Briñas Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine der Brücke sind bei Regen extrem glatt. Fahren Sie langsam oder schieben Sie Ihr Rad, um einen Sturz in den Fluss Ebro zu vermeiden.",
+                "hu": "A híd régi kövei esőben rendkívül csúszósak. Tekerjen lassan vagy tolja a kerékpárt, hogy elkerülje az esést az Ebro folyó közelében.",
+                "ro": "Pietrele vechi ale podului sunt extrem de alunecoase pe ploaie. Mergeți încet sau împingeți bicicleta pentru a evita o căzătură lângă râul Ebro.",
+                "en": "The bridge's ancient stones become extremely slippery in the rain. Ride slowly or walk your bike to avoid any accidents near the Ebro river."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Muga S.A.",
+                "hu": "Bodegas Muga S.A.",
+                "ro": "Bodegas Muga S.A.",
+                "en": "Bodegas Muga S.A."
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie den Tag gemütlich im Trockenen ausklingen lassen. Denken Sie daran, dass Ihre Reaktionszeit auf dem Rad nach einer Weinprobe beeinträchtigt sein könnte.",
+                "hu": "Itt kellemesen, szárazon zárhatja a napot. Ne feledje, hogy a borkóstoló után a reakcióideje a kerékpáron megváltozhat, közlekedjen felelősségteljesen.",
+                "ro": "Aici puteți încheia ziua relaxat la adăpost de ploaie. Rețineți că timpul de reacție pe bicicletă poate fi afectat după o degustare de vin.",
+                "en": "End your rainy day comfortably indoors here. Remember that your reaction time on the bike might be affected after wine tasting; ride responsibly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Haro bietet klare Luft und weite Blicke über die schlafenden Weinberge. Morgens starten wir warm eingepackt Richtung Santa Lucía. Mittags wärmen wir uns in den Palästen der Altstadt auf. Der frühe Nachmittag gehört dem Castillo, bevor das Licht um 16:30 Uhr golden wird. Ab 17:00 Uhr ist es dunkel, sodass wir den Abend in den warmen Bodegas verbringen.",
+            "hu": "A téli kerékpározás Haróban friss levegőt és tágas kilátást kínál az alvó szőlőültetvényekre. Reggel melegen felöltözve indulunk Santa Lucía felé. Délben az óváros palotáiban melegszünk fel. Kora délután a Castillo a cél, mielőtt a fények 16:30-kor aranyszínűre váltanak. Öt után már sötét van, így az estét a meleg borpincékben töltjük.",
+            "ro": "Ciclismul de iarnă în Haro oferă aer curat și vederi ample asupra podgoriilor adormite. Dimineața pornim bine echipați spre Santa Lucía. La prânz ne încălzim în palatele din centrul vechi. După-amiaza devreme vizităm Castillo înainte ca lumina să devină aurie la 16:30. De la 17:00 se întunecă, așa că petrecem seara în cramele călduroase.",
+            "en": "Winter cycling in Haro offers crisp air and expansive views over dormant vineyards. Wrap up warm for a morning ride to Santa Lucía. At noon, warm up inside the old town's palaces. The early afternoon is for the Castillo viewpoint before the 16:30 golden hour. Since it gets dark by 17:00, we spend the evening inside the warm, inviting wineries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Lucía",
+                "hu": "Santa Lucía",
+                "ro": "Santa Lucía",
+                "en": "Santa Lucía"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Morgenluft ist erfrischend, erfordert aber gute Handschuhe und Windschutz. Achten Sie auf Raureif auf den Wegen, der die Fahrt rutschig machen kann.",
+                "hu": "A hideg reggeli levegő frissítő, de jó kesztyűt és szélvédelmet igényel. Ügyeljen az utakon lévő zúzmarára, amely csúszóssá teheti a tekerést.",
+                "ro": "Aerul rece de dimineață este revigorant, dar necesită mănuși bune și protecție la vânt. Atenție la chiciura de pe drumuri care poate face deplasarea alunecoasă.",
+                "en": "The cold morning air is refreshing but requires good gloves and wind protection. Watch out for frost on the paths, which can make your ride slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Bendaña o Paternina",
+                "hu": "Bendaña vagy Paternina Palota",
+                "ro": "Palatul Bendaña sau Paternina",
+                "en": "Palace of Bendaña or Paternina"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Finger wieder aufzuwärmen, während man die Architektur bewundert. Nutzen Sie die Fahrradständer in der Nähe und sichern Sie Ihr Rad gut.",
+                "hu": "Ideális hely az ujjak felmelegítésére, miközben az építészetet csodálja. Használja a közeli kerékpártárolókat és zárja le biztonságosan a biciklit.",
+                "ro": "Un loc ideal pentru a vă încălzi mâinile în timp ce admirați arhitectura. Folosiți suporturile de biciclete din apropiere și asigurați-vă bicicleta bine.",
+                "en": "An ideal spot to warm up your fingers while admiring the architecture. Use the bike racks nearby and ensure your bike is properly secured."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Castillo",
+                "hu": "Castillo Kilátó",
+                "ro": "Punctul de belvedere Castillo",
+                "en": "Castillo Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine enorme Sichtweite bis zu den Bergen. Seien Sie rechtzeitig vor 17:00 Uhr wieder im Tal, da die Temperaturen bei Sonnenuntergang rapide fallen.",
+                "hu": "A tiszta téli levegő hatalmas látótávolságot biztosít egészen a hegyekig. Érjen vissza a völgybe 17:00 előtt, mert naplemente után hirtelen zuhan a hőmérséklet.",
+                "ro": "Aerul clar de iarnă asigură o vizibilitate excelentă până la munți. Reveniți în vale înainte de ora 17:00, deoarece temperatura scade rapid după apus.",
+                "en": "The clear winter air provides incredible visibility all the way to the mountains. Get back to the valley by 17:00 as temperatures drop rapidly after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Bilbaínas. Viña Pomal",
+                "hu": "Bodegas Bilbaínas. Viña Pomal",
+                "ro": "Bodegas Bilbaínas. Viña Pomal",
+                "en": "Bodegas Bilbaínas. Viña Pomal"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch im Weinkeller bietet eine willkommene Pause von der Kälte. Tragen Sie beim Verlassen der Bodega wieder Ihre winddichte Jacke für die Weiterfahrt.",
+                "hu": "A borkóstolás kellemes pihenőt nyújt a kinti hideg után. A borászat elhagyásakor ne felejtse el visszavenni szélálló kabátját a folytatáshoz.",
+                "ro": "Vizita la cramă oferă o pauză binevenită de la frigul de afară. La plecare, puneți-vă din nou jacheta rezistentă la vânt pentru continuarea drumului.",
+                "en": "The winery visit offers a welcome break from the winter cold. Put your windproof jacket back on before leaving the building to continue your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Briñas Brücke",
+                "hu": "Briñas Híd",
+                "ro": "Podul Briñas",
+                "en": "Briñas Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für tolle Schattenwürfe auf der Brücke. Achten Sie auf eisige Stellen auf dem Boden, besonders in der Nähe des Wassers.",
+                "hu": "Az alacsonyan járó nap csodás árnyékokat vet a hídra. Ügyeljen a jeges foltokra a talajon, különösen a víz közelében, ahol nagyobb a páratartalom.",
+                "ro": "Soarele jos creează umbre superbe pe pod. Atenție la zonele înghețate de pe sol, în special în apropierea apei unde umiditatea este ridicată.",
+                "en": "The low sun creates beautiful shadows across the bridge. Watch out for icy patches on the ground, especially near the water where humidity is higher."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Muga S.A.",
+                "hu": "Bodegas Muga S.A.",
+                "ro": "Bodegas Muga S.A.",
+                "en": "Bodegas Muga S.A."
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die letzte Station zum Aufwärmen, bevor Sie die Heimreise antreten. Denken Sie an eine gute Fahrradbeleuchtung für die Rückfahrt nach 17:00 Uhr.",
+                "hu": "Használja ki az utolsó állomást a bemelegedésre, mielőtt hazaindulna. Gondoskodjon megfelelő kerékpáros világításról az öt óra utáni visszaúthoz.",
+                "ro": "Folosiți ultima oprire pentru a vă încălzi înainte de drumul spre casă. Nu uitați să aveți lumini bune la bicicletă pentru drumul de după ora 17:00.",
+                "en": "Use this final stop to warm up before heading back. Ensure you have working bike lights for the return journey as it will be dark after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "A reggel a Teatro Bretón kulturális varázsával indul, majd a város történelmi falaihoz autózunk. Délben meglátogatjuk a híres Viña Pomal pincészetet, majd a gyönyörű Puente de Briñas hídhoz vezetünk az Ebro folyó felett. A délután kellemes kocsikázást kínál a festői tájon keresztül a rekreációs zónák felé. Az estét a városi medencéknél pihenve, kellemes hangulatban zárjuk.",
         "ro": "Dimineața începe cu farmecul cultural de la Teatro Bretón, urmat de o scurtă oprire la zidurile antice. La prânz, vizitați renumita cramă Viña Pomal și conduceți spre frumosul pod Puente de Briñas. După-amiaza oferă o plimbare pitorească cu mașina prin peisajele viticole către zonele de recreere. Seara se încheie perfect, relaxându-vă la piscinele municipale din împrejurimi.",
         "en": "The morning begins with cultural charm at the Teatro Bretón, followed by a quick drive to the ancient city walls. At midday, visit the renowned Viña Pomal winery and drive to the beautiful Puente de Briñas. The afternoon offers a scenic drive through the surrounding vineyard landscapes toward the recreational areas. The evening concludes perfectly, relaxing by the municipal pools."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Haro auch bei Regen bequem zu erkunden, da man trocken zwischen den Highlights wechselt. Morgens besuchen wir das Bretón-Theater. Mittags schauen wir uns die Stadtmauern an, bevor wir zu den Bodegas fahren. Der Nachmittag steht im Zeichen der Entspannung in überdachten Anlagen. Abends lassen wir den Tag gemütlich ausklingen, ohne uns um das Wetter sorgen zu müssen.",
+            "hu": "Autóval Haro esőben is kényelmesen felfedezhető, hiszen szárazon közlekedhetünk a látnivalók között. Reggel a Bretón színházat látogatjuk meg. Délben a városfalakat nézzük meg, mielőtt a borászatok felé vennénk az irányt. A délután a pihenésé a fedett létesítményekben. Este kényelmesen zárjuk a napot, anélkül, hogy aggódnánk az időjárás miatt.",
+            "ro": "Cu mașina, Haro este ușor de explorat chiar și pe ploaie, trecând uscat de la un obiectiv la altul. Dimineața vizităm teatrul Bretón. La prânz vedem zidurile orașului înainte de a merge spre crame. După-amiaza este dedicată relaxării în locații acoperite. Seara încheiem ziua confortabil, fără a ne face griji cu privire la vremea de afară.",
+            "en": "By car, Haro remains easy to explore in the rain, moving between highlights while staying dry. Visit the Bretón theater in the morning. At noon, check out the city walls before driving to the wineries. The afternoon is dedicated to relaxation in covered facilities. End your day comfortably in the evening without having to worry about the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bretón",
+                "hu": "Bretón",
+                "ro": "Bretón",
+                "en": "Bretón"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Eingangs, um den Regen zu meiden. Das Innere des Theaters bietet eine prachtvolle und trockene Atmosphäre für kulturelle Entdeckungen.",
+                "hu": "Parkoljon a bejárat közelében, hogy elkerülje az esőt. A színház belseje pompás és száraz környezetet biztosít a kulturális felfedezésekhez.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia. Interiorul teatrului oferă o atmosferă magnifică și uscată pentru descoperiri culturale.",
+                "en": "Park near the entrance to minimize your time in the rain. The theater's interior offers a grand and dry atmosphere for cultural exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Stadtmauer",
+                "hu": "Ősi városfal",
+                "ro": "Vechiul zid al orașului",
+                "en": "Ancient City Wall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Mauern aus dem Auto oder nutzen Sie einen Regenschirm für einen kurzen Fotostopp. Die nassen Steine haben einen besonderen Glanz.",
+                "hu": "Élvezze a kilátást a falakra az autóból, vagy használjon esernyőt egy rövid fotószünethez. A nedves köveknek különleges csillogása van esőben.",
+                "ro": "Bucurați-vă de vederea zidurilor din mașină sau folosiți o umbrelă pentru o scurtă oprire foto. Pietrele umede au o strălucire aparte pe ploaie.",
+                "en": "Enjoy the view of the walls from your car or use an umbrella for a quick photo stop. The wet stones have a unique shimmer in the rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Bilbaínas. Viña Pomal",
+                "hu": "Bodegas Bilbaínas. Viña Pomal",
+                "ro": "Bodegas Bilbaínas. Viña Pomal",
+                "en": "Bodegas Bilbaínas. Viña Pomal"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kundenparkplatz direkt an der Bodega. In den weitläufigen Kellern sind Sie sicher vor dem Regen und können die Weinwelt in aller Ruhe genießen.",
+                "hu": "Használja a borászat közvetlen ügyfélparkolóját. A kiterjedt pincékben védve lesz az esőtől, és teljes nyugalomban élvezheti a borok világát.",
+                "ro": "Folosiți parcarea pentru clienți direct la cramă. În pivnițele vaste veți fi protejați de ploaie și puteți savura lumea vinului în liniște.",
+                "en": "Take advantage of the customer parking right at the winery. Inside the extensive cellars, you'll be safe from the rain and can enjoy the wine tour at ease."
+              }
+            },
+            {
+              "name": {
+                "de": "Briñas Brücke",
+                "hu": "Briñas Híd",
+                "ro": "Podul Briñas",
+                "en": "Briñas Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die Brücke, da die Sicht bei starkem Regen eingeschränkt sein kann. Ein kurzer Halt am Flussufer bietet dramatische Fotomotive des Ebro.",
+                "hu": "Hajtson lassan a hídon, mivel a látótávolság heves esőben korlátozott lehet. Egy rövid megálló a folyóparton drámai fotótémát kínál az Ebróról.",
+                "ro": "Conduceți încet pe pod, deoarece vizibilitatea poate fi redusă în caz de ploaie torențială. O scurtă oprire pe mal oferă cadre dramatice cu râul Ebro.",
+                "en": "Drive slowly across the bridge as visibility might be reduced in heavy rain. A quick stop by the riverbank offers dramatic photo opportunities of the Ebro."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina HerriGain.",
+                "hu": "Piscina HerriGain.",
+                "ro": "Piscina HerriGain.",
+                "en": "Piscina HerriGain."
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Rückzugsort im Trockenen. Genießen Sie die Freizeiteinrichtungen und entspannen Sie sich, während es draußen regnet. Handtücher nicht vergessen.",
+                "hu": "Ideális fedett búvóhely az eső elől. Élvezze a szabadidős szolgáltatásokat és lazítson, amíg kint esik az eső. Ne felejtsen el törölközőt vinni.",
+                "ro": "Un refugiu ideal la adăpost de ploaie. Bucurați-vă de facilitățile de agrement și relaxați-vă în timp ce afară plouă. Nu uitați prosoapele.",
+                "en": "An ideal indoor retreat from the rain. Enjoy the recreational facilities and relax while it pours outside. Don't forget to bring your own towels."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Városi Medence",
+                "ro": "Piscina Municipală",
+                "en": "Municipal Pool"
+              },
+              "tip_5lang": {
+                "de": "Die Hallenbereiche bieten perfekten Schutz und Sportmöglichkeiten. Nutzen Sie die warmen Duschen, um sich nach dem grauen Tag wieder aufzuwärmen.",
+                "hu": "A fedett medencerészek tökéletes védelmet és sportolási lehetőséget nyújtanak. Használja a meleg zuhanyokat, hogy felfrissüljön a szürke nap után.",
+                "ro": "Zonele acoperite ale piscinei oferă protecție perfectă și opțiuni de sport. Folosiți dușurile calde pentru a vă revigora după o zi cenușie.",
+                "en": "The indoor pool areas provide perfect shelter and exercise options. Use the warm showers to refresh yourself after a gloomy, rainy day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto in Haro ideal, um die Heizung zwischen den Stopps zu genießen. Morgens besuchen wir kulturelle Highlights wie das Bretón. Mittags bestaunen wir die Stadtmauer bei strahlendem, kühlem Wetter. Nachmittags nutzen wir das Tageslicht für die Brücke, bevor die Sonne um 17:00 Uhr untergeht. Den Abend verbringen wir in der Wärme der Hallenbäder oder gemütlichen Bodegas.",
+            "hu": "Télen az autó Haróban ideális, hogy élvezhessük a fűtést a megállók között. Reggel kulturális látnivalókat, például a Bretónt látogatjuk meg. Délben a városfalat csodáljuk meg a ragyogó, hűvös időben. Délután kihasználjuk a fényt a hídnál az ötkor kezdődő naplemente előtt. Az estét a meleg uszodákban vagy borászatokban töltjük.",
+            "ro": "Iarna, mașina în Haro este ideală pentru a te bucura de căldură între opriri. Dimineața vizităm obiective culturale precum Bretón. La prânz admirăm zidul orașului pe o vreme senină dar rece. După-amiaza profităm de lumină la pod înainte de apusul de la ora 17:00. Seara o petrecem în căldura piscinelor acoperite sau a cramelor.",
+            "en": "In winter, using a car in Haro is ideal for staying warm between stops. Start with cultural highlights like the Bretón in the morning. At noon, admire the city wall in the bright, crisp weather. Use the afternoon light for the bridge before the 17:00 sunset. Spend your winter evening in the warmth of indoor pools or cozy wineries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bretón",
+                "hu": "Bretón",
+                "ro": "Bretón",
+                "en": "Bretón"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Theater ist im Winter ein wunderbarer Ort für Kultur. Achten Sie auf die Abendvorstellungen, die oft schon kurz nach Einbruch der Dunkelheit beginnen.",
+                "hu": "A fűtött színház télen csodálatos helyszín a kultúrához. Figyelje az esti előadásokat, amelyek gyakran már röviddel sötétedés után elkezdődnek.",
+                "ro": "Teatrul încălzit este un loc minunat pentru cultură iarna. Urmăriți spectacolele de seară, care încep adesea la scurt timp după lăsarea întunericului.",
+                "en": "The heated theater is a wonderful cultural venue in winter. Check for evening performances that often start shortly after darkness falls at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Stadtmauer",
+                "hu": "Ősi városfal",
+                "ro": "Vechiul zid al orașului",
+                "en": "Ancient City Wall"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die alten Steine in warmen Tönen. Nutzen Sie den Parkplatz in der Nähe für einen kurzen, erfrischenden Spaziergang.",
+                "hu": "Az alacsonyan járó téli nap meleg tónusokkal világítja meg a régi köveket. Használja a közeli parkolót egy rövid, frissítő sétához a fal mentén.",
+                "ro": "Soarele de iarnă luminează pietrele vechi în tonuri calde. Folosiți parcarea din apropiere pentru o scurtă plimbare revigorantă de-a lungul zidului.",
+                "en": "The low winter sun illuminates the ancient stones in warm tones. Use the nearby parking for a short, refreshing walk along the historic fortification."
+              }
+            },
+            {
+              "name": {
+                "de": "Bodegas Bilbaínas. Viña Pomal",
+                "hu": "Bodegas Bilbaínas. Viña Pomal",
+                "ro": "Bodegas Bilbaínas. Viña Pomal",
+                "en": "Bodegas Bilbaínas. Viña Pomal"
+              },
+              "tip_5lang": {
+                "de": "Die Kellerführungen sind im Winter weniger überlaufen und bieten eine gemütliche Atmosphäre. Ein kräftiger Rotwein hilft, die winterliche Kälte zu vergessen.",
+                "hu": "A pincetúrák télen kevésbé zsúfoltak és meghittebb hangulatot kínálnak. Egy testes vörösbor segít elfelejteni a kinti téli hideget.",
+                "ro": "Tururile în pivniță sunt mai puțin aglomerate iarna și oferă o atmosferă intimă. Un vin roșu corpolent vă va ajuta să uitați de frigul de afară.",
+                "en": "Cellar tours are less crowded in winter and offer a cozy, intimate atmosphere. A full-bodied red wine is perfect for forgetting the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Briñas Brücke",
+                "hu": "Briñas Híd",
+                "ro": "Podul Briñas",
+                "en": "Briñas Bridge"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Brücke am frühen Nachmittag für das beste Fotolicht. Achten Sie auf mögliche Glätte auf der Fahrbahn bei Temperaturen um den Gefrierpunkt.",
+                "hu": "Látogassa meg a hidat kora délután a legjobb fotófényekért. Ügyeljen az úttest esetleges jegesedésére fagypont körüli hőmérséklet esetén.",
+                "ro": "Vizitați podul după-amiaza devreme pentru cea mai bună lumină foto. Atenție la posibila polei pe carosabil la temperaturi apropiate de îngheț.",
+                "en": "Visit the bridge in the early afternoon for the best photographic light. Be aware of potential icy patches on the road when temperatures are near freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina HerriGain.",
+                "hu": "Piscina HerriGain.",
+                "ro": "Piscina HerriGain.",
+                "en": "Piscina HerriGain."
+              },
+              "tip_5lang": {
+                "de": "Das warme Wasser ist im Winter besonders wohltuend für die Muskeln. Genießen Sie die Entspannung in den Innenbereichen, während draußen der Winterwind weht.",
+                "hu": "A meleg víz télen különösen jótékony hatással van az izmokra. Élvezze a lazítást a belső terekben, miközben kint fúj a hideg téli szél.",
+                "ro": "Apa caldă este deosebit de benefică pentru mușchi iarna. Bucurați-vă de relaxare în spațiile interioare în timp ce afară suflă vântul rece de iarnă.",
+                "en": "The warm water is especially soothing for muscles in the winter. Enjoy relaxing in the indoor areas while the winter wind blows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Városi Medence",
+                "ro": "Piscina Municipală",
+                "en": "Municipal Pool"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag vor der Kälte geschützt zu beenden. Nutzen Sie die Sauna, falls vorhanden, um Ihre Abwehrkräfte für den Winter zu stärken.",
+                "hu": "A tökéletes hely a nap befejezésére a hidegtől védetten. Használja a szaunát, ha van, hogy erősítse immunrendszerét a téli szezonra.",
+                "ro": "Locul perfect pentru a încheia ziua protejat de frigul de afară. Folosiți sauna, dacă este disponibilă, pentru a vă întări imunitatea pentru iarnă.",
+                "en": "The perfect spot to end your day sheltered from the cold. Use the sauna, if available, to boost your immune system during the winter season."
+              }
+            }
+          ]
+        }
       }
     }
   }

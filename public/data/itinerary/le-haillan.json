@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a központi templom nyugalmával, amely békés alaphangot ad. Ezt követően szívja magába a helyi kulturális központ művészeti hangulatát, majd induljon el a történelmi birtok felé. A délutánt a Bel-Air park zöldjében és a különleges ökológiai víztisztító medence felfedezésével tölti. Zárja kellemes sétáját Le Haillan fejlődésén elmélkedve.",
         "ro": "Începeți ziua îmbrățișând liniștea bisericii centrale. Apoi, absorbiți vibrația artistică de la sala de spectacole înainte de a vă îndrepta spre proprietatea istorică. După-amiaza este plină de verdeața din Parcul Bel-Air și explorarea unicului bazin ecologic. Încheiați-vă plimbarea relaxantă reflectând la frumoasa transformare a orașului Le Haillan.",
         "en": "Start your day embracing the spiritual tranquility of the central church, setting a peaceful tone. Next, absorb the artistic vibe at the local performance hall before venturing towards the historical estate. Your afternoon is filled with greenery at Bel-Air Park and exploring the unique ecological water basin. Conclude your leisurely stroll reflecting on Le Haillan's transformation."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen mit einem trockenen Unterschlupf in der Kirche und im Kulturzentrum. Mittags erkunden Sie das Bel-Air-Anwesen gut geschützt mit einem Regenschirm. Nachmittags sind der Park und das Wasserbecken nass, aber sehr stimmungsvoll; die Gehwege können rutschig sein. Abends sollten Sie die nasse Tour sicher und trocken beenden.",
+            "hu": "Kezdje esős reggelét a történelmi templom és a kulturális központ fedett menedékében. Délben fedezze fel a Bel-Air birtokot esernyővel a kézben. Délután a park és a víztározó nedves, de rendkívül hangulatos; az utak csúszósak lehetnek, így óvatosan sétáljon. Estére térjen be egy közeli kávézóba megpihenni.",
+            "ro": "Începeți dimineața ploioasă adăpostindu-vă în biserica istorică și centrul cultural. La prânz, explorați impresionantul domeniu Bel-Air protejați de umbrelă. După-amiaza, parcul și bazinul sunt umede, dar pline de farmec; atenție mare la aleile alunecoase. Seara, încheiați plimbarea într-un loc confortabil și uscat.",
+            "en": "Start your rainy morning seeking reliable shelter in the local church and cultural center. Midday, explore the historic Bel-Air estate using an umbrella to stay perfectly dry. In the afternoon, brave the park and water basin; the paths might be muddy but highly atmospheric. Finish the wet walk safely indoors before dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Merci",
+                "hu": "Notre-Dame-de-la-Merci templom",
+                "ro": "Biserica Notre-Dame-de-la-Merci",
+                "en": "Notre-Dame-de-la-Merci Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Buntglasfenster an diesem grauen Tag; die Kirche ist ein perfekter, völlig trockener Zufluchtsort vor dem morgendlichen Regen.",
+                "hu": "Csodálja meg a lenyűgöző üvegablakokat ezen a borús napon; a belső tér tökéletes és teljesen száraz menedéket nyújt a hirtelen reggeli záporok elől.",
+                "ro": "Admirați vitraliile superbe care luminează zilele gri; interiorul reprezintă un sanctuar perfect și complet uscat împotriva ploilor grele matinale.",
+                "en": "Admire the beautiful stained glass lighting up even on the grayest days; it provides a perfect, completely dry sanctuary from the heavy morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Entrepôt",
+                "hu": "L'Entrepôt",
+                "ro": "L'Entrepôt",
+                "en": "L'Entrepôt"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierenden Ausstellungen in diesem großen überdachten Kulturzentrum, während es draußen in Strömen regnet und die Straßen nass sind.",
+                "hu": "Fedezze fel az aktuális kiállításokat ebben a tágas, fedett kulturális térben, és maradjon teljesen szárazon, miközben kint folyamatosan zuhog az eső.",
+                "ro": "Explorați expozițiile interesante în acest spațiu cultural complet acoperit, bucurându-vă de căldură și artă în timp ce afară plouă torențial fără oprire.",
+                "en": "Explore the fascinating current exhibitions in this indoor cultural hub, offering a cozy and deeply enriching retreat while the rain pours continuously outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Anwesen",
+                "hu": "Bel-Air birtok",
+                "ro": "Domeniul Bel-Air",
+                "en": "Bel-Air Estate"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die historische Architektur sicher unter dem Regenschirm; bleiben Sie unbedingt auf den befestigten Wegen, um tiefe Schlammpfützen zu vermeiden.",
+                "hu": "Fedezze fel az építészetet esernyő alól; feltétlenül maradjon a szilárd burkolatú utakon, hogy elkerülje a birtokon kialakuló nagy sarat és tócsákat.",
+                "ro": "Descoperiți arhitectura istorică la pas sub umbrelă; rămâneți neapărat pe aleile bine pavate pentru a evita noroiul dens și bălțile de pe gazonul ud.",
+                "en": "Discover the historical architecture safely from under your umbrella; stay entirely on the paved walkways to avoid the muddy patches forming on the lawns."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Park",
+                "hu": "Bel-Air park",
+                "ro": "Parcul Bel-Air",
+                "en": "Bel-Air Park"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Laub schafft hier eine unglaublich üppige Atmosphäre; tragen Sie unbedingt wasserdichte Schuhe, da das Gras extrem nass und rutschig sein kann.",
+                "hu": "A nedves lombozat buja, mélyzöld hangulatot teremt; viseljen magas szárú, vízálló cipőt, mert a park füve gyorsan és nagyon erősen átázhat az esőtől.",
+                "ro": "Frunzișul ud creează o atmosferă verde foarte luxuriantă; purtați obligatoriu cizme impermeabile, iarba din parc fiind de obicei plină de apă de ploaie.",
+                "en": "The wet foliage creates a lush, highly vibrant green atmosphere; wear proper waterproof boots as the grassy sections get quite waterlogged and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Phytotreatment-Becken",
+                "hu": "Fitotisztító medence",
+                "ro": "Bazinul de fitotratare",
+                "en": "Phytotreatment Water Basin"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie fasziniert, wie das ökologische System den Regen bewältigt; seien Sie jedoch vorsichtig, denn die Holzränder können bei Nässe sehr rutschig sein.",
+                "hu": "Nézze meg, hogyan dolgozza fel az ökológiai rendszer az esővizet; sétáljon nagyon óvatosan, mert a medence körüli nedves fa szegélyek rendkívül csúszósak.",
+                "ro": "Observați cum acest sistem ecologic avansat gestionează ploaia; aveți mare grijă la pași, marginile din lemn pot fi extrem de alunecoase când sunt ude.",
+                "en": "See firsthand how the ecological water system beautifully handles the rain; stay cautious as the wet wooden viewing edges can become dangerously slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frostigen Morgen gut verpackt in der Kirche und im beheizten Kulturzentrum. Mittags ziehen Sie sich warm an, um das reifbedeckte Bel-Air-Anwesen zu bewundern. Der Nachmittagsspaziergang durch den Park erfordert ein zügiges Tempo gegen die Kälte. Kehren Sie gegen 17:00 Uhr bei Einbruch der Dunkelheit rasch zurück.",
+            "hu": "A fagyos reggelt a történelmi templom csendjében és a kulturális központban kezdje. Délben öltözzön fel melegen, hogy megcsodálja a dérmosta Bel-Air birtokot. A délutáni parki séta során lépjen szaporábban a hideg ellen. 17:00 óra körül, a korai sötétedés beálltával mindenképp térjen vissza egy meleg, fűtött helyre.",
+            "ro": "Începeți dimineața geroasă la biserica istorică și în interiorul centrului cultural. La prânz, îmbrăcați-vă foarte gros pentru a admira domeniul Bel-Air acoperit de brumă. Plimbarea de după-amiază necesită un pas vioi pentru încălzire. Retrageți-vă la interior până la ora 17:00, odată cu lăsarea rapidă a întunericului de iarnă.",
+            "en": "Begin your crisp winter morning exploring the historic church and local indoor cultural hub. At noon, wrap up warmly to see the Bel-Air estate's frost-kissed architecture. The afternoon walk through the park requires a brisk pace to stay warm. Head back inside securely by 17:00 as the early twilight and freezing temperatures settle in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Merci",
+                "hu": "Notre-Dame-de-la-Merci templom",
+                "ro": "Biserica Notre-Dame-de-la-Merci",
+                "en": "Notre-Dame-de-la-Merci Church"
+              },
+              "tip_5lang": {
+                "de": "Die eiskalte Morgenluft bildet einen schönen Kontrast zum ruhigen Innenraum; es ist der perfekte, windgeschützte Ort für einen sehr friedlichen Winterstart.",
+                "hu": "A kinti fagyos levegő csodás kontrasztot alkot a templom meleg, csendes belső terével; ez az épület tökéletes egy békés és szélvédett téli induláshoz.",
+                "ro": "Aerul înghețat al dimineții contrastează frumos cu interiorul cald și liniștit; este locul perfect, complet ferit de vânt, pentru un început de iarnă pașnic.",
+                "en": "The bitterly cold morning air contrasts beautifully with the warm, quiet interior; it is a perfect, wind-protected sanctuary for a peaceful winter start."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Entrepôt",
+                "hu": "L'Entrepôt",
+                "ro": "L'Entrepôt",
+                "en": "L'Entrepôt"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich tief im Inneren dieses Kulturzentrums auf und genießen Sie in Ruhe die Kunst, bevor Sie wieder in die klirrende Winterkälte hinausgehen.",
+                "hu": "Melegedjen fel alaposan ebben a fűtött kulturális központban, és élvezze a kiállított művészetet, mielőtt visszatérne a csípős, jeges téli levegőre kint.",
+                "ro": "Încălziți-vă bine în interiorul acestui centru cultural și bucurați-vă de artă relaxat înainte de a ieși din nou în aerul deosebit de rece și tăios al iernii.",
+                "en": "Warm up completely inside this excellent cultural center while enjoying local arts before heavily bundling up to head back out into the chilly winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Anwesen",
+                "hu": "Bel-Air birtok",
+                "ro": "Domeniul Bel-Air",
+                "en": "Bel-Air Estate"
+              },
+              "tip_5lang": {
+                "de": "Die völlig kahlen Bäume bieten absolut freie Sicht auf die beeindruckende Fassade; ziehen Sie sich sehr warm an, da das offene Gelände extrem windig ist.",
+                "hu": "A teljesen csupasz téli fák zavartalan kilátást nyújtanak a homlokzatra; öltözzön nagyon vastagon, mert a nyílt terep itt fagyos és kifejezetten szeles.",
+                "ro": "Copacii rămași complet goi oferă o vedere clară a fațadei impunătoare; îmbrăcați-vă foarte gros, deoarece terenul complet deschis este extrem de vântos.",
+                "en": "The bare winter trees offer completely unobstructed views of the historic facade; bundle up tightly in thick layers as the open grounds can be deeply breezy."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Park",
+                "hu": "Bel-Air park",
+                "ro": "Parcul Bel-Air",
+                "en": "Bel-Air Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den wunderbar knirschenden Frost unter Ihren Winterstiefeln; bleiben Sie stetig in Bewegung, um Ihre Körperwärme optimal aufrechtzuerhalten.",
+                "hu": "Élvezze a friss, ropogós deret a csizmája alatt egy lendületes téli séta során; maradjon folyamatos mozgásban, hogy megőrizze teste megfelelő hőmérsékletét.",
+                "ro": "Bucurați-vă de bruma albă și crocantă sub ghete la o plimbare alertă; continuați să vă mișcați în ritm susținut pentru a vă menține căldura corporală optimă.",
+                "en": "Enjoy the crunchy white frost under your sturdy boots during a brisk walk; keep moving continuously at a good pace to maintain your essential body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Phytotreatment-Becken",
+                "hu": "Fitotisztító medence",
+                "ro": "Bazinul de fitotratare",
+                "en": "Phytotreatment Water Basin"
+              },
+              "tip_5lang": {
+                "de": "Das dunkle, stille Winterwasser spiegelt wunderbar den blassen Himmel; besuchen Sie es unbedingt vor 16:30 Uhr, um das rasch schwindende Tageslicht zu nutzen.",
+                "hu": "A mozdulatlan, sötét téli vizek csodásan tükrözik a sápadt eget; mindenképp érkezzen 16:30 előtt, hogy elcsípje a gyorsan fogyatkozó nappali fényt.",
+                "ro": "Apele reci și imobile reflectă minunat cerul palid de iarnă; asigurați-vă că vizitați locul înainte de ora 16:30 pentru a prinde prețioasa lumină a zilei.",
+                "en": "The completely still winter waters often reflect the pale gray sky beautifully; visit before 16:30 to safely catch the rapidly fading, weak winter daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a nyüzsgő kulturális központban, majd látogasson el a történelmi templomba. Tekerjen el az elegáns Bel-Air birtokig és az azt körülvevő zöld parkig. Ebéd után lovagoljon a lenyűgöző ökológiai medence és a családi játszótér felé. Az utolsó szakasz mélyen a békés Déhès-erdőbe viszi, amely tökéletes természetes lezárása ennek az aktív napnak.",
         "ro": "Începeți turul cu bicicleta la centrul cultural înainte de a vizita biserica istorică. Pedalați lin către eleganta proprietate Bel-Air și parcul său verde. După prânz, mergeți spre fascinantul bazin ecologic și zona de joacă. Ultima porțiune vă duce adânc în liniștitele păduri Déhès, oferind o încheiere naturală perfectă pentru o zi activă.",
         "en": "Kick off your cycling tour at the bustling cultural hub before visiting the historic church. Pedal smoothly to the elegant Bel-Air Estate and its surrounding green park. After lunch, ride towards the fascinating ecological basin and family play area. The final stretch takes you deep into the peaceful Déhès Woods, offering a perfect natural wrap-up to an active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre regnerische Morgenfahrt beginnt im sicheren Schutz der Kirche und des Entrepôt. Mittags radeln Sie sehr vorsichtig zum Bel-Air und achten auf nasse, rutschige Wege. Nachmittags fahren Sie behutsam am Becken und am nassen Wald vorbei. Sorgen Sie zwingend für gute Schutzbleche und eine auffällige, wasserdichte Regenbekleidung.",
+            "hu": "Esős reggeli tekerését kezdje a templom és az Entrepôt száraz védelmében. Délben fokozott óvatossággal pedálozzon a Bel-Air birtok felé, figyelve a nagyon csúszós utakra. Délután guruljon el az erdő mellett. Gondoskodjon megfelelő sárvédőről és világos, teljesen vízálló ruházatról a biztonságos esős közlekedéshez.",
+            "ro": "Pedalarea pe o dimineață ploioasă începe la adăpostul oferit de biserică și Entrepôt. La prânz, mergeți cu mare grijă spre Bel-Air, atenție la drumurile foarte alunecoase. După-amiaza treceți ușor pe lângă bazin și pădurea udă. Asigurați-vă că aveți apărători de noroi bune și haine impermeabile foarte vizibile.",
+            "en": "A wet morning ride perfectly starts at the local church and indoor cultural center. Around midday, cycle carefully to the Bel-Air grounds, taking special care on completely slick pathways. In the afternoon, cautiously ride past the basin and woods. Ensure your bike has solid mudguards and you wear high-visibility rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Merci",
+                "hu": "Notre-Dame-de-la-Merci templom",
+                "ro": "Biserica Notre-Dame-de-la-Merci",
+                "en": "Notre-Dame-de-la-Merci Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr nasses Fahrrad sicher ab und trocknen Sie sich im Inneren; die Kirche bietet einen verlässlichen und ruhigen Schutz vor dem starken Schauer.",
+                "hu": "Támassza le a vizes biciklit és térjen be teljesen megszáradni; a történelmi templom rendkívül csendes és biztos menedéket nyújt a reggeli zápor elől.",
+                "ro": "Lăsați bicicleta udă la intrare și pătrundeți pentru a vă usca bine; biserica oferă un refugiu pașnic și foarte sigur împotriva ploilor grele de dimineață.",
+                "en": "Park your wet bike safely and step inside to dry off properly; the church offers an incredibly quiet and fully reliable refuge from the heavy morning downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Entrepôt",
+                "hu": "L'Entrepôt",
+                "ro": "L'Entrepôt",
+                "en": "L'Entrepôt"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer überdachter Stopp, um sich aufzuwärmen und die nasse Ausrüstung zu trocknen, während Sie in Ruhe die kulturellen Ausstellungen betrachten.",
+                "hu": "Kiváló, tágas fedett megálló, ahol felmelegedhet és kényelmesen megszáríthatja vizes felszerelését, miközben a kulturális kiállításokat tanulmányozza.",
+                "ro": "Un popas acoperit excelent pentru a vă încălzi corpul și a vă usca echipamentul de ploaie, admirând în același timp superbele expoziții culturale locale.",
+                "en": "A simply fantastic indoor stop to warm up and thoroughly dry your wet gear while taking time checking out the vibrant cultural displays before cycling on."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Anwesen",
+                "hu": "Bel-Air birtok",
+                "ro": "Domeniul Bel-Air",
+                "en": "Bel-Air Estate"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das schöne Anwesen im Nieselregen; bremsen Sie extrem sanft auf dem sehr nassen Pflaster, um mit den Reifen auf keinen Fall wegzurutschen.",
+                "hu": "Csodálja meg a birtokot a folyamatos szitáló esőben; fékezzen rendkívül finoman a vizes, faleveles burkolaton, nehogy hirtelen megcsússzon a kerékpárja.",
+                "ro": "Admirați frumosul domeniu prin ploaia măruntă; frânați extrem de ușor pe pavajul umed și lucios pentru a nu risca absolut deloc o derapare periculoasă.",
+                "en": "View the imposing estate directly through the misty rain; remember to brake very gently on the surrounding wet pavement to strictly avoid any dangerous skidding."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Park",
+                "hu": "Bel-Air park",
+                "ro": "Parcul Bel-Air",
+                "en": "Bel-Air Park"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt den intensiven Erdgeruch; bleiben Sie strikt auf den befestigten Radwegen, da die kleinen Feldwege extrem weich und schlammig sind.",
+                "hu": "A heves eső felerősíti a friss föld illatát; szigorúan maradjon a kiépített, aszfaltozott kerékpárutakon, mert a földi ösvények most veszélyesen sárosak.",
+                "ro": "Ploaia intensifică minunat mirosul de pământ ud; rămâneți strict pe pistele pavate, deoarece drumurile de pământ devin imediat o masă de noroi alunecos.",
+                "en": "The steady rain brings out intense earthy smells; strictly stick to the main paved cycling paths as the dirt trails will be completely muddy and impassable."
+              }
+            },
+            {
+              "name": {
+                "de": "Phytotreatment-Becken",
+                "hu": "Fitotisztító medence",
+                "ro": "Bazinul de fitotratare",
+                "en": "Phytotreatment Water Basin"
+              },
+              "tip_5lang": {
+                "de": "Der Regen speist das Wasserbecken sehr aktiv; reduzieren Sie in den Kurven deutlich Ihre Geschwindigkeit, da die umliegenden Holzflächen sehr rutschig sind.",
+                "hu": "A bőséges eső aktívan táplálja a medencét; kanyarodáskor határozottan mérsékelje a sebességét, mivel a környező nedves fafelületek kifejezetten síkosak.",
+                "ro": "Ploaia torențială alimentează activ bazinul plin; reduceți substanțial viteza la viraje, deoarece suprafețele din lemn înconjurătoare pot fi foarte alunecoase.",
+                "en": "The rain feeds the entire basin quite actively; be sure to lower your speed considerably as the surrounding wet cycling surfaces might be extremely slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinderspielplatz",
+                "hu": "Játszótér",
+                "ro": "Loc de joacă pentru copii",
+                "en": "Children's Playground"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn die Spielgeräte für eine Nutzung viel zu nass sind, bieten die kleinen überdachten Rastplätze einen tollen, schnellen Schutz für eine Trinkpause.",
+                "hu": "Bár a játékok most teljesen vizesek a használathoz, a masszív tetővel fedett pihenőhelyek gyors, praktikus menedéket nyújtanak egy rövid kerékpáros szünethez.",
+                "ro": "Deși echipamentele sunt prea ude pentru joacă, zonele de odihnă foarte bine acoperite oferă un refugiu excelent și rapid pentru o scurtă pauză de hidratare.",
+                "en": "Though it might be far too wet for the equipment itself, the safely covered seating areas gracefully offer a quick, dry rest stop for tired local cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Déhès-Wald",
+                "hu": "Déhès-erdő",
+                "ro": "Pădurea Déhès",
+                "en": "Déhès Woods"
+              },
+              "tip_5lang": {
+                "de": "Das dichte Blätterdach bietet einen natürlichen Schutz vor leichtem Regen; achten Sie jedoch gut auf die gefährlich rutschigen, nassen Blätter auf den Wegen.",
+                "hu": "A fák sűrű lombkoronája kellemes, természetes védelmet nyújt az eső ellen; nagyon vigyázzon a kanyarokban a földön heverő, alattomosan csúszós falevelekkel.",
+                "ro": "Coronamentul dens al copacilor oferă o protecție naturală perfectă împotriva ploii; atenție maximă la frunzele ude și extrem de alunecoase de pe poteci.",
+                "en": "The deep forest canopy impressively provides natural cover from light rain; beware completely of the very slippery wet leaves and exposed roots on the trails."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Morgenfahrt beginnt wärmend an der Kirche und am Kulturzentrum. Mittags treten Sie kräftig durch den Park in die Pedale, um bei der Kälte körperlich warm zu bleiben. Die Nachmittagsroute führt Sie durch den kahlen Wald. Beenden Sie die Tour zwingend vor 17:00 Uhr, da die Temperaturen bei Dunkelheit extrem schnell sinken.",
+            "hu": "Egy fagyos reggeli tekerés a templom és a központ érintésével kezdődik, hogy felmelegítse a kezét. Délben pedálozzon intenzívebben a parkon át a testhőmérséklet fenntartásához. A délutáni fagyos útvonal az erdőt is érinti. Pontosan 17:00 óra előtt fejezze be a túrát, mert a korai naplemente után hirtelen nagyot zuhan a hőmérséklet.",
+            "ro": "O pedalare deosebit de geroasă de dimineață începe la biserică pentru a vă dezgheța mâinile. La prânz, pedalați intens prin parcul Bel-Air pentru a menține o temperatură bună. Traseul după-amiezii include pădurea rece. Terminați obligatoriu cursa înainte de ora 17:00, deoarece temperatura scade foarte brusc și periculos după apus.",
+            "en": "A profoundly frosty morning ride kicks off at the church and cultural center to warm your freezing hands. By midday, pedal briskly through the park to keep your temperature highly regulated. Your afternoon route fully covers the basin and woods. Finish your ride securely before 17:00, as temperatures drop dangerously fast after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Merci",
+                "hu": "Notre-Dame-de-la-Merci templom",
+                "ro": "Biserica Notre-Dame-de-la-Merci",
+                "en": "Notre-Dame-de-la-Merci Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie rasch ein, um Ihre fast gefrorenen Finger an der Heizung aufzuwärmen; das scharfe winterliche Morgenlicht durch die Fenster ist hier atemberaubend.",
+                "hu": "Lépjen be gyorsan, hogy a tekerés folytatása előtt teljesen felmelegítse fagyos ujjait; a hűvös téli reggeli fények játéka itt az üvegeken át lenyűgöző.",
+                "ro": "Intrați repede pentru a vă încălzi profund degetele înghețate de pe ghidon; luminile aspre ale dimineții de iarnă trecând prin geamuri sunt pur și simplu uimitoare.",
+                "en": "Step completely inside to warm your freezing fingers before continuing your ride; the extraordinarily sharp winter morning light hitting here is truly stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Entrepôt",
+                "hu": "L'Entrepôt",
+                "ro": "L'Entrepôt",
+                "en": "L'Entrepôt"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie drinnen eine wesentlich längere Pause, um sich gründlich aufzuwärmen und Kunst zu genießen, bevor Sie sich wieder auf den eiskalten Sattel schwingen.",
+                "hu": "Tartson egy kifejezetten hosszabb szünetet bent a fűtött térben, hogy alaposan felmelegedjen, mielőtt visszapattan a jéghideg nyeregbe és tovább teker.",
+                "ro": "Luați o pauză considerabil mai lungă înăuntru pentru a vă încălzi foarte bine corpul și a privi arta înainte de a vă urca din nou curajos pe șaua rece.",
+                "en": "Take a substantially longer break inside to enjoy the exhibits and thoroughly warm up your entire core before bravely getting back onto the freezing cold saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Anwesen",
+                "hu": "Bel-Air birtok",
+                "ro": "Domeniul Bel-Air",
+                "en": "Bel-Air Estate"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Frost hebt die filigranen Details der Architektur wunderschön hervor; tragen Sie unbedingt dicke, winddichte Handschuhe für das sehr offene Gelände.",
+                "hu": "A vastag fagy gyönyörűen kiemeli a kastély minden építészeti részletét; mindenképp viseljen vastag, szélálló kesztyűt a teljesen nyílt terepen való tekeréshez.",
+                "ro": "Gerul alb evidențiază extrem de frumos toate detaliile fine ale clădirii; purtați obligatoriu mănuși groase, complet rezistente la vânt pentru terenul deschis.",
+                "en": "The brilliant frost highlights all the historic architectural details beautifully; wear heavy windproof gloves to adequately protect your hands on the open ride here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Park",
+                "hu": "Bel-Air park",
+                "ro": "Parcul Bel-Air",
+                "en": "Bel-Air Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in sehr zügigem Tempo durch die kahle, aber faszinierende Winterlandschaft; achten Sie dabei extrem auf tückische Eisflächen in den schattigen Bereichen.",
+                "hu": "Tekerjen intenzív, gyors tempósan a kopár, de lenyűgözően szép téli tájon; nagyon ügyeljen a hirtelen felbukkanó, veszélyes jeges foltokra az árnyékos részeken.",
+                "ro": "Pedalați foarte vioi și constant prin peisajul golaș, dar fermecător; fiți extrem de atenți la peticele ascunse de gheață din zonele umbrite masiv ale parcului.",
+                "en": "Cycle quite briskly through the stark, completely beautiful winter landscape; watch out very carefully for treacherous icy patches forming in the deep shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Phytotreatment-Becken",
+                "hu": "Fitotisztító medence",
+                "ro": "Bazinul de fitotratare",
+                "en": "Phytotreatment Water Basin"
+              },
+              "tip_5lang": {
+                "de": "Die eisigen Temperaturen verleihen dem ruhigen Wasser ein dramatisches Aussehen; bleiben Sie jedoch stets in Bewegung, um im beißenden Wind nicht auszukühlen.",
+                "hu": "A kemény fagyos hőmérséklet rendkívül drámai, rideg külsőt kölcsönöz a víznek; ne álljon meg sokáig bámészkodni, hogy nehogy teljesen átfázzon a metsző szélben.",
+                "ro": "Temperaturile puternic înghețate dau apei un aspect deosebit de dramatic; nu staționați mult timp pe margine pentru a nu vă răci complet în vântul tăios.",
+                "en": "The absolutely freezing temperatures make the dark water features look highly dramatic; keep actively moving at all times to completely avoid the chilling winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Kinderspielplatz",
+                "hu": "Játszótér",
+                "ro": "Loc de joacă pentru copii",
+                "en": "Children's Playground"
+              },
+              "tip_5lang": {
+                "de": "Ein äußerst ruhiger, oft verlassener Ort im Winter; machen Sie neben dem Rad ein paar schnelle Dehnübungen, damit Ihre kalten Muskeln nicht völlig versteifen.",
+                "hu": "Egy egészen csendes, gyakran elhagyatott hely télen; végezzen el a kerékpár mellett néhány gyors, melegítő nyújtást, nehogy az izmai túlzottan lemerevedjenek.",
+                "ro": "Un loc foarte liniștit, aproape pustiu iarna; faceți rapid lângă bicicletă câteva întinderi esențiale pentru ca mușchii picioarelor să nu amorțească în gerul intens.",
+                "en": "A totally quiet and peaceful spot in winter; confidently do a few quick cycling stretches here to strongly keep your leg muscles from dangerously stiffening in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Déhès-Wald",
+                "hu": "Déhès-erdő",
+                "ro": "Pădurea Déhès",
+                "en": "Déhès Woods"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume lassen die sehr tief stehende Wintersonne wunderschön herein; planen Sie Ihre Route, um den Wald sicher vor 16:30 Uhr bei Licht zu verlassen.",
+                "hu": "A teljesen kopasz fák csodálatosan beengedik a laposan sütő, alacsony téli napfényt; tervezzen úgy, hogy még 16:30 előtt, a korai sötétedés beállta előtt kiérjen.",
+                "ro": "Copacii golași lasă soarele palid de iarnă să pătrundă spectaculos; plănuiți cu mare atenție să ieșiți din pădure clar înainte de 16:30, înainte de a se întuneca brusc.",
+                "en": "The completely bare trees let in plenty of low, beautiful winter sun; meticulously plan to carefully exit the deep woods by 16:30 before the rapid evening freeze."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós útját a helyi művészeti központban, magába szívva a város modern energiáját. Egy rövid út elviszi a főtemplom építészeti szépségéhez és a kiterjedt Bel-Air birtokhoz. Délután meneküljön el a Déhès-erdő kiterjedt ösvényeire. Utazása a déli vízi létesítményeknél tett frissítő megállókkal zárul, ami tökéletes egy nyugodt befejezéshez.",
         "ro": "Începeți itinerariul auto la locația de arte, bucurându-vă de energia modernă. Un scurt drum vă aduce la frumusețea arhitecturală a bisericii principale și a vastului domeniu Bel-Air. După-amiaza, evadați pe traseele Pădurii Déhès. Călătoria dumneavoastră se încheie cu opriri răcoritoare la facilitățile acvatice din sud, perfecte pentru un final relaxat.",
         "en": "Begin your driving itinerary at the local arts venue, soaking in the town's modern energy. A short drive brings you to the architectural beauty of the main church and the sprawling Bel-Air Estate. In the afternoon, escape to the sprawling trails of Déhès Woods. Your journey concludes with refreshing stops at the southern aquatic facilities, perfect for a relaxed finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie entspannt durch den regnerischen Morgen und besuchen Sie sicher das Kulturzentrum und die Kirche. Mittags machen Sie eine geschützte Autotour zum Bel-Air und zum nassen Wald, mit kurzen Schirm-Stopps. Verbringen Sie den völlig verregneten Nachmittag wunderbar in den warmen Schwimmbädern, die trotz des Wetters perfekte Indoor-Entspannung bieten.",
+            "hu": "Vezessen kényelmesen végig az esős reggelen, kezdve a kulturális központtal és a történelmi templommal. Délben tegyen egy gyors autós kört a Bel-Air birtok és a ködös erdő mellett, esernyővel a kézben. A borús, vizes délutánt töltse az uszodákban, amelyek tökéletes, esőtől védett melegvizes kikapcsolódást nyújtanak az egész családnak.",
+            "ro": "Conduceți foarte relaxat în dimineața ploioasă, începând confortabil cu centrul cultural și biserica locală. La prânz, faceți un tur auto pe la frumosul domeniu Bel-Air și pădurea cețoasă. Petreceți după-amiaza ploioasă la bazinele acvatice, absolut perfecte pentru distracție și relaxare la cald în interior, în ciuda ploii reci de afară.",
+            "en": "Drive smoothly through the deeply rainy morning, comfortably starting with the indoor cultural center and nearby church. Midday securely offers a quick driving dash to see the estate and misty woods from inside your car. Spend the highly wet afternoon at the aquatic centers, which are perfectly suited for deeply relaxing water activities entirely regardless of the outside weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "L'Entrepôt",
+                "hu": "L'Entrepôt",
+                "ro": "L'Entrepôt",
+                "en": "L'Entrepôt"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto so nah wie möglich und genießen Sie diesen sehr trockenen, kulturellen Zufluchtsort in vollen Zügen, während der Morgenregen am allerstärksten ist.",
+                "hu": "Parkoljon le minél közelebb a bejárathoz, és élvezze ezt a kiváló, fedett kulturális menedéket, amíg a kinti hűvös reggeli eső a leghevesebben esik a városban.",
+                "ro": "Parcați mașina cât mai aproape posibil și bucurați-vă din plin de acest refugiu cultural complet acoperit și uscat, mai ales cât timp ploaia matinală e cea mai intensă.",
+                "en": "Park extremely close by and heavily enjoy this fully indoor cultural refuge, serving as an ideal, perfectly dry start to your day while the morning rain is at its absolute heaviest."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Merci",
+                "hu": "Notre-Dame-de-la-Merci templom",
+                "ro": "Biserica Notre-Dame-de-la-Merci",
+                "en": "Notre-Dame-de-la-Merci Church"
+              },
+              "tip_5lang": {
+                "de": "Nur ein extrem kurzer Fußweg vom Auto entfernt; treten Sie rasch ein, um das beeindruckende, völlig trockene Innere zu bewundern, absolut geschützt vor den Schauern.",
+                "hu": "Csak egy nagyon rövid, esernyős séta az autótól; lépjen be rögtön, hogy nyugodtan megcsodálja a lenyűgöző, teljesen száraz belső teret, védve a heves záporoktól.",
+                "ro": "Este doar o scurtă plimbare de la ușa mașinii; intrați extrem de repede pentru a admira interiorul senin, frumos și complet uscat, total ferit de aversele reci.",
+                "en": "It is just a very short walk from the warm car; firmly step inside to deeply admire the highly serene, totally dry interior completely sheltered from the passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Anwesen",
+                "hu": "Bel-Air birtok",
+                "ro": "Domeniul Bel-Air",
+                "en": "Bel-Air Estate"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie ganz nah heran, um die Architektur gemütlich durch die regennassen Scheiben zu bewundern; halten Sie für ein kurzes Foto stets einen Regenschirm bereit.",
+                "hu": "Hajtson az autóval egészen közel, hogy az esőcseppeken át is kényelmesen megcsodálja az építészetet; tartson a kezénél egy nagy esernyőt egy gyors, külső fotóhoz.",
+                "ro": "Conduceți foarte aproape pentru a admira comod arhitectura superba prin geamurile udate de ploaie; țineți mereu o umbrelă la îndemână pentru o poză rapidă afară.",
+                "en": "Drive remarkably close to warmly admire the stunning architecture safely through the heavy rain; securely keep a large umbrella handy for a very quick stroll around the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Déhès-Wald",
+                "hu": "Déhès-erdő",
+                "ro": "Pădurea Déhès",
+                "en": "Déhès Woods"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem am Rand, um bei leicht geöffnetem Fenster die nasse Erde zu riechen; die matschigen Wanderwege selbst sind durch den Schlamm sehr schwer begehbar.",
+                "hu": "Parkoljon le az erdő legszélén, hogy lehúzott ablaknál is érezze a friss, eső áztatta föld illatát; az ösvények a mély sár miatt most nagyon nehezen járhatók gyalog.",
+                "ro": "Parcați sigur la marginea pădurii pentru a simți pe geam mirosul puternic de pământ ud; potecile din interior sunt extrem de greu practicabile prin noroiul alunecos.",
+                "en": "Park safely at the edge to deeply smell the incredibly fresh, rain-soaked earth directly from the car; reliably wear sturdy waterproof boots if you dare venture onto muddy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Planschbecken",
+                "hu": "Pancsoló",
+                "ro": "Piscina de copii",
+                "en": "Paddling Pool"
+              },
+              "tip_5lang": {
+                "de": "Auch an einem völlig verregneten Tag ist diese Indoor-Wasserzone ein riesiger Spaß für die Familie; legen Sie sich unbedingt ein warmes Handtuch für die Rückfahrt ins Auto.",
+                "hu": "Esős, borús napon is hihetetlenül remek program ez a melegvizes élményzóna; előre készítsen be egy hatalmas, száraz és meleg törölközőt az autóba a hazaútra.",
+                "ro": "Chiar și pe o ploaie puternică, această zonă acvatică interioară este cu adevărat grozavă; pregătiți din timp un prosop foarte cald în mașină pentru drumul de întoarcere.",
+                "en": "Even on a totally rainy day, this fantastic indoor-like wet-activity zone is highly fun for everyone; absolutely bring a completely warm towel for the cozy car ride immediately after."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordisches Becken",
+                "hu": "Északi medence",
+                "ro": "Bazinul nordic",
+                "en": "Nordic Pool"
+              },
+              "tip_5lang": {
+                "de": "Krönen Sie diesen nassen Regentag mit einem sehr warmen Schwimmen; das stark beheizte Beckenwasser bildet den perfekten und erholsamen Kontrast zur eisigen Kälte draußen.",
+                "hu": "Koronázza meg az esős napot egy hihetetlenül jóleső, meleg vizes úszással; a fűtött, gőzölgő medence teljesen tökéletes kontrasztot alkot a kinti hűvös, nedves idővel.",
+                "ro": "Încununați această zi deosebit de ploioasă cu o înotare relaxantă și caldă; apa piscinei puternic încălzite contrastează absolut perfect cu răcoarea și umezeala de afară.",
+                "en": "Perfectly embrace the wet water theme of the day with a deeply refreshing swim; the highly heated water incredibly contrasts completely perfectly with the cool, rainy weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie Ihre Autoheizung am eiskalten, frostigen Morgen intensiv, während Sie das Kulturzentrum und die historische Kirche gemütlich besuchen. Mittags fahren Sie entspannt zum Bel-Air und spazieren kurz im reifbedeckten Wald. Nachmittags wärmen Sie sich herrlich in den heißen Pools auf, rechtzeitig bevor die tiefstehende Sonne bereits gegen 17:00 Uhr untergeht.",
+            "hu": "Használja bátran az autó fűtését a fagyos, dermesztő reggelen, miközben a kulturális központot és a történelmi templomot járja be kényelmesen. Délben hajtson el a Bel-Air birtokhoz, majd tegyen egy rövid sétát a deres erdőben. A délutánt melegedéssel töltse a forró uszodákban, mielőtt a nap nagyon korán, már 17:00 óra körül teljesen lenyugszik a horizonton.",
+            "ro": "Folosiți la maximum încălzirea confortabilă a mașinii în dimineața extrem de geroasă vizitând centrul cultural și biserica. La prânz, conduceți la domeniul Bel-Air și faceți o plimbare foarte scurtă în pădurea brumată. După-amiaza încălziți-vă excelent în bazinele fierbinți, înainte de apusul foarte timpuriu de la ora 17:00 care aduce gerul tăios nocturn.",
+            "en": "Liberally use your car's heater to stay wonderfully cozy on a bitterly cold morning tour of the cultural center and historic church. By noon, drive to the estate and take a brisk walk in the frost-covered woods. Spend the deeply chilly afternoon thoroughly warming up at the local indoor pools before the sun sets completely around 17:00, bringing a completely freezing evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "L'Entrepôt",
+                "hu": "L'Entrepôt",
+                "ro": "L'Entrepôt",
+                "en": "L'Entrepôt"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren kalten Tag direkt in diesem stark beheizten Kulturraum, um den extrem frostigen und unangenehmen Morgentemperaturen draußen sehr geschickt zu entgehen.",
+                "hu": "Kezdje a túrát egyből ebben a nagyon jól fűtött kulturális térben, így okosan és kényelmesen elkerülheti a kinti, szokatlanul fagyos és kellemetlen reggeli hőmérsékletet.",
+                "ro": "Începeți traseul direct în acest spațiu cultural foarte bine încălzit, evitând astfel complet și extrem de inteligent temperaturile absolut geroase de dimineață de afară.",
+                "en": "Cleverly start inside this highly heated cultural venue to deeply enjoy local exhibitions without facing the absolutely freezing, uncomfortably harsh morning temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Merci",
+                "hu": "Notre-Dame-de-la-Merci templom",
+                "ro": "Biserica Notre-Dame-de-la-Merci",
+                "en": "Notre-Dame-de-la-Merci Church"
+              },
+              "tip_5lang": {
+                "de": "Aus dem stark beheizten Auto ist es deutlich leichter, rasch in dieses sehr kalte, aber wirklich atemberaubend schöne, friedliche Winterheiligtum hinüberzuspringen.",
+                "hu": "A kellemesen fűtött autóból kiszállva sokkal könnyebb beugrani egy percre ebbe a hideg, mégis lenyűgözően szép, végtelenül csendes és békés téli szentélybe melegedni.",
+                "ro": "Din mașina extrem de caldă și încălzită este vizibil mai ușor să faceți un popas foarte scurt în acest sanctuar rece, dar absolut uimitor de frumos pe timp de iarnă.",
+                "en": "The fully heated car ride makes the remarkably short dash to this completely quiet, bitterly cold but astonishingly beautiful winter sanctuary significantly much easier to handle."
+              }
+            },
+            {
+              "name": {
+                "de": "Bel-Air Anwesen",
+                "hu": "Bel-Air birtok",
+                "ro": "Domeniul Bel-Air",
+                "en": "Bel-Air Estate"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die majestätische winterliche Silhouette; ziehen Sie sich nach dem Aussteigen sehr warm an, da der eisige Wind auf den offenen Bereichen extrem stark weht.",
+                "hu": "Élvezze az épület fenséges, téli sziluettjét az autóból is; kiszálláskor öltözzön vastagon, mert a teljesen nyitott területeken kifejezetten erős és metsző lehet a szél.",
+                "ro": "Bucurați-vă de silueta cu adevărat maiestuoasă de iarnă a clădirii; îmbrăcați-vă gros la coborâre, vântul este extrem de puternic și tăios în toate aceste zone complet deschise.",
+                "en": "Easily enjoy the highly majestic winter silhouette of the building from the car; completely bundle up in a thick coat as the surrounding open areas are fiercely windy and freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Déhès-Wald",
+                "hu": "Déhès-erdő",
+                "ro": "Pădurea Déhès",
+                "en": "Déhès Woods"
+              },
+              "tip_5lang": {
+                "de": "Die dick reifbedeckten Bäume sind vom Auto aus wirklich magisch anzusehen; parken Sie für einen sehr schnellen, zügigen Spaziergang und achten Sie auf extrem warme Kleidung.",
+                "hu": "A deres fák az ablakból nézve is varázslatosak; parkoljon le és tegyen egy villámgyors, nagyon tempós sétát, feltétlenül gondoskodva a legmelegebb téli öltözetről.",
+                "ro": "Copacii abundent brumați sunt complet magici chiar și din mașină; parcați rapid și faceți o plimbare foarte scurtă și alertă, asigurându-vă că aveți haine termice groase.",
+                "en": "The totally frost-covered trees are visibly magical from the road; park nearby and take a highly brisk, short walk, strictly ensuring you have heavy thermal layers to stay fully warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Planschbecken",
+                "hu": "Pancsoló",
+                "ro": "Piscina de copii",
+                "en": "Paddling Pool"
+              },
+              "tip_5lang": {
+                "de": "Eine absolut hervorragende Möglichkeit, sich tiefgreifend aufzuwärmen; die stark beheizten Innenanlagen bieten den absolut perfekten und sicheren Schutz vor dem bitteren Frost draußen.",
+                "hu": "Egy egészen kiváló, tökéletes módja az azonnali felmelegedésnek; a jól fűtött vizes létesítmények hibátlan és biztos menedéket nyújtanak a kinti metsző fagy elől a családnak.",
+                "ro": "Un mod absolut excelent și reconfortant de a vă încălzi profund; facilitățile cu apă puternic încălzită oferă un refugiu termic absolut perfect împotriva gerului tăios de afară.",
+                "en": "An absolutely tremendous and fun way to warm up deeply; strongly enjoy the fully heated water facilities which readily provide a completely perfect contrast to the freezing outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Nordisches Becken",
+                "hu": "Északi medence",
+                "ro": "Bazinul nordic",
+                "en": "Nordic Pool"
+              },
+              "tip_5lang": {
+                "de": "Der ultimative und beste Winterwärmer des Tages; das tiefe Eintauchen in den sehr heißen beheizten Pool ist unglaublich entspannend, wenn draußen die extrem kalte Dunkelheit hereinbricht.",
+                "hu": "A nap végső és legjobb téli melegedője; a forró, fűtött medencébe merülni hihetetlenül és mélyen pihentető érzés, miközben kint gyorsan és fagyosan leszáll a sötét téli est.",
+                "ro": "Cea mai bună și supremă încălzire de iarnă a zilei; scufundarea în piscina fierbinte și încălzită este incredibil de relaxantă odată cu lăsarea rapidă a serii extrem de reci.",
+                "en": "The absolute ultimate perfect winter warmer to end the drive; completely diving into the heavily heated pool is incredibly profoundly relaxing as the profoundly early winter dusk falls outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

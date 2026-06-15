@@ -137,6 +137,168 @@
         "hu": "Kezdje gyalogos túráját Saturnia történelmi központjának felfedezésével, a Fonte Buia friss vizétől egészen az ősi etruszk oltár megismeréséig.\n\nAhogy közeledik a dél, merüljön el a régió gazdag múltjában a Museo Archeologico-ban, majd sétáljon át a lenyűgöző római kori Porta Romana kapun.\n\nTöltsön egy pihentető délutánt a lankás dombokon lefelé haladva a híres termálterületek felé, élvezve a nyugodt toszkán tájat a séta során.\n\nZárja utazását a Terme di Saturnia meleg, gyógyító vizében fürdőzve, hagyva, hogy a terápiás kénes medencék elmossák a nap fáradalmait.",
         "ro": "Începe-ți turul pietonal explorând centrul istoric al orașului Saturnia, pornind de la apele proaspete de la Fonte Buia înainte de a descoperi vechiul altar etrusc.\n\nPe măsură ce se apropie prânzul, aprofundează trecutul bogat al regiunii la Museo Archeologico, urmat de o plimbare prin impresionanta Porta Romana din epoca romană.\n\nPetrece o după-amiază relaxantă coborând dealurile line spre faimoasele zone termale, bucurându-te de peisajele toscane liniștite de-a lungul plimbării tale.\n\nÎncheie-ți călătoria scufundându-te în apele calde și vindecătoare de la Terme di Saturnia, lăsând piscinele terapeutice cu sulf să spele oboseala zilei.",
         "en": "Begin your walking tour by exploring the historical center of Saturnia, starting at the fresh waters of Fonte Buia before discovering the ancient Etruscan altar.\n\nAs midday approaches, delve deep into the region's rich past at the Museo Archeologico, followed by a stroll through the impressive Roman-era Porta Romana.\n\nSpend a relaxing afternoon making your way down the gentle hills towards the famous thermal areas, enjoying the serene Tuscan landscapes along your walk.\n\nConclude your journey soaking in the warm, healing waters of Terme di Saturnia, letting the therapeutic sulfur pools wash away the day's fatigue."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen an der Fonte Buia mit einem Schirm. Mittags bietet das archäologische Museum perfekten Schutz vor den Schauern. Nachmittags glänzen die alten Steine der Porta Romana im Regen. Abends ist ein Bad im warmen Thermalwasser bei Regenwetter besonders wohltuend.",
+            "hu": "Kezdje a nedves reggelt a Fonte Buia forrásnál stabil esernyővel. Délben meneküljön a záporok elől a régészeti múzeum falai közé. Délután a Porta Romana esőtől csillogó köveit érdemes óvatosan megközelíteni. Este a gőzölgő, meleg termálvíz tökéletes menedéket nyújt a hideg eső elől.",
+            "ro": "Începeți dimineața ploioasă la Fonte Buia cu o umbrelă robustă. La prânz, adăpostiți-vă de averse în muzeul arheologic plin de istorie. După-amiaza, admirați pietrele umede și alunecoase ale Porții Romane. Seara, relaxați-vă în apele termale calde, un contrast perfect cu ploaia.",
+            "en": "Start your rainy morning at Fonte Buia with a sturdy umbrella. By midday, take shelter in the archaeological museum from the heavy showers. In the afternoon, admire the wet ancient walls of Porta Romana. Conclude with an evening dip in the warm thermal baths, perfect when it rains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fonte Buia",
+                "hu": "Fonte Buia",
+                "ro": "Fonte Buia",
+                "en": "Fonte Buia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die historische Quelle im Regen; tragen Sie rutschfeste, wasserdichte Schuhe, da die alten Pfade hier schnell schlammig werden.",
+                "hu": "Figyelje meg a történelmi forrást az esőben; viseljen csúszásmentes vízálló cipőt, mivel a környező ősi ösvények sárgává és csúszóssá válnak.",
+                "ro": "Observați izvorul istoric în ploaie; purtați încălțăminte impermeabilă antiderapantă, deoarece potecile antice din jur devin foarte noroioase.",
+                "en": "Observe the historic spring waters blending with the rain; wear non-slip waterproof shoes as the surrounding ancient paths get quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Altare etrusco",
+                "hu": "Altare etrusco",
+                "ro": "Altare etrusco",
+                "en": "Altare etrusco"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den nassen etruskischen Altar; bringen Sie einen Regenschirm mit und treten Sie vorsichtig auf dem rutschigen, unebenen Boden.",
+                "hu": "Nézze meg az esőtől csillogó ősi etruszk oltárt; hozzon masszív esernyőt és lépjen óvatosan az emlékmű körüli egyenetlen, csúszós talajon.",
+                "ro": "Vedeți vechiul altar etrusc strălucind în ploaie; aduceți o umbrelă solidă și pășiți cu grijă pe terenul denivelat și alunecos din jurul său.",
+                "en": "See the ancient Etruscan altar glistening wet; bring a sturdy umbrella and step carefully on the uneven, slippery ground around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Saturnia",
+                "hu": "Museo Archeologico di Saturnia",
+                "ro": "Museo Archeologico di Saturnia",
+                "en": "Museo Archeologico di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die lokale Geschichte in diesem trockenen Museum; es ist der perfekte Schutz am Mittag vor dem Regen voller antiker Artefakte.",
+                "hu": "Fedezze fel a helyi történelmet ebben a száraz, fedett múzeumban; tökéletes déli menedék az eső elől, miközben ősi leleteket tanulmányoz.",
+                "ro": "Descoperiți istoria locală în acest muzeu uscat și acoperit; este adăpostul perfect la prânz pentru a scăpa de ploaie în timp ce explorați.",
+                "en": "Discover rich local history inside this dry, covered museum; it is the perfect midday shelter to escape the rain while exploring ancient artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Romana",
+                "hu": "Porta Romana",
+                "ro": "Porta Romana",
+                "en": "Porta Romana"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das römische Tor im Nebel; die Steine sind bei Nässe extrem rutschig, halten Sie Ihren Schirm fest und achten Sie auf Ihre Schritte.",
+                "hu": "Csodálja meg az ősi római kaput a ködben; a kőfelületek nedvesen csúszósak, ezért fogja szorosan az esernyőjét és figyeljen a lépéseire.",
+                "ro": "Admirați poarta romană antică prin ceață; pietrele sunt alunecoase când sunt ude, așa că țineți bine umbrela și fiți atenți la fiecare pas.",
+                "en": "Admire the ancient Roman gate through the mist; the stone surfaces are slick when wet, so hold onto your umbrella and watch your footing closely."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme di Saturnia",
+                "hu": "Terme di Saturnia",
+                "ro": "Terme di Saturnia",
+                "en": "Terme di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das magische Gefühl von warmem Thermalwasser im kühlen Regen; bewahren Sie Ihr Handtuch bis zum Verlassen in einer wasserdichten Tasche auf.",
+                "hu": "Élje át a meleg termálvíz varázslatát, miközben hűvös eső esik a fejére; tartsa a törölközőjét egy vízálló táskában, amíg ki nem jön a vízből.",
+                "ro": "Experimentați magia apelor termale calde în timp ce ploaia rece vă cade pe față; păstrați prosopul într-o pungă impermeabilă până la ieșire.",
+                "en": "Experience the magical feeling of warm thermal waters while cool rain falls on your head; keep your towel in a waterproof bag until you exit."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen warm eingepackt an der Fonte Buia. Mittags bietet das Museum einen gemütlichen Rückzugsort vor dem kalten Wind. Nachmittags leuchtet die Porta Romana in der tief stehenden Wintersonne. Wenn es gegen 17:00 Uhr dunkel wird, sind die dampfenden Thermen der perfekte Ausklang.",
+            "hu": "Kezdje a fagyos téli reggelt meleg rétegekben a Fonte Buiánál. Délben a régészeti múzeum fűtött terei menedéket nyújtanak a csípős szél elől. Délután a Porta Romana ősi köveit a lemenő napfény világítja meg. A sötétség 17:00 körül beáll, így a gőzölgő termálfürdő felejthetetlen esti lezárást nyújt.",
+            "ro": "Începeți dimineața geroasă de iarnă în haine groase la Fonte Buia. La prânz, muzeul arheologic oferă un refugiu cald din calea vântului rece. După-amiaza, explorați Porta Romana sub soarele blând de iarnă. Seara coboară rapid în jur de 17:00, transformând băile termale aburinde într-o evadare perfectă.",
+            "en": "Begin your crisp winter morning wrapped in warm layers at Fonte Buia. By noon, the archaeological museum offers a cozy retreat from the chilly wind. In the afternoon, explore Porta Romana as the winter sun hangs low. Evening descends quickly around 17:00, making the steamy thermal baths an unforgettable winter escape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fonte Buia",
+                "hu": "Fonte Buia",
+                "ro": "Fonte Buia",
+                "en": "Fonte Buia"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Winterspaziergang an dieser Quelle; die Morgenluft ist frostig, tragen Sie also einen dicken Mantel und einen wärmenden Schal.",
+                "hu": "Kezdje téli sétáját ennél a történelmi forrásnál; a reggeli levegő fagyos, ezért viseljen vastag kabátot és sálat a békés hangulat élvezete közben.",
+                "ro": "Începeți plimbarea de iarnă la acest izvor istoric; aerul dimineții este geros, așa că purtați o haină groasă și un fular pentru confort.",
+                "en": "Start your winter walk at this historic spring; the morning air is frosty, so wear a thick coat and scarf while enjoying the peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Altare etrusco",
+                "hu": "Altare etrusco",
+                "ro": "Altare etrusco",
+                "en": "Altare etrusco"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Stein-Altar im klaren Winterlicht; ziehen Sie sich warm an, da diese offene Stätte keinen Schutz vor dem kalten Wind bietet.",
+                "hu": "Csodálja meg az ősi kőoltárt a tiszta téli fényben; öltözzön melegen, mivel ez a nyitott régészeti lelőhely nem véd a csípős szelek ellen.",
+                "ro": "Admirați vechiul altar din piatră în lumina clară de iarnă; îmbrăcați-vă gros, deoarece acest sit deschis nu oferă protecție împotriva vântului.",
+                "en": "Admire the ancient stone altar in the crisp winter light; bundle up as this exposed archaeological site offers no protection from biting winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Saturnia",
+                "hu": "Museo Archeologico di Saturnia",
+                "ro": "Museo Archeologico di Saturnia",
+                "en": "Museo Archeologico di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem faszinierenden Museum auf; es ist ein wichtiger beheizter Stopp, um sich von der winterlichen Mittagskälte zu erholen.",
+                "hu": "Melegedjen fel ebben a lenyűgöző múzeumban a helyi történelem megismerése közben; ez egy elengedhetetlen fűtött megálló a téli hideg elleni küzdelemben.",
+                "ro": "Încălziți-vă în acest muzeu fascinant învățând istoria locală; este o oprire încălzită esențială pentru a vă recupera din frigul amiezii.",
+                "en": "Warm up inside this fascinating museum to learn about local history; it is a vital heated stop to recover from the midday winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Romana",
+                "hu": "Porta Romana",
+                "ro": "Porta Romana",
+                "en": "Porta Romana"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das beeindruckende römische Tor; die Sonne geht früh unter, genießen Sie das Licht der goldenen Stunde, bevor der Frost zurückkehrt.",
+                "hu": "Nézze meg a lenyűgöző római kaput az egyre hosszabb délutáni árnyékokban; a nap korán nyugszik, élvezze az aranyórát a fagy visszatérése előtt.",
+                "ro": "Vedeți impresionanta poartă romană în umbrele lungi ale după-amiezii; soarele apune devreme, bucurați-vă de ora de aur înainte să revină gerul.",
+                "en": "See the impressive Roman gate as shadows lengthen in the afternoon; the sun sets early, so enjoy the golden hour light before the frost returns."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme di Saturnia",
+                "hu": "Terme di Saturnia",
+                "ro": "Terme di Saturnia",
+                "en": "Terme di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in das dampfende 37°C warme Wasser ein, das toll mit der Winterluft kontrastiert; bringen Sie einen dicken Bademantel für den Ausstieg mit.",
+                "hu": "Merüljön el a gőzölgő 37°C-os vízben, amely csodás kontrasztot alkot a téli levegővel; hozzon vastag fürdőköpenyt, hogy túlélje a kijövetelt.",
+                "ro": "Scufundați-vă în apele aburinde de 37°C ce contrastează cu aerul de iarnă; aduceți un halat gros pentru a supraviețui ieșirii din apa fierbinte.",
+                "en": "Plunge into the steaming 37°C waters contrasting beautifully with the freezing winter air; bring a thick bathrobe to survive the short walk out."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a lenyűgöző Necropoli Etrusca del Puntone felfedezésével, ahol a toszkán természetben elrejtett ősi sírokat ismerheti meg.\n\nTekerjen vissza a falu szívébe, hogy meglátogassa a Fonte Buiát és az etruszk oltárt, majd haladjon át a Porta Romana történelmi boltíve alatt.\n\nGuruljon lefelé a híres fürdőhelyek felé, és álljon meg az elegáns Terme di Saturniánál, hogy élvezze a kifinomult légkört és a terápiás medencéket.\n\nFejezze be a kerékpáros napot a festői Cascate del Mulino-nál, ahol varázslatos környezetben nézheti meg a naplementét a természetes vízesések felett.",
         "ro": "Începe-ți aventura cu bicicleta mergând spre fascinanta Necropoli Etrusca del Puntone, explorând morminte antice ascunse în natura toscană.\n\nÎntoarce-te cu bicicleta în inima satului pentru a vizita repere precum Fonte Buia și altarul etrusc, apoi treci prin arcul istoric al Porta Romana.\n\nCoboară spre renumitele stațiuni balneare, oprindu-te la eleganta Terme di Saturnia pentru a te bucura de atmosfera sofisticată și de piscinele terapeutice.\n\nTermină-ți ziua de ciclism la pitoreștile Cascate del Mulino, unde poți privi apusul peste cascadele naturale în trepte într-un cadru cu adevărat magic.",
         "en": "Kick off your cycling adventure by riding out to the fascinating Necropoli Etrusca del Puntone, exploring ancient tombs hidden away in the Tuscan nature.\n\nCycle back to the heart of the village to visit landmarks like Fonte Buia and the Etruscan altar, then pass through the historic arch of Porta Romana.\n\nRide downhill towards the renowned spa resorts, stopping at the elegant Terme di Saturnia to enjoy the sophisticated atmosphere and therapeutic pools.\n\nFinish your cycling day at the picturesque Cascate del Mulino, where you can watch the sunset over the cascading natural waterfalls in a magical setting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour beginnt vorsichtig an der Nekropole. Fahren Sie mittags langsam an Fonte Buia und dem etruskischen Altar vorbei, um nicht auszurutschen. Nachmittags wäscht der Regen die Porta Romana. Die Fahrt endet wunderbar: Die warmen Thermalquellen entschädigen für alles.",
+            "hu": "Az esős reggeli kerékpározás óvatosan indul a Nekropolisznál. Délben lassan tekerjen a Fonte Buia és az etruszk oltár mellett a csúszásveszély miatt. Délután a Porta Romana köveit mossa az eső. Az utazás csodásan zárul; a meleg termálforrások és vízesések feledtetik a nedves utat.",
+            "ro": "O dimineață ploioasă pe bicicletă începe cu prudență la Necropolă. La prânz, pedalați încet pe lângă Fonte Buia și altarul etrusc pentru a nu aluneca. După-amiaza, ploaia spală pietrele Porții Romane. Traseul se încheie minunat, relaxându-vă în izvoarele termale calde.",
+            "en": "A rainy morning cycle starts carefully at the Necropolis. By midday, pedal slowly past Fonte Buia and the Etruscan altar to avoid slipping. The afternoon rain washes over Porta Romana's stones. The ride concludes wonderfully; soaking in the warm thermal springs and waterfalls makes the wet journey completely worthwhile."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necropoli Etrusca del Puntone",
+                "hu": "Necropoli Etrusca del Puntone",
+                "ro": "Necropoli Etrusca del Puntone",
+                "en": "Necropoli Etrusca del Puntone"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie langsam zu diesen antiken Gräbern; nutzen Sie Schutzbleche und auffällige Regenkleidung, da die Feldwege extrem schlammig werden können.",
+                "hu": "Tekerjen lassan ezekhez az ősi sírokhoz; használjon sárvédőt és viseljen feltűnő esőkabátot, mivel a vidéki utak sarasak és a látási viszonyok rosszak.",
+                "ro": "Pedalați încet spre aceste morminte antice; folosiți apărători și purtați haine impermeabile vizibile, deoarece drumurile rurale devin noroioase.",
+                "en": "Cycle slowly to these ancient tombs; use mudguards and wear bright waterproofs as the rural paths are muddy and visibility is reduced in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte Buia",
+                "hu": "Fonte Buia",
+                "ro": "Fonte Buia",
+                "en": "Fonte Buia"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an der historischen Quelle; Ihre Bremsen greifen bei Nässe schlechter, nähern Sie sich diesem Stein-Wahrzeichen also sehr vorsichtig.",
+                "hu": "Álljon meg röviden a történelmi forrásnál; a fékek kevésbé fognak a nedves időben, ezért extra óvatossággal közelítse meg ezt a kőemlékművet.",
+                "ro": "Opriți-vă scurt la izvorul istoric; frânele bicicletei vor răspunde mai greu pe ploaie, așa că apropiați-vă de acest monument de piatră cu grijă.",
+                "en": "Stop briefly at the historic spring; your bike brakes will be less responsive in the wet, so approach this stone landmark with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Altare etrusco",
+                "hu": "Altare etrusco",
+                "ro": "Altare etrusco",
+                "en": "Altare etrusco"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den nassen antiken Altar vom Weg aus; vermeiden Sie hier plötzliche Kurven mit dem Rad, da nasses Laub und Schmutz sehr rutschig sind.",
+                "hu": "Nézze meg az esőtől csúszós ősi oltárt az ösvényről; kerülje a hirtelen kanyarokat a kerékpárral, mivel a nedves levelek és a sár nagyon csúszós.",
+                "ro": "Priviți vechiul altar alunecos din potecă; evitați virajele bruște cu bicicleta aici, deoarece frunzele umede și noroiul fac terenul periculos.",
+                "en": "View the rain-slicked ancient altar from the trail; avoid sudden turns with your bike here, as the wet fallen leaves and dirt make it very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Romana",
+                "hu": "Porta Romana",
+                "ro": "Porta Romana",
+                "en": "Porta Romana"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad, um das Tor zu bewundern; das alte Kopfsteinpflaster ist bei Nässe tückisch, schieben Sie Ihr Fahrrad besser durch den Bogen.",
+                "hu": "Parkolja le a biciklit, hogy megcsodálja a kaput; az ősi macskakövek nedvesen veszélyesek, ezért inkább tolja át a kerékpárt a boltív alatt.",
+                "ro": "Parcați bicicleta în siguranță pentru a admira poarta istorică; pietrele cubice sunt perfide când sunt ude, așa că împingeți bicicleta prin arcadă.",
+                "en": "Park your bike safely to admire the historic gate; the ancient paving stones are treacherous when wet, so push your bike through the archway."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme di Saturnia",
+                "hu": "Terme di Saturnia",
+                "ro": "Terme di Saturnia",
+                "en": "Terme di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie im warmen Thermalkomplex; schließen Sie das Rad gut ab und nutzen Sie wasserdichte Taschen, um trockene Kleidung vor Regen zu schützen.",
+                "hu": "Végre lazítson a meleg termálkomplexumban; zárja le biztonságosan a biciklit, és használjon vízálló táskát, hogy szárazon tartsa a váltóruhákat.",
+                "ro": "Relaxați-vă în complexul termal cald; încuiați bicicleta bine și folosiți coburi impermeabile pentru a vă păstra hainele uscate de ploaia torențială.",
+                "en": "Finally relax in the warm thermal complex; lock your bike securely and use waterproof panniers to keep your dry clothes safe from the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascate del Mulino",
+                "hu": "Cascate del Mulino",
+                "ro": "Cascate del Mulino",
+                "en": "Cascate del Mulino"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kostenlosen Thermalwasserfälle; der Regen lässt den Dampf magisch aufsteigen, aber an den schlammigen Ufern herrscht große Rutschgefahr.",
+                "hu": "Élvezze az ingyenes természetes vízeséseket; az eső miatt a gőz varázslatosan felszáll, de a sáros folyóparton nagyon kell vigyázni a csúszásveszély miatt.",
+                "ro": "Bucurați-vă de cascadele termale naturale; ploaia face ca aburul să se ridice magic, dar malurile noroioase necesită o atenție extremă pentru a nu aluneca.",
+                "en": "Enjoy the free natural thermal falls; the rain makes the steam rise magically, but the muddy riverbanks require extreme care to avoid sliding in."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für die morgendliche Fahrt zur Nekropole. Mittags erfordert der eiskalte Wind gute Schutzkleidung. Nachmittags fallen die Schatten früh auf die Porta Romana. Gegen 16:30 Uhr dämmert es, was die dampfenden Thermen und Wasserfälle zum perfekten Abschluss macht.",
+            "hu": "Öltözzön melegen a frissítő téli reggeli tekeréshez a Nekropoliszhoz. Délben a szél ellen réteges ruházat szükséges az oltárnál. Délután az árnyékok gyorsan rávetülnek a Porta Romanára. 16:30-kor sötétedik, így a gőzölgő Terme és a Cascate del Mulino tökéletes, meleg menedéket nyújt az út végén.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală energică spre Necropolă. La prânz, pedalarea necesită straturi pentru a bloca vântul înghețat. Umbrele după-amiezii cad repede pe Porta Romana. La 16:30 se întunecă, făcând din băile termale aburinde sanctuare perfecte și calde la final de drum.",
+            "en": "Wrap up warmly for a brisk winter morning ride to the Necropolis. Midday cycling past Fonte Buia and the altar requires layers to block the icy wind. Afternoon shadows fall quickly on Porta Romana. By 16:30, dusk settles, making the steamy Terme and Cascate del Mulino perfect, warm havens to end the cold journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necropoli Etrusca del Puntone",
+                "hu": "Necropoli Etrusca del Puntone",
+                "ro": "Necropoli Etrusca del Puntone",
+                "en": "Necropoli Etrusca del Puntone"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie früh zu den antiken Gräbern; tragen Sie winddichte Handschuhe und Thermohosen, da die offene Landschaft im Winter sehr kalt wird.",
+                "hu": "Tekerjen korán az ősi sírokhoz; viseljen szélálló kesztyűt és termo nadrágot, mivel a nyílt vidék rendkívül hideg a téli reggeleken.",
+                "ro": "Pedalați devreme spre mormintele antice; purtați mănuși rezistente la vânt și colanți termici, deoarece peisajul rural este foarte rece dimineața.",
+                "en": "Cycle to the ancient tombs early; wear windproof gloves and thermal leggings, as the open countryside gets extremely chilly during winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte Buia",
+                "hu": "Fonte Buia",
+                "ro": "Fonte Buia",
+                "en": "Fonte Buia"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie kurz an dieser historischen Quelle; in Bewegung zu bleiben, ist der beste Weg, um in der schneidenden Winterluft warm zu bleiben.",
+                "hu": "Pihenjen meg a történelmi forrásnál, de ne szálljon le túl sokáig; a kerékpározás folytatása a legjobb módja a melegen maradásnak a csípős téli levegőben.",
+                "ro": "Faceți o pauză la acest izvor, dar nu staționați mult; mișcarea continuă pe bicicletă este cea mai bună modalitate de a vă încălzi în aerul tăios.",
+                "en": "Pause at this historic spring without dismounting for too long; keeping moving on your bike is the best way to stay warm in the biting winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Altare etrusco",
+                "hu": "Altare etrusco",
+                "ro": "Altare etrusco",
+                "en": "Altare etrusco"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den etruskischen Altar vom Sattel aus; sorgen Sie für helle Fahrradlichter, da die Wintertage hier oft sehr bewölkt und düster sind.",
+                "hu": "Csodálja meg az ősi etruszk oltárt a nyeregből; gondoskodjon erős kerékpárlámpákról, mivel a téli napok itt gyakran borúsak és komorak.",
+                "ro": "Admirați vechiul altar etrusc din șa; asigurați-vă că aveți lumini puternice la bicicletă, deoarece zilele de iarnă sunt adesea înnorate și sumbre.",
+                "en": "Admire the ancient Etruscan altar from your saddle; ensure you have bright bike lights equipped, as winter days are often overcast and gloomy here."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Romana",
+                "hu": "Porta Romana",
+                "ro": "Porta Romana",
+                "en": "Porta Romana"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch das Tor, während die Nachmittagskälte einsetzt; auf dem Kopfsteinpflaster kann sich manchmal Eis bilden, treten Sie also sehr gleichmäßig.",
+                "hu": "Haladjon át az ősi kapun, ahogy a délutáni hideg fokozódik; a macskaköveken néha jég képződhet, ezért tekerjen óvatos, egyenletes mozdulatokkal.",
+                "ro": "Treceți prin porțile antice pe măsură ce frigul după-amiezii se instalează; uneori se formează gheață pe piatra cubică, pedalați constant și blând.",
+                "en": "Pass through the ancient gates as the afternoon chill sets in; ice can sometimes form on the cobblestones here, so pedal with gentle, steady movements."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme di Saturnia",
+                "hu": "Terme di Saturnia",
+                "ro": "Terme di Saturnia",
+                "en": "Terme di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Thermen auf; der Wechsel aus der eiskalten Radkleidung in das 37°C warme Wasser ist ein unglaubliches Sinneserlebnis.",
+                "hu": "Melegedjen fel a fő termálkomplexumban; a fagyos kerékpáros felszerelésből a 37°C-os vízbe váltani hihetetlen, mégis csodás sokk az érzékeknek.",
+                "ro": "Încălziți-vă la complexul termal principal; schimbarea echipamentului de ciclism înghețat pentru apa de 37°C este un șoc uimitor pentru simțuri.",
+                "en": "Warm up at the main thermal complex; changing out of freezing cycling gear into the 37°C water is an incredible shock to the senses."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascate del Mulino",
+                "hu": "Cascate del Mulino",
+                "ro": "Cascate del Mulino",
+                "en": "Cascate del Mulino"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang um 17:00 Uhr an; der aufsteigende Dampf in der kalten Winterluft ist atemberaubend, halten Sie trockene Kleidung bereit.",
+                "hu": "Érkezzen a korai 17:00 órás naplemente előtt; a hideg téli levegőben felszálló gőz lélegzetelállító, de készítsen elő száraz ruhát a fürdés utánra.",
+                "ro": "Ajungeți înainte de apusul de la ora 17:00; aburul care se ridică în aerul rece de iarnă este uimitor, dar pregătiți haine uscate imediat după baie.",
+                "en": "Arrive before the early 17:00 sunset; the rising steam in the cold winter air is breathtaking, but have dry clothes ready immediately after your dip."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós útját a városon kívül található hatalmas etruszk nekropolisznál, értékelve a helyszín nyugalmát és mély, ókori történelmét.\n\nVezessen Saturnia központjába, hogy megcsodálja a Polo Culturale Pietro Aldi művészeti gyűjteményeit, és felfedezze az évezredes helyi örökséget a múzeumban.\n\nA lenyűgöző Porta Romana-nál tett rövid megálló után hajtson le a termálvölgybe, és tegye meg első pihentető megállóját a luxus üdülőhelyen.\n\nZárja egynapos kirándulását a Cascate del Mulino közelében parkolva, ahol a folyó termálvíz természetes mészkőmedencéket hoz létre az alkonyatban.",
         "ro": "Începe-ți traseul cu mașina puțin în afara orașului la vasta necropolă etruscă, apreciind liniștea și istoria antică profundă a acestui sit fascinant.\n\nCondu în centrul orașului Saturnia pentru a admira colecțiile de artă de la Polo Culturale Pietro Aldi și a descoperi milenii de patrimoniu la muzeul arheologic.\n\nDupă o scurtă oprire la impunătoarea Porta Romana, fă o scurtă plimbare cu mașina până în valea termală, făcând prima oprire relaxantă la resortul de lux.\n\nÎncheie-ți excursia perfect parcat lângă Cascate del Mulino, unde apele termale curgătoare creează bazine de calcar sculptate natural sub lumina crepusculului.",
         "en": "Start your driving route slightly out of town at the vast Etruscan necropolis, appreciating the tranquility and profound ancient history of the site.\n\nDrive into Saturnia's center to admire the art collections at Polo Culturale Pietro Aldi and uncover millennia of local heritage at the archaeological museum.\n\nAfter a quick stop at the imposing Porta Romana, take a short drive down to the thermal valley, making your first relaxing stop at the luxurious resort.\n\nEnd your day trip perfectly parked near the Cascate del Mulino, where the flowing thermal waters create naturally carved limestone pools under the twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt an der Nekropole mit Schirm. Mittags eignen sich die trockenen Museen Pietro Aldi und das archäologische Museum perfekt. Nachmittags betrachten Sie die nasse Porta Romana bequem aus dem Auto. Abends bieten die Thermen eine warme Umarmung gegen den Regen.",
+            "hu": "Kezdje az esős autózást a Nekropolisznál esernyővel felszerelkezve. A dél tökéletes a száraz, kulturális Pietro Aldi és a régészeti múzeum felfedezésére. Délután kényelmesen, az autóból nézze meg a Porta Romanát. Az este a termálvizekhez vezet, ami meleg ölelést nyújt a szakadó eső ellen.",
+            "ro": "Începeți plimbarea ploioasă cu mașina la Necropolă, folosind umbrela. Prânzul e perfect pentru a explora muzeele uscate Pietro Aldi și cel arheologic. După-amiaza, priviți pietrele umede ale Porții Romane din confortul mașinii. Seara vă aduce la apele termale, o îmbrățișare caldă contra ploii.",
+            "en": "Start your rainy drive at the Necropolis, hopping out with an umbrella. Midday is perfect for exploring the dry, culturally rich Pietro Aldi and Archaeological museums. In the afternoon, view Porta Romana's wet stones from the comfort of your car. Evening brings you to the thermal waters, a warm embrace against the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necropoli Etrusca del Puntone",
+                "hu": "Necropoli Etrusca del Puntone",
+                "ro": "Necropoli Etrusca del Puntone",
+                "en": "Necropoli Etrusca del Puntone"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Gräbern; der Boden wird bei starkem Regen schnell schlammig, bewahren Sie ein Paar trockene Fahrschuhe in Ihrem Auto auf.",
+                "hu": "Parkoljon közel az ősi sírokhoz; a talaj gyorsan sarassá válik heves esőzéskor, ezért tartson egy száraz váltócipőt az autóban a vezetéshez.",
+                "ro": "Parcați aproape de mormintele antice; pământul devine rapid noroios în timpul ploilor abundente, așa că păstrați o pereche de pantofi uscați în mașină.",
+                "en": "Park close to the ancient tombs; the ground gets muddy quickly during heavy rain, so keep a spare pair of dry driving shoes inside your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Polo Culturale Pietro Aldi",
+                "hu": "Polo Culturale Pietro Aldi",
+                "ro": "Polo Culturale Pietro Aldi",
+                "en": "Polo Culturale Pietro Aldi"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen in diesem hervorragenden Kulturzentrum; es gibt Parkplätze in der Nähe, ideal, um lokale Kunst im Trockenen zu genießen.",
+                "hu": "Meneküljön az eső elől ebbe a kiváló kulturális központba; a parkolás a közelben van, így ideális száraz menedék a helyi művészet megcsodálására.",
+                "ro": "Scăpați de ploaie în acest excelent centru cultural; parcarea e aproape, fiind un sanctuar uscat ideal pentru a aprecia arta locală fără a vă uda.",
+                "en": "Escape the downpour inside this excellent cultural hub; parking is nearby, making it an ideal dry sanctuary to appreciate local art without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Saturnia",
+                "hu": "Museo Archeologico di Saturnia",
+                "ro": "Museo Archeologico di Saturnia",
+                "en": "Museo Archeologico di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie ein kurzes Stück zum archäologischen Museum; es bietet komplett überdachte, regensichere Ausstellungen zur reichen antiken Geschichte der Region.",
+                "hu": "Vezessen egy rövid távot a régészeti múzeumig; teljesen beltéri, esőmentes kiállításokat kínál, amelyek bemutatják a régió gazdag ókori történelmét.",
+                "ro": "Conduceți o distanță scurtă până la muzeul arheologic; oferă expoziții complet interioare, fără ploaie, detaliind istoria antică bogată a regiunii.",
+                "en": "Drive a short distance to the archaeological museum; it provides completely indoor, rain-free exhibits detailing the rich ancient history of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Romana",
+                "hu": "Porta Romana",
+                "ro": "Porta Romana",
+                "en": "Porta Romana"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nah am beeindruckenden römischen Tor; Sie können die massiven nassen Steine aus Ihrem warmen, trockenen Fahrzeug bewundern, wenn es stark regnet.",
+                "hu": "Állítsa le az autót a lenyűgöző római kapu közelében; a masszív nedves köveket a meleg, száraz járműből is megcsodálhatja, ha az eső túl heves.",
+                "ro": "Opriți mașina lângă impresionanta poartă romană; îi puteți aprecia pietrele masive și umede din interiorul vehiculului dacă plouă prea tare.",
+                "en": "Stop your car near the impressive Roman gate; you can appreciate its massive wet stones from inside your warm, dry vehicle if the rain is too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme di Saturnia",
+                "hu": "Terme di Saturnia",
+                "ro": "Terme di Saturnia",
+                "en": "Terme di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Thermalkomplex; der Regen verleiht den heißen Quellen eine tolle Atmosphäre, bringen Sie jedoch einen Schirm für den Weg vom Auto mit.",
+                "hu": "Parkoljon a fő termálkomplexumnál; az eső csodálatos hangulatot kölcsönöz a hőforrásoknak, de hozzon egy nagy esernyőt a parkolóból való sétához.",
+                "ro": "Parcați la complexul termal principal; ploaia adaugă o notă atmosferică minunată izvoarelor fierbinți, dar aduceți o umbrelă mare de la mașină.",
+                "en": "Park at the main thermal complex; the rain adds a wonderfully atmospheric touch to the hot springs, but bring a large umbrella for the walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascate del Mulino",
+                "hu": "Cascate del Mulino",
+                "ro": "Cascate del Mulino",
+                "en": "Cascate del Mulino"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zu den kostenlosen Wasserfällen; nutzen Sie den Parkplatz wegen des Schlamms vorsichtig und genießen Sie die magischen dampfenden Becken im Regen.",
+                "hu": "Vezessen az ingyenes vízesésekhez; használja óvatosan a kijelölt parkolót a sár miatt, és élvezze a varázslatos gőzölgő medencéket az esőben.",
+                "ro": "Conduceți la cascadele gratuite; folosiți parcarea amenajată cu grijă, deoarece se adună noroi, și bucurați-vă de bazinele magice aburinde pe ploaie.",
+                "en": "Drive to the free waterfalls; use the designated parking area carefully as mud accumulates, and enjoy the magical steamy pools amidst the rainfall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterfahrt beginnt mit frostigen Ausblicken an der Nekropole. Der Mittag wird in den beheizten Museen Pietro Aldi und Archäologisches Museum verbracht. Steigen Sie nachmittags kurz aus dem warmen Auto für die Porta Romana. Mit dem frühen Sonnenuntergang bieten die Thermen ein spektakuläres Finale.",
+            "hu": "A téli autózás fagyos reggeli kilátással indul a Nekropolisznál. A dél kényelmesen telik a fűtött Pietro Aldi és a régészeti múzeumokban. Délután röviden lépjen ki a meleg autóból a Porta Romana megtekintéséhez. A korai 17:00 órás naplementével a termálvízesések látványos, gőzölgő esti finálét nyújtanak.",
+            "ro": "Plimbarea de iarnă începe cu priveliști geroase la Necropolă. Prânzul este petrecut confortabil vizitând muzeele încălzite Pietro Aldi și cel arheologic. După-amiaza, coborâți scurt din mașina caldă pentru Porta Romana. Apusul de la 17:00 face din cascadele termale un final de seară spectaculos și aburind.",
+            "en": "A winter drive starts with frosty morning views at the Necropolis. Midday is comfortably spent touring the heated Pietro Aldi and Archaeological museums. In the afternoon, briefly step out of your warm car to see Porta Romana. With the early 17:00 sunset, the warm thermal cascades offer a spectacular, steamy evening finale."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necropoli Etrusca del Puntone",
+                "hu": "Necropoli Etrusca del Puntone",
+                "ro": "Necropoli Etrusca del Puntone",
+                "en": "Necropoli Etrusca del Puntone"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung im Auto laufen, während Sie kurz die antiken Gräber in der frostigen Morgenluft erkunden; oft bedeckt Frost die Vegetation.",
+                "hu": "Járassa az autó fűtését, amíg röviden felfedezi ezeket az ősi sírokat a fagyos reggeli levegőben; a környező növényzetet gyakran fagy borítja.",
+                "ro": "Lăsați căldura pornită în mașină în timp ce explorați scurt aceste morminte în aerul înghețat al dimineții; bruma acoperă des vegetația din jur.",
+                "en": "Keep the car heater running while you briefly explore these ancient tombs in the freezing morning air; frost often covers the surrounding vegetation."
+              }
+            },
+            {
+              "name": {
+                "de": "Polo Culturale Pietro Aldi",
+                "hu": "Polo Culturale Pietro Aldi",
+                "ro": "Polo Culturale Pietro Aldi",
+                "en": "Polo Culturale Pietro Aldi"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem faszinierenden Kulturzentrum auf; es ist eine gemütliche, beheizte Pause vor den schneidenden Winterwinden auf den Straßen.",
+                "hu": "Melegedjen fel teljesen ebben a lenyűgöző kulturális központban; ez egy hangulatos, teljesen fűtött pihenő az utcákon süvítő csípős téli szelek elől.",
+                "ro": "Încălziți-vă complet în acest centru cultural fascinant; este o pauză confortabilă și complet încălzită de vânturile aspre de iarnă de afară.",
+                "en": "Warm up completely inside this fascinating cultural center; it is a cozy, fully heated break from the biting winter winds blowing through the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Saturnia",
+                "hu": "Museo Archeologico di Saturnia",
+                "ro": "Museo Archeologico di Saturnia",
+                "en": "Museo Archeologico di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Museum, während Sie antike Artefakte betrachten; die Fahrt zwischen den Museen schützt Sie vor den kalten Wintertemperaturen.",
+                "hu": "Élvezze a benti fűtést az ősi leletek megtekintése közben; a múzeumok közötti autózás megvédi a legalacsonyabb déli téli hőmérséklettől.",
+                "ro": "Bucurați-vă de mai multă căldură interioară vizionând artefacte antice; condusul între aceste muzee vă izolează de temperaturile scăzute de iarnă.",
+                "en": "Enjoy more indoor heating as you view ancient artifacts; driving between these museums keeps you insulated from the lowest midday winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Romana",
+                "hu": "Porta Romana",
+                "ro": "Porta Romana",
+                "en": "Porta Romana"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher an, um das historische Tor zu sehen; die Nachmittagssonne ist im Winter schwach, halten Sie einen dicken Mantel bereit, wenn Sie aussteigen.",
+                "hu": "Húzódjon le biztonságosan a történelmi kapuhoz; a délutáni nap gyönyörű, de gyenge télen, ezért tartson kéznél egy vastag kabátot a kiszálláshoz.",
+                "ro": "Trageți pe dreapta în siguranță pentru a vedea poarta istorică; soarele e slab iarna, așa că aveți pregătită o haină groasă dacă ieșiți din mașină.",
+                "en": "Pull over safely to see the historic gate; the afternoon sun is beautiful but weak during winter, so keep a thick coat ready if you step outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme di Saturnia",
+                "hu": "Terme di Saturnia",
+                "ro": "Terme di Saturnia",
+                "en": "Terme di Saturnia"
+              },
+              "tip_5lang": {
+                "de": "Wechseln Sie vom warmen Auto in das unglaubliche 37°C warme Thermalwasser; packen Sie einen dicken Bademantel und eine Wintermütze ein.",
+                "hu": "Váltson a meleg autóból a hihetetlen 37°C-os termálvízre; csomagoljon be egy vastag fürdőköpenyt és téli sapkát, hogy melegen tartsa a fejét fürdés közben.",
+                "ro": "Treceți din mașina caldă în incredibilele ape termale de 37°C; aduceți un halat gros și o căciulă de iarnă pentru a vă menține capul cald în timp ce faceți baie.",
+                "en": "Transition from your warm car to the incredible 37°C thermal waters; pack a heavy bathrobe and winter hat to keep your head warm while bathing."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascate del Mulino",
+                "hu": "Cascate del Mulino",
+                "ro": "Cascate del Mulino",
+                "en": "Cascate del Mulino"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie an, bevor es gegen 17:00 Uhr komplett dunkel wird; die eisigen Temperaturen lassen die riesigen Wolken aus thermischem Dampf dramatisch aussehen.",
+                "hu": "Érkezzen a 17:00 óra körüli teljes sötétség beállta előtt; a fagyos környezeti hőmérséklet drámaian látványossá teszi a hatalmas termálgőz felhőket.",
+                "ro": "Ajungeți înainte să se întunece complet în jur de 17:00; temperatura de îngheț face ca norii uriași de abur termal să arate spectaculos de dramatic.",
+                "en": "Arrive before darkness falls fully around 17:00; the freezing ambient temperature makes the huge clouds of thermal steam look spectacularly dramatic."
+              }
+            }
+          ]
+        }
       }
     }
   }

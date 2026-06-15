@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Vukova glava lenyűgöző csúcsának felfedezésével, ahol a kora reggeli fény gyönyörűen megvilágítja a zord horvát tájat. Folytassa útját a Rvač érintetlen karsztvidékei felé, élvezve a természet csendjét.\n\nA dél a kiemelkedő Oblik dombjához hozza el, amely tökéletes kilátópont egy jól megérdemelt piknikhez a völgyre nyíló kilátással. Az ösvény ezután a Međe brdo változatos vadflóráján vezet keresztül.\n\nDélután tegye próbára magát a Velika kapa folyamatos emelkedőjén. Ez a természetes kilátópont megmutatja a dalmát hátország puszta nagyságát, minden lépést megjutalmazva.\n\nFejezze be a túranapot, ahogy a nap lemenni készül, hosszú árnyékokat vetve a köves gerincekre. Térjen vissza Visočani falujába felfrissülve és a helyi vadonhoz kapcsolódva.",
         "ro": "Începeți dimineața explorând vârful izbitor de la Vukova glava, unde lumina dimineții iluminează frumos terenul croat accidentat. Continuați plimbarea spre peisajele carstice neatinse de la Rvač, bucurându-vă de liniștea naturii.\n\nLa amiază ajungeți la dealul proeminent Oblik, oferind punctul de observație perfect pentru un picnic binemeritat, cu vederi ample asupra văii. Traseul vă duce apoi prin flora diversă de la Međe brdo.\n\nDupă-amiaza, provocați-vă cu o ascensiune constantă pe Velika kapa. Acest punct de belvedere natural dezvăluie amploarea hinterlandului dalmat, răsplătind din plin fiecare pas al drumeției.\n\nÎncheiați ziua de drumeție pe măsură ce soarele începe să coboare, aruncând umbre lungi peste crestele pietroase. Întoarceți-vă în satul Visočani simțindu-vă revigorați de sălbăticia locală.",
         "en": "Start your morning exploring the striking peak of Vukova glava, where the early light beautifully illuminates the rugged Croatian terrain. Continue your walk towards the untouched karst landscapes of Rvač, enjoying the deep silence of nature.\n\nMidday brings you to the prominent hill of Oblik, providing the perfect vantage point for a well-deserved picnic lunch with sweeping valley views. The trail then leads you through the diverse wild flora of Međe brdo.\n\nIn the afternoon, challenge yourself with a steady ascent up Velika kapa. This natural viewpoint reveals the sheer scale of the Dalmatian hinterland, rewarding every step of your hike.\n\nConclude your hiking day as the sun begins to lower, casting long shadows over the stony ridges. Head back to the village of Visočani feeling refreshed and deeply connected to the pristine local wilderness."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens wandern wir durch den Nebel zur Vukova glava, wo der Regen eine mystische Atmosphäre schafft. Mittags erreichen wir den Oblik-Grat und achten auf den rutschigen Kalkstein unter den Pinien. Nachmittags bieten die Regenwolken über Velika kapa dramatische Ausblicke auf die Adria. Abends kehren wir auf glänzenden Steinpfaden sicher ins Dorf zurück, während der Regen langsam nachlässt.",
+            "hu": "Reggel a Vukova glava párás csúcsai közt indulunk, ahol a szitáló eső misztikus hangulatot áraszt a karsztvidéken. Délben az Oblik sziklás gerincén a csúszós talaj miatt óvatosan haladunk a fenyvesek felé. Délután a Velika kapa felé az esőfelhők drámai kilátást nyújtanak az Adria irányába. Estére a nedves kövek csillogása kísér minket vissza a faluba, ahogy az idő csendesedik.",
+            "ro": "Dimineața urcăm prin ceață spre Vukova glava, unde ploaia măruntă creează o atmosferă mistică peste relief. La prânz, pe creasta Oblik, înaintăm cu grijă din cauza pietrelor alunecoase printre pini. După-amiaza, norii de ploaie deasupra Velika kapa oferă o panoramă dramatică spre Marea Adriatică. Seara ne întoarcem în sat pe poteci strălucitoare de umezeală, savurând liniștea naturii.",
+            "en": "Morning starts with a misty climb to Vukova glava, where the rain adds a mystical layer to the karst landscape. At noon, we navigate the rocky Oblik ridge carefully due to slippery limestone paths. Afternoon brings dramatic views from Velika kapa as storm clouds move over the Adriatic Sea. By evening, the glistening wet stones guide us back to the village as the weather finally settles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vukova glava",
+                "hu": "Vukova glava",
+                "ro": "Vukova glava",
+                "en": "Vukova glava"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht auf die im Nebel verschwindenden Gipfel; tragen Sie unbedingt wasserfeste Wanderschuhe für die rutschigen Felsen.",
+                "hu": "Élvezze a ködből előbukkanó sziklák drámai látványát; a biztonság érdekében viseljen tapadós talpú, vízálló bakancsot a csúszós mészköveken.",
+                "ro": "Admirați vederea dramatică a vârfurilor care dispar în ceață; purtați bocanci impermeabili cu aderență bună pentru secțiunile de calcar alunecos.",
+                "en": "Enjoy the dramatic sight of peaks emerging from the mist; be sure to wear high-traction waterproof boots for the slippery limestone sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Rvač",
+                "hu": "Rvač",
+                "ro": "Rvač",
+                "en": "Rvač"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Wolken tief in den Tälern hängen; suchen Sie bei starkem Guss Schutz unter den dichten Baumkronen am Wegesrand.",
+                "hu": "Figyelje meg a völgyekben megülő alacsony felhőzetet; intenzív eső esetén keressen menedéket az út menti sűrű fenyvesek védelmében.",
+                "ro": "Observați norii care plutesc jos în văile adânci; în caz de ploaie torențială, căutați adăpost sub coronamentul des al pinilor de pe traseu.",
+                "en": "Observe the low-hanging clouds in the deep valleys; during heavy downpours, seek temporary shelter under the thick pine canopy along the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Oblik",
+                "hu": "Oblik",
+                "ro": "Oblik",
+                "en": "Oblik"
+              },
+              "tip_5lang": {
+                "de": "Die schroffen Felsen wirken im Regen besonders markant; nutzen Sie Wanderstöcke, um auf dem nassen, unebenen Untergrund das Gleichgewicht zu halten.",
+                "hu": "A szaggatott sziklák esőben különösen karakteresek; használjon túrabotot az egyensúly megőrzéséhez a nedves, egyenetlen karsztfelszínen.",
+                "ro": "Stâncile abrupte par deosebit de marcante în ploaie; folosiți bețe de trekking pentru a menține echilibrul pe terenul accidentat și umed.",
+                "en": "The jagged rocks look particularly striking in the rain; use trekking poles to maintain balance on the wet and uneven karst terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Međe brdo",
+                "hu": "Međe brdo",
+                "ro": "Međe brdo",
+                "en": "Međe brdo"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frische, reine Luft nach dem Regenschauer; verstauen Sie Ihre Elektronik in wasserdichten Beuteln, während Sie die Natur genießen.",
+                "hu": "Tapasztalja meg az eső utáni friss, tiszta hegyi levegőt; az elektronikai eszközöket tartsa vízhatlan tokban a túra során a biztonság kedvéért.",
+                "ro": "Experimentați aerul proaspăt și curat de munte după ploaie; păstrați dispozitivele electronice în huse impermeabile în timp ce explorați natura.",
+                "en": "Experience the fresh, crisp mountain air after the rain; keep your electronics in waterproof bags for protection while enjoying the scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Velika kapa",
+                "hu": "Velika kapa",
+                "ro": "Velika kapa",
+                "en": "Velika kapa"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das Meer ist bei Gewitterstimmung einzigartig; halten Sie eine Regenjacke bereit, da der Wind am Gipfel oft schlagartig auffrischt.",
+                "hu": "A tengerre nyíló kilátás viharos időben egyedülálló; tartson kéznél esőkabátot, mert a csúcson a szél hirtelen felerősödhet eső közben.",
+                "ro": "Vederea spre mare este unică în condiții de furtună; aveți la îndemână o pelerină, deoarece vântul se poate intensifica brusc pe vârf.",
+                "en": "The sea view is unique during stormy weather; keep a rain jacket ready as the wind can pick up suddenly at the summit during rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens steigen wir zur gefrorenen Vukova glava auf, wo die klare Winterluft eine unglaubliche Fernsicht bietet. Mittags am Oblik wärmen wir uns bei einer kurzen Pause mit heißem Tee aus der Thermoskanne. Nachmittags sinkt die Sonne früh über Velika kapa und taucht die Karstfelsen in goldenes Licht. Abends kehren wir vor Sonnenuntergang um 17 Uhr zurück in die wohlige Wärme des Dorfes.",
+            "hu": "Reggel a deres Vukova glava csúcsára kapaszkodunk fel, ahol a tiszta téli levegőben elképesztő távolságokba látni. Délben az Oblik sziklái közt meleg teával frissítjük fel magunkat a metsző szélben. Délután a nap alacsonyan jár a Velika kapa felett, hosszú árnyékokat vetve a tájra. Este 5 óra előtt már visszaérünk a faluba, elkerülve a hirtelen leszálló téli sötétséget.",
+            "ro": "Dimineața urcăm spre vârful înghețat Vukova glava, unde aerul clar de iarnă oferă o vizibilitate incredibilă la distanță. La prânz, printre stâncile Oblik, ne încălzim cu ceai fierbinte în timpul scurtelor pauze de odihnă. După-amiaza, soarele coboară rapid peste Velika kapa, lăsând umbre lungi pe relief. Seara, înainte de ora 17:00, revenim în căldura satului înainte de apus.",
+            "en": "Morning features a frosty ascent to Vukova glava, where the crisp winter air allows for incredible long-distance visibility. At noon, we shelter among the Oblik rocks to warm up with hot tea during our rest stops. Afternoon sees the sun hanging low over Velika kapa, casting long shadows across the karst. By 5 PM, we return to the warmth of the village as the winter darkness falls quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Vukova glava",
+                "hu": "Vukova glava",
+                "ro": "Vukova glava",
+                "en": "Vukova glava"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht reicht im Winter oft bis zur italienischen Küste; tragen Sie mehrere Schichten Kleidung, um gegen den kalten Wind geschützt zu sein.",
+                "hu": "Télen a látótávolság gyakran az olasz partokig is elér; öltözzön rétegesen, hogy védekezzen a gerincen fújó fagyos szél ellen.",
+                "ro": "Vizibilitatea iarna ajunge adesea până la coasta Italiei; purtați mai multe straturi de haine pentru a vă proteja de vântul rece de pe vârf.",
+                "en": "Visibility in winter often extends to the Italian coast; dress in multiple layers to stay protected against the freezing mountain winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Rvač",
+                "hu": "Rvač",
+                "ro": "Rvač",
+                "en": "Rvač"
+              },
+              "tip_5lang": {
+                "de": "Frost auf den Steinen macht den Weg rutschig; achten Sie auf festen Tritt und genießen Sie die Stille der schlafenden Winternatur.",
+                "hu": "A köveken megmaradó dér csúszóssá teheti az utat; lépjen óvatosan és élvezze az alvó téli természet különleges csendjét.",
+                "ro": "Promoroaca de pe pietre poate face drumul alunecos; pășiți cu atenție și bucurați-vă de liniștea naturii adormite de iarnă.",
+                "en": "Frost on the stones can make the path slippery; walk carefully and enjoy the unique silence of the dormant winter nature."
+              }
+            },
+            {
+              "name": {
+                "de": "Oblik",
+                "hu": "Oblik",
+                "ro": "Oblik",
+                "en": "Oblik"
+              },
+              "tip_5lang": {
+                "de": "Die scharfen Kontraste der Felsen sind im Winterlicht ideal für Fotos; halten Sie die Pausen kurz, um den Körper nicht auskühlen zu lassen.",
+                "hu": "A sziklák éles kontrasztjai a téli fényben ideálisak fotózáshoz; a pihenőket tartsa röviden, hogy elkerülje a test gyors kihűlését.",
+                "ro": "Contrastele ascuțite ale stâncilor în lumina iernii sunt ideale pentru poze; faceți pauze scurte pentru a nu lăsa corpul să se răcească.",
+                "en": "The sharp contrasts of the rocks in winter light are ideal for photography; keep breaks short to prevent your body from cooling down."
+              }
+            },
+            {
+              "name": {
+                "de": "Međe brdo",
+                "hu": "Međe brdo",
+                "ro": "Međe brdo",
+                "en": "Međe brdo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sonnige Plätze für eine kurze Rast; eine isolierte Sitzunterlage schützt Sie vor der Kälte des gefrorenen Bodens.",
+                "hu": "Keressen napsütötte helyeket egy rövid pihenőhöz; egy hőszigetelő ülőpárna megvédi Önt a fagyos talaj hidegétől.",
+                "ro": "Căutați locuri însorite pentru o scurtă odihnă; o folie izolatoare vă va proteja de frigul pământului înghețat.",
+                "en": "Look for sunny spots for a quick rest; an insulated seating pad will protect you from the cold of the frozen ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Velika kapa",
+                "hu": "Velika kapa",
+                "ro": "Velika kapa",
+                "en": "Velika kapa"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang über der Adria; starten Sie den Abstieg rechtzeitig, um vor der Dunkelheit sicher im Tal zu sein.",
+                "hu": "Csodálja meg a korai naplementét az Adria felett; időben kezdje meg az ereszkedést, hogy sötétedés előtt biztonságban leérjen.",
+                "ro": "Admirați apusul devreme peste Marea Adriatică; începeți coborârea la timp pentru a ajunge în siguranță înainte de lăsarea întunericului.",
+                "en": "Admire the early sunset over the Adriatic Sea; start your descent in time to reach safety before the winter darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros utazást a Crvanj buja lábánál, hagyva, hogy a friss reggeli levegő energiával töltse fel, miközben az érintetlen természetben teker. Innen haladjon a dombos terepen a Velika kapa felé.\n\nDélre érkezzen meg a Grabova gruda sziklás magaslatára, ahol kifújhatja magát és hallgathatja a helyi madárvilágot. Egy rövid útra fekszik a Međe brdo, amely tökéletes egy gyors pihenőre a vadvirágok között.\n\nAhogy telik a délután, tekerjen az Oblik felé, meghódítva a változatos domborzatot, hogy élvezze a régió legjobb kilátásait. A karsztos ösvények izgalmas és dinamikus kerékpáros környezetet biztosítanak.\n\nFejezze be kalandját a Rvač-nál, értékelve a békés légkört az este közeledtével. A visszaút enyhe ereszkedést kínál, lezárva a zord hátország kerékpáros felfedezésének izgalmas napját.",
         "ro": "Începeți călătoria cu bicicleta la poalele luxuriante de la Crvanj, lăsând aerul proaspăt al dimineții să vă energizeze. De aici, navigați pe terenul vălurit spre prezența impunătoare a vârfului Velika kapa.\n\nPână la amiază, ajungeți la Grabova gruda, o proeminență stâncoasă fantastică unde vă puteți trage sufletul și asculta păsările. La scurtă distanță se află Međe brdo, perfect pentru o pauză rapidă.\n\nPe măsură ce după-amiaza avansează, pedalați spre Oblik, cucerind elevația variată pentru a vă bucura de unele dintre cele mai bune priveliști. Căile carstice oferă un mediu de ciclism dinamic.\n\nÎncheiați aventura la Rvač, apreciind atmosfera senină pe măsură ce se apropie seara. Călătoria de întoarcere oferă o coborâre ușoară, încheind o zi palpitantă de explorare a hinterlandului accidentat.",
         "en": "Kick off your cycling journey at the lush foothills of Crvanj, letting the crisp morning air energize you as you pedal through untouched nature. From here, navigate the rolling terrain towards the towering presence of Velika kapa.\n\nBy midday, arrive at Grabova gruda, a fantastic rocky prominence where you can catch your breath and listen to local birdlife. A short ride away lies Međe brdo, perfect for a quick break surrounded by vibrant wildflowers.\n\nAs the afternoon progresses, push the pedals towards Oblik, conquering the varied elevation to enjoy some of the best vistas in the region. The karst paths provide an exciting and dynamic cycling environment.\n\nWind down your adventure at Rvač, appreciating the serene atmosphere as evening approaches. The ride back offers a gentle descent, concluding a thrilling day of exploring the rugged hinterland by bike."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir bei leichtem Regen Richtung Crvanj, wobei Schutzbleche auf den schlammigen Wegen unerlässlich sind. Mittags suchen wir an der Velika kapa windgeschützte Stellen für eine kurze Pause. Nachmittags erfordert der nasse Untergrund bei Grabova gruda volle Konzentration und eine moderate Geschwindigkeit. Abends rollen wir vorsichtig über den glatten Asphalt zurück nach Visočani.",
+            "hu": "Reggel szitáló esőben indulunk a Crvanj felé, a sárvédő elengedhetetlen a felcsapódó sár ellen a murvás utakon. Délben a Velika kapa környékén szélvédett helyet keresünk a rövid frissítéshez. Délután a Grabova gruda szakaszain a sáros talaj miatt lassabb, óvatosabb tempót választunk. Este a vizes aszfalton lassú ereszkedéssel érünk vissza Visočani fényeibe.",
+            "ro": "Dimineața pornim spre Crvanj pe o ploaie ușoară, aripile bicicletei fiind esențiale împotriva noroiului de pe drumurile de pietriș. La prânz căutăm locuri ferite de vânt lângă Velika kapa pentru o scurtă pauză. După-amiaza, terenul umed de la Grabova gruda necesită concentrare maximă și o viteză moderată. Seara coborâm cu atenție pe asfaltul ud înapoi spre Visočani.",
+            "en": "Morning begins with light rain toward Crvanj, where mudguards are essential on the softening gravel paths. At noon, we find sheltered spots near Velika kapa for a quick energy break. Afternoon cycling at Grabova gruda requires full concentration and a slower pace on the muddy terrain. By evening, we carefully descend on the wet asphalt back to the lights of Visočani."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Crvanj",
+                "hu": "Crvanj",
+                "ro": "Crvanj",
+                "en": "Crvanj"
+              },
+              "tip_5lang": {
+                "de": "Reduzieren Sie den Reifendruck leicht für besseren Grip auf nassen Steinen; achten Sie in den Kurven auf weggespülten Schotter.",
+                "hu": "Csökkentse kissé a guminyomást a jobb tapadásért a nedves köveken; a kanyarokban ügyeljen a kimosott murvára.",
+                "ro": "Reduceți ușor presiunea în pneuri pentru o aderență mai bună pe pietrele ude; atenție la pietrișul spălat de ploaie în curbe.",
+                "en": "Slightly reduce tire pressure for better grip on wet stones; watch out for washed-out gravel in the corners after rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Velika kapa",
+                "hu": "Velika kapa",
+                "ro": "Velika kapa",
+                "en": "Velika kapa"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht hier bei Regen oft stark; tragen Sie eine winddichte Weste, um beim Schwitzen nicht auszukühlen.",
+                "hu": "Az erős szél esőben itt fokozottan érvényesül; viseljen szélálló mellényt, hogy elkerülje a megfázást az izzadás után.",
+                "ro": "Vântul bate adesea puternic aici când plouă; purtați o vestă rezistentă la vânt pentru a nu răci după efort.",
+                "en": "Strong winds often prevail here during rain; wear a windproof vest to prevent getting a cold after working up a sweat."
+              }
+            },
+            {
+              "name": {
+                "de": "Grabova gruda",
+                "hu": "Grabova gruda",
+                "ro": "Grabova gruda",
+                "en": "Grabova gruda"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen, da diese oft lose Steine verbergen; prüfen Sie regelmäßig Ihre Bremsen auf ihre Funktionsfähigkeit im Nassen.",
+                "hu": "Kerülje a mély tócsákat, mert azok gyakran laza köveket rejtenek; rendszeresen ellenőrizze a fékek hatékonyságát a vizes felniken.",
+                "ro": "Evitați bălțile adânci, deoarece acestea ascund adesea pietre instabile; verificați constant eficiența frânelor pe jantele ude.",
+                "en": "Avoid deep puddles as they often hide loose stones; regularly check your brake performance on the wet rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Međe brdo",
+                "hu": "Međe brdo",
+                "ro": "Međe brdo",
+                "en": "Međe brdo"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist hier besonders rutschig; halten Sie ausreichend Abstand zu anderen Fahrern, um bei Notbremsungen sicher zu reagieren.",
+                "hu": "A talaj itt különösen csúszóssá válik az esőben; tartson nagyobb követési távolságot a biztonságos fékezés érdekében.",
+                "ro": "Terenul devine foarte alunecos aici din cauza ploii; păstrați o distanță mai mare între biciclete pentru a frâna în siguranță.",
+                "en": "The ground becomes very slippery here in the rain; keep a larger distance between bikes to ensure safe braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Oblik",
+                "hu": "Oblik",
+                "ro": "Oblik",
+                "en": "Oblik"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie steile Passagen im Sitzen, um das Hinterrad zu belasten; nutzen Sie das Profil Ihrer Reifen voll aus.",
+                "hu": "A meredek részeken tekerjen ülve, hogy súlyt helyezzen a hátsó kerékre; használja ki a terepgumi tapadását a sárban.",
+                "ro": "Urcați secțiunile abrupte stând în șa pentru a menține tracțiunea pe spate; profitați de profilul anvelopelor în noroi.",
+                "en": "Ride steep sections while seated to keep weight on the rear wheel; make full use of your tire tread in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Rvač",
+                "hu": "Rvač",
+                "ro": "Rvač",
+                "en": "Rvač"
+              },
+              "tip_5lang": {
+                "de": "Reinigen Sie Ihre Kette nach der Fahrt gründlich von Sand und Dreck; tragen Sie eine Brille gegen Spritzwasser in den Augen.",
+                "hu": "A túra után alaposan tisztítsa meg a láncot a homoktól és sártól; viseljen szemüveget a felcsapódó víz ellen.",
+                "ro": "Curățați bine lanțul de nisip și noroi după tură; purtați ochelari de protecție împotriva apei care sare de la roți.",
+                "en": "Thoroughly clean your chain from sand and mud after the ride; wear glasses to protect your eyes from splashing water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir bei Frost zum Crvanj, wobei Thermo-Handschuhe gegen den kalten Fahrtwind schützen. Mittags an der Velika kapa genießen wir die Wintersonne, halten uns aber durch stetige Bewegung warm. Nachmittags fordern die kurzen Tage ein zügiges Tempo bei Grabova gruda. Abends kehren wir pünktlich vor dem Kälteeinbruch bei Dämmerung zurück in die warme Unterkunft.",
+            "hu": "Reggel fagyos időben tekerünk a Crvanj felé, a thermo-kesztyű elengedhetetlen a metsző menetszél ellen. Délben a Velika kapa csúcsán élvezzük a téli napsütést, de a folyamatos mozgással tartjuk fenn a testhőt. Délután a rövid nappalok miatt tempósabban haladunk Grabova gruda felé. Este, még a sötétedés beállta előtt visszaérünk Visočani fűtött házaiba.",
+            "ro": "Dimineața pedalăm spre Crvanj pe ger, mănușile termice fiind obligatorii împotriva vântului tăios. La prânz, pe Velika kapa, ne bucurăm de soarele de iarnă, dar rămânem în mișcare pentru a menține căldura corpului. După-amiaza, zilele scurte impun un ritm mai alert spre Grabova gruda. Seara revenim în sat înainte de lăsarea frigului intens de la amurg.",
+            "en": "Morning ride to Crvanj starts in freezing temperatures, requiring thermal gloves against the biting wind. At noon on Velika kapa, we enjoy the winter sun but keep moving to maintain body heat. Afternoon requires a brisker pace at Grabova gruda due to the early sunset. By evening, we return to the warm accommodation just as the twilight cold begins to set in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Crvanj",
+                "hu": "Crvanj",
+                "ro": "Crvanj",
+                "en": "Crvanj"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist im Winter sehr trocken; achten Sie darauf, trotz der Kälte ausreichend zu trinken, um hydriert zu bleiben.",
+                "hu": "Télen a levegő nagyon száraz; ügyeljen rá, hogy a hideg ellenére is elegendő vizet igyon a hidratáltság megőrzéséhez.",
+                "ro": "Aerul este foarte uscat iarna; asigurați-vă că beți suficientă apă în ciuda frigului pentru a rămâne hidratat.",
+                "en": "The air is very dry in winter; make sure to drink enough water despite the cold to stay properly hydrated."
+              }
+            },
+            {
+              "name": {
+                "de": "Velika kapa",
+                "hu": "Velika kapa",
+                "ro": "Velika kapa",
+                "en": "Velika kapa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Buff-Tücher, um Gesicht und Hals vor Erfrierungen zu schützen; die Abfahrt kann bei Minustemperaturen extrem kalt werden.",
+                "hu": "Használjon csősálat az arc és nyak védelmére; a lejtmenet a fagyos időben extrém módon lehűtheti a testét.",
+                "ro": "Folosiți o eșarfă tip buff pentru a proteja fața de ger; coborârea poate fi extrem de rece la temperaturi negative.",
+                "en": "Use a buff to protect your face and neck from frostbite; the downhill descent can be extremely cold in freezing weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Grabova gruda",
+                "hu": "Grabova gruda",
+                "ro": "Grabova gruda",
+                "en": "Grabova gruda"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Reifen auf sprödes Gummi; niedrige Temperaturen verringern die Flexibilität und den Grip Ihrer Bereifung.",
+                "hu": "Ellenőrizze a gumik állapotát; az alacsony hőmérséklet csökkenti az abroncsok rugalmasságát és tapadását a terepen.",
+                "ro": "Verificați starea anvelopelor; temperaturile scăzute reduc flexibilitatea și aderența cauciucului pe teren accidentat.",
+                "en": "Check your tire condition; low temperatures reduce the flexibility and grip of your tires on the rough terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Međe brdo",
+                "hu": "Međe brdo",
+                "ro": "Međe brdo",
+                "en": "Međe brdo"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Überschuhe, um Ihre Zehen vor dem eiskalten Wind zu bewahren; warme Füße sind entscheidend für die Fahrfreude.",
+                "hu": "Viseljen kamáslit, hogy megvédje lábujjait a fagyos széltől; a meleg láb alapvető a téli tekerés élvezetéhez.",
+                "ro": "Purtați huse pentru pantofi pentru a proteja degetele de vântul înghețat; picioarele calde sunt esențiale pentru confort.",
+                "en": "Wear shoe covers to protect your toes from the freezing wind; keeping your feet warm is crucial for enjoying the winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Oblik",
+                "hu": "Oblik",
+                "ro": "Oblik",
+                "en": "Oblik"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und kann blenden; eine kontrastverstärkende Sportbrille hilft Ihnen, Unebenheiten im Boden besser zu sehen.",
+                "hu": "A téli nap alacsonyan jár és elvakíthat; egy kontrasztkiemelő sportprizma segít jobban látni a talaj egyenetlenségeit.",
+                "ro": "Soarele de iarnă stă jos și poate fi orbitor; ochelarii de sport cu contrast sporit vă ajută să vedeți mai bine terenul.",
+                "en": "The winter sun is low and can be blinding; contrast-enhancing sports glasses will help you see terrain irregularities better."
+              }
+            },
+            {
+              "name": {
+                "de": "Rvač",
+                "hu": "Rvač",
+                "ro": "Rvač",
+                "en": "Rvač"
+              },
+              "tip_5lang": {
+                "de": "Haben Sie immer funktionierende Lichter am Rad, falls sich die Tour verzögert; die Dämmerung setzt im Winter sehr plötzlich ein.",
+                "hu": "Mindig legyen működő lámpa a biciklin; a téli szürkület nagyon hirtelen és korán vált át teljes sötétségbe.",
+                "ro": "Aveți întotdeauna lumini funcționale pe bicicletă; amurgul de iarnă se transformă foarte rapid în întuneric deplin.",
+                "en": "Always have functioning lights on your bike; winter twilight turns into complete darkness very suddenly and early."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját dél felé indulva az Oštrikovac-hoz, ahol a nyílt utak lenyűgöző karszt panorámát nyújtanak a reggeli fényben. Egy rövid út után a Runjava glava zord, textúrált tájához érkezik.\n\nA dél közeledtével látogassa meg a történelmi Vojska glava kilátót, mielőtt a Požar kiterjedt természeti területére hajtana. Ezek a könnyen megközelíthető helyek kiváló lehetőséget nyújtanak egy kis sétára.\n\nDélután autózzon vissza észak felé a Vukova glava irányába, megcsodálva, hogyan változtatja meg a napfény a völgy színeit. Folytassa útját a Međe brdo-hoz, hogy kinyújtóztassa lábait a felvidéki növényzet között.\n\nFejezze be a kirándulást a Grabova gruda-nál a késő délutáni órákban. Az elszigetelt sziklás magaslat csendes, drámai hátteret kínál egy tökéletes természeti nap lezárásához Visočani környékén.",
         "ro": "Începeți turul cu mașina îndreptându-vă spre sud, la Oštrikovac, unde drumurile deschise lasă loc priveliștilor carstice uimitoare. O scurtă plimbare vă duce apoi la Runjava glava, cunoscută pentru peisajul său accidentat.\n\nPe măsură ce se apropie amiaza, vizitați punctul de observație Vojska glava înainte de a conduce spre zona naturală expansivă Požar. Aceste locuri sunt accesibile și oferă oportunități excelente pentru scurte plimbări.\n\nDupă-amiaza, mergeți înapoi spre nord spre Vukova glava, admirând modul în care lumina schimbă culorile văii. Continuați spre Međe brdo pentru a vă întinde picioarele printre vegetația montană unică.\n\nTerminați excursia la Grabova gruda exact când se instalează după-amiaza târziu. Prominența stâncoasă izolată oferă un fundal liniștit și dramatic pentru a încheia o zi perfectă de explorare în Visočani.",
         "en": "Start your driving tour by heading south to Oštrikovac, where the open roads give way to stunning karst vistas in the morning light. A brief drive then takes you to Runjava glava, a spot known for its rugged, textured landscape.\n\nAs midday nears, visit the historic vantage point of Vojska glava before driving up to the expansive natural area of Požar. These spots are easily accessible and provide excellent opportunities for short nature walks and photography.\n\nIn the afternoon, cruise back north towards Vukova glava, admiring how the shifting sunlight changes the colors of the valley. Continue to Međe brdo to stretch your legs among the unique highland vegetation.\n\nFinish your road trip at Grabova gruda just as the late afternoon sets in. The isolated rocky prominence offers a quiet, dramatic backdrop to end a perfect day of hopping between Visočani's natural landmarks."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir den Ausblick vom Oštrikovac bequem aus dem trockenen Auto, während der Regen gegen die Scheiben trommelt. Mittags führt die Fahrt über kurvige Bergstraßen nach Požar, wo wir auf Wasseransammlungen in den Senken achten. Nachmittags hüllt Nebel die Strecke zum Međe brdo ein. Abends lassen wir den Tag entspannt ausklingen und beobachten das Wetter von einem warmen Ort.",
+            "hu": "Reggel az Oštrikovac kilátópontnál a kocsiból csodáljuk a tájat, miközben az eső a szélvédőn kopog. Délben a Požar felé vezető kanyargós utakon a vízátfolyásokra figyelve haladunk tovább. Délután a Međe brdo magasságában a köd gyakran az út szintjéig ereszkedik, lassítva a haladást. Estére biztonságban visszaérünk, miközben az eső mossa a karsztvidéket.",
+            "ro": "Dimineața admirăm peisajul de la Oštrikovac confortabil din mașină, în timp ce ploaia bate în parbriz. La prânz, conducem pe drumurile sinuoase spre Požar, fiind atenți la acumulările de apă de pe carosabil. După-amiaza, ceața acoperă traseul spre Međe brdo, reducând vizibilitatea. Seara ne retragem la căldură, privind cum ploaia spală relieful carstic.",
+            "en": "Morning starts with views from Oštrikovac enjoyed from the comfort of our dry car as rain drums on the windshield. At noon, we navigate the winding mountain roads to Požar, watching for water runoff on the asphalt. Afternoon brings low-hanging fog near Međe brdo, requiring slower speeds. By evening, we settle in safely while the rain continues to wash over the karst landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oštrikovac",
+                "hu": "Oštrikovac",
+                "ro": "Oštrikovac",
+                "en": "Oštrikovac"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze für Fotos direkt aus dem Auto; bei Regen ist die Fernsicht oft klarer, wenn die Wolken aufreißen.",
+                "hu": "Használja a parkolókat a közvetlenül az autóból történő fotózáshoz; esőben a látótávolság gyakran javul, ha felszakadozik a felhőzet.",
+                "ro": "Folosiți parcările pentru fotografii direct din mașină; vizibilitatea se îmbunătățește adesea când norii se risipesc după ploaie.",
+                "en": "Use the parking spots for photos directly from the car; visibility often clears up beautifully when the clouds break during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Runjava glava",
+                "hu": "Runjava glava",
+                "ro": "Runjava glava",
+                "en": "Runjava glava"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Steinschlag auf der Fahrbahn nach starken Regengüssen; fahren Sie in unübersichtlichen Kurven besonders vorausschauend.",
+                "hu": "Erős esőzés után ügyeljen az úttestre hullott kövekre; a beláthatatlan kanyarokban vezessen a szokásosnál lassabban.",
+                "ro": "Atenție la căderile de pietre pe carosabil după ploi torențiale; conduceți mai încet în curbele fără vizibilitate.",
+                "en": "Watch out for fallen rocks on the road after heavy rain; drive more slowly than usual in curves with limited visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Vojska glava",
+                "hu": "Vojska glava",
+                "ro": "Vojska glava",
+                "en": "Vojska glava"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt; eine klare Sicht ist auf den schmalen Bergstraßen lebenswichtig bei schlechtem Wetter.",
+                "hu": "Indulás előtt ellenőrizze az ablaktörlők állapotát; a tiszta kilátás létfontosságú a szűk hegyi utakon rossz időben.",
+                "ro": "Verificați starea ștergătoarelor înainte de plecare; vizibilitatea clară este vitală pe drumurile înguste de munte pe timp ploios.",
+                "en": "Check your wiper blades before starting the trip; clear visibility is vital on the narrow mountain roads during bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Požar",
+                "hu": "Požar",
+                "ro": "Požar",
+                "en": "Požar"
+              },
+              "tip_5lang": {
+                "de": "Der Asphalt kann hier bei Nässe sehr rutschig sein; vermeiden Sie abrupte Bremsmanöver, um die Bodenhaftung nicht zu verlieren.",
+                "hu": "Az aszfalt itt vizesen nagyon csúszós lehet; kerülje a hirtelen fékezést, hogy megőrizze az autó tapadását a kanyarokban.",
+                "ro": "Asfaltul poate fi foarte alunecos aici când este ud; evitați frânările bruște pentru a menține aderența mașinii în curbe.",
+                "en": "The asphalt can be very slippery here when wet; avoid sudden braking to maintain tire traction in the mountain bends."
+              }
+            },
+            {
+              "name": {
+                "de": "Vukova glava",
+                "hu": "Vukova glava",
+                "ro": "Vukova glava",
+                "en": "Vukova glava"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie das Abblendlicht ein, auch am Tag; bei Regen und Nebel werden Sie von anderen Verkehrsteilnehmern besser gesehen.",
+                "hu": "Kapcsolja be a tompított fényszórót nappal is; esőben és ködben így sokkal jobban látható marad a többi közlekedő számára.",
+                "ro": "Aprindeți faza scurtă chiar și în timpul zilei; pe ploaie și ceață veți fi mult mai vizibil pentru ceilalți participanți la trafic.",
+                "en": "Turn on your low-beam headlights even during the day; you'll be much more visible to others in rain and fog."
+              }
+            },
+            {
+              "name": {
+                "de": "Međe brdo",
+                "hu": "Međe brdo",
+                "ro": "Međe brdo",
+                "en": "Međe brdo"
+              },
+              "tip_5lang": {
+                "de": "Die Temperatur sinkt hier oben schnell; halten Sie die Heizung auf einer angenehmen Stufe, damit die Scheiben nicht beschlagen.",
+                "hu": "A hőmérséklet itt fent gyorsan csökken; állítsa a fűtést megfelelő fokozatra, hogy elkerülje az ablakok párásodását.",
+                "ro": "Temperatura scade rapid aici sus; setați încălzirea la un nivel optim pentru a preveni aburirea geamurilor mașinii.",
+                "en": "The temperature drops quickly up here; set your heater to an optimal level to prevent the windows from fogging up."
+              }
+            },
+            {
+              "name": {
+                "de": "Grabova gruda",
+                "hu": "Grabova gruda",
+                "ro": "Grabova gruda",
+                "en": "Grabova gruda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie bei der Abfahrt die Motorbremse, um die Bremsanlage zu schonen; nasse Bremsen reagieren oft verzögert.",
+                "hu": "Ereszkedéskor használja a motorféket, hogy kímélje a fékrendszert; a vizes fékek reakcióideje megnőhet a lejtőkön.",
+                "ro": "La coborâre folosiți frâna de motor pentru a proteja sistemul de frânare; frânele ude pot avea un timp de reacție mai mare.",
+                "en": "Use engine braking during descent to save your brake system; wet brakes can have a longer reaction time on steep slopes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir zur Oštrikovac-Höhe, wobei die Wintersonne die gefrorenen Hänge glitzern lässt. Mittags am Vojska glava genießen wir das Bergpanorama durch die Panoramascheiben unseres beheizten Wagens. Nachmittags sinkt die Sonne früh, was die Sichtverhältnisse bei Međe brdo verändert. Abends kehren wir rechtzeitig vor dem Frost bei Sonnenuntergang um 17 Uhr sicher zurück.",
+            "hu": "Reggel az Oštrikovac kilátóhoz autózunk, ahol a téli napfényben szikráznak a deres hegyoldalak. Délben a Vojska glava panorámáját a fűtött autó kényelméből csodáljuk, élvezve a tiszta téli kilátást. Délután a nap alacsony állása miatt hosszú árnyékok vetülnek Međe brdo útjaira. Este 5 óra előtt visszaérünk, megelőzve a hirtelen leszálló téli fagyot.",
+            "ro": "Dimineața conducem spre înălțimile Oštrikovac, unde soarele de iarnă face versanții înghețați să strălucească. La prânz, admirăm panorama Vojska glava din confortul mașinii încălzite, profitând de cerul senin. După-amiaza, soarele coborât creează umbre lungi pe drumurile spre Međe brdo. Seara, revenim în sat înainte de ora 17:00, evitând gerul brusc de după apus.",
+            "en": "Morning drive leads to Oštrikovac heights, where the winter sun makes the frozen slopes sparkle beautifully. At noon, we admire the Vojska glava panorama from the warmth of our heated car, enjoying the clear winter skies. Afternoon brings long shadows to the roads near Međe brdo as the sun hangs low. By 5 PM, we return safely, beating the sudden onset of freezing night temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Oštrikovac",
+                "hu": "Oštrikovac",
+                "ro": "Oštrikovac",
+                "en": "Oštrikovac"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie den Reifendruck vor der Tour, da Kälte diesen beeinflusst; die Aussicht ist im Winter bei klarem Himmel oft am besten.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást, mert a hideg hatással van rá; tiszta égbolt mellett télen a legszebb a panoráma.",
+                "ro": "Verificați presiunea în anvelope înainte de drum, deoarece frigul o influențează; panorama este superbă iarna pe cer senin.",
+                "en": "Check your tire pressure before the trip as cold affects it; visibility is often best in winter under a clear sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Runjava glava",
+                "hu": "Runjava glava",
+                "ro": "Runjava glava",
+                "en": "Runjava glava"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schattige Straßenabschnitte, auf denen sich Glatteis bilden kann; fahren Sie dort besonders behutsam und ohne Hektik.",
+                "hu": "Ügyeljen az árnyékos útszakaszokra, ahol jegesedés alakulhat ki; ezeken a részeken vezessen különös óvatossággal és türelemmel.",
+                "ro": "Atenție la porțiunile de drum umbrite unde se poate forma polei; conduceți cu maximă prudență și fără grabă în acele zone.",
+                "en": "Watch out for shaded road sections where black ice can form; drive with extreme caution and patience in those areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Vojska glava",
+                "hu": "Vojska glava",
+                "ro": "Vojska glava",
+                "en": "Vojska glava"
+              },
+              "tip_5lang": {
+                "de": "Haben Sie immer eine Decke und warme Kleidung im Auto für den Notfall; bei den kühlen Temperaturen kühlt der Innenraum schnell aus.",
+                "hu": "Mindig legyen a kocsiban takaró és meleg ruha vészhelyzetre; a fagypont körüli hőmérsékleten az autó utastere gyorsan lehűlhet.",
+                "ro": "Aveți întotdeauna o pătură și haine groase în mașină pentru urgențe; la temperaturi scăzute, habitaclul se poate răci rapid.",
+                "en": "Always keep a blanket and warm clothes in the car for emergencies; at freezing temperatures, the interior can cool down fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Požar",
+                "hu": "Požar",
+                "ro": "Požar",
+                "en": "Požar"
+              },
+              "tip_5lang": {
+                "de": "Füllen Sie rechtzeitig Frostschutzmittel in die Scheibenwaschanlage; gefrorene Leitungen können die Sicht während der Fahrt beeinträchtigen.",
+                "hu": "Időben töltsön fagyállót a szélvédőmosó tartályba; a megfagyott vezetékek akadályozhatják a kilátást menet közben.",
+                "ro": "Folosiți lichid de parbriz rezistent la îngheț; conductele înghețate pot bloca vizibilitatea în timpul condusului pe munte.",
+                "en": "Fill your windshield washer with antifreeze fluid in time; frozen lines can block your visibility while driving in the mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Vukova glava",
+                "hu": "Vukova glava",
+                "ro": "Vukova glava",
+                "en": "Vukova glava"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann extrem blenden; halten Sie eine Sonnenbrille bereit, um auch bei Gegenlicht sicher zu fahren.",
+                "hu": "Az alacsonyan járó téli nap erősen elvakíthat; tartson kéznél napszemüveget, hogy biztonságosan vezethessen szembe fényben is.",
+                "ro": "Soarele de iarnă poate fi extrem de orbitor; aveți la îndemână ochelari de soare pentru a conduce în siguranță contra luminii.",
+                "en": "The low winter sun can be extremely blinding; keep sunglasses ready to drive safely even against the bright light."
+              }
+            },
+            {
+              "name": {
+                "de": "Međe brdo",
+                "hu": "Međe brdo",
+                "ro": "Međe brdo",
+                "en": "Međe brdo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Autobatterie in gutem Zustand ist; extreme Kälte kann die Startleistung des Motors verringern.",
+                "hu": "Győződjön meg róla, hogy az akkumulátor jó állapotban van; az extrém hideg csökkentheti a motor indítási hatékonyságát.",
+                "ro": "Asigurați-vă că bateria mașinii este în stare bună; gerul extrem poate reduce puterea de pornire a motorului.",
+                "en": "Ensure your car battery is in good condition; extreme cold can reduce the starting efficiency of your engine."
+              }
+            },
+            {
+              "name": {
+                "de": "Grabova gruda",
+                "hu": "Grabova gruda",
+                "ro": "Grabova gruda",
+                "en": "Grabova gruda"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Außentemperaturanzeige genau; ab 3 Grad Celsius steigt die Gefahr von überfrierender Nässe deutlich an.",
+                "hu": "Figyelje folyamatosan a külső hőmérséklet-kijelzőt; 3 fok alatt jelentősen megnő az utak jegesedésének kockázata.",
+                "ro": "Monitorizați constant indicatorul de temperatură exterioară; sub 3 grade Celsius crește riscul de îngheț pe carosabil.",
+                "en": "Monitor the outside temperature display closely; below 3 degrees Celsius, the risk of road icing increases significantly."
+              }
+            }
+          ]
+        }
       }
     }
   }

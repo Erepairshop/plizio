@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt az alsóváros nyüzsgésében, a történelmi Igreja de Santa Cruz közelében. Délben fedezze fel a régi katedrális és az egyetem körüli kanyargós utcákat. A délutánt a történelmi botanikus kert hűsítő árnyékában töltheti. Az estét a teraszos Parque de Santa Cruz parkban zárhatja, ahonnan csodás kilátás nyílik Coimbra városára.",
         "ro": "Începeți dimineața în orașul de jos, vizitând istorica Igreja de Santa Cruz. La prânz, explorați străduțele întortocheate din jurul vechii catedrale și ale universității. După-amiaza este dedicată umbrei răcoroase a grădinii botanice istorice. Încheiați seara relaxându-vă în Parque de Santa Cruz, admirând priveliștea minunată asupra orașului Coimbra.",
         "en": "Start your morning in the vibrant lower town at the historic Igreja de Santa Cruz. Midday is perfect for exploring the winding medieval streets around the old cathedral and university. Spend your afternoon enjoying the cool shade of the botanical garden. Conclude your evening relaxing in the terraced Parque de Santa Cruz, overlooking the beautiful city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der Igreja de Santa Cruz, einem perfekten Zufluchtsort vor dem Regen. Mittags erkunden Sie die engen, gepflasterten Gassen der Altstadt, in denen die alten Mauern Schutz bieten. Am Nachmittag führt der Weg hinauf zur Universität, wo die historischen Innenräume zum Verweilen einladen. Abends spiegelt sich das Licht der Stadt in den nassen Straßen wider.",
+            "hu": "A napot az Igreja de Santa Cruz hűvös falai között indítjuk, elkerülve az első záporokat. Délben a várnegyed szűk utcáin sétálunk, ahol a házak ereszcsatornái alatt találunk menedéket. Délután az egyetem fedett terei és a botanikus kert sűrű lombjai védenek az esőtől. Este a város fényei csodásan tükröződnek a vizes macskakövön, különleges hangulatot árasztva.",
+            "ro": "Începeți ziua la Igreja de Santa Cruz, un refugiu ideal împotriva ploii. La prânz, explorați străzile înguste ale orașului vechi, unde clădirile oferă adăpost natural. După-amiaza, vizitați spațiile interioare ale universității pentru a rămâne uscați. Seara, luminile orașului se oglindesc spectaculos pe străzile umede, creând o atmosferă melancolică și autentică.",
+            "en": "Start your day inside the Igreja de Santa Cruz, a perfect sanctuary from the rain. At noon, wander through the narrow alleys of the old town where the tall buildings provide some cover. In the afternoon, focus on the university's indoor treasures to stay dry. By evening, the city lights shimmer beautifully on the wet cobblestones, offering a unique Coimbra experience."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Santa Cruz",
+                "hu": "Igreja de Santa Cruz",
+                "ro": "Igreja de Santa Cruz",
+                "en": "Igreja de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtigen Azulejos im Inneren, während es draußen regnet; die Kirche bietet einen trockenen und spirituellen Start in den Tag.",
+                "hu": "Csodáld meg a belső tér gyönyörű azulejo csempéit, miközben kint esik; a templom tágas belseje kiváló menedéket nyújt a reggeli zápor elől.",
+                "ro": "Admirați plăcile superbe de azulejos din interior în timp ce plouă afară; biserica oferă un început de zi uscat și plin de spiritualitate.",
+                "en": "Admire the stunning azulejo tiles inside while it rains outside; the church offers a dry and spiritual start to your rainy day exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Palácio Sub-Ripas",
+                "hu": "Palácio Sub-Ripas",
+                "ro": "Palácio Sub-Ripas",
+                "en": "Palácio Sub-Ripas"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die manuelinische Fassade von einem geschützten Torbogen aus; achten Sie auf den rutschigen Untergrund beim Aufstieg durch die Gassen.",
+                "hu": "Nézd meg a mánuel stílusú homlokzatot egy közeli kapualjból; vigyázz a meredek lépcsőkön, mert a macskakő esőben rendkívül csúszóssá válik.",
+                "ro": "Observați fațada manuelină de la adăpostul unei arcade din apropiere; atenție la pavajul alunecos în timp ce urcați pe străzile înguste.",
+                "en": "View the Manueline facade from the shelter of a nearby archway; be careful on the steep steps as the cobblestones get very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sé Velha de Coimbra",
+                "hu": "Sé Velha de Coimbra",
+                "ro": "Sé Velha de Coimbra",
+                "en": "Sé Velha de Coimbra"
+              },
+              "tip_5lang": {
+                "de": "Diese festungsartige Kathedrale ist der ideale Ort, um dem Regen zu entkommen; das massive Mauerwerk sorgt für eine ruhige, trockene Atmosphäre.",
+                "hu": "Ez az erőd jellegű székesegyház tökéletes hely a vihar elől; a masszív kőfalak között szárazon és nyugodtan csodálhatod meg a román építészetet.",
+                "ro": "Această catedrală ca o fortăreață este locul ideal pentru a scăpa de ploaie; zidurile masive asigură o atmosferă liniștită și uscată.",
+                "en": "This fortress-like cathedral is the ideal place to escape the downpour; the massive stone walls provide a quiet, dry atmosphere for exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de São Miguel",
+                "hu": "Capela de São Miguel",
+                "ro": "Capela de São Miguel",
+                "en": "Capela de São Miguel"
+              },
+              "tip_5lang": {
+                "de": "Der farbenfrohe Kachel-Innenraum ist ein Highlight, das bei grauem Wetter besonders leuchtet; nutzen Sie den überdachten Eingangsbereich.",
+                "hu": "A színes csempézett belső tér különösen ragyog a szürke időben; várd meg a zápor végét a kápolna díszes és fedett bejárati részénél.",
+                "ro": "Interiorul colorat cu plăci ceramice este un punct forte care strălucește pe vreme gri; folosiți zona de intrare acoperită pentru a vă scutura umbrela.",
+                "en": "The colorful tiled interior is a highlight that glows even in gray weather; use the covered entrance area to dry off before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden of the University of Coimbra",
+                "hu": "Botanical Garden of the University of Coimbra",
+                "ro": "Botanical Garden of the University of Coimbra",
+                "en": "Botanical Garden of the University of Coimbra"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Baumkronen oder im Gewächshaus; der Garten verströmt bei Regen einen intensiven, frischen Duft.",
+                "hu": "Keress menedéket a sűrű bambuszliget vagy az üvegházak alatt; az eső illata és a növények harsány zöldje ilyenkor a legintenzívebb.",
+                "ro": "Căutați adăpost sub coroanele dese ale copacilor sau în seră; grădina emană un parfum proaspăt și intens atunci când plouă.",
+                "en": "Seek shelter under the thick tree canopies or inside the greenhouses; the garden smells incredibly fresh and vibrant during a light rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduto de São Sebastião",
+                "hu": "Aqueduto de São Sebastião",
+                "ro": "Aqueduto de São Sebastião",
+                "en": "Aqueduto de São Sebastião"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp unter den massiven Bögen bietet Schutz vor einem Schauer; die dunklen Steine wirken im Regen besonders imposant.",
+                "hu": "Egy rövid megálló a masszív ívek alatt védelmet nyújt a hirtelen zápor ellen; a sötét kövek esőben még tekintélyesebb látványt nyújtanak.",
+                "ro": "O scurtă oprire sub arcadele masive oferă protecție împotriva unei averse; pietrele întunecate par deosebit de impunătoare în ploaie.",
+                "en": "A quick stop under the massive arches provides shelter from a passing shower; the dark stones look particularly imposing in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de Santa Cruz",
+                "hu": "Parque de Santa Cruz",
+                "ro": "Parque de Santa Cruz",
+                "en": "Parque de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pavillons für eine kurze Rast im Trockenen; die neblige Atmosphäre im Park ist mystisch und lädt zum Verweilen ein.",
+                "hu": "Használd a park pavilonjait egy kis száraz pihenőre; a ködös, párás levegő misztikus hangulatot kölcsönöz a kertnek az esőben.",
+                "ro": "Folosiți pavilioanele pentru un scurt popas la uscat; atmosfera cețoasă din parc este mistică și vă invită la o scurtă meditație.",
+                "en": "Use the park's pavilions for a brief rest in the dry; the misty atmosphere in the garden is mystical and very peaceful during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Coimbra am kühlen Morgen ohne die üblichen Touristenmassen. Mittags wärmen Sie sich in den geschichtsträchtigen Kirchen der Unterstadt auf. Am Nachmittag genießen Sie das goldene Licht der tiefstehenden Sonne an der Universität. Da es bereits gegen 17:00 Uhr dunkel wird, lassen Sie den Tag gemütlich in einem warmen Café am Praça da República ausklingen.",
+            "hu": "Kezdd a hűvös reggelt Coimbra történelmi falai között, amikor a város még csendes. Délben a templomok vastag falai és a belső terek nyújtanak enyhülést a csípős szél elől. Délután használd ki a korai naplementét az egyetemi dombon. Mivel ötkor sötétedik, az estét töltsd egy hangulatos fado-házban vagy egy meleg teázóban a belvárosban.",
+            "ro": "Experimentați Coimbra într-o dimineață răcoroasă, fără mulțimile obișnuite de turiști. La prânz, încălziți-vă în bisericile istorice din partea de jos a orașului. După-amiaza, profitați de lumina aurie a soarelui la universitate. Deoarece se întunecă în jurul orei 17:00, încheiați ziua confortabil într-o cafenea caldă din centrul istoric.",
+            "en": "Experience Coimbra on a crisp winter morning without the usual tourist crowds. At noon, warm up inside the historic churches of the lower town. In the afternoon, enjoy the golden light of the low sun on the University hill. Since it gets dark around 17:00, end your day cozily in a warm café or a traditional Fado house in the historic center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Santa Cruz",
+                "hu": "Igreja de Santa Cruz",
+                "ro": "Igreja de Santa Cruz",
+                "en": "Igreja de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine angenehme Zuflucht vor dem kalten Wind; besuchen Sie das angrenzende Café Santa Cruz für ein heißes Getränk.",
+                "hu": "A templom kellemes menedék a hideg szél elől; látogass el a szomszédos Café Santa Cruzba egy forró italra a látogatás után.",
+                "ro": "Biserica oferă un refugiu plăcut împotriva vântului rece; vizitați cafeneaua Santa Cruz din apropiere pentru o băutură caldă.",
+                "en": "The church provides a pleasant refuge from the cold winter wind; visit the adjacent Café Santa Cruz for a hot drink afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Palácio Sub-Ripas",
+                "hu": "Palácio Sub-Ripas",
+                "ro": "Palácio Sub-Ripas",
+                "en": "Palácio Sub-Ripas"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da der Wind durch die schmalen Gassen wehen kann; die manuelinischen Details wirken im klaren Winterlicht scharf.",
+                "hu": "Öltözz rétegesen, mert a szűk utcákban felerősödhet a hideg szél; a mánuel stílusú részletek élesen látszanak a tiszta téli fényben.",
+                "ro": "Purtați haine groase, deoarece vântul poate fi tăios pe străzile înguste; detaliile manueline par foarte clare în lumina iernii.",
+                "en": "Wear warm layers as the wind can be biting in the narrow alleys; the Manueline details look sharp in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Sé Velha de Coimbra",
+                "hu": "Sé Velha de Coimbra",
+                "ro": "Sé Velha de Coimbra",
+                "en": "Sé Velha de Coimbra"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist im Winter recht kühl, aber trocken; bewundern Sie die Ruhe der Kathedrale abseits der sommerlichen Hitze.",
+                "hu": "A belső tér télen meglehetősen hűvös, de száraz; élvezd a katedrális nyugalmát, amely ilyenkor mentes a nyári turistatömegtől.",
+                "ro": "Interiorul este destul de răcoros iarna, dar uscat; admirați liniștea catedralei, departe de aglomerația și căldura verii.",
+                "en": "The interior is quite cool in winter, so keep your coat on; enjoy the cathedral's peace away from the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de São Miguel",
+                "hu": "Capela de São Miguel",
+                "ro": "Capela de São Miguel",
+                "en": "Capela de São Miguel"
+              },
+              "tip_5lang": {
+                "de": "Die prächtige Barockorgel und die Kacheln wärmen das Herz; nutzen Sie die Zeit vor dem frühen Sonnenuntergang für den Besuch.",
+                "hu": "A pompás barokk orgona és a színes csempék látványa felmelegíti a lelket; látogasd meg még a korai sötétedés beállta előtt.",
+                "ro": "Orga barocă splendidă și plăcile ceramice vă vor încânta; vizitați capela înainte de apusul devreme pentru a vedea culorile bine.",
+                "en": "The magnificent Baroque organ and tiles warm the heart; visit before the early sunset to see the interior in the best light."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden of the University of Coimbra",
+                "hu": "Botanical Garden of the University of Coimbra",
+                "ro": "Botanical Garden of the University of Coimbra",
+                "en": "Botanical Garden of the University of Coimbra"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den wintergrünen Garten bei einem zügigen Spaziergang; die Kamelien blühen oft schon im späten Winter.",
+                "hu": "Élvezd az örökzöld kertet egy frissítő sétával; a kaméliák gyakran már a tél végén virágba borulnak a park területén.",
+                "ro": "Bucurați-vă de grădina mereu verde în timpul unei plimbări vioaie; cameliile înfloresc adesea încă de la sfârșitul iernii.",
+                "en": "Enjoy the evergreen garden during a brisk walk; look out for the camellias which often bloom late in the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduto de São Sebastião",
+                "hu": "Aqueduto de São Sebastião",
+                "ro": "Aqueduto de São Sebastião",
+                "en": "Aqueduto de São Sebastião"
+              },
+              "tip_5lang": {
+                "de": "Das Aquädukt bildet eine markante Silhouette gegen den klaren Winterhimmel; ideal für Fotos in der frühen blauen Stunde.",
+                "hu": "A vízvezeték markáns sziluettet alkot a tiszta téli égbolton; ideális helyszín fotózáshoz a korai kék óra idején.",
+                "ro": "Apeductul formează o siluetă marcantă pe cerul senin de iarnă; este ideal pentru fotografii în ora albastră care vine devreme.",
+                "en": "The aqueduct forms a striking silhouette against the clear winter sky; perfect for photos during the early blue hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de Santa Cruz",
+                "hu": "Parque de Santa Cruz",
+                "ro": "Parque de Santa Cruz",
+                "en": "Parque de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für einen Winterspaziergang; achten Sie auf den frühen Sonnenuntergang, um den Park sicher vor der Dunkelheit zu verlassen.",
+                "hu": "Csendes hely egy téli sétához; ügyelj a korai naplementére, hogy még világosban befejezhesd a park felfedezését.",
+                "ro": "Un loc liniștit pentru o plimbare de iarnă; atenție la apusul devreme pentru a termina vizita în parc înainte de lăsarea întunericului.",
+                "en": "A peaceful spot for a winter stroll; be mindful of the early sunset so you can enjoy the park fully before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,195 @@
         "hu": "Indítsa a reggelt egy frissítő tekeréssel a Mondego folyó felett átívelő színes gyalogos hídon. Délben fedezze fel a botanikus kert zöld oázisát és a romantikus Penedo da Saudade kilátót. Délután guruljon el a történelmi vízvezetékek mellett egyenesen az óvárosba. Az estét a folyóparti Santa Clara kolostor lenyűgöző romjainál fejezheti be.",
         "ro": "Începeți dimineața cu o briză proaspătă pe podul pietonal colorat peste râul Mondego. La prânz, pedalați spre oaza verde a grădinii botanice și punctul de belvedere Penedo da Saudade. După-amiaza, treceți pe lângă apeductul istoric direct în centrul vechi. Seara se încheie liniștit la ruinele impresionante ale mănăstirii Santa Clara.",
         "en": "Kick off your morning with a fresh breeze on the colorful pedestrian bridge over the Mondego. By midday, cycle up to the botanical garden's green oasis and the poetic Penedo da Saudade viewpoint. In the afternoon, cruise past the historic aqueduct into the old town. Wind down your evening exploring the impressive riverside ruins of Santa Clara."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den rutschigen Brücken über den Mondego. Vormittags nutzen Sie die flachen Wege am Flussufer. Mittags bietet die Universität oben auf dem Hügel feste Unterstände. Nachmittags erkunden Sie die Klöster auf der anderen Flussseite. Abends ist die Sicht oft eingeschränkt, daher ist gute Beleuchtung am Fahrrad unerlässlich.",
+            "hu": "Az esős biciklizés óvatosságot igényel, különösen a Mondego feletti csúszós hidakon. Délelőtt a folyóparti sík utakat részesítsük előnyben. Délben az egyetemi negyed fedett árkádjai alatt pihenhetünk meg. Délután látogassuk meg a folyó túloldalán lévő kolostorokat. Este a látási viszonyok korlátozottak, így a jó világítás elengedhetetlen a biztonsághoz.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe podurile alunecoase peste Mondego. Dimineața, folosiți pistele plate de pe malul râului. La prânz, universitatea de pe deal oferă adăposturi solide. După-amiaza, explorați mănăstirile de pe cealaltă parte a râului. Seara, vizibilitatea este redusă, deci iluminarea bună a bicicletei este esențială.",
+            "en": "Cycling in the rain requires caution, especially on the slippery bridges over the Mondego. In the morning, stick to the flat paths along the riverbank. At noon, the university area uphill offers some solid shelters. In the afternoon, explore the monasteries on the other side of the river. By evening, visibility is low, so good bike lights are absolutely essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte Pedonal Pedro e Inês",
+                "hu": "Ponte Pedonal Pedro e Inês",
+                "ro": "Ponte Pedonal Pedro e Inês",
+                "en": "Ponte Pedonal Pedro e Inês"
+              },
+              "tip_5lang": {
+                "de": "Der Boden der Brücke kann bei Nässe sehr rutschig sein; fahren Sie langsam und genießen Sie den Blick auf den grauen Fluss.",
+                "hu": "A híd borítása esőben nagyon csúszóssá válhat; tekerj lassan, és élvezd a folyóra nyíló párás, szürke kilátást.",
+                "ro": "Podeaua podului poate fi foarte alunecoasă când este udă; conduceți încet și bucurați-vă de vederea spre râul cenușiu.",
+                "en": "The bridge floor can be very slippery when wet; cycle slowly and take in the atmospheric view of the misty river Mondego."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden of the University of Coimbra",
+                "hu": "Botanical Garden of the University of Coimbra",
+                "ro": "Botanical Garden of the University of Coimbra"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Bäumen ab; der dichte Bambuswald bietet einen fast trockenen Weg für einen kurzen Spaziergang.",
+                "hu": "Parkolj le a fák alatt; a sűrű bambuszliget szinte teljesen száraz utat biztosít egy rövid sétához az eső közepette is.",
+                "ro": "Parcați bicicleta sub copaci; pădurea de bambus oferă o potecă aproape uscată pentru o scurtă plimbare pe timp de ploaie.",
+                "en": "Park your bike under the trees; the thick bamboo grove provides an almost dry path for a quick walk during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Penedo da Saudade",
+                "hu": "Penedo da Saudade",
+                "ro": "Penedo da Saudade",
+                "en": "Penedo da Saudade"
+              },
+              "tip_5lang": {
+                "de": "Die Steine sind bei Regen glatt, seien Sie vorsichtig beim Absteigen; die Aussicht auf die Stadt im Nebel ist sehr romantisch.",
+                "hu": "A kövek esőben sikamlósak, légy óvatos a leszálláskor; a ködbe burkolózó város látványa innen rendkívül romantikus.",
+                "ro": "Pietrele sunt lucioase de la ploaie, fiți atenți la coborârea de pe bicicletă; vederea orașului în ceață este foarte romantică.",
+                "en": "The stones are slick in the rain, so be careful when dismounting; the view of the city shrouded in mist is very romantic."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduto de São Sebastião",
+                "hu": "Aqueduto de São Sebastião",
+                "ro": "Aqueduto de São Sebastião",
+                "en": "Aqueduto de São Sebastião"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bögen als schnellen Regenschutz; die asphaltierten Straßen in diesem Bereich sind sicher für Radfahrer.",
+                "hu": "Használd az íveket gyors menedékként az eső ellen; a környék aszfaltozott útjai esőben is biztonságosak a kerékpárosoknak.",
+                "ro": "Folosiți arcadele ca un adăpost rapid împotriva ploii; străzile asfaltate din această zonă sunt sigure pentru bicicliști.",
+                "en": "Use the arches as a quick shelter from the rain; the paved roads in this area remain safe for cyclists even in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santa Cruz",
+                "hu": "Igreja de Santa Cruz",
+                "ro": "Igreja de Santa Cruz",
+                "en": "Igreja de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Sperren Sie Ihr Rad sicher draußen ab und wärmen Sie sich im Inneren auf; die Kirche ist ein idealer Stopp für eine längere Pause.",
+                "hu": "Zárd le a biciklit biztonságosan, és melegedj fel odabent; a templom tágas belső tere ideális egy hosszabb pihenőre.",
+                "ro": "Încuiați bicicleta în siguranță afară și încălziți-vă în interior; biserica este un punct de oprire ideal pentru o pauză lungă.",
+                "en": "Lock your bike securely outside and warm up inside; the church is an ideal stop for a longer break during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosteiro de Santa Clara-a-Velha",
+                "hu": "Mosteiro de Santa Clara-a-Velha",
+                "ro": "Mosteiro de Santa Clara-a-Velha",
+                "en": "Mosteiro de Santa Clara-a-Velha"
+              },
+              "tip_5lang": {
+                "de": "Das Besucherzentrum bietet Schutz und interessante Ausstellungen; der Weg dorthin am Flussufer kann Pfützen bilden.",
+                "hu": "A látogatóközpont kiváló menedéket és érdekes kiállításokat kínál; a folyóparti kerékpárút néhol pocsolyás lehet.",
+                "ro": "Centrul de vizitare oferă adăpost și expoziții interesante; drumul de-a lungul râului poate avea bălți, deci pedalați cu grijă.",
+                "en": "The visitor center offers shelter and interesting exhibits; the riverside path might have puddles, so cycle carefully to the entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die frische Winterluft bei einer Fahrt entlang des Mondego. Vormittags ist es kühl, aber oft sonnig. Mittags radeln Sie bergauf zur Universität, was Sie warm hält. Nachmittags besuchen Sie die Aussichtspunkte, bevor die Kälte bei Sonnenuntergang zunimmt. Abends ist es ratsam, Handschuhe zu tragen, da die Temperaturen in Flussnähe schnell sinken.",
+            "hu": "Élvezd a friss téli levegőt a Mondego menti tekerés közben. Délelőtt hűvös, de gyakran napos az idő. Délben tekerj fel az egyetemi dombra, a kaptató segít melegen tartani a tested. Délután látogasd meg a kilátópontokat a korai naplemente előtt. Estére kesztyű ajánlott, mert a folyó közelében gyorsan hűl a levegő.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă în timpul unei plimbări de-a lungul Mondego. Dimineața este răcoroasă, dar adesea însorită. La prânz, urcați cu bicicleta spre universitate pentru a vă menține calzi. După-amiaza, vizitați punctele de belvedere înainte ca frigul să se intensifice la apus. Seara, purtați mănuși, deoarece temperaturile scad rapid.",
+            "en": "Enjoy the fresh winter air during a ride along the Mondego river. Mornings are crisp but often sunny. At noon, cycle uphill to the university area to keep your body warm. In the afternoon, visit the viewpoints before the cold sets in at sunset. By evening, gloves are highly recommended as temperatures drop quickly near the river."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte Pedonal Pedro e Inês",
+                "hu": "Ponte Pedonal Pedro e Inês",
+                "ro": "Ponte Pedonal Pedro e Inês",
+                "en": "Ponte Pedonal Pedro e Inês"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann im Winter sehr eisig sein; ziehen Sie sich winddicht an für diesen Panoramablick.",
+                "hu": "A hídon átfújó szél télen metsző lehet; öltözz szélálló ruhába, hogy zavartalanul élvezhesd a panorámát.",
+                "ro": "Vântul pe pod poate fi foarte tăios iarna; purtați haine rezistente la vânt pentru a admira panorama în confort.",
+                "en": "The wind on the bridge can be very biting in winter; wear windproof clothing to enjoy the panoramic river views comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden of the University of Coimbra",
+                "hu": "Botanical Garden of the University of Coimbra",
+                "ro": "Botanical Garden of the University of Coimbra",
+                "en": "Botanical Garden of the University of Coimbra"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Wege sind im Winter kühler; halten Sie sich in den sonnigen Terrassen auf, um die milde Wintersonne zu genießen.",
+                "hu": "Az árnyékos ösvények télen hűvösebbek; tölts több időt a napos teraszokon, hogy kiélvezd a gyenge téli napsütést.",
+                "ro": "Potecile umbroase sunt mai reci iarna; rămâneți pe terasele însorite pentru a vă bucura de soarele blând al iernii.",
+                "en": "The shaded paths are cooler in winter; spend more time on the sunny terraces to enjoy the mild winter sunshine while visiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Penedo da Saudade",
+                "hu": "Penedo da Saudade",
+                "ro": "Penedo da Saudade",
+                "en": "Penedo da Saudade"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für den frühen Winter-Sonnenuntergang; die Steinstufen können morgens durch Reif glatt sein.",
+                "hu": "Tökéletes helyszín a korai téli naplemente megtekintéséhez; vigyázz, mert a kőlépcsők reggelente deresek és csúszósak lehetnek.",
+                "ro": "Un loc perfect pentru apusul devreme de iarnă; atenție la treptele de piatră care pot fi alunecoase din cauza brumei matinale.",
+                "en": "A perfect spot for the early winter sunset; be careful as the stone steps can be slippery with frost in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqueduto de São Sebastião",
+                "hu": "Aqueduto de São Sebastião",
+                "ro": "Aqueduto de São Sebastião",
+                "en": "Aqueduto de São Sebastião"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die Bögen plastisch wirken; ein schneller Stopp ist ideal, um in Bewegung zu bleiben.",
+                "hu": "A tiszta téli fényben az ívek plasztikusabbnak tűnnek; egy gyors megálló épp elég, hogy ne hűlj ki tekerés közben.",
+                "ro": "Lumina clară de iarnă scoate în evidență arcadele; o oprire scurtă este ideală pentru a rămâne în mișcare și a nu vă fi frig.",
+                "en": "The clear winter light makes the arches look more three-dimensional; a quick stop is ideal to keep moving and stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santa Cruz",
+                "hu": "Igreja de Santa Cruz",
+                "ro": "Igreja de Santa Cruz",
+                "en": "Igreja de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine Pause vom kalten Fahrtwind; die Atmosphäre ist im Winter besonders andächtig.",
+                "hu": "Használd a belső teret pihenőnek a hideg ellenszél után; a templom hangulata télen különösen áhítatos és csendes.",
+                "ro": "Folosiți interiorul pentru o pauză de la vântul rece de pedalare; atmosfera este deosebit de solemnă în timpul iernii.",
+                "en": "Use the interior for a break from the cold headwind; the church's atmosphere is particularly solemn and quiet in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosteiro de Santa Clara-a-Velha",
+                "hu": "Mosteiro de Santa Clara-a-Velha",
+                "ro": "Mosteiro de Santa Clara-a-Velha",
+                "en": "Mosteiro de Santa Clara-a-Velha"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Museum ist im Winter gut beheizt; genießen Sie den Blick auf die Ruinen durch die großen Glasfronten.",
+                "hu": "A modern múzeum télen jól fűtött; élvezd a romokra nyíló kilátást a hatalmas üvegfalakon keresztül a melegből.",
+                "ro": "Muzeul modern este bine încălzit iarna; bucurați-vă de vederea ruinelor prin marile ferestre de sticlă, stând la căldură.",
+                "en": "The modern museum is well-heated in winter; enjoy the view of the ruins through the large glass windows from the warmth."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +875,168 @@
         "hu": "A reggel nyugodtan indul a kiterjedt Choupal park erdős ösvényein. Délben keljen át a folyón, hogy megtekintse Santa Clara történelmi romjait és az impozáns régi katedrálist. Délután autózzon fel a békés és magasabban fekvő Santo António templomhoz. Este csodálja meg a kivilágított város panorámáját a Penedo da Saudade kilátópontról.",
         "ro": "Dimineața începe liniștit cu o plimbare prin pădurea vastului parc Choupal. La prânz, traversați râul pentru a vizita ruinele istorice ale mănăstirii Santa Clara și vechea catedrală impunătoare. După-amiaza, conduceți spre biserica pașnică Santo António, situată pe colină. Seara, admirați luminile orașului de la punctul de belvedere Penedo da Saudade.",
         "en": "Your morning starts peacefully with a forest walk in the expansive Choupal park. Midday, drive across the river to visit the historic Santa Clara ruins and the imposing old cathedral. In the afternoon, navigate up to the peaceful and elevated Santo António church. Enjoy the evening by taking in the illuminated city views from Penedo da Saudade."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Coimbra bei Regen ganz entspannt. Beginnen Sie im Choupal-Wald, wo das dichte Blätterdach Schutz bietet. Mittags fahren Sie bequem zu den Klöstern auf der anderen Flussseite. Nachmittags ist die Parksituation nahe der Altstadt eine Herausforderung, nutzen Sie Parkhäuser. Abends genießen Sie die beleuchtete Stadt sicher und trocken von den Aussichtspunkten aus.",
+            "hu": "Autóval kényelmesen felfedezheted Coimbrát esőben is. Kezdd a Choupal-erdőben, ahol a sűrű lombok felfogják az esőcseppeket. Délben gurulj át a folyó túloldalán lévő kolostorokhoz. Délután a belvárosi parkolás nehézkes lehet, válassz fedett parkolóházat. Este a kocsiból is megcsodálhatod a kivilágított várost a magasabb kilátópontokról.",
+            "ro": "Cu mașina, puteți explora Coimbra pe ploaie în mod relaxat. Începeți în pădurea Choupal, unde coronamentul des oferă protecție. La prânz, conduceți confortabil spre mănăstirile de pe cealaltă parte a râului. După-amiaza, parcarea lângă orașul vechi este o provocare, folosiți parcările supraetajate. Seara, admirați orașul iluminat de la punctele de belvedere.",
+            "en": "By car, you can explore Coimbra comfortably even in heavy rain. Start in the Choupal forest, where the dense canopy provides natural shelter. At noon, drive easily to the monasteries on the other side of the river. In the afternoon, parking near the old town can be tricky, so use covered parking lots. By evening, enjoy the city lights from the viewpoints, staying warm and dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mata Nacional do Choupal",
+                "hu": "Mata Nacional do Choupal",
+                "ro": "Mata Nacional do Choupal",
+                "en": "Mata Nacional do Choupal"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Hauptwegen, um Schlamm zu vermeiden; das Blätterdach der Pappeln dient als natürlicher Regenschirm.",
+                "hu": "Maradj a kövezett főutakon a sár elkerülése érdekében; a jegenyefák sűrű lombkoronája természetes esernyőként véd a záporoktól.",
+                "ro": "Rămâneți pe drumurile principale pavate pentru a evita noroiul; coronamentul plopilor servește ca umbrelă naturală în timpul ploii.",
+                "en": "Stay on the main paved paths to avoid mud; the dense canopy of the poplar trees serves as a natural umbrella during light rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosteiro de Santa Clara-a-Velha",
+                "hu": "Mosteiro de Santa Clara-a-Velha",
+                "ro": "Mosteiro de Santa Clara-a-Velha",
+                "en": "Mosteiro de Santa Clara-a-Velha"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Besucherzentrum, um den Weg im Regen kurz zu halten; das Museum bietet eine trockene, spannende Alternative.",
+                "hu": "Parkolj közvetlenül a látogatóközpontnál, hogy lerövidítsd az esőben megtett utat; a múzeum száraz és izgalmas programot kínál.",
+                "ro": "Parcați direct la centrul de vizitare pentru a minimiza mersul prin ploaie; muzeul oferă o alternativă uscată și captivantă.",
+                "en": "Park directly at the visitor center to keep your walk in the rain short; the museum offers a fascinating and dry indoor alternative."
+              }
+            },
+            {
+              "name": {
+                "de": "Sé Velha de Coimbra",
+                "hu": "Sé Velha de Coimbra",
+                "ro": "Sé Velha de Coimbra",
+                "en": "Sé Velha de Coimbra"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie ein Parkhaus in der Nähe, da die Gassen sehr eng und bei Nässe rutschig sind; die Kirche ist ein sicherer Hafen vor dem Sturm.",
+                "hu": "Keress egy közeli parkolóházat, mert a szűk utcák vizesen csúszósak; a katedrális belső tere biztonságos menedék a vihar elől.",
+                "ro": "Căutați o parcare acoperită în apropiere, deoarece străzile sunt înguste și alunecoase; biserica este un refugiu sigur în fața furtunii.",
+                "en": "Look for a nearby parking garage as the streets are narrow and slick; the church is a perfect safe haven during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santo António dos Olivais",
+                "hu": "Igreja de Santo António dos Olivais",
+                "ro": "Igreja de Santo António dos Olivais",
+                "en": "Igreja de Santo António dos Olivais"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt hinauf zum Hügel; von der Vorhalle der Kirche haben Sie einen dramatischen Blick auf die regenverhangene Stadt.",
+                "hu": "Élvezd az autózást fel a dombra; a templom előcsarnokából drámai kilátás nyílik az esőfelhőkbe burkolózó városra.",
+                "ro": "Bucurați-vă de drumul cu mașina până pe deal; din pridvorul bisericii aveți o vedere dramatică asupra orașului acoperit de ploaie.",
+                "en": "Enjoy the drive up the hill; from the church porch, you have a dramatic and atmospheric view of the rain-shrouded city below."
+              }
+            },
+            {
+              "name": {
+                "de": "Penedo da Saudade",
+                "hu": "Penedo da Saudade",
+                "ro": "Penedo da Saudade",
+                "en": "Penedo da Saudade"
+              },
+              "tip_5lang": {
+                "de": "Sie können oft direkt am Aussichtspunkt parken und die Aussicht aus dem warmen Auto genießen, wenn der Regen zu stark wird.",
+                "hu": "Gyakran közvetlenül a kilátópontnál is találhatsz parkolót, így a kocsi melegéből is gyönyörködhetsz a látványban, ha túl erősen esik.",
+                "ro": "De multe ori puteți parca chiar lângă punctul de belvedere și puteți admira vederea din mașina caldă dacă plouă prea tare.",
+                "en": "You can often park right next to the viewpoint and enjoy the scenery from the warmth of your car if the rain becomes too heavy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Coimbra lässt sich am besten mit dem Auto bewältigen, um schnell zwischen den Sehenswürdigkeiten zu wechseln. Vormittags besuchen Sie den Choupal-Wald für einen frischen Spaziergang. Mittags bietet die Heizung im Auto wohlige Wärme auf dem Weg zur Oberstadt. Nachmittags nutzen Sie das letzte Tageslicht an der Sé Velha. Abends erkunden Sie die beleuchteten Straßen bequem bei der Fahrt durch die Stadt.",
+            "hu": "A téli Coimbra leginkább autóval fedezhető fel kényelmesen, gyors váltást biztosítva a helyszínek között. Délelőtt látogass el a Choupal-erdőbe egy frissítő sétára. Délben az autó fűtése segít átmelegedni a felsőváros felé vezető úton. Délután használd ki az utolsó fényeket a Sé Velhánál. Este a kivilágított utcákon való kocsikázás hangulatos zárása lehet a napnak.",
+            "ro": "Iarna în Coimbra este cel mai bine parcursă cu mașina pentru a schimba rapid locațiile. Dimineața, vizitați pădurea Choupal pentru o plimbare revigorantă. La prânz, încălzirea din mașină vă va oferi confort pe drumul spre orașul de sus. După-amiaza, profitați de ultima lumină la Sé Velha. Seara, explorați străzile iluminate în confortul mașinii.",
+            "en": "Winter in Coimbra is best handled by car to quickly move between sights and stay warm. In the morning, visit Choupal forest for a crisp walk. At noon, the car's heater provides comfort on your way to the upper town. In the afternoon, catch the last rays of sunlight at Sé Velha. By evening, a drive through the illuminated streets is a cozy way to end your winter tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mata Nacional do Choupal",
+                "hu": "Mata Nacional do Choupal",
+                "ro": "Mata Nacional do Choupal",
+                "en": "Mata Nacional do Choupal"
+              },
+              "tip_5lang": {
+                "de": "Die Luft im Wald ist im Winter sehr belebend; nutzen Sie den Parkplatz am Eingang für einen kurzen, knackigen Rundgang.",
+                "hu": "Az erdei levegő télen rendkívül frissítő; használd a bejárati parkolót egy rövid, de élénkítő sétához a fák között.",
+                "ro": "Aerul din pădure este foarte revigorant iarna; folosiți parcarea de la intrare pentru o plimbare scurtă și plină de energie.",
+                "en": "The forest air is very invigorating in winter; use the parking lot at the entrance for a short, brisk walk among the tall poplars."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosteiro de Santa Clara-a-Velha",
+                "hu": "Mosteiro de Santa Clara-a-Velha",
+                "ro": "Mosteiro de Santa Clara-a-Velha",
+                "en": "Mosteiro de Santa Clara-a-Velha"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum, wenn es draußen zu kalt wird; die modernen Räume sind gut klimatisiert und bieten tolle Ausblicke.",
+                "hu": "Látogasd meg a múzeumot, ha kint túl hidegre fordul az idő; a modern terek jól fűtöttek és kiváló kilátást nyújtanak a romokra.",
+                "ro": "Vizitați muzeul dacă afară devine prea frig; spațiile moderne sunt bine climatizate și oferă vederi superbe asupra ruinelor.",
+                "en": "Visit the museum if it gets too cold outside; the modern interior is well-heated and offers great views of the ruins from inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sé Velha de Coimbra",
+                "hu": "Sé Velha de Coimbra",
+                "ro": "Sé Velha de Coimbra",
+                "en": "Sé Velha de Coimbra"
+              },
+              "tip_5lang": {
+                "de": "Das Parken in der Nähe erspart lange Wege in der Winterkälte; die Kathedrale wirkt im tiefen Sonnenstand besonders majestätisch.",
+                "hu": "A közeli parkolás megkímél a téli hidegben való hosszú gyaloglástól; a katedrális a délutáni alacsony napállásban különösen fenséges.",
+                "ro": "Parcarea în apropiere vă scutește de mersul lung prin frigul iernii; catedrala pare deosebit de maiestuoasă în lumina joasă a după-amiezii.",
+                "en": "Parking nearby saves you from long walks in the winter chill; the cathedral looks especially majestic in the low afternoon sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santo António dos Olivais",
+                "hu": "Igreja de Santo António dos Olivais",
+                "ro": "Igreja de Santo António dos Olivais",
+                "en": "Igreja de Santo António dos Olivais"
+              },
+              "tip_5lang": {
+                "de": "Der Hügel bietet im Winter oft eine klare Fernsicht; parken Sie direkt vor der Kirche für einen kurzen Besuch ohne Auskühlen.",
+                "hu": "A dombról télen gyakran tiszta messze látni; parkolj közvetlenül a templom előtt egy rövid látogatáshoz, hogy ne hűlj ki.",
+                "ro": "Dealul oferă adesea o vizibilitate clară la distanță iarna; parcați chiar în fața bisericii pentru o vizită scurtă fără a vă răci.",
+                "en": "The hill often offers clear, long-distance views in winter; park right in front of the church for a short visit without getting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Penedo da Saudade",
+                "hu": "Penedo da Saudade",
+                "ro": "Penedo da Saudade",
+                "en": "Penedo da Saudade"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17:00 Uhr, um den Sonnenuntergang zu sehen; die kalte Abendluft macht die Lichter der Stadt klarer.",
+                "hu": "Érkezz meg jóval 17:00 előtt, hogy lásd a naplementét; a hideg esti levegőben a város fényei még élesebben ragyognak.",
+                "ro": "Veniți înainte de ora 17:00 pentru a prinde apusul; aerul rece de seară face ca luminile orașului să pară mult mai clare.",
+                "en": "Arrive well before 17:00 to catch the winter sunset; the crisp evening air makes the city lights appear much sharper and clearer."
+              }
+            }
+          ]
+        }
       }
     }
   }

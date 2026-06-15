@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a helyi kreativitás felfedezésével az Andamán Művészeti Múzeumban, amely inspiráló bevezetés Krabi vibráló kulturális életébe.\n\nSétáljon el a furcsa közlekedési lámpák mellett, ahol a Smilodon és a Cro-magnoni szobrok egyedi, játékos bájt kölcsönöznek a nyüzsgő központnak.\n\nFedezze fel a nyüzsgő Krabi Sétálóutcát, ahol helyi kézműves termékeket böngészhet, és elmerülhet a késő délutáni élénk atmoszférában.\n\nZárja sétáját a fenséges Városi Oszlop Szentélynél, amely békés és elegáns hely a nap eseményeinek átgondolására naplemente idején.",
         "ro": "Începeți ziua explorând creativitatea locală la Muzeul de Artă Andaman, o introducere inspiratoare în scena culturală vibrantă a orașului Krabi.\n\nPlimbați-vă pe lângă intersecțiile cu statuile Smilodon și Cro-Magnon, care adaugă un farmec unic, jucăuș, centrului plin de viață al orașului.\n\nExplorați Strada Pietonală din Krabi, unde puteți admira meșteșugurile locale și vă puteți bucura de atmosfera plină de viață a după-amiezii.\n\nÎncheiați plimbarea la maiestuosul Altar al Stâlpului Orașului, un loc elegant și liniștit pentru a reflecta asupra zilei în timp ce soarele apune.",
         "en": "Start your day with a deep dive into local creativity at the Andaman Art Museum, an inspiring introduction to Krabi's vibrant cultural scene.\n\nStroll past the quirky traffic intersections featuring Smilodon and Cro-magnon statues, which add a unique, playful charm to the bustling city center.\n\nExplore the bustling Krabi Walking Street, where you can browse local handicrafts and soak in the lively atmosphere of the late afternoon.\n\nConclude your walk at the majestic City Pillar Shrine, an elegant and peaceful spot to reflect on the day as the sun sets over the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Museum, einem perfekten, trockenen Zufluchtsort vor dem starken Regen.\n\nMittags spazieren Sie vorsichtig auf den rutschigen Wegen zu den berühmten Kreuzungen.\n\nNachmittags auf dem Markt brauchen Sie unbedingt einen Regenschirm wegen der vielen Pfützen.\n\nAbends finden Sie schließlich Schutz unter dem schützenden Dach des ruhigen Schreins.",
+            "hu": "Reggel a múzeumban kezdesz, ami tökéletes, száraz menedék a heves trópusi zivatar elől.\n\nDélben óvatosan sétálj az esős, csúszós utakon a híres szobrokat ábrázoló kereszteződésekhez.\n\nDélután a sétálóutcán feltétlenül használj esernyőt a hatalmas tócsák miatt.\n\nEste a kivilágított szentély tetőzete alatt találhatsz nyugodt és esőtől védett menedéket.",
+            "ro": "Dimineața începe la muzeu, un refugiu uscat perfect împotriva ploilor torențiale.\n\nLa prânz plimbați-vă cu grijă pe drumurile alunecoase către intersecțiile celebre.\n\nDupă-amiaza pe strada pietonală veți avea nevoie de umbrelă din cauza bălților mari.\n\nSeara găsiți un adăpost liniștit sub acoperișul protector al altarului orașului.",
+            "en": "Morning starts at the museum, offering a perfect dry refuge from the heavy downpours.\n\nMidday involves a careful wet walk on slippery pavements past the iconic intersections.\n\nAfternoon shopping at the walking street requires a sturdy umbrella to navigate the puddles.\n\nEvening ends as you seek shelter under the ornate, protective roof of the city shrine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Andaman Kunstmuseum",
+                "hu": "Andamán Művészeti Múzeum",
+                "ro": "Muzeul de Artă Andaman",
+                "en": "Andaman Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die zeitgenössische Kunst und kulturellen Ausstellungen, da diese überdachte Galerie den perfekten Schutz vor den heftigen Regengüssen bietet.",
+                "hu": "A kortárs művészeti kiállítást teljesen szárazon élvezheted, mivel ez a tágas beltéri galéria tökéletes menedéket nyújt a hirtelen lezúduló esők elől.",
+                "ro": "Bucurați-vă de arta contemporană în întregime la uscat, deoarece această galerie interioară spațioasă oferă un refugiu perfect împotriva ploilor abundente.",
+                "en": "Enjoy the contemporary art and cultural exhibits without getting wet, as this indoor gallery provides the perfect, dry refuge from heavy morning downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Smilodon-Kreuzung",
+                "hu": "Smilodon Kereszteződés",
+                "ro": "Intersecția Smilodon",
+                "en": "Smilodon Intersection"
+              },
+              "tip_5lang": {
+                "de": "Die Säbelzahntiger-Statue ist bei Nässe extrem rutschig, also machen Sie schnell ein Foto unter Ihrem Regenschirm und gehen Sie dann vorsichtig weiter.",
+                "hu": "A kardfogú tigris szobra nedvesen rendkívül csúszós lehet, ezért esernyő alól készíts egy gyors fotót, majd nagyon óvatosan folytasd a városi sétát.",
+                "ro": "Statuia tigrului cu dinți de sabie este foarte alunecoasă la umezeală, așa că faceți o fotografie rapidă sub umbrelă și mergeți mai departe cu mare grijă.",
+                "en": "The saber-toothed tiger statue area gets extremely slippery when wet, so snap a quick photo from under your umbrella and proceed with careful steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Cro-Magnon-Mensch-Kreuzung",
+                "hu": "Cro-magnoni Ember Kereszteződés",
+                "ro": "Intersecția Omului de Cro-Magnon",
+                "en": "Cro-magnon Man Intersection"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Pfützen rund um die Ampeln; die Höhlenmenschen-Figuren sehen im strömenden Regen besonders dramatisch und beeindruckend aus.",
+                "hu": "Figyelj a mély tócsákra a közlekedési lámpák körül; az ősembereket ábrázoló figurák a zuhogó esőben különösen drámainak és lenyűgözőnek tűnnek.",
+                "ro": "Feriți-vă de bălțile adânci din jurul semafoarelor; figurinele oamenilor cavernelor arată deosebit de dramatic și impresionant în ploaia torențială.",
+                "en": "Watch out for deep puddles around the traffic lights; the prehistoric caveman figures actually look quite dramatic and fierce in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Krabi Fußgängerzone",
+                "hu": "Krabi Sétálóutca",
+                "ro": "Strada Pietonală Krabi",
+                "en": "Krabi Walking Street"
+              },
+              "tip_5lang": {
+                "de": "Viele Verkäufer spannen Planen auf, aber bringen Sie unbedingt wasserdichte Schuhe mit, um bequem durch die nassen Marktstände navigieren zu können.",
+                "hu": "Sok árus ponyvákat feszít ki a standok fölé, de mindenképpen hozz magaddal vízálló cipőt, hogy kényelmesen sétálhass a vizes piaci asztalok között.",
+                "ro": "Mulți vânzători folosesc prelate pentru acoperiș, dar aduceți neapărat încălțăminte impermeabilă pentru a naviga confortabil printre tarabele ude ale pieței.",
+                "en": "While vendors use tarps to cover their stalls, bring waterproof shoes to navigate the wet street market comfortably without soaking your feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Schrein der Stadtsäule",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Altarul Stâlpului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem verzierten Dach des Schreins und beobachten Sie die friedliche und spirituelle Atmosphäre inmitten des fallenden Regens.",
+                "hu": "Keress biztos menedéket a szentély díszes tetőzete alatt, és figyeld meg a hely békés, spirituális atmoszféráját a folyamatosan hulló esőben.",
+                "ro": "Căutați un adăpost sigur sub acoperișul ornamentat al altarului și observați atmosfera pașnică și spirituală a locului în mijlocul ploii căzătoare.",
+                "en": "Seek reliable shelter under the shrine's ornate roof and quietly observe the serene, spiritual atmosphere of the temple amidst the falling rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frische Morgen beginnt mit einem Besuch im Museum; ziehen Sie eine warme Jacke an.\n\nMittags weht ein kühler Wind an den offenen prähistorischen Kreuzungen.\n\nNachmittags bummeln Sie durch die belebte Fußgängerzone vor dem frühen Sonnenuntergang um 17:00 Uhr.\n\nAbends leuchtet der Schrein wunderschön in der frühen, kühlen Dunkelheit des Winters.",
+            "hu": "A csípős reggel a múzeumlátogatással indul; mindenképpen vegyél fel egy meleg réteget.\n\nDélben élénk, hűvös szél fúj a nyitott, őskori szobrokat ábrázoló kereszteződéseknél.\n\nDélután a sétálóutcán nézelődsz a korai, 17:00 óra körüli naplemente előtti fényekben.\n\nEste a szentély gyönyörűen kivilágítva ragyog a korán beálló, hűvös téli sötétségben.",
+            "ro": "Dimineața rece începe cu o vizită la muzeu; asigurați-vă că purtați o jachetă caldă.\n\nLa prânz suflă un vânt rece la intersecțiile deschise cu statuile preistorice emblematice.\n\nDupă-amiaza vă plimbați pe strada pietonală înainte de apusul devreme, în jur de ora 17:00.\n\nSeara, altarul strălucește frumos în întunericul timpuriu și răcoros al iernii.",
+            "en": "A crisp morning starts with a trip to the museum; be sure to wear a warm jacket.\n\nMidday brings brisk, chilly winds at the open intersections featuring prehistoric statues.\n\nAfternoon strolling down the walking street happens quickly before the early 17:00 sunset.\n\nEvening allows for beautiful reflections at the brightly illuminated shrine in the winter dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Andaman Kunstmuseum",
+                "hu": "Andamán Művészeti Múzeum",
+                "ro": "Muzeul de Artă Andaman",
+                "en": "Andaman Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den hellen Galerien auf, während Sie Kunst bewundern, und packen Sie sich gut ein, bevor Sie dem kalten Winterwind trotzen.",
+                "hu": "Melegedj fel a kivilágított galériákban a művészeti alkotásokat csodálva, de öltözz fel alaposan, mielőtt újra kimennél a csípős téli szélbe.",
+                "ro": "Încălziți-vă în galeriile luminate admirând arta și asigurați-vă că vă îmbrăcați bine înainte de a înfrunta din nou vântul rece de iarnă de afară.",
+                "en": "Warm up inside the brightly lit galleries while admiring local art, making sure to bundle up before braving the brisk winter winds outside again."
+              }
+            },
+            {
+              "name": {
+                "de": "Smilodon-Kreuzung",
+                "hu": "Smilodon Kereszteződés",
+                "ro": "Intersecția Smilodon",
+                "en": "Smilodon Intersection"
+              },
+              "tip_5lang": {
+                "de": "Der bronzene Tiger wirkt im sanften Winterlicht imposant; tragen Sie an dieser offenen und windigen Straßenkreuzung am besten einen Windbreaker.",
+                "hu": "A bronz tigris lenyűgözően fest a lágy téli fényekben; ezen a nyitott és szeles útkereszteződésben mindenképpen ajánlott egy jó széldzseki viselése.",
+                "ro": "Tigrul de bronz arată impresionant în lumina blândă de iarnă; asigurați-vă că purtați o jachetă de vânt la această intersecție deschisă și vântoasă.",
+                "en": "The bronze tiger looks incredibly imposing in the soft winter light; definitely wear a solid windbreaker at this open and breezy street junction."
+              }
+            },
+            {
+              "name": {
+                "de": "Cro-Magnon-Mensch-Kreuzung",
+                "hu": "Cro-magnoni Ember Kereszteződés",
+                "ro": "Intersecția Omului de Cro-Magnon",
+                "en": "Cro-magnon Man Intersection"
+              },
+              "tip_5lang": {
+                "de": "Eine zugige Ecke zum Überqueren; fotografieren Sie die Höhlenmenschen schnell im klaren Licht, bevor die frühe Winterdämmerung einsetzt.",
+                "hu": "Ez egy meglehetősen huzatos sarok; fotózd le gyorsan az ősembereket a tiszta fényben, mielőtt a korai téli szürkület hirtelen leszállna a városra.",
+                "ro": "Un colț destul de răcoros pentru a traversa; fotografiați rapid oamenii cavernelor în lumina clară înainte de a se lăsa amurgul timpuriu de iarnă.",
+                "en": "A brisk and drafty corner to cross; photograph the cavemen quickly in the clear light before the early winter twilight completely sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Krabi Fußgängerzone",
+                "hu": "Krabi Sétálóutca",
+                "ro": "Strada Pietonală Krabi",
+                "en": "Krabi Walking Street"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Markt, der für den Winterabend früh beleuchtet wird; kaufen Sie ein heißes lokales Getränk, um Ihre kalten Hände zu wärmen.",
+                "hu": "Élvezd a téli estére korán kivilágított nyüzsgő piacot; vásárolj egy forró helyi italt, ami gyorsan felmelegíti az átfagyott kezeidet séta közben.",
+                "ro": "Bucurați-vă de piața plină de viață, iluminată devreme pentru seara de iarnă; cumpărați o băutură caldă locală pentru a vă încălzi mâinile reci.",
+                "en": "Enjoy the bustling market as it lights up early for the winter evening; be sure to grab a hot local drink to warm your cold hands as you walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Schrein der Stadtsäule",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Altarul Stâlpului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Schrein leuchtet wunderschön vor dem dunklen Winterhimmel; kleiden Sie sich warm, um diesen ruhigen Ort abends länger genießen zu können.",
+                "hu": "A fehér szentély csodálatosan ragyog a sötét téli égbolt előtt; öltözz melegen, hogy az esti órákban tovább élvezhesd ezt a nyugodt helyet.",
+                "ro": "Altarul alb strălucește frumos pe fundalul cerului întunecat de iarnă; îmbrăcați-vă călduros pentru a vă bucura mai mult timp de acest loc liniștit.",
+                "en": "The white shrine glows beautifully against the dark winter sky; dress warmly with extra layers so you can comfortably enjoy this serene spot at night."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a kerékpártúrát a Khao Khanap Nam Barlang történelem előtti titkainak felfedezésével, majd tekerjen el a buja Mangrove Sétányhoz.\n\nTekerjen be a városközpontba, és hűsöljön az Andamán Művészeti Múzeumban, amely csodálatos hely a helyi kortárs remekművek megtekintésére.\n\nNavigáljon a játékos utcákon a prehisztorikus Smilodon és Cro-magnon lámpák mellett, amelyek a békés Városi Oszlop Szentély felé vezetnek.\n\nParkolja le kerékpárját a Krabi Sétálóutcán egy élénk, finom utcai ételekkel és barátságos helyiekkel teli estéért a csillagos ég alatt.",
         "ro": "Începeți turul cu bicicleta explorând secretele preistorice ale Peșterii Khao Khanap Nam, urmate de o plimbare revigorantă spre Promenada Mangrovelor.\n\nPedalați spre centrul orașului pentru a vă răcori la Muzeul de Artă Andaman, un loc minunat pentru a admira capodoperele contemporane locale.\n\nParcurgeți străzile decorate cu semafoarele preistorice Smilodon și Cro-Magnon, care vă vor conduce spre liniștitul Altar al Stâlpului Orașului.\n\nParcați bicicleta la Strada Pietonală din Krabi pentru o seară vibrantă cu mâncare stradală delicioasă și socializare cu localnicii sub cerul înstelat.",
         "en": "Kick off your cycling tour by exploring the prehistoric secrets of Khao Khanap Nam Cave, followed by a refreshing ride to the lush Mangrove Boardwalk.\n\nCycle into the city center to cool down at the Andaman Art Museum, a wonderful spot to appreciate local contemporary masterpieces.\n\nNavigate the playful streets adorned with the prehistoric Smilodon and Cro-magnon traffic lights, leading you toward the serene City Pillar Shrine.\n\nPark your bike at Krabi Walking Street for a vibrant evening of delicious street food and mingling with friendly locals under the night sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einer vorsichtigen Fahrt zur Höhle und meiden Sie rutschigen Schlamm.\n\nMittags ist der Mangrovensteg üppig, aber extrem nass, trocknen Sie sich danach im Museum ab.\n\nNachmittags erfordert das Radeln vorbei an den Statuen einen guten Regenponcho.\n\nAbends besuchen Sie den Markt geschützt unter den großen Regenplanen der Händler.",
+            "hu": "Kezdj egy nagyon óvatos tekeréssel a barlanghoz, elkerülve a csúszós sarat.\n\nDélben a mangrove sétány buja, de extrém nedves, utána a múzeumban tudsz megszáradni.\n\nDélután a szobrok melletti pedálozáshoz elengedhetetlen egy minőségi esőponcsó.\n\nEste a piacot az árusok által kifeszített nagy esővédő ponyvák alatt fedezheted fel.",
+            "ro": "Începeți cu o plimbare atentă spre peșteră, evitând noroiul foarte alunecos.\n\nLa prânz, promenada mangrovelor este luxuriantă, dar udă, uscați-vă apoi la muzeu.\n\nDupă-amiaza, mersul pe bicicletă pe lângă statui necesită un poncho de ploaie bun.\n\nSeara vizitați piața protejați sub prelatele mari de ploaie ale comercianților locali.",
+            "en": "Start with a careful morning ride to the cave, avoiding slippery mud on the trails.\n\nMidday, the mangrove boardwalk is lush but extremely wet, so dry off at the museum next.\n\nAfternoon biking past the historic statues absolutely requires a good quality rain poncho.\n\nEvening allows you to visit the bustling market safely under the vendors' rain covers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Khao Khanap Nam Höhle",
+                "hu": "Khao Khanap Nam Barlang",
+                "ro": "Peștera Khao Khanap Nam",
+                "en": "Khao Khanap Nam Cave"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Ihre Schritte auf den extrem rutschigen Höhlenfelsen; die tropfenden Stalaktiten wirken bei Regenwetter heute besonders dramatisch.",
+                "hu": "Nagyon figyelj a lépéseidre az extrém csúszós barlangi köveken; a folyamatosan csepegő cseppkövek a mai esős időben különösen drámainak hatnak.",
+                "ro": "Feriți-vă pașii pe rocile extrem de alunecoase ale peșterii; stalactitele care picură arată deosebit de dramatic în această vreme ploioasă.",
+                "en": "Watch your step carefully on the slick cave rocks; the constantly dripping stalactites look extra dramatic and mystical in today's rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mangroven-Holzsteg",
+                "hu": "Mangrove Sétány",
+                "ro": "Promenada Mangrovelor",
+                "en": "Mangrove Boardwalk"
+              },
+              "tip_5lang": {
+                "de": "Die Holzwege werden bei Nässe extrem rutschig, schieben Sie Ihr Fahrrad also sehr vorsichtig durch die üppige, regennasse Mangrovenlandschaft.",
+                "hu": "A faösvények nedvesen rendkívül csúszóssá válnak, ezért nagyon óvatosan told a kerékpárodat a buja, esőtől áztatott zöld mangroveerdőn keresztül.",
+                "ro": "Căile din lemn devin extrem de alunecoase când sunt ude, așa că împingeți bicicleta cu mare grijă prin peisajul luxuriant și umed al mangrovelor.",
+                "en": "The wooden paths get extremely slippery when wet, so dismount and walk your bike very carefully through the lush, rain-soaked mangrove forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Andaman Kunstmuseum",
+                "hu": "Andamán Művészeti Múzeum",
+                "ro": "Muzeul de Artă Andaman",
+                "en": "Andaman Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher ab und genießen Sie die Kunstwerke völlig trocken, da diese Galerie den perfekten Schutz vor dem Regen bietet.",
+                "hu": "Parkold le biztonságosan a biciklit, és élvezd a művészeti alkotásokat teljesen szárazon, mivel ez a galéria tökéletes menedéket nyújt az eső elől.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de operele de artă complet la uscat, deoarece această galerie oferă un refugiu perfect împotriva ploii.",
+                "en": "Park your bike safely and enjoy the contemporary art completely dry, as this indoor gallery provides the perfect refuge from the heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Smilodon-Kreuzung",
+                "hu": "Smilodon Kereszteződés",
+                "ro": "Intersecția Smilodon",
+                "en": "Smilodon Intersection"
+              },
+              "tip_5lang": {
+                "de": "Die Straße um die Tigerstatue ist bei Nässe sehr rutschig; bremsen Sie frühzeitig ab und machen Sie Ihr Foto am besten sicher unter einem Regencape.",
+                "hu": "A tigris szobra körüli út nedvesen nagyon csúszós; fékezz időben, és a legjobb, ha a fotódat biztonságban, egy vízálló esőköpeny alól készíted el.",
+                "ro": "Drumul din jurul statuii tigrului este foarte alunecos la umezeală; frânați din timp și faceți fotografia în siguranță de sub o pelerină de ploaie.",
+                "en": "The road around the tiger statue is very slick when wet; brake early and it's best to snap your quick photo safely from under a waterproof rain cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Cro-Magnon-Mensch-Kreuzung",
+                "hu": "Cro-magnoni Ember Kereszteződés",
+                "ro": "Intersecția Omului de Cro-Magnon",
+                "en": "Cro-magnon Man Intersection"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefe Pfützen und spritzendes Wasser von Autos; die Höhlenmenschen-Figuren sehen im strömenden Regen besonders beeindruckend aus.",
+                "hu": "Vigyázz a mély tócsákra és az autók által felvert vízre; az ősembereket ábrázoló figurák a zuhogó esőben különösen lenyűgöző látványt nyújtanak.",
+                "ro": "Atenție la bălțile adânci și la apa stropită de mașini; figurinele oamenilor cavernelor arată deosebit de impresionant în ploaia torențială.",
+                "en": "Watch out for deep puddles and water splashed by passing cars; the prehistoric caveman figures look especially impressive in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schrein der Stadtsäule",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Altarul Stâlpului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr nasses Fahrrad ab und suchen Sie Schutz unter dem verzierten Dach des Schreins, um die spirituelle Atmosphäre im Regen zu genießen.",
+                "hu": "Állítsd le a vizes biciklidet, és keress menedéket a szentély díszes tetőzete alatt, hogy nyugodtan élvezhesd a spirituális atmoszférát az esőben.",
+                "ro": "Parcați bicicleta udă și căutați adăpost sub acoperișul ornamentat al altarului pentru a vă bucura de atmosfera spirituală liniștită în ploaie.",
+                "en": "Park your wet bicycle and seek dry shelter under the shrine's ornate roof to peacefully enjoy the calming spiritual atmosphere in the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Krabi Fußgängerzone",
+                "hu": "Krabi Sétálóutca",
+                "ro": "Strada Pietonală Krabi",
+                "en": "Krabi Walking Street"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad durch den nassen Markt; viele Verkäufer spannen Planen auf, aber wasserdichte Schuhe sind für die großen Pfützen unerlässlich.",
+                "hu": "Told a kerékpárt a vizes piacon; sok árus ponyvát feszít ki, de a vízálló cipő elengedhetetlen a hatalmas tócsák kényelmes kikerüléséhez.",
+                "ro": "Împingeți bicicleta prin piața udă; mulți vânzători întind prelate, dar încălțămintea impermeabilă este esențială pentru bălțile mari formate.",
+                "en": "Walk your bike through the wet market; many vendors put up tarps, but waterproof shoes are absolutely essential to step through the large puddles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenfahrt zur Höhle erfordert unbedingt wärmende Thermoschichten.\n\nMittags hält Sie das Radeln am Steg und der Besuch im Museum angenehm warm.\n\nNachmittags werden die Schatten an den Kreuzungen schnell länger.\n\nErreichen Sie den Abendmarkt am besten genau zum frühen Sonnenuntergang um etwa 17:00 Uhr.",
+            "hu": "A hűvös reggeli tekerés a barlanghoz feltétlenül meleg, termo rétegeket igényel.\n\nDélben a pedálozás a sétányon és a múzeum felfedezése kellemesen felmelegít.\n\nDélután a szobroknál az árnyékok már nagyon gyorsan elkezdenek megnőni.\n\nÉrj a nyüzsgő esti piacra a korai, nagyjából 17:00 órai naplemente idején.",
+            "ro": "Plimbarea răcoroasă de dimineață spre peșteră necesită cu siguranță straturi termice calde.\n\nLa prânz, pedalarea pe promenadă și vizita la muzeu vă mențin o temperatură plăcută.\n\nDupă-amiaza, umbrele de la intersecțiile cu statui se lungesc foarte rapid.\n\nAjungeți la piața de seară exact la apusul devreme, în jur de ora 17:00.",
+            "en": "The chilly morning bike ride to the cave definitely requires warm thermal layers.\n\nMidday pedaling through the boardwalk and exploring the museum keeps you pleasantly warm.\n\nAfternoon shadows at the statue intersections begin to lengthen very quickly.\n\nArrive at the bustling evening market exactly as the sun sets early around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Khao Khanap Nam Höhle",
+                "hu": "Khao Khanap Nam Barlang",
+                "ro": "Peștera Khao Khanap Nam",
+                "en": "Khao Khanap Nam Cave"
+              },
+              "tip_5lang": {
+                "de": "Das Höhleninnere bietet eine konstante Temperatur; bringen Sie eine Stirnlampe mit, da die Schatten an Winternachmittagen sehr früh hereinbrechen.",
+                "hu": "A barlang belseje állandó, kellemes hőmérsékletet biztosít; hozz fejlámpát, mivel a téli délutánokon az árnyékok nagyon korán borítják sötétbe a helyet.",
+                "ro": "Interiorul peșterii oferă o temperatură constantă; aduceți o lanternă frontală deoarece umbrele după-amiezilor de iarnă apar foarte devreme aici.",
+                "en": "The cave interior offers a steady temperature; bring a headlamp for your ride since the lengthening shadows fall very early on winter afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "Mangroven-Holzsteg",
+                "hu": "Mangrove Sétány",
+                "ro": "Promenada Mangrovelor",
+                "en": "Mangrove Boardwalk"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Winterluft am Fluss, aber ziehen Sie einen warmen Pullover an, da die kühle Küstenbrise beim Radfahren deutlich spürbar ist.",
+                "hu": "Élvezd a friss téli levegőt a folyó mentén, de vegyél fel egy meleg pulóvert, mivel a hűvös parti szellő kerékpározás közben kifejezetten csípős lehet.",
+                "ro": "Bucurați-vă de aerul proaspăt de iarnă de lângă râu, dar purtați un pulover cald, deoarece briza răcoroasă a coastei se simte puternic la pedalare.",
+                "en": "Enjoy the crisp winter air along the river, but pack a warm sweater as the cool coastal breeze is quite noticeable and chilly while riding your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Andaman Kunstmuseum",
+                "hu": "Andamán Művészeti Múzeum",
+                "ro": "Muzeul de Artă Andaman",
+                "en": "Andaman Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Halt, um sich nach der kühlen Radtour in den hellen Galerien aufzuwärmen, bevor Sie sich wieder dem frischen Fahrtwind stellen.",
+                "hu": "Használd ki ezt a megállót, hogy a hűvös tekerés után felmelegedj a világos galériákban, mielőtt újra nekivágnál a csípős téli menetszélnek.",
+                "ro": "Folosiți această oprire pentru a vă încălzi în galeriile luminoase după plimbarea rece, înainte de a înfrunta din nou vântul proaspăt de afară.",
+                "en": "Use this stop to warm up inside the brightly lit galleries after your chilly bike ride, making sure you're ready to face the brisk headwinds again."
+              }
+            },
+            {
+              "name": {
+                "de": "Smilodon-Kreuzung",
+                "hu": "Smilodon Kereszteződés",
+                "ro": "Intersecția Smilodon",
+                "en": "Smilodon Intersection"
+              },
+              "tip_5lang": {
+                "de": "Der bronzene Tiger wirkt im tiefen Winterlicht imposant; eine geschlossene Windjacke ist auf dieser offenen, windigen Kreuzung absolut empfehlenswert.",
+                "hu": "A bronz tigris lenyűgöző a lapos téli fényekben; egy jól záródó széldzseki viselése ezen a nyitott, szeles útkereszteződésben kifejezetten ajánlott.",
+                "ro": "Tigrul de bronz este impresionant în lumina joasă de iarnă; o jachetă de vânt închisă este absolut recomandată la această intersecție vântoasă.",
+                "en": "The bronze tiger looks imposing in the low winter light; a fully zipped windbreaker is highly recommended at this open, breezy street junction."
+              }
+            },
+            {
+              "name": {
+                "de": "Cro-Magnon-Mensch-Kreuzung",
+                "hu": "Cro-magnoni Ember Kereszteződés",
+                "ro": "Intersecția Omului de Cro-Magnon",
+                "en": "Cro-magnon Man Intersection"
+              },
+              "tip_5lang": {
+                "de": "Eine zugige Ecke auf Ihrer Route; fotografieren Sie die Höhlenmenschen zügig im klaren Licht, bevor die frühe Winterdämmerung die Sicht verschlechtert.",
+                "hu": "Egy meglehetősen huzatos sarok az útvonalon; fotózd le gyorsan az ősembereket, mielőtt a korai téli szürkület rontaná a kerékpáros látási viszonyokat.",
+                "ro": "Un colț răcoros pe traseu; fotografiați rapid oamenii cavernelor înainte ca amurgul timpuriu de iarnă să scadă vizibilitatea pentru bicicliști.",
+                "en": "A brisk corner on your route; photograph the cavemen quickly in the clear light before the early winter twilight reduces your cycling visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Schrein der Stadtsäule",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Altarul Stâlpului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Schrein leuchtet wunderschön vor dem dunklen Winterhimmel; behalten Sie Ihre Handschuhe an, um diesen ruhigen Ort abends länger zu genießen.",
+                "hu": "A fehér szentély csodálatosan ragyog a sötét téli égbolt előtt; tartsd magadon a kesztyűdet, hogy tovább élvezhesd ezt a nyugodt helyet este.",
+                "ro": "Altarul alb strălucește frumos pe cerul întunecat de iarnă; păstrați mănușile pe mâini pentru a vă bucura mai mult timp de acest loc liniștit.",
+                "en": "The white shrine glows beautifully against the dark winter sky; keep your riding gloves on to comfortably enjoy this serene spot in the cool evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Krabi Fußgängerzone",
+                "hu": "Krabi Sétálóutca",
+                "ro": "Strada Pietonală Krabi",
+                "en": "Krabi Walking Street"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Markt, der für den Winterabend früh beleuchtet wird; kaufen Sie ein heißes Getränk, um Ihre Hände nach der Radtour aufzuwärmen.",
+                "hu": "Élvezd a téli estére korán kivilágított piacot; vásárolj egy forró helyi italt, ami segít gyorsan felmelegíteni a kezeidet a hosszú tekerés után.",
+                "ro": "Bucurați-vă de piața iluminată devreme pentru seara de iarnă; cumpărați o băutură caldă locală pentru a vă încălzi mâinile după plimbarea lungă.",
+                "en": "Enjoy the bustling market as it lights up early for the winter evening; grab a hot local drink to quickly warm your hands after the long bike ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a festői autózást a Krabi Szerencsemalomnál a partmenti kilátásért, majd hajtson a városba a díszes Városi Oszlop Szentélyhez.\n\nVezessen a Krabi Sétálóutcához egy gyors nappali bepillantásért, amelyet egy tartalmas látogatás követ az Andamán Művészeti Múzeumban.\n\nMerészkedjen kissé északra, hogy megtapasztalja a Mangrove Sétány nyugalmát, amely magával ragadó sétát kínál az egyedi trópusi ökoszisztémákban.\n\nFejezze be az útvonalat a Khao Khanap Nam Barlang közelében, ahol az ikonikus karsztcsúcsok drámai sziluettet alkotnak az esti szürkületben.",
         "ro": "Începeți traseul pitoresc la Moara de Vânt din Krabi pentru vedere la coastă, apoi mergeți în oraș pentru a vizita Altarul Stâlpului Orașului.\n\nConduceți o scurtă distanță până la Strada Pietonală din Krabi pentru o privire de zi, urmată de o vizită îmbogățitoare la Muzeul de Artă Andaman.\n\nAventurați-vă ușor spre nord pentru a experimenta liniștea Promenadei Mangrovelor, oferind o plimbare imersivă prin ecosisteme tropicale unice.\n\nTerminați traseul lângă Peștera Khao Khanap Nam, unde vârfurile carstice gemene oferă o siluetă dramatică în amurgul serii.",
         "en": "Start your scenic drive at the Krabi Lucky Windmill for coastal views, then head directly into town to visit the ornate City Pillar Shrine.\n\nDrive a short distance to Krabi Walking Street for a quick daytime glimpse, followed by an enriching visit to the Andaman Art Museum.\n\nVenture slightly north to experience the tranquility of the Mangrove Boardwalk, offering an immersive walk through unique tropical ecosystems.\n\nFinish the route near Khao Khanap Nam Cave, where the iconic twin karst peaks provide a dramatic silhouette against the evening twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens sicher zur Windmühle, da die Küstenstraßen bei Regen oft gefährlich glatt sind.\n\nMittags parken Sie nahe dem Schrein und gehen mit dem Regenschirm zum Markt.\n\nNachmittags bietet das Museum einen komplett trockenen und sicheren Hafen.\n\nBeenden Sie den nassen Tag am Steg und der Höhle bestens ausgerüstet mit guter Regenkleidung.",
+            "hu": "Reggel vezess biztonságosan a malomhoz, mivel a parti utak esőben gyakran veszélyesen csúszósak.\n\nDélben parkolj a szentély közelében, és esernyővel sétálj át a piacra.\n\nDélután a múzeum teljesen száraz és biztonságos menedéket nyújt az autózás szünetében.\n\nFejezd be a vizes napot a sétánynál és a barlangnál megfelelő, minőségi esőruházattal.",
+            "ro": "Conduceți în siguranță dimineața la moară, deoarece drumurile de coastă sunt alunecoase pe ploaie.\n\nLa prânz parcați lângă altar și mergeți cu umbrela la piață.\n\nDupă-amiaza, muzeul oferă un refugiu complet uscat și sigur.\n\nÎncheiați ziua umedă la promenadă și peșteră echipați cu haine de ploaie adecvate.",
+            "en": "Drive safely to the windmill in the morning, as the coastal roads often become slick in the rain.\n\nMidday, park closely near the shrine and walk with a sturdy umbrella to the market.\n\nAfternoon driving breaks at the museum offer a completely dry and safe harbor.\n\nFinish the wet day exploring the boardwalk and cave fully equipped with good rain gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Krabi Glückswindmühle",
+                "hu": "Krabi Szerencsemalom",
+                "ro": "Moara de Vânt din Krabi",
+                "en": "Krabi Lucky Windmill"
+              },
+              "tip_5lang": {
+                "de": "Starker Küstenwind und Regen bedeuten, dass Sie die Aussicht auf die Windmühle am besten aus der gemütlichen Wärme Ihres Autos heraus genießen sollten.",
+                "hu": "Az erős parti szél és az eső miatt a szerencsemalom nyújtotta kilátást a legjobb az autód kényelmes, száraz melegéből megcsodálni és lefotózni.",
+                "ro": "Vântul puternic de coastă și ploaia înseamnă că ar trebui să vă bucurați de vederea morii de vânt cel mai bine din căldura confortabilă a mașinii.",
+                "en": "Strong coastal winds and heavy rain mean you should probably enjoy the scenic windmill view mostly from the comfortable, dry warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Schrein der Stadtsäule",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Altarul Stâlpului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto so nah wie möglich und suchen Sie schnell Schutz unter dem verzierten Dach des Schreins, um den Regen im Trockenen abzuwarten.",
+                "hu": "Parkold le az autót a lehető legközelebb, és keress gyorsan menedéket a szentély díszes tetőzete alatt, hogy szárazon vészeld át a heves záport.",
+                "ro": "Parcați mașina cât mai aproape posibil și căutați rapid adăpost sub acoperișul ornamentat al altarului pentru a aștepta trecerea ploii la uscat.",
+                "en": "Park your car as close as physically possible and quickly seek reliable shelter under the shrine's ornate roof to wait out the heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Krabi Fußgängerzone",
+                "hu": "Krabi Sétálóutca",
+                "ro": "Strada Pietonală Krabi",
+                "en": "Krabi Walking Street"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Regenschirme griffbereit im Auto; obwohl viele Verkäufer Planen aufspannen, sind wasserdichte Schuhe für die großen Pfützen unerlässlich.",
+                "hu": "Tartsd az esernyőket kéznél az autóban; bár sok árus ponyvát feszít ki, a vízálló cipő elengedhetetlen a hatalmas utcai tócsák kikerüléséhez.",
+                "ro": "Păstrați umbrelele la îndemână în mașină; deși mulți vânzători întind prelate, încălțămintea impermeabilă este esențială pentru bălțile uriașe.",
+                "en": "Keep umbrellas handy in the trunk; while vendors use tarps, waterproof shoes are completely essential to step comfortably through the large puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Andaman Kunstmuseum",
+                "hu": "Andamán Művészeti Múzeum",
+                "ro": "Muzeul de Artă Andaman",
+                "en": "Andaman Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Parkplatz, falls verfügbar, und genießen Sie die Kunstwerke völlig trocken, da diese Galerie perfekten Regenschutz bietet.",
+                "hu": "Használd a fedett parkolót, ha van rá lehetőség, és élvezd a művészeti alkotásokat teljesen szárazon ebben az esőtől tökéletesen védett galériában.",
+                "ro": "Folosiți parcarea acoperită dacă este disponibilă și bucurați-vă de operele de artă complet la uscat în această galerie ferită perfect de ploaie.",
+                "en": "Utilize covered parking if available, and enjoy the contemporary art completely dry as this massive indoor gallery provides perfect rain protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Mangroven-Holzsteg",
+                "hu": "Mangrove Sétány",
+                "ro": "Promenada Mangrovelor",
+                "en": "Mangrove Boardwalk"
+              },
+              "tip_5lang": {
+                "de": "Wechseln Sie im Auto in Ihre Gummistiefel, denn die nassen Holzwege der üppigen Mangrovenwälder werden bei solchem Wetter extrem rutschig und schlammig.",
+                "hu": "Cseréld le a cipődet gumicsizmára az autóban, mert a buja mangroveerdő nedves faösvényei ilyen időben rendkívül csúszóssá és sarássá válnak.",
+                "ro": "Schimbați-vă în cizme de cauciuc la mașină, deoarece căile din lemn ale pădurii luxuriante de mangrove devin extrem de alunecoase și noroioase.",
+                "en": "Change into your rain boots right in the car, because the wet wooden paths of the lush mangrove forests get extremely slippery and muddy right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Khanap Nam Höhle",
+                "hu": "Khao Khanap Nam Barlang",
+                "ro": "Peștera Khao Khanap Nam",
+                "en": "Khao Khanap Nam Cave"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie Ihre Regenjacken aus dem Kofferraum und achten Sie auf Ihre Schritte auf den extrem rutschigen Höhlenfelsen bei diesem nassen Wetter.",
+                "hu": "Vedd ki az esőkabátokat a csomagtartóból, és nagyon figyelj a lépéseidre az extrém csúszós barlangi köveken ebben a kifejezetten nedves időben.",
+                "ro": "Luați jachetele de ploaie din portbagaj și fiți foarte atenți la pașii voștri pe rocile extrem de alunecoase ale peșterii în această vreme udă.",
+                "en": "Grab your heavy rain jackets from the trunk and watch your step carefully on the extremely slick cave rocks during this persistently wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einer landschaftlich reizvollen und frischen Fahrt zur malerischen Windmühle.\n\nMittags parken Sie nahe dem Schrein für einen bequemen Zugang zur belebten Straße.\n\nNachmittags wärmt Sie der Museumsbesuch angenehm auf, bevor Sie zum Steg fahren.\n\nGenießen Sie schließlich den frühen Sonnenuntergang um 17:00 Uhr vom Höhleneingang aus.",
+            "hu": "Kezdj egy igazán festői és csípősen friss reggeli autózással a látványos szerencsemalomhoz.\n\nDélben parkolj a szentély közelében, hogy könnyen elérd a nyüzsgő sétálóutcát.\n\nDélután a múzeumi látogatás kellemesen felmelegít, mielőtt a folyóparti sétányhoz hajtanál.\n\nVégül élvezd a korai, 17:00 órai naplementét egyenesen a lenyűgöző barlang bejáratából.",
+            "ro": "Începeți cu o plimbare pitorească și proaspătă cu mașina spre spectaculoasa moară de vânt.\n\nLa prânz parcați lângă altar pentru un acces ușor la strada pietonală plină de viață.\n\nDupă-amiaza, vizita la muzeu vă încălzește plăcut înainte de a conduce spre promenadă.\n\nÎn cele din urmă, bucurați-vă de apusul devreme la ora 17:00 direct de la intrarea peșterii.",
+            "en": "Start with a highly scenic and brisk morning drive out to the picturesque coastal windmill.\n\nMidday, park near the shrine for incredibly easy access to the bustling walking street.\n\nAfternoon museum visits warm you up nicely before driving over to the breezy boardwalk.\n\nFinally, catch the breathtaking early sunset around 17:00 right from the cave's entrance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Krabi Glückswindmühle",
+                "hu": "Krabi Szerencsemalom",
+                "ro": "Moara de Vânt din Krabi",
+                "en": "Krabi Lucky Windmill"
+              },
+              "tip_5lang": {
+                "de": "Der offene Park ist im Winter sehr windig; machen Sie Ihre Fotos zügig und ziehen Sie sich danach schnell wieder in Ihr beheiztes Auto zurück.",
+                "hu": "A nyitott park télen nagyon szeles tud lenni; készítsd el a fotókat gyorsan, majd vonulj vissza egyből a kellemesen fűtött autód biztonságába.",
+                "ro": "Parcul deschis este foarte vântos iarna; faceți-vă fotografiile rapid și retrageți-vă imediat înapoi în căldura confortabilă a mașinii încălzite.",
+                "en": "The open park is extremely windy in winter; snap your photos rather quickly and retreat immediately back into the comfortable heat of your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Schrein der Stadtsäule",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Altarul Stâlpului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Der weiße Schrein leuchtet wunderschön; lassen Sie Ihre warmen Jacken an, wenn Sie aussteigen, um diesen ruhigen Ort angenehm genießen zu können.",
+                "hu": "A fehér szentély csodálatosan ragyog; tartsd magadon a meleg kabátot kiszálláskor is, hogy kényelmesen, fázás nélkül élvezhesd ezt a nyugodt helyet.",
+                "ro": "Altarul alb strălucește frumos; păstrați jachetele calde pe voi când coborâți pentru a vă putea bucura de acest loc liniștit într-un mod confortabil.",
+                "en": "The bright white shrine glows beautifully; keep your warm jackets on when you step out of the car so you can comfortably enjoy this serene temple."
+              }
+            },
+            {
+              "name": {
+                "de": "Krabi Fußgängerzone",
+                "hu": "Krabi Sétálóutca",
+                "ro": "Strada Pietonală Krabi",
+                "en": "Krabi Walking Street"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Markt, der früh beleuchtet wird; wärmen Sie sich nach dem Bummel mit einem heißen Getränk im gemütlich beheizten Auto auf.",
+                "hu": "Élvezd a korán kivilágított piacot; a téli séta és nézelődés után melegedj fel egy forró helyi itallal a kényelmesen fűtött autód utasterében.",
+                "ro": "Bucurați-vă de piața care este iluminată devreme; după plimbare încălziți-vă cu o băutură caldă locală în habitaclul confortabil și încălzit al mașinii.",
+                "en": "Enjoy the bustling market as it lights up early; after your walk, warm up completely with a hot local drink back inside your comfortably heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Andaman Kunstmuseum",
+                "hu": "Andamán Művészeti Múzeum",
+                "ro": "Muzeul de Artă Andaman",
+                "en": "Andaman Art Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Galerien richtig auf und ziehen Sie sich beim Verlassen gut an, bevor Sie zum nächsten Ziel in die kühle Luft fahren.",
+                "hu": "Melegedj fel alaposan a világos galériákban, és öltözz fel jól távozáskor, mielőtt a következő úticélod felé hajtanál a csípős, hűvös levegőben.",
+                "ro": "Încălziți-vă bine în galeriile luminate și îmbrăcați-vă gros la plecare înainte de a conduce spre următoarea destinație în aerul rece și aspru.",
+                "en": "Warm up thoroughly inside the bright galleries and bundle up securely when leaving before driving off to your next destination in the crisp, cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Mangroven-Holzsteg",
+                "hu": "Mangrove Sétány",
+                "ro": "Promenada Mangrovelor",
+                "en": "Mangrove Boardwalk"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenbrise ist spürbar; nehmen Sie Schals aus dem Auto mit auf den Steg, um die frische Winterluft am Fluss ohne Frieren zu genießen.",
+                "hu": "A parti szellő kifejezetten érezhető; vigyél magaddal sálakat az autóból a sétányra, hogy fázás nélkül élvezhesd a friss téli levegőt a folyónál.",
+                "ro": "Briza coastei se simte bine; luați eșarfe din mașină pe promenadă pentru a vă bucura de aerul proaspăt de iarnă lângă râu fără să vă fie frig.",
+                "en": "The coastal breeze is quite noticeable; grab some extra scarves from the car to comfortably enjoy the crisp winter air along the river's boardwalk."
+              }
+            },
+            {
+              "name": {
+                "de": "Khao Khanap Nam Höhle",
+                "hu": "Khao Khanap Nam Barlang",
+                "ro": "Peștera Khao Khanap Nam",
+                "en": "Khao Khanap Nam Cave"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Taschenlampe aus dem Handschuhfach mit, da die Schatten an Winternachmittagen in dieser Höhle überraschend früh hereinbrechen.",
+                "hu": "Mindenképpen vigyél magaddal egy zseblámpát a kesztyűtartóból, mivel a téli délutánokon az árnyékok meglepően korán borítják sötétbe a barlangot.",
+                "ro": "Asigurați-vă că luați o lanternă din torpedou, deoarece umbrele după-amiezilor de iarnă se lasă surprinzător de devreme în această peșteră mare.",
+                "en": "Definitely bring a bright flashlight from the glovebox, as the lengthening shadows fall surprisingly early inside this cave on late winter afternoons."
+              }
+            }
+          ]
+        }
       }
     }
   }

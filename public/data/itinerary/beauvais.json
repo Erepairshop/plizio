@@ -206,6 +206,252 @@
         "hu": "Kezdje a reggelt a történelmi vasútállomásnál, majd sétáljon el a kárpitműhelyekig.\n\nDélben pihenjen meg a Place Jeanne Hachette téren, mielőtt megcsodálná a hatalmas katedrálist.\n\nDélután fedezze fel a MUDO művészeti gyűjteményeit és az ősi Karoling-kori romokat.\n\nZárja a napot a Le Quadrilatère-ben, ahol a modern művészet az ősi római falakkal találkozik.",
         "ro": "Începeți dimineața la gara istorică, mergând spre atelierele naționale de tapiserie.\n\nLa prânz, relaxați-vă în Piața Jeanne Hachette înainte de a admira impunătoarea catedrală.\n\nPetreceți după-amiaza explorând arta de la MUDO și ruinele antice carolingiene.\n\nÎncheiați ziua la Le Quadrilatère, admirând arta modernă chiar lângă vechile ziduri romane.",
         "en": "Start with a morning stroll from the historic station to the tapestry workshops.\n\nAt midday, relax at Place Jeanne Hachette before marveling at the towering Saint-Pierre Cathedral.\n\nSpend your afternoon exploring the diverse art collections at MUDO and admiring Carolingian ruins.\n\nConclude the day at Le Quadrilatère, reflecting on modern art alongside ancient Roman city walls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Beauvais beginnt mit grauem Himmel und stetigem Regen, der das Kopfsteinpflaster glänzen lässt. Mittags suchen wir Schutz in der gewaltigen Kathedrale, während der Regen gegen die hohen Fenster peitscht. Am Nachmittag bieten die Museen der Stadt eine trockene Zuflucht vor dem feuchten Wind. Der Tag endet im warmen Licht der Bahnhofshalle, fernab der nassen Straßen.",
+            "hu": "A reggel Beauvais-ban szürke égbolttal és áztató esővel indul, ami fényessé teszi a macskaköveket. Délben a monumentális katedrálisban keresünk menedéket, miközben az eső a magas ablakokat veri. Délután a város múzeumai kínálnak száraz búvóhelyet a nyirkos szél elől. A nap a vasútállomás meleg fényeiben ér véget, távol a város vizes és sötét utcáitól.",
+            "ro": "Dimineața în Beauvais începe cu un cer cenușiu și o ploaie constantă care face pavajul să strălucească. La prânz, căutăm adăpost în catedrala monumentală, în timp ce ploaia bate în ferestrele înalte. După-amiaza, muzeele orașului oferă un refugiu uscat împotriva vântului umed. Ziua se încheie în lumina caldă a gării, departe de străzile ude și întunecate ale orașului.",
+            "en": "The morning in Beauvais begins with grey skies and steady rain that makes the cobblestones glisten. At noon, we seek shelter in the monumental cathedral while the rain beats against the high windows. In the afternoon, the city's museums offer a dry refuge from the damp wind. The day ends in the warm light of the station hall, away from the wet and dark streets of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Beauvais",
+                "hu": "Beauvais Vasútállomás",
+                "ro": "Gara Beauvais",
+                "en": "Beauvais Station"
+              },
+              "tip_5lang": {
+                "de": "Die Bahnhofshalle bietet einen guten Schutz vor dem ersten Regenschauer; prüfen Sie Ihre Ausrüstung und öffnen Sie Ihren Regenschirm direkt beim Verlassen des Gebäudes.",
+                "hu": "Az állomás csarnoka kiváló védelmet nyújt az első eső ellen; ellenőrizze felszerelését, és már az épület elhagyásakor nyissa ki esernyőjét a beázás elkerülése érdekében.",
+                "ro": "Hala gării oferă o protecție excelentă împotriva primei ploi; verificați-vă echipamentul și deschideți umbrela imediat ce părăsiți clădirea pentru a evita umezirea.",
+                "en": "The station hall offers excellent protection from the initial rain; check your gear and open your umbrella as soon as you leave the building to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationale Gobelin-Manufaktur",
+                "hu": "Nemzeti Kárpitmanufaktúra",
+                "ro": "Manufactura Națională de Tapiserie",
+                "en": "National Tapestry Manufactory"
+              },
+              "tip_5lang": {
+                "de": "Diese Manufaktur ist ein idealer Ort, um der Nässe zu entfliehen und in die Welt der Textilkunst einzutauchen; die Innenräume sind warm und absolut regensicher gestaltet.",
+                "hu": "Ez a manufaktúra ideális hely a nedvesség elől való menekülésre és a textil művészet megismerésére; a belső terek melegek és teljesen védettek az eső elől.",
+                "ro": "Această manufactură este un loc ideal pentru a scăpa de umezeală și a explora arta textilă; spațiile interioare sunt calde și complet protejate de ploaia de afară.",
+                "en": "This manufactory is an ideal place to escape the dampness and explore textile art; the interior spaces are warm and completely protected from the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Jeanne Hachette",
+                "hu": "Place Jeanne Hachette",
+                "ro": "Piața Jeanne Hachette",
+                "en": "Place Jeanne Hachette"
+              },
+              "tip_5lang": {
+                "de": "Der offene Platz kann bei Regen ungemütlich sein; nutzen Sie die umliegenden Arkaden und Geschäfte, um trocken von einer Seite zur anderen zu gelangen.",
+                "hu": "A nyitott tér kényelmetlen lehet esőben; használja a környező árkádokat és üzleteket, hogy szárazon jusson át az egyik oldalról a másikra a séta során.",
+                "ro": "Piața deschisă poate fi inconfortabilă pe ploaie; folosiți arcadele și magazinele din jur pentru a traversa dintr-o parte în alta rămânând cât mai uscat posibil.",
+                "en": "The open square can be uncomfortable in the rain; use the surrounding arcades and shops to cross from one side to the other while staying as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Rathauses aus sicherer Entfernung unter einem Vordach; der gepflasterte Vorplatz wird bei Nässe oft sehr rutschig.",
+                "hu": "Csodálja meg a városháza építészetét tisztes távolságból, egy közeli előtető alól; a kövezett előtér nedves időben gyakran rendkívül csúszóssá válik.",
+                "ro": "Admirați arhitectura primăriei de la o distanță sigură sub un baldachin; curtea pavată devine adesea foarte alunecoasă atunci când este umedă de la ploaie.",
+                "en": "Admire the architecture of the town hall from a safe distance under a canopy; the paved forecourt often becomes very slippery when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Das riesige Kirchenschiff bietet perfekten Schutz vor Regen; bestaunen Sie die astronomische Uhr in aller Ruhe, während draußen das Wetter tobt.",
+                "hu": "A hatalmas hajó tökéletes védelmet nyújt az eső elől; csodálja meg az asztrológiai órát teljes nyugalomban, miközben odakint tombol a rosszidő.",
+                "ro": "Naosul uriaș oferă o protecție perfectă împotriva ploii; admirați ceasul astronomic în liniște deplină, în timp ce afară vremea este nefavorabilă.",
+                "en": "The huge nave offers perfect protection from the rain; admire the astronomical clock in total peace while the weather is unpleasant outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-de-la-Basse-Œuvre",
+                "hu": "Notre-Dame-de-la-Basse-Œuvre",
+                "ro": "Notre-Dame-de-la-Basse-Œuvre",
+                "en": "Notre-Dame-de-la-Basse-Œuvre"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein intimer Rückzugsort; achten Sie beim Eintreten auf die Stufen, da der alte Stein bei Regen gefährlich glatt sein kann.",
+                "hu": "Ez a kis templom meghitt búvóhely a zápor elől; belépéskor ügyeljen a lépcsőkre, mert a régi kőfelület esőben veszélyesen csúszóssá válhat.",
+                "ro": "Această biserică mică este un refugiu intim; aveți grijă la trepte la intrare, deoarece piatra veche poate fi periculos de alunecoasă pe ploaie.",
+                "en": "This small church is an intimate refuge; watch the steps when entering, as the old stone can be dangerously slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "MUDO - Oise Museum",
+                "hu": "MUDO - Oise Múzeum",
+                "ro": "Muzeul MUDO - Oise",
+                "en": "MUDO - Oise Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Aufenthalt im Museum, um die Kunstschätze trocken zu genießen; die dicken Palastmauern halten die Feuchtigkeit zuverlässig draußen.",
+                "hu": "Használja ki a múzeumban töltött időt a kincsek szárazon történő felfedezésére; a palota vastag falai megbízhatóan távol tartják a kinti nedvességet.",
+                "ro": "Profitați de timpul petrecut în muzeu pentru a explora comorile la adăpost; zidurile groase ale palatului țin umezeala de afară la distanță în mod eficient.",
+                "en": "Take advantage of the long stay in the museum to explore the treasures while staying dry; the thick palace walls reliably keep the dampness outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Quadrilatère",
+                "hu": "Le Quadrilatère",
+                "ro": "Le Quadrilatère",
+                "en": "Le Quadrilatère"
+              },
+              "tip_5lang": {
+                "de": "Die modernen Galerien sind hell beleuchtet und bieten einen tollen Kontrast zum grauen Regentag; ein perfekter Abschluss für einen nassen Stadtspaziergang.",
+                "hu": "A modern galériák világosak, és remek kontrasztot alkotnak a szürke esős nappal; tökéletes befejezése egy esős, de kulturális városi sétának.",
+                "ro": "Galeriile moderne sunt luminoase și oferă un contrast deosebit cu ziua ploioasă; un final perfect pentru o plimbare culturală prin oraș pe ploaie.",
+                "en": "The modern galleries are brightly lit and offer a great contrast to the grey rainy day; a perfect end to a wet but cultural city walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klirrend kalter Morgen erwartet Sie in Beauvais, wo der Frost die historischen Dächer weiß färbt. Mittags wärmt die tiefstehende Sonne den Hauptplatz nur wenig, was die warme Atmosphäre der Cafés umso einladender macht. Am Nachmittag sinken die Temperaturen weiter, und wir suchen die Wärme der Kathedrale und Museen. Nach 17 Uhr hüllt die Dunkelheit die Stadt ein.",
+            "hu": "Didergős, fagyos reggel várja Beauvais-ban, ahol a zúzmara fehéren csillog a történelmi tetőkön. Délben az alacsonyan járó nap alig melegíti a főteret, így a közeli kávézók hívogatóbbak, mint valaha. Délután a hőmérséklet tovább süllyed, ezért a katedrális és a múzeumok védelmébe húzódunk. 17 óra után a sötétség gyorsan beborítja az egész várost.",
+            "ro": "O dimineață geroasă vă așteaptă în Beauvais, unde promoroaca colorează în alb acoperișurile istorice. La prânz, soarele palid abia încălzește piața centrală, făcând atmosfera caldă a cafenelelor și mai primitoare. După-amiaza, temperaturile scad și mai mult, așa că ne refugiem în catedrală și muzee. După ora 17, întunericul învăluie rapid întreg orașul.",
+            "en": "A biting cold morning awaits you in Beauvais, where frost colors the historic roofs white. At noon, the low winter sun barely warms the main square, making the warm atmosphere of the cafes even more inviting. In the afternoon, temperatures drop further, so we seek the warmth of the cathedral and museums. After 5 PM, darkness quickly envelops the entire city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Beauvais",
+                "hu": "Beauvais Vasútállomás",
+                "ro": "Gara Beauvais",
+                "en": "Beauvais Station"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift oft durch die Bahnsteige; ziehen Sie Ihre Handschuhe und Mütze bereits in der geheizten Bahnhofshalle an, bevor Sie nach draußen gehen.",
+                "hu": "A szél gyakran átfúj a peronok között; húzza fel kesztyűjét és sapkáját még a fűtött állomáscsarnokban, mielőtt kilépne a fagyos külvilágba.",
+                "ro": "Vântul suflă adesea printre peroane; puneți-vă mănușile și căciula încă din hala încălzită a gării înainte de a ieși afară în frigul tăios.",
+                "en": "The wind often blows through the platforms; put on your gloves and hat while still in the heated station hall before heading out into the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationale Gobelin-Manufaktur",
+                "hu": "Nemzeti Kárpitmanufaktúra",
+                "ro": "Manufactura Națională de Tapiserie",
+                "en": "National Tapestry Manufactory"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Wandteppiche erzeugen eine optische und spürbare Wärme; genießen Sie die behagliche Atmosphäre im Inneren als Kontrast zur winterlichen Kälte.",
+                "hu": "A vastag faliszőnyegek látványa és jelenléte melegséget áraszt; élvezze a belső tér meghitt hangulatát, amely remek kontrasztot ad a téli fagyhoz.",
+                "ro": "Tapițeriile groase creează o căldură vizuală și tactilă; bucurați-vă de atmosfera confortabilă din interior ca un contrast cu gerul de iarnă.",
+                "en": "The thick tapestries create a visual and felt warmth; enjoy the cozy atmosphere inside as a contrast to the winter frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Jeanne Hachette",
+                "hu": "Place Jeanne Hachette",
+                "ro": "Piața Jeanne Hachette",
+                "en": "Place Jeanne Hachette"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene Boden kann tückisch sein; gehen Sie langsam über den Platz und bewundern Sie die winterliche Dekoration, die bei Kälte besonders glänzt.",
+                "hu": "A fagyott talaj trükkös lehet; sétáljon lassan a téren, és csodálja meg a téli díszítést, amely a hidegben különösen szépen csillog a fényekben.",
+                "ro": "Solul înghețat poate fi înșelător; mergeți încet prin piață și admirați decorațiunile de iarnă care strălucesc deosebit de frumos în frig.",
+                "en": "The frozen ground can be treacherous; walk slowly across the square and admire the winter decorations that shine especially beautifully in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto vom festlich beleuchteten Rathaus; die Kälte lässt Batterien schneller entladen, halten Sie Ihre Kamera nah am Körper.",
+                "hu": "Készítsen egy gyors fotót az ünnepi fényekben úszó városházáról; a hidegben az akkumulátorok gyorsabban merülnek, tartsa gépét a kabátja alatt.",
+                "ro": "Faceți o fotografie rapidă primăriei iluminate festiv; frigul descarcă bateriile mai repede, așa că țineți aparatul foto aproape de corp.",
+                "en": "Take a quick photo of the festively lit town hall; the cold drains batteries faster, so keep your camera or phone close to your body."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Kälte fest; behalten Sie Ihren Mantel an, während Sie die beeindruckende Architektur und die Glasfenster bewundern.",
+                "hu": "A masszív falak mélyen magukba zárják a hideget; tartsa magán a kabátját, miközben a lenyűgöző építészetet és az üvegablakokat csodálja.",
+                "ro": "Zidurile masive rețin frigul; păstrați haina pe dvs. în timp ce admirați arhitectura impresionantă și vitraliile colorate ale catedralei.",
+                "en": "The massive walls trap the cold; keep your coat on while you admire the impressive architecture and the colorful stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame-de-la-Basse-Œuvre",
+                "hu": "Notre-Dame-de-la-Basse-Œuvre",
+                "ro": "Notre-Dame-de-la-Basse-Œuvre",
+                "en": "Notre-Dame-de-la-Basse-Œuvre"
+              },
+              "tip_5lang": {
+                "de": "Dieser kleine Raum bietet Windschutz, bleibt aber kühl; ein kurzer Besuch ist ideal, um die spirituelle Ruhe ohne Auskühlung zu genießen.",
+                "hu": "Ez a kis tér szélvédett, de hűvös marad; egy rövid látogatás ideális, hogy élvezze a spirituális békét anélkül, hogy túlságosan átfagyna.",
+                "ro": "Acest spațiu mic oferă protecție împotriva vântului, dar rămâne răcoros; o vizită scurtă este ideală pentru a vă bucura de liniștea spirituală.",
+                "en": "This small space provides protection from the wind but remains cool; a short visit is ideal to enjoy the spiritual peace without getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "MUDO - Oise Museum",
+                "hu": "MUDO - Oise Múzeum",
+                "ro": "Muzeul MUDO - Oise",
+                "en": "MUDO - Oise Museum"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Galerien sind der perfekte Ort für den späten Nachmittag; entfliehen Sie dem Frost und verbringen Sie die Zeit in den warmen Sälen.",
+                "hu": "A fűtött galériák tökéletes helyszínt nyújtanak a késő délutánhoz; meneküljön el a fagy elől, és töltse idejét a múzeum meleg termeiben.",
+                "ro": "Galeriile încălzite sunt locul perfect pentru după-amiaza târzie; scăpați de ger și petreceți timpul în sălile primitoare ale muzeului.",
+                "en": "The heated galleries are the perfect location for the late afternoon; escape the frost and spend your time in the museum's warm halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Quadrilatère",
+                "hu": "Le Quadrilatère",
+                "ro": "Le Quadrilatère",
+                "en": "Le Quadrilatère"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Beleuchtung des Gebäudes wirkt in der frühen Winterdunkelheit besonders magisch; genießen Sie den letzten Stopp in wohliger Wärme.",
+                "hu": "Az épület modern kivilágítása a korai téli sötétségben különösen varázslatos; élvezze az utolsó megállót a belső terek kellemes melegében.",
+                "ro": "Iluminatul modern al clădirii pare deosebit de magic în întunericul timpuriu de iarnă; bucurați-vă de ultima oprire în căldura plăcută din interior.",
+                "en": "The modern lighting of the building looks especially magical in the early winter darkness; enjoy the last stop in the pleasant warmth inside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +629,224 @@
         "hu": "Guruljon be az állomástól a központba, magába szívva a főtér kora reggeli pezsgő hangulatát.\n\nA dél a lélegzetelállító katedrális és a Maison Gréber díszes kerámiái körül forog.\n\nDélután tekerjen a Parc Marcel Dassault zöldjébe, elhaladva a lenyűgöző Elispace mellett.\n\nA biciklis nap a festői Canada tó partján, egy békés naplementés kerékpározással és pihenéssel zárul.",
         "ro": "Porniți de la gară spre centrul orașului, absorbind agitația matinală din piața principală.\n\nPrânzul se concentrează pe Catedrala impresionantă și ceramica ornamentată de la Maison Gréber.\n\nPedalați după-amiaza prin parcul Marcel Dassault și pe lângă spectaculosul Elispace.\n\nZiua dumneavoastră se încheie liniștit pe bicicletă, relaxându-vă la apus lângă imensul lac Canada.",
         "en": "Roll from the station into the heart of the city, absorbing the morning bustle of the central square.\n\nMidday centers around the breathtaking Cathedral and the ornate ceramics of Maison Gréber.\n\nPedal into the afternoon green spaces of Parc Marcel Dassault and past the striking Elispace.\n\nYour cycling day ends with a peaceful sunset ride and relaxation beside the sprawling Canada Lake."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit Regen, was die Radwege von Beauvais glitschig macht. Vorsicht ist geboten, während wir vom Bahnhof in die Stadt fahren. Mittags bietet die Architektur der Kathedrale einen trockenen Stellplatz. Am Nachmittag führt die Route durch nasse Parks zum See, wo der Nebel über dem Wasser hängt. Ein regenreicher Tag, der Ausdauer auf zwei Rädern erfordert.",
+            "hu": "A nap esővel indul, ami csúszóssá teszi Beauvais kerékpárútjait. Óvatosságra van szükség, miközben az állomástól a város felé tekerünk. Délben a katedrális építészete száraz parkolóhelyet kínál. Délután az út vizes parkokon át vezet a tóhoz, ahol köd ül a víz felett. Egy esős nap, amely kitartást igényel két keréken is.",
+            "ro": "Ziua începe cu ploaie, ceea ce face pistele de biciclete din Beauvais alunecoase. Este necesară prudență în timp ce pedalăm de la gară spre oraș. La prânz, arhitectura catedralei oferă un loc de parcare uscat. După-amiaza, traseul trece prin parcuri ude spre lac, unde ceața plutește deasupra apei. O zi ploioasă care necesită perseverență pe două roți.",
+            "en": "The day starts with rain, making the bike paths of Beauvais slippery. Caution is needed while cycling from the station towards the city. At noon, the cathedral's architecture offers a dry parking spot. In the afternoon, the route leads through wet parks to the lake, where mist hangs over the water. A rainy day that requires perseverance on two wheels."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Beauvais",
+                "hu": "Beauvais Vasútállomás",
+                "ro": "Gara Beauvais",
+                "en": "Beauvais Station"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen überdachten Fahrradständer, um den Sattel trocken zu halten; prüfen Sie Ihre Bremsen gründlich, da sie bei Nässe langsamer reagieren.",
+                "hu": "Keressen fedett kerékpártárolót, hogy a nyereg száraz maradjon; alaposan ellenőrizze a fékeket, mivel nedves időben lassabban reagálhatnak.",
+                "ro": "Căutați un suport de biciclete acoperit pentru a păstra șaua uscată; verificați frânele cu atenție, deoarece pot reacționa mai lent pe umezeală.",
+                "en": "Look for a covered bike rack to keep your saddle dry; check your brakes thoroughly, as they may react more slowly in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Jeanne Hachette",
+                "hu": "Place Jeanne Hachette",
+                "ro": "Piața Jeanne Hachette",
+                "en": "Place Jeanne Hachette"
+              },
+              "tip_5lang": {
+                "de": "Die glatten Steine auf dem Platz sind bei Regen extrem rutschig; fahren Sie langsam und vermeiden Sie plötzliche Lenkbewegungen oder starkes Bremsen.",
+                "hu": "A téren lévő sima kövek esőben rendkívül csúszósak; tekerjen lassan, és kerülje a hirtelen kormánymozdulatokat vagy az erős fékezést a biztonságért.",
+                "ro": "Pietrele netede din piață sunt extrem de alunecoase pe ploaie; pedalați încet și evitați mișcările bruște de direcție sau frânarea violentă.",
+                "en": "The smooth stones in the square are extremely slippery in the rain; cycle slowly and avoid sudden steering movements or hard braking for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad nahe am Portal unter, um es vor dem schlimmsten Guss zu schützen; die Besichtigung bietet Ihnen eine willkommene Pause im Trockenen.",
+                "hu": "Állítsa le kerékpárját a kapu közelében, hogy megvédje a felhőszakadástól; a látogatás kellemes pihenőt nyújt a száraz belső térben az eső elől.",
+                "ro": "Parcați bicicleta lângă portal pentru a o proteja de aversa puternică; vizita vă oferă o pauză binemeritată la adăpost în interiorul uscat.",
+                "en": "Park your bike near the portal to protect it from the heaviest downpour; the visit offers a welcome break in the dry interior away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison Gréber",
+                "hu": "Maison Gréber",
+                "ro": "Maison Gréber",
+                "en": "Maison Gréber"
+              },
+              "tip_5lang": {
+                "de": "Die farbenfrohen Keramiken leuchten auch bei grauem Regenwetter; nutzen Sie den kurzen Stopp, um sich kurz unterzustellen und die Fassade zu bewundern.",
+                "hu": "A színes kerámiák még szürke esős időben is ragyognak; használja ki a rövid megállót, hogy kicsit behúzódjon az eresz alá és megcsodálja a homlokzatot.",
+                "ro": "Ceramica colorată strălucește chiar și pe vreme ploioasă și gri; profitați de oprire pentru a vă adăposti puțin și a admira fațada deosebită.",
+                "en": "The colorful ceramics shine even in grey rainy weather; take advantage of the short stop to take cover briefly and admire the striking facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Marcel Dassault Park",
+                "hu": "Marcel Dassault Park",
+                "ro": "Parcul Marcel Dassault",
+                "en": "Parc Marcel Dassault"
+              },
+              "tip_5lang": {
+                "de": "Nasses Laub auf den Wegen kann gefährlich sein; bleiben Sie auf den asphaltierten Hauptwegen und achten Sie auf Pfützen in den Kurven.",
+                "hu": "A vizes levelek az utakon veszélyesek lehetnek; maradjon az aszfaltozott főutakon, és ügyeljen a kanyarokban megbújó tócsákra tekerés közben.",
+                "ro": "Frunzele ude de pe poteci pot fi periculoase; rămâneți pe drumurile principale asfaltate și aveți grijă la bălțile din curbe în timp ce pedalați.",
+                "en": "Wet leaves on the paths can be dangerous; stay on the paved main paths and watch out for puddles in the corners while cycling through the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Elispace",
+                "hu": "Elispace",
+                "ro": "Elispace",
+                "en": "Elispace"
+              },
+              "tip_5lang": {
+                "de": "Das große Vordach bietet einen idealen Platz, um kurz zu verschnaufen und die Karte zu prüfen; bleiben Sie hier einen Moment im Trockenen.",
+                "hu": "A nagy előtető ideális hely egy rövid pihenőre és a térkép ellenőrzésére; maradjon itt egy pillanatra a szárazon, mielőtt folytatná az utat.",
+                "ro": "Baldachinul mare oferă un loc ideal pentru o scurtă pauză și pentru a verifica harta; rămâneți aici un moment la adăpost înainte de a continua.",
+                "en": "The large canopy provides an ideal spot for a short break and to check your map; stay here for a moment in the dry before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanada-See",
+                "hu": "Kanada-tó",
+                "ro": "Lacul Canada",
+                "en": "Canada Lake"
+              },
+              "tip_5lang": {
+                "de": "Der Weg um den See kann sehr matschig sein; genießen Sie die mystische Stimmung im Regen, aber achten Sie auf weichen Untergrund am Ufer.",
+                "hu": "A tó körüli út nagyon sáros lehet; élvezze a misztikus hangulatot az esőben, de ügyeljen a puha talajra a parton a kerékpárral.",
+                "ro": "Poteca din jurul lacului poate fi foarte noroioasă; bucurați-vă de atmosfera mistică pe ploaie, dar aveți grijă la solul moale de pe mal.",
+                "en": "The path around the lake can be very muddy; enjoy the mystical atmosphere in the rain, but watch out for soft ground on the shore with your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eisiger Wind weht Ihnen auf dem Fahrrad entgegen, während Sie durch das winterliche Beauvais fahren. Die klare Luft ist erfrischend, erfordert aber gute Kleidung. Mittags ist die Kathedrale ein massiver Schutzschild gegen den Frost. Am Nachmittag radeln wir durch den stillen Park zum See, bevor die frühe Dunkelheit uns zur Rückkehr zwingt. Ein kühles, aber belebendes Erlebnis.",
+            "hu": "Jeges szél fúj az arcába a kerékpáron, miközben a téli Beauvais-ban teker. A tiszta levegő frissítő, de réteges öltözetet igényel. Délben a katedrális masszív falaival pajzsként véd a fagy ellen. Délután a csendes parkon át tekerünk a tóhoz, mielőtt a korai sötétség visszatérésre kényszerítene minket. Hűvös, de élénkítő élmény a városban.",
+            "ro": "Vântul înghețat vă suflă în față pe bicicletă în timp ce pedalați prin Beauvais-ul de iarnă. Aerul curat este revigorant, dar necesită haine groase. La prânz, catedrala cu zidurile sale masive este un scut împotriva gerului. După-amiaza, pedalăm prin parcul liniștit spre lac, înainte ca întunericul să ne oblige să ne întoarcem. O experiență răcoroasă.",
+            "en": "Icy wind blows in your face on the bike as you cycle through winter Beauvais. The clear air is refreshing but requires good layering. At noon, the cathedral with its massive walls acts as a shield against the frost. In the afternoon, we cycle through the quiet park to the lake before the early darkness forces our return. A cool but invigorating experience."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Beauvais",
+                "hu": "Beauvais Vasútállomás",
+                "ro": "Gara Beauvais",
+                "en": "Beauvais Station"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in der Nähe der Fahrradständer; tragen Sie windfeste Handschuhe, um Ihre Hände beim Radfahren warm und beweglich zu halten.",
+                "hu": "Ügyeljen a jeges foltokra a kerékpártárolók környékén; viseljen szélálló kesztyűt, hogy kezei melegek és mozgékonyak maradjanak tekerés közben.",
+                "ro": "Aveți grijă la porțiunile înghețate de lângă suporturile de biciclete; purtați mănuși rezistente la vânt pentru a vă menține mâinile calde și agile.",
+                "en": "Watch out for icy patches near the bike racks; wear windproof gloves to keep your hands warm and agile while cycling in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Jeanne Hachette",
+                "hu": "Place Jeanne Hachette",
+                "ro": "Piața Jeanne Hachette",
+                "en": "Place Jeanne Hachette"
+              },
+              "tip_5lang": {
+                "de": "Dieser offene Bereich ist im Winter sehr windig; bleiben Sie in Bewegung, um warm zu bleiben, und achten Sie auf gefrorenes Wasser zwischen den Steinen.",
+                "hu": "Ez a nyitott terület télen nagyon szeles; maradjon mozgásban, hogy melegen tartsa magát, és ügyeljen a kövek közötti fagyott vízre a téren.",
+                "ro": "Această zonă deschisă este foarte vântoasă iarna; rămâneți în mișcare pentru a vă menține căldura și aveți grijă la apa înghețată dintre pietre.",
+                "en": "This open area is very windy in winter; keep moving to stay warm and watch out for frozen water between the stones in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Das riesige Innere schützt Sie perfekt vor dem beißenden Winterwind; nutzen Sie die Besichtigung für ein kurzes Aufwärmen abseits der kalten Zugluft.",
+                "hu": "A hatalmas belső tér tökéletesen megvédi Önt a maró téli széltől; használja ki a látogatást egy rövid bemelegedésre a fagyos huzat elől.",
+                "ro": "Interiorul uriaș vă protejează perfect de vântul tăios de iarnă; folosiți vizita pentru o scurtă încălzire departe de curentul de aer rece.",
+                "en": "The huge interior perfectly protects you from the biting winter wind; use the visit for a short warm-up away from the freezing drafts."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison Gréber",
+                "hu": "Maison Gréber",
+                "ro": "Maison Gréber",
+                "en": "Maison Gréber"
+              },
+              "tip_5lang": {
+                "de": "Die detaillierten Kacheln bilden einen schönen Kontrast zum winterlichen Himmel; ein kurzer Halt reicht aus, um die Kunst ohne Auskühlung zu bewundern.",
+                "hu": "A részletgazdag csempék gyönyörű kontrasztot alkotnak a téli égbolttal; egy rövid megálló is elég, hogy megcsodálja a művészetet anélkül, hogy átfagyna.",
+                "ro": "Plăcile detaliate creează un contrast frumos cu cerul de iarnă; o scurtă oprire este suficientă pentru a admira arta fără a vă răci prea tare.",
+                "en": "The detailed tiles form a beautiful contrast with the winter sky; a short stop is enough to admire the art without getting too cold on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Marcel Dassault Park",
+                "hu": "Marcel Dassault Park",
+                "ro": "Parcul Marcel Dassault",
+                "en": "Parc Marcel Dassault"
+              },
+              "tip_5lang": {
+                "de": "Kahlbäume und Frost bieten eine ruhige Kulisse für Ihre Fahrt; halten Sie Ausschau nach eisigen Stellen im Schatten der großen Parkbäume.",
+                "hu": "A csupasz fák és a zúzmara nyugodt hátteret biztosítanak az úthoz; keressen jeges foltokat a park nagy fáinak árnyékosabb részein a kerékpárút mentén.",
+                "ro": "Copacii golași și promoroaca oferă un decor liniștit pentru călătorie; căutați porțiunile înghețate în umbra copacilor mari din parc.",
+                "en": "Bare trees and frost provide a quiet backdrop for your ride; look out for icy spots in the shade of the large park trees along the bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "Elispace",
+                "hu": "Elispace",
+                "ro": "Elispace",
+                "en": "Elispace"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Gebäude ist hell beleuchtet; prüfen Sie hier unbedingt Ihre Fahrradlichter für die bevorstehende Rückfahrt in der Dunkelheit.",
+                "hu": "Ez a modern épület fényesen ki van világítva; feltétlenül ellenőrizze itt a kerékpárlámpáit a sötétben történő közelgő visszatérés előtt.",
+                "ro": "Această clădire modernă este luminată puternic; verificați neapărat luminile bicicletei aici pentru întoarcerea iminentă pe întuneric.",
+                "en": "This modern building is brightly lit; be sure to check your bike lights here for the upcoming return journey in the early winter darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanada-See",
+                "hu": "Kanada-tó",
+                "ro": "Lacul Canada",
+                "en": "Canada Lake"
+              },
+              "tip_5lang": {
+                "de": "Die frühe Sonne spiegelt sich wunderschön auf dem kalten Wasser; verweilen Sie nicht zu lange, da die Kälte am Seeufer besonders intensiv ist.",
+                "hu": "A korai napsütés gyönyörűen tükröződik a hideg vízen; ne időzzön túl sokat, mert a hideg a tóparton különösen intenzív és csontig hatoló.",
+                "ro": "Soarele timpuriu se reflectă frumos pe apa rece; nu zăboviți prea mult, deoarece frigul de pe malul lacului este deosebit de intens iarna.",
+                "en": "The early sun reflects beautifully on the cold water; don't linger too long, as the cold on the lakeshore is particularly intense in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +1024,224 @@
         "hu": "Kezdje a napot a központon kívül, a középkori Maladrerie Saint-Lazare kora reggeli felfedezésével.\n\nVezessen a központba, hogy délben megcsodálja a gótikus katedrálist és a MUDO kincseit.\n\nDélután haladjon el a Maison Gréber mellett, és élvezze a Parc Marcel Dassault hatalmas kertjeit.\n\nZárásként tegyen egy rövid esti utat a Canada tóhoz, élvezve a nyugodt vízparti hangulatot sötétedés előtt.",
         "ro": "Începeți în afara centrului cu o explorare matinală a coloniei medievale Maladrerie Saint-Lazare.\n\nConduceți spre centru la prânz pentru înălțimile gotice ale Catedralei și comorile de la MUDO.\n\nDupă-amiaza, treceți pe lângă Maison Gréber pentru a vă bucura de grădinile parcului Dassault.\n\nÎncheiați cu un scurt drum de seară la lacul Canada, savurând liniștea apei înainte de a se întuneca.",
         "en": "Begin outside the center with a morning exploration of the medieval Maladrerie Saint-Lazare.\n\nDrive to the core for a midday journey through the Cathedral's Gothic heights and MUDO's treasures.\n\nIn the afternoon, cruise past Maison Gréber to enjoy the vast gardens of Parc Marcel Dassault.\n\nConclude with a short evening drive to Canada Lake, enjoying the waterside tranquility before dark."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Scheibenwischer arbeiten unermüdlich, während wir die Sehenswürdigkeiten von Beauvais mit dem Auto ansteuern. Es ist ein Tag für kurze Wege vom Parkplatz zum Eingang. Mittags trommelt der Regen auf das Autodach, während wir zur Kathedrale fahren. Am Nachmittag genießen wir die Museen, während draußen der Sturm tobt. Ein komfortabler Weg, die Stadt trotz Nässe zu erkunden.",
+            "hu": "Az ablaktörlők fáradhatatlanul dolgoznak, miközben autóval vesszük célba Beauvais látnivalóit. Ez a nap a rövid utaké a parkolótól a bejáratig. Délben az eső dobol az autó tetőjén, miközben a katedrálishoz hajtunk. Délután a múzeumokat élvezzük, miközben odakint tombol a vihar. Kényelmes módja a város felfedezésének a nagy nedvesség ellenére is.",
+            "ro": "Ștergătoarele lucrează neobosit în timp ce ne îndreptăm cu mașina spre atracțiile din Beauvais. Este o zi pentru drumuri scurte de la parcare la intrare. La prânz, ploaia tobează pe plafonul mașinii în drum spre catedrală. După-amiaza ne bucurăm de muzee în timp ce afară este furtună. Un mod confortabil de a explora orașul în ciuda umidității mari.",
+            "en": "The wipers work tirelessly as we head towards the sights of Beauvais by car. It's a day for short walks from the parking lot to the entrance. At noon, the rain drums on the car roof as we drive to the cathedral. In the afternoon, we enjoy the museums while the storm rages outside. A comfortable way to explore the city despite the heavy wetness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maladrerie Saint-Lazare",
+                "hu": "Maladrerie Saint-Lazare",
+                "ro": "Maladrerie Saint-Lazare",
+                "en": "Maladrerie Saint-Lazare"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Rundgang bei den alten Gebäuden; parken Sie so nah wie möglich am Eingang, um die Zeit im Regen kurz zu halten.",
+                "hu": "Használja ki a régi épületek melletti fedett körutat; parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja az esőben töltött időt.",
+                "ro": "Folosiți turul acoperit de lângă clădirile vechi; parcați cât mai aproape de intrare pentru a minimiza timpul petrecut în ploaie.",
+                "en": "Take advantage of the covered walkway near the old buildings; park as close to the entrance as possible to minimize time spent in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Beauvais",
+                "hu": "Beauvais Vasútállomás",
+                "ro": "Gara Beauvais",
+                "en": "Gare de Beauvais"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist bei Regen oft einfacher; halten Sie Ihren Regenschirm immer griffbereit auf dem Beifahrersitz für den schnellen Ausstieg.",
+                "hu": "A parkolóhely keresése esőben gyakran egyszerűbb; tartsa esernyőjét mindig kéznél az anyósülésen a gyors és száraz kiszállás érdekében.",
+                "ro": "Căutarea unui loc de parcare este adesea mai ușoară pe ploaie; țineți umbrela mereu la îndemână pe scaunul pasagerului pentru o ieșire rapidă.",
+                "en": "Finding a parking spot is often easier in the rain; always keep your umbrella handy on the passenger seat for a quick and dry exit from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den majestätischen Blick aus dem trockenen Auto, bevor Sie zur Besichtigung huschen; der Innenraum ist der perfekte Ort bei Dauerregen.",
+                "hu": "Élvezze a fenséges kilátást a száraz autóból, mielőtt beszaladna a látogatásra; a belső tér tökéletes helyszín tartós esőzés idején.",
+                "ro": "Bucurați-vă de vederea maiestuoasă din mașina uscată înainte de a fugi spre intrare; interiorul este locul perfect în caz de ploaie continuă.",
+                "en": "Enjoy the majestic view from the dry car before dashing inside for the visit; the interior is the perfect place during persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "MUDO - Oise Museum",
+                "hu": "MUDO - Oise Múzeum",
+                "ro": "Muzeul MUDO - Oise",
+                "en": "MUDO - Oise Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Aufenthalt für eine ausführliche Tour durch den Palast; die dicken Mauern lassen Sie das schlechte Wetter draußen schnell vergessen.",
+                "hu": "Használja ki a látogatást egy alapos palotatúrára; a vastag falak között tartózkodva gyorsan elfelejti az odakint tomboló barátságtalan időt.",
+                "ro": "Profitați de vizită pentru un tur detaliat al palatului; între zidurile groase veți uita rapid de vremea neprietenoasă de afară.",
+                "en": "Take advantage of the visit for a thorough palace tour; staying within the thick walls will quickly make you forget the unfriendly weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison Gréber",
+                "hu": "Maison Gréber",
+                "ro": "Maison Gréber",
+                "en": "Maison Gréber"
+              },
+              "tip_5lang": {
+                "de": "Die farbenfrohe Fassade ist ein tolles Fotomotiv, selbst durch die Windschutzscheibe; ein kurzer Spaziergang zum Eingang lohnt sich dennoch sehr.",
+                "hu": "A színes homlokzat remek fotótéma még a szélvédőn keresztül is; egy rövid séta a bejáratig így is nagyon megéri a látványért.",
+                "ro": "Fațada colorată este un subiect excelent de fotografie chiar și prin parbriz; o scurtă plimbare până la intrare merită totuși din plin.",
+                "en": "The colorful facade is a great photo subject even through the windshield; a short walk to the entrance is still very much worth it for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Marcel Dassault Park",
+                "hu": "Marcel Dassault Park",
+                "ro": "Parcul Marcel Dassault",
+                "en": "Parc Marcel Dassault"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen können Sie die Parklandschaft auch bei einer langsamen Vorbeifahrt genießen; achten Sie auf tiefe Pfützen auf den Parkwegen.",
+                "hu": "Heves esőben a park látványát egy lassú elhajtás közben is élvezheti; ügyeljen a mély tócsákra a park melletti utakon és parkolóhelyeken.",
+                "ro": "În caz de ploaie torențială, puteți admira parcul chiar și dintr-o trecere lentă cu mașina; aveți grijă la bălțile adânci de pe drumurile adiacente.",
+                "en": "In case of heavy rain, you can enjoy the park scenery even during a slow drive-by; watch out for deep puddles on the roads and parking areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanada-See",
+                "hu": "Kanada-tó",
+                "ro": "Lacul Canada",
+                "en": "Canada Lake"
+              },
+              "tip_5lang": {
+                "de": "Die mystische Stimmung am See lässt sich hervorragend bei laufender Heizung im Auto bewundern; Vorsicht beim Parken auf unbefestigtem, nassem Grund.",
+                "hu": "A tó misztikus hangulata kiválóan csodálható a járó fűtés mellett az autóból; legyen óvatos a parkoláskor a nem aszfaltozott, felázott talajon.",
+                "ro": "Atmosfera mistică de la lac poate fi admirată excelent din mașină cu căldura pornită; atenție la parcare pe solul neasfaltat și umed.",
+                "en": "The lake's mystical atmosphere can be perfectly admired from the car with the heater on; be careful when parking on unpaved, wet ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit dem Eiskratzen, aber die warme Heizung macht die Fahrt durch Beauvais angenehm. Mittags ist das Auto der perfekte Rückzugsort zwischen den kulturellen Stopps. Am Nachmittag sinken die Temperaturen am Seeufer rapide, was die Rückkehr ins warme Fahrzeug besonders wertvoll macht. Ein Wintertag voller Komfort und beeindruckender Ausblicke.",
+            "hu": "A fagyos reggel jégkaparással indul, de a meleg fűtés kellemessé teszi az utazást Beauvais-ban. Délben az autó tökéletes menedék a kulturális megállók között a hideg elől. Délután a hőmérséklet gyorsan süllyed a tóparton, így a visszatérés a meleg járműbe különösen értékes élmény. Kényelmes téli nap lenyűgöző kilátásokkal.",
+            "ro": "Dimineața geroasă începe cu curățatul gheții, dar căldura din mașină face călătoria prin Beauvais plăcută. La prânz, mașina este refugiul perfect între opririle culturale. După-amiaza, temperaturile scad rapid pe malul lacului, făcând revenirea în vehiculul cald deosebit de valoroasă. O zi de iarnă confortabilă, cu vederi impresionante.",
+            "en": "The frosty morning starts with scraping ice, but the warm heater makes the drive through Beauvais pleasant. At noon, the car is the perfect refuge between cultural stops from the cold. In the afternoon, temperatures drop rapidly at the lakeshore, making the return to the warm vehicle particularly valuable. A comfortable winter day with impressive views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maladrerie Saint-Lazare",
+                "hu": "Maladrerie Saint-Lazare",
+                "ro": "Maladrerie Saint-Lazare",
+                "en": "Maladrerie Saint-Lazare"
+              },
+              "tip_5lang": {
+                "de": "Der Frost auf den alten Steinen bietet am Morgen eine tolle Kulisse; kleiden Sie sich dick ein, da der Wind hier auf dem Hügel besonders kalt weht.",
+                "hu": "A régi köveken lévő zúzmara reggelente pazar látványt nyújt; öltözzön rétegesen, mert a szél itt a dombon különösen hidegen fúj télen.",
+                "ro": "Promoroaca de pe pietrele vechi oferă un decor superb dimineața; îmbrăcați-vă gros, deoarece vântul suflă deosebit de rece aici pe deal.",
+                "en": "The frost on the old stones provides a stunning backdrop in the morning; dress in thick layers, as the wind blows particularly cold here on the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Bahnhof Beauvais",
+                "hu": "Beauvais Vasútállomás",
+                "ro": "Gara Beauvais",
+                "en": "Gare de Beauvais"
+              },
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp ist nötig; die Sitzheizung ist Ihr bester Freund nach dem kurzen Gang über den kalten Vorplatz des Bahnhofsgebäudes.",
+                "hu": "Csak egy rövid megállóra van szükség; az ülésfűtés lesz a legjobb barátja a vasútállomás hideg előterén tett rövid séta után az autóba visszaérve.",
+                "ro": "Este necesară doar o scurtă oprire; încălzirea în scaune va fi cel mai bun prieten după scurta plimbare prin curtea rece a gării.",
+                "en": "Only a short stop is needed; the seat heater will be your best friend after the short walk across the cold forecourt of the station building."
+              }
+            },
+            {
+              "name": {
+                "de": "Kathedrale Saint-Pierre",
+                "hu": "Saint-Pierre Katedrális",
+                "ro": "Catedrala Saint-Pierre",
+                "en": "Saint-Pierre Cathedral"
+              },
+              "tip_5lang": {
+                "de": "Das dämmrige Winterlicht durch die Glasfenster wirkt fast magisch; parken Sie nah am Zentrum, um den Fußweg durch die Kälte zu minimieren.",
+                "hu": "Az üvegablakokon átszűrődő téli fény szinte varázslatos; parkoljon közel a központhoz, hogy minimalizálja a hidegben megtett gyalogutat.",
+                "ro": "Lumina de iarnă care trece prin vitralii pare aproape magică; parcați aproape de centru pentru a minimiza mersul pe jos prin frigul de afară.",
+                "en": "The winter light filtering through the stained glass windows looks almost magical; park near the center to minimize the walk through the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "MUDO - Oise Museum",
+                "hu": "MUDO - Oise Múzeum",
+                "ro": "Muzeul MUDO - Oise",
+                "en": "MUDO - Oise Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein langer Besuch im beheizten Museum ist der perfekte Schutz vor Frost; nutzen Sie die Zeit, um die Kunst in wohliger Wärme zu genießen.",
+                "hu": "A fűtött múzeumban tett hosszú látogatás tökéletes védelem a fagy ellen; használja ki az időt a művészet élvezetére a kellemes melegben.",
+                "ro": "O vizită lungă în muzeul încălzit este protecția perfectă împotriva gerului; profitați de timp pentru a savura arta într-o căldură plăcută.",
+                "en": "A long visit to the heated museum is the perfect protection against the frost; take advantage of the time to enjoy the art in pleasant warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison Gréber",
+                "hu": "Maison Gréber",
+                "ro": "Maison Gréber",
+                "en": "Maison Gréber"
+              },
+              "tip_5lang": {
+                "de": "Die Keramikdetails stechen vor dem klaren Winterhimmel besonders hervor; bewundern Sie das Haus kurz und kehren Sie dann ins warme Auto zurück.",
+                "hu": "A kerámia részletek különösen kiemelkednek a tiszta téli égbolt előtt; csodálja meg röviden a házat, majd térjen vissza a fűtött autóba.",
+                "ro": "Detaliile ceramice ies în evidență pe fundalul cerului senin de iarnă; admirați scurt casa și apoi reveniți în mașina încălzită.",
+                "en": "The ceramic details stand out especially well against the clear winter sky; admire the house briefly and then return to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Marcel Dassault Park",
+                "hu": "Marcel Dassault Park",
+                "ro": "Parcul Marcel Dassault",
+                "en": "Parc Marcel Dassault"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Teiche bieten einen malerischen Anblick; machen Sie einen kurzen, zügigen Spaziergang, um den Kreislauf in der Kälte anzuregen.",
+                "hu": "A befagyott tavak festői látványt nyújtanak; tegyen egy rövid, tempós sétát, hogy felpezsdítse vérkeringését a csípős hideg levegőn.",
+                "ro": "Iazurile înghețate oferă o priveliște pitorească; faceți o plimbare scurtă și rapidă pentru a vă stimula circulația în aerul rece.",
+                "en": "The frozen ponds offer a picturesque sight; take a short, brisk walk to stimulate your circulation in the biting cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanada-See",
+                "hu": "Kanada-tó",
+                "ro": "Lacul Canada",
+                "en": "Canada Lake"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne geht früh über dem See unter; genießen Sie das Farbspiel im Schutz Ihres warmen Fahrzeugs bei einer heißen Tasse Tee aus der Thermoskanne.",
+                "hu": "A nap korán nyugszik a tó felett; élvezze a színek játékát a meleg jármű védelméből egy termoszban hozott forró tea kíséretében.",
+                "ro": "Soarele apune devreme peste lac; bucurați-vă de spectacolul culorilor din protecția vehiculului cald cu un ceai fierbinte din termos.",
+                "en": "The sun sets early over the lake; enjoy the play of colors from the protection of your warm vehicle with a hot tea from a thermos."
+              }
+            }
+          ]
+        }
       }
     }
   }

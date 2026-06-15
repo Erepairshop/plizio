@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Rosporden-tó természetes nyugalmában, élvezve a friss levegőt és a madárvilágot. Délben elérkezik a híres Voie Verte-hez, amely tökéletes egy frissítő sétához. Délután csodálja meg a Notre-Dame d'Indulgence templom egyedülálló építészetét. Zárja az estét a Kulturális Központban a helyi művészetekben elmerülve, visszatekintve a nap bájos felfedezéseire.",
         "ro": "Începeți dimineața îmbrățișând liniștea naturală a Lacului Rosporden, bucurându-vă de aerul proaspăt. La amiază ajungeți la faimoasa Voie Verte, perfectă pentru o plimbare revigorantă. După-amiaza, admirați arhitectura Bisericii Notre-Dame d'Indulgence. Încheiați seara cufundați în arta locală la Centrul Cultural, reflectând asupra descoperirilor fermecătoare ale zilei.",
         "en": "Begin your morning by embracing the natural tranquility of Rosporden Lake, enjoying the fresh air and birdlife. Midday brings you to the famous Voie Verte, perfect for a refreshing walk. In the afternoon, marvel at the Notre-Dame d'Indulgence Church's architecture. Conclude your evening immersed in local arts at the Cultural Center, reflecting on the day's charming discoveries."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am Rosporden-See, gut eingepackt in Regenkleidung. Mittags spazieren Sie vorsichtig über die feuchte Voie Verte und genießen den Duft der nassen Natur. Der Nachmittag bietet eine perfekte Zuflucht in der historischen Kirche Notre-Dame d'Indulgence. Beenden Sie den Tag trocken in den Ausstellungen des Kulturzentrums, während es draußen weiter regnet.",
+            "hu": "Kezdje az esős reggelt a Rosporden-tó ködös látványával, egy jó vízálló kabátba burkolózva. Délben óvatosan sétáljon végig a nedves Voie Verte útvonalon, élvezve a vizes természet illatát. A délután tökéletes menedéket kínál a történelmi Notre-Dame d'Indulgence templom falai között. Zárja a napot a kulturális központ fedett kiállításain, miközben kint továbbra is esik az eső.",
+            "ro": "Începeți dimineața ploioasă la Lacul Rosporden, bine înfofolit într-o haină impermeabilă. La prânz, plimbați-vă cu grijă pe Voie Verte umedă, bucurându-vă de mirosul naturii ude. După-amiaza oferă un refugiu perfect în biserica istorică Notre-Dame d'Indulgence. Încheiați ziua explorând expozițiile interioare de la centrul cultural, în timp ce ploaia continuă să cadă afară.",
+            "en": "Start your rainy morning observing the mist over Rosporden Lake, well wrapped in a waterproof coat. By noon, tread carefully along the damp Voie Verte, enjoying the fresh scent of wet nature. The afternoon offers a perfect refuge inside the historic Notre-Dame d'Indulgence. Conclude your day exploring the indoor exhibitions at the cultural center as the rain continues to fall outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rosporden-See",
+                "hu": "Rosporden-tó",
+                "ro": "Lacul Rosporden",
+                "en": "Rosporden Lake"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf der Seeoberfläche; tragen Sie unbedingt wasserfeste Stiefel, da die grasbewachsenen Ufer sehr schlammig werden.",
+                "hu": "Figyelje meg, ahogy az esőcseppek fodrozzák a tó vizét; mindenképpen viseljen vízálló bakancsot, mert a füves partok nagyon sárosak lesznek.",
+                "ro": "Priviți picăturile de ploaie care creează valuri pe suprafața lacului; asigurați-vă că purtați cizme impermeabile, deoarece malurile devin noroioase.",
+                "en": "Watch the raindrops creating ripples on the lake's surface; make sure to wear sturdy waterproof boots as the grassy banks get quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Voie Verte in Rosporden",
+                "hu": "Voie Verte Rospordenben",
+                "ro": "Voie Verte în Rosporden",
+                "en": "Voie Verte à Rosporden"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die üppige, regengewaschene Vegetation entlang der alten Bahnstrecke, aber achten Sie auf rutschige Stellen mit nassem Laub.",
+                "hu": "Csodálja meg a buja, eső áztatta növényzetet a régi vasútvonal mentén, de ügyeljen a lépéseire a csúszós, nedves faleveleken.",
+                "ro": "Admirați vegetația luxuriantă, spălată de ploaie de-a lungul vechii linii de cale ferată, dar aveți grijă la porțiunile alunecoase cu frunze ude.",
+                "en": "Admire the lush, rain-washed vegetation along the old railway line, but watch your step on the slippery patches of wet leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Voie Verte (Grüner Weg)",
+                "hu": "Voie Verte (Zöld Út)",
+                "ro": "Voie Verte (Calea Verde)",
+                "en": "Voie Verte (Greenway)"
+              },
+              "tip_5lang": {
+                "de": "Der grüne Weg verwandelt sich bei Regen in einen friedlichen, nebligen Korridor; bringen Sie einen Regenschirm mit, um den Spaziergang zu genießen.",
+                "hu": "A zöld út egy békés, ködös folyosóvá változik egy kiadós esőzés során, ezért hozzon magával egy megbízható esernyőt az atmoszferikus sétához.",
+                "ro": "Calea verde se transformă într-un coridor pașnic, cețos în timpul ploii, așa că aduceți o umbrelă robustă pentru a vă bucura de plimbare.",
+                "en": "The greenway transforms into a peaceful, misty corridor during a downpour, so bring a reliable umbrella to fully enjoy this atmospheric walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame d'Indulgence",
+                "hu": "Notre-Dame d'Indulgence templom",
+                "ro": "Biserica Notre-Dame d'Indulgence",
+                "en": "Notre-Dame d'Indulgence Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in diese schöne Kirche ein, um die Details zu bewundern und eine wohlverdiente, trockene Pause vom anhaltenden Küstenregen zu machen.",
+                "hu": "Lépjen be ebbe a gyönyörű templomba, hogy megcsodálja a részleteit, miközben egy jól megérdemelt, száraz pihenőt tart a makacs tengerparti eső elől.",
+                "ro": "Intrați în această biserică frumoasă pentru a aprecia detaliile sale, luând o pauză uscată și bine meritată de la ploaia de coastă persistentă.",
+                "en": "Step inside this beautiful church to appreciate its intricate details while taking a well-deserved, dry break from the persistent coastal rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum von Rosporden",
+                "hu": "Rospordeni Kulturális Központ",
+                "ro": "Centrul Cultural din Rosporden",
+                "en": "Centre culturel de Rosporden"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die lokalen Ausstellungen in diesem warmen, einladenden Kulturzentrum, der perfekte Rückzugsort, um Ihren Regentag zu beenden.",
+                "hu": "Fedezze fel a helyi kiállításokat ebben a meleg, barátságos kulturális központban, amely tökéletes beltéri menedék az esős nap zárásához.",
+                "ro": "Explorați expozițiile locale fascinante în acest centru cultural cald, retragerea interioară perfectă pentru a vă încheia explorarea în zi de ploaie.",
+                "en": "Explore the fascinating local exhibits in this warm, welcoming cultural hub, the perfect indoor retreat to finish your rainy day exploration."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren klaren Wintermorgen am Rosporden-See und packen Sie sich warm gegen die Kälte ein. Mittags genießen Sie die friedliche, karge Schönheit der Voie Verte und bleiben in Bewegung, um sich aufzuwärmen. Verbringen Sie den Nachmittag in der Kirche Notre-Dame d'Indulgence. Wenn es gegen 17:00 Uhr früh dunkel wird, suchen Sie Zuflucht im gemütlichen Kulturzentrum, bevor es noch kälter wird.",
+            "hu": "Kezdje a fagyos téli reggelt egy frissítő sétával a Rosporden-tó körül, melegen felöltözve a csípős hideg ellen. Délben élvezze a Voie Verte békés, kopár szépségét, mozgásban maradva a bemelegedéshez. A délutánt töltse a Notre-Dame d'Indulgence csendes áhítatában. Ahogy 17:00 körül korán leszáll az este, keressen menedéket a hangulatos kulturális központban, mielőtt még jobban lehűlne a levegő.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare revigorantă în jurul Lacului Rosporden, îmbrăcându-vă călduros împotriva frigului. La prânz, bucurați-vă de frumusețea pașnică a Voie Verte, mișcându-vă pentru a vă încălzi. Petreceți după-amiaza admirând solemnitatea bisericii Notre-Dame d'Indulgence. Pe măsură ce se întunecă devreme în jurul orei 17:00, căutați refugiu în centrul cultural primitor înainte de a se lăsa gerul.",
+            "en": "Start your crisp winter morning with a brisk walk around Rosporden Lake, wrapping up warmly against the biting cold. By noon, enjoy the peaceful, bare beauty of the Voie Verte, keeping moving to stay warm. Spend the afternoon admiring the quiet solemnity of Notre-Dame d'Indulgence. As the early evening sets in around 17:00, seek refuge in the cozy cultural center before the temperature drops further."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rosporden-See",
+                "hu": "Rosporden-tó",
+                "ro": "Lacul Rosporden",
+                "en": "Rosporden Lake"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die frostige Seelandschaft im Winter; eine warme Thermalschicht und Handschuhe sind gegen die kalten Morgenwinde unerlässlich.",
+                "hu": "Tapasztalja meg a tó fagyos, derűs táját télen; a meleg aláöltözet és a kesztyű elengedhetetlen a hűvös reggeli szelek ellen.",
+                "ro": "Experimentați peisajul senin și înghețat al lacului iarna; un strat termic cald și mănușile sunt esențiale împotriva vânturilor reci de dimineață.",
+                "en": "Experience the serene, frosty landscape of the lake in winter; a warm thermal layer and gloves are essential against the chilly morning winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Voie Verte in Rosporden",
+                "hu": "Voie Verte Rospordenben",
+                "ro": "Voie Verte în Rosporden",
+                "en": "Voie Verte à Rosporden"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie über den frostigen Weg unter kahlen Ästen mit klarer Sicht; tragen Sie dicke Socken, um Ihre Füße auf dem gefrorenen Boden warm zu halten.",
+                "hu": "Sétáljon végig a fagyos ösvényen a csupasz ágak alatt, mely tiszta kilátást nyújt; viseljen vastag zoknit, hogy a lábujjai melegek maradjanak.",
+                "ro": "Mergeți pe cărarea înghețată sub ramuri goale, care oferă vederi clare; purtați șosete groase pentru a vă menține picioarele calde pe solul înghețat.",
+                "en": "Walk along the frosty path under bare branches, offering clear views of the surroundings; wear thick socks to keep your toes toasty on the frozen ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Voie Verte (Grüner Weg)",
+                "hu": "Voie Verte (Zöld Út)",
+                "ro": "Voie Verte (Calea Verde)",
+                "en": "Voie Verte (Greenway)"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche grüne Weg ist ruhig und perfekt für eine stramme Wanderung; Thermo-Leggings unter der Hose sind bei dieser Kälte sehr zu empfehlen.",
+                "hu": "A téli zöld út csendes és fagyos, tökéletes egy tempós sétához; nadrág alatti termo harisnya erősen ajánlott a tartós hidegben.",
+                "ro": "Calea verde de iarnă este liniștită, perfectă pentru o drumeție alertă pentru a vă încălzi; colanții termici pe sub pantaloni sunt foarte recomandați.",
+                "en": "The winter greenway is crisp and quiet, perfect for a brisk hike to elevate your heart rate; thermal leggings under your trousers are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame d'Indulgence",
+                "hu": "Notre-Dame d'Indulgence templom",
+                "ro": "Biserica Notre-Dame d'Indulgence",
+                "en": "Notre-Dame d'Indulgence Church"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere dieser schönen Kirche kann im Winter extrem kalt sein, behalten Sie Schal und Mütze auf, während Sie das historische Kirchenschiff erkunden.",
+                "hu": "Ennek a gyönyörű templomnak a kőbelseje kivételesen hideg lehet télen, ezért tartsa magán a sálat és a sapkát, miközben felfedezi a történelmi hajót.",
+                "ro": "Interiorul de piatră al acestei biserici frumoase poate fi deosebit de rece iarna, așa că păstrați fularul și căciula în timp ce explorați naosul istoric.",
+                "en": "The stone interior of this beautiful church can be exceptionally cold in winter, so keep your scarf and hat on while exploring its historic nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum von Rosporden",
+                "hu": "Rospordeni Kulturális Központ",
+                "ro": "Centrul Cultural din Rosporden",
+                "en": "Centre culturel de Rosporden"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände in diesem Kulturraum auf, bevor die Sonne früh gegen 17:00 Uhr untergeht, ein idealer und gemütlicher Abschluss des Winterspaziergangs.",
+                "hu": "Melegítse fel fagyos kezeit ebben a kulturális térben, mielőtt a nap 17:00 körül korán lemenne, ami ideális, barátságos lezárása a téli sétának.",
+                "ro": "Încălziți-vă mâinile în acest spațiu cultural înainte ca soarele să apună devreme în jurul orei 17:00, un final ideal și confortabil pentru plimbarea de iarnă.",
+                "en": "Warm up your freezing hands in this engaging cultural space before the sun sets early around 17:00, making it an ideal, cozy end to your winter walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a békés Chapelle Saint-Éloinál, majd guruljon le a Rosporden-tó festői partjára. Dél körül tekerjen el a nagyszerű Notre-Dame d'Indulgence templom mellett, és térjen rá a fás Voie Verte-re. A délután egy hosszabb utazást tartogat a történelmi Chapelle Bonne-Nouvelle-hez. Fejezze be az utazást a Kulturális Központban, átitatódva a város kreatív szellemével.",
         "ro": "Începeți aventura pe bicicletă la Chapelle Saint-Éloi, înainte de a coborî spre țărmurile pitorești ale Lacului Rosporden. La prânz, pedalați pe lângă Biserica Notre-Dame d'Indulgence și alăturați-vă căii Voie Verte. După-amiaza oferă o plimbare mai lungă până la istorica Chapelle Bonne-Nouvelle. Încheiați călătoria la Centrul Cultural, bucurându-vă de spiritul creativ al orașului.",
         "en": "Start your cycling adventure at the peaceful Chapelle Saint-Éloi before coasting down to the scenic shores of Rosporden Lake. Around midday, pedal past the grand Notre-Dame d'Indulgence Church and join the tree-lined Voie Verte. Your afternoon features a longer ride to the historic Chapelle Bonne-Nouvelle. Wrap up the journey at the Cultural Center, soaking in the town's creative spirit."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Radtour an der stimmungsvollen Kapelle Saint-Éloi. Mittags erfordert die Fahrt am Rosporden-See Vorsicht, da die Wege rutschig sind. Der Nachmittag wird am besten mit einem Besuch der Kirche Notre-Dame d'Indulgence und der nebligen Voie Verte verbracht. Beenden Sie den regnerischen Abend sicher im Kulturzentrum und tauschen Sie Ihre nasse Ausrüstung gegen wohlige Wärme.",
+            "hu": "Kezdje a vizes kerékpártúrát a hangulatos Saint-Éloi Kápolnánál. Délben a Rosporden-tó melletti pedálozás óvatosságot igényel a csúszós utak miatt. A délutánt a Notre-Dame d'Indulgence és a ködös Voie Verte látogatásával érdemes tölteni, ahol a sárvédő nélkülözhetetlen. Zárja az esős estét biztonságban a helyi kulturális központban, a nedves felszerelést melegre cserélve.",
+            "ro": "Începeți călătoria umedă cu bicicleta de la capela Saint-Éloi. La prânz, pedalarea pe lângă Lacul Rosporden necesită prudență, deoarece cărările sunt alunecoase. După-amiaza vizitați biserica Notre-Dame d'Indulgence și Voie Verte cea cețoasă, unde apărătorile de noroi sunt esențiale. Încheiați seara ploioasă în siguranță la centrul cultural, schimbând echipamentul ud pe căldură.",
+            "en": "Embark on your wet cycling journey starting at the atmospheric Saint-Éloi Chapel. By noon, pedaling past Rosporden Lake requires caution as the paths are slick. The afternoon is best spent visiting Notre-Dame d'Indulgence and the misty Voie Verte, where mudguards are essential. Conclude the rainy evening safely at the local cultural center, swapping your wet gear for indoor warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Saint-Éloi",
+                "hu": "Saint-Éloi Kápolna",
+                "ro": "Capela Saint-Éloi",
+                "en": "Chapelle Saint-Éloi"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die ruhige Schönheit dieser Kapelle im Regen; lassen Sie etwas Luft aus den Reifen für besseren Halt auf dem nassen Kopfsteinpflaster in der Nähe.",
+                "hu": "Fedezze fel a kápolna nyugodt szépségét az esőben; engedjen ki egy kis levegőt a kerékpár gumijából, hogy jobban tapadjon a nedves macskaköveken.",
+                "ro": "Descoperiți frumusețea acestei capele în ploaie; dezumflați ușor anvelopele bicicletei pentru o aderență mai bună pe pietrele cubice umede din apropiere.",
+                "en": "Discover the serene beauty of this chapel amidst the rain; ensure your bike's tires are slightly deflated for better grip on the wet cobblestones nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosporden-See",
+                "hu": "Rosporden-tó",
+                "ro": "Lacul Rosporden",
+                "en": "Rosporden Lake"
+              },
+              "tip_5lang": {
+                "de": "Der See sieht unter Regenwolken dramatisch aus, aber fahren Sie langsam, da nasse Holzbrücken und Schlamm plötzliches Wegrutschen verursachen können.",
+                "hu": "A tó drámaian néz ki az esőfelhők alatt, de haladjon lassan, mivel a nedves fahidakkal és sáros szakaszokkal teli ösvényeken a kerékpár könnyen megcsúszhat.",
+                "ro": "Lacul arată dramatic sub norii de ploaie, dar mergeți încet, deoarece podurile de lemn umede și peticele de noroi pot provoca derapaje bruște.",
+                "en": "The lake looks dramatic under rain clouds, but ride slowly on the surrounding trails as wet wooden bridges and muddy patches can cause sudden skids."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame d'Indulgence",
+                "hu": "Notre-Dame d'Indulgence templom",
+                "ro": "Biserica Notre-Dame d'Indulgence",
+                "en": "Notre-Dame d'Indulgence Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie vorübergehend Schutz in dieser monumentalen Kirche, ein großartiger Ort, um Helm und Ausrüstung zu trocknen, bevor die nasse Fahrt weitergeht.",
+                "hu": "Keressen ideiglenes menedéket ebben a monumentális templomban, ami remek hely a sisak és a felszerelés megszáradására a vizes túra folytatása előtt.",
+                "ro": "Căutați un adăpost temporar în această biserică monumentală, un loc minunat pentru a vă usca casca înainte de a aborda următoarea etapă ploioasă.",
+                "en": "Seek temporary shelter inside this monumental church, a great place to dry your helmet and gear before tackling the next leg of your rainy ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Voie Verte (Grüner Weg)",
+                "hu": "Voie Verte (Zöld Út)",
+                "ro": "Voie Verte (Calea Verde)",
+                "en": "Voie Verte (Greenway)"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch diesen grünen Korridor im Regen ist magisch, aber schmutzig; ein guter Regenponcho und helle Fahrradlichter sind hier absolute Notwendigkeit.",
+                "hu": "A zöld folyosón való tekerés esőben varázslatos, de sáros; a jó minőségű vízálló poncsó és a villogó kerékpárlámpa itt elengedhetetlen.",
+                "ro": "Pedalarea pe acest coridor verde în ploaie este magică, dar noroioasă; un poncho impermeabil bun și lumini intermitente sunt o necesitate absolută aici.",
+                "en": "Cycling this green corridor in the rain is magical but messy; a good waterproof poncho and bright flashing bike lights are absolute necessities here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Bonne-Nouvelle",
+                "hu": "Bonne-Nouvelle Kápolna",
+                "ro": "Capela Bonne-Nouvelle",
+                "en": "Chapelle Bonne-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese charmante Kapelle gegen den grauen Himmel und achten Sie darauf, auf dem rutschigen, regennassen Weg nicht zu stark zu bremsen.",
+                "hu": "Szánjon egy pillanatot ennek a bájos kápolnának a megcsodálására a szürke ég alatt, nagyon ügyelve arra, hogy ne fékezzen túl nagyot a csúszós, nedves úton.",
+                "ro": "Admirați această capelă fermecătoare sub cerul gri și fiți foarte atenți să nu frânați brusc pe drumul de acces alunecos și plin de bălți.",
+                "en": "Take a moment to admire this charming chapel against the moody, grey sky, being very careful not to brake too hard on the slippery, rain-slicked approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum von Rosporden",
+                "hu": "Rospordeni Kulturális Központ",
+                "ro": "Centrul Cultural din Rosporden",
+                "en": "Centre culturel de Rosporden"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr nasses Fahrrad sicher draußen ab und genießen Sie einen trockenen, kulturell bereichernden Abschluss Ihrer nassen Reise in den Innenräumen.",
+                "hu": "Zárja le a csöpögő kerékpárt biztonságosan kint, és élvezze a vizes utazás száraz, kulturálisan gazdagító lezárását a lenyűgöző beltéri kiállításokon.",
+                "ro": "Blocați-vă bicicleta udă afară și bucurați-vă de un final uscat și cultural pentru călătoria dumneavoastră ploioasă, cu expoziții interioare fascinante.",
+                "en": "Lock your dripping bike securely outside and enjoy a dry, culturally enriching end to your wet journey with fascinating local exhibitions indoors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre frostige Morgenfahrt beginnt an der Kapelle Saint-Éloi und erfordert Thermohandschuhe und Schichten. Mittags ist die Schönheit des Rosporden-Sees faszinierend, obwohl der kalte Wind heftig ist. Verbringen Sie den kurzen Nachmittag auf der Voie Verte. Denken Sie daran, dass es gegen 17:00 Uhr dunkel wird; laden Sie Ihre Lichter auf, bevor Sie den kalten Tag im Kulturzentrum beenden.",
+            "hu": "A fagyos reggeli bringázás a Saint-Éloi Kápolnánál kezdődik, vastag kesztyűt és réteges öltözetet igényelve. Délben a Rosporden-tó kopár szépsége lenyűgöző, bár a metsző szél erős. A rövid délutánt a Voie Verte és a Bonne-Nouvelle közötti tekeréssel töltse. Ne feledje, 17:00 körül sötétedik, így töltse fel lámpáit, mielőtt a hideg napot a kulturális központban zárná.",
+            "ro": "Plimbarea înghețată de dimineață începe la capela Saint-Éloi, necesitând mănuși termice și haine în straturi. La prânz, frumusețea Lacului Rosporden este captivantă, deși vântul este aspru. Petreceți scurta după-amiază pedalând pe Voie Verte. Amintiți-vă că se întunecă în jurul orei 17:00, asigurați-vă că luminile sunt încărcate înainte de a încheia ziua rece la centrul cultural.",
+            "en": "Your frosty morning ride begins at the Saint-Éloi Chapel, demanding thermal gloves and layers. By noon, the stark beauty of Rosporden Lake is captivating, though the biting wind is fierce. Spend the short afternoon cycling the Voie Verte to Bonne-Nouvelle. Remember, darkness falls around 17:00, so ensure your lights are charged before concluding your chilly day at the cultural center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Saint-Éloi",
+                "hu": "Saint-Éloi Kápolna",
+                "ro": "Capela Saint-Éloi",
+                "en": "Chapelle Saint-Éloi"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Wintertour an dieser historischen Kapelle; Minustemperaturen senken den Reifendruck, pumpen Sie diese auf und tragen Sie eine winddichte Jacke.",
+                "hu": "Kezdje a téli túrát ennél a történelmi kápolnánál; a fagyos hőmérséklet csökkenti a guminyomást, ezért pumpálja fel, és viseljen vastag szélálló kabátot.",
+                "ro": "Începeți plimbarea de iarnă la această capelă istorică; temperaturile scăzute scad presiunea anvelopelor, deci umflați-le și purtați o jachetă rezistentă la vânt.",
+                "en": "Start your winter ride at this historic chapel; freezing temperatures mean tire pressure drops, so pump them up and wear a thick windproof cycling jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosporden-See",
+                "hu": "Rosporden-tó",
+                "ro": "Lacul Rosporden",
+                "en": "Rosporden Lake"
+              },
+              "tip_5lang": {
+                "de": "Die zugefrorenen Ränder des Sees sind atemberaubend, aber hüten Sie sich vor Glatteis auf den gepflasterten Wegen am Wasser und fahren Sie langsam.",
+                "hu": "A tó befagyott szélei lenyűgözőek, de óvakodjon a víz körüli burkolt ösvényeken lévő alattomos jégfoltoktól, és tartson visszafogott tempót.",
+                "ro": "Marginile înghețate ale lacului sunt uimitoare, dar feriți-vă de poleiul de pe cărările pavate din jurul apei, menținând o viteză conservatoare.",
+                "en": "The frozen edges of the lake are stunning to observe, but be wary of black ice on the paved trails around the water, keeping your speed conservative."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame d'Indulgence",
+                "hu": "Notre-Dame d'Indulgence templom",
+                "ro": "Biserica Notre-Dame d'Indulgence",
+                "en": "Notre-Dame d'Indulgence Church"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie hier, um die gotische Architektur im Winterlicht zu bewundern, und bewegen Sie Finger und Zehen, um die Durchblutung aufrechtzuerhalten.",
+                "hu": "Tartson itt szünetet, hogy értékelje a gótikus építészetet a téli fényben, és mozgassa meg az ujjait és lábujjait, hogy a vérkeringése megfelelő maradjon.",
+                "ro": "Faceți o pauză pentru a aprecia arhitectura gotică în lumina iernii, mișcându-vă degetele de la mâini și de la picioare pentru a menține circulația sângelui.",
+                "en": "Pause here to appreciate the stark Gothic architecture in the winter light, taking a moment to flex your fingers and toes to keep the circulation flowing."
+              }
+            },
+            {
+              "name": {
+                "de": "Voie Verte (Grüner Weg)",
+                "hu": "Voie Verte (Zöld Út)",
+                "ro": "Voie Verte (Calea Verde)",
+                "en": "Voie Verte (Greenway)"
+              },
+              "tip_5lang": {
+                "de": "Der grüne Weg ist im Winter wunderschön einsam, aber die kalte Luft kann brennen; das Tragen eines warmen Schlauchtuchs über dem Gesicht ist entscheidend.",
+                "hu": "A zöld út télen gyönyörűen elhagyatott, de a hideg levegő gyors szakaszokon égetheti a tüdejét; egy meleg csősál viselése az arcon elengedhetetlen.",
+                "ro": "Calea verde este frumos de pustie iarna, dar aerul rece vă poate arde plămânii; purtarea unui fular cald peste față este crucială pe secțiunile rapide.",
+                "en": "The greenway is beautifully desolate in winter, but the cold air can burn your lungs on fast stretches; wearing a warm buff over your face is crucial."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Bonne-Nouvelle",
+                "hu": "Bonne-Nouvelle Kápolna",
+                "ro": "Capela Bonne-Nouvelle",
+                "en": "Chapelle Bonne-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Kapelle, wenn die Winterschatten länger werden; bereiten Sie sich auf die frühe Dämmerung gegen 17:00 Uhr vor, indem Sie Ihre Lichter testen.",
+                "hu": "Látogassa meg ezt a csendes kápolnát, ahogy a téli árnyékok megnyúlnak; készüljön fel a 17:00 körüli alkonyatra azzal, hogy most ellenőrzi a lámpáit.",
+                "ro": "Vizitați această capelă liniștită pe măsură ce umbrele iernii se lungesc; fiți pregătiți pentru amurgul care se apropie rapid în jurul orei 17:00 testând luminile.",
+                "en": "Visit this quiet chapel as the winter shadows lengthen; be prepared for the fast-approaching dusk around 17:00 by testing your front and rear bike lights now."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum von Rosporden",
+                "hu": "Rospordeni Kulturális Központ",
+                "ro": "Centrul Cultural din Rosporden",
+                "en": "Centre culturel de Rosporden"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre frostige Fahrt in diesem einladenden Innenbereich, ein perfekter Ort, um aufzutauen und die lokale Geschichte fernab der eisigen Kälte zu erkunden.",
+                "hu": "Fejezze be fagyos túráját ezen a barátságos fedett helyszínen, amely tökéletes hely a felengedésre és a helyi történelem felfedezésére a téli éjszaka hidegétől távol.",
+                "ro": "Încheiați-vă plimbarea înghețată în acest loc de interior primitor, un loc perfect pentru a vă dezgheța și a explora istoria locală departe de gerul nopții.",
+                "en": "End your freezing ride at this welcoming indoor venue, a perfect place to thaw out and explore local history away from the biting frost of the winter night."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Festői autózása a történelmi Chapelle Bonne-Nouvelle-nél kezdődik, melyet a Rosporden-tó melletti csendes reggeli séta követ. A déli látnivalók közé tartozik a lenyűgöző Notre-Dame d'Indulgence templom és a csendes Chapelle Saint-Éloi. Délután vezessen dél felé az elszigetelt Chapelle Saint-Grégoire de Cadolhoz. A nap a Kulturális Központban ér véget, megünnepelve a helyi örökséget.",
         "ro": "Călătoria dvs. pitorească începe la istorica Chapelle Bonne-Nouvelle, urmată de o plimbare matinală la Lacul Rosporden. Reperele de la amiază includ Biserica Notre-Dame d'Indulgence și Chapelle Saint-Éloi. Conduceți spre sud după-amiaza pentru a descoperi izolată Chapelle Saint-Grégoire de Cadol. Ziua se încheie la Centrul Cultural, celebrând bogatul patrimoniul local.",
         "en": "Your scenic drive begins at the historic Chapelle Bonne-Nouvelle, followed by a tranquil morning stroll by Rosporden Lake. Midday highlights include the stunning Notre-Dame d'Indulgence Church and the quiet Chapelle Saint-Éloi. Drive south in the afternoon to discover the isolated Chapelle Saint-Grégoire de Cadol. Your day concludes at the Cultural Center, celebrating local heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihr regnerischer Morgen beginnt mit einer Fahrt zur Kapelle Bonne-Nouvelle, während die Scheibenwischer die Arbeit machen. Fahren Sie mittags vorsichtig zum Rosporden-See; die Straßen sind rutschig. Der Nachmittag ist ideal, um zwischen Notre-Dame, Saint-Éloi und Saint-Grégoire zu pendeln, ohne nass zu werden. Lassen Sie den Abend trocken im Kulturzentrum ausklingen, während es draußen stürmt.",
+            "hu": "Az esős reggel egy festői autózással indul a Bonne-Nouvelle Kápolnához, hagyja az ablaktörlőkre a munkát. Délben óvatosan vezessen a Rosporden-tóhoz; az utak nagyon csúszósak lehetnek. A délután ideális a Notre-Dame, Saint-Éloi és Saint-Grégoire közötti templomlátogatásokra, anélkül, hogy elázna. Zárja az estét a kulturális központban, élvezve a száraz beltéri kiállításokat, miközben kint tombol a vihar.",
+            "ro": "Dimineața ploioasă începe cu o plimbare pitorească până la capela Bonne-Nouvelle, lăsând ștergătoarele să-și facă treaba. La prânz, conduceți cu atenție spre Lacul Rosporden; drumurile sunt alunecoase. După-amiaza este ideală pentru a vizita bisericile Notre-Dame, Saint-Éloi și Saint-Grégoire fără a vă uda. Încheiați seara la centrul cultural, bucurându-vă de expozițiile uscate de la interior.",
+            "en": "Your rainy morning starts with a scenic drive to Bonne-Nouvelle Chapel, letting the car wipers do the work. By noon, drive carefully to Rosporden Lake; the roads can be quite slick. The afternoon is ideal for church hopping between Notre-Dame, Saint-Éloi, and Saint-Grégoire without getting soaked. Wind down your evening at the cultural center, enjoying dry, indoor exhibits while the storm continues outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Bonne-Nouvelle",
+                "hu": "Bonne-Nouvelle Kápolna",
+                "ro": "Capela Bonne-Nouvelle",
+                "en": "Chapelle Bonne-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese malerische Kapelle aus dem warmen Auto oder huschen Sie mit einem Regenschirm hinein, da der angrenzende Parkplatz sehr schlammig wird.",
+                "hu": "Csodálja meg ezt a festői kápolnát a meleg autó kényelméből, vagy szaladjon be egy nagy esernyővel, mivel a szomszédos parkoló nagyon sáros lesz.",
+                "ro": "Admirați această capelă pitorească din confortul mașinii calde sau fugiți rapid înăuntru cu o umbrelă mare, deoarece parcarea adiacentă devine foarte noroioasă.",
+                "en": "Admire this quaint chapel from the comfort of your warm car or make a quick dash inside with a large umbrella, as the adjacent parking gets very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosporden-See",
+                "hu": "Rosporden-tó",
+                "ro": "Lacul Rosporden",
+                "en": "Rosporden Lake"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Sees, um die Regentropfen auf dem Wasser zu beobachten; schalten Sie die Heizung ein, um ein Beschlagen der Fenster zu verhindern.",
+                "hu": "Parkoljon le a tó közelében, hogy figyelje az esőcseppeket a vizen; kapcsolja be a páramentesítőt, nehogy bepárásodjanak az ablakok a nedves levegőben.",
+                "ro": "Parcați lângă lac pentru a privi picăturile de ploaie lovind apa; asigurați-vă că dezaburitorul mașinii este pornit pentru a preveni aburirea geamurilor.",
+                "en": "Park near the lake to watch the dramatic raindrops hitting the water; ensure your car's defroster is on to prevent windows from fogging up in the damp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame d'Indulgence",
+                "hu": "Notre-Dame d'Indulgence templom",
+                "ro": "Biserica Notre-Dame d'Indulgence",
+                "en": "Notre-Dame d'Indulgence Church"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie direkt von Ihrem Auto in das große, trockene Heiligtum dieser schönen Kirche, die einen massiven Zufluchtsort vor den unerbittlichen Regengüssen bietet.",
+                "hu": "Lépjen egyenesen az autójából ennek a gyönyörű templomnak a hatalmas, száraz szentélyébe, amely menedéket nyújt a könyörtelen tengerparti felhőszakadások elől.",
+                "ro": "Pășiți direct din mașină în sanctuarul uscat și măreț al acestei biserici frumoase, oferind un refugiu masiv, boltit împotriva ploilor de coastă necruțătoare.",
+                "en": "Step directly from your car into the grand, dry sanctuary of this beautiful church, offering a massive, vaulted refuge from the relentless coastal downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Éloi",
+                "hu": "Saint-Éloi Kápolna",
+                "ro": "Capela Saint-Éloi",
+                "en": "Chapelle Saint-Éloi"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Regenfahrt bringt Sie zu diesem friedlichen Ort; seien Sie beim Anhalten besonders vorsichtig, da die Autoreifen auf dem nassen Gras einsinken können.",
+                "hu": "Egy rövid esős autózás elviszi ehhez a békés helyszínhez; legyen különösen óvatos a lehúzódáskor, mivel a nedves füves útpadkán könnyen megsüllyedhet az autó.",
+                "ro": "Un scurt drum ploios vă aduce în acest loc pașnic; fiți extrem de precauți la tragerea pe dreapta, deoarece marginile cu iarbă udă pot face ca anvelopele să se scufunde.",
+                "en": "A short, rainy drive brings you to this peaceful site; be extra cautious when pulling over, as the wet grass verges can cause your car tires to sink."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Grégoire de Cadol",
+                "hu": "Saint-Grégoire de Cadol Kápolna",
+                "ro": "Capela Saint-Grégoire de Cadol",
+                "en": "Chapelle Saint-Grégoire de Cadol"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diese ländliche Kapelle und genießen Sie das Regengeräusch auf dem Autodach; bringen Sie wasserfeste Schuhe für den kurzen, nassen Weg mit.",
+                "hu": "Fedezze fel ezt a vidéki kápolnát, miközben hallgatja az eső ritmusát az autó tetején; hozzon vízálló cipőt a bejárathoz vezető rövid, nedves ösvényhez.",
+                "ro": "Explorați această capelă rurală în timp ce vă bucurați de sunetul ploii pe acoperiș; aduceți pantofi impermeabili pentru calea scurtă și îmbibată de apă spre intrare.",
+                "en": "Explore this rural chapel while enjoying the rhythmic sound of rain on your car roof; bring waterproof walking shoes for the short, soggy path to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-de-Bonne-Nouvelle",
+                "hu": "Notre-Dame-de-Bonne-Nouvelle Kápolna",
+                "ro": "Capela Notre-Dame-de-Bonne-Nouvelle",
+                "en": "Chapelle Notre-Dame-de-Bonne-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer atemberaubender historischer Schutzraum; stellen Sie sicher, dass Ihre Scheinwerfer eingeschaltet sind, da starker Regen die Sicht stark einschränkt.",
+                "hu": "Egy újabb lenyűgöző történelmi menedék, amely rövid felüdülést nyújt az időjárás elől; mindenképp kapcsolja fel a fényszórókat a rossz látási viszonyok miatt.",
+                "ro": "Un alt adăpost istoric uimitor; asigurați-vă că farurile sunt aprinse, deoarece ploaia abundentă reduce sever vizibilitatea la conducere pe aceste drumuri.",
+                "en": "Another stunning historic shelter providing brief respite from the weather; ensure your headlights are switched on as heavy rain severely reduces driving visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum von Rosporden",
+                "hu": "Rospordeni Kulturális Központ",
+                "ro": "Centrul Cultural din Rosporden",
+                "en": "Centre culturel de Rosporden"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag mit der Erkundung faszinierender Ausstellungen, mit bequemen Parkplätzen in der Nähe, sodass Sie nicht lange dem Regen trotzen müssen.",
+                "hu": "Zárja a napot a száraz, lenyűgöző helyi kiállítások felfedezésével; a közeli kényelmes parkolásnak köszönhetően nem kell sokáig dacolnia a kinti esővel.",
+                "ro": "Terminați ziua explorând expozițiile fascinante de la interior, cu o parcare convenabilă în apropiere, astfel încât să nu fiți nevoiți să înfruntați ploaia prea mult timp.",
+                "en": "Finish your day exploring dry, fascinating local art and history exhibitions, with convenient parking nearby so you don't have to brave the rain for too long."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre frostige Morgenfahrt an der Kapelle Bonne-Nouvelle mit voll aufgedrehter Autoheizung. Mittags bietet der gefrorene Rosporden-See einen spektakulären eisigen Anblick direkt vom Straßenrand. Verbringen Sie den kurzen Nachmittag in den steinernen Kapellen. Da die Dunkelheit gegen 17:00 Uhr schnell hereinbricht, beenden Sie Ihre Reise im hell erleuchteten Kulturzentrum.",
+            "hu": "Kezdje a fagyos reggeli autózást a Bonne-Nouvelle Kápolnánál, a maximumra csavart autófűtéssel. Délben a befagyott Rosporden-tó látványos jeges kilátást nyújt egyenesen az út széléről. Töltse a rövid téli délutánt a kőkápolnák látogatásával, miközben az ülésfűtés melegen tartja a megállók között. Ahogy 17:00 körül gyorsan sötétedik, fejezze be az utat a kivilágított kulturális központban.",
+            "ro": "Începeți plimbarea cu mașina în dimineața geroasă la capela Bonne-Nouvelle, cu încălzirea mașinii pornită. La prânz, Lacul înghețat Rosporden oferă o priveliște glaciară spectaculoasă direct de pe marginea drumului. Petreceți scurta după-amiază vizitând capelele de piatră, lăsând scaunele încălzite să vă mențină cald. Cu întunericul căzând rapid în jurul orei 17:00, terminați-vă călătoria în interior la centrul cultural luminat.",
+            "en": "Begin your frosty morning drive at Bonne-Nouvelle Chapel, with the car heater blasting. By noon, the frozen Rosporden Lake offers a spectacular icy view right from the roadside. Spend your short winter afternoon visiting the beautiful stone chapels, letting the car seat warmers keep you toasty between stops. With darkness falling rapidly around 17:00, finish your journey indoors at the brightly lit cultural center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kapelle Bonne-Nouvelle",
+                "hu": "Bonne-Nouvelle Kápolna",
+                "ro": "Capela Bonne-Nouvelle",
+                "en": "Chapelle Bonne-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den Tag mit der Bewunderung dieser historischen Kapelle; achten Sie auf eine gesunde Autobatterie und halten Sie einen Eiskratzer griffbereit.",
+                "hu": "Kezdje a napot e történelmi kápolna megcsodálásával; győződjön meg az akkumulátor jó állapotáról a hidegindításhoz, és tartson kéznél egy jégkaparót.",
+                "ro": "Începeți ziua admirând această capelă istorică; asigurați-vă că bateria mașinii este în stare bună și păstrați mereu o racletă de gheață la îndemână.",
+                "en": "Start your day admiring this historic chapel; make sure your car battery is healthy for cold starts and always keep an ice scraper handy for frosty windshields."
+              }
+            },
+            {
+              "name": {
+                "de": "Rosporden-See",
+                "hu": "Rosporden-tó",
+                "ro": "Lacul Rosporden",
+                "en": "Rosporden Lake"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die atemberaubende Aussicht auf den eisigen See aus der Wärme Ihres Fahrzeugs; achten Sie auf Glatteisbildung in den schattigen Kurven der Seestraße.",
+                "hu": "Élvezze a jeges tó lenyűgöző látványát a meleg autóból; vigyázzon az árnyékos kanyarokban kialakuló alattomos jégpáncélra a tóparti úton.",
+                "ro": "Bucurați-vă de priveliștile uimitoare ale lacului înghețat din căldura vehiculului; fiți atenți la gheața neagră care se formează pe curbele umbrite ale drumului.",
+                "en": "Enjoy the stunning views of the icy lake from the warmth of your vehicle; be mindful of black ice forming on the shaded curves of the adjacent lakeside road."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame d'Indulgence",
+                "hu": "Notre-Dame d'Indulgence templom",
+                "ro": "Biserica Notre-Dame d'Indulgence",
+                "en": "Notre-Dame d'Indulgence Church"
+              },
+              "tip_5lang": {
+                "de": "Die majestätischen Steinmauern sind im Winter eisig, lassen Sie also Ihren schweren Mantel an, während Sie das Innere erkunden, bevor Sie ins warme Auto eilen.",
+                "hu": "A fenséges kőfalak télen jéghidegek, ezért tartsa magán a vastag kabátját a bentlét alatt, mielőtt visszasietne a fűtött autó kényelmébe.",
+                "ro": "Pereții majestuoși de piatră sunt înghețați iarna, așa că păstrați-vă haina groasă în timp ce explorați, înainte de a vă întoarce la confortul mașinii încălzite.",
+                "en": "The majestic stone walls are freezing in winter, so leave your heavy coat on while exploring inside before hurrying back to the comfort of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Éloi",
+                "hu": "Saint-Éloi Kápolna",
+                "ro": "Capela Saint-Éloi",
+                "en": "Chapelle Saint-Éloi"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderschöner Winterstopp mit frostiger Umgebung; stellen Sie sicher, dass Ihr Frostschutzmittel aufgefüllt ist, bevor Sie diese ländlichen Routen befahren.",
+                "hu": "Gyönyörű téli megálló fagyos környezettel; győződjön meg róla, hogy a fagyálló folyadék szintje megfelelő, mielőtt nekivágna ezeknek a vidéki, hideg utaknak.",
+                "ro": "O oprire superbă de iarnă cu împrejurimi înghețate; asigurați-vă că nivelul antigelului este plin înainte de a porni pe aceste rute rurale și geroase.",
+                "en": "A gorgeous winter stop with frosty surroundings; ensure your car's antifreeze levels are topped up before embarking on these rural, freezing country lane routes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Grégoire de Cadol",
+                "hu": "Saint-Grégoire de Cadol Kápolna",
+                "ro": "Capela Saint-Grégoire de Cadol",
+                "en": "Chapelle Saint-Grégoire de Cadol"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht auf diese alte Kapelle; halten Sie eine Thermoskanne mit heißem Tee im Auto bereit, um sich danach aufzuwärmen.",
+                "hu": "A csupasz téli fák akadálytalan kilátást nyújtanak erre az ősi kápolnára; tartson egy termosz forró teát az autóban, hogy felmelegedjen egy rövid, hideg séta után.",
+                "ro": "Copacii goi de iarnă oferă vederi neobstrucționate ale acestei capele antice; păstrați un termos cu ceai fierbinte în mașină pentru a vă încălzi după o scurtă plimbare.",
+                "en": "The bare winter trees offer unobstructed views of this ancient chapel; keep a thermos of hot tea in the car to warm your chest after a brief, chilly walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-de-Bonne-Nouvelle",
+                "hu": "Notre-Dame-de-Bonne-Nouvelle Kápolna",
+                "ro": "Capela Notre-Dame-de-Bonne-Nouvelle",
+                "en": "Chapelle Notre-Dame-de-Bonne-Nouvelle"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Heiligtum, während das Licht schnell schwindet; der Sonnenuntergang gegen 17:00 Uhr bedeutet, dass Sie auf unbeleuchteten Straßen Fernlicht brauchen.",
+                "hu": "Látogassa meg ezt a csendes szentélyt, ahogy a késő délutáni fény gyorsan halványul; a 17:00 körüli naplemente miatt távolsági fényszóróra lesz szükség a sötét utakon.",
+                "ro": "Vizitați acest sanctuar liniștit pe măsură ce lumina se stinge rapid; apusul în jurul orei 17:00 înseamnă că trebuie să vă bazați pe faza lungă pe drumurile rurale.",
+                "en": "Visit this quiet sanctuary as the late afternoon light fades swiftly; the sunset around 17:00 means you must rely on your high beams on the unlit rural roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturzentrum von Rosporden",
+                "hu": "Rospordeni Kulturális Központ",
+                "ro": "Centrul Cultural din Rosporden",
+                "en": "Centre culturel de Rosporden"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich vor dem eisigen, pechschwarzen Winterabend in dieses gut beleuchtete Kulturzentrum zurück, der ultimative Innenhafen, um den Roadtrip zu beenden.",
+                "hu": "Meneküljön be a fagyos, koromsötét téli este elől ebbe a kivilágított, kulturálisan pezsgő központba, ami a tökéletes beltéri menedék a fázós autós túra végén.",
+                "ro": "Retrageți-vă din seara de iarnă înghețată și întunecată în acest centru cultural bine luminat, refugiul interior suprem pentru a vă încheia călătoria rutieră rece.",
+                "en": "Retreat from the freezing, pitch-black winter evening into this well-lit, culturally vibrant center, the ultimate indoor haven to conclude your chilly road trip."
+              }
+            }
+          ]
+        }
       }
     }
   }

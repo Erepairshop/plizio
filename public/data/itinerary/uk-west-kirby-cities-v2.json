@@ -160,6 +160,196 @@
         "hu": "Kezdje gyalogtúráját a városközpontban, majd fedezze fel a bájos kulturális központot. Délben pihenjen meg a lenyűgöző parkokban és az eredeti viktoriánus kertekben. A délután a hatalmas sós vizű tóhoz vezet, ahol panorámás kilátás és friss tengeri levegő várja. A napot az árapály-szigetekre tett felejthetetlen, vadregényes sétával zárhatja le.",
         "ro": "Începeți turul de mers pe jos în centrul orașului, explorând clădirile civice și un centru cultural fermecător. La prânz, relaxați-vă în parcurile uimitoare și grădinile victoriene imaculate. După-amiaza vă aduce la lacul cu apă sărată pentru vederi panoramice și aer proaspăt de mare. Încheiați cu o drumeție de neuitat către insulele de reflux înainte de apus.",
         "en": "Start your walking tour in the town center, checking out local civic spots before wandering into a charming cultural hub. By midday, relax in the stunning local parks and immaculate Victorian gardens offering a perfect pause. The afternoon brings you to the iconic saltwater lake, delivering panoramic views and fresh sea air. Conclude with an unforgettable trek out to the tidal islands before the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Concourse, während draußen der Regen fällt. Mittags bietet das Kunstzentrum trockene Inspiration. Nachmittags fordern der Marine Lake und die Hilbre Islands wetterfeste Kleidung, da die Wege rutschig sind. Abends ziehen wir uns in die gemütlichen, überdachten Bereiche des Stadtzentrums zurück, um dem Wind und dem prasselnden Regen an der Küste zu entgehen.",
+            "hu": "A reggel a Concourse fedett tereiben indul, védve az esőtől. Délben a művészeti központ nyújt kulturális menedéket. Délután a tengeri tó és a Hilbre-szigetek felé a szél felerősödik, az ösvények csúszósak, így vízálló lábbeli kötelező. Este a part menti séta után a város belső, védett utcáin érdemes menedéket keresni a szűnni nem akaró csapadék elől a hangulatos fények alatt.",
+            "ro": "Dimineața începe la adăpost în Concourse, în timp ce ploaia cade afară. La prânz, centrul de artă oferă un refugiu cultural uscat. După-amiaza, lacul marin și insulele Hilbre necesită haine impermeabile, deoarece potecile devin alunecoase. Seara, ne retragem în zonele acoperite ale centrului orașului pentru a evita vântul și ploaia densă de pe coasta mării de vest.",
+            "en": "The morning starts sheltered in the Concourse while rain falls outside. At midday, the arts centre provides dry inspiration and warmth. In the afternoon, the Marine Lake and Hilbre Islands demand waterproof gear as paths become muddy and slippery. By evening, we retreat to the town's covered areas, enjoying the coastal atmosphere while staying protected from the persistent drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "West Kirby Concourse",
+                "hu": "West Kirby Concourse",
+                "ro": "West Kirby Concourse",
+                "en": "West Kirby Concourse"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés und Innenräume dieses Komplexes als perfekten trockenen Startpunkt für Ihren Tag bei Regenwetter.",
+                "hu": "Használja ki a komplexum kávézóit és belső tereit, amelyek tökéletes száraz kiindulópontot jelentenek az esős nap indításához.",
+                "ro": "Profită de cafenelele și spațiile interioare ale complexului, care reprezintă un punct de plecare uscat ideal pentru o zi ploioasă.",
+                "en": "Take advantage of the cafes and indoor spaces in this complex, serving as a perfect dry starting point for your rainy day out."
+              }
+            },
+            {
+              "name": {
+                "de": "West Kirby Arts Centre",
+                "hu": "West Kirby Művészeti Központ",
+                "ro": "Centrul de Arte West Kirby",
+                "en": "West Kirby Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie lokale Kunstgalerien unter einem festen Dach, während Sie darauf warten, dass der stärkste Regenschauer draußen vorüberzieht.",
+                "hu": "Élvezze a helyi művészeti galériákat a biztonságos tető alatt, miközben megvárja, hogy a kinti heves zápor végre elcsendesedjen.",
+                "ro": "Bucură-te de galeriile de artă locală sub un acoperiș solid în timp ce aștepți ca cele mai grele reprize de ploaie să treacă.",
+                "en": "Enjoy the local art galleries under a solid roof while waiting for the heaviest rain showers to pass by outside safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Ashton Park",
+                "hu": "Ashton Park",
+                "ro": "Parcul Ashton",
+                "en": "Ashton Park"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Baumkronen und tragen Sie unbedingt rutschfeste Schuhe für die nassen Parkwege heute.",
+                "hu": "Keressen menedéket a sűrű lombok alatt, és mindenképpen viseljen csúszásmentes talpú cipőt a vizes parki ösvényeken a biztonságért.",
+                "ro": "Caută adăpost sub coronamentul des al copacilor și poartă neapărat încălțăminte antiderapantă pe aleile umede ale parcului astăzi.",
+                "en": "Seek shelter under the thick tree canopies and ensure you wear non-slip shoes for the wet park paths today for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Coronation Gardens",
+                "hu": "Koronázási Kertek",
+                "ro": "Grădinile Încoronării",
+                "en": "Coronation Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die befestigten Wege sind auch bei Regen gut begehbar, solange Sie eine windfeste Regenjacke gegen die Böen vom Meer tragen.",
+                "hu": "A kövezett utak esőben is jól járhatóak, feltéve, ha szélálló esőkabátot visel a tenger felől érkező erős széllökések ellen.",
+                "ro": "Potecile pavate sunt ușor de parcurs chiar și pe ploaie, cu condiția să porți o jachetă impermeabilă împotriva vântului de coastă.",
+                "en": "The paved paths remain accessible even in the rain, provided you wear a windproof raincoat against the gusts coming from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Tengeri Tó",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Der aufgewirbelte See bietet ein dramatisches Fotomotiv; halten Sie Ihre Kamera mit einer wasserdichten Hülle vor Spritzwasser geschützt.",
+                "hu": "A felkavart vizű tó drámai fotótémát kínál; óvja fényképezőgépét vízálló tokkal a felcsapó sós permet és az esőcseppek ellen.",
+                "ro": "Lacul agitat oferă un subiect foto dramatic; protejează-ți camera cu o husă impermeabilă împotriva stropilor de apă și a ploii.",
+                "en": "The choppy lake offers a dramatic photo subject; protect your camera with a waterproof case against the sea spray and raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Hilbre Islands",
+                "hu": "Hilbre-szigetek",
+                "ro": "Insulele Hilbre",
+                "en": "Hilbre Islands"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Gezeiten doppelt, da der Weg bei Regen rutschiger ist und der Wind das Vorankommen auf dem Sand erschwert.",
+                "hu": "Ellenőrizze kétszer is az apály idejét, mert esőben az út csúszósabb, és az erős szél nehezíti a haladást a vizes homokon.",
+                "ro": "Verifică de două ori orele mareei, deoarece drumul este mai alunecos pe ploaie, iar vântul îngreunează înaintarea pe nisipul umed.",
+                "en": "Double-check the tide times as the path is more slippery in rain and strong winds make walking on wet sand much harder."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Concourse weckt die Lebensgeister. Mittags wärmen wir uns im Kunstzentrum auf, bevor wir durch den winterlichen Ashton Park schlendern. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den Nachmittag am Marine Lake im goldenen Licht. Der Abend in West Kirby ist geprägt von kühler Meeresbrise und gemütlicher Beleuchtung in den Straßen.",
+            "hu": "A fagyos reggel a Concourse-nál frissítően indul. Délben a művészeti központban melegedünk fel, majd teszünk egy kört a téli Ashton Parkban. Mivel a nap 17:00 körül már nyugovóra tér, a délutánt a tengeri tónál töltjük az aranyló fényekben. Az este hűvös tengeri széllel érkezik, de a városka kivilágított utcái meghitt téli hangulatot árasztanak.",
+            "ro": "O dimineață geroasă la Concourse trezește simțurile. La prânz ne încălzim în centrul de artă înainte de a ne plimba prin Parcul Ashton înghețat. Deoarece soarele apune deja în jur de ora 17:00, profităm de după-amiaza la lacul marin în lumina aurie. Seara este marcată de o briză marină rece și de iluminatul stradal primitor din West Kirby.",
+            "en": "A frosty morning at the Concourse wakes the senses. At midday, we warm up in the arts centre before strolling through a wintry Ashton Park. Since the sun sets around 17:00, we enjoy the afternoon at the Marine Lake in the golden light. The evening brings a cool sea breeze and a cozy atmosphere in the lit-up streets of West Kirby."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "West Kirby Concourse",
+                "hu": "West Kirby Concourse",
+                "ro": "West Kirby Concourse",
+                "en": "West Kirby Concourse"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier mit einem heißen Getränk, um sich für den ersten Spaziergang in der kalten Morgenluft richtig aufzuwärmen.",
+                "hu": "Kezdje a napot itt egy forró itallal, hogy kellően bemelegedjen a hideg reggeli levegőn végzendő első sétához a városban.",
+                "ro": "Începe ziua aici cu o băutură caldă pentru a te încălzi înainte de prima plimbare prin aerul rece de dimineață.",
+                "en": "Start your day here with a hot drink to warm up properly before your first walk in the cold morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "West Kirby Arts Centre",
+                "hu": "West Kirby Művészeti Központ",
+                "ro": "Centrul de Arte West Kirby",
+                "en": "West Kirby Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um der Kälte für eine Stunde zu entfliehen und gleichzeitig die kreative Energie der lokalen Gemeinschaft zu spüren.",
+                "hu": "Tökéletes hely, hogy egy órára elmeneküljön a kinti hideg elől, miközben magába szívja a helyi közösség kreatív energiáit.",
+                "ro": "Locul perfect pentru a scăpa de frig timp de o oră, în timp ce explorezi energia creativă a comunității locale în interior.",
+                "en": "The perfect place to escape the cold for an hour while soaking up the creative energy of the local community indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Ashton Park",
+                "hu": "Ashton Park",
+                "ro": "Parcul Ashton",
+                "en": "Ashton Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Wegen; der Park sieht mit Raureif auf den Bäumen besonders im Winter bezaubernd aus.",
+                "hu": "Ügyeljen a jeges foltokra az utakon; a park a fák ágain megülő zúzmarával különösen varázslatos látványt nyújt télen.",
+                "ro": "Atenție la porțiunile înghețate de pe alei; parcul arată magic iarna cu promoroaca depusă pe ramurile copacilor golași.",
+                "en": "Watch out for icy patches on the paths; the park looks especially magical in winter with frost coating the bare tree branches."
+              }
+            },
+            {
+              "name": {
+                "de": "Coronation Gardens",
+                "hu": "Koronázási Kertek",
+                "ro": "Grădinile Încoronării",
+                "en": "Coronation Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten bieten einen klaren Blick auf das Meer; ziehen Sie mehrere Schichten an, da der Wind hier besonders beißend sein kann.",
+                "hu": "A kertekből tiszta kilátás nyílik a tengerre; öltözzön rétegesen, mert a szél itt különösen metsző lehet a téli hónapokban.",
+                "ro": "Grădinile oferă o vedere clară spre mare; îmbracă-te în mai multe straturi, deoarece vântul poate fi tăios aici iarna.",
+                "en": "The gardens offer a clear view of the sea; dress in multiple layers as the wind can be particularly biting here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Tengeri Tó",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang über der Dee-Mündung; die kalte Luft macht die Farben am Horizont oft klarer und intensiver.",
+                "hu": "Nézze meg a naplementét a Dee-torkolat felett; a hideg levegő gyakran tisztábbá és intenzívebbé teszi a horizont színeit télen.",
+                "ro": "Urmărește apusul peste estuarul Dee; aerul rece face adesea culorile orizontului mult mai clare și mai intense în timpul iernii.",
+                "en": "Watch the sunset over the Dee Estuary; the cold air often makes the horizon colors much clearer and more intense in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Hilbre Islands",
+                "hu": "Hilbre-szigetek",
+                "ro": "Insulele Hilbre",
+                "en": "Hilbre Islands"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückkehr vor 16:30 Uhr, um nicht von der frühen Dunkelheit auf dem Weg zurück zum Festland überrascht zu werden.",
+                "hu": "Tervezze meg a visszatérést 16:30 előtt, nehogy meglepje a korai sötétedés a szárazföldre visszavezető úton a homokpadokon.",
+                "ro": "Planifică întoarcerea înainte de ora 16:30 pentru a nu fi surprins de întunericul timpuriu pe drumul de revenire la țărm.",
+                "en": "Plan your return before 16:30 to avoid being surprised by the early darkness on the path back to the mainland across the sands."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpártúrája egy tágas kilátópont megmászásával kezdődik, majd leereszkedik a város kulturális szívébe. Délben békés parki tavak mellett teker, és történelmi kincseket fedez fel egy régi templomnál. Később a hatalmas tengeri tó mellett elsuhanva élvezheti a tengeri hangulatot. Az est közeledtével a lapos, festői parti ösvényen haladva fejezheti be ezt az aktív napot.",
         "ro": "Plimbarea începe cu o urcare spre un punct de belvedere, urmată de o coborâre rapidă în inima culturală a orașului. La prânz pedalați pe lângă lacuri liniștite și descoperiți comori istorice la o biserică străveche. Mai târziu, treceți pe lângă vastul lac marin, savurând atmosfera maritimă pe două roți. Spre seară, o croazieră pe traseul de coastă plat și pitoresc vă încheie ziua activă.",
         "en": "Your ride begins with a climb to an expansive viewpoint, followed by a quick descent into the cultural heart of the town. Midday finds you pedaling past serene park lakes and uncovering historical treasures at a Viking-era church. Later, breeze past the vast marine lake, taking in the maritime atmosphere on two wheels. As evening nears, cruise down the flat, scenic coastal trail to finish your active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start führt uns vorsichtig den Grange Hill hinauf. Mittags pausieren wir im Kunstzentrum und an der Kirche, um die stärksten Schauer abzuwarten. Nachmittags ist der Wirral Way matschig, was eine langsame Fahrt erfordert. Abends kehren wir mit Vorsicht auf den nassen Straßen zurück, wobei gute Beleuchtung und Schutzbleche am Fahrrad nun unerlässlich sind.",
+            "hu": "Az esős napot óvatos pedálozással kezdjük a Grange Hill felé. Délben a művészeti központnál és a templomnál tartunk pihenőt a záporok miatt. Délután a Wirral Way saras lehet, ami lassabb tempót követel a biciklisektől. Este óvatosan térünk vissza a vizes aszfalton; a jó világítás és a sárvédő használata ilyenkor alapvető biztonsági feltétel.",
+            "ro": "Un început ploios ne poartă cu atenție pe Grange Hill. La prânz, luăm o pauză la centrul de artă și la biserică pentru a lăsa ploaia să treacă. După-amiaza, Wirral Way poate fi noroios, necesitând o viteză redusă. Seara, revenim cu prudență pe asfaltul ud, luminile bune și apărătorile de noroi fiind esențiale pentru siguranță.",
+            "en": "A rainy start takes us cautiously up Grange Hill. At midday, we pause at the arts centre and church to wait out the heaviest showers. In the afternoon, the Wirral Way can be muddy, requiring a slower pace for cyclists. By evening, we return carefully on wet roads; good lighting and mudguards are essential for safety in these conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grange Hill",
+                "hu": "Grange Hill",
+                "ro": "Dealul Grange",
+                "en": "Grange Hill"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bergab besonders vorsichtig, da die nassen Wege rutschig sein können; nutzen Sie die Bremsen frühzeitig und sanft.",
+                "hu": "Lefelé menet legyen nagyon óvatos, mert a vizes utak csúszósak lehetnek; használja a fékeket időben és fokozatosan a megcsúszás ellen.",
+                "ro": "Fii foarte atent la coborâre, deoarece drumurile umede pot fi alunecoase; folosește frânele din timp și cu moderație.",
+                "en": "Be extremely careful cycling downhill as wet paths can be slippery; use your brakes early and gradually to avoid skidding."
+              }
+            },
+            {
+              "name": {
+                "de": "West Kirby Arts Centre",
+                "hu": "West Kirby Művészeti Központ",
+                "ro": "Centrul de Arte West Kirby",
+                "en": "West Kirby Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab und nutzen Sie die Pause, um Ihre Regenbekleidung kurz auszuschütteln.",
+                "hu": "Parkolja le kerékpárját védett helyen, és használja ki a pihenőt, hogy lerázza a vizet az esőruházatáról és kicsit megszárítkozzon.",
+                "ro": "Parchează bicicleta într-un loc protejat și profită de pauză pentru a scutura apa de pe echipamentul de ploaie în interior.",
+                "en": "Park your bike in a sheltered spot and use the break to shake the water off your rain gear and dry off slightly indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Ashton Park Lake",
+                "hu": "Ashton Park-i tó",
+                "ro": "Lacul din Parcul Ashton",
+                "en": "Ashton Park Lake"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen am Seeufer, da diese Schlaglöcher verbergen könnten; fahren Sie lieber auf den höher gelegenen Pfaden.",
+                "hu": "Kerülje el a mély tóparti tócsákat, mert kátyúkat rejthetnek; próbáljon a magasabb fekvésű, szilárdabb ösvényeken haladni.",
+                "ro": "Evită bălțile adânci de lângă lac, deoarece pot ascunde gropi; încearcă să mergi pe potecile mai înalte și mai ferme.",
+                "en": "Avoid deep puddles near the lake as they might hide potholes; try to stay on the higher, firmer paths for a safer ride."
+              }
+            },
+            {
+              "name": {
+                "de": "St Bridget's Church",
+                "hu": "Szent Brigitta templom",
+                "ro": "Biserica Sfânta Bridget",
+                "en": "St Bridget's Church"
+              },
+              "tip_5lang": {
+                "de": "Das Kircheninnere bietet eine friedliche Zuflucht vor dem Regen; wischen Sie den Sattel trocken, bevor Sie Ihre Fahrt fortsetzen.",
+                "hu": "A templom belső tere békés menedéket nyújt az eső elől; törölje szárazra a nyerget, mielőtt folytatná útját a következő megállóhoz.",
+                "ro": "Interiorul bisericii oferă un refugiu liniștit împotriva ploii; șterge șaua cu o cârpă uscată înainte de a porni din nou la drum.",
+                "en": "The church interior provides a peaceful refuge from the rain; wipe your saddle dry with a cloth before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Tengeri Tó",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Seitenwinde können das Radfahren am Ufer erschweren; halten Sie den Lenker fest und reduzieren Sie bei starken Böen das Tempo.",
+                "hu": "Az oldalszél nehezítheti a haladást a tóparton; tartsa erősen a kormányt, és erős széllökések esetén lassítson a biztonságért.",
+                "ro": "Vântul lateral poate îngreuna pedalatul pe malul lacului; ține ghidonul strâns și redu viteza în cazul rafalelor puternice.",
+                "en": "Side winds can make cycling difficult along the lake; keep a firm grip on the handlebars and slow down during strong gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirral Way",
+                "hu": "Wirral Way",
+                "ro": "Traseul Wirral",
+                "en": "Wirral Way"
+              },
+              "tip_5lang": {
+                "de": "Dieser unbefestigte Weg wird bei Regen sehr matschig; Schutzbleche verhindern, dass Schlamm auf Ihren Rücken spritzt.",
+                "hu": "Ez a burkolatlan út esőben erősen sárosodik; a sárvédők megakadályozzák, hogy a felcsapódó sár beszennyezze a hátát tekerés közben.",
+                "ro": "Această cale neasfaltată devine foarte noroioasă pe ploaie; apărătorile vor împiedica noroiul să-ți stropească spatele în mers.",
+                "en": "This unpaved trail becomes very muddy in the rain; mudguards will prevent splashes from staining your back while you cycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Lower Cage",
+                "hu": "Lower Cage",
+                "ro": "Lower Cage",
+                "en": "Lower Cage"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Blätter auf dem Boden, die wie Glatteis wirken können; bremsen Sie vorsichtig vor Kurven ab.",
+                "hu": "Ügyeljen a földön lévő vizes levelekre, amelyek olyan csúszósak lehetnek, mint a jég; kanyarok előtt fékezzen óvatosan.",
+                "ro": "Atenție la frunzele ude de pe jos, care pot fi la fel de alunecoase ca gheața; frânează cu grijă înainte de curbe.",
+                "en": "Watch out for wet leaves on the ground, which can be as slippery as ice; brake carefully before entering any corners."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Grange Hill belohnt uns morgens mit weiter Sicht. Mittags wärmen wir uns bei kurzen Stopps an der Kirche und im Kunstzentrum auf. Der Nachmittag am Marine Lake und auf dem Wirral Way bietet tiefstehende Sonne und lange Schatten. Wir beenden die Tour frühzeitig, da die Kälte nach Sonnenuntergang schnell zunimmt und die Sichtverhältnisse abnehmen.",
+            "hu": "A friss téli levegő a Grange Hill tetején tiszta kilátással jutalmaz reggel. Délben rövid pihenőket tartunk a templomnál és a művészeti központban a felmelegedéshez. A délután a tengeri tónál és a Wirral Way-en hosszú árnyékokat és téli napsütést hoz. A túrát korán fejezzük be, mert naplemente után a hideg gyorsan fokozódik, a látási viszonyok pedig romlanak.",
+            "ro": "Aerul curat de iarnă de pe Grange Hill ne răsplătește dimineața cu o vizibilitate excelentă. La prânz, facem pauze scurte la biserică și centrul de artă pentru a ne încălzi. După-amiaza la lacul marin și pe Wirral Way oferă un soare blând și umbre lungi. Încheiem tura devreme, deoarece frigul se intensifică rapid după apusul soarelui.",
+            "en": "The crisp winter air at Grange Hill rewards us with clear views in the morning. At midday, we take short breaks at the church and arts centre to warm up. The afternoon at the Marine Lake and Wirral Way offers low winter sun and long shadows. We end the tour early as the cold intensifies quickly after sunset and visibility starts to decrease."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grange Hill",
+                "hu": "Grange Hill",
+                "ro": "Dealul Grange",
+                "en": "Grange Hill"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind bergab bei den winterlichen Temperaturen sehr schnell die Finger auskühlen lässt.",
+                "hu": "Viseljen szélálló kesztyűt, mert a lejtőn való gurulás közben a menetszél téli időben nagyon gyorsan lehűtheti az ujjait.",
+                "ro": "Poartă mănuși rezistente la vânt, deoarece curentul de aer la coborâre poate îngheța degetele foarte rapid pe timp de iarnă.",
+                "en": "Wear windproof gloves, as the airflow while cycling downhill in winter temperatures can numb your fingers very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "West Kirby Arts Centre",
+                "hu": "West Kirby Művészeti Központ",
+                "ro": "Centrul de Arte West Kirby",
+                "en": "West Kirby Arts Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme im Innenraum, um Ihre Glieder zu lockern und sich mit einem heißen Tee für die Weiterfahrt zu stärken.",
+                "hu": "Használja ki a belső tér melegét, hogy átmozgassa elgémberedett végtagjait és egy forró teával felfrissüljön a folytatáshoz.",
+                "ro": "Profită de căldura din interior pentru a-ți dezmorți membrele și revigorează-te cu un ceai fierbinte înainte de a continua.",
+                "en": "Utilize the indoor warmth to loosen up your stiff limbs and recharge with a hot tea before continuing your winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Ashton Park Lake",
+                "hu": "Ashton Park-i tó",
+                "ro": "Lacul din Parcul Ashton",
+                "en": "Ashton Park Lake"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif oder Eis auf den Brücken und Holzwegen im Park; schieben Sie Ihr Rad bei Unsicherheit lieber ein kurzes Stück.",
+                "hu": "Ügyeljen a zúzmarára vagy jégre a park hídjain és faösvényein; bizonytalanság esetén inkább tolja a kerékpárt egy rövid szakaszon.",
+                "ro": "Atenție la promoroacă sau gheață pe podurile și aleile de lemn din parc; dacă nu ești sigur, mai bine împinge bicicleta puțin.",
+                "en": "Watch out for frost or ice on the park's bridges and wooden paths; if unsure, it's better to walk your bike for a short section."
+              }
+            },
+            {
+              "name": {
+                "de": "St Bridget's Church",
+                "hu": "Szent Brigitta templom",
+                "ro": "Biserica Sfânta Bridget",
+                "en": "St Bridget's Church"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die historischen Buntglasfenster, die im tiefstehenden Winterlicht oft besonders eindrucksvoll leuchten.",
+                "hu": "Tekintse meg a történelmi ólomüveg ablakokat, amelyek az alacsonyan járó téli napsütésben gyakran különösen lenyűgözően ragyognak.",
+                "ro": "Vizitează vitraliile istorice, care adesea strălucesc spectaculos în lumina slabă a soarelui de iarnă la amiază.",
+                "en": "Visit the historic stained glass windows, which often glow particularly impressively in the low-angled winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Tengeri Tó",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Seeluft ist erfrischend, aber aggressiv; schützen Sie Ihr Gesicht mit einem Schal oder einer Sturmhaube vor dem Erfrieren.",
+                "hu": "A hideg tengeri levegő frissítő, de metsző; védje arcát sállal vagy maszkkal a fagyos széltől a tóparti szakaszon.",
+                "ro": "Aerul rece al mării este revigorant, dar tăios; protejează-ți fața cu un fular împotriva vântului înghețat de pe malul lacului.",
+                "en": "The cold sea air is refreshing but biting; protect your face with a scarf or neck warmer against the freezing lake winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirral Way",
+                "hu": "Wirral Way",
+                "ro": "Traseul Wirral",
+                "en": "Wirral Way"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Weg oft fest gefroren, was das Fahren erleichtert; achten Sie jedoch auf versteckte Eisplatten unter Blättern.",
+                "hu": "Télen az út gyakran keményre fagy, ami megkönnyíti a tekerést; azonban ügyeljen a levelek alatt rejtőző jégfoltokra.",
+                "ro": "Iarna, drumul este adesea înghețat, ceea ce ușurează pedalatul; totuși, atenție la plăcile de gheață ascunse sub frunze.",
+                "en": "In winter, the trail is often frozen hard, making cycling easier; however, watch out for ice patches hidden under leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Lower Cage",
+                "hu": "Lower Cage",
+                "ro": "Lower Cage",
+                "en": "Lower Cage"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch, bevor die Dämmerung einsetzt, da die Waldabschnitte ohne künstliche Beleuchtung sehr dunkel werden.",
+                "hu": "Fejezze be a látogatást még alkonyat előtt, mert az erdős részek mesterséges világítás nélkül nagyon hamar elsötétülnek.",
+                "ro": "Încheie vizita înainte de lăsarea serii, deoarece porțiunile împădurite devin foarte întunecate fără iluminat artificial.",
+                "en": "Finish your visit before dusk sets in, as the wooded sections become very dark very quickly without artificial lighting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Autózzon ki korán a part menti homokpadokhoz, majd vegye az irányt egy domb felé, ahonnan páratlan kilátás nyílik a torkolatra. Délben az ősi helyi történelem és egy újabb lenyűgöző hangás csúcs várja egy rövid sétára. Délután parkoljon le a nagy tengeri tónál, hogy megtapasztalja a város nyüzsgő szabadidős szívét. Autós útját egy látványos természetvédelmi területen fejezze be, épp naplemente előtt.",
         "ro": "Conduceți devreme spre bancurile de nisip, apoi îndreptați-vă spre un deal care oferă vederi de neegalat asupra estuarului. Prânzul vă conectează cu istoria antică și cu un alt vârf acoperit de erica pentru o scurtă plimbare. După-amiaza, parcați lângă marele lac marin pentru a experimenta inima recreativă vibrantă a orașului. Încheiați la o rezervație naturală spectaculoasă chiar la timp pentru apus.",
         "en": "Drive out early to the expansive coastal sandbanks, then head inland to a prominent hill offering unmatched sweeping views over the estuary. Midday connects you with ancient local history and another stunning heathland peak for a short scenic walk. During the afternoon, park by the great marine lake to experience the town's vibrant recreational heart. Wrap up your drive at a spectacular nature reserve just in time for sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt beginnt mit Blick auf die aufgewühlte See bei East Hoyle Bank. Mittags genießen wir das Panorama vom Grange Hill aus dem trockenen Fahrzeug. Nachmittags besuchen wir die Kirche und den Marine Lake, wobei wir kurze Wege zwischen Auto und Sehenswürdigkeiten nutzen. Der Abend klingt gemütlich aus, während der Regen gegen die Scheiben trommelt und wir sicher durch die Stadt fahren.",
+            "hu": "Az autós túra a felkavart tenger látványával indul East Hoyle-nál. Délben a Grange Hill panorámáját a száraz járműből élvezzük. Délután meglátogatjuk a templomot és a tengeri tavat, kihasználva a parkolók és a látnivalók közötti rövid távolságot. Az este meghitten zárul, miközben az eső kopog a szélvédőn, mi pedig biztonságban gurulunk át a városon.",
+            "ro": "Turul cu mașina începe cu vederea mării agitate la East Hoyle. La prânz, admirăm panorama de pe Grange Hill din interiorul vehiculului uscat. După-amiaza, vizităm biserica și lacul marin, profitând de distanțele scurte de mers pe jos. Seara se încheie confortabil, în timp ce ploaia bate în parbriz și noi conducem în siguranță prin oraș.",
+            "en": "The car tour begins with views of the rough seas at East Hoyle Bank. At midday, we enjoy the Grange Hill panorama from the comfort of our dry vehicle. In the afternoon, we visit the church and Marine Lake, making use of the short walks from nearby parking spots. The evening ends cozily as rain drums against the windshield while we drive safely through town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "East Hoyle Bank",
+                "hu": "East Hoyle homokpad",
+                "ro": "Bancul de nisip East Hoyle",
+                "en": "East Hoyle Bank"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer direkt von Ihrem Parkplatz aus; ein Fernglas hilft, die Vögel im Regen besser zu erkennen.",
+                "hu": "Figyelje a viharos tengert közvetlenül a parkolóból; egy távcső sokat segít, hogy esőben is jobban lássa a vízimadarakat.",
+                "ro": "Observă marea înfuriată direct din parcare; un binoclu te va ajuta să vezi mai bine păsările marine chiar și pe ploaie.",
+                "en": "Watch the stormy sea directly from your parking spot; binoculars will help you see the seabirds better through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grange Hill",
+                "hu": "Grange Hill",
+                "ro": "Dealul Grange",
+                "en": "Grange Hill"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet auch bei Regen spektakuläre Wolkenformationen über der Küste; bleiben Sie für Fotos kurz im Auto.",
+                "hu": "A kilátópont esőben is látványos felhőformációkat kínál a part felett; maradjon az autóban a legjobb fotók elkészítéséig.",
+                "ro": "Punctul de belvedere oferă formațiuni de nori spectaculoase deasupra coastei; rămâi în mașină pentru a face fotografii reușite.",
+                "en": "The viewpoint offers spectacular cloud formations over the coast even in rain; stay in the car to capture the best photos."
+              }
+            },
+            {
+              "name": {
+                "de": "St Bridget's Church",
+                "hu": "Szent Brigitta templom",
+                "ro": "Biserica Sfânta Bridget",
+                "en": "St Bridget's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe, um mit minimalem Aufwand ins trockene und historisch beeindruckende Kircheninnere zu gelangen.",
+                "hu": "Használja a közeli parkolási lehetőségeket, hogy minimális ázással juthasson be a száraz és történelmileg lenyűgöző templomba.",
+                "ro": "Folosește locurile de parcare din apropiere pentru a ajunge cu un efort minim în interiorul bisericii, uscat și impresionant.",
+                "en": "Use the nearby parking facilities to reach the dry and historically impressive church interior with minimal exposure to rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Caldy Hill",
+                "hu": "Caldy Hill",
+                "ro": "Dealul Caldy",
+                "en": "Caldy Hill"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie oben am Hügel für einen schnellen Blick auf die Mündung; die Wege zum Denkmal können bei Nässe recht rutschig sein.",
+                "hu": "Parkoljon a dombtetőn a torkolatra nyíló gyors kilátásért; az emlékműhöz vezető ösvények vizesen meglehetősen csúszósak lehetnek.",
+                "ro": "Parchează în vârful dealului pentru o vedere rapidă asupra estuarului; potecile spre monument pot fi destul de alunecoase acum.",
+                "en": "Park at the top of the hill for a quick view of the estuary; the paths to the monument can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Tengeri Tó",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Die Promenade ermöglicht es, das Ufer zu genießen, während Sie jederzeit schnell ins schützende Auto zurückkehren können.",
+                "hu": "A sétány lehetővé teszi a tópart élvezetét, miközben bármikor gyorsan visszatérhet a védelmet nyújtó autóba a záporok elől.",
+                "ro": "Promenada îți permite să te bucuri de malul lacului, având posibilitatea de a reveni rapid în mașină dacă ploaia se întețește.",
+                "en": "The promenade allows you to enjoy the lakeside while being able to return quickly to the safety of your car if rain intensifies."
+              }
+            },
+            {
+              "name": {
+                "de": "Red Rocks Nature Reserve",
+                "hu": "Vörös Sziklák Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Red Rocks",
+                "en": "Red Rocks Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Der Sand kann bei Regen schwer zu befahren sein; parken Sie auf befestigtem Untergrund und genießen Sie die Aussicht von dort.",
+                "hu": "A vizes homokon nehéz lehet a közlekedés; parkoljon a szilárd burkolatú részeken, és onnan csodálja a természetvédelmi területet.",
+                "ro": "Nisipul ud poate fi greu de parcurs; parchează pe suprafețele solide și admiră rezervația naturală direct de acolo.",
+                "en": "Wet sand can be difficult to navigate; park on solid surfaces and enjoy the views of the nature reserve from a safe distance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der East Hoyle Bank. Die Fahrt zum Grange Hill bietet weite Panoramablicke bei kühlen Temperaturen. Mittags besuchen wir die St. Bridget's Church und Caldy Hill, wo die tiefstehende Sonne die Landschaft verzaubert. Den Nachmittag verbringen wir am Marine Lake, bevor wir pünktlich zum Sonnenuntergang um 17:00 Uhr das Red Rocks Reservat erreichen und den Tag im Warmen beenden.",
+            "hu": "Tiszta téli reggel indul az East Hoyle homokpadnál. A Grange Hill felé tartó út messzire nyúló panorámát kínál a hűvös időben. Délben meglátogatjuk a Szent Brigitta templomot és a Caldy Hillt, ahol az alacsonyan járó nap fénye különlegessé teszi a tájat. A délutánt a tengeri tónál töltjük, majd 17:00-kor, naplementekor érjük el a Red Rocks területét, végül meleg helyre vonulunk.",
+            "ro": "O dimineață senină de iarnă începe la bancul de nisip East Hoyle. Drumul spre Grange Hill oferă panorame vaste în aerul rece. La prânz vizităm Biserica Sf. Bridget și Dealul Caldy, unde soarele blând transformă peisajul. După-amiaza o petrecem la lacul marin, ajungând la Red Rocks exact la apusul de la ora 17:00, înainte de a ne retrage la căldură.",
+            "en": "A clear winter morning starts at East Hoyle Bank. The drive to Grange Hill offers vast panoramic views in the crisp air. At midday, we visit St Bridget's Church and Caldy Hill, where the low sun enchants the landscape. We spend the afternoon at the Marine Lake, reaching Red Rocks just in time for the 17:00 sunset before retreating to a warm place for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "East Hoyle Bank",
+                "hu": "East Hoyle homokpad",
+                "ro": "Bancul de nisip East Hoyle",
+                "en": "East Hoyle Bank"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Standheizung Ihres Autos, während Sie die frostige Schönheit der Küste und die winterlichen Seevögel beobachten.",
+                "hu": "Használja az autó fűtését, miközben a tengerpart fagyos szépségét és a telelő tengeri madarakat figyeli a szélvédő mögül.",
+                "ro": "Folosește încălzirea mașinii în timp ce admiri frumusețea înghețată a coastei și păsările marine care iernează aici.",
+                "en": "Make use of your car's heater while watching the frosty beauty of the coast and the wintering seabirds from your window."
+              }
+            },
+            {
+              "name": {
+                "de": "Grange Hill",
+                "hu": "Grange Hill",
+                "ro": "Dealul Grange",
+                "en": "Grange Hill"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft hervorragend; parken Sie so, dass Sie das Panorama direkt durch die Frontscheibe genießen können.",
+                "hu": "A látótávolság télen gyakran kiváló; parkoljon úgy, hogy a panorámát közvetlenül az autó első szélvédőjén keresztül élvezhesse.",
+                "ro": "Vizibilitatea la distanță este adesea excelentă iarna; parchează astfel încât să poți admira panorama direct prin parbriz.",
+                "en": "Visibility is often excellent in winter; park your car so you can enjoy the panoramic views directly through the front windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "St Bridget's Church",
+                "hu": "Szent Brigitta templom",
+                "ro": "Biserica Sfânta Bridget",
+                "en": "St Bridget's Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den alten Friedhof; der Raureif auf den historischen Grabsteinen bietet im Morgenlicht ein mystisches Fotomotiv.",
+                "hu": "Látogasson el a régi temetőbe; a történelmi sírköveken megülő zúzmara a reggeli fényben misztikus fotótémát szolgáltat.",
+                "ro": "Vizitează vechiul cimitir; promoroaca de pe pietrele funerare istorice oferă un subiect foto mistic în lumina dimineții.",
+                "en": "Visit the old graveyard; the frost on the historic headstones provides a mystical photo subject in the crisp morning light."
+              }
+            },
+            {
+              "name": {
+                "de": "Caldy Hill",
+                "hu": "Caldy Hill",
+                "ro": "Dealul Caldy",
+                "en": "Caldy Hill"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz; die Wege sind kurz, aber bei Frost können die Steine sehr rutschig sein.",
+                "hu": "Ügyeljen a jegesedésre a parkolóban; az ösvények rövidek, de fagyos időben a kövek nagyon csúszósak lehetnek.",
+                "ro": "Atenție la polei în parcare; potecile sunt scurte, dar în condiții de îngheț, pietrele pot deveni extrem de alunecoase.",
+                "en": "Watch out for black ice in the parking area; the paths are short, but in freezing conditions, the stones can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Marine Lake",
+                "hu": "Tengeri Tó",
+                "ro": "Lacul Marin",
+                "en": "Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter weicher und ideal für Landschaftsaufnahmen direkt vom befestigten Uferweg aus.",
+                "hu": "A délutáni fények télen lágyabbak és ideálisak tájképek készítéséhez közvetlenül a tóparti szilárd burkolatú sétányról.",
+                "ro": "Lumina de după-amiază este mai blândă iarna și ideală pentru fotografii de peisaj direct de pe faleza pavată a lacului.",
+                "en": "The afternoon light is softer in winter and ideal for landscape photography directly from the paved lakeside promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Red Rocks Nature Reserve",
+                "hu": "Vörös Sziklák Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Red Rocks",
+                "en": "Red Rocks Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:45 Uhr an, um den Sonnenuntergang zu erleben; die Temperaturen fallen danach rapide ab, sobald das Licht schwindet.",
+                "hu": "Érkezzen meg 16:45 előtt a naplemente megtekintéséhez; a hőmérséklet a fények eltűnése után hirtelen és jelentősen csökkenni fog.",
+                "ro": "Sosește înainte de 16:45 pentru a prinde apusul; temperaturile scad rapid imediat ce lumina soarelui dispare la orizont.",
+                "en": "Arrive before 16:45 to catch the sunset; temperatures will drop rapidly and significantly as soon as the sunlight fades away."
+              }
+            }
+          ]
+        }
       }
     }
   }

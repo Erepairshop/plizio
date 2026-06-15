@@ -137,6 +137,168 @@
         "hu": "A séta frissítő indulással kezdődik a városi medencénél. Ezt követően Mogadouro történelmi szívébe érünk, ahol a fenséges Castelo emelkedik. A Régészeti Múzeumban mélyen elmerülhet a helyi múltban. Egy rövid megálló az olvasó lány szobránál tökéletes átvezetés. A napot a Művészetek és Mesterségek Házában, a kreativitás központjában zárjuk.",
         "ro": "Turul începe revigorant la piscina municipală. Traseul vă duce apoi în inima istorică a orașului Mogadouro, unde se înalță castelul maiestuos. La Muzeul de Arheologie vă veți scufunda adânc în istorie. O scurtă oprire la statuia fetei care citește adaugă un farmec aparte. Ziua se încheie la Casa Artelor, un adevărat centru al creativității locale.",
         "en": "The walk starts refreshingly at the municipal pool. The route then leads into the historic heart of Mogadouro, where the majestic Castle stands tall. In the Archaeological Museum, you will dive deep into local history. A brief stop at the charming reading girl statue guides your way. The day concludes at the House of Arts, a vibrant center of creativity."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen im Hallenbad, das perfekten Schutz bietet. Mittags am Schloss sind die alten Steine rutschig; Vorsicht unter dem Regenschirm. Nachmittags bieten das Archäologiemuseum und das Haus der Künste trockene Zufluchtsorte vor den Schauern. Am Abend spiegeln sich die Lichter der Stadt auf dem nassen Asphalt und sorgen für einen stimmungsvollen Ausklang des Tages.",
+            "hu": "Reggel az uszodában kezdünk, ahol a fedett medence nyújt menedéket. Délben a vár csúszós kövein óvatosan lépkedjünk az esernyő alatt. Délután a múzeumok és a művészetek háza tökéletes száraz programot kínálnak a záporok elől. Estére a városka fényei tükröződnek a vizes aszfalton, kellemes lezárást adva a napnak a borús idő ellenére is.",
+            "ro": "O dimineață ploioasă la piscină, unde interiorul oferă adăpostul perfect. La prânz, la castel, pietrele vechi sunt alunecoase; atenție sporită sub umbrelă. După-amiaza, muzeele și casa artelor sunt refugii ideale împotriva averselor. Seara, luminile orașului se reflectă în asfaltul umed, oferind un final de zi atmosferic chiar și pe vreme închisă.",
+            "en": "A rainy morning starts at the pool, offering perfect indoor shelter. At noon, be careful on the castle's slippery stones under your umbrella. Afternoon museum visits provide a dry escape from the showers. By evening, the city lights reflect beautifully on the wet pavement, concluding the day with a cozy atmosphere despite the clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina Municipal de Mogadouro",
+                "hu": "Piscina Municipal de Mogadouro",
+                "ro": "Piscina Municipal de Mogadouro",
+                "en": "Piscina Municipal de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Das Hallenbad ist ein idealer Zufluchtsort bei Regen; achten Sie auf den nassen Boden im Eingangsbereich und bringen Sie rutschfeste Badeschuhe mit.",
+                "hu": "A fedett uszoda kiváló menedék esőben, a belső térben meleg van, de a kijáratnál vigyázzon a hideg huzatra és a vizes, csúszós padlóra.",
+                "ro": "Piscina interioară este un refugiu excelent pe ploaie; aveți grijă la podeaua umedă din zona de intrare și folosiți încălțăminte antiderapantă.",
+                "en": "The indoor pool is a great refuge from rain; the interior is warm, but watch out for wet, slippery floors and cold drafts near the exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Mogadouro",
+                "hu": "Castelo de Mogadouro",
+                "ro": "Castelo de Mogadouro",
+                "en": "Castelo de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Die Burgsteine sind bei Regen sehr rutschig; bewegen Sie sich vorsichtig und nutzen Sie die Torbögen als Schutz vor plötzlichen Regengüssen.",
+                "hu": "A várfalak kövei esőben rendkívül csúszósak, ezért óvatosan közlekedjen; a bástyák alatti boltívek jó menedéket nyújtanak a hirtelen záporok elől.",
+                "ro": "Pietrele castelului sunt foarte alunecoase pe ploaie; mergeți cu atenție și folosiți arcadele turnurilor ca adăpost împotriva averselor bruște.",
+                "en": "The castle stones are very slippery in the rain; walk carefully and use the arched gateways of the towers as shelter from sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Museu de Arqueologia de Mogadouro",
+                "hu": "Sala Museu de Arqueologia de Mogadouro",
+                "ro": "Sala Museu de Arqueologia de Mogadouro",
+                "en": "Sala Museu de Arqueologia de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Ort, um trocken zu bleiben; während Sie die archäologischen Funde bestaunen, kann Ihre Kleidung draußen abtrocknen.",
+                "hu": "A múzeum tárlatai között sétálva teljesen elfelejtheti a kinti felhőszakadást; a régészeti leletek megtekintése közben tökéletesen megszáradhat.",
+                "ro": "Muzeul este locul perfect pentru a rămâne uscat; în timp ce admirați exponatele arheologice, hainele dumneavoastră se pot usca în liniște.",
+                "en": "The museum is the perfect place to stay dry; while admiring the archaeological artifacts, you can fully escape and dry off from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Menina a ler",
+                "hu": "Menina a ler",
+                "ro": "Menina a ler",
+                "en": "Menina a ler"
+              },
+              "tip_5lang": {
+                "de": "Ein schnelles Foto mit dem Regenschirm ist möglich, aber halten Sie Ihre Kamera geschützt, da der Platz wenig natürlichen Schutz bietet.",
+                "hu": "Egy gyors fotó a szobornál esernyővel is emlékezetes, de ügyeljen a táskájára, hogy ne ázzon el a várakozás közben a nyitott téren.",
+                "ro": "O fotografie rapidă cu umbrela este posibilă, dar protejați-vă aparatul foto, deoarece piața oferă puțin adăpost natural împotriva ploii.",
+                "en": "A quick photo with an umbrella is memorable, but keep your camera or bag protected as the open square offers little natural shelter from rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa das Artes e Ofícios",
+                "hu": "Casa das Artes e Ofícios",
+                "ro": "Casa das Artes e Ofícios",
+                "en": "Casa das Artes e Ofícios"
+              },
+              "tip_5lang": {
+                "de": "Das Haus des Handwerks ist ein gemütlicher Abschluss bei schlechtem Wetter; genießen Sie die lokale Kunst in der Wärme des Innenraums.",
+                "hu": "A kézműves ház barátságos belső terei ideálisak a nap zárására, amikor kint esik; a helyi alkotások megtekintése közben nem érheti víz.",
+                "ro": "Casa meșteșugurilor este un final primitor pentru o zi ploioasă; bucurați-vă de arta locală în interiorul cald și ferit de umezeală.",
+                "en": "The house of crafts is a cozy conclusion to a rainy day; enjoy local artworks in the warm interior while staying completely dry from the weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen, an dem das warme Wasser des Schwimmbads lockt. Mittags bietet die Burg klare Aussichten, aber der Wind ist eisig; Schal nicht vergessen. Nachmittags wärmen wir uns in den Museen auf und entdecken lokale Schätze. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir das Haus der Künste noch bei Tageslicht.",
+            "hu": "Hideg téli reggel, az uszoda vize kellemes felfrissülést nyújt. Délben a várfalakról tiszta, de metsző szélben csodálhatjuk a tájat. Délután a múzeumi kiállítások melegében tölthetjük az időt, elkerülve a fagyot. Mivel a nap korán, 17:00 körül lebukik, a művészetek házát még világosban érdemes meglátogatni.",
+            "ro": "O dimineață geroasă de iarnă, unde apa caldă a piscinei este o plăcere. La prânz, castelul oferă vederi clare, dar vântul este tăios; nu uitați fularul. După-amiaza, ne încălzim în muzee explorând istoria locală. Deoarece soarele apune devreme, în jur de ora 17:00, vizităm casa artelor cât încă este lumină.",
+            "en": "A crisp winter morning where the pool's warmth is most welcome. At noon, the castle offers clear but chilly views; a warm scarf is essential. Spend the afternoon in the warmth of museums, avoiding the frost. Since the sun sets early around 17:00, finish the arts house visit while it's still light outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina Municipal de Mogadouro",
+                "hu": "Piscina Municipal de Mogadouro",
+                "ro": "Piscina Municipal de Mogadouro",
+                "en": "Piscina Municipal de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Schwimmbecken wärmt Sie am kalten Morgen auf; trocknen Sie Ihr Haar gut ab, bevor Sie in die frostige Winterluft hinausgehen.",
+                "hu": "A fűtött medence és a gőzfürdő segít átmelegíteni a testét a hideg reggelen; ne felejtse el hajat szárítani, mielőtt kilép a fagyos téli levegőre.",
+                "ro": "Piscina încălzită vă va încălzi în dimineața rece; nu uitați să vă uscați bine părul înainte de a ieși în aerul înghețat de iarnă.",
+                "en": "The heated pool and steam bath will help warm your body on a cold morning; remember to dry your hair thoroughly before stepping out into the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Mogadouro",
+                "hu": "Castelo de Mogadouro",
+                "ro": "Castelo de Mogadouro",
+                "en": "Castelo de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht bietet ein tolles Panorama, aber der Wind auf den Mauern ist stark; tragen Sie eine dicke Mütze und einen warmen Schal.",
+                "hu": "A téli napfényben a várfalakról belátni az egész vidéket, de a magasan fekvő bástyákon a szél sokkal erősebb, így egy vastag sál és sapka kötelező.",
+                "ro": "Lumina clară de iarnă oferă o panoramă superbă de pe ziduri, dar vântul este mult mai puternic la înălțime; purtați un fular și o căciulă groasă.",
+                "en": "The clear winter sun allows for vast views from the walls, but the wind on the high bastions is much stronger, so a thick scarf and hat are mandatory."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Museu de Arqueologia de Mogadouro",
+                "hu": "Sala Museu de Arqueologia de Mogadouro",
+                "ro": "Sala Museu de Arqueologia de Mogadouro",
+                "en": "Sala Museu de Arqueologia de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Museumsräume sind ein idealer Ort, um der Winterkälte zu entfliehen und in die römische Geschichte der Region einzutauchen.",
+                "hu": "A múzeumi termek kellemes hőmérséklete segít kipihenni a városi séta hidegét; csodálja meg a római kori emlékeket a fűtött falak biztonságában.",
+                "ro": "Sălile încălzite ale muzeului sunt ideale pentru a scăpa de frigul iernii în timp ce admirați vestigiile romane în siguranța zidurilor calde.",
+                "en": "The pleasant temperature of the museum rooms helps you recover from the cold city walk; admire Roman relics in the safety of heated indoor walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Menina a ler",
+                "hu": "Menina a ler",
+                "ro": "Menina a ler",
+                "en": "Menina a ler"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft am Nachmittag lange Schatten auf die Statue; kommen Sie vor 16:30 Uhr, da es danach schnell dunkel und kälter wird.",
+                "hu": "A téli délutáni napfényben a szobor különleges árnyékot vet; érkezzen korán, mert 17 óra után a sötétben már nehezebb jó felvételt készíteni.",
+                "ro": "Soarele de iarnă aruncă umbre lungi peste statuie după-amiaza; veniți înainte de ora 16:30, deoarece după aceea se întunecă și se răcește brusc.",
+                "en": "The winter afternoon sun casts unique shadows on the statue; arrive early, as it gets difficult to take good photos in the dark after 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa das Artes e Ofícios",
+                "hu": "Casa das Artes e Ofícios",
+                "ro": "Casa das Artes e Ofícios",
+                "en": "Casa das Artes e Ofícios"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Zentrum für lokales Kunsthandwerk, um sich vor dem Abendfrost aufzuwärmen; die warme Atmosphäre ist der perfekte Tagesausklang.",
+                "hu": "A helyi művészek munkáit bemutató házban mindig meleg fogadtatás várja; a délutáni hideg elől ez az utolsó tökéletes fedett állomás a napon.",
+                "ro": "Vizitați acest centru de meșteșuguri pentru a vă încălzi înainte de gerul serii; atmosfera caldă este finalul perfect pentru această zi de iarnă.",
+                "en": "Visit this local craft center to warm up before the evening frost; the welcoming atmosphere is the perfect final indoor stop for your winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája a központban kezdődik az olvasó szobornál, majd a Művészetek Házához vezet. Ezt követően felfedezi a Régészeti Múzeumot és a Castelo lenyűgöző romjait. Az útvonal ezután kivezet az olívaolaj emlékműhöz. Kora délután elteker a Porta da Frágua különleges sziklaalakzatához, ahol megtapasztalhatja a természet igazi varázsát.",
         "ro": "Turul pe bicicletă începe relaxant în centru, lângă statuia fetei, și duce spre Casa Artelor. Apoi explorați Muzeul de Arheologie și ruinele impresionante ale castelului. Traseul vă scoate apoi din centru spre monumentul uleiului de măsline. După-amiaza veți pedala până la Porta da Frágua, un monument natural cu adevărat magic și spectaculos.",
         "en": "Your bike tour begins comfortably in the center near the reading statue, leading directly to the House of Arts. Next, you explore the Archaeological Museum and the impressive Castle ruins. The route then takes you out of the core to the olive oil roundabout. In the afternoon, you cycle out to Porta da Frágua, experiencing a truly magical natural rock monument."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start bei den Denkmälern der Stadt, wobei wir besonders auf nasse Kurven achten. Mittags bieten das Haus des Handwerks und das Museum trockene Pausen für Radfahrer. Nachmittags geht es zur Burg, wo Schlamm und rutschige Anstiege das Vorankommen erschweren können. Kehren Sie am Abend rechtzeitig zurück, bevor die Sicht bei stärkerem Regen stark abnimmt.",
+            "hu": "Reggel a város jelképeinél kezdünk, figyelve a vizes útviszonyokra. Délben a kézműves ház és a múzeum kínál száraz pihenőt a kerékpárosoknak. Délután a vár felé vesszük az irányt, ahol a sár és a csúszós emelkedők nehezíthetik a haladást. Estére a távoli természeti pontok felkeresése után érdemes visszatérni, mielőtt az intenzívebb eső eleredne.",
+            "ro": "Începem dimineața la monumentele orașului, cu mare atenție la curbele umede. La prânz, casa meșteșugurilor și muzeul oferă pauze uscate pentru bicicliști. După-amiaza ne îndreptăm spre castel, unde noroiul și urcările alunecoase pot îngreuna înaintarea. Seara, reveniți înainte ca ploaia intensă să reducă semnificativ vizibilitatea.",
+            "en": "The morning starts at the city landmarks, with careful attention to wet road conditions. At noon, the craft house and museum offer dry breaks for cyclists. In the afternoon, head towards the castle, where mud and slippery climbs might challenge your progress. Return by evening before the heavier rain starts and visibility decreases."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menina a ler",
+                "hu": "Menina a ler",
+                "ro": "Menina a ler",
+                "en": "Menina a ler"
+              },
+              "tip_5lang": {
+                "de": "Der Asphalt um die Statue wird bei Regen rutschig; achten Sie beim Anhalten und Anfahren besonders auf die Bodenhaftung Ihrer Reifen.",
+                "hu": "A köztéri szobor körüli aszfalt esőben csúszóssá válik, így a megállásnál és indulásnál figyeljen a kerekek tapadására a vizes felületen.",
+                "ro": "Asfaltul din jurul statuii devine alunecos pe ploaie; aveți grijă la aderența anvelopelor atunci când opriți sau porniți de pe loc.",
+                "en": "The asphalt around the statue becomes slippery in the rain; pay extra attention to your tire grip when stopping or starting on the wet surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa das Artes e Ofícios",
+                "hu": "Casa das Artes e Ofícios",
+                "ro": "Casa das Artes e Ofícios",
+                "en": "Casa das Artes e Ofícios"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter das Vordach, während Sie das Innere besichtigen; das Museum bietet einen trockenen Ort für Ausrüstung und Kleidung.",
+                "hu": "A kerékpárt érdemes az eresz alá támasztani, amíg bent nézelődik; a múzeum belseje száraz helyet biztosít a felszerelés és a ruházat számára.",
+                "ro": "Sprijiniți bicicleta sub streașină în timp ce vizitați interiorul; muzeul oferă un spațiu uscat pentru echipamentul și hainele dumneavoastră.",
+                "en": "Park your bike under the eaves while exploring inside; the museum interior provides a dry place for your gear and clothing to recover from rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Museu de Arqueologia de Mogadouro",
+                "hu": "Sala Museu de Arqueologia de Mogadouro",
+                "ro": "Sala Museu de Arqueologia de Mogadouro",
+                "en": "Sala Museu de Arqueologia de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit für die Ausstellung, bis der Schauer vorbeizieht; im Gebäude sind Sie sicher vor Blitzen und starkem Wind geschützt.",
+                "hu": "Használja ki az időt a kiállítás megtekintésére, amíg eláll a zápor; a fedett épületben biztonságban tudhatja magát a villámlások és a szél elől.",
+                "ro": "Folosiți timpul pentru a vizita expoziția până trece aversa; în clădire sunteți în siguranță față de descărcările electrice și vântul puternic.",
+                "en": "Use the time to view the exhibition until the shower passes; inside the covered building, you are safe from lightning and strong wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Mogadouro",
+                "hu": "Castelo de Mogadouro",
+                "ro": "Castelo de Mogadouro",
+                "en": "Castelo de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Burg ist bei Regen mühsamer; halten Sie bei der Abfahrt mehr Abstand, da die Bremsen auf nassen Straßen langsamer greifen.",
+                "hu": "A várhoz vezető emelkedő esőben nehezebb, a lejtőn pedig a fékek lassabban fognak; tartson nagyobb követési távolságot a vizes, sáros útszakaszokon.",
+                "ro": "Urcarea spre castel este mai grea pe ploaie; la coborâre, păstrați o distanță mai mare, deoarece frânele acționează mai lent pe drumul ud.",
+                "en": "The climb to the castle is harder in the rain; keep a longer following distance on descents as brakes respond slower on wet and muddy roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Rotunda do lagar",
+                "hu": "Rotunda do lagar",
+                "ro": "Rotunda do lagar",
+                "en": "Rotunda do lagar"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht am Kreisverkehr ist durch Spritzwasser eingeschränkt; tragen Sie eine reflektierende Regenjacke, damit Autofahrer Sie rechtzeitig sehen.",
+                "hu": "A körforgalomnál a forgalom és a vízpermet miatt csökken a látótávolság; viseljen fényvisszaverő esőkabátot, hogy az autósok időben észrevegyék.",
+                "ro": "Vizibilitatea la sensul giratoriu este redusă de apa pulverizată; purtați o pelerină reflectorizantă pentru ca șoferii să vă observe la timp.",
+                "en": "Visibility at the roundabout is reduced by traffic spray; wear a reflective raincoat so that drivers can spot you in time during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta da Frágua",
+                "hu": "Porta da Frágua",
+                "ro": "Porta da Frágua",
+                "en": "Porta da Frágua"
+              },
+              "tip_5lang": {
+                "de": "Die Natur ist bei Regen beeindruckend, aber die Wege werden sehr klebrig; befahren Sie diesen Abschnitt nur mit geländetauglichen Reifen.",
+                "hu": "A természeti látnivaló esőben is lenyűgöző, de a sziklák és ösvények sárga földje ragadóssá válik; csak terepbiztos gumikkal vágjon neki az útnak.",
+                "ro": "Peisajul natural este impresionant pe ploaie, dar potecile devin noroioase și lipicioase; porniți la drum doar cu anvelope adecvate pentru teren.",
+                "en": "The natural site is stunning in the rain, but the yellow soil of the paths becomes very sticky; only attempt this route with off-road tires."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei kaltem Wind startet die Tour an den Statuen der Stadt. Mittags können sich die Gliedmaßen in den Museen wieder aufwärmen. Nachmittags entschädigt das Burgpanorama für die frostige Luft, aber Schichtenkleidung ist ein Muss. Da es um 17 Uhr dunkel wird, besuchen Sie die Porta da Frágua noch bei Tageslicht und kehren Sie vor Sonnenuntergang zurück.",
+            "hu": "A hideg reggeli szélben indul a tekerés a városi szobroktól. Délben a múzeumi megállók alatt az átfagyott végtagok újra felmelegedhetnek. Délután a vár panorámája kárpótol a fagyos levegőért, de a réteges öltözet elengedhetetlen. Mivel ötkor már sötétedik, a Porta da Frágua szikláit még világosban látogassuk meg.",
+            "ro": "Dimineața rece începe cu o tură pe la statuile orașului. La prânz, vizitele la muzee permit picioarelor înghețate să se încălzească. După-amiaza, panorama castelului compensează aerul geruiesc, dar îmbrăcămintea stratificată este vitală. Deoarece se întunecă la ora 17, vizitați Porta da Frágua pe lumină.",
+            "en": "Cycling starts in the cold morning wind from the city statues. At noon, the museum stops allow frozen limbs to warm up again. In the afternoon, the castle panorama compensates for the frosty air, but layered clothing is essential. Since it gets dark at 17:00, visit the Porta da Frágua rocks in daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menina a ler",
+                "hu": "Menina a ler",
+                "ro": "Menina a ler",
+                "en": "Menina a ler"
+              },
+              "tip_5lang": {
+                "de": "Durch den morgendlichen Frost kann der Belag um die Statue vereist sein; fahren Sie langsam und vermeiden Sie plötzliche Kurvenmanöver.",
+                "hu": "A reggeli fagy miatt a szobor körüli burkolat jeges lehet; tekerjen lassabban és kerülje a hirtelen kanyarodást a csúszós reggeli órákban.",
+                "ro": "Din cauza înghețului de dimineață, pavajul din jurul statuii poate fi alunecos; pedalați mai încet și evitați virajele bruște în primele ore.",
+                "en": "Morning frost may make the surface around the statue icy; cycle slower and avoid sharp turns during the slippery early morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa das Artes e Ofícios",
+                "hu": "Casa das Artes e Ofícios",
+                "ro": "Casa das Artes e Ofícios",
+                "en": "Casa das Artes e Ofícios"
+              },
+              "tip_5lang": {
+                "de": "In den beheizten Innenräumen können Hände und Füße wieder warm werden; während der Besichtigung können auch Ihre Radschuhe etwas trocknen.",
+                "hu": "A fűtött belső térben a kezei és lábai újra felmelegedhetnek a hideg menet után; a kiállítás megtekintése alatt a kerékpáros cipő is megszáradhat.",
+                "ro": "În interiorul încălzit, mâinile și picioarele se pot reîncălzi după drumul rece; în timpul vizitei, încălțămintea de ciclism se poate usca puțin.",
+                "en": "Hands and feet can warm up again in the heated interior after the cold ride; cycling shoes can also dry off while you view the exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala Museu de Arqueologia de Mogadouro",
+                "hu": "Sala Museu de Arqueologia de Mogadouro",
+                "ro": "Sala Museu de Arqueologia de Mogadouro",
+                "en": "Sala Museu de Arqueologia de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Die Museumsmauern schützen vor schneidendem Winterwind; nutzen Sie die Pause, um Ihre Kleidung für den nächsten kalten Abschnitt zu richten.",
+                "hu": "A múzeum falai között védve van a metsző téli széltől; használja ki a pihenőt a réteges öltözet igazítására a következő hideg szakasz előtt.",
+                "ro": "Zidurile muzeului vă protejează de vântul tăios de iarnă; folosiți pauza pentru a vă ajusta hainele înainte de următoarea etapă rece.",
+                "en": "The museum walls protect you from the biting winter wind; use the break to adjust your layered clothing before the next cold segment of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Mogadouro",
+                "hu": "Castelo de Mogadouro",
+                "ro": "Castelo de Mogadouro",
+                "en": "Castelo de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Bei klarer Winterluft reicht das Panorama weiter als im Sommer, aber oben ist es kälter; vergessen Sie Ihre warmen Handschuhe nicht.",
+                "hu": "A tiszta téli levegőben a panoráma messzebbre nyúlik, mint nyáron, de a hegytetőn a hőmérséklet jóval alacsonyabb; ne felejtse el a meleg kesztyűt.",
+                "ro": "În aerul curat de iarnă, panorama se întinde mai departe decât vara, dar sus este mult mai frig; nu uitați mănușile groase pentru coborâre.",
+                "en": "In the clear winter air, the panorama stretches further than in summer, but the hilltop temperature is lower; don't forget your warm gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Rotunda do lagar",
+                "hu": "Rotunda do lagar",
+                "ro": "Rotunda do lagar",
+                "en": "Rotunda do lagar"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung beginnt früh nach 16 Uhr; prüfen Sie Ihre Fahrradbeleuchtung, um bei Einbruch der Dunkelheit sicher zurückzukehren.",
+                "hu": "A téli alkonyat korán, már délután négy után elkezdődik; ellenőrizze a kerékpáros lámpák töltöttségét, hogy biztonságban érjen vissza sötétedéskor.",
+                "ro": "Amurgul de iarnă începe devreme, după ora 16; verificați bateriile luminilor de bicicletă pentru a reveni în siguranță odată cu lăsarea întunericului.",
+                "en": "Winter dusk begins early, already after 16:00; check your bike light batteries to ensure a safe return as darkness sets in quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta da Frágua",
+                "hu": "Porta da Frágua",
+                "ro": "Porta da Frágua",
+                "en": "Porta da Frágua"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Landschaft ist bezaubernd, aber die Temperatur sinkt nach Sonnenuntergang rapide; planen Sie, bis 17 Uhr im Warmen zu sein.",
+                "hu": "A zúzmarás táj varázslatos látványt nyújt, de a naplemente után a hőmérséklet hirtelen zuhan; tervezze úgy, hogy ötre már fedett helyen legyen.",
+                "ro": "Peisajul înghețat oferă o priveliște magică, dar temperatura scade brusc după apus; planificați să fiți la adăpost până la ora 17:00.",
+                "en": "The frost-covered landscape is magical, but temperatures drop rapidly after sunset; plan to be back in a sheltered area by 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autós túra a mogadourói Castelo felfedezésével indul. Egy rövid utazás után megérkezik a békés Albufeira de Bastelo víztározóhoz. Később megcsodálhatja a lenyűgöző Porta da Frágua sziklakaput, mielőtt a hegyekbe hajtana. A Figueira régió vad természete várja, a csúcspont pedig a híres hegyi hinta, amelyről fenséges panoráma nyílik a völgyre.",
         "ro": "Excursia cu mașina începe istoric la Castelul Mogadouro. O scurtă călătorie vă duce în natura pașnică de la Albufeira de Bastelo. Mai târziu admirați impresionanta Porta da Frágua înainte de a conduce spre munți. În regiunea Figueira vă așteaptă o natură sălbatică, culminând cu leagănul panoramic de unde veți admira întreaga vale maiestuoasă.",
         "en": "The road trip kicks off historically at the Castle of Mogadouro. A brief drive transports you to the peaceful surroundings of Albufeira de Bastelo. Later, you admire the imposing Porta da Frágua before driving into the mountains. In the Figueira region, wild nature awaits, culminating in a swing high above the valley for a spectacular panoramic conclusion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden wir die Burg bequem mit dem Auto und Regenschirm. Mittags wirken der Stausee und die Felsen bei Regen besonders mystisch. Nachmittags genießen wir die Fahrt durch Dörfer aus dem warmen Innenraum. Am Abend schließen die Wolkenspiele an den Aussichtspunkten den Tag ab; das Auto schützt uns während der gesamten Fahrt vor Wind und Nässe.",
+            "hu": "Reggel kényelmesen, az autóból indulunk a vár felfedezésére esernyővel. Délben a víztározó és a sziklák látványa ködös, misztikus hangulatot áraszt a záporok idején. Délután a közeli falvakon át élvezhetjük a tájat a fűtött utastérből. Estére a hegyi kilátópontoknál a felhők játéka zárja a napot az autó biztonságában.",
+            "ro": "Dimineața explorăm castelul confortabil din mașină, cu umbrela la îndemână. La prânz, lacul de acumulare și stâncile au o aură mistică pe ploaie. După-amiaza ne bucurăm de satele din jur din interiorul cald. Seara, jocurile de nori la punctele de belvedere încheie ziua; mașina vă protejează de vânt și ploaie tot drumul.",
+            "en": "The morning starts comfortably from the car as we explore the castle with an umbrella. At noon, the reservoir and rocks offer a misty, mystical atmosphere during showers. In the afternoon, enjoy the scenery through nearby villages from the heated cabin. By evening, cloud formations at the viewpoints close the day, while the car keeps you dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castelo de Mogadouro",
+                "hu": "Castelo de Mogadouro",
+                "ro": "Castelo de Mogadouro",
+                "en": "Castelo de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nicht nass zu werden; im Burghof kann der Wind die Nutzung von Regenschirmen auf offenen Flächen erschweren.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az ázást; a várudvaron az esernyő használata a szél miatt nehézkes lehet a nyitott részeken.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; în curtea castelului, vântul poate îngreuna folosirea umbrelei în zonele deschise.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; using an umbrella in the open castle courtyard can be difficult due to strong winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira de Bastelo",
+                "hu": "Albufeira de Bastelo",
+                "ro": "Albufeira de Bastelo",
+                "en": "Albufeira de Bastelo"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum Stausee kann bei Regen neblig sein, fahren Sie vorsichtig; der Anblick des Sees mit grauen Wolken ist sehr dramatisch und fotogen.",
+                "hu": "Az út a víztározóhoz esőben ködös lehet, ezért vezessen óvatosan; a tóparti látvány a szürke fellegekkel is drámai és fotogén marad.",
+                "ro": "Drumul spre lac poate fi cețos pe ploaie, conduceți cu prudență; vederea lacului sub norii gri rămâne extrem de dramatică și fotogenică.",
+                "en": "The road to the reservoir can be foggy in the rain, so drive carefully; the lakeside view with gray clouds remains dramatic and very photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta da Frágua",
+                "hu": "Porta da Frágua",
+                "ro": "Porta da Frágua",
+                "en": "Porta da Frágua"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen wirken die Felsen dunkler und kräftiger; bleiben Sie am Aussichtspunkt wegen Rutschgefahr unbedingt auf den markierten Wegen.",
+                "hu": "A természet kapujánál az eső miatt a sziklák színe mélyebb és sötétebb lesz; a kilátópontnál maradjon a kijelölt úton a csúszásveszély miatt.",
+                "ro": "La poarta naturii, ploaia face culorile stâncilor mai profunde; rămâneți pe potecile marcate la punctul de belvedere din cauza pericolului de alunecare.",
+                "en": "At this natural gateway, the rain makes the rock colors deeper and darker; stay on marked paths at the viewpoint due to slipping hazards."
+              }
+            },
+            {
+              "name": {
+                "de": "Figueira",
+                "hu": "Figueira",
+                "ro": "Figueira",
+                "en": "Figueira"
+              },
+              "tip_5lang": {
+                "de": "Die kurvigen Straßen zum Dorf können Pfützen bilden; genießen Sie die Landschaft aus dem Auto und steigen Sie nur kurz für Fotos aus.",
+                "hu": "A faluba vezető kanyargós utak esőben vízátfolyásosak lehetnek; élvezze a tájat az autóból, és csak a védett részeken szálljon ki egy rövid sétára.",
+                "ro": "Drumurile șerpuite spre sat pot avea acumulări de apă; admirați peisajul din mașină și coborâți doar scurt pentru fotografii în zonele protejate.",
+                "en": "The winding roads to the village may have water runoff; enjoy the landscape from the car and only step out for short walks in sheltered areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço de São Cristovão III",
+                "hu": "Baloiço de São Cristovão III",
+                "ro": "Baloiço de São Cristovão III",
+                "en": "Baloiço de São Cristovão III"
+              },
+              "tip_5lang": {
+                "de": "Der Sitz der Schaukel könnte nass sein, ein Tuch ist hilfreich; das Panorama zwischen den Wolken ist auch bei Regen einzigartig.",
+                "hu": "A hinta ülőkéje vizes lehet, így érdemes egy törlőkendőt vinni; a panoráma a felhők közül is egyedülálló, ha elkap egy esőmentes pillanatot.",
+                "ro": "Scaunul leagănului poate fi ud, un șervețel fiind util; panorama printre nori este unică chiar și pe ploaie dacă prindeți un moment fără precipitații.",
+                "en": "The swing seat might be wet, so bringing a small towel is helpful; the panorama through the clouds is unique if you catch a rain-free moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Serra de Figueira",
+                "hu": "Serra de Figueira",
+                "ro": "Serra de Figueira",
+                "en": "Serra de Figueira"
+              },
+              "tip_5lang": {
+                "de": "Am Berggipfel hängen die Wolken oft tief; die Sicht kann eingeschränkt sein, aber der neblige Wald wirkt besonders mystisch und geheimnisvoll.",
+                "hu": "A hegycsúcson a felhők gyakran alacsonyan szállnak esőben; a kilátás korlátozott lehet, de a ködös erdő látványa különleges, misztikus élményt ad.",
+                "ro": "Pe vârful muntelui, norii sunt adesea joși pe ploaie; vizibilitatea poate fi limitată, dar pădurea cețoasă oferă o experiență mistică deosebită.",
+                "en": "On the mountain peak, clouds often fly low in the rain; visibility may be limited, but the misty forest provides a unique and mystical experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Landschaft lässt sich am besten aus dem beheizten Auto bei der Burg erkunden. Mittags ist ein kurzer Spaziergang am Stausee erfrischend, bevor wir ins warme Fahrzeug zurückkehren. Nachmittags besuchen wir Bergdörfer und achten auf die frühe Dämmerung. Um 17 Uhr sinkt die Sonne hinter die Serra de Figueira, genießen Sie das Licht rechtzeitig.",
+            "hu": "A zúzmarás tájat a fűtött autó kényelméből fedezhetjük fel a reggeli órákban a várnál. Délben a víztározó partján tett rövid séta után jól esik visszatérni a meleg kocsiba. Délután a hegyi falvak és kilátók érintése után a korai sötétedésre kell figyelnünk. Öt órakor a nap már lebukik a Serra de Figueira mögött.",
+            "ro": "Peisajul înghețat poate fi descoperit din confortul mașinii încălzite în zona castelului. La prânz, o scurtă plimbare pe malul lacului este revigorantă înainte de a reveni la căldură. După-amiaza vizităm satele montane și punctele de belvedere înainte de apusul devreme de la ora 17:00.",
+            "en": "Explore the frost-covered landscape from the comfort of a heated car near the castle. At noon, a short lakeside walk is refreshing before returning to the warm vehicle. In the afternoon, visit mountain villages and viewpoints before the early sunset. By 17:00, the sun drops behind the Serra de Figueira."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castelo de Mogadouro",
+                "hu": "Castelo de Mogadouro",
+                "ro": "Castelo de Mogadouro",
+                "en": "Castelo de Mogadouro"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen um die Burg können morgens glatt sein; im Winterlicht kommen die goldbraunen Farben der Mauern besonders schön zur Geltung.",
+                "hu": "A vár körüli macskaköves utak reggel jegesek lehetnek, így óvatosan manőverezzen; a téli napsütésben a falak aranybarna színe gyönyörűen érvényesül.",
+                "ro": "Drumurile din jurul castelului pot fi înghețate dimineața, deci manevrați cu atenție; în lumina iernii, culorile zidurilor sunt deosebit de frumoase.",
+                "en": "The cobblestone roads around the castle can be icy in the morning, so maneuver carefully; winter sunlight enhances the golden-brown castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira de Bastelo",
+                "hu": "Albufeira de Bastelo",
+                "ro": "Albufeira de Bastelo",
+                "en": "Albufeira de Bastelo"
+              },
+              "tip_5lang": {
+                "de": "Am Stausee ist es durch das Wasser kälter; genießen Sie die Aussicht auf die gefrorenen Uferbereiche am besten direkt aus dem warmen Auto.",
+                "hu": "A víztározó környékén a hőmérséklet alacsonyabb a víz közelsége miatt; a jeges szél ellen az autóban maradva is csodálhatja a befagyott partokat.",
+                "ro": "Lângă lac temperatura este mai scăzută din cauza apei; admirați malurile înghețate din interiorul mașinii pentru a vă proteja de vântul rece.",
+                "en": "Temperatures are lower near the reservoir due to the water; stay protected from the icy wind while admiring the frozen shores from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta da Frágua",
+                "hu": "Porta da Frágua",
+                "ro": "Porta da Frágua",
+                "en": "Porta da Frágua"
+              },
+              "tip_5lang": {
+                "de": "In den Felsspalten kann sich Eis halten; tragen Sie rutschfeste Stiefel, wenn Sie für Fotos dieser Naturformationen aus dem Wagen steigen.",
+                "hu": "A sziklák közötti hasadékokban megmaradhat a jég és a dér; viseljen jó tapadású bakancsot, ha kiszáll a kocsiból a természeti képződményekhez.",
+                "ro": "Gheața și chiciura pot persista în crăpăturile stâncilor; purtați ghete cu aderență bună dacă coborâți din mașină pentru a vedea formațiunile.",
+                "en": "Ice and frost can linger in the rock crevices; wear boots with good grip if you step out of the car to see these natural rock formations."
+              }
+            },
+            {
+              "name": {
+                "de": "Figueira",
+                "hu": "Figueira",
+                "ro": "Figueira",
+                "en": "Figueira"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe des Dorfes und der Rauch aus den Schornsteinen wirken märchenhaft; die engen Wege können glatt sein, achten Sie auf Gegenverkehr.",
+                "hu": "A hagyományos falu téli nyugalma és a kéményekből felszálló füst látványa mesés; az utak néhol keskenyek és csúszósak, figyeljen a szembejövőkre.",
+                "ro": "Liniștea satului tradițional și fumul care iese din hornuri sunt de poveste; drumurile pot fi înguste și alunecoase, atenție la traficul din sens opus.",
+                "en": "The traditional village's winter peace and the smoke from chimneys look magical; roads are narrow and sometimes slippery, so watch for oncoming cars."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço de São Cristovão III",
+                "hu": "Baloiço de São Cristovão III",
+                "ro": "Baloiço de São Cristovão III",
+                "en": "Baloiço de São Cristovão III"
+              },
+              "tip_5lang": {
+                "de": "Der Metallrahmen der Schaukel ist eiskalt, Handschuhe sind ratsam; das Licht der Abenddämmerung ist hier am schönsten, aber um 17 Uhr wird es dunkel.",
+                "hu": "A hinta fémvázai jéghidegek lehetnek, így a kesztyű használata ajánlott; a téli alkonyat fényei itt a legszebbek, de ötre már sötét lesz a hegyen.",
+                "ro": "Cadrul metalic al leagănului este extrem de rece, purtați mănuși; luminile amurgului sunt superbe aici, dar se întunecă complet până la ora 17:00.",
+                "en": "The metal frame of the swing can be freezing, so gloves are recommended; sunset colors are beautiful here, but it gets dark on the mountain by 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Serra de Figueira",
+                "hu": "Serra de Figueira",
+                "ro": "Serra de Figueira",
+                "en": "Serra de Figueira"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie wegen Frostgefahr nur mit Winterreifen auf den Gipfel; der Sonnenuntergang gegen 17 Uhr ist atemberaubend, kommen Sie rechtzeitig an.",
+                "hu": "A hegyi utakon téli gumi nélkül ne induljon el a fagyveszély miatt; a csúszról a naplemente 17:00 körül lenyűgöző, érdemes időben odaérni.",
+                "ro": "Nu urcați pe drumurile montane fără anvelope de iarnă din cauza riscului de îngheț; apusul de la ora 17:00 este uimitor, ajungeți din timp la vârf.",
+                "en": "Do not drive on mountain roads without winter tires due to frost hazards; the sunset around 17:00 is breathtaking, so arrive at the peak early."
+              }
+            }
+          ]
+        }
       }
     }
   }

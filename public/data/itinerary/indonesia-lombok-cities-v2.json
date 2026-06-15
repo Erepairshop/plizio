@@ -137,6 +137,168 @@
         "hu": "Reggel a Masjid Sumbekdaye nyugalmával kezdi a napot, miközben a falu ébredezik. Délben a központba sétálva megcsodálhatja a Masjid Sumbek és a Majlis Taklim élénk közösségi életét. Délután a Musalla Sumbek csendesebb környezete tökéletes egy kis pihenésre. Az este a Masjid Cerore környékén ér véget, ahol a helyiek gyülekeznek a nap lezárásaként.",
         "ro": "Dimineața începe la Masjid Sumbekdaye, savurând liniștea satului care se trezește la viață. La prânz, explorați zona centrală din jurul Masjid Sumbek și Majlis Taklim, inima comunității. După-amiaza vă poartă spre Musalla Sumbek, un loc perfect pentru o clipă de meditație. Seara se încheie la Masjid Cerore, într-o atmosferă spirituală vibrantă la apus.",
         "en": "Morning begins at Masjid sumbekdaye, offering a peaceful glimpse into the local village awakening. Midday takes you through the central Masjid Sumbek and Majlis Taklim, observing the community's heart. Afternoon strolling leads to the quiet Musalla Sumbek, perfect for a moment of quiet reflection. The evening concludes at Masjid Cerore, wrapping up the day surrounded by spiritual harmony."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt grau am Masjid sumbekdaye. Mittags suchen wir Schutz in den Moscheen vor dem tropischen Guss. Am Nachmittag schlendern wir durch den feuchten Dunst von Sumbek. Abends atmen wir die frische, vom Regen gereinigte Luft am Masjid Cerore.",
+            "hu": "A nap szürkén indul a Masjid sumbekdaye-nál. Délben a mecsetek hűvösében és fedett részein vészeljük át a trópusi záport. Délután a párás Sumbek utcáin sétálunk. Este a Masjid Cerore környékén élvezzük a friss, eső utáni illatokat.",
+            "ro": "Ziua începe sub un cer gri la Masjid sumbekdaye. La prânz căutăm adăpost în interiorul moscheilor de ploaia tropicală. După-amiaza ne plimbăm prin ceața umedă din Sumbek. Seara ne bucurăm de aerul proaspăt de lângă Masjid Cerore.",
+            "en": "The day starts under grey skies at Masjid sumbekdaye. At noon, we find shelter inside the mosques during the tropical downpour. In the afternoon, we stroll through the misty streets of Sumbek. Evening brings fresh air at Masjid Cerore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid sumbekdaye",
+                "hu": "Masjid sumbekdaye",
+                "ro": "Masjid sumbekdaye",
+                "en": "Masjid sumbekdaye"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte lokale Architektur; stellen Sie sich bei einem plötzlichen Schauer unter das Vordach und halten Sie Ihren Regenschirm stets griffbereit.",
+                "hu": "Csodáld meg a helyi építészet egyszerűségét; hirtelen zápor esetén húzódj az eresz alá, és mindig tartsd kéznél az esernyődet a csúszós út miatt.",
+                "ro": "Admirați arhitectura locală simplă; în caz de aversă bruscă, adăpostiți-vă sub streșini și țineți umbrela la îndemână pe drumul alunecos.",
+                "en": "Admire the simple local architecture; in case of a sudden downpour, take cover under the eaves and keep your umbrella ready for the slippery paths."
+              }
+            },
+            {
+              "name": {
+                "de": "MASJID SUMBEK",
+                "hu": "MASJID SUMBEK",
+                "ro": "MASJID SUMBEK",
+                "en": "MASJID SUMBEK"
+              },
+              "tip_5lang": {
+                "de": "Diese Moschee ist ein wichtiger Treffpunkt; betreten Sie den Innenraum, um trocken zu bleiben, und achten Sie auf die glatten Fliesen im Eingangsbereich.",
+                "hu": "Ez a mecset fontos közösségi pont; menj be az épületbe, hogy száraz maradj, és vigyázz a bejáratnál lévő, esőtől rendkívül csúszóssá váló járólapokra.",
+                "ro": "Această moschee este un punct important al comunității; intrați în interior pentru a rămâne uscați și atenție la gresia alunecoasă de la intrare.",
+                "en": "This mosque is a key community spot; step inside to stay dry and be careful of the tiles at the entrance which become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "MAJLIS Taklim Al-Gafuriyah sumbek",
+                "hu": "MAJLIS Taklim Al-Gafuriyah sumbek",
+                "ro": "MAJLIS Taklim Al-Gafuriyah sumbek",
+                "en": "MAJLIS Taklim Al-Gafuriyah sumbek"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort des Lernens und Gebets; nutzen Sie den überdachten Bereich für eine kurze Pause und verstauen Sie Ihre Elektronik in wasserdichten Taschen.",
+                "hu": "A tanulás és az ima helyszíne; használd a fedett részeket egy rövid pihenőre, az elektronikai eszközeidet pedig tedd vízhatlan tokba a pára ellen.",
+                "ro": "Un loc de studiu și rugăciune; folosiți zonele acoperite pentru o scurtă pauză și puneți dispozitivele electronice în huse impermeabile.",
+                "en": "A place for learning and prayer; use the covered areas for a short break and place your electronics in waterproof cases to protect them from humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Musalla Sumbek",
+                "hu": "Musalla Sumbek",
+                "ro": "Musalla Sumbek",
+                "en": "Musalla Sumbek"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, friedlicher Gebetsraum; ideal, um das heftigste Prasseln des Regens abzuwarten, bevor man den Weg zu den nächsten Sehenswürdigkeiten fortsetzt.",
+                "hu": "Apró, békés imaház; tökéletes hely arra, hogy megvárd a leghevesebb égi áldás végét, mielőtt továbbindulnál a következő állomáshoz a sárban.",
+                "ro": "O mică casă de rugăciune pașnică; locul perfect pentru a aștepta sfârșitul celei mai puternice ploi înainte de a merge mai departe prin noroi.",
+                "en": "A small, peaceful prayer house; the perfect place to wait out the heaviest rain before heading to the next stop through the muddy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Cerore",
+                "hu": "Masjid Cerore",
+                "ro": "Masjid Cerore",
+                "en": "Masjid Cerore"
+              },
+              "tip_5lang": {
+                "de": "Der Abschluss der Tour bei Regen; genießen Sie den Anblick der Spiegelungen in den Pfützen und tragen Sie festes Schuhwerk mit gutem Profil.",
+                "hu": "A túra lezárása esőben; élvezd a pocsolyákban tükröződő épület látványát, és viselj jó tapadású, vízálló cipőt a balesetek elkerülése érdekében.",
+                "ro": "Încheierea turului pe ploaie; bucurați-vă de reflexia clădirii în bălți și purtați pantofi impermeabili cu aderență bună pentru siguranță.",
+                "en": "Ending the tour in the rain; enjoy the reflection of the building in the puddles and wear waterproof shoes with good grip for your safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Masjid sumbekdaye. Mittags ist die Sonne angenehm mild für den Spaziergang nach MAJLIS. Am Nachmittag werfen die Gebäude lange Schatten. Um 17:00 Uhr endet der Tag mit einer kühlen Brise.",
+            "hu": "Friss téli reggel a Masjid sumbekdaye-nál. Délben a nap kellemesen enyhe a MAJLIS felé vezető sétához. Délután az épületek hosszú árnyékot vetnek. 17:00-kor a naplemente hűvös szellőt hoz a városba.",
+            "ro": "O dimineață răcoroasă de iarnă la Masjid sumbekdaye. La prânz soarele este blând pentru plimbarea spre MAJLIS. După-amiaza clădirile lasă umbre lungi. La ora 17:00 apusul aduce o briză rece în oraș.",
+            "en": "A crisp winter morning at Masjid sumbekdaye. At noon, the sun is pleasantly mild for the walk towards MAJLIS. In the afternoon, buildings cast long shadows. At 17:00, sunset brings a cool breeze to the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid sumbekdaye",
+                "hu": "Masjid sumbekdaye",
+                "ro": "Masjid sumbekdaye",
+                "en": "Masjid sumbekdaye"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Morgenlicht für Fotos; tragen Sie eine leichte Jacke gegen den kühlen Wind, der in dieser Jahreszeit öfter weht.",
+                "hu": "Használd ki a tiszta reggeli fényeket a fotózáshoz; viselj könnyű kabátot a hűvös szél ellen, amely ebben az évszakban gyakran fúj.",
+                "ro": "Profitați de lumina clară a dimineții pentru fotografii; purtați o jachetă ușoară împotriva vântului rece care bate des în acest sezon.",
+                "en": "Take advantage of the clear morning light for photos; wear a light jacket against the cool wind that often blows during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "MASJID SUMBEK",
+                "hu": "MASJID SUMBEK",
+                "ro": "MASJID SUMBEK",
+                "en": "MASJID SUMBEK"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das tägliche Leben im milden Sonnenlicht; die trockene Luft macht den Aufenthalt im Freien sehr angenehm und weniger ermüdend.",
+                "hu": "Figyeld meg a napi életet a lágy napsütésben; a száraz levegő miatt a szabadban tartózkodás most nagyon kellemes és kevésbé fárasztó.",
+                "ro": "Observați viața de zi cu zi în lumina blândă a soarelui; aerul uscat face ca șederea în aer liber să fie foarte plăcută și mai puțin obositoare.",
+                "en": "Observe daily life in the gentle sunlight; the dry air makes staying outdoors very pleasant and much less tiring than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "MAJLIS Taklim Al-Gafuriyah sumbek",
+                "hu": "MAJLIS Taklim Al-Gafuriyah sumbek",
+                "ro": "MAJLIS Taklim Al-Gafuriyah sumbek",
+                "en": "MAJLIS Taklim Al-Gafuriyah sumbek"
+              },
+              "tip_5lang": {
+                "de": "Die beste Zeit für einen Besuch ist der frühe Nachmittag; genießen Sie die ruhige Atmosphäre in den beheizten Innenräumen der Anlage.",
+                "hu": "A legjobb látogatási idő a kora délután; élvezd a nyugodt atmoszférát az épületegyüttes melegebb belső tereiben a hűvösödő időben.",
+                "ro": "Cel mai bun moment pentru vizită este începutul după-amiezii; bucurați-vă de atmosfera calmă în spațiile interioare mai calde ale complexului.",
+                "en": "The best time to visit is early afternoon; enjoy the calm atmosphere in the warmer indoor spaces of the complex as it cools down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musalla Sumbek",
+                "hu": "Musalla Sumbek",
+                "ro": "Musalla Sumbek",
+                "en": "Musalla Sumbek"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Rückzugsort; da es um 17:00 Uhr dunkel wird, sollten Sie diesen Stopp rechtzeitig vor dem frühen Sonnenuntergang einplanen.",
+                "hu": "Békés menedékhely; mivel 17:00-kor sötétedik, ezt a megállót tervezd be időben, még a korai naplemente előtt a jó látási viszonyokért.",
+                "ro": "Un refugiu liniștit; deoarece se întunecă la ora 17:00, planificați această oprire la timp, înainte de apusul timpuriu.",
+                "en": "A peaceful sanctuary; as it gets dark at 17:00, plan this stop in time, well before the early sunset for the best visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Cerore",
+                "hu": "Masjid Cerore",
+                "ro": "Masjid Cerore",
+                "en": "Masjid Cerore"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Ende der Tour bei Einbruch der Dunkelheit; die Moschee wird früh beleuchtet, was eine wunderschöne, warme Stimmung erzeugt.",
+                "hu": "Éld át a túra végét a sötétség beálltakor; a mecsetet korán kivilágítják, ami csodálatos, meleg hangulatot áraszt a hűvös téli estén.",
+                "ro": "Trăiți sfârșitul turului la lăsarea întunericului; moscheea este iluminată devreme, creând o atmosferă minunată și caldă.",
+                "en": "Experience the end of the tour at nightfall; the mosque is illuminated early, creating a wonderful, warm atmosphere on a cool winter evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A reggelt a Bale Sangkep történelmi épületeinél kezdi, elmerülve a helyi hagyományokban. Délben áteker a Masjid Barabali felé, élvezve a trópusi tájat és a friss levegőt. Délután a Masjid Runtak és a Yatofa környéke kínál érdekes kulturális látnivalókat. Az estét a Masjid Nyiur Ende nyugalmában zárja, miközben a naplemente színei beborítják a tájat.",
         "ro": "Dimineața debutează la Bale Sangkep, un loc istoric fascinant, plin de arhitectură tradițională. La prânz pedalați spre Masjid Barabali, traversând peisaje rurale pitorești. După-amiaza este dedicată vizitării Masjid Runtak și a punctului de reper Yatofa. Seara, la Masjid Nyiur Ende, vă puteți relaxa după o zi plină de explorări culturale pe două roți.",
         "en": "The morning starts at the historical Bale Sangkep, diving deep into traditional Sasak structures. Midday cycling brings you to Masjid Barabali, enjoying the gentle breeze and lush surroundings. The afternoon continues to Masjid Runtak and the landmark of Yatofa, observing daily life. Evening settles at Masjid Nyiur Ende, offering a serene conclusion to your cycling adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren auf feuchten Straßen zum Bale Sangkep. Mittags suchen wir Schutz am Masjid Barabali vor dem Wolkenbruch. Am Nachmittag radeln wir vorsichtig durch Pfützen. Der Tag endet bei Nyiur Ende unter einem dramatischen Himmel.",
+            "hu": "Bringázás nedves utakon a Bale Sangkep felé. Délben a Masjid Barabalinál bújunk el a felhőszakadás elől. Délután óvatosan pedálozunk a tócsák között. A nap a Nyiur Ende-nél ér véget a drámai égbolt alatt.",
+            "ro": "Pedalăm pe drumuri umede spre Bale Sangkep. La prânz ne ascundem la Masjid Barabali de ruperea de nori. După-amiaza pedalăm cu grijă printre bălți. Ziua se termină la Nyiur Ende sub un cer dramatic.",
+            "en": "Cycling on damp roads towards Bale Sangkep. At noon, we hide at Masjid Barabali from the cloudburst. In the afternoon, we pedal carefully through puddles. The day ends at Nyiur Ende under a dramatic sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bale Sangkep",
+                "hu": "Bale Sangkep",
+                "ro": "Bale Sangkep",
+                "en": "Bale Sangkep"
+              },
+              "tip_5lang": {
+                "de": "Historischer Ort mit Charme; prüfen Sie Ihre Bremsen vor der Abfahrt auf nassen Straßen und tragen Sie eine wasserfeste Regenjacke.",
+                "hu": "Történelmi helyszín különleges bájjal; indulás előtt ellenőrizd a fékeidet a nedves utak miatt, és viselj vízhatlan esőkabátot.",
+                "ro": "Loc istoric cu farmec; verificați frânele înainte de plecare din cauza drumurilor umede și purtați o pelerină de ploaie impermeabilă.",
+                "en": "Historical site with unique charm; check your brakes before departing due to wet roads and wear a waterproof raincoat for the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Barabali",
+                "hu": "Masjid Barabali",
+                "ro": "Masjid Barabali",
+                "en": "Masjid Barabali"
+              },
+              "tip_5lang": {
+                "de": "Ein imposanter Bau; nutzen Sie den Parkplatz unter dem Vordach, damit Ihr Fahrrad trocken bleibt, während Sie das Innere erkunden.",
+                "hu": "Impozáns épület; használd az eresz alatti parkolót, hogy a biciklid száraz maradjon, miközben te felfedezed a belső tereket az esőben.",
+                "ro": "O clădire impunătoare; folosiți parcarea de sub streșini pentru ca bicicleta să rămână uscată în timp ce explorați interiorul pe ploaie.",
+                "en": "An imposing building; use the parking area under the eaves so your bike stays dry while you explore the interior during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Runtak",
+                "hu": "Masjid Runtak",
+                "ro": "Masjid Runtak",
+                "en": "Masjid Runtak"
+              },
+              "tip_5lang": {
+                "de": "Eine lokale Moschee im Grünen; achten Sie auf matschige Wege in der Umgebung und fahren Sie langsam durch tiefere Wasseransammlungen.",
+                "hu": "Helyi mecset zöld környezetben; ügyelj a sáros utakra a környéken, és haladj lassan a mélyebb pocsolyákon át a kicsúszás elkerülésére.",
+                "ro": "O moschee locală înconjurată de verdeață; atenție la drumurile noroioase și mergeți încet prin bălțile adânci pentru a evita alunecarea.",
+                "en": "A local mosque in green surroundings; watch out for muddy roads and ride slowly through deeper puddles to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Yatofa",
+                "hu": "Yatofa",
+                "ro": "Yatofa",
+                "en": "Yatofa"
+              },
+              "tip_5lang": {
+                "de": "Ein wichtiges religiöses Zentrum; bei starkem Regen bietet das Gebäude exzellenten Schutz für eine längere Pause und zum Aufwärmen.",
+                "hu": "Fontos vallási központ; heves esőzés esetén az épület kiváló menedéket nyújt egy hosszabb pihenőhöz és a felszerelés megszárításához.",
+                "ro": "Centru religios important; în caz de ploaie torențială, clădirea oferă un adăpost excelent pentru o pauză lungă și uscarea echipamentului.",
+                "en": "Important religious center; in case of heavy rain, the building provides excellent shelter for a long break and to dry your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nyiur Ende",
+                "hu": "Masjid Nyiur Ende",
+                "ro": "Masjid Nyiur Ende",
+                "en": "Masjid Nyiur Ende"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Stopp am Abend; die Sicht kann bei Regen eingeschränkt sein, schalten Sie unbedingt Ihre Fahrradbeleuchtung frühzeitig ein.",
+                "hu": "Az utolsó megálló este; esőben a látási viszonyok korlátozottak lehetnek, feltétlenül kapcsold be korán a kerékpáros világításodat.",
+                "ro": "Ultima oprire din seară; vizibilitatea poate fi limitată pe ploaie, asigurați-vă că porniți devreme luminile bicicletei.",
+                "en": "The last stop of the evening; visibility can be limited in the rain, make sure to turn on your bike lights early for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Luft am Bale Sangkep; eine belebende Fahrt. Mittags ist das Wetter ideal zum Radfahren am Masjid Barabali. Nachmittags sinkt die Sonne tiefer. Um 17:00 Uhr endet die Fahrt unter den ersten Sternen.",
+            "hu": "Friss levegő a Bale Sangkepnél; élénkítő tekerés. Délben az időjárás ideális a bringázáshoz a Masjid Barabalinál. Délután a nap egyre lejjebb süllyed. 17:00-kor a túra az első csillagok alatt ér véget.",
+            "ro": "Aer curat la Bale Sangkep; o cursă revigorantă. La prânz vremea este ideală pentru ciclism la Masjid Barabali. După-amiaza soarele coboară tot mai mult. La 17:00 turul se termină sub primele stele.",
+            "en": "Fresh air at Bale Sangkep; an invigorating ride. At noon, the weather is ideal for cycling at Masjid Barabali. In the afternoon, the sun sinks lower. At 17:00, the ride ends under the first stars."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bale Sangkep",
+                "hu": "Bale Sangkep",
+                "ro": "Bale Sangkep",
+                "en": "Bale Sangkep"
+              },
+              "tip_5lang": {
+                "de": "Ein historischer Schatz; nutzen Sie die kühleren Temperaturen für eine ausgiebige Erkundung ohne die Hitze des tropischen Sommers.",
+                "hu": "Történelmi kincs; használd ki a hűvösebb hőmérsékletet egy alapos felfedezésre a trópusi nyár tikkasztó hősége nélkül.",
+                "ro": "O comoară istorică; profitați de temperaturile mai scăzute pentru o explorare amănunțită fără căldura sufocantă a verii tropicale.",
+                "en": "A historical treasure; take advantage of the cooler temperatures for a thorough exploration without the sweltering tropical heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Barabali",
+                "hu": "Masjid Barabali",
+                "ro": "Masjid Barabali",
+                "en": "Masjid Barabali"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Stopp bei strahlendem Winterhimmel; die milde Mittagssonne macht die Besichtigung im Freien besonders angenehm für Radfahrer.",
+                "hu": "Tökéletes megálló ragyogó téli égbolt alatt; az enyhe déli napsütés különösen kellemessé teszi a szabadtéri nézelődést a bringásoknak.",
+                "ro": "Oprire perfectă sub cerul senin de iarnă; soarele blând de la prânz face vizitarea în aer liber deosebit de plăcută pentru bicicliști.",
+                "en": "Perfect stop under a bright winter sky; the mild midday sun makes outdoor sightseeing especially pleasant for cyclists today."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Runtak",
+                "hu": "Masjid Runtak",
+                "ro": "Masjid Runtak",
+                "en": "Masjid Runtak"
+              },
+              "tip_5lang": {
+                "de": "Charmante Moschee im Winterlicht; genießen Sie die klare Sicht auf die umliegende Landschaft, die in dieser trockenen Zeit sehr weit ist.",
+                "hu": "Bájos mecset a téli fényekben; élvezd a tiszta kilátást a környező tájra, amely ebben a száraz időszakban különösen messzire nyúlik.",
+                "ro": "O moschee fermecătoare în lumina iernii; bucurați-vă de vederea clară asupra peisajului înconjurător, care este foarte vastă în acest sezon.",
+                "en": "Charming mosque in the winter light; enjoy the clear view of the surrounding landscape, which is very far-reaching in this dry season."
+              }
+            },
+            {
+              "name": {
+                "de": "Yatofa",
+                "hu": "Yatofa",
+                "ro": "Yatofa",
+                "en": "Yatofa"
+              },
+              "tip_5lang": {
+                "de": "Religiöses Wahrzeichen; da der Sonnenuntergang bereits um 17:00 Uhr bevorsteht, sollten Sie hier Ihre letzte größere Pause bei Tageslicht machen.",
+                "hu": "Vallási jelkép; mivel a naplemente már 17:00-kor bekövetkezik, itt tartsd az utolsó nagyobb pihenődet még teljes nappali fényben.",
+                "ro": "Simbol religios; deoarece apusul are loc deja la ora 17:00, faceți aici ultima pauză mare cât încă mai este lumină naturală.",
+                "en": "Religious landmark; as sunset occurs at 17:00, take your last major break here while there is still full daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Nyiur Ende",
+                "hu": "Masjid Nyiur Ende",
+                "ro": "Masjid Nyiur Ende",
+                "en": "Masjid Nyiur Ende"
+              },
+              "tip_5lang": {
+                "de": "Abschluss der Tour bei kühler Brise; packen Sie für die Rückfahrt nach dem frühen Sonnenuntergang Handschuhe oder eine Windjacke ein.",
+                "hu": "A túra lezárása hűvös szellőben; a korai naplemente utáni visszaútra készíts be kesztyűt vagy egy szélkabátot a lehűlés miatt.",
+                "ro": "Încheierea turului în briză răcoroasă; pentru drumul de întoarcere după apusul timpuriu, pregătiți mănuși sau o jachetă de vânt.",
+                "en": "Ending the tour in a cool breeze; for the ride back after the early sunset, pack gloves or a windbreaker due to the temperature drop."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "A reggel a távoli Masjid Al-Khairot meglátogatásával indul, csendes környezetben. Délben a Mesjid és a történelmi jelentőségű Bale Sangkep felé veszi az irányt kocsival. Délután délre autózik, ahol a Masjid Lingkung Muncan gyönyörű épülete várja. Az estét a Masjid Prantapnál tölti, bepillantást nyerve a sziget autentikus vallási hagyományaiban.",
         "ro": "Dimineața începe explorând Masjid Al-Khairot, o moschee nordică liniștită, departe de agitație. La prânz conduceți spre Mesjid și remarcabilul monument istoric Bale Sangkep. După-amiaza vă poartă în partea de sud, vizitând frumoasa Masjid Lingkung Muncan. Seara se încheie confortabil la Masjid Prantap, o ocazie excelentă de a admira comunitatea locală.",
         "en": "Morning kicks off at Masjid Al-Khairot, enjoying a tranquil drive to this northern sanctuary. Midday travels take you to the eastern Mesjid and the historically rich Bale Sangkep. Afternoon cruising brings you south to Masjid Lingkung Muncan, showcasing vibrant local faith. The evening gracefully wraps up at Masjid Prantap, providing a wonderful end to your driving tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Komfortable Fahrt trotz Nieselregen. Mittags peitscht der Regen gegen die Fenster; wir bleiben trocken beim Besuch der Mesjid. Nachmittags leuchtet das Grün der Landschaft intensiv. Abends spiegeln sich die Lichter im nassen Asphalt.",
+            "hu": "Kényelmes autózás a szemerkélő eső ellenére. Délben az eső veri az ablakokat; szárazon maradunk a Mesjid látogatása alatt. Délután a táj zöldje intenzíven ragyog. Este a fények tükröződnek a nedves aszfalton.",
+            "ro": "Conducere confortabilă în ciuda burniței. La prânz ploaia bate în geamuri; rămânem uscați în timpul vizitei la Mesjid. După-amiaza verdele peisajului strălucește intens. Seara luminile se reflectă pe asfaltul ud.",
+            "en": "Comfortable drive despite the drizzle. At noon, rain lashes the windows; we stay dry during the visit to Mesjid. In the afternoon, the green of the landscape glows intensely. In the evening, lights reflect on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Al-Khairot (Beneng)",
+                "hu": "Masjid Al-Khairot (Beneng)",
+                "ro": "Masjid Al-Khairot (Beneng)",
+                "en": "Masjid Al-Khairot (Beneng)"
+              },
+              "tip_5lang": {
+                "de": "Ein schönes Ziel bei Regen; parken Sie so nah wie möglich am Eingang, um trockenen Fußes in das beeindruckende Gebäude zu gelangen.",
+                "hu": "Szép úticél esőben; parkolj a lehető legközelebb a bejárathoz, hogy száraz lábbal juss be a lenyűgöző épületbe a felhőszakadáskor.",
+                "ro": "O destinație frumoasă pe ploaie; parcați cât mai aproape de intrare pentru a ajunge cu picioarele uscate în clădirea impresionantă.",
+                "en": "A beautiful destination in the rain; park as close as possible to the entrance to get into the impressive building with dry feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mesjid",
+                "hu": "Mesjid",
+                "ro": "Mesjid",
+                "en": "Mesjid"
+              },
+              "tip_5lang": {
+                "de": "Klassische Architektur; genießen Sie den Blick auf die regenverhangene Stadt von den überdachten Balkonen der Moschee aus.",
+                "hu": "Klasszikus építészet; élvezd a kilátást az eső áztatta városra a mecset fedett erkélyeiről, miközben kint dörög az ég.",
+                "ro": "Arhitectură clasică; bucurați-vă de vederea asupra orașului inundat de ploaie de pe balcoanele acoperite ale moscheii.",
+                "en": "Classic architecture; enjoy the view of the rain-soaked city from the covered balconies of the mosque while it thunders outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bale Sangkep",
+                "hu": "Bale Sangkep",
+                "ro": "Bale Sangkep",
+                "en": "Bale Sangkep"
+              },
+              "tip_5lang": {
+                "de": "Historisches Gebäude; nutzen Sie die Zeit drinnen für eine ausführliche Besichtigung, während draußen der stärkste Regen niedergeht.",
+                "hu": "Történelmi épület; használd ki a benti időt egy részletes megtekintésre, amíg kint a leghevesebb eső esik a délutáni órákban.",
+                "ro": "Clădire istorică; folosiți timpul petrecut în interior pentru o vizită detaliată, în timp ce afară cade cea mai puternică ploaie.",
+                "en": "Historical building; use the indoor time for a detailed visit while the heaviest rain falls outside during the afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Lingkung Muncan",
+                "hu": "Masjid Lingkung Muncan",
+                "ro": "Masjid Lingkung Muncan",
+                "en": "Masjid Lingkung Muncan"
+              },
+              "tip_5lang": {
+                "de": "Moderne Moschee; die Parkplätze sind bei Regen oft voll, fahren Sie vorsichtig auf dem nassen Untergrund zum Eingangsbereich.",
+                "hu": "Modern mecset; a parkolók esőben gyakran megtelnek, vezess óvatosan a vizes útfelületen a bejárati zónáig a sár elkerülése végett.",
+                "ro": "Moschee modernă; parcările sunt adesea pline pe ploaie, conduceți cu atenție pe carosabilul umed până la zona de intrare.",
+                "en": "Modern mosque; parking lots are often full in the rain, drive carefully on the wet road surface to the entrance zone to avoid mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Prantap",
+                "hu": "Masjid Prantap",
+                "ro": "Masjid Prantap",
+                "en": "Masjid Prantap"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp der Autofahrt; achten Sie bei der Rückreise auf schlechte Sicht durch Gischt und halten Sie genügend Abstand zum Vordermann.",
+                "hu": "Az autós túra utolsó állomása; a visszaúton ügyelj a vízpermet okozta rossz látási viszonyokra, és tarts nagyobb követési távolságot.",
+                "ro": "Ultima stație a turului auto; la întoarcere, atenție la vizibilitatea redusă cauzată de apă și păstrați o distanță mai mare.",
+                "en": "Last stop of the car tour; on the way back, watch out for poor visibility caused by road spray and keep a longer following distance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klare Sicht und trockene Straßen nach Beneng. Mittags strahlendes Tageslicht am Bale Sangkep; perfekt für Fotos. Nachmittags sinkt die Sonne tiefer. Um 17:00 Uhr endet der Tag mit einem warmen Licht im Auto.",
+            "hu": "Tiszta kilátás és száraz utak Beneng felé. Délben ragyogó nappali fény a Bale Sangkepnél; tökéletes a fotókhoz. Délután a nap egyre lejjebb süllyed. 17:00-kor a naplemente meleg fényekkel zárja a napot.",
+            "ro": "Vedere clară și drumuri uscate spre Beneng. La prânz lumină naturală strălucitoare la Bale Sangkep; perfect pentru fotografii. După-amiaza soarele coboară tot mai mult. La 17:00 apusul încheie ziua cu lumini calde.",
+            "en": "Clear views and dry roads towards Beneng. At noon, bright daylight at Bale Sangkep; perfect for photos. In the afternoon, the sun sinks lower. At 17:00, sunset ends the day with warm lights in the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Al-Khairot (Beneng)",
+                "hu": "Masjid Al-Khairot (Beneng)",
+                "ro": "Masjid Al-Khairot (Beneng)",
+                "en": "Masjid Al-Khairot (Beneng)"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Start im Winter; die kühle Luft im Inneren ist erfrischend, nehmen Sie sich Zeit für die architektonischen Details.",
+                "hu": "Pompás kezdés télen; a belső hűvös levegő frissítő, szánj időt az építészeti részletek megtekintésére a tiszta téli napsütésben.",
+                "ro": "Un început splendid iarna; aerul răcoros din interior este revigorant, acordați-vă timp pentru detaliile arhitecturale.",
+                "en": "A splendid start in winter; the cool air inside is refreshing, take your time to view the architectural details in the clear sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Mesjid",
+                "hu": "Mesjid",
+                "ro": "Mesjid",
+                "en": "Mesjid"
+              },
+              "tip_5lang": {
+                "de": "Klassischer Bau; die tiefstehende Wintersonne leuchtet das Innere der Moschee auf ganz besondere Weise aus, ideal für Innenaufnahmen.",
+                "hu": "Klasszikus épület; az alacsonyan járó téli nap különleges módon világítja meg a mecset belsejét, ideális belső fotók készítéséhez.",
+                "ro": "Clădire clasică; soarele de iarnă jos luminează interiorul moscheii într-un mod deosebit, ideal pentru fotografii interioare.",
+                "en": "Classic building; the low-lying winter sun illuminates the interior of the mosque in a special way, ideal for indoor photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Bale Sangkep",
+                "hu": "Bale Sangkep",
+                "ro": "Bale Sangkep",
+                "en": "Bale Sangkep"
+              },
+              "tip_5lang": {
+                "de": "Historische Stätte; genießen Sie den Aufenthalt im Freien bei angenehmen 25 Grad, was im Vergleich zum heißen Sommer sehr mild wirkt.",
+                "hu": "Történelmi helyszín; élvezd a szabadtéri tartózkodást a kellemes 25 fokban, ami a forró nyárhoz képest nagyon enyhének hat télen.",
+                "ro": "Sit istoric; bucurați-vă de șederea în aer liber la o temperatură plăcută de 25 de grade, care pare foarte blândă iarna.",
+                "en": "Historical site; enjoy staying outdoors in the pleasant 25 degrees, which feels very mild in winter compared to the hot summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Lingkung Muncan",
+                "hu": "Masjid Lingkung Muncan",
+                "ro": "Masjid Lingkung Muncan",
+                "en": "Masjid Lingkung Muncan"
+              },
+              "tip_5lang": {
+                "de": "Modernes Zentrum; planen Sie Ihren Besuch vor 16:30 Uhr, um die Anlage noch vor Einbruch der Dämmerung in voller Pracht zu sehen.",
+                "hu": "Modern központ; tervezd a látogatást 16:30 elé, hogy a komplexumot még a szürkület beállta előtt, teljes pompájában láthasd.",
+                "ro": "Centru modern; planificați vizita înainte de ora 16:30 pentru a vedea complexul în toată splendoarea sa înainte de amurg.",
+                "en": "Modern center; plan your visit before 16:30 to see the complex in all its glory before the twilight sets in at this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Prantap",
+                "hu": "Masjid Prantap",
+                "ro": "Masjid Prantap",
+                "en": "Masjid Prantap"
+              },
+              "tip_5lang": {
+                "de": "Abschluss bei Sonnenuntergang um 17:00 Uhr; die Klimaanlage im Auto hilft gegen die leichte Feuchtigkeit am Abend nach der Tour.",
+                "hu": "Zárás a 17:00-ás naplementében; az autó légkondicionálója segít a túra utáni enyhe esti pára ellen a visszaúton a szállásra.",
+                "ro": "Încheiere la apusul de la ora 17:00; aerul condiționat din mașină ajută împotriva umidității ușoare de seară după tur.",
+                "en": "Ending at the 17:00 sunset; the car's air conditioning helps against the slight evening humidity on the drive back after the tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

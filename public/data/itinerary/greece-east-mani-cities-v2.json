@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a kontinens peremén, és fedezze fel Tainaron ősi romjait, valamint a közeli múzeumot. Délben sétáljon el a mitikus Hádész-barlanghoz, elmerülve a környék hátborzongató történetében. A délután a kikapcsolódásé, miközben elgyalogol a félreeső Romaike Paralia strandhoz. Zárja a napot egy Skourka felé tartó túrával, ahol lenyűgöző naplemente várja.",
         "ro": "Începeți dimineața la marginea continentului, explorând ruinele antice din Tainaron și muzeul arheologic. La prânz, mergeți la peștera mitică a lui Hades, absorbind istoria fascinantă a zonei. După-amiaza este rezervată relaxării în timp ce faceți o drumeție la plaja izolată Romaike Paralia. Încheiați ziua mergând spre Skourka pentru un apus de soare magnific.",
         "en": "Start your morning at the very edge of the continent, exploring the ancient ruins of Tainaron and the nearby archaeological museum. By midday, walk to the mythical Cave of Hades, soaking in the eerie but fascinating history of the area. The afternoon is reserved for true relaxation as you hike over to the secluded Romaike Paralia. End the day walking up to Skourka for a magnificent sunset view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regen am Kap Tainaron. Morgens erkunden wir die antiken Ruinen unter grauem Himmel, wobei feste Sohlen auf nassem Fels wichtig sind. Mittags bietet das Museum trockenen Unterschlupf. Nachmittags führt der Weg zur Höhle und zum Strand, wo die Brandung tobt. Der Tag endet ruhig bei prasselndem Regen, während die Wolken tief über den schroffen Klippen der Mani hängen.",
+            "hu": "Esős reggel a Tainaron-fokon. Az ókori romok között indulunk, ahol a csúszós kövek miatt óvatos léptek és vízálló bakancs szükséges. Délben a múzeum nyújt fedett menedéket. Délután a Hádész-barlang és a part felé vesszük az irányt, élvezve a viharos tenger látványát. Az este csendesen, az eső kopogásával zárul a Mani vad sziklái között.",
+            "ro": "Dimineață ploioasă la Capul Tainaron. Explorăm ruinele antice sub cerul gri, având grijă la pietrele alunecoase și purtând încălțăminte impermeabilă. La prânz, muzeul oferă un adăpost uscat. După-amiaza mergem spre peșteră și plajă, admirând forța mării. Seara se încheie liniștit, în sunetul ploii care cade peste stâncile abrupte din Mani.",
+            "en": "A rainy morning at Cape Tainaron. We start among ancient ruins where slippery stones demand careful steps and waterproof boots. At noon, the museum provides a dry sanctuary. The afternoon leads us toward the cave and beach, watching the crashing waves. The day ends quietly with the steady rhythm of rain falling over the rugged cliffs of the Mani peninsula."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antikes Tainaron",
+                "hu": "Ókori Tainaron",
+                "ro": "Anticul Tainaron",
+                "en": "Ancient Tainaron"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine sind bei Nässe extrem rutschig; tragen Sie unbedingt griffige Wanderschuhe und meiden Sie die Vertiefungen, in denen sich Wasser sammelt.",
+                "hu": "A romok között a kövek rendkívül csúszósak esőben, ezért mindenképpen viseljen tapadós talpú túrabakancsot és vigyázzon a mélyedésekben megálló vízre.",
+                "ro": "Pietrele antice sunt extrem de alunecoase când sunt ude; purtați neapărat bocanci de drumeție cu talpă aderentă și evitați zonele unde se acumulează apa.",
+                "en": "The ancient stones are extremely slippery when wet; be sure to wear high-grip hiking boots and avoid the hollows where rainwater tends to collect."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum des antiken Tainaron",
+                "hu": "Az ókori Tainaron Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic al anticului Tainaron",
+                "en": "Archeological Museum of ancient Tainaron"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausgiebigen Museumsbesuch; die Ausstellungsstücke sind im Trockenen sicher zu bewundern, während draußen der Sturm tobt.",
+                "hu": "Használja ki az esőt egy alapos múzeumlátogatásra; a kiállítási tárgyak fedett helyen, biztonságban csodálhatók meg, amíg odakint tombol a vihar.",
+                "ro": "Profită de ploaie pentru o vizită detaliată la muzeu; exponatele pot fi admirate în siguranță la adăpost, în timp ce afară furtuna se dezlănțuie.",
+                "en": "Take advantage of the rain for a thorough museum visit; the exhibits can be admired safely under cover while the storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Eingang zum Hades",
+                "hu": "A Hádész bejárata",
+                "ro": "Intrarea în Hades",
+                "en": "Entrance to Hades"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe des Höhleneingangs finden Sie unter den Felsvorsprüngen Schutz vor plötzlichen Schauern, während Sie die mythische Atmosphäre genießen.",
+                "hu": "A barlang bejárata közelében a sziklakiszögellések alatt védelmet találhat a hirtelen záporok elől, miközben átadja magát a mitikus hangulatnak.",
+                "ro": "Lângă intrarea în peșteră puteți găsi adăpost sub stânci în caz de averse bruște, în timp ce vă bucurați de atmosfera mitică a locului.",
+                "en": "Near the cave entrance, you can find shelter under the rock overhangs during sudden showers while soaking in the mythical atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Romaike Paralia",
+                "hu": "Romaike Paralia",
+                "ro": "Romaike Paralia",
+                "en": "Romaike Paralia"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen rau und dramatisch; suchen Sie sich einen geschützten Platz zwischen den Felsen, um das Peitschen der Wellen zu beobachten.",
+                "hu": "A tengerpart esőben zord és drámai látványt nyújt; keressen egy védett helyet a sziklák között, ahonnan megfigyelheti a hullámok tajtékzását.",
+                "ro": "Plaja arată dur și dramatic pe ploaie; căutați un loc protejat între stânci de unde să observați spectacolul valurilor înspumate.",
+                "en": "The beach looks rugged and dramatic in the rain; find a sheltered spot among the rocks to watch the spectacular crashing of the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Skourka",
+                "hu": "Skourka",
+                "ro": "Skourka",
+                "en": "Skourka"
+              },
+              "tip_5lang": {
+                "de": "Auf der Anhöhe ist es windig und nass; ein hochwertiger Regenmantel schützt Sie vor dem Auskühlen, während Sie den Blick über das Meer schweifen lassen.",
+                "hu": "A dombtetőn szeles és vizes időre számítson; egy jó minőségű esőkabát megvédi a kihűléstől, miközben a tenger feletti kilátást nézi.",
+                "ro": "Pe colină este vânt și umezeală; o pelerină de ploaie de calitate vă va proteja de frig în timp ce admirați priveliștea deasupra mării.",
+                "en": "Expect windy and wet conditions on the hilltop; a high-quality raincoat will keep you warm while you take in the view over the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Brise am südlichsten Punkt. Der Morgen beginnt frisch bei den Ruinen, die im tiefen Winterlicht fast golden leuchten. Mittags bietet das Museum angenehme Wärme. Der Nachmittag zur Hades-Höhle ist windig, aber die klare Luft ist herrlich. Gegen 17:00 Uhr sinkt die Sonne schnell, und wir beenden die Wanderung bei Skourka in der friedlichen Stille der Nebensaison.",
+            "hu": "Csípős szél a legdélebbi ponton. A reggel frissen indul a romoknál, melyek a téli fényben szinte aranylón csillognak. Délben a múzeumban melegedhetünk fel. A délutáni séta a Hádész-barlanghoz szeles, de a tiszta levegő kárpótol. 17:00 körül a nap már lebukik, így a túrát Skourka magányában, a holtszezon csendjében zárjuk.",
+            "ro": "Adiere rece la cel mai sudic punct. Dimineața începe proaspăt la ruine, care strălucesc auriu în lumina iernii. La prânz ne încălzim în muzeu. Plimbarea de după-amiază spre peșteră este vântoasă, dar aerul curat este minunat. Pe la ora 17:00 soarele apune rapid, încheind drumeția la Skourka în liniștea deplină a extrasezonului.",
+            "en": "A crisp breeze at the southernmost tip. The morning starts fresh at the ruins, which glow golden in the winter light. At noon, we warm up inside the museum. The afternoon walk to the cave is windy, but the clear air is refreshing. By 17:00, the sun sets quickly, and we conclude our trek at Skourka in the peaceful silence of the off-season."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antikes Tainaron",
+                "hu": "Ókori Tainaron",
+                "ro": "Anticul Tainaron",
+                "en": "Ancient Tainaron"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und wirft lange Schatten; tragen Sie warme Schichten, da der Wind hier am Kap ungeschützt und sehr kräftig wehen kann.",
+                "hu": "A téli nap alacsonyan jár és hosszú árnyékokat vet; öltözzön rétegesen, mert a szél itt a fokon akadálytalanul és nagyon erősen fújhat.",
+                "ro": "Soarele de iarnă este jos și lasă umbre lungi; purtați straturi calde, deoarece vântul aici la cap poate sufla nestingherit și foarte puternic.",
+                "en": "The winter sun sits low, casting long shadows; wear warm layers as the wind here at the cape can blow unobstructed and very strongly."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum des antiken Tainaron",
+                "hu": "Az ókori Tainaron Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic al anticului Tainaron",
+                "en": "Archeological Museum of ancient Tainaron"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet eine willkommene Pause vom kalten Seewind; nutzen Sie die Zeit, um sich aufzuwärmen, bevor Sie die Wanderung im Freien fortsetzen.",
+                "hu": "A múzeum kellemes pihenőt nyújt a hideg tengeri szél elől; használja ki az időt a felmelegedésre, mielőtt folytatná a szabadtéri túrát.",
+                "ro": "Muzeul oferă o pauză binemeritată de vântul rece al mării; folosiți timpul pentru a vă încălzi înainte de a continua drumeția în aer liber.",
+                "en": "The museum provides a welcome break from the cold sea breeze; use the time to warm up before continuing your outdoor trek."
+              }
+            },
+            {
+              "name": {
+                "de": "Eingang zum Hades",
+                "hu": "A Hádész bejárata",
+                "ro": "Intrarea în Hades",
+                "en": "Entrance to Hades"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle wirkt im Winterlicht besonders geheimnisvoll; achten Sie auf den Untergrund, da das Gestein durch die hohe Luftfeuchtigkeit feucht sein kann.",
+                "hu": "A barlang a téli fényben különösen titokzatos; figyeljen a lába elé, mert a magas páratartalom miatt a kőzet nyirkos és csúszós lehet.",
+                "ro": "Peștera pare deosebit de misterioasă în lumina iernii; fiți atenți pe unde călcați, deoarece stânca poate fi umedă din cauza umidității ridicate.",
+                "en": "The cave looks especially mysterious in the winter light; watch your step as the rock can be damp and slippery due to high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Romaike Paralia",
+                "hu": "Romaike Paralia",
+                "ro": "Romaike Paralia",
+                "en": "Romaike Paralia"
+              },
+              "tip_5lang": {
+                "de": "Ein Picknick am menschenleeren Winterstrand ist wunderschön, erfordert aber eine windfeste Jacke und warme Getränke in einer Thermoskanne.",
+                "hu": "Egy piknik az elhagyatott téli tengerparton csodálatos, de szélálló kabátot és egy termoszban vitt forró italt mindenképpen igényel.",
+                "ro": "Un picnic pe plaja pustie de iarnă este minunat, dar necesită o jachetă rezistentă la vânt și băuturi calde aduse într-un termos.",
+                "en": "A picnic on the deserted winter beach is wonderful but requires a windproof jacket and hot drinks brought in a thermos."
+              }
+            },
+            {
+              "name": {
+                "de": "Skourka",
+                "hu": "Skourka",
+                "ro": "Skourka",
+                "en": "Skourka"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft hier vor 16:30 Uhr ein, um das letzte Tageslicht zu nutzen, da es danach in der Mani sehr schnell dunkel und kalt wird.",
+                "hu": "Tervezze ide az érkezést 16:30 előtt, hogy kihasználja az utolsó fényeket, mert utána a Manin nagyon gyorsan sötétedik és hűl le a levegő.",
+                "ro": "Planificați sosirea aici înainte de ora 16:30 pentru a profita de ultima lumină, deoarece după aceea în Mani se întunecă și se răcește rapid.",
+                "en": "Plan to arrive here before 16:30 to catch the last light, as it gets dark and cold very quickly in the Mani after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpártúrát Skourka zord természeti szépségei között, élvezve a reggeli szellőt. Tekerjen délre Marmari felé, hogy a déli pihenő során élvezze az aranyhomokot. Délután pedálozzon el Purgos Gregorake történelmi kőtornyai mellett a hangulatos Porto Kagio irányába. Zárja az aktív napot egy felfelé vezető úttal Porto Kayio lenyűgöző várához, ahonnan csodás a kilátás.",
         "ro": "Începeți călătoria cu bicicleta printre frumusețea naturală de la Skourka. Mergeți spre sud spre Marmari pentru a vă bucura de nisipurile sale aurii pentru o pauză la prânz. După-amiaza, pedalați pe lângă turnurile istorice din piatră din Purgos Gregorake spre farmecul de coastă din Porto Kagio. Încheiați-vă ziua activă mergând la impresionantul Castel Porto Kayio.",
         "en": "Begin your cycling trip amidst the rugged natural beauty of Skourka, taking in the morning breeze. Ride south to Marmari to enjoy its golden sands and clear waters for a midday break. In the afternoon, pedal past the historic stone towers of Purgos Gregorake toward the coastal charm of Porto Kagio. Conclude your active day by cycling up to the impressive Castle of Porto Kayio overlooking the bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen der Mani. Der Tag beginnt bei Skourka mit böigem Wind, der das Treten erschwert. Mittags erreichen wir Marmari, wo wir unter einem Dach pausieren. Die Fahrt nach Porto Kagio führt über nasse Asphaltstraßen, die Vorsicht verlangen. Der Tag endet an der Festung, wo der Nebel mystisch um die alten Mauern zieht.",
+            "hu": "Kerékpározás a Mani esőjében. A nap Skourkánál indul széllökésekkel, amik megnehezítik a tekerést. Délben érjük el Marmarit, ahol egy tető alatt pihenünk meg. Az út Porto Kagio felé vizes aszfalton vezet, ami óvatosságot igényel. A nap a várnál ér véget, ahol a köd misztikusan gomolyog a régi falak körül.",
+            "ro": "Ciclism prin ploaia din Mani. Ziua începe la Skourka cu rafale de vânt care îngreunează pedalarea. La prânz ajungem la Marmari, unde ne odihnim sub un acoperiș. Drumul spre Porto Kagio trece pe asfalt ud, necesitând prudență. Ziua se încheie la cetate, unde ceața se rotește mistic în jurul zidurilor vechi.",
+            "en": "Cycling through the Mani rain. The day starts at Skourka with gusty winds making pedaling challenging. By noon, we reach Marmari, taking a break under cover. The ride to Porto Kagio involves wet asphalt, requiring extra caution. The day ends at the castle, where mist swirls mystically around the ancient stone walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skourka",
+                "hu": "Skourka",
+                "ro": "Skourka",
+                "en": "Skourka"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Start Ihre Bremsen gründlich; die Abfahrt von der Anhöhe ist bei Regen gefährlich, wenn die Felgen nass und rutschig sind.",
+                "hu": "Indulás előtt alaposan ellenőrizze a fékeket; a dombról való leereszkedés esőben veszélyes lehet, ha a felnik vizesek és csúszósak.",
+                "ro": "Verificați frânele cu atenție înainte de plecare; coborârea de pe colină este periculoasă pe ploaie dacă jantele sunt ude și alunecoase.",
+                "en": "Check your brakes thoroughly before starting; descending from the hill is dangerous in the rain when the rims are wet and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Marmari",
+                "hu": "Marmari",
+                "ro": "Marmari",
+                "en": "Marmari"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einer der kleinen Tavernen, um den stärksten Guss abzuwarten; die salzige Gischt vermischt sich hier oft mit dem Regen.",
+                "hu": "Keressen menedéket az egyik kis tavernában, hogy kivárja a nagyobb záport; a sós tengeri pára itt gyakran keveredik az esővel.",
+                "ro": "Căutați adăpost într-o mică tavernă pentru a aștepta trecerea ploii torențiale; vaporii sărați ai mării se amestecă aici des cu ploaia.",
+                "en": "Seek shelter in a small tavern to wait out the heaviest rain; the salty sea spray often mixes with the rainfall here."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Gregorake",
+                "hu": "Purgos Gregorake",
+                "ro": "Purgos Gregorake",
+                "en": "Purgos Gregorake"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher ist steinig und bei Nässe tückisch; steigen Sie im Zweifelsfall ab und schieben Sie Ihr Rad, um Stürze auf dem Matsch zu vermeiden.",
+                "hu": "Az ide vezető út köves és nedvesen csalóka; kétség esetén szálljon le és tolja a biciklit, hogy elkerülje az elesést a sárban.",
+                "ro": "Drumul până aici este pietros și înșelător pe umezeală; dacă aveți dubii, coborâți și împingeți bicicleta pentru a evita căzăturile în noroi.",
+                "en": "The path here is stony and treacherous when wet; if in doubt, dismount and push your bike to avoid falling in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Kagio",
+                "hu": "Porto Kagio",
+                "ro": "Porto Kagio",
+                "en": "Porto Kagio"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist gut geschützt, aber die Straßen am Ufer können überschwemmt sein; achten Sie auf tiefe Pfützen, die Schlaglöcher verbergen könnten.",
+                "hu": "Az öböl jól védett, de a parti utak víz alá kerülhetnek; ügyeljen a mély tócsákra, amelyek kátyúkat rejthetnek az aszfalt alatt.",
+                "ro": "Golful este bine protejat, dar drumurile de pe mal pot fi inundate; atenție la bălțile adânci care pot ascunde gropi în asfalt.",
+                "en": "The bay is well protected, but coastal roads can flood; watch out for deep puddles that might hide potholes under the surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung von Porto Kayio",
+                "hu": "Porto Kayio vára",
+                "ro": "Castelul Porto Kayio",
+                "en": "Castle of Porto Kayio"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Aufstieg zur Festung ist steil; auf nassem Untergrund verlieren die Reifen leicht die Bodenhaftung, also fahren Sie mit niedrigem Druck.",
+                "hu": "Az utolsó emelkedő a várig meredek; a vizes talajon a gumik könnyen elveszítik a tapadást, ezért tekerjen óvatosan és lassan.",
+                "ro": "Ultima urcare spre cetate este abruptă; pe solul ud anvelopele pierd ușor aderența, așa că pedalați cu atenție și viteză redusă.",
+                "en": "The final climb to the castle is steep; tires easily lose traction on wet ground, so pedal carefully and maintain a steady pace."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radabenteuer. Der Morgen bei Skourka ist eiskalt, aber die klare Sicht lässt die Kykladen am Horizont erahnen. Mittags in Marmari ist es ruhig und friedlich. Die Fahrt nach Porto Kagio profitiert von der milden Mittagssonne. Um 15:00 Uhr erklimmen wir die Festung, um das goldene Licht einzufangen, bevor wir die Tour vor dem frühen Sonnenuntergang beenden.",
+            "hu": "Téli kerékpáros kaland. A reggel Skourkánál jéghideg, de a tiszta kilátás miatt a távoli Kükládok is felsejlenek. Napközben Marmari csendes és békés. A Porto Kagio felé vezető út élvezi az enyhe déli napsütést. 15:00-kor másszuk meg a várat az arany fényekért, mielőtt a korai naplemente előtt befejeznénk a túrát.",
+            "ro": "Aventură hibernală pe bicicletă. Dimineața la Skourka este înghețată, dar vizibilitatea clară permite observarea Cicladelor la orizont. La prânz, Marmari este liniștit și pașnic. Drumul spre Porto Kagio profită de soarele blând de amiază. La ora 15:00 urcăm la cetate pentru lumina aurie, înainte de a încheia tura.",
+            "en": "A winter cycling adventure. The morning at Skourka is freezing, but the clear visibility lets you spot the distant Cyclades. By midday, Marmari is quiet and peaceful. The ride to Porto Kagio benefits from the mild noon sun. At 15:00, we climb to the castle for the golden lights before finishing the tour before the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Skourka",
+                "hu": "Skourka",
+                "ro": "Skourka",
+                "en": "Skourka"
+              },
+              "tip_5lang": {
+                "de": "Handschuhe und eine winddichte Mütze unter dem Helm sind unverzichtbar, da der Fahrtwind bei den niedrigen Temperaturen sehr schnell auskühlt.",
+                "hu": "Kesztyű és a sisak alá vett szélálló sapka elengedhetetlen, mivel a menetszél a hidegben nagyon gyorsan lehűti az embert.",
+                "ro": "Mănușile și o căciulă rezistentă la vânt sub cască sunt esențiale, deoarece curentul de aer vă poate răci foarte rapid la temperaturi scăzute.",
+                "en": "Gloves and a windproof cap under your helmet are essential, as the wind chill at low temperatures can cool you down very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Marmari",
+                "hu": "Marmari",
+                "ro": "Marmari",
+                "en": "Marmari"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne wärmt hier mittags die Felsen; nutzen Sie eine Pause für ein kurzes Sonnenbad, um die Vitamin-D-Speicher im Winter aufzufüllen.",
+                "hu": "A nap délben kellemesen felmelegíti itt a sziklákat; használja ki a pihenőt egy rövid napozásra, hogy feltöltődjön a téli időszakban.",
+                "ro": "Soarele încălzește plăcut stâncile la amiază; profitați de pauză pentru puțin soare, util pentru a vă reîncărca bateriile în timpul iernii.",
+                "en": "The sun warms the rocks here nicely at noon; use your break for a short sunbath to recharge your energy during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos Gregorake",
+                "hu": "Purgos Gregorake",
+                "ro": "Purgos Gregorake",
+                "en": "Purgos Gregorake"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist im Winter spärlicher, was den Blick auf die Turmhäuser freigibt; halten Sie kurz an, um die Architektur ohne Blätterwerk zu fotografieren.",
+                "hu": "A vegetáció télen ritkább, így jobban látszanak a toronyházak; álljon meg egy pillanatra lefotózni az építészetet a zavaró lombozat nélkül.",
+                "ro": "Vegetația este mai rară iarna, lăsând la vedere casele-turn; opriți-vă un moment pentru a fotografia arhitectura fără frunzișul deranjant.",
+                "en": "Vegetation is thinner in winter, revealing the tower houses more clearly; stop for a moment to photograph the architecture without leafy distractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Kagio",
+                "hu": "Porto Kagio",
+                "ro": "Porto Kagio",
+                "en": "Porto Kagio"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind viele Tavernen geschlossen; führen Sie ausreichend Energieriegel und kalorienreiche Snacks mit, um Ihre Ausdauer aufrechtzuerhalten.",
+                "hu": "Télen sok taverna zárva tart; vigyen magával elegendő energiaszeletet és kalóriadús falatokat, hogy fenntartsa az állóképességét.",
+                "ro": "Iarna multe taverne sunt închise; purtați cu voi suficiente batoane energizante și gustări calorice pentru a vă menține rezistența.",
+                "en": "Many taverns are closed in winter; carry enough energy bars and high-calorie snacks to maintain your stamina throughout the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung von Porto Kayio",
+                "hu": "Porto Kayio vára",
+                "ro": "Castelul Porto Kayio",
+                "en": "Castle of Porto Kayio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an der Festung; im Winter haben Sie dieses historische Denkmal oft ganz für sich allein für perfekte Panoramafotos.",
+                "hu": "Élvezze a magányt a várnál; télen gyakran teljesen egyedül lehet ebben a történelmi emlékhelyben, ami tökéletes a panorámafotókhoz.",
+                "ro": "Bucurați-vă de singurătate la cetate; iarna sunteți adesea singur în acest sit istoric, ceea ce este perfect pentru fotografii panoramice.",
+                "en": "Enjoy the solitude at the castle; in winter, you often have this historic site all to yourself, perfect for unobstructed panoramic photos."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Vezessen el a legdélebbi pontra, és fedezze fel a Múzeumot és az ókori Tainaront a friss reggeli levegőn. Délben haladjon északra Marmari felé egy úszásra a türkizkék öbölben. A délutáni út Porto Kagio festői kikötőjébe, majd az impozáns várromokhoz vezet. Végül élvezze a békés estét Purgos csendes, eldugott természeti területén.",
         "ro": "Conduceți spre cel mai sudic punct pentru a explora Muzeul și Anticul Tainaron în aerul proaspăt al dimineții. La prânz, mergeți pe coastă la Marmari pentru o baie în golful turcoaz. Călătoria de după-amiază vă duce în portul pitoresc din Porto Kagio și până la ruinele castelului său. În cele din urmă, bucurați-vă de o seară liniștită în locul natural din Purgos.",
         "en": "Drive to the southernmost point to explore the Archeological Museum and Ancient Tainaron in the fresh morning air. For midday, head up the coast to Marmari for a swim in the turquoise bay. The afternoon drive takes you to the picturesque harbor of Porto Kagio for a seaside stroll and up to its commanding castle ruins. Finally, enjoy a peaceful evening at the quiet natural spot of Purgos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mani-Rundfahrt im Regen. Das Auto bietet den perfekten Rückzugsort. Wir beginnen im Museum, während der Regen gegen die Scheiben trommelt. Mittags fahren wir zum Kap Tainaron, wobei wir die dramatische Küste trocken aus dem Fenster bewundern. Über Marmari geht es nach Porto Kagio. Der Tag endet sicher im Scheinwerferlicht bei Purgos.",
+            "hu": "Mani körút esőben. Az autó tökéletes menedéket nyújt. A múzeumban kezdünk, miközben az eső az ablakon kopog. Délben a Tainaron-fokhoz hajtunk, a drámai partvidéket szárazon, az ablakból csodálva. Marmarin keresztül Porto Kagio felé vesszük az irányt. A nap biztonságban, a fényszórók fényénél ér véget Purgosnál.",
+            "ro": "Turul Mani pe ploaie. Mașina oferă adăpostul perfect. Începem la muzeu în timp ce ploaia bate în geamuri. La prânz conducem spre Capul Tainaron, admirând coasta dramatică din interiorul uscat. Prin Marmari mergem spre Porto Kagio. Ziua se încheie în siguranță la lumina farurilor, în apropiere de Purgos.",
+            "en": "A car tour through the Mani rain. The vehicle provides the perfect refuge. We start at the museum while rain drums on the windows. At noon, we drive to Cape Tainaron, admiring the dramatic coastline from the dry interior. Via Marmari, we head to Porto Kagio. The day ends safely in the glow of headlights near Purgos."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum des antiken Tainaron",
+                "hu": "Az ókori Tainaron Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic al anticului Tainaron",
+                "en": "Archeological Museum of ancient Tainaron"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; das Museum ist der ideale Ort, um die regenreichste Zeit des Vormittags zu überbrücken.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást; a múzeum ideális hely a délelőtti legesősebb órák eltöltésére.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; muzeul este locul ideal pentru a trece peste cele mai ploioase ore ale dimineții.",
+                "en": "Park as close to the entrance as possible to avoid getting soaked; the museum is the ideal place to spend the rainiest hours of the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Tainaron",
+                "hu": "Ókori Tainaron",
+                "ro": "Anticul Tainaron",
+                "en": "Ancient Tainaron"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum Kap kann bei starkem Regen Geröll führen; fahren Sie vorsichtig und achten Sie auf Steine, die von den Hängen auf die Fahrbahn rutschen könnten.",
+                "hu": "A fokhoz vezető úton erős esőben kőtörmelék lehet; vezessen óvatosan, és ügyeljen a sziklákra, amik a lejtőkről az úttestre csúszhatnak.",
+                "ro": "Drumul spre cap poate avea resturi de rocă pe ploaie torențială; conduceți cu atenție și fiți atenți la pietrele care pot cădea de pe versanți.",
+                "en": "The road to the cape may have debris during heavy rain; drive cautiously and watch out for rocks that might slide onto the pavement from the slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Marmari",
+                "hu": "Marmari",
+                "ro": "Marmari",
+                "en": "Marmari"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind im Auto und genießen Sie die Aussicht auf die tobende See; die Gischt kann das Auto mit einer Salzschicht überziehen.",
+                "hu": "Erős szélben maradjon az autóban, és élvezze a háborgó tenger látványát; a sós tengeri pára ilyenkor vékony rétegben bevonhatja a kocsit.",
+                "ro": "În caz de vânt puternic, rămâneți în mașină și admirați marea agitată; vaporii sărați pot acoperi mașina cu un strat subțire de sare.",
+                "en": "In case of strong winds, stay inside the car and enjoy the view of the churning sea; the salty spray can coat the car in a thin layer of salt."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Kagio",
+                "hu": "Porto Kagio",
+                "ro": "Porto Kagio",
+                "en": "Porto Kagio"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Gassen im Dorf sind bei Nässe sehr rutschig; parken Sie am Dorfeingang und nutzen Sie einen Regenschirm für den kurzen Weg zum Hafen.",
+                "hu": "A falu szűk utcái vizesen nagyon csúszósak; parkoljon a falu szélén, és használjon esernyőt a kikötőig tartó rövid sétához.",
+                "ro": "Străzile înguste din sat sunt foarte alunecoase pe umezeală; parcați la intrarea în sat și folosiți o umbrelă pentru scurta plimbare spre port.",
+                "en": "The narrow village streets are very slippery when wet; park at the entrance and use an umbrella for the short walk down to the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung von Porto Kayio",
+                "hu": "Porto Kayio vára",
+                "ro": "Castelul Porto Kayio",
+                "en": "Castle of Porto Kayio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Zoom Ihrer Kamera aus dem trockenen Auto heraus, wenn der Regen zu stark für eine Besichtigung zu Fuß ist; das Panorama ist dennoch grandios.",
+                "hu": "Használja a fényképezőgép zoomját a száraz autóból, ha az eső túl erős a gyalogos nézelődéshez; a panoráma így is lenyűgöző marad.",
+                "ro": "Folosiți zoom-ul camerei din interiorul uscat al mașinii dacă plouă prea tare pentru o vizită pe jos; panorama rămâne grandioasă oricum.",
+                "en": "Use your camera's zoom from the dry interior of the car if the rain is too heavy for a walk; the panorama remains magnificent regardless."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos",
+                "hu": "Purgos",
+                "ro": "Purgos",
+                "en": "Purgos"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Rückfahrt auf Nebelfelder in den Bergen; schalten Sie die Nebelschlussleuchte ein und reduzieren Sie die Geschwindigkeit deutlich.",
+                "hu": "A visszaúton ügyeljen a hegyi ködfoltokra; kapcsolja be a ködlámpát, és jelentősen csökkentse a sebességet a biztonság érdekében.",
+                "ro": "La întoarcere, atenție la porțiunile cu ceață în munți; aprindeți luminile de ceață și reduceți semnificativ viteza pentru siguranță.",
+                "en": "On the return journey, watch out for patches of fog in the mountains; turn on your fog lights and significantly reduce your speed for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Roadtrip durch Mani. Im beheizten Auto erkunden wir die abgelegenen Orte. Der Morgen im Museum ist lehrreich und warm. Mittags steuern wir das Kap Tainaron an, wo die Wintersonne die Ruinen in ein sanftes Licht taucht. Über Marmari geht es nach Porto Kagio. Der Höhepunkt ist der frühe Sonnenuntergang bei Purgos gegen 17:00 Uhr, den wir gemütlich im Auto erleben.",
+            "hu": "Téli autós kirándulás Manin. A fűtött autóban fedezzük fel a távoli helyeket. A reggel a múzeumban tanulságos és meleg. Délben a Tainaron-fok felé vesszük az irányt, ahol a téli nap lágy fénybe vonja a romokat. Marmarin keresztül érkezünk Porto Kagioba. A csúcspont a korai naplemente Purgosnál 17:00 körül, amit kényelmesen a kocsiból nézünk végig.",
+            "ro": "Roadtrip de iarnă prin Mani. Explorăm locurile izolate în confortul mașinii încălzite. Dimineața la muzeu este educativă și caldă. La prânz ne îndreptăm spre Capul Tainaron, unde soarele de iarnă scaldă ruinele în lumină blândă. Prin Marmari ajungem la Porto Kagio. Momentul culminant este apusul timpuriu la Purgos, pe la ora 17:00.",
+            "en": "A winter road trip through Mani. We explore remote locations in the comfort of a heated car. The morning at the museum is educational and warm. At noon, we head to Cape Tainaron, where the winter sun bathes the ruins in soft light. Passing through Marmari, we reach Porto Kagio. The highlight is the early sunset at Purgos around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum des antiken Tainaron",
+                "hu": "Az ókori Tainaron Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic al anticului Tainaron",
+                "en": "Archeological Museum of ancient Tainaron"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison; im Winter haben Sie die Exponate fast für sich allein, was eine viel intensivere Auseinandersetzung ermöglicht.",
+                "hu": "Élvezze a holtszezon nyugalmát; télen szinte egyedül lehet a kiállítási tárgyakkal, ami sokkal mélyebb elmélyülést tesz lehetővé.",
+                "ro": "Bucurați-vă de liniștea extrasezonului; iarna sunteți aproape singur cu exponatele, ceea ce permite o explorare mult mai intensă.",
+                "en": "Enjoy the peace of the off-season; in winter, you'll have the exhibits almost to yourself, allowing for a much more immersive experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Tainaron",
+                "hu": "Ókori Tainaron",
+                "ro": "Anticul Tainaron",
+                "en": "Ancient Tainaron"
+              },
+              "tip_5lang": {
+                "de": "Die Temperaturen am Kap sind durch den Wind deutlich niedriger als im Inland; lassen Sie den Motor kurz laufen, um das Auto für die Weiterfahrt vorzuwärmen.",
+                "hu": "A foknál a hőmérséklet a szél miatt jóval alacsonyabb, mint beljebb; járassa kicsit a motort, hogy előmelegítse az autót a továbbindulás előtt.",
+                "ro": "Temperaturile la cap sunt mult mai scăzute din cauza vântului; lăsați motorul pornit puțin pentru a preîncălzi mașina înainte de a pleca mai departe.",
+                "en": "Temperatures at the cape are significantly lower due to the wind; let the engine run for a bit to preheat the car before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Marmari",
+                "hu": "Marmari",
+                "ro": "Marmari",
+                "en": "Marmari"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter fast leer, sodass Sie direkt am Strand halten können, um den Blick auf das Meer ohne kalten Wind zu genießen.",
+                "hu": "A parkoló télen szinte üres, így közvetlenül a parton állhat meg, hogy a hideg szél nélkül élvezhesse a tengerre nyíló kilátást.",
+                "ro": "Parcarea este aproape goală iarna, permițându-vă să opriți direct pe mal pentru a admira marea fără a fi expus vântului rece.",
+                "en": "The parking lot is almost empty in winter, allowing you to stop right by the shore and enjoy the sea view without the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Kagio",
+                "hu": "Porto Kagio",
+                "ro": "Porto Kagio",
+                "en": "Porto Kagio"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang am Hafen; die klare Winterluft sorgt für exzellente Sichtverhältnisse auf die gegenüberliegenden Hänge der Mani.",
+                "hu": "Tegyen egy rövid sétát a kikötőben; a tiszta téli levegő kiváló látási viszonyokat biztosít a Mani szemközti hegyoldalaira.",
+                "ro": "Faceți o scurtă plimbare prin port; aerul clar de iarnă oferă o vizibilitate excelentă asupra versanților opuși ai peninsulei Mani.",
+                "en": "Take a short walk around the harbor; the clear winter air provides excellent visibility across to the opposite slopes of the Mani."
+              }
+            },
+            {
+              "name": {
+                "de": "Festung von Porto Kayio",
+                "hu": "Porto Kayio vára",
+                "ro": "Castelul Porto Kayio",
+                "en": "Castle of Porto Kayio"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt zur Festung ist steil, aber die Straße ist gut ausgebaut; nutzen Sie die Parkbuchten für Fotos der Küstenlinie im weichen Winterlicht.",
+                "hu": "A várhoz vezető út meredek, de jól kiépített; használja a parkolóöblöket a partvonal fotózásához a lágy téli napsütésben.",
+                "ro": "Drumul spre cetate este abrupt, dar bine întreținut; folosiți alveolele de parcare pentru a fotografia linia coastei în lumina blândă a iernii.",
+                "en": "The drive to the castle is steep but the road is well-built; use the lay-bys to photograph the coastline in the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Purgos",
+                "hu": "Purgos",
+                "ro": "Purgos",
+                "en": "Purgos"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort für den Sonnenuntergang; stellen Sie das Auto mit Blick nach Westen auf und genießen Sie das Farbspiel bei laufender Heizung.",
+                "hu": "Ez az ideális hely a naplementéhez; állítsa le a kocsit nyugat felé nézve, és élvezze a színek játékát a fűtött utastér kényelméből.",
+                "ro": "Acesta este locul ideal pentru apus; opriți mașina cu fața spre vest și admirați spectacolul culorilor din confortul interiorului încălzit.",
+                "en": "This is the ideal spot for sunset; park the car facing west and enjoy the play of colors from the comfort of the heated interior."
+              }
+            }
+          ]
+        }
       }
     }
   }

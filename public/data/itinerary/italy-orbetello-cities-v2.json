@@ -229,6 +229,280 @@
         "hu": "A nap Orbetello történelmi szívében kezdődik, felfedezve a Palazzo del Governatore-t és a közeli templomokat. Délben a csendes lagúna felé veszi az irányt, hogy megcsodálja az ikonikus Antico Mulino Spagnolo-t. A délutánt a város gazdag múltjának szenteli, elmélyedve a régészeti múzeumban és sétálva a lenyűgöző Bastione Santa Maria mentén. Az este közeledtével további védműveket fedez fel, és a sétát a fenséges szárazföldi kapunál fejezi be az alkonyati égbolt alatt.",
         "ro": "Ziua începe în inima istorică a orașului Orbetello, explorând Palazzo del Governatore și bisericile din apropiere. La prânz vă îndreptați spre laguna liniștită pentru a admira emblematica Antico Mulino Spagnolo. După-amiaza este dedicată trecutului bogat al orașului, vizitând muzeul arheologic și plimbându-vă de-a lungul impresionantului Bastione Santa Maria. Odată cu lăsarea serii, veți descoperi mai multe structuri defensive, încheind turul pietonal la maiestuoasa poartă dinspre uscat sub cerul crepuscular.",
         "en": "Your day begins in the historic heart of Orbetello, exploring the grand Palazzo del Governatore and nearby churches. Midday takes you towards the tranquil lagoon to marvel at the iconic Antico Mulino Spagnolo and the surrounding religious heritage. The afternoon is dedicated to the town's rich past, delving into the archaeological museum and strolling along the impressive Bastione Santa Maria. As evening approaches, you will discover more defensive structures, concluding your walking tour at the majestic landward gate under a twilight sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Orbetello zeigt sich bei Regen von einer melancholischen, aber faszinierenden Seite. Die Lagune verschmilzt mit dem grauen Himmel, während die historischen Gassen im Regen glänzen. Ein stabiler Schirm ist unerlässlich, da der Wind vom Meer her kräftig wehen kann. Nutzen Sie die zahlreichen Kirchen und das Museum als trockene Zufluchtsorte während der Schauer.",
+            "hu": "Orbetello esőben is különleges arcát mutatja, ahogy a lagúna vize és az égbolt szürkés tónusai összeolvadnak. A szűk utcákon az esernyő elengedhetetlen, a szél gyakran megélénkül a víz felől. A város templomai és a múzeum tökéletes fedett menedéket nyújtanak a záporok idején, miközben a vizes macskaköveken óvatosan kell lépkedni.",
+            "ro": "Orbetello sub ploaie are o atmosferă melancolică și fascinantă, cu străzile vechi strălucind sub stropi. O umbrelă rezistentă este vitală, deoarece vântul dinspre lagună poate fi puternic. Bisericile istorice și muzeul sunt refugii excelente pentru a rămâne uscat, oferind în același timp o incursiune culturală profundă în inima Toscanei.",
+            "en": "Orbetello reveals a melancholic yet fascinating side in the rain, as the lagoon blurs with the grey sky. A sturdy umbrella is essential, as sea breezes can be quite strong in the open areas. Use the city's historic churches and the museum as dry sanctuaries during downpours, while being mindful of the slippery cobblestones in the center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo del Governatore",
+                "hu": "Palazzo del Governatore",
+                "ro": "Palazzo del Governatore",
+                "en": "Palazzo del Governatore"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die spanische Fassade von den gegenüberliegenden Arkaden aus, um trocken zu bleiben und die Details in Ruhe zu betrachten.",
+                "hu": "Csodálja meg a spanyol építészet remekét a szemközti árkádok alól, így szárazon maradhat, miközben az épület történelmi részleteit figyeli.",
+                "ro": "Admirați fațada spaniolă de sub arcadele de vis-à-vis pentru a rămâne uscat în timp ce observați detaliile istorice ale clădirii.",
+                "en": "Admire the Spanish architectural details from the covered arcades across the square to stay dry while soaking in the local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco da Paola",
+                "hu": "Chiesa di San Francesco da Paola",
+                "ro": "Chiesa di San Francesco da Paola",
+                "en": "Chiesa di San Francesco da Paola"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet eine stille und trockene Atmosphäre; nutzen Sie den Besuch, um die religiöse Kunst vor dem nächsten Regenschauer zu genießen.",
+                "hu": "Ez a templom csendes és száraz menedéket nyújt; használja ki a látogatást a vallási művészet megtekintésére a következő zápor előtt.",
+                "ro": "Această biserică oferă o atmosferă liniștită și uscată; profitați de vizită pentru a admira arta religioasă înainte de următoarea aversă.",
+                "en": "This church provides a quiet and dry atmosphere; take your time to appreciate the religious art inside while waiting for the rain to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Mulino Spagnolo",
+                "hu": "Antico Mulino Spagnolo",
+                "ro": "Antico Mulino Spagnolo",
+                "en": "Antico Mulino Spagnolo"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle im Wasser wirkt bei Regen mystisch, aber der Weg ist exponiert; halten Sie den Fotostopp kurz und tragen Sie wasserfeste Schuhe.",
+                "hu": "A vízben álló malom esőben misztikus látvány, de az út nyitott; tartsa rövidre a fotózást és viseljen vízálló cipőt a sár ellen.",
+                "ro": "Moara din apă arată mistic pe ploaie, dar drumul este expus; limitați durata opririi pentru fotografii și purtați încălțăminte impermeabilă.",
+                "en": "The mill in the water looks mystical in the rain, but the path is exposed; keep your photo stop brief and wear waterproof footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kleidung zu trocknen; bewundern Sie das schlichte Interieur und warten Sie hier die heftigsten Regengüsse einfach ab.",
+                "hu": "Ideális hely a ruházat megszárítására; csodálja meg az egyszerű belsőt, és várja meg itt a hevesebb esőrohamok végét a csendben.",
+                "ro": "Un loc ideal pentru a vă usca hainele; admirați interiorul simplu și așteptați aici trecerea celor mai puternice rafale de ploaie.",
+                "en": "An ideal place to dry off your gear; admire the simple interior while waiting for the heaviest rain clouds to drift away from the lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo archeologico di Orbetello",
+                "hu": "Museo archeologico di Orbetello",
+                "ro": "Museo archeologico di Orbetello",
+                "en": "Museo archeologico di Orbetello"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist das Highlight an Regentagen; planen Sie hier mehr Zeit ein, um die etruskischen Funde im trockenen Gebäude zu studieren.",
+                "hu": "A múzeum a legjobb választás esős időben; tervezzen ide hosszabb időt, hogy szárazon tanulmányozhassa az etruszk leleteket a falak között.",
+                "ro": "Muzeul este punctul culminant în zilele ploioase; rezervați-vă mai mult timp aici pentru a studia vestigiile etrusce la adăpost.",
+                "en": "The museum is your best bet on a rainy day; plan for extra time here to study the Etruscan artifacts inside the warm, dry building."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione Santa Maria",
+                "hu": "Bastione Santa Maria",
+                "ro": "Bastione Santa Maria",
+                "en": "Bastione Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Lagune ist dramatisch, aber Vorsicht vor rutschigen Steinen auf den alten Mauern bei Nässe; festes Schuhwerk ist wichtig.",
+                "hu": "A kilátás drámai a lagúnára, de vigyázzon a csúszós kövekre a falakon; a nedves időben a stabil túracipő elengedhetetlen a bástyán.",
+                "ro": "Vederea spre lagună este dramatică, dar atenție la pietrele alunecoase de pe ziduri; încălțămintea aderentă este esențială pe ploaie.",
+                "en": "The view over the lagoon is dramatic, but watch out for slippery stones on the old walls; sturdy shoes are a must in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz vor dem Regen; die Kirche bietet eine ruhige Pause vom ungemütlichen Wetter draußen an der Lagunenseite.",
+                "hu": "Keressen itt menedéket az eső elől; a templom csendes pihenőt kínál a barátságtalan kinti időjárás elől a lagúna felőli oldalon.",
+                "ro": "Căutați adăpost aici împotriva ploii; biserica oferă o pauză liniștită de la vremea neplăcută de afară, fiind aproape de malul lagunei.",
+                "en": "Seek shelter from the rain here; the church offers a calm respite from the blustery weather outside near the lagoon waterfront."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione della Rocca",
+                "hu": "Bastione della Rocca",
+                "ro": "Bastione della Rocca",
+                "en": "Bastione della Rocca"
+              },
+              "tip_5lang": {
+                "de": "Die Festung ist sehr windanfällig; halten Sie sich von den Kanten fern, wenn es stürmt, und genießen Sie die Aussicht nur kurz.",
+                "hu": "A bástya nagyon ki van téve a szélnek; viharos időben tartsa távol magát a peremektől, és csak rövid ideig élvezze a kilátást.",
+                "ro": "Bastionul este foarte expus vântului; stați departe de margini dacă este furtună și bucurați-vă de priveliște doar pentru scurt timp.",
+                "en": "The bastion is very exposed to the wind; stay away from the edges if it is stormy and keep your sightseeing focused and brief."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Esterna di Terra",
+                "hu": "Porta Esterna di Terra",
+                "ro": "Porta Esterna di Terra",
+                "en": "Porta Esterna di Terra"
+              },
+              "tip_5lang": {
+                "de": "Das massive Tor bietet kurzzeitigen Schutz vor Schauern; nutzen Sie den Durchgang als trockenen Treffpunkt vor dem Verlassen der Altstadt.",
+                "hu": "A masszív kapu rövid ideig védelmet nyújt a záporok ellen; használja az átjárót száraz találkozóhelyként az óváros elhagyása előtt.",
+                "ro": "Poarta masivă oferă protecție temporară împotriva averselor; folosiți pasajul ca punct de întâlnire uscat înainte de a părăsi centrul.",
+                "en": "The massive gate provides brief protection from showers; use the archway as a dry meeting point before heading out of the old town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Orbetello ist mild, aber oft windig. Die klare Luft bietet eine fantastische Sicht über die Lagune bis zum Monte Argentario. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenbesichtigungen am Vormittag planen. Warme, winddichte Kleidung ist für die Spaziergänge an der Stadtmauer wichtig, während die Museen angenehm temperiert sind.",
+            "hu": "A tél Orbetellóban enyhe, de gyakran szeles. A tiszta levegő fantasztikus kilátást nyújt a lagúnán túl a Monte Argentarióra. Mivel a nap már 17:00 körül lemegy, a külső helyszíneket érdemes délelőttre tervezni. A városfalakon való sétához meleg, szélálló ruházat szükséges, míg a múzeumok kellemesen temperáltak a látogatáshoz.",
+            "ro": "Iarna în Orbetello este blândă, dar adesea vântoasă. Aerul curat oferă o vizibilitate fantastică peste lagună până la Monte Argentario. Deoarece soarele apune în jurul orei 17:00, planificați vizitele în aer liber dimineața. Hainele groase și rezistente la vânt sunt esențiale pentru plimbările pe ziduri, în timp ce muzeele sunt încălzite.",
+            "en": "Winter in Orbetello is mild but frequently windy. The crisp air offers fantastic visibility across the lagoon to Monte Argentario. Since the sun sets around 5 PM, plan your outdoor visits for the morning. Warm, windproof clothing is essential for walks along the city walls, while the museums provide a cozy escape from the chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo del Governatore",
+                "hu": "Palazzo del Governatore",
+                "ro": "Palazzo del Governatore",
+                "en": "Palazzo del Governatore"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht im Winter tief und beleuchtet die Fassade am Vormittag besonders schön; tragen Sie eine Mütze gegen den kühlen Morgenwind.",
+                "hu": "A nap télen alacsonyan jár, délelőtt különösen szépen világítja meg a homlokzatot; viseljen sapkát a hűvös reggeli szél ellen.",
+                "ro": "Soarele de iarnă luminează fațada superb dimineața; purtați o căciulă pentru a vă proteja de vântul rece matinal în piața deschisă.",
+                "en": "The winter sun sits low, illuminating the facade beautifully in the morning; wear a hat against the chilly breeze in the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco da Paola",
+                "hu": "Chiesa di San Francesco da Paola",
+                "ro": "Chiesa di San Francesco da Paola",
+                "en": "Chiesa di San Francesco da Paola"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren der Kirche ist es deutlich wärmer als draußen; nutzen Sie den Stopp für eine kurze Aufwärmpause in spiritueller Stille.",
+                "hu": "A templom belsejében jóval melegebb van, mint kint; használja ki a megállót egy rövid felmelegedésre a spirituális csendben.",
+                "ro": "În interiorul bisericii este mult mai cald decât afară; profitați de oprire pentru o scurtă pauză de încălzire în liniște spirituală.",
+                "en": "The interior of the church is much warmer than the outside air; use this stop for a brief warming break in spiritual silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Mulino Spagnolo",
+                "hu": "Antico Mulino Spagnolo",
+                "ro": "Antico Mulino Spagnolo",
+                "en": "Antico Mulino Spagnolo"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser der Lagune ist im Winter eiskalt; die Mühle wirkt einsam und stolz, ideal für Fotos ohne die üblichen Touristenmassen.",
+                "hu": "A lagúna vize télen jéghideg; a malom magányosan és büszkén áll, tökéletes fotótéma a szokásos turistaáradat nélkül.",
+                "ro": "Apa lagunei este înghețată iarna; moara pare solitară și mândră, fiind un subiect foto perfect fără mulțimile obișnuite de turiști.",
+                "en": "The lagoon water is freezing in winter; the mill stands solitary and proud, making it a perfect photo subject without the usual crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Vormittag, wenn das Licht durch die Fenster fällt und den Raum in eine warme Atmosphäre taucht.",
+                "hu": "Látogassa meg a templomot késő délelőtt, amikor a fény beesik az ablakokon, és meleg hangulatba árasztja a belső teret.",
+                "ro": "Vizitați biserica spre sfârșitul dimineții, când lumina pătrunde prin ferestre și scaldă spațiul într-o atmosferă caldă și primitoare.",
+                "en": "Visit the church in the late morning when the winter light streams through the windows, creating a warm and welcoming atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo archeologico di Orbetello",
+                "hu": "Museo archeologico di Orbetello",
+                "ro": "Museo archeologico di Orbetello",
+                "en": "Museo archeologico di Orbetello"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um der Kälte zu entkommen; die Ausstellungen sind beheizt und bieten eine tiefgehende Beschäftigung mit der Geschichte.",
+                "hu": "Tökéletes hely a hideg elől való menekülésre; a kiállítások fűtöttek, és elmélyült foglalkozást kínálnak a helyi történelemmel.",
+                "ro": "Locul perfect pentru a scăpa de frig; expozițiile sunt încălzite și oferă o incursiune fascinantă în istoria antică a zonei.",
+                "en": "The perfect place to escape the winter chill; the exhibits are heated and offer an immersive look into the region's ancient history."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione Santa Maria",
+                "hu": "Bastione Santa Maria",
+                "ro": "Bastione Santa Maria",
+                "en": "Bastione Santa Maria"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Bastion kann schneidend sein; wickeln Sie sich fest in einen Schal ein, bevor Sie die weite Aussicht genießen.",
+                "hu": "A bástyán metsző lehet a szél; csavarjon magára szorosan egy sálat, mielőtt elmerülne a lagúnára nyíló tágas kilátásban.",
+                "ro": "Vântul de pe bastion poate fi tăios; înfășurați-vă bine cu un fular înainte de a vă bucura de vederea panoramică asupra lagunei.",
+                "en": "The wind on the bastion can be biting; wrap up tightly with a scarf before enjoying the expansive views over the winter lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp hier hilft, die Kälte der Uferpromenade zu vergessen; genießen Sie die Ruhe vor dem weiteren Weg zur Festung.",
+                "hu": "Egy rövid megálló itt segít elfelejteni a parti sétány hidegét; élvezze a csendet, mielőtt tovább indulna a bástyák felé.",
+                "ro": "O scurtă oprire aici vă ajută să uitați de frigul de pe faleză; bucurați-vă de liniște înainte de a continua drumul spre cetate.",
+                "en": "A short stop here helps you forget the chill of the waterfront; enjoy the peace before continuing your walk towards the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione della Rocca",
+                "hu": "Bastione della Rocca",
+                "ro": "Bastione della Rocca",
+                "en": "Bastione della Rocca"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Punkt vor 16:30 Uhr, um das goldene Licht kurz vor dem frühen Sonnenuntergang über dem Meer einzufangen.",
+                "hu": "Látogassa meg ezt a pontot 16:30 előtt, hogy elkapja az aranyló fényeket közvetlenül a korai naplemente előtt a tenger felett.",
+                "ro": "Vizitați acest punct înainte de ora 16:30 pentru a surprinde lumina aurie chiar înainte de apusul devreme de deasupra mării.",
+                "en": "Visit this point before 4:30 PM to catch the golden hour light just before the early winter sunset over the distant sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Esterna di Terra",
+                "hu": "Porta Esterna di Terra",
+                "ro": "Porta Esterna di Terra",
+                "en": "Porta Esterna di Terra"
+              },
+              "tip_5lang": {
+                "de": "In der Dämmerung ist das Tor stimmungsvoll beleuchtet; beeilen Sie sich, da es nach Sonnenuntergang schnell sehr kalt wird.",
+                "hu": "A szürkületben a kapu hangulatosan van kivilágítva; igyekezzen, mert naplemente után gyorsan lehűl a levegő az utcákon.",
+                "ro": "La crepuscul, poarta este iluminată sugestiv; grăbiți-vă, deoarece după apus aerul devine rapid foarte rece pe străzile orașului.",
+                "en": "In the twilight, the gate is atmospherically lit; move briskly as the temperature drops quickly after the sun sets at 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -406,6 +680,224 @@
         "hu": "Kezdje kerékpártúráját a városközpontban a közigazgatási történelem megismerésével a nagy palotánál, mielőtt az északi erődítményekhez tekerne. Délben követheti az ősi falak vonalát a kaputól a bástyáig, végül pedig elmerülhet a helyi ókorban a régészeti múzeumban. A délután festői utazás a lagúna mentén, megállva az ikonikus spanyol szélmalomnál. A nap a természetben zárul, a lagúna gazdag madárvilágának pihentető megfigyelésével.",
         "ro": "Începeți turul cu bicicleta în centrul orașului învățând despre istoria sa administrativă la palatul grandios înainte de a merge la fortificațiile nordice impresionante. La prânz urmăriți linia zidurilor antice de la poartă până la bastion, scufundându-vă apoi în antichitatea locală la muzeul arheologic. După-amiaza este o plimbare pitorească de-a lungul lagunei, făcând o oprire pitorească la emblematica moară de vânt spaniolă. Ziua se încheie în natură observând păsările de pe lagună.",
         "en": "Start your cycling tour in the town center by learning about its administrative history at the grand palazzo before moving to the impressive northern fortifications. Midday allows you to trace the line of the ancient walls from gate to bastion, eventually diving deep into local antiquity at the archaeological museum. The afternoon is a scenic ride along the lagoon, making a picturesque stop at the iconic Spanish windmill. Your day concludes in nature with a relaxing session observing the rich birdlife that calls the Orbetello lagoon home."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Orbetello bei Regen erfordert Vorsicht, da die Radwege entlang der Lagune rutschig sein können. Tragen Sie eine vollständige Regenmontur und achten Sie auf Pfützen. Die flache Strecke bleibt fahrbar, aber die Bremswege verlängern sich auf dem nassen Asphalt merklich. Planen Sie längere Pausen in den überdachten Bereichen der Altstadt ein.",
+            "hu": "A biciklizés Orbetellóban esőben óvatosságot igényel, a lagúna menti utak csúszóssá válhatnak. Viseljen teljes esővédő felszerelést és figyeljen a tócsákra. A sík terep továbbra is jól tekerhető, de a féktávolság jelentősen megnő a nedves aszfalton. Tervezzen hosszabb pihenőket az óváros fedett részein.",
+            "ro": "Mersul pe bicicletă în Orbetello pe ploaie necesită prudență, deoarece pistele de-a lungul lagunei pot deveni alunecoase. Purtați echipament complet impermeabil și atenție la bălți. Traseul plat rămâne practicabil, dar distanța de frânare crește considerabil pe asfaltul ud. Planificați pauze lungi în zonele acoperite.",
+            "en": "Cycling in Orbetello during rain requires caution, as the paths along the lagoon can become slippery. Wear full waterproof gear and watch out for deep puddles. The flat terrain remains manageable, but braking distances increase significantly on wet asphalt. Plan for longer breaks in the covered areas of the historic center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo del Governatore",
+                "hu": "Palazzo del Governatore",
+                "ro": "Palazzo del Governatore",
+                "en": "Palazzo del Governatore"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Arkaden und nutzen Sie die Pause, um die spanische Architektur im Trockenen zu bewundern.",
+                "hu": "Parkolja le a biciklijét az árkádok alatt, és használja ki a szünetet a spanyol építészet megtekintésére száraz helyen.",
+                "ro": "Parcați bicicleta sub arcade și folosiți pauza pentru a admira arhitectura spaniolă la adăpost de ploaie.",
+                "en": "Park your bike under the arcades and use the break to admire the Spanish architecture while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Esterna di Terra",
+                "hu": "Porta Esterna di Terra",
+                "ro": "Porta Esterna di Terra",
+                "en": "Porta Esterna di Terra"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Fahren durch das Tor; die alten Steine im Durchgang sind bei Nässe extrem glatt für Fahrradreifen.",
+                "hu": "Óvatosan hajtson át a kapun; az átjáró régi kövei nedvesen rendkívül csúszósak a kerékpárgumik számára.",
+                "ro": "Atenție când treceți prin poartă; pietrele vechi din pasaj sunt extrem de alunecoase pentru anvelopele de bicicletă când sunt ude.",
+                "en": "Be careful when riding through the gate; the old stones in the passage are extremely slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione d'Arcos",
+                "hu": "Bastione d'Arcos",
+                "ro": "Bastione d'Arcos",
+                "en": "Bastione d'Arcos"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann rutschig sein; steigen Sie im Zweifelsfall ab und schieben Sie das Rad, um Stürze auf dem nassen Wall zu vermeiden.",
+                "hu": "A felhajtó csúszós lehet; kétség esetén szálljon le és tolja a biciklit, hogy elkerülje az elesést a nedves várfalon.",
+                "ro": "Urcarea poate fi alunecoasă; dacă aveți dubii, coborâți și împingeți bicicleta pentru a evita căzăturile pe zidul umed.",
+                "en": "The ramp might be slippery; if in doubt, dismount and push your bike to avoid falls on the wet fortification walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione della Rocca",
+                "hu": "Bastione della Rocca",
+                "ro": "Bastione della Rocca",
+                "en": "Bastione della Rocca"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad gut, da die Windböen hier oben bei Regen stark sein können; halten Sie den Aufenthalt auf dem Wall kurz.",
+                "hu": "Rögzítse jól a biciklijét, mert a szél széllökései itt fent esőben erősek lehetnek; tartsa rövidre a várfalon való tartózkodást.",
+                "ro": "Asigurați bine bicicleta, deoarece rafalele de vânt de aici pot fi puternice pe ploaie; limitați timpul petrecut pe zid.",
+                "en": "Secure your bike well, as wind gusts up here can be strong during rain; keep your time on the wall brief and focused."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo archeologico di Orbetello",
+                "hu": "Museo archeologico di Orbetello",
+                "ro": "Museo archeologico di Orbetello",
+                "en": "Museo archeologico di Orbetello"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine lange Trocknungspause; Ihre Ausrüstung kann im Eingangsbereich sicher abgestellt werden.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszú száradási szünetre; felszerelését biztonságosan leteheti a bejárati részen.",
+                "ro": "Profitați de vizita la muzeu pentru o pauză lungă de uscare; echipamentul poate fi lăsat în siguranță la intrare.",
+                "en": "Take advantage of the museum visit for a long drying break; your gear can be safely stored in the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Mulino Spagnolo",
+                "hu": "Antico Mulino Spagnolo",
+                "ro": "Antico Mulino Spagnolo",
+                "en": "Antico Mulino Spagnolo"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Mühle ist schmal und nass; fahren Sie langsam und achten Sie auf Fußgänger mit Regenschirmen.",
+                "hu": "A malomhoz vezető út keskeny és nedves; hajtson lassan, és figyeljen az esernyős gyalogosokra a parton.",
+                "ro": "Drumul spre moară este îngust și umed; conduceți încet și fiți atenți la pietonii cu umbrele de pe mal.",
+                "en": "The path to the mill is narrow and wet; ride slowly and watch out for pedestrians with umbrellas along the lagoon edge."
+              }
+            },
+            {
+              "name": {
+                "de": "bird watching",
+                "hu": "bird watching",
+                "ro": "bird watching",
+                "en": "bird watching"
+              },
+              "tip_5lang": {
+                "de": "Vögel sind auch bei Regen aktiv; nutzen Sie die hölzernen Beobachtungshütten als trockenen Unterstand für die Naturbeobachtung.",
+                "hu": "A madarak esőben is aktívak; használja a fából készült megfigyelőkunyhókat száraz menedékként a természet megfigyeléséhez.",
+                "ro": "Păsările sunt active și pe ploaie; folosiți colibele de observare din lemn ca adăpost uscat pentru a urmări natura.",
+                "en": "Birds remain active in the rain; use the wooden observation huts as dry shelters for your nature watching session."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Orbetello bietet klare Sichten und leere Wege. Der Wind auf dem Damm kann jedoch sehr kalt sein, daher sind Handschuhe und ein Windstopper Pflicht. Da es ab 17:00 Uhr dunkel wird, stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert. Die flache Topographie macht die Tour trotz Kälte zu einem entspannten Erlebnis.",
+            "hu": "A téli kerékpározás Orbetellóban tiszta kilátást és üres utakat kínál. A gáton fújó szél azonban nagyon hideg lehet, ezért a kesztyű és a szélkabát kötelező. Mivel 17:00-tól sötétedik, ellenőrizze a lámpákat. A sík terep a hideg ellenére is pihentető élménnyé teszi a túrát.",
+            "ro": "Mersul pe bicicletă iarna în Orbetello oferă vederi clare și drumuri libere. Totuși, vântul de pe dig poate fi foarte rece, deci mănușile sunt obligatorii. Deoarece se întunecă de la ora 17:00, asigurați-vă că luminile funcționează. Relieful plat face tura relaxantă în ciuda frigului.",
+            "en": "Winter cycling in Orbetello offers clear views and empty paths. However, the wind on the lagoon dam can be very cold, so gloves and a windbreaker are mandatory. Since it gets dark by 5 PM, ensure your bike lights are working. The flat terrain makes the tour relaxing despite the crisp air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo del Governatore",
+                "hu": "Palazzo del Governatore",
+                "ro": "Palazzo del Governatore",
+                "en": "Palazzo del Governatore"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour hier im Sonnenlicht; die geschützte Lage des Platzes bietet einen milden Start in den Radtag.",
+                "hu": "Kezdje a túrát itt a napsütésben; a tér védett fekvése enyhe kezdést biztosít a kerékpáros naphoz.",
+                "ro": "Începeți tura aici în lumina soarelui; locația protejată a pieței oferă un start blând pentru ziua de pedalat.",
+                "en": "Start your tour here in the sunlight; the square's sheltered position provides a mild beginning to your cycling day."
+              }
+            },
+            {
+              "name": {
+                "de": "Porta Esterna di Terra",
+                "hu": "Porta Esterna di Terra",
+                "ro": "Porta Esterna di Terra",
+                "en": "Porta Esterna di Terra"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie beim Durchfahren des Tores ein Halstuch, da es im Schatten der massiven Mauern deutlich kühler ist als in der Sonne.",
+                "hu": "A kapun való áthaladáskor viseljen sálat, mivel a masszív falak árnyékában jóval hűvösebb van, mint a napsütésben.",
+                "ro": "Purtați un fular când treceți prin poartă, deoarece în umbra zidurilor masive este mult mai răcoare decât la soare.",
+                "en": "Wear a neck warmer when passing through the gate, as it is noticeably cooler in the shade of the massive walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione d'Arcos",
+                "hu": "Bastione d'Arcos",
+                "ro": "Bastione d'Arcos",
+                "en": "Bastione d'Arcos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick; die Wintersonne lässt das Wasser der Lagune in einem tiefen Blau erstrahlen.",
+                "hu": "Élvezze a panorámát; a téli napfény a lagúna vizét mélyszínkékre festi, ami csodálatos látvány a bástyáról.",
+                "ro": "Bucurați-vă de panoramă; soarele de iarnă face ca apa lagunei să strălucească într-un albastru profund.",
+                "en": "Enjoy the panoramic view; the winter sun makes the lagoon water glow with a deep blue hue that is stunning from the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Bastione della Rocca",
+                "hu": "Bastione della Rocca",
+                "ro": "Bastione della Rocca",
+                "en": "Bastione della Rocca"
+              },
+              "tip_5lang": {
+                "de": "Der Wind weht hier oben im Winter kräftig; halten Sie Ihre Handschuhe bereit für die Weiterfahrt nach der Besichtigung.",
+                "hu": "A szél itt fent télen erősen fúj; tartsa készenlétben a kesztyűjét a nézelődés utáni továbbinduláshoz.",
+                "ro": "Vântul bate puternic aici iarna; aveți mănușile pregătite pentru continuarea drumului după vizitarea fortificației.",
+                "en": "The wind blows strongly up here in winter; keep your gloves ready for when you resume cycling after the viewpoint stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo archeologico di Orbetello",
+                "hu": "Museo archeologico di Orbetello",
+                "ro": "Museo archeologico di Orbetello",
+                "en": "Museo archeologico di Orbetello"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Aufwärmpause; lassen Sie sich Zeit bei den Exponaten, bevor Sie das letzte Stück an der Lagune radeln.",
+                "hu": "A tökéletes felmelegedési szünet; szánjon időt a kiállítási tárgyakra, mielőtt megtenné az utolsó szakaszt a lagúna mentén.",
+                "ro": "Pauza perfectă de încălzire; acordați-vă timp pentru exponate înainte de a pedala ultima porțiune pe malul lagunei.",
+                "en": "The perfect warming break; take your time with the exhibits before cycling the final stretch along the open lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Mulino Spagnolo",
+                "hu": "Antico Mulino Spagnolo",
+                "ro": "Antico Mulino Spagnolo",
+                "en": "Antico Mulino Spagnolo"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter ideal für Fotos der Mühle; die klare Luft sorgt für scharfe Kontraste.",
+                "hu": "A délutáni fény télen ideális a malom fotózásához; a tiszta levegő éles kontrasztokat biztosít a vízen.",
+                "ro": "Lumina de după-amiază este ideală iarna pentru fotografii cu moara; aerul curat oferă contraste clare și culori vii.",
+                "en": "The afternoon light is ideal for photographing the mill in winter; the crisp air provides sharp contrasts on the water."
+              }
+            },
+            {
+              "name": {
+                "de": "bird watching",
+                "hu": "bird watching",
+                "ro": "bird watching",
+                "en": "bird watching"
+              },
+              "tip_5lang": {
+                "de": "Viele Zugvögel überwintern in der Lagune; bringen Sie ein Fernglas mit, um die Artenvielfalt im winterlichen Naturschutzgebiet zu sehen.",
+                "hu": "Sok vándormadár telel a lagúnában; hozzon távcsövet, hogy láthassa a téli természetvédelmi terület gazdag madárvilágát.",
+                "ro": "Multe păsări migratoare iernează în lagună; aduceți un binoclu pentru a vedea biodiversitatea din rezervația naturală.",
+                "en": "Many migratory birds winter in the lagoon; bring binoculars to see the rich biodiversity of the nature reserve in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1029,168 @@
         "hu": "Az Orbetello körüli autózás a monumentális szárazföldi kapuknál kezdődik, megadva a nap történelmi alaphangját, mielőtt a nyüzsgő központi tér felé venné az irányt. A délidőt a lenyűgöző Palazzo megcsodálásával és az etruszk múlt felfedezésével tölti a közeli régészeti múzeumban. A város örökségének magába szívása után egy rövid út a lagúna szélére viszi, hogy lefotózza a híres spanyol szélmalmot. A délután a természeté, elautózva egy csendes rezervátumba egy felejthetetlen madármegfigyelési élményre, miközben a nap lassan véget ér.",
         "ro": "Plimbarea cu mașina în jurul Orbetello începe la porțile monumentale dinspre uscat, dând un ton istoric zilei înainte de a vă îndrepta spre piața centrală plină de viață. Prânzul este petrecut admirând grandiosul Palazzo și aprofundând trecutul etrusc la muzeul arheologic. După ce v-ați îmbibat de moștenirea orașului, o scurtă călătorie vă duce la marginea lagunei pentru a fotografia faimoasa moară de vânt spaniolă. După-amiaza este dedicată naturii, conducând spre o rezervație liniștită pentru o experiență de neuitat de observare a păsărilor, în timp ce ziua se încheie cu grație.",
         "en": "Your drive around Orbetello begins at the monumental landward gates, setting a historical tone for the day before you head to the bustling central square. Midday is spent admiring the grand Palazzo and delving deep into the Etruscan past at the nearby archaeological museum. After soaking in the town's heritage, a short drive takes you to the lagoon's edge to photograph the famous Spanish windmill. The afternoon is dedicated to nature, driving out to a tranquil reserve for an unforgettable bird watching experience as the day gracefully winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Orbetello bei Regen sehr komfortabel zu erkunden. Parken Sie auf den zentralen Plätzen, um die Gehwege zu minimieren. Die Sicht auf die Lagune durch die beschlagenen Scheiben ist stimmungsvoll. Achten Sie auf die engen Zufahrtsstraßen, die bei Nässe und schlechter Sicht besondere Aufmerksamkeit erfordern, besonders beim Rangieren in der Nähe der Stadtmauer.",
+            "hu": "Autóval Orbetello felfedezése esőben nagyon kényelmes. Parkoljon a központi helyeken, hogy minimalizálja a gyaloglást a sárban. A lagúnára nyíló kilátás a párás ablakokon keresztül is hangulatos. Figyeljen a szűk utcákra, amelyek esőben és rossz látási viszonyok között nagyobb odafigyelést igényelnek a falak közelében.",
+            "ro": "Cu mașina, explorarea orașului Orbetello pe ploaie este foarte confortabilă. Parcați în zonele centrale pentru a minimiza mersul pe jos. Vederea spre lagună prin geamurile aburite este sugestivă. Atenție la străzile înguste care necesită prudență sporită pe carosabil umed și vizibilitate redusă.",
+            "en": "Exploring Orbetello by car is very comfortable during rain. Park in central areas to minimize walking in the wet. The view of the lagoon through misty windows is atmospheric. Be mindful of the narrow access roads, which require extra attention in wet conditions and poor visibility near the city walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porta Esterna di Terra",
+                "hu": "Porta Esterna di Terra",
+                "ro": "Porta Esterna di Terra",
+                "en": "Porta Esterna di Terra"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz; das Tor bietet einen guten ersten Eindruck, während Sie im Auto vor dem nächsten Schauer warten.",
+                "hu": "Használja a közeli parkolót; a kapu jó első benyomást kelt, miközben az autóban várhatja meg a következő zápor végét.",
+                "ro": "Folosiți parcarea din apropiere; poarta oferă o primă impresie excelentă în timp ce așteptați în mașină trecerea ploii.",
+                "en": "Use the nearby parking lot; the gate offers a great first impression while you wait in the car for the next shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo del Governatore",
+                "hu": "Palazzo del Governatore",
+                "ro": "Palazzo del Governatore",
+                "en": "Palazzo del Governatore"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Platz; die Arkaden bieten Schutz für den kurzen Weg vom Auto zum historischen Gebäude.",
+                "hu": "Parkoljon a lehető legközelebb a térhez; az árkádok védelmet nyújtanak az autótól a történelmi épületig tartó rövid úton.",
+                "ro": "Parcați cât mai aproape de piață; arcadele oferă protecție pentru scurta plimbare de la mașină la clădirea istorică.",
+                "en": "Park as close to the square as possible; the arcades provide protection for the short walk from your car to the historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo archeologico di Orbetello",
+                "hu": "Museo archeologico di Orbetello",
+                "ro": "Museo archeologico di Orbetello",
+                "en": "Museo archeologico di Orbetello"
+              },
+              "tip_5lang": {
+                "de": "Das Museum verfügt über Parkmöglichkeiten in der Nähe; ideal für einen längeren Aufenthalt im Trockenen bei anhaltendem Regen.",
+                "hu": "A múzeum közelében vannak parkolási lehetőségek; ideális hely egy hosszabb benti tartózkodáshoz tartós esőzés esetén.",
+                "ro": "Muzeul are locuri de parcare în apropiere; este ideal pentru o vizită lungă la interior în caz de ploaie persistentă.",
+                "en": "The museum has parking options nearby; it is ideal for a long indoor stay when the rain shows no signs of letting up."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Mulino Spagnolo",
+                "hu": "Antico Mulino Spagnolo",
+                "ro": "Antico Mulino Spagnolo",
+                "en": "Antico Mulino Spagnolo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier; parken Sie kurz am Straßenrand und genießen Sie den Anblick der Mühle im Regen vom warmen Auto aus.",
+                "hu": "Egy rövid fotómegálló elég itt; parkoljon le röviden az út szélén, és élvezze a malom látványát az esőben a meleg autóból.",
+                "ro": "O scurtă oprire foto este suficientă; parcați scurt pe marginea drumului și admirați moara prin ploaie din confortul mașinii.",
+                "en": "A quick photo stop is enough here; pull over briefly and enjoy the sight of the mill in the rain from the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "bird watching",
+                "hu": "bird watching",
+                "ro": "bird watching",
+                "en": "bird watching"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Besucherzentrum; von dort sind die Beobachtungspunkte auch bei Regen über befestigte Wege gut erreichbar.",
+                "hu": "Hajtson el a látogatóközpontig; onnan a megfigyelőpontok esőben is jól megközelíthetők a kiépített utakon keresztül.",
+                "ro": "Mergeți până la centrul de vizitare; de acolo, punctele de observare sunt ușor accesibile pe poteci amenajate chiar și pe ploaie.",
+                "en": "Drive to the visitor center; from there, the observation points are easily accessible via paved paths even during heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist die Autofahrt durch Orbetello besonders entspannend, da die Parkplatzsuche viel einfacher ist als im Sommer. Die klare Winterluft ermöglicht weite Blicke über die Lagune direkt vom Fahrersitz aus. Denken Sie daran, dass es ab 17:00 Uhr dunkel wird und die Temperaturen sinken, sodass die Heizung im Auto nach den Spaziergängen sehr willkommen ist.",
+            "hu": "Télen az autózás Orbetellóban kifejezetten pihentető, a parkolóhely-keresés sokkal egyszerűbb, mint nyáron. A tiszta téli levegő távoli kilátást enged a lagúnára közvetlenül a vezetőülésből. Ne feledje, 17:00 után sötétedik és a hőmérséklet leesik, így a fűtés az autóban nagyon jól fog esni a séták után.",
+            "ro": "Iarna, condusul prin Orbetello este deosebit de relaxant, căutarea unui loc de parcare fiind mult mai ușoară decât vara. Aerul curat de iarnă permite vederi panoramice peste lagună direct din mașină. Rețineți că se întunecă de la ora 17:00, iar căldura din mașină va fi binevenită după plimbări.",
+            "en": "In winter, driving through Orbetello is especially relaxing as finding parking is much easier than in summer. The clear winter air allows for expansive views over the lagoon directly from your seat. Remember that it gets dark by 5 PM and temperatures drop, making the car's heater very welcome after your walks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porta Esterna di Terra",
+                "hu": "Porta Esterna di Terra",
+                "ro": "Porta Esterna di Terra",
+                "en": "Porta Esterna di Terra"
+              },
+              "tip_5lang": {
+                "de": "Das Tor ist im Winter am späten Nachmittag schön beleuchtet; parken Sie kurz, um die festliche Atmosphäre der Stadtmauer zu genießen.",
+                "hu": "A kapu télen, késő délután gyönyörűen ki van világítva; parkoljon le rövid időre, hogy élvezze a városfal ünnepi hangulatát.",
+                "ro": "Poarta este frumos iluminată iarna, spre seară; parcați scurt pentru a vă bucura de atmosfera festivă a zidurilor orașului.",
+                "en": "The gate is beautifully lit in the late afternoon in winter; park briefly to enjoy the festive atmosphere of the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo del Governatore",
+                "hu": "Palazzo del Governatore",
+                "ro": "Palazzo del Governatore",
+                "en": "Palazzo del Governatore"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht perfekt für Fotos des Palastes am Morgen; nutzen Sie die Parkplätze direkt am Rand des verkehrsberuhigten Bereichs.",
+                "hu": "A téli napfény délelőtt tökéletes a palota fotózásához; használja a parkolókat közvetlenül a forgalomcsillapított övezet szélén.",
+                "ro": "Soarele de iarnă este perfect pentru fotografii cu palatul dimineața; folosiți parcările de la marginea zonei cu trafic limitat.",
+                "en": "The winter sun is perfect for morning photos of the palace; use the parking lots right at the edge of the restricted traffic zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo archeologico di Orbetello",
+                "hu": "Museo archeologico di Orbetello",
+                "ro": "Museo archeologico di Orbetello",
+                "en": "Museo archeologico di Orbetello"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren des Museums; es ist der ideale Ort, um die Zeit bis zum frühen Sonnenuntergang sinnvoll zu nutzen.",
+                "hu": "Élvezze a meleget a múzeum belsejében; ez az ideális hely, hogy hasznosan töltse az időt a korai naplementéig.",
+                "ro": "Bucurați-vă de căldura din interiorul muzeului; este locul ideal pentru a petrece timpul în mod util până la apusul devreme.",
+                "en": "Enjoy the warmth inside the museum; it is the ideal place to spend your time meaningfully until the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico Mulino Spagnolo",
+                "hu": "Antico Mulino Spagnolo",
+                "ro": "Antico Mulino Spagnolo",
+                "en": "Antico Mulino Spagnolo"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle im blauen Winterlicht ist ein Muss; parken Sie direkt am Damm für einen schnellen Zugang ohne langes Frieren im Wind.",
+                "hu": "A malom a kék téli fényben kötelező látnivaló; parkoljon közvetlenül a gáton a gyors hozzáférés érdekében, hogy ne fázzon a szélben.",
+                "ro": "Moara în lumina albastră de iarnă este de neratat; parcați direct pe dig pentru acces rapid fără a îngheța în vânt.",
+                "en": "The mill in the blue winter light is a must-see; park directly on the dam for quick access without freezing in the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "bird watching",
+                "hu": "bird watching",
+                "ro": "bird watching",
+                "en": "bird watching"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sieht man oft Flamingos in der Lagune; bleiben Sie im Auto, um die Vögel nicht zu verschrecken und dabei warm zu bleiben.",
+                "hu": "Télen gyakran látni flamingókat a lagúnában; maradjon az autóban, hogy ne ijessze meg a madarakat, és közben melegben maradhasson.",
+                "ro": "Iarna puteți vedea adesea flamingo în lagună; rămâneți în mașină pentru a nu speria păsările și pentru a vă menține căldura.",
+                "en": "In winter, you can often spot flamingos in the lagoon; stay in the car to avoid startling the birds while keeping yourself warm."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -157,6 +157,168 @@
           "In the afternoon, the banks of the Isère river provide the most ideal setting for a highly comfortable stroll under shady trees, a wonderful way to relax and recharge your energy.",
           "Conclude your eventful day in the beautiful Nailles Woods. Here you can fully enjoy the gentle evening sun during a relaxing picnic, soaking in the complete tranquility of nature."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen auf der historischen Brücke und achten Sie auf nasse Steine. Suchen Sie am Vormittag Schutz in der Kirche und im Museum. Am Nachmittag spazieren Sie mit Regenschirm am Flussufer. Der Wald bietet einen nebligen Spaziergang, aber wegen des Schlamms sind wasserdichte Schuhe nötig.",
+            "hu": "Kezdje az esős reggelt a történelmi hídon, vigyázva a csúszós kövekre. Délelőtt keressen menedéket a templomban és a múzeumban, szárazon felfedezve a helyi örökséget. Délután esernyővel sétáljon a folyóparton. Az erdő ködös hangulatot nyújt, de a sár miatt vízálló cipő viselése elengedhetetlen.",
+            "ro": "Începeți dimineața ploioasă pe podul istoric, atenți la pietrele umede. Găsiți adăpost la biserică și muzeu, descoperind moștenirea locală la uscat. După-amiaza, plimbați-vă pe malul râului cu o umbrelă. Pădurea oferă o atmosferă cețoasă, dar noroiul face ca încălțămintea impermeabilă să fie esențială.",
+            "en": "Start the rainy morning crossing the historic bridge, careful on wet stones. Seek shelter by mid-morning in the church and museum, discovering local heritage dryly. In the afternoon, brave the riverside path with an umbrella. The woods offer a misty walk, though mud is expected, so wear waterproof boots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alte Brücke (Pont Vieux)",
+                "hu": "Öreg híd (Pont Vieux)",
+                "ro": "Podul Vechi (Pont Vieux)",
+                "en": "Old Bridge (Pont Vieux)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Fluss von der Brücke aus, aber achten Sie bei Regen auf die sehr rutschigen alten Pflastersteine. Nutzen Sie einen Schirm.",
+                "hu": "Csodálja meg a megáradt folyót a hídról, de nagyon vigyázzon a csúszós, ősi macskaköveken az esőben. Használjon egy erős esernyőt a szél ellen.",
+                "ro": "Admirați râul umflat de pe pod, dar aveți mare grijă la pietrele cubice antice foarte alunecoase în ploaie. Folosiți o umbrelă rezistentă.",
+                "en": "Admire the swollen river from the bridge, but watch your step on the slippery ancient cobblestones during the heavy rain. Use a sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Church of Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen Schutz vor dem Platzregen, bewundern Sie die Buntglasfenster und genießen Sie die trockene, friedliche Atmosphäre.",
+                "hu": "Keressen menedéket a felhőszakadás elől odabent, csodálja meg az üvegablakokat, és élvezze a békés, száraz légkört a nedves utcák után.",
+                "ro": "Refugiați-vă de ploaie înăuntru pentru a admira vitraliile, bucurându-vă de o atmosferă pașnică și complet uscată, departe de străzile ude.",
+                "en": "Take refuge from the downpour inside to admire the stained glass, enjoying the peaceful, completely dry atmosphere away from the wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Pogne-Museum",
+                "hu": "Pogne Múzeum",
+                "ro": "Muzeul Pogne",
+                "en": "Pogne Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für drinnen; lernen Sie die lokale Brioche kennen, während Sie beim stärksten Regen warm und komplett trocken bleiben.",
+                "hu": "Tökéletes beltéri program; ismerje meg a híres helyi brióst, miközben melegben és teljesen szárazon marad a legnagyobb esőzések idején is.",
+                "ro": "O evadare perfectă la interior; aflați despre faimoasa brioșă locală, stând la căldură și complet uscat în timpul celei mai grele ploi.",
+                "en": "A perfect indoor escape; learn about this famous local brioche while staying warm and completely dry during the heaviest parts of the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Isère-Ufer",
+                "hu": "Isère rakpart",
+                "ro": "Cheiul Isère",
+                "en": "Isère Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie mit einem Schirm die gepflasterten Uferwege entlang; der fallende Regen verleiht der Strömung eine dramatische Stimmung.",
+                "hu": "Sétáljon a folyópart burkolt részein erős esernyővel, mivel a zuhogó eső csodálatosan drámai hangulatot kölcsönöz a folyó áramlásának.",
+                "ro": "Plimbați-vă pe secțiunile pavate ale malului cu o umbrelă; ploaia care cade adaugă o stare minunat de dramatică fluxului rapid al râului.",
+                "en": "Walk along the paved sections of the riverbank with a sturdy umbrella, as the falling rain adds a wonderfully dramatic mood to the river flow."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Nailles",
+                "hu": "Nailles-erdő",
+                "ro": "Pădurea Nailles",
+                "en": "Nailles Woods"
+              },
+              "tip_5lang": {
+                "de": "Das dichte Blätterdach bietet etwas Schutz, aber die Wege werden extrem schlammig; das Tragen von wasserdichten Stiefeln ist unerlässlich.",
+                "hu": "A sűrű lombkorona részleges menedéket nyújt, de az ösvények nagyon sarasak és csúszósak lesznek; a vízálló bakancs viselése elengedhetetlen.",
+                "ro": "Coronamentul dens oferă un parțial adăpost, dar potecile devin foarte noroioase; purtarea de cizme impermeabile de calitate este esențială.",
+                "en": "The dense tree canopy offers partial cover, but the trails get very muddy and slippery; wearing high-quality waterproof boots is essential."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Winterspaziergang über die Brücke, warm eingepackt gegen die Kälte. Wärmen Sie sich vor dem Mittagessen in der Kirche und im Museum auf. Der Nachmittag am Flussufer ist frisch. Beenden Sie den Tag früh im Wald, da der Sonnenuntergang gegen 17:00 Uhr einen starken Temperaturabfall bringt.",
+            "hu": "Kezdje a fagyos téli sétát a hídon, jól felöltözve a hideg ellen. Ebéd előtt melegedjen fel a templomban és a lenyűgöző múzeumban. A délutáni folyóparti séta frissítő, de gyönyörű. Fejezze be a napot korán az erdőben, mivel a 17:00 órai naplemente után a hőmérséklet drasztikusan visszaesik.",
+            "ro": "Începeți plimbarea de iarnă pe pod, bine înveliți împotriva frigului. Încălziți-vă în biserică și la muzeu înainte de prânz. Plimbarea de după-amiază pe malul râului este revigorantă. Terminați ziua devreme în pădure, deoarece apusul din jurul orei 17:00 aduce o scădere bruscă a temperaturii.",
+            "en": "Begin your crisp winter walk over the bridge, bundled up against the chill. Warm up indoors at the church and the fascinating museum before lunch. The afternoon riverside stroll is brisk but beautiful. Finish the day early in the woods, as sunset approaches by 17:00, bringing a sharp drop in temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alte Brücke (Pont Vieux)",
+                "hu": "Öreg híd (Pont Vieux)",
+                "ro": "Podul Vechi (Pont Vieux)",
+                "en": "Old Bridge (Pont Vieux)"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann im Winter beißend sein. Tragen Sie einen warmen Schal, während Sie die frostige Aussicht auf den Fluss genießen.",
+                "hu": "A szél a folyó felett nagyon metsző lehet télen, ezért viseljen meleg sálat, miközben a fagyos panorámában gyönyörködik a hídról.",
+                "ro": "Vântul peste râu poate fi tăios iarna, așa că purtați un fular călduros în timp ce admirați priveliștile panoramice înghețate de pe pod.",
+                "en": "The wind chill over the river can be biting in winter, so wear a warm scarf while taking in the frosty panoramic views from the old bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Church of Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um Ihre Hände aufzuwärmen, und bewundern Sie das ruhige Winterlicht, das durch die schönen historischen Fenster fällt.",
+                "hu": "Lépjen be, hogy felmelegítse a kezét, és csodálja meg a csendes téli fényt, amely a gyönyörű történelmi ablakokon keresztül szűrődik be.",
+                "ro": "Pășiți înăuntru pentru a vă încălzi mâinile și a admira lumina liniștită de iarnă care se filtrează prin ferestrele istorice frumoase.",
+                "en": "Step inside to warm your hands and admire the quiet winter light filtering through the beautiful historic stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Pogne-Museum",
+                "hu": "Pogne Múzeum",
+                "ro": "Muzeul Pogne",
+                "en": "Pogne Museum"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der Kälte in diesem gemütlichen, warmen Museum und erkunden Sie die kulinarische Geschichte, während Sie sich aufwärmen.",
+                "hu": "Meneküljön el a hideg elől ebbe a fűtött múzeumba, és fedezze fel a helyi kulináris történelmet, miközben kényelmesen felmelegszik.",
+                "ro": "Scăpați de frig în acest muzeu primitor, explorând istoria culinară locală în timp ce vă încălziți confortabil la interior.",
+                "en": "Escape the cold in this cozy indoor museum, exploring local culinary history while comfortably heating up before heading back outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Isère-Ufer",
+                "hu": "Isère rakpart",
+                "ro": "Cheiul Isère",
+                "en": "Isère Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Winterspaziergang am Wasser erfordert warme Kleidung. Genießen Sie die klare Sicht auf die umliegende, frostige Landschaft.",
+                "hu": "A frissítő téli séta a víz mentén meleg rétegeket igényel; élvezze a tiszta kilátást a környező, zúzmarás tájra a hideg levegőn.",
+                "ro": "O plimbare alertă de iarnă pe malul apei necesită haine groase; bucurați-vă de priveliștea clară a peisajului înghețat din jur.",
+                "en": "A brisk winter walk along the water requires layers; enjoy the clear, crisp views of the surrounding frosted landscape in the chilly air."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Nailles",
+                "hu": "Nailles-erdő",
+                "ro": "Pădurea Nailles",
+                "en": "Nailles Woods"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Wald frühzeitig; die Wintersonne geht gegen 17:00 Uhr unter, wodurch es auf den Pfaden schnell dunkel und eiskalt wird.",
+                "hu": "Sétáljon kora délután; a téli nap 17:00 körül lenyugszik, amitől az erdei ösvények gyorsan elsötétülnek és drasztikusan lehűlnek.",
+                "ro": "Vizitați pădurea devreme; soarele de iarnă apune în jur de 17:00, făcând potecile întunecate și semnificativ mai reci foarte repede.",
+                "en": "Walk the trails early; the winter sun sets around 17:00, making the woods dark and significantly colder very quickly without sunlight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -354,6 +516,224 @@
           "In the afternoon, your path leads into the wonderfully shady Nailles Woods. The refreshing breeze and lush greenery offer a highly welcome cooling break during this active tour.",
           "Towards the evening, you will reach the imposing Pizançon Castle and Saint-Michel Church. The slowly setting sun constantly bathes these ancient walls in an unforgettable golden light."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Radtag beginnt am Fluss; nutzen Sie Schutzbleche. Überqueren Sie die Brücke vorsichtig und machen Sie trockene Pausen in Kirche und Museum. Die Fahrt zu Wald und Schloss erfordert Vorsicht im Schlamm. Enden Sie an der Kirche, wenn der regnerische Abend einsetzt.",
+            "hu": "Egy nedves kerékpáros nap a folyónál kezdődik; használjon sárvédőt. Keljen át óvatosan a hídon, majd pihenjen szárazon a templomban és múzeumban. A kastélyhoz és az erdőbe vezető délutáni út óvatosságot igényel a sár miatt. Zárja a napot a templomnál a sötétedő esőben.",
+            "ro": "O zi umedă de ciclism începe la râu; folosiți aripi. Treceți podul cu grijă, apoi luați pauze uscate la biserică și muzeu. Drumul de după-amiază spre pădure și castel necesită prudență pe noroi. Încheiați la biserică odată cu lăsarea serii ploioase, rămânând vizibili.",
+            "en": "A wet cycling day starts by the river; use mudguards. Cross the bridge carefully, then enjoy dry breaks at the church and museum. The afternoon ride to the woods and castle requires caution on muddy trails. End at the church as the rainy evening sets in, keeping visible."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Isère-Ufer",
+                "hu": "Isère rakpart",
+                "ro": "Cheiul Isère",
+                "en": "Isère Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Wegen, nutzen Sie gute Schutzbleche und genießen Sie die Stimmung des regengeschwollenen Flusses.",
+                "hu": "Kerékpározzon óvatosan a nedves utakon, használjon sárvédőt, és élvezze az esőtől megáradt folyó különleges, borongós hangulatát.",
+                "ro": "Bicicliți cu atenție pe cărările ude folosind aripi bune, bucurându-vă de atmosfera melancolică a râului umflat de ploaie.",
+                "en": "Cycle carefully on the wet paths using good mudguards, enjoying the moody atmosphere of the rain-swollen river along the banks."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke (Pont Vieux)",
+                "hu": "Öreg híd (Pont Vieux)",
+                "ro": "Podul Vechi (Pont Vieux)",
+                "en": "Old Bridge (Pont Vieux)"
+              },
+              "tip_5lang": {
+                "de": "Die Steinoberfläche wird bei Nässe unglaublich glatt; es ist sicherer, abzusteigen und das Fahrrad über die alte Brücke zu schieben.",
+                "hu": "A kőfelület nedvesen hihetetlenül csúszóssá válik; sokkal biztonságosabb leszállni és áttolni a kerékpárt a történelmi hídon az esőben.",
+                "ro": "Suprafața de piatră devine incredibil de alunecoasă când este udă; este mai sigur să descălecați și să mergeți pe lângă bicicletă pe pod.",
+                "en": "The stone surface gets incredibly slick when wet; it is significantly safer to dismount and walk your bike across the old bridge today."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Church of Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und treten Sie ein, um sich abzutrocknen. Bewundern Sie das friedliche Innere abseits des strömenden Regens.",
+                "hu": "Parkolja le a kerékpárt, és lépjen be megszáradni, megcsodálva a békés belső teret, távol a kinti zuhogó esőtől és széltől.",
+                "ro": "Parcați bicicleta și pășiți înăuntru pentru a vă usca, admirând interiorul pașnic departe de ploaia torențială de afară.",
+                "en": "Park your bike and step inside to dry off, admiring the peaceful interior completely sheltered from the pouring rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pogne-Museum",
+                "hu": "Pogne Múzeum",
+                "ro": "Muzeul Pogne",
+                "en": "Pogne Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine lange, trockene Pause drinnen, lernen Sie die Brioche kennen und lassen Sie Ihre nasse Fahrradausrüstung abtropfen.",
+                "hu": "Tartson egy hosszú, száraz pihenőt bent a briós történetét tanulmányozva, miközben a vizes kerékpáros felszerelése is megszáradhat.",
+                "ro": "Bucurați-vă de o pauză lungă și uscată la interior, lăsând echipamentul de ciclism ud să se scurgă în timp ce explorați muzeul.",
+                "en": "Enjoy a long, dry break indoors learning about the local brioche, giving your wet cycling gear a proper chance to drip dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Nailles",
+                "hu": "Nailles-erdő",
+                "ro": "Pădurea Nailles",
+                "en": "Nailles Woods"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptkieswegen, da die kleineren Waldpfade bei Regen zu tiefem Schlamm werden und schwer zu befahren sind.",
+                "hu": "Maradjon a fő kavicsos utakon, mivel a kisebb erdei ösvények a sár miatt szinte járhatatlanná és csúszóssá válnak a kerékpárok számára.",
+                "ro": "Rămâneți pe cărările principale de pietriș, deoarece traseele mai mici din pădure se transformă în noroi adânc și sunt greu de parcurs.",
+                "en": "Stick to the main gravel paths, as the smaller forest trails turn into deep mud and become very difficult and slippery to cycle through."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pizançon",
+                "hu": "Pizançon Kastély",
+                "ro": "Castelul Pizançon",
+                "en": "Pizançon Castle"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Schlossgelände ist dramatisch; fahren Sie auf der Zufahrtsstraße langsam, da Pfützen tiefe Schlaglöcher verbergen können.",
+                "hu": "A nedves kastélypark drámai látványt nyújt; hajtson lassan a bekötőúton, mert a tócsák mély kátyúkat rejthetnek a kerekek elől.",
+                "ro": "Terenul umed al castelului este dramatic; mergeți încet pe drumul de acces, deoarece bălțile pot ascunde gropi periculoase.",
+                "en": "The wet castle grounds are beautifully dramatic; ride slowly on the approach road as large puddles may hide dangerous potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Stopp drinnen, um dem Regen zu entkommen. Das ruhige Kirchenschiff bietet den perfekten Ort, um sich abzutrocknen.",
+                "hu": "Egy utolsó beltéri megálló az eső elől; a csendes templomhajó tökéletes és száraz helyet kínál a túra végi elmélkedéshez.",
+                "ro": "O ultimă oprire la interior pentru a scăpa de ploaie; nava liniștită oferă un loc perfect pentru a reflecta și a vă usca.",
+                "en": "A final indoor stop to escape the rain; the quiet nave offers a perfect, completely dry place to reflect before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für eine frostige Morgenfahrt am Fluss. Mittags bieten Kirche und Museum warme Zuflucht. Radeln Sie zügig durch den Wald und am Schloss vorbei an der frischen Luft. Beenden Sie die Tour vor 17:00 Uhr an der Kirche, bevor die Dunkelheit gefährlich wird.",
+            "hu": "Öltözzön fel melegen a fagyos reggeli tekeréshez a folyó mentén. Délben a templom és a múzeum nyújt meleg menedéket. Tekerjen tempósan az erdőben és a kastélynál a friss délutáni levegőn. Fejezze be az utat a templomnál 17:00 előtt, mielőtt a sötétség veszélyessé teszi az utat.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare geroasă dimineața pe malul râului. La prânz, biserica și muzeul oferă refugiu cald. Bicicliți rapid prin pădure și pe lângă castel în aerul rece. Încheiați la Biserica Saint-Michel înainte de 17:00, când întunericul face pedalatul periculos.",
+            "en": "Bundle up for a frosty morning ride along the river and bridge. Midday offers warm refuge in the local church and museum. Cycle briskly through the woods and past the castle in the crisp afternoon air. Conclude at Saint-Michel Church before 17:00, when darkness makes riding hazardous."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Isère-Ufer",
+                "hu": "Isère rakpart",
+                "ro": "Cheiul Isère",
+                "en": "Isère Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermohandschuhe für diese frische Morgenfahrt; das frostige Ufer sieht magisch aus, aber der kalte Fahrtwind ist stark.",
+                "hu": "Viseljen termokesztyűt a fagyos reggeli tekeréshez; a zúzmarás folyópart varázslatosan fest, de a menetszél rendkívül hideg.",
+                "ro": "Purtați mănuși termice pentru această cursă matinală; malurile înghețate arată magic, dar vântul rece este foarte puternic din mers.",
+                "en": "Wear thermal gloves for this brisk morning ride; the frosted riverbanks look completely magical but the wind chill is significant."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke (Pont Vieux)",
+                "hu": "Öreg híd (Pont Vieux)",
+                "ro": "Podul Vechi (Pont Vieux)",
+                "en": "Old Bridge (Pont Vieux)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie an frostigen Morgen auf versteckte Eisflächen auf den alten Steinen. Genießen Sie die klare Winteraussicht von der Brücke.",
+                "hu": "Fagyos reggeleken ügyeljen a rejtett jégfoltokra az öreg köveken. Élvezze a tiszta téli kilátást, miközben áthalad a folyó felett.",
+                "ro": "Atenție la peticele ascunse de gheață de pe pietrele vechi în diminețile geroase; bucurați-vă de priveliștile clare de iarnă.",
+                "en": "Watch out for hidden ice patches on the old bridge stones during freezing mornings; enjoy the incredibly crisp, clear winter views."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Church of Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener Stopp, um die gefrorenen Finger aufzuwärmen; das ruhige Innere bietet eine friedliche Flucht vor der Winterkälte.",
+                "hu": "Szívesen látott megálló a fagyott ujjak felmelegítésére; a csendes belső tér békés menedéket nyújt a téli hideg elől a biciklistáknak.",
+                "ro": "O oprire binevenită pentru a vă încălzi degetele înghețate; interiorul liniștit oferă o evadare senină din frigul iernii.",
+                "en": "A highly welcome stop to warm your frozen fingers; the quiet interior provides a serene and sheltered escape from the harsh winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Pogne-Museum",
+                "hu": "Pogne Múzeum",
+                "ro": "Muzeul Pogne",
+                "en": "Pogne Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie zusätzliche Zeit in diesem beheizten Museum, um vollständig aufzutauen, während Sie die leckere Geschichte entdecken.",
+                "hu": "Töltsön el egy kis extra időt ebben a fűtött múzeumban, hogy teljesen felengedjen, miközben a helyi péksütemény történetét kutatja.",
+                "ro": "Petreceți timp suplimentar în acest muzeu încălzit pentru a vă dezgheța complet în timp ce descoperiți istoria delicioasă a pogne.",
+                "en": "Spend a little extra time in this heated museum to fully thaw out your legs while discovering the delicious history of the local pogne."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Nailles",
+                "hu": "Nailles-erdő",
+                "ro": "Pădurea Nailles",
+                "en": "Nailles Woods"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume blockieren den Wind nicht, bleiben Sie in Bewegung; die winterliche Landschaft ist kahl, aber wunderschön ruhig.",
+                "hu": "A kopasz fák nem fogják meg a szelet, így tekerjen folyamatosan a melegért; a téli erdei táj zord, de gyönyörűen csendes.",
+                "ro": "Copacii goi nu blochează vântul, așa că mișcați-vă pentru a vă menține cald; peisajul de iarnă este frumos, dar auster.",
+                "en": "The bare trees offer absolutely no wind block, so keep cycling to stay warm; the winter scenery is beautifully stark and very quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pizançon",
+                "hu": "Pizançon Kastély",
+                "ro": "Castelul Pizançon",
+                "en": "Pizançon Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Silhouette des Schlosses wirkt vor dem Winterhimmel markant. Kommen Sie früh, bevor die Nachmittagsschatten zu lang werden.",
+                "hu": "A kastély sziluettje lenyűgöző a téli égbolt előtt; érkezzen meg kora délután, mielőtt a téli árnyékok túlságosan megnyúlnak.",
+                "ro": "Silueta castelului arată impresionant pe cerul de iarnă; ajungeți devreme înainte ca umbrele după-amiezii să devină prea lungi.",
+                "en": "The castle silhouette looks striking against the stark winter sky; arrive early before the afternoon shadows get too long and dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem Sonnenuntergang um 17:00 Uhr an. Genießen Sie die Wärme, bevor Sie Ihre Fahrradlichter für die Rückfahrt einschalten.",
+                "hu": "Érkezzen meg a 17:00 órás naplemente előtt. Élvezze a benti meleget, mielőtt felkapcsolja a kerékpárlámpákat a sötét visszaútra.",
+                "ro": "Ajungeți înainte de apusul de la 17:00; bucurați-vă de interiorul cald înainte de a aprinde luminile bicicletei pentru drumul înapoi.",
+                "en": "Arrive well before the 17:00 sunset; enjoy the warm interior before securely turning on your bike lights for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -574,6 +954,252 @@
           "In the afternoon, a very brief drive takes you to the historic Pont Vieux and the Isère riverbank, where you can park with ease and take a highly relaxing stroll by the flowing water.",
           "The truly perfect conclusion is the scenic drive to Pizançon Castle and the Saint-Michel Church, where you can completely escape the bustle and end the day with a magnificent view."
         ]
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die regnerische Fahrt am Freibad und fahren Sie mit Schirm zum Wald. Der Mittag ist perfekt für trockene Besuche in Museum und Kirche. Parken Sie nachmittags an Brücke und Fluss für schnelle Fotos. Beenden Sie die nasse, malerische Fahrt sicher am Schloss.",
+            "hu": "Kezdje az esős autózást a medencénél, majd esernyővel irány az erdő. A dél ideális a múzeum és a templom száraz, beltéri látogatására. Délután parkoljon a hídnál és a folyónál, csak egy gyors fotóra kiszállva. Fejezze be a nedves, festői utat biztonságosan a kastélynál.",
+            "ro": "Începeți condusul ploios la piscină, apoi mergeți la pădure cu o umbrelă. Prânzul e perfect pentru vizite uscate la muzeu și biserică. După-amiaza, parcați lângă pod și râu, ieșind rapid pentru poze. Încheiați traseul umed și pitoresc în siguranță la castel și biserică.",
+            "en": "Start the rainy drive at the pool area, then head to the woods with an umbrella. Midday is perfect for dry, indoor visits to the museum and church. In the afternoon, park near the bridge and river, dashing out for quick photos. End the wet, scenic drive safely at the castle and church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freibad / Planschbecken",
+                "hu": "Szabadtéri Pancsoló",
+                "ro": "Piscina de vară",
+                "en": "Outdoor Paddling Pool"
+              },
+              "tip_5lang": {
+                "de": "Obwohl niemand schwimmt, können Sie bequem parken und den heftigen Regen auf dem Wasser sicher vom warmen Auto aus beobachten.",
+                "hu": "Bár senki sem úszik, parkoljon le a közelben, és nézze meg a víztükröt verő heves esőt a kényelmes és száraz autó védelméből.",
+                "ro": "Deși nu înoată nimeni, puteți parca în apropiere pentru a privi ploaia deasă lovind apa din confortul și căldura mașinii.",
+                "en": "Though nobody is swimming, you can park safely nearby to watch the heavy rain hit the water from the dry comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Nailles",
+                "hu": "Nailles-erdő",
+                "ro": "Pădurea Nailles",
+                "en": "Nailles Woods"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Eingang und machen Sie einen kurzen Spaziergang mit großem Schirm, da das Blätterdach nur teilweise vor Regen schützt.",
+                "hu": "Parkoljon a bejáratnál, és tegyen egy rövid sétát egy nagy esernyővel, mivel a sűrű erdő lombkoronája csak részleges menedéket ad.",
+                "ro": "Parcați la intrare și faceți o scurtă plimbare cu o umbrelă mare, deoarece coronamentul pădurii oferă doar un adăpost parțial.",
+                "en": "Park easily at the entrance and take a short walk with a large umbrella, as the wet forest canopy provides only partial rain shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pogne-Museum",
+                "hu": "Pogne Múzeum",
+                "ro": "Muzeul Pogne",
+                "en": "Pogne Museum"
+              },
+              "tip_5lang": {
+                "de": "Dank guter Parkmöglichkeiten können Sie schnell ins Trockene huschen und die faszinierende Ausstellung ohne nass zu werden genießen.",
+                "hu": "A kiváló parkolási lehetőségek révén gyorsan befuthat a száraz épületbe, és anélkül élvezheti a kiállítást, hogy teljesen elázna.",
+                "ro": "Parcarea excelentă la interior vă permite să fugiți ușor înăuntru și să vă bucurați de expoziția uscată și fascinantă.",
+                "en": "Excellent nearby parking allows you to quickly dash inside the building and fully enjoy the dry, fascinating exhibition undisturbed."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Church of Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie schnell aus dem Auto in die trockene Kirche; der Klang des Regens auf dem Dach verstärkt die friedliche Stimmung im Inneren.",
+                "hu": "Lépjen be gyorsan az autóból a száraz templomba; a tetőn doboló eső hangja csak tovább fokozza a benti békés, nyugodt hangulatot.",
+                "ro": "Pășiți rapid din mașină în biserica uscată; sunetul ploii pe acoperiș adaugă la atmosfera pașnică de la interior.",
+                "en": "Step quickly from your vehicle into the completely dry church; the sound of heavy rain on the roof adds to the peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke (Pont Vieux)",
+                "hu": "Öreg híd (Pont Vieux)",
+                "ro": "Podul Vechi (Pont Vieux)",
+                "en": "Old Bridge (Pont Vieux)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und gehen Sie mit einem Schirm auf die Brücke. Seien Sie auf den nassen, rutschigen Steinen extrem vorsichtig.",
+                "hu": "Parkoljon a közelben, és sétáljon a hídra esernyővel, de legyen rendkívül óvatos a vizes, nagyon csúszós történelmi köveken.",
+                "ro": "Parcați în apropiere și mergeți pe pod cu o umbrelă, dar fiți foarte atenți pe pietrele istorice ude și extrem de alunecoase.",
+                "en": "Park nearby and walk out onto the old bridge with an umbrella, but be very careful on the wet, incredibly slippery historical stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Isère-Ufer",
+                "hu": "Isère rakpart",
+                "ro": "Cheiul Isère",
+                "en": "Isère Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die malerischen Uferstraßen entlang und genießen Sie die regnerische Aussicht bequem und trocken aus Ihrem warmen Fahrzeug.",
+                "hu": "Hajtson végig a festői folyóparti utakon, és élvezze a borongós, eső áztatta kilátást a kényelmes és meleg gépjárművéből.",
+                "ro": "Conduceți pe drumurile pitorești de pe malul râului, bucurându-vă de priveliștile ploioase și melancolice din mașina caldă.",
+                "en": "Drive along the scenic riverside roads, enjoying the deeply moody, rain-swept views of the flowing river from your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pizançon",
+                "hu": "Pizançon Kastély",
+                "ro": "Castelul Pizançon",
+                "en": "Pizançon Castle"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das majestätische Schloss durch die regennassen Autofenster und steigen Sie nur kurz für ein paar schöne Fotos aus.",
+                "hu": "Szemlélje meg a fenséges kastélyt az eső áztatta ablakokon keresztül, és csak egy-egy gyors fotó erejéig szálljon ki az autóból.",
+                "ro": "Priviți castelul maiestuos prin ferestrele mașinii pline de ploaie, coborând scurt doar pentru a face câteva fotografii.",
+                "en": "View the majestic medieval castle through the rain-streaked windows of your car, taking a very quick step outside for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren verregneten Ausflug in dieser trockenen Kirche, die einen ruhigen und wettergeschützten Abschluss des Tages bietet.",
+                "hu": "Fejezze be esős autós túráját ebben a száraz templomban, amely békés és az időjárástól teljesen védett lezárást kínál a napnak.",
+                "ro": "Încheiați-vă excursia ploioasă în interiorul acestei biserici uscate și primitoare, oferind un moment final pașnic la adăpost.",
+                "en": "End your rainy day driving trip strictly inside this dry, welcoming church, offering a final peaceful moment totally out of the weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die frostige Fahrt am stillen Freibad und im eisigen Wald. Genießen Sie die Autoheizung auf dem Weg zu Museum und Kirche. Machen Sie nach dem Mittagessen frische Spaziergänge an Brücke und Fluss. Besuchen Sie das Schloss und die Kirche vor der Dunkelheit um 17:00 Uhr.",
+            "hu": "Kezdje a fagyos reggeli autózást a csendes medencénél és erdőnél. Élvezze az autó fűtését, miközben a múzeumhoz és a templomhoz hajt. Ebéd után tegyen frissítő sétát a hídnál. A rövid téli nap miatt a kastélyt és a templomot még a 17:00 órás sötétedés előtt, alkonyatkor érdemes megnézni.",
+            "ro": "Începeți dimineața geroasă la piscina liniștită și pădurea înghețată. Bucurați-vă de căldura mașinii spre muzeu și biserică. După prânz, faceți plimbări scurte la pod și râu. Ziua scurtă de iarnă înseamnă că veți vedea castelul și biserica în amurgul frumos dinainte de ora 17:00.",
+            "en": "Begin your frosty morning drive at the quiet pool and icy woods. Enjoy the luxury of car heating as you travel to the museum and church. After lunch, take brisk walks to the bridge and river. The short winter day means you'll see the castle and church in beautiful dusk before 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freibad / Planschbecken",
+                "hu": "Szabadtéri Pancsoló",
+                "ro": "Piscina de vară",
+                "en": "Outdoor Paddling Pool"
+              },
+              "tip_5lang": {
+                "de": "Das zugefrorene oder leere Becken bietet eine ruhige Winterszene; atmen Sie die frostige Luft, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "A befagyott vagy üres medence zord, csendes téli látványt nyújt; szívja be a friss fagyos levegőt, mielőtt visszatér a fűtött autóba.",
+                "ro": "Piscina înghețată sau goală oferă o scenă de iarnă liniștită; respirați aerul rece înainte de a vă întoarce la mașina caldă.",
+                "en": "The frozen or entirely empty pool area offers a stark, quiet winter scene; enjoy the crisp air before quickly returning to the heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Nailles",
+                "hu": "Nailles-erdő",
+                "ro": "Pădurea Nailles",
+                "en": "Nailles Woods"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für einen zügigen Winterspaziergang. Packen Sie sich warm ein, da die Waldwege den ganzen Tag über Frost und Kälte speichern.",
+                "hu": "Parkoljon le egy frissítő téli sétára; öltözzön fel nagyon melegen, mivel az erdei ösvények egész nap megőrzik a fagyot és a hideget.",
+                "ro": "Parcați pentru o plimbare alertă de iarnă; îmbrăcați-vă gros, deoarece potecile pădurii mențin frigul și gerul toată ziua.",
+                "en": "Park and take a brisk winter walk; wrap up warmly as the shaded woodland trails tend to hold the biting cold and frost all day long."
+              }
+            },
+            {
+              "name": {
+                "de": "Pogne-Museum",
+                "hu": "Pogne Múzeum",
+                "ro": "Muzeul Pogne",
+                "en": "Pogne Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, warmer Rückzugsort vor dem Frost; parken Sie direkt daneben und wärmen Sie sich auf, während Sie die Geschichte erkunden.",
+                "hu": "Tökéletes, meleg menedék a fagyos idő elől; parkoljon közvetlenül mellette, és melegedjen fel a helyi sütési hagyományok megismerésével.",
+                "ro": "Un refugiu cald perfect de vremea geroasă; parcați aproape și petreceți timp învățând despre tradițiile locale de coacere.",
+                "en": "A perfectly warm retreat from the freezing weather; park close by and thoroughly heat up while learning about local baking traditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Church of Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche kann kühl sein, behalten Sie den Mantel an. Genießen Sie das klare Winterlicht durch die wunderschönen Glasfenster.",
+                "hu": "A templom belseje hűvös lehet, ezért tartsa magán a kabátot; élvezze a gyönyörű téli fényt, ami átszűrődik a színes üvegablakokon.",
+                "ro": "Interiorul bisericii poate fi rece, așa că păstrați haina; bucurați-vă de lumina frumoasă de iarnă filtrată prin sticlă.",
+                "en": "The grand church interior might still be chilly, so keep your heavy coat on; enjoy the beautiful low winter light filtering through."
+              }
+            },
+            {
+              "name": {
+                "de": "Alte Brücke (Pont Vieux)",
+                "hu": "Öreg híd (Pont Vieux)",
+                "ro": "Podul Vechi (Pont Vieux)",
+                "en": "Old Bridge (Pont Vieux)"
+              },
+              "tip_5lang": {
+                "de": "Schützen Sie sich vor dem beißenden Wind auf dem Fluss; die frostige Panoramaaussicht von der Brücke ist den kurzen Stopp wert.",
+                "hu": "Öltözzön fel a folyó feletti metsző szél ellen; a hídról nyíló fagyos, gyönyörű panoráma mindenképpen megéri a rövid autós megállót.",
+                "ro": "Înfofoliți-vă împotriva vântului tăios de peste râu; priveliștea panoramică înghețată de pe pod merită din plin.",
+                "en": "Bundle up completely against the biting wind chill over the river; the frosty panoramic view from the bridge is well worth stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Isère-Ufer",
+                "hu": "Isère rakpart",
+                "ro": "Cheiul Isère",
+                "en": "Isère Riverbanks"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen, zügigen Spaziergang am Wasser und kehren Sie dann schnell in das beheizte Auto zurück, um sich aufzuwärmen.",
+                "hu": "Tegyen egy rövid, lendületes sétát a jéghideg víz mellett, majd siessen vissza a fűtött gépjárműbe, hogy felmelegítse a kezét.",
+                "ro": "Faceți o scurtă plimbare pe malul apei, apoi întoarceți-vă rapid la mașina încălzită pentru a vă dezgheța mâinile.",
+                "en": "Take a very short, brisk walk by the icy water, then quickly return to your fully heated car to properly warm your freezing hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Pizançon",
+                "hu": "Pizançon Kastély",
+                "ro": "Castelul Pizançon",
+                "en": "Pizançon Castle"
+              },
+              "tip_5lang": {
+                "de": "Das schwindende Winterlicht lässt das Schloss magisch wirken; besuchen Sie es vor dem Sonnenuntergang um 17:00 Uhr für die beste Sicht.",
+                "hu": "A halványuló téli fényben a kastély varázslatosnak tűnik; mindenképpen látogassa meg a 17:00 órás naplemente előtt a legjobb látványért.",
+                "ro": "Lumina slabă de iarnă face castelul să pară magic; vizitați-l înainte de apusul de la 17:00 pentru a aprecia arhitectura.",
+                "en": "The fading winter light makes the castle look deeply magical; make sure to visit just before the early 17:00 sunset to appreciate it."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Saint-Michel Church"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie in der Abenddämmerung an. Die beleuchtete Kirche bietet ein wunderschönes, friedliches Ende für Ihre winterliche Autotour.",
+                "hu": "Érkezzen meg, amikor az alkonyat beáll; a kivilágított templom csodálatos, békés befejezést nyújt a téli autós túrájának.",
+                "ro": "Ajungeți pe măsură ce se lasă amurgul; biserica iluminată oferă un final frumos și pașnic pentru turul dumneavoastră de iarnă cu mașina.",
+                "en": "Arrive just as the freezing dusk settles in; the beautifully illuminated church offers a stunning, peaceful end to your winter drive."
+              }
+            }
+          ]
+        }
       }
     }
   }

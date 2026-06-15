@@ -137,6 +137,168 @@
         "hu": "Kezdd a reggelt a helyi mecset nyugodt légkörében, mielőtt a nyüzsgő keleti partvidék felé vennéd az irányt a friss tengeri levegőért.\nDélben a forgalmas partok mentén a csendesebb nyugati homokdűnék felé sétálsz egy kellemes és pihentető tengerparti szünetre.\nA délutánt a hatalmas természetvédelmi terület sűrű dzsungelösvényeinek és rejtett csodáinak felfedezésére szánjuk.\nAz este közeledtével megcsodálhatod a park szélén gyülekező különleges vadvilágot és a lenyugvó nap fényeit.",
         "ro": "Începe-ți dimineața scufundându-te în ambianța calmă a moscheii locale înainte de a te îndrepta spre coasta vibrantă de est.\nLa prânz vei trece de țărmurile pline de viață spre nisipurile vestice mai liniștite pentru o sesiune de relaxare binemeritată.\nDupă-amiaza este dedicată potecilor dense din junglă și explorării rezervației naturale spectaculoase din peninsulă.\nSeara se lasă încet în timp ce privești fauna sălbatică și umbrele mișcătoare la marginea parcului protejat.",
         "en": "Start your morning immersing in the calm ambiance of the local mosque before heading to the vibrant and bustling eastern coastline.\nMidday brings you past energetic shores to the quieter western sands for a well-deserved relaxation session by the water.\nThe afternoon is wholly dedicated to trekking the dense jungle trails and discovering the secrets of the nature reserve.\nEvening settles in as you watch the spectacular wildlife and shifting shadows near the edge of the sprawling park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Pangandaran verleiht der Küste eine mystische Atmosphäre. Der Vormittag beginnt mit dem Schutz in der Moschee, während der warme Regen auf das Dach trommelt. Mittags suchen wir Zuflucht in kleinen Cafés an der Ostküste. Nachmittags erkunden wir den Dschungel, dessen Blätterdach teilweisen Schutz bietet. Abends genießen wir das Rauschen der Brandung im Schutz der Bäume.",
+            "hu": "A reggel csendes esővel indul, a mecset belső tere nyújt menedéket a trópusi zápor elől. Délben a keleti parton a hullámokat figyeljük egy fedett teraszról, miközben a homok sötétbarnára színeződik. Délután a rezervátum sűrű lombkoronája alatt sétálunk, ami részben felfogja a vizet. Az este a tenger morajlásával telik, egy hangulatos, védett helyről szemlélve a viharos óceánt.",
+            "ro": "O dimineață ploioasă începe cu un moment de liniște în moschee, oferind adăpost împotriva apei. La prânz, plaja de est capătă o aură dramatică sub cerul gri, ideală pentru observare de sub o terasă. După-amiază, potecile din rezervație devin umede, dar coronamentul des oferă protecție naturală. Seara se încheie cu sunetul ploii ce cade peste mare, savurat dintr-un loc acoperit și cald.",
+            "en": "The morning starts with a tropical drizzle, making the mosque a peaceful sanctuary to wait for a break. At noon, the east coast offers a dramatic view of the waves from the safety of a beachside cafe. Afternoon walks in the nature reserve are sheltered by the dense jungle canopy, though paths can be slick. The evening ends with the rhythmic sound of rain meeting the ocean's tide."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Baiturrahman",
+                "hu": "Baiturrahman Mecset",
+                "ro": "Moscheea Baiturrahman",
+                "en": "Masjid Baiturrahman"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum als trockenen Rückzugsort vor dem morgendlichen Guss; achten Sie auf die rutschigen Fliesen im Eingangsbereich bei Nässe.",
+                "hu": "Használja a mecset belső terét száraz menedékként a reggeli zápor idején; ügyeljen a vizes padlóra a bejáratnál, mert ilyenkor rendkívül csúszóssá válhat.",
+                "ro": "Folosiți interiorul moscheii ca refugiu uscat în timpul ploii de dimineață; aveți grijă la podeaua umedă de la intrare, care devine foarte alunecoasă.",
+                "en": "Use the interior of the mosque as a dry sanctuary during the morning shower; be careful on the wet tiles at the entrance as they become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Timur Pangandaran",
+                "hu": "Pangandaran Keleti Part",
+                "ro": "Plaja de Est Pangandaran",
+                "en": "Pantai Timur Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischer von einem der überdachten Warungs aus; der feste Sand am Flutsaum ist trotz Regen gut begehbar, solange man wasserfeste Schuhe trägt.",
+                "hu": "Figyelje a halászokat egy fedett kifőzde teraszáról; a part menti kemény homok esőben is jól járható, ha vízálló lábbelit visel a sár elkerülése érdekében.",
+                "ro": "Observați pescarii de pe o terasă acoperită; nisipul tare de la mal este ușor de parcurs chiar și pe ploaie, cu condiția să purtați încălțăminte impermeabilă.",
+                "en": "Watch the fishermen from a covered local eatery; the firm sand along the shore remains easy to walk on during rain if you wear waterproof footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "White Sand Beach West",
+                "hu": "Nyugati Fehérhomokos Part",
+                "ro": "Plaja cu Nisip Alb Vest",
+                "en": "White sand beach West"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume am Waldrand bieten natürlichen Schutz vor leichtem Regen; meiden Sie jedoch die Brandungszone, da die Wellen bei Sturm unberechenbar sein können.",
+                "hu": "Az erdő széli fák természetes ernyőt nyújtanak az enyhe eső ellen; kerülje el a hullámverést, mert viharos időben a tenger kiszámíthatatlanná válhat.",
+                "ro": "Copacii de la marginea pădurii oferă un paravan natural împotriva ploii ușoare; evitați zona valurilor, deoarece marea devine imprevizibilă pe furtună.",
+                "en": "Trees at the forest edge provide a natural umbrella against light rain; stay away from the surf zone as waves can be unpredictable during stormy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Cagar Alam Pangandaran",
+                "hu": "Cagar Alam Pangandaran",
+                "ro": "Rezervația Cagar Alam Pangandaran",
+                "en": "Cagar Alam Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Das dichte Blätterdach hält viel Regen ab, aber die Pfade können schlammig sein; feste Wanderschuhe sind ein Muss, um auf den Wurzeln nicht auszurutschen.",
+                "hu": "A sűrű lombozat sok esőt felfog, de az ösvények sárosak lehetnek; a túrabakancs elengedhetetlen, hogy ne csússzon meg a nedves gyökereken és köveken.",
+                "ro": "Coronamentul des oprește multă ploaie, dar potecile pot fi noroioase; bocancii de trekking sunt esențiali pentru a nu aluneca pe rădăcinile umede.",
+                "en": "The thick canopy blocks a lot of rain, but trails can get muddy; trekking boots are essential to avoid slipping on wet roots and mossy stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Pananjung Pangandaran Nature Reserve",
+                "hu": "Pananjung Pangandaran Rezervátum",
+                "ro": "Rezervația Naturală Pananjung Pangandaran",
+                "en": "Pananjung Pangandaran Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Höhlen im Reservat bieten den perfekten trockenen Unterschlupf bei starkem Regen; bringen Sie eine Taschenlampe mit, um die Korallenformationen zu erkunden.",
+                "hu": "A rezervátum barlangjai tökéletes száraz menedéket nyújtanak a felhőszakadás alatt; vigyen zseblámpát a belső kőzetformációk biztonságos felfedezéséhez.",
+                "ro": "Peșterile din rezervație oferă refugiul uscat perfect în timpul unei averse; aduceți o lanternă pentru a explora în siguranță formațiunile din interior.",
+                "en": "The caves in the reserve offer the perfect dry shelter during a downpour; bring a flashlight to safely explore the interior rock formations and corals."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im 'Winter' ist die Luft in Pangandaran erfrischend kühl. Der Vormittag lädt zu ausgiebigen Spaziergängen ein, ohne dass die Hitze belastet. Mittags genießen wir die Sonne am Strand, die nun milder scheint. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir den Nachmittag intensiv im Naturschutzgebiet. Der Abend wird früh gemütlich bei warmem Tee in einer der lokalen Unterkünfte.",
+            "hu": "A hűvösebb téli hónapokban a levegő friss, ideális a gyalogos felfedezéshez. Reggel a mecset környéke csendes, a napfény még nem égető. Délben a parton a kellemes szellő enyhíti a hőséget. Mivel a nap korán, délután öt körül nyugszik, a rezervátumot érdemes korán bejárni. Az este hamar beköszönt, amit egy forró tea mellett tölthetünk el egy hangulatos helyen.",
+            "ro": "În lunile mai răcoroase, aerul este proaspăt, ideal pentru explorarea pe jos. Dimineața, zona moscheii este liniștită, iar soarele nu este încă arzător. La prânz, briza plăcută de pe plajă domolește căldura. Deoarece soarele apune devreme, în jur de ora 17:00, rezervația trebuie vizitată din timp. Seara se instalează rapid, fiind perfectă pentru un ceai fierbinte.",
+            "en": "During the cooler months, the air is fresh and perfect for exploring on foot. Morning at the mosque is peaceful, with gentle sunlight. At noon, the beach breeze makes the heat manageable. Since the sun sets early around 17:00, make sure to finish your reserve tour early. The evening arrives quickly, ideal for enjoying a hot tea in a cozy local spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Baiturrahman",
+                "hu": "Baiturrahman Mecset",
+                "ro": "Moscheea Baiturrahman",
+                "en": "Masjid Baiturrahman"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Morgenluft auf dem Vorplatz; die tiefstehende Wintersonne wirft lange Schatten und bietet fantastische Motive für Architekturfotos.",
+                "hu": "Élvezze a friss reggeli levegőt az előtéren; az alacsonyabb téli napállás hosszú árnyékokat vet, ami kiváló lehetőséget ad az építészeti fotózáshoz.",
+                "ro": "Bucurați-vă de aerul proaspăt de dimineață din curte; soarele de iarnă creează umbre lungi, oferind oportunități excelente pentru fotografii arhitecturale.",
+                "en": "Enjoy the fresh morning air in the courtyard; the lower winter sun casts long shadows, providing excellent opportunities for architectural photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Timur Pangandaran",
+                "hu": "Pangandaran Keleti Part",
+                "ro": "Plaja de Est Pangandaran",
+                "en": "Pantai Timur Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Die mildere Sonne lädt zu langen Strandläufen ein; tragen Sie eine leichte Jacke gegen den kühlen Seewind, der in dieser Jahreszeit stetig weht.",
+                "hu": "A szelídebb napsütés hosszú tengerparti sétákra csábít; viseljen könnyű kabátot a hűvös tengeri szél ellen, amely ilyenkor folyamatosan fúj a part felől.",
+                "ro": "Soarele blând vă invită la plimbări lungi pe mal; purtați o jachetă ușoară împotriva vântului marin răcoros care suflă constant în această perioadă.",
+                "en": "The milder sun invites you for long beach walks; wear a light jacket against the cool sea breeze that blows steadily from the shore during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "White Sand Beach West",
+                "hu": "Nyugati Fehérhomokos Part",
+                "ro": "Plaja cu Nisip Alb Vest",
+                "en": "White sand beach West"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos vom weißen Sand; da es früher dunkel wird, sollten Sie den Rückweg bereits am späten Nachmittag antreten.",
+                "hu": "Használja ki a tiszta téli fényeket a fehér homok fotózásához; mivel korábban sötétedik, a visszautat már késő délután érdemes megkezdeni a biztonságért.",
+                "ro": "Profită de lumina clară de iarnă pentru a fotografia nisipul alb; deoarece se întunecă mai devreme, planificați drumul de întoarcere pentru după-amiaza târziu.",
+                "en": "Take advantage of the clear winter light for photos of the white sand; as it gets dark earlier, plan your return trip for the late afternoon for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Cagar Alam Pangandaran",
+                "hu": "Cagar Alam Pangandaran",
+                "ro": "Rezervația Cagar Alam Pangandaran",
+                "en": "Cagar Alam Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "In der kühleren Luft sind die Tiere des Waldes aktiver und leichter zu sichten; planen Sie Ihren Besuch so, dass Sie vor Sonnenuntergang wieder am Ausgang sind.",
+                "hu": "A hűvösebb levegőben az erdő állatai aktívabbak és könnyebben észrevehetők; úgy tervezze a látogatást, hogy naplemente előtt biztosan visszaérjen a kijárathoz.",
+                "ro": "În aerul mai răcoros, animalele pădurii sunt mai active și mai ușor de observat; planifică vizita astfel încât să revii la ieșire înainte de apusul soarelui.",
+                "en": "In the cooler air, the forest animals are more active and easier to spot; plan your visit to ensure you return to the exit before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Pananjung Pangandaran Nature Reserve",
+                "hu": "Pananjung Pangandaran Rezervátum",
+                "ro": "Rezervația Naturală Pananjung Pangandaran",
+                "en": "Pananjung Pangandaran Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Wanderung durch das Reservat ist bei diesen Temperaturen weniger anstrengend; starten Sie rechtzeitig, da der Dschungel bereits ab 16:30 Uhr sehr dunkel wird.",
+                "hu": "A rezervátumon keresztüli túra ilyenkor kevésbé megterhelő a hőség hiánya miatt; induljon időben, mert a dzsungel már fél öttől sötétbe borulhat.",
+                "ro": "Drumeția prin rezervație este mai puțin obositoare acum datorită lipsei căldurii; plecați la timp, deoarece jungla se întunecă rapid după ora 16:30.",
+                "en": "The hike through the reserve is less taxing now due to the lack of heat; start early, as the dense jungle begins to get very dark as early as 16:30."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli kerékpártúra az északi mecsettől egyenesen az energikus keleti halpiacokra és a nyüzsgő tengerpartra vezet téged.\nDélben a partvonal mentén tekerve eléred a keleti strand érintetlen fehér homokját egy festői és kellemes pihenőhöz.\nDélután felfedezed a park érintetlen vadonját, és egy eldugott dzsungel-vízesésre bukkansz a sűrű lombok alatt.\nAz este nyugodt visszautat kínál a lenyűgöző nyugati strand mentén, amely tökéletes helyszín a naplemente megcsodálására.",
         "ro": "Plimbarea matinală cu bicicleta te duce de la moscheea din nord direct la piețele energice de pește din est și la plajele aglomerate.\nLa prânz, pedalând de-a lungul coastei, vei ajunge pe nisipurile albe imaculate din est pentru o pauză pitorească și relaxantă.\nDupă-amiaza, vei explora sălbăticia neatinsă a parcului și vei descoperi o cascadă ascunsă adânc în inima junglei dese.\nSeara oferă o plimbare liniștită înapoi de-a lungul plajei uimitoare de vest, fiind decorul ideal pentru un apus perfect.",
         "en": "Morning pedals take you from the tranquil northern mosque straight to the energetic eastern fish markets and beautiful coastal shores.\nMidday riding skirts the rugged coastline, transitioning onto the pristine white sands of the east for a picturesque oceanfront break.\nIn the afternoon, you will explore the rugged wilderness of the nature reserve and discover a hidden jungle waterfall on foot.\nEvening provides a tranquil ride back along the stunning western beach, offering an idyllic setting for a perfect golden sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine ganz neue Perspektive auf Pangandaran. Morgens suchen wir Schutz an der Moschee, während wir auf eine Regenpause warten. Die Küstenstraßen glänzen silbern unter den Wolken. Mittags stärken wir uns in einer kleinen Hütte am Strand. Nachmittags fordern uns die nassen Pfade heraus. Der Abend endet mit der Reinigung der Fahrräder.",
+            "hu": "A bringázás az esőben kalandos, de óvatosságot igényel a csúszós utak miatt. Reggel a mecsetnél várakozunk egy rövid szünetre a záporok között. Délben a parti utakon haladunk, ahol a vízpermet hűsíti az utat. Délután a rezervátum környéki szakaszok sárosabbá válnak, próbára téve a kitartást. Az este a felszerelés letakarításával és egy meleg zuhannyal zárul.",
+            "ro": "O plimbare cu bicicleta pe ploaie este aventuroasă, dar necesită atenție sporită. Dimineața așteptăm o pauză între averse la moschee. La prânz pedalăm pe drumurile de coastă, unde stropii de apă răcoresc atmosfera. După-amiază, secțiunile din jurul rezervației devin noroioase, testându-ne abilitățile. Seara se încheie cu curățarea bicicletei și un duș fierbinte.",
+            "en": "Cycling in the rain is adventurous but requires extra caution on slippery roads. Morning is spent at the mosque waiting for a break between showers. At noon, we pedal along coastal roads cooled by the mist. In the afternoon, the sections around the reserve become muddier, testing our persistence. The evening ends with cleaning the gear and a warm shower."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Husnul Khotimah",
+                "hu": "Husnul Khotimah Mecset",
+                "ro": "Moscheea Husnul Khotimah",
+                "en": "Masjid Husnul Khotimah"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Vordach und nutzen Sie die Moschee als trockenen Stopp; prüfen Sie hier den Reifendruck für bessere Haftung auf nassen Straßen.",
+                "hu": "Parkolja le kerékpárját az ereszhajlás alatt, és használja a mecsetet száraz pihenőként; ellenőrizze a guminyomást a jobb tapadásért a vizes aszfalton.",
+                "ro": "Parcați bicicleta sub streașină și folosiți moscheea ca popas uscat; verificați presiunea anvelopelor pentru o aderență mai bună pe asfaltul ud.",
+                "en": "Park your bike under the overhang and use the mosque as a dry rest stop; check your tire pressure here for better grip on the wet asphalt roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Timur Pangandaran",
+                "hu": "Pangandaran Keleti Part",
+                "ro": "Plaja de Est Pangandaran",
+                "en": "Pantai Timur Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der asphaltierten Uferstraße, da sich Pfützen bilden können; genießen Sie den dramatischen Blick auf das graue Meer im Vorbeifahren.",
+                "hu": "Óvatosan haladjon az aszfaltozott parton, mert tócsák alakulhatnak ki; élvezze a szürke tenger drámai látványát menet közben, de kerülje a hirtelen fékezést.",
+                "ro": "Pedalați cu grijă pe drumul asfaltat de pe mal, deoarece se pot forma bălți; bucurați-vă de vederea dramatică a mării în timp ce evitați frânările bruște.",
+                "en": "Ride carefully on the paved shore road as deep puddles may form; enjoy the dramatic view of the grey sea while avoiding sudden braking on the slick surface."
+              }
+            },
+            {
+              "name": {
+                "de": "White Sand Beach East",
+                "hu": "Keleti Fehérhomokos Part",
+                "ro": "Plaja cu Nisip Alb Est",
+                "en": "White Sand Beach East"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können sehr rutschig sein; schieben Sie das Rad auf den sandigen Abschnitten, um Stürze zu vermeiden und das Material zu schonen.",
+                "hu": "A hozzivezető utak nagyon csúszósak lehetnek; a homokos szakaszokon inkább tolja a kerékpárt az esés elkerülése és a technika megóvása érdekében.",
+                "ro": "Drumurile de acces pot fi foarte alunecoase; pe secțiunile cu nisip, mai bine împingeți bicicleta pentru a evita căzăturile și a proteja echipamentul.",
+                "en": "The access roads can be very slippery; on sandy sections, it's better to push the bike to avoid falls and protect your gear from the gritty wet sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Cagar Alam Pangandaran",
+                "hu": "Cagar Alam Pangandaran",
+                "ro": "Rezervația Cagar Alam Pangandaran",
+                "en": "Cagar Alam Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad am Eingang sicher ab und erkunden Sie den Wald zu Fuß; das dichte Laub schützt Sie vor dem schlimmsten Regen während der Wanderung.",
+                "hu": "Zárja le biztonságosan a bringát a bejáratnál, és gyalogosan vágjon neki az erdőnek; a sűrű lombkorona megvédi a nagyobb esőtől a séta közben.",
+                "ro": "Încuiați bine bicicleta la intrare și porniți în pădure pe jos; frunzișul des vă va proteja de ploaia torențială în timpul explorării pe poteci.",
+                "en": "Lock your bike securely at the entrance and explore the forest on foot; the dense foliage will protect you from the worst of the rain during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Terjun",
+                "hu": "Vízesés (Air Terjun)",
+                "ro": "Cascada Air Terjun",
+                "en": "Air Terjun"
+              },
+              "tip_5lang": {
+                "de": "Nach Regenfällen ist der Wasserfall besonders imposant, aber der Pfad dorthin extrem glitschig; tragen Sie Schuhe mit gutem Profil für den letzten Anstieg.",
+                "hu": "Esőzés után a vízesés lenyűgöző, de az oda vezető ösvény rendkívül síkos; viseljen recés talpú cipőt az utolsó emelkedőnél a biztonságos feljutáshoz.",
+                "ro": "După ploi, cascada este impresionantă, dar poteca spre ea este extrem de alunecoasă; purtați pantofi cu talpă aderentă pentru urcarea finală.",
+                "en": "After rain, the waterfall is impressive, but the path to it is extremely slippery; wear shoes with good grip for the final climb to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "White Sand Beach West",
+                "hu": "Nyugati Fehérhomokos Part",
+                "ro": "Plaja cu Nisip Alb Vest",
+                "en": "White sand beach West"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour in einem der strandnahen Cafés, um sich aufzuwärmen; die salzige Luft und der Regen machen eine gründliche Fahrradwäsche danach nötig.",
+                "hu": "Zárja a túrát egy part menti kávézóban a felmelegedéshez; a sós levegő és az eső miatt a kerékpárt mindenképpen le kell csutakolni a nap végén.",
+                "ro": "Încheiați turul la o cafenea de pe mal pentru a vă încălzi; din cauza aerului sărat și a ploii, bicicleta trebuie spălată bine la finalul zilei.",
+                "en": "End your tour at a beachside cafe to warm up; due to the salty air and rain, make sure to thoroughly wash your bike at the end of the day to prevent rust."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühleren Wintertage sind ideal für eine Fahrradtour ohne übermäßiges Schwitzen. Morgens radeln wir durch die frische Luft zur Moschee. Mittags bietet die Küstenstraße perfekte Bedingungen für lange Fahrten. Die Nachmittage im Wald sind belebend, da die Temperaturen angenehm bleiben. Wegen des frühen Sonnenuntergangs beenden wir unsere Tour bereits am späten Nachmittag.",
+            "hu": "A hűvösebb téli napok ideálisak a kerékpározáshoz anélkül, hogy a hőség tönkretenné az élményt. Reggel friss levegőn tekerünk a mecset felé. Délben a parti út kiváló terepet nyújt a hosszabb szakaszokhoz. A délutáni erdőlátogatás felüdítő a kellemes hőmérsékletben. A korai naplemente miatt a túrát már késő délután befejezzük a biztonságos közlekedésért.",
+            "ro": "Zilele răcoroase de iarnă sunt ideale pentru ciclism fără ca arșița să strice experiența. Dimineața pedalăm prin aerul proaspăt spre moschee. La prânz, drumul de coastă oferă condiții excelente pentru trasee lungi. Vizita de după-amiază la pădure este revigorantă. Din cauza apusului devreme, încheiem turul după-amiaza târziu pentru siguranță.",
+            "en": "The cooler winter days are ideal for cycling without the intense heat ruining the experience. In the morning, we pedal through fresh air towards the mosque. At noon, the coastal road provides excellent conditions for longer stretches. The afternoon forest visit is refreshing in the pleasant temperatures. Due to the early sunset, we finish our tour by late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Husnul Khotimah",
+                "hu": "Husnul Khotimah Mecset",
+                "ro": "Moscheea Husnul Khotimah",
+                "en": "Masjid Husnul Khotimah"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kühlen Morgen für den ersten Stopp; die klare Luft sorgt für eine weite Sicht über die Reisfelder auf dem Weg zur Moschee.",
+                "hu": "Használja ki a hűvös reggelt az első megállóhoz; a tiszta levegő messzire enged látni a rizsföldek felett a mecset felé vezető úton.",
+                "ro": "Profită de dimineața răcoroasă pentru prima oprire; aerul curat permite o vizibilitate mare peste câmpurile de orez în drum spre moschee.",
+                "en": "Take advantage of the cool morning for the first stop; the clear air provides long-range views over the rice fields on the way to the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Timur Pangandaran",
+                "hu": "Pangandaran Keleti Part",
+                "ro": "Plaja de Est Pangandaran",
+                "en": "Pantai Timur Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiges Tempo auf dem Fahrrad ist bei diesen Temperaturen sehr angenehm; achten Sie auf den böigen Wind, der vom Meer her wehen kann.",
+                "hu": "A tempósabb haladás ilyenkor nagyon kellemes a kerékpáron a hőség hiánya miatt; ügyeljen a tenger felől érkező időnkénti erős széllökésekre.",
+                "ro": "Pedalatul într-un ritm mai alert este foarte plăcut acum datorită lipsei căldurii; atenție la rafalele de vânt care pot sufla dinspre mare.",
+                "en": "A brisker pace on the bike is very pleasant now due to the lack of heat; watch out for occasional strong gusts of wind coming from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "White Sand Beach East",
+                "hu": "Keleti Fehérhomokos Part",
+                "ro": "Plaja cu Nisip Alb Est",
+                "en": "White Sand Beach East"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist mittags nicht zu heiß zum Barfußlaufen; parken Sie das Rad im Schatten der Palmen, um den Sattel vor der direkten Sonne zu schützen.",
+                "hu": "A homok délben sem túl forró a mezítlábas sétához; parkolja a bringát a pálmák árnyékába, hogy óvja a nyerget a közvetlen napsütéstől.",
+                "ro": "Nisipul nu este prea fierbinte la prânz pentru o plimbare desculț; parcați bicicleta la umbra palmierilor pentru a proteja șaua de soarele direct.",
+                "en": "The sand is not too hot for a barefoot walk even at noon; park your bike in the shade of the palms to protect the saddle from the direct sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Cagar Alam Pangandaran",
+                "hu": "Cagar Alam Pangandaran",
+                "ro": "Rezervația Cagar Alam Pangandaran",
+                "en": "Cagar Alam Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "In der Winterzeit ist das Licht im Wald perfekt für Naturaufnahmen; planen Sie die Ankunft so, dass Sie das weiche Licht der Nachmittagssonne nutzen.",
+                "hu": "A téli időszakban az erdei fények tökéletesek a természetfotózáshoz; úgy érkezzen ide, hogy kihasználja a délutáni napfény lágy, meleg tónusait.",
+                "ro": "În perioada de iarnă, lumina din pădure este perfectă pentru fotografii; planificați sosirea astfel încât să profitați de lumina caldă de după-amiază.",
+                "en": "During the winter season, the forest light is perfect for nature photography; time your arrival to utilize the soft, warm tones of the afternoon sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Terjun",
+                "hu": "Vízesés (Air Terjun)",
+                "ro": "Cascada Air Terjun",
+                "en": "Air Terjun"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann im Winter recht erfrischend sein; nach der Radfahrt bergauf ist die kühle Brise am Wasserfall eine willkommene Belohnung.",
+                "hu": "A víz ilyenkor meglehetősen frissítő lehet; a dombra való feltekerés után a vízesésnél érezhető hűvös pára igazi jutalom a fáradtságért.",
+                "ro": "Apa poate fi destul de răcoritoare în această perioadă; după urcarea pe deal, briza rece de la cascadă este o recompensă binevenită.",
+                "en": "The water can be quite refreshing during this time; after the uphill ride, the cool mist at the waterfall is a welcome reward for your efforts."
+              }
+            },
+            {
+              "name": {
+                "de": "White Sand Beach West",
+                "hu": "Nyugati Fehérhomokos Part",
+                "ro": "Plaja cu Nisip Alb Vest",
+                "en": "White sand beach West"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor 17:00 Uhr, da es schlagartig dunkel wird; ein Licht am Fahrrad ist für die Rückfahrt im Dämmerlicht ratsam.",
+                "hu": "Fejezze be a túrát időben, 17:00 előtt, mert hirtelen sötétedik be; a kerékpár lámpája kötelező a szürkületben való biztonságos visszatéréshez.",
+                "ro": "Încheiați turul la timp, înainte de ora 17:00, deoarece se întunecă brusc; lumina de la bicicletă este obligatorie pentru o întoarcere sigură.",
+                "en": "Finish your tour in time, before 17:00, as it gets dark suddenly; a bike light is mandatory for a safe return trip during the quick twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A nap egy utazással kezdődik a nagy északi mecsethez, amelyet egy lenyűgöző látogatás követ az akvárium színes tengeri világában.\nDélben a kiterjedt főstrand felé autózol, majd visszatérsz a lüktető központba egy kis kulturális elmélyülésre és pihenésre.\nA délutáni vezetés a keleti partot és a hatalmas félszigeti rezervátum buja, zöldellő peremeit térképezi fel számodra.\nZárd a napot békésen, barangolva egy csendes és varázslatos vízesés közelében, mélyen a védett erdő szívében.",
         "ro": "Ziua începe cu o plimbare cu mașina până la marea moschee din nord, urmată de o scufundare fascinantă în viața marină de la acvariu.\nLa prânz, vei naviga spre plaja principală extinsă și te vei întoarce în centrul vibrant pentru o pauză spirituală și culturală.\nPlimbarea de după-amiază explorează țărmul estic și marginile luxuriante ale marii rezervații naturale din peninsulă.\nÎncheie ziua plimbându-te în liniște lângă o cascadă senină, ascunsă adânc în interiorul pădurii tropicale protejate.",
         "en": "The day begins with a pleasant drive to the grand northern mosque followed by a fascinating dive into the marine life at the local aquarium.\nMidday cruising takes you to the sprawling main beach and back into the vibrant center of town for a quick cultural visit.\nAfternoon driving explores the lively eastern shore and the lush, untouched edges of the great peninsula nature reserve.\nEnd the day peacefully by wandering near a serene and hidden waterfall deep within the protected, ancient forest."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto ist Pangandaran auch bei Starkregen ein Vergnügen. Wir starten morgens trocken an der großen Moschee. Mittags bietet das Aquarium die perfekte überdachte Unterhaltung für die ganze Familie. Die Fahrt entlang der Küste erlaubt uns, das stürmische Meer aus der Wärme heraus zu beobachten. Abends genießen wir lokale Spezialitäten in einem Restaurant mit Parkplatz direkt vor der Tür.",
+            "hu": "Az autó kényelméből az esős Pangandaran is élvezetes maradhat. Reggel szárazon indulunk a főmecsettől. Délben az akvárium tökéletes fedett programot nyújt az egész családnak, amíg kint szakad az eső. A parti út mentén haladva a kocsiból is csodálhatjuk a tajtékzó tengert. Az estét egy olyan étteremben töltjük, ahol közvetlenül a bejárat előtt tudunk leparkolni.",
+            "ro": "Din confortul mașinii, Pangandaran rămâne plăcut chiar și pe ploaie. Dimineața pornim de la marea moschee fără a ne uda. La prânz, acvariul oferă programul perfect acoperit pentru întreaga familie. Mergând pe drumul de coastă, putem admira marea învolburată din mașină. Seara o petrecem la un restaurant unde putem parca chiar în fața intrării.",
+            "en": "From the comfort of a car, rainy Pangandaran remains enjoyable. We start dry in the morning at the Grand Mosque. At noon, the aquarium offers the perfect indoor program for the whole family while it pours outside. Driving along the coast, we can admire the churning sea from the vehicle. The evening is spent at a restaurant with parking right in front of the door."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Agung Pangandaran",
+                "hu": "Pangandaran Főmecset (Masjid Agung)",
+                "ro": "Marea Moschee Pangandaran",
+                "en": "Masjid Agung Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz, um trockenen Fußes in die Moschee zu gelangen; der großzügige Innenraum bietet viel Platz zum Verweilen bei Regen.",
+                "hu": "Használja a kiépített parkolót, hogy száraz lábbal jusson be a mecsetbe; a tágas belső tér rengeteg helyet kínál az eső elől való várakozáshoz.",
+                "ro": "Folosiți parcarea amenajată pentru a intra în moschee fără a vă uda; spațiul interior generos oferă mult loc pentru a aștepta trecerea ploii.",
+                "en": "Use the paved parking lot to enter the mosque with dry feet; the spacious interior offers plenty of room to wait out the rain comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Indonesia Pangandaran",
+                "hu": "Pangandaran Indonéz Akvárium",
+                "ro": "Acvariul Indonezia Pangandaran",
+                "en": "Aquarium Indonesia Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Dies ist das beste Regenwetter-Ziel der Region; planen Sie mindestens zwei Stunden ein, um die Unterwasserwelt ohne Zeitdruck im Trockenen zu erleben.",
+                "hu": "Ez a környék legjobb esős napi célpontja; szánjon rá legalább két órát, hogy nyugodtan, szárazon fedezhesse fel a vízi világot a zuhé ideje alatt.",
+                "ro": "Aceasta este cea mai bună destinație pentru zilele ploioase; alocați cel puțin două ore pentru a explora lumea acvatică la adăpost de intemperii.",
+                "en": "This is the best rainy-day destination in the area; set aside at least two hours to explore the aquatic world calmly while staying dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pangandaran Beach",
+                "hu": "Pangandaran Főstrand",
+                "ro": "Plaja Pangandaran",
+                "en": "Pangandaran Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade und genießen Sie den Blick auf den Ozean aus dem Auto; so bleiben Sie trocken, während Sie die Kraft der Wellen bewundern.",
+                "hu": "Parkoljon közvetlenül a sétány mellett, és élvezze az óceán látványát az autóból; így szárazon maradhat, miközben a hullámok erejét csodálja.",
+                "ro": "Parcați chiar lângă faleză și bucurați-vă de vederea oceanului din mașină; astfel rămâneți uscat în timp ce admirați forța valurilor de la adăpost.",
+                "en": "Park right next to the promenade and enjoy the view of the ocean from the car; stay dry while admiring the power of the waves from your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Baiturrahman",
+                "hu": "Baiturrahman Mecset",
+                "ro": "Moscheea Baiturrahman",
+                "en": "Masjid Baiturrahman"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist hier ideal, da man sehr nah am Gebäude parken kann; nutzen Sie die Zeit für ein kurzes Gebet oder eine Meditation im Trockenen.",
+                "hu": "Egy gyors megállóra ideális, mivel nagyon közel lehet parkolni az épülethez; használja ki az időt egy rövid elmélyülésre a száraz belső térben.",
+                "ro": "Ideal pentru o oprire rapidă, deoarece se poate parca foarte aproape de clădire; profită de timp pentru o scurtă meditație în interiorul uscat.",
+                "en": "Ideal for a quick stop as you can park very close to the building; use the time for a brief moment of reflection in the dry interior space."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Timur Pangandaran",
+                "hu": "Pangandaran Keleti Part",
+                "ro": "Plaja de Est Pangandaran",
+                "en": "Pantai Timur Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich ein Restaurant mit überdachtem Parkplatz; der frische Fisch schmeckt besonders gut, wenn man dem Regen draußen zuschauen kann.",
+                "hu": "Keressen egy fedett parkolóval rendelkező éttermet; a friss hal különösen ízletes, miközben a kinti esőt figyeli a meleg belső térből.",
+                "ro": "Căutați un restaurant cu parcare acoperită; peștele proaspăt este excelent în timp ce priviți ploaia de afară din interiorul primitor.",
+                "en": "Look for a restaurant with covered parking; the fresh fish is especially tasty while you watch the rain outside from the warm, dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Pananjung Pangandaran Nature Reserve",
+                "hu": "Pananjung Pangandaran Rezervátum",
+                "ro": "Rezervația Naturală Pananjung Pangandaran",
+                "en": "Pananjung Pangandaran Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkeingang und gehen Sie nur kurze Wege; die Höhlen sind auch bei Regen ein sicheres Ziel, da sie im Inneren trocken bleiben.",
+                "hu": "Hajtson el a park bejáratáig, és csak rövid szakaszokat tegyen meg; a barlangok esőben is biztonságos célpontok, mert bent száraz marad az idő.",
+                "ro": "Conduceți până la intrarea în parc și parcurgeți doar distanțe scurte; peșterile sunt destinații sigure chiar și pe ploaie, fiind uscate în interior.",
+                "en": "Drive to the park entrance and take only short walks; the caves are safe destinations even in rain, as they remain dry on the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Terjun",
+                "hu": "Vízesés (Air Terjun)",
+                "ro": "Cascada Air Terjun",
+                "en": "Air Terjun"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zum Wasserfall kann bei Regen rutschig sein; fahren Sie langsam und parken Sie auf festem Grund, um nicht im Schlamm steckenzubleiben.",
+                "hu": "A vízeséshez vezető út esőben csúszós lehet; vezessen lassan, és szilárd talajon parkoljon, hogy elkerülje az elakadást a felázott sárban.",
+                "ro": "Drumul spre cascadă poate fi alunecos pe ploaie; conduceți încet și parcați pe teren solid pentru a evita blocarea în noroiul moale.",
+                "en": "The road to the waterfall can be slippery in the rain; drive slowly and park on solid ground to avoid getting stuck in the soaked mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermonate bieten in Pangandaran angenehme Temperaturen für Autotouren. Morgens ist die Sicht auf die Landschaft besonders klar. Mittags genießen wir die kühle Klimaanlage im Auto während der Fahrt zwischen den Sehenswürdigkeiten. Da es früher dunkel wird, planen wir unsere Naturstopps für den frühen Nachmittag. Der Abend endet bei Sonnenuntergang gegen 17:00 Uhr am Strand.",
+            "hu": "A téli hónapok kellemes hőmérsékletet kínálnak az autós túrákhoz Pangandaranban. Reggel a látótávolság kiváló, a táj élesen rajzolódik ki. Délben élvezhetjük az autó klímáját a látnivalók közötti út során. Mivel korábban sötétedik, a természetközeli megállókat kora délutánra időzítjük. A napot a 17:00 körüli naplementével zárjuk a tengerparton.",
+            "ro": "Lunile de iarnă oferă temperaturi plăcute pentru tururile cu mașina în Pangandaran. Dimineața, vizibilitatea este excelentă, iar peisajul se vede clar. La prânz, ne bucurăm de aerul condiționat între obiectivele turistice. Deoarece se întunecă devreme, vizitele în natură sunt programate devreme. Încheiem ziua cu apusul de la ora 17:00 pe plajă.",
+            "en": "The winter months offer pleasant temperatures for car tours in Pangandaran. In the morning, visibility is excellent and the landscape is sharp. At noon, enjoy the car's AC between sightseeing stops. As it gets dark earlier, nature visits are scheduled for early afternoon. We end the day with the 17:00 sunset on the beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Agung Pangandaran",
+                "hu": "Pangandaran Főmecset (Masjid Agung)",
+                "ro": "Marea Moschee Pangandaran",
+                "en": "Masjid Agung Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist am frühen Morgen meist leer; genießen Sie die Ruhe und das klare Winterlicht, bevor der tägliche Verkehr in der Stadt zunimmt.",
+                "hu": "A parkoló kora reggel még többnyire üres; élvezze a csendet és a tiszta téli fényeket, mielőtt a városi forgalom felerősödne a mecset körül.",
+                "ro": "Parcarea este de obicei goală dimineața devreme; bucurați-vă de liniște și de lumina clară de iarnă înainte ca traficul urban să se intensifice.",
+                "en": "The parking lot is usually empty early in the morning; enjoy the peace and clear winter light before the city traffic increases around the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium Indonesia Pangandaran",
+                "hu": "Pangandaran Indonéz Akvárium",
+                "ro": "Acvariul Indonezia Pangandaran",
+                "en": "Aquarium Indonesia Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für den Besuch, wenn die Außenhitze am stärksten ist; das Aquarium ist im Winter angenehm klimatisiert und weniger überlaufen.",
+                "hu": "Használja ki a déli órákat a látogatásra, amikor a kinti hőség a legerősebb; az akvárium ilyenkor kellemesen hűvös és kevésbé zsúfolt.",
+                "ro": "Profită de orele prânzului pentru vizită, când căldura de afară este maximă; acvariul este plăcut climatizat și mai puțin aglomerat iarna.",
+                "en": "Utilize the midday hours for your visit when the outside heat is strongest; the aquarium is pleasantly air-conditioned and less crowded in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pangandaran Beach",
+                "hu": "Pangandaran Főstrand",
+                "ro": "Plaja Pangandaran",
+                "en": "Pangandaran Beach"
+              },
+              "tip_5lang": {
+                "de": "Die mildere Wintersonne macht den Aufenthalt am Strand auch mittags angenehm; parken Sie unter den Bäumen, um das Auto für die Weiterfahrt kühl zu halten.",
+                "hu": "A szelídebb téli nap miatt a parton tartózkodás délben is kellemes; parkoljon a fák alá, hogy az autó hűvös maradjon a következő útszakaszig.",
+                "ro": "Soarele blând de iarnă face șederea pe plajă plăcută chiar și la prânz; parcați sub copaci pentru a menține mașina răcoroasă pentru drum.",
+                "en": "The milder winter sun makes staying on the beach pleasant even at noon; park under the trees to keep the car cool for the next leg of your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Baiturrahman",
+                "hu": "Baiturrahman Mecset",
+                "ro": "Moscheea Baiturrahman",
+                "en": "Masjid Baiturrahman"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee am Nachmittag, wenn das warme Sonnenlicht durch die Fenster fällt; die Umgebung ist im Winter ideal für kurze Spaziergänge.",
+                "hu": "Látogassa meg a mecsetet délután, amikor a meleg napfény beárad az ablakokon; a környék ilyenkor ideális egy rövid, frissítő sétára.",
+                "ro": "Vizitați moscheea după-amiaza, când lumina caldă a soarelui pătrunde prin ferestre; zona este ideală pentru o scurtă plimbare răcoritoare.",
+                "en": "Visit the mosque in the afternoon when the warm sunlight streams through the windows; the area is ideal for a short, refreshing walk in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Timur Pangandaran",
+                "hu": "Pangandaran Keleti Part",
+                "ro": "Plaja de Est Pangandaran",
+                "en": "Pantai Timur Pangandaran"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt entlang der Küste bietet im klaren Winterlicht weite Panoramablicke; stoppen Sie kurz vor 16:30 Uhr für die besten Lichtverhältnisse zum Fotografieren.",
+                "hu": "A parti út menti autózás a tiszta téli fényben széles panorámát kínál; álljon meg fél öt előtt a legjobb fényviszonyokhoz a fotózáshoz.",
+                "ro": "Drumul de coastă oferă panorame largi în lumina clară de iarnă; opriți-vă înainte de 16:30 pentru cele mai bune condiții de fotografiere.",
+                "en": "Driving along the coast offers wide panoramas in the clear winter light; stop before 16:30 for the best lighting conditions for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Pananjung Pangandaran Nature Reserve",
+                "hu": "Pananjung Pangandaran Rezervátum",
+                "ro": "Rezervația Naturală Pananjung Pangandaran",
+                "en": "Pananjung Pangandaran Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Rundgang spätestens um 15:00 Uhr, um vor der frühen Dunkelheit fertig zu sein; im Winter sind Tierbeobachtungen im Kühlen wahrscheinlicher.",
+                "hu": "Kezdje a körutat legkésőbb 15:00-kor, hogy a korai sötétedés előtt végezzen; télen a hűvösebb időben több esély van vadon élő állatok megpillantására.",
+                "ro": "Începeți turul cel târziu la ora 15:00 pentru a termina înainte de lăsarea serii; iarna sunt mai multe șanse de a observa animale sălbatice.",
+                "en": "Start your tour by 15:00 at the latest to finish before the early darkness; in winter, wildlife sightings are more likely in the cooler air."
+              }
+            },
+            {
+              "name": {
+                "de": "Air Terjun",
+                "hu": "Vízesés (Air Terjun)",
+                "ro": "Cascada Air Terjun",
+                "en": "Air Terjun"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall liegt im Winter früh im Schatten; erreichen Sie diesen Ort vor 16:00 Uhr, um die Kaskaden noch im direkten Sonnenlicht zu sehen.",
+                "hu": "A vízesés télen korán árnyékba kerül; érkezzen ide 16:00 előtt, ha még közvetlen napsütésben szeretné látni a lezúduló víztömeget.",
+                "ro": "Cascada intră devreme în umbră iarna; ajungeți aici înainte de ora 16:00 pentru a vedea căderile de apă încă sub lumina directă a soarelui.",
+                "en": "The waterfall falls into shadow early in winter; arrive here before 16:00 if you want to see the cascades still in direct sunlight."
+              }
+            }
+          ]
+        }
       }
     }
   }

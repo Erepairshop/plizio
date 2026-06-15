@@ -137,6 +137,168 @@
         "hu": "A reggel Épône szívében kezdődik a Saint-Béat templom és a titokzatos Dávid-templom békés meglátogatásával, megalapozva a nap elmélkedő hangulatát. Dél körül a Château d'Épône festői parkjába érkezik, amely tökéletes hely a pihenésre. A délután folyamán a Château d'Épône fenséges külsejét fedezheti fel, majd egy kényelmes sétát tehet a történelmi Saint-Nicolas templom felé. Ahogy közeledik az este, a város hangulatos utcái nyugodt hátteret biztosítanak egy gyalogos felfedezésekkel teli nap kellemes lezárásához.",
         "ro": "Dimineața începe în inima orașului Épône cu o vizită pașnică la Biserica Saint-Béat și la misteriosul Templu al lui David, stabilind un ton reflexiv pentru zi. În jurul prânzului, veți trece la împrejurimile pitorești ale Parcului Château d'Épône, un loc perfect pentru a vă odihni. După-amiaza este dedicată explorării exteriorului maiestuos al Château d'Épône, urmată de o plimbare pe îndelete spre istorica Église Saint-Nicolas. Pe măsură ce se apropie seara, străzile fermecătoare ale orașului oferă un fundal senin pentru a încheia o zi de descoperire.",
         "en": "Your morning begins at the heart of Épône with a peaceful visit to Saint-Béat Church and the mysterious Temple of David, setting a reflective tone for the day. Around midday, you will transition to the scenic surroundings of the Park of the Château d'Épône, a perfect spot to rest and enjoy the local greenery. The afternoon is dedicated to exploring the majestic exterior of the Château d'Épône, followed by a leisurely stroll towards the historic Église Saint-Nicolas. As evening approaches, the charming streets of the town provide a serene backdrop, concluding a day of gentle discovery on foot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in der Saint-Béat-Kirche, die Schutz bietet. Mittags führt der Weg zum Davidstempel und durch den nassen Schlosspark, wo die Natur intensiv duftet. Am Nachmittag bewundern Sie das Château d'Épône unter grauem Himmel. Den Abend lassen Sie ruhig in der Église Saint-Nicolas ausklingen, während der Regen sanft gegen die historischen Mauern trommelt.",
+            "hu": "Az esős reggelt a Saint-Béat templom fedett békéjében indítjuk. Délben a Dávid-templom és a kastélypark vizes ösvényei következnek, ahol az eső illata frissíti fel a levegőt. Délután a Château d'Épône méltóságteljes tömbjét nézzük meg az esőfüggönyön át. Az estét a Saint-Nicolas templom vastag falai között zárjuk, ahol a belső csend menedéket nyújt a szitáló idő elől.",
+            "ro": "Începeți dimineața ploioasă în biserica Saint-Béat, un refugiu perfect împotriva stropilor. La prânz, vizitați Templul lui David și parcul castelului, unde vegetația capătă culori intense sub ploaie. După-amiaza este dedicată Château d'Épône, privit prin reflexiile trotuarelor ude. Seara se încheie la Église Saint-Nicolas, ascultând ritmul ploii care cade pe acoperișul vechi.",
+            "en": "Start your rainy morning inside Saint-Béat Church, a dry sanctuary. At noon, visit the Temple of David and the castle park, where the wet earth smells remarkably fresh. In the afternoon, admire the Château d'Épône as it stands gray and grand against the drizzle. End your evening at Église Saint-Nicolas, finding peace and shelter within its historic and quiet stone walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Béat",
+                "hu": "Saint-Béat templom",
+                "ro": "Biserica Saint-Béat",
+                "en": "Saint-Béat Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Glasfenster, die bei Regen ein mystisches Licht werfen; ein trockener Ort, um die Architektur in Ruhe zu studieren.",
+                "hu": "Csodálja meg a színes üvegablakokat, amelyek esőben különleges fényt árasztanak; a belső tér száraz menedéket nyújt az építészet kedvelőinek.",
+                "ro": "Admirați vitraliile colorate care reflectă o lumină mistică pe timp de ploaie; este un loc uscat perfect pentru a studia arhitectura în tihnă.",
+                "en": "Admire the colorful stained glass windows that cast a mystical light during the rain; it is a perfect dry spot to study the architecture in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Davidstempel",
+                "hu": "Dávid-templom",
+                "ro": "Templul lui David",
+                "en": "Temple of David"
+              },
+              "tip_5lang": {
+                "de": "Dieser kleine Pavillon bietet wenig Schutz, aber die umliegenden Bäume fangen den ersten Guss ab; Vorsicht vor rutschigen Stufen beim Aufgang.",
+                "hu": "Ez a kis pavilon kevés védelmet nyújt, de a környező fák felfogják az eső egy részét; ügyeljen a csúszós lépcsőkre a megközelítéskor.",
+                "ro": "Acest mic pavilion oferă puțin adăpost, dar copacii din jur opresc primii stropi; atenție la treptele alunecoase în timpul urcării.",
+                "en": "This small pavilion offers little shelter, but the surrounding trees catch the first drops; watch out for slippery steps during your approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Park des Château d'Épône",
+                "hu": "Château d'Épône parkja",
+                "ro": "Parcul Château d'Épône",
+                "en": "Park of the Château d'Épône"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege, um Pfützen zu vermeiden, und genießen Sie das satte Grün des Gartens, das im Regen besonders leuchtet.",
+                "hu": "Használja az aszfaltozott utakat a tócsák elkerülése érdekében, és élvezze a kert élénkzöld színeit, amelyek esőben még jobban ragyognak.",
+                "ro": "Folosiți aleile asfaltate pentru a evita bălțile și bucurați-vă de verdele intens al grădinii, care strălucește spectaculos sub ploaie.",
+                "en": "Use the paved paths to avoid puddles and enjoy the deep green of the garden, which looks particularly vibrant and lush in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Épône",
+                "hu": "Château d'Épône",
+                "ro": "Château d'Épône",
+                "en": "Château d'Épône"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade aus der Ferne unter einem stabilen Schirm; die Details des Schlosses wirken bei bewölktem Licht besonders markant.",
+                "hu": "Tekintse meg a homlokzatot egy stabil esernyő alól; a kastély részletei a borús, szórt fényben különösen karakteresnek tűnnek.",
+                "ro": "Observați fațada de sub o umbrelă solidă; detaliile castelului par deosebit de pronunțate sub lumina difuză a cerului înnorat.",
+                "en": "View the facade from beneath a sturdy umbrella; the castle's details appear particularly striking in the diffused, overcast light."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren nassen Schirm am Eingang und genießen Sie die kühle Stille; die Akustik im Inneren verstärkt das ferne Rauschen des Regens.",
+                "hu": "Hagyja a vizes esernyőt a bejáratnál, és élvezze a hűvös csendet; a belső akusztika felerősíti az eső távoli, megnyugtató duruzsolását.",
+                "ro": "Lăsați umbrela udă la intrare și bucurați-vă de liniștea răcoroasă; acustica interioară amplifică susurul îndepărtat al ploii.",
+                "en": "Leave your wet umbrella at the entrance and enjoy the cool silence; the interior acoustics amplify the distant, soothing hum of rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der Saint-Béat-Kirche. Mittags erkunden Sie den Davidstempel und das Schlossgelände, wo der Raureif die Bäume verziert. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das letzte Tageslicht für den Park. Den kalten Nachmittag beschließen Sie in der Église Saint-Nicolas, bevor Sie sich in ein warmes Quartier zurückziehen.",
+            "hu": "A zúzmarás reggelt a Saint-Béat templom vastag falai között indítjuk. Délben a Dávid-templom és a kastély parkja következik, ahol a dér díszíti a csupasz ágakat. Mivel a nap korán, 17:00 körül lebukik, használja ki az utolsó fényeket a sétára. A hideg délutánt a Saint-Nicolas templomban zárjuk, mielőtt egy meleg helyre vonulnánk.",
+            "ro": "O dimineață geroasă începe la biserica Saint-Béat. La prânz, explorați Templul lui David și domeniul castelului, unde chiciura decorează ramurile goale. Deoarece soarele apune devreme, în jur de ora 17:00, profitați de ultima lumină în parc. Încheiați după-amiaza rece la Église Saint-Nicolas, înainte de a vă retrage la căldură.",
+            "en": "A frosty morning begins at Saint-Béat Church. At noon, explore the Temple of David and the castle grounds, where hoarfrost decorates the bare branches. Since the sun sets early, around 5:00 PM, use the last daylight for the park. Finish your cold afternoon at Église Saint-Nicolas before retreating to a warm place."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Béat",
+                "hu": "Saint-Béat templom",
+                "ro": "Biserica Saint-Béat",
+                "en": "Saint-Béat Church"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, da die Steinmauern im Winter sehr kühl sind; die klare Winterluft lässt die Kirchenfassade besonders scharf wirken.",
+                "hu": "Öltözzön rétegesen, mert a kőfalak télen nagyon hidegek; a tiszta téli levegőben a templom homlokzata különösen élesnek és tisztának látszik.",
+                "ro": "Îmbrăcați-vă gros, deoarece zidurile de piatră sunt reci iarna; aerul clar de iarnă face ca fațada bisericii să pară extrem de clară.",
+                "en": "Dress warmly as the stone walls are very cold in winter; the clear winter air makes the church facade appear exceptionally sharp and clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Davidstempel",
+                "hu": "Dávid-templom",
+                "ro": "Templul lui David",
+                "en": "Temple of David"
+              },
+              "tip_5lang": {
+                "de": "Der Tempel steht einsam in der Winterlandschaft; ein idealer Ort für Fotos, wenn der Frost die geometrischen Formen weiß nachzeichnet.",
+                "hu": "A templom magányosan áll a téli tájban; ideális hely a fotózáshoz, amikor a zúzmara fehéren rajzolja ki a geometriai formáit.",
+                "ro": "Templul stă singuratic în peisajul de iarnă; un loc ideal pentru fotografii când gerul subliniază formele sale geometrice în alb.",
+                "en": "The temple stands solitary in the winter landscape; it's an ideal spot for photos when frost outlines its geometric shapes in white."
+              }
+            },
+            {
+              "name": {
+                "de": "Park des Château d'Épône",
+                "hu": "Château d'Épône parkja",
+                "ro": "Parcul Château d'Épône",
+                "en": "Park of the Château d'Épône"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick durch die laublosen Bäume; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf die Rasenflächen.",
+                "hu": "Élvezze a kilátást a lomb nélküli fákon keresztül; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a füves területekre.",
+                "ro": "Bucurați-vă de vederea deschisă prin copacii fără frunze; soarele jos de iarnă aruncă umbre lungi și dramatice pe peluzele înghețate.",
+                "en": "Enjoy the clear views through the leafless trees; the low winter sun casts long, dramatic shadows across the frosty lawn areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Épône",
+                "hu": "Château d'Épône",
+                "ro": "Château d'Épône",
+                "en": "Château d'Épône"
+              },
+              "tip_5lang": {
+                "de": "Die karge Winterlandschaft betont die Erhabenheit des Schlosses; machen Sie Ihren Besuch kurz, um der beißenden Kälte im Freien zu entgehen.",
+                "hu": "A kopár téli táj kiemeli a kastély méltóságát; tartsa röviden a látogatást, hogy elkerülje a kinti csípős hideget.",
+                "ro": "Peisajul auster de iarnă subliniază măreția castelului; scurtați vizita pentru a evita frigul tăios de afară.",
+                "en": "The stark winter landscape emphasizes the castle's grandeur; keep your visit brief to avoid the biting outdoor cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor Sonnenuntergang, wenn das warme Licht der Kerzen im Inneren einen gemütlichen Kontrast zur Kälte draußen bildet.",
+                "hu": "Látogasson el ide közvetlenül naplemente előtt, amikor a belső gyertyák meleg fénye barátságos kontrasztot alkot a kinti fagyos világgal.",
+                "ro": "Vizitați biserica chiar înainte de apus, când lumina caldă a lumânărilor din interior creează un contrast primitor cu gerul de afară.",
+                "en": "Visit the church just before sunset, when the warm candlelight inside creates a cozy contrast to the freezing world outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a Saint-Béat templomnál, mielőtt elhaladna a nagyszerű Château d'Épône és az ősi Dávid-templom mellett a friss reggeli levegőn. Délben a kulturálisan gazdag Saint-Nicolas templomhoz érkezik, amely csendes elmélkedést kínál, mielőtt tovább pedálozna a vidék felé. Délután az utazás a figyelemre méltó Allée couverte de la Justice-hez vezet, ahol az őskori történelem egybeolvad a természeti tájjal. Ahogy leszáll az est, az utazás L'Hérubé természeti szépségében csúcsosodik ki, lehetővé téve a teljes ellazulást.",
         "ro": "Începeți aventura cu bicicleta la Biserica Saint-Béat, înainte de a trece pe lângă marele Château d'Épône și vechiul Templu al lui David în aerul proaspăt al dimineții. La prânz, ajungeți la Église Saint-Nicolas, bogată cultural, oferind un moment de reflecție liniștită. După-amiaza, călătoria vă duce la remarcabila Allée couverte de la Justice, unde istoria preistorică se îmbină perfect cu peisajul natural. Odată cu lăsarea serii, plimbarea culminează la L'Hérubé, permițându-vă să vă relaxați în mijlocul frumuseții liniștite a naturii.",
         "en": "Start your cycling adventure at Saint-Béat Church before gliding past the grand Château d'Épône and the ancient Temple of David in the crisp morning air. Midday brings you to the culturally rich Église Saint-Nicolas, offering a moment of quiet reflection before you pedal further out into the surrounding countryside. In the afternoon, the journey takes you to the remarkable Allée couverte de la Justice, where prehistoric history seamlessly blends with the natural landscape. As evening falls, your ride culminates at L'Hérubé, allowing you to unwind amidst nature's tranquil beauty."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour erfordert Vorsicht. Starten Sie an der Saint-Béat-Kirche und fahren Sie vorsichtig zum Château d'Épône. Mittags erreichen Sie den Davidstempel. Die Wege zur Église Saint-Nicolas und zur Allée couverte können rutschig sein. Den Nachmittag verbringen Sie bei L'Hérubé, wo der Wald bei Regen einen besonderen Zauber entfaltet, bevor Sie die Tour beenden.",
+            "hu": "Az esős kerékpározás óvatosságot igényel. Kezdjen a Saint-Béat templomnál, majd tekerjen óvatosan a Château d'Épône-hoz. Délben a Dávid-templomot érinti. A Saint-Nicolas templomhoz és az Allée couverte-hez vezető utak csúszósak lehetnek. A délutánt a L'Hérubé-nél tölti, ahol az erdő esőben különleges varázst áraszt.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență. Începeți la biserica Saint-Béat, apoi pedalați cu grijă spre Château d'Épône. La prânz ajungeți la Templul lui David. Drumurile spre Église Saint-Nicolas și Allée couverte pot fi alunecoase. După-amiaza o petreceți la L'Hérubé, unde pădurea are un farmec aparte pe ploaie.",
+            "en": "A rainy bike tour requires caution. Start at Saint-Béat Church, then cycle carefully to Château d'Épône. At noon, reach the Temple of David. The paths to Église Saint-Nicolas and Allée couverte can be slippery. Spend the afternoon at L'Hérubé, where the forest develops a special magic in the rain, before finishing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Béat",
+                "hu": "Saint-Béat templom",
+                "ro": "Biserica Saint-Béat",
+                "en": "Saint-Béat Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenbesuch, um die Regenkleidung zu ordnen; parken Sie das Rad an einem geschützten Ort, um den Sattel trocken zu halten.",
+                "hu": "Használja ki a templomi látogatást az esőruházat igazítására; parkoljon védett helyen, hogy a nyereg száraz maradjon a folytatáshoz.",
+                "ro": "Folosiți vizita la biserică pentru a vă ajusta echipamentul de ploaie; parcați bicicleta într-un loc ferit pentru a păstra șaua uscată.",
+                "en": "Use the church visit to adjust your rain gear; park your bike in a sheltered spot to keep the saddle dry for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Épône",
+                "hu": "Château d'Épône",
+                "ro": "Château d'Épône",
+                "en": "Château d'Épône"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Nässe glatt sein; genießen Sie den Blick auf die Architektur, während Sie eine kurze Trinkpause im Trockenen machen.",
+                "hu": "A kastélyhoz vezető út nedvesen csúszós lehet; élvezze az építészeti látványt, miközben tart egy rövid frissítő szünetet a fedél alatt.",
+                "ro": "Drumul spre castel poate fi alunecos când este ud; bucurați-vă de arhitectură în timp ce faceți o scurtă pauză de hidratare la adăpost.",
+                "en": "The path to the castle can be slippery when wet; enjoy the architectural view while taking a short refreshment break under cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Davidstempel",
+                "hu": "Dávid-templom",
+                "ro": "Templul lui David",
+                "en": "Temple of David"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich kurz unter das Gebälk des Tempels; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf den nassen Straßen fortsetzen.",
+                "hu": "Húzódjon be rövid időre a templom tetőszerkezete alá; ellenőrizze a fékeket, mielőtt folytatná az utat a vizes aszfalton.",
+                "ro": "Adăpostiți-vă scurt timp sub structura templului; verificați frânele înainte de a continua drumul pe asfaltul ud.",
+                "en": "Take a brief shelter under the temple's structure; check your brakes before continuing the journey on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Trockenen; die Ruhe der Kirche hilft, sich auf die verbleibende Strecke bei Regen zu konzentrieren.",
+                "hu": "Ideális hely egy hosszabb pihenőre a szárazon; a templom csendje segít koncentrálni az esőben hátralévő útszakaszra.",
+                "ro": "Un loc ideal pentru o pauză mai lungă la uscat; liniștea bisericii vă ajută să vă concentrați pentru restul traseului prin ploaie.",
+                "en": "An ideal spot for a longer break in the dry; the church's silence helps you regain focus for the remaining wet stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée couverte de la Justice",
+                "hu": "Allée couverte de la Justice",
+                "ro": "Allée couverte de la Justice",
+                "en": "Allée couverte de la Justice"
+              },
+              "tip_5lang": {
+                "de": "Die Steine sind bei Regen sehr rutschig; bleiben Sie auf den befestigten Wegen und bewundern Sie das Megalithgrab aus sicherer Entfernung.",
+                "hu": "A kövek esőben nagyon csúszósak; maradjon a kijelölt ösvényeken, és biztonságos távolságból csodálja meg a megalit sírt.",
+                "ro": "Pietrele sunt foarte alunecoase pe ploaie; rămâneți pe potecile stabilite și admirați mormântul megalitic de la o distanță sigură.",
+                "en": "The stones are very slippery in the rain; stay on the designated paths and admire the megalithic tomb from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Hérubé",
+                "hu": "L'Hérubé",
+                "ro": "L'Hérubé",
+                "en": "L'Hérubé"
+              },
+              "tip_5lang": {
+                "de": "Das Blätterdach bietet etwas Schutz, aber die Waldwege können schlammig sein; ein Schutzblech am Rad ist bei diesem Wetter Gold wert.",
+                "hu": "A lombok nyújtanak némi védelmet, de az erdei utak sárosak lehetnek; a sárvédő a biciklin ilyenkor aranyat ér.",
+                "ro": "Coronamentul copacilor oferă protecție, dar potecile pot fi noroioase; o apărătoare la bicicletă este esențială pe o astfel de vreme.",
+                "en": "The canopy provides some shelter, but forest paths can be muddy; a mudguard on your bike is worth its weight in gold in this weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour erfordert warme Handschuhe. Starten Sie bei Saint-Béat und radeln Sie durch die frostige Luft zum Château d'Épône. Mittags erreichen Sie den Davidstempel. Achten Sie auf Glatteis auf dem Weg zur Allée couverte. Da es um 17:00 Uhr dunkel wird, planen Sie L'Hérubé für den frühen Nachmittag ein und beenden Sie die Tour rechtzeitig im hellen Épône.",
+            "hu": "A téli túrához meleg kesztyű szükséges. Kezdjen Saint-Béatnál, és tekerjen a fagyos levegőben a Château d'Épône-hoz. Délben a Dávid-templom következik. Ügyeljen a jeges foltokra az Allée couverte felé. Mivel 17:00-kor sötétedik, a L'Hérubé-t kora délutánra tervezze, és fejezze be a túrát még világosban.",
+            "ro": "O tură de iarnă necesită mănuși groase. Începeți la Saint-Béat și pedalați prin aerul înghețat spre Château d'Épône. La prânz ajungeți la Templul lui David. Atenție la gheață pe drumul spre Allée couverte. Apusul e la 17:00, deci vizitați L'Hérubé devreme și terminați tura pe lumină.",
+            "en": "A winter tour requires warm gloves. Start at Saint-Béat and cycle through the frosty air to Château d'Épône. At noon, reach the Temple of David. Watch out for icy patches on the way to Allée couverte. Since it gets dark at 5:00 PM, plan L'Hérubé for early afternoon and finish while it's still light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Béat",
+                "hu": "Saint-Béat templom",
+                "ro": "Biserica Saint-Béat",
+                "en": "Saint-Béat Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Vorraum; prüfen Sie den Reifendruck, da kalte Luft den Druck in den Schläuchen leicht senken kann.",
+                "hu": "Egy rövid megálló az előtérben a bemelegítéshez; ellenőrizze a keréknyomást, mert a hideg levegő csökkentheti a belsők feszességét.",
+                "ro": "O scurtă oprire pentru încălzire în pridvor; verificați presiunea pneurilor, deoarece aerul rece poate scădea presiunea din camere.",
+                "en": "A short stop to warm up in the vestibule; check your tire pressure, as cold air can slightly lower the pressure in the tubes."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Épône",
+                "hu": "Château d'Épône",
+                "ro": "Château d'Épône",
+                "en": "Château d'Épône"
+              },
+              "tip_5lang": {
+                "de": "Die offene Auffahrt ist oft windig und kalt; tragen Sie einen Gesichtsschutz, um sich beim Radfahren vor dem schneidenden Winterwind zu schützen.",
+                "hu": "A nyitott feljáró gyakran szeles és hideg; viseljen arcvédőt vagy sálat, hogy megvédje magát a metsző téli széltől tekerés közben.",
+                "ro": "Urcarea deschisă este adesea vântoasă și rece; purtați o mască sau un fular pentru a vă proteja de vântul tăios de iarnă în timp ce pedalați.",
+                "en": "The open approach is often windy and cold; wear a face covering to protect yourself from the biting winter wind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Davidstempel",
+                "hu": "Dávid-templom",
+                "ro": "Templul lui David",
+                "en": "Temple of David"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp reicht hier aus; die umliegenden Wege können bei Frost hart und holprig sein, fahren Sie daher vorausschauend.",
+                "hu": "Egy gyors fotómegálló itt elegendő; a környező utak fagyban kemények és egyenetlenek lehetnek, ezért tekerjen fokozott figyelemmel.",
+                "ro": "O scurtă oprire pentru poze este suficientă; potecile din jur pot fi dure și denivelate din cauza înghețului, deci pedalați cu atenție.",
+                "en": "A quick photo stop is enough here; the surrounding paths can be hard and bumpy in the frost, so cycle with extra foresight."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für heißen Tee aus Ihrer Thermoskanne; die ruhige Lage der Kirche bietet einen windgeschützten Platz für eine Pause.",
+                "hu": "Használja ki a megállót egy forró teára a termoszból; a templom nyugodt elhelyezkedése szélvédett helyet biztosít a pihenéshez.",
+                "ro": "Profitați de oprire pentru un ceai fierbinte din termos; locația liniștită a bisericii oferă un loc ferit de vânt pentru odihnă.",
+                "en": "Use this stop for some hot tea from your thermos; the church's quiet location provides a wind-sheltered spot for a necessary break."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée couverte de la Justice",
+                "hu": "Allée couverte de la Justice",
+                "ro": "Allée couverte de la Justice",
+                "en": "Allée couverte de la Justice"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorische Stätte wirkt im Winterlicht besonders archaisch; achten Sie auf den Wegrand, da gefrorenes Laub sehr rutschig sein kann.",
+                "hu": "A prehisztorikus helyszín a téli fényben különösen archaikusnak hat; ügyeljen az út szélére, mert a fagyott levelek csúszósak lehetnek.",
+                "ro": "Situl preistoric pare deosebit de arhaic în lumina iernii; atenție la marginea drumului, deoarece frunzele înghețate pot fi alunecoase.",
+                "en": "The prehistoric site looks particularly archaic in the winter light; watch the path edges, as frozen leaves can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Hérubé",
+                "hu": "L'Hérubé",
+                "ro": "L'Hérubé",
+                "en": "L'Hérubé"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das schwindende Licht im Wald; schalten Sie frühzeitig Ihre Fahrradbeleuchtung ein, um sicher zurück nach Épône zu gelangen.",
+                "hu": "Ügyeljen az erdőben gyorsan fogyó fényre; kapcsolja be időben a biciklilámpákat, hogy biztonságban érjen vissza Épône-ba.",
+                "ro": "Atenție la lumina care scade rapid în pădure; aprindeți din timp luminile bicicletei pentru a reveni în siguranță la Épône.",
+                "en": "Watch out for the rapidly fading light in the forest; turn on your bike lights early to ensure a safe return to Épône."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen először a rejtélyes Dávid-templomhoz és a fenséges Château d'Épône-hoz, elmerülve a mély történelmi hangulatban a kora reggeli fényben. Ahogy közeledik a dél, haladjon tovább a Saint-Nicolas templomhoz és az ősi Allée couverte de la Justice-hez, amely a középkori és az őskori örökség lenyűgöző találkozása. A délutáni autózás természetes fordulatot vesz L'Hérubé-nél, frissítő szünetet kínálva, majd látogatást tesz a békés Église de la Nativité-de-la-Vierge-nél. Fejezze be az estét a Saint-Blaise templomnál, ahol a csendes alkonyat tökéletes lezárást nyújt.",
         "ro": "Conduceți mai întâi la Templul lui David și la impunătorul Château d'Épône, bucurându-vă de atmosfera istorică profundă în lumina dimineții. Pe măsură ce se apropie prânzul, îndreptați-vă spre Église Saint-Nicolas și vechea Allée couverte de la Justice, o juxtapunere fascinantă de patrimoniu medieval și preistoric. Călătoria de după-amiază ia o întorsătură naturală la L'Hérubé, urmată de o vizită la senina Église de la Nativité-de-la-Vierge. Încheiați seara la Église Saint-Blaise, unde amurgul liniștit se potrivește perfect cu farmecul sanctuarului.",
         "en": "Drive first to the enigmatic Temple of David and the stately Château d'Épône, soaking in the profound historical atmosphere that defines the town's morning light. As midday approaches, navigate smoothly to Église Saint-Nicolas and the ancient Allée couverte de la Justice, a fascinating juxtaposition of medieval and prehistoric heritage. The afternoon drive takes a natural turn at L'Hérubé, offering a refreshing break in the lush scenery, followed by a visit to the serene Église de la Nativité-de-la-Vierge. End your evening at Église Saint-Blaise, where the quiet twilight perfectly matches the sanctuary's enduring and peaceful charm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Tour bequem vom Auto aus. Starten Sie beim Davidstempel und fahren Sie zum Château d'Épône. Mittags besuchen Sie die Église Saint-Nicolas. Die Allée couverte und L'Hérubé bieten auch bei Regen beeindruckende Fotomotive aus der Nähe des Parkplatzes. Den Nachmittag und Abend verbringen Sie bei den Kirchen in der Umgebung, während draußen der Regen fällt.",
+            "hu": "Élvezze a túrát kényelmesen az autóból. Kezdjen a Dávid-templomnál, majd hajtson a Château d'Épône-hoz. Délben látogasson el a Saint-Nicolas templomhoz. Az Allée couverte és L'Hérubé esőben is lenyűgöző látványt nyújt a parkoló közeléből. A délutánt és az estét a környékbeli templomoknál tölti, miközben kint dobol az eső.",
+            "ro": "Bucurați-vă de tură din confortul mașinii. Începeți la Templul lui David și mergeți spre Château d'Épône. La prânz vizitați Église Saint-Nicolas. Allée couverte și L'Hérubé oferă cadre foto impresionante chiar și pe ploaie, fiind aproape de parcare. Petreceți după-amiaza vizitând bisericile din zonă în timp ce plouă.",
+            "en": "Enjoy the tour comfortably from your car. Start at the Temple of David and drive to Château d'Épône. At noon, visit Église Saint-Nicolas. Allée couverte and L'Hérubé offer impressive photo opportunities even in the rain, close to the parking. Spend the afternoon and evening at nearby churches while the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Davidstempel",
+                "hu": "Dávid-templom",
+                "ro": "Templul lui David",
+                "en": "Temple of David"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Denkmal, um nur kurz durch den Regen gehen zu müssen; der Tempel wirkt bei grauem Himmel besonders geheimnisvoll.",
+                "hu": "Parkoljon közel az emlékműhöz, hogy csak rövid ideig kelljen az esőben gyalogolnia; a templom szürke égbolt alatt különösen titokzatos.",
+                "ro": "Parcați aproape de monument pentru a merge cât mai puțin prin ploaie; templul pare deosebit de misterios sub cerul gri.",
+                "en": "Park close to the monument to minimize walking in the rain; the temple looks particularly mysterious under a gray, heavy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Épône",
+                "hu": "Château d'Épône",
+                "ro": "Château d'Épône",
+                "en": "Château d'Épône"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Scheibenwischer für einen klaren Blick auf das Schloss beim Vorbeifahren; die Zufahrt ist gut befestigt und auch bei Starkregen sicher.",
+                "hu": "Használja az ablaktörlőt a tiszta kilátáshoz elhaladás közben; a feljáró jól karbantartott és erős esőben is biztonságosan járható autóval.",
+                "ro": "Folosiți ștergătoarele pentru o vedere clară a castelului la trecere; drumul este bine întreținut și sigur chiar și pe ploaie torențială.",
+                "en": "Use your wipers for a clear view of the castle as you pass; the access road is well-paved and safe even during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Beine im Trockenen zu vertreten; die dicken Mauern dämpfen das Geräusch des Regens und schaffen eine friedliche Atmosphäre.",
+                "hu": "Ideális megálló a lábak átmozgatására a szárazon; a vastag falak elnyelik az eső zaját, békés és nyugodt hangulatot teremtve odabent.",
+                "ro": "O oprire ideală pentru a vă dezmorți picioarele la uscat; zidurile groase atenuează zgomotul ploii, creând o atmosferă pașnică în interior.",
+                "en": "An ideal stop to stretch your legs in the dry; the thick walls muffle the sound of the rain, creating a peaceful and quiet atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée couverte de la Justice",
+                "hu": "Allée couverte de la Justice",
+                "ro": "Allée couverte de la Justice",
+                "en": "Allée couverte de la Justice"
+              },
+              "tip_5lang": {
+                "de": "Der Fußweg vom Parkplatz ist kurz, aber bei Regen matschig; festes Schuhwerk ist ratsam, auch wenn Sie nur einen kurzen Blick darauf werfen.",
+                "hu": "A parkolótól vezető gyalogút rövid, de esőben sáros; ajánlott a zárt cipő, még ha csak egy gyors pillantást is vet a helyszínre.",
+                "ro": "Drumul de la parcare este scurt, dar noroios pe ploaie; se recomandă încălțăminte solidă, chiar dacă faceți doar o scurtă vizită.",
+                "en": "The walk from the parking area is short but muddy in the rain; sturdy shoes are advised, even if you only take a quick look."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Hérubé",
+                "hu": "L'Hérubé",
+                "ro": "L'Hérubé",
+                "en": "L'Hérubé"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Waldatmosphäre durch das Autofenster; der Regen wäscht den Staub von den Blättern und lässt den Wald frisch und lebendig wirken.",
+                "hu": "Élvezze az erdei hangulatot az autó ablakából; az eső lemossa a port a levelekről, és az erdőt frissé, élettel telivé varázsolja.",
+                "ro": "Bucurați-vă de atmosfera pădurii de la fereastra mașinii; ploaia spală praful de pe frunze, făcând pădurea să pară proaspătă și vie.",
+                "en": "Enjoy the forest atmosphere from your car window; the rain washes the dust off the leaves, making the woods look fresh and alive."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-la-Vierge",
+                "hu": "Église de la Nativité-de-la-Vierge",
+                "ro": "Église de la Nativité-de-la-Vierge",
+                "en": "Église de la Nativité-de-la-Vierge"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Kirche für einen schnellen Zugang; das Innere bietet einen ruhigen Rückzugsort vor dem nassen Wetter.",
+                "hu": "Használja a közvetlenül a templom előtt található parkolót a gyors bejutáshoz; a belső tér csendes menedéket nyújt a nedves idő elől.",
+                "ro": "Folosiți parcarea direct din fața bisericii pentru acces rapid; interiorul oferă un refugiu liniștit împotriva vremii umede.",
+                "en": "Use the parking area directly in front of the church for quick access; the interior provides a quiet retreat from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Saint-Blaise templom",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier, während das Auto draußen im Regen parkt; die Architektur ist ein schöner Abschluss für diese wettergeschützte Tour.",
+                "hu": "Zárja itt a napot, miközben az autó kint parkol az esőben; az építészet méltó befejezése ennek az időjárástól védett autós túrának.",
+                "ro": "Încheiați ziua aici în timp ce mașina e parcată afară în ploaie; arhitectura este un final frumos pentru acest tur protejat de vreme.",
+                "en": "End your day here while the car is safely parked in the rain; the architecture is a fine conclusion to this weather-protected car tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto ist besonders gemütlich. Starten Sie beim Davidstempel und fahren Sie durch die kahle Landschaft zum Schloss. Mittags wärmen Sie sich in der Église Saint-Nicolas auf. Da die Sonne gegen 17:00 Uhr untergeht, besuchen Sie L'Hérubé im letzten Tageslicht. Beenden Sie die Tour an den festlich beleuchteten Kirchen der Region, bevor es ganz dunkel wird.",
+            "hu": "A téli autós túra különösen kényelmes. Kezdjen a Dávid-templomnál, és autózzon a kopár tájon át a kastélyhoz. Délben melegedjen fel a Saint-Nicolas templomban. Mivel a nap 17:00 körül nyugszik, az utolsó fényeknél látogasson el L'Hérubé-hez. Zárja a napot a környék díszesen kivilágított templomainál.",
+            "ro": "O zi de iarnă în mașină este foarte confortabilă. Începeți la Templul lui David și mergeți prin peisajul golaș spre castel. La prânz încălziți-vă în Église Saint-Nicolas. Soarele apune la 17:00, deci vizitați L'Hérubé pe ultima lumină. Încheiați tura la bisericile iluminate festiv din regiune.",
+            "en": "A winter day in the car is especially cozy. Start at the Temple of David and drive through the stark landscape to the castle. At noon, warm up in Église Saint-Nicolas. Since the sun sets around 5:00 PM, visit L'Hérubé in the last daylight. Finish your tour at the beautifully lit churches before it gets completely dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Davidstempel",
+                "hu": "Dávid-templom",
+                "ro": "Templul lui David",
+                "en": "Temple of David"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick bei eingeschalteter Heizung; die klare Wintersonne lässt den Stein des Tempels in einem kühlen Weiß erstrahlen.",
+                "hu": "Élvezze a kilátást bekapcsolt fűtés mellett; a tiszta téli napsütésben a templom kövei hűvös fehér fénnyel ragyognak.",
+                "ro": "Bucurați-vă de priveliște cu căldura pornită; soarele clar de iarnă face ca piatra templului să strălucească într-un alb rece.",
+                "en": "Enjoy the view with the car's heater on; the clear winter sun makes the temple's stone shine with a cool, crisp white light."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Épône",
+                "hu": "Château d'Épône",
+                "ro": "Château d'Épône",
+                "en": "Château d'Épône"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Straßenglätte bei der Auffahrt; das Schloss wirkt in der frostigen Umgebung besonders herrschaftlich und imposant.",
+                "hu": "Ügyeljen az esetleges jegesedésre a feljárónál; a kastély a fagyos környezetben különösen méltóságteljesnek és lenyűgözőnek hat.",
+                "ro": "Atenție la posibila polei pe drumul de acces; castelul pare deosebit de impunător și maiestuos în cadrul înghețat al iernii.",
+                "en": "Watch out for potential icy patches on the access road; the castle looks particularly regal and imposing in the frosty environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Besinnung im Stehen, bevor Sie ins warme Auto zurückkehren; die Akustik ist im Winter oft klarer.",
+                "hu": "Nyugodt hely egy rövid elmélyülésre, mielőtt visszatérne a meleg autóba; a belső tér akusztikája télen gyakran tisztábbnak érződik.",
+                "ro": "Un loc liniștit pentru o scurtă meditație înainte de a reveni în mașina caldă; acustica interioară pare adesea mai clară pe timpul iernii.",
+                "en": "A quiet place for a brief reflection before returning to the warm car; the interior acoustics often feel clearer during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Allée couverte de la Justice",
+                "hu": "Allée couverte de la Justice",
+                "ro": "Allée couverte de la Justice",
+                "en": "Allée couverte de la Justice"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist im Winter gut einsehbar; bleiben Sie im Auto, wenn der Wind zu stark ist, und bewundern Sie die prähistorische Stätte von weitem.",
+                "hu": "A terület télen jól belátható; maradjon az autóban, ha a szél túl erős, és csodálja meg a prehisztorikus helyszínt távolról.",
+                "ro": "Terenul este foarte vizibil iarna; rămâneți în mașină dacă vântul este prea puternic și admirați situl preistoric de la distanță.",
+                "en": "The site is very visible in winter; stay in the car if the wind is too strong and admire the prehistoric monument from a distance."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Hérubé",
+                "hu": "L'Hérubé",
+                "ro": "L'Hérubé",
+                "en": "L'Hérubé"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne im Winter zaubert magische Lichteffekte durch die kahlen Äste; eine kurze Fahrt am Waldrand entlang lohnt sich sehr.",
+                "hu": "Az alacsonyan járó téli nap varázslatos fényhatásokat hoz létre a csupasz ágak között; egy rövid kocsikázás az erdőszélen nagyon megéri.",
+                "ro": "Soarele jos de iarnă creează efecte magice de lumină printre ramurile goale; o scurtă plimbare cu mașina pe la marginea pădurii merită din plin.",
+                "en": "The low winter sun creates magical light effects through the bare branches; a short drive along the forest edge is highly rewarding."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-la-Vierge",
+                "hu": "Église de la Nativité-de-la-Vierge",
+                "ro": "Église de la Nativité-de-la-Vierge",
+                "en": "Église de la Nativité-de-la-Vierge"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte gut ab; genießen Sie die winterliche Stille in diesem historischen sakralen Bauwerk.",
+                "hu": "A vastag kőfalak jól távol tartják a kinti fagyot; élvezze a téli csendet ebben a történelmi szakrális épületben.",
+                "ro": "Zidurile groase de piatră țin bine gerul la distanță; bucurați-vă de liniștea iernii în acest edificiu sacru istoric.",
+                "en": "The thick stone walls effectively keep the winter frost at bay; enjoy the seasonal silence within this historic sacred building."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Saint-Blaise templom",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Wenn es dunkel wird, sorgt die Außenbeleuchtung der Kirche für eine besinnliche Atmosphäre; ein würdiger Abschluss Ihrer winterlichen Entdeckungstour.",
+                "hu": "Ahogy sötétedik, a templom külső kivilágítása meghitt hangulatot áraszt; méltó befejezése a téli felfedezőútnak.",
+                "ro": "Pe măsură ce se întunecă, iluminarea exterioară a bisericii creează o atmosferă solemnă; un final pe măsură pentru turul de iarnă.",
+                "en": "As it gets dark, the church's exterior lighting creates a solemn atmosphere; a fitting conclusion to your winter discovery tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

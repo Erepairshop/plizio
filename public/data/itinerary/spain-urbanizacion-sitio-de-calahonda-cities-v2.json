@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi Torre de Calahonda frissítő meglátogatásával kezdődik, ahonnan tiszta kilátás nyílik a Földközi-tengerre.\n\nA delet a festői fapallókon sétálva és a Playa de Calahondán pihenve tölthetjük.\n\nA délután folyamán az út nyugat felé vezet a Torre Ladroneshez, a tenger egy másik őrszeméhez.\n\nAz este a védett Dunas de Artola felfedezésével és a dűnék feletti aranyló naplementével zárul.",
         "ro": "Dimineața începe cu o vizită reconfortantă la istoricul Torre de Calahonda, oferind priveliști clare asupra Mării Mediterane.\n\nLa prânz, vă plimbați pe pasarelele pitorești de lemn, relaxându-vă pe plaja din Calahonda.\n\nPe măsură ce se desfășoară după-amiaza, călătoria duce spre vest către Torre Ladrones, o altă sentinelă a mării.\n\nSeara sosește în timp ce explorați Dunas de Artola, finalizând cu un apus auriu pe dune.",
         "en": "Morning begins with a refreshing visit to the historic Torre de Calahonda, offering clear views over the Mediterranean.\n\nMidday is spent walking the picturesque boardwalks, relaxing at Playa de Calahonda and its adjoining royal coves.\n\nAs the afternoon unfolds, the journey leads westward to Torre Ladrones, another sentinel of the sea.\n\nEvening arrives as you explore the protected Dunas de Artola, finishing with a golden sunset over the dunes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens thronen die Küstentürme im dichten Nebel über der peitschenden Gischt. Mittags führt der Weg entlang der stürmischen Brandung, wobei der Regen die Farben der Felsen intensiviert. Nachmittags wirken die Dunas de Artola unter dem grauen Himmel besonders dramatisch. Abends spiegeln sich die Lichter der Urbanisation auf dem nassen Asphalt der Promenade wider.",
+            "hu": "Reggel a ködbe vesző tengerparti tornyok látványa fogad a morajló hullámok felett. Délben a szél ostromolta partvonalon haladunk, ahol az eső mélyebb tónust ad a szikláknak. Délután az Artola-dűnék vadregényes arcukat mutatják a szürke égbolt alatt. Este a nedves járdákon megcsillanó fények kísérnek minket vissza a szállásunkra.",
+            "ro": "Dimineața, turnurile de coastă apar misterioase prin ceața densă și valurile agitate. La prânz, plimbarea pe malul mării oferă un spectacol dramatic, ploaia intensificând culorile naturale. După-amiaza, dunele Artola par pustii și sălbatice sub cerul plumburiu. Seara, luminile așezării se oglindesc spectaculos pe trotuarele ude de pe faleză.",
+            "en": "In the morning, the coastal towers stand tall amidst the mist and crashing waves. At noon, the wind-swept shoreline offers a moody atmosphere as the rain deepens the colors of the coast. In the afternoon, the Artola dunes look particularly dramatic under the grey skies. In the evening, the lights of the town reflect beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Calahonda",
+                "hu": "Torre de Calahonda",
+                "ro": "Torre de Calahonda",
+                "en": "Torre de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die dunkle Silhouette des Turms gegen den grauen Himmel, da er bei Regen besonders wehrhaft wirkt. Ein stabiler Schirm ist wegen des Küstenwindes ratsam.",
+                "hu": "Nézze meg a torony sötét sziluettjét a szürke égbolt előtt, mert esőben sokkal misztikusabb a hangulata. A tengeri szél miatt érdemesebb viharkabátot hordani esernyő helyett.",
+                "ro": "Admirați silueta întunecată a turnului pe fundalul cerului gri, care îi conferă un aspect mult mai impunător. Folosiți o pelerină de ploaie rezistentă la vântul de pe coastă.",
+                "en": "View the dark silhouette of the tower against the grey sky, as it looks much more imposing in the rain. A sturdy raincoat is better than an umbrella due to the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - Calahonda",
+                "hu": "Playa de Calahonda - Calahonda",
+                "ro": "Playa de Calahonda - Calahonda",
+                "en": "Playa de Calahonda - Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das aufgewühlte Meer von einem der überdachten Strandpavillons aus, um trocken zu bleiben. Tragen Sie wasserfeste Wanderschuhe für den sandigen Uferweg.",
+                "hu": "Figyelje meg a felkorbácsolt tengert az egyik fedett parti pavilon alól, hogy száraz maradjon. Viseljen vízálló túracipőt, mert a homokos ösvény ilyenkor sáros lehet.",
+                "ro": "Observați marea agitată de la adăpostul unei terase acoperite pentru a rămâne uscat. Purtați încălțăminte impermeabilă, deoarece poteca de nisip devine noroioasă la ploaie.",
+                "en": "Observe the churning sea from the shelter of a covered beach pavilion to stay dry. Wear waterproof hiking shoes as the sandy path can become muddy during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - La Luna / Royal Beach",
+                "hu": "Playa de Calahonda - La Luna / Royal Beach",
+                "ro": "Playa de Calahonda - La Luna / Royal Beach",
+                "en": "Playa de Calahonda - La Luna / Royal Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die einsame Atmosphäre des Strandes, der im Regen fast menschenleer und friedlich ist. Nutzen Sie die nahen Cafés als Unterschlupf bei starken Schauern.",
+                "hu": "Élvezze a tengerpart magányos hangulatát, amely esőben szinte teljesen néptelen és békés. Erősebb zápor esetén keressen menedéket a közeli kávézók egyikében.",
+                "ro": "Bucurați-vă de atmosfera solitară a plajei, care devine incredibil de liniștită sub ploaie. Folosiți cafenelele din apropiere ca adăpost în cazul unor averse puternice.",
+                "en": "Enjoy the solitary atmosphere of the beach, which becomes incredibly peaceful under the rain. Use nearby cafes as a temporary shelter if the downpour intensifies."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda",
+                "hu": "Playa de Calahonda",
+                "ro": "Playa de Calahonda",
+                "en": "Playa de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach interessanten Muscheln, die durch den Regen freigespült werden, während die Wellen höher schlagen. Achten Sie auf rutschige Holzstege entlang der Küste.",
+                "hu": "Keressen különleges kagylókat, amiket az eső és a hullámok mosnak ki a partra a nagyobb vízben. Vigyázzon a parti fapallókra, mert vizesen rendkívül csúszósak lehetnek.",
+                "ro": "Căutați scoici deosebite scoase la mal de valurile mari și spălate de ploaie. Aveți grijă pe pasarelele de lemn, deoarece devin foarte alunecoase când sunt ude.",
+                "en": "Look for unique seashells washed ashore by the high waves and cleaned by the rain. Be careful on the wooden boardwalks, as they become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ladrones",
+                "hu": "Torre Ladrones",
+                "ro": "Torre Ladrones",
+                "en": "Torre Ladrones"
+              },
+              "tip_5lang": {
+                "de": "Der historische Turm wirkt im Regen wie aus einem alten Film entsprungen und bietet tolle Fotomotive. Halten Sie Ihre Kamera unter einem wasserdichten Schutzgehäuse.",
+                "hu": "A történelmi torony esőben úgy fest, mintha egy régi filmből lépett volna elő, remek fotótéma. Használjon esővédőt a fényképezőgépéhez a párás időben.",
+                "ro": "Turnul istoric arată ca dintr-un film vechi sub ploaie, oferind oportunități foto dramatice. Protejați aparatul foto cu o husă impermeabilă împotriva umezelii.",
+                "en": "The historic tower looks like something out of an old movie in the rain, offering dramatic photo ops. Protect your camera with a waterproof cover against the humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Natural de las Dunas de Artola und Cabopino",
+                "hu": "Monumento Natural de las Dunas de Artola és Cabopino",
+                "ro": "Monumento Natural de las Dunas de Artola și Cabopino",
+                "en": "Monumento Natural de las Dunas de Artola and Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie über die festen Holzpfade durch die Dünen, um die seltene Vegetation im Regen zu bewundern. Bleiben Sie auf den Wegen, um den empfindlichen Sand zu schützen.",
+                "hu": "Sétáljon végig a dűnék közötti fapallókon, és csodálja meg a ritka növényzetet az esőben. Maradjon az ösvényen, hogy ne hordja szét a vizes homokot a védett részen.",
+                "ro": "Plimbați-vă pe pasarelele de lemn printre dune pentru a admira vegetația rară sub ploaie. Rămâneți pe traseele marcate pentru a proteja nisipul umed și ecosistemul.",
+                "en": "Walk along the wooden boardwalks through the dunes to admire the rare vegetation in the rain. Stay on the paths to protect the wet sand and the fragile ecosystem."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise, während die milde Wintersonne die Küste in sanftes Licht taucht. Mittags laden die menschenleeren Strände zu ausgedehnten Spaziergängen in klarer Luft ein. Nachmittags beginnt die goldene Stunde bereits gegen 16:00 Uhr und färbt die Dünen warm ein. Da die Sonne um 17:00 Uhr untergeht, endet der Tag früh mit einem kühlen Wind.",
+            "hu": "Reggel friss tengeri szellő fúj, miközben az enyhe téli napfény lágyan világítja meg a partot. Délben a néptelen strandok hosszú sétákra hívnak a tiszta, páramentes levegőben. Délután az aranyóra már 16:00-kor elkezdődik, meleg színekbe öltöztetve a dűnéket. Mivel 17:00-kor lemegy a nap, a nap korán, hűvös széllel ér véget.",
+            "ro": "Dimineața aduce o briză proaspătă, în timp ce soarele blând de iarnă luminează coasta cu o lumină caldă. La prânz, plajele pustii sunt perfecte pentru plimbări lungi în aerul curat. După-amiaza, ora aurie începe devreme, în jurul orei 16:00, colorând dunele în nuanțe calde. Soarele apune la 17:00, încheind ziua devreme cu un vânt răcoros.",
+            "en": "The morning brings a fresh sea breeze while the mild winter sun softly illuminates the coast. At noon, the deserted beaches invite long walks in the crisp, clear air. In the afternoon, the golden hour starts early, around 4:00 PM, painting the dunes in warm hues. Since the sun sets at 5:00 PM, the day ends early with a cool wind blowing in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Calahonda",
+                "hu": "Torre de Calahonda",
+                "ro": "Torre de Calahonda",
+                "en": "Torre de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht bis zur Küste Afrikas, die im Winter oft besonders scharf zu sehen ist. Tragen Sie mehrere Schichten Kleidung gegen den Wind.",
+                "hu": "Élvezze a tiszta kilátást akár Afrika partjaiig, ami télen a páramentes levegő miatt gyakran lehetséges. Öltözzön rétegesen a hűvös tengeri szél miatt.",
+                "ro": "Bucurați-vă de vizibilitatea clară până la coasta Africii, adesea posibilă iarna datorită aerului curat. Purtați haine în straturi împotriva vântului rece.",
+                "en": "Enjoy the clear views as far as the African coast, which is often visible in winter due to the lack of haze. Dress in layers to stay warm against the sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - Calahonda",
+                "hu": "Playa de Calahonda - Calahonda",
+                "ro": "Playa de Calahonda - Calahonda",
+                "en": "Playa de Calahonda - Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für ein Picknick am Strand, wenn die Temperaturen am angenehmsten sind. Ein warmes Getränk in der Thermoskanne ist ein toller Begleiter.",
+                "hu": "Használja ki a déli napsütést egy tengerparti piknikhez, ilyenkor a legkellemesebb az idő. Egy termosz meleg tea sokat javít a komfortérzeten a parton.",
+                "ro": "Profitați de soarele de la prânz pentru un picnic pe plajă, când temperaturile sunt cele mai plăcute. Un termos cu băutură caldă este un accesoriu excelent.",
+                "en": "Take advantage of the midday sun for a beach picnic when temperatures are most pleasant. A thermos with a warm drink will make your stay much more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - La Luna / Royal Beach",
+                "hu": "Playa de Calahonda - La Luna / Royal Beach",
+                "ro": "Playa de Calahonda - La Luna / Royal Beach",
+                "en": "Playa de Calahonda - La Luna / Royal Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen windgeschützten Platz zwischen den Felsen, um die milde Wintersonne intensiv zu genießen. Sonnencreme ist trotz Kälte wegen der Reflexion wichtig.",
+                "hu": "Keressen egy szélvédett helyet a sziklák között, hogy élvezhesse az enyhe téli napsütést. A naptej ilyenkor is fontos a vízről visszaverődő erős sugarak miatt.",
+                "ro": "Căutați un loc ferit de vânt între stânci pentru a vă bucura de soarele blând de iarnă. Crema solară este importantă chiar și iarna datorită reflexiei apei.",
+                "en": "Find a wind-sheltered spot among the rocks to enjoy the mild winter sun. Sunscreen is still important due to the strong reflection from the water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda",
+                "hu": "Playa de Calahonda",
+                "ro": "Playa de Calahonda",
+                "en": "Playa de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang am Wasser, um den Kreislauf in der kühlen Winterluft in Schwung zu bringen. Eine Mütze schützt Ihre Ohren vor dem Seewind.",
+                "hu": "Tegyen egy tempós sétát közvetlenül a vízparton, hogy felélénkítse a keringését a hűvös levegőben. Egy vékony sapka jól jöhet a folyamatos tengeri szélben.",
+                "ro": "Faceți o plimbare vioaie pe malul apei pentru a vă activa circulația în aerul răcoros. O căciulă subțire vă va proteja urechile de vântul constant de pe mare.",
+                "en": "Take a brisk walk right by the water's edge to boost your circulation in the cool air. A light beanie will protect your ears from the constant sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ladrones",
+                "hu": "Torre Ladrones",
+                "ro": "Torre Ladrones",
+                "en": "Torre Ladrones"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das flache Licht der Wintersonne die Textur der alten Steine hervorhebt. Besuchen Sie den Ort vor 16:30 Uhr, um das beste Licht zu nutzen.",
+                "hu": "Figyelje meg, ahogy a téli nap alacsony szögből jövő fénye kiemeli a régi kövek textúráját. Érkezzen 16:30 előtt, hogy még elkapja az utolsó napsugarakat.",
+                "ro": "Observați cum lumina joasă a soarelui de iarnă scoate în evidență textura pietrelor vechi. Vizitați locul înainte de 16:30 pentru a profita de cea mai bună lumină.",
+                "en": "Observe how the low winter sun highlights the texture of the ancient stones. Arrive before 4:30 PM to catch the best light before the sun starts to set."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Natural de las Dunas de Artola und Cabopino",
+                "hu": "Monumento Natural de las Dunas de Artola és Cabopino",
+                "ro": "Monumento Natural de las Dunas de Artola și Cabopino",
+                "en": "Monumento Natural de las Dunas de Artola and Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Sonnenuntergang über den Dünen gegen 17:00 Uhr für unvergessliche Eindrücke. Nehmen Sie eine warme Jacke für die Zeit nach Sonnenuntergang mit.",
+                "hu": "Élje át a látványos naplementét a dűnék felett 17:00 körül, ami felejthetetlen élményt nyújt. Vigyen magával meleg kabátot, mert naplemente után gyorsan lehűl az idő.",
+                "ro": "Trăiți apusul spectaculos peste dune în jurul orei 17:00 pentru o experiență de neuitat. Luați o jachetă groasă, deoarece temperatura scade rapid după apus.",
+                "en": "Experience the spectacular sunset over the dunes around 5:00 PM for an unforgettable view. Bring a warm jacket, as the temperature drops quickly after dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Indítsa a reggelt a Rocas del Mar sziklás keleti partjaitól a nyüzsgő Riviera szakasz felé tekerve.\n\nDélben kényelmesen elhalad a Torre de Calahonda mellett, és élvezheti a tengerparti hangulatot.\n\nDélután a tengerparti ösvény elhozza Önt Cabopino széles homokos partjaira.\n\nKerékpáros utazása az este folyamán az Artola dűnék lenyűgöző természeti szépségei között zárul le elegánsan.",
         "ro": "Începeți dimineața pedalând de la țărmurile stâncoase estice din Rocas del Mar către zona vibrantă Riviera.\n\nLa prânz, pedalați lin pe lângă Torre de Calahonda, admirând atmosfera de pe plajă.\n\nDupă-amiaza, drumul blând de coastă vă aduce pe nisipurile întinse din Cabopino.\n\nCălătoria cu bicicleta se încheie grațios seara, în mijlocul frumuseții naturale uimitoare a dunelor Artola.",
         "en": "Kickstart your morning pedaling from the rocky eastern shores of Rocas del Mar towards the vibrant Riviera stretch.\n\nBy midday, cycle smoothly past Torre de Calahonda, taking in the lively beach atmosphere of La Luna.\n\nIn the afternoon, the gentle coastal path brings you to the sweeping sands of Cabopino.\n\nYour cycling journey gracefully concludes in the evening amidst the stunning natural beauty of the Artola dunes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens startet die Fahrt auf feuchten Küstenwegen, während der Regen die Meeresluft erfrischt. Mittags erfordert die Tour erhöhte Vorsicht auf den rutschigen Abschnitten nahe der Marina. Nachmittags bieten die überdachten Bereiche der Promenade kurze Pausen vom Dauerregen. Abends glänzen die Pfade im Scheinwerferlicht der Fahrräder und erzeugen eine ruhige Stimmung.",
+            "hu": "Reggel nedves tengerparti utakon indul a tekerés, miközben az eső felfrissíti a sós levegőt. Délben fokozott óvatosságot igényelnek a csúszós szakaszok a kikötő közelében. Délután a sétány fedett részei kínálnak rövid pihenőt a folyamatos eső elől. Este az utak csillognak a kerékpárok lámpafényében, különlegesen nyugodt hangulatot árasztva.",
+            "ro": "Dimineața începe cu o tură pe potecile umede de coastă, în timp ce ploaia împrospătează aerul sărat. La prânz, porțiunile alunecoase de lângă marină necesită prudență sporită. După-amiaza, zonele acoperite ale falezei oferă scurte pauze de la ploaia continuă. Seara, drumurile strălucesc sub farurile bicicletelor, creând o atmosferă liniștită.",
+            "en": "The morning ride starts on damp coastal paths as the rain refreshes the salty sea air. At noon, the slippery sections near the marina require extra caution and slower speeds. In the afternoon, covered areas along the promenade provide brief respite from the steady rain. In the evening, the paths glisten under bike lights, creating a uniquely calm mood."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Calahonda - Rocas del Mar",
+                "hu": "Playa de Calahonda - Rocas del Mar",
+                "ro": "Playa de Calahonda - Rocas del Mar",
+                "en": "Playa de Calahonda - Rocas del Mar"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf spritzendes Salzwasser auf den Wegen und tragen Sie eine wasserfeste Radhose. Prüfen Sie Ihre Bremsen vor der Abfahrt auf den nassen Straßen.",
+                "hu": "Vigyázzon a felcsapódó sós vízre az utakon, és viseljen vízálló nadrágot a tekeréshez. Indulás előtt ellenőrizze a fékeket, mert vizes úton hosszabb a féktáv.",
+                "ro": "Aveți grijă la apa sărată care sare de pe drum și purtați pantaloni impermeabili de ciclism. Verificați frânele înainte de plecare pe drumurile ude.",
+                "en": "Watch out for salt spray on the paths and wear waterproof cycling trousers for the ride. Check your brakes before setting off, as stopping distances increase on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - Riviera",
+                "hu": "Playa de Calahonda - Riviera",
+                "ro": "Playa de Calahonda - Riviera",
+                "en": "Playa de Calahonda - Riviera"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über Pfützen, da diese tiefe Löcher im Sandweg verbergen können. Nutzen Sie Schutzbleche an Ihrem Fahrrad, um trocken zu bleiben.",
+                "hu": "Hajtson óvatosan a tócsákba, mert mély gödröket rejthetnek a homokos úton. Használjon sárvédőt a kerékpáron, hogy megvédje ruházatát a felverődő sártól.",
+                "ro": "Conduceți cu atenție prin bălți, deoarece pot ascunde gropi adânci în drumul de nisip. Folosiți aripi la bicicletă pentru a vă proteja hainele de noroi.",
+                "en": "Ride carefully through puddles as they can hide deep holes in the sandy path. Use mudguards on your bike to keep your clothes clean from the splashing mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Calahonda",
+                "hu": "Torre de Calahonda",
+                "ro": "Torre de Calahonda",
+                "en": "Torre de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem festen Untergrund ab, um ein Einsinken im nassen Sand zu vermeiden. Ein kurzer Stopp bietet Zeit, die Regenjacke zu richten.",
+                "hu": "Szilárd talajon támassza le a kerékpárt, hogy ne süllyedjen el a vizes homokban a toronynál. Egy rövid megálló ideális az esőruha igazítására.",
+                "ro": "Parcați bicicleta pe o suprafață solidă pentru a evita scufundarea în nisipul ud lângă turn. O scurtă oprire este ideală pentru a vă ajusta echipamentul de ploaie.",
+                "en": "Park your bike on solid ground to prevent it from sinking into the wet sand near the tower. A short stop is perfect for adjusting your rain gear if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "La Luna-Royale Beach",
+                "hu": "La Luna-Royale Beach",
+                "ro": "La Luna-Royale Beach",
+                "en": "La Luna-Royale Beach"
+              },
+              "tip_5lang": {
+                "de": "Die hölzernen Rampen zum Strand sind bei Regen extrem rutschig, schieben Sie Ihr Fahrrad hier besser. Genießen Sie den Blick auf die dunklen Wellen im Regen.",
+                "hu": "A partra vezető fapallók esőben rendkívül csúszósak, itt érdemesebb leszállni és tolni a kerékpárt. Csodálja meg a sötét hullámok látványát a szakadó esőben.",
+                "ro": "Rampele de lemn spre plajă sunt extrem de alunecoase pe ploaie; este mai sigur să mergeți pe lângă bicicletă. Admirați valurile întunecate sub ploaie.",
+                "en": "The wooden ramps to the beach are extremely slippery when wet; it is safer to walk your bike here. Enjoy the view of the dark waves under the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda",
+                "hu": "Playa de Calahonda",
+                "ro": "Playa de Calahonda",
+                "en": "Playa de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiteren Wegabschnitt für eine sicherere Fahrt bei nassen Bedingungen. Halten Sie Abstand zu anderen Radfahrern, da Bremswege länger sind.",
+                "hu": "Használja az út szélesebb szakaszait a biztonságosabb haladás érdekében a vizes körülmények között. Tartson nagyobb követési távolságot a hosszabb féktáv miatt.",
+                "ro": "Folosiți secțiunile mai late ale drumului pentru o deplasare mai sigură în condiții de umiditate. Păstrați distanța față de alți bicicliști pentru siguranță.",
+                "en": "Use the wider sections of the path for a safer ride in wet conditions. Keep a safe distance from other cyclists as braking distances are significantly longer."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Cabopino",
+                "hu": "Playa de Cabopino",
+                "ro": "Playa de Cabopino",
+                "en": "Playa de Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Der Hafenbereich bietet gute Möglichkeiten, sich kurz unterzustellen, falls der Regen stärker wird. Achten Sie auf Markierungen, die bei Nässe glatt sein können.",
+                "hu": "A kikötő környékén számos helyen találhat menedéket, ha hirtelen eleredne az eső. Vigyázzon az útburkolati jelekre, mert vizesen nagyon csúsznak.",
+                "ro": "Zona portului oferă multe locuri unde vă puteți adăposti dacă ploaia se intensifică brusc. Aveți grijă la marcajele rutiere, care sunt foarte alunecoase.",
+                "en": "The harbor area offers several spots to take cover if the rain suddenly gets heavier. Watch out for road markings, as they become very slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Natural de las Dunas de Artola und Cabopino",
+                "hu": "Monumento Natural de las Dunas de Artola és Cabopino",
+                "ro": "Monumento Natural de las Dunas de Artola și Cabopino",
+                "en": "Monumento Natural de las Dunas de Artola and Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf den erlaubten Wegen, da der nasse Sand der Dünen sehr instabil ist. Ein wasserfester Rucksack schützt Ihre Wertsachen vor Feuchtigkeit.",
+                "hu": "Kizárólag a kijelölt utakon tekerjen, mert a dűnék vizes homokja nagyon instabil ilyenkor. Egy vízálló hátizsák megvédi értékeit a beázástól a túra alatt.",
+                "ro": "Circulați doar pe traseele marcate, deoarece nisipul umed al dunelor este foarte instabil. Un rucsac impermeabil vă va proteja bunurile de umezeală.",
+                "en": "Ride only on designated paths as the wet sand of the dunes is very unstable. A waterproof backpack will keep your valuables safe and dry during the trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft beim Radfahren herrlich klar und kühl, perfekt für eine aktive Tour. Mittags wärmt die Sonne stark genug, um ohne schwere Jacke an der Promenade entlangzufahren. Nachmittags taucht das tiefe Licht der Wintersonne die Küstenlandschaft in ein leuchtendes Gold. Da die Sonne bereits um 17:00 Uhr untergeht, sollte man die Tour rechtzeitig beenden, bevor es kalt wird.",
+            "hu": "Reggel a levegő csodálatosan tiszta és hűvös, ami tökéletes egy aktív kerékpártúrához. Délben a nap már elég erősen melegít ahhoz, hogy nehéz kabát nélkül tekerjünk a sétányon. Délután a téli nap alacsony szögből jövő fénye aranylóba vonja a tengerparti tájat. Mivel 17:00-kor már sötétedik, érdemes időben befejezni a túrát a lehűlés előtt.",
+            "ro": "Dimineața, aerul este incredibil de curat și răcoros, ideal pentru o tură activă cu bicicleta. La prânz, soarele încălzește suficient pentru a pedala fără o jachetă grea pe faleză. După-amiaza, lumina joasă a soarelui de iarnă scaldă peisajul de coastă într-un auriu strălucitor. Deoarece soarele apune la 17:00, terminați tura înainte de răcirea serii.",
+            "en": "The morning air is wonderfully clear and cool, making it perfect for an active bike ride. At noon, the sun warms up enough to cycle along the promenade without a heavy jacket. In the afternoon, the low winter sun bathes the coastal landscape in a brilliant golden glow. Since it sets at 5:00 PM, aim to finish your ride before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Calahonda - Rocas del Mar",
+                "hu": "Playa de Calahonda - Rocas del Mar",
+                "ro": "Playa de Calahonda - Rocas del Mar",
+                "en": "Playa de Calahonda - Rocas del Mar"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, um Ihre Hände vor dem kühlen Fahrtwind am Morgen zu schützen. Die klare Luft bietet fantastische Fotomotive der Felsenküste.",
+                "hu": "Viseljen kesztyűt, hogy megvédje kezeit a hűvös menetszéltől a reggeli induláskor. A tiszta levegő fantasztikus fotótémákat kínál a sziklás parton.",
+                "ro": "Purtați mănuși pentru a vă proteja mâinile de vântul rece de dimineață în timp ce pedalați. Aerul curat oferă oportunități foto superbe cu coasta stâncoasă.",
+                "en": "Wear gloves to protect your hands from the cool wind while cycling in the morning. The clear air provides fantastic photo opportunities of the rocky coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - Riviera",
+                "hu": "Playa de Calahonda - Riviera",
+                "ro": "Playa de Calahonda - Riviera",
+                "en": "Playa de Calahonda - Riviera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das Meer, der im Winter oft bis zum Horizont reicht. Ein leichter Windstopper ist ideal für diesen flachen Küstenabschnitt.",
+                "hu": "Élvezze a tágas kilátást a tengerre, ami télen gyakran a látóhatárig ér. Egy könnyű szélkabát ideális viselet ezen a sík, tengerparti szakaszon.",
+                "ro": "Bucurați-vă de vederea largă peste mare, care iarna ajunge adesea până la orizont. O jachetă anti-vânt ușoară este ideală pentru această porțiune de coastă.",
+                "en": "Enjoy the expansive sea views, which often reach the horizon during the clear winter days. A light windbreaker is the ideal choice for this flat coastal stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Calahonda",
+                "hu": "Torre de Calahonda",
+                "ro": "Torre de Calahonda",
+                "en": "Torre de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne lässt die Steine des Turms warm leuchten, ein idealer Ort für eine kurze Trinkpause. Trinken Sie auch bei Kälte ausreichend Wasser.",
+                "hu": "A déli napsütés meleg fénnyel világítja meg a torony köveit, ideális hely egy rövid frissítőhöz. Hidegben is figyeljen a megfelelő folyadékpótlásra.",
+                "ro": "Soarele de la prânz face pietrele turnului să strălucească cald, fiind un loc ideal pentru o pauză. Nu uitați să vă hidratați, chiar dacă este răcoare.",
+                "en": "The midday sun makes the tower's stones glow warmly, making it an ideal spot for a quick break. Remember to stay hydrated even in cooler temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "La Luna-Royale Beach",
+                "hu": "La Luna-Royale Beach",
+                "ro": "La Luna-Royale Beach",
+                "en": "La Luna-Royale Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die fast leeren Wege für eine entspannte Fahrt ohne viele Fußgänger. Die Wintersonne steht tief und kann blenden, tragen Sie eine Sonnenbrille.",
+                "hu": "Használja ki a szinte üres utakat egy nyugodt tekerésre gyalogosok nélkül. A téli nap alacsonyan jár és vakíthat, ezért viseljen napszemüveget.",
+                "ro": "Profitați de drumurile aproape goale pentru o plimbare relaxată, fără mulți pietoni. Soarele de iarnă este jos și poate fi orbitor, purtați ochelari de soare.",
+                "en": "Take advantage of the nearly empty paths for a relaxed ride without many pedestrians. The winter sun stays low and can be blinding, so wear sunglasses."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda",
+                "hu": "Playa de Calahonda",
+                "ro": "Playa de Calahonda",
+                "en": "Playa de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Der Strandabschnitt wirkt im Winter besonders weitläufig und ruhig. Planen Sie Ihre Rückfahrt so, dass Sie vor dem Sonnenuntergang um 17:00 Uhr ankommen.",
+                "hu": "A strand ezen szakasza télen különösen tágasnak és nyugodtnak tűnik. Tervezze úgy a visszafelé utat, hogy a 17:00-s naplemente előtt célba érjen.",
+                "ro": "Această porțiune de plajă pare deosebit de vastă și liniștită iarna. Planificați întoarcerea astfel încât să ajungeți înainte de apusul de la ora 17:00.",
+                "en": "This stretch of beach feels particularly expansive and peaceful in winter. Plan your return trip to arrive before the sunset at 5:00 PM to avoid the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Cabopino",
+                "hu": "Playa de Cabopino",
+                "ro": "Playa de Cabopino",
+                "en": "Playa de Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Die Cafés am Hafen bieten auch im Winter sonnige Außenplätze für eine Pause mit Aussicht. Nutzen Sie die Radständer am Hafen, um das Fahrrad sicher zu parken.",
+                "hu": "A kikötői kávézók télen is napsütötte kültéri helyeket kínálnak egy panorámás pihenőhöz. Használja a kikötői tárolókat a kerékpár biztonságos lezárásához.",
+                "ro": "Cafenelele din port oferă locuri însorite la terasă chiar și iarna pentru o pauză cu vedere. Folosiți rastelele din port pentru a parca bicicleta în siguranță.",
+                "en": "Harbor cafes offer sunny outdoor seating even in winter for a break with a view. Use the bike racks at the marina to park your bicycle safely and securely."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento Natural de las Dunas de Artola und Cabopino",
+                "hu": "Monumento Natural de las Dunas de Artola és Cabopino",
+                "ro": "Monumento Natural de las Dunas de Artola și Cabopino",
+                "en": "Monumento Natural de las Dunas de Artola and Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier pünktlich zum Sonnenuntergang um 17:00 Uhr für das beste Licht. Stellen Sie sicher, dass Ihre Fahrradlichter für den Heimweg funktionieren.",
+                "hu": "Fejezze be itt a túrát pontosan a 17:00-s naplementére a legszebb fényekért. Ellenőrizze a kerékpárlámpákat a hazaúthoz, mert sötétedés után gyorsan hűl az idő.",
+                "ro": "Încheiați tura aici exact la apusul de la ora 17:00 pentru cea mai frumoasă lumină. Asigurați-vă că luminile bicicletei funcționează pentru drumul spre casă.",
+                "en": "Finish your tour here exactly at sunset around 5:00 PM for the most beautiful light. Ensure your bike lights are working for the ride home after dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje autós túráját egy békés reggeli sétával az Artola természeti emlékmű védett homokdűnéi között.\n\nA déli órákban fedezze fel a szomszédos Torre Ladrones-t és a családbarát Cabopino strandot.\n\nA délutáni autózás kelet felé, a Playa de Calahonda széles partjaihoz és a történelmi toronyhoz visz.\n\nZárja az estét az árapály megfigyelésével az eldugott Rocas del Mar sziklás öblében.",
         "ro": "Începeți turul auto cu o plimbare liniștită de dimineață printre dunele de nisip protejate din Artola.\n\nPrânzul vă găsește explorând adiacentul Torre Ladrones și plaja primitoare Cabopino.\n\nCondusul de după-amiază vă duce spre est, spre țărmurile largi ale plajei Calahonda, oprindu-vă la turnul său istoric.\n\nÎncheiați seara observând mareele blânde la retrasa destinație Rocas del Mar.",
         "en": "Start your driving tour with a peaceful morning walk among the protected sand dunes of the Artola Natural Monument.\n\nMidday shifts gears as you explore the adjacent Torre Ladrones and the family-friendly Cabopino beach.\n\nThe afternoon drive takes you eastward to the broad shores of Playa de Calahonda, stopping by its namesake historic tower.\n\nConclude your evening observing the gentle tides at the secluded Rocas del Mar."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens prasselt der Regen gegen die Scheiben, während man gemütlich zu den Küstendünen fährt. Mittags ermöglichen kurze Wege vom Parkplatz zu den Sehenswürdigkeiten ein trockenes Erlebnis. Nachmittags bietet die Fahrt entlang der Küstenstraße spektakuläre Ausblicke auf das graue, stürmische Meer. Abends reflektieren die Pfützen auf den Parkplätzen die Lichter der Stadt in bunten Farben.",
+            "hu": "Reggel az eső kopog a szélvédőn, miközben kényelmesen gurulunk a tengerparti dűnék felé. Délben a parkolókból nyíló rövid séták lehetővé teszik, hogy szárazon maradjunk a látnivalóknál. Délután a parti úton autózva látványos panoráma nyílik a haragos, szürke tengerre. Este a parkolók tócsáiban színesen verődnek vissza a város fényei.",
+            "ro": "Dimineața, ploaia bate în parbriz în timp ce conduceți confortabil spre dunele de pe coastă. La prânz, distanțele scurte de la parcare la obiective permit o experiență uscată. După-amiaza, condusul pe drumul de coastă oferă o panoramă spectaculoasă asupra mării gri și agitate. Seara, bălțile din parcări reflectă colorat luminile orașului.",
+            "en": "The morning starts with rain tapping on the windshield as you drive comfortably toward the coastal dunes. At noon, short walks from the parking areas to the sights keep you mostly dry. In the afternoon, driving along the coast road offers spectacular views of the stormy, grey sea. In the evening, puddles in the parking lots reflect the city lights in colorful hues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento Natural de las Dunas de Artola und Cabopino",
+                "hu": "Monumento Natural de las Dunas de Artola és Cabopino",
+                "ro": "Monumento Natural de las Dunas de Artola și Cabopino",
+                "en": "Monumento Natural de las Dunas de Artola and Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Weg durch den Regen kurz zu halten. Die Dünensilhouette wirkt bei bewölktem Himmel besonders plastisch.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az esőben megtett utat. A dűnék vonulata a felhős égbolt alatt különösen látványos és plasztikus.",
+                "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie. Silueta dunelor sub cerul înnorat pare mult mai definită și mai spectaculoasă.",
+                "en": "Park as close to the entrance as possible to minimize your walk through the rain. The silhouette of the dunes looks particularly striking under the cloudy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ladrones",
+                "hu": "Torre Ladrones",
+                "ro": "Torre Ladrones",
+                "en": "Torre Ladrones"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man einen guten Blick auf den Turm, ideal für Fotos bei starkem Regen. Achten Sie beim Aussteigen auf tiefe Pfützen am Fahrbahnrand.",
+                "hu": "Az autóból is jó kilátás nyílik a toronyra, ami ideális fotózáshoz szakadó esőben is. Kiszálláskor figyeljen a mély tócsákra az út menti padkánál.",
+                "ro": "Aveți o vedere bună asupra turnului chiar din mașină, ideal pentru fotografii pe ploaie torențială. Atenție la bălțile adânci de la marginea drumului.",
+                "en": "The car provides a great viewpoint of the tower, ideal for taking photos even during heavy rain. Watch out for deep puddles at the roadside when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Cabopino",
+                "hu": "Playa de Cabopino",
+                "ro": "Playa de Cabopino",
+                "en": "Playa de Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz am Hafen, um Matsch zu vermeiden. Ein kurzer Spaziergang zur Hafenmole bietet Schutz in den Arkaden der nahen Gebäude.",
+                "hu": "Használja a kikötő melletti szilárd burkolatú parkolót a sár elkerülése érdekében. A móló felé tett rövid sétánál keressen menedéket az épületek árkádjai alatt.",
+                "ro": "Folosiți parcarea asfaltată de lângă port pentru a evita noroiul. În timpul scurtei plimbări spre dig, căutați adăpost sub arcadele clădirilor din apropiere.",
+                "en": "Use the paved parking area near the harbor to avoid getting stuck in mud. Look for shelter under building arcades during the short walk toward the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - Calahonda",
+                "hu": "Playa de Calahonda - Calahonda",
+                "ro": "Playa de Calahonda - Calahonda",
+                "en": "Playa de Calahonda - Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Brandung durch die regennasse Windschutzscheibe hat einen ganz eigenen Charme. Halten Sie ein Tuch bereit, um beschlagene Scheiben zu reinigen.",
+                "hu": "A hullámverés látványa az esőáztatta szélvédőn keresztül egészen különleges hangulatot áraszt. Tartson kéznél egy törlőkendőt a párásodó ablakok tisztításához.",
+                "ro": "Vederea valurilor prin parbrizul ud de ploaie are un farmec aparte. Țineți la îndemână o lavetă pentru a curăța geamurile aburite ale mașinii.",
+                "en": "Watching the surf through the rain-streaked windshield has a unique and moody charm. Keep a microfiber cloth handy to clear any fogging on the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Calahonda",
+                "hu": "Torre de Calahonda",
+                "ro": "Torre de Calahonda",
+                "en": "Torre de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an einem Aussichtspunkt oberhalb der Küste, um den Turm im Regen ohne nass zu werden zu sehen. Achten Sie auf schlechte Sicht durch Gischt und Regen.",
+                "hu": "Parkoljon le a part feletti egyik kilátóponton, ahonnan esőben is jól látszik a torony. Vigyázzon a rossz látási viszonyokra a felcsapódó vízpermet miatt.",
+                "ro": "Parcați la un punct de observație deasupra coastei pentru a vedea turnul fără să vă udați. Atenție la vizibilitatea redusă din cauza ceții și ploii.",
+                "en": "Park at a viewpoint above the coast to see the tower without having to step out into the rain. Be aware of poor visibility caused by sea spray and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - Rocas del Mar",
+                "hu": "Playa de Calahonda - Rocas del Mar",
+                "ro": "Playa de Calahonda - Rocas del Mar",
+                "en": "Playa de Calahonda - Rocas del Mar"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Küstenstraßen, da bei Regen kleine Steine auf die Fahrbahn gespült werden können. Genießen Sie die warme Heizung zwischen den Stopps.",
+                "hu": "Vezessen óvatosan a parti utakon, mert az eső kisebb köveket moshat az úttestre. Élvezze az autó fűtését a megállók közötti kényelmes utazás alatt.",
+                "ro": "Conduceți cu atenție pe drumurile de coastă, deoarece ploaia poate aduce pietre mici pe carosabil. Bucurați-vă de căldura din mașină între opriri.",
+                "en": "Drive carefully on coastal roads as rain can wash small stones onto the pavement. Enjoy the warmth of the car's heater between your outdoor stops."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt entlang der sonnigen Küste bei kühler Luft besonders angenehm. Mittags findet man problemlos Parkplätze direkt am Meer, um die winterliche Ruhe zu genießen. Nachmittags färbt das tiefe Sonnenlicht die Landschaft in ein warmes Gold, ideal für Panoramafahrten. Da die Sonne um 17:00 Uhr untergeht, bietet die Rückfahrt in der Dämmerung wunderschöne Farben am Horizont.",
+            "hu": "Reggel a napfényes tengerpart menti autózás a hűvös levegőben kifejezetten kellemes élmény. Délben gond nélkül találunk parkolóhelyet közvetlenül a parton a téli nyugalom élvezetéhez. Délután az alacsony napfény aranyba vonja a tájat, ami tökéletes a panoráma-utazáshoz. Mivel 17:00-kor lemegy a nap, a hazaút a szürkületben csodás színeket kínál.",
+            "ro": "Dimineața, condusul de-a lungul coastei însorite în aerul răcoros este o experiență foarte plăcută. La prânz, veți găsi ușor locuri de parcare chiar lângă mare pentru a savura liniștea. După-amiaza, lumina joasă a soarelui colorează peisajul în auriu, fiind ideal pentru plimbări panoramice. Soarele apune la 17:00, oferind culori superbe pe cer la întoarcere.",
+            "en": "The morning drive along the sunny coast in the cool winter air is a very pleasant experience. At noon, you will easily find parking spots right by the sea to enjoy the seasonal peace. In the afternoon, the low sunlight bathes the landscape in gold, perfect for scenic drives. Since the sun sets at 5:00 PM, the drive back offers beautiful colors on the horizon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento Natural de las Dunas de Artola und Cabopino",
+                "hu": "Monumento Natural de las Dunas de Artola és Cabopino",
+                "ro": "Monumento Natural de las Dunas de Artola și Cabopino",
+                "en": "Monumento Natural de las Dunas de Artola and Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Winter leerer, was den Zugang zu den Dünenspazierwegen sehr einfach macht. Nutzen Sie das klare Winterlicht für weite Landschaftsfotos.",
+                "hu": "A parkolók télen üresebbek, így nagyon könnyű kijutni a dűnék közötti sétautakhoz. Használja ki a tiszta téli fényt a tágas tájképek készítéséhez a dűnéknél.",
+                "ro": "Parcările sunt mult mai libere iarna, facilitând accesul la traseele de plimbare prin dune. Profitați de lumina clară de iarnă pentru fotografii de peisaj.",
+                "en": "Parking lots are much emptier in winter, making access to the dune walking paths very easy. Use the clear winter light for stunning wide-angle landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Ladrones",
+                "hu": "Torre Ladrones",
+                "ro": "Torre Ladrones",
+                "en": "Torre Ladrones"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Turm im Kontrast zum tiefblauen Winterhimmel. Da es früher dunkel wird, sollten Sie diesen Stopp vor 16:00 Uhr einplanen.",
+                "hu": "Élvezze a torony látványát a mélykék téli égbolttal alkotott kontrasztjában. Mivel korábban sötétedik, ezt a megállót érdemes 16:00 óra elé időzíteni.",
+                "ro": "Admirați turnul în contrast cu cerul albastru intens de iarnă. Deoarece se întunecă mai devreme, planificați această oprire înainte de ora 16:00.",
+                "en": "Enjoy the view of the tower in contrast with the deep blue winter sky. Since it gets dark early, try to schedule this stop before 4:00 PM for the best light."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Cabopino",
+                "hu": "Playa de Cabopino",
+                "ro": "Playa de Cabopino",
+                "en": "Playa de Cabopino"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz am Hafen ist im Winter ein idealer Startpunkt für einen windgeschützten Spaziergang. Die tiefstehende Sonne kann beim Fahren zum Hafen blenden.",
+                "hu": "A kikötő parkolója télen ideális kiindulópont egy szélvédett sétához a móló mentén. Az alacsonyan járó nap vakíthat a kikötő felé vezető úton, viseljen napszemüveget.",
+                "ro": "Parcarea din port este un punct de plecare ideal pentru o plimbare ferită de vânt iarna. Soarele jos poate fi orbitor în timp ce conduceți spre port.",
+                "en": "The harbor parking is an ideal starting point for a wind-sheltered walk along the marina. The low sun can be blinding while driving toward the port, so wear sunglasses."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - Calahonda",
+                "hu": "Playa de Calahonda - Calahonda",
+                "ro": "Playa de Calahonda - Calahonda",
+                "en": "Playa de Calahonda - Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Die milde Wintersonne lädt dazu ein, im Auto bei offenem Fenster die frische Meeresbrise zu genießen. Parken Sie mit Blick auf das Meer für eine entspannte Pause.",
+                "hu": "Az enyhe téli napsütésben élvezet letekert ablakkal autózva beszívni a friss tengeri levegőt. Parkoljon a tenger felé nézve egy igazán pihentető megállóhoz.",
+                "ro": "Soarele blând de iarnă vă invită să vă bucurați de briza mării cu geamul mașinii coborât. Parcați cu fața spre mare pentru o pauză relaxantă și caldă.",
+                "en": "The mild winter sun invites you to enjoy the fresh sea breeze with the car windows down. Park facing the sea for a truly relaxing and warm break in the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de Calahonda",
+                "hu": "Torre de Calahonda",
+                "ro": "Torre de Calahonda",
+                "en": "Torre de Calahonda"
+              },
+              "tip_5lang": {
+                "de": "Das klare Wetter bietet oft eine Sicht bis zum Felsen von Gibraltar, halten Sie Ausschau danach. Nutzen Sie die Nebensaison für stressfreies Parken am Straßenrand.",
+                "hu": "A tiszta időben gyakran ellátni egészen a Gibraltári-szikláig, érdemes kémlelni a horizontot. Használja ki a holtszezont a stresszmentes útszéli parkoláshoz.",
+                "ro": "Vremea senină permite adesea vizibilitatea până la Stânca Gibraltar; căutați-o la orizont. Profitați de extrasezon pentru o parcare fără stres pe marginea drumului.",
+                "en": "The clear weather often allows views as far as the Rock of Gibraltar; keep an eye on the horizon. Take advantage of the off-season for stress-free roadside parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Calahonda - Rocas del Mar",
+                "hu": "Playa de Calahonda - Rocas del Mar",
+                "ro": "Playa de Calahonda - Rocas del Mar",
+                "en": "Playa de Calahonda - Rocas del Mar"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das goldene Licht des frühen Abends vor 17:00 Uhr direkt von der Küstenstraße aus. Schalten Sie Ihr Licht frühzeitig ein, wenn die Dämmerung beginnt.",
+                "hu": "Élje át a kora esti aranyló fényeket 17:00 előtt közvetlenül a parti útról nézve. Kapcsolja fel időben a fényszórókat, amint a szürkület eléri a partvonalat.",
+                "ro": "Experimentați lumina aurie a serii înainte de ora 17:00 direct de pe drumul de coastă. Aprindeți farurile din timp, imediat ce începe să se lase amurgul.",
+                "en": "Experience the golden light of the early evening before 5:00 PM directly from the coastal road. Turn on your headlights early as dusk approaches the shoreline."
+              }
+            }
+          ]
+        }
       }
     }
   }

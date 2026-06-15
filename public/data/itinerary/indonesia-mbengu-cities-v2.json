@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő túrával a Keli Wolowake környékén, élvezve a vulkanikus dombokat. Ahogy a nap feljebb emelkedik, lépjen tovább a Keli Niranibe felé a pazar kilátásért. Délben álljon tiszteletteljesen a fenséges Jézus-szobor kilátója előtt. A délután az Ili Meja felé vezet, hogy tanúja legyen a feltűnő geológiai képződményeinek. Zárja aktív napját a Keli Lisabeto nyugodt csúcsán, nézve, ahogy a naplemente élénk trópusi árnyalatokkal festi meg az eget a nyugodt táj felett.",
         "ro": "Începeți dimineața cu o drumeție revigorantă în jurul Keli Wolowake, bucurându-vă de dealurile vulcanice. Pe măsură ce soarele răsare, mergeți la Keli Niranibe pentru vederi ample. La amiază, stați cu uimire în fața statuii maiestuoase a lui Iisus, admirând panorama spectaculoasă a coastei. După-amiaza vă conduce la Ili Meja pentru a vedea formațiunile geologice izbitoare. Încheiați ziua activă la vârful senin al Keli Lisabeto, privind apusul de soare ce pictează cerul tropical.",
         "en": "Start the morning with a refreshing hike around Keli Wolowake, enjoying the misty volcanic hills. As the sun rises higher, move on to Keli Niranibe for expansive inland views. By midday, stand in awe before the majestic Big Jesus statue view point, taking in the spectacular coastal panorama. The afternoon leads you to Ili Meja to witness its striking geological formations. Conclude your active day at the serene peak of Keli Lisabeto, watching the sunset paint the sky in vibrant tropical hues."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit tief hängenden Wolken über den Gipfeln, was der Wanderung eine mystische Atmosphäre verleiht. Mittags suchen wir Schutz im dichten Grün, während der warme Regen die tropische Natur zum Leuchten bringt. Am Nachmittag fordern die rutschigen Pfade volle Konzentration beim Aufstieg. Den Abend lassen wir bei prasselndem Regen unter einem festen Dach entspannt ausklingen.",
+            "hu": "A reggel párás ködbe burkolja a hegycsúcsokat, ami különleges, misztikus hangulatot áraszt a túra kezdetén. Délben a sűrű trópusi növényzet nyújt némi menedéket a szitáló eső elől a pihenők alatt. Délután a felázott, csúszós ösvények óvatosságot igényelnek a kilátópontok megközelítésekor. Az estét a trópusi eső megnyugtató kopogását hallgatva, fedett teraszon zárjuk.",
+            "ro": "Dimineața începe cu nori joși peste creste, oferind drumeției o atmosferă mistică și răcoroasă. La prânz, vegetația densă oferă adăpost împotriva burniței, în timp ce natura prinde culori vii sub ploaie. După-amiaza, potecile alunecoase necesită atenție sporită în timpul urcării spre punctele de belvedere. Seara se încheie relaxant, ascultând ropotul ploii tropicale sub un acoperiș sigur.",
+            "en": "The morning starts with low clouds over the peaks, lending a mystical atmosphere to the start of the trek. At noon, the dense tropical foliage provides some shelter from the drizzle during rest stops. In the afternoon, the slippery paths require extra caution when approaching the viewpoints. We end the evening under a solid roof, listening to the soothing rhythm of the tropical rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Keli Wolowake",
+                "hu": "Keli Wolowake",
+                "ro": "Keli Wolowake",
+                "en": "Keli Wolowake"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade sind bei Nässe sehr rutschig; tragen Sie unbedingt festes Schuhwerk mit Profil und nutzen Sie Wanderstöcke für besseren Halt auf dem schlammigen Untergrund.",
+                "hu": "Az ösvények esőben rendkívül csúszóssá válnak, ezért mindenképpen profilozott talpú túrabakancsot viselj, és használj túrabotot a stabilabb haladás érdekében a sárban.",
+                "ro": "Potecile devin foarte alunecoase când sunt ude; purtați neapărat încălțăminte de drumeție cu talpă aderentă și folosiți bețe pentru stabilitate pe terenul noroios.",
+                "en": "The paths become very slippery when wet; be sure to wear sturdy hiking boots with good grip and use trekking poles for better stability on the muddy terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Niranibe",
+                "hu": "Keli Niranibe",
+                "ro": "Keli Niranibe",
+                "en": "Keli Niranibe"
+              },
+              "tip_5lang": {
+                "de": "Der Gipfel bietet bei Regen oft dramatische Nebelspiele; schützen Sie Ihre Kamera mit einer wasserdichten Hülle, um die einzigartige Stimmung sicher einzufangen.",
+                "hu": "A csúcs esőben drámai ködjátékot mutat, ezért védd a fényképezőgépedet vízálló tokkal, hogy biztonságban örökíthesd meg ezt a különleges, borongós hangulatot.",
+                "ro": "Vârful oferă adesea un joc dramatic de ceață pe ploaie; protejați-vă aparatul foto cu o husă impermeabilă pentru a surprinde în siguranță atmosfera unică.",
+                "en": "The peak often displays dramatic mist play during rain; protect your camera with a waterproof cover to safely capture the unique, moody atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Big Jesus statue view point",
+                "hu": "Big Jesus statue view point",
+                "ro": "Big Jesus statue view point",
+                "en": "Big Jesus statue view point"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht kann eingeschränkt sein, doch der Ort strahlt bei Regen tiefe Ruhe aus; ein hochwertiger Regenponcho hält Sie beim stillen Verweilen trocken.",
+                "hu": "A látótávolság korlátozott lehet, de a hely esőben mély nyugalmat áraszt; egy minőségi esőponcsó szárazon tart, miközben elmélyedsz a csendes táj látványában.",
+                "ro": "Vizibilitatea poate fi redusă, dar locul emană o liniște profundă pe ploaie; un pelerină de ploaie de calitate vă va menține uscat în timp ce admirați peisajul.",
+                "en": "Visibility may be limited, but the place radiates deep tranquility in the rain; a high-quality rain poncho will keep you dry while you soak in the quiet scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Meja",
+                "hu": "Ili Meja",
+                "ro": "Ili Meja",
+                "en": "Ili Meja"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Felsvorsprünge als natürlichen Unterstand bei plötzlichen Güssen und achten Sie auf sicheren Tritt auf den durch Moos glitschigen Steinflächen.",
+                "hu": "Használd a sziklakiszögelléseket természetes óvóhelyként a hirtelen záporoknál, és figyelj a lépteidre a mohától csúszóssá vált köves szakaszokon.",
+                "ro": "Folosiți proeminențele stâncoase ca adăpost natural în caz de averse bruște și fiți atenți la pași pe suprafețele de piatră devenite alunecoase din cauza mușchiului.",
+                "en": "Use rocky overhangs as natural shelter during sudden downpours and watch your footing on stone surfaces that have become slippery from moss."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Lisabeto",
+                "hu": "Keli Lisabeto",
+                "ro": "Keli Lisabeto",
+                "en": "Keli Lisabeto"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Wege im Wald bei Regen früher dunkel wirken; eine Stirnlampe im Rucksack bietet Sicherheit für den letzten Abstieg.",
+                "hu": "Fejezd be időben a túrát, mert az erdei utak esőben hamarabb sötétnek tűnnek; egy fejlámpa a hátizsákban biztonságot nyújt az utolsó ereszkedés során.",
+                "ro": "Încheiați turul rapid, deoarece potecile din pădure par mai întunecate pe ploaie; o lanternă frontală în rucsac oferă siguranță pentru ultima coborâre.",
+                "en": "Finish the tour promptly as forest paths appear dark earlier in the rain; keeping a headlamp in your backpack provides safety during the final descent."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wind weht am Morgen vom Meer herauf und macht den Aufstieg angenehm kühl. Mittags brennt die Sonne weniger intensiv, was lange Pausen auf den exponierten Felsen ermöglicht. Am Nachmittag sinkt die Temperatur spürbar, während das Licht weicher und goldener wird. Der Abend bricht früh herein, und wir ziehen uns rechtzeitig in die gemütliche Wärme der Siedlung zurück.",
+            "hu": "Friss szellő fúj reggel a tenger felől, kellemesen hűvössé téve az emelkedőket a túra elején. Délben a nap kevésbé tűz, így hosszabb pihenőket tarthatunk a nyitott sziklafelületeken a tűző hőség nélkül. Délután a hőmérséklet érezhetően süllyed, a fények pedig lágyabbá válnak. Az este korán köszönt be, így időben visszahúzódunk a település barátságos melegébe.",
+            "ro": "O briză proaspătă suflă dimineața dinspre mare, făcând urcușul plăcut și răcoros la începutul traseului. La prânz, soarele este mai puțin intens, permițând pauze lungi pe stâncile expuse. După-amiaza, temperatura scade vizibil, în timp ce lumina devine mai caldă și aurie. Seara se lasă devreme, așa că ne retragem la timp în căldura primitoare a așezării.",
+            "en": "A fresh breeze blows from the sea in the morning, making the climbs pleasantly cool at the start of the trek. At noon, the sun is less intense, allowing for longer breaks on the exposed rocks. In the afternoon, the temperature drops noticeably as the light becomes softer and more golden. Evening sets in early, so we retreat in time to the cozy warmth of the settlement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Keli Wolowake",
+                "hu": "Keli Wolowake",
+                "ro": "Keli Wolowake",
+                "en": "Keli Wolowake"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie in Schichten gekleidet, da es im Schatten der Hügel am frühen Morgen noch empfindlich kühl sein kann, bevor die Wintersonne ihre Kraft entfaltet.",
+                "hu": "Réteges öltözetben indulj el, mert a dombok árnyékában kora reggel még kifejezetten hűvös lehet, mielőtt a téli nap ereje igazán érezhetővé válna.",
+                "ro": "Porniți îmbrăcați în straturi, deoarece la umbra dealurilor poate fi destul de răcoare dimineața devreme, înainte ca soarele de iarnă să își facă simțită puterea.",
+                "en": "Start dressed in layers as it can be quite chilly in the shadows of the hills early in the morning before the winter sun gains its full strength."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Niranibe",
+                "hu": "Keli Niranibe",
+                "ro": "Keli Niranibe",
+                "en": "Keli Niranibe"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft garantiert eine fantastische Fernsicht; bringen Sie ein Fernglas mit, um die Details der fernen Küstenlinie gestochen scharf zu bewundern.",
+                "hu": "A tiszta téli levegő fantasztikus távoli kilátást garantál; vigyél magaddal távcsövet, hogy tűélesen csodálhasd meg a távoli partvonal minden apró részletét.",
+                "ro": "Aerul curat de iarnă garantează o vizibilitate fantastică la distanță; aduceți un binoclu pentru a admira detaliile liniei de coastă îndepărtate cu maximă claritate.",
+                "en": "The clear winter air guarantees fantastic long-distance visibility; bring binoculars to admire the details of the distant coastline with razor-sharp clarity."
+              }
+            },
+            {
+              "name": {
+                "de": "Big Jesus statue view point",
+                "hu": "Big Jesus statue view point",
+                "ro": "Big Jesus statue view point",
+                "en": "Big Jesus statue view point"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tiefer, was für perfekte Fotobedingungen sorgt; nutzen Sie das sanfte Licht für Porträts vor der Statue ohne harte Schattenwürfe.",
+                "hu": "A nap alacsonyabban jár, ami tökéletes fotózási feltételeket teremt; használd ki a lágy fényeket a szobor előtti portrékhoz az erős árnyékok elkerülése érdekében.",
+                "ro": "Soarele este mai jos pe cer, creând condiții perfecte pentru fotografii; profitați de lumina blândă pentru portrete în fața statuii fără umbre dure.",
+                "en": "The sun sits lower in the sky, creating perfect photography conditions; use the soft light for portraits in front of the statue without harsh shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Meja",
+                "hu": "Ili Meja",
+                "ro": "Ili Meja",
+                "en": "Ili Meja"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen sonnigen Platz für die Rast, da der Wind auf der Anhöhe im Winter recht kräftig wehen kann und eine leichte Windjacke ratsam ist.",
+                "hu": "Keress napos helyet a pihenéshez, mivel a magaslaton a szél télen elég erősen fújhat, így egy könnyű szélldzseki viselése mindenképpen tanácsos.",
+                "ro": "Căutați un loc însorit pentru popas, deoarece vântul pe înălțime poate sufla destul de tare iarna, fiind recomandată o jachetă ușoară de vânt.",
+                "en": "Look for a sunny spot for your break as the wind on the ridge can blow quite strongly in winter, making a lightweight windbreaker highly advisable."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Lisabeto",
+                "hu": "Keli Lisabeto",
+                "ro": "Keli Lisabeto",
+                "en": "Keli Lisabeto"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft spätestens um 16:30 Uhr ein, um den Sonnenuntergang in voller Pracht zu erleben, bevor es um 17:00 Uhr schlagartig dunkel wird.",
+                "hu": "Tervezd az érkezést legkésőbb 16:30-ra, hogy teljes pompájában élvezhesd a naplementét, mielőtt 17:00 körül hirtelen teljesen besötétedik.",
+                "ro": "Planificați sosirea cel târziu la ora 16:30 pentru a experimenta apusul în toată splendoarea sa, înainte de a se întuneca brusc în jurul orei 17:00.",
+                "en": "Plan to arrive by 4:30 PM at the latest to experience the sunset in its full glory before it suddenly becomes pitch dark around 5:00 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a Jézus-szobornál, és biztosítson magának lenyűgöző kilátást a partra. Navigáljon lefelé az Ili Nusabeta tornyosuló sziklái felé, hogy érezze az óceáni szellőt. Tartson egy pihentető déli szünetet a Pantai Beta-nál, a hűsítő hullámokba lógatva a lábát. A délutáni túra az Ili Koka lejtői mellett vezet a Koka strand felé. Fejezze be utazását Koka nyüzsgő rekreációs területén, élvezve a nyüzsgő esti légkört és a friss tenger gyümölcseit kínáló helyi árusokat.",
         "ro": "Începeți aventura pe bicicletă la statuia lui Iisus, asigurându-vă o vedere impresionantă a coastei. Navigați la vale spre stâncile din Ili Nusabeta pentru a simți briza oceanului. Opriți-vă pentru o pauză relaxantă la amiază la Pantai Beta, răcorindu-vă picioarele în valuri. Plimbarea de după-amiază vă duce pe lângă pantele impunătoare ale Ili Koka înainte de a ajunge la Koka beach. Terminați călătoria în zona de recreere vibrantă din Koka, savurând atmosfera animată de seară.",
         "en": "Kick off your cycling adventure at the Big Jesus statue view point, securing an awe-inspiring view of the coast. Navigate downhill towards the towering cliffs of Ili Nusabeta to feel the ocean breeze. Stop for a relaxing midday break at Pantai Beta, dipping your toes in the refreshing waves. The afternoon ride takes you past the imposing slopes of Ili Koka before reaching the pristine Koka beach. Finish your journey in the vibrant recreational area of Koka, savoring the lively atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regen verwandelt die Küstenstraße in eine glänzende, aber rutschige Bahn, die volle Konzentration beim Lenken erfordert. Mittags kühlen die feuchten Brisen angenehm ab, während wir unter Vordächern auf das Ende der schwersten Schauer warten. Nachmittags spritzt das Wasser von den Reifen, was den Weg zum Strand zu einem nassen Abenteuer macht. Abends trocknen wir uns in der Unterkunft auf.",
+            "hu": "Az eső csillogó, de csúszós pályává változtatja a parti utat, ami teljes koncentrációt igényel a kormányzásnál. Délben a nedves szellők kellemesen hűsítenek, miközben az ereszek alatt várjuk meg a hevesebb záporok végét. Délután a kerekekről felverődő víz igazi vizes kalanddá teszi a strandhoz vezető utat. Estére a szálláson melegszünk fel és szárítjuk meg felszerelésünket.",
+            "ro": "Ploaia transformă drumul de coastă într-o pistă strălucitoare, dar alunecoasă, necesitând concentrare maximă la viraje. La prânz, brizale umede răcoresc plăcut, în timp ce așteptăm sub streșini trecerea averselor grele. După-amiaza, apa împroșcată de roți transformă drumul spre plajă într-o aventură udă. Seara ne uscăm și ne încălzim la locul de cazare.",
+            "en": "The rain turns the coastal road into a shiny but slippery track, requiring full concentration when steering the bike. At noon, the damp breezes cool us down while we wait under eaves for the heaviest showers to pass. In the afternoon, the water splashing from the wheels makes the ride to the beach a wet adventure. We dry off and warm up at our accommodation by evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Big Jesus statue view point",
+                "hu": "Big Jesus statue view point",
+                "ro": "Big Jesus statue view point",
+                "en": "Big Jesus statue view point"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt gründlich, da der Bremsweg auf den nassen Gefällen zum Aussichtspunkt deutlich länger ist als gewöhnlich.",
+                "hu": "Indulás előtt alaposan ellenőrizd a fékeket, mert a vizes lejtőkön a kilátóhoz vezető úton a fékút jelentősen hosszabb a megszokottnál.",
+                "ro": "Verificați frânele cu atenție înainte de plecare, deoarece distanța de frânare pe pantele ude spre punctul de belvedere este mult mai lungă decât de obicei.",
+                "en": "Check your brakes thoroughly before starting, as the braking distance on the wet slopes leading to the viewpoint is significantly longer than usual."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Nusabeta",
+                "hu": "Ili Nusabeta",
+                "ro": "Ili Nusabeta",
+                "en": "Ili Nusabeta"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlaglöcher, die durch Pfützen getarnt sein könnten; fahren Sie in Kurven besonders vorsichtig, um ein Wegrutschen der Reifen zu vermeiden.",
+                "hu": "Figyelj az úthibákra, amiket elrejthetnek a tócsák; a kanyarokban vezess különösen óvatosan, hogy elkerüld a kerekek megcsúszását a nedves aszfalton.",
+                "ro": "Fiți atenți la gropile care ar putea fi mascate de bălți; conduceți cu mare prudență în curbe pentru a evita deraparea roților pe asfaltul ud.",
+                "en": "Watch out for potholes that might be hidden by puddles; ride with extra caution in corners to avoid the wheels sliding on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Beta",
+                "hu": "Pantai Beta",
+                "ro": "Pantai Beta",
+                "en": "Pantai Beta"
+              },
+              "tip_5lang": {
+                "de": "Der Sand am Strand ist bei Regen sehr fest und gut begehbar, aber meiden Sie die Felsen, da diese durch die Gischt extrem glatt geworden sind.",
+                "hu": "A homok a strandon esőben tömör és jól járható, de kerüld a sziklákat, mert a felfröccsenő víztől és az esőtől rendkívül síkossá váltak.",
+                "ro": "Nisipul de pe plajă este compact și ușor de parcurs pe ploaie, dar evitați stâncile, deoarece au devenit extrem de alunecoase de la apă și ploaie.",
+                "en": "The sand on the beach is compact and easy to walk on in the rain, but avoid the rocks as they have become extremely slippery from the spray and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Koka",
+                "hu": "Ili Koka",
+                "ro": "Ili Koka",
+                "en": "Ili Koka"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine auffällige Regenjacke in Neonfarben, damit Sie für andere Verkehrsteilnehmer bei schlechter Sicht durch den Sprühregen besser erkennbar sind.",
+                "hu": "Viselj feltűnő, neon színű esőkabátot, hogy a többi közlekedő számára jobban látható legyél a permetező eső okozta rossz látási viszonyok között.",
+                "ro": "Purtați o jachetă de ploaie în culori neon pentru a fi mai vizibil pentru ceilalți participanți la trafic în condițiile de vizibilitate redusă cauzate de ploaie.",
+                "en": "Wear a bright, neon-colored rain jacket so that you are more visible to other road users in the poor visibility conditions caused by the misty rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Koka beach",
+                "hu": "Koka beach",
+                "ro": "Koka beach",
+                "en": "Koka beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Untergrund unter Palmen und nutzen Sie die Wartehäuschen am Strand, um Ihr Gepäck vor der Feuchtigkeit zu schützen.",
+                "hu": "Parkold a bringát szilárd talajon a pálmák alatt, és használd a parton lévő pihenőket, hogy megvédd a csomagjaidat a beszivárgó nedvességtől.",
+                "ro": "Parcați bicicleta pe teren solid sub palmieri și folosiți adăposturile de pe plajă pentru a vă proteja bagajele de umezeala care se infiltrează.",
+                "en": "Park your bike on solid ground under the palms and use the shelters on the beach to protect your bags from the seeping moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Koka",
+                "hu": "Koka",
+                "ro": "Koka",
+                "en": "Koka"
+              },
+              "tip_5lang": {
+                "de": "Nach der nassen Tour ist eine warme Suppe in einem lokalen Warung ideal, um die Körpertemperatur wieder anzuheben und Energie zu tanken.",
+                "hu": "A vizes túra után egy forró leves egy helyi kifőzdében (warung) ideális a testhőmérséklet helyreállításához és az energiaraktárak feltöltéséhez.",
+                "ro": "După tura udă, o supă caldă într-un local (warung) este ideală pentru a restabili temperatura corpului și pentru a vă reîncărca bateriile.",
+                "en": "After the wet ride, a hot soup in a local eatery (warung) is ideal to restore your body temperature and replenish your energy levels."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft macht das Treten in die Pedale zum Vergnügen, ohne dass man sofort ins Schwitzen gerät. Mittags steht die Sonne schräg und wirft lange Schatten auf die kurvige Küstenstraße. Am Nachmittag genießen wir die milde Wärme bei der Fahrt zum Strand, während die Meeresbrise stetig zunimmt. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir die Rückfahrt rechtzeitig vor der Dämmerung.",
+            "hu": "A hűvös reggeli levegő igazi élménnyé teszi a pedálozást, anélkül, hogy azonnal megizzadnánk az emelkedőkön. Délben a nap ferdén süt, hosszú árnyékokat vetve a kanyargós parti útra. Délután élvezzük a lágy meleget a strand felé menet, miközben a tengeri szellő folyamatosan élénkül. Mivel a nap már 17:00-kor lebukik, a visszautat időben, még a szürkület előtt megkezdjük.",
+            "ro": "Aerul răcoros de dimineață transformă pedalatul într-o plăcere, fără a transpira imediat pe urcușuri. La prânz, soarele bate oblic, aruncând umbre lungi pe drumul de coastă sinuos. După-amiaza, ne bucurăm de căldura blândă în drum spre plajă, în timp ce briza mării se intensifică constant. Deoarece soarele apune deja la ora 17:00, planificăm drumul de întoarcere din timp.",
+            "en": "The cool morning air makes pedaling a real pleasure without immediately breaking a sweat on the climbs. At noon, the sun shines at an angle, casting long shadows on the winding coastal road. In the afternoon, we enjoy the mild warmth on the way to the beach while the sea breeze steadily picks up. Since the sun sets as early as 5:00 PM, we start our return trip well before dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Big Jesus statue view point",
+                "hu": "Big Jesus statue view point",
+                "ro": "Big Jesus statue view point",
+                "en": "Big Jesus statue view point"
+              },
+              "tip_5lang": {
+                "de": "Ein leichtes Halstuch schützt Sie während der Abfahrt vor dem kühlen Fahrtwind, der im Winter deutlich frischer ausfallen kann als erwartet.",
+                "hu": "Egy könnyű nyaksál megvéd a hűvös menetszéltől a lejtmenet során, ami télen jelentősen frissebb lehet, mint azt elsőre gondolnád.",
+                "ro": "O eșarfă ușoară vă protejează de vântul rece în timpul coborârii, care iarna poate fi mult mai tăios decât v-ați aștepta inițial.",
+                "en": "A lightweight neck scarf will protect you from the cool wind during the descent, which can be significantly fresher in winter than you might expect."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Nusabeta",
+                "hu": "Ili Nusabeta",
+                "ro": "Ili Nusabeta",
+                "en": "Ili Nusabeta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Panoramafotos; die Farben des Meeres und der Hügel wirken jetzt besonders intensiv und kontrastreich.",
+                "hu": "Használd ki a tiszta téli fényeket a panorámafotókhoz; a tenger és a dombok színei ilyenkor különösen intenzívnek és kontrasztosnak tűnnek.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii panoramice; culorile mării și ale dealurilor par deosebit de intense și contrastante în acest sezon.",
+                "en": "Take advantage of the clear winter light for panoramic photos; the colors of the sea and the hills appear particularly intense and high-contrast now."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Beta",
+                "hu": "Pantai Beta",
+                "ro": "Pantai Beta",
+                "en": "Pantai Beta"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist etwas kühler; ein UV-Shirt schützt nicht nur vor der Sonne, sondern isoliert auch leicht gegen den frischen Wind beim Verlassen des Meeres.",
+                "hu": "A víz kissé hűvösebb; egy UV-szűrős úszópóló nemcsak a naptól véd, hanem enyhén szigetel is a friss szél ellen, amikor kijössz a tengerből.",
+                "ro": "Apa este ceva mai rece; un tricou cu protecție UV nu doar că vă apără de soare, dar oferă și o ușoară izolare împotriva vântului proaspăt la ieșirea din mare.",
+                "en": "The water is slightly cooler; a UV-filtering swim shirt not only protects from the sun but also provides light insulation against the fresh wind when you exit the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Koka",
+                "hu": "Ili Koka",
+                "ro": "Ili Koka",
+                "en": "Ili Koka"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Abschnitte unter den Bäumen können kühl sein; behalten Sie Ihre Weste griffbereit am Lenker, um schnell auf Temperaturwechsel zu reagieren.",
+                "hu": "A fák alatti árnyékos szakaszok hűvösek lehetnek; tartsd a mellényedet kéznél a kormányon, hogy gyorsan reagálhass a hőmérséklet változásaira.",
+                "ro": "Secțiunile umbrite de sub copaci pot fi răcoroase; păstrați vesta la îndemână pe ghidon pentru a reacționa rapid la schimbările de temperatură.",
+                "en": "The shaded sections under the trees can be cool; keep your vest handy on the handlebars to react quickly to changes in temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Koka beach",
+                "hu": "Koka beach",
+                "ro": "Koka beach",
+                "en": "Koka beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Strandbesuch am frühen Nachmittag, da der Schatten der Klippen im Winter bereits gegen 15:30 Uhr den Sand erreicht.",
+                "hu": "Élvezd a strandolást kora délután, mivel a sziklák árnyéka télen már 15:30 körül eléri a homokos partot, hűvösebbre fordítva az időt.",
+                "ro": "Bucurați-vă de plajă la începutul după-amiezii, deoarece umbra stâncilor ajunge pe nisip deja în jurul orei 15:30 în timpul iernii.",
+                "en": "Enjoy the beach in the early afternoon as the shadow of the cliffs reaches the sandy shore by 3:30 PM in winter, making it cooler."
+              }
+            },
+            {
+              "name": {
+                "de": "Koka",
+                "hu": "Koka",
+                "ro": "Koka",
+                "en": "Koka"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierende Fahrradlichter für die Rückfahrt, da die Dämmerung extrem kurz ist und die Dunkelheit sehr schnell hereinbricht.",
+                "hu": "Ügyelj rá, hogy a bicikli lámpái működjenek a visszaúton, mert a szürkület rendkívül rövid, és a sötétség nagyon gyorsan, hirtelen áll be.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere, deoarece amurgul este extrem de scurt și întunericul se lasă foarte repede.",
+                "en": "Make sure your bike lights are working for the return trip, as dusk is extremely short and darkness sets in very quickly and suddenly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Induljon egy átfogó autós túrára, amely az ikonikus Jézus-szobornál kezdődik, verhetetlen reggeli panorámát kínálva. Vezessen simán a zöldellő dombokon át, megállva a Keli Niranibe és a Keli Lisabeto mellett. A delet az Ili Pelah és az Ili Watumoda zord terepén töltse, mielőtt a homokos partok felé venné az irányt. Délután lazítson a Pantai Beta és a Koka strand türkizkék vizénél. Zárja a napot egy festői autózással az ősi Keli Muda közelében, élvezve a páratlan természeti csodákat.",
         "ro": "Porniți într-un tur cuprinzător cu mașina care începe la statuia iconică a lui Iisus, oferind panorame matinale imbatabile. Conduceți lin prin dealurile luxuriante, oprindu-vă la Keli Niranibe și Keli Lisabeto. Petreceți amiaza minunându-vă de terenurile accidentate ale Ili Pelah și Ili Watumoda înainte de a vă îndrepta spre țărm. Relaxați-vă după-amiaza la Pantai Beta și Koka beach cu apele lor turcoaz. Încheiați cu o plimbare pitorească în apropierea anticului deal Keli Muda.",
         "en": "Embark on a comprehensive driving tour beginning at the iconic Big Jesus statue, offering unbeatable morning panoramas. Drive smoothly through the lush hills, stopping at Keli Niranibe and Keli Lisabeto for incredible photo opportunities. Spend midday marveling at the rugged terrains of Ili Pelah and Ili Watumoda before heading towards the sandy shores. Unwind in the afternoon at Pantai Beta and Koka beach with their turquoise waters. Conclude with a scenic drive near the ancient Keli Muda."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Scheibenwischer arbeiten unermüdlich, während wir trocken und komfortabel durch die verregneten Hügel gleiten. Mittags genießen wir den Blick auf das stürmische Meer aus der sicheren Kabine, während draußen der Monsun peitscht. Am Nachmittag bieten die Aussichtspunkte oft Wolkenlücken für dramatische Fotos der grünen Landschaft. Abends parken wir sicher vor dem hell erleuchteten Restaurant.",
+            "hu": "Az ablaktörlők fáradhatatlanul dolgoznak, miközben mi szárazon és kényelemben suhanunk keresztül az eső áztatta dombokon. Délben a biztonságos utastérből csodáljuk a viharos tenger látványát, miközben odakint tombol a monszun. Délután a kilátópontoknál gyakran nyílik rés a felhők között a drámai tájképekhez. Estére biztonságosan leparkolunk a kivilágított étterem előtt.",
+            "ro": "Ștergătoarele lucrează neobosit în timp ce noi alunecăm uscați și confortabil prin dealurile îmbibate de ploaie. La prânz, admirăm marea agitată din cabina sigură, în timp ce afară monzunul lovește cu putere. După-amiaza, punctele de belvedere oferă adesea ferestre în nori pentru fotografii dramatice. Seara parcăm în siguranță în fața restaurantului luminat.",
+            "en": "The wipers work tirelessly while we glide dry and comfortable through the rain-soaked hills. At noon, we admire the stormy sea from the safe cabin while the monsoon rages outside. In the afternoon, the viewpoints often offer gaps in the clouds for dramatic landscape photos. By evening, we park safely in front of the brightly lit restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Big Jesus statue view point",
+                "hu": "Big Jesus statue view point",
+                "ro": "Big Jesus statue view point",
+                "en": "Big Jesus statue view point"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Grund und nutzen Sie die Klimaanlage im Entfeuchtungsmodus, um das Beschlagen der Scheiben bei der hohen Luftfeuchtigkeit zu verhindern.",
+                "hu": "Parkolj szilárd talajon, és használd a légkondicionálót páramentesítő módban, hogy megakadályozd a szélvédő bepárásodását a magas páratartalom mellett.",
+                "ro": "Parcați pe teren solid și folosiți aerul condiționat în modul de dezumidificare pentru a preveni aburirea parbrizului din cauza umidității ridicate.",
+                "en": "Park on solid ground and use the air conditioning in dehumidifying mode to prevent the windshield from fogging up in the high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Niranibe",
+                "hu": "Keli Niranibe",
+                "ro": "Keli Niranibe",
+                "en": "Keli Niranibe"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie extrem vorsichtig auf den engen Zufahrten, da Starkregen kleine Erdrutsche oder herabfallende Äste auf die Fahrbahn spülen kann.",
+                "hu": "Vezess rendkívül óvatosan a szűk bekötőutakon, mert a heves esőzés kisebb földcsuszamlásokat vagy lehullott ágakat sodorhat az úttestre.",
+                "ro": "Conduceți cu extremă prudență pe drumurile de acces înguste, deoarece ploaia torențială poate aduce mici alunecări de teren sau crengi pe carosabil.",
+                "en": "Drive with extreme caution on narrow access roads, as heavy rain can wash small landslides or fallen branches onto the roadway."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Lisabeto",
+                "hu": "Keli Lisabeto",
+                "ro": "Keli Lisabeto",
+                "en": "Keli Lisabeto"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto etwas unterhalb stehen, wenn der Weg zu schlammig wirkt, und nehmen Sie einen stabilen Regenschirm für das letzte Stück Fußweg mit.",
+                "hu": "Hagyd az autót valamivel lejjebb, ha az út túl sárosnak tűnik, és vigyél magaddal egy stabil esernyőt a gyalogos szakasz utolsó métereire.",
+                "ro": "Lăsați mașina puțin mai jos dacă drumul pare prea noroios și luați o umbrelă stabilă pentru ultima porțiune de mers pe jos.",
+                "en": "Leave the car a bit further down if the path looks too muddy and take a sturdy umbrella for the last few meters of the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Pelah",
+                "hu": "Ili Pelah",
+                "ro": "Ili Pelah",
+                "en": "Ili Pelah"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter steilen Böschungen; der Regen weicht den Boden auf, was die Stabilität der Hänge in Küstennähe beeinträchtigen kann.",
+                "hu": "Kerüld a parkolást meredek rézsűk alatt; az eső feláztatja a talajt, ami gyengítheti a part menti lejtők stabilitását a kilátópontoknál.",
+                "ro": "Evitați parcarea sub taluzuri abrupte; ploaia înmoaie solul, ceea ce poate afecta stabilitatea pantelor din apropierea coastei.",
+                "en": "Avoid parking under steep embankments; the rain softens the soil, which can compromise the stability of slopes near the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Watumoda",
+                "hu": "Ili Watumoda",
+                "ro": "Ili Watumoda",
+                "en": "Ili Watumoda"
+              },
+              "tip_5lang": {
+                "de": "Bei heftigem Regen ist die Sicht vom Parkplatz aus oft am besten; bleiben Sie im Wagen und genießen Sie das Naturschauspiel der Wellen.",
+                "hu": "Heves esőben a kilátás gyakran a parkolóból a legjobb; maradj a kocsiban, és élvezd a hullámok ostromolta természet lenyűgöző látványát.",
+                "ro": "Pe ploaie torențială, vederea este adesea cea mai bună chiar din parcare; rămâneți în mașină și bucurați-vă de spectacolul natural al valurilor.",
+                "en": "In heavy rain, the view is often best right from the parking lot; stay in the car and enjoy the impressive sight of the nature battered by waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Beta",
+                "hu": "Pantai Beta",
+                "ro": "Pantai Beta",
+                "en": "Pantai Beta"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefere Wasserlachen auf der Straße; fahren Sie langsam hindurch, um Aquaplaning und Motorschäden durch Spritzwasser zu vermeiden.",
+                "hu": "Figyelj a mélyebb tócsákra az úton; hajts át rajtuk lassan, hogy elkerüld a vízenfutást (aquaplaning) és a motor víztől való károsodását.",
+                "ro": "Fiți atenți la bălțile adânci de pe drum; treceți prin ele încet pentru a evita acvaplanarea și deteriorarea motorului din cauza apei.",
+                "en": "Watch out for deep puddles on the road; drive through them slowly to avoid aquaplaning and engine damage from water intake."
+              }
+            },
+            {
+              "name": {
+                "de": "Koka beach",
+                "hu": "Koka beach",
+                "ro": "Koka beach",
+                "en": "Koka beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort des Wagens als Umkleidekabine und bewahren Sie Ihre nassen Badesachen in einer wasserdichten Tasche im Kofferraum auf.",
+                "hu": "Használd ki az autó kényelmét átöltözéshez, a vizes fürdőruhákat pedig tárold vízhatlan zsákban a csomagtartóban, hogy ne ázzon el a belső tér.",
+                "ro": "Folosiți confortul mașinii ca cabină de schimb și păstrați costumele de baie ude într-o geantă impermeabilă în portbagaj.",
+                "en": "Take advantage of the car's comfort for changing clothes, and store wet swimwear in a waterproof bag in the trunk to keep the interior dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Muda",
+                "hu": "Keli Muda",
+                "ro": "Keli Muda",
+                "en": "Keli Muda"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Scheinwerfer sauber sind; bei Regen und einsetzender Dunkelheit ist gute Sichtbarkeit für die Rückfahrt essenziell.",
+                "hu": "Győződj meg róla, hogy a fényszórók tiszták; esőben és a leszálló sötétségben a jó láthatóság alapvető fontosságú a biztonságos hazaúthoz.",
+                "ro": "Asigurați-vă că farurile sunt curate; pe ploaie și la lăsarea întunericului, buna vizibilitate este esențială pentru drumul de întoarcere în siguranță.",
+                "en": "Make sure your headlights are clean; in the rain and falling darkness, good visibility is essential for a safe journey back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Klimaanlage bleibt morgens aus, während die milde Winterluft durch die Fenster strömt. Mittags genießen wir die weiten Panoramen, die dank der klaren Sicht im Winter besonders weit reichen. Am Nachmittag taucht die tiefstehende Sonne die Küstenstraße in ein warmes Orange, ideal für entspanntes Cruisen. Da die Nacht um 17:00 Uhr beginnt, kehren wir frühzeitig für einen gemütlichen Abend zurück.",
+            "hu": "A légkondicionáló reggel kikapcsolva maradhat, miközben a lágy téli levegő áramlik be az ablakokon. Délben a tiszta látási viszonyoknak köszönhetően rendkívül távoli panorámákat csodálhatunk meg. Délután az alacsonyan járó nap meleg narancssárga fénybe vonja a parti utat, ami ideális a kényelmes autózáshoz. Mivel az este már 17:00-kor elkezdődik, időben hazatérünk.",
+            "ro": "Aerul condiționat poate rămâne oprit dimineața, în timp ce aerul blând de iarnă pătrunde prin ferestre. La prânz, admirăm panoramele vaste care, datorită vizibilității clare de iarnă, se întind foarte departe. După-amiaza, soarele jos scaldă drumul de coastă într-o lumină portocalie caldă. Deoarece noaptea începe la ora 17:00, ne întoarcem devreme.",
+            "en": "The air conditioning can stay off in the morning as the mild winter air flows through the windows. At noon, we admire the vast panoramas that reach particularly far thanks to the clear winter visibility. In the afternoon, the low sun bathes the coastal road in a warm orange light, ideal for relaxed cruising. Since night begins at 5:00 PM, we return early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Big Jesus statue view point",
+                "hu": "Big Jesus statue view point",
+                "ro": "Big Jesus statue view point",
+                "en": "Big Jesus statue view point"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am frühen Morgen ist perfekt für Fotos ohne Dunst; kommen Sie zeitig, um die klare Sicht auf den Vulkan im Hintergrund voll auszunutzen.",
+                "hu": "A kora reggeli fények tökéletesek a páramentes fotókhoz; érkezz korán, hogy kihasználd a háttérben lévő vulkánra nyíló tiszta, éles kilátást.",
+                "ro": "Lumina de dimineață este perfectă pentru fotografii fără ceață; veniți devreme pentru a profita de vederea clară asupra vulcanului din fundal.",
+                "en": "The early morning light is perfect for haze-free photos; arrive early to take full advantage of the clear, sharp view of the volcano in the background."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Niranibe",
+                "hu": "Keli Niranibe",
+                "ro": "Keli Niranibe",
+                "en": "Keli Niranibe"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter unübertroffen; nehmen Sie sich Zeit für einen längeren Stopp, da die Temperaturen im Schatten der Hügel sehr angenehm sind.",
+                "hu": "A távoli kilátás télen felülmúlhatatlan; szánj időt egy hosszabb megállóra, mivel a dombok árnyékában a hőmérséklet ilyenkor rendkívül kellemes.",
+                "ro": "Vizibilitatea la distanță este de neegalat iarna; acordați-vă timp pentru un popas mai lung, deoarece temperaturile la umbra dealurilor sunt foarte plăcute.",
+                "en": "The long-distance visibility is unsurpassed in winter; take time for a longer stop as the temperatures in the shadows of the hills are very pleasant now."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Lisabeto",
+                "hu": "Keli Lisabeto",
+                "ro": "Keli Lisabeto",
+                "en": "Keli Lisabeto"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Wildtiere, die im Winter in den kühleren Stunden öfter die Straße überqueren; fahren Sie besonders in Waldstücken mit mäßigem Tempo.",
+                "hu": "Figyelj a vadon élő állatokra, amik télen a hűvösebb órákban gyakrabban kelnek át az úton; különösen az erdei szakaszokon vezess mérsékelt tempóban.",
+                "ro": "Fiți atenți la animalele sălbatice care traversează drumul mai des în orele răcoroase de iarnă; conduceți cu viteză moderată, mai ales în zonele împădurite.",
+                "en": "Watch out for wildlife that crosses the road more often during the cooler winter hours; drive at a moderate pace, especially in forested sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Pelah",
+                "hu": "Ili Pelah",
+                "ro": "Ili Pelah",
+                "en": "Ili Pelah"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet wenig Schatten, was im Winter jedoch ein Vorteil ist, da die Sonne nicht mehr so aggressiv brennt wie im Hochsommer.",
+                "hu": "A parkoló kevés árnyékot nyújt, ami télen inkább előny, mivel a nap már nem éget olyan agresszíven, mint a nyári hőség idején.",
+                "ro": "Parcarea oferă puțină umbră, ceea ce iarna este un avantaj, deoarece soarele nu mai arde atât de agresiv ca în timpul verii.",
+                "en": "The parking lot offers little shade, which is an advantage in winter as the sun no longer burns as aggressively as during the peak summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Ili Watumoda",
+                "hu": "Ili Watumoda",
+                "ro": "Ili Watumoda",
+                "en": "Ili Watumoda"
+              },
+              "tip_5lang": {
+                "de": "Die Brise kann hier oben recht frisch sein; lassen Sie eine Jacke im Wagen griffbereit, falls Sie für Fotos kurz aussteigen möchten.",
+                "hu": "A szellő itt fent elég friss lehet; tarts egy dzsekit kéznél az autóban, ha a fotózáshoz ki szeretnél szállni a kocsiból a kilátópontnál.",
+                "ro": "Briza poate fi destul de rece aici sus; păstrați o jachetă la îndemână în mașină în cazul în care doriți să coborâți pentru fotografii.",
+                "en": "The breeze can be quite fresh up here; keep a jacket handy in the car in case you want to step out for photos at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Beta",
+                "hu": "Pantai Beta",
+                "ro": "Pantai Beta",
+                "en": "Pantai Beta"
+              },
+              "tip_5lang": {
+                "de": "Das Meer ist im Winter oft etwas unruhiger; parken Sie weit genug vom Flutsaum entfernt, um Gischt auf dem Lack Ihres Wagens zu vermeiden.",
+                "hu": "A tenger télen gyakran nyugtalanabb; parkolj elég távol a dagályvonaltól, hogy elkerüld a sós permetet az autód fényezésén.",
+                "ro": "Marea este adesea mai agitată iarna; parcați suficient de departe de linia fluxului pentru a evita spray-ul sărat pe vopseaua mașinii.",
+                "en": "The sea is often rougher in winter; park far enough from the tide line to avoid salt spray on your car's paintwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Koka beach",
+                "hu": "Koka beach",
+                "ro": "Koka beach",
+                "en": "Koka beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Strand am frühen Nachmittag; sobald die Sonne tiefer sinkt, wird es im Wind schnell kühl, was den Rückzug ins warme Auto attraktiv macht.",
+                "hu": "Használd ki a strandot kora délután; amint a nap alacsonyabbra kerül, a szélben gyorsan lehűl a levegő, így jól fog esni a fűtött autó kényelme.",
+                "ro": "Profitați de plajă la începutul după-amiezii; de îndată ce soarele coboară, se răcește rapid, făcând retragerea în mașină foarte atractivă.",
+                "en": "Enjoy the beach in the early afternoon; as soon as the sun gets lower, it cools down quickly in the wind, making the warm car very inviting."
+              }
+            },
+            {
+              "name": {
+                "de": "Keli Muda",
+                "hu": "Keli Muda",
+                "ro": "Keli Muda",
+                "en": "Keli Muda"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor 16:45 Uhr, da die Straßenbeleuchtung oft spärlich ist und die Dunkelheit im Winter abrupt und vollständig hereinbricht.",
+                "hu": "Tervezd a visszautat 16:45 elé, mert az utcai világítás gyakran hiányos, és a sötétség télen hirtelen, váratlanul és teljesen áll be.",
+                "ro": "Planificați drumul de întoarcere înainte de 16:45, deoarece iluminatul stradal este adesea deficitar, iar întunericul se lasă brusc iarna.",
+                "en": "Plan your return trip before 4:45 PM as street lighting is often sparse and darkness sets in abruptly and completely in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a lenyűgöző Bazilikánál, majd látogasson el a L'Autre Filature kulturális központba. Ezután figyelje meg a gólyákat az Enclos des Cigognes területén. Délután fedezze fel a sörfőzés hagyományait a Musée de la Brasserie-ben. Zárja a sétát a Musée du Cinéma lenyűgöző filmes kiállításán, mielőtt megvacsorázna a városban.",
         "ro": "Începeți la impresionanta Bazilică, apoi vizitați L'Autre Filature pentru cultura locală. Apoi, observați păsările la Enclos des Cigognes. Petreceți după-amiaza explorând tradițiile berăriei la extinsul Musée de la Brasserie. Încheiați turul la Musée du Cinéma, cufundându-vă în istoria fascinantă a filmului timpuriu.",
         "en": "Start at the breathtaking Basilique, then visit L'Autre Filature for local culture. Next, observe the majestic birds at Enclos des Cigognes. Spend your afternoon exploring regional brewing traditions at the expansive Musée de la Brasserie. Conclude your walking tour at the Musée du Cinéma, immersing yourself in the fascinating history of early filmmaking before an evening meal."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen im Schutz der großen Basilika. Bleiben Sie mittags trocken, während Sie die historische Filature erkunden. Trotzen Sie nachmittags kurz dem Nieselregen bei den Störchen, bevor Sie sich im Brauereimuseum aufwärmen. Beenden Sie den nassen Tag gemütlich im Filmmuseum.",
+            "hu": "Kezdje az esős reggelt a hatalmas Bazilika menedékében. Délben maradjon szárazon a történelmi Filature felfedezése közben. Délután dacoljon a szitáló esővel a gólyáknál, majd melegedjen fel a Sörfőző Múzeumban. Zárja a nedves napot a kényelmes Mozi Múzeumban.",
+            "ro": "Începeți dimineața ploioasă adăpostindu-vă în grandioasa Bazilică. La prânz, rămâneți la loc uscat explorând istorica Filature. După-amiaza, înfruntați scurt burnița la berze, apoi încălziți-vă la Muzeul Berăriei. Încheiați ziua umedă confortabil în Muzeul Cinematografiei.",
+            "en": "Start your rainy morning seeking shelter in the grand Basilica. Around noon, stay dry while exploring the historic Filature. In the afternoon, brave the drizzle briefly for the storks before warming up in the Brewery Museum. End the wet day cozy inside the Cinema Museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilika von Saint-Nicolas",
+                "hu": "Saint-Nicolas Bazilika",
+                "ro": "Bazilica Saint-Nicolas",
+                "en": "Basilica of Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Gewölbe und entfliehen Sie dem Regen; achten Sie auf den rutschigen Steinboden am Eingang.",
+                "hu": "Csodálja meg a gótikus boltozatokat, elmenekülve az eső elől; vigyázzon a csúszós kőpadlóra a bejáratnál.",
+                "ro": "Admirați bolțile gotice scăpând de ploaie; aveți grijă la podeaua de piatră alunecoasă de la intrare.",
+                "en": "Admire the soaring Gothic vaults while escaping the rain; carefully step on the damp, slippery stone floors at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Autre Filature",
+                "hu": "L'Autre Filature",
+                "ro": "L'Autre Filature",
+                "en": "L'Autre Filature"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das reiche textile Erbe in diesem trockenen Innenraum; lassen Sie Ihre nassen Regenschirme an der Garderobe.",
+                "hu": "Fedezze fel a gazdag textilipari örökséget ebben a száraz belső térben; hagyja a vizes esernyőket a ruhatárban.",
+                "ro": "Descoperiți bogata moștenire textilă în acest spațiu interior uscat; lăsați umbrelele umede la garderobă.",
+                "en": "Discover the rich textile heritage in this dry indoor space; leave your wet umbrellas at the cloakroom before exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Storchengehege",
+                "hu": "Gólyarezervátum",
+                "ro": "Țarcul Berzelor",
+                "en": "Stork Enclosure"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die widerstandsfähigen Vögel; bringen Sie einen stabilen Regenschirm mit, da dieser Bereich komplett im Freien liegt.",
+                "hu": "Figyelje meg az ellenálló madarakat; hozzon magával strapabíró esernyőt, mivel ez a terület teljesen nyitott.",
+                "ro": "Priviți păsările rezistente înfruntând ploaia; aduceți o umbrelă robustă, deoarece această zonă este în aer liber.",
+                "en": "Watch the resilient birds brave the rain; bring a sturdy umbrella as this viewing area is entirely outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Französisches Brauereimuseum",
+                "hu": "Francia Sörfőző Múzeum",
+                "ro": "Muzeul Berăriei Franceze",
+                "en": "French Brewery Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historischen Brauhallen, während es draußen regnet; perfekt, um sich die kalten Hände aufzuwärmen.",
+                "hu": "Élvezze a történelmi sörfőző termeket, miközben kint esik; tökéletes hely a hideg kezek felmelegítésére.",
+                "ro": "Bucurați-vă de sălile istorice de bere în timp ce plouă afară; un loc perfect pentru a vă încălzi mâinile reci.",
+                "en": "Enjoy the historic brewing halls while the rain falls outside; a perfect indoor spot for warming up your cold hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Filmmuseum",
+                "hu": "Mozi Múzeum",
+                "ro": "Muzeul Cinematografiei",
+                "en": "Cinema Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Tag in der Filmgeschichte; die warmen, gemütlichen Räume sind ein idealer Zufluchtsort vor dem Regenguss.",
+                "hu": "Zárja a nedves napot a filmtörténetben; a meleg, hívogató kiállítások ideális menedéket nyújtanak a felhőszakadás elől.",
+                "ro": "Încheiați ziua umedă în istoria filmului; expozițiile calde sunt un refugiu ideal din calea averselor.",
+                "en": "End your wet day immersed in movie history; the warm, dimly lit exhibits are an ideal refuge from the downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen in der Basilika. Wärmen Sie sich mittags drinnen in der Filature auf. Fangen Sie nachmittags das Licht bei den Störchen ein, bevor Sie ins beheizte Brauereimuseum flüchten. Beenden Sie den kalten Spaziergang vor Einbruch der Dunkelheit im Filmmuseum.",
+            "hu": "Kezdje a csípős téli reggelt a Bazilika építészetének csodálatával. Délben melegedjen fel a Filature épületében. Délután még naplemente előtt nézze meg a gólyákat, majd húzódjon be a fűtött Sörfőző Múzeumba. Zárja a sétát korán a Mozi Múzeumban.",
+            "ro": "Începeți dimineața de iarnă admirând Bazilica. La prânz, încălziți-vă în interior la Filature. După-amiaza, vedeți berzele înainte de apus, apoi retrageți-vă la Muzeul Berăriei, care este încălzit. Încheiați plimbarea devreme la Muzeul Cinematografiei.",
+            "en": "Begin your crisp winter morning marveling at the Basilica's architecture. By midday, warm up indoors at the Filature. In the afternoon, catch the storks before the early sunset, then retreat to the heated Brewery Museum. Conclude your chilly walk early at the Cinema Museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilika von Saint-Nicolas",
+                "hu": "Saint-Nicolas Bazilika",
+                "ro": "Bazilica Saint-Nicolas",
+                "en": "Basilica of Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im Winterlicht; ziehen Sie sich warm an, da das riesige Steinschiff recht kühl sein kann.",
+                "hu": "Csodálja meg a téli fényben fürdő ólomüveg ablakokat; öltözzön melegen, mert a hatalmas kőhajó eléggé hűvös lehet.",
+                "ro": "Admirați vitraliile în lumina de iarnă; îmbrăcați-vă gros, deoarece naosul vast de piatră poate fi destul de rece.",
+                "en": "Marvel at the stained glass lighting up the winter gloom; bundle up, as the vast stone nave can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Autre Filature",
+                "hu": "L'Autre Filature",
+                "ro": "L'Autre Filature",
+                "en": "L'Autre Filature"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie in diesem beheizten Ort etwas über das traditionelle Weben; hier können Sie Ihre schweren Mäntel aufknöpfen.",
+                "hu": "Ismerkedjen meg a hagyományos szövéssel ezen a fűtött helyszínen; itt végre kigombolhatja a vastag télikabátot.",
+                "ro": "Învățați despre țesutul tradițional în acest loc încălzit; puteți deschide paltoanele grele în timp ce explorați.",
+                "en": "Learn about traditional weaving in this heated venue; unbutton your heavy winter coats while exploring the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Storchengehege",
+                "hu": "Gólyarezervátum",
+                "ro": "Țarcul Berzelor",
+                "en": "Stork Enclosure"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die überwinternden Störche vor der frühen Dämmerung; kleiden Sie sich in warme Schichten gegen den Wind.",
+                "hu": "Figyelje meg a telelő gólyákat még a korai sötétedés előtt; öltözzön rétegesen a metsző szél ellen.",
+                "ro": "Observați berzele care iernează înainte de lăsarea întunericului; purtați straturi calde pentru a contracara vântul tăios.",
+                "en": "Observe the wintering storks before the early dusk sets in; dress in warm layers to counter the biting wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Französisches Brauereimuseum",
+                "hu": "Francia Sörfőző Múzeum",
+                "ro": "Muzeul Berăriei Franceze",
+                "en": "French Brewery Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Braukunst in gemütlicher Atmosphäre; die Kupferkessel sehen im tiefen Winterlicht wunderschön aus.",
+                "hu": "Fedezze fel a sörfőzés művészetét hangulatos légkörben; a rézüstök csodálatosan mutatnak a lapos téli fényben.",
+                "ro": "Descoperiți arta berăriei într-o atmosferă confortabilă; cuvele de cupru arată minunat în lumina scăzută de iarnă.",
+                "en": "Discover the art of brewing in a cozy atmosphere; the historic copper vats look beautiful in the low winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Filmmuseum",
+                "hu": "Mozi Múzeum",
+                "ro": "Muzeul Cinematografiei",
+                "en": "Cinema Museum"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der Kälte in die Magie des frühen Kinos; ein perfekter Zufluchtsort, wenn es draußen früh dunkel wird.",
+                "hu": "Lépjen be a hidegből a korai mozi varázslatába; tökéletes menedék, amikor kint már korán sötétedik.",
+                "ro": "Ieșiți din frig și intrați în magia cinematografiei timpurii; o evadare interioară perfectă înainte de căderea nopții.",
+                "en": "Step out of the cold and into the magic of early cinema; a perfect indoor escape as the winter night falls outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdjen az Église Saint-Gorgon templomnál, majd kerekezzen a fenséges Bazilikához. Érintse a L'Autre Filature-t, majd tekerjen a Musée de la Brasserie-hez. Folytassa útját a Musée du Cinéma történelmi gyűjteményéhez. Zárja a kerékpáros útvonalat a modern Église du Christ-Roi templomnál, és élvezze a város békés esti hangulatát.",
         "ro": "Începeți la Église Saint-Gorgon înainte de a pedala spre maiestuoasa Bazilică. Bucurați-vă de o oprire la L'Autre Filature, apoi mergeți la Musée de la Brasserie. Continuați spre Musée du Cinéma pentru istoria filmului de epocă. Terminați traseul cu bicicleta la moderna Église du Christ-Roi, admirând atmosfera de seară.",
         "en": "Begin at Église Saint-Gorgon before cycling to the majestic Basilique. Enjoy a cultural stop at L'Autre Filature, then pedal to the Musée de la Brasserie. Continue to the Musée du Cinéma for a dive into vintage film history. Finish your scenic cycling route at the modern Église du Christ-Roi, taking in the peaceful and quiet evening atmosphere of the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre nasse Radtour an der Saint-Gorgon-Kirche. Radeln Sie mittags vorsichtig zur Basilika und zur Filature. Weichen Sie nachmittags den Pfützen auf dem Weg zu den Museen aus. Beenden Sie Ihre regnerische Fahrt an der Christkönigskirche.",
+            "hu": "Kezdje a nedves biciklitúrát a Saint-Gorgon-templomnál. Délben óvatosan tekerjen a Bazilikához és a fűtött Filature-höz. Délután kerülgesse a tócsákat a múzeumok felé tartva. Fejezze be az esős utat a Krisztus Király-templomnál.",
+            "ro": "Începeți traseul umed cu bicicleta la Biserica Saint-Gorgon. La prânz, pedalați cu grijă spre Bazilică și Filature. După-amiaza, ocoliți bălțile spre muzee. Terminați cursa ploioasă la Biserica Hristos Regele.",
+            "en": "Start your wet cycling trip at the quiet Saint-Gorgon Church. By noon, pedal carefully to the Basilica and the indoor Filature. In the afternoon, dodge the puddles on your way to the Brewery and Cinema museums. Finish your rainy ride at Christ the King Church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Gorgon-Kirche",
+                "hu": "Saint-Gorgon-templom",
+                "ro": "Biserica Saint-Gorgon",
+                "en": "Saint-Gorgon Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser Kirche Schutz vor den morgendlichen Schauern; achten Sie auf rutschiges Kopfsteinpflaster beim Parken.",
+                "hu": "Keressen menedéket a reggeli záporok elől ebben a templomban; vigyázzon a csúszós macskakövekre parkoláskor.",
+                "ro": "Refugiați-vă de ploile matinale în această biserică; feriți-vă de pietrele cubice alunecoase când parcați bicicleta.",
+                "en": "Take refuge from the morning showers in this peaceful church; beware of slippery cobblestones when parking your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Saint-Nicolas",
+                "hu": "Saint-Nicolas Bazilika",
+                "ro": "Bazilica Saint-Nicolas",
+                "en": "Basilica of Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Das riesige Kirchenschiff bietet eine großartige, trockene Flucht vor dem Regen; wischen Sie Ihren Sattel ab, bevor Sie weiterfahren.",
+                "hu": "A hatalmas hajó nagyszerű, száraz menedéket nyújt az eső elől; indulás előtt törölje szárazra a kerékpár nyergét.",
+                "ro": "Naosul imens oferă o evadare magnifică și uscată din calea ploii; ștergeți șaua bicicletei înainte de a continua.",
+                "en": "The immense nave offers a magnificent dry escape from the rain; wipe your bike seat dry before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Autre Filature",
+                "hu": "L'Autre Filature",
+                "ro": "L'Autre Filature",
+                "en": "L'Autre Filature"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierenden Textilmaschinen drinnen; ein toller Ort, um Ihre Regenjacke zu trocknen.",
+                "hu": "Fedezze fel a lenyűgöző textilipari gépeket bent; remek hely arra, hogy megszáradjon az esőkabátja.",
+                "ro": "Explorați mașinile textile fascinante în interior; un loc minunat pentru a vă usca jacheta de ploaie.",
+                "en": "Explore the fascinating textile machinery indoors; a great place to dry your rain jacket before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Französisches Brauereimuseum",
+                "hu": "Francia Sörfőző Múzeum",
+                "ro": "Muzeul Berăriei Franceze",
+                "en": "French Brewery Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der historischen Brauerei auf, während es regnet; achten Sie auf glatte Stellen im Innenhof.",
+                "hu": "Melegedjen fel a történelmi sörfőzdében, miközben kint szakad az eső; ügyeljen a síkos foltokra az udvaron.",
+                "ro": "Încălziți-vă în această berărie istorică în timp ce plouă; aveți grijă la locurile alunecoase din curte.",
+                "en": "Warm up inside this historic brewery while the rain pours; watch out for slick spots in the outdoor courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Filmmuseum",
+                "hu": "Mozi Múzeum",
+                "ro": "Muzeul Cinematografiei",
+                "en": "Cinema Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie fernab vom Nieselregen in die Filmgeschichte ein; die spannenden Exponate lassen Sie das schlechte Wetter vergessen.",
+                "hu": "Merüljön el a filmtörténetben távol a szitáló esőtől; a lenyűgöző kiállítások gyorsan feledtetik a rossz időt.",
+                "ro": "Pătrundeți în istoria filmului departe de burniță; expozițiile captivante vă vor face să uitați de vremea rea.",
+                "en": "Dive into film history away from the drizzle; the engaging exhibits will quickly make you forget the bad cycling weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Christkönigskirche",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Hristos Regele",
+                "en": "Church of Christ the King"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Fahrt und bewundern Sie die moderne Architektur; bremsen Sie vorsichtig auf den nassen Straßen dorthin.",
+                "hu": "Zárja esős túráját a modern építészet csodálatával; fékezzen óvatosan a templomhoz vezető nedves utakon.",
+                "ro": "Încheiați cursa ploioasă admirând arhitectura modernă; frânați cu grijă pe drumurile umede spre biserică.",
+                "en": "End your rainy ride admiring the modern architecture; brake carefully on the wet, slippery roads approaching the church."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre frostige Radtour an der Saint-Gorgon-Kirche. Mittags locken die Basilika und die beheizte Filature. Das nachmittägliche Radeln hält Sie warm auf dem Weg zu den Museen. Schließen Sie an der Christkönigskirche vor dem frühen Sonnenuntergang ab.",
+            "hu": "Kezdje a fagyos bringatúrát a Saint-Gorgon-templomnál. Délben a Bazilika és a fűtött Filature várja. A délutáni tekerés melegen tartja a múzeumok felé. Fejezze be a túrát a Krisztus Király-templomnál, még a korai naplemente előtt.",
+            "ro": "Începeți cursa geroasă la Biserica Saint-Gorgon. La prânz vă așteaptă Bazilica și Filature încălzită. Pedalatul de după-amiază vă ține de cald spre muzee. Încheiați la Biserica Hristos Regele înainte de apusul timpuriu.",
+            "en": "Kick off your frosty bike ride at Saint-Gorgon Church. Midday brings you to the grand Basilica and the heated Filature. Afternoon pedaling keeps you warm as you visit the Brewery and Cinema museums. Conclude at Christ the King Church before the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Gorgon-Kirche",
+                "hu": "Saint-Gorgon-templom",
+                "ro": "Biserica Saint-Gorgon",
+                "en": "Saint-Gorgon Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Winterstimmung; tragen Sie Thermohandschuhe, da der Lenker eiskalt sein wird.",
+                "hu": "Élvezze a békés téli hangulatot; viseljen termo kesztyűt, mert a kerékpár kormánya jéghideg lesz.",
+                "ro": "Bucurați-vă de ambianța liniștită de iarnă; purtați mănuși termice, deoarece ghidonul va fi înghețat.",
+                "en": "Enjoy the peaceful winter morning ambiance; wear thermal gloves as the bike handlebars will be absolutely freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Saint-Nicolas",
+                "hu": "Saint-Nicolas Bazilika",
+                "ro": "Bazilica Saint-Nicolas",
+                "en": "Basilica of Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur ist atemberaubend gegen einen grauen Winterhimmel; treten Sie ein, um dem eisigen Fahrtwind zu entkommen.",
+                "hu": "A fenséges építészet lenyűgöző a szürke téli égbolt előtt; lépjen be, hogy elmeneküljön a metsző menetszél elől.",
+                "ro": "Arhitectura maiestuoasă este uimitoare pe cerul gri de iarnă; intrați pentru a scăpa de vântul tăios.",
+                "en": "The majestic architecture is stunning against a gray winter sky; step quickly inside to escape the biting cycling wind."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Autre Filature",
+                "hu": "L'Autre Filature",
+                "ro": "L'Autre Filature",
+                "en": "L'Autre Filature"
+              },
+              "tip_5lang": {
+                "de": "Eine willkommene beheizte Pause auf Ihrer Radroute; entdecken Sie lokale Geschichte, während Ihre Zehen auftauen.",
+                "hu": "Szívesen látott fűtött pihenő a kerékpáros útvonalon; fedezze fel a helyi történelmet, miközben felengednek a lábujjai.",
+                "ro": "O pauză încălzită binevenită pe traseul dvs. de ciclism; descoperiți istoria locală în timp ce vă dezghețați degetele.",
+                "en": "A welcome heated break on your cycling route; discover local textile history while slowly thawing your freezing toes."
+              }
+            },
+            {
+              "name": {
+                "de": "Französisches Brauereimuseum",
+                "hu": "Francia Sörfőző Múzeum",
+                "ro": "Muzeul Berăriei Franceze",
+                "en": "French Brewery Museum"
+              },
+              "tip_5lang": {
+                "de": "Das gemütliche Innere ist perfekt nach einer kalten Fahrt; ziehen Sie Ihre Mütze und den Schal drinnen einfach ab.",
+                "hu": "A hangulatos belső tér tökéletes egy hideg utazás után; bent nyugodtan vegye le a sapkát és a sálat.",
+                "ro": "Interiorul confortabil este perfect după o cursă rece; dați-vă jos căciula și fularul cât timp sunteți înăuntru.",
+                "en": "The cozy interior is perfect after a cold ride; you can finally take off your winter hat and scarf while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Filmmuseum",
+                "hu": "Mozi Múzeum",
+                "ro": "Muzeul Cinematografiei",
+                "en": "Cinema Museum"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Glanz alter Projektoren in diesem warmen Zufluchtsort; behalten Sie das früh schwindende Licht im Auge.",
+                "hu": "Tapasztalja meg a régi vetítők fényét ebben a meleg menedékben; tartsa szemmel a korán halványuló délutáni fényt.",
+                "ro": "Experimentați strălucirea proiectoarelor de epocă în acest refugiu cald; fiți atenți la lumina care scade devreme.",
+                "en": "Experience the glow of vintage projectors in this warm refuge; keep an eye on the early fading light outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Christkönigskirche",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Hristos Regele",
+                "en": "Church of Christ the King"
+              },
+              "tip_5lang": {
+                "de": "Ein markanter letzter Halt in der klaren Abendluft; stellen Sie sicher, dass Ihre Fahrradlichter für die Heimfahrt im Dunkeln funktionieren.",
+                "hu": "Feltűnő utolsó állomás a csípős esti levegőben; ellenőrizze, hogy működnek-e a kerékpárlámpák a sötét hazavezető úthoz.",
+                "ro": "O oprire finală uimitoare în aerul curat al serii; asigurați-vă că luminile bicicletei funcționează pentru drumul spre casă.",
+                "en": "A striking final stop in the crisp evening air; ensure your bike lights are fully working for the dark ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Látogasson el autóval az Église du Christ-Roi templomhoz, majd a Musée du Cinéma kiállításához. Fedezze fel a Musée Français de la Brasserie-t, és nézze meg a gólyákat. Délután csodálja meg az impozáns Basilique de Saint-Nicolas épületét. Zárja a napot egy felejthetetlen ereszkedéssel a lenyűgöző és aktív Mine de Varangéville sóbányába.",
         "ro": "Conduceți la Église du Christ-Roi, urmată de exponatele de la Musée du Cinéma. Explorați Musée Français de la Brasserie și admirați berzele de la Enclos des Cigognes. Vizitați impunătoarea Basilique de Saint-Nicolas după-amiaza. Încheiați excursia cu o coborâre de neuitat în salina activă Mine de Varangéville.",
         "en": "Drive first to the striking Église du Christ-Roi, followed by the vintage exhibits at Musée du Cinéma. Next, explore the grand Musée Français de la Brasserie and briefly admire the storks at Enclos des Cigognes. Visit the imposing Basilique de Saint-Nicolas in the afternoon. Conclude your day trip with an unforgettable descent into the active Mine de Varangéville."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt an der Christkönigskirche. Verbringen Sie einen trockenen Mittag im Film- und Brauereimuseum. Nutzen Sie nachmittags kurz den Regenschirm bei den Störchen und der Basilika. Enden Sie sicher vor dem Sturm tief in der Mine von Varangéville.",
+            "hu": "Kezdje az esős autózást a Krisztus Király-templomnál. Töltsön egy száraz delet a Mozi- és Sörfőző Múzeumokban. Délután csak rövid időre kelljen az esernyő a gólyáknál és a Bazilikánál. Zárja a napot a vihartól védve a Varangéville-i bányában.",
+            "ro": "Începeți traseul auto ploios la Biserica Hristos Regele. Petreceți un prânz uscat în muzeele Cinematografiei și Berăriei. După-amiaza, folosiți scurt umbrela la berze și la Bazilică. Terminați la adăpost de furtună în Mina Varangéville.",
+            "en": "Begin your rainy drive at the striking Church of Christ the King. Spend a dry midday exploring the Cinema and Brewery museums. In the afternoon, briefly use your umbrella for the storks and the Basilica. Finish safely away from the storm down in the Varangéville Mine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Christkönigskirche",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Hristos Regele",
+                "en": "Church of Christ the King"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Betonstruktur, die Sie vor dem Regen schützt; das Parken in der Nähe macht den Zugang schnell und trocken.",
+                "hu": "Csodálja meg a betonépületet, amely megvédi az esőtől; a közeli parkolás miatt a bejutás gyors és száraz.",
+                "ro": "Admirați structura de beton care vă protejează de ploaie; parcarea adiacentă face accesul rapid și uscat.",
+                "en": "Admire the concrete structure shielding you from the rain; the adjacent parking makes access quick and mostly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Filmmuseum",
+                "hu": "Mozi Múzeum",
+                "ro": "Muzeul Cinematografiei",
+                "en": "Cinema Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine fantastische Indoor-Attraktion, um dem Regenguss zu entkommen; parken Sie nah und tauchen Sie in die Filmwelt ein.",
+                "hu": "Fantasztikus benti látványosság a felhőszakadás elkerülésére; parkoljon közel, és merüljön el a filmek világában.",
+                "ro": "O atracție interioară fantastică pentru a scăpa de ploaie; parcați aproape și pătrundeți în lumea filmului.",
+                "en": "A fantastic indoor attraction to escape the heavy downpour; park close by and dive straight into the fascinating world of movies."
+              }
+            },
+            {
+              "name": {
+                "de": "Französisches Brauereimuseum",
+                "hu": "Francia Sörfőző Múzeum",
+                "ro": "Muzeul Berăriei Franceze",
+                "en": "French Brewery Museum"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die historischen Brauanlagen und lauschen Sie dem Regen; ein sehr empfehlenswerter Rückzugsort im Trockenen.",
+                "hu": "Nézze meg a történelmi sörfőző berendezéseket, miközben hallgatja az esőt; melegen ajánlott száraz menedék.",
+                "ro": "Vizitați echipamentele istorice de berărie în timp ce ascultați ploaia; o retragere interioară foarte recomandată.",
+                "en": "Tour the historic brewing equipment while listening to the rain fall on the roof; a highly recommended indoor retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Storchengehege",
+                "hu": "Gólyarezervátum",
+                "ro": "Țarcul Berzelor",
+                "en": "Stork Enclosure"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Störche im Sturm; halten Sie Ihren Regenschirm bereit, da Sie aus dem Auto aussteigen müssen.",
+                "hu": "Nézze meg, hogyan vészelik át a gólyák a vihart; készítse elő az esernyőjét, mert ehhez ki kell szállnia az autóból.",
+                "ro": "Urmăriți berzele înfruntând furtuna; pregătiți umbrela, deoarece va trebui să ieșiți din mașină.",
+                "en": "Watch the storks weathering the wet conditions; have your umbrella ready as you'll definitely need to step out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Saint-Nicolas",
+                "hu": "Saint-Nicolas Bazilika",
+                "ro": "Bazilica Saint-Nicolas",
+                "en": "Basilica of Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Das imposante Innere bietet großen Schutz; fahren Sie vorsichtig, da die historischen Straßen sehr rutschig werden.",
+                "hu": "Az impozáns belső tér nagyszerű menedéket nyújt; vezessen óvatosan, mert a történelmi utcák nagyon csúszóssá válnak.",
+                "ro": "Interiorul impunător oferă un adăpost grandios; conduceți cu grijă, deoarece străzile istorice devin foarte alunecoase.",
+                "en": "The imposing interior provides grand shelter; drive carefully as the surrounding historic cobblestone streets get quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergwerk Varangéville",
+                "hu": "Varangéville-i bánya",
+                "ro": "Mina Varangéville",
+                "en": "Varangéville Mine"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag tief unter der Erde, geschützt vor dem Wetter; das unterirdische Klima bleibt vom Regen unberührt.",
+                "hu": "Zárja a napot a mélyben, teljesen védve az időjárástól; a föld alatti klímát nem befolyásolja a kinti esőzés.",
+                "ro": "Încheiați ziua adânc sub pământ, complet protejați de vreme; climatul subteran nu este afectat de ploaia de afară.",
+                "en": "Conclude your day deep underground, completely protected from the weather; the subterranean climate is unaffected by rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Winter-Roadtrip an der modernen Christkönigskirche. Genießen Sie mittags die beheizten Film- und Brauereimuseen. Fangen Sie das Nachmittagslicht bei den Störchen und der Basilika ein. Beenden Sie den kalten Tag bei den stabilen Temperaturen der Mine von Varangéville.",
+            "hu": "Kezdje a téli autós túrát a modern Krisztus Király-templomnál. Délben élvezze a fűtött Mozi- és Sörfőző Múzeumokat. Kapja el a délutáni fényeket a gólyáknál és a Bazilikánál. Zárja a hűvös napot a Varangéville-i bánya állandó hőmérsékletén.",
+            "ro": "Începeți excursia de iarnă la moderna Biserică Hristos Regele. La prânz, bucurați-vă de muzeele încălzite ale Cinematografiei și Berăriei. Prindeți lumina de după-amiază la berze și Bazilică. Încheiați ziua rece explorând temperaturile stabile din Mina Varangéville.",
+            "en": "Start your winter road trip at the modern Church of Christ the King. By noon, enjoy the heated Cinema and Brewery museums. Catch the afternoon light at the Stork Enclosure and the Basilica. End your chilly day exploring the stable temperatures of the Varangéville Mine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Christkönigskirche",
+                "hu": "Krisztus Király-templom",
+                "ro": "Biserica Hristos Regele",
+                "en": "Church of Christ the King"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt das einzigartige Design der Kirche hervor; lassen Sie die Autoheizung zwischen den Stopps laufen.",
+                "hu": "A téli fény kiemeli a templom egyedi dizájnját; az állomások között járassa az autó fűtését, hogy melegen maradjon.",
+                "ro": "Lumina de iarnă evidențiază designul unic al bisericii; lăsați încălzirea mașinii să funcționeze între opriri.",
+                "en": "The stark winter light highlights the church's unique design; keep the car heater running between stops to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Filmmuseum",
+                "hu": "Mozi Múzeum",
+                "ro": "Muzeul Cinematografiei",
+                "en": "Cinema Museum"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um sich aufzuwärmen und die Vintage-Filmsammlungen zu genießen; eine ideale Aktivität für den kalten Morgen.",
+                "hu": "Lépjen be, melegedjen fel és élvezze a vintage filmgyűjteményeket; ideális benti program a hideg délelőttre.",
+                "ro": "Intrați pentru a vă încălzi și a vă bucura de colecțiile de filme de epocă; o activitate interioară ideală dimineața.",
+                "en": "Step inside to warm up and enjoy the vintage film collections; an ideal indoor morning activity during the frosty months."
+              }
+            },
+            {
+              "name": {
+                "de": "Französisches Brauereimuseum",
+                "hu": "Francia Sörfőző Múzeum",
+                "ro": "Muzeul Berăriei Franceze",
+                "en": "French Brewery Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das lokale Erbe in diesem komfortablen, beheizten Raum; der perfekte Ort, um der Mittagskälte zu entgehen.",
+                "hu": "Fedezze fel a helyi örökséget ebben a kényelmes, fűtött térben; a tökéletes hely a déli hideg elkerülésére.",
+                "ro": "Descoperiți moștenirea locală în acest spațiu confortabil și încălzit; locul perfect pentru a evita frigul amiezii.",
+                "en": "Discover local heritage in this comfortable, heated space; the absolute perfect spot to avoid the biting midday cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Storchengehege",
+                "hu": "Gólyarezervátum",
+                "ro": "Țarcul Berzelor",
+                "en": "Stork Enclosure"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die überwinternden Vögel in ihrem frostigen Lebensraum; packen Sie sich warm ein, da der Wind hier sehr scharf sein kann.",
+                "hu": "Nézze meg a telelő madarakat zord élőhelyükön; öltözzön be jó melegen, mielőtt kiszállna, mert a szél itt nagyon éles lehet.",
+                "ro": "Vedeți păsările iernând în habitatul lor înghețat; înfofoliți-vă bine, deoarece vântul aici poate fi foarte tăios.",
+                "en": "See the wintering birds in their frosty habitat; wrap up warmly before stepping out as the wind here can be very sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika von Saint-Nicolas",
+                "hu": "Saint-Nicolas Bazilika",
+                "ro": "Bazilica Saint-Nicolas",
+                "en": "Basilica of Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die Glasfenster leuchten wunderschön im Winternachmittag; achten Sie auf eisige Stellen in der Nähe des Eingangs.",
+                "hu": "Az ólomüveg csodálatosan ragyog a téli délutánban; vigyázzon a bejárat körüli esetleges jeges foltokra.",
+                "ro": "Vitraliile strălucesc minunat în după-amiaza de iarnă; aveți grijă la peticele de gheață din apropierea intrării.",
+                "en": "The magnificent stained glass glows beautifully in the winter afternoon; watch out for icy patches near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergwerk Varangéville",
+                "hu": "Varangéville-i bánya",
+                "ro": "Mina Varangéville",
+                "en": "Varangéville Mine"
+              },
+              "tip_5lang": {
+                "de": "Ein faszinierender letzter Halt mit konstanter Temperatur; eine großartige Möglichkeit, der frostigen Abendluft zu entkommen.",
+                "hu": "Lenyűgöző utolsó állomás állandó föld alatti hőmérséklettel; kiváló módja annak, hogy elmeneküljön a fagyos esti levegő elől.",
+                "ro": "O oprire finală fascinantă, cu o temperatură subterană constantă; o modalitate excelentă de a scăpa de aerul înghețat al serii.",
+                "en": "A fascinating final stop with a constant underground temperature; a great way to escape the freezing evening air outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

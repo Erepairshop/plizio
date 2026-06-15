@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a városközpont helyi történelmének felfedezésével a bájos Église Saint-Roch templomnál. \n Délben kényeztesse magát a Les Thermes gyógyvizével, mielőtt visszautazna az időben a Château de Montrond romjainál. \n Délután váltson a modern szórakozásra a Casino JOA meglátogatásával. \n Aktív napját egy hosszú, de megéri nyugati sétával zárja a békés Château de Sourcieux megcsodálásához.",
         "ro": "Începeți dimineața cu istoria locală explorând biserica Église Saint-Roch din centrul orașului. \n La prânz, răsfățați-vă cu apele curative de la Les Thermes, înainte de a face un pas înapoi în timp la Château de Montrond. \n După-amiaza, treceți la divertismentul modern de la Casino JOA. \n Încheiați ziua activă cu o plimbare lungă și relaxantă spre vest, pentru a admira frumusețea liniștită a Château de Sourcieux.",
         "en": "Start your morning immersed in local history near the city center, exploring the quaint Église Saint-Roch. \n By midday, treat yourself to the restorative waters of Les Thermes before stepping back in time at the medieval Château de Montrond. \n In the afternoon, shift gears to modern entertainment at the Casino JOA. \n Conclude your active day with a long, rewarding stroll westward to admire the tranquil beauty of Château de Sourcieux."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in der Église Saint-Roch und flüchten Sie dann in die Thermalbäder. Am Nachmittag erkunden Sie die feuchten, stimmungsvollen Ruinen des Château de Montrond mit einem Regenschirm, bevor Sie sich im trockenen Casino aufwärmen. Beenden Sie Ihren nassen Abendspaziergang am Château de Sourcieux; tragen Sie wasserfeste Schuhe für die nassen Wege.",
+            "hu": "Kezdje a reggelt az Église Saint-Roch menedékében, majd meneküljön az eső elől a termálfürdőbe. Délután esernyővel fedezze fel a Château de Montrond komor romjait, utána pedig melegedjen fel a kaszinó száraz termeiben. Az esős esti sétát a Château de Sourcieux-nál fejezze be; viseljen vízálló cipőt, és élvezze a drámai szürke fellegek nyújtotta különleges hangulatot.",
+            "ro": "Începeți dimineața la adăpost în Église Saint-Roch, apoi refugiați-vă de ploaie la băile termale. După-amiaza, explorați ruinele umede de la Château de Montrond cu o umbrelă, urmate de o retragere uscată la cazinou. Încheiați plimbarea de seară la Château de Sourcieux; purtați încălțăminte impermeabilă și bucurați-vă de atmosfera dramatică a cerului înnorat de deasupra castelului.",
+            "en": "Start your morning seeking shelter in the beautiful Église Saint-Roch, then head to the thermal baths to escape the downpour. In the afternoon, brave the rain with an umbrella to explore the moody ruins of Château de Montrond, followed by a dry retreat at the casino. Conclude your wet evening walk at Château de Sourcieux; wear waterproof boots and embrace the dramatic grey skies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Roch",
+                "hu": "Église Saint-Roch",
+                "ro": "Église Saint-Roch",
+                "en": "Église Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im trockenen, friedlichen Inneren dieser Kirche. Achten Sie beim Verlassen auf das rutschige, nasse Pflaster draußen.",
+                "hu": "Keresse a menedéket a templom száraz, békés belső terében. Kifelé jövet nagyon ügyeljen a csúszós, nedves kövezetre a bejárat körül.",
+                "ro": "Găsiți adăpost în interiorul uscat și liniștit al bisericii. Fiți atenți la pavajul umed și foarte alunecos de afară la ieșire.",
+                "en": "Seek shelter in the dry, peaceful interior of this charming church. Watch your step on the slippery wet pavement outside when leaving."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Thermes de Montrond",
+                "hu": "Les Thermes de Montrond",
+                "ro": "Les Thermes de Montrond",
+                "en": "Les Thermes de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Der beste Rückzugsort an Regentagen. Entspannen Sie in den warmen Thermalbecken drinnen, während der Regen gegen die Fenster prasselt.",
+                "hu": "A tökéletes menedék esős napokon. Pihenjen a gőzölgő beltéri termálmedencékben, miközben hallgatja, ahogy az eső veri az ablakokat.",
+                "ro": "Evadarea perfectă pentru o zi ploioasă. Relaxați-vă în piscinele termale interioare în timp ce ascultați ploaia bătând în ferestre.",
+                "en": "The absolute best rainy day escape. Relax in the steaming indoor thermal pools while listening to the rain beat against the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen mit Regenschirm. Die nassen Steine schaffen eine dramatische Atmosphäre, aber tragen Sie rutschfeste Schuhe.",
+                "hu": "Fedezze fel a történelmi romokat esernyővel! A vizes kövek drámai hangulatot árasztanak, de mindenképpen csúszásmentes cipőt viseljen.",
+                "ro": "Explorați ruinele istorice sub umbrelă. Pietrele umede creează o atmosferă dramatică, dar asigurați-vă că purtați pantofi anti-alunecare.",
+                "en": "Explore the historic ruins under an umbrella. The wet stones create a moody, dramatic atmosphere, but make sure to wear non-slip shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino JOA de Montrond",
+                "hu": "Casino JOA de Montrond",
+                "ro": "Casino JOA de Montrond",
+                "en": "Casino JOA de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz im lebhaften Casino. Eine tolle trockene Alternative, um starke Schauer bei Spielen oder einem Drink abzuwarten.",
+                "hu": "Keressen menedéket a nyüzsgő kaszinóban. Kiváló száraz, beltéri program, ahol játékokkal vagy egy itallal várhatja ki a zivatar végét.",
+                "ro": "Căutați adăpost în cazinoul vibrant. Este o alternativă excelentă de interior pentru a aștepta trecerea ploii cu jocuri sau o băutură.",
+                "en": "Seek shelter in the vibrant casino. It's a great dry, indoor alternative to wait out heavy showers while enjoying games or a drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sourcieux",
+                "hu": "Château de Sourcieux",
+                "ro": "Château de Sourcieux",
+                "en": "Château de Sourcieux"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Schloss vor dem grauen Himmel. Das Gelände wird sehr schlammig, daher sind feste, wasserdichte Stiefel ein Muss.",
+                "hu": "Csodálja meg az elegáns kastélyt a szürke égbolt előtt. A füves terület rendkívül saras lehet, így a masszív vízálló csizma kötelező.",
+                "ro": "Priviți acest castel elegant pe fundalul cerului gri. Terenul devine foarte noroios, deci cizmele impermeabile robuste sunt obligatorii.",
+                "en": "View this elegant castle against the striking grey sky. The grassy grounds get extremely muddy, so sturdy waterproof boots are a must."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen in der Église Saint-Roch, gefolgt von einem wärmenden Bad in den Thermen. Der Nachmittag bringt einen kühlen Spaziergang zum Château de Montrond, dann wohlige Wärme im lebhaften Casino. Beenden Sie die Tour am Château de Sourcieux vor dem frühen Sonnenuntergang um 17:00 Uhr und beobachten Sie das schwindende goldene Winterlicht auf den Steinen.",
+            "hu": "Kezdje a csípős téli reggelt az Église Saint-Roch-ban, majd melegedjen fel a termálfürdő forró vizében. A délután hűvös, de szép sétát tartogat a Château de Montrond csupasz fái között, majd benti melegség várja a kaszinóban. Fejezze be a napot a Château de Sourcieux-nál még a korai, 17:00 órás naplemente előtt, és figyelje, ahogy az aranyló téli fény eltűnik a köveken.",
+            "ro": "Începeți dimineața geroasă la Église Saint-Roch, urmată de o baie fierbinte la termal. După-amiaza aduce o plimbare răcoroasă la Château de Montrond printre copacii goi, apoi căldură interioară la cazinou. Terminați la Château de Sourcieux chiar înainte de apusul devreme de la ora 17:00, privind cum lumina aurie de iarnă dispare peste pietrele istorice înghețate.",
+            "en": "Begin your crisp winter morning at Église Saint-Roch, followed by a deeply warming soak in the thermal baths. The afternoon brings a chilly but beautiful walk to the bare-treed Château de Montrond, then indoor warmth and games at the lively casino. Finish at Château de Sourcieux just before the early 17:00 sunset, watching the golden winter light fade over the historic stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Roch",
+                "hu": "Église Saint-Roch",
+                "ro": "Église Saint-Roch",
+                "en": "Église Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille in der Kirche. Die dicken Steinmauern bieten einen zugluftfreien Ort, um kalte Hände aufzuwärmen.",
+                "hu": "Élvezze a békés téli csendet a templomban. A vastag kőfalak huzatmentes helyet biztosítanak, ahol gyorsan felmelegítheti fázós kezeit.",
+                "ro": "Bucurați-vă de liniștea iernii în biserică. Zidurile groase de piatră oferă un loc fără curenți de aer pentru a vă încălzi mâinile.",
+                "en": "Enjoy the peaceful winter silence inside the church. The thick stone walls offer a quick, draft-free place to warm your freezing hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Thermes de Montrond",
+                "hu": "Les Thermes de Montrond",
+                "ro": "Les Thermes de Montrond",
+                "en": "Les Thermes de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie im heißen Wasser komplett auf. Das Thermalbad ist ein herrlicher Kontrast zur klirrenden Winterkälte draußen vor der Tür.",
+                "hu": "Engedjen fel teljesen a természetesen forró vízben. A termálfürdő csodálatos kontrasztot nyújt a kinti csípős, fagyos téli hideggel.",
+                "ro": "Dezghețați-vă complet în apele fierbinți. Spa-ul termal este un contrast magnific cu frigul mușcător al iernii de afară.",
+                "en": "Thaw out completely in the naturally hot waters. The thermal spa is a magnificent contrast to the biting winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten freie Sicht auf die Festung. Packen Sie sich warm ein, denn der Wind um die Ruinen ist eisig und schneidend.",
+                "hu": "A lombtalan fák zavartalan kilátást nyújtanak az erődre. Tekerjen magára vastag sálat, mert a romok között süvítő szél jéghideg.",
+                "ro": "Copacii goi de iarnă oferă vederi clare ale cetății. Înfășurați-vă într-un fular gros, deoarece vântul care bate printre ruine este rece.",
+                "en": "The leafless winter trees provide unobstructed views of the fortress. Wrap up in a thick scarf, as the wind sweeping the ruins is icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino JOA de Montrond",
+                "hu": "Casino JOA de Montrond",
+                "ro": "Casino JOA de Montrond",
+                "en": "Casino JOA de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Ein hell erleuchteter Hafen an kurzen Wintertagen. Treten Sie ein, um sich aufzuwärmen und die Atmosphäre am kühlen Nachmittag zu genießen.",
+                "hu": "Fényesen kivilágított menedék a rövid téli napokon. Lépjen be, hogy felmelegedjen, és élvezze a nyüzsgést, ahogy a délután hűvösre fordul.",
+                "ro": "Un refugiu luminos împotriva zilelor scurte de iarnă. Intrați pentru a vă încălzi și a vă bucura de atmosfera plină de viață.",
+                "en": "A brightly lit haven against the short winter days. Step inside to warm up and enjoy the lively atmosphere as the afternoon cools down."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sourcieux",
+                "hu": "Château de Sourcieux",
+                "ro": "Château de Sourcieux",
+                "en": "Château de Sourcieux"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang um 17:00 Uhr. Das schwindende Winterlicht wirft wunderschöne lange Schatten über das Anwesen.",
+                "hu": "Érkezzen a korai, 17:00 órás naplemente előtt az aranyórára. A halványuló téli fény gyönyörű, hosszú árnyékokat vet a birtokon.",
+                "ro": "Ajungeți înainte de apusul de la 17:00 pentru a prinde ora de aur. Lumina fadă a iernii aruncă umbre lungi și frumoase pe domeniu.",
+                "en": "Arrive before the early 17:00 sunset to catch the golden hour. The fading winter light casts beautiful long shadows across the estate."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje egy frissítő reggeli tekeréssel a békés északi Église Saint-Martin templomhoz. \n Délben térjen vissza a központba, hogy meghódítsa a Château de Montrond történelmi magaslatait, majd lazítson a Les Thermes-nél. \n Délután guruljon el az Église Saint-Roch mellett, mielőtt belevetné magát a Casino JOA nyüzsgésébe. \n Az estét egy festői tekerés zárja a bájos Château de Sourcieux felé.",
         "ro": "Începeți cu o plimbare revigorantă de dimineață către biserica liniștită Église Saint-Martin din nord. \n La prânz, reveniți în centru pentru a cuceri înălțimile istorice de la Château de Montrond, urmată de o pauză relaxantă la Les Thermes. \n După-amiaza, treceți pe lângă Église Saint-Roch înainte de a vă bucura de împrejurimile vibrante de la Casino JOA. \n Seara aduce o pedalare pitorească spre frumosul Château de Sourcieux pentru a încheia ziua.",
         "en": "Start with a brisk morning ride to the peaceful Église Saint-Martin in the north. \n Midday takes you back to the center to conquer the historical heights of Château de Montrond, followed by a relaxing pause at Les Thermes. \n In the afternoon, cruise past Église Saint-Roch before enjoying the vibrant surroundings of the Casino JOA. \n Evening brings a rewarding, scenic pedal out to the lovely Château de Sourcieux to wrap up the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die regnerische Morgenfahrt zur Église Saint-Martin vorsichtig. Fahren Sie zum Château de Montrond und wärmen Sie sich mittags in den Thermen auf. Nachmittags radeln Sie an der Église Saint-Roch vorbei ins trockene Casino. Beenden Sie die Tour abends am Château de Sourcieux, wobei gute Fahrradlichter im Abendregen unerlässlich sind.",
+            "hu": "Kezdje a reggeli tekerést óvatosan az Église Saint-Martin felé, sárvédőket használva a vizes úton. Folytassa a Château de Montrond-hoz, majd délben melegedjen fel a termálfürdőben. A délutáni kerekezés az Église Saint-Roch érintésével a kaszinó száraz menedékéhez visz. Az esti tekerést a Château de Sourcieux-nál fejezze be, ügyelve az esős sötétben a jó világításra.",
+            "ro": "Începeți dimineața mersul cu grijă spre Église Saint-Martin. Continuați spre Château de Montrond, apoi găsiți căldura necesară la băile termale la prânz. Pedalatul de după-amiază vă duce pe lângă Église Saint-Roch spre refugiul uscat al cazinoului. Încheiați cu o plimbare de seară la Château de Sourcieux, asigurându-vă că luminile bicicletei strălucesc prin ploaie.",
+            "en": "Start your morning ride with caution to Église Saint-Martin, using mudguards on wet roads. Continue to Château de Montrond, then find much-needed warmth at the thermal baths at noon. Your afternoon pedal takes you past Église Saint-Roch to the dry refuge of the casino. Conclude with an evening ride to Château de Sourcieux, ensuring your bike lights shine through the evening rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach der nassen Fahrt drinnen Schutz. Bremsen Sie auf den glatten Straßen zur Kirche sanft, um im Regen nicht wegzurutschen.",
+                "hu": "Húzódjon be ide a nedves tekerés után. A templomhoz közeledve nagyon óvatosan fékezzen a síkos utakon, nehogy elcsússzon az esőben.",
+                "ro": "Adăpostiți-vă înăuntru după plimbarea udă. Frânați foarte ușor pe drumurile alunecoase care se apropie de biserică pentru a nu aluneca.",
+                "en": "Take shelter inside after your wet ride. Brake very gently on the slick roads approaching the church to avoid slipping in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken majestätisch vor Gewitterwolken. Schließen Sie Ihr Rad geschützt ab und achten Sie auf das rutschige Kopfsteinpflaster.",
+                "hu": "A romok fenségesek a viharfelhők alatt. Zárja le a kerékpárját egy fedett helyen, és nagyon ügyeljen lépéseire a csúszós macskakövön.",
+                "ro": "Ruinele arată maiestuos sub norii de furtună. Legați bicicleta într-un loc ferit și fiți atenți cum călcați pe piatra cubică alunecoasă.",
+                "en": "The ruins look majestic against storm clouds. Lock your bike in a sheltered spot and watch your footing on the slick cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Thermes de Montrond",
+                "hu": "Les Thermes de Montrond",
+                "ro": "Les Thermes de Montrond",
+                "en": "Les Thermes de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Pause zum Trocknen. Das warme Thermalwasser drinnen wird Sie an einem regnerischen Radtag komplett regenerieren.",
+                "hu": "A tökéletes pihenő a száradáshoz. A gőzölgő beltéri termálvíz teljesen felfrissíti önt egy esős kerékpározós nap közepén.",
+                "ro": "Pauza perfectă la mijlocul drumului pentru a vă usca. Apele termale interioare vă vor întineri complet într-o zi ploioasă de ciclism.",
+                "en": "The perfect mid-ride break to dry off. The steaming indoor thermal waters will completely rejuvenate you during a rainy cycling day."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Roch",
+                "hu": "Église Saint-Roch",
+                "ro": "Église Saint-Roch",
+                "en": "Église Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer trockener Stopp. Denken Sie an nasse Bremsen, die einen längeren Bremsweg haben, wenn Sie mit dem Rad hier ankommen.",
+                "hu": "Gyors, száraz megálló a nyugodt belső tér megcsodálására. Figyeljen a vizes fékekre, amelyeknek hosszabb a fékútja, amikor ideér.",
+                "ro": "O scurtă oprire uscată. Fiți conștienți de frânele umede care au nevoie de mai mult timp pentru a opri bicicleta când ajungeți aici.",
+                "en": "A quick dry stop to admire the calm interior. Be mindful of wet brakes which take longer to stop the bike when arriving here."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino JOA de Montrond",
+                "hu": "Casino JOA de Montrond",
+                "ro": "Casino JOA de Montrond",
+                "en": "Casino JOA de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Geben Sie nasse Sachen an der Garderobe ab und genießen Sie die Spiele. Ein toller Ort, um eine Regenpause im Trockenen abzuwarten.",
+                "hu": "Hagyja vizes felszerelését a ruhatárban, és élvezze a játékokat. Kiváló beltéri menedék, ahol megvárhatja az eső csendesedését.",
+                "ro": "Lăsați echipamentul ud la garderobă și bucurați-vă de jocuri. Un adăpost excelent pentru a aștepta o pauză în ploaia abundentă.",
+                "en": "Leave your wet gear in the cloakroom and enjoy the vibrant games. An excellent indoor shelter to wait for a break in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sourcieux",
+                "hu": "Château de Sourcieux",
+                "ro": "Château de Sourcieux",
+                "en": "Château de Sourcieux"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die nasse Tour am Schloss. Die Sicht sinkt im Regen, stellen Sie sicher, dass Ihr rotes Rücklicht hell und sichtbar blinkt.",
+                "hu": "Fejezze be az esős túrát ennél a kastélynál. Esőben romlik a látási viszony, győződjön meg róla, hogy hátsó lámpája erősen villog.",
+                "ro": "Încheiați turul umed la acest castel maiestuos. Vizibilitatea scade, așa că asigurați-vă că luminile roșii clipesc puternic.",
+                "en": "End your wet tour at this stately castle. Visibility drops in the rain, so ensure your bike's rear red lights are flashing bright."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens mit warmen Handschuhen zur Église Saint-Martin. Wärmen Sie sich am Château de Montrond auf und tauen Sie mittags in den Thermen auf. Die kühle Nachmittagsfahrt vorbei an der Église Saint-Roch führt zum komfortablen Casino. Beenden Sie die Route vor 17:00 Uhr am Château de Sourcieux, um dem Frost nach Sonnenuntergang zu entgehen.",
+            "hu": "Induljon csípős reggeli tekerésre az Église Saint-Martin felé vastag kesztyűben. Melegedjen fel a Château de Montrond-nál, majd délben olvadjon ki a termálfürdőben. A hideg délutáni út az Église Saint-Roch-on át a kaszinó kényelméhez vezet. Fejezze be az utat a Château de Sourcieux-nál 17:00 előtt, elkerülve a naplemente utáni fagyot.",
+            "ro": "Porniți într-o plimbare rece de dimineață spre Église Saint-Martin, purtând mănuși groase. Încălziți-vă la Château de Montrond, apoi la termal. Plimbarea rece de după-amiază pe lângă Église Saint-Roch duce la confortul din cazinou. Terminați traseul la Château de Sourcieux înainte de ora 17:00, evitând temperaturile de îngheț de după apus.",
+            "en": "Embark on a crisp morning ride to Église Saint-Martin, wearing insulated gloves. Warm up exploring Château de Montrond, then thoroughly thaw out at the thermal baths at noon. The chilly afternoon ride past Église Saint-Roch leads to indoor comfort at the lively casino. Finish your route at Château de Sourcieux before 17:00, avoiding the freezing temperatures after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, frostiger Start. Die Winterluft ist schneidend, tragen Sie unbedingt eine winddichte Sturmhaube unter dem Helm.",
+                "hu": "Csendes, fagyos indulás. A téli levegő csípős, ezért mindenképpen viseljen szélálló maszkot a kerékpáros sisak alatt.",
+                "ro": "Un început liniștit și geros. Aerul de iarnă este tăios, deci asigurați-vă că purtați o cagulă rezistentă la vânt sub cască.",
+                "en": "A quiet, frosty start to the route. The winter air is sharp, so make sure to wear a windproof balaclava under your helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Der reifbedeckte Boden ist wunderschön. Steigen Sie ab und schieben Sie das Rad, wenn die Wege um die Ruinen eisig und glatt sind.",
+                "hu": "A dérrel borított talaj gyönyörű. Szálljon le, és tolja a biciklit, ha a kastélyrom körüli ösvények jegesek és veszélyesek.",
+                "ro": "Pământul acoperit de brumă este frumos. Descălecați și mergeți pe jos dacă potecile din jurul ruinelor castelului sunt înghețate.",
+                "en": "The frost-covered grounds are beautiful. Dismount and walk your bike if the paths around the castle ruins are icy and treacherous."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Thermes de Montrond",
+                "hu": "Les Thermes de Montrond",
+                "ro": "Les Thermes de Montrond",
+                "en": "Les Thermes de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Sich hier aufzuwärmen ist der Traum jedes Radlers. Das warme Wasser bringt schnell das Gefühl in gefrorene Finger und Zehen zurück.",
+                "hu": "A kiolvadás itt egy kerékpáros álma. A természetesen meleg víz pillanatok alatt visszaadja az érzést lefagyott ujjaiba.",
+                "ro": "Dezghețarea aici este visul oricărui biciclist. Apele calde vor aduce rapid senzația înapoi în degetele înghețate de la mâini și picioare.",
+                "en": "Thawing out here is a cyclist's dream. The naturally warm waters will bring feeling back to your frozen fingers and toes in no time."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Roch",
+                "hu": "Église Saint-Roch",
+                "ro": "Église Saint-Roch",
+                "en": "Église Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie für einen kurzen Moment der Wärme hinein. Die tiefstehende Wintersonne sorgt für tolles Licht. Tragen Sie isolierende Schichten.",
+                "hu": "Lépjen be egy kis melegedésre. Az alacsonyan járó téli nap lenyűgöző fényeket teremt. Viseljen hőszigetelt rétegeket a további útra.",
+                "ro": "Intrați pentru o scurtă explozie de căldură. Soarele jos de iarnă creează o lumină uimitoare. Purtați straturi izolate pentru plimbare.",
+                "en": "Step inside for a quick burst of warmth. The low winter sun creates stunning lighting. Wear insulated layers for the cool ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino JOA de Montrond",
+                "hu": "Casino JOA de Montrond",
+                "ro": "Casino JOA de Montrond",
+                "en": "Casino JOA de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine lange, warme Pause im lebhaften Inneren. Trinken Sie einen heißen Kaffee, bevor Sie den sinkenden Temperaturen trotzen.",
+                "hu": "Tartson hosszú, meleg szünetet a nyüzsgő belső térben. Igyon egy forró kávét, mielőtt dacolna a zuhanó késő délutáni hőmérséklettel.",
+                "ro": "Faceți o pauză lungă și caldă în interior. Savurați o cafea fierbinte înainte de a înfrunta temperaturile în scădere de după-amiază.",
+                "en": "Take a long, warm break in the bustling interior. Enjoy a hot coffee before braving the plummeting late-afternoon temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sourcieux",
+                "hu": "Château de Sourcieux",
+                "ro": "Château de Sourcieux",
+                "en": "Château de Sourcieux"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Abschnitt in eisiger Luft. Kommen Sie weit vor 16:30 Uhr an, um das Anwesen bei Tageslicht vor der eisigen Dunkelheit zu sehen.",
+                "hu": "Az utolsó szakasz a fagyos levegőn. Érkezzen jóval 16:30 előtt, hogy még nappali fényben csodálja meg a birtokot a fagyos sötétség előtt.",
+                "ro": "Ultimul efort în aerul înghețat. Ajungeți cu mult înainte de 16:30 pentru a admira domeniul la lumina zilei înainte de lăsarea întunericului.",
+                "en": "The final push in the freezing air. Arrive well before 16:30 to admire the estate in daylight before the freezing darkness takes over."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje egy északi autózással az Église Saint-Martin felé, majd induljon nyugatra a festői Château de Sourcieux-hoz. \n Délben parkoljon le a központban, hogy felfedezze a történelmi Château de Montrond-t és feltöltődjön a Les Thermes-nél. \n Délután látogasson el az Église Saint-Roch templomba, majd élvezze a Casino JOA izgalmait. \n A napot egy kellemes esti autózás zárja dél felé, a békés Saint-Pierre és Saint-Blaise templomokhoz.",
         "ro": "Începeți cu o plimbare cu mașina spre nord până la Église Saint-Martin, apoi spre vest spre pitorescul Château de Sourcieux. \n La prânz, parcați în centru pentru a explora istoricul Château de Montrond și a vă revigora la Les Thermes. \n După-amiaza include o vizită scurtă la Église Saint-Roch, urmată de emoțiile moderne de la Casino JOA. \n Ziua se încheie grațios cu o plimbare de seară spre sud, spre bisericile liniștite Saint-Pierre și Saint-Blaise.",
         "en": "Begin with a drive north to Église Saint-Martin, then head west to the picturesque Château de Sourcieux. \n By midday, park in the town center to explore the historic Château de Montrond and rejuvenate at Les Thermes. \n Your afternoon features a quick visit to Église Saint-Roch before experiencing the modern thrills of the Casino JOA. \n The day gracefully ends with an evening drive southwards to the peaceful Église Saint-Pierre and Église Saint-Blaise."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Morgenfahrt beginnt an der Église Saint-Martin und Château de Sourcieux. Mittags trotzen Sie dem nassen Château de Montrond, bevor Sie in den wunderbaren Thermen dem Regen entfliehen. Der nasse Nachmittag bietet das Casino und die Église Saint-Roch. Beenden Sie Ihre Abendfahrt sicher an der Église Saint-Pierre und Saint-Blaise auf nassen Straßen.",
+            "hu": "Az esős reggeli autózás az Église Saint-Martin-nál és a Château de Sourcieux-nál indul, ahol autója nyújt kényelmes bázist. Délben dacoljon a vizes Château de Montrond-dal, majd meneküljön az eső elől a csodás termálfürdőbe. Az esős délután a kaszinó benti szórakozásáról és az Église Saint-Roch-ról szól. Az estét a Saint-Pierre és Saint-Blaise templomoknál fejezze be vizes utakon.",
+            "ro": "O plimbare ploioasă începe la Église Saint-Martin și Château de Sourcieux, folosind mașina ca bază confortabilă. La prânz, înfruntați terenul ud de la Château de Montrond înainte de a scăpa la băile termale. După-amiaza ploioasă include divertismentul din cazinou și o fugă la Église Saint-Roch. Încheiați seara la bisericile Saint-Pierre și Saint-Blaise pe drumuri umede.",
+            "en": "A rainy morning drive begins at Église Saint-Martin and Château de Sourcieux, using your car as a cozy base. At noon, brave the wet grounds of Château de Montrond before fully escaping the downpour at the wonderful thermal baths. The rainy afternoon includes the casino's indoor entertainment and a quick dash to Église Saint-Roch. Conclude your evening drive safely at Église Saint-Pierre and Saint-Blaise on wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um dem Regen zu entgehen. Diese ruhige Kirche bietet einen friedlichen, völlig trockenen Start der Tour.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt. Ez a csendes templom békés, teljesen száraz kezdést kínál autós túrájához.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia. Această biserică liniștită oferă un început pașnic și complet uscat al traseului.",
+                "en": "Park close to the entrance to avoid the rain. This quiet church offers a peaceful, completely dry start to your driving itinerary."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sourcieux",
+                "hu": "Château de Sourcieux",
+                "ro": "Château de Sourcieux",
+                "en": "Château de Sourcieux"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus dem trockenen Auto, wenn es gießt, oder nehmen Sie einen Regenschirm für einen kurzen, nassen Spaziergang.",
+                "hu": "Csodálja meg a lenyűgöző homlokzatot száraz autójából, ha szakad az eső, vagy kapjon fel egy esernyőt egy pocsolyakerülgető sétára.",
+                "ro": "Admirați fațada din confortul mașinii uscate dacă plouă torențial, sau luați o umbrelă pentru o scurtă plimbare evitând bălțile.",
+                "en": "Admire the striking facade from the comfort of your dry car if it's pouring, or grab an umbrella for a quick, puddle-dodging walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm bereit. Die Ruinen sind unter Gewitterwolken sehr stimmungsvoll, aber die alten Steinstufen werden extrem glatt.",
+                "hu": "Tartsa kéznél az esernyőt. A romos falak nagyon hangulatosak a viharfelhők alatt, de az ősi kőlépcsők rendkívül csúszóssá válnak.",
+                "ro": "Păstrați umbrela la îndemână. Zidurile ruinate sunt foarte atmosferice sub norii gri, dar treptele vechi de piatră devin extrem de alunecoase.",
+                "en": "Keep your umbrella handy. The ruined walls are very atmospheric under grey storm clouds, but the ancient stone steps get extremely slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Thermes de Montrond",
+                "hu": "Les Thermes de Montrond",
+                "ro": "Les Thermes de Montrond",
+                "en": "Les Thermes de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Die ultimative Zuflucht an Regentagen. Parken Sie und verbringen Sie Stunden in den warmen Innenbecken, um das schlechte Wetter zu vergessen.",
+                "hu": "A végső esős napi menedék. Parkoljon le, és töltsön órákat a gőzölgő benti medencékben, teljesen megfeledkezve a kinti rossz időről.",
+                "ro": "Refugiul suprem pentru o zi ploioasă. Parcați în siguranță și petreceți ore în piscinele interioare, uitând complet de vremea rea.",
+                "en": "The ultimate rainy day refuge. Park securely and spend hours in the steaming indoor pools, completely forgetting the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Roch",
+                "hu": "Église Saint-Roch",
+                "ro": "Église Saint-Roch",
+                "en": "Église Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Sprint vom Auto in diese schön verzierte Kirche. Sie ist ein fantastischer, trockener Zufluchtsort bei starkem Regen.",
+                "hu": "Szaladjon be a parkoló autóból ebbe a gyönyörűen díszített templomba. Fantasztikus, száraz szentély a heves felhőszakadások idején.",
+                "ro": "Faceți o scurtă fugă de la mașină în această biserică frumos decorată. Este un sanctuar fantastic și uscat în timpul ploilor abundente.",
+                "en": "Make a quick dash from your parked car into this beautifully decorated church. It is a fantastic, dry sanctuary during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino JOA de Montrond",
+                "hu": "Casino JOA de Montrond",
+                "ro": "Casino JOA de Montrond",
+                "en": "Casino JOA de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Dauerregen im lebhaften Casino. Es bietet fantastische Indoor-Unterhaltung, ohne durch nasse Straßen wandern zu müssen.",
+                "hu": "Meneküljön a könyörtelen eső elől a nyüzsgő kaszinóba. Fantasztikus beltéri szórakozást kínál, anélkül, hogy vizes utcákon kellene bolyongania.",
+                "ro": "Scăpați de ploaia neobosită în cazinoul vibrant. Oferă divertisment interior fantastic fără a fi nevoie să rătăciți pe străzile umede.",
+                "en": "Escape the relentless rain in the vibrant casino. It offers fantastic indoor entertainment without needing to wander the wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen lokalen Straßen. Diese Kirche aus Stein bietet einen soliden, ruhigen Schutz zu Beginn des regnerischen Abends.",
+                "hu": "Vezessen óvatosan a helyi vizes utakon. Ez a masszív kőtemplom szilárd, csendes menedéket nyújt elmélkedésre az esős este kezdetén.",
+                "ro": "Conduceți cu atenție pe drumurile locale umede. Această biserică robustă de piatră oferă un adăpost solid la începutul serii ploioase.",
+                "en": "Drive carefully on the local wet roads. This sturdy stone church offers a solid, quiet shelter to reflect as the rainy evening begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Église Saint-Blaise",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Der Nieselregen verleiht diesem alten Ort eine mysteriöse Aura. Lassen Sie die Heizung an, um in ein warmes, trockenes Auto zurückzukehren.",
+                "hu": "A szitáló eső titokzatos aurát kölcsönöz ennek a végső ősi helynek. Hagyja bekapcsolva a fűtést, hogy meleg, száraz utastérbe térjen vissza.",
+                "ro": "Ploaia măruntă adaugă o aură misterioasă acestui ultim loc antic. Lăsați încălzirea pornită pentru a vă întoarce la o cabină caldă și uscată.",
+                "en": "The misty rain adds a mysterious aura to this final ancient spot. Leave the car's heating on so you return to a warm, dry cabin."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre Winterfahrt beginnt warm an der Église Saint-Martin und Château de Sourcieux. Mittags erkunden Sie das frostige Château de Montrond, gefolgt von einem Bad in den heißen Thermen. Der Nachmittag geht zur Église Saint-Roch und ins warme Casino. Wenn um 17:00 Uhr die frühe Dämmerung einsetzt, fahren Sie vorsichtig zur Église Saint-Pierre und Saint-Blaise.",
+            "hu": "A téli autózás melegen indul az Église Saint-Martin és Château de Sourcieux érintésével, élvezve a fűtést a megállók között. Délben a fagyos Château de Montrond, majd a forró termálfürdő következik. A délután az Église Saint-Roch és a meleg kaszinó jegyében telik. A korai, 17:00 órás szürkületben vezessen óvatosan a Saint-Pierre és Saint-Blaise templomokhoz.",
+            "ro": "Plimbarea de iarnă începe cald la Église Saint-Martin și Château de Sourcieux, bucurându-vă de încălzire. Prânzul aduce ruinele înghețate de la Château de Montrond, urmate de o baie relaxantă la termal. După-amiaza continuă la Église Saint-Roch și cazinou. Odată cu amurgul devreme în jur de 17:00, conduceți cu atenție spre Saint-Pierre și Saint-Blaise.",
+            "en": "Your winter drive begins warmly at Église Saint-Martin and Château de Sourcieux, enjoying the heater between stops. Noon brings the frosty ruins of Château de Montrond, followed by a deeply relaxing soak in the hot thermal baths. The afternoon continues to Église Saint-Roch and the warm casino. As the early twilight falls around 17:00, drive carefully to Église Saint-Pierre and Saint-Blaise under the starry winter sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Ein frostiger Start. Drehen Sie die Autoheizung auf, bevor Sie aussteigen, um die strenge, ruhige Winterschönheit dieser Kirche zu bewundern.",
+                "hu": "Csípős, fagyos kezdés. Tekerje fel az autó fűtését, mielőtt kiszáll, hogy megcsodálja a bájos templom zord, csendes téli szépségét.",
+                "ro": "Un început rece și geros. Porniți încălzirea mașinii înainte de a ieși pentru a admira frumusețea aspră de iarnă a acestei biserici.",
+                "en": "A crisp, frosty start. Turn up the car's heater before stepping out to admire the stark, quiet winter beauty of this charming church."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Sourcieux",
+                "hu": "Château de Sourcieux",
+                "ro": "Château de Sourcieux",
+                "en": "Château de Sourcieux"
+              },
+              "tip_5lang": {
+                "de": "Das fehlende Laub bietet freie Sicht auf das Anwesen. Steigen Sie nur kurz aus dem warmen Auto, um ein Foto in der kalten Luft zu machen.",
+                "hu": "A lombozat hiánya tiszta kilátást nyújt a birtokra. Csak annyi időre szálljon ki a meleg autóból, hogy készítsen egy fotót a hideg levegőn.",
+                "ro": "Lipsa frunzelor vă oferă vederi clare asupra domeniului. Ieșiți din mașina caldă doar cât să faceți o fotografie în aerul rece.",
+                "en": "The lack of foliage gives you clear views of the estate. Step out of the warm car just long enough to snap a photo in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montrond",
+                "hu": "Château de Montrond",
+                "ro": "Château de Montrond",
+                "en": "Château de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Die Festung sieht mit Reif bedeckt spektakulär aus. Tragen Sie dicke Socken und Stiefel, da der Boden und die Steine die eisige Kälte speichern.",
+                "hu": "Az impozáns erőd látványos a dér leple alatt. Viseljen vastag zoknit és csizmát, mert a talaj és az ősi kövek megtartják a fagyos hideget.",
+                "ro": "Cetatea impunătoare arată spectaculos acoperită de brumă. Purtați șosete și cizme groase, deoarece pământul și pietrele rețin frigul înghețat.",
+                "en": "The imposing fortress looks spectacular dusted in frost. Wear thick socks and boots, as the ground and ancient stones hold the freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Thermes de Montrond",
+                "hu": "Les Thermes de Montrond",
+                "ro": "Les Thermes de Montrond",
+                "en": "Les Thermes de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der klirrenden Winterkälte komplett. Das heiße, mineralreiche Thermalwasser bietet einen luxuriösen, wärmenden Mittagsrückzug.",
+                "hu": "Meneküljön meg teljesen a csípős téli hidegtől. A gőzölgő, ásványi anyagokban gazdag termálvíz fényűző, mélyen átmelegítő déli menedéket nyújt.",
+                "ro": "Scăpați complet de frigul mușcător de iarnă. Apele termale aburinde și bogate în minerale oferă un refugiu de lux, profund încălzitor la prânz.",
+                "en": "Escape the biting winter cold completely. The steaming, mineral-rich thermal waters provide a luxurious, deeply warming midday retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Roch",
+                "hu": "Église Saint-Roch",
+                "ro": "Église Saint-Roch",
+                "en": "Église Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Der tiefe Winkel der Wintersonne taucht diese Kirche in herrliches Licht. Ein kurzer Stopp, bevor Sie sich ins beheizte Auto zurückziehen.",
+                "hu": "A téli nap alacsony szöge gyönyörű fényben fürdeti a templomot. Gyors, csodálatos megálló, mielőtt visszavonulna a fűtött autóba.",
+                "ro": "Unghiul jos al soarelui de iarnă scaldă această biserică într-o lumină superbă. O scurtă oprire înainte de a vă retrage în mașina încălzită.",
+                "en": "The low angle of the winter sun bathes this church in gorgeous light. A quick, beautiful stop before retreating to the heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Casino JOA de Montrond",
+                "hu": "Casino JOA de Montrond",
+                "ro": "Casino JOA de Montrond",
+                "en": "Casino JOA de Montrond"
+              },
+              "tip_5lang": {
+                "de": "Helle Lichter und Wärme warten drinnen. Ein fantastischer Ort, um den späten Nachmittag geschützt vor schnell sinkenden Temperaturen zu verbringen.",
+                "hu": "Odabent fényár és meleg várja. Fantasztikus hely a késő délután eltöltésére, védve a gyorsan zuhanó hőmérséklettől.",
+                "ro": "Lumini strălucitoare și căldură vă așteaptă înăuntru. Un loc fantastic pentru a petrece după-amiaza, la adăpost de temperaturile care scad rapid.",
+                "en": "Bright lights and warmth await inside. It's a fantastic place to spend the late afternoon, shielded from the rapidly dropping temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie in der Dämmerung an. Achten Sie auf Blitzeis auf ruhigen Straßen, das sich bildet, wenn die Sonne untergeht und es eisig wird.",
+                "hu": "Érkezzen szürkületkor. Ügyeljen a csendes utakon kialakuló tükörjégre, ahogy a nap lemegy, és a fagyos éjszakai levegő veszi át az uralmat.",
+                "ro": "Ajungeți odată cu amurgul. Atenție la gheața neagră de pe drumurile liniștite care se formează pe măsură ce aerul nopții preia controlul.",
+                "en": "Arrive as twilight begins. Watch out for black ice on the quiet roads forming as the sun sets and the freezing night air takes hold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Blaise",
+                "hu": "Église Saint-Blaise",
+                "ro": "Église Saint-Blaise",
+                "en": "Église Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour unter dem winterlichen Sternenhimmel. Die alte Kirche wirkt in der Kälte sehr friedlich. Lassen Sie die Autoheizung an!",
+                "hu": "Fejezze be az utat a csillagos téli égbolt alatt. Ez az ősi templom hihetetlenül békés a hideg sötétségben. Hagyja járni az autó fűtését!",
+                "ro": "Încheiați traseul sub un cer înstelat de iarnă. Această biserică veche pare incredibil de senină în întunericul rece. Lăsați încălzirea pornită!",
+                "en": "End your route under a starry winter sky. This ancient church feels incredibly serene in the cold dark. Keep the car heating running!"
+              }
+            }
+          ]
+        }
       }
     }
   }

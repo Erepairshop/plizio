@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Saint-Armel szívében, fedezze fel történelmi templomát, majd induljon el a festői tengerparti területek felé. Délben a csendes, védett természeti övezeteken halad át, ahol madarakat is megfigyelhet. Délután fedezze fel a sós mocsarakat és az öböl helyi örökségét. Zárja a napot pihenéssel a homokos partokon, miközben a nap lassan lenyugszik.",
         "ro": "Începeți dimineața în inima orașului Saint-Armel, explorând biserica istorică, înainte de a vă îndrepta spre zonele de coastă pitorești. La amiază vă veți plimba prin zonele naturale protejate, perfecte pentru observarea păsărilor. După-amiaza descoperiți mlaștinile sărate și aflați despre moștenirea locală a golfului. Încheiați ziua relaxându-vă pe malurile nisipoase la apus.",
         "en": "Begin your morning in the heart of Saint-Armel, exploring its historic church before heading out towards the scenic coastal areas. Midday takes you through the tranquil protected natural zones, perfect for spotting local birds. In the afternoon, discover the salt marshes and learn about the local heritage of the gulf. Wrap up your day relaxing on the sandy shores as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen suchen wir Zuflucht in der Kirche vor dem Küstenregen. Mittags wirken die Sümpfe im Nebel mystisch, aber die Wege sind schlammig. Nachmittags bietet das Salzmuseum einen trockenen Rückzugsort vor dem Wind. Am Abend ist der Blick auf den stürmischen Golf von den leeren Stränden aus dramatisch, doch Vorsicht auf den rutschigen Felsen in der frühen Dunkelheit.",
+            "hu": "Reggel a templom falai között bújunk el az eső elől. Délben a mocsárvidék misztikus párába vész, a sár miatt vízálló bakancs kell. Délután a sós lepárló múzeuma nyújt száraz menedéket a tengerparti szélben. Este a kihalt partokon a viharos öböl látványa drámai, de a korai sötétben figyeljünk a csúszós sziklákra és a látási viszonyokra.",
+            "ro": "Dimineața căutăm adăpost în biserică de ploaia de coastă. La prânz, mlaștinile par mistice în ceață, dar potecile sunt noroioase. După-amiaza, muzeul sării oferă un refugiu uscat împotriva vântului. Seara, vederea golfului furtunos de pe plajele pustii este dramatică, dar aveți grijă la stâncile alunecoase în întunericul care cade devreme.",
+            "en": "In the morning, we find shelter in the church from the coastal rain. By noon, the marshes are shrouded in mystical mist, but the paths are muddy. In the afternoon, the salt museum provides a dry refuge from the wind. In the evening, the empty beaches offer dramatic views of the stormy gulf, but watch for slippery rocks in the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Armel",
+                "hu": "Église Saint-Armel",
+                "ro": "Église Saint-Armel",
+                "en": "Église Saint-Armel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur, während die dicken Mauern Sie vor dem Regen schützen; ein idealer Ort, um einen starken Schauer in Ruhe abzuwarten.",
+                "hu": "Csodálja meg a történelmi építészetet, miközben a vastag falak megvédik az esőtől; tökéletes helyszín egy kiadós tengerparti zápor csendes átvészeléséhez.",
+                "ro": "Admirați arhitectura istorică în timp ce pereții groși vă protejează de ploaie; este locul perfect pentru a aștepta trecerea unei averse puternice în liniște.",
+                "en": "Explore the historic architecture while the thick stone walls protect you from the rain; it is the perfect quiet spot to wait out a heavy coastal downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Zone de tranquilité",
+                "hu": "Zone de tranquilité",
+                "ro": "Zone de tranquilité",
+                "en": "Zone de tranquilité"
+              },
+              "tip_5lang": {
+                "de": "Die Salzwiesen wirken im Nebel ätherisch, aber die Wege sind sehr schlammig; tragen Sie hohe Wanderschuhe, um auf dem rutschigen Boden stabil zu bleiben.",
+                "hu": "A sós mocsarak éthoszi látványt nyújtanak a ködben, de az utak sárosak; viseljen magas szárú vízálló bakancsot a biztonságos és száraz haladás érdekében.",
+                "ro": "Mlaștinile sărate par eterice în ceață, dar potecile sunt foarte noroioase; purtați bocanci de munte impermeabili pentru a rămâne stabili pe solul ud.",
+                "en": "The salt marshes look ethereal in the mist, but the trails become very muddy; wear high-quality waterproof hiking boots to stay dry and stable on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "La paludière du golfe",
+                "hu": "La paludière du golfe",
+                "ro": "La paludière du golfe",
+                "en": "La paludière du golfe"
+              },
+              "tip_5lang": {
+                "de": "Dieses Indoor-Museum ist der ideale Zufluchtsort, um das alte Handwerk der Salzgewinnung zu studieren, während Sie völlig trocken und warm bleiben.",
+                "hu": "Ez a fedett múzeum ideális menedék, ahol megismerheti a sólepárlás ősi mesterségét, miközben teljesen szárazon és melegben marad a kinti eső elől.",
+                "ro": "Acest muzeu interior este refugiul ideal unde puteți studia vechiul meșteșug al recoltării sării în timp ce rămâneți complet uscat și la căldură.",
+                "en": "This indoor museum is an ideal refuge where you can study the ancient trade of salt workers while staying completely dry and warm away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lasné",
+                "hu": "Plage de Lasné",
+                "ro": "Plage de Lasné",
+                "en": "Plage de Lasné"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die rohe Kraft des Atlantiks im Schutz Ihres Regenmantels; das graue Licht bietet eine atemberaubende Kulisse für stimmungsvolle Fotos.",
+                "hu": "Élje át az Atlanti-óceán nyers erejét az esőkabátja védelmében; a szürke fények és a viharos égbolt lenyűgöző hangulatot adnak a tengerparti fotókhoz.",
+                "ro": "Experimentați forța brută a Atlanticului sub protecția pelerinei de ploaie; lumina cenușie oferă un fundal uimitor pentru fotografii pline de atmosferă.",
+                "en": "Experience the raw power of the Atlantic from the safety of your raincoat; the moody gray light creates a stunning backdrop for coastal photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Petite plage",
+                "hu": "Petite plage",
+                "ro": "Petite plage",
+                "en": "Petite plage"
+              },
+              "tip_5lang": {
+                "de": "Diese Bucht bietet einen intimen Blick auf das aufgewühlte Meer; halten Sie den Schirm gegen den Wind, um die salzige, regnerische Luft sicher zu genießen.",
+                "hu": "Ez a kis öböl bensőséges kilátást nyújt a háborgó tengerre; tartsa ernyőjét a széllel szembe, hogy biztonságban élvezhesse a sós, párás levegőt.",
+                "ro": "Această mică golfuleț oferă o vedere intimă asupra mării agitate; țineți umbrela contra vântului pentru a savura aerul sărat și ploios în siguranță.",
+                "en": "This small cove offers an intimate view of the stormy sea; keep your umbrella tilted against the wind to enjoy the salty, rainy air safely and dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen bietet die Kirche spirituelle und physische Wärme. Mittags ist die eisige Schönheit der Marschlandschaft erfrischend, aber Zwiebelprinzip ist Pflicht. Nachmittags wärmen wir uns im Museum auf, bevor die Sonne früh hinter dem Horizont verschwindet. Am Abend führen uns der Sternenhimmel und die Leuchtfeuer entlang der dunklen, friedlichen Küste.",
+            "hu": "A friss téli reggelen a templom nyújt lelki és fizikai melegséget a tengeri szélben. Délben a mocsarak jeges szépsége frissítő, de a réteges öltözet kötelező. Délután a múzeumban melegszünk fel, mielőtt a nap korán lebukna a horizont alá. Este a sötét partokon a csillagos ég és a távoli fények vezetnek a csendes éjszakában.",
+            "ro": "Într-o dimineață crocantă de iarnă, biserica oferă căldură spirituală și fizică. La prânz, frumusețea înghețată a mlaștinilor este revigorantă, dar straturile sunt obligatorii. După-amiaza, ne încălzim în muzeu înainte ca soarele să apună devreme. Seara, cerul înstelat și luminile de coastă ne ghidează de-a lungul țărmului liniștit.",
+            "en": "On a crisp winter morning, the church offers both spiritual and physical warmth from the wind. At noon, the icy beauty of the marshes is refreshing, but layers are essential. In the afternoon, we warm up in the museum before the sun sets early. In the evening, the starry sky and distant lights guide us along the dark, peaceful shores."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Armel",
+                "hu": "Église Saint-Armel",
+                "ro": "Église Saint-Armel",
+                "en": "Église Saint-Armel"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem historischen Heiligtum auf; bewundern Sie das subtile Spiel des tiefstehenden Winterlichts durch die alten Glasfenster.",
+                "hu": "Melegedjen fel ebben a történelmi szentélyben, ahol a falak megállítják a téli fagyot; csodálja meg az alacsonyan járó nap fényének játékát az ablakokon.",
+                "ro": "Încălziți-vă în acest sanctuar istoric unde pereții opresc gerul iernii; admirați jocul subtil al luminii de iarnă prin ferestrele vechi ale bisericii.",
+                "en": "Warm up inside this historic sanctuary where the thick walls block the winter chill; admire the subtle play of low winter light through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Zone de tranquilité",
+                "hu": "Zone de tranquilité",
+                "ro": "Zone de tranquilité",
+                "en": "Zone de tranquilité"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Wiesen funkeln unter der Wintersonne; tragen Sie Thermalkleidung, da der Wind vom Golf im Winter besonders beißend und kalt sein kann.",
+                "hu": "A fagyott mocsarak szikráznak a téli napsütésben; viseljen hőtartó ruházatot, mivel az öböl felől érkező szél ilyenkor különösen metsző és hideg lehet.",
+                "ro": "Mlaștinile înghețate sclipesc sub soarele de iarnă; purtați haine termice, deoarece vântul dinspre golf poate fi deosebit de tăios și rece în acest sezon.",
+                "en": "The frozen marshes sparkle under the winter sun, creating a unique landscape; wear thermal layers as the wind from the gulf is particularly biting now."
+              }
+            },
+            {
+              "name": {
+                "de": "La paludière du golfe",
+                "hu": "La paludière du golfe",
+                "ro": "La paludière du golfe",
+                "en": "La paludière du golfe"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen gemütlichen Nachmittag in den beheizten Ausstellungsräumen; es ist der perfekte Ort, um den eisigen Küstentemperaturen zu entfliehen.",
+                "hu": "Élvezze a hangulatos délutánt a fűtött kiállítótermekben; ez a legjobb módja annak, hogy elmeneküljön a fagyos tengerparti hőmérséklet és szél elől.",
+                "ro": "Bucurați-vă de o după-amiază confortabilă în sălile de expoziție încălzite; este locul perfect pentru a scăpa de temperaturile înghețate de pe coastă.",
+                "en": "Enjoy a cozy afternoon learning about local history in the heated exhibition rooms; it is a great way to escape the freezing coastal temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lasné",
+                "hu": "Plage de Lasné",
+                "ro": "Plage de Lasné",
+                "en": "Plage de Lasné"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter einsam und friedlich; kommen Sie vor 16:30 Uhr an, um den spektakulären Sonnenuntergang über dem Wasser zu erleben.",
+                "hu": "A strand télen kihalt és végtelenül békés; érkezzen 16:30 előtt, hogy elcsípje a víz felett lenyugvó nap látványos, narancssárga fényeit.",
+                "ro": "Plaja este pustie și liniștită iarna; ajungeți înainte de ora 16:30 pentru a surprinde apusul spectaculos de soare deasupra apei golfului.",
+                "en": "The beach is deserted and peaceful in winter, perfect for a brisk walk; arrive before 16:30 to catch the spectacular sunset over the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Petite plage",
+                "hu": "Petite plage",
+                "ro": "Petite plage",
+                "en": "Petite plage"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Sterne über dem stillen Golf; eine Thermoskanne mit heißem Tee macht diesen kühlen Besuch am Meer viel angenehmer und wärmer.",
+                "hu": "Figyelje a felbukkanó csillagokat a csendes öböl felett; egy termosz forró tea sokkal kellemesebbé és melegebbé teszi ezt a hűvös tengerparti látogatást.",
+                "ro": "Urmăriți stelele apărând deasupra golfului liniștit; un termos cu ceai fierbinte va face această vizită răcoroasă la malul mării mult mai plăcută.",
+                "en": "Watch the early stars emerge over the quiet gulf as the day ends; a thermos of hot tea will make this chilly seaside visit much more comfortable."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon el a főtemplomtól a hangulatos Almabor Házhoz, és kóstolja meg a régió híres almás finomságait. Délben kellemes tekerés vár Önre a bájos Saint-Vincent templom és egy történelmi kastély mellett. Délután pedálozzon az öböl mentén, és merüljön el a védett zónák természetes nyugalmában. Fejezze be túráját a sólepárlóknál, felfedezve a helyi hagyományokat.",
         "ro": "Pedalați de la biserica principală spre fermecătoarea Casă a Cidrului pentru a degusta creațiile celebre din mere ale regiunii. Amiaza aduce o plimbare ușoară pe lângă biserica Saint-Vincent și un castel istoric. După-amiaza, mergeți de-a lungul golfului pentru a vă bucura de liniștea zonelor naturale protejate. Încheiați cursa la saline, descoperind tradițiile locale cu adevărat fascinante.",
         "en": "Cycle out from the main church towards the delightful Cider House to taste the region's famous apple creations. Midday brings a gentle ride past the charming Saint-Vincent church and a historic chateau setting. In the afternoon, pedal along the gulf to immerse yourself in the natural tranquility of the protected navigation zones. End your ride at the salt pans, discovering local traditions."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zur Kirche, da die Straßen rutschig sind. Das Cidre-Haus bietet mittags einen trockenen Stopp für Verkostungen. Nachmittags besuchen wir das Schloss, doch die Wege durch die Parks erfordern wasserfeste Reifen. Abends ist die Rückfahrt im Regen entlang der Küste fordernd, aber die frische, salzige Luft unter der Regenhaube ist belebend.",
+            "hu": "Reggel óvatosan tekerünk a templomhoz a csúszós aszfalton. Délben az almaborháza kínál száraz pihenőt és kóstolót. Délután a kastélyt érintjük, de a parki utak sárosak, jó sárvédő szükséges. Este az esőben való visszatérés a part mentén kihívás, de a friss, sós levegő az esővédő alatt igazán felüdítő élmény.",
+            "ro": "Dimineața pedalăm cu atenție spre biserică, deoarece drumurile sunt alunecoase. Casa cidrului oferă la prânz o oprire uscată pentru degustări. După-amiaza vizităm castelul, dar potecile prin parc necesită anvelope bune. Seara, întoarcerea prin ploaie de-a lungul coastei este solicitantă, dar aerul proaspăt este revigorant.",
+            "en": "In the morning, we cycle carefully to the church as roads are slippery. The cider house offers a dry stop for tastings at noon. In the afternoon, we visit the castle, but park paths are muddy and require good mudguards. In the evening, returning in the rain along the coast is challenging but refreshing under a hood."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Armel",
+                "hu": "Église Saint-Armel",
+                "ro": "Église Saint-Armel",
+                "en": "Église Saint-Armel"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Vordach und nutzen Sie die Stille der Kirche, um sich vor der nächsten Etappe kurz im Trockenen auszuruhen.",
+                "hu": "Parkoljon le az előtető alatt, és használja ki a templom csendjét, hogy a következő szakasz előtt egy kicsit megpihenjen a szárazon.",
+                "ro": "Parcați bicicleta sub copertină și folosiți liniștea bisericii pentru a vă odihni puțin la uscat înainte de următoarea etapă a traseului.",
+                "en": "Park your bike under the overhang and use the church's silence to rest in the dry for a moment before the next stage of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "La Maison du Cidre",
+                "hu": "La Maison du Cidre",
+                "ro": "La Maison du Cidre",
+                "en": "La Maison du Cidre"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um die Regenjacken zu lüften; genießen Sie eine Verkostung im Warmen, während draußen der Regen auf das Dach trommelt.",
+                "hu": "Tökéletes hely az esőkabátok kiszellőztetésére; élvezze a kóstolót a melegben, miközben kint az eső kopog a tetőn, és pihentesse a lábait.",
+                "ro": "Acesta este locul perfect pentru a aerisi pelerinele de ploaie; bucurați-vă de o degustare la căldură în timp ce ploaia bate în acoperiș.",
+                "en": "This is the perfect place to air out your raincoats; enjoy a tasting in the warm interior while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Vincent",
+                "hu": "Église Saint-Vincent",
+                "ro": "Église Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den nassen Pflastersteinen; das Innere bietet einen friedlichen Rückzugsort vor dem stürmischen bretonischen Wetter.",
+                "hu": "Vigyázzon a leszálláskor a vizes macskaköveken; a belső tér békés menedéket nyújt a viharos breton időjárás és a szél elől a kerékpárosoknak.",
+                "ro": "Aveți grijă când coborâți de pe bicicletă pe pavajul ud; interiorul oferă un refugiu pașnic în fața vremii furtunoase din Bretania.",
+                "en": "Be careful when dismounting on the wet cobblestones; the interior offers a peaceful sanctuary from the stormy Breton weather and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bot-Spernen",
+                "hu": "Château de Bot-Spernen",
+                "ro": "Château de Bot-Spernen",
+                "en": "Château de Bot-Spernen"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann rutschig sein; bewundern Sie das Schloss aus der Ferne im Regen, was ihm ein besonders geheimnisvolles Aussehen verleiht.",
+                "hu": "A feljáró csúszós lehet; csodálja meg a kastélyt távolról az esőben, ami különösen titokzatos és méltóságteljes megjelenést kölcsönöz az épületnek.",
+                "ro": "Aleea de acces poate fi alunecoasă; admirați castelul de la distanță prin ploaie, ceea ce îi conferă un aspect deosebit de misterios.",
+                "en": "The driveway can be slippery; admire the castle from a distance in the rain, which gives it a particularly mysterious and grand appearance."
+              }
+            },
+            {
+              "name": {
+                "de": "Zone de tranquilité",
+                "hu": "Zone de tranquilité",
+                "ro": "Zone de tranquilité",
+                "en": "Zone de tranquilité"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie die schlammigen Graswege und bleiben Sie auf den befestigten Pfaden, um sicher durch das verregnete Naturschutzgebiet zu kommen.",
+                "hu": "Kerülje el a sáros füves utakat és maradjon a szilárdabb ösvényeken, hogy biztonságban átvágjon a tengerparti természetvédelmi területen.",
+                "ro": "Evitați potecile de iarbă noroioase și rămâneți pe drumurile pavate pentru a traversa în siguranță rezervația naturală pe ploaie.",
+                "en": "Avoid the muddy grass paths and stick to the firmer trails to cross the coastal nature reserve safely during the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "La paludière du golfe",
+                "hu": "La paludière du golfe",
+                "ro": "La paludière du golfe",
+                "en": "La paludière du golfe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen längeren Stopp, um sich aufzuwärmen und Ihre Ausrüstung zu trocknen, bevor Sie die letzte Etappe Ihrer Tour antreten.",
+                "hu": "Használja ki ezt a hosszabb megállót, hogy felmelegedjen és megszárítsa a felszerelését, mielőtt nekivágna a túra utolsó szakaszának.",
+                "ro": "Folosiți această oprire mai lungă pentru a vă încălzi și a vă usca echipamentul înainte de a porni în ultima etapă a traseului.",
+                "en": "Take advantage of this longer stop to warm up and dry your gear before heading out for the final leg of your cycling tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start erfordert warme Handschuhe auf dem Weg zur Kirche. Mittags wärmt uns der Cidre-Besuch von innen auf, während die Wintersonne tief steht. Nachmittags besichtigen wir das Schloss im klaren Licht, müssen aber vor Einbruch der Dunkelheit um 17:00 Uhr die Tour beenden. Abends genießen wir die Ruhe der winterlichen Küste bei einer schnellen Rückfahrt im Wind.",
+            "hu": "A fagyos kezdés meleg kesztyűt igényel a templom felé vezető úton. Délben az almaborház látogatása belülről melegít fel, miközben a téli nap alacsonyan jár. Délután a kastélyt nézzük meg a tiszta fényben, de a 17:00-ás sötétedés előtt be kell fejeznünk a túrát. Este a téli part nyugalmát élvezzük a szeles visszatérés során.",
+            "ro": "Un început geros necesită mănuși calde în drum spre biserică. La prânz, vizita la casa cidrului ne încălzește pe interior sub soarele palid. După-amiaza vedem castelul în lumină clară, dar trebuie să terminăm turul înainte de ora 17:00. Seara, savurăm liniștea coastei de iarnă în timpul unei curse rapide în vânt.",
+            "en": "A frosty start requires warm gloves on the way to the church. At noon, the cider house visit warms us from inside as the winter sun hangs low. In the afternoon, we see the castle in clear light, but must finish before the 17:00 sunset. In the evening, enjoy the winter coast's peace during a brisk ride back in the wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Armel",
+                "hu": "Église Saint-Armel",
+                "ro": "Église Saint-Armel",
+                "en": "Église Saint-Armel"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort; nehmen Sie sich Zeit, um die Finger aufzuwärmen, bevor Sie die Fahrt im kalten Seewind fortsetzen.",
+                "hu": "A templom szélvédett helyet kínál; szánjon időt az ujjai felmelegítésére, mielőtt folytatná az utat a hideg tengeri szélben.",
+                "ro": "Biserica oferă un loc ferit de vânt; acordați-vă timp pentru a vă încălzi degetele înainte de a continua drumul prin briza rece.",
+                "en": "The church offers a wind-sheltered spot; take time to warm your fingers before continuing the ride in the cold coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "La Maison du Cidre",
+                "hu": "La Maison du Cidre",
+                "ro": "La Maison du Cidre",
+                "en": "La Maison du Cidre"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie den warmen Apfelsaft oder Cidre, um Ihre Körpertemperatur zu erhöhen; ein gemütlicher Stopp gegen die winterliche Kälte draußen.",
+                "hu": "Kóstolja meg a meleg almalevet vagy almabort, hogy növelje testhőmérsékletét; hangulatos megálló a kinti téli hideg ellen a bicikliseknek.",
+                "ro": "Gustați sucul de mere cald sau cidrul pentru a vă ridica temperatura corpului; o oprire primitoare împotriva frigului de iarnă de afară.",
+                "en": "Try some warm apple juice or cider to boost your body temperature; it is a welcoming stop against the winter cold for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Vincent",
+                "hu": "Église Saint-Vincent",
+                "ro": "Église Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht für Fotos der Fassade; im Inneren finden Sie Schutz vor den eisigen Böen, die vom Golf von Morbihan herüberwehen.",
+                "hu": "Használja ki a nappali fényt a homlokzat fotózásához; belül védelmet talál a Morbihan-öböl felől fújó jeges széllökések elől.",
+                "ro": "Profitați de lumina zilei pentru poze la fațadă; în interior veți găsi protecție împotriva rafalelor înghețate care suflă dinspre golf.",
+                "en": "Utilize the daylight for photos of the facade; inside, you will find protection from the icy gusts blowing in from the Gulf of Morbihan."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bot-Spernen",
+                "hu": "Château de Bot-Spernen",
+                "ro": "Château de Bot-Spernen",
+                "en": "Château de Bot-Spernen"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht im klaren Winterlicht prächtig aus; beeilen Sie sich mit der Besichtigung, da die Schatten am Nachmittag schnell länger werden.",
+                "hu": "A kastély pompásan fest a tiszta téli fényben; igyekezzen a nézelődéssel, mert a délutáni árnyékok ilyenkor nagyon gyorsan megnyúlnak.",
+                "ro": "Castelul arată magnific în lumina clară de iarnă; grăbiți-vă cu vizita, deoarece umbrele după-amiezii se lungesc foarte repede.",
+                "en": "The castle looks magnificent in the clear winter light; hurry with your sightseeing as the afternoon shadows lengthen very quickly now."
+              }
+            },
+            {
+              "name": {
+                "de": "Zone de tranquilité",
+                "hu": "Zone de tranquilité",
+                "ro": "Zone de tranquilité",
+                "en": "Zone de tranquilité"
+              },
+              "tip_5lang": {
+                "de": "Die Wintervögel sind oft in Küstennähe zu sehen; tragen Sie eine winddichte Schicht, da es auf dem offenen Gelände des Reservats sehr frostig ist.",
+                "hu": "A téli madarak gyakran láthatók a part közelében; viseljen szélálló réteget, mert a rezervátum nyitott terepén nagyon fagyos az idő.",
+                "ro": "Păsările de iarnă pot fi văzute adesea lângă coastă; purtați un strat rezistent la vânt, deoarece pe terenul deschis este foarte ger.",
+                "en": "Winter birds can often be seen near the shore; wear a windproof layer as it is very frosty on the open terrain of the reserve."
+              }
+            },
+            {
+              "name": {
+                "de": "La paludière du golfe",
+                "hu": "La paludière du golfe",
+                "ro": "La paludière du golfe",
+                "en": "La paludière du golfe"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte letzte Stopp, um sich aufzuwärmen, bevor die Sonne untergeht; schalten Sie unbedingt Ihre Fahrradlichter für den Rückweg ein.",
+                "hu": "Tökéletes utolsó megálló a felmelegedéshez naplemente előtt; mindenképpen kapcsolja be a kerékpárlámpákat a sötétedő hazaúthoz.",
+                "ro": "Ultima oprire perfectă pentru a vă încălzi înainte de apus; asigurați-vă că aprindeți luminile bicicletei pentru drumul de întoarcere.",
+                "en": "The perfect final stop to warm up before the sun goes down; be sure to turn on your bike lights for the darkening ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autózzon reggel a Saint-Vincent templomhoz, majd tegyen egy ízletes és tanulságos megállót az Almabor Háznál. A dél a történelmi Bot-Spernen építészetét és Saint-Armel spirituális központját kínálja. Délután fedezze fel a lenyűgöző sós mocsarakat és a Lasné strand homokos partját. Zárja az autós túrát a családbarát kikapcsolódást nyújtó Oh Bonheur des Gosses parkban.",
         "ro": "Conduceți dimineața către biserica Saint-Vincent, urmată de o oprire gustoasă și educativă la Casa Cidrului. Amiaza oferă arhitectura istorică de la Bot-Spernen și centrul spiritual din Saint-Armel. După-amiaza, explorați mlaștinile sărate fascinante și întinderea de nisip a plajei Lasné. Încheiați turul cu mașina printr-o relaxare pentru întreaga familie la Oh Bonheur des Gosses.",
         "en": "Drive straight to Saint-Vincent church for a peaceful morning start, followed by an educational and tasty stop at the Cider House. Midday offers historic architecture at Bot-Spernen and the spiritual center of Saint-Armel. In the afternoon, explore the fascinating salt marshes and the sandy stretch of Lasné beach. Conclude your driving tour with family-friendly recreation at Oh Bonheur des Gosses."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen wir die Kirchen im Schutz des Autos. Mittags ist das Cidre-Haus ein idealer Ort, um dem Regen bei einer Führung zu entkommen. Nachmittags besichtigen wir das Schloss und das Salzmuseum, beide bieten trockene Erlebnisse. Abends genießen wir die Aussicht auf den verregneten Strand bequem vom Fahrersitz aus, während wir trocken zum nächsten Ziel fahren.",
+            "hu": "Reggel a templomokat látogatjuk meg az autó védelmében. Délben az almaborház ideális hely az eső elől egy vezetett túrára. Délután a kastélyt és a sós lepárló múzeumát nézzük meg, mindkettő száraz élményt nyújt. Este a kényelmes autóülésből csodáljuk a ködös tengerpartot, miközben szárazon és kényelemben utazunk a következő állomásig.",
+            "ro": "Dimineața vizităm bisericile sub protecția mașinii. La prânz, casa cidrului este un loc ideal pentru a scăpa de ploaie cu un tur ghidat. După-amiaza vedem castelul și muzeul sării, ambele oferind experiențe la uscat. Seara, admirăm plaja cețoasă din confortul scaunului mașinii, călătorind spre destinație fără a ne uda.",
+            "en": "In the morning, we visit the churches protected by the car. At noon, the cider house is an ideal spot to escape the rain with a guided tour. In the afternoon, we see the castle and the salt museum, both offering dry experiences. In the evening, admire the misty beach from the comfort of the car seat while traveling dry to your destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Vincent",
+                "hu": "Église Saint-Vincent",
+                "ro": "Église Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu meiden; im Inneren können Sie die Ruhe und die sakrale Kunst ganz im Trockenen genießen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt; bent a csendet és a szakrális művészetet teljesen szárazon élvezheti.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; în interior vă puteți bucura de liniște și de arta sacră complet la uscat.",
+                "en": "Park as close to the entrance as possible to avoid the rain; inside, you can enjoy the silence and sacred art while remaining completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "La Maison du Cidre",
+                "hu": "La Maison du Cidre",
+                "ro": "La Maison du Cidre",
+                "en": "La Maison du Cidre"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Stopp für regnerische Tage; die Indoor-Tour ist informativ, und Sie können lokale Produkte kaufen, ohne nass zu werden.",
+                "hu": "Nagyszerű megálló esős napokra; a fedett túra informatív, és helyi termékeket vásárolhat anélkül, hogy elázna a tengerparti szélben.",
+                "ro": "O oprire excelentă pentru zilele ploioase; turul interior este informativ și puteți cumpăra produse locale fără a vă uda deloc.",
+                "en": "A great stop for rainy days; the indoor tour is informative, and you can shop for local products without getting wet in the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bot-Spernen",
+                "hu": "Château de Bot-Spernen",
+                "ro": "Château de Bot-Spernen",
+                "en": "Château de Bot-Spernen"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des Schlosses durch die regennasse Windschutzscheibe; die Beleuchtung bei trübem Wetter wirkt besonders majestätisch.",
+                "hu": "Élvezze a kastély látványát az eső áztatta szélvédőn keresztül; a borús időben az épület világítása és formája különösen fenségesnek hat.",
+                "ro": "Bucurați-vă de vederea castelului prin parbrizul udat de ploaie; iluminarea pe vreme mohorâtă face clădirea să pară deosebit de maiestuoasă.",
+                "en": "Enjoy the view of the castle through the rain-streaked windshield; the lighting in gloomy weather makes the building look particularly majestic."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Armel",
+                "hu": "Église Saint-Armel",
+                "ro": "Église Saint-Armel",
+                "en": "Église Saint-Armel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg vom Parkplatz für eine Atempause im historischen Ambiente, während draußen der bretonische Regen niedergeht.",
+                "hu": "Használja ki a parkolótól vezető rövid sétát egy kis történelmi pihenőre, miközben odakint sűrűn esik a jellegzetes breton eső.",
+                "ro": "Folosiți scurta plimbare de la parcare pentru o pauză în ambianța istorică, în timp ce afară cade ploaia tipică regiunii Bretania.",
+                "en": "Use the short walk from the parking area for a breather in the historic ambiance while the typical Breton rain falls steadily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "La paludière du golfe",
+                "hu": "La paludière du golfe",
+                "ro": "La paludière du golfe",
+                "en": "La paludière du golfe"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich die Beine zu vertreten, ohne dem Wetter ausgesetzt zu sein; lernen Sie alles über das 'Weiße Gold' der Region im Warmen.",
+                "hu": "Tökéletes hely a lábak átmozgatására anélkül, hogy ki lenne téve az időjárásnak; tudjon meg mindent a régió fehér aranyáról a melegben.",
+                "ro": "Locul perfect pentru a vă întinde picioarele fără a fi expus vremii; aflați totul despre aurul alb al regiunii într-un mediu cald.",
+                "en": "The perfect place to stretch your legs without being exposed to the weather; learn all about the region's white gold in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lasné",
+                "hu": "Plage de Lasné",
+                "ro": "Plage de Lasné",
+                "en": "Plage de Lasné"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer aus der Wärme Ihres Autos; die Sicht auf den Golf ist auch bei Regen durch das Fenster faszinierend und rau.",
+                "hu": "Figyelje a viharos tengert az autó melegéből; az öbölre nyíló kilátás esőben is lenyűgöző és vadregényes az üvegen keresztül szemlélve.",
+                "ro": "Urmăriți marea furtunoasă din căldura mașinii; vederea spre golf este fascinantă și sălbatică chiar și prin geam pe timp de ploaie.",
+                "en": "Watch the stormy sea from the warmth of your car; the view of the gulf is fascinating and wild even through the window during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Oh Bonheur des Gosses!",
+                "hu": "Oh Bonheur des Gosses!",
+                "ro": "Oh Bonheur des Gosses!",
+                "en": "Oh Bonheur des Gosses!"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Abschluss für Familien; dieser Ort bietet Unterhaltung im Trockenen, sodass die Kinder trotz des schlechten Wetters spielen können.",
+                "hu": "Ideális befejezés családoknak; ez a hely fedett szórakozást kínál, így a gyerekek a rossz idő ellenére is önfeledten játszhatnak és mozoghatnak.",
+                "ro": "Un final ideal pentru familii; acest loc oferă divertisment la uscat, astfel încât copiii se pot juca în ciuda vremii nefavorabile de afară.",
+                "en": "An ideal ending for families; this place offers indoor entertainment, so children can play and move freely despite the bad weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frostigen Morgen genießen wir die Fahrt zur Kirche mit eingeschalteter Heizung. Mittags wärmt uns der Besuch im Cidre-Haus auf, während wir lokale Spezialitäten entdecken. Nachmittags besichtigen wir das Schloss und das Salzmuseum im sanften Winterlicht. Da es um 17:00 Uhr dunkel wird, beenden wir den Tag gemütlich an der Küste, bevor wir sicher im Warmen zurückkehren.",
+            "hu": "A fagyos reggelen bekapcsolt fűtéssel élvezzük az utat a templomhoz. Délben az almaborház melegében fedezzük fel a helyi különlegességeket. Délután a kastélyt és a sós lepárló múzeumát látogatjuk meg a lágy téli fényekben. Mivel 17:00-kor sötétedik, a napot a tengerparton zárjuk, mielőtt biztonságban és melegben visszatérnénk.",
+            "ro": "Într-o dimineață geroasă, savurăm drumul spre biserică cu căldura pornită. La prânz, vizita la casa cidrului ne încălzește în timp ce descoperim specialități locale. După-amiaza vedem castelul și muzeul sării în lumina blândă de iarnă. Deoarece se întunecă la 17:00, încheiem ziua la coastă înainte de a ne întoarce la căldură.",
+            "en": "On a frosty morning, we enjoy the drive to the church with the heater on. At noon, the cider house visit warms us up while discovering local specialties. In the afternoon, we see the castle and the salt museum in the soft winter light. As it gets dark at 17:00, we end the day at the coast before returning safely in the warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Vincent",
+                "hu": "Église Saint-Vincent",
+                "ro": "Église Saint-Vincent",
+                "en": "Église Saint-Vincent"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern halten die Kälte ab; nutzen Sie den Stopp für einen Moment der Besinnung in einer friedlichen, frostfreien Umgebung.",
+                "hu": "A templom vastag falai távol tartják a kinti fagyot; használja ki a megállót egy pillanatnyi elcsendesedésre ebben a békés, fagymentes környezetben.",
+                "ro": "Zidurile groase ale bisericii țin frigul la distanță; folosiți oprirea pentru un moment de reflecție într-un mediu pașnic și ferit de ger.",
+                "en": "The thick church walls keep the cold at bay; use the stop for a moment of reflection in a peaceful, frost-free environment during your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "La Maison du Cidre",
+                "hu": "La Maison du Cidre",
+                "ro": "La Maison du Cidre",
+                "en": "La Maison du Cidre"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort im Winter; genießen Sie die warme Atmosphäre und nehmen Sie einige Flaschen Cidre als Souvenir für kalte Abende mit nach Hause.",
+                "hu": "Hangulatos hely télen; élvezze a barátságos légkört, és vigyen haza néhány üveg almabort szuvenírnek a hideg téli estékre a családnak.",
+                "ro": "Un loc primitor iarna; bucurați-vă de atmosfera caldă și luați acasă câteva sticle de cidru ca suvenir pentru serile reci de iarnă.",
+                "en": "A cozy spot in winter; enjoy the warm atmosphere and take home a few bottles of cider as a souvenir for cold winter evenings with family."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bot-Spernen",
+                "hu": "Château de Bot-Spernen",
+                "ro": "Château de Bot-Spernen",
+                "en": "Château de Bot-Spernen"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im klaren Winterlicht besonders elegant; ein kurzer Fotostopp lohnt sich, bevor Sie wieder in die Wärme Ihres Autos schlüpfen.",
+                "hu": "A kastély különösen elegánsan fest a tiszta téli fényben; egy rövid fotómegálló megéri, mielőtt visszabújna az autója kellemes melegébe.",
+                "ro": "Castelul pare deosebit de elegant în lumina clară de iarnă; o scurtă oprire pentru fotografii merită înainte de a reveni la căldura mașinii.",
+                "en": "The castle looks particularly elegant in the clear winter light; a quick photo stop is worth it before slipping back into the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Armel",
+                "hu": "Église Saint-Armel",
+                "ro": "Église Saint-Armel",
+                "en": "Église Saint-Armel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Kirche, während Sie der eisigen Meeresbrise entkommen; der Innenraum strahlt im Winter eine besondere Ruhe aus.",
+                "hu": "Csodálja meg a templom részleteit, miközben elmenekül a jeges tengeri fuvallatok elől; a belső tér télen különleges nyugalmat áraszt a látogatóknak.",
+                "ro": "Admirați detaliile bisericii în timp ce scăpați de briza înghețată a mării; interiorul emană o liniște deosebită în timpul sezonului rece.",
+                "en": "Admire the details of the church while escaping the icy sea breeze; the interior radiates a special calm during the winter season for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "La paludière du golfe",
+                "hu": "La paludière du golfe",
+                "ro": "La paludière du golfe",
+                "en": "La paludière du golfe"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind gut beheizt und bieten eine interessante Pause von der Fahrt durch die frostige Küstenlandschaft der Bretagne.",
+                "hu": "A kiállítások jól fűtöttek, és érdekes pihenőt kínálnak a Bretagne fagyos tengerparti tájain keresztül vezető autós utazás során.",
+                "ro": "Expozițiile sunt bine încălzite și oferă o pauză interesantă de la drumul prin peisajul înghețat de coastă al regiunii Bretania.",
+                "en": "The exhibitions are well-heated and offer an interesting break from driving through the frosty coastal landscapes of Brittany in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Lasné",
+                "hu": "Plage de Lasné",
+                "ro": "Plage de Lasné",
+                "en": "Plage de Lasné"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 16:30 Uhr bequem von Ihrem Auto aus; die Farben über dem winterlichen Golf sind oft spektakulär rot.",
+                "hu": "Élvezze a naplementét 16:30 körül kényelmesen az autójából; a téli öböl feletti színek ilyenkor gyakran látványosan vörösek és mélyek.",
+                "ro": "Bucurați-vă de apusul soarelui în jurul orei 16:30 din confortul mașinii; culorile peste golful de iarnă sunt adesea spectaculos de roșii.",
+                "en": "Enjoy the sunset around 16:30 comfortably from your car; the colors over the winter gulf are often spectacularly red and deep at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Oh Bonheur des Gosses!",
+                "hu": "Oh Bonheur des Gosses!",
+                "ro": "Oh Bonheur des Gosses!",
+                "en": "Oh Bonheur des Gosses!"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag im Warmen zu beenden; die Kinder können sich austoben, während die Erwachsenen die frostfreie Umgebung genießen.",
+                "hu": "Tökéletes hely a nap melegben való befejezéséhez; a gyerekek kitölthetik energiáikat, miközben a felnőttek élvezik a fagymentes környezetet.",
+                "ro": "Locul perfect pentru a încheia ziua la căldură; copiii se pot juca în voie, în timp ce adulții se bucură de mediul ferit de îngheț.",
+                "en": "The perfect place to end the day in the warm; children can release their energy while adults enjoy the frost-free environment indoors."
+              }
+            }
+          ]
+        }
       }
     }
   }

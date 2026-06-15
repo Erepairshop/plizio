@@ -160,6 +160,196 @@
         "hu": "Sétája Arpajonban a városházánál indul, ahonnan a Szent Kelemen-templom felé veszi az irányt. A csendes utcák és a gyönyörű építészet azonnal magával ragadja. Az óváros történelmi hangulata igazán pihentető élményt nyújt a látogatóknak.\n\nDél körül megérkezik a lenyűgöző történelmi vásárcsarnokhoz. A hatalmas faszerkezet lenyűgöző látványt nyújt. A Piactéren aztán megpihenhet, miközben bekapcsolódik a helyi mindennapok forgatagába és élvezi a pezsgő atmoszférát.\n\nDélután a Francval Galéria várja, ahol izgalmas művészeti kiállításokat tekinthet meg. A helyi tehetségek munkái inspiráló hatással lesznek önre. A rövid séták a látnivalók között remek lehetőséget adnak a város felfedezésére.\n\nA nap a kulturális jelentőségű Charlotte Delbo Teremnél ér véget. Ez az intézmény méltó lezárása egy olyan napnak, amelyet Arpajon gazdag történelmének és vibráló művészeti életének megismerésére szánt sétálva.",
         "ro": "Plimbarea dvs. prin Arpajon începe la primărie și vă duce spre fermecătoarea Biserică Saint-Clément. Arhitectura clasică și atmosfera liniștită vă vor captiva imediat. Veți simți pulsul istoric al orașului în timp ce vă plimbați pe străduțe.\n\nSpre prânz, veți ajunge la impresionanta hală istorică a pieței. Structura sa masivă din lemn este o adevărată capodoperă. Apoi, în Piața Centrală, vă puteți bucura de forfota cotidiană și de o pauză binemeritată în inima orașului.\n\nDupă-amiaza este dedicată artei, cu o vizită la Galeria Francval. Aici veți descoperi lucrări fascinante ale artiștilor locali. Atmosfera creativă vă va oferi o nouă perspectivă asupra culturii și talentului din regiune.\n\nZiua se încheie la Sala Charlotte Delbo, un centru cultural important. Acest loc oferă un spațiu de reflecție perfect după o zi plină. O încheiere minunată pentru o explorare la pas a frumuseților din Arpajon.",
         "en": "Your walking tour of Arpajon begins at the Town Hall and takes you to the charming Église Saint-Clément. The historical architecture and quiet streets instantly draw you into the town's atmosphere. Enjoy the peaceful morning vibe.\n\nBy midday, you will marvel at the impressive historical market hall. Its massive wooden structure is a sight to behold. Just next to it, the Place du Marché offers a vibrant setting where you can feel the true pulse of the local community.\n\nIn the afternoon, the tour brings you to the Gallerie Francval. Here, you can immerse yourself in captivating art exhibitions and discover local talent. The short walks between sights reveal hidden corners of the town.\n\nThe day concludes at the Salle Charlotte Delbo, a venue of significant cultural importance. Take a moment to reflect on the inspiring sights you've seen. A perfect ending to a comprehensive walking journey through the heart of Arpajon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Rathaus Schutz, während wir die Architektur bewundern. Mittags ist die Kirche Saint-Clément ein trockener Rückzugsort. Nachmittags dient die historische Halle als riesiger Regenschirm für den Marktbesuch. Abends genießen wir die Kultur in der Galerie Francval und der Salle Delbo, geschützt vor dem nassen Wetter draußen.",
+            "hu": "Reggel a városháza díszes homlokzatánál kezdünk, esernyővel a kézben. Délben a Szent Kelemen-templom hűvös, de száraz falai nyújtanak menedéket. Délután a Halle hatalmas tetőszerkezete alatt teljesen védve vagyunk az esőtől. Estére a galéria és a Delbo terem belső terei kínálnak tartalmas és száraz kikapcsolódást a város szívében.",
+            "ro": "Dimineața admirăm primăria sub protecția umbrelei. La prânz, biserica Saint-Clément oferă un refugiu uscat și liniștit. După-amiaza, piața acoperită Halle funcționează ca o umbrelă gigantică, protejându-ne de ploaie. Seara este dedicată artei în Galeria Francval și Sala Delbo, unde atmosfera interioară ne face să uităm de vremea de afară.",
+            "en": "In the morning, we start by the town hall, keeping an umbrella handy. At noon, Saint-Clément Church offers a peaceful, dry sanctuary. In the afternoon, the massive roof of the Halle provides perfect shelter while exploring history. The evening ends beautifully inside the Francval Gallery and Salle Delbo, where you stay warm and dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie d'Arpajon",
+                "hu": "Arpajon Városháza",
+                "ro": "Primăria Arpajon",
+                "en": "Arpajon Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die elegante Fassade des Rathauses vom überdachten Eingangsbereich aus; achten Sie auf die nassen Stufen beim Aufstieg.",
+                "hu": "Csodálja meg a városháza elegáns homlokzatát a fedett bejárat alól; ügyeljen a nedves és csúszós lépcsőkre a megközelítéskor.",
+                "ro": "Admirați fațada elegantă a primăriei de sub intrarea acoperită; aveți grijă la treptele umede și alunecoase când urcați.",
+                "en": "Admire the elegant facade of the town hall from the sheltered entrance area; be careful on the wet and slippery steps while approaching."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Clément",
+                "hu": "Szent Kelemen-templom",
+                "ro": "Biserica Saint-Clément",
+                "en": "Église Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenbesuch, um die prächtigen Glasmalereien im Trockenen zu bewundern; ideal, um einen plötzlichen Regenschauer abzuwarten.",
+                "hu": "Használja ki a templomlátogatást a gyönyörű üvegablakok megcsodálására a szárazban; ideális helyszín egy hirtelen zápor kivárására.",
+                "ro": "Profitați de vizita la biserică pentru a admira vitraliile superbe la adăpost; este locul ideal pentru a aștepta trecerea unei ploi rapide.",
+                "en": "Take advantage of the church visit to admire the beautiful stained glass windows while staying dry; the perfect spot to wait out a shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle d'Arpajon",
+                "hu": "Halle d'Arpajon",
+                "ro": "Halle d'Arpajon",
+                "en": "Halle d'Arpajon"
+              },
+              "tip_5lang": {
+                "de": "Diese mittelalterliche Markthalle ist der ultimative Zufluchtsort bei Regen; erkunden Sie die riesigen Holzkonstruktionen völlig ungestört vom Wetter.",
+                "hu": "Ez a középkori vásárcsarnok a végső menedék esőben; fedezze fel a hatalmas faszerkezetet az időjárástól teljesen zavartalanul.",
+                "ro": "Această hală medievală este refugiul suprem pe ploaie; explorați structura masivă de lemn fără a fi deranjat de capriciile vremii.",
+                "en": "This medieval market hall is the ultimate sanctuary in the rain; explore the massive wooden structure completely undisturbed by the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Marché",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Place du Marché"
+              },
+              "tip_5lang": {
+                "de": "Die Pfützen auf dem historischen Kopfsteinpflaster bieten tolle Fotomotive, aber tragen Sie wasserfeste Schuhe für diesen offenen Bereich.",
+                "hu": "A történelmi macskaköveken megálló tócsák nagyszerű fotótémát kínálnak, de viseljen vízálló cipőt ezen a nyitott területen.",
+                "ro": "Bălțile de pe pavajul istoric oferă oportunități foto excelente, dar purtați încălțăminte impermeabilă pentru această zonă deschisă.",
+                "en": "Puddles on the historical cobblestones offer great photo opportunities, but wear waterproof shoes for this open outdoor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallerie Francval",
+                "hu": "Francval Galéria",
+                "ro": "Galeria Francval",
+                "en": "Gallerie Francval"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in der Galerie, um die lokale Kunstszene im Warmen zu genießen; ein perfekter Ort für einen verregneten Nachmittag.",
+                "hu": "Hosszabbítsa meg tartózkodását a galériában, hogy a helyi művészetet a melegben élvezhesse; tökéletes helyszín egy esős délutánhoz.",
+                "ro": "Prelungiți vizita în galerie pentru a vă bucura de arta locală la căldură; este un loc perfect pentru o după-amiază ploioasă.",
+                "en": "Extend your stay in the gallery to enjoy local art in a warm setting; it is the perfect location for a rainy afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Charlotte Delbo",
+                "hu": "Charlotte Delbo Terem",
+                "ro": "Sala Charlotte Delbo",
+                "en": "Salle Charlotte Delbo"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie den Tag in diesem modernen Kulturzentrum ab; prüfen Sie das Programm für Abendveranstaltungen, um den Regen draußen zu vergessen.",
+                "hu": "Zárja a napot ebben a modern kulturális központban; nézze meg az esti programokat, hogy teljesen elfelejtse a kinti esőzést.",
+                "ro": "Încheiați ziua în acest centru cultural modern; verificați programul serii pentru a uita complet de ploaia de afară.",
+                "en": "End the day in this modern cultural center; check the evening schedule to completely forget about the rain falling outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Rathaus beginnt mit klarer Luft. Mittags wärmen wir uns in der Kirche Saint-Clément und bewundern die Halle im weichen Winterlicht. Nachmittags bietet die Galerie Francval eine gemütliche Flucht vor dem Frost. Da die Sonne gegen 17:00 Uhr untergeht, endet unsere Tour bei angenehmer Beleuchtung in der Salle Delbo.",
+            "hu": "A csípős reggelen a városházánál kezdünk, ahol a dér borította épület különleges látványt nyújt. Délben a templom és a Halle történelmi falai között keressük a téli hangulatot. Délután a galéria fűtött tereiben melegszünk fel. Mivel a nap 17:00 körül lenyugszik, a napot a Salle Delbo barátságos fényeiben fejezzük be.",
+            "ro": "O dimineață răcoroasă la primărie începe cu aer curat și tăios. La prânz ne încălzim în biserica Saint-Clément și admirăm hala în lumina blândă a iernii. După-amiaza, Galeria Francval oferă un refugiu primitor împotriva gerului. Deoarece soarele apune în jur de 17:00, turul nostru se încheie în lumina caldă din Sala Delbo.",
+            "en": "A crisp morning at the town hall begins with clear, cold air. At noon, we find warmth in Saint-Clément Church and see the Halle in soft winter light. In the afternoon, the Francval Gallery provides a cozy escape from the frost. As the sun sets around 5 PM, our tour concludes under the inviting lights of the Salle Delbo."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie d'Arpajon",
+                "hu": "Arpajon Városháza",
+                "ro": "Primăria Arpajon",
+                "en": "Arpajon Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des winterlichen Rathauses; tragen Sie warme Handschuhe, da die Metallgeländer im Außenbereich sehr kalt sein können.",
+                "hu": "Élvezze a téli városháza látványát; viseljen meleg kesztyűt, mivel a kültéri fémkorlátok nagyon hidegek lehetnek ilyenkor.",
+                "ro": "Bucurați-vă de vederea primăriei în haine de iarnă; purtați mănuși groase, deoarece balustradele metalice pot fi foarte reci.",
+                "en": "Enjoy the sight of the winter town hall; wear warm gloves as the outdoor metal railings can be very cold this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Clément",
+                "hu": "Szent Kelemen-templom",
+                "ro": "Biserica Saint-Clément",
+                "en": "Église Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ruhige Atmosphäre für eine kurze Aufwärmpause; bewundern Sie die Architektur, während Sie sich vom Wind erholen.",
+                "hu": "A templom csendes környezetet biztosít egy rövid felmelegedéshez; csodálja meg az építészetet, miközben kipiheni a kinti szelet.",
+                "ro": "Biserica oferă un mediu liniștit pentru o scurtă încălzire; admirați arhitectura în timp ce vă odihniți de vântul de afară.",
+                "en": "The church provides a quiet environment for a short warm-up; admire the architecture while taking a break from the winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle d'Arpajon",
+                "hu": "Halle d'Arpajon",
+                "ro": "Halle d'Arpajon",
+                "en": "Halle d'Arpajon"
+              },
+              "tip_5lang": {
+                "de": "In der offenen Markthalle zieht es im Winter stark; ziehen Sie sich nach dem Zwiebelprinzip an, um die Holzstruktur ohne Frieren zu erkunden.",
+                "hu": "A nyitott vásárcsarnokban télen erősen húz a huzat; öltözzön rétegesen, hogy fázás nélkül fedezhesse fel a lenyűgöző faszerkezetet.",
+                "ro": "În hala deschisă curentul este puternic iarna; îmbrăcați-vă în straturi pentru a explora structura de lemn fără a vă fi frig.",
+                "en": "Drafts are strong in the open market hall during winter; dress in layers to explore the impressive wooden structure comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Marché",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Place du Marché"
+              },
+              "tip_5lang": {
+                "de": "Der Platz wirkt im Winterlicht besonders weit; wärmen Sie sich nach dem Rundgang in einem der umliegenden Cafés bei einem Heißgetränk auf.",
+                "hu": "A tér a téli fényekben különlegesen tágasnak hat; a körséta után melegedjen fel a környékbeli kávézók egyikében egy forró itallal.",
+                "ro": "Piața pare deosebit de spațioasă în lumina iernii; după plimbare, încălziți-vă la o cafenea din apropiere cu o băutură fierbinte.",
+                "en": "The square feels especially spacious in winter light; warm up after your walk at a nearby cafe with a nice hot drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallerie Francval",
+                "hu": "Francval Galéria",
+                "ro": "Galeria Francval",
+                "en": "Gallerie Francval"
+              },
+              "tip_5lang": {
+                "de": "Die beheizte Galerie ist der perfekte Ort, um der Kälte zu entfliehen und gleichzeitig in die lokale Kultur einzutauchen.",
+                "hu": "A fűtött galéria tökéletes helyszín, hogy elmeneküljön a hideg elől, miközben elmélyedhet a helyi kultúra kincseiben.",
+                "ro": "Galeria încălzită este locul perfect pentru a scăpa de frig, permițându-vă să explorați comorile culturii locale în confort.",
+                "en": "The heated gallery is the perfect place to escape the cold while immersing yourself in the treasures of local culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Charlotte Delbo",
+                "hu": "Charlotte Delbo Terem",
+                "ro": "Sala Charlotte Delbo",
+                "en": "Salle Charlotte Delbo"
+              },
+              "tip_5lang": {
+                "de": "Da es bereits um 17:00 Uhr dunkel wird, bietet das helle Innere der Salle Delbo einen angenehmen und warmen Ausklang des Tages.",
+                "hu": "Mivel 17:00-kor már sötétedik, a Salle Delbo világos és meleg belső tere kellemes lezárást nyújt a téli nap végén.",
+                "ro": "Deoarece se întunecă deja la ora 17:00, interiorul luminos și cald al Sălii Delbo oferă o încheiere plăcută a zilei de iarnă.",
+                "en": "Since it gets dark by 5 PM, the bright and warm interior of Salle Delbo provides a pleasant conclusion to your winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúrája Arpajonban a városházától indul egy lendületes kezdéssel. A Szent Kelemen-templomnál tett rövid megálló után a reggeli csendes utcákon teker tovább. A friss levegő azonnal meghozza a kedvét a város további felfedezéséhez.\n\nDélben megérkezik a lenyűgöző Halle d'Arpajon épületéhez. Innen a Saint-Denis templom felé veszi az irányt, amely békés atmoszférájával jutalmazza meg. A kerékpár lehetővé teszi, hogy könnyedén és gyorsan haladjon a történelmi negyedek között.\n\nDélután a Pablo Picasso Terem kulturális élményei várják. A rövid távolságok ideálisak egy laza, kényelmes tekeréshez. Érdemes megállni és magába szívni a helyi kultúra inspiráló rezgéseit, miközben az építészetet is megcsodálja.\n\nA nap a természetben, az Orge folyó festői partján ér véget. A központból egy kicsit hosszabb út vezet ebbe a zöld oázisba. Itt nyugodtan kikapcsolódhat, és tökéletes befejezése lesz ennek az élményekkel teli arpajoni kerékpáros napnak.",
         "ro": "Turul cu bicicleta prin Arpajon începe plin de energie la primărie. După o scurtă oprire la Biserica Saint-Clément, pedalați prin străzile liniștite de dimineață. Aerul proaspăt vă dă un impuls minunat pentru a explora mai departe împrejurimile.\n\nLa prânz, ajungeți la maiestuoasa Halle d'Arpajon. De aici vă continuați drumul spre Église Saint-Denis, care vă recompensează cu o atmosferă profund pașnică. Bicicleta vă permite să vă deplasați fără efort între diversele cartiere istorice.\n\nDupă-amiaza vă așteaptă Sala Pablo Picasso cu impresii culturale. Distanțele scurte sunt ideale pentru o cursă relaxantă. Puteți savura scena culturală vibrantă și admira arhitectura clădirilor pe lângă care treceți cu bicicleta.\n\nZiua se încheie în natură, pe malurile pitorești ale râului Orge. O plimbare ceva mai lungă din centru vă duce în această oază verde. Aici vă puteți relaxa complet, bucurându-vă de un final perfect pentru o zi minunată pe două roți.",
         "en": "Your cycling tour of Arpajon kicks off energetically at the Town Hall. After a quick stop at the Église Saint-Clément, you pedal through the quiet morning streets. The crisp fresh air sets a fantastic tone for further exploration of the town.\n\nBy lunchtime, you reach the majestic Halle d'Arpajon. From there, you ride towards the Église Saint-Denis, which rewards you with its profoundly peaceful atmosphere. Your bike allows you to effortlessly bridge the gaps between the historical districts.\n\nIn the afternoon, the Salle Pablo Picasso awaits with enriching cultural impressions. The short cycling distances are perfect for a relaxed ride. You can absorb the local culture and admire the passing architecture without feeling rushed at all.\n\nThe day concludes in nature along the picturesque banks of the Orge River. A slightly longer ride from the center brings you to this beautiful green oasis. Here, you can truly unwind and enjoy a perfect, relaxing finish to your cycling adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Arpajon erfordert Vorsicht auf glattem Pflaster. Vormittags nutzen wir die Kirchen und Hallen als Etappenziele. Mittags radeln wir vorsichtig zur Kirche Saint-Denis. Nachmittags besuchen wir die Salle Picasso im Trockenen, bevor wir am Flussufer trotz Regen die frische Luft genießen.",
+            "hu": "Az esős biciklizés Arpajonban óvatosságot igényel a csúszós macskaköveken. Délelőtt a templomokat és a csarnokot használjuk pihenőpontként. Délben óvatosan tekerünk a Saint-Denis templom felé. Délután a Picasso termet látogatjuk meg, majd a folyóparti friss levegőt élvezzük a szemerkélő esőben.",
+            "ro": "O plimbare cu bicicleta prin Arpajon pe ploaie necesită prudență pe pavajul alunecos. Dimineața folosim bisericile și halele ca puncte de oprire. La prânz pedalăm cu grijă spre biserica Saint-Denis. După-amiaza vizităm Sala Picasso la adăpost, apoi ne bucurăm de aerul curat de pe malul râului.",
+            "en": "Rainy cycling in Arpajon requires extra care on slippery cobblestones. In the morning, we use churches and the market hall as dry waypoints. At noon, we pedal cautiously to Saint-Denis Church. In the afternoon, we visit Salle Picasso before enjoying the fresh riverside air despite the drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie d'Arpajon",
+                "hu": "Arpajon Városháza",
+                "ro": "Primăria Arpajon",
+                "en": "Arpajon Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab; das Kopfsteinpflaster rund um das Rathaus ist bei Nässe extrem rutschig.",
+                "hu": "Parkolja le kerékpárját az előtető alatt; a városháza körüli macskakő nedvesen rendkívül csúszós, fokozott óvatosságot igényel.",
+                "ro": "Parcați bicicleta sub copertină; pavajul din jurul primăriei este extrem de alunecos când este ud, necesitând prudență sporită.",
+                "en": "Park your bike under the overhang; the cobblestones around the town hall are extremely slippery when wet, requiring extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Clément",
+                "hu": "Szent Kelemen-templom",
+                "ro": "Biserica Saint-Clément",
+                "en": "Église Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Regenjacke zu richten; nutzen Sie den geschützten Eingangsbereich für eine kurze Verschnaufpause.",
+                "hu": "Ideális megálló az esőkabát megigazítására; használja a védett bejárati részt egy rövid pihenőre a tekerés közben.",
+                "ro": "Un popas ideal pentru a vă aranja pelerina de ploaie; folosiți zona de intrare protejată pentru o scurtă pauză în timpul cursei.",
+                "en": "An ideal stop to adjust your raincoat; use the protected entrance area for a brief rest during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle d'Arpajon",
+                "hu": "Halle d'Arpajon",
+                "ro": "Halle d'Arpajon",
+                "en": "Halle d'Arpajon"
+              },
+              "tip_5lang": {
+                "de": "Das riesige Dach schützt Sie und Ihr Fahrrad perfekt vor dem Guss; genießen Sie die historische Atmosphäre im Trockenen.",
+                "hu": "A hatalmas tető tökéletesen megvédi Önt és kerékpárját a záportól; élvezze a történelmi hangulatot teljesen szárazon.",
+                "ro": "Acoperișul masiv vă protejează perfect pe dvs. și bicicleta de ploaie; bucurați-vă de atmosfera istorică stând la uscat.",
+                "en": "The massive roof protects you and your bike perfectly from the downpour; enjoy the historical atmosphere while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis Templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann bei Regen schlammig sein; achten Sie auf die Fahrbahnbeschaffenheit und nutzen Sie die Kirche als Schutzraum.",
+                "hu": "Az idevezető út esőben sáros lehet; figyeljen az útviszonyokra és használja a templom belsejét menedékként a zápor elől.",
+                "ro": "Drumul până aici poate fi noroios pe ploaie; fiți atenți la condițiile de drum și folosiți interiorul bisericii ca adăpost.",
+                "en": "The road here can be muddy in the rain; pay attention to road conditions and use the church interior as a shelter from the shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Pablo Picasso",
+                "hu": "Pablo Picasso Terem",
+                "ro": "Sala Pablo Picasso",
+                "en": "Salle Pablo Picasso"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Zwischenstopp im Warmen; trocknen Sie Ihre Ausrüstung kurz ab, bevor Sie die Ausstellungen im Inneren besichtigen.",
+                "hu": "Kulturális pihenő a melegben; szárítsa meg felszerelését egy kicsit, mielőtt megtekintené a benti kiállításokat és tereket.",
+                "ro": "Un popas cultural la căldură; uscați-vă puțin echipamentul înainte de a vizita expozițiile și spațiile interioare.",
+                "en": "A cultural break in the warmth; dry your gear a bit before viewing the indoor exhibitions and gallery spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Orge Flussufer",
+                "hu": "Orge Folyópart",
+                "ro": "Malurile Râului Orge",
+                "en": "Orge River Banks"
+              },
+              "tip_5lang": {
+                "de": "Die Wege am Fluss können rutschig und weich sein; fahren Sie langsam und genießen Sie die mystische Stimmung des Flusses im Regen.",
+                "hu": "A folyóparti utak csúszósak és puhák lehetnek; tekerjen lassan, és élvezze a folyó misztikus hangulatát az esőben.",
+                "ro": "Potecile de pe malul râului pot fi alunecoase și moi; pedalați încet și bucurați-vă de atmosfera mistică a râului pe ploaie.",
+                "en": "Riverside paths can be slippery and soft; ride slowly and enjoy the mystical atmosphere of the river in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte Winterwinde am Morgen machen das Radeln erfrischend. Wir besuchen Kirchen und die Halle, um zwischendurch aufzutauen. Mittags erreichen wir die Kirche Saint-Denis. Nachmittags bietet die Salle Picasso Wärme. Unsere Tour endet am Flussufer, kurz bevor die Sonne um 17:00 Uhr untergeht und die Kälte zunimmt.",
+            "hu": "A reggeli hideg szél frissítővé teszi a tekerést. Útközben a templomokat és a csarnokot látogatjuk meg, hogy közben felengedjünk. Délben érjük el a Saint-Denis templomot. Délután a Picasso terem nyújt meleget. Utunk a folyóparton ér véget, épp mielőtt 17:00-kor lebukik a nap és fokozódik a fagy.",
+            "ro": "Vântul rece de dimineață face pedalatul revigorant. Pe drum vizităm bisericile și hala pentru a ne mai încălzi. La prânz ajungem la biserica Saint-Denis. După-amiaza, Sala Picasso oferă căldură. Traseul se încheie pe malul râului, chiar înainte ca soarele să apună la ora 17:00.",
+            "en": "Cold morning winds make for an invigorating ride. We stop at churches and the market hall to thaw out along the way. At noon, we reach Saint-Denis Church. In the afternoon, Salle Picasso offers a warm break. Our trip ends at the riverbanks just before the sun sets at 5 PM and the frost deepens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie d'Arpajon",
+                "hu": "Arpajon Városháza",
+                "ro": "Primăria Arpajon",
+                "en": "Arpajon Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Radhandschuhe; der Fahrtwind bei Frost ist am Rathausplatz besonders beißend.",
+                "hu": "Viseljen meleg kerékpáros kesztyűt; a fagyos menetszél a városháza téren különösen csípős lehet ilyenkor.",
+                "ro": "Purtați mănuși groase de ciclism; vântul înghețat din piața primăriei poate fi deosebit de tăios în această perioadă.",
+                "en": "Wear warm cycling gloves; the freezing wind in the town hall square can be particularly biting this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Clément",
+                "hu": "Szent Kelemen-templom",
+                "ro": "Biserica Saint-Clément",
+                "en": "Église Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Wind ab; ein perfekter Ort, um die Finger kurz aufzuwärmen, bevor es weitergeht.",
+                "hu": "A vastag falak felfogják a jeges szelet; tökéletes helyszín az ujjak rövid felmelegítésére a továbbindulás előtt.",
+                "ro": "Zidurile groase opresc vântul înghețat; este un loc perfect pentru a vă încălzi puțin degetele înainte de a pleca mai departe.",
+                "en": "The thick walls block out the icy wind; it is a perfect spot to warm your fingers briefly before heading out again."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle d'Arpajon",
+                "hu": "Halle d'Arpajon",
+                "ro": "Halle d'Arpajon",
+                "en": "Halle d'Arpajon"
+              },
+              "tip_5lang": {
+                "de": "In der zugigen Halle ist Bewegung wichtig; bewundern Sie das Gebälk im Gehen, um nicht auszukühlen.",
+                "hu": "A huzatos csarnokban fontos a mozgás; nézze meg a gerendákat séta közben, hogy ne hűljön le túlságosan a teste.",
+                "ro": "În hala unde trage curentul, mișcarea este importantă; admirați bârnele în timp ce mergeți, pentru a nu vă răci prea tare.",
+                "en": "Movement is key in the drafty hall; view the timber beams while walking around to keep your body temperature up."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis Templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, windgeschützter Stopp; nutzen Sie die Innenbesichtigung, um sich für die längere Fahrt zum Fluss zu wappnen.",
+                "hu": "Csendes, szélvédett megálló; használja ki a belső látogatást, hogy felkészüljön a folyóhoz vezető hosszabb tekerésre.",
+                "ro": "Un popas liniștit și ferit de vânt; profitați de vizita interioară pentru a vă pregăti de drumul mai lung spre râu.",
+                "en": "A quiet, sheltered stop; use the indoor visit to prepare for the longer ride ahead towards the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Pablo Picasso",
+                "hu": "Pablo Picasso Terem",
+                "ro": "Sala Pablo Picasso",
+                "en": "Salle Pablo Picasso"
+              },
+              "tip_5lang": {
+                "de": "Dieser beheizte Kulturraum ist ein Segen im Winter; genießen Sie die Kunst, während Ihre Füße wieder warm werden.",
+                "hu": "Ez a fűtött kulturális tér áldás télen; élvezze a művészetet, miközben a lábai újra felmelegszenek a benti hőmérsékleten.",
+                "ro": "Acest spațiu cultural încălzit este o binecuvântare iarna; bucurați-vă de artă în timp ce picioarele vi se încălzesc la loc.",
+                "en": "This heated cultural space is a blessing in winter; enjoy the art while your feet warm up again in the indoor temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Orge Flussufer",
+                "hu": "Orge Folyópart",
+                "ro": "Malurile Râului Orge",
+                "en": "Orge River Banks"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt vor 17:00 Uhr; bei Sonnenuntergang sinken die Temperaturen am Wasser sehr schnell rapide ab.",
+                "hu": "Fejezze be a tekerést 17:00 előtt; naplemente után a vízparton a hőmérséklet rendkívül gyorsan és hirtelen zuhan.",
+                "ro": "Încheiați plimbarea înainte de ora 17:00; după apusul soarelui, temperatura pe malul apei scade extrem de rapid și brusc.",
+                "en": "Finish your ride before 5 PM; after sunset, temperatures by the water drop extremely quickly and suddenly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az arpajoni autós túrája kényelmesen a Szent Kelemen-templomnál indul. Az autó rugalmassága lehetővé teszi, hogy a saját tempójában kezdje a reggelt. Azonnal remek első benyomást szerezhet erről a bájos és barátságos kisvárosról.\n\nEzután a nyüzsgő központba, a Piactérre és a történelmi Halle d'Arpajonhoz hajt. Autóval ezek a távolságok pillanatok alatt áthidalhatók. A továbbutazás a csendes Saint-Denis templomhoz izgalmas kontrasztot kínál a piaci forgataggal szemben.\n\nKora délután a városból kifelé, az Orge folyó idilli partjai felé veszi az irányt. Az odaút során megcsodálhatja a környék táji sokszínűségét. Az autó ideális eszköz arra, hogy fáradtság nélkül elérje ezt a csodálatos természetközeli helyszínt.\n\nA nap ismét városi környezetben, a Charlotte Delbo Teremnél ér véget. A központba való visszatérés után itt egy kulturális fénypontban lehet része. A jármű garantálja a kényelmes és nyugodt hazautazást egy igazán változatos nap után.",
         "ro": "Turul dumneavoastră cu mașina prin Arpajon începe confortabil la Biserica Saint-Clément. Flexibilitatea autoturismului vă permite să începeți dimineața în propriul ritm. Veți obține imediat o primă impresie minunată despre acest mic oraș fermecător.\n\nApoi vă îndreptați spre centrul plin de viață, la Piața Centrală și la istorica Halle d'Arpajon. Cu mașina, aceste distanțe se parcurg foarte rapid. Călătoria spre liniștita Église Saint-Denis vă oferă un contrast fascinant față de forfota pieței.\n\nLa începutul după-amiezii, conduceți în afara orașului către malurile idilice ale râului Orge. Drumul vă dezvăluie diversitatea peisagistică a împrejurimilor. Mașina este ideală pentru a ajunge în acest minunat loc natural fără niciun efort fizic.\n\nZiua se încheie din nou în oraș, la Sala Charlotte Delbo. După întoarcerea în centru, vă veți bucura aici de un moment cultural de excepție. Autovehiculul vă garantează o plecare comodă și extrem de relaxantă după o zi plină de varietate.",
         "en": "Your driving tour through Arpajon begins comfortably at the Église Saint-Clément. The flexibility of a car allows you to set your own perfect morning pace. You will immediately get a wonderful first impression of this charming little town.\n\nNext, you head into the lively center to visit the Place du Marché and the historical Halle d'Arpajon. With your car, these short distances are covered in no time. Driving onward to the peaceful Église Saint-Denis offers a stark contrast to the busy market.\n\nIn the early afternoon, you drive out of town towards the idyllic banks of the Orge River. The journey there showcases the beautiful landscape surrounding the city. A car is the absolute ideal way to reach this natural haven without breaking a sweat.\n\nThe day concludes back in the urban setting at the Salle Charlotte Delbo. Upon returning to the center, you can enjoy one final cultural highlight. Your vehicle guarantees a comfortable, easy, and deeply relaxing departure after a highly varied day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Arpajon auch bei Regen komfortabel. Wir parken nah an der Kirche Saint-Clément und der historischen Halle. Mittags fahren wir zur Kirche Saint-Denis. Nachmittags genießen wir die Natur am Flussufer vom Wagen aus oder mit kurzem Spaziergang, bevor wir den Tag trocken in der Salle Delbo beenden.",
+            "hu": "Autóval az esőben is kényelmesen felfedezhetjük Arpajont. Közel parkolunk a Szent Kelemen-templomhoz és a történelmi csarnokhoz. Délben a Saint-Denis templom felé vesszük az irányt. Délután a folyóparti látványt élvezzük, majd a napot teljesen szárazon, a Salle Delbo termeiben zárjuk.",
+            "ro": "Cu mașina explorăm Arpajon confortabil chiar și pe ploaie. Parcăm aproape de biserica Saint-Clément și de hala istorică. La prânz ne îndreptăm spre biserica Saint-Denis. După-amiaza admirăm peisajul de pe malul râului, apoi încheiem ziua la uscat, în sălile de la Sala Delbo.",
+            "en": "By car, we explore Arpajon comfortably even in the rain. We park close to Saint-Clément Church and the historic hall. At noon, we head towards Saint-Denis Church. In the afternoon, we enjoy the riverside views before ending the day perfectly dry inside the Salle Delbo cultural center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Clément",
+                "hu": "Szent Kelemen-templom",
+                "ro": "Biserica Saint-Clément",
+                "en": "Église Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Eingangs, um den Regenweg kurz zu halten; im Inneren erwartet Sie eine prächtige und trockene Ruhe.",
+                "hu": "Parkoljon a bejárat közvetlen közelében, hogy lerövidítse az esőben megtett utat; odabent pazar és száraz nyugalom várja.",
+                "ro": "Parcați în imediata apropiere a intrării pentru a scurta drumul prin ploaie; în interior vă așteaptă o liniște superbă și uscată.",
+                "en": "Park as close to the entrance as possible to shorten your walk in the rain; inside, a magnificent and dry peace awaits you."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Marché",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Place du Marché"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Regenpausen für einen schnellen Rundgang auf dem Platz; die umliegenden Cafés bieten gute Parkmöglichkeiten.",
+                "hu": "Használja ki a rövid esőszüneteket egy gyors körsétára a téren; a környező kávézók közelében jó parkolási lehetőségek vannak.",
+                "ro": "Profitați de scurtele pauze de ploaie pentru o plimbare rapidă prin piață; există opțiuni bune de parcare lângă cafenelele din jur.",
+                "en": "Take advantage of short breaks in the rain for a quick walk around the square; there are good parking options near the cafes."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle d'Arpajon",
+                "hu": "Halle d'Arpajon",
+                "ro": "Halle d'Arpajon",
+                "en": "Halle d'Arpajon"
+              },
+              "tip_5lang": {
+                "de": "Das riesige Holzdach bietet perfekten Schutz; ideal, um die historische Architektur zu bewundern, ohne nass zu werden.",
+                "hu": "A hatalmas fatető tökéletes menedéket nyújt; ideális helyszín a történelmi építészet megcsodálására anélkül, hogy elázna.",
+                "ro": "Acoperișul masiv de lemn oferă adăpostul perfect; este locul ideal pentru a admira arhitectura istorică fără a vă uda.",
+                "en": "The massive wooden roof provides perfect shelter; it is an ideal spot to admire historical architecture without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis Templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Ein geschützter Ort abseits des Trubels; achten Sie beim Aussteigen auf Pfützen auf dem unbefestigten Parkbereich.",
+                "hu": "Védett hely a város zajától távol; kiszálláskor ügyeljen a tócsákra a burkolatlan parkolórész környékén.",
+                "ro": "Un loc ferit, departe de zgomotul orașului; la coborâre, aveți grijă la bălțile din zona de parcare neasfaltată.",
+                "en": "A sheltered spot away from the city noise; watch out for puddles near the unpaved parking area when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Orge Flussufer",
+                "hu": "Orge Folyópart",
+                "ro": "Malurile Râului Orge",
+                "en": "Orge River Banks"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf den Fluss aus dem Auto oder unter einem Schirm; die Atmosphäre im Regen ist hier besonders friedlich.",
+                "hu": "Élvezze a folyóparti kilátást az autóból vagy egy esernyő alól; az esős hangulat itt különösen békés és megnyugtató.",
+                "ro": "Bucurați-vă de priveliștea râului din mașină sau de sub umbrelă; atmosfera pe ploaie este aici deosebit de liniștită.",
+                "en": "Enjoy the riverside views from your car or under an umbrella; the rainy atmosphere here is particularly peaceful and calming."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Charlotte Delbo",
+                "hu": "Charlotte Delbo Terem",
+                "ro": "Sala Charlotte Delbo",
+                "en": "Salle Charlotte Delbo"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Trockenen; parken Sie direkt am Gebäude, um den verregneten Tag gemütlich und warm ausklingen zu lassen.",
+                "hu": "Tökéletes befejezés a szárazban; parkoljon közvetlenül az épületnél, hogy a borús napot kényelmesen és melegben zárhassa le.",
+                "ro": "Finalul perfect la uscat; parcați chiar lângă clădire pentru a încheia ziua ploioasă într-un mod confortabil și călduros.",
+                "en": "The perfect ending in the dry; park right by the building to conclude the rainy day in a comfortable and warm setting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei winterlichen Temperaturen bietet das Auto angenehme Wärme zwischen den Stopps. Vormittags besuchen wir die Kirchen und den Marktplatz. Mittags erkunden wir die beeindruckende Halle. Nachmittags fahren wir zum Flussufer, um die klare Winterluft zu genießen, bevor wir pünktlich zum Sonnenuntergang um 17:00 Uhr die Salle Delbo erreichen.",
+            "hu": "A téli hidegben az autó kellemes meleget nyújt a megállók között. Délelőtt a templomokat és a piacteret keressük fel. Délben a lenyűgöző csarnokot fedezzük fel. Délután a folyóparthoz hajtunk, hogy élvezzük a tiszta téli levegőt, majd pontosan a 17:00-s naplementére érünk a Salle Delbo épületéhez.",
+            "ro": "În frigul iernii, mașina oferă o căldură plăcută între opriri. Dimineața vizităm bisericile și piața centrală. La prânz explorăm hala impresionantă. După-amiaza conducem spre malul râului pentru a ne bucura de aerul curat de iarnă, ajungând la Sala Delbo exact pentru apusul de la 17:00.",
+            "en": "In the winter cold, the car provides welcome warmth between stops. In the morning, we visit the local churches and the market square. At noon, we explore the impressive hall. In the afternoon, we drive to the riverbanks to enjoy the crisp air, arriving at Salle Delbo just in time for the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Clément",
+                "hu": "Szent Kelemen-templom",
+                "ro": "Biserica Saint-Clément",
+                "en": "Église Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Kirche bieten einen guten Schutz gegen den Frost; genießen Sie die Stille im kühlen, aber windstillen Inneren.",
+                "hu": "A templom vastag falai jó védelmet nyújtanak a fagy ellen; élvezze a csendet a hűvös, de szélmentes belső térben.",
+                "ro": "Zidurile groase ale bisericii oferă o protecție bună împotriva gerului; bucurați-vă de liniște în interiorul răcoros, dar ferit de vânt.",
+                "en": "The thick church walls provide good protection against the frost; enjoy the silence in the cool but windless interior space."
+              }
+            },
+            {
+              "name": {
+                "de": "Place du Marché",
+                "hu": "Piactér",
+                "ro": "Piața Centrală",
+                "en": "Place du Marché"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, knackiger Winterspaziergang über den Platz belebt die Geister; kehren Sie danach schnell in das geheizte Auto zurück.",
+                "hu": "Egy rövid, frissítő téli séta a téren felélénkíti a szellemet; utána térjen vissza gyorsan a jól fűtött autó kényelmébe.",
+                "ro": "O plimbare scurtă și revigorantă de iarnă prin piață vă va trezi simțurile; după aceea, reveniți rapid în confortul mașinii încălzite.",
+                "en": "A short, bracing winter walk across the square will liven your spirits; return quickly to the comfort of your heated car afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle d'Arpajon",
+                "hu": "Halle d'Arpajon",
+                "ro": "Halle d'Arpajon",
+                "en": "Halle d'Arpajon"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Handwerkskunst der Holzstruktur; ziehen Sie sich warm an, da die Halle nach allen Seiten offen und zugig ist.",
+                "hu": "Csodálja meg a faszerkezet mesteri kidolgozását; öltözzön fel melegen, mert a csarnok minden oldalról nyitott és huzatos lehet.",
+                "ro": "Admirați măiestria structurii de lemn; îmbrăcați-vă gros, deoarece hala este deschisă pe toate părțile și poate trage curentul.",
+                "en": "Admire the masterful craftsmanship of the wooden structure; dress warmly as the hall is open on all sides and can be quite drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis Templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine kurze Pause im Warmen der Seele; nutzen Sie die Parkplätze direkt vor der Kirche für kurzen Frost-Kontakt.",
+                "hu": "Békés hely egy rövid lelki felmelegedéshez; használja a közvetlenül a templom előtti parkolót, hogy minimalizálja a kinti hideget.",
+                "ro": "Un loc liniștit pentru o scurtă reculegere; folosiți parcarea direct din fața bisericii pentru a minimiza expunerea la frigul de afară.",
+                "en": "A peaceful spot for a short spiritual warm-up; use the parking directly in front of the church to minimize time spent in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Orge Flussufer",
+                "hu": "Orge Folyópart",
+                "ro": "Malurile Râului Orge",
+                "en": "Orge River Banks"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Flusslandschaft ist vom Auto aus wunderschön; genießen Sie die Ruhe des Wassers, bevor die Dämmerung einsetzt.",
+                "hu": "A téli folyóparti táj az autóból is gyönyörű; élvezze a víz nyugalmát a melegből, mielőtt leszállna a korai szürkület.",
+                "ro": "Peisajul de iarnă de pe malul râului este superb din mașină; bucurați-vă de liniștea apei înainte de lăsarea amurgului timpuriu.",
+                "en": "The winter riverside scenery is beautiful even from the car; enjoy the peace of the water before the early dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle Charlotte Delbo",
+                "hu": "Charlotte Delbo Terem",
+                "ro": "Sala Charlotte Delbo",
+                "en": "Salle Charlotte Delbo"
+              },
+              "tip_5lang": {
+                "de": "Wenn um 17:00 Uhr die Sonne untergeht, ist dieser fette Kulturstopp der ideale Ort, um den Tag gemütlich im Warmen ausklingen zu lassen.",
+                "hu": "Amikor 17:00-kor lemegy a nap, ez a kulturális megálló ideális helyszín a nap kényelmes és meleg befejezéséhez.",
+                "ro": "Când soarele apune la ora 17:00, acest popas cultural este locul ideal pentru a încheia ziua într-un mod confortabil și călduros.",
+                "en": "When the sun sets at 5 PM, this cultural stop is the ideal location to wrap up your day in comfort and warmth."
+              }
+            }
+          ]
+        }
       }
     }
   }

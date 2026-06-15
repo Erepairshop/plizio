@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a városalapítók emlékművénél, elmerülve a helyi történelemben. A dél melegében felfrissülést hoz a nyüzsgő vízi park és a modern színház felfedezése. Délután bejárhatja a helyi hagyományokat éltető kiterjedt vásárterületet. Az estét csodálatosan zárja a városi állatkert meglátogatása, ahol az enyhülő esti levegőben figyelheti meg az egzotikus vadvilágot.",
         "ro": "Începeți dimineața aducând omagii la monumentul fondatorilor, ancorându-vă în istoria locală. Amiaza aduce distracție răcoritoare la centrul acvatic și o plimbare până la teatrul modern. După-amiaza, explorați vastele terenuri ale târgului care celebrează tradițiile locale. Seara se încheie minunat cu o vizită la zoo, observând fauna exotică pe măsură ce ziua se răcorește.",
         "en": "Begin your morning paying respects at the founders' monument, anchoring yourself in local history. Midday brings refreshing fun at the vibrant aquatic center and a stroll to the modern city theater. In the afternoon, explore the vast fairgrounds that celebrate local traditions. Your evening wraps up wonderfully with a visit to the city's zoo, observing exotic wildlife as the day cools down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Monumento a Fundadores, wo man unter den nahen Arkaden Schutz vor dem Regen suchen kann. Mittags bietet die Alberca Ilusion Acuatica überdachten Badespaß, ideal um dem nassen Wetter zu entfliehen. Am Nachmittag locken das Teatro und die Expomex mit kulturellen Innenräumen. Der Tag endet im Aquarium des Zoos, wo man die Unterwasserwelt völlig trocken genießen kann.",
+            "hu": "A reggel a Monumento a Fundadoresnél indul, ahol a közeli épületek ereszcsatornái alatt bújhatunk el a zápor elől. Délben az Alberca Ilusion Acuatica fedett medencéi kínálnak vizes kikapcsolódást az esőtől védve. Délután a színház és az Expomex belső terei nyújtanak menedéket. Az estét a zoo akváriumában zárjuk, ahol szárazon csodálhatjuk meg a vízi élővilágot a borús időben is.",
+            "ro": "Dimineața începe la Monumento a Fundadores, unde arcadele din apropiere oferă adăpost împotriva ploii. La prânz, Alberca Ilusion Acuatica oferă distracție acvatică acoperită, ideală pentru a evita vremea umedă. După-amiaza, Teatro și Expomex atrag vizitatorii cu spații interioare culturale. Ziua se încheie la acvariul grădinii zoologice, unde puteți admira lumea subacvatică stând la uscat.",
+            "en": "Morning starts at the Monumento a Fundadores, where nearby awnings provide shelter from the sudden showers. At noon, Alberca Ilusion Acuatica offers indoor swimming fun, perfect for staying active while avoiding the wet streets. Afternoon brings cultural refuge at the Teatro and Expomex indoor halls. The day concludes at the zoo's aquarium, enjoying the aquatic life completely dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Fundadores",
+                "hu": "Monumento a Fundadores",
+                "ro": "Monumento a Fundadores",
+                "en": "Monumento a Fundadores"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal kurz und suchen Sie bei starkem Regen Schutz unter den nahen Geschäftsarkaden, da der Platz bei Nässe sehr rutschig sein kann.",
+                "hu": "Tekintse meg az emlékművet gyorsan, majd keressen menedéket a közeli üzletsorok árkádjai alatt, mivel a tér kövezete esőben rendkívül csúszóssá válik.",
+                "ro": "Admirați monumentul rapid și căutați adăpost sub arcadele magazinelor din apropiere dacă plouă torențial, deoarece piața devine foarte alunecoasă pe timp de ploaie.",
+                "en": "View the monument briefly and seek shelter under the nearby shop awnings if the rain intensifies, as the plaza pavement can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Ilusion Acuatica",
+                "hu": "Alberca Ilusion Acuatica",
+                "ro": "Alberca Ilusion Acuatica",
+                "en": "Alberca Ilusion Acuatica"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Becken für sportliche Betätigung und achten Sie im Barfußbereich besonders auf Rutschgefahr durch das zusätzliche Regenwasser von außen.",
+                "hu": "Használja a fedett medencéket a sportoláshoz, és fordítson különös figyelmet a csúszásveszélyre a mezítlábas zónákban a kívülről behordott esővíz miatt.",
+                "ro": "Folosiți piscinele acoperite pentru activități sportive și acordați o atenție sporită zonelor unde se merge desculț, deoarece apa de ploaie le face alunecoase.",
+                "en": "Utilize the indoor pools for exercise and pay extra attention to slippery surfaces in barefoot areas caused by rainwater tracked in from the outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro De La Ciudad",
+                "hu": "Teatro De La Ciudad",
+                "ro": "Teatro De La Ciudad",
+                "en": "Teatro De La Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Theater ist der perfekte Ort, um trocken zu bleiben; nutzen Sie die Zeit für eine Innenbesichtigung oder eine der angebotenen Kulturveranstaltungen.",
+                "hu": "Ez a modern színház tökéletes hely a szárazon maradáshoz; használja ki az időt egy belső látogatásra vagy az aktuális kulturális előadások egyikére.",
+                "ro": "Acest teatru modern este locul perfect pentru a rămâne uscat; profitați de timp pentru o vizită în interior sau pentru a vedea unul dintre spectacolele culturale.",
+                "en": "This modern theater is the perfect place to stay dry; take advantage of the indoor environment to explore the architecture or enjoy a cultural performance."
+              }
+            },
+            {
+              "name": {
+                "de": "Expomex",
+                "hu": "Expomex",
+                "ro": "Expomex",
+                "en": "Expomex"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in den Messehallen, die hervorragenden Schutz bieten, und nutzen Sie die befestigten Wege zwischen den Gebäuden bei Regenpausen.",
+                "hu": "Látogassa meg a kiállításokat a vásárcsarnokokban, amelyek kiváló védelmet nyújtanak, és használja a szilárd burkolatú utakat az épületek között az esőszünetekben.",
+                "ro": "Vizitați expozițiile din halele expoziționale care oferă protecție excelentă și folosiți potecile pavate între clădiri în timpul pauzelor de ploaie.",
+                "en": "Visit the exhibitions in the fair halls which offer excellent protection from rain, and use the paved walkways between buildings during breaks in the shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoológico y Acuario de Nuevo Laredo",
+                "hu": "Zoológico y Acuario de Nuevo Laredo",
+                "ro": "Zoológico y Acuario de Nuevo Laredo",
+                "en": "Zoológico y Acuario de Nuevo Laredo"
+              },
+              "tip_5lang": {
+                "de": "Konzentrieren Sie Ihren Besuch auf das Aquarium und das Reptilienhaus, um nicht nass zu werden, und genießen Sie die Sicht auf die Wassertiere ohne Regenschirm.",
+                "hu": "Összpontosítsa látogatását az akváriumra és a hüllőházra, hogy ne ázzon el, és élvezze a vízi állatok látványát anélkül, hogy esernyőt kellene tartania.",
+                "ro": "Concentrați-vă vizita pe acvariu și pe casa reptilelor pentru a evita ploaia și bucurați-vă de vederea animalelor acvatice fără a avea nevoie de umbrelă.",
+                "en": "Focus your visit on the aquarium and the reptile house to stay dry, allowing you to enjoy the marine life without the hassle of carrying an umbrella."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Monumento a Fundadores erfordert warme Kleidung gegen den Wind. Mittags wärmt man sich in der beheizten Alberca Ilusion Acuatica auf. Der Nachmittag gehört der Kultur im beheizten Theater und bei der Expomex. Da die Sonne bereits gegen 17:00 Uhr untergeht, ist der Zoo am späten Nachmittag der ideale Abschluss, bevor es richtig kühl wird.",
+            "hu": "A friss téli reggel a Monumento a Fundadoresnél réteges öltözetet igényel a szél miatt. Délben az Alberca Ilusion Acuatica fűtött vize kínál melengető pihenést. A délutánt a színház és az Expomex kulturális programjaival töltjük a meleg falak között. Mivel 17:00 körül sötétedik, az állatkert az utolsó megálló, mielőtt igazán lehűlne a levegő.",
+            "ro": "O dimineață răcoroasă de iarnă la Monumento a Fundadores necesită haine groase împotriva vântului. La prânz, apa încălzită de la Alberca Ilusion Acuatica oferă relaxare. După-amiaza este dedicată culturii la teatru și Expomex, în spații încălzite. Deoarece soarele apune în jur de 17:00, grădina zoologică este ultima oprire înainte de frig.",
+            "en": "A crisp winter morning at Monumento a Fundadores requires warm layers against the North wind. At noon, warm up in the heated waters of Alberca Ilusion Acuatica. Afternoon is spent enjoying indoor culture at the Theater and Expomex. As sunset arrives early around 17:00, the zoo is the perfect final stop before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Fundadores",
+                "hu": "Monumento a Fundadores",
+                "ro": "Monumento a Fundadores",
+                "en": "Monumento a Fundadores"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine windfeste Jacke, da der Platz im Winter oft ungeschützt vor kalten Böen ist, und nutzen Sie das klare Morgenlicht für Fotos vom Denkmal.",
+                "hu": "Viseljen szélálló kabátot, mivel a tér télen gyakran védtelen a hideg fuvallatokkal szemben; használja ki a tiszta reggeli fényt az emlékmű fotózásához.",
+                "ro": "Purtați o jachetă rezistentă la vânt, deoarece piața este adesea expusă rafalelor reci iarna; profitați de lumina clară a dimineții pentru fotografii reușite.",
+                "en": "Wear a wind-resistant jacket as the plaza is often unprotected from cold gusts in winter; take advantage of the clear morning light for great photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Alberca Ilusion Acuatica",
+                "hu": "Alberca Ilusion Acuatica",
+                "ro": "Alberca Ilusion Acuatica",
+                "en": "Alberca Ilusion Acuatica"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Innenbecken als Wärme-Oase und trocknen Sie Ihre Haare vor dem Verlassen gründlich ab, um sich im kalten Außenwind nicht zu erkälten.",
+                "hu": "Élvezze a fűtött belső medencéket, mint egy meleg oázist, és alaposan szárítsa meg a haját távozás előtt, hogy elkerülje a megfázást a hideg külső szélben.",
+                "ro": "Bucurați-vă de piscinele interioare încălzite ca de o oază de căldură și uscați-vă bine părul înainte de plecare pentru a evita răceala în vântul rece de afară.",
+                "en": "Enjoy the heated indoor pools as a warm sanctuary and dry your hair thoroughly before leaving to avoid catching a cold in the brisk outdoor winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro De La Ciudad",
+                "hu": "Teatro De La Ciudad",
+                "ro": "Teatro De La Ciudad",
+                "en": "Teatro De La Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehm temperierte Lobby für eine Pause und erkundigen Sie sich nach Winteraufführungen, die oft besonders stimmungsvoll inszeniert sind.",
+                "hu": "Használja a kellemes hőmérsékletű előcsarnokot egy pihenőre, és érdeklődjön a téli előadásokról, amelyeket gyakran különlegesen hangulatosan rendeznek meg.",
+                "ro": "Folosiți lobby-ul cu temperatură plăcută pentru o pauză și întrebați despre spectacolele de iarnă, care sunt adesea puse în scenă într-o atmosferă specială.",
+                "en": "Take advantage of the comfortably tempered lobby for a break and ask about winter performances, which are often staged with a particularly cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Expomex",
+                "hu": "Expomex",
+                "ro": "Expomex",
+                "en": "Expomex"
+              },
+              "tip_5lang": {
+                "de": "Die Messehallen bieten Schutz vor winterlicher Kälte; tragen Sie dennoch bequeme Schuhe, da das Gehen auf dem Gelände auch bei kühlen Temperaturen anstrengend ist.",
+                "hu": "A vásárcsarnokok védelmet nyújtanak a téli hideg ellen; ennek ellenére viseljen kényelmes cipőt, mert a gyaloglás a területen hűvös időben is fárasztó lehet.",
+                "ro": "Halele expoziționale oferă protecție împotriva frigului de iarnă; totuși, purtați pantofi confortabili, deoarece mersul pe jos în zonă este obositor chiar și pe răcoare.",
+                "en": "The exhibition halls provide protection from the winter cold; nevertheless, wear comfortable shoes as walking around the grounds can be tiring even in cool weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoológico y Acuario de Nuevo Laredo",
+                "hu": "Zoológico y Acuario de Nuevo Laredo",
+                "ro": "Zoológico y Acuario de Nuevo Laredo",
+                "en": "Zoológico y Acuario de Nuevo Laredo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Tiere, die bei kühlerem Wetter oft aktiver sind, und beenden Sie Ihren Rundgang vor 17:00 Uhr, um den Sonnenuntergang im Park zu erleben.",
+                "hu": "Figyelje meg az állatokat, amelyek a hűvösebb időben gyakran aktívabbak, és fejezze be a körutat 17:00 előtt, hogy még lássa a naplementét a parkban.",
+                "ro": "Observați animalele care sunt adesea mai active pe vreme răcoroasă și terminați turul înainte de ora 17:00 pentru a surprinde apusul în parc.",
+                "en": "Observe the animals that are often more active in the cooler weather, and aim to finish your tour by 17:00 to catch the golden sunset over the park grounds."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját egy 19. századi történelmi határvár felfedezésével, majd merüljön el a helyi ökológiában a tudományos központban. Délben interaktív fizikai kiállítások és a rövid életű Rio Grande-i Köztársaság története várja. Délután csodálja meg a régi építészetet az örökség múzeumban. Fejezze be útját az alapítók emlékművénél, elgondolkodva a határvidék egységén.",
         "ro": "Începeți călătoria cu bicicleta explorând un fort istoric din secolul al XIX-lea înainte de a studia ecologia locală la centrul științific. Amiaza vă duce la expoziții interactive și la istoria Republicii Rio Grande. Pe măsură ce se lasă după-amiaza, admirați arhitectura de epocă la muzeul de patrimoniu. Încheiați-vă plimbarea la monumentul fondatorilor, reflectând la unitatea frontierei.",
         "en": "Start your cycling journey exploring a historic 19th-century frontier fort before diving into local ecology at the science center. Midday leads you to engaging physics exhibits and a deep dive into the short-lived Republic of the Rio Grande. As the afternoon unfolds, admire vintage architecture at the heritage museum. End your ride at the founders' monument, reflecting on borderland unity."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt am Fort McIntosh, wo Vorsicht auf nassen Wegen geboten ist. Das Environmental Center bietet mittags trockene Bildung. Das Imaginarium und die Museen am Nachmittag sind perfekte überdachte Stopps. Achten Sie auf rutschige Straßenbeläge beim Radeln durch die Stadt und nutzen Sie wasserfeste Taschen für Ihre Ausrüstung.",
+            "hu": "Egy esős kerékpáros nap a Fort McIntosh-nál indul, ahol óvatosan kell hajtani a nedves utakon. Délben az Environmental Center kínál száraz, oktató jellegű pihenőt. Az Imaginarium és a múzeumok délután tökéletes fedett megállóhelyek. Ügyeljen a csúszós aszfaltra a városban, és használjon vízhatlan táskákat a felszereléséhez.",
+            "ro": "O zi ploioasă cu bicicleta începe la Fort McIntosh, unde este necesară prudență pe drumurile umede. Environmental Center oferă la prânz un refugiu educativ uscat. Imaginarium și muzeele de după-amiază sunt opriri acoperite perfecte. Atenție la asfaltul alunecos prin oraș și folosiți genți impermeabile pentru echipament.",
+            "en": "A rainy cycling day starts at Fort McIntosh, where extra caution is needed on wet paths. The Environmental Science Center provides a dry educational break at noon. Imaginarium and the museums offer perfect indoor afternoon stops. Watch out for slippery road surfaces while pedaling through town and use waterproof bags for gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort McIntosh",
+                "hu": "Fort McIntosh",
+                "ro": "Fort McIntosh",
+                "en": "Fort McIntosh"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den historischen Wegen, die bei Regen sehr rutschig sein können, und suchen Sie Schutz unter den alten Bäumen oder Gebäudevorsprüngen.",
+                "hu": "Hajtson óvatosan a történelmi utakon, amelyek esőben nagyon csúszósak lehetnek, és keressen menedéket az öreg fák vagy az épületkiugrók alatt zápor idején.",
+                "ro": "Mergeți cu grijă pe potecile istorice care pot fi foarte alunecoase în ploaie și căutați adăpost sub copacii bătrâni sau streșinile clădirilor în timpul ploii.",
+                "en": "Ride carefully on the historic paths as they can be very slippery when wet, and seek temporary shelter under large trees or building overhangs during downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamar Bruni Vergara Environmental Science Center",
+                "hu": "Lamar Bruni Vergara Environmental Science Center",
+                "ro": "Lamar Bruni Vergara Environmental Science Center",
+                "en": "Lamar Bruni Vergara Environmental Science Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume, um mehr über die lokale Flora und Fauna zu erfahren, während draußen der Regen fällt; idealer Ort zum Aufwärmen und Trocknen.",
+                "hu": "Használja ki a belső tereket, hogy többet tudjon meg a helyi élővilágról, miközben kint esik az eső; ideális hely a bemelegedésre és a megszáradásra.",
+                "ro": "Folosiți spațiile interioare pentru a afla mai multe despre flora și fauna locală în timp ce plouă afară; este un loc ideal pentru a vă încălzi și usca.",
+                "en": "Take advantage of the indoor exhibits to learn about local wildlife while it rains outside; it is an ideal spot to warm up and dry off your cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Imaginarium of South Texas",
+                "hu": "Imaginarium of South Texas",
+                "ro": "Imaginarium of South Texas",
+                "en": "Imaginarium of South Texas"
+              },
+              "tip_5lang": {
+                "de": "Dieses interaktive Museum ist perfekt für Regentage; parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die trockene, kinderfreundliche Umgebung.",
+                "hu": "Ez az interaktív múzeum tökéletes esős napokra; parkolja le kerékpárját egy védett helyen, és élvezze a száraz, gyerekbarát környezetet a falak között.",
+                "ro": "Acest muzeu interactiv este perfect pentru zilele ploioase; parcați bicicleta într-un loc protejat și bucurați-vă de mediul uscat și prietenos pentru copii.",
+                "en": "This interactive museum is perfect for rainy days; park your bike in a sheltered spot and enjoy the dry, family-friendly environment inside the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Republic of the Rio Grande Museum",
+                "hu": "Republic of the Rio Grande Museum",
+                "ro": "Republic of the Rio Grande Museum",
+                "en": "Republic of the Rio Grande Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Geschichte der Region in diesem historischen Gebäude, das dicke Mauern und guten Schutz bietet, während Sie auf das Ende des Schauers warten.",
+                "hu": "Fedezze fel a régió történelmét ebben a patinás épületben, amely vastag falaival jó védelmet nyújt, miközben az eső elálltára vár a múzeumban.",
+                "ro": "Explorați istoria regiunii în această clădire istorică care oferă o protecție bună cu zidurile sale groase în timp ce așteptați oprirea ploii.",
+                "en": "Explore the region's history in this historic building which provides great shelter with its thick walls while you wait for the shower to pass by."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Antigua Border Heritage Museum",
+                "hu": "Villa Antigua Border Heritage Museum",
+                "ro": "Villa Antigua Border Heritage Museum",
+                "en": "Villa Antigua Border Heritage Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer exzellenter Indoor-Stopp für Radfahrer; bewundern Sie das Erbe der Grenzregion und nutzen Sie die sanitären Anlagen zum kurzen Auffrischen.",
+                "hu": "Egy másik kiváló beltéri állomás kerékpárosoknak; csodálja meg a határvidék örökségét, és használja a vizesblokkokat egy rövid felfrissülésre a múzeumban.",
+                "ro": "O altă oprire interioară excelentă pentru bicicliști; admirați moștenirea de la graniță și folosiți facilitățile pentru o scurtă reîmprospătare.",
+                "en": "Another excellent indoor stop for cyclists; admire the border heritage and use the museum's facilities for a quick refresh during the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Fundadores",
+                "hu": "Monumento a Fundadores",
+                "ro": "Monumento a Fundadores",
+                "en": "Monumento a Fundadores"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour mit einem schnellen Foto und achten Sie beim Bremsen auf dem nassen Pflaster auf den längeren Bremsweg Ihres Fahrrads.",
+                "hu": "Zárja a túrát egy gyors fotóval, és figyeljen a fékezésre a nedves burkolaton, mivel a kerékpár fékútja ilyenkor jelentősen meghosszabbodik.",
+                "ro": "Încheiați turul cu o fotografie rapidă și fiți atenți la frânarea pe pavajul umed, deoarece distanța de frânare a bicicletei crește considerabil.",
+                "en": "End your tour with a quick photo and be extra careful when braking on the wet pavement, as your bike's stopping distance will be much longer."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Nuevo Laredo bietet klare Luft und milde Temperaturen. Start am Fort McIntosh mit Handschuhen. Mittags wärmt das Environmental Center den Geist. Die Museen am Nachmittag sind ideale warme Pausenorte. Da es gegen 17:00 Uhr dunkel wird, sollte die Tour am Monumento a Fundadores rechtzeitig beendet werden, bevor die Abendkälte einsetzt.",
+            "hu": "A téli kerékpározás Nuevo Laredóban friss levegőt és enyhe hőmérsékletet kínál. Kezdés a Fort McIntosh-nál kesztyűben. Délben az Environmental Center melengeti a lelket. A múzeumok délután ideális meleg pihenőhelyek. Mivel 17:00 körül sötétedik, a túrát a Monumento a Fundadoresnél időben fejezzük be az esti hideg előtt.",
+            "ro": "Mersul cu bicicleta iarna în Nuevo Laredo oferă aer curat și temperaturi blânde. Începeți la Fort McIntosh cu mănuși. La prânz, Environmental Center vă va încălzi spiritul. Muzeele de după-amiază sunt locuri ideale pentru pauze calde. Deoarece se întunecă în jur de 17:00, încheiați turul la Monumento a Fundadores la timp.",
+            "en": "Winter cycling in Nuevo Laredo means fresh air and mild daytime temperatures. Start at Fort McIntosh with gloves for the morning breeze. At noon, the Environmental Center offers a warm intellectual break. Afternoon museums are ideal spots to escape the chill. Aim to finish at Monumento a Fundadores by 17:00 as the evening cold arrives."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort McIntosh",
+                "hu": "Fort McIntosh",
+                "ro": "Fort McIntosh",
+                "en": "Fort McIntosh"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die historische Atmosphäre in der klaren Winterluft, aber achten Sie auf den kühlen Fahrtwind auf den offenen Flächen des alten Forts.",
+                "hu": "Élvezze a történelmi hangulatot a tiszta téli levegőben, de ügyeljen a hűvös menetszélre a régi erőd nyitottabb területein kerékpározás közben.",
+                "ro": "Bucurați-vă de atmosfera istorică în aerul curat de iarnă, dar fiți atenți la vântul rece de pe suprafețele deschise ale vechiului fort în timp ce pedalați.",
+                "en": "Enjoy the historic atmosphere in the crisp winter air, but be mindful of the cold wind chill on the open grounds of the old fort while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamar Bruni Vergara Environmental Science Center",
+                "hu": "Lamar Bruni Vergara Environmental Science Center",
+                "ro": "Lamar Bruni Vergara Environmental Science Center",
+                "en": "Lamar Bruni Vergara Environmental Science Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um sich aufzuwärmen und die Tiere zu beobachten, die im Winter oft weniger durch Hitze gestresst und somit aktiver sind.",
+                "hu": "Használja ki a megállót a bemelegedésre és az állatok megfigyelésére, amelyek télen gyakran kevésbé stresszesek a hőség hiánya miatt, így aktívabbak.",
+                "ro": "Folosiți oprirea pentru a vă încălzi și pentru a observa animalele, care iarna sunt adesea mai active fiind mai puțin stresate de căldură.",
+                "en": "Use this stop to warm up and observe the wildlife, as animals are often more active in winter when they are not stressed by the intense summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Imaginarium of South Texas",
+                "hu": "Imaginarium of South Texas",
+                "ro": "Imaginarium of South Texas",
+                "en": "Imaginarium of South Texas"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für eine Pause vom Radfahren; die beheizten Ausstellungsräume bieten eine willkommene Erholung von der kühlen Winterluft draußen.",
+                "hu": "Nagyszerű hely a kerékpározás szüneteltetésére; a fűtött kiállítótermek üdvözlendő pihenőt kínálnak a kinti hűvös téli levegő után a látogatóknak.",
+                "ro": "Un loc excelent pentru o pauză de la bicicletă; sălile de expoziție încălzite oferă o odihnă binevenită după aerul răcoros de iarnă de afară.",
+                "en": "A great place for a break from cycling; the heated exhibition rooms offer a welcome respite from the cool winter air during your city tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Republic of the Rio Grande Museum",
+                "hu": "Republic of the Rio Grande Museum",
+                "ro": "Republic of the Rio Grande Museum",
+                "en": "Republic of the Rio Grande Museum"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Wärme gut; tauchen Sie ein in die Geschichte und wärmen Sie sich auf, bevor Sie die nächste Etappe antreten.",
+                "hu": "A vastag kőfalak jól tartják a meleget; merüljön el a történelemben és melegedjen fel egy kicsit, mielőtt megkezdené a túra következő szakaszát.",
+                "ro": "Zidurile groase de piatră rețin bine căldura; scufundați-vă în istorie și încălziți-vă puțin înainte de a porni în următoarea etapă a traseului.",
+                "en": "The thick stone walls retain heat well; immerse yourself in history and warm up for a while before starting the next leg of your winter cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Antigua Border Heritage Museum",
+                "hu": "Villa Antigua Border Heritage Museum",
+                "ro": "Villa Antigua Border Heritage Museum",
+                "en": "Villa Antigua Border Heritage Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer kultureller Zwischenstopp im Warmen; nutzen Sie die ruhige Winteratmosphäre für eine intensive Betrachtung der lokalen Grenzkunst.",
+                "hu": "Ideális kulturális köztes megálló a melegben; használja ki a csendes téli hangulatot a helyi határmenti művészet alaposabb megismeréséhez.",
+                "ro": "O oprire culturală ideală la căldură; profitați de atmosfera liniștită de iarnă pentru a cunoaște mai bine arta locală de la graniță.",
+                "en": "An ideal cultural stop in the warmth; take advantage of the quiet winter atmosphere for a deeper look at the local border heritage and arts."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Fundadores",
+                "hu": "Monumento a Fundadores",
+                "ro": "Monumento a Fundadores",
+                "en": "Monumento a Fundadores"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor Sonnenuntergang um 17:00 Uhr, wenn die Temperaturen schnell sinken und das Radfahren ungemütlich wird.",
+                "hu": "Fejezze be a túrát időben a 17:00 körüli naplemente előtt, amikor a hőmérséklet gyorsan süllyedni kezd, és a kerékpározás kényelmetlenné válhat.",
+                "ro": "Încheiați turul la timp înainte de apusul de la ora 17:00, când temperaturile scad rapid și mersul cu bicicleta poate deveni inconfortabil.",
+                "en": "Finish your tour well before the 17:00 sunset, as temperatures drop rapidly afterward and cycling can become quite uncomfortable in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Induljon korán, hogy üdvözölje a városi állatkert vadvilágát, mielőtt a modern színház lenyűgöző homlokzatához hajtana. Délben elhalad az ikonikus alapítók emlékműve mellett, majd egy madárrezervátumban sétál. Délután elmélyedhet a regionális történelemben egy felújított történelmi házban és a színházi céhnél. Zárja a napot egy természetjáró sétával a hatalmas folyó partján.",
         "ro": "Porniți la drum devreme pentru a saluta fauna de la zoo înainte de a admira fațada impresionantă a teatrului modern. Amiaza vă poartă pe lângă monumentul fondatorilor și printr-un refugiu liniștit de păsări. După-amiaza, aprofundați istoria regională într-o casă istorică restaurată și la breasla de teatru locală. Încheiați cu o plimbare în natură lângă fluviul măreț.",
         "en": "Hit the road early to greet the vibrant wildlife at the city zoo before moving to the impressive facade of the modern theater. Midday takes you past the iconic founders' monument and on a tranquil stroll through a beautiful bird sanctuary. In the afternoon, delve into regional history at a restored historic home and the local theater guild. Conclude with a nature walk by the mighty river."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto ist entspannt. Start im Zoo (Aquarium), dann Kultur im Teatro. Das Monumento besichtigt man am besten kurz vom Wagen aus. Die Vogelbeobachtung am Mittag findet im Schutz des Autos statt. Museen am Nachmittag bieten trockenes Programm, bevor man den Tag bei einem Indoor-Theaterstück oder in der Natur bei Regenpausen ausklingen lässt.",
+            "hu": "Az esős nap az autóban kényelmes. Kezdés az állatkert akváriumában, majd kultúra a színházban. Az emlékművet érdemesebb az autóból vagy egy gyors kiszállással megnézni. A madármegfigyelés délben az autó védelméből történik. A múzeumok délután száraz programot kínálnak, az estét pedig egy fedett színházi darabbal zárjuk.",
+            "ro": "O zi ploioasă în mașină este relaxantă. Începeți la acvariul grădinii zoologice, apoi cultură la Teatro. Monumentul se vede cel mai bine din mașină. Observarea păsărilor la prânz se face din protecția vehiculului. Muzeele oferă după-amiaza programe uscate, înainte de a încheia ziua cu o piesă de teatru în interior.",
+            "en": "A rainy day by car is comfortable and dry. Start at the zoo's aquarium, then enjoy culture at the Teatro. View the monument briefly from your vehicle. Bird watching at noon happens from the car's shelter. Afternoon museums provide indoor interest, ending the day with a play or a nature visit during a break in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoológico y Acuario de Nuevo Laredo",
+                "hu": "Zoológico y Acuario de Nuevo Laredo",
+                "ro": "Zoológico y Acuario de Nuevo Laredo",
+                "en": "Zoológico y Acuario de Nuevo Laredo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und verbringen Sie die meiste Zeit im Aquarium, um trocken zu bleiben; die Fische sind vom Wetter völlig unbeeindruckt.",
+                "hu": "Parkoljon közel a bejárathoz, és töltse az idő nagy részét az akváriumban, hogy száraz maradjon; a halakat egyáltalán nem zavarja a kinti esős időjárás.",
+                "ro": "Parcați aproape de intrare și petreceți majoritatea timpului în acvariu pentru a rămâne uscat; peștii nu sunt deloc afectați de vremea ploioasă de afară.",
+                "en": "Park close to the entrance and spend most of your time in the aquarium to stay dry; the fish are completely unaffected by the rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro De La Ciudad",
+                "hu": "Teatro De La Ciudad",
+                "ro": "Teatro De La Ciudad",
+                "en": "Teatro De La Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem Regen zu entfliehen; genießen Sie die Architektur im Inneren und prüfen Sie, ob kurzfristig Aufführungen im Programm stehen.",
+                "hu": "Ideális hely az eső elől való menekülésre; élvezze a belső építészetet, és ellenőrizze, hogy vannak-e rövid távon meghirdetett előadások a programban.",
+                "ro": "Un loc ideal pentru a scăpa de ploaie; bucurați-vă de arhitectura interioară și verificați dacă există spectacole programate pe termen scurt.",
+                "en": "An ideal spot to escape the rain; enjoy the interior architecture and check if there are any short-term performances or events on the schedule."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Fundadores",
+                "hu": "Monumento a Fundadores",
+                "ro": "Monumento a Fundadores",
+                "en": "Monumento a Fundadores"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto aus dem Autofenster oder nutzen Sie eine kurze Regenpause für einen schnellen Blick auf die beeindruckenden Statuen am Platz.",
+                "hu": "Készítsen fotót az autó ablakából, vagy használjon ki egy rövid esőszünetet, hogy gyorsan megnézze a téren álló lenyűgöző szobrokat közelebbről is.",
+                "ro": "Faceți o fotografie de la fereastra mașinii sau profitați de o scurtă pauză de ploaie pentru a vedea rapid statuile impresionante din piață.",
+                "en": "Take a photo from your car window or take advantage of a short break in the rain for a quick look at the impressive statues standing in the plaza."
+              }
+            },
+            {
+              "name": {
+                "de": "Las Palmas Bird Sanctuary",
+                "hu": "Las Palmas Bird Sanctuary",
+                "ro": "Las Palmas Bird Sanctuary",
+                "en": "Las Palmas Bird Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie ein Fernglas direkt aus dem geparkten Auto, um Vögel zu beobachten, die oft im Regen besonders aktiv bei der Nahrungssuche sind.",
+                "hu": "Használjon távcsövet közvetlenül a leparkolt autóból a madármegfigyeléshez; a madarak esőben gyakran különösen aktívak a táplálékszerzés során.",
+                "ro": "Folosiți binoclul direct din mașina parcată pentru a observa păsările, care sunt adesea deosebit de active în căutarea hranei pe timp de ploaie.",
+                "en": "Use binoculars directly from your parked car to watch the birds, who are often particularly active in their search for food during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Antigua Border Heritage Museum",
+                "hu": "Villa Antigua Border Heritage Museum",
+                "ro": "Villa Antigua Border Heritage Museum",
+                "en": "Villa Antigua Border Heritage Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet eine warme, trockene Atmosphäre; parken Sie auf dem bewachten Platz daneben, um den Weg im Regen so kurz wie möglich zu halten.",
+                "hu": "A múzeum meleg, száraz környezetet biztosít; parkoljon a mellette lévő őrzött parkolóban, hogy az esőben megtett utat a lehető legrövidebbre fogja.",
+                "ro": "Muzeul oferă un mediu cald și uscat; parcați în parcarea păzită de lângă el pentru a menține drumul prin ploaie cât mai scurt posibil.",
+                "en": "The museum provides a warm, dry environment; park in the nearby secure lot to keep your walk through the rain as short as possible for your comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Laredo Theater Guild",
+                "hu": "Laredo Theater Guild",
+                "ro": "Laredo Theater Guild",
+                "en": "Laredo Theater Guild"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort dieses Kulturzentrums; es ist der perfekte Ort für den späten Nachmittag, wenn der Regen draußen am stärksten ist.",
+                "hu": "Élvezze ennek a kulturális központnak a kényelmét; tökéletes hely a késő délutáni órákra, amikor kint a legintenzívebben eshet az eső.",
+                "ro": "Bucurați-vă de confortul acestui centru cultural; este locul perfect pentru orele târzii ale după-amiezii, când ploaia de afară este cea mai intensă.",
+                "en": "Enjoy the comfort of this cultural center; it's the perfect spot for the late afternoon when the rain outside might be at its most intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Riverbend Nature Preserve",
+                "hu": "Riverbend Nature Preserve",
+                "ro": "Riverbend Nature Preserve",
+                "en": "Riverbend Nature Preserve"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Wegen oder beobachten Sie den Fluss vom Auto aus, da die unbefestigten Pfade bei Regen sehr schlammig sein können.",
+                "hu": "Maradjon az aszfaltozott utakon, vagy figyelje a folyót az autóból, mivel a burkolatlan ösvények esőben nagyon sárosak és csúszósak lehetnek.",
+                "ro": "Rămâneți pe drumurile asfaltate sau observați râul din mașină, deoarece potecile neasfaltate pot fi foarte noroioase și alunecoase în ploaie.",
+                "en": "Stay on the paved paths or observe the river from your car, as the unpaved trails can become very muddy and slippery during the rainy season."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Nuevo Laredo ist dank Heizung gemütlich. Start im Zoo, mittags geht es zum Teatro. Das Monumento leuchtet im klaren Winterlicht. Nachmittags besucht man die warmen Museen und das Theater. Da es gegen 17:00 Uhr dunkelt, bietet das Riverbend Nature Preserve einen perfekten Aussichtspunkt für den winterlichen Sonnenuntergang.",
+            "hu": "A téli autózás Nuevo Laredóban a fűtésnek köszönhetően nagyon kényelmes. Kezdés az állatkertben, majd délben irány a színház. Az emlékmű ragyog a tiszta téli fényben. Délután a meleg múzeumokat és a színházat látogatjuk meg. Mivel 17:00 körül sötétedik, a Riverbend Nature Preserve tökéletes hely a téli naplemente megcsodálására.",
+            "ro": "O plimbare de iarnă prin Nuevo Laredo este confortabilă datorită încălzirii. Începeți la grădina zoologică, apoi mergeți la teatru. Monumentul strălucește în lumina clară de iarnă. După-amiaza vizitați muzeele calde și teatrul. Deoarece se întunecă în jur de 17:00, Riverbend oferă locul perfect pentru apus.",
+            "en": "A winter drive through Nuevo Laredo is cozy thanks to the car's heater. Start at the zoo, then head to the Teatro at noon. The monument shines in the clear winter light. Afternoon includes visits to warm museums and theaters. Since it gets dark around 17:00, Riverbend Nature Preserve offers a perfect spot for the sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoológico y Acuario de Nuevo Laredo",
+                "hu": "Zoológico y Acuario de Nuevo Laredo",
+                "ro": "Zoológico y Acuario de Nuevo Laredo",
+                "en": "Zoológico y Acuario de Nuevo Laredo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenbereich des Aquariums zum Aufwärmen und beobachten Sie die Tiere, die bei den kühlen Temperaturen oft sehr lebhaft sind.",
+                "hu": "Használja ki az akvárium fűtött belső tereit a bemelegedésre, és figyelje meg az állatokat, amelyek a hűvös hőmérsékletben gyakran igen élénkek.",
+                "ro": "Folosiți spațiile interioare încălzite ale acvariului pentru a vă încălzi și observați animalele, care sunt adesea foarte vioaie la temperaturi scăzute.",
+                "en": "Take advantage of the heated indoor areas of the aquarium to warm up and observe the wildlife, which are often very lively in the cool winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro De La Ciudad",
+                "hu": "Teatro De La Ciudad",
+                "ro": "Teatro De La Ciudad",
+                "en": "Teatro De La Ciudad"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Architektur bietet einen guten Windschutz; genießen Sie die wohltemperierte Atmosphäre im Inneren bei einem Kaffee oder einer Besichtigung.",
+                "hu": "A modern építészet jó szélvédelmet biztosít; élvezze a kellemes belső hőmérsékletet egy kávé vagy egy rövid belsőtéri látogatás keretében.",
+                "ro": "Arhitectura modernă oferă o bună protecție împotriva vântului; bucurați-vă de atmosfera interioară plăcută la o cafea sau în timpul unei vizite.",
+                "en": "The modern architecture provides great protection from the winter wind; enjoy the well-tempered interior atmosphere with a coffee or a quick tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Fundadores",
+                "hu": "Monumento a Fundadores",
+                "ro": "Monumento a Fundadores",
+                "en": "Monumento a Fundadores"
+              },
+              "tip_5lang": {
+                "de": "Im Winter steht die Sonne tiefer, was dem Denkmal am Mittag eine ganz besondere, weiche Beleuchtung verleiht; ideal für beeindruckende Erinnerungsfotos.",
+                "hu": "Télen alacsonyabban jár a nap, ami az emlékműnek délidőben is különleges, lágy megvilágítást ad; ideális helyszín lenyűgöző emlékfotók készítéséhez.",
+                "ro": "Iarna soarele este mai jos, ceea ce oferă monumentului o iluminare specială și caldă la prânz; este un loc ideal pentru fotografii deosebite.",
+                "en": "In winter the sun stays lower, giving the monument a very special soft lighting even at noon; it's an ideal spot for taking impressive souvenir photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Las Palmas Bird Sanctuary",
+                "hu": "Las Palmas Bird Sanctuary",
+                "ro": "Las Palmas Bird Sanctuary",
+                "en": "Las Palmas Bird Sanctuary"
+              },
+              "tip_5lang": {
+                "de": "Der Winter ist die beste Zeit für Zugvögel; beobachten Sie die seltene Vielfalt bequem vom Auto aus, um sich vor dem kühlen Wind am Fluss zu schützen.",
+                "hu": "A tél a legjobb időszak a vándormadarak számára; figyelje meg a ritka fajokat kényelmesen az autóból, hogy megvédje magát a folyóparti hűvös széltől.",
+                "ro": "Iarna este cea mai bună perioadă pentru păsările migratoare; observați speciile rare confortabil din mașină pentru a vă proteja de vântul rece de pe mal.",
+                "en": "Winter is the best time for migratory birds; observe the rare diversity comfortably from your car to stay protected from the cool breeze by the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Antigua Border Heritage Museum",
+                "hu": "Villa Antigua Border Heritage Museum",
+                "ro": "Villa Antigua Border Heritage Museum",
+                "en": "Villa Antigua Border Heritage Museum"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie in den warmen Ausstellungsräumen und lassen Sie sich von der Grenzgeschichte faszinieren, während es draußen im Winter früh dämmert.",
+                "hu": "Időzzön el a meleg kiállítótermekben, és hagyja, hogy lenyűgözze a határvidék történelme, miközben kint a téli napokon korán kezdődik a szürkület.",
+                "ro": "Zăboviți în sălile de expoziție calde și lăsați-vă fascinați de istoria graniței, în timp ce afară, în zilele de iarnă, amurgul începe devreme.",
+                "en": "Linger in the warm exhibition rooms and let the border history fascinate you, while outside on winter days, the twilight starts to settle in early."
+              }
+            },
+            {
+              "name": {
+                "de": "Laredo Theater Guild",
+                "hu": "Laredo Theater Guild",
+                "ro": "Laredo Theater Guild",
+                "en": "Laredo Theater Guild"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch hier ist perfekt, um den kühlen Winterabend im Warmen zu beginnen; informieren Sie sich über das Programm lokaler Theatergruppen.",
+                "hu": "Egy látogatás itt tökéletes a hűvös téli este melegben való megkezdéséhez; tájékozódjon a helyi színházi csoportok aktuális és ünnepi programjairól.",
+                "ro": "O vizită aici este perfectă pentru a începe seara răcoroasă de iarnă la căldură; informați-vă despre programele grupurilor locale de teatru.",
+                "en": "A visit here is perfect for starting a cool winter evening in the warmth; check the schedule for performances by local theater groups and artists."
+              }
+            },
+            {
+              "name": {
+                "de": "Riverbend Nature Preserve",
+                "hu": "Riverbend Nature Preserve",
+                "ro": "Riverbend Nature Preserve",
+                "en": "Riverbend Nature Preserve"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag hier spätestens um 17:00 Uhr, um den spektakulären winterlichen Sonnenuntergang über dem Rio Grande vom Auto aus zu bewundern.",
+                "hu": "Fejezze be itt a napját legkésőbb 17:00-kor, hogy megcsodálhassa a Rio Grande feletti látványos téli naplementét közvetlenül az autóból.",
+                "ro": "Încheiați ziua aici cel târziu la ora 17:00 pentru a admira apusul spectaculos de iarnă peste Rio Grande direct din confortul mașinii.",
+                "en": "Finish your day here by 17:00 at the latest to admire the spectacular winter sunset over the Rio Grande directly from the comfort of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

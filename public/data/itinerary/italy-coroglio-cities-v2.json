@@ -160,6 +160,196 @@
         "hu": "Morning: Kezdje a napot az északi Bagnoli negyedben, felfedezve a környék tengerhez fűződő mély kapcsolatát. A Museo del Mare tökéletes alaphangot ad a helyi tengerészeti történelmet bemutató lenyűgöző kiállításaival.\nMidday: Sétáljon végig a hangulatos utcákon, ahol a történelem és a hit zökkenőmentesen keveredik. Látogassa meg a békés Chiesa di San Pasquale Baylont, mielőtt megcsodálná a közeli Chiesa di Sant'Anna lenyűgöző szépségét.\nAfternoon: Folytassa Coroglio spirituális központjának gyalogos felfedezését. A Santa Maria delle Grazie és a Santa Croce elegáns homlokzatai csendes kikapcsolódást és lenyűgöző, délutáni napsütésben fürdő építészeti részleteket kínálnak.\nEvening: Fejezze be sétáját az Edificio I Teatrónál. Ezek az ősi szerkezeti maradványok az időtlenség érzését keltik, és tökéletes, elmélkedő finálét nyújtanak a környék kulturális örökségének átfogó felfedezéséhez.",
         "ro": "Morning: Începeți-vă ziua în cartierul nordic Bagnoli, explorând legătura profundă a zonei cu marea. Museo del Mare oferă tonul perfect cu exponatele sale fascinante care detaliază istoria nautică locală și tradițiile maritime.\nMidday: Plimbați-vă pe străzile fermecătoare ale cartierului, unde istoria și credința se împletesc perfect. Vizitați liniștita Chiesa di San Pasquale Baylon înainte de a trece la frumusețea complexă a Chiesa di Sant'Anna din apropiere.\nAfternoon: Continuați explorarea pietonală a inimii spirituale a orașului Coroglio. Fațadele elegante ale Santa Maria delle Grazie și Santa Croce oferă un răgaz liniștit și detalii arhitecturale uimitoare, scăldate în soarele după-amiezii.\nEvening: Încheiați-vă turul la Edificio I Teatro. Aceste rămășițe structurale antice evocă un sentiment de atemporalitate, oferind un final perfect și reflexiv pentru explorarea dumneavoastră cuprinzătoare a patrimoniului cultural.",
         "en": "Morning: Begin your day in the northern Bagnoli district, exploring the area's deep connection to the sea. The Museo del Mare sets the perfect tone with its fascinating exhibits detailing local nautical history and seafaring traditions.\nMidday: Stroll through the charming neighborhood streets, where history and faith intermingle seamlessly. Visit the tranquil Chiesa di San Pasquale Baylon before moving on to the intricate beauty of the Chiesa di Sant'Anna nearby.\nAfternoon: Continue your pedestrian exploration of Coroglio's spiritual heart. The elegant facades of Santa Maria delle Grazie and Santa Croce offer a quiet respite and stunning architectural details bathed in the afternoon sun.\nEvening: Conclude your walking tour at the Edificio I Teatro. These ancient structural remnants evoke a sense of timelessness, providing a perfect, reflective finale to your comprehensive exploration of the district's cultural heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Vormittag am Meer beginnt im Museo del Mare, wo Sie geschützt vor den Böen in die maritime Geschichte eintauchen können. Mittags bieten die vielen Kirchen entlang der Route ideale Rückzugsorte, um dem Prasseln der Tropfen auf dem Pflaster zu entgehen.\n\nAm Nachmittag führt der Weg zum römischen Theater, wobei Sie auf den glatten Steinen vorsichtig sein sollten. Am Abend beruhigt sich das Wetter oft, und die feuchten Gassen glänzen im Schein der Laternen.",
+            "hu": "Az esős délelőtt a tengerparti Museo del Mare falai között indul, ahol a szél elől menekülve merülhetünk el a hajózás világában. Délben az egymást követő templomok nyújtanak tökéletes menedéket a szakadó eső elől.\n\nDélután az Edificio I - Teatro romjai között a vizes kövek csúszósak lehetnek, így óvatos lépteket javasolunk. Estére a város fényei megcsillannak a vizes aszfalton, különleges hangulatot árasztva a friss, sós levegőben.",
+            "ro": "O dimineață ploioasă începe la Museo del Mare, refugiul perfect pentru a explora istoria maritimă ferit de vânt. La prânz, bisericile de pe traseu devin adăposturi spirituale și fizice împotriva stropilor reci.\n\nDupă-amiaza, vizita la teatrul antic necesită atenție sporită pe pavajul umed și alunecos. Seara, reflexiile luminilor stradale în bălți creează o atmosferă melancolică și fascinantă pe străzile din Coroglio.",
+            "en": "A rainy morning starts inside the Museo del Mare, where you can escape the gusts and explore maritime heritage. At noon, the series of churches provide dry havens as the rain drum against the ancient stone walls.\n\nIn the afternoon, the walk to the Roman theater requires caution on slippery surfaces, so keep your umbrella handy. By evening, the rain often turns to mist, leaving the streets glistening under the yellow streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag für die umfangreiche Indoor-Ausstellung und bewundern Sie die Schiffsmodelle, während draußen der Regen gegen die Fenster peitscht.",
+                "hu": "Használja ki a délelőttöt a gazdag benti kiállítás felfedezésére; nézze meg a hajómodelleket, amíg odakint a tenger felől érkező eső kopog az ablakokon.",
+                "ro": "Profită de dimineață pentru a explora expoziția interioară vastă și admiră machetele de nave în timp ce ploaia bate în ferestrele muzeului.",
+                "en": "Spend the morning exploring the extensive indoor exhibits; admire the ship models while staying perfectly dry from the coastal downpour outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Pasquale Baylon",
+                "hu": "Chiesa di San Pasquale Baylon",
+                "ro": "Chiesa di San Pasquale Baylon",
+                "en": "Chiesa di San Pasquale Baylon"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist ein wunderbarer Ort für eine kurze Rast im Trockenen; bewundern Sie die sakrale Kunst, während Sie auf das Nachlassen des Regens warten.",
+                "hu": "Ez a templom remek hely egy rövid, száraz pihenőre; csodálja meg a szakrális művészetet, miközben várja, hogy alábbhagyjon a kinti égi áldás.",
+                "ro": "Această biserică este un loc minunat pentru un scurt popas la uscat; admiră arta sacră în timp ce aștepți ca ploaia să se domolească afară.",
+                "en": "This church is a wonderful spot for a short, dry break; admire the religious art while waiting for the coastal rain to ease off for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Anna",
+                "hu": "Chiesa di Sant'Anna",
+                "ro": "Chiesa di Sant'Anna",
+                "en": "Chiesa di Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Schütteln Sie Ihren Regenschirm am Eingang kräftig aus und genießen Sie die stille, andächtige Atmosphäre dieses geschützten religiösen Rückzugsortes.",
+                "hu": "Rázza le alaposan az esernyőjét a bejáratnál, és élvezze e védett vallási menedékhely csendes, áhítatos hangulatát a zuhogó eső közepette.",
+                "ro": "Scutură bine umbrela la intrare și bucură-te de atmosfera liniștită și evlavioasă a acestui refugiu religios protejat de intemperii.",
+                "en": "Shake your umbrella well at the entrance and enjoy the quiet, prayerful atmosphere of this sheltered religious retreat during the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria delle Grazie",
+                "hu": "Chiesa di Santa Maria delle Grazie",
+                "ro": "Chiesa di Santa Maria delle Grazie",
+                "en": "Chiesa di Santa Maria delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Das Interieur bietet prächtige Details, die bei gedämpftem Regenlicht besonders mystisch wirken; ein idealer Halt, um die Kleidung kurz zu trocknen.",
+                "hu": "A belső tér pazar részletei a borús, esős fényben különösen misztikusnak tűnnek; ideális megálló, hogy egy kicsit megszárítsuk átázott ruházatunkat.",
+                "ro": "Interiorul oferă detalii somptuoase care par mistice în lumina difuză a zilei ploioase; un popas ideal pentru a-ți usca puțin hainele.",
+                "en": "The interior features grand details that look particularly mystical in the muted rainy light; it is an ideal stop to dry off your gear for a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Santa Croce",
+                "hu": "Chiesa della Santa Croce",
+                "ro": "Chiesa della Santa Croce",
+                "en": "Chiesa della Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Bevor Sie den letzten Teil des Weges antreten, finden Sie hier Schutz vor dem Wind; achten Sie beim Verlassen auf Pfützen vor dem Kirchentor.",
+                "hu": "Mielőtt megtenné az út utolsó szakaszát, találjon itt menedéket a szél elől; kilépéskor ügyeljen a templomkapu előtt kialakult tócsákra.",
+                "ro": "Înainte de a porni pe ultima porțiune a drumului, găsește aici refugiu contra vântului; atenție la bălțile de la ieșirea din biserică.",
+                "en": "Find shelter from the wind here before starting the final stretch; watch out for deep puddles near the church entrance when you leave."
+              }
+            },
+            {
+              "name": {
+                "de": "Edificio I - Teatro",
+                "hu": "Edificio I - Teatro",
+                "ro": "Edificio I - Teatro",
+                "en": "Edificio I - Teatro"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die antiken Strukturen vorsichtig, da die Stufen extrem rutschig sein können; festes Schuhwerk mit gutem Profil ist heute unerlässlich.",
+                "hu": "Óvatosan járja be az antik romokat, mert a lépcsők rendkívül csúszósak lehetnek; a mai napon elengedhetetlen a barázdált talpú, vízálló cipő.",
+                "ro": "Vizitează structurile antice cu prudență, deoarece treptele pot fi extrem de alunecoase; încălțămintea cu talpă aderentă este esențială astăzi.",
+                "en": "Tour the ancient structures carefully as the stone steps can be extremely slippery; sturdy waterproof shoes with good grip are essential today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Coroglio ist frisch und oft windig, was den Besuch im Museo del Mare besonders gemütlich macht. Die klare Winterluft bietet weite Sichten, bevor Sie mittags in den beheizten Kirchen Wärme suchen.\n\nNachmittags steht das antike Theater auf dem Plan, wobei Sie die tiefstehende Sonne für dramatische Fotos nutzen sollten. Da es bereits gegen 17 Uhr dunkel wird, endet der Spaziergang in der stimmungsvollen, kühlen Abenddämmerung.",
+            "hu": "A téli reggel Coroglióban friss és gyakran szeles, ami különösen hívogatóvá teszi a Museo del Mare belső tereit. A tiszta téli levegő távoli kilátást ígér, mielőtt délben a templomok falai között keresnénk enyhülést a hideg ellen.\n\nDélután az antik színház romjai a lemenő nap fényében drámai látványt nyújtanak. Mivel 17 óra körül sötétedik, a séta a hűvös, de hangulatos alkonyatban ér véget a tenger felett.",
+            "ro": "Dimineața de iarnă în Coroglio este revigorantă și adesea vântoasă, făcând vizita la Museo del Mare foarte plăcută. Aerul curat oferă vizibilitate maximă, înainte de a căuta căldură la prânz în interiorul bisericilor.\n\nDupă-amiaza, teatrul antic oferă un cadru dramatic sub lumina caldă a soarelui de iarnă. Deoarece se întunecă în jurul orei 17:00, plimbarea se încheie în amurgul răcoros și plin de farmec.",
+            "en": "Winter mornings in Coroglio are crisp and often windy, making a visit to the Museo del Mare particularly cozy. The clear winter air offers vast views before you seek warmth inside the churches at noon.\n\nIn the afternoon, the ancient theater provides a dramatic backdrop under the low sun. Since it gets dark around 5 PM, your walk will end in the atmospheric and chilly twilight by the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre der Nebensaison und wärmen Sie sich auf, während Sie die maritime Geschichte der Region in aller Ruhe studieren.",
+                "hu": "Élvezze a főszezonon kívüli csendes hangulatot, és melegedjen fel, miközben zavartalanul tanulmányozza a régió izgalmas tengerészeti múltját.",
+                "ro": "Bucură-te de atmosfera liniștită de extrasezon și încălzește-te în timp ce studiezi pe îndelete istoria maritimă a regiunii.",
+                "en": "Enjoy the quiet off-season atmosphere and warm up while you study the region's maritime history without the usual summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Pasquale Baylon",
+                "hu": "Chiesa di San Pasquale Baylon",
+                "ro": "Chiesa di San Pasquale Baylon",
+                "en": "Chiesa di San Pasquale Baylon"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor dem Winterwind; tragen Sie Schichten, die Sie leicht ausziehen können, wenn es im Inneren der Kirche wärmer ist.",
+                "hu": "A vastag kőfalak védenek a téli széltől; viseljen réteges ruházatot, amit bent könnyen levehet, ha a templom belső tere melegebbnek bizonyulna.",
+                "ro": "Zidurile groase de piatră te protejează de vântul de iarnă; poartă haine în straturi pe care le poți scoate ușor în interiorul mai cald.",
+                "en": "The thick stone walls protect you from the winter wind; wear layers that you can easily remove if it feels warmer inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Anna",
+                "hu": "Chiesa di Sant'Anna",
+                "ro": "Chiesa di Sant'Anna",
+                "en": "Chiesa di Sant'Anna"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das kühle Winterlicht durch die Fenster fällt und eine friedliche Stimmung erzeugt; ideal für einen Moment der inneren Einkehr.",
+                "hu": "Figyelje meg, ahogy a hűvös téli fény átszűrődik az ablakokon, békés hangulatot teremtve; ideális helyszín egy rövid elcsendesedéshez.",
+                "ro": "Observă cum lumina rece de iarnă pătrunde prin ferestre, creând o stare de liniște; un loc ideal pentru un moment de introspecție.",
+                "en": "Observe how the cool winter light filters through the windows, creating a peaceful mood; it is an ideal spot for a moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria delle Grazie",
+                "hu": "Chiesa di Santa Maria delle Grazie",
+                "ro": "Chiesa di Santa Maria delle Grazie",
+                "en": "Chiesa di Santa Maria delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Zünden Sie eine Kerze an, die nicht nur Licht, sondern auch eine symbolische Wärme in den kühlen Kirchenraum bringt; genießen Sie die sakrale Stille.",
+                "hu": "Gyújtson egy gyertyát, amely nemcsak fényt, hanem szimbolikus meleget is visz a hűvös templomtérbe; élvezze a szakrális csendet a hideg után.",
+                "ro": "Aprinde o lumânare care aduce nu doar lumină, ci și o căldură simbolică în spațiul răcoros al bisericii; bucură-te de liniștea sacră.",
+                "en": "Light a candle to bring not just light but a symbolic warmth to the cool church interior; enjoy the sacred silence away from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Santa Croce",
+                "hu": "Chiesa della Santa Croce",
+                "ro": "Chiesa della Santa Croce",
+                "en": "Chiesa della Santa Croce"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um sich vor dem Weg zum Theater noch einmal aufzuwärmen; die Wintersonne steht nun schon tief am Horizont.",
+                "hu": "Használja ki ezt a megállót egy utolsó felmelegedésre a színház felé vezető út előtt; a téli nap már alacsonyan jár a látóhatár felett.",
+                "ro": "Folosește acest popas pentru a te încălzi înainte de drumul spre teatru; soarele de iarnă este deja jos la orizont în acest moment.",
+                "en": "Use this stop to warm up one last time before heading to the theater; the winter sun is already hanging low on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Edificio I - Teatro",
+                "hu": "Edificio I - Teatro",
+                "ro": "Edificio I - Teatro",
+                "en": "Edificio I - Teatro"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen wirken im fahlen Winterlicht besonders majestätisch; bringen Sie eine Thermoskanne mit, um die Aussicht warm zu genießen.",
+                "hu": "Az antik romok a sápadt téli fényben különösen fenségesnek tűnnek; hozzon magával egy termoszt, hogy forró itallal élvezhesse a kilátást.",
+                "ro": "Ruinele antice par deosebit de maiestuoase în lumina palidă a iernii; adu un termos pentru a te bucura de priveliște cu o băutură caldă.",
+                "en": "The ancient ruins look particularly majestic in the pale winter light; bring a thermos to enjoy the view with a warm drink in hand."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Morning: Pattanjon kerékpárra, és kezdjen a Museo del Maréban, magába szívva Coroglio tengerészeti történelmét, mielőtt egy rövid tekeréssel elérné a Chiesa di Maria Santissima Desolata békés szentélyét.\nMidday: Élvezze a frissítő biciklizést dél felé, Posillipo irányába. A következő úti cél a Le Nuvole, egy izgalmas kulturális tér, ahol megcsodálhatja a helyi művészeti megnyilvánulásokat és a kreatív energiát.\nAfternoon: A parti szellő kíséri, miközben felteker az Immacolata a Mezza Costa felé. Ez a domboldalon fekvő vallási hely lenyűgöző panorámával és nyugodt légkörrel jutalmazza meg a szerény fizikai erőfeszítést.\nEvening: Guruljon le lágyan Porto Paone felé a nap végén. A Nisida szigete melletti egyedülálló természetes kikötő varázslatos tengerparti naplementét kínál, tökéletes befejezést nyújtva aktív kerékpáros kalandjának.",
         "ro": "Morning: Urcați pe bicicletă și începeți la Museo del Mare, absorbind istoria maritimă a orașului Coroglio înainte de a pedala pe o distanță scurtă până la sanctuarul pașnic al Chiesa di Maria Santissima Desolata.\nMidday: Bucurați-vă de o plimbare răcoritoare cu bicicleta spre sud, spre zona Posillipo. Următoarea destinație este Le Nuvole, un spațiu cultural captivant unde puteți aprecia expresiile artistice locale.\nAfternoon: Briza de coastă vă ghidează în timp ce urcați cu bicicleta spre Immacolata a Mezza Costa. Acest sit religios pe deal răsplătește efortul fizic cu atmosfera sa senină și priveliști panoramice spectaculoase.\nEvening: Coborâți lin spre Porto Paone la sfârșitul zilei. Portul natural unic de lângă insula Nisida oferă un apus de soare magic pe coastă, oferind o concluzie perfectă pentru aventura dumneavoastră activă.",
         "en": "Morning: Hop on your bike and start at the Museo del Mare, absorbing the maritime history of Coroglio before pedaling a short distance to the peaceful sanctuary of Chiesa di Maria Santissima Desolata.\nMidday: Enjoy a refreshing bike ride southward toward the Posillipo area. Your next destination is Le Nuvole, an engaging cultural space where you can appreciate local artistic expressions and creative energy.\nAfternoon: The coastal breeze guides you as you cycle up to the Immacolata a Mezza Costa. This hillside religious site rewards the modest physical effort with its serene atmosphere and spectacular panoramic views.\nEvening: Coast gently down to Porto Paone as the day ends. The unique natural harbor by the island of Nisida provides a magical coastal sunset, offering a perfect conclusion to your active cycling adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenstraßen von Coroglio. Starten Sie im Museo del Mare, um den ersten Guss abzuwarten, und nutzen Sie dann die Kirchenpausen, um sich kurz abzutrocknen.\n\nMittags bietet das Le Nuvole ein kulturelles Dach über dem Kopf. Achten Sie auf den Abfahrten zum Hafen auf rutschige Stellen und Schlamm, der durch den Regen auf die Fahrbahn gespült wurde.",
+            "hu": "Az esős biciklitúra óvatosságot igényel Coroglio tengerparti útjain. Kezdjen a Museo del Mare épületében, megvárva az első nagy záport, majd használja a templomokat gyors szárítkozásra.\n\nDélben a Le Nuvole nyújt fedett kulturális menedéket. A kikötő felé tartó lejtőkön ügyeljen a csúszós szakaszokra és az útra mosott sárra, ami próbára teheti a fékeket és a tapadást.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile de coastă din Coroglio. Începe la Museo del Mare pentru a lăsa prima rafală să treacă, apoi folosește bisericile pentru pauze scurte.\n\nLa prânz, Le Nuvole oferă un acoperiș cultural primitor. Atenție sporită la coborârile spre port, unde ploaia poate aduce noroi pe carosabil, făcând drumul periculos.",
+            "en": "A rainy bike tour requires extra caution on Coroglio's coastal roads. Start at the Museo del Mare to wait out the first downpour, then use church stops to dry off briefly between rides.\n\nAt noon, Le Nuvole offers a cultural roof over your head. Watch out for slippery patches and mud washed onto the asphalt during the descents toward the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Zeit drinnen, um Ihre Regenbekleidung für die Weiterfahrt optimal zu richten.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és használja ki a benti időt esőruházata megigazítására a további biztonságos út előtt.",
+                "ro": "Parchează bicicleta într-un loc protejat și folosește timpul în interior pentru a-ți ajusta echipamentul de ploaie înainte de plecare.",
+                "en": "Park your bike in a sheltered spot and use the indoor time to adjust your rain gear properly before continuing your ride safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Santissima Desolata",
+                "hu": "Chiesa di Maria Santissima Desolata",
+                "ro": "Chiesa di Maria Santissima Desolata",
+                "en": "Chiesa di Maria Santissima Desolata"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Stopp; prüfen Sie vor dem Losfahren den Reifendruck, da nasser Asphalt weniger Grip bietet als trockener Boden.",
+                "hu": "Rövid, száraz megálló; indulás előtt ellenőrizze a gumiabroncsokat, mivel a vizes aszfalt jóval kevesebb tapadást biztosít, mint a száraz út.",
+                "ro": "Un popas scurt și uscat; verifică presiunea în anvelope înainte de plecare, deoarece asfaltul ud oferă mult mai puțină aderență.",
+                "en": "A short, dry stop; check your tire grip before leaving, as wet asphalt provides significantly less traction than dry road surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Nuvole",
+                "hu": "Le Nuvole",
+                "ro": "Le Nuvole",
+                "en": "Le Nuvole"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist perfekt, um den stärksten Regen auszusitzen; genießen Sie die kulturellen Ausstellungen, während Ihr Rad draußen sicher steht.",
+                "hu": "Ez a helyszín tökéletes a legerősebb eső kivárására; élvezze a kulturális kiállításokat, amíg kerékpárja odakint biztonságban várakozik.",
+                "ro": "Acest loc este perfect pentru a aștepta trecerea celei mai puternice ploi; bucură-te de expoziții în timp ce bicicleta e parcată în siguranță.",
+                "en": "This venue is perfect for waiting out the heaviest rain; enjoy the cultural exhibits while your bike stays parked safely outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Immacolata a Mezza Costa",
+                "hu": "Immacolata a Mezza Costa",
+                "ro": "Immacolata a Mezza Costa",
+                "en": "Immacolata a Mezza Costa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt zur Erholung; bremsen Sie auf dem Rückweg zum Meer frühzeitig, da Bremsen auf nassen Felgen verzögert reagieren.",
+                "hu": "Használja ki a pihenőt; a tengerhez visszavezető úton fékezzen időben, mivel a vizes felniken a fékek jóval lassabban fognak.",
+                "ro": "Profită de acest popas pentru odihnă; pe drumul de întoarcere spre mare, frânează din timp deoarece jantele ude reduc eficiența frânării.",
+                "en": "Take a rest here; on the way back to the sea, start braking early as wet rims significantly delay the responsiveness of your brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Paone",
+                "hu": "Porto Paone",
+                "ro": "Porto Paone",
+                "en": "Porto Paone"
+              },
+              "tip_5lang": {
+                "de": "Der Hafenweg kann bei Regen matschig sein; achten Sie auf die Wellen und die Gischt, die heute besonders nah an den Weg herankommen.",
+                "hu": "A kikötői út esőben sáros lehet; ügyeljen a hullámokra és a sós permetre, amely ma különösen közel érhet az úthoz és a biciklihez.",
+                "ro": "Drumul spre port poate fi noroios pe ploaie; atenție la valurile și aerosolii marini care astăzi pot ajunge foarte aproape de traseu.",
+                "en": "The harbor path can be muddy in the rain; watch out for waves and sea spray, which might reach the path more easily today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Coroglio bietet klare Aussichten, erfordert aber warme Handschuhe gegen den Fahrtwind. Morgens wärmt die Sonne nur zögerlich, sodass die Stopps in den Kirchen willkommen sind.\n\nMittags im Le Nuvole können Sie sich regenerieren. Da die Sonne gegen 17 Uhr im Meer versinkt, sollten Sie den Rückweg vom Hafen antreten, solange es noch hell ist, um die kühlen Abendtemperaturen zu meiden.",
+            "hu": "A téli kerékpározás Coroglióban tiszta kilátást ígér, de a menetszél ellen meleg kesztyűre lesz szükség. Reggel a nap csak lassan melegít, így a templomi megállók nagyon jól fognak esni.\n\nDélben a Le Nuvole falai között regenerálódhatunk. Mivel a nap 17 óra körül a tengerbe vész, érdemes még világosban elindulni a kikötőtől, elkerülve a hirtelen lehűlést.",
+            "ro": "Ciclismul de iarnă în Coroglio oferă priveliști clare, dar necesită mănuși groase contra vântului. Dimineața, soarele încălzește greu, deci pauzele în biserici sunt binevenite.\n\nLa prânz, te poți recupera în interior la Le Nuvole. Deoarece soarele apune în mare în jurul orei 17:00, pornește înapoi din port cât încă e lumină pentru a evita frigul serii.",
+            "en": "Winter cycling in Coroglio offers clear views but requires warm gloves against the biting wind. The morning sun warms up slowly, so church stops are a welcome relief from the cold.\n\nAt noon, you can recharge at Le Nuvole. Since the sun sets over the sea around 5 PM, aim to head back from the harbor while it's still light to avoid the sudden evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Tour mit einer Aufwärmrunde im Museum; die Bewegung hält Sie warm, aber ein warmer Start im Inneren schont die Gelenke.",
+                "hu": "Kezdje a túrát egy bemelegítő körrel a múzeumban; a mozgás melegen tartja, de a benti kezdés jót tesz az ízületeknek a hideg előtt.",
+                "ro": "Începe tura cu o vizită de încălzire în muzeu; mișcarea te va menține cald, dar un start la interior este mult mai confortabil iarna.",
+                "en": "Start your tour with a warm-up inside the museum; while riding keeps you warm, starting in a heated indoor space is much better in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Maria Santissima Desolata",
+                "hu": "Chiesa di Maria Santissima Desolata",
+                "ro": "Chiesa di Maria Santissima Desolata",
+                "en": "Chiesa di Maria Santissima Desolata"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause vom kalten Wind; ziehen Sie Ihre Handschuhe erst kurz vor der Weiterfahrt wieder an, damit sie warm bleiben.",
+                "hu": "Csendes hely, ahol megpihenhet a hideg szél elől; a kesztyűt csak közvetlenül indulás előtt húzza vissza, hogy belül meleg maradjon.",
+                "ro": "Un loc liniștit pentru o pauză de la vântul rece; pune-ți mănușile înapoi doar chiar înainte de plecare, pentru a le păstra calde.",
+                "en": "A quiet spot for a break from the cold wind; don't put your gloves back on until just before you leave to keep the warmth inside them."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Nuvole",
+                "hu": "Le Nuvole",
+                "ro": "Le Nuvole",
+                "en": "Le Nuvole"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren und dehnen Sie Ihre Muskeln; die Winterkälte kann die Beine beim Radfahren schneller ermüden lassen.",
+                "hu": "Élvezze a benti meleget és nyújtsa meg az izmait; a téli hidegben a lábak gyorsabban elfáradhatnak a tekerés közben, mint nyáron.",
+                "ro": "Bucură-te de căldura din interior și fă câteva exerciții de stretching; frigul de iarnă poate duce la o oboseală musculară mai rapidă.",
+                "en": "Enjoy the indoor warmth and stretch your muscles; the winter cold can make your legs tire more quickly while cycling than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Immacolata a Mezza Costa",
+                "hu": "Immacolata a Mezza Costa",
+                "ro": "Immacolata a Mezza Costa",
+                "en": "Immacolata a Mezza Costa"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hierher bringt Ihren Kreislauf in Schwung; oben angekommen sollten Sie sofort die Jacke schließen, um nicht auszukühlen.",
+                "hu": "Az idevezető emelkedő jól felpörgeti a vérkeringést; a csúcsra érve azonnal húzza fel a cipzárt, hogy ne hűljön ki a menetszélben.",
+                "ro": "Urcarea până aici îți va pune sângele în mișcare; odată ajuns sus, închide-ți imediat jacheta pentru a nu răci de la vânt.",
+                "en": "The climb up here will get your circulation going; once at the top, zip up your jacket immediately to prevent catching a chill from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Paone",
+                "hu": "Porto Paone",
+                "ro": "Porto Paone",
+                "en": "Porto Paone"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne glitzert auf dem Meer; beeilen Sie sich mit den Fotos, bevor die Temperatur nach Sonnenuntergang rapide sinkt.",
+                "hu": "Az alacsonyan járó téli nap megcsillan a tengeren; ne késlekedjen sokat a fotózással, mert naplemente után a hőmérséklet gyorsan zuhan.",
+                "ro": "Soarele jos de iarnă sclipește pe mare; nu zăbovi prea mult cu pozele, deoarece temperatura scade rapid după apusul soarelui.",
+                "en": "The low winter sun glitters beautifully on the sea; take your photos quickly, as the temperature drops rapidly after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Morning: Kezdje autós túráját a lélegzetelállító Parco Sommerso di Gaiolánál. A kristálytiszta vizek hátterében húzódó rendkívüli elsüllyedt romok felejthetetlen kezdetet biztosítanak a napnak.\nMidday: Vezessen az elegáns Posillipo negyedbe, hogy meglátogassa a Teatro Denzát. Egy rövid út után elérkezik az Immacolata a Mezza Costához egy pillanatnyi csendes elmélkedésre és lenyűgöző kilátásra.\nAfternoon: Irány észak felé, a Bagnoli környékére, és parkoljon le a Museo del Mare közelében. Merüljön el a régió mély tengerészeti örökségében a múzeum gondosan összeállított kiállításain keresztül.\nEvening: Fejezze be autós kirándulását két jelentős helyi templom felfedezésével. Látogasson el a Chiesa del Santissimo Salvatore-ba, mielőtt az alkonyati égbolt alatt megcsodálná a Chiesa di San Giuseppe Confessore klasszikus szépségét.",
         "ro": "Morning: Începeți turul cu mașina la uimitorul Parco Sommerso di Gaiola. Ruinele scufundate extraordinare, așezate pe fundalul apelor cristaline, oferă un început de neuitat pentru ziua dumneavoastră.\nMidday: Conduceți spre cartierul elegant Posillipo pentru a vizita Teatro Denza. O scurtă călătorie vă duce apoi la Immacolata a Mezza Costa pentru un moment de reflecție liniștită și priveliști uimitoare.\nAfternoon: Îndreptați-vă spre nord în zona Bagnoli, parcând lângă Museo del Mare. Scufundați-vă în moștenirea nautică profundă a regiunii prin expozițiile bine organizate și artefactele istorice ale muzeului.\nEvening: Încheiați-vă călătoria explorând două biserici locale semnificative. Vizitați Chiesa del Santissimo Salvatore înainte de a admira frumusețea clasică a Chiesa di San Giuseppe Confessore sub cerul crepuscular.",
         "en": "Morning: Start your driving tour at the breathtaking Area Marina Protetta Parco Sommerso di Gaiola. The extraordinary submerged ruins set against the crystal-clear waters provide an unforgettable beginning to your day.\nMidday: Drive to the elegant Posillipo district to visit Teatro Denza, soaking in the local cultural scene. A short drive then takes you to Immacolata a Mezza Costa for a moment of quiet reflection and stunning vistas.\nAfternoon: Head north to the Bagnoli area, parking near the Museo del Mare. Dive into the deep nautical heritage of the region through the museum's well-curated exhibitions and historical artifacts.\nEvening: Conclude your road trip by exploring two significant local churches. Visit the Chiesa del Santissimo Salvatore before admiring the classical beauty of Chiesa di San Giuseppe Confessore under the twilight sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Coroglio bei Regen besonders komfortabel. Starten Sie am Unterwasserpark Gaiola, wo die aufgewühlte See durch das Fenster ein dramatisches Bild bietet.\n\nMittags bieten Theater und Museen trockene Erlebnisse. Achten Sie auf den Küstenstraßen auf schlechte Sicht durch den Sprühnebel der Brandung und parken Sie nahe an den Eingängen, um trocken zu bleiben.",
+            "hu": "Autóval az esőben is kényelmesen felfedezhető Coroglio minden szeglete. Kezdjen a Gaiola vízi parknál, ahol a felkorbácsolt tenger látványa az ablakból is drámai élményt nyújt.\n\nDélben a színház és a múzeum kínál száraz kikapcsolódást. A tengerparti utakon ügyeljen a vízpermet miatti rosszabb látási viszonyokra, és parkoljon minél közelebb a bejáratokhoz.",
+            "ro": "Cu mașina, explorarea orașului Coroglio pe ploaie este foarte confortabilă. Începe la parcul subacvatic Gaiola, unde marea agitată oferă un spectacol dramatic văzut de la adăpostul geamului.\n\nLa prânz, teatrele și muzeele oferă experiențe plăcute la uscat. Atenție la vizibilitatea redusă de pe drumul de coastă din cauza vaporilor de apă și parchează aproape de intrări.",
+            "en": "Exploring Coroglio by car is exceptionally comfortable on a rainy day. Start at the Gaiola underwater park, where the churned-up sea offers a dramatic view through your car window.\n\nAt noon, theaters and museums provide dry entertainment. Watch out for reduced visibility on coastal roads due to sea spray, and try to park near the entrances to stay dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Area Marina Protetta Parco Sommerso di Gaiola",
+                "hu": "Area Marina Protetta Parco Sommerso di Gaiola",
+                "ro": "Area Marina Protetta Parco Sommerso di Gaiola",
+                "en": "Area Marina Protetta Parco Sommerso di Gaiola"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Naturschauspiel der Brandung vom Parkplatz aus; nur bei kurzen Regenpausen lohnt sich der Weg direkt zum Wasser.",
+                "hu": "Figyelje meg a hullámverés természetes látványát a parkolóból; csak a rövid esőszünetekben érdemes lemerészkedni közvetlenül a vízpartra.",
+                "ro": "Observă spectacolul naturii și valurile direct din parcare; merită să cobori la apă doar în momentele scurte când ploaia se oprește.",
+                "en": "Watch the natural spectacle of the surf from the parking area; only head down to the water during brief breaks in the rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Denza",
+                "hu": "Teatro Denza",
+                "ro": "Teatro Denza",
+                "en": "Teatro Denza"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Nässe zu entfliehen; prüfen Sie, ob heute Indoor-Veranstaltungen stattfinden, während es draußen weiter regnet.",
+                "hu": "Ideális helyszín az eső elől való menekülésre; ellenőrizze, hogy tartanak-e ma beltéri programokat, miközben odakint kitartóan esik.",
+                "ro": "Un loc ideal pentru a scăpa de umezeală; verifică dacă au loc evenimente în interior astăzi, în timp ce afară continuă să plouă.",
+                "en": "An ideal spot to escape the wet weather; check if there are any indoor events scheduled today while the rain continues outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Immacolata a Mezza Costa",
+                "hu": "Immacolata a Mezza Costa",
+                "ro": "Immacolata a Mezza Costa",
+                "en": "Immacolata a Mezza Costa"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist steil und bei Regen rutschig; nutzen Sie den Halt in der Kirche, um die Ruhe und das ferne Rauschen des Regens zu genießen.",
+                "hu": "Az idevezető út meredek és esőben csúszós; használja ki a templomi megállót a csend és a távoli esőkopogás megnyugtató élvezetéhez.",
+                "ro": "Drumul de acces este abrupt și alunecos pe ploaie; profită de oprirea la biserică pentru a savura liniștea și sunetul ploii în depărtare.",
+                "en": "The approach is steep and slippery in the rain; use the stop at the church to enjoy the peace and the distant sound of falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet ausreichend Zeit im Trockenen; nutzen Sie die Parkmöglichkeit in der Nähe, um den Weg im Regen so kurz wie möglich zu halten.",
+                "hu": "A múzeum bőséges időt kínál szárazon; használja a közeli parkolót, hogy az esőben megtett séta a lehető legrövidebb legyen az ajtóig.",
+                "ro": "Muzeul oferă timp din belșug la adăpost; folosește parcarea din apropiere pentru a scurta pe cât posibil drumul prin ploaie până la intrare.",
+                "en": "The museum offers plenty of time indoors; use the nearby parking to keep your walk through the rain to the entrance as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Santissimo Salvatore",
+                "hu": "Chiesa del Santissimo Salvatore",
+                "ro": "Chiesa del Santissimo Salvatore",
+                "en": "Chiesa del Santissimo Salvatore"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verregnete Küste durch die Autofenster, bevor Sie für einen kurzen Moment der Stille in die Kirche gehen.",
+                "hu": "Élvezze az esős tengerpart látványát az autó ablakából, mielőtt beszaladna a templomba egy rövid, csendes elmélyülésre.",
+                "ro": "Bucură-te de priveliștea coastei ploioase prin geamul mașinii înainte de a intra în biserică pentru un scurt moment de reculegere.",
+                "en": "Enjoy the view of the rainy coast through the car windows before stepping into the church for a brief moment of quiet contemplation."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe Confessore",
+                "hu": "Chiesa di San Giuseppe Confessore",
+                "ro": "Chiesa di San Giuseppe Confessore",
+                "en": "Chiesa di San Giuseppe Confessore"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag im Trockenen ausklingen; die Straßenbeleuchtung spiegelt sich bei Regen besonders schön auf den nassen Fahrbahnen wider.",
+                "hu": "Zárja a napot szárazon; az utcai lámpák fénye esőben különösen szépen tükröződik vissza a vizes úttestről a hazaút során.",
+                "ro": "Încheie ziua la adăpost; lumina stradală se reflectă deosebit de frumos pe carosabilul umed în timp ce te îndrepți spre casă.",
+                "en": "End the day in the dry; the streetlights reflect beautifully on the wet road surfaces as you make your way back after the tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist die Autofahrt entlang der Küste von Coroglio besonders reizvoll, da die Heizung für Wohlbefinden sorgt. Morgens bietet der Gaiola-Park klare Sichten auf die Inseln.\n\nMittags erkunden Sie Museen und Theater, ohne sich um die Kälte sorgen zu müssen. Beachten Sie, dass die tiefstehende Sonne blenden kann. Da es früh dunkel wird, können Sie die beleuchteten Kirchenfassaden in der Abenddämmerung bewundern.",
+            "hu": "Télen a tengerparti autózás Coroglióban kifejezetten élvezetes, ahogy a fűtés kellemes meleget ad. Reggel a Gaiola-park tiszta kilátást nyújt a távoli szigetekre.\n\nDélben múzeumokat és színházat látogathat anélkül, hogy a hideg miatt aggódna. Ügyeljen az alacsony napállás okozta vakításra. A korai sötétedés miatt az esti fényekben úszó templomokat is megcsodálhatja.",
+            "ro": "Iarna, drumul cu mașina pe coasta Coroglio este fermecător, oferind confortul căldurii la interior. Dimineața, parcul Gaiola oferă priveliști clare spre insule.\n\nLa prânz explorezi muzeele și teatrul fără să-ți faci griji de frigul de afară. Atenție la soarele jos care poate fi orbitor la volan. Seara, profită de fațadele luminate ale bisericilor după ora 17:00.",
+            "en": "In winter, driving along the Coroglio coast is delightful as the car heater keeps you cozy. In the morning, Gaiola Park offers stunningly clear views of the islands.\n\nAt noon, explore museums and theaters without worrying about the cold. Be mindful of the low sun's glare while driving. Since it gets dark early, you can admire the illuminated church facades by 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Area Marina Protetta Parco Sommerso di Gaiola",
+                "hu": "Area Marina Protetta Parco Sommerso di Gaiola",
+                "ro": "Area Marina Protetta Parco Sommerso di Gaiola",
+                "en": "Area Marina Protetta Parco Sommerso di Gaiola"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft macht die Sicht auf das Meer kristallklar; nutzen Sie die Parkbank für ein schnelles Foto, bevor Sie wieder ins warme Auto steigen.",
+                "hu": "A téli levegő kristálytisztává teszi a kilátást a tengerre; készítsen egy gyors fotót a partról, mielőtt visszaszállna a fűtött autóba.",
+                "ro": "Aerul de iarnă face priveliștea spre mare incredibil de clară; fă o poză rapidă de pe mal înainte de a te întoarce în mașina caldă.",
+                "en": "The winter air makes the sea views crystal clear; take a quick photo from the shore before hopping back into your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Denza",
+                "hu": "Teatro Denza",
+                "ro": "Teatro Denza",
+                "en": "Teatro Denza"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Highlight, das im Winter besonders einladend wirkt; genießen Sie den Aufenthalt im Inneren fernab der kühlen Meeresbrise.",
+                "hu": "Kulturális fénypont, amely télen különösen hívogató; élvezze a benti tartózkodást távol a hűvös, csípős tengeri szellőtől.",
+                "ro": "Un punct cultural important care iarna pare foarte primitor; bucură-te de timpul petrecut în interior, departe de briza rece a mării.",
+                "en": "A cultural highlight that feels especially welcoming in winter; enjoy your stay inside, far away from the chilly coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Immacolata a Mezza Costa",
+                "hu": "Immacolata a Mezza Costa",
+                "ro": "Immacolata a Mezza Costa",
+                "en": "Immacolata a Mezza Costa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Hang; die tiefstehende Wintersonne wirft lange Schatten und taucht die Kirche in ein goldenes, warmes Licht.",
+                "hu": "Parkoljon óvatosan a lejtőn; az alacsonyan járó téli nap hosszú árnyékokat vet, és aranyló, meleg fénybe öltözteti a templom épületét.",
+                "ro": "Parchează cu atenție pe pantă; soarele jos de iarnă aruncă umbre lungi și scaldă biserica într-o lumină aurie și caldă.",
+                "en": "Park carefully on the slope; the low winter sun casts long shadows and bathes the church in a beautiful, warm golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare",
+                "hu": "Museo del Mare",
+                "ro": "Museo del Mare",
+                "en": "Museo del Mare"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Winterstopp, um viel Zeit drinnen zu verbringen; die Parkplätze sind in der Nebensaison meist leichter zu finden.",
+                "hu": "Tökéletes téli megálló, ahol sok időt tölthet bent; a parkolóhelyeket a holtszezonban általában sokkal könnyebb megtalálni a közelben.",
+                "ro": "Un popas de iarnă perfect pentru a petrece mult timp în interior; locurile de parcare sunt de obicei mult mai ușor de găsit în extrasezon.",
+                "en": "A perfect winter stop to spend plenty of time indoors; parking spaces are usually much easier to find nearby during the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Santissimo Salvatore",
+                "hu": "Chiesa del Santissimo Salvatore",
+                "ro": "Chiesa del Santissimo Salvatore",
+                "en": "Chiesa del Santissimo Salvatore"
+              },
+              "tip_5lang": {
+                "de": "Die Abenddämmerung beginnt früh; beobachten Sie vom Auto aus, wie die Lichter der Stadt nach und nach in der Kälte zu funkeln beginnen.",
+                "hu": "Az alkonyat korán kezdődik; figyelje az autóból, ahogy a város fényei egyenként gyúlnak ki és kezdenek szikrázni a hűvös estében.",
+                "ro": "Amurgul începe devreme; observă din mașină cum luminile orașului se aprind rând pe rând și încep să sclipească în frigul serii.",
+                "en": "Twilight begins early; watch from the car as the city lights gradually turn on and begin to sparkle in the crisp evening air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe Confessore",
+                "hu": "Chiesa di San Giuseppe Confessore",
+                "ro": "Chiesa di San Giuseppe Confessore",
+                "en": "Chiesa di San Giuseppe Confessore"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Stopp bei Dunkelheit; die beleuchtete Kirche bietet ein warmes Fotomotiv, bevor Sie die Heimfahrt im gut beheizten Wagen antreten.",
+                "hu": "Az utolsó megálló már sötétben; a kivilágított templom meleg fotótémát kínál, mielőtt elindulna haza a jól befűtött autóval.",
+                "ro": "Ultima oprire este deja pe întuneric; biserica iluminată oferă un subiect cald pentru poze înainte de drumul spre casă în mașina încălzită.",
+                "en": "The final stop is in the dark; the illuminated church offers a warm photo subject before you head home in your well-heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

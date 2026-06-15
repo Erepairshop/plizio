@@ -137,6 +137,168 @@
         "hu": "A reggel a Praia de Brens strandon kezdődik, amely nyugodt vizeket és ipari bájt kínál. Délben felfedezheti a Caudeliño sziklás medencéit és a Praia do Illote miniatűr homokját. Délután az O Castelo magaslatára kapaszkodik fel a galíciai partvidékre nyíló lélegzetelállító kilátásért. Az este a védett A Coviña öbölben nyújt teljes kikapcsolódást.",
         "ro": "Dimineața începe la Praia de Brens, oferind ape calme și farmec industrial. La prânz explorați bazinele stâncoase de la Caudeliño și nisipurile pitorești în miniatură de la Praia do Illote. După-amiaza urcați la O Castelo pentru vederi panoramice uluitoare asupra coastei galiciene. Seara aduce relaxare la golful protejat A Coviña.",
         "en": "Morning begins at Praia de Brens, offering calm waters and industrial charm. Midday finds you exploring the rugged rock pools of Caudeliño and the scenic miniature sands of Praia do Illote. In the afternoon, you ascend O Castelo for breathtaking panoramic views of the Galician coast. Evening brings relaxation at the sheltered cove of A Coviña."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen an der Praia de Brens und lauschen Sie den Wellen. Gegen Mittag geht es nach Caudeliño und Illote; Vorsicht, die Küstenwege können rutschig sein. Nachmittags erkunden Sie O Castelo mit robuster Regenkleidung. Beenden Sie den Tag in A Coviña und suchen Sie sich einen geschützten Platz am Meer.",
+            "hu": "Kezdd az esős reggelt a Praia de Brensnél, hallgatva a tenger zúgását. Délben haladj a Caudeliño és Illote felé; vigyázz, a parti ösvények csúszósak lehetnek. Délután fedezd fel az O Castelo erődöt megfelelő esőruházatban. A napot az A Coviña partján zárd, keress egy védett helyet, ahonnan nézheted a galíciai esőt.",
+            "ro": "Începeți dimineața ploioasă la Praia de Brens, ascultând valurile. La prânz, îndreptați-vă spre Caudeliño și Illote; atenție, potecile de coastă pot fi alunecoase. După-amiaza, explorați O Castelo cu echipament de ploaie adecvat. Încheiați ziua la A Coviña, găsind un loc ferit pentru a privi ploaia deasupra mării.",
+            "en": "Start your rainy morning at Praia de Brens, listening to the crashing waves. By noon, head towards Caudeliño and Illote; be careful as the coastal paths can be slippery. In the afternoon, explore O Castelo with sturdy rain gear. Wrap up your day at A Coviña, finding a nearby sheltered spot to watch the rain fall over the Galician coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Brens",
+                "hu": "Praia de Brens",
+                "ro": "Praia de Brens",
+                "en": "Praia de Brens"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen, aber tragen Sie wasserdichte Schuhe für die schlammigen Wege.",
+                "hu": "Figyeld a partnak csapódó drámai hullámokat, de mindenképp viselj vízálló bakancsot a saras ösvények miatt.",
+                "ro": "Priviți valurile dramatice care se sparg de țărm, dar purtați cizme impermeabile pentru potecile noroioase.",
+                "en": "Watch the dramatic waves crash against the shore, but ensure you wear waterproof boots for the muddy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Caudeliño",
+                "hu": "Praia do Caudeliño",
+                "ro": "Praia do Caudeliño",
+                "en": "Praia do Caudeliño"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stimmungsvolle Atmosphäre dieses ruhigen Strandes und halten Sie einen Regenschirm bereit.",
+                "hu": "Élvezd a csendes strand borongós hangulatát, tartsd kéznél az esernyőt a hirtelen jövő tengerparti záporok miatt.",
+                "ro": "Bucurați-vă de atmosfera melancolică a plajei, având o umbrelă la îndemână pentru ploile subite de coastă.",
+                "en": "Enjoy the moody atmosphere of this quiet beach, keeping an umbrella handy for sudden coastal downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Illote",
+                "hu": "Praia do Illote",
+                "ro": "Praia do Illote",
+                "en": "Praia do Illote"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den dunklen Ozean vom Rand aus und treten Sie vorsichtig auf den rutschigen Steinen.",
+                "hu": "Figyeld a sötét, esős óceánt a sziklás perem biztonságából, óvatosan lépkedve a csúszós köveken.",
+                "ro": "Observați oceanul întunecat de pe marginea stâncoasă, pășind cu mare grijă pe pietrele extrem de alunecoase.",
+                "en": "Observe the dark, rainy ocean views from the safety of the rocky edge, treading carefully on slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "O Castelo",
+                "hu": "O Castelo",
+                "ro": "O Castelo",
+                "en": "O Castelo"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen und suchen Sie kurzzeitig Schutz vor dem starken Regen unter den alten Mauern.",
+                "hu": "Fedezd fel a történelmi romokat, és húzódj be egy pillanatra az ősi falak alá a heves eső elől.",
+                "ro": "Explorați ruinele istorice și adăpostiți-vă scurt sub zidurile vechi pentru a scăpa de ploaia torențială.",
+                "en": "Explore the historic ruins while sheltering briefly beneath the ancient walls to escape the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "A Coviña",
+                "hu": "A Coviña",
+                "ro": "A Coviña",
+                "en": "A Coviña"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die regengepeitschte Landschaft, bevor Sie sich nach drinnen zurückziehen, um sich aufzuwärmen.",
+                "hu": "Csodáld meg az eső áztatta, békés tájat, mielőtt fedett helyre vonulnál megszáradni és felmelegedni.",
+                "ro": "Admirați peisajul bătut de ploaie înainte de a vă retrage înăuntru pentru a vă usca și încălzi complet.",
+                "en": "Take in the serene, rain-swept landscape here before retreating indoors to dry off and warm your hands."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Praia de Brens mit frischer Meeresbrise. Mittags gehen Sie zügig nach Caudeliño und Illote, um in der blassen Sonne warm zu bleiben. Nachmittags besuchen Sie O Castelo; das Winterlicht ist perfekt für Fotos. Beenden Sie den Tag in A Coviña; da die Sonne um 17:00 Uhr untergeht, sollten Sie sich warm einpacken.",
+            "hu": "A csípős téli reggel a Praia de Brensnél indul frissítő tengeri szellővel. Délben sétálj tempósan a Caudeliño és Illote felé, hogy felmelegedj a halvány napsütésben. Délután látogasd meg az O Castelo-t; a téli fények csodás fotókat kínálnak. A napot az A Coviña-nál zárd, mivel a nap 17:00 körül lenyugszik, öltözz fel melegen az esti fagy ellen.",
+            "ro": "O dimineață de iarnă clară începe la Praia de Brens cu o briză marină proaspătă. La prânz, mergeți alert spre Caudeliño și Illote pentru a vă încălzi la soare. După-amiaza, vizitați O Castelo; lumina de iarnă creează oportunități foto superbe. Încheiați la A Coviña, deoarece soarele apune devreme, la 17:00, necesitând haine groase de seară.",
+            "en": "A crisp winter morning begins at Praia de Brens with refreshing sea breezes. By midday, walk briskly to Caudeliño and Illote to stay warm under the pale sun. In the afternoon, visit O Castelo; the winter light creates stunning photo opportunities. Conclude at A Coviña as the sun sets early around 17:00, requiring you to bundle up against the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Brens",
+                "hu": "Praia de Brens",
+                "ro": "Praia de Brens",
+                "en": "Praia de Brens"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie am frostigen Ufer und genießen Sie die klare Luft; tragen Sie Schichten, um warm zu bleiben.",
+                "hu": "Sétálj a fagyos parton, élvezd a friss reggeli levegőt, és viselj réteges ruházatot a kellemes melegért.",
+                "ro": "Plimbați-vă pe țărmul înghețat și respirați aerul proaspăt, purtând straturi pentru a vă menține căldura.",
+                "en": "Walk the frost-kissed shoreline and take in the crisp morning air, ensuring you wear layers to stay comfortably warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Caudeliño",
+                "hu": "Praia do Caudeliño",
+                "ro": "Praia do Caudeliño",
+                "en": "Praia do Caudeliño"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie überwinternde Seevögel am Wasser; eine Thermoskanne mit heißem Tee macht diesen Stopp gemütlicher.",
+                "hu": "Figyeld meg a víznél pihenő telelő tengeri madarakat; egy termosz forró tea sokkal barátságosabbá teszi a megállót.",
+                "ro": "Observați păsările marine de iarnă; un termos cu ceai fierbinte va face această oprire mult mai confortabilă.",
+                "en": "Spot local wintering seabirds resting by the water; a thermal flask of hot tea will make this stop much cozier."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Illote",
+                "hu": "Praia do Illote",
+                "ro": "Praia do Illote",
+                "en": "Praia do Illote"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Schönheit der Bucht; der kalte Seewind erfordert einen guten Schal und Handschuhe.",
+                "hu": "Csodáld meg az eldugott öböl zord téli szépségét, bár a csípős tengeri szél miatt kell a sál és a kesztyű.",
+                "ro": "Admirați frumusețea de iarnă a golfului izolat, deși vântul marin tăios necesită un fular bun și mănuși.",
+                "en": "Admire the stark winter beauty of the secluded bay, though the biting sea wind requires a good scarf and gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "O Castelo",
+                "hu": "O Castelo",
+                "ro": "O Castelo",
+                "en": "O Castelo"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die langen Winterschatten der historischen Steine, bevor die frühe Dunkelheit hereinbricht.",
+                "hu": "Örökítsd meg a történelmi kövek hosszú téli árnyékait, úgy időzítve a látogatást, hogy elkerüld a korai sötétedést.",
+                "ro": "Surprindeți umbrele lungi de iarnă ale pietrelor istorice, vizitând înainte de lăsarea întunericului de seară.",
+                "en": "Capture the long winter shadows cast by the historic stones, timing your visit before the early evening darkness falls."
+              }
+            },
+            {
+              "name": {
+                "de": "A Coviña",
+                "hu": "A Coviña",
+                "ro": "A Coviña",
+                "en": "A Coviña"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der frühe Sonnenuntergang den eisigen Himmel färbt, und gehen Sie dann zügig ins Warme.",
+                "hu": "Nézd végig, ahogy a korai naplemente pasztellszínekre festi a jeges eget, majd siess befelé, hogy felmelegedj.",
+                "ro": "Priviți cum apusul devreme pictează cerul înghețat în culori pastelate, apoi îndreptați-vă rapid la căldură.",
+                "en": "Watch the early sunset paint the icy sky in pastel colors, then briskly head indoors to warm up your chilled hands."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a biciklizést a Praia de Brens-nél, mielőtt a Caudeliño és az Illote sziklás menedékhelyeire tekerne. A délidő látványos torkolati kilátást hoz az O Castelo magaslatairól. A délután tökéletes úszásra a hatalmas Praia dos Muíños strandon. Utazása késő délután a vad, sziklákkal szegélyezett Praia da Cova partszakaszán ér véget.",
         "ro": "Începeți cursa la Praia de Brens înainte de a pedala spre refugiile stâncoase Caudeliño și Illote. Prânzul aduce vederi spectaculoase ale estuarului de pe înălțimile O Castelo. După-amiaza este perfectă pentru înot la plaja întinsă Praia dos Muíños. Călătoria dumneavoastră se încheie la sfârșitul după-amiezii la sălbatica Praia da Cova.",
         "en": "Kick off your ride at Praia de Brens before pedaling down to the rocky retreats of Caudeliño and Illote. Midday brings spectacular estuary views from the heights of O Castelo. Afternoon is perfect for swimming at the expansive Praia dos Muíños. Your journey concludes in the late afternoon at Praia da Cova with its wild, cliff-lined beauty."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre regnerische Fahrt an der Praia de Brens in wasserdichter Kleidung. Mittags radeln Sie vorsichtig nach Caudeliño und Illote, da nasse Straßen rutschig sind. Nachmittags geht es vorbei an O Castelo zur Praia dos Muíños durch die Gischt. Beenden Sie die Tour an der Praia da Cova, trocknen Sie das Rad und suchen Sie Schutz.",
+            "hu": "Kezdd az esős bringázást a Praia de Brensnél, jól látható vízálló ruhában. Délben óvatosan tekerj a Caudeliño és Illote felé, mert a nedves parti utakon csúsznak a gumik. Délután az O Castelo mellett elhaladva dacolj a tengeri permettel a Praia dos Muíñosnál. Zárd az utat a Praia da Cova-nál, töröld át a bringát és keress száraz menedéket.",
+            "ro": "Începeți plimbarea ploioasă la Praia de Brens cu haine impermeabile vizibile. La prânz, pedalați prudent spre Caudeliño și Illote, deoarece drumurile ude sunt alunecoase. După-amiaza, treceți de O Castelo spre Praia dos Muíños prin stropii de mare. Încheiați la Praia da Cova, ștergând bicicleta și căutând un refugiu uscat.",
+            "en": "Kick off your rainy ride at Praia de Brens, wearing high-vis waterproofs. At midday, cycle cautiously towards Caudeliño and Illote, as wet coastal roads reduce tire grip. The afternoon takes you past O Castelo to Praia dos Muíños, braving the sea spray. Finish at Praia da Cova, wiping down your bike and seeking a warm, dry refuge for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Brens",
+                "hu": "Praia de Brens",
+                "ro": "Praia de Brens",
+                "en": "Praia de Brens"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie hier Ihre Bremsen bei nebligem Meerblick und bereiten Sie sich auf die nasse Fahrt vor.",
+                "hu": "Ellenőrizd a fékeket és a felszerelést a ködös óceáni kilátás mellett, felkészülve a kihívást jelentő nedves útra.",
+                "ro": "Verificați-vă frânele aici, bucurându-vă de priveliștea cețoasă a oceanului, pregătindu-vă pentru un drum ud.",
+                "en": "Check your brakes and gear here while enjoying the misty ocean view, preparing for a challenging but scenic wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Caudeliño",
+                "hu": "Praia do Caudeliño",
+                "ro": "Praia do Caudeliño",
+                "en": "Praia do Caudeliño"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie an, um den Regen auf dem Wasser zu beobachten, aber achten Sie auf schlammige Stellen auf dem Radweg.",
+                "hu": "Állj meg és figyeld, ahogy az eső veri a vizet, de ügyelj a sárfoltokra a kerékpárút mentén.",
+                "ro": "Pauză pentru a vedea ploaia lovind apa, dar fiți atenți la porțiunile noroioase de pe pista de biciclete.",
+                "en": "Pause to appreciate the rain hitting the water surface, but be mindful of muddy patches along the bicycle trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Illote",
+                "hu": "Praia do Illote",
+                "ro": "Praia do Illote",
+                "en": "Praia do Illote"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die stürmischen Wellen in der Bucht; halten Sie den Regenschutz fest über Ihrem Rucksack.",
+                "hu": "Nézd a drámai, viharos hullámokat a kis öbölben; tartsd szorosan a hátizsákodon az esővédő huzatot.",
+                "ro": "Priviți valurile dramatice rostogolindu-se în golfuleț; țineți husa de ploaie bine fixată pe rucsac.",
+                "en": "Look at the dramatic, stormy waves rolling into the small cove; keep your rain cover securely fastened over your backpack."
+              }
+            },
+            {
+              "name": {
+                "de": "O Castelo",
+                "hu": "O Castelo",
+                "ro": "O Castelo",
+                "en": "O Castelo"
+              },
+              "tip_5lang": {
+                "de": "Lehnen Sie das Fahrrad an die Steinmauern, um sich zu dehnen, und nutzen Sie die Ruinen als Windschutz.",
+                "hu": "Támaszd a bringát az ősi kőfalaknak egy gyors nyújtáshoz, a történelmi romokat szélvédőként használva az esőben.",
+                "ro": "Sprijiniți bicicleta de zidurile vechi pentru o scurtă întindere, folosind ruinele ca paravânt împotriva ploii.",
+                "en": "Park your bike against the ancient stone walls to stretch briefly, using the historic ruins as a windbreak from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Muíños",
+                "hu": "Praia dos Muíños",
+                "ro": "Praia dos Muíños",
+                "en": "Praia dos Muíños"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie der Fluss stürmisch ins Meer mündet; senken Sie den Reifendruck leicht für besseren Halt.",
+                "hu": "Nézd meg, ahogy a folyó viharos esővízzel ömlik a tengerbe; engedj picit a guminyomásból a jobb tapadásért.",
+                "ro": "Vedeți cum râul se varsă vijelios în mare; reduceți ușor presiunea în anvelope pentru aderență îmbunătățită.",
+                "en": "See the river meet the sea in a turbulent rush of rainwater; lower your tire pressure slightly for better grip on wet terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cova",
+                "hu": "Praia da Cova",
+                "ro": "Praia da Cova",
+                "en": "Praia da Cova"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Radtour an diesem Strand und gehen Sie schnell nach drinnen, um Ihre Kleidung zu trocknen.",
+                "hu": "Zárd a nedves bringatúrát ezen a gyönyörű strandon, majd siess befelé megszárítani a vizes ruhákat és a felszerelést.",
+                "ro": "Încheiați traseul ploios la această plajă frumoasă, mergând rapid înăuntru pentru a usca hainele și echipamentul.",
+                "en": "Conclude your wet cycling journey at this beautiful beach, quickly heading indoors to dry out your damp clothes and gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre Winterradtour beginnt an der Praia de Brens in der frostigen Morgenluft. Mittags treten Sie dynamisch an Caudeliño und Illote vorbei, um sich im kalten Wind warm zu halten. Nachmittags trifft flaches Sonnenlicht auf O Castelo und Praia dos Muíños. Erreichen Sie Praia da Cova vor 17:00 Uhr mit eingeschaltetem Licht, wenn es dunkel wird.",
+            "hu": "A téli bringázás a Praia de Brensnél indul a fagyos reggeli levegőben. Délben tekerj dinamikusan a Caudeliño és Illote felé, fenntartva a testhőt a hideg szélben. A délutáni út során csodáld meg a lapos szögben sütő napot az O Castelo és a Praia dos Muíños felett. Érj a Praia da Cova-hoz 17:00 előtt, felkapcsolt lámpákkal a gyorsan sötétedő estébe lépve.",
+            "ro": "Ciclismul de iarnă începe la Praia de Brens în aerul matinal geros. La prânz, pedalați dinamic pe lângă Caudeliño și Illote, păstrându-vă căldura în vântul rece. Plimbarea de după-amiază are lumina soarelui la unghi mic peste O Castelo și Praia dos Muíños. Ajungeți la Praia da Cova înainte de 17:00, cu farurile aprinse în seara întunecată.",
+            "en": "Your winter cycling begins at Praia de Brens in the frosty morning air. By noon, pedal dynamically past Caudeliño and Illote, keeping your body heat up in the chilly wind. The afternoon ride features stunning low-angle sunlight hitting O Castelo and Praia dos Muíños. Arrive at Praia da Cova before 17:00, ensuring your bike lights are on as the cold, dark evening quickly sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Brens",
+                "hu": "Praia de Brens",
+                "ro": "Praia de Brens",
+                "en": "Praia de Brens"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die eisige Meeresbrise ein und prüfen Sie die Fahrradlichter; Thermohandschuhe sind ein Muss.",
+                "hu": "Szívd be a fagyos tengeri szellőt és ellenőrizd a bringalámpákat indulás előtt; a termo kesztyű kötelező darab.",
+                "ro": "Respirați briza mării înghețate și verificați luminile bicicletei; mănușile termice sunt absolut obligatorii.",
+                "en": "Breathe in the freezing sea breeze and double-check your bike lights before setting off; thermal gloves are an absolute must."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Caudeliño",
+                "hu": "Praia do Caudeliño",
+                "ro": "Praia do Caudeliño",
+                "en": "Praia do Caudeliño"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des leeren Strandes und halten Sie eine gleichmäßige Trittfrequenz, um warm zu bleiben.",
+                "hu": "Élvezd az üres téli strand csípős csendjét, tartva az egyenletes tekerési tempót, hogy az izmaid melegek maradjanak.",
+                "ro": "Bucurați-vă de tăcerea plajei goale de iarnă, menținând o cadență constantă pentru a vă încălzi rapid mușchii.",
+                "en": "Enjoy the crisp silence of the empty winter beach, maintaining a steady pedaling cadence to keep your muscles warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Illote",
+                "hu": "Praia do Illote",
+                "ro": "Praia do Illote",
+                "en": "Praia do Illote"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die wilden Winterwellen vom Sattel aus und ziehen Sie Ihr Tuch gegen den kalten Küstenwind hoch.",
+                "hu": "Csodáld meg a nyeregből a vad téli hullámokat, és húzd fel a csősálat az arcodra a csípős parti szél ellen.",
+                "ro": "Minunați-vă de valurile de iarnă feroce din șa, trăgându-vă fularul peste față împotriva brizei tăioase de coastă.",
+                "en": "Marvel at the fierce winter waves from your saddle, pulling your buff up over your face against the biting coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "O Castelo",
+                "hu": "O Castelo",
+                "ro": "O Castelo",
+                "en": "O Castelo"
+              },
+              "tip_5lang": {
+                "de": "Ruhen Sie sich kurz bei den im Winterlicht badenden Burgruinen aus und trinken Sie einen Schluck heißen Kaffee.",
+                "hu": "Pihenj meg egy picit az aranyló téli fényben fürdő várromoknál, és kortyolj egyet a termoszodban lévő forró kávéból.",
+                "ro": "Odihniți-vă scurt lângă ruinele castelului scufundate în lumina aurie de iarnă, luând o înghițitură de cafea fierbinte.",
+                "en": "Rest briefly by the castle ruins bathed in golden winter light, taking a sip from your thermos of hot coffee."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Muíños",
+                "hu": "Praia dos Muíños",
+                "ro": "Praia dos Muíños",
+                "en": "Praia dos Muíños"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Fluss nach den Winterregen; achten Sie auf eisige Stellen auf den feuchten Radwegen.",
+                "hu": "Nézd az erősen rohanó folyót a téli esők után; légy óvatos a nedves kerékpárutakon kialakuló jeges foltok miatt.",
+                "ro": "Vedeți râul curgând puternic după ploile de iarnă; fiți atenți la peticele de gheață care se formează pe pistele ude.",
+                "en": "Watch the river flowing strongly after winter rains; be cautious of icy patches forming on the damp cycle paths here."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cova",
+                "hu": "Praia da Cova",
+                "ro": "Praia da Cova",
+                "en": "Praia da Cova"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt beim frühen Sonnenuntergang und ziehen Sie schnell eine winddichte Jacke für den Heimweg an.",
+                "hu": "Fejezd be a tekerést a korán lebukó napnál, és gyorsan vegyél fel egy extra szélálló kabátot a sötét hazaútra.",
+                "ro": "Încheiați traseul când soarele apune devreme, punându-vă rapid o geacă rezistentă la vânt pentru drumul întunecat.",
+                "en": "End the ride as the sun dips below the horizon early, quickly putting on an extra windproof jacket for the dark journey home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a reggeli nyugalmat a tágas Praia de Restrelo-n, mielőtt az eldugott, sziklákkal körülölelt Praia da Cova-hoz hajtana. A délidő frissítő pihenőre csábít a Praia dos Muíños-on és hatalmas parti kilátásra az O Castelo-ról. Töltse a délutánt az A Coviña felfedezésével, majd zárja a napot a Praia de Brens strandon.",
         "ro": "Începeți cu liniștea matinală la întinsa Praia de Restrelo înainte de a conduce spre Praia da Cova, izolată de stânci. Prânzul invită la o pauză răcoritoare la Praia dos Muíños și la vederi costiere ample de la O Castelo. Petreceți după-amiaza explorând A Coviña, apoi încheiați ziua la Praia de Brens.",
         "en": "Start with morning tranquility at the expansive Praia de Restrelo before driving to the secluded, cliff-hugged Praia da Cova. Midday invites a refreshing break at Praia dos Muíños and sweeping coastal views from O Castelo. Spend your afternoon exploring the sheltered depths of A Coviña, then wrap up your day at Praia de Brens."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Regenfahrt beginnt an der Praia de Restrelo; bleiben Sie warm im Auto. Gegen Mittag fahren Sie vorsichtig zur Praia da Cova und Praia dos Muíños, der Scheibenwischer auf Hochtouren. Nachmittagsschauer machen O Castelo dramatisch; steigen Sie kurz mit Regenschirm aus. Enden Sie an der Praia de Brens und lauschen Sie dem Regen auf dem Autodach.",
+            "hu": "Kényelmes esős autózás indul a Praia de Restrelótól; maradj a meleg autóban és nézd a viharos tengert. Délben vezess óvatosan a Cova és Muíños strandokhoz, erős ablaktörlő-használattal. A délutáni záporok drámaivá teszik az O Castelo-t; csak egy esernyővel ugorj ki rövid időre. Zárd a napot a Praia de Brensnél, hallgatva az autó tetején doboló esőt.",
+            "ro": "O plimbare auto ploioasă și confortabilă începe la Praia de Restrelo; stați la căldură în mașină. La prânz, conduceți prudent spre Cova și Muíños, folosind intens ștergătoarele. Ploile de după-amiază fac O Castelo și A Coviña dramatice; ieșiți scurt cu umbrela. Încheiați la Praia de Brens, ascultând ploaia bătând pe acoperișul mașinii seara.",
+            "en": "A cozy rainy drive starts at Praia de Restrelo; stay warm in the car watching the stormy sea. Around noon, drive safely to Praia da Cova and Praia dos Muíños, using your wipers heavily. Afternoon showers make O Castelo and A Coviña dramatic; hop out briefly with an umbrella. End at Praia de Brens, listening to the rain drumming on your car roof as evening falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Restrelo",
+                "hu": "Praia de Restrelo",
+                "ro": "Praia de Restrelo",
+                "en": "Praia de Restrelo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stürmischen Wellen sicher vom geparkten Fahrzeug aus, Heizung an und Fenster beschlagfrei.",
+                "hu": "Csodáld meg a viharos hullámokat biztonságosan a parkoló autóból, fűtést bekapcsolva, páramentesített ablakokkal.",
+                "ro": "Admirați valurile furtunoase în siguranță din vehiculul parcat, menținând încălzirea pornită și geamurile dezaburite.",
+                "en": "Admire the tempestuous waves safely from your parked vehicle, keeping the heater on and windows defogged."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cova",
+                "hu": "Praia da Cova",
+                "ro": "Praia da Cova",
+                "en": "Praia da Cova"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den dramatischen Regenguss über dem Sand; öffnen Sie das Fenster leicht, um den Ozean zu hören.",
+                "hu": "Légy tanúja a homok feletti drámai parti zápornak; nyisd le kicsit az ablakot, hogy halld az esős óceán zúgását.",
+                "ro": "Asistați la ploaia torențială de coastă peste nisip; deschideți puțin geamul pentru a auzi oceanul ploios.",
+                "en": "Witness the dramatic coastal downpour over the sand; open your window slightly to hear the roaring, rainy ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Muíños",
+                "hu": "Praia dos Muíños",
+                "ro": "Praia dos Muíños",
+                "en": "Praia dos Muíños"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie, wie der Fluss stürmisch ins Meer mündet, und parken Sie sicher abseits der schlammigen Ufer.",
+                "hu": "Nézd a megáradt folyó és a tenger agresszív találkozását, ügyelve arra, hogy a saras partoktól távol parkolj.",
+                "ro": "Vedeți râul umflat întâlnind agresiv marea, asigurându-vă că mașina este parcată departe de malurile noroioase.",
+                "en": "See the swollen river aggressively meeting the sea, making sure your car is parked safely away from muddy riverbanks."
+              }
+            },
+            {
+              "name": {
+                "de": "O Castelo",
+                "hu": "O Castelo",
+                "ro": "O Castelo",
+                "en": "O Castelo"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie mit einem Regenschirm hinaus, um die regengewaschenen Ruinen zu sehen, und kehren Sie schnell ins warme Auto zurück.",
+                "hu": "Fuss ki egy erős esernyővel megnézni az eső áztatta kőromokat, majd térj vissza gyorsan a meleg autókabinba.",
+                "ro": "Ieșiți cu o umbrelă robustă pentru a vedea ruinele spălate de ploaie, apoi întoarceți-vă rapid în mașina caldă.",
+                "en": "Dash out with a sturdy umbrella to view the rain-washed stone ruins, then quickly return to your warm car cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "A Coviña",
+                "hu": "A Coviña",
+                "ro": "A Coviña",
+                "en": "A Coviña"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Küstenwasser vom Fahrersitz aus und meiden Sie die rutschigen Fußwege draußen.",
+                "hu": "Figyeld a melankolikus, szürke parti vizeket a vezetőülésből, elkerülve a kinti csúszós gyalogos ösvényeket.",
+                "ro": "Priviți apele cenușii melancolice de pe scaunul șoferului, evitând potecile pietonale alunecoase de afară.",
+                "en": "Watch the melancholic, grey coastal waters from the driver's seat, avoiding the slippery pedestrian pathways outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Brens",
+                "hu": "Praia de Brens",
+                "ro": "Praia de Brens",
+                "en": "Praia de Brens"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Roadtrip und beobachten Sie den Regen am Ufer; schalten Sie die Scheinwerfer für die Heimfahrt ein.",
+                "hu": "Zárd az autós túrát az eső borította partvonal nézésével; kapcsold fel a fényszórókat a sötét, nedves hazaúthoz.",
+                "ro": "Încheiați excursia privind ploaia care acoperă țărmul; aprindeți farurile pentru drumul întunecat și ud spre casă.",
+                "en": "Conclude the road trip watching the rainfall blanket the shoreline; make sure your headlights are on for the dark, wet drive home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterfahrt an der Praia de Restrelo und genießen Sie die gefrorene Landschaft mit Sitzheizung. Mittags erreichen Sie Praia da Cova und Praia dos Muíños, wo die tiefe Wintersonne blendet. Nachmittags besuchen Sie O Castelo und A Coviña an der frischen Luft. Beenden Sie die Tour an der Praia de Brens vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kezdd a téli vezetést a Praia de Restrelónál, élvezve a deres tájat a fűthető ülések kényelméből. Délben a Cova és Muíños strandoknál a laposan sütő téli nap vakító tükröződéseket vet a vízre. Délután látogasd meg a O Castelo-t és a A Coviña-t a csípős levegőn. Zárd a túrát a Praia de Brensnél a korai 17:00-es naplemente előtt, mielőtt a part fagyos sötétségbe borul.",
+            "ro": "Începeți traseul de iarnă la Praia de Restrelo, bucurându-vă de peisajele înghețate de pe scaunele încălzite. Prânzul aduce Praia da Cova și Praia dos Muíños, unde soarele de iarnă creează reflexii orbitoare pe apă. După-amiaza, vizitați O Castelo și A Coviña în aerul rece. Încheiați la Praia de Brens înainte ca apusul de la 17:00 să scufunde coasta în întuneric.",
+            "en": "Start your winter drive at Praia de Restrelo, enjoying the frosted landscapes from the comfort of heated seats. Midday brings you to Praia da Cova and Praia dos Muíños, where the low winter sun creates dazzling reflections on the water. In the afternoon, visit O Castelo and A Coviña in the crisp air. Finish the tour at Praia de Brens before the early 17:00 sunset plunges the coast into icy darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Restrelo",
+                "hu": "Praia de Restrelo",
+                "ro": "Praia de Restrelo",
+                "en": "Praia de Restrelo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die eisige Küste aus dem warmen Fahrzeug; packen Sie einen Eiskratzer für gefrierenden Nebel ein.",
+                "hu": "Csodáld a jeges partot a meleg járműből; tarts jégkaparót a csomagtartóban a fagyos parti köd esetére.",
+                "ro": "Admirați țărmul de gheață din vehiculul cald; păstrați o racletă în portbagaj în caz de ceață de coastă înghețată.",
+                "en": "Admire the icy shoreline from your warm vehicle; pack an ice scraper in the trunk just in case of freezing coastal fog."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cova",
+                "hu": "Praia da Cova",
+                "ro": "Praia da Cova",
+                "en": "Praia da Cova"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz hinaus, um die scharfe Winterluft zu atmen, und kehren Sie dann schnell zur Autoheizung zurück.",
+                "hu": "Lépj ki egy pillanatra, szívd be a csípős téli levegőt, fotózd le az üres homokot, majd siess vissza az autófűtéshez.",
+                "ro": "Ieșiți scurt pentru a respira aerul tăios de iarnă și fotografiați nisipul gol, apoi întoarceți-vă rapid la încălzirea mașinii.",
+                "en": "Step out briefly to breathe the sharp winter air and photograph the empty sands before quickly retreating to the car heater."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia dos Muíños",
+                "hu": "Praia dos Muíños",
+                "ro": "Praia dos Muíños",
+                "en": "Praia dos Muíños"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die frostigen Ufer; tragen Sie eine polarisierte Sonnenbrille gegen die blendende Wintersonne.",
+                "hu": "Nézd meg a deres folyópartot, ahol az édesvíz a jeges tengerbe ömlik; viselj polarizált napszemüveget a durva téli csillogás ellen.",
+                "ro": "Priviți malurile înghețate unde apa dulce întâlnește marea; purtați ochelari polarizați împotriva strălucirii aspre de iarnă.",
+                "en": "Watch the frosty riverbanks where the freshwater meets the icy sea; wear polarized sunglasses against the harsh winter glare."
+              }
+            },
+            {
+              "name": {
+                "de": "O Castelo",
+                "hu": "O Castelo",
+                "ro": "O Castelo",
+                "en": "O Castelo"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die stillen, frostbedeckten Burgruinen in einem dicken Wintermantel, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "Fedezd fel az erőd csendes, fagyos romjait vastag télikabátban, mielőtt visszaugranál a meleg járművedbe.",
+                "ro": "Explorați ruinele tăcute și înghețate ale fortăreței într-o haină groasă, înainte de a vă urca din nou în vehiculul cald.",
+                "en": "Explore the silent, frost-covered ruins of the fortress, wearing a thick winter coat before hopping back into your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "A Coviña",
+                "hu": "A Coviña",
+                "ro": "A Coviña",
+                "en": "A Coviña"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die Einsamkeit dieses versteckten Ortes im Winter und genießen Sie ein Heißgetränk aus Ihrem Thermobecher im Auto.",
+                "hu": "Csodáld meg a rejtett parti helyszín mély téli magányát, és igyál egy forró italt az autós termoszodból.",
+                "ro": "Minunați-vă de solitudinea profundă a acestui loc de coastă ascuns iarna, savurând o băutură caldă din termos în mașină.",
+                "en": "Marvel at the profound solitude of this hidden coastal spot in winter, enjoying a hot drink from your travel mug inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Brens",
+                "hu": "Praia de Brens",
+                "ro": "Praia de Brens",
+                "en": "Praia de Brens"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen pastellfarbenen Sonnenuntergang über dem dunklen Ozean; schalten Sie das Licht ein, wenn die Nacht naht.",
+                "hu": "Csípd el a látványos, korai pasztell naplementét a sötét óceán felett, és kapcsold fel a lámpákat a gyorsan közeledő fagyos éjszakában.",
+                "ro": "Prindeți spectaculosul apus pastelat devreme peste oceanul întunecat, aprinzând farurile pe măsură ce noaptea înghețată se apropie.",
+                "en": "Catch the spectacular, early pastel sunset over the dark ocean, turning on your headlights as the freezing night quickly approaches."
+              }
+            }
+          ]
+        }
       }
     }
   }

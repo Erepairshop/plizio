@@ -137,6 +137,168 @@
         "hu": "Kezdd a reggelt Valle de Bravo kulturális szívében, elmerülve Joaquín Arcadio Pagaza életében. A dél felé közeledve fedezd fel a helyi közösségi tereket és az egyedülálló őslakos örökséget. Délután élvezd a rövid sétát a festői El Faro nevezetességhez. Az estét a lenyűgöző ősi prehispán leletek megtekintésével zárd, mielőtt vacsorázni indulnál.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Valle de Bravo, aprofundând viața lui Joaquín Arcadio Pagaza. La amiază vizitați spațiile comunității locale și colecțiile unice de patrimoniu indigen. După-amiaza, faceți o scurtă plimbare până la reperul pitoresc El Faro. Seara se încheie cu fascinante artefacte antice pre-hispanice înainte de cină.",
         "en": "Start your morning exploring the cultural heart of Valle de Bravo by diving into the life of Joaquín Arcadio Pagaza. Midday takes you deeper into local community spaces and unique indigenous heritage collections. In the afternoon, enjoy a short stroll to the scenic El Faro landmark. The evening concludes with fascinating ancient pre-Hispanic artifacts before dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Valle de Bravo beginnt idealerweise in Innenräumen. Mittags kann es Schauer geben, halten Sie also Regenschirme bereit. Am Nachmittag geht der Nieselregen rund um den Leuchtturm weiter, wo die Wege rutschig sind. Den Abend verbringt man am besten mit heißen Getränken im Trockenen, während der Regen die Straßen wäscht.",
+            "hu": "A reggeli eső Valle de Bravóban tökéletes a benti múzeumokhoz. Délben záporok jöhetnek, így tartsuk kéznél az esernyőt. Délután a világítótorony környékén szitálhat az eső, a lépcsők csúszósak. Az estét a legjobb egy meleg ital társaságában, fedett helyen tölteni, míg az eső elmossa az utcákat.",
+            "ro": "O dimineață ploioasă în Valle de Bravo începe perfect la muzee interioare. La prânz pot apărea averse, așa că țineți umbrelele la îndemână. După-amiaza, burnița continuă în jurul farului, unde treptele sunt alunecoase. Seara este cel mai bine petrecută la interior cu o băutură caldă, în timp ce ploaia spală străzile.",
+            "en": "Morning rain in Valle de Bravo means starting at indoor museums. Midday showers might hit as we head to cultural spots, so keep umbrellas handy. Afternoon drizzle continues around the lighthouse area, requiring careful steps. Evening is best spent enjoying local warm drinks indoors as the rain washes the cobbled streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Joaquin Arcadio Pagaza",
+                "hu": "Museo Joaquin Arcadio Pagaza",
+                "ro": "Museo Joaquin Arcadio Pagaza",
+                "en": "Museo Joaquin Arcadio Pagaza"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das Erbe des Dichters im Trockenen, während der Regen draußen prasselt.",
+                "hu": "Fedezze fel a költő örökségét a száraz beltérben, miközben kint esik az eső, ideális menedék.",
+                "ro": "Explorați moștenirea poetului la interior în timp ce plouă afară, un refugiu uscat perfect.",
+                "en": "Explore the poet's heritage indoors while listening to the rain; a perfect dry refuge."
+              }
+            },
+            {
+              "name": {
+                "de": "Club de Leones",
+                "hu": "Club de Leones",
+                "ro": "Club de Leones",
+                "en": "Club de Leones"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine kurze Kulturpause zum Trocknen; die überdachten Bereiche bieten Schutz.",
+                "hu": "Tartson egy rövid kulturális szünetet itt, hogy megszáradjon; a fedett részek védelmet nyújtanak.",
+                "ro": "Faceți o scurtă pauză culturală pentru a vă usca; zonele acoperite oferă un scurt răgaz.",
+                "en": "Take a quick cultural break here to dry off; the covered areas offer a brief respite from showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Venado Azul",
+                "hu": "Venado Azul",
+                "ro": "Venado Azul",
+                "en": "Venado Azul"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem Innenraum in die lokale indigene Kunst ein und bleiben Sie komplett trocken.",
+                "hu": "Merüljön el a helyi őslakos művészetben ezen a fedett helyen, teljesen védve a heves esőzéstől.",
+                "ro": "Admirați arta indigenă locală în acest spațiu interior, fiind complet protejați de ploaie.",
+                "en": "Dive into local indigenous art in this indoor space, keeping completely dry from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "El Faro",
+                "hu": "El Faro",
+                "ro": "El Faro",
+                "en": "El Faro"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Stufen zum Leuchtturm sind rutschig, treten Sie vorsichtig auf und halten Sie sich fest.",
+                "hu": "A világítótoronyhoz vezető nedves lépcsők nagyon csúszósak lehetnek, lépjen óvatosan és kapaszkodjon.",
+                "ro": "Treptele ude spre far pot fi foarte alunecoase, pășiți cu grijă și țineți-vă de balustradă.",
+                "en": "The wet steps up to the lighthouse can be very slippery, so step carefully and hold the handrails."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología",
+                "hu": "Museo de Arqueología",
+                "ro": "Museo de Arqueología",
+                "en": "Museo de Arqueología"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Nachmittag drinnen mit antiken Artefakten; ideal bei stürmischem Wetter.",
+                "hu": "Zárja a délutánt az ősi leletek benti felfedezésével; a meleg, száraz múzeum tökéletes viharos időben.",
+                "ro": "Încheiați după-amiaza explorând artefacte antice la interior, perfect pentru vremea furtunoasă.",
+                "en": "End the afternoon exploring ancient artifacts inside; the warm, dry museum is perfect for stormy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühle Wintermorgen erfordern warme Kleidung beim Gehen. Mittags gibt es klaren, sonnigen Himmel, aber im Schatten bleibt es kalt. Der Nachmittag kühlt schnell ab, also bleiben Sie in Bewegung. Da es bereits gegen 17:00 Uhr dunkel wird, wirken die beleuchteten Museen am frühen Abend besonders einladend und warm.",
+            "hu": "A csípős téli reggeleken meleg rétegekre van szükség a sétához. A délidő tiszta, napos eget hoz, de az árnyékban megmarad a hideg. A délután gyorsan lehűl, ezért érdemes folyamatosan mozgásban lenni. Az este korán, 17:00 körül köszönt be, a múzeumok meleg fényei hívogatóak a sötétben.",
+            "ro": "Diminețile de iarnă necesită haine groase pentru plimbare. Prânzul aduce cer senin și însorit, dar la umbră rămâne frig. După-amiaza se răcește rapid, așa că e bine să fiți mereu în mișcare. Seara cade devreme, în jur de 17:00, făcând muzeele luminate să pară extrem de calde și primitoare.",
+            "en": "Crisp winter mornings in Valle de Bravo require warm layers as you walk. Midday offers clear, sunny skies but a lingering chill in the shade. Afternoon cools down quickly, so keep moving between the sights. Evening falls early around 17:00, making the museum lights warm and inviting against the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Joaquin Arcadio Pagaza",
+                "hu": "Museo Joaquin Arcadio Pagaza",
+                "ro": "Museo Joaquin Arcadio Pagaza",
+                "en": "Museo Joaquin Arcadio Pagaza"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den kühlen Morgen im Haus des Dichters, wo dicke Wände die Kälte abhalten.",
+                "hu": "Kezdje a hűvös reggelt a költő egykori otthonában, ahol a vastag falak kint tartják a hideget.",
+                "ro": "Începeți dimineața la fosta casă a poetului, unde pereții groși țin frigul la distanță.",
+                "en": "Start your chilly morning admiring the poet's former home, where the thick walls keep the cold out."
+              }
+            },
+            {
+              "name": {
+                "de": "Club de Leones",
+                "hu": "Club de Leones",
+                "ro": "Club de Leones",
+                "en": "Club de Leones"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Kulturzentrum; holen Sie sich ein heißes Getränk zum Aufwärmen der Hände.",
+                "hu": "Élvezze a rövid megállót a kulturális központban; vegyen egy forró italt, hogy felmelegítse a kezét.",
+                "ro": "O scurtă oprire la centrul cultural; luați o băutură caldă din apropiere pentru a vă încălzi.",
+                "en": "Enjoy a quick stop at this cultural hub; grab a hot drink nearby to warm your hands while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Venado Azul",
+                "hu": "Venado Azul",
+                "ro": "Venado Azul",
+                "en": "Venado Azul"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie drinnen Huichol-Kunst, perfekt, um dem kalten Winterwind zu entfliehen.",
+                "hu": "Töltsön időt bent a gyönyörű huichol művészet felfedezésével, ami tökéletes menedék a téli szél elől.",
+                "ro": "Petreceți timpul la interior explorând arta Huichol, o scăpare perfectă de vântul de iarnă.",
+                "en": "Spend time indoors exploring beautiful Huichol art, a perfect way to escape the brisk winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "El Faro",
+                "hu": "El Faro",
+                "ro": "El Faro",
+                "en": "El Faro"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie hinauf für einen klaren Winterblick; die kalte Luft macht die Sicht extrem scharf.",
+                "hu": "Másszon fel a tó téli panorámájáért; a tiszta, hűvös levegő hihetetlenül élessé teszi a látványt.",
+                "ro": "Urcați pentru o vedere clară de iarnă; aerul rece face peisajul lacului incredibil de ascuțit.",
+                "en": "Climb up for a clear winter view of the lake; the crisp air makes the scenery incredibly sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología",
+                "hu": "Museo de Arqueología",
+                "ro": "Museo de Arqueología",
+                "en": "Museo de Arqueología"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, bietet das warme Museum einen gemütlichen Abschluss des Spaziergangs.",
+                "hu": "Ahogy korán sötétedik, a meleg fényű múzeum hangulatos lezárása a téli történelmi sétának.",
+                "ro": "Deoarece se întunecă devreme, muzeul încălzit oferă un final confortabil plimbării.",
+                "en": "As darkness falls early, the warmly lit museum offers a cozy end to your historical winter walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdd a reggelt egy frissítő bringázással a történelmi San Francisco negyedhez és a nyüzsgő Sal'on Los Girasoles-hoz. Ahogy közeledik a dél, tekerj vissza a központba, hogy betekintést nyerj a régió művészeti és ősi gyökereibe a múzeumokban. A délután a régészeti csodáké. Zárd a napot úgy, hogy megnézed a naplementében szárnyaló siklóernyősöket.",
         "ro": "Începeți dimineața cu o plimbare revigorantă către zona istorică San Francisco și animatul Sal'on Los Girasoles. Spre prânz, întoarceți-vă în centrul orașului pentru vizite la muzee care detaliază rădăcinile regiunii. După-amiaza este rezervată descoperirii minunilor arheologice profunde. Încheiați-vă ziua privind parapantiștii planând la apus.",
         "en": "Kick off the morning with a refreshing ride to the historic San Francisco area and the lively Sal'on Los Girasoles. As midday approaches, cycle back into the core town for insightful museum visits detailing the region's artistic and ancestral roots. The afternoon is reserved for uncovering deep archaeological wonders. Finish your day watching paragliders soar at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regenausrüstung ist für die morgendliche Fahrt auf nassen Straßen unerlässlich. Mittags sollten Sie in überdachten Kulturstätten pausieren. Das nachmittägliche Radfahren erfordert auf dem rutschigen Kopfsteinpflaster Vorsicht. Stellen Sie abends das Fahrrad sicher ab, wenn der Regen zunimmt und die Sicht sinkt.",
+            "hu": "Az esőruha elengedhetetlen a reggeli tekeréshez a nedves utcákon. Délben érdemes fedett kulturális helyeken pihenni. A délutáni biciklizés óvatosságot igényel a csúszós macskaköveken. Estére biztonságosan parkolja le a kerékpárt, ahogy az eső erősödik és a látási viszonyok romlanak.",
+            "ro": "Echipamentul de ploaie este esențial pentru pedalarea matinală pe străzile ude. La prânz, luați pauze în spații culturale acoperite. Ciclismul de după-amiază necesită prudență pe pietrele cubice alunecoase. Seara, parcați bicicleta în siguranță pe măsură ce ploaia se întețește și vizibilitatea scade.",
+            "en": "Rain gear is essential for this morning ride through Valle de Bravo's wet streets. Midday showers mean you should take breaks at indoor cultural spots. Afternoon cycling requires caution on slippery cobblestones toward the lake. By evening, safely park your bike as the rain intensifies and visibility drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Francisco",
+                "hu": "San Francisco",
+                "ro": "San Francisco",
+                "en": "San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kirche von außen und nutzen Sie den Vorbau, um Ihre Radkleidung zu trocknen.",
+                "hu": "Csodálja meg a templomot kívülről, majd húzódjon be a tornácra megszárítani a biciklis felszerelést.",
+                "ro": "Admirați biserica pe scurt, apoi adăpostiți-vă în pridvor pentru a vă usca hainele.",
+                "en": "Admire the church from the outside briefly, then step into the porch to dry your cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Sal'on Los Girasoles",
+                "hu": "Sal'on Los Girasoles",
+                "ro": "Sal'on Los Girasoles",
+                "en": "Sal'on Los Girasoles"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie hier eine Pause vom Regen; die Kultur drinnen ist besser als der nasse Sattel.",
+                "hu": "Tartson itt egy kis szünetet az eső elől; a benti kulturális hangulat sokkal jobb, mint a nedves nyereg.",
+                "ro": "Luați o pauză de la ploaie aici; atmosfera culturală interioară e mai bună decât șaua udă.",
+                "en": "Take a break from the rain here; the cultural vibe indoors is much better than the wet saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Joaquin Arcadio Pagaza",
+                "hu": "Museo Joaquin Arcadio Pagaza",
+                "ro": "Museo Joaquin Arcadio Pagaza",
+                "en": "Museo Joaquin Arcadio Pagaza"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und erkunden Sie dieses trockene Haus, während Sie den Schauer abwarten.",
+                "hu": "Parkolja le a biciklit, és fedezze fel ezt a száraz történelmi otthont, míg eláll a heves eső.",
+                "ro": "Parcați bicicleta și explorați această casă uscată în timp ce așteptați să treacă ploaia.",
+                "en": "Park your bike and explore this dry, historic home while waiting out the heaviest midday downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Venado Azul",
+                "hu": "Venado Azul",
+                "ro": "Venado Azul",
+                "en": "Venado Azul"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Stopp im Trockenen, um sich aufzuwärmen und indigene Kunst zu bewundern.",
+                "hu": "Újabb nagyszerű beltéri megálló felmelegedni és szárazon maradni a lenyűgöző őslakos kézművesség mellett.",
+                "ro": "O oprire excelentă la interior pentru a vă încălzi și a admira meșteșugurile indigene.",
+                "en": "Another great indoor stop to warm up and keep dry while appreciating the stunning indigenous crafts."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología",
+                "hu": "Museo de Arqueología",
+                "ro": "Museo de Arqueología",
+                "en": "Museo de Arqueología"
+              },
+              "tip_5lang": {
+                "de": "Ein sicherer Hafen vor rutschigen Straßen; tauchen Sie in die Geschichte ein und trocknen Sie.",
+                "hu": "Biztonságos menedék a csúszós utcák elől; merüljön el a történelemben, amíg megszáradnak a ruhái.",
+                "ro": "Un refugiu sigur de pe străzile alunecoase; scufundați-vă în istorie în timp ce vă uscați.",
+                "en": "A safe haven from the slippery streets; immerse yourself in history while your wet clothes dry off."
+              }
+            },
+            {
+              "name": {
+                "de": "Despegue Parapentes",
+                "hu": "Despegue Parapentes",
+                "ro": "Despegue Parapentes",
+                "en": "Despegue Parapentes"
+              },
+              "tip_5lang": {
+                "de": "Der Weg nach oben ist im Regen rutschig; fahren Sie sehr vorsichtig oder schieben Sie das Rad.",
+                "hu": "A felfelé vezető út sáros és csúszós az esőben; tekerjen rendkívül óvatosan, vagy tolja a biciklit.",
+                "ro": "Calea de urcare este noroioasă și alunecoasă; pedalați cu mare grijă sau împingeți bicicleta.",
+                "en": "The path up is muddy and slippery in the rain; cycle extremely carefully or walk the bike sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die morgendliche Fahrt mit Handschuhen und winddichten Schichten gegen die Kälte. Mittags wärmt Sie das Treten in der hellen, aber kalten Sonne auf. Nachmittags ist die Seebrise eisig. Versuchen Sie bis 17:00 Uhr fertig zu sein, da die frühe Winterdunkelheit das Radfahren unsicher macht.",
+            "hu": "Kezdje a reggeli tekerést kesztyűben és szélálló rétegekben a hideg ellen. A déli pedálozás felmelegíti a fényes, de fagyos napfényben. Délután a tavi szellő csípős lehet. Próbáljon 17:00-ig végezni, mivel a korai téli sötétség bizonytalanná teszi a kerékpározást.",
+            "ro": "Începeți pedalarea cu mănuși și haine rezistente la vânt pentru a combate frigul. La prânz vă veți încălzi pedalând sub soarele rece. Briza lacului de după-amiază poate fi tăioasă. Încercați să terminați până la 17:00, deoarece întunericul timpuriu face ciclismul nesigur.",
+            "en": "Start your morning ride with gloves and windproof layers to fight the winter chill. Midday pedaling will warm you up under the bright but cold sun. Afternoon breezes by the lake can be biting, so keep a steady pace. Aim to finish by 17:00, as the early winter darkness makes cycling less safe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Francisco",
+                "hu": "San Francisco",
+                "ro": "San Francisco",
+                "en": "San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenfahrt ist frisch; die Steinmauern der Kirche sehen im tiefen Winterlicht toll aus.",
+                "hu": "A reggeli tekerés hűvös ide; a templom kőfalai gyönyörűek az alacsony téli napfényben.",
+                "ro": "Pedalarea matinală este răcoroasă; zidurile de piatră arată superb în lumina de iarnă.",
+                "en": "The morning ride here is crisp; the church's stone walls look beautiful in the low winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Sal'on Los Girasoles",
+                "hu": "Sal'on Los Girasoles",
+                "ro": "Sal'on Los Girasoles",
+                "en": "Sal'on Los Girasoles"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die Beine zu vertreten und die Hände vor dem kalten Sattel zu wärmen.",
+                "hu": "Gyors kulturális megálló, hogy kinyújtsa a lábát és felmelegítse a kezét a hideg nyereg előtt.",
+                "ro": "O oprire scurtă pentru a vă dezmorți picioarele și a încălzi mâinile înainte de a pedala iar.",
+                "en": "A quick cultural stop to stretch your legs and warm your hands before hopping back on the cold bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Joaquin Arcadio Pagaza",
+                "hu": "Museo Joaquin Arcadio Pagaza",
+                "ro": "Museo Joaquin Arcadio Pagaza",
+                "en": "Museo Joaquin Arcadio Pagaza"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das warme Haus des Dichters; die dicken Wände bieten Schutz vor dem kalten Wind.",
+                "hu": "Lépjen be a költő meleg otthonába felengedni; a vastag falak nagyszerű védelmet nyújtanak a széltől.",
+                "ro": "Pășiți în casa caldă a poetului; pereții groși oferă o pauză excelentă de la vântul rece.",
+                "en": "Step inside the poet's warm home to thaw out; the thick walls offer a great break from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Venado Azul",
+                "hu": "Venado Azul",
+                "ro": "Venado Azul",
+                "en": "Venado Azul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung drinnen bei lokaler Kunst und gönnen Sie Ihren Muskeln eine Pause.",
+                "hu": "Élvezze a benti fűtést a színes helyi művészet mellett, pihentetve izmait a hűvös tekerés után.",
+                "ro": "Bucurați-vă de căldura interioară și de arta locală, odihnindu-vă mușchii după frig.",
+                "en": "Enjoy the indoor heating while admiring colorful local art, giving your muscles a rest from the chilly ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología",
+                "hu": "Museo de Arqueología",
+                "ro": "Museo de Arqueología",
+                "en": "Museo de Arqueología"
+              },
+              "tip_5lang": {
+                "de": "Wenn der Nachmittag abkühlt, hält Sie diese Ausstellung warm und kulturell bereichert.",
+                "hu": "Ahogy hűl a délután, ez a benti kiállítás tökéletesen időzített, hogy melegen tartsa és kulturálisan gazdagítsa.",
+                "ro": "Când după-amiaza se răcește, această expoziție interioară vă va ține de cald.",
+                "en": "As the afternoon cools, this indoor exhibit is perfectly timed to keep you warm and culturally enriched."
+              }
+            },
+            {
+              "name": {
+                "de": "Despegue Parapentes",
+                "hu": "Despegue Parapentes",
+                "ro": "Despegue Parapentes",
+                "en": "Despegue Parapentes"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Gipfel vor 17:00 Uhr; der Winterwind ist eiskalt, tragen Sie eine dicke Jacke.",
+                "hu": "Érjen fel a 17:00-s naplemente előtt; a téli szél fagyos, így viselje a legvastagabb széldzsekijét.",
+                "ro": "Ajungeți sus înainte de apusul de la 17:00; vântul de iarnă e înghețat, purtați o geacă groasă.",
+                "en": "Reach the top before the 17:00 sunset; the winter wind is freezing, so wear your thickest windbreaker."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az utazás az északi történelmi negyedben kezdődik, ahol gyarmati báj és kulturális termek várnak. Délben a nyüzsgő központon keresztül haladva fedezd fel a gazdag helyi történelmet. Késő délután vezess fel a festői dombokra, hogy szemtanúja lehess a lenyűgöző siklóernyősöknek. Zárd a napot a természetben, egy zúgó helyi vízesésnél kikapcsolódva.",
         "ro": "Conducerea începe în cartierul istoric de nord, oferind acces rapid la farmecul colonial și la sălile culturale. La amiază, navigați prin centrul plin de viață pentru a explora bogata istorie regională. După-amiaza târziu, conduceți pe dealurile pitorești pentru a vedea spectaculoșii parapantiști. Încheiați călătoria scufundat în natură la o cascadă locală urlătoare.",
         "en": "Your drive begins in the northern historic district, offering quick access to colonial charm and cultural halls. By midday, navigate through the bustling center to explore rich regional history and impressive archaeological collections. In the late afternoon, drive up the scenic hills to witness spectacular paragliding action. End the journey immersed in nature at a roaring local waterfall."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrten sind mit der Heizung gemütlich, während der Regen auf die Scheibe prasselt. Mittags kann der Verkehr durch rutschige Straßen stocken. Nachmittagsschauer sind perfekt für Museumsbesuche. Abendfahrten erfordern bei schlechter Sicht im Regen zusätzliche Vorsicht.",
+            "hu": "A reggeli autózás kényelmes a bekapcsolt fűtéssel, nézve az esőt a szélvédőn. Délben a csúszós utak miatt lassulhat a forgalom, haladjon óvatosan. A délutáni záporok tökéletesek múzeumlátogatáshoz. Az esti vezetés extra óvatosságot igényel a csökkent látási viszonyok miatt.",
+            "ro": "Condusul de dimineață este confortabil cu căldura pornită, privind ploaia pe parbriz. La prânz traficul poate încetini din cauza drumurilor alunecoase. Aversele de după-amiază sunt perfecte pentru muzee. Condusul de seară necesită prudență extra din cauza vizibilității reduse.",
+            "en": "Morning drives through Valle de Bravo are cozy with the heater on, watching the rain hit the windshield. Midday traffic might slow down due to slick roads, so take your time between stops. Afternoon downpours are perfect for indoor museum visits. Evening drives require extra caution with reduced visibility in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Francisco",
+                "hu": "San Francisco",
+                "ro": "San Francisco",
+                "en": "San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um dem Regen zu entgehen; die Kirche ist ein trockenes Heiligtum.",
+                "hu": "Parkoljon közel a bejárathoz az eső elkerülése végett; a templom belseje békés, száraz menedék.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; biserica este un sanctuar uscat și pașnic.",
+                "en": "Park close to the entrance to avoid the rain; the church interior is a peaceful, dry sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Sal'on Los Girasoles",
+                "hu": "Sal'on Los Girasoles",
+                "ro": "Sal'on Los Girasoles",
+                "en": "Sal'on Los Girasoles"
+              },
+              "tip_5lang": {
+                "de": "Laufen Sie schnell vom Auto zu diesem überdachten Kulturort, um den Schauern zu entgehen.",
+                "hu": "Szaladjon be az autóból ebbe a kulturális térbe; nagyszerű fedett hely az átvonuló záporok elől.",
+                "ro": "Fugiți din mașină în acest spațiu cultural; o zonă acoperită excelentă pentru a evita ploaia.",
+                "en": "Dash from the car to this cultural spot; it's a great covered area to avoid the passing showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Joaquin Arcadio Pagaza",
+                "hu": "Museo Joaquin Arcadio Pagaza",
+                "ro": "Museo Joaquin Arcadio Pagaza",
+                "en": "Museo Joaquin Arcadio Pagaza"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Regenschirm für den kurzen Weg bereit; drinnen ist es ein trockener Rückzugsort.",
+                "hu": "Tartsa kéznél az esernyőt a rövid sétához; bent száraz és lenyűgöző menedék várja.",
+                "ro": "Țineți umbrela la îndemână pentru scurta plimbare; înăuntru e un refugiu uscat fascinant.",
+                "en": "Keep your umbrella handy for the short walk from the car; inside, it's a dry and fascinating retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología",
+                "hu": "Museo de Arqueología",
+                "ro": "Museo de Arqueología",
+                "en": "Museo de Arqueología"
+              },
+              "tip_5lang": {
+                "de": "Eine hervorragende Aktivität für einen regnerischen Nachmittag ohne nass zu werden.",
+                "hu": "Kiváló benti program egy esős délutánra; fedezze fel a helyi történelmet anélkül, hogy megázna.",
+                "ro": "O activitate interioară excelentă pentru o după-amiază ploioasă, pentru a nu vă uda.",
+                "en": "An excellent indoor activity for a rainy afternoon; explore ancient local history without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Despegue Parapentes",
+                "hu": "Despegue Parapentes",
+                "ro": "Despegue Parapentes",
+                "en": "Despegue Parapentes"
+              },
+              "tip_5lang": {
+                "de": "Die schlammige Zufahrt ist im Regen für Autos knifflig; fahren Sie langsam auf rutschigen Stellen.",
+                "hu": "A sáros bekötőút esőben trükkös lehet az autóknak; vezessen lassan és figyeljen a csúszós részekre.",
+                "ro": "Drumul noroios poate fi dificil pentru mașini pe ploaie; conduceți încet și cu grijă.",
+                "en": "The muddy access road can be tricky for cars in the rain; drive slowly and watch for slick spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascada el Molino",
+                "hu": "Cascada el Molino",
+                "ro": "Cascada el Molino",
+                "en": "Cascada el Molino"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserfall ist im Regen spektakulär, aber die Wege sind schlammig; tragen Sie Gummistiefel.",
+                "hu": "A vízesés látványos esőben, de a kilátópont ösvényei rendkívül sárosak; viseljen vízálló csizmát.",
+                "ro": "Cascada e spectaculoasă pe ploaie, dar potecile sunt foarte noroioase; purtați cizme impermeabile.",
+                "en": "The waterfall is spectacular in the rain, but the viewing paths are extremely muddy; wear waterproof boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Fahrt mit Autohöhlheizung ist ideal gegen die morgendliche Kälte. Mittags bietet der strahlende Himmel eine angenehme landschaftliche Fahrt. Nachmittags werden die Schatten lang und kühl. Da die Sonne schon um 17:00 Uhr untergeht, sollten Sie die Dämmerungsstraßen vorsichtig befahren.",
+            "hu": "A fűtött autó a legjobb módja a reggeli hideg legyőzésének. Délben a ragyogó égbolt lenyűgözővé teszi a két megálló közti festői utat. Délután az árnyékok megnyúlnak és lehűl a levegő. Mivel a nap 17:00-kor lenyugszik, vezessen óvatosan a kanyargós szürkületi utakon.",
+            "ro": "Condusul cu căldura pornită e perfect pentru a învinge frigul matinal. Prânzul oferă un cer senin, făcând traseul pitoresc foarte plăcut. Umbrele de după-amiază devin lungi și reci. Deoarece soarele apune la 17:00, navigați cu atenție pe drumurile șerpuite la crepuscul.",
+            "en": "A morning drive with the car heater on is the perfect way to beat the crisp winter temperatures. Midday offers bright, clear skies, making the scenic drives between spots highly enjoyable. Afternoon shadows grow long and chilly early on. By 17:00, the sun sets, so navigate the winding twilight roads carefully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Francisco",
+                "hu": "San Francisco",
+                "ro": "San Francisco",
+                "en": "San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Die Autohöhlheizung erleichtert den Start; treten Sie kurz in die Kälte, um die Kirche zu sehen.",
+                "hu": "Az autófűtés megkönnyíti a reggeli indulást; lépjen ki röviden a hűvös levegőre megnézni a templomot.",
+                "ro": "Căldura din mașină ușurează pornirea; ieșiți scurt în aerul rece pentru a vedea biserica.",
+                "en": "The car heater makes the morning start easy; step out briefly into the crisp air to see the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Sal'on Los Girasoles",
+                "hu": "Sal'on Los Girasoles",
+                "ro": "Sal'on Los Girasoles",
+                "en": "Sal'on Los Girasoles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den warmen Halt im Kulturzentrum; ein kurzer Weg vom Auto ohne viel Wärmeverlust.",
+                "hu": "Élvezze a meleg megállót ebben a központban; rövid séta az autótól, így nem fázik át.",
+                "ro": "Bucurați-vă de oprirea caldă la centrul cultural; o scurtă plimbare de la mașină fără a pierde căldura.",
+                "en": "Enjoy a warm stop at this cultural hub; it’s a quick walk from the car without losing too much heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Joaquin Arcadio Pagaza",
+                "hu": "Museo Joaquin Arcadio Pagaza",
+                "ro": "Museo Joaquin Arcadio Pagaza",
+                "en": "Museo Joaquin Arcadio Pagaza"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und betreten Sie das Museum mit dicken Wänden, um sich aufzuwärmen.",
+                "hu": "Parkoljon a közelben, és lépjen be a vastag falú múzeumba felmelegedni, miközben a híres költőről tanul.",
+                "ro": "Parcați aproape și intrați în muzeul cu pereți groși pentru a vă încălzi în timp ce vizitați.",
+                "en": "Park nearby and step into the thick-walled museum to warm up while learning about the famous poet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arqueología",
+                "hu": "Museo de Arqueología",
+                "ro": "Museo de Arqueología",
+                "en": "Museo de Arqueología"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den kühlen Nachmittag drinnen und erkunden Sie die Geschichte in warmer Umgebung.",
+                "hu": "Töltse a hűvös délutánt bent, az ókori történelem felfedezésével egy hangulatos, fűtött környezetben.",
+                "ro": "Petreceți după-amiaza răcoroasă explorând istoria la interior într-un mediu încălzit.",
+                "en": "Spend the chilly afternoon indoors exploring ancient history in a cozy, temperature-controlled environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Despegue Parapentes",
+                "hu": "Despegue Parapentes",
+                "ro": "Despegue Parapentes",
+                "en": "Despegue Parapentes"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt ist im Winter schön, aber der Wind oben eiskalt; bringen Sie einen dicken Mantel mit.",
+                "hu": "A felfelé vezető út gyönyörű télen, de a szél a tetőn fagyos; hozzon magával vastag kabátot.",
+                "ro": "Drumul în sus este frumos iarna, dar vântul e înghețat la vârf; aduceți o haină groasă.",
+                "en": "The drive up is beautiful in winter, but the wind at the top is freezing; bring your heavy coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascada el Molino",
+                "hu": "Cascada el Molino",
+                "ro": "Cascada el Molino",
+                "en": "Cascada el Molino"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie es vor Sonnenuntergang um 17:00 Uhr; der Wasserfallbereich wird abends extrem kalt.",
+                "hu": "Látogassa meg a korai 17:00-s naplemente előtt; az árnyékos vízesés környéke rendkívül lehűl estére.",
+                "ro": "Vizitați înainte de apusul de la 17:00; zona cascadei devine extrem de rece spre seară.",
+                "en": "Visit before the early 17:00 sunset; the shaded waterfall area gets extremely cold as evening approaches."
+              }
+            }
+          ]
+        }
       }
     }
   }

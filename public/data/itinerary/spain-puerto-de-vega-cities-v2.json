@@ -183,6 +183,224 @@
         "hu": "Reggel: Kezdje a város gyökereinek felfedezését a néprajzi múzeumban és a Casa de Méndez Vigóban.\nDélben: Sétáljon tovább a Kaszinószínház és a Casa Ochoa felé, élvezve az utcák történelmi hangulatát.\nDélután: Tisztelegjen Jovellanos és a bálnavadász múlt emléke előtt a kikötő szélén.\nEste: Fejezze be a sétát az elegáns Casa de Las Tuervas-nál, ahogy a nap lassan lenyugszik.",
         "ro": "Dimineața: Începeți explorând rădăcinile orașului la muzeul etnografic și la grandioasa Casa de Méndez Vigo.\nPrânz: Continuați spre Teatrul Cazinou și Casa Ochoa, bucurându-vă de atmosfera istorică a străzilor.\nDupă-amiaza: Aduceți un omagiu lui Jovellanos și istoriei baleniere a orașului la marginea portului.\nSeara: Terminați plimbarea la eleganta Casa de Las Tuervas la apusul soarelui.",
         "en": "Morning: Start by exploring the town's roots at the ethnographic museum and the grand Casa de Méndez Vigo.\nMidday: Move on to the Casino Theater and Casa Ochoa, taking in the historical vibe of the streets.\nAfternoon: Pay tribute to Jovellanos and the town's whaling history at the port's edge.\nEvening: Finish your stroll at the elegant Casa de Las Tuervas as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Ethnografische Museum einen idealen Schutz vor dem asturischen Regen. Mittags schlendern wir zwischen historischen Häusern, wobei wir die Vordächer nutzen. Nachmittags erleben wir die raue Schönheit des Hafens unter dem Regenschirm. Abends genießen wir das Spiegeln der Lichter in den nassen Gassen von Puerto de Vega, wenn die Dämmerung den Ort in ein sanftes Grau taucht.",
+            "hu": "Reggel az Etnográfiai Múzeum nyújt tökéletes menedéket az asztúriai eső elől. Délben a történelmi házak között sétálunk, kihasználva az ereszalják védelmét. Délután az esernyő alól csodáljuk meg a kikötő drámai, szürke szépségét. Este a nedves macskaköveken megcsillanó fények kísérnek minket, miközben a városka csendes, eső áztatta hangulata teljesen magával ragad.",
+            "ro": "Dimineața, Muzeul Etnografic oferă un adăpost ideal împotriva ploii asturiene. La prânz, ne plimbăm printre casele istorice, folosind streșinile ca protecție. După-amiaza admirăm frumusețea dramatică a portului de sub umbrelă. Seara, luminile se oglindesc în străzile umede din Puerto de Vega, creând o atmosferă melancolică și autentică în timp ce orașul se pregătește de odihnă.",
+            "en": "In the morning, the Ethnographic Museum provides a perfect refuge from the Asturian rain. At noon, we stroll between historic houses, using the eaves for shelter. In the afternoon, we experience the raw beauty of the harbor under an umbrella. In the evening, we enjoy the reflection of lights on the wet alleys of Puerto de Vega as the twilight turns the town into a soft, misty grey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Etnográfico Juan Pérez Villamil",
+                "hu": "Museo Etnográfico Juan Pérez Villamil",
+                "ro": "Museo Etnográfico Juan Pérez Villamil",
+                "en": "Museo Etnográfico Juan Pérez Villamil"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der perfekte Ort, um trocken zu bleiben; erkunden Sie die maritime Geschichte und nutzen Sie den überdachten Eingangsbereich bei starken Güssen.",
+                "hu": "Ez a múzeum a tökéletes hely a szárazon maradáshoz; fedezze fel a tengerészeti múltat, és használja a fedett bejáratot az intenzívebb záporok idején.",
+                "ro": "Acest muzeu este locul perfect pentru a rămâne uscat; explorați istoria maritimă și folosiți zona de intrare acoperită în timpul averselor mai puternice.",
+                "en": "This museum is the perfect place to stay dry; explore the maritime history and make use of the covered entrance area during heavier downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Méndez Vigo (Casa Samuel)",
+                "hu": "Casa de Méndez Vigo (Casa Samuel)",
+                "ro": "Casa de Méndez Vigo (Casa Samuel)",
+                "en": "Casa de Méndez Vigo (Casa Samuel)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von der gegenüberliegenden Straßenseite unter einem Vordach; der dunkle Stein wirkt im Regen besonders markant und historisch.",
+                "hu": "Csodálja meg az építészetet az út túloldaláról, egy eresz alól; a sötét kő az esőben különösen markánsnak és történelminek hat.",
+                "ro": "Admirați arhitectura de pe partea opusă a străzii, de sub o streșină; piatra închisă la culoare pare deosebit de proeminentă și istorică în ploaie.",
+                "en": "Admire the architecture from across the street under an overhang; the dark stone looks particularly striking and historic in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Casino de Puerto de Vega",
+                "hu": "Teatro Casino de Puerto de Vega",
+                "ro": "Teatro Casino de Puerto de Vega",
+                "en": "Teatro Casino de Puerto de Vega"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Juwel mit schützenden Mauern; prüfen Sie die Öffnungszeiten für Innenbesichtigungen, um den Schauern im eleganten Ambiente zu entgehen.",
+                "hu": "Kulturális ékszerdoboz védelmező falakkal; ellenőrizze a belső látogatási időket, hogy elegáns környezetben vészelje át a záporokat.",
+                "ro": "O bijuterie culturală cu ziduri protectoare; verificați programul de vizitare pentru a evita aversele într-o ambianță elegantă.",
+                "en": "A cultural gem with protective walls; check the opening hours for indoor tours to escape the showers in an elegant setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Ochoa",
+                "hu": "Casa Ochoa",
+                "ro": "Casa Ochoa",
+                "en": "Casa Ochoa"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Haus bietet schöne Fotomotive auch bei trübem Wetter; achten Sie auf die rutschigen Gehwege in der unmittelbaren Umgebung.",
+                "hu": "Ez a történelmi ház borús időben is remek fotótéma; ügyeljen a csúszós járdákra a közvetlen környezetben a nézelődés során.",
+                "ro": "Această casă istorică oferă oportunități foto excelente chiar și pe vreme mohorâtă; atenție la trotuarele alunecoase din imediata apropiere.",
+                "en": "This historic house offers great photo opportunities even in overcast weather; watch out for slippery pavements in the immediate vicinity."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Jovellanos",
+                "hu": "Monumento a Jovellanos",
+                "ro": "Monumento a Jovellanos",
+                "en": "Monumento a Jovellanos"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Denkmal ist auch bei Regen lohnenswert; halten Sie den Schirm fest, da es an dieser Ecke oft windig und zugig sein kann.",
+                "hu": "Egy rövid megálló a emlékműnél esőben is megéri; tartsa erősen az esernyőt, mert ezen a sarkon gyakran szeles és huzatos az idő.",
+                "ro": "O scurtă oprire la monument merită chiar și pe ploaie; țineți umbrela strâns, deoarece în acest colț este adesea vânt și curent.",
+                "en": "A quick stop at the monument is worthwhile even in the rain; hold your umbrella firmly as it can often be windy and drafty at this corner."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ballenero",
+                "hu": "Monumento ballenero",
+                "ro": "Monumento ballenero",
+                "en": "Monumento ballenero"
+              },
+              "tip_5lang": {
+                "de": "Die Walfang-Monumente wirken bei Regen und Nebel besonders mystisch; tragen Sie rutschfeste Schuhe, da das Pflaster am Hafen bei Nässe sehr glatt wird.",
+                "hu": "A bálnavadász emlékművek esőben és ködben különösen misztikusak; viseljen csúszásmentes cipőt, mert a kikötői kövezet nedvesen nagyon csúszik.",
+                "ro": "Monumentele balenierelor par deosebit de mistice în ploaie și ceață; purtați încălțăminte antiderapantă, deoarece pavajul din port este foarte alunecos.",
+                "en": "The whaling monuments look particularly mystical in rain and fog; wear non-slip shoes as the harbor pavement gets very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Las Tuervas",
+                "hu": "Casa de Las Tuervas",
+                "ro": "Casa de Las Tuervas",
+                "en": "Casa de Las Tuervas"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an diesem markanten Gebäude; die nasse Fassade bringt die Details der Architektur wunderbar zur Geltung, bevor Sie sich ins Trockene retten.",
+                "hu": "Zárja a túrát ennél a jellegzetes épületnél; a nedves homlokzat gyönyörűen kiemeli az építészeti részleteket, mielőtt védett helyre vonulna.",
+                "ro": "Încheiați turul la această clădire distinctivă; fațada umedă scoate în evidență detaliile arhitecturale înainte de a vă retrage la adăpost.",
+                "en": "End the tour at this distinctive building; the wet facade highlights the architectural details beautifully before you head to safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Puerto de Vega ist frisch und klar. Mittags wärmen wir uns in den historischen Gassen, während die tiefstehende Sonne die Paläste beleuchtet. Nachmittags genießen wir die maritime Brise am Hafen, bevor es um 17:00 Uhr dunkel wird. Abends hüllt die Kälte das Dorf in eine friedliche Stille, die ideal ist, um die beleuchteten Fassaden der Fischerhäuser zu bewundern.",
+            "hu": "A téli reggel Puerto de Vegában friss és tiszta. Napközben a történelmi utcákon melegszünk fel, miközben az alacsonyan járó nap megvilágítja a palotákat. Délután a tengeri szellőt élvezzük a kikötőben, mielőtt 17:00-kor leszáll az éj. Este a hideg békés csendbe burkolja a falut, ami ideális a halászházak kivilágított homlokzatának megcsodálásához.",
+            "ro": "Dimineața de iarnă în Puerto de Vega este proaspătă și senină. La prânz, ne încălzim pe străzile istorice, în timp ce soarele jos luminează palatele. După-amiaza ne bucurăm de briza maritimă în port, înainte de lăsarea întunericului la ora 17:00. Seara, frigul învăluie satul într-o liniște deplină, ideală pentru a admira fațadele luminate ale caselor pescărești.",
+            "en": "A winter morning in Puerto de Vega is fresh and clear. At noon, we warm up in the historic streets while the low sun illuminates the palaces. In the afternoon, we enjoy the maritime breeze at the harbor before darkness falls at 17:00. In the evening, the cold wraps the village in a peaceful silence, ideal for admiring the illuminated facades of the fishermen's houses."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Etnográfico Juan Pérez Villamil",
+                "hu": "Museo Etnográfico Juan Pérez Villamil",
+                "ro": "Museo Etnográfico Juan Pérez Villamil",
+                "en": "Museo Etnográfico Juan Pérez Villamil"
+              },
+              "tip_5lang": {
+                "de": "Ein beheizter Zufluchtsort am kalten Morgen; nutzen Sie die Zeit drinnen, um sich aufzuwärmen, während Sie die traditionelle asturische Kultur studieren.",
+                "hu": "Fűtött menedék a hideg reggelen; használja ki a bent töltött időt a felmelegedésre, miközben a hagyományos asztúriai kultúrát tanulmányozza.",
+                "ro": "Un refugiu încălzit într-o dimineață rece; folosiți timpul petrecut în interior pentru a vă încălzi în timp ce studiați cultura tradițională asturiană.",
+                "en": "A heated sanctuary on a cold morning; use the time indoors to warm up while studying traditional Asturian culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Méndez Vigo (Casa Samuel)",
+                "hu": "Casa de Méndez Vigo (Casa Samuel)",
+                "ro": "Casa de Méndez Vigo (Casa Samuel)",
+                "en": "Casa de Méndez Vigo (Casa Samuel)"
+              },
+              "tip_5lang": {
+                "de": "Das schräge Winterlicht bietet perfekte Bedingungen für Architekturfotos; tragen Sie Handschuhe, um die Kamera beim Fotografieren der Fassade ruhig zu halten.",
+                "hu": "A ferde téli fény tökéletes feltételeket biztosít az építészeti fotókhoz; viseljen kesztyűt, hogy stabilan tartsa a gépet a homlokzat fotózásakor.",
+                "ro": "Lumina oblică de iarnă oferă condiții perfecte pentru fotografii de arhitectură; purtați mănuși pentru a ține camera stabilă când fotografiați fațada.",
+                "en": "The slanted winter light offers perfect conditions for architectural photos; wear gloves to keep the camera steady while photographing the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Casino de Puerto de Vega",
+                "hu": "Teatro Casino de Puerto de Vega",
+                "ro": "Teatro Casino de Puerto de Vega",
+                "en": "Teatro Casino de Puerto de Vega"
+              },
+              "tip_5lang": {
+                "de": "Das imposante Gebäude schützt vor dem kalten Seewind; bewundern Sie die Details der Belle Époque, die im Winterlicht besonders vornehm wirken.",
+                "hu": "Az impozáns épület védelmet nyújt a hideg tengeri szél ellen; csodálja meg a Belle Époque részleteit, melyek a téli fényben különösen előkelőek.",
+                "ro": "Clădirea impunătoare protejează împotriva vântului rece de mare; admirați detaliile Belle Époque, care par deosebit de elegante în lumina iernii.",
+                "en": "The imposing building protects against the cold sea wind; admire the Belle Époque details, which look particularly elegant in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Ochoa",
+                "hu": "Casa Ochoa",
+                "ro": "Casa Ochoa",
+                "en": "Casa Ochoa"
+              },
+              "tip_5lang": {
+                "de": "Ein Blick auf die Geschichte ohne die Sommergruppen; genießen Sie die Ruhe des Ortes, aber achten Sie auf den schnellen Temperaturabfall am Nachmittag.",
+                "hu": "Bepillantás a történelembe a nyári tömeg nélkül; élvezze a hely nyugalmát, de ügyeljen a délutáni gyors hőmérséklet-csökkenésre.",
+                "ro": "O privire asupra istoriei fără grupurile de vară; bucurați-vă de liniștea locului, dar fiți atenți la scăderea rapidă a temperaturii după-amiaza.",
+                "en": "A glimpse into history without the summer crowds; enjoy the peace of the place, but watch out for the rapid temperature drop in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Jovellanos",
+                "hu": "Monumento a Jovellanos",
+                "ro": "Monumento a Jovellanos",
+                "en": "Monumento a Jovellanos"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal zügig, da die Küstenwinde hier im Winter recht bissig sein können; eine warme Mütze und ein Schal sind hier ein Muss.",
+                "hu": "Látogassa meg gyorsan az emlékművet, mert a parti szél télen elég csípős lehet; a meleg sapka és sál elengedhetetlen kellék ezen a ponton.",
+                "ro": "Vizitați monumentul rapid, deoarece vânturile de coastă pot fi destul de tăioase iarna; o căciulă caldă și un fular sunt obligatorii aici.",
+                "en": "Visit the monument quickly, as coastal winds can be quite biting in winter; a warm hat and scarf are a must-have at this spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ballenero",
+                "hu": "Monumento ballenero",
+                "ro": "Monumento ballenero",
+                "en": "Monumento ballenero"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen wirkt im Winter einsam und kraftvoll; die raue See passt perfekt zur Geschichte der Walfänger, erfordert aber wetterfeste Kleidung.",
+                "hu": "A kikötő télen magányosnak és erőteljesnek hat; a vad tenger tökéletesen illik a bálnavadászok múltjához, de időjárásálló ruházatot igényel.",
+                "ro": "Portul pare solitar și puternic iarna; marea agitată se potrivește perfect cu istoria balenierelor, dar necesită îmbrăcăminte rezistentă la intemperii.",
+                "en": "The harbor feels solitary and powerful in winter; the rough sea fits perfectly with the history of whalers but requires weatherproof clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Las Tuervas",
+                "hu": "Casa de Las Tuervas",
+                "ro": "Casa de Las Tuervas",
+                "en": "Casa de Las Tuervas"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie dieses Haus vor 17:00 Uhr, um die Details im Tageslicht zu sehen, bevor die winterliche Dunkelheit die Gassen schnell einnimmt.",
+                "hu": "Nézze meg ezt a házat 17:00 előtt, hogy még nappali fénynél lássa a részleteket, mielőtt a téli sötétség gyorsan uralma alá veszi az utcákat.",
+                "ro": "Vizitați această casă înainte de ora 17:00 pentru a vedea detaliile la lumina zilei, înainte ca întunericul iernii să cuprindă rapid străzile.",
+                "en": "Visit this house before 17:00 to see the details in daylight before the winter darkness quickly takes over the alleys."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Reggel: Kezdjen a Márki emlékművénél, mielőtt a történelmi kaszinószínházhoz pedálozna.\nDélben: Guruljon el a fenséges Casa Ochoa és a Jovellanos-emlékmű mellett a város szívében.\nDélután: Irány a La Losera sziklás kilátópontja, ahonnan drámai tengerparti panoráma nyílik.\nEste: Fejezze be az utat a Frexulfe strandon, élvezve a hatalmas homokos területet szürkület előtt.",
         "ro": "Dimineața: Începeți cu monumentul Marchizului înainte de a pedala spre teatrul cazinou istoric.\nPrânz: Treceți pe lângă maiestuoasa Casa Ochoa și monumentul lui Jovellanos din inima orașului.\nDupă-amiaza: Mergeți la punctul de belvedere stâncos de la La Losera pentru panorame de coastă dramatice.\nSeara: Încheiați cursa la plaja Frexulfe, bucurându-vă de nisipurile deschise înainte de lăsarea întunericului.",
         "en": "Morning: Kick off with the Marquis' monument before pedaling to the historic casino theater.\nMidday: Glide past the majestic Casa Ochoa and the Jovellanos monument in the heart of town.\nAfternoon: Head to the rocky viewpoint of La Losera for dramatic coastal panoramas.\nEvening: End your ride at Frexulfe Beach, enjoying the wide open sands before dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Radfahren in Puerto de Vega erfordert Vorsicht auf dem nassen Asphalt. Morgens erkunden wir Denkmäler mit Regenponcho. Mittags finden wir Schutz im Casino-Theater. Nachmittags radeln wir vorsichtig entlang der Küste, wo die Gischt mit dem Regen verschmilzt. Abends kehren wir zügig zurück, da die Sicht bei Nässe und Dämmerung stark abnimmt.",
+            "hu": "Az esős kerékpározás Puerto de Vegában óvatosságot igényel a nedves aszfalton. Reggel esőponchóban fedezzük fel az emlékműveket. Délben a Casino színházban találunk menedéket. Délután óvatosan tekerünk a part mentén, ahol a tenger permete összeolvad az esővel. Este gyorsan visszatérünk, mivel a látási viszonyok a nedvesség és a szürkület miatt jelentősen romlanak.",
+            "ro": "Mersul pe bicicletă în ploaie în Puerto de Vega necesită prudență pe asfaltul ud. Dimineața explorăm monumentele cu o pelerină de ploaie. La prânz găsim adăpost în Teatrul Casino. După-amiaza pedalăm cu grijă de-a lungul coastei, unde vaporii mării se contopesc cu ploaia. Seara ne întoarcem rapid, deoarece vizibilitatea scade semnificativ din cauza umezelii și a amurgului.",
+            "en": "Rainy cycling in Puerto de Vega requires caution on wet asphalt. In the morning, we explore monuments in rain ponchos. At noon, we find shelter in the Casino Theater. In the afternoon, we cycle carefully along the coast, where the sea spray merges with the rain. In the evening, we return quickly as visibility decreases significantly in the wet and twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "hu": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "ro": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "en": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab; die Steinflächen rund um das Denkmal können bei Regen extrem rutschig sein, wenn man mit Klickpedalen geht.",
+                "hu": "Parkoljon le biztonságosan; az emlékmű körüli kőfelületek esőben rendkívül csúszósak lehetnek, különösen kerékpáros cipőben.",
+                "ro": "Parcați bicicleta în siguranță; suprafețele de piatră din jurul monumentului pot fi extrem de alunecoase în ploaie, mai ales cu pantofi de ciclism.",
+                "en": "Park your bike securely; the stone surfaces around the monument can be extremely slippery in the rain, especially when walking with cleats."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Casino de Puerto de Vega",
+                "hu": "Teatro Casino de Puerto de Vega",
+                "ro": "Teatro Casino de Puerto de Vega",
+                "en": "Teatro Casino de Puerto de Vega"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt hier für eine Pause im Trockenen; prüfen Sie Ihre Bremsen, da die Abfahrten im Ort bei Nässe längere Bremswege erfordern.",
+                "hu": "Használja ki a megállót egy száraz pihenőre; ellenőrizze a fékeket, mert a városi lejtőkön a nedvesség miatt hosszabb féktávval kell számolni.",
+                "ro": "Folosiți oprirea aici pentru o pauză la uscat; verificați frânele, deoarece coborârile din oraș necesită distanțe de frânare mai mari pe umezeală.",
+                "en": "Use the stop here for a break in the dry; check your brakes, as the descents in town require longer braking distances when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Ochoa",
+                "hu": "Casa Ochoa",
+                "ro": "Casa Ochoa",
+                "en": "Casa Ochoa"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp unter dem Regenschutz; achten Sie beim Wiederanfahren auf Gullydeckel, die bei Nässe für Radreifen gefährlich glatt sind.",
+                "hu": "Gyors fotómegálló esővédő alatt; induláskor ügyeljen a csatornafedelekre, amelyek nedvesen veszélyesen csúszósak a kerékpárgumiknak.",
+                "ro": "O scurtă oprire foto sub protecție; la plecare, atenție la capacele de canal, care sunt periculos de alunecoase pentru anvelopele de bicicletă.",
+                "en": "A quick photo stop under rain cover; when starting again, watch out for manhole covers, which are dangerously slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Jovellanos",
+                "hu": "Monumento a Jovellanos",
+                "ro": "Monumento a Jovellanos",
+                "en": "Monumento a Jovellanos"
+              },
+              "tip_5lang": {
+                "de": "Die exponierte Lage sorgt für viel Wind; halten Sie den Lenker gut fest, da seitliche Böen Ihr Fahrrad auf der nassen Fahrbahn versetzen könnten.",
+                "hu": "A kitett helyszín sok szelet jelent; fogja erősen a kormányt, mert az oldalszél elmozdíthatja a kerékpárt a nedves úttesten.",
+                "ro": "Locația expusă înseamnă mult vânt; țineți bine ghidonul, deoarece rafalele laterale vă pot devia bicicleta pe carosabilul umed.",
+                "en": "The exposed location means a lot of wind; hold the handlebars firmly as side gusts could displace your bike on the wet roadway."
+              }
+            },
+            {
+              "name": {
+                "de": "\"Playa\" La Losera",
+                "hu": "\"Playa\" La Losera",
+                "ro": "\"Playa\" La Losera",
+                "en": "\"Playa\" La Losera"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Regen die Felsnähe; das Wasser sammelt sich hier schnell, was die Pfade für Fahrräder unberechenbar und schlammig macht.",
+                "hu": "Heves esőben kerülje a sziklák közelségét; a víz itt gyorsan összegyűlik, ami kiszámíthatatlanná és sárossá teszi az ösvényeket a bicikliknek.",
+                "ro": "Evitați apropierea de stânci în timpul ploilor abundente; apa se adună rapid aici, făcând potecile imprevizibile și noroioase pentru biciclete.",
+                "en": "Avoid proximity to the rocks during heavy rain; water collects quickly here, making the paths unpredictable and muddy for bikes."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Frexulfe",
+                "hu": "Playa de Frexulfe",
+                "ro": "Playa de Frexulfe",
+                "en": "Playa de Frexulfe"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Strand kann bei Regen schlammig sein; stellen Sie sicher, dass Ihre Schutzbleche fest sitzen, um Schmutzspritzer auf der Kleidung zu minimieren.",
+                "hu": "A strandhoz vezető út esőben sáros lehet; győződjön meg róla, hogy a sárvédők stabilak, hogy minimalizálja a ruházatra verődő koszt.",
+                "ro": "Drumul spre plajă poate fi noroios pe ploaie; asigurați-vă că apărătorile de noroi sunt bine fixate pentru a minimiza stropirea hainelor.",
+                "en": "The path to the beach can be muddy in the rain; make sure your mudguards are secure to minimize dirt splashes on your clothes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Puerto de Vega ist belebend. Morgens kühlt der Fahrtwind, daher sind winddichte Schichten Pflicht. Mittags scheint die Sonne flach über die Küste und wärmt die historischen Plätze. Nachmittags erreichen wir den Frexulfe-Strand rechtzeitig zum Sonnenuntergang um 17:00 Uhr. Abends ist eine gute Beleuchtung am Rad entscheidend für die sichere Rückkehr.",
+            "hu": "A téli kerékpározás Puerto de Vegában élénkítő élmény. Reggel a menetszél hűt, ezért a szélálló rétegek kötelezőek. Napközben a nap alacsonyan sötétlik a part felett, és felmelegíti a történelmi tereket. Délután éppen időben érünk a Frexulfe strandra a 17:00-s naplementéhez. Este a kerékpár jó világítása döntő fontosságú a biztonságos visszatéréshez.",
+            "ro": "Mersul pe bicicletă iarna în Puerto de Vega este revigorant. Dimineața vântul este rece, deci straturile rezistente la vânt sunt obligatorii. La prânz, soarele strălucește jos peste coastă, încălzind piețele istorice. După-amiaza ajungem la plaja Frexulfe la timp pentru apusul de la ora 17:00. Seara, iluminarea bună a bicicletei este crucială pentru o întoarcere sigură.",
+            "en": "Cycling in winter in Puerto de Vega is invigorating. In the morning, the headwind is chilly, so windproof layers are mandatory. At noon, the sun shines low over the coast, warming the historic squares. In the afternoon, we reach Frexulfe beach just in time for the sunset at 17:00. In the evening, good bike lighting is crucial for a safe return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "hu": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "ro": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "en": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sicht; tragen Sie Winter-Radhandschuhe, da Ihre Finger beim Stehenbleiben am Denkmal schnell auskühlen können.",
+                "hu": "A tiszta téli levegő távoli kilátást tesz lehetővé; viseljen téli kerékpáros kesztyűt, mert az ujjai gyorsan kihűlhetnek az emlékműnél állva.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate la distanță; purtați mănuși de iarnă pentru ciclism, deoarece degetele pot îngheța rapid stând la monument.",
+                "en": "The clear winter air allows for distant views; wear winter cycling gloves as your fingers can cool down quickly while standing at the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Casino de Puerto de Vega",
+                "hu": "Teatro Casino de Puerto de Vega",
+                "ro": "Teatro Casino de Puerto de Vega",
+                "en": "Teatro Casino de Puerto de Vega"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur leuchtet im klaren Licht; nutzen Sie diesen Stopp, um die Kleidung anzupassen, da der Körper durch die Bewegung warm wird.",
+                "hu": "Az építészet ragyog a tiszta fényben; használja ezt a megállót a ruházat igazítására, mivel a test a mozgástól gyorsan felmelegszik.",
+                "ro": "Arhitectura strălucește în lumina clară; folosiți această oprire pentru a vă ajusta hainele, deoarece corpul se încălzește prin mișcare.",
+                "en": "The architecture glows in the clear light; use this stop to adjust your clothing as your body warms up from the movement."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Ochoa",
+                "hu": "Casa Ochoa",
+                "ro": "Casa Ochoa",
+                "en": "Casa Ochoa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den historischen Anblick; achten Sie auf schattige Abschnitte der Straße, wo es deutlich kühler ist als in der direkten Wintersonne.",
+                "hu": "Élvezze a történelmi látványt; ügyeljen az út árnyékos szakaszaira, ahol jóval hűvösebb van, mint a közvetlen téli napsütésben.",
+                "ro": "Bucurați-vă de priveliștea istorică; atenție la secțiunile umbrite ale drumului, unde este mult mai răcoare decât în lumina directă a soarelui.",
+                "en": "Enjoy the historic sight; watch out for shaded sections of the road where it is significantly cooler than in direct winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Jovellanos",
+                "hu": "Monumento a Jovellanos",
+                "ro": "Monumento a Jovellanos",
+                "en": "Monumento a Jovellanos"
+              },
+              "tip_5lang": {
+                "de": "Dieser Punkt ist sehr windanfällig; ein Multifunktionstuch (Buff) schützt Gesicht und Hals vor der beißenden Winterbrise während der Fahrt.",
+                "hu": "Ez a pont nagyon kitett a szélnek; egy csősál (Buff) megvédi az arcot és a nyakat a csípős téli szellőtől menet közben.",
+                "ro": "Acest punct este foarte expus vântului; o eșarfă multifuncțională (Buff) protejează fața și gâtul de briza tăioasă de iarnă în timpul mersului.",
+                "en": "This point is very exposed to wind; a multifunctional scarf (Buff) protects your face and neck from the biting winter breeze while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "\"Playa\" La Losera",
+                "hu": "\"Playa\" La Losera",
+                "ro": "\"Playa\" La Losera",
+                "en": "\"Playa\" La Losera"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Ort für Fotos der winterlichen Brandung; bleiben Sie auf den Wegen, da der Boden durch Frost stellenweise glatt sein kann.",
+                "hu": "Spektakuláris hely a téli hullámverés fotózásához; maradjon az ösvényeken, mert a talaj a fagytól helyenként csúszós lehet.",
+                "ro": "Un loc spectaculos pentru fotografii cu valurile iernii; rămâneți pe poteci, deoarece solul poate fi alunecos pe alocuri din cauza înghețului.",
+                "en": "A spectacular spot for photos of the winter surf; stay on the paths as the ground can be slippery in places due to frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Frexulfe",
+                "hu": "Playa de Frexulfe",
+                "ro": "Playa de Frexulfe",
+                "en": "Playa de Frexulfe"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor dem Sonnenuntergang um 17:00 Uhr; die Farben sind im Winter am dramatischsten, aber die Kälte nimmt danach rapide zu.",
+                "hu": "Érjen a strandra a 17:00-s naplemente előtt; a színek télen a legdrámaibbak, de utána a hideg gyorsan fokozódik.",
+                "ro": "Ajungeți la plajă înainte de apusul de la ora 17:00; culorile sunt cele mai dramatice iarna, dar frigul se intensifică rapid după aceea.",
+                "en": "Reach the beach before sunset at 17:00; the colors are most dramatic in winter, but the cold intensifies rapidly afterwards."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Reggel: Kezdjen a Márki emlékműve közelében, majd parkoljon le, hogy felfedezze a néprajzi múzeumot.\nDélben: Vezessen a kikötő közelébe, hogy megcsodálja a Casa de Méndez Vigót és a Jovellanos-emlékművet.\nDélután: Látogasson el a bálnavadász emlékműhöz, hogy megértse a régió történelmi tengerészeti jelentőségét.\nEste: Tegyen egy rövid utat nyugat felé a Frexulfe strandra, hogy érintetlen természeti környezetben nézze a hullámokat.",
         "ro": "Dimineața: Începeți lângă monumentul Marchizului, apoi parcați pentru a explora muzeul etnografic local.\nPrânz: Conduceți spre port pentru a admira Casa de Méndez Vigo și monumentul apropiat al lui Jovellanos.\nDupă-amiaza: Vizitați monumentul balenier pentru a înțelege importanța maritimă istorică a regiunii.\nSeara: Faceți o scurtă plimbare spre vest, la plaja Frexulfe, pentru a privi valurile într-un cadru natural imaculat.",
         "en": "Morning: Start near the Marquis' monument before parking to explore the local ethnographic museum.\nMidday: Drive near the harbor to admire Casa de Méndez Vigo and the nearby monument to Jovellanos.\nAfternoon: Visit the striking whaling monument to grasp the region's historic maritime importance.\nEvening: Take a short drive west to Frexulfe Beach to watch the waves in a pristine natural setting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Puerto de Vega bei Regen ist komfortabel und sicher. Morgens besichtigen wir Denkmale direkt vom Parkplatz aus. Mittags bietet das Museum eine lange, trockene Pause. Nachmittags fahren wir zum stürmischen Frexulfe-Strand, wo wir die Wellen aus dem warmen Auto beobachten. Abends reflektieren die Pfützen die Straßenlaternen in den engen Gassen.",
+            "hu": "Az autós túra Puerto de Vegában esőben is kényelmes és biztonságos. Reggel az emlékműveket közvetlenül a parkolóból nézzük meg. Délben a múzeum hosszú, száraz pihenőt kínál. Délután a viharos Frexulfe strandra hajtunk, ahol a meleg autóból figyeljük a hullámokat. Este a pocsolyák tükrözik vissza az utcai lámpák fényeit a szűk utcákon.",
+            "ro": "O călătorie cu mașina prin Puerto de Vega pe ploaie este confortabilă și sigură. Dimineața vizităm monumentele direct din parcare. La prânz, muzeul oferă o pauză lungă și uscată. După-amiaza conducem spre plaja Frexulfe, unde observăm valurile din mașina caldă. Seara, bălțile reflectă luminile stradale pe străzile înguste.",
+            "en": "A car tour through Puerto de Vega in the rain is comfortable and safe. In the morning, we visit monuments directly from the parking area. At noon, the museum offers a long, dry break. In the afternoon, we drive to the stormy Frexulfe beach, where we watch the waves from the warm car. In the evening, the puddles reflect the street lamps in the narrow alleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "hu": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "ro": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "en": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil"
+              },
+              "tip_5lang": {
+                "de": "Sie können das Denkmal fast vom Auto aus sehen; nutzen Sie die kurzen Regenpausen für ein schnelles Foto, bevor Sie zum nächsten Ziel weiterfahren.",
+                "hu": "Az emlékművet szinte az autóból is láthatja; használja ki a rövid esőszüneteket egy gyors fotóra, mielőtt továbbhajtana a következő célpontig.",
+                "ro": "Puteți vedea monumentul aproape din mașină; profitați de scurtele pauze de ploaie pentru o fotografie rapidă înainte de a conduce spre următoarea destinație.",
+                "en": "You can see the monument almost from the car; use the short breaks in the rain for a quick photo before driving to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnográfico Juan Pérez Villamil",
+                "hu": "Museo Etnográfico Juan Pérez Villamil",
+                "ro": "Museo Etnográfico Juan Pérez Villamil",
+                "en": "Museo Etnográfico Juan Pérez Villamil"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; dieses Museum ist der ideale Ort, um eine längere Regenfront bei kultureller Weiterbildung auszusitzen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; ez a múzeum ideális hely arra, hogy kulturális töltekezéssel várja ki a hosszabb esőzések végét.",
+                "ro": "Parcați cât mai aproape de intrare; acest muzeu este locul ideal pentru a aștepta trecerea unei ploi lungi în timp ce vă educați cultural.",
+                "en": "Park as close to the entrance as possible; this museum is the ideal place to wait out a long rain front while enjoying some cultural education."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Méndez Vigo (Casa Samuel)",
+                "hu": "Casa de Méndez Vigo (Casa Samuel)",
+                "ro": "Casa de Méndez Vigo (Casa Samuel)",
+                "en": "Casa de Méndez Vigo (Casa Samuel)"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die engen Straßen; bei Regen ist die Sicht eingeschränkt, und Passanten mit Schirmen könnten unvermittelt den Weg kreuzen.",
+                "hu": "Hajtson lassan a szűk utcákon; esőben korlátozott a látótávolság, és az esernyős gyalogosok váratlanul az útjukba kerülhetnek.",
+                "ro": "Conduceți încet pe străzile înguste; vizibilitatea este limitată pe ploaie, iar pietonii cu umbrele ar putea traversa neașteptat calea.",
+                "en": "Drive slowly through the narrow streets; visibility is limited in the rain, and pedestrians with umbrellas might unexpectedly cross your path."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Jovellanos",
+                "hu": "Monumento a Jovellanos",
+                "ro": "Monumento a Jovellanos",
+                "en": "Monumento a Jovellanos"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf tiefe Pfützen am Straßenrand; der Wind kann hier an der Küstenecke den Regen peitschend gegen die Autoscheiben drücken.",
+                "hu": "Parkoláskor ügyeljen a mély pocsolyákra az út szélén; a szél itt a parti sarkon az esőt ostorszerűen az autó szélvédőjének nyomhatja.",
+                "ro": "Atenție la bălțile adânci de la marginea drumului când parcați; vântul de la colțul coastei poate împinge ploaia cu putere spre geamurile mașinii.",
+                "en": "Watch out for deep puddles at the roadside when parking; the wind at this coastal corner can whip the rain against the car windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ballenero",
+                "hu": "Monumento ballenero",
+                "ro": "Monumento ballenero",
+                "en": "Monumento ballenero"
+              },
+              "tip_5lang": {
+                "de": "Vom Hafenparkplatz aus haben Sie einen tollen Blick auf die Monumente; bleiben Sie bei starkem Guss im Wagen und genießen Sie die Atmosphäre.",
+                "hu": "A kikötői parkolóból remek rálátás nyílik az emlékművekre; heves zápor esetén maradjon a kocsiban, és élvezze az esős kikötő hangulatát.",
+                "ro": "Din parcarea portului aveți o vedere excelentă asupra monumentelor; în caz de ploaie torențială, rămâneți în mașină și bucurați-vă de atmosferă.",
+                "en": "From the harbor parking lot, you have a great view of the monuments; in case of heavy downpours, stay in the car and enjoy the atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Frexulfe",
+                "hu": "Playa de Frexulfe",
+                "ro": "Playa de Frexulfe",
+                "en": "Playa de Frexulfe"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz am Strand bietet eine spektakuläre Aussicht auf das stürmische Meer; genießen Sie das Naturschauspiel bequem aus der Wärme Ihres Autos.",
+                "hu": "A tengerparti parkoló látványos kilátást nyújt a viharos tengerre; élvezze a természet erejét kényelmesen, az autója melegéből.",
+                "ro": "Parcarea de la plajă oferă o vedere spectaculoasă asupra mării agitate; bucurați-vă de spectacolul naturii confortabil, din căldura mașinii.",
+                "en": "The beach parking lot offers a spectacular view of the stormy sea; enjoy the spectacle of nature comfortably from the warmth of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour in Puerto de Vega ist gemütlich. Morgens gleiten wir durch die stille Landschaft. Mittags nutzen wir die Heizung des Autos zwischen den Besichtigungen der kühlen Paläste. Nachmittags erreichen wir bequem den Frexulfe-Strand für das goldene Licht vor 17:00 Uhr. Abends beleuchten unsere Scheinwerfer die leeren, winterlichen Gassen des Dorfes.",
+            "hu": "A téli autós túra Puerto de Vegában igazán barátságos. Reggel a csendes tájon siklunk keresztül. Napközben a hűvös paloták látogatása között jól jön az autó fűtése. Délután kényelmesen érünk a Frexulfe strandra a 17:00 előtti aranyló fényekhez. Este a fényszóróink világítják meg a falu üres, téli utcáit.",
+            "ro": "Turul cu mașina iarna în Puerto de Vega este foarte plăcut. Dimineața parcurgem peisajul liniștit. La prânz, folosim căldura mașinii între vizitele la palatele răcoroase. După-amiaza ajungem confortabil la plaja Frexulfe pentru lumina aurie de dinainte de ora 17:00. Seara, farurile noastre luminează străzile pustii de iarnă ale satului.",
+            "en": "A winter car tour in Puerto de Vega is cozy. In the morning, we glide through the quiet landscape. At noon, we use the car's heater between visits to the cool palaces. In the afternoon, we comfortably reach Frexulfe beach for the golden light before 17:00. In the evening, our headlights illuminate the empty winter alleys of the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "hu": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "ro": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+                "en": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für gestochen scharfe Sicht auf das Monument; nutzen Sie die Parknähe für einen kurzen, erfrischenden Fotostopp.",
+                "hu": "A tiszta téli levegő tűéles kilátást biztosít az emlékműre; használja ki a közeli parkolót egy rövid, frissítő fotómegállóhoz.",
+                "ro": "Aerul curat de iarnă asigură o vizibilitate clară asupra monumentului; folosiți parcarea din apropiere pentru o scurtă oprire foto revigorantă.",
+                "en": "The clear winter air provides razor-sharp views of the monument; use the nearby parking for a short, refreshing photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnográfico Juan Pérez Villamil",
+                "hu": "Museo Etnográfico Juan Pérez Villamil",
+                "ro": "Museo Etnográfico Juan Pérez Villamil",
+                "en": "Museo Etnográfico Juan Pérez Villamil"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte draußen zu lassen; das Museum ist gut temperiert und bietet eine informative Pause vom winterlichen Küstenwind.",
+                "hu": "Ideális hely a kinti hideg elkerülésére; a múzeum kellemes hőmérsékletű, és tartalmas pihenőt nyújt a téli parti szél elől.",
+                "ro": "Un loc ideal pentru a lăsa frigul afară; muzeul are o temperatură plăcută și oferă o pauză informativă de la vântul de coastă de iarnă.",
+                "en": "An ideal place to leave the cold outside; the museum is well-tempered and offers an informative break from the winter coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Méndez Vigo (Casa Samuel)",
+                "hu": "Casa de Méndez Vigo (Casa Samuel)",
+                "ro": "Casa de Méndez Vigo (Casa Samuel)",
+                "en": "Casa de Méndez Vigo (Casa Samuel)"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Steinmetzarbeiten der Fassade perfekt hervor; parken Sie kurz in der Nähe, um die Architektur in Ruhe zu bewundern.",
+                "hu": "A téli fény tökéletesen kiemeli a homlokzat kőfaragásait; parkoljon le rövid időre a közelben, hogy nyugodtan megcsodálhassa az építészetet.",
+                "ro": "Lumina iernii scoate în evidență perfect sculpturile în piatră ale fațadei; parcați scurt în apropiere pentru a admira arhitectura în liniște.",
+                "en": "The winter light highlights the stonework of the facade perfectly; park briefly nearby to admire the architecture in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Jovellanos",
+                "hu": "Monumento a Jovellanos",
+                "ro": "Monumento a Jovellanos",
+                "en": "Monumento a Jovellanos"
+              },
+              "tip_5lang": {
+                "de": "Da dieser Ort sehr exponiert ist, ist es im Winter oft sehr windig; steigen Sie nur kurz aus, um die Atmosphäre der rauen Küste zu spüren.",
+                "hu": "Mivel ez a hely nagyon kitett, télen gyakran erős a szél; csak rövid időre szálljon ki, hogy érezze a vad tengerpart hangulatát.",
+                "ro": "Deoarece acest loc este foarte expus, iarna este adesea foarte vântos; coborâți doar scurt din mașină pentru a simți atmosfera coastei sălbatice.",
+                "en": "Since this location is very exposed, it is often very windy in winter; step out only briefly to feel the atmosphere of the raw coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ballenero",
+                "hu": "Monumento ballenero",
+                "ro": "Monumento ballenero",
+                "en": "Monumento ballenero"
+              },
+              "tip_5lang": {
+                "de": "Der Hafenparkplatz ist im Winter meist leerer; genießen Sie den Blick auf die maritime Geschichte ohne den Trubel der warmen Jahreszeiten.",
+                "hu": "A kikötői parkoló télen általában üresebb; élvezze a tengerészeti múlt látványát a melegebb évszakokra jellemző nyüzsgés nélkül.",
+                "ro": "Parcarea din port este de obicei mai goală iarna; bucurați-vă de vederea istoriei maritime fără agitația anotimpurilor calde.",
+                "en": "The harbor parking lot is usually emptier in winter; enjoy the view of maritime history without the hustle and bustle of the warm seasons."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Frexulfe",
+                "hu": "Playa de Frexulfe",
+                "ro": "Playa de Frexulfe",
+                "en": "Playa de Frexulfe"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das goldene Licht vor dem frühen Sonnenuntergang um 17:00 Uhr direkt vom Auto aus; die Winterfarben am Meer sind unvergleichlich.",
+                "hu": "Élje át az aranyló fényeket a korai, 17:00-s naplemente előtt közvetlenül az autóból; a tenger téli színei páratlanok.",
+                "ro": "Experimentați lumina aurie de dinainte de apusul de la ora 17:00 direct din mașină; culorile iernii la mare sunt de neegalat.",
+                "en": "Experience the golden light before the early sunset at 17:00 directly from the car; the winter colors at the sea are incomparable."
+              }
+            }
+          ]
+        }
       }
     }
   }

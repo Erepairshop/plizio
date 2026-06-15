@@ -160,6 +160,196 @@
         "hu": "A reggel Orizaba örökségének felfedezésével indul a Történeti Múzeumban és a Kulturális Központban. Délben a lenyűgöző színház, majd a Palacio de Hierro ikonikus vasmunkája kerül a középpontba. A délutánt a helyi sporthősöknek szenteljük a Hírességek Csarnokában. A napot egy pihentető esti séta zárja a folyóparton, ahol megfigyelhetjük a játékos majmokat.",
         "ro": "Dimineața începe cu o incursiune în moștenirea orașului Orizaba la Muzeul Istoric și Centrul Cultural. La prânz, atenția cade pe superbul Teatru Ignacio de la Llave, urmat de iconicul Palacio de Hierro. După-amiaza este dedicată legendelor sportive la Sala Faimei. Ziua se încheie cu o plimbare relaxantă de seară pe malul râului, observând maimuțele jucăușe.",
         "en": "Morning begins with a deep dive into Orizaba’s heritage at the Historical Museum and local Cultural Center. Midday shines a spotlight on the stunning Teatro Ignacio de la Llave before admiring the iconic ironwork of Palacio de Hierro. Afternoon is dedicated to local sports legends at the Hall of Fame. The day wraps up with a relaxing evening stroll by the river to spot the playful monkeys."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen im Museum, um dem Bergregen zu entgehen. Mittags bietet das Theater einen prachtvollen, trockenen Zufluchtsort vor dem Guss. Nachmittags erkunden Sie die Gänge des Eisenpalastes, der bei Regen besonders atmosphärisch wirkt. Am Abend ist die Flussreserva mystisch, doch ein guter Poncho ist für den Weg entlang der Tiere bei Nässe absolut notwendig.",
+            "hu": "Kezdje a reggelt a múzeumban, hogy elkerülje a hegyi szitálást. Délben a színház belső terei nyújtanak elegáns menedéket a zápor elől. Délután az acélszerkezetű palota fedett folyosói tökéletesek a nézelődéshez. Este a folyóparti állatrezervátum misztikus ködbe burkolózik, de a csúszós utak miatt egy masszív esőkabát és vízálló cipő elengedhetetlen a sétához.",
+            "ro": "Începeți dimineața la muzeu pentru a evita burnița de munte. La prânz, teatrul oferă un refugiu elegant și uscat în fața ploii. După-amiaza, explorați coridoarele palatului de fier, care are o acustică specială când plouă. Seara, rezervația de pe malul râului devine mistică, dar o pelerină bună este esențială pentru a vedea animalele în siguranță pe potecile umede.",
+            "en": "Start your morning at the museum to escape the early mountain drizzle. Midday is best spent in the theater's grand halls while the clouds hover over the peak. Afternoon offers a dry retreat inside the iron palace's historic corridors. As evening falls, the river walk feels mystical in the rain, but a sturdy poncho is essential for visiting the animal reserve safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Memoria Histórica de Orizaba",
+                "hu": "Museo Memoria Histórica de Orizaba",
+                "ro": "Museo Memoria Histórica de Orizaba",
+                "en": "Museo Memoria Histórica de Orizaba"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die frühen Regenstunden für diese Innenausstellung; der massive Bau bietet perfekten Schutz vor der Feuchtigkeit der Berge.",
+                "hu": "Használja ki a reggeli esős órákat a benti kiállításra; a masszív épület tökéletes védelmet nyújt a hegyi nedvesség ellen.",
+                "ro": "Folosiți orele ploioase de dimineață pentru această expoziție interioară; clădirea masivă oferă protecție perfectă împotriva umezelii.",
+                "en": "Use the early rainy hours for this indoor exhibition; the solid building provides perfect protection against the mountain dampness."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                "hu": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                "ro": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                "en": "Casa de Cultura del Instituto Tecnológico de Orizaba"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von den überdachten Arkaden aus; halten Sie Ihren Schirm bereit für den kurzen Sprint zum Eingang.",
+                "hu": "Csodálja meg az építészetet a fedett árkádok alól; tartsa készenlétben az esernyőjét a bejáratig tartó rövid vágtához.",
+                "ro": "Admirați arhitectura de sub arcadele acoperite; țineți umbrela pregătită pentru scurtul sprint până la intrarea principală.",
+                "en": "Admire the architecture from under the covered arcades; keep your umbrella ready for the short sprint to the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ignacio de la Llave",
+                "hu": "Teatro Ignacio de la Llave",
+                "ro": "Teatro Ignacio de la Llave",
+                "en": "Teatro Ignacio de la Llave"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den stärksten Mittagsschauer im prächtigen Foyer auszusitzen; die Akustik des Regens auf dem Dach ist einmalig.",
+                "hu": "Ideális hely a legerősebb déli zápor kivárására a pompás aulában; a tetőn kopogó eső hangja különleges akusztikai élményt nyújt.",
+                "ro": "Locul ideal pentru a aștepta trecerea ploii de prânz în foierul superb; sunetul ploii pe acoperiș oferă o experiență acustică unică.",
+                "en": "An ideal place to wait out the heaviest midday shower in the magnificent foyer; the sound of rain on the roof is a unique experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Hierro",
+                "hu": "Palacio de Hierro",
+                "ro": "Palacio de Hierro",
+                "en": "Palacio de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein Heißgetränk im Café, während der Regen auf die Eisenstruktur prasselt; die Metallböden können bei Nässe extrem rutschig sein.",
+                "hu": "Igyon egy forró italt a kávézóban, miközben az eső az acélszerkezeten dobog; a fém padlófelületek vizesen rendkívül csúszósak lehetnek.",
+                "ro": "Savurați o băutură caldă la cafenea în timp ce ploaia bate în structura de fier; podelele metalice pot fi extrem de alunecoase când sunt ude.",
+                "en": "Enjoy a hot drink at the café while the rain drums on the iron structure; the metal floors can be extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la Fama",
+                "hu": "Salón de la Fama",
+                "ro": "Salón de la Fama",
+                "en": "Salón de la Fama"
+              },
+              "tip_5lang": {
+                "de": "Dieses kompakte Museum hält Sie trocken, während Sie lokale Legenden studieren; prüfen Sie Ihre Schuhe am Eingang auf ausreichenden Grip.",
+                "hu": "Ez a kompakt múzeum szárazon tart, miközben a helyi legendákat tanulmányozza; belépéskor ellenőrizze cipője talpának tapadását.",
+                "ro": "Acest muzeu compact vă ține la adăpost în timp ce studiați legendele locale; verificați aderența tălpilor la intrare.",
+                "en": "This compact museum keeps you dry while you study local legends; check your shoe grip at the entrance to avoid sliding on the tiles."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkeys (pass del Rio y reserva animal)",
+                "hu": "Monkeys (pass del Rio y reserva animal)",
+                "ro": "Monkeys (pass del Rio y reserva animal)",
+                "en": "Monkeys (pass del Rio y reserva animal)"
+              },
+              "tip_5lang": {
+                "de": "Die Tiere sind bei Regen oft aktiver, aber der Weg am Fluss ist schlammig; tragen Sie unbedingt wasserfeste Wanderschuhe für diesen Abschnitt.",
+                "hu": "Az állatok esőben gyakran aktívabbak, de a folyóparti út sáros; mindenképpen viseljen vízálló túracipőt ezen a szakaszon.",
+                "ro": "Animalele sunt adesea mai active pe ploaie, dar drumul de pe mal e noroios; purtați neapărat încălțăminte impermeabilă pe această porțiune.",
+                "en": "Animals are often more active in the rain, but the river path gets muddy; be sure to wear waterproof hiking boots for this section."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft Orizabas ist erfrischend für den Weg zum Museum. Mittags wärmt die Wintersonne angenehm den Vorplatz des Theaters. Gegen 17:00 Uhr beginnt es bereits zu dämmern, was den Eisenpalast in goldenes Licht taucht. Der Abend am Fluss wird schnell frostig, bringen Sie daher eine warme Jacke für den Besuch bei den Affen mit.",
+            "hu": "A friss reggeli levegő üdítő a múzeumi séta során. Délben a téli napsütés kellemesen melengeti a színház előtti teret. 17:00 óra után már sötétedik, ekkor a vaspalota díszkivilágítása csodás látványt nyújt. Estére a folyó mellett gyorsan lehűl a levegő, réteges öltözet szükséges a majmok megfigyeléséhez.",
+            "ro": "Aerul proaspăt de dimineață este revigorant pentru drumul spre muzeu. La prânz, soarele blând de iarnă încălzește plăcut piața teatrului. După ora 17:00 începe să se întunece, iar palatul de fier strălucește auriu sub lumini. Seara lângă râu devine rapid răcoroasă, deci aveți nevoie de o jachetă groasă pentru vizita la animale.",
+            "en": "The crisp morning air in Orizaba is refreshing for your walk to the museum. At noon, the winter sun provides gentle warmth in the theater square. By 17:00, the sky begins to darken, casting a beautiful golden glow over the iron palace. The evening chill sets in quickly near the river, so keep your layers close while observing the monkeys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Memoria Histórica de Orizaba",
+                "hu": "Museo Memoria Histórica de Orizaba",
+                "ro": "Museo Memoria Histórica de Orizaba",
+                "en": "Museo Memoria Histórica de Orizaba"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Morgenkälte; ein leichter Schal hilft Ihnen, die historischen Dokumente ohne Frösteln zu studieren.",
+                "hu": "A vastag falak még őrzik a reggeli hideget; egy könnyű sál segít, hogy fázás nélkül tanulmányozhassa a történelmi dokumentumokat.",
+                "ro": "Zidurile groase păstrează răcoarea dimineții; un fular ușor vă va ajuta să studiați documentele istorice fără să vă fie frig.",
+                "en": "The thick walls retain the morning chill; a light scarf will help you study the historical documents without feeling the cold indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                "hu": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                "ro": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                "en": "Casa de Cultura del Instituto Tecnológico de Orizaba"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den sonnigen Innenhof, um Vitamin D zu tanken, bevor die kühleren Schattenstunden des Nachmittags beginnen.",
+                "hu": "Használja ki a napfényes belső udvart egy kis D-vitamin pótlásra, mielőtt a hűvösebb délutáni árnyékok megérkeznek.",
+                "ro": "Profitați de curtea interioară însorită pentru puțină vitamina D înainte de orele mai răcoroase cu umbră ale după-amiezii.",
+                "en": "Take advantage of the sunny inner courtyard to soak up some Vitamin D before the cooler afternoon shadows arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ignacio de la Llave",
+                "hu": "Teatro Ignacio de la Llave",
+                "ro": "Teatro Ignacio de la Llave",
+                "en": "Teatro Ignacio de la Llave"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagszeit ist perfekt für den Besuch, wenn die Sonne am höchsten steht und das historische Gebäude auf natürliche Weise erwärmt.",
+                "hu": "A délidő tökéletes a látogatásra, amikor a nap legmagasabban jár és természetes módon melegíti át a történelmi épületet.",
+                "ro": "Prânzul este momentul perfect pentru vizită, când soarele este sus și încălzește natural clădirea istorică.",
+                "en": "Noontime is perfect for a visit, as the sun is at its highest and naturally warms the historic building's interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Hierro",
+                "hu": "Palacio de Hierro",
+                "ro": "Palacio de Hierro",
+                "en": "Palacio de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang um 17:00 Uhr von der Terrasse aus; das Metall reflektiert das winterliche Licht auf spektakuläre Weise.",
+                "hu": "Nézze meg a 17:00 órai naplementét a teraszról; a fémfelületek látványosan verik vissza a téli alkonyi fényeket.",
+                "ro": "Priviți apusul de la ora 17:00 de pe terasă; structura metalică reflectă spectaculos lumina de iarnă la asfințit.",
+                "en": "Watch the 17:00 sunset from the terrace; the metal structure reflects the winter twilight lights in a spectacular way."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la Fama",
+                "hu": "Salón de la Fama",
+                "ro": "Salón de la Fama",
+                "en": "Salón de la Fama"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf, bevor Sie den Abendspaziergang am Flussufer fortsetzen; die Temperatur sinkt jetzt rasch.",
+                "hu": "Melegedjen fel a kiállítótermekben, mielőtt folytatná esti sétáját a folyóparton; a hőmérséklet ilyenkor már gyorsan csökken.",
+                "ro": "Încălziți-vă în sălile de expoziție înainte de a continua plimbarea de seară pe malul râului; temperatura scade rapid acum.",
+                "en": "Warm up in the exhibition rooms before continuing your evening walk by the river; the temperature drops rapidly at this hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Monkeys (pass del Rio y reserva animal)",
+                "hu": "Monkeys (pass del Rio y reserva animal)",
+                "ro": "Monkeys (pass del Rio y reserva animal)",
+                "en": "Monkeys (pass del Rio y reserva animal)"
+              },
+              "tip_5lang": {
+                "de": "Die Affen kuscheln sich bei Kälte oft zusammen; bringen Sie eine Taschenlampe mit, da es im Winter schon sehr früh dunkel wird.",
+                "hu": "A majmok a hidegben gyakran összebújnak; vigyen magával zseblámpát, mert télen már nagyon korán besötétedik a folyóvölgyben.",
+                "ro": "Maimuțele stau adesea grupate pentru căldură; luați o lanternă, deoarece iarna se întunecă foarte devreme în valea râului.",
+                "en": "Monkeys often huddle together in the cold; bring a flashlight as it gets dark very early in the river valley during winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpártúráját az Eiffel által tervezett Palacio de Hierro és a gyönyörű színház megcsodálásával. Délben a lenyűgöző Vendéglátás Múzeuma és a Polifórum palotaszerű kertje várja. Délután felfedezheti az ősi Piedra De Xipe kőtömböt és a hatalmas bikaviadal-arénát. Az estét a középkori hangulatú Casa Vegas egyedülálló varázsa teszi teljessé.",
         "ro": "Începeți traseul cu bicicleta admirând Palacio de Hierro proiectat de Eiffel și eleganța clasică a teatrului. La prânz pedalați spre Muzeul Ospitalității și grădinile de la Polifórum Mier y Pesado. După-amiaza, descoperiți antica Piedra De Xipe și impresionanta Plaza de Toros. Seara sosește în decorul medieval fascinant al complexului Casa Vegas.",
         "en": "Start your cycling route marveling at the Eiffel-designed Palacio de Hierro before taking in the classic elegance of Teatro Ignacio de la Llave. Midday rides lead to the unique Mexican Hospitality Museum and the palatial grounds of Polifórum Mier y Pesado. In the afternoon, discover the ancient Piedra De Xipe and the massive Plaza de Toros. Evening arrives at the medieval-themed Casa Vegas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Eisenpalast, die Metallplatten sind extrem glatt bei Nässe. Mittags bietet das Polifórum weite, trockene Hallen zum Unterstellen der Räder. Die Fahrt am Nachmittag erfordert volle Konzentration wegen der Pfützen auf dem Kopfsteinpflaster. Beenden Sie den Tag in Casa Vegas, wo die mittelalterliche Stimmung im Regen besonders authentisch wirkt.",
+            "hu": "Kezdje óvatosan a vaspalotánál, mert a fémlemezek vizesen rendkívül csúszósak. Délben a Polifórum tágas, fedett csarnokai kiváló menedéket nyújtanak a bringáknak is. A délutáni tekerés koncentrációt igényel a macskaköves utakon lévő tócsák miatt. Zárja a napot Casa Vegasban, ahol az eső még hitelesebbé teszi a középkori hangulatot.",
+            "ro": "Porniți cu atenție de la palatul de fier, plăcile metalice sunt extrem de alunecoase pe ploaie. La prânz, Polifórum oferă hale uscate unde puteți adăposti bicicletele. Traseul de după-amiază necesită concentrare din cauza bălților de pe pavaj. Încheiați ziua la Casa Vegas, unde ploaia face atmosfera medievală și mai autentică.",
+            "en": "Start carefully at the Iron Palace, as the metal plates are extremely slick when wet. Midday, the Polifórum offers wide, dry halls to shelter both you and your bikes. The afternoon ride requires full concentration due to puddles on the cobblestones. End your day at Casa Vegas, where the medieval atmosphere feels even more authentic in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Hierro",
+                "hu": "Palacio de Hierro",
+                "ro": "Palacio de Hierro",
+                "en": "Palacio de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung; steigen Sie auf den nassen Metallrampen unbedingt ab, um Stürze zu vermeiden.",
+                "hu": "Parkolja le a bringát a tető alatt; a vizes fémrámpákon mindenképpen szálljon le a nyeregből az esések elkerülése végett.",
+                "ro": "Parcați bicicleta sub streșină; coborâți neapărat de pe bicicletă pe rampele metalice ude pentru a evita căzăturile.",
+                "en": "Park your bike under the roof overhang; be sure to dismount on the wet metal ramps to avoid any slips or falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ignacio de la Llave",
+                "hu": "Teatro Ignacio de la Llave",
+                "ro": "Teatro Ignacio de la Llave",
+                "en": "Teatro Ignacio de la Llave"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung zu richten, bevor Sie die prächtige Innenausstattung besichtigen.",
+                "hu": "Használja a fedett bejáratot az esőruházat megigazítására, mielőtt belépne megtekinteni a pompás belső teret.",
+                "ro": "Folosiți zona de intrare acoperită pentru a vă ajusta pelerina înainte de a vizita interiorul somptuos.",
+                "en": "Use the covered entrance area to adjust your rain gear before heading inside to view the magnificent interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Hotelería Mexicana",
+                "hu": "Museo de la Hotelería Mexicana",
+                "ro": "Museo de la Hotelería Mexicana",
+                "en": "Museo de la Hotelería Mexicana"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Stopp; während Ihr Rad draußen im Regen steht, können Sie drinnen in die Geschichte der Gastfreundschaft eintauchen.",
+                "hu": "Tökéletes száraz megálló; amíg a bringa kint ázik, bent elmerülhet a vendéglátás történetében a fedett falak között.",
+                "ro": "O oprire perfectă la uscat; în timp ce bicicleta stă afară, vă puteți delecta cu istoria ospitalității între ziduri sigure.",
+                "en": "A perfect dry stop; while your bike stays outside, you can immerse yourself in the history of hospitality within covered walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Polifórum Mier y Pesado",
+                "hu": "Polifórum Mier y Pesado",
+                "ro": "Polifórum Mier y Pesado",
+                "en": "Polifórum Mier y Pesado"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen Arkaden sind der beste Schutz für Radfahrer bei einem Wolkenbruch; nutzen Sie die Zeit für die vielfältigen Museen im Inneren.",
+                "hu": "A hatalmas árkádok a legjobb menedéket jelentik a bringásoknak egy felhőszakadáskor; használja ki az időt a benti múzeumokra.",
+                "ro": "Arcadele uriașe sunt cel mai bun adăpost pentru bicicliști în timpul unei averse; profitați de timp vizitând muzeele din interior.",
+                "en": "The huge arcades are the best shelter for cyclists during a downpour; use the time to explore the various museums inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Piedra De Xipe",
+                "hu": "Piedra De Xipe",
+                "ro": "Piedra De Xipe",
+                "en": "Piedra De Xipe"
+              },
+              "tip_5lang": {
+                "de": "Der Stein wirkt im Regen dunkler und mystischer; achten Sie auf den unbefestigten Boden rundherum, der schnell aufweicht.",
+                "hu": "A kő esőben sötétebbnek és misztikusabbnak tűnik; ügyeljen a környező talajra, amely gyorsan felázhat és csúszóssá válhat.",
+                "ro": "Piatra pare mai neagră și mai mistică pe ploaie; atenție la solul din jur, care se poate înmuia rapid și deveni alunecos.",
+                "en": "The stone looks darker and more mystical in the rain; watch out for the surrounding ground, which can soften and get slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Toros \"La Concordia\"",
+                "hu": "Plaza de Toros \"La Concordia\"",
+                "ro": "Plaza de Toros \"La Concordia\"",
+                "en": "Plaza de Toros \"La Concordia\""
+              },
+              "tip_5lang": {
+                "de": "Die kreisförmige Struktur bietet viele überdachte Gänge; ideal, um das Rad kurz zu checken und die Bremsbeläge zu trocknen.",
+                "hu": "A kör alakú építmény sok fedett folyosót kínál; ideális a bringa gyors ellenőrzésére és a fékpofák letörlésére.",
+                "ro": "Structura circulară oferă multe coridoare acoperite; ideal pentru o scurtă verificare a bicicletei și pentru a șterge frânele.",
+                "en": "The circular structure offers many covered corridors; ideal for a quick bike check and to wipe down your brake pads."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Vegas",
+                "hu": "Casa Vegas",
+                "ro": "Casa Vegas",
+                "en": "Casa Vegas"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist weitläufig, suchen Sie Schutz in den Tavernen; die Abendfahrt zurück sollte wegen der nassen Straßen langsam erfolgen.",
+                "hu": "A terület hatalmas, keressen menedéket a fogadókban; a vizes utak miatt a visszafelé utat lassabb tempóban tegye meg.",
+                "ro": "Zona este vastă, căutați adăpost în taverne; drumul de întoarcere pe străzi ude trebuie parcurs cu viteză redusă.",
+                "en": "The area is vast, look for shelter in the taverns; take the ride back slowly due to the wet and potentially slick evening streets."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Brisen machen die morgendliche Fahrt zum Eisenpalast sehr belebend. Mittags ist das Licht am Polifórum perfekt für Fotos der Architektur. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie Ihre Lichter für die Fahrt zur Plaza de Toros prüfen. Der Abend in Casa Vegas ist kühl, warme Handschuhe sind für die späte Rückfahrt auf dem Rad unerlässlich.",
+            "hu": "A friss szellő élénkítővé teszi a reggeli tekerést a vaspalotához. Délben a Polifórum környékén a fények tökéletesek az építészeti fotókhoz. Mivel 17:00 körül lemegy a nap, ellenőrizze a lámpákat a Plaza de Toros felé. Casa Vegasban hűvös az este, a késői hazatéréshez meleg kesztyű javasolt.",
+            "ro": "Briza proaspătă face tura de dimineață spre palatul de fier foarte energizantă. La prânz, lumina de la Polifórum este perfectă pentru poze. Deoarece soarele apune la 17:00, verificați luminile bicicletei spre Plaza de Toros. Seara la Casa Vegas este rece, mănușile groase fiind esențiale pentru drumul de întoarcere.",
+            "en": "Fresh breezes make the morning ride to the Iron Palace very invigorating. At noon, the light at Polifórum is perfect for architectural photos. Since the sun sets around 17:00, check your bike lights for the ride to Plaza de Toros. Evening at Casa Vegas is chilly, so warm gloves are essential for the late ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Hierro",
+                "hu": "Palacio de Hierro",
+                "ro": "Palacio de Hierro",
+                "en": "Palacio de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Die Metallstruktur ist morgens eiskalt; berühren Sie die Geländer nur mit Handschuhen und genießen Sie einen heißen Kaffee vor Ort.",
+                "hu": "A fémszerkezet reggel jéghideg; csak kesztyűben érjen a korlátokhoz, és élvezzen egy forró kávét a helyszínen.",
+                "ro": "Structura metalică este înghețată dimineața; atingeți balustradele doar cu mănuși și savurați o cafea fierbinte în incintă.",
+                "en": "The metal structure is freezing in the morning; only touch the railings with gloves and enjoy a hot coffee on-site to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ignacio de la Llave",
+                "hu": "Teatro Ignacio de la Llave",
+                "ro": "Teatro Ignacio de la Llave",
+                "en": "Teatro Ignacio de la Llave"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, um den Sattel aufzuwärmen, während Sie die prunkvolle Innenausstattung des Theaters bewundern.",
+                "hu": "Parkoljon a napon, hogy átmelegedjen a nyereg, miközben a színház díszes belső terét csodálja.",
+                "ro": "Parcați la soare pentru a încălzi șaua în timp ce admirați interiorul somptuos al teatrului.",
+                "en": "Park in the sun to warm up your bike seat while you admire the ornate interior decorations of the theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de la Hotelería Mexicana",
+                "hu": "Museo de la Hotelería Mexicana",
+                "ro": "Museo de la Hotelería Mexicana",
+                "en": "Museo de la Hotelería Mexicana"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause im Warmen; die historischen Exponate lassen Sie die kühle Winterluft draußen kurz vergessen.",
+                "hu": "Ideális hely egy kis melegedő szünetre; a történelmi kiállítási tárgyak feledtetik a kinti hűvös téli levegőt.",
+                "ro": "Un loc ideal pentru o pauză la căldură; exponatele istorice vă vor face să uitați de aerul rece de iarnă de afară.",
+                "en": "An ideal place for a warm break; the historical exhibits will make you briefly forget the cool winter air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Polifórum Mier y Pesado",
+                "hu": "Polifórum Mier y Pesado",
+                "ro": "Polifórum Mier y Pesado",
+                "en": "Polifórum Mier y Pesado"
+              },
+              "tip_5lang": {
+                "de": "Das weitläufige Gelände ist im Winterlicht besonders fotogen; nutzen Sie die beheizten Museumsräume zur Entspannung der Muskeln.",
+                "hu": "A tágas park a téli fényekben különösen fotogén; használja a fűtött múzeumi tereket a megfáradt izmok ellazítására.",
+                "ro": "Parcul vast este deosebit de fotogenic în lumina iernii; folosiți spațiile încălzite ale muzeului pentru a vă relaxa mușchii.",
+                "en": "The sprawling grounds are especially photogenic in winter light; use the heated museum spaces to relax your cycling muscles."
+              }
+            },
+            {
+              "name": {
+                "de": "Piedra De Xipe",
+                "hu": "Piedra De Xipe",
+                "ro": "Piedra De Xipe",
+                "en": "Piedra De Xipe"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um das letzte Tageslicht auf dem Stein zu nutzen, bevor die Schatten der Berge alles abkühlen.",
+                "hu": "Látogasson el ide 16:30 előtt, hogy kihasználja az utolsó fényeket a kövön, mielőtt a hegyek árnyéka mindent lehűtene.",
+                "ro": "Vizitați acest loc înainte de 16:30 pentru a profita de ultima lumină pe piatră, înainte ca umbra munților să răcească totul.",
+                "en": "Visit this site before 16:30 to catch the last daylight on the stone before the mountain shadows cool everything down."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Toros \"La Concordia\"",
+                "hu": "Plaza de Toros \"La Concordia\"",
+                "ro": "Plaza de Toros \"La Concordia\"",
+                "en": "Plaza de Toros \"La Concordia\""
+              },
+              "tip_5lang": {
+                "de": "Bei Sonnenuntergang um 17:00 Uhr leuchtet die Arena rötlich; schalten Sie jetzt unbedingt Ihre Fahrradbeleuchtung für den Stadtverkehr ein.",
+                "hu": "Naplementekor, 17:00 körül az aréna vöröses fényben úszik; ekkor már feltétlenül kapcsolja be a kerékpáros világítást a városban.",
+                "ro": "La apusul de la ora 17:00, arena strălucește în nuanțe roșiatice; porniți neapărat luminile bicicletei pentru traficul urban.",
+                "en": "At sunset around 17:00, the arena glows red; be sure to turn on your bicycle lights for safety in the city traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Vegas",
+                "hu": "Casa Vegas",
+                "ro": "Casa Vegas",
+                "en": "Casa Vegas"
+              },
+              "tip_5lang": {
+                "de": "Der mittelalterliche Themenpark ist abends sehr stimmungsvoll, aber zugig; ein heißer Met oder Punsch hilft gegen die winterliche Kälte.",
+                "hu": "A középkori élménypark este nagyon hangulatos, de szeles; egy forró ital vagy puncs segít a téli hideg ellen.",
+                "ro": "Parcul tematic medieval este foarte atmosferic seara, dar vântos; o băutură fierbinte sau un punch ajută împotriva frigului de iarnă.",
+                "en": "The medieval theme park is very atmospheric in the evening but breezy; a hot drink or punch helps combat the winter chill."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "A festői autózás a Casa Vegas középkori varázsával és a Plaza de Toros hatalmas épületével indul. Délben a Polifórum lélegzetelállító kertjei és a történelmi központban található Palacio de Hierro nyújt élményt. Délután az oroszlánrezervátum állatvilágának megfigyelésére kerül sor. Az este kellemesen ér véget a modern Auditorio Metropolitano közelében.",
         "ro": "Călătoria auto începe cu magia medievală de la Casa Vegas și grandoarea arhitecturală a Plaza de Toros. La prânz vă bucurați de grădinile de la Polifórum Mier y Pesado și de istoricul Palacio de Hierro. După-amiaza aduce observarea faunei sălbatice la rezervația de lei. Seara se încheie cu eleganță lângă modernul Auditorio Metropolitano.",
         "en": "Your scenic drive begins with the medieval magic of Casa Vegas and the architectural scale of the Plaza de Toros. Midday features the breathtaking gardens of Polifórum Mier y Pesado and a visit to the historic downtown to see Palacio de Hierro. Afternoon transitions to wildlife observation at the riverside lion reserve. The evening concludes gracefully near the modern Auditorio Metropolitano."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort des Autos für die Fahrt nach Casa Vegas, während der Regen draußen peitscht. Mittags bietet das Polifórum bequeme Parkmöglichkeiten nahe am Eingang. Der Eisenpalast glänzt im Nachmittagsregen, besichtigen Sie ihn ohne nass zu werden. Beenden Sie den Tag im Auditorio Metropolitano, dem perfekten, modernen Innenschauplatz für einen verregneten Abend.",
+            "hu": "Élvezze az autó kényelmét a Casa Vegas felé tartó úton, miközben kint szakad az eső. Délben a Polifórum kényelmes parkolást kínál közel a bejárathoz. A vaspalota ragyog a délutáni esőben, tekintse meg anélkül, hogy elázna. Zárja a napot az Auditorio Metropolitano falai között, amely tökéletes modern belső helyszín egy esős estére.",
+            "ro": "Bucurați-vă de confortul mașinii spre Casa Vegas în timp ce afară plouă torențial. La prânz, Polifórum oferă parcare convenabilă aproape de intrare. Palatul de fier strălucește în ploaia de după-amiază; vizitați-l fără a vă uda. Încheiați ziua la Auditorio Metropolitano, locația interioară modernă perfectă pentru o seară ploioasă.",
+            "en": "Enjoy the comfort of your car on the way to Casa Vegas while it pours outside. Midday, the Polifórum offers convenient parking close to the entrance. The Iron Palace glows in the afternoon rain; view it comfortably from nearby. End your day at the Auditorio Metropolitano, the perfect modern indoor venue for a rainy evening finale."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Vegas",
+                "hu": "Casa Vegas",
+                "ro": "Casa Vegas",
+                "en": "Casa Vegas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkservice, um direkt ins Trockene zu gelangen; die mittelalterlichen Gassen sind bei Regen sehr rutschig.",
+                "hu": "Vegye igénybe a parkolást, hogy közvetlenül a száraz helyre jusson; a középkori utcák esőben nagyon csúszósak.",
+                "ro": "Folosiți parcarea pentru a ajunge direct la adăpost; străzile medievale sunt foarte alunecoase când plouă.",
+                "en": "Take advantage of the parking to get directly to shelter; the medieval-style streets can be very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Toros \"La Concordia\"",
+                "hu": "Plaza de Toros \"La Concordia\"",
+                "ro": "Plaza de Toros \"La Concordia\"",
+                "en": "Plaza de Toros \"La Concordia\""
+              },
+              "tip_5lang": {
+                "de": "Der überdachte Rundgang schützt Sie vor dem Mittagsschauer; prüfen Sie Ihre Scheibenwischer für die Weiterfahrt durch die Stadt.",
+                "hu": "A fedett körfolyosó megvédi a déli záportól; ellenőrizze az ablaktörlőket, mielőtt folytatná az utat a városon keresztül.",
+                "ro": "Coridorul circular acoperit vă protejează de aversa de prânz; verificați ștergătoarele înainte de a continua drumul prin oraș.",
+                "en": "The covered circular corridor protects you from the midday shower; check your wipers before continuing through the city traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Polifórum Mier y Pesado",
+                "hu": "Polifórum Mier y Pesado",
+                "ro": "Polifórum Mier y Pesado",
+                "en": "Polifórum Mier y Pesado"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Hauptgebäude; drinnen finden Sie zahlreiche Museen und Restaurants, die alle komplett trocken erreichbar sind.",
+                "hu": "Parkoljon minél közelebb a főépülethez; bent számos múzeumot és éttermet talál, amelyek mind teljesen szárazon megközelíthetőek.",
+                "ro": "Parcați cât mai aproape de clădirea principală; în interior găsiți numeroase muzee și restaurante, toate accesibile fără a vă uda.",
+                "en": "Park as close to the main building as possible; inside you'll find numerous museums and restaurants, all accessible completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Hierro",
+                "hu": "Palacio de Hierro",
+                "ro": "Palacio de Hierro",
+                "en": "Palacio de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Eingang des Palastes genügt; genießen Sie das Klopfen des Regens auf dem Metalldach im Inneren.",
+                "hu": "Csak egy rövid sprint a parkolótól a palota bejáratáig; élvezze a fém tetőn kopogó eső hangját odabentről.",
+                "ro": "Doar un scurt sprint de la parcare la intrare; savurați sunetul ploii pe acoperișul metalic din interiorul clădirii.",
+                "en": "Just a short sprint from the parking lot to the palace entrance; enjoy the sound of the rain drumming on the metal roof from inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Reserva Animal Leones",
+                "hu": "Reserva Animal Leones",
+                "ro": "Reserva Animal Leones",
+                "en": "Reserva Animal Leones"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Löwen von den überdachten Aussichtspunkten; halten Sie die Autofenster bei der Anfahrt wegen des Spritzwassers geschlossen.",
+                "hu": "Figyelje meg az oroszlánokat a fedett kilátópontokról; tartsa zárva az autó ablakait érkezéskor a felcsapódó víz miatt.",
+                "ro": "Observați leii din punctele de vizionare acoperite; țineți geamurile mașinii închise la sosire din cauza apei de pe carosabil.",
+                "en": "Observe the lions from the covered viewing points; keep your car windows closed upon arrival due to the heavy road spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Metropolitano",
+                "hu": "Auditorio Metropolitano",
+                "ro": "Auditorio Metropolitano",
+                "en": "Auditorio Metropolitano"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss für einen Regentag im beheizten und trockenen Saal; die Tiefgarage bietet direkten Zugang zum Gebäude.",
+                "hu": "Tökéletes zárása az esős napnak a fűtött és száraz nézőtéren; a mélygarázs közvetlen hozzáférést biztosít az épülethez.",
+                "ro": "Încheierea perfectă pentru o zi ploioasă în sala încălzită și uscată; parcarea subterană oferă acces direct în clădire.",
+                "en": "The perfect end to a rainy day in the heated and dry hall; the underground parking provides direct access to the building."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist es im Auto angenehm warm auf dem Weg nach Casa Vegas. Die Wintersonne lässt die Stadt mittags hell erstrahlen. Da es gegen 17:00 Uhr dunkel wird, bietet die Autofahrt zum Eisenpalast eine tolle Aussicht auf die Stadtbeleuchtung. Beenden Sie den kühlen Winterabend im modernen Auditorio Metropolitano, wo Sie die Kälte draußen vergessen können.",
+            "hu": "Reggel az autóban kellemes meleg fogadja a Casa Vegas felé tartva. A téli napsütésben a város délben ragyogóan világos. Mivel 17:00 körül sötétedik, az autózás a vaspalota felé remek rálátást nyújt a városi fényekre. Zárja a hűvös téli estét a modern Auditorio Metropolitanóban, ahol feledheti a kinti hideget.",
+            "ro": "Dimineața este plăcut de cald în mașină spre Casa Vegas. Soarele de iarnă face orașul să strălucească la prânz. Deoarece se întunecă la ora 17:00, drumul spre palatul de fier oferă o priveliște excelentă asupra luminilor orașului. Încheiați seara răcoroasă la Auditorio Metropolitano, unde puteți uita de frigul de afară.",
+            "en": "In the morning, the car is comfortably warm on the way to Casa Vegas. The winter sun makes the city bright and clear at noon. Since it gets dark around 17:00, the drive to the Iron Palace offers a great view of the city lights. End your cool winter evening at the modern Auditorio Metropolitano, where you can forget the chill outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Vegas",
+                "hu": "Casa Vegas",
+                "ro": "Casa Vegas",
+                "en": "Casa Vegas"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Kälte ist in den offenen Bereichen spürbar; nutzen Sie die beheizte Klimaanlage Ihres Autos für die Aufwärmphasen dazwischen.",
+                "hu": "A reggeli hideg érezhető a nyitott részeken; használja az autó fűtését a köztes szakaszokban a bemelegedéshez.",
+                "ro": "Frigul dimineții este resimțit în zonele deschise; folosiți climatizarea mașinii pentru a vă încălzi între opriri.",
+                "en": "The morning chill is noticeable in the open areas; use your car's heater during the transitions to stay warm between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de Toros \"La Concordia\"",
+                "hu": "Plaza de Toros \"La Concordia\"",
+                "ro": "Plaza de Toros \"La Concordia\"",
+                "en": "Plaza de Toros \"La Concordia\""
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Mittag ist ideal für Fotos der Architektur; im Winter ist die Luft klarer, was für schärfere Aufnahmen der Arena sorgt.",
+                "hu": "A déli fények ideálisak az építészeti fotókhoz; télen a levegő tisztább, ami élesebb felvételeket tesz lehetővé az arénáról.",
+                "ro": "Lumina de la prânz este ideală pentru fotografii; iarna aerul este mai clar, ceea ce asigură cadre mai reușite ale arenei.",
+                "en": "The midday light is ideal for architectural photos; in winter the air is clearer, allowing for sharper shots of the arena."
+              }
+            },
+            {
+              "name": {
+                "de": "Polifórum Mier y Pesado",
+                "hu": "Polifórum Mier y Pesado",
+                "ro": "Polifórum Mier y Pesado",
+                "en": "Polifórum Mier y Pesado"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den Nachmittag in den warmen Museen; der Garten ist zwar schön, kühlt aber ab 16:00 Uhr bereits merklich ab.",
+                "hu": "Töltse a délutánt a meleg múzeumokban; a kert bár gyönyörű, 16:00 után már érezhetően hűvös a levegő.",
+                "ro": "Petreceți după-amiaza în muzeele călduroase; grădina este frumoasă, dar după ora 16:00 aerul devine considerabil mai rece.",
+                "en": "Spend the afternoon in the warm museums; the garden is beautiful, but the air cools down noticeably after 16:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Hierro",
+                "hu": "Palacio de Hierro",
+                "ro": "Palacio de Hierro",
+                "en": "Palacio de Hierro"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude wird um 17:00 Uhr beleuchtet; parken Sie gegenüber, um das Lichtspiel des Eisenpalastes in der Winterdämmerung zu sehen.",
+                "hu": "Az épületet 17:00-kor kivilágítják; parkoljon szemben, hogy láthassa a vaspalota fényjátékát a téli szürkületben.",
+                "ro": "Clădirea este iluminată la ora 17:00; parcați vizavi pentru a vedea jocul de lumini al palatului de fier în amurgul de iarnă.",
+                "en": "The building is illuminated at 17:00; park across the street to see the light display of the Iron Palace in the winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Reserva Animal Leones",
+                "hu": "Reserva Animal Leones",
+                "ro": "Reserva Animal Leones",
+                "en": "Reserva Animal Leones"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Tiere kurz vor Einbruch der Dunkelheit; die winterliche Kälte macht die Raubkatzen oft lebhafter als im Sommer.",
+                "hu": "Látogassa meg az állatokat közvetlenül sötétedés előtt; a téli hűvös gyakran élénkebbé teszi a nagymacskákat, mint nyáron.",
+                "ro": "Vizitați animalele chiar înainte de lăsarea întunericului; răcoarea iernii face felinele mari mai active decât în timpul verii.",
+                "en": "Visit the animals just before dark; the winter chill often makes the big cats more active than during the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Metropolitano",
+                "hu": "Auditorio Metropolitano",
+                "ro": "Auditorio Metropolitano",
+                "en": "Auditorio Metropolitano"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Abendkomfort in diesem modernen Bau; die Heizung sorgt für eine behagliche Atmosphäre nach einem langen Wintertag.",
+                "hu": "Élvezze az esti kényelmet ebben a modern épületben; a fűtés kellemes hangulatot biztosít a hosszú téli nap után.",
+                "ro": "Bucurați-vă de confortul serii în această clădire modernă; încălzirea asigură o atmosferă plăcută după o zi lungă de iarnă.",
+                "en": "Enjoy the evening comfort in this modern building; the heating provides a cozy atmosphere after a long winter day outdoors."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy békés sétával a Viktoriaparkban, beszívva a friss levegőt. Ezután induljon a városközpont felé, hogy a gyerekek nyújtózkodhassanak egyet a városháza melletti játszótéren.\n\nA nap közepe Velten gazdag ipari múltjának van szentelve. Merüljön el a Kályha- és Kerámiamúzeumban, és tudja meg, hogyan vált a város híressé a gyönyörű kályháiról.\n\nFolytassa a kulturális felfedezést közvetlenül a szomszédban, a Hedwig-Bollhagen-Gedenkstättében. Időtlen kerámia dizájnjai abszolút kötelező látnivalók a művészet és a történelem szerelmeseinek.\n\nZárja a kényelmes, gyalogos napot a Bergspielplatz felé sétálva. Ez egy pihentető módja a késő délután eltöltésének, élvezve a csendes külvárosi hangulatot a megérdemelt vacsora előtt.",
         "ro": "Începeți dimineața cu o plimbare liniștită prin Viktoriapark, bucurându-vă de aerul proaspăt. Apoi, îndreptați-vă spre centrul orașului pentru a lăsa copiii să se relaxeze la locul de joacă de la primărie.\n\nMijlocul zilei este dedicat bogatului trecut industrial al orașului Velten. Pătrundeți adânc în Muzeul Sobelor și Ceramicii, aflând cum a devenit orașul faimos pentru sobele sale rafinate.\n\nContinuați explorarea culturală chiar alături, la Hedwig-Bollhagen-Gedenkstätte. Designurile sale atemporale din ceramică sunt absolut de neratat pentru iubitorii de artă și istorie.\n\nÎncheiați-vă ziua de plimbare relaxantă îndreptându-vă spre Bergspielplatz. Este o modalitate liniștitoare de a petrece după-amiaza târziu, bucurându-vă de atmosfera liniștită din suburbii.",
         "en": "Begin your morning with a tranquil walk through Viktoriapark, taking in the fresh air. Afterward, head towards the town center to let the kids stretch at the Rathaus playground.\n\nThe middle of the day is dedicated to Velten's rich industrial past. Dive deep into the Ofen- und Keramikmuseum, learning how the town became famous for its exquisite stoves.\n\nContinue your cultural exploration right next door at the Hedwig-Bollhagen-Gedenkstätte. Her timeless ceramic designs are an absolute must-see for art and history lovers alike.\n\nWrap up your leisurely day on foot by strolling towards the Bergspielplatz. It is a relaxing way to spend the late afternoon, enjoying the quiet suburban atmosphere before dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Morgen im Viktoriapark; festes Schuhwerk ist bei Regen auf den Waldwegen ratsam. Mittags bieten die Museen den perfekten trockenen Rückzugsort vor dem Wetter. Die Spielplätze am Nachmittag sind nass und rutschig, Vorsicht ist geboten. Der Tag klingt bei einem gemütlichen Spaziergang durch die regennassen Gassen aus, während die Stadtlichter im Asphalt reflektieren.",
+            "hu": "Reggeli séta a Viktoriapark friss, esőáztatta fái között; vízálló cipő javasolt a felázott utak miatt. Délben a múzeumi negyed nyújt biztos, fedett menedéket az intenzívebb záporok elől. Délután a játszóterek csúszósak lehetnek, így csak rövid tartózkodást javaslunk. Estére a város csendesebb arcát mutatja a lámpafényben megcsillanó nedves aszfalton és a párás utcákon.",
+            "ro": "O dimineață revigorantă în Viktoriapark; încălțămintea rezistentă este recomandată pe aleile umede. La prânz, muzeele oferă refugiul perfect și uscat împotriva vremii nefavorabile. Locurile de joacă de după-amiază sunt ude și alunecoase, deci se recomandă prudență. Ziua se încheie cu o plimbare liniștită prin orașul ploios, admirând reflexiile luminilor pe asfaltul ud.",
+            "en": "Start the morning with a refreshing walk in Viktoriapark; waterproof gear is essential for the wet paths. By noon, head to the ceramic museum to find a warm and dry sanctuary from the rain. Afternoon visits to the playgrounds should be brief as equipment will be wet and slippery. The day ends with a peaceful stroll through the misty streets of Velten as the city lights glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Viktoriapark",
+                "hu": "Viktoriapark",
+                "ro": "Viktoriapark",
+                "en": "Viktoriapark"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die satten grünen Farben des Parks auch im Regen, aber tragen Sie unbedingt wasserfeste Wanderschuhe für die oft schlammigen Wege im Waldgebiet.",
+                "hu": "Csodálja meg a park üde zöld színeit az eleredő esőben is, de a felázott talaj és a sár miatt mindenképpen kényelmes, vízálló lábbelit válasszon a reggeli sétához.",
+                "ro": "Bucurați-vă de culorile verzi intense ale parcului chiar și pe ploaie, dar purtați neapărat încălțăminte impermeabilă pentru potecile care pot deveni noroioase.",
+                "en": "Enjoy the lush green colors of the park even in the rain, but be sure to wear waterproof hiking shoes for the forest paths that often become muddy and slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz am Rathaus",
+                "hu": "Spielplatz am Rathaus",
+                "ro": "Spielplatz am Rathaus",
+                "en": "Spielplatz am Rathaus"
+              },
+              "tip_5lang": {
+                "de": "Die Spielgeräte können bei Nässe sehr rutschig sein; prüfen Sie die Schaukeln vor der Benutzung und nutzen Sie die nahegelegenen Vordächer als kurzen Regenschutz.",
+                "hu": "A játékok az esőben nagyon csúszóssá válhatnak; használat előtt ellenőrizze a hintákat, és keressen menedéket a közeli épületek ereszei alatt a záporok idején.",
+                "ro": "Echipamentele de joacă pot fi foarte alunecoase când sunt ude; verificați leagănele înainte de utilizare și folosiți copertinele din apropiere pentru scurt adăpost.",
+                "en": "The playground equipment can be very slippery when wet; check the swings before use and take advantage of nearby overhangs for a quick shelter from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ofen- und Keramikmuseum Velten",
+                "hu": "Ofen- und Keramikmuseum Velten",
+                "ro": "Ofen- und Keramikmuseum Velten",
+                "en": "Ofen- und Keramikmuseum Velten"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Zufluchtsort bei Regen; verbringen Sie viel Zeit im Trockenen und bewundern Sie die kunstvollen Kachelöfen aus mehreren Jahrhunderten.",
+                "hu": "Ez a múzeum ideális menedék esős időben; töltsön el hosszabb időt a fedett kiállítótérben, és csodálja meg a több évszázados, díszes cserépkályhák gyűjteményét.",
+                "ro": "Acest muzeu este refugiul ideal pe timp de ploaie; petreceți mult timp la adăpost admirând sobele de teracotă ornamentate din mai multe secole trecute.",
+                "en": "This museum is the perfect sanctuary during rainy weather; spend plenty of time indoors admiring the ornate ceramic stoves from several past centuries."
+              }
+            },
+            {
+              "name": {
+                "de": "Hedwig-Bollhagen-Gedenkstätte",
+                "hu": "Hedwig-Bollhagen-Gedenkstätte",
+                "ro": "Hedwig-Bollhagen-Gedenkstätte",
+                "en": "Hedwig-Bollhagen-Gedenkstätte"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den regnerischen Nachmittag für einen ausgiebigen Besuch der Indoor-Ausstellung und lassen Sie sich von der zeitlosen Keramikkunst im Trockenen inspirieren.",
+                "hu": "Használja ki az esős délutánt a belső kiállítás alapos megtekintésére, és hagyja, hogy a kortalan kerámiaművészet inspirálja Önt a biztonságos, száraz falak között.",
+                "ro": "Folosiți după-amiaza ploioasă pentru o vizită detaliată a expoziției interioare și lăsați-vă inspirat de arta ceramică atemporală, stând la loc uscat.",
+                "en": "Take advantage of the rainy afternoon for an extensive visit to the indoor exhibition and let the timeless ceramic art inspire you while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergspielplatz",
+                "hu": "Bergspielplatz",
+                "ro": "Bergspielplatz",
+                "en": "Bergspielplatz"
+              },
+              "tip_5lang": {
+                "de": "Vom Hügel aus wirkt die Landschaft im Regen sehr mystisch; halten Sie Ihren Regenschirm gut fest, da es hier oben auf der Anhöhe oft windiger ist als im Ort.",
+                "hu": "A dombról nézve a táj misztikus arcát mutatja az esőben; tartsa erősen az esernyőjét, mert itt a magaslaton gyakran jóval erősebb a szél, mint a városban.",
+                "ro": "De pe deal, peisajul pare foarte mistic în ploaie; țineți bine umbrela, deoarece aici, pe înălțime, vântul este adesea mult mai puternic decât în localitate.",
+                "en": "The landscape looks very mystical in the rain from the hill; hold onto your umbrella tightly as it is often much windier up here on the elevation than in town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen im Park; bewegen Sie sich zügig zwischen den Bäumen, um bei der Winterluft warm zu bleiben. Verbringen Sie die Mittagsstunden in den beheizten Museen, wo die Geschichte der Öfen besonders gemütlich wirkt. Am Nachmittag genießen Sie die letzten Sonnenstrahlen am Spielplatz. Um 17 Uhr bricht bereits die Dunkelheit ein, ideal für einen Abendspaziergang.",
+            "hu": "Fagyos reggel a parkban; a zúzmarás fák között érdemes gyorsan haladni a meleg felé. A déli órákat töltsük a fűtött múzeumokban, ahol a kályhák története különösen hívogató a hidegben. Délután a játszótéren még elkaphatjuk az utolsó napsugarakat. Öt órakor, a korai sötétedéskor már a város fényeiben gyönyörködhetünk egy forró ital társaságában.",
+            "ro": "O dimineață geroasă în parc; mergeți repede printre copaci pentru a vă menține calzi în aerul de iarnă. Petreceți orele amiezii în muzeele încălzite, unde istoria sobelor este deosebit de primitoare. După-amiază, prindeți ultimele raze de soare la locul de joacă. Până la ora 17:00, se lasă întunericul, perfect pentru o plimbare sub luminile orașului.",
+            "en": "A frosty morning in the park; move quickly between the trees to stay warm in the crisp winter air. Spend the midday hours in the heated museums, where the history of stoves feels especially cozy. In the afternoon, catch the last rays of sun at the playground before the sunset. By 5 PM, enjoy the city lights as the early winter darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Viktoriapark",
+                "hu": "Viktoriapark",
+                "ro": "Viktoriapark",
+                "en": "Viktoriapark"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, strammer Spaziergang an der frischen Winterluft macht den Kopf frei; achten Sie auf vereiste Stellen auf den schattigen Waldwegen im Park.",
+                "hu": "Egy rövid, tempós séta a friss téli levegőn teljesen kitisztítja a fejet; ügyeljen az árnyékosabb erdei utakon előforduló jeges, csúszós szakaszokra.",
+                "ro": "O plimbare scurtă și rapidă în aerul proaspăt de iarnă vă va limpezi mintea; atenție la porțiunile înghețate de pe potecile umbrite din pădurea parcului.",
+                "en": "A short, brisk walk in the fresh winter air clears the head; watch out for icy patches on the shaded forest paths throughout the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz am Rathaus",
+                "hu": "Spielplatz am Rathaus",
+                "ro": "Spielplatz am Rathaus",
+                "en": "Spielplatz am Rathaus"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Kinder kurz herumtoben, um warm zu bleiben, aber achten Sie auf Reifglätte an den Metallgerüsten und halten Sie warme Handschuhe bereit.",
+                "hu": "Hagyja a gyerekeket kicsit szaladgálni, hogy kimelegedjenek, de figyeljen a fémvázakon megjelenő zúzmarára, és mindenképpen legyen náluk meleg kesztyű.",
+                "ro": "Lăsați copiii să alerge puțin pentru a se încălzi, dar aveți grijă la chiciura de pe cadrele metalice și asigurați-vă că poartă mănuși groase.",
+                "en": "Let the kids run around briefly to stay warm, but watch out for frost on the metal climbing frames and make sure they have warm gloves ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Ofen- und Keramikmuseum Velten",
+                "hu": "Ofen- und Keramikmuseum Velten",
+                "ro": "Ofen- und Keramikmuseum Velten",
+                "en": "Ofen- und Keramikmuseum Velten"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die behagliche Geschichte der Heiztechnik, die an einem frostigen Wintertag besonders relevant und im gut beheizten Gebäude sehr einladend ist.",
+                "hu": "Ismerje meg a fűtéstechnika otthonos történetét, amely egy fagyos téli napon különösen érdekes, a jól fűtött épületben pedig kifejezetten hívogató a látogatóknak.",
+                "ro": "Experimentați istoria confortabilă a tehnologiei de încălzire, care este deosebit de relevantă într-o zi geroasă de iarnă și foarte primitoare în clădirea încălzită.",
+                "en": "Experience the cozy history of heating technology, which feels especially relevant on a frosty winter day and is very welcoming inside the well-heated building."
+              }
+            },
+            {
+              "name": {
+                "de": "Hedwig-Bollhagen-Gedenkstätte",
+                "hu": "Hedwig-Bollhagen-Gedenkstätte",
+                "ro": "Hedwig-Bollhagen-Gedenkstätte",
+                "en": "Hedwig-Bollhagen-Gedenkstätte"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume bieten eine willkommene Pause vom kalten Wind; bewundern Sie die Handwerkskunst in Ruhe, bevor die Sonne am frühen Nachmittag tief steht.",
+                "hu": "A belső terek kellemes pihenőt nyújtanak a hideg szél elől; csodálja meg a kézműves remekeket nyugodt körülmények között, mielőtt a nap korán nyugovóra tér.",
+                "ro": "Spațiile interioare oferă o pauză binevenită de vântul rece; admirați măiestria artizanatului în liniște înainte ca soarele să apună devreme după-amiază.",
+                "en": "The indoor spaces provide a welcome break from the cold wind; admire the craftsmanship in peace before the sun sets early in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergspielplatz",
+                "hu": "Bergspielplatz",
+                "ro": "Bergspielplatz",
+                "en": "Bergspielplatz"
+              },
+              "tip_5lang": {
+                "de": "Versuchen Sie, den Sonnenuntergang gegen 17:00 Uhr von hier oben zu sehen, aber ziehen Sie sich warm an, da die Temperaturen auf dem Hügel schnell sinken.",
+                "hu": "Próbálja meg elcsípni a naplementét 17:00 óra körül innen a magaslatról, de öltözzön nagyon rétegesen, mert a dombon a hőmérséklet gyorsan süllyed.",
+                "ro": "Încercați să surprindeți apusul în jurul orei 17:00 de aici de sus, dar îmbrăcați-vă gros, deoarece temperaturile pe deal scad foarte rapid.",
+                "en": "Try to catch the sunset around 5:00 PM from up here on the hill, but dress warmly in layers as temperatures on the elevation drop very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje korán a kerékpáros kalandot, és tekerjen el a történelmi szélturbinához, megcsodálva a régi mérnöki munkát. Kerékpározzon vissza a városba egy békés pihenőre a Viktoriaparkban.\n\nEbédidőben Velten kulturális központjába érkezik. Parkolja le kerékpárjait a neves Kályha- és Kerámiamúzeumnál, hogy felfedezze a helyi kályhagyártás lenyűgöző történetét és emlékeit.\n\nMaradjon a múzeumi negyedben, és csodálja meg a gyönyörű mindennapi kerámiákat a Hedwig-Bollhagen-Gedenkstättében. Ez egy hálás kulturális elmélyülés, mielőtt újra nyeregbe pattan.\n\nAz utolsó fénysugarakkal tekerjen kelet felé a Bernsteinsee környékére. A homokos partok és a nyugodt víz tökéletes, frissítő lezárást kínálnak egy aktív kerékpáros napnak.",
         "ro": "Începeți aventura cu bicicleta devreme, pedalând până la turbina eoliană istorică, admirând ingineria de epocă. Întoarceți-vă în oraș pentru o oprire liniștită în Viktoriapark.\n\nOra prânzului vă aduce în inima culturală a orașului Velten. Parcați bicicletele la renumitul Muzeu al Sobelor și Ceramicii pentru a explora istoria fascinantă a producției locale.\n\nRămâneți în cartierul muzeelor pentru a admira ceramica de uz zilnic la Hedwig-Bollhagen-Gedenkstätte. Este o imersiune culturală plină de satisfacții înainte de a urca din nou în șa.\n\nMergeți spre est, spre zona Bernsteinsee, odată cu lăsarea serii. Țărmurile nisipoase și apele liniștite oferă o concluzie perfectă și răcoritoare pentru o zi activă de ciclism.",
         "en": "Start your cycling adventure early by riding out to the historical Windkraftanlage, marveling at the vintage engineering. Pedal back into town for a peaceful stop at Viktoriapark.\n\nLunchtime brings you to the cultural heart of Velten. Park your bikes at the renowned Ofen- und Keramikmuseum to explore the fascinating history of local stove manufacturing.\n\nStay in the museum quarter to admire the beautiful daily-use ceramics at the Hedwig-Bollhagen-Gedenkstätte. It’s a rewarding cultural immersion before hopping back on the saddle.\n\nRide eastward towards the Bernsteinsee area as the afternoon fades. The sandy shores and calm waters offer the perfect, refreshing conclusion to an active day of cycling."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine sportliche Fahrt durch Pfützen zu den Windrädern; Regenkleidung ist heute Ihr bester Begleiter. Mittags bieten die Museen in der Stadt einen trockenen Zufluchtsort für eine längere Pause. Die Wege zum Bernsteinsee können rutschig sein, fahren Sie vorsichtig. Der Tag endet mit einer kühlen, aber erfrischenden Rückfahrt durch den leichten Nieselregen nach Velten.",
+            "hu": "Sportos tekerés a tócsák között a szélerőművekig; ma a legjobb barátja az esőálló öltözet lesz. Délben a városi múzeumok száraz menedéket nyújtanak egy hosszabb pihenőhöz. A Bernsteinsee felé vezető utak csúszósak lehetnek, óvatosan közlekedjen. A nap egy hűvös, de frissítő tekeréssel zárul a szemerkélő esőben Velten felé.",
+            "ro": "O cursă sportivă prin bălți până la turbinele eoliene; hainele de ploaie sunt cel mai bun aliat astăzi. La prânz, muzeele din oraș oferă un adăpost uscat pentru o pauză prelungită. Drumurile spre Bernsteinsee pot fi alunecoase, pedalați cu atenție. Ziua se încheie cu o cursă răcoroasă, dar revigorantă prin ploaia ușoară înapoi spre Velten.",
+            "en": "A sporty ride through puddles to the wind turbines; rain gear is your best companion today. At noon, the town's museums provide a dry sanctuary for an extended break from the weather. The paths to Bernsteinsee can be slippery, so ride carefully. The day ends with a cool but refreshing cycle through the light drizzle back to Velten."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windkraftanlage",
+                "hu": "Windkraftanlage",
+                "ro": "Windkraftanlage",
+                "en": "Windkraftanlage"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die riesigen Flügel in den tief hängenden Regenwolken verschwinden, aber meiden Sie die unbefestigten Wege, die extrem schlammig werden.",
+                "hu": "Nézze meg, ahogy a hatalmas lapátok eltűnnek az alacsonyan szálló esőfelhőkben, de kerülje a burkolatlan utakat, mert azok rendkívül sárosak ilyenkor.",
+                "ro": "Priviți cum palele uriașe dispar în norii de ploaie joși, dar evitați drumurile neasfaltate care devin extrem de noroioase în această perioadă.",
+                "en": "Watch the massive blades disappear into the low-hanging rain clouds, but avoid the unpaved paths as they become extremely muddy during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Viktoriapark",
+                "hu": "Viktoriapark",
+                "ro": "Viktoriapark",
+                "en": "Viktoriapark"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den nassen Asphaltwegen im Park, um Aquaplaning zu vermeiden, und genießen Sie die frische, saubere Luft nach dem ersten Regenguss.",
+                "hu": "Hajtson lassan a park vizes aszfaltútjain a megcsúszás elkerülése érdekében, és élvezze az első kiadós eső utáni friss, tiszta levegőt a fák között.",
+                "ro": "Pedalați încet pe aleile asfaltate umede din parc pentru a evita deraparea și bucurați-vă de aerul proaspăt și curat după prima rafală de ploaie.",
+                "en": "Ride slowly on the wet asphalt paths in the park to avoid skidding and enjoy the fresh, clean air among the trees after the first heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ofen- und Keramikmuseum Velten",
+                "hu": "Ofen- und Keramikmuseum Velten",
+                "ro": "Ofen- und Keramikmuseum Velten",
+                "en": "Ofen- und Keramikmuseum Velten"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Dach und wärmen Sie sich im Museum auf, während Sie mehr über die lokale Industrie im Schutz der dicken Mauern erfahren.",
+                "hu": "Parkolja le kerékpárját az ereszek alatt, és melegedjen fel a múzeumban, miközben a vastag falak védelmében megismeri a helyi ipar izgalmas történetét.",
+                "ro": "Parcați bicicleta sub adăpost și încălziți-vă în muzeu în timp ce aflați mai multe despre industria locală sub protecția zidurilor groase.",
+                "en": "Park your bike under the shelter and warm up in the museum while learning more about the local industry under the protection of the thick walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Hedwig-Bollhagen-Gedenkstätte",
+                "hu": "Hedwig-Bollhagen-Gedenkstätte",
+                "ro": "Hedwig-Bollhagen-Gedenkstätte",
+                "en": "Hedwig-Bollhagen-Gedenkstätte"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Regenpause; lassen Sie Ihre nasse Jacke an der Garderobe und tauchen Sie ein in die Welt der Keramik, während es draußen stürmt.",
+                "hu": "Ideális helyszín egy eső miatti kényszerpihenőhöz; hagyja a vizes kabátját a ruhatárban, és merüljön el a kerámiák világában, amíg odakint esik.",
+                "ro": "Un loc ideal pentru o pauză de ploaie; lăsați jacheta udă la garderobă și scufundați-vă în lumea ceramicii în timp ce afară plouă torențial.",
+                "en": "An ideal spot for a rain break; leave your wet jacket at the cloakroom and immerse yourself in the world of ceramics while it storms outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bernsteinsee Velten",
+                "hu": "Bernsteinsee Velten",
+                "ro": "Bernsteinsee Velten",
+                "en": "Bernsteinsee Velten"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt bei grauem Himmel sehr dramatisch; nutzen Sie die überdachten Bereiche am Ufer für einen kurzen Blick auf das aufgewühlte Wasser.",
+                "hu": "A tó a szürke égbolt alatt rendkívül drámai látványt nyújt; használja a tóparti fedett részeket, hogy vessen egy pillantást a felkorbácsolt vízre.",
+                "ro": "Lacul pare foarte dramatic sub cerul gri; folosiți zonele acoperite de pe mal pentru a arunca o privire scurtă asupra apei agitate de ploaie.",
+                "en": "The lake looks very dramatic under the grey sky; use the covered areas on the shore to catch a quick glimpse of the restless water during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bernsteinsee",
+                "hu": "Bernsteinsee",
+                "ro": "Bernsteinsee",
+                "en": "Bernsteinsee"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Rückweg auf Schlamm auf den Reifen; der Weg um den See kann bei starkem Regen sehr rutschig und schwierig zu befahren sein.",
+                "hu": "Visszafelé ügyeljen a gumikra tapadt sárra; a tó körüli út heves esőzéskor nagyon csúszóssá és nehezen járhatóvá válhat a kerékpárosok számára.",
+                "ro": "La întoarcere, atenție la noroiul de pe anvelope; drumul din jurul lacului poate deveni foarte alunecos și dificil de parcurs în caz de ploaie torențială.",
+                "en": "Watch out for mud on your tires on the way back; the path around the lake can become very slippery and difficult to navigate during heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Fahrt durch die klare Winterlandschaft; ziehen Sie sich winddicht an für den Weg zu den Windrädern. Mittags lockt die Wärme der Museen für eine ausgiebige Pause zum Aufwärmen der Hände. Am Nachmittag bietet der gefrorene Bernsteinsee eine stille Kulisse. Vor dem Sonnenuntergang um 17 Uhr erreichen Sie wieder das Stadtzentrum von Velten.",
+            "hu": "Fagyos tekerés a tiszta téli tájon; öltözzön szélállóan a szélerőművek felé vezető úton. Délben a múzeumok melege hívogatja egy alapos pihenőre, hogy átmelegedjenek a kezei. Délután a befagyott Bernsteinsee csendes látványa fogadja. A korai, 17 órai napnyugta előtt érdemes visszaérni Velten központjába.",
+            "ro": "O cursă geroasă prin peisajul clar de iarnă; îmbrăcați-vă cu haine rezistente la vânt pentru drumul spre turbine. La prânz, căldura muzeelor vă atrage pentru o pauză lungă de încălzire. După-amiază, lacul înghețat oferă un decor liniștit. Înainte de apusul de la ora 17:00, veți ajunge înapoi în centrul orașului Velten.",
+            "en": "A frosty ride through the clear winter landscape; dress in windproof gear for the trip out to the wind turbines. At noon, the warmth of the museums beckons for a long break to warm up your hands. In the afternoon, the frozen lake provides a silent backdrop. Before the early sunset at 5 PM, head back to the Velten town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windkraftanlage",
+                "hu": "Windkraftanlage",
+                "ro": "Windkraftanlage",
+                "en": "Windkraftanlage"
+              },
+              "tip_5lang": {
+                "de": "Die Stahlkonstruktionen wirken gegen den Winterhimmel beeindruckend, aber es ist hier extrem windig und kalt; halten Sie Ihren Aufenthalt kurz und sportlich.",
+                "hu": "Az acélszerkezetek lenyűgözően mutatnak a téli égbolt előtt, de itt rendkívül szeles és hideg az idő; tartsa a látogatást röviden és sportosan.",
+                "ro": "Construcțiile metalice par impresionante pe cerul de iarnă, dar aici este extrem de vânt și frig; păstrați vizita scurtă și mergeți rapid spre căldură.",
+                "en": "The steel structures look impressive against the winter sky, but it is extremely windy and cold here; keep your visit short and stay active to keep warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Viktoriapark",
+                "hu": "Viktoriapark",
+                "ro": "Viktoriapark",
+                "en": "Viktoriapark"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des Parks im Winter; achten Sie beim Radfahren besonders auf überfrierende Nässe an Brücken und in schattigen Senken.",
+                "hu": "Élvezze a téli park csendjét; kerékpározás közben különösen ügyeljen a hidakon és az árnyékos mélyedésekben előforduló hirtelen lefagyásokra.",
+                "ro": "Bucurați-vă de liniștea parcului iarna; când pedalați, fiți atenți la gheața care se poate forma pe poduri și în zonele joase umbrite ale aleilor.",
+                "en": "Enjoy the silence of the winter park; while cycling, pay close attention to black ice on bridges and in shaded hollows throughout the park grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Ofen- und Keramikmuseum Velten",
+                "hu": "Ofen- und Keramikmuseum Velten",
+                "ro": "Ofen- und Keramikmuseum Velten",
+                "en": "Ofen- und Keramikmuseum Velten"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel, um die kalten Füße nach der Radtour wieder aufzuwärmen; die Ausstellungen zur Kacheltradition passen perfekt zur frostigen Jahreszeit.",
+                "hu": "Ideális célpont, hogy a kerékpártúra után átmelegítse átfagyott lábait; a csempékről szóló kiállítások tökéletesen illenek a zord, téli évszakhoz.",
+                "ro": "Destinația ideală pentru a vă încălzi picioarele reci după tura cu bicicleta; expozițiile despre tradiția sobelor se potrivesc perfect cu sezonul rece.",
+                "en": "The ideal destination to warm up your cold feet after the bike ride; the exhibitions on stove traditions fit perfectly with the frosty winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Hedwig-Bollhagen-Gedenkstätte",
+                "hu": "Hedwig-Bollhagen-Gedenkstätte",
+                "ro": "Hedwig-Bollhagen-Gedenkstätte",
+                "en": "Hedwig-Bollhagen-Gedenkstätte"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den beheizten Innenraum für eine kulturelle Pause, bevor Sie die letzte Etappe der Tour im Dämmerlicht antreten.",
+                "hu": "Parkolja le biztonságosan kerékpárját, és használja a fűtött belső teret egy kulturális pihenőre, mielőtt nekivág a túra utolsó szakaszának a szürkületben.",
+                "ro": "Parcați bicicleta în siguranță și folosiți interiorul încălzit pentru o pauză culturală înainte de a porni pe ultima etapă a turului în amurg.",
+                "en": "Park your bike safely and use the heated interior for a cultural break before starting the last stage of the tour in the fading twilight light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bernsteinsee Velten",
+                "hu": "Bernsteinsee Velten",
+                "ro": "Bernsteinsee Velten",
+                "en": "Bernsteinsee Velten"
+              },
+              "tip_5lang": {
+                "de": "Die weite Fläche des Sees wirkt im Winter fast unendlich; tragen Sie dicke Socken und Handschuhe, da der Wind hier ungehindert über das Wasser fegt.",
+                "hu": "A tó hatalmas felülete télen szinte végtelennek tűnik; viseljen vastag zoknit és kesztyűt, mert a szél akadálytalanul söpör végig a víz felett.",
+                "ro": "Suprafața vastă a lacului pare aproape infinită iarna; purtați șosete groase și mănuși, deoarece vântul suflă neîngrădit peste apă aici.",
+                "en": "The vast surface of the lake looks almost infinite in winter; wear thick socks and gloves as the wind sweeps unchecked across the open water here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bernsteinsee",
+                "hu": "Bernsteinsee",
+                "ro": "Bernsteinsee",
+                "en": "Bernsteinsee"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto vom gefrorenen See, bevor das Licht um 17 Uhr schwindet; prüfen Sie Ihre Fahrradbeleuchtung für die Rückfahrt in der Dunkelheit.",
+                "hu": "Készítsen fotót a befagyott tóról, mielőtt 17 órakor elfogy a fény; mindenképpen ellenőrizze a kerékpárja világítását a sötétben való hazatéréshez.",
+                "ro": "Faceți o fotografie lacului înghețat înainte ca lumina să scadă la ora 17:00; verificați luminile bicicletei pentru drumul de întoarcere pe întuneric.",
+                "en": "Take a photo of the frozen lake before the light fades at 5 PM; be sure to check your bike lights for the return journey in the early winter darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen a festői Bernsteinsee-hez, hogy a tóparti nyugalommal kezdje a napot. Innen könnyedén visszanavigálhat a városba, rövid megállót tartva a Bergspielplatzon egy kis családi mókára.\n\nKövetkező lépésként parkoljon le a városháza közelében egy rövid játszótéri szünetre, mielőtt a kályhamúzeumba indulna. Velten legendás cserépkályháinak felfedezése a déli órák fénypontja.\n\nCsak néhány lépésre innen, fedezze fel a Hedwig-Bollhagen-Gedenkstättét, és tekintse meg ikonikus Bauhaus dizájnjait. Utána tegyen egy rövid utat a Viktoriaparkba egy kellemes délutáni sétára.\n\nFejezze be autós túráját a város déli szélén, a történelmi szélturbina közelében. A lenyűgöző régi építmény magasan emelkedik az esti égbolt felé, kiváló utolsó fotózási lehetőséget kínálva.",
         "ro": "Conduceți până la pitorescul Bernsteinsee pentru a vă începe ziua cu liniștea lacului. De acolo, navigați ușor înapoi în oraș, oprindu-vă scurt pentru distracție în familie la Bergspielplatz.\n\nApoi, parcați lângă primărie pentru o scurtă pauză la locul de joacă înainte de a merge la Muzeul Sobelor. Descoperirea legendarelor sobe de teracotă este punctul culminant al prânzului.\n\nLa doar câțiva pași distanță, explorați Hedwig-Bollhagen-Gedenkstätte pentru a vedea designurile sale Bauhaus. Apoi, faceți o scurtă plimbare cu mașina până la Viktoriapark.\n\nÎncheiați-vă turul cu mașina la marginea de sud a orașului, lângă turbina eoliană istorică. Impresionanta structură veche se înalță pe cerul serii, o excelentă oportunitate finală de a face poze.",
         "en": "Drive out to the scenic Bernsteinsee to start your day with lakeside tranquility. From there, easily navigate back into the town, stopping briefly for family fun at Bergspielplatz.\n\nNext, park near the town hall for a quick playground break before heading to the Ofen- und Keramikmuseum. Discovering Velten's legendary ceramic stoves is a midday highlight.\n\nJust steps away, explore the Hedwig-Bollhagen-Gedenkstätte to see her iconic Bauhaus designs. Afterward, take a short drive to Viktoriapark for a pleasant afternoon stroll in the shade.\n\nConclude your driving tour at the southern edge of town near the historic Windkraftanlage. The impressive old structure stands tall against the evening sky, a great final photo op."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequemes Sightseeing im Auto, während der Regen gegen die Scheiben prasselt. Die Fahrt zum Bernsteinsee bietet tolle Ausblicke im Trockenen. Mittags sind die Museen das Highlight, da sie lange Aufenthalte im Warmen ermöglichen. Am Nachmittag lassen sich die Spielplätze und Parks kurz besichtigen, bevor man den Tag gemütlich im Auto bei der Windkraftanlage ausklingen lässt.",
+            "hu": "Kényelmes városnézés autóval, miközben az eső kopog a szélvédőn. A Bernsteinsee felé vezető út szárazon is remek kilátást nyújt a tájra. Napközben a múzeumok jelentik a fő attrakciót, ahol hosszú időt tölthetünk a melegben. Délután a parkok és játszóterek rövid látogatása után az autó kényelméből csodálhatjuk meg a szélerőműveket.",
+            "ro": "Vizitarea confortabilă a orașului cu mașina, în timp ce ploaia bate în parbriz. Drumul spre Bernsteinsee oferă priveliști grozave stând la loc uscat. La prânz, muzeele sunt punctul culminant, permițând șederi lungi la căldură. După-amiază, parcurile pot fi vizitate scurt, înainte de a încheia ziua confortabil în mașină lângă turbine.",
+            "en": "Comfortable sightseeing by car while the rain drums against the windows. The drive to Bernsteinsee offers great views while staying completely dry. At midday, the museums are the highlight, allowing for long stays in the warm. In the afternoon, parks and playgrounds can be visited briefly before ending the day cozy in the car near the wind turbines."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bernsteinsee",
+                "hu": "Bernsteinsee",
+                "ro": "Bernsteinsee",
+                "en": "Bernsteinsee"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am See für einen tollen Blick aus dem trockenen Auto; für einen kurzen Spaziergang am Ufer ist ein Regenschirm ratsam.",
+                "hu": "Használja a közvetlenül a tónál lévő parkolót a remek kilátáshoz a száraz autóból; a tóparti rövid sétához mindenképpen vigyen magával esernyőt.",
+                "ro": "Folosiți parcarea direct de lângă lac pentru o priveliște excelentă din mașina uscată; pentru o scurtă plimbare pe mal, este recomandată o umbrelă.",
+                "en": "Use the parking lot directly by the lake for a great view from the dry car; for a short walk along the shore, an umbrella is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergspielplatz",
+                "hu": "Bergspielplatz",
+                "ro": "Bergspielplatz",
+                "en": "Bergspielplatz"
+              },
+              "tip_5lang": {
+                "de": "Da der Spielplatz auf einer Anhöhe liegt, kann der Regen hier peitschen; parken Sie nah am Eingang und nutzen Sie Regenpausen für kurze Klettereinheiten.",
+                "hu": "Mivel a játszótér magaslaton van, az eső itt erősebben verhet; parkoljon közel a bejárathoz, és csak az esőszünetekben próbálják ki a mászókákat.",
+                "ro": "Deoarece locul de joacă este pe o înălțime, ploaia poate fi mai puternică aici; parcați aproape de intrare și profitați de pauzele de ploaie pentru joacă.",
+                "en": "Since the playground is on an elevation, rain can be driving here; park close to the entrance and use rain breaks for short climbing sessions for kids."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz am Rathaus",
+                "hu": "Spielplatz am Rathaus",
+                "ro": "Spielplatz am Rathaus",
+                "en": "Spielplatz am Rathaus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die zentralen Parkmöglichkeiten und besuchen Sie den Spielplatz nur kurz, wenn es nicht zu stark regnet; die umliegenden Cafés bieten Schutz.",
+                "hu": "Használja ki a központi parkolási lehetőségeket, és csak rövid időre látogassanak ki a játékokhoz, ha épp nem esik; a közeli kávézók jó menedéket nyújtanak.",
+                "ro": "Profitați de parcările centrale și vizitați locul de joacă doar scurt dacă nu plouă prea tare; cafenelele din jur oferă adăpost excelent în caz de nevoie.",
+                "en": "Take advantage of central parking options and visit the playground only briefly if it's not raining too hard; surrounding cafes offer good shelter if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Ofen- und Keramikmuseum Velten",
+                "hu": "Ofen- und Keramikmuseum Velten",
+                "ro": "Ofen- und Keramikmuseum Velten",
+                "en": "Ofen- und Keramikmuseum Velten"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem auf dem Museumsgelände und verbringen Sie einen entspannten, trockenen Nachmittag in den faszinierenden Ausstellungsräumen der Fabrik.",
+                "hu": "Parkoljon kényelmesen a múzeum területén, és töltsön el egy pihentető, száraz délutánt a gyárépület lenyűgöző és meleg kiállítótermeiben barangolva.",
+                "ro": "Parcați confortabil în incinta muzeului și petreceți o după-amiază relaxată și uscată în spațiile de expoziție fascinante ale vechii fabrici de ceramică.",
+                "en": "Park comfortably on the museum grounds and spend a relaxed, dry afternoon wandering through the fascinating exhibition rooms of the old factory."
+              }
+            },
+            {
+              "name": {
+                "de": "Hedwig-Bollhagen-Gedenkstätte",
+                "hu": "Hedwig-Bollhagen-Gedenkstätte",
+                "ro": "Hedwig-Bollhagen-Gedenkstätte",
+                "en": "Hedwig-Bollhagen-Gedenkstätte"
+              },
+              "tip_5lang": {
+                "de": "Die Gedenkstätte ist nur wenige Schritte vom Parkplatz entfernt, sodass Sie auch bei starkem Regen trockenen Fußes zur Keramikkunst gelangen können.",
+                "hu": "Az emlékhely mindössze néhány lépésre található a parkolótól, így még heves esőzés esetén is száraz lábbal juthat el a csodás kerámiakiállításhoz.",
+                "ro": "Memorialul este la doar câțiva pași de parcare, astfel încât puteți ajunge la arta ceramică cu picioarele uscate chiar și în caz de ploaie torențială.",
+                "en": "The memorial is just a few steps from the parking lot, so you can reach the ceramic art with dry feet even during heavy rain or storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Viktoriapark",
+                "hu": "Viktoriapark",
+                "ro": "Viktoriapark",
+                "en": "Viktoriapark"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner Spaziergang unter den dichten Baumkronen bietet oft natürlichen Schutz vor leichtem Regen; parken Sie direkt am Parkeingang für kurze Wege.",
+                "hu": "Egy rövid séta a sűrű lombkoronák alatt gyakran természetes védelmet nyújt az enyhe eső ellen; parkoljon közvetlenül a bejáratnál a rövid utakért.",
+                "ro": "O scurtă plimbare sub coronamentul dens al copacilor oferă adesea protecție naturală împotriva ploii ușoare; parcați chiar la intrarea în parc.",
+                "en": "A short walk under the dense tree canopies often provides natural protection from light rain; park right at the entrance for minimal exposure to wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Windkraftanlage",
+                "hu": "Windkraftanlage",
+                "ro": "Windkraftanlage",
+                "en": "Windkraftanlage"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkrand aus haben Sie einen tollen Blick auf die Windräder, ohne das Auto verlassen zu müssen; ideal, um das Wetterspiel am Himmel zu beobachten.",
+                "hu": "A park széléről remek kilátás nyílik a szélerőművekre anélkül, hogy ki kellene szállnia az autóból; ideális az égbolton zajló látványos vihar megfigyelésére.",
+                "ro": "De la marginea parcului aveți o priveliște excelentă asupra turbinelor eoliene fără a fi nevoie să coborâți din mașină; ideal pentru a observa cerul.",
+                "en": "From the edge of the park, you have a great view of the wind turbines without needing to leave the car; ideal for watching the dramatic weather in the sky."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterlicher Roadtrip durch Velten mit warmen Zwischenstopps. Starten Sie am Bernsteinsee für ein eisiges Panorama, gefolgt von kurzen Aufenthalten an den Spielplätzen. Mittags bieten die beheizten Museen eine perfekte kulturelle Pause. Den Sonnenuntergang gegen 17 Uhr erleben Sie am besten bei der Windkraftanlage, bevor es zurück in die gemütliche Stadt geht.",
+            "hu": "Téli autós kirándulás Veltenben, meleg pihenőkkel tarkítva. Kezdje a Bernsteinsee jeges panorámájával, majd tegyen rövid megállókat a játszótereknél. Délben a fűtött múzeumok tökéletes kulturális kikapcsolódást nyújtanak. A 17 óra körüli napnyugtát legszebb a szélerőműveknél megvárni, mielőtt visszatérne a városba.",
+            "ro": "Excursie de iarnă cu mașina prin Velten, cu opriri calde. Începeți la Bernsteinsee pentru o panoramă înghețată, urmată de scurte opriri la locurile de joacă. La prânz, muzeele încălzite oferă o pauză culturală perfectă. Apusul de la ora 17:00 este cel mai bine văzut la turbine, înainte de a reveni în orașul primitor.",
+            "en": "A winter road trip through Velten with warm stops in between. Start at Bernsteinsee for an icy panorama, followed by brief visits to the playgrounds. At midday, the heated museums offer a perfect cultural break from the cold. Experience the 5 PM sunset best at the wind turbines before heading back into the cozy town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bernsteinsee",
+                "hu": "Bernsteinsee",
+                "ro": "Bernsteinsee",
+                "en": "Bernsteinsee"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den oft gefrorenen See aus der Wärme Ihres Autos; für ein kurzes Foto am Ufer sollten Sie unbedingt Mütze und Schal anlegen.",
+                "hu": "Élvezze a kilátást a gyakran befagyott tóra az autója melegéből; egy gyors tóparti fotóhoz mindenképpen vegyen fel sapkát, sálat és meleg kesztyűt.",
+                "ro": "Bucurați-vă de priveliștea lacului adesea înghețat din căldura mașinii; pentru o fotografie scurtă pe mal, purtați neapărat căciulă și fular groase.",
+                "en": "Enjoy the view of the often-frozen lake from the warmth of your car; for a quick photo on the shore, be sure to put on a warm hat, scarf, and gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Bergspielplatz",
+                "hu": "Bergspielplatz",
+                "ro": "Bergspielplatz",
+                "en": "Bergspielplatz"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Hügel weht im Winter ein eisiger Wind; lassen Sie die Kinder nur kurz toben, damit sie nicht auskühlen, und nutzen Sie die Sitzheizung im Auto.",
+                "hu": "A dombon télen jeges szél fúj; csak rövid ideig hagyja a gyerekeket szaladgálni, hogy ne fázzanak meg, majd melegedjenek fel az autó ülésfűtésével.",
+                "ro": "Pe deal bate un vânt înghețat iarna; lăsați copiii să se joace doar scurt timp pentru a nu răci și folosiți încălzirea scaunelor din mașină apoi.",
+                "en": "An icy wind blows on the hill in winter; let the kids play only briefly so they don't get too cold, then warm up using the seat heaters in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Spielplatz am Rathaus",
+                "hu": "Spielplatz am Rathaus",
+                "ro": "Spielplatz am Rathaus",
+                "en": "Spielplatz am Rathaus"
+              },
+              "tip_5lang": {
+                "de": "Dank der zentralen Lage erreichen Sie schnell wieder die Wärme des Autos oder eines nahegelegenen Geschäfts, falls es draußen für die Kinder zu frostig wird.",
+                "hu": "A központi elhelyezkedésnek köszönhetően gyorsan visszaérhet az autó melegébe vagy egy közeli üzletbe, ha odakint túl fagyosnak bizonyulna az időjárás.",
+                "ro": "Datorită locației centrale, puteți ajunge rapid înapoi la căldura mașinii sau la un magazin din apropiere dacă afară devine prea geroasă vremea.",
+                "en": "Thanks to the central location, you can quickly reach the warmth of the car or a nearby shop if it gets too frosty outside for the children to play."
+              }
+            },
+            {
+              "name": {
+                "de": "Ofen- und Keramikmuseum Velten",
+                "hu": "Ofen- und Keramikmuseum Velten",
+                "ro": "Ofen- und Keramikmuseum Velten",
+                "en": "Ofen- und Keramikmuseum Velten"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss im Winter; die Ausstellung über historische Kachelöfen wärmt das Herz, während das Gebäude Schutz vor dem nasskalten Wetter bietet.",
+                "hu": "Télen kötelező program; a történelmi cserépkályhákról szóló kiállítás melengeti a szívet, miközben az épület védelmet nyújt a metsző, hideg szél ellen.",
+                "ro": "O vizită obligatorie iarna; expoziția despre sobele istorice vă va încânta, în timp ce clădirea oferă protecție împotriva vremii reci și umede de afară.",
+                "en": "A must-visit in winter; the exhibition about historic ceramic stoves warms the heart while the building provides shelter from the biting cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Hedwig-Bollhagen-Gedenkstätte",
+                "hu": "Hedwig-Bollhagen-Gedenkstätte",
+                "ro": "Hedwig-Bollhagen-Gedenkstätte",
+                "en": "Hedwig-Bollhagen-Gedenkstätte"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto zur Ausstellung, um sich im Winter mit hochwertiger Keramikkunst zu beschäftigen, ohne lange im Frost stehen zu müssen.",
+                "hu": "Használja ki az autótól a kiállításig tartó rövid utat, hogy télen is élvezhesse a minőségi kerámiaművészetet anélkül, hogy sokáig a fagyban kellene állnia.",
+                "ro": "Profitați de drumul scurt de la mașină la expoziție pentru a vă bucura de arta ceramică de calitate iarna, fără a fi nevoie să stați mult timp în ger.",
+                "en": "Take advantage of the short walk from the car to the exhibition to enjoy quality ceramic art in winter without having to stand in the frost for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Viktoriapark",
+                "hu": "Viktoriapark",
+                "ro": "Viktoriapark",
+                "en": "Viktoriapark"
+              },
+              "tip_5lang": {
+                "de": "Die verschneiten oder frostigen Bäume sind ein tolles Fotomotiv; parken Sie direkt am Rand des Parks, um nur eine kleine, erfrischende Winterrunde zu drehen.",
+                "hu": "A havas vagy zúzmarás fák remek fotótémát szolgáltatnak; parkoljon közvetlenül a park szélén, hogy csak egy kisebb, frissítő téli kört tegyen a fák között.",
+                "ro": "Copacii înzăpeziți sau înghețați sunt un motiv fotografic excelent; parcați chiar la marginea parcului pentru o tură scurtă și revigorantă de iarnă.",
+                "en": "The snowy or frosty trees are a great photo motive; park right at the edge of the park to take just a small, refreshing winter stroll among the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Windkraftanlage",
+                "hu": "Windkraftanlage",
+                "ro": "Windkraftanlage",
+                "en": "Windkraftanlage"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang um 17 Uhr direkt am Feldrand; im Auto bleibt es dabei angenehm warm, während draußen der Winterwind weht.",
+                "hu": "Élje át a korai, 17 órai napnyugtát közvetlenül a mező szélén; az autóban kellemesen meleg marad, miközben odakint süvít a fagyos téli szél a gép óriások között.",
+                "ro": "Experimentați apusul devreme de la ora 17:00 chiar la marginea câmpului; în mașină rămâne cald și bine, în timp ce afară suflă vântul rece de iarnă.",
+                "en": "Experience the early sunset at 5 PM right by the field; it stays pleasantly warm in the car while the winter wind blows outside among the giant machines."
+              }
+            }
+          ]
+        }
       }
     }
   }

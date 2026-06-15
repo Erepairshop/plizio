@@ -137,6 +137,168 @@
         "hu": "A reggel a helyi történelem csendes elmerülésével kezdődik a könyvtárnál és a háborús emlékműnél, mielőtt felfedezné a Szent Margit-templomot. A dél a part felé visz, lassan leereszkedve a Westward Ho! hatalmas homokjához. A délutánt a lenyűgöző Pebble Ridge mentén sétálva tölti, élvezve az óceáni szellőt. Az este békés tengerparti naplementét hoz.",
         "ro": "Dimineața începe cu o imersiune liniștită în istoria civică la biblioteca locală și monumentul eroilor, înainte de a explora Biserica Sf. Margareta. Amiaza vă duce spre coastă, coborând încet spre nisipurile vaste de la Westward Ho!. După-amiaza este petrecută plimbându-vă de-a lungul impresionantului Pebble Ridge. Seara aduce un apus liniștit la malul mării.",
         "en": "Morning begins with a quiet immersion into civic history at the local library and war memorial, before exploring the ancient grounds of St Margaret's Church. Midday takes you towards the coast, descending slowly towards the expansive sands of Westward Ho! Beach. The afternoon is spent walking along the striking Pebble Ridge, enjoying the ocean breeze. Evening brings a peaceful seaside sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Trockenen der Bibliothek, während der Regen gegen die Fenster trommelt. Mittags bieten das Denkmal und die Kirche kurze, besinnliche Stationen im Schutz der Gebäude. Nachmittags zeigt sich die Küste am Pebble Ridge rau und neblig, was eine dramatische Kulisse bildet. Abends ziehen Sie sich vor dem anhaltenden Nieselregen in die gemütlichen Gassen des Dorfes zurück.",
+            "hu": "Kezdje a napot a könyvtár védelmében, miközben az eső a kopog az ablakokon. Délben az emlékmű és a templom nyújt rövid, csendes menedéket a csapadék elől. Délután a tengerparti szél és a köd drámai hangulatot áraszt a kavicsos gátnál, ami különleges látványt nyújt. Estére a sós pára és a szemerkélő eső elől érdemes a falu belső, védettebb részein keresni egy biztonságos menedéket.",
+            "ro": "Începeți ziua la adăpostul bibliotecii, în timp ce ploaia bate în ferestre. La prânz, monumentul și biserica oferă scurte opriri de reflecție sub protecția zidurilor vechi. După-amiaza, coasta de la Pebble Ridge apare dramatică și cețoasă, oferind un peisaj sălbatic sub ploaie. Seara, retrageți-vă din fața burniței persistente pe străzile pitorești, profitând de atmosfera intimă a orașului.",
+            "en": "Start your day in the dry comfort of the library while the rain drums against the windows. At noon, the memorial and church provide brief, contemplative stops under the shelter of old stone. In the afternoon, the coast at Pebble Ridge appears dramatic and misty, creating a wild atmosphere. By evening, retreat from the persistent drizzle into the village, enjoying the moody coastal air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Northam Bibliothek",
+                "hu": "Northam Könyvtár",
+                "ro": "Biblioteca Northam",
+                "en": "Northam Library"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Leseecken, um dem Regen zu entfliehen; das Gebäude bietet perfekten Schutz und eine ruhige Atmosphäre für den Start.",
+                "hu": "Használja ki az olvasósarkokat az eső elől való menekülésre; az épület tökéletes védelmet és nyugodt légkört biztosít a kezdéshez.",
+                "ro": "Folosiți colțurile de lectură pentru a scăpa de ploaie; clădirea oferă protecție perfectă și o atmosferă liniștită pentru început.",
+                "en": "Make use of the reading corners to escape the rain; the building offers perfect shelter and a calm atmosphere for starting your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Northam Kriegerdenkmal",
+                "hu": "Northam Háborús Emlékmű",
+                "ro": "Monumentul Eroilor Northam",
+                "en": "Northam War Memorial"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Regen reicht aus; achten Sie auf die rutschigen Stufen und halten Sie den Schirm gegen den Seewind fest.",
+                "hu": "Egy rövid megálló az esőben is elég; ügyeljen a csúszós lépcsőkre, és fogja szorosan az esernyőt az erős tengeri szélben.",
+                "ro": "O scurtă oprire în ploaie este suficientă; atenție la treptele alunecoase și țineți bine umbrela împotriva vântului marin tăios.",
+                "en": "A brief stop in the rain is enough; watch out for slippery steps and hold your umbrella firmly against the strong sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "St Margaret's Kirche",
+                "hu": "Szent Margit templom",
+                "ro": "Biserica Sf. Margareta",
+                "en": "St Margaret's Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten hervorragenden Schutz vor Güssen; bewundern Sie die Architektur, während Sie auf eine Regenpause warten.",
+                "hu": "A vastag kőfalak kiváló védelmet nyújtanak a felhőszakadások ellen; csodálja meg az építészetet, miközben az eső elcsendesedésére vár.",
+                "ro": "Zidurile groase de piatră oferă protecție excelentă împotriva averselor; admirați arhitectura în timp ce așteptați o pauză de ploaie.",
+                "en": "The thick stone walls provide excellent protection from downpours; admire the architecture while waiting for a break in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Westward Ho! Strand",
+                "hu": "Westward Ho! Strand",
+                "ro": "Plaja Westward Ho!",
+                "en": "Westward Ho! Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen mystisch; tragen Sie unbedingt wasserfeste Schuhe, da der Sand bei Nässe sehr tief und schwer wird.",
+                "hu": "A strand misztikusnak tűnik esőben; viseljen vízálló cipőt, mivel a homok nedvesen mély és nehéz lesz, ami nehezíti a járást.",
+                "ro": "Plaja pare mistică pe ploaie; purtați neapărat încălțăminte impermeabilă, deoarece nisipul devine greu și adânc când este ud.",
+                "en": "The beach looks mystical in the rain; be sure to wear waterproof shoes as the sand becomes deep and heavy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Pebble Ridge",
+                "hu": "Pebble Ridge",
+                "ro": "Pebble Ridge",
+                "en": "Pebble Ridge"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Steinen, sie sind extrem rutschig; genießen Sie die Gischt der Wellen aus sicherer Entfernung im Regen.",
+                "hu": "Vigyázat a nedves köveken, rendkívül csúszósak; élvezze a hullámok tajtékját biztonságos távolságból, jól esőben is látványos.",
+                "ro": "Atenție pe pietrele ude, sunt extrem de alunecoase; bucurați-vă de spuma valurilor de la o distanță sigură chiar și pe ploaie.",
+                "en": "Be careful on the wet stones as they are extremely slippery; enjoy the sea spray from a safe distance in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der warmen Bibliothek. Mittags wärmen Sie sich in der St. Margaret's Kirche auf, während die Wintersonne tief steht. Nachmittags ist die Brise am Westward Ho! Strand eisig, aber die klare Luft bietet weite Sicht. Gegen 17:00 Uhr geht die Sonne spektakulär über dem Atlantik unter; beenden Sie den Tag früh in einer warmen Unterkunft.",
+            "hu": "A fagyos reggel a meleg könyvtárban indul. Délben a Szent Margit templomban melegedhet fel, miközben a téli nap alacsonyan jár. Délután a szél a Westward Ho! strandon jeges, de a tiszta levegő messzi kilátást enged. 17:00 körül a nap látványosan bukik le az Atlanti-óceán felett; fejezze be a napot korán egy fűtött helyen.",
+            "ro": "O dimineață geroasă începe în căldura bibliotecii. La prânz, încălziți-vă în Biserica Sf. Margareta, în timp ce soarele de iarnă stă jos pe cer. După-amiaza, briza de pe plaja Westward Ho! este înghețată, dar aerul clar oferă o vizibilitate mare. În jur de ora 17:00, soarele apune spectaculos peste Atlantic; terminați ziua devreme la căldură.",
+            "en": "A frosty morning begins in the warmth of the library. At noon, warm up inside St Margaret's Church while the winter sun stays low. In the afternoon, the breeze at Westward Ho! Beach is icy, but the clear air offers vast views. Around 17:00, the sun sets spectacularly over the Atlantic; finish your day early in a warm indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Northam Bibliothek",
+                "hu": "Northam Könyvtár",
+                "ro": "Biblioteca Northam",
+                "en": "Northam Library"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort, um die Kälte des Morgens zu überbrücken; genießen Sie die lokale Geschichte in angenehmer Wärme.",
+                "hu": "Ideális hely a reggeli hideg átvészelésére; élvezze a helyi történelmet a kellemes melegben, mielőtt elindulna a part felé.",
+                "ro": "Locul ideal pentru a evita frigul dimineții; bucurați-vă de istoria locală într-o căldură plăcută înainte de a porni la drum.",
+                "en": "The ideal place to bridge the morning chill; enjoy local history in pleasant warmth before heading out to the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Northam Kriegerdenkmal",
+                "hu": "Northam Háborús Emlékmű",
+                "ro": "Monumentul Eroilor Northam",
+                "en": "Northam War Memorial"
+              },
+              "tip_5lang": {
+                "de": "Die exponierte Lage kann im Winter sehr windig sein; ziehen Sie Mütze und Handschuhe an für diesen kurzen historischen Stopp.",
+                "hu": "A kitett helyszín télen nagyon szeles lehet; húzzon sapkát és kesztyűt ehhez a rövid, de fontos történelmi megállóhoz.",
+                "ro": "Locația expusă poate fi foarte vântoasă iarna; purtați căciulă și mănuși pentru această scurtă oprire istorică necesară.",
+                "en": "The exposed location can be very windy in winter; put on a hat and gloves for this short historical stop at the memorial."
+              }
+            },
+            {
+              "name": {
+                "de": "St Margaret's Kirche",
+                "hu": "Szent Margit templom",
+                "ro": "Biserica Sf. Margareta",
+                "en": "St Margaret's Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Zuflucht vor dem Winterwind; achten Sie auf die prächtigen Fenster im tiefen Sonnenlicht.",
+                "hu": "A templom békés menedéket nyújt a téli szél elől; figyelje meg a pompás ablakokat az alacsonyan járó, éles napfényben.",
+                "ro": "Biserica oferă un refugiu pașnic în fața vântului de iarnă; admirați ferestrele splendide în lumina joasă a soarelui.",
+                "en": "The church offers a peaceful refuge from the winter wind; observe the magnificent windows in the low, sharp sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Westward Ho! Strand",
+                "hu": "Westward Ho! Strand",
+                "ro": "Plaja Westward Ho!",
+                "en": "Westward Ho! Beach"
+              },
+              "tip_5lang": {
+                "de": "Winterspaziergänge am Strand sind erfrischend; bereiten Sie sich auf den frühen Sonnenuntergang gegen 17 Uhr vor.",
+                "hu": "A téli séták a strandon frissítőek; készüljön fel a korai, 17 óra körüli naplementére, ami után gyorsan hűl a levegő.",
+                "ro": "Plimbările de iarnă pe plajă sunt revigorante; pregătiți-vă pentru apusul timpuriu în jur de ora 17:00, când se întunecă.",
+                "en": "Winter walks on the beach are refreshing; prepare for the early sunset around 17:00 when the temperature drops quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Pebble Ridge",
+                "hu": "Pebble Ridge",
+                "ro": "Pebble Ridge",
+                "en": "Pebble Ridge"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen können bei Frost glatt sein; genießen Sie das raue Wintermeer, aber halten Sie Abstand zur Brandung.",
+                "hu": "A sziklák fagy idején csúszósak lehetnek; élvezze a zord téli tengert, de tartson biztonságos távolságot a hullámveréstől.",
+                "ro": "Stâncile pot fi alunecoase în caz de îngheț; bucurați-vă de marea aspră de iarnă, dar păstrați distanța față de valuri.",
+                "en": "The rocks can be slippery during frost; enjoy the rugged winter sea but keep a safe distance from the crashing waves."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpáros nap a madármegfigyeléssel kezdődik a békés Kenwith Valley Természetvédelmi Területen, amelyet egy kulturális megálló követ a Szent Margit templomnál. Délre a Northam Burrows mocsarain keresztül halad. Délután elhalad a történelmi golfklub és a hatalmas Pebble Ridge mellett. Utazása egy pihentető estével zárul a Westward Ho! strandon.",
         "ro": "Ziua de ciclism începe cu observarea păsărilor la liniștita Rezervație Valea Kenwith, urmată de o oprire culturală la Biserica Sf. Margareta. Până la prânz, veți merge prin mlaștinile sărate din Northam Burrows. După-amiaza, treceți pe lângă clubul de golf istoric și imensul Pebble Ridge. Călătoria se încheie cu o seară relaxantă la plaja Westward Ho!",
         "en": "Your cycling day starts with birdwatching at the peaceful Kenwith Valley Nature Reserve, followed by a cultural stop at St Margaret's Church. By midday, you'll be riding through the stunning salt marshes of Northam Burrows. In the afternoon, you pass the historic Royal North Devon Golf Club and the immense Pebble Ridge. Your journey concludes with a relaxing evening at Westward Ho! Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start im Kenwith Valley erfordert gute Schutzbleche. Mittags bietet die Kirche eine trockene Pause vor dem Anstieg zu den Burrows. Nachmittags fordern Wind und Regen auf den offenen Flächen Ausdauer und wasserfeste Kleidung. Abends endet die Tour im Schutz des Ortes, während die Räder eine Reinigung vom aufgewirbelten Schlamm benötigen.",
+            "hu": "A Kenwith Valley sáros ösvényei jó sárvédőt igényelnek a reggeli esőben. Délben a templom nyújt száraz pihenőt a Burrows felé vezető emelkedő előtt. Délután a szél és az eső a nyílt terepen kitartást és vízálló ruházatot követel. Estére a túra a falu védelmében ér véget, miközben a bringákat meg kell tisztítani a sártól.",
+            "ro": "Un început umed în Valea Kenwith necesită aripi bune la bicicletă. La prânz, biserica oferă o pauză uscată înainte de urcarea spre Burrows. După-amiaza, vântul și ploaia pe spațiile deschise cer rezistență și haine impermeabile. Seara, turul se încheie la adăpost, în timp ce bicicletele vor avea nevoie de o curățare de noroi.",
+            "en": "A wet start in Kenwith Valley requires good mudguards on your bike. At noon, the church provides a dry break before the climb to the Burrows. In the afternoon, wind and rain on the open flats demand stamina and waterproof gear. By evening, the tour ends in the village, where your bikes will need a good cleaning from the mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Naturreservat Kenwith Valley",
+                "hu": "Kenwith Valley Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Valea Kenwith",
+                "en": "Kenwith Valley Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können sehr matschig sein; fahren Sie vorsichtig und meiden Sie tiefe Pfützen, um nicht auszurutschen.",
+                "hu": "Az utak nagyon sárosak lehetnek; hajtson óvatosan, és kerülje a mély tócsákat, hogy elkerülje a megcsúszást a vizes avaron.",
+                "ro": "Potecile pot fi foarte noroioase; conduceți cu atenție și evitați bălțile adânci pentru a nu aluneca pe terenul umed.",
+                "en": "The paths can be very muddy; ride carefully and avoid deep puddles to prevent slipping on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "St Margaret's Kirche",
+                "hu": "Szent Margit templom",
+                "ro": "Biserica Sf. Margareta",
+                "en": "St Margaret's Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad unter einem Vordach; nutzen Sie die Zeit drinnen, um Ihre Regenbekleidung kurz auszuschütteln.",
+                "hu": "Parkolja le a bringát egy előtető alá; használja ki a benti időt, hogy lerázza a vizet a ruházatáról a következő szakasz előtt.",
+                "ro": "Parcați bicicleta sub un acoperiș; folosiți timpul petrecut în interior pentru a vă scutura hainele de ploaie înainte de drum.",
+                "en": "Park your bike under a porch; use the time inside to shake off your waterproofs before the next leg of the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Northam Burrows",
+                "hu": "Northam Burrows",
+                "ro": "Northam Burrows",
+                "en": "Northam Burrows"
+              },
+              "tip_5lang": {
+                "de": "Starker Seitenwind ist hier bei Regen üblich; halten Sie den Lenker fest und bleiben Sie auf den befestigten Wegen.",
+                "hu": "Az erős oldalszél itt gyakori esőben; fogja szorosan a kormányt, és maradjon a burkolt utakon a biztonságos haladásért.",
+                "ro": "Vântul lateral puternic este obișnuit aici pe ploaie; țineți bine ghidonul și rămâneți pe drumurile pavate pentru siguranță.",
+                "en": "Strong crosswinds are common here in the rain; keep a firm grip on the handlebars and stay on the paved paths for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Royal North Devon Golf Club",
+                "hu": "Royal North Devon Golf Club",
+                "ro": "Royal North Devon Golf Club",
+                "en": "Royal North Devon Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Das Clubhaus bietet Schutz; achten Sie beim Radfahren auf die Fairways, die bei Regen oft unter Wasser stehen.",
+                "hu": "A klubház védelmet nyújt; kerékpározás közben ügyeljen a pályákra, amelyek esőben gyakran víz alá kerülnek és csúszósak.",
+                "ro": "Clubul oferă adăpost; în timp ce pedalați, atenție la zonele de teren care pot fi inundate și foarte alunecoase după ploaie.",
+                "en": "The clubhouse offers shelter; while cycling, watch out for the fairways which often become waterlogged and slippery in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pebble Ridge",
+                "hu": "Pebble Ridge",
+                "ro": "Pebble Ridge",
+                "en": "Pebble Ridge"
+              },
+              "tip_5lang": {
+                "de": "Das Salzspray kann die Bremsen beeinträchtigen; testen Sie diese regelmäßig auf den nassen Küstenwegen.",
+                "hu": "A sós pára befolyásolhatja a fékek hatékonyságát; tesztelje azokat rendszeresen a nedves tengerparti utakon haladva.",
+                "ro": "Spray-ul sărat poate afecta frânele; testați-le regulat pe drumurile de coastă umede pentru a asigura oprirea sigură.",
+                "en": "The salt spray can affect your brakes; test them regularly while riding along the wet coastal paths for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Westward Ho! Strand",
+                "hu": "Westward Ho! Strand",
+                "ro": "Plaja Westward Ho!",
+                "en": "Westward Ho! Beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Fahren direkt auf nassem Sand, da die Reifen einsinken; nutzen Sie den festen Promenadenweg.",
+                "hu": "Kerülje a közvetlen tekerést a nedves homokon, mert a gumik besüllyednek; használja inkább a szilárd sétányt az úthoz.",
+                "ro": "Evitați să pedalați direct pe nisipul ud, deoarece cauciucurile se vor afunda; folosiți faleza solidă pentru deplasare.",
+                "en": "Avoid cycling directly on the wet sand as tires will sink; use the solid promenade path for a smoother and safer ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie bei frostiger Luft im Kenwith Valley, wo der Raureif die Bäume glitzern lässt. Mittags bringt der Besuch der Kirche eine willkommene Aufwärmpause. Nachmittags ist die Fahrt über die Burrows bei tiefstehender Wintersonne wunderschön, aber kalt. Beenden Sie die Tour am Strand vor Einbruch der Dunkelheit um 17:00 Uhr, wenn die Temperaturen rapide sinken.",
+            "hu": "Induljon a fagyos levegőben a Kenwith Valley-ből, ahol a zúzmara megcsillan a fákon. Délben a templomlátogatás üdvözlendő melegedő szünetet jelent. Délután a tekerés a Burrows felett az alacsony téli napsütésben gyönyörű, de hideg. Fejezze be a túrát a strandon a sötétség beállta előtt, 17:00-kor, amikor a hőmérséklet hirtelen leesik.",
+            "ro": "Porniți în aerul înghețat din Valea Kenwith, unde chiciura strălucește pe copaci. La prânz, vizitarea bisericii aduce o pauză de încălzire binevenită. După-amiaza, plimbarea prin Burrows sub soarele de iarnă este superbă, dar rece. Încheiați turul pe plajă înainte de lăsarea întunericului, la ora 17:00, când temperaturile scad brusc.",
+            "en": "Start in the frosty air of Kenwith Valley, where rime ice glistens on the trees. At noon, the church visit provides a welcome warming break. In the afternoon, cycling across the Burrows under the low winter sun is beautiful but cold. Finish your tour at the beach before darkness falls at 17:00, as temperatures drop rapidly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Naturreservat Kenwith Valley",
+                "hu": "Kenwith Valley Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Valea Kenwith",
+                "en": "Kenwith Valley Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen im Schatten; tragen Sie Thermohandschuhe, um Ihre Finger bei der Abfahrt beweglich zu halten.",
+                "hu": "Ügyeljen az árnyékos részeken az eljegesedett foltokra; viseljen hőszigetelt kesztyűt, hogy ujjai mozgékonyak maradjanak.",
+                "ro": "Atenție la porțiunile înghețate de la umbră; purtați mănuși termice pentru a vă păstra degetele mobile în timpul coborârii.",
+                "en": "Watch out for icy patches in the shade; wear thermal gloves to keep your fingers mobile for braking during the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "St Margaret's Kirche",
+                "hu": "Szent Margit templom",
+                "ro": "Biserica Sf. Margareta",
+                "en": "St Margaret's Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille und Wärme; nutzen Sie die Pause, um die Winterausrüstung für die Küstenfahrt zu richten.",
+                "hu": "A csend és a meleg rövid pillanata; használja ki a szünetet, hogy megigazítsa téli felszerelését a tengerparti szakasz előtt.",
+                "ro": "Un scurt moment de liniște și căldură; folosiți pauza pentru a vă ajusta echipamentul de iarnă pentru etapa de coastă.",
+                "en": "A brief moment of silence and warmth; use the break to adjust your winter gear for the upcoming coastal ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Northam Burrows",
+                "hu": "Northam Burrows",
+                "ro": "Northam Burrows",
+                "en": "Northam Burrows"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem flachen Land ist im Winter schneidend; eine winddichte Jacke ist für Radfahrer hier absolut unverzichtbar.",
+                "hu": "A sík terepen fújó szél télen metsző; egy szélálló dzseki a kerékpárosok számára itt teljesen elengedhetetlen a fagy ellen.",
+                "ro": "Vântul pe terenul plat este tăios iarna; o jachetă rezistentă la vânt este absolut indispensabilă pentru bicicliști aici.",
+                "en": "The wind on the flat land is biting in winter; a windproof jacket is absolutely essential for cyclists here to survive the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Royal North Devon Golf Club",
+                "hu": "Royal North Devon Golf Club",
+                "ro": "Royal North Devon Golf Club",
+                "en": "Royal North Devon Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter oft menschenleer; genießen Sie die Weite, aber achten Sie auf gefrorenen Untergrund auf den Wegen.",
+                "hu": "A létesítmény télen gyakran kihalt; élvezze a tágas teret, de ügyeljen a fagyott talajra az utakon a biztonságos haladásért.",
+                "ro": "Clubul este adesea pustiu iarna; bucurați-vă de spațiul vast, dar atenție la solul înghețat de pe drumuri când pedalați.",
+                "en": "The grounds are often deserted in winter; enjoy the vast space but watch out for frozen ground on the paths for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Pebble Ridge",
+                "hu": "Pebble Ridge",
+                "ro": "Pebble Ridge",
+                "en": "Pebble Ridge"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt die Kieselsteine glänzen; halten Sie für ein schnelles Foto an, bevor die Kälte in die Glieder zieht.",
+                "hu": "A téli napfény megcsillantja a kavicsokat; álljon meg egy gyors fotóra, mielőtt a hideg teljesen átjárná a végtagjait.",
+                "ro": "Soarele de iarnă face pietrele să strălucească; opriți-vă pentru o fotografie rapidă înainte ca frigul să vă pătrundă în oase.",
+                "en": "The winter sun makes the pebbles glisten; stop for a quick photo before the cold starts to seep into your limbs."
+              }
+            },
+            {
+              "name": {
+                "de": "Westward Ho! Strand",
+                "hu": "Westward Ho! Strand",
+                "ro": "Plaja Westward Ho!",
+                "en": "Westward Ho! Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17 Uhr; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "Nézze meg a korai naplementét 17 óra körül; győződjön meg róla, hogy a kerékpár lámpái működnek a hazafelé vezető úton.",
+                "ro": "Priviți apusul timpuriu în jur de ora 17:00; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Watch the early sunset around 17:00; ensure your bike lights are working properly for the journey back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A festői utazás a történelmi Appledore Quay-nél kezdődik, színes utcákat fedezve fel, majd élvezve a kilátást az Instow Beachről. Délben a Northam Burrows hatalmas dűnetájaira vezet az út. Délután a Northam Beachnél parkol, és megcsodálja a Pebble Ridge hatalmas köveit. Ahogy leszáll az est, élvezze az élénk hangulatot a Westward Ho! partján.",
         "ro": "O plimbare pitorească începe la istoricul Appledore Quay, explorând străzile colorate înainte de a prinde priveliștile de pe plaja Instow. Amiaza vă conduce în peisajele de dune din Northam Burrows. După-amiaza, veți parca lângă plaja Northam și vă veți minuna de Pebble Ridge. Odată cu lăsarea serii, bucurați-vă de atmosfera de la Westward Ho!",
         "en": "A scenic drive begins at the historic Appledore Quay, exploring colorful streets before catching estuary views from Instow Beach. Midday leads you into the expansive dune landscapes of Northam Burrows. During the afternoon, you'll park near Northam Beach and marvel at the massive stones of Pebble Ridge. As evening falls, enjoy the lively surfing atmosphere and a seaside meal at Westward Ho!"
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Appledore Quay im mystischen Nebel vom Komfort Ihres Autos aus. Mittags bietet Instow Beach einen tollen Blick auf die stürmische See, während Sie im Trockenen bleiben. Nachmittags erkunden Sie die Burrows; die kurzen Wege zu den Aussichtspunkten lassen sich zwischen den Schauern bewältigen. Abends reflektieren die nassen Straßen die Lichter der Küste besonders stimmungsvoll.",
+            "hu": "Tapasztalja meg az Appledore Quay-t a misztikus ködben az autója kényelméből. Délben az Instow Beach remek kilátást nyújt a viharos tengerre, miközben Ön szárazon marad. Délután fedezze fel a Burrows-t; a kilátópontokhoz vezető rövid utakat az esőszünetekben is megteheti. Este a nedves utak különlegesen hangulatosan verik vissza a part menti fényeket.",
+            "ro": "Experimentați Appledore Quay în ceața mistică din confortul mașinii. La prânz, Plaja Instow oferă o vedere excelentă spre marea învolburată, în timp ce rămâneți la adăpost. După-amiaza explorați Burrows; drumurile scurte spre punctele de belvedere pot fi parcurse între reprizele de ploaie. Seara, străzile ude reflectă luminile coastei într-un mod deosebit de atmosferic.",
+            "en": "Experience Appledore Quay in the mystical mist from the comfort of your car. At noon, Instow Beach offers a great view of the stormy sea while you stay dry inside. In the afternoon, explore the Burrows; the short paths to the viewpoints can be managed between rain showers. By evening, the wet roads reflect the coastal lights with a special atmospheric glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Appledore Quay",
+                "hu": "Appledore Quay",
+                "ro": "Appledore Quay",
+                "en": "Appledore Quay"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz mit direktem Blick auf den Hafen; so genießen Sie das Treiben, ohne nass zu werden.",
+                "hu": "Keressen egy parkolóhelyet közvetlen kilátással a kikötőre; így élvezheti a nyüzsgést anélkül, hogy bőrig ázna az esőben.",
+                "ro": "Căutați un loc de parcare cu vedere directă la port; astfel vă puteți bucura de agitație fără a vă uda deloc în ploaie.",
+                "en": "Find a parking spot with a direct view of the quay; this way you can enjoy the bustle without getting wet in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "West Appledore",
+                "hu": "West Appledore",
+                "ro": "West Appledore",
+                "en": "West Appledore"
+              },
+              "tip_5lang": {
+                "de": "Die engen Gassen sind bei Regen rutschig; fahren Sie langsam und achten Sie auf Fußgänger, die Schutz unter Markisen suchen.",
+                "hu": "A szűk utcák esőben csúszósak; vezessen lassan, és ügyeljen a gyalogosokra, akik az ereszek alatt keresnek menedéket.",
+                "ro": "Străzile înguste sunt alunecoase pe ploaie; conduceți încet și atenție la pietonii care caută adăpost sub copertine.",
+                "en": "The narrow streets are slippery in the rain; drive slowly and watch out for pedestrians seeking shelter under awnings."
+              }
+            },
+            {
+              "name": {
+                "de": "Instow Strand",
+                "hu": "Instow Strand",
+                "ro": "Plaja Instow",
+                "en": "Instow Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Strand ist ideal, um die dramatische Mündung bei Regen zu beobachten, ohne das Auto zu verlassen.",
+                "hu": "A strand melletti parkoló ideális a drámai torkolat megfigyelésére esőben, anélkül, hogy ki kellene szállnia az autóból.",
+                "ro": "Parcarea de lângă plajă este ideală pentru a observa estuarul dramatic pe ploaie, fără a fi nevoie să părăsiți mașina.",
+                "en": "The car park right by the beach is ideal for watching the dramatic estuary in the rain without having to leave your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Northam Burrows",
+                "hu": "Northam Burrows",
+                "ro": "Northam Burrows",
+                "en": "Northam Burrows"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Zufahrten können bei Regen weich werden; bleiben Sie auf den Hauptwegen, um ein Festfahren zu vermeiden.",
+                "hu": "A burkolatlan utak esőben felpuhulhatnak; maradjon a főutakon, hogy elkerülje az elakadást a sárosabb szakaszokon.",
+                "ro": "Drumurile neasfaltate pot deveni moi pe ploaie; rămâneți pe căile principale pentru a evita să rămâneți blocat în noroi.",
+                "en": "The unpaved access roads can become soft in the rain; stay on the main paths to avoid getting stuck in muddy areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Northam Strand",
+                "hu": "Northam Strand",
+                "ro": "Plaja Northam",
+                "en": "Northam Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt schlägt bei starkem Regen oft bis an die Uferstraße; achten Sie auf Salzwasserrückstände an Ihrer Windschutzscheibe.",
+                "hu": "A tengeri pára erős esőben gyakran eléri a part menti utat; ügyeljen a szélvédőre rakódó sós rétegre vezetés közben.",
+                "ro": "Spray-ul marin ajunge adesea pe drumul de coastă în timpul ploii; atenție la reziduurile de sare de pe parbriz în timp ce conduceți.",
+                "en": "The sea spray often reaches the coastal road during heavy rain; watch out for salt residue building up on your windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Pebble Ridge",
+                "hu": "Pebble Ridge",
+                "ro": "Pebble Ridge",
+                "en": "Pebble Ridge"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Aussichtspunkt; nutzen Sie die Regenpausen für einen kurzen, erfrischenden Blick auf die Brandung.",
+                "hu": "Parkoljon a lehető legközelebb a kilátóponthoz; használja ki az esőszüneteket egy rövid, frissítő pillantásra a hullámokra.",
+                "ro": "Parcați cât mai aproape de punctul de belvedere; profitați de pauzele de ploaie pentru o privire scurtă spre valurile mării.",
+                "en": "Park as close to the viewpoint as possible; use the breaks in the rain for a short, refreshing look at the crashing surf."
+              }
+            },
+            {
+              "name": {
+                "de": "Westward Ho! Strand",
+                "hu": "Westward Ho! Strand",
+                "ro": "Plaja Westward Ho!",
+                "en": "Westward Ho! Beach"
+              },
+              "tip_5lang": {
+                "de": "Regenverhangene Himmel bieten tolle Fotomotive von der Promenade aus; schalten Sie bei schlechter Sicht unbedingt das Licht an.",
+                "hu": "Az esőfelhős égbolt remek fotótémát kínál a sétányról; rossz látási viszonyok között mindenképpen kapcsolja fel a világítást.",
+                "ro": "Cerul plin de nori de ploaie oferă cadre foto superbe de pe faleză; aprindeți farurile neapărat în caz de vizibilitate scăzută.",
+                "en": "Rainy skies offer great photo opportunities from the promenade; be sure to turn on your lights in poor visibility conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag mit einer Fahrt durch das winterliche Appledore. Mittags bietet Instow einen klaren Blick auf die kalte Flussmündung, ideal zum Fotografieren. Nachmittags erkunden Sie die Burrows, wo der Frost die Landschaft verwandelt. Beachten Sie den frühen Sonnenuntergang um 17:00 Uhr; genießen Sie das Farbenspiel vom warmen Auto aus, bevor die Nacht einbricht.",
+            "hu": "Kezdje a napot egy autózással a téli Appledore-on keresztül. Délben Instow tiszta kilátást nyújt a hideg folyótorkolatra, ami ideális a fotózáshoz. Délután fedezze fel a Burrows-t, ahol a fagy átalakítja a tájat. Ügyeljen a korai, 17:00 órai naplementére; élvezze a színeket a meleg autóból, mielőtt beállna az éjszaka.",
+            "ro": "Începeți ziua cu o plimbare cu mașina prin Appledore-ul hibernal. La prânz, Instow oferă o vedere clară asupra estuarului rece, ideală pentru poze. După-amiaza explorați Burrows, unde înghețul transformă peisajul. Atenție la apusul timpuriu de la ora 17:00; bucurați-vă de culori din mașina încălzită înainte de venirea nopții.",
+            "en": "Start your day with a drive through wintry Appledore. At noon, Instow offers a clear view of the cold estuary, perfect for photography. In the afternoon, explore the Burrows, where frost transforms the landscape. Note the early sunset at 17:00; enjoy the colors from your warm car before the dark of night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Appledore Quay",
+                "hu": "Appledore Quay",
+                "ro": "Appledore Quay",
+                "en": "Appledore Quay"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Kai und genießen Sie die klare Winterluft bei einem kurzen Gang; die Heizung im Auto wartet danach auf Sie.",
+                "hu": "Parkoljon a rakparton, és élvezze a tiszta téli levegőt egy rövid séta erejéig; az autó fűtése utána kellemesen várja majd.",
+                "ro": "Parcați pe chei și bucurați-vă de aerul curat de iarnă la o scurtă plimbare; încălzirea din mașină vă va aștepta după aceea.",
+                "en": "Park on the quay and enjoy the crisp winter air for a short stroll; your car's heater will be waiting for you afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "West Appledore",
+                "hu": "West Appledore",
+                "ro": "West Appledore",
+                "en": "West Appledore"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in den schattigen Gassen; nutzen Sie die Parkplätze am Ortsrand für einen stressfreien Winterbesuch.",
+                "hu": "Ügyeljen a jegesedésre az árnyékos utcákban; használja a falu szélén lévő parkolókat a stresszmentes téli látogatás érdekében.",
+                "ro": "Atenție la porțiunile de gheață de pe străzile umbrite; folosiți parcările de la marginea satului pentru o vizită fără stres.",
+                "en": "Watch out for black ice in the shaded lanes; use the car parks on the outskirts of the village for a stress-free winter visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Instow Strand",
+                "hu": "Instow Strand",
+                "ro": "Plaja Instow",
+                "en": "Instow Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht hier perfekt für Fotos; bleiben Sie im Auto, um sich zwischen den Aufnahmen wieder aufzuwärmen.",
+                "hu": "A téli napfény itt tökéletes a fotózáshoz; maradjon az autóban, hogy a felvételek között újra felmelegedhessen a hidegben.",
+                "ro": "Soarele de iarnă este perfect aici pentru fotografii; rămâneți în mașină pentru a vă reîncălzi între sesiunile de pozat.",
+                "en": "The winter sun is perfectly positioned here for photos; stay in your car to warm up between shots in the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Northam Burrows",
+                "hu": "Northam Burrows",
+                "ro": "Northam Burrows",
+                "en": "Northam Burrows"
+              },
+              "tip_5lang": {
+                "de": "Die weite Landschaft wirkt bei Frost fast arktisch; nutzen Sie die Autofenster als Windschutz für Tierbeobachtungen.",
+                "hu": "A tágas táj fagyban szinte sarkvidékinek tűnik; használja az autó ablakait szélfogóként a vadon élő állatok megfigyeléséhez.",
+                "ro": "Peisajul vast pare aproape arctic în caz de îngheț; folosiți geamurile mașinii ca paravan pentru a observa fauna locală.",
+                "en": "The vast landscape looks almost arctic during frost; use your car windows as a windbreak for spotting local wildlife safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Northam Strand",
+                "hu": "Northam Strand",
+                "ro": "Plaja Northam",
+                "en": "Northam Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer; die winterlichen Wellen sind vom warmen Innenraum aus besonders beeindruckend zu sehen.",
+                "hu": "Parkoljon a tengerre néző kilátással; a téli hullámok a meleg utastérből nézve különösen lenyűgözőek és biztonságosak.",
+                "ro": "Parcați cu fața spre mare; valurile de iarnă sunt deosebit de impresionante privite din interiorul cald al mașinii.",
+                "en": "Park with a view of the sea; the winter waves are particularly impressive when watched from the warmth of your car interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Pebble Ridge",
+                "hu": "Pebble Ridge",
+                "ro": "Pebble Ridge",
+                "en": "Pebble Ridge"
+              },
+              "tip_5lang": {
+                "de": "Die Steine können bei Frost extrem glatt sein; genießen Sie das Panorama vom Parkplatz aus, bevor es dunkel wird.",
+                "hu": "A kövek fagy idején rendkívül csúszósak lehetnek; élvezze a panorámát a parkolóból, mielőtt teljesen besötétedne.",
+                "ro": "Pietrele pot fi extrem de alunecoase în caz de îngheț; bucurați-vă de panoramă din parcare înainte de a se întuneca.",
+                "en": "The stones can be extremely slippery during frost; enjoy the panorama from the car park before it gets dark outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Westward Ho! Strand",
+                "hu": "Westward Ho! Strand",
+                "ro": "Plaja Westward Ho!",
+                "en": "Westward Ho! Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist der ideale Ort für den Sonnenuntergang gegen 17 Uhr; genießen Sie das Schauspiel bei laufender Heizung.",
+                "hu": "A parkoló ideális hely a 17 óra körüli naplemente megtekintéséhez; élvezze a látványt a fűtött autó kényelméből.",
+                "ro": "Parcarea este locul ideal pentru a vedea apusul în jur de ora 17:00; bucurați-vă de spectacol cu încălzirea pornită.",
+                "en": "The car park is the ideal spot for the sunset around 17:00; enjoy the spectacle while keeping the car's heater running."
+              }
+            }
+          ]
+        }
       }
     }
   }

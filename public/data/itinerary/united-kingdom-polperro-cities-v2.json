@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi makettfalu miniatűr csodáinak felfedezésével, amely tökéletes bevezetés Polperróba. Dél körül fedezze fel a vibráló helyi művészeti életet Gina stúdiójában. Délután merüljön el a környék csempészmúltjában a helytörténeti múzeumban, majd sétáljon el a Giggen-öbölbe. A napja a Lekerock-öbölnél zárul, ahol élvezheti a tenger nyugtató hangjait.",
         "ro": "Începe-ți dimineața explorând minunile miniaturale la satul de machete, o introducere perfectă în Polperro. În jurul prânzului, descoperă scena de artă locală vibrantă la studioul Ginei. După-amiaza, aprofundează istoria contrabandei din zonă la muzeul patrimoniului înainte de a te plimba spre Giggen Cove. Ziua se încheie la Lekerock Cove, bucurându-te de sunetele liniștite ale mării.",
         "en": "Start your morning exploring the miniature wonders at the local model village, a perfect introduction to Polperro. Around midday, discover the vibrant local art scene at Gina's studio. In the afternoon, delve into the area's smuggling history at the heritage museum before walking to Giggen Cove. Your day concludes at Lekerock Cove, enjoying the tranquil sounds of the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Polperro beginnt stimmungsvoll im Regen, während Sie die Miniaturwelt erkunden. Mittags bieten die Museen und Galerien perfekten Schutz vor den Güssen und vertiefen den Einblick in die lokale Kunst. Am Nachmittag führt der Weg entlang der Küste zu den dramatischen Buchten, wo die Gischt auf den Regen trifft. Den Abend lassen Sie bei dem beruhigenden Geräusch der Tropfen ausklingen.",
+            "hu": "A reggel Polperróban esőben is varázslatos, ahogy a makettfalu apró részleteit fürkészi. Délben a múzeumok és galériák nyújtanak menedéket a záporok elől, elmélyítve a helyi művészet ismeretét. Délután a part menti öblök felé vesszük az irányt, ahol az eső és a tengeri permet találkozik. Az estét a kikötőben, az esőkopogás megnyugtató hangja mellett zárhatja, élvezve a párás, tengerparti levegőt.",
+            "ro": "Dimineața în Polperro începe atmosferic sub ploaie, explorând lumea în miniatură a satului. La prânz, muzeele și galeriile oferă adăpostul perfect împotriva averselor, aprofundând viziunea asupra artei locale. După-amiaza, drumul duce de-a lungul coastei spre golfurile dramatice, unde stropii se amestecă cu spuma mării. Seara se încheie cu sunetul liniștitor al ploii care cade peste port.",
+            "en": "The morning in Polperro starts atmospheric in the rain as you explore the intricate model village. At noon, museums and galleries provide the perfect shelter from the downpours, deepening your insight into local art. In the afternoon, the path leads along the coast to dramatic coves where sea spray meets the rain. You end the evening with the soothing sound of raindrops over the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Polperro Model Village & Land of Legend",
+                "hu": "Polperro Makettfalu",
+                "ro": "Satul în miniatură Polperro",
+                "en": "Polperro Model Village & Land of Legend"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Mythen Cornwalls unter den überdachten Bereichen und bringen Sie eine Regenjacke für die Außenmodelle mit, da die Wege rutschig sein können.",
+                "hu": "Fedezze fel Cornwall legendáit a fedett részeken, és viseljen esőkabátot a kültéri makettek megtekintéséhez, mert a köves utak ilyenkor csúszósak lehetnek.",
+                "ro": "Descoperiți legendele din Cornwall în zonele acoperite și purtați o pelerină pentru modelele exterioare, deoarece potecile pot deveni destul de alunecoase.",
+                "en": "Discover Cornish myths in the covered areas and bring a raincoat for the outdoor models, as the stone paths can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ginas Kunststudio",
+                "hu": "Gina Művészeti Stúdiója",
+                "ro": "Studioul de Artă al Ginei",
+                "en": "Gina's Art Studio"
+              },
+              "tip_5lang": {
+                "de": "Dieses gemütliche Studio ist der ideale Zufluchtsort vor dem Regen, wo Sie die lebendigen Farben lokaler Kunstwerke in aller Ruhe und Trockenheit bewundern können.",
+                "hu": "Ez a hangulatos stúdió ideális menedék az eső elől, ahol szárazon és nyugodtan csodálhatja meg a helyi műalkotások élénk színeit és különleges formáit.",
+                "ro": "Acest studio primitor este refugiul ideal împotriva ploii, unde puteți admira culorile vibrante ale operelor de artă locale în deplină liniște și confort.",
+                "en": "This cozy studio is the ideal escape from the rain, where you can admire the vibrant colors of local artwork in complete dryness and peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Heritage Museum",
+                "hu": "Polperro Helytörténeti Múzeum",
+                "ro": "Muzeul Patrimoniului din Polperro",
+                "en": "Polperro Heritage Museum of Smuggling & Fishing"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Schmugglergeschichte ein, während es draußen stürmt; die historischen Exponate sind alle sicher im Inneren des alten Gebäudes untergebracht.",
+                "hu": "Merüljön el a csempészek izgalmas történelmében, miközben kint tombol a vihar; a történelmi kiállítási tárgyak mind biztonságban, az épület belsejében találhatók.",
+                "ro": "Explorați istoria fascinantă a contrabandei în timp ce afară plouă; exponatele istorice sunt toate adăpostite în siguranță în interiorul clădirii vechi.",
+                "en": "Dive deep into the exciting history of smuggling while it storms outside; the historical exhibits are all safely housed inside the old heritage building."
+              }
+            },
+            {
+              "name": {
+                "de": "Giggen Cove",
+                "hu": "Giggen-öböl",
+                "ro": "Golful Giggen",
+                "en": "Giggen Cove"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die raue See bei Regen von einem geschützten Felsvorsprung aus und tragen Sie unbedingt festes Schuhwerk für die nassen Küstenpfade.",
+                "hu": "Figyelje a vad tenger hullámait esőben egy védettebb sziklakiszögellésről, és mindenképpen viseljen tapadós talpú cipőt a nedves, sáros parti ösvényeken.",
+                "ro": "Observați marea agitată sub ploaie de pe un pinten stâncos mai protejat și purtați încălțăminte cu aderență bună pentru potecile de coastă umede.",
+                "en": "Watch the wild sea waves in the rain from a sheltered rocky outcrop and be sure to wear sturdy footwear for the wet and muddy coastal paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Lekerock Cove",
+                "hu": "Lekerock-öböl",
+                "ro": "Golful Lekerock",
+                "en": "Lekerock Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei grauem Himmel besonders mystisch; nutzen Sie eine wasserfeste Kameratasche, um die dramatische Stimmung ohne Geräteschäden einzufangen.",
+                "hu": "Az öböl szürke égbolt alatt különösen misztikus; használjon vízálló táskát a fényképezőgépéhez, hogy megörökíthesse a drámai hangulatot a technika károsodása nélkül.",
+                "ro": "Golful pare deosebit de mistic sub cerul cenușiu; folosiți o husă impermeabilă pentru cameră pentru a surprinde atmosfera dramatică fără a deteriora echipamentul.",
+                "en": "The cove looks particularly mystical under grey skies; use a waterproof camera bag to capture the dramatic mood without damaging your equipment."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Polperro beginnt mit frischer Meeresbrise und dem Charme des leeren Dorfes. Mittags wärmen Sie sich in den Museen auf, während das sanfte Winterlicht die Gassen beleuchtet. Am frühen Nachmittag besuchen Sie die Buchten, bevor die Sonne gegen 17:00 Uhr spektakulär im Meer versinkt. Der Abend gehört der gemütlichen Ruhe in den beleuchteten, engen Straßen.",
+            "hu": "A tiszta téli reggel friss tengeri szellővel és az üres falu bájával indul. Napközben a múzeumokban melegedhet fel, miközben a lágy téli fények megvilágítják a szűk sikátorokat. Kora délután látogasson el az öblökbe, mielőtt a nap 17:00 körül látványosan a tengerbe veszne. Az este a kivilágított, csendes utcák meghitt nyugalmáról szól, ahol átélheti a valódi cornwalli telet.",
+            "ro": "O dimineață senină de iarnă începe cu briza proaspătă a mării și farmecul satului aproape gol. La prânz, vă puteți încălzi în muzee, în timp ce lumina blândă de iarnă luminează ulițele. După-amiaza devreme vizitați golfurile, înainte ca soarele să apună spectaculos în mare în jurul orei 17:00. Seara aparține liniștii primitoare de pe străzile luminate.",
+            "en": "A clear winter morning begins with a fresh sea breeze and the charm of the nearly empty village. During the day, warm up in the museums while the soft winter light illuminates the narrow alleys. In the early afternoon, visit the coves before the sun sets spectacularly into the sea around 17:00. The evening belongs to the cozy tranquility of the illuminated, quiet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Polperro Model Village & Land of Legend",
+                "hu": "Polperro Makettfalu",
+                "ro": "Satul în miniatură Polperro",
+                "en": "Polperro Model Village & Land of Legend"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Modelldorf früh am Vormittag, um die frostigen Details der Miniaturhäuser zu bewundern, und tragen Sie warme Schichten gegen den kalten Wind.",
+                "hu": "Látogassa meg a makettfalut kora délelőtt, hogy megcsodálhassa a miniatűr házak fagyos részleteit, és öltözzön rétegesen a hideg tengeri szél ellen.",
+                "ro": "Vizitați satul în miniatură dimineața devreme pentru a admira detaliile înghețate ale căsuțelor și purtați haine groase împotriva vântului tăios.",
+                "en": "Visit the model village early in the morning to admire the frosty details of the miniature houses and wear warm layers against the cold sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Ginas Kunststudio",
+                "hu": "Gina Művészeti Stúdiója",
+                "ro": "Studioul de Artă al Ginei",
+                "en": "Gina's Art Studio"
+              },
+              "tip_5lang": {
+                "de": "Die farbenfrohe Kunst bietet einen warmen Kontrast zum winterlichen Grau draußen; nehmen Sie sich Zeit, um die Details ohne die sommerlichen Menschenmassen zu genießen.",
+                "hu": "A színes műalkotások meleg kontrasztot nyújtanak a kinti téli szürkeséggel szemben; szánjon időt a részletekre, most a nyári tömeg nélkül válogathat.",
+                "ro": "Arta colorată oferă un contrast cald față de griul iernii de afară; acordați-vă timp pentru a savura detaliile fără aglomerația tipică verii.",
+                "en": "The colorful art provides a warm contrast to the wintry grey outside; take your time to enjoy the details without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Heritage Museum",
+                "hu": "Polperro Helytörténeti Múzeum",
+                "ro": "Muzeul Patrimoniului din Polperro",
+                "en": "Polperro Heritage Museum of Smuggling & Fishing"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als warmen Rückzugsort am Mittag; die dicken Mauern schützen vor der Kälte und bewahren die Geschichte der Seeleute Cornwalls.",
+                "hu": "Használja a múzeumot meleg pihenőhelyként délben; a vastag falak védenek a hidegtől, miközben megőrzik a cornwalli tengerészek és halászok történeteit.",
+                "ro": "Folosiți muzeul ca refugiu călduros la prânz; zidurile groase protejează de frig în timp ce păstrează vie istoria marinarilor din Cornwall.",
+                "en": "Use the museum as a warm retreat at noon; the thick walls protect against the cold while preserving the history of Cornwall's seafarers."
+              }
+            },
+            {
+              "name": {
+                "de": "Giggen Cove",
+                "hu": "Giggen-öböl",
+                "ro": "Golful Giggen",
+                "en": "Giggen Cove"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Wintersee in ihrer ganzen Pracht; achten Sie darauf, vor Einbruch der Dunkelheit um 17:00 Uhr wieder im beleuchteten Dorf zu sein.",
+                "hu": "Tapasztalja meg a zord téli tenger minden szépségét; ügyeljen rá, hogy a sötétedés beállta előtt, 17:00-ig érjen vissza a kivilágított faluba.",
+                "ro": "Experimentați marea aspră de iarnă în toată splendoarea ei; asigurați-vă că vă întoarceți în satul luminat înainte de lăsarea întunericului, la ora 17:00.",
+                "en": "Experience the harsh winter sea in all its glory; make sure to head back to the illuminated village before darkness falls at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Lekerock Cove",
+                "hu": "Lekerock-öböl",
+                "ro": "Golful Lekerock",
+                "en": "Lekerock Cove"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Spaziergang zur Bucht bietet im Winter tiefe Ruhe; bringen Sie eine Thermoskanne mit einem heißen Getränk für die Pause am Strand mit.",
+                "hu": "Egy magányos séta az öbölhöz télen mély nyugalmat áraszt; vigyen magával termoszt forró itallal a tengerparti pihenőhöz a fagyos szélben.",
+                "ro": "O plimbare solitară spre golf oferă o liniște profundă iarna; aduceți un termos cu o băutură caldă pentru pauza pe plajă în vântul rece.",
+                "en": "A solitary walk to the cove offers deep tranquility in winter; bring a thermos with a hot drink for your break on the beach in the freezing wind."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a túrát Polcoombe-ban, és gyönyörködjön a nyugodt természetben közvetlenül a falu mellett. Folytassa útját a makettfalu felé, hogy ebéd előtt kicsinyítve is lássa Polperrót. A délután lenyűgöző bepillantást nyújt a helyi csempészmúltba, amelyet egy festői kerékpározás követ a Talland-homokpartra. Zárja utazását a sziklán álló St Tallan templomnál, nézve a naplementét.",
         "ro": "Începe plimbarea la Polcoombe, admirând natura liniștită de la marginea satului. Continuă spre satul de machete pentru a vedea Polperro în miniatură înainte de prânz. După-amiaza oferă o privire fascinantă asupra patrimoniului de contrabandă la muzeu, urmată de o cursă pitorească spre Talland Sand. Încheie călătoria la biserica St Tallan de pe stâncă, privind apusul.",
         "en": "Begin your ride at Polcoombe, taking in the serene natural surroundings just outside the main village. Continue towards the model village to see Polperro in miniature before lunch. The afternoon offers a fascinating look at the local smuggling heritage at the museum, followed by a scenic ride to Talland Sand. End your journey at the clifftop St Tallan church, watching the sunset over the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt bei Nieselregen in Polcoombe, wo die Natur besonders intensiv duftet. Mittags erreichen Sie das Dorf und finden in den Museen Schutz vor stärkeren Schauern. Am Nachmittag geht es vorsichtig auf nassen Wegen nach Talland Sand, um die stürmische Küste zu bewundern. Der Abend endet mit der Rückfahrt, während das Licht im Regen glänzt.",
+            "hu": "A kerékpártúra szemerkélő esőben indul Polcoombe-ban, ahol a természet illata ilyenkor a legintenzívebb. Délben érkezik a faluba, ahol a múzeumok nyújtanak menedéket a hevesebb záporok elől. Délután óvatosan, a nedves utakon haladva Talland Sand felé vesszük az irányt a viharos part látványáért. Az este a visszautat jelenti, miközben a lámpák fénye megcsillan a vizes aszfalton.",
+            "ro": "Turul cu bicicleta începe sub o ploaie ușoară în Polcoombe, unde natura are un miros deosebit de intens. La prânz ajungeți în sat și găsiți adăpost în muzee împotriva averselor mai puternice. După-amiaza continuați cu grijă pe drumurile ude spre Talland Sand pentru a admira coasta furtunoasă. Seara se încheie cu drumul de întoarcere, în timp ce luminile strălucesc în ploaie.",
+            "en": "The bike tour starts in drizzling rain in Polcoombe, where nature's scent is most intense. At noon, you reach the village and find shelter in museums from heavier showers. In the afternoon, proceed carefully on wet paths towards Talland Sand to admire the stormy coast. The evening ends with the return journey as lights glisten in the rain on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Polcoombe",
+                "hu": "Polcoombe",
+                "ro": "Polcoombe",
+                "en": "Polcoombe"
+              },
+              "tip_5lang": {
+                "de": "Die schlammigen Wege erfordern breitere Reifen oder Vorsicht beim Treten; genießen Sie das satte Grün, das durch den Regen erst richtig zur Geltung kommt.",
+                "hu": "A sáros ösvények szélesebb gumikat vagy óvatosabb pedálozást igényelnek; élvezze a dús zöld színeket, amelyeket az eső tesz igazán ragyogóvá.",
+                "ro": "Potecile noroioase necesită anvelope mai late sau prudență sporită; bucurați-vă de verdele crud care devine vibrant datorită ploii.",
+                "en": "Muddy trails require wider tires or extra caution while pedaling; enjoy the lush green colors that the rain brings out so vibrantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Model Village & Land of Legend",
+                "hu": "Polperro Makettfalu",
+                "ro": "Satul în miniatură Polperro",
+                "en": "Polperro Model Village & Land of Legend"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem überdachten Ort ab und nutzen Sie den Besuch, um die Regenkleidung etwas zu lüften, während Sie die Miniaturen erkunden.",
+                "hu": "Parkolja le kerékpárját egy fedett helyen, és használja ki a látogatást az esőruházat szárítására, miközben a miniatűr világot fedezi fel.",
+                "ro": "Parcați bicicleta într-un loc acoperit și profitați de vizită pentru a vă scutura echipamentul de ploaie în timp ce explorați miniaturiile.",
+                "en": "Park your bike in a covered spot and use the visit to air out your rain gear a bit while you explore the miniature world of legends."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Heritage Museum",
+                "hu": "Polperro Helytörténeti Múzeum",
+                "ro": "Muzeul Patrimoniului din Polperro",
+                "en": "Polperro Heritage Museum of Smuggling & Fishing"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Muskeln aufzuwärmen und den Regenguss abzuwarten; das Museum bietet faszinierende Einblicke in die maritime Geschichte.",
+                "hu": "Ideális megálló az izmok bemelegítésére és a zápor kivárására; a múzeum lenyűgöző betekintést nyújt a tengeri történelembe száraz környezetben.",
+                "ro": "O oprire ideală pentru a vă încălzi mușchii și a aștepta trecerea ploii; muzeul oferă perspective fascinante asupra istoriei maritime.",
+                "en": "An ideal stop to warm up your muscles and wait out a downpour; the museum offers fascinating insights into maritime history in a dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Talland Sand",
+                "hu": "Talland-homokpart",
+                "ro": "Plaja Talland Sand",
+                "en": "Talland Sand"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Bucht kann bei Nässe rutschig sein; prüfen Sie Ihre Bremsen vorher und genießen Sie den Anblick der aufpeitschenden Gischt.",
+                "hu": "Az öbölhöz vezető lejtő vizesen csúszós lehet; ellenőrizze a fékeit előtte, és élvezze a partot ostromló habok látványát az esőben.",
+                "ro": "Coborârea spre golf poate fi alunecoasă pe timp de ploaie; verificați frânele înainte și bucurați-vă de spectacolul valurilor înspumate.",
+                "en": "The descent to the cove can be slippery when wet; check your brakes beforehand and enjoy the sight of the crashing waves in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Tallan",
+                "hu": "St Tallan templom",
+                "ro": "Biserica St Tallan",
+                "en": "St Tallan"
+              },
+              "tip_5lang": {
+                "de": "Die alte Steinkirche bietet spirituelle Ruhe und Schutz vor dem Wind; ideal, um kurz innezuhalten, bevor die letzte Etappe der Tour beginnt.",
+                "hu": "A régi kőtemplom lelki nyugalmat és védelmet nyújt a szél elől; ideális egy rövid pihenőre, mielőtt a túra utolsó szakasza kezdődne.",
+                "ro": "Biserica veche de piatră oferă liniște spirituală și protecție împotriva vântului; ideală pentru un scurt popas înainte de ultima etapă.",
+                "en": "The old stone church offers spiritual peace and protection from the wind; ideal for a short break before the final stage of the tour begins."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in Polcoombe führt Sie durch die stille Winterlandschaft Cornwalls. Mittags erreichen Sie das malerische Polperro, wo die Museen eine willkommene Wärme bieten. Am frühen Nachmittag radeln Sie zur Talland Bay, um das goldene Licht der tiefstehenden Sonne zu genießen. Da es gegen 17:00 Uhr dunkel wird, sollten Sie frühzeitig mit eingeschaltetem Licht zurückkehren.",
+            "hu": "A fagyos indítás Polcoombe-ban Cornwall csendes téli tájain vezet keresztül. Délben érkezik a festői Polperróba, ahol a múzeumok hívogató meleget kínálnak a kerékpárosoknak. Kora délután tekerjen el a Talland-öbölhöz, hogy élvezze az alacsonyan járó nap arany fényeit. Mivel 17:00 körül sötétedik, időben induljon vissza, és ellenőrizze a lámpákat.",
+            "ro": "Un start înghețat în Polcoombe vă poartă prin peisajul liniștit de iarnă din Cornwall. La prânz ajungeți în pitorescul Polperro, unde muzeele oferă o căldură binevenită. După-amiaza devreme pedalați spre Talland Bay pentru a vă bucura de lumina aurie a soarelui. Deoarece se întunecă în jur de 17:00, porniți înapoi din timp cu luminile aprinse.",
+            "en": "A frosty start in Polcoombe leads you through the quiet winter landscapes of Cornwall. At noon, you reach picturesque Polperro, where museums offer welcoming warmth for cyclists. In the early afternoon, cycle to Talland Bay to enjoy the golden light of the low sun. As it gets dark around 17:00, head back early and ensure your lights are working."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Polcoombe",
+                "hu": "Polcoombe",
+                "ro": "Polcoombe",
+                "en": "Polcoombe"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Abfahrten; die klare Winterluft bietet weite Ausblicke über die hügelige Landschaft Cornwalls.",
+                "hu": "Viseljen szélálló kesztyűt a lejtőkhöz; a tiszta téli levegő messzi kilátást biztosít Cornwall dombos tájaira és a távoli tengerre.",
+                "ro": "Purtați mănuși rezistente la vânt pentru coborâri; aerul limpede de iarnă oferă vederi largi peste peisajul deluros din Cornwall.",
+                "en": "Wear windproof gloves for the descents; the clear winter air provides vast views across the hilly landscapes of Cornwall and the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Model Village & Land of Legend",
+                "hu": "Polperro Makettfalu",
+                "ro": "Satul în miniatură Polperro",
+                "en": "Polperro Model Village & Land of Legend"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Miniaturwelt im sanften Winterlicht; die ruhige Atmosphäre erlaubt es, jedes winzige Detail ohne Eile zu betrachten.",
+                "hu": "Csodálja meg a makettvilágot a lágy téli fényekben; a nyugodt hangulat lehetővé teszi, hogy minden apró részletet sietség nélkül megfigyeljen.",
+                "ro": "Admirați lumea în miniatură în lumina blândă a iernii; atmosfera liniștită vă permite să observați fiecare detaliu mic fără grabă.",
+                "en": "Admire the miniature world in the soft winter light; the quiet atmosphere allows you to observe every tiny detail without any rush."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Museum",
+                "hu": "Polperro Helytörténeti Múzeum",
+                "ro": "Muzeul Patrimoniului din Polperro",
+                "en": "Polperro Heritage Museum of Smuggling & Fishing"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle, aber es ist windstill; perfekt, um nach dem Radeln etwas zur Ruhe zu kommen und Geschichte zu erleben.",
+                "hu": "A vastag falak ugyan hűvösek lehetnek, de nincs szél; tökéletes hely a tekerés utáni megpihenésre és a történelem felfedezésére.",
+                "ro": "Zidurile groase pot păstra răcoarea, dar nu bate vântul; este locul perfect pentru a vă relaxa după pedalat și a descoperi istoria.",
+                "en": "The thick walls may hold some chill, but it's windless; the perfect place to rest after cycling and discover the local smuggling history."
+              }
+            },
+            {
+              "name": {
+                "de": "Talland Sand",
+                "hu": "Talland-homokpart",
+                "ro": "Plaja Talland Sand",
+                "en": "Talland Sand"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; genießen Sie die Einsamkeit, aber achten Sie auf gefrorene Pfützen auf den Wegen zur Küste.",
+                "hu": "A strand télen szinte teljesen üres; élvezze a magányt, de ügyeljen a fagyott tócsákra a tengerpartra vezető keskeny utakon.",
+                "ro": "Plaja este aproape pustie iarna; bucurați-vă de singurătate, dar aveți grijă la bălțile înghețate de pe drumurile spre coastă.",
+                "en": "The beach is almost empty in winter; enjoy the solitude, but watch out for frozen puddles on the narrow paths leading to the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Tallan",
+                "hu": "St Tallan templom",
+                "ro": "Biserica St Tallan",
+                "en": "St Tallan"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche wirkt im Winterlicht besonders erhaben; nutzen Sie den Ort für eine kurze Meditation, bevor die Sonne am Horizont verschwindet.",
+                "hu": "A templom téli fényben különösen fenségesnek tűnik; használja ezt a helyet egy rövid elmélyülésre, mielőtt a nap eltűnik a látóhatáron.",
+                "ro": "Biserica pare deosebit de maiestuoasă în lumina iernii; folosiți acest loc pentru o scurtă meditație înainte ca soarele să apună.",
+                "en": "The church looks particularly majestic in winter light; use this place for a brief reflection before the sun disappears below the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autós utazása egy frissítő megállóval kezdődik Polcoombe-ban, amely békés alaphangot ad a napnak. Irány a falu, ahol felfedezheti a részletes makettfalut, majd Gina stúdiójában a helyi alkotásokat. Ebéd után a helytörténeti múzeum tárja fel Polperro drámai csempészmúltját. Egy rövid autózás a történelmi St Tallan templomhoz vezet, majd a nap egy pihentető sétával zárul a Talland-homokparton.",
         "ro": "Călătoria ta începe cu o oprire revigorantă la Polcoombe, dând un ton pașnic zilei. Mergi în sat pentru a explora satul de machete și a admira creațiile la studioul Ginei. După prânz, muzeul patrimoniului dezvăluie trecutul dramatic de contrabandă. O scurtă călătorie te duce la biserica istorică St Tallan, încheind ziua cu o plimbare relaxantă pe plaja Talland Sand.",
         "en": "Your drive begins with a refreshing stop at Polcoombe, setting a peaceful tone for the day. Head into the village to explore the intricate model village and then admire local creations at Gina's Art Studio. After lunch, the heritage museum reveals Polperro's dramatic smuggling past. A short drive takes you to the historic St Tallan church, wrapping up your day with a relaxing stroll on Talland Sand."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Autofahrt beginnt im nebligen Polcoombe, wo der Regen die Hügel in ein mystisches Grau hüllt. Mittags parken Sie nahe Polperro und besuchen die trockenen Museen und Galerien des Hafens. Am Nachmittag führt die Route zur Talland Bay, wo Sie den Sturm bequem aus dem Wagen beobachten können. Der Abend endet mit einer gemütlichen Fahrt durch die regennassen, kurvigen Straßen.",
+            "hu": "Az autós túra a ködös Polcoombe-ban indul, ahol az eső misztikus szürkeségbe öltözteti a dombokat. Délben Polperro közelében parkolva a kikötő száraz múzeumait és galériáit látogathatja meg. Délután az út a Talland-öbölhöz vezet, ahol kényelmesen, az autóból is megcsodálhatja a viharos tengert. Az este a kanyargós, esőtől csillogó utakon való lassú visszatéréssel zárul.",
+            "ro": "Călătoria cu mașina începe în Polcoombe cel cețos, unde ploaia îmbracă dealurile într-un gri mistic. La prânz parcați lângă Polperro și vizitați muzeele și galeriile uscate din port. După-amiaza ruta duce spre Talland Bay, unde puteți observa furtuna confortabil din mașină. Seara se încheie cu o plimbare liniștită pe drumurile șerpuite și ude.",
+            "en": "Your car trip begins in misty Polcoombe, where the rain dresses the hills in mystical grey. At noon, park near Polperro and visit the dry museums and galleries of the harbor. In the afternoon, the route leads to Talland Bay, where you can admire the stormy sea comfortably from your car. The evening ends with a slow return drive on the winding, rain-glistening roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Polcoombe",
+                "hu": "Polcoombe",
+                "ro": "Polcoombe",
+                "en": "Polcoombe"
+              },
+              "tip_5lang": {
+                "de": "Die engen Straßen können bei Regen schlammig sein; fahren Sie langsam und genießen Sie die Aussicht auf die Täler durch die beschlagfreien Scheiben.",
+                "hu": "A szűk utak esőben sárosak lehetnek; vezessen lassan, és élvezze a völgyekre nyíló kilátást a páramentesített szélvédőn keresztül.",
+                "ro": "Drumurile înguste pot fi noroioase pe ploaie; conduceți încet și bucurați-vă de vederea spre văi prin parbrizul dezaburit.",
+                "en": "The narrow roads can be muddy in the rain; drive slowly and enjoy the views over the valleys through your defogged windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Model Village & Land of Legend",
+                "hu": "Polperro Makettfalu",
+                "ro": "Satul în miniatură Polperro",
+                "en": "Polperro Model Village & Land of Legend"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem Hauptparkplatz und nutzen Sie den kurzen Fußweg zum Modelldorf, um die frische, regenreine Luft Cornwalls einzuatmen.",
+                "hu": "Parkoljon a főparkolóban, és használja ki a rövid sétát a makettfaluig, hogy beszippantsa Cornwall friss, esőmosta tengeri levegőjét.",
+                "ro": "Parcați în parcarea principală și profitați de scurta plimbare spre satul în miniatură pentru a respira aerul proaspăt spălat de ploaie.",
+                "en": "Park in the main car park and enjoy the short walk to the model village to breathe in Cornwall's fresh, rain-washed sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ginas Kunststudio",
+                "hu": "Gina Művészeti Stúdiója",
+                "ro": "Studioul de Artă al Ginei",
+                "en": "Gina's Art Studio"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um dem Regen zu entfliehen; stöbern Sie in Ruhe durch die Galerie und finden Sie vielleicht ein besonderes Andenken für zu Hause.",
+                "hu": "Tökéletes hely az eső elől való menekülésre; böngésszen nyugodtan a galériában, és talán rálel egy különleges emléktárgyra az otthonába.",
+                "ro": "Un loc perfect pentru a scăpa de ploaie; răsfoiți galeria în tihnă și poate veți găsi un suvenir special pentru acasă.",
+                "en": "A perfect spot to escape the rain; browse the gallery at your leisure and perhaps find a special souvenir to take back home."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Heritage Museum",
+                "hu": "Polperro Helytörténeti Múzeum",
+                "ro": "Muzeul Patrimoniului din Polperro",
+                "en": "Polperro Heritage Museum of Smuggling & Fishing"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist komplett überdacht und bietet eine wunderbare Pause vom Wetter, während Sie in die Tiefen der lokalen Geschichte eintauchen.",
+                "hu": "A múzeum teljesen fedett, és csodálatos pihenőt kínál az időjárás elől, miközben elmerül a helyi történelem izgalmas mélységeiben.",
+                "ro": "Muzeul este complet acoperit și oferă o pauză minunată de vremea rea, în timp ce explorați profunzimile istoriei locale.",
+                "en": "The museum is fully covered and offers a wonderful break from the weather while you dive into the exciting depths of local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Tallan",
+                "hu": "St Tallan templom",
+                "ro": "Biserica St Tallan",
+                "en": "St Tallan"
+              },
+              "tip_5lang": {
+                "de": "Direkt an der Kirche gibt es begrenzte Parkmöglichkeiten; der kurze Weg ins Innere lohnt sich für die friedliche Stille bei prasselndem Regen.",
+                "hu": "A templom mellett korlátozott a parkolás; a rövid séta a belső térbe megéri a békés csendért, miközben kint kopog az eső a köveken.",
+                "ro": "Parcarea lângă biserică este limitată; scurta plimbare spre interior merită pentru liniștea profundă în timp ce ploaia bate în geamuri.",
+                "en": "Parking near the church is limited; the short walk inside is worth it for the peaceful silence while the rain taps on the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Talland Sand",
+                "hu": "Talland-homokpart",
+                "ro": "Plaja Talland Sand",
+                "en": "Talland Sand"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Bucht direkt aus dem Auto; der Parkplatz bietet eine tolle Sicht auf die Wellen, ohne nass zu werden.",
+                "hu": "Élvezze az öbölre nyíló kilátást közvetlenül az autóból; a parkolóból remek rálátás nyílik a hullámokra anélkül, hogy bőrig ázna.",
+                "ro": "Bucurați-vă de vederea spre golf direct din mașină; parcarea oferă o panoramă excelentă asupra valurilor fără a vă uda deloc.",
+                "en": "Enjoy the view of the cove directly from your car; the car park offers a great perspective of the waves without getting wet at all."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger, aber kalter Wintermorgen beginnt mit einer Fahrt durch das frostige Polcoombe. Mittags erkunden Sie das ruhige Polperro und wärmen sich in den historischen Gebäuden auf. Am Nachmittag führt die Route zur Küste bei Talland, wo das klare Licht perfekte Fotomotive bietet. Beenden Sie den Ausflug vor 17:00 Uhr, um die stimmungsvolle Dämmerung sicher zu erleben.",
+            "hu": "A napos, de hideg téli reggel egy autózással indul a fagyos Polcoombe-ban. Délben fedezze fel a csendes Polperrót, és melegedjen fel a történelmi épületek ódon falai között. Délután az út a Talland-partra vezet, ahol a tiszta fények tökéletes fotótémákat kínálnak. Fejezze be a kirándulást 17:00 előtt, hogy biztonságban érje el a szállását a sötétedés előtt.",
+            "ro": "O dimineață de iarnă însorită, dar rece, începe cu o plimbare prin Polcoombe cel înghețat. La prânz explorați liniștitul Polperro și încălziți-vă în clădirile istorice. După-amiaza ruta duce spre coasta Talland, unde lumina clară oferă cadre foto perfecte. Încheiați excursia înainte de 17:00 pentru a savura amurgul în siguranță.",
+            "en": "A sunny but cold winter morning begins with a drive through frosty Polcoombe. At noon, explore quiet Polperro and warm up within the ancient walls of historical buildings. In the afternoon, the route leads to the Talland coast, where the clear light offers perfect photo opportunities. Finish your trip before 17:00 to enjoy the twilight safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Polcoombe",
+                "hu": "Polcoombe",
+                "ro": "Polcoombe",
+                "en": "Polcoombe"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis in schattigen Kurven der engen Täler; die Wintersonne zaubert ein wunderschönes Glitzern auf die frostigen Wiesen.",
+                "hu": "Ügyeljen a jegesedésre a szűk völgyek árnyékos kanyarjaiban; a téli napsütés csodálatos csillogást varázsol a fagyos, déres mezőkre.",
+                "ro": "Atenție la porțiunile de gheață în curbele umbrite ale văilor înguste; soarele de iarnă creează sclipiri magice pe pajiștile înghețate.",
+                "en": "Watch out for black ice in shaded bends of the narrow valleys; the winter sun creates a beautiful shimmer on the frosty Cornish meadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Model Village & Land of Legend",
+                "hu": "Polperro Makettfalu",
+                "ro": "Satul în miniatură Polperro",
+                "en": "Polperro Model Village & Land of Legend"
+              },
+              "tip_5lang": {
+                "de": "Das Modelldorf ist im Winter angenehm leer; nutzen Sie die Zeit für Makroaufnahmen der frostigen Miniaturen bei klarem Winterlicht.",
+                "hu": "A makettfalu télen kellemesen üres; használja ki az időt a fagyos miniatűrök makrófotózására a tiszta és éles téli fényekben.",
+                "ro": "Satul în miniatură este plăcut de gol iarna; profitați de timp pentru fotografii macro ale miniaturilor înghețate în lumina clară.",
+                "en": "The model village is pleasantly empty in winter; use the time for macro photography of the frosty miniatures in the sharp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Ginas Kunststudio",
+                "hu": "Gina Művészeti Stúdiója",
+                "ro": "Studioul de Artă al Ginei",
+                "en": "Gina's Art Studio"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Galerie auf und lassen Sie sich von den sommerlichen Farben der Bilder verzaubern, während draußen der Winterwind weht.",
+                "hu": "Melegedjen fel a galériában, és hagyja, hogy a képek nyári színei elvarázsolják, miközben kint a hideg téli tengeri szél fúj.",
+                "ro": "Încălziți-vă în galerie și lăsați culorile de vară ale tablourilor să vă încânte, în timp ce afară suflă vântul rece de iarnă.",
+                "en": "Warm up in the gallery and let the summer colors of the paintings enchant you while the cold winter sea wind blows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Polperro Heritage Museum",
+                "hu": "Polperro Helytörténeti Múzeum",
+                "ro": "Muzeul Patrimoniului din Polperro",
+                "en": "Polperro Heritage Museum of Smuggling & Fishing"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte für eine Stunde zu vergessen und in die Welt der Fischer und Schmuggler vergangener Jahrhunderte einzutauchen.",
+                "hu": "Ideális hely, hogy egy órára elfelejtse a kinti hideget, és elmerüljön az elmúlt évszázadok halászainak és csempészeinek izgalmas világában.",
+                "ro": "Un loc ideal pentru a uita de frig timp de o oră și a intra în lumea pescarilor și contrabandiștilor din secolele trecute.",
+                "en": "An ideal place to forget the cold for an hour and immerse yourself in the world of fishermen and smugglers from past centuries."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St. Tallan",
+                "hu": "St Tallan templom",
+                "ro": "Biserica St Tallan",
+                "en": "St Tallan"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern strahlen im Winter eine besondere Ruhe aus; ziehen Sie sich warm an, da es im Inneren der alten Kirche kühl sein kann.",
+                "hu": "A vastag kőfalak télen különleges nyugalmat árasztanak; öltözzön fel jól, mert a régi templom belsejében is hűvös lehet a levegő.",
+                "ro": "Zidurile groase de piatră emană o liniște specială iarna; îmbrăcați-vă bine, deoarece în interiorul bisericii vechi poate fi răcoare.",
+                "en": "The thick stone walls radiate a special peace in winter; dress warmly, as it can be quite chilly inside the ancient church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Talland Sand",
+                "hu": "Talland-homokpart",
+                "ro": "Plaja Talland Sand",
+                "en": "Talland Sand"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 17:00 Uhr direkt vom Parkplatz aus; das Licht über dem Meer ist im Winter besonders spektakulär.",
+                "hu": "Élje át a naplementét 17:00 körül közvetlenül a parkolóból; a tenger feletti fények télen különösen drámaiak és látványosak.",
+                "ro": "Admirați apusul de soare în jurul orei 17:00 direct din parcare; luminile de deasupra mării sunt spectaculoase în timpul iernii.",
+                "en": "Experience the sunset around 17:00 directly from the car park; the lights over the sea are particularly spectacular and dramatic in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

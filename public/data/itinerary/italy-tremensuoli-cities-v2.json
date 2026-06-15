@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot a szárazföld belsejében, Tremensuoli gazdag örökségének felfedezésével. Látogasson el a történelmi Chiesa dell'Annunziata templomhoz és az impozáns Castello Caracciolo Carafa várhoz.\nMidday: Irány a gyönyörű partvidék, ahogy a nap egyre melegebben süt. Érkezzen meg a nyüzsgő strandklubokhoz, hogy élvezze az energikus olasz tengerparti légkört és pihenjen a vízparton.\nAfternoon: Töltse a délutánt a part menti strandok felfedezésével. Mártsa lábát a tiszta Földközi-tengerbe, szívja magába a napsugarakat, és élvezze a frissítő tengeri szellőt a lüktető partszakaszon.\nEvening: Ahogy a levegő lehűl, tegyen egy kényelmes sétát a vízparton. Csodálja meg, ahogy az égbolt élénk narancs és rózsaszín árnyalatokat ölt a Tirrén-tenger felett lemenő napfényben.",
         "ro": "Morning: Începeți-vă ziua explorând bogata moștenire din Tremensuoli. Vizitați istorica Chiesa dell'Annunziata și impunătorul Castello Caracciolo Carafa, admirând arhitectura și priveliștile.\nMidday: Îndreptați-vă spre coasta frumoasă pe măsură ce soarele devine mai puternic. Ajungeți la cluburile de plajă pline de viață pentru a vă bucura de atmosfera litoralului italian.\nAfternoon: Petreceți-vă după-amiaza explorând diverse plaje. Scufundați-vă degetele în apele clare ale Mediteranei, bucurați-vă de soare și simțiți briza răcoroasă a mării la popularele lido-uri.\nEvening: Pe măsură ce ziua se răcește, faceți o plimbare liniștită pe malul apei. Urmăriți cum cerul capătă nuanțe vibrante de portocaliu și roz în timpul unui apus superb peste Marea Tireniană.",
         "en": "Morning: Start your day inland, exploring the rich heritage of Tremensuoli. Visit the historic Chiesa dell'Annunziata and the imposing Castello Caracciolo Carafa, admiring the architecture and views.\nMidday: Head down towards the beautiful coastline as the sun gets stronger. Arrive at the lively beach clubs to enjoy the energetic Italian seaside atmosphere and relax by the water.\nAfternoon: Spend your afternoon beach-hopping along the coast. Dip your toes into the clear Mediterranean waters, soak up the sun, and enjoy the refreshing sea breeze at various popular lidos.\nEvening: As the day cools, take a leisurely stroll along the water's edge. Watch the sky turn vibrant shades of orange and pink during a beautiful sunset over the Tyrrhenian Sea before heading to dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der schützenden Stille der Kirche. Mittags bietet die Burg feste Mauern gegen den Wind. Am Nachmittag erleben Sie die dramatische Küste im Regen, wenn die Brandung lauter tost. Der Abend klingt gemütlich in den Gassen des Oberdorfes aus, während der Regen auf das Kopfsteinpflaster trommelt.",
+            "hu": "Kezdje a reggelt a templom védelmező csendjében. Délben a vár vastag falai nyújtanak menedéket a szél elől. Délután csodálja meg a drámai tengerpartot az esőben, amikor a hullámverés felerősödik. Az este a felső falu szűk utcáin ér véget, miközben az eső kopog a macskaköveken.",
+            "ro": "Începeți dimineața în liniștea protectoare a bisericii. La prânz, castelul oferă ziduri solide împotriva vântului. După-amiaza, experimentați coasta dramatică sub ploaie, când valurile se sparg cu putere. Seara se încheie plăcut pe străzile satului de sus, în timp ce ploaia bate în pavaj.",
+            "en": "Begin the morning in the protective silence of the church. At noon, the castle provides solid walls against the wind. In the afternoon, experience the dramatic coast in the rain as the surf roars louder. The evening ends cozily in the alleys of the upper village while rain taps on the cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kunstvollen Details im Innenraum, während Sie den Schauer abwarten; ein trockener Ort für Besinnung.",
+                "hu": "Csodálja meg a belső tér művészi részleteit, miközben megvárja az eső végét; száraz hely az elmélyüléshez.",
+                "ro": "Admirați detaliile artistice din interior în timp ce așteptați trecerea ploii; un loc uscat pentru reflecție.",
+                "en": "Admire the artistic details of the interior while waiting for the shower to pass; a dry place for reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Caracciolo Carafa",
+                "hu": "Castello Caracciolo Carafa",
+                "ro": "Castello Caracciolo Carafa",
+                "en": "Castello Caracciolo Carafa"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Turmaufgänge bieten guten Windschutz, achten Sie jedoch auf rutschige Steinstufen bei Nässe.",
+                "hu": "A masszív toronyfeljárók jó szélvédettséget biztosítanak, de ügyeljen a nedves, csúszós kőlépcsőkre.",
+                "ro": "Scările masive ale turnului oferă protecție bună împotriva vântului, dar atenție la treptele de piatră alunecoase.",
+                "en": "The massive tower stairs offer good wind protection, but watch out for slippery stone steps when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Florida",
+                "hu": "Lido Florida",
+                "ro": "Lido Florida",
+                "en": "Lido Florida"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das graue Meer von der überdachten Terrasse aus; festes Schuhwerk ist für den nassen Sand ratsam.",
+                "hu": "Élvezze a szürke tenger látványát a fedett teraszról; a nedves homok miatt vízálló lábbeli javasolt.",
+                "ro": "Bucurați-vă de vederea mării gri de pe terasa acoperită; încălțămintea rezistentă este recomandată pentru nisipul ud.",
+                "en": "Enjoy the view of the grey sea from the covered terrace; waterproof footwear is recommended for the wet sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Poseidon Beach",
+                "hu": "Poseidon Beach",
+                "ro": "Poseidon Beach",
+                "en": "Poseidon Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung wirkt bei Regen besonders kraftvoll und beruhigend; halten Sie einen stabilen Regenschirm gegen die Böen bereit.",
+                "hu": "A hullámverés esőben különösen erőteljes és nyugtató; készüljön stabil esernyővel a széllökések ellen.",
+                "ro": "Valurile par deosebit de puternice și liniștitoare în ploaie; pregătiți o umbrelă stabilă împotriva rafalelor de vânt.",
+                "en": "The surf looks especially powerful and soothing in the rain; keep a sturdy umbrella ready against the wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido I Delfini",
+                "hu": "Lido I Delfini",
+                "ro": "Lido I Delfini",
+                "en": "Lido I Delfini"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Wasseroberfläche von einem geschützten Platz aus; Regenkleidung ist hier unerlässlich.",
+                "hu": "Figyelje az esőcseppek játékát a vízfelszínen egy védett pontról; az esővédő ruházat itt elengedhetetlen.",
+                "ro": "Observați jocul picăturilor de ploaie pe suprafața apei dintr-un loc protejat; hainele de ploaie sunt esențiale aici.",
+                "en": "Watch the play of raindrops on the water surface from a sheltered spot; rain gear is essential here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt frisch an der Kirche in der klaren Winterluft. Mittags fangen die Steine der Burg die schwache Wärme der Sonne ein. Nachmittags ist der Strand leer und friedlich für eine einsame Reflexion. Der frühe Sonnenuntergang gegen 17:00 Uhr taucht den Ort in goldenes Licht, bevor es kühl wird.",
+            "hu": "A reggel frissen indul a templomnál a tiszta téli levegőben. Délben a vár kövei magukba szívják a nap gyenge melegét. Délután a tengerpart üres és békés, tökéletes az elcsendesedéshez. A korai, 17:00 körüli naplemente aranyfénybe vonja a tájat, mielőtt hirtelen lehűlne az idő.",
+            "ro": "Dimineața începe proaspăt la biserică, în aerul curat de iarnă. La prânz, pietrele castelului captează căldura slabă a soarelui. După-amiaza, plaja este goală și liniștită pentru o reflecție solitară. Apusul devreme, în jurul orei 17:00, scaldă locul în lumină aurie înainte de a se lăsa frigul.",
+            "en": "The morning starts fresh at the church in the clear winter air. At noon, the castle stones capture the faint warmth of the sun. In the afternoon, the beach is empty and peaceful for solitary reflection. The early sunset around 5 PM bathes the area in golden light before the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den Innenraum überraschend warm; genießen Sie die Stille der absoluten Nebensaison.",
+                "hu": "A vastag falak meglepően melegen tartják a belső teret; élvezze a teljes holtszezon csendjét.",
+                "ro": "Zidurile groase mențin interiorul surprinzător de cald; bucurați-vă de liniștea deplină a extrasezonului.",
+                "en": "The thick walls keep the interior surprisingly warm; enjoy the silence of the absolute off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Caracciolo Carafa",
+                "hu": "Castello Caracciolo Carafa",
+                "ro": "Castello Caracciolo Carafa",
+                "en": "Castello Caracciolo Carafa"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie die tiefstehende Wintersonne an den alten Befestigungsanlagen ein; kleiden Sie sich für die frische Brise im Zwiebelprinzip.",
+                "hu": "Használja ki az alacsonyan járó téli nap sugarait a régi erődítményeknél; öltözzön rétegesen a friss szél ellen.",
+                "ro": "Surprindeți soarele slab de iarnă pe vechile fortificații; îmbrăcați-vă în straturi pentru briza rece.",
+                "en": "Catch the low winter sun on the ancient fortifications; dress in layers against the fresh breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Florida",
+                "hu": "Lido Florida",
+                "ro": "Lido Florida",
+                "en": "Lido Florida"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den weiten, leeren Horizont und das klare Winterlicht; bringen Sie eine Thermoskanne mit heißem Tee mit.",
+                "hu": "Élje át a tágas, üres horizontot és a tiszta téli fényeket; hozzon magával egy termosz forró teát.",
+                "ro": "Experimentați orizontul larg și gol și lumina clară de iarnă; aduceți un termos cu ceai fierbinte.",
+                "en": "Experience the vast, empty horizon and the clear winter light; bring a thermos with hot tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Poseidon Beach",
+                "hu": "Poseidon Beach",
+                "ro": "Poseidon Beach",
+                "en": "Poseidon Beach"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Meeresbrise ist erfrischend, bleiben Sie jedoch in Bewegung, um warm zu bleiben; die Sonnenuntergangsfarben sind jetzt besonders intensiv.",
+                "hu": "A hűvös tengeri szellő frissítő, de maradjon mozgásban, hogy ne fázzon meg; a naplemente színei most különösen intenzívek.",
+                "ro": "Briza rece a mării este revigorantă, dar rămâneți în mișcare pentru a vă menține cald; culorile apusului sunt deosebit de intense acum.",
+                "en": "The cool sea breeze is refreshing, but stay moving to keep warm; the sunset colors are especially intense now."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido I Delfini",
+                "hu": "Lido I Delfini",
+                "ro": "Lido I Delfini",
+                "en": "Lido I Delfini"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit der Küste vor der Dunkelheit um 17 Uhr; eine warme Mütze wird dringend empfohlen.",
+                "hu": "Élvezze a partvidék zord szépségét a 17 órai sötétedés előtt; egy meleg sapka viselése erősen ajánlott.",
+                "ro": "Bucurați-vă de frumusețea dură a coastei înainte de lăsarea întunericului la ora 17; se recomandă o căciulă călduroasă.",
+                "en": "Enjoy the rugged beauty of the coastline before the 5 PM darkness; a warm hat is highly recommended."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Kezdje a napot a szárazföld belsejében, Tremensuoli gazdag örökségének felfedezésével. Látogasson el a történelmi Chiesa dell'Annunziata templomhoz és az impozáns Castello Caracciolo Carafa várhoz.\nMidday: Irány a gyönyörű partvidék, ahogy a nap egyre melegebben süt. Érkezzen meg a nyüzsgő strandklubokhoz, hogy élvezze az energikus olasz tengerparti légkört és pihenjen a vízparton.\nAfternoon: Töltse a délutánt a part menti strandok felfedezésével. Mártsa lábát a tiszta Földközi-tengerbe, szívja magába a napsugarakat, és élvezze a frissítő tengeri szellőt a lüktető partszakaszon.\nEvening: Ahogy a levegő lehűl, tegyen egy kényelmes sétát a vízparton. Csodálja meg, ahogy az égbolt élénk narancs és rózsaszín árnyalatokat ölt a Tirrén-tenger felett lemenő napfényben.",
         "ro": "Morning: Începeți-vă ziua explorând bogata moștenire din Tremensuoli. Vizitați istorica Chiesa dell'Annunziata și impunătorul Castello Caracciolo Carafa, admirând arhitectura și priveliștile.\nMidday: Îndreptați-vă spre coasta frumoasă pe măsură ce soarele devine mai puternic. Ajungeți la cluburile de plajă pline de viață pentru a vă bucura de atmosfera litoralului italian.\nAfternoon: Petreceți-vă după-amiaza explorând diverse plaje. Scufundați-vă degetele în apele clare ale Mediteranei, bucurați-vă de soare și simțiți briza răcoroasă a mării la popularele lido-uri.\nEvening: Pe măsură ce ziua se răcește, faceți o plimbare liniștită pe malul apei. Urmăriți cum cerul capătă nuanțe vibrante de portocaliu și roz în timpul unui apus superb peste Marea Tireniană.",
         "en": "Morning: Start your day inland, exploring the rich heritage of Tremensuoli. Visit the historic Chiesa dell'Annunziata and the imposing Castello Caracciolo Carafa, admiring the architecture and views.\nMidday: Head down towards the beautiful coastline as the sun gets stronger. Arrive at the lively beach clubs to enjoy the energetic Italian seaside atmosphere and relax by the water.\nAfternoon: Spend your afternoon beach-hopping along the coast. Dip your toes into the clear Mediterranean waters, soak up the sun, and enjoy the refreshing sea breeze at various popular lidos.\nEvening: As the day cools, take a leisurely stroll along the water's edge. Watch the sky turn vibrant shades of orange and pink during a beautiful sunset over the Tyrrhenian Sea before heading to dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Morgen, wenn der Regen den historischen Kern in sanftes Grau taucht. Mittags finden Sie in den dicken Burgmauern einen trockenen Unterstand für Mensch und Rad. Nachmittags fordert die Küstenfahrt Konzentration auf nasser Straße, belohnt aber mit frischer Meeresluft. Der Abend schließt ruhig ab, wenn die Lichter auf dem Asphalt glänzen.",
+            "hu": "Kezdje óvatosan a reggelt, amikor az eső lágy szürkeségbe vonja a történelmi központot. Délben a vár vastag falai között talál száraz menedéket magának és a kerékpárnak. Délután a tengerparti tekerés koncentrációt igényel a vizes úton, de friss tengeri levegővel jutalmaz. Az este nyugodtan zárul, ahogy a fények megcsillannak az aszfalton.",
+            "ro": "Începeți cu atenție dimineața, când ploaia îmbracă centrul istoric într-un gri delicat. La prânz, zidurile groase ale castelului oferă un adăpost uscat pentru om și bicicletă. După-amiaza, plimbarea pe coastă necesită concentrare pe drumul ud, dar răsplătește cu aer marin proaspăt. Seara se încheie liniștit, cu luminile reflectate în asfalt.",
+            "en": "Start carefully in the morning as the rain bathes the historical center in soft grey. At noon, the thick castle walls provide a dry shelter for both person and bike. In the afternoon, the coastal ride requires concentration on the wet road but rewards you with fresh sea air. The evening closes quietly as the lights shimmer on the asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Caracciolo Carafa",
+                "hu": "Castello Caracciolo Carafa",
+                "ro": "Castello Caracciolo Carafa",
+                "en": "Castello Caracciolo Carafa"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Torbögen der Burg, falls der Regen stärker wird; Vorsicht beim Radfahren auf nassem Kopfsteinpflaster.",
+                "hu": "Keressen menedéket a vár kapualjai alatt, ha elered az eső; legyen óvatos a kerékpározással a nedves macskaköveken.",
+                "ro": "Căutați adăpost sub arcadele castelului dacă ploaia se întețește; atenție la ciclism pe pavajul ud.",
+                "en": "Seek shelter under the castle archways if the rain intensifies; be careful cycling on wet cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Das Portal bietet einen guten Unterstand für Sie und Ihr Rad während einer kurzen Pause; nutzen Sie die Zeit für die Innenbesichtigung.",
+                "hu": "A kapualj jó pihenőhelyet nyújt Önnek és a biciklinek egy rövid szünetre; használja ki az időt a belső tér megtekintésére.",
+                "ro": "Portalul oferă un adăpost bun pentru dvs. și bicicletă în timpul unei scurte pauze; folosiți timpul pentru vizitarea interiorului.",
+                "en": "The portal provides a good shelter for you and your bike during a short break; use the time to visit the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Florida",
+                "hu": "Lido Florida",
+                "ro": "Lido Florida",
+                "en": "Lido Florida"
+              },
+              "tip_5lang": {
+                "de": "Die Strandpromenade kann bei Nässe rutschig sein, fahren Sie daher langsam und genießen Sie die kühle Meeresbrise.",
+                "hu": "A tengerparti sétány nedvesen csúszós lehet, ezért hajtson lassan, és élvezze a hűvös tengeri szellőt.",
+                "ro": "Promenada poate fi alunecoasă când este udă, așa că mergeți încet și bucurați-vă de briza răcoroasă a mării.",
+                "en": "The beachfront promenade can be slippery when wet, so ride slowly and enjoy the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Medusa",
+                "hu": "Lido Medusa",
+                "ro": "Lido Medusa",
+                "en": "Lido Medusa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Strandbäder für einen kurzen Stopp; eine wasserfeste Satteltasche schützt Ihre Ausrüstung.",
+                "hu": "Használja ki a strandfürdők fedett részeit egy rövid megállóra; egy vízálló nyeregtáska megvédi a felszerelését.",
+                "ro": "Folosiți zonele acoperite ale ștrandurilor pentru o scurtă oprire; o geantă de bicicletă impermeabilă vă va proteja echipamentul.",
+                "en": "Use the covered areas of the beach clubs for a short stop; a waterproof saddlebag will protect your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Del Sole",
+                "hu": "Lido Del Sole",
+                "ro": "Lido Del Sole",
+                "en": "Lido Del Sole"
+              },
+              "tip_5lang": {
+                "de": "Der Regen wäscht den Staub von den Wegen und macht die Farben der Küste intensiver; tragen Sie auffällige Reflektoren für bessere Sicht.",
+                "hu": "Az eső lemossa a port az utakról, és intenzívebbé teszi a part színeit; viseljen fényvisszaverőt a jobb láthatóságért.",
+                "ro": "Ploaia spală praful de pe drumuri și intensifică culorile coastei; purtați elemente reflectorizante pentru o vizibilitate mai bună.",
+                "en": "The rain washes the dust off the roads and makes the coastal colors more intense; wear reflectors for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sirene",
+                "hu": "Lido Sirene",
+                "ro": "Lido Sirene",
+                "en": "Lido Sirene"
+              },
+              "tip_5lang": {
+                "de": "Am Ende der Tour bietet die raue See ein beeindruckendes Schauspiel; stellen Sie sicher, dass Ihre Bremsen auf nasser Fahrbahn gut greifen.",
+                "hu": "A túra végén a zord tenger lenyűgöző látványt nyújt; győződjön meg róla, hogy a fékek jól fognak a nedves úton.",
+                "ro": "La finalul turului, marea agitată oferă un spectacol impresionant; asigurați-vă că frânele funcționează bine pe carosabil ud.",
+                "en": "At the end of the tour, the rough sea offers an impressive spectacle; ensure your brakes work well on the wet road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft belebt bei der Fahrt hinauf zur Burg, wo die Wintersonne die Steine wärmt. Mittags bietet die Stille der Kirche einen Moment der Einkehr fernab des Windes. Nachmittags genießen Sie die leere Küstenstraße und das klare Licht des Winters. Beenden Sie die Tour gegen 17:00 Uhr, bevor die Kälte mit der Dunkelheit zunimmt.",
+            "hu": "A hűvös reggeli levegő felfrissít a várba vezető úton, ahol a téli nap melegíti a köveket. Délben a templom csendje nyújt egy pillanatnyi elcsendesedést a szél elől. Délután élvezze az üres tengerparti utat és a tél tiszta fényeit. Fejezze be a túrát 17:00 körül, mielőtt a hideg a sötétséggel együtt fokozódna.",
+            "ro": "Aerul rece de dimineață vă înviorează în drum spre castel, unde soarele de iarnă încălzește pietrele. La prânz, liniștea bisericii oferă un moment de reflecție ferit de vânt. După-amiaza, bucurați-vă de drumul de coastă gol și de lumina clară a iernii. Încheiați turul în jurul orei 17:00, înainte ca frigul să crească odată cu întunericul.",
+            "en": "The cool morning air invigorates on the ride up to the castle, where the winter sun warms the stones. At noon, the silence of the church offers a moment of reflection away from the wind. In the afternoon, enjoy the empty coastal road and the clear light of winter. Finish the tour around 5 PM before the cold increases with the darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Caracciolo Carafa",
+                "hu": "Castello Caracciolo Carafa",
+                "ro": "Castello Caracciolo Carafa",
+                "en": "Castello Caracciolo Carafa"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wärmt die Mauern auf, ein idealer Ort für eine kurze Rast; tragen Sie winddichte Handschuhe für die Abfahrt.",
+                "hu": "A téli nap felmelegíti a falakat, ideális hely egy rövid pihenőre; viseljen szélálló kesztyűt a lejtőkhöz.",
+                "ro": "Soarele de iarnă încălzește zidurile, un loc ideal pentru un scurt popas; purtați mănuși rezistente la vânt pentru coborâre.",
+                "en": "The winter sun warms the walls, an ideal spot for a short rest; wear windproof gloves for the descents."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Die Stille der Nebensaison macht den Besuch der Kirche besonders andächtig; parken Sie Ihr Rad an einem windgeschützten Ort.",
+                "hu": "A holtszezon csendje különösen áhítatossá teszi a templomlátogatást; parkolja le a kerékpárt szélvédett helyen.",
+                "ro": "Liniștea extrasezonului face vizita la biserică deosebit de pioasă; parcați bicicleta într-un loc ferit de vânt.",
+                "en": "The silence of the off-season makes the church visit especially solemn; park your bike in a wind-sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Florida",
+                "hu": "Lido Florida",
+                "ro": "Lido Florida",
+                "en": "Lido Florida"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine weite Sicht über den Golf; halten Sie sich durch stetiges Treten in die Pedale warm.",
+                "hu": "A tiszta téli levegő messzi kilátást enged az öbölre; folyamatos tekeréssel tartsa magát melegen.",
+                "ro": "Aerul curat de iarnă oferă o vedere largă asupra golfului; mențineți-vă cald pedalând constant.",
+                "en": "The clear winter air offers a wide view over the gulf; keep yourself warm by pedaling steadily."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Medusa",
+                "hu": "Lido Medusa",
+                "ro": "Lido Medusa",
+                "en": "Lido Medusa"
+              },
+              "tip_5lang": {
+                "de": "Der Strand im Winter ist ein Ort der absoluten Ruhe, ideal für Fotos; achten Sie auf den frühen Sonnenuntergang um 17 Uhr.",
+                "hu": "A téli strand az abszolút nyugalom helyszíne, fotózáshoz ideális; ügyeljen a korai, 17 órai naplementére.",
+                "ro": "Plaja iarna este un loc de liniște absolută, ideal pentru fotografii; atenție la apusul devreme de la ora 17.",
+                "en": "The beach in winter is a place of absolute peace, ideal for photos; watch out for the early sunset at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Del Sole",
+                "hu": "Lido Del Sole",
+                "ro": "Lido Del Sole",
+                "en": "Lido Del Sole"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne erzeugt lange Schatten und ein warmes Lichtspiel; eine Thermoskanne mit warmem Tee im Gepäck ist sehr wertvoll.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat és meleg fényeket fest; egy termosz meleg tea a táskában sokat ér ilyenkor.",
+                "ro": "Soarele jos creează umbre lungi și un joc de lumină caldă; un termos cu ceai cald în rucsac este foarte valoros acum.",
+                "en": "The low sun creates long shadows and a warm play of light; a thermos with warm tea in your pack is very valuable."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Sirene",
+                "hu": "Lido Sirene",
+                "ro": "Lido Sirene",
+                "en": "Lido Sirene"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt, bevor die Kälte des Abends einsetzt; die salzige Winterluft ist belebend für die Lungen.",
+                "hu": "Fejezze be a túrát, mielőtt beáll az esti hideg; a sós téli levegő frissítően hat a tüdőre.",
+                "ro": "Încheiați plimbarea înainte de lăsarea frigului serii; aerul sărat de iarnă este revigorant pentru plămâni.",
+                "en": "Finish your ride before the evening chill sets in; the salty winter air is invigorating for the lungs."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Morning: Kezdje a napot a szárazföld belsejében, Tremensuoli gazdag örökségének felfedezésével. Látogasson el a történelmi Chiesa dell'Annunziata templomhoz és az impozáns Castello Caracciolo Carafa várhoz.\nMidday: Irány a gyönyörű partvidék, ahogy a nap egyre melegebben süt. Érkezzen meg a nyüzsgő strandklubokhoz, hogy élvezze az energikus olasz tengerparti légkört és pihenjen a vízparton.\nAfternoon: Töltse a délutánt a part menti strandok felfedezésével. Mártsa lábát a tiszta Földközi-tengerbe, szívja magába a napsugarakat, és élvezze a frissítő tengeri szellőt a lüktető partszakaszon.\nEvening: Ahogy a levegő lehűl, tegyen egy kényelmes sétát a vízparton. Csodálja meg, ahogy az égbolt élénk narancs és rózsaszín árnyalatokat ölt a Tirrén-tenger felett lemenő napfényben.",
         "ro": "Morning: Începeți-vă ziua explorând bogata moștenire din Tremensuoli. Vizitați istorica Chiesa dell'Annunziata și impunătorul Castello Caracciolo Carafa, admirând arhitectura și priveliștile.\nMidday: Îndreptați-vă spre coasta frumoasă pe măsură ce soarele devine mai puternic. Ajungeți la cluburile de plajă pline de viață pentru a vă bucura de atmosfera litoralului italian.\nAfternoon: Petreceți-vă după-amiaza explorând diverse plaje. Scufundați-vă degetele în apele clare ale Mediteranei, bucurați-vă de soare și simțiți briza răcoroasă a mării la popularele lido-uri.\nEvening: Pe măsură ce ziua se răcește, faceți o plimbare liniștită pe malul apei. Urmăriți cum cerul capătă nuanțe vibrante de portocaliu și roz în timpul unui apus superb peste Marea Tireniană.",
         "en": "Morning: Start your day inland, exploring the rich heritage of Tremensuoli. Visit the historic Chiesa dell'Annunziata and the imposing Castello Caracciolo Carafa, admiring the architecture and views.\nMidday: Head down towards the beautiful coastline as the sun gets stronger. Arrive at the lively beach clubs to enjoy the energetic Italian seaside atmosphere and relax by the water.\nAfternoon: Spend your afternoon beach-hopping along the coast. Dip your toes into the clear Mediterranean waters, soak up the sun, and enjoy the refreshing sea breeze at various popular lidos.\nEvening: As the day cools, take a leisurely stroll along the water's edge. Watch the sky turn vibrant shades of orange and pink during a beautiful sunset over the Tyrrhenian Sea before heading to dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Morgen im trockenen Auto führt Sie zur historischen Kirche. Mittags erreichen Sie die Burg, deren Türme oft in mystische Wolken gehüllt sind. Der Nachmittag gehört der Küstenfahrt, wo Sie den Regen auf der Windschutzscheibe und das wilde Meer beobachten. Der Abend endet ruhig im Schutze Ihres Fahrzeugs.",
+            "hu": "Egy pihentető reggel a száraz autóban a történelmi templomhoz vezet. Délben eléri a várat, melynek tornyait gyakran misztikus felhők övezik. A délután a tengerparti autózásé, ahol figyelheti az esőcseppeket a szélvédőn és a vad tengert. Az este nyugodtan ér véget a jármű biztonságában.",
+            "ro": "O dimineață relaxantă în mașina uscată vă conduce spre biserica istorică. La prânz ajungeți la castel, ale cărui turnuri sunt adesea învăluite în nori mistici. După-amiaza este dedicată condusului pe coastă, observând ploaia pe parbriz și marea sălbatică. Seara se încheie liniștit în siguranța vehiculului.",
+            "en": "A relaxing morning in the dry car leads you to the historical church. At noon, you reach the castle, whose towers are often shrouded in mystical clouds. The afternoon is dedicated to a coastal drive, watching the rain on the windshield and the wild sea. The evening ends quietly in the shelter of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken in das kunstvolle Innere zu gelangen; achten Sie auf Pfützen auf dem Vorplatz.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be a művészi belső térbe; ügyeljen a tócsákra a téren.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în interiorul artistic; atenție la bălțile de pe platforma din față.",
+                "en": "Park close to the entrance to get into the artistic interior dry; watch out for puddles on the forecourt."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Caracciolo Carafa",
+                "hu": "Castello Caracciolo Carafa",
+                "ro": "Castello Caracciolo Carafa",
+                "en": "Castello Caracciolo Carafa"
+              },
+              "tip_5lang": {
+                "de": "Die Burg bietet viele überdachte Gänge, perfekt für einen regnerischen Rundgang; nutzen Sie den Parkplatz direkt unterhalb der Mauern.",
+                "hu": "A vár sok fedett folyosót kínál, ideális egy esős sétához; használja a közvetlenül a falak alatti parkolót.",
+                "ro": "Castelul oferă multe pasaje acoperite, perfecte pentru un tur ploios; folosiți parcarea direct sub ziduri.",
+                "en": "The castle offers many covered passages, perfect for a rainy tour; use the parking lot directly below the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Florida",
+                "hu": "Lido Florida",
+                "ro": "Lido Florida",
+                "en": "Lido Florida"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer gemütlich aus dem parkenden Auto heraus; die Parkplätze bieten oft eine tolle Panoramafront.",
+                "hu": "Figyelje a viharos tengert kényelmesen a parkoló autóból; a parkolók gyakran remek panorámát nyújtanak.",
+                "ro": "Observați marea agitată confortabil din mașina parcată; parcările oferă adesea o vedere panoramică excelentă.",
+                "en": "Watch the stormy sea comfortably from your parked car; the parking lots often offer a great panoramic front."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Il Vascello",
+                "hu": "Lido Il Vascello",
+                "ro": "Lido Il Vascello",
+                "en": "Lido Il Vascello"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum überdachten Pavillon lohnt sich für die frische Meeresluft; halten Sie Ihre Scheibenwischer einsatzbereit.",
+                "hu": "Egy rövid vágta a fedett pavilonhoz megéri a friss tengeri levegőért; tartsa készenlétben az ablaktörlőket.",
+                "ro": "Un scurt sprint până la pavilionul acoperit merită pentru aerul proaspăt al mării; păstrați ștergătoarele în stare de funcționare.",
+                "en": "A short sprint to the covered pavilion is worth it for the fresh sea air; keep your windshield wipers ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Italia",
+                "hu": "Lido Italia",
+                "ro": "Lido Italia",
+                "en": "Lido Italia"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Tyrrhenischen Meeres wechseln bei Regen zu einem tiefen Grau-Blau; achten Sie auf die Gischt an der Küstenstraße.",
+                "hu": "A Tirrén-tenger színei esőben mély szürkéskékre váltanak; ügyeljen a tajtékra a tengerparti úton.",
+                "ro": "Culorile mării Tirrene se schimbă în gri-albastru profund în ploaie; atenție la spuma mării pe drumul de coastă.",
+                "en": "The colors of the Tyrrhenian Sea change to a deep grey-blue in the rain; watch out for the spray on the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Delizia",
+                "hu": "Lido Delizia",
+                "ro": "Lido Delizia",
+                "en": "Lido Delizia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die ruhige Atmosphäre für einen Moment des Innehaltens im Wagen; die Sicht kann durch Beschlagen der Scheiben eingeschränkt sein.",
+                "hu": "Használja ki a nyugodt légkört egy pillanatnyi pihenőre az autóban; a látást korlátozhatja a szélvédő párásodása.",
+                "ro": "Folosiți atmosfera liniștită pentru un moment de răgaz în mașină; vizibilitatea poate fi limitată de aburirea geamurilor.",
+                "en": "Use the quiet atmosphere for a moment of pause in the car; visibility may be limited by fogging windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Scauri",
+                "hu": "Lido Scauri",
+                "ro": "Lido Scauri",
+                "en": "Lido Scauri"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem Blick auf die Lichter der Stadt, die sich im nassen Asphalt spiegeln; vorsichtige Fahrweise bei Aquaplaning-Gefahr.",
+                "hu": "Zárja a napot a város fényeinek látványával, melyek tükröződnek a vizes aszfalton; vezessen óvatosan az aquaplaning veszélye miatt.",
+                "ro": "Încheiați ziua cu vederea luminilor orașului reflectate în asfaltul ud; conduceți cu prudență din cauza riscului de acvaplanare.",
+                "en": "End the day with the view of city lights reflecting in the wet asphalt; drive carefully due to the risk of aquaplaning."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort der Sitzheizung bei Ihrer winterlichen Erkundungstour. Der Morgen beginnt an der festlichen Kirche, gefolgt von einem mittäglichen Stopp an der Burgruine. Am Nachmittag bietet die Küstenstraße spektakuläre Ausblicke auf das klare Wintermeer. Da es gegen 17 Uhr dunkel wird, planen Sie ein frühes Ende ein.",
+            "hu": "Élvezze az ülésfűtés kényelmét a téli felfedezőút során. A reggel a templomnál indul, majd délben megállunk a várromnál. Délután a parti út látványos kilátást nyújt a tiszta téli tengerre. Mivel 17 óra körül sötétedik, tervezze a nap végét korábbra.",
+            "ro": "Bucurați-vă de confortul scaunelor încălzite în timpul turului de iarnă. Dimineața începe la biserică, urmată de o oprire la prânz la ruinele castelului. După-amiaza, drumul de coastă oferă vederi spectaculoase asupra mării clare de iarnă. Deoarece se întunecă în jurul orei 17, planificați un final timpuriu.",
+            "en": "Enjoy the comfort of heated seats during your winter exploration tour. The morning begins at the church, followed by a midday stop at the castle ruins. In the afternoon, the coastal road offers spectacular views of the clear winter sea. As it gets dark around 5 PM, plan for an early end."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dell'Annunziata",
+                "hu": "Chiesa dell'Annunziata",
+                "ro": "Chiesa dell'Annunziata",
+                "en": "Chiesa dell'Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Die warme Innenatmosphäre bildet einen schönen Kontrast zur kühlen Winterluft; nutzen Sie die kurzen Wege vom Parkplatz.",
+                "hu": "A meleg belső hangulat szép kontrasztot alkot a hűvös téli levegővel; használja ki a parkolótól vezető rövid utat.",
+                "ro": "Atmosfera caldă din interior formează un contrast frumos cu aerul rece de iarnă; profitați de distanța scurtă de la parcare.",
+                "en": "The warm interior atmosphere forms a beautiful contrast to the cool winter air; take advantage of the short walks from the parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Caracciolo Carafa",
+                "hu": "Castello Caracciolo Carafa",
+                "ro": "Castello Caracciolo Carafa",
+                "en": "Castello Caracciolo Carafa"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick über die winterliche Küste ist bei klarer Sicht atemberaubend; ziehen Sie sich für den kurzen Fußweg warm an.",
+                "hu": "A panoráma a téli tengerpartra tiszta időben lélegzetelállító; öltözzön fel melegen a rövid gyalogúthoz.",
+                "ro": "Vederea panoramică asupra coastei de iarnă este uluitoare când cerul e senin; îmbrăcați-vă gros pentru scurta plimbare pe jos.",
+                "en": "The panoramic view over the winter coast is breathtaking in clear weather; dress warmly for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Florida",
+                "hu": "Lido Florida",
+                "ro": "Lido Florida",
+                "en": "Lido Florida"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand, ohne Parkplatzsorgen; die Wintersonne steht tief und blendet beim Fahren.",
+                "hu": "Élvezze a tengerparti magányt parkolási gondok nélkül; a téli nap alacsonyan jár, vezetés közben vakíthat.",
+                "ro": "Bucurați-vă de singurătatea de pe plajă fără griji privind parcarea; soarele de iarnă este jos și poate fi orbitor la condus.",
+                "en": "Enjoy the solitude on the beach without parking worries; the winter sun is low and can be blinding while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Il Vascello",
+                "hu": "Lido Il Vascello",
+                "ro": "Lido Il Vascello",
+                "en": "Lido Il Vascello"
+              },
+              "tip_5lang": {
+                "de": "Die raue Winterlandschaft bietet tolle Fotomotive direkt vom Straßenrand; prüfen Sie regelmäßig den Reifendruck bei Kälte.",
+                "hu": "A zord téli táj remek fotótémákat kínál közvetlenül az út széléről; hidegben ellenőrizze rendszeresen a guminyomást.",
+                "ro": "Peisajul dur de iarnă oferă motive fotografice excelente chiar de la marginea drumului; verificați regulat presiunea în pneuri la frig.",
+                "en": "The rugged winter landscape offers great photo motifs right from the roadside; check tire pressure regularly in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Italia",
+                "hu": "Lido Italia",
+                "ro": "Lido Italia",
+                "en": "Lido Italia"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Meeresbrise ist sehr erfrischend, wenn man kurz aussteigt; behalten Sie die Tankanzeige für die Heizung im Auge.",
+                "hu": "A téli tengeri szellő nagyon frissítő, ha kiszáll egy rövid időre; figyeljen az üzemanyagszintre a fűtés miatt.",
+                "ro": "Briza mării de iarnă este foarte revigorantă dacă coborâți scurt din mașină; supravegheați nivelul combustibilului pentru încălzire.",
+                "en": "The winter sea breeze is very refreshing when you step out briefly; keep an eye on the fuel level for the heating."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Delizia",
+                "hu": "Lido Delizia",
+                "ro": "Lido Delizia",
+                "en": "Lido Delizia"
+              },
+              "tip_5lang": {
+                "de": "Verfolgen Sie das goldene Licht der späten Nachmittagssonne auf den Wellen; achten Sie auf die sinkenden Temperaturen nach Sonnenuntergang.",
+                "hu": "Kövesse a késő délutáni nap aranyfényét a hullámokon; ügyeljen a naplemente után hirtelen süllyedő hőmérsékletre.",
+                "ro": "Urmăriți lumina aurie a soarelui de după-amiază târzie pe valuri; atenție la scăderea temperaturii după apusul soarelui.",
+                "en": "Follow the golden light of the late afternoon sun on the waves; watch out for the dropping temperatures after sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Scauri",
+                "hu": "Lido Scauri",
+                "ro": "Lido Scauri",
+                "en": "Lido Scauri"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour rechtzeitig vor Einbruch der Dunkelheit ab; genießen Sie die beleuchtete Küstenlinie bequem aus dem warmen Auto.",
+                "hu": "Fejezze be a túrát időben a sötétedés előtt; élvezze a kivilágított partvonalat kényelmesen a meleg autóból.",
+                "ro": "Încheiați turul la timp înainte de lăsarea întunericului; bucurați-vă de linia de coastă iluminată din confortul mașinii calde.",
+                "en": "Finish the tour in time before darkness falls; enjoy the illuminated coastline comfortably from the warm car."
+              }
+            }
+          ]
+        }
       }
     }
   }

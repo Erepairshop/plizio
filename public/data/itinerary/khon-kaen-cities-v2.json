@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Khon Kaen szívében, a Demokrácia Emlékműnél. Egy gyors kávészünet után a Hugz bevásárlóközpontban folytassa sétáját.\n\nDélben elérkezik az impozáns Marshal Sarit Thanarat Emlékműhöz. Csak néhány lépésre innen csodálja meg az elegáns Phra That Sirodom szentélyt.\n\nDélután induljon a hatalmas Khon Kaen Nemzeti Múzeum felé. Szánjon időt az Isan régió gazdag történelmének és művészetének felfedezésére.\n\nFejezze be sétáját a késő délutáni órákban. A múzeum környéke nyugodt légkört biztosít ahhoz, hogy vacsora előtt elgondolkodjon a város kulturális keveredésén.",
         "ro": "Începeți-vă ziua plimbându-vă prin inima orașului Khon Kaen, la Monumentul Democrației. După o scurtă pauză de cafea la Hugz Mall, continuați-vă plimbarea.\n\nLa prânz ajungeți la impunătorul Monument Marshal Sarit Thanarat. La doar câțiva pași distanță, admirați elegantul altar Phra That Sirodom.\n\nDupă-amiaza, îndreptați-vă spre vastul Muzeu Național Khon Kaen. Acordați-vă timp explorând istoria și arta bogată a regiunii Isan.\n\nÎncheiați turul pietonal spre seară. Terenurile muzeului oferă o atmosferă relaxantă pentru a reflecta asupra amestecului cultural al orașului.",
         "en": "Begin your day walking through the heart of Khon Kaen, starting at the Democracy Monument. After a quick coffee break at Hugz Mall, continue your stroll.\n\nMidday brings you to the imposing Marshal Sarit Thanarat Monument. Just steps away, admire the elegant Phra That Sirodom Kham Kaen shrine.\n\nIn the afternoon, head towards the extensive Khon Kaen National Museum. Take your time exploring the rich history and art of the Isan region.\n\nConclude your walking tour in the late afternoon. The museum grounds offer a relaxing atmosphere to reflect on the city's unique cultural blend before dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Demokratiedenkmal, wo die Arkaden Schutz vor plötzlichen Schauern bieten. Mittags dient die Hugz Mall als idealer Zufluchtsort vor dem Monsunregen. Am Nachmittag erkunden wir die historischen Monumente zwischen den Regengüssen, bevor wir den Tag im trockenen Nationalmuseum verbringen. Abends reflektieren die Lichter der Stadt stimmungsvoll auf den nassen Gehwegen.",
+            "hu": "A reggelt a Demokrácia Emlékműnél kezdjük, ahol a közeli árkádok nyújtanak menedéket a záporok elől. Délben a Hugz Mall modern belső terei tökéletes rejtekhelyet kínálnak a trópusi esőben. Délután a monumentális szobrok megtekintése után a Nemzeti Múzeum fedett kiállításai felé vesszük az irányt. Estére a vizes aszfalton megcsillanó városi fények kísérik utunkat a csúszós járdákon.",
+            "ro": "Dimineața începe la Monumentul Democrației, unde arcadele oferă adăpost împotriva averselor bruște. La prânz, Hugz Mall este refugiul ideal în timpul ploilor tropicale intense. După-amiaza, vizităm monumentele istorice între reprizele de ploaie, apoi ne adăpostim în Muzeul Național. Seara, luminile orașului se reflectă spectaculos pe trotuarele ude și uneori alunecoase.",
+            "en": "The morning starts at the Democracy Monument, where nearby arcades offer shelter from sudden showers. At noon, Hugz Mall provides a perfect dry sanctuary from the monsoon rain. In the afternoon, explore the monuments between rain spells before retreating to the National Museum's indoor galleries. By evening, the city lights reflect beautifully on the wet, occasionally slippery pavements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Demokratiedenkmal",
+                "hu": "Demokrácia Emlékmű",
+                "ro": "Monumentul Democrației",
+                "en": "Democracy Monument"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Symbolik der Verfassung unter dem Schutz Ihres Regenschirms und nutzen Sie die umliegenden Geschäftsüberhänge, um bei starken Güssen trocken zu bleiben.",
+                "hu": "Csodálja meg az alkotmányt jelképező emlékművet egy esernyő alatt, és használja a környező üzletek előtetőit menedékként, ha hirtelen felerősödne a trópusi felhőszakadás.",
+                "ro": "Admirați simbolismul constituției sub protecția umbrelei și folosiți copertinele magazinelor din jur pentru a rămâne uscat în timpul averselor tropicale trecătoare.",
+                "en": "Admire the constitutional symbolism under the protection of your umbrella and use the nearby shop overhangs to stay dry during sudden tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Hugz Mall",
+                "hu": "Hugz Bevásárlóközpont",
+                "ro": "Hugz Mall",
+                "en": "Hugz Mall"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Zentrum ist der ideale Ort, um einen schweren Schauer abzuwarten; genießen Sie die Klimaanlage und prüfen Sie Ihre Regenbekleidung auf Dichtigkeit.",
+                "hu": "Ez a modern központ ideális hely egy nagyobb felhőszakadás kivárására; élvezze a hűvös belső teret, és ellenőrizze esőfelszerelésének vízállóságát a folytatás előtt.",
+                "ro": "Acest centru modern este locul ideal pentru a aștepta trecerea unei ploi torențiale; bucurați-vă de aerul condiționat și verificați impermeabilitatea pelerinei de ploaie.",
+                "en": "This modern center is the ideal spot to wait out a heavy downpour; enjoy the air conditioning and double-check your rain gear's waterproofing before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Marshal Sarit Thanarat Denkmal",
+                "hu": "Marshal Sarit Thanarat Emlékmű",
+                "ro": "Monumentul Marshal Sarit Thanarat",
+                "en": "Marshal Sarit Thanarat Monument"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal zügig zwischen den Regenphasen und achten Sie auf den polierten Steinboden, der bei Nässe extrem rutschig werden kann; festes Schuhwerk ist ratsam.",
+                "hu": "Látogassa meg az emlékművet gyorsan az esőszünetekben, de ügyeljen a polírozott kőburkolatra, amely nedvesen rendkívül csúszós; viseljen tapadós talpú cipőt.",
+                "ro": "Vizitați monumentul rapid între reprizele de ploaie și aveți grijă la pavajul de piatră șlefuită, care devine extrem de alunecos când este ud; purtați încălțăminte aderentă.",
+                "en": "Visit the monument quickly between rain spells and be careful on the polished stone pavement, which becomes extremely slippery when wet; wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra That Sirodom Kham Kaen",
+                "hu": "Phra That Sirodom Kham Kaen",
+                "ro": "Phra That Sirodom Kham Kaen",
+                "en": "Phra That Sirodom Kham Kaen"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Strukturen wirken bei grauem Himmel besonders mystisch; tragen Sie Sandalen, die leicht trocknen, da sich auf dem Vorplatz oft flache Pfützen bilden.",
+                "hu": "A fehér építmények különlegesen mutatnak a szürke égbolt alatt; viseljen könnyen száradó szandált, mert az előtéren gyakran alakulnak ki sekély tócsák az eső után.",
+                "ro": "Structurile albe arată mistic sub cerul gri; purtați sandale care se usucă ușor, deoarece pe esplanadă se formează adesea bălți puțin adânci după ploaie.",
+                "en": "The white structures look mystical under the grey sky; wear quick-drying sandals as shallow puddles often form on the forecourt after a typical local shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Khon Kaen",
+                "hu": "Khon Kaen Nemzeti Múzeum",
+                "ro": "Muzeul Național Khon Kaen",
+                "en": "Khon Kaen National Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die ausgedehnte Indoor-Ausstellung, um die Geschichte der Region im Trockenen zu studieren, während draußen der Monsun das umliegende Grün zum Leuchten bringt.",
+                "hu": "Használja ki a tágas beltéri kiállításokat a régió történelmének felfedezésére, miközben odakint az eső frissítően zöldre festi a múzeumot körülvevő kertet.",
+                "ro": "Profitați de expozițiile interioare spațioase pentru a descoperi istoria regiunii la adăpost, în timp ce ploaia de afară revigorează vegetația din grădina muzeului.",
+                "en": "Take advantage of the extensive indoor exhibits to explore the region's history while dry, as the rain outside makes the surrounding museum gardens look vibrant."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft am Demokratiedenkmal ist ideal für einen Spaziergang ohne Hitze. Mittags genießen wir die milde Sonne bei der Hugz Mall. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Licht am Nachmittag für Fotos am Phra That Sirodom. Den Abend verbringen wir im Nationalmuseum, bevor die frühe Dunkelheit die Stadt in ein gemütliches Licht taucht.",
+            "hu": "A hűvös reggeli levegő a Demokrácia Emlékműnél tökéletes egy izzadtságmentes sétához. Délben a lágy napsütést élvezzük a Hugz Mall környékén. Mivel a nap már 17:00 körül nyugovóra tér, a délutáni aranyórákat fotózással töltjük a Phra That Sirodomnál. Az estét a Nemzeti Múzeumban zárjuk, mielőtt a korai sötétség beköszönne a város utcáira.",
+            "ro": "Aerul răcoros de dimineață la Monumentul Democrației este ideal pentru o plimbare relaxantă. La prânz, ne bucurăm de soarele blând lângă Hugz Mall. Deoarece soarele apune deja în jurul orei 17:00, profităm de lumina aurie a după-amiezii la Phra That Sirodom. Seara se încheie la Muzeul Național, înainte ca întunericul timpuriu să cuprindă străzile orașului.",
+            "en": "The cool morning air at the Democracy Monument is perfect for a sweat-free stroll. At noon, enjoy the mild winter sun near Hugz Mall. Since the sun sets around 17:00, use the golden afternoon light for photos at Phra That Sirodom. Spend the evening at the National Museum before the early darkness settles over the city's lively streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Demokratiedenkmal",
+                "hu": "Demokrácia Emlékmű",
+                "ro": "Monumentul Democrației",
+                "en": "Democracy Monument"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang in der frischen Winterluft; eine leichte Strickjacke ist für die schattigen Bereiche am frühen Morgen absolut empfehlenswert.",
+                "hu": "Élvezze a sétát a friss téli levegőben; egy könnyű kardigán vagy vékony réteg javasolt a kora reggeli órákban a hűvösebb, árnyékos szakaszokon.",
+                "ro": "Bucurați-vă de plimbare în aerul proaspăt de iarnă; o jachetă ușoară este recomandată pentru zonele umbrite în orele dimineții devreme.",
+                "en": "Enjoy the walk in the fresh winter air; a light cardigan or thin layer is highly recommended for the shaded areas during the early morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Hugz Mall",
+                "hu": "Hugz Bevásárlóközpont",
+                "ro": "Hugz Mall",
+                "en": "Hugz Mall"
+              },
+              "tip_5lang": {
+                "de": "Die Außenterrassen sind im Winter wesentlich angenehmer als im Sommer; nutzen Sie die milde Mittagssonne für eine kurze Pause im Freien.",
+                "hu": "A külső teraszok télen sokkal kellemesebbek, mint a nyári hőségben; használja ki a lágy déli napsütést egy rövid szabadtéri pihenőre a központnál.",
+                "ro": "Terasele exterioare sunt mult mai plăcute iarna decât în arșița verii; profitați de soarele blând de la prânz pentru o scurtă pauză în aer liber.",
+                "en": "The outdoor terraces are much more pleasant in winter than in the summer heat; take advantage of the mild midday sun for a short break outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Marshal Sarit Thanarat Denkmal",
+                "hu": "Marshal Sarit Thanarat Emlékmű",
+                "ro": "Monumentul Marshal Sarit Thanarat",
+                "en": "Marshal Sarit Thanarat Monument"
+              },
+              "tip_5lang": {
+                "de": "Das helle Winterlicht hebt die Details der Statue hervor; besuchen Sie diesen Ort am frühen Nachmittag, um die besten Kontraste für Ihre Fotos zu erhalten.",
+                "hu": "A tiszta téli fények kiemelik a szobor részleteit; látogasson el ide kora délután, hogy a legjobb kontrasztokat kapja a fényképeihez a kék égbolt előtt.",
+                "ro": "Lumina clară de iarnă scoate în evidență detaliile statuii; vizitați acest loc la începutul după-amiezii pentru a obține cele mai bune contraste în fotografii.",
+                "en": "The clear winter light highlights the statue's details; visit in the early afternoon to get the best contrasts for your photos against the blue sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Phra That Sirodom Kham Kaen",
+                "hu": "Phra That Sirodom Kham Kaen",
+                "ro": "Phra That Sirodom Kham Kaen",
+                "en": "Phra That Sirodom Kham Kaen"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr; das goldene Licht kurz davor verleiht den weißen Pagoden einen wunderschönen warmen Schimmer.",
+                "hu": "Ügyeljen a korai, 17:00 körüli naplementére; az azelőtti aranyóra csodálatos meleg fényt kölcsönöz a fehér pagodáknak és az emlékműnek.",
+                "ro": "Aveți în vedere apusul timpuriu în jurul orei 17:00; lumina aurie de dinainte oferă pagodelor albe o strălucire caldă și primitoare.",
+                "en": "Keep in mind the early sunset around 17:00; the golden hour just before gives the white pagodas a beautiful, warm and photogenic glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Khon Kaen",
+                "hu": "Khon Kaen Nemzeti Múzeum",
+                "ro": "Muzeul Național Khon Kaen",
+                "en": "Khon Kaen National Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch so, dass Sie die Innenräume vor Einbruch der Dunkelheit besichtigen; im Winter kühlt es nach Sonnenuntergang spürbar ab.",
+                "hu": "Tervezze úgy látogatását, hogy a belső tereket még sötétedés előtt bejárja; télen a naplemente után érezhetően lehűl a levegő a kertben.",
+                "ro": "Planificați vizita astfel încât să vedeți expozițiile înainte de lăsarea întunericului; iarna, aerul se răcește vizibil după apusul soarelui.",
+                "en": "Plan your visit to see the interiors before dark; in winter, the temperature drops noticeably after sunset, so bring a light sweater for the garden."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje reggeli kerékpártúráját a tónál lévő Városi Múzeumnál, hogy megismerje a történelmet. Ezután tekerjen a békés Wiwektham templomhoz.\n\nDélben pedálozzon a városközpont felé a Demokrácia Emlékműhöz. Élvezzen egy rövid, modern szünetet a Hugz bevásárlóközpontban.\n\nDélután tekerjen fel a Marshal Sarit Emlékműhöz. Végül érje el a Khon Kaen Nemzeti Múzeumot, hogy ősi tárgyakat csodáljon meg.\n\nFejezze be a túrát késő délután. Ez a tökéletes időzítés a múzeum közelében hagyja Önt, készen egy korai autentikus vacsorára.",
         "ro": "Începeți plimbarea de dimineață la Muzeul Orașului de lângă lac. Apoi pedalați până la seninul Templu Wiwektham pentru a experimenta spiritualitatea locală.\n\nLa prânz, pedalați spre centrul orașului pentru Monumentul Democrației. Bucurați-vă de o scurtă pauză modernă la Hugz Mall.\n\nDupă-amiaza, mergeți la Monumentul Marshal Sarit. În cele din urmă, ajungeți la vastul Muzeu Național Khon Kaen pentru a admira artefactele.\n\nÎncheiați-vă plimbarea cu bicicleta spre seară. Acest moment perfect vă lasă lângă muzeu, gata pentru o cină timpurie autentică.",
         "en": "Start your morning ride at the City Museum by the lake to learn local history. Then cycle to the serene Wiwektham Temple to experience local spirituality.\n\nBy midday, pedal towards the city center to see the Democracy Monument. Enjoy a brief, modern break at Hugz Mall before continuing.\n\nIn the afternoon, cycle up to the Marshal Sarit Monument. Finally, reach the expansive Khon Kaen National Museum to admire ancient artifacts.\n\nWrap up your bike trip by late afternoon. This perfect timing leaves you near the museum grounds, ready for an early authentic dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour am Stadtmuseum, während der Regen auf die Dächer trommelt. Die Fahrt zum Wiwektham Tempel erfordert Vorsicht auf nassen Straßen. Mittags suchen wir Schutz in der Hugz Mall und parken die Räder im Trockenen. Nachmittags radeln wir vorsichtig durch Pfützen zu den Monumenten und beenden den Tag im Nationalmuseum, um der späten Nässe zu entfliehen.",
+            "hu": "A kerékpártúrát a Városi Múzeumnál kezdjük, miközben az eső kopog a tetőkön. A Wiwektham Templom felé vezető úton óvatosan hajtsunk a vizes aszfalton. Délben a Hugz Mallnál tartunk pihenőt, a bicikliket fedett helyen hagyva. Délután a tócsákat kerülgetve tekerünk az emlékművekhez, majd a Nemzeti Múzeum száraz termeiben zárjuk a napot.",
+            "ro": "Începem turul cu bicicleta la Muzeul Orașului, în timp ce ploaia bate în acoperișuri. Drumul spre Templul Wiwektham necesită prudență pe asfaltul ud. La prânz, facem o pauză la Hugz Mall, lăsând bicicletele într-un loc acoperit. După-amiaza, pedalăm evitând bălțile spre monumente și încheiem ziua la Muzeul Național, feriți de umezeală.",
+            "en": "Start the bike tour at the City Museum while rain drums on the roofs. The ride to Wiwektham Temple requires caution on wet roads. At noon, take a break at Hugz Mall, leaving your bikes in a covered area. In the afternoon, cycle carefully around puddles to the monuments and end the day in the dry halls of the National Museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hong Mun Mang Stadtmuseum",
+                "hu": "Hong Mun Mang Városi Múzeum",
+                "ro": "Muzeul Orașului Hong Mun Mang",
+                "en": "Hong Mun Mang Khon Kaen City Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradparkplatz am Eingang und erkunden Sie die Stadtgeschichte, während draußen ein heftiger Regenschauer niedergeht.",
+                "hu": "Használja a bejáratnál lévő fedett kerékpárparkolót, és fedezze fel a város történelmét, miközben odakint éppen egy intenzív trópusi zápor vonul el.",
+                "ro": "Folosiți parcarea acoperită pentru biciclete de la intrare și explorați istoria orașului în timp ce afară trece o aversă tropicală intensă.",
+                "en": "Use the covered bike parking at the entrance and explore the city's history while a heavy tropical shower passes by outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wiwektham Tempel",
+                "hu": "Wiwektham Templom",
+                "ro": "Templul Wiwektham",
+                "en": "Wiwektham Temple"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Tempelgelände, da die Fliesen bei Nässe glatt sind; die ruhige Atmosphäre im Inneren bietet einen perfekten Schutz vor dem Regen.",
+                "hu": "Hajtson lassan a templom területén, mert a kövezet vizesen csúszik; a belső tér csendes nyugalma tökéletes menedéket nyújt a doboló eső elől.",
+                "ro": "Pedalați încet în incinta templului, deoarece pavajul este alunecos când e ud; liniștea din interior oferă un adăpost perfect împotriva ploii.",
+                "en": "Ride slowly within the temple grounds as the tiles are slick when wet; the quiet atmosphere inside offers a perfect refuge from the drumming rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Demokratiedenkmal",
+                "hu": "Demokrácia Emlékmű",
+                "ro": "Monumentul Democrației",
+                "en": "Democracy Monument"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie unter den Arkaden der nahegelegenen Geschäfte, um das Denkmal zu betrachten; achten Sie auf spritzendes Wasser von vorbeifahrenden Fahrzeugen.",
+                "hu": "Álljon meg a közeli üzletek árkádjai alatt az emlékmű megtekintéséhez; ügyeljen az elhaladó járművek által felcsapott vízre a forgalmas út mellett.",
+                "ro": "Opriți-vă sub arcadele magazinelor din apropiere pentru a vedea monumentul; aveți grijă la apa împroșcată de vehiculele care trec pe drumul aglomerat.",
+                "en": "Stop under the nearby shop arcades to view the monument; watch out for water splashed by passing vehicles on the busy road."
+              }
+            },
+            {
+              "name": {
+                "de": "Hugz Mall",
+                "hu": "Hugz Bevásárlóközpont",
+                "ro": "Hugz Mall",
+                "en": "Hugz Mall"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Kleidung zu trocknen; parken Sie Ihr Rad in der Tiefgarage oder unter einem Vordach, um den Sattel trocken zu halten.",
+                "hu": "Ideális megálló a ruházat megszárításához; parkolja le kerékpárját a mélygarázsban vagy egy előtető alatt, hogy a nyereg száraz maradjon.",
+                "ro": "O oprire ideală pentru a vă usca hainele; parcați bicicleta în garajul subteran sau sub o copertină pentru a menține șaua uscată.",
+                "en": "An ideal stop to dry off your gear; park your bike in the underground garage or under an overhang to keep the seat dry for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Marshal Sarit Thanarat Denkmal",
+                "hu": "Marshal Sarit Thanarat Emlékmű",
+                "ro": "Monumentul Marshal Sarit Thanarat",
+                "en": "Marshal Sarit Thanarat Monument"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf tiefe Pfützen am Straßenrand, die Schlaglöcher verbergen könnten; fahren Sie defensiv und mit Licht.",
+                "hu": "Az idevezető úton ügyeljen az útmenti mélyebb tócsákra, amelyek kátyúkat rejthetnek; közlekedjen körültekintően és használja a lámpáit esőben is.",
+                "ro": "Pe drumul spre acest punct, atenție la bălțile adânci de la marginea drumului care pot ascunde gropi; circulați prudent și folosiți luminile.",
+                "en": "On the way here, watch out for deeper roadside puddles that might hide potholes; ride defensively and use your lights even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Khon Kaen",
+                "hu": "Khon Kaen Nemzeti Múzeum",
+                "ro": "Muzeul Național Khon Kaen",
+                "en": "Khon Kaen National Museum"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie Ihre Bremsen trocken, bevor Sie nach dem Museumsbesuch weiterfahren; die kühle Luft nach dem Regen macht das Treten wieder angenehmer.",
+                "hu": "Törölje szárazra a fékeket a múzeumlátogatás után a továbbindulás előtt; az eső utáni hűvösebb levegőben sokkal kellemesebb lesz a tekerés.",
+                "ro": "Ștergeți frânele înainte de a pleca după vizitarea muzeului; aerul mai răcoros de după ploaie va face pedalarea mult mai plăcută.",
+                "en": "Wipe your brakes dry before heading out after the museum visit; the cooler air after the rain makes the final ride much more comfortable."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter bietet das beste Wetter für Radfahrer in Khon Kaen. Morgens ist es angenehm kühl am Stadtmuseum. Mittags radeln wir entspannt zum Wiwektham Tempel und weiter zur Hugz Mall. Da es ab 17:00 Uhr dunkel wird, sollten Sie die Monumente am frühen Nachmittag besuchen. Der Tag endet im Nationalmuseum, wenn die milde Wintersonne langsam untergeht.",
+            "hu": "A tél a legjobb időszak a biciklizésre Khon Kaenben. Reggel kellemesen friss az idő a Városi Múzeumnál. Délben lazán tekerünk a Wiwektham Templomhoz, majd a Hugz Mallhoz. Mivel 17:00 után sötétedik, az emlékműveket kora délután érdemes felkeresni. A nap a Nemzeti Múzeumnál ér véget, ahogy a lágy téli nap lassan lebukik a horizont alá.",
+            "ro": "Iarna este cea mai bună perioadă pentru ciclism în Khon Kaen. Dimineața este plăcut de răcoare la Muzeul Orașului. La prânz, pedalăm relaxați spre Templul Wiwektham și Hugz Mall. Deoarece se întunecă după ora 17:00, monumentele trebuie vizitate după-amiaza devreme. Ziua se încheie la Muzeul Național, când soarele blând apune.",
+            "en": "Winter is the best season for cycling in Khon Kaen. The morning is pleasantly fresh at the City Museum. At noon, enjoy a relaxed ride to Wiwektham Temple and Hugz Mall. Since it gets dark after 17:00, visit the monuments in the early afternoon. The day ends at the National Museum as the mild winter sun slowly sets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hong Mun Mang Stadtmuseum",
+                "hu": "Hong Mun Mang Városi Múzeum",
+                "ro": "Muzeul Orașului Hong Mun Mang",
+                "en": "Hong Mun Mang Khon Kaen City Museum"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die kühle Morgenbrise auf dem Fahrrad zu genießen; die Luftfeuchtigkeit ist niedrig, was das Radfahren sehr angenehm macht.",
+                "hu": "Induljon korán, hogy élvezhesse a hűvös reggeli szellőt a kerékpáron; a páratartalom ilyenkor alacsony, ami rendkívül kellemessé teszi a tekerést.",
+                "ro": "Porniți devreme pentru a vă bucura de briza răcoroasă de dimineață pe bicicletă; umiditatea este scăzută, ceea ce face pedalarea foarte plăcută.",
+                "en": "Start early to enjoy the cool morning breeze on your bike; the humidity is low, making the cycling experience exceptionally pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Wiwektham Tempel",
+                "hu": "Wiwektham Templom",
+                "ro": "Templul Wiwektham",
+                "en": "Wiwektham Temple"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schatten der Tempelbäume für eine Pause; im Winter ist die Luft hier besonders klar und eignet sich hervorragend für Fotos.",
+                "hu": "Használja ki a templomkert fáinak árnyékát egy pihenőre; télen a levegő itt különösen tiszta, ami kiváló fotózási lehetőségeket nyújt.",
+                "ro": "Folosiți umbra copacilor din curtea templului pentru o pauză; iarna aerul este deosebit de clar, oferind oportunități excelente pentru fotografii.",
+                "en": "Use the shade of the temple trees for a break; in winter, the air here is particularly clear, providing excellent photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Demokratiedenkmal",
+                "hu": "Demokrácia Emlékmű",
+                "ro": "Monumentul Democrației",
+                "en": "Democracy Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal liegt mittags oft in der prallen Sonne; dank der milden Wintertemperaturen ist die Besichtigung jedoch auch dann problemlos möglich.",
+                "hu": "Az emlékmű délben gyakran teljes napsütésben áll; a gyengébb téli UV-sugárzásnak köszönhetően azonban ilyenkor is kényelmes a megtekintése.",
+                "ro": "Monumentul este adesea în plin soare la prânz; totuși, datorită temperaturilor blânde de iarnă, vizitarea este confortabilă chiar și atunci.",
+                "en": "The monument is often in full sun at noon; however, thanks to the mild winter temperatures, visiting is comfortable even at midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Hugz Mall",
+                "hu": "Hugz Bevásárlóközpont",
+                "ro": "Hugz Mall",
+                "en": "Hugz Mall"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich ein kaltes Getränk auf einer der Außenterrassen; die Wintersonne ist perfekt, um neue Energie für die restliche Fahrt zu tanken.",
+                "hu": "Igyon meg egy frissítőt valamelyik külső teraszon; a téli napsütés tökéletes arra, hogy új energiát gyűjtsön az út hátralévő részéhez.",
+                "ro": "Savurați o băutură răcoritoare pe una dintre terasele exterioare; soarele de iarnă este perfect pentru a vă reîncărca energiile pentru restul drumului.",
+                "en": "Enjoy a refreshing drink on one of the outdoor terraces; the winter sun is perfect for recharging your energy for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Marshal Sarit Thanarat Denkmal",
+                "hu": "Marshal Sarit Thanarat Emlékmű",
+                "ro": "Monumentul Marshal Sarit Thanarat",
+                "en": "Marshal Sarit Thanarat Monument"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Dämmerung im Winter bereits am späten Nachmittag sehr schnell einsetzt.",
+                "hu": "Győződjön meg róla, hogy a kerékpár lámpái működnek, mert télen a szürkület már késő délután, meglepően gyorsan beköszönt.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece iarna amurgul se instalează foarte repede, încă de la sfârșitul după-amiezii.",
+                "en": "Make sure your bike lights are working, as in winter the dusk settles very quickly starting from the late afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Khon Kaen",
+                "hu": "Khon Kaen Nemzeti Múzeum",
+                "ro": "Muzeul Național Khon Kaen",
+                "en": "Khon Kaen National Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier vor 17:00 Uhr, um nicht im Dunkeln zurückfahren zu müssen; die kühle Abendluft lädt zu einer gemütlichen Rückfahrt ein.",
+                "hu": "Fejezze be a túrát itt 17:00 előtt, hogy ne kelljen sötétben visszatekernie; a hűvös esti levegő ideális egy komótos hazajutáshoz.",
+                "ro": "Încheiați turul aici înainte de ora 17:00 pentru a nu pedala pe întuneric; aerul răcoros de seară este ideal pentru o întoarcere relaxată.",
+                "en": "Finish your tour here before 17:00 to avoid riding back in the dark; the cool evening air is ideal for a leisurely ride back to your stay."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Reggel elsőként vezessen a Hong Mun Mang Múzeumhoz, hogy felfedezze a város eredetét. Ezután tartson egy gyors pihenőt a Demokrácia Emlékműnél.\n\nDélben induljon északra a Khon Kaen Nemzeti Múzeum felé. Itt megcsodálhatja a híres Dvaravati leleteket és a helyi régészetet.\n\nDélután vezessen ki az egyetemi kampuszra, hogy felfedezze a Természettudományi Múzeumot. Az itt található dinoszaurusz kiállítások a régió fénypontjai.\n\nFejezze be autós túráját a kampuszon lévő Művészeti és Kulturális Múzeumban. Élvezze a csendes egyetemi légkört és a hagyományos faépületeket a nap végén.",
         "ro": "Conduceți la Muzeul Hong Mun Mang la prima oră a dimineții pentru a descoperi originile orașului. Apoi, faceți o scurtă oprire la Monumentul Democrației.\n\nLa prânz, mergeți ușor spre nord către Muzeul Național Khon Kaen. Aici puteți admira faimoasele artefacte Dvaravati și arheologia locală.\n\nDupă-amiaza, conduceți la campusul universitar pentru a explora Muzeul de Istorie Naturală. Expozițiile sale impresionante cu dinozauri sunt un punct de atracție.\n\nÎncheiați excursia la Muzeul de Artă și Cultură din campus. Bucurați-vă de atmosfera liniștită academică și de structurile tradiționale din lemn.",
         "en": "Drive to the Hong Mun Mang Museum first thing in the morning to uncover the city's origins. Afterward, make a quick stop at the central Democracy Monument.\n\nBy midday, head slightly north to the Khon Kaen National Museum. Here you can admire the famous Dvaravati artifacts and intricate local archaeology.\n\nIn the afternoon, drive out to the university campus to explore the Natural History Museum. Its impressive dinosaur exhibits are a highlight of the region.\n\nConclude your road trip at the Art and Culture Museum on campus. Enjoy the quiet academic atmosphere and traditional wooden structures as the day ends."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute die beste Wahl, um trocken zwischen den Museen zu pendeln. Wir starten am Stadtmuseum und trotzen dem Regen. Mittags führt die Fahrt zum Demokratiedenkmal, wo wir direkt davor halten. Den Nachmittag verbringen wir im Nationalmuseum und der Universität, geschützt vor den schweren Güssen. Abends genießen wir die Fahrt durch das verregnete, hell erleuchtete Khon Kaen.",
+            "hu": "Az autó ma a legjobb választás, hogy szárazon közlekedjünk a múzeumok között. A Városi Múzeumnál kezdünk, dacolva az esővel. Délben a Demokrácia Emlékműhöz hajtunk, ahol közvetlenül mellette parkolhatunk. A délutánt a Nemzeti Múzeumban és az egyetemen töltjük, védve a heves záporoktól. Este a kivilágított, eső áztatta Khon Kaen látványában gyönyörködünk az ablakból.",
+            "ro": "Mașina este cea mai bună alegere astăzi pentru a călători uscat între muzee. Începem la Muzeul Orașului, sfidând ploaia. La prânz, conducem spre Monumentul Democrației, unde putem parca chiar lângă el. După-amiaza o petrecem la Muzeul Național și la Universitate, feriți de aversale puternice. Seara admirăm Khon Kaen-ul luminat și udat de ploaie prin fereastra mașinii.",
+            "en": "The car is the best choice today to travel dry between the various museums. Start at the City Museum, defying the rain. At noon, drive to the Democracy Monument where you can park nearby. Spend the afternoon at the National Museum and University, protected from heavy showers. In the evening, enjoy the view of lit-up, rainy Khon Kaen from your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hong Mun Mang Stadtmuseum",
+                "hu": "Hong Mun Mang Városi Múzeum",
+                "ro": "Muzeul Orașului Hong Mun Mang",
+                "en": "Hong Mun Mang Khon Kaen City Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Weg durch den Regen trocken zu überstehen; das Museum bietet eine tolle Flucht vor dem Wetter.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy a rövid utat az esőben szárazon megússza; a múzeum remek menedéket nyújt a rossz idő elől.",
+                "ro": "Parcați cât mai aproape de intrare pentru a parcurge drumul scurt prin ploaie fără a vă uda; muzeul oferă un refugiu excelent împotriva vremii rele.",
+                "en": "Park as close to the entrance as possible to stay dry during the short walk in the rain; the museum offers a great escape from the inclement weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Demokratiedenkmal",
+                "hu": "Demokrácia Emlékmű",
+                "ro": "Monumentul Democrației",
+                "en": "Democracy Monument"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Monument bequem aus dem Auto heraus, falls es zu stark regnet; achten Sie beim Aussteigen auf tiefe Pfützen am Fahrbahnrand.",
+                "hu": "Tekintse meg az emlékművet kényelmesen az autóból, ha túl erősen esne; kiszálláskor ügyeljen az út szélén felgyülemlett mélyebb tócsákra.",
+                "ro": "Admirați monumentul confortabil din mașină dacă plouă prea tare; la coborâre, aveți grijă la bălțile adânci formate la marginea drumului.",
+                "en": "View the monument comfortably from the car if it rains too hard; when getting out, watch out for deep puddles gathered at the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Khon Kaen",
+                "hu": "Khon Kaen Nemzeti Múzeum",
+                "ro": "Muzeul Național Khon Kaen",
+                "en": "Khon Kaen National Museum"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen matschig sein; nutzen Sie die asphaltierten Wege zum Haupteingang, um Ihre Schuhe sauber zu halten.",
+                "hu": "A parkoló heves esőzéskor sáros lehet; használja az aszfaltozott járdákat a főbejáratig, hogy cipője tiszta és száraz maradjon a látogatás alatt.",
+                "ro": "Parcarea poate fi noroioasă în timpul ploilor abundente; folosiți trotuarele asfaltate până la intrarea principală pentru a vă păstra încălțămintea curată.",
+                "en": "The parking lot can be muddy during heavy rain; use the paved paths to the main entrance to keep your shoes clean and dry during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisches Museum der Khon Kaen Universität",
+                "hu": "Khon Kaen Egyetem Természettudományi Múzeuma",
+                "ro": "Muzeul de Istorie Naturală Universitatea Khon Kaen",
+                "en": "Natural History Museum Khon Kaen University"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt über den Universitätscampus ist bei Regen entspannt; prüfen Sie die Scheibenwischer, da die Sicht bei plötzlichen Güssen stark abnehmen kann.",
+                "hu": "Az egyetemi campuson való autózás esőben is nyugodt; ellenőrizze az ablaktörlőket, mert hirtelen záporban a látási viszonyok gyorsan romolhatnak.",
+                "ro": "Condusul prin campusul universitar este relaxant chiar și pe ploaie; verificați ștergătoarele, deoarece vizibilitatea poate scădea brusc în timpul averselor.",
+                "en": "Driving through the university campus is relaxed even in the rain; check your wipers as visibility can drop quickly during sudden heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunst- und Kulturmuseum der Universität",
+                "hu": "Egyetemi Művészeti és Kulturális Múzeum",
+                "ro": "Muzeul de Artă și Cultură al Universității",
+                "en": "Art and Culture University Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Drop-off-Bereich, falls vorhanden, und genießen Sie die Ausstellungen, während draußen der abendliche Regen alles abkühlt.",
+                "hu": "Használja a fedett kiszállási pontot, ha van ilyen, és élvezze a kiállításokat, miközben odakint az esti eső kellemesen lehűti a levegőt.",
+                "ro": "Folosiți punctul de debarcare acoperit, dacă există, și bucurați-vă de expoziții în timp ce afară ploaia de seară răcorește plăcut aerul.",
+                "en": "Use the covered drop-off point if available and enjoy the exhibits while the evening rain outside pleasantly cools down the tropical air."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das milde Winterwetter macht die Fahrt zwischen den Museen in Khon Kaen sehr angenehm. Wir starten am Stadtmuseum und genießen die klare Sicht. Mittags halten wir am Demokratiedenkmal, bevor es zum Nationalmuseum geht. Am Nachmittag erkunden wir den weiten Universitätscampus. Da es bereits um 17:00 Uhr dunkelt, beenden wir den Kulturtag passend zum frühen Sonnenuntergang.",
+            "hu": "A lágy téli időjárás nagyon kellemessé teszi az autózást a múzeumok között Khon Kaenben. A Városi Múzeumnál kezdünk, élvezve a tiszta látási viszonyokat. Délben a Demokrácia Emlékműnél állunk meg, majd a Nemzeti Múzeum felé vesszük az irányt. Délután az egyetemi campust fedezzük fel. Mivel 17:00-kor sötétedik, a napot a korai naplementével zárjuk.",
+            "ro": "Vremea blândă de iarnă face condusul între muzee foarte plăcut în Khon Kaen. Începem la Muzeul Orașului, bucurându-ne de vizibilitatea clară. La prânz oprim la Monumentul Democrației, apoi mergem spre Muzeul Național. După-amiaza explorăm campusul universitar. Deoarece se întunecă la ora 17:00, încheiem ziua culturală odată cu apusul timpuriu.",
+            "en": "The mild winter weather makes driving between museums very pleasant in Khon Kaen. Start at the City Museum, enjoying the clear visibility. At noon, stop by the Democracy Monument before heading to the National Museum. Explore the vast university campus in the afternoon. Since it gets dark at 17:00, finish your cultural day just as the early sun sets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hong Mun Mang Stadtmuseum",
+                "hu": "Hong Mun Mang Városi Múzeum",
+                "ro": "Muzeul Orașului Hong Mun Mang",
+                "en": "Hong Mun Mang Khon Kaen City Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Klimaanlage im Auto kann im Winter auf niedriger Stufe bleiben; genießen Sie die Fahrt am Seeufer entlang bei klarem, sonnigem Winterhimmel.",
+                "hu": "Az autó klímáját télen alacsonyabb fokozaton is hagyhatja; élvezze a tóparti autózást a tiszta, napsütéses téli égbolt alatt a múzeum felé.",
+                "ro": "Aerul condiționat din mașină poate rămâne la o intensitate mai mică iarna; bucurați-vă de condusul pe malul lacului sub cerul senin și însorit de iarnă.",
+                "en": "You can keep the car's air conditioning on a lower setting in winter; enjoy the lakeside drive under the clear, sunny winter sky toward the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Demokratiedenkmal",
+                "hu": "Demokrácia Emlékmű",
+                "ro": "Monumentul Democrației",
+                "en": "Democracy Monument"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind mittags leichter zu finden, da die Hitze weniger Menschen abschreckt; das Denkmal leuchtet im klaren Winterlicht besonders weiß.",
+                "hu": "Délben könnyebb parkolóhelyet találni, mert a hőség kevésbé riasztja el az embereket; az emlékmű különösen fehéren ragyog a tiszta téli fényben.",
+                "ro": "Locurile de parcare sunt mai ușor de găsit la prânz, deoarece căldura este mai suportabilă; monumentul strălucește alb în lumina clară de iarnă.",
+                "en": "Parking spots are easier to find at noon as the heat is less intense; the monument glows especially white in the sharp and clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalmuseum Khon Kaen",
+                "hu": "Khon Kaen Nemzeti Múzeum",
+                "ro": "Muzeul Național Khon Kaen",
+                "en": "Khon Kaen National Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittag für einen Spaziergang im Museumsgarten, da die Temperaturen im Winter auch im Freien sehr angenehm sind.",
+                "hu": "Használja ki a délutánt egy sétára a múzeum kertjében, mivel a téli hőmérséklet a szabadban is nagyon kellemes ilyenkor Khon Kaenben.",
+                "ro": "Profitați de după-amiază pentru o plimbare în grădina muzeului, deoarece temperaturile de iarnă sunt foarte plăcute în aer liber în această regiune.",
+                "en": "Take advantage of the afternoon for a stroll in the museum garden, as winter temperatures are very pleasant outdoors in Khon Kaen right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturhistorisches Museum der Khon Kaen Universität",
+                "hu": "Khon Kaen Egyetem Természettudományi Múzeuma",
+                "ro": "Muzeul de Istorie Naturală Universitatea Khon Kaen",
+                "en": "Natural History Museum Khon Kaen University"
+              },
+              "tip_5lang": {
+                "de": "Der Campus ist im Winter sehr belebt; achten Sie auf Studenten auf Motorrollern und genießen Sie die grüne Umgebung während der Fahrt zum Museum.",
+                "hu": "Az egyetemi campus télen nagyon élettel teli; ügyeljen a robogóval közlekedő hallgatókra, és élvezze a zöld környezetet a múzeum felé menet.",
+                "ro": "Campusul este foarte plin de viață iarna; atenție la studenții pe scutere și bucurați-vă de împrejurimile verzi în timp ce mergeți spre muzeu.",
+                "en": "The campus is very lively in winter; watch out for students on scooters and enjoy the green surroundings as you drive toward the museum building."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunst- und Kulturmuseum der Universität",
+                "hu": "Egyetemi Művészeti és Kulturális Múzeum",
+                "ro": "Muzeul de Artă și Cultură al Universității",
+                "en": "Art and Culture University Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor 17:00 Uhr ein, um den Berufsverkehr und die frühe Dunkelheit zu vermeiden; das Museum ist ein perfekter Abschluss.",
+                "hu": "Tervezze a visszautat 17:00 előtt, hogy elkerülje a csúcsforgalmat és a korai sötétedést; a múzeum tökéletes zárása a kulturális napnak.",
+                "ro": "Planificați drumul de întoarcere înainte de ora 17:00 pentru a evita traficul de vârf și întunericul timpuriu; muzeul este un final perfect.",
+                "en": "Plan your return trip before 17:00 to avoid rush hour traffic and the early darkness; the museum serves as a perfect cultural finale."
+              }
+            }
+          ]
+        }
       }
     }
   }

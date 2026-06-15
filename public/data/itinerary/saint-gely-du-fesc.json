@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Salle des Arts kulturális élményeivel.\n\nDélben látogasson el a békés Saint-Gilles templomba, majd másszon fel a Calvaire emlékműhöz.\n\nDélután merüljön el a történelemben a Tour de Lauzard középkori falai között.\n\nZárja a napot a természet és az állatok közelségében a bájos A la p'tite ferme farmon.",
         "ro": "Începeți dimineața cu o imersiune culturală la Salle des Arts.\n\nLa prânz, vizitați senina Biserică Saint-Gilles și urcați la monumentul Calvaire.\n\nDupă-amiaza, pătrundeți în istorie la Tour de Lauzard și minunați-vă de zidărie.\n\nÎncheiați ziua conectându-vă cu natura și animalele la fermecătoarea A la p'tite ferme.",
         "en": "Start your morning with a refreshing cultural immersion at Salle des Arts.\n\nMidday approaches as you visit the peaceful Saint-Gilles Church and hike up to the Calvaire.\n\nIn the afternoon, dive into history at the Tour de Lauzard and marvel at the medieval stonework.\n\nConclude your day connecting with nature and animals at the delightful A la p'tite ferme."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen trocken im Kunstsaal, bevor Sie mit Schirm zur Kirche gehen. Mittags erwartet Sie ein feuchter Spaziergang zum Kalvarienberg. Nachmittags erkunden Sie den alten Turm, achten Sie auf rutschige Steine. Abends bietet die Farm gemütlichen Schutz.",
+            "hu": "A borongós reggelt kezdje a száraz művészeti teremben, majd esernyővel sétáljon át a templomhoz. Délben egy eső áztatta séta vár a kálváriához. Délután óvatosan lépkedve fedezze fel az ősi tornyot a csúszós köveken. Kora este a farm nyújt kellemes, esőtől védett menedéket.",
+            "ro": "Începeți dimineața ploioasă la adăpost în sala de arte, apoi luați umbrela spre biserică. La prânz, o plimbare umedă vă duce la calvar. După-amiaza explorați turnul istoric, dar atenție la pietrele alunecoase. Seara se încheie la mica fermă, un refugiu primitor și uscat.",
+            "en": "Start your wet morning dry in the art hall before walking to the church with an umbrella. Midday brings a damp stroll to the calvary. In the afternoon, explore the old tower, stepping carefully on slippery stones. Evening concludes at the small farm, offering cozy shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Salle des Arts",
+                "hu": "Salle des Arts",
+                "ro": "Salle des Arts",
+                "en": "Salle des Arts"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Ausstellungen in diesem trockenen, einladenden Saal, der perfekte Zufluchtsort vor dem morgendlichen Regen für Kultur.",
+                "hu": "Csodálja meg a kiállításokat ebben a száraz, hívogató csarnokban, amely tökéletes menedék a reggeli záporok elől egy kis benti kultúrához.",
+                "ro": "Admirați expozițiile în această sală uscată și primitoare, un refugiu perfect din calea averselor matinale pentru un moment cultural.",
+                "en": "Admire the exhibitions in this dry, welcoming hall to perfectly escape the morning showers and enjoy a quiet cultural moment indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gilles",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im historischen Kirchenschiff Schutz vor dem Regen und bewundern Sie die bunten Buntglasfenster in der mystischen Dunkelheit.",
+                "hu": "Lépjen be a történelmi főhajóba, hogy menedéket találjon az eső elől, miközben megcsodálja a gyönyörű ólomüveg ablakokat a félhomályban.",
+                "ro": "Pășiți în nava istorică pentru a găsi adăpost de ploaie, admirând în același timp vitraliile frumoase în penumbra liniștitoare.",
+                "en": "Step inside the historic nave to find shelter from the rain while admiring the beautiful stained glass windows in the soothing gloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvaire",
+                "hu": "Calvaire",
+                "ro": "Calvaire",
+                "en": "Calvaire"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen stabilen Schirm für den offenen Weg zum Hügel; der Regen verleiht den Steinmonumenten eine ruhige, mystische Atmosphäre.",
+                "hu": "Hozzon erős esernyőt a dombra vezető nyitott sétához; az eső különleges, misztikus hangulatot kölcsönöz a kőből készült emlékműveknek.",
+                "ro": "Luați o umbrelă rezistentă pentru urcarea expusă spre deal; ploaia adaugă o atmosferă mistică și liniștită monumentelor de piatră.",
+                "en": "Bring a sturdy umbrella for the exposed walk up the hill; the gentle rain adds a mystical, quiet atmosphere to the old stone monuments."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Lauzard",
+                "hu": "Tour de Lauzard",
+                "ro": "Tour de Lauzard",
+                "en": "Tour de Lauzard"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie den Fuß dieses alten Turms vorsichtig mit rutschfesten Schuhen, da die nassen Steine in der Umgebung sehr glatt sein können.",
+                "hu": "Óvatosan fedezze fel az ősi torony tövét, és viseljen jó tapadású cipőt, mivel a környező nedves kövek meglehetősen csúszósak lehetnek.",
+                "ro": "Explorați baza acestui turn antic cu mare atenție, purtând încălțăminte cu aderență bună, deoarece pietrele umede pot fi alunecoase.",
+                "en": "Explore the base of this ancient tower carefully, wearing shoes with good grip as the surrounding wet stones can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "A la p'tite ferme",
+                "hu": "A la p'tite ferme",
+                "ro": "A la p'tite ferme",
+                "en": "A la p'tite ferme"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der kleinen Farm, um die Tiere zu sehen; tragen Sie unbedingt wasserdichte Stiefel für die matschigen Wege.",
+                "hu": "Élvezze a kis farm fedett részeit az állatok megfigyeléséhez; mindenképpen vízálló csizmát viseljen a környező sáros ösvények miatt.",
+                "ro": "Bucurați-vă de zonele acoperite ale micii ferme pentru a vedea animalele; asigurați-vă că purtați cizme impermeabile pentru aleile noroioase.",
+                "en": "Enjoy the covered areas of the small farm to see the animals; just make sure to wear waterproof boots for the muddy pathways outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt in der warmen Kunstgalerie, gefolgt von der historischen Kirche. Die Wintersonne beleuchtet mittags den Weg zum Kalvarienberg. Nachmittags besuchen Sie den alten Turm. Beenden Sie den Tag früh auf der Farm, bevor der Sonnenuntergang um 17:00 Uhr Kälte bringt.",
+            "hu": "A fagyos reggel a meleg galériában indul, majd a történelmi templom következik. A téli déli nap megvilágítja a kálvária dombját. Délután még sötétedés előtt érdemes megnézni az ősi tornyot. A napot a farmon zárja, mielőtt a 17:00 órai naplemente elhozza az igazi hideget.",
+            "ro": "O dimineață geroasă începe la galeria de artă încălzită, urmată de biserica istorică. Soarele de iarnă luminează la prânz drumul spre calvar. După-amiaza vizitați turnul antic înainte de lăsarea întunericului. Încheiați devreme la fermă, înainte de apusul rece de la ora 17:00.",
+            "en": "A frosty morning starts at the warm art gallery, before visiting the historic church. Midday winter sun lights up the steep calvary hike. The afternoon features a visit to the ancient tower before dusk. Wrap up early at the farm before the 17:00 sunset brings the real cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Salle des Arts",
+                "hu": "Salle des Arts",
+                "ro": "Salle des Arts",
+                "en": "Salle des Arts"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren frostigen Morgen hier und genießen Sie den beheizten Galerieraum mit lokaler Kunst, bevor Sie in die Kälte zurückkehren.",
+                "hu": "Kezdje a fagyos reggelt itt, élvezve a fűtött galéria terét és a helyi művészetet, mielőtt visszatérne a kinti csípős hidegbe.",
+                "ro": "Începeți dimineața geroasă aici, bucurându-vă de spațiul încălzit al galeriei și de arta locală înainte de a vă întoarce în frig.",
+                "en": "Start your frosty morning here, enjoying the heated gallery space while taking in the local art before heading back into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gilles",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kirche kühl, behalten Sie also Ihren Wintermantel an, während Sie das friedliche Heiligtum bestaunen.",
+                "hu": "A vastag kőfalak hűvösen tartják a templomot, ezért hagyja magán a télikabátot, miközben megcsodálja a békés, félhomályos szentélyt.",
+                "ro": "Zidurile groase de piatră mențin biserica rece, așa că păstrați haina de iarnă în timp ce admirați sanctuarul pașnic și slab luminat.",
+                "en": "The thick stone walls keep the church cool, so keep your winter coat on while marveling at the peaceful, dimly lit sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvaire",
+                "hu": "Calvaire",
+                "ro": "Calvaire",
+                "en": "Calvaire"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich für den windigen Aufstieg warm ein; die klare Winterluft bietet hier oben eine bemerkenswert weite und schöne Aussicht.",
+                "hu": "Öltözzön fel melegen a szeles emelkedőhöz; a ropogós téli levegő itt fent figyelemre méltóan tiszta, messzire nyúló kilátást nyújt.",
+                "ro": "Îmbrăcați-vă gros pentru urcarea vântoasă spre calvar; aerul proaspăt de iarnă oferă vederi remarcabil de clare și îndepărtate.",
+                "en": "Wrap up with a warm scarf for the breezy ascent to the calvary, where the crisp winter air offers remarkably clear, far-reaching views."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Lauzard",
+                "hu": "Tour de Lauzard",
+                "ro": "Tour de Lauzard",
+                "en": "Tour de Lauzard"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen mittelalterlichen Turm, solange die Sonne noch scheint; das goldene Winternachmittagslicht ist perfekt für Fotos.",
+                "hu": "Látogassa meg ezt a középkori tornyot, amíg még süt a nap; az aranyló téli délutáni fény látványos fotózási lehetőségeket kínál.",
+                "ro": "Vizitați acest turn medieval cât timp soarele este încă sus; lumina aurie a după-amiezii de iarnă creează fotografii spectaculoase.",
+                "en": "Visit this medieval tower while the sun is still up; the golden winter afternoon light makes for truly spectacular photography."
+              }
+            },
+            {
+              "name": {
+                "de": "A la p'tite ferme",
+                "hu": "A la p'tite ferme",
+                "ro": "A la p'tite ferme",
+                "en": "A la p'tite ferme"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Farm vor dem Sonnenuntergang um 17:00 Uhr, wenn es kalt wird, und genießen Sie die Atmosphäre mit den Tieren.",
+                "hu": "Látogasson el a farmra a 17:00 órás naplemente előtt, amikor a hőmérséklet meredeken csökken, és élvezze az állatok közelségét.",
+                "ro": "Vizitați ferma înainte de apusul de la ora 17:00, când temperaturile scad brusc, și bucurați-vă de atmosfera confortabilă alături de animale.",
+                "en": "Visit the farm before the 17:00 sunset when temperatures drop sharply, and enjoy the cozy atmosphere with the winter-coated animals."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Induljon korán, és tekerjen el a történelmi Cabane de Plagnolhoz egy rusztikus kezdésért.\n\nDélben fedezze fel a Salle des Arts kiállításait és a Saint-Gilles templomot.\n\nDélután egy emelkedő vár a Calvaire kilátóhoz és a Tour de Lauzard toronyhoz.\n\nA kerékpáros túra a Mazet du cheval festői romjainál ér véget a gyönyörű naplementekor.",
         "ro": "Porniți devreme pedalând spre istorica Cabane de Plagnol pentru un început rustic.\n\nLa prânz, explorați Salle des Arts și senina Biserică Saint-Gilles din apropiere.\n\nDupă-amiaza aduce o urcare la Calvaire și o oprire fascinantă la Tour de Lauzard.\n\nAventura se încheie explorând ruinele evocatoare de la Mazet du cheval la apusul soarelui.",
         "en": "Set out early by pedaling to the historic Cabane de Plagnol for a rustic start.\n\nBy midday, explore the art exhibits at Salle des Arts and the serene Saint-Gilles Church.\n\nThe afternoon brings a rewarding climb to Calvaire and a stop at Tour de Lauzard.\n\nYour cycling adventure winds down exploring the evocative ruins of Mazet du cheval at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine morgendliche Fahrt zur nassen Steinhütte erfordert gute Schutzbleche. Trocknen Sie sich im Kunstsaal ab, bevor Sie zur Kirche radeln. Die Nachmittagsfahrt zu Kalvarienberg und Turm verlangt Vorsicht auf rutschigen Wegen. Beenden Sie die Tour an der Ruine mit starken Fahrradlichtern.",
+            "hu": "A nedves kőkunyhóhoz vezető reggeli úthoz sárvédő szükséges. Száradjon meg a művészeti teremben, majd tekerjen a templomhoz. A kálváriához és a toronyhoz vezető délutáni út óvatosságot igényel a csúszós ösvényeken. Sötétedéskor érkezik a romhoz, használjon erős kerékpárlámpát.",
+            "ro": "O plimbare matinală spre cabana umedă de piatră necesită apărători bune de noroi. Uscați-vă la sala de arte, apoi pedalați spre biserică. Drumul de după-amiază spre calvar și turn cere atenție pe aleile alunecoase. Terminați la ruine odată cu amurgul; folosiți lumini puternice.",
+            "en": "A morning ride to the wet stone cabin requires good mudguards. Dry off at the art hall, then pedal to the church. The afternoon ride to the calvary and tower demands caution on wet, slippery paths. Finish at the ruined mazet as dusk sets in; use strong, reliable bike lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cabane de Plagnol",
+                "hu": "Cabane de Plagnol",
+                "ro": "Cabane de Plagnol",
+                "en": "Cabane de Plagnol"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie gute Regenkleidung für die Fahrt zu dieser Steinhütte; das nasse Wetter betont die raue Schönheit der umliegenden Landschaft.",
+                "hu": "Viseljen jó esőruhát az ősi kőkunyhóhoz vezető úton; a nedves időjárás nagyszerűen kiemeli a táj zord és vad szépségét.",
+                "ro": "Purtați un costum de ploaie bun pentru drumul spre această cabană de piatră; vremea umedă evidențiază frumusețea aspră a peisajului.",
+                "en": "Wear a reliable rain suit for the ride to this ancient stone cabin; the wet weather perfectly highlights the rugged beauty of the landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle des Arts",
+                "hu": "Salle des Arts",
+                "ro": "Salle des Arts",
+                "en": "Salle des Arts"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und treten Sie ein, um sich vollständig abzutrocknen, während Sie die Kunstausstellungen als perfektes Refugium genießen.",
+                "hu": "Parkolja le kerékpárját, és lépjen be, hogy teljesen megszáradjon, miközben a benti művészeti kiállításokat tekinti meg esős menedékként.",
+                "ro": "Parcați bicicleta și intrați pentru a vă usca complet, bucurându-vă de expozițiile de artă interioare ca un refugiu perfect.",
+                "en": "Park your bike and step inside to dry off completely, enjoying the indoor art exhibitions as a perfect rainy-day refuge from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gilles",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der großen Kirche und ruhen Sie Ihre Beine aus, während Sie dem beruhigenden Geräusch des Regens auf dem Dach lauschen.",
+                "hu": "Keressen menedéket a nagy templomban, és pihentesse meg lábait, miközben a tetőn doboló eső megnyugtató hangját hallgatja.",
+                "ro": "Căutați adăpost în marea biserică și odihniți-vă picioarele în timp ce ascultați sunetul liniștitor al ploii pe acoperișul vechi.",
+                "en": "Seek shelter inside the grand church and take a moment to rest your cycling legs while listening to the soothing sound of rain on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvaire",
+                "hu": "Calvaire",
+                "ro": "Calvaire",
+                "en": "Calvaire"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf der nassen Abfahrt vom Kalvarienberg; der Nebel verleiht dem Hügel ein wunderschön isoliertes Gefühl.",
+                "hu": "Fékezzen finoman a kálváriáról való nedves lejtmenetben; a ködös eső gyönyörűen elszigetelt, borongós hangulatot kölcsönöz a dombtetőnek.",
+                "ro": "Frânați ușor la coborârea umedă de pe calvar; ploaia cețoasă oferă vârfului dealului o senzație frumos izolată și melancolică.",
+                "en": "Brake gently on the wet descent from the calvary; the misty rain gives the hilltop a beautifully moody and isolated feel for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Lauzard",
+                "hu": "Tour de Lauzard",
+                "ro": "Tour de Lauzard",
+                "en": "Tour de Lauzard"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schlamm um den historischen Turm; der Regen verwandelt die umliegenden Ruinen in eine dramatische, nasse Szene.",
+                "hu": "Ügyeljen a történelmi torony körüli sáros foltokra; az eső drámai, nedves jelenetté változtatja a környező romok látványát.",
+                "ro": "Atenție la zonele noroioase din jurul turnului istoric; ploaia transformă ruinele din jur într-o scenă umedă și dramatică.",
+                "en": "Watch out for muddy patches around the historical tower; the persistent rain transforms the surrounding ruins into a dramatic, wet scene."
+              }
+            },
+            {
+              "name": {
+                "de": "Mazet du cheval (Ruine)",
+                "hu": "Mazet du cheval (rom)",
+                "ro": "Mazet du cheval (ruină)",
+                "en": "Mazet du cheval (ruin)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie starke Fahrradlichter für diesen letzten Stopp und tragen Sie wasserdichte Stiefel, um die matschigen Ruinen sicher zu erkunden.",
+                "hu": "Használjon erős kerékpárlámpát az utolsó megállóhoz, és viseljen vízálló csizmát, hogy biztonságosan felfedezze a sáros, ázott romokat.",
+                "ro": "Folosiți lumini puternice pentru bicicletă la această oprire finală și purtați cizme impermeabile pentru a explora ruinele noroioase în siguranță.",
+                "en": "Use strong bike lights for this final stop, and wear waterproof boots to explore the muddy, rain-soaked ruins safely before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einer frischen Morgenfahrt zur alten Hütte; tragen Sie Thermohandschuhe. Wärmen Sie sich im Kunstsaal und der Kirche auf, bevor Sie zum Kalvarienberg radeln. Die Nachmittagsfahrt zu Turm und Ruinen muss zügig vor dem Sonnenuntergang um 17:00 Uhr erfolgen.",
+            "hu": "Kezdje a fagyos reggelt a régi kunyhónál; viseljen termokesztyűt. Melegedjen fel a művészeti teremben és a templomban, majd délben tekerjen fel a kálváriához. A toronyhoz és a romokhoz vezető délutáni útnak gyorsnak kell lennie a 17:00 órás naplemente előtt. Hozzon forró teát!",
+            "ro": "Începeți cu o pedalare geroasă dimineața spre cabana veche; purtați mănuși termice. Încălziți-vă la sala de arte și la biserică înainte de o cursă rapidă la prânz spre calvar. Drumul spre turn și ruine trebuie făcut rapid înainte de apusul înghețat de la 17:00. Luați ceai fierbinte!",
+            "en": "Start with a crisp morning pedal to the old cabin; wear thermal gloves. Warm up at the art hall and church before a brisk midday ride to the calvary. The afternoon ride to the tower and ruins must be quick and steady before the freezing 17:00 sunset. Bring hot tea in a flask!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cabane de Plagnol",
+                "hu": "Cabane de Plagnol",
+                "ro": "Cabane de Plagnol",
+                "en": "Cabane de Plagnol"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit Thermohandschuhen in die kühle Morgenfahrt und erkunden Sie diese rustikale Steinhütte in der frostigen Landschaft.",
+                "hu": "Induljon termokesztyűben a hűvös reggeli kerékpározásra, és fedezze fel ezt a fagyos tájon csendben álló, rusztikus kőkunyhót.",
+                "ro": "Începeți cu mănuși termice pentru plimbarea răcoroasă de dimineață și explorați această cabană de piatră rustică în peisajul înghețat.",
+                "en": "Start with thermal gloves for the chilly morning ride, and explore this rustic stone cabin standing silent in the crisp, frosty landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle des Arts",
+                "hu": "Salle des Arts",
+                "ro": "Salle des Arts",
+                "en": "Salle des Arts"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre gefrorenen Finger im beheizten Kunstsaal auf, eine ideale kulturelle Pause zum Auftauen, bevor Sie weiterradeln.",
+                "hu": "Melegítse fel fagyott ujjait a fűtött művészeti teremben, amely ideális kulturális szünet a kiolvadáshoz, mielőtt folytatná a túrát.",
+                "ro": "Încălziți-vă degetele înghețate în sala de artă încălzită, o pauză culturală ideală pentru a vă dezgheța înainte de a continua pedalarea.",
+                "en": "Warm your frozen fingers inside the heated arts hall, an ideal cultural break to defrost before continuing your winter cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gilles",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre in der Kirche, aber bleiben Sie in Bewegung, da die alten Steine die Winterkälte stark speichern.",
+                "hu": "Élvezze a csendes légkört a templomban, de maradjon mozgásban, hogy melegen tartsa magát, mivel az ősi kövek megőrzik a téli hideget.",
+                "ro": "Bucurați-vă de atmosfera liniștită din biserică, dar continuați să vă mișcați pentru a rămâne cald, deoarece pietrele vechi rețin frigul.",
+                "en": "Enjoy the quiet, crisp atmosphere inside the church, but keep moving to stay warm as the ancient massive stones retain the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Calvaire",
+                "hu": "Calvaire",
+                "ro": "Calvaire",
+                "en": "Calvaire"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kräftig in die Pedale, um sich beim Aufstieg aufzuwärmen; die kahlen Winterbäume oben bieten eine freie, atemberaubende Sicht.",
+                "hu": "Tekerjen erősen, hogy felmelegedjen a mászás során; a csupasz téli fák a csúcson akadálytalan, lenyűgöző kilátást nyújtanak a régióra.",
+                "ro": "Pedalați puternic pentru a vă încălzi la urcare; copacii goi de iarnă din vârf oferă vederi neobstrucționate și uimitoare ale regiunii.",
+                "en": "Pedal hard to warm up on the steady climb; the bare winter trees at the summit offer completely unobstructed, stunning views of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Lauzard",
+                "hu": "Tour de Lauzard",
+                "ro": "Tour de Lauzard",
+                "en": "Tour de Lauzard"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Turm im tief stehenden Nachmittagslicht; tragen Sie winddichte Kleidung, da das offene Gelände hier sehr zugig ist.",
+                "hu": "Csodálja meg az alacsonyan járó délutáni napfényben fürdő tornyot; viseljen szélálló ruházatot, mivel a nyílt terület meglehetősen huzatos.",
+                "ro": "Admirați turnul scăldat în lumina joasă a după-amiezii; purtați straturi rezistente la vânt, deoarece zona deschisă este destul de vântoasă.",
+                "en": "Admire the imposing tower bathed in the low afternoon sun; remember to wear windproof layers as the open surrounding area gets quite breezy."
+              }
+            },
+            {
+              "name": {
+                "de": "Mazet du cheval (Ruine)",
+                "hu": "Mazet du cheval (rom)",
+                "ro": "Mazet du cheval (ruină)",
+                "en": "Mazet du cheval (ruin)"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der frühen Dunkelheit um 17:00 Uhr hier an und schalten Sie Ihre hellen Fahrradlichter für eine sichere Rückfahrt ein.",
+                "hu": "Érkezzen ide a korai 17:00 órás sötétedés előtt, és kapcsolja be az erős kerékpárlámpákat a biztonságos, alkonyati hazaút érdekében.",
+                "ro": "Ajungeți aici înainte de întunericul timpuriu de la ora 17:00 și aprindeți farurile puternice ale bicicletei pentru o întoarcere sigură.",
+                "en": "Arrive here before the early 17:00 darkness falls completely, and switch on your bright bike lights for a safe, twilight ride back to town."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós útját a távoli Cabane de Plagnolnál, majd térjen vissza a városba.\n\nDélben látogasson el a Salle des Arts kulturális központba és a Saint-Gilles templomba.\n\nA délután a Tour de Lauzard és a Domaine de Saint-Clément kulináris élvezeteié.\n\nZárja a napot egy hangulatos autózással a Mazet du cheval eldugott romjaihoz az esti fényben.",
         "ro": "Începeți excursia la izolata Cabane de Plagnol înainte de a vă întoarce în oraș.\n\nLa prânz, vizitați centrul cultural Salle des Arts și istorica Biserică Saint-Gilles.\n\nDupă-amiaza include Tour de Lauzard și un răsfăț culinar la Domaine de Saint-Clément.\n\nÎncheiați ziua cu o plimbare pitorească spre ruinele Mazet du cheval pentru seară.",
         "en": "Kick off your road trip at the remote Cabane de Plagnol before driving into town.\n\nAs midday settles, visit the cultural Salle des Arts and the historic Saint-Gilles Church.\n\nThe afternoon includes Tour de Lauzard and culinary indulgence at Domaine de Saint-Clément.\n\nFinish the day with a scenic drive to the Mazet du cheval ruins for the evening."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig zur nassen Hütte und huschen Sie schnell ins Trockene. Genießen Sie den Kunstsaal und die historische Kirche, während es regnet. Eine Nachmittagsfahrt zu Turm und Weingut bietet perfekte Weinproben. Beenden Sie den Tag an der matschigen Ruine in festen Stiefeln.",
+            "hu": "Vezessen óvatosan a nedves kunyhóhoz, majd fusson a menedékbe. Élvezze a benti művészeti termet és a történelmi templomot, miközben kint esik. A délutáni autózás a toronyhoz és a borászathoz tökéletes esős napi kóstolót kínál. A sáros romoknál erős csizmában fejezze be a napot.",
+            "ro": "Conduceți cu atenție la cabana umedă, alergând din mașină la adăpost. Bucurați-vă de sala de arte interioară și de biserica istorică în timp ce plouă. O plimbare de după-amiază la turn și la domeniul viticol oferă degustări perfecte pe timp de ploaie. Încheiați la ruinele noroioase.",
+            "en": "Drive carefully to the wet cabin, running from your car to shelter. Enjoy the indoor art hall and the historic church while rain falls. An afternoon drive to the tower and a local wine estate offers perfect rainy-day tastings. Finish at the muddy ruined mazet wearing sturdy boots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cabane de Plagnol",
+                "hu": "Cabane de Plagnol",
+                "ro": "Cabane de Plagnol",
+                "en": "Cabane de Plagnol"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie einen Schirm für den kurzen Weg vom Auto zur Steinhütte mit, die im starken Regen bemerkenswert atmosphärisch aussieht.",
+                "hu": "Vigyen magával esernyőt az autótól a kőkunyhóig tartó rövid sétára, amely a heves esőzésben rendkívül hangulatosnak tűnik.",
+                "ro": "Luați o umbrelă pentru scurta plimbare de la mașină la cabana de piatră, care arată remarcabil de atmosferic în ploaia torențială.",
+                "en": "Bring an umbrella for the short walk from your car to the stone cabin, which looks remarkably atmospheric and moody in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle des Arts",
+                "hu": "Salle des Arts",
+                "ro": "Salle des Arts",
+                "en": "Salle des Arts"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den bequemen Parkplatz in der Nähe und verbringen Sie eine trockene Stunde mit den bunten Kunstausstellungen im Innenbereich.",
+                "hu": "Élvezze a közeli parkolás kényelmét, és töltsön el egy száraz, kényelmes órát a színes beltéri művészeti kiállítások felfedezésével.",
+                "ro": "Bucurați-vă de parcarea convenabilă din apropiere și petreceți o oră uscată și confortabilă explorând expozițiile de artă colorate din interior.",
+                "en": "Enjoy the convenience of parking nearby and spend a dry, comfortable hour exploring the colorful indoor art exhibitions away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gilles",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie aus Ihrem Auto in die Kirche, um das trockene Innere zu bewundern und dem Regenguss unter dem alten Gewölbe zu entkommen.",
+                "hu": "Fussanak az autóból a templomba, hogy megcsodálják a csendes, száraz belső teret, elmenekülve az eső elől a masszív ősi boltozat alá.",
+                "ro": "Alergați din mașină în biserică pentru a admira interiorul liniștit și uscat, scăpând de ploaie sub bolta sa veche și robustă.",
+                "en": "Dash from your car into the church to admire the quiet, dry interior, escaping the heavy downpour under its sturdy, ancient stone vaulting."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Lauzard",
+                "hu": "Tour de Lauzard",
+                "ro": "Tour de Lauzard",
+                "en": "Tour de Lauzard"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Schuhe mit guter Traktion, da der kurze Weg vom Parkplatz zum historischen Turm über rutschiges, nasses Gras führt.",
+                "hu": "Viseljen jó tapadású cipőt, mivel a parkolótól a történelmi toronyig tartó rövid séta csúszós, nedves füvön keresztül vezet.",
+                "ro": "Purtați pantofi cu aderență bună, deoarece scurta plimbare de la parcare la turnul istoric se face pe iarbă umedă și alunecoasă.",
+                "en": "Wear shoes with good traction, as the short walk from the parking area to the historic tower features quite slippery, rain-soaked grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Saint-Clément",
+                "hu": "Domaine de Saint-Clément",
+                "ro": "Domaine de Saint-Clément",
+                "en": "Domaine de Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp an einem Regentag; entspannen Sie sich drinnen bei einer fantastischen Weinprobe, während das Wetter draußen tobt.",
+                "hu": "Tökéletes esős délutáni megálló; pihenjen bent egy fantasztikus borkóstolón, miközben kint az időjárás hevesen tombol.",
+                "ro": "O oprire perfectă într-o după-amiază ploioasă; relaxați-vă în interior cu o degustare fantastică de vinuri în timp ce afară plouă torențial.",
+                "en": "A perfect rainy afternoon stop; relax indoors with a fantastic wine tasting session while the weather pours heavily outside the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Mazet du cheval (Ruine)",
+                "hu": "Mazet du cheval (rom)",
+                "ro": "Mazet du cheval (ruină)",
+                "en": "Mazet du cheval (ruin)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am nassen Seitenstreifen und tragen Sie wasserdichte Stiefel, um die matschigen Ruinen im Nieselregen zu erkunden.",
+                "hu": "Parkoljon óvatosan a nedves útpadkán, és viseljen vízálló csizmát, hogy röviden felfedezze a sáros, romantikus romokat az esti szitáló esőben.",
+                "ro": "Parcați cu grijă pe marginea umedă și purtați cizme impermeabile pentru a explora ruinele noroioase și romantice în burnița de seară.",
+                "en": "Park carefully on the wet shoulder and wear waterproof boots to briefly explore the muddy, romantic ruins in the peaceful evening drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige Morgenfahrt beginnt an der alten Hütte, gefolgt vom warmen Kunstsaal. Mittags erstrahlen Kirche und Turm in klarem Winterlicht. Eine Weinprobe am Nachmittag wärmt Sie perfekt auf, bevor Sie kurz vor 17:00 Uhr einen letzten Stopp im Zwielicht an der Ruine einlegen.",
+            "hu": "A fagyos reggeli autózás a régi kunyhónál kezdődik, majd irány a meleg művészeti terem. Délben a templom és a torony ragyog a téli fényben. A délutáni borkóstoló a birtokon tökéletesen felmelegíti, mielőtt röviddel 17:00 előtt megtenné az utolsó megállót a romoknál.",
+            "ro": "O plimbare matinală geroasă începe la cabana veche, apoi mergeți la sala de artă încălzită. Prânzul prezintă biserica și turnul în lumina clară de iarnă. Degustarea de vinuri de după-amiază vă încălzește perfect înainte de oprirea finală la ruinele luminate de amurg la ora 17:00.",
+            "en": "A frosty morning drive starts at the old cabin, then head to the warm art hall. Midday features the church and the tower in crisp winter light. An afternoon wine tasting at the estate warms you up perfectly before a final twilight stop at the ruined mazet just before 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cabane de Plagnol",
+                "hu": "Cabane de Plagnol",
+                "ro": "Cabane de Plagnol",
+                "en": "Cabane de Plagnol"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie aus Ihrem beheizten Auto in die klare Morgenluft, um diese historische Steinhütte in der frostigen Landschaft zu fotografieren.",
+                "hu": "Lépjen ki a fűtött autóból a csípős reggeli levegőbe, hogy lefotózza ezt a történelmi kőkunyhót a gyönyörű fagyos tájban.",
+                "ro": "Ieșiți din mașina încălzită în aerul proaspăt al dimineții pentru a fotografia această colibă istorică de piatră în peisajul înghețat.",
+                "en": "Step out of your heated car into the crisp morning air to photograph this historic stone hut surrounded by a beautiful frosty landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Salle des Arts",
+                "hu": "Salle des Arts",
+                "ro": "Salle des Arts",
+                "en": "Salle des Arts"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine angenehme Pause von der Kälte im Freien und verbringen Sie Zeit in dieser gut beheizten lokalen Kunstgalerie.",
+                "hu": "Tartson egy kellemes szünetet a kinti hideg elől, és töltsön el egy kis időt ebben a jól fűtött, kulturálisan gazdag helyi művészeti galériában.",
+                "ro": "Luați o pauză plăcută de la frigul de afară petrecând timp în această galerie de artă locală bine încălzită și bogată cultural.",
+                "en": "Take a pleasant break from the biting cold outdoors by spending time in this well-heated, culturally rich local art gallery."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Gilles",
+                "hu": "Saint-Gilles templom",
+                "ro": "Biserica Saint-Gilles",
+                "en": "Saint-Gilles Church"
+              },
+              "tip_5lang": {
+                "de": "Das Kircheninnere kann genauso kalt sein wie die Außenluft, lassen Sie also Ihre Winterjacke geschlossen, während Sie die Schönheit erkunden.",
+                "hu": "A templom belseje ugyanolyan hideg lehet, mint a kinti levegő, ezért tartsa felhúzva a télikabátját, miközben felfedezi annak nyugodt szépségét.",
+                "ro": "Interiorul bisericii poate fi la fel de rece ca aerul de afară, așa că țineți jacheta de iarnă închisă în timp ce îi explorați frumusețea.",
+                "en": "The church interior can be just as cold as the outside air, so keep your thick winter jacket zipped up while exploring its serene beauty."
+              }
+            },
+            {
+              "name": {
+                "de": "Tour de Lauzard",
+                "hu": "Tour de Lauzard",
+                "ro": "Tour de Lauzard",
+                "en": "Tour de Lauzard"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen flotten Spaziergang zum Turm; der klare Winterhimmel bietet eine hervorragende Kulisse, um dieses Wahrzeichen zu fotografieren.",
+                "hu": "Tegyen egy élénkítő sétát a toronyhoz; a tiszta téli égbolt kiváló hátteret biztosít ennek az ősi kőből épült nevezetességnek a fotózásához.",
+                "ro": "Bucurați-vă de o plimbare rapidă până la turn; cerul senin de iarnă oferă un fundal excelent pentru a fotografia acest punct de reper antic.",
+                "en": "Enjoy a brisk walk to the tower; the incredibly clear winter skies provide an excellent backdrop for photographing this ancient stone landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Saint-Clément",
+                "hu": "Domaine de Saint-Clément",
+                "ro": "Domaine de Saint-Clément",
+                "en": "Domaine de Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich von innen auf mit einer köstlichen Nachmittagsweinprobe im gemütlichen, einladenden Verkostungsraum des Weinguts.",
+                "hu": "Melegedjen fel belülről egy elragadó délutáni borkóstolóval a birtok hangulatos, hívogató kóstolótermében.",
+                "ro": "Încălziți-vă pe dinăuntru cu o degustare delicioasă de vinuri de după-amiază în sala de degustare confortabilă și primitoare a domeniului.",
+                "en": "Warm up from the inside out with a delightful afternoon wine tasting in the perfectly cozy and welcoming tasting room of the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Mazet du cheval (Ruine)",
+                "hu": "Mazet du cheval (rom)",
+                "ro": "Mazet du cheval (ruină)",
+                "en": "Mazet du cheval (ruin)"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Ruinen kurz vor Sonnenuntergang um 17:00 Uhr und fangen Sie die letzten goldenen Strahlen ein, bevor Sie ins Auto zurückkehren.",
+                "hu": "Feltétlenül látogassa meg ezeket a romokat közvetlenül a 17:00 óra körüli naplemente előtt, elkapva az utolsó aranyló sugarakat a meleg autóba való visszatérés előtt.",
+                "ro": "Asigurați-vă că vizitați aceste ruine chiar înainte ca soarele să apună în jurul orei 17:00, prinzând ultimele raze aurii înainte de a vă întoarce la mașină.",
+                "en": "Make sure to visit these ruins right before the sun sets around 17:00, catching the very last golden rays before returning to your warm car."
+              }
+            }
+          ]
+        }
       }
     }
   }

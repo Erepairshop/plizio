@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a történelmi Városháza felfedezésével és merüljön el a katalán kultúrában a lenyűgöző Casa Museuban.\n\nA dél kínál lehetőséget a helyi közösségi szellem megtapasztalására az El Fomentben és lenyűgöző műalkotások felfedezésére.\n\nTöltse a délutánt a városi művészeti iskola kreatív energiájának érzékelésével, mielőtt meglátogatja az impozáns Torreta del Clos-t.\n\nAhogy leszáll az este, fejezze be a napját a Torreta Gramenella-nál, élvezve a naplementét a város ősi építészeti maradványai felett.",
         "ro": "Începeți dimineața explorând Primăria istorică și aprofundând cultura catalană la captivantul Casa Museu.\n\nMiezul zilei vă oferă șansa de a experimenta spiritul comunității la El Foment și de a descoperi opere de artă fascinante.\n\nPetreceți-vă după-amiaza simțind energia creativă la școala municipală de artă înainte de a vizita impunătoarea Torreta del Clos.\n\nPe măsură ce se lasă seara, încheiați ziua la Torreta Gramenella, bucurându-vă de apusul de aur peste rămășițele arhitecturale antice ale orașului.",
         "en": "Start your morning exploring the historic Martorell Town Hall and diving into Catalan culture at the captivating Casa Museu L'Enrajolada-Santacana.\n\nMidday offers a chance to experience local community spirit at El Foment and discover fascinating artworks in the Sala d'exposicions.\n\nSpend your afternoon feeling the creative energy at the municipal art school before visiting the imposing Torreta del Clos.\n\nAs evening falls, conclude your day at Torreta Gramenella, enjoying the golden sunset over the town's ancient architectural remnants."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus, wo die Arkaden Schutz vor dem Nieselregen bieten. Mittags finden wir in den Museen von Martorell Zuflucht vor den Schauern und tauchen in die Geschichte ein. Den Nachmittag verbringen wir in den überdachten Kulturzentren der Stadt. Der Abend endet mit einem stimmungsvollen Spaziergang zu den alten Türmen, deren Steine im Regen glänzen.",
+            "hu": "A reggel a városházánál indul, ahol az árkádok védelmet nyújtanak az eső ellen. Délben Martorell múzeumaiban találunk menedéket a záporok elől, elmerülve a helyi történelemben. Délután a város fedett kulturális központjait fedezzük fel. Az este hangulatos sétával zárul a történelmi tornyok felé, melyek ódon kövei különleges fénnyel csillognak a szemerkélő esőben.",
+            "ro": "Dimineața începe la Primărie, unde arcadele oferă adăpost împotriva burniței. La prânz, găsim refugiu în muzeele din Martorell, explorând istoria locală la adăpost de ploaie. După-amiaza este dedicată centrelor culturale acoperite ale orașului. Seara se încheie cu o plimbare atmosferică spre turnurile vechi, ale căror pietre strălucesc sub stropii de ploaie.",
+            "en": "Morning starts at the Town Hall, where the arcades provide shelter from the drizzle. At noon, we find refuge in Martorell's museums, diving into local history away from the showers. Afternoon is spent exploring the city's indoor cultural centers. The evening concludes with an atmospheric walk towards the ancient towers, their old stones glistening beautifully in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Martorell Town Hall",
+                "hu": "Martorell Town Hall",
+                "ro": "Martorell Town Hall",
+                "en": "Martorell Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter den schützenden Arkaden des Platzes und achten Sie auf die rutschigen Pflastersteine bei Nässe.",
+                "hu": "Csodálja meg az épületet a tér védelmet nyújtó árkádjai alól, és ügyeljen a nedves kövekre, melyek esőben csúszósak lehetnek.",
+                "ro": "Admirați arhitectura de sub arcadele protectoare ale pieței și aveți grijă la pavajul care poate deveni alunecos pe timp de ploaie.",
+                "en": "Admire the architecture from beneath the square's protective arcades and watch out for the cobblestones which can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu L'Enrajolada-Santacana",
+                "hu": "Casa Museu L'Enrajolada-Santacana",
+                "ro": "Casa Museu L'Enrajolada-Santacana",
+                "en": "Casa Museu L'Enrajolada-Santacana"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der perfekte Ort, um einen starken Regenschauer zu überbrücken, während man die beeindruckende Keramiksammlung bestaunt.",
+                "hu": "Ez a múzeum tökéletes helyszín egy nagyobb zápor átvészelésére, miközben az impozáns kerámiagyűjteményben gyönyörködhetünk.",
+                "ro": "Acest muzeu este locul perfect pentru a aștepta trecerea unei ploi torențiale, admirând în același timp colecția impresionantă de ceramică.",
+                "en": "This museum is the perfect spot to wait out a heavy downpour while marveling at the impressive collection of ceramics indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "El Foment",
+                "hu": "El Foment",
+                "ro": "El Foment",
+                "en": "El Foment"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen kulturellen Treffpunkt für eine Pause im Trockenen und informieren Sie sich über lokale Veranstaltungen im Innenraum.",
+                "hu": "Használja ki ezt a kulturális találkozóhelyet egy száraz pihenőre, és böngésszen a helyi események között a fedett beltérben.",
+                "ro": "Profitați de acest punct de întâlnire cultural pentru o pauză la uscat și informați-vă despre evenimentele locale în spațiul interior.",
+                "en": "Take advantage of this cultural meeting point for a dry break and check out local events in the indoor space."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala d'exposicions Memorial Vicenç Ros",
+                "hu": "Sala d'exposicions Memorial Vicenç Ros",
+                "ro": "Sala d'exposicions Memorial Vicenç Ros",
+                "en": "Sala d'exposicions Memorial Vicenç Ros"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen bieten eine wunderbare kulturelle Flucht vor dem Wetter; vergessen Sie nicht, Ihren Regenschirm am Eingang abzustellen.",
+                "hu": "A kiállítások remek kulturális menekülést kínálnak az időjárás elől; ne felejtse el az esernyőjét a bejáratnál hagyni.",
+                "ro": "Expozițiile oferă o evadare culturală minunată din calea vremii; nu uitați să lăsați umbrela la intrare în spațiul special amenajat.",
+                "en": "The exhibitions offer a wonderful cultural escape from the weather; don't forget to leave your umbrella at the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Escola municipal d'arts plàstiques Ca l'Oller",
+                "hu": "Escola municipal d'arts plàstiques Ca l'Oller",
+                "ro": "Escola municipal d'arts plàstiques Ca l'Oller",
+                "en": "Escola municipal d'arts plàstiques Ca l'Oller"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das kreative Treiben im Inneren durch die Fenster und genießen Sie den Schutz dieses historischen Gebäudes.",
+                "hu": "Figyelje meg a belső kreatív munkát az ablakokon keresztül, és élvezze e történelmi épület nyújtotta biztonságos menedéket.",
+                "ro": "Observați activitatea creativă din interior prin ferestre și bucurați-vă de protecția oferită de această clădire istorică.",
+                "en": "Observe the creative buzz inside through the windows and enjoy the shelter provided by this historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Torreta del Clos",
+                "hu": "Torreta del Clos",
+                "ro": "Torreta del Clos",
+                "en": "Torreta del Clos"
+              },
+              "tip_5lang": {
+                "de": "Die mittelalterliche Atmosphäre wird durch den Regen verstärkt; tragen Sie feste Schuhe für den eventuell rutschigen Zugangsweg.",
+                "hu": "A középkori hangulatot csak fokozza az eső; viseljen zárt cipőt a helyenként csúszóssá váló odavezető út miatt.",
+                "ro": "Atmosfera medievală este accentuată de ploaie; purtați încălțăminte aderentă pentru drumul de acces care poate fi alunecos.",
+                "en": "The medieval atmosphere is enhanced by the rain; wear sturdy shoes for the access path which might get slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Torreta Gramenella",
+                "hu": "Torreta Gramenella",
+                "ro": "Torreta Gramenella",
+                "en": "Torreta Gramenella"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Sprint zu diesem Aussichtspunkt lohnt sich für die dramatischen Wolkenbilder über dem Llobregat-Tal.",
+                "hu": "Egy rövid, vizes sprint is megéri ehhez a ponthoz a Llobregat-völgy feletti drámai felhőjáték látványáért.",
+                "ro": "Un scurt sprint prin ploaie până la acest punct merită pentru spectacolul dramatic al norilor deasupra văii Llobregat.",
+                "en": "A short, wet dash to this viewpoint is worth it for the dramatic cloud formations over the Llobregat valley."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Rathausplatz lädt zum zügigen Gehen ein. Mittags suchen wir die wohlige Wärme der Museen auf, um die Sammlungen in aller Ruhe zu betrachten. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Nachmittagslicht für Fotos der historischen Türme. Der Abend klingt bei kühler, klarer Luft im beleuchteten Stadtkern aus.",
+            "hu": "A friss téli reggel a városházánál tempós sétára ösztönöz. Délben a múzeumok barátságos melegében böngésszük a gyűjteményeket. Mivel a nap már 17:00 körül nyugovóra tér, a délutáni aranyórát a történelmi tornyok fotózására használjuk. Az este a kivilágított városközpont tiszta, hűvös levegőjén ér véget.",
+            "ro": "O dimineață răcoroasă de iarnă în piața primăriei invită la o plimbare vioaie. La prânz, căutăm căldura muzeelor pentru a admira colecțiile în tihnă. Deoarece soarele apune în jurul orei 17:00, folosim lumina aurie a după-amiezii pentru fotografii. Seara se încheie în aerul rece și curat al centrului iluminat.",
+            "en": "A crisp winter morning at the Town Hall square encourages a brisk walk. At noon, we seek the cozy warmth of the museums to browse the collections. Since the sun sets around 17:00, we use the golden afternoon light for photos of the historic towers. The evening ends in the clear, cool air of the illuminated city center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Martorell Town Hall",
+                "hu": "Martorell Town Hall",
+                "ro": "Martorell Town Hall",
+                "en": "Martorell Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft auf dem Platz, aber tragen Sie Handschuhe, da die Steingebäude die Kälte abstrahlen.",
+                "hu": "Élvezze a tiszta téli levegőt a téren, de viseljen kesztyűt, mert a kőépületek ontják magukból a hideget.",
+                "ro": "Bucurați-vă de aerul curat de iarnă din piață, dar purtați mănuși, deoarece clădirile de piatră emană frig.",
+                "en": "Enjoy the clear winter air in the square, but wear gloves as the stone buildings radiate the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu L'Enrajolada-Santacana",
+                "hu": "Casa Museu L'Enrajolada-Santacana",
+                "ro": "Casa Museu L'Enrajolada-Santacana",
+                "en": "Casa Museu L'Enrajolada-Santacana"
+              },
+              "tip_5lang": {
+                "de": "Die Innenräume bieten eine angenehme Pause von der Kälte; die Keramiken wirken im tiefstehenden Winterlicht besonders plastisch.",
+                "hu": "A belső terek kellemes pihenőt nyújtanak a hideg elől; a kerámiák különösen látványosak az alacsonyan járó téli napfényben.",
+                "ro": "Interioarele oferă o pauză plăcută de frig; ceramica arată deosebit sub lumina joasă a soarelui de iarnă.",
+                "en": "The interiors provide a pleasant break from the cold; the ceramics look particularly striking in the low winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "El Foment",
+                "hu": "El Foment",
+                "ro": "El Foment",
+                "en": "El Foment"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Besichtigungen aufzuwärmen und das lokale Gemeindeleben im Winter zu beobachten.",
+                "hu": "Ideális helyszín a két látnivaló közötti felmelegedésre és a helyi közösségi élet megfigyelésére a téli szezonban.",
+                "ro": "Un loc ideal pentru a vă încălzi între vizite și pentru a observa viața comunității locale în timpul iernii.",
+                "en": "An ideal place to warm up between sightings and observe local community life during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala d'exposicions Memorial Vicenç Ros",
+                "hu": "Sala d'exposicions Memorial Vicenç Ros",
+                "ro": "Sala d'exposicions Memorial Vicenç Ros",
+                "en": "Sala d'exposicions Memorial Vicenç Ros"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagsstunden für diesen Indoor-Besuch, wenn die Außentemperaturen am niedrigsten sind.",
+                "hu": "Használja ki a déli órákat erre a beltéri látogatásra, amikor a kinti hőmérséklet a legalacsonyabb érzetű lehet.",
+                "ro": "Profitați de orele amiezii pentru această vizită în interior, când temperaturile exterioare sunt resimțite ca fiind cele mai scăzute.",
+                "en": "Take advantage of the midday hours for this indoor visit when the outside temperatures feel the coldest."
+              }
+            },
+            {
+              "name": {
+                "de": "Escola municipal d'arts plàstiques Ca l'Oller",
+                "hu": "Escola municipal d'arts plàstiques Ca l'Oller",
+                "ro": "Escola municipal d'arts plàstiques Ca l'Oller",
+                "en": "Escola municipal d'arts plàstiques Ca l'Oller"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht im Inneren des Gebäudes wirkt an grauen Wintertagen besonders einladend und inspirierend.",
+                "hu": "Az épület belsejéből kiszűrődő meleg fény különösen hívogató és inspiráló a szürke téli napokon.",
+                "ro": "Lumina caldă din interiorul clădirii pare deosebit de primitoare și inspiratoare în zilele cenușii de iarnă.",
+                "en": "The warm light from inside the building feels particularly inviting and inspiring on grey winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Torreta del Clos",
+                "hu": "Torreta del Clos",
+                "ro": "Torreta del Clos",
+                "en": "Torreta del Clos"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm vor 16:30 Uhr, um die Details noch im Tageslicht zu sehen, bevor die frühe Dämmerung einsetzt.",
+                "hu": "Látogassa meg a tornyot 16:30 előtt, hogy még nappali fénynél láthassa a részleteket a korai szürkület előtt.",
+                "ro": "Vizitați turnul înainte de ora 16:30 pentru a vedea detaliile în lumina zilei, înainte de lăsarea timpurie a amurgului.",
+                "en": "Visit the tower before 16:30 to see the details in daylight before the early dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Torreta Gramenella",
+                "hu": "Torreta Gramenella",
+                "ro": "Torreta Gramenella",
+                "en": "Torreta Gramenella"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonnenuntergänge von hier aus sind kurz, aber farbenintensiv; bringen Sie eine Thermoskanne mit Tee mit.",
+                "hu": "A téli naplementék innen rövidek, de rendkívül színesek; érdemes egy termosz meleg teát magunkkal hozni.",
+                "ro": "Apusurile de iarnă de aici sunt scurte, dar intense în culori; merită să aduceți un termos cu ceai cald.",
+                "en": "Winter sunsets from here are short but intensely colorful; it's worth bringing a thermos of warm tea along."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kerékpározzon ki korán, hogy felfedezze az északi régészeti terület római romjait, majd térjen vissza a bájos Casa Museuba.\n\nDélben sétáljon végig a Memorial Vicenç Ros inspiráló kiállításain, és tegyen egy gyors kört a Torreta Gramenella megcsodálására.\n\nDélután váltson sebességet a déli peremvidék felé, hogy felfedezze a Castell de Rosanes impozáns romjait és egy kőkunyhót.\n\nAz este egy festői utat tartogat a Castell de Rocafort-hoz, amely panorámás kilátással jutalmazza meg.",
         "ro": "Porniți devreme cu bicicleta pentru a descoperi ruinele romane la situl arheologic înainte de a vă întoarce la fermecătorul Casa Museu.\n\nPână la prânz, plimbați-vă prin expozițiile inspiratoare de la Memorial Vicenç Ros și admirați Torreta Gramenella.\n\nDupă-amiaza, îndreptați-vă spre periferia sudică pentru a explora ruinele impunătoare ale Castell de Rosanes și o colibă tradițională din piatră.\n\nSeara aduce o plimbare pitorească până la Castell de Rocafort, cu vederi panoramice spectaculoase.",
         "en": "Pedal out early to uncover the ancient Roman ruins at the northern archaeological site before riding back to the charming Casa Museu L'Enrajolada-Santacana.\n\nBy midday, wander through the inspiring exhibitions at Memorial Vicenç Ros and take a quick ride to admire Torreta Gramenella.\n\nIn the afternoon, shift gears towards the southern outskirts to explore the commanding ruins of Castell de Rosanes and a traditional dry stone hut.\n\nEvening brings a scenic ride to Castell de Rocafort, rewarding you with panoramic twilight views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine vorsichtige Fahrt am Morgen führt uns zu den römischen Ruinen, wo die Erde bei Regen schwer wird. Mittags suchen wir in den Museen der Stadt Schutz und lassen die Räder sicher im Trockenen stehen. Nachmittags fordern die nassen Straßen volle Konzentration bei den Türmen. Der Tag endet früh, bevor die Sicht im Regen zu stark abnimmt.",
+            "hu": "Óvatos reggeli tekeréssel indulunk a római romokhoz, ahol az esőben felázik a talaj. Délben a város múzeumaiban keresünk menedéket, a bicikliket száraz helyen hagyva. Délután a vizes utak teljes koncentrációt igényelnek a tornyok környékén. A nap korán véget ér, mielőtt a látótávolság az esőben túlságosan lecsökkenne.",
+            "ro": "O plimbare prudentă de dimineață ne duce la ruinele romane, unde pământul devine greu sub ploaie. La prânz, căutăm adăpost în muzeele orașului, lăsând bicicletele la uscat. După-amiaza, drumurile ude necesită concentrare maximă în zona turnurilor. Ziua se încheie devreme, înainte ca vizibilitatea să scadă prea mult.",
+            "en": "A cautious morning ride leads us to the Roman ruins, where the ground becomes heavy in the rain. At noon, we seek shelter in the city's museums, leaving the bikes in a dry spot. Afternoon requires full concentration on the wet roads near the towers. The day ends early before visibility drops too much in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "hu": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "ro": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "en": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf unbefestigte Wege, die im Regen schlammig sein können; parken Sie Ihr Rad auf festem Untergrund.",
+                "hu": "Ügyeljen a burkolatlan utakra, melyek sárgossá válhatnak; parkolja le a kerékpárt szilárdabb talajon.",
+                "ro": "Atenție la drumurile neasfaltate care pot deveni noroioase; parcați bicicleta pe un teren mai solid.",
+                "en": "Watch out for unpaved paths that can become muddy; park your bike on firmer ground to avoid getting stuck."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu L'Enrajolada-Santacana",
+                "hu": "Casa Museu L'Enrajolada-Santacana",
+                "ro": "Casa Museu L'Enrajolada-Santacana",
+                "en": "Casa Museu L'Enrajolada-Santacana"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um die Regenkleidung zu lüften, während Sie die überdachten Exponate besichtigen.",
+                "hu": "Kiváló megálló az esőruházat átszellőztetésére, miközben a fedett kiállítási tárgyakat böngészi.",
+                "ro": "Un popas excelent pentru a aerisi pelerina de ploaie în timp ce vizitați exponatele aflate la adăpost.",
+                "en": "An excellent stop to air out your rain gear while you browse the indoor exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala d'exposicions Memorial Vicenç Ros",
+                "hu": "Sala d'exposicions Memorial Vicenç Ros",
+                "ro": "Sala d'exposicions Memorial Vicenç Ros",
+                "en": "Sala d'exposicions Memorial Vicenç Ros"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Bremsen auf den nassen Abfahrten in der Stadt vor diesem Stopp gut funktionieren.",
+                "hu": "Győződjön meg róla, hogy a fékjei jól fognak a városi lejtőkön a vizes aszfalton, mielőtt ide érkezik.",
+                "ro": "Asigurați-vă că frânele funcționează bine pe coborârile din oraș pe asfalt ud înainte de a ajunge aici.",
+                "en": "Ensure your brakes are working well on the city slopes and wet asphalt before arriving at this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Torreta Gramenella",
+                "hu": "Torreta Gramenella",
+                "ro": "Torreta Gramenella",
+                "en": "Torreta Gramenella"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen rutschig; fahren Sie langsam und genießen Sie die kühle, feuchte Luft am Gipfel.",
+                "hu": "Az emelkedő esőben csúszós; tekerjen lassan, és élvezze a csúcson a hűvös, párás levegőt.",
+                "ro": "Urcarea este alunecoasă pe ploaie; pedalați încet și bucurați-vă de aerul răcoros și umed de la vârf.",
+                "en": "The climb is slippery in the rain; pedal slowly and enjoy the cool, damp air at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rosanes o del Pairet",
+                "hu": "Castell de Rosanes o del Pairet",
+                "ro": "Castell de Rosanes o del Pairet",
+                "en": "Castell de Rosanes o del Pairet"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine bietet wenig Schutz; suchen Sie bei plötzlichem Starkregen unter den dichten Bäumen in der Nähe Unterschlupf.",
+                "hu": "A várrom kevés védelmet nyújt; hirtelen felhőszakadás esetén keressen menedéket a közeli sűrűbb fák alatt.",
+                "ro": "Ruinele castelului oferă puțin adăpost; în caz de aversă bruscă, căutați refugiu sub copacii mai deși din apropiere.",
+                "en": "The castle ruins offer little shelter; seek refuge under the thicker trees nearby in case of a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabana de pedra seca 20904",
+                "hu": "Cabana de pedra seca 20904",
+                "ro": "Cabana de pedra seca 20904",
+                "en": "Cabana de pedra seca 20904"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Steinhütte ist ein faszinierendes Beispiel für trockene Bauweise und bietet sogar einen minimalen Regenschutz.",
+                "hu": "Ez a kis kőkunyhó a szárazépítészet lenyűgöző példája, és akár minimális védelmet is nyújthat az eső ellen.",
+                "ro": "Această mică colibă de piatră este un exemplu fascinant de arhitectură uscată și poate oferi chiar un adăpost minim contra ploii.",
+                "en": "This small stone hut is a fascinating example of dry stone architecture and can even provide minimal shelter from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rocafort",
+                "hu": "Castell de Rocafort",
+                "ro": "Castell de Rocafort",
+                "en": "Castell de Rocafort"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Lichter am Rad für die Rückfahrt, da dunkle Regenwolken die Sichtbarkeit am Abend stark einschränken.",
+                "hu": "Ellenőrizze a kerékpár lámpáit a visszaúthoz, mert a sötét esőfelhők jelentősen rontják a látási viszonyokat este.",
+                "ro": "Verificați luminile bicicletei pentru drumul de întoarcere, deoarece norii negri de ploaie reduc vizibilitatea seara.",
+                "en": "Check your bike lights for the return journey, as dark rain clouds significantly reduce visibility in the evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten dick eingepackt zu den römischen Ausgrabungen. Die kalte Luft beißt, aber die Aussicht ist kristallklar. Mittags nutzen wir die Museen als Wärmestationen, bevor wir uns am Nachmittag an die steileren Anstiege zu den Burgen wagen. Vor dem Sonnenuntergang um 17:00 Uhr müssen wir die Waldwege verlassen haben, um sicher im Hellen zurückzukehren.",
+            "hu": "Jól beöltözve indulunk a római ásatásokhoz. A hideg levegő csípős, de a kilátás kristálytiszta. Délben a múzeumokat melegedőnek használjuk, mielőtt délután nekivágnánk a várakhoz vezető meredekebb emelkedőknek. A 17:00 órai naplemente előtt el kell hagynunk az erdei utakat a biztonságos visszaúthoz.",
+            "ro": "Pornim bine echipați spre săpăturile romane. Aerul rece este tăios, dar priveliștea este de o claritate rară. La prânz folosim muzeele ca puncte de încălzire, înainte de a urca pantele abrupte spre castele. Trebuie să părăsim potecile de pădure înainte de apusul de la ora 17:00.",
+            "en": "We start well-layered for the Roman excavations. The cold air is biting, but the view is crystal clear. At noon, we use the museums as warming stations before tackling the steeper climbs to the castles in the afternoon. We must leave the forest paths before the 17:00 sunset to return safely in the light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "hu": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "ro": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "en": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung; die offene Ausgrabungsstätte bietet keinen Schutz vor dem kalten Winterwind.",
+                "hu": "Viseljen szélálló ruházatot; a nyitott ásatási terület semmilyen védelmet nem nyújt a hideg téli széllel szemben.",
+                "ro": "Purtați haine rezistente la vânt; situl arheologic deschis nu oferă nicio protecție împotriva vântului rece de iarnă.",
+                "en": "Wear windproof clothing; the open excavation site provides no protection against the cold winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu L'Enrajolada-Santacana",
+                "hu": "Casa Museu L'Enrajolada-Santacana",
+                "ro": "Casa Museu L'Enrajolada-Santacana",
+                "en": "Casa Museu L'Enrajolada-Santacana"
+              },
+              "tip_5lang": {
+                "de": "Perfekt, um die steif gefrorenen Finger beim Betrachten der Keramikkunst im Inneren wieder aufzuwärmen.",
+                "hu": "Tökéletes helyszín az átfagyott ujjak felmelegítésére, miközben a benti kerámiaművészetet csodálja.",
+                "ro": "Perfect pentru a vă încălzi degetele amorțite de frig în timp ce admirați arta ceramicii în interior.",
+                "en": "Perfect for warming up frozen fingers while admiring the ceramic art inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sala d'exposicions Memorial Vicenç Ros",
+                "hu": "Sala d'exposicions Memorial Vicenç Ros",
+                "ro": "Sala d'exposicions Memorial Vicenç Ros",
+                "en": "Sala d'exposicions Memorial Vicenç Ros"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine kurze Gymnastikpause, um den Körper für die Weiterfahrt in der Kälte mobil zu halten.",
+                "hu": "Használja ki a megállót egy rövid átmozgató tornára, hogy teste felkészüljön a további tekerésre a hidegben.",
+                "ro": "Folosiți oprirea pentru o scurtă sesiune de exerciții de încălzire, pentru a menține corpul mobil pentru drumul în frig.",
+                "en": "Use the stop for a short warm-up exercise to keep your body mobile for further riding in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Torreta Gramenella",
+                "hu": "Torreta Gramenella",
+                "ro": "Torreta Gramenella",
+                "en": "Torreta Gramenella"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und rutschig sein; steigen Sie im Zweifelsfall ab und schieben Sie das Rad das letzte Stück.",
+                "hu": "A talaj fagyott és csúszós lehet; kétség esetén szálljon le, és tolja a kerékpárt az utolsó szakaszon.",
+                "ro": "Solul poate fi înghețat și alunecos; în caz de dubiu, coborâți și împingeți bicicleta pe ultima porțiune.",
+                "en": "The ground might be frozen and slippery; if in doubt, dismount and push your bike for the final section."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rosanes o del Pairet",
+                "hu": "Castell de Rosanes o del Pairet",
+                "ro": "Castell de Rosanes o del Pairet",
+                "en": "Castell de Rosanes o del Pairet"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet beim Aufstieg; eine Sonnenbrille ist trotz Kälte sehr hilfreich.",
+                "hu": "A téli nap alacsonyan jár és vakíthat az emelkedőn; a napszemüveg a hideg ellenére is nagyon hasznos.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor la urcare; ochelarii de soare sunt foarte utili în ciuda frigului.",
+                "en": "The winter sun is low and can be blinding on the climb; sunglasses are very helpful despite the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabana de pedra seca 20904",
+                "hu": "Cabana de pedra seca 20904",
+                "ro": "Cabana de pedra seca 20904",
+                "en": "Cabana de pedra seca 20904"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; ein kurzer Blick ins Innere zeigt, wie Hirten sich früher schützten.",
+                "hu": "A vastag kőfalak kint tartják a szelet; egy rövid pillantás befelé megmutatja, hogyan védték magukat régen a pásztorok.",
+                "ro": "Zidurile groase de piatră țin vântul afară; o scurtă privire în interior arată cum se protejau păstorii pe vremuri.",
+                "en": "The thick stone walls keep the wind out; a quick peek inside shows how shepherds used to protect themselves long ago."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rocafort",
+                "hu": "Castell de Rocafort",
+                "ro": "Castell de Rocafort",
+                "en": "Castell de Rocafort"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie Ihre Fotos schnell, bevor die Finger klamm werden, und genießen Sie das klare Panorama des Montserrat.",
+                "hu": "Készítse el gyorsan a fotóit, mielőtt ujjai elgémberednek, és élvezze a Montserrat kristálytiszta panorámáját.",
+                "ro": "Faceți pozele rapid înainte ca degetele să amorțească și bucurați-vă de panorama clară a muntelui Montserrat.",
+                "en": "Take your photos quickly before your fingers get stiff and enjoy the crystal-clear panorama of Montserrat."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Autózzon a reggeli órákban az északi peremvidékre, hogy felfedezze a gazdag régészeti ásatásokat, majd induljon a központi Városháza felé.\n\nDél körül hajtson dél felé, hogy megcsodálja a középkori Castell de Rosanest és a békés Santa Margarida perjelséget.\n\nA délután festői autózásra hív a Castell de Rocafort és a történelmi ólombányák felé.\n\nFejezze be az autós túrát a nyugodt Montgoi természetvédelmi területen, és lazítson, ahogy a nap lenyugszik a völgy felett.",
         "ro": "Conduceți la periferia nordică la prima oră pentru a explora excavațiile arheologice înainte de a vă îndrepta spre Primăria centrală.\n\nÎn jurul prânzului, mergeți spre sud pentru a admira Castell de Rosanes medieval și prioratul pașnic Santa Margarida.\n\nDupă-amiaza vă invită la o plimbare pitorească spre Castell de Rocafort și fascinantele mine de plumb.\n\nÎncheiați-vă turul auto în zona naturală liniștită Montgoi, relaxându-vă în timp ce soarele apune peste vale.",
         "en": "Drive to the northern outskirts first thing in the morning to explore the rich archaeological excavations before heading to the central Town Hall.\n\nAround midday, cruise southward to marvel at the medieval Castell de Rosanes and the deeply peaceful Santa Margarida priory.\n\nThe afternoon invites a scenic drive towards the towering Castell de Rocafort and the fascinating historical lead mines that shaped the area.\n\nConclude your driving tour at the tranquil Montgoi nature area, unwinding as the sun sets over the valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank des Autos bleiben wir zwischen den Stopps trocken. Am Vormittag besuchen wir die römische Villa, wobei wir die Parkplätze in Gebäudenähe nutzen. Mittags erkunden wir das Zentrum von Martorell im Schutz der Arkaden. Nachmittags geht es zu den Burgen und Minen, wobei das Auto als komfortabler Rückzugsort dient. Der Tag endet sicher, auch wenn die Straßen bei Nässe glatt sind.",
+            "hu": "Az autónak köszönhetően a megállók között szárazon maradunk. Délelőtt a római villát látogatjuk meg, az épülethez közeli parkolókat választva. Délben Martorell központját fedezzük fel az árkádok védelmében. Délután a várakhoz és bányákhoz autózunk, a kocsit kényelmes pihenőhelyként használva. A nap biztonságban ér véget a vizes utakon is.",
+            "ro": "Datorită mașinii, rămânem uscați între opriri. Dimineața vizităm vila romană, alegând parcările cele mai apropiate. La prânz explorăm centrul orașului Martorell sub protecția arcadelor. După-amiaza mergem spre castele și mine, folosind mașina ca refugiu confortabil. Ziua se încheie în siguranță, în ciuda drumurilor ude.",
+            "en": "Thanks to the car, we stay dry between stops. In the morning, we visit the Roman villa, choosing parking spots close to the site. At noon, we explore Martorell's center under the protection of its arcades. Afternoon is spent driving to castles and mines, using the car as a comfortable retreat. The day ends safely despite the wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "hu": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "ro": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "en": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Weg durch den Regen auf dem ungeschützten Gelände zu minimieren.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja az esőben töltött időt a nyílt terepen.",
+                "ro": "Parcați cât mai aproape de intrare pentru a minimiza timpul petrecut în ploaie pe terenul neprotejat.",
+                "en": "Park as close to the entrance as possible to minimize the time spent in the rain on the unprotected grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Martorell Town Hall",
+                "hu": "Martorell Town Hall",
+                "ro": "Martorell Town Hall",
+                "en": "Martorell Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie ein nahegelegenes Parkhaus, um trocken ins Zentrum zu gelangen und die Arkaden der Altstadt zu erreichen.",
+                "hu": "Használjon egy közeli parkolóházat, hogy szárazon jusson be a központba és elérje az óváros árkádjait.",
+                "ro": "Folosiți o parcare acoperită din apropiere pentru a ajunge uscați în centru și la arcadele orașului vechi.",
+                "en": "Use a nearby parking garage to reach the center dry and access the old town's arcades."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rosanes o del Pairet",
+                "hu": "Castell de Rosanes o del Pairet",
+                "ro": "Castell de Rosanes o del Pairet",
+                "en": "Castell de Rosanes o del Pairet"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei starkem Regen rutschig sein; fahren Sie vorsichtig und parken Sie sicher am Wegrand.",
+                "hu": "Az odavezető út heves esőzéskor csúszós lehet; vezessen óvatosan, és parkoljon le biztonságosan az út szélén.",
+                "ro": "Drumul de acces poate fi alunecos în timpul ploilor torențiale; conduceți cu atenție și parcați în siguranță pe marginea drumului.",
+                "en": "The access road can be slippery during heavy rain; drive carefully and park safely on the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Margarida del priorat de Sant Genís de Rocafort",
+                "hu": "Santa Margarida del priorat de Sant Genís de Rocafort",
+                "ro": "Santa Margarida del priorat de Sant Genís de Rocafort",
+                "en": "Santa Margarida del priorat de Sant Genís de Rocafort"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Regen lohnt sich für die mystische Atmosphäre der Ruinen; halten Sie Ihren Schirm bereit.",
+                "hu": "Egy rövid megálló esőben is megéri a romok misztikus hangulata miatt; tartsa készenlétben az esernyőjét.",
+                "ro": "O scurtă oprire pe ploaie merită pentru atmosfera mistică a ruinelor; țineți umbrela la îndemână.",
+                "en": "A short stop in the rain is worth it for the mystical atmosphere of the ruins; keep your umbrella ready."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rocafort",
+                "hu": "Castell de Rocafort",
+                "ro": "Castell de Rocafort",
+                "en": "Castell de Rocafort"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Burg vom warmen Auto aus, falls der Regen für einen Aufstieg zu stark wird.",
+                "hu": "Élvezze a vár látványát a meleg autóból, ha az eső túl intenzívvé válna a gyalogos feljutáshoz.",
+                "ro": "Bucurați-vă de vederea castelului din mașina caldă, dacă ploaia devine prea intensă pentru a urca pe jos.",
+                "en": "Enjoy the view of the castle from the warm car if the rain becomes too intense for a climb on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Mines de Plom la Martollerense",
+                "hu": "Mines de Plom la Martollerense",
+                "ro": "Mines de Plom la Martollerense",
+                "en": "Mines de Plom la Martollerense"
+              },
+              "tip_5lang": {
+                "de": "Die Minen sind ein hervorragender Ort, um dem Regen komplett zu entfliehen und die unterirdische Geschichte zu erkunden.",
+                "hu": "A bányák kiváló helyszínt biztosítanak az eső elől való teljes meneküléshez és a földalatti történelem felfedezéséhez.",
+                "ro": "Minele sunt un loc excelent pentru a scăpa complet de ploaie și pentru a explora istoria subterană.",
+                "en": "The mines are an excellent place to escape the rain completely and explore the underground history."
+              }
+            },
+            {
+              "name": {
+                "de": "Montgoi",
+                "hu": "Montgoi",
+                "ro": "Montgoi",
+                "en": "Montgoi"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Regenwetter über dem Tal vom Panoramapunkt aus, bevor Sie die Heimfahrt im sicheren Auto antreten.",
+                "hu": "Figyelje meg a völgy feletti esős időjárást a panorámapontról, mielőtt elindulna haza a biztonságos autóban.",
+                "ro": "Observați vremea ploioasă deasupra văii din punctul panoramic, înainte de a pleca spre casă cu mașina sigură.",
+                "en": "Observe the rainy weather over the valley from the panoramic point before heading home in the safe car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit der Heizung auf Maximum starten wir unsere Tour. Der Vormittag gehört der römischen Geschichte und dem Rathausplatz. Mittags genießen wir die Wärme in den Museen von Martorell. Am Nachmittag steuern wir die Burgen an, um das letzte Tageslicht vor dem frühen Sonnenuntergang um 17:00 Uhr einzufangen. Der Tag endet gemütlich mit einer Fahrt durch das beleuchtete Umland.",
+            "hu": "A fűtést maximumra csavarva indítjuk túránkat. A délelőtt a római történelemé és a városháza téré. Délben Martorell múzeumaiban élvezzük a meleget. Délután a várakat célozzuk meg, hogy elkapjuk az utolsó fényeket a korai, 17:00 órai naplemente előtt. A nap kényelmesen ér véget egy autózással a kivilágított környéken.",
+            "ro": "Pornim turul cu încălzirea la maximum. Dimineața este dedicată istoriei romane și pieței primăriei. La prânz ne bucurăm de căldură în muzeele din Martorell. După-amiaza vizităm castelele pentru a surprinde ultima lumină înainte de apusul de la ora 17:00. Ziua se încheie confortabil cu o plimbare prin împrejurimile iluminate.",
+            "en": "With the heating turned up, we start our tour. The morning is dedicated to Roman history and the Town Hall square. At noon, we enjoy the warmth in Martorell's museums. In the afternoon, we head to the castles to catch the last light before the early sunset at 17:00. The day ends comfortably with a drive through the illuminated surroundings."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "hu": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "ro": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç",
+                "en": "Jaciment arqueològic de la Vil·la Romana de Martorell - Enllaç"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz laufen, um die Scheiben abzutauen, bevor Sie diese exponierte historische Stätte besuchen.",
+                "hu": "Járassa kicsit az autót a szélvédő jégtelenítéséhez, mielőtt kiszállna megnézni ezt a szélnek kitett történelmi helyszínt.",
+                "ro": "Lăsați mașina să meargă puțin pentru a dezgheța parbrizul înainte de a coborî la acest sit istoric expus vântului.",
+                "en": "Let the car run for a bit to defrost the windshield before stepping out to see this wind-exposed historical site."
+              }
+            },
+            {
+              "name": {
+                "de": "Martorell Town Hall",
+                "hu": "Martorell Town Hall",
+                "ro": "Martorell Town Hall",
+                "en": "Martorell Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentrumsnahe, um die Zeit an der kalten Winterluft zwischen Parkplatz und Rathaus so kurz wie möglich zu halten.",
+                "hu": "Parkoljon a központhoz közel, hogy a lehető legkevesebb időt töltse a hideg téli levegőn a parkoló és a városháza között.",
+                "ro": "Parcați aproape de centru pentru a petrece cât mai puțin timp în aerul rece de iarnă între parcare și primărie.",
+                "en": "Park close to the center to spend as little time as possible in the cold winter air between the parking spot and the Town Hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rosanes o del Pairet",
+                "hu": "Castell de Rosanes o del Pairet",
+                "ro": "Castell de Rosanes o del Pairet",
+                "en": "Castell de Rosanes o del Pairet"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne sorgt für tolle Kontraste an den Ruinen; ein kurzer Fotostopp reicht aus, bevor Sie wieder ins warme Auto steigen.",
+                "hu": "A téli nap csodás kontrasztokat ad a romoknál; egy rövid fotómegálló is elég, mielőtt visszaszállna a meleg autóba.",
+                "ro": "Soarele de iarnă creează contraste superbe la ruine; o scurtă oprire pentru poze este suficientă înainte de a reveni în mașina caldă.",
+                "en": "The winter sun creates great contrasts at the ruins; a short photo stop is enough before hopping back into the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Margarida del priorat de Sant Genís de Rocafort",
+                "hu": "Santa Margarida del priorat de Sant Genís de Rocafort",
+                "ro": "Santa Margarida del priorat de Sant Genís de Rocafort",
+                "en": "Santa Margarida del priorat de Sant Genís de Rocafort"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort früh am Nachmittag, damit Sie noch genug Licht für die architektonischen Details haben.",
+                "hu": "Látogassa meg ezt a helyet kora délután, hogy legyen még elég fénye az építészeti részletek megcsodálásához.",
+                "ro": "Vizitați acest loc după-amiaza devreme, pentru a avea suficientă lumină pentru detaliile arhitecturale.",
+                "en": "Visit this place early in the afternoon so you still have enough light for the architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rocafort",
+                "hu": "Castell de Rocafort",
+                "ro": "Castell de Rocafort",
+                "en": "Castell de Rocafort"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus ist es nur ein kurzer, knackiger Spaziergang; die winterliche Fernsicht auf die Berge ist unschlagbar.",
+                "hu": "A parkolótól csak egy rövid, frissítő séta az út; a téli távolbalátás a hegyekre ilyenkor verhetetlen.",
+                "ro": "De la parcare este doar o plimbare scurtă și revigorantă; vizibilitatea de iarnă spre munți este imbatabilă în această perioadă.",
+                "en": "From the parking spot, it's just a short, brisk walk; the winter visibility towards the mountains is unbeatable right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Mines de Plom la Martollerense",
+                "hu": "Mines de Plom la Martollerense",
+                "ro": "Mines de Plom la Martollerense",
+                "en": "Mines de Plom la Martollerense"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Temperatur in der Mine fühlt sich im Winter angenehm warm an; ein perfekter Zufluchtsort vor dem Frost.",
+                "hu": "A bánya állandó hőmérséklete télen kellemesen melegnek érződik; tökéletes menedék a kinti fagy elől.",
+                "ro": "Temperatura constantă din mină se simte plăcut de caldă iarna; un refugiu perfect împotriva gerului de afară.",
+                "en": "The constant temperature in the mine feels pleasantly warm in winter; a perfect sanctuary from the frost outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Montgoi",
+                "hu": "Montgoi",
+                "ro": "Montgoi",
+                "en": "Montgoi"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17:00 Uhr und genießen Sie das Farbenspiel bequem vom Fahrersitz aus.",
+                "hu": "Érkezzen pontosan a 17:00 órai naplementére, és élvezze a színek játékát kényelmesen, a vezetőülésből.",
+                "ro": "Sosiți exact la apusul de la ora 17:00 și bucurați-vă de spectacolul culorilor confortabil, de pe scaunul șoferului.",
+                "en": "Arrive exactly for the 17:00 sunset and enjoy the play of colors comfortably from the driver's seat."
+              }
+            }
+          ]
+        }
       }
     }
   }

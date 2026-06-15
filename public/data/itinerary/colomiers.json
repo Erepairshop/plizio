@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a békés Église Sainte-Radegonde templomnál, élvezve a nyugodt és áhítatos légkört.\n\nFolytassa a napot a Parc Duroch-ban egy sétával a természetben, mielőtt elmerülne a Pavillon Blanc lenyűgöző kortárs kiállításaiban.\n\nA kulturális feltöltődés után frissüljön fel az Espace Nautique modern medencéiben.\n\nZárja a napot a La Naspe parkban, ahol a családbarát környezet és a tágas játszóterek tökéletes, pihentető estét kínálnak mindenkinek.",
         "ro": "Începeți dimineața la liniștita Église Sainte-Radegonde, bucurându-vă de atmosfera pașnică din inima orașului.\n\nContinuați spre Parc Duroch pentru o scurtă plimbare în natură înainte de a explora expozițiile contemporane de la Pavillon Blanc.\n\nDupă o imersiune culturală fascinantă, reîmprospătați-vă la Espace Nautique cu activități acvatice distractive.\n\nÎncheiați ziua la La Naspe, unde mediul familial relaxant oferă o seară perfectă pentru toate vârstele.",
         "en": "Start your morning at the serene Église Sainte-Radegonde, soaking in the peaceful atmosphere right in the city center.\n\nContinue to Parc Duroch for a nature walk before delving into the contemporary exhibits at the impressive Pavillon Blanc.\n\nAfter a deep cultural immersion, refresh yourself at the Espace Nautique with some aquatic fun and relaxation.\n\nConclude the day at La Naspe, where the family-friendly surroundings provide a perfect, relaxed evening for everyone."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Colomiers lädt dazu ein, die überdachten Schätze der Stadt zu entdecken. Am Vormittag bietet die Kirche Schutz, während der Mittag im modernen Pavillon Blanc verbracht wird. Nachmittags wärmen Sie sich im Hallenbad auf. Der Abend klingt trotz des Regens ruhig in den Wohnvierteln aus, wo die Lichter auf dem nassen Asphalt glänzen.",
+            "hu": "Az eső áztatta Colomiers utcáin a belső terek jelentik a menedéket. A délelőtti látogatás a templomban csendes elmélyülést kínál, míg a délutánt a Pavillon Blanc modern falai és az uszoda meleg vize teszi kényelmessé. Az este közeledtével a lakónegyedek párás fényei kísérik utunkat, érdemes vízálló cipőben készülni a vizes járdákra.",
+            "ro": "O zi ploioasă în Colomiers vă invită să descoperiți comorile acoperite ale orașului. Dimineața oferă refugiu în biserică, în timp ce prânzul este petrecut în modernul Pavillon Blanc. După-amiaza, relaxați-vă la piscina acoperită pentru a scăpa de umezeală. Seara se încheie liniștit în cartierele rezidențiale, unde luminile reflectă frumos pe asfaltul umed.",
+            "en": "A rainy day in Colomiers invites you to explore the city's sheltered treasures. The morning offers refuge in the church, while midday is spent in the modern Pavillon Blanc. In the afternoon, warm up at the indoor pool to escape the dampness. The evening ends quietly in the residential areas, where the lights glisten beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Radegonde",
+                "hu": "Église Sainte-Radegonde",
+                "ro": "Église Sainte-Radegonde",
+                "en": "Église Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Stille des Kirchenschiffs, während es draußen regnet; nutzen Sie die Zeit für eine Besinnung und achten Sie auf den eventuell glatten Eingangsbereich.",
+                "hu": "Csodálja meg a hajó nyugalmát, miközben kint kopog az eső; tökéletes hely az elmélyülésre, de vigyázzon a bejáratnál, mert a kőpadló nedvesen rendkívül csúszóssá válhat.",
+                "ro": "Admirați liniștea naosului în timp ce afară plouă; este locul perfect pentru reflexie, dar aveți grijă la intrare, deoarece podeaua de piatră poate fi foarte alunecoasă.",
+                "en": "Admire the silence of the nave while it rains outside; it is a perfect spot for reflection, but be careful at the entrance as the stone floor can become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Duroch",
+                "hu": "Parc Duroch",
+                "ro": "Parc Duroch",
+                "en": "Parc Duroch"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang unter den dichten Baumkronen bietet etwas Schutz; bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden und nutzen Sie einen großen Schirm.",
+                "hu": "A sűrű lombkoronák alatt tett rövid séta némi védelmet nyújt; maradjon a kövezett utakon a sár elkerülése érdekében, és használjon stabil, szélálló esernyőt.",
+                "ro": "O scurtă plimbare sub coronamentul des al copacilor oferă protecție; rămâneți pe potecile pavate pentru a evita noroiul și folosiți o umbrelă mare și rezistentă.",
+                "en": "A short walk under the thick canopy offers some protection; stay on the paved paths to avoid mud and make sure to use a large, wind-resistant umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon Blanc Henri Molina",
+                "hu": "Pavillon Blanc Henri Molina",
+                "ro": "Pavillon Blanc Henri Molina",
+                "en": "Pavillon Blanc Henri Molina"
+              },
+              "tip_5lang": {
+                "de": "Diese moderne Mediathek ist der ideale Zufluchtsort bei Regen; stöbern Sie in Ruhe in den Regalen und vergessen Sie nicht, Ihre nasse Kleidung an der Garderobe abzugeben.",
+                "hu": "Ez a modern médiatár ideális menedék esőben; böngésszen kedvére a polcok között, és ne felejtse el leadni vizes kabátját a ruhatárban a kényelmes nézelődéshez.",
+                "ro": "Această bibliotecă modernă este refugiul ideal pe ploaie; răsfoiți rafturile în liniște și nu uitați să lăsați hainele ude la garderobă pentru confort maxim.",
+                "en": "This modern media library is the ideal refuge in the rain; browse the shelves at your leisure and remember to leave your wet clothes at the cloakroom for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Nautique Jean Vauchère",
+                "hu": "Espace Nautique Jean Vauchère",
+                "ro": "Espace Nautique Jean Vauchère",
+                "en": "Espace Nautique Jean Vauchère"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in das warme Wasser und vergessen Sie das Wetter draußen; das Hallenbad bietet Entspannung pur, bringen Sie aber unbedingt rutschfeste Badeschuhe mit.",
+                "hu": "Merüljön el a meleg vízben, és felejtse el a kinti rossz időt; a fedett uszoda tökéletes kikapcsolódást nyújt, de vigyen magával csúszásmentes papucsot a medencetérbe.",
+                "ro": "Scufundați-vă în apa caldă și uitați de vremea rea de afară; piscina acoperită oferă relaxare totală, dar asigurați-vă că aveți șlapi antiderapanți la bord.",
+                "en": "Dive into the warm water and forget the bad weather outside; the indoor pool offers pure relaxation, but be sure to bring non-slip flip-flops for the pool area."
+              }
+            },
+            {
+              "name": {
+                "de": "La Naspe",
+                "hu": "La Naspe",
+                "ro": "La Naspe",
+                "en": "La Naspe"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Spaziergang durch das Viertel; die beleuchteten Fenster wirken bei Regen besonders gemütlich, achten Sie jedoch auf tiefe Pfützen am Straßenrand.",
+                "hu": "Zárja a napot egy sétával a negyedben; a kivilágított ablakok esőben különösen hívogatóak, de ügyeljen az útszéli mély tócsákra és a sötétben nehezebben látható úthibákra.",
+                "ro": "Încheiați ziua cu o plimbare prin cartier; ferestrele luminate par foarte primitoare pe ploaie, dar fiți atenți la bălțile adânci de la marginea drumului.",
+                "en": "End the day with a walk through the neighborhood; the lit windows look especially cozy in the rain, but watch out for deep puddles at the edge of the road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag in Colomiers beginnt frisch und belebend. Die Vormittagsbesuche führen durch die historische Architektur, während die Mittagszeit im beheizten Pavillon Blanc zum Verweilen einlädt. Nachmittags bietet das Espace Nautique wohlige Wärme. Beachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr, der die Stadt früh in ein gemütliches Abendlicht taucht.",
+            "hu": "A friss téli reggelen Colomiers épített öröksége ragyog a hideg fényben. A délelőtti séta után jól esik a Pavillon Blanc fűtött nyugalma, délután pedig az uszoda meleg vize segít az átmelegedésben. Készüljön fel, hogy 17 óra körül már leszáll a sötétség, így az utolsó megállókat érdemes még világosban, réteges öltözetben felkeresni.",
+            "ro": "O zi senină de iarnă în Colomiers începe proaspăt și revigorant. Vizitele de dimineață trec prin arhitectura istorică, în timp ce prânzul în Pavillon Blanc încălzit este foarte plăcut. După-amiaza, Espace Nautique oferă o căldură reconfortantă. Rețineți apusul devreme, în jurul orei 17:00, care scaldă orașul într-o lumină caldă de seară.",
+            "en": "A crisp winter day in Colomiers begins fresh and invigorating. Morning visits take you through historic architecture, while midday at the heated Pavillon Blanc is very pleasant. In the afternoon, Espace Nautique offers comforting warmth. Note the early sunset around 5:00 PM, which bathes the city in a cozy evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Radegonde",
+                "hu": "Église Sainte-Radegonde",
+                "ro": "Église Sainte-Radegonde",
+                "en": "Église Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; genießen Sie die andächtige Stille am frostigen Morgen und tragen Sie warme Schichten, da es im Inneren kühl sein kann.",
+                "hu": "A vastag falak kint tartják a fagyot; élvezze az áhítatos csendet a deres reggelen, de öltözzön rétegesen, mert a templom belső tere ilyenkor hűvös maradhat.",
+                "ro": "Zidurile groase țin frigul afară; bucurați-vă de liniștea evlavioasă într-o dimineață geroasă și purtați haine groase, deoarece interiorul poate fi destul de rece.",
+                "en": "The thick walls keep the frost out; enjoy the prayerful silence on a frosty morning and wear warm layers as the interior can remain quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Duroch",
+                "hu": "Parc Duroch",
+                "ro": "Parc Duroch",
+                "en": "Parc Duroch"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die winterliche Ruhe des Parks; die kahlen Bäume bieten eine klare Sicht auf die Architektur, ziehen Sie jedoch feste Schuhe gegen die Bodenkälte an.",
+                "hu": "Tapasztalja meg a park téli nyugalmát; a kopár fák tiszta rálátást engednek az épületekre, de a talajmenti fagy miatt viseljen hőszigetelt, vastag talpú cipőt.",
+                "ro": "Experimentați liniștea de iarnă a parcului; copacii golași oferă o vedere clară asupra arhitecturii, dar purtați încălțăminte solidă împotriva frigului de la sol.",
+                "en": "Experience the winter tranquility of the park; the bare trees offer a clear view of the architecture, but wear solid shoes to protect against the ground chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon Blanc Henri Molina",
+                "hu": "Pavillon Blanc Henri Molina",
+                "ro": "Pavillon Blanc Henri Molina",
+                "en": "Pavillon Blanc Henri Molina"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich zur Mittagszeit aufzuwärmen; genießen Sie die moderne Atmosphäre und nutzen Sie die Leseecken, um sich vor der nächsten Etappe zu regenerieren.",
+                "hu": "Tökéletes hely a felmelegedésre a déli órákban; élvezze a modern környezetet és használja az olvasósarkokat a regenerálódásra a következő szabadtéri szakasz előtt.",
+                "ro": "Locul perfect pentru a vă încălzi la prânz; bucurați-vă de atmosfera modernă și folosiți colțurile de lectură pentru a vă recupera înainte de următoarea etapă.",
+                "en": "The perfect place to warm up at midday; enjoy the modern atmosphere and use the reading corners to recover before the next outdoor stage of your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Nautique Jean Vauchère",
+                "hu": "Espace Nautique Jean Vauchère",
+                "ro": "Espace Nautique Jean Vauchère",
+                "en": "Espace Nautique Jean Vauchère"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Winter ist besonders wohltuend; die beheizten Becken sind eine Wohltat für kalte Glieder, achten Sie beim Verlassen auf trockene Haare wegen der Kälte.",
+                "hu": "A téli látogatás különösen jól esik; a fűtött medencék felüdülést hoznak a fázó végtagoknak, de távozáskor ügyeljen a haj alapos megszárítására a kinti fagy miatt.",
+                "ro": "O vizită iarna este deosebit de plăcută; bazinele încălzite sunt o binecuvântare pentru membrele reci, dar uscați-vă bine părul înainte de a ieși în frig.",
+                "en": "A winter visit is especially pleasant; the heated pools are a blessing for cold limbs, but be sure to dry your hair thoroughly before heading back out into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "La Naspe",
+                "hu": "La Naspe",
+                "ro": "La Naspe",
+                "en": "La Naspe"
+              },
+              "tip_5lang": {
+                "de": "Der Spaziergang zum Sonnenuntergang um 17:00 Uhr ist magisch; die kühle Abendluft ist erfrischend, tragen Sie aber unbedingt eine warme Mütze und Handschuhe.",
+                "hu": "A naplementében tett séta 17 óra körül varázslatos; a hűvös esti levegő frissítő, de feltétlenül viseljen meleg sapkát és kesztyűt a gyorsan hűlő időben.",
+                "ro": "Plimbarea la apus, în jurul orei 17:00, este magică; aerul rece de seară este revigorant, dar asigurați-vă că purtați o căciulă caldă și mănuși.",
+                "en": "The walk at sunset around 5:00 PM is magical; the cool evening air is refreshing, but make sure to wear a warm hat and gloves as the temperature drops quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot a La Naspe parkban, élvezve a friss reggeli levegőt a zöld környezetben.\n\nFeleljen a városközpont felé, hogy meglátogassa az Église Sainte-Radegonde-ot, és pihenjen meg röviden a Parc Duroch árnyékában.\n\nDélután fedezze fel a lenyűgöző Pavillon Blanc-t, mielőtt elkerékpározna a történelmi Château de l'Armurier kastélyhoz.\n\nZárja aktív napját a festői Lac des Pêcheurs partján, ahol csendes, vízparti nyugalomban gyönyörködhet.",
         "ro": "Începeți ziua de ciclism la La Naspe, bucurându-vă de aerul proaspăt al dimineții în acest spațiu verde relaxant.\n\nPedalați spre centrul orașului pentru a vizita Église Sainte-Radegonde și a vă odihni scurt în Parc Duroch.\n\nÎn timpul după-amiezii, explorați impresionantul Pavillon Blanc înainte de a merge cu bicicleta la istoricul Château de l'Armurier.\n\nÎncheiați ziua activă la Lac des Pêcheurs, relaxându-vă în atmosfera liniștită de pe malul apei.",
         "en": "Kick off your cycling day at La Naspe, enjoying the fresh morning air in this expansive and peaceful green space.\n\nPedal towards the city center to visit the historic Église Sainte-Radegonde and rest briefly under the trees in Parc Duroch.\n\nIn the afternoon, explore the striking Pavillon Blanc before riding down to discover the historic Château de l'Armurier.\n\nFinish your active day at Lac des Pêcheurs, finding relaxation and a beautiful atmosphere right by the calm waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Colomiers eine spannende Radtour, wenn man gut vorbereitet ist. Vormittags radeln Sie durch La Naspe, mittags finden Sie in den kulturellen Zentren Schutz. Achten Sie auf den rutschigen Untergrund in den Parks und an den Seen. Der Nachmittag erfordert wasserfeste Kleidung, belohnt aber mit einer besonderen, nebligen Atmosphäre an den Gewässern.",
+            "hu": "Az eső ellenére Colomiers izgalmas kerékpáros túrát kínál a felkészülteknek. Délelőtt La Naspe környékén tekerhet, délben pedig kulturális központokban lelhet menedékre. Ügyeljen a csúszós utakra a parkokban és a tavak mentén. A délután vízálló öltözetet igényel, de a párás, ködös vízparti látvány kárpótolja a fáradozásért.",
+            "ro": "În ciuda ploii, Colomiers oferă un tur ciclist interesant dacă sunteți bine pregătiți. Dimineața pedalați prin La Naspe, iar la prânz găsiți adăpost în centrele culturale. Atenție la suprafețele alunecoase din parcuri și de lângă lacuri. După-amiaza necesită haine impermeabile, dar vă răsplătește cu o atmosferă specială lângă apă.",
+            "en": "Despite the rain, Colomiers offers an exciting cycling tour if you are well-prepared. In the morning, cycle through La Naspe, and at midday, find shelter in cultural centers. Watch out for slippery surfaces in parks and near lakes. The afternoon requires waterproof clothing, but rewards you with a special, misty atmosphere by the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Naspe",
+                "hu": "La Naspe",
+                "ro": "La Naspe",
+                "en": "La Naspe"
+              },
+              "tip_5lang": {
+                "de": "Radle vorsichtig durch die Wohnstraßen; Pfützen können tief sein, achte auf den Bremsweg auf nassem Asphalt und trage eine neongelbe Regenjacke für die Sichtbarkeit.",
+                "hu": "Tekerjen óvatosan a lakóutcákban; a tócsák mélyek lehetnek, ügyeljen a hosszabb fékútra a vizes aszfalton, és viseljen feltűnő esővédő ruházatot a láthatóságért.",
+                "ro": "Pedalați cu atenție pe străzile rezidențiale; bălțile pot fi adânci, atenție la distanța de frânare pe asfaltul umed și purtați o jachetă reflectorizantă pentru vizibilitate.",
+                "en": "Cycle carefully through the residential streets; puddles can be deep, watch your braking distance on wet asphalt and wear a high-visibility rain jacket for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Radegonde",
+                "hu": "Église Sainte-Radegonde",
+                "ro": "Église Sainte-Radegonde",
+                "en": "Église Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine trockene Pause; stellen Sie Ihr Rad unter einen Vorsprung und genießen Sie die Ruhe, bevor es weiter durch den Regen geht.",
+                "hu": "Használja ki a megállót egy száraz pihenőre; támassza le kerékpárját egy ereszhajlat alá, és élvezze a benti csendet, mielőtt tovább indulna az esőben.",
+                "ro": "Folosiți oprirea pentru o pauză uscată; parcați bicicleta sub o streașină și bucurați-vă de liniștea din interior înainte de a continua prin ploaie.",
+                "en": "Take advantage of this stop for a dry break; park your bike under an overhang and enjoy the indoor silence before heading back out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Duroch",
+                "hu": "Parc Duroch",
+                "ro": "Parc Duroch",
+                "en": "Parc Duroch"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege können bei Regen sehr rutschig sein; vermeiden Sie scharfe Kurven auf nassem Laub und genießen Sie die frische, gewaschene Luft unter den Bäumen.",
+                "hu": "A parki utak esőben nagyon csúszósak lehetnek; kerülje a hirtelen kanyarodást a vizes leveleken, és élvezze a fák alatt a friss, tiszta levegőt.",
+                "ro": "Aleile parcului pot fi foarte alunecoase pe ploaie; evitați virajele bruște pe frunzele umede și bucurați-vă de aerul proaspăt de sub copaci.",
+                "en": "The park paths can be very slippery in the rain; avoid sharp turns on wet leaves and enjoy the fresh, clean air under the shelter of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon Blanc Henri Molina",
+                "hu": "Pavillon Blanc Henri Molina",
+                "ro": "Pavillon Blanc Henri Molina",
+                "en": "Pavillon Blanc Henri Molina"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Ausrüstung zu checken; nutzen Sie die überdachten Fahrradständer und wärmen Sie sich im Inneren bei einer interessanten Lektüre auf.",
+                "hu": "Ideális hely a felszerelés ellenőrzésére; használja a fedett kerékpártárolókat, és melegedjen fel bent egy érdekes olvasmány társaságában, amíg odakint esik.",
+                "ro": "Un loc ideal pentru a verifica echipamentul; folosiți rastelele acoperite pentru biciclete și încălziți-vă în interior cu o lectură interesantă.",
+                "en": "An ideal place to check your gear; use the covered bike racks and warm up inside with an interesting book while waiting for the rain to ease."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Armurier",
+                "hu": "Château de l'Armurier",
+                "ro": "Château de l'Armurier",
+                "en": "Château de l'Armurier"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Regen besonders mystisch; halten Sie nur kurz für ein Foto und achten Sie auf die aufspritzende Nässe von vorbeifahrenden Autos.",
+                "hu": "A kastély esőben különösen misztikus látványt nyújt; csak rövid időre álljon meg egy fotóra, és ügyeljen az elhaladó autók által felvert vízpermetre.",
+                "ro": "Castelul arată deosebit de mistic pe ploaie; opriți-vă doar scurt pentru o fotografie și fiți atenți la apa împroșcată de mașinile care trec.",
+                "en": "The castle looks particularly mystical in the rain; stop only briefly for a photo and watch out for water splashed by passing cars on the wet road."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pêcheurs",
+                "hu": "Lac des Pêcheurs",
+                "ro": "Lac des Pêcheurs",
+                "en": "Lac des Pêcheurs"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg kann schlammig sein; fahren Sie mit geringem Reifendruck für besseren Grip und genießen Sie den Anblick der Regentropfen auf der Seeoberfläche.",
+                "hu": "A tóparti út sáros lehet; tekerjen alacsonyabb guminyomással a jobb tapadásért, és gyönyörködjön a tó felszínén táncoló esőcseppek látványában.",
+                "ro": "Poteca de pe malul lacului poate fi noroioasă; pedalați cu o presiune mai mică în pneuri pentru aderență și admirați picăturile de ploaie pe suprafața lacului.",
+                "en": "The lakeside path can be muddy; ride with lower tire pressure for better grip and enjoy the sight of raindrops dancing on the surface of the lake."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Colomiers erfordert warme Handschuhe und gute Planung. Der Morgen ist frostig, aber sonnig, ideal für die Außenbezirke. Mittags bietet der Pavillon Blanc eine notwendige Aufwärmpause. Nachmittags führen die Wege zu den Schlössern und Seen. Da es bereits um 17:00 Uhr dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+            "hu": "A téli kerékpározás Colomiers-ben meleg kesztyűt és jó tervezést igényel. A reggel fagyos, de napos, ideális a külső negyedek felfedezéséhez. Délben a Pavillon Blanc nyújt elengedhetetlen pihenőt a melegben. Délután az út kastélyokhoz és tavakhoz vezet. Mivel 17 órakor sötétedik, ellenőrizze, hogy a világítás megfelelően működik-e.",
+            "ro": "Un tur de iarnă cu bicicleta prin Colomiers necesită mănuși calde și o planificare bună. Dimineața este geroasă, dar însorită, ideală pentru cartierele periferice. La prânz, Pavillon Blanc oferă o pauză necesară pentru încălzire. După-amiaza, drumurile duc spre castele și lacuri. Deoarece se întunecă la ora 17:00, verificați luminile bicicletei.",
+            "en": "A winter bike tour through Colomiers requires warm gloves and good planning. The morning is frosty but sunny, ideal for exploring the outskirts. At midday, Pavillon Blanc provides a necessary warm-up break. In the afternoon, the paths lead to castles and lakes. Since it gets dark by 5:00 PM, ensure your bike lights are working perfectly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Naspe",
+                "hu": "La Naspe",
+                "ro": "La Naspe",
+                "en": "La Naspe"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour vorsichtig; frostige Stellen auf dem Asphalt können tückisch sein. Tragen Sie winddichte Kleidung, um den Fahrtwind abzuwehren.",
+                "hu": "Kezdje óvatosan a túrát; az aszfalton lévő fagyott foltok trükkösek lehetnek. Viseljen szélálló ruházatot, hogy kivédje a menetszél hűtő hatását.",
+                "ro": "Începeți turul cu prudență; zonele înghețate de pe asfalt pot fi înșelătoare. Purtați haine rezistente la vânt pentru a vă proteja de frigul din timpul mersului.",
+                "en": "Start the tour cautiously; frosty patches on the asphalt can be treacherous. Wear windproof clothing to shield yourself from the chilling wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Radegonde",
+                "hu": "Église Sainte-Radegonde",
+                "ro": "Église Sainte-Radegonde",
+                "en": "Église Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt zum Aufwärmen; im Inneren ist es windstill, was eine willkommene Pause vom kalten Radfahren bietet. Achten Sie auf kalte Finger beim Bremsen.",
+                "hu": "Rövid megálló a felmelegedéshez; bent szélcsend van, ami üdítő pihenőt jelent a hideg tekerés után. Figyeljen a fékezéskor elgémberedett ujjakra.",
+                "ro": "O scurtă oprire pentru încălzire; în interior nu bate vântul, oferind o pauză binevenită. Atenție la degetele amorțite de frig atunci când frânați.",
+                "en": "A short stop to warm up; it's calm inside, providing a welcome break from the cold ride. Be mindful of stiff fingers when using the brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Duroch",
+                "hu": "Parc Duroch",
+                "ro": "Parc Duroch",
+                "en": "Parc Duroch"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten im Park; genießen Sie die klare Luft, aber meiden Sie schattige Wege, auf denen sich Reif halten kann.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a parkban; élvezze a tiszta levegőt, de kerülje az árnyékos utakat, ahol megmaradhat a zúzmara.",
+                "ro": "Soarele de iarnă aruncă umbre lungi în parc; bucurați-vă de aerul curat, dar evitați potecile umbrite unde chiciura poate persista pe parcursul zilei.",
+                "en": "The low winter sun casts long shadows in the park; enjoy the clear air, but avoid shaded paths where hoarfrost may linger throughout the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Pavillon Blanc Henri Molina",
+                "hu": "Pavillon Blanc Henri Molina",
+                "ro": "Pavillon Blanc Henri Molina",
+                "en": "Pavillon Blanc Henri Molina"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagspause für ein heißes Getränk in der Nähe; der Pavillon bietet Schutz vor dem kalten Wind und ist ideal, um die Route für den Nachmittag zu planen.",
+                "hu": "Használja ki a déli pihenőt egy forró italra a közelben; a Pavillon védelmet nyújt a hideg szél ellen, és ideális a délutáni útvonal áttekintésére.",
+                "ro": "Folosiți pauza de prânz pentru o băutură caldă în apropiere; Pavillon oferă protecție împotriva vântului rece și este ideal pentru planificarea traseului.",
+                "en": "Use the midday break for a hot drink nearby; the Pavillon provides shelter from the cold wind and is ideal for reviewing your afternoon route."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Armurier",
+                "hu": "Château de l'Armurier",
+                "ro": "Château de l'Armurier",
+                "en": "Château de l'Armurier"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt bei klarem Winterhimmel majestätisch; halten Sie sich in Bewegung, um nicht auszukühlen, und genießen Sie den Blick auf die historische Fassade.",
+                "hu": "A kastély fenséges látványt nyújt a tiszta téli égbolt alatt; maradjon mozgásban, hogy ne hűljön ki, és csodálja meg a történelmi homlokzat részleteit.",
+                "ro": "Castelul arată maiestuos sub cerul senin de iarnă; rămâneți în mișcare pentru a nu vă răci și bucurați-vă de vederea fațadei istorice în lumina rece.",
+                "en": "The castle looks majestic under a clear winter sky; keep moving to avoid getting cold and enjoy the view of the historic facade in the crisp light."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des Pêcheurs",
+                "hu": "Lac des Pêcheurs",
+                "ro": "Lac des Pêcheurs",
+                "en": "Lac des Pêcheurs"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr; die Kälte nimmt am Wasser schnell zu, und der gefrorene Boden am Ufer kann beim Absteigen sehr rutschig sein.",
+                "hu": "Fejezze be a túrát 17 óra előtt; a vízparton a hideg gyorsan fokozódik, és a fagyott talaj a parton leszálláskor rendkívül csúszós lehet.",
+                "ro": "Încheiați turul înainte de ora 17:00; frigul se intensifică rapid lângă apă, iar solul înghețat de pe mal poate fi foarte alunecos la coborâre.",
+                "en": "Finish your tour before 5:00 PM; the cold intensifies quickly near the water, and the frozen ground on the bank can be very slippery when dismounting."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje a napot a kortárs kultúra felfedezésével az ikonikus Pavillon Blanc Henri Molina épületében.\n\nVezessen át a közeli Église Sainte-Radegonde templomhoz egy kis spirituális történelemért, majd induljon dél felé.\n\nTöltse a délutánt a lenyűgöző és történelmi Château de l'Armurier kastély területének bebarangolásával.\n\nZárja az autós kirándulást a Lac du Vieux Pigeonnier és a Lac des pêcheurs de la Ramée békés, természetközeli partjainak felfedezésével.",
         "ro": "Începeți cu o vizită culturală contemporană la iconicul Pavillon Blanc Henri Molina din inima orașului.\n\nConduceți spre apropiata Église Sainte-Radegonde pentru o notă de istorie spirituală, apoi îndreptați-vă spre sud.\n\nPetreceți-vă după-amiaza plimbându-vă prin zonele pitorești ale istoricului Château de l'Armurier.\n\nÎncheiați-vă excursia explorând malurile liniștite de la Lac du Vieux Pigeonnier și Lac des pêcheurs de la Ramée.",
         "en": "Begin with a dive into contemporary culture at the iconic and visually striking Pavillon Blanc Henri Molina.\n\nDrive over to the nearby Église Sainte-Radegonde for a touch of spiritual history, then head south out of the center.\n\nSpend your afternoon wandering the grounds of the elegant and historic Château de l'Armurier.\n\nWrap up your road trip exploring the serene shores and abundant nature of Lac du Vieux Pigeonnier and Lac des pêcheurs de la Ramée."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Colomiers ist die komfortabelste Art, einen Regentag zu genießen. Sie bleiben trocken, während Sie von einer Sehenswürdigkeit zur nächsten fahren. Vormittags steht Kultur auf dem Plan, mittags Geschichte. Die Seen am Nachmittag bieten durch die beschlagenen Scheiben einen fast malerischen Anblick. Achten Sie auf Aquaplaning bei starkem Regen.",
+            "hu": "Az autós túra Colomiers-ben a legkényelmesebb módja egy esős nap élvezetének. Szárazon juthat el egyik látnivalótól a másikig. Délelőtt a kultúra, délben a történelem várja. A délutáni tavak a párás ablakokon keresztül szinte festői látványt nyújtanak. Ügyeljen a vízenfutás veszélyére intenzív esőzés esetén a főutakon.",
+            "ro": "Un tur cu mașina prin Colomiers este cel mai confortabil mod de a te bucura de o zi ploioasă. Rămâneți uscați în timp ce conduceți de la un obiectiv la altul. Dimineața este dedicată culturii, iar prânzul istoriei. Lacurile de după-amiază oferă o vedere pitorească prin geamurile aburite. Atenție la acvaplanare în caz de ploaie torențială.",
+            "en": "A car tour through Colomiers is the most comfortable way to enjoy a rainy day. You stay dry while driving from one attraction to the next. Morning is dedicated to culture, and midday to history. The lakes in the afternoon offer an almost picturesque view through the misty windows. Watch out for aquaplaning during heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pavillon Blanc Henri Molina",
+                "hu": "Pavillon Blanc Henri Molina",
+                "ro": "Pavillon Blanc Henri Molina",
+                "en": "Pavillon Blanc Henri Molina"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; so minimieren Sie die Zeit im Regen und können die moderne Architektur und die Bücherwelt trocken genießen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; így minimalizálhatja az esőben töltött időt, és szárazon élvezheti a modern építészetet és a könyvek világát.",
+                "ro": "Parcați cât mai aproape de intrare; astfel minimizați timpul petrecut în ploaie și vă puteți bucura de arhitectura modernă și de lumea cărților la uscat.",
+                "en": "Park as close to the entrance as possible; this minimizes your time in the rain, allowing you to enjoy the modern architecture and world of books while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Radegonde",
+                "hu": "Église Sainte-Radegonde",
+                "ro": "Église Sainte-Radegonde",
+                "en": "Église Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Besichtigung; die Scheibenwischer sorgen für freie Sicht bei der Parkplatzsuche in den engen Gassen um die Kirche.",
+                "hu": "Használja ki a megállót egy rövid látogatásra; az ablaktörlők biztosítják a jó kilátást, miközben parkolóhelyet keres a templom körüli szűkebb utcákban.",
+                "ro": "Folosiți oprirea pentru o scurtă vizită; ștergătoarele asigură o vizibilitate bună în timp ce căutați un loc de parcare pe străzile înguste de lângă biserică.",
+                "en": "Take advantage of this stop for a short visit; ensure your wipers are working well to spot a parking space easily in the narrow streets around the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Armurier",
+                "hu": "Château de l'Armurier",
+                "ro": "Château de l'Armurier",
+                "en": "Château de l'Armurier"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Schlossanlage bequem vom Auto aus, falls es zu stark regnet; die historischen Umrisse wirken im grauen Licht besonders eindrucksvoll.",
+                "hu": "Tekintse meg a kastélyt kényelmesen az autóból, ha túl erősen esne; a történelmi körvonalak a szürke fényben különösen hatásos látványt nyújtanak.",
+                "ro": "Admirați castelul confortabil din mașină dacă plouă prea tare; contururile istorice arată impresionant în lumina cenușie a unei zile ploioase.",
+                "en": "View the castle grounds comfortably from your car if it rains too hard; the historic outlines look particularly impressive in the grey, moody light."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Vieux Pigeonnier",
+                "hu": "Lac du Vieux Pigeonnier",
+                "ro": "Lac du Vieux Pigeonnier",
+                "en": "Lac du Vieux Pigeonnier"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Ufer bietet eine schöne Aussicht; lassen Sie die Lüftung laufen, damit die Scheiben nicht beschlagen, während Sie den Regen beobachten.",
+                "hu": "Egy rövid megálló a parton szép kilátást kínál; járassa a szellőzést, hogy az ablakok ne párásodjanak be, miközben az esőben pihenő tavat nézi.",
+                "ro": "O scurtă oprire pe mal oferă o priveliște frumoasă; lăsați ventilația pornită pentru a preveni aburirea geamurilor în timp ce priviți ploaia pe lac.",
+                "en": "A short stop at the shore offers a nice view; keep the ventilation on to prevent the windows from fogging up while you watch the rain fall on the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des pêcheurs de la Ramée",
+                "hu": "Lac des pêcheurs de la Ramée",
+                "ro": "Lac des pêcheurs de la Ramée",
+                "en": "Lac des pêcheurs de la Ramée"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer Fahrt um den See; die neblige Wasserfläche wirkt beruhigend, aber fahren Sie auf den nassen Parkwegen besonders langsam.",
+                "hu": "Zárja a napot egy autózással a tó körül; a ködös vízfelület megnyugtató látvány, de a vizes parkolókban és utakon vezessen különösen lassan.",
+                "ro": "Încheiați ziua cu o plimbare cu mașina în jurul lacului; suprafața cețoasă a apei este relaxantă, dar conduceți foarte încet pe drumurile umede.",
+                "en": "End the day with a drive around the lake; the misty water surface is calming, but drive extra slowly on the wet parking lot paths and access roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Colomiers im Winter lässt sich hervorragend mit dem Auto erkunden, besonders wenn die Heizung für Wohlbefinden sorgt. Die klare Winterluft bietet weite Sichten auf die Architektur und die Seen. Da die Sonne bereits gegen 17:00 Uhr untergeht, ist die Fahrt am späten Nachmittag ideal, um das Abendlicht zu genießen. Achten Sie auf überfrierende Nässe in den frühen Morgenstunden.",
+            "hu": "Colomiers télen kiválóan felfedezhető autóval, különösen, ha a fűtés gondoskodik a kényelemről. A tiszta téli levegő távoli kilátást enged az épületekre és a tavakra. Mivel a nap 17 óra körül lebukik, a késő délutáni autózás ideális az esti fények élvezetéhez. Ügyeljen a hajnali órákban az utakon előforduló jegesedésre.",
+            "ro": "Colomiers iarna poate fi explorat excelent cu mașina, mai ales când încălzirea asigură confortul. Aerul curat de iarnă oferă vederi largi asupra arhitecturii și lacurilor. Deoarece soarele apune în jurul orei 17:00, plimbarea de după-amiază este ideală pentru a te bucura de lumina serii. Atenție la gheață dimineața devreme.",
+            "en": "Colomiers in winter is excellent to explore by car, especially when the heater ensures your comfort. The clear winter air offers wide views of the architecture and lakes. Since the sun sets around 5:00 PM, a late afternoon drive is ideal for enjoying the evening lights. Watch out for icy patches on the roads in the early morning."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pavillon Blanc Henri Molina",
+                "hu": "Pavillon Blanc Henri Molina",
+                "ro": "Pavillon Blanc Henri Molina",
+                "en": "Pavillon Blanc Henri Molina"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vormittag in der warmen Mediathek; der Kontrast zwischen der Kälte draußen und der Gemütlichkeit drinnen ist herrlich, ideal für Kulturliebhaber.",
+                "hu": "Használja ki a délelőttöt a meleg médiatárban; a kinti hideg és a benti kényelem közötti kontraszt csodás, ideális helyszín a kultúra szerelmeseinek.",
+                "ro": "Bucurați-vă de dimineață în biblioteca caldă; contrastul dintre frigul de afară și confortul din interior este minunat, ideal pentru iubitorii de cultură.",
+                "en": "Enjoy your morning in the warm media library; the contrast between the cold outside and the comfort inside is wonderful, ideal for culture lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Radegonde",
+                "hu": "Église Sainte-Radegonde",
+                "ro": "Église Sainte-Radegonde",
+                "en": "Église Sainte-Radegonde"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche wirkt im klaren Winterlicht besonders friedlich; parken Sie in der Nähe und genießen Sie den kurzen, erfrischenden Gang zur historischen Pforte.",
+                "hu": "A templom a tiszta téli fényben különösen békésnek tűnik; parkoljon a közelben, és élvezze a rövid, frissítő sétát a történelmi kapuig.",
+                "ro": "Biserica arată deosebit de liniștită în lumina clară de iarnă; parcați în apropiere și bucurați-vă de o scurtă plimbare revigorantă până la poarta istorică.",
+                "en": "The church looks particularly peaceful in the clear winter light; park nearby and enjoy the short, refreshing walk to the historic entrance gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Armurier",
+                "hu": "Château de l'Armurier",
+                "ro": "Château de l'Armurier",
+                "en": "Château de l'Armurier"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne lässt das Schloss in warmen Tönen erstrahlen; nutzen Sie die Parkmöglichkeiten für einen schnellen Fotostopp, bevor es wieder ins warme Auto geht.",
+                "hu": "Az alacsonyan járó nap meleg tónusokkal világítja meg a kastélyt; használja a parkolási lehetőséget egy gyors fotóra, mielőtt visszatérne a meleg autóba.",
+                "ro": "Soarele jos luminează castelul în tonuri calde; folosiți parcarea pentru o oprire foto rapidă înainte de a vă întoarce în mașina încălzită.",
+                "en": "The low sun lights up the castle in warm tones; take advantage of the parking for a quick photo stop before returning to your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac du Vieux Pigeonnier",
+                "hu": "Lac du Vieux Pigeonnier",
+                "ro": "Lac du Vieux Pigeonnier",
+                "en": "Lac du Vieux Pigeonnier"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Ränder des Sees bieten ein schönes Fotomotiv; bleiben Sie im Auto warm und genießen Sie die klare Sicht über die weite Wasserfläche.",
+                "hu": "A tó befagyott szélei szép fotótémát kínálnak; maradjon a meleg autóban, és élvezze a tiszta kilátást a távoli vízfelület felett.",
+                "ro": "Marginile înghețate ale lacului oferă un subiect foto frumos; rămâneți la căldură în mașină și bucurați-vă de vederea clară peste suprafața apei.",
+                "en": "The frozen edges of the lake offer a beautiful photo subject; stay warm in your car and enjoy the clear view over the vast expanse of water."
+              }
+            },
+            {
+              "name": {
+                "de": "Lac des pêcheurs de la Ramée",
+                "hu": "Lac des pêcheurs de la Ramée",
+                "ro": "Lac des pêcheurs de la Ramée",
+                "en": "Lac des pêcheurs de la Ramée"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang um 17:00 Uhr vom Parkplatz aus; das Lichtspiel auf dem kalten Wasser ist herrlich, aber achten Sie auf Glätte auf den Zufahrtswegen.",
+                "hu": "Élje át a naplementét 17 órakor a parkolóból; a hideg vízen megcsillanó fények csodásak, de ügyeljen a jegesedésre a tóhoz vezető bekötőutakon.",
+                "ro": "Experimentați apusul de la ora 17:00 din parcare; jocul de lumini pe apa rece este minunat, dar fiți atenți la polei pe drumurile de acces.",
+                "en": "Experience the sunset at 5:00 PM from the parking lot; the play of light on the cold water is wonderful, but watch for icy spots on the access roads."
+              }
+            }
+          ]
+        }
       }
     }
   }

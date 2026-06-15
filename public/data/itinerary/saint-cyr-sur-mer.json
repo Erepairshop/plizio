@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a bájos templomnál, majd induljon a széles homokos strand felé. Délben élvezze a partot, majd látogasson el az izgalmas víziparkba. Délután merüljön el a történelemben a római mozaikokat bemutató múzeumban. Zárja a napot egy pihentető sétával a festői kikötőben.",
         "ro": "Începeți dimineața la biserica fermecătoare, apoi mergeți spre plaja largă de nisip. La prânz, bucurați-vă de coastă și vizitați parcul acvatic captivant. După-amiaza, descoperiți istoria romană la muzeu, admirând mozaicurile antice. Încheiați ziua cu o plimbare relaxantă în portul pitoresc.",
         "en": "Start the morning at the charming church, then walk to the expansive sandy beach. Midday, enjoy the coast and visit the exciting water park for family fun. In the afternoon, dive into history at the museum featuring ancient Roman mosaics. End the day with a relaxing stroll at the picturesque port."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen in der schützenden Kirche. Mittags trotzen Sie der nassen Promenade am Strand und dem Wasserpark. Verbringen Sie einen trockenen Nachmittag im römischen Museum. Beenden Sie den Abend am Hafen unter einem Regenschirm.",
+            "hu": "Kezdje az esős reggelt a történelmi templom menedékében. Délben dacoljon a nedves sétánnyal a parton és a víziparkban. Töltsön egy száraz délutánt a lenyűgöző római múzeumban. Zárja az estét a kikötőben egy esernyő alatt.",
+            "ro": "Începeți dimineața ploioasă la adăpostul bisericii istorice. La prânz, înfruntați promenada umedă de la plajă și parcul acvatic. Petreceți o după-amiază uscată explorând muzeul roman. Încheiați seara la port sub o umbrelă.",
+            "en": "Start your rainy morning seeking shelter in the historic church. By noon, brave the wet promenade at the beach and the splashy waterpark. Spend a dry afternoon exploring the fascinating Roman museum. Conclude your evening at the port under an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Cyr Church",
+                "hu": "Saint-Cyr Church",
+                "ro": "Saint-Cyr Church",
+                "en": "Saint-Cyr Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster, während Sie Schutz vor dem Regen suchen. Halten Sie einen Regenschirm bereit, die steinernen Stufen sind sehr rutschig.",
+                "hu": "Csodálja meg az üvegablakokat, miközben menedéket talál az eső elől. Tartson kéznél esernyőt, mert a kőlépcsők nagyon csúszósak lehetnek.",
+                "ro": "Admirați vitraliile în timp ce vă adăpostiți de ploaie. Păstrați o umbrelă la îndemână, deoarece treptele de piatră devin foarte alunecoase.",
+                "en": "Admire the stained glass while sheltering from the rain. Keep an umbrella handy for the exit, as the stone steps get quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Lecques Beach",
+                "hu": "Les Lecques Beach",
+                "ro": "Les Lecques Beach",
+                "en": "Les Lecques Beach"
+              },
+              "tip_5lang": {
+                "de": "Das stürmische Meer ist wunderschön, aber tragen Sie wasserfeste Schuhe. Die Promenade wird bei starken Regengüssen sehr schlammig und glatt.",
+                "hu": "A viharos tenger gyönyörű, de viseljen vízálló csizmát. A sétány és a homokos ösvények sárgák és csúszósak lesznek a felhőszakadások idején.",
+                "ro": "Marea furtunoasă este frumoasă, dar purtați cizme impermeabile. Promenada și potecile de nisip devin foarte noroioase în timpul ploilor puternice.",
+                "en": "The dramatic stormy sea is beautiful, but wear sturdy waterproof boots. The promenade and sandy paths become very muddy and slick in downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqualand Saint-Cyr-sur-Mer",
+                "hu": "Aqualand Saint-Cyr-sur-Mer",
+                "ro": "Aqualand Saint-Cyr-sur-Mer",
+                "en": "Aqualand Saint-Cyr-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Sie werden sowieso nass, aber achten Sie auf Gewittersperrungen. Bringen Sie einen leichten Regenmantel für die Wege zwischen den Attraktionen mit.",
+                "hu": "Úgyis vizes lesz, de figyeljen a vihar miatti lezárásokra. Hozzon magával könnyű esőkabátot, hogy kényelmesen sétálhasson a medencék között.",
+                "ro": "Vă veți uda oricum, dar atenție la închiderile din cauza furtunilor. Aduceți o pelerină ușoară pentru a merge confortabil între atracții.",
+                "en": "You will get wet anyway, but watch out for thunderstorm closures. Bring a light raincoat to stay comfortable while walking between the attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauroentum Museum",
+                "hu": "Tauroentum Museum",
+                "ro": "Tauroentum Museum",
+                "en": "Tauroentum Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Zuflucht vor dem starken Regen! Entdecken Sie faszinierende römische Mosaike, während Sie drinnen völlig trocken und warm bleiben.",
+                "hu": "Tökéletes beltéri menedék a felhőszakadás elől! Fedezze fel a lenyűgöző római mozaikokat, miközben teljesen száraz és meleg marad odabent.",
+                "ro": "O evadare perfectă în interior din calea ploii! Descoperiți mozaicuri romane fascinante în timp ce rămâneți complet uscat și la căldură.",
+                "en": "A perfect indoor escape from the heavy downpour! Discover fascinating Roman mosaics while staying completely dry and comfortably warm inside."
+              }
+            },
+            {
+              "name": {
+                "de": "La Madrague Port",
+                "hu": "La Madrague Port",
+                "ro": "La Madrague Port",
+                "en": "La Madrague Port"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie Regentropfen auf den Bootsdecks tanzen. Halten Sie sich auf den rutschigen Holzstegen unbedingt gut an den nassen Geländern fest.",
+                "hu": "Nézze, ahogy az esőcseppek táncolnak a halászhajók fedélzetén. Óvatosan kapaszkodjon a nedves korlátokba a csúszós fapályákon sétálva.",
+                "ro": "Priviți cum dansează picăturile de ploaie pe punțile bărcilor. Asigurați-vă că vă țineți de balustradele umede pe docurile de lemn alunecoase.",
+                "en": "Watch the raindrops dance on the fishing boat decks. Make sure to grip the wet railings carefully while walking along the slippery wooden docks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen in der Steinkirche. Mittags genießen Sie einen flotten Spaziergang am leeren Strand. Wärmen Sie sich am Nachmittag im antiken Museum auf. Erleben Sie den schönen, frühen Sonnenuntergang am Hafen gegen 17 Uhr.",
+            "hu": "Kezdje a csípős téli reggelt a kőtemplomban. Délben élvezze a frissítő sétát az üres strandon és a csendes víziparknál. Melegedjen fel délután az ókori múzeumban. Csípje el a gyönyörű, korai naplementét a kikötőben délután 5 óra körül.",
+            "ro": "Începeți dimineața rece de iarnă la biserica de piatră. La prânz, bucurați-vă de o plimbare revigorantă pe plaja goală. Încălziți-vă după-amiaza în muzeul antic. Prindeți apusul frumos și timpuriu la port în jurul orei 17:00.",
+            "en": "Start the crisp winter morning at the stone church. By noon, enjoy a brisk walk on the empty beach and peaceful waterpark area. Warm up in the afternoon inside the ancient museum. Catch the beautiful, early sunset at the port around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Cyr Church",
+                "hu": "Saint-Cyr Church",
+                "ro": "Saint-Cyr Church",
+                "en": "Saint-Cyr Church"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Kälte wird von den dicken Steinmauern abgehalten. Tragen Sie Thermokleidung, da historische Gebäude im Winter kühl bleiben.",
+                "hu": "A vastag kőfalak kint tartják a reggeli fagyot. Viseljen termo rétegeket, mivel a történelmi épületek télen is meglehetősen hidegek lehetnek.",
+                "ro": "Frigul dimineții este oprit de zidurile groase de piatră. Purtați straturi termice, deoarece clădirile istorice sunt reci iarna.",
+                "en": "The morning chill is kept at bay inside the thick stone walls. Wear thermal layers, as historic buildings can still feel quite cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Lecques Beach",
+                "hu": "Les Lecques Beach",
+                "ro": "Les Lecques Beach",
+                "en": "Les Lecques Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den leeren Strand. Der raue Winterwind vom Mittelmeer erfordert eine gute Windjacke, einen Schal und warme Handschuhe.",
+                "hu": "Élvezze a békés, üres homokot. A Földközi-tenger felől fújó kemény téli szél miatt széldzsekire, sálra és meleg kesztyűre lesz szüksége.",
+                "ro": "Bucurați-vă de nisipul liniștit și gol. Vântul aspru de iarnă de pe Mediterană necesită o geacă de vânt, fular și mănuși călduroase.",
+                "en": "Enjoy the peaceful, empty sands. The harsh winter wind off the Mediterranean requires a good windbreaker, scarf, and warm gloves for walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqualand Saint-Cyr-sur-Mer",
+                "hu": "Aqualand Saint-Cyr-sur-Mer",
+                "ro": "Aqualand Saint-Cyr-sur-Mer",
+                "en": "Aqualand Saint-Cyr-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Obwohl der Wasserpark außerhalb der Saison ist, bietet die Umgebung einen frischen, ruhigen Winterspaziergang. Ziehen Sie sich warm an.",
+                "hu": "Bár a vízipark szezonon kívül van, a környék frissítő, tömeg nélküli téli sétát kínál. Öltözzön melegen a part menti szellő ellen.",
+                "ro": "Deși parcul acvatic este în afara sezonului, zona oferă o plimbare de iarnă revigorantă. Îmbrăcați-vă gros împotriva brizei de coastă.",
+                "en": "Though the water park is mostly out of season, the surrounding area offers a brisk, uncrowded winter walk. Wrap up warm against the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauroentum Museum",
+                "hu": "Tauroentum Museum",
+                "ro": "Tauroentum Museum",
+                "en": "Tauroentum Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem historischen Juwel auf. Die antiken römischen Artefakte bieten eine toll beheizte Nachmittagsablenkung von der Kälte.",
+                "hu": "Melegedjen fel ebben a történelmi gyöngyszemben. Az ókori római leletek nagyszerű, fűtött délutáni kikapcsolódást nyújtanak a hideg elől.",
+                "ro": "Încălziți-vă în această bijuterie istorică. Artefactele romane antice oferă o distracție de după-amiază confortabil de caldă departe de frig.",
+                "en": "Warm up inside this historical gem. The ancient Roman artifacts provide a great, comfortably heated afternoon distraction from the freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "La Madrague Port",
+                "hu": "La Madrague Port",
+                "ro": "La Madrague Port",
+                "en": "La Madrague Port"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr, um den frühen Wintersonnenuntergang zu sehen. Die Temperatur sinkt schnell, also schließen Sie Ihre Jacke fest.",
+                "hu": "Érkezzen 17:00 előtt, hogy elcsípje a horgonyzó hajókon tükröződő korai naplementét. A hőmérséklet gyorsan esik, húzza fel a cipzárt.",
+                "ro": "Ajungeți înainte de 17:00 pentru apusul spectaculos de iarnă reflectat pe bărci. Temperatura scade rapid, așa că închideți-vă bine haina.",
+                "en": "Arrive before 17:00 to catch the spectacular early winter sunset reflecting off the moored boats. The temperature drops fast, so zip up your coat."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen a történelmi központból a gyönyörű strandra, hogy élvezze a reggeli napsütést. Délben hűsöljön a hullámmedencében, mielőtt a parton továbbhaladna. Délután fedezze fel a múzeum római romjait, majd látogasson el az akváriumba. Zárja az aktív napot a parti ösvényen a naplemente fényében.",
         "ro": "Pedalați din centrul istoric până la plaja frumoasă pentru a vă bucura de soarele dimineții. La prânz, răcoriți-vă în piscina cu valuri înainte de a merge de-a lungul coastei. După-amiaza, explorați ruinele romane la muzeu și vizitați acvariul local. Terminați ziua pe poteca de coastă la apus.",
         "en": "Pedal from the historic center to the beautiful beach to soak up the morning sun. Midday, cool off in the wave pool before riding further along the scenic coast. In the afternoon, explore Roman ruins at the museum and visit the local aquarium. Finish your active day at the coastal path as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour beginnt an der Kirche. Mittags fahren Sie vorsichtig auf glatten Wegen zum Strand. Suchen Sie nachmittags trockene Zuflucht im Museum und Aquarium. Beenden Sie den Tag auf dem rutschigen Küstenpfad.",
+            "hu": "Az esős reggeli kerékpározás a templomnál kezdődik. Délben óvatosan tekerjen a strandra és a hullámmedencéhez a csúszós utakon. Keresse a múzeum száraz menedékét délután, majd az akváriumot. Zárja a napot a csúszós parti ösvényen.",
+            "ro": "Plimbarea ploioasă cu bicicleta începe la biserică. La prânz, pedalați cu grijă spre plajă și piscină pe drumuri alunecoase. Căutați refugiu uscat la muzeu și acvariu după-amiaza. Încheiați ziua pe poteca de coastă foarte alunecoasă.",
+            "en": "A rainy morning bike ride starts at the church. By noon, pedal carefully to the beach and wave pool on slick paths. Seek dry refuge in the museum this afternoon, followed by the aquarium. End the day walking your bike on the coastal path."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Cyr Church",
+                "hu": "Saint-Cyr Church",
+                "ro": "Saint-Cyr Church",
+                "en": "Saint-Cyr Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Bäumen und trocknen Sie sich drinnen ab; das Kirchenschiff ist während der Morgenschauer angenehm friedlich.",
+                "hu": "Parkolja le a bringát a fák alá, és szárátkozzon meg bent; a templomhajó békés a reggeli záporok idején. Viseljen jó esőponcsót.",
+                "ro": "Parcați bicicleta sub copaci și uscați-vă înăuntru; naosul este pașnic în timpul averselor de dimineață. Purtați un poncho de ploaie.",
+                "en": "Park your bike under the trees and dry off inside; the nave is peaceful during morning showers. Wear a good quality waterproof rain poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Lecques Beach",
+                "hu": "Les Lecques Beach",
+                "ro": "Les Lecques Beach",
+                "en": "Les Lecques Beach"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Sand reflektiert den Himmel wunderschön. Fahren Sie vorsichtig, da die asphaltierten Radwege an der Küste bei Nässe extrem glatt werden.",
+                "hu": "A nedves homok gyönyörűen tükrözi a szürke eget. Tekerjen óvatosan, mert a parti aszfaltozott kerékpárutak nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Nisipul umed reflectă cerul frumos. Pedalați cu grijă, deoarece pistele de biciclete asfaltate de pe coastă devin extrem de alunecoase.",
+                "en": "The wet sand reflects the grey skies beautifully. Ride carefully as the coastal asphalt bike paths can become extremely slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine à vagues",
+                "hu": "Piscine à vagues",
+                "ro": "Piscine à vagues",
+                "en": "Piscine à vagues"
+              },
+              "tip_5lang": {
+                "de": "Da es regnet, ist ein Indoor-Wellenbad eine großartige Möglichkeit, das Wasser zu genießen, ohne sich um das stürmische Wetter zu sorgen.",
+                "hu": "Mivel esik, egy fedett hullámmedence nagyszerű módja a víz élvezetének, anélkül, hogy a kinti viharos időjárás miatt kellene aggódnia.",
+                "ro": "Deoarece plouă, o piscină cu valuri acoperită este o modalitate excelentă de a vă bucura de apă fără a vă face griji de vremea furtunoasă.",
+                "en": "Since it is raining, an indoor wave pool is a great way to enjoy the water without worrying about the stormy coastal weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauroentum Museum",
+                "hu": "Tauroentum Museum",
+                "ro": "Tauroentum Museum",
+                "en": "Tauroentum Museum"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr nasses Fahrrad draußen ab und genießen Sie die trockenen römischen Exponate. Eine perfekte Pause vom starken Regen.",
+                "hu": "Zárja le vizes kerékpárját biztonságosan kint, és élvezze a száraz római kiállításokat. Tökéletes oktató szünet a heves esőzés elől.",
+                "ro": "Legați bicicleta umedă afară și bucurați-vă de exponatele romane uscate. O pauză educațională perfectă de la ploaia puternică.",
+                "en": "Lock your wet bike securely outside and enjoy the dry Roman exhibits. It is a perfect midday educational break from the heavy rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium La Madrague",
+                "hu": "Aquarium La Madrague",
+                "ro": "Aquarium La Madrague",
+                "en": "Aquarium La Madrague"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Zufluchtsort! Beobachten Sie die Meeresbewohner, während Sie sicher vor den Küstenschauern und starken Winden geschützt sind.",
+                "hu": "Ideális beltéri menedék! Figyelje meg a tengeri élővilágot, miközben biztonságosan védve van a parti felhőszakadásoktól és az erős széltől.",
+                "ro": "Un refugiu interior ideal! Priviți viața marină în timp ce sunteți protejați în siguranță de aversele de coastă și de vânturile puternice.",
+                "en": "An ideal indoor refuge! Watch the colorful marine life while safely shielded from the coastal downpours and strong winds outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Coastal Path (Sentier du Littoral)",
+                "hu": "Coastal Path (Sentier du Littoral)",
+                "ro": "Coastal Path (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Die regnerischen Aussichten sind atemberaubend, aber der felsige Weg ist sehr rutschig; es wird dringend empfohlen, Ihr Fahrrad hier zu schieben.",
+                "hu": "A drámai esős kilátás lenyűgöző, de a sziklás ösvény nagyon csúszós; erősen ajánlott, hogy itt inkább tolja a kerékpárt a biztonság érdekében.",
+                "ro": "Priveliștile ploioase sunt uimitoare, dar poteca stâncoasă este foarte alunecoasă; este foarte recomandat să vă împingeți bicicleta aici.",
+                "en": "The dramatic rainy views are stunning, but the rocky path is very slippery; it is highly recommended to push your bike safely here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre frostige Morgenfahrt an der Kirche. Der Mittag bringt eine erfrischende Fahrt am Strand. Tauen Sie an dem kalten Nachmittag im Museum und Aquarium auf. Beenden Sie die Fahrt auf dem Küstenpfad vor dem frühen Sonnenuntergang.",
+            "hu": "Indítsa fagyos reggeli túráját a templomnál. A dél frissítő tekerést hoz a strand és a hullámmedence mellett. Olvadjon ki a múzeumban és az akváriumban a hideg délutánon. Fejezze be az utat a parti ösvényen a korai naplemente előtt.",
+            "ro": "Începeți plimbarea rece de dimineață la biserică. Prânzul aduce o pedalare revigorantă pe plajă. Încălziți-vă la muzeu și acvariu în după-amiaza rece. Terminați traseul pe poteca de coastă înainte de apusul de la ora 17:00.",
+            "en": "Kick off your frosty morning ride at the church. Midday brings a bracing cycle by the beach and wave pool. Defrost in the museum and aquarium during the cold afternoon. Finish the ride along the coastal path just before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Cyr Church",
+                "hu": "Saint-Cyr Church",
+                "ro": "Saint-Cyr Church",
+                "en": "Saint-Cyr Church"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre kühle Radtour hier. Die Morgensonne wärmt das historische Steininnere. Vergessen Sie Ihre dicken Thermosocken nicht.",
+                "hu": "Kezdje itt a csípős kerékpártúrát. A történelmi kőbelső felmelegszik a reggeli naptól. Ne felejtse otthon a vastag termozokniját.",
+                "ro": "Începeți aici turul rece cu bicicleta. Soarele dimineții încălzește interiorul istoric de piatră. Nu uitați șosetele termice.",
+                "en": "Start your chilly bike tour here. The morning sun through the windows warms the historic stone interior. Do not forget your thermal socks."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Lecques Beach",
+                "hu": "Les Lecques Beach",
+                "ro": "Les Lecques Beach",
+                "en": "Les Lecques Beach"
+              },
+              "tip_5lang": {
+                "de": "Die eisige Meeresbrise erfordert dicke Radhandschuhe, aber der leere Winterstrand ist beim Vorbeifahren unglaublich friedlich und ruhig.",
+                "hu": "A jeges tengeri szellő miatt vastag kerékpáros kesztyűre lesz szüksége, de az üres téli strand hihetetlenül békés és csendes tekerés közben.",
+                "ro": "Briza marină înghețată necesită mănuși groase de ciclism, dar plaja goală de iarnă este incredibil de liniștită când treceți pe lângă ea.",
+                "en": "The icy sea breeze means you will need thick cycling gloves, but the empty winter beach is incredibly serene and peaceful as you ride by."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscine à vagues",
+                "hu": "Piscine à vagues",
+                "ro": "Piscine à vagues",
+                "en": "Piscine à vagues"
+              },
+              "tip_5lang": {
+                "de": "Selbst im Winter bietet ein beheiztes Indoor-Wellenbad eine fantastische, aktive Flucht vor der klirrend kalten Mittelmeerluft.",
+                "hu": "Még télen is, egy fűtött fedett hullámmedence fantasztikus, aktív menedéket nyújt a csípősen hideg mediterrán levegő elől.",
+                "ro": "Chiar și iarna, o piscină interioară încălzită oferă o evadare fantastică și activă de la aerul mediteranean rece și tăios.",
+                "en": "Even in winter, an indoor heated wave pool offers a fantastic, active escape from the biting cold Mediterranean air outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauroentum Museum",
+                "hu": "Tauroentum Museum",
+                "ro": "Tauroentum Museum",
+                "en": "Tauroentum Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um gefrorene Finger aufzutauen. Erkunden Sie die antiken römischen Villen in einem angenehm beheizten Raum abseits des Windes.",
+                "hu": "Remek hely a megfagyott ujjak kiolvasztására. Fedezze fel az ókori római villákat egy kényelmesen fűtött térben, távol a széltől.",
+                "ro": "Un loc minunat pentru a vă dezgheța degetele. Explorați vilele antice romane într-un spațiu confortabil încălzit, departe de vânt.",
+                "en": "A great place to thaw your frozen fingers. Explore the ancient Roman villas in a comfortably heated, quiet space away from the harsh wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Aquarium La Madrague",
+                "hu": "Aquarium La Madrague",
+                "ro": "Aquarium La Madrague",
+                "en": "Aquarium La Madrague"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die warmen Indoor-Exponate. Eine gemütliche Art, den späten Nachmittag zu verbringen, ohne draußen zu frieren.",
+                "hu": "Merüljön el a meleg beltéri kiállításokban. Hangulatos módja a késő délután eltöltésének, anélkül, hogy kint fagyoskodna a nyeregben.",
+                "ro": "Scufundați-vă în exponatele calde din interior. Un mod confortabil de a petrece după-amiaza fără a îngheța pe bicicletă afară.",
+                "en": "Dive into the warm indoor exhibits. A cozy way to spend the late afternoon learning about local sea life without freezing outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Coastal Path (Sentier du Littoral)",
+                "hu": "Coastal Path (Sentier du Littoral)",
+                "ro": "Coastal Path (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Fahrt sorgfältig, um vor dem frühen Sonnenuntergang um 17:00 Uhr anzukommen. Sorgen Sie für starke Fahrradlichter für den Rückweg.",
+                "hu": "Időzítse óvatosan az utat, hogy elcsípje a korai, 17 órás naplementét. Gondoskodjon róla, hogy a kerékpárján erős lámpák legyenek a sötét visszaútra.",
+                "ro": "Planificați-vă plimbarea cu atenție pentru apusul de la ora 17:00. Asigurați-vă că bicicleta are lumini puternice pentru întoarcerea pe întuneric.",
+                "en": "Time your ride carefully to catch the golden hour before the early 17:00 sunset. Ensure your bike has strong lights for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Reggel autózzon a helyi templomtól a víziparkig egy aktív kezdéshez. Délben tegyen egy rövid sétát a strandon, majd vezessen egy vidám minigolf-partira. Délután fedezze fel a római örökséget a múzeumban, a kikötő közelében parkolva. Az este tökéletes befejezése egy séta a fenséges parti ösvényen.",
         "ro": "Conduceți dimineața de la biserica locală la parcul acvatic pentru un început activ. La prânz, faceți o scurtă plimbare la plajă și apoi conduceți pentru o rundă de minigolf. După-amiaza, descoperiți moștenirea romană la muzeu și parcați în port. Seara se încheie cu o plimbare pe poteca de coastă.",
         "en": "Drive in the morning from the local church to the water park for an active start. Midday, take a short walk to the beach for relaxation, then drive to a fun mini golf session. In the afternoon, discover Roman heritage at the museum, parking near the port. Wrap up the evening exploring the coastal path."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie für einen trockenen Start zur Kirche. Genießen Sie die dramatische Regenaussicht am Strand vom Auto aus. Spielen Sie nasses Minigolf, dann ab ins trockene Museum. Beenden Sie den Tag am Hafen mit einem stabilen Regenschirm.",
+            "hu": "Vezessen a templomhoz egy száraz kezdésért. Irány a vízipark és a part, élvezze a drámai esős kilátást a kocsiból. Játsszon egy vizes minigolfot, majd vonuljon vissza a benti múzeumba. Zárja a kikötőben egy erős esernyővel.",
+            "ro": "Conduceți la biserică pentru un început uscat. Mergeți la plajă, bucurându-vă de priveliștile ploioase din mașină. Jucați mini golf umed, apoi retrageți-vă în muzeu. Încheiați la port și poteca de coastă cu o umbrelă robustă.",
+            "en": "Drive to the church for a dry start. Head to the waterpark and beach, enjoying the dramatic rainy views from your car. Play a wet round of mini golf, then retreat to the indoor museum. Conclude at the port with a sturdy umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Cyr Church",
+                "hu": "Saint-Cyr Church",
+                "ro": "Saint-Cyr Church",
+                "en": "Saint-Cyr Church"
+              },
+              "tip_5lang": {
+                "de": "Eilen Sie vom Auto zum Eingang; das ruhige Innere ist ein perfekter trockener Zufluchtsort vor den anhaltenden Morgenschauern.",
+                "hu": "Fussanak a parkoló autótól a bejáratig; a nyugodt belső tér tökéletes száraz menedék a kitartó reggeli záporok elől.",
+                "ro": "Grăbiți-vă de la mașina parcată la intrare; interiorul liniștit este un refugiu uscat perfect din calea averselor persistente de dimineață.",
+                "en": "Dash from your parked car to the entrance; the tranquil interior is a perfect dry refuge from the persistent morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqualand Saint-Cyr-sur-Mer",
+                "hu": "Aqualand Saint-Cyr-sur-Mer",
+                "ro": "Aqualand Saint-Cyr-sur-Mer",
+                "en": "Aqualand Saint-Cyr-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Nasses Wetter bedeutet kürzere Schlangen, falls geöffnet! Bewahren Sie eine wasserdichte Tasche für Ihre Autoschlüssel im Kofferraum auf.",
+                "hu": "A nedves idő rövidebb sorokat jelent, ha nyitva van! Tartson egy vízálló táskát a slusszkulcsnak és száraz ruhát a csomagtartóban.",
+                "ro": "Vremea umedă înseamnă cozi mai scurte dacă este deschis! Păstrați o geantă impermeabilă pentru cheile mașinii în portbagaj.",
+                "en": "Wet weather means shorter lines if open! Keep a waterproof bag for your car keys and a change of dry clothes waiting in the trunk."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Lecques Beach",
+                "hu": "Les Lecques Beach",
+                "ro": "Les Lecques Beach",
+                "en": "Les Lecques Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen stürmischen Wellen bequem aus Ihrem beheizten Auto oder steigen Sie kurz mit einem stabilen Regenschirm aus.",
+                "hu": "Nézze a drámai viharos hullámokat kényelmesen a fűtött autóból, vagy szálljon ki egy rövid időre egy erős, szélálló esernyővel.",
+                "ro": "Urmăriți valurile furtunoase dramatic din mașina încălzită sau ieșiți scurt cu o umbrelă robustă rezistentă la vânt.",
+                "en": "Watch the dramatic stormy waves comfortably from your heated car, or step out briefly with a sturdy, wind-resistant umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Mini golf de Saint-Cyr-sur-Mer",
+                "hu": "Mini golf de Saint-Cyr-sur-Mer",
+                "ro": "Mini golf de Saint-Cyr-sur-Mer",
+                "en": "Mini golf de Saint-Cyr-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Regenpfützen bieten eine unerwartete Herausforderung auf dem Platz! Tragen Sie wasserfeste Schuhe und halten Sie ein Handtuch im Auto bereit.",
+                "hu": "Az esőtócsák szórakoztató, váratlan kihívást adnak a pályának! Viseljen vízálló cipőt, és tartson egy száraz törölközőt a kocsiban.",
+                "ro": "Bălțile adaugă o provocare amuzantă terenului! Purtați încălțăminte impermeabilă și păstrați un prosop uscat în mașină.",
+                "en": "Rain puddles add a fun, unexpected challenge to the course! Wear waterproof shoes and keep a dry towel waiting for you in your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauroentum Museum",
+                "hu": "Tauroentum Museum",
+                "ro": "Tauroentum Museum",
+                "en": "Tauroentum Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und treten Sie ein, um den starken Schauern zu entkommen. Die römischen Artefakte sind perfekt erhalten und völlig trocken.",
+                "hu": "Parkoljon a közelben, és lépjen be, hogy könnyen elkerülje a heves záporokat. A római leletek tökéletesen megőrzöttek és teljesen szárazak.",
+                "ro": "Parcați în apropiere și intrați pentru a scăpa de averse. Artefactele romane sunt perfect conservate și complet uscate.",
+                "en": "Park nearby and step inside to easily escape the heavy showers. The Roman artifacts are perfectly preserved and entirely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "La Madrague Port",
+                "hu": "La Madrague Port",
+                "ro": "La Madrague Port",
+                "en": "La Madrague Port"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam um den Hafen. Der Regen macht das Kopfsteinpflaster glatt, aber die nassen Boote sehen sehr atmosphärisch aus.",
+                "hu": "Vezessen lassan a kikötő körül. Az eső hihetetlenül csúszóssá teszi a macskaköveket, de a vizes hajók nagyon hangulatosak.",
+                "ro": "Conduceți încet în jurul portului. Ploaia face pietrele foarte alunecoase, dar bărcile umede arată foarte atmosferic.",
+                "en": "Drive slowly around the harbor. The rain makes the cobblestones incredibly slick, but the wet docked boats look highly atmospheric."
+              }
+            },
+            {
+              "name": {
+                "de": "Coastal Path (Sentier du Littoral)",
+                "hu": "Coastal Path (Sentier du Littoral)",
+                "ro": "Coastal Path (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenmantel fest geschlossen. Die stürmische Gischt ist schön, aber der felsige Weg erfordert sehr vorsichtige Schritte.",
+                "hu": "Tartsa szorosan behúzva az esőkabátját. A viharos tengeri permet gyönyörű, de a sziklás túraútvonal nagyon óvatos lépéseket igényel.",
+                "ro": "Țineți pelerina de ploaie bine închisă. Stropii mării sunt frumoși, dar traseul stâncos necesită pași foarte atenți.",
+                "en": "Keep your raincoat tightly zipped. The stormy sea spray is beautiful, but the rocky hiking trail requires very careful, slow steps."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einer beheizten Fahrt zur Kirche. Der Mittag bietet frische Stopps am Strand und beim Minigolf. Verbringen Sie einen gemütlichen Nachmittag im Museum. Parken Sie am Hafen für einen Küstenspaziergang vor der Dunkelheit um 17:00 Uhr.",
+            "hu": "Kezdjen egy fűtött autózással a templomhoz. A dél friss, beöltözött megállókat kínál a strandon és a minigolfnál. Töltsön egy hangulatos délutánt a múzeumban. Parkoljon le a kikötőben a lenyűgöző parti sétához a 17 órás sötétedés előtt.",
+            "ro": "Începeți cu o plimbare încălzită cu mașina la biserică. Prânzul oferă opriri revigorante la plajă și mini golf. Petreceți o după-amiază confortabilă în muzeu. Parcați la port pentru o plimbare pe coastă înainte de a se întuneca la 17:00.",
+            "en": "Start with a heated drive to the church. Midday offers brisk, bundled-up stops at the waterpark, beach, and mini golf. Spend a cozy afternoon inside the ancient museum. Park at the port for a stunning coastal path walk before it gets dark at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Cyr Church",
+                "hu": "Saint-Cyr Church",
+                "ro": "Saint-Cyr Church",
+                "en": "Saint-Cyr Church"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung macht die Fahrt angenehm, aber die alten Steine der Kirche sind eiskalt; tragen Sie drinnen eine gute Winterjacke.",
+                "hu": "A fűtés kellemessé teszi az utat, de a templom ősi kövei még mindig fagyosak lesznek; viseljen jó téli kabátot odabent.",
+                "ro": "Încălzirea mașinii face călătoria plăcută, dar pietrele antice ale bisericii vor fi înghețate; purtați o geacă bună de iarnă înăuntru.",
+                "en": "The car heater makes the trip pleasant, but the church's ancient stones will still be freezing; wear a good winter jacket inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqualand Saint-Cyr-sur-Mer",
+                "hu": "Aqualand Saint-Cyr-sur-Mer",
+                "ro": "Aqualand Saint-Cyr-sur-Mer",
+                "en": "Aqualand Saint-Cyr-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Während die Anlagen geschlossen sein mögen, sehen die Strukturen vor dem blassen Winterhimmel markant aus. Genießen Sie das ruhige Parken.",
+                "hu": "Bár a csúszdák zárva lehetnek, a hatalmas építmények feltűnőek a halvány téli égbolt előtt. Élvezze a csendes, problémamentes parkolást.",
+                "ro": "Deși atracțiile pot fi închise, structurile uriașe arată izbitor pe cerul palid de iarnă. Bucurați-vă de parcarea liniștită.",
+                "en": "While rides may be closed, the huge structures look striking against the pale winter sky. Enjoy the quiet, hassle-free parking here."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Lecques Beach",
+                "hu": "Les Lecques Beach",
+                "ro": "Les Lecques Beach",
+                "en": "Les Lecques Beach"
+              },
+              "tip_5lang": {
+                "de": "Der frische Winterwind ist belebend und macht einen kurzen, dick eingepackten Spaziergang erfrischend, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "A friss téli szél élénkítő, így egy rövid, jól beöltözött séta rendkívül frissítő lesz, mielőtt gyorsan visszatérne a meleg autóba.",
+                "ro": "Vântul aspru de iarnă este revigorant, făcând o scurtă plimbare bine îmbrăcată foarte răcoritoare înainte de a vă întoarce la mașina caldă.",
+                "en": "The brisk winter wind is bracing, making a quick, heavily bundled-up walk highly refreshing before quickly returning to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mini golf de Saint-Cyr-sur-Mer",
+                "hu": "Mini golf de Saint-Cyr-sur-Mer",
+                "ro": "Mini golf de Saint-Cyr-sur-Mer",
+                "en": "Mini golf de Saint-Cyr-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Ein frisches Winterspiel hält den Kreislauf in Schwung. Tragen Sie Thermokleidung und genießen Sie die friedlichen Grüns ohne Sommerhitze.",
+                "hu": "Egy frissítő téli játék felpezsdíti a vért. Viseljen termo rétegeket, és élvezze a tömeg nélküli, békés zöldeket a nyári hőség nélkül.",
+                "ro": "Un joc de iarnă revigorant vă pune sângele în mișcare. Purtați haine termice și bucurați-vă de terenurile liniștite fără căldura verii.",
+                "en": "A brisk winter game keeps the blood pumping. Wear thermal layers and enjoy the uncrowded, peaceful greens without the intense summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauroentum Museum",
+                "hu": "Tauroentum Museum",
+                "ro": "Tauroentum Museum",
+                "en": "Tauroentum Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein fantastischer, zugänglicher Ort, um sich am Nachmittag aufzuwärmen. Die römischen Exponate sind ein gemütlicher Rückzugsort vor dem Frost.",
+                "hu": "Fantasztikus, könnyen megközelíthető hely a délutáni felmelegedéshez. A beltéri római kiállítások hangulatos menedéket nyújtanak a fagy elől.",
+                "ro": "Un loc fantastic, accesibil, pentru a vă încălzi după-amiaza. Exponatele romane de interior sunt o retragere educațională confortabilă din frig.",
+                "en": "A fantastic, accessible spot to warm up in the afternoon. The indoor Roman exhibits are a cozy, educational retreat from the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "La Madrague Port",
+                "hu": "La Madrague Port",
+                "ro": "La Madrague Port",
+                "en": "La Madrague Port"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie und holen Sie sich eine heiße Schokolade. Das tiefe Winternachmittagslicht lässt die Fischerboote in lebendigen Farben erstrahlen.",
+                "hu": "Parkoljon le, és vegyen egy forró csokit a közelben. Az alacsony téli délutáni fény vibráló, gyönyörű színekben tünteti fel a halászhajókat.",
+                "ro": "Parcați și luați o ciocolată caldă în apropiere. Lumina joasă de iarnă face bărcile de pescuit să iasă în evidență cu culori vibrante.",
+                "en": "Park and grab a hot chocolate nearby. The low winter afternoon light makes the fishing boats pop with vibrant, beautiful colors."
+              }
+            },
+            {
+              "name": {
+                "de": "Coastal Path (Sentier du Littoral)",
+                "hu": "Coastal Path (Sentier du Littoral)",
+                "ro": "Coastal Path (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie weit vor 16:30 Uhr für den Spaziergang an. Der Wintersonnenuntergang ist atemberaubend, aber die Temperaturen sinken danach schnell.",
+                "hu": "Érkezzen jóval 16:30 előtt a sétára. A tenger feletti téli naplemente lenyűgöző, de a hőmérséklet gyorsan csökken a naplemente után.",
+                "ro": "Ajungeți bine înainte de 16:30 pentru plimbare. Apusul de iarnă pe mare este uimitor, dar temperaturile scad rapid când soarele apune.",
+                "en": "Arrive well before 16:30 for the walk. The winter sunset over the sea is stunning, but temperatures drop rapidly when the sun sets."
+              }
+            }
+          ]
+        }
       }
     }
   }

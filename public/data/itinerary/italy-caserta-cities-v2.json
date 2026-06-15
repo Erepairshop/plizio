@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Fedezze fel Caserta történelmi magját, kezdve a Vanvitelli-emlékművel, mielőtt elmerülne a Palazzo Commestibili nyüzsgő légkörében.\n\nDél: Csodálja meg a San Michele Arcangelo katedrális spirituális és művészeti nagyszerűségét, amely békés előjátéka a monumentális királyi kerteknek.\n\nDélután: Keljen át a Fontana Margheritán, hogy belépjen a fenséges Királyi Kertekbe, és sétáljon végig a végtelen zöld fasorokon.\n\nEste: Zárja utazását a lélegzetelállító Cascata dei Delfininél, és figyelje, ahogy a lemenő nap fénye játszik a fenséges park csobogó vizein.",
         "ro": "Dimineața: Explorați centrul istoric, începând cu Monumentul Vanvitelli, înainte de a vă cufunda în atmosfera vibrantă a Palazzo Commestibili.\n\nPrânz: Admirați măreția spirituală și artistică a Catedralei San Michele Arcangelo, un preludiu pașnic la terenurile regale monumentale.\n\nDupă-amiază: Traversați Fontana Margherita pentru a intra în uimitoarele Grădini Regale, plimbându-vă pe aleile verzi nesfârșite și printre statui.\n\nSeara: Încheiați-vă călătoria la uluitoarea Cascadă a Delfinilor, privind lumina apusului care se joacă pe apele curgătoare ale acestui parc.",
         "en": "Morning: Explore Caserta's historic core, starting at the Vanvitelli Monument before immersing yourself in the bustling atmosphere of Palazzo Commestibili.\n\nMidday: Marvel at the spiritual and artistic grandeur of the Cathedral of San Michele Arcangelo, a peaceful prelude to the monumental royal grounds.\n\nAfternoon: Cross Fontana Margherita to enter the awe-inspiring Royal Gardens, walking past endless green avenues and classical statues.\n\nEvening: Conclude your journey at the breathtaking Cascata dei Delfini, watching the sunset light play on the tumbling waters of this majestic park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Caserta beginnt am Vanvitelli-Denkmal. Nutzen Sie die nahen Arkaden als Schutz. Mittags bietet die Kathedrale trockene Stille. Nachmittags wirken die königlichen Gärten unter grauem Himmel fast mystisch, doch Vorsicht auf den rutschigen Wegen. Abends spiegeln sich die Lichter der Stadt in den Pfützen und verleihen der Piazza ein glänzendes, neues Gesicht.",
+            "hu": "Egy esős nap Casertában a Vanvitelli-emlékműnél kezdődik, ahol a közeli árkádok nyújtanak menedéket. Délben a katedrális belső terei kínálnak száraz nyugalmat. Délután a királyi kertek a szürke égbolt alatt misztikus arcukat mutatják, de ügyeljen a csúszós ösvényekre. Este a város fényei megcsillannak a tócsákban, teljesen új megvilágításba helyezve a főteret.",
+            "ro": "O zi ploioasă în Caserta începe la Monumentul Vanvitelli, unde arcadele din apropiere oferă adăpost. La prânz, interiorul catedralei oferă liniște și uscăciune. După-amiaza, Grădinile Regale sub cerul gri par aproape mistice, dar atenție la potecile alunecoase. Seara, luminile orașului se oglindesc în bălți, oferind pieței o față strălucitoare și nouă.",
+            "en": "A rainy day in Caserta begins at the Vanvitelli Monument, with nearby porticos providing shelter. At noon, the cathedral's interior offers dry serenity. In the afternoon, the Royal Gardens under grey skies look almost mystical, but watch out for slippery paths. In the evening, the city lights reflect in the puddles, giving the main square a shiny, brand-new appearance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Luigi Vanvitelli",
+                "hu": "Luigi Vanvitelli-emlékmű",
+                "ro": "Monumentul lui Luigi Vanvitelli",
+                "en": "Monumento a Luigi Vanvitelli"
+              },
+              "tip_4lang": {
+                "de": "Betrachten Sie das Denkmal des Architekten; bei starkem Regen bieten die umliegenden Gebäude schnellen Unterschlupf. Tragen Sie wasserfeste Schuhe für das Pflaster.",
+                "hu": "Csodálja meg az építész szobrát az esernyője alól; hirtelen zápor esetén a szomszédos épületek árkádjai alatt gyorsan menedéket találhat.",
+                "ro": "Admirați statuia arhitectului de sub umbrelă; în caz de ploaie bruscă, arcadele clădirilor învecinate vă oferă un adăpost rapid și sigur.",
+                "en": "View the architect's monument from under your umbrella; the nearby building porticos provide quick shelter should the rain intensify suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Commestibili",
+                "hu": "Palazzo Commestibili",
+                "ro": "Palazzo Commestibili",
+                "en": "Palazzo Commestibili"
+              },
+              "tip_4lang": {
+                "de": "Erkunden Sie die Fassade dieses historischen Gebäudes. Die Hauseingänge in der Nähe dienen als kurzzeitiger Regenschutz beim Fotografieren der Details.",
+                "hu": "Fedezze fel a történelmi épület homlokzatát. A közeli kapualjak kiváló ideiglenes menedéket nyújtanak, miközben az esőben is fotózhatja a részleteket.",
+                "ro": "Explorați fațada acestei clădiri istorice. Intrările din apropiere servesc drept adăpost temporar în timp ce fotografiați detaliile arhitecturale pe ploaie.",
+                "en": "Explore the facade of this historic building. Nearby doorways serve as excellent temporary shelters while you capture the details through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Michele Arcangelo",
+                "hu": "San Michele Arcangelo Katedrális",
+                "ro": "Catedrala San Michele Arcangelo",
+                "en": "Cattedrale di San Michele Arcangelo"
+              },
+              "tip_4lang": {
+                "de": "Dies ist der ideale Ort, um dem Regen zu entkommen. Bewundern Sie die religiöse Kunst im Trockenen und warten Sie hier den stärksten Schauer ab.",
+                "hu": "Ez a tökéletes hely az eső elől való menekülésre. Csodálja meg a vallási művészetet szárazon, és várja meg itt, amíg a legerősebb zápor elvonul.",
+                "ro": "Acesta este locul ideal pentru a scăpa de ploaie. Admirați arta religioasă la loc uscat și așteptați aici până trece cea mai puternică aversă.",
+                "en": "This is the perfect spot to escape the rain. Admire the religious art in the dry interior and wait here for the heaviest showers to pass safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana Margherita",
+                "hu": "Fontana Margherita",
+                "ro": "Fontana Margherita",
+                "en": "Fontana Margherita"
+              },
+              "tip_4lang": {
+                "de": "Der Brunnen wirkt bei Regen besonders dynamisch. Halten Sie Ihr Handy unter dem Regenschirm geschützt, wenn Sie das Spiel der Wassertropfen festhalten.",
+                "hu": "A szökőkút különösen dinamikusnak tűnik esőben. Tartsa telefonját az esernyő védelmében, miközben megörökíti a vízcseppek különleges táncát.",
+                "ro": "Fântâna pare deosebit de dinamică în ploaie. Protejați-vă telefonul sub umbrelă în timp ce surprindeți jocul picăturilor de apă pe monument.",
+                "en": "The fountain looks especially dynamic in the rain. Keep your phone protected under your umbrella while capturing the dance of the water droplets."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Gärten",
+                "hu": "Királyi Kertek",
+                "ro": "Grădinile Regale",
+                "en": "Royal Gardens - Royal Palace of Caserta"
+              },
+              "tip_4lang": {
+                "de": "Die Vegetation leuchtet bei Regen intensiv grün. Bleiben Sie auf den befestigten Wegen, da die Rasenflächen schnell schlammig und rutschig werden.",
+                "hu": "A növényzet esőben intenzív zöld színben pompázik. Maradjon a kövezett utakon, mert a füves részek gyorsan sárossá és csúszóssá válhatnak.",
+                "ro": "Vegetația strălucește într-un verde intens pe ploaie. Rămâneți pe aleile pavate, deoarece zonele cu iarbă pot deveni rapid noroioase și alunecoase.",
+                "en": "The vegetation glows with intense green in the rain. Stick to the paved paths, as the grassy areas can quickly become muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata dei Delfini",
+                "hu": "Cascata dei Delfini",
+                "ro": "Cascata dei Delfini",
+                "en": "Cascata dei Delfini"
+              },
+              "tip_4lang": {
+                "de": "Der Wasserfall verschmilzt faszinierend mit dem Regen. Tragen Sie eine Kapuze gegen den Wind und genießen Sie das Rauschen des Wassers aus sicherer Distanz.",
+                "hu": "A vízesés látványa lenyűgöző módon olvad össze az esővel. Viseljen kapucnit a szél ellen, és élvezze a víz morajlását biztonságos távolságból.",
+                "ro": "Cascada se îmbină fascinant cu ploaia. Purtați o glugă împotriva vântului și bucurați-vă de vuietul apei de la o distanță sigură și uscată.",
+                "en": "The waterfall merges fascinatingly with the falling rain. Wear a hood against the wind and enjoy the roar of the water from a safe, dry distance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Caserta im Winter empfängt Sie mit klarer, kalter Luft am Vanvitelli-Platz. Mittags wärmen die Sonnenstrahlen die Kathedrale auf, ein idealer Rückzugsort. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die königlichen Gärten am frühen Nachmittag besuchen. Der Abend wird kühl, perfekt für einen heißen Espresso in einer gemütlichen Bar im historischen Zentrum.",
+            "hu": "A téli Caserta friss, hideg levegővel várja a Vanvitelli-téren. Délben a katedrális belső terei nyújtanak menedéket a hideg elől. Mivel a nap már 17:00 körül lemegy, a királyi kerteket kora délutánra érdemes tervezni. Az este hűvös lesz, ideális alkalom egy forró eszpresszóra a történelmi központ egyik hangulatos bárjában.",
+            "ro": "Caserta iarna vă întâmpină cu aer curat și rece în Piața Vanvitelli. La prânz, interiorul catedralei oferă un refugiu cald în fața frigului de afară. Deoarece soarele apune deja în jurul orei 17:00, vizitați Grădinile Regale devreme. Seara devine răcoroasă, perfectă pentru un espresso fierbinte într-un bar primitor din centru.",
+            "en": "Caserta in winter welcomes you with crisp, cold air at Vanvitelli Square. At noon, the cathedral's interior provides a warm sanctuary from the chill. Since the sun sets around 17:00, plan your visit to the Royal Gardens for early afternoon. The evening turns chilly, perfect for a hot espresso in a cozy bar within the historic center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Luigi Vanvitelli",
+                "hu": "Luigi Vanvitelli-emlékmű",
+                "ro": "Monumentul lui Luigi Vanvitelli",
+                "en": "Monumento a Luigi Vanvitelli"
+              },
+              "tip_4lang": {
+                "de": "Das Winterlicht hebt die Konturen der Statue hervor. Tragen Sie einen Schal, da der offene Platz im Winter oft sehr zugig und kalt sein kann.",
+                "hu": "A téli fények élesen kiemelik a szobor körvonalait. Viseljen sálat, mivel a nyitott tér télen gyakran huzatos és meglehetősen hideg lehet.",
+                "ro": "Lumina de iarnă scoate în evidență contururile statuii. Purtați un fular, deoarece piața deschisă poate fi foarte expusă vântului rece de iarnă.",
+                "en": "The winter light sharply highlights the statue's contours. Wear a scarf, as the open square can be quite drafty and cold during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Commestibili",
+                "hu": "Palazzo Commestibili",
+                "ro": "Palazzo Commestibili",
+                "en": "Palazzo Commestibili"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die Architektur in der sanften Wintersonne. Nutzen Sie die Mittagsstunden für Fotos, wenn die Schatten am weichsten und wärmsten wirken.",
+                "hu": "Csodálja meg az építészetet a lágy téli napsütésben. Használja ki a déli órákat a fotózáshoz, amikor az árnyékok a leglágyabbak és legmelegebbek.",
+                "ro": "Admirați arhitectura în lumina blândă a soarelui de iarnă. Folosiți orele amiezii pentru fotografii, când umbrele par cele mai calde și moi.",
+                "en": "Admire the architecture in the soft winter sunshine. Take advantage of the midday hours for photos, when the shadows appear softest and warmest."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Michele Arcangelo",
+                "hu": "San Michele Arcangelo Katedrális",
+                "ro": "Catedrala San Michele Arcangelo",
+                "en": "Cattedrale di San Michele Arcangelo"
+              },
+              "tip_4lang": {
+                "de": "Ein Ort der Wärme und Besinnung. Die dicken Mauern schützen vor dem Wind; genießen Sie die friedliche Winteratmosphäre im Inneren der Kathedrale.",
+                "hu": "A melegség és az elmélyülés helyszíne. A vastag falak védenek a szél ellen; élvezze a katedrális belső terének békés, téli hangulatát.",
+                "ro": "Un loc al căldurii și reflecției. Zidurile groase protejează împotriva vântului; bucurați-vă de atmosfera pașnică de iarnă din interiorul catedralei.",
+                "en": "A place of warmth and reflection. The thick walls shield you from the wind; enjoy the peaceful winter atmosphere inside the cathedral's nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontana Margherita",
+                "hu": "Fontana Margherita",
+                "ro": "Fontana Margherita",
+                "en": "Fontana Margherita"
+              },
+              "tip_4lang": {
+                "de": "Das Wasser glitzert im kühlen Winterlicht. Halten Sie sich nur kurz auf, da die Feuchtigkeit die Luft in Brunnenähe noch kälter erscheinen lässt.",
+                "hu": "A víz csillogása különleges a hűvös téli fényben. Csak rövid ideig maradjon, mivel a pára miatt a levegőt még hidegebbnek érezheti a kútnál.",
+                "ro": "Sclipirea apei este deosebită în lumina rece de iarnă. Rămâneți doar scurt timp, deoarece umiditatea face ca aerul să pară și mai rece lângă fântână.",
+                "en": "The sparkle of the water is unique in the cool winter light. Keep your visit brief, as the mist can make the air feel even colder near the fountain."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Gärten",
+                "hu": "Királyi Kertek",
+                "ro": "Grădinile Regale",
+                "en": "Royal Gardens - Royal Palace of Caserta"
+              },
+              "tip_4lang": {
+                "de": "Die Gärten wirken im Winter ruhig und weitläufig. Achten Sie auf die Zeit; vor dem Sonnenuntergang um 17:00 Uhr ist das Licht am schönsten.",
+                "hu": "A kertek télen csendesek és tágasak. Ügyeljen az időre; a 17:00 órai naplemente előtt a fények lenyűgöző aranyszínbe vonják a tájat.",
+                "ro": "Grădinile par liniștite și vaste iarna. Atenție la timp; înainte de apusul soarelui de la ora 17:00, lumina îmbracă peisajul în culori superbe.",
+                "en": "The gardens appear quiet and vast in winter. Watch the clock; before the 17:00 sunset, the light bathes the landscape in stunning golden hues."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata dei Delfini",
+                "hu": "Cascata dei Delfini",
+                "ro": "Cascata dei Delfini",
+                "en": "Cascata dei Delfini"
+              },
+              "tip_4lang": {
+                "de": "Ein dramatischer Anblick im Winternebel. Ziehen Sie warme Handschuhe an, da die Gischt und der Wind am Ende des Parks sehr kühl sein können.",
+                "hu": "Drámai látvány a téli párában. Húzzon meleg kesztyűt, mivel a park végén a vízpermet és a szél miatt jóval hidegebbnek érezheti az időt.",
+                "ro": "O priveliște dramatică în ceața de iarnă. Puneți-vă mănuși calde, deoarece spray-ul de apă și vântul de la capătul parcului pot fi foarte reci.",
+                "en": "A dramatic sight in the winter mist. Put on warm gloves, as the water spray and the wind at the far end of the park can be significantly colder."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Délelőtt: Kerekezzen végig az elegáns utcákon, csodálja meg a Palazzo Paternót, majd merüljön el az ipartörténetben az Olivetti Technológiai Múzeumban.\n\nDél: Álljon meg a San Michele Arcangelo katedrálisnál egy csendes elmélkedésre, mielőtt a Palazzo al Boschetto kulturális kiállításai felé venné az irányt.\n\nDélután: Tekerjen be a hatalmas királyi parkba, és tegyen egy szórakoztató kitérőt a Castellucciához, a királyi szórakozásra épült miniatűr erődhöz.\n\nEste: Élvezze a kényelmes gurulást a Királyi Kertekben, és koronázza meg a napját a látványos Delfini-szökőkút lezúduló vizeinél.",
         "ro": "Dimineața: Pedalați pe străzile elegante pentru a admira Palazzo Paternò, apoi scufundați-vă în istoria industrială la Muzeul Tehnologiei Olivetti.\n\nPrânz: Opriți-vă la Catedrala San Michele Arcangelo pentru un moment de liniște, înainte de a merge spre expozițiile culturale de la Palazzo al Boschetto.\n\nDupă-amiază: Călătoriți în vastul parc regal, făcând un ocol distractiv la Castelluccia, o fascinantă fortăreață miniaturală construită pentru relaxare.\n\nSeara: Bucurați-vă de o plimbare ușoară prin Grădinile Regale, încheindu-vă ziua la apele în cascadă ale spectaculoasei fântâni Delfini.",
         "en": "Morning: Pedal through the elegant streets to admire Palazzo Paternò, then dive into industrial history at the Adriano Olivetti Technology Museum.\n\nMidday: Stop by the Cathedral of San Michele Arcangelo for a moment of quiet reflection, before riding out towards the cultural exhibits of Palazzo al Boschetto.\n\nAfternoon: Cycle into the vast Royal park lands, making a fun detour to the Castelluccia, the fascinating miniature fortress built for royal recreation.\n\nEvening: Enjoy an easy cruise through the Royal Gardens, capping off your day at the cascading waters of the spectacular Delfini fountain."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf zwei Rädern erfordert Vorsicht am Palazzo Paternò. Die Museen sind ideale Etappenziele, um im Trockenen zu bleiben. Mittags bietet die Kathedrale eine willkommene Pause vom Regen. Die Wege im Boschetto können rutschig sein, fahren Sie also langsam. Beenden Sie die Tour am frühen Abend, bevor die Sicht bei Regen im Park zu stark abnimmt.",
+            "hu": "Az esős nap két keréken óvatosságot igényel a Palazzo Paternò környékén. A múzeumok kiváló megállók, hogy szárazon maradjon. Délben a katedrális nyújt pihenőt az eső elől. A Boschetto ösvényei csúszósak lehetnek, tekerjen lassan. Fejezze be a túrát kora este, mielőtt az esőben túl sokat romlanának a látási viszonyok a parkban.",
+            "ro": "O zi ploioasă pe două roți necesită prudență în jurul Palazzo Paternò. Muzeele sunt opriri excelente pentru a rămâne uscat. La prânz, catedrala oferă un răgaz de ploaie. Potecile din Boschetto pot fi alunecoase, pedalați încet. Încheiați turul seara devreme, înainte ca vizibilitatea în ploaie să scadă prea mult în parc.",
+            "en": "A rainy day on two wheels requires caution around Palazzo Paternò. Museums are excellent pit stops to stay dry. At noon, the cathedral provides a welcome break from the rain. The paths in Boschetto can be slippery, so cycle slowly. Finish the tour in the early evening before visibility in the rain drops too low in the park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Paternò",
+                "hu": "Palazzo Paternò",
+                "ro": "Palazzo Paternò",
+                "en": "Palazzo Paternò"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie beim Absteigen auf das glatte Pflaster. Nutzen Sie die Überdachung des Palastes, um Ihre Regenbekleidung für die Weiterfahrt zu richten.",
+                "hu": "Ügyeljen a csúszós kövezetre leszálláskor. Használja a palota bejárati tetőit, hogy megigazítsa esőruházatát a túra folytatása előtt.",
+                "ro": "Atenție la pavajul alunecos când coborâți de pe bicicletă. Folosiți acoperișul palatului pentru a vă ajusta hainele de ploaie înainte de plecare.",
+                "en": "Watch out for slippery cobbles when dismounting. Use the palace's overhanging structures to adjust your rain gear before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Dinamico della Tecnologia Adriano Olivetti",
+                "hu": "Adriano Olivetti Technológiai Múzeum",
+                "ro": "Muzeul Tehnologiei Adriano Olivetti",
+                "en": "Museo Dinamico della Tecnologia Adriano Olivetti"
+              },
+              "tip_4lang": {
+                "de": "Perfekt für Regentage: Parken Sie Ihr Rad geschützt und erkunden Sie die Technikgeschichte im Trockenen. Ideal für eine längere Pause vom Schauer.",
+                "hu": "Tökéletes esős napokra: parkoljon védett helyen, és fedezze fel a technika történetét szárazon. Ideális hely egy hosszabb eső elleni pihenőre.",
+                "ro": "Perfect pentru zilele ploioase: parcați bicicleta într-un loc protejat și explorați istoria tehnologiei la uscat. Ideal pentru o pauză lungă.",
+                "en": "Perfect for rainy days: park your bike in a sheltered spot and explore tech history in the dry. An ideal place for a longer break from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Michele Arcangelo",
+                "hu": "San Michele Arcangelo Katedrális",
+                "ro": "Catedrala San Michele Arcangelo",
+                "en": "Cattedrale di San Michele Arcangelo"
+              },
+              "tip_4lang": {
+                "de": "Schließen Sie Ihr Rad gut an und genießen Sie die Stille im Inneren. Die dicken Mauern lassen das Trommeln des Regens draußen fast verstummen.",
+                "hu": "Zárja le biztonságosan a biciklit, és élvezze a belső csendet. A vastag falak szinte teljesen elnyomják a kinti eső kopogását.",
+                "ro": "Încuiați bine bicicleta și bucurați-vă de liniștea din interior. Zidurile groase fac ca zgomotul ploii de afară să pară aproape imperceptibil.",
+                "en": "Lock your bike securely and enjoy the silence inside. The thick walls make the drumming of the rain outside sound almost non-existent."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo al Boschetto",
+                "hu": "Palazzo al Boschetto",
+                "ro": "Palazzo al Boschetto",
+                "en": "Palazzo al Boschetto"
+              },
+              "tip_4lang": {
+                "de": "Ein weiterer trockener Zufluchtsort. Prüfen Sie vor der Weiterfahrt durch den Park Ihre Bremsen, da die Wege nun besonders feucht und glatt sind.",
+                "hu": "Egy újabb száraz menedékhely. A parkba való visszatérés előtt ellenőrizze a fékeket, mivel az utak most különösen vizesek és csúszósak.",
+                "ro": "Un alt refugiu uscat. Înainte de a pleca din nou prin parc, verificați frânele, deoarece potecile sunt acum foarte ude și alunecoase.",
+                "en": "Another dry sanctuary. Before heading back into the park, check your brakes as the paths are now especially wet and potentially slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelluccia",
+                "hu": "Castelluccia",
+                "ro": "Castelluccia",
+                "en": "Castelluccia"
+              },
+              "tip_4lang": {
+                "de": "Besichtigen Sie das kleine Schloss nur kurz, um nicht auszukühlen. Die Bäume in der Nähe bieten etwas Schutz vor Wind und leichtem Nieselregen.",
+                "hu": "Csak rövid ideig nézze meg a kis kastélyt, hogy ne hűljön ki. A közeli fák némi védelmet nyújtanak a szél és az enyhe szemerkélés ellen.",
+                "ro": "Vizitați micul castel doar scurt timp pentru a nu vă răci. Copacii din apropiere oferă o oarecare protecție împotriva vântului și a burniței.",
+                "en": "Visit the small castle briefly to avoid getting too cold. The nearby trees provide some protection from the wind and light drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Gärten",
+                "hu": "Királyi Kertek",
+                "ro": "Grădinile Regale",
+                "en": "Royal Gardens - Royal Palace of Caserta"
+              },
+              "tip_4lang": {
+                "de": "Radfahren im Park bei Regen ist ein Erlebnis, erfordert aber Konzentration. Meiden Sie Pfützen, unter denen sich tiefe Löcher verbergen könnten.",
+                "hu": "A parkban való biciklizés esőben különleges élmény, de koncentrációt igényel. Kerülje a tócsákat, mert mély lyukakat rejthetnek maguk alatt.",
+                "ro": "Pedalatul în parc pe ploaie este o experiență, dar necesită concentrare. Evitați bălțile sub care s-ar putea ascunde gropi adânci în drum.",
+                "en": "Cycling through the park in the rain is an experience but requires focus. Avoid puddles, as they might hide deep potholes beneath the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata dei Delfini",
+                "hu": "Cascata dei Delfini",
+                "ro": "Cascata dei Delfini",
+                "en": "Cascata dei Delfini"
+              },
+              "tip_4lang": {
+                "de": "Das Ziel der Tour ist bei Regen besonders imposant. Fahren Sie vorsichtig zurück, da das Licht bei Regen im Park schneller schwächer wird.",
+                "hu": "A túra célpontja esőben különösen lenyűgöző. Tekerjen óvatosan visszafelé, mert az esőben a parkban hamarabb szürkülhet az idő.",
+                "ro": "Destinația turului este deosebit de impunătoare pe ploaie. Pedalați cu grijă înapoi, deoarece lumina scade mai repede în parc când plouă.",
+                "en": "The final destination is especially imposing in the rain. Cycle back carefully as light levels in the park fade faster during rain showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winter-Radtour warm eingepackt am Palazzo Paternò. Die Museen bieten mittags eine perfekte Gelegenheit zum Aufwärmen. Genießen Sie die winterliche Ruhe in der Kathedrale. Achten Sie auf die Zeit im Boschetto, da es im Waldgebiet früher dämmert. Kehren Sie vor Sonnenuntergang um 17:00 Uhr aus dem Park zurück, wenn die Temperaturen schnell sinken.",
+            "hu": "Kezdje téli kerékpártúráját melegen felöltözve a Palazzo Paternò-nál. A múzeumok délben tökéletes alkalmat kínálnak a felmelegedésre. Élvezze a téli nyugalmat a katedrálisban. A Boschetto területén figyeljen az időre, mert az erdős részen hamarabb sötétedik. 17:00 előtt, naplemente előtt térjen vissza a parkból, mert utána gyorsan hűl a levegő.",
+            "ro": "Începeți turul de iarnă pe bicicletă bine îmbrăcat la Palazzo Paternò. Muzeele oferă la prânz ocazia perfectă pentru a vă încălzi. Bucurați-vă de liniștea iernii în catedrală. Atenție la timp în zona Boschetto, deoarece se întunecă mai devreme. Reveniți din parc înainte de apusul de la ora 17:00, când temperaturile scad brusc.",
+            "en": "Start your winter bike tour warmly dressed at Palazzo Paternò. Museums offer a perfect opportunity to warm up at noon. Enjoy the winter serenity in the cathedral. Watch the time in the Boschetto area, as it gets dark earlier in the wooded sections. Return from the park before the 17:00 sunset, as temperatures drop rapidly afterward."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Paternò",
+                "hu": "Palazzo Paternò",
+                "ro": "Palazzo Paternò",
+                "en": "Palazzo Paternò"
+              },
+              "tip_4lang": {
+                "de": "Die Fassade wirkt im Winterlicht besonders edel. Tragen Sie winddichte Handschuhe, um Ihre Hände beim Radfahren durch die kühle Morgenluft zu schützen.",
+                "hu": "A homlokzat különösen nemesnek tűnik a téli fényben. Viseljen szélálló kesztyűt, hogy védje kezeit, miközben a friss reggeli levegőben teker.",
+                "ro": "Fațada pare deosebit de nobilă în lumina iernii. Purtați mănuși rezistente la vânt pentru a vă proteja mâinile în timp ce pedalați prin aerul rece.",
+                "en": "The facade looks especially noble in the winter light. Wear windproof gloves to protect your hands while cycling through the crisp morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Dinamico della Tecnologia Adriano Olivetti",
+                "hu": "Adriano Olivetti Technológiai Múzeum",
+                "ro": "Muzeul Tehnologiei Adriano Olivetti",
+                "en": "Museo Dinamico della Tecnologia Adriano Olivetti"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Ort zum Aufwärmen. Nutzen Sie die Zeit, um Ihre Batterien und die Ihrer elektronischen Geräte bei angenehmen Temperaturen aufzuladen.",
+                "hu": "Ideális hely a felmelegedésre. Használja ki az időt, hogy saját energiáit és elektronikus eszközeit is feltöltse a kellemes belső hőmérsékleten.",
+                "ro": "Un loc ideal pentru a vă încălzi. Profitați de timp pentru a vă reîncărca propriile baterii și pe cele ale dispozitivelor la temperaturi plăcute.",
+                "en": "An ideal place to warm up. Use the time to recharge your own energy and your electronic devices in the pleasant indoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Michele Arcangelo",
+                "hu": "San Michele Arcangelo Katedrális",
+                "ro": "Catedrala San Michele Arcangelo",
+                "en": "Cattedrale di San Michele Arcangelo"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Stille fernab des Winterwindes. Die dicken Mauern speichern die Restwärme und bieten eine friedliche Pause für Körper und Geist.",
+                "hu": "Élvezze a csendet, távol a téli széltől. A vastag falak megtartják a hőt, és békés pihenőt nyújtanak mind a testnek, mind a léleknek a túra közben.",
+                "ro": "Bucurați-vă de liniște departe de vântul iernii. Zidurile groase rețin căldura și oferă o pauză pașnică pentru corp și minte în timpul turului.",
+                "en": "Enjoy the silence far from the winter wind. The thick walls retain some heat and offer a peaceful break for both body and mind during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo al Boschetto",
+                "hu": "Palazzo al Boschetto",
+                "ro": "Palazzo al Boschetto",
+                "en": "Palazzo al Boschetto"
+              },
+              "tip_4lang": {
+                "de": "Das Licht fällt im Winter besonders schön durch die kahlen Bäume. Ein kurzer Museumsbesuch hilft Ihnen, warm für das letzte Stück der Tour zu bleiben.",
+                "hu": "A fények télen különösen szépen szűrődnek át a kopasz ágak között. Egy rövid múzeumlátogatás segít, hogy melegen tartsa magát a túra végéig.",
+                "ro": "Lumina cade deosebit de frumos printre copacii golași iarna. O scurtă vizită la muzeu vă ajută să rămâneți cald pentru ultima parte a turului.",
+                "en": "The winter light filters beautifully through the bare branches. A brief museum visit helps you stay warm for the final stretch of your bike tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelluccia",
+                "hu": "Castelluccia",
+                "ro": "Castelluccia",
+                "en": "Castelluccia"
+              },
+              "tip_4lang": {
+                "de": "Ein märchenhafter Anblick in der winterlichen Landschaft. Halten Sie nur kurz für ein Foto an, da der Fahrtwind die Kälte hier spürbarer macht.",
+                "hu": "Mesebeli látvány a téli tájban. Csak rövid időre álljon meg egy fotóra, mert a menetszél miatt itt még hidegebbnek érezheti a levegőt.",
+                "ro": "O priveliște de basm în peisajul de iarnă. Opriți-vă doar scurt pentru o fotografie, deoarece vântul face ca frigul să fie mai resimțit aici.",
+                "en": "A fairytale sight in the winter landscape. Stop only briefly for a photo, as the wind chill makes the cold more noticeable in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Königliche Gärten",
+                "hu": "Királyi Kertek",
+                "ro": "Grădinile Regale",
+                "en": "Royal Gardens - Royal Palace of Caserta"
+              },
+              "tip_4lang": {
+                "de": "Fahren Sie zügig, um warm zu bleiben. Beachten Sie, dass das Licht im Park gegen 16:30 Uhr schwächer wird und die Tore im Winter oft früher schließen.",
+                "hu": "Tekerjen tempósan, hogy melegen tartsa magát. Vegye figyelembe, hogy 16:30 körül már fogynak a fények, és a kapuk télen gyakran korábban zárnak.",
+                "ro": "Pedalați în ritm susținut pentru a rămâne cald. Rețineți că lumina scade în jur de 16:30, iar porțile se închid adesea mai devreme iarna.",
+                "en": "Cycle at a steady pace to keep warm. Be aware that light levels drop by 16:30, and park gates often close earlier during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Cascata dei Delfini",
+                "hu": "Cascata dei Delfini",
+                "ro": "Cascata dei Delfini",
+                "en": "Cascata dei Delfini"
+              },
+              "tip_4lang": {
+                "de": "Das kalte Wasser sprüht einen kühlen Nebel. Machen Sie Ihr Foto und kehren Sie schnell zurück, bevor die Sonne untergeht und es frostig wird.",
+                "hu": "A hideg vízpermet hűvös ködöt áraszt. Készítse el a fotót, és induljon is vissza, mielőtt a nap lemegy és a levegő fagyossá válik.",
+                "ro": "Apa rece pulverizează o ceață răcoroasă. Faceți fotografia și întoarceți-vă rapid înainte ca soarele să apună și să se facă foarte frig.",
+                "en": "The cold water sprays a chilly mist. Take your photo and head back quickly before the sun sets and the air turns significantly frostier."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Délelőtt: Vezessen ki a külvárosba, hogy felfedezze Caserta rejtett történelmi rétegeit, az ősi Fornace-tól a Palazzo Leonetti erődített bájáig.\n\nDél: Fedezze fel az egyházi hatalmat a Palazzo dei Vescovi-ban, majd induljon közelebb a központhoz, hogy meglátogassa a békés San Michele Arcangelo katedrálist.\n\nDélután: Tiszteljen meg a Monumento ai Caduti-nál, majd navigáljon a város történelmi sugárútjain, hogy elérje a Palazzo al Boschetto elegáns környékét.\n\nEste: Zárja autós felfedezőútját a park pereménél, visszagondolva arra a napra, amely a vidéki ipari romoktól a nagyszerű arisztokrata építészetig ívelt.",
         "ro": "Dimineața: Conduceți la periferie pentru a descoperi straturile istorice ascunse, începând cu vechea Fornace și farmecul fortificat al Palazzo Leonetti.\n\nPrânz: Descoperiți puterea ecleziastică la Palazzo dei Vescovi, apoi mergeți mai aproape de centru pentru a vizita Catedrala senină San Michele Arcangelo.\n\nDupă-amiază: Prezentați-vă omagiile la Monumento ai Caduti, navigând pe bulevardele istorice pentru a ajunge în împrejurimile elegante ale Palazzo al Boschetto.\n\nSeara: Încheiați explorarea la marginile parcului, reflectând asupra unei zile care a cuprins de la ruine industriale rurale la o grandioasă arhitectură aristocratică.",
         "en": "Morning: Drive to the outskirts to uncover Caserta's hidden historical layers, starting with the ancient Fornace and the fortified charm of Palazzo Leonetti.\n\nMidday: Discover the ecclesiastical power at Palazzo dei Vescovi, then head closer to the center to visit the serene Cathedral of San Michele Arcangelo.\n\nAfternoon: Pay your respects at the Monumento ai Caduti, navigating the city’s historic avenues to reach the elegant surroundings of Palazzo al Boschetto.\n\nEvening: Wrap up your driven exploration near the park edges, reflecting on a day that spanned from rural industrial ruins to grand aristocratic architecture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto ermöglicht es Ihnen, Caserta trocken zu erkunden. Starten Sie an der Fornace und genießen Sie den Schutz Ihres Fahrzeugs zwischen den Stationen. Die Kathedrale bietet mittags einen schönen, überdachten Stopp. Da Sie mobil sind, können Sie Regenschauer im Auto abwarten. Abends bietet die Fahrt durch die nassen Straßen der Stadt tolle Lichtreflexionen.",
+            "hu": "Egy esős nap az autóban kényelmes és száraz felfedezést tesz lehetővé Casertában. Kezdjen a Fornace-nél, és élvezze a jármű védelmét a megállók között. A katedrális délben kiváló fedett program. Mivel mobilis, az autóban várhatja meg a nagyobb záporok végét. Este a vizes aszfalton megcsillanó városi fények látványa kíséri az útján.",
+            "ro": "O zi ploioasă în mașină permite o explorare confortabilă și uscată a Casertei. Începeți la Fornace și bucurați-vă de protecția vehiculului între opriri. Catedrala oferă la prânz un popas acoperit minunat. Fiind mobil, puteți aștepta trecerea averselor în mașină. Seara, luminile orașului reflectate pe asfaltul ud vă vor însoți drumul.",
+            "en": "A rainy day in the car allows for a comfortable and dry exploration of Caserta. Start at Fornace and enjoy the protection of your vehicle between stops. The cathedral provides a great indoor visit at noon. Being mobile, you can wait out heavy downpours inside the car. In the evening, city lights reflecting on the wet asphalt will accompany your drive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fornace",
+                "hu": "Fornace",
+                "ro": "Fornace",
+                "en": "Fornace"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang. Ein robuster Regenschirm ist für den kurzen Weg vom Auto zur historischen Stätte unerlässlich.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz. Egy strapabíró esernyő elengedhetetlen az autótól a történelmi helyszínig tartó rövid sétához.",
+                "ro": "Parcați cât mai aproape de intrare. O umbrelă rezistentă este esențială pentru scurta plimbare de la mașină la situl istoric pe ploaie.",
+                "en": "Park as close to the entrance as possible. A sturdy umbrella is essential for the short walk from your car to the historic site in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Leonetti",
+                "hu": "Palazzo Leonetti",
+                "ro": "Palazzo Leonetti",
+                "en": "Palazzo Leonetti"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie den Palast aus dem trockenen Auto heraus oder nutzen Sie eine Regenpause für einen kurzen Rundgang. Achten Sie auf Pfützen beim Parken.",
+                "hu": "Csodálja meg a palotát a száraz autóból, vagy használja ki az eső szünetét egy rövid sétára. Ügyeljen a tócsákra a parkolásnál.",
+                "ro": "Admirați palatul din confortul mașinii sau profitați de o pauză de ploaie pentru o scurtă plimbare. Atenție la bălți când parcați.",
+                "en": "Admire the palace from the dry interior of your car or use a break in the rain for a quick walk-around. Watch out for deep puddles when parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Vescovi",
+                "hu": "Palazzo dei Vescovi",
+                "ro": "Palazzo dei Vescovi",
+                "en": "Palazzo dei Vescovi"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Schutz des Autos für die Anfahrt. Bei starkem Regen bietet das Gebäudeinnere eine faszinierende und trockene historische Erfahrung.",
+                "hu": "Használja ki az autó nyújtotta védelmet az odajutáshoz. Erős esőben az épület belseje lenyűgöző és száraz történelmi élményt kínál.",
+                "ro": "Profitați de protecția mașinii pentru deplasare. În caz de ploaie puternică, interiorul clădirii oferă o experiență istorică fascinantă și uscată.",
+                "en": "Take advantage of the car's protection for the drive. During heavy rain, the building's interior offers a fascinating and dry historical experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Michele Arcangelo",
+                "hu": "San Michele Arcangelo Katedrális",
+                "ro": "Catedrala San Michele Arcangelo",
+                "en": "Cattedrale di San Michele Arcangelo"
+              },
+              "tip_4lang": {
+                "de": "Die Kathedrale ist der perfekte Rückzugsort bei Regen. Suchen Sie sich einen Parkplatz in der Nähe, um nicht zu nass auf dem Weg hinein zu werden.",
+                "hu": "A katedrális tökéletes menedék az eső elől. Keressen parkolóhelyet a közelben, hogy ne ázzon el túlságosan, amíg beér az épületbe.",
+                "ro": "Catedrala este refugiul perfect împotriva ploii. Căutați un loc de parcare în apropiere pentru a nu vă uda prea tare până la intrare.",
+                "en": "The cathedral is the perfect sanctuary from the rain. Find a parking spot nearby to avoid getting too wet on your way into the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti",
+                "hu": "Monumento ai Caduti",
+                "ro": "Monumento ai Caduti",
+                "en": "Monumento ai Caduti"
+              },
+              "tip_4lang": {
+                "de": "Das Denkmal wirkt im Regen sehr feierlich. Betrachten Sie es aus dem Auto heraus, wenn der Regen zu stark für einen Spaziergang im Freien ist.",
+                "hu": "Az emlékmű esőben nagyon ünnepélyesnek tűnik. Tekintse meg az autóból, ha az eső túl erős egy szabadtéri sétához az emlékmű körül.",
+                "ro": "Monumentul pare foarte solemn în ploaie. Priviți-l din mașină dacă ploaia este prea puternică pentru o plimbare în aer liber în jurul lui.",
+                "en": "The monument looks very solemn in the rain. View it from the car window if the downpour is too heavy for an outdoor walk around the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo al Boschetto",
+                "hu": "Palazzo al Boschetto",
+                "ro": "Palazzo al Boschetto",
+                "en": "Palazzo al Boschetto"
+              },
+              "tip_4lang": {
+                "de": "Das Museum ist ein toller Abschluss für einen Regentag. Prüfen Sie den Reifendruck und die Scheibenwischer, bevor Sie die Rückfahrt bei Dunkelheit antreten.",
+                "hu": "A múzeum remek lezárása egy esős napnak. Ellenőrizze a gumiabroncsokat és az ablaktörlőket, mielőtt elindulna visszafelé a sötét, esős úton.",
+                "ro": "Muzeul este un final excelent pentru o zi ploioasă. Verificați ștergătoarele înainte de a pleca înapoi pe drumul întunecat și ud.",
+                "en": "The museum is a great finale for a rainy day. Check your wipers and tire pressure before starting the return drive on the dark, wet roads."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Auto durch Caserta beginnt mit einer vorgewärmten Kabine an der Fornace. Mittags ist die Kathedrale ein warmer Fixpunkt Ihrer Reise. Besuchen Sie die Monumente am Nachmittag, solange die Wintersonne noch scheint. Da es um 17:00 Uhr dunkel wird, ist das Museum im Palazzo al Boschetto der ideale Ort für den späten Nachmittag, bevor die Nacht kühl einbricht.",
+            "hu": "A téli autós túra Casertában a Fornace-nél kezdődik a fűtött utastér kényelmében. Délben a katedrális a kirándulás meleg biztos pontja. Délután látogassa meg az emlékműveket, amíg a téli nap süt. Mivel 17:00-kor sötétedik, a Palazzo al Boschetto múzeuma tökéletes helyszín a késő délutánra, mielőtt beállna a hideg éjszaka.",
+            "ro": "Turul de iarnă cu mașina prin Caserta începe la Fornace în confortul cabinei încălzite. La prânz, catedrala este un punct cald și sigur al călătoriei. Vizitați monumentele după-amiaza, cât timp soarele de iarnă încă strălucește. Deoarece se întunecă la 17:00, muzeul este locul ideal pentru finalul zilei.",
+            "en": "A winter car tour of Caserta starts at Fornace in the comfort of a heated cabin. At noon, the cathedral is a warm and steady point of your trip. Visit the monuments in the afternoon while the winter sun is still out. Since it gets dark at 17:00, the museum is the perfect spot for the late afternoon before the cold night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fornace",
+                "hu": "Fornace",
+                "ro": "Fornace",
+                "en": "Fornace"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Sitzheizung für die Fahrt zu diesem historischen Ort. Ein kurzer Rundgang in der klaren Winterluft belebt, bevor es zurück ins warme Auto geht.",
+                "hu": "Használja az ülésfűtést az úton ehhez a történelmi helyszínhez. Egy rövid séta a friss téli levegőn élénkítő, mielőtt visszatérne a meleg autóba.",
+                "ro": "Folosiți încălzirea în scaune pentru drumul spre acest sit istoric. O scurtă plimbare în aerul curat de iarnă este revigorantă înainte de a reveni la căldură.",
+                "en": "Use the seat heaters for the drive to this historic site. A short walk in the crisp winter air is invigorating before returning to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Leonetti",
+                "hu": "Palazzo Leonetti",
+                "ro": "Palazzo Leonetti",
+                "en": "Palazzo Leonetti"
+              },
+              "tip_4lang": {
+                "de": "Die winterliche Morgensonne beleuchtet die Fassade wunderschön. Ein schneller Fotostopp ist ideal, da es auf dem freien Gelände recht zugig sein kann.",
+                "hu": "A téli reggeli napfény gyönyörűen világítja meg a homlokzatot. Egy gyors fotómegálló ideális, mivel a nyitott területen elég huzatos lehet az idő.",
+                "ro": "Soarele de dimineață luminează superb fațada iarna. O oprire rapidă pentru poze este ideală, deoarece zona deschisă poate fi destul de vântoasă.",
+                "en": "The winter morning sun illuminates the facade beautifully. A quick photo stop is ideal, as the open grounds can be quite drafty during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dei Vescovi",
+                "hu": "Palazzo dei Vescovi",
+                "ro": "Palazzo dei Vescovi",
+                "en": "Palazzo dei Vescovi"
+              },
+              "tip_4lang": {
+                "de": "Im Winter sind die Parkplätze oft leerer. Genießen Sie den kurzen Weg zum Eingang und lassen Sie sich von der Geschichte in den warmen Innenräumen faszinieren.",
+                "hu": "Télen a parkolóhelyek gyakran üresebbek. Élvezze a bejárathoz vezető rövid utat, és hagyja, hogy a történelem elvarázsolja a meleg belső terekben.",
+                "ro": "Iarna locurile de parcare sunt adesea mai libere. Bucurați-vă de drumul scurt până la intrare și lăsați-vă fermecat de istorie în spațiile calde.",
+                "en": "Parking spots are often easier to find in winter. Enjoy the short walk to the entrance and let history enchant you within the warm interior spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Cattedrale di San Michele Arcangelo",
+                "hu": "San Michele Arcangelo Katedrális",
+                "ro": "Catedrala San Michele Arcangelo",
+                "en": "Cattedrale di San Michele Arcangelo"
+              },
+              "tip_4lang": {
+                "de": "Die Kathedrale bietet eine friedliche Atmosphäre fernab der Kälte. Ein idealer Ort, um die Stille des Winters in historischem Ambiente zu genießen.",
+                "hu": "A katedrális békés hangulatot áraszt, távol a kinti hidegtől. Ideális hely, hogy élvezze a téli csendet a történelmi falak között.",
+                "ro": "Catedrala oferă o atmosferă pașnică, departe de frigul de afară. Un loc ideal pentru a savura liniștea iernii într-un cadru istoric.",
+                "en": "The cathedral offers a peaceful atmosphere far from the cold outside. An ideal spot to enjoy the winter silence within historic surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti",
+                "hu": "Monumento ai Caduti",
+                "ro": "Monumento ai Caduti",
+                "en": "Monumento ai Caduti"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie das Denkmal am frühen Nachmittag für das beste Licht. Die tiefstehende Wintersonne sorgt für dramatische Schatten auf dem Monument.",
+                "hu": "Látogassa meg az emlékművet kora délután a legjobb fényekért. Az alacsonyan járó téli nap drámai árnyékokat vet az emlékműre.",
+                "ro": "Vizitați monumentul devreme după-amiaza pentru cea mai bună lumină. Soarele jos de iarnă proiectează umbre dramatice pe monument.",
+                "en": "Visit the monument in the early afternoon for the best lighting. The low winter sun casts dramatic shadows across the memorial's structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo al Boschetto",
+                "hu": "Palazzo al Boschetto",
+                "ro": "Palazzo al Boschetto",
+                "en": "Palazzo al Boschetto"
+              },
+              "tip_4lang": {
+                "de": "Perfekt für das Ende der Tour: Das Museum ist beheizt. Da es um 17:00 Uhr dunkelt, genießen Sie den Ausblick auf die beleuchtete Stadt bei der Rückfahrt.",
+                "hu": "Tökéletes lezárás: a múzeum fűtött. Mivel 17:00-kor sötétedik, a visszaúton gyönyörködjön a kivilágított város látványában az autóból.",
+                "ro": "Finalul perfect: muzeul este încălzit. Deoarece se întunecă la 17:00, la întoarcere admirați priveliștea orașului iluminat din mașină.",
+                "en": "A perfect finale: the museum is heated. As it gets dark by 17:00, enjoy the view of the illuminated city from your car on the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

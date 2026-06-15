@@ -206,6 +206,252 @@
         "hu": "Kezdje a reggelt a központi bazilika jellegzetes ólomüveg ablakainak megcsodálásával. Ahogy a város ébredezik, tegyen egy rövid sétát a MO.C.A.-ba a kortárs művészetért. A dél a lenyűgöző fürdőövezetbe hívja, elhaladva a szecessziós Terme Excelsior és a Terme Leopoldine oszlopai mellett. Töltse a délutánt a lélegzetelállító Terme Tettuccióban, eszpresszót kortyolgatva a világörökségi pompában. Hűtse le magát egy késő délutáni sétával a Parco Termale ősi fenyői alatt. Estefelé menjen el az elegáns Padiglione Regina mellett a békés Chiesa di San Francesco felé.",
         "ro": "Începeți dimineața admirând vitraliile distinctive de la Bazilica centrală. Pe măsură ce orașul se trezește, faceți o scurtă plimbare la MO.C.A. pentru artă contemporană. Amiaza vă aduce în magnifica zonă termală, trecând pe lângă Terme Excelsior în stil Liberty înainte de a privi coloanele Terme Leopoldine. Petreceți după-amiaza în uluitoarea Terme Tettuccio, savurând espresso în splendoarea listată de UNESCO. Răcoriți-vă cu o plimbare printre pinii Parco Termale. Când se lasă seara, treceți de elegantul Padiglione Regina spre liniștita Chiesa di San Francesco.",
         "en": "Start your morning admiring the distinctive stained glass at the central Basilica. As the town awakens, take a short stroll to the MO.C.A. to immerse yourself in contemporary art. Midday brings you into the magnificent spa zone, passing the Liberty-style Terme Excelsior before gazing up at the columns of Terme Leopoldine. Spend your afternoon inside the breathtaking Terme Tettuccio, sipping espresso amidst UNESCO-listed splendor. Cool off with a late afternoon walk through the ancient pines of the Parco Termale. As evening falls, pass the elegant Padiglione Regina on your way to the peaceful Chiesa di San Francesco."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in der Basilika. Mittags bieten die prachtvollen Säulengänge der Thermen und das MOCA-Museum perfekten Schutz vor dem Regen. Nachmittags spazieren Sie unter den Arkaden der Viale Verdi, während das Tettuccio mit seinen überdachten Galerien glänzt. Abends genießen Sie die ruhige Atmosphäre der Kirchen, während der Regen gegen die bunten Glasfenster trommelt.",
+            "hu": "Kezdje a napot a bazilika védelmében. Délben a városháza és a MOCA múzeum belső terei kínálnak menedéket a záporok elől. Délután fedezze fel a Tettuccio-termálfürdő lenyűgöző, fedett oszlopcsarnokait, ahol szárazon csodálhatja a szecessziós díszítést. Estére a San Francesco templom csendes békéje nyújt menedéket, miközben az eső kopog a tetőn, varázslatos hangulatot árasztva a városban.",
+            "ro": "Începeți ziua sub adăpostul bazilicii. La prânz, arcadele splendide ale termelor și muzeul MOCA oferă protecție perfectă împotriva ploii. După-amiaza, plimbați-vă prin galeriile acoperite de la Tettuccio, admirând arhitectura Liberty fără a vă uda. Seara, atmosfera liniștită a bisericii San Francesco vă invită la introspecție, în timp ce ploaia creează un decor romantic pe străzile orașului.",
+            "en": "Start your day sheltered within the Basilica's walls. At noon, the grand halls of the MOCA museum and the thermal colonnades provide perfect cover from the showers. In the afternoon, explore the covered galleries of Terme Tettuccio, admiring the Art Nouveau details while staying dry. Evening brings a peaceful atmosphere at San Francesco church as the rain adds a rhythmic backdrop to the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur vom schützenden Portikus aus und genießen Sie die Ruhe im trockenen, lichtdurchfluteten Innenraum der Basilika.",
+                "hu": "Csodálja meg a modern építészetet a védelmet nyújtó oszlopcsarnok alól, és élvezze a békét a bazilika száraz, fénnyel teli belső terében.",
+                "ro": "Admirați arhitectura modernă de sub porticul protector și bucurați-vă de liniște în interiorul uscat și plin de lumină al bazilicii.",
+                "en": "Admire the modern architecture from the sheltered portico and enjoy the peace inside the dry, light-filled interior of the basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "MO.C.A. Montecatini Contemporary Art",
+                "hu": "MO.C.A. Montecatini Kortárs Művészet",
+                "ro": "MO.C.A. Artă Contemporană Montecatini",
+                "en": "MO.C.A. Montecatini Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum im Rathaus ist der ideale Zufluchtsort bei Regen; verpassen Sie nicht die beeindruckenden Glasmalereien von Galileo Chini im Treppenhaus.",
+                "hu": "A városházán található múzeum ideális menedék esőben; ne hagyja ki Galileo Chini lenyűgöző üvegablakait a főlépcsőház felett.",
+                "ro": "Acest muzeu din primărie este refugiul ideal pe ploaie; nu ratați vitraliile impresionante ale lui Galileo Chini de deasupra scării principale.",
+                "en": "This museum inside the town hall is the ideal refuge during rain; don't miss Galileo Chini's stunning stained glass windows above the main staircase."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Excelsior",
+                "hu": "Terme Excelsior",
+                "ro": "Terme Excelsior",
+                "en": "Terme Excelsior"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den prachtvollen Eingangsbereich als trockenen Aussichtspunkt auf die Viale Verdi und bewundern Sie die elegante Architektur der 1920er Jahre.",
+                "hu": "Használja a pazar bejárati csarnokot száraz kilátópontként a Viale Verdire, miközben az 1920-as évek elegáns építészetében gyönyörködik.",
+                "ro": "Folosiți intrarea somptuoasă ca punct de observare uscat asupra Viale Verdi, în timp ce admirați arhitectura elegantă a anilor 1920.",
+                "en": "Use the lavish entrance hall as a dry viewpoint over Viale Verdi while admiring the elegant 1920s architecture of this historic spa building."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Leopoldine",
+                "hu": "Terme Leopoldine",
+                "ro": "Terme Leopoldine",
+                "en": "Terme Leopoldine"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die monumentale Fassade im Regen; die umliegenden Arkaden bieten Schutz, während Sie die neoklassizistischen Details der Therme studieren.",
+                "hu": "Szemlélje a monumentális homlokzatot az esőben; a környező árkádok védelmet nyújtanak, miközben a fürdő neoklasszicista részleteit tanulmányozza.",
+                "ro": "Priviți fațada monumentală în ploaie; arcadele din jur oferă protecție în timp ce studiați detaliile neoclasice ale acestui stabiliment termal.",
+                "en": "View the monumental facade in the rain; the surrounding arcades provide shelter while you study the neoclassical details of this thermal bath."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Tettuccio",
+                "hu": "Terme Tettuccio",
+                "ro": "Terme Tettuccio",
+                "en": "Terme Tettuccio"
+              },
+              "tip_5lang": {
+                "de": "Dank der riesigen überdachten Kolonnaden können Sie hier trotz Regen stundenlang spazieren und die berühmten Keramiken von Cascella im Trockenen bewundern.",
+                "hu": "A hatalmas fedett oszlopcsarnokoknak köszönhetően esőben is órákig sétálhat itt, szárazon csodálva Cascella híres kerámiafestményeit.",
+                "ro": "Datorită coloadelor acoperite imense, vă puteți plimba aici ore întregi în ciuda ploii, admirând celebrele ceramici ale lui Cascella la adăpost.",
+                "en": "Thanks to the huge covered colonnades, you can walk here for hours despite the rain, admiring Cascella's famous ceramics while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Termale",
+                "hu": "Parco Termale",
+                "ro": "Parco Termale",
+                "en": "Parco Termale"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Pinienkronen bieten einen gewissen natürlichen Schutz; achten Sie auf festes Schuhwerk, da die Wege bei Nässe rutschig sein können.",
+                "hu": "A sűrű fenyőkoronák természetes védelmet nyújtanak; viseljen vízálló cipőt, mert az ösvények nedves időben csúszósak lehetnek.",
+                "ro": "Coroanele dese de pini oferă o anumită protecție naturală; purtați încălțăminte aderentă, deoarece aleile pot deveni alunecoase pe timp de ploaie.",
+                "en": "The dense pine canopies offer some natural protection; wear sturdy, waterproof shoes as the paths can become slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Padiglione Regina",
+                "hu": "Padiglione Regina",
+                "ro": "Padiglione Regina",
+                "en": "Padiglione Regina"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach und genießen Sie die theatralische Atmosphäre dieses historischen Pavillons, wenn der Regen auf das Dach prasselt.",
+                "hu": "Keressen menedéket az előtető alatt, és élvezze a történelmi pavilon teátrális hangulatát, ahogy az eső dobol a tetőszerkezeten.",
+                "ro": "Căutați adăpost sub streașină și bucurați-vă de atmosfera teatrală a acestui pavilion istoric în timp ce ploaia răpăie pe acoperiș.",
+                "en": "Seek shelter under the overhang and enjoy the theatrical atmosphere of this historic pavilion as the rain patters against the roof structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco",
+                "hu": "Chiesa di San Francesco",
+                "ro": "Chiesa di San Francesco",
+                "en": "Chiesa di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im trockenen Kirchenschiff; die ruhige, sakrale Akustik wirkt bei prasselndem Regen draußen besonders beruhigend.",
+                "hu": "Zárja a napot a száraz templomhajóban; a csendes, szakrális akusztika a kinti eső kopogásával párosulva különösen megnyugtató élmény.",
+                "ro": "Încheiați ziua în nava uscată a bisericii; acustica sacră și liniștită este deosebit de relaxantă când ploaia cade cu putere afară.",
+                "en": "End your day in the dry nave; the quiet, sacred acoustics combined with the rain outside create a particularly soothing atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Thermenstadt im sanften Winterlicht. Morgens wärmt der Besuch der Basilika, mittags locken die beheizten Säle des MOCA. Da die Sonne bereits gegen 17:00 Uhr untergeht, erstrahlt der Parco Termale schon früh in festlicher Beleuchtung. Die kühle Brise in den Gärten macht die warme Atmosphäre in den historischen Thermengebäuden umso einladender für einen entspannten Winterspaziergang.",
+            "hu": "Fedezze fel a fürdővárost a lágy téli fényekben. Reggel a bazilika belső melege fogadja, délben pedig a MOCA fűtött termei hívogatnak. Mivel a nap már 17:00 körül lemegy, a Parco Termale és a környező épületek korán ünnepi kivilágítást kapnak. A kertek hűvös levegője után a történelmi fürdők meleg belső terei még hívogatóbbak egy lassú, téli séta során.",
+            "ro": "Experimentați orașul balnear în lumina blândă a iernii. Dimineața vă încălziți în bazilică, iar la prânz sălile încălzite de la MOCA sunt primitoare. Deoarece soarele apune în jurul orei 17:00, Parco Termale strălucește devreme în lumini festive. Briza rece din grădini face ca atmosfera caldă din clădirile termale istorice să fie și mai plăcută pentru o plimbare de iarnă.",
+            "en": "Experience the spa town in the soft winter light. Warm up in the morning at the Basilica, and enjoy the heated halls of MOCA at noon. As the sun sets around 17:00, the Parco Termale lights up early with a festive glow. The crisp air in the gardens makes the warm atmosphere inside the historic thermal buildings even more inviting for a cozy winter stroll."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Der helle Innenraum bietet an kalten Wintermorgen einen warmen Zufluchtsort; genießen Sie das Farbspiel des Sonnenlichts in der klaren Winterluft.",
+                "hu": "A világos belső tér meleg menedéket nyújt a hideg téli reggeleken; csodálja meg a színes fények játékát a tiszta téli levegőben.",
+                "ro": "Interiorul luminos oferă un refugiu cald în diminețile reci de iarnă; admirați jocul de lumini colorate în aerul clar al iernii.",
+                "en": "The bright interior provides a warm sanctuary on cold winter mornings; enjoy the play of colored lights through the windows in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "MO.C.A. Montecatini Contemporary Art",
+                "hu": "MO.C.A. Montecatini Kortárs Művészet",
+                "ro": "MO.C.A. Artă Contemporană Montecatini",
+                "en": "MO.C.A. Montecatini Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den eleganten Ausstellungsräumen auf und bewundern Sie moderne Kunstwerke in einem prachtvollen, geheizten Ambiente.",
+                "hu": "Melegedjen fel az elegáns kiállítótermekben, és csodálja meg a modern műalkotásokat a pazar, fűtött történelmi környezetben.",
+                "ro": "Încălziți-vă în sălile de expoziție elegante și admirați operele de artă modernă într-un ambient istoric somptuos și încălzit.",
+                "en": "Warm up in the elegant exhibition rooms and admire modern artworks within a magnificent, heated historical setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Excelsior",
+                "hu": "Terme Excelsior",
+                "ro": "Terme Excelsior",
+                "en": "Terme Excelsior"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Foyer, um die winterliche Ruhe des Kurparks durch die großen Glasfenster zu beobachten, während Sie im Warmen verweilen.",
+                "hu": "Látogasson el az előcsarnokba, hogy a hatalmas üvegablakokon keresztül figyelje a gyógypark téli nyugalmát, miközben Ön a melegben pihen.",
+                "ro": "Vizitați foierul pentru a observa liniștea hibernală a parcului termal prin ferestrele mari de sticlă, în timp ce stați la căldură.",
+                "en": "Visit the foyer to observe the winter stillness of the spa park through the large glass windows while staying warm inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Leopoldine",
+                "hu": "Terme Leopoldine",
+                "ro": "Terme Leopoldine",
+                "en": "Terme Leopoldine"
+              },
+              "tip_5lang": {
+                "de": "Die neoklassizistische Pracht wirkt im klaren Winterlicht besonders edel; ein kurzer Stopp am Eingang zeigt die zeitlose Eleganz der Toskana.",
+                "hu": "A neoklasszicista pompa különösen nemesnek tűnik a tiszta téli fényben; egy rövid megálló a bejáratnál megmutatja Toszkána időtlen eleganciáját.",
+                "ro": "Splendoarea neoclasică pare deosebit de nobilă în lumina clară a iernii; o scurtă oprire la intrare relevă eleganța atemporală a Toscanei.",
+                "en": "The neoclassical grandeur looks particularly noble in the clear winter light; a brief stop at the entrance reveals Tuscany's timeless elegance."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Tettuccio",
+                "hu": "Terme Tettuccio",
+                "ro": "Terme Tettuccio",
+                "en": "Terme Tettuccio"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Stille lässt die Architektur noch imposanter wirken; tragen Sie einen warmen Mantel für den Spaziergang durch die offenen Kolonnaden.",
+                "hu": "A téli csendben az építészet még monumentálisabbnak hat; viseljen meleg kabátot a nyitott oszlopcsarnokokban tett sétához.",
+                "ro": "Liniștea iernii face ca arhitectura să pară și mai impunătoare; purtați o haină groasă pentru plimbarea prin colonadele deschise.",
+                "en": "The winter silence makes the architecture feel even more monumental; wear a warm coat for your stroll through the open colonnades."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Termale",
+                "hu": "Parco Termale",
+                "ro": "Parco Termale",
+                "en": "Parco Termale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Luft unter den immergrünen Pinien; ab 16:30 Uhr sorgt die einsetzende Dämmerung für eine mystische Parkatmosphäre.",
+                "hu": "Élvezze a friss levegőt az örökzöld fenyők alatt; 16:30-tól a leszálló szürkület misztikus hangulatot áraszt a parkban.",
+                "ro": "Bucurați-vă de aerul curat sub pinii mereu verzi; de la ora 16:30, amurgul ce se lasă creează o atmosferă mistică în parc.",
+                "en": "Enjoy the crisp air under the evergreen pines; from 16:30, the onset of dusk creates a mystical and calm park atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Padiglione Regina",
+                "hu": "Padiglione Regina",
+                "ro": "Padiglione Regina",
+                "en": "Padiglione Regina"
+              },
+              "tip_5lang": {
+                "de": "Der Pavillon glänzt im tiefstehenden Winterlicht; nutzen Sie die frühen Abendstunden für stimmungsvolle Fotos der beleuchteten Fassade.",
+                "hu": "A pavilon ragyog az alacsonyan járó téli napfényben; használja ki a kora esti órákat a kivilágított homlokzat hangulatos fotózásához.",
+                "ro": "Pavilionul strălucește în lumina joasă a iernii; profitați de orele serii pentru fotografii atmosferice ale fațadei iluminate.",
+                "en": "The pavilion gleams in the low winter light; take advantage of the early evening hours for atmospheric photos of the lit facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Francesco",
+                "hu": "Chiesa di San Francesco",
+                "ro": "Chiesa di San Francesco",
+                "en": "Chiesa di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen besinnlichen Abschluss des Tages; die Kerzen und die warme Beleuchtung wirken im Winter besonders einladend.",
+                "hu": "A templom meghitt lezárása a napnak; a gyertyák és a meleg belső világítás télen különösen hívogató és békés.",
+                "ro": "Biserica oferă o încheiere meditativă a zilei; lumânările și iluminarea caldă sunt deosebit de primitoare pe timpul iernii.",
+                "en": "The church offers a contemplative end to the day; the candles and warm interior lighting feel especially inviting in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +629,224 @@
         "hu": "Kerékpározzon ki korán a központi bazilikától a város arisztokratikus peremvidékére, és csodálja meg a Villa Maltagliati fenséges homlokzatát. Folytassa útját a Villa Ankuri nyugodt területére, mielőtt visszatérne a központba. A dél kiváló a MO.C.A. művészeti kitérőjéhez. Délután tekerjen fel a grandiózus Terme Tettuccióhoz, majd menjen még feljebb, hogy felfedezze a Grotta Maona földalatti csodáit. Fejezze be a napot úgy, hogy kényelmesen legurul a Parco Termale buja, zöldellő ösvényeire a kellemes esti órákban.",
         "ro": "Pedalați devreme de la Bazilică spre marginile aristocratice ale orașului, admirând fațada maiestuoasă a Vilei Maltagliati. Continuați plimbarea matinală spre domeniul liniștit Villa Ankuri înainte de a vă întoarce în centru. Amiaza este perfectă pentru un ocol artistic la MO.C.A. După-amiaza, urcați pe bicicletă spre grandioasa Terme Tettuccio, apoi continuați mai sus pentru a descoperi minunile subterane de la Grotta Maona. Încheiați ziua coborând în voie spre cărările luxuriante ale Parco Termale în lumina blândă a serii.",
         "en": "Cycle out early from the central Basilica to the quieter, aristocratic fringes of town, first taking in the majestic facade of Villa Maltagliati. Continue your morning ride out to the tranquil grounds of Villa Ankuri before looping back toward the bustling center. Midday is perfect for an artistic detour at MO.C.A., safely locking your bike outside the historic town hall. In the afternoon, pedal up to the grand Terme Tettuccio, then push further uphill to discover the subterranean wonders of Grotta Maona. Finish the day freewheeling back down to the lush paths of Parco Termale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem Kopfsteinpflaster, bietet aber eine erfrischende Perspektive. Die historischen Villen in den Vororten wirken im Nebel fast mystisch. Kurze Etappen führen Sie von einer überdachten Sehenswürdigkeit zur nächsten. Planen Sie längere Pausen in den Thermen ein, um sich aufzuwärmen und Ihre Kleidung zu trocknen, bevor Sie die nächste Villa ansteuern.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a macskaköves utakon, de frissítő perspektívát kínál. A külvárosi történelmi villák szinte misztikusnak tűnnek a ködben. A rövid szakaszok egyik fedett látnivalótól a másikig vezetnek. Tervezzen hosszabb pihenőket a termálfürdőkben, hogy felmelegedjen és megszárítsa ruháit, mielőtt a következő villa felé veszi az irányt.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe pavaj, dar oferă o perspectivă revigorantă. Vilele istorice de la periferie par aproape mistice în ceață. Etapele scurte vă poartă de la un obiectiv acoperit la altul. Planificați pauze mai lungi la terme pentru a vă încălzi și a vă usca hainele înainte de a porni spre următoarea vilă.",
+            "en": "Cycling in the rain requires caution on the cobblestones but offers a refreshing perspective. The historic villas in the outskirts look almost mystical in the mist. Short stretches lead you from one sheltered sight to another. Plan longer breaks at the spas to warm up and dry your gear before heading to the next villa on your route."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Portikus ab und genießen Sie die trockene Stille im modernen Kirchenschiff während eines Regenschauers.",
+                "hu": "Parkolja le kerékpárját az oszlopcsarnok alatt, és élvezze a modern templomhajó száraz csendjét egy kiadós zápor idején.",
+                "ro": "Parcați bicicleta sub portic și bucurați-vă de liniștea uscată din interiorul modern al bisericii în timpul unei averse.",
+                "en": "Park your bike under the portico and enjoy the dry silence inside the modern nave during a heavy rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Maltagliati",
+                "hu": "Villa Maltagliati",
+                "ro": "Villa Maltagliati",
+                "en": "Villa Maltagliati"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zur Villa führt über nasse Straßen; bewundern Sie die imposante Fassade von einem geschützten Punkt unter den Bäumen aus.",
+                "hu": "A villához vezető út nedves aszfalton vezet; csodálja meg az impozáns homlokzatot a fák alatti védett pontról.",
+                "ro": "Drumul spre vilă trece pe asfalt ud; admirați fațada impunătoare dintr-un punct protejat de sub copaci.",
+                "en": "The ride to the villa follows wet roads; admire the imposing facade from a sheltered spot beneath the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Ankuri",
+                "hu": "Villa Ankuri",
+                "ro": "Villa Ankuri",
+                "en": "Villa Ankuri"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Pause vom Regen; die historische Atmosphäre der Villa wirkt bei grauem Himmel besonders authentisch.",
+                "hu": "Használja ki a megállót egy rövid pihenőre az eső elől; a villa történelmi hangulata a szürke ég alatt is magával ragadó.",
+                "ro": "Profitați de oprire pentru o scurtă pauză de ploaie; atmosfera istorică a vilei este captivantă chiar și sub cerul gri.",
+                "en": "Take advantage of this stop for a short break from the rain; the villa's historic atmosphere is captivating even under grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "MO.C.A. Montecatini Contemporary Art",
+                "hu": "MO.C.A. Montecatini Kortárs Művészet",
+                "ro": "MO.C.A. Artă Contemporană Montecatini",
+                "en": "MO.C.A. Montecatini Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Räder sicher zu parken und im beheizten Inneren des Rathauses zeitgenössische Kunst in aller Ruhe zu genießen.",
+                "hu": "Ideális hely a kerékpárok biztonságos leállítására, miközben a városháza fűtött belsejében nyugodtan élvezi a kortárs művészetet.",
+                "ro": "Un loc ideal pentru a lăsa bicicletele în siguranță, în timp ce vă bucurați de arta contemporană în interiorul încălzit al primăriei.",
+                "en": "An ideal place to safely park your bikes while you enjoy contemporary art in the heated interior of the town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Tettuccio",
+                "hu": "Terme Tettuccio",
+                "ro": "Terme Tettuccio",
+                "en": "Terme Tettuccio"
+              },
+              "tip_5lang": {
+                "de": "Die weiten, überdachten Gänge bieten den perfekten Schutz; stellen Sie Ihr Rad draußen ab und spazieren Sie trocken durch die Architekturperle.",
+                "hu": "A tágas, fedett folyosók tökéletes védelmet nyújtanak; hagyja kint a biciklit, és sétáljon szárazon ebben az építészeti gyöngyszemben.",
+                "ro": "Coridoarele spațioase și acoperite oferă protecția perfectă; lăsați bicicleta afară și plimbați-vă la adăpost prin această bijuterie arhitecturală.",
+                "en": "The spacious covered corridors provide perfect protection; leave your bike outside and walk dry through this architectural gem."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta Maona",
+                "hu": "Grotta Maona",
+                "ro": "Grotta Maona",
+                "en": "Grotta Maona"
+              },
+              "tip_5lang": {
+                "de": "Unter der Erde spielt der Regen keine Rolle; die konstante Temperatur in der Höhle ist bei feuchtem Wetter draußen eine willkommene Abwechslung.",
+                "hu": "A föld alatt nem számít az eső; a barlang állandó hőmérséklete és száraz belső tere felüdülés a kinti nyirkos idő után.",
+                "ro": "Sub pământ ploaia nu contează; temperatura constantă a peșterii este o schimbare binevenită față de vremea umedă de afară.",
+                "en": "Rain doesn't matter underground; the cave's constant temperature and dry interior are a welcome relief from the damp weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Termale",
+                "hu": "Parco Termale",
+                "ro": "Parco Termale",
+                "en": "Parco Termale"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Parkwegen; die frische, regengereinigte Luft unter den Pinien ist besonders belebend für Radfahrer.",
+                "hu": "Vezessen óvatosan a nedves parki utakon; a friss, eső által megtisztított levegő a fenyők alatt különösen élénkítő a kerékpárosoknak.",
+                "ro": "Conduceți cu atenție pe aleile umede din parc; aerul proaspăt, curățat de ploaie sub pini, este deosebit de revigorant pentru bicicliști.",
+                "en": "Ride carefully on the wet park paths; the fresh, rain-cleansed air under the pines is particularly invigorating for cyclists."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine zügige Radtour durch die winterliche Toskana. Die kühle Luft ist erfrischend, aber gute Handschuhe und Schichten sind unerlässlich. Morgens glitzert der Frost auf den Feldern bei den Villen. Nutzen Sie die hellen Mittagsstunden für die Außenstrecken, da die Dämmerung im Kurpark früh einsetzt. Ein Besuch in der Grotta Maona bietet konstante Temperaturen als angenehmen Kontrast zur kalten Außenluft.",
+            "hu": "Élvezze a tempós kerékpározást a téli Toszkánában. A hűvös levegő frissítő, de a jó kesztyű és a réteges öltözködés elengedhetetlen. Reggelente a zúzmara csillog a villák melletti mezőkön. Használja ki a világos déli órákat a külső szakaszokra, mert a gyógyparkban korán leszáll az alkonyat. A Grotta Maona állandó hőmérséklete kellemes kontrasztot nyújt a hideg kinti levegőhöz képest.",
+            "ro": "Bucurați-vă de o tură rapidă cu bicicleta prin Toscana hibernală. Aerul rece este revigorant, dar mănușile bune și straturile de haine sunt esențiale. Dimineața, chiciura strălucește pe câmpurile de lângă vile. Profitați de orele luminoase ale prânzului pentru traseele exterioare, deoarece amurgul coboară devreme. O vizită la Grotta Maona oferă o temperatură constantă, contrastând plăcut cu frigul de afară.",
+            "en": "Enjoy a brisk cycle through winter Tuscany. The cool air is refreshing, but good gloves and layers are essential. In the morning, frost glistens on the fields near the villas. Use the bright midday hours for outer stretches, as twilight settles early in the spa park. A visit to Grotta Maona provides constant temperatures as a pleasant contrast to the cold outside air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Stopp zu Beginn; genießen Sie die moderne Akustik und die schützenden Mauern vor der Weiterfahrt durch die kühle Morgenluft.",
+                "hu": "Melegítő megálló az induláshoz; élvezze a modern akusztikát és a védelmet nyújtó falakat a hűvös reggeli tekerés előtt.",
+                "ro": "O oprire caldă la început; bucurați-vă de acustica modernă și de zidurile protectoare înainte de a continua prin aerul rece al dimineții.",
+                "en": "A warming stop to start; enjoy the modern acoustics and protective walls before continuing through the cool morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Maltagliati",
+                "hu": "Villa Maltagliati",
+                "ro": "Villa Maltagliati",
+                "en": "Villa Maltagliati"
+              },
+              "tip_5lang": {
+                "de": "Die winterlichen Gärten der Villa wirken in der klaren Luft besonders strukturiert; halten Sie kurz inne, um die historische Architektur zu bewundern.",
+                "hu": "A villa téli kertjei a tiszta levegőben különösen letisztultnak tűnnek; álljon meg egy pillanatra, hogy megcsodálja a történelmi építészetet.",
+                "ro": "Grădinile hibernale ale vilei par deosebit de bine structurate în aerul clar; opriți-vă un moment pentru a admira arhitectura istorică.",
+                "en": "The villa's winter gardens look particularly structured in the clear air; pause briefly to admire the historic architecture from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Ankuri",
+                "hu": "Villa Ankuri",
+                "ro": "Villa Ankuri",
+                "en": "Villa Ankuri"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher bietet weite Ausblicke auf die winterliche Landschaft; ideal für einen schnellen Fotostopp in der klaren Wintersonne.",
+                "hu": "Az idevezető út tágas kilátást nyújt a téli tájra; ideális egy gyors fotómegállóra a tiszta téli napsütésben.",
+                "ro": "Drumul până aici oferă vederi largi asupra peisajului hibernal; ideal pentru o scurtă pauză foto în soarele clar de iarnă.",
+                "en": "The ride here offers expansive views of the winter landscape; ideal for a quick photo stop in the clear winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "MO.C.A. Montecatini Contemporary Art",
+                "hu": "MO.C.A. Montecatini Kortárs Művészet",
+                "ro": "MO.C.A. Artă Contemporană Montecatini",
+                "en": "MO.C.A. Montecatini Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; die beheizten Säle des Rathauses sind im Winter ein luxuriöser Ort für Kunstliebhaber.",
+                "hu": "Használja a múzeumlátogatást melegedő pihenőként; a városháza fűtött termei télen luxushelyszínt kínálnak a művészetkedvelőknek.",
+                "ro": "Folosiți vizita la muzeu ca pauză de încălzire; sălile încălzite ale primăriei sunt un loc luxos pentru iubitorii de artă pe timp de iarnă.",
+                "en": "Use the museum visit as a warming break; the heated halls of the town hall are a luxurious winter spot for art lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Tettuccio",
+                "hu": "Terme Tettuccio",
+                "ro": "Terme Tettuccio",
+                "en": "Terme Tettuccio"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im Winterlicht besonders plastisch; ein Spaziergang durch die Kolonnaden erfordert wegen des Durchzugs eine warme Jacke.",
+                "hu": "Az építészet a téli fényben különösen plasztikusnak hat; az oszlopcsarnokokban tett sétához a huzat miatt meleg kabát szükséges.",
+                "ro": "Arhitectura pare deosebit de plastică în lumina iernii; o plimbare prin colonade necesită o jachetă groasă din cauza curentului.",
+                "en": "The architecture looks particularly sculptural in the winter light; a stroll through the colonnades requires a warm jacket due to the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta Maona",
+                "hu": "Grotta Maona",
+                "ro": "Grotta Maona",
+                "en": "Grotta Maona"
+              },
+              "tip_5lang": {
+                "de": "Die konstante Innentemperatur macht die Höhle im Winter zu einem angenehm temperierten Ziel; perfekt, um den kalten Wind kurz zu vergessen.",
+                "hu": "Az állandó belső hőmérséklet télen kellemes úti céllá teszi a barlangot; tökéletes hely, hogy egy kicsit elfelejtse a hideg szelet.",
+                "ro": "Temperatura interioară constantă face din peșteră o destinație plăcută iarna; locul perfect pentru a uita scurt de vântul rece.",
+                "en": "The constant interior temperature makes the cave a pleasantly warm destination in winter; perfect for briefly forgetting the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Termale",
+                "hu": "Parco Termale",
+                "ro": "Parco Termale",
+                "en": "Parco Termale"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor Einbruch der frühen Dunkelheit; die winterliche Dämmerung im Park ist wunderschön, aber kühl.",
+                "hu": "Fejezze be a túrát időben, mielőtt beáll a korai sötétség; a téli szürkület a parkban gyönyörű, de hűvös.",
+                "ro": "Încheiați turul la timp, înainte de lăsarea întunericului; amurgul hibernal în parc este superb, dar destul de răcoros.",
+                "en": "Finish your tour in time before the early darkness sets in; the winter twilight in the park is beautiful but quite chilly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +1024,224 @@
         "hu": "Kezdje autós túráját a déli külvárosban a lenyűgöző mechanikus betlehemnél. Kicsit feljebb megcsodálhatja a történelmi Villa Gusci tágas felhajtóját. Délben hajtson nyugat felé a Villa Ankurihoz, mielőtt elmerülne a Terme Redi modern fürdőiben. Délután parkoljon le a központban, hogy megtekintse a MO.C.A. kortárs műveit és a Terme Tettuccio történelmi pompáját. Ahogy a nap kezd lemenni, hajtson észak felé, és fejezze be a kalandot a Grotta Maona természetes barlangjainak mélyén.",
         "ro": "Începeți turul cu mașina la periferia sudică la fascinanta Presepe meccanizzato. Chiar în susul drumului, admirați aleea grandioasă a istoricei Villa Gusci. La amiază, conduceți spre vest la Villa Ankuri înainte de a plonja în ofertele moderne de spa la Terme Redi. Parcați central după-amiaza pentru a vedea lucrările contemporane la MO.C.A. și măreția istorică de la Terme Tettuccio în apropiere. Pe măsură ce soarele coboară, conduceți spre nord pentru a vă încheia aventura în cavernele naturale de la Grotta Maona.",
         "en": "Start your driving tour on the southern outskirts at the fascinating Presepe meccanizzato, a testament to local craftsmanship. Just up the road, admire the sweeping driveway of historic Villa Gusci. By midday, cruise westward to capture the stately presence of Villa Ankuri before diving into the city's modern spa offerings at Terme Redi. Park centrally in the afternoon to view the contemporary works at MO.C.A. and the historic grandeur of Terme Tettuccio nearby. As the sun begins to lower, drive north to end your adventure deep within the natural caverns of Grotta Maona."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist heute Ihr idealer Kokon. Sie erreichen alle Sehenswürdigkeiten trocken und bequem. Morgens bewundern Sie die Presepe und Villen direkt vom Parkplatz aus. Mittags bieten die Terme Redi und das MOCA-Museum großzügige Innenräume. Die Fahrt zur Grotta Maona führt durch eine verregnete, grüne Hügellandschaft, wobei die Höhle selbst den perfekten trockenen Abschluss des Tages bildet.",
+            "hu": "Az autó ma az Ön tökéletes menedéke. Minden látnivalót szárazon és kényelmesen érhet el. Reggel a Presepét és a villákat szinte a parkolóból csodálhatja meg. Napközben a Terme Redi és a MOCA múzeum tágas belső terei kínálnak tartalmas időtöltést. A Grotta Maona felé vezető út az esős, zöld dombokon keresztül vezet, maga a barlang pedig tökéletes száraz zárása a napnak.",
+            "ro": "Mașina este astăzi coconul dumneavoastră ideal. Ajungeți la toate obiectivele uscat și confortabil. Dimineața admirați Presepe și vilele direct din parcare. La prânz, Terme Redi și muzeul MOCA oferă spații interioare generoase. Drumul spre Grotta Maona șerpuiește prin dealurile verzi și plouate, peștera fiind încheierea uscată perfectă a zilei.",
+            "en": "The car is your ideal cocoon today. You can reach all sights dry and comfortably. In the morning, admire the Presepe and villas nearly from your parking spot. At noon, Terme Redi and the MOCA museum offer spacious indoor environments. The drive to Grotta Maona takes you through rainy green hills, while the cave itself provides the perfect dry conclusion to your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Presepe meccanizzato",
+                "hu": "Presepe meccanizzato",
+                "ro": "Presepe meccanizzato",
+                "en": "Presepe meccanizzato"
+              },
+              "tip_5lang": {
+                "de": "Diese vollständig überdachte Sehenswürdigkeit ist perfekt für regnerische Morgen; genießen Sie die mechanischen Details im trockenen Innenraum.",
+                "hu": "Ez a teljesen fedett látnivaló tökéletes esős reggeleken; élvezze a mechanikus részleteket a száraz belső térben.",
+                "ro": "Acest obiectiv complet acoperit este perfect pentru diminețile ploioase; admirați detaliile mecanice în interiorul uscat.",
+                "en": "This fully covered attraction is perfect for rainy mornings; enjoy the intricate mechanical details in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Gusci",
+                "hu": "Villa Gusci",
+                "ro": "Villa Gusci",
+                "en": "Villa Gusci"
+              },
+              "tip_5lang": {
+                "de": "Dank der Nähe zum Parkplatz können Sie die historische Fassade der Villa fast ohne nass zu werden bewundern; ein kurzer, lohnender Stopp.",
+                "hu": "A parkoló közelségének köszönhetően szinte anélkül csodálhatja meg a villa történelmi homlokzatát, hogy megázna; rövid, de megérős megálló.",
+                "ro": "Datorită proximității parcării, puteți admira fațada istorică a vilei aproape fără a vă uda; o oprire scurtă și plină de satisfacții.",
+                "en": "Thanks to the nearby parking, you can admire the villa's historic facade almost without getting wet; a short but rewarding stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Ankuri",
+                "hu": "Villa Ankuri",
+                "ro": "Villa Ankuri",
+                "en": "Villa Ankuri"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt im Regen bietet schöne Ausblicke auf die toskanische Landschaft; die Villa wirkt bei grauem Wetter besonders geheimnisvoll.",
+                "hu": "Az esőben való megközelítés szép kilátást nyújt a toskán tájra; a villa a szürke időben különösen titokzatos és előkelő hangulatot áraszt.",
+                "ro": "Accesul pe ploaie oferă vederi frumoase asupra peisajului toscan; vila pare deosebit de misterioasă pe vreme gri.",
+                "en": "The drive here in the rain offers beautiful views of the Tuscan landscape; the villa looks particularly mysterious in the grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Redi",
+                "hu": "Terme Redi",
+                "ro": "Terme Redi",
+                "en": "Terme Redi"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Thermengebäude bietet hervorragenden Schutz; genießen Sie die warme, trockene Atmosphäre in einem der funktionalsten Spa-Zentren.",
+                "hu": "Ez a modern termálépület kiváló védelmet nyújt; élvezze a meleg, száraz légkört az egyik legfunkcionálisabb gyógyfürdő központban.",
+                "ro": "Această clădire termală modernă oferă protecție excelentă; bucurați-vă de atmosfera caldă și uscată într-unul dintre cele mai funcționale centre spa.",
+                "en": "This modern thermal building offers excellent shelter; enjoy the warm, dry atmosphere in one of the city's most functional spa centers."
+              }
+            },
+            {
+              "name": {
+                "de": "MO.C.A. Montecatini Contemporary Art",
+                "hu": "MO.C.A. Montecatini Kortárs Művészet",
+                "ro": "MO.C.A. Artă Contemporană Montecatini",
+                "en": "MO.C.A. Montecatini Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und tauchen Sie ein in die Welt der Kunst; das prächtige Rathausgebäude bietet reichlich Schutz vor jedem Wolkenbruch.",
+                "hu": "Parkoljon a közelben, és merüljön el a művészet világában; a pazar városháza bőséges védelmet nyújt bármilyen felhőszakadás elől.",
+                "ro": "Parcați în apropiere și scufundați-vă în lumea artei; clădirea somptuoasă a primăriei oferă protecție din abundență împotriva ploii.",
+                "en": "Park nearby and dive into the world of art; the grand town hall building provides ample shelter from any sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Tettuccio",
+                "hu": "Terme Tettuccio",
+                "ro": "Terme Tettuccio",
+                "en": "Terme Tettuccio"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen überdachten Arkaden machen diesen Ort zum idealen Regen-Highlight; spazieren Sie trocken zwischen Marmorsäulen und Springbrunnen.",
+                "hu": "A hatalmas fedett árkádok miatt ez a hely az esős napok fénypontja; sétáljon szárazon a márványoszlopok és szökőkutak között.",
+                "ro": "Arcadele imense acoperite fac din acest loc punctul culminant al unei zile ploioase; plimbați-vă la adăpost printre coloane de marmură.",
+                "en": "The huge covered arcades make this spot a rainy-day highlight; walk dry between marble columns and historic fountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta Maona",
+                "hu": "Grotta Maona",
+                "ro": "Grotta Maona",
+                "en": "Grotta Maona"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle ist der ultimative Zufluchtsort; unter Tage sind Sie sicher vor Regen und können die bizarren Formationen in aller Ruhe bestaunen.",
+                "hu": "A barlang a végső menedék; a föld alatt biztonságban van az esőtől, és nyugodtan csodálhatja a bizarr kőzetformációkat.",
+                "ro": "Peștera este refugiul suprem; sub pământ sunteți feriți de ploaie și puteți admira formațiunile bizare în toată liniștea.",
+                "en": "The cave is the ultimate sanctuary; underground you are safe from the rain and can marvel at the bizarre formations in total peace."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Montecatini komfortabel mit dem Auto. Morgens lockt die beheizte Krippenausstellung, gefolgt von einer Panoramafahrt zu den Villen im klaren Winterlicht. Mittags entspannen Sie in der wohligen Wärme der Terme Redi oder im MOCA. Da die Sonne früh untergeht, genießen Sie die festlich beleuchteten Straßen der Stadt bequem vom warmen Fahrzeug aus, bevor Sie den Tag in der Grotta Maona ausklingen lassen.",
+            "hu": "Fedezze fel Montecatinit kényelmesen, autóval. Reggel a fűtött betlehemi kiállítás hívogat, majd panorámás autózás következik a villákhoz a tiszta téli fényben. Napközben a Terme Redi vagy a MOCA kellemes melegében pihenhet. Mivel a nap korán nyugszik, élvezze a város ünnepi fényeit a meleg autóból, mielőtt a napot a Grotta Maona állandó hőmérsékletű barlangjában zárná.",
+            "ro": "Explorați Montecatini confortabil cu mașina. Dimineața vă atrage expoziția încălzită de presepe, urmată de o plimbare panoramică spre vile în lumina clară a iernii. La prânz vă relaxați în căldura plăcută de la Terme Redi sau MOCA. Deoarece soarele apune devreme, bucurați-vă de străzile luminate festiv din mașină, înainte de a încheia ziua la Grotta Maona.",
+            "en": "Explore Montecatini comfortably by car. In the morning, the heated nativity display is inviting, followed by a scenic drive to the villas in the clear winter light. At noon, relax in the cozy warmth of Terme Redi or the MOCA. As the sun sets early, enjoy the city's festively lit streets from your warm vehicle before ending the day at the pleasantly temperate Grotta Maona."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Presepe meccanizzato",
+                "hu": "Presepe meccanizzato",
+                "ro": "Presepe meccanizzato",
+                "en": "Presepe meccanizzato"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbares Winter-Highlight; der beheizte Innenraum und die festliche Atmosphäre machen diesen Stopp besonders in der Vorweihnachtszeit wertvoll.",
+                "hu": "Csodálatos téli fénypont; a fűtött belső tér és az ünnepi hangulat különösen az adventi időszakban teszi érténessé ezt a megállót.",
+                "ro": "Un punct culminant al iernii; interiorul încălzit și atmosfera festivă fac această oprire valoroasă mai ales în perioada sărbătorilor.",
+                "en": "A wonderful winter highlight; the heated interior and festive atmosphere make this stop especially valuable during the holiday season."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Gusci",
+                "hu": "Villa Gusci",
+                "ro": "Villa Gusci",
+                "en": "Villa Gusci"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Blicke auf die Villa und die umliegende toskanische Hügellandschaft direkt von Ihrem Fahrzeug aus.",
+                "hu": "A tiszta téli levegő messzi kilátást enged a villára és a környező toszkán dombvidékre, amelyet akár az autóból is élvezhet.",
+                "ro": "Aerul clar al iernii permite vederi largi asupra vilei și a dealurilor toscane înconjurătoare direct din vehiculul dumneavoastră.",
+                "en": "The clear winter air allows for expansive views of the villa and the surrounding Tuscan hills right from your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Ankuri",
+                "hu": "Villa Ankuri",
+                "ro": "Villa Ankuri",
+                "en": "Villa Ankuri"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zur Villa bietet eine wunderbare Panorama-Perspektive auf die winterlichen Olivenhaine; perfekt für einen kurzen Stopp in der Kälte.",
+                "hu": "A villához vezető út csodás panorámát kínál a téli olajfaligetekre; tökéletes egy rövid, frissítő megállóra a hidegben.",
+                "ro": "Drumul spre vilă oferă o perspectivă panoramică minunată asupra livezilor de măslini iarna; perfect pentru o scurtă oprire în frig.",
+                "en": "The drive to the villa offers a wonderful panoramic perspective of winter olive groves; perfect for a short, refreshing stop in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Redi",
+                "hu": "Terme Redi",
+                "ro": "Terme Redi",
+                "en": "Terme Redi"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Heizung sorgt für ein wohliges Ambiente; nutzen Sie den Stopp, um sich gründlich aufzuwärmen, bevor Sie die Stadt weiter erkunden.",
+                "hu": "A modern fűtés kellemes környezetet biztosít; használja ki a megállót, hogy alaposan felmelegedjen, mielőtt tovább felfedezné a várost.",
+                "ro": "Încălzirea modernă asigură un ambient plăcut; profitați de oprire pentru a vă încălzi bine înainte de a continua explorarea orașului.",
+                "en": "The modern heating provides a cozy atmosphere; use this stop to warm up thoroughly before exploring the city further."
+              }
+            },
+            {
+              "name": {
+                "de": "MO.C.A. Montecatini Contemporary Art",
+                "hu": "MO.C.A. Montecatini Kortárs Művészet",
+                "ro": "MO.C.A. Artă Contemporană Montecatini",
+                "en": "MO.C.A. Montecatini Contemporary Art"
+              },
+              "tip_5lang": {
+                "de": "Ein luxuriöser Rückzugsort an kalten Tagen; genießen Sie Weltklasse-Kunst in der warmen und prunkvollen Atmosphäre des historischen Rathauses.",
+                "hu": "Luxus menedék a hideg napokon; élvezze a világklasszis művészetet a történelmi városháza meleg és pompás termeiben.",
+                "ro": "Un refugiu luxos în zilele reci; bucurați-vă de artă de talie mondială în atmosfera caldă și somptuoasă a primăriei istorice.",
+                "en": "A luxurious retreat on cold days; enjoy world-class art within the warm and grand atmosphere of the historic town hall building."
+              }
+            },
+            {
+              "name": {
+                "de": "Terme Tettuccio",
+                "hu": "Terme Tettuccio",
+                "ro": "Terme Tettuccio",
+                "en": "Terme Tettuccio"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Marmorsäulen auf magische Weise; ein kurzer, winterlich-frischer Spaziergang unter den Arkaden lohnt sich.",
+                "hu": "Az alacsonyan járó téli napfény mágikus módon világítja meg a márványoszlopokat; egy rövid, téli séta az árkádok alatt nagyon megéri.",
+                "ro": "Soarele jos de iarnă luminează magic coloanele de marmură; o scurtă plimbare hibernală sub arcade merită din plin.",
+                "en": "The low winter sun illuminates the marble columns in a magical way; a short, brisk winter stroll under the arcades is highly rewarding."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta Maona",
+                "hu": "Grotta Maona",
+                "ro": "Grotta Maona",
+                "en": "Grotta Maona"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es in der Höhle oft wärmer als draußen; genießen Sie den geschützten, konstanten Temperaturbereich dieser natürlichen Sehenswürdigkeit.",
+                "hu": "Télen a barlangban gyakran melegebb van, mint kint; élvezze ennek a természeti látnivalónak a védett, állandó hőmérsékletét a nap végén.",
+                "ro": "Iarna în peșteră este adesea mai cald decât afară; bucurați-vă de temperatura constantă și protejată a acestui obiectiv natural.",
+                "en": "In winter, the cave is often warmer than the outside air; enjoy the sheltered, constant temperature of this natural attraction."
+              }
+            }
+          ]
+        }
       }
     }
   }

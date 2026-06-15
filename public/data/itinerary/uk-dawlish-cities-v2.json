@@ -229,6 +229,280 @@
         "hu": "Kezdje a parti vasútállomáson, majd sétáljon be a városba, hogy üdvözölje a fekete hattyúkat a The Lawn-ban. Délben felfedezheti a helyi örökséget a múzeumban és a kastélyban, majd a történelmi templomban. Töltsön el egy pihentető délutánt a városi strandon, és csodálja meg az öreg halászöblöt. Végül másszon fel a Lea Mountra a tengeri kilátásért, és zárja a napot a békés Coryton Cove-ban.",
         "ro": "Începeți la gara de pe coastă, apoi plimbați-vă în oraș pentru a saluta lebedele negre la The Lawn. Prânzul dezvăluie patrimoniul local la muzeu și Manor House, urmate de biserica istorică. Petreceți o după-amiază relaxantă pe plaja orașului și admirați vechiul golf al pescarilor. În final, urcați pe Lea Mount pentru vederi ample la mare și încheiați ziua activă în liniștea de la Coryton Cove.",
         "en": "Start at the coastal railway station, then wander into town to greet the black swans at The Lawn. Midday reveals local heritage at the museum and Manor House, followed by the historic church. Spend a relaxing afternoon on the town beach and admire the historic fishermen's cove. Finally, ascend Lea Mount for sweeping sea views and end your active day in the peaceful tranquility of Coryton Cove."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Dawlish beginnt am Bahnhof, wo die Brandung dramatisch gegen die Mauern schlägt. Der Weg entlang des 'Brook' führt unter schützende Bäume am Lawn. Mittags bieten das Museum und das Manor House ideales Obdach, um die lokale Geschichte im Trockenen zu erkunden. Der Nachmittag an den Klippen ist neblig und atmosphärisch, perfekt für wetterfeste Entdecker.",
+            "hu": "A reggel Dawlish-ban esőben is varázslatos, ahogy a hullámok az állomás falának csapódnak. A Lawn mentén a patak ilyenkor megárad, a fák pedig némi védelmet nyújtanak. Délben a múzeum és a Manor House kiváló fedett menedék a történelem kedvelőinek. Délután a tengerparti sziklák ködös, drámai arcukat mutatják, ami vízálló öltözetben felejthetetlen látványt nyújt.",
+            "ro": "O dimineață ploioasă în Dawlish începe la gară, unde valurile se sparg dramatic de ziduri. Poteca de-a lungul pârâului oferă adăpost sub copacii de pe Lawn. La prânz, muzeul și Manor House sunt refugii ideale pentru a explora istoria locală la adăpost. După-amiaza pe faleză este cețoasă și plină de atmosferă, perfectă pentru exploratorii echipați cu pelerine de ploaie.",
+            "en": "A rainy morning in Dawlish starts at the station, where waves crash dramatically against the sea wall. The path along the Brook offers some shelter under the trees of The Lawn. At noon, the museum and Manor House provide perfect indoor sanctuary to explore local history. The afternoon by the cliffs is misty and atmospheric, rewarding those with waterproof gear with unique coastal views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Dawlish",
+                "hu": "Dawlish Vasútállomás",
+                "ro": "Gara Dawlish",
+                "en": "Dawlish Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Gischt von der Überführung aus; sie bietet Schutz vor dem Regen und einen spektakulären Blick auf die stürmische See und Züge.",
+                "hu": "Figyelje a tengeri permetet a gyalogos felüljáróról; innen védett helyről csodálhatja meg a viharos vizet és az állomásra érkező vonatokat.",
+                "ro": "Observați stropii de mare de pe pasarelă; aceasta oferă protecție împotriva ploii și o vedere spectaculoasă asupra mării învolburate și a trenurilor.",
+                "en": "Watch the sea spray from the covered footbridge; it provides shelter from the rain and a dramatic view of the stormy waves and passing trains."
+              }
+            },
+            {
+              "name": {
+                "de": "The Lawn",
+                "hu": "The Lawn",
+                "ro": "The Lawn",
+                "en": "The Lawn"
+              },
+              "tip_5lang": {
+                "de": "Die Enten und schwarzen Schwäne sammeln sich oft unter den Brücken; nutzen Sie die großen Bäume als natürlichen Regenschutz beim Beobachten.",
+                "hu": "A kacsák és a híres fekete hattyúk gyakran a hidak alatt keresnek menedéket; használja a nagy fákat természetes esernyőként a megfigyeléshez.",
+                "ro": "Rațele și lebedele negre se adună adesea sub poduri; folosiți copacii mari ca adăpost natural împotriva ploii în timp ce le observați.",
+                "en": "The ducks and black swans often gather under the bridges; use the large, leafy trees as natural umbrellas while watching the wildlife in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Dawlish",
+                "hu": "Dawlish Múzeum",
+                "ro": "Muzeul Dawlish",
+                "en": "Dawlish Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses gemütliche Museum ist der perfekte Ort, um den Regenschauer abzuwarten und dabei alles über die kuriose Eisenbahngeschichte zu erfahren.",
+                "hu": "Ez a hangulatos múzeum tökéletes hely az eső kivárására, miközben mindent megtudhat a város különleges vasúti és helyi történelméről.",
+                "ro": "Acest muzeu primitor este locul perfect pentru a aștepta trecerea ploii, învățând în același timp despre istoria feroviară curioasă a orașului.",
+                "en": "This cozy museum is the perfect spot to wait out a downpour while learning all about the town's unique railway and local maritime history."
+              }
+            },
+            {
+              "name": {
+                "de": "Manor House",
+                "hu": "Manor House",
+                "ro": "Manor House",
+                "en": "Manor House"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von der Veranda aus; das Gebäude bietet viele überdachte Ecken, um den Blick auf den nassen Garten zu genießen.",
+                "hu": "Csodálja meg az épületet a veranda alól; a ház számos fedett kiszögelést kínál, ahonnan szárazon élvezheti a friss, esőáztatta kert látványát.",
+                "ro": "Admirați arhitectura de la adăpostul veranda; clădirea oferă multe colțuri acoperite pentru a vă bucura de vederea grădinii proaspăt plouate.",
+                "en": "Admire the grand architecture from the porch area; the building offers several covered spots to enjoy the view of the lush, rain-soaked gardens."
+              }
+            },
+            {
+              "name": {
+                "de": "St Gregory's Church",
+                "hu": "St Gregory Templom",
+                "ro": "Biserica St Gregory",
+                "en": "St Gregory's Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern schlucken das Geräusch des Regens; genießen Sie die spirituelle Stille und die kunstvollen Glasfenster im trockenen Inneren.",
+                "hu": "A vastag falak elnyelik az eső kopogását; élvezze a spirituális csendet és a gyönyörű ólomüveg ablakokat a templom száraz és nyugodt belső terében.",
+                "ro": "Zidurile groase absorb sunetul ploii; bucurați-vă de liniștea spirituală și de vitraliile superbe în interiorul uscat și primitor al bisericii.",
+                "en": "The thick stone walls drown out the sound of the rain; enjoy the spiritual silence and the intricate stained glass windows in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Dawlish Town Beach",
+                "hu": "Dawlish Városi Strand",
+                "ro": "Plaja Orașului Dawlish",
+                "en": "Dawlish Town Beach"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Wolken über dem Meer sind ein tolles Fotomotiv; halten Sie sich unter den Arkaden der Bahnlinie auf, um trocken zu bleiben.",
+                "hu": "A tenger feletti sötét felhők fantasztikus fotótémát adnak; maradjon a vasúti viadukt árkádjai alatt, hogy szárazon figyelhesse a hullámokat.",
+                "ro": "Norii negri de deasupra mării oferă oportunități foto grozave; stați sub arcadele liniei ferate pentru a rămâne uscat în timp ce priviți valurile.",
+                "en": "The dark clouds over the English Channel create a moody photo backdrop; stay under the railway arches to watch the waves while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Boat Cove",
+                "hu": "Boat Cove",
+                "ro": "Boat Cove",
+                "en": "Boat Cove"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den nassen Stufen zum Ufer; die roten Felsen leuchten bei Regen besonders intensiv, was einen faszinierenden Kontrast bildet.",
+                "hu": "Vigyázzon a parthoz vezető vizes lépcsőkön; az ikonikus vörös sziklák színe esőben még intenzívebbé válik, lenyűgöző kontrasztot alkotva.",
+                "ro": "Atenție la treptele umede care duc spre țărm; stâncile roșii capătă o culoare intensă în ploaie, creând un contrast vizual fascinant.",
+                "en": "Take extra care on the wet steps leading to the shore; the red rocks glow with an intense hue when wet, creating a stunning visual contrast."
+              }
+            },
+            {
+              "name": {
+                "de": "Lea Mount",
+                "hu": "Lea Mount",
+                "ro": "Lea Mount",
+                "en": "Lea Mount"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann schlammig sein, tragen Sie festes Schuhwerk; die Aussichtspunkte bieten einen weiten Blick auf die neblige Küstenlinie.",
+                "hu": "A talaj sáros lehet, viseljen túrabakancsot; a kilátópontokról ilyenkor egyedülálló, ködös panoráma nyílik az elmosódó tengerparti sávra.",
+                "ro": "Solul poate fi noroios, purtați încălțăminte adecvată; punctele de observație oferă o vedere unică asupra liniei de coastă încețoșate.",
+                "en": "The ground can be muddy, so wear sturdy boots; the viewpoints offer a unique, misty panorama of the coastline stretching toward Teignmouth."
+              }
+            },
+            {
+              "name": {
+                "de": "Coryton Cove",
+                "hu": "Coryton Cove",
+                "ro": "Coryton Cove",
+                "en": "Coryton Cove"
+              },
+              "tip_5lang": {
+                "de": "Der Eisenbahntunnel bietet einen kurzen Unterstand vor dem Regen; genießen Sie die einsame Atmosphäre dieses versteckten Strandes im Dunst.",
+                "hu": "A vasúti alagút rövid menedéket nyújt az eső elől; élvezze ennek a rejtett strandnak a különleges, magányos hangulatát a felszálló párában.",
+                "ro": "Tunelul feroviar oferă un scurt adăpost împotriva ploii; bucurați-vă de atmosfera solitară a acestei plaje ascunse în mijlocul vaporilor.",
+                "en": "The railway tunnel provides a brief shelter from the rain; enjoy the solitary and peaceful atmosphere of this hidden beach in the mist."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am Lawn lässt den Frost auf dem Gras glitzern, während die schwarzen Schwäne im Bach schwimmen. Mittags wärmt man sich am besten im Museum auf, bevor man die kühle Meeresbrise am Strand genießt. Da die Sonne bereits gegen 16:30 Uhr untergeht, leuchten die roten Klippen im späten Licht besonders golden. Abends kehrt im Ort eine gemütliche Ruhe ein.",
+            "hu": "A tiszta téli reggeleken a zúzmara szikrázik a Lawn pázsitján, miközben a híres fekete hattyúk a patakban úszkálnak. Délben a múzeum melegében érdemes felfrissülni, mielőtt a friss tengeri szélben sétálnánk a parton. A nap korán, fél öt körül nyugszik, arany fénybe vonva a vörös sziklákat. Az este közeledtével a város csendes és meghitt lesz.",
+            "ro": "O dimineață senină de iarnă pe Lawn face ca promoroaca să sclipească pe iarbă, în timp ce lebedele negre înoată pe pârâu. La prânz, este recomandat să vă încălziți în muzeu înainte de o plimbare revigorantă pe plajă. Soarele apune devreme, în jur de ora 16:30, luminând stâncile roșii cu nuanțe aurii. Seara, în oraș se așterne o liniște primitoare.",
+            "en": "On crisp winter mornings, frost sparkles on the grass of The Lawn while black swans glide along the stream. Noon is best spent warming up in the museum before braving the fresh sea breeze at the beach. As the sun sets early around 4:30 PM, the red cliffs glow with golden hues. By evening, the town settles into a peaceful and cozy coastal atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Dawlish",
+                "hu": "Dawlish Vasútállomás",
+                "ro": "Gara Dawlish",
+                "en": "Dawlish Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sicht bis zur Exe-Mündung; ziehen Sie sich warm an, da der Wind am Bahnsteig sehr schneidend sein kann.",
+                "hu": "A tiszta téli levegőben ellátni egészen az Exe-torkolatig; öltözzön rétegesen, mert a szél a peronon ilyenkor metszően hideg lehet.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate excelentă până la estuarul Exe; îmbrăcați-vă gros, vântul pe peron poate fi foarte tăios.",
+                "en": "The clear winter air allows for great views toward the Exe Estuary; wrap up warm as the wind on the platform can be quite biting this season."
+              }
+            },
+            {
+              "name": {
+                "de": "The Lawn",
+                "hu": "The Lawn",
+                "ro": "The Lawn",
+                "en": "The Lawn"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die schwarzen Schwäne in ihrem Winterquartier; die gefrorenen Ufer des Baches bieten ein wunderschönes Fotomotiv im Morgenlicht.",
+                "hu": "Figyelje meg a fekete hattyúkat téli élőhelyükön; a patak fagyos partja csodálatos fotótémát nyújt a szikrázó reggeli napfényben.",
+                "ro": "Observați lebedele negre în habitatul lor de iarnă; malurile înghețate ale pârâului oferă un subiect foto superb în lumina dimineții.",
+                "en": "Observe the black swans in their winter habitat; the frosty edges of the brook create a beautiful photographic scene in the low morning sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Dawlish",
+                "hu": "Dawlish Múzeum",
+                "ro": "Muzeul Dawlish",
+                "en": "Dawlish Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um sich in den beheizten Räumen aufzuwärmen und in aller Ruhe die detaillierten viktorianischen Exponate zu betrachten.",
+                "hu": "Használja ki a látogatást, hogy felmelegedjen a fűtött termekben, miközben alaposan szemügyre veszi a részletgazdag viktoriánus kiállításokat.",
+                "ro": "Profitați de vizită pentru a vă încălzi în sălile primitoare, examinând pe îndelete exponatele victoriene pline de detalii fascinante.",
+                "en": "Take advantage of the visit to warm up in the heated rooms while exploring the detailed Victorian exhibits and local historical artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Manor House",
+                "hu": "Manor House",
+                "ro": "Manor House",
+                "en": "Manor House"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten wirken im Winter besonders weitläufig und ruhig; achten Sie auf die frühen Schneeglöckchen, die oft schon im Januar blühen.",
+                "hu": "A kertek télen különösen tágasnak és csendesnek tűnnek; keresse a korai hóvirágokat, amelyek gyakran már januárban kibújnak a fák alatt.",
+                "ro": "Grădinile par extrem de spațioase și liniștite iarna; căutați ghioceii timpurii care înfloresc adesea încă din luna ianuarie sub copaci.",
+                "en": "The gardens feel particularly spacious and quiet in winter; look out for early snowdrops that often begin to bloom here as early as January."
+              }
+            },
+            {
+              "name": {
+                "de": "St Gregory's Church",
+                "hu": "St Gregory Templom",
+                "ro": "Biserica St Gregory",
+                "en": "St Gregory's Church"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Besinnung; das weiche Winterlicht fällt wunderschön durch die Fenster und taucht den Kirchenraum in eine friedliche Stimmung.",
+                "hu": "Az elcsendesedés helyszíne; a gyenge téli fény gyönyörűen szűrődik át az ablakokon, békés hangulattal árasztva el a templom belső terét.",
+                "ro": "Un loc de reflecție; lumina slabă de iarnă pătrunde superb prin ferestre, învăluind interiorul bisericii într-o atmosferă de pace.",
+                "en": "A place for quiet reflection; the soft winter light filters beautifully through the windows, filling the church with a peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Dawlish Town Beach",
+                "hu": "Dawlish Városi Strand",
+                "ro": "Plaja Orașului Dawlish",
+                "en": "Dawlish Town Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten, fast menschenleeren Strand; die kalte Meeresluft ist belebend, aber Handschuhe und Mütze sind hier ein Muss.",
+                "hu": "Élvezze a tágas, szinte teljesen néptelen strandot; a hideg tengeri levegő frissítő, de a kesztyű és a sapka viselése itt elengedhetetlen.",
+                "ro": "Bucurați-vă de plaja vastă și aproape pustie; aerul rece de mare este revigorant, dar mănușile și căciula sunt obligatorii aici.",
+                "en": "Enjoy the wide, nearly deserted beach; the cold sea air is incredibly bracing, but gloves and a warm hat are essential for this coastal walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Boat Cove",
+                "hu": "Boat Cove",
+                "ro": "Boat Cove",
+                "en": "Boat Cove"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne lässt die roten Klippen in einem intensiven Ockerton leuchten; ideal für Landschaftsfotografien am Nachmittag.",
+                "hu": "Az alacsonyan járó téli nap intenzív okkersárga fénybe vonja a vörös sziklákat; ideális helyszín a délutáni tájképfotózáshoz.",
+                "ro": "Soarele jos de iarnă luminează stâncile roșii într-o nuanță intensă de ocru; este un loc ideal pentru fotografii de peisaj după-amiaza.",
+                "en": "The low winter sun makes the red cliffs glow with an intense ochre color; this is an ideal spot for landscape photography in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Lea Mount",
+                "hu": "Lea Mount",
+                "ro": "Lea Mount",
+                "en": "Lea Mount"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie spätestens um 16 Uhr hoch, um den Sonnenuntergang zu sehen; der Blick über die winterliche Küste ist atemberaubend schön.",
+                "hu": "Menjen fel legkésőbb délután 4-ig, hogy lássa a naplementét; a kilátás a téli tengerpartra ilyenkor lélegzetelállítóan szép és tiszta.",
+                "ro": "Urcați cel târziu la ora 16 pentru a vedea apusul; vederea asupra coastei de iarnă este de o frumusețe care îți taie respirația.",
+                "en": "Head up by 4 PM at the latest to catch the winter sunset; the view across the coastline is breathtakingly clear and beautiful at this hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Coryton Cove",
+                "hu": "Coryton Cove",
+                "ro": "Coryton Cove",
+                "en": "Coryton Cove"
+              },
+              "tip_5lang": {
+                "de": "Hier endet der Tag in winterlicher Abgeschiedenheit; der kleine Strand bietet Schutz vor dem Nordwind und eine friedliche Meeresstille.",
+                "hu": "Itt a nap téli elszigeteltségben ér véget; a kis öböl védelmet nyújt az északi szél ellen, és békés tengeri nyugalmat áraszt sötétedéskor.",
+                "ro": "Aici ziua se încheie în izolare de iarnă; mica plajă oferă protecție împotriva vântului de nord și o liniște marină deplină la amurg.",
+                "en": "The day ends here in winter seclusion; this small cove offers some protection from northern winds and a peaceful sea view at dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +657,196 @@
         "hu": "Kezdje kerékpáros kalandját a The Lawn-nál, magába szívva a reggeli hangulatot, mielőtt a helyi múzeumhoz gurulna. Délben az elegáns Manor House bemutatja a polgári történelmet, előkészítve egy festői parti túrát. A délutáni szellő kíséri a Red Rock Beach-hez, mielőtt a természetvédelmi terület dűnéi felé pedálozna. Zárja aktív napját egy kis vidám szórakozással a kalóz kalandgolfpályán.",
         "ro": "Începeți aventura pe bicicletă la The Lawn, absorbind atmosfera dimineții înainte de a vă îndrepta spre muzeu. La prânz, elegantul Manor House dezvăluie istoria civică, pregătind o plimbare pitorească pe coastă. Briza după-amiezii vă însoțește la Red Rock Beach, înainte de a pedala spre dunele rezervației naturale. Încheiați ziua activă cu o distracție relaxantă la minigolful cu pirați.",
         "en": "Begin your cycling adventure at The Lawn, absorbing the morning atmosphere before rolling towards the local museum. At midday, the elegant Manor House reveals civic history, setting up a scenic coastal ride. The afternoon breeze accompanies you to Red Rock Beach, before you pedal towards the nature reserve's dunes. End your active day with some lighthearted fun at the pirate adventure golf course."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Dawlish bei Regen erfordert Vorsicht auf den Küstenwegen, bietet aber leere Pfade. Der Lawn bietet Schutz unter Bäumen, bevor es zum Museum geht. Die Fahrt zum Warren Naturreservat führt durch nasse, grüne Landschaften, die bei Regen besonders frisch duften. Planen Sie mehr Zeit für die Fahrt ein, da die Wege durch Pfützen rutschig sein können.",
+            "hu": "Az esős biciklizés Dawlish-ban óvatosságot igényel a parti utakon, de cserébe néptelen ösvényeket kínál. A Lawn fái alatt keressen menedéket a múzeum felé menet. A Warren természetvédelmi terület felé vezető út esőben különösen friss illatú és zöld. Szánjon több időt a tekerésre, mert a pocsolyák miatt az út csúszós lehet.",
+            "ro": "Ciclismul în Dawlish pe ploaie necesită prudență pe drumurile de coastă, dar oferă poteci libere. Copacii de pe Lawn oferă adăpost înainte de a merge la muzeu. Drumul spre rezervația Warren trece prin peisaje verzi și proaspete sub ploaie. Alocați mai mult timp deplasării, deoarece drumurile pot fi alunecoase din cauza bălților.",
+            "en": "Cycling in Dawlish in the rain requires caution on coastal paths but offers quiet, empty routes. Use the trees of The Lawn for shelter before heading to the museum. The ride to Warren Nature Reserve is lush and fragrant in the rain. Plan extra time for your journey as paths can be slippery and puddle-filled today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Lawn",
+                "hu": "The Lawn",
+                "ro": "The Lawn",
+                "en": "The Lawn"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den großen Bäumen am Bachufer; diese bieten guten Schutz, während Sie die schwarzen Schwäne im Regen beobachten.",
+                "hu": "Parkolja le kerékpárját a patakparti nagy fák alatt; ezek jó védelmet nyújtanak, miközben az esőben úszkáló fekete hattyúkat figyeli.",
+                "ro": "Parcați bicicleta sub copacii mari de pe malul pârâului; aceștia oferă protecție bună în timp ce observați lebedele negre pe ploaie.",
+                "en": "Park your bike under the large trees by the brook; they offer good cover while you watch the famous black swans swimming in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Dawlish",
+                "hu": "Dawlish Múzeum",
+                "ro": "Muzeul Dawlish",
+                "en": "Dawlish Museum"
+              },
+              "tip_5lang": {
+                "de": "Sperren Sie Ihr Rad sicher draußen ab und genießen Sie eine lange Pause im Trockenen, um die faszinierenden lokalen Exponate zu erkunden.",
+                "hu": "Zárja le biztonságosan a biciklijét odakint, és élvezze a hosszú, száraz pihenőt, miközben felfedezi a lenyűgöző helyi kiállítási tárgyakat.",
+                "ro": "Încuiați bicicleta în siguranță afară și bucurați-vă de o pauză lungă la adăpost, explorând exponatele locale fascinante din interior.",
+                "en": "Lock your bike securely outside and enjoy a long break in the dry interior while exploring the fascinating local history and exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Manor House",
+                "hu": "Manor House",
+                "ro": "Manor House",
+                "en": "Manor House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich für einen kurzen Check Ihrer Ausrüstung; die Gärten wirken bei Regen besonders mystisch und grün.",
+                "hu": "Használja a fedett bejáratot a felszerelése ellenőrzésére; a kertek esőben különösen misztikusnak és buján zöldnek hatnak a tekerés közben.",
+                "ro": "Folosiți zona de intrare acoperită pentru o scurtă verificare a echipamentului; grădinile par mistice și verzi sub ploaie în timpul turului.",
+                "en": "Use the covered entrance area for a quick gear check; the historic gardens look particularly mystical and lush in the soft coastal rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Red Rock Beach",
+                "hu": "Red Rock Beach",
+                "ro": "Red Rock Beach",
+                "en": "Red Rock Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg entlang der Küste kann bei starkem Wind nassgespritzt werden; tragen Sie wasserfeste Kleidung für diesen exponierten Abschnitt.",
+                "hu": "A part menti kerékpárútra erős szélben felcsaphat a víz; viseljen vízálló ruházatot ezen a kitett, de látványos útszakaszon.",
+                "ro": "Pista de biciclete de-a lungul coastei poate fi stropită de valuri pe vânt puternic; purtați haine impermeabile pentru această secțiune expusă.",
+                "en": "The coastal cycle path can get sea spray during high winds; wear waterproof gear for this exposed but visually stunning section of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Dawlish Warren Naturreservat",
+                "hu": "Dawlish Warren Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Dawlish Warren",
+                "en": "Dawlish Warren Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die Beobachtungshütten auf, um Vögel trocken zu beobachten; die Wege im Reservat können nach Regen stellenweise matschig sein.",
+                "hu": "Keresse fel a madármegfigyelő kunyhókat, hogy szárazon maradhasson; a rezervátum ösvényei eső után helyenként sárosak és csúszósak lehetnek.",
+                "ro": "Vizitați observatoarele pentru a vedea păsările la adăpost; potecile din rezervație pot fi noroioase și alunecoase după ploaie.",
+                "en": "Visit the bird hides to watch wildlife while staying completely dry; be aware that some reserve paths can be muddy after heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirates Cove Abenteuergolf",
+                "hu": "Pirates Cove Kalandgolf",
+                "ro": "Minigolf Aventura Pirates Cove",
+                "en": "Pirates Cove Adventure Golf"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab, ob die Anlage bei starkem Regen geöffnet ist; oft bietet das Clubhaus einen kleinen Unterstand für Radfahrer.",
+                "hu": "Ellenőrizze előre, hogy nyitva vannak-e heves esőzésben; a klubház gyakran kínál egy kis fedett részt a megpihenő kerékpárosoknak.",
+                "ro": "Verificați în prealabil dacă este deschis pe ploaie torențială; adesea, zona recepției oferă un mic adăpost pentru bicicliștii în tranzit.",
+                "en": "Check ahead if they are open during heavy rain; the facility often has a small covered area near the reception for cyclists to rest briefly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Dawlish bietet klare Luft und weite Sichten über das Meer. Starten Sie am Lawn und wärmen Sie sich später im Museum auf. Die Tour zum Warren Naturreservat ist bei Kälte erfrischend, erfordert aber warme Handschuhe gegen den Fahrtwind. Da es früh dunkel wird, sollten Sie spätestens um 16:00 Uhr zurück sein, um die Sicherheit bei Tageslicht zu nutzen.",
+            "hu": "A téli kerékpározás Dawlish-ban friss levegőt és tiszta kilátást kínál a tengerre. Kezdjen a Lawn-nál, majd később melegedjen fel a múzeumban. A Warren felé vezető túra frissítő, de a menetszél miatt meleg kesztyűre lesz szüksége. Mivel korán sötétedik, érdemes délután 4-ig befejezni a túrát a biztonságos látási viszonyok miatt.",
+            "ro": "Ciclismul de iarnă în Dawlish oferă aer curat și vederi extinse asupra mării. Începeți pe Lawn și încălziți-vă mai târziu în muzeu. Turul spre rezervația Warren este revigorant, dar necesită mănuși groase împotriva vântului. Deoarece se întunecă devreme, finalizați traseul până la ora 16:00 pentru siguranță.",
+            "en": "Winter cycling in Dawlish provides crisp air and clear, sweeping coastal views. Start at The Lawn and plan a warm stop at the museum later. The ride to Warren Nature Reserve is bracing, so wear thick gloves against the wind chill. As it gets dark early, aim to finish by 4 PM to ensure safety in daylight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Lawn",
+                "hu": "The Lawn",
+                "ro": "The Lawn",
+                "en": "The Lawn"
+              },
+              "tip_5lang": {
+                "de": "Das morgendliche Licht auf dem gefrorenen Rasen ist herrlich; fahren Sie vorsichtig auf den gepflasterten Wegen, falls Reif liegt.",
+                "hu": "A reggeli fény a fagyos pázsiton gyönyörű; tekerjen óvatosan a burkolt utakon, mert a dér miatt néhol csúszósak lehetnek.",
+                "ro": "Lumina dimineții pe iarba înghețată este superbă; pedalați cu atenție pe aleile pavate, deoarece pot fi alunecoase din cauza chiciurei.",
+                "en": "The morning light on the frosty grass is beautiful; cycle carefully on the paved paths as they can be slippery with early morning rime."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Dawlish",
+                "hu": "Dawlish Múzeum",
+                "ro": "Muzeul Dawlish",
+                "en": "Dawlish Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Aufwärmpause mitten am Tag; erkunden Sie die Geschichte der Region, während sich Ihre Hände wieder aufwärmen.",
+                "hu": "Ideális helyszín egy napközbeni felmelegedésre; fedezze fel a régió történelmét, miközben átfagyott kezei újra átmelegednek a benti melegben.",
+                "ro": "Un loc ideal pentru o pauză de încălzire la mijlocul zilei; explorați istoria regiunii în timp ce vă recăpătați confortul termic în interior.",
+                "en": "An ideal spot for a mid-day warming break; explore the fascinating regional history while giving your hands a chance to thaw out in the heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Manor House",
+                "hu": "Manor House",
+                "ro": "Manor House",
+                "en": "Manor House"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur des Hauses kommt ohne das dichte Sommerlaub der Bäume noch besser zur Geltung; genießen Sie die klare Sicht beim Vorbeifahren.",
+                "hu": "A ház építészeti részletei a sűrű nyári lombozat nélkül még jobban érvényesülnek; élvezze a tiszta rálátást a kerékpárról elhaladva.",
+                "ro": "Detaliile arhitecturale ale casei ies mai bine în evidență fără frunzișul dens de vară; bucurați-vă de vizibilitatea clară în timp ce pedalați pe lângă.",
+                "en": "The architectural details of the house stand out even more without the dense summer foliage; enjoy the clear views as you cycle past the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Red Rock Beach",
+                "hu": "Red Rock Beach",
+                "ro": "Red Rock Beach",
+                "en": "Red Rock Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind kann hier sehr stark sein; nutzen Sie die niedrige Sonne für spektakuläre Fotos der leuchtend roten Felsen und der Brandung.",
+                "hu": "A téli szél itt nagyon erős lehet; használja ki az alacsony napállást a ragyogó vörös sziklák és a habzó tenger látványos fotózásához.",
+                "ro": "Vântul de iarnă poate fi foarte puternic aici; profitați de soarele jos pentru fotografii spectaculoase cu stâncile roșii și valurile mării.",
+                "en": "Winter winds can be very strong here; use the low sun for spectacular photos of the bright red rocks contrasting with the churning sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Dawlish Warren Naturreservat",
+                "hu": "Dawlish Warren Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Dawlish Warren",
+                "en": "Dawlish Warren Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Im Winter rasten hier viele Zugvögel; bringen Sie ein Fernglas mit und genießen Sie die kühle, salzige Seeluft am Ende Ihres Radwegs.",
+                "hu": "Télen számos költöző madár pihen meg itt; hozzon távcsövet, és élvezze a hűvös, sós tengeri levegőt a kerékpárútja végpontján.",
+                "ro": "Iarna, aici se odihnesc multe păsări migratoare; aduceți un binoclu și bucurați-vă de aerul sărat și rece la capătul traseului de bicicletă.",
+                "en": "Many migratory birds rest here during winter; bring binoculars and enjoy the brisk, salty sea air at the end of your cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirates Cove Abenteuergolf",
+                "hu": "Pirates Cove Kalandgolf",
+                "ro": "Minigolf Aventura Pirates Cove",
+                "en": "Pirates Cove Adventure Golf"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die verkürzten Winteröffnungszeiten; die Anlage ist oft nur bis zum frühen Nachmittag bespielbar, bevor es zu kalt wird.",
+                "hu": "Ügyeljen a rövidített téli nyitvatartásra; a pálya gyakran csak kora délutánig látogatható, mielőtt túl hideg lenne a szabadtéri játékhoz.",
+                "ro": "Atenție la programul redus de iarnă; adesea locația este deschisă doar până după-amiaza devreme, înainte de a deveni prea frig pentru joc.",
+                "en": "Be mindful of shortened winter opening hours; the facility often closes earlier in the day before the temperature drops too low for outdoor play."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "Autós túrája a The Lawn-nál kezdődik, amely lehetővé teszi a friss reggeli sétát a híres vízjátékokhoz. Délben egy rövid út visz a történelmi templomhoz, majd a lenyűgöző helyi múzeumhoz. A délután arra hív, hogy a városi strand közelében parkoljon és beszívja a friss tengeri levegőt. Végül egy rövid autózás elviszi a természetvédelmi területre, amelyet egy esti kalandgolf-kör koronáz meg.",
         "ro": "Turul cu mașina începe la The Lawn, permițând o plimbare matinală proaspătă pentru a admira fântânile faimoase. La prânz, o scurtă călătorie vă duce la biserica istorică și apoi la fascinantul muzeu local. După-amiaza vă invită să parcați lângă plaja orașului pentru a respira aerul proaspăt al mării. În cele din urmă, o scurtă ieșire vă aduce la rezervația naturală, urmată de o rundă de minigolf.",
         "en": "Your driving tour begins at The Lawn, allowing for a fresh morning stroll to admire the famous water features. By noon, a short drive transports you to the historic church and then to the fascinating local museum. The afternoon invites you to park near the town beach to breathe in the sea air. Finally, a short drive brings you to the nature reserve, capped off by an evening round of adventure golf."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Dawlish bei Regen bequem erkunden, da man schnell zwischen den Attraktionen wechseln kann. Beginnen Sie am Lawn und parken Sie nahe der Kirche St. Gregory. Das Museum bietet ein langes, trockenes Erlebnis. Am Nachmittag bietet die Fahrt zum Warren Naturreservat tolle Ausblicke auf die stürmische Küste direkt aus dem warmen Fahrzeug.",
+            "hu": "Autóval Dawlish esőben is kényelmesen felfedezhető, mivel gyorsan válthat a látnivalók között. Kezdjen a Lawn-nál, majd parkoljon le a St Gregory templom közelében. A múzeum hosszas, száraz kikapcsolódást kínál. Délután a Warren természetvédelmi terület felé autózva élvezheti a viharos tengerpart látványát a meleg kocsiból.",
+            "ro": "Cu mașina, Dawlish poate fi explorat confortabil pe ploaie, permițând trecerea rapidă între atracții. Începeți la Lawn și parcați lângă biserica St Gregory. Muzeul oferă o experiență lungă și uscată. După-amiaza, drumul spre rezervația Warren oferă priveliști superbe asupra coastei învolburate chiar din confortul vehiculului.",
+            "en": "By car, Dawlish can be explored comfortably even in heavy rain, allowing quick transitions between sights. Start at The Lawn and park near St Gregory’s Church for easy access. The museum offers a long, dry cultural experience. In the afternoon, driving to Warren Nature Reserve lets you admire the stormy coast from your warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Lawn",
+                "hu": "The Lawn",
+                "ro": "The Lawn",
+                "en": "The Lawn"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden Sie direkt an der Straße; beobachten Sie die schwarzen Schwäne im Bach, ohne weit durch den Regen laufen zu müssen.",
+                "hu": "Parkolóhelyeket közvetlenül az út mentén talál; figyelje meg a patakban úszó fekete hattyúkat anélkül, hogy sokat kellene gyalogolnia az esőben.",
+                "ro": "Găsiți locuri de parcare chiar lângă drum; observați lebedele negre de pe pârâu fără a fi nevoie să mergeți mult prin ploaie.",
+                "en": "You can find parking spots directly along the roadside; watch the black swans in the brook without having to walk far through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "St Gregory's Church",
+                "hu": "St Gregory Templom",
+                "ro": "Biserica St Gregory",
+                "en": "St Gregory's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nahe der Kirche für einen kurzen, trockenen Weg zum Eingang; das Innere bietet eine ruhige Zuflucht vor dem Wetter.",
+                "hu": "Használja a templom közeli parkolót a bejárathoz vezető rövid, száraz út érdekében; a belső tér csendes menedéket nyújt az időjárás elől.",
+                "ro": "Folosiți parcarea de lângă biserică pentru un drum scurt și uscat spre intrare; interiorul oferă un refugiu liniștit împotriva vremii rele.",
+                "en": "Use the parking area near the church for a short, dry walk to the entrance; the historic interior offers a calm sanctuary from the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Dawlish",
+                "hu": "Dawlish Múzeum",
+                "ro": "Muzeul Dawlish",
+                "en": "Dawlish Museum"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe gibt es öffentliche Parkplätze; verbringen Sie hier die regenreichste Zeit des Tages und tauchen Sie in die Stadtgeschichte ein.",
+                "hu": "A közelben több nyilvános parkoló is található; töltse itt a nap legesősebb részét, és merüljön el a város izgalmas történelmében.",
+                "ro": "Există parcări publice în apropiere; petreceți aici cea mai ploioasă parte a zilei, aprofundând istoria fascinantă a orașului la adăpost.",
+                "en": "There are public parking lots nearby; spend the rainiest part of the day here immersing yourself in the town's fascinating local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Dawlish Town Beach",
+                "hu": "Dawlish Városi Strand",
+                "ro": "Plaja Orașului Dawlish",
+                "en": "Dawlish Town Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Meer und genießen Sie den Blick auf die aufgewühlte See; bei Regen wirkt die Küste besonders kraftvoll und unberührt.",
+                "hu": "Parkoljon le a tengerpart közelében, és élvezze a felkorbácsolt tenger látványát; esőben a partvidék különösen erőteljesnek és érintetlennek hat.",
+                "ro": "Parcați lângă mare și bucurați-vă de priveliștea mării învolburate; pe ploaie, coasta pare extrem de puternică și sălbatică din mașină.",
+                "en": "Park near the seafront to enjoy the view of the churning English Channel; the coast looks particularly powerful and raw during a rainstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Dawlish Warren Naturreservat",
+                "hu": "Dawlish Warren Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Dawlish Warren",
+                "en": "Dawlish Warren Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt dorthin bietet schöne Ausblicke; nutzen Sie die Beobachtungshütten vor Ort, um die Natur ohne nass zu werden zu erleben.",
+                "hu": "Az odavezető út gyönyörű kilátást kínál; használja a helyi madármegfigyelő kunyhókat, hogy szárazon élvezhesse a természet közelségét.",
+                "ro": "Drumul până acolo oferă vederi frumoase; folosiți observatoarele locale pentru a experimenta natura fără a vă uda pe timpul ploii.",
+                "en": "The drive there offers lovely coastal views; use the on-site bird hides to experience the local wildlife without getting wet in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirates Cove Abenteuergolf",
+                "hu": "Pirates Cove Kalandgolf",
+                "ro": "Minigolf Aventura Pirates Cove",
+                "en": "Pirates Cove Adventure Golf"
+              },
+              "tip_5lang": {
+                "de": "Direkt an der Anlage gibt es Parkplätze; prüfen Sie bei Regen die Verfügbarkeit der Indoor-Bereiche oder warten Sie einen Schauer im Auto ab.",
+                "hu": "Közvetlenül a pálya mellett van parkoló; esőben ellenőrizze a fedett részeket, vagy várja meg az autóban, amíg alábbhagy a csapadék.",
+                "ro": "Există parcare chiar lângă locație; pe ploaie, verificați disponibilitatea zonelor acoperite sau așteptați în mașină trecerea ploii.",
+                "en": "Parking is available right at the facility; in case of rain, check for covered areas or simply wait out a passing shower in your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dawlish im Winter lässt sich hervorragend mit dem Auto erkunden, um der Kälte zwischen den Stopps zu entfliehen. Der Lawn glänzt oft frostig weiß. Das Museum und die Kirche St. Gregory sind wunderbare, warme Orte für den Mittag. Die Fahrt zum Warren Naturreservat belohnt Sie mit klaren Sichten auf die winterliche Exe-Mündung, bevor Sie im frühen Sonnenuntergang heimkehren.",
+            "hu": "Dawlish télen kiválóan felfedezhető autóval, így elkerülheti a hideget a megállók között. A Lawn gyakran zúzmarás fehérben tündököl. A múzeum és a St Gregory templom remek melegedőhelyek délidőben. A Warren felé autózva tiszta kilátás nyílik a téli Exe-torkolatra, mielőtt a korai naplementében hazafelé indulna.",
+            "ro": "Dawlish iarna poate fi explorat excelent cu mașina, evitând frigul între opriri. Lawn strălucește adesea într-un alb înghețat. Muzeul și biserica St Gregory sunt locuri calde și primitoare la amiază. Drumul spre Warren vă răsplătește cu vederi clare asupra estuarului Exe, înainte de a reveni pe drum la apusul devreme.",
+            "en": "Dawlish in winter is ideal to explore by car, staying warm while traveling between scenic stops. The Lawn often sparkles with white frost. The museum and St Gregory’s Church are wonderful, warm havens for midday visits. The drive to Warren offers clear views of the winter Exe Estuary before you head back in the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Lawn",
+                "hu": "The Lawn",
+                "ro": "The Lawn",
+                "en": "The Lawn"
+              },
+              "tip_5lang": {
+                "de": "Vom warmen Auto aus können Sie die schwarzen Schwäne im morgendlichen Reif beobachten; ideal für einen schnellen, frostigen Fotostopp.",
+                "hu": "A meleg autóból is megfigyelheti a fekete hattyúkat a zúzmarás reggelen; ideális egy gyors, látványos téli fotómegállóhoz a patak partján.",
+                "ro": "Din mașina caldă puteți observa lebedele negre în dimineața gerosă; este un loc ideal pentru o oprire foto rapidă în peisajul de iarnă.",
+                "en": "From your warm car, you can watch the black swans on a frosty morning; it's an ideal spot for a quick, scenic winter photo stop by the brook."
+              }
+            },
+            {
+              "name": {
+                "de": "St Gregory's Church",
+                "hu": "St Gregory Templom",
+                "ro": "Biserica St Gregory",
+                "en": "St Gregory's Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, während die Wintersonne flach durch die Fenster fällt; der Parkplatz bietet einen bequemen Zugang.",
+                "hu": "Élvezze a belső csendet, miközben a téli nap alacsonyan besüt az ablakokon; a parkoló kényelmes és gyors bejutást tesz lehetővé a templomba.",
+                "ro": "Bucurați-vă de liniștea din interior în timp ce soarele de iarnă pătrunde prin ferestre; parcarea oferă un acces facil și rapid la intrare.",
+                "en": "Enjoy the peaceful interior as the winter sun slants through the windows; the adjacent parking offers very convenient and quick access."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum von Dawlish",
+                "hu": "Dawlish Múzeum",
+                "ro": "Muzeul Dawlish",
+                "en": "Dawlish Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den beheizten Ausstellungsräumen auf; ein Besuch hier ist perfekt, um die Kälte des Winters für eine Weile zu vergessen.",
+                "hu": "Melegedjen fel a fűtött kiállítótermekben; egy itteni látogatás tökéletes módja annak, hogy egy időre elfelejtse a kinti téli hideget.",
+                "ro": "Încălziți-vă în sălile de expoziție bine încălzite; o vizită aici este perfectă pentru a uita pentru o vreme de frigul iernii de afară.",
+                "en": "Warm up in the heated exhibition rooms; a visit here is the perfect way to take a break from the winter chill while exploring local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Dawlish Town Beach",
+                "hu": "Dawlish Városi Strand",
+                "ro": "Plaja Orașului Dawlish",
+                "en": "Dawlish Town Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an der Uferpromenade für einen tollen Ausblick auf das winterliche Meer; die kalte Brise lässt sich so am besten genießen.",
+                "hu": "Parkoljon le a tengerparti sétányon, ahonnan remek kilátás nyílik a téli tengerre; a hideg szellőt így a legkényelmesebb megcsodálni.",
+                "ro": "Parcați pe faleza mării pentru o vedere superbă asupra apei în timpul iernii; briza rece poate fi savurată cel mai bine din interior.",
+                "en": "Park along the seafront for a great view of the winter waves; it’s the most comfortable way to enjoy the bracing sea breeze today."
+              }
+            },
+            {
+              "name": {
+                "de": "Dawlish Warren Naturreservat",
+                "hu": "Dawlish Warren Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Dawlish Warren",
+                "en": "Dawlish Warren Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist im Winter oft leerer; nutzen Sie die klare Sicht über die Mündung, um Zugvögel bei ihrem Winteraufenthalt zu beobachten.",
+                "hu": "A parkoló télen gyakran üresebb; használja ki a tiszta kilátást a torkolatra, és figyelje meg a nálunk telelő különleges költözőmadarakat.",
+                "ro": "Parcarea este adesea mai liberă iarna; profitați de vizibilitatea clară asupra estuarului pentru a observa păsările migratoare la iernat.",
+                "en": "The parking lot is often quieter in winter; take advantage of the clear views across the estuary to spot rare migratory birds wintering here."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirates Cove Abenteuergolf",
+                "hu": "Pirates Cove Kalandgolf",
+                "ro": "Minigolf Aventura Pirates Cove",
+                "en": "Pirates Cove Adventure Golf"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die winterlichen Öffnungszeiten vorab; die tiefstehende Sonne sorgt für eine ganz besondere Stimmung auf der Golfanlage.",
+                "hu": "Ellenőrizze előre a téli nyitvatartást; az alacsonyan járó nap egészen különleges hangulatot áraszt a golfpályán a délutáni órákban.",
+                "ro": "Verificați programul de iarnă în avans; soarele jos creează o atmosferă cu totul specială pe terenul de minigolf în timpul după-amiezii.",
+                "en": "Check winter opening hours in advance; the low afternoon sun creates a unique and beautiful atmosphere across the adventure golf course."
+              }
+            }
+          ]
+        }
       }
     }
   }

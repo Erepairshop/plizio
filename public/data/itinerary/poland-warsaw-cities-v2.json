@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Varsó történelmi szívének felfedezésével, a magasodó Zsigmond-oszlopoktól a gondosan újjáépített Királyi Várig sétálva.\nDélben átsétál a hangulatos Óváros piacterén, majd a Szász Kert buja növényzete és hűsítő szökőkútjai felé veszi az irányt egy kis pihenésre.\nDélután tartson egy kis szünetet a Szent Kereszt templomnál, megcsodálva annak lenyűgöző barokk építészetét és mély kulturális jelentőségét.\nGyalogtúráját a Kultúra és Tudomány Palotájából nyíló naplemente megtekintésével zárja, ahonnan csodálatos panoráma nyílik a városra.",
         "ro": "Începeți dimineața traversând inima istorică a Varșoviei, de la impunătoarea Coloană a lui Sigismund până la Castelul Regal, reconstruit cu o atenție meticuloasă.\nLa prânz veți explora fermecătoarea Piață a Orașului Vechi, înainte de o plimbare relaxantă spre verdeața luxuriantă și fântânile superbe din Grădina Saxonă.\nDupă-amiaza, opriți-vă pentru un moment de reflecție la Biserica Sfânta Cruce, admirând arhitectura sa barocă și semnificația culturală profundă.\nÎncheiați turul la pas admirând apusul de la Palatul Culturii și Științei, bucurându-vă de o vedere panoramică absolut uimitoare asupra orașului.",
         "en": "Start your morning traversing the historic heart of Warsaw, from the towering Sigismund's Column to the meticulously rebuilt Royal Castle.\nMidday brings you through the charming Old Town Market Square before a relaxing stroll towards the lush greenery and fountains of the Saxon Garden.\nIn the afternoon, pause for reflection at the Holy Cross Church, admiring its stunning baroque architecture and profound cultural significance.\nConclude your walking tour by witnessing the sunset from the towering Palace of Culture and Science, enjoying panoramic views over the city skyline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Schlossplatz mit einem stabilen Regenschirm. Mittags bietet die Altstadt viele Arkaden zum Unterstellen. Am Nachmittag wärmen Sie sich in der Heiligkreuzkirche auf. Abends glänzen die nassen Straßen des modernen Zentrums im Schein der Straßenlaternen, was der Stadt eine ganz besondere, fast filmische Atmosphäre verleiht.",
+            "hu": "Kezdje a reggelt az Óvárosban egy erős esernyővel. Délben a történelmi árkádok és kapualjak nyújtanak menedéket a záporok elől. Délután a Szent Kereszt templom csendje és melege várja, ahol megszárítkozhat. Este a felhőkarcolók fényei tükröződnek a vizes aszfalton, varázslatos hangulatot árasztva a modern negyedben.",
+            "ro": "Începeți dimineața în Orașul Vechi cu o umbrelă rezistentă. La prânz, arcadele istorice oferă adăpost împotriva averselor neașteptate. După-amiaza, interiorul cald al bisericii Sfânta Cruce este locul perfect pentru reculegere. Seara, luminile zgârie-norilor se reflectă spectaculos pe asfaltul umed din centrul nou.",
+            "en": "Start the morning in the Old Town with a sturdy umbrella. At noon, the historic archways provide shelter from the passing showers. In the afternoon, find warmth and silence inside the Holy Cross Church. By evening, the city lights reflect beautifully on the wet pavement, creating a cinematic atmosphere in the business district."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sigismundssäule",
+                "hu": "Zsigmond-oszlop",
+                "ro": "Coloana lui Sigismund",
+                "en": "Sigismund's Column"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto unter dem Schirm; der nasse Kopfsteinpflaster reflektiert die Geschichte Warschaus wunderschön bei leichtem Nieselregen.",
+                "hu": "Készítsen egy gyors fotót az esernyő alól; a nedves macskakő és a csillogó tér különleges fényt ad a város legrégebbi emlékművének az esőben.",
+                "ro": "Faceți o fotografie rapidă sub umbrelă; pavajul umed reflectă frumos istoria Varșoviei în timp ce burnița cade peste piața castelului.",
+                "en": "Take a quick photo under your umbrella; the wet cobblestones reflect Warsaw's history beautifully during a light drizzle on the castle square."
+              }
+            },
+            {
+              "name": {
+                "de": "Königsschloss",
+                "hu": "Királyi Vár",
+                "ro": "Castelul Regal",
+                "en": "Royal Castle"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zufluchtsort bei Regen; verbringen Sie mehr Zeit in den prunkvollen Sälen und der Lanckoroński-Sammlung, während es draußen stürmt.",
+                "hu": "Tökéletes menedék esős időben; töltsön több időt a pompás belső terek és a Lanckoroński-gyűjtemény felfedezésével, amíg kint eláll az égi áldás.",
+                "ro": "Refugiul ideal pe timp de ploaie; petreceți mai mult timp explorând sălile opulente și colecția Lanckoroński în timp ce stați la adăpost.",
+                "en": "The perfect rainy day refuge; spend extra time exploring the opulent interiors and the Lanckoroński Collection while staying completely dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Altstadtmarkt",
+                "hu": "Óvárosi piactér",
+                "ro": "Piața Orașului Vechi",
+                "en": "Old Town Market Square"
+              },
+              "tip_5lang": {
+                "de": "Die bunten Häuser leuchten im Regen besonders intensiv; nutzen Sie die Cafés am Rand als trockenen Aussichtspunkt auf die Warschauer Seejungfer.",
+                "hu": "A színes házfalak még élénkebbek az esőben; húzódjon be egy kávézó teraszára, és onnan csodálja a Sellő-szobrot a csillogó főtéren.",
+                "ro": "Casele colorate par mai vibrante în ploaie; folosiți cafenelele de pe margine ca punct de observație uscat pentru statuia Sirenei din centru.",
+                "en": "The colorful houses look even more vibrant in the rain; use the perimeter cafes as a dry vantage point to admire the Mermaid statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Sächsischer Garten",
+                "hu": "Szász Kert",
+                "ro": "Grădina Saxonă",
+                "en": "Saxon Garden"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Wege, um Matsch zu vermeiden; das Grabmal des unbekannten Soldaten bietet einen überdachten Ort für eine kurze Pause.",
+                "hu": "Használja a kövezett sétányokat a sár elkerülésére; az Ismeretlen Katona Síremléke fedett helyszínt biztosít egy rövid, tiszteletteljes megálláshoz.",
+                "ro": "Folosiți aleile pavate pentru a evita noroiul; Mormântul Soldatului Necunoscut oferă un spațiu acoperit pentru o scurtă pauză de reflecție.",
+                "en": "Stick to the paved paths to avoid mud; the Tomb of the Unknown Soldier provides a brief covered spot for reflection and shelter from rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligkreuzkirche",
+                "hu": "Szent Kereszt templom",
+                "ro": "Biserica Sfânta Cruce",
+                "en": "Holy Cross Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, warmer Ort zum Trocknen; bewundern Sie Chopins Herz, während Sie dem Prasseln des Regens gegen die Kirchenfenster lauschen.",
+                "hu": "Csendes és meleg hely a száradáshoz; csodálja meg Chopin szívének nyughelyét, miközben hallgatja az eső kopogását a hatalmas templomablakokon.",
+                "ro": "Un loc liniștit și cald pentru a vă usca; admirați inima lui Chopin în timp ce ascultați ploaia bătând în ferestrele înalte ale bisericii.",
+                "en": "A quiet and warm sanctuary to dry off; admire Chopin's heart urn while listening to the rain pattering against the large stained-glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Kultur- und Wissenschaftspalast",
+                "hu": "Kultúra és Tudomány Palotája",
+                "ro": "Palatul Culturii și Științei",
+                "en": "Palace of Culture and Science"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Trockenen; die Aussicht vom 30. Stock ist auch bei tiefen Wolken und Nebel über der Stadt äußerst atmosphärisch.",
+                "hu": "Zárja a napot fedett helyen; a 30. emeleti kilátás még alacsony felhőzet és köd esetén is különleges, melankolikus panorámát nyújt a városra.",
+                "ro": "Încheiați ziua la adăpost; vederea de la etajul 30 este extrem de atmosferică chiar și cu nori joși și ceață deasupra întregului oraș.",
+                "en": "End your day indoors; the view from the 30th floor is incredibly atmospheric even with low clouds and mist hanging over the skyline."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start an der Sigismundssäule erfordert warme Kleidung und Thermoskanne. Mittags wärmen Sie sich in den prunkvollen Galerien des Königsschlosses auf. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie die Festbeleuchtung am frühen Nachmittag. Beenden Sie den Tag im beheizten Kulturpalast, während der Winterwind draußen pfeift.",
+            "hu": "A fagyos reggel a Zsigmond-oszlopnál réteges öltözetet és forró italt kíván. Délben a Királyi Vár fűtött és díszes galériái nyújtanak menedéket a hideg elől. Mivel a nap korán, 17:00 körül nyugszik, már délután élvezheti a karácsonyi fényeket. Az estét a Kultúra Palotájának melegében zárja, amíg kint süvít a szél.",
+            "ro": "O dimineață geroasă la Coloana lui Sigismund necesită haine groase și lichide calde. La prânz, refugiați-vă în galeriile încălzite ale Castelului Regal. Soarele apune pe la 17:00, lăsând loc luminilor festive de pe Calea Regală. Încheiați ziua în interiorul cald al Palatului Culturii, departe de vântul tăios.",
+            "en": "A frosty morning at Sigismund's Column requires warm layers and a hot drink. At noon, the heated and ornate galleries of the Royal Castle offer a cozy refuge. As the sun sets around 17:00, enjoy the festive illuminations early. End your day inside the warm Palace of Culture while the winter wind howls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sigismundssäule",
+                "hu": "Zsigmond-oszlop",
+                "ro": "Coloana lui Sigismund",
+                "en": "Sigismund's Column"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Platz; die Säule wirkt im klaren Winterlicht besonders stolz vor dem Hintergrund der weihnachtlichen Altstadt.",
+                "hu": "Vigyázzon a csúszós jégre a téren; az oszlop büszkén magasodik a tiszta téli fényben, háttérben az ünnepi díszbe öltözött óvárossal.",
+                "ro": "Atenție la gheața de pe pavaj; coloana pare mai impunătoare în lumina clară de iarnă, având ca fundal Orașul Vechi decorat festiv.",
+                "en": "Watch out for slippery ice on the square; the column stands proud in the crisp winter light against the backdrop of the festive Old Town."
+              }
+            },
+            {
+              "name": {
+                "de": "Königsschloss",
+                "hu": "Királyi Vár",
+                "ro": "Castelul Regal",
+                "en": "Royal Castle"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten königlichen Gemächer sind perfekt zum Aufwärmen; bewundern Sie die rekonstruierten Details, während Sie der Kälte draußen entfliehen.",
+                "hu": "A fűtött királyi lakosztályok tökéletesek a felmelegedéshez; csodálja meg a gazdag részleteket, miközben elmenekül a kinti csípős hideg elől.",
+                "ro": "Apartamentele regale încălzite sunt perfecte pentru a vă încălzi; admirați detaliile reconstruite în timp ce evadați de frigul de afară.",
+                "en": "The heated royal apartments are perfect for thawing out; admire the reconstructed details while escaping the biting cold of the castle courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Altstadtmarkt",
+                "hu": "Óvárosi piactér",
+                "ro": "Piața Orașului Vechi",
+                "en": "Old Town Market Square"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Atmosphäre und die Schlittschuhbahn; halten Sie die Handschuhe bereit, während Sie die verschneite Meerjungfrau fotografieren.",
+                "hu": "Élvezze a téli hangulatot és a téren felállított korcsolyapályát; tartsa melegen a kezeit, miközben lefotózza a hófödte Sellő-szobrot.",
+                "ro": "Bucurați-vă de atmosfera de iarnă și de patinoarul din piață; păstrați-vă mănușile în timp ce fotografiați Sirena acoperită de zăpadă.",
+                "en": "Enjoy the winter atmosphere and the temporary ice rink; keep your gloves on while taking photos of the snow-dusted Mermaid statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Sächsischer Garten",
+                "hu": "Szász Kert",
+                "ro": "Grădina Saxonă",
+                "en": "Saxon Garden"
+              },
+              "tip_5lang": {
+                "de": "Die verschneiten Bäume sind ein malerischer Anblick; bleiben Sie auf den Hauptwegen, da es früh dunkel wird und die Luft schnell abkühlt.",
+                "hu": "A hófödte fák festői látványt nyújtanak; maradjon a kivilágított főutakon, mivel korán sötétedik és a levegő gyorsan lehűl a parkban.",
+                "ro": "Copacii înzăpeziți oferă o priveliște pitorească; rămâneți pe aleile principale, deoarece se întunecă repede și aerul devine tăios.",
+                "en": "The snow-covered trees are a picturesque sight; stick to the main paths as it gets dark early and the temperature drops rapidly in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Heiligkreuzkirche",
+                "hu": "Szent Kereszt templom",
+                "ro": "Biserica Sfânta Cruce",
+                "en": "Holy Cross Church"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp zum Auftauen; das feierliche Innere bietet eine friedliche Pause vom beißenden Warschauer Winterwind vor der Tür.",
+                "hu": "Meleg pihenőhely az átfagyott végtagoknak; a fenséges belső tér békés menedéket nyújt a bejárat előtt süvítő varsói téli szél elől.",
+                "ro": "O oprire caldă pentru a vă dezmorți; interiorul solemn oferă o pauză liniștită de vântul tăios de iarnă care bate la intrare.",
+                "en": "A warm pit stop to thaw out; the solemn interior offers a peaceful break from the biting Warsaw winter wind howling outside the doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kultur- und Wissenschaftspalast",
+                "hu": "Kultúra és Tudomány Palotája",
+                "ro": "Palatul Culturii și Științei",
+                "en": "Palace of Culture and Science"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie ab 17:00 Uhr das Lichtermeer der Stadt vom Aussichtsdeck aus; das Gebäude selbst ist im Winter wunderschön beleuchtet.",
+                "hu": "Nézze meg 17:00 órától a város felgyulladó fényeit a kilátóról; maga az épület is monumentálisan fest a téli esti díszkivilágításban.",
+                "ro": "Priviți luminile orașului aprinzându-se la ora 17:00 de pe platformă; clădirea în sine este iluminată superb în serile de iarnă.",
+                "en": "Watch the city lights flicker on at 17:00 from the observation deck; the massive building itself is beautifully illuminated during winter evenings."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Indítsa kerékpáros napját a POLIN Múzeumnál, elmerülve a történelemben, mielőtt a Szász Kert elegáns ösvényei felé pedálozna.\nDél körül tekerjen le kényelmesen a folyópartra, hogy felfedezze a Kopernikusz Tudományos Központ interaktív csodáit.\nDélután élvezze a Visztula folyó felől fújó hűs szellőt, és tartson egy jól megérdemelt pihenőt a Poniatówka homokos partjain.\nFejezze be aktív napját a hatalmas Łazienki Parkban, ahol a csodálatos paloták és a szabadon kószáló pávák tökéletes esti nyugalmat árasztanak.",
         "ro": "Începeți ziua de ciclism la Muzeul POLIN, explorând istoria înainte de a pedala spre aleile elegante și pline de farmec ale Grădinii Saxone.\nÎn jurul prânzului, coborâți lin spre malul râului pentru a descoperi minunile interactive oferite de Centrul de Știință Copernic.\nBucurați-vă de briza după-amiezii de-a lungul râului Vistula, luând o pauză binemeritată pe întinderile de nisip de la plaja Poniatówka.\nÎncheiați-vă ziua activă pedalând spre vastul Parc Łazienki, unde palatele grandioase și păunii creează un cadru de seară perfect și senin.",
         "en": "Kick off your cycling day at the POLIN Museum, diving deep into history before pedaling towards the elegant pathways of the Saxon Garden.\nAround noon, ride smoothly down to the riverside to explore the interactive wonders of the Copernicus Science Centre.\nEnjoy the afternoon breeze along the Vistula River, taking a well-deserved break on the sandy stretches of the Poniatówka beach.\nFinish your active day by cycling to the expansive Łazienki Park, where grand palaces and roaming peacocks create a perfectly serene evening setting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf rutschigen Radwegen. Beginnen Sie im POLIN Museum, um den Morgenschauern zu entgehen. Mittags bietet der Kopernikus-Wissenschaftszentrum stundenlangen Innenspaß. Nutzen Sie wasserfeste Kleidung für die Fahrten zwischen den Stationen und achten Sie auf Pfützen in den Parks, während Sie die frische, feuchte Luft genießen.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a csúszós utakon. Kezdjen a POLIN Múzeumban, hogy elkerülje a reggeli záport. Délben a Kopernikusz Tudományos Központ nyújt fedett szórakozást. Használjon vízálló ruházatot az állomások között, és ügyeljen a tócsákra a parkokban, miközben élvezi a friss, párás levegőt.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pistele alunecoase. Începeți la Muzeul POLIN pentru a evita aversele de dimineață. La prânz, Centrul Copernic oferă ore de distracție în interior. Folosiți echipament impermeabil între opriri și atenție la bălțile din parcuri în timp ce savurați aerul proaspăt.",
+            "en": "Cycling in the rain requires caution on slippery paths. Start at the POLIN Museum to avoid the morning showers. At noon, the Copernicus Science Centre offers hours of indoor fun. Use waterproof gear for the rides between stops and watch out for puddles in the parks while enjoying the fresh, humid air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "POLIN-Museum",
+                "hu": "POLIN Múzeum",
+                "ro": "Muzeul POLIN",
+                "en": "POLIN Museum"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie drinnen, um dem Regen zu entkommen; die moderne Architektur bietet Schutz, während Sie Ihr Rad sicher an den Bügeln abschließen.",
+                "hu": "Kezdje a napot bent, hogy megússza az esőt; a modern épület védelmet nyújt, miközben bringáját biztonságosan lelakatolhatja a tárolókhoz.",
+                "ro": "Începeți în interior pentru a scăpa de ploaie; arhitectura modernă oferă adăpost în timp ce vă încuiați bicicleta în siguranță la rastele.",
+                "en": "Start indoors to escape the rain; the modern architecture provides great shelter while you lock your bike safely at the designated racks."
+              }
+            },
+            {
+              "name": {
+                "de": "Sächsischer Garten",
+                "hu": "Szász Kert",
+                "ro": "Grădina Saxonă",
+                "en": "Saxon Garden"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen Wegen; das Parklayout ermöglicht eine schnelle Durchfahrt zum nächsten überdachten Halt, falls der Regen stärker wird.",
+                "hu": "Biciklizzen óvatosan a vizes utakon; a park elrendezése lehetővé teszi a gyors áthaladást a következő fedett megállóig, ha eleredne az eső.",
+                "ro": "Circulați cu atenție pe aleile umede; configurația parcului permite un tranzit rapid către următoarea oprire acoperită dacă ploaia persistă.",
+                "en": "Cycle carefully on wet paths; the park's layout allows for a quick transit to the next indoor stop if the rain intensifies suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kopernikus-Wissenschaftszentrum",
+                "hu": "Kopernikusz Tudományos Központ",
+                "ro": "Centrul de Știință Copernic",
+                "en": "Copernicus Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer langer Halt bei Regen; stellen Sie Ihr Rad unter und genießen Sie interaktive Wissenschaft, ohne nass zu werden.",
+                "hu": "Ideális hosszú megálló esős időben; hagyja a biciklit a tárolóban, és élvezze az interaktív tudományt anélkül, hogy elázna.",
+                "ro": "O oprire lungă ideală pe ploaie; lăsați bicicleta la rastele și bucurați-vă de știința interactivă fără a vă uda deloc.",
+                "en": "An ideal long stop for rainy weather; park your bike and enjoy hours of interactive science experiments without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Poniatówka",
+                "hu": "Poniatówka",
+                "ro": "Poniatówka",
+                "en": "Poniatówka"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist bei Regen weniger einladend, aber die Aussicht auf die Weichsel ist dramatisch; nutzen Sie einen wasserfesten Sattelschutz für Ihr Rad.",
+                "hu": "A strand esőben kevésbé vonzó, de a Visztula látványa drámai; használjon vízálló nyeregvédőt, amíg leállítja a biciklit a folyóparton.",
+                "ro": "Plaja este mai puțin primitoare pe ploaie, dar vederea spre Vistula este dramatică; folosiți o protecție impermeabilă pentru șaua bicicletei.",
+                "en": "The beach is less inviting in the rain, but the Vistula view is dramatic; use a waterproof seat cover for your bike while parked here."
+              }
+            },
+            {
+              "name": {
+                "de": "Łazienki-Park",
+                "hu": "Łazienki Park",
+                "ro": "Parcul Łazienki",
+                "en": "Łazienki Park"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einer Fahrt durch den Dunst; das Palais auf dem Wasser wirkt bei Regen und Nebel besonders ätherisch und ruhig.",
+                "hu": "Zárja a túrát egy ködös tekeréssel; a vízen álló palota különlegesen légiesnek és nyugodtnak tűnik az esőben és a párában.",
+                "ro": "Încheiați turul cu o plimbare prin ceață; palatul de pe apă pare extrem de eteric și liniștit reflectat în apa încrețită de ploaie.",
+                "en": "Finish your tour with a ride through the mist; the Palace on the Isle looks ethereal and calm when reflected in the rain-streaked water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Warschauer Winter erfordert Handschuhe und warme Kleidung gegen den Wind. Starten Sie im beheizten POLIN Museum. Mittags bieten die Museen willkommene Pausen zum Aufwärmen. Da es gegen 17:00 Uhr dunkel wird, stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, um die beleuchteten Parks und Denkmäler sicher zu erkunden.",
+            "hu": "A varsói téli biciklizés kesztyűt és meleg ruhát igényel a szél ellen. Kezdjen a fűtött POLIN Múzeumban. Napközben a múzeumok kínálnak meleg pihenőt a tekerések között. Mivel 17:00 körül sötétedik, ügyeljen a lámpákra, hogy biztonságosan fedezhesse fel a kivilágított parkokat és emlékműveket.",
+            "ro": "Mersul pe bicicletă iarna în Varșovia necesită mănuși și haine groase împotriva vântului. Începeți la Muzeul POLIN încălzit. În timpul zilei, muzeele oferă pauze binevenite pentru încălzire. Deoarece se întunecă pe la 17:00, asigurați-vă că luminile bicicletei funcționează pentru a vedea parcurile iluminate.",
+            "en": "Cycling in Warsaw's winter requires gloves and warm layers against the wind chill. Start at the heated POLIN Museum. During the day, museums offer welcome warm-up breaks. Since it gets dark around 17:00, ensure your bike lights are working to safely explore the beautifully illuminated parks and monuments."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "POLIN-Museum",
+                "hu": "POLIN Múzeum",
+                "ro": "Muzeul POLIN",
+                "en": "POLIN Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung abzugeben; das Museum ist ein warmer und faszinierender Startpunkt für Ihren Tag.",
+                "hu": "Használja a ruhatárat a nehéz téli kabátok leadására; a múzeum meleg és lenyűgöző kiindulópontja a téli városnézésnek.",
+                "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă; muzeul este un punct de plecare cald și fascinant pentru ziua dumneavoastră.",
+                "en": "Use the cloakroom to drop off heavy winter layers; the museum is a warm and fascinating starting point for your chilly day out."
+              }
+            },
+            {
+              "name": {
+                "de": "Sächsischer Garten",
+                "hu": "Szász Kert",
+                "ro": "Grădina Saxonă",
+                "en": "Saxon Garden"
+              },
+              "tip_5lang": {
+                "de": "Die verschneite Fontäne und die Statuen bieten tolle Fotomotive; fahren Sie vorsichtig, da die Wege bei Frost rutschig sein können.",
+                "hu": "A hófödte szökőkút és szobrok remek fotótémák; tekerjen óvatosan, mert a sétányok fagyos időben csúszósak lehetnek a parkban.",
+                "ro": "Fântâna și statuile înzăpezite oferă oportunități foto grozave; pedalați cu atenție, deoarece aleile pot fi alunecoase când îngheață.",
+                "en": "The snow-covered fountain and statues offer great photo ops; cycle carefully as the paths can be slippery when frost hits the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Kopernikus-Wissenschaftszentrum",
+                "hu": "Kopernikusz Tudományos Központ",
+                "ro": "Centrul de Știință Copernic",
+                "en": "Copernicus Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei interaktiven Experimenten auf; das Bistro im Inneren ist perfekt für einen heißen Tee vor der nächsten Etappe.",
+                "hu": "Melegedjen fel az interaktív kísérletek között; a benti bisztró tökéletes egy forró teára a következő biciklis szakasz előtt.",
+                "ro": "Încălziți-vă printre experimentele interactive; bistroul din interior este perfect pentru un ceai fierbinte înainte de următoarea etapă.",
+                "en": "Warm up while exploring interactive experiments; the indoor bistro is perfect for a hot tea before heading back out into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Poniatówka",
+                "hu": "Poniatówka",
+                "ro": "Poniatówka",
+                "en": "Poniatówka"
+              },
+              "tip_5lang": {
+                "de": "Die Weichsel kann im Winter teilweise zugefroren sein; genießen Sie den eisigen Wind und die weite Aussicht auf die Skyline von Warschau.",
+                "hu": "A Visztula télen részben befagyhat; élvezze a jeges szelet és a tágas kilátást Varsó modern felhőkarcolóira a folyópartról.",
+                "ro": "Vistula poate fi parțial înghețată iarna; bucurați-vă de vântul tăios și de vederea panoramică asupra orizontului Varșoviei.",
+                "en": "The Vistula might be partially frozen in winter; enjoy the icy breeze and the expansive view of the Warsaw skyline from the riverbank."
+              }
+            },
+            {
+              "name": {
+                "de": "Łazienki-Park",
+                "hu": "Łazienki Park",
+                "ro": "Parcul Łazienki",
+                "en": "Łazienki Park"
+              },
+              "tip_5lang": {
+                "de": "Die Winterbeleuchtung macht den Park nach 17:00 Uhr magisch; fahren Sie langsam, um die festliche Stimmung und die Pfauen im Schnee zu bewundern.",
+                "hu": "A téli díszkivilágítás 17:00 után varázslatossá teszi a parkot; tekerjen lassan, hogy megcsodálhassa az ünnepi fényeket és a hófödte palotát.",
+                "ro": "Iluminatul de iarnă face parcul magic după ora 17:00; pedalați încet pentru a admira atmosfera festivă și păunii prin zăpadă.",
+                "en": "The winter illuminations make the park magical after 17:00; ride slowly to admire the festive mood and see the peacocks in the snow."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A festői autózás a lélegzetelállító Wilanów-palotánál kezdődik, amely egy igazi királyi ékszerdoboz, és tökéletes a pompás kertek reggeli felfedezéséhez.\nVezessen vissza a városközpont felé, útközben megállva, hogy megcsodálja a Łazienki Park buja tájait és az ikonikus Chopin-emlékművet.\nDélután induljon a Varsói Felkelés Múzeumába egy megrendítő történelmi utazásra, majd tegyen egy gyors kitérőt a kolosszális Kultúrpalotához.\nZárja átfogó városnézését a POLIN Múzeumnál, elgondolkodva az évszázados örökségen, mielőtt egy hagyományos lengyel vacsorára indulna.",
         "ro": "Călătoria dumneavoastră pitorească începe la uluitorul Palat Wilanów, o bijuterie regală perfectă pentru a explora grădinile sale magnifice dimineața.\nConduceți rapid înapoi spre centrul orașului, oprindu-vă pentru a admira peisajele luxuriante din Parcul Łazienki și emblematicul Monument Chopin.\nDupă-amiaza, mergeți la Muzeul Revoltei din Varșovia pentru o călătorie istorică emoționantă, urmată de o oprire la colosalul Palat al Culturii.\nÎncheiați-vă turul extins al orașului la Muzeul POLIN, reflectând asupra secolelor de moștenire culturală înainte de a ieși la o cină tradițională poloneză.",
         "en": "Your scenic drive begins at the breathtaking Wilanów Palace, a royal gem perfectly suited for a leisurely morning exploring its magnificent gardens.\nDrive swiftly back towards the city center, stopping to admire the lush landscapes of Łazienki Park and the iconic Chopin Monument.\nIn the afternoon, head west to the Warsaw Uprising Museum for a poignant historical journey, followed by a quick stop at the colossal Palace of Culture.\nConclude your comprehensive city tour at the POLIN Museum, reflecting on centuries of heritage before heading out for a traditional Polish dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Auto ist perfekt, um im Regen trocken von einem Palast zum nächsten zu gelangen. Beginnen Sie in Wilanów und genießen Sie die luxuriösen Innenräume. Mittags bietet der Łazienki-Park Museen zur Flucht vor dem Wetter. Verbringen Sie den Nachmittag im Warschauer Aufstandsmuseum und beenden Sie den Tag mit einem trockenen Blick aus dem Kulturpalast.",
+            "hu": "Az autó tökéletes megoldás, hogy esőben is szárazon jussunk egyik palotától a másikig. Kezdjen Wilanówban, és élvezze a fényűző belső tereket. Délben a Łazienki Park múzeumai nyújtanak menedéket. A délutánt töltse a Varsói Felkelés Múzeumában, a napot pedig zárja a Kultúra Palotájának fedett kilátójában.",
+            "ro": "Mașina este perfectă pentru a ajunge uscat de la un palat la altul pe timp de ploaie. Începeți la Wilanów și bucurați-vă de interioarele luxoase. La prânz, parcul Łazienki oferă muzee pentru a scăpa de vremea rea. Petreceți după-amiaza la Muzeul Revoltei și încheiați ziua cu o priveliște uscată de la Palatul Culturii.",
+            "en": "A car is perfect for getting from one palace to another while staying dry in the rain. Start at Wilanów and enjoy the luxurious interiors. At noon, Łazienki Park's museums offer an escape from the weather. Spend the afternoon at the Warsaw Uprising Museum and end your day with a dry view from the Palace of Culture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wilanów-Palast",
+                "hu": "Wilanów-palota",
+                "ro": "Palatul Wilanów",
+                "en": "Wilanów Palace"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und verbringen Sie Zeit in den königlichen Gemächern; der Barockglanz lässt den grauen Regen draußen schnell vergessen.",
+                "hu": "Parkoljon a bejárathoz közel, és töltsön több időt a királyi lakosztályokban; a barokk pompa hamar feledteti a kinti szürke esős időt.",
+                "ro": "Parcați aproape de intrare și petreceți timp în apartamentele regale; strălucirea barocă vă va face să uitați de ploaia cenușie de afară.",
+                "en": "Park close to the entrance and spend extra time in the royal apartments; the Baroque splendor makes you forget the grey rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Łazienki-Park",
+                "hu": "Łazienki Park",
+                "ro": "Parcul Łazienki",
+                "en": "Łazienki Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Palais auf dem Wasser; der kurze Weg vom Parkplatz lohnt sich für die prachtvollen, trockenen Innenräume des Denkmals.",
+                "hu": "Látogasson el a vízen álló palotába; a rövid séta a parkolótól megéri a csodálatos, száraz belső terekért és a festménygyűjteményért.",
+                "ro": "Vizitați palatul de pe apă; scurta plimbare de la parcare merită pentru interioarele superbe și uscate ale acestui monument istoric.",
+                "en": "Visit the Palace on the Isle; the short walk from the parking area is worth it for the magnificent, dry interiors of this royal residence."
+              }
+            },
+            {
+              "name": {
+                "de": "Chopin-Denkmal",
+                "hu": "Chopin-emlékmű",
+                "ro": "Monumentul Chopin",
+                "en": "Chopin Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp aus dem Autofenster oder mit Schirm; die Weidenzweige wirken im Regen besonders melancholisch und passend zur Musik.",
+                "hu": "Gyors fotómegálló az autóablakból vagy esernyővel; a fűzfaágak az esőben különösen melankolikusak és illenek Chopin zenéjéhez.",
+                "ro": "O oprire foto rapidă de la fereastra mașinii sau cu umbrela; ramurile de salcie par melancolice în ploaie, potrivindu-se cu muzica lui.",
+                "en": "A quick photo stop from the car window or with an umbrella; the willow branches look particularly melancholy and fitting in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Warschauer Aufstands",
+                "hu": "Varsói Felkelés Múzeuma",
+                "ro": "Muzeul Revoltei din Varșovia",
+                "en": "Warsaw Uprising Museum"
+              },
+              "tip_5lang": {
+                "de": "Ideal für regnerische Nachmittage; die immersive Ausstellung hält Sie stundenlang im Trockenen, während Sie in die Geschichte eintauchen.",
+                "hu": "Ideális esős délutánokra; a magával ragadó kiállítás órákig szárazon tartja, miközben elmélyül a város hősies történelmében.",
+                "ro": "Ideal pentru după-amiezele ploioase; expoziția imersivă vă ține la adăpost ore întregi în timp ce aprofundați istoria eroică a orașului.",
+                "en": "Ideal for rainy afternoons; the immersive exhibition keeps you dry for hours while you dive deep into the city's heroic history."
+              }
+            },
+            {
+              "name": {
+                "de": "Kultur- und Wissenschaftspalast",
+                "hu": "Kultúra és Tudomány Palotája",
+                "ro": "Palatul Culturii și Științei",
+                "en": "Palace of Culture and Science"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus direkt am Palast; genießen Sie den Panoramablick auf das verregnete Warschau aus der sicheren, trockenen Höhe.",
+                "hu": "Használja a palota melletti parkolót; élvezze a panorámát az esős Varsóra a biztonságos, száraz magasságból a 30. emeleten.",
+                "ro": "Folosiți parcarea de lângă palat; bucurați-vă de panorama Varșoviei ploioase de la înălțimea sigură și uscată a etajului 30.",
+                "en": "Use the parking lot right next to the palace; enjoy the panorama of rainy Warsaw from the safe, dry height of the 30th floor."
+              }
+            },
+            {
+              "name": {
+                "de": "POLIN-Museum",
+                "hu": "POLIN Múzeum",
+                "ro": "Muzeul POLIN",
+                "en": "POLIN Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss im Warmen; das moderne Gebäude bietet erstklassigen Komfort und eine tiefgründige Ausstellung bis zum Abend.",
+                "hu": "Tökéletes befejezés a melegben; a modern épület első osztályú kényelmet és mélyreható kiállítást kínál egészen az estig.",
+                "ro": "Un final perfect la căldură; clădirea modernă oferă confort de primă clasă și o expoziție profundă până seara târziu.",
+                "en": "A perfect finish in the warmth; the modern building offers first-class comfort and a profound exhibition until late evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das beheizte Auto ist Ihr bester Freund im Warschauer Winter. Beginnen Sie in Wilanów und bewundern Sie die winterliche Gartenbeleuchtung. Mittags wärmen Sie sich in den Museen auf, während Sie bequem zwischen den Zielen pendeln. Da es um 17:00 Uhr dunkel wird, genießen Sie die festlich beleuchtete Stadt und beenden den Tag in der Wärme der großen Museen.",
+            "hu": "A fűtött autó a legjobb barátja a varsói télben. Kezdjen Wilanówban, ahol a téli fények varázslatosak. Napközben a múzeumokban melegedhet fel, miközben kényelmesen közlekedik a célpontok között. Mivel 17:00-kor sötétedik, élvezze a díszkivilágításban úszó várost, és zárja a napot a nagy múzeumok melegében.",
+            "ro": "Mașina încălzită este cel mai bun prieten în iarna Varșoviei. Începeți la Wilanów pentru a vedea luminile magice de iarnă. În timpul zilei, încălziți-vă în muzee, circulând confortabil între obiective. Deoarece se întunecă la ora 17:00, bucurați-vă de orașul iluminat festiv și încheiați ziua la căldură în muzee.",
+            "en": "A heated car is your best friend in the Warsaw winter. Start at Wilanów to see the magical winter illuminations. During the day, warm up inside the museums while commuting comfortably between stops. Since it gets dark at 17:00, enjoy the festively lit city and finish your day in the warmth of the major museums."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wilanów-Palast",
+                "hu": "Wilanów-palota",
+                "ro": "Palatul Wilanów",
+                "en": "Wilanów Palace"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Garten der Lichter, wenn es früh dunkel wird; der Palast erstrahlt im Winter in einem ganz besonderen, märchenhaften Glanz.",
+                "hu": "Látogasson el a Fények Kertjébe a korai sötétedéskor; a palota télen különleges, meseszerű fényáradatban úszik az ünnepi díszben.",
+                "ro": "Vizitați Grădina Luminilor la lăsarea serii; palatul strălucește într-o lumină specială, de poveste, pe parcursul lunilor de iarnă.",
+                "en": "Visit the Garden of Lights as it gets dark early; the palace shines with a special, fairytale glow during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Łazienki-Park",
+                "hu": "Łazienki Park",
+                "ro": "Parcul Łazienki",
+                "en": "Łazienki Park"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang zum Palast auf dem Wasser ist herrlich; wärmen Sie sich danach schnell wieder im Auto auf der Fahrt zum nächsten Ziel.",
+                "hu": "Egy rövid téli séta a vízen álló palotához csodálatos; utána gyorsan melegedjen fel az autóban a következő úticél felé menet.",
+                "ro": "O scurtă plimbare de iarnă până la palatul de pe apă este superbă; apoi încălziți-vă rapid în mașină spre următoarea destinație.",
+                "en": "A short winter walk to the Palace on the Isle is wonderful; warm up quickly back in the car afterwards on your way to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Chopin-Denkmal",
+                "hu": "Chopin-emlékmű",
+                "ro": "Monumentul Chopin",
+                "en": "Chopin Monument"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Schnee besonders edel; ein kurzer Stopp für ein Foto reicht aus, bevor Sie die Fahrt im warmen Wagen fortsetzen.",
+                "hu": "Az emlékmű különösen elegánsan fest a hóban; egy rövid megálló is elég a fotózáshoz, mielőtt folytatná az utat a fűtött autóban.",
+                "ro": "Monumentul arată deosebit de elegant în zăpadă; o oprire scurtă pentru o fotografie este suficientă înainte de a continua drumul la căldură.",
+                "en": "The monument looks particularly elegant in the snow; a quick stop for a photo is enough before continuing your journey in the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Warschauer Aufstands",
+                "hu": "Varsói Felkelés Múzeuma",
+                "ro": "Muzeul Revoltei din Varșovia",
+                "en": "Warsaw Uprising Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss im Winter; die tiefgründige Geschichte und die gut geheizten Räume machen dies zu einem perfekten Halt für den Nachmittag.",
+                "hu": "Télen kötelező program; a mélyreható történelem és a jól fűtött termek tökéletes délutáni megállóvá teszik a múzeumot a hideg elől.",
+                "ro": "O vizită obligatorie iarna; istoria profundă și sălile bine încălzite fac din acest muzeu o oprire perfectă pentru după-amiază.",
+                "en": "A must-visit in winter; the profound history and well-heated galleries make this a perfect afternoon stop to escape the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kultur- und Wissenschaftspalast",
+                "hu": "Kultúra és Tudomány Palotája",
+                "ro": "Palatul Culturii și Științei",
+                "en": "Palace of Culture and Science"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang um 17:00 Uhr von der Aussichtsplattform; im Winter ist die Fernsicht bei klarer Luft oft am besten.",
+                "hu": "Élvezze a naplementét 17:00-kor a kilátóból; télen a tiszta fagyos levegőben gyakran a legjobb a látótávolság a város felett.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 de pe platformă; iarna, vizibilitatea este adesea cea mai bună datorită aerului curat și rece.",
+                "en": "Enjoy the sunset at 17:00 from the observation deck; in winter, the visibility is often best due to the crisp, clear cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "POLIN-Museum",
+                "hu": "POLIN Múzeum",
+                "ro": "Muzeul POLIN",
+                "en": "POLIN Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im preisgekrönten Museum; die Wärme und die moderne Atmosphäre bieten den idealen Ausklang Ihrer winterlichen Autotour.",
+                "hu": "Zárja a napot a díjnyertes múzeumban; a meleg és a modern környezet ideális befejezése a téli autós városnézésnek.",
+                "ro": "Încheiați ziua în acest muzeu premiat; căldura și atmosfera modernă oferă finalul ideal pentru turul dumneavoastră auto de iarnă.",
+                "en": "End your day in the award-winning museum; the warmth and modern atmosphere provide the ideal conclusion to your winter car tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

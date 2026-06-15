@@ -137,6 +137,168 @@
         "hu": "A séta a modern Dietrich-Bonhoeffer templomnál kezdődik, ahol elmélyülhet. Ezután sétáljon le a Schilksee strandra a friss balti-tengeri levegőért. Délben sétáljon a sétányon a kikötő felé, haladjon el a Haukie nevezetesség mellett, és nézze meg az 1972-es olimpiai láng történelmi emlékművét. A délutánt a katamarán strandon lévő gyors vitorlások megfigyelésével zárhatja le.",
         "ro": "Plimbarea începe la biserica modernă Dietrich-Bonhoeffer, unde puteți reflecta în liniște. Apoi coborâți spre plaja Schilksee pentru aerul proaspăt. La amiază, plimbați-vă de-a lungul promenadei spre port, treceți de reperul Haukie și admirați monumentul istoric al Focului Olimpic din 1972. Încheiați după-amiaza relaxându-vă și privind velierele rapide de pe plaja de catamarane.",
         "en": "The walk begins at the modern Dietrich Bonhoeffer Church, offering a moment of peace. Next, head down to Schilksee Beach for fresh Baltic air. Around midday, stroll along the promenade towards the harbor, passing the Haukie landmark and the historic 1972 Olympic Fire monument. End your afternoon relaxing by the catamaran beach, watching the fast-paced sailors navigate the coastal waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in der Kirche, während der Regen gegen die Fenster trommelt. Mittags bietet die Promenade trotz Nässe einen rauen Charme der Ostsee, ideal für kurze Wege zwischen Unterständen. Am Nachmittag erkunden wir die Denkmäler unter dem Regenschirm. Der Abend endet am Hafen, wo das Licht der Masten in den Pfützen reflektiert und eine melancholische maritime Stimmung erzeugt.",
+            "hu": "A délelőtt a templom védelmében indul, miközben az eső kopog az ablakokon. Délben a sétány a nedvesség ellenére is a Balti-tenger nyers báját mutatja, ideális a menedékhelyek közötti gyors sétákhoz. Délután esernyő alatt fedezzük fel az emlékműveket. Az este a kikötőben zárul, ahol az árbocok fényei tükröződnek a tócsákban, különleges tengerparti hangulatot árasztva.",
+            "ro": "Dimineața începe la adăpost în biserică, în timp ce ploaia bate în ferestre. La prânz, faleza oferă un farmec brut al Mării Baltice, ideal pentru plimbări scurte între zonele acoperite. După-amiaza explorăm monumentele sub umbrelă. Seara se încheie în port, unde luminile catargelor se reflectă în bălți, creând o atmosferă maritimă melancolică și autentică.",
+            "en": "The morning starts sheltered in the church as rain drums against the windows. At noon, the promenade offers the raw charm of the Baltic Sea despite the wet, ideal for short walks between shelters. In the afternoon, we explore the monuments under an umbrella. The evening ends at the harbor, where the mast lights reflect in the puddles, creating a unique and moody maritime atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dietrich-Bonhoeffer-Kirche",
+                "hu": "Dietrich-Bonhoeffer-Kirche",
+                "ro": "Biserica Dietrich-Bonhoeffer",
+                "en": "Dietrich Bonhoeffer Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den ruhigen Innenraum der Kirche als trockenen Rückzugsort vor dem Küstenregen und bewundern Sie die moderne Architektur bei gedämpftem Licht.",
+                "hu": "Használja ki a templom csendes belső terét száraz menedékként a partmenti eső elől, és csodálja meg a modern építészetet a tompa fényekben.",
+                "ro": "Folosiți interiorul liniștit al bisericii ca refugiu uscat împotriva ploii de coastă și admirați arhitectura modernă în lumina difuză de afară.",
+                "en": "Use the quiet interior of the church as a dry retreat from the coastal rain and admire the modern architecture in the soft, natural light."
+              }
+            },
+            {
+              "name": {
+                "de": "Schilkseer Strand",
+                "hu": "Schilksee Strand",
+                "ro": "Plaja Schilksee",
+                "en": "Schilksee Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am Flutsaum ist bei Regen besonders belebend; tragen Sie windfeste Regenkleidung, da der Wind hier oft kräftig vom Wasser her weht.",
+                "hu": "Az esőben tett séta a parton különösen frissítő; viseljen szélálló esőkabátot, mivel a szél ilyenkor gyakran erősen fúj a nyílt víz felől.",
+                "ro": "O plimbare pe malul mării este revigorantă pe ploaie; purtați haine impermeabile rezistente la vânt, deoarece rafalele sunt puternice lângă apă.",
+                "en": "A walk along the shoreline is particularly invigorating in the rain; wear windproof rain gear as the wind often blows strongly from the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Haukie",
+                "hu": "Haukie",
+                "ro": "Haukie",
+                "en": "Haukie"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal lässt sich auch bei Schietwetter schnell besichtigen; achten Sie auf die rutschigen Bodenbeläge in der Nähe der Skulptur bei Nässe.",
+                "hu": "Az emlékmű rossz időben is gyorsan megtekinthető; ügyeljen a szobor körüli csúszós burkolatra a nagy nedvesség és a tengeri pára miatt.",
+                "ro": "Monumentul poate fi vizitat rapid chiar și pe vreme rea; aveți grijă la suprafețele alunecoase de lângă sculptură atunci când plouă torențial.",
+                "en": "The monument can be visited quickly even in bad weather; watch out for slippery pavement near the sculpture when it is wet and misty."
+              }
+            },
+            {
+              "name": {
+                "de": "Olympisches Feuer von 1972",
+                "hu": "1972-es Olimpiai Láng Emlékmű",
+                "ro": "Focul Olimpic din 1972",
+                "en": "1972 Olympic Fire Monument"
+              },
+              "tip_5lang": {
+                "de": "Die olympische Stätte wirkt bei grauem Himmel besonders monumental; nutzen Sie die kurzen Regenpausen für ein schnelles Foto ohne störende Reflexionen.",
+                "hu": "Az olimpiai helyszín szürke égbolt alatt különösen monumentális; használja ki a rövid esőszüneteket egy fotóra a zavaró tükröződések nélkül.",
+                "ro": "Situl olimpic pare deosebit de monumental sub cerul gri; profitați de scurtele pauze de ploaie pentru o fotografie rapidă fără reflexii deranjante.",
+                "en": "The Olympic site looks particularly monumental under grey skies; take advantage of short rain breaks for a quick photo without harsh reflections."
+              }
+            },
+            {
+              "name": {
+                "de": "Strander Katamaransegler e.V. Katamaranstrand",
+                "hu": "Strander Katamarán Vitorlás Klub Strandja",
+                "ro": "Plaja de Catamarane Strander Katamaransegler",
+                "en": "Strander Catamaran Sailing Club Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufgewühlte See von den hölzernen Stegen aus; festes Schuhwerk ist hier Pflicht, da das Holz bei Regen sehr glatt wird.",
+                "hu": "Figyelje meg a felkavart tengert a fapallókról; a stabil lábbeli itt kötelező, mivel a fa borítás esőben rendkívül csúszóssá válik.",
+                "ro": "Observați marea agitată de pe pontoanele de lemn; încălțămintea stabilă este obligatorie aici, deoarece lemnul devine foarte alunecos pe ploaie.",
+                "en": "Observe the choppy sea from the wooden piers; sturdy footwear is a must here as the wood becomes very slippery when drenched in rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der klare Wintermorgen lädt zu einem erfrischenden Gang zur Kirche ein. Mittags wärmt die tiefstehende Sonne nur schwach, während wir den weiten Blick über die gefroren wirkende Ostsee genießen. Am Nachmittag taucht das frühe Dämmerlicht die Denkmäler in Gold, bevor es um 17:00 Uhr dunkel wird. Der Abend bietet eine stille, friedliche Atmosphäre in den verlassen wirkenden Strandbereichen.",
+            "hu": "A tiszta téli reggel frissítő sétára hív a templom felé. Délben az alacsonyan járó nap csak gyengén melegít, miközben a fagyosnak tűnő Balti-tenger látványában gyönyörködünk. Délután a korai szürkület aranyba vonja az emlékműveket, mielőtt 17:00-kor besötétedik. Az este csendes, békés hangulatot áraszt az ilyenkor elhagyatottnak tűnő tengerparti részeken.",
+            "ro": "Dimineața senină de iarnă invită la o plimbare revigorantă spre biserică. La prânz, soarele jos încălzește slab, în timp ce admirăm vederea spre Marea Baltică înghețată. După-amiaza, amurgul timpuriu scaldă monumentele în auriu înainte de întunericul de la ora 17:00. Seara oferă o atmosferă liniștită și pașnică în zonele de plajă pustii.",
+            "en": "The clear winter morning invites a refreshing walk to the church. At noon, the low sun warms only weakly as we enjoy the vast view over the frozen-looking Baltic Sea. In the afternoon, early twilight bathes the monuments in gold before darkness falls at 5:00 PM. The evening offers a quiet, peaceful atmosphere in the now deserted beach areas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dietrich-Bonhoeffer-Kirche",
+                "hu": "Dietrich-Bonhoeffer-Kirche",
+                "ro": "Biserica Dietrich-Bonhoeffer",
+                "en": "Dietrich Bonhoeffer Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am Vormittag, um sich aufzuwärmen und die Stille des Winters in diesem architektonisch besonderen Raum zu genießen.",
+                "hu": "Látogasson el a templomba délelőtt, hogy kicsit felmelegedjen, és élvezze a tél csendjét ebben a különleges építészeti térben.",
+                "ro": "Vizitați biserica dimineața pentru a vă încălzi și pentru a vă bucura de liniștea iernii în acest spațiu arhitectural deosebit.",
+                "en": "Visit the church in the morning to warm up and enjoy the silence of winter in this architecturally unique and peaceful space."
+              }
+            },
+            {
+              "name": {
+                "de": "Schilkseer Strand",
+                "hu": "Schilksee Strand",
+                "ro": "Plaja Schilksee",
+                "en": "Schilksee Beach"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Seeluft ist sehr gesund; tragen Sie Thermo-Kleidung und genießen Sie die menschenleere Weite des Strandes in der Mittagssonne.",
+                "hu": "A hideg tengeri levegő nagyon egészséges; viseljen termoruha-rétegeket, és élvezze a strand néptelen tágasságát a déli napsütésben.",
+                "ro": "Aerul rece de mare este foarte sănătos; purtați haine termice și bucurați-vă de întinderea pustie a plajei sub soarele de prânz.",
+                "en": "The cold sea air is very healthy; wear thermal layers and enjoy the deserted expanse of the beach in the weak midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Haukie",
+                "hu": "Haukie",
+                "ro": "Haukie",
+                "en": "Haukie"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Winterlicht besonders kontrastreich; achten Sie bei Frost auf überfrierende Nässe auf den Wegen rund um das Objekt.",
+                "hu": "Az emlékmű a téli fényben különösen kontrasztos; fagy esetén ügyeljen a jégfoltokra az objektum körüli utakon a tengeri pára miatt.",
+                "ro": "Monumentul pare deosebit de contrastat în lumina iernii; aveți grijă la gheața de pe potecile din jurul obiectului în caz de îngheț.",
+                "en": "The monument looks particularly sharp in winter light; watch out for black ice on the paths around the site during freezing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Olympisches Feuer von 1972",
+                "hu": "1972-es Olimpiai Láng Emlékmű",
+                "ro": "Focul Olimpic din 1972",
+                "en": "1972 Olympic Fire Monument"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Monument kurz vor Sonnenuntergang gegen 16:30 Uhr, wenn der Himmel oft in intensiven Farben leuchtet und das Metall anstrahlt.",
+                "hu": "Látogassa meg az emlékművet közvetlenül naplemente előtt 16:30 körül, amikor az ég intenzív színekben ég és megvilágítja a fémet.",
+                "ro": "Vizitați monumentul chiar înainte de apus, în jurul orei 16:30, când cerul strălucește adesea în culori intense, luminând structura.",
+                "en": "Visit the monument just before sunset around 4:30 PM, when the sky often glows in intense colors, reflecting off the metal structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Strander Katamaransegler e.V. Katamaranstrand",
+                "hu": "Strander Katamarán Vitorlás Klub Strandja",
+                "ro": "Plaja de Catamarane Strander Katamaransegler",
+                "en": "Strander Catamaran Sailing Club Beach"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe am Seglerstrand ist perfekt für Naturliebhaber; Schützen Sie Ihr Gesicht vor dem beißenden Ostwind mit einem Schal.",
+                "hu": "A vitorlásstrand téli nyugalma tökéletes a természetbarátoknak; védje arcát a metsző keleti széltől egy meleg sállal.",
+                "ro": "Liniștea iernii de pe plaja velierelor este perfectă pentru iubitorii de natură; protejați-vă fața de vântul tăios de est cu un fular gros.",
+                "en": "The winter tranquility at the sailing beach is perfect for nature lovers; protect your face from the biting east wind with a warm scarf."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája a történelmi Eckhof udvarháztól indul a szárazföld belsejében. Innen gyorsan a partra teker a katamarán strandhoz, ahol tengeri hangulat várja. A történelmi olimpiai láng mellett elhaladva a parti sétányon a széles Schilksee strandhoz jut. A Bonhoeffer templomnál tartott spirituális megálló után a napot lazítva fejezi be a központtól délre fekvő Falkenstein strandon.",
         "ro": "Turul dumneavoastră cu bicicleta începe de la istoricul Conac Eckhof din interior. De acolo, pedalați rapid spre coastă până la plaja de catamarane, cu flerul său maritim. Trecând pe lângă Focul Olimpic, mergeți de-a lungul promenadei până la plaja largă Schilksee. După o oprire spirituală la Biserica Bonhoeffer, vă încheiați ziua relaxându-vă pe vasta plajă Falkenstein din sud.",
         "en": "Your bike tour starts at the historic Eckhof Manor inland. From there, cycle quickly to the coast to the catamaran beach, enjoying the maritime flair. Passing the historic Olympic Fire, you ride along the coastal promenade to the wide Schilksee Beach. After a spiritual stop at the Bonhoeffer Church, end your day relaxing at the expansive Falkenstein Beach south of the center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Disziplin und die richtige Ausrüstung. Morgens führt der Weg durch das nasse Grün zum Herrenhaus, während die Reifen auf dem Asphalt surren. Mittags erreichen wir den Katamaranstrand, wo der Wind die Gischt auf die Wege peitscht. Am Nachmittag sind die Monumente schnell erreicht. Abends kehren wir über rutschige Küstenwege zurück, während das Licht schwindet.",
+            "hu": "Az esős kerékpártúra fegyelmet és megfelelő felszerelést igényel. Reggel az út a nedves zöldön át vezet az udvarházhoz, miközben a gumik zúgnak az aszfalton. Délben elérjük a katamaránstrandot, ahol a szél a permetet az utakra veri. Délután az emlékművek gyorsan elérhetők. Este csúszós parti utakon térünk vissza, miközben a fények lassan elfogynak.",
+            "ro": "O tură cu bicicleta pe ploaie necesită disciplină și echipament adecvat. Dimineața, drumul duce prin vegetația umedă spre conac, cu anvelopele zumzăind pe asfalt. La prânz ajungem la plaja de catamarane, unde vântul suflă spuma mării pe alei. După-amiaza monumentele sunt vizitate rapid. Seara revenim pe poteci de coastă alunecoase, pe măsură ce lumina scade.",
+            "en": "A bike tour in the rain requires discipline and the right gear. In the morning, the path leads through wet greenery to the manor house. At noon, we reach the catamaran beach, where the wind lashes sea spray onto the paths. In the afternoon, the monuments are reached quickly. In the evening, we return via slippery coastal paths as the light fades into the rainy mist."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Herrenhaus Eckhof",
+                "hu": "Eckhof Udvarház",
+                "ro": "Conacul Eckhof",
+                "en": "Eckhof Manor House"
+              },
+              "tip_5lang": {
+                "de": "Die Alleen zum Herrenhaus sind bei Regen stimmungsvoll, aber achten Sie auf nasses Laub und Pfützen, die die Radwege rutschig machen können.",
+                "hu": "Az udvarházhoz vezető utak esőben hangulatosak, de ügyeljen a nedves levelekre és tócsákra, amelyek csúszóssá tehetik a kerékpárutat.",
+                "ro": "Aleile spre conac sunt pline de atmosferă pe ploaie, dar atenție la frunzele ude și bălțile care pot face pistele de biciclete alunecoase.",
+                "en": "The avenues to the manor house are atmospheric in the rain, but watch out for wet leaves and puddles that can make bike paths slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Strander Katamaransegler e.V. Katamaranstrand",
+                "hu": "Strander Katamarán Vitorlás Klub Strandja",
+                "ro": "Plaja de Catamarane Strander Katamaransegler",
+                "en": "Strander Catamaran Sailing Club Beach"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad gut gegen den starken Küstenwind und nutzen Sie die kurzen Regenpausen für einen Blick auf die aufgewühlte Förde.",
+                "hu": "Biztosítsa jól a kerékpárját az erős parti szél ellen, és használja ki a rövid esőszüneteket a felkavart öböl megtekintésére.",
+                "ro": "Asigurați-vă bine bicicleta împotriva vântului puternic de coastă și profitați de pauzele de ploaie pentru o privire asupra golfului agitat.",
+                "en": "Secure your bike well against the strong coastal wind and use short rain breaks for a view of the turbulent Kiel Fjord."
+              }
+            },
+            {
+              "name": {
+                "de": "Olympisches Feuer von 1972",
+                "hu": "1972-es Olimpiai Láng Emlékmű",
+                "ro": "Focul Olimpic din 1972",
+                "en": "1972 Olympic Fire Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp ist auch bei Regen möglich; wischen Sie die Kameralinse nach der Aufnahme sofort trocken, um Wasserschäden zu vermeiden.",
+                "hu": "Egy gyors fotómegálló esőben is lehetséges; a felvétel után azonnal törölje szárazra a kamera lencséjét a vízkárok elkerülése érdekében.",
+                "ro": "O oprire rapidă pentru fotografii este posibilă chiar și pe ploaie; ștergeți imediat lentila camerei pentru a evita deteriorarea cauzată de apă.",
+                "en": "A quick photo stop is possible even in the rain; wipe your camera lens dry immediately after shooting to prevent water damage."
+              }
+            },
+            {
+              "name": {
+                "de": "Schilkseer Strand",
+                "hu": "Schilksee Strand",
+                "ro": "Plaja Schilksee",
+                "en": "Schilksee Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der Promenade, da Sand und Regen eine gefährlich rutschige Schicht auf dem Boden bilden können.",
+                "hu": "Hajtson óvatosan a sétányon, mivel a homok és az eső veszélyesen csúszós réteget képezhet az aszfalton a kerekek alatt.",
+                "ro": "Mergeți cu atenție pe faleză, deoarece nisipul și ploaia pot forma un strat periculos de alunecos pe carosabil pentru biciclete.",
+                "en": "Ride carefully on the promenade, as sand and rain can form a dangerously slippery layer on the ground for bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Dietrich-Bonhoeffer-Kirche",
+                "hu": "Dietrich-Bonhoeffer-Kirche",
+                "ro": "Biserica Dietrich-Bonhoeffer",
+                "en": "Dietrich Bonhoeffer Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung ab und nutzen Sie den Besuch für eine kurze Pause im Trockenen, um Ihre Regenkleidung zu ordnen.",
+                "hu": "Állítsa le kerékpárját az eresztető alá, és használja a látogatást egy rövid száraz szünetre, hogy rendbe hozza esőfelszerelését.",
+                "ro": "Lăsați bicicleta sub streșină și profitați de vizită pentru o scurtă pauză la uscat, pentru a vă aranja echipamentul de ploaie.",
+                "en": "Park your bike under the overhang and use the visit for a brief dry break to adjust your rain gear and rest your legs."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK Strand Falkenstein",
+                "hu": "Falkenstein Nudista Strand",
+                "ro": "Plaja de Nudiști Falkenstein",
+                "en": "Falkenstein Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist der Strand menschenleer und bietet eine raue Naturerfahrung; achten Sie auf den sandigen Untergrund, der das Radfahren erschwert.",
+                "hu": "Esőben a strand néptelen, és nyers természeti élményt nyújt; ügyeljen a homokos talajra, amely megnehezíti a kerékpározást.",
+                "ro": "Pe ploaie, plaja este pustie și oferă o experiență naturală brută; atenție la terenul nisipos care îngreunează înaintarea cu bicicleta.",
+                "en": "In the rain, the beach is deserted and offers a raw nature experience; watch out for sandy ground that makes cycling difficult."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour erfordert warme Handschuhe gegen den Fahrtwind. Morgens glitzert der Reif auf den Feldern rund um Eckhof. Mittags reflektiert die tiefstehende Sonne auf der Förde, während wir zügig am Strand entlangfahren. Am Nachmittag erreichen wir die Denkmäler, bevor die Kälte bei Sonnenuntergang um 17:00 Uhr spürbar zunimmt. Der Abend endet mit einer schnellen Fahrt durch die klare Winterluft.",
+            "hu": "A téli túra meleg kesztyűt igényel a menetszél ellen. Reggel a zúzmara csillog az Eckhof körüli mezőkön. Délben az alacsonyan járó nap tükröződik az öböl vizén, miközben tempósan haladunk a parton. Délután elérjük az emlékműveket, mielőtt a hideg 17:00-kor a naplementével hirtelen fokozódik. Az este gyors tekeréssel zárul a tiszta téli levegőben.",
+            "ro": "Tura de iarnă necesită mănuși groase împotriva vântului rece. Dimineața, promoroaca strălucește pe câmpurile din jurul conacului Eckhof. La prânz, soarele jos se reflectă în golful Kiel, în timp ce pedalăm rapid pe lângă plajă. După-amiaza ajungem la monumente, înainte ca frigul să crească brusc la apus, ora 17:00. Seara se încheie rapid prin aerul curat.",
+            "en": "The winter tour requires warm gloves against the biting wind. In the morning, frost glistens on the fields around Eckhof. At noon, the low sun reflects on the fjord as we cycle briskly along the beach. In the afternoon, we reach the monuments before the cold increases sharply at sunset at 5:00 PM. The evening ends with a fast ride through the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Herrenhaus Eckhof",
+                "hu": "Eckhof Udvarház",
+                "ro": "Conacul Eckhof",
+                "en": "Eckhof Manor House"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um das Herrenhaus in der Morgensonne zu sehen; tragen Sie Überschuhe gegen die Kälte, da die Füße beim Radfahren schnell auskühlen.",
+                "hu": "Induljon korán, hogy az udvarházat a reggeli napsütésben lássa; viseljen kamáslit, mivel a lábak tekerés közben télen gyorsan áthűlnek.",
+                "ro": "Porniți devreme pentru a vedea conacul în soarele dimineții; purtați protecții pentru încălțăminte, deoarece picioarele îngheață repede pe bicicletă.",
+                "en": "Start early to see the manor house in the morning sun; wear shoe covers against the cold as feet cool down quickly while cycling in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Strander Katamaransegler e.V. Katamaranstrand",
+                "hu": "Strander Katamarán Vitorlás Klub Strandja",
+                "ro": "Plaja de Catamarane Strander Katamaransegler",
+                "en": "Strander Catamaran Sailing Club Beach"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Gischt an den Booten ist ein tolles Fotomotiv; halten Sie sich nicht zu lange unbeweglich auf, um bei dem Wind nicht zu unterkühlen.",
+                "hu": "A hajókon megfagyott tengeri permet remek fotótéma; ne maradjon túl sokáig mozdulatlan, hogy a szélben ne hűljön ki a teste.",
+                "ro": "Spuma mării înghețată pe bărci este un motiv fotografic excelent; nu stați nemișcat prea mult timp pentru a nu îngheța din cauza vântului.",
+                "en": "The frozen sea spray on the boats is a great photo motif; don't stay stationary for too long to avoid getting chilled by the sharp wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Olympisches Feuer von 1972",
+                "hu": "1972-es Olimpiai Láng Emlékmű",
+                "ro": "Focul Olimpic din 1972",
+                "en": "1972 Olympic Fire Monument"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für weite Ausblicke über das Olympiazentrum; achten Sie auf glatte Stellen auf den Betonflächen.",
+                "hu": "Használja ki a tiszta téli fényt a távoli kilátáshoz az olimpiai központ felett; ügyeljen a jeges foltokra a betonfelületeken.",
+                "ro": "Profitați de lumina clară a iernii pentru vederi panoramice peste centrul olimpic; atenție la porțiunile alunecoase de pe suprafețele de beton.",
+                "en": "Use the clear winter light for wide views over the Olympic center; watch out for slippery patches on the concrete surfaces near the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Schilkseer Strand",
+                "hu": "Schilksee Strand",
+                "ro": "Plaja Schilksee",
+                "en": "Schilksee Beach"
+              },
+              "tip_5lang": {
+                "de": "Eine zügige Fahrt entlang der Promenade hält warm; vermeiden Sie Pausen im Schatten der Gebäude, um die schwache Wintersonne auszunutzen.",
+                "hu": "A sétányon való tempós tekerés melegen tart; kerülje a megállókat az épületek árnyékában, hogy kihasználja a gyenge téli napsütést.",
+                "ro": "O plimbare rapidă cu bicicleta pe faleză vă va ține de cald; evitați pauzele la umbra clădirilor pentru a profita de soarele slab de iarnă.",
+                "en": "A brisk ride along the promenade keeps you warm; avoid stopping in the shadow of buildings to make the most of the weak winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Dietrich-Bonhoeffer-Kirche",
+                "hu": "Dietrich-Bonhoeffer-Kirche",
+                "ro": "Biserica Dietrich-Bonhoeffer",
+                "en": "Dietrich Bonhoeffer Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ideale Gelegenheit, die Hände aufzuwärmen; parken Sie Ihr Rad so, dass das Schloss bei Frost nicht einfriert.",
+                "hu": "A templom ideális alkalmat kínál a kezek felmelegítésére; úgy parkoljon le, hogy a kerékpárzár ne fagyjon be a téli hidegben.",
+                "ro": "Biserica oferă o ocazie ideală pentru a vă încălzi mâinile; parcați bicicleta astfel încât antifurtul să nu înghețe din cauza temperaturii.",
+                "en": "The church offers an ideal opportunity to warm up your hands; park your bike so that the lock doesn't freeze in the sub-zero temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "FKK Strand Falkenstein",
+                "hu": "Falkenstein Nudista Strand",
+                "ro": "Plaja de Nudiști Falkenstein",
+                "en": "Falkenstein Nudist Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des winterlichen Strandes; fahren Sie nur auf befestigten Wegen, da gefrorener Sand sehr uneben sein kann.",
+                "hu": "Élvezze a téli strand magányát; csak a kijelölt utakon haladjon, mivel a megfagyott homok nagyon egyenetlen és nehéz terep lehet.",
+                "ro": "Bucurați-vă de singurătatea plajei de iarnă; pedalați doar pe poteci amenajate, deoarece nisipul înghețat poate fi foarte denivelat.",
+                "en": "Enjoy the solitude of the winter beach; stay on paved paths only, as frozen sand can be very uneven and difficult to navigate on a bike."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autóval reggel kényelmesen elérheti az Eckhof udvarházat a zöldövezetben. Ezután az Olimpiai Központ felé veszi az irányt, ahol történelmi emlékműveket csodálhat meg. Délben meglátogatja a modern Bonhoeffer templomot, majd pihen a Schilksee homokos strandján. Késő délután kényelmesen átvezet Falckensteinbe, hogy élvezze a kutyás strand vidám hangulatát.",
         "ro": "Dimineața ajungeți ușor cu mașina la Conacul Eckhof în zona verde. Apoi vă îndreptați spre Centrul Olimpic, unde puteți admira monumente istorice precum Focul Olimpic. La prânz, vizitați Biserica Bonhoeffer și vă relaxați pe plaja cu nisip Schilksee. După-amiaza târziu, conduceți liniștit spre Falckenstein pentru a vă bucura de atmosfera de la plaja pentru câini.",
         "en": "By car, comfortably reach the Eckhof Manor in the green surroundings this morning. Next, head to the Olympic Center to marvel at historic monuments like the Olympic Fire. At midday, visit the modern Bonhoeffer Church and then relax extensively on Schilksee's sandy beach. Late afternoon, take a leisurely drive to Falckenstein to enjoy the vibrant atmosphere at the dog beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto lässt sich das Schietwetter gemütlich aussitzen. Morgens fahren wir zum Herrenhaus Eckhof, während der Scheibenwischer den Regen beiseite schiebt. Mittags bietet der Blick aus dem Fenster auf die stürmische Förde ein dramatisches Naturschauspiel. Nachmittags besuchen wir die Kirche und Denkmäler mit nur kurzen Wegen im Freien. Der Abend endet entspannt bei der Fahrt entlang der Küstenstraße.",
+            "hu": "Az autóban kényelmesen átvészelhető a rossz idő. Reggel az Eckhof udvarházhoz hajtunk, miközben az ablaktörlő söpri az esőt. Délben az ablakból nyíló kilátás a viharos öbölre drámai természeti látványt nyújt. Délután a templomot és az emlékműveket látogatjuk meg, csak rövid időt töltve a szabadban. Az este pihentetően zárul a parti út mentén autózva.",
+            "ro": "În mașină, vremea rea poate fi suportată confortabil. Dimineața conducem spre conacul Eckhof, în timp ce ștergătoarele îndepărtează ploaia. La prânz, vederea pe geam spre golful furtunos oferă un spectacol natural dramatic. După-amiaza vizităm biserica și monumentele cu drumuri scurte prin ploaie. Seara se încheie relaxat cu o plimbare de-a lungul drumului de coastă.",
+            "en": "In the car, you can comfortably wait out the bad weather. In the morning, we drive to Eckhof Manor while the wipers push the rain aside. At noon, the view from the window of the stormy fjord offers a dramatic natural spectacle. In the afternoon, we visit the church and monuments with only short walks outside. The evening ends with a relaxed drive along the coastal road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Herrenhaus Eckhof",
+                "hu": "Eckhof Udvarház",
+                "ro": "Conacul Eckhof",
+                "en": "Eckhof Manor House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Gelände; so bleiben Sie trocken, während Sie die beeindruckende Fassade des Herrenhauses besichtigen.",
+                "hu": "Használja a közvetlenül a terület mellett található parkolót; így szárazon maradhat, miközben megtekinti az udvarház lenyűgöző homlokzatát.",
+                "ro": "Folosiți parcarea direct de lângă domeniu; astfel veți rămâne uscați în timp ce admirați fațada impresionantă a conacului.",
+                "en": "Use the parking lot directly on the grounds; this way you stay dry while viewing the impressive facade of the manor house from nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Olympisches Feuer von 1972",
+                "hu": "1972-es Olimpiai Láng Emlékmű",
+                "ro": "Focul Olimpic din 1972",
+                "en": "1972 Olympic Fire Monument"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Olympiazentrum Schilksee; von dort sind es nur wenige Schritte zum Denkmal, ideal bei kurzen Regenschauern.",
+                "hu": "Parkoljon a Schilksee Olimpiai Központban; onnan csak néhány lépés az emlékmű, ami ideális a rövid esőzáporok idején.",
+                "ro": "Parcați la Centrul Olimpic Schilksee; de acolo sunt doar câțiva pași până la monument, ideal în timpul averselor scurte de ploaie.",
+                "en": "Park at the Schilksee Olympic Center; from there it's just a few steps to the monument, ideal for visiting during short rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Haukie",
+                "hu": "Haukie",
+                "ro": "Haukie",
+                "en": "Haukie"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal liegt nah an der Straße; Sie können es fast vom Auto aus sehen, falls der Regen zu stark für einen längeren Ausstieg ist.",
+                "hu": "Az emlékmű közel van az úthoz; szinte az autóból is látható, ha az eső túl erős lenne egy hosszabb kiszálláshoz.",
+                "ro": "Monumentul este aproape de drum; îl puteți vedea aproape din mașină, în cazul în care ploaia este prea puternică pentru o ieșire lungă.",
+                "en": "The monument is close to the road; you can almost see it from the car if the rain is too heavy for a longer walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Dietrich-Bonhoeffer-Kirche",
+                "hu": "Dietrich-Bonhoeffer-Kirche",
+                "ro": "Biserica Dietrich-Bonhoeffer",
+                "en": "Dietrich Bonhoeffer Church"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch der Kirche ist perfekt bei Dauerregen; parken Sie in der Nähe des Eingangs, um den Weg im Freien zu minimieren.",
+                "hu": "A templomlátogatás tökéletes tartós esőben; parkoljon a bejárat közelében, hogy minimalizálja a szabadban töltött utat.",
+                "ro": "O vizită la biserică este perfectă pe ploaie continuă; parcați aproape de intrare pentru a minimiza drumul parcurs prin exterior.",
+                "en": "A visit to the church is perfect during persistent rain; park near the entrance to minimize the time spent walking in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Schilkseer Strand",
+                "hu": "Schilksee Strand",
+                "ro": "Plaja Schilksee",
+                "en": "Schilksee Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Ostsee durch die Frontscheibe; bei starkem Wind rüttelt der Sturm spürbar an Ihrem Fahrzeug.",
+                "hu": "Élvezze a Balti-tenger látványát az első szélvédőn keresztül; erős szélben a vihar érezhetően rázhatja az autóját a parkolóban.",
+                "ro": "Bucurați-vă de vederea spre Marea Baltică prin parbriz; în caz de vânt puternic, furtuna va zgâlțâi simțitor vehiculul în parcare.",
+                "en": "Enjoy the view of the Baltic Sea through the windshield; in strong winds, the storm will noticeably shake your vehicle while parked."
+              }
+            },
+            {
+              "name": {
+                "de": "Hundestrand Falckenstein",
+                "hu": "Falckenstein Kutyás Strand",
+                "ro": "Plaja pentru Câini Falckenstein",
+                "en": "Falckenstein Dog Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine gute Aussicht auf den Leuchtturm Friedrichsort; ideal, um das Wetter zu beobachten, ohne nass zu werden.",
+                "hu": "A parkoló jó kilátást nyújt a Friedrichsort világítótoronyra; ideális az időjárás megfigyelésére anélkül, hogy bőrig ázna.",
+                "ro": "Parcarea oferă o vedere bună spre farul Friedrichsort; este locul ideal pentru a observa vremea fără a vă uda deloc.",
+                "en": "The parking lot offers a good view of the Friedrichsort lighthouse; ideal for watching the weather without getting wet yourself."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Spritztour ist dank Sitzheizung besonders angenehm. Morgens liegt oft Nebel über den Feldern bei Eckhof. Mittags glitzert das Wasser der Förde im hellen Winterlicht, während wir entlang der Küste cruisen. Nachmittags erreichen wir die kulturellen Stopps, bevor die Dämmerung um 17:00 Uhr die Landschaft in Blau taucht. Der Abend endet mit einer gemütlichen Rückfahrt durch das ruhige Schilksee.",
+            "hu": "A téli autózás az ülésfűtésnek köszönhetően különösen kellemes. Reggel gyakran köd ül az Eckhof körüli mezőkön. Délben az öböl vize csillog a világos téli fényben, miközben a part mentén haladunk. Délután elérjük a kulturális állomásokat, mielőtt a szürkület 17:00-kor kékbe vonja a tájat. Az este hangulatos hazautazással zárul a csendes Schilksee-n keresztül.",
+            "ro": "Plimbarea de iarnă este deosebit de plăcută datorită încălzirii în scaune. Dimineața, ceața acoperă adesea câmpurile de la Eckhof. La prânz, apa golfului strălucește în lumina clară de iarnă în timp ce conducem pe coastă. După-amiaza ajungem la opririle culturale, înainte ca amurgul de la ora 17:00 să coloreze peisajul în albastru. Seara se încheie cu drumul spre casă.",
+            "en": "The winter drive is particularly pleasant thanks to seat heating. In the morning, fog often lies over the fields near Eckhof. At noon, the fjord water glistens in the bright winter light as we cruise along the coast. In the afternoon, we reach the cultural stops before twilight at 5:00 PM bathes the landscape in blue. The evening ends with a cozy drive back through quiet Schilksee."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Herrenhaus Eckhof",
+                "hu": "Eckhof Udvarház",
+                "ro": "Conacul Eckhof",
+                "en": "Eckhof Manor House"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei der Anfahrt auf glatte Straßen in Waldabschnitten; das Herrenhaus wirkt bei Reif besonders herrschaftlich und märchenhaft.",
+                "hu": "Az idevezető úton ügyeljen a jeges útszakaszokra az erdős részeken; az udvarház zúzmarás időben különösen előkelő és meseszerű.",
+                "ro": "Atenție la drumurile alunecoase în secțiunile de pădure; conacul pare deosebit de impunător și de basm când este acoperit de promoroacă.",
+                "en": "Watch out for icy roads in wooded sections on your way; the manor house looks particularly grand and fairytale-like in frosty conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Olympisches Feuer von 1972",
+                "hu": "1972-es Olimpiai Láng Emlékmű",
+                "ro": "Focul Olimpic din 1972",
+                "en": "1972 Olympic Fire Monument"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal am Nachmittag; die tiefstehende Sonne lässt das Metall glänzen und bietet tolle Motive für Winterfotos.",
+                "hu": "Látogassa meg az emlékművet délután; az alacsonyan járó nap megcsillan a fémen, és remek témát kínál a téli fotókhoz.",
+                "ro": "Vizitați monumentul după-amiaza; soarele jos face metalul să strălucească și oferă motive excelente pentru fotografii de iarnă.",
+                "en": "Visit the monument in the afternoon; the low sun makes the metal gleam and provides great subjects for atmospheric winter photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Haukie",
+                "hu": "Haukie",
+                "ro": "Haukie",
+                "en": "Haukie"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um das Objekt im Winter zu bewundern; nutzen Sie die Parkmöglichkeiten in der Nähe für einen schnellen Besuch.",
+                "hu": "Egy rövid megálló is elég, hogy megcsodálja az objektumot télen; használja a közeli parkolóhelyeket a gyors és kényelmes látogatáshoz.",
+                "ro": "O scurtă oprire este suficientă pentru a admira obiectul iarna; folosiți locurile de parcare din apropiere pentru o vizită rapidă.",
+                "en": "A short stop is enough to admire the site in winter; use the nearby parking facilities for a quick and easy visit in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Dietrich-Bonhoeffer-Kirche",
+                "hu": "Dietrich-Bonhoeffer-Kirche",
+                "ro": "Biserica Dietrich-Bonhoeffer",
+                "en": "Dietrich Bonhoeffer Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein warmer Ort der Besinnung; genießen Sie die Architektur, bevor es draußen um 17:00 Uhr bereits dunkel wird.",
+                "hu": "A templom a csendes elmélyülés meleg helyszíne; élvezze az építészetet, mielőtt odakint 17:00-kor már teljesen besötétedik.",
+                "ro": "Biserica este un loc cald de reflecție; bucurați-vă de arhitectură înainte ca afară să se întunece deja complet, în jurul orei 17:00.",
+                "en": "The church is a warm place for reflection; enjoy the architecture before it gets dark outside at 5:00 PM in the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Schilkseer Strand",
+                "hu": "Schilksee Strand",
+                "ro": "Plaja Schilksee",
+                "en": "Schilksee Beach"
+              },
+              "tip_5lang": {
+                "de": "Der leere Strand im Winterlicht ist vom Parkplatz aus gut zu sehen; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "A téli fényben fürdő üres strand jól látható a parkolóból; ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik.",
+                "ro": "Plaja pustie în lumina iernii se vede bine din parcare; nu lăsați motorul pornit inutil în timp ce admirați priveliștea de la geam.",
+                "en": "The empty beach in winter light is clearly visible from the parking lot; don't leave the engine idling while enjoying the serene view."
+              }
+            },
+            {
+              "name": {
+                "de": "Hundestrand Falckenstein",
+                "hu": "Falckenstein Kutyás Strand",
+                "ro": "Plaja pentru Câini Falckenstein",
+                "en": "Falckenstein Dog Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt bietet Panoramablicke auf die Kieler Förde; achten Sie bei Frost auf mögliche Straßenglätte in Küstennähe.",
+                "hu": "Az idevezető út panorámás kilátást nyújt a Kieli-öbölre; fagy esetén ügyeljen az esetleges jegesedésre a tengerpart közeli utakon.",
+                "ro": "Drumul oferă vederi panoramice asupra golfului Kiel; atenție la posibila polei pe drumurile de lângă coastă în caz de îngheț.",
+                "en": "The drive offers panoramic views of the Kiel Fjord; watch out for possible icy road conditions near the coast during freezing weather."
+              }
+            }
+          ]
+        }
       }
     }
   }

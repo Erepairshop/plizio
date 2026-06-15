@@ -137,6 +137,168 @@
         "hu": "A reggel Navia szívében indul, az elegáns Palacio de Arias és a Casa de la Marquesa felfedezésével. Délben festői ösvényeken sétálunk tovább az El Doque folyótorkolata mentén. A délutánt a Playa de Navia puha homokján töltjük, ahol a tengeri szellő frissít fel. Az estét a Mirador del Monolito kilátóból elénk táruló lélegzetelállító naplemente zárja le.",
         "ro": "Dimineața începe în inima orașului Navia, explorând elegantul Palacio de Arias și Casa de la Marquesa. La prânz vă îndreptați spre traseele pitorești naturale, plimbându-vă pe lângă estuar la El Doque. După-amiaza este rezervată nisipului fin de la Playa de Navia, ideal pentru relaxare. Seara se încheie cu un apus uluitor de soare admirat de la Mirador del Monolito.",
         "en": "Morning starts in the heart of Navia, exploring the elegant Palacio de Arias and Casa de la Marquesa. Midday takes a turn towards the scenic natural pathways, walking along the estuary at El Doque. Afternoon is reserved for the soft sands of Playa de Navia, perfect for relaxation and sea breezes. Evening concludes with breathtaking sunset views from Mirador del Monolito."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Schutz des Palacio de Arias, während der Regen auf alte Steine klopft. Mittags erreichen wir den Hafen, wo die neblige Mündung eine atlantische Stimmung erzeugt. Der Nachmittag führt uns zum Strand; nasser Sand und tosende Wellen bieten ein rohes Naturschauspiel. Am Abend zeigt der Monolith-Aussichtspunkt Stadtlichter, die sich auf glänzenden Straßen spiegeln.",
+            "hu": "Reggel a Palacio de Arias eresze alatt kezdünk, miközben az eső a régi köveken kopog. Délben a kikötőhöz érünk, ahol a ködös torkolat sajátos atlanti hangulatot áraszt. A délután a strandra visz; a vizes homok és a hullámok zúgása nyers természeti élményt nyújt. Este a Monolito kilátónál a város fényei tükröződnek a csillogó utca vizes aszfaltján.",
+            "ro": "Dimineața începe sub adăpostul Palacio de Arias, în timp ce ploaia bate pe pietrele vechi. La prânz ajungem în port, unde estuarul cetos creează o atmosferă atlantică. După-amiaza ne duce la plajă; nisipul ud și valurile oferă un spectacol natural brut. Seara, Mirador del Monolito dezvăluie luminile orașului reflectate pe străzile strălucitoare sub nori.",
+            "en": "Morning starts under the shelter of Palacio de Arias as rain taps on ancient stones. At noon, we reach the port where the misty estuary creates a moody, Atlantic atmosphere. Afternoon brings us to the beach; the wet sand and crashing waves offer a raw, natural spectacle. By evening, the Monolith viewpoint reveals city lights reflecting on glistening streets under the clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Arias",
+                "hu": "Palacio de Arias",
+                "ro": "Palacio de Arias",
+                "en": "Palacio de Arias"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Palastfassade unter den Steinbögen; der Regen betont die Textur des Mauerwerks, aber achten Sie auf den nassen, rutschigen Boden beim Gehen.",
+                "hu": "Csodálja meg a palota homlokzatát a kőívek oltalma alól; az eső kiemeli a falak textúráját, de legyen óvatos a vizes, csúszós macskaköveken a séta során.",
+                "ro": "Admirați fațada palatului de sub arcadele sale de piatră; ploaia scoate în evidență textura zidăriei, dar atenție la pavajul umed și alunecos în timpul mersului.",
+                "en": "Admire the palace facade from beneath its stone arches; the rain enhances the texture of the masonry, but watch your step on the wet, slippery pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Marquesa de Navia Osorio",
+                "hu": "Casa de la Marquesa de Navia Osorio",
+                "ro": "Casa de la Marquesa de Navia Osorio",
+                "en": "Casa de la Marquesa de Navia Osorio"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Wahrzeichen kurz vom gegenüberliegenden Vordach aus; die grauen Wolken verleihen dem Herrenhaus eine geheimnisvolle, aristokratische Aura.",
+                "hu": "Tekintse meg ezt a nevezetességet röviden a szemközti előtető alól; a szürke felhők titokzatos, arisztokratikus aurát kölcsönöznek az ősi udvarháznak.",
+                "ro": "Observați acest reper scurt de sub copertina de vis-à-vis; norii gri conferă conacului o aură misterioasă, aristocratică, perfectă pentru fotografii dramatice.",
+                "en": "View this landmark briefly from the shelter of the opposite porch; the gray clouds give the manor a mysterious, aristocratic aura typical of Northern Spain."
+              }
+            },
+            {
+              "name": {
+                "de": "El Doque",
+                "hu": "El Doque",
+                "ro": "El Doque",
+                "en": "El Doque"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Ansteigen der Gezeiten im Regen von der Kaimauer aus; tragen Sie eine winddichte Jacke, da die Böen hier am Flussufer sehr kräftig sein können.",
+                "hu": "Figyelje meg az árapály szintjét az esőben a rakpart mellől; viseljen szélálló kabátot, mivel a széllökések itt a folyóparton igen erősek lehetnek.",
+                "ro": "Urmăriți fluxul în ploaie de lângă zidul cheiului; purtați o jachetă rezistentă la vânt, deoarece rafalele de pe malul râului pot fi foarte puternice acum.",
+                "en": "Watch the rising tide in the rain from the quay wall; wear a windproof jacket as the gusts along the riverbank can be quite powerful during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Navia",
+                "hu": "Playa de Navia",
+                "ro": "Playa de Navia",
+                "en": "Playa de Navia"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Kraft des Ozeans unter einem stabilen Schirm; der nasse Sand ist fest und ideal für einen kurzen Spaziergang direkt an der Brandung.",
+                "hu": "Tapasztalja meg az óceán nyers erejét egy stabil esernyő alatt; a vizes homok kemény és ideális egy rövid sétához közvetlenül a hullámtörés mentén.",
+                "ro": "Experimentați forța brută a oceanului sub o umbrelă stabilă; nisipul ud este ferm și ideal pentru o plimbare scurtă chiar lângă linia spumei mării.",
+                "en": "Experience the raw power of the ocean under a sturdy umbrella; the wet sand is firm and ideal for a short walk right along the crashing surf line."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Monolito",
+                "hu": "Mirador del Monolito",
+                "ro": "Mirador del Monolito",
+                "en": "Mirador del Monolito"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf die Küste im Nebel; die feuchten Felsen glänzen wunderschön im fahlen Licht, seien Sie jedoch vorsichtig an den Klippenkanten.",
+                "hu": "Élvezze a tágas kilátást a ködös partvidékre; a nedves sziklák gyönyörűen csillognak a bágyadt fényben, de legyen óvatos a sziklaperemek közelében.",
+                "ro": "Bucurați-vă de priveliștea vastă a coastei în ceață; stâncile umede strălucesc frumos în lumina slabă, dar aveți grijă la marginile falezei alunecoase.",
+                "en": "Enjoy the vast coastal view through the mist; the wet rocks glisten beautifully in the dim light, but remain cautious near the slippery cliff edges."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen beginnt am Palacio de Arias, wo die klare Winterluft die Steinmetzarbeiten scharf hervorhebt. Mittags schlendern wir durch Navia und nutzen die schwache Sonne, bevor der kalte Seewind auffrischt. Am Nachmittag bietet der Strand Einsamkeit und weites Licht. Da es gegen 17:00 Uhr dunkel wird, fangen wir das letzte rötliche Licht am Monolith-Aussichtspunkt ein.",
+            "hu": "Hűvös reggel indul a Palacio de Arias falainál, ahol a tiszta téli levegő kiemeli a kőfaragásokat. Délben a gyenge napsütésben sétálunk, mielőtt a hideg tengeri szél feltámadna. Délután a strand magányt és tágas fényeket kínál. Mivel 17:00 körül sötétedik, az utolsó vöröses fényeket a Monolito kilátónál kapjuk el.",
+            "ro": "O dimineață răcoroasă începe la Palacio de Arias, unde aerul clar de iarnă evidențiază sculpturile în piatră. La prânz ne plimbăm prin Navia, profitând de soarele slab. După-amiaza, plaja oferă singurătate și lumină vastă. Deoarece se întunecă în jur de ora 17:00, surprindem ultima lumină roșiatică la punctul de belvedere Monolito.",
+            "en": "A crisp morning begins at Palacio de Arias, where the clear winter air sharpens the architectural details. At noon, we stroll through Navia, enjoying the weak sun before the cold sea wind picks up. Afternoon offers solitude and vast light at the beach. As it gets dark around 17:00, we catch the last reddish light at the Monolith viewpoint."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Arias",
+                "hu": "Palacio de Arias",
+                "ro": "Palacio de Arias",
+                "en": "Palacio de Arias"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern strahlen im Winter eine besondere Ruhe aus; kleiden Sie sich in Schichten, um bei der Erkundung des Außenbereichs in der Kälte warm zu bleiben.",
+                "hu": "A masszív falak télen különleges nyugalmat árasztanak; öltözzön rétegesen, hogy melegen maradjon a külső részek felfedezése közben a hideg időben.",
+                "ro": "Zidurile masive emană o liniște deosebită iarna; îmbrăcați-vă în straturi pentru a vă menține căldura în timp ce explorați exteriorul în aerul rece.",
+                "en": "The massive walls radiate a special calm in winter; dress in layers to stay warm while exploring the exterior details in the crisp morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Marquesa de Navia Osorio",
+                "hu": "Casa de la Marquesa de Navia Osorio",
+                "ro": "Casa de la Marquesa de Navia Osorio",
+                "en": "Casa de la Marquesa de Navia Osorio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Fassade; die tiefstehende Sonne wirft lange Schatten, die die historischen Linien des Hauses wunderschön betonen.",
+                "hu": "Használja ki a tiszta téli fényt a homlokzat fotózásához; az alacsony napállás hosszú árnyékokat vet, melyek szépen kiemelik a ház történelmi vonalait.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii; soarele jos proiectează umbre lungi care accentuează frumos liniile istorice ale conacului aristocratic.",
+                "en": "Take advantage of the clear winter light for photos; the low sun casts long shadows that beautifully accentuate the historic lines of this manor house."
+              }
+            },
+            {
+              "name": {
+                "de": "El Doque",
+                "hu": "El Doque",
+                "ro": "El Doque",
+                "en": "El Doque"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang am Flussufer hilft gegen die Kälte; halten Sie Ausschau nach überwinternden Vögeln in der Mündung und tragen Sie eine warme Kopfbedeckung.",
+                "hu": "Egy tempós séta a folyóparton segít a hideg ellen; figyelje a torkolatnál telelő madarakat, és viseljen meleg sapkát az erős tengeri szél miatt.",
+                "ro": "O plimbare vioaie pe malul râului vă va ajuta să vă încălziți; căutați păsările care iernează în estuar și purtați un fes călduros împotriva brizei reci.",
+                "en": "A brisk walk along the riverbank will help keep you warm; look out for overwintering birds in the estuary and wear a warm hat against the biting sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Navia",
+                "hu": "Playa de Navia",
+                "ro": "Playa de Navia",
+                "en": "Playa de Navia"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und bietet herrliche Ruhe; genießen Sie die raue Natur, aber kehren Sie vor dem frühen Sonnenuntergang zur Stadt zurück.",
+                "hu": "A strand télen szinte teljesen üres, ami csodás nyugalmat áraszt; élvezze a vad természetet, de térjen vissza a városba a korai naplemente előtt.",
+                "ro": "Plaja este aproape pustie iarna, oferind o liniște minunată; bucurați-vă de natura sălbatică, dar întoarceți-vă în oraș înainte de apusul devreme.",
+                "en": "The beach is nearly deserted in winter, offering wonderful tranquility; enjoy the wild nature but head back to town before the early sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Monolito",
+                "hu": "Mirador del Monolito",
+                "ro": "Mirador del Monolito",
+                "en": "Mirador del Monolito"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang über dem winterlichen Atlantik; der Himmel färbt sich oft intensiv violett, bringen Sie jedoch Handschuhe für die Aussichtsplattform mit.",
+                "hu": "Nézze meg a naplementét a téli Atlanti-óceán felett; az ég gyakran mélylilára színeződik, de vigyen kesztyűt a szeles kilátópontra a hideg miatt.",
+                "ro": "Urmăriți apusul peste Atlanticul hibernal; cerul capătă adesea nuanțe intense de violet, dar aduceți mănuși pentru punctul de belvedere expus vântului.",
+                "en": "Watch the sunset over the wintry Atlantic; the sky often turns intense shades of purple, but bring gloves for the viewpoint as it gets very chilly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli kerékpározás a történelmi központban kezdődik, mielőtt nyugat felé indulnánk a palotához. Délben az ősi kelta romokat fedezzük fel a Castro de Mohías területén. A délutáni túra a vadregényes Playa de Foxos strandjára visz a friss óceáni levegőért. Az este a Playa del Moro eldugott partjainál ér véget, ahogy a nap lassan a horizont alá bukik.",
         "ro": "Ciclismul de dimineață începe în centrul istoric înainte de a merge spre vest, către Palacio de Mohías. La prânz veți descoperi vechile ruine celtice de la Castro de Mohías, un loc fascinant. După-amiaza pedalați până la impresionanta Playa de Foxos pentru a respira aerul sărat al oceanului. Seara se încheie liniștit pe țărmul ascuns de la Playa del Moro la asfințit.",
         "en": "Morning cycling begins in the historic center before heading west towards the grand Palacio de Mohías. Midday involves discovering the ancient Celtic ruins at Castro de Mohías. Afternoon riding brings you to the rugged and beautiful Playa de Foxos for fresh ocean air. Evening unwinds along the hidden shores of Playa del Moro as the sun gently dips below the horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgenstart beim Palast; Vorsicht auf nassem Kopfsteinpflaster im Zentrum. Mittags radeln wir nach Mohías durch grünes, nasses Gelände, wo Schutzbleche nötig sind. Nachmittags wirken die Ruinen im Nebel mystisch, während uns der Küstenwind fordert. Der Tag endet am Playa del Moro mit Blick auf tosende Wellen; prüfen Sie Ihre Bremsen für die nassen Abfahrten.",
+            "hu": "Esős reggeli rajt a palotánál; óvatosan a vizes macskaköveken a központban. Délben Mohías felé tekerünk a zöldellő, ázott tájon, ahol a sárvédő kötelező. Délután a romok misztikusak a ködben, miközben a parti szél próbára tesz minket. A nap a Playa del Moro-nál zárul a zúgó hullámokkal; ellenőrizze a fékeket a vizes lejtők előtt.",
+            "ro": "Start ploios de dimineață la palat; atenție la pavajul umed din centru. La prânz pedalăm spre Mohías prin terenul verde și ud, unde aripile de protecție sunt necesare. După-amiaza, ruinele par mistice în ceață, în timp ce vântul de coastă ne provoacă. Ziua se încheie la Playa del Moro cu valuri înspumate; verificați frânele pentru coborârile umede.",
+            "en": "Rainy morning start at the palace; be careful on wet cobblestones in the center. At noon, we cycle to Mohías through lush, wet terrain where fenders are essential. In the afternoon, the ruins look mystical in the mist while coastal winds challenge us. The day ends at Playa del Moro with views of crashing waves; check your brakes for the wet descents."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Arias",
+                "hu": "Palacio de Arias",
+                "ro": "Palacio de Arias",
+                "en": "Palacio de Arias"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig auf den glatten Steinen am Palast; stellen Sie sicher, dass Ihre Reifen guten Grip haben, bevor Sie die historische Tour im Regen beginnen.",
+                "hu": "Induljon óvatosan a palota körüli csúszós köveken; győződjön meg róla, hogy a gumik jól tapadnak, mielőtt elkezdi a történelmi túrát az esőben.",
+                "ro": "Porniți cu prudență pe pietrele lucioase de la palat; asigurați-vă că anvelopele au aderență bună înainte de a începe turul istoric prin ploaie.",
+                "en": "Start cautiously on the slick stones near the palace; ensure your tires have good grip before starting the historical tour in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Marquesa de Navia Osorio",
+                "hu": "Casa de la Marquesa de Navia Osorio",
+                "ro": "Casa de la Marquesa de Navia Osorio",
+                "en": "Casa de la Marquesa de Navia Osorio"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier aus, um trocken zu bleiben; die dunklen Steine des Hauses wirken im Regen besonders edel und geschichtsträchtig.",
+                "hu": "Egy rövid fotómegálló is elég itt, hogy száraz maradjon; a ház sötét kövei az esőben különösen nemesnek és patinásnak hatnak a szürke fényben.",
+                "ro": "O scurtă oprire pentru poze este suficientă aici pentru a rămâne uscat; pietrele închise la culoare ale casei par deosebit de nobile în ploaie.",
+                "en": "A brief photo stop is enough here to stay relatively dry; the dark stones of the house look particularly noble and historic in the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Mohías de Santa Cruz",
+                "hu": "Palacio de Mohías de Santa Cruz",
+                "ro": "Palacio de Mohías de Santa Cruz",
+                "en": "Palacio de Mohías de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Bäumen Schutz, wenn der Schauer stärker wird; die ländliche Umgebung ist im Regen herrlich grün, aber die Wege können matschig sein.",
+                "hu": "Keressen menedéket a fák alatt, ha elered az eső; a vidéki környezet gyönyörű zöld ilyenkor, de az utak sárosak lehetnek a palota környékén.",
+                "ro": "Căutați adăpost sub copaci dacă ploaia se intensifică; împrejurimile rurale sunt superb de verzi, dar potecile pot fi noroioase lângă palat.",
+                "en": "Seek shelter under the trees if the downpour intensifies; the rural surroundings are lush and green, but paths can be muddy around the palace grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Mohías",
+                "hu": "Castro de Mohías",
+                "ro": "Castro de Mohías",
+                "en": "Castro de Mohías"
+              },
+              "tip_5lang": {
+                "de": "Die keltischen Ruinen wirken im Nebel wie aus einer anderen Zeit; achten Sie beim Begehen der grasbewachsenen Wälle auf rutschige Stellen und Schlamm.",
+                "hu": "A kelta romok a ködben olyanok, mintha egy másik korból származnának; ügyeljen a csúszós fűre és a sárra a füves sáncok bejárása közben.",
+                "ro": "Ruinele celtice par desprinse din altă eră în ceață; aveți grijă la porțiunile alunecoase de iarbă și noroi în timp ce explorați meterezele vechi.",
+                "en": "The Celtic ruins look timeless in the mist; be mindful of slippery grass and mud while exploring the ancient ramparts on foot with your bike nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Foxos",
+                "hu": "Playa de Foxos",
+                "ro": "Playa de Foxos",
+                "en": "Playa de Foxos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die raue See von der befestigten Straße aus; der Wind kann hier stark wehen, halten Sie den Lenker bei Böen gut fest.",
+                "hu": "Élvezze a kilátást a háborgó tengerre a köves útról; a szél itt erősen fújhat, tartsa erősen a kormányt a hirtelen széllökések idején.",
+                "ro": "Bucurați-vă de priveliștea mării agitate de pe drumul pavat; vântul poate sufla cu putere aici, țineți bine ghidonul în timpul rafalelor bruște.",
+                "en": "Enjoy the view of the rough sea from the paved road; the wind can blow strongly here, so keep a firm grip on your handlebars during sudden gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Moro",
+                "hu": "Playa del Moro",
+                "ro": "Playa del Moro",
+                "en": "Playa del Moro"
+              },
+              "tip_5lang": {
+                "de": "Ein dramatischer Abschluss Ihrer Tour im Regen; wischen Sie Ihr Fahrrad nach der Fahrt trocken, um Korrosion durch das salzige Spritzwasser zu vermeiden.",
+                "hu": "Drámai befejezése az esős túrának; törölje szárazra a kerékpárt a tekerés után, hogy elkerülje a sós tengeri pára okozta korróziót a vázon.",
+                "ro": "Un final dramatic pentru turul tău în ploaie; ștergeți bicicleta după cursă pentru a evita coroziunea cauzată de vaporii sărați ai mării.",
+                "en": "A dramatic end to your rainy ride; remember to dry off your bike after the tour to prevent corrosion from the salty sea mist on the metal parts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Wintermorgen am Palast; die kühle Luft belebt beim Treten. Mittags radeln wir durch die ländliche Ruhe von Mohías, wobei Handschuhe gegen den Seewind nötig sind. Am Nachmittag bieten die keltischen Ruinen klare Weitsicht bei tiefstehender Sonne. Die Tour endet vor dem frühen Einbruch der Dunkelheit gegen 17:00 Uhr am Meer; tragen Sie helle Kleidung für bessere Sichtbarkeit.",
+            "hu": "Friss téli reggel a palotánál; a hűvös levegő élénkítő tekerés közben. Délben Mohías vidékén biciklizünk a csendben, kesztyűre szükség lesz a tengeri szél miatt. Délután a kelta romoknál tiszta kilátás fogad az alacsony napállásban. A túra a korai, 17:00-s sötétedés előtt ér véget a tengernél; viseljen világos ruhát a láthatóságért.",
+            "ro": "Dimineață proaspătă de iarnă la palat; aerul rece este revigorant la pedalat. La prânz traversăm liniștea rurală din Mohías, unde mănușile sunt necesare contra vântului. După-amiaza, ruinele celtice oferă o vizibilitate clară sub soarele jos. Turul se încheie înainte de întunericul de la ora 17:00 la malul mării; purtați haine reflectorizante.",
+            "en": "Fresh winter morning at the palace; the cool air is invigorating while pedaling. At noon, we cycle through the rural silence of Mohías, needing gloves against the sea wind. Afternoon offers clear views at the Celtic ruins under the low sun. The tour ends before the early 17:00 darkness at the seaside; wear bright clothing for better visibility on the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de Arias",
+                "hu": "Palacio de Arias",
+                "ro": "Palacio de Arias",
+                "en": "Palacio de Arias"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie zügig, um Ihren Körper aufzuwärmen; die Wintermorgensonne lässt die historischen Fassaden in einem besonders klaren Licht erstrahlen.",
+                "hu": "Kezdjen tempósan, hogy bemelegítse a testét; a téli reggeli napsütés különlegesen tiszta fénybe öltözteti a történelmi homlokzatokat.",
+                "ro": "Începeți într-un ritm vioi pentru a vă încălzi corpul; soarele dimineții de iarnă scaldă fațadele istorice într-o lumină deosebit de clară.",
+                "en": "Start at a brisk pace to warm up your body; the winter morning sun bathes the historic facades in a particularly clear and crisp light."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Marquesa de Navia Osorio",
+                "hu": "Casa de la Marquesa de Navia Osorio",
+                "ro": "Casa de la Marquesa de Navia Osorio",
+                "en": "Casa de la Marquesa de Navia Osorio"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nur kurz für ein Foto an, damit Sie nicht auskühlen; der Kontrast des Hauses gegen den blauen Winterhimmel ist ein tolles Motiv.",
+                "hu": "Csak rövid időre álljon meg fotózni, hogy ne hűljön le; a ház és a kék téli égbolt közötti kontraszt kiváló témát szolgáltat a képekhez.",
+                "ro": "Opriți-vă doar scurt pentru o fotografie pentru a nu vă răci; contrastul casei pe fundalul cerului albastru de iarnă este un subiect minunat.",
+                "en": "Stop only briefly for a photo so you don't get cold; the contrast of the dark house against a blue winter sky makes for an excellent picture."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Mohías de Santa Cruz",
+                "hu": "Palacio de Mohías de Santa Cruz",
+                "ro": "Palacio de Mohías de Santa Cruz",
+                "en": "Palacio de Mohías de Santa Cruz"
+              },
+              "tip_5lang": {
+                "de": "Die ländlichen Wege sind im Winter oft nass und rutschig; fahren Sie in Kurven vorsichtig und genießen Sie die Stille der schlafenden Natur.",
+                "hu": "A vidéki utak télen gyakran nedvesek és csúszósak; a kanyarokban haladjon óvatosan, és élvezze az alvó természet csendjét a palota körül.",
+                "ro": "Drumurile rurale sunt adesea umede și alunecoase iarna; abordați curbele cu prudență și bucurați-vă de liniștea naturii amorțite de lângă palat.",
+                "en": "Rural roads are often damp and slippery in winter; take corners with caution and enjoy the peaceful silence of the dormant nature around the palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Mohías",
+                "hu": "Castro de Mohías",
+                "ro": "Castro de Mohías",
+                "en": "Castro de Mohías"
+              },
+              "tip_5lang": {
+                "de": "Die weite Sicht von den Ruinen ist im Winter oft besser als im Sommer; tragen Sie eine winddichte Schicht, wenn Sie oben auf den Wällen stehen.",
+                "hu": "A kilátás a romoktól télen gyakran sokkal tisztább, mint nyáron; viseljen szélálló réteget, amikor a sáncok tetején áll a hűvös szélben.",
+                "ro": "Vizibilitatea de la ruine este adesea mai bună iarna decât vara; purtați un strat rezistent la vânt când stați sus pe metereze în bătaia brizei.",
+                "en": "The long-distance visibility from the ruins is often better in winter; wear a windproof outer layer while standing atop the exposed ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Foxos",
+                "hu": "Playa de Foxos",
+                "ro": "Playa de Foxos",
+                "en": "Playa de Foxos"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief über dem Meer und glitzert auf den Wellen; achten Sie auf den kalten Gegenwind auf der Rückfahrt Richtung Navia.",
+                "hu": "A téli nap alacsonyan jár a tenger felett és csillog a hullámokon; ügyeljen a hideg szembe szélre a Navia felé vezető visszaúton.",
+                "ro": "Soarele de iarnă stă jos deasupra mării și scânteiază pe valuri; atenție la vântul rece din față la întoarcerea spre centrul orașului Navia.",
+                "en": "The winter sun hangs low over the sea, sparkling on the waves; watch out for the biting headwind on your return trip back towards Navia."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Moro",
+                "hu": "Playa del Moro",
+                "ro": "Playa del Moro",
+                "en": "Playa del Moro"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour, bevor die Temperaturen nach 16:30 Uhr stark sinken; ein heißes Getränk zurück in der Stadt ist die perfekte Belohnung.",
+                "hu": "Fejezze be a túrát, mielőtt a hőmérséklet 16:30 után hirtelen leesne; egy forró ital a városba érve tökéletes jutalom lesz a nap végén.",
+                "ro": "Încheiați turul înainte ca temperaturile să scadă brusc după ora 16:30; o băutură fierbinte la întoarcerea în oraș este recompensa perfectă.",
+                "en": "Finish your tour before the temperature drops sharply after 16:30; a hot drink back in town is the perfect reward for your wintry cycling effort."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggeli autózás délen, a fenséges Casa de Solaresnél kezdődik, majd visszatérünk a központba. Délben a Villa Arbosa és a Quinta Jardón elegáns Indiano építészetét tekinthetjük meg. A délután gyors tengerparti kikapcsolódást kínál a közeli, meghitt Playa de Arnelles homokján. Az este a Mirador del Monolito kilátóhoz vezet, ahonnan felejthetetlen panoráma tárul elénk.",
         "ro": "Condusul de dimineață începe în sud la majestuoasa Casa de Solares înainte de a reveni în centru. La prânz se face tranziția către arhitectura indiană de la Villa Arbosa și Quinta Jardón. După-amiaza oferă un refugiu rapid la plaja intimă de la Playa de Arnelles din apropiere. Seara se încheie cu drumul către Mirador del Monolito pentru priveliști panoramice de neuitat.",
         "en": "Morning drives start south at the majestic Casa de Solares before returning to the heart of Navia. Midday transitions to the elegant Indiano architecture found at Villa Arbosa and Quinta Jardón. Afternoon allows for a quick seaside retreat at the intimate Playa de Arnelles nearby. Evening wraps up driving to the Mirador del Monolito for unforgettable panoramic views of the coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Start im Auto bei der Casa de Solares; genießen Sie den Blick auf die nassen Felder. Mittags besuchen wir die Paläste im Zentrum, wobei wir nur kurz für Fotos aussteigen. Am Nachmittag fahren wir entlang der Küste zu den Villen und Stränden, geschützt vor dem Wind. Der Tag endet am Monolith-Aussichtspunkt, wo das Meer unter den dunklen Wolken dramatisch wirkt.",
+            "hu": "Esős reggeli rajt a Casa de Solares-nél; élvezze a kilátást a vizes mezőkre az autóból. Délben a központ palotáit látogatjuk meg, csak rövid időre kiszállva a fotók kedvéért. Délután a part menti villákhoz és strandokhoz autózunk, védve a széltől. A nap a Monolito kilátónál zárul, ahol a tenger drámai látványt nyújt a sötét felhők alatt.",
+            "ro": "Start ploios cu mașina la Casa de Solares; bucurați-vă de vederea câmpurilor ude. La prânz vizităm palatele din centru, coborând doar scurt pentru fotografii. După-amiaza conducem de-a lungul coastei spre vile și plaje, protejați de vânt. Ziua se încheie la punctul de belvedere Monolito, unde marea pare dramatică sub norii grei.",
+            "en": "Rainy start by car at Casa de Solares; enjoy the view of the wet fields from the dry cabin. At noon, we visit the palaces in the center, hopping out briefly for photos. Afternoon takes us along the coast to the villas and beaches, sheltered from the wind. The day ends at the Monolith viewpoint, where the sea looks dramatic under the dark, heavy clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de Solares",
+                "hu": "Casa de Solares",
+                "ro": "Casa de Solares",
+                "en": "Casa de Solares"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um im Regen trocken zu bleiben; die historische Architektur wirkt im grauen Licht besonders imposant und zeitlos.",
+                "hu": "Parkoljon közel a bejárathoz, hogy száraz maradjon az esőben; a történelmi épület látványa a szürke fényben különösen impozáns és időtlen.",
+                "ro": "Parcați aproape de intrare pentru a rămâne uscat în ploaie; arhitectura istorică pare deosebit de impunătoare și atemporală în lumina gri.",
+                "en": "Park close to the entrance to stay dry in the rain; the historic architecture looks particularly imposing and timeless in the flat, gray light."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Marquesa de Navia Osorio",
+                "hu": "Casa de la Marquesa de Navia Osorio",
+                "ro": "Casa de la Marquesa de Navia Osorio",
+                "en": "Casa de la Marquesa de Navia Osorio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie eine Regenpause für einen kurzen Rundgang; das prasselnde Wasser auf dem Kopfsteinpflaster erzeugt eine wunderbare akustische Kulisse.",
+                "hu": "Használja ki az esőszünetet egy rövid sétára; a macskaköveken koppanó esőcseppek hangja különleges akusztikai élményt nyújt a ház mellett.",
+                "ro": "Profități de o pauză în ploaie pentru o scurtă plimbare; sunetul apei pe pavajul de piatră creează un fundal acustic minunat lângă conac.",
+                "en": "Take advantage of a break in the rain for a quick stroll; the sound of water hitting the cobblestones creates a wonderful acoustic backdrop here."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Arias",
+                "hu": "Palacio de Arias",
+                "ro": "Palacio de Arias",
+                "en": "Palacio de Arias"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Fassade vom Auto aus oder unter einem Schirm; der Regen bringt die natürlichen Farben des alten Gesteins hervor.",
+                "hu": "Csodálja meg a homlokzat részleteit az autóból vagy egy esernyő alól; az eső kiemeli a régi kövek természetes színeit és különleges textúráját.",
+                "ro": "Admirați detaliile fațadei din mașină sau de sub o umbrelă; ploaia scoate la iveală culorile naturale și textura pietrei vechi a palatului.",
+                "en": "Admire the facade details from the car or under an umbrella; the rain brings out the rich, natural colors of the ancient stones and masonry."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Arbosa",
+                "hu": "Villa Arbosa",
+                "ro": "Villa Arbosa",
+                "en": "Villa Arbosa"
+              },
+              "tip_5lang": {
+                "de": "Die elegante Villa wirkt im Regen wie aus einem Film; achten Sie beim Aussteigen auf Pfützen in der Nähe der Gartenwege und Einfahrten.",
+                "hu": "Az elegáns villa az esőben olyan, mintha egy filmjelenetben lenne; kiszálláskor ügyeljen a tócsákra a kerti utak és a kocsibejárók közelében.",
+                "ro": "Vila elegantă pare desprinsă dintr-un film în timpul ploii; atenție la bălți când coborâți din mașină lângă aleile grădinii și intrări.",
+                "en": "The elegant villa looks like something out of a movie in the rain; watch out for deep puddles near the garden paths and driveways when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Jardón",
+                "hu": "Quinta Jardón",
+                "ro": "Quinta Jardón",
+                "en": "Quinta Jardón"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Gärten durch die regennassen Scheiben; die Pflanzen wirken in der Feuchtigkeit besonders lebendig und farbenfroh.",
+                "hu": "Élvezze a kertek látványát az eső áztatta ablakon keresztül; a növények a nedvességben különösen élénknek és színpadiasnak tűnnek ilyenkor.",
+                "ro": "Bucurați-vă de vederea grădinilor prin geamurile ude de ploaie; plantele par deosebit de vii și colorate în această atmosferă umedă.",
+                "en": "Enjoy the view of the lush gardens through the rain-streaked windows; the plants look particularly vibrant and colorful in the high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Arnelles",
+                "hu": "Playa de Arnelles",
+                "ro": "Playa de Arnelles",
+                "en": "Playa de Arnelles"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung sicher aus dem warmen Fahrzeug; die Küstenstraße bietet spektakuläre Ausblicke auf den stürmischen Atlantik im Regen.",
+                "hu": "Figyelje a hullámtörést biztonságban a meleg autóból; a parti út látványos kilátást nyújt a viharos Atlanti-óceánra az esős időben is.",
+                "ro": "Urmăriți valurile în siguranță din vehiculul călduros; drumul de coastă oferă vederi spectaculoase ale Atlanticului învolburat pe ploaie.",
+                "en": "Watch the crashing surf safely from your warm vehicle; the coastal road offers spectacular views of the stormy Atlantic during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Monolito",
+                "hu": "Mirador del Monolito",
+                "ro": "Mirador del Monolito",
+                "en": "Mirador del Monolito"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Aussichtspunkt lohnt sich für das Panorama; seien Sie vorsichtig auf dem nassen Asphalt des Parkplatzes am Klippenrand.",
+                "hu": "Megéri egy rövid sprint a kilátóponthoz a panoráma kedvéért; legyen óvatos a vizes aszfalton a szikla szélén lévő parkoló környékén.",
+                "ro": "Merită un sprint scurt până la punctul de belvedere pentru panoramă; aveți grijă pe asfaltul ud din parcarea de lângă marginea stâncii.",
+                "en": "A quick dash to the viewpoint is worth it for the panorama; be careful on the wet asphalt in the parking area near the cliff edge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wintermorgenfahrt zur Casa de Solares; die Heizung sorgt für Komfort bei der Aussicht auf die raue Landschaft. Mittags erkunden wir das Stadtzentrum von Navia und genießen die klare Luft bei kurzen Spaziergängen. Am Nachmittag führen uns die Küstenstraßen zu den Villen unter der tiefstehenden Sonne. Da es gegen 17:00 Uhr dunkel wird, erleben wir den Sonnenuntergang am Monolith-Aussichtspunkt.",
+            "hu": "Téli reggeli autózás a Casa de Solares-hez; a fűtés kényelmet ad a zord táj látványa mellett. Délben Navia városközpontját fedezzük fel, élvezve a tiszta levegőt a rövid séták alatt. Délután a parti utak az alacsonyan járó nap fényében vezetnek a villákhoz. Mivel 17:00 körül sötétedik, a naplementét a Monolito kilátónál éljük át az óceán felett.",
+            "ro": "Călătorie de iarnă cu mașina spre Casa de Solares; căldura oferă confort în timp ce admirați peisajul aspru. La prânz explorăm centrul orașului Navia, bucurându-ne de aerul curat. După-amiaza, drumurile de coastă ne duc spre vile sub soarele jos. Deoarece se întunecă în jur de ora 17:00, experimentăm apusul la punctul de belvedere Monolito.",
+            "en": "Winter morning drive to Casa de Solares; the heater provides comfort while viewing the rugged landscape. At noon, we explore Navia's town center, enjoying the crisp air during short walks. In the afternoon, coastal roads lead us to the villas under the low-hanging sun. As it gets dark around 17:00, we experience the sunset at the Monolith viewpoint over the Atlantic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa de Solares",
+                "hu": "Casa de Solares",
+                "ro": "Casa de Solares",
+                "en": "Casa de Solares"
+              },
+              "tip_5lang": {
+                "de": "Das Haus wirkt in der Winterlandschaft sehr ruhig; prüfen Sie den Reifendruck vor der Abfahrt, da die Temperaturen morgens oft stark sinken.",
+                "hu": "A ház nagyon nyugodtnak tűnik a téli tájban; ellenőrizze a guminyomást indulás előtt, mivel a hőmérséklet reggelente gyakran hirtelen esik.",
+                "ro": "Casa pare foarte liniștită în peisajul de iarnă; verificați presiunea pneurilor înainte de plecare, deoarece temperaturile scad brusc dimineața.",
+                "en": "The house looks very peaceful in the winter landscape; check your tire pressure before leaving, as temperatures often drop sharply overnight."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de la Marquesa de Navia Osorio",
+                "hu": "Casa de la Marquesa de Navia Osorio",
+                "ro": "Casa de la Marquesa de Navia Osorio",
+                "en": "Casa de la Marquesa de Navia Osorio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Zentrum und genießen Sie den kurzen Gang an der frischen Luft; das Herrenhaus ist im Winter weniger von Touristen besucht und ruhiger.",
+                "hu": "Parkoljon a központban és élvezze a rövid sétát a friss levegőn; az udvarházat télen kevesebb turista látogatja, így sokkal nyugodtabb az élmény.",
+                "ro": "Parcați în centru și bucurați-vă de o scurtă plimbare în aer liber; conacul este mai puțin vizitat de turiști iarna și mult mai liniștit.",
+                "en": "Park in the center and enjoy a short walk in the crisp air; the manor is less crowded with tourists in winter, offering a much quieter experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de Arias",
+                "hu": "Palacio de Arias",
+                "ro": "Palacio de Arias",
+                "en": "Palacio de Arias"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmetzarbeiten sind im klaren Winterlicht besonders gut zu erkennen; nutzen Sie die Parkplätze in der Nähe für einen schnellen Besuch im Freien.",
+                "hu": "A kőfaragások a tiszta téli fényben különösen jól láthatóak; használja a közeli parkolókat egy gyors kültéri látogatáshoz a palota körül.",
+                "ro": "Sculpturile în piatră sunt deosebit de vizibile în lumina clară de iarnă; folosiți parcările din apropiere pentru o vizită scurtă în exterior.",
+                "en": "The stonework details are especially visible in the clear winter light; use nearby parking spots for a quick outdoor visit to the palace grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Arbosa",
+                "hu": "Villa Arbosa",
+                "ro": "Villa Arbosa",
+                "en": "Villa Arbosa"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Fassade der Villa wunderschön; achten Sie auf mögliche Glätte auf schattigen Abschnitten der Zufahrt.",
+                "hu": "Az alacsony téli nap szépen megvilágítja a villa homlokzatát; ügyeljen az esetleges jegesedésre a kocsibejáró árnyékosabb szakaszain.",
+                "ro": "Soarele jos de iarnă luminează superb fațada vilei; atenție la posibilele porțiuni înghețate de pe secțiunile umbrite ale drumului de acces.",
+                "en": "The low winter sun illuminates the villa's facade beautifully; be mindful of potential icy patches on shaded sections of the driveway."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta Jardón",
+                "hu": "Quinta Jardón",
+                "ro": "Quinta Jardón",
+                "en": "Quinta Jardón"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang durch die kühlen Gärten belebt die Sinne; kehren Sie danach schnell ins warme Auto zurück, um die Fahrt fortzusetzen.",
+                "hu": "Egy rövid séta a hűvös kertekben élénkíti az érzékeket; utána térjen vissza gyorsan a meleg autóba, hogy folytassa az utat a part mentén.",
+                "ro": "O scurtă plimbare prin grădinile răcoroase vă va înviora; reveniți apoi rapid în mașina încălzită pentru a continua traseul de coastă.",
+                "en": "A short walk through the cool gardens invigorates the senses; return to your warm car quickly afterward to continue your coastal drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Arnelles",
+                "hu": "Playa de Arnelles",
+                "ro": "Playa de Arnelles",
+                "en": "Playa de Arnelles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Ozean bei bester Sicht; im Winter ist die Luft oft klarer, was den Horizont schärfer erscheinen lässt.",
+                "hu": "Élvezze a tágas kilátást az óceánra a legjobb látási viszonyok mellett; télen a levegő gyakran tisztább, így a horizont is élesebbnek tűnik.",
+                "ro": "Bucurați-vă de vederea vastă a oceanului în condiții de vizibilitate optimă; iarna aerul este adesea mai clar, făcând orizontul mai neted.",
+                "en": "Enjoy the vast ocean view with optimal visibility; in winter, the air is often clearer, making the horizon appear sharper and further away."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Monolito",
+                "hu": "Mirador del Monolito",
+                "ro": "Mirador del Monolito",
+                "en": "Mirador del Monolito"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den winterlichen Sonnenuntergang vor 17:00 Uhr; lassen Sie den Motor nicht zu lange im Leerlauf laufen, während Sie die Aussicht genießen.",
+                "hu": "Tökéletes hely a téli naplemente megtekintéséhez 17:00 előtt; ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik a sziklán.",
+                "ro": "Locul perfect pentru a vedea apusul de iarnă înainte de ora 17:00; nu lăsați motorul pornit inutil în timp ce admirați priveliștea de pe stâncă.",
+                "en": "The perfect spot for a wintry sunset before 17:00; avoid idling your engine for too long while you enjoy the spectacular view from the cliff."
+              }
+            }
+          ]
+        }
       }
     }
   }

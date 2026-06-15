@@ -137,6 +137,168 @@
         "hu": "A reggel pihentetően indul Vihiers szívében, a nyüzsgő Charles de Gaulle téren. Innen kényelmesen átsétálunk a fenséges Saint-Nicolas templomhoz, melynek építészete azonnal megragadja a tekintetet.\n\nDélben elmélyülünk a vallási történelemben a békés Saint-Jean kápolna meglátogatásával, amely kiváló hely az elmélyülésre.\n\nDélután a védelmi történelemnek szenteljük magunkat a Maupassant-kastély alapos és rendkívül izgalmas felfedezésével.\n\nA sétát a feudális halomnál zárjuk, ahonnan csodálatos kilátás nyílik a vidékre, megkoronázva ezzel a tartalmas napot.",
         "ro": "Dimineața începe relaxant în inima orașului Vihiers, în animata Piață Charles de Gaulle. De acolo, ne plimbăm pe îndelete spre maiestuoasa biserică Saint-Nicolas, a cărei arhitectură atrage imediat atenția.\n\nLa prânz, aprofundăm istoria religioasă vizitând capela liniștită Saint-Jean, un loc perfect pentru o clipă de reculegere.\n\nDupă-amiaza este dedicată istoriei defensive cu o explorare amplă a impunătorului Castel Maupassant și a curților sale.\n\nPlimbarea se încheie la movila feudală, unde ne bucurăm de o priveliște minunată și de o atmosferă de neuitat.",
         "en": "The morning begins relaxingly in the heart of Vihiers at the bustling Charles de Gaulle Square. From there, we stroll leisurely to the majestic Église Saint-Nicolas, whose architecture immediately catches the eye.\n\nAt midday, we delve deeper into religious history by visiting the peaceful Chapelle Saint-Jean, an excellent place for quiet reflection.\n\nThe afternoon is dedicated to defensive history with an extensive and deeply fascinating exploration of the historic Maupassant Castle.\n\nThe walk concludes at the feudal motte, where we enjoy a wonderful panoramic view and bring the day to a very serene close."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit Regenschirm am Platz. Mittags bieten die Kirchen eine trockene Zuflucht vor den Schauern. Nachmittags sollten Sie am Schloss auf schlammige Wege achten. Beenden Sie den nassen Spaziergang an der Motte gut eingepackt.",
+            "hu": "Kezdje a reggelt a téren egy esernyővel. Délben keressen menedéket a záporok elől a templomokban. Délután óvatosan járja be a kastély saras ösvényeit. Fejezze be a sétát a földvárnál, vízálló ruházatát szorosan magán tartva.",
+            "ro": "Începeți dimineața în piață sub o umbrelă. La prânz, adăpostiți-vă de ploaie în bisericile istorice. După-amiaza, parcurgeți cu grijă cărările noroioase de la castel. Încheiați plimbarea umedă la movilă, bine protejați de pelerine.",
+            "en": "Begin your morning at the square under a sturdy umbrella. By midday, seek refuge from showers inside the historic churches. In the afternoon, navigate the muddy paths around the castle carefully. Conclude your wet walk by the motte."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Charles-de-Gaulle-Platz",
+                "hu": "Charles de Gaulle tér",
+                "ro": "Piața Charles de Gaulle",
+                "en": "Charles de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Zentrum unter dem Regenschirm; das nasse Kopfsteinpflaster glänzt schön, also tragen Sie wasserdichte, rutschfeste Schuhe.",
+                "hu": "Csodálja meg a teret esernyő alól; a nedves macskakő gyönyörűen csillog, de viseljen csúszásmentes, vízálló cipőt a biztonság érdekében.",
+                "ro": "Admirați centrul sub umbrelă; piatra cubică udă strălucește frumos, așa că purtați încălțăminte impermeabilă și antiderapantă.",
+                "en": "Admire the civic center under your umbrella; the wet cobblestones shine beautifully, so wear sturdy waterproof shoes to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor dem Regen in dieser historischen Kirche, um die Details zu bewundern, während Ihre Kleidung etwas trocknen kann.",
+                "hu": "Húzódjon be az eső elől ebbe a történelmi templomba, ahol megcsodálhatja a belső teret, miközben a ruhája is megszáradhat egy kicsit.",
+                "ro": "Refugiați-vă de ploaie în această biserică istorică pentru a admira detaliile în timp ce hainele vi se mai usucă.",
+                "en": "Take refuge from the rain inside this historic church to admire its details while your clothes dry off a bit."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Jean",
+                "hu": "Saint-Jean kápolna",
+                "ro": "Capela Saint-Jean",
+                "en": "Chapelle Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das ruhige Innere dieser Kapelle, ein perfekter überdachter Rückzugsort bei plötzlichen Regengüssen mit klassischem Design.",
+                "hu": "Fedezze fel a kápolna csendes belsejét, amely tökéletes fedett menedék hirtelen felhőszakadások idején, klasszikus dizájnnal.",
+                "ro": "Explorați interiorul liniștit al acestei capele, un refugiu acoperit perfect în timpul averselor bruște, cu un design clasic.",
+                "en": "Explore the quiet interior of this chapel, a perfect indoor escape from sudden downpours while viewing its classic design."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Maupassant",
+                "hu": "Maupassant kastély",
+                "ro": "Castelul Maupassant",
+                "en": "Maupassant Castle"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Burgmauern vor dem grauen Himmel; bleiben Sie auf den gepflasterten Wegen, um schlammige Stellen auf dem Gelände zu meiden.",
+                "hu": "Nézze meg a várfalakat a szürke égbolt előtt; maradjon a burkolt utakon, hogy elkerülje a sáros, csúszós szakaszokat a birtokon.",
+                "ro": "Priviți zidurile castelului pe fundalul cerului gri; rămâneți pe aleile pavate pentru a evita zonele noroioase de pe domeniu.",
+                "en": "View the imposing castle walls against the grey sky; stay on the paved sections to avoid muddy patches on the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Feudale Motte",
+                "hu": "Feudális földvár",
+                "ro": "Movilă feudală",
+                "en": "Feudal Motte"
+              },
+              "tip_5lang": {
+                "de": "Der grasbewachsene Hügel ist bei Regen sehr rutschig, betrachten Sie ihn also vorsichtig vom Weg aus und achten Sie auf festen Tritt.",
+                "hu": "A füves domb esőben nagyon csúszós, ezért inkább csak az útról figyelje meg, és ügyeljen a stabil, tapadós lábbelire.",
+                "ro": "Movila acoperită de iarbă este alunecoasă pe ploaie, așa că observați-o cu atenție de pe cărare și asigurați-vă că aveți aderență.",
+                "en": "The grassy mound is slippery in the rain, so observe it carefully from the path and ensure your boots have good grip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgen beginnt am Platz in warmen Schichten. Mittags genießen Sie die Winterruhe in den Kirchen. Nachmittags wirkt das Schloss in der kalten Luft majestätisch. Beenden Sie die Tour an der Motte, bevor es um 17:00 Uhr dunkel wird.",
+            "hu": "A fagyos reggel a téren indul, meleg rétegekbe öltözve. Délben élvezze a téli békét a templomokban. Délután a kastély lenyűgöző a csípős levegőben. Fejezze be az utat a földvárnál még a korai, 17:00 órás sötétedés előtt.",
+            "ro": "O dimineață geroasă începe în piață, cu haine groase. La prânz, bucurați-vă de liniștea iernii în biserici. După-amiaza, castelul este maiestuos în aerul rece. Încheiați la movilă înainte de întunericul care cade devreme, în jur de 17:00.",
+            "en": "A brisk morning starts at the square wrapped in thick layers. By noon, enjoy the serene winter atmosphere inside the churches. The afternoon sun hits the castle beautifully in the crisp air. Conclude at the motte before the early 5 PM dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Charles-de-Gaulle-Platz",
+                "hu": "Charles de Gaulle tér",
+                "ro": "Piața Charles de Gaulle",
+                "en": "Charles de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren frostigen Spaziergang hier, genießen Sie den Wintermorgen und tragen Sie dicke Handschuhe gegen den kalten Wind.",
+                "hu": "Kezdje fagyos sétáját itt, élvezve a csendes téli reggelt, és feltétlenül viseljen vastag kesztyűt a csípős szél ellen.",
+                "ro": "Începeți plimbarea geroasă aici, admirând dimineața de iarnă, și asigurați-vă că purtați mănuși groase împotriva vântului rece.",
+                "en": "Begin your frosty walk here, admiring the quiet winter morning, and make sure to wear thick gloves against the chilling wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen friedlichen, geschützten Halt vor der Kälte; treten Sie ein, um die Architektur zu bewundern und sich aufzuwärmen.",
+                "hu": "A templom békés, védett megállót kínál a hideg huzat elől; lépjen be, hogy megcsodálja az építészetet és egy kicsit felmelegedjen.",
+                "ro": "Biserica oferă o oprire pașnică și protejată de frig; pășiți înăuntru pentru a aprecia arhitectura și a vă încălzi puțin.",
+                "en": "The church offers a peaceful, sheltered stop from the cold draft; step inside to appreciate its architecture and warm up slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Jean",
+                "hu": "Saint-Jean kápolna",
+                "ro": "Capela Saint-Jean",
+                "en": "Chapelle Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Staunen Sie über die winterliche Stille; das Innere blockiert die eisige Brise effektiv, auch wenn die Steinwände kühl bleiben.",
+                "hu": "Csodálja meg a téli csendet a kápolnában; a belső tér hatékonyan felfogja a fagyos szeleket, bár a kőfalak hűvösek maradnak.",
+                "ro": "Minunați-vă de liniștea iernatică; deși răcoros, interiorul blochează eficient briza înghețată a iernii.",
+                "en": "Marvel at the wintery silence surrounding this chapel; the interior, though chilly, blocks the biting winter breeze effectively."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Maupassant",
+                "hu": "Maupassant kastély",
+                "ro": "Castelul Maupassant",
+                "en": "Maupassant Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht vor dem kargen Winterhimmel majestätisch aus; ziehen Sie den Schal enger, da es auf dem offenen Gelände sehr windig ist.",
+                "hu": "A kastély fenségesen mutat a kopár téli égbolt előtt; húzza szorosabbra a sálját, mert a nyílt terepen nagyon szeles lehet az idő.",
+                "ro": "Castelul arată maiestuos pe cerul sumbru de iarnă; strângeți bine fularul, deoarece pe terenurile deschise vântul bate cu putere.",
+                "en": "The castle looks majestic against the bleak winter sky; keep your scarf tight as the open grounds can be very windy."
+              }
+            },
+            {
+              "name": {
+                "de": "Feudale Motte",
+                "hu": "Feudális földvár",
+                "ro": "Movilă feudală",
+                "en": "Feudal Motte"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Motte vor dem frühen Sonnenuntergang gegen 17 Uhr, um die klare Dämmerung zu genießen, aber Vorsicht vor verstecktem Eis.",
+                "hu": "Érje el a történelmi földvárat a korai, 17 órás naplemente előtt, de a szürkületben fokozottan ügyeljen a rejtett jégfoltokra.",
+                "ro": "Ajungeți la movila istorică înainte de apusul de la ora 17:00 pentru a vă bucura de amurg, dar aveți grijă la peticele de gheață ascunse.",
+                "en": "Reach the historic motte before the early 5 PM sunset to enjoy the crisp twilight, but beware of hidden ice patches on the ground."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpárral rugalmasan és gyorsan fedezzük fel Vihiers-t. A Charles de Gaulle téri nyugodt indulás és a Saint-Nicolas templom megtekintése után gyorsan eltekerünk az impozáns Maupassant-kastélyhoz.\n\nDélben tovább tekerünk a történelmi feudális földvárhoz, majd észak felé vesszük az irányt a festői utakon.\n\nDélután elérjük a jellegzetes La Cave nevezetességet, és hagyjuk, hogy a Saint-Pierre templom fenséges építészete igazán lenyűgözzön minket.\n\nA koronát a napra az esti fényben fürdő, csendes Angyalok kápolnája teszi fel, egy tökéletes hely a pihenésre.",
         "ro": "Cu bicicleta explorăm Vihiers flexibil și rapid. După un început relaxat în Piața Charles de Gaulle și o vizită la biserica Saint-Nicolas, pedalăm rapid spre impunătorul Castel Maupassant.\n\nLa prânz, continuăm spre movila feudală istorică înainte de a ne îndrepta spre nord pe drumuri pitorești.\n\nDupă-amiaza ajungem la impresionanta atracție La Cave și ne lăsăm impresionați de arhitectura deosebită a bisericii Saint-Pierre.\n\nPunctul culminant este liniștita Capelă a Îngerilor, luminată de soarele apusului, un loc perfect pentru a încheia ziua.",
         "en": "By bike, we explore Vihiers highly flexibly and quickly. After a relaxed start at Charles de Gaulle Square and a visit to the Église Saint-Nicolas, we pedal swiftly to the imposing Maupassant Castle.\n\nAt noon, we cycle further to the historical feudal motte before heading north along some truly picturesque local paths.\n\nIn the afternoon, we reach the striking landmark La Cave and let the glorious architecture of the Église Saint-Pierre deeply impress us.\n\nThe crowning finale is the quietly situated Chapel of the Angels, where we fully enjoy the peaceful atmosphere in the soft evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen erfordert Schutzbleche ab dem Platz. Mittags radeln Sie vorsichtig auf nassem Pflaster zu den Kirchen. Nachmittags geht es zum Schloss und zur Motte. Beenden Sie die nasse Fahrt bei der Kapelle mit sanftem Bremsen.",
+            "hu": "Az esős reggel sárvédőt kíván a tértől indulva. Délben óvatosan tekerjen a csúszós köveken a templomokig. Délután a kastély és a földvár következik. Az utat a kápolnánál fejezze be, ügyelve a biztonságos, finom fékezésre.",
+            "ro": "O dimineață ploioasă necesită aripi de noroi încă din piață. La prânz, pedalați cu grijă pe piatra udă spre biserici. După-amiaza vizitați castelul și movila. Încheiați cursa umedă la capelă, frânând ușor pe drumurile alunecoase.",
+            "en": "A rainy morning requires mudguards starting at the square. By noon, cycle carefully on slick cobblestones to the churches. Afternoon brings you to the castle and motte. End your wet ride at the chapel, braking gently on slippery paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Charles-de-Gaulle-Platz",
+                "hu": "Charles de Gaulle tér",
+                "ro": "Piața Charles de Gaulle",
+                "en": "Charles de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier Ihre nasse Fahrt; testen Sie frühzeitig Ihre Bremsen, da der Belag des Platzes bei Nässe rutschig wird.",
+                "hu": "Kezdje innen az esős túrát; idejében tesztelje a fékeket, mivel a tér burkolata nedvesen különösen csúszóssá válhat.",
+                "ro": "Începeți traseul umed aici; testați frânele din timp, deoarece suprafața pieței devine alunecoasă când este udă.",
+                "en": "Start your wet ride here; test your brakes early as the square's surface gets slick when covered in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad vorsichtig und betreten Sie das trockene Kirchenschiff, um dem Regen zu entkommen und den Altar zu bewundern.",
+                "hu": "Parkolja le a kerékpárt óvatosan, és lépjen be a száraz hajóba, hogy elmeneküljön az eső elől és megcsodálja az oltárt.",
+                "ro": "Parcați bicicleta cu grijă și intrați în nava uscată pentru a scăpa de ploaia persistentă și a admira altarul.",
+                "en": "Park your bike carefully and step inside the dry nave to escape the persistent rain and admire the beautiful altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Maupassant",
+                "hu": "Maupassant kastély",
+                "ro": "Castelul Maupassant",
+                "en": "Maupassant Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss ist ein toller Anblick, aber die Wege werden schlammig; fahren Sie langsam und bleiben Sie auf den gepflasterten Zufahrten.",
+                "hu": "A kastély csodás látvány, de az ösvények sarasak; tekerjen lassan, és maradjon a szilárd burkolatú fő megközelítési utakon.",
+                "ro": "Castelul oferă o priveliște excelentă, dar cărările devin noroioase; pedalați încet și rămâneți pe drumurile principale pavate.",
+                "en": "The castle is a great sight, but paths get muddy; ride slowly and stick strictly to the main paved approaches."
+              }
+            },
+            {
+              "name": {
+                "de": "Feudale Motte",
+                "hu": "Feudális földvár",
+                "ro": "Movilă feudală",
+                "en": "Feudal Motte"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie dieses historische Erdwerk von der Straße aus, da es nicht ratsam ist, das Rad in das nasse, tiefe Gras zu schieben.",
+                "hu": "Nézze meg ezt a történelmi földművet az útról, mivel a kerékpárt a vizes, mély fűbe tolni esőben nem tanácsos.",
+                "ro": "Observați această lucrare de pământ istorică de pe drum, deoarece împingerea bicicletei pe iarba udă și noroioasă nu este indicată.",
+                "en": "Observe this historical earthwork from the road, as pushing your bike onto the soaked, muddy grass is not advised."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cave",
+                "hu": "La Cave",
+                "ro": "La Cave",
+                "en": "La Cave"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter geschützter Halt, um Ihre Radkleidung etwas zu trocknen, während Sie die einzigartigen überdachten Besonderheiten erkunden.",
+                "hu": "Tökéletes fedett megálló, ahol megszáradhat a kerékpáros ruházata, miközben felfedezi a hely egyedi, védett jellemzőit.",
+                "ro": "O oprire protejată perfectă pentru a vă usca echipamentul de ciclism în timp ce explorați caracteristicile unice acoperite de aici.",
+                "en": "A perfect sheltered stop to dry your cycling gear while exploring the unique underground or covered features here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause unter dem Vordach der Kirche, um sich abzutrocknen, bevor Sie das historische Innere besichtigen.",
+                "hu": "Tartson egy kis szünetet a templom bejárati előtetője alatt, hogy lecsöpögjön a víz, mielőtt megnézi a történelmi belső teret.",
+                "ro": "Faceți o pauză sub copertina intrării bisericii pentru a vă zvânta înainte de a vizita interiorul istoric.",
+                "en": "Take a break from the saddle under the church's entrance canopy to dry off before viewing the historic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Engelskapelle",
+                "hu": "Angyalok kápolnája",
+                "ro": "Capela Îngerilor",
+                "en": "Chapel of the Angels"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihre regnerische Fahrt; die feuchte Luft wirkt mystisch. Bremsen Sie auf der nassen Zufahrt besonders sanft.",
+                "hu": "Fejezze be itt esős útját; a párás levegő misztikus hangulatot ad. A nedves útszakaszon különösen finoman fékezzen a megálláskor.",
+                "ro": "Încheiați cursa umedă aici; aerul umed adaugă un sentiment mistic. Frânați ușor pe porțiunea udă la sosire.",
+                "en": "Conclude your rainy ride here; the damp air adds a mystical feel, just brake gently on the wet approach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie dick eingepackt gegen den eisigen Fahrtwind. Mittags bieten die Kirchen eine kurze Pause von der Kälte. Nachmittags radeln Sie zügig zum Schloss, um warm zu bleiben. Beenden Sie die Tour vor der Dunkelheit um 16:30 Uhr.",
+            "hu": "Induljon vastagon felöltözve a fagyos menetszél ellen. Délben a templomok rövid menedéket nyújtanak a hideg elől. Délután tekerjen tempósan a kastélyhoz, hogy kimelegedjen. Fejezze be az utat a korai, 16:30-as sötétedés előtt.",
+            "ro": "Porniți bine îmbrăcați împotriva vântului înghețat. La prânz, bisericile oferă o scurtă pauză de la frig. După-amiaza pedalați alert spre castel pentru a vă încălzi. Terminați traseul înainte de lăsarea întunericului, la 16:30.",
+            "en": "Start bundled up against the freezing headwind at the square. By noon, the churches offer a brief pause from the cold. In the afternoon, pedal briskly to the castle to stay warm. End the ride before darkness falls around 16:30."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Charles-de-Gaulle-Platz",
+                "hu": "Charles de Gaulle tér",
+                "ro": "Piața Charles de Gaulle",
+                "en": "Charles de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck in der kalten Morgenluft, bevor Sie von diesem zentralen, frostigen Platz aus aufbrechen.",
+                "hu": "Ellenőrizze a guminyomást a hideg reggeli levegőben, mielőtt útnak indulna erről a központi, fagyos térről.",
+                "ro": "Verificați presiunea anvelopelor în aerul rece al dimineții înainte de a porni din această piață centrală, înghețată.",
+                "en": "Check your tire pressure in the cold morning air before setting off from this central, frosty square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem eisigen Fahrtwind zu entkommen und die ruhige, winterliche Atmosphäre des Heiligtums zu genießen.",
+                "hu": "Lépjen be, hogy elmeneküljön a fagyos szél elől, és élvezze a szentély csendes, téli hangulatát.",
+                "ro": "Pășiți înăuntru pentru a scăpa de vântul înghețat și pentru a vă bucura de atmosfera liniștită, de iarnă, a sanctuarului.",
+                "en": "Step inside to escape the freezing wind and enjoy the tranquil, cold-weather atmosphere of the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Maupassant",
+                "hu": "Maupassant kastély",
+                "ro": "Castelul Maupassant",
+                "en": "Maupassant Castle"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume bieten freie Sicht auf das Schloss; tragen Sie eine Windjacke gegen die Böen auf dem offenen Gelände.",
+                "hu": "A kopasz téli fák szabad kilátást engednek a kastélyra; viseljen szélkabátot a nyílt terepen feltámadó széllökések ellen.",
+                "ro": "Copacii goi de iarnă oferă o priveliște neobstrucționată a castelului; purtați o jachetă de vânt pentru rafalele din zona deschisă.",
+                "en": "The bare winter trees offer unobstructed views of the castle; wear a windbreaker to handle the open-area gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Feudale Motte",
+                "hu": "Feudális földvár",
+                "ro": "Movilă feudală",
+                "en": "Feudal Motte"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Erdhügel, solange die Wintersonne hoch steht; der gefrorene Boden sorgt für eine feste, wenn auch holprige Fahrt.",
+                "hu": "Látogassa meg ezt a földhalmot, amíg a téli nap magasan jár; a fagyott talaj szilárd, bár kissé döccenős utat biztosít.",
+                "ro": "Vizitați această movilă de pământ cât timp soarele de iarnă este încă sus; solul înghețat oferă o suprafață solidă, deși denivelată.",
+                "en": "Visit this earthen mound while the winter sun is still high; the frozen ground makes for a solid, if bumpy, ride."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cave",
+                "hu": "La Cave",
+                "ro": "La Cave",
+                "en": "La Cave"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort bietet eine kurze Pause von den Minusgraden; bleiben Sie in Bewegung, um Ihre Körperwärme zu erhalten.",
+                "hu": "Ez a hely rövid felüdülést nyújt a fagypont alatti hőmérsékletek elől; mozogjon folyamatosan, hogy megőrizze testhőmérsékletét.",
+                "ro": "Acest loc oferă un scurt răgaz de la temperaturile negative; continuați să vă mișcați pentru a vă menține căldura corporală.",
+                "en": "This spot provides a brief respite from the freezing temperatures; keep moving to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stimmung dieser Kirche; die Steinwände sind kalt, lassen Sie Ihre Thermoschichten also geschlossen.",
+                "hu": "Élvezze a templom téli hangulatát; a kőfalak hidegek, ezért tartsa teljesen felhúzva a termo öltözékét odabent is.",
+                "ro": "Bucurați-vă de starea de spirit de iarnă a acestei biserici; pereții de piatră sunt reci, deci păstrați straturile termice închise.",
+                "en": "Enjoy the serene winter mood of this church; the stone walls are cold, so keep your thermal layers zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Engelskapelle",
+                "hu": "Angyalok kápolnája",
+                "ro": "Capela Îngerilor",
+                "en": "Chapel of the Angels"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie hier an, wenn die frühe Winterdämmerung naht; prüfen Sie Ihre Fahrradlichter für die dunkle Heimfahrt.",
+                "hu": "Érkezzen ide a korai téli szürkület közeledtével; mindenképpen ellenőrizze a kerékpár lámpáit a sötét hazaúthoz.",
+                "ro": "Ajungeți aici pe măsură ce se apropie amurgul timpuriu de iarnă; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "Arrive here as the early winter dusk approaches; ensure your bike lights are working for the dark ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autóval könnyedén és nagyon kényelmesen összekapcsolhatjuk Vihiers távolabbi kincseit. A központban, a Charles de Gaulle téren kezdünk, és nem sokkal később a történelmi Maupassant-kastélyhoz hajtunk.\n\nDélben felfedezzük a feudális földvárat, és kitérőt teszünk a festői környezetben fekvő, csodálatos Coudray-Montbault kastélyhoz.\n\nA délután a spiritualitás jegyében telik a békésen félreeső Angyalok kápolnája és a pompás Saint-Pierre templom meglátogatásával.\n\nA napot egy rövid megálló zárja a La Cave nevezetességnél, mielőtt rengeteg csodás új élménnyel gazdagodva végül hazaindulnánk.",
         "ro": "Cu mașina, comorile mai îndepărtate ale orașului Vihiers pot fi combinate absolut fără efort. Începem în centru, în Piața Charles de Gaulle, și la scurt timp după aceea conducem spre istoricul Castel Maupassant.\n\nLa prânz, explorăm movila feudală și facem un ocol fantastic în împrejurimile pitorești către impunătorul Castel Coudray-Montbault.\n\nDupă-amiaza este dedicată în întregime spiritualității cu vizite la Capela Îngerilor, retrasă și pașnică, și la magnifica biserică Saint-Pierre.\n\nZiua se încheie cu o scurtă oprire la atracția La Cave, înainte de a ne îndrepta spre casă cu multe impresii minunate noi.",
         "en": "By car, the more distant treasures of Vihiers can be effortlessly and very comfortably combined. We start in the center at Charles de Gaulle Square and shortly after drive to the highly historic Maupassant Castle.\n\nAt noon, we explore the feudal motte and take a fantastic detour into the picturesque rural surroundings to the wonderful Château du Coudray-Montbault.\n\nThe afternoon is fully dedicated to spirituality with highly rewarding visits to the peacefully secluded Chapel of the Angels and the magnificent Église Saint-Pierre.\n\nThe day ends with a short stop at the landmark La Cave before enthusiastically heading home with a multitude of great new impressions."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens bequem durch den Nieselregen vom Platz los. Mittags nutzen Sie den Schirm für kurze Wege zum Schloss und zur Motte. Nachmittags geht es vorsichtig zum Château. Beenden Sie den Tag sicher auf nassen Straßen bei La Cave.",
+            "hu": "Kényelmes autózás a reggeli szitáló esőben a tértől. Délben esernyővel tegyen rövid sétákat a kastélynál és a földvárnál. Délután óvatosan vezessen a kastélyhoz. Zárja a napot a La Cave-nál, ügyelve a csúszós utakra.",
+            "ro": "Conduceți confortabil prin burnița dimineții, plecând din piață. La prânz, folosiți umbrela pentru opriri scurte la castel și movilă. După-amiaza conduceți prudent spre castel. Încheiați ziua în siguranță pe drumuri ude la La Cave.",
+            "en": "Drive comfortably through the morning drizzle from the square. At noon, keep your umbrella handy for short walks to the castle and motte. In the afternoon, navigate cautiously to the château. End safely on wet roads at La Cave."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Charles-de-Gaulle-Platz",
+                "hu": "Charles de Gaulle tér",
+                "ro": "Piața Charles de Gaulle",
+                "en": "Charles de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Platzes und nutzen Sie Ihren Schirm für einen schnellen Blick auf das Zentrum, ohne nass zu werden.",
+                "hu": "Parkoljon le a tér közelében, és használja az esernyőt, hogy gyorsan körülnézzen a központban anélkül, hogy elázna.",
+                "ro": "Parcați aproape de piață și folosiți umbrela pentru o privire rapidă asupra centrului civic, fără a vă uda.",
+                "en": "Park near the square and use your umbrella for a quick look at the civic center without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Maupassant",
+                "hu": "Maupassant kastély",
+                "ro": "Castelul Maupassant",
+                "en": "Maupassant Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische, düstere Kulisse des Schlosses; halten Sie ein Handtuch im Auto bereit, um sich danach abzutrocknen.",
+                "hu": "Élvezze a kastély drámai, borongós hátterét; tartson egy törölközőt az autóban, hogy a rövid kinti séta után megtörölközhessen.",
+                "ro": "Bucurați-vă de fundalul dramatic și sumbru al castelului; păstrați un prosop în mașină pentru a vă șterge după scurta plimbare.",
+                "en": "Enjoy the dramatic, gloomy backdrop of the castle; keep a towel in the car to wipe off after your brief outdoor stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Feudale Motte",
+                "hu": "Feudális földvár",
+                "ro": "Movilă feudală",
+                "en": "Feudal Motte"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das aufgeschüttete Erdwerk vom Rand der Straße aus, um Ihre Schuhe nicht im tiefen, nassen Matsch zu ruinieren.",
+                "hu": "Szemlélje meg a felemelt földművet az út széléről, hogy elkerülje a cipője tönkretételét a mély, vizes sárban.",
+                "ro": "Vizualizați lucrarea de pământ ridicată de pe marginea drumului pentru a evita să vă stricați pantofii în noroiul adânc și umed.",
+                "en": "View the raised earthwork from the edge of the road to avoid ruining your shoes in the deep, wet mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Coudray-Montbault",
+                "hu": "Coudray-Montbault kastély",
+                "ro": "Castelul Coudray-Montbault",
+                "en": "Château du Coudray-Montbault"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Anblick im Regen; nutzen Sie überdachte Eingänge und fahren Sie vorsichtig auf den glatten Landstraßen.",
+                "hu": "Csodálatos látvány esőben; használja ki a fedett bejáratokat, és vezessen rendkívül óvatosan a csúszós vidéki utakon.",
+                "ro": "O priveliște magnifică în ploaie; folosiți intrările acoperite și conduceți cu atenție pe drumurile rurale alunecoase.",
+                "en": "A magnificent sight in the rain; utilize any covered entryways and drive carefully on the slick countryside roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Engelskapelle",
+                "hu": "Angyalok kápolnája",
+                "ro": "Capela Îngerilor",
+                "en": "Chapel of the Angels"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie vom Auto unter das Dach der Kapelle, um die intime Atmosphäre zu bewundern, während Sie dem Regen zuhören.",
+                "hu": "Szaladjon át az autóból a kápolna menedékébe, és csodálja meg az intim belső teret, miközben a kinti esőt hallgatja.",
+                "ro": "Grăbiți-vă din mașină la adăpostul capelei pentru a admira decorul intim în timp ce ascultați ploaia de afară.",
+                "en": "Dash from the car to the chapel's shelter to admire its intimate setting while listening to the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie erlaubt, um die Zeit im Platzregen zu minimieren, bevor Sie in die trockene Kirche treten.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja az esőben töltött időt, mielőtt a száraz templomba lép.",
+                "ro": "Parcați cât mai aproape posibil pentru a minimiza timpul petrecut în ploaie înainte de a intra în biserica uscată.",
+                "en": "Park as close as legally possible to minimize your time in the downpour before stepping into the dry church."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cave",
+                "hu": "La Cave",
+                "ro": "La Cave",
+                "en": "La Cave"
+              },
+              "tip_5lang": {
+                "de": "Ein bequemer letzter Stopp, an dem Sie größtenteils trocken bleiben; achten Sie auf die eingeschränkte Sicht durch die Windschutzscheibe auf dem Weg.",
+                "hu": "Kényelmes utolsó megálló, ahol többnyire szárazon maradhat; vezetés közben ügyeljen az eső miatti korlátozott látási viszonyokra.",
+                "ro": "O ultimă oprire convenabilă unde puteți rămâne uscat; fiți precauți la vizibilitatea redusă prin parbriz pe drum.",
+                "en": "A convenient final stop where you can stay mostly dry; be cautious of reduced visibility through your windshield on the way."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autoheizung ist morgens am frostigen Platz Ihr bester Freund. Mittags erkunden Sie die Burgen mit schnellen Sprints zurück in die Wärme. Nachmittags bringt die Dämmerung kühle Schatten. Beenden Sie den Tag rechtzeitig im Warmen.",
+            "hu": "Az autófűtés a legjobb barátja a fagyos reggeli induláskor. Délben tegyen gyors sétákat a váraknál, majd siessen vissza a melegbe. Délután a korai szürkület hűvös árnyékokat hoz. Zárja a napot még a teljes sötétedés előtt.",
+            "ro": "Căldura mașinii este cel mai bun prieten în dimineața geroasă. La prânz, explorați castelele cu fugi rapide înapoi la căldură. După-amiaza, amurgul timpuriu aduce umbre reci. Încheiați ziua la cald, înainte de căderea nopții.",
+            "en": "The car heater is your best friend departing the frosty square. By noon, explore the castles with quick dashes back to the warmth. The afternoon brings early dusk and cold shadows. Conclude your day safely before the dark sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Charles-de-Gaulle-Platz",
+                "hu": "Charles de Gaulle tér",
+                "ro": "Piața Charles de Gaulle",
+                "en": "Charles de Gaulle Square"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihren Roadtrip von diesem frostigen Platz aus; lassen Sie das Auto warm werden, während Sie ein kurzes Morgenfoto machen.",
+                "hu": "Kezdje autós útját erről a fagyos térről; hagyja a motort bemelegedni, amíg készít egy gyors reggeli fotót.",
+                "ro": "Începeți călătoria din această piață înghețată; lăsați mașina să se încălzească în timp ce faceți o fotografie matinală rapidă.",
+                "en": "Start your road trip from this frosty plaza; let the car warm up while you take a brisk morning photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Maupassant",
+                "hu": "Maupassant kastély",
+                "ro": "Castelul Maupassant",
+                "en": "Maupassant Castle"
+              },
+              "tip_5lang": {
+                "de": "Die imposante Festung sieht im Winter kahl und schön aus; packen Sie sich gut ein, bevor Sie das beheizte Auto verlassen.",
+                "hu": "Az impozáns erődítmény rideg, de gyönyörű a télben; öltözzön fel alaposan, mielőtt kiszáll a fűtött autóból.",
+                "ro": "Impunătoarea fortăreață arată austeră și frumoasă iarna; îmbrăcați-vă bine înainte de a părăsi mașina încălzită.",
+                "en": "The imposing fortress looks stark and beautiful in winter; bundle up well before leaving the heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Feudale Motte",
+                "hu": "Feudális földvár",
+                "ro": "Movilă feudală",
+                "en": "Feudal Motte"
+              },
+              "tip_5lang": {
+                "de": "Der frostbedeckte Hügel ist ein einzigartiger Anblick; achten Sie auf eisige Stellen, wenn Sie sich entscheiden, näher heranzugehen.",
+                "hu": "A dérlepte domb egyedülálló látvány; nagyon ügyeljen a jeges foltokra, ha úgy dönt, hogy közelebb sétál hozzá.",
+                "ro": "Movila acoperită de gheață este o priveliște unică; aveți grijă la peticele înghețate dacă vă decideți să mergeți mai aproape.",
+                "en": "The frost-covered mound is a unique sight; watch your step on the icy patches if you decide to walk closer."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Coudray-Montbault",
+                "hu": "Coudray-Montbault kastély",
+                "ro": "Castelul Coudray-Montbault",
+                "en": "Château du Coudray-Montbault"
+              },
+              "tip_5lang": {
+                "de": "Die karge Winterlandschaft hebt die Architektur hervor; tragen Sie dicke Stiefel für den eiskalten Weg vom Parkplatz.",
+                "hu": "A kopár téli táj kiemeli a kastély építészetét; viseljen vastag csizmát a parkolótól vezető fagyos sétához.",
+                "ro": "Peisajul golaș de iarnă evidențiază arhitectura castelului; purtați cizme groase pentru plimbarea înghețată de la parcare.",
+                "en": "The stark winter landscape highlights the château's architecture; wear thick boots for the freezing walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Engelskapelle",
+                "hu": "Angyalok kápolnája",
+                "ro": "Capela Îngerilor",
+                "en": "Chapel of the Angels"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet einen ruhigen Rückzugsort vor der beißenden Kälte; planen Sie diesen Stopp vor der frühen Dämmerung ein.",
+                "hu": "A kápolna csendes menedéket nyújt a csípős hideg elől; időzítse ezt a megállót még a korai szürkület beállta elé.",
+                "ro": "Capela oferă o retragere liniștită de la frigul tăios; planificați această oprire înainte ca amurgul timpuriu să limiteze vizibilitatea.",
+                "en": "The chapel offers a quiet retreat from the biting cold; plan this stop before the early twilight limits visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Das kühle Steininnere passt zur Winterstimmung; bringen Sie eine warme Jacke mit, da es drinnen kälter sein kann als im Auto.",
+                "hu": "A hűvös kőbelső illik a téli hangulathoz; vigyen be meleg kabátot, mert bent hidegebb lehet, mint az autóban.",
+                "ro": "Interiorul rece din piatră se potrivește cu starea de iarnă; aduceți o jachetă caldă înăuntru, deoarece poate fi mai frig decât în mașină.",
+                "en": "The chilly stone interior matches the winter mood; bring a warm jacket inside as it can be colder than the car."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cave",
+                "hu": "La Cave",
+                "ro": "La Cave",
+                "en": "La Cave"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt hier, wenn die Sonne untergeht; stellen Sie sicher, dass Ihre Scheinwerfer für die Rückfahrt eisfrei sind.",
+                "hu": "Itt fejezze be az utazást a naplementekor; a visszaút előtt győződjön meg róla, hogy a fényszórók jégmentesek.",
+                "ro": "Terminați excursia aici exact când apune soarele; asigurați-vă că farurile sunt curățate de gheață pentru drumul de întoarcere.",
+                "en": "Finish your trip here just as the sun sets; make sure your headlights are clear of ice for the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

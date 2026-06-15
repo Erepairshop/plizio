@@ -160,6 +160,196 @@
         "hu": "A reggel a modern Brewery Square-en indul, majd a Borough Gardens nyugalmát élvezheti. Délben a lenyűgöző Roman Town House repíti vissza az időben. Délután a Shire Hall jogtörténeti érdekességeit és a St Peter's Church-öt fedezheti fel. A napot a Dorset Museum gazdag gyűjteményének megtekintése zárja.",
         "ro": "Dimineața începe la modernul Brewery Square înainte de a vă bucura de liniștitul Borough Gardens. La prânz călătoriți înapoi în timp la remarcabila Roman Town House. După-amiaza explorează istoria juridică fascinantă la Shire Hall și vizitează Biserica St Peter. Ziua se încheie cu colecțiile extinse de la Muzeul Dorset.",
         "en": "Morning starts at the modern Brewery Square before enjoying the tranquil Borough Gardens. Midday takes you back in time at the remarkable Roman Town House. Afternoon explores the fascinating legal history at Shire Hall and visits St Peter's Church. The day concludes with the extensive collections at the Dorset Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir am Brewery Square, wo die modernen Gebäude guten Schutz vor den ersten Tropfen bieten. Mittags bewundern wir das Römische Haus, dessen Glaskonstruktion die Mosaike und uns trocken hält. Am Nachmittag bieten die Shire Hall und das Dorset Museum ideale, wetterfeste Rückzugsorte. Abends reflektieren die Lichter der Stadt stimmungsvoll in den Pfützen auf dem Heimweg.",
+            "hu": "Reggel a Brewery Square modern árkádjai alatt kezdünk, amelyek védelmet nyújtanak az eső ellen. Délben a Római Városi Ház üvegkupolája alatt maradunk szárazon a mozaikok közt. Délután a Shire Hall és a Dorset Múzeum belső terei tökéletes menedéket jelentenek a felhőszakadás elől. Este a vizes aszfalton megcsillanó városi fények kísérnek minket utunk végén a hangulatos utcákon.",
+            "ro": "Dimineața pornim din Brewery Square, unde clădirile moderne oferă adăpost împotriva primilor stropi. La prânz, vizităm Casa Romană, a cărei structură de sticlă ne protejează în timp ce admirăm mozaicurile. După-amiaza, Shire Hall și Muzeul Dorset sunt refugii ideale și uscate. Seara, luminile orașului se oglindesc spectaculos în bălți, încheind ziua într-o atmosferă umedă, dar caldă.",
+            "en": "Morning begins at Brewery Square, where modern overhangs provide shelter from the early drizzle. At noon, the Roman Town House's glass cover keeps us dry while we admire the ancient mosaics. Afternoon is spent exploring the Shire Hall and Dorset Museum, both perfect indoor sanctuaries. Evening concludes with city lights reflecting in the puddles as we walk through the atmospheric streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brewery Square",
+                "hu": "Brewery Square",
+                "ro": "Brewery Square",
+                "en": "Brewery Square"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Passagen der Geschäfte als Regenschutz und bewundern Sie die Brunnen, die bei Regen besonders lebendig wirken.",
+                "hu": "Használja az üzletek fedett átjáróit esernyő helyett, és csodálja meg a szökőkutakat, amelyek esőben még dinamikusabb látványt nyújtanak.",
+                "ro": "Folosiți pasajele acoperite ale magazinelor pentru a vă proteja de ploaie și admirați fântânile care par și mai vii pe o vreme umedă.",
+                "en": "Use the covered walkways of the shops for shelter and enjoy the fountains, which take on a unique, energetic atmosphere during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Borough Gardens",
+                "hu": "Borough Gardens",
+                "ro": "Borough Gardens",
+                "en": "Borough Gardens"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Guss Schutz im historischen Musikpavillon und genießen Sie den Anblick der frisch glänzenden, nassen Parkflora.",
+                "hu": "Heves eső esetén keressen menedéket a történelmi zenepavilon alatt, és élvezze a frissen csillogó, vizes parki növényzet látványát.",
+                "ro": "Căutați adăpost în pavilionul muzical istoric în caz de aversă și bucurați-se de priveliștea florei parcului care strălucește în ploaie.",
+                "en": "Seek shelter in the historic bandstand during heavy showers and enjoy the view of the park's flora glistening freshly in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Town House",
+                "hu": "Római Városi Ház",
+                "ro": "Casa Romană",
+                "en": "Roman Town House"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Glasüberdachung bietet einen perfekten, trockenen Blick auf die römischen Mosaike; achten Sie auf rutschige Wege im Außenbereich.",
+                "hu": "A modern üvegfedél tökéletes, száraz rálátást biztosít a római mozaikokra; a külső utakon azonban vigyázzon a csúszós felületekre.",
+                "ro": "Acoperișul modern de sticlă oferă o vedere perfectă și uscată asupra mozaicurilor romane; atenție la potecile alunecoase din exterior.",
+                "en": "The modern glass roof provides a perfect, dry view of the Roman mosaics; be careful of slippery paths in the surrounding outdoor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Shire Hall",
+                "hu": "Shire Hall",
+                "ro": "Shire Hall",
+                "en": "Shire Hall"
+              },
+              "tip_5lang": {
+                "de": "Dieses Indoor-Museum ist der ideale Zufluchtsort; erkunden Sie die historischen Zellen, während draußen der Regen gegen die alten Fenster peitscht.",
+                "hu": "Ez a fedett múzeum ideális menedék; fedezze fel a történelmi cellákat, miközben kint az eső veri a régi ablaküvegeket.",
+                "ro": "Acest muzeu interior este refugiul ideal; explorați celulele istorice în timp ce ploaia bate în ferestrele vechi de afară.",
+                "en": "This indoor museum is an ideal refuge; explore the historic cells while the rain lashes against the old windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "St Peter's Church",
+                "hu": "Szent Péter Templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "St Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die spirituelle Stille und Trockenheit im gotischen Innenraum; ein Schirmständer befindet sich meist direkt am Eingang.",
+                "hu": "Élvezze a spirituális csendet és a szárazságot a gótikus belső térben; az esernyőtartót általában közvetlenül a bejáratnál találja.",
+                "ro": "Bucurați-vă de liniștea spirituală și de uscăciune în interiorul gotic; un suport de umbrele se află de obicei chiar la intrare.",
+                "en": "Enjoy the spiritual silence and dryness of the Gothic interior; you can usually find an umbrella stand right by the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorset Museum",
+                "hu": "Dorset Múzeum",
+                "ro": "Muzeul Dorset",
+                "en": "Dorset Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den späten Nachmittag; die weitläufigen Galerien lassen Sie das schlechte Wetter komplett vergessen.",
+                "hu": "Tökéletes helyszín a késő délutánra; a tágas galériákban barangolva teljesen elfelejtheti a kinti barátságtalan időjárást.",
+                "ro": "Locul perfect pentru după-amiaza târzie; galeriile spațioase vă vor face să uitați complet de vremea rea de afară.",
+                "en": "The perfect location for late afternoon; the extensive galleries will make you completely forget the unpleasant weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Brewery Square, wo warme Kleidung gegen den Wind hilft. Mittags nutzen wir die Museen zum Aufwärmen, da die Sonne tief steht. Am Nachmittag besuchen wir die Kirche, bevor es gegen 17:00 Uhr bereits dunkel wird. Der Abend endet früh bei festlicher Beleuchtung im Stadtzentrum, wenn die Winterkälte merklich anzieht.",
+            "hu": "A fagyos reggel a Brewery Square-en indul, ahol a meleg rétegek segítenek a szél ellen. Napközben a múzeumokban melegszünk fel, mivel a nap alacsonyan jár. Délután meglátogatjuk a templomot, mielőtt 17:00 körül korán besötétedik. Az este hamar véget ér a belváros ünnepi fényeiben, miközben a téli hideg érezhetően fokozódik.",
+            "ro": "O dimineață geroasă începe în Brewery Square, unde hainele groase sunt esențiale. La prânz folosim muzeele pentru a ne încălzi, soarele fiind jos pe cer. După-amiaza vizităm biserica, înainte ca întunericul să se lase în jur de ora 17:00. Seara se încheie devreme sub luminile festive din centru, pe măsură ce frigul se intensifică.",
+            "en": "A frosty morning starts at Brewery Square, where warm layers are essential against the bite. At noon, we warm up in the museums as the sun stays low. Afternoon is for visiting the church before darkness falls early around 17:00. The evening ends early amidst festive city lights as the winter chill noticeably deepens."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Brewery Square",
+                "hu": "Brewery Square",
+                "ro": "Brewery Square",
+                "en": "Brewery Square"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie windfeste Kleidung und festes Schuhwerk; die offene Gestaltung des Platzes kann im Winter sehr zugig sein.",
+                "hu": "Viseljen szélálló ruházatot és zárt cipőt; a tér nyitott kialakítása miatt télen nagyon huzatos és hideg lehet.",
+                "ro": "Purtați haine rezistente la vânt și încălțăminte solidă; designul deschis al pieței poate fi foarte geros în timpul iernii.",
+                "en": "Wear windproof clothing and sturdy shoes; the open design of the square can be very draughty during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Borough Gardens",
+                "hu": "Borough Gardens",
+                "ro": "Borough Gardens",
+                "en": "Borough Gardens"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang durch den gefrorenen Park ist belebend; der Uhrturm wirkt im klaren Winterlicht besonders scharf.",
+                "hu": "Egy tempós séta a deres parkban frissítő élmény; az óratorony a tiszta téli fényben különösen élesen és szépen mutat.",
+                "ro": "O plimbare vioaie prin parcul înghețat este revigorantă; turnul cu ceas arată spectaculos în lumina clară de iarnă.",
+                "en": "A brisk walk through the frosted park is invigorating; the clock tower looks particularly sharp in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Town House",
+                "hu": "Római Városi Ház",
+                "ro": "Casa Romană",
+                "en": "Roman Town House"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die antiken Hypokausten-Heizsysteme, die an kalten Wintertagen eine ganz neue Bedeutung bekommen.",
+                "hu": "Nézze meg alaposan az antik hypocaustum fűtési rendszereket, amelyek a hideg téli napokon egészen új értelmet nyernek.",
+                "ro": "Observați sistemele antice de încălzire prin hipocaust, care capătă o semnificație aparte în zilele reci de iarnă.",
+                "en": "Take a close look at the ancient hypocaust heating systems, which take on a whole new significance on cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Shire Hall",
+                "hu": "Shire Hall",
+                "ro": "Shire Hall",
+                "en": "Shire Hall"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; nutzen Sie den Besuch zum Aufwärmen und für die interaktive Geschichte.",
+                "hu": "A vastag kőfalak kint tartják a fagyot; használja ki a látogatást a felmelegedésre és az interaktív történelem felfedezésére.",
+                "ro": "Zidurile groase de piatră țin frigul afară; profitați de vizită pentru a vă încălzi și pentru a explora istoria interactivă.",
+                "en": "The thick stone walls keep the chill at bay; use your visit to warm up while immersing yourself in interactive history."
+              }
+            },
+            {
+              "name": {
+                "de": "St Peter's Church",
+                "hu": "Szent Péter Templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "St Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, trockenen Rückzugsort; beachten Sie die kurzen Öffnungszeiten in der Nebensaison.",
+                "hu": "A templom csendes, száraz menedéket nyújt a hideg elől; ügyeljen a téli szezonban rövidebb nyitvatartási időre.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat; aveți în vedere programul de vizitare mai scurt în extrasezonul de iarnă.",
+                "en": "The church offers a quiet, dry sanctuary; be mindful of the shorter visiting hours during the winter off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorset Museum",
+                "hu": "Dorset Múzeum",
+                "ro": "Muzeul Dorset",
+                "en": "Dorset Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier Ihren längsten Aufenthalt, um die Zeit bis zum frühen Sonnenuntergang im Warmen zu verbringen.",
+                "hu": "Itt tervezze a leghosszabb tartózkodást, hogy a korai naplemente előtti órákat kellemes melegben tölthesse el.",
+                "ro": "Planificați aici cea mai lungă oprire pentru a petrece orele de dinaintea apusului timpuriu într-un mediu încălzit.",
+                "en": "Plan your longest stay here to spend the hours before the early sunset in a comfortable, warm environment."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A reggel az ősi Maumbury Rings-nél kezdődik, majd a Brewery Square felé vesszük az irányt. Délben The Keep hadtörténete és a Roman Town House ókori világa van középpontban. Délután a Shire Hall és a Dorset Museum helyi örökségét ismerheti meg. Az este Thomas Hardy tervezett otthonában, a Max Gate-ben ér véget.",
         "ro": "Dimineața începe la anticele Maumbury Rings înainte de a trece prin Brewery Square. Prânzul se axează pe istoria militară la The Keep și pe viața romană la Roman Town House. După-amiaza aprofundează moștenirea locală la Shire Hall și la Muzeul Dorset. Seara se încheie frumos la Max Gate, casa proiectată de Thomas Hardy.",
         "en": "Morning kicks off at the ancient Maumbury Rings before passing through Brewery Square. Midday focuses on military history at The Keep and ancient life at the Roman Town House. Afternoon delves into local heritage at Shire Hall and Dorset Museum. Evening wraps up beautifully at Max Gate, Thomas Hardy's designed home."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet bei Regen an den Maumbury Rings, wo Vorsicht auf nassen Erdwällen geboten ist. Mittags flüchten wir in das Keep Military Museum, um die Ausrüstung zu trocknen. Nachmittags geht es zügig zwischen Shire Hall und Dorset Museum weiter. Der Abend endet feucht, aber zufrieden nach einer Tour durch das regenverhangene Dorchester.",
+            "hu": "A biciklitúra esőben indul a Maumbury Rings-nél, ahol a nedves füves partok csúszósak lehetnek. Délben a Keep Hadtörténeti Múzeumba menekülünk, hogy megszárítsuk a felszerelést. Délután gyorsan haladunk a Shire Hall és a Dorset Múzeum között. Az este esősen, de élményekkel telten zárul a vizes Dorchester utcáin.",
+            "ro": "Turul cu bicicleta începe pe ploaie la Maumbury Rings, unde taluzurile de iarbă pot fi alunecoase. La prânz ne refugiem în Keep Military Museum pentru a ne usca echipamentul. După-amiaza pedalăm rapid între Shire Hall și Muzeul Dorset. Seara se încheie umed, dar satisfăcător după un tur prin Dorchesterul ploios.",
+            "en": "The bike tour starts in the rain at Maumbury Rings, where slippery grass banks require caution. At noon, we take refuge in The Keep Military Museum to dry our gear. Afternoon involves quick rides between Shire Hall and Dorset Museum. The evening ends wet but rewarding after a tour through rain-swept Dorchester."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maumbury Rings",
+                "hu": "Maumbury Rings",
+                "ro": "Maumbury Rings",
+                "en": "Maumbury Rings"
+              },
+              "tip_5lang": {
+                "de": "Die Erdwälle können sehr rutschig sein; schieben Sie Ihr Rad lieber und genießen Sie den monumentalen Anblick im Regen.",
+                "hu": "A füves lejtők nagyon csúszósak lehetnek; inkább tolja a kerékpárt, és csodálja meg a monumentális sáncokat az esőben.",
+                "ro": "Taluzurile pot fi foarte alunecoase; mai bine împingeți bicicleta și admirați structura monumentală sub ploaie.",
+                "en": "The earthworks can be very slippery; it's better to push your bike and admire the monumental site through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Brewery Square",
+                "hu": "Brewery Square",
+                "ro": "Brewery Square",
+                "en": "Brewery Square"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen auf dem nassen Pflaster und nutzen Sie die kurzen Unterstände für eine schnelle Trinkpause.",
+                "hu": "Ellenőrizze a fékeket a nedves díszburkolaton, és használja a rövid előtetőket egy gyors frissítő szünetre.",
+                "ro": "Verificați frânele pe pavajul umed și folosiți scurte adăposturi pentru o pauză rapidă de hidratare.",
+                "en": "Check your brakes on the wet pavement and utilize the brief overhangs for a quick hydration break."
+              }
+            },
+            {
+              "name": {
+                "de": "The Keep Military Museum",
+                "hu": "The Keep Hadtörténeti Múzeum",
+                "ro": "Muzeul Militar The Keep",
+                "en": "The Keep Military Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein massives Steingebäude, ideal zum Aufwärmen; schrauben Sie das Tempo bei der Anfahrt auf den nassen Straßen zurück.",
+                "hu": "Masszív kőépület, ideális a felmelegedésre; a vizes utakon mérsékelje a tempót a múzeum felé menet.",
+                "ro": "O clădire masivă de piatră, ideală pentru încălzire; reduceți viteza pe străzile umede în drum spre muzeu.",
+                "en": "A massive stone building, ideal for warming up; dial back your speed on the wet roads while approaching the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Town House",
+                "hu": "Római Városi Ház",
+                "ro": "Casa Romană",
+                "en": "Roman Town House"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie die Glaskonstruktion für eine trockene Pause bei den Ruinen.",
+                "hu": "Zárja le biztonságosan a kerékpárt, és használja az üvegépítményt egy száraz pihenőre a romok között.",
+                "ro": "Parcați bicicleta în siguranță și folosiți structura de sticlă pentru o pauză uscată lângă ruine.",
+                "en": "Lock your bike securely and use the glass structure for a dry break while exploring the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Shire Hall",
+                "hu": "Shire Hall",
+                "ro": "Shire Hall",
+                "en": "Shire Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Eingangs und genießen Sie die trockene, historische Atmosphäre im Inneren des Gebäudes.",
+                "hu": "Parkoljon közvetlenül a bejárat közelében, és élvezze a belső tér száraz, történelmi hangulatát.",
+                "ro": "Parcați aproape de intrare și bucurați-vă de atmosfera istorică și uscată din interiorul clădirii.",
+                "en": "Park close to the entrance and enjoy the dry, historic atmosphere inside the building while it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorset Museum",
+                "hu": "Dorset Múzeum",
+                "ro": "Muzeul Dorset",
+                "en": "Dorset Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Abstellplätze direkt vor der Tür; drinnen können Sie in Ruhe trocknen und die Funde bestaunen.",
+                "hu": "Használja a közvetlenül az ajtó előtti tárolókat; odabent nyugodtan megszáradhat, miközben a leleteket nézi.",
+                "ro": "Folosiți rastelele de chiar în fața intrării; în interior vă puteți usca în liniște admirând exponatele.",
+                "en": "Use the bike racks right outside the door; inside you can dry off in peace while marveling at the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Max Gate",
+                "hu": "Max Gate",
+                "ro": "Max Gate",
+                "en": "Max Gate"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann bei Regen schlammig sein; ein Schutzblech am Rad ist für diese Etappe sehr zu empfehlen.",
+                "hu": "Az idevezető út esőben sáros lehet; ezen a szakaszon egy sárvédő a kerékpáron nagyon ajánlott.",
+                "ro": "Drumul până aici poate fi noroios pe ploaie; o apărătoare la bicicletă este foarte recomandată pentru această etapă.",
+                "en": "The path here can be muddy in the rain; a mudguard on your bike is highly recommended for this stage of the trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Morgen bei den Maumbury Rings erfordert Thermokleidung und Handschuhe. Mittags radeln wir zum Keep Military Museum, um uns auf der Dachterrasse kurz die Wintersonne anzusehen. Nachmittags geht es schnell zum Dorset Museum, bevor die Kälte bei Sonnenuntergang zunimmt. Die Tour endet bei Dämmerung gegen 17:00 Uhr am Max Gate bei frostiger Luft.",
+            "hu": "A jéghideg reggel a Maumbury Rings-nél termoruházatot és kesztyűt igényel. Napközben a Keep Hadtörténeti Múzeum felé vesszük az irányt, élvezve a rövid téli napsütést. Délután gyorsan a Dorset Múzeumba hajtunk, mielőtt a hideg fokozódna. A túra alkonyatkor, 17:00 körül ér véget a Max Gate-nél, csípős téli levegőben.",
+            "ro": "O dimineață înghețată la Maumbury Rings necesită haine termice și mănuși. La prânz pedalăm spre Keep Military Museum pentru a prinde puțin soare de iarnă. După-amiaza mergem rapid la Muzeul Dorset înainte ca frigul să se intensifice. Turul se încheie la amurg, în jur de ora 17:00, la Max Gate, în aerul tăios.",
+            "en": "An icy morning at Maumbury Rings requires thermal gear and gloves. At noon, we cycle to The Keep Military Museum to catch a glimpse of winter sun. Afternoon involves a quick dash to Dorset Museum before the chill worsens. The tour ends at dusk around 17:00 at Max Gate in the biting winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maumbury Rings",
+                "hu": "Maumbury Rings",
+                "ro": "Maumbury Rings",
+                "en": "Maumbury Rings"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Grasstellen; das Amphitheater wirkt im Frost besonders mystisch und friedlich.",
+                "hu": "Vigyázzon a fagyott füves részekre; az amfiteátrum a dérlepte sáncokkal különösen misztikus és békés látvány.",
+                "ro": "Atenție la porțiunile de iarbă înghețată; amfiteatrul arată deosebit de mistic și liniștit sub chiciură.",
+                "en": "Watch out for frozen patches of grass; the amphitheater looks particularly mystical and peaceful in the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Brewery Square",
+                "hu": "Brewery Square",
+                "ro": "Brewery Square",
+                "en": "Brewery Square"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Bewegung; ziehen Sie die Handschuhe erst drinnen aus, da das Metall des Lenkers sehr kalt wird.",
+                "hu": "Rövid megálló a mozgásért; a kesztyűt csak bent vegye le, mert a kormány fémrészei télen nagyon lehűlnek.",
+                "ro": "O scurtă oprire pentru mișcare; nu scoateți mănușile până nu intrați, deoarece metalul ghidonului este foarte rece.",
+                "en": "Short stop to keep moving; don't take your gloves off until you're inside, as the handlebar metal gets very cold."
+              }
+            },
+            {
+              "name": {
+                "de": "The Keep Military Museum",
+                "hu": "The Keep Hadtörténeti Múzeum",
+                "ro": "Muzeul Militar The Keep",
+                "en": "The Keep Military Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Dach für einen weiten Blick über das winterliche Dorset, aber halten Sie den Aufenthalt dort kurz.",
+                "hu": "Menjen fel a tetőre a téli Dorsetre nyíló kilátásért, de tartsa röviden a kintlétet a metsző szél miatt.",
+                "ro": "Vizitați acoperișul pentru o priveliște panoramică asupra Dorsetului hibernal, dar limitați timpul petrecut afară.",
+                "en": "Visit the roof for a wide view over wintry Dorset, but keep your time outside brief due to the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Roman Town House",
+                "hu": "Római Városi Ház",
+                "ro": "Casa Romană",
+                "en": "Roman Town House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht effizient; die Ruinen wirken in der tiefstehenden Wintersonne sehr fotogen.",
+                "hu": "Használja ki hatékonyan a nappali fényt; a romok az alacsonyan járó téli napsütésben nagyon fotogének.",
+                "ro": "Folosiți lumina zilei în mod eficient; ruinele sunt foarte fotogenice în soarele slab de iarnă.",
+                "en": "Make efficient use of the daylight; the ruins look very photogenic in the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Shire Hall",
+                "hu": "Shire Hall",
+                "ro": "Shire Hall",
+                "en": "Shire Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um das Gefühl in den Fingern zurückzugewinnen, während Sie in die Gerichtsgeschichte eintauchen.",
+                "hu": "Ideális helyszín, hogy visszanyerje az érzést az ujjaiba, miközben elmerül a bírósági történelemben.",
+                "ro": "Un loc ideal pentru a vă recăpăta sensibilitatea în degete în timp ce explorați istoria judiciară.",
+                "en": "An ideal spot to regain feeling in your fingers while you immerse yourself in courtroom history."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorset Museum",
+                "hu": "Dorset Múzeum",
+                "ro": "Muzeul Dorset",
+                "en": "Dorset Museum"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie hier ausgiebig, um der kältesten Phase des Nachmittags in den beheizten Räumen zu entgehen.",
+                "hu": "Időzzön itt hosszan, hogy a délután leghidegebb szakaszát a fűtött galériákban tölthesse el.",
+                "ro": "Zăboviți aici mai mult timp pentru a evita cea mai rece perioadă a după-amiezii în sălile încălzite.",
+                "en": "Stay here for an extended period to escape the coldest phase of the afternoon in the heated galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Max Gate",
+                "hu": "Max Gate",
+                "ro": "Max Gate",
+                "en": "Max Gate"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie dieses Ziel vor 17:00 Uhr; das Haus wirkt in der winterlichen Dämmerung besonders authentisch.",
+                "hu": "Érkezzen meg 17:00 előtt; a ház a téli szürkületben különösen hiteles és hangulatos látványt nyújt.",
+                "ro": "Ajungeți aici înainte de ora 17:00; casa pare deosebit de autentică în amurgul de iarnă.",
+                "en": "Aim to arrive before 17:00; the house looks particularly authentic and atmospheric in the winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "A reggel a lenyűgöző vaskori Maiden Castle-nél kezdődik, melyet a történelmi Maumbury Rings követ. Délben a városközpontba érkezve a Dorset Museum kiállításait fedezzük fel. Délután a St Peter's Church csendes látogatása után a Max Gate következik. A nap az idilli Hardy's Cottage-nál ér véget.",
         "ro": "Dimineața începe la impresionantul fort antic Maiden Castle, urmat de istoricele Maumbury Rings. Prânzul vă aduce în centrul orașului pentru expozițiile de la Muzeul Dorset. După-amiaza oferă o vizită liniștită la Biserica St Peter înainte de a merge la Max Gate. Ziua se încheie la idilicul Hardy's Cottage.",
         "en": "Morning begins at the impressive Iron Age hillfort of Maiden Castle, followed by the historic Maumbury Rings. Midday takes you into the town center for the Dorset Museum's exhibits. Afternoon offers a peaceful visit to St Peter's Church before heading to Max Gate. The day ends at the idyllic Hardy's Cottage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am exponierten Maiden Castle, wo ein Schirm im Auto Pflicht ist. Mittags parken wir stadtnah für den Besuch des Dorset Museums, um dem Regen zu entkommen. Nachmittags geht es komfortabel weiter zur St Peter's Church und Max Gate. Der Tag endet bei Hardy's Cottage, wo der Waldweg bei Regen eine echte Herausforderung für die Schuhe ist.",
+            "hu": "Az út a Maiden Castle-nél indul, ahol az autóban tartott esernyő kötelező kellék. Délben a belvároshoz közel parkolunk a Dorset Múzeum miatt, menekülve az égi áldás elől. Délután kényelmesen autózunk a Szent Péter templomhoz és a Max Gate-hez. A nap a Hardy's Cottage-nél zárul, ahol az erdei út esőben igazi kihívás a cipőknek.",
+            "ro": "Călătoria începe la Maiden Castle, unde umbrela din mașină este obligatorie. La prânz parcăm aproape de centru pentru Muzeul Dorset, scăpând de ploaie. După-amiaza continuăm confortabil spre Biserica Sf. Petru și Max Gate. Ziua se încheie la Hardy's Cottage, unde poteca prin pădure este o adevărată provocare pentru încălțăminte pe ploaie.",
+            "en": "The drive starts at the exposed Maiden Castle, where a car umbrella is essential. At noon, we park near the center for the Dorset Museum to escape the downpour. Afternoon is spent comfortably driving to St Peter's Church and Max Gate. The day ends at Hardy's Cottage, where the woodland path is a real challenge for your shoes in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maiden Castle",
+                "hu": "Maiden Castle",
+                "ro": "Castelul Maiden",
+                "en": "Maiden Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel peitscht den Regen stark; tragen Sie unbedingt wasserfeste Stiefel für den schlammigen Aufstieg.",
+                "hu": "A dombon a szél erősen veri az esőt; feltétlenül viseljen vízálló bakancsot a sáros emelkedőkhöz.",
+                "ro": "Vântul de pe deal intensifică ploaia; purtați neapărat ghete impermeabile pentru urcarea noroioasă.",
+                "en": "The wind on the hill whips the rain around; be sure to wear waterproof boots for the muddy ascent up the ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Maumbury Rings",
+                "hu": "Maumbury Rings",
+                "ro": "Maumbury Rings",
+                "en": "Maumbury Rings"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz; der kurze Weg zum Ring ist bei Regen oft aufgeweicht, aber die Sicht ist dramatisch.",
+                "hu": "Használja a közeli parkolót; a gyűrűhöz vezető rövid út esőben gyakran felázik, de a látvány drámai.",
+                "ro": "Folosiți parcarea din apropiere; drumul scurt spre inel este adesea moale pe ploaie, dar priveliștea este dramatică.",
+                "en": "Use the nearby parking; the short path to the ring is often soggy in the rain, but the view is quite dramatic."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorset Museum",
+                "hu": "Dorset Múzeum",
+                "ro": "Muzeul Dorset",
+                "en": "Dorset Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im nahegelegenen Parkhaus, um trockenen Fußes in das Museum zu gelangen und die Ausstellungen zu genießen.",
+                "hu": "Parkoljon a közeli parkolóházban, hogy száraz lábbal juthasson be a múzeumba és élvezhesse a kiállításokat.",
+                "ro": "Parcați în parcarea etajată din apropiere pentru a ajunge cu picioarele uscate la muzeu și a vă bucura de expoziții.",
+                "en": "Park in the nearby multi-storey car park to reach the museum with dry feet and enjoy the extensive exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "St Peter's Church",
+                "hu": "Szent Péter Templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "St Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Sprint vom Auto zur Kirche lohnt sich für die stille, trockene Atmosphäre im alten Kirchenschiff.",
+                "hu": "Egy gyors sprint az autótól a templomig megéri a csendes, száraz hangulatért az ősi főhajóban.",
+                "ro": "Un sprint rapid de la mașină la biserică merită pentru atmosfera liniștită și uscată din naosul vechi.",
+                "en": "A quick sprint from the car to the church is worth it for the silent, dry atmosphere inside the ancient nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Max Gate",
+                "hu": "Max Gate",
+                "ro": "Max Gate",
+                "en": "Max Gate"
+              },
+              "tip_5lang": {
+                "de": "Folgen Sie dem Gartenweg vorsichtig; das viktorianische Haus ist ein wunderbarer, trockener Ort für Literaturfans.",
+                "hu": "Óvatosan haladjon a kerti ösvényen; a viktoriánus ház csodálatos, száraz menedék az irodalomkedvelőknek.",
+                "ro": "Urmați poteca din grădină cu atenție; casa victoriană este un loc minunat și uscat pentru fanii literaturii.",
+                "en": "Follow the garden path carefully; the Victorian house is a wonderful, dry sanctuary for literature enthusiasts."
+              }
+            },
+            {
+              "name": {
+                "de": "Hardy's Cottage",
+                "hu": "Hardy's Cottage",
+                "ro": "Casa lui Hardy",
+                "en": "Hardy's Cottage"
+              },
+              "tip_5lang": {
+                "de": "Der Waldspaziergang vom Parkplatz aus ist bei Regen sehr matschig; feste Wanderschuhe sind hier unverzichtbar.",
+                "hu": "A parkolótól tartó erdei séta esőben nagyon sáros; a masszív túrabakancs itt elengedhetetlen kellék.",
+                "ro": "Plimbarea prin pădure de la parcare este foarte noroioasă pe ploaie; bocancii de munte sunt indispensabili aici.",
+                "en": "The woodland walk from the car park is very muddy in the rain; sturdy hiking boots are indispensable here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Maiden Castle ist windig und eiskalt, perfekt für einen kurzen Stopp. Mittags bietet das Dorset Museum angenehme Wärme für die ganze Familie. Am Nachmittag besuchen wir Max Gate im weichen Winterlicht, bevor die Sonne früh sinkt. Der Tag endet bei Hardy's Cottage in der magischen Winterdämmerung gegen 17:00 Uhr.",
+            "hu": "A téli reggel a Maiden Castle-nél szeles és jéghideg, ideális egy rövid megállóra. Napközben a Dorset Múzeum kellemes meleget kínál az egész családnak. Délután a Max Gate-et keressük fel a lágy téli fényekben, mielőtt a nap korán lebukna. A nap a Hardy's Cottage-nél zárul a mágikus téli alkonyatban 17:00 körül.",
+            "ro": "Dimineața de iarnă la Maiden Castle este vântoasă și geroasă, perfectă pentru o oprire scurtă. La prânz, Muzeul Dorset oferă o căldură plăcută pentru întreaga familie. După-amiaza vizităm Max Gate în lumina blândă de iarnă, înainte ca soarele să apună devreme. Ziua se încheie la Hardy's Cottage în amurgul magic de iarnă, în jur de ora 17:00.",
+            "en": "Winter morning at Maiden Castle is windy and freezing, perfect for a brief stop. At noon, the Dorset Museum offers pleasant warmth for the whole family. Afternoon is for visiting Max Gate in the soft winter light before the sun sets early. The day ends at Hardy's Cottage in the magical winter twilight around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maiden Castle",
+                "hu": "Maiden Castle",
+                "ro": "Castelul Maiden",
+                "en": "Maiden Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Hügel ist im Winter beißend; tragen Sie eine windfeste Jacke und eine Mütze für den kurzen Rundgang.",
+                "hu": "A dombon a szél télen metsző; viseljen szélálló dzsekit és sapkát a rövid, de látványos körsétához.",
+                "ro": "Vântul de pe deal este tăios iarna; purtați o jachetă rezistentă la vânt și o căciulă pentru scurta plimbare.",
+                "en": "The wind on the hill is biting in winter; wear a windproof jacket and a hat for the short but scenic walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Maumbury Rings",
+                "hu": "Maumbury Rings",
+                "ro": "Maumbury Rings",
+                "en": "Maumbury Rings"
+              },
+              "tip_5lang": {
+                "de": "Das gefrorene Amphitheater wirkt am Morgen bei tiefstehender Sonne besonders plastisch; ein kurzer Fotostopp lohnt sich.",
+                "hu": "A fagyott amfiteátrum reggel, az alacsonyan járó napfénynél különösen plasztikus; egy rövid fotómegálló nagyon megéri.",
+                "ro": "Amfiteatrul înghețat arată deosebit de tridimensional în soarele dimineții; merită o scurtă oprire pentru fotografii.",
+                "en": "The frozen amphitheater looks particularly vivid in the morning sun; a quick photo stop is highly rewarding."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorset Museum",
+                "hu": "Dorset Múzeum",
+                "ro": "Muzeul Dorset",
+                "en": "Dorset Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Galerien für Ihren längsten Aufenthalt, um die kälteste Mittagszeit im Warmen zu verbringen.",
+                "hu": "Használja ki a fűtött galériákat a leghosszabb tartózkodásra, hogy a dél körüli leghidegebb időt melegben töltse.",
+                "ro": "Profitați de galeriile încălzite pentru cea mai lungă oprire, petrecând cea mai rece perioadă a zilei la căldură.",
+                "en": "Utilize the heated galleries for your longest stay to spend the coldest part of the day in a warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "St Peter's Church",
+                "hu": "Szent Péter Templom",
+                "ro": "Biserica Sfântul Petru",
+                "en": "St Peter's Church"
+              },
+              "tip_5lang": {
+                "de": "Der Steinbau ist kühl, bietet aber einen trockenen Rückzugsort für einen Moment der Besinnung im Winter.",
+                "hu": "A kőépület hűvös, de száraz menedéket nyújt egy pillanatnyi elcsendesedéshez a téli nap folyamán.",
+                "ro": "Clădirea de piatră este răcoroasă, dar oferă un refugiu uscat pentru un moment de liniște în timpul zilei de iarnă.",
+                "en": "The stone building is cool but offers a dry sanctuary for a moment of reflection during the winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Max Gate",
+                "hu": "Max Gate",
+                "ro": "Max Gate",
+                "en": "Max Gate"
+              },
+              "tip_5lang": {
+                "de": "Das viktorianische Haus wirkt an einem grauen Wintertag besonders authentisch; achten Sie auf die frühen Schließzeiten.",
+                "hu": "A viktoriánus ház egy szürke téli napon különösen hitelesnek tűnik; ügyeljen a korai záróra időpontjára.",
+                "ro": "Casa victoriană pare deosebit de autentică într-o zi cenușie de iarnă; atenție la ora de închidere timpurie.",
+                "en": "The Victorian house feels particularly authentic on a grey winter day; be mindful of the early closing times."
+              }
+            },
+            {
+              "name": {
+                "de": "Hardy's Cottage",
+                "hu": "Hardy's Cottage",
+                "ro": "Casa lui Hardy",
+                "en": "Hardy's Cottage"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Cottage vor Sonnenuntergang um 17:00 Uhr, um die winterliche Waldstimmung voll auszukosten.",
+                "hu": "Érkezzen meg a házhoz a 17:00 órai naplemente előtt, hogy teljes mértékben kiélvezhesse a téli erdő hangulatát.",
+                "ro": "Ajungeți la căsuță înainte de apusul de la ora 17:00 pentru a savura pe deplin atmosfera pădurii hibernale.",
+                "en": "Arrive at the cottage before the 17:00 sunset to fully appreciate the magical atmosphere of the winter woods."
+              }
+            }
+          ]
+        }
       }
     }
   }

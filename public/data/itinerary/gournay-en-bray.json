@@ -137,6 +137,168 @@
         "hu": "A reggel a Place de la Libération téren indul, mielőtt a román stílusú Saint-Hildevert társaskáptalani templomot csodálná meg. Délben visszarepül az időben a Porte de Paris elegáns boltívei alatt. Délután a városháza parkja kínál békés pihenést a fák árnyékában. Az estét a történelmi Église Saint-Hildevert megtekintése zárja.",
         "ro": "Dimineața începe în Place de la Libération, înainte de a admira Biserica Colegială Saint-Hildevert. La prânz, faceți un pas în trecut sub arcadele elegante de la Porte de Paris. După-amiaza, bucurați-vă de un scurt popas relaxant în Parcul Primăriei. Seara se încheie cu o ultimă privire admirativă asupra istoricei Église Saint-Hildevert.",
         "en": "Morning begins at Place de la Libération, soaking in the civic atmosphere before heading to the Romanesque Saint-Hildevert Collegiate Church. Midday takes you back in time as you pass under the elegant arches of Porte de Paris. In the afternoon, enjoy a peaceful respite under the trees of Town Hall Park. The evening concludes with a final admiring glance at the historic Église Saint-Hildevert."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am nassen, aber charmanten Hauptplatz. Suchen Sie Schutz in der prächtigen Stiftskirche. Gehen Sie mit Regenschirm zum historischen Tor. Die Parkwege sind schlammig, bleiben Sie auf Pflaster. Beenden Sie die Tour trocken in der letzten Kirche.",
+            "hu": "Kezdje a nedves, de hangulatos főtéren, majd keressen menedéket a lenyűgöző káptalani templomban. Esernyővel óvatosan sétáljon el a történelmi kapuhoz. A park ösvényei sárosak, maradjon a burkolt utakon. Zárja a túrát szárazon a végső templomban.",
+            "ro": "Începeți în piața centrală ploioasă, dar fermecătoare. Căutați adăpost în magnifica biserică colegială. Mergeți cu umbrela spre poarta istorică. Aleile parcului sunt noroioase, rămâneți pe pavaj. Încheiați la ultima biserică pentru a sta la uscat.",
+            "en": "Begin at the wet but charming central square. Seek shelter in the magnificent collegiate church. Navigate carefully to the historic gate with an umbrella. The park paths will be muddy, so stick to paved areas. Conclude inside the final church to stay completely dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Libération",
+                "hu": "Place de la Libération",
+                "ro": "Place de la Libération",
+                "en": "Place de la Libération"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Architektur mit Regenschirm und beobachten Sie, wie das nasse Kopfsteinpflaster den grauen Himmel spiegelt.",
+                "hu": "Élvezze a tér építészetét esernyővel a kézben, figyelve, ahogy a nedves macskakövek gyönyörűen visszatükrözik a szürke eget.",
+                "ro": "Bucurați-vă de arhitectura pieței cu o umbrelă, observând cum piatra cubică udă reflectă frumos cerul gri.",
+                "en": "Enjoy the architecture with an umbrella, noting how the wet cobblestones beautifully reflect the gray sky and nearby buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Hildevert",
+                "hu": "Saint-Hildevert Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Hildevert",
+                "en": "Saint-Hildevert Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die romanischen Kapitelle im Inneren, während Sie dem starken Regen im massiven, trockenen Kirchenschiff entfliehen.",
+                "hu": "Csodálja meg a román stílusú oszlopfőket odabent, miközben menedéket talál a heves esőzés elől a száraz, történelmi hajóban.",
+                "ro": "Admirați capitelurile romanice în interior, scăpând de ploaia puternică în naosul istoric masiv și uscat.",
+                "en": "Admire the Romanesque capitals inside while escaping the heavy rain in its massive, dry and welcoming historic nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Paris",
+                "hu": "Porte de Paris",
+                "ro": "Porte de Paris",
+                "en": "Porte de Paris"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich das historische Tor an, aber achten Sie auf den rutschigen Boden rund um das Denkmal bei den ständigen Schauern.",
+                "hu": "Nézze meg a történelmi kaput, de nagyon vigyázzon a lépéseire a csúszós kövezeten az emlékmű körül a folyamatos esőben.",
+                "ro": "Vedeți poarta istorică, dar aveți grijă la pași pe pavajul alunecos din jurul monumentului în timpul ploii.",
+                "en": "See the historic gateway, but watch your step on the slick pavement around the monument during today's constant showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza Park",
+                "ro": "Parcul Primăriei",
+                "en": "Town Hall Park"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang auf den befestigten Wegen ist am besten; meiden Sie Rasenflächen, die bei Regen sehr schlammig werden.",
+                "hu": "A burkolt utakon érdemes sétálni; kerülje a füves területeket, amelyek nagyon sárosak és csúszósak lesznek az esőben.",
+                "ro": "O plimbare pe aleile pavate este ideală; evitați zonele cu iarbă care devin foarte noroioase și alunecoase pe ploaie.",
+                "en": "A quick stroll on the paved paths is best; avoid the grassy areas which get quite muddy and slippery during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Hildevert",
+                "hu": "Église Saint-Hildevert",
+                "ro": "Église Saint-Hildevert",
+                "en": "Église Saint-Hildevert"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang drinnen und erkunden Sie die Buntglasfenster, weit weg von den kalten Schauern draußen.",
+                "hu": "Zárja a sétát beltérben, fedezze fel a részletgazdag ólomüveg ablakokat, teljesen távol a kinti kitartó, hideg esőtől.",
+                "ro": "Încheiați plimbarea udă în interior, explorând vitraliile detaliate, departe de aversele reci și persistente.",
+                "en": "Conclude your wet walk indoors by exploring the detailed stained glass away from the persistent cold outdoor showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kalten Wintermorgen am Hauptplatz. Wärmen Sie sich in der Stiftskirche auf. Spazieren Sie zügig zum alten Tor. Genießen Sie die frostigen Bäume im Park. Erreichen Sie die letzte Kirche vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kezdje a csípős téli reggelt a főtéren. Melegedjen fel a lenyűgöző templomban. Sétáljon fürgén az ősi kapuhoz. Élvezze a deres fákat a parkban. Érjen az utolsó templomhoz a korai, 17:00 órás naplemente előtt, hogy elkapja az utolsó fényeket.",
+            "ro": "Începeți dimineața de iarnă în piața centrală. Încălziți-vă în uimitoarea biserică colegială. Mergeți alert spre vechea poartă. Admirați copacii înghețați din parc. Ajungeți la ultima biserică înainte de apusul de la ora 17:00.",
+            "en": "Start your crisp winter morning at the central square. Warm up inside the stunning collegiate church. Take a brisk walk to the ancient gate. Enjoy the bare, frosted trees in the park. Reach the final church before the early 17:00 sunset to catch the last light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Libération",
+                "hu": "Place de la Libération",
+                "ro": "Place de la Libération",
+                "en": "Place de la Libération"
+              },
+              "tip_5lang": {
+                "de": "Der Platz sieht im Winterlicht wunderschön aus; ziehen Sie sich warm an, da der Wind hier stark durchziehen kann.",
+                "hu": "A tér téli fényben is szép; öltözzön melegen, mert a szél könnyen befúj ide, és a hőérzet sokkal alacsonyabb lehet.",
+                "ro": "Piața arată superb în lumina iernii; îmbrăcați-vă gros, deoarece vântul poate sufla puternic pe aici.",
+                "en": "The square looks beautiful in winter light; dress warmly as the wind can channel through here making it feel much colder."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Hildevert",
+                "hu": "Saint-Hildevert Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Hildevert",
+                "en": "Saint-Hildevert Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Das steinerne Innere ist ziemlich kühl, also behalten Sie Ihren Mantel an, während Sie die Schnitzereien aus dem 11. Jahrhundert bewundern.",
+                "hu": "A kőbelső meglehetősen hűvös, ezért tartsa magán a vastag kabátot, miközben megcsodálja a 11. századi faragványokat.",
+                "ro": "Interiorul din piatră este destul de rece, așa că păstrați-vă haina groasă în timp ce admirați sculpturile din secolul al XI-lea.",
+                "en": "The stone interior is quite chilly, so keep your heavy coat on while admiring the intricate 11th-century medieval carvings."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Paris",
+                "hu": "Porte de Paris",
+                "ro": "Porte de Paris",
+                "en": "Porte de Paris"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie schnelle Fotos von diesem historischen Bauwerk, bevor die langen Winterschatten seine schönen Details verbergen.",
+                "hu": "Készítsen gyors fotókat erről a történelmi védműről, mielőtt a hosszú téli árnyékok elrejtik a gyönyörű részleteket.",
+                "ro": "Faceți fotografii rapide ale acestei structuri istorice înainte ca umbrele lungi de iarnă să ascundă detaliile sale frumoase.",
+                "en": "Take quick photos of this historic defensive structure before the long winter shadows obscure its beautiful details."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza Park",
+                "ro": "Parcul Primăriei",
+                "en": "Town Hall Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Spaziergang zwischen den frostigen Bäumen, aber achten Sie auf gefährliches Glatteis auf den schattigen Wegen.",
+                "hu": "Élvezze a frissítő sétát a deres fák között, de nagyon figyeljen a veszélyes, jeges foltokra az árnyékos parki utakon.",
+                "ro": "Bucurați-vă de o plimbare revigorantă printre copacii înghețați, dar atenție la petele periculoase de gheață de pe aleile umbrite.",
+                "en": "Enjoy a brisk, refreshing walk among the frosted trees, but watch carefully for dangerous icy patches on the shaded paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Hildevert",
+                "hu": "Église Saint-Hildevert",
+                "ro": "Église Saint-Hildevert",
+                "en": "Église Saint-Hildevert"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter letzter Stopp, um sich aufzuwärmen und das Buntglas in der tief stehenden Wintersonne zu sehen.",
+                "hu": "Tökéletes utolsó megálló egy kis melegedésre, ahol láthatja, ahogy az alacsony téli napfény megvilágítja az ólomüveget.",
+                "ro": "O oprire finală perfectă pentru a căuta puțină căldură și a vedea vitraliile luminate de soarele blând de iarnă.",
+                "en": "A perfect final stop to seek some warmth and see the stained glass illuminated by the striking, low-angle winter sun."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A reggel a nyüzsgő főtéren kezdődik, majd a történelmi társaskáptalani templomhoz kerekezik. Délben rövid távokat tesz meg a központban, és megpihen a Városháza parkjában. A délutáni keleti irányú kerékpározás során felfedezi a békés Saint-Martin-de-Ferrières templomot. Az estét a város határában álló pompás Château du Manais kastélynál tölti.",
         "ro": "Dimineața începe în piața animată a orașului și continuă cu biserica colegială plină de istorie. La prânz, pedalați prin centrul orașului și vă opriți pentru un picnic în Parcul Primăriei. După-amiaza vă poartă spre est, descoperind bisericuța pașnică Saint-Martin-de-Ferrières. Seara ajungeți la grandiosul Château du Manais, situat la marginea orașului.",
         "en": "Your morning starts in the lively main square before shifting to the profound history of the Collegiate Church. By midday, you'll cycle short distances through the town center, stopping for a picnic in the Town Hall Park. The afternoon features a lovely ride eastwards to discover the peaceful Saint-Martin-de-Ferrières. The evening brings you to the grand Château du Manais just outside town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Tragen Sie regenfeste Kleidung. Starten Sie zentral, dann suchen Sie Schutz in der Kirche. Fahren Sie vorsichtig zum Park und meiden Sie Schlamm. Der Weg zum Schloss erfordert auf nassen Straßen Vorsicht, aber die neblige Aussicht lohnt sich.",
+            "hu": "Viseljen vízálló felszerelést a nedves tekeréshez. Kezdjen a központban, majd húzódjon be a templomba. Óvatosan tekerjen a parkba, elkerülve a sarat. A Ferrières és a kastély felé vezető út csúszós, de a borongós kilátás kárpótol.",
+            "ro": "Purtați echipament impermeabil. Începeți central, apoi adăpostiți-vă în biserica principală. Mergeți cu grijă spre parc, evitând noroiul. Drumul spre castel necesită prudență pe drumurile alunecoase, dar peisajul ploios este superb.",
+            "en": "Wear waterproof gear for this wet ride. Start centrally, then shelter inside the main church. Ride carefully to the park, avoiding muddy patches. The route to Ferrières and the chateau requires extra caution on slick roads, but the moody views are worth it."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Libération",
+                "hu": "Place de la Libération",
+                "ro": "Place de la Libération",
+                "en": "Place de la Libération"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihre Regenjacke bereit, wenn Sie diesen zentralen Platz erkunden, bevor Sie auf das nasse Fahrrad steigen.",
+                "hu": "Tartsa kéznél az esőkabátot a központi tér felfedezésekor, mielőtt óvatosan felülne a nedves kerékpárra.",
+                "ro": "Țineți jacheta de ploaie la îndemână în timp ce explorați acest spațiu central, înainte de a urca pe bicicleta udă.",
+                "en": "Keep your rain jacket handy while exploring this central space before carefully mounting your wet bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Hildevert",
+                "hu": "Saint-Hildevert Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Hildevert",
+                "en": "Saint-Hildevert Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Ein toller trockener Stopp; sichern Sie Ihr Fahrrad und bewundern Sie die romanische Architektur im Inneren, geschützt vor dem Regen.",
+                "hu": "Remek száraz megálló; zárja le a biciklit, és csodálja meg a bonyolult román stílusú építészetet az eső elől menekülve.",
+                "ro": "O oprire uscată excelentă; asigurați-vă bicicleta și minunați-vă de arhitectura romanică complicată, la adăpost de ploaie.",
+                "en": "A great dry stop; secure your bike and marvel at the intricate Romanesque architecture inside out of the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza Park",
+                "ro": "Parcul Primăriei",
+                "en": "Town Hall Park"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen, da der Boden des Parks bei starkem Regen sumpfig, schlammig und extrem rutschig wird.",
+                "hu": "Maradjon a fő kerékpárutakon, mivel a park talaja a heves esőzések során mocsaras, sáros és nagyon csúszós lesz.",
+                "ro": "Rămâneți pe pistele de ciclism, deoarece solul parcului devine mlăștinos, noroios și foarte alunecos în timpul ploilor.",
+                "en": "Stick to the main cycling paths as the park's soil gets boggy, muddy, and very slippery during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin-de-Ferrières",
+                "hu": "Saint-Martin-de-Ferrières",
+                "ro": "Saint-Martin-de-Ferrières",
+                "en": "Saint-Martin-de-Ferrières"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Landstraßen, um diese charmante Kirche zu sehen, die als friedlicher Schutz vor dem Sturm dient.",
+                "hu": "Tekerjen óvatosan a vidéki utakon ehhez a bájos templomhoz, amely békés menedéket nyújt a vihar és az eső elől.",
+                "ro": "Mergeți cu grijă pe drumurile rurale pentru a vedea această biserică fermecătoare, care servește drept adăpost pașnic.",
+                "en": "Ride carefully on the rural roads to see this charming church, which serves as a peaceful shelter from the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Manais",
+                "hu": "Château du Manais",
+                "ro": "Château du Manais",
+                "en": "Château du Manais"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Anwesen von den Wegen aus; nutzen Sie ein Schutzblech, um Ihre Ausrüstung auf der nassen Rückfahrt sauber zu halten.",
+                "hu": "Nézze meg a lenyűgöző birtokot az utakról; használjon sárvédőt, hogy tisztán tartsa felszerelését a nedves visszaúton.",
+                "ro": "Admirați domeniul uimitor de pe alei; folosiți o aripă de noroi pentru a vă menține echipamentul curat pe drumul de întoarcere.",
+                "en": "View the stunning estate from the paths; use a mudguard to keep your gear clean on the wet ride back to town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für die frostige Fahrt. Plätze und Kirchen bieten kurze, warme Pausen. Die Fahrt zum Park und Schloss ist belebend. Planen Sie Ihre Rückkehr vor dem frühen Sonnenuntergang um 17:00 Uhr, wenn es schnell abkühlt.",
+            "hu": "Öltözzön rétegesen a fagyos tekeréshez. A tér és a templomok meleg pihenőt adnak. A park és a távoli kastély felé tekerni frissítő. Tervezze úgy a tempót, hogy a 17:00 órás naplemente előtt visszaérjen, mert utána hirtelen lehűl a levegő.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare geroasă. Piața și bisericile oferă pauze calde. Ciclismul spre parc și castel este revigorant. Plănuiți-vă întoarcerea înainte de apusul de la 17:00, când temperaturile scad brusc.",
+            "en": "Layer up heavily for a frosty ride. The central square and churches offer quick, warm breaks. Cycling to the park and the distant chateau is invigorating. Plan your pace to return before the early 17:00 sunset when temperatures drop sharply."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Libération",
+                "hu": "Place de la Libération",
+                "ro": "Place de la Libération",
+                "en": "Place de la Libération"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihre frostige Fahrt; Thermohandschuhe sind absolut unerlässlich, um den kalten Lenker bequem zu greifen.",
+                "hu": "Kezdje itt a fagyos utat; a termokesztyű elengedhetetlen a hideg kormány kényelmes és biztonságos fogásához.",
+                "ro": "Începeți plimbarea geroasă aici; mănușile termice sunt absolut esențiale pentru a prinde confortabil ghidonul rece.",
+                "en": "Start your frosty ride here; thermal gloves are absolutely essential for comfortably gripping the cold handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Hildevert",
+                "hu": "Saint-Hildevert Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Hildevert",
+                "en": "Saint-Hildevert Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände in dieser Kirche auf, während Sie die alten, beeindruckenden Steinbögen aus der Nähe betrachten.",
+                "hu": "Melegítse fel fagyott kezeit ebben a lenyűgöző templomban, miközben megfigyeli az ősi, impozáns kőíveket.",
+                "ro": "Încălziți-vă mâinile înghețate în această biserică magnifică în timp ce observați arcadele sale de piatră vechi și impresionante.",
+                "en": "Warm your frozen hands inside this magnificent church while observing its ancient, impressive stone arches."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathauspark",
+                "hu": "Városháza Park",
+                "ro": "Parcul Primăriei",
+                "en": "Town Hall Park"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist friedlich mit kahlen Bäumen; achten Sie genau auf gefährliches Glatteis auf den gepflasterten Wegen im Schatten.",
+                "hu": "A park békés a csupasz fákkal; nagyon figyeljen a veszélyes tükörjégre az árnyékos, burkolt kerékpárutakon.",
+                "ro": "Parcul este senin cu copaci goi; fiți foarte atenți la gheața neagră periculoasă de pe căile pavate din zonele umbrite.",
+                "en": "The park is serene with bare trees; watch out closely for dangerous black ice on the paved paths in the shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin-de-Ferrières",
+                "hu": "Saint-Martin-de-Ferrières",
+                "ro": "Saint-Martin-de-Ferrières",
+                "en": "Saint-Martin-de-Ferrières"
+              },
+              "tip_5lang": {
+                "de": "Eine zügige Fahrt bringt Sie zu dieser Kirche; die klare Winterluft macht die umliegende Landschaft wirklich eindrucksvoll.",
+                "hu": "Egy fürge tekerés elviszi ehhez a templomhoz; a csípős téli levegő igazán lenyűgözővé teszi a környező tájat.",
+                "ro": "O pedalare alertă vă duce la această biserică pitorească; aerul rece de iarnă face peisajul înconjurător cu adevărat izbitor.",
+                "en": "A brisk pedal takes you to this quaint church; the crisp winter air makes the surrounding landscape truly striking."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Manais",
+                "hu": "Château du Manais",
+                "ro": "Château du Manais",
+                "en": "Château du Manais"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der frühen Dämmerung an, um das weitläufige Anwesen im goldenen, flachen Nachmittagslicht des Winters zu sehen.",
+                "hu": "Érkezzen a korai szürkület előtt, hogy lássa az elterülő birtokot az aranyló, alacsony szögű téli délutáni napfényben.",
+                "ro": "Ajungeți înainte de amurgul timpuriu pentru a vedea domeniul întins scăldat în lumina aurie a după-amiezii de iarnă.",
+                "en": "Arrive before the early dusk to see the sprawling estate bathed in the golden, low-angle afternoon winter sunlight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "A reggel egy rövid autózással indul a központba, ahol a főteret és a híres káptalani templomot tekinti meg. Délben a történelmi Porte de Paris várja, majd a város szélére autózik. Délután a Château du Manais lenyűgöző építészetét fedezheti fel. Ahogy közeledik az este, egy festői vidéki autózás a bájos Église Saint-Martin templomhoz vezet.",
         "ro": "Dimineața începe cu un drum scurt spre centru, pentru a vedea piața principală și biserica colegială. La prânz, admirați istorica Porte de Paris și conduceți scurt spre marginea orașului. După-amiaza este dedicată explorării arhitecturii grandioase de la Château du Manais. Seara se încheie cu un drum pitoresc la țară până la fermecătoarea Église Saint-Martin.",
         "en": "Morning involves a quick drive to the city center, taking in the main square and the iconic Collegiate Church. Midday highlights the historical Porte de Paris and a short drive to the village outskirts. In the afternoon, explore the grand architecture of Château du Manais. As evening approaches, a scenic countryside drive takes you to the charming Église Saint-Martin to finish the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Autofahren ist ideal an Regentagen. Kurze Stopps am Platz und Tor halten Sie trocken. Kirchen und Schloss bieten guten Schutz oder bequeme Ausblicke direkt aus dem Auto. Fahren Sie auf nassen Landstraßen besonders vorsichtig.",
+            "hu": "A vezetés tökéletes egy esős napra. A gyors megállók a téren és a kapunál szárazon tartják. A templomok és a kastély kiváló menedéket vagy könnyű, autóból is élvezhető látványt nyújtanak. Vezessen óvatosan a nedves utakon.",
+            "ro": "Condusul este perfect pentru o zi ploioasă. Opririle scurte la piață și poartă vă mențin uscat. Bisericile și castelul oferă un adăpost excelent sau priveliști ușoare din mașină. Conduceți cu prudență pe drumurile rurale ude.",
+            "en": "Driving is perfect for this rainy day. Quick stops at the central square and gate keep you dry. The magnificent churches and chateau offer excellent shelter or easy drive-by views without getting soaked. Take care on wet rural roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Libération",
+                "hu": "Place de la Libération",
+                "ro": "Place de la Libération",
+                "en": "Place de la Libération"
+              },
+              "tip_5lang": {
+                "de": "Leicht in der Nähe zu parken; betrachten Sie den Platz aus dem Auto oder machen Sie einen kurzen Spaziergang mit Regenschirm.",
+                "hu": "Könnyű parkolni, és autóból is jól látható a nyüzsgő nedves tér, vagy tehet egy gyors sétát esernyővel a kézben.",
+                "ro": "Ușor de parcat în apropiere și de văzut piața aglomerată din mașină, sau de făcut o ieșire foarte scurtă cu umbrela.",
+                "en": "Easy to park nearby and view the bustling wet square from your car, or make a very quick umbrella dash outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Hildevert",
+                "hu": "Saint-Hildevert Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Hildevert",
+                "en": "Saint-Hildevert Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und treten Sie ein, um die Architektur zu bewundern, während Sie dem starken Platzregen entgehen.",
+                "hu": "Parkoljon a közelben, és lépjen be, hogy megcsodálja a nagyszerű építészetet, miközben teljesen elmenekül a zápor elől.",
+                "ro": "Parcați aproape și intrați pentru a admira arhitectura grandioasă, scăpând complet de aversele puternice de afară.",
+                "en": "Park close by and step inside to admire the grand architecture while entirely escaping the heavy outdoor downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Paris",
+                "hu": "Porte de Paris",
+                "ro": "Porte de Paris",
+                "en": "Porte de Paris"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen historischen Torbogen bequem aus dem warmen Auto oder treten Sie vorsichtig auf die nassen Steine.",
+                "hu": "Nézze meg ezt a történelmi kaput kényelmesen a meleg autóból, vagy óvatosan lépjen ki a nedves, csúszós kövekre.",
+                "ro": "Vizualizați confortabil această arcadă istorică din mașina caldă sau pășiți cu grijă pe pietrele ude și alunecoase.",
+                "en": "View this historical archway comfortably from the warm car, or carefully step out onto the wet, slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin-de-Ferrières",
+                "hu": "Saint-Martin-de-Ferrières",
+                "ro": "Saint-Martin-de-Ferrières",
+                "en": "Saint-Martin-de-Ferrières"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze, malerische Fahrt im Regen führt zu dieser friedlichen Landkirche, wo Sie problemlos völlig trocken bleiben können.",
+                "hu": "Egy rövid, festői esős autózás ehhez a békés vidéki templomhoz vezet, ahol könnyedén teljesen száraz maradhat.",
+                "ro": "Un scurt drum pitoresc prin ploaie duce la această biserică rurală liniștită, unde puteți sta complet uscat.",
+                "en": "A short, scenic drive in the rain leads to this peaceful country church where you can easily stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Manais",
+                "hu": "Château du Manais",
+                "ro": "Château du Manais",
+                "en": "Château du Manais"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie am majestätischen Gelände vorbei; der ständige Regen verleiht dem Schloss eine wunderbar romantische Atmosphäre.",
+                "hu": "Hajtson el a fenséges birtok mellett; a folyamatos eső csodálatosan borongós, romantikus hangulatot ad a kastélynak.",
+                "ro": "Conduceți pe lângă domeniul maiestuos; ploaia constantă adaugă o atmosferă minunat de romantică vederilor castelului.",
+                "en": "Drive past the majestic grounds; the constant rain adds a wonderfully moody, romantic atmosphere to the castle views."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihren regnerischen Roadtrip und genießen Sie die ruhige Innenarchitektur in Sicherheit vor dem miesen Wetter.",
+                "hu": "Fejezze be itt esős autós túráját, élvezve a csendes belső építészetet, tökéletes biztonságban a zord időjárástól.",
+                "ro": "Încheiați-vă călătoria ploioasă aici, bucurându-vă de arhitectura interioară liniștită, perfect în siguranță de vremea rea.",
+                "en": "End your rainy road trip here, enjoying the quiet interior architecture perfectly safe from the miserable weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Autoheizung zwischen den kalten Stopps. Starten Sie im Zentrum am historischen Tor. Fahren Sie zu den Landkirchen und zum Schloss, um das goldene Tageslicht vor dem frühen Sonnenuntergang um 17:00 Uhr maximal auszukosten.",
+            "hu": "Hagyatkozzon az autó fűtésére a csípős téli megállók között. Kezdje a központban, nézze meg a történelmi kaput. Vezessen a vidéki templomokhoz és a kastélyhoz, kihasználva a gyönyörű aranyfényeket a 17:00 órás naplemente előtt.",
+            "ro": "Bazați-vă pe căldura mașinii între opririle de iarnă. Începeți în centru și explorați poarta istorică. Conduceți spre bisericile rurale și castel, maximizând lumina aurie a zilei înainte de apusul timpuriu din jurul orei 17:00.",
+            "en": "Rely on your car's heater between crisp winter stops. Start in the city center and explore the historic gate. Drive to the countryside churches and chateau, maximizing the beautiful golden daylight before the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Libération",
+                "hu": "Place de la Libération",
+                "ro": "Place de la Libération",
+                "en": "Place de la Libération"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist zugänglich; parken Sie in der Nähe, um sich nicht zu lange der beißenden Winterkälte und dem Wind auszusetzen.",
+                "hu": "A tér könnyen megközelíthető; parkoljon a közelben, hogy korlátozza a csípős téli hidegnek és szélnek való kitettséget.",
+                "ro": "Piața este accesibilă; parcați aproape pentru a vă limita expunerea la frigul mușcător al iernii și la vânturile înghețate.",
+                "en": "The square is accessible; park close by to limit your exposure to the biting winter cold and strong icy winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Stiftskirche Saint-Hildevert",
+                "hu": "Saint-Hildevert Társaskáptalani Templom",
+                "ro": "Biserica Colegială Saint-Hildevert",
+                "en": "Saint-Hildevert Collegiate Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das alte Mauerwerk, aber behalten Sie Ihre dicken Winterschichten an, da das historische Gebäude die Kälte speichert.",
+                "hu": "Csodálja meg az ősi kőművesmunkát, de hagyja magán a vastag téli ruhákat, mert a történelmi épület tartja a hideget.",
+                "ro": "Admirați zidăria veche, dar păstrați-vă straturile groase de iarnă, deoarece clădirea istorică reține frigul.",
+                "en": "Admire the ancient stonework, but keep your heavy winter layers on as the historic building holds the freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Paris",
+                "hu": "Porte de Paris",
+                "ro": "Porte de Paris",
+                "en": "Porte de Paris"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp an diesem historischen Wahrzeichen ist perfekt, bevor Sie schnell in das warme, beheizte Auto zurückkehren.",
+                "hu": "Egy gyors fotómegálló ennél a történelmi nevezetességnél tökéletes, mielőtt gyorsan visszaugrana a fűtött autóba.",
+                "ro": "O oprire rapidă pentru fotografii la acest punct de reper istoric este perfectă înainte de a sări rapid înapoi în mașina încălzită.",
+                "en": "A quick photo stop at this historical landmark is perfect before hopping rapidly back into the warm, heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin-de-Ferrières",
+                "hu": "Saint-Martin-de-Ferrières",
+                "ro": "Saint-Martin-de-Ferrières",
+                "en": "Saint-Martin-de-Ferrières"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch die wunderschöne Winterlandschaft, um diese charmante religiöse Stätte mit aufgedrehter Heizung zu erreichen.",
+                "hu": "Vezessen át a zord, gyönyörű téli vidéken, hogy a fűtést feltekerve elérje ezt a bájos, eldugott vallási helyszínt.",
+                "ro": "Conduceți prin peisajul frumos de iarnă pentru a ajunge la acest sit religios fermecător, cu căldura pornită la maximum.",
+                "en": "Drive through the stark, beautiful winter countryside to reach this charming religious site with the heater blasting."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Manais",
+                "hu": "Château du Manais",
+                "ro": "Château du Manais",
+                "en": "Château du Manais"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Schloss, solange die Nachmittagssonne noch scheint, da es im brillanten Winterlicht absolut spektakulär aussieht.",
+                "hu": "Látogasson el ide, amíg még süt a délutáni nap, mivel a kastély abszolút látványosan néz ki a ragyogó téli fényben.",
+                "ro": "Vizitați în timp ce soarele de după-amiază este încă sus, deoarece castelul arată absolut spectaculos în lumina strălucitoare.",
+                "en": "Visit while the afternoon sun is still up, as the castle looks absolutely spectacular in the brilliant winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher letzter Stopp; kommen Sie vor der frühen Dämmerung an, um die schönen äußeren architektonischen Details zu schätzen.",
+                "hu": "Békés végső megálló; érkezzen a korai szürkület előtt, hogy teljes mértékben értékelni tudja a külső építészeti részleteket.",
+                "ro": "O oprire finală pașnică; ajungeți înainte de crepuscul pentru a aprecia pe deplin frumoasele sale detalii arhitecturale exterioare.",
+                "en": "A peaceful final stop; arrive before the early twilight to fully appreciate its beautiful exterior architectural details."
+              }
+            }
+          ]
+        }
       }
     }
   }

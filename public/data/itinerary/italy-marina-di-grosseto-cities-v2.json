@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a központban található modern San Rocco templom csendes látogatásával. Tegyen egy kényelmes sétát a Luna Parkba egy kis családi szórakozásra. Délben a part felé vesszük az irányt a Bagno Mio e Tuo strandra. A délutánt az északi Vigili del Fuoco strandon töltjük. Az este közeledtével lazítson a Bagno Miramare partszakaszán egy utolsó tengerparti aperitif kíséretében.",
         "ro": "Începeți dimineața cu o vizită liniștită la moderna biserică San Rocco din centru. Bucurați-vă de o plimbare spre Luna Park pentru distracție în familie. La prânz mergeți spre coastă, oprindu-vă la Bagno Mio e Tuo pentru soare. Petreceți după-amiaza deplasându-vă spre nord către Vigili del Fuoco. Spre seară, relaxați-vă la Bagno Miramare cu un ultim aperitiv pe malul mării.",
         "en": "Start your morning with a quiet visit to the modern San Rocco church in the center. Enjoy a leisurely stroll to the Luna Park for some lighthearted family fun. Midday takes you towards the coastline, settling at Bagno Mio e Tuo for sun and sea. Spend the afternoon beach-hopping northward to Vigili del Fuoco. As evening approaches, relax at Bagno Miramare with a final seaside aperitivo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Dach der San Rocco Kirche, während der Regen gegen die Fenster peitscht. Mittags führt der Weg entlang der Strandpromenade, wo die Vordächer der geschlossenen Badeanstalten kurzen Schutz bieten. Am Nachmittag wird der Spaziergang durch den Pinienwald fortgesetzt, dessen dichtes Dach die Tropfen abfängt. Der Abend endet ruhig im Hafenviertel.",
+            "hu": "A reggel a San Rocco templom védelmező falai között indul, miközben az eső a szemközti ablakokon kopog. Délben a tengerparti sétányon haladunk tovább, ahol a zárt strandok előtetői nyújtanak rövid menedéket. Délután a fenyőerdő sűrű lombjai fognak fel valamennyit az égi áldásból. Az este csendesen, a kikötői negyed fényeiben, esernyő alatt zárul a vizes aszfalton.",
+            "ro": "Dimineața începe sub acoperișul protector al bisericii San Rocco, în timp ce ploaia bate în ferestre. La prânz, drumul continuă pe faleza plajei, unde copertinele stabilimentelor închise oferă scurte refugii. După-amiaza, plimbarea prin pădurea de pini profită de coronamentul des care oprește picăturile. Seara se încheie liniștit în zona portului, sub reflexiile ploii pe asfalt.",
+            "en": "The morning begins under the protective roof of San Rocco church as rain beats against the windows. At noon, the walk continues along the beach promenade, where the overhangs of closed beach clubs offer brief shelter. In the afternoon, the pine forest's dense canopy catches many of the raindrops. The evening ends quietly in the harbor area, with lights reflecting on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den hellen Innenraum als trockenen Rückzugsort; bewundern Sie die modernen Mosaike und warten Sie hier den stärksten Regenschauer in aller Ruhe ab.",
+                "hu": "Használja a világos belső teret száraz menedékként; csodálja meg a modern mozaikokat, és várja meg itt a legerősebb záporokat teljes nyugalomban.",
+                "ro": "Folosiți interiorul luminos ca refugiu uscat; admirați mozaicurile moderne și așteptați aici trecerea celei mai puternice averse în deplină liniște.",
+                "en": "Use the bright interior as a dry retreat; admire the modern mosaics and wait out the heaviest rain showers here in complete tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park",
+                "hu": "Luna Park",
+                "ro": "Luna Park",
+                "en": "Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Auch wenn die Fahrgeschäfte bei Regen ruhen, bieten die überdachten Bereiche der Spielhallen einen unterhaltsamen Platz, um kurzzeitig dem Wetter zu entfliehen.",
+                "hu": "Bár a játékok esőben állnak, a fedett játéktermek szórakoztató helyszínt biztosítanak, hogy rövid időre elmeneküljön a barátságtalan időjárás elől.",
+                "ro": "Deși atracțiile stau pe loc în timpul ploii, zonele acoperite ale sălilor de jocuri oferă un loc distractiv pentru a scăpa temporar de vremea neprielnică.",
+                "en": "Even though the rides are stationary in the rain, the covered arcade areas provide an entertaining spot to escape the unfriendly weather for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Mio e Tuo",
+                "hu": "Bagno Mio e Tuo",
+                "ro": "Bagno Mio e Tuo",
+                "en": "Bagno Mio e Tuo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer von der überdachten Terrasse aus; die raue Brandung bei Regen bietet ein dramatisches Fotomotiv direkt vor der Tür.",
+                "hu": "Figyelje a szürke tengert a fedett teraszról; az esőben feltámadó vad hullámverés drámai fotótémát kínál közvetlenül az épület előtt.",
+                "ro": "Urmăriți marea cenușie de pe terasa acoperită; valurile sălbatice care se ridică în timpul ploii oferă un subiect foto dramatic chiar în fața clădirii.",
+                "en": "Watch the gray sea from the covered terrace; the wild surf rising during the rain offers a dramatic photo subject right in front of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Stabilimento Balneare \"Vigili del Fuoco\"",
+                "hu": "Stabilimento Balneare \"Vigili del Fuoco\"",
+                "ro": "Stabilimento Balneare \"Vigili del Fuoco\"",
+                "en": "Stabilimento Balneare \"Vigili del Fuoco\""
+              },
+              "tip_5lang": {
+                "de": "Der betonierte Zugang ist weniger schlammig als der Sand; tragen Sie festes Schuhwerk, um auf dem nassen Untergrund sicher zu stehen und nicht auszurutschen.",
+                "hu": "A betonozott bejárat kevésbé sáros, mint a homok; viseljen stabil cipőt, hogy a nedves talajon is biztosan álljon és elkerülje az elcsúszást.",
+                "ro": "Accesul betonat este mai puțin noroios decât nisipul; purtați încălțăminte stabilă pentru a sta în siguranță pe solul umed și a evita alunecarea.",
+                "en": "The concrete access is less muddy than the sand; wear stable shoes to stand securely on the wet ground and avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Miramare",
+                "hu": "Bagno Miramare",
+                "ro": "Bagno Miramare",
+                "en": "Bagno Miramare"
+              },
+              "tip_5lang": {
+                "de": "Das Rauschen des Regens auf dem Metalldach erzeugt eine meditative Atmosphäre; genießen Sie den Blick auf den menschenleeren Strand mit einer windfesten Jacke.",
+                "hu": "Az eső kopogása a fémtetőn meditatív hangulatot áraszt; élvezze a kilátást az elhagyatott tengerpartra egy szélálló kabátban pihenve.",
+                "ro": "Ropotul ploii pe acoperișul metalic creează o atmosferă meditativă; bucurați-vă de priveliștea plajei pustii dintr-o jachetă rezistentă la vânt.",
+                "en": "The patter of rain on the metal roof creates a meditative atmosphere; enjoy the view of the deserted beach while staying cozy in a windproof jacket."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen mit frischer Meeresbrise lädt zur Erkundung ein. Mittags wärmen die Sonnenstrahlen trotz niedriger Temperaturen, während man durch das ruhige Dorf schlendert. Der Nachmittag gehört dem einsamen Strand, der im Winter eine ganz eigene Melancholie ausstrahlt. Da die Sonne bereits gegen 17:00 Uhr untergeht, zieht man sich früh in die gemütliche Wärme zurück.",
+            "hu": "A tiszta téli reggel friss tengeri szellővel hívogat a felfedezésre. Délben a napsugarak a hűvös idő ellenére is kellemesek, miközben a csendes faluban sétálunk. A délután az elhagyatott tengerparté, amely télen sajátos melankóliát áraszt. Mivel a nap már 17:00 körül lemegy, korán érdemes visszahúzódni a fűtött, barátságos belső terekbe.",
+            "ro": "O dimineață senină de iarnă, cu o briză marină proaspătă, invită la explorare. La prânz, razele soarelui sunt plăcute în ciuda temperaturilor scăzute, în timp ce vă plimbați prin satul liniștit. După-amiaza aparține plajei pustii, care iarna emană o melancolie aparte. Deoarece soarele apune deja în jur de ora 17:00, retrageți-vă devreme la căldura primitoare.",
+            "en": "A clear winter morning with a fresh sea breeze invites exploration. At noon, the sun's rays are pleasant despite low temperatures as you stroll through the quiet village. The afternoon belongs to the lonely beach, which radiates a unique melancholy in winter. Since the sun sets around 5:00 PM, retreat early to the cozy warmth of indoor spaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine angenehme Stille fernab des Sommerrummels; tragen Sie eine warme Schicht, da es in den hohen Räumen im Winter kühl sein kann.",
+                "hu": "A templom kellemes csendet nyújt a nyári nyüzsgéstől távol; viseljen meleg öltözetet, mert a nagy belső tér télen hűvös lehet.",
+                "ro": "Biserica oferă o liniște plăcută departe de agitația verii; purtați un strat cald de haine, deoarece spațiile înalte pot fi răcoroase iarna.",
+                "en": "The church offers a pleasant silence far from the summer bustle; wear a warm layer as the high-ceilinged rooms can be chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Luna Park",
+                "hu": "Luna Park",
+                "ro": "Luna Park",
+                "en": "Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wirkt der Park fast surreal und verlassen; nutzen Sie das weiche Nachmittagslicht für künstlerische Fotos der ruhenden Fahrgeschäfte.",
+                "hu": "Télen a park szinte szürreális és elhagyatott; használja ki a lágy délutáni fényeket a pihenő játékokról készült művészi fotókhoz.",
+                "ro": "Iarna, parcul pare aproape ireal și părăsit; folosiți lumina blândă a după-amiezii pentru fotografii artistice ale atracțiilor aflate în repaus.",
+                "en": "In winter, the park looks almost surreal and deserted; use the soft afternoon light for artistic photos of the dormant rides."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Mio e Tuo",
+                "hu": "Bagno Mio e Tuo",
+                "ro": "Bagno Mio e Tuo",
+                "en": "Bagno Mio e Tuo"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist im Winter fest und ideal für lange Strandspaziergänge; eine Thermoskanne mit heißem Tee macht die Rast am Wasser perfekt.",
+                "hu": "A homok télen keményebb és ideális a hosszú parti sétákhoz; egy termosz forró tea teszi tökéletessé a vízparti pihenőt.",
+                "ro": "Nisipul este ferm iarna și ideal pentru plimbări lungi pe plajă; un termos cu ceai fierbinte face ca popasul lângă apă să fie perfect.",
+                "en": "The sand is firm in winter and ideal for long beach walks; a thermos with hot tea makes the rest by the water perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Stabilimento Balneare \"Vigili del Fuoco\"",
+                "hu": "Stabilimento Balneare \"Vigili del Fuoco\"",
+                "ro": "Stabilimento Balneare \"Vigili del Fuoco\"",
+                "en": "Stabilimento Balneare \"Vigili del Fuoco\""
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Weite des Horizonts ohne die bunten Sonnenschirme; achten Sie auf den kalten Seewind und schützen Sie Ihre Ohren mit einer Mütze.",
+                "hu": "Élvezze a horizont tágasságát a színes napernyők nélkül; ügyeljen a hideg tengeri szélre, és védje füleit egy meleg sapkával.",
+                "ro": "Bucurați-vă de imensitatea orizontului fără umbrelele colorate; atenție la vântul rece de mare și protejați-vă urechile cu o căciulă.",
+                "en": "Enjoy the vastness of the horizon without the colorful umbrellas; watch out for the cold sea wind and protect your ears with a hat."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Miramare",
+                "hu": "Bagno Miramare",
+                "ro": "Bagno Miramare",
+                "en": "Bagno Miramare"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang direkt am Wasser; die Farben des Himmels sind im Winter oft intensiver und klarer als im Sommer.",
+                "hu": "Élje át a korai naplementét közvetlenül a víznél; az ég színei télen gyakran intenzívebbek és tisztábbak, mint a nyári hőségben.",
+                "ro": "Experimentați apusul timpuriu chiar lângă apă; culorile cerului sunt adesea mai intense și mai clare iarna decât în timpul verii.",
+                "en": "Experience the early sunset right by the water; the colors of the sky are often more intense and clear in winter than in the summer haze."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen ki korán a fenyvesekben megbúvó, békés Cappella del Cristo kápolnához. Kerekezzen el a Residence La Mandorla mellett a La Fiumara természetes partjai felé. Délben induljon délre a Moby Dick strandhoz egy ebéde. A délután visszaviszi a városközpontba a San Rocco templomhoz. Végül tekerjen a Bagno Dolce Vita strandhoz egy elegáns naplementére és a lágy esti tengerparti szellőre.",
         "ro": "Pedalați devreme spre liniștita Cappella del Cristo, ascunsă în pini. Treceți pe lângă Residence La Mandorla înainte de a ajunge la La Fiumara. La prânz, coborâți spre sud la Moby Dick pentru un prânz animat. După-amiaza vă aduce înapoi în centru pentru a admira San Rocco. În cele din urmă, pedalați până la Bagno Dolce Vita pentru un apus elegant și o briză blândă de seară.",
         "en": "Ride out early to the peaceful Cappella del Cristo, hidden in the pines. Cycle past the iconic Residence La Mandorla before hitting the natural shores of La Fiumara Beach. By midday, cruise south to Moby Dick for a lively coastal lunch. The afternoon brings you back to the town center to admire San Rocco. Finally, pedal to Bagno Dolce Vita for a stylish evening sunset and gentle sea breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet vorsichtig auf den nassen Straßen Richtung Kapelle. Der Pinienwald schirmt einen Teil des Regens ab, doch die Wege können rutschig sein. Mittags bietet die Marina di Grosseto überdachte Plätze für eine Pause. Am Nachmittag geht es im Regenponcho an der Küste entlang, wo die Gischt des Meeres mit den Regentropfen verschmilzt. Ein kurzer, aktiver Tag im Sattel.",
+            "hu": "A kerékpártúra óvatosan indul a vizes aszfalton a kápolna felé. A fenyőerdő felfogja az eső egy részét, de az utak csúszósak lehetnek. Délben Marina di Grosseto fedett helyein tarthatunk pihenőt. Délután esőponcsóban haladunk a part mentén, ahol a tenger permete és az esőcseppek eggyé válnak. Rövid, de aktív nap a nyeregben, vigyázva a kanyarokban.",
+            "ro": "Turul cu bicicleta începe cu prudență pe străzile umede spre capelă. Pădurea de pini oprește o parte din ploaie, dar potecile pot fi alunecoase. La prânz, Marina di Grosseto oferă locuri acoperite pentru o pauză. După-amiaza se merge cu pelerina de ploaie de-a lungul coastei, unde spuma mării se contopește cu picăturile de ploaie. O zi scurtă și activă în șa.",
+            "en": "The bike tour starts cautiously on the wet roads toward the chapel. The pine forest shields some of the rain, but paths can be slippery. At noon, Marina di Grosseto offers covered spots for a break. In the afternoon, ride along the coast in a rain poncho, where the sea spray merges with the raindrops. A short, active day in the saddle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cappella del Cristo",
+                "hu": "Cappella del Cristo",
+                "ro": "Cappella del Cristo",
+                "en": "Cappella del Cristo"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Bäumen ab und nutzen Sie die Kapelle für einen Moment der Ruhe im Trockenen, bevor Sie weiterfahren.",
+                "hu": "Állítsa le a kerékpárt a fák alá, és használja a kápolnát egy pillanatnyi csendes pihenőre a szárazon, mielőtt továbbindulna.",
+                "ro": "Parcați bicicleta sub copaci și folosiți capela pentru un moment de liniște la adăpost înainte de a porni din nou la drum.",
+                "en": "Park your bike under the trees and use the chapel for a moment of quiet rest in the dry before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Residence La Mandorla",
+                "hu": "Residence La Mandorla",
+                "ro": "Residence La Mandorla",
+                "en": "Residence La Mandorla"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Piniennadeln auf der Straße, die sehr rutschig sein können; bremsen Sie frühzeitig vor den Kurven am Gebäude.",
+                "hu": "Ügyeljen az úton lévő nedves fenyőtűkre, amelyek nagyon csúszósak lehetnek; fékezzen időben az épület körüli kanyarok előtt.",
+                "ro": "Atenție la acele de pin umede de pe drum, care pot fi foarte alunecoase; frânați din timp înainte de curbele din jurul clădirii.",
+                "en": "Watch out for wet pine needles on the road, which can be very slippery; brake early before the turns around the building."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fiumara Beach",
+                "hu": "La Fiumara Beach",
+                "ro": "La Fiumara Beach",
+                "en": "La Fiumara Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein wasserfester Poncho schützt Sie vor dem Seitenwind am Strand; genießen Sie das raue Panorama, ohne vom Rad absteigen zu müssen.",
+                "hu": "Egy vízálló poncsó megvédi a parti oldalszéltől; élvezze a vad panorámát anélkül, hogy le kellene szállnia a kerékpárról.",
+                "ro": "O pelerină impermeabilă vă protejează de vântul lateral de pe plajă; bucurați-vă de panorama sălbatică fără a fi nevoie să coborâți de pe bicicletă.",
+                "en": "A waterproof poncho will protect you from the coastal crosswinds; enjoy the wild panorama without needing to dismount your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Moby Dick",
+                "hu": "Moby Dick",
+                "ro": "Moby Dick",
+                "en": "Moby Dick"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Gebäudestruktur als Windschutz für eine kurze Trinkpause; der Regen wirkt hier durch die Architektur oft weniger intensiv.",
+                "hu": "Használja az épület szerkezetét szélfogóként egy rövid ivószünethez; az eső itt az építészeti megoldások miatt kevésbé tűnik intenzívnek.",
+                "ro": "Folosiți structura clădirii ca paravan împotriva vântului pentru o scurtă pauză de hidratare; ploaia pare mai puțin intensă aici datorită arhitecturii.",
+                "en": "Use the building's structure as a windbreak for a quick hydration break; the rain often feels less intense here due to the architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Wischen Sie den Sattel vor dem Abstellen trocken; die Kirche bietet den perfekten Ort, um die Hände aufzuwärmen und den Regen abzuwarten.",
+                "hu": "Törölje szárazra a nyerget megálláskor; a templom tökéletes hely a kezek felmelegítésére és az eső elcsendesedésének megvárására.",
+                "ro": "Ștergeți șaua înainte de a opri; biserica oferă locul perfect pentru a vă încălzi mâinile și a aștepta ca ploaia să se domolească.",
+                "en": "Wipe your saddle dry when stopping; the church provides the perfect place to warm your hands and wait for the rain to ease."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Dolce Vita",
+                "hu": "Bagno Dolce Vita",
+                "ro": "Bagno Dolce Vita",
+                "en": "Bagno Dolce Vita"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Wege zum Strand sind bei Regen sicherer als die Sandpfade; beenden Sie die Tour mit Vorsicht auf den letzten Metern.",
+                "hu": "A strandhoz vezető aszfaltozott utak esőben biztonságosabbak, mint a homokos ösvények; fejezze be a túrát óvatosan az utolsó métereken.",
+                "ro": "Drumurile asfaltate spre plajă sunt mai sigure pe ploaie decât potecile cu nisip; încheiați turul cu prudență pe ultimii metri.",
+                "en": "The paved paths to the beach are safer in the rain than sandy trails; finish your tour with caution on the final stretches."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Bei kühler, aber klarer Winterluft rollen die Reifen mühelos über die leeren Radwege. Morgens ist die Sicht bis zum Horizont besonders scharf. Mittags wärmt die Sonne die Pinienwälder auf, deren Duft im Winter dezenter ist. Die Tour führt durch fast menschenleere Küstenabschnitte, die Ruhe pur ausstrahlen. Vor dem frühen Einbruch der Dunkelheit wird das Ziel erreicht.",
+            "hu": "A hűvös, de tiszta téli levegőben a kerekek könnyedén gördülnek az üres kerékpárutakon. Reggel a kilátás a horizontig különösen éles. Délben a nap felmelegíti a fenyőerdőket, melyek illata télen visszafogottabb. A túra szinte teljesen néptelen parti szakaszokon vezet át, ami tiszta nyugalmat áraszt. A sötétség korai beállta előtt elérjük a célt.",
+            "ro": "În aerul răcoros, dar senin de iarnă, roțile rulează fără efort pe pistele de biciclete goale. Dimineața, vizibilitatea până la orizont este deosebit de clară. La prânz, soarele încălzește pădurile de pini, al căror miros este mai discret iarna. Turul trece prin porțiuni de coastă aproape pustii, care emană o liniște pură. Destinația este atinsă înainte de lăsarea timpurie a întunericului.",
+            "en": "In the cool but clear winter air, tires roll effortlessly over the empty bike paths. In the morning, the view to the horizon is exceptionally sharp. At noon, the sun warms the pine forests, whose scent is more subtle in winter. The tour leads through almost deserted coastal stretches radiating pure tranquility. Reach your destination before the early onset of darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cappella del Cristo",
+                "hu": "Cappella del Cristo",
+                "ro": "Cappella del Cristo",
+                "en": "Cappella del Cristo"
+              },
+              "tip_5lang": {
+                "de": "Handschuhe sind für die Fahrt hierher unerlässlich, da der Fahrtwind im Schatten der Bäume im Winter besonders schneidend sein kann.",
+                "hu": "A kesztyű elengedhetetlen az idefelé vezető úton, mivel a fák árnyékában a menetszél télen különösen metsző lehet.",
+                "ro": "Mănușile sunt esențiale pentru drumul până aici, deoarece vântul din timpul mersului la umbra copacilor poate fi tăios iarna.",
+                "en": "Gloves are essential for the ride here, as the wind chill in the shade of the trees can be particularly biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Residence La Mandorla",
+                "hu": "Residence La Mandorla",
+                "ro": "Residence La Mandorla",
+                "en": "Residence La Mandorla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Architektur im harten Winterlicht; die Wege sind frei von Touristen, was das Navigieren mit dem Rad sehr entspannt macht.",
+                "hu": "Élvezze a letisztult építészetet az erős téli fényben; az utak mentesek a turistáktól, ami nagyon nyugodttá teszi a kerékpáros közlekedést.",
+                "ro": "Bucurați-vă de arhitectura clară în lumina puternică a iernii; drumurile sunt libere de turiști, ceea ce face navigarea cu bicicleta foarte relaxantă.",
+                "en": "Enjoy the clean architecture in the sharp winter light; the paths are free of tourists, making bicycle navigation very relaxed."
+              }
+            },
+            {
+              "name": {
+                "de": "La Fiumara Beach",
+                "hu": "La Fiumara Beach",
+                "ro": "La Fiumara Beach",
+                "en": "La Fiumara Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strandabschnitt ist ideal für eine kurze Pause in der Wintersonne; nutzen Sie die niedrige Sonnenposition für beeindruckende Gegenlichtaufnahmen.",
+                "hu": "A tengerparti szakasz ideális egy rövid pihenőre a téli napsütésben; használja ki az alacsony napállást lenyűgöző ellenfényes fotókhoz.",
+                "ro": "Porțiunea de plajă este ideală pentru o scurtă pauză în soarele iernii; profitați de poziția joasă a soarelui pentru fotografii contra luminii impresionante.",
+                "en": "The beach section is ideal for a short break in the winter sun; take advantage of the low sun position for impressive backlit photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Moby Dick",
+                "hu": "Moby Dick",
+                "ro": "Moby Dick",
+                "en": "Moby Dick"
+              },
+              "tip_5lang": {
+                "de": "Die Wege rund um das Gebäude sind im Winter oft mit feinem Sand bedeckt; fahren Sie in den Kurven vorsichtig, um die Bodenhaftung nicht zu verlieren.",
+                "hu": "Az épület körüli utakat télen gyakran finom homok borítja; kanyarodjon óvatosan, hogy ne veszítse el a tapadást a kerekek alatt.",
+                "ro": "Drumurile din jurul clădirii sunt adesea acoperite cu nisip fin iarna; virați cu atenție pentru a nu pierde aderența sub roți.",
+                "en": "The paths around the building are often covered with fine sand in winter; turn carefully to avoid losing traction under your wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad sicher ab und verbringen Sie etwas Zeit im Inneren; die Ruhe der Nebensaison lässt den Raum ganz anders wirken.",
+                "hu": "Zárja le biztonságosan a kerékpárt, és töltsön egy kis időt bent; a holtszezon csendje teljesen más megvilágításba helyezi a belső teret.",
+                "ro": "Încuiați bicicleta în siguranță și petreceți puțin timp în interior; liniștea din extrasezon face ca spațiul să pară complet diferit.",
+                "en": "Lock your bike securely and spend some time inside; the off-season quiet makes the space feel entirely different."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Dolce Vita",
+                "hu": "Bagno Dolce Vita",
+                "ro": "Bagno Dolce Vita",
+                "en": "Bagno Dolce Vita"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Start der Rückfahrt Ihre Beleuchtung; im Winter wird es sehr schnell dunkel, sobald die Sonne am Horizont verschwindet.",
+                "hu": "Visszaindulás előtt ellenőrizze a világítást; télen nagyon gyorsan besötétedik, amint a nap eltűnik a horizont alatt.",
+                "ro": "Verificați luminile înainte de a pleca înapoi; iarna se întunecă foarte repede imediat ce soarele dispare la orizont.",
+                "en": "Check your lights before starting the return trip; it gets dark very quickly in winter as soon as the sun vanishes below the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen északra a Residence La Mandorla megtekintéséhez, majd töltsön egy sportos délelőttöt a 3 Stelle strandon. Folytassa útját a Moreno Beach felé egy kis déli kikapcsolódásra. Délután parkoljon le a központban, és látogassa meg a San Rocco templomot. Induljon délre a Bagno Tropical felé az élénk hangulatért, majd zárja a napot a tágas Bagno Granduca strandon a naplementében.",
         "ro": "Conduceți spre nord la Residence La Mandorla, urmată de o dimineață sportivă la plaja 3 Stelle. Continuați spre Moreno Beach pentru relaxare la prânz. După-amiaza, parcați aproape de centru pentru a vizita biserica San Rocco. Îndreptați-vă spre sud la Bagno Tropical pentru o atmosferă vibrantă, încheind ziua la spațioasa plajă Bagno Granduca odata cu minunatul apus de soare.",
         "en": "Drive north to start your day at the striking Residence La Mandorla, followed by a sporty morning at the 3 Stelle beach. Continue along the coast to Moreno Beach for midday relaxation and sunbathing. In the afternoon, park near the center to visit the tranquil San Rocco church. Head south towards Bagno Tropical for a vibrant vibe, ending the day at the expansive Bagno Granduca at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Sicher und trocken im Auto lassen sich die Sehenswürdigkeiten von Marina di Grosseto auch bei Dauerregen entspannt erkunden. Die Küstenstraße bietet dramatische Ausblicke auf das aufgepeitschte Meer. Mittags ist das Parken direkt an den Zielen einfacher, was kurze Wege im Regen ermöglicht. Der Abend klingt gemütlich aus, während die Tropfen gegen das Autodach trommeln.",
+            "hu": "Biztonságban és szárazon az autóban Marina di Grosseto látnivalói tartós esőben is kényelmesen felfedezhetők. A tengerparti út drámai kilátást nyújt a felkorbácsolt vízre. Délben a parkolás közvetlenül a célpontoknál egyszerűbb, így csak keveset kell az esőben gyalogolni. Az este hangulatosan zárul, miközben az esőcseppek az autó tetején dobolnak.",
+            "ro": "În siguranță și uscat în mașină, atracțiile din Marina di Grosseto pot fi explorate relaxat chiar și pe ploaie continuă. Drumul de coastă oferă priveliști dramatice asupra mării agitate. La prânz, parcarea direct la destinații este mai ușoară, permițând distanțe scurte prin ploaie. Seara se încheie plăcut, în timp ce picăturile bat în plafonul mașinii.",
+            "en": "Safe and dry in the car, the sights of Marina di Grosseto can be explored comfortably even during persistent rain. The coastal road offers dramatic views of the churning sea. At noon, parking directly at the destinations is easier, allowing for short walks in the rain. The evening ends cozily as raindrops drum against the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Residence La Mandorla",
+                "hu": "Residence La Mandorla",
+                "ro": "Residence La Mandorla",
+                "en": "Residence La Mandorla"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter den Bäumen für zusätzlichen Schutz beim Aussteigen; die moderne Architektur wirkt im Regen besonders markant und kontrastreich.",
+                "hu": "Parkoljon a fák alá, hogy extra védelmet kapjon kiszálláskor; a modern építészet esőben különösen jellegzetesnek és kontrasztosnak tűnik.",
+                "ro": "Parcați sub copaci pentru protecție suplimentară la coborâre; arhitectura modernă pare deosebit de marcantă și contrastantă în ploaie.",
+                "en": "Park under the trees for extra protection when getting out; the modern architecture looks particularly striking and high-contrast in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "3 Stelle",
+                "hu": "3 Stelle",
+                "ro": "3 Stelle",
+                "en": "3 Stelle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fenster für einen ersten Blick auf den Strand, bevor Sie mit dem Schirm kurz ans Wasser gehen, um die Seeluft zu schnuppern.",
+                "hu": "Használja az ablakokat egy első pillantásra a strandra, mielőtt esernyővel rövid időre lemenne a vízhez, hogy beszippantsa a tengeri levegőt.",
+                "ro": "Folosiți ferestrele pentru o primă privire asupra plajei înainte de a merge scurt la apă cu umbrela pentru a simți aerul sărat.",
+                "en": "Use the windows for a first look at the beach before heading briefly to the water with an umbrella to catch a breath of sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Moreno Beach",
+                "hu": "Moreno Beach",
+                "ro": "Moreno Beach",
+                "en": "Moreno Beach"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie eine Plastiktüte für den nassen Schirm im Auto bereit; so bleibt der Innenraum trocken, während Sie die Aussicht genießen.",
+                "hu": "Készítsen be egy műanyag zacskót a vizes esernyőnek az autóba; így a belső tér száraz marad, miközben Ön a kilátást élvezi.",
+                "ro": "Pregătiți o pungă de plastic pentru umbrela udă în mașină; astfel interiorul rămâne uscat în timp ce vă bucurați de priveliște.",
+                "en": "Keep a plastic bag ready in the car for your wet umbrella; this keeps the interior dry while you enjoy the scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um sich aufzuwärmen; die Kirche bietet einen weitläufigen, trockenen Raum zur Besichtigung, während es draußen schüttet.",
+                "hu": "Ideális megálló a felmelegedéshez; a templom tágas, száraz teret kínál a városnézéshez, miközben odakint ömlik az eső.",
+                "ro": "O oprire ideală pentru a vă încălzi; biserica oferă un spațiu vast și uscat pentru vizitare în timp ce afară plouă torențial.",
+                "en": "An ideal stop to warm up; the church offers a spacious, dry area for sightseeing while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Tropical",
+                "hu": "Bagno Tropical",
+                "ro": "Bagno Tropical",
+                "en": "Bagno Tropical"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann Pfützen bilden; fahren Sie langsam, um Fußgänger nicht zu bespritzen und die Kontrolle auf nassem Untergrund zu behalten.",
+                "hu": "A bejáratnál tócsák alakulhatnak ki; vezessen lassan, hogy ne fröcskölje le a gyalogosokat és megőrizze az uralmat a vizes talajon.",
+                "ro": "Accesul poate avea bălți; conduceți încet pentru a nu stropi pietonii și pentru a menține controlul pe suprafața umedă.",
+                "en": "The access road may have puddles; drive slowly to avoid splashing pedestrians and to maintain control on the wet surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Granduca",
+                "hu": "Bagno Granduca",
+                "ro": "Bagno Granduca",
+                "en": "Bagno Granduca"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen tollen Blick auf die Küstenlinie; genießen Sie die stürmische See bequem vom Fahrersitz aus bei einer Pause.",
+                "hu": "A parkolóból remek kilátás nyílik a partvonalra; élvezze a viharos tengert kényelmesen a vezetőülésből egy rövid pihenő alatt.",
+                "ro": "Parcarea oferă o vedere excelentă asupra liniei de coastă; bucurați-vă de marea înfuriată confortabil din scaunul șoferului în timpul unei pauze.",
+                "en": "The parking lot offers a great view of the coastline; enjoy the stormy sea comfortably from the driver's seat during a break."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto offenbart die stille Schönheit der Küste von Maremma. Morgens liegt oft ein feiner Nebel über den Pinienwäldern, der sich bei Sonnenaufgang auflöst. Mittags lassen sich auch entlegenere Abschnitte problemlos erreichen, da der Verkehr minimal ist. Die klare Winterluft sorgt für weite Sichtweiten. Der Tag endet mit einer Panoramafahrt bei Sonnenuntergang.",
+            "hu": "Az autós téli túra feltárja a Maremma-part csendes szépségét. Reggelente gyakran finom köd üli meg a fenyőerdőket, amely napkeltekor oszlik el. Délben a távolabbi szakaszok is könnyen elérhetők, mivel a forgalom minimális. A tiszta téli levegő nagy látótávolságot biztosít. A nap egy panorámás autózással zárul a naplementében.",
+            "ro": "Turul de iarnă cu mașina dezvăluie frumusețea liniștită a coastei Maremma. Dimineața, o ceață fină acoperă adesea pădurile de pini, risipindu-se la răsărit. La prânz, chiar și zonele mai îndepărtate pot fi atinse fără probleme, traficul fiind minim. Aerul clar de iarnă asigură o vizibilitate mare. Ziua se încheie cu o plimbare panoramică la apus.",
+            "en": "The winter car tour reveals the quiet beauty of the Maremma coast. In the morning, a fine mist often sits over the pine forests, clearing at sunrise. At noon, even remote sections are easily accessible as traffic is minimal. The clear winter air ensures long-distance visibility. The day ends with a panoramic drive at sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Residence La Mandorla",
+                "hu": "Residence La Mandorla",
+                "ro": "Residence La Mandorla",
+                "en": "Residence La Mandorla"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann blenden; stellen Sie sicher, dass Ihre Windschutzscheibe sauber ist, um die Architektur ungestört zu betrachten.",
+                "hu": "Az alacsonyan járó nap vakíthat; győződjön meg róla, hogy a szélvédő tiszta, így zavartalanul csodálhatja meg az építészetet.",
+                "ro": "Soarele jos poate fi orbitor; asigurați-vă că parbrizul este curat pentru a admira arhitectura fără perturbări.",
+                "en": "The low sun can be blinding; ensure your windshield is clean to view the architecture without disturbance."
+              }
+            },
+            {
+              "name": {
+                "de": "3 Stelle",
+                "hu": "3 Stelle",
+                "ro": "3 Stelle",
+                "en": "3 Stelle"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den einfachen Zugang im Winter für einen kurzen Fotostopp; die Farben des Strandes wirken bei kühler Luft viel natürlicher.",
+                "hu": "Használja ki a téli könnyű hozzáférést egy rövid fotómegállóhoz; a tengerpart színei a hűvös levegőben sokkal természetesebbnek hatnak.",
+                "ro": "Profitați de accesul ușor iarna pentru o scurtă oprire foto; culorile plajei par mult mai naturale în aerul răcoros.",
+                "en": "Take advantage of the easy access in winter for a quick photo stop; the colors of the beach look much more natural in the cool air."
+              }
+            },
+            {
+              "name": {
+                "de": "Moreno Beach",
+                "hu": "Moreno Beach",
+                "ro": "Moreno Beach",
+                "en": "Moreno Beach"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen; genießen Sie die absolute Stille der Natur durch das geöffnete Fenster bei einer kurzen Rast.",
+                "hu": "Ne járassa feleslegesen a motort; élvezze a természet tökéletes csendjét a lehúzott ablakon keresztül egy rövid pihenő során.",
+                "ro": "Nu lăsați motorul pornit inutil; bucurați-vă de liniștea absolută a naturii prin fereastra deschisă în timpul unui scurt popas.",
+                "en": "Don't leave the engine idling unnecessarily; enjoy the absolute silence of nature through the open window during a brief rest."
+              }
+            },
+            {
+              "name": {
+                "de": "San Rocco",
+                "hu": "San Rocco",
+                "ro": "San Rocco",
+                "en": "San Rocco"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind direkt vor der Tür reichlich vorhanden; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung ohne Zeitdruck.",
+                "hu": "Közvetlenül az ajtó előtt bőségesen talál parkolóhelyet; használja ki az időt egy alapos belső megtekintésre időnyomás nélkül.",
+                "ro": "Locurile de parcare sunt abundente chiar în fața ușii; folosiți timpul pentru o vizitare detaliată a interiorului fără presiunea timpului.",
+                "en": "Parking spaces are plentiful right in front of the door; take your time for a thorough interior tour without any time pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Tropical",
+                "hu": "Bagno Tropical",
+                "ro": "Bagno Tropical",
+                "en": "Bagno Tropical"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenwind kann im Winter sehr stark sein; prüfen Sie beim Öffnen der Autotür den Winddruck, um Schäden zu vermeiden.",
+                "hu": "A tengerparti szél télen nagyon erős lehet; az ajtó nyitásakor ellenőrizze a szélnyomást, hogy elkerülje a sérüléseket.",
+                "ro": "Vântul de coastă poate fi foarte puternic iarna; verificați presiunea vântului când deschideți portiera pentru a evita daunele.",
+                "en": "The coastal wind can be very strong in winter; check the wind pressure when opening the car door to avoid damage."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagno Granduca",
+                "hu": "Bagno Granduca",
+                "ro": "Bagno Granduca",
+                "en": "Bagno Granduca"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das faszinierende Spiel der Wellen; im Winter sind die Stürme öfter zu sehen und bieten ein beeindruckendes Naturschauspiel.",
+                "hu": "Figyelje a hullámok lenyűgöző játékát; télen gyakrabban láthatók viharok, melyek lenyűgöző természeti látványosságot nyújtanak.",
+                "ro": "Urmăriți jocul fascinant al valurilor; iarna furtunile sunt mai frecvente și oferă un spectacol natural impresionant.",
+                "en": "Watch the fascinating play of the waves; storms are more common in winter, providing an impressive natural spectacle."
+              }
+            }
+          ]
+        }
       }
     }
   }

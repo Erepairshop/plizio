@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Pula történelmi szívében. Egy rövid séta elvezeti a lenyűgöző San Giovanni Battista templomhoz, majd a régészeti múzeumhoz, ahol elmerülhet Nora gazdag és izgalmas történelmében.\nDél körül sétáljon tovább a bájos San Raimondo Nonnato templomhoz. Élvezze a csendes légkört távol a tömegtől, mielőtt felfedezné a helyi kultúrát a közeli Teatro Maria Carta épületénél.\nDélután hagyja maga mögött a központot, és sétáljon kényelmesen a tengerpart irányába. A város körüli természet arra csábít, hogy mélyen beszívja a mediterrán levegőt és gyönyörködjön a tájban.\nA nap idillien ér véget a Su Stangioni Foxi Niedda vizes élőhelyeinél. Itt megfigyelheti a változatos madárvilágot, és élvezheti a festői naplementét a szardíniai táj felett.",
         "ro": "Începeți ziua în inima istorică a orașului Pula. O scurtă plimbare vă duce la impresionanta Biserică San Giovanni Battista și apoi la muzeul arheologic, unde vă veți cufunda în istoria Norei.\nPână la prânz, plimbați-vă pe îndelete până la fermecătoarea Biserică San Raimondo Nonnato. Bucurați-vă de atmosfera liniștită înainte de a descoperi cultura locală la Teatro Maria Carta.\nDupă-amiaza, lăsați centrul în urmă și mergeți confortabil spre coastă. Natura din jurul orașului vă invită să respirați adânc aerul mediteranean și să vă bucurați cu adevărat de peisaj.\nZiua se termină idilic în zonele umede de la Su Stangioni Foxi Niedda. Aici puteți observa viața diversă a păsărilor și puteți lăsa apusul pitoresc peste peisajul sardinian să vă fascineze.",
         "en": "Start your day in the historic heart of Pula. A very short walk takes you to the impressive Church of San Giovanni Battista and then to the archaeological museum to dive into Nora's deep history.\nAround midday, stroll leisurely to the charming Church of San Raimondo Nonnato. Enjoy the remarkably quiet atmosphere away from the hustle before discovering the local culture at Teatro Maria Carta.\nIn the afternoon, leave the bustling center behind and walk comfortably towards the lovely coast. The nature surrounding the town invites you to breathe in the Mediterranean air.\nThe day ends in the wetlands of Su Stangioni Foxi Niedda. Here you can observe the diverse birdlife and simply let the picturesque sunset over the wild Sardinian landscape work its magic on you."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Pula beginnt unter grauem Himmel, wobei die Kirchen ersten Schutz bieten. Mittags lädt das archäologische Museum zu einer Zeitreise ein, während es draußen regnet. Am Nachmittag zeigt die Lagune ihre mystische, neblige Seite; wasserfeste Kleidung ist hier unerlässlich. Der Abend klingt in der Nähe des Theaters aus, wenn die nassen Pflastersteine die Lichter der Stadt reflektieren.",
+            "hu": "A reggel esős Pula ódon központjában kezdődik, ahol a templomok nyújtanak elsőként menedéket. Délben a múzeum belső tereiben kalandozhatunk a vihar elől. Délután a lagúnák mentén a ködös táj misztikus arcát mutatja, de vízálló cipő kötelező. Estére a város fényeiben és a színház környékén zárjuk a napot, figyelve a csúszós macskakövekre, miközben a tengeri szél fújja az esőt.",
+            "ro": "Dimineața în Pula începe sub un cer gri, unde bisericile istorice oferă primul adăpost. La prânz, muzeul arheologic vă invită la o incursiune în istorie în timp ce afară plouă. După-amiaza, plimbarea spre lagună dezvăluie un peisaj mistic și cețos; echipamentul impermeabil este esențial. Seara se încheie lângă teatru, când pietrele umede reflectă luminile calde ale orașului.",
+            "en": "Morning in Pula starts with grey skies, where historic churches provide the first dry shelter. By noon, the archaeological museum offers a deep dive into history while the rain pours outside. In the afternoon, the walk toward the lagoon reveals a moody, misty landscape; waterproof gear is essential for the trails. The evening concludes near the theater as the wet cobblestones reflect the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocke Innenausstattung der Kirche, die einen ruhigen Zufluchtsort vor dem Regen bietet; schütteln Sie Ihren Schirm am Eingang gut ab.",
+                "hu": "Csodálja meg a templom barokk belső díszítését, amely esős időben meghitt menedéket nyújt a hűvös szél elől; a bejáratnál rázza le alaposan az esernyőjét.",
+                "ro": "Admirați decorațiunile baroce din interiorul bisericii, care oferă un refugiu liniștit împotriva ploii; scuturați bine umbrela la intrare pentru siguranță.",
+                "en": "Admire the church's baroque interior decorations, which provide a cozy refuge from the rain and wind; remember to shake your umbrella thoroughly at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico Archeologico Giovanni Patroni",
+                "hu": "Museo Civico Archeologico Giovanni Patroni",
+                "ro": "Museo Civico Archeologico Giovanni Patroni",
+                "en": "Museo Civico Archeologico Giovanni Patroni"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Regenwetter, um die Funde aus der antiken Stadt Nora im Trockenen zu studieren; das Museum ist der ideale Ort für einen längeren Aufenthalt.",
+                "hu": "Használja ki az esős időt az ókori Nora városából származó leletek alapos tanulmányozására a száraz fedél alatt; a múzeum tökéletes hely a hosszabb időzésre.",
+                "ro": "Profitați de vremea ploioasă pentru a studia artefactele din orașul antic Nora la adăpost; muzeul este locația ideală pentru o vizită prelungită și educativă.",
+                "en": "Take advantage of the rainy weather to study the artifacts from ancient Nora in the dry indoors; the museum is the perfect spot for a more relaxed, longer visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Raimondo Nonnato",
+                "hu": "Chiesa di San Raimondo Nonnato",
+                "ro": "Chiesa di San Raimondo Nonnato",
+                "en": "Chiesa di San Raimondo Nonnato"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein wunderbarer Ort für eine kurze Pause im Trockenen; achten Sie auf die rutschigen Stufen vor dem Eingang bei nassen Bedingungen.",
+                "hu": "Ez a kis templom csodálatos hely egy rövid száraz pihenőre; ügyeljen a bejárat előtti lépcsőkre, amelyek esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Această mică biserică este un loc minunat pentru o scurtă pauză la uscat; atenție la treptele de la intrare care pot deveni foarte alunecoase pe ploaie.",
+                "en": "This small church is a wonderful spot for a brief dry break; be careful with the entrance steps, as they can become quite slippery in wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Maria Carta",
+                "hu": "Teatro Maria Carta",
+                "ro": "Teatro Maria Carta",
+                "en": "Teatro Maria Carta"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Kulturzentrum, um mehr über die sardische Musiklegende zu erfahren; im Inneren sind Sie sicher vor den plötzlichen Regenschauern geschützt.",
+                "hu": "Látogasson el ebbe a kulturális központba, hogy megismerje a szardíniai zenei legendát; a belső terekben biztos védelmet talál a hirtelen záporok elől.",
+                "ro": "Vizitați acest centru cultural pentru a afla mai multe despre legenda muzicii sarde; în interior sunteți protejat de aversa de ploaie neașteptată.",
+                "en": "Visit this cultural center to learn about the Sardinian music legend; the indoor spaces offer reliable protection from any sudden rain showers outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Stangioni Foxi Niedda",
+                "hu": "Su Stangioni Foxi Niedda",
+                "ro": "Su Stangioni Foxi Niedda",
+                "en": "Su Stangioni Foxi Niedda"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Vögel in der Lagune unter einem wasserdichten Umhang; die Wege können schlammig sein, daher sind feste Wanderschuhe sehr ratsam.",
+                "hu": "Figyelje meg a lagúna madárvilágát egy vízhatlan esőköpeny alatt; az utak sárosak lehetnek, ezért a zárt túrabakancs viselete erősen ajánlott.",
+                "ro": "Observați păsările din lagună purtând o pelerină impermeabilă; potecile pot fi noroioase, deci încălțămintea de drumeție rezistentă este recomandată.",
+                "en": "Observe the lagoon's birdlife from under a waterproof poncho; the paths may be muddy, so wearing sturdy hiking boots is highly recommended for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Pula ist erfrischend kühl; Zwiebellook ist unter den Palmen ideal. Mittags wärmt die milde Sonne, doch im Schatten weht eine kühle Brise vom Meer. Am Nachmittag sollte man zügig zu den Lagunen wandern, da die Sonne gegen 17:00 Uhr untergeht. Der Abend endet auf der beleuchteten Piazza, wo der Duft von gerösteten Kastanien in der Luft liegt.",
+            "hu": "A téli reggel frissítően hűvös a pálmafák alatt, réteges öltözet ajánlott. Délben a napsütés még kellemes, de az árnyékban már érezni a fagyos tengeri szellőt. Délután sietnünk kell a lagúnákhoz, mert a nap korán, 17:00 körül lebukik. Az estét a hangulatosan kivilágított főtéren zárjuk, ahol a sós tengeri levegő és a nyugalom uralkodik.",
+            "ro": "O dimineață de iarnă în Pula este răcoritoare; vestimentația în straturi este ideală sub palmieri. La prânz soarele este blând, dar la umbră se simte briza rece. După-amiaza trebuie să grăbiți pasul spre lagune, deoarece soarele apune devreme, în jur de ora 17:00. Seara se încheie în piața iluminată, unde domnește o liniște specifică sezonului.",
+            "en": "A winter morning in Pula is refreshingly crisp; layered clothing is ideal under the palm trees. At noon, the sun is mild, but a cool sea breeze lingers in the shade. In the afternoon, head to the lagoons early, as the sun sets around 17:00 in winter. The evening ends in the charmingly lit main square, where the salty air mixes with a peaceful atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die spirituelle Wärme und die Stille der Nebensaison; im Winter ist die Kirche weniger besucht und bietet einen Ort der inneren Ruhe.",
+                "hu": "Élvezze a templom spirituális melegét és a főszezonon kívüli csendet; télen a látogatók hiánya miatt mélyebb áhítatban lehet része a falak között.",
+                "ro": "Bucurați-vă de căldura spirituală și liniștea din afara sezonului; iarna biserica este mai puțin aglomerată, oferind un moment de reflecție profundă.",
+                "en": "Enjoy the spiritual warmth and the off-season silence; in winter, the lack of crowds allows for a deeper appreciation of the quiet interior space."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico Archeologico Giovanni Patroni",
+                "hu": "Museo Civico Archeologico Giovanni Patroni",
+                "ro": "Museo Civico Archeologico Giovanni Patroni",
+                "en": "Museo Civico Archeologico Giovanni Patroni"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Räume des Museums sind perfekt, um den kühlen Vormittag zu überbrücken; bewundern Sie die antiken Schätze ohne sommerliche Menschenmassen.",
+                "hu": "A múzeum fűtött termei tökéletesek a hűvös délelőtt eltöltésére; csodálja meg az antik kincseket a nyári tömeg és sorban állás nélkül.",
+                "ro": "Sălile încălzite ale muzeului sunt perfecte pentru a petrece dimineața răcoroasă; admirați comorile antice fără aglomerația și cozile din timpul verii.",
+                "en": "The museum's heated rooms are perfect for spending a chilly morning; admire the ancient treasures without the summer crowds or long waiting times."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Raimondo Nonnato",
+                "hu": "Chiesa di San Raimondo Nonnato",
+                "ro": "Chiesa di San Raimondo Nonnato",
+                "en": "Chiesa di San Raimondo Nonnato"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Fassade dieser kleinen Kirche besonders schön; ein idealer Fotostopp vor der frühen Dämmerung.",
+                "hu": "Az alacsonyan járó téli napfény különlegesen világítja meg a kis templom homlokzatát; ideális fotómegálló a korai sötétedés előtt.",
+                "ro": "Lumina soarelui de iarnă luminează spectaculos fațada acestei mici biserici; este o oprire ideală pentru fotografii înainte de apusul timpuriu.",
+                "en": "The low winter sun illuminates the facade of this small church beautifully; it is an ideal photo stop before the early darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Maria Carta",
+                "hu": "Teatro Maria Carta",
+                "ro": "Teatro Maria Carta",
+                "en": "Teatro Maria Carta"
+              },
+              "tip_5lang": {
+                "de": "Informieren Sie sich über winterliche Indoor-Veranstaltungen, die oft das lokale Leben widerspiegeln; tragen Sie eine warme Jacke für den Weg dorthin.",
+                "hu": "Tájékozódjon a téli beltéri rendezvényekről, amelyek ilyenkor a helyi közösségi élet központjai; a rövid séta alatt viseljen szélálló kabátot.",
+                "ro": "Informați-vă despre evenimentele de iarnă în interior, care reflectă viața comunității locale; purtați o jachetă groasă pentru scurta plimbare.",
+                "en": "Inquire about winter indoor events, which are the heart of local community life during this season; wear a windproof jacket for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Stangioni Foxi Niedda",
+                "hu": "Su Stangioni Foxi Niedda",
+                "ro": "Su Stangioni Foxi Niedda",
+                "en": "Su Stangioni Foxi Niedda"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der Goldenen Stunde ist im Winter schon gegen 16:30 Uhr; bringen Sie ein Fernglas mit, um die Wintergäste in der Lagune zu beobachten.",
+                "hu": "A téli aranyóra fényei már délután fél ötkor megjelennek a lagúna felett; vigyen távcsövet a nálunk telelő madárfajok megfigyeléséhez.",
+                "ro": "Luminile orei de aur apar iarna încă de la ora 16:30 deasupra lagunei; aduceți un binoclu pentru a observa speciile de păsări care iernează aici.",
+                "en": "The winter golden hour starts as early as 16:30 over the lagoon; bring binoculars to observe the various bird species that winter in this habitat."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a kerékpártúrát a központban lévő régészeti múzeumnál, mielőtt északkelet felé indulna. A lenyűgöző Nuraghe Furcadizzo bepillantást enged a sziget izgalmas történelem előtti korszakaiba.\nDélben a közeli Spiaggia di Furcadizzu finom homokjával és tiszta vizével csábít. Élvezze a frissítő pihenőt a tengerparton, és hagyja, hogy a szardíniai nap sugarai feltöltsék energiával.\nDélután tekerjen lazán a part menti vizes élőhelyek mellett egészen Is Figusig. A sós tengeri szellő és a gazdag növényvilág ezt a festői utat valóban felejthetetlen vizuális élménnyé teszi.\nKora este érkezik meg a történelmi Sant'Efisio szentélyhez és a pulai akváriumhoz. Ez egy tökéletes befejezés a régió színes és különleges tengeri élővilágának megismeréséhez.",
         "ro": "Începeți turul cu bicicleta la muzeul arheologic din centru, înainte de a pedala rapid spre nord-est. Fascinantul Nuraghe Furcadizzo vă oferă o perspectivă inedită asupra timpurilor preistorice.\nLa prânz, plaja din apropiere Spiaggia di Furcadizzu vă atrage cu nisip fin și apă limpede. Bucurați-vă de o pauză răcoritoare la mare și lăsați-vă sufletul să se relaxeze sub soarele sardinian.\nDupă-amiaza, mergeți relaxat de-a lungul zonelor umede de coastă până la Is Figus. Briza sărată și flora foarte bogată fac din acest traseu extrem de pitoresc o experiență cu totul de neuitat.\nSpre seară, ajungeți la sanctuarul istoric Sant'Efisio și la interesantul Acvariu din Pula. Un final perfect pentru a cunoaște și admira diversitatea marină fabuloasă a acestei regiuni.",
         "en": "Start your exciting bike tour at the archaeological museum in the center before pedaling briskly towards the northeast. The fascinating Nuraghe Furcadizzo offers a glimpse into prehistoric times.\nAt lunchtime, the nearby Spiaggia di Furcadizzu attracts visitors with its fine sand and clear water. Enjoy a refreshing break by the sea and let your soul relax under the warm Sardinian sun.\nIn the afternoon, ride easily along the beautiful coastal wetlands all the way down to Is Figus. The salty breeze and the rich local flora make this scenic route an unforgettable experience.\nTowards the evening, you will reach the historic Sant'Efisio sanctuary and the exciting Pula Aquarium. A truly perfect ending to get to know the magnificent marine diversity of the region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Pulas glatten Wegen. Der Vormittag im Museum bietet eine trockene Pause. Mittags führen die Küstenwege an der rauen See entlang, wo man die Gischt spüren kann. Am Nachmittag bieten Kirchen Schutz vor Schauern. Der Tag endet im Aquarium, wo man trockenen Fußes die Unterwasserwelt bewundern kann, bevor es dunkel wird.",
+            "hu": "Az esőben való kerékpározás fokozott figyelmet igényel Pula csúszós útjain. A délelőtt a múzeumban száraz menedéket ad. Délben a parti utak mentén érezni a tenger sós permetét a szélben. Délután a templomok nyújtanak védelmet a záporok elől. A nap az akváriumban ér véget, ahol szárazon csodálhatjuk a víz alatti világot.",
+            "ro": "Ciclismul pe ploaie necesită atenție sporită pe drumurile din Pula. Dimineața la muzeu oferă o pauză uscată. La prânz, drumurile de coastă vă permit să simțiți briza sărată. După-amiaza, bisericile oferă protecție împotriva averselor. Ziua se încheie la acvariu, unde puteți admira lumea subvaticană fără a vă uda.",
+            "en": "Cycling in the rain requires extra caution on Pula's slippery roads. The morning at the museum provides a much-needed dry break. At noon, the coastal paths let you feel the salt spray in the wind. In the afternoon, local churches offer shelter from passing showers. The day ends at the aquarium, where you can admire the underwater world while staying dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Civico Archeologico Giovanni Patroni",
+                "hu": "Museo Civico Archeologico Giovanni Patroni",
+                "ro": "Museo Civico Archeologico Giovanni Patroni",
+                "en": "Museo Civico Archeologico Giovanni Patroni"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die Ausstellung im Trockenen; nutzen Sie die Zeit, bis der stärkste Regen nachlässt.",
+                "hu": "Parkolja le kerékpárját védett helyen, és élvezze a kiállítást a szárazban; használja ki az időt, amíg a legerősebb eső alábbhagy a város felett.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de expoziție la uscat; folosiți timpul până când ploaia torențială se mai domolește puțin.",
+                "en": "Park your bike in a sheltered spot and enjoy the indoor exhibits; use this time to wait for the heaviest rain to pass before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Furcadizzo",
+                "hu": "Nuraghe Furcadizzo",
+                "ro": "Nuraghe Furcadizzo",
+                "en": "Nuraghe Furcadizzo"
+              },
+              "tip_5lang": {
+                "de": "Die Steine des Nuraghen können bei Nässe extrem rutschig sein; tragen Sie Schuhe mit gutem Profil und meiden Sie steile, unbefestigte Pfade.",
+                "hu": "A nuraghe kövei vizesen rendkívül csúszósak lehetnek; viseljen bordázott talpú cipőt, és kerülje a meredek, fövenyes ösvényeket a romoknál.",
+                "ro": "Pietrele nuraghei pot fi extrem de alunecoase când sunt ude; purtați încălțăminte cu talpă aderentă și evitați potecile abrupte și noroioase.",
+                "en": "The stones of the nuraghe can be extremely slippery when wet; wear shoes with good grip and avoid steep, unpaved paths around the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Furcadizzu",
+                "hu": "Spiaggia di Furcadizzu",
+                "ro": "Spiaggia di Furcadizzu",
+                "en": "Spiaggia di Furcadizzu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des grauen Meeres von einem überdachten Punkt aus; achten Sie auf den Sand, der auf dem nassen Asphalt rutschig wirkt.",
+                "hu": "Élvezze a szürke tenger látványát egy fedett pontról; ügyeljen a vizes aszfaltra mosott homokra, amely a kanyarokban könnyen megcsúsztathatja.",
+                "ro": "Bucurați-vă de vederea mării gri dintr-un punct acoperit; atenție la nisipul de pe asfaltul ud, care poate face virajele periculoase pe bicicletă.",
+                "en": "Enjoy the view of the grey sea from a sheltered vantage point; watch out for sand on the wet asphalt, which can make bike turns quite hazardous."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Stangioni Foxi Lino",
+                "hu": "Su Stangioni Foxi Lino",
+                "ro": "Su Stangioni Foxi Lino",
+                "en": "Su Stangioni Foxi Lino"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune wirkt im Regen melancholisch und schön; bleiben Sie auf den befestigten Wegen, um nicht im weichen Boden steckenzubleiben.",
+                "hu": "A lagúna esőben melankolikus és lenyűgöző látványt nyújt; maradjon a kövezett utakon, hogy elkerülje az elakadást a felázott talajon.",
+                "ro": "Laguna oferă o vedere melancolică și frumoasă pe ploaie; rămâneți pe drumurile pavate pentru a evita împotmolirea în solul moale și ud.",
+                "en": "The lagoon looks melancholic and beautiful in the rain; stay on the paved paths to avoid getting stuck in the softened, muddy ground nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Is Figus",
+                "hu": "Is Figus",
+                "ro": "Is Figus",
+                "en": "Is Figus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die natürliche Vegetation als kurzen Windschutz; prüfen Sie Ihre Bremsen regelmäßig, da Nässe die Bremswirkung Ihres Rades verzögern kann.",
+                "hu": "Használja a sűrűbb növényzetet rövid szélfogónak; ellenőrizze gyakran a fékeit, mivel a vizes abroncsok miatt a féktávolság jelentősen megnőhet.",
+                "ro": "Folosiți vegetația densă ca adăpost temporar împotriva vântului; verificați frânele des, deoarece umiditatea poate reduce eficiența acestora.",
+                "en": "Use the denser vegetation as a temporary windbreak; check your brakes frequently, as wet rims can significantly increase your stopping distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Efisio",
+                "hu": "Chiesa di Sant'Efisio",
+                "ro": "Chiesa di Sant'Efisio",
+                "en": "Chiesa di Sant'Efisio"
+              },
+              "tip_5lang": {
+                "de": "Ein geschichtsträchtiger Ort direkt am Meer, der Schutz bietet; achten Sie auf den starken Seewind, der Regen peitschend gegen die Kirche treibt.",
+                "hu": "Történelmi helyszín közvetlenül a tengerparton, amely védelmet nyújt; vigyázzon az erős tengeri széllel, amely az esőt az arcába vághatja.",
+                "ro": "Un loc istoric direct pe malul mării care oferă adăpost; atenție la vântul puternic care poate sufla ploaia direct spre fațada bisericii.",
+                "en": "A historic site right on the shore that offers shelter; watch out for strong sea winds that can whip the rain directly against the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Pula",
+                "hu": "Acquario di Pula",
+                "ro": "Acquario di Pula",
+                "en": "Acquario di Pula"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss eines regnerischen Tages im warmen Inneren; nutzen Sie die Garderobe, um Ihre nasse Regenkleidung vor dem Rundgang abzulegen.",
+                "hu": "A tökéletes lezárása egy esős napnak a meleg belső térben; használja a ruhatárat, hogy levegye a vizes esőkabátot a nézelődés megkezdése előtt.",
+                "ro": "Finalul perfect al unei zile ploioase în interiorul cald; folosiți garderoba pentru a lăsa hainele ude înainte de a începe vizitarea acvariului.",
+                "en": "The perfect end to a rainy day in the warm interior; use the cloakroom to take off your wet gear before starting your tour of the aquarium tanks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Pula ist dank milder Temperaturen angenehm. Vormittags wärmt die Sonne im Museum. Mittags bieten die Küstenstraßen klare Sicht bis zum Horizont. Nachmittags ist ein Besuch der historischen Kirchen ideal, bevor die Temperaturen sinken. Da es früh dunkel wird, sollte man den Tag im Aquarium ausklingen lassen, wenn die Stadtlichter angehen.",
+            "hu": "A téli kerékpározás Pula környékén a mértéktartó hőmérséklet miatt kellemes élmény. Délelőtt a múzeum ad meleget. Délben a parti utakról tiszta kilátás nyílik a távoli horizontra. Délután érdemes a templomokat felkeresni, mielőtt lehűl a levegő. A korai sötétedés miatt az akváriumot hagyjuk a nap végére, 17 óra felé.",
+            "ro": "Ciclismul de iarnă în Pula este plăcut datorită temperaturilor blânde. Dimineața, muzeul oferă o atmosferă caldă. La prânz, drumurile de coastă oferă o vizibilitate clară până la orizont. După-amiaza, vizitați bisericile înainte ca temperatura să scadă. Deoarece se întunecă devreme, lăsați acvariul pentru finalul zilei.",
+            "en": "Winter cycling in Pula is enjoyable thanks to the mild Mediterranean temperatures. In the morning, the museum provides warmth. At noon, the coastal roads offer clear views to the horizon. In the afternoon, visit the historic churches before the air cools down. Since it gets dark early, leave the aquarium for the end of the trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Civico Archeologico Giovanni Patroni",
+                "hu": "Museo Civico Archeologico Giovanni Patroni",
+                "ro": "Museo Civico Archeologico Giovanni Patroni",
+                "en": "Museo Civico Archeologico Giovanni Patroni"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach der Fahrt hier auf und nehmen Sie sich Zeit für die Exponate; Winter ist die beste Zeit für einen ruhigen, ungestörten Museumsbesuch.",
+                "hu": "Melegedjen fel a tekerés után, és szánjon időt a tárlatokra; a tél a legjobb időszak egy nyugodt, zavartalan múzeumlátogatáshoz a városban.",
+                "ro": "Încălziți-vă după plimbare și acordați-vă timp pentru exponate; iarna este cel mai bun moment pentru o vizită liniștită la muzeu, fără aglomerație.",
+                "en": "Warm up here after your ride and take your time with the exhibits; winter is the best season for a peaceful, undisturbed museum visit in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Furcadizzo",
+                "hu": "Nuraghe Furcadizzo",
+                "ro": "Nuraghe Furcadizzo",
+                "en": "Nuraghe Furcadizzo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft bei den Ruinen; bringen Sie Handschuhe mit, da der Lenker bei der Abfahrt in der kühlen Brise sehr kalt werden kann.",
+                "hu": "Élvezze a tiszta téli levegőt a romoknál; vigyen kesztyűt, mert a lejtőn lefelé a menetszélben a kormány nagyon lehűtheti az ujjait a hidegben.",
+                "ro": "Bucurați-vă de aerul curat de iarnă la ruine; aduceți mănuși, deoarece ghidonul poate deveni foarte rece în briza răcoroasă din timpul coborârii.",
+                "en": "Enjoy the crisp winter air at the ruins; bring gloves, as the bike handlebars can get very cold during the descent in the cool winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Furcadizzu",
+                "hu": "Spiaggia di Furcadizzu",
+                "ro": "Spiaggia di Furcadizzu",
+                "en": "Spiaggia di Furcadizzu"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer und bietet meditative Ruhe; tragen Sie ein Stirnband unter dem Helm gegen den kühlen Seewind beim Radeln.",
+                "hu": "A strand télen szinte teljesen néptelen, meditatív nyugalmat áraszt; viseljen fejpántot a sisak alatt a hűvös tengeri szél ellen tekerés közben.",
+                "ro": "Plaja este aproape pustie iarna, oferind o liniște meditativă; purtați o bentiță sub cască împotriva vântului rece de mare în timp ce pedalați.",
+                "en": "The beach is almost deserted in winter, offering meditative peace; wear a headband under your helmet to protect against the cool sea breeze while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Su Stangioni Foxi Lino",
+                "hu": "Su Stangioni Foxi Lino",
+                "ro": "Su Stangioni Foxi Lino",
+                "en": "Su Stangioni Foxi Lino"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Flamingos, die oft im flachen Winterwasser stehen; die kühlen Temperaturen halten die Insekten fern, was die Fahrt angenehmer macht.",
+                "hu": "Figyelje meg a flamingókat, amelyek gyakran láthatók a sekély téli vízben; a hűvös idő távol tartja a rovarokat, így a biciklizés még élvezetesebb.",
+                "ro": "Observați flamingii care stau adesea în apa puțin adâncă iarna; temperaturile scăzute țin insectele la distanță, făcând plimbarea mai plăcută.",
+                "en": "Observe the flamingos often found in the shallow winter waters; the cool temperatures keep insects away, making your bike ride much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Is Figus",
+                "hu": "Is Figus",
+                "ro": "Is Figus",
+                "en": "Is Figus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für eine kurze Rast im Freien; die tiefstehende Sonne bietet wunderbare Lichtspiele zwischen den mediterranen Büschen.",
+                "hu": "Használja ki a déli napsütést egy rövid szabadtéri pihenőre; az alacsony napállás csodás fényjátékot produkál a mediterrán bokrok ágai között.",
+                "ro": "Profitați de soarele de la prânz pentru o scurtă pauză în aer liber; soarele jos oferă jocuri de lumină superbe printre tufele mediteraneene.",
+                "en": "Take advantage of the midday sun for a brief outdoor rest; the low sun creates wonderful light patterns among the branches of the Mediterranean shrubs."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Efisio",
+                "hu": "Chiesa di Sant'Efisio",
+                "ro": "Chiesa di Sant'Efisio",
+                "en": "Chiesa di Sant'Efisio"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe dieses Ortes ist im Winter besonders spürbar; besuchen Sie die Kirche vor 16:30 Uhr, um das letzte Tageslicht auf dem Meer zu erleben.",
+                "hu": "A hely szentsége és nyugalma télen még inkább érezhető; látogassa meg a templomot délután fél öt előtt, hogy lássa az utolsó fényeket a tengeren.",
+                "ro": "Liniștea acestui loc este deosebit de perceptibilă iarna; vizitați biserica înainte de 16:30 pentru a vedea ultima lumină a zilei peste mare.",
+                "en": "The peace of this site is particularly palpable in winter; visit the church before 16:30 to experience the last daylight reflecting off the sea surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Pula",
+                "hu": "Acquario di Pula",
+                "ro": "Acquario di Pula",
+                "en": "Acquario di Pula"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, wenn es draußen gegen 17:00 Uhr dunkel wird; die warmen Innenräume sind eine Wohltat für Radfahrer nach einem langen Tag an der Luft.",
+                "hu": "Ideális helyszín, amikor kint 17 óra körül sötétedni kezd; a meleg belső terek igazi felüdülést jelentenek a bringásoknak a kinti hideg után.",
+                "ro": "Locul ideal când afară începe să se întunece în jur de ora 17:00; spațiile interioare calde sunt o binecuvântare pentru bicicliști după o zi lungă.",
+                "en": "The ideal spot when it starts getting dark outside around 17:00; the warm interiors are a treat for cyclists after a long day in the fresh winter air."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós túrája északon, a családbarát Spiaggia di Porto Columbu strandon kezdődik. Egy frissítő tengerparti látogatás után egy rövid utat tesz meg a lenyűgöző Nuraghe Furcadizzo ősi tornyához.\nDélben eléri Pula pezsgő központját. Látogassa meg a San Giovanni Battista templomot, majd vezessen kényelmesen tovább a város szélén található festői Madonna della Consolazione templomhoz.\nA délután a bájos déli vidékre vezet. Az Is Figus természetes oázisa csodálatos hátteret biztosít egy rövid pihenőhöz, mielőtt tovább utazna a Nora közelében fekvő spirituális központhoz.\nZárja a napot a tengerparton a történelmi Sant'Efisio templom és az akvárium meglátogatásával. A mély történelem és a lenyűgöző tengeri természet ezen keveréke tökéletes finálét alkot.",
         "ro": "Turul auto începe în nord, la plaja prietenoasă Spiaggia di Porto Columbu. După o vizită revigorantă la plajă, veți conduce o distanță scurtă până la impresionantul Nuraghe Furcadizzo de aici.\nLa prânz ajungeți în centrul orașului Pula. Vizitați Biserica San Giovanni Battista și apoi mergeți confortabil mai departe spre pitoreasca Madonna della Consolazione situată la marginea orașului.\nDupă-amiaza vă poartă în sudul cel fermecător. Oaza naturală Is Figus oferă un cadru minunat pentru o scurtă pauză, înainte de a continua spre centrul spiritual aflat destul de aproape de Nora.\nÎncheiați ziua pe frumoasa coastă cu o vizită la biserica istorică Sant'Efisio și la acvariu. Acest amestec fabulos de istorie profundă și natură marină fascinantă formează un final absolut perfect.",
         "en": "Your car tour starts in the north at the family-friendly Spiaggia di Porto Columbu. After a refreshing beach visit, you'll drive a very short distance to the impressive Nuraghe Furcadizzo.\nAt noon you will seamlessly reach the center of Pula. Visit the Church of San Giovanni Battista and then drive comfortably on to the picturesque Madonna della Consolazione just outside the town.\nThe afternoon takes you quickly to the charming south. The natural oasis of Is Figus offers a wonderful backdrop for a short break before continuing to the ancient spiritual center near Nora.\nEnd your day on the beautiful coast with a visit to the historic Sant'Efisio church and the aquarium. This fantastic mixture of deep history and fascinating marine nature forms a perfect finale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto lässt sich Pula auch bei starkem Regen entspannt erkunden. Der Vormittag am Strand bietet dramatische Ausblicke aus dem trockenen Fahrzeug. Mittags führen kurze Wege zwischen Kirchen und Museen durch die nassen Gassen. Nachmittags ist die Fahrt zu den Küstenpunkten sicher und komfortabel. Der Tag endet bequem im Aquarium, während der Regen gegen die Panoramascheiben trommelt.",
+            "hu": "Autóval Pula esőben is kényelmesen felfedezhető, a száraz utastér védelmet ad. A délelőtti tengerparti látvány drámai a szélvédő mögül nézve. Délben a templomok és múzeumok közötti rövid távok alatt alig ér minket az eső. Délután a távolabbi pontok is biztonságban elérhetők. A nap az akváriumban zárul, miközben az eső a panorámaablakokon kopog.",
+            "ro": "Cu mașina, Pula poate fi explorată relaxat chiar și pe ploaie torențială. Dimineața la plajă oferă vederi dramatice din interiorul uscat al vehiculului. La prânz, drumurile scurte între biserici și muzee vă feresc de umezeală. După-amiaza, deplasarea spre coastă este sigură și confortabilă. Ziua se încheie la acvariu, în timp ce ploaia bate în geamuri.",
+            "en": "Exploring Pula by car is relaxing even during heavy rain, as the cabin keeps you dry. The morning views of the stormy coast are dramatic from behind the windshield. At noon, short drives between churches and museums minimize your exposure to the wet weather. In the afternoon, reaching distant coastal spots is safe and easy. The day ends comfortably at the aquarium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Porto Columbu",
+                "hu": "Spiaggia di Porto Columbu",
+                "ro": "Spiaggia di Porto Columbu",
+                "en": "Spiaggia di Porto Columbu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das tosende Meer direkt vom Parkplatz aus; bleiben Sie im Auto, wenn der Regen zu stark ist, und beobachten Sie die Brandung aus dem Trockenen.",
+                "hu": "Élvezze a háborgó tenger látványát közvetlenül a parkolóból; maradjon az autóban, ha túl erősen esik, és figyelje a hullámverést a szélvédő mögül.",
+                "ro": "Bucurați-vă de marea agitată direct din parcare; rămâneți în mașină dacă plouă prea tare și observați valurile din interiorul uscat și cald.",
+                "en": "Enjoy the view of the stormy sea directly from the parking lot; stay in the car if the rain is too heavy and watch the surf from the dry cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Furcadizzo",
+                "hu": "Nuraghe Furcadizzo",
+                "ro": "Nuraghe Furcadizzo",
+                "en": "Nuraghe Furcadizzo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Zufahrtswegen, die bei Regen rutschig sein können; ein kurzer Sprint bringt Sie zu den Ruinen, wenn der Schauer nachlässt.",
+                "hu": "Vezessen óvatosan a nem aszfaltozott bekötőutakon, amelyek esőben csúszósak lehetnek; várja meg az autóban, amíg a zápor elvonul a romok felől.",
+                "ro": "Conduceți cu atenție pe drumurile de acces neasfaltate care pot fi alunecoase; așteptați în mașină până când aversa trece pentru a vizita ruinele.",
+                "en": "Drive carefully on unpaved access roads, which can get slippery in the rain; wait in the car for a break in the showers before exploring the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Zentrums und nutzen Sie die Kirche als trockenen Rückzugsort; die engen Gassen sind bei Nässe für Fußgänger oft schwierig.",
+                "hu": "Parkoljon a központ közelében, és használja a templomot száraz menedékként; a szűk utcák gyalogosan kellemetlenek lehetnek a szakadó esőben.",
+                "ro": "Parcați aproape de centru și folosiți biserica ca refugiu uscat; străzile înguste pot fi incomode pentru pietoni în timpul unei ploi torențiale.",
+                "en": "Park near the center and use the church as a dry retreat; the narrow streets can be quite unpleasant for pedestrians during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna della Consolazione",
+                "hu": "Chiesa della Madonna della Consolazione",
+                "ro": "Chiesa della Madonna della Consolazione",
+                "en": "Chiesa della Madonna della Consolazione"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, der leicht mit dem Auto erreichbar ist; bewundern Sie die Stille im Inneren, während draußen der Regen gegen die alten Mauern peitscht.",
+                "hu": "Ideális megálló, amely autóval könnyen megközelíthető; csodálja meg a belső csendet, miközben odakint az eső veri az ősi, vastag kőfalakat.",
+                "ro": "O oprire ideală, ușor accesibilă cu mașina; admirați liniștea din interior în timp ce afară ploaia bate în zidurile vechi de piatră ale bisericii.",
+                "en": "An ideal stop easily accessible by car; admire the interior silence while outside the rain lashes against the ancient, thick stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Is Figus",
+                "hu": "Is Figus",
+                "ro": "Is Figus",
+                "en": "Is Figus"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die mediterrane Landschaft durch die Fenster Ihres Wagens; halten Sie an sicheren Stellen an, um Fotos im Regen zu machen.",
+                "hu": "Élvezze a mediterrán táj látványát az autó ablakain keresztül; álljon meg a biztonságos pontokon, hogy képeket készítsen az eső áztatta vidékről.",
+                "ro": "Bucurați-vă de peisajul mediteranean prin geamurile mașinii; opriți în locuri sigure pentru a face fotografii peisajului ud de ploaie.",
+                "en": "Enjoy the Mediterranean landscape through your car windows; pull over at safe spots to take photos of the rain-drenched countryside around you."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Efisio",
+                "hu": "Chiesa di Sant'Efisio",
+                "ro": "Chiesa di Sant'Efisio",
+                "en": "Chiesa di Sant'Efisio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen schnellen Zugang zur Kirche; der Seewind kann bei Regen sehr kühl sein, halten Sie Ihre Jacke im Auto bereit.",
+                "hu": "Használja a közeli parkolót a templom gyors eléréséhez; a tengeri szél esőben nagyon hűvös lehet, tartsa a kabátját kéznél az autóban.",
+                "ro": "Folosiți parcarea apropiată pentru un acces rapid la biserică; vântul de mare poate fi rece pe ploaie, țineți jacheta la îndemână în mașină.",
+                "en": "Use the nearby parking lot for quick access to the church; the sea wind can be very chilly in the rain, so keep your jacket handy in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Pula",
+                "hu": "Acquario di Pula",
+                "ro": "Acquario di Pula",
+                "en": "Acquario di Pula"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour komfortabel im Aquarium; die Parkmöglichkeiten direkt vor Ort machen den Besuch auch bei schlechtem Wetter sehr unkompliziert.",
+                "hu": "Zárja kényelmesen a túrát az akváriumban; a közvetlen helyszíni parkolási lehetőség rossz időben is rendkívül egyszerűvé teszi a látogatást.",
+                "ro": "Încheiați turul confortabil la acvariu; parcarea direct la locație face vizita foarte simplă, chiar și în condiții de vreme nefavorabilă.",
+                "en": "End your tour comfortably at the aquarium; the on-site parking makes visiting very straightforward even during poor weather conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Erkundung Pulas mit dem Auto bietet maximalen Komfort bei kühlen Brisen. Vormittags sind die Strände leer und friedlich. Mittags ist das Parken im Zentrum einfacher als im Sommer, ideal für Kirchenbesuche. Nachmittags führen die Küstenstraßen im warmen Licht der tiefstehenden Sonne entlang. Der Abend endet am Aquarium, wenn die Winterdämmerung einsetzt.",
+            "hu": "A téli Pula felfedezése autóval maximális kényelmet nyújt a hűvös szellőben. Délelőtt a strandok üresek és békések, könnyű megállni a part mellett. Délben a központban is egyszerűbb a parkolás, mint nyáron. Délután a parti utak az alacsonyan járó nap meleg fényeiben tündökölnek. Az estét az akváriumnál zárjuk, a korai szürkületben.",
+            "ro": "Explorarea iernii în Pula cu mașina oferă confort maxim împotriva brizelor reci. Dimineața, plajele sunt pustii și liniștite. La prânz, parcarea în centru este mai ușoară decât vara, ideală pentru vizitarea bisericilor. După-amiaza, drumurile de coastă sunt scăldate în lumina caldă a soarelui jos. Seara se încheie la acvariu.",
+            "en": "Exploring Pula by car in winter offers maximum comfort against the cool Mediterranean breezes. In the morning, the beaches are deserted and peaceful. At noon, parking in the center is easier than in summer, ideal for visiting churches. In the afternoon, coastal roads are bathed in the warm light of the low sun. The day ends at the aquarium."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Porto Columbu",
+                "hu": "Spiaggia di Porto Columbu",
+                "ro": "Spiaggia di Porto Columbu",
+                "en": "Spiaggia di Porto Columbu"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die frische Meeresluft bei einem kurzen Spaziergang ein; die Heizung im Auto sorgt nach der Rückkehr sofort wieder für angenehme Wärme.",
+                "hu": "Szívja be a friss tengeri levegőt egy rövid séta során; az autó fűtése a visszatérés után azonnal gondoskodik a kellemes melegről az utastérben.",
+                "ro": "Inspiră aerul proaspăt de mare în timpul unei scurte plimbări; încălzirea mașinii va asigura o căldură plăcută imediat ce vă întoarceți la vehicul.",
+                "en": "Breathe in the fresh sea air during a short walk on the sand; the car's heater will provide instant warmth as soon as you return to the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Nuraghe Furcadizzo",
+                "hu": "Nuraghe Furcadizzo",
+                "ro": "Nuraghe Furcadizzo",
+                "en": "Nuraghe Furcadizzo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die archaischen Ruinen im klaren Winterlicht; die Zufahrt ist in der Nebensaison frei von touristischem Verkehr und sehr entspannt.",
+                "hu": "Látogassa meg az archaikus romokat a tiszta téli fényben; a bekötőút a holtszezonban mentes a turistaforgalomtól, így a vezetés nagyon pihentető.",
+                "ro": "Vizitați ruinele arhaice în lumina clară de iarnă; drumul de acces este liber de traficul turistic în afara sezonului, fiind o experiență relaxantă.",
+                "en": "Visit the archaic ruins in the clear winter light; the access road is free of tourist traffic in the off-season, making for a very relaxed drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die bessere Parkplatzsituation im Winter direkt im Ortskern; die Kirche bietet eine angenehme Ruhepause fernab der kühlen Außenluft.",
+                "hu": "Használja ki a téli időszak kedvezőbb parkolási lehetőségeit közvetlenül a központban; a templom kellemes pihenőt nyújt a kinti hűvös levegő után.",
+                "ro": "Profitați de situația mai bună a parcărilor iarna, chiar în centrul localității; biserica oferă o pauză plăcută departe de aerul rece de afară.",
+                "en": "Take advantage of the improved parking situation in winter right in the town center; the church offers a pleasant break from the cool outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna della Consolazione",
+                "hu": "Chiesa della Madonna della Consolazione",
+                "ro": "Chiesa della Madonna della Consolazione",
+                "en": "Chiesa della Madonna della Consolazione"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein wunderbarer Ort, um innezuhalten; im Winter ist die Atmosphäre hier besonders andächtig und still, ideal für einen kurzen Stopp.",
+                "hu": "A templom csodálatos hely az elcsendesedéshez; télen az atmoszféra itt különösen áhítatos és néma, ideális egy rövid, megnyugtató megállóra.",
+                "ro": "Biserica este un loc minunat pentru reculegere; iarna, atmosfera aici este deosebit de pioasă și liniștită, ideală pentru o scurtă oprire.",
+                "en": "The church is a wonderful place for contemplation; in winter, the atmosphere here is especially devout and quiet, ideal for a short, calming stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Is Figus",
+                "hu": "Is Figus",
+                "ro": "Is Figus",
+                "en": "Is Figus"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama der winterlichen Macchia vom Auto aus; die tiefstehende Sonne sorgt für lange Schatten und tolle Kontraste in der Natur.",
+                "hu": "Élvezze a téli macchia panorámáját az autóból; az alacsonyan járó nap hosszú árnyékokat és lenyűgöző kontrasztokat hoz létre a természetben.",
+                "ro": "Bucurați-vă de panorama vegetației de iarnă din mașină; soarele jos creează umbre lungi și contraste uimitoare în peisajul natural din jur.",
+                "en": "Enjoy the panorama of the winter macchia from your car; the low sun creates long shadows and stunning contrasts in the natural landscape around you."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Efisio",
+                "hu": "Chiesa di Sant'Efisio",
+                "ro": "Chiesa di Sant'Efisio",
+                "en": "Chiesa di Sant'Efisio"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort am Meer, der im Winter eine ganz eigene Magie entfaltet; achten Sie darauf, vor Sonnenuntergang um 17:00 Uhr hier zu sein.",
+                "hu": "Magányos helyszín a tengerparton, amely télen sajátos mágiát áraszt; ügyeljen rá, hogy a naplemente előtt, 17:00-ig érkezzen meg a parthoz.",
+                "ro": "Un loc solitar la malul mării care iarna emană o magie aparte; asigurați-vă că ajungeți aici înainte de apusul soarelui de la ora 17:00.",
+                "en": "A solitary site by the sea that exudes its own magic in winter; make sure to arrive here before the sun sets around 17:00 for the best light."
+              }
+            },
+            {
+              "name": {
+                "de": "Acquario di Pula",
+                "hu": "Acquario di Pula",
+                "ro": "Acquario di Pula",
+                "en": "Acquario di Pula"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Warmen, wenn es draußen früh dunkel wird; genießen Sie die beleuchteten Becken, während die Winternacht über Pula hereinbricht.",
+                "hu": "A tökéletes lezárás a melegben, amikor kint korán sötétedik; élvezze a kivilágított tartályokat, miközben a téli éjszaka leszáll Pula városára.",
+                "ro": "Finalul perfect la căldură, când afară se întunecă devreme; bucurați-vă de bazinele iluminate în timp ce noaptea de iarnă coboară peste Pula.",
+                "en": "The perfect conclusion in the warmth as it gets dark early; enjoy the illuminated tanks while the winter night falls over the town of Pula."
+              }
+            }
+          ]
+        }
       }
     }
   }

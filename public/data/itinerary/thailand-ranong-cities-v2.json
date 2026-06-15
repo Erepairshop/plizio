@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a fenséges Rattana Rangsarn Trónteremben, ahol felfedezheti a királyi történelmet. Délben a város spirituális központjába, a Városi Oszlopszentélyhez és a színes San Chao Hai Lam-hoz látogat. A délután az autentikus helyi élet felfedezéséről szól a Poomchanok piacon. Az estét a nyüzsgő éjszakai piacon tett fantasztikus kulináris utazással zárhatja.",
         "ro": "Începeți dimineața la majestuoasa Sală a Tronului Rattana Rangsarn pentru a descoperi istoria regală. La prânz, vizitați inima spirituală a orașului la Sanctuarul Pilonului și coloratul San Chao Hai Lam. După-amiaza vă aduce să descoperiți viața locală la Piața Poomchanok. Seara se încheie cu o fantastică călătorie culinară la piața de noapte plină de viață.",
         "en": "Begin your morning at the majestic wooden Rattana Rangsarn Throne Hall to discover royal history. Midday takes you through the spiritual heart of the city at the revered City Pillar Shrine and the colorful San Chao Hai Lam. The afternoon involves discovering authentic local life at Poomchanok Market. Your evening concludes with a fantastic culinary journey at the bustling night market."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im überdachten Thronsaal, um trocken zu bleiben. Mittags navigieren Sie vorsichtig über die nassen, rutschigen Straßen zu den Schreinen. Am Nachmittag bietet der überdachte Markt perfekten Schutz vor starken Schauern. Beenden Sie den Abend auf dem Nachtmarkt und genießen Sie warmes Essen unter den schützenden Zelten der Verkäufer.",
+            "hu": "Kezdd a borongós, esős reggelt a fedett trónteremben, hogy száraz maradj. Délben nagyon óvatosan sétálj a csúszós utakon a helyi szentélyek felé. Délután a hatalmas, fedett piac nyújt tökéletes menedéket a heves záporok elől. Este kóstolj meg mindent a vibráló éjszakai piacon, biztonságban falatozva a színes árusító sátrak és ponyvák alatt.",
+            "ro": "Începeți dimineața ploioasă la sala tronului acoperită pentru a rămâne uscat. La prânz, mergeți cu mare grijă pe străzile ude și alunecoase spre altare. După-amiaza, piața cu acoperiș vă oferă un adăpost perfect împotriva averselor puternice. Încheiați seara la piața de noapte, savurând mâncare caldă sub corturile protectoare ale vânzătorilor.",
+            "en": "Start your rainy morning at the covered throne hall to stay comfortably dry. By midday, carefully navigate the slick, wet streets towards the local shrines. In the afternoon, the roofed market offers perfect shelter from sudden passing downpours. End your evening at the vibrant night market, safely enjoying warm local food under the protective vendor tents."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rattana Rangsarn Thronsaal",
+                "hu": "Rattana Rangsarn Trónterem",
+                "ro": "Sala Tronului Rattana Rangsarn",
+                "en": "Rattana Rangsarn Throne Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Teakholzarchitektur dieses Palastes; das breite Vordach bietet hervorragenden Schutz bei plötzlichen morgendlichen Schauern.",
+                "hu": "Csodáld meg a történelmi palota lenyűgöző faépítészetét; a széles, kinyúló tető kiváló menedéket nyújt a hirtelen lecsapó, heves reggeli záporok elől.",
+                "ro": "Admirați superba arhitectură din lemn a acestui palat; acoperișul larg și proeminent oferă un adăpost excelent în timpul ploilor torențiale de dimineață.",
+                "en": "Admire the gorgeous teakwood architecture of this historical palace; the wide overhanging roof provides excellent shelter during sudden morning downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtsäulen-Schrein",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Sanctuarul Pilonului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Erweisen Sie diesem wichtigen Wahrzeichen Ihren Respekt; achten Sie bei Regen besonders auf Ihre Schritte, da die Marmorflächen extrem rutschig werden.",
+                "hu": "Ródd le tiszteleted a város spirituális központjában; esőben nagyon vigyázz a lépéseidre, mert a díszes márvány és csempe felületek erősen csúsznak.",
+                "ro": "Arătați-vă respectul la acest important punct de reper local; fiți foarte atenți la pașii dumneavoastră, deoarece suprafețele de marmură devin alunecoase.",
+                "en": "Pay your respects at this important local spiritual landmark; watch your step carefully on the wet marble and tile surfaces as they become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "San Chao Hai Lam",
+                "hu": "San Chao Hai Lam",
+                "ro": "San Chao Hai Lam",
+                "en": "San Chao Hai Lam"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die farbenfrohen Details dieses chinesischen Schreins; er ist ein fantastischer überdachter Zufluchtsort, um starke Regengüsse abzuwarten.",
+                "hu": "Fedezd fel a kínai szentély bámulatos és színes részleteit; remek és hangulatos beltéri menedék, amíg kint elmúlik a legújabb heves trópusi zivatar.",
+                "ro": "Explorați detaliile colorate ale acestui altar chinezesc; este un refugiu interior fantastic pentru a aștepta trecerea averselor puternice de ploaie.",
+                "en": "Explore the colorful details of this atmospheric Chinese shrine; it serves as a fantastic indoor refuge to comfortably wait out passing heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Poomchanok Markt",
+                "hu": "Poomchanok Piac",
+                "ro": "Piața Poomchanok",
+                "en": "Poomchanok Market"
+              },
+              "tip_5lang": {
+                "de": "Stöbern Sie durch frische Produkte und lokale Waren; die großzügig überdachten Bereiche halten Sie beim Einkaufen von authentischen Thai-Artikeln trocken.",
+                "hu": "Böngéssz a helyi áruk és friss termékek hatalmas kínálatában; a fedett részek alatt teljesen szárazon maradhatsz az autentikus vásárlás során.",
+                "ro": "Căutați produse proaspete și bunuri locale; secțiunile cu acoperiș vă mențin perfect uscat în timp ce faceți cumpărături pentru articole thailandeze.",
+                "en": "Browse through fresh produce and local goods; the generously roofed sections keep you perfectly dry while you shop for authentic regional Thai items."
+              }
+            },
+            {
+              "name": {
+                "de": "Nacht-Lebensmittelmarkt",
+                "hu": "Éjszakai élelmiszerpiac",
+                "ro": "Piața de noapte cu alimente",
+                "en": "Night food market"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie erstaunliches Streetfood unter dem bunten Baldachin der Zelte; ein leichter Regenmantel ist hier dennoch sehr zu empfehlen für den Weg.",
+                "hu": "Kóstolj meg fantasztikus utcai ételeket a színes sátrak és napernyők védelmében; egy könnyű esőkabát viselése nagyon hasznos a standok közötti sétához.",
+                "ro": "Gustați mâncare de stradă uimitoare sub copertina corturilor colorate; purtarea unei pelerine de ploaie ușoare este foarte recomandată aici seara.",
+                "en": "Taste amazing street food under the protective canopy of colorful tents and umbrellas; wearing a light raincoat is highly recommended while walking here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen kühlen Wintermorgen bei einem Spaziergang zum historischen Thronsaal. Die milde Mittagssonne macht den Weg zu den Schreinen sehr angenehm. Wenn der Nachmittag gegen 17:00 Uhr einen frühen Sonnenuntergang bringt, erkunden Sie den beleuchteten lokalen Markt. Verbringen Sie einen gemütlichen Abend mit warmem Streetfood.",
+            "hu": "Élvezd a frissítő, hűvös téli reggelt a történelmi trónteremnél sétálva. A déli napfény sokkal lágyabb, így a szentélyekhez vezető út nagyon kellemes. A délutáni korai, 17:00 óra körüli sötétedés miatt a piac hamar kivilágosodik és életre kel. Este meleg, fűszeres levesek és ételek várnak az éjszakai forgatagban.",
+            "ro": "Bucurați-vă de o dimineață răcoroasă de iarnă mergând spre sala istorică a tronului. Soarele de prânz este blând, făcând plimbarea spre altare foarte plăcută. Pe măsură ce după-amiaza aduce un apus devreme în jurul orei 17:00, explorați piața locală. Petreceți o seară confortabilă savurând mâncare caldă de stradă.",
+            "en": "Enjoy a crisp winter morning walking to the historic throne hall. The midday sun is gentler, making the stroll to the shrines wonderfully pleasant. As the afternoon brings an early twilight around 17:00, explore the brightly lit local market. Spend a cozy evening tasting deliciously warm street food in the cool air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rattana Rangsarn Thronsaal",
+                "hu": "Rattana Rangsarn Trónterem",
+                "ro": "Sala Tronului Rattana Rangsarn",
+                "en": "Rattana Rangsarn Throne Hall"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die königliche Geschichte in dieser Holzstruktur; die kühle Morgenbrise macht die Erkundung des Geländes im Winter äußerst angenehm.",
+                "hu": "Fedezd fel a királyi történelmet ebben a lenyűgöző faépületben; a hűvös, frissítő reggeli szellő rendkívül kellemessé teszi a hatalmas birtok bejárását.",
+                "ro": "Descoperiți istoria regală în această structură uimitoare din lemn; briza răcoroasă a dimineții face ca explorarea terenului să fie foarte plăcută.",
+                "en": "Discover royal history in this stunning teakwood structure; the cool and refreshing morning breeze makes exploring the palace grounds highly enjoyable."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtsäulen-Schrein",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Sanctuarul Pilonului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie lokale spirituelle Traditionen an diesem schön dekorierten Schrein; bringen Sie für die kühleren Wintertage einen leichten Pullover mit.",
+                "hu": "Tapasztald meg a helyi spirituális hagyományokat ennél a díszes szentélynél; érdemes egy könnyű pulóvert hoznod a hűvösebb téli nappalokra.",
+                "ro": "Experimentați tradițiile spirituale locale la acest altar frumos decorat; aduceți un pulover ușor pentru zilele mai răcoroase de iarnă de aici.",
+                "en": "Experience local spiritual traditions at this beautifully decorated shrine; bringing a light sweater is a good idea for the cooler winter midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "San Chao Hai Lam",
+                "hu": "San Chao Hai Lam",
+                "ro": "San Chao Hai Lam",
+                "en": "San Chao Hai Lam"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die filigranen Drachenschnitzereien an; das weiche Winterlicht, das in den Nachmittagsstunden hereinfiltert, ist perfekt für Fotos.",
+                "hu": "Vedd szemügyre az aprólékos sárkányfaragásokat ezen az örökségi helyszínen; a beszűrődő lágy téli fények egyszerűen tökéletesek a fotózáshoz.",
+                "ro": "Vedeți sculpturile complicate cu dragoni ale acestui site de patrimoniu; lumina moale de iarnă care se filtrează înăuntru este perfectă pentru fotografii.",
+                "en": "See the intricate dragon carvings of this beautiful heritage site; the soft, angled winter light filtering inside is absolutely perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Poomchanok Markt",
+                "hu": "Poomchanok Piac",
+                "ro": "Piața Poomchanok",
+                "en": "Poomchanok Market"
+              },
+              "tip_5lang": {
+                "de": "Mischen Sie sich unter die Einheimischen; der frühe Sonnenuntergang bedeutet, dass die Verkäufer ihre warmen und einladenden Lichter schon früh einschalten.",
+                "hu": "Vegülj el a helyiek között és keress egyedi kézműves termékeket; a korai sötétedés miatt az árusok hamar felkapcsolják a hangulatos, meleg fényeiket.",
+                "ro": "Amestecați-vă cu localnicii și descoperiți meșteșuguri regionale; apusul devreme înseamnă că vânzătorii aprind luminile calde destul de devreme.",
+                "en": "Mingle with locals and discover unique regional crafts; the early winter sunset means vendors start turning on their warm, atmospheric lights quite early."
+              }
+            },
+            {
+              "name": {
+                "de": "Nacht-Lebensmittelmarkt",
+                "hu": "Éjszakai élelmiszerpiac",
+                "ro": "Piața de noapte cu alimente",
+                "en": "Night food market"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit dampfenden Schüsseln scharfer Nudelsuppe auf; die kühle Abendluft macht dieses heiße Streetfood-Erlebnis wirklich unvergesslich.",
+                "hu": "Melegedj fel egy gőzölgő, fűszeres tésztalevessel; a hűvös esti levegő és a forró utcai ételek kontrasztja felejthetetlen élménnyé teszi a vacsorát.",
+                "ro": "Încălziți-vă cu boluri aburinde de supă picantă cu tăiței; aerul rece al serii face ca această experiență fierbinte de street food să fie de neuitat.",
+                "en": "Warm up with steaming bowls of spicy noodle soup; the cool evening air makes eating this hot and fresh street food an incredibly cozy experience."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A reggel a Wat Suwan Khiri Wihan arany tornyaival kezdődik, majd délre biciklizik a fa trónteremhez. A dél magában foglalja a központi szentélyeket és a Wat Tabotharam pihentető melegvizű forrásait. A délutáni utazások nyugodt templomokhoz, például a Phophuteuteparukhoz vezetnek. Az este a híres éjszakai piacon elfogyasztott lakomával jutalmazza meg a kerékpározást.",
         "ro": "Dimineața începe cu turlele aurii de la Wat Suwan Khiri Wihan înainte de a pedala spre sud către Sala Tronului. La prânz acoperiți altarele centrale și izvoarele termale de la Wat Tabotharam. Plimbările de după-amiază vă ghidează către temple senine precum Phophuteuteparuk. Seara vă răsplătește eforturile de ciclism cu un ospăț la celebra piață de noapte.",
         "en": "Morning begins with the golden spires of Wat Suwan Khiri Wihan before riding south to the beautiful wooden Throne Hall. Midday covers the central city shrines and the relaxing hot spring grounds of Wat Tabotharam. Afternoon rides guide you to serene temples like Phophuteuteparuk. The evening rewards your cycling efforts with an absolute feast at the famous local night market."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie diesen nassen Morgen vorsichtig zum großen Tempel. Mittägliche Schauer können Sie zwischen dem Palast und den Schreinen verlangsamen, tragen Sie also einen guten Poncho. Nachmittagsfahrten erfordern auf rutschigen Straßen besondere Vorsicht. Enden Sie auf dem Nachtmarkt für warmes Essen.",
+            "hu": "Ezen a nedves reggelen óvatosan tekerj a nagy templomhoz. A déli záporok lelassíthatnak a palota és a szentélyek között, ezért viselj jó minőségű esőponcsót. A délutáni kerékpározás extra figyelmet igényel a csúszós utakon. Zárd a napot a piacon, ahol sátrak alatt ehetsz.",
+            "ro": "Ciclism cu prudență în această dimineață umedă la marele templu. Aversele de prânz vă pot încetini între palat și altare, purtați un poncho bun. Mersul pe bicicletă după-amiaza necesită grijă pe drumurile alunecoase. Terminați la piața de noapte pentru mâncare caldă.",
+            "en": "Cycle cautiously this wet morning starting at the grand temple. Midday showers might slow you down between the royal hall and shrines, so wear a sturdy rain poncho. Afternoon riding requires extra care on the slippery, wet roads. Finish safely at the night market for warm food."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Suwan Khiri Wihan",
+                "hu": "Wat Suwan Khiri Wihan",
+                "ro": "Wat Suwan Khiri Wihan",
+                "en": "Wat Suwan Khiri Wihan"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die burmesische Pagode; parken Sie Ihr Fahrrad unter den Bäumen und halten Sie einen Regenponcho für die Tempelanlagen bereit.",
+                "hu": "Csodáld meg a burmai stílusú pagodát; parkold le a bringát a sűrű fák alatt, és tarts kéznél egy esőponcsót a templomkert felfedezéséhez.",
+                "ro": "Minunați-vă de pagoda în stil birmanez; parcați bicicleta sub copaci și păstrați un poncho de ploaie la îndemână pentru incinta templului.",
+                "en": "Marvel at the beautiful Burmese-style pagoda; park your bike under the dense trees and keep a rain poncho handy while exploring the temple grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattana Rangsarn Thronsaal",
+                "hu": "Rattana Rangsarn Trónterem",
+                "ro": "Sala Tronului Rattana Rangsarn",
+                "en": "Rattana Rangsarn Throne Hall"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die eleganten Innenräume des Palastes; die Holzstege können bei Nässe sehr rutschig sein, tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Járd be az elegáns fapalota belső tereit; a fa járdák nedvesen rendkívül csúszósak lehetnek, ezért mindenképpen jól tapadó cipőben érkezz.",
+                "ro": "Vizitați interioarele elegante ale palatului din lemn; aleile din lemn pot fi foarte alunecoase când sunt ude, purtați încălțăminte cu aderență bună.",
+                "en": "Tour the elegant teak palace interiors; the external wooden walkways can be extremely slippery when wet, so ensure you wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtsäulen-Schrein",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Sanctuarul Pilonului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die lebhaften Opfergaben im spirituellen Zentrum; die nahegelegenen überdachten Bereiche bieten eine kurze Pause vom starken Regen.",
+                "hu": "Figyeld meg a színes felajánlásokat a város szívében; a közeli tágas, fedett részek gyors menedéket nyújtanak a hirtelen lecsapó heves eső elől.",
+                "ro": "Observați ofrandele vibrante la inima spirituală a orașului; zonele acoperite din apropiere oferă o pauză rapidă de la ploile torențiale.",
+                "en": "Observe the vibrant offerings at the city's spiritual heart; the nearby covered areas offer a quick and dry break from sudden, heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Tabotharam",
+                "hu": "Wat Tabotharam",
+                "ro": "Wat Tabotharam",
+                "en": "Wat Tabotharam"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie in der Nähe der heißen Quellen; der warme Nebel, der sich mit dem Regen vermischt, schafft eine wahrhaft magische Atmosphäre.",
+                "hu": "Pihenj meg a templomhoz közeli forró forrásoknál; a hideg esővel keveredő felszálló meleg pára igazán varázslatos és misztikus atmoszférát teremt.",
+                "ro": "Relaxați-vă lângă zona izvoarelor termale ale templului; ceața caldă care se amestecă cu ploaia creează o atmosferă cu adevărat magică.",
+                "en": "Relax near the hot springs area of this peaceful temple; the warm mist blending with the falling rain creates a truly magical and mystical atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Phophuteuteparuk",
+                "hu": "Phophuteuteparuk",
+                "ro": "Phophuteuteparuk",
+                "en": "Phophuteuteparuk"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen ruhigen Ort zur Reflexion; stellen Sie sicher, dass Ihre Fahrradbremsen auf den nassen Straßen hierher gut funktionieren.",
+                "hu": "Látogass el erre a csendes, elmélyülésre alkalmas helyre; mindenképp ellenőrizd a fékeket, mert az idevezető nedves utak nagyon csúszósak lehetnek.",
+                "ro": "Vizitați acest loc liniștit și senin pentru reflecție; asigurați-vă că frânele bicicletei funcționează bine pe drumurile ude care duc aici.",
+                "en": "Visit this quiet and serene spot for reflection; ensure your bicycle brakes are working perfectly on the slick, wet roads leading to this destination."
+              }
+            },
+            {
+              "name": {
+                "de": "San Chao Hai Lam",
+                "hu": "San Chao Hai Lam",
+                "ro": "San Chao Hai Lam",
+                "en": "San Chao Hai Lam"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in diesem atmosphärischen chinesischen Tempel; das farbenfrohe Innere bietet eine tolle Flucht vor dem tristen grauen Wetter.",
+                "hu": "Keress menedéket ebben a hangulatos kínai templomban; a színpompás, gazdagon díszített belső tér remek menedék a kinti szürke, esős időjárás elől.",
+                "ro": "Adăpostiți-vă în acest templu chinezesc atmosferic; interiorul plin de culoare oferă o evadare excelentă din vremea gri și posomorâtă.",
+                "en": "Take shelter in this highly atmospheric Chinese temple; the colorful and bright interior provides a great escape from the dreary grey weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Nacht-Lebensmittelmarkt",
+                "hu": "Éjszakai élelmiszerpiac",
+                "ro": "Piața de noapte cu alimente",
+                "en": "Night food market"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich frisch zubereitete lokale Delikatessen; die großen Regenschirme der Verkäufer bieten genug Schutz, um komfortabel zu essen.",
+                "hu": "Jutalmazd meg magad frissen sült helyi finomságokkal; az árusok hatalmas esernyői és ponyvái elegendő fedezéket nyújtanak a kényelmes vacsorához.",
+                "ro": "Răsfățați-vă cu delicatese locale proaspăt gătite; umbrelele mari ale vânzătorilor oferă o acoperire suficientă pentru a mânca confortabil.",
+                "en": "Treat yourself to freshly cooked local delicacies; the vendors' large sturdy umbrellas provide more than enough cover to eat comfortably and dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den kühlen Wintermorgen für eine erfrischende Radtour zu den Tempeln. Die Mittagssonne ist mild, perfekt zum Radeln zwischen den Sehenswürdigkeiten. Beachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr, während Sie in die Pedale treten. Wärmen Sie sich abends mit Streetfood auf.",
+            "hu": "Használd ki a hűvös, frissítő téli reggelt egy remek kerékpártúrára a templomokhoz. A déli napfény lágy, tökéletes a látnivalók közötti tekeréshez. Figyelj a korai, 17:00 óra körüli sötétedésre, amikor a szentélyek felé tartasz. Este melegítsd fel magad forró utcai ételekkel.",
+            "ro": "Profitați de dimineața răcoroasă de iarnă pentru o plimbare revigorantă cu bicicleta la temple. Soarele de prânz este blând, perfect pentru a pedala. Observați apusul devreme în jurul orei 17:00 în timp ce pedalați spre altare. Încălziți-vă cu mâncare caldă de stradă la lăsarea serii.",
+            "en": "Take advantage of the cool winter morning for a refreshing bike ride to the temples. The midday sun is mild, perfect for cycling between historical sights. Notice the early sunset around 17:00 as you pedal towards the shrines. Warm up with delicious hot street food this evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Suwan Khiri Wihan",
+                "hu": "Wat Suwan Khiri Wihan",
+                "ro": "Wat Suwan Khiri Wihan",
+                "en": "Wat Suwan Khiri Wihan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie den prächtigen goldenen Stupa; die klare Wintermorgenluft macht die anstrengende Radtour bergauf sehr viel komfortabler.",
+                "hu": "Fedezd fel a lenyűgöző arany sztúpát; a tiszta, friss téli reggeli levegő sokkal kényelmesebbé és elviselhetőbbé teszi a felfelé vezető tekerést.",
+                "ro": "Explorați magnifica stupa aurie; aerul proaspăt al dimineții de iarnă face ca efortul de a pedala la deal să fie mult mai confortabil.",
+                "en": "Explore the magnificent golden stupa; the crisp and clear winter morning air makes the uphill cycling effort much more comfortable and rewarding."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattana Rangsarn Thronsaal",
+                "hu": "Rattana Rangsarn Trónterem",
+                "ro": "Sala Tronului Rattana Rangsarn",
+                "en": "Rattana Rangsarn Throne Hall"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in den majestätischen Holzpalast ein; bringen Sie eine leichte Jacke mit, da die luftige Architektur recht kühl wirken kann.",
+                "hu": "Lépj be a fenséges fa palotába; mindenképp hozz magaddal egy vékony kabátot, mert a szellős, hagyományos építészet miatt bent hűvös lehet.",
+                "ro": "Pășiți în palatul maiestuos de lemn; aduceți o jachetă ușoară, deoarece arhitectura tradițională aerisită se poate simți destul de rece.",
+                "en": "Step into the majestic wooden palace; bring a light jacket in your basket as the airy traditional architecture can feel quite chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtsäulen-Schrein",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Sanctuarul Pilonului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die kunstvollen Säulen; der klare Winterhimmel bietet eine atemberaubende Kulisse für Ihre Fotos an diesem wichtigen Ort.",
+                "hu": "Fedezd fel a helyi hiedelmek központját jelentő oszlopokat; a tiszta, felhőtlen téli égbolt lenyűgöző hátteret biztosít a fotóidnak ezen a helyen.",
+                "ro": "Descoperiți stâlpii ornați centrali credințelor locale; cerul senin de iarnă oferă un fundal uimitor pentru fotografiile dumneavoastră aici.",
+                "en": "Discover the ornate pillars central to local beliefs; the vibrant, clear winter sky provides a stunning backdrop for your photography at this spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Tabotharam",
+                "hu": "Wat Tabotharam",
+                "ro": "Wat Tabotharam",
+                "en": "Wat Tabotharam"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die beruhigende Umgebung; Ihre Füße nach dem Radeln in die nahegelegenen warmen Quellen zu tauchen, ist im Winter einfach perfekt.",
+                "hu": "Tapasztald meg a szent hely nyugtató környezetét; a tekerés után a fáradt lábaidat a közeli meleg forrásokba lógatni télen egyszerűen tökéletes.",
+                "ro": "Experimentați mediul calmant al acestui loc sacru; a vă înmuia picioarele în izvoarele calde din apropiere este perfect după o plimbare iarna.",
+                "en": "Experience the calming environment of this sacred place; dipping your tired feet in the nearby warm springs is absolutely perfect in the wintertime."
+              }
+            },
+            {
+              "name": {
+                "de": "Phophuteuteparuk",
+                "hu": "Phophuteuteparuk",
+                "ro": "Phophuteuteparuk",
+                "en": "Phophuteuteparuk"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Umgebung; die frühen Nachmittagsschatten verleihen diesem friedlichen Gebiet im Winter eine wunderschöne Tiefe.",
+                "hu": "Élvezd a békés környezetet és a spirituális nyugalmat; a korai délutáni, megnyúlt árnyékok gyönyörű, mély atmoszférát adnak ennek a területnek.",
+                "ro": "Bucurați-vă de împrejurimile liniștite și de calmul spiritual; umbrele lungi ale după-amiezii devreme adaugă o profunzime frumoasă zonei.",
+                "en": "Enjoy the tranquil surroundings and spiritual calm; the early afternoon shadows cast by the winter sun add a beautiful depth to this peaceful area."
+              }
+            },
+            {
+              "name": {
+                "de": "San Chao Hai Lam",
+                "hu": "San Chao Hai Lam",
+                "ro": "San Chao Hai Lam",
+                "en": "San Chao Hai Lam"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die traditionelle Architektur; radeln Sie vor dem frühen Sonnenuntergang hierher, um die Außendetails vollständig zu schätzen.",
+                "hu": "Csodáld meg a vibráló kínai építészetet; még a korai naplemente előtt tekerj ide, hogy a természetes fényben maradéktalanul élvezhesd a külsőt.",
+                "ro": "Admirați arhitectura tradițională chineză vibrantă; pedalați aici înainte de apusul devreme pentru a aprecia pe deplin detaliile exterioare.",
+                "en": "Admire the vibrant traditional Chinese architecture; make sure to cycle here before the early sunset to fully appreciate the rich exterior details."
+              }
+            },
+            {
+              "name": {
+                "de": "Nacht-Lebensmittelmarkt",
+                "hu": "Éjszakai élelmiszerpiac",
+                "ro": "Piața de noapte cu alimente",
+                "en": "Night food market"
+              },
+              "tip_5lang": {
+                "de": "Belohnen Sie sich nach dem Radeln mit einem heißen Thai-Curry; eine warme Kleidungsschicht ist unerlässlich, da die Temperaturen abends sinken.",
+                "hu": "Jutalmazd meg a tekerést egy forró, fűszeres thai curry-vel; egy extra meleg réteg ruha viselése elengedhetetlen, ahogy a hőmérséklet este csökken.",
+                "ro": "Recompensați-vă eforturile cu un curry thailandez cald; un strat de haine călduroase este esențial, deoarece temperaturile scad seara.",
+                "en": "Reward your cycling efforts with a hot, spicy Thai curry; packing a warm extra layer is essential as temperatures noticeably drop in the evening."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "A reggel zökkenőmentes vezetést kínál a hatalmas Wat Suwan Khiri Wihantól a központi Rattana Rangsarnig. A dél magában foglalja a Városi Oszlop meglátogatását és egy rövid keleti utazást a Wat Tabotharam melegvizű forrásaihoz. A délután folyamán nyüzsgő piacokon és hainani örökségi helyszíneken halad át. Az este a nyüzsgő éjszakai piacon elfogyasztott vacsorával tetőzik.",
         "ro": "Dimineața vă oferă un drum liniștit de la grandiosul Wat Suwan Khiri Wihan la centrul Rattana Rangsarn. Prânzul cuprinde vizite la Pilonul Orașului și o excursie rapidă spre est până la izvoarele termale Wat Tabotharam. După-amiaza implică condusul înapoi prin piețe locale și locuri de patrimoniu din Hainan. Seara culminează cu o cină vibrantă la piața de noapte.",
         "en": "Your morning offers a seamless drive from the grand Wat Suwan Khiri Wihan to the central Rattana Rangsarn. Midday encompasses visits to the City Pillar and a quick trip eastward to the hot springs of Wat Tabotharam. The afternoon involves driving back through bustling local markets and Hainanese heritage spots. Your evening culminates in a vibrant dinner at the night food market."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den Morgenregen zum Haupttempel. Mittägliche Regengüsse ruinieren Ihren Besuch nicht, wenn Sie einen Regenschirm im Kofferraum haben. Der Nachmittag bietet einen Stopp am überdachten Markt. Genießen Sie abends Streetfood unter den Vordächern der Stadt.",
+            "hu": "Vezess kényelmesen a reggeli esőben a fő templomhoz. A déli felhőszakadások nem rontják el a szentélyek látogatását, ha tartasz egy esernyőt a csomagtartóban. Délután tökéletes program a fedett piac. Este élvezd az utcai ételeket az árusok hatalmas ponyvái alatt.",
+            "ro": "Conduceți confortabil prin ploaia de dimineață până la templul principal. Aversele de prânz nu vă vor strica vizita dacă păstrați o umbrelă în portbagaj. După-amiaza include o oprire la piața acoperită. Bucurați-vă de mâncarea de stradă seara sub copertine.",
+            "en": "Drive comfortably through the morning rain to the main temple. Midday downpours won't ruin your visit to the shrines if you keep a large umbrella in the trunk. The afternoon features a dry stop at the covered market. Enjoy evening street food safely under the large canopies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Suwan Khiri Wihan",
+                "hu": "Wat Suwan Khiri Wihan",
+                "ro": "Wat Suwan Khiri Wihan",
+                "en": "Wat Suwan Khiri Wihan"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den beeindruckenden stehenden Buddha; bringen Sie einen Regenschirm aus dem Auto mit, wenn Sie zwischen den Tempelgebäuden eilen.",
+                "hu": "Nézd meg a lenyűgöző álló Buddhát; mindenképp vigyél magaddal esernyőt az autóból, amikor a különböző templomépületek között szaladsz át.",
+                "ro": "Vedeți impresionantul Buddha stând în picioare; aduceți o umbrelă din mașină în timp ce fugiți între diferitele clădiri ale templului.",
+                "en": "See the highly impressive standing Buddha; be sure to bring an umbrella from your car as you dash between the different scattered temple buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattana Rangsarn Thronsaal",
+                "hu": "Rattana Rangsarn Trónterem",
+                "ro": "Sala Tronului Rattana Rangsarn",
+                "en": "Rattana Rangsarn Throne Hall"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Teakholz-Design der Residenz; die großzügigen Innenausstellungen sind perfekt, um dem starken Regen draußen zu entkommen.",
+                "hu": "Fedezd fel a királyi rezidencia teakfa dizájnját; a tágas beltéri kiállítások tökéletes menedéket nyújtanak a kinti heves, trópusi esőzés elől.",
+                "ro": "Explorați designul din lemn de tec al reședinței; expozițiile interioare sunt perfecte pentru a evita ploaia torențială de afară.",
+                "en": "Explore the intricate teakwood design of the royal residence; the indoor cultural exhibits are absolutely perfect for avoiding the heavy rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtsäulen-Schrein",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Sanctuarul Pilonului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Erweisen Sie am Schrein Ihren Respekt; seien Sie vorsichtig beim Aussteigen aus dem Auto, da die umgebenden Fliesen bei Nässe sehr rutschig sind.",
+                "hu": "Ródd le tiszteleted a városi szentélynél; nagyon vigyázz a kiszállásnál az autóból, mert a környező díszes csempék nedvesen életveszélyesen csúsznak.",
+                "ro": "Aduceți un omagiu la frumosul altar; aveți grijă când coborâți din mașină, deoarece plăcile din jur devin foarte alunecoase la umezeală.",
+                "en": "Pay respects at the beautiful city shrine; be extremely careful stepping out of the car as the surrounding ornamental tiles get very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Tabotharam",
+                "hu": "Wat Tabotharam",
+                "ro": "Wat Tabotharam",
+                "en": "Wat Tabotharam"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die friedlichen Tempelanlagen; der Regen verstärkt die mystische Stimmung des warmen Dampfes, der von den heißen Quellen aufsteigt.",
+                "hu": "Fedezd fel a békés templomkertet; az eső drámaian felerősíti a közeli forró forrásokból felszálló, sűrű, meleg pára misztikus, varázslatos hangulatát.",
+                "ro": "Descoperiți terenurile pașnice; ploaia sporește atmosfera mistică a aburului cald care se ridică în jurul dumneavoastră din izvoarele termale.",
+                "en": "Discover the peaceful temple grounds; the heavy rain enhances the wonderfully mystical vibe of the thick, warm steam rising from the hot springs."
+              }
+            },
+            {
+              "name": {
+                "de": "Phophuteuteparuk",
+                "hu": "Phophuteuteparuk",
+                "ro": "Phophuteuteparuk",
+                "en": "Phophuteuteparuk"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich einen ruhigen Moment an diesem Ort; parken Sie nah am Eingang, um Ihre Zeit im strömenden Regen auf ein Minimum zu reduzieren.",
+                "hu": "Tölts el egy csendes percet ezen a nyugodt helyen; próbálj meg közvetlenül a bejáratnál parkolni, hogy a lehető legkevesebbet kelljen a szakadó esőben sétálnod.",
+                "ro": "Luați un moment de liniște în acest loc senin; parcați aproape de intrare pentru a vă minimiza timpul de mers prin ploaia torențială de afară.",
+                "en": "Take a quiet, reflective moment at this serene local spot; park as close to the entrance as possible to minimize your time walking in the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Poomchanok Markt",
+                "hu": "Poomchanok Piac",
+                "ro": "Piața Poomchanok",
+                "en": "Poomchanok Market"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den geschäftigen Handel in den überdachten Gängen; das Dach hält Sie trocken, während Sie im Trockenen nach regionalen Spezialitäten suchen.",
+                "hu": "Tapasztald meg a nyüzsgő kereskedelmet a fedett folyosókon; a hatalmas tető megvéd a víztől, miközben kényelmesen válogatsz a regionális termékekből.",
+                "ro": "Experimentați comerțul local plin de viață pe culoarele acoperite; acoperișul vă menține uscat în timp ce cumpărați specialități regionale autentice.",
+                "en": "Experience the bustling local trade in the wide, covered aisles; the large roof keeps you perfectly dry while you comfortably shop for regional specialties."
+              }
+            },
+            {
+              "name": {
+                "de": "San Chao Hai Lam",
+                "hu": "San Chao Hai Lam",
+                "ro": "San Chao Hai Lam",
+                "en": "San Chao Hai Lam"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die aufwendigen chinesischen Dekorationen; es ist ein trockener und faszinierender Zufluchtsort, um zu warten, bis der Regen aufhört.",
+                "hu": "Csodáld meg a bonyolult kínai díszítéseket; ez a templom egy biztonságos, száraz és lenyűgöző beltéri menedékhely, amíg várod, hogy elálljon a vihar.",
+                "ro": "Minunați-vă de decorațiunile chinezești elaborate; este un refugiu interior uscat și fascinant în timp ce așteptați să se oprească ploaia grea.",
+                "en": "Marvel at the elaborate and ornate Chinese decorations; it is a perfectly dry, fascinating indoor refuge while patiently waiting for the heavy rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Nacht-Lebensmittelmarkt",
+                "hu": "Éjszakai élelmiszerpiac",
+                "ro": "Piața de noapte cu alimente",
+                "en": "Night food market"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie authentische Gerichte von überdachten Ständen; das Tragen wasserfester Schuhe ist eine gute Idee für den nassen Marktboden.",
+                "hu": "Kóstolj autentikus ételeket a fedett standoknál; a vízálló és csúszásmentes cipő viselése erősen ajánlott a nedves, tócsás piacpadló miatt.",
+                "ro": "Gustați mâncăruri autentice uimitoare de la tarabele acoperite; purtarea pantofilor rezistenți la apă este o idee bună pentru podeaua umedă a pieței.",
+                "en": "Sample amazing authentic dishes from fully covered stalls; wearing water-resistant shoes is a highly recommended idea for the wet and puddle-filled market floor."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine morgendliche Fahrt zum goldenen Tempel ist in der klaren Winterluft herrlich. Die Fahrt mittags zum Palast und den Schreinen ist perfekt temperiert. Am späten Nachmittag erleben Sie den frühen Sonnenuntergang am Markt. Ein gemütlicher Abend wartet mit warmen Gerichten auf dem Nachtmarkt.",
+            "hu": "Egy kényelmes reggeli autózás az arany templomhoz csodás a tiszta téli levegőben. A déli utazás a palotához és a szentélyekhez ideális hőmérsékletű. Késő délután kapd el a korai sötétedés fényeit a nyüzsgő piacon. Egy hangulatos, meleg ételekkel teli este vár az éjszakai piacon.",
+            "ro": "Un drum de dimineață la templul de aur este încântător în aerul proaspăt de iarnă. Călătoria de prânz la sala tronului este perfect confortabilă. După-amiaza târziu, prindeți apusul devreme la piață. O seară confortabilă vă așteaptă cu preparate calde la piața de noapte.",
+            "en": "A morning drive to the stunning golden temple is delightful in the crisp winter air. The midday journey to the throne hall and shrines is perfectly comfortable. By late afternoon, catch the early atmospheric sunset at the market. A cozy evening awaits with deliciously warm dishes at the night market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Suwan Khiri Wihan",
+                "hu": "Wat Suwan Khiri Wihan",
+                "ro": "Wat Suwan Khiri Wihan",
+                "en": "Wat Suwan Khiri Wihan"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die goldene Pagode; die kühleren Morgentemperaturen machen das Spazieren über das Tempelgelände zu einer wahren Freude.",
+                "hu": "Csodáld meg a gyönyörűen megmunkált arany pagodát; a hűvösebb, reggeli téli hőmérséklet igazi élménnyé teszi a tágas templomkert bejárását.",
+                "ro": "Admirați pagoda de aur frumos lucrată; temperatura mai rece a dimineții face ca plimbarea pe terenul templului să fie o adevărată bucurie.",
+                "en": "Admire the beautifully crafted and shining golden pagoda; the cooler morning temperature makes walking the extensive temple grounds a true joy."
+              }
+            },
+            {
+              "name": {
+                "de": "Rattana Rangsarn Thronsaal",
+                "hu": "Rattana Rangsarn Trónterem",
+                "ro": "Sala Tronului Rattana Rangsarn",
+                "en": "Rattana Rangsarn Throne Hall"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die königliche Geschichte im Holzpalast kennen; ein leichter Pullover wird für die windigen, offenen und schattigen Korridore empfohlen.",
+                "hu": "Ismerd meg a királyi történelmet ebben a grandiózus fapalotában; egy vékony pulóver erősen ajánlott a szellős, nyitott és árnyékos folyosók miatt.",
+                "ro": "Aflați despre istoria regală în acest mare palat de lemn; un pulover ușor este recomandat pentru coridoarele aerisite, deschise și adesea umbrite.",
+                "en": "Learn about royal history in this grand teak palace; throwing on a light sweater is highly recommended for the breezy, open, and often shaded corridors."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtsäulen-Schrein",
+                "hu": "Városi Oszlop Szentély",
+                "ro": "Sanctuarul Pilonului Orașului",
+                "en": "City Pillar Shrine"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die bunten traditionellen Rituale am Schrein; die sanfte Wintersonne ermöglicht eine komfortable Erkundung ohne Überhitzung.",
+                "hu": "Figyeld meg a színes, hagyományos rituálékat a szentélynél; a lágy, erőtlen téli napsütés lehetővé teszi a kényelmes, túlhevülés nélküli felfedezést.",
+                "ro": "Observați ritualurile tradiționale colorate la altar; soarele blând de iarnă permite o explorare confortabilă, fără supraîncălzirea specifică verii.",
+                "en": "Observe the incredibly colorful traditional rituals at the shrine; the gentle winter sun allows for very comfortable exploration without any overheating."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Tabotharam",
+                "hu": "Wat Tabotharam",
+                "ro": "Wat Tabotharam",
+                "en": "Wat Tabotharam"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie an den natürlichen heißen Quellen; das warme Wasser fühlt sich während der kühleren Wintermonate unglaublich beruhigend an.",
+                "hu": "Pihenj a templom melletti természetes forró forrásoknál; a meleg víz és a felszálló gőz hihetetlenül nyugtató érzés a hűvösebb téli hónapokban.",
+                "ro": "Relaxați-vă lângă izvoarele termale naturale de lângă templu; apele calde se simt incredibil de liniștitoare în timpul lunilor mai reci de iarnă.",
+                "en": "Relax completely by the natural hot springs near the temple; the warm waters feel incredibly soothing and therapeutic during the cooler winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Phophuteuteparuk",
+                "hu": "Phophuteuteparuk",
+                "ro": "Phophuteuteparuk",
+                "en": "Phophuteuteparuk"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Frieden in diesem ruhigen spirituellen Rückzugsort; das weiche, schräge Wintersonnenlicht schafft hier eine wunderschöne Atmosphäre.",
+                "hu": "Találj békére ezen a nyugodt spirituális menedékhelyen; a lágyan beeső, lapos téli napfény gyönyörű, elmélyült atmoszférát teremt a fotózáshoz.",
+                "ro": "Găsiți liniștea la acest refugiu spiritual calm; lumina moale și înclinată a soarelui de iarnă creează o atmosferă superbă, perfectă pentru relaxare.",
+                "en": "Find inner peace at this calm spiritual retreat; the soft, highly angled winter sunlight creates a beautiful, serene atmosphere here in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Poomchanok Markt",
+                "hu": "Poomchanok Piac",
+                "ro": "Piața Poomchanok",
+                "en": "Poomchanok Market"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie authentische Souvenirs; planen Sie Ihren Besuch vor 17:00 Uhr, um das Tageslicht vor dem frühen, kühlen Sonnenuntergang zu genießen.",
+                "hu": "Vásárolj autentikus ajándékokat; tervezd a látogatást 17:00 óra elé, hogy maximálisan kiélvezd a természetes fényt a korai, hűvös naplemente előtt.",
+                "ro": "Cumpărați suveniruri autentice și gustări locale; plănuiți să vizitați înainte de 17:00 pentru a vă bucura de lumina zilei înainte de apusul devreme.",
+                "en": "Buy authentic souvenirs and local snacks; definitely plan to visit before 17:00 to enjoy the natural daylight before the early, cool sunset hits."
+              }
+            },
+            {
+              "name": {
+                "de": "San Chao Hai Lam",
+                "hu": "San Chao Hai Lam",
+                "ro": "San Chao Hai Lam",
+                "en": "San Chao Hai Lam"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das reiche Erbe dieses chinesischen Tempels; die kühle Abendbrise macht die letzten Stationen Ihrer Autofahrt sehr angenehm.",
+                "hu": "Fedezd fel a kínai templom gazdag örökségét; a hűvös, frissítő esti szellő kifejezetten kellemessé teszi az autós túrád ezen utolsó megállóit.",
+                "ro": "Explorați bogata moștenire a acestui templu chinezesc; briza răcoroasă a serii face ca etapele finale ale plimbării cu mașina să fie foarte plăcute.",
+                "en": "Explore the rich cultural heritage of this Chinese temple; the cool and crisp evening breeze makes the final stops of your comfortable drive very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Nacht-Lebensmittelmarkt",
+                "hu": "Éjszakai élelmiszerpiac",
+                "ro": "Piața de noapte cu alimente",
+                "en": "Night food market"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine heiße Schüssel thailändischer Nudelsuppe; Sie werden definitiv eine warme Jacke wollen, da die Nachtluft recht frisch wird.",
+                "hu": "Fogyassz el egy forró, hagyományos thai tésztalevest; biztosan szükséged lesz egy melegebb kabátra is, mivel az éjszakai levegő kifejezetten csípős lesz.",
+                "ro": "Bucurați-vă de un bol fierbinte de supă tradițională thailandeză; veți dori cu siguranță o jachetă caldă, deoarece aerul nopții devine destul de tăios.",
+                "en": "Enjoy a piping hot bowl of traditional Thai noodle soup; you will definitely want to pack a warm jacket as the night air gets quite brisk and chilly."
+              }
+            }
+          ]
+        }
       }
     }
   }

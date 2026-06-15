@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Aljezur történelmi központjának felfedezésével, a macskaköves utcákon kanyarogva. A dél a helyi örökség és a mór romok felfedezésére csábít a múzeumokban. A délutánt a dombtetőn álló ősi kastély lenyűgöző panorámájának megcsodálásával töltheti. Zárja a napot a folyóparton pihenve, vagy merüljön el a kortárs helyi művészetben a galériákban.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Aljezur, plimbându-vă pe străzile cu piatră cubică. La prânz, pătrundeți în moștenirea locală la muzee fascinante și ruine maure ascunse. Petreceți după-amiaza admirând priveliștile panoramice de la vechiul castel de pe deal. Încheiați-vă ziua relaxându-vă lângă râu sau explorând arta locală contemporană în galeriile civice.",
         "en": "Begin your morning exploring the historic heart of Aljezur, winding through charming cobblestone streets. Midday invites a deep dive into local heritage at fascinating museums and hidden Moorish ruins. Spend the afternoon marveling at sweeping views from the ancient hilltop castle. Conclude your day unwinding by the river or immersing yourself in contemporary local art at civic galleries."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen im Tastmuseum, um trocken in die Stadtgeschichte einzutauchen. Mittags bietet das Haus von José Cercas Schutz, während Sie die lokale Kunstszene erkunden. Am Nachmittag ist der Aufstieg zur Burg trotz Regen lohnenswert, doch Vorsicht auf den rutschigen Stufen. Den Abend verbringen Sie im Espaço +, einem idealen kulturellen Rückzugsort vor dem nassen Wetter.",
+            "hu": "Az esős reggelen az Aljezur Táctil Múzeumban kezdünk, ahol fedél alatt ismerkedhetünk a várossal. Délben a José Cercas házmúzeum nyújt menedéket a záporok elől. Délután a vár romjaihoz óvatosan kapaszkodunk fel a vizes és csúszós macskaköveken, majd a városháza felé vesszük az irányt. Az estét az Espaço + kulturális központban zárjuk, távol a kinti szürkeségtől és az eleredő esőtől.",
+            "ro": "Începeți dimineața ploioasă la Muzeul Tactil, un refugiu perfect pentru a descoperi istoria locală la adăpost. La prânz, Casa-Muzeu José Cercas oferă protecție împotriva stropilor de ploaie. După-amiaza, urcați cu grijă spre castel pe treptele ce pot deveni alunecoase când sunt ude. Seara se încheie la Espaço +, un spațiu cultural primitor unde puteți ignora vremea de afară.",
+            "en": "Start your rainy morning at the Tactile Museum, staying dry while diving into local history. By noon, the José Cercas House-Museum provides a perfect shelter to enjoy art. In the afternoon, the climb to the castle is rewarding despite the rain, but be careful on the slippery cobblestones. End your day at the Espaço + cultural center, a great indoor spot to escape the damp evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aljezur Táctil Museu Municipal",
+                "hu": "Aljezur Táctil Városi Múzeum",
+                "ro": "Muzeul Municipal Tactil din Aljezur",
+                "en": "Aljezur Tactile Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Geschichte der Stadt durch tastbare Exponate, ein idealer Indoor-Unterschlupf bei Regen; halten Sie Ihren Schirm für den kurzen Weg zum nächsten Ziel bereit.",
+                "hu": "Fedezze fel a város történetét tapintható maketteken keresztül, ami esőben kiváló beltéri program; vigyen esernyőt az épületek közötti rövid sétákhoz a múzeumi negyedben.",
+                "ro": "Explorați istoria orașului prin exponate tactile, fiind un refugiu interior ideal pe timp de ploaie; păstrați umbrela la îndemână pentru scurta plimbare spre următorul muzeu.",
+                "en": "Explore the city's history through tactile exhibits, providing a perfect indoor escape from the rain; keep your umbrella handy for the short walk between museum buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Pintor José Cercas",
+                "hu": "José Cercas Festő Emlékmúzeuma",
+                "ro": "Casa-Muzeu a Pictorului José Cercas",
+                "en": "Painter José Cercas House-Museum"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die privaten Sammlungen des Malers in dieser gemütlichen Atmosphäre, während es draußen regnet; die überdachten Räume bieten Schutz vor heftigen Güssen.",
+                "hu": "Csodálja meg a festő magángyűjteményét ebben a hangulatos házban, miközben kint esik; a fedett terek tökéletes menedéket nyújtanak a hirtelen záporok elől az óvárosban.",
+                "ro": "Admirați colecțiile private ale pictorului în această atmosferă primitoare în timp ce afară plouă; încăperile acoperite oferă protecție excelentă împotriva averselor.",
+                "en": "Admire the painter's private collections in this cozy home while it rains outside; the indoor galleries offer great protection from any sudden downpours in the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte das Mentiras",
+                "hu": "Hazugságok Kútja",
+                "ro": "Fântâna Minciunilor",
+                "en": "Fountain of Lies"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Brunnen liegt im Freien, also besuchen Sie ihn schnell zwischen zwei Schauern; tragen Sie festes Schuhwerk, da der Boden um die Quelle matschig sein kann.",
+                "hu": "Ez a történelmi kút a szabadban található, így két zápor között érdemes felkeresni; viseljen vízálló cipőt, mert a forrás körüli talaj esőben hamar felázik és sáros lesz.",
+                "ro": "Această fântână istorică este în aer liber, deci vizitați-o rapid între două averse; purtați încălțăminte impermeabilă deoarece solul din jur poate deveni noroios.",
+                "en": "This historic fountain is outdoors, so visit it quickly between showers; wear waterproof shoes as the ground around the spring can become quite muddy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Aljezur",
+                "hu": "Aljezur Kastélya",
+                "ro": "Castelul din Aljezur",
+                "en": "Aljezur Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das neblige Tal ist auch bei Regen mystisch, aber seien Sie vorsichtig auf den glatten Steinen; suchen Sie Schutz unter den verbliebenen Mauerbögen.",
+                "hu": "A ködös völgyre nyíló kilátás esőben is misztikus, de legyen nagyon óvatos a vizes macskaköveken; keressen rövid menedéket a várfalak belső ívei alatt a nagyobb szélben.",
+                "ro": "Priveliștea asupra văii cețoase este mistică chiar și pe ploaie, dar fiți precaut pe pietrele lucioase; căutați adăpost sub arcadele rămase ale zidurilor cetății.",
+                "en": "The view over the misty valley is mystical even in the rain, but be extra careful on the slick stones; seek temporary shelter under the remaining arches of the castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Aljezur",
+                "hu": "Aljezur Városháza",
+                "ro": "Primăria Aljezur",
+                "en": "Aljezur Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz oder die Lobby für eine kurze Pause vom Regen; das historische Gebäude ist ein markanter Orientierungspunkt auf Ihrem Weg zum nächsten Museum.",
+                "hu": "Használja ki az épület előtti fedett részeket egy rövid pihenőre az eső elől; a városháza épülete fontos tájékozódási pont a múzeumok felé vezető vizes útvonalon.",
+                "ro": "Folosiți holul sau zonele acoperite pentru o scurtă pauză de ploaie; clădirea primăriei este un punct de reper util în timp ce navigați prin centrul vechi pe vreme umedă.",
+                "en": "Utilize the covered entrance or lobby for a brief break from the rain; the town hall is a key landmark while navigating the old center's streets during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço +",
+                "hu": "Espaço +",
+                "ro": "Espaço +",
+                "en": "Espaço +"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Kulturzentrum ist der perfekte Ort, um den Tag trocken zu beenden; genießen Sie die Ausstellungen im Inneren, während draußen der Abendregen fällt.",
+                "hu": "Ez a modern kulturális központ tökéletes hely a nap száraz befejezéséhez; élvezze a benti kiállításokat és eseményeket, miközben kint dobol az esti eső a háztetőkön.",
+                "ro": "Acest centru cultural modern este locul perfect pentru a încheia ziua la uscat; bucurați-vă de expozițiile interioare în timp ce ploaia de seară cade peste oraș.",
+                "en": "This modern cultural center is the perfect place to end your day dry; enjoy the indoor exhibitions and events while the evening rain falls on the streets outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Wintermorgen im Tastmuseum, um der kühlen Brise zu entkommen. Mittags erkunden Sie das Haus von José Cercas, bevor die Temperaturen sinken. Am Nachmittag steigen Sie zur Burg auf, um das goldene Licht vor dem frühen Sonnenuntergang gegen 17:00 Uhr zu nutzen. Beenden Sie den Tag im beheizten Espaço +, während die Winterdämmerung über Aljezur hereinbricht.",
+            "hu": "Kezdje a téli reggelt a Táctil Múzeumban, elkerülve a csípős reggeli szeleket. Délben látogasson el a José Cercas házmúzeumba, mielőtt a hőmérséklet hűvösebbre fordulna. Délután másszon fel a várba, hogy elcsípje az aranyórát, mivel a nap korán, 17:00 körül nyugszik. A napot az Espaço + kulturális központ melegében zárja, miközben odakint leszáll a téli sötétség.",
+            "ro": "Începeți dimineața de iarnă la Muzeul Tactil pentru a evita briza rece. La prânz, vizitați casa-muzeu José Cercas înainte ca temperaturile să scadă. După-amiaza, urcați la castel pentru a surprinde lumina aurie înainte de apusul timpuriu de la ora 17:00. Încheiați ziua în interiorul călduros de la Espaço +, în timp ce amurgul de iarnă se așterne peste pitorescul Aljezur.",
+            "en": "Start your winter morning at the Tactile Museum to escape the crisp air. By noon, explore the local artist's house-museum before the temperature drops further. In the afternoon, hike up to the castle to catch the golden hour, as the sun sets early around 17:00. Finish your day at the warm Espaço + cultural center, enjoying the exhibits as the winter twilight fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aljezur Táctil Museu Municipal",
+                "hu": "Aljezur Táctil Városi Múzeum",
+                "ro": "Muzeul Municipal Tactil din Aljezur",
+                "en": "Aljezur Tactile Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf, während Sie die Stadtgeschichte studieren; die Innenräume sind im Winter eine willkommene Abwechslung zur kühlen Außenluft.",
+                "hu": "Melegedjen fel a kiállítótermekben, miközben a város történelmét tanulmányozza; a benti terek télen kellemes menedéket nyújtanak a kinti hűvös és párás levegő elől.",
+                "ro": "Încălziți-vă în sălile de expoziție în timp ce studiați istoria orașului; spațiile interioare sunt o alternativă binevenită la aerul rece de afară în timpul iernii.",
+                "en": "Warm up inside the exhibition rooms while studying the town's history; the interior spaces are a welcome relief from the chilly winter breeze in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Pintor José Cercas",
+                "hu": "José Cercas Festő Emlékmúzeuma",
+                "ro": "Casa-Muzeu a Pictorului José Cercas",
+                "en": "Painter José Cercas House-Museum"
+              },
+              "tip_5lang": {
+                "de": "Die intime Atmosphäre des Künstlerhauses ist im Winter besonders einladend; tragen Sie Schichten, da es in den alten Steinhäusern trotz Schutz kühl sein kann.",
+                "hu": "A művészház meghitt hangulata télen különösen vonzó; öltözzön rétegesen, mert a vastag falú régi kőépületekben a védelem ellenére is hűvös lehet a levegő.",
+                "ro": "Atmosfera intimă a casei artistului este deosebit de primitoare iarna; purtați haine în straturi, deoarece vechile case de piatră pot fi răcoroase în interior.",
+                "en": "The intimate atmosphere of the artist's home is especially inviting in winter; wear layers as old stone houses can remain quite cool despite providing wind protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte das Mentiras",
+                "hu": "Hazugságok Kútja",
+                "ro": "Fântâna Minciunilor",
+                "en": "Fountain of Lies"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschützten Ort zur Mittagszeit, wenn die Sonne am höchsten steht; der Weg dorthin ist im Winter oft feucht, achten Sie also auf festen Tritt.",
+                "hu": "Keresse fel ezt a védett helyet a déli órákban, amikor a legmagasabban jár a nap; a kúthoz vezető ösvény télen gyakran nyirkos, ügyeljen a biztos léptekre.",
+                "ro": "Vizitați acest loc protejat la prânz, când soarele este cel mai sus; poteca spre fântână este adesea umedă iarna, așa că pășiți cu mare atenție pe pietre.",
+                "en": "Visit this sheltered spot during midday when the sun is at its peak; the path to the fountain is often damp in winter, so ensure you have stable footing on the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Aljezur",
+                "hu": "Aljezur Kastélya",
+                "ro": "Castelul din Aljezur",
+                "en": "Aljezur Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick im klaren Winterlicht, aber kommen Sie vor 16:30 Uhr an; der frühe Sonnenuntergang taucht die Ruinen in spektakuläre Farben.",
+                "hu": "Élvezze a panorámát a tiszta téli fényekben, de érkezzen meg 16:30 előtt; a korai naplemente látványos színekbe öltözteti a romokat a vár zárása előtt.",
+                "ro": "Bucurați-vă de panorama în lumina clară de iarnă, dar ajungeți înainte de ora 16:30; apusul timpuriu scaldă ruinele în culori spectaculoase înainte de închidere.",
+                "en": "Enjoy the panoramic views in the crisp winter light, but arrive before 16:30; the early sunset bathes the ruins in spectacular colors before the site closes."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Aljezur",
+                "hu": "Aljezur Városháza",
+                "ro": "Primăria Aljezur",
+                "en": "Aljezur Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im weichen Nachmittagslicht; die Nähe zum Stadtzentrum macht es zu einem idealen Halt, bevor es nach 17:00 Uhr dunkel wird.",
+                "hu": "Csodálja meg az építészetet a lágy délutáni fényben; a központi elhelyezkedése miatt ideális megálló, mielőtt 17:00 után hirtelen leszállna az esti sötétség.",
+                "ro": "Admirați arhitectura în lumina blândă a după-amiezii; proximitatea față de centru o face o oprire ideală înainte ca întunericul să se lase după ora 17:00.",
+                "en": "Admire the architecture in the soft afternoon light; its central location makes it an ideal stop before the darkness falls rapidly after 17:00 in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço +",
+                "hu": "Espaço +",
+                "ro": "Espaço +",
+                "en": "Espaço +"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag in diesem gut beleuchteten Kulturraum; es ist der perfekte Ort, um drinnen zu bleiben, wenn die Winterkälte am Abend zunimmt.",
+                "hu": "Zárja a napot ebben a jól megvilágított kulturális térben; tökéletes hely a benti tartózkodásra, amikor az esti téli hideg és sötétség megérkezik a városba.",
+                "ro": "Încheiați ziua în acest spațiu cultural bine luminat; este locul perfect pentru a rămâne la căldură pe măsură ce frigul serii de iarnă se intensifică afară.",
+                "en": "Finish your day in this well-lit cultural space; it is the perfect place to stay indoors as the winter chill intensifies and night settles over the town."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a reggelt Aljezur történelmi központjának felfedezésével, a macskaköves utcákon kanyarogva. A dél a helyi örökség és a mór romok felfedezésére csábít a múzeumokban. A délutánt a dombtetőn álló ősi kastély lenyűgöző panorámájának megcsodálásával töltheti. Zárja a napot a folyóparton pihenve, vagy merüljön el a kortárs helyi művészetben a galériákban.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Aljezur, plimbându-vă pe străzile cu piatră cubică. La prânz, pătrundeți în moștenirea locală la muzee fascinante și ruine maure ascunse. Petreceți după-amiaza admirând priveliștile panoramice de la vechiul castel de pe deal. Încheiați-vă ziua relaxându-vă lângă râu sau explorând arta locală contemporană în galeriile civice.",
         "en": "Begin your morning exploring the historic heart of Aljezur, winding through charming cobblestone streets. Midday invites a deep dive into local heritage at fascinating museums and hidden Moorish ruins. Spend the afternoon marveling at sweeping views from the ancient hilltop castle. Conclude your day unwinding by the river or immersing yourself in contemporary local art at civic galleries."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Radtour vorsichtig im Picknickpark, wo Bäume etwas Schutz bieten. Mittags geht es zu den Gemeindepools, dem idealen Indoor-Rückzugsort bei Regen. Der Nachmittag führt durch die Museen der Stadt, die trockene Pausen zwischen den Fahrten ermöglichen. Trotz nasser Straßen bleibt die Burg das Ziel, doch fahren Sie auf dem Kopfsteinpflaster besonders langsam.",
+            "hu": "Kezdje a biciklizést óvatosan a piknikparkban, ahol a fák némi védelmet nyújtanak. Délben irány a városi uszoda, amely az egyik legjobb beltéri helyszín esőben. A délutáni órákban a múzeumok kínálnak száraz pihenőket a tekerés közben. A vizes utak ellenére a vár a végső cél, de a csúszós macskaköveken különösen lassú és körültekintő tempót válasszon.",
+            "ro": "Începeți tura cu bicicleta cu prudență în parcul de picnic, unde copacii oferă puțin adăpost. La prânz, mergeți spre piscinele municipale, refugiul interior ideal pe ploaie. După-amiaza include vizite la muzee pentru pauze uscate între reprizele de pedalat. În ciuda drumurilor ude, castelul rămâne destinația finală, dar pedalați foarte încet pe porțiunile cu piatră cubică.",
+            "en": "Start your bike ride cautiously in the picnic park, where trees offer some shelter. At noon, head to the municipal pools, an ideal indoor retreat during a downpour. The afternoon involves museum visits that provide dry breaks between rides. Despite the wet roads, the castle remains the goal, but cycle especially slowly on the slippery cobblestone sections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque de Merendas de Aljezur",
+                "hu": "Aljezur Piknikparkja",
+                "ro": "Parcul de Picnic din Aljezur",
+                "en": "Aljezur Picnic Park"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Bäumen, falls es zu regnen beginnt; achten Sie beim Radfahren auf die nassen Holzstege und schlammigen Wege im Park.",
+                "hu": "Keressen menedéket a sűrű lombok alatt, ha elered az eső; biciklizés közben ügyeljen a vizes fapadlókra és a sárosabb ösvényekre a park területén belül.",
+                "ro": "Căutați adăpost sub copacii deși dacă începe ploaia; aveți grijă la platformele de lemn ude și la potecile noroioase în timp ce traversați parcul cu bicicleta.",
+                "en": "Seek shelter under the thick tree canopy if it starts to rain; be careful of wet wooden decks and muddy paths while cycling through the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas Municipais de Aljezur",
+                "hu": "Aljezur Városi Medencéi",
+                "ro": "Piscinele Municipale din Aljezur",
+                "en": "Aljezur Municipal Pools"
+              },
+              "tip_5lang": {
+                "de": "Das Hallenbad ist der perfekte Ort, um das Fahrrad abzustellen und dem Regen zu entkommen; nutzen Sie die warmen Duschen, um sich nach einer nassen Fahrt aufzuwärmen.",
+                "hu": "A fedett uszoda tökéletes hely, hogy letegye a bringát és elmeneküljön az eső elől; használja a meleg zuhanyokat, hogy felmelegedjen egy vizes tekerés után.",
+                "ro": "Piscina interioară este locul perfect pentru a lăsa bicicleta și a scăpa de ploaie; folosiți dușurile calde pentru a vă încălzi după o tură umedă pe drum.",
+                "en": "The indoor pool is the perfect place to park your bike and escape the rain; use the warm showers to reheat after a wet ride through the town streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço +",
+                "hu": "Espaço +",
+                "ro": "Espaço +",
+                "en": "Espaço +"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab und genießen Sie die Kultur im Trockenen; die Ausstellungen bieten eine willkommene Pause von den nassen Straßen.",
+                "hu": "Támassza le kerékpárját egy védett helyen, és élvezze a kultúrát szárazon; a kiállítások remek pihenőt kínálnak a kinti vizes és csúszós utak után.",
+                "ro": "Parcați bicicleta într-un loc ferit și bucurați-vă de cultură la adăpost; expozițiile oferă o pauză binemeritată de la drumurile ude și alunecoase.",
+                "en": "Park your bike in a sheltered spot and enjoy the culture indoors; the exhibitions offer a welcome break from the wet and slippery roads outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Aljezur",
+                "hu": "Aljezur Városháza",
+                "ro": "Primăria Aljezur",
+                "en": "Aljezur Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Gebäudes für einen kurzen Stopp; seien Sie vorsichtig beim Anfahren auf dem nassen Kopfsteinpflaster vor dem Rathaus.",
+                "hu": "Használja az épület fedett részeit egy rövid megállóra; legyen nagyon óvatos az elindulásnál a városháza előtti vizes és fényes macskaköveken.",
+                "ro": "Folosiți zonele acoperite ale clădirii pentru o scurtă oprire; fiți precaut la plecarea de pe loc pe piatra cubică umedă din fața primăriei.",
+                "en": "Use the building's covered areas for a brief stop; be extra cautious when starting off on the wet cobblestones in front of the town hall entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Aljezur Táctil Museu Municipal",
+                "hu": "Aljezur Táctil Városi Múzeum",
+                "ro": "Muzeul Municipal Tactil din Aljezur",
+                "en": "Aljezur Tactile Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zwischenstopp, um die Kleidung zu trocknen, während man die Exponate erkundet; sichere Fahrradabstellplätze befinden sich in unmittelbarer Nähe.",
+                "hu": "Kiváló megállóhely, hogy megszárítsa ruháit, miközben a kiállítást nézi; biztonságos kerékpártárolók találhatók a közvetlen közelben a múzeum mellett.",
+                "ro": "O oprire excelentă pentru a vă usca hainele în timp ce explorați exponatele; locuri sigure pentru biciclete se află în imediata apropiere a muzeului.",
+                "en": "An excellent stop to dry off your gear while exploring the exhibits; secure bike parking can be found in the immediate vicinity of the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Pintor José Cercas",
+                "hu": "José Cercas Festő Emlékmúzeuma",
+                "ro": "Casa-Muzeu a Pictorului José Cercas",
+                "en": "Painter José Cercas House-Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und tauchen Sie ein in die warme Atmosphäre des Hauses; die engen Gassen hierher können bei Regen sehr rutschig für Reifen sein.",
+                "hu": "Tegye le a biciklit, és merüljön el a ház meleg hangulatában; az idevezető szűk utcák esőben nagyon csúszósak lehetnek a vékonyabb kerékpárgumik számára.",
+                "ro": "Parcați bicicleta și relaxați-vă în atmosfera caldă a casei; străzile înguste de aici pot fi foarte alunecoase pentru anvelope pe timp de ploaie.",
+                "en": "Park your bike and immerse yourself in the warm atmosphere of the house; the narrow alleys here can be very slippery for tires when wet during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Aljezur",
+                "hu": "Aljezur Kastélya",
+                "ro": "Castelul din Aljezur",
+                "en": "Aljezur Castle"
+              },
+              "tip_5lang": {
+                "de": "Der steile Aufstieg erfordert bei Regen gute Bremsen und Vorsicht; genießen Sie den dramatischen Blick auf das Tal zwischen den vorbeiziehenden Wolken.",
+                "hu": "A meredek emelkedő esőben jó fékeket és fokozott óvatosságot igényel; élvezze a drámai kilátást a völgyre az elvonuló felhők és záporok közötti szünetben.",
+                "ro": "Urcarea abruptă necesită frâne bune și prudență pe ploaie; bucurați-vă de priveliştea dramatică asupra văii printre norii care trec rapid peste castel.",
+                "en": "The steep climb requires good brakes and extra caution in the rain; enjoy the dramatic view of the valley during breaks between passing rain clouds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine erfrischende Winterfahrt ab dem Picknickpark, solange die Vormittagssonne scheint. Mittags bieten die Gemeindepools eine warme Indoor-Option. Am Nachmittag führt die Tour durch die Kulturstätten, wobei das Espaço + ideal zum Aufwärmen ist. Beenden Sie den Tag auf der Burg, um den Sonnenuntergang gegen 17:00 Uhr zu sehen, bevor die Kälte der Nacht einsetzt.",
+            "hu": "Élvezze a frissítő téli tekerést a piknikparktól, amíg süt a délelőtti nap. Délben a városi uszoda meleg beltéri opciót kínál a sportoláshoz. Délután a túra kulturális helyszíneken vezet keresztül, ahol az Espaço + ideális a felmelegedéshez. A napot a várnál zárja, hogy 17:00 körül láthassa a naplementét, mielőtt beállna az esti téli fagy.",
+            "ro": "Bucurați-vă de o tură revigorantă de iarnă pornind din parcul de picnic, cât timp soarele de dimineață strălucește. La prânz, piscinele oferă o opțiune caldă în interior. După-amiaza, traseul trece prin locuri culturale, Espaço + fiind ideal pentru încălzire. Încheiați ziua la castel pentru apusul de la ora 17:00, înainte de lăsarea frigului.",
+            "en": "Enjoy a refreshing winter ride starting from the picnic park while the morning sun is out. At noon, the municipal pools offer a warm indoor exercise option. In the afternoon, the tour passes through cultural sites, with Espaço + being ideal for warming up. End your day at the castle to catch the 17:00 sunset before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque de Merendas de Aljezur",
+                "hu": "Aljezur Piknikparkja",
+                "ro": "Parcul de Picnic din Aljezur",
+                "en": "Aljezur Picnic Park"
+              },
+              "tip_5lang": {
+                "de": "Die frische Winterluft ist ideal für einen aktiven Start; tragen Sie Handschuhe gegen den kalten Fahrtwind, während Sie die ruhige Natur des Parks genießen.",
+                "hu": "A friss téli levegő ideális az aktív kezdéshez; viseljen kesztyűt a hideg menetszél ellen, miközben élvezi a park csendes és nyugalmas téli természetét.",
+                "ro": "Aerul proaspăt de iarnă este ideal pentru un început activ; purtați mănuși împotriva vântului rece în timp ce vă bucurați de natura liniștită a parcului.",
+                "en": "The crisp winter air is ideal for an active start; wear gloves against the cold wind while enjoying the peaceful and quiet nature of the park in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscinas Municipais de Aljezur",
+                "hu": "Aljezur Városi Medencéi",
+                "ro": "Piscinele Municipale din Aljezur",
+                "en": "Aljezur Municipal Pools"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im beheizten Schwimmbad ist im Winter besonders wohltuend; parken Sie Ihr Rad sicher am Eingang und wärmen Sie sich im Wasser richtig auf.",
+                "hu": "A fűtött uszoda látogatása télen különösen jól esik; parkolja le biztonságosan a biciklit a bejáratnál, és melegedjen fel alaposan a benti vízben.",
+                "ro": "O vizită la piscina încălzită este deosebit de plăcută iarna; parcați bicicleta în siguranță la intrare și încălziți-vă bine în apa primitoare.",
+                "en": "A visit to the heated pool is especially pleasant in winter; park your bike securely at the entrance and warm up thoroughly in the indoor water facilities."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço +",
+                "hu": "Espaço +",
+                "ro": "Espaço +",
+                "en": "Espaço +"
+              },
+              "tip_5lang": {
+                "de": "Die hellen Innenräume sind ein perfekter Kontrast zur frühen Winterdämmerung; parken Sie Ihr Rad und genießen Sie die Wärme bei kulturellen Entdeckungen.",
+                "hu": "A világos belső terek tökéletes kontrasztot alkotnak a korai téli szürkülettel; tegye le a bringát, és élvezze a meleget a kulturális felfedezések közben.",
+                "ro": "Spațiile interioare luminoase sunt un contrast perfect pentru amurgul timpuriu; parcați bicicleta și bucurați-vă de căldură în timpul explorării culturale.",
+                "en": "The bright indoor spaces are a perfect contrast to the early winter twilight; park your bike and enjoy the warmth during your cultural discoveries inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Aljezur",
+                "hu": "Aljezur Városháza",
+                "ro": "Primăria Aljezur",
+                "en": "Aljezur Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein markanter Orientierungspunkt auf Ihrer Wintertour; nutzen Sie die kurzen Wege im Ort, um vor dem frühen Sonnenuntergang alle Ziele zu erreichen.",
+                "hu": "Fontos tájékozódási pont a téli túra során; használja ki a városi távolságok rövidségét, hogy a korai naplemente előtt minden tervezett helyszínre eljusson.",
+                "ro": "Un punct de reper important în tura de iarnă; profitați de distanțele scurte din oraș pentru a ajunge la toate destinațiile înainte de apusul timpuriu.",
+                "en": "A key landmark on your winter tour; take advantage of the short distances in town to reach all your destinations before the early sunset at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Aljezur Táctil Museu Municipal",
+                "hu": "Aljezur Táctil Városi Múzeum",
+                "ro": "Muzeul Municipal Tactil din Aljezur",
+                "en": "Aljezur Tactile Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Die gemütlichen Räume bieten Schutz vor dem kühlen Winterwind; parken Sie Ihr Rad direkt davor und nehmen Sie sich Zeit für die faszinierende Ausstellung.",
+                "hu": "A hangulatos termek védelmet nyújtanak a hűvös téli szél ellen; parkolja le a kerékpárt közvetlenül az épület előtt, és szánjon időt a kiállításra.",
+                "ro": "Sălile primitoare oferă protecție împotriva vântului rece de iarnă; parcați bicicleta chiar în față și acordați-vă timp pentru această expoziție fascinantă.",
+                "en": "The cozy rooms offer protection from the chilly winter wind; park your bike right in front and take your time for the fascinating tactile exhibition inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa-Museu Pintor José Cercas",
+                "hu": "José Cercas Festő Emlékmúzeuma",
+                "ro": "Casa-Muzeu a Pictorului José Cercas",
+                "en": "Painter José Cercas House-Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort, um sich zwischen den Radetappen aufzuwärmen; die historische Atmosphäre des Hauses wirkt im Winter besonders einladend und friedlich.",
+                "hu": "Csodálatos hely a felmelegedésre két kerékpáros etap között; a ház történelmi hangulata télen különösen hívogató és békés menedéket nyújt a vándoroknak.",
+                "ro": "Un loc minunat pentru a vă încălzi între etapele de pedalat; atmosfera istorică a casei pare deosebit de primitoare și liniștită în timpul iernii.",
+                "en": "A wonderful place to warm up between cycling segments; the historic atmosphere of the house feels especially inviting and peaceful during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Aljezur",
+                "hu": "Aljezur Kastélya",
+                "ro": "Castelul din Aljezur",
+                "en": "Aljezur Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber oben wird es windig; stellen Sie sicher, dass Sie bis 16:45 Uhr oben sind, um das letzte Licht über dem Tal zu erleben.",
+                "hu": "A felfelé tekerés melegen tartja, de fent szeles lehet az idő; érjen fel 16:45-ig, hogy elcsípje az utolsó fényeket a völgy felett a kapuzárás előtt.",
+                "ro": "Urcarea vă va ține de cald, dar sus poate fi vântos; asigurați-vă că ajungeți până la 16:45 pentru a vedea ultima lumină peste vale înainte de închidere.",
+                "en": "The ride up will keep you warm, but it gets windy at the top; ensure you are up by 16:45 to witness the last golden light over the valley before closing."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Kezdje a reggelt Aljezur történelmi központjának felfedezésével, a macskaköves utcákon kanyarogva. A dél a helyi örökség és a mór romok felfedezésére csábít a múzeumokban. A délutánt a dombtetőn álló ősi kastély lenyűgöző panorámájának megcsodálásával töltheti. Zárja a napot a folyóparton pihenve, vagy merüljön el a kortárs helyi művészetben a galériákban.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Aljezur, plimbându-vă pe străzile cu piatră cubică. La prânz, pătrundeți în moștenirea locală la muzee fascinante și ruine maure ascunse. Petreceți după-amiaza admirând priveliștile panoramice de la vechiul castel de pe deal. Încheiați-vă ziua relaxându-vă lângă râu sau explorând arta locală contemporană în galeriile civice.",
         "en": "Begin your morning exploring the historic heart of Aljezur, winding through charming cobblestone streets. Midday invites a deep dive into local heritage at fascinating museums and hidden Moorish ruins. Spend the afternoon marveling at sweeping views from the ancient hilltop castle. Conclude your day unwinding by the river or immersing yourself in contemporary local art at civic galleries."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Tag bequem mit dem Auto bei den Gemeindepools, um den Regen draußen zu lassen. Mittags bietet der Picknickpark einen schnellen Halt zwischen zwei Schauern. Die Museen im Stadtzentrum sind dank naher Parkplätze leicht trocken zu erreichen. Trotz nasser Straßen ist die Fahrt zur Burg sicher, und das Auto bietet den perfekten Rückzugsort vor dem Abendregen.",
+            "hu": "Kezdje a napot kényelmesen autóval a városi uszodánál, teljesen kikerülve a reggeli esőt. Délben a piknikpark egy gyors megállót kínál két zápor között. A városközpont múzeumai a közeli parkolók révén száraz lábbal is könnyen megközelíthetők. A vizes utak ellenére a várba vezető autóút biztonságos, a kocsi pedig tökéletes menedék marad az esti esőben.",
+            "ro": "Începeți ziua confortabil cu mașina la piscinele municipale, evitând complet ploaia de dimineață. La prânz, parcul de picnic oferă o oprire rapidă între averse. Muzeele din centrul orașului sunt ușor de vizitat la uscat datorită parcărilor din apropiere. În ciuda drumurilor ude, drumul spre castel este sigur, iar mașina oferă refugiul perfect în ploaia de seară.",
+            "en": "Start your day comfortably by car at the municipal pools, avoiding the morning rain entirely. At noon, the picnic park offers a quick stop between showers. The city center museums are easily accessible and dry thanks to nearby parking. Despite the wet roads, the drive to the castle is safe, and your car remains the perfect refuge from the evening rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscinas Municipais de Aljezur",
+                "hu": "Aljezur Városi Medencéi",
+                "ro": "Piscinele Municipale din Aljezur",
+                "en": "Aljezur Municipal Pools"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang und genießen Sie das warme Hallenbad; es ist der beste Ort, um den regnerischen Vormittag sportlich im Trockenen zu verbringen.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, és élvezze a meleg, fedett uszodát; ez a legjobb hely, hogy az esős délelőttöt sportolással, szárazon töltse a vízben.",
+                "ro": "Parcați chiar la intrare și bucurați-vă de piscina interioară caldă; este cel mai bun loc pentru a petrece dimineața ploioasă făcând sport la adăpost.",
+                "en": "Park right at the entrance and enjoy the warm indoor pool; it is the best place to spend a rainy morning staying active and dry inside the water facilities."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de Merendas de Aljezur",
+                "hu": "Aljezur Piknikparkja",
+                "ro": "Parcul de Picnic din Aljezur",
+                "en": "Aljezur Picnic Park"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis für einen kurzen Blick in den Park; bei starkem Regen können Sie die Naturansicht gemütlich vom Fahrersitz aus genießen.",
+                "hu": "Használja az autót bázisként a park rövid megtekintéséhez; heves esőzés esetén a kényelmes vezetőülésből is gyönyörködhet a természet látványában.",
+                "ro": "Folosiți mașina ca bază pentru o scurtă vizită în parc; în caz de ploaie torențială, puteți admira natura confortabil chiar de pe scaunul șoferului.",
+                "en": "Use your car as a base for a quick look at the park; in case of heavy rain, you can enjoy the natural view comfortably from your driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Aljezur Táctil Museu Municipal",
+                "hu": "Aljezur Táctil Városi Múzeum",
+                "ro": "Muzeul Municipal Tactil din Aljezur",
+                "en": "Aljezur Tactile Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe gibt es Parkplätze, die den Zugang zu den Museen im Regen erleichtern; tauchen Sie drinnen trocken in die Stadtgeschichte von Aljezur ein.",
+                "hu": "A közelben több parkoló is található, amelyek megkönnyítik a múzeumok elérését esőben; merüljön el szárazon Aljezur városának történelmében az épületben.",
+                "ro": "Există parcări în apropiere care facilitează accesul la muzee pe ploaie; descoperiți istoria orașului Aljezur la adăpost în interiorul muzeului.",
+                "en": "There are parking spots nearby that make accessing the museums easy in the rain; immerse yourself dry in Aljezur's history inside the tactile exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte das Mentiras",
+                "hu": "Hazugságok Kútja",
+                "ro": "Fântâna Minciunilor",
+                "en": "Fountain of Lies"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie so nah wie möglich an die Quelle heran, um den Fußweg im Regen kurz zu halten; achten Sie auf die schmale, bei Nässe rutschige Zufahrt.",
+                "hu": "Hajtson a lehető legközelebb a kúthoz, hogy lerövidítse az esőben megtett gyalogutat; ügyeljen a szűk és vizesen csúszós útviszonyokra a behajtásnál.",
+                "ro": "Conduceți cât mai aproape de fântână pentru a scurta drumul pe jos prin ploaie; atenție la accesul îngust și alunecos pe carosabilul umed.",
+                "en": "Drive as close as possible to the fountain to shorten the walk in the rain; watch out for the narrow access road which can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Aljezur",
+                "hu": "Aljezur Kastélya",
+                "ro": "Castelul din Aljezur",
+                "en": "Aljezur Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt unter der Burg spart Ihnen den nassen Aufstieg; genießen Sie die Aussicht und kehren Sie bei einem Schauer schnell ins Auto zurück.",
+                "hu": "A közvetlenül a vár alatt található parkoló megkíméli a vizes emelkedőtől; élvezze a kilátást, és egy hirtelen zápor esetén gyorsan térjen vissza az autóba.",
+                "ro": "Parcarea direct sub castel vă scutește de urcarea prin ploaie; bucurați-vă de privelişte și reveniți rapid în mașină dacă începe o aversă torențială.",
+                "en": "The parking lot directly below the castle saves you from the wet climb; enjoy the view and return quickly to your car if a heavy shower starts suddenly."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço +",
+                "hu": "Espaço +",
+                "ro": "Espaço +",
+                "en": "Espaço +"
+              },
+              "tip_5lang": {
+                "de": "Mit dem Auto erreichen Sie dieses Kulturzentrum bequem und trocken für den Abschluss des Tages; Parkmöglichkeiten befinden sich direkt vor dem modernen Gebäude.",
+                "hu": "Autóval kényelmesen és szárazon érheti el ezt a kulturális központot a nap végén; a parkolás közvetlenül a modern épület előtt biztosított a látogatóknak.",
+                "ro": "Cu mașina puteți ajunge confortabil și la uscat la acest centru cultural pentru finalul zilei; parcarea este disponibilă chiar în fața clădirii moderne.",
+                "en": "By car, you can reach this cultural center comfortably and dry for the end of your day; parking is available directly in front of the modern building."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintertag warm im Auto auf dem Weg zu den Gemeindepools. Mittags ermöglicht das Auto einen entspannten Besuch im Picknickpark, geschützt vor dem kühlen Wind. Der Nachmittag gehört den Museen, die dank naher Parkplätze leicht erreichbar sind. Beenden Sie die Tour auf der Burg, um den Sonnenuntergang gegen 17:00 Uhr komfortabel aus der Nähe zu erleben.",
+            "hu": "Kezdje a téli napot az autó melegében, útban a városi uszoda felé. Délben a kocsi lehetővé teszi a piknikpark nyugodt meglátogatását, védve a hűvös széltől. A délután a múzeumoké, amelyek a közeli parkolók révén könnyen elérhetők. A túrát a várnál zárja, hogy 17:00 körül kényelmesen, a közelből nézhesse végig a naplementét.",
+            "ro": "Începeți ziua de iarnă în căldura mașinii, în drum spre piscinele municipale. La prânz, mașina permite o vizită relaxată în parcul de picnic, protejat de vântul rece. După-amiaza aparține muzeelor, ușor accesibile datorită parcărilor din apropiere. Încheiați turul la castel pentru a vedea confortabil apusul de la ora 17:00.",
+            "en": "Start your winter day in the warmth of your car on the way to the municipal pools. At noon, the car allows for a relaxed visit to the picnic park, sheltered from the cool wind. The afternoon is for museums, easily accessible thanks to nearby parking. End your tour at the castle to comfortably watch the sunset around 17:00 from close by."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscinas Municipais de Aljezur",
+                "hu": "Aljezur Városi Medencéi",
+                "ro": "Piscinele Municipale din Aljezur",
+                "en": "Aljezur Municipal Pools"
+              },
+              "tip_5lang": {
+                "de": "Dank der Heizung im Auto und im Hallenbad bleibt Ihnen die Winterkälte erspart; ein perfekter Ort für sportliche Betätigung an einem kühlen Morgen.",
+                "hu": "Az autó és a fedett uszoda fűtésének köszönhetően megkímélheti magát a téli hidegtől; tökéletes hely a sportoláshoz egy hűvös téli reggelen.",
+                "ro": "Datorită încălzirii din mașină și de la piscina interioară, veți evita frigul iernii; un loc perfect pentru activitate sportivă într-o dimineață rece.",
+                "en": "Thanks to the heating in your car and the indoor pool, you can avoid the winter chill; it is a perfect place for exercise on a cool winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de Merendas de Aljezur",
+                "hu": "Aljezur Piknikparkja",
+                "ro": "Parcul de Picnic din Aljezur",
+                "en": "Aljezur Picnic Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Winterlandschaft vom Auto aus oder unternehmen Sie einen kurzen, erfrischenden Spaziergang, bevor Sie sich im Wagen wieder aufwärmen.",
+                "hu": "Élvezze a téli táj látványát az autóból, vagy tegyen egy rövid, frissítő sétát, mielőtt visszatérne a kocsiba felmelegedni a következő megállóig.",
+                "ro": "Bucurați-vă de peisajul de iarnă din mașină sau faceți o scurtă plimbare revigorantă înainte de a reveni în vehicul pentru a vă încălzi din nou.",
+                "en": "Enjoy the view of the winter landscape from your car or take a short, refreshing walk before returning to the vehicle to warm up for the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Aljezur Táctil Museu Municipal",
+                "hu": "Aljezur Táctil Városi Múzeum",
+                "ro": "Muzeul Municipal Tactil din Aljezur",
+                "en": "Aljezur Tactile Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Zentrums, um die Wege im kalten Wind zu minimieren; die Ausstellungen im Inneren sind im Winter angenehm temperiert.",
+                "hu": "Parkoljon a központ közelében, hogy minimalizálja a hideg szélben töltött időt; a benti kiállítások télen is kellemes hőmérsékletűek a látogatók számára.",
+                "ro": "Parcați aproape de centru pentru a minimiza timpul petrecut în vântul rece; expozițiile interioare au o temperatură plăcută chiar și în timpul iernii.",
+                "en": "Park near the center to minimize time spent in the cold wind; the indoor exhibitions are kept at a pleasant temperature during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Fonte das Mentiras",
+                "hu": "Hazugságok Kútja",
+                "ro": "Fântâna Minciunilor",
+                "en": "Fountain of Lies"
+              },
+              "tip_5lang": {
+                "de": "Mit dem Auto erreichen Sie diesen abgelegenen Ort ohne lange Wanderung in der Winterkälte; genießen Sie die friedliche Stille der Quelle in dieser Jahreszeit.",
+                "hu": "Autóval hosszú gyaloglás nélkül, a téli hideget elkerülve érheti el ezt az eldugott helyet; élvezze a forrás körüli békés csendet ebben az évszakban.",
+                "ro": "Cu mașina puteți ajunge în acest loc retras fără o drumeție lungă prin frigul iernii; bucurați-vă de liniștea deplină a fântânii în acest sezon.",
+                "en": "By car, you can reach this secluded spot without a long hike in the winter cold; enjoy the peaceful silence of the fountain area during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Aljezur",
+                "hu": "Aljezur Kastélya",
+                "ro": "Castelul din Aljezur",
+                "en": "Aljezur Castle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum oberen Parkplatz, um den Sonnenuntergang um 17:00 Uhr ohne Anstrengung zu sehen; die Abendkälte lässt sich im Auto leicht abfangen.",
+                "hu": "Hajtson fel a felső parkolóig, hogy megerőltetés nélkül nézhesse meg a 17:00-kor kezdődő naplementét; az esti lehűlés ellen a kocsi fűtése nyújt védelmet.",
+                "ro": "Conduceți până la parcarea de sus pentru a vedea apusul de la ora 17:00 fără efort; frigul serii poate fi ușor evitat revenind rapid în mașina încălzită.",
+                "en": "Drive to the upper parking lot to watch the 17:00 sunset without effort; the evening chill can be easily avoided by returning to your warm car afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Espaço +",
+                "hu": "Espaço +",
+                "ro": "Espaço +",
+                "en": "Espaço +"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Zentrum ist nach Einbruch der Dunkelheit ein sicherer und warmer Ort; Parkplätze direkt davor machen den winterlichen Besuch sehr komfortabel.",
+                "hu": "Ez a modern központ sötétedés után is biztonságos és meleg helyszín; a közvetlenül előtte lévő parkolóhelyek kényelmessé teszik a téli látogatást.",
+                "ro": "Acest centru modern este un loc sigur și călduros după lăsarea întunericului; locurile de parcare chiar în față fac vizita de iarnă foarte confortabilă.",
+                "en": "This modern center is a safe and warm venue after dark; the parking spaces directly in front make your winter visit very convenient and comfortable."
+              }
+            }
+          ]
+        }
       }
     }
   }

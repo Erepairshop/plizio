@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Llançà történelmi szívében kezdünk, felfedezzük az óvárost és a gyönyörű Església de Sant Vicenç-t, mielőtt a tengeri szellő felé vennénk az irányt.\nDél: A kikötő környékére érve meglátogatjuk a tengerészeti templomot, és végigsétálunk a nyüzsgő Platja del Port-on, élvezve a mediterrán napsütést.\nDélután: Egy könnyű séta elvezet a látványos Mirador del Castellarhoz, amely panorámás kilátást nyújt a tengerre, majd a Platja de la Farella strandon pihenünk.\nEste: Tengerparti sétánkat a Platja del Cau del Llopnál fejezzük be, ahol élvezhetjük a hullámok csendes morajlását, ahogy a fény egyre lágyabbá válik a partvidéken.",
         "ro": "Dimineața: Începem în inima istorică a orașului Llançà, explorând orașul vechi și frumoasa Església de Sant Vicenç înainte de a ne îndrepta spre briza coastei.\nPrânz: Ajungând în zona portului, vizităm biserica maritimă și ne plimbăm de-a lungul vibrantei Platja del Port, bucurându-ne de soarele mediteranean.\nDupă-amiaza: O scurtă plimbare ne duce la spectaculosul Mirador del Castellar, oferind vederi panoramice, urmată de o pauză relaxantă la Platja de la Farella.\nSeara: Ne încheiem promenada la Platja del Cau del Llop, bucurându-ne de sunetul liniștit al valurilor pe măsură ce lumina se înmoaie peste coasta stâncoasă.",
         "en": "Morning: We start in the historic heart of Llançà, exploring the old town and the beautiful Església de Sant Vicenç before heading towards the coastal breeze.\nMidday: Reaching the port area, we visit the maritime church and stroll along the lively Platja del Port, soaking in the Mediterranean sun and watching the boats.\nAfternoon: A gentle walk takes us to the spectacular Mirador del Castellar, offering panoramic sea views, followed by a relaxing pause at Platja de la Farella.\nEvening: We conclude our coastal promenade at Platja del Cau del Llop, enjoying the tranquil sound of the waves as the afternoon light softens over the rugged coastline."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem Schutz der dicken Mauern von Sant Vicenç, während draußen der Regen auf das Kopfsteinpflaster trommelt. Mittags bietet die Kirche am Hafen eine weitere trockene Zuflucht vor den Küstenwinden. Am Nachmittag wird der Küstenweg dramatisch, wenn die Wellen gegen die Felsen schlagen; wasserfeste Kleidung ist hier unerlässlich. Der Abend endet ruhig im Stadtzentrum, wo die nassen Gassen der Altstadt im sanften Licht glänzen.",
+            "hu": "A reggel Sant Vicenç vastag falai között indul, menedéket keresve az óvárosi utcákra hulló eső elől. Délben a kikötői templom nyújt újabb száraz megállót, miközben a tenger morajlása behallatszik a térre. Délután a parti sétány látványossá válik a szikláknak csapódó hullámokkal; az útvonal csúszós, így vízhatlan cipő kötelező. Az este az óváros fényesre ázott kövei között zárul, ahol a sötétségben megcsillan az utcai világítás.",
+            "ro": "Dimineața începe sub protecția zidurilor groase de la Sant Vicenç, în timp ce ploaia cade peste străzile pietruite ale orașului vechi. La prânz, biserica din port oferă un alt refugiu uscat în fața vântului de coastă. După-amiaza, poteca de pe țărm devine dramatică, cu valuri care se sparg de stânci; echipamentul impermeabil este esențial aici. Seara se încheie liniștit în centrul orașului, unde străzile umede reflectă luminile stradale.",
+            "en": "The morning begins under the shelter of Sant Vicenç's thick walls as rain drums on the cobblestone streets of the old town. At midday, the port church provides another dry sanctuary from the coastal winds. In the afternoon, the shoreline path becomes dramatic with waves crashing against the rocks; waterproof gear is essential here. The evening ends quietly in the town center, where the wet streets of the old quarter glisten under the lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Vicenç",
+                "hu": "Sant Vicenç-templom",
+                "ro": "Biserica Sant Vicenç",
+                "en": "Church of Sant Vicenç"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das romanische Interieur als perfekten Schutz vor dem Regen; achten Sie auf den rutschigen Eingangsbereich bei Nässe.",
+                "hu": "Csodálja meg a román stílusú belső teret, amely tökéletes menedék az eső elől; ügyeljen a bejáratnál a vizes, csúszós kövekre.",
+                "ro": "Admirați interiorul romanic, refugiul perfect împotriva ploii; aveți grijă la intrare, deoarece pardoseala de piatră poate deveni alunecoasă.",
+                "en": "Admire the Romanesque interior as a perfect shelter from the rain; be careful at the entrance as the stone floor can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Església del Port",
+                "hu": "Kikötői templom",
+                "ro": "Biserica din Port",
+                "en": "Church of the Port"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Vorraum, um den Hafen zu beobachten, ohne nass zu werden; ideal für eine kurze Pause während eines Schauers.",
+                "hu": "Használja a fedett előteret a kikötő megfigyelésére anélkül, hogy elázna; ideális egy rövid pihenőre egy intenzívebb zápor alatt.",
+                "ro": "Folosiți pridvorul acoperit pentru a observa portul fără a vă uda; este locul ideal pentru o scurtă pauză în timpul unei averse.",
+                "en": "Use the covered porch to observe the harbor without getting wet; it is the ideal spot for a short break during a passing shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Port",
+                "hu": "Platja del Port",
+                "ro": "Platja del Port",
+                "en": "Platja del Port"
+              },
+              "tip_5lang": {
+                "de": "Die kieselige Bucht wirkt im Regen besonders atmosphärisch, aber meiden Sie die Brandungszone; ein stabiler Regenschirm ist bei Seewind ratsam.",
+                "hu": "A kavicsos öböl esőben különleges hangulatot áraszt, de kerülje a hullámverést; az erős tengeri szél miatt stabil esernyő ajánlott.",
+                "ro": "Golful cu pietriș are o atmosferă specială în ploaie, dar evitați zona valurilor; o umbrelă rezistentă este recomandată din cauza vântului.",
+                "en": "The pebbly bay feels very atmospheric in the rain, but avoid the wave zone; a sturdy umbrella is recommended due to the sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castellar",
+                "hu": "Mirador del Castellar",
+                "ro": "Mirador del Castellar",
+                "en": "Mirador del Castellar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das aufgewühlte Meer von den Felsen aus; tragen Sie Schuhe mit gutem Grip, da die Felsen extrem rutschig sind.",
+                "hu": "Élvezze a kilátást a felkavart tengerre a sziklákról; viseljen tapadós talpú cipőt, mert a sziklafelület esőben rendkívül csúszós.",
+                "ro": "Bucurați-vă de priveliștea mării agitate de pe stânci; purtați încălțăminte cu aderență bună, deoarece suprafața devine extrem de alunecoasă.",
+                "en": "Enjoy the view of the churning sea from the rocks; wear shoes with good grip as the rock surfaces become extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Farella",
+                "hu": "Platja de la Farella",
+                "ro": "Platja de la Farella",
+                "en": "Platja de la Farella"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Wolken über der Bucht bieten tolle Fotomotive, bleiben Sie aber auf den befestigten Wegen; Regenponchos sind praktischer als Schirme.",
+                "hu": "Az öböl feletti sötét felhők drámai fotótémát nyújtanak, de maradjon a kövezett úton; a szél miatt az esőponcsó praktikusabb az ernyőnél.",
+                "ro": "Norii negri de deasupra golfului oferă motive foto dramatice, dar rămâneți pe potecile pavate; pelerinele sunt mai practice decât umbrelele.",
+                "en": "The dark clouds over the bay offer dramatic photo opportunities, but stay on paved paths; rain ponchos are more practical than umbrellas here."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Cau del Llop",
+                "hu": "Platja del Cau del Llop",
+                "ro": "Platja del Cau del Llop",
+                "en": "Platja del Cau del Llop"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Naturschauspiel der Wellen aus sicherer Entfernung; ein warmes, wasserdichtes Cape schützt vor der feuchten Kälte am Abend.",
+                "hu": "Figyelje meg a hullámok játékát biztonságos távolságbahn; egy meleg, vízálló köpeny megvédi az este lehűlő párás levegőben.",
+                "ro": "Observați spectacolul valurilor de la o distanță sigură; o pelerină caldă și impermeabilă vă va proteja de frigul umed al serii.",
+                "en": "Observe the natural spectacle of the waves from a safe distance; a warm, waterproof cape will protect you from the damp evening cold."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und klar, das goldene Licht der tiefstehenden Sonne lässt die Kirchenfassaden erstrahlen. Mittags weht oft die kühle Tramuntana, weshalb ein windgeschützter Platz am Hafen ideal ist. Am Nachmittag bietet der Küstenweg weite Sicht bis zum Horizont, bevor die Sonne gegen 17:00 Uhr früh untergeht. Der Abend wird schnell kalt, die beleuchteten Gassen laden zu einem zügigen Spaziergang ein, bevor man sich ins Warme zurückzieht.",
+            "hu": "A téli reggel friss és tiszta, az alacsonyan járó nap arany fénybe vonja a templomok homlokzatát. Délben a hűvös Tramuntana szél felerősödhet, ezért érdemes szélvédett helyet keresni a kikötőben. Délután a parti ösvényről ellátni egészen a horizontig, mielőtt a nap 17:00 óra körül váratlanul lenyugszik. Az este gyorsan lehűl, a kivilágított utcák egy gyors sétára hívnak, mielőtt behúzódnánk a melegre.",
+            "ro": "Dimineața de iarnă este proaspătă și senină, lumina aurie a soarelui punând în valoare fațadele bisericilor. La prânz, vântul rece Tramuntana se poate intensifica, așa că un loc adăpostit în port este ideal. După-amiaza, poteca de pe coastă oferă vizibilitate maximă până la orizont, înainte ca soarele să apună devreme, în jur de ora 17:00. Seara devine rapid răcoroasă, iar străzile luminate vă invită la o plimbare rapidă înainte de a merge la căldură.",
+            "en": "The winter morning is crisp and clear, with the low sun casting a golden glow over the church facades. At midday, the cool Tramuntana wind can pick up, making a sheltered spot in the harbor ideal. In the afternoon, the coastal path offers long-range visibility to the horizon before the sun sets early around 17:00. The evening turns cold quickly; the illuminated streets invite a brisk walk before retreating to a warm indoor space."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Vicenç",
+                "hu": "Sant Vicenç-templom",
+                "ro": "Biserica Sant Vicenç",
+                "en": "Church of Sant Vicenç"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine ruhige, kühle Atmosphäre; tragen Sie im Winter warme Schichten, da Steinbauten die Kälte lange speichern.",
+                "hu": "A templom csendes, hűvös menedék; viseljen meleg rétegeket, mivel a kőépületek télen sokáig tartják a hideget.",
+                "ro": "Biserica oferă o atmosferă liniștită și răcoroasă; purtați straturi calde, deoarece clădirile din piatră rețin frigul pe timp de iarnă.",
+                "en": "The church offers a peaceful, cool atmosphere; wear warm layers as stone buildings retain the cold for a long time during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Església del Port",
+                "hu": "Kikötői templom",
+                "ro": "Biserica din Port",
+                "en": "Church of the Port"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der modernen Fassade; ein Schal gegen den Seewind ist in diesem Bereich unverzichtbar.",
+                "hu": "Használja ki a tiszta téli fényt a modern homlokzat fotózásához; a tengeri szél ellen egy sál elengedhetetlen ezen a részen.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii ale fațadei moderne; o eșarfă împotriva vântului marin este indispensabilă în această zonă.",
+                "en": "Take advantage of the clear winter light for photos of the modern facade; a scarf against the sea breeze is indispensable in this area."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Port",
+                "hu": "Platja del Port",
+                "ro": "Platja del Port",
+                "en": "Platja del Port"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; genießen Sie die Einsamkeit, aber ziehen Sie sich wegen des Windes warm an.",
+                "hu": "A strand télen szinte teljesen üres; élvezze a magányt a parton, de öltözzön fel melegen a metsző szél miatt.",
+                "ro": "Plaja este aproape pustie iarna; bucurați-vă de singurătatea țărmului, dar îmbrăcați-vă gros din cauza vântului tăios.",
+                "en": "The beach is almost deserted in winter; enjoy the solitude of the shore, but dress warmly because of the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castellar",
+                "hu": "Mirador del Castellar",
+                "ro": "Mirador del Castellar",
+                "en": "Mirador del Castellar"
+              },
+              "tip_5lang": {
+                "de": "Bester Aussichtspunkt für den Sonnenuntergang gegen 17:00 Uhr; bringen Sie Handschuhe mit, da die Geländer sehr kalt werden können.",
+                "hu": "A legjobb pont a 17:00 óra körüli naplemente megtekintéséhez; hozzon kesztyűt, mert a korlátok fémfelülete nagyon hideg lehet.",
+                "ro": "Cel mai bun punct pentru a vedea apusul în jur de ora 17:00; aduceți mănuși, deoarece balustradele metalice pot fi foarte reci.",
+                "en": "The best vantage point for the sunset around 17:00; bring gloves, as the metal railings can become very cold to the touch."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Farella",
+                "hu": "Platja de la Farella",
+                "ro": "Platja de la Farella",
+                "en": "Platja de la Farella"
+              },
+              "tip_5lang": {
+                "de": "Die felsige Bucht wirkt im Winterlicht besonders scharf; ein Thermo-Getränk ist ideal, um die kühle Meeresbrise zu genießen.",
+                "hu": "A sziklás öböl különösen éles kontúrokkal látszik a téli fényben; egy termosz meleg ital jól jöhet a hűvös szellőben.",
+                "ro": "Golful stâncos pare foarte bine definit în lumina iernii; un termos cu băutură caldă este ideal pentru a savura briza răcoroasă.",
+                "en": "The rocky bay looks particularly sharp in the winter light; a thermos with a warm drink is ideal for enjoying the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Cau del Llop",
+                "hu": "Platja del Cau del Llop",
+                "ro": "Platja del Cau del Llop",
+                "en": "Platja del Cau del Llop"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht vor 17:00 Uhr für einen Spaziergang; die winterliche Stille am Meer ist hier besonders entspannend.",
+                "hu": "Használja ki az utolsó fényeket 17:00 óra előtt egy sétára; a tenger téli csendje itt különösen pihentető élményt nyújt.",
+                "ro": "Profitați de ultimele raze de lumină înainte de ora 17:00 pentru o plimbare; liniștea iernatică a mării este extrem de relaxantă aici.",
+                "en": "Take advantage of the last daylight before 17:00 for a walk; the winter silence of the sea is especially relaxing here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Délelőtt: Kezdje kerékpártúráját a történelmi Església de Sant Vicenç-nél a városközpontban, majd tekerjen kényelmesen Llançà nyüzsgő kikötői negyedébe.\nDél: A kikötői templom megtekintése után tekerjen a Mirador del Castellarhoz a lélegzetelállító kilátásért, mielőtt megállna a Platja de les Titarolites-nél.\nDélután: Haladjon tovább dél felé a festői tengerparti ösvényeken, élvezve a friss szellőt, amíg el nem éri a Platja del Cau del Llop strandot egy gyors csobbanásra.\nEste: Egy utolsó hosszabb út elviszi a félreeső Platja d'en Belleu-hoz, amely tökéletes hely a lábak pihentetésére és egy békés tengerparti naplemente élvezetére.",
         "ro": "Dimineața: Începeți turul cu bicicleta la istorica Església de Sant Vicenç din centrul orașului, apoi pedalați lin spre cartierul vibrant al portului.\nPrânz: După ce vedeți biserica portului, mergeți la Mirador del Castellar pentru vederi uluitoare ale Mediteranei înainte de a vă opri la Platja de les Titarolites.\nDupă-amiaza: Continuați să mergeți spre sud de-a lungul potecilor de coastă, bucurându-vă de briza mării pe măsură ce ajungeți la pitorescul Platja del Cau del Llop.\nSeara: O ultimă plimbare vă aduce la plaja izolată Platja d'en Belleu, locul perfect pentru a vă odihni picioarele și a vă bucura de un apus de soare pașnic.",
         "en": "Morning: Kick off your cycling tour at the historic Església de Sant Vicenç in the town center, then pedal smoothly towards the vibrant port district of Llançà.\nMidday: After seeing the port's church, cycle to the Mirador del Castellar for breathtaking views of the Mediterranean before stopping at Platja de les Titarolites.\nAfternoon: Continue riding south along the scenic coastal paths, enjoying the fresh sea breeze as you reach the picturesque Platja del Cau del Llop for a quick dip.\nEvening: A final longer ride brings you to the secluded Platja d'en Belleu, the perfect spot to rest your legs and enjoy a peaceful coastal sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad erfordert volle Konzentration auf den nassen Straßen bei Sant Vicenç. Mittags bieten die Kirchen trockene Pausen, während der Regen auf die Helme prasselt. Am Nachmittag ist Vorsicht an den Küstenaussichtspunkten geboten, da die Wege schlammig sein können; gute Bremsen und Schutzbleche sind Pflicht. Der Abend endet mit der Rückkehr zur Basis, wobei eine heiße Dusche nach der feuchten Fahrt durch Llançà Priorität hat.",
+            "hu": "A reggeli kerékpározás teljes koncentrációt igényel Sant Vicenç vizes útjain. Napközben a templomok nyújtanak száraz pihenőt, miközben az eső a sisakokon kopog. Délután óvatosság szükséges a parti kilátóknál, mert az utak sárosak és csúszósak lehetnek; a jó fék és sárvédő elengedhetetlen. Az este a bázisra való visszatéréssel zárul, ahol egy forró zuhany lesz a jutalom a vizes tekerés után.",
+            "ro": "Dimineața pe bicicletă necesită concentrare maximă pe străzile umede de lângă Sant Vicenç. La prânz, bisericile oferă pauze uscate în timp ce ploaia bate în căști. După-amiaza, este necesară prudență la punctele de belvedere, deoarece potecile pot fi noroioase; frânele bune și apărătorile sunt obligatorii. Seara se încheie cu întoarcerea la bază, un duș fierbinte fiind prioritatea după drumul umed prin Llançà.",
+            "en": "Morning on the bike requires full concentration on the wet roads near Sant Vicenç. At midday, the churches offer dry breaks while rain patters on the helmets. In the afternoon, caution is needed at the coastal viewpoints as paths can be muddy; good brakes and mudguards are mandatory. The evening ends with a return to base, where a hot shower is the priority after the damp ride through Llançà."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Vicenç",
+                "hu": "Sant Vicenç-templom",
+                "ro": "Biserica Sant Vicenç",
+                "en": "Church of Sant Vicenç"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Kirche als trockene Basis; achten Sie auf glatte Pflastersteine beim Absteigen.",
+                "hu": "Parkolja le a biciklit fedett helyen, és használja a templomot száraz bázisként; ügyeljen a csúszós macskakövekre leszálláskor.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți biserica drept bază uscată; atenție la pietrele cubice alunecoase când coborâți.",
+                "en": "Park your bike in a sheltered spot and use the church as a dry base; watch out for slippery cobblestones when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Església del Port",
+                "hu": "Kikötői templom",
+                "ro": "Biserica din Port",
+                "en": "Church of the Port"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp bietet Schutz vor Regengüssen; prüfen Sie Ihre Reifendrucke für bessere Haftung auf dem nassen Asphalt zum Hafen.",
+                "hu": "Egy rövid megálló védelmet nyújt a záporok elől; ellenőrizze a guminyomást a jobb tapadás érdekében a vizes aszfalton a kikötő felé.",
+                "ro": "O scurtă oprire oferă protecție împotriva averselor; verificați presiunea pneurilor pentru o aderență mai bună pe asfaltul ud spre port.",
+                "en": "A short stop offers protection from downpours; check your tire pressure for better grip on the wet asphalt towards the harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castellar",
+                "hu": "Mirador del Castellar",
+                "ro": "Mirador del Castellar",
+                "en": "Mirador del Castellar"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie das Rad auf den Felsen, da der Boden extrem rutschig ist; die Aussicht auf das stürmische Meer lohnt die Mühe trotz Regen.",
+                "hu": "Tolja a biciklit a sziklákon, mert a talaj rendkívül csúszós; a viharos tenger látványa az eső ellenére is megéri a fáradtságot.",
+                "ro": "Împingeți bicicleta pe stânci, deoarece solul este extrem de alunecos; priveliștea mării furtunoase merită efortul în ciuda ploii.",
+                "en": "Push your bike on the rocks as the ground is extremely slippery; the view of the stormy sea is worth the effort despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de les Titarolites",
+                "hu": "Platja de les Titarolites",
+                "ro": "Platja de les Titarolites",
+                "en": "Platja de les Titarolites"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie schlammige Uferwege und bleiben Sie auf befestigten Straßen; eine neongelbe Regenjacke erhöht Ihre Sichtbarkeit für Autofahrer.",
+                "hu": "Kerülje a sáros parti ösvényeket, maradjon a burkolt úton; egy neon sárga esőkabát növeli a láthatóságot az autósok számára.",
+                "ro": "Evitați potecile noroioase de pe mal și rămâneți pe drumul asfaltat; o jachetă de ploaie neon vă sporește vizibilitatea pentru șoferi.",
+                "en": "Avoid muddy shore paths and stay on paved roads; a neon yellow rain jacket increases your visibility to drivers."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Cau del Llop",
+                "hu": "Platja del Cau del Llop",
+                "ro": "Platja del Cau del Llop",
+                "en": "Platja del Cau del Llop"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier stark wehen, halten Sie den Lenker fest; nutzen Sie die Pause, um Ihre Kette nach der Fahrt im Regen abzuwischen.",
+                "hu": "A szél itt erősen fújhat, tartsa erősen a kormányt; használja a pihenőt a lánc áttörlésére az esős tekerés után.",
+                "ro": "Vântul poate sufla puternic aici, țineți bine ghidonul; folosiți pauza pentru a șterge lanțul după drumul prin ploaie.",
+                "en": "The wind can blow strongly here, hold your handlebars firmly; use the break to wipe down your chain after riding in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja d'en Belleu",
+                "hu": "Platja d'en Belleu",
+                "ro": "Platja d'en Belleu",
+                "en": "Platja d'en Belleu"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zur Bucht kann bei Nässe tückisch sein; fahren Sie langsam und prüfen Sie Ihre Bremsbeläge vor der Rückfahrt im Dunkeln.",
+                "hu": "Az öbölhöz vezető lejtő trükkös lehet vizes időben; menjen lassan, és ellenőrizze a fékbetéteket a sötétedés előtti visszautat megelőzően.",
+                "ro": "Coborârea spre golf poate fi înșelătoare pe umiditate; mergeți încet și verificați plăcuțele de frână înainte de drumul de întoarcere.",
+                "en": "The descent to the bay can be treacherous when wet; go slowly and check your brake pads before the return trip in the dark."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen weckt die Geister bei der Fahrt durch Llançà. Mittags wärmt die Sonne nur mäßig, daher sind Thermo-Radklamotten und Handschuhe gegen den Windchill wichtig. Am Nachmittag genießen Sie leere Straßen und glasklare Luft an den Küstenstopps, bevor das Licht um 17:00 Uhr schnell schwindet. Der Abend erfordert gute Fahrradbeleuchtung für die letzte Etappe, während die Temperatur spürbar sinkt.",
+            "hu": "A hűvös téli reggel frissítően hat a Llançà-n keresztüli tekerés során. Délben a nap csak mérsékelten melegít, ezért a szél elleni termo-ruházat és kesztyű elengedhetetlen. Délután élvezze az üres utakat és a kristálytiszta levegőt a parti megállóknál, mielőtt a fény 17:00 órakor gyorsan fogyni kezd. Az este jó kerékpáros világítást igényel az utolsó szakaszon, ahogy a hőmérséklet érezhetően zuhan.",
+            "ro": "Dimineața răcoroasă de iarnă este revigorantă în timpul pedalatului prin Llançà. La prânz, soarele încălzește doar moderat, așa că îmbrăcămintea termo și mănușile sunt esențiale împotriva vântului. După-amiaza, bucurați-vă de drumurile pustii și de aerul de cristal la opririle de pe coastă, înainte ca lumina să dispară rapid la ora 17:00. Seara necesită lumini bune pentru bicicletă, pe măsură ce temperatura scade simțitor.",
+            "en": "The cool winter morning is invigorating during the ride through Llançà. At midday, the sun warms only moderately, so thermal cycling gear and gloves are essential against the wind chill. In the afternoon, enjoy empty roads and crystal-clear air at the coastal stops before the light fades rapidly at 17:00. The evening requires good bike lights for the final stretch as the temperature drops noticeably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església de Sant Vicenç",
+                "hu": "Sant Vicenç-templom",
+                "ro": "Biserica Sant Vicenç",
+                "en": "Church of Sant Vicenç"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Muskeln aufzuwärmen; die umliegenden Gassen bieten im Winter guten Windschutz beim Parken.",
+                "hu": "Használja ki a megállót az izmok bemelegítésére; a környező szűk utcák télen jó szélvédelmet nyújtanak a parkoláshoz.",
+                "ro": "Folosiți oprirea pentru a vă încălzi mușchii; străzile înguste din jur oferă protecție bună împotriva vântului pentru parcare.",
+                "en": "Use the stop to warm up your muscles; the surrounding narrow streets provide good wind protection for parking in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Església del Port",
+                "hu": "Kikötői templom",
+                "ro": "Biserica din Port",
+                "en": "Church of the Port"
+              },
+              "tip_5lang": {
+                "de": "Das helle Sonnenlicht reflektiert wunderschön an der Kirche; tragen Sie Lippenbalsam gegen das Austrocknen durch den kalten Seewind.",
+                "hu": "Az éles napfény gyönyörűen tükröződik a templomon; használjon ajakírt a hideg tengeri szél okozta kiszáradás ellen.",
+                "ro": "Lumina puternică a soarelui se reflectă frumos pe biserică; folosiți balsam de buze împotriva uscării cauzate de vântul rece.",
+                "en": "The bright sunlight reflects beautifully on the church; use lip balm against dryness caused by the cold sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castellar",
+                "hu": "Mirador del Castellar",
+                "ro": "Mirador del Castellar",
+                "en": "Mirador del Castellar"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die schneebedeckten Gipfel der Pyrenäen ist im Winter am besten; halten Sie für Fotos kurz an, aber kühlen Sie nicht aus.",
+                "hu": "A Pireneusok hófödte csúcsaira nyíló kilátás télen a legtisztább; álljon meg egy fotóra, de ne hagyja az izmait kihűlni.",
+                "ro": "Vizibilitatea spre vârfurile înzăpezite ale Pirineilor este optimă iarna; opriți-vă pentru fotografii, dar nu lăsați mușchii să se răcească.",
+                "en": "Visibility towards the snow-capped Pyrenees is best in winter; stop for a photo but don't let your muscles cool down too much."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de les Titarolites",
+                "hu": "Platja de les Titarolites",
+                "ro": "Platja de les Titarolites",
+                "en": "Platja de les Titarolites"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet, tragen Sie eine Sportbrille; der Strand ist ideal für eine kurze, windstille Pause in den Dünen.",
+                "hu": "A téli nap alacsonyan jár és vakíthat, viseljen napszemüveget; a strand dűnéi között szélvédett helyet találhat egy rövid pihenőre.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor, purtați ochelari; între dune puteți găsi un loc ferit de vânt pentru o scurtă pauză.",
+                "en": "The winter sun is low and can be blinding, wear sports glasses; you can find a wind-sheltered spot among the dunes for a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja del Cau del Llop",
+                "hu": "Platja del Cau del Llop",
+                "ro": "Platja del Cau del Llop",
+                "en": "Platja del Cau del Llop"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückfahrt vor 17:00 Uhr ein, um Tageslicht zu nutzen; warme Überschuhe verhindern kalte Füße bei der Weiterfahrt.",
+                "hu": "Tervezze meg a visszautat 17:00 óra előtt, hogy kihasználja a nappali fényt; a meleg kamásli segít elkerülni a lábak lehűlését.",
+                "ro": "Planificați drumul de întoarcere înainte de ora 17:00 pentru a profita de lumină; husele calde pentru pantofi previn înghețarea picioarelor.",
+                "en": "Plan your return trip before 17:00 to take advantage of the daylight; warm overshoes will help prevent your feet from freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja d'en Belleu",
+                "hu": "Platja d'en Belleu",
+                "ro": "Platja d'en Belleu",
+                "en": "Platja d'en Belleu"
+              },
+              "tip_5lang": {
+                "de": "Die Einsamkeit hier ist im Winter magisch, aber ziehen Sie sich für die Rückfahrt eine zusätzliche winddichte Schicht über.",
+                "hu": "Az itteni magány télen varázslatos, de a visszaindulás előtt vegyen fel egy plusz szélálló réteget a lehűlés ellen.",
+                "ro": "Singurătatea de aici este magică iarna, dar înainte de plecare puneți-vă un strat suplimentar rezistent la vânt.",
+                "en": "The solitude here is magical in winter, but put on an extra windproof layer before heading back to avoid getting cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Délelőtt: Vezessen fel a Puig de la Folguerához, ahonnan elsöprő kilátás nyílik a régióra, mielőtt leereszkedne a városközpontba a történelmi Església de Sant Vicenç-hez.\nDél: Navigáljon a kikötő felé, és parkoljon le a Mirador del Castellar közelében a tengerparti panorámáért, majd vezessen el a Platja de la Farella strandhoz pihenni.\nDélután: Haladjon tovább dél felé a zord Costa Braván a csendes Platja d'en Belleu-hoz, amely kiváló hely arra, hogy elmeneküljön a tömeg elől és élvezze a vizet.\nEste: Zárja autós túráját a szárazföld belseje felé a Puig de la Bordához, amely csodálatos utolsó kilátópontot kínál a tájra a nap lezárásaként.",
         "ro": "Dimineața: Conduceți până la Puig de la Folguera pentru o primă vedere panoramică asupra regiunii înainte de a coborî în centru pentru a admira istorica Església de Sant Vicenç.\nPrânz: Navigați spre port și parcați lângă Mirador del Castellar pentru a vă bucura de panorama de coastă, apoi conduceți până la Platja de la Farella pentru relaxare pe plajă.\nDupă-amiaza: Continuați să conduceți spre sud de-a lungul Costa Brava pentru a ajunge la liniștitul Platja d'en Belleu, un loc excelent pentru a scăpa de aglomerație.\nSeara: Încheiați-vă turul conducând spre interior până la Puig de la Borda, oferind un ultim punct de observație magnific al peisajului la sfârșitul zilei.",
         "en": "Morning: Drive up to Puig de la Folguera for an initial sweeping view of the region before heading down to the town center to admire the historic Església de Sant Vicenç.\nMidday: Navigate towards the port and park near Mirador del Castellar to enjoy the coastal panorama, then drive to Platja de la Farella for some beachside relaxation.\nAfternoon: Continue driving south along the rugged Costa Brava to reach the tranquil Platja d'en Belleu, an excellent spot to escape the crowds and enjoy the water.\nEvening: Conclude your driving tour by heading inland to Puig de la Borda, offering a magnificent final viewpoint of the landscape as the day draws to a close."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein verregneter Morgen am Puig de la Folguera bietet dramatische Wolkenformationen über dem Meer, während Sie im trockenen Auto sitzen. Mittags sind die Kirchenbesuche ideal, da die Parkplätze oft nah an den Eingängen liegen. Am Nachmittag führt die Fahrt entlang der Küste, wo die Scheibenwischer den Rhythmus der Wellen begleiten. Der Abend endet entspannt im Fahrzeug mit Blick auf den nassen Hafen, bevor es zurück zur Unterkunft geht.",
+            "hu": "A borús reggel a Puig de la Folguera-nál drámai felhőket kínál a tenger felett, miközben Ön a száraz autóban pihen. Délben a templomlátogatás ideális, mivel a parkolók közel vannak a bejáratokhoz. Délután a parti autóút során az ablaktörlők üteme kíséri a hullámok morajlását. Az este a jármű kényelmében zárul, rálátással az ázott kikötőre, mielőtt visszatérne a szállására.",
+            "ro": "O dimineață ploioasă la Puig de la Folguera oferă formațiuni de nori dramatice deasupra mării, în timp ce stați în mașina uscată. La prânz, vizitarea bisericilor este ideală, parcările fiind aproape de intrări. După-amiaza, drumul de coastă continuă cu ștergătoarele în ritmul valurilor. Seara se încheie relaxat în vehicul cu vedere spre portul ud, înainte de a vă întoarce la cazare.",
+            "en": "A rainy morning at Puig de la Folguera offers dramatic cloud formations over the sea while you sit in the dry car. At midday, church visits are ideal as parking is often close to the entrances. In the afternoon, the coastal drive continues with wipers beating to the rhythm of the waves. The evening ends relaxed in the vehicle with a view of the wet harbor before returning to your accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puig de la Folguera",
+                "hu": "Puig de la Folguera",
+                "ro": "Puig de la Folguera",
+                "en": "Puig de la Folguera"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starken Güssen im Auto und genießen Sie das Panorama; prüfen Sie die Bodenhaftung auf dem Weg zum Aussichtspunkt.",
+                "hu": "Erős zápor esetén maradjon az autóban, és onnan élvezze a panorámát; ellenőrizze az út tapadását a kilátó felé vezető szakaszon.",
+                "ro": "În caz de aversă puternică, rămâneți în mașină și savurați panorama; verificați aderența drumului pe secțiunea spre belvedere.",
+                "en": "In case of heavy downpours, stay in the car and enjoy the panorama; check road traction on the stretch leading to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Vicenç",
+                "hu": "Sant Vicenç-templom",
+                "ro": "Biserica Sant Vicenç",
+                "en": "Church of Sant Vicenç"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen schnellen, trockenen Weg ins Innere; die Akustik des Regens im Kirchenschiff ist sehr beruhigend.",
+                "hu": "Használja a közeli parkolót a gyors, száraz bejutáshoz; az eső kopogása a templomhajóban különösen megnyugtató hangulatot áraszt.",
+                "ro": "Folosiți parcarea din apropiere pentru un acces rapid și uscat; sunetul ploii în nava bisericii creează o atmosferă foarte liniștitoare.",
+                "en": "Use the nearby parking for quick, dry access to the interior; the sound of rain in the nave creates a very soothing atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castellar",
+                "hu": "Mirador del Castellar",
+                "ro": "Mirador del Castellar",
+                "en": "Mirador del Castellar"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Fotos vom stürmischen Meer; tragen Sie eine Regenjacke, da der Wind das Wasser bis zum Parkplatz peitschen kann.",
+                "hu": "Rövid kiszállás a viharos tenger fotózásához; viseljen esőkabátot, mert a szél a vizet egészen a parkolóig felverheti.",
+                "ro": "O scurtă ieșire pentru a fotografia marea furtunoasă; purtați pelerină, deoarece vântul poate aduce stropii până în parcare.",
+                "en": "A short exit to photograph the stormy sea; wear a raincoat, as the wind can whip the spray all the way to the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Farella",
+                "hu": "Platja de la Farella",
+                "ro": "Platja de la Farella",
+                "en": "Platja de la Farella"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den Regen über der Bucht ist vom Auto aus spektakulär; stellen Sie sicher, dass Ihre Reifen bei Nässe guten Grip haben.",
+                "hu": "Az öböl feletti eső látványa az autóból is lenyűgöző; győződjön meg róla, hogy a gumiabroncsok tapadása megfelelő a vizes úton.",
+                "ro": "Vederea ploii deasupra golfului este impresionantă din mașină; asigurați-vă că anvelopele au o aderență bună pe carosabilul umed.",
+                "en": "The sight of rain over the bay is impressive from the car; ensure your tires have adequate grip on the wet road surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja d'en Belleu",
+                "hu": "Platja d'en Belleu",
+                "ro": "Platja d'en Belleu",
+                "en": "Platja d'en Belleu"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann rutschig sein, fahren Sie vorsichtig; ein Regenschirm ist für den kurzen Weg zum Wasser trotz Wind ratsam.",
+                "hu": "A lehajtó csúszós lehet, vezessen óvatosan; a szél ellenére egy esernyő jól jöhet a vízig tartó rövid sétához.",
+                "ro": "Drumul de acces poate fi alunecos, conduceți cu atenție; în ciuda vântului, o umbrelă este utilă pentru scurta plimbare spre apă.",
+                "en": "The access road can be slippery, drive carefully; despite the wind, an umbrella is useful for the short walk to the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de la Borda",
+                "hu": "Puig de la Borda",
+                "ro": "Puig de la Borda",
+                "en": "Puig de la Borda"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das verregnete Hinterland aus dem Fahrzeug; schalten Sie die Nebelscheinwerfer bei schlechter Sicht ein.",
+                "hu": "Élvezze a kilátást az eső áztatta hátországra a járműből; rossz látási viszonyok esetén kapcsolja be a ködlámpát.",
+                "ro": "Savurați vederea asupra hinterlandului plouat din vehicul; porniți farurile de ceață în caz de vizibilitate redusă.",
+                "en": "Enjoy the view of the rain-soaked hinterland from the vehicle; turn on your fog lights in case of poor visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kalte Wintermorgen am Puig de la Folguera bietet die klarste Sicht des Jahres über die Küste. Mittags ist die Fahrt zwischen den Kirchen angenehm warm im Auto, während draußen die Tramuntana weht. Am Nachmittag leuchten die Buchten im scharfen Winterlicht, perfekt für schnelle Fotostopps vor dem Sonnenuntergang um 17:00 Uhr. Der Abend endet mit einer Panoramafahrt bei Restlicht, bevor die Dunkelheit das Mittelmeer einhüllt.",
+            "hu": "A hideg téli reggel a Puig de la Folguera-nál az év legtisztább kilátását nyújtja a partvidékre. Délben a templomok közötti autózás kellemesen meleg a kocsiban, míg odakint fúj a Tramuntana. Délután az öblök éles téli fényben ragyognak, ideális gyors fotózáshoz a 17:00 órai naplemente előtt. Az este panoráma-autózással zárul a maradék fényben, mielőtt a sötétség teljesen beborítaná a tengert.",
+            "ro": "Dimineața rece de iarnă la Puig de la Folguera oferă cea mai clară vizibilitate din an asupra coastei. La prânz, drumul între biserici este plăcut de cald în mașină, în timp ce afară suflă Tramuntana. După-amiaza, golfurile strălucesc în lumina tăioasă a iernii, ideal pentru opriri foto înainte de apusul de la 17:00. Seara se încheie cu un drum panoramic în lumina reziduală, înainte ca întunericul să cuprindă marea.",
+            "en": "The cold winter morning at Puig de la Folguera offers the clearest views of the year over the coastline. At midday, the drive between churches is pleasantly warm in the car while the Tramuntana blows outside. In the afternoon, the bays glow in sharp winter light, perfect for quick photo stops before the 17:00 sunset. The evening ends with a panoramic drive in the remaining light before darkness envelops the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puig de la Folguera",
+                "hu": "Puig de la Folguera",
+                "ro": "Puig de la Folguera",
+                "en": "Puig de la Folguera"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht ist ideal für Fernaufnahmen; die Heizung im Auto sorgt für Komfort bei der Ankunft am kühlen Gipfel.",
+                "hu": "A téli fények ideálisak a távoli fotózáshoz; az autó fűtése biztosítja a kényelmet a hűvös csúcsra való megérkezéskor.",
+                "ro": "Luminile de iarnă sunt ideale pentru fotografii la distanță; încălzirea din mașină asigură confortul la sosirea pe vârful răcoros.",
+                "en": "Winter light is ideal for long-distance photography; the car heater ensures comfort upon arrival at the cool summit."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Vicenç",
+                "hu": "Sant Vicenç-templom",
+                "ro": "Biserica Sant Vicenç",
+                "en": "Church of Sant Vicenç"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche mittags, wenn das Licht am stärksten ist; achten Sie auf glatte Stellen auf den Gehwegen zum Parkplatz.",
+                "hu": "Délben látogassa meg a templomot, amikor a legerősebb a fény; ügyeljen a járdák esetleges jegesedésére a parkoló felé menet.",
+                "ro": "Vizitați biserica la prânz, când lumina este cea mai puternică; atenție la porțiunile alunecoase de pe trotuare spre parcare.",
+                "en": "Visit the church at midday when the light is strongest; watch out for potentially icy patches on the sidewalks leading to the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador del Castellar",
+                "hu": "Mirador del Castellar",
+                "ro": "Mirador del Castellar",
+                "en": "Mirador del Castellar"
+              },
+              "tip_5lang": {
+                "de": "Bester Platz für den frühen Sonnenuntergang gegen 17:00 Uhr; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "A legjobb hely a korai, 17:00 óra körüli naplemente megtekintéséhez; ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik.",
+                "ro": "Cel mai bun loc pentru a vedea apusul devreme, în jur de ora 17:00; nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
+                "en": "The best spot for the early sunset around 17:00; do not leave the engine idling unnecessarily while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Farella",
+                "hu": "Platja de la Farella",
+                "ro": "Platja de la Farella",
+                "en": "Platja de la Farella"
+              },
+              "tip_5lang": {
+                "de": "Das klare Wasser wirkt im Winter besonders einladend für Fotos; eine warme Jacke im Auto ist für den schnellen Ausstieg wichtig.",
+                "hu": "A tiszta víz télen különösen vonzó fotótéma; tartson egy meleg kabátot az autóban a gyors kiszállásokhoz.",
+                "ro": "Apa limpede este un subiect foto foarte atractiv iarna; păstrați o jachetă caldă în mașină pentru ieșirile rapide la fotografiat.",
+                "en": "The clear water is a very attractive photo subject in winter; keep a warm jacket in the car for quick exits to take photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja d'en Belleu",
+                "hu": "Platja d'en Belleu",
+                "ro": "Platja d'en Belleu",
+                "en": "Platja d'en Belleu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am fast leeren Strand; ein heißer Kaffee aus der Thermoskanne macht den Winterstopp am Meer perfekt.",
+                "hu": "Élvezze a nyugalmat a szinte üres strandon; egy forró kávé a termoszból tökéletessé teszi a téli tengerparti megállót.",
+                "ro": "Bucurați-vă de liniștea plajei aproape pustii; o cafea fierbinte din termos va face oprirea de iarnă la malul mării perfectă.",
+                "en": "Enjoy the tranquility of the almost empty beach; a hot coffee from a thermos will make the winter seaside stop perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Puig de la Borda",
+                "hu": "Puig de la Borda",
+                "ro": "Puig de la Borda",
+                "en": "Puig de la Borda"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die beleuchtete Stadt nach 17:00 Uhr ist fantastisch; prüfen Sie vor der Abfahrt im Dunkeln Ihre Scheinwerfer.",
+                "hu": "A kivilágított város látványa 17:00 óra után fantasztikus; a sötétben való visszaindulás előtt ellenőrizze a fényszórókat.",
+                "ro": "Vederea orașului luminat după ora 17:00 este fantastică; verificați farurile înainte de plecarea la drum pe întuneric.",
+                "en": "The view of the illuminated town after 17:00 is fantastic; check your headlights before heading back in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

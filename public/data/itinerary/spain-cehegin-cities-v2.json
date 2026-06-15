@@ -160,6 +160,196 @@
         "hu": "A napja Cehegín kulturális szívében kezdődik, ahol elmerülhet a helyi művészeti életben. \n\nDél körül felfedezheti a barokk paloták és a történelmi kúriák jól őrzött titkait. \n\nA délután arra csábítja, hogy megmássza a város legmagasabb pontjait a lélegzetelállító vallási építészetért. \n\nAz este egy ókori római boltív közelében ér véget, amely a múlt történeteit suttogja a lemenő napfényben.",
         "ro": "Ziua începe în inima culturală a orașului Cehegín, absorbind scena artistică locală de aici. \n\nSpre prânz, veți descoperi secretele palatelor baroce și ale conacelor istorice extrem de frumoase. \n\nDupă-amiaza vă invită să urcați în cele mai înalte puncte pentru o arhitectură religioasă și vederi uluitoare. \n\nSeara se încheie lângă un arc roman antic, șoptind povești ale trecutului în timp ce soarele apune dulce.",
         "en": "Your day begins in the cultural heart of Cehegín, absorbing the local artistic scene. \n\nTowards midday, you'll uncover the secrets of baroque palaces and historic mansions. \n\nThe afternoon invites you to scale the town's highest points for breathtaking religious architecture and views. \n\nEvening concludes near an ancient Roman arch, whispering tales of the past as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Kulturhaus idealen Schutz vor dem Regen. Mittags erkunden wir den Palacio de la Tercia und das Haus der Apothekerinnen, deren dicke Mauern uns trocken halten. Nachmittags besuchen wir die Kirchen Santa María Magdalena und La Soledad für besinnliche Momente im Trockenen. Abends erreichen wir den Römischen Bogen; achten Sie auf die rutschigen Pflastersteine in der Altstadt.",
+            "hu": "Reggel a Kultúrház fedett tereiben kezdünk, elkerülve az esőt. Délben a Palacio de la Tercia és a Patikusok Háza nyújt menedéket a záporok elől. Délután a Mária Magdolna és a La Soledad templomok belső csendjét élvezzük szárazon. Estére a Római diadalívhez érünk; az óváros vizes macskakövein közlekedjünk óvatosan, és tartsuk készenlétben esernyőnket.",
+            "ro": "Dimineața, Casa de Cultură oferă adăpostul perfect împotriva ploii. La prânz, explorăm Palatul Tercia și Casa Spițerelor, ale căror ziduri groase ne mențin uscați. După-amiaza, vizităm bisericile Santa María Magdalena și La Soledad pentru momente de liniște la interior. Seara ajungem la Arcul Roman; atenție la pavajul alunecos din orașul vechi.",
+            "en": "In the morning, the House of Culture provides ideal shelter from the rain. At noon, we explore Tercia Palace and the Apothecaries' House, where thick walls keep us dry. In the afternoon, we visit the churches of St. Mary Magdalene and La Soledad for peaceful moments indoors. By evening, we reach the Roman Arch; watch out for slippery cobblestones in the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturhaus",
+                "hu": "Kultúrház",
+                "ro": "Casa de Cultură",
+                "en": "House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume für die Ausstellungen, während es draußen regnet. Ein idealer Start, um trocken in den Tag zu starten und lokale Kunst zu genießen.",
+                "hu": "Használja ki a belső kiállítótereket, amíg kint esik az eső. Kiváló kezdés, hogy szárazon induljon a nap, miközben a helyi művészetben gyönyörködik.",
+                "ro": "Profitați de spațiile interioare pentru expoziții în timp ce afară plouă. Un început ideal pentru a începe ziua la adăpost și a savura arta locală.",
+                "en": "Take advantage of the interior exhibition spaces while it rains outside. An ideal start to stay dry while enjoying local art displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de la Tercia",
+                "hu": "Palacio de la Tercia",
+                "ro": "Palatul Tercia",
+                "en": "Tercia Palace"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern bieten hervorragenden Schutz vor Güssen. Genießen Sie die historische Atmosphäre im Inneren und warten Sie den stärksten Regen einfach ab.",
+                "hu": "A masszív kőfalak kiváló védelmet nyújtanak a felhőszakadások ellen. Élvezze a belső történelmi hangulatot, és várja meg itt, amíg eláll a heves esőzés.",
+                "ro": "Zidurile masive de piatră oferă o protecție excelentă împotriva averselor. Bucurați-vă de atmosfera istorică din interior și așteptați să treacă ploaia.",
+                "en": "The massive stone walls provide excellent protection against downpours. Enjoy the historical atmosphere inside and wait for the heavy rain to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Apothekerinnen",
+                "hu": "Patikusok Háza",
+                "ro": "Casa Spițerelor",
+                "en": "Apothecaries' House"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierende Geschichte der Pharmazie in diesem überdachten Juwel. Ein perfekter Ort, um die Regenzeit mit Kultur und Wissen zu füllen.",
+                "hu": "Fedezze fel a gyógyszerészet lenyűgöző történetét ebben a fedett ékszerdobozban. Tökéletes hely, hogy az esős időt kultúrával és tudással töltsük meg.",
+                "ro": "Explorați istoria fascinantă a farmaciei în această bijuterie acoperită. Un loc perfect pentru a umple timpul ploios cu cultură și cunoștințe.",
+                "en": "Explore the fascinating history of pharmacy in this sheltered gem. A perfect place to fill the rainy time with culture and knowledge."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa María Magdalena",
+                "hu": "Mária Magdolna-templom",
+                "ro": "Biserica Sfânta Maria Magdalena",
+                "en": "Church of St. Mary Magdalene"
+              },
+              "tip_5lang": {
+                "de": "Das prachtvolle Innere bietet Stille und Trockenheit gleichermaßen. Bewundern Sie die Deckenmalereien, während draußen der Regen gegen die hohen Fenster prasselt.",
+                "hu": "A pompás belső tér csendet és szárazságot kínál egyszerre. Csodálja meg a mennyezeti festményeket, miközben kint az eső kopog a magas ablakokon.",
+                "ro": "Interiorul splendid oferă liniște și adăpost în egală măsură. Admirați picturile de pe tavan în timp ce afară ploaia bate în ferestrele înalte.",
+                "en": "The splendid interior offers silence and dryness alike. Admire the ceiling paintings while the rain patters against the high windows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche La Soledad",
+                "hu": "La Soledad-templom",
+                "ro": "Biserica La Soledad",
+                "en": "Church of La Soledad"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer sakraler Rückzugsort vor dem nassen Wetter. Nutzen Sie die Zeit für eine kurze Rast im Gebetshaus und genießen Sie die barocke Pracht.",
+                "hu": "Újabb szakrális menedék a nedves időjárás elől. Használja ki az időt egy rövid pihenőre az imaházban, és élvezze a barokk pompát.",
+                "ro": "Un alt refugiu sacru în fața vremii umede. Profitați de timp pentru un scurt popas în casa de rugăciune și admirați splendoarea barocă.",
+                "en": "Another sacred retreat from the wet weather. Use the time for a short rest in the house of prayer and enjoy the baroque splendor."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Bogen",
+                "hu": "Római diadalív",
+                "ro": "Arcul Roman",
+                "en": "Roman Arch"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie den Bogen schnell zwischen den Regenschauern. Achten Sie auf den nassen Boden, der hier besonders rutschig sein kann; festes Schuhwerk hilft.",
+                "hu": "Fotózza le a diadalívet gyorsan a záporok közötti szünetben. Ügyeljen a vizes talajra, amely itt különösen csúszós lehet; a tapadós cipő sokat segít.",
+                "ro": "Fotografiați arcul rapid între reprizele de ploaie. Atenție la solul ud care poate fi extrem de alunecos aici; încălțămintea aderentă este esențială.",
+                "en": "Photograph the arch quickly between rain showers. Watch out for the wet ground, which can be especially slippery here; sturdy footwear is helpful."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen beginnt im beheizten Kulturhaus. Mittags wärmen wir uns in den historischen Räumen des Palacio de la Tercia und des Apothekerinnenhauses auf. Nachmittags besuchen wir die Kirchen, bevor die frühe Dämmerung einsetzt. Gegen 17:00 Uhr erreichen wir den Römischen Bogen, um das letzte Tageslicht und die klare Winterluft zu genießen.",
+            "hu": "A hűvös téli reggel a Kultúrház fűtött tereiben indul. Délben a Palacio de la Tercia és a Patikusok Háza történelmi falai között melegedünk fel. Délután a templomokat látogatjuk meg, mielőtt beállna a korai sötétség. 17:00 óra körül érünk a Római diadalívhez, hogy elcsípjük az utolsó fényeket a tiszta téli levegőben.",
+            "ro": "Dimineața rece de iarnă începe în Casa de Cultură încălzită. La prânz, ne încălzim în spațiile istorice ale Palatului Tercia și ale Casei Spițerelor. După-amiaza vizităm bisericile înainte de lăsarea serii. În jurul orei 17:00, ajungem la Arcul Roman pentru a ne bucura de ultima lumină a zilei și de aerul curat.",
+            "en": "The chilly winter morning starts in the heated House of Culture. At noon, we warm up within the historic rooms of Tercia Palace and the Apothecaries' House. In the afternoon, we visit the churches before the early dusk sets in. Around 17:00, we reach the Roman Arch to catch the last light and enjoy the crisp winter air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturhaus",
+                "hu": "Kultúrház",
+                "ro": "Casa de Cultură",
+                "en": "House of Culture"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Wärme im Inneren bei einem morgendlichen Rundgang. Die Ausstellungen sind ein gemütlicher Rückzugsort vor dem kalten Wind in den Gassen.",
+                "hu": "Élvezze a belső meleget a reggeli séta során. A kiállítások barátságos menedéket nyújtanak a szűk utcákban fújó hideg téli szél elől.",
+                "ro": "Bucurați-vă de căldura din interior în timpul turului de dimineață. Expozițiile sunt un refugiu primitor împotriva vântului rece de pe străduțe.",
+                "en": "Enjoy the warmth inside during your morning tour. The exhibitions are a cozy retreat from the cold winter wind blowing through the alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de la Tercia",
+                "hu": "Palacio de la Tercia",
+                "ro": "Palatul Tercia",
+                "en": "Tercia Palace"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen, aber ziehen Sie sich warm an. Die mittelalterliche Atmosphäre wirkt im Winterlicht besonders authentisch.",
+                "hu": "A vastag kőfalak kint tartják a fagyot, de öltözzön rétegesen. A középkori hangulat a téli fényekben különösen hitelesnek és titokzatosnak hat.",
+                "ro": "Zidurile groase de piatră țin frigul afară, dar îmbrăcați-vă bine. Atmosfera medievală pare deosebit de autentică în lumina rece de iarnă.",
+                "en": "The thick stone walls keep the frost out, but dress warmly. The medieval atmosphere feels especially authentic and mysterious in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Apothekerinnen",
+                "hu": "Patikusok Háza",
+                "ro": "Casa Spițerelor",
+                "en": "Apothecaries' House"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie alte Heilmittel gegen Winterbeschwerden kennen. Ein faszinierender Ort, der Schutz vor der Witterung bietet und historisches Wissen vermittelt.",
+                "hu": "Ismerje meg a téli nyavalyák elleni ősi gyógymódokat. Lenyűgöző hely, amely védelmet nyújt az időjárás ellen és történelmi tudást közvetít.",
+                "ro": "Aflați despre remediile străvechi împotriva afecțiunilor de iarnă. Un loc fascinant care oferă protecție împotriva vremii și transmite cunoștințe istorice.",
+                "en": "Learn about ancient remedies for winter ailments. A fascinating place that offers protection from the weather and imparts historical knowledge."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa María Magdalena",
+                "hu": "Mária Magdolna-templom",
+                "ro": "Biserica Sfânta Maria Magdalena",
+                "en": "Church of St. Mary Magdalene"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die frühe Dämmerung, die das Kirchenschiff in sanftes Licht taucht. Ein ruhiger Ort zum Aufwärmen und Nachdenken vor dem Abend.",
+                "hu": "Ügyeljen a korai szürkületre, amely lágy fénybe vonja a templomhajót. Nyugodt hely a felmelegedésre és az esti elcsendesedésre.",
+                "ro": "Atenție la amurgul timpuriu care scaldă nava bisericii într-o lumină blândă. Un loc liniștit pentru încălzire și reflecție înainte de seară.",
+                "en": "Watch for the early twilight that bathes the church nave in soft light. A peaceful place to warm up and reflect before the evening falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche La Soledad",
+                "hu": "La Soledad-templom",
+                "ro": "Biserica La Soledad",
+                "en": "Church of La Soledad"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet Schutz vor dem kalten Abendwind. Bewundern Sie die Details der Altäre, bevor Sie sich auf den Weg zum letzten Stopp machen.",
+                "hu": "A templom védelmet nyújt a hideg esti szél ellen. Csodálja meg az oltárok részleteit, mielőtt elindulna a nap utolsó állomása felé.",
+                "ro": "Biserica oferă protecție împotriva vântului rece de seară. Admirați detaliile altarelor înainte de a porni spre ultima oprire a zilei.",
+                "en": "The church provides protection from the cold evening wind. Admire the details of the altars before heading to the last stop of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Römischer Bogen",
+                "hu": "Római diadalív",
+                "ro": "Arcul Roman",
+                "en": "Roman Arch"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Bogen vor 17:00 Uhr für das beste Fotolicht. Die klare Winterluft sorgt oft für eine besonders weite und scharfe Sicht.",
+                "hu": "Érkezzen a diadalívhez 17:00 előtt a legjobb fotó fényekért. A tiszta téli levegő gyakran különösen távoli és éles kilátást tesz lehetővé.",
+                "ro": "Ajungeți la arc înainte de ora 17:00 pentru cea mai bună lumină foto. Aerul curat de iarnă oferă adesea o vizibilitate clară la distanță.",
+                "en": "Reach the arch before 17:00 for the best photo light. The clear winter air often allows for particularly distant and sharp views."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros túráját egy békés kolostornál, amely nyugodt alaphangot ad a reggeli tekerésnek. \n\nDélre olyan utcákon navigál majd végig, amelyeket történelmi toronyházak és oszlopos homlokzatok szegélyeznek. \n\nA délutáni pedálozás rejtett, dombtetőn álló remeteségekhez vezet, ahonnan lenyűgöző kilátás nyílik. \n\nFejezze be az utat az ipari emlékek felfedezésével, miközben az alkonyat meleg színekre festi az eget.",
         "ro": "Începeți turul cu bicicleta la o mănăstire liniștită, stabilind un ton pașnic pentru plimbarea de dimineață. \n\nPână la prânz, veți naviga pe străzile mărginite de case turn istorice și fațade uimitoare cu coloane. \n\nPedalarea de după-amiază vă duce la schituri ascunse pe dealuri, cu puncte de belvedere spectaculoase. \n\nÎncheiați-vă călătoria explorând relicvele industriale în timp ce amurgul pictează cerul spaniol cald.",
         "en": "Kick off your cycling tour at a serene convent, setting a peaceful tone for the morning ride. \n\nBy midday, you'll navigate through streets lined with historic tower houses and columned facades. \n\nAfternoon pedaling takes you to hidden hilltop hermitages with spectacular viewpoints over the region. \n\nFinish your journey exploring industrial relics as dusk paints the Spanish sky in warm colors."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Start am Kloster San Esteban, wo wir kurz unterstellen können. Mittags radeln wir vorsichtig zum Turmhaus Doña Blanca und zum Haus der Säulen. Nachmittags besuchen wir die Einsiedeleien San Sebastián und La Concepción. Den Tag beenden wir bei Dándole a la Rueda; achten Sie auf rutschige Kurven und tragen Sie wasserfeste Kleidung.",
+            "hu": "Esős kezdés a Szent István-kolostornál, ahol rövid menedéket találunk. Délben óvatosan tekerünk a Doña Blanca Toronyházhoz és az Oszlopok Házához. Délután a San Sebastián és La Concepción remeteségeket keressük fel. A napot a Dándole a la Rueda helyszínen zárjuk; ügyeljen a csúszós kanyarokra és viseljen vízálló ruházatot.",
+            "ro": "Început ploios la Mănăstirea San Esteban, unde ne putem adăposti scurt. La prânz, pedalăm cu grijă spre Casa Doña Blanca și Casa Coloanelor. După-amiaza vizităm schiturile San Sebastián și La Concepción. Încheiem ziua la Dándole a la Rueda; atenție la curbele alunecoase și purtați haine impermeabile.",
+            "en": "A rainy start at the Convent of San Esteban, where we can briefly take cover. At noon, we cycle carefully to the Doña Blanca Tower House and the House of the Columns. In the afternoon, we visit the hermitages of San Sebastián and La Concepción. We end the day at Dándole a la Rueda; watch out for slippery curves and wear waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster San Esteban",
+                "hu": "Szent István-kolostor",
+                "ro": "Mănăstirea San Esteban",
+                "en": "Convent of San Esteban"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Portal als Unterstand bei einem Schauer. Ein ruhiger Startpunkt, um die Regenkleidung nochmals zu richten, bevor es weitergeht.",
+                "hu": "Használja a kapualjat menedékként zápor esetén. Nyugodt kezdőpont, ahol még egyszer megigazíthatja esőfelszerelését az indulás előtt.",
+                "ro": "Folosiți portalul ca adăpost în caz de aversă. Un punct de plecare liniștit pentru a vă ajusta echipamentul de ploaie înainte de drum.",
+                "en": "Use the portal as shelter during a shower. A quiet starting point to adjust your rain gear once more before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Turmhaus Doña Blanca",
+                "hu": "Doña Blanca Toronyház",
+                "ro": "Casa Turn a Doña Blanca",
+                "en": "Doña Blanca Tower House"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt bei Regen besonders markant und wehrhaft. Achten Sie auf den nassen Asphalt bei der Anfahrt zum historischen Stadtkern.",
+                "hu": "A torony esőben különösen markánsnak és védelmezőnek tűnik. Ügyeljen a vizes aszfaltra, amikor a történelmi városmag felé közelít biciklivel.",
+                "ro": "Turnul pare deosebit de marcant și impunător pe ploaie. Atenție la asfaltul ud în timp ce vă apropiați de centrul istoric al orașului.",
+                "en": "The tower looks especially striking and resilient in the rain. Watch out for wet asphalt as you approach the historic town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Säulen",
+                "hu": "Oszlopok Háza",
+                "ro": "Casa Coloanelor",
+                "en": "House of the Columns"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade aus nächster Nähe im Schutz Ihres Helms. Die barocken Details glänzen bei Nässe besonders schön und kontrastreich.",
+                "hu": "Csodálja meg a homlokzatot közelről, a sisakja védelmében. A barokk részletek nedvesen különösen szépen és kontrasztosan csillognak.",
+                "ro": "Admirați fațada de aproape sub protecția căștii. Detaliile baroce strălucesc deosebit de frumos și contrastant atunci când sunt ude.",
+                "en": "Admire the facade up close under the protection of your helmet. The baroque details shine beautifully and contrastingly when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Einsiedelei San Sebastián",
+                "hu": "Szent Sebestyén-remeteség",
+                "ro": "Schitul San Sebastián",
+                "en": "Hermitage of San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Die abgelegene Lage erfordert Vorsicht auf den Waldwegen. Der Regen verleiht der Umgebung eine mystische, fast schon einsame Atmosphäre.",
+                "hu": "A távoli fekvés óvatosságot igényel az erdei utakon. Az eső misztikus, szinte magányos hangulatot kölcsönöz a remeteség környezetének.",
+                "ro": "Locația retrasă necesită prudență pe drumurile forestiere. Ploaia conferă împrejurimilor o atmosferă mistică, aproape solitară.",
+                "en": "The remote location requires caution on forest paths. The rain lends a mystical, almost solitary atmosphere to the surrounding area."
+              }
+            },
+            {
+              "name": {
+                "de": "Einsiedelei La Concepción",
+                "hu": "Szeplőtelen Fogantatás-remeteség",
+                "ro": "Schitul La Concepción",
+                "en": "Hermitage of La Concepción"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, trockener Rückzugsort für eine kurze Trinkpause. Das sanfte Trommeln des Regens auf dem Dach wirkt hier sehr beruhigend.",
+                "hu": "Egy apró, száraz menedék egy rövid ivószünethez. Az eső lágy dobolása a tetőn nagyon megnyugtatóan hat ebben a környezetben.",
+                "ro": "Un mic refugiu uscat pentru o scurtă pauză de hidratare. Sunetul ploii pe acoperiș are un efect foarte liniștitor aici.",
+                "en": "A small, dry retreat for a short hydration break. The gentle patter of rain on the roof feels very soothing in this setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Historische Stätte Dándole a la Rueda",
+                "hu": "Dándole a la Rueda Történelmi Hely",
+                "ro": "Situl Istoric Dándole a la Rueda",
+                "en": "Dándole a la Rueda Historical Site"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vorsichtig bei nachlassendem Licht. Die historischen Wege können schlammig sein; prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "Zárja a túrát óvatosan a csökkenő fényben. A történelmi utak sarasak lehetnek; ellenőrizze a fékeket az indulás vagy lejtő előtt.",
+                "ro": "Încheiați turul cu grijă în lumina tot mai slabă. Drumurile istorice pot fi noroioase; verificați frânele înainte de plecare.",
+                "en": "End the tour carefully as light fades. The historical paths can be muddy; check your brakes before starting or heading downhill."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt am Kloster San Esteban. Die kühle Luft belebt auf dem Weg zum Turmhaus Doña Blanca und zum Haus der Säulen. Nachmittags radeln wir zu den Einsiedeleien, solange die Wintersonne noch scheint. Den Tag beenden wir bei Dándole a la Rueda pünktlich zum Sonnenuntergang um 17:00 Uhr; tragen Sie Thermokleidung.",
+            "hu": "Friss téli reggel kezdődik a Szent István-kolostornál. A hűvös levegő élénkítően hat a Doña Blanca Toronyház és az Oszlopok Háza felé menet. Délután a remeteségekhez tekerünk, amíg még süt a téli nap. A napot a Dándole a la Rueda helyszínen zárjuk, pontosan a 17:00 órai naplementére; viseljen hőtartó ruházatot.",
+            "ro": "O dimineață proaspătă de iarnă începe la Mănăstirea San Esteban. Aerul rece este revigorant în drum spre Casa Doña Blanca și Casa Coloanelor. După-amiaza pedalăm spre schituri cât timp soarele încă strălucește. Încheiem ziua la Dándole a la Rueda la timp pentru apusul de la ora 17:00; purtați haine termice.",
+            "en": "A crisp winter morning begins at the Convent of San Esteban. The cool air is invigorating on the way to the Doña Blanca Tower House and the House of the Columns. In the afternoon, we cycle to the hermitages while the winter sun still shines. We end the day at Dándole a la Rueda right in time for the 17:00 sunset; wear thermal layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kloster San Esteban",
+                "hu": "Szent István-kolostor",
+                "ro": "Mănăstirea San Esteban",
+                "en": "Convent of San Esteban"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einer Aufwärmübung vor dem Kloster. Die morgendliche Kälte ist hier im Schatten der Mauern oft besonders spürbar.",
+                "hu": "Kezdjen egy rövid bemelegítéssel a kolostor előtt. A reggeli hideg itt a falak árnyékában gyakran különösen érezhető és metsző.",
+                "ro": "Începeți cu o scurtă încălzire în fața mănăstirii. Frigul dimineții este adesea resimțit mai intens aici, la umbra zidurilor.",
+                "en": "Start with a quick warm-up exercise in front of the convent. The morning cold is often more intense here in the shadow of the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Turmhaus Doña Blanca",
+                "hu": "Doña Blanca Toronyház",
+                "ro": "Casa Turn a Doña Blanca",
+                "en": "Doña Blanca Tower House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den klaren Blick vom Turm bei winterlicher Fernsicht. Schützen Sie Ihre Hände mit winddichten Handschuhen vor dem Fahrtwind.",
+                "hu": "Élvezze a tiszta kilátást a toronytól a téli messzeségbe. Védje kezeit szélálló kesztyűvel a menetszél okozta lehűlés ellen.",
+                "ro": "Bucurați-vă de vederea clară de la turn asupra peisajului de iarnă. Protejați-vă mâinile cu mănuși rezistente la vânt în timpul mersului.",
+                "en": "Enjoy the clear views from the tower into the winter distance. Protect your hands with windproof gloves against the biting headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Säulen",
+                "hu": "Oszlopok Háza",
+                "ro": "Casa Coloanelor",
+                "en": "House of the Columns"
+              },
+              "tip_5lang": {
+                "de": "Die steinernen Säulen wirken im harten Winterlicht besonders plastisch. Ein kurzer Halt reicht, um die Architektur ohne Auskühlen zu bewundern.",
+                "hu": "A kőoszlopok a kemény téli fényben különösen plasztikusnak tűnnek. Egy rövid megálló elég az építészet megcsodálására anélkül, hogy áthűlnénk.",
+                "ro": "Coloanele de piatră par deosebit de sculpturale în lumina aspră de iarnă. Un scurt popas este suficient pentru a admira arhitectura fără a îngheța.",
+                "en": "The stone columns look especially sculptural in the harsh winter light. A short stop is enough to admire the architecture without getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Einsiedelei San Sebastián",
+                "hu": "Szent Sebestyén-remeteség",
+                "ro": "Schitul San Sebastián",
+                "en": "Hermitage of San Sebastián"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt hält Sie warm, aber oben weht oft ein kühler Wind. Nutzen Sie die sonnigen Plätze für eine kurze, energetische Pause.",
+                "hu": "A felfelé vezető út melegen tart, de fent gyakran fúj a hűvös szél. Használja ki a napsütötte helyeket egy rövid, energiát adó szünetre.",
+                "ro": "Urcarea vă va ține de cald, dar sus vântul este adesea rece. Profitați de locurile însorite pentru o scurtă pauză energizantă.",
+                "en": "The uphill climb will keep you warm, but a cool wind often blows at the top. Use the sunny spots for a short, energetic break."
+              }
+            },
+            {
+              "name": {
+                "de": "Einsiedelei La Concepción",
+                "hu": "Szeplőtelen Fogantatás-remeteség",
+                "ro": "Schitul La Concepción",
+                "en": "Hermitage of La Concepción"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort in der tiefstehenden Wintersonne. Achten Sie auf die Schatten der Bäume, die den Weg hier schnell auskühlen lassen.",
+                "hu": "Békés hely az alacsonyan járó téli napsütésben. Ügyeljen a fák árnyékára, amely miatt az út itt gyorsan lehűlhet és csúszóssá válhat.",
+                "ro": "Un loc pașnic în lumina soarelui de iarnă. Atenție la umbrele copacilor care fac ca drumul să se răcească rapid aici.",
+                "en": "A peaceful spot in the low winter sun. Watch out for tree shadows, which can make the road cool down and get slippery quickly here."
+              }
+            },
+            {
+              "name": {
+                "de": "Historische Stätte Dándole a la Rueda",
+                "hu": "Dándole a la Rueda Történelmi Hely",
+                "ro": "Situl Istoric Dándole a la Rueda",
+                "en": "Dándole a la Rueda Historical Site"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückkehr vor Einbruch der Dunkelheit um 17:00 Uhr. Die winterliche Szenerie ist zum Sonnenuntergang besonders stimmungsvoll.",
+                "hu": "Tervezze meg a visszatérést még a sötétség beállta, 17:00 előtt. A téli táj naplementekor különösen hangulatos és látványos.",
+                "ro": "Planificați-vă întoarcerea înainte de lăsarea întunericului la ora 17:00. Peisajul de iarnă este extrem de pitoresc la apus.",
+                "en": "Plan your return before darkness falls at 17:00. The winter scenery is especially atmospheric and scenic at sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Kezdje a reggelt a városközponton kívül, és fedezze fel Begastri lenyűgöző ősi romjait. \n\nEbéd előtt egy megálló a városi uszodánál frissítő szünetet kínál a ragyogó mediterrán napsütésben. \n\nA délutánt a történelmi magnak szenteljük, gyönyörűen megőrzött kolostorok és paloták között ugrálva. \n\nFejezze be a festői autózást a legmagasabb templomnál, megörökítve a tökéletes naplemente panorámáját.",
         "ro": "Începeți dimineața aventurându-vă în afara centrului orașului pentru a explora fascinantele ruine antice Begastri. \n\nÎnainte de prânz, o oprire la piscina municipală oferă o pauză revigorantă sub minunatul soare mediteranean. \n\nDupă-amiaza este dedicată nucleului istoric, sărind între mănăstiri frumos păstrate și palate maiestuoase. \n\nÎncheiați-vă traseul pitoresc urcând la cea mai înaltă biserică, surprinzând panorama superbă la apus.",
         "en": "Start your morning venturing outside the city center to explore the fascinating ancient ruins of Begastri. \n\nBefore lunch, a stop at the municipal pool offers a refreshing break under the Mediterranean sun. \n\nThe afternoon is dedicated to the historic core, hopping between beautifully preserved convents and palaces. \n\nConclude your scenic drive ascending to the highest church, catching the ultimate sunset panorama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir bequem die archäologische Stätte Begastri, während es regnet. Mittags besuchen wir das Schwimmbad und das Kloster San Esteban trocken vom Fahrzeug aus. Nachmittags folgen der Palacio de la Tercia und die Kirche Santa María Magdalena. Genießen Sie den Komfort des Autos und bleiben Sie bei Ihren Besuchen trocken.",
+            "hu": "Autóval kényelmesen fedezzük fel Begastri régészeti lelőhelyét az esőben. Délben az uszodát és a Szent István-kolostort látogatjuk meg, szárazon maradva a járműben. Délután a Palacio de la Tercia és a Mária Magdolna-templom következik. Élvezze az autó kényelmét, és maradjon szárazon a látogatások alatt is.",
+            "ro": "Cu mașina explorăm confortabil situl arheologic Begastri în timp ce plouă. La prânz vizităm piscina și Mănăstirea San Esteban, rămânând uscați în vehicul. După-amiaza urmează Palatul Tercia și biserica Santa María Magdalena. Bucurați-vă de confortul mașinii și rămâneți uscați pe tot parcursul zilei.",
+            "en": "By car, we comfortably explore the Begastri archaeological site while it rains. At noon, we visit the pool and the Convent of San Esteban, staying dry inside the vehicle. In the afternoon, Tercia Palace and the Church of St. Mary Magdalene follow. Enjoy the comfort of the car and stay dry throughout your visits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologische Stätte Begastri",
+                "hu": "Begastri Régészeti Lelőhely",
+                "ro": "Situl Arheologic Begastri",
+                "en": "Begastri Archaeological Site"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Besucherzentrum für eine detaillierte Einführung im Trockenen. Die Ruinen wirken im Regen besonders antik und geheimnisvoll.",
+                "hu": "Használja a látogatóközpontot egy részletes, száraz bemutatóhoz. A romok esőben különösen ősi és titokzatos hangulatot árasztanak.",
+                "ro": "Folosiți centrul de vizitare pentru o introducere detaliată la adăpost. Ruinele par deosebit de vechi și misterioase pe ploaie.",
+                "en": "Use the visitor center for a detailed introduction while staying dry. The ruins exude an especially ancient and mysterious aura in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Schwimmbad",
+                "hu": "Városi uszoda",
+                "ro": "Piscina Municipală",
+                "en": "Municipal Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem Wetter mit einer Runde Schwimmen im Innenbereich zu trotzen. Parken Sie nah am Eingang, um nicht nass zu werden.",
+                "hu": "Ideális hely, hogy úszással dacoljunk a kinti rossz idővel a fedett részen. Parkoljon közel a bejárathoz, hogy elkerülje az elázást.",
+                "ro": "Un loc ideal pentru a sfida vremea rea cu o sesiune de înot la interior. Parcați aproape de intrare pentru a evita ploaia.",
+                "en": "An ideal place to brave the weather with a swim in the indoor section. Park close to the entrance to avoid getting wet on your way in."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster San Esteban",
+                "hu": "Szent István-kolostor",
+                "ro": "Mănăstirea San Esteban",
+                "en": "Convent of San Esteban"
+              },
+              "tip_5lang": {
+                "de": "Der Klosterhof bietet bei Regen einen idyllischen und geschützten Anblick. Nutzen Sie die Parkmöglichkeiten direkt vor den historischen Mauern.",
+                "hu": "A kolostor udvara esőben idilli és védett látványt nyújt a látogatónak. Használja ki a közvetlenül a történelmi falak előtti parkolási lehetőséget.",
+                "ro": "Curtea mănăstirii oferă o priveliște idilică și protejată pe ploaie. Profitați de locurile de parcare chiar în fața zidurilor istorice.",
+                "en": "The convent courtyard offers an idyllic and sheltered view in the rain. Take advantage of the parking spots directly in front of the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de la Tercia",
+                "hu": "Palacio de la Tercia",
+                "ro": "Palatul Tercia",
+                "en": "Tercia Palace"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die prachtvollen Innenräume, während es draußen schüttet. Die dicken Mauern dämpfen das Geräusch des prasselnden Regens angenehm ab.",
+                "hu": "Fedezze fel a pompás belső tereket, amíg kint szakad az eső. A vastag falak kellemesen tompítják a kinti zápor és vihar zaját.",
+                "ro": "Explorați interioarele splendide în timp ce afară plouă torențial. Zidurile groase atenuează plăcut zgomotul ploii de afară.",
+                "en": "Explore the splendid interiors while it pours outside. The thick walls pleasantly muffle the sound of the rain lashing against the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa María Magdalena",
+                "hu": "Mária Magdolna-templom",
+                "ro": "Biserica Sfânta Maria Magdalena",
+                "en": "Church of St. Mary Magdalene"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die religiöse Kunst in der trockenen Stille der Kirche. Ein perfekter Abschluss für einen regnerischen Tag in Cehegín.",
+                "hu": "Csodálja meg a vallási művészetet a templom száraz csendjében. Tökéletes lezárása egy esős, de élményekkel teli cehegíni napnak.",
+                "ro": "Admirați arta religioasă în liniștea uscată a bisericii. Un final perfect pentru o zi ploioasă plină de experiențe în Cehegín.",
+                "en": "Admire the religious art in the dry silence of the church. A perfect conclusion to a rainy but experience-filled day in Cehegín."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt bei Begastri, wo wir die klare Morgenluft genießen. Mittags bietet das beheizte Schwimmbad eine willkommene Abwechslung. Nachmittags besuchen wir das Kloster San Esteban und den Palacio de la Tercia. Zum Abschluss genießen wir das Licht an der Kirche Santa María Magdalena, bevor es gegen 17:00 Uhr dunkel wird.",
+            "hu": "A téli nap Begastrinál indul, ahol élvezzük a tiszta reggeli levegőt. Délben a fűtött uszoda kínál kellemes és meleg kikapcsolódást. Délután a Szent István-kolostort és a Palacio de la Terciát látogatjuk meg. Végezetül a Mária Magdolna-templom fényeit csodáljuk meg, mielőtt 17:00-kor beáll a sötétség.",
+            "ro": "Ziua de iarnă începe la Begastri, unde ne bucurăm de aerul curat al dimineții. La prânz, piscina încălzită oferă o recreere plăcută. După-amiaza vizităm Mănăstirea San Esteban și Palatul Tercia. La final, admirăm luminile bisericii Santa María Magdalena înainte de lăsarea întunericului la ora 17:00.",
+            "en": "The winter day begins at Begastri, where we enjoy the crisp morning air. At noon, the heated pool offers a pleasant and warm break. In the afternoon, we visit the Convent of San Esteban and Tercia Palace. Finally, we admire the lights of the Church of St. Mary Magdalene before darkness falls at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologische Stätte Begastri",
+                "hu": "Begastri Régészeti Lelőhely",
+                "ro": "Situl Arheologic Begastri",
+                "en": "Begastri Archaeological Site"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im harten Winterlicht besonders gut sichtbar. Nutzen Sie die Heizung Ihres Autos zwischen den kurzen Rundgängen im Freien.",
+                "hu": "A romok a kemény téli fényben különösen jól láthatóak és részletgazdagok. Használja autója fűtését a kinti rövid séták közötti szünetekben.",
+                "ro": "Ruinele sunt deosebit de vizibile în lumina aspră de iarnă. Folosiți încălzirea mașinii între scurtul tur prin exterior.",
+                "en": "The ruins are especially visible and detailed in the harsh winter light. Use your car's heater in the breaks between short outdoor walks."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Schwimmbad",
+                "hu": "Városi uszoda",
+                "ro": "Piscina Municipală",
+                "en": "Municipal Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im beheizten Innenbereich wärmt den Körper an kalten Tagen auf. Genießen Sie die warme Atmosphäre, bevor Sie die Tour fortsetzen.",
+                "hu": "A fűtött belső tér meglátogatása jól átmelegíti a testet a hideg napokon. Élvezze a meleg környezetet, mielőtt folytatná a városi túrát.",
+                "ro": "O vizită în zona interioară încălzită vă va încălzi corpul în zilele reci. Bucurați-vă de atmosfera caldă înainte de a continua turul.",
+                "en": "A visit to the heated indoor area warms up the body on cold days. Enjoy the warm environment before continuing your city tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kloster San Esteban",
+                "hu": "Szent István-kolostor",
+                "ro": "Mănăstirea San Esteban",
+                "en": "Convent of San Esteban"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Mauern können im Winter sehr kühl sein; bleiben Sie in Bewegung. Bewundern Sie die Stille, die durch die Winterruhe noch verstärkt wird.",
+                "hu": "Az árnyékos falak télen nagyon hűvösek lehetnek; maradjon mozgásban a látogatáskor. Csodálja meg a csendet, amelyet a téli nyugalom csak fokoz.",
+                "ro": "Zidurile umbrite pot fi foarte reci iarna; rămâneți în mișcare. Admirați liniștea care este accentuată de calmul iernii.",
+                "en": "The shaded walls can be very cool in winter; stay active during your visit. Admire the silence, which is further enhanced by the winter calm."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de la Tercia",
+                "hu": "Palacio de la Tercia",
+                "ro": "Palatul Tercia",
+                "en": "Tercia Palace"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort zum Aufwärmen zwischen den historischen Exponaten. Das Winterlicht lässt die Farben im Inneren besonders sanft erscheinen.",
+                "hu": "Ideális hely a felmelegedésre a történelmi kiállítási tárgyak között. A téli fény a belső színeket különösen lágynak és barátságosnak mutatja.",
+                "ro": "Un loc ideal pentru încălzire printre exponatele istorice. Lumina de iarnă face ca culorile din interior să pară deosebit de blânde.",
+                "en": "An ideal place to warm up among the historical exhibits. The winter light makes the interior colors appear especially soft and inviting."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa María Magdalena",
+                "hu": "Mária Magdolna-templom",
+                "ro": "Biserica Sfânta Maria Magdalena",
+                "en": "Church of St. Mary Magdalene"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kirche vor 17:00 Uhr, um die Architektur im letzten Tageslicht zu sehen. Die festliche Winterbeleuchtung sorgt für eine magische Stimmung.",
+                "hu": "Érkezzen a templomhoz 17:00 előtt, hogy lássa az építészetet az utolsó fényekben. Az ünnepi téli kivilágítás mágikus hangulatot kölcsönöz a helynek.",
+                "ro": "Ajungeți la biserică înainte de ora 17:00 pentru a vedea arhitectura în ultima lumină. Iluminatul festiv de iarnă oferă o atmosferă magică.",
+                "en": "Reach the church before 17:00 to see the architecture in the last daylight. Festive winter lighting provides a magical atmosphere to the site."
+              }
+            }
+          ]
+        }
       }
     }
   }

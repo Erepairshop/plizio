@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Pilosz szívében lenyűgöző régészeti felfedezésekkel a múzeumokban. Délben sétáljon el a történelmi vízvezetékhez, és merüljön el a helyi építészetben. Délután fedezze fel az erődöt és a világítótornyot, ahonnan fenséges kilátás nyílik a tengerre. Az estét a görögök emlékművénél zárhatja elgondolkodva, miközben a nap lenyugszik a legendás Navarino-öböl felett.",
         "ro": "Începeți ziua în inima orașului Pylos cu descoperiri arheologice fascinante. La prânz, plimbați-vă spre apeductul istoric și pătrundeți în detaliile istoriei locale. După-amiaza, explorați fortăreața și farul cu o vedere spectaculoasă la mare. Seara se încheie cu un moment de reflecție la Monumentul Grecilor, în timp ce soarele apune peste pitorescul și legendarul golf Navarino.",
         "en": "Begin your day in the heart of Pylos with fascinating archaeological discoveries. At midday, walk to the historic aqueduct and delve deep into local history. In the afternoon, explore the fortress and lighthouse overlooking the sparkling sea. The evening ends thoughtfully at the Monument of the Greeks as the sun beautifully sets over the legendary waters of Navarino Bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen im Museum, um dem Regen zu entkommen. Mittags spazieren Sie mit Schirm vorsichtig zu Kamares. Der Nachmittag bietet Zuflucht in den archäologischen Museen. Beenden Sie den feuchten Spaziergang an den Küstendenkmälern am dramatischen Meer.",
+            "hu": "Kezdje a reggelt a múzeumban, menedéket találva az eső elől. Délben óvatosan sétáljon el a Kamares-hez esernyővel. A délután további benti pihenőt kínál a régészeti múzeumokban. Fejezze be a nedves sétát a parti emlékműveknél, figyelve a drámai tengert.",
+            "ro": "Începeți dimineața la muzeu pentru a scăpa de ploaie. La prânz, navigați cu grijă spre Kamares cu o umbrelă. După-amiaza oferă un refugiu cald în muzeele arheologice. Încheiați plimbarea umedă la monumentele de coastă, privind peisajul marin dramatic.",
+            "en": "Start your morning at the museum to escape the rain. At noon, navigate carefully to Kamares with an umbrella. The afternoon offers more indoor refuge at the archaeological museums. Conclude your damp walk at the coastal monuments, watching the dramatic rainy seascape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "hu": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "ro": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "en": "Antonopouleio Arkhaiologiko Mouseio Pulou"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie antike Artefakte sicher im Trockenen; lassen Sie Ihren nassen Schirm am Eingang.",
+                "hu": "Fedezze fel az ősi leleteket biztonságban az esőtől; hagyja vizes ernyőjét a bejáratnál.",
+                "ro": "Explorați artefacte antice în siguranță în interior; lăsați umbrela udă la intrare.",
+                "en": "Explore ancient artifacts safely indoors away from the rain; remember to leave your wet umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamares",
+                "hu": "Kamares",
+                "ro": "Kamares",
+                "en": "Kamares"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese alten Aquäduktbögen, aber gehen Sie vorsichtig, da die Steine bei Regen sehr rutschig werden.",
+                "hu": "Csodálja meg az ősi vízvezeték boltíveit, de lépkedjen óvatosan, mert a kövek esőben nagyon csúszósak.",
+                "ro": "Admirați aceste arcade vechi ale apeductului, dar mergeți cu grijă deoarece pietrele devin foarte alunecoase în ploaie.",
+                "en": "Admire these old aqueduct arches, but walk very carefully as the ancient stones get extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaeological Museum of Pylos",
+                "hu": "Archaeological Museum of Pylos",
+                "ro": "Archaeological Museum of Pylos",
+                "en": "Archaeological Museum of Pylos"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie mykenische Schätze in diesem trockenen Museum, das bei starken Regengüssen hervorragenden Schutz bietet.",
+                "hu": "Fedezze fel a mükénéi kincseket ebben a száraz múzeumban, amely kiváló menedéket nyújt a heves felhőszakadások idején.",
+                "ro": "Descoperiți comorile miceniene în acest muzeu confortabil, oferind un adăpost excelent în timpul ploilor abundente.",
+                "en": "Discover Mycenaean treasures in this dry and comfortable museum, providing excellent shelter during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Marine Archaeological Finds",
+                "hu": "Museum of Marine Archaeological Finds",
+                "ro": "Museum of Marine Archaeological Finds",
+                "en": "Museum of Marine Archaeological Finds"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie unglaubliche Unterwasserfunde im Trockenen; perfekt, um dem feuchten Küstenwetter auszuweichen.",
+                "hu": "Nézze meg a hihetetlen víz alatti leleteket teljesen szárazon; tökéletes a nedves parti időjárás elkerülésére.",
+                "ro": "Vedeți descoperiri subacvatice incredibile rămânând complet uscat; perfect pentru a evita vremea umedă de coastă.",
+                "en": "See incredible underwater discoveries while staying completely dry; perfect for avoiding the damp coastal weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Niokastrou",
+                "hu": "Pharos Niokastrou",
+                "ro": "Pharos Niokastrou",
+                "en": "Pharos Niokastrou"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Leuchtturm vor regnerischem Himmel, aber achten Sie auf schlammige Wege und halten Sie Ihren Schirm fest.",
+                "hu": "Nézze meg a lenyűgöző világítótornyot a drámai esős égbolt alatt, de ügyeljen a sáros utakra, és tartsa erősen az ernyőjét.",
+                "ro": "Vedeți farul izbitor pe un cer ploios, dar aveți grijă pe cărările noroioase și țineți bine umbrela.",
+                "en": "View the striking lighthouse amid dramatic rainy skies, but watch your step on muddy paths and hold your umbrella tight."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument of the Greeks",
+                "hu": "Monument of the Greeks",
+                "ro": "Monument of the Greeks",
+                "en": "Monument of the Greeks"
+              },
+              "tip_5lang": {
+                "de": "Erweisen Sie diesem Denkmal kurz die Ehre, da der offene Platz keinen Schutz vor plötzlichen Regenschauern bietet.",
+                "hu": "Tisztelegjen gyorsan ennél a fontos emlékműnél, mivel a nyitott tér egyáltalán nem nyújt védelmet a hirtelen záporok ellen.",
+                "ro": "Respectați acest monument important rapid, deoarece piața deschisă nu oferă protecție împotriva ploilor bruște.",
+                "en": "Pay respects at this important monument quickly, as the open square offers zero protection from sudden rain showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen frischen Wintermorgen ab dem Museum. Mittags machen Sie einen Spaziergang nach Kamares in der kühlen Meeresbrise. Verbringen Sie den Nachmittag zum Aufwärmen in den historischen Museen. Beenden Sie den Spaziergang vor dem frühen Sonnenuntergang um 17 Uhr.",
+            "hu": "Élvezze a csípős téli reggelt a múzeumból indulva. Délben tegyen egy frissítő sétát a Kamares felé a hűvös tengeri szélben. Töltse a délutánt melegedve a helyi történelmi múzeumokban. Fejezze be a sétát a parti emlékműveknél a korai, 17 órás naplemente előtt.",
+            "ro": "Bucurați-vă de o dimineață proaspătă de iarnă începând de la muzeu. La prânz, faceți o plimbare revigorantă spre Kamares. Petreceți-vă după-amiaza încălzindu-vă în muzeele istorice locale. Încheiați plimbarea la monumentele de coastă înainte de apusul de la ora 17.",
+            "en": "Enjoy a crisp winter morning starting at the museum. By noon, take a refreshing walk to Kamares in the cool sea breeze. Spend your afternoon warming up inside the local historical museums. Finish your walk at the coastal monuments before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "hu": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "ro": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "en": "Antonopouleio Arkhaiologiko Mouseio Pulou"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem beheizten Museum in die lokale Geschichte ein; ein perfektes Refugium vor der Winterkälte.",
+                "hu": "Merüljön el a helyi történelemben ebben a fűtött múzeumban; tökéletes reggeli menedék a téli hideg elől.",
+                "ro": "Scufundați-vă în istoria locală în acest muzeu încălzit; un refugiu perfect de dimineață împotriva frigului de iarnă.",
+                "en": "Dive into local history in this well-heated museum space; a perfect morning refuge from the brisk winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamares",
+                "hu": "Kamares",
+                "ro": "Kamares",
+                "en": "Kamares"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das historische Aquädukt; tragen Sie eine winddichte Jacke, da es hier sehr zugig wird.",
+                "hu": "Csodálja meg a történelmi vízvezetéket; viseljen szélálló kabátot, mivel ezen a nyílt területen elég szeles az idő.",
+                "ro": "Minunați-vă de structura istorică a apeductului; purtați o jachetă rezistentă la vânt, deoarece zona deschisă este destul de vântoasă.",
+                "en": "Marvel at the historical aqueduct structure; make sure to wear a windproof jacket as this open area gets quite breezy."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaeological Museum of Pylos",
+                "hu": "Archaeological Museum of Pylos",
+                "ro": "Archaeological Museum of Pylos",
+                "en": "Archaeological Museum of Pylos"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die reiche regionale Geschichte; dank der Heizung ein toller Ort, um sich die Hände zu wärmen.",
+                "hu": "Szánjon időt a gazdag regionális történelem felfedezésére; a benti fűtés miatt kiváló hely a kezek felmelegítésére.",
+                "ro": "Explorați istoria regională bogată; încălzirea interioară îl face un loc minunat pentru a vă încălzi mâinile.",
+                "en": "Take your time exploring the rich regional history; the indoor heating makes it a great spot to warm your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Marine Archaeological Finds",
+                "hu": "Museum of Marine Archaeological Finds",
+                "ro": "Museum of Marine Archaeological Finds",
+                "en": "Museum of Marine Archaeological Finds"
+              },
+              "tip_5lang": {
+                "de": "Faszinierende versunkene Relikte warten; behalten Sie Ihren Mantel an, falls das alte Steingebäude etwas kühl ist.",
+                "hu": "Lenyűgöző elsüllyedt ereklyék várják bent; tartsa magán a kabátját, ha az ősi kőépület kissé hűvösnek tűnik.",
+                "ro": "Relicve scufundate fascinante vă așteaptă; păstrați haina pe dumneavoastră dacă clădirea veche de piatră este răcoroasă.",
+                "en": "Fascinating sunken relics await inside; keep your coat on if the ancient stone building feels slightly chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Niokastrou",
+                "hu": "Pharos Niokastrou",
+                "ro": "Pharos Niokastrou",
+                "en": "Pharos Niokastrou"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Leuchtturm sieht im weichen Winterlicht toll aus; tragen Sie einen warmen Schal gegen den beißenden Seewind.",
+                "hu": "A magányos világítótorony lenyűgözően néz ki a lágy téli fényben; viseljen meleg sálat a csípős tengeri szél ellen.",
+                "ro": "Farul solitar arată uimitor în lumina blândă de iarnă; purtați o eșarfă caldă împotriva vânturilor aspre ale mării.",
+                "en": "The solitary lighthouse looks stunning in the soft winter light; wear a warm scarf against the biting sea winds here."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument of the Greeks",
+                "hu": "Monument of the Greeks",
+                "ro": "Monument of the Greeks",
+                "en": "Monument of the Greeks"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese historische Stätte vor 17:00 Uhr, da die frühe Winterdämmerung den unbeleuchteten Bereich verdunkelt.",
+                "hu": "Látogassa meg ezt a jelentős történelmi helyszínt 17:00 előtt, mert a korai sötétedés miatt a kivilágítatlan terület nehezen élvezhető.",
+                "ro": "Vizitați acest sit istoric înainte de ora 17:00, deoarece apusul timpuriu de iarnă face zona neiluminată greu de apreciat.",
+                "en": "Visit this significant historic site before 17:00, as the early winter sunset makes the unlit area hard to appreciate."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "Reggel kerékpározzon a központi múzeumoktól a lenyűgöző történelmi vízvezetékig. Délben folytassa túráját az erőd felé, ahol izgalmas tengeri kincsek várják. A délután festői parti utat kínál a navarinói csata emlékműveihez. Zárja a napot lazán egy gyönyörű, északi tengerparti üdülőhelyen, élvezve a frissítő és hűsítő esti tengeri fuvallatot.",
         "ro": "Pedalați dimineața de la muzeele centrale până la apeductul istoric impresionant. La prânz, continuați turul către fortăreață, unde vă așteaptă comori maritime fascinante. După-amiaza oferă o plimbare pitorească pe coastă către monumentele Bătăliei de la Navarino. Încheiați ziua absolut relaxant într-o frumoasă stațiune de coastă din zona de nord a orașului.",
         "en": "Cycle in the morning from the central museums to the impressive historic aqueduct. At midday, continue your ride to the fortress, where fascinating maritime treasures await. The afternoon offers a scenic coastal ride to the historic monuments of the Battle of Navarino. End the day smoothly relaxing at a beautiful coastal resort in the north of the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie heute Morgen mit guter Regenkleidung vorsichtig zum Museum. Mittags fahren Sie langsam auf nassen Straßen zu Kamares. Der Nachmittag ist ideal für Museumsbesuche im Trockenen. Beenden Sie die Fahrt im Resort, um sich nach den rutschigen Denkmälern aufzuwärmen.",
+            "hu": "Óvatosan kerékpározzon ma reggel a múzeumhoz megfelelő esőruházatban. Délben lassan haladjon a vizes utakon a Kamares felé. A délután tökéletes benti múzeumlátogatásokra. Fejezze be a nedves utat az üdülőhelynél, felmelegedve a csúszós emlékművek után.",
+            "ro": "Bicicliți cu grijă în această dimineață spre muzeu, purtând echipament de ploaie. La prânz, mergeți încet pe drumurile umede spre Kamares. După-amiaza este perfectă pentru muzee. Încheiați plimbarea umedă la complex, încălzindu-vă după vizitarea monumentelor alunecoase.",
+            "en": "Cycle carefully this morning to the museum, wearing good rain gear. Around midday, ride slowly on wet roads to Kamares. The afternoon is perfect for indoor museum visits while it pours. End your damp ride at the resort, warming up after visiting the slippery monuments."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "hu": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "ro": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "en": "Antonopouleio Arkhaiologiko Mouseio Pulou"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie antike Artefakte sicher im Trockenen; lassen Sie Ihren nassen Schirm am Eingang.",
+                "hu": "Fedezze fel az ősi leleteket biztonságban az esőtől; hagyja vizes ernyőjét a bejáratnál.",
+                "ro": "Explorați artefacte antice în siguranță în interior; lăsați umbrela udă la intrare.",
+                "en": "Explore ancient artifacts safely indoors away from the rain; remember to leave your wet umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamares",
+                "hu": "Kamares",
+                "ro": "Kamares",
+                "en": "Kamares"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese alten Aquäduktbögen, aber gehen Sie vorsichtig, da die Steine bei Regen sehr rutschig werden.",
+                "hu": "Csodálja meg az ősi vízvezeték boltíveit, de lépkedjen óvatosan, mert a kövek esőben nagyon csúszósak.",
+                "ro": "Admirați aceste arcade vechi ale apeductului, dar mergeți cu grijă deoarece pietrele devin foarte alunecoase în ploaie.",
+                "en": "Admire these old aqueduct arches, but walk very carefully as the ancient stones get extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaeological Museum of Pylos",
+                "hu": "Archaeological Museum of Pylos",
+                "ro": "Archaeological Museum of Pylos",
+                "en": "Archaeological Museum of Pylos"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie mykenische Schätze in diesem trockenen Museum, das bei starken Regengüssen hervorragenden Schutz bietet.",
+                "hu": "Fedezze fel a mükénéi kincseket ebben a száraz múzeumban, amely kiváló menedéket nyújt a heves felhőszakadások idején.",
+                "ro": "Descoperiți comorile miceniene în acest muzeu confortabil, oferind un adăpost excelent în timpul ploilor abundente.",
+                "en": "Discover Mycenaean treasures in this dry and comfortable museum, providing excellent shelter during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Marine Archaeological Finds",
+                "hu": "Museum of Marine Archaeological Finds",
+                "ro": "Museum of Marine Archaeological Finds",
+                "en": "Museum of Marine Archaeological Finds"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie unglaubliche Unterwasserfunde im Trockenen; perfekt, um dem feuchten Küstenwetter auszuweichen.",
+                "hu": "Nézze meg a hihetetlen víz alatti leleteket teljesen szárazon; tökéletes a nedves parti időjárás elkerülésére.",
+                "ro": "Vedeți descoperiri subacvatice incredibile rămânând complet uscat; perfect pentru a evita vremea umedă de coastă.",
+                "en": "See incredible underwater discoveries while staying completely dry; perfect for avoiding the damp coastal weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Niokastrou",
+                "hu": "Pharos Niokastrou",
+                "ro": "Pharos Niokastrou",
+                "en": "Pharos Niokastrou"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Leuchtturm vor regnerischem Himmel, aber achten Sie auf schlammige Wege und halten Sie Ihren Schirm fest.",
+                "hu": "Nézze meg a lenyűgöző világítótornyot a drámai esős égbolt alatt, de ügyeljen a sáros utakra, és tartsa erősen az ernyőjét.",
+                "ro": "Vedeți farul izbitor pe un cer ploios, dar aveți grijă pe cărările noroioase și țineți bine umbrela.",
+                "en": "View the striking lighthouse amid dramatic rainy skies, but watch your step on muddy paths and hold your umbrella tight."
+              }
+            },
+            {
+              "name": {
+                "de": "French memorial monument",
+                "hu": "French memorial monument",
+                "ro": "French memorial monument",
+                "en": "French memorial monument"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das Denkmal für die französischen Seeleute; stehen Sie an den grasbewachsenen Rändern, um rutschigen Steinen auszuweichen.",
+                "hu": "Nézze meg a francia tengerészek emlékművét; álljon a füves széleken, hogy elkerülje a csúszós vizes térköveket.",
+                "ro": "Vedeți memorialul dedicat marinarilor francezi; stați pe marginile cu iarbă pentru a evita pietrele de pavaj alunecoase.",
+                "en": "View the memorial dedicated to the French sailors; stand on the grassy edges to avoid the slippery wet paving stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument of the Greeks",
+                "hu": "Monument of the Greeks",
+                "ro": "Monument of the Greeks",
+                "en": "Monument of the Greeks"
+              },
+              "tip_5lang": {
+                "de": "Erweisen Sie diesem Denkmal kurz die Ehre, da der offene Platz keinen Schutz vor plötzlichen Regenschauern bietet.",
+                "hu": "Tisztelegjen gyorsan ennél a fontos emlékműnél, mivel a nyitott tér egyáltalán nem nyújt védelmet a hirtelen záporok ellen.",
+                "ro": "Respectați acest monument important rapid, deoarece piața deschisă nu oferă protecție împotriva ploilor bruște.",
+                "en": "Pay respects at this important monument quickly, as the open square offers zero protection from sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoe Seaside Resort",
+                "hu": "Zoe Seaside Resort",
+                "ro": "Zoe Seaside Resort",
+                "en": "Zoe Seaside Resort"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen in die gemütlichen Lounges des Resorts bei einem Heißgetränk, während der Regen aufs Meer prasselt.",
+                "hu": "Meneküljön a felhőszakadás elől az üdülőhely hangulatos társalgóiba, forró italt kortyolgatva, miközben az eső a Jón-tengert veri.",
+                "ro": "Scăpați de ploaie în saloanele confortabile ale complexului, bucurându-vă de o băutură caldă în timp ce ploaia lovește Marea Ionică.",
+                "en": "Escape the downpour inside the resort's cozy lounges, enjoying a hot drink while watching the rain hit the Ionian Sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterradtour in warme Schichten gehüllt Richtung Museum. Trotzen Sie mittags dem kühlen Küstenwind auf dem Weg nach Kamares. Die Nachmittagsmuseen bieten eine Pause von der Kälte. Kommen Sie rechtzeitig zum frühen Wintersonnenuntergang im Resort an.",
+            "hu": "Kezdje a téli bringázást meleg rétegekbe öltözve a múzeum felé. Délben dacoljon a csípős parti széllel a Kamares felé haladva. A délutáni múzeumok kellemes pihenőt nyújtanak. Érkezzen az üdülőhelyre épp időben egy gyönyörű, bár korai téli naplementéhez.",
+            "ro": "Începeți plimbarea de iarnă cu bicicleta, în straturi calde, spre muzeu. La prânz, înfruntați vânturile reci de coastă spre Kamares. Muzeele de după-amiază oferă o pauză confortabilă. Ajungeți la complex exact la timp pentru un apus frumos și devreme de iarnă.",
+            "en": "Start your winter bike ride wrapped in warm layers towards the museum. At noon, brave the brisk coastal winds riding to Kamares. The afternoon museums offer a cozy break from the chill. Arrive at the resort just in time for a beautiful, albeit early, winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "hu": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "ro": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "en": "Antonopouleio Arkhaiologiko Mouseio Pulou"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem beheizten Museum in die lokale Geschichte ein; ein perfektes Refugium vor der Winterkälte.",
+                "hu": "Merüljön el a helyi történelemben ebben a fűtött múzeumban; tökéletes reggeli menedék a téli hideg elől.",
+                "ro": "Scufundați-vă în istoria locală în acest muzeu încălzit; un refugiu perfect de dimineață împotriva frigului de iarnă.",
+                "en": "Dive into local history in this well-heated museum space; a perfect morning refuge from the brisk winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamares",
+                "hu": "Kamares",
+                "ro": "Kamares",
+                "en": "Kamares"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das historische Aquädukt; tragen Sie eine winddichte Jacke, da es hier sehr zugig wird.",
+                "hu": "Csodálja meg a történelmi vízvezetéket; viseljen szélálló kabátot, mivel ezen a nyílt területen elég szeles az idő.",
+                "ro": "Minunați-vă de structura istorică a apeductului; purtați o jachetă rezistentă la vânt, deoarece zona deschisă este destul de vântoasă.",
+                "en": "Marvel at the historical aqueduct structure; make sure to wear a windproof jacket as this open area gets quite breezy."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaeological Museum of Pylos",
+                "hu": "Archaeological Museum of Pylos",
+                "ro": "Archaeological Museum of Pylos",
+                "en": "Archaeological Museum of Pylos"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die reiche regionale Geschichte; dank der Heizung ein toller Ort, um sich die Hände zu wärmen.",
+                "hu": "Szánjon időt a gazdag regionális történelem felfedezésére; a benti fűtés miatt kiváló hely a kezek felmelegítésére.",
+                "ro": "Explorați istoria regională bogată; încălzirea interioară îl face un loc minunat pentru a vă încălzi mâinile.",
+                "en": "Take your time exploring the rich regional history; the indoor heating makes it a great spot to warm your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Marine Archaeological Finds",
+                "hu": "Museum of Marine Archaeological Finds",
+                "ro": "Museum of Marine Archaeological Finds",
+                "en": "Museum of Marine Archaeological Finds"
+              },
+              "tip_5lang": {
+                "de": "Faszinierende versunkene Relikte warten; behalten Sie Ihren Mantel an, falls das alte Steingebäude etwas kühl ist.",
+                "hu": "Lenyűgöző elsüllyedt ereklyék várják bent; tartsa magán a kabátját, ha az ősi kőépület kissé hűvösnek tűnik.",
+                "ro": "Relicve scufundate fascinante vă așteaptă; păstrați haina pe dumneavoastră dacă clădirea veche de piatră este răcoroasă.",
+                "en": "Fascinating sunken relics await inside; keep your coat on if the ancient stone building feels slightly chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Niokastrou",
+                "hu": "Pharos Niokastrou",
+                "ro": "Pharos Niokastrou",
+                "en": "Pharos Niokastrou"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Leuchtturm sieht im weichen Winterlicht toll aus; tragen Sie einen warmen Schal gegen den beißenden Seewind.",
+                "hu": "A magányos világítótorony lenyűgözően néz ki a lágy téli fényben; viseljen meleg sálat a csípős tengeri szél ellen.",
+                "ro": "Farul solitar arată uimitor în lumina blândă de iarnă; purtați o eșarfă caldă împotriva vânturilor aspre ale mării.",
+                "en": "The solitary lighthouse looks stunning in the soft winter light; wear a warm scarf against the biting sea winds here."
+              }
+            },
+            {
+              "name": {
+                "de": "French memorial monument",
+                "hu": "French memorial monument",
+                "ro": "French memorial monument",
+                "en": "French memorial monument"
+              },
+              "tip_5lang": {
+                "de": "Eine ergreifende Hommage am Meer; die Winterdämmerung sorgt für eine düstere Atmosphäre, also kommen Sie früh.",
+                "hu": "Megható tisztelgés a tengernél; a téli szürkület komor hangulatot ad, ezért érkezzen korán, mielőtt elmegy a fény.",
+                "ro": "Un tribut emoționant la malul mării; amurgul de iarnă adaugă o atmosferă sumbră, așa că ajungeți devreme înainte ca lumina să dispară.",
+                "en": "A poignant tribute by the sea; the winter dusk adds a somber atmosphere, so arrive early before the light fades."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument of the Greeks",
+                "hu": "Monument of the Greeks",
+                "ro": "Monument of the Greeks",
+                "en": "Monument of the Greeks"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese historische Stätte vor 17:00 Uhr, da die frühe Winterdämmerung den unbeleuchteten Bereich verdunkelt.",
+                "hu": "Látogassa meg ezt a jelentős történelmi helyszínt 17:00 előtt, mert a korai sötétedés miatt a kivilágítatlan terület nehezen élvezhető.",
+                "ro": "Vizitați acest sit istoric înainte de ora 17:00, deoarece apusul timpuriu de iarnă face zona neiluminată greu de apreciat.",
+                "en": "Visit this significant historic site before 17:00, as the early winter sunset makes the unlit area hard to appreciate."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoe Seaside Resort",
+                "hu": "Zoe Seaside Resort",
+                "ro": "Zoe Seaside Resort",
+                "en": "Zoe Seaside Resort"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach Ihrer Reise im beheizten Resort auf; die ruhige Wintersaison bietet einen wunderbar friedlichen Rückzugsort.",
+                "hu": "Melegedjen fel utazása után az üdülőhely fűtött belső terében; a csendes téli szezon csodálatosan békés menedéket kínál.",
+                "ro": "Încălziți-vă după călătorie în interiorul încălzit al complexului; sezonul liniștit de iarnă oferă o retragere minunat de pașnică.",
+                "en": "Warm up after your journey in the resort’s heated interior; the quiet winter season offers a wonderfully peaceful retreat."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +996,252 @@
         "hu": "Kezdje a napot egy hihetetlenül pihentető reggellel egy tengerparti üdülőhelyen, mielőtt Pilosz élénk központjába vezetne. A délidőt a város bájos múzeumainak és régészeti csodáinak szenteljük. Délután kényelmesen fedezze fel a hatalmas erőd területét és a világítótornyot. A történelmi és hősies emlékművek esti, békés látogatása teszi teljessé ezt a tökéletes utazást.",
         "ro": "Începeți cu o dimineață relaxantă la o stațiune de coastă pitorească înainte de a conduce direct în centrul vibrant al orașului Pylos. Prânzul este dedicat muzeelor fermecătoare și minunilor arheologice locale. După-amiaza, explorați confortabil zona vastă a fortăreței și farul marcant. O vizită de seară emoționantă la monumentele istorice completează perfect această zi plină de cultură.",
         "en": "Start with a relaxing morning at a picturesque coastal resort before driving right into the vibrant center of Pylos. Midday is totally dedicated to the city's charming museums and archaeological wonders. In the afternoon, comfortably explore the vast fortress grounds and the striking lighthouse. An evocative evening visit to the historic coastal monuments perfectly rounds off this cultural day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an diesem regnerischen Morgen vom Resort los und prüfen Sie die Scheibenwischer. Mittags huschen Sie mit Schirm zum Kamares. Die Nachmittagsmuseen halten Sie größtenteils trocken. Beenden Sie die Fahrt an den Küstendenkmälern, die Sie sicher aus dem Auto betrachten.",
+            "hu": "Induljon az üdülőhelyről ezen az esős reggelen, ellenőrizve az ablaktörlőket. Délben szaladjon át az autó és a Kamares között esernyővel. A délutáni múzeumok szárazon tartják. Fejezze be az autózást a parti emlékműveknél, biztonságból és szárazon szemlélve azokat.",
+            "ro": "Conduceți de la complex în această dimineață ploioasă. La prânz, fugiți între mașină și Kamares cu o umbrelă. Vizitele la muzeu de după-amiază vă țin în principal în interior. Încheiați plimbarea ploioasă la monumentele de coastă, privindu-le din confortul mașinii.",
+            "en": "Drive from the resort this rainy morning, ensuring your wipers work well. By noon, dash between your car and Kamares with an umbrella. Afternoon museum hops keep you mostly indoors and dry. Wrap up your rainy drive at the coastal monuments, viewing them safely from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoe Seaside Resort",
+                "hu": "Zoe Seaside Resort",
+                "ro": "Zoe Seaside Resort",
+                "en": "Zoe Seaside Resort"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem Regen in die gemütlichen Lounges des Resorts bei einem Heißgetränk, während der Regen aufs Meer prasselt.",
+                "hu": "Meneküljön a felhőszakadás elől az üdülőhely hangulatos társalgóiba, forró italt kortyolgatva, miközben az eső a Jón-tengert veri.",
+                "ro": "Scăpați de ploaie în saloanele confortabile ale complexului, bucurându-vă de o băutură caldă în timp ce ploaia lovește Marea Ionică.",
+                "en": "Escape the downpour inside the resort's cozy lounges, enjoying a hot drink while watching the rain hit the Ionian Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "hu": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "ro": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "en": "Antonopouleio Arkhaiologiko Mouseio Pulou"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie antike Artefakte sicher im Trockenen; lassen Sie Ihren nassen Schirm am Eingang.",
+                "hu": "Fedezze fel az ősi leleteket biztonságban az esőtől; hagyja vizes ernyőjét a bejáratnál.",
+                "ro": "Explorați artefacte antice în siguranță în interior; lăsați umbrela udă la intrare.",
+                "en": "Explore ancient artifacts safely indoors away from the rain; remember to leave your wet umbrella at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamares",
+                "hu": "Kamares",
+                "ro": "Kamares",
+                "en": "Kamares"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese alten Aquäduktbögen, aber gehen Sie vorsichtig, da die Steine bei Regen sehr rutschig werden.",
+                "hu": "Csodálja meg az ősi vízvezeték boltíveit, de lépkedjen óvatosan, mert a kövek esőben nagyon csúszósak.",
+                "ro": "Admirați aceste arcade vechi ale apeductului, dar mergeți cu grijă deoarece pietrele devin foarte alunecoase în ploaie.",
+                "en": "Admire these old aqueduct arches, but walk very carefully as the ancient stones get extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaeological Museum of Pylos",
+                "hu": "Archaeological Museum of Pylos",
+                "ro": "Archaeological Museum of Pylos",
+                "en": "Archaeological Museum of Pylos"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie mykenische Schätze in diesem trockenen Museum, das bei starken Regengüssen hervorragenden Schutz bietet.",
+                "hu": "Fedezze fel a mükénéi kincseket ebben a száraz múzeumban, amely kiváló menedéket nyújt a heves felhőszakadások idején.",
+                "ro": "Descoperiți comorile miceniene în acest muzeu confortabil, oferind un adăpost excelent în timpul ploilor abundente.",
+                "en": "Discover Mycenaean treasures in this dry and comfortable museum, providing excellent shelter during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Marine Archaeological Finds",
+                "hu": "Museum of Marine Archaeological Finds",
+                "ro": "Museum of Marine Archaeological Finds",
+                "en": "Museum of Marine Archaeological Finds"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie unglaubliche Unterwasserfunde im Trockenen; perfekt, um dem feuchten Küstenwetter auszuweichen.",
+                "hu": "Nézze meg a hihetetlen víz alatti leleteket teljesen szárazon; tökéletes a nedves parti időjárás elkerülésére.",
+                "ro": "Vedeți descoperiri subacvatice incredibile rămânând complet uscat; perfect pentru a evita vremea umedă de coastă.",
+                "en": "See incredible underwater discoveries while staying completely dry; perfect for avoiding the damp coastal weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Niokastrou",
+                "hu": "Pharos Niokastrou",
+                "ro": "Pharos Niokastrou",
+                "en": "Pharos Niokastrou"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Leuchtturm vor regnerischem Himmel, aber achten Sie auf schlammige Wege und halten Sie Ihren Schirm fest.",
+                "hu": "Nézze meg a lenyűgöző világítótornyot a drámai esős égbolt alatt, de ügyeljen a sáros utakra, és tartsa erősen az ernyőjét.",
+                "ro": "Vedeți farul izbitor pe un cer ploios, dar aveți grijă pe cărările noroioase și țineți bine umbrela.",
+                "en": "View the striking lighthouse amid dramatic rainy skies, but watch your step on muddy paths and hold your umbrella tight."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument of the Greeks",
+                "hu": "Monument of the Greeks",
+                "ro": "Monument of the Greeks",
+                "en": "Monument of the Greeks"
+              },
+              "tip_5lang": {
+                "de": "Erweisen Sie diesem Denkmal kurz die Ehre, da der offene Platz keinen Schutz vor plötzlichen Regenschauern bietet.",
+                "hu": "Tisztelegjen gyorsan ennél a fontos emlékműnél, mivel a nyitott tér egyáltalán nem nyújt védelmet a hirtelen záporok ellen.",
+                "ro": "Respectați acest monument important rapid, deoarece piața deschisă nu oferă protecție împotriva ploilor bruște.",
+                "en": "Pay respects at this important monument quickly, as the open square offers zero protection from sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "French memorial monument",
+                "hu": "French memorial monument",
+                "ro": "French memorial monument",
+                "en": "French memorial monument"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das Denkmal für die französischen Seeleute; stehen Sie an den grasbewachsenen Rändern, um rutschigen Steinen auszuweichen.",
+                "hu": "Nézze meg a francia tengerészek emlékművét; álljon a füves széleken, hogy elkerülje a csúszós vizes térköveket.",
+                "ro": "Vedeți memorialul dedicat marinarilor francezi; stați pe marginile cu iarbă pentru a evita pietrele de pavaj alunecoase.",
+                "en": "View the memorial dedicated to the French sailors; stand on the grassy edges to avoid the slippery wet paving stones."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie eine gemütliche Winterfahrt ab dem Resort und genießen Sie die Heizung. Der Mittag bringt einen frischen Stopp bei Kamares. Verbringen Sie den Nachmittag mit Geschichte in beheizten Museen. Fangen Sie das frühe Dämmerungslicht an den Denkmälern ein.",
+            "hu": "Kezdjen egy kényelmes téli autózást az üdülőhelyről. A dél körüli idő friss megállót hoz a Kamares-nél, mielőtt visszatérne a melegbe. Töltse a délutánt fűtött múzeumokban. Kapja el a korai szürkület fényeit a történelmi emlékműveknél, mielőtt besötétedik.",
+            "ro": "Începeți o plimbare confortabilă de iarnă de la complex. Prânzul aduce o oprire revigorantă la Kamares înainte de a vă întoarce la căldură. Petreceți după-amiaza în muzee încălzite. Prindeți lumina timpurie a amurgului la monumentele istorice înainte de a se întuneca.",
+            "en": "Start a cozy winter drive from the resort, enjoying the heated seats. Midday brings a crisp stop at Kamares before retreating back to the warmth. Spend the afternoon soaking in history inside heated museums. Catch the early dusk light at the historical monuments before it gets dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zoe Seaside Resort",
+                "hu": "Zoe Seaside Resort",
+                "ro": "Zoe Seaside Resort",
+                "en": "Zoe Seaside Resort"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach Ihrer Reise im beheizten Resort auf; die ruhige Wintersaison bietet einen wunderbar friedlichen Rückzugsort.",
+                "hu": "Melegedjen fel utazása után az üdülőhely fűtött belső terében; a csendes téli szezon csodálatosan békés menedéket kínál.",
+                "ro": "Încălziți-vă după călătorie în interiorul încălzit al complexului; sezonul liniștit de iarnă oferă o retragere minunat de pașnică.",
+                "en": "Warm up after your journey in the resort’s heated interior; the quiet winter season offers a wonderfully peaceful retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "hu": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "ro": "Antonopouleio Arkhaiologiko Mouseio Pulou",
+                "en": "Antonopouleio Arkhaiologiko Mouseio Pulou"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem beheizten Museum in die lokale Geschichte ein; ein perfektes Refugium vor der Winterkälte.",
+                "hu": "Merüljön el a helyi történelemben ebben a fűtött múzeumban; tökéletes reggeli menedék a téli hideg elől.",
+                "ro": "Scufundați-vă în istoria locală în acest muzeu încălzit; un refugiu perfect de dimineață împotriva frigului de iarnă.",
+                "en": "Dive into local history in this well-heated museum space; a perfect morning refuge from the brisk winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kamares",
+                "hu": "Kamares",
+                "ro": "Kamares",
+                "en": "Kamares"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das historische Aquädukt; tragen Sie eine winddichte Jacke, da es hier sehr zugig wird.",
+                "hu": "Csodálja meg a történelmi vízvezetéket; viseljen szélálló kabátot, mivel ezen a nyílt területen elég szeles az idő.",
+                "ro": "Minunați-vă de structura istorică a apeductului; purtați o jachetă rezistentă la vânt, deoarece zona deschisă este destul de vântoasă.",
+                "en": "Marvel at the historical aqueduct structure; make sure to wear a windproof jacket as this open area gets quite breezy."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaeological Museum of Pylos",
+                "hu": "Archaeological Museum of Pylos",
+                "ro": "Archaeological Museum of Pylos",
+                "en": "Archaeological Museum of Pylos"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die reiche regionale Geschichte; dank der Heizung ein toller Ort, um sich die Hände zu wärmen.",
+                "hu": "Szánjon időt a gazdag regionális történelem felfedezésére; a benti fűtés miatt kiváló hely a kezek felmelegítésére.",
+                "ro": "Explorați istoria regională bogată; încălzirea interioară îl face un loc minunat pentru a vă încălzi mâinile.",
+                "en": "Take your time exploring the rich regional history; the indoor heating makes it a great spot to warm your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of Marine Archaeological Finds",
+                "hu": "Museum of Marine Archaeological Finds",
+                "ro": "Museum of Marine Archaeological Finds",
+                "en": "Museum of Marine Archaeological Finds"
+              },
+              "tip_5lang": {
+                "de": "Faszinierende versunkene Relikte warten; behalten Sie Ihren Mantel an, falls das alte Steingebäude etwas kühl ist.",
+                "hu": "Lenyűgöző elsüllyedt ereklyék várják bent; tartsa magán a kabátját, ha az ősi kőépület kissé hűvösnek tűnik.",
+                "ro": "Relicve scufundate fascinante vă așteaptă; păstrați haina pe dumneavoastră dacă clădirea veche de piatră este răcoroasă.",
+                "en": "Fascinating sunken relics await inside; keep your coat on if the ancient stone building feels slightly chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Pharos Niokastrou",
+                "hu": "Pharos Niokastrou",
+                "ro": "Pharos Niokastrou",
+                "en": "Pharos Niokastrou"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Leuchtturm sieht im weichen Winterlicht toll aus; tragen Sie einen warmen Schal gegen den beißenden Seewind.",
+                "hu": "A magányos világítótorony lenyűgözően néz ki a lágy téli fényben; viseljen meleg sálat a csípős tengeri szél ellen.",
+                "ro": "Farul solitar arată uimitor în lumina blândă de iarnă; purtați o eșarfă caldă împotriva vânturilor aspre ale mării.",
+                "en": "The solitary lighthouse looks stunning in the soft winter light; wear a warm scarf against the biting sea winds here."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument of the Greeks",
+                "hu": "Monument of the Greeks",
+                "ro": "Monument of the Greeks",
+                "en": "Monument of the Greeks"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese historische Stätte vor 17:00 Uhr, da die frühe Winterdämmerung den unbeleuchteten Bereich verdunkelt.",
+                "hu": "Látogassa meg ezt a jelentős történelmi helyszínt 17:00 előtt, mert a korai sötétedés miatt a kivilágítatlan terület nehezen élvezhető.",
+                "ro": "Vizitați acest sit istoric înainte de ora 17:00, deoarece apusul timpuriu de iarnă face zona neiluminată greu de apreciat.",
+                "en": "Visit this significant historic site before 17:00, as the early winter sunset makes the unlit area hard to appreciate."
+              }
+            },
+            {
+              "name": {
+                "de": "French memorial monument",
+                "hu": "French memorial monument",
+                "ro": "French memorial monument",
+                "en": "French memorial monument"
+              },
+              "tip_5lang": {
+                "de": "Eine ergreifende Hommage am Meer; die Winterdämmerung sorgt für eine düstere Atmosphäre, also kommen Sie früh.",
+                "hu": "Megható tisztelgés a tengernél; a téli szürkület komor hangulatot ad, ezért érkezzen korán, mielőtt elmegy a fény.",
+                "ro": "Un tribut emoționant la malul mării; amurgul de iarnă adaugă o atmosferă sumbră, așa că ajungeți devreme înainte ca lumina să dispară.",
+                "en": "A poignant tribute by the sea; the winter dusk adds a somber atmosphere, so arrive early before the light fades."
+              }
+            }
+          ]
+        }
       }
     }
   }

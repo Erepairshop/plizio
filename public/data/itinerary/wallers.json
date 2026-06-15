@@ -137,6 +137,168 @@
         "hu": "A nap Wallers történelmi szívében, a Saint-Vaast templomnál kezdődik, ahol magába szívhatja a csendes észak-franciaországi reggel hangulatát.\n\nKelet felé sétálva az impozáns Wallers-Arenberg bányához érkezik, amely drámai betekintést nyújt a régió ipari múltjába.\n\nMiután tiszteletét tette a közeli Sainte-Barbe templomnál, a délután a természeté: felfedezheti a bányászati süllyedésekből kialakult nyugodt Mare à Goriaux tavat.\n\nKora este végigsétál a Trouée d'Arenberg legendás macskakövein, ahol a kerékpársport történelme él a fák között.",
         "ro": "Ziua ta începe în inima istorică a orașului Wallers la Biserica Saint-Vaast, absorbind atmosfera liniștită a dimineții.\n\nO plimbare constantă spre est te duce la impunătoarea Mină Wallers-Arenberg, o plonjare dramatică în trecutul industrial intens al regiunii.\n\nDupă o scurtă oprire la Église Sainte-Barbe, după-amiaza se îndreaptă spre natură, explorând senina Mare à Goriaux creată prin prăbușiri miniere.\n\nPe măsură ce se apropie seara, vei merge pe legendarele pietre cubice din Trouée d'Arenberg, unde istoria ciclismului trăiește printre copacii liniștiți.",
         "en": "Your day begins in the historic heart of Wallers at the Saint-Vaast Church, soaking in the quiet morning atmosphere of this northern French town.\n\nA steady walk east brings you to the imposing Mine de Wallers-Arenberg, a dramatic mid-morning plunge into the region's intense industrial past.\n\nAfter a short stroll to pay respects at Église Sainte-Barbe, the afternoon shifts to nature, exploring the serene Mare à Goriaux created by mining subsidence.\n\nAs evening approaches, you'll walk the legendary cobbles of the Trouée d'Arenberg, where cycling history lives among the quiet trees."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen mit Schutz in der historischen Kirche. Mittags erreichen Sie das Bergwerk, wo Innenausstellungen eine tolle Flucht vor dem Regen bieten. Nachmittags werden die Naturpfade matschig und erfordern wasserdichte Stiefel und einen Schirm. Der Abend beendet Ihre nasse, aber atmosphärische Tour.",
+            "hu": "Kezdje az esős reggelt a történelmi templom menedékében. Délben a bányához ér, ahol a belső kiállítások remek védelmet nyújtanak a felhőszakadás elől. Délután a természetjáró ösvények sárgolyóvá válnak, így a vízálló bakancs és az esernyő kötelező. Az este lezárja ezt a nedves, de hangulatos sétát.",
+            "ro": "Începeți dimineața ploioasă căutând adăpost în biserica istorică. La prânz ajungeți la mină, unde expozițiile interioare oferă o evadare excelentă din calea ploii. După-amiaza, traseele naturale devin noroioase, necesitând cizme impermeabile și o umbrelă. Seara încheie această plimbare umedă, dar plină de atmosferă.",
+            "en": "Start your rainy morning seeking shelter in the historic church. Midday brings you to the mining site, where indoor exhibits offer a great escape from the downpour. The afternoon nature trails turn muddy, demanding waterproof boots and a sturdy umbrella. The evening concludes your wet but highly atmospheric walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Vaast",
+                "hu": "Saint-Vaast templom",
+                "ro": "Biserica Saint-Vaast",
+                "en": "Saint-Vaast Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schönen Innendetails, während Sie perfekt trocken bleiben; bringen Sie unbedingt einen stabilen Regenschirm für die kurzen Spaziergänge mit.",
+                "hu": "Csodálja meg a gyönyörű belső részleteket, miközben teljesen száraz marad; mindenképp hozzon magával egy erős esernyőt a történelmi helyszínek közötti rövid sétákhoz.",
+                "ro": "Admirați detaliile interioare frumoase în timp ce rămâneți perfect uscat; asigurați-vă că aduceți o umbrelă robustă pentru plimbările scurte dintre siturile istorice.",
+                "en": "Admire the beautiful interior details while staying perfectly dry; make sure to bring a sturdy umbrella for the short walks between the town's historic sites."
+              }
+            },
+            {
+              "name": {
+                "de": "Zeche Wallers-Arenberg",
+                "hu": "Wallers-Arenberg bánya",
+                "ro": "Mina Wallers-Arenberg",
+                "en": "Wallers-Arenberg Mine"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen Innenausstellungen bieten tollen Schutz vor dem Regen; seien Sie extrem vorsichtig, da das Kopfsteinpflaster im Freien bei Nässe sehr rutschig wird.",
+                "hu": "A hatalmas belső kiállítások remek menedéket nyújtanak a heves eső elől; legyen rendkívül óvatos, mert a kinti ipari macskakövek nedvesen nagyon csúszósak.",
+                "ro": "Expozițiile interioare masive oferă un adăpost excelent împotriva ploii grele; fiți extrem de atenți, deoarece pavajul industrial exterior devine foarte alunecos la umezeală.",
+                "en": "The massive indoor exhibitions provide great shelter from the heavy rain; be extremely careful as the outdoor industrial cobblestones get very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Barbe",
+                "hu": "Sainte-Barbe templom",
+                "ro": "Biserica Sainte-Barbe",
+                "en": "Église Sainte-Barbe"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, spiritueller Zufluchtsort vor dem Dauerregen draußen; der perfekte Ort, um das nasse Wetter abzuschütteln und in friedlicher Atmosphäre zu ruhen.",
+                "hu": "Csendes, spirituális menedék a kinti kitartó eső elől; tökéletes hely, hogy lerázza magáról a nedves időt és megpihenjen egy percet a békés légkörben.",
+                "ro": "Un refugiu spiritual liniștit din calea ploii persistente de afară; este locul perfect pentru a scăpa de vremea umedă și a vă odihni într-o atmosferă pașnică.",
+                "en": "A quiet, spiritual refuge from the persistent rain outside; it is the perfect spot to shake off the wet weather and rest a moment in a peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare à Goriaux",
+                "hu": "Mare à Goriaux",
+                "ro": "Mare à Goriaux",
+                "en": "Mare à Goriaux"
+              },
+              "tip_5lang": {
+                "de": "Der dramatische Regen über dem See ist wunderschön, aber die Naturpfade werden extrem matschig, was dicke, wasserfeste Stiefel hier zur absoluten Notwendigkeit macht.",
+                "hu": "A tóra hulló drámai eső gyönyörű, de a természetjáró ösvények rendkívül sarasak lesznek, így a vastag vízálló lábbeli abszolút elengedhetetlen errefelé.",
+                "ro": "Ploaia dramatică de pe lac este frumoasă, dar traseele naturale devin extrem de noroioase, făcând ca cizmele impermeabile groase să fie o necesitate absolută.",
+                "en": "The dramatic rain falling on the lake is beautiful, but the nature trails become extremely muddy, making thick waterproof boots an absolute necessity here."
+              }
+            },
+            {
+              "name": {
+                "de": "Trouée d'Arenberg",
+                "hu": "Trouée d'Arenberg",
+                "ro": "Trouée d'Arenberg",
+                "en": "Trouée d'Arenberg"
+              },
+              "tip_5lang": {
+                "de": "Das berühmte Waldpflaster ist bei Nässe berüchtigt tückisch und glatt; gehen Sie sicher auf den weicheren grasbewachsenen Rändern, um Halt und Gleichgewicht zu bewahren.",
+                "hu": "A híres erdei macskakövek nedvesen hírhedten alattomosak és csúszósak; sétáljon biztonságosan a puhább füves széleken, hogy megőrizze tapadását és egyensúlyát.",
+                "ro": "Faimosul pavaj forestier este notoriu de periculos și alunecos când este ud; mergeți în siguranță pe marginile cu iarbă pentru a vă menține aderența și echilibrul.",
+                "en": "The famous forest cobbles are notoriously treacherous and slick when wet; walk safely on the muddy but softer grassy edges to maintain your grip and balance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der historischen Kirche. Mittags erreichen Sie den faszinierenden, aber kühlen Zechenkomplex, perfekt für Fotos. Nachmittags sind die Naturpfade wunderschön kahl und gefroren. Denken Sie an die frühe Dämmerung und beenden Sie Ihren kalten, aber unvergesslichen Spaziergang gegen 17:00 Uhr.",
+            "hu": "Egy csípős téli reggel a történelmi templomnál kezdődik. Délben a lenyűgöző, de fagyos bányakomplexumhoz ér, amely tökéletes fotózáshoz. Délután a természetjáró ösvények gyönyörűen kopárak és fagyottak. Tartsa szem előtt a korai sötétedést, és fejezze be sétáját, ahogy a nap 17:00 körül lenyugszik.",
+            "ro": "O dimineață geroasă de iarnă începe la biserica istorică. La prânz ajungeți la complexul minier fascinant, dar răcoros. După-amiaza, traseele naturale sunt frumos înghețate. Țineți cont de amurgul timpuriu și încheiați-vă plimbarea memorabilă în timp ce soarele apune în jurul orei 17:00.",
+            "en": "A crisp winter morning starts at the historic church. Midday brings you to the fascinating but chilly mining complex, perfect for photography. Afternoon nature trails are beautifully stark and frozen. Keep the early dusk in mind, wrapping up your freezing but memorable walk as the sun sets around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Vaast",
+                "hu": "Saint-Vaast templom",
+                "ro": "Biserica Saint-Vaast",
+                "en": "Saint-Vaast Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um der frostigen Morgenluft zu entkommen; tragen Sie Thermoschichten, da alte Steinkirchen die Kälte oft tief in ihren Mauern speichern.",
+                "hu": "Lépjen be, hogy elmeneküljön a fagyos reggeli levegő elől; viseljen termo rétegeket, mivel a régi kőtemplomok mélyen magukban tartják a hideget.",
+                "ro": "Pășiți înăuntru pentru a scăpa de aerul înghețat al dimineții; purtați straturi termice, deoarece vechile biserici de piatră pot reține frigul profund.",
+                "en": "Step inside to escape the frosty morning air and admire the serene winter atmosphere; wear thermal layers as old stone churches can hold the cold deeply."
+              }
+            },
+            {
+              "name": {
+                "de": "Zeche Wallers-Arenberg",
+                "hu": "Wallers-Arenberg bánya",
+                "ro": "Mina Wallers-Arenberg",
+                "en": "Wallers-Arenberg Mine"
+              },
+              "tip_5lang": {
+                "de": "Die imposante Industriearchitektur wirkt im klaren Winterlicht unglaublich markant; ziehen Sie sich warm an, da die Zugluft im Komplex sehr stark sein kann.",
+                "hu": "Az impozáns ipari építészet hihetetlenül lenyűgöző a csípős téli fényben; öltözzön melegen, mert a komplexumon átfújó huzat nagyon erős tud lenni.",
+                "ro": "Arhitectura industrială impunătoare arată incredibil de izbitor în lumina clară de iarnă; îmbrăcați-vă călduros, deoarece curenții de aer din complex sunt puternici.",
+                "en": "The imposing industrial architecture looks incredibly striking in the crisp winter light; dress warmly as the drafts blowing through the complex are very strong."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Barbe",
+                "hu": "Sainte-Barbe templom",
+                "ro": "Biserica Sainte-Barbe",
+                "en": "Église Sainte-Barbe"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher, historischer Halt, um die gefrorenen Hände zu wärmen; die ruhige Winterkulisse unterstreicht den Charme dieser klassischen Bergarbeiterkirche.",
+                "hu": "Békés, történelmi megálló a fagyott kezek felmelegítésére; a csendes téli környezet gyönyörűen kiemeli ennek a klasszikus bányásztemplomnak a varázsát.",
+                "ro": "O oprire istorică pașnică pentru a vă încălzi mâinile înghețate; peisajul liniștit de iarnă sporește frumos farmecul acestei biserici clasice de mineri.",
+                "en": "A peaceful, historic stop to warm your frozen hands; the quiet winter setting beautifully enhances the charm of this classic miner's community church."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare à Goriaux",
+                "hu": "Mare à Goriaux",
+                "ro": "Mare à Goriaux",
+                "en": "Mare à Goriaux"
+              },
+              "tip_5lang": {
+                "de": "Gefrorene Ufer und winterliche Zugvögel machen diesen Ort sehr besonders; packen Sie sich mit einem Schal gut gegen den beißenden Wind vom kalten Wasser ein.",
+                "hu": "A fagyott partok és a téli madarak teszik különlegessé ezt a természeti helyet; burkolózzon sálba a hideg víz felől fújó metsző szél ellen.",
+                "ro": "Marginile înghețate și păsările de iarnă fac acest loc natural foarte special; înfofoliți-vă bine cu un fular împotriva vântului tăios ce vine dinspre apa rece.",
+                "en": "Frozen edges and visiting winter birds make this natural spot very special; wrap up well with a scarf against the biting wind coming off the cold water."
+              }
+            },
+            {
+              "name": {
+                "de": "Trouée d'Arenberg",
+                "hu": "Trouée d'Arenberg",
+                "ro": "Trouée d'Arenberg",
+                "en": "Trouée d'Arenberg"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Winterbäume lassen die gepflasterte Gerade endlos und filmisch wirken; beenden Sie Ihren Spaziergang früh, bevor die Dunkelheit um 17:00 Uhr hereinbricht.",
+                "hu": "A kopasz téli fák végtelennek és filmszerűnek láttatják a macskaköves egyenest; fejezze be a sétát korán, mielőtt a fagyos 17:00 órai sötétség leszáll az erdőre.",
+                "ro": "Copacii goi de iarnă fac ca drumul pavat să pară nesfârșit și cinematic; terminați plimbarea devreme, înainte ca întunericul înfiorător de la ora 17:00 să se lase.",
+                "en": "The bare winter trees make the cobbled straight look endless and cinematic; finish your walk early before the chilling 5 PM darkness sets in over the forest."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját nyugaton a Saint-Léger templomnál, majd tekerjen be a történelmi központba, hogy megtekintse a Saint-Vaast templomot.\n\nA napközi út egyenesen a Wallers-Arenberg bánya lenyűgöző ipari örökségébe vezet, amely egy rendkívül fontos kulturális horgony.\n\nA kora délután a legendáké és a tájaké: óvatosan haladjon át a Trouée d'Arenberg híres macskakövein, és figyelje a madarakat a Mare à Goriaux tónál.\n\nA nap egy hosszú tekeréssel zárul a Raismes-Saint-Amand-Wallers erdő buja ösvényein, a békésen lemenő nap fényében.",
         "ro": "Începe-ți aventura pe bicicletă în vest la Église Saint-Léger, încălzindu-ți picioarele înainte de a pedala în centrul istoric la Saint-Vaast.\n\nCălătoria de la mijlocul zilei te conduce direct în patrimoniul industrial impresionant al Minei Wallers-Arenberg, o ancoră culturală fascinantă.\n\nÎnceputul după-amiezii este pentru legende și peisaje, navigând cu grijă pe faimoasele pietre cubice din Trouée d'Arenberg și observând păsări la Mare à Goriaux.\n\nZiua se încheie cu o plimbare prelungită prin traseele luxuriante ale Pădurii Raismes-Saint-Amand-Wallers sub soarele frumos la apus.",
         "en": "Start your cycling adventure in the west at Église Saint-Léger, warming up your legs before pedaling into the historic center to view the Saint-Vaast Church.\n\nThe mid-day journey leads you straight into the striking industrial heritage of the Wallers-Arenberg Mine, a fascinating cultural anchor.\n\nEarly afternoon is for legends and landscapes, carefully navigating the fabled cobbles of the Trouée d'Arenberg and watching birds at Mare à Goriaux.\n\nThe day concludes with an extended ride through the lush, sprawling paths of the Raismes-Saint-Amand-Wallers Forest under the setting sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen ist hier ein Abenteuer. Beginnen Sie mit Kirchenbesuchen, um trocken zu bleiben. Das Bergwerk bietet eine tolle Mittagspause vor dem Dauerregen. Nachmittags auf den nassen Waldwegen benötigen Sie exzellente Reifen, starke Bremsen und gute Regenkleidung, um sicher zu navigieren.",
+            "hu": "Az esőben való kerékpározás itt igazi kaland. Kezdje a templomok meglátogatásával, hogy száraz maradjon. A bánya fantasztikus déli pihenőt kínál a kitartó esőben. Délután a nedves erdei utakon kiváló gumiabroncsokra, erős fékekre és teljes esőruházatra lesz szüksége a biztonságos haladáshoz.",
+            "ro": "Ciclismul pe ploaie aici este o aventură. Începeți cu vizite la biserici pentru a rămâne uscat. Mina oferă o pauză fantastică la amiază de la ploaia persistentă. După-amiaza, pe potecile umede ale pădurii, necesită anvelope excelente, frâne puternice și echipament complet de ploaie pentru siguranță.",
+            "en": "Cycling in the rain here is an adventure. Start with indoor church visits to stay dry. The mine offers a fantastic midday break from the persistent downpour. Afternoon cycling on the wet forest paths requires excellent tires, strong brakes, and full rain gear to safely navigate the slippery terrain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Léger",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Église Saint-Léger"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in dieser schönen Kirche Schutz, während der Morgenregen vorbeizieht; stellen Sie sicher, dass Ihre Fahrradbremsen bei Nässe perfekt funktionieren.",
+                "hu": "Keresse meg a menedéket ebben a gyönyörű templomban, amíg a reggeli eső elvonul; győződjön meg róla, hogy kerékpárja fékei nedvesen is tökéletesen fognak.",
+                "ro": "Adăpostiți-vă în această biserică frumoasă în timp ce ploaia de dimineață trece; asigurați-vă că frânele bicicletei funcționează perfect în condiții de umezeală.",
+                "en": "Take cover inside this beautiful church while the morning rain passes; ensure your bike brakes work perfectly in the wet before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vaast",
+                "hu": "Saint-Vaast templom",
+                "ro": "Biserica Saint-Vaast",
+                "en": "Saint-Vaast Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Unterstand mit schöner Architektur; beachten Sie, dass die nassen Straßen in Richtung des Bergbaugebiets für Radfahrer recht rutschig werden können.",
+                "hu": "Gyors menedék egy gyönyörű építészeti megállónál; vegye figyelembe, hogy a bányászati terület felé vezető nedves utak meglehetősen csúszósak lehetnek a bringásoknak.",
+                "ro": "O oprire scurtă la adăpost cu arhitectură frumoasă; fiți conștienți că drumurile umede spre zona minieră pot deveni destul de alunecoase pentru bicicliști.",
+                "en": "A quick shelter stop with beautiful architecture; be aware that the wet roads leading toward the mining site can become quite slippery for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Zeche Wallers-Arenberg",
+                "hu": "Wallers-Arenberg bánya",
+                "ro": "Mina Wallers-Arenberg",
+                "en": "Wallers-Arenberg Mine"
+              },
+              "tip_5lang": {
+                "de": "Tolle Innenausstellungen ermöglichen es Ihnen, sich komplett abzutrocknen; parken Sie Ihr Fahrrad sicher unter den verfügbaren Unterständen am Eingang.",
+                "hu": "A nagyszerű belső kiállítások lehetővé teszik, hogy teljesen megszáradjon; parkolja le kerékpárját biztonságosan a bejáratnál található fedett tárolók alatt.",
+                "ro": "Expozițiile interioare excelente vă permit să vă uscați complet; parcați-vă bicicleta în siguranță sub adăposturile disponibile la intrare în timp ce explorați.",
+                "en": "Great indoor exhibits allow you to dry off completely; park your bike securely under the available shelters while you explore the dry museum areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Trouée d'Arenberg",
+                "hu": "Trouée d'Arenberg",
+                "ro": "Trouée d'Arenberg",
+                "en": "Trouée d'Arenberg"
+              },
+              "tip_5lang": {
+                "de": "Nasses Kopfsteinpflaster ist für Radfahrer extrem gefährlich; erwägen Sie ernsthaft, Ihr Fahrrad sicher am grasbewachsenen Rand zu schieben, um Stürze zu vermeiden.",
+                "hu": "A nedves macskakövek hírhedten veszélyesek a kerékpárosok számára; fontolja meg komolyan, hogy a füves szélen tolja a bringát a fájdalmas esések elkerülése végett.",
+                "ro": "Pavajul ud este periculos pentru bicicliști; luați în considerare în mod serios să vă împingeți bicicleta în siguranță pe marginea cu iarbă pentru a evita un accident.",
+                "en": "Wet cobbles are notoriously dangerous and bouncy for cyclists; strongly consider pushing your bike safely along the grassy edge to avoid a painful crash."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare à Goriaux",
+                "hu": "Mare à Goriaux",
+                "ro": "Mare à Goriaux",
+                "en": "Mare à Goriaux"
+              },
+              "tip_5lang": {
+                "de": "Der schöne Seeweg ist bei Regenstürmen extrem matschig; montieren Sie solide Schutzbleche, um zu vermeiden, dass Ihr Rücken beim Fahren komplett durchnässt wird.",
+                "hu": "A gyönyörű tóparti út esőzés idején rendkívül sáros; szereljen fel masszív sárvédőket, hogy elkerülje a teljesen átázott hátat lovaglás közben ezen a szakaszon.",
+                "ro": "Poteca frumoasă a lacului este extrem de noroioasă în timpul furtunilor; echipați-vă cu apărători de noroi solide pentru a evita spatele complet ud în timpul mersului.",
+                "en": "The beautiful lake path is extremely muddy and wet during rainstorms; equip solid mudguards to avoid getting a completely soaked back while riding here."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Raismes-Saint-Amand-Wallers",
+                "hu": "Raismes-Saint-Amand-Wallers erdő",
+                "ro": "Pădurea Raismes-Saint-Amand-Wallers",
+                "en": "Raismes-Saint-Amand-Wallers Forest"
+              },
+              "tip_5lang": {
+                "de": "Das dichte Blätterdach bietet leichten Schutz vor Regen, aber nasses Laub macht die Wege sehr glatt; fahren Sie langsam und vermeiden Sie scharfe Kurven.",
+                "hu": "A sűrű lombkorona enyhe védelmet nyújt az eső ellen, de a nedves, lehullott levelek nagyon csúszóssá teszik az utat; haladjon lassan és kerülje a hirtelen kanyarokat.",
+                "ro": "Coronamentul dens oferă o ușoară protecție, dar frunzele căzute și umede fac potecile foarte alunecoase; mergeți încet și evitați virajele ascuțite bruste.",
+                "en": "The dense tree canopy offers slight protection from the rain, but wet fallen leaves make paths very slick; ride slowly and avoid sudden sharp turns."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine erfrischende Winterfahrt gut ein. Der Morgen bietet ruhige, frostige Kirchen. Das Bergwerk ist mittags kühl, aber fesselnd. Die nachmittägliche Waldfahrt ist in der tiefstehenden Sonne atemberaubend. Achten Sie auf voll geladene Fahrradlichter, da es gegen 17:00 Uhr schnell dunkel wird.",
+            "hu": "Öltözzön be melegen egy frissítő téli bringázáshoz. A reggel csendes, fagyos templomokat kínál. A bánya délben hűvös, de magával ragadó. A délutáni erdei kerékpározás lenyűgöző az alacsonyan járó napfényben. Győződjön meg róla, hogy a kerékpárlámpák fel vannak töltve, mert 17:00 körül hamar sötétedik.",
+            "ro": "Înfofoliți-vă pentru o plimbare revigorantă de iarnă. Dimineața prezintă biserici liniștite și înghețate. Mina istorică este rece, dar captivantă la prânz. Plimbarea de după-amiază prin pădure este frumoasă în soarele jos. Asigurați-vă că luminile bicicletei sunt încărcate, deoarece se întunecă rapid în jur de ora 17:00.",
+            "en": "Bundle up for a bracing winter ride. Morning features quiet, frosty churches. The historic mine is chilly but captivating at noon. The afternoon forest ride is starkly beautiful in the low sun. Ensure your bike lights are fully charged, as darkness falls quickly around 5 PM on these rural paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Léger",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Église Saint-Léger"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost lässt die Steinfassade der Kirche wunderschön funkeln; tragen Sie stark isolierte Handschuhe, um Ihre Finger während der kühlen Fahrt beweglich zu halten.",
+                "hu": "A reggeli fagy gyönyörűen megcsillogtatja a templom kőhomlokzatát; viseljen erősen szigetelt kesztyűt, hogy ujjai működőképesek maradjanak a hideg utazás során.",
+                "ro": "Gerul dimineții face ca exteriorul din piatră al bisericii să strălucească frumos; purtați mănuși puternic izolate pentru a vă păstra degetele funcționale.",
+                "en": "The morning frost makes the church's stone exterior sparkle beautifully; wear heavily insulated gloves to keep your fingers functioning during the chilly ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vaast",
+                "hu": "Saint-Vaast templom",
+                "ro": "Biserica Saint-Vaast",
+                "en": "Saint-Vaast Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, angenehmer Aufwärmstopp im Dorf; achten Sie auf Glatteis auf den ruhigen Straßen in der Nähe, besonders in den schattigen Teilen der Straße.",
+                "hu": "Rövid, kellemes bemelegítő megálló a faluban; vigyázzon a fekete jégfoltokra a közeli csendes utakon, különösen az utca árnyékos részein haladva.",
+                "ro": "O oprire scurtă și plăcută de încălzire în sat; atenție la peticele de gheață neagră de pe drumurile liniștite din apropiere, mai ales în părțile umbrite.",
+                "en": "A brief, pleasant warm-up stop in the village; watch out for black ice patches on the quiet roads nearby, especially in the shaded parts of the street."
+              }
+            },
+            {
+              "name": {
+                "de": "Zeche Wallers-Arenberg",
+                "hu": "Wallers-Arenberg bánya",
+                "ro": "Mina Wallers-Arenberg",
+                "en": "Wallers-Arenberg Mine"
+              },
+              "tip_5lang": {
+                "de": "Die kalten Eisenstrukturen wirken dramatisch gegen den blassen Winterhimmel; bleiben Sie in den offenen Bereichen in Bewegung, um warm zu bleiben.",
+                "hu": "A hideg vasszerkezetek drámaian mutatnak a halvány téli égbolt előtt; maradjon mozgásban a nyitott területeken, hogy melegen tartsa magát a körbejárás alatt.",
+                "ro": "Structurile reci din fier arată dramatic pe cerul palid de iarnă; continuați să vă mișcați pentru a rămâne la cald în zonele deschise ale muzeului minier.",
+                "en": "The cold iron structures look dramatic against the pale winter sky; keep moving to stay warm in the open areas and grab a hot drink if available nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Trouée d'Arenberg",
+                "hu": "Trouée d'Arenberg",
+                "ro": "Trouée d'Arenberg",
+                "en": "Trouée d'Arenberg"
+              },
+              "tip_5lang": {
+                "de": "Die Winterkulisse hier ist karg und sehr historisch; Vorsicht vor verborgenem Eis zwischen den unebenen Pflastersteinen, was die Fahrt noch anspruchsvoller macht.",
+                "hu": "A téli táj itt kopár, nyers és nagyon történelmi; óvakodjon a rejtett jégtől az egyenetlen macskakövek között, ami még nagyobb kihívássá teszi az utazást.",
+                "ro": "Peisajul de iarnă de aici este crud și extrem de istoric; feriți-vă de gheața ascunsă dintre pietrele inegale, făcând călătoria și mai provocatoare decât de obicei.",
+                "en": "The winter scenery here is stark, raw, and highly historic; beware of hidden ice between the uneven cobbles, making the ride even more challenging than usual."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare à Goriaux",
+                "hu": "Mare à Goriaux",
+                "ro": "Mare à Goriaux",
+                "en": "Mare à Goriaux"
+              },
+              "tip_5lang": {
+                "de": "Überwinternde Zugvögel sind durch die kahlen Zweige gut sichtbar; eine Thermoskanne mit heißem Tee ist sehr zu empfehlen, um sich am gefrorenen See aufzuwärmen.",
+                "hu": "A telelő vándormadarak jól láthatóak a csupasz ágak között; a fagyott tóparton való felmelegedéshez erősen ajánlott egy forró teával teli termosz.",
+                "ro": "Păsările de iarnă migratoare sunt foarte vizibile prin ramurile goale; un termos umplut cu ceai fierbinte este foarte recomandat pentru a vă încălzi lângă lac.",
+                "en": "Migrating winter birds are highly visible through the bare branches; a thermos filled with hot tea is highly recommended to warm up by the frozen lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Raismes-Saint-Amand-Wallers",
+                "hu": "Raismes-Saint-Amand-Wallers erdő",
+                "ro": "Pădurea Raismes-Saint-Amand-Wallers",
+                "en": "Raismes-Saint-Amand-Wallers Forest"
+              },
+              "tip_5lang": {
+                "de": "Kahle Bäume lassen die goldene Wintersonne wunderschön einfallen; schalten Sie Ihre hellen Fahrradlichter frühzeitig ein, da die Waldschatten schnell länger werden.",
+                "hu": "A kopasz fák gyönyörűen átengedik az arany téli napfényt; kapcsolja be korán az erős kerékpárlámpákat, mivel az erdei árnyékok gyorsan megnyúlnak 17:00 előtt.",
+                "ro": "Copacii goi lasă să intre frumos soarele auriu de iarnă; porniți luminile luminoase ale bicicletei devreme, deoarece umbrele pădurii se lungesc rapid înainte de amurg.",
+                "en": "Bare trees let in the low, golden winter sun beautifully; turn on your bright bike lights early as the forest shadows lengthen quickly before the 5 PM dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autó kényelme lehetővé teszi, hogy messze nyugaton, a Saint-Léger templomnál kezdjen, mielőtt gyorsan délkeletre hajtana a Chapelle Saint-Roch és a Saint-Denis templom bájos látványához.\n\nDélelőtt a monumentális Wallers-Arenberg bányánál parkol le, és mélyen elmerül Észak-Franciaország szénbányászati és ipari sagájában.\n\nEbéd után egy rövid autóúttal megtapasztalhatja a Trouée d'Arenberg macskaköveinek hírhedt szépségét és a Mare à Goriaux nyugodt vizeit.\n\nAz átfogó autós utazás a hatalmas Raismes-Saint-Amand-Wallers erdőben ér véget egy hangulatos, alkonyati erdei sétával.",
         "ro": "Confortul unei mașini îți permite să începi mult în vest la Église Saint-Léger înainte de a merge rapid spre sud-est pentru a surprinde farmecul Capelei Saint-Roch și al Église Saint-Denis.\n\nPână la jumătatea dimineții, parchezi la monumentala Mină Wallers-Arenberg, cufundându-te adânc în saga dramatică a extracției cărbunelui.\n\nDupă prânz, conduci puțin pentru a experimenta frumusețea pietrelor cubice din Trouée d'Arenberg și apele liniștite ale Mare à Goriaux.\n\nCălătoria ta cuprinzătoare se încheie în imensa Pădure Raismes-Saint-Amand-Wallers, bucurându-te de o plimbare liniștită la amurg.",
         "en": "The convenience of a car lets you start far west at Église Saint-Léger before swiftly cruising southeast to capture the quaint charm of Chapelle Saint-Roch and Église Saint-Denis.\n\nBy mid-morning, you park at the monumental Wallers-Arenberg Mine, immersing yourself deeply into the coal-mining saga of Northern France.\n\nAfter lunch, take a short drive to experience the treacherous beauty of the Trouée d'Arenberg cobbles and the tranquil waters of Mare à Goriaux.\n\nYour comprehensive road trip ends in the massive Raismes-Saint-Amand-Wallers Forest, enjoying a peaceful twilight woodland stroll."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Autofahren ist perfekt für einen Regentag. Springen Sie zwischen historischen Kirchen hin und her und bleiben Sie größtenteils trocken. Das Bergwerk bietet mittags ein weitläufiges Indoor-Erlebnis. Halten Sie einen großen Regenschirm im Auto bereit für die nachmittäglichen Naturstopps, um kurze Ausflüge zu machen, ohne durchnässt zu werden.",
+            "hu": "A vezetés tökéletes választás esős napra. Ugráljon a történelmi templomok között, nagyrészt szárazon maradva. A bánya hatalmas beltéri élményt nyújt délben. Tartson a kocsiban egy nagy esernyőt a délutáni természeti megállókhoz, így gyors kitérőket tehet a drámai, nedves táj élvezetéhez anélkül, hogy elázna.",
+            "ro": "Condusul este alegerea perfectă pentru o zi ploioasă. Săriți între bisericile istorice, rămânând în mare parte uscat. Mina oferă o experiență interioară vastă la prânz. Păstrați o umbrelă mare la îndemână în mașină pentru opririle naturale de după-amiază, făcând ieșiri scurte pentru a vă bucura de peisajul umed.",
+            "en": "Driving is the perfect choice for a rainy day. Hop between historic churches staying mostly dry. The mine offers an expansive indoor experience at midday. Keep a large umbrella handy in the car for the afternoon nature stops, making quick dashes to enjoy the dramatic, wet scenery without getting soaked."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Léger",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Église Saint-Léger"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie rechtlich möglich, um dem Morgenregen schnell auszuweichen; das historische Innere ist eine gemütliche, trockene Flucht vor dem düsteren Wetter.",
+                "hu": "Parkoljon a lehető legközelebb, hogy gyorsan kikerülje a reggeli esőt; a történelmi belső tér hangulatos, száraz menedék a kinti borús idő elől.",
+                "ro": "Parcați cât mai aproape posibil din punct de vedere legal pentru a evita rapid ploaia de dimineață; interiorul istoric este o evadare confortabilă și uscată.",
+                "en": "Park as close as legally possible to quickly dodge the morning rain; the historic interior is a cozy, dry escape from the gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Roch",
+                "hu": "Saint-Roch kápolna",
+                "ro": "Capela Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Ein schönes Wahrzeichen am Straßenrand, das bequem aus dem trockenen Auto betrachtet werden kann, oder machen Sie einen schnellen Spurt mit einem großen Regenschirm.",
+                "hu": "Gyönyörű út menti nevezetesség, amely kényelmesen megtekinthető a száraz autóból, vagy tegyen egy gyors sprintet egy nagy esernyővel egy közelebbi fotóért.",
+                "ro": "Un frumos punct de reper pe marginea drumului, care poate fi privit confortabil din mașina uscată, sau faceți un salt rapid cu o umbrelă mare pentru o fotografie.",
+                "en": "A beautiful roadside landmark that can be viewed comfortably from the dry car, or take a quick dash with a large umbrella for a closer photograph."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie trocken und bequem in dieser schönen Kirche; die nahe gelegenen Parkmöglichkeiten machen es sehr einfach, sie ohne Regenschauer zu besuchen.",
+                "hu": "Maradjon száraz és kényelmes ebben a szép templomban; a közeli parkolási lehetőségek nagyon egyszerűvé teszik a látogatást anélkül, hogy bőrig ázna az esőben.",
+                "ro": "Rămâneți uscat și confortabil în interiorul acestei biserici minunate; opțiunile de parcare din apropiere o fac foarte ușor de vizitat fără a vă uda în ploaie.",
+                "en": "Keep dry and comfortable inside this lovely church; the nearby parking options make it very easy to visit without getting drenched in the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Zeche Wallers-Arenberg",
+                "hu": "Wallers-Arenberg bánya",
+                "ro": "Mina Wallers-Arenberg",
+                "en": "Wallers-Arenberg Mine"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die weitläufigen Ausstellungshallen in Ihrem eigenen Tempo; der Regen, der auf die Metallstrukturen fällt, verleiht dem Ort eine authentische, düstere industrielle Atmosphäre.",
+                "hu": "Fedezze fel a kiterjedt beltéri kiállítótermeket a saját tempójában; a fémszerkezetekre hulló eső komor, autentikus ipari hangulatot kölcsönöz a helynek.",
+                "ro": "Explorați sălile de expoziții interioare extinse în propriul ritm; ploaia care cade pe structurile metalice adaugă o vibrație industrială sumbră și autentică sitului.",
+                "en": "Explore the extensive indoor exhibition halls at your own pace; the rain falling on the metal structures adds a gloomy, authentic industrial vibe to the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Trouée d'Arenberg",
+                "hu": "Trouée d'Arenberg",
+                "ro": "Trouée d'Arenberg",
+                "en": "Trouée d'Arenberg"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie sicher in der Nähe und gehen Sie nur ein paar nasse Meter; das legendäre nasse Kopfsteinpflaster ist ein fantastischer Anblick, den man sich nicht entgehen lassen sollte.",
+                "hu": "Parkoljon biztonságosan a közelben, és sétáljon csak néhány nedves métert; a legendás vizes macskakő fantasztikus látvány, de a vezetés rajta általában tilos.",
+                "ro": "Parcați în siguranță în apropiere și mergeți doar câțiva metri umezi; legendarul pavaj ud este o priveliște fantastică de văzut din marginea drumului.",
+                "en": "Park safely nearby and walk just a few wet meters; the legendary wet cobbles are a fantastic sight to see, but driving on them is generally restricted."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare à Goriaux",
+                "hu": "Mare à Goriaux",
+                "ro": "Mare à Goriaux",
+                "en": "Mare à Goriaux"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die atmosphärischen Regentropfen auf dem See unter einem Regenschirm; die Pfade sind zu matschig für tiefe Erkundungen, bleiben Sie also an den befestigten Rändern.",
+                "hu": "Nézze egy esernyő alól, ahogy a hangulatos esőcseppek táncolnak a tó felszínén; az ösvények túl sarasak a mélyebb felfedezéshez, ezért maradjon a burkolt széleken.",
+                "ro": "Urmăriți picăturile de ploaie atmosferice dansând pe suprafața lacului de sub o umbrelă; traseele sunt prea noroioase pentru o explorare profundă.",
+                "en": "Watch the atmospheric raindrops dancing on the lake surface from under an umbrella; trails are too muddy for deep exploration, so keep to the paved edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Raismes-Saint-Amand-Wallers",
+                "hu": "Raismes-Saint-Amand-Wallers erdő",
+                "ro": "Pădurea Raismes-Saint-Amand-Wallers",
+                "en": "Raismes-Saint-Amand-Wallers Forest"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das entspannende Geräusch von starkem Regen auf der Windschutzscheibe während der Fahrt; ein kurzer Spaziergang in den nassen Wald erfordert vollständige Regenkleidung.",
+                "hu": "Élvezze a szélvédőn kopogó heves eső pihentető hangját a vezetés során; egy rövid séta a nedves erdőben teljes esőruházatot és vízálló bakancsot igényel.",
+                "ro": "Bucurați-vă de sunetul relaxant al ploii abundente lovind parbrizul în timpul condusului; o scurtă plimbare în pădurea umedă necesită echipament complet de ploaie.",
+                "en": "Enjoy the relaxing sound of heavy rain hitting the windshield on the drive; a short walk into the wet woods requires full rain gear and waterproof boots."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie einen komfortablen Winter-Roadtrip. Freuen Sie sich über das beheizte Auto zwischen den frostigen morgendlichen Kirchenbesuchen. Die grandiose Bergwerksarchitektur ist in der klaren Winterluft höchst atmosphärisch. Nachmittage am zugefrorenen See und im kahlen Wald sind wunderschön, aber planen Sie, Ihre Tour vor 17:00 Uhr zu beenden, wenn es dunkel wird.",
+            "hu": "Élvezze a kényelmes téli autós túrát. Értékelni fogja a fűtött autót a fagyos reggeli templomlátogatások között. A grandiózus bányaépítészet rendkívül hangulatos a csípős téli levegőben. A délutánok a befagyott tónál és a csupasz erdőben gyönyörűek, de tervezze úgy, hogy a vezetést 17:00 óra előtt fejezze be, amikor sötétedik.",
+            "ro": "Bucurați-vă de o călătorie confortabilă de iarnă. Savurați mașina încălzită între vizitele bisericești din dimineața geroasă. Arhitectura grandioasă a minei este extrem de atmosferică în aerul de iarnă. După-amiezile la lacul înghețat și pădurea goală sunt frumoase, dar planificați să vă terminați turul înainte de ora 17:00, când se întunecă.",
+            "en": "Enjoy a comfortable winter road trip. Relish the heated car between frosty morning church visits. The grand mine architecture is highly atmospheric in the crisp winter air. Afternoons at the frozen lake and bare forest are beautiful, but plan to finish your driving tour before 5 PM when darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Léger",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Église Saint-Léger"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung ist an einem frostigen Morgen ein wahrer Segen; steigen Sie kurz aus, um die funkelnde, frostige Fassade dieser historischen Kirche zu bewundern.",
+                "hu": "Az autófűtés igazi áldás egy fagyos reggelen; szálljon ki egy pillanatra, hogy megcsodálja ennek a szép történelmi templomnak a szikrázó, dérlepte homlokzatát.",
+                "ro": "Încălzitorul mașinii este o adevărată binecuvântare într-o dimineață geroasă; ieșiți scurt pentru a admira fațada înghețată și strălucitoare a acestei biserici istorice.",
+                "en": "The car heater is a true blessing on a frosty morning; step out briefly to admire the sparkling frosty facade of this lovely historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Roch",
+                "hu": "Saint-Roch kápolna",
+                "ro": "Capela Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Dieses wunderschöne kleine Winterwahrzeichen ist perfekt für ein schnelles, malerisches Fotomotiv, ohne dass Ihnen außerhalb Ihres beheizten Fahrzeugs zu kalt wird.",
+                "hu": "Ez a gyönyörű kis téli nevezetesség tökéletes egy gyors, festői fotózásra anélkül, hogy túlságosan fázna a fűtött járművén kívül töltött rövid idő alatt.",
+                "ro": "Acest frumos mic reper de iarnă este perfect pentru o oportunitate foto scenică rapidă, fără a vă face prea frig în afara vehiculului dumneavoastră încălzit.",
+                "en": "This beautiful little winter landmark is perfect for a quick, scenic photo opportunity without getting too cold outside of your heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Wintermorgenatmosphäre hier ist unglaublich friedlich; genießen Sie den kurzen, frischen Spaziergang von Ihrem warmen Auto zu den Kirchentüren.",
+                "hu": "A csendes téli reggeli hangulat itt hihetetlenül békés; élvezze a rövid, friss sétát a meleg autójától a vendégszerető templomajtókig.",
+                "ro": "Atmosfera liniștită a dimineții de iarnă de aici este incredibil de senină; bucurați-vă de scurta și geroasa plimbare de la mașina dumneavoastră caldă la ușile bisericii.",
+                "en": "The quiet winter morning atmosphere here is incredibly serene; enjoy the brief, crisp walk from your warm car to the welcoming church doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Zeche Wallers-Arenberg",
+                "hu": "Wallers-Arenberg bánya",
+                "ro": "Mina Wallers-Arenberg",
+                "en": "Wallers-Arenberg Mine"
+              },
+              "tip_5lang": {
+                "de": "Die imposante Industrieanlage sieht unter dem blassen Winterhimmel absolut atemberaubend aus; tragen Sie dicke Socken, da der gefrorene Boden Kälte ausstrahlt.",
+                "hu": "Az impozáns ipari terület teljesen lenyűgöző a halvány téli égbolt alatt; viseljen vastag zoknit, mivel a fagyott talaj hideget sugároz a cipőjén keresztül.",
+                "ro": "Situl industrial impunător arată absolut uimitor sub cerul palid de iarnă; purtați șosete groase, deoarece pământul înghețat radiază frig prin pantofii dumneavoastră.",
+                "en": "The imposing industrial site looks absolutely stunning under pale winter skies; wear thick socks as the frozen ground radiates cold through your shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Trouée d'Arenberg",
+                "hu": "Trouée d'Arenberg",
+                "ro": "Trouée d'Arenberg",
+                "en": "Trouée d'Arenberg"
+              },
+              "tip_5lang": {
+                "de": "Die legendäre gerade Straße ist kahl und im Winter zutiefst atmosphärisch; perfekt für einen sehr kurzen, flotten Spaziergang in der eisigen Luft am Rand.",
+                "hu": "A legendás egyenes út kopár és télen mélyen hangulatos; tökéletes egy nagyon rövid, lendületes sétához a fagyos levegőben, mielőtt visszatérne az autóba.",
+                "ro": "Legendarul drum drept este gol și profund atmosferic iarna; perfect pentru o plimbare foarte scurtă și vioaie în aerul înghețat înainte de a vă întoarce la mașină.",
+                "en": "The legendary straight road is bare and deeply atmospheric in winter; perfect for a very short, brisk walk in the freezing air before returning to the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare à Goriaux",
+                "hu": "Mare à Goriaux",
+                "ro": "Mare à Goriaux",
+                "en": "Mare à Goriaux"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser könnte teilweise gefroren sein und wunderschöne Eismuster bilden; bringen Sie einen warmen Mantel für einen kurzen, aber erfrischenden Uferspaziergang mit.",
+                "hu": "A víz részben befagyhatott, gyönyörű jégmintákat hozva létre; hozzon magával egy meleg, vastag kabátot egy rövid, de frissítő tóparti sétához a hideg szélben.",
+                "ro": "Apa ar putea fi parțial înghețată, creând modele frumoase de gheață; aduceți o haină caldă pentru o scurtă, dar revigorantă plimbare pe malul lacului în vântul rece.",
+                "en": "The water might be partially frozen, creating beautiful icy patterns; bring a warm, heavy coat for a brief but refreshing lakeside stroll in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Raismes-Saint-Amand-Wallers",
+                "hu": "Raismes-Saint-Amand-Wallers erdő",
+                "ro": "Pădurea Raismes-Saint-Amand-Wallers",
+                "en": "Raismes-Saint-Amand-Wallers Forest"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne filtert magisch durch kahle Zweige; es ist ideal für eine kurze Fahrt, bevor der frühe Sonnenuntergang den Wald in Dunkelheit hüllt.",
+                "hu": "Az alacsony téli napfény varázslatosan szűrődik át a csupasz ágakon; ideális egy festői autózáshoz, mielőtt a korai naplemente sötétségbe borítja az erdőt.",
+                "ro": "Soarele de iarnă filtrează magic prin ramurile goale; este ideal pentru o scurtă plimbare pitorească înainte ca apusul timpuriu să scufunde pădurea în întuneric.",
+                "en": "The low winter sun filters magically through bare branches; it is ideal for a short, scenic drive before the early sunset plunges the woods into darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

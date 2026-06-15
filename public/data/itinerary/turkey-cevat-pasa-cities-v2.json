@@ -183,6 +183,224 @@
         "hu": "Reggel: Sétánkat a történelmi Óratoronynál, Çanakkale szívében kezdjük, magunkba szívva a hangulatot, mielőtt meglátogatjuk az elegáns Yalı mecsetet.\nDél: Ahogy a nap magasabbra hág, a Tengerészeti Múzeumban elmerülünk a tengeri történelemben, majd megcsodáljuk az impozáns Çimenlik erőd falait.\nDélután: Egy rövid séta elvezet a Nusret aknarakó hajó másolatához, amelyet egy csendes elmélyülés követ a gyönyörű Fatih mecset megnyugtató falai között.\nEste: Napunkat az Aynalı Çarşı nyüzsgő piacán zárjuk, ahol helyi ajándéktárgyakat vásárolhat, és élvezheti a város lüktető esti energiáját.",
         "ro": "Dimineață: Ne începem plimbarea la istoricul Turn cu Ceas, inima orașului Çanakkale, înainte de a vizita eleganta Moschee Yalı din imediata apropiere.\nPrânz: Pe măsură ce soarele urcă, ne scufundăm în istoria maritimă la Muzeul Naval, apoi admirăm zidurile masive ale impunătoarei Fortărețe Çimenlik.\nDupă-amiază: O scurtă plimbare ne duce la replica navei Nusret, urmată de un moment de liniște și reflecție profundă în frumoasa Moschee Fatih.\nSeară: Ziua noastră se încheie cu o plimbare prin bazarul istoric Aynalı Çarşı, unde puteți cumpăra suveniruri și savura energia vibrantă a serii.",
         "en": "Morning: We begin our stroll at the historic Clock Tower, the heart of Çanakkale, taking in the lively atmosphere before visiting the elegant Yalı Mosque nearby.\nMidday: As the sun climbs, we dive into maritime history at the Naval Museum, exploring fascinating artifacts before stepping into the imposing Çimenlik Fortress to admire its defensive walls.\nAfternoon: A short walk brings us to the Nusret minelayer ship replica, offering a poignant reminder of past conflicts, followed by a moment of quiet reflection at the beautiful Fatih Mosque.\nEvening: Our day concludes with a stroll through the bustling Aynalı Çarşı market, where you can pick up local souvenirs and savor the vibrant evening energy of the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Uhrturm, wo das Kopfsteinpflaster im Regen glänzt. Mittags bieten die Yalı-Moschee und das Marinemuseum trockene Zuflucht vor den Schauern. Am Nachmittag erkunden Sie die Çimenlik-Festung unter dem Schutz Ihres Regenschirms. Den Abend verbringen Sie gemütlich im überdachten Aynalı Çarşı, während draußen der Regen gegen die alten Mauern peitscht.",
+            "hu": "A nap az óratoronynál indul, ahol a macskakő csillog az esőben. Délben a Yalı-mecset és a Tengerészeti Múzeum nyújt száraz menedéket a záporok elől. Délután az esernyője alatt fedezheti fel a Çimenlik erődöt. Az estét a fedett Aynalı Çarşı bazárban töltheti, miközben odakint az eső veri a régi falakat, így az időjárás nem akadályozza a nézelődést.",
+            "ro": "Ziua începe la Turnul cu Ceas, unde pavajul strălucește sub ploaie. La prânz, Moscheea Yalı și Muzeul Naval oferă adăpost uscat împotriva averselor. După-amiaza, explorați Cetatea Çimenlik protejați de umbrelă. Seara se încheie confortabil în bazarul acoperit Aynalı Çarşı, în timp ce afară ploaia bate în zidurile vechi, ferindu-vă de umezeală.",
+            "en": "The day begins at the Clock Tower, where the cobblestones glisten in the rain. At noon, the Yalı Mosque and the Naval Museum provide dry refuge from the showers. In the afternoon, explore the Çimenlik Fortress under the protection of your umbrella. Spend the evening comfortably in the covered Aynalı Çarşı, while outside the rain beats against the old walls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Clock Tower",
+                "hu": "The Clock Tower",
+                "ro": "The Clock Tower",
+                "en": "The Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die osmanische Architektur im Regen; die umliegenden Cafés bieten schnellen Schutz, falls der Schauer stärker wird.",
+                "hu": "Csodálja meg az oszmán építészetet az esőben; a környékbeli kávézók gyors menedéket nyújtanak, ha felerősödne a zápor.",
+                "ro": "Admirați arhitectura otomană sub ploaie; cafenelele din jur oferă adăpost rapid dacă aversa devine mai puternică.",
+                "en": "Admire the Ottoman architecture in the rain; the surrounding cafes offer quick shelter if the shower intensifies."
+              }
+            },
+            {
+              "name": {
+                "de": "Yalı Mosque",
+                "hu": "Yalı Mosque",
+                "ro": "Yalı Mosque",
+                "en": "Yalı Mosque"
+              },
+              "tip_5lang": {
+                "de": "Diese Moschee direkt am Wasser bietet eine friedliche Atmosphäre; betreten Sie den Innenraum, um dem Regen zu entkommen und die Kacheln zu sehen.",
+                "hu": "Ez a közvetlen vízparti mecset békés hangulatot áraszt; lépjen be a belső térbe, hogy elmeneküljön az eső elől és megtekintse a csempéket.",
+                "ro": "Această moschee de pe malul apei oferă o atmosferă liniștită; intrați în interior pentru a scăpa de ploaie și a vedea plăcile ceramice.",
+                "en": "This waterfront mosque offers a peaceful atmosphere; step inside to escape the rain and view the beautiful tile work."
+              }
+            },
+            {
+              "name": {
+                "de": "Naval Museum",
+                "hu": "Naval Museum",
+                "ro": "Naval Museum",
+                "en": "Naval Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die ausgedehnten Innenräume des Museums, um stundenlang trocken zu bleiben, während Sie die maritime Geschichte erkunden.",
+                "hu": "Használja ki a múzeum tágas belső tereit, hogy órákig szárazon maradjon, miközben felfedezi a tengerészeti történelmet.",
+                "ro": "Profitați de spațiile interioare vaste ale muzeului pentru a rămâne uscat ore întregi în timp ce explorați istoria maritimă.",
+                "en": "Take advantage of the museum's extensive indoor spaces to stay dry for hours while exploring maritime history."
+              }
+            },
+            {
+              "name": {
+                "de": "Çimenlik Fortress",
+                "hu": "Çimenlik Fortress",
+                "ro": "Çimenlik Fortress",
+                "en": "Çimenlik Fortress"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen vor Wind; achten Sie auf rutschige Steine in den Außenbereichen und nutzen Sie die überdachten Kasematten.",
+                "hu": "A vastag falak védenek a széltől; figyeljen a csúszós kövekre a külső területeken, és használja a fedett kazamatákat.",
+                "ro": "Zidurile groase protejează de vânt; atenție la pietrele alunecoase în zonele exterioare și folosiți cazămatele acoperite.",
+                "en": "The thick walls protect from the wind; watch out for slippery stones in the outdoor areas and utilize the covered casemates."
+              }
+            },
+            {
+              "name": {
+                "de": "Nusret",
+                "hu": "Nusret",
+                "ro": "Nusret",
+                "en": "Nusret"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal für den Minenleger ist im Freien; ein kurzer Stopp reicht aus, halten Sie Ihre Kamera unter einer wasserdichten Hülle.",
+                "hu": "Az aknarakó hajó emlékműve a szabadban van; egy rövid megálló is elég, a fényképezőgépet tartsa vízhatlan tokban.",
+                "ro": "Monumentul puitorului de mine este în aer liber; o oprire scurtă este suficientă, țineți aparatul foto într-o husă impermeabilă.",
+                "en": "The mine-layer memorial is outdoors; a short stop is enough, keep your camera under a waterproof cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Fatih Mosque",
+                "hu": "Fatih Mosque",
+                "ro": "Fatih Mosque",
+                "en": "Fatih Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort vor dem stürmischen Wetter; nutzen Sie die Zeit für eine stille Betrachtung der historischen Architektur.",
+                "hu": "Csendes menedék a viharos időjárás elől; használja ki az időt a történelmi építészet nyugodt megcsodálására.",
+                "ro": "Un refugiu liniștit departe de vremea furtunoasă; profitați de timp pentru o contemplare tăcută a arhitecturii istorice.",
+                "en": "A quiet retreat from the stormy weather; use the time for a silent contemplation of the historical architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "AYNALI ÇARŞI",
+                "hu": "AYNALI ÇARŞI",
+                "ro": "AYNALI ÇARŞI",
+                "en": "AYNALI ÇARŞI"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss eines Regentages; die Arkaden bieten kompletten Schutz, während Sie nach traditionellen Souvenirs suchen.",
+                "hu": "Tökéletes lezárása egy esős napnak; az árkádok teljes védelmet nyújtanak, miközben hagyományos szuvenírek után kutat.",
+                "ro": "Încheierea perfectă pentru o zi ploioasă; arcadele oferă protecție completă în timp ce căutați suveniruri tradiționale.",
+                "en": "The perfect end to a rainy day; the arcades provide complete protection while you search for traditional souvenirs."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Winterspaziergang früh am Uhrturm, um das Tageslicht zu nutzen. Mittags wärmen Sie sich in der Yalı-Moschee auf, bevor es zum Marinemuseum geht. Der Nachmittag an der Çimenlik-Festung ist windig, daher ist dicke Kleidung essenziell. Da es gegen 17:00 Uhr dunkel wird, bietet der beleuchtete Aynalı Çarşı am frühen Abend eine warme und einladende Atmosphäre.",
+            "hu": "Kezdje a téli sétát korán az óratoronynál, hogy kihasználja a nappali fényt. Délben melegedjen fel a Yalı-mecsetben, mielőtt a Tengerészeti Múzeumba indulna. A délután a Çimenlik erődnél szeles lehet, így a réteges öltözet elengedhetetlen. Mivel 17:00 körül sötétedik, a kivilágított Aynalı Çarşı kora este meleg és hívogató hangulatot áraszt.",
+            "ro": "Începeți plimbarea de iarnă devreme la Turnul cu Ceas pentru a profita de lumina zilei. La prânz, încălziți-vă în Moscheea Yalı înainte de a merge la Muzeul Naval. După-amiaza la Cetatea Çimenlik este vântoasă, deci hainele groase sunt esențiale. Deoarece se întunecă în jur de ora 17:00, bazarul luminat Aynalı Çarşı oferă o atmosferă caldă seara devreme.",
+            "en": "Start your winter walk early at the Clock Tower to make the most of the daylight. At noon, warm up in the Yalı Mosque before heading to the Naval Museum. The afternoon at Çimenlik Fortress is windy, so thick layers are essential. Since it gets dark around 5 PM, the illuminated Aynalı Çarşı provides a warm and inviting atmosphere in the early evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "The Clock Tower",
+                "hu": "The Clock Tower",
+                "ro": "The Clock Tower",
+                "en": "The Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Die frische Winterluft macht die Sicht auf den Turm klarer; ziehen Sie sich warm an, da der Wind vom Meer her wehen kann.",
+                "hu": "A friss téli levegő tisztább kilátást tesz lehetővé a toronyra; öltözzön melegen, mert a tenger felől metsző szél fújhat.",
+                "ro": "Aerul proaspăt de iarnă face vederea spre turn mai clară; îmbrăcați-vă bine deoarece vântul poate sufla dinspre mare.",
+                "en": "The crisp winter air makes the view of the tower clearer; dress warmly as the wind can blow in from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Yalı Mosque",
+                "hu": "Yalı Mosque",
+                "ro": "Yalı Mosque",
+                "en": "Yalı Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Pause im Warmen; bewundern Sie die Innendekoration, während Sie sich vom kalten Wind erholen.",
+                "hu": "Ideális hely egy rövid pihenőre a melegben; csodálja meg a belső díszítést, miközben kipiheni a hideg szelet.",
+                "ro": "Un loc ideal pentru o scurtă pauză la căldură; admirați decorațiunile interioare în timp ce vă recuperați după vântul rece.",
+                "en": "An ideal spot for a short break in the warm; admire the interior decoration while taking a respite from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Naval Museum",
+                "hu": "Naval Museum",
+                "ro": "Naval Museum",
+                "en": "Naval Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen im Inneren, um der Kälte zu entfliehen; planen Sie genug Zeit ein, bevor die frühe Dämmerung einsetzt.",
+                "hu": "Fedezze fel a belső kiállításokat, hogy elmeneküljön a hideg elől; tervezzen elég időt, mielőtt beállna a korai sötétedés.",
+                "ro": "Explorați expozițiile din interior pentru a scăpa de frig; planificați suficient timp înainte de lăsarea timpurie a serii.",
+                "en": "Explore the indoor exhibits to escape the cold; plan enough time before the early dusk sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Çimenlik Fortress",
+                "hu": "Çimenlik Fortress",
+                "ro": "Çimenlik Fortress",
+                "en": "Çimenlik Fortress"
+              },
+              "tip_5lang": {
+                "de": "Vom Ufer aus bietet sich ein herber Winterblick auf die Dardanellen; tragen Sie winddichte Kleidung für die Besichtigung der Zinnen.",
+                "hu": "A partról zord téli kilátás nyílik a Dardanellákra; viseljen szélálló ruházatot a bástyák megtekintéséhez.",
+                "ro": "De pe mal se oferă o vedere aspră de iarnă asupra Dardanelelor; purtați haine rezistente la vânt pentru vizitarea crenelurilor.",
+                "en": "From the shore, there's a stark winter view of the Dardanelles; wear windproof clothing for visiting the battlements."
+              }
+            },
+            {
+              "name": {
+                "de": "Nusret",
+                "hu": "Nusret",
+                "ro": "Nusret",
+                "en": "Nusret"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wirkt das Denkmal besonders imposant gegen den grauen Himmel; ein zügiger Besuch hält den Kreislauf in Schwung.",
+                "hu": "Télen az emlékmű különösen impozánsan mutat a szürke égbolt előtt; egy gyors látogatás segít frissen tartani a vérkeringést.",
+                "ro": "Iarna, monumentul arată deosebit de impozant pe fundalul cerului gri; o vizită rapidă ajută la menținerea circulației sângelui.",
+                "en": "In winter, the memorial looks especially imposing against the gray sky; a brisk visit will keep your circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "Fatih Mosque",
+                "hu": "Fatih Mosque",
+                "ro": "Fatih Mosque",
+                "en": "Fatih Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern im Inneren eine angenehme Temperatur; nutzen Sie diesen historischen Ort für einen Moment der Stille.",
+                "hu": "A vastag falak kellemes hőmérsékletet tartanak bent; használja ezt a történelmi helyet egy pillanatnyi csendre a hideg után.",
+                "ro": "Zidurile groase mențin o temperatură plăcută în interior; folosiți acest loc istoric pentru un moment de liniște după frig.",
+                "en": "The thick walls retain a pleasant temperature inside; use this historical place for a moment of silence after the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "AYNALI ÇARŞI",
+                "hu": "AYNALI ÇARŞI",
+                "ro": "AYNALI ÇARŞI",
+                "en": "AYNALI ÇARŞI"
+              },
+              "tip_5lang": {
+                "de": "Der beleuchtete Basar ist im Winter besonders gemütlich; finden Sie wärmende Gewürze oder Textilien als Andenken.",
+                "hu": "A kivilágított bazár télen különösen hangulatos; keressen melegítő fűszereket vagy textileket emléktárgyként.",
+                "ro": "Bazarul iluminat este deosebit de primitor iarna; căutați condimente care încălzesc sau textile ca amintire.",
+                "en": "The illuminated bazaar is especially cozy in winter; find warming spices or textiles as souvenirs."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Reggel: Kezdje kerékpáros kalandját a lenyűgöző Kerámia Múzeumban, majd tekerjen át a Çanakkale Háborús Kutatóközpontba a további felfedezésekért.\nDél: Az útvonal az ikonikus Óratoronyhoz vezet egy gyors fotó erejéig, mielőtt zökkenőmentesen átgurulnánk a Tengerészeti Múzeum izgalmas kiállításaihoz.\nDélután: Miután lezártuk kerékpárjainkat a Çimenlik erődnél, egy kényelmes tekeréssel eljutunk az Osnabrück Parkba, hogy a fák hűs árnyékában pihenjünk.\nEste: Tengerparti túránkat a Mega Beachen fejezzük be, ahol a tengeri szellő és az aranyló naplemente tökéletes hátteret ad ennek az aktív napnak.",
         "ro": "Dimineață: Începeți aventura cu bicicleta la fascinantul Muzeu al Ceramicii, învățând despre artă înainte de a pedala către Centrul de Cercetare.\nPrânz: Traseul ne duce la iconicul Turn cu Ceas pentru o fotografie rapidă, înainte de a ne îndrepta spre Muzeul Naval pentru a descoperi exponatele sale.\nDupă-amiază: După ce parcăm bicicletele la Fortăreața Çimenlik, ne bucurăm de o plimbare relaxantă până în Parcul Osnabrück pentru a ne odihni la umbră.\nSeară: Ne încheiem plimbarea la Mega Beach, unde briza mării și apusul auriu creează fundalul perfect pentru a reflecta asupra acestei zile active.",
         "en": "Morning: Kick off your cycling adventure at the fascinating Ceramics Museum, learning about the region's artistic heritage before pedaling to the Çanakkale Wars Research Center.\nMidday: The route takes us to the iconic Clock Tower plaza, perfect for a quick photo, before we seamlessly roll over to the Naval Museum to discover its extensive maritime exhibits.\nAfternoon: After locking our bikes at the Çimenlik Fortress for a historic detour, we enjoy a leisurely ride to Osnabrück Park to relax under the shade of its mature trees.\nEvening: We wrap up our coastal ride at Mega Beach, where the sea breeze and golden sunset create the perfect backdrop for reflecting on our active day of exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Keramikmuseum, da die Wege rutschig sein können. Mittags bietet das Forschungszentrum Schutz vor den schwersten Güssen. Der Nachmittag am Hafen erfordert gute Regenbekleidung, besonders beim Marinemuseum. Am Abend ist der Weg zum Osnabrück-Park und Strand wegen Pfützen beschwerlich, planen Sie also mehr Zeit für die Fahrt auf nassem Asphalt ein.",
+            "hu": "Induljon óvatosan a Kerámiamúzeumnál, mert az utak csúszósak lehetnek. Délben a Kutatóközpont nyújt védelmet a heves záporok elől. A kikötői délután jó esőruházatot igényel, különösen a Tengerészeti Múzeumnál. Este az út az Osnabrück parkhoz és a strandhoz a tócsák miatt nehézkes lehet, így tervezzen több időt a vizes aszfalton való haladásra.",
+            "ro": "Porniți cu atenție de la Muzeul de Ceramică, deoarece drumurile pot fi alunecoase. La prânz, Centrul de Cercetare oferă protecție împotriva ploilor torențiale. După-amiaza în port necesită echipament de ploaie bun, mai ales la Muzeul Naval. Seara, drumul spre Parcul Osnabrück și plajă poate fi anevoios din cauza bălților, deci planificați mai mult timp.",
+            "en": "Start carefully at the Ceramic Museum, as the paths can be slippery. At noon, the Research Center provides protection from the heaviest downpours. The afternoon at the harbor requires good rain gear, especially near the Naval Museum. In the evening, the path to Osnabrück Park and the beach can be difficult due to puddles, so plan more time for riding on wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seramik Müzesi",
+                "hu": "Seramik Müzesi",
+                "ro": "Seramik Müzesi",
+                "en": "Seramik Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Dachvorsprung; drinnen können Sie die filigrane Kunst trocken bewundern.",
+                "hu": "Parkolja le kerékpárját egy tetőnyúlvány alatt; odabent szárazon csodálhatja meg a filigrán műalkotásokat.",
+                "ro": "Parcați bicicleta sub o streașină; în interior puteți admira arta filigranată fără a vă uda.",
+                "en": "Park your bike under an overhang; inside you can admire the delicate art while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Çanakkake Wars Research Center and Library",
+                "hu": "Çanakkake Wars Research Center and Library",
+                "ro": "Çanakkake Wars Research Center and Library",
+                "en": "Çanakkake Wars Research Center and Library"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zufluchtsort für regnerische Stunden; die Bibliothek bietet eine warme und trockene Umgebung für Recherchen.",
+                "hu": "Kiváló menedék az esős órákra; a könyvtár meleg és száraz környezetet biztosít a kutatáshoz.",
+                "ro": "Un refugiu excelent pentru orele ploioase; biblioteca oferă un mediu cald și uscat pentru cercetare.",
+                "en": "An excellent sanctuary for rainy hours; the library provides a warm and dry environment for research."
+              }
+            },
+            {
+              "name": {
+                "de": "The Clock Tower",
+                "hu": "The Clock Tower",
+                "ro": "The Clock Tower",
+                "en": "The Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Das Pflaster am Turm wird bei Regen extrem glatt; fahren Sie langsam und nutzen Sie die Markisen der Geschäfte als Unterstand.",
+                "hu": "A torony körüli kövezet esőben rendkívül csúszóssá válik; haladjon lassan, és használja a boltok napellenzőit esővédőként.",
+                "ro": "Pavajul de lângă turn devine extrem de alunecos la ploaie; conduceți încet și folosiți copertinele magazinelor ca adăpost.",
+                "en": "The pavement by the tower becomes extremely slippery in the rain; ride slowly and use the shop awnings as shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Naval Museum",
+                "hu": "Naval Museum",
+                "ro": "Naval Museum",
+                "en": "Naval Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie die Zeit, um die Schiffsmodelle in den geschützten Hallen zu besichtigen.",
+                "hu": "Állítsa le biztonságosan a biciklit, és használja ki az időt a hajómodellek megtekintésére a védett csarnokokban.",
+                "ro": "Parcați bicicleta în siguranță și folosiți timpul pentru a vizita modelele de nave în halele protejate.",
+                "en": "Park your bike securely and take the time to view the ship models in the sheltered halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Çimenlik Fortress",
+                "hu": "Çimenlik Fortress",
+                "ro": "Çimenlik Fortress",
+                "en": "Çimenlik Fortress"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren auf den Festungsmauern; suchen Sie bei plötzlichem Regen Schutz in den historischen Durchgängen.",
+                "hu": "Kerülje a kerékpározást az erődfalakon; hirtelen eső esetén keressen menedéket a történelmi átjárókban.",
+                "ro": "Evitați mersul pe bicicletă pe zidurile cetății; în caz de ploaie bruscă, căutați adăpost în pasajele istorice.",
+                "en": "Avoid cycling on the fortress walls; seek shelter in the historical passages during sudden rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Osnabrück Parkı",
+                "hu": "Osnabrück Parkı",
+                "ro": "Osnabrück Parkı",
+                "en": "Osnabrück Parkı"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege können matschig sein; bleiben Sie auf den befestigten Pfaden und genießen Sie die grüne Frische nach dem Regen.",
+                "hu": "A park ösvényei sárosak lehetnek; maradjon a szilárd utakon, és élvezze a zöld frissességet az eső után.",
+                "ro": "Aleile parcului pot fi noroioase; rămâneți pe potecile pavate și bucurați-vă de prospețimea verde de după ploaie.",
+                "en": "The park paths can be muddy; stay on the paved trails and enjoy the green freshness after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mega Beach",
+                "hu": "Mega Beach",
+                "ro": "Mega Beach",
+                "en": "Mega Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein dramatischer Ausblick auf das stürmische Meer; halten Sie nur kurz an, da es am Ufer keine Unterstellmöglichkeiten gibt.",
+                "hu": "Drámai kilátás a viharos tengerre; csak rövid időre álljon meg, mivel a parton nincs fedett várakozóhely.",
+                "ro": "O vedere dramatică asupra mării învolburate; opriți-vă doar scurt, deoarece pe mal nu există locuri de adăpost.",
+                "en": "A dramatic view of the stormy sea; stop only briefly as there are no covered shelters on the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft am Morgen beim Keramikmuseum ist erfrischend, erfordert aber Handschuhe. Mittags ist das Forschungszentrum ein perfekter Ort, um sich aufzuwärmen. Am Nachmittag spüren Sie den kalten Wind am Hafen deutlich, während Sie zum Uhrturm fahren. Beenden Sie Ihre Tour frühzeitig am Strand, da die Temperaturen nach Sonnenuntergang um 17:00 Uhr rasch sinken.",
+            "hu": "A reggeli friss téli levegő a Kerámiamúzeumnál üdítő, de kesztyűt igényel. Délben a Kutatóközpont tökéletes hely a felmelegedéshez. Délután a kikötőnél tisztán érezni fogja a hideg szelet, miközben az óratorony felé teker. Fejezze be a túrát korán a strandnál, mivel a hőmérséklet gyorsan süllyed a 17:00-s naplemente után.",
+            "ro": "Aerul curat de iarnă de dimineață la Muzeul de Ceramică este revigorant, dar necesită mănuși. La prânz, Centrul de Cercetare este un loc perfect pentru încălzire. După-amiaza veți simți clar vântul rece în port în timp ce pedalați spre Turnul cu Ceas. Încheiați turul devreme la plajă, deoarece temperaturile scad rapid după apusul de la ora 17:00.",
+            "en": "The crisp morning winter air at the Ceramic Museum is refreshing but requires gloves. At noon, the Research Center is a perfect place to warm up. In the afternoon, you will clearly feel the cold wind at the harbor while cycling to the Clock Tower. Finish your tour early at the beach, as temperatures drop rapidly after the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Seramik Müzesi",
+                "hu": "Seramik Müzesi",
+                "ro": "Seramik Müzesi",
+                "en": "Seramik Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut beheizt; ideal, um die Finger nach der morgendlichen Fahrt wieder beweglich zu machen.",
+                "hu": "A kiállítótermek jól fűtöttek; ideális hely, hogy a reggeli tekerés után újra átmozgassa az ujjait a melegben.",
+                "ro": "Sălile de expoziție sunt bine încălzite; ideal pentru a vă dezmorți degetele după plimbarea de dimineață.",
+                "en": "The exhibition rooms are well heated; ideal for getting your fingers moving again after the morning ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Çanakkake Wars Research Center and Library",
+                "hu": "Çanakkake Wars Research Center and Library",
+                "ro": "Çanakkake Wars Research Center and Library",
+                "en": "Çanakkake Wars Research Center and Library"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie in der gemütlichen Bibliothek; es ist der wärmste Stopp auf Ihrer Route, bevor es zurück in den Wind geht.",
+                "hu": "Időzzön el a hangulatos könyvtárban; ez az útvonal legmelegebb pontja, mielőtt visszatérne a szélbe.",
+                "ro": "Zăboviți în biblioteca primitoare; este cel mai cald punct de pe traseu înainte de a reveni în vânt.",
+                "en": "Linger in the cozy library; it is the warmest stop on your route before heading back into the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "The Clock Tower",
+                "hu": "The Clock Tower",
+                "ro": "The Clock Tower",
+                "en": "The Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm sieht im klaren Winterlicht fantastisch aus; halten Sie nur kurz für ein Foto an, um nicht auszukühlen.",
+                "hu": "A torony fantasztikusan mutat a tiszta téli fényben; csak rövid időre álljon meg egy fotóra, hogy ne hűljön ki.",
+                "ro": "Turnul arată fantastic în lumina clară de iarnă; opriți-vă doar scurt pentru o fotografie ca să nu vă răciți.",
+                "en": "The tower looks fantastic in the clear winter light; stop only briefly for a photo to avoid getting chilled."
+              }
+            },
+            {
+              "name": {
+                "de": "Naval Museum",
+                "hu": "Naval Museum",
+                "ro": "Naval Museum",
+                "en": "Naval Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenbereiche, um der Winterkälte zu entfliehen, während Sie die beeindruckenden Kanonen und Boote besichtigen.",
+                "hu": "Használja ki a belső tereket, hogy elmeneküljön a téli hideg elől, miközben megtekinti a lenyűgöző ágyúkat és hajókat.",
+                "ro": "Utilizați spațiile interioare pentru a scăpa de frigul iernii în timp ce vizitați tunurile și bărcile impresionante.",
+                "en": "Use the indoor areas to escape the winter cold while viewing the impressive cannons and boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Çimenlik Fortress",
+                "hu": "Çimenlik Fortress",
+                "ro": "Çimenlik Fortress",
+                "en": "Çimenlik Fortress"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an der Festung kann im Winter beißend sein; schützen Sie Gesicht und Ohren mit einem Schal während der Fahrt.",
+                "hu": "Az erődnél a szél télen metsző lehet; védje arcát és fülét sállal a kerékpározás során.",
+                "ro": "Vântul la cetate poate fi tăios iarna; protejați-vă fața și urechile cu un fular în timpul mersului pe bicicletă.",
+                "en": "The wind at the fortress can be biting in winter; protect your face and ears with a scarf while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Osnabrück Parkı",
+                "hu": "Osnabrück Parkı",
+                "ro": "Osnabrück Parkı",
+                "en": "Osnabrück Parkı"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, zügiger Ritt durch den Park hält warm; genießen Sie die Ruhe der Natur in der winterlichen Nebensaison.",
+                "hu": "Egy rövid, tempós tekerés a parkon keresztül melegen tart; élvezze a természet nyugalmát a téli előszezonban.",
+                "ro": "O plimbare scurtă și rapidă prin parc vă menține cald; bucurați-vă de liniștea naturii în extrasezonul de iarnă.",
+                "en": "A short, brisk ride through the park keeps you warm; enjoy the peace of nature in the winter off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Mega Beach",
+                "hu": "Mega Beach",
+                "ro": "Mega Beach",
+                "en": "Mega Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne geht hier spektakulär unter; achten Sie auf die Zeit und kehren Sie vor Einbruch der Dunkelheit um.",
+                "hu": "A téli naplemente itt látványos; figyeljen az időre, és térjen vissza még a sötétség beállta előtt.",
+                "ro": "Apusul de iarnă este spectaculos aici; fiți atenți la timp și întoarceți-vă înainte de lăsarea întunericului.",
+                "en": "The winter sunset is spectacular here; keep track of time and head back before darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +973,224 @@
         "hu": "Reggel: Kezdje autós túráját a lenyűgöző Anadolu Hamidiye Tabyası kiterjedt szabadtéri múzeumában, ahol bőséges és kényelmes parkolási lehetőség várja.\nDél: Közelebb vezetünk a központhoz, az Osnabrück Park közelében parkolunk le, majd átsétálunk az Aynalı Çarşı piacra, ahol megelevenedik a helyi kultúra.\nDélután: A Fatih mecset megcsodálása után a vízpart felé vesszük az irányt, hogy felfedezzük a Çimenlik erőd masszív kőfalait és történelmi ágyúit.\nEste: Utunk a modern Çanakkale Háborús Kutatóközpont és a Kerámia Múzeum oktatási célú látogatásával zárul, amely autóval is könnyen megközelíthető.",
         "ro": "Dimineață: Începeți turul cu mașina la impresionanta Anadolu Hamidiye, un muzeu extins în aer liber care oferă și o parcare foarte convenabilă.\nPrânz: Conducem mai aproape de centru, parcând lângă Parcul Osnabrück pentru o scurtă plimbare până la piața Aynalı Çarşı, unde cultura locală prinde viață.\nDupă-amiază: După ce admirăm Moscheea Fatih, ne îndreptăm spre malul apei pentru a explora zidurile masive de piatră și tunurile de la Fortăreața Çimenlik.\nSeară: Traseul nostru se încheie cu vizite educative la modernul Centru de Cercetare și Muzeul Ceramicii, ușor accesibile cu mașina pentru un final relaxant.",
         "en": "Morning: Start your driving tour at the impressive Anadolu Hamidiye Tabyası, an expansive open-air museum detailing coastal defense history with plenty of convenient parking.\nMidday: We drive closer to the center, parking near Osnabrück Park for a short walk to the vibrant Aynalı Çarşı market, where local culture and bustling trade come alive.\nAfternoon: After admiring the intricate details of Fatih Mosque, we head to the waterfront to explore the massive stone walls and historic cannons of Çimenlik Fortress.\nEvening: Our route concludes with educational visits to the modern Çanakkale Wars Research Center and the Ceramics Museum, easily accessible by car for a relaxed evening finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt im trockenen Auto zur Hamidiye-Bastion am Morgen. Mittags ist der Besuch des Aynalı Çarşı ideal, da Sie fast direkt davor parken und im Trockenen shoppen können. Der Nachmittag im Forschungszentrum bietet Schutz vor Dauerregen. Am Abend ist das Keramikmuseum der perfekte letzte Stopp, um die Kunstwerke ohne nasse Füße zu bewundern.",
+            "hu": "Élvezze a száraz autózást a Hamidiye bástyához reggel. Délben az Aynalı Çarşı meglátogatása ideális, mivel szinte közvetlenül előtte parkolhat, és fedett helyen vásárolhat. A délutáni Kutatóközpont védelmet nyújt a tartós eső ellen. Este a Kerámiamúzeum a tökéletes utolsó állomás, ahol vizes lábak nélkül csodálhatja meg az alkotásokat.",
+            "ro": "Bucurați-vă de o călătorie uscată cu mașina spre Bastionul Hamidiye dimineața. La prânz, vizitarea bazarului Aynalı Çarşı este ideală, deoarece puteți parca aproape în față. Centrul de Cercetare de după-amiază oferă protecție împotriva ploii persistente. Seara, Muzeul de Ceramică este oprirea finală perfectă pentru a admira arta.",
+            "en": "Enjoy the dry car ride to the Hamidiye Bastion in the morning. At noon, visiting Aynalı Çarşı is ideal as you can park almost directly in front and shop in the dry. The afternoon at the Research Center provides protection from persistent rain. In the evening, the Ceramic Museum is the perfect last stop to admire the artworks without getting wet feet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anadolu Hamidiye Tabyası",
+                "hu": "Anadolu Hamidiye Tabyası",
+                "ro": "Anadolu Hamidiye Tabyası",
+                "en": "Anadolu Hamidiye Tabyası"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang; die unterirdischen Gänge der Bastion sind auch bei starkem Regen absolut trocken.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót; a bástya földalatti járatai heves esőzés esetén is teljesen szárazak.",
+                "ro": "Folosiți parcarea direct de la intrare; pasajele subterane ale bastionului sunt absolut uscate chiar și pe ploaie torențială.",
+                "en": "Use the parking lot right at the entrance; the bastion's underground passages are absolutely dry even in heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Osnabrück Parkı",
+                "hu": "Osnabrück Parkı",
+                "ro": "Osnabrück Parkı",
+                "en": "Osnabrück Parkı"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht; genießen Sie den Blick auf das stürmische Meer aus der Sicherheit Ihres Autos am Parkrand.",
+                "hu": "Egy rövid megálló is elég; élvezze a viharos tenger látványát autója biztonságából a park szélén parkolva.",
+                "ro": "O oprire scurtă este suficientă; bucurați-vă de vederea mării învolburate din siguranța mașinii la marginea parcului.",
+                "en": "A short stop is enough; enjoy the view of the stormy sea from the safety of your car at the edge of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "AYNALI ÇARŞI",
+                "hu": "AYNALI ÇARŞI",
+                "ro": "AYNALI ÇARŞI",
+                "en": "AYNALI ÇARŞI"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und flüchten Sie schnell in den überdachten Basar; hier können Sie dem Regen für Stunden entkommen.",
+                "hu": "Parkoljon a közelben, és meneküljön be gyorsan a fedett bazárba; itt órákra elrejtőzhet az eső elől.",
+                "ro": "Parcați în apropiere și refugiați-vă rapid în bazarul acoperit; aici puteți scăpa de ploaie timp de câteva ore.",
+                "en": "Park nearby and quickly escape into the covered bazaar; here you can evade the rain for hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Fatih Mosque",
+                "hu": "Fatih Mosque",
+                "ro": "Fatih Mosque",
+                "en": "Fatih Mosque"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee für einen Moment der Ruhe; das Auto bietet einen bequemen Transfer zwischen den nassen Sehenswürdigkeiten.",
+                "hu": "Látogassa meg a mecsetet egy pillanatnyi nyugalomért; az autó kényelmes transzfert biztosít a vizes látnivalók között.",
+                "ro": "Vizitați moscheea pentru un moment de liniște; mașina oferă un transfer confortabil între obiectivele ude.",
+                "en": "Visit the mosque for a moment of peace; the car provides a comfortable transfer between the wet sights."
+              }
+            },
+            {
+              "name": {
+                "de": "Çimenlik Fortress",
+                "hu": "Çimenlik Fortress",
+                "ro": "Çimenlik Fortress",
+                "en": "Çimenlik Fortress"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Windböen; die Innenräume der Festung bieten faszinierende Einblicke in die Militärgeschichte.",
+                "hu": "Kiszálláskor ügyeljen a széllökésekre; az erőd belső terei lenyűgöző betekintést nyújtanak a hadtörténetbe.",
+                "ro": "Atenție la rafalele de vânt când coborâți din mașină; interiorul cetății oferă perspective fascinante asupra istoriei militare.",
+                "en": "Watch out for wind gusts when getting out; the fortress interiors offer fascinating insights into military history."
+              }
+            },
+            {
+              "name": {
+                "de": "Çanakkake Wars Research Center and Library",
+                "hu": "Çanakkake Wars Research Center and Library",
+                "ro": "Çanakkake Wars Research Center and Library",
+                "en": "Çanakkake Wars Research Center and Library"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor; die Bibliothek ist der ideale Ort, um einen regnerischen Nachmittag mit Bildung zu verbringen.",
+                "hu": "Parkoljon közvetlenül előtte; a könyvtár ideális hely egy esős délután művelődéssel való eltöltéséhez.",
+                "ro": "Parcați chiar în față; biblioteca este locul ideal pentru a petrece o după-amiază ploioasă cu lectură.",
+                "en": "Park directly in front; the library is the ideal place to spend a rainy afternoon with education."
+              }
+            },
+            {
+              "name": {
+                "de": "Seramik Müzesi",
+                "hu": "Seramik Müzesi",
+                "ro": "Seramik Müzesi",
+                "en": "Seramik Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Ein entspannter Ausklang im Trockenen; die Keramikkunst ist bei jedem Wetter ein Highlight der Stadt.",
+                "hu": "Pihentető lezárás száraz helyen; a kerámiaművészet minden időjárás esetén a város egyik fénypontja.",
+                "ro": "O încheiere relaxată la adăpost; arta ceramicii este un punct culminant al orașului pe orice vreme.",
+                "en": "A relaxed conclusion in the dry; ceramic art is a highlight of the city in any weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dank der Autoheizung ist die Fahrt zur Hamidiye-Bastion am kalten Morgen sehr angenehm. Mittags wärmen Sie sich im Aynalı Çarşı auf, bevor es zur Fatih-Moschee geht. Der Nachmittag im Forschungszentrum ist ideal, um die kältesten Stunden drinnen zu verbringen. Schließen Sie den Tag im Keramikmuseum ab, bevor es nach dem frühen Sonnenuntergang um 17:00 Uhr draußen frostig wird.",
+            "hu": "Az autó fűtésének köszönhetően a Hamidiye bástyához vezető út a hideg reggelen is kellemes. Délben az Aynalı Çarşıban melegedhet fel a Fatih-mecset előtt. A délutáni Kutatóközpont ideális a leghidegebb órák benti eltöltéséhez. Zárja a napot a Kerámiamúzeumban, mielőtt a 17:00-s korai naplemente után kint fagyossá válna az idő.",
+            "ro": "Datorită încălzirii din mașină, drumul spre Bastionul Hamidiye este plăcut în dimineața rece. La prânz, încălziți-vă în Aynalı Çarşı înainte de Moscheea Fatih. Centrul de Cercetare de după-amiază este ideal pentru a petrece orele reci în interior. Încheiați ziua la Muzeul de Ceramică înainte să înghețe afară după apus.",
+            "en": "Thanks to the car's heating, the ride to Hamidiye Bastion is very pleasant on a cold morning. At noon, warm up in Aynalı Çarşı before heading to Fatih Mosque. The afternoon at the Research Center is ideal for spending the coldest hours indoors. Close the day at the Ceramic Museum before it gets frosty outside after the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Anadolu Hamidiye Tabyası",
+                "hu": "Anadolu Hamidiye Tabyası",
+                "ro": "Anadolu Hamidiye Tabyası",
+                "en": "Anadolu Hamidiye Tabyası"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufige Anlage ist im Winter ruhig; nutzen Sie die beheizten Ausstellungsräume in den historischen Gebäuden.",
+                "hu": "A tágas létesítmény télen csendes; használja ki a történelmi épületekben található fűtött kiállítótermeket.",
+                "ro": "Complexul vast este liniștit iarna; profitați de sălile de expoziție încălzite din clădirile istorice.",
+                "en": "The extensive complex is quiet in winter; take advantage of the heated exhibition rooms in the historical buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Osnabrück Parkı",
+                "hu": "Osnabrück Parkı",
+                "ro": "Osnabrück Parkı",
+                "en": "Osnabrück Parkı"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang am Meer belebt die Geister; kehren Sie danach schnell ins warme Auto zurück.",
+                "hu": "Egy rövid téli séta a tengerparton felfrissíti a lelket; utána térjen vissza gyorsan a meleg autóba.",
+                "ro": "O scurtă plimbare de iarnă pe malul mării revigorează spiritul; întoarceți-vă rapid în mașina caldă după aceea.",
+                "en": "A short winter walk by the sea enlivens the spirits; return quickly to the warm car afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "AYNALI ÇARŞI",
+                "hu": "AYNALI ÇARŞI",
+                "ro": "AYNALI ÇARŞI",
+                "en": "AYNALI ÇARŞI"
+              },
+              "tip_5lang": {
+                "de": "Der Basar bietet Schutz vor dem kalten Wind; ideal, um lokale Winterspezialitäten wie wärmende Tees zu entdecken.",
+                "hu": "A bazár védelmet nyújt a hideg szél elől; ideális hely a helyi téli különlegességek, például melegítő teák felfedezésére.",
+                "ro": "Bazarul oferă protecție împotriva vântului rece; ideal pentru a descoperi specialități locale de iarnă, cum ar fi ceaiurile calde.",
+                "en": "The bazaar offers protection from the cold wind; ideal for discovering local winter specialties like warming teas."
+              }
+            },
+            {
+              "name": {
+                "de": "Fatih Mosque",
+                "hu": "Fatih Mosque",
+                "ro": "Fatih Mosque",
+                "en": "Fatih Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Stille im Inneren wirkt im Winter besonders andächtig; genießen Sie die warme Atmosphäre der historischen Architektur.",
+                "hu": "A belső csend télen különösen áhítatos; élvezze a történelmi építészet meleg és befogadó hangulatát.",
+                "ro": "Liniștea din interior pare deosebit de pioasă iarna; bucurați-vă de atmosfera caldă a arhitecturii istorice.",
+                "en": "The silence inside feels especially devotional in winter; enjoy the warm atmosphere of the historical architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Çimenlik Fortress",
+                "hu": "Çimenlik Fortress",
+                "ro": "Çimenlik Fortress",
+                "en": "Çimenlik Fortress"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Dardanellen ist bei klarer Winterluft am besten; ziehen Sie eine windfeste Jacke für den kurzen Weg vom Auto an.",
+                "hu": "A Dardanellákra nyíló kilátás tiszta téli levegőben a legszebb; vegyen fel szélálló kabátot az autótól való rövid útra.",
+                "ro": "Vederea spre Dardanele este cea mai bună în aerul clar de iarnă; purtați o jachetă rezistentă la vânt pentru drumul scurt de la mașină.",
+                "en": "The view of the Dardanelles is best in the clear winter air; wear a windproof jacket for the short walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Çanakkake Wars Research Center and Library",
+                "hu": "Çanakkake Wars Research Center and Library",
+                "ro": "Çanakkake Wars Research Center and Library",
+                "en": "Çanakkake Wars Research Center and Library"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Rückzugsort vor der Nachmittagskälte; vertiefen Sie sich in die Geschichte in einer wohltemperierten Umgebung.",
+                "hu": "Tökéletes menedék a délutáni hideg elől; merüljön el a történelemben egy kellemes hőmérsékletű környezetben.",
+                "ro": "Un refugiu perfect împotriva frigului de după-amiază; aprofundați istoria într-un mediu cu temperatură plăcută.",
+                "en": "A perfect retreat from the afternoon cold; immerse yourself in history in a well-tempered environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Seramik Müzesi",
+                "hu": "Seramik Müzesi",
+                "ro": "Seramik Müzesi",
+                "en": "Seramik Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Warmen; die farbenfrohen Keramiken sind ein schöner Kontrast zum winterlichen Grau draußen.",
+                "hu": "Zárja a napot a melegben; a színes kerámiák szép kontrasztot alkotnak a kinti téli szürkeséggel.",
+                "ro": "Încheiați ziua la căldură; ceramicile colorate oferă un contrast frumos cu griul iernii de afară.",
+                "en": "End the day in the warm; the colorful ceramics are a beautiful contrast to the winter gray outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

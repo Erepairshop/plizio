@@ -183,6 +183,224 @@
         "hu": "Kezdje sétáját a békés Igreja de Santo António templomnál, majd merüljön el a zeneakadémia kulturális ritmusában. A délben művészeti felfedezések várják a Cine-Teatroban és meghitt történetek a Casa Museuban. A délután a múlté: tekintse meg a Városi Múzeum gazdag kiállításait, mielőtt felmászna az ikonikus várba. Az estét a történelmi Igreja da Trindade templomnál zárhatja az alkonyatban.",
         "ro": "Începeți plimbarea la senina Igreja de Santo António, apoi scufundați-vă în ritmul cultural de la academia de muzică. La prânz, descoperiți arta la Cine-Teatro și poveștile din Casa Museu. După-amiaza este dedicată trecutului, explorând exponatele bogate ale Muzeului Municipal înainte de a urca la Castelul emblematic. Încheiați seara la istorica Igreja da Trindade, admirând apusul.",
         "en": "Begin your walking tour at the serene Igreja de Santo António, then immerse yourself in the cultural rhythm at the local music academy. Midday unfolds with artistic discoveries at the Cine-Teatro and intimate stories inside the Casa Museu Helena e António Seixas. Your afternoon is dedicated to the past, exploring the rich exhibits of the Municipal Museum before climbing the iconic Castle. Conclude your evening at the historic Igreja da Trindade, watching the twilight settle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen mit der Erkundung der geschützten Innenräume der Kirchen von Pinhel, während draußen der Regen fällt. Tauchen Sie mittags in den lokalen Museen in die reiche Geschichte der Stadt ein und bleiben Sie dabei trocken. Trotzen Sie am Nachmittag dem Nieselregen mit einem robusten Regenschirm, um die beeindruckenden Burgmauern zu bewundern. Beenden Sie den Tag an einem gemütlichen, warmen Ort und lassen Sie die historische Architektur im Trockenen auf sich wirken.",
+            "hu": "Kezdje a reggelt Pinhel templomainak és kulturális tereinek védett belső tereiben, miközben odakint esik az eső. Délben merüljön el a város gazdag történelmében a helyi múzeumokban, szárazon maradva a kiállítások között. Délután dacoljon a szitáló esővel egy jó esernyővel, hogy megnézze a lenyűgöző várfalakat és a történelmi helyszíneket. Zárja a napot egy hangulatos, meleg helyen, felidézve a látott történelmi építészetet az eső elől menedéket találva.",
+            "ro": "Începeți dimineața explorând interioarele adăpostite ale bisericilor și spațiilor culturale din Pinhel în timp ce plouă afară. La prânz, scufundați-vă în istoria bogată a orașului la muzeele locale, rămânând uscați printre exponate. După-amiaza, înfruntați ploaia măruntă cu o umbrelă robustă pentru a vedea zidurile impresionante ale castelului. Încheiați ziua găsind căldură într-un loc primitor, reflectând la arhitectura istorică departe de picăturile de ploaie.",
+            "en": "Start your morning exploring the sheltered interiors of Pinhel's churches and cultural spaces while the rain falls outside. By noon, dive into the town's rich history at the local museums, keeping completely dry as you wander through their exhibits. In the afternoon, brave the drizzle with a sturdy umbrella to see the impressive castle walls and nearby historical sites. Conclude your day finding warmth in a cozy local spot, safely reflecting on the historical architecture you experienced."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Santo António",
+                "hu": "Igreja de Santo António",
+                "ro": "Igreja de Santo António",
+                "en": "Igreja de Santo António"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die komplexen Details und die stille Schönheit dieser historischen Kirche, die einen perfekten trockenen Unterschlupf für den regnerischen Morgen bietet.",
+                "hu": "Csodálja meg ennek a történelmi templomnak a bonyolult részleteit és csendes szépségét, amely tökéletes száraz menedéket nyújt az esős reggeli felfedezés megkezdéséhez.",
+                "ro": "Admirați detaliile complicate și frumusețea liniștită a acestei biserici istorice, care oferă un adăpost uscat perfect pentru a vă începe explorarea în dimineața ploioasă.",
+                "en": "Admire the intricate details and quiet beauty of this historic church, which provides a perfect dry shelter to securely start your rainy morning exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Academia de Música de Pinhel",
+                "hu": "Academia de Música de Pinhel",
+                "ro": "Academia de Música de Pinhel",
+                "en": "Academia de Música de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich einen entspannenden Moment Zeit, um das lokale musikalische Erbe drinnen zu würdigen, sicher vor dem unberechenbaren nassen Wetter und kalten Regenschauern draußen.",
+                "hu": "Szánjon egy pihentető pillanatot a helyi zenei örökség beltéri megcsodálására, biztonságos távolságban maradva a kinti kiszámíthatatlan nedves időjárástól és a hideg záporoktól.",
+                "ro": "Luați-vă un moment de relaxare pentru a aprecia profund moștenirea muzicală locală în interior, stând în siguranță departe de vremea umedă imprevizibilă și de averselor reci de afară.",
+                "en": "Take a relaxing moment to deeply appreciate the local musical heritage indoors, staying safely away from the unpredictable wet weather and cold rain showers outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cine-Teatro de Pinhel",
+                "hu": "Cine-Teatro de Pinhel",
+                "ro": "Cine-Teatro de Pinhel",
+                "en": "Cine-Teatro de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die faszinierende kulturelle Bedeutung dieses lokalen Theatersaals, der sich hervorragend als unterhaltsamer Zwischenstopp im Trockenen eignet, um Regenschauern auszuweichen.",
+                "hu": "Fedezze fel e helyi színháztér lenyűgöző kulturális jelentőségét, amely kiváló és szórakoztató beltéri megállóként szolgál az erős esőzések teljes elkerülésére.",
+                "ro": "Explorați semnificația culturală fascinantă a acestui spațiu teatral local, care servește drept o oprire interioară excelentă și distractivă pentru a evita complet ploile torențiale.",
+                "en": "Explore the fascinating cultural significance of this local theater space, which serves as an excellent and entertaining indoor stop to completely dodge the heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Helena e António Seixas",
+                "hu": "Casa Museu Helena e António Seixas",
+                "ro": "Casa Museu Helena e António Seixas",
+                "en": "Casa Museu Helena e António Seixas"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit damit, bequem die faszinierenden historischen Ausstellungen in diesem wunderbaren Museum zu durchstöbern, einer idealen Aktivität für anhaltende Regentage.",
+                "hu": "Töltsön elegendő időt e csodálatos múzeum lenyűgöző történelmi kiállításainak kényelmes böngészésével, ami ideális és hosszú beltéri program egy tartósan esős napon.",
+                "ro": "Petreceți timp suficient navigând confortabil prin expozițiile istorice fascinante din acest muzeu minunat, făcându-l o activitate interioară ideală în timpul unei zile ploioase persistente.",
+                "en": "Spend ample time comfortably browsing the fascinating historical exhibits in this wonderful museum, making it an ideal long indoor activity during a persistent rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Pinhel",
+                "hu": "Museu Municipal de Pinhel",
+                "ro": "Museu Municipal de Pinhel",
+                "en": "Museu Municipal de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie innerhalb der völlig trockenen Mauern des städtischen Museums viel tiefer in Pinhels reiche lokale Geschichte ein, während es draußen weiterhin unerbittlich regnet.",
+                "hu": "Merüljön el sokkal mélyebben Pinhel gazdag helyi történelmében a városi múzeum teljesen száraz falai között, miközben odakint a könyörtelen eső továbbra is hevesen esik.",
+                "ro": "Aprofundați mult istoria locală bogată a orașului Pinhel între pereții complet uscați ai muzeului municipal, în timp ce ploaia neobosită continuă să cadă abundent afară.",
+                "en": "Delve much deeper into Pinhel's rich local history within the completely dry walls of the municipal museum while the relentless rain continues to fall heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Pinhel",
+                "hu": "Castelo de Pinhel",
+                "ro": "Castelo de Pinhel",
+                "en": "Castelo de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt feste, wasserdichte Schuhe, da der felsige Weg um das Burggelände bei Regen ziemlich rutschig sein kann, aber die dramatische, stimmungsvolle Aussicht lohnt sich.",
+                "hu": "Feltétlenül viseljen erős, vízálló cipőt, mivel a vár körüli sziklás ösvény esőben meglehetősen csúszós lehet, de a hangulatos és drámai kilátásért ez mindenképpen megéri.",
+                "ro": "Asigurați-vă că purtați încălțăminte impermeabilă robustă, deoarece poteca stâncoasă din jurul castelului poate fi destul de alunecoasă pe ploaie, dar priveliștile dramatice merită.",
+                "en": "Make sure to wear sturdy waterproof shoes as the rocky path around the castle grounds can be quite slippery during the rain, but the moody dramatic views are totally worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Trindade",
+                "hu": "Igreja da Trindade",
+                "ro": "Igreja da Trindade",
+                "en": "Igreja da Trindade"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang friedlich im Inneren der historisch bedeutsamen Dreifaltigkeitskirche und finden Sie wahre Besinnung sowie einen willkommenen Schutz vor dem Nieselregen.",
+                "hu": "Zárja gyalogos túráját békésen a történelmileg jelentős Szentháromság-templomban, igazi csendes elmélkedést és hívogató menedéket találva a tartós délutáni szitáló eső elől.",
+                "ro": "Încheiați-vă turul pe jos în mod pașnic în interiorul Bisericii Trinității, cu importanță istorică, găsind reflecție liniștită și un adăpost primitor de burnița persistentă de după-amiază.",
+                "en": "End your walking tour peacefully inside the historically significant Trinity Church, finding true quiet reflection and a welcoming shelter from the persistent afternoon drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen klaren Wintermorgen-Spaziergang zu den schönen Kirchen und kulturellen Zentren von Pinhel. Gegen Mittag bieten die lokalen Museen einen gemütlichen Rückzugsort, um sich aufzuwärmen und historische Artefakte zu entdecken. Die winterliche Nachmittagssonne taucht die majestätische Burg vor dem frühen Sonnenuntergang gegen 17 Uhr in ein goldenes Licht. Genießen Sie einen ruhigen Abend drinnen und entfliehen Sie der Kälte nach einem Tag voller Erkundungen.",
+            "hu": "Öltözzön melegen egy frissítő téli reggeli sétához Pinhel gyönyörű templomaihoz és kulturális központjaihoz. Délben a helyi múzeumok fűtött menedéket kínálnak, ahol felmelegedhet és történelmi tárgyakat fedezhet fel. A téli délutáni nap aranyló fényt vet a fenséges várra a korai, 17 óra körüli naplemente előtt. Élvezze a csendes estét a melegben, elmenekülve az esti fagy elől egy egész napos történelmi felfedezés után.",
+            "ro": "Îmbrăcați-vă călduros pentru o plimbare revigorantă de iarnă către bisericile și centrele culturale din Pinhel. La prânz, muzeele locale oferă un refugiu încălzit pentru a vă dezgheța și a descoperi artefacte istorice. Soarele de iarnă de după-amiază aruncă o lumină aurie pe castelul maiestuos înaintea apusului timpuriu de la ora 17. Bucurați-vă de o seară liniștită în interior, scăpând de frigul înghețat după o zi plină de explorări.",
+            "en": "Wrap up warmly for a crisp winter morning walk to Pinhel's beautiful churches and vibrant cultural centers. Around midday, the thoroughly heated local museums offer a cozy retreat to discover fascinating artifacts and warm your hands. The afternoon winter sun casts a bright golden glow on the majestic castle before the early sunset around 5 PM. Enjoy a remarkably quiet evening indoors, escaping the freezing evening chill after a full day of historical exploration."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Santo António",
+                "hu": "Igreja de Santo António",
+                "ro": "Igreja de Santo António",
+                "en": "Igreja de Santo António"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie direkt diese gemütliche und ruhige Kirche, um der eiskalten Wintermorgenluft zu entfliehen und sich Zeit zu nehmen, ihre wunderschöne religiöse Kunst und Architektur zu bewundern.",
+                "hu": "Lépjen be közvetlenül ebbe a hangulatos és nyugodt templomba, hogy elmeneküljön a fagyos téli reggeli levegő elől, és időt szánjon gyönyörű vallási művészetének megcsodálására.",
+                "ro": "Pășiți direct în această biserică primitoare și liniștită pentru a scăpa de aerul rece și înghețat al dimineții de iarnă și luați-vă timp admirând arta și arhitectura sa religioasă frumoasă.",
+                "en": "Step directly inside this cozy and serene church to easily escape the crisp, freezing winter morning air and take your time admiring its beautiful religious art and architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Academia de Música de Pinhel",
+                "hu": "Academia de Música de Pinhel",
+                "ro": "Academia de Música de Pinhel",
+                "en": "Academia de Música de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die bemerkenswert warme Atmosphäre der lokalen Musikakademie und erfahren Sie mehr über kulturelle Traditionen, eine sehr schöne und lehrreiche Pause von der Winterkälte.",
+                "hu": "Élvezze a helyi zeneakadémia figyelemreméltóan meleg atmoszféráját, miközben megismeri a kulturális hagyományokat, ami nagyon kellemes és tanulságos kikapcsolódás a téli hidegből.",
+                "ro": "Bucurați-vă de atmosfera remarcabil de caldă a academiei locale de muzică în timp ce învățați despre tradițiile culturale, o pauză foarte plăcută și educativă de la frigul iernii.",
+                "en": "Enjoy the remarkably warm atmosphere of the local music academy as you learn about regional cultural traditions, providing a very nice and educational break from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Cine-Teatro de Pinhel",
+                "hu": "Cine-Teatro de Pinhel",
+                "ro": "Cine-Teatro de Pinhel",
+                "en": "Cine-Teatro de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine äußerst bequeme Pause im Warmen in diesem pulsierenden Kulturzentrum und behalten Sie Ihre dicken Winterschichten an, während Sie die reiche Geschichte erkunden.",
+                "hu": "Tartson egy rendkívül kényelmes beltéri pihenőt ebben a nyüzsgő kulturális központban, tartsa magán vastag téli rétegeit, miközben felfedezi a színház egyedülállóan gazdag történetét.",
+                "ro": "Luați o pauză interioară extrem de confortabilă la acest centru cultural vibrant, păstrându-vă straturile groase de iarnă la îndemână în timp ce explorați istoria bogată a teatrului.",
+                "en": "Take a highly comfortable indoor break at this vibrant cultural hub, keeping your thick winter layers on handy as you take time to explore the theater's uniquely rich history."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Helena e António Seixas",
+                "hu": "Casa Museu Helena e António Seixas",
+                "ro": "Casa Museu Helena e António Seixas",
+                "en": "Casa Museu Helena e António Seixas"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie wunderbar lange Zeit im Warmen, um die faszinierenden Sammlungen des Museums gründlich zu erkunden, eine absolut perfekte Aktivität für einen eiskalten Winternachmittag.",
+                "hu": "Töltsön el csodálatosan hosszú időt a melegben a múzeum lenyűgöző gyűjteményeinek alapos felfedezésével, ami egyenesen tökéletes program egy fagyos, hűvös téli délutánra.",
+                "ro": "Petreceți un timp minunat de lung în interior explorând amănunțit colecțiile fascinante ale muzeului, o activitate absolut perfectă pentru o după-amiază de iarnă înghețată.",
+                "en": "Spend a wonderfully long time indoors thoroughly exploring the museum's fascinating collections, which is absolutely a perfect activity for a freezing chilly winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Pinhel",
+                "hu": "Museu Municipal de Pinhel",
+                "ro": "Museu Municipal de Pinhel",
+                "en": "Museu Municipal de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie das fesselnde lokale Erbe sicher in den beheizten und komfortablen Räumen des städtischen Museums, ein wichtiger warmer Zwischenstopp im Laufe des kurzen Wintertages.",
+                "hu": "Fedezze fel a magával ragadó helyi örökséget biztonságban a városi múzeum fűtött és kényelmes termeiben, amely elengedhetetlenül meleg megálló a rövid téli nap előrehaladtával.",
+                "ro": "Descoperiți moștenirea locală captivantă în siguranță în sălile încălzite și confortabile ale muzeului municipal, o oprire caldă esențială pe măsură ce scurta zi de iarnă avansează.",
+                "en": "Discover the captivating local heritage securely inside the heated and comfortable rooms of the municipal museum, making it an essential warm stop as the short winter day progresses."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Pinhel",
+                "hu": "Castelo de Pinhel",
+                "ro": "Castelo de Pinhel",
+                "en": "Castelo de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die majestätische Burg vor dem sehr frühen Sonnenuntergang gegen 17 Uhr; packen Sie sich unglaublich warm ein, da es hier oben im Winter heftig windig und eiskalt ist.",
+                "hu": "Látogassa meg a fenséges várat a nagyon korai, délután 5 óra körüli naplemente előtt; öltözzön fel hihetetlenül melegen, mivel a magaslati fekvés miatt télen viharosan szeles és jéghideg lehet.",
+                "ro": "Vizitați castelul maiestuos înainte de apusul foarte timpuriu în jur de ora 17; îmbrăcați-vă incredibil de gros, deoarece poziția ridicată poate fi puternic vântoasă și înghețată iarna.",
+                "en": "Visit the majestic castle before the very early sunset around 5 PM; bundle up incredibly warmly as the elevated position can be quite fiercely windy and freezing cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Trindade",
+                "hu": "Igreja da Trindade",
+                "ro": "Igreja da Trindade",
+                "en": "Igreja da Trindade"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie tröstende Wärme und stille spirituelle Besinnung in dieser schönen historischen Kirche, wenn der dunkle Winterabend naht und die Außentemperaturen rasant abstürzen.",
+                "hu": "Találjon megnyugtató meleget és csendes lelki elmélkedést ebben a gyönyörű történelmi templomban, ahogy a sötét téli este gyorsan közeledik, és a kinti hőmérséklet zuhanni kezd.",
+                "ro": "Găsiți căldură reconfortantă și reflecție spirituală liniștită în această frumoasă biserică istorică pe măsură ce seara întunecată de iarnă se apropie rapid și temperaturile scad.",
+                "en": "Find comforting warmth and quiet spiritual reflection in this beautiful historical church as the dark winter evening rapidly approaches and the outside temperatures plummet down."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje egy frissítő reggellel a Városi Uszodában, majd tekerjen a grandiózus Casa Metello de Nápoles felé. A dél a Casa Museu lenyűgöző szobáin vezet keresztül, bepillantást engedve a történelmi mindennapokba. Folytassa délutáni útját a Városi Múzeumhoz, majd hódítsa meg a Várat. Kerékpáros utazását a naplementében az Igreja da Trindade templomnál fejezheti be egy csendes pihenővel.",
         "ro": "Începeți dimineața la Piscina Municipal, bucurându-vă de atmosfera vibrantă înainte de a pedala spre grandioasa Casa Metello de Nápoles. Prânzul vă poartă prin camerele captivante de la Casa Museu. Continuați-vă plimbarea de după-amiază spre Muzeul Municipal și minunați-vă de artefactele antice înainte de a cuceri Castelul. Încheiați-vă călătoria pe două roți la Igreja da Trindade.",
         "en": "Start with a refreshing morning at the Piscina Municipal, enjoying the vibrant family atmosphere before pedaling towards the grand Casa Metello de Nápoles. Midday takes you through the captivating rooms of the Casa Museu Helena e António Seixas, offering a glimpse into historic daily life. Continue your afternoon ride to the Municipal Museum and marvel at ancient artifacts before conquering the Castle. End your cycling journey at Igreja da Trindade as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren regnerischen Radtag bestens ausgerüstet mit wasserfester Kleidung am Schwimmbad und fahren Sie sehr vorsichtig auf nassen Straßen. Mittags drosseln Sie das Tempo auf dem rutschigen Kopfsteinpflaster, um historische Häuser und Museen zu besuchen und trocken zu bleiben. Radeln Sie am Nachmittag bedächtig zur Burg hinauf, wo der dichte Nieselregen den alten Mauern eine dramatische Atmosphäre verleiht. Beenden Sie Ihre feuchte Reise frühzeitig, um sich nach der Fahrt aufzuwärmen.",
+            "hu": "Kezdje esős kerékpáros napját vízálló felszereléssel a városi uszodánál, rendkívül vigyázva a nedves utakon. Délben lassabb tempóra váltson a csúszós macskaköveken, történelmi házakat és fedett múzeumokat látogatva, hogy száraz maradjon. Délután óvatosan tekerjen fel a lenyűgöző várhoz, ahol a ködös eső drámai hangulatot kölcsönöz az ősi falaknak. Fejezze be korán a nedves utazást, hogy egy hangulatos, meleg fedett helyen megszárítkozzon és felmelegedjen a kerékpározás után.",
+            "ro": "Începeți ziua ploioasă de ciclism cu echipament impermeabil la piscina municipală, având mare grijă pe drumurile umede. La prânz, navigați mult mai încet pe pietrele cubice alunecoase către case istorice și muzee interioare pentru a rămâne uscați. După-amiaza, pedalați cu atenție până la castel, unde ploaia deasă adaugă o atmosferă dramatică zidurilor antice. Terminați-vă călătoria umedă mai devreme pentru a vă refugia într-un loc primitor și a vă încălzi complet.",
+            "en": "Start your rainy cycling day fully equipped with waterproof gear at the municipal pool, taking great care on the very wet roads. Midday brings a slower pace as you navigate the slippery cobblestones to historical houses and engaging indoor museums to stay dry. In the afternoon, carefully bike up to the impressive castle, where the misty rain adds a dramatic atmosphere to the ancient walls. Finish your damp journey early to seek refuge in a cozy spot, completely drying off and warming up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Bewahren Sie Ihre Sachen sicher in einer wasserdichten Tasche auf und beginnen Sie Ihre Fahrt vorsichtig, vielleicht mit einem kurzen Bad im Hallenbad, um Regenschauern zu entgehen.",
+                "hu": "Tartsa holmiját teljesen biztonságban egy vízálló táskában, és óvatosan kezdje meg az utat, esetleg egy gyors beltéri úszással menekülve a heves reggeli esőzések elől.",
+                "ro": "Păstrați-vă lucrurile complet în siguranță într-o geantă impermeabilă și începeți cursa cu mare precauție, poate cu o baie rapidă în interior pentru a scăpa de ploile grele de dimineață.",
+                "en": "Keep your belongings completely safe in a waterproof bag and start your ride with great caution, perhaps taking a quick indoor swim to easily escape the heavy morning rainstorms."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Metello de Nápoles",
+                "hu": "Casa Metello de Nápoles",
+                "ro": "Casa Metello de Nápoles",
+                "en": "Casa Metello de Nápoles"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie äußerst vorsichtig und fahren Sie langsamer, da der Weg zu diesem historischen Haus über nasses, unebenes Kopfsteinpflaster führt, das für Fahrradreifen gefährlich rutschig wird.",
+                "hu": "Legyen rendkívül óvatos és lassítson, mivel ehhez a történelmi házhoz vezető út nedves, egyenetlen macskaköveken halad, amelyek esőben veszélyesen csúszósak lehetnek a kerékpárgumiknak.",
+                "ro": "Fiți extrem de atenți și încetiniți, deoarece apropierea de această casă istorică are pietre cubice umede și inegale, care pot deveni periculos de alunecoase pentru anvelope pe ploaie.",
+                "en": "Be extremely careful and slow down as the approach to this historical house features wet, uneven cobblestones that can become dangerously slippery for bike tires during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Helena e António Seixas",
+                "hu": "Casa Museu Helena e António Seixas",
+                "ro": "Casa Museu Helena e António Seixas",
+                "en": "Casa Museu Helena e António Seixas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher im Trockenen und genießen Sie eine lange Pause, in der Sie die faszinierenden Ausstellungen des Museums geschützt vor unberechenbaren Schauern erkunden.",
+                "hu": "Parkolja le kerékpárját biztonságos, fedett helyen, és élvezze a hosszú, kényelmes pihenőt a lenyűgöző múzeumi kiállítások felfedezésével, teljesen védve a kiszámíthatatlan esőzésektől.",
+                "ro": "Parcați-vă bicicleta în siguranță sub acoperiș și bucurați-vă de o pauză lungă și confortabilă explorând exponatele fascinante ale muzeului, complet protejați de averselor imprevizibile.",
+                "en": "Park your bike safely under cover and enjoy a long, comfortable break exploring the fascinating museum exhibits while remaining completely protected from the unpredictable showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Pinhel",
+                "hu": "Museu Municipal de Pinhel",
+                "ro": "Museu Municipal de Pinhel",
+                "en": "Museu Municipal de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Dieses wunderbar geräumige Museum bietet einen hervorragenden und trockenen Rückzugsort, um sich abzutrocknen, während Sie aktiv mehr über die unglaublich reiche Geschichte der Region erfahren.",
+                "hu": "Ez a csodálatosan tágas múzeum kiváló és száraz beltéri menedéket kínál egy kis törölközésre, miközben aktívan tanulmányozza a régió hihetetlenül gazdag helyi történelmét és örökségét.",
+                "ro": "Acest muzeu minunat de spațios oferă un refugiu excelent și uscat în interior pentru a vă șterge puțin în timp ce învățați activ despre istoria și moștenirea locală incredibil de bogată a regiunii.",
+                "en": "This wonderfully spacious museum offers an excellent and dry indoor retreat to towel off a bit while actively learning about the region's incredibly rich local history and heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Pinhel",
+                "hu": "Castelo de Pinhel",
+                "ro": "Castelo de Pinhel",
+                "en": "Castelo de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Die steile Fahrt zur Burg kann bei Regen tückisch sein; prüfen Sie Ihre Bremsen gründlich und schieben Sie Ihr Rad, wenn der alte Steinweg auch nur leicht nass und sehr unsicher erscheint.",
+                "hu": "A várhoz vezető meredek út esőben trükkös lehet; erősen ellenőrizze a fékeket, és tolja a kerékpárt, ha az ősi kőösvény akár csak egy kicsit is túl nedvesnek és rendkívül veszélyesnek tűnik.",
+                "ro": "Urcarea abruptă la castel poate fi dificilă pe ploaie; verificați-vă riguros frânele și mergeți pe lângă bicicletă dacă poteca veche de piatră pare chiar și ușor prea umedă și foarte nesigură.",
+                "en": "The steep ride up to the castle can be tricky in the rain; strongly check your brakes and walk your bike if the ancient stone path feels even slightly too wet and highly unsafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Trindade",
+                "hu": "Igreja da Trindade",
+                "ro": "Igreja da Trindade",
+                "en": "Igreja da Trindade"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihr nasses Radabenteuer sicher und ruhig an dieser schönen Kirche und finden Sie einen überaus friedlichen, völlig trockenen Hafen, bevor Sie durch dunkle Straßen heimkehren.",
+                "hu": "Fejezze be nedves kerékpáros kalandját biztonságosan és nyugodtan ennél a gyönyörű templomnál, egy rendkívül békés és teljesen száraz menedéket találva a sötét, esős utcákon való hazanavigálás előtt.",
+                "ro": "Încheiați-vă aventura umedă cu bicicleta în siguranță și calm la această biserică frumoasă, găsind un refugiu extrem de pașnic și complet uscat înainte de a naviga pe străzile întunecate și ploioase spre casă.",
+                "en": "Conclude your wet cycling adventure safely and calmly at this beautiful church, finding a highly peaceful and completely dry haven before navigating the dark, rainy streets home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für eine frische Wintermorgen-Fahrt, die am Schwimmbad beginnt. Mittags radeln Sie durch die klare Luft zu historischen Herrenhäusern und Museen, wo Sie anhalten und Ihre Hände aufwärmen können. Die Nachmittagssonne wirft sehr lange Schatten, wenn Sie zur Burg radeln und die alten Steine im grellen Winterlicht erstrahlen lassen. Beenden Sie Ihre Fahrt unbedingt vor der Dunkelheit um 17 Uhr, um den extrem schnell sinkenden Temperaturen zu entkommen.",
+            "hu": "Öltözzön meleg, lélegző rétegekbe egy frissítő téli reggeli kerékpározáshoz a városi uszodánál. Délben tekerjen a csípős levegőn történelmi kúriákhoz és fűtött múzeumokhoz, ahol alaposan felmelegítheti a kezét és a lábát. A délutáni nap hosszú árnyékokat vet, miközben a várhoz ér, így az ősi kövek ragyognak a téli fényben. Fejezze be az utat feltétlenül a 17 órás sötétedés előtt, elkerülve a rendkívül gyorsan csökkenő fagyos esti hőmérsékletet.",
+            "ro": "Îmbrăcați-vă în straturi calde pentru o plimbare revigorantă în dimineața de iarnă, începând la piscină. La prânz, pedalați prin aerul rece către conace istorice și muzee unde vă puteți opri și încălzi mâinile complet. Soarele de după-amiază aruncă umbre foarte lungi în timp ce mergeți spre castel, făcând pietrele să strălucească în lumina iernii. Terminați cursa obligatoriu înainte să se întunece la 17:00, evitând temperaturile de îngheț care scad extrem de rapid.",
+            "en": "Dress in warm, breathable layers for a brisk winter morning ride starting near the municipal pool. By noon, pedal your way through the crisp air to historical manors and engaging museums where you can thoroughly thaw your hands and feet. The afternoon sun casts very long shadows as you cycle toward the castle, making the ancient stones glow brightly in the winter light. Finish your ride strictly before the 5 PM darkness sets in, ensuring you avoid the rapidly dropping, freezing evening temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier Ihre frische Winterfahrt; das Tragen von warmen, isolierten Thermohandschuhen ist absolut unerlässlich, damit Ihre Finger in den kühlen Morgenstunden nicht einfrieren.",
+                "hu": "Kezdje itt a frissítő téli utat; a meleg, szigetelt termokesztyű viselése abszolút elengedhetetlen, hogy az ujjai ne fagyjanak le a rendkívül hűvös reggeli órákban a kerékpáron.",
+                "ro": "Începeți-vă cursa de iarnă aici; purtarea mănușilor termice calde și izolate este absolut esențială pentru a vă proteja degetele de îngheț în timpul orelor reci ale dimineții.",
+                "en": "Start your brisk winter cycling ride right here; wearing warm, insulated thermal gloves is absolutely essential to effectively keep your fingers from freezing during the chilly morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Metello de Nápoles",
+                "hu": "Casa Metello de Nápoles",
+                "ro": "Casa Metello de Nápoles",
+                "en": "Casa Metello de Nápoles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen sehr kurzen Stopp, um dieses wunderschöne historische Haus zu bewundern, aber bleiben Sie stetig in Bewegung, um Ihre Körperwärme gegen den beißenden Winterwind zu erhalten.",
+                "hu": "Élvezze a nagyon rövid megállót, hogy mélyen megcsodálja ezt a gyönyörű történelmi házat, de folyamatosan maradjon mozgásban, hogy megőrizze maghőmérsékletét a metsző téli széllel szemben.",
+                "ro": "Bucurați-vă de o oprire foarte scurtă pentru a admira profund această frumoasă casă istorică, dar asigurați-vă că vă mișcați constant pentru a vă menține căldura corporală împotriva vântului tăios de iarnă.",
+                "en": "Enjoy a very quick stop to deeply admire this beautiful historical house, but ensure you keep moving steadily to maintain your core body heat against the biting winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Helena e António Seixas",
+                "hu": "Casa Museu Helena e António Seixas",
+                "ro": "Casa Museu Helena e António Seixas",
+                "en": "Casa Museu Helena e António Seixas"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine überaus großzügige und entspannende Pause drinnen in diesem Museum, um sich richtig aufzuwärmen und schwere Winterschichten abzulegen, während Sie die Ausstellungen genießen.",
+                "hu": "Tartson egy rendkívül nagylelkű és pihentető beltéri pihenőt ebben a múzeumban, hogy alaposan felmelegedjen, és megszabaduljon néhány nehéz téli rétegtől, miközben élvezi a helyi kiállításokat.",
+                "ro": "Luați o pauză extrem de generoasă și relaxantă în interior la acest muzeu pentru a vă încălzi bine și a da jos din straturile grele de iarnă în timp ce vă bucurați din plin de expozițiile locale.",
+                "en": "Take a highly generous and relaxing break indoors at this museum to warm up properly and shed some heavy winter layers while thoroughly enjoying the fascinating local exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal de Pinhel",
+                "hu": "Museu Municipal de Pinhel",
+                "ro": "Museu Municipal de Pinhel",
+                "en": "Museu Municipal de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer fantastischer und warmer Stopp drinnen, um Ihre eiskalten Zehen aufzutauen; parken Sie Ihr Rad sichtbar und tauchen Sie direkt in die fesselnde Geschichte der Gemeinde ein.",
+                "hu": "Újabb fantasztikus és meleg beltéri megálló a fagyos lábujjak teljes felengedésére; parkolja le kerékpárját egy jól látható helyen, és merüljön el közvetlenül az önkormányzat történetében.",
+                "ro": "O altă oprire fantastică și caldă în interior pentru a vă dezgheța complet degetele înghețate; parcați-vă bicicleta într-un loc vizibil și aprofundați direct istoria captivantă a municipalității.",
+                "en": "Another fantastic and warm indoor stop to completely defrost your freezing toes; park your bike in a visible spot and delve directly into the captivating history of the municipality."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Pinhel",
+                "hu": "Castelo de Pinhel",
+                "ro": "Castelo de Pinhel",
+                "en": "Castelo de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie aktiv nach oben für eine atemberaubend klare Winteraussicht, aber seien Sie bestens auf überraschend starke, eiskalte Windböen auf dem ungeschützten Burggelände vorbereitet.",
+                "hu": "Tekerjen fel aktívan a lenyűgözően éles téli kilátásért, de legyen teljesen felkészülve a meglepően erős, fagyos széllökésekre, amelyek folyamatosan végigsöpörnek a nyitott várudvaron.",
+                "ro": "Pedalați activ până sus pentru priveliști uimitoare și clare de iarnă, dar fiți complet pregătiți pentru rafale puternice și surprinzătoare de vânt înghețat pe terenurile expuse ale castelului.",
+                "en": "Cycle actively to the top for stunningly crisp winter views, but be fully prepared for surprisingly strong, freezing gusts of wind that constantly sweep across the exposed castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja da Trindade",
+                "hu": "Igreja da Trindade",
+                "ro": "Igreja da Trindade",
+                "en": "Igreja da Trindade"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Winterradtour sicher gegen 16:30 Uhr an dieser ruhigen Kirche, damit Sie den gefährlichen und rutschigen unsichtbaren Frost, der sich im Dunkeln bildet, komplett vermeiden.",
+                "hu": "Fejezze be téli kerékpártúráját biztonságosan 16:30 körül ennél a csendes templomnál, biztosítva, hogy teljesen elkerülje a sötétedés után az utakon képződő veszélyes és csúszós láthatatlan deret.",
+                "ro": "Încheiați-vă turul de iarnă cu bicicleta în siguranță în jurul orei 16:30 la această biserică, asigurându-vă că evitați complet înghețul invizibil periculos și alunecos care se formează pe drumuri la întuneric.",
+                "en": "End your winter cycling tour safely around 4:30 PM at this quiet church, ensuring you completely avoid the dangerous and slippery invisible frost that forms on the roads after dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Autózzon a történelmi Igreja da Trindade templomhoz, hogy a reggelt az évszázados építészet ölelésében kezdje. Utazása a lenyűgöző Castelo de Pinhelhez vezet, majd délben megcsodálhatja a Casa Metello de Nápoles eleganciáját. Töltse a délutánt a Casa Museu gyűjteményeinek felfedezésével, mielőtt a békés Igreja de Santo António felé venné az irányt. Végül pihenjen meg a Városi Uszodánál.",
         "ro": "Conduceți spre istorica Igreja da Trindade pentru a vă începe dimineața înconjurat de o arhitectură senină. Călătoria continuă spre formidabilul Castelo de Pinhel, urmat de o oprire la prânz pentru a admira eleganța Casei Metello de Nápoles. Petreceți după-amiaza explorând colecțiile de la Casa Museu, înainte de a merge la Igreja de Santo António. Seara, relaxați-vă la Piscina Municipal.",
         "en": "Drive to the historic Igreja da Trindade to start your morning enveloped in centuries of serene architecture and faith. Your journey continues to the formidable Castelo de Pinhel, followed by a midday stop to admire the elegance of Casa Metello de Nápoles. Spend the afternoon exploring the fascinating collections at the Casa Museu before heading to the peaceful Igreja de Santo António. Finally, unwind at the Piscina Municipal, enjoying a relaxing twilight dip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie reibungslos durch die regnerischen Morgenstraßen und erreichen Sie bequem die lokalen historischen Kirchen, ohne im Geringsten nass zu werden. Gegen Mittag parken Sie extrem sicher in der Nähe der beeindruckenden Burg und nutzen einen robusten Regenschirm für den kurzen Fußweg. Am Nachmittag macht der anhaltende, stetige Regen die Museen drinnen zum perfekten Zufluchtsort mit faszinierenden Exponaten. Lassen Sie den Abend gemütlich ausklingen, indem Sie vorsichtig zu einem Lokal fahren, sicher geschützt vor dem Wetter.",
+            "hu": "Vezessen zökkenőmentesen az esős reggeli utcákon, és érkezzen meg kényelmesen a helyi történelmi templomokhoz, anélkül, hogy a legkisebb mértékben is vizes lenne. Dél körül parkoljon le teljesen biztonságosan a lenyűgöző vár közelében, erős esernyőt használva a rövid sétához. Délután a tartós, heves eső miatt a benti múzeumok tökéletes menedéket jelentenek száraz és lenyűgöző kiállításaikkal. Zárja az estét egy helyi étterembe hajtva, tökéletes biztonságban a heves esőzésektől.",
+            "ro": "Conduceți fără probleme pe străzile ploioase de dimineață, ajungând confortabil la bisericile istorice locale fără a vă uda absolut deloc. La prânz, parcați în mare siguranță lângă castelul impresionant, folosind o umbrelă robustă pentru plimbarea scurtă. După-amiaza, ploaia constantă face ca muzeele interioare să fie refugiul perfect, oferind exponate fascinante într-o atmosferă uscată. Încheiați seara conducând cu atenție către un restaurant local, în siguranță departe de averse.",
+            "en": "Drive smoothly through the rainy morning streets, arriving comfortably at the local historical churches without getting wet in the slightest. Around noon, safely park near the impressive castle, using a robust umbrella for the very short walk to the ancient monuments. In the afternoon, the steady, heavy rain makes indoor museums the absolute perfect refuge, offering fascinating exhibits and a dry atmosphere. Wind down the evening by driving carefully to a local eatery, reflecting safely away from the showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja da Trindade",
+                "hu": "Igreja da Trindade",
+                "ro": "Igreja da Trindade",
+                "en": "Igreja da Trindade"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um Ihre Zeit im Regen beim Gehen deutlich zu minimieren, und genießen Sie zutiefst das ruhige, völlig trockene Innere dieser historischen Kirche.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy jelentősen csökkentse az esőben való séta idejét, és mélyen élvezze ennek a történelmi templomnak a nyugodt, teljesen száraz belső terét.",
+                "ro": "Parcați cât mai aproape posibil de intrare pentru a vă minimiza semnificativ timpul de mers pe ploaie și bucurați-vă profund de interiorul liniștit și complet uscat al acestei biserici istorice.",
+                "en": "Park as close to the entrance as possible to significantly minimize your time walking in the rain, and deeply enjoy the tranquil, completely dry interior of this historical church."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Pinhel",
+                "hu": "Castelo de Pinhel",
+                "ro": "Castelo de Pinhel",
+                "en": "Castelo de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie beim Verlassen des Autos einen äußerst stabilen Regenschirm mit; das Gelände kann ziemlich schlammig und rutschig sein, aber der Blick auf die Burg im starken Nebel ist spektakulär.",
+                "hu": "Vigyen magával egy rendkívül erős esernyőt, amikor kiszáll az autóból; a terület meglehetősen sáros és csúszós lehet, de a ködös vár látványa a heves esőben abszolút lenyűgöző.",
+                "ro": "Aduceți o umbrelă extrem de robustă când lăsați mașina; terenul poate fi destul de noroios și alunecos, dar vederea castelului înconjurat de ceață în ploaia torențială este absolut spectaculoasă.",
+                "en": "Bring a highly sturdy umbrella when leaving the car; the grounds can be quite muddy and slippery, but the dramatically misty castle view in the heavy rain is absolutely spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Metello de Nápoles",
+                "hu": "Casa Metello de Nápoles",
+                "ro": "Casa Metello de Nápoles",
+                "en": "Casa Metello de Nápoles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie clever das Auto, um plötzlichen starken Regengüssen erfolgreich auszuweichen, und werfen Sie einen kurzen, gut geschützten Blick auf die Architektur dieses großen alten Adelshauses.",
+                "hu": "Okosan használja az autót, hogy sikeresen elkerülje a hirtelen felhőszakadásokat, és vessen egy gyors, jól védett pillantást e nagy, régi nemesi ház kiválóan részletezett építészetére.",
+                "ro": "Folosiți inteligent mașina pentru a evita cu succes ploile torențiale bruște și aruncați o privire rapidă, bine adăpostită la arhitectura rafinat detaliată a acestei mari vechi case nobiliare.",
+                "en": "Cleverly use the car to successfully dodge the sudden heavy downpours and take a quick, well-sheltered look at the exquisitely detailed architecture of this grand old noble house."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Helena e António Seixas",
+                "hu": "Casa Museu Helena e António Seixas",
+                "ro": "Casa Museu Helena e António Seixas",
+                "en": "Casa Museu Helena e António Seixas"
+              },
+              "tip_5lang": {
+                "de": "Eine wahrhaft wunderbare Flucht nach drinnen direkt aus dem ekligen nassen Wetter; nehmen Sie sich Zeit für die riesigen Sammlungen, während das Auto in der Nähe bequem geparkt bleibt.",
+                "hu": "Egy igazán csodálatos beltéri menekülés egyenesen a csúnya nedves időjárásból; szánjon bőséges időt a hatalmas gyűjtemények átfogó felfedezésére, miközben az autó kényelmesen a közelben parkol.",
+                "ro": "O evadare interioară cu adevărat minunată direct de la vremea umedă și urâtă; luați-vă tot timpul explorând extensiv colecțiile uriașe în timp ce mașina rămâne parcată confortabil în apropiere.",
+                "en": "A truly wonderful indoor escape directly from the nasty wet weather; take your sweet time extensively exploring the huge collections while the car comfortably stays parked nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santo António",
+                "hu": "Igreja de Santo António",
+                "ro": "Igreja de Santo António",
+                "en": "Igreja de Santo António"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bequem direkt an diese religiöse Stätte heran, was einen hocheffizienten und schnellen Übergang vom trockenen, warmen Autositz direkt ins atemberaubende Kircheninnere bietet.",
+                "hu": "Hajtson kényelmesen egyenesen ehhez a vallási helyszínhez, amely rendkívül hatékony és gyors átmenetet kínál a száraz, meleg autósülésből közvetlenül a lenyűgöző templombelsőbe.",
+                "ro": "Conduceți convenabil direct până la acest sit religios, care oferă o tranziție foarte eficientă și rapidă de la scaunul uscat și cald al mașinii direct în interiorul uimitor al bisericii.",
+                "en": "Drive conveniently right up to this religious site, which offers a highly efficient and quick transition from your dry, warm car seat directly into the stunning church interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren langen Regentag perfekt mit einem entspannenden Bad im Hallenbad, lassen Sie den klatschnassen Regenschirm sicher im Auto und genießen Sie in vollen Zügen das warme Wasser.",
+                "hu": "Zárja hosszú esős napját tökéletesen egy mélyen pihentető beltéri úszással, hagyja ázott, nedves esernyőjét biztonságban az autóban, és élvezze teljes mértékben a meleg, zárt medence vizét.",
+                "ro": "Terminați-vă perfect ziua lungă și ploioasă cu o baie interioară profund relaxantă, lăsând umbrela udă și îmbibată în siguranță în mașină și bucurându-vă pe deplin de apele calde închise.",
+                "en": "Perfectly finish your long rainy day with a deeply relaxing indoor swim, safely leaving your soaked, wet umbrella inside the car and fully enjoying the warm, enclosed pool waters."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintermorgen äußerst komfortabel in einem beheizten Auto und cruisen Sie mühelos zwischen den herrlichen historischen Stätten von Pinhel hin und her. Mittags nutzen Sie das Fahrzeug als perfekten Schutzschild gegen den eisigen Wind, während Sie kurze Spaziergänge zu großen Herrenhäusern machen. Am Nachmittag beleuchtet die tiefstehende Sonne die Burgmauern ideal für atemberaubende Fotos, bevor Sie sich ins Auto zurückziehen. Beenden Sie die Tour unbedingt vor dem Sonnenuntergang um 17 Uhr für eine sichere Heimkehr vor dem Frost.",
+            "hu": "Kezdje a téli reggelt egy fűtött autó rendkívüli kényelmében, könnyedén cirkálva Pinhel csodálatos történelmi helyszínei között. Délben használja a járművet tökéletes pajzsként a fagyos szelek ellen, miközben rendkívül rövid sétákat tesz a nagyszerű kúriákhoz. Délután az alacsonyan járó téli nap ideálisan megvilágítja a várfalakat egy lélegzetelállító fotóhoz, mielőtt visszavonulna az autóba. Zárja le az autós túrát feltétlenül a 17 órás naplemente előtt, biztosítva a biztonságos közlekedést a jeges éjszaka beállta előtt.",
+            "ro": "Începeți dimineața de iarnă în confortul extrem al unei mașini încălzite, navigând fără efort între siturile istorice magnifice din Pinhel. La prânz, folosiți vehiculul ca scut perfect împotriva vânturilor înghețate în timpul plimbărilor foarte scurte către conace grandioase. După-amiaza, soarele coborât de iarnă luminează ideal zidurile castelului pentru fotografii uimitoare înainte de a vă retrage. Încheiați turul auto obligatoriu înainte de apusul de la ora 17, asigurând navigația sigură înainte de lăsarea nopții înghețate.",
+            "en": "Start your winter morning in the extreme comfort of a heated car, cruising effortlessly between Pinhel's magnificent historical sites. By midday, utilize the vehicle as a perfect shield to block the freezing winds as you make very short walks to grand manors. In the afternoon, the low winter sun perfectly illuminates the castle walls, making it an ideal time for stunning photos before quickly retreating to the car. Conclude your driving tour strictly before the 5 PM sunset, ensuring safe navigation before the icy night fully sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja da Trindade",
+                "hu": "Igreja da Trindade",
+                "ro": "Igreja da Trindade",
+                "en": "Igreja da Trindade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Sitzheizung auf der Fahrt in vollen Zügen und treten Sie nur kurz in die eiskalte Luft hinaus, um die unglaublich feierliche Winterruhe tief im Inneren der Kirche zu erleben.",
+                "hu": "Élvezze teljes mértékben az ülésfűtést az odaúton, és csak röviden lépjen ki a fagyos, hideg levegőre, hogy teljes mértékben megtapasztalja a hihetetlenül ünnepélyes téli békét a templom mélyén.",
+                "ro": "Bucurați-vă pe deplin de scaunele încălzite pe drum și ieșiți doar scurt în aerul extrem de rece pentru a experimenta pe deplin pacea de iarnă incredibil de solemnă din adâncul bisericii.",
+                "en": "Thoroughly enjoy the heated seats on your drive over, and step only briefly into the freezing cold air to fully experience the incredibly solemn winter peace deep inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo de Pinhel",
+                "hu": "Castelo de Pinhel",
+                "ro": "Castelo de Pinhel",
+                "en": "Castelo de Pinhel"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren dicken Wintermantel fest verschlossen, da die rauen Winde auf der Höhe der Burg unglaublich beißend sind; wärmen Sie sich danach sofort im laufenden Auto auf.",
+                "hu": "Tartsa vastag télikabátját biztonságosan bekapcsolva, mivel a zord szelek a vár magasságában hihetetlenül metszőek; a látogatás után azonnal melegedjen fel a járó motorú autóban.",
+                "ro": "Păstrați-vă haina groasă de iarnă bine închisă, deoarece vânturile aspre la elevația înaltă a castelului sunt incredibil de tăioase; asigurați-vă că vă încălziți în mașina pornită imediat după.",
+                "en": "Keep your heavy winter coat securely fastened as the harsh winds at the high castle elevation are incredibly biting; make sure to warm up in the running car immediately after your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Metello de Nápoles",
+                "hu": "Casa Metello de Nápoles",
+                "ro": "Casa Metello de Nápoles",
+                "en": "Casa Metello de Nápoles"
+              },
+              "tip_5lang": {
+                "de": "Springen Sie schnell aus Ihrem wunderbar warmen Fahrzeug für ein sehr schnelles, aber atemberaubendes Foto dieser schönen Fassade, bevor das kostbare winterliche Tageslicht deutlich schwindet.",
+                "hu": "Ugorjon ki gyorsan csodálatosan meleg járművéből egy nagyon gyors, de lenyűgöző fotó erejéig erről a gyönyörű homlokzatról, közvetlenül azelőtt, hogy az értékes téli nappali fény jelentősen gyengülni kezd.",
+                "ro": "Săriți rapid din vehiculul dumneavoastră minunat de cald pentru o fotografie foarte rapidă, dar uimitoare, a acestei fațade frumoase chiar înainte ca prețioasa lumină a zilei de iarnă să scadă semnificativ.",
+                "en": "Quickly hop out of your wonderfully warm vehicle for a very fast but stunning photograph of this beautiful facade right before the precious winter daylight begins to fade significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Helena e António Seixas",
+                "hu": "Casa Museu Helena e António Seixas",
+                "ro": "Casa Museu Helena e António Seixas",
+                "en": "Casa Museu Helena e António Seixas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und verbringen Sie eine äußerst komfortable Stunde drinnen, völlig abgeschirmt und sicher vor der bitteren, eiskalten winterlichen Nachmittagskälte.",
+                "hu": "Parkoljon kényelmesen a közelben, és töltsön el egy rendkívül kényelmes órát a bent a helyi történelem megismerésével, teljesen védve és biztonságban a keserű, fagyos téli délutáni hidegtől.",
+                "ro": "Parcați convenabil în apropiere și petreceți o oră extrem de confortabilă în interior învățând despre istoria locală, rămânând complet protejați și în siguranță de frigul amar și înghețat al după-amiezii de iarnă.",
+                "en": "Park conveniently close by and spend a highly comfortable hour inside learning about local history, remaining entirely shielded and safe from the bitter, freezing winter afternoon chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Santo António",
+                "hu": "Igreja de Santo António",
+                "ro": "Igreja de Santo António",
+                "en": "Igreja de Santo António"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie klugerweise das Auto, um diese Stätte bei Einbruch der tiefen Abendkälte mühelos und warm zu erreichen, sodass Sie es außergewöhnlich gemütlich haben, während Sie das Erbe bewundern.",
+                "hu": "Okosan használja az autót, hogy könnyedén és melegen elérje ezt a helyszínt, ahogy a mély esti hideg teljesen beáll, így kivételesen otthonosan érezheti magát, miközben megcsodálja a vallási örökséget.",
+                "ro": "Folosiți inteligent mașina pentru a ajunge fără efort și la căldură la acest sit pe măsură ce frigul profund al serii se instalează complet, asigurându-vă că rămâneți excepțional de confortabil admirând moștenirea.",
+                "en": "Smartly use the car to effortlessly and warmly reach this site as the deep evening chill completely sets in, ensuring you stay exceptionally cozy while fully admiring the religious heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Kurz bevor die gefährlichen Straßen nach 17 Uhr möglicherweise komplett zufrieren, genießen Sie ein wunderbar warmes Bad im Hallenbad und lassen die eisigen Außentemperaturen weit hinter sich.",
+                "hu": "Közvetlenül azelőtt, hogy a veszélyes utak esetleg teljesen lefagynának 17 óra után, élvezze a csodálatosan meleg beltéri úszást, boldogan maga mögött hagyva a veszélyesen fagyos kinti hőmérsékleteket.",
+                "ro": "Chiar înainte ca drumurile periculoase să înghețe complet după ora 17, bucurați-vă de o înot minunat de cald în interior, lăsând cu bucurie mult în urmă temperaturile exterioare periculos de înghețate.",
+                "en": "Right before the hazardous roads potentially freeze entirely after 5 PM, enjoy a wonderfully warm indoor swim, happily leaving the dangerously freezing outdoor temperatures far behind you."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Kelenteng Poncowinatan templom spirituális légkörében, majd sétáljon el a közeli Tugu Pal Putih ikonikus fehér emlékművéhez, amely Yogyakarta nyüzsgő utcai életének egyik legfőbb tájékozódási pontja.\n\nAhogy közeledik a dél, vonuljon vissza a Romo Mangun Múzeum kreatív terébe, ahol felfedezheti Indonézia egyik legnagyobb építészének és társadalmi szószólójának zseniális örökségét egy gyönyörűen megtervezett környezetben.\n\nDélután fedezze fel a Dharma Wiratama Múzeum hatalmas gyűjteményeit. Itt nyomon követheti a nemzet hadtörténetét az egykori gyarmati épületben elhelyezett lenyűgöző diorámákon és történelmi fegyvereken keresztül.\n\nAz este közeledtével látogasson el a Jembatan Kewekhez. Ez a történelmi vasúti híd látványos kilátást kínál, ahonnan megfigyelheti a város nappalból éjszakába hajló átmenetét és a helyi vibráló energiákat.",
         "ro": "Începeți dimineața în atmosfera spirituală a templului Kelenteng Poncowinatan. La o scurtă plimbare se află iconicul Tugu Pal Putih, un monument alb strălucitor care ancorează viața stradală plină de viață a orașului Yogyakarta.\n\nPe măsură ce se apropie amiaza, retrageți-vă în spațiul creativ al Muzeului Romo Mangun, unde veți descoperi moștenirea unuia dintre cei mai mari arhitecți ai Indoneziei într-un cadru frumos proiectat și liniștit.\n\nPetreceți după-amiaza explorând colecțiile vaste de la Muzeul Dharma Wiratama. Aici, puteți urmări istoria militară a națiunii prin diorame fascinante și arme istorice adăpostite într-o clădire colonială impresionantă.\n\nOdată cu lăsarea serii, îndreptați-vă spre Jembatan Kewek. Acest pod feroviar istoric oferă un punct de observație spectaculos pentru a privi tranziția orașului de la zi la noapte, surprinzând energia locală vibrantă.",
         "en": "Begin your morning immersing yourself in the spiritual atmosphere of Kelenteng Poncowinatan, taking in the intricate details. Just a short stroll away stands the iconic Tugu Pal Putih, a brilliant white monument that anchors Yogyakarta’s bustling street life.\n\nAs midday approaches, retreat into the creative space of the Romo Mangun Museum, where you will discover the brilliant legacy of one of Indonesia’s greatest architects and social advocates in a beautifully designed setting.\n\nSpend your afternoon exploring the vast collections at the Dharma Wiratama Museum. Here, you can trace the nation's military history through fascinating dioramas and historic weaponry housed within a striking colonial building.\n\nAs evening falls, make your way to Jembatan Kewek. This historic railway bridge offers a spectacular vantage point to watch the city transition from day to night, capturing the vibrant local energy."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am farbenfrohen Tempel, wo das Vordach Schutz vor dem warmen Tropenregen bietet. Mittags flüchten wir in die Museen der Stadt, die nicht nur trockene Räume, sondern auch tiefe Einblicke in die Geschichte bieten. Am Nachmittag wird der Weg zum Jembatan Kewek etwas rutschig, aber die Atmosphäre ist einzigartig. Den Abend lassen wir sicher unter einem festen Dach ausklingen.",
+            "hu": "A napot a színes templom fedett folyosóin kezdjük, védve a trópusi esőtől. Délben a város múzeumaiba húzódunk be, ahol a száraz termekben mélyülhetünk el a történelemben. Délután a Jembatan Kewek felé vezető út kicsit csúszós lehet, de az esőben úszó város látványa kárpótol. Az estét egy biztos tető alatt, a városi fényeket figyelve zárjuk.",
+            "ro": "Ziua începe la templul colorat, unde acoperișul oferă adăpost împotriva ploii tropicale calde. La prânz ne refugiem în muzeele orașului, care oferă nu doar spații uscate, ci și o incursiune în istorie. După-amiaza, drumul spre Jembatan Kewek poate fi alunecos, dar atmosfera este unică. Seara se încheie în siguranță sub un acoperiș solid, admirând luminile orașului.",
+            "en": "The day starts at the colorful temple, where the porch provides shelter from the warm tropical rain. At noon, we retreat into the city's museums, offering dry spaces and deep historical insights. In the afternoon, the walk to Jembatan Kewek gets a bit slippery, but the rain-washed city looks unique. We end the evening safely under a solid roof, watching the city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kelenteng Poncowinatan",
+                "hu": "Kelenteng Poncowinatan",
+                "ro": "Kelenteng Poncowinatan",
+                "en": "Kelenteng Poncowinatan"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die roten Ornamente vom überdachten Eingang aus, während der Regen draußen prasselt. Tipp: Tragen Sie rutschfeste Schuhe auf den glatten Fliesen.",
+                "hu": "Csodáld meg a vörös díszítéseket a fedett bejárat alól, miközben kint dobol az eső. Tipp: Viselj csúszásmentes cipőt a vizes és sima járólapokon.",
+                "ro": "Admirați ornamentele roșii de la intrarea acoperită în timp ce ploaia bate afară. Sfat: Purtați încălțăminte antiderapantă pe plăcile de gresie umede.",
+                "en": "Admire the red ornaments from the covered entrance while the rain drums outside. Tip: Wear non-slip shoes for the smooth and wet floor tiles."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Pal Putih Yogyakarta",
+                "hu": "Tugu Pal Putih Yogyakarta",
+                "ro": "Tugu Pal Putih Yogyakarta",
+                "en": "Tugu Pal Putih Yogyakarta"
+              },
+              "tip_5lang": {
+                "de": "Dieses Wahrzeichen lässt sich schnell fotografieren; nutzen Sie die Markisen der nahen Läden als Unterstand. Tipp: Ein Regenschirm ist hier praktischer als ein Poncho.",
+                "hu": "Ez a jelkép gyorsan lefotózható; használd a közeli boltok előtetőit menedékként. Tipp: Itt egy esernyő praktikusabb, mint a nehézkes esőkabát.",
+                "ro": "Acest simbol poate fi fotografiat rapid; folosiți copertinele magazinelor din apropiere ca adăpost. Sfat: O umbrelă este mai practică aici decât o pelerină.",
+                "en": "This landmark can be photographed quickly; use the nearby shop awnings as shelter. Tip: An umbrella is more practical here than a bulky poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "Romo Mangun Museum",
+                "hu": "Romo Mangun Múzeum",
+                "ro": "Muzeul Romo Mangun",
+                "en": "Romo Mangun Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die sozialen Architekturkonzepte im Trockenen, während der Regen den Flusspegel steigen lässt. Tipp: Achten Sie auf die Abtropfmatten am Eingang.",
+                "hu": "Fedezd fel a szociális építészeti koncepciókat a száraz belső térben, miközben az eső duzzasztja a folyót. Tipp: Használd a bejáratnál kihelyezett lábtörlőket.",
+                "ro": "Explorați conceptele de arhitectură socială în interiorul uscat în timp ce ploaia umflă râul. Sfat: Folosiți covorașele de la intrare pentru a nu aluneca.",
+                "en": "Explore the social architectural concepts in the dry interior while the rain swells the river nearby. Tip: Use the floor mats at the entrance to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pusat TNI AD \"Dharma Wiratama\"",
+                "hu": "TNI AD Központi Múzeum",
+                "ro": "Muzeul Pusat TNI AD",
+                "en": "Museum Pusat TNI AD \"Dharma Wiratama\""
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Hallen sind der perfekte Ort, um eine Stunde lang trocken in die Militärgeschichte einzutauchen. Tipp: Bleiben Sie wegen des Schlamms auf den Hauptwegen.",
+                "hu": "A tágas csarnokok tökéletesek arra, hogy egy órát szárazon tölts a hadtörténeti kiállítások között. Tipp: A sár miatt maradj a kövezett főutakon a kertben.",
+                "ro": "Halele spațioase sunt locul perfect pentru a petrece o oră la adăpost printre exponatele de istorie militară. Sfat: Din cauza noroiului, rămâneți pe aleile principale.",
+                "en": "The spacious halls are the perfect place to spend a dry hour immersed in military history exhibits. Tip: Stay on the paved main paths to avoid the garden mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Jembatan Kewek",
+                "hu": "Jembatan Kewek",
+                "ro": "Jembatan Kewek",
+                "en": "Jembatan Kewek"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Gleise ist bei Regen dramatisch, aber achten Sie auf Pfützen durch vorbeifahrende Autos. Tipp: Verstauen Sie Ihr Handy in einer wasserdichten Hülle.",
+                "hu": "A sínekre nyíló kilátás drámai esőben, de vigyázz az autók által felcsapott vízre. Tipp: Tartsd a telefonodat vízhatlan tokban a fotózás közben.",
+                "ro": "Vederea spre șine este dramatică pe ploaie, dar atenție la apa stropită de mașinile care trec. Sfat: Păstrați telefonul într-o husă impermeabilă pentru poze.",
+                "en": "The view over the tracks is dramatic in the rain, but watch out for water splashed by passing cars. Tip: Keep your phone in a waterproof case while filming."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft macht den Spaziergang zum Tempel besonders angenehm. Mittags bietet der Museumsbesuch eine willkommene Pause von der direkten Sonne, die auch im Winter intensiv sein kann. Am Nachmittag genießen wir das klare Licht an der Kewek-Brücke, bevor die Dunkelheit gegen 17:00 Uhr überraschend schnell hereinbricht. Ein wärmeres Oberteil für die Abendstunden ist nun ratsam.",
+            "hu": "A hűvösebb reggeli levegő különösen kellemessé teszi a sétát a templomhoz. Délben a múzeumlátogatás felfrissülést nyújt a közvetlen napfény elől, ami télen is erős lehet. Délután élvezzük a tiszta fényeket a Kewek-hídnál, mielőtt 17:00 körül hirtelen besötétedik. Estére érdemes egy vékonyabb pulóvert vagy kendőt készíteni a lehűlés miatt.",
+            "ro": "Aerul răcoros de dimineață face plimbarea spre templu deosebit de plăcută. La prânz, vizita la muzeu oferă o pauză binemeritată de la soarele direct, care poate fi intens și iarna. După-amiaza ne bucurăm de lumina clară de la podul Kewek, înainte ca întunericul să se lase rapid în jurul orei 17:00. O haină mai groasă este recomandată pentru seară.",
+            "en": "The cool morning air makes the walk to the temple especially pleasant. At noon, museum visits provide a welcome break from the direct sun, which can still be intense in winter. In the afternoon, we enjoy the clear light at Kewek Bridge before darkness falls quickly around 17:00. A light sweater or shawl is advisable for the cooler evening hours."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kelenteng Poncowinatan",
+                "hu": "Kelenteng Poncowinatan",
+                "ro": "Kelenteng Poncowinatan",
+                "en": "Kelenteng Poncowinatan"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Winterkante beleuchtet die Schnitzereien des Tempels wunderschön ohne Dunst. Tipp: Starten Sie früh, um die frischesten Temperaturen zu nutzen.",
+                "hu": "Az alacsony téli napfény gyönyörűen, pára nélkül világítja meg a templom faragványait. Tipp: Indulj korán, hogy kihasználd a legfrissebb reggeli időt.",
+                "ro": "Lumina joasă a soarelui de iarnă luminează frumos sculpturile templului, fără pâclă. Sfat: Porniți devreme pentru a profita de temperaturile cele mai plăcute.",
+                "en": "The low winter sun illuminates the temple carvings beautifully without the usual haze. Tip: Start early to take advantage of the freshest morning temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Pal Putih Yogyakarta",
+                "hu": "Tugu Pal Putih Yogyakarta",
+                "ro": "Tugu Pal Putih Yogyakarta",
+                "en": "Tugu Pal Putih Yogyakarta"
+              },
+              "tip_5lang": {
+                "de": "Das Wahrzeichen wirkt vor dem klaren blauen Winterhimmel besonders prächtig. Tipp: Die Sichtweite ist jetzt am besten für Fotos aus der Ferne.",
+                "hu": "A jelkép különösen pompásan mutat a tiszta, kék téli égbolt előtt. Tipp: A látótávolság most a legjobb a távolabbi fotók készítéséhez.",
+                "ro": "Simbolul arată deosebit de impunător pe fundalul cerului senin de iarnă. Sfat: Vizibilitatea este acum optimă pentru fotografii de la distanță.",
+                "en": "The landmark looks particularly grand against the clear blue winter sky. Tip: Visibility is now at its best for capturing photos from a distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Romo Mangun Museum",
+                "hu": "Romo Mangun Múzeum",
+                "ro": "Muzeul Romo Mangun",
+                "en": "Romo Mangun Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur lässt sich ohne die drückende Sommerhitze entspannt im Freien erkunden. Tipp: Die Luftfeuchtigkeit ist niedriger, was das Atmen erleichtert.",
+                "hu": "Az építészeti megoldások a fojtogató hőség nélkül, kényelmesen felfedezhetők a szabadban is. Tipp: A páratartalom alacsonyabb, ami könnyebbé teszi a túrát.",
+                "ro": "Soluțiile arhitecturale pot fi explorate relaxat în aer liber, fără căldura sufocantă. Sfat: Umiditatea este mai scăzută, ceea ce face plimbarea mai ușoară.",
+                "en": "The architectural designs can be explored comfortably outdoors without the stifling heat. Tip: Humidity is lower now, making the outdoor walk much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pusat TNI AD \"Dharma Wiratama\"",
+                "hu": "TNI AD Központi Múzeum",
+                "ro": "Muzeul Pusat TNI AD",
+                "en": "Museum Pusat TNI AD \"Dharma Wiratama\""
+              },
+              "tip_5lang": {
+                "de": "Das koloniale Gebäude speichert die Kühle der Nacht und ist mittags ein wunderbarer Rückzugsort. Tipp: Planen Sie den Ausgang vor 16:30 Uhr ein.",
+                "hu": "A koloniális épület jól tartja az éjszakai hűvöst, így délben csodás menedék a nap elől. Tipp: Tervezd úgy, hogy 16:30-ig befejezd a látogatást.",
+                "ro": "Clădirea colonială păstrează răcoarea nopții, fiind un refugiu excelent la amiază. Sfat: Planificați-vă ieșirea înainte de ora 16:30 pentru a evita amurgul.",
+                "en": "The colonial building retains the night's coolness, making it a wonderful midday retreat. Tip: Plan to finish your visit by 16:30 to avoid the early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Jembatan Kewek",
+                "hu": "Jembatan Kewek",
+                "ro": "Jembatan Kewek",
+                "en": "Jembatan Kewek"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dämmrige Atmosphäre über den Gleisen, wenn die Lichter der Stadt früher angehen. Tipp: Ein leichter Schal schützt vor dem kühlen Abendwind.",
+                "hu": "Éld át a sínek feletti alkonyi hangulatot, amikor a város fényei korábban gyúlnak ki. Tipp: Egy könnyű sál megvéd a hűvös esti szél ellen a hídon.",
+                "ro": "Experimentați atmosfera amurgului peste șine, când luminile orașului se aprind mai devreme. Sfat: O eșarfă ușoară vă protejează de vântul răcoros de seară.",
+                "en": "Experience the twilight atmosphere over the tracks when the city lights turn on earlier. Tip: A light scarf will protect you from the cool evening breeze on the bridge."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a Pangeran Diponegoro Emlékműnél, elmerülve a történelmi jávai háború történeteiben. Tekerjen tovább a város utcáin, hogy elérje a fenséges Tugu Pal Putih-t, egy büszkén álló alapvető nevezetességet.\n\nDélben tekerjen a nyugodt Pura Pakualaman, egy kisebb királyi palota felé, amely mély történelmi betekintést nyújt. Közvetlenül a sarkon csendes elmélkedésre lelhet a gyönyörű Gereja Katolik Santo Yusuf Bintaran templomban.\n\nA délután ritmusváltást hoz a buja Gembira Loka Állatkertben, ahol kényelmesen leparkolhatja kerékpárját, és felfedezheti az egzotikus vadvilágot egy vibráló, természetes környezetben, csodás menedékként.\n\nZárja túráját naplementekor a lenyűgöző Affandi Múzeumban. A jellegzetes építészet és a mesteri expresszionista festmények tökéletes, kulturálisan gazdagító befejezést nyújtanak az aktív napnak.",
         "ro": "Începeți turul cu bicicleta la Monumentul Pangeran Diponegoro, aprofundând poveștile istoricului Război din Java. Pedalați pe străzile orașului pentru a ajunge la maiestuosul Tugu Pal Putih, un punct de reper esențial.\n\nPentru amiază, mergeți spre serinul Pura Pakualaman, un palat regal minor care oferă perspective istorice profunde. Chiar după colț, găsiți o contemplare liniștită la frumoasa biserică Catolică Santo Yusuf Bintaran.\n\nDupă-amiaza aduce o schimbare de ritm la luxurianta Grădină Zoologică Gembira Loka, unde vă puteți parca bicicleta pentru a explora fauna exotică într-un cadru natural vibrant, oferind o evadare minunată din oraș.\n\nÎncheiați călătoria la apusul soarelui la fascinantul Muzeu Affandi. Arhitectura distinctivă și picturile expresioniste magistrale oferă un final perfect, îmbogățitor din punct de vedere cultural, pentru ziua activă.",
         "en": "Kick off your cycling tour at the Monumen Pangeran Diponegoro, delving into tales of the historic Java War. Pedal onward through the city streets to reach the majestic Tugu Pal Putih, an essential landmark standing proudly.\n\nFor midday, ride towards the serene Pura Pakualaman, a minor royal palace offering profound historical insights. Just around the corner, find quiet contemplation at the beautiful Gereja Katolik Santo Yusuf Bintaran.\n\nThe afternoon brings a shift in pace at the lush Gembira Loka Zoo, where you can easily park your bike and explore exotic wildlife in a vibrant, natural setting that offers a wonderful escape from the city.\n\nWrap up your ride as the sun sets at the mesmerizing Affandi Museum. The distinctive architecture and the masterful expressionist paintings inside provide a perfect, culturally enriching end to your active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht, bietet aber eine erfrischende Perspektive auf die Stadt. Wir starten an Museen, die langen Unterschlupf gewähren. Mittags nutzen wir historische Stätten mit großen Hallen zur Pause. Der Nachmittag im Zoo kann etwas schlammig sein, dafür sind die Tiere oft aktiver. Der Tag endet im Affandi-Museum, wo die Kunst vor den Elementen sicher ist.",
+            "hu": "A bringázás esőben óvatosságot igényel, de frissítő perspektívát ad a városnak. Múzeumoknál kezdünk, ahol hosszan megpihenhetünk. Délben nagy csarnokokkal rendelkező történelmi helyszíneken tartunk szünetet. Az állatkerti délután saras lehet, de az állatok aktívabbak. A nap az Affandi Múzeumban zárul, ahol a művészet biztonságban van az elemektől.",
+            "ro": "Ciclismul pe ploaie necesită prudență, dar oferă o perspectivă revigorantă asupra orașului. Începem la muzee care oferă adăpost prelungit. La prânz folosim siturile istorice cu hale mari pentru pauze. După-amiaza la grădina zoologică poate fi noroioasă, dar animalele sunt mai active. Ziua se încheie la Muzeul Affandi, unde arta este protejată.",
+            "en": "Cycling in the rain requires caution but offers a refreshing perspective of the city. We start at museums that provide long-term shelter. At noon, we use historical sites with large halls for breaks. The afternoon at the zoo might be muddy, but the animals are often more active. The day ends at the Affandi Museum, where art is safe from the elements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Monumen Pangeran Diponegoro",
+                "hu": "Pangeran Diponegoro Emlékmúzeum",
+                "ro": "Muzeul Monumen Pangeran Diponegoro",
+                "en": "Museum Monumen Pangeran Diponegoro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach und erkunden Sie die Heldenruhm-Halle im Trockenen. Tipp: Ein Poncho schützt beim Radfahren besser als ein Schirm.",
+                "hu": "Parkold a bringát az előtető alatt, és fedezd fel a hősök csarnokát szárazon. Tipp: Biciklizés közben egy esőponcho jobban véd, mint egy ernyő.",
+                "ro": "Parcați bicicleta sub copertină și explorați sala eroilor la adăpost. Sfat: O pelerină de ploaie protejează mai bine decât o umbrelă în timp ce pedalați.",
+                "en": "Park your bike under the awning and explore the hall of heroes in the dry. Tip: A poncho protects better than an umbrella while you are cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Pal Putih Yogyakarta",
+                "hu": "Tugu Pal Putih Yogyakarta",
+                "ro": "Tugu Pal Putih Yogyakarta",
+                "en": "Tugu Pal Putih Yogyakarta"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf der nassen Kreuzung rund um das Monument. Tipp: Halten Sie kurz an einem der überdachten Kioske für ein schnelles Foto.",
+                "hu": "Vigyázz a fékezéssel a vizes útkereszteződésben az emlékmű körül. Tipp: Állj meg rövid időre az egyik fedett kioszknál egy gyors fotó erejéig.",
+                "ro": "Atenție la frânare în intersecția umedă din jurul monumentului. Sfat: Opriți scurt la unul dintre chioșcurile acoperite pentru o fotografie rapidă.",
+                "en": "Be careful when braking at the wet intersection around the monument. Tip: Stop briefly at one of the covered kiosks for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Pakualaman",
+                "hu": "Pura Pakualaman",
+                "ro": "Pura Pakualaman",
+                "en": "Pura Pakualaman"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Pavillons des Palastes bieten hervorragenden Schutz vor Schauern. Tipp: Die Bodenplatten können im nassen Zustand sehr rutschig sein.",
+                "hu": "A palota tágas pavilonjai kiváló védelmet nyújtanak a záporok elől. Tipp: A padlóburkolat vizesen nagyon csúszós lehet, közlekedj óvatosan.",
+                "ro": "Pavilioanele largi ale palatului oferă protecție excelentă împotriva averselor. Sfat: Plăcile de pavaj pot fi foarte alunecoase când sunt ude.",
+                "en": "The palace's spacious pavilions provide excellent shelter from rain showers. Tip: The floor tiles can be very slippery when wet; walk carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Katolik Santo Yusuf Bintaran",
+                "hu": "Gereja Katolik Santo Yusuf Bintaran",
+                "ro": "Gereja Katolik Santo Yusuf Bintaran",
+                "en": "Gereja Katolik Santo Yusuf Bintaran"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille der Kirche für eine trockene Pause, während draußen der Regen fällt. Tipp: Stellen Sie Ihr Fahrrad sicher unter einem Baum oder Dach ab.",
+                "hu": "Használd ki a templom csendjét egy száraz pihenőre, amíg kint esik az eső. Tipp: Támaszd a bringát egy fa vagy tető alá, hogy ne ázzon el az ülés.",
+                "ro": "Folosiți liniștea bisericii pentru o pauză uscată în timp ce afară plouă. Sfat: Parcați bicicleta sub un copac sau un acoperiș pentru a păstra șaua uscată.",
+                "en": "Use the silence of the church for a dry break while it rains outside. Tip: Park your bike under a tree or awning to keep the seat dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Gembira Loka Zoo",
+                "hu": "Gembira Loka Állatkert",
+                "ro": "Grădina Zoologică Gembira Loka",
+                "en": "Gembira Loka Zoo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Reptilien- und Vogelhäuser, die komplett überdacht sind. Tipp: Meiden Sie unbefestigte Wege, da diese schnell aufweichen und schlammig werden.",
+                "hu": "Látogasd meg a hüllő- és madárházakat, amelyek teljesen fedettek. Tipp: Kerüld a földutakat, mert gyorsan feláznak és sárossá válnak az esőben.",
+                "ro": "Vizitați pavilioanele pentru reptile și păsări, care sunt complet acoperite. Sfat: Evitați potecile neasfaltate, deoarece se înmoaie și devin noroioase.",
+                "en": "Visit the reptile and bird houses, which are completely covered. Tip: Avoid unpaved paths as they soften quickly and become muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Affandi Museum",
+                "hu": "Affandi Múzeum",
+                "ro": "Muzeul Affandi",
+                "en": "Affandi Museum"
+              },
+              "tip_5lang": {
+                "de": "Die wellenförmigen Dächer des Museums sind ein Kunstwerk für sich und halten Sie trocken. Tipp: Der perfekte Ort, um den Tag bei Regengeräuschen zu beenden.",
+                "hu": "A múzeum hullámzó tetői önmagukban is műalkotások, és szárazon tartanak. Tipp: Tökéletes hely a nap lezárására az eső kopogását hallgatva.",
+                "ro": "Acoperișurile ondulate ale muzeului sunt o operă de artă în sine și vă țin uscat. Sfat: Locul perfect pentru a încheia ziua ascultând ropotul ploii.",
+                "en": "The museum's waving roofs are works of art themselves and keep you dry. Tip: It is the perfect place to end the day listening to the sound of the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die beste Zeit für Radtouren, da die Luftfeuchtigkeit niedriger ist. Wir erkunden Museen und Tempel unter klarem Himmel. Mittags ist das Radfahren angenehm, da der kühle Fahrtwind die Sonne ausgleicht. Am späten Nachmittag besuchen wir den Zoo und das Affandi-Museum, wobei wir die frühe Dämmerung gegen 17:00 Uhr im Blick behalten, um sicher zurückzukehren.",
+            "hu": "A tél a legjobb időszak a biciklizésre az alacsonyabb páratartalom miatt. Múzeumokat és templomokat fedezünk fel tiszta égbolt alatt. Délben is kellemes tekerni, a menetszél ellensúlyozza a napsütést. Késő délután az állatkert és az Affandi Múzeum következik, szem előtt tartva a 17:00 körüli korai sötétedést.",
+            "ro": "Iarna este cel mai bun moment pentru plimbări cu bicicleta datorită umidității scăzute. Explorăm muzee și temple sub cerul senin. La prânz este plăcut să pedalezi, briza compensând soarele. După-amiaza târziu vizităm grădina zoologică și Muzeul Affandi, având în vedere amurgul timpuriu de la ora 17:00.",
+            "en": "Winter is the best time for cycling tours as the humidity is lower. We explore museums and temples under clear skies. At noon, cycling is pleasant as the breeze balances the sun. In the late afternoon, we visit the zoo and Affandi Museum, keeping an eye on the early 17:00 dusk to return safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum Monumen Pangeran Diponegoro",
+                "hu": "Pangeran Diponegoro Emlékmúzeum",
+                "ro": "Muzeul Monumen Pangeran Diponegoro",
+                "en": "Museum Monumen Pangeran Diponegoro"
+              },
+              "tip_5lang": {
+                "de": "Die historische Anlage wirkt in der klaren Winterluft besonders ruhig und würdevoll. Tipp: Genießen Sie die Außenanlagen ohne ins Schwitzen zu kommen.",
+                "hu": "A történelmi épületegyüttes a tiszta téli levegőben különösen nyugodt és méltóságteljes. Tipp: Élvezd a külső részeket anélkül, hogy megizzadnál.",
+                "ro": "Complexul istoric pare deosebit de liniștit și demn în aerul clar de iarnă. Sfat: Bucurați-vă de zonele exterioare fără a transpira din cauza căldurii.",
+                "en": "The historical complex feels particularly peaceful and dignified in the clear winter air. Tip: Enjoy the outdoor areas without breaking a sweat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tugu Pal Putih Yogyakarta",
+                "hu": "Tugu Pal Putih Yogyakarta",
+                "ro": "Tugu Pal Putih Yogyakarta",
+                "en": "Tugu Pal Putih Yogyakarta"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für Fotos bei optimalen Lichtverhältnissen ohne den sommerlichen Dunstschleier. Tipp: Nutzen Sie den Schatten der Bäume für eine kurze Trinkpause.",
+                "hu": "Kötelező fotóhelyszín az optimális fényviszonyok mellett, nyári párafátyol nélkül. Tipp: Használd a fák árnyékát egy rövid frissítő szünetre.",
+                "ro": "Un loc obligatoriu pentru fotografii în condiții de lumină optimă, fără pâcla verii. Sfat: Folosiți umbra copacilor pentru o scurtă pauză de hidratare.",
+                "en": "A must-stop for photos with optimal lighting conditions and no summer haze. Tip: Use the shade of the trees for a quick hydration break."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Pakualaman",
+                "hu": "Pura Pakualaman",
+                "ro": "Pura Pakualaman",
+                "en": "Pura Pakualaman"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Palasthöfe bei milden Temperaturen, was den Aufenthalt hier sehr entspannt macht. Tipp: Die Vormittagssonne ist ideal für Architekturdetails.",
+                "hu": "Fedezd fel a palota udvarait enyhe hőmérsékletben, ami nagyon pihentetővé teszi az itt-tartózkodást. Tipp: A délelőtti napfény ideális az építészeti részletekhez.",
+                "ro": "Explorați curțile palatului la temperaturi blânde, ceea ce face vizita foarte relaxantă. Sfat: Soarele de dimineață este ideal pentru detaliile arhitecturale.",
+                "en": "Explore the palace courtyards in mild temperatures, which makes staying here very relaxing. Tip: The morning sun is ideal for capturing architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Katolik Santo Yusuf Bintaran",
+                "hu": "Gereja Katolik Santo Yusuf Bintaran",
+                "ro": "Gereja Katolik Santo Yusuf Bintaran",
+                "en": "Gereja Katolik Santo Yusuf Bintaran"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Brise in der Nähe des Gebäudes ist nach einer Radetappe sehr erfrischend. Tipp: Die klaren Wintertage lassen die Buntglasfenster hell erstrahlen.",
+                "hu": "Az épület környékén lévő hűvös szellő felfrissít egy hosszabb tekerés után. Tipp: A tiszta téli napokon a színes üvegablakok ragyogóan fénylenek.",
+                "ro": "Briza răcoroasă de lângă clădire este foarte revigorantă după o etapă de pedalat. Sfat: Zilele senine de iarnă fac ferestrele cu vitralii să strălucească.",
+                "en": "The cool breeze near the building is very refreshing after a cycling stretch. Tip: Clear winter days make the stained-glass windows shine brightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Gembira Loka Zoo",
+                "hu": "Gembira Loka Állatkert",
+                "ro": "Grădina Zoologică Gembira Loka",
+                "en": "Gembira Loka Zoo"
+              },
+              "tip_5lang": {
+                "de": "Tiere aus kühleren Regionen sind jetzt deutlich munterer und besser zu beobachten. Tipp: Tragen Sie eine Sonnenbrille wegen der intensiven Wintersonne.",
+                "hu": "A hűvösebb éghajlatról származó állatok most sokkal élénkebbek és jobban láthatók. Tipp: Viselj napszemüveget az erős téli napsütés miatt a séta alatt.",
+                "ro": "Animalele din regiunile mai răcoroase sunt acum mult mai vioaie și mai ușor de observat. Sfat: Purtați ochelari de soare din cauza reflexiei puternice.",
+                "en": "Animals from cooler regions are now much more active and easier to observe. Tip: Wear sunglasses because of the intense winter sun during your stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Affandi Museum",
+                "hu": "Affandi Múzeum",
+                "ro": "Muzeul Affandi",
+                "en": "Affandi Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum kurz vor Sonnenuntergang, wenn das weiche Licht die Gemälde perfekt ausleuchtet. Tipp: Packen Sie für die Rückfahrt ein Licht ein.",
+                "hu": "Látogasd meg a múzeumot naplemente előtt, amikor a lágy fény tökéletesen megvilágítja a festményeket. Tipp: Vigyél lámpát a hazaútra a korai sötétedés miatt.",
+                "ro": "Vizitați muzeul chiar înainte de apus, când lumina blândă luminează perfect picturile. Sfat: Luați o lanternă sau lumini pentru drumul de întoarcere.",
+                "en": "Visit the museum just before sunset when the soft light illuminates the paintings perfectly. Tip: Bring lights for your bike for the early darkness on return."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját zenei hangolódással az Andi Bayou Múzeumban, mielőtt a Pangeran Diponegoro Emlékmű szent területeire indulna, kényelmesen navigálva a város változatos kulturális kínálata között.\n\nDél körül autózzon el a Museum Pendidikan Indonesia-ba, hogy felkutassa a nemzet oktatási gyökereit, majd egy egyedülálló, speciális megálló következik a Dr. Yap Prawirohusodo Szemmúzeumban, az orvostörténet jegyében.\n\nA délután a Pura Pakualaman királyi örökségének felfedezésére csábít, majd egy rövid utazással a hatalmas Gembira Loka Állatkertbe juthat, amely tökéletes a botanikus kertekben való sétához és állatok megfigyeléséhez.\n\nZárja le átfogó városnézését a békés Pura Vaikuntha Vyomantara templomban a szürkület beálltával. Ez a lenyűgöző hindu templom egy pillanatnyi elmélkedést és nyugalmat kínál Yogyakarta vibráló napjának megkoronázásaként.",
         "ro": "Începeți turul auto într-o notă muzicală la Muzeul Andi Bayou înainte de a vă îndrepta spre terenurile sacre ale Monumentului Pangeran Diponegoro, navigând confortabil prin diversele oferte culturale ale orașului.\n\nÎn jurul amiezii, conduceți până la Muzeul Educației Indoneziene pentru a urmări rădăcinile educaționale ale națiunii, urmat de o oprire unică la Muzeul Medical RS Mata Dr. Yap Prawirohusodo pentru o privire istorică.\n\nDupă-amiaza vă invită să explorați moștenirea regală la Pura Pakualaman, apoi faceți o scurtă plimbare până la extinsa Grădină Zoologică Gembira Loka, perfectă pentru a observa animale exotice.\n\nÎncheiați turul cuprinzător al orașului la lăsarea serii, la liniștitul Pura Vaikuntha Vyomantara. Acest impresionant templu hindus oferă un moment de reflecție și liniște pentru a încheia perfect o zi vibrantă.",
         "en": "Start your driving tour on a musical note at the Andi Bayou Museum before heading to the sacred grounds of Monumen Pangeran Diponegoro, seamlessly navigating the city's diverse cultural offerings in comfort.\n\nAround midday, drive out to the Museum Pendidikan Indonesia to trace the nation's educational roots, followed by a unique, highly specialized stop at the Museum RS Mata Dr Yap Prawirohusodo for a glimpse into medical history.\n\nThe afternoon invites you to explore royal heritage at Pura Pakualaman, then take a short drive to the sprawling Gembira Loka Zoo, perfect for wandering through botanical gardens and observing exotic animals.\n\nConclude your comprehensive city tour as dusk settles over the peaceful Pura Vaikuntha Vyomantara. This striking Hindu temple offers a moment of reflection and tranquility to perfectly cap off a vibrant day in Yogyakarta."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl für Regentage, da Sie trocken von Museum zu Museum gelangen. Wir beginnen bei Indoor-Ausstellungen und verbringen die Mittagsstunden in geschützten Bildungszentren. Nachmittags ist der Besuch im Zoo trotz Regen dank der überdachten Bahnen gut machbar. Der Tag endet bei einem beleuchteten Tempel, den man bequem vom Wagen aus erreichen kann.",
+            "hu": "Az autó a legjobb választás esős napokra, mivel szárazon juthatsz el múzeumról múzeumra. Fedett kiállításokkal kezdünk, a déli órákat pedig védett oktatási központokban töltjük. Délután az állatkert az eső ellenére is jól bejárható a fedett kisvasúttal. A nap egy kivilágított templomnál zárul, amely kényelmesen megközelíthető.",
+            "ro": "Mașina este cea mai bună alegere pentru zilele ploioase, transportându-vă uscat între muzee. Începem cu expoziții interioare și petrecem amiaza în centre educaționale protejate. După-amiaza, grădina zoologică este accesibilă datorită trenulețelor acoperite. Ziua se încheie la un templu iluminat, ușor de accesat din parcare.",
+            "en": "The car is the best choice for rainy days, moving you dry from museum to museum. We start with indoor exhibits and spend midday in protected educational centers. In the afternoon, the zoo is manageable despite the rain thanks to covered shuttles. The day ends at a lit temple, easily accessible from the car park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Andi Bayou Museum",
+                "hu": "Andi Bayou Múzeum",
+                "ro": "Muzeul Andi Bayou",
+                "en": "Andi Bayou Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt im Trockenen, um Musikgeschichte ohne Sorge um das Wetter zu erleben. Tipp: Nutzen Sie den nahen Parkplatz für einen kurzen Weg.",
+                "hu": "Ideális száraz kezdőpont a zenei történelem felfedezéséhez, az időjárás miatti aggódás nélkül. Tipp: Használd a közeli parkolót a rövid séta érdekében.",
+                "ro": "Un punct de plecare ideal la adăpost pentru a descoperi istoria muzicii fără grija vremii. Sfat: Folosiți parcarea din apropiere pentru un acces rapid.",
+                "en": "An ideal dry starting point to explore music history without worrying about the weather. Tip: Use the nearby parking lot for the shortest walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Monumen Pangeran Diponegoro",
+                "hu": "Pangeran Diponegoro Emlékmúzeum",
+                "ro": "Muzeul Monumen Pangeran Diponegoro",
+                "en": "Museum Monumen Pangeran Diponegoro"
+              },
+              "tip_5lang": {
+                "de": "Die Innenausstellungen bieten Schutz vor starken Güssen; genießen Sie die historische Stille. Tipp: Achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "A belső kiállítások védelmet nyújtanak a heves záporok elől; élvezd a történelmi csendet. Tipp: Kiszálláskor ügyelj a mély tócsákra az út szélén.",
+                "ro": "Expozițiile interioare oferă protecție împotriva averselor; bucurați-vă de liniștea istorică. Sfat: Atenție la bălțile adânci de la marginea drumului la debarcare.",
+                "en": "The interior exhibits provide protection from heavy downpours; enjoy the historical silence. Tip: Watch out for deep puddles at the roadside when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pendidikan Indonesia",
+                "hu": "Indonéz Oktatási Múzeum",
+                "ro": "Muzeul Educației Indoneziene",
+                "en": "Museum Pendidikan Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Ein weitläufiges Bildungszentrum, in dem man Stunden verbringen kann, ohne nass zu werden. Tipp: Perfekt für die Mittagspause, wenn der Regen am stärksten ist.",
+                "hu": "Tágas oktatási központ, ahol órákat tölthetsz anélkül, hogy megáznál az esőben. Tipp: Tökéletes a déli pihenőre, amikor az eső általában a legerősebb.",
+                "ro": "Un centru educațional vast unde puteți petrece ore întregi fără a vă uda. Sfat: Perfect pentru pauza de prânz, când ploaia este de obicei cea mai puternică.",
+                "en": "A spacious educational center where you can spend hours without getting wet in the rain. Tip: Perfect for a midday break when the rain is usually strongest."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum RS Mata Dr Yap Prawirohusodo",
+                "hu": "Museum RS Mata Dr Yap Prawirohusodo",
+                "ro": "Museum RS Mata Dr Yap Prawirohusodo",
+                "en": "Museum RS Mata Dr Yap Prawirohusodo"
+              },
+              "tip_5lang": {
+                "de": "Dieses spezialisierte Museum bietet eine trockene und informative Umgebung am Nachmittag. Tipp: Die klimatisierten Räume helfen gegen die hohe Luftfeuchtigkeit.",
+                "hu": "Ez a különleges múzeum száraz és informatív környezetet biztosít délutánra. Tipp: A légkondicionált termek segítenek elviselni a magas páratartalmat.",
+                "ro": "Acest muzeu specializat oferă un mediu uscat și informativ pentru după-amiază. Sfat: Sălile climatizate ajută la combaterea umidității ridicate de afară.",
+                "en": "This specialized museum provides a dry and informative environment for the afternoon. Tip: The air-conditioned rooms help combat the high humidity outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Pakualaman",
+                "hu": "Pura Pakualaman",
+                "ro": "Pura Pakualaman",
+                "en": "Pura Pakualaman"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des Palastes, um die Architektur im Regen zu bewundern. Tipp: Ein Regenschirm ist für den Weg vom Parkplatz zum Tor nötig.",
+                "hu": "Használd a palota fedett részeit az építészet megcsodálásához az esőben is. Tipp: Szükséged lesz esernyőre a parkoló és a kapu közötti rövid távon.",
+                "ro": "Folosiți zonele acoperite ale palatului pentru a admira arhitectura pe ploaie. Sfat: Veți avea nevoie de o umbrelă pentru distanța scurtă de la parcare la poartă.",
+                "en": "Use the palace's covered areas to admire the architecture even in the rain. Tip: You will need an umbrella for the short distance from the car to the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Gembira Loka Zoo",
+                "hu": "Gembira Loka Állatkert",
+                "ro": "Grădina Zoologică Gembira Loka",
+                "en": "Gembira Loka Zoo"
+              },
+              "tip_5lang": {
+                "de": "Der Zoo bietet bei Regen einen Shuttle-Service, der Sie trocken zu den Gehegen bringt. Tipp: Die Aquarien sind ein hervorragender Rückzugsort im Trockenen.",
+                "hu": "Az állatkert esőben is üzemeltet kisvonatot, amely szárazon visz a kifutókhoz. Tipp: Az akváriumok kiváló menedéket nyújtanak a száraz belső térben.",
+                "ro": "Grădina zoologică oferă un serviciu de transfer care vă transportă uscat între incinte. Sfat: Acvariile sunt un refugiu excelent în interiorul uscat.",
+                "en": "The zoo operates a shuttle service that transports you dry between the animal enclosures. Tip: The aquariums are an excellent retreat in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Vaikuntha Vyomantara",
+                "hu": "Pura Vaikuntha Vyomantara",
+                "ro": "Pura Vaikuntha Vyomantara",
+                "en": "Pura Vaikuntha Vyomantara"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei diesem Tempel; das Licht bricht sich mystisch im fallenden Regen. Tipp: Bleiben Sie für den besten Blick im Wagen sitzen.",
+                "hu": "Zárd a napot ennél a templomnál; a fények misztikusan törnek meg a hulló esőben. Tipp: A legjobb kilátásért maradj az autóban a parkolónál.",
+                "ro": "Încheiați ziua la acest templu; lumina se reflectă mistic în ploaia care cade. Sfat: Rămâneți în mașină în parcare pentru cea mai bună perspectivă.",
+                "en": "End the day at this temple; the lights reflect mystically in the falling rain. Tip: For the best view while staying dry, remain in the car at the parking area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter sind die Straßen oft klarer und die Sicht besser. Wir nutzen die kühlen Morgenstunden für Museumsbesuche und genießen die angenehme Klimatisierung im Wagen. Mittags erkunden wir Paläste bei mildem Wetter. Da die Sonne gegen 17:00 Uhr untergeht, planen wir den Zoobesuch früher ein, um den Tag bei einem stimmungsvoll beleuchteten Tempel in der Abenddämmerung zu krönen.",
+            "hu": "Télen az utak gyakran tisztábbak, a látási viszonyok pedig jobbak. A hűvös reggeli órákat múzeumlátogatásra használjuk, élvezve a kellemes hőmérsékletet. Délben palotákat fedezünk fel enyhe időben. Mivel a nap 17:00 körül nyugszik, az állatkertet korábbra tervezzük, az estét pedig egy díszkivilágítású templomnál zárjuk.",
+            "ro": "Iarna drumurile sunt adesea mai libere, iar vizibilitatea este mult mai bună. Folosim diminețile răcoroase pentru muzee, bucurându-ne de confortul mașinii. La prânz explorăm palate la temperaturi blânde. Deoarece soarele apune la 17:00, planificăm vizita la zoo mai devreme, încheind ziua la un templu luminat.",
+            "en": "In winter, the roads are often clearer and visibility is much better. We use the cool mornings for museum visits, enjoying the comfort of the car. At noon, we explore palaces in mild weather. Since the sun sets around 17:00, we plan the zoo visit earlier and end the day at an atmospherically lit temple."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Andi Bayou Museum",
+                "hu": "Andi Bayou Múzeum",
+                "ro": "Muzeul Andi Bayou",
+                "en": "Andi Bayou Museum"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie erfrischt in diesen musikalischen Ort; die Wintermorgen sind hier besonders ruhig. Tipp: Die Klimaanlage im Wagen sorgt für konstantes Wohlbefinden.",
+                "hu": "Kezdd felfrissülve ezt a zenei utazást; a téli reggelek itt különösen csendesek. Tipp: Az autó klímája segít fenntartani a kellemes hőérzetet az út alatt.",
+                "ro": "Începeți revigorat această vizită muzicală; diminețile de iarnă sunt deosebit de liniștite. Sfat: Climatizarea mașinii asigură un confort constant pe tot drumul.",
+                "en": "Start refreshed at this musical venue; winter mornings here are particularly quiet. Tip: The car's climate control helps maintain constant comfort during the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Monumen Pangeran Diponegoro",
+                "hu": "Pangeran Diponegoro Emlékmúzeum",
+                "ro": "Muzeul Monumen Pangeran Diponegoro",
+                "en": "Museum Monumen Pangeran Diponegoro"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage lässt sich ohne die drückende Sommerhitze entspannt zu Fuß vom Parkplatz erkunden. Tipp: Die klaren Schatten bieten tolle Motive für Architekturfotos.",
+                "hu": "A komplexum a nyomasztó hőség nélkül, kényelmesen bejárható a parkolótól gyalogosan is. Tipp: Az éles árnyékok remek témát adnak az építészeti fotókhoz.",
+                "ro": "Complexul poate fi explorat relaxat pe jos de la parcare, fără căldura verii. Sfat: Umbrele clare oferă motive excelente pentru fotografii de arhitectură.",
+                "en": "The complex can be explored comfortably on foot from the car park without the summer heat. Tip: The sharp winter shadows provide great motifs for architecture photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Pendidikan Indonesia",
+                "hu": "Indonéz Oktatási Múzeum",
+                "ro": "Muzeul Educației Indoneziene",
+                "en": "Museum Pendidikan Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp zur Mittagszeit, wenn die Wintersonne am höchsten steht. Tipp: Nutzen Sie die hellen Säle für detaillierte Fotos der Exponate.",
+                "hu": "Kiváló megálló délidőben, amikor a téli nap a legmagasabban jár. Tipp: Használd ki a világos termeket a kiállítási tárgyak részletgazdag fotózásához.",
+                "ro": "O oprire excelentă la amiază, când soarele de iarnă este cel mai sus pe cer. Sfat: Folosiți sălile luminoase pentru fotografii detaliate ale exponatelor.",
+                "en": "An excellent stop at noon when the winter sun is at its highest point. Tip: Take advantage of the bright halls for detailed photos of the historical exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum RS Mata Dr Yap Prawirohusodo",
+                "hu": "Museum RS Mata Dr Yap Prawirohusodo",
+                "ro": "Museum RS Mata Dr Yap Prawirohusodo",
+                "en": "Museum RS Mata Dr Yap Prawirohusodo"
+              },
+              "tip_5lang": {
+                "de": "Die milden Außentemperaturen machen den kurzen Weg vom Wagen zum Museum sehr angenehm. Tipp: Perfekt, um die Nachmittagshitze im Auto zu überbrücken.",
+                "hu": "Az enyhe külső hőmérséklet nagyon kellemessé teszi a rövid utat az autótól a múzeumig. Tipp: Tökéletes helyszín a délutáni meleg elkerülésére a kocsiban.",
+                "ro": "Temperaturile exterioare blânde fac drumul scurt de la mașină la muzeu foarte plăcut. Sfat: Perfect pentru a evita căldura de după-amiază în confortul mașinii.",
+                "en": "The mild outdoor temperatures make the short walk from the car to the museum very pleasant. Tip: Perfect for bridging the afternoon peak in car comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Pakualaman",
+                "hu": "Pura Pakualaman",
+                "ro": "Pura Pakualaman",
+                "en": "Pura Pakualaman"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den historischen Palast im sanften Licht der frühen Winternachmittage. Tipp: Ein leichter Pullover ist für den Schatten in den Höfen ratsam.",
+                "hu": "Élvezd a történelmi palotát a kora téli délutánok lágy, tiszta fényében. Tipp: Egy könnyű pulóver ajánlott az udvarok árnyékosabb részein a hűvösebb időben.",
+                "ro": "Bucurați-vă de palatul istoric în lumina blândă a după-amiezelor de iarnă. Sfat: O jachetă ușoară este recomandată pentru zonele umbrite din curți.",
+                "en": "Enjoy the historical palace in the soft, clear light of early winter afternoons. Tip: A light sweater is advisable for the shaded areas of the courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Gembira Loka Zoo",
+                "hu": "Gembira Loka Állatkert",
+                "ro": "Grădina Zoologică Gembira Loka",
+                "en": "Gembira Loka Zoo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16 Uhr an, um die Tiere noch bei Tageslicht zu sehen, bevor es dunkel wird. Tipp: Die Wege sind im Winter trocken und staubfrei.",
+                "hu": "Érkezz 16 óra előtt, hogy még napfényben lásd az állatokat a korai sötétedés előtt. Tipp: Az utak télen szárazak és pormentesek, könnyű a közlekedés.",
+                "ro": "Sosiți înainte de ora 16:00 pentru a vedea animalele la lumina zilei, înainte de amurg. Sfat: Aleile sunt uscate și fără praf iarna, fiind ușor de parcurs.",
+                "en": "Arrive before 16:00 to see the animals in daylight before the early winter dusk. Tip: The paths are dry and dust-free in winter, making the walk very easy."
+              }
+            },
+            {
+              "name": {
+                "de": "Pura Vaikuntha Vyomantara",
+                "hu": "Pura Vaikuntha Vyomantara",
+                "ro": "Pura Vaikuntha Vyomantara",
+                "en": "Pura Vaikuntha Vyomantara"
+              },
+              "tip_5lang": {
+                "de": "Der Tempel erstrahlt in der frühen Dunkelheit gegen 17:30 Uhr in prächtiger Beleuchtung. Tipp: Parken Sie so, dass Sie die Lichterfront direkt sehen können.",
+                "hu": "A templom a 17:30 körül beálló korai sötétségben pompás kivilágításban tündököl. Tipp: Úgy parkolj, hogy az autóból közvetlen rálátásod legyen a fényekre.",
+                "ro": "Templul strălucește în iluminatul spectaculos odată cu întunericul ce se lasă la 17:30. Sfat: Parcați astfel încât să aveți o vedere directă spre fațadă.",
+                "en": "The temple shines in splendid illumination with the early darkness falling around 17:30. Tip: Park so that you have a direct view of the lights from the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

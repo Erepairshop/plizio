@@ -183,6 +183,224 @@
         "hu": "A reggel a békés Sant Miquel templomban indul, majd a Toni Catany múzeum fotóművészete inspirál. Délben a Sant Bonaventura hűvös kerengőjében pihenünk, mielőtt a hagyományos Güels és Franc malmokat vizsgálnánk meg. Délután a Jaume III. emlékműnél merülünk el Mallorca múltjában, végül a nap egy kellemes, elmélyült sétával zárul a Molí d'en Contestí történelmi falai között.",
         "ro": "Dimineața începe în liniștea de la Sant Miquel, urmată de fotografia de excepție a lui Toni Catany. La prânz, claustrul de la Sant Bonaventura oferă răcoare, înainte de a vedea morile tradiționale Güels și Franc. După-amiaza explorăm istoria impresionantă la monumentul lui Jaume III. Ziua se încheie liniștit la Molí d'en Contestí, reflectând asupra patrimoniului local la amurg.",
         "en": "The morning begins in the serene atmosphere of Sant Miquel, followed by inspiring artwork at the Toni Catany museum. Midday brings relaxation in the cool cloister of Sant Bonaventura, before heading to the traditional Güels and Franc windmills. In the afternoon, we honor Mallorca's history at the Jaume III monument. The day concludes peacefully at the historical Molí d'en Contestí."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der schützenden Stille von Sant Miquel, während es draußen regnet. Mittags bietet das Toni Catany Zentrum einen trockenen Zufluchtsort voller Kunst. Am Nachmittag erkunden Sie die Windmühlen unter dem Regenschirm, achten Sie dabei auf das rutschige Kopfsteinpflaster. Der Abend klingt gemütlich aus, während die nassen Straßen von Llucmajor im Laternenlicht glänzen.",
+            "hu": "A napot a Sant Miquel templom védelmező csendjében kezdjük az eső elől menekülve. Délben a Toni Catany központ nyújt modern, száraz menedéket a fotóművészet világával. Délután esernyővel járjuk végig a szélmalmokat, ügyelve a csúszós macskakövekre a szűk utcákban. Az este a Jaume III. emlékműnél ér véget, ahol a vizes aszfalton megcsillannak a város hangulatos fényei.",
+            "ro": "Începeți ziua în liniștea protectoare a bisericii Sant Miquel, ferindu-vă de ploaie. La prânz, centrul Toni Catany oferă un refugiu uscat și plin de artă fotografică. După-amiază, explorați morile de vânt cu umbrela la îndemână, fiind atenți la pavajul alunecos. Seara se încheie melancolic, în timp ce străzile ude din Llucmajor strălucesc sub lumina difuză a felinarelor.",
+            "en": "Start your day in the protective silence of Sant Miquel while seeking shelter from the rain. At noon, the Toni Catany center provides a dry haven filled with photographic art. In the afternoon, explore the historic windmills under an umbrella, staying cautious of the slippery cobblestones. The evening ends with a cozy atmosphere as the wet streets reflect the city's golden lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Miquel",
+                "hu": "Sant Miquel",
+                "ro": "Sant Miquel",
+                "en": "Sant Miquel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Interieur, während die dicken Mauern Sie vor dem Platzregen schützen; idealer Startpunkt, um den Schauer trocken abzuwarten.",
+                "hu": "Csodálja meg a gótikus belső teret, miközben a vastag falak megvédik a felhőszakadástól; tökéletes helyszín az eső elől való menekülésre a séta elején.",
+                "ro": "Admirați interiorul gotic în timp ce zidurile groase vă protejează de ploaia torențială; este punctul ideal pentru a aștepta oprirea precipitațiilor.",
+                "en": "Admire the Gothic interior while the thick walls protect you from the downpour; it is the perfect spot to wait out the rain at the start of your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Toni Catany",
+                "hu": "Toni Catany",
+                "ro": "Toni Catany",
+                "en": "Toni Catany"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine ausgiebige Innenbesichtigung der Fotokunst; die modernen Ausstellungsräume sind der beste Ort für eine längere Regenpause.",
+                "hu": "Használja ki a múzeumot egy tartalmas belső látogatásra a fotóművészet világában; a modern kiállítóterek a legjobb helyszínek egy hosszabb esőszünetre.",
+                "ro": "Profită de muzeu pentru o vizită interioară bogată în artă fotografică; spațiile moderne de expoziție sunt cel mai bun loc pentru o pauză lungă de ploaie.",
+                "en": "Take advantage of the museum for an extensive indoor visit to the world of photography; the modern galleries are the best place for a long rain break."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Bonaventura",
+                "hu": "Sant Bonaventura",
+                "ro": "Sant Bonaventura",
+                "en": "Sant Bonaventura"
+              },
+              "tip_5lang": {
+                "de": "Der Kreuzgang bietet einen überdachten Rundgang, auf dem Sie die Architektur genießen können, ohne nass zu werden; perfekt für regnerische Nachmittage.",
+                "hu": "A kolostor kerengője fedett útvonalat kínál, ahol a nélkül élvezheti az építészetet, hogy elázna; kiváló választás a csapadékos délutáni órákban.",
+                "ro": "Claustrul oferă un traseu acoperit unde puteți admira arhitectura fără a vă uda; este o alegere excelentă pentru orele ploioase de după-amiază.",
+                "en": "The cloister offers a covered walkway where you can enjoy the architecture without getting wet; a great choice during the rainy afternoon hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Güels",
+                "hu": "Molí d'en Güels",
+                "ro": "Molí d'en Güels",
+                "en": "Molí d'en Güels"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Foto unter dem Regenschirm ist ausreichend; achten Sie auf die Pfützen um die Mühle und tragen Sie unbedingt wasserfestes Schuhwerk.",
+                "hu": "Egy gyors fotó az esernyő alatt is elég; ügyeljen a malom körüli tócsákra, és mindenképpen viseljen vízálló lábbelit a csúszós talaj miatt.",
+                "ro": "O fotografie rapidă sub umbrelă este suficientă; atenție la bălțile din jurul morii și purtați neapărat încălțăminte impermeabilă pe solul ud.",
+                "en": "A quick photo under your umbrella is enough; watch out for puddles around the mill and definitely wear waterproof footwear on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Franc",
+                "hu": "Molí d'en Franc",
+                "ro": "Molí d'en Franc",
+                "en": "Molí d'en Franc"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Struktur aus sicherer Entfernung unter einem Vordach; die Steine können bei Nässe sehr glatt sein, bewegen Sie sich vorsichtig.",
+                "hu": "Tekintse meg az építményt egy közeli eresz alól; a kövek vizesen nagyon csúszósak lehetnek, így csak óvatosan közelítse meg a fotózáshoz.",
+                "ro": "Observați structura de sub o streașină din apropiere; pietrele pot fi foarte alunecoase când sunt ude, așa că apropiați-vă cu mare grijă pentru poze.",
+                "en": "Observe the structure from under a nearby eave; the stones can be very slippery when wet, so approach carefully for your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaume III.",
+                "hu": "Jaume III.",
+                "ro": "Jaume III.",
+                "en": "Jaume III."
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt im Regen besonders dramatisch; nutzen Sie die kurzen Regenpausen für einen Besuch und suchen Sie danach Schutz in einem Café.",
+                "hu": "Az emlékmű esőben különösen drámai látványt nyújt; használja ki a rövidebb esőszüneteket a látogatáshoz, majd keressen menedéket egy közeli kávézóban.",
+                "ro": "Monumentul oferă o priveliște dramatică în ploaie; profitați de pauzele scurte dintre averse pentru vizită, apoi căutați refugiu într-o cafenea.",
+                "en": "The monument looks particularly dramatic in the rain; take advantage of short breaks in the downpour to visit, then find shelter in a nearby cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Contestí",
+                "hu": "Molí d'en Contestí",
+                "ro": "Molí d'en Contestí",
+                "en": "Molí d'en Contestí"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Sicht bei starkem Regen eingeschränkt sein kann; ein kurzer Stopp für die historische Mühle lohnt sich dennoch.",
+                "hu": "Fejezze be gyorsan a túrát, mivel erős esőben a látótávolság korlátozott lehet; egy rövid megálló a történelmi malomnál így is megéri a fáradságot.",
+                "ro": "Încheiați turul rapid, deoarece vizibilitatea poate fi limitată în ploaie densă; o oprire scurtă la moara istorică merită totuși efortul.",
+                "en": "Wrap up your tour quickly as visibility can be limited in heavy rain; a short stop at the historic mill is still worth the effort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei Sant Miquel unter der milden mallorquinischen Sonne. Mittags wärmen Sie sich in den Ausstellungsräumen der Toni Catany Stiftung auf. Der Nachmittag führt Sie an den historischen Windmühlen vorbei, wenn das Licht bereits weicher wird. Da die Sonne gegen 17:00 Uhr untergeht, endet der Tag in der stimmungsvollen, beleuchteten Altstadt von Llucmajor.",
+            "hu": "Élvezze a friss téli levegőt a Sant Miquel templomnál a szelíd mallorcai napsütésben. Délben a Toni Catany alapítvány fűtött kiállítóterei kínálnak kellemes felmelegedést. Délután a történelmi szélmalmok között sétálunk, miközben a fények már lágyabbá válnak. Mivel a nap 17:00 körül lebukik, a napot a hangulatosan kivilágított óvárosban zárjuk egy forró ital mellett.",
+            "ro": "Bucurați-vă de aerul curat de iarnă la biserica Sant Miquel sub soarele blând al Majorcăi. La prânz, galeriile încălzite ale fundației Toni Catany oferă o relaxare plăcută. După-amiaza vă poartă printre morile de vânt istorice, când lumina devine deja mai caldă. Deoarece soarele apune în jurul orei 17:00, ziua se încheie în centrul vechi iluminat feeric.",
+            "en": "Enjoy the crisp winter air at Sant Miquel under the mild Mallorcan sun. At noon, the heated exhibition rooms of the Toni Catany foundation offer a pleasant warm-up. The afternoon leads you past the historic windmills as the light begins to soften. Since the sun sets around 5:00 PM, the day ends in the atmospherically lit old town of Llucmajor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Miquel",
+                "hu": "Sant Miquel",
+                "ro": "Sant Miquel",
+                "en": "Sant Miquel"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne wärmt die Fassade wunderschön auf; tragen Sie Schichten, da es im Inneren der Kirche auch im Winter recht kühl sein kann.",
+                "hu": "A reggeli napfény gyönyörűen megvilágítja a homlokzatot; öltözzön rétegesen, mert a templom belseje télen is hűvös maradhat.",
+                "ro": "Soarele de dimineață luminează superb fațada; îmbrăcați-vă în straturi, deoarece interiorul bisericii poate rămâne răcoros chiar și iarna.",
+                "en": "The morning sun warms the facade beautifully; dress in layers, as the interior of the church can remain quite cool even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Toni Catany",
+                "hu": "Toni Catany",
+                "ro": "Toni Catany",
+                "en": "Toni Catany"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Mittagskälte zu entfliehen; genießen Sie die Fotografie in der wohligen Wärme der modernen Galerieräume.",
+                "hu": "Ideális helyszín a déli hűvös elől való menekülésre; élvezze a fotóművészetet a modern galériaterek kellemes melegében.",
+                "ro": "Locul ideal pentru a scăpa de răcoarea de la prânz; bucurați-vă de arta fotografică în căldura plăcută a galeriilor moderne.",
+                "en": "An ideal location to escape the midday chill; enjoy the photography in the cozy warmth of the modern gallery spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Bonaventura",
+                "hu": "Sant Bonaventura",
+                "ro": "Sant Bonaventura",
+                "en": "Sant Bonaventura"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintermitte wirft lange, malerische Schatten in den Kreuzgang; ein perfekter Moment für ruhige Beobachtungen in warmer Kleidung.",
+                "hu": "Az alacsonyan járó téli nap festői árnyékokat vet a kolostor udvarán; tökéletes pillanat a nyugodt szemlélődésre meleg ruházatban.",
+                "ro": "Soarele de iarnă aflat jos pe cer proiectează umbre pitorești în curtea mănăstirii; moment perfect pentru observație liniștită în haine groase.",
+                "en": "The low winter sun casts picturesque shadows in the cloister courtyard; a perfect moment for quiet contemplation in warm clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Güels",
+                "hu": "Molí d'en Güels",
+                "ro": "Molí d'en Güels",
+                "en": "Molí d'en Güels"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter besonders klar; nutzen Sie die gute Sicht für weite Fotos der Mühle vor dem blauen Himmel.",
+                "hu": "A délutáni fények télen különösen tiszták; használja ki a jó látási viszonyokat a malomról készült távoli fotókhoz a kék égbolt előtt.",
+                "ro": "Lumina de după-amiază este extrem de clară iarna; profitați de vizibilitatea bună pentru fotografii largi cu moara pe fundalul cerului albastru.",
+                "en": "The afternoon light is particularly clear in winter; take advantage of the good visibility for wide photos of the mill against the blue sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Franc",
+                "hu": "Molí d'en Franc",
+                "ro": "Molí d'en Franc",
+                "en": "Molí d'en Franc"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Besuch wird empfohlen, da der Wind hier im Winter recht schneidig sein kann; ziehen Sie Schal und Mütze für den Außenbereich an.",
+                "hu": "Gyors látogatás javasolt, mivel a szél télen metsző lehet ezen a nyitott részen; vegyen fel sálat és sapkát a szabadtéri nézelődéshez.",
+                "ro": "Se recomandă o vizită rapidă, deoarece vântul poate fi tăios iarna în această zonă deschisă; puneți-vă fularul și căciula pentru exterior.",
+                "en": "A brisk visit is recommended as the wind can be piercing here in winter; wear a scarf and hat for the outdoor viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaume III.",
+                "hu": "Jaume III.",
+                "ro": "Jaume III.",
+                "en": "Jaume III."
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal kurz vor Sonnenuntergang, wenn der Himmel sich färbt; die nahegelegenen Plätze bieten danach warme Rückzugsorte.",
+                "hu": "Látogasson el az emlékműhöz közvetlenül naplemente előtt, amikor az ég színesre vált; a közeli terek meleg menedéket nyújtanak utána.",
+                "ro": "Vizitați monumentul chiar înainte de apus, când cerul capătă culori vii; piețele din apropiere oferă apoi refugii calde.",
+                "en": "Visit the monument just before sunset when the sky turns colorful; the nearby squares offer warm retreats afterward."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Contestí",
+                "hu": "Molí d'en Contestí",
+                "ro": "Molí d'en Contestí",
+                "en": "Molí d'en Contestí"
+              },
+              "tip_5lang": {
+                "de": "Das frühe Licht der Straßenlaternen verleiht der Mühle einen besonderen Glanz; ein idealer Abschluss für einen kühlen Winterspaziergang.",
+                "hu": "Az utcai lámpák korai fénye különleges ragyogást ad a malomnak; ideális befejezése egy hűvös téli sétának a város szélén.",
+                "ro": "Lumina timpurie a felinarelor oferă morii o strălucire aparte; un final ideal pentru o plimbare răcoroasă de iarnă la marginea orașului.",
+                "en": "The early light of the street lamps gives the mill a special glow; an ideal end to a cool winter walk at the edge of town."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Először a nyugodt Sant Bonaventura kolostorhoz tekerünk, majd a Marrano és Galineta malmok felé vesszük az irányt. A déli kerékpározás a Perdiu és Son Pere Negre malmokhoz vezet, ahol az autentikus vidék tárul elénk. Délután a Jaume III. emlékműnél elmélyedünk a sziget történelmében. Az estét a Sant Miquel templom és a Toni Catany múzeum művészi kincseinek felfedezésével töltjük.",
         "ro": "Pedalăm spre liniștita mănăstire Sant Bonaventura și apoi către morile rurale Marrano și Galineta. Traseul de prânz ne poartă pe lângă Molí den Perdiu și Son Pere Negre, dezvăluind un farmec autentic. După-amiaza, ne cufundăm în istorie la impresionantul monument Jaume III. Seara aparține frumoasei biserici Sant Miquel și operelor lui Toni Catany, luminate de soarele la apus.",
         "en": "We first cycle to the peaceful Sant Bonaventura monastery, then head to the rural Marrano and Galineta windmills. The midday ride leads past Molí den Perdiu and Son Pere Negre, revealing true authentic charm. In the afternoon, we dive into island history at the grand Jaume III monument. The evening is devoted to Sant Miquel and the art of Toni Catany, bathed in the town's golden hour light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den nassen Straßen von Llucmajor. Vormittags bieten die Kirchen Sant Bonaventura und Sant Miquel trockene Pausenstopps. Mittags können Sie sich im Toni Catany Zentrum aufwärmen, während Ihr Rad sicher abgestellt ist. Achten Sie auf den Windmühlenwegen auf Rutschgefahr und beenden Sie die Tour, bevor es dunkel wird.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel Llucmajor vizes útjain. Délelőtt a Sant Bonaventura és Sant Miquel templomok kínálnak száraz pihenőket. Délben a Toni Catany központban melegedhet fel, miközben a bicikli biztonságban pihen. A szélmalmok közötti utakon ügyeljen a csúszásveszélyre, és fejezze be a túrát, mielőtt a látási viszonyok romlanának.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență pe drumurile ude din Llucmajor. Dimineața, bisericile Sant Bonaventura și Sant Miquel oferă opriri uscate. La prânz, vă puteți încălzi la centrul Toni Catany în timp ce bicicleta este parcată în siguranță. Pe drumurile dintre mori, atenție la riscul de derapare și încheiați tura înainte de lăsarea serii.",
+            "en": "A bike tour in the rain requires caution on Llucmajor's wet roads. In the morning, the churches of Sant Bonaventura and Sant Miquel offer dry breaks. At noon, you can warm up at the Toni Catany center while your bike stays parked. On the paths between the windmills, watch out for slippery surfaces and finish your tour before visibility fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Bonaventura",
+                "hu": "Sant Bonaventura",
+                "ro": "Sant Bonaventura",
+                "en": "Sant Bonaventura"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Kreuzgang, um die Ausrüstung kurz zu trocknen; die ruhige Atmosphäre ist perfekt für eine erste Regenpause.",
+                "hu": "Használja ki a fedett kerengőt a felszerelés rövid szárítására; a nyugodt környezet tökéletes az első esőszünet megtartására.",
+                "ro": "Folosiți claustrul acoperit pentru a vă usca rapid echipamentul; atmosfera liniștită este perfectă pentru o primă pauză de ploaie.",
+                "en": "Use the covered cloister to dry your gear briefly; the quiet environment is perfect for taking your first rain break."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Marrano",
+                "hu": "Molí d'en Marrano",
+                "ro": "Molí d'en Marrano",
+                "en": "Molí d'en Marrano"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem unbefestigten Weg zur Mühle; bei Regen kann der Boden sehr matschig und rutschig für Fahrradreifen sein.",
+                "hu": "Hajtson óvatosan a malomhoz vezető burkolatlan úton; esőben a talaj nagyon saras és csúszós lehet a kerékpárgumik számára.",
+                "ro": "Conduceți cu atenție pe drumul neasfaltat către moară; în ploaie, solul poate fi foarte noroios și alunecos pentru cauciucuri.",
+                "en": "Ride carefully on the unpaved path to the mill; in the rain, the ground can be very muddy and slippery for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Galineta",
+                "hu": "Molí d'en Galineta",
+                "ro": "Molí d'en Galineta",
+                "en": "Molí d'en Galineta"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto reicht aus; tragen Sie eine helle Regenjacke, um für Autofahrer bei grauem Wetter besser sichtbar zu sein.",
+                "hu": "Egy gyors megálló a fotózáshoz elegendő; viseljen világos esőkabátot, hogy a szürke időben jobban látható legyen az autósok számára.",
+                "ro": "O oprire rapidă pentru fotografii este suficientă; purtați o pelerină de ploaie deschisă la culoare pentru a fi vizibil șoferilor pe timp gri.",
+                "en": "A quick stop for photos is enough; wear a bright raincoat to be more visible to drivers in the grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí den Perdiu",
+                "hu": "Molí den Perdiu",
+                "ro": "Molí den Perdiu",
+                "en": "Molí den Perdiu"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig vor Kurven ab, da die Nässe den Bremsweg verlängert; die historische Mühle ist auch im Regen ein schöner Anblick.",
+                "hu": "Fékezzen időben a kanyarok előtt, mivel a nedvesség meghosszabbítja a féktávot; a történelmi malom esőben is szép látványt nyújt.",
+                "ro": "Frânați din timp înainte de curbe, deoarece umezeala prelungește distanța de frânare; moara istorică arată bine chiar și prin ploaie.",
+                "en": "Brake early before turns as wetness extends your braking distance; the historic mill is a beautiful sight even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de Son Pere Negre",
+                "hu": "Molí de Son Pere Negre",
+                "ro": "Molí de Son Pere Negre",
+                "en": "Molí de Son Pere Negre"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurz Schutz unter den Bäumen in der Nähe, falls der Regen stärker wird; achten Sie auf tiefere Pfützen auf der Fahrbahn.",
+                "hu": "Keressen rövid menedéket a közeli fák alatt, ha az eső intenzívebbé válik; ügyeljen az úttesten kialakuló mélyebb tócsákra.",
+                "ro": "Căutați refugiu scurt sub copacii din apropiere dacă ploaia se intensifică; atenție la bălțile adânci formate pe carosabil.",
+                "en": "Seek brief shelter under nearby trees if the rain intensifies; watch out for deeper puddles forming on the roadway."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaume III.",
+                "hu": "Jaume III.",
+                "ro": "Jaume III.",
+                "en": "Jaume III."
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie die nahegelegenen Arkaden für eine trockene Besichtigung des historischen Denkmals.",
+                "hu": "Támassza le biztonságosan a kerékpárt, és használja a közeli árkádokat a történelmi emlékmű szárazon történő megtekintéséhez.",
+                "ro": "Parcați bicicleta în siguranță și folosiți arcadele din apropiere pentru o vizită uscată a monumentului istoric.",
+                "en": "Park your bike securely and use the nearby arcades for a dry viewing of the historical monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Miquel",
+                "hu": "Sant Miquel",
+                "ro": "Sant Miquel",
+                "en": "Sant Miquel"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine hervorragende Gelegenheit, sich vor dem letzten Etappenziel vollständig aufzuwärmen und den Regen abzuwarten.",
+                "hu": "A templom kiváló alkalmat nyújt arra, hogy az utolsó szakasz előtt teljesen felmelegedjen és megvárja az eső elcsendesedését.",
+                "ro": "Biserica oferă o ocazie excelentă de a vă încălzi complet înainte de ultima etapă și de a aștepta potolirea ploii.",
+                "en": "The church provides an excellent opportunity to warm up completely before the final leg and wait for the rain to subside."
+              }
+            },
+            {
+              "name": {
+                "de": "Toni Catany",
+                "hu": "Toni Catany",
+                "ro": "Toni Catany",
+                "en": "Toni Catany"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier und nutzen Sie die Garderobe für Ihre nassen Sachen; die Indoor-Ausstellung ist die perfekte Belohnung nach der Fahrt.",
+                "hu": "Itt fejezze be a túrát, és használja a ruhatárat a vizes holmiknak; a benti kiállítás tökéletes jutalom a vizes tekerés után.",
+                "ro": "Încheiați tura aici și folosiți garderoba pentru lucrurile ude; expoziția interioară este recompensa perfectă după drumul prin ploaie.",
+                "en": "Finish your tour here and use the cloakroom for your wet gear; the indoor exhibition is the perfect reward after the rainy ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterradtour durch Llucmajor bietet klare Fernsichten und angenehme Kühle. Starten Sie vormittags bei Sant Bonaventura und genießen Sie die Sonne auf den Wegen zu den Windmühlen. Mittags bietet die Toni Catany Stiftung einen warmen Rückzugsort. Da die Sonne gegen 17:00 Uhr sinkt, planen Sie die Rückkehr rechtzeitig ein, um nicht in der Kälte der Dämmerung zu radeln.",
+            "hu": "A téli kerékpártúra Llucmajor környékén tiszta kilátást és kellemes frissességet kínál. Kezdjen délelőtt a Sant Bonaventura kolostornál, és élvezze a napsütést a szélmalmok felé vezető utakon. Délben a Toni Catany alapítvány nyújt meleg pihenőt. Mivel a nap 17:00 körül lemegy, tervezze meg időben a visszatérést, hogy elkerülje az alkonyati hideget.",
+            "ro": "O tură de iarnă cu bicicleta prin Llucmajor oferă panorame clare și o răcoare plăcută. Începeți dimineața la Sant Bonaventura și bucurați-vă de soare pe drumul spre mori. La prânz, fundația Toni Catany oferă un refugiu cald. Deoarece soarele apune în jurul orei 17:00, planificați revenirea din timp pentru a nu pedala în frigul amurgului.",
+            "en": "A winter bike tour around Llucmajor offers clear views and pleasant coolness. Start in the morning at Sant Bonaventura and enjoy the sun on the paths to the windmills. At noon, the Toni Catany foundation provides a warm retreat. Since the sun sets around 5:00 PM, plan your return in time to avoid cycling in the twilight chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Bonaventura",
+                "hu": "Sant Bonaventura",
+                "ro": "Sant Bonaventura",
+                "en": "Sant Bonaventura"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Sonne im Innenhof auf, bevor Sie losfahren; Handschuhe sind für die erste kühle Abfahrt sehr zu empfehlen.",
+                "hu": "Melegedjen fel a napon a belső udvarban, mielőtt útnak indulna; a kesztyű viselése erősen ajánlott az első hűvös lejtőkhöz.",
+                "ro": "Încălziți-vă la soare în curtea interioară înainte de plecare; purtarea mănușilor este recomandată pentru primele coborâri răcoroase.",
+                "en": "Warm up in the sun in the inner courtyard before heading out; wearing gloves is highly recommended for the first cool descents."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Marrano",
+                "hu": "Molí d'en Marrano",
+                "ro": "Molí d'en Marrano",
+                "en": "Molí d'en Marrano"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und kann blenden; tragen Sie eine Sonnenbrille beim Radfahren, um die Mühle und den Weg sicher im Blick zu haben.",
+                "hu": "A téli nap alacsonyan jár és elvakíthat; viseljen napszemüveget tekerés közben, hogy biztonságosan lássa a malmot és az utat.",
+                "ro": "Soarele de iarnă este jos și poate fi orbitor; purtați ochelari de soare în timp ce pedalați pentru a vedea moara și drumul în siguranță.",
+                "en": "The winter sun is low and can be blinding; wear sunglasses while riding to see the mill and the path safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Galineta",
+                "hu": "Molí d'en Galineta",
+                "ro": "Molí d'en Galineta",
+                "en": "Molí d'en Galineta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die winterliche Landschaft; halten Sie den Stopp kurz, um während der Fahrt nicht auszukühlen.",
+                "hu": "Élvezze a tágas kilátást a téli tájra; tartsa röviden a megállót, hogy tekerés közben ne hűljön ki túlságosan a teste.",
+                "ro": "Bucurați-vă de panorama largă asupra peisajului de iarnă; păstrați oprirea scurtă pentru a nu vi se răci corpul prea tare.",
+                "en": "Enjoy the wide view over the winter landscape; keep the stop short to prevent your body from cooling down too much while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí den Perdiu",
+                "hu": "Molí den Perdiu",
+                "ro": "Molí den Perdiu",
+                "en": "Molí den Perdiu"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf feuchte Stellen im Schatten der Mühle, die im Winter lange glatt bleiben können; fahren Sie vorausschauend und vorsichtig.",
+                "hu": "Ügyeljen a malom árnyékában lévő nedves foltokra, amelyek télen hosszan csúszósak maradhatnak; vezessen előrelátóan és óvatosan.",
+                "ro": "Atenție la porțiunile umede din umbra morii, care pot rămâne alunecoase mult timp iarna; conduceți preventiv și cu grijă.",
+                "en": "Watch out for damp patches in the shadow of the mill, which can remain slippery for a long time in winter; ride defensively and carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de Son Pere Negre",
+                "hu": "Molí de Son Pere Negre",
+                "ro": "Molí de Son Pere Negre",
+                "en": "Molí de Son Pere Negre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Anstieg, um die Durchblutung anzuregen; die klare Winterluft macht die körperliche Anstrengung besonders angenehm.",
+                "hu": "Használja ki a rövid emelkedőt a vérkeringés felpezsdítésére; a tiszta téli levegő különösen kellemessé teszi a fizikai aktivitást.",
+                "ro": "Profitați de urcarea scurtă pentru a vă activa circulația; aerul curat de iarnă face activitatea fizică extrem de plăcută.",
+                "en": "Take advantage of the short climb to boost your circulation; the crisp winter air makes physical activity particularly pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaume III.",
+                "hu": "Jaume III.",
+                "ro": "Jaume III.",
+                "en": "Jaume III."
+              },
+              "tip_5lang": {
+                "de": "Das historische Zentrum bietet im Winter windgeschützte Ecken für eine Pause; sichern Sie Ihr Rad und genießen Sie die warme Nachmittagssonne.",
+                "hu": "A történelmi központ szélvédett sarkokat kínál a pihenéshez télen is; zárja le a biciklit, és élvezze a délutáni nap melegét.",
+                "ro": "Centrul istoric oferă colțuri ferite de vânt pentru odihnă chiar și iarna; încuiați bicicleta și bucurați-vă de căldura soarelui de după-amiază.",
+                "en": "The historical center offers wind-protected corners for resting even in winter; lock your bike and enjoy the warmth of the afternoon sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Miquel",
+                "hu": "Sant Miquel",
+                "ro": "Sant Miquel",
+                "en": "Sant Miquel"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch im Inneren der Kirche ist ideal, um kurz zur Ruhe zu kommen; denken Sie daran, beim Wiedereinstieg die Jacke gut zu schließen.",
+                "hu": "A templombelső meglátogatása ideális a rövid megnyugváshoz; ne felejtse el jól felhúzni a cipzárt a kabátján, mielőtt újra nyeregbe száll.",
+                "ro": "Vizitarea interiorului bisericii este ideală pentru un moment de liniște; nu uitați să vă încheiați bine jacheta înainte de a pleca iar la drum.",
+                "en": "Visiting the church interior is ideal for a moment of calm; remember to zip up your jacket well before getting back in the saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Toni Catany",
+                "hu": "Toni Catany",
+                "ro": "Toni Catany",
+                "en": "Toni Catany"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss, um sich in den beheizten Räumen aufzuwärmen; genießen Sie die Ausstellung, während draußen die Winterdämmerung beginnt.",
+                "hu": "Tökéletes befejezés a fűtött termekben való felmelegedéshez; élvezze a kiállítást, miközben odakint elkezdődik a téli szürkület.",
+                "ro": "Finalul perfect pentru a vă încălzi în sălile primitoare; bucurați-vă de expoziție în timp ce afară începe amurgul de iarnă.",
+                "en": "The perfect finish to warm up in the heated rooms; enjoy the exhibition while the winter twilight begins outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "Az út a Toni Catany múzeum kiváló fotóival kezdődik, melyet a Sant Miquel templom csendje követ. Délben kényelmesen elérjük a lenyűgöző Jaume III. emlékművet, hogy megismerjük a sziget középkori történelmét. Délután a Mostatxet malom és a Barca malom lenyűgöző kőfalai mellett autózunk el. Az estét a Marrano malomnál zárjuk, ahonnan csodálatos kilátás nyílik a környező tájra.",
         "ro": "Călătoria începe la muzeul Toni Catany cu fotografii remarcabile, urmată de un moment de liniște la Sant Miquel. La prânz ajungem confortabil la monumentul Jaume III pentru a explora istoria medievală. După-amiaza trecem pe lângă morile de vânt urbane Mostatxet și Barca cu zidurile lor de piatră. Seara, moara Marrano de la marginea orașului oferă priveliști ample la apusul soarelui.",
         "en": "The drive begins at the Toni Catany museum with outstanding photography, followed by a quiet moment in Sant Miquel. At midday, we easily reach the impressive Jaume III monument to explore the island's medieval history. The afternoon route takes us past the Mostatxet and the stone-walled Barca windmills. In the evening, the Marrano mill offers sweeping countryside views as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Llucmajor auch bei Regen bequem zu erkunden. Vormittags besuchen Sie das Toni Catany Zentrum, wo Sie fast direkt vor der Tür parken können. Mittags bietet Sant Miquel einen trockenen Stopp im Herzen der Stadt. Die Windmühlentour am Nachmittag lässt sich wunderbar vom Fahrersitz aus genießen, mit kurzen Fotostopps zwischen den Regenschauern.",
+            "hu": "Autóval Llucmajor esőben is kényelmesen felfedezhető. Délelőtt látogasson el a Toni Catany központba, ahol szinte az ajtó előtt parkolhat. Délben a Sant Miquel templom kínál száraz megállót a város szívében. A délutáni szélmalom-túra remekül élvezhető a vezetőülésből is, rövid fotómegállókkal a záporok közötti szünetekben.",
+            "ro": "Cu mașina, Llucmajor poate fi explorat confortabil chiar și pe ploaie. Dimineața vizitați centrul Toni Catany, unde puteți parca aproape de intrare. La prânz, biserica Sant Miquel oferă o oprire uscată în inima orașului. Turul morilor de vânt de după-amiază poate fi savurat din scaunul șoferului, cu opriri scurte pentru poze între averse.",
+            "en": "Llucmajor is easy to explore by car even in the rain. In the morning, visit the Toni Catany center where you can park almost right at the door. At noon, Sant Miquel church offers a dry stop in the heart of the city. The afternoon windmill tour can be enjoyed from the driver's seat, with short photo stops between the showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Toni Catany",
+                "hu": "Toni Catany",
+                "ro": "Toni Catany",
+                "en": "Toni Catany"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den umliegenden Straßen und nutzen Sie den Regenschirm für den kurzen Weg; das Museum ist der beste Ort für eine trockene Vormittagspause.",
+                "hu": "Parkoljon a környező utcákban, és használjon esernyőt a rövid úthoz; a múzeum a legjobb helyszín egy száraz délelőtti pihenőre.",
+                "ro": "Parcați pe străzile din jur și folosiți umbrela pentru drumul scurt; muzeul este cea mai bună locație pentru o pauză de dimineață uscată.",
+                "en": "Park in the surrounding streets and use an umbrella for the short walk; the museum is the best location for a dry morning break."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Miquel",
+                "hu": "Sant Miquel",
+                "ro": "Sant Miquel",
+                "en": "Sant Miquel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus in der Nähe, um trockenen Fußes zur Kirche zu gelangen; das Innere bietet Schutz vor dem stärksten Regen am Mittag.",
+                "hu": "Használja a közeli parkolóházat, hogy száraz lábbal jusson el a templomhoz; a belső tér védelmet nyújt a déli erős esőzés idején.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge la biserică fără a vă uda; interiorul oferă protecție în timpul ploii abundente de la prânz.",
+                "en": "Use the nearby parking garage to reach the church with dry feet; the interior provides protection during the heavy midday rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaume III.",
+                "hu": "Jaume III.",
+                "ro": "Jaume III.",
+                "en": "Jaume III."
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam am Denkmal vorbei oder parken Sie kurz für ein Foto aus dem Fenster; die Sicht kann bei starkem Regen eingeschränkt sein.",
+                "hu": "Hajtson el lassan az emlékmű mellett, vagy parkoljon le rövid időre egy ablakból készült fotóhoz; erős esőben a látótávolság korlátozott lehet.",
+                "ro": "Conduceți încet pe lângă monument sau parcați scurt pentru o poză de la fereastră; vizibilitatea poate fi redusă în timpul ploii intense.",
+                "en": "Drive slowly past the monument or park briefly for a photo from the window; visibility can be limited during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Mostatxet",
+                "hu": "Molí d'en Mostatxet",
+                "ro": "Molí d'en Mostatxet",
+                "en": "Molí d'en Mostatxet"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Rutschgefahr beim Aussteigen auf unbefestigten Seitenstreifen; die Mühle lässt sich gut vom Auto aus im Trockenen betrachten.",
+                "hu": "Ügyeljen a csúszásveszélyre, ha az útmenti burkolatlan részen száll ki; a malom jól megtekinthető a száraz autóból is a várakozás alatt.",
+                "ro": "Atenție la riscul de alunecare dacă coborâți pe acostamentul neasfaltat; moara poate fi observată bine și din mașina uscată în timp ce așteptați.",
+                "en": "Watch out for slipping if you get out on the unpaved shoulder; the mill can be clearly seen from the dry car while you wait."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Barca",
+                "hu": "Molí d'en Barca",
+                "ro": "Molí d'en Barca",
+                "en": "Molí d'en Barca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Scheibenwischer auf höchster Stufe für freie Sicht auf die Mühle; vermeiden Sie das Parken in tiefen Pfützen am Straßenrand.",
+                "hu": "Használja az ablaktörlőt a legmagasabb fokozaton a tiszta kilátásért; kerülje a parkolást az út mentén kialakuló mély tócsákban.",
+                "ro": "Folosiți ștergătoarele la viteză maximă pentru o vizibilitate clară; evitați parcarea în bălțile adânci formate pe marginea drumului.",
+                "en": "Use the windshield wipers at full speed for a clear view; avoid parking in deep puddles that form along the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Marrano",
+                "hu": "Molí d'en Marrano",
+                "ro": "Molí d'en Marrano",
+                "en": "Molí d'en Marrano"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vorsichtig, da die Straßen im Außenbereich bei Nässe tückisch sein können; ein letzter Blick im Regen lohnt sich dennoch.",
+                "hu": "Óvatosan fejezze be az utat, mivel a külterületi utak vizesen csalókák lehetnek; egy utolsó pillantás az esőben így is megéri a fáradságot.",
+                "ro": "Încheiați drumul cu atenție, deoarece șoselele exterioare pot fi înșelătoare pe ud; o ultimă privire prin ploaie merită totuși efortul.",
+                "en": "Finish your drive carefully as outer roads can be tricky when wet; one last look through the rain is still worth the effort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Llucmajor verbindet Komfort mit tollen Ausblicken. Vormittags wärmen Sie sich in der Toni Catany Stiftung auf, bevor Sie zu den historischen Stätten weiterfahren. Mittags bietet das Zentrum sonnige Plätze zum Parken und Verweilen. Da es gegen 17:00 Uhr dunkel wird, genießen Sie die Fahrt zu den Windmühlen im goldenen Licht der tiefstehenden Wintersonne.",
+            "hu": "A téli autós kirándulás Llucmajor környékén a kényelmet ötvözi a nagyszerű kilátással. Délelőtt melegedjen fel a Toni Catany alapítványnál, mielőtt továbbindulna a történelmi helyszínekre. Délben a központ napos parkolóhelyeket kínál a megálláshoz. Mivel 17:00 körül sötétedik, élvezze a szélmalmokhoz vezető utat a téli nap aranyló fényében.",
+            "ro": "O excursie auto de iarnă prin Llucmajor îmbină confortul cu panoramele superbe. Dimineața, încălziți-vă la fundația Toni Catany înainte de a pleca spre locurile istorice. La prânz, centrul oferă locuri de parcare însorite pentru popas. Deoarece se întunecă în jur de 17:00, savurați drumul spre mori în lumina aurie a soarelui de iarnă.",
+            "en": "A winter drive around Llucmajor combines comfort with great views. In the morning, warm up at the Toni Catany foundation before heading to the historical sites. At noon, the center offers sunny parking spots for your stop. Since it gets dark around 5:00 PM, enjoy the drive to the windmills in the golden light of the low winter sun."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Toni Catany",
+                "hu": "Toni Catany",
+                "ro": "Toni Catany",
+                "en": "Toni Catany"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Heizung im Auto auf dem Weg; das Museum bietet eine wohlige Wärme für die kulturelle Erkundung am Vormittag.",
+                "hu": "Élvezze az autó fűtését az úton; a múzeum kellemes meleget kínál a délelőtti kulturális felfedezéshez a város központjában.",
+                "ro": "Bucurați-vă de căldura din mașină pe drum; muzeul oferă o temperatură plăcută pentru explorarea culturală de dimineață.",
+                "en": "Enjoy the car's heater on the way; the museum offers cozy warmth for your morning cultural exploration in the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Miquel",
+                "hu": "Sant Miquel",
+                "ro": "Sant Miquel",
+                "en": "Sant Miquel"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Sonne, damit das Auto nicht zu sehr auskühlt; im Inneren der Kirche ist es im Winter meist recht frisch.",
+                "hu": "Keressen napos parkolóhelyet, hogy az autó ne hűljön ki túlságosan; a templom belseje télen általában meglehetősen hűvös maradhat.",
+                "ro": "Căutați un loc de parcare la soare pentru ca mașina să nu se răcească prea tare; interiorul bisericii este de obicei destul de răcoros iarna.",
+                "en": "Look for a sunny parking spot so the car doesn't cool down too much; the interior of the church is usually quite chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaume III.",
+                "hu": "Jaume III.",
+                "ro": "Jaume III.",
+                "en": "Jaume III."
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für perfekte Fotos des Denkmals; nutzen Sie die kurzen Wege vom Parkplatz, um nicht zu lange in der Kälte zu stehen.",
+                "hu": "A tiszta téli levegő tökéletes fotókat eredményez az emlékműnél; használja ki a parkolótól vezető rövid utat, hogy ne álljon sokat a hidegben.",
+                "ro": "Aerul curat de iarnă asigură fotografii perfecte la monument; profitați de drumul scurt de la parcare pentru a nu sta mult în frig.",
+                "en": "The crisp winter air ensures perfect photos of the monument; take advantage of the short walk from the parking lot to avoid standing in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Mostatxet",
+                "hu": "Molí d'en Mostatxet",
+                "ro": "Molí d'en Mostatxet",
+                "en": "Molí d'en Mostatxet"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann beim Fahren blenden, nutzen Sie die Sonnenblende; die Mühle erstrahlt im Winterlicht in besonders schönen Farben.",
+                "hu": "Az alacsonyan járó nap elvakíthat vezetés közben, használja a napellenzőt; a malom a téli fényben különösen szép színekben pompázik.",
+                "ro": "Soarele jos vă poate orbi în timp ce conduceți, folosiți parasolarul; moara strălucește în culori deosebit de frumoase în lumina iernii.",
+                "en": "The low sun can be blinding while driving, use your sun visor; the mill shines in particularly beautiful colors in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Barca",
+                "hu": "Molí d'en Barca",
+                "ro": "Molí d'en Barca",
+                "en": "Molí d'en Barca"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem warmen Auto, falls der Winterwind draußen zu stark weht; die Landschaft ist jetzt besonders weit und klar.",
+                "hu": "Élvezze a kilátást a meleg autóból, ha a téli szél odakint túl erős; a táj ilyenkor különösen tágasnak és tisztának tűnik a volán mögül.",
+                "ro": "Bucurați-vă de priveliște din mașina caldă dacă vântul de iarnă este prea puternic; peisajul pare acum extrem de vast și clar.",
+                "en": "Enjoy the view from the warm car if the winter wind is too strong outside; the landscape appears especially vast and clear right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Marrano",
+                "hu": "Molí d'en Marrano",
+                "ro": "Molí d'en Marrano",
+                "en": "Molí d'en Marrano"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den letzten Stopp vor 17:00 Uhr ein, um die Mühle noch im Tageslicht zu sehen; die Dämmerung setzt im Winter sehr rasch ein.",
+                "hu": "Tervezze az utolsó megállót 17:00 elé, hogy még nappali fényben lássa a malmot; az alkonyat télen nagyon gyorsan beköszönt a szántóföldek felett.",
+                "ro": "Planificați ultima oprire înainte de 17:00 pentru a vedea moara la lumina zilei; amurgul se lasă foarte repede iarna peste câmpuri.",
+                "en": "Plan your last stop before 5:00 PM to see the mill in daylight; twilight sets in very quickly in winter over the fields."
+              }
+            }
+          ]
+        }
       }
     }
   }

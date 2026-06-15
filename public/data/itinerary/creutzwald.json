@@ -137,6 +137,168 @@
         "hu": "Reggel: Sétánkat Creutzwald szívében kezdjük, és megcsodáljuk a központi Église de l'Exaltation lenyűgöző építészetét. Dél: Továbbsétálunk a békés Creutzwald-tóhoz, amely tökéletes hely a pihenésre, mielőtt a közeli Église Notre-Dame-de-Fatima felé vennénk az irányt. Délután: Egy frissítő séta elvezet a történelmi Église Sainte-Thérèse-hez, ahol értékelhetjük a regionális vallási örökséget. Este: Napunkat az Église du Christ-Roi templomnál zárjuk, elmerülve a nyugodt légkörben és visszagondolva a csodás városi élményekre.",
         "ro": "Dimineață: Începem turul nostru pietonal în inima orașului Creutzwald, admirând arhitectura uimitoare a bisericii centrale Exaltation. Prânz: Continuăm spre pașnicul Lac Creutzwald, un loc perfect pentru a ne relaxa înainte de a ne îndrepta spre biserica Notre-Dame-de-Fatima. După-amiază: O plimbare vioaie ne aduce la biserica istorică Sainte-Thérèse, unde apreciem moștenirea religioasă regională. Seară: Ne încheiem ziua la Église du Christ-Roi, absorbind atmosfera senină și reflectând la o zi minunată petrecută în oraș.",
         "en": "Morning: We begin our walking tour in the heart of Creutzwald, admiring the stunning architecture of the central Église de l'Exaltation-de-la-Sainte-Croix. Midday: We continue to the peaceful Lake of Creutzwald, a perfect spot to relax and take in the natural surroundings before heading to the nearby Église Notre-Dame-de-Fatima. Afternoon: A brisk walk brings us to the historic Église Sainte-Thérèse, where we can appreciate the regional religious heritage and its distinct charm. Evening: We conclude our day at the Église du Christ-Roi, soaking in the serene atmosphere and reflecting on a lovely day in the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen mit Schutz in der zentralen Kirche. Mittags bietet der neblige See einen stimmungsvollen Spaziergang – tragen Sie wasserdichte Stiefel. Erkunden Sie nachmittags trockene Kapellen. Beenden Sie den Tag an einem gemütlichen Ort.",
+            "hu": "Kezdje az esős reggelt a központi templom menedékében. Délben a ködös tó hangulatos sétát kínál – viseljen vízálló cipőt. A nedves délutánt töltse száraz, békés kápolnák felfedezésével. Zárja a napot egy hangulatos, meleg helyen.",
+            "ro": "Începeți dimineața ploioasă adăpostindu-vă în biserica centrală. La prânz, lacul cețos oferă o plimbare plină de atmosferă – purtați cizme impermeabile. Petreceți după-amiaza explorând capele uscate. Încheiați ziua găsind un loc confortabil.",
+            "en": "Start your rainy morning seeking shelter in the central church. By noon, the misty lake offers a moody, atmospheric walk—wear waterproof boots. Spend the wet afternoon exploring dry, peaceful chapels. End the day finding a cozy spot as the rain continues to fall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "hu": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "ro": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "en": "Église de l'Exaltation-de-la-Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen Schutz und bewundern Sie die Glasfenster; halten Sie den Regenschirm bereit.",
+                "hu": "Keressen menedéket bent és csodálja meg az üvegablakokat; tartsa kéznél az esernyőt.",
+                "ro": "Adăpostiți-vă înăuntru și admirați vitraliile; țineți umbrela la îndemână.",
+                "en": "Take shelter inside and admire the stained glass; keep your umbrella handy."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of Creutzwald",
+                "hu": "Lake of Creutzwald",
+                "ro": "Lake of Creutzwald",
+                "en": "Lake of Creutzwald"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser wirkt im Regen dramatisch; tragen Sie wasserdichte Stiefel für die schlammigen Wege.",
+                "hu": "A víz drámaian fest az esőben; viseljen vízálló csizmát a sáros tóparti ösvényekhez.",
+                "ro": "Apa arată dramatic în ploaie; purtați cizme impermeabile pentru potecile noroioase.",
+                "en": "The water looks dramatic in the rain; wear waterproof boots for the muddy lakeside paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Fatima",
+                "hu": "Église Notre-Dame-de-Fatima",
+                "ro": "Église Notre-Dame-de-Fatima",
+                "en": "Église Notre-Dame-de-Fatima"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich drinnen ab und genießen Sie den friedlichen Altar abseits der Schauer.",
+                "hu": "Szárítkozzon meg bent, és élvezze a békés oltárt, távol a kinti heves záporoktól.",
+                "ro": "Uscați-vă înăuntru și bucurați-vă de altarul liniștit, departe de ploile torențiale.",
+                "en": "Dry off inside and enjoy the peaceful altar away from the heavy showers outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Thérèse",
+                "hu": "Église Sainte-Thérèse",
+                "ro": "Église Sainte-Thérèse",
+                "en": "Église Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer sicherer Hafen vor dem Regen, der architektonische Schönheit und eine trockene Pause bietet.",
+                "hu": "Újabb menedék az eső elől, amely építészeti szépséget és száraz pihenőt kínál.",
+                "ro": "Un alt refugiu sigur împotriva ploii, oferind frumusețe arhitecturală și un popas uscat.",
+                "en": "Another safe haven from the rain, offering quiet architectural beauty and dry respite."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Église du Christ-Roi",
+                "ro": "Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang hier und schütteln Sie den Schirm auf der Veranda ab.",
+                "hu": "Fejezze be vizes sétáját itt, rázza le esernyőjét e hangulatos hely tornácán.",
+                "ro": "Încheiați plimbarea udă aici, scuturându-vă umbrela în pridvorul acestui spațiu primitor.",
+                "en": "Finish your wet walk here, shaking off your umbrella in the porch of this cozy space."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt an der Hauptkirche. Mittags folgt ein zügiger Spaziergang um den teils gefrorenen See – warm anziehen! Nachmittags bieten die Kapellen warme Rückzugsorte. Der Tag endet früh, wenn gegen 17:00 Uhr die Dämmerung einsetzt.",
+            "hu": "Egy csípős téli reggel a főtemplomnál indul. A fagyos tó körüli séta felpezsdít – öltözzön jó melegen! Délután a kápolnák nyújtanak meleg menedéket a hideg elől. A nap korán véget ér, mivel 17:00 körül már sötétedik.",
+            "ro": "O dimineață de iarnă geroasă începe la biserica principală. Prânzul aduce o plimbare răcoroasă în jurul lacului înghețat – îmbrăcați-vă gros! După-amiaza, capelele oferă refugii calde. Ziua se încheie devreme, odată cu lăsarea întunericului pe la 17:00.",
+            "en": "A crisp winter morning starts at the main church. Midday brings a brisk, chilly walk around the partially frozen lake—bundle up well! In the afternoon, the remaining chapels offer warm retreats. The day ends early as dusk falls around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "hu": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "ro": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "en": "Église de l'Exaltation-de-la-Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Innenraum, um die Hände aufzutauen, bevor Sie dem eisigen Wind trotzen.",
+                "hu": "Meleg belső tér, ahol felengedhetnek a kezei, mielőtt kilép a fagyos szélbe.",
+                "ro": "Un interior cald pentru a vă dezgheța mâinile înainte de a înfrunta vânturile înghețate.",
+                "en": "A warm interior to thaw your hands before facing the freezing winds outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of Creutzwald",
+                "hu": "Lake of Creutzwald",
+                "ro": "Lake of Creutzwald",
+                "en": "Lake of Creutzwald"
+              },
+              "tip_5lang": {
+                "de": "Eine wunderschöne gefrorene Landschaft erwartet Sie; tragen Sie eine Windjacke und dicke Handschuhe.",
+                "hu": "Gyönyörű fagyos táj várja; viseljen széldzsekit és vastag kesztyűt a sétához.",
+                "ro": "Vă așteaptă un peisaj înghețat superb; purtați o geacă de vânt și mănuși groase.",
+                "en": "A beautiful frozen landscape awaits; wear a windbreaker and thick gloves for this walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Fatima",
+                "hu": "Église Notre-Dame-de-Fatima",
+                "ro": "Église Notre-Dame-de-Fatima",
+                "en": "Église Notre-Dame-de-Fatima"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht durch die Fenster ist friedlich; treten Sie ein, um die Wärme zu genießen.",
+                "hu": "Az ablakokon átszűrődő téli fény békés; lépjen be, hogy élvezze a meleget.",
+                "ro": "Lumina iernii ce pătrunde prin ferestre este senină; intrați pentru a vă bucura de căldură.",
+                "en": "The winter light filtering through the windows is serene; step inside to enjoy the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Thérèse",
+                "hu": "Église Sainte-Thérèse",
+                "ro": "Église Sainte-Thérèse",
+                "en": "Église Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "de": "Wenn der kalte Nachmittag anbricht, ist die ruhige Atmosphäre perfekt für eine Pause.",
+                "hu": "Ahogy beáll a hideg délután, a benti csendes hangulat tökéletes a téli pihenéshez.",
+                "ro": "Pe măsură ce se lasă frigul, ambianța liniștită este perfectă pentru o odihnă de iarnă.",
+                "en": "As the cold afternoon sets in, the quiet ambiance inside is perfect for a winter rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Église du Christ-Roi",
+                "ro": "Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor der Dämmerung an diesem Ort an, um dem beißenden Frost zu entfliehen.",
+                "hu": "Érkezzen közvetlenül szürkület előtt erre az elmélyült helyre, menekülve a csípős fagy elől.",
+                "ro": "Ajungeți chiar înainte de amurg în acest spațiu contemplativ pentru a scăpa de gerul serii.",
+                "en": "Arrive just before twilight at this contemplative space to escape the biting evening frost."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel: Kerékpáros kalandunk a városközpontban kezdődik, majd a családbarát Parkbad Überherrn felé tekerünk egy kis aktív szórakozásra. Dél: Visszabiciklizünk a város felé, hogy megpihenjünk a gyönyörű Creutzwald-tónál, élvezve a nyugodt vizeket. Délután: Egy rövid út elvisz minket az Église Notre-Dame-de-Fatima-hoz, majd a bájos Église Sainte-Thérèse templomhoz. Este: Biciklitúránkat a fenséges Église du Christ-Roi-nál fejezzük be, megpihentetve lábainkat és megcsodálva a nyugodt vallási építészetet.",
         "ro": "Dimineață: Aventura noastră cu bicicleta începe în centrul orașului, înainte de a pedala spre Parkbad Überherrn pentru distracție activă. Prânz: Ne întoarcem spre oraș pentru a ne relaxa la frumosul Lac Creutzwald, bucurându-ne de apele calme și țărmurile verzi. După-amiază: O scurtă plimbare ne duce la Église Notre-Dame-de-Fatima și apoi la fermecătoarea Église Sainte-Thérèse. Seară: Încheiem turul la maiestuoasa biserică Christ-Roi, odihnindu-ne picioarele în timp ce apreciem arhitectura religioasă liniștită.",
         "en": "Morning: Our cycling adventure starts in the city center before we pedal out to the family-friendly Parkbad Überherrn for some active fun. Midday: We bike back toward the city to relax at the beautiful Lake of Creutzwald, taking time to enjoy the calm waters and green shores. Afternoon: A short ride takes us to Église Notre-Dame-de-Fatima and then on to the charming Église Sainte-Thérèse. Evening: We finish our cycling tour at the majestic Église du Christ-Roi, resting our legs while appreciating the tranquil religious architecture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht. Starten Sie an der Kirche, fahren Sie vorsichtig zum Schwimmbad. Mittags am See gibt es nasse Wege – rutschige Blätter! Nachmittags bieten die Kapellen Schutz, um den Sattel vor der Heimfahrt abzuwischen.",
+            "hu": "Esőben óvatosan kell bringázni. Kezdjen a száraz templomnál, majd óvatosan az uszodáig. Délben a tónál vizes utak várják – vigyázzon a csúszós falevelekre! A délutáni kápolnák menedéket nyújtanak a nyereg letörléséhez.",
+            "ro": "Ciclismul pe ploaie necesită prudență. Începeți la biserică, apoi mergeți cu grijă la piscină. La prânz pe lac înseamnă poteci ude – atenție la frunzele alunecoase! Capelele de după-amiază oferă adăpost pentru a șterge șaua.",
+            "en": "Cycling in the rain needs caution. Start with the dry church, then ride carefully to the pool. Midday at the lake means wet paths—watch out for slippery leaves! Afternoon stops at the chapels offer essential shelter to wipe down your saddle before heading home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "hu": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "ro": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "en": "Église de l'Exaltation-de-la-Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihr Fahrradlicht ein und trocknen Sie sich in diesem historischen Bauwerk ab.",
+                "hu": "Kapcsolja be a kerékpárlámpát, és szárítkozzon meg ebben a történelmi épületben.",
+                "ro": "Păstrați luminile bicicletei aprinse și uscați-vă în această clădire istorică.",
+                "en": "Keep your bike lights on and dry off inside this historic structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Parkbad Überherrn",
+                "hu": "Parkbad Überherrn",
+                "ro": "Parkbad Überherrn",
+                "en": "Parkbad Überherrn"
+              },
+              "tip_5lang": {
+                "de": "Eine tolle Flucht vor starken Schauern; prüfen Sie, ob die Innenanlagen geöffnet sind.",
+                "hu": "Kiváló menedék a heves záporok elől; ellenőrizze, nyitva vannak-e a benti terek.",
+                "ro": "O evadare excelentă din calea averselor; verificați dacă facilitățile interioare sunt deschise.",
+                "en": "A great escape from heavy showers; check if the indoor facilities are open."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of Creutzwald",
+                "hu": "Lake of Creutzwald",
+                "ro": "Lake of Creutzwald",
+                "en": "Lake of Creutzwald"
+              },
+              "tip_5lang": {
+                "de": "Radwege können durch nassen Schlamm und Blätter rutschig sein, fahren Sie in Kurven langsam.",
+                "hu": "A kerékpárutak csúszósak lehetnek a sártól és levelektől, lassítson a kanyarokban.",
+                "ro": "Pistele pot fi alunecoase de la noroi și frunze, așa că încetiniți la viraje.",
+                "en": "Bike paths can be slick with wet mud and leaves, so slow down on corners here."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Fatima",
+                "hu": "Église Notre-Dame-de-Fatima",
+                "ro": "Église Notre-Dame-de-Fatima",
+                "en": "Église Notre-Dame-de-Fatima"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter überdachter Rastplatz, um den Sattel abzuwischen und durchzuatmen.",
+                "hu": "Tökéletes fedett pihenőhely, ahol letörölheti a nyerget és szusszanhat egyet.",
+                "ro": "Un loc de odihnă perfect adăpostit pentru a șterge șaua și a lua o pauză.",
+                "en": "A perfect sheltered rest stop to wipe down your saddle and take a breather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Thérèse",
+                "hu": "Église Sainte-Thérèse",
+                "ro": "Église Sainte-Thérèse",
+                "en": "Église Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz, wenn der Regen stärker wird, und bewundern Sie das friedliche Kirchenschiff.",
+                "hu": "Húzódjon be ide, ha rákezdi az eső, és csodálja meg a békés hajót.",
+                "ro": "Adăpostiți-vă aici dacă ploaia devine mai puternică și admirați nava liniștită.",
+                "en": "Take cover here if the rain gets heavier, and admire the peaceful nave in silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Église du Christ-Roi",
+                "ro": "Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad im Nassen gut ab und genießen Sie den trockenen Innenraum des letzten Halts.",
+                "hu": "Zárja le gondosan a kerékpárt az esőben, és élvezze az utolsó állomás száraz belső terét.",
+                "ro": "Încuiați bicicleta cu grijă pe ploaie și bucurați-vă de interiorul uscat al ultimei opriri.",
+                "en": "Lock your bike carefully in the wet and enjoy the dry interior of your final stop."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine eisige Winterfahrt! Ziehen Sie sich gegen den Wind warm an. Die morgendlichen Besuche sind frisch. Der See ist schön, aber eisig. Nachmittags bieten Kapellen kurze, warme Pausen, bevor die Sonne gegen 17:00 Uhr untergeht. Licht prüfen!",
+            "hu": "Fagyos téli túra! Öltözzön rétegesen a metsző szél ellen. A reggeli látogatások frissítőek. A tó gyönyörű, de jeges. A délutáni kápolnák rövid, meleg pihenőt adnak a korai, 17:00 órás naplemente előtt. Ellenőrizze a lámpákat!",
+            "ro": "O cursă înghețată de iarnă! Îmbrăcați-vă gros împotriva vântului tăios. Vizitele de dimineață sunt răcoroase. Lacul e frumos, dar înghețat. Capelele oferă scurte opriri calde înainte ca soarele să apună devreme la 17:00. Verificați luminile!",
+            "en": "A freezing winter ride! Layer up against the biting wind. Morning visits to the church and pool are brisk. The lake is beautiful but icy—keep moving. Afternoon chapels provide brief, warm stops before the sun sets early around 17:00. Ensure bike lights work!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "hu": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "ro": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "en": "Église de l'Exaltation-de-la-Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre kühle Fahrt hier und bewundern Sie den frostigen Morgen von drinnen.",
+                "hu": "Kezdje a hűvös utat itt, bentről csodálva a csendes, fagyos reggelt.",
+                "ro": "Începeți plimbarea răcoroasă aici, admirând dimineața geroasă din interior.",
+                "en": "Start your chilly ride here, admiring the quiet, frosty morning from inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parkbad Überherrn",
+                "hu": "Parkbad Überherrn",
+                "ro": "Parkbad Überherrn",
+                "en": "Parkbad Überherrn"
+              },
+              "tip_5lang": {
+                "de": "Die Außenbereiche sind gefroren, aber gut zum Aufwärmen, wenn der Innenbereich offen ist.",
+                "hu": "A kinti részek fagyosak, de jó hely a felmelegedésre, ha a benti tér nyitva van.",
+                "ro": "Zonele exterioare sunt înghețate, dar e un loc bun de încălzit dacă interiorul e deschis.",
+                "en": "The outdoor areas are frozen, but it's a good place to warm up if the interior is open."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of Creutzwald",
+                "hu": "Lake of Creutzwald",
+                "ro": "Lake of Creutzwald",
+                "en": "Lake of Creutzwald"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefährliche Eisflächen auf dem Radweg rund um das gefrorene Wasser.",
+                "hu": "Ügyeljen a veszélyes jégfoltokra a befagyott víz körüli kerékpárúton.",
+                "ro": "Atenție la peticele periculoase de gheață de pe pista de biciclete din jurul apei înghețate.",
+                "en": "Watch out for dangerous ice patches on the cycle path around the frozen water."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-Fatima",
+                "hu": "Église Notre-Dame-de-Fatima",
+                "ro": "Église Notre-Dame-de-Fatima",
+                "en": "Église Notre-Dame-de-Fatima"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um Ihre tauben Finger und Zehen nach der eiskalten Fahrt aufzuwärmen.",
+                "hu": "Lépjen be, hogy felmelegítse zsibbadt ujjait a metsző hidegben való tekerés után.",
+                "ro": "Intrați pentru a vă încălzi degetele amorțite după pedalatul în frigul tăios.",
+                "en": "Step inside to warm your numb fingers and toes after riding in the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Thérèse",
+                "hu": "Église Sainte-Thérèse",
+                "ro": "Église Sainte-Thérèse",
+                "en": "Église Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "de": "Die Nachmittagskälte bricht schnell herein; machen Sie dies zu einem kurzen, aber sehr warmen Halt.",
+                "hu": "A délutáni hideg gyorsan beáll; legyen ez egy gyors, de annál melegebb megálló.",
+                "ro": "Frigul după-amiezii se instalează rapid; faceți din aceasta o oprire scurtă, dar foarte caldă.",
+                "en": "The afternoon cold sets in fast; make this a quick but very warm and cozy stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Église du Christ-Roi",
+                "ro": "Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der Dämmerung an; stellen Sie sicher, dass Ihre Fahrradlichter voll aufgeladen sind.",
+                "hu": "Érkezzen meg szürkület előtt; győződjön meg róla, hogy a lámpák fel vannak töltve a sötét útra.",
+                "ro": "Ajungeți înainte de amurg; asigurați-vă că luminile bicicletei sunt complet încărcate pentru întoarcerea pe întuneric.",
+                "en": "Arrive before twilight; ensure your bike lights are fully charged for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Reggel: Először a Parkbad Überherrn felé autózunk, élvezve a festői utakat, mielőtt a családbarát medencénél és rekreációs területen pihennénk. Dél: Visszatérve Creutzwaldba, megállunk a nyugodt Creutzwald-tónál, majd meglátogatjuk a lenyűgöző 15000 m³-es víztározót. Délután: Egy rövid út a Reservoire Gazelhez vezet, ahol tovább fedezzük fel a környék természeti szépségeit. Este: A napot a történelmi Église Sainte-Thérèse-hez és végül az Église du Christ-Roi-hoz tett kényelmes autóúttal zárjuk.",
         "ro": "Dimineață: Conducem mai întâi spre Parkbad Überherrn, bucurându-ne de drumurile pitorești înainte de a ne relaxa la zona de recreere pentru familii. Prânz: Întorcându-ne în Creutzwald, oprim la Lacul Creutzwald și apoi vizităm impresionantul Rezervor 15000 m³. După-amiază: O scurtă călătorie ne aduce la Reservoire Gazel, continuând explorarea peisajelor naturale și a caracteristicilor acvatice. Seară: Încheiem cu o plimbare cu mașina până la biserica istorică Sainte-Thérèse și, în final, la Église du Christ-Roi.",
         "en": "Morning: We drive out first to Parkbad Überherrn, enjoying the scenic roads before relaxing at the family-friendly pool and recreation area. Midday: Returning to the natural beauty of Creutzwald, we stop at the serene Lake of Creutzwald and then visit the impressive Reservoir 15000 m³. Afternoon: A short drive brings us to the Reservoire Gazel, continuing our exploration of the area's natural landscapes and water features. Evening: We conclude with a drive to the historic Église Sainte-Thérèse and finally the Église du Christ-Roi."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Autofahren ist perfekt für einen Regentag hier! Einfache Wechsel zwischen Kirche und Schwimmbad halten Sie trocken. Mittags sieht der See aus dem warmen Auto dramatisch aus. Nachmittags wirken die Stauseen unter grauem Himmel beeindruckend.",
+            "hu": "Az autózás tökéletes egy esős napon! A templom és az uszoda közötti könnyű reggeli átmenetek szárazon tartják. A tó a meleg autóból ködös és drámai. A délutáni víztározók lenyűgözőek a szürke ég alatt. Élvezze a kápolnákat anélkül, hogy elázna.",
+            "ro": "Condusul este perfect pentru o zi ploioasă aici! Tranzacțiile ușoare de dimineață între biserică și piscină vă țin uscat. Lacul de la prânz arată dramatic din mașina caldă. Rezervoarele de după-amiază sunt uimitoare sub cerul gri.",
+            "en": "Driving is perfect for a rainy day here! Easy morning transitions between the church and pool keep you dry. The midday lake looks misty and dramatic from your warm car. Afternoon reservoirs are striking under grey skies. Enjoy the final chapels without getting soaked."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "hu": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "ro": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "en": "Église de l'Exaltation-de-la-Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah, um nicht nass zu werden; der Innenraum ist ein toller, trockener Zufluchtsort.",
+                "hu": "Parkoljon közel, hogy ne ázzon el; a belső tér remek száraz menedék.",
+                "ro": "Parcați aproape pentru a nu vă uda; interiorul este un refugiu uscat excelent.",
+                "en": "Park close to avoid getting soaked; the interior is a great dry refuge."
+              }
+            },
+            {
+              "name": {
+                "de": "Parkbad Überherrn",
+                "hu": "Parkbad Überherrn",
+                "ro": "Parkbad Überherrn",
+                "en": "Parkbad Überherrn"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Fahrt; rennen Sie schnell hinein, um den schweren Regentropfen auszuweichen.",
+                "hu": "Gyors autóút; fusson be gyorsan, hogy elkerülje a sűrű esőcseppeket.",
+                "ro": "O călătorie scurtă; fugiți repede înăuntru pentru a evita picăturile grele de ploaie.",
+                "en": "A quick drive over; run quickly inside to dodge the heavy raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of Creutzwald",
+                "hu": "Lake of Creutzwald",
+                "ro": "Lake of Creutzwald",
+                "en": "Lake of Creutzwald"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Regentropfen auf dem See bequem vom Auto aus oder unter einem festen Regenschirm.",
+                "hu": "Nézze az esőcseppek táncát a tavon kényelmesen az autójából, vagy egy stabil esernyő alól.",
+                "ro": "Urmăriți picăturile de ploaie pe lac din confortul mașinii sau sub o umbrelă rezistentă.",
+                "en": "Watch the raindrops dance on the lake from the comfort of your car or under a sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Reservoir 15000 m³",
+                "hu": "Reservoir 15000 m³",
+                "ro": "Reservoir 15000 m³",
+                "en": "Reservoir 15000 m³"
+              },
+              "tip_5lang": {
+                "de": "Das massive Bauwerk wirkt im Regen stimmungsvoll; fahren Sie vorsichtig auf nassen Zufahrtsstraßen.",
+                "hu": "A hatalmas építmény hangulatos az esőben; vezessen óvatosan a vizes bekötőutakon.",
+                "ro": "Structura masivă arată plină de atmosferă în ploaie; conduceți cu grijă pe drumurile de acces ude.",
+                "en": "The massive structure looks moody in the rain; be careful driving on the wet access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Reservoire Gazel",
+                "hu": "Reservoire Gazel",
+                "ro": "Reservoire Gazel",
+                "en": "Reservoire Gazel"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Scheibenwischer an, wenn Sie das Reservoir von der Straße aus sehen; kein Aussteigen nötig.",
+                "hu": "Tartsa bekapcsolva az ablaktörlőt, miközben az útról nézi a víztározót; nem kell kiszállnia a sárba.",
+                "ro": "Păstrați ștergătoarele pornite când priviți rezervorul de pe drum; nu e nevoie să ieșiți în ploaie.",
+                "en": "Keep the wipers on as you view this industrial reservoir from the road; no need to step out into the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Thérèse",
+                "hu": "Église Sainte-Thérèse",
+                "ro": "Église Sainte-Thérèse",
+                "en": "Église Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "de": "Sprinten Sie schnell vom Auto zur Kirchtür, um das ruhige, trockene Heiligtum drinnen zu genießen.",
+                "hu": "Fusson gyorsan az autótól a templomajtóig, és élvezze a csendes, száraz szentélyt odabent.",
+                "ro": "Fugiți rapid de la mașină la ușa bisericii pentru a vă bucura de sanctuarul liniștit și uscat înăuntru.",
+                "en": "Dash quickly from the car to the church door to enjoy the quiet, dry sanctuary inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Église du Christ-Roi",
+                "ro": "Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die regnerische Fahrt sicher geparkt in der Nähe dieser letzten schönen Kirche.",
+                "hu": "Fejezze be az esős utat biztonságosan parkolva e gyönyörű utolsó templom közelében.",
+                "ro": "Încheiați drumul ploios parcați în siguranță lângă această ultimă biserică frumoasă.",
+                "en": "Finish the rainy drive safely parked near this final beautiful church."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein beheiztes Auto macht diese Wintertour sehr angenehm. Die morgendlichen Stopps sind einfach und warm. Mittags sehen See und Stauseen wunderschön frostig aus. Fahren Sie vorsichtig wegen Eisglätte und denken Sie an die frühe Dämmerung gegen 17:00 Uhr.",
+            "hu": "A fűtött autó igazán kellemessé teszi ezt a téli túrát. A reggeli megállók könnyűek és melegek. Délben a tó és a víztározók gyönyörűek a zúzmarában. Vezessen óvatosan a jégfoltok miatt, és ne feledje, 17:00 körül már sötétedik az utolsó állomásoknál.",
+            "ro": "O mașină încălzită face acest tur de iarnă cu adevărat plăcut. Opririle de dimineață sunt ușoare și calde. La prânz, lacul și rezervoarele arată superb acoperite de gheață. Conduceți cu grijă din cauza gheții și amintiți-vă că se întunecă devreme, pe la 17:00.",
+            "en": "A heated car makes this winter tour truly pleasant. Morning stops are easy and warm. Midday, the lake and reservoirs look stark and beautiful covered in frost. Drive carefully as icy patches form, and remember dusk falls early around 17:00 at your final stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "hu": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "ro": "Église de l'Exaltation-de-la-Sainte-Croix",
+                "en": "Église de l'Exaltation-de-la-Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Heizung laufen, während Sie das frostige Äußere und das warme Innere betrachten.",
+                "hu": "Járassa a fűtést az autóban, amíg megnézi a fagyos külteret és a meleg belső teret.",
+                "ro": "Lăsați căldura pornită în mașină în timp ce intrați să vedeți exteriorul înghețat și interiorul cald.",
+                "en": "Keep the car heater running while you pop in to see the frosty exterior and warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Parkbad Überherrn",
+                "hu": "Parkbad Überherrn",
+                "ro": "Parkbad Überherrn",
+                "en": "Parkbad Überherrn"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann sehr rutschig sein, treten Sie also vorsichtig auf den gefrorenen Boden.",
+                "hu": "A parkoló nagyon csúszós lehet, ezért óvatosan lépjen a fagyott talajra.",
+                "ro": "Parcarea poate fi foarte alunecoasă, așa că pășiți cu grijă pe pământul înghețat.",
+                "en": "The parking lot might be very slippery, so step out carefully onto the frozen ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Lake of Creutzwald",
+                "hu": "Lake of Creutzwald",
+                "ro": "Lake of Creutzwald",
+                "en": "Lake of Creutzwald"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp im eisigen Wind, bevor Sie sich schnell in das warme Auto zurückziehen.",
+                "hu": "Rövid fotószünet a fagyos szélben, mielőtt gyorsan visszavonulna az autó melegébe.",
+                "ro": "O scurtă oprire pentru poze în vântul înghețat înainte de a vă retrage rapid în confortul mașinii.",
+                "en": "A brief photo stop in the freezing wind before quickly retreating to the warm comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Reservoir 15000 m³",
+                "hu": "Reservoir 15000 m³",
+                "ro": "Reservoir 15000 m³",
+                "en": "Reservoir 15000 m³"
+              },
+              "tip_5lang": {
+                "de": "Umgeben von tiefem Frost ist dieses massive Bauwerk ein imposanter und kahler Winteranblick.",
+                "hu": "A mély fagytól körülvett hatalmas építmény lenyűgöző és rideg téli látvány.",
+                "ro": "Înconjurată de ger adânc, această structură masivă este o priveliște de iarnă impunătoare și sobră.",
+                "en": "Surrounded by deep frost, this massive structure is an imposing and stark winter sight."
+              }
+            },
+            {
+              "name": {
+                "de": "Reservoire Gazel",
+                "hu": "Reservoire Gazel",
+                "ro": "Reservoire Gazel",
+                "en": "Reservoire Gazel"
+              },
+              "tip_5lang": {
+                "de": "Die Winterlandschaft um das Reservoir ist kahl, aber markant; bleiben Sie gemütlich in Ihrem beheizten Fahrzeug.",
+                "hu": "A víztározó körüli téli táj kopár, de lenyűgöző; maradjon kényelmesen a fűtött járművében.",
+                "ro": "Peisajul de iarnă din jurul rezervorului e pustiu, dar izbitor; stați confortabil în vehiculul încălzit.",
+                "en": "The winter landscape around the reservoir is barren but striking; stay cozy in your heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Thérèse",
+                "hu": "Église Sainte-Thérèse",
+                "ro": "Église Sainte-Thérèse",
+                "en": "Église Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar warmer Zufluchtsort, wenn der trübe Winternachmittag schnell in den frühen Abend übergeht.",
+                "hu": "Csodálatosan meleg menedék, ahogy a zord téli délután gyorsan kora estébe hajlik.",
+                "ro": "Un refugiu minunat de cald pe măsură ce după-amiaza sumbră de iarnă se estompează rapid în seara timpurie.",
+                "en": "A wonderfully warm refuge as the bleak winter afternoon quickly fades into the early evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Église du Christ-Roi",
+                "hu": "Église du Christ-Roi",
+                "ro": "Église du Christ-Roi",
+                "en": "Église du Christ-Roi"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Halt kurz vor völliger Dunkelheit; genießen Sie das wunderschön beleuchtete Innere.",
+                "hu": "Az utolsó megálló a teljes sötétség előtt; élvezze a gyönyörűen kivilágított belső teret.",
+                "ro": "Ultima oprire chiar înainte de întunericul complet; bucurați-vă de interiorul frumos iluminat.",
+                "en": "The last stop just before complete darkness; enjoy the beautifully illuminated interior."
+              }
+            }
+          ]
+        }
       }
     }
   }

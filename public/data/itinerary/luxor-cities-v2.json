@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a lenyűgöző luxori templomnál, átérezve az évezredek súlyát. Délben elsétál a kis, de fontos Szérapisz-kápolna mellett, amely ősi kultúrák találkozását őrzi. Délután figyelje a Nílus folyását a kompkikötőnél, majd a modern kormányzóság felé veszi az irányt. Este a világszínvonalú Luxori Múzeum kincseiben gyönyörködhet, elmerülve a fáraók korának dicsőségében.",
         "ro": "Începeți dimineața la magnificul Templu din Luxor, simțind greutatea mileniilor. La prânz, treceți pe lângă micul, dar importantul Altar al lui Serapis, reflectând amestecuri culturale antice. După-amiaza, priviți Nilul curgând la debarcader și treceți de Guvernoratul modern. Seara coboară în timp ce explorați Muzeul Luxor de clasă mondială, încheind ziua cufundați în gloria faraonică.",
         "en": "Begin your morning at the magnificent Luxor Temple, feeling the weight of millennia. Midday brings you past the small but significant Chapel of Serapis, reflecting ancient cultural blends. In the afternoon, watch the Nile flow by at the ferry dock and pass the modern Governorate. Finally, evening falls as you explore the world-class Luxor Museum, ending your day immersed in pharaonic glory."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Spaziergang am majestätischen Luxor-Tempel, wo der Regen die antiken Steine glänzen lässt. Mittags bietet die kurze Fährüberfahrt eine erfrischende Brise unter dem Schutz des Bootsdaches. Am Nachmittag finden Sie im Luxor-Museum den perfekten, trockenen Zufluchtsort. Den Abend verbringen Sie am besten in den überdachten Passagen der Stadt, während der Regen die Hitze mildert.",
+            "hu": "Kezdje a sétát a luxori templomnál, ahol az eső különleges csillogást ad az ókori köveknek. Délben a komp fedett része nyújt menedéket a rövid átkelés során. Délután a Luxori Múzeum kiváló fedett program a záporok elől. Az estét töltse a város árkádos részei alatt, élvezve a ritka eső utáni friss illatokat és a lehűlt levegőt.",
+            "ro": "Începeți plimbarea la Templul Luxor, unde ploaia face pietrele antice să strălucească spectaculos. La prânz, feribotul local oferă adăpost sub copertină în timpul traversării Nilului. După-amiaza, Muzeul Luxor este refugiul ideal și uscat pentru explorare. Seara, plimbați-vă pe străzile cu arcade, profitând de atmosfera răcoroasă și rară de după ploaie.",
+            "en": "Start your walk at the Luxor Temple, where the rain adds a unique sheen to the ancient stones. At noon, the local ferry's covered deck provides a dry crossing to the West Bank. In the afternoon, the Luxor Museum serves as a perfect indoor sanctuary from the showers. Spend your evening under the city's covered walkways, enjoying the fresh, cooled air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luxor-Tempel",
+                "hu": "Luxori templom",
+                "ro": "Templul din Luxor",
+                "en": "Luxor Temple"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die glänzenden Hieroglyphen im Regen, aber gehen Sie auf den glatten Steinböden vorsichtig, da diese bei Nässe sehr rutschig werden können.",
+                "hu": "Csodálja meg az esőben megcsillanó hieroglifákat, de lépkedjen óvatosan a kőlapokon, mert a nedves felület rendkívül csúszóssá és veszélyessé válhat.",
+                "ro": "Admirați hieroglifele care strălucesc în ploaie, dar mergeți cu mare atenție pe platformele de piatră, deoarece devin extrem de alunecoase când sunt ude.",
+                "en": "Admire the hieroglyphs glistening in the rain, but walk carefully on the stone floors as they become extremely slippery and hazardous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Serapis-Schrein",
+                "hu": "Szérapisz-kápolna",
+                "ro": "Altarul lui Serapis",
+                "en": "Chapel of Serapis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen kleineren Schrein für einen kurzen Moment im Trockenen und achten Sie auf die Details, die bei diffusem Regenlicht besser hervortreten.",
+                "hu": "Használja ki ezt a kisebb kápolnát egy rövid száraz pihenőre, és figyelje meg a részleteket, amelyek a szórt esőfényben még jobban láthatóvá válnak.",
+                "ro": "Folosiți acest altar mai mic pentru un scurt moment la adăpost și observați detaliile sculpturilor care ies în evidență în lumina difuză a ploii.",
+                "en": "Use this smaller shrine for a brief dry moment and notice the details of the carvings which often stand out better in the diffused rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Lokale Fähre zum Westufer",
+                "hu": "Helyi komp a nyugati partra",
+                "ro": "Feribot local spre malul de vest",
+                "en": "local ferry to West Bank"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie in der Mitte des Bootes unter dem Dach, um trocken zu bleiben, während Sie den Blick auf den wolkenverhangenen Nil und das Ufer genießen.",
+                "hu": "Maradjon a hajó közepén a tető alatt, hogy szárazon maradjon, miközben élvezi a borús Nílusra és a párás partpartra nyíló különleges kilátást.",
+                "ro": "Rămâneți în centrul ambarcațiunii sub acoperiș pentru a nu vă uda, admirând în același timp priveliștea Nilului sub cerul înnorat și malurile verzi.",
+                "en": "Stay in the center of the boat under the roof to remain dry while enjoying the unique view of the cloudy Nile and the misty riverbanks."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Gouvernorat-Diwan",
+                "hu": "Luxori Kormányzóság Diwanja",
+                "ro": "Diwanul Guvernoratului Luxor",
+                "en": "Luxor Governorate Diwan"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur von den gegenüberliegenden Arkaden aus, um nicht nass zu werden, und nutzen Sie die Pfützen für kreative Fotoreflektionen.",
+                "hu": "Szemlélje az épületet a szemközti árkádok alól, hogy ne ázzon el, és használja ki a víztükröket egy kreatív, tükröződő fotó elkészítéséhez.",
+                "ro": "Observați arhitectura clădirii de sub arcadele de vis-a-vis pentru a rămâne uscat și folosiți bălțile pentru fotografii creative cu reflexii.",
+                "en": "View the architecture from the opposite arcades to stay dry, and use the puddles on the ground for creative reflection photography of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Museum",
+                "hu": "Luxori Múzeum",
+                "ro": "Muzeul Luxor",
+                "en": "Luxor Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um einen starken Schauer auszusitzen; nehmen Sie sich Zeit für die klimatisierten und vollkommen trockenen Ausstellungen.",
+                "hu": "Ez az ideális hely egy nagyobb zápor átvészelésére; szánjon bőséges időt a légkondicionált és teljesen száraz kiállítótermek felfedezésére.",
+                "ro": "Acesta este locul ideal pentru a aștepta trecerea unei ploi torențiale; acordați-vă timp pentru exponatele din sălile climatizate și uscate.",
+                "en": "This is the ideal spot to wait out a heavy downpour; take your time exploring the climate-controlled and perfectly dry exhibition halls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Luxor-Tempel in der milden Wintersonne, die ideal für lange Erkundungen ist. Mittags ist die Fährfahrt bei strahlend blauem Himmel besonders angenehm. Beachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr, der den Himmel in Gold taucht. Abends kühlt es schnell ab, sodass ein Besuch im Museum eine willkommene, temperierte Abwechslung bietet.",
+            "hu": "Élvezze a luxori templomot a lágy téli napsütésben, amely ideális a hosszú felfedezéshez. Délben a kompozás a ragyogó kék ég alatt különösen kellemes élmény. Ügyeljen a korai, 17:00 körüli naplementére, amely aranyba vonja a tájat. Este a levegő gyorsan lehűl, így a múzeumlátogatás kellemesen temperált program lesz.",
+            "ro": "Bucurați-vă de Templul Luxor în soarele blând de iarnă, perfect pentru explorări lungi pe jos. La prânz, traversarea cu feribotul sub cerul senin este extrem de plăcută. Atenție la apusul timpuriu în jurul orei 17:00, care scaldă totul în auriu. Seara se răcește rapid, așa că vizita la muzeu este o activitate confortabilă.",
+            "en": "Enjoy the Luxor Temple in the mild winter sun, perfect for long explorations on foot. At noon, the ferry ride under the bright blue sky is particularly pleasant. Be mindful of the early sunset around 17:00, which paints the sky in gold. Evenings cool down quickly, making a visit to the museum a welcome, warm indoor activity."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Luxor-Tempel",
+                "hu": "Luxori templom",
+                "ro": "Templul din Luxor",
+                "en": "Luxor Temple"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das weiche Winterlicht für Fotos ohne harte Schatten, aber tragen Sie Schichten, da es im Schatten der Pylone kühl sein kann.",
+                "hu": "Használja ki a lágy téli fényt a fotózáshoz, de öltözzön rétegesen, mert a hatalmas pilonok árnyékában hűvös lehet a levegő.",
+                "ro": "Profitați de lumina blândă de iarnă pentru fotografii fără umbre dure, dar îmbrăcați-vă în straturi, deoarece la umbra pilonilor poate fi răcoare.",
+                "en": "Take advantage of the soft winter light for photos without harsh shadows, but dress in layers as it can be chilly in the shadows of the large pylons."
+              }
+            },
+            {
+              "name": {
+                "de": "Serapis-Schrein",
+                "hu": "Szérapisz-kápolna",
+                "ro": "Altarul lui Serapis",
+                "en": "Chapel of Serapis"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und leuchtet den Schrein wunderschön aus; ideal für einen ruhigen Moment, bevor die Abendkälte einsetzt.",
+                "hu": "A téli nap alacsonyan jár és gyönyörűen világítja meg a kápolnát; ideális egy nyugodt percre, mielőtt beállna az esti hideg.",
+                "ro": "Soarele de iarnă este jos și luminează superb altarul; este un moment ideal pentru liniște înainte ca frigul serii să se instaleze.",
+                "en": "The winter sun sits low and illuminates the shrine beautifully; it is ideal for a quiet moment before the evening chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Lokale Fähre zum Westufer",
+                "hu": "Helyi komp a nyugati partra",
+                "ro": "Feribot local spre malul de vest",
+                "en": "local ferry to West Bank"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Brise auf dem Nil, aber halten Sie eine Jacke bereit, da der Wind auf dem Wasser im Winter recht schneidend sein kann.",
+                "hu": "Élvezze a friss szellőt a Níluson, de legyen kéznél a kabátja, mert a víz felett fújó szél télen elég metsző és hideg tud lenni.",
+                "ro": "Bucurați-vă de briza proaspătă de pe Nil, dar aveți jacheta pregătită, deoarece vântul de deasupra apei poate fi destul de tăios iarna.",
+                "en": "Enjoy the fresh breeze on the Nile, but have your jacket ready as the wind over the water can be quite biting and cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Gouvernorat-Diwan",
+                "hu": "Luxori Kormányzóság Diwanja",
+                "ro": "Diwanul Guvernoratului Luxor",
+                "en": "Luxor Governorate Diwan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Wintersonne wärmt auf; bewundern Sie die Fassade am besten am frühen Nachmittag für das beste Licht.",
+                "hu": "Egy rövid megálló a téli napsütésben segít felmelegedni; a homlokzatot kora délután érdemes megcsodálni a legszebb fények érdekében.",
+                "ro": "O scurtă oprire în soarele de iarnă vă va încălzi; admirați fațada clădirii la începutul după-amiezii pentru cea mai bună lumină.",
+                "en": "A short stop in the winter sun will help you warm up; admire the facade in the early afternoon for the best lighting conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Museum",
+                "hu": "Luxori Múzeum",
+                "ro": "Muzeul Luxor",
+                "en": "Luxor Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Museumsbesuch für den späten Nachmittag ein, um der Kälte nach Sonnenuntergang zu entgehen und die Artefakte im Warmen zu sehen.",
+                "hu": "Tervezze a múzeumlátogatást késő délutánra, hogy elkerülje a naplemente utáni hirtelen lehűlést, és melegben nézze meg a műtárgyakat.",
+                "ro": "Planificați vizita la muzeu pentru sfârșitul după-amiezii pentru a evita frigul de după apus și pentru a vedea artefactele la căldură.",
+                "en": "Plan your museum visit for the late afternoon to avoid the post-sunset chill and enjoy the artifacts in a comfortably warm environment."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a túrát az Awlad Ragabnál való bevásárlással, mielőtt a kolosszális luxori templomhoz teker. Délben egy festői kerékpározás vár a nagy Szfinxek sétányán, amely ősi komplexumokat köt össze. A délutánt a Luxori Múzeum és a félreeső Mut-templom lenyűgöző szobrainak megcsodálásával töltheti. Kalandját a Nut Art Store & Kaffee-ban zárja, ahol művészet és tea mellett pihenhet meg.",
         "ro": "Începeți plimbarea cu provizii esențiale la Awlad Ragab înainte de a pedala către colosalul Templu din Luxor. Prânzul vă invită la o cursă pitorească de-a lungul Marii Alei a Sfinșilor. Petreceți după-amiaza admirând statuile complicate de la Muzeul Luxor și izolatul Templu al lui Mut. Încheiați aventura la Nut Art Store & Kaffee, odihnindu-vă picioarele cu artă și ceai.",
         "en": "Kick off your ride with essential supplies at Awlad Ragab before pedaling to the colossal Luxor Temple. Midday invites a scenic cycle along the grand Avenue of Sphinxes, bridging ancient complexes. Spend your afternoon admiring the intricate statues at the Luxor Museum and the secluded Temple of Mut. Conclude your adventure at Nut Art Store & Kaffee, resting your legs with art and tea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert in Luxor Vorsicht wegen der rutschigen Straßen. Starten Sie bei Awlad Ragab, um Vorräte zu holen. Nutzen Sie den Luxor-Tempel und das Museum als längere, trockene Pausen. Die Sphinx-Allee ist bei Regen stimmungsvoll, aber achten Sie auf Pfützen. Beenden Sie den Tag im gemütlichen Nut Art Store bei einem warmen Getränk.",
+            "hu": "A kerékpározás esőben óvatosságot igényel Luxor csúszós útjain. Kezdjen az Awlad Ragabnál, hogy beszerezze a szükségeseket. Használja a templomot és a múzeumot hosszabb, száraz pihenőkre. A Szfinxek sétánya hangulatos esőben, de ügyeljen a tócsákra. A napot a Nut Art Store barátságos belső terében zárja egy forró ital mellett.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile alunecoase din Luxor. Începeți la Awlad Ragab pentru provizii. Folosiți Templul Luxor și Muzeul ca pauze lungi și uscate. Aleea Sfinșilor este atmosferică pe ploaie, dar atenție la bălți. Încheiați ziua la Nut Art Store cu o băutură caldă în interior.",
+            "en": "Cycling in the rain requires caution on Luxor's slippery roads. Start at Awlad Ragab to gather supplies. Use the Luxor Temple and the Museum as extended dry breaks. The Avenue of Sphinxes is atmospheric in the rain, but watch out for deep puddles. End your day at the cozy Nut Art Store with a hot drink indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Awlad Ragab",
+                "hu": "Awlad Ragab",
+                "ro": "Awlad Ragab",
+                "en": "Awlad Ragab"
+              },
+              "tip_5lang": {
+                "de": "Besorgen Sie sich hier eine Regenponcho oder Plastiktüten, um Ihre Wertsachen im Fahrradkorb vor der seltenen Nässe zu schützen.",
+                "hu": "Szerezzen be itt egy esőpelerint vagy nejlonzacskókat, hogy megvédje értékeit a kerékpárkosárban a ritka, de áztató esőtől.",
+                "ro": "Cumpărați de aici o pelerină de ploaie sau pungi de plastic pentru a vă proteja obiectele de valoare din coșul bicicletei de umezeală.",
+                "en": "Pick up a rain poncho or plastic bags here to protect your valuables in the bike basket from the rare but soaking wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Tempel",
+                "hu": "Luxori templom",
+                "ro": "Templul din Luxor",
+                "en": "Luxor Temple"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem sicheren Ort und nutzen Sie den Tempelbesuch, um unter den massiven Steinbauten einen Schauer abzuwarten.",
+                "hu": "Parkolja le a kerékpárt biztonságos helyen, és használja ki a templomlátogatást, hogy a hatalmas kőépítmények alatt megvárja a zápor végét.",
+                "ro": "Parcați bicicleta într-un loc sigur și profitați de vizita la templu pentru a aștepta trecerea ploii sub structurile masive de piatră.",
+                "en": "Park your bike in a secure spot and use the temple visit to wait out a shower under the massive stone structures and sheltered areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Sphinx-Allee",
+                "hu": "Szfinxek sétánya",
+                "ro": "Aleea Sfinșilor",
+                "en": "Avenue of Sphinxes"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem sandigen Untergrund, der bei Regen matschig und rutschig werden kann; genießen Sie die mystische Stimmung.",
+                "hu": "Hajtson lassan a homokos talajon, amely esőben sárossá és csúszóssá válhat; élvezze az eső áztatta szobrok misztikus hangulatát.",
+                "ro": "Mergeți încet pe suprafața nisipoasă, care poate deveni noroioasă și alunecoasă la ploaie; bucurați-vă de atmosfera mistică a locului.",
+                "en": "Ride slowly on the sandy ground, which can become muddy and slippery in the rain; enjoy the mystical atmosphere of the drenched statues."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Museum",
+                "hu": "Luxori Múzeum",
+                "ro": "Muzeul Luxor",
+                "en": "Luxor Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den bewachten Fahrradparkplatz und verbringen Sie viel Zeit drinnen, um Ihre Kleidung und Ausrüstung wieder zu trocknen.",
+                "hu": "Használja az őrzött kerékpárparkolót, és töltsön több időt bent, hogy a ruhái és a felszerelése kicsit megszáradhassanak a nézelődés alatt.",
+                "ro": "Folosiți parcarea supravegheată pentru biciclete și petreceți mai mult timp în interior pentru a vă lăsa hainele și echipamentul să se usuce.",
+                "en": "Utilize the guarded bike parking and spend ample time inside to allow your clothes and gear to dry off while you admire the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Mut-Tempel",
+                "hu": "Mut-templom",
+                "ro": "Templul lui Mut",
+                "en": "Temple of Mut"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf tiefere Pfützen und nutzen Sie die wenigen überdachten Bereiche der Ruinen für kurze Pausen.",
+                "hu": "Az idefelé vezető úton ügyeljen a mélyebb tócsákra, és használja ki a romok kevés fedett részét a rövid, esőmentes pihenőkhöz.",
+                "ro": "Aveți grijă la bălțile adânci în drum spre acest templu și folosiți puținele zone acoperite ale ruinelor pentru scurte pauze de odihnă.",
+                "en": "Watch out for deeper puddles on the way here and take advantage of the few covered areas within the ruins for short, dry breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Nut Art Store & Kaffee",
+                "hu": "Nut Art Store & Kaffee",
+                "ro": "Nut Art Store & Kaffee",
+                "en": "Nut Art Store & Kaffee"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Radtag im Trockenen zu beenden; wärmen Sie sich mit einem Kaffee auf und stöbern Sie in der Kunstgalerie.",
+                "hu": "Tökéletes hely a kerékpáros nap befejezésére a szárazban; melegedjen fel egy kávéval, és böngésszen a művészeti galéria kínálatában.",
+                "ro": "Locul perfect pentru a încheia ziua pe bicicletă la adăpost; încălziți-vă cu o cafea și explorați galeria de artă în timp ce plouă.",
+                "en": "The perfect spot to end your cycling day in the dry; warm up with a coffee and browse the art gallery while the rain falls outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter ist die beste Zeit für eine Radtour in Luxor, da die Temperaturen mild sind. Beginnen Sie morgens bei Awlad Ragab. Die Fahrt entlang der Sphinx-Allee ist im kühlen Wind erfrischend. Denken Sie daran, dass die Sonne früh untergeht; erreichen Sie den Mut-Tempel rechtzeitig. Beenden Sie den Tag im Nut Art Store, wenn die Abendkälte nach 17:00 Uhr spürbar wird.",
+            "hu": "A tél a legjobb időszak a kerékpározáshoz Luxorban a kellemes hőmérséklet miatt. Kezdjen reggel az Awlad Ragabnál. A Szfinxek sétánya mentén tekerni frissítő a hűvös szélben. Ne feledje, hogy a nap korán nyugszik, érjen a Mut-templomhoz időben. A napot a Nut Art Store-ban zárja, amikor 17:00 után megérkezik az esti hideg.",
+            "ro": "Iarna este cel mai bun moment pentru o tură cu bicicleta în Luxor datorită temperaturilor blânde. Începeți dimineața la Awlad Ragab. Plimbarea pe lângă Aleea Sfinșilor este revigorantă în vântul răcoros. Rețineți că soarele apune devreme; ajungeți la Templul lui Mut la timp. Încheiați ziua la Nut Art Store când frigul serii apare după 17:00.",
+            "en": "Winter is the prime time for a bike tour in Luxor due to the mild temperatures. Start your morning at Awlad Ragab. Cycling along the Avenue of Sphinxes is refreshing in the cool breeze. Remember the early sunset; reach the Temple of Mut in time. End your day at the Nut Art Store as the evening chill sets in after 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Awlad Ragab",
+                "hu": "Awlad Ragab",
+                "ro": "Awlad Ragab",
+                "en": "Awlad Ragab"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie energiereiche Snacks für die Fahrt; die kühle Luft verbraucht mehr Energie, auch wenn man weniger schwitzt als im Sommer.",
+                "hu": "Vásároljon energiadús snackeket az útra; a hűvös levegőben több energiát éget a szervezet, még ha kevésbé is izzad, mint nyáron.",
+                "ro": "Cumpărați gustări energizante pentru drum; aerul răcoros consumă mai multă energie, chiar dacă transpirați mai puțin decât vara.",
+                "en": "Buy energy-rich snacks for the ride; your body uses more energy in the cool air, even if you sweat less than during the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Tempel",
+                "hu": "Luxori templom",
+                "ro": "Templul din Luxor",
+                "en": "Luxor Temple"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Tempel ohne die extreme Hitze; binden Sie Ihre Jacke am Fahrrad fest, solange Sie in der warmen Mittagssonne wandern.",
+                "hu": "Élvezze a templomot az extrém hőség nélkül; rögzítse a kabátját a kerékpárhoz, amíg a meleg déli napsütésben sétál a romok között.",
+                "ro": "Bucurați-vă de templu fără căldura extremă; legați-vă jacheta de bicicletă în timp ce vă plimbați prin soarele cald de la prânz.",
+                "en": "Enjoy the temple without the extreme heat; secure your jacket to the bike while you wander through the warm midday sun among the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Sphinx-Allee",
+                "hu": "Szfinxek sétánya",
+                "ro": "Aleea Sfinșilor",
+                "en": "Avenue of Sphinxes"
+              },
+              "tip_5lang": {
+                "de": "Der Fahrtwind kann im Winter kühl sein; tragen Sie ein leichtes Halstuch, um sich beim Radeln entlang der Allee vor dem Zug zu schützen.",
+                "hu": "A menetszél télen hűvös lehet; viseljen egy könnyű sálat, hogy megvédje torkát a huzattól, miközben a sétány mentén kerékpározik.",
+                "ro": "Vântul poate fi răcoros iarna; purtați o eșarfă ușoară pentru a vă proteja de curent în timp ce pedalați de-a lungul aleii.",
+                "en": "The breeze can be quite cool in winter; wear a light scarf to protect yourself from the draft while cycling along the long avenue."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Museum",
+                "hu": "Luxori Múzeum",
+                "ro": "Muzeul Luxor",
+                "en": "Luxor Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Pause im Warmen am Nachmittag; das Museum ist gut temperiert und bietet Schutz vor dem kühler werdenden Wind.",
+                "hu": "Ideális hely egy délutáni melegedőre; a múzeum kellemes hőmérsékletű, és védelmet nyújt a fokozatosan feltámadó, hűvös szél ellen.",
+                "ro": "Un loc ideal pentru o pauză la căldură după-amiaza; muzeul este bine temperat și oferă protecție împotriva vântului care se răcește.",
+                "en": "An ideal place for a warm break in the afternoon; the museum is well-tempered and offers protection from the increasingly cool wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mut-Tempel",
+                "hu": "Mut-templom",
+                "ro": "Templul lui Mut",
+                "en": "Temple of Mut"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Tempel vor 16:30 Uhr, um das letzte warme Licht zu nutzen, bevor die Sonne untergeht und es schlagartig kalt wird.",
+                "hu": "Látogassa meg a templomot 16:30 előtt, hogy kihasználja az utolsó meleg fényeket, mielőtt a nap lemegy és hirtelen lehűl a levegő.",
+                "ro": "Vizitați templul înainte de ora 16:30 pentru a profita de ultima lumină caldă, înainte ca soarele să apună și să se facă brusc frig.",
+                "en": "Visit the temple before 16:30 to catch the last warm rays before the sun dips below the horizon and the temperature drops sharply."
+              }
+            },
+            {
+              "name": {
+                "de": "Nut Art Store & Kaffee",
+                "hu": "Nut Art Store & Kaffee",
+                "ro": "Nut Art Store & Kaffee",
+                "en": "Nut Art Store & Kaffee"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang ist dies die perfekte Endstation; genießen Sie die warme Atmosphäre drinnen, bevor Sie im Dunkeln zurückradeln.",
+                "hu": "Naplemente után ez a tökéletes végállomás; élvezze a benti meleg hangulatot, mielőtt a sötétedő, hideg estébe indulna vissza.",
+                "ro": "După apus, aceasta este destinația finală perfectă; bucurați-vă de atmosfera caldă din interior înainte de a pedala înapoi prin frig.",
+                "en": "After sunset, this is the perfect final stop; enjoy the warm atmosphere inside before you cycle back in the darkening, chilly evening."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Útja a békés Mut-templomnál kezdődik, ahol tömeg nélkül fedezheti fel a szent tavat. Délre a monumentális Szfinxek sétánya mellett elhaladva a látványos Luxori Múzeumhoz érkezik. A délután fénypontja a luxori templom nagyszerűsége, mielőtt a Banán-szigetre hajózik egy trópusi pihenőre. Az este fenségesen csúcsosodik ki a thébai nekropoliszban, ősi sírok és történelmi emlékek között.",
         "ro": "Călătoria cu mașina începe la seninul Templu al lui Mut, explorând lacul său sacru fără aglomerație. La prânz, treceți de monumentala Alee a Sfinșilor către spectaculosul Muzeu Luxor. Reperele după-amiezii includ măreția Templului din Luxor înainte de a trece pe Insula Bananelor pentru un interludiu tropical. Seara culminează maiestuos la Necropola Tebană, printre morminte antice.",
         "en": "Your drive starts at the serene Temple of Mut, exploring its sacred lake without the crowds. By midday, cruise past the monumental Avenue of Sphinxes to the spectacular Luxor Museum. Afternoon highlights include the grandeur of Luxor Temple before crossing to Banana Island for a tropical interlude. The evening culminates majestically at the Theban Necropolis amidst ancient tombs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto sind Sie in Luxor bestens gegen Regen gewappnet. Starten Sie trocken am Mut-Tempel und lassen Sie sich direkt zu den Eingängen fahren. Die Museen bieten am Mittag perfekten Schutz. Am Nachmittag bringt Sie das Auto zur Bananeninsel, wo Sie die regnerische Flusslandschaft vom Boot aus sehen. Die Nekropole wirkt im grauen Licht besonders mystisch und geschichtsträchtig.",
+            "hu": "Autóval Luxorban Ön teljesen védve van az esőtől. Kezdjen szárazon a Mut-templomnál, és kényelmesen szálljon ki közvetlenül a bejáratoknál. A múzeumok délben tökéletes menedéket nyújtanak. Délután az autó a Banán-szigethez viszi, ahol a hajó fedele alól nézheti az esős tájat. A Nekropolisz a szürke fényekben különösen misztikus és történelmi hatást kelt.",
+            "ro": "Cu mașina sunteți complet protejat de ploaie în Luxor. Începeți confortabil la Templul lui Mut și lăsați-vă lăsat direct la intrări. Muzeele oferă adăpost perfect la prânz. După-amiaza, mașina vă duce la Insula Bananelor, unde admirați peisajul ploios de sub prelata bărcii. Necropola pare deosebit de mistică în lumina gri a cerului.",
+            "en": "By car, you are perfectly protected against the rain in Luxor. Start dry at the Temple of Mut and get dropped off directly at the entrances. The museums provide perfect shelter at noon. In the afternoon, the car takes you to Banana Island, where you can view the rainy river landscape from the boat's cover. The Necropolis feels especially mystical in the grey light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mut-Tempel",
+                "hu": "Mut-templom",
+                "ro": "Templul lui Mut",
+                "en": "Temple of Mut"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich vom Fahrer so nah wie möglich am Eingang absetzen, um nasse Füße auf dem unbefestigten Boden der Ausgrabungsstätte zu vermeiden.",
+                "hu": "Kérje meg a sofőrt, hogy a lehető legközelebb tegye le a bejárathoz, így elkerülheti a vizes lábakat a régészeti terület sárga, homokos talaján.",
+                "ro": "Rugați șoferul să vă lase cât mai aproape de intrare pentru a evita picioarele ude pe solul neamenajat al sitului arheologic.",
+                "en": "Ask your driver to drop you off as close to the entrance as possible to avoid wet feet on the unpaved ground of the archaeological site."
+              }
+            },
+            {
+              "name": {
+                "de": "Sphinx-Allee",
+                "hu": "Szfinxek sétánya",
+                "ro": "Aleea Sfinșilor",
+                "en": "Avenue of Sphinxes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Allee aus dem Autofenster, bevor Sie für einen kurzen, regenfesten Spaziergang zwischen den Statuen aussteigen.",
+                "hu": "Élvezze a sétány látványát az autó ablakából, mielőtt kiszállna egy rövid, esőálló sétára a monumentális kőszobrok között.",
+                "ro": "Bucurați-vă de vederea aleii de la fereastra mașinii înainte de a coborî pentru o scurtă plimbare protejată între statuile monumentale.",
+                "en": "Enjoy the view of the avenue from the car window before stepping out for a short, rain-protected walk among the monumental statues."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Museum",
+                "hu": "Luxori Múzeum",
+                "ro": "Muzeul Luxor",
+                "en": "Luxor Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klimatisierten Raum, um sich aufzuwärmen, falls die Regenfeuchtigkeit Ihre Kleidung klamm gemacht hat; idealer Stopp am Mittag.",
+                "hu": "Használja a légkondicionált tereket a felmelegedésre, ha az eső miatt nyirkossá vált a ruhája; ez a legideálisabb megálló délidőben.",
+                "ro": "Folosiți spațiile climatizate pentru a vă încălzi dacă umiditatea v-a umezit hainele; este cea mai potrivită oprire la prânz.",
+                "en": "Use the climate-controlled spaces to warm up if the rain has made your clothes damp; this is the most ideal stop during the midday showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Tempel",
+                "hu": "Luxori templom",
+                "ro": "Templul din Luxor",
+                "en": "Luxor Temple"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann bei Regen sehr rutschig sein; tragen Sie Schuhe mit gutem Profil und lassen Sie sich direkt am Parkplatz wieder abholen.",
+                "hu": "A talaj esőben nagyon csúszós lehet; viseljen jó tapadású cipőt, és kérje meg a sofőrt, hogy várja Önt közvetlenül a parkolónál.",
+                "ro": "Solul poate fi foarte alunecos la ploaie; purtați pantofi cu talpă aderentă și rugați șoferul să vă aștepte direct la parcare.",
+                "en": "The ground can be very slippery in the rain; wear shoes with good grip and ask your driver to meet you directly at the parking lot exit."
+              }
+            },
+            {
+              "name": {
+                "de": "Bananeninsel",
+                "hu": "Banán-sziget",
+                "ro": "Insula Bananelor",
+                "en": "Banana Island"
+              },
+              "tip_5lang": {
+                "de": "Die Bootsüberfahrt ist kurz; setzen Sie sich unter das Verdeck und genießen Sie den Anblick der üppigen Vegetation, die im Regen noch grüner wirkt.",
+                "hu": "A hajóút rövid; üljön a ponyva alá, és élvezze a dús vegetáció látványát, amely az esőben még élénkebb zöldnek tűnik a szigeten.",
+                "ro": "Traversarea cu barca este scurtă; stați sub copertină și bucurați-vă de vegetația luxuriantă care pare și mai verde pe ploaie.",
+                "en": "The boat trip is short; sit under the canopy and enjoy the sight of the lush vegetation, which looks even more vibrant green in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Thebanische Nekropole",
+                "hu": "Thébai nekropolisz",
+                "ro": "Necropola Tebană",
+                "en": "Theban Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gräber drinnen, um dem Regen zu entkommen; das Auto ist perfekt, um zwischen den weitläufigen Tempelanlagen trocken zu bleiben.",
+                "hu": "Látogassa meg a benti sírokat, hogy elmeneküljön az eső elől; az autó tökéletes a távoli templomegyüttesek közötti száraz közlekedéshez.",
+                "ro": "Vizitați mormintele din interior pentru a scăpa de ploaie; mașina este perfectă pentru a rămâne uscat între complexele de temple îndepărtate.",
+                "en": "Visit the indoor tombs to escape the rain; the car is perfect for staying dry while moving between the sprawling temple complexes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Luxor ist per Auto ideal, um weite Strecken bei angenehmen Temperaturen zu bewältigen. Starten Sie morgens am Mut-Tempel in der sanften Sonne. Mittags bieten die Museen und Tempel bestes Licht für Fotos. Beachten Sie den frühen Sonnenuntergang um 17:00 Uhr; die Fahrt zur Nekropole sollte rechtzeitig erfolgen. Abends ist die Rückfahrt im beheizten Auto sehr komfortabel.",
+            "hu": "A luxori tél autóval ideális a nagy távolságok kényelmes megtételéhez. Kezdjen reggel a Mut-templomnál a lágy napsütésben. Délben a múzeumok és templomok kínálják a legjobb fényeket a fotózáshoz. Ügyeljen a korai, 17:00-s naplementére; a Nekropoliszhoz időben érkezzen. Este a visszaút a fűtött autóban kifejezetten komfortos lesz.",
+            "ro": "Iarna în Luxor este ideală pentru a parcurge distanțe mari confortabil cu mașina. Începeți dimineața la Templul lui Mut în soarele blând. La prânz, muzeele și templele oferă cea mai bună lumină pentru poze. Atenție la apusul devreme de la ora 17:00; ajungeți la timp la Necropolă. Seara, drumul de întoarcere în mașină va fi foarte comod.",
+            "en": "Winter in Luxor is ideal for covering long distances comfortably by car. Start your morning at the Temple of Mut in the soft sun. At noon, the museums and temples offer the best light for photography. Be mindful of the early sunset at 17:00; reach the Necropolis in good time. In the evening, the ride back in the car will be very comfortable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mut-Tempel",
+                "hu": "Mut-templom",
+                "ro": "Templul lui Mut",
+                "en": "Temple of Mut"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre am Morgen; die Wintersonne ist hier nicht zu stark, sodass Sie die Anlage in Ruhe zu Fuß erkunden können.",
+                "hu": "Élvezze a reggeli nyugodt hangulatot; a téli nap itt nem túl erős, így kényelmesen, gyalogosan is felfedezheti az egész területet.",
+                "ro": "Bucurați-vă de atmosfera liniștită de dimineață; soarele de iarnă nu este prea puternic aici, permițându-vă să explorați situl în tihnă.",
+                "en": "Enjoy the peaceful morning atmosphere; the winter sun is not too strong here, allowing you to explore the entire site comfortably on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Sphinx-Allee",
+                "hu": "Szfinxek sétánya",
+                "ro": "Aleea Sfinșilor",
+                "en": "Avenue of Sphinxes"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Vormittag ist ideal für Panoramaaufnahmen der Allee; halten Sie Ihre Jacke bereit, da es im Auto kühl sein kann, wenn die Klimaanlage läuft.",
+                "hu": "A délelőtti fények ideálisak a sétány panorámafotóihoz; tartsa készenlétben a kabátját, mert az autóban hűvös lehet, ha megy a légkeringetés.",
+                "ro": "Lumina de dimineață este ideală pentru fotografii panoramice ale aleii; aveți jacheta la îndemână, deoarece în mașină poate fi răcoare cu aerul pornit.",
+                "en": "The morning light is ideal for panoramic photos of the avenue; keep your jacket ready as it might be cool in the car with the ventilation on."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Museum",
+                "hu": "Luxori Múzeum",
+                "ro": "Muzeul Luxor",
+                "en": "Luxor Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp am Mittag, um die Artefakte in einem konstant temperierten Umfeld zu sehen, fernab der direkten Wintersonne draußen.",
+                "hu": "Tökéletes déli megálló, ahol állandó hőmérsékletű környezetben tekintheti meg a műtárgyakat, távol a kinti direkt téli napsütéstől.",
+                "ro": "O oprire perfectă la prânz pentru a vedea artefactele într-un mediu cu temperatură constantă, departe de soarele direct de iarnă de afară.",
+                "en": "A perfect midday stop to see the artifacts in a constant-temperature environment, away from the direct winter sun outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Luxor-Tempel",
+                "hu": "Luxori templom",
+                "ro": "Templul din Luxor",
+                "en": "Luxor Temple"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Tempel am frühen Nachmittag, wenn die Sonne die Steine wärmt; das Auto wartet direkt am Ausgang für den nächsten Trip.",
+                "hu": "Látogassa meg a templomot kora délután, amikor a nap kellemesen melegíti a köveket; az autó közvetlenül a kijáratnál várja majd Önt.",
+                "ro": "Vizitați templul la începutul după-amiezii, când soarele încălzește pietrele; mașina vă va aștepta direct la ieșire pentru drum.",
+                "en": "Visit the temple in the early afternoon when the sun warms the ancient stones; the car will be waiting directly at the exit for your next trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Bananeninsel",
+                "hu": "Banán-sziget",
+                "ro": "Insula Bananelor",
+                "en": "Banana Island"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Jacke mit auf das Boot, da es auf dem Nílus im Winter windig und kühl sein kann, besonders wenn die Sonne tiefer steht.",
+                "hu": "Vigyen magával kabátot a hajóra, mert a Níluson télen szeles és hűvös lehet az idő, különösen, amikor a nap már alacsonyabban jár.",
+                "ro": "Luați o jachetă cu voi în barcă, deoarece pe Nil poate fi vânt și răcoare iarna, mai ales când soarele este coborât pe cer.",
+                "en": "Take a jacket with you on the boat, as it can be windy and cool on the Nile in winter, especially when the sun starts to set lower."
+              }
+            },
+            {
+              "name": {
+                "de": "Thebanische Nekropole",
+                "hu": "Thébai nekropolisz",
+                "ro": "Necropola Tebană",
+                "en": "Theban Necropolis"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Sie vor dem Sonnenuntergang um 17:00 Uhr hier sind, um die Gräber und Tempel im besten Licht und bei Wärme zu sehen.",
+                "hu": "Győződjön meg róla, hogy a 17:00-s naplemente előtt ideér, hogy a sírokat és templomokat a legszebb fényekben és még melegben láthassa.",
+                "ro": "Asigurați-vă că ajungeți aici înainte de apusul de la ora 17:00 pentru a vedea mormintele și templele în cea mai bună lumină și la căldură.",
+                "en": "Ensure you arrive here well before the 17:00 sunset to see the tombs and temples in the best light and while it is still relatively warm."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Esvres központjában a történelmi Saint-Médard templom megtekintésével, majd fedezze fel a Château d'Esvres romjait. Délben tegyen egy kellemes sétát nyugat felé a pompás Château de Vaugrignon kastélyhoz, és csodálja meg építészetét. Délután az út a különleges Éolienne Bollée szélkerékhez vezet, amely a mérnöki zsenialitás bizonyítéka. Fejezze be a napot a Dolmen du Moulin de Sauquet-nél, ahol csendes környezetben merülhet el az őskori történelemben.",
         "ro": "Începeți ziua în centrul localității Esvres cu o vizită la biserica istorică Saint-Médard, urmată de explorarea ruinelor de la Château d'Esvres. La prânz, faceți o plimbare plăcută spre vest până la magnificul Château de Vaugrignon și admirați arhitectura sa. După-amiaza, drumul vă duce la unicul Éolienne Bollée, o capodoperă a ingineriei. Încheiați ziua la Dolmen du Moulin de Sauquet, unde puteți reflecta asupra istoriei preistorice într-un mediu liniștit.",
         "en": "Start your day in the center of Esvres by visiting the historic Saint-Médard Church, followed by exploring the ruins of Château d'Esvres. At midday, take a pleasant walk west to the magnificent Château de Vaugrignon and admire its majestic architecture. In the afternoon, the path leads to the unique Éolienne Bollée, a true masterpiece of engineering. Conclude your day at the Dolmen du Moulin de Sauquet, absorbing prehistoric history in a quiet and peaceful environment."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz der Saint-Médard-Kirche, während der Regen gegen die alten Fenster prasselt. Mittags bieten die historischen Schlossmauern eine atmosphärische Kulisse, die im grauen Licht besonders mystisch wirkt. Am Nachmittag führt der Weg zur Éolienne Bollée, wobei wasserfeste Kleidung auf den glatten Wegen unerlässlich ist. Den Abend lassen Sie gemütlich im Dorfzentrum ausklingen.",
+            "hu": "Kezdje a napot a Saint-Médard-templom csendes békéjében, miközben kint elered az eső. Délben a kastélyok falai között keressen menedéket, ahol a szürke égbolt különleges, méltóságteljes hangulatot áraszt. Délután látogasson el a szélkerékhez és a dolmenhez, de ügyeljen a csúszós, saras ösvényekre. Az estét töltse a falu egyik fedett, barátságos pontján.",
+            "ro": "Începeți ziua sub protecția Bisericii Saint-Médard, ascultând ploaia care bate în vitralii. La prânz, zidurile castelelor oferă un cadru atmosferic, devenind mistice sub cerul plumburiu. După-amiaza, drumul către Éolienne Bollée necesită încălțăminte impermeabilă din cauza potecilor alunecoase. Seara se încheie confortabil în centrul satului, departe de umezeală.",
+            "en": "Start your day in the shelter of Saint-Médard Church as the rain patters against the ancient windows. At noon, the historic castle walls provide an atmospheric backdrop that feels particularly mystical in the grey light. In the afternoon, head to the Éolienne Bollée, ensuring you have waterproof gear for the slick paths. Spend the evening relaxing in the cozy village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Médard Church",
+                "hu": "Saint-Médard Church",
+                "ro": "Saint-Médard Church",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gotischen Details im trockenen Innenraum und nutzen Sie die Stille für eine meditative Pause, während es draußen regnet.",
+                "hu": "Csodálja meg a gótikus részleteket a száraz belső térben, és használja ki a csendet egy meditatív szünetre, amíg odakint esik az eső.",
+                "ro": "Admirați detaliile gotice în interiorul uscat și profitați de liniște pentru o pauză meditativă în timp ce afară plouă.",
+                "en": "Admire the Gothic details in the dry interior and use the silence for a meditative break while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Esvres",
+                "hu": "Château d'Esvres",
+                "ro": "Château d'Esvres",
+                "en": "Château d'Esvres"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern bieten Schutz vor Wind; betrachten Sie die Architektur von der überdachten Seite und achten Sie auf das glatte Kopfsteinpflaster.",
+                "hu": "A masszív falak védelmet nyújtanak a szél ellen; tekintse meg az építészetet a fedett oldalról, és ügyeljen a csúszós macskakövekre.",
+                "ro": "Zidurile masive oferă protecție împotriva vântului; observați arhitectura din zona acoperită și aveți grijă la pavajul alunecos.",
+                "en": "The massive walls offer protection from the wind; view the architecture from the covered side and watch out for the slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Vaugrignon",
+                "hu": "Château de Vaugrignon",
+                "ro": "Château de Vaugrignon",
+                "en": "Château de Vaugrignon"
+              },
+              "tip_5lang": {
+                "de": "Die neugotische Fassade wirkt im Regen besonders dramatisch; ein großer Regenschirm ist für den Spaziergang durch den Park absolut notwendig.",
+                "hu": "A neogótikus homlokzat különösen drámai az esőben; egy nagy esernyő elengedhetetlen a parkban tett rövid sétához.",
+                "ro": "Fațada neogotică arată spectaculos în ploaie; o umbrelă mare este absolut necesară pentru plimbarea prin parc.",
+                "en": "The neo-Gothic facade looks particularly dramatic in the rain; a large umbrella is absolutely necessary for the walk through the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Éolienne Bollée",
+                "hu": "Éolienne Bollée",
+                "ro": "Éolienne Bollée",
+                "en": "Éolienne Bollée"
+              },
+              "tip_5lang": {
+                "de": "Diese historische Windkraftanlage aus Metall glänzt im Regen; halten Sie den Aufenthalt kurz, da es hier kaum Unterstand gibt.",
+                "hu": "Ez a történelmi fém szélkerék fényesen csillog az esőben; tartsa rövidre a látogatást, mivel itt alig van fedett menedék.",
+                "ro": "Această turbină eoliană istorică din metal strălucește în ploaie; scurtați vizita, deoarece aici nu există aproape deloc adăpost.",
+                "en": "This historic metal wind turbine shines in the rain; keep your visit brief as there is almost no shelter available here."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Moulin de Sauquet",
+                "hu": "Dolmen du Moulin de Sauquet",
+                "ro": "Dolmen du Moulin de Sauquet",
+                "en": "Dolmen du Moulin de Sauquet"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorischen Steine trotzen seit Jahrtausenden dem Wetter; tragen Sie feste Stiefel, da der Boden um den Dolmen bei Regen sehr matschig wird.",
+                "hu": "A prehisztorikus kövek évezredek óta dacolnak az időjárással; viseljen bakancsot, mert a dolmen körüli talaj esőben nagyon saras lesz.",
+                "ro": "Pietrele preistorice înfruntă vremea de milenii; purtați bocanci, deoarece solul din jurul dolmenului devine foarte noroios când plouă.",
+                "en": "These prehistoric stones have defied the weather for millennia; wear sturdy boots as the ground around the dolmen becomes very muddy in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei einem Morgenspaziergang zur Kirche. Mittags wärmt die tiefstehende Sonne die alten Steine der Schlösser, während die kahlen Bäume weite Ausblicke ermöglichen. Planen Sie den Besuch des Dolmens rechtzeitig ein, da es bereits gegen 17:00 Uhr dunkel wird. Ein warmer Mantel und Handschuhe machen die Erkundung der Indre-Region auch bei Frost zum Vergnügen.",
+            "hu": "Élvezze a friss téli levegőt a templomhoz vezető reggeli séta során. Délben az alacsonyan járó nap megvilágítja a kastélyok falait, a kopár fák pedig tiszta kilátást engednek. A dolment még világosban látogassa meg, mert 17:00 körül már sötétedik. Egy meleg kabát és kesztyű elengedhetetlen az Indre-völgy fagyos, de gyönyörű felfedezéséhez.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă în timpul unei plimbări matinale la biserică. La prânz, soarele palid luminează zidurile castelelor, oferind priveliști clare printre copacii desfrunziți. Vizitați dolmenul din timp, deoarece se întunecă în jur de ora 17:00. O haină groasă și mănușile sunt esențiale pentru a explora regiunea Indre pe ger.",
+            "en": "Enjoy the crisp winter air during a morning stroll to the church. At noon, the low sun warms the ancient stones of the castles, while bare trees allow for expansive views. Plan your visit to the dolmen early, as it gets dark by 17:00. A warm coat and gloves will make exploring the Indre region a pleasure even in freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Médard Church",
+                "hu": "Saint-Médard Church",
+                "ro": "Saint-Médard Church",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet eine willkommene Aufwärmpause; bewundern Sie die Stille, die im Winter besonders andächtig wirkt.",
+                "hu": "A belső tér kellemes felmelegedést nyújt; csodálja meg a csendet, amely télen különösen áhítatos hangulatot áraszt.",
+                "ro": "Interiorul oferă o pauză binemeritată pentru încălzire; admirați liniștea care pare și mai solemnă în timpul iernii.",
+                "en": "The interior provides a welcome warm-up break; admire the silence, which feels particularly devout in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Esvres",
+                "hu": "Château d'Esvres",
+                "ro": "Château d'Esvres",
+                "en": "Château d'Esvres"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur ist ohne störendes Laub besser sichtbar; achten Sie bei Frost auf überfrierende Nässe an den schattigen Mauerecken.",
+                "hu": "Az építészet a zavaró lombozat nélkül jobban látható; fagy esetén ügyeljen a jegesedésre a falak árnyékos sarkaiban.",
+                "ro": "Arhitectura este mai vizibilă fără frunzișul deranjant; în caz de îngheț, aveți grijă la porțiunile alunecoase din colțurile umbrite.",
+                "en": "The architecture is more visible without distracting foliage; in freezing weather, watch out for ice in the shaded corners of the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Vaugrignon",
+                "hu": "Château de Vaugrignon",
+                "ro": "Château de Vaugrignon",
+                "en": "Château de Vaugrignon"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang durch den winterlichen Park bietet tolle Fotomotive des Schlosses vor dem oft klaren Winterhimmel.",
+                "hu": "Egy rövid séta a téli parkban remek fotótémát kínál a kastélyról a gyakran kristálytiszta téli égbolt előtt.",
+                "ro": "O scurtă plimbare prin parcul hibernal oferă oportunități foto grozave cu castelul pe fundalul cerului senin de iarnă.",
+                "en": "A short walk through the winter park offers great photo opportunities of the castle against the often clear winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Éolienne Bollée",
+                "hu": "Éolienne Bollée",
+                "ro": "Éolienne Bollée",
+                "en": "Éolienne Bollée"
+              },
+              "tip_5lang": {
+                "de": "Die Metallstruktur kann bei Frost sehr kalt und glatt sein; betrachten Sie dieses Industriedenkmal am besten mit etwas Abstand.",
+                "hu": "A fémszerkezet fagyban nagyon hideg és csúszós lehet; a legjobb, ha ezt az ipari műemléket tisztes távolságból tekinti meg.",
+                "ro": "Structura metalică poate fi foarte rece și alunecoasă pe ger; cel mai bine este să observați acest monument industrial de la distanță.",
+                "en": "The metal structure can be very cold and slippery in frost; it is best to view this industrial monument from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Moulin de Sauquet",
+                "hu": "Dolmen du Moulin de Sauquet",
+                "ro": "Dolmen du Moulin de Sauquet",
+                "en": "Dolmen du Moulin de Sauquet"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses prähistorische Grabmal vor Sonnenuntergang um 17:00 Uhr, um die mystische Stimmung im letzten Tageslicht einzufangen.",
+                "hu": "Látogassa meg ezt a prehisztorikus sírt a 17:00-as naplemente előtt, hogy elkapja a misztikus hangulatot az utolsó fényekben.",
+                "ro": "Vizitați acest mormânt preistoric înainte de apusul soarelui de la ora 17:00, pentru a surprinde atmosfera mistică în ultima lumină.",
+                "en": "Visit this prehistoric tomb before the 17:00 sunset to catch the mystical mood in the fading daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a központi Saint-Médard templomnál, majd tekerjen tovább a történelmi Château d'Esvres felé. Dél körül látogasson el a lenyűgöző Éolienne Bollée szélkerékhez, majd az őskori Dolmen du Moulin de Sauquet-hez. Délután az útvonal a békés Ancien Prieuré Saint-Pierre-hez vezet, ahol élvezheti az ősi falak csendjét. A nap északon, a Priory of Esvres-nél ér véget, amely tökéletes hely a régió gazdag történelmének elmélyült megismerésére.",
         "ro": "Începeți turul cu bicicleta la biserica centrală Saint-Médard și continuați spre istoricul Château d'Esvres. În jurul prânzului, pedalați spre fascinanta Éolienne Bollée și apoi spre preistoricul Dolmen du Moulin de Sauquet. După-amiaza, traseul vă duce la pașnicul Ancien Prieuré Saint-Pierre, unde vă puteți bucura de liniștea vechilor ziduri. Ziua se încheie la Priory of Esvres în nord, un loc perfect pentru o reflecție relaxată asupra istoriei bogate.",
         "en": "Start your bike tour at the central Saint-Médard Church and continue riding to the historic Château d'Esvres. Around midday, cycle to the fascinating Éolienne Bollée and onwards to the prehistoric Dolmen du Moulin de Sauquet. In the afternoon, the route leads to the peaceful Ancien Prieuré Saint-Pierre, where you can enjoy the silence of the ancient walls. The day ends at the Priory of Esvres in the north, a perfect place for relaxed reflection on the region's rich history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Landwegen rund um Esvres. Starten Sie bei der Kirche und nutzen Sie die kurzen Distanzen zwischen den Schlössern, um trocken zu bleiben. Die Éolienne Bollée und der Dolmen sind im Regen schnell erreicht, doch Vorsicht bei matschigen Feldwegen. Am Nachmittag bieten die Klöster spirituellen Schutz vor den Schauern, bevor Sie den Tag beenden.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel az Esvres körüli utakon. Kezdjen a templomnál, és használja ki a kastélyok közötti rövid távolságokat, hogy száraz maradjon. A szélkerék és a dolmen gyorsan elérhető, de vigyázzon a saras dűlőutakon. Délután a kolostorok spirituális menedéket nyújtanak a záporok elől, mielőtt befejezné a napot.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile din jurul Esvres. Începeți la biserică și profitați de distanțele scurte dintre castele pentru a rămâne uscați. Turbina Bollée și dolmenul sunt accesibile rapid, dar atenție la drumurile de pământ noroioase. După-amiaza, mănăstirile oferă refugiu spiritual în fața averselor.",
+            "en": "A bike tour in the rain requires caution on the rural paths around Esvres. Start at the church and take advantage of the short distances between castles to stay dry. The Éolienne Bollée and dolmen are reached quickly, but be careful on muddy field paths. In the afternoon, the priories offer spiritual shelter from the showers before you finish your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Médard Church",
+                "hu": "Saint-Médard Church",
+                "ro": "Saint-Médard Church",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die Ruhe im Inneren, während der erste Schauer vorüberzieht.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és élvezze a benti nyugalmat, amíg az első zápor elvonul.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de liniștea din interior în timp ce trece prima aversă.",
+                "en": "Park your bike in a sheltered spot and enjoy the peace inside while the first shower passes by."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Esvres",
+                "hu": "Château d'Esvres",
+                "ro": "Château d'Esvres",
+                "en": "Château d'Esvres"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Bremsen auf nassem Untergrund abrupte Manöver und betrachten Sie die historische Festung kurz vom Vorplatz aus.",
+                "hu": "Kerülje a hirtelen fékezést a nedves úton, és tekintse meg röviden a történelmi erődítményt az előtérből.",
+                "ro": "Evitați manevrele bruște de frânare pe suprafețe umede și observați scurt fortăreața istorică din piațeta din față.",
+                "en": "Avoid abrupt braking maneuvers on wet surfaces and take a quick look at the historic fortress from the forecourt."
+              }
+            },
+            {
+              "name": {
+                "de": "Éolienne Bollée",
+                "hu": "Éolienne Bollée",
+                "ro": "Éolienne Bollée",
+                "en": "Éolienne Bollée"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann rutschig sein; tragen Sie eine helle Regenjacke, damit Sie für Autofahrer bei trübem Wetter besser sichtbar sind.",
+                "hu": "A hozzájáró út csúszós lehet; viseljen világos esőkabátot, hogy a borús időben jobban látható legyen az autósok számára.",
+                "ro": "Drumul de acces poate fi alunecos; purtați o pelerină de ploaie strălucitoare pentru a fi mai vizibil pentru șoferi pe vreme închisă.",
+                "en": "The access road can be slippery; wear a bright rain jacket to be more visible to drivers in the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Moulin de Sauquet",
+                "hu": "Dolmen du Moulin de Sauquet",
+                "ro": "Dolmen du Moulin de Sauquet",
+                "en": "Dolmen du Moulin de Sauquet"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad am Wegrand ab und gehen Sie das letzte Stück zu Fuß, um nicht im nassen Gras mit den Reifen stecken zu bleiben.",
+                "hu": "Hagyja a biciklit az út szélén, és az utolsó szakaszt tegye meg gyalog, hogy ne akadjon el a kerekekkel a vizes fűben.",
+                "ro": "Lăsați bicicleta la marginea drumului și parcurgeți ultima porțiune pe jos pentru a nu rămâne blocat cu roțile în iarba udă.",
+                "en": "Leave your bike at the roadside and walk the last stretch to avoid getting your tires stuck in the wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Prieuré Saint-Pierre",
+                "hu": "Ancien Prieuré Saint-Pierre",
+                "ro": "Ancien Prieuré Saint-Pierre",
+                "en": "Ancien Prieuré Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Diese Ruinen bieten wenig Schutz; planen Sie nur einen kurzen Fotostopp ein, wenn der Regen gerade etwas nachlässt.",
+                "hu": "Ezek a romok kevés védelmet nyújtanak; csak egy rövid fotómegállót tervezzen, amikor az eső éppen alábbhagy.",
+                "ro": "Aceste ruine oferă puțin adăpost; planificați doar o scurtă oprire foto atunci când ploaia se mai potolește puțin.",
+                "en": "These ruins offer little shelter; plan only a quick photo stop when the rain lets up for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Priory of Esvres",
+                "hu": "Priory of Esvres",
+                "ro": "Priory of Esvres",
+                "en": "Priory of Esvres"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine ausgiebige Pause im Trockenen, bevor Sie die letzte Etappe Ihrer Tour antreten.",
+                "hu": "Használja ki a látogatást egy bőséges pihenőre a szárazban, mielőtt megkezdené túrája utolsó szakaszát.",
+                "ro": "Profitați de vizită pentru o pauză prelungită la adăpost înainte de a începe ultima etapă a turului dumneavoastră.",
+                "en": "Take advantage of the visit for an extended break in the dry before starting the final leg of your tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in der Indre-Region bietet stille, frostige Landschaften. Starten Sie dick eingepackt bei der Kirche und folgen Sie den befestigten Wegen zu den Schlössern. Die Éolienne Bollée und der Dolmen wirken in der kargen Winterlandschaft besonders eindrucksvoll. Da die Sonne früh untergeht, sollten Sie gegen 16:30 Uhr Ihre Tour bei den Klöstern beenden und auf funktionierende Beleuchtung an Ihrem Fahrrad achten.",
+            "hu": "A téli kerékpározás az Indre-régióban csendes, fagyos tájakat kínál. Induljon vastagon felöltözve a templomtól, és kövesse a kiépített utakat a kastélyokhoz. A szélkerék és a dolmen különösen hatásos a kopár téli tájban. Mivel a nap korán nyugszik, 16:30 körül fejezze be a túrát a kolostoroknál, és ügyeljen a kerékpár világítására.",
+            "ro": "Ciclismul de iarnă în regiunea Indre oferă peisaje înghețate și liniștite. Porniți bine înfofoliți de la biserică și urmați drumurile amenajate către castele. Turbina Bollée și dolmenul par deosebit de impresionante în peisajul auster. Deoarece soarele apune devreme, încheiați turul la mănăstiri în jur de 16:30 și asigurați-vă că luminile bicicletei funcționează.",
+            "en": "Cycling in winter in the Indre region offers quiet, frosty landscapes. Start warmly dressed at the church and follow the paved paths to the castles. The Éolienne Bollée and dolmen look particularly impressive in the barren winter landscape. As the sun sets early, aim to finish your tour at the priories by 16:30 and ensure your bike lights are working."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Médard Church",
+                "hu": "Saint-Médard Church",
+                "ro": "Saint-Médard Church",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, bevor Sie losfahren; die dicken Mauern halten die Kälte für eine Weile draußen.",
+                "hu": "Melegedjen fel odabent az indulás előtt; a vastag falak egy ideig távol tartják a kinti hideget.",
+                "ro": "Încălziți-vă în interior înainte de a porni la drum; zidurile groase țin frigul la distanță pentru o vreme.",
+                "en": "Warm up inside before you set off; the thick walls keep the cold out for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Esvres",
+                "hu": "Château d'Esvres",
+                "ro": "Château d'Esvres",
+                "en": "Château d'Esvres"
+              },
+              "tip_5lang": {
+                "de": "Die steilen Dächer sind bei Frost oft mit Reif bedeckt, was ein wunderschönes, typisch winterliches Fotomotiv ergibt.",
+                "hu": "A meredek tetőket fagy esetén gyakran dér borítja, ami gyönyörű, tipikus téli fotótémát szolgáltat.",
+                "ro": "Acoperișurile abrupte sunt adesea acoperite de chiciură pe ger, oferind un subiect foto superb, tipic hibernal.",
+                "en": "The steep roofs are often covered with frost in freezing weather, making for a beautiful, typical winter photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Éolienne Bollée",
+                "hu": "Éolienne Bollée",
+                "ro": "Éolienne Bollée",
+                "en": "Éolienne Bollée"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Griffe Ihres Lenkers warm; die Metallkonstruktion der Windkraftanlage strahlt im Winter zusätzliche Kälte aus.",
+                "hu": "Tartsa melegen a kormánymarkolatot; a szélkerék fémszerkezete télen plusz hideget áraszt a környezetére.",
+                "ro": "Păstrați mânerele ghidonului calde; construcția metalică a turbinei emană un frig suplimentar în timpul iernii.",
+                "en": "Keep your handlebar grips warm; the metal construction of the wind turbine radiates extra cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Moulin de Sauquet",
+                "hu": "Dolmen du Moulin de Sauquet",
+                "ro": "Dolmen du Moulin de Sauquet",
+                "en": "Dolmen du Moulin de Sauquet"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Dolmen kann bei Frost sehr hart und uneben sein; fahren Sie langsam, um Stürze auf gefrorenem Boden zu vermeiden.",
+                "hu": "A dolmenhez vezető út fagyban nagyon kemény és egyenetlen lehet; haladjon lassan, hogy elkerülje az elesést a fagyott talajon.",
+                "ro": "Drumul către dolmen poate fi foarte dur și denivelat pe ger; conduceți încet pentru a evita căzăturile pe solul înghețat.",
+                "en": "The path to the dolmen can be very hard and uneven in frost; ride slowly to avoid falls on the frozen ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Prieuré Saint-Pierre",
+                "hu": "Ancien Prieuré Saint-Pierre",
+                "ro": "Ancien Prieuré Saint-Pierre",
+                "en": "Ancien Prieuré Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintermesse lässt die Ruinen in einem ganz besonderen Licht erscheinen; beeilen Sie sich, bevor das Licht schwindet.",
+                "hu": "Az alacsony téli napsütés különleges fénybe vonja a romokat; siessen, mielőtt a fény végleg eltűnik.",
+                "ro": "Soarele palid de iarnă pune ruinele într-o lumină specială; grăbiți-vă înainte ca lumina să dispară de tot.",
+                "en": "The low winter sun casts a special light on the ruins; hurry before the daylight fades away completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Priory of Esvres",
+                "hu": "Priory of Esvres",
+                "ro": "Priory of Esvres",
+                "en": "Priory of Esvres"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im Schutz der Gebäude und stellen Sie sicher, dass Ihre Reflektoren für den Rückweg sauber sind.",
+                "hu": "Fejezze be túráját itt az épületek védelmében, és győződjön meg róla, hogy a macskaszemek tiszták a hazafelé úthoz.",
+                "ro": "Încheiați turul aici, la adăpostul clădirilor, și asigurați-vă că reflectoarele sunt curate pentru drumul de întoarcere.",
+                "en": "Finish your tour here in the shelter of the buildings and make sure your reflectors are clean for the ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a város szélén a pompás Château de la Dorée megtekintésével, majd haladjon tovább a Château de Vaugrignon felé. Délben parkoljon le a központban, hogy felfedezze a Saint-Médard templomot és a Château d'Esvres maradványait. Délután utazzon el a Priory of Esvres-hez, majd élvezze a természetet a zöldellő Indre-völgyben. Zárja a napot az Ancien Prieuré Saint-Pierre meglátogatásával, ahol átadhatja magát a békés esti hangulatnak.",
         "ro": "Începeți turul cu mașina la marginea orașului, cu o vizită la magnificul Château de la Dorée, și apoi mergeți la Château de Vaugrignon. La prânz, parcați în centru pentru a explora biserica Saint-Médard și rămășițele de la Château d'Esvres. După-amiaza, conduceți liniștit spre Priory of Esvres și bucurați-vă de natură în valea verde Indre. Încheiați ziua cu o excursie la Ancien Prieuré Saint-Pierre pentru a vă bucura de atmosfera pașnică a serii.",
         "en": "Start your driving tour on the outskirts of town with a visit to the magnificent Château de la Dorée, then head to Château de Vaugrignon. At midday, park in the center to explore the Saint-Médard Church and the remains of Château d'Esvres. In the afternoon, take a leisurely drive to the Priory of Esvres and enjoy the nature of the lush Indre Valley. Conclude your day with a trip to the Ancien Prieuré Saint-Pierre, soaking in the peaceful and quiet evening atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie die Schlösser von Esvres ganz bequem, ohne nass zu werden. Starten Sie beim Château de la Dorée und genießen Sie die Fahrt durch das verregnete Indre-Tal. Die kurzen Wege zwischen der Kirche und den Festungen lassen sich ideal mit dem PKW überbrücken. Am Nachmittag bietet die Fahrt entlang des Flusses dramatische Ausblicke auf die angeschwollene Indre, bevor Sie den Tag gemütlich abschließen.",
+            "hu": "Autóval kényelmesen, ázás nélkül fedezheti fel Esvres kastélyait. Kezdjen a Château de la Dorée-nél, és élvezze az utazást az esős Indre-völgyben. A templom és az erődítmények közötti rövid távolságok ideálisan áthidalhatók gépkocsival. Délután a folyó menti autózás drámai kilátást nyújt a megduzzadt Indre folyóra, mielőtt kellemesen befejezné a napot.",
+            "ro": "Cu mașina, puteți explora castelele din Esvres confortabil, fără a vă uda. Începeți la Château de la Dorée și bucurați-vă de drumul prin valea Indre ploioasă. Distanțele scurte dintre biserică și fortărețe sunt ideale pentru deplasarea cu autoturismul. După-amiaza, drumul de-a lungul râului oferă priveliști dramatice asupra Indre-ului umflat.",
+            "en": "By car, you can comfortably explore the castles of Esvres without getting wet. Start at Château de la Dorée and enjoy the drive through the rainy Indre Valley. The short distances between the church and fortresses are ideal to cover by vehicle. In the afternoon, driving along the river offers dramatic views of the swollen Indre before you wrap up your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Dorée",
+                "hu": "Château de la Dorée",
+                "ro": "Château de la Dorée",
+                "en": "Château de la Dorée"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang; das Schloss wirkt bei Regen sehr authentisch und geschichtsträchtig.",
+                "hu": "Használja a bejárathoz közeli parkolót; a kastély esőben nagyon hitelesnek és történelminek tűnik.",
+                "ro": "Folosiți parcarea de lângă intrare; castelul pare foarte autentic și plin de istorie atunci când plouă.",
+                "en": "Use the parking lot near the entrance; the castle looks very authentic and steeped in history in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Vaugrignon",
+                "hu": "Château de Vaugrignon",
+                "ro": "Château de Vaugrignon",
+                "en": "Château de Vaugrignon"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Türme direkt aus dem warmen Auto, bevor Sie für einen kurzen Moment aussteigen.",
+                "hu": "Élvezze a tornyokra nyíló kilátást közvetlenül a meleg autóból, mielőtt egy rövid pillanatra kiszállna.",
+                "ro": "Bucurați-vă de vederea spre turnuri direct din mașina caldă, înainte de a coborî pentru un scurt moment.",
+                "en": "Enjoy the view of the towers directly from your warm car before stepping out for a brief moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Médard Church",
+                "hu": "Saint-Médard Church",
+                "ro": "Saint-Médard Church",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Im Dorfzentrum kann das Parken bei Regen schwierig sein; suchen Sie sich eine markierte Lücke und nutzen Sie den Schirm für den kurzen Weg.",
+                "hu": "A falu központjában nehéz lehet a parkolás esőben; keressen egy kijelölt helyet, és használjon esernyőt a rövid úthoz.",
+                "ro": "Parcarea în centrul satului poate fi dificilă pe ploaie; căutați un loc marcat și folosiți umbrela pentru drumul scurt.",
+                "en": "Parking in the village center can be tricky in the rain; find a marked spot and use an umbrella for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Esvres",
+                "hu": "Château d'Esvres",
+                "ro": "Château d'Esvres",
+                "en": "Château d'Esvres"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Nässe rutschig sein; fahren Sie vorsichtig und bewundern Sie die massiven Mauern im Schutz des Wagens.",
+                "hu": "A feljáró nedvesen csúszós lehet; vezessen óvatosan, és csodálja meg a masszív falakat az autó védelméből.",
+                "ro": "Drumul de acces poate fi alunecos pe umiditate; conduceți cu prudență și admirați zidurile masive la adăpostul mașinii.",
+                "en": "The driveway can be slippery when wet; drive carefully and admire the massive walls from the safety of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Priory of Esvres",
+                "hu": "Priory of Esvres",
+                "ro": "Priory of Esvres",
+                "en": "Priory of Esvres"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage bietet gute Unterstellmöglichkeiten; ideal, um einen stärkeren Regenguss abzuwarten, bevor es weitergeht.",
+                "hu": "A létesítmény jó fedett helyeket kínál; ideális egy erősebb zápor kivárására, mielőtt továbbindulna.",
+                "ro": "Complexul oferă bune posibilități de adăpostire; ideal pentru a aștepta trecerea unei averse mai puternice înainte de a continua.",
+                "en": "The complex offers good sheltered areas; ideal for waiting out a heavy downpour before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Indre Valley",
+                "hu": "Indre Valley",
+                "ro": "Indre Valley",
+                "en": "Indre Valley"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Aussichtspunkt am Straßenrand; der Nebel über dem Fluss im Regen bietet eine malerische, melancholische Kulisse.",
+                "hu": "Keressen egy kilátópontot az út szélén; a folyó feletti köd az esőben festői, melankolikus látványt nyújt.",
+                "ro": "Căutați un punct de observație pe marginea drumului; ceața de deasupra râului pe ploaie oferă un cadru pitoresc și melancolic.",
+                "en": "Find a viewpoint by the roadside; the mist over the river in the rain provides a picturesque, melancholic backdrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Prieuré Saint-Pierre",
+                "hu": "Ancien Prieuré Saint-Pierre",
+                "ro": "Ancien Prieuré Saint-Pierre",
+                "en": "Ancien Prieuré Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis; ein kurzes Foto der Ruinen genügt, um bei schlechtem Wetter die Stimmung einzufangen.",
+                "hu": "Használja az autót bázisként; egy rövid fotó a romokról elég ahhoz, hogy rossz időben is elkapja a hely hangulatát.",
+                "ro": "Folosiți mașina ca bază; o scurtă fotografie a ruinelor este suficientă pentru a surprinde atmosfera pe vreme rea.",
+                "en": "Use the car as your base; a quick photo of the ruins is enough to capture the mood even in poor weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Esvres bietet maximalen Komfort bei frostigen Temperaturen. Starten Sie beim Château de la Dorée und genießen Sie die klare Sicht durch die kahlen Täler der Indre-Region. Die Heizung im Wagen macht die Pausen zwischen den historischen Stopps besonders angenehm. Beachten Sie, dass die Dämmerung bereits um 17:00 Uhr einsetzt; planen Sie Ihre Fahrt so, dass Sie die letzten Ruinen noch im Tageslicht erreichen.",
+            "hu": "A téli autós túra Esvres környékén maximális kényelmet nyújt a fagyos hőmérsékletben. Kezdjen a Château de la Dorée-nél, és élvezze a tiszta kilátást az Indre-régió kopár völgyeiben. Az autó fűtése különösen kellemessé teszi a pihenőket a történelmi megállók között. Vegye figyelembe, hogy a szürkület már 17:00-kor beáll; tervezze úgy az utat, hogy az utolsó romokat még világosban elérje.",
+            "ro": "Un tur auto hibernal prin Esvres oferă confort maxim la temperaturi scăzute. Începeți la Château de la Dorée și bucurați-vă de vizibilitatea clară prin văile desfrunzite ale regiunii Indre. Încălzirea din mașină face pauzele dintre opririle istorice deosebit de plăcute. Rețineți că amurgul începe deja la ora 17:00; planificați călătoria astfel încât să ajungeți la ultimele ruine încă pe lumină.",
+            "en": "A winter car tour through Esvres offers maximum comfort in freezing temperatures. Start at Château de la Dorée and enjoy the clear views through the bare valleys of the Indre region. The car's heater makes the breaks between historic stops especially pleasant. Note that dusk begins as early as 17:00; plan your drive so you reach the final ruins while it's still light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Dorée",
+                "hu": "Château de la Dorée",
+                "ro": "Château de la Dorée",
+                "en": "Château de la Dorée"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Landschaft um das Schloss sieht im Morgenlicht zauberhaft aus; parken Sie kurz für ein Foto der bereiften Wiesen.",
+                "hu": "A kastély körüli fagyos táj varázslatosan néz ki a reggeli fényben; álljon meg egy rövid fotóra a deres mezőkről.",
+                "ro": "Peisajul înghețat din jurul castelului arată magic în lumina dimineții; parcați scurt pentru o fotografie cu pajiștile pline de chiciură.",
+                "en": "The frosty landscape around the castle looks magical in the morning light; park briefly for a photo of the frost-covered meadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Vaugrignon",
+                "hu": "Château de Vaugrignon",
+                "ro": "Château de Vaugrignon",
+                "en": "Château de Vaugrignon"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur hebt sich klar vom Winterhimmel ab; achten Sie beim Aussteigen auf glatte Stellen auf dem unbefestigten Parkplatz.",
+                "hu": "Az építészet élesen elválik a téli égbolttól; kiszálláskor ügyeljen a csúszós foltokra a nem kiépített parkolóban.",
+                "ro": "Arhitectura se evidențiază clar pe cerul de iarnă; la coborâre, aveți grijă la porțiunile alunecoase din parcarea neamenajată.",
+                "en": "The architecture stands out clearly against the winter sky; watch for icy patches in the unpaved parking area when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Médard Church",
+                "hu": "Saint-Médard Church",
+                "ro": "Saint-Médard Church",
+                "en": "Saint-Médard Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche zur Mittagszeit, wenn die Sonne die bunten Fenster am schönsten zum Leuchten bringt.",
+                "hu": "Látogassa meg a templomot délidőben, amikor a nap a legszebben ragyogtatja fel a színes ablakokat.",
+                "ro": "Vizitați biserica la ora prânzului, când soarele face ca vitraliile colorate să strălucească cel mai frumos.",
+                "en": "Visit the church at midday when the sun makes the stained-glass windows glow most beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Château d'Esvres",
+                "hu": "Château d'Esvres",
+                "ro": "Château d'Esvres",
+                "en": "Château d'Esvres"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winterlicht besonders wehrhaft; nutzen Sie den Wagen, um die Anlage einmal komplett zu umfahren.",
+                "hu": "A kastély a téli fényben különösen erődszerűnek tűnik; használja az autót, hogy egyszer teljesen körbejárja az épületegyüttest.",
+                "ro": "Castelul pare deosebit de fortificat în lumina iernii; folosiți mașina pentru a face un tur complet al complexului.",
+                "en": "The castle looks particularly fortified in the winter light; use the car to drive completely around the complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Priory of Esvres",
+                "hu": "Priory of Esvres",
+                "ro": "Priory of Esvres",
+                "en": "Priory of Esvres"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Gebäude bieten Schutz vor dem kalten Winterwind; ein kurzer Rundgang belebt die Sinne vor der Weiterfahrt.",
+                "hu": "A történelmi épületek védelmet nyújtanak a hideg téli szél ellen; egy rövid körséta felfrissíti az érzékeket a továbbindulás előtt.",
+                "ro": "Clădirile istorice oferă protecție împotriva vântului rece de iarnă; o scurtă plimbare vă va revigora înainte de a pleca mai departe.",
+                "en": "The historic buildings offer protection from the cold winter wind; a quick walk around refreshes the senses before driving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Indre Valley",
+                "hu": "Indre Valley",
+                "ro": "Indre Valley",
+                "en": "Indre Valley"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf den Flusslauf frei; parken Sie sicher am Rand, um das weite Panorama zu genießen.",
+                "hu": "A kopár fák szabad kilátást engednek a folyóra; parkoljon le biztonságosan a szélen, hogy élvezhesse a tágas panorámát.",
+                "ro": "Copacii desfrunziți permit o vedere clară asupra cursului râului; parcați în siguranță pe margine pentru a admira panorama largă.",
+                "en": "The bare trees allow for an unobstructed view of the river; park safely at the edge to enjoy the wide panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancien Prieuré Saint-Pierre",
+                "hu": "Ancien Prieuré Saint-Pierre",
+                "ro": "Ancien Prieuré Saint-Pierre",
+                "en": "Ancien Prieuré Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:30 Uhr hier, um die Ruinen im warmen Licht der tiefstehenden Wintersonne zu erleben.",
+                "hu": "Legyen itt 16:30 körül, hogy a romokat az alacsonyan járó téli nap meleg fényében láthassa.",
+                "ro": "Fiți aici în jur de ora 16:30 pentru a vedea ruinele în lumina caldă a soarelui de iarnă care apune.",
+                "en": "Be here around 16:30 to experience the ruins in the warm light of the low winter sun."
+              }
+            }
+          ]
+        }
       }
     }
   }

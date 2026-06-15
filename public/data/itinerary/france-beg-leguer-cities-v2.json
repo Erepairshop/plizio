@@ -160,6 +160,196 @@
         "hu": "A reggel egy frissítő látogatással indul a nyugodt Plage de Mez-an-Aod strandján, ahol magába szívhatja a parti hangulatot. Egy rövid séta elvezeti a történelmi Phare de Beg Léguer világítótoronyhoz.\n\nDélben a lenyűgöző Roche Tremblante felé veszi az irányt, megcsodálva a természetes egyensúlyozó köveket. Egy könnyű túra után eléri az ősi Fontaine de dévotion du Yaudet forrást.\n\nA délután Le Yaudet mély történelmének felfedezéséről szól, ahol jelentős régészeti maradványokat vizsgálhat meg. Az itteni parti ösvények élénkek és ősi helyi legendákkal teli helyek.\n\nAhogy közeledik az este, a látványos Roches de Beaumanoir szikláinál pihenhet. Egy utolsó békés pillanat a drámai geológiai képződmények között tökéletesen zárja le a gyalogos túrát.",
         "ro": "Dimineața începe cu o vizită revigorantă la liniștita Plage de Mez-an-Aod, absorbind atmosfera de coastă. O scurtă plimbare vă aduce la istoricul Phare de Beg Léguer pentru priveliști maritime.\n\nLa prânz, vă aventurați spre fascinanta Roche Tremblante, minunându-vă de pietrele naturale echilibrate. După o drumeție ușoară, veți ajunge la vechea Fontaine de dévotion du Yaudet.\n\nDupă-amiaza este dedicată descoperirii istoriei profunde din Le Yaudet, explorând rămășițele sale arheologice semnificative. Potecile de coastă de aici sunt pline de tradiții locale străvechi.\n\nSpre seară, vă relaxați la spectaculoasele Roches de Beaumanoir. Bucurându-vă de un ultim moment de liniște printre formațiunile geologice dramatice, turul dumneavoastră pe jos se încheie perfect.",
         "en": "Your morning begins with a refreshing visit to the tranquil Plage de Mez-an-Aod, soaking in the early coastal atmosphere. A short walk brings you to the historic Phare de Beg Léguer, offering expansive maritime views.\n\nBy midday, you venture towards the fascinating Roche Tremblante, marveling at the balanced natural stones. After a gentle hike, you'll reach the ancient Fontaine de dévotion du Yaudet.\n\nThe afternoon is dedicated to uncovering the deep history of Le Yaudet, exploring its significant archaeological remnants. The coastal paths here are vibrant and steeped in ancient local lore.\n\nAs evening approaches, you relax at the spectacular Roches de Beaumanoir. Enjoying a final peaceful moment amid the dramatic geological formations perfectly concludes your walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt mystisch am nebligen Strand, wo die Wellen gegen die Felsen peitschen. Mittags bietet das Dorf Le Yaudet Schutz vor den Schauern, während man die historische Atmosphäre genießt. Am Nachmittag führt der Weg durch nasse Farne zu den schwankenden Steinen. Der Abend klingt bei prasselndem Regen und dem fernen Rauschen des Meeres in einer gemütlichen Unterkunft friedlich aus.",
+            "hu": "A reggel misztikus párában indul a tengerparton, ahol az eső áztatta sziklák sötéten fénylenek. Délben Le Yaudet ódon épületei között keresünk menedéket a záporok elől, elmélyedve a helyi legendákban. Délután a nedves páfrányok között érjük el a billegő sziklákat, vigyázva a csúszós ösvényekre. Az este a kopogó eső és a távoli morajlás hangjaival zárul, meleg teával a kézben egy közeli szálláson.",
+            "ro": "Dimineața începe mistic pe plaja acoperită de ceață, unde stâncile umede strălucesc sub ploaia fină. La prânz, satul Le Yaudet oferă adăpost împotriva averselor, permițându-vă să explorați istoria locală. După-amiaza, potecile printre ferigi duc spre pietrele mișcătoare, necesitând atenție sporită. Seara se încheie liniștit, ascultând ploaia care bate în geam și sunetul îndepărtat al mării.",
+            "en": "The morning begins mystically on the misty beach, where rain-slicked rocks glisten against the gray sea. At noon, the ancient stones of Le Yaudet provide a sense of shelter as you delve into local history. In the afternoon, the trail through damp ferns leads to the trembling rocks, requiring careful steps. The evening concludes peacefully with the sound of rain tapping and the distant roar of the ocean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de Mez-an-Aod",
+                "hu": "Plage de Mez-an-Aod",
+                "ro": "Plage de Mez-an-Aod",
+                "en": "Plage de Mez-an-Aod"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dramatische Brandung bei Regen; tragen Sie unbedingt wasserfeste Schuhe, da der Zugang über die nassen Felsen sehr rutschig sein kann.",
+                "hu": "Csodálja meg a drámai hullámverést esőben is; viseljen vízálló cipőt, mert a sziklákhoz vezető ösvény ilyenkor rendkívül csúszóssá és sarassá válik.",
+                "ro": "Admirați valurile dramatice în timpul ploii; purtați neapărat încălțăminte impermeabilă, deoarece accesul peste stâncile ude poate fi foarte alunecos.",
+                "en": "Admire the dramatic surf during the rain; be sure to wear waterproof boots, as the access path over wet rocks becomes extremely slippery and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Beg Léguer",
+                "hu": "Phare de Beg Léguer",
+                "ro": "Phare de Beg Léguer",
+                "en": "Phare de Beg Léguer"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm wirkt im grauen Dunst besonders wehmütig; suchen Sie auf der windabgewandten Seite Schutz, um die Aussicht auf die stürmische See zu genießen.",
+                "hu": "A világítótorony különösen mélabús látványt nyújt a szürke ködben; keressen szélvédett helyet az épület tövében a viharos tengeri kilátáshoz.",
+                "ro": "Farul pare deosebit de melancolic în ceața cenușie; căutați adăpost pe partea ferită de vânt pentru a savura priveliștea mării învolburate.",
+                "en": "The lighthouse looks especially melancholic in the gray haze; find shelter on the leeward side of the structure to enjoy the stormy sea views safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Roche Tremblante",
+                "hu": "Roche Tremblante",
+                "ro": "Roche Tremblante",
+                "en": "Roche Tremblante"
+              },
+              "tip_5lang": {
+                "de": "Ein faszinierendes Naturphänomen im Wald, der bei Regen intensiv duftet; achten Sie auf festen Tritt auf den moosigen Steinen rund um den Granitblock.",
+                "hu": "Lenyűgöző természeti jelenség az esőben illatozó erdőben; ügyeljen a biztos léptekre a gránittömb körüli mohás, vizes köveken a csúszásveszély miatt.",
+                "ro": "Un fenomen natural fascinant în pădurea care miroase intens a ploaie; aveți grijă unde călcați pe pietrele cu mușchi din jurul blocului de granit.",
+                "en": "A fascinating natural phenomenon in the forest that smells intense after rain; watch your footing on the mossy stones around the granite block."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontaine de dévotion du Yaudet",
+                "hu": "Fontaine de dévotion du Yaudet",
+                "ro": "Fontaine de dévotion du Yaudet",
+                "en": "Fontaine de dévotion du Yaudet"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Quelle wirkt bei Regen wie aus einer anderen Zeit; nutzen Sie die umliegenden Mauern als kurzen Unterstand vor einem plötzlichen Wolkenbruch.",
+                "hu": "Ez a kis forrás az esőben mintha egy másik korból maradt volna itt; használja a környező falakat rövid menedékként egy hirtelen felhőszakadás esetén.",
+                "ro": "Această mică fântână pare desprinsă din altă epocă pe ploaie; folosiți zidurile din jur ca scurt adăpost împotriva unei averse neprevăzute.",
+                "en": "This small spring feels like a relic from another era in the rain; use the nearby stone walls as a quick shelter during a sudden downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Yaudet",
+                "hu": "Le Yaudet",
+                "ro": "Le Yaudet",
+                "en": "Le Yaudet"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle, um trocken zu bleiben und die einzigartige schlafende Jungfrau zu sehen; der Innenraum bietet eine friedliche Pause vom Wetter.",
+                "hu": "Látogasson el a kápolnába, hogy szárazon maradjon és megtekintse az egyedülálló fekvő Madonnát; a belső tér békés pihenőt nyújt az eső elől.",
+                "ro": "Vizitați capela pentru a rămâne uscați și pentru a vedea Madona adormită; interiorul oferă o pauză liniștită de la vremea capricioasă de afară.",
+                "en": "Visit the chapel to stay dry and see the unique reclining Virgin Mary; the quiet interior provides a perfect peaceful refuge from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Roches de Beaumanoir",
+                "hu": "Roches de Beaumanoir",
+                "ro": "Roches de Beaumanoir",
+                "en": "Roches de Beaumanoir"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen bieten einen dramatischen Blick auf das graue Ästuar; halten Sie sich wegen des starken Windes und der Nässe von den steilen Kanten fern.",
+                "hu": "A sziklák drámai kilátást nyújtanak a szürke torkolatra; a felerősödő szél és a nedvesség miatt maradjon távol a meredek peremektől a biztonság érdekében.",
+                "ro": "Stâncile oferă o vedere dramatică asupra estuarului cenușiu; stați departe de marginile abrupte din cauza vântului puternic și a suprafețelor umede.",
+                "en": "The rocks offer a dramatic view of the gray estuary; stay well back from the steep edges due to strong gusts and slippery wet granite surfaces."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen lädt zu einem belebenden Spaziergang am leeren Strand ein, wo die Luft kristallklar ist. Mittags wärmt die tiefstehende Sonne das historische Dorf Le Yaudet und taucht den Granit in goldenes Licht. Am frühen Nachmittag erkundet man die Felsen, bevor gegen 17:00 Uhr die Dämmerung einsetzt. Der Abend wird in der Wärme eines Kamins verbracht, während draußen der Winterwind um die Häuser pfeift.",
+            "hu": "A fagyos reggel frissítő sétára hív az üres tengerparton, ahol a levegő kristálytiszta és sós. Délben az alacsonyan járó nap sugarai megmelengetik Le Yaudet ódon köveit, arany fénybe vonva a gránitot. Kora délután még felfedezzük a sziklákat, mielőtt 17:00 körül leszállna az éj. Az estét egy kandalló tüze mellett töltjük, miközben odakint a téli szél fütyül a házak között.",
+            "ro": "O dimineață geroasă vă invită la o plimbare revigorantă pe plaja pustie, unde aerul este deosebit de curat. La prânz, soarele palid încălzește pietrele vechi din Le Yaudet, oferind o lumină aurie superbă. După-amiaza devreme explorăm stâncile, înainte ca întunericul să se lase în jur de ora 17:00. Seara se petrece la căldura unui șemineu, în timp ce afară vântul de iarnă suflă cu putere.",
+            "en": "A frosty morning invites an invigorating walk on the deserted beach, where the air is crystal clear and salty. At noon, the low winter sun warms the ancient stones of Le Yaudet, casting a golden glow on the granite. Early afternoon is for exploring the rocks before twilight falls around 5:00 PM. The evening is spent by the warmth of a fireplace as the winter wind whistles outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de Mez-an-Aod",
+                "hu": "Plage de Mez-an-Aod",
+                "ro": "Plage de Mez-an-Aod",
+                "en": "Plage de Mez-an-Aod"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit des Winters am Meer; tragen Sie winddichte Kleidung, da der eiskalte Seewind hier besonders ungeschützt angreifen kann.",
+                "hu": "Élvezze a téli tengerpart magányát; viseljen szélálló ruházatot, mert a jéghideg tengeri szél itt különösen erősen és akadálytalanul fúj.",
+                "ro": "Bucurați-vă de singurătatea mării în timpul iernii; purtați haine rezistente la vânt, deoarece briza înghețată poate fi tăioasă pe plaja deschisă.",
+                "en": "Enjoy the solitude of the winter shore; wear windproof layers, as the icy sea breeze can be particularly harsh on this unprotected stretch of coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Beg Léguer",
+                "hu": "Phare de Beg Léguer",
+                "ro": "Phare de Beg Léguer",
+                "en": "Phare de Beg Léguer"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für Fotos mit klarem Winterlicht; achten Sie auf die Zeit, da es hier oben auf den Klippen nach Sonnenuntergang schnell sehr kalt wird.",
+                "hu": "Kiváló helyszín fotózáshoz a tiszta téli fényekben; ügyeljen az időre, mert a sziklákon a naplemente után hirtelen és jelentősen lehűl a levegő.",
+                "ro": "Un loc excelent pentru fotografii în lumina clară de iarnă; aveți grijă la timp, deoarece pe stânci se face foarte frig imediat după apusul soarelui.",
+                "en": "A great spot for photography in the clear winter light; keep track of time, as it gets very cold very quickly on the cliffs once the sun starts to set."
+              }
+            },
+            {
+              "name": {
+                "de": "Roche Tremblante",
+                "hu": "Roche Tremblante",
+                "ro": "Roche Tremblante",
+                "en": "Roche Tremblante"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume geben den Blick auf die Felsformationen frei; bringen Sie Thermoskanne mit Tee mit, um sich bei einer kurzen Rast im Wald aufzuwärmen.",
+                "hu": "A kopasz fák között jobban látszanak a különleges sziklaformációk; vigyen magával termoszban teát, hogy felmelegedjen az erdei pihenő alatt.",
+                "ro": "Copacii golași permit o vedere mai bună asupra formațiunilor stâncoase; aduceți un termos cu ceai cald pentru a vă încălzi în timpul popasului în pădure.",
+                "en": "The bare trees allow for a better view of the unique rock formations; bring a thermos of hot tea to keep warm during your break in the woods."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontaine de dévotion du Yaudet",
+                "hu": "Fontaine de dévotion du Yaudet",
+                "ro": "Fontaine de dévotion du Yaudet",
+                "en": "Fontaine de dévotion du Yaudet"
+              },
+              "tip_5lang": {
+                "de": "Die Quelle wirkt in der kargen Winterlandschaft fast magisch; tragen Sie feste Wanderschuhe, da der Boden um die Quelle herum gefroren sein kann.",
+                "hu": "A forrás szinte mágikusnak tűnik a kopár téli tájban; viseljen stabil túrabakancsot, mert a víz körüli talaj gyakran jeges vagy fagyott lehet.",
+                "ro": "Izvorul pare aproape magic în peisajul auster de iarnă; purtați bocanci stabili, deoarece solul din jurul sursei de apă poate fi înghețat.",
+                "en": "The spring looks almost magical in the stark winter landscape; wear sturdy hiking boots, as the ground around the water source is often frozen or icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Yaudet",
+                "hu": "Le Yaudet",
+                "ro": "Le Yaudet",
+                "en": "Le Yaudet"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Gassen ohne die sommerlichen Menschenmassen; die Kapelle bietet auch im Winter einen geschützten und andächtigen Ort.",
+                "hu": "Fedezze fel a történelmi utcákat a nyári tömeg nélkül; a kápolna télen is csendes, védett helyszínt kínál az elmélyüléshez és a melegedéshez.",
+                "ro": "Explorați străzile istorice fără mulțimile de vară; capela oferă un loc protejat și liniștit pentru reculegere chiar și în mijlocul iernii.",
+                "en": "Explore the historic lanes without the summer crowds; the chapel remains a sheltered and solemn place to warm up and reflect even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Roches de Beaumanoir",
+                "hu": "Roches de Beaumanoir",
+                "ro": "Roches de Beaumanoir",
+                "en": "Roches de Beaumanoir"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über den Léguer bei Sonnenuntergang gegen 17 Uhr; brechen Sie rechtzeitig auf, um nicht in der Dunkelheit wandern zu müssen.",
+                "hu": "Élvezze a Léguer-folyóra nyíló kilátást a 17 óra körüli naplementében; induljon vissza időben, hogy ne sötétben kelljen megtennie az utolsó szakaszt.",
+                "ro": "Admirați vederea panoramică asupra râului Léguer la apus, în jur de ora 17; plecați la timp pentru a nu fi surprins de întuneric pe drumul de întoarcere.",
+                "en": "Enjoy the sweeping views over the Léguer at sunset around 5 PM; start your return journey early to avoid navigating the coastal trails in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpáros napot a történelem előtti Dolmen de Crec'h Lia megcsodálásával, mielőtt a Chapelle Saint-Thurien felé gurulna. A friss reggeli levegő tökéletesen illik a festői útvonalhoz.\n\nDélben az ikonikus Phare de Beg Léguer világítótoronynál tart pihenőt, és a végtelen óceánt kémleli. Röviddel ezután leereszkedik a Plage de Saint-Quiriou strandjára egy jól megérdemelt pihenőre.\n\nDélután a magasba tornyosuló Menhir du Lianver felé pedáloz, amely az ókor meséit suttogja. A kanyargós parti utak és a tengeri szél egyaránt frissítő és rendkívül látványos kerékpározást biztosítanak.\n\nUtazása a történelmi Le Yaudet hegyfokának elérésével zárul. Ahogy a naplemente arany árnyalatokat vetít az ősi romokra és a gyönyörű öbölre, az valóban varázslatos befejezése a kalandnak.",
         "ro": "Începeți ziua de ciclism admirând preistoricul Dolmen de Crec'h Lia înainte de a pedala spre Chapelle Saint-Thurien. Aerul proaspăt al dimineții se potrivește perfect cu traseul extrem de pitoresc.\n\nLa prânz vă opriți la iconicul Phare de Beg Léguer, privind peste oceanul vast. La scurt timp, veți coborî spre Plage de Saint-Quiriou pentru o odihnă bine meritată pe nisipurile imaculate.\n\nÎn timpul după-amiezii, pedalați către impunătorul Menhir du Lianver, un monument solitar izbitor al antichității. Drumurile de coastă șerpuite oferă o plimbare plină de viață și peisaje de vis.\n\nCălătoria se încheie când ajungeți la promontoriul istoric din Le Yaudet. Privind cum apusul aruncă nuanțe aurii peste ruinele antice și peste golf, veți avea un final de-a dreptul magic.",
         "en": "Kick off your cycling day marveling at the prehistoric Dolmen de Crec'h Lia before rolling onwards to the quietly inspiring Chapelle Saint-Thurien. The morning air perfectly suits the scenic route.\n\nMidday finds you pausing at the iconic Phare de Beg Léguer, gazing out over the vast ocean. Soon after, you'll cruise down to Plage de Saint-Quiriou for a well-deserved rest on the pristine sands.\n\nDuring the afternoon, pedal your way to the towering Menhir du Lianver, a striking solitary monument that whispers tales of antiquity. The winding coastal roads provide an invigorating ride.\n\nYour journey concludes as you reach the historic promontory of Le Yaudet. Watching the sunset cast golden hues over the ancient ruins and the bay offers a truly magical end to your adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt mit einer feuchten Fahrt zum Dolmen, während der Sprühregen das Gesicht kühlt. Mittags sucht man Schutz in der Kapelle Saint-Thurien, um neue Energie zu tanken. Am Nachmittag führt die Route über glänzende Asphaltstraßen zum Yaudet, wobei die Bremsen bei Nässe Vorsicht erfordern. Der Abend endet nach einer erfrischenden, aber nassen Tour mit der Reinigung der Ausrüstung im Trockenen.",
+            "hu": "A nap párás tekeréssel indul a dolmen felé, miközben a finom permet hűsíti az arcot. Délben a Saint-Thurien kápolna falai között pihenünk meg, erőt gyűjtve a folytatáshoz. Délután a fénylő aszfalton gurulunk Le Yaudet felé, fokozottan ügyelve a fékekre a vizes úton. Az este a frissítő, de áztató túra után a felszerelés letakarításával és egy forró zuhanyozással zárul.",
+            "ro": "Ziua începe cu o cursă umedă spre dolmen, în timp ce burnița fină vă răcorește fața. La prânz, căutăm refugiu între zidurile capelei Saint-Thurien pentru a ne reîncărca energiile. După-amiaza, ruta continuă pe asfaltul strălucitor spre Le Yaudet, necesitând prudență la frânare. Seara se încheie după o tură revigorantă, dar udă, cu curățarea echipamentului la adăpost.",
+            "en": "The day begins with a damp ride toward the dolmen as fine mist cools your face. At noon, the walls of Saint-Thurien chapel offer a dry spot to rest and recharge. In the afternoon, the route continues on glistening asphalt toward Le Yaudet, requiring extra caution with brakes on wet surfaces. The evening ends after a refreshing but soaking tour with gear maintenance in the dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmen de Crec'h Lia",
+                "hu": "Dolmen de Crec'h Lia",
+                "ro": "Dolmen de Crec'h Lia",
+                "en": "Dolmen de Crec'h Lia"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine wirken im Regen sehr atmosphärisch; parken Sie Ihr Rad auf festem Grund, um ein Versinken im aufgeweichten Boden zu vermeiden.",
+                "hu": "Az ősi kövek az esőben rendkívül hangulatosak; parkolja a kerékpárt szilárd felületre, hogy elkerülje a felázott talajba való elsüllyedést.",
+                "ro": "Pietrele străvechi sunt foarte atmosferice pe ploaie; parcați bicicleta pe un teren solid pentru a evita scufundarea în solul înmuiat de apă.",
+                "en": "The ancient stones look very atmospheric in the rain; park your bike on solid ground to prevent it from sinking into the waterlogged soil."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Thurien",
+                "hu": "Chapelle Saint-Thurien",
+                "ro": "Chapelle Saint-Thurien",
+                "en": "Chapelle Saint-Thurien"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine Regenpause; prüfen Sie Ihre Reifen auf anhaftenden Schlamm, bevor Sie die Fahrt auf befestigten Straßen fortsetzen.",
+                "hu": "Ideális helyszín egy esőszünethez; ellenőrizze a gumikat, hogy ne maradjon rajtuk sár, mielőtt visszatérne a szilárd burkolatú utakra.",
+                "ro": "Un loc ideal pentru o pauză de ploaie; verificați anvelopele de noroi înainte de a continua drumul pe șoselele asfaltate.",
+                "en": "An ideal spot for a rain break; check your tires for clinging mud before continuing your journey on the paved coastal roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Beg Léguer",
+                "hu": "Phare de Beg Léguer",
+                "ro": "Phare de Beg Léguer",
+                "en": "Phare de Beg Léguer"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Abfahrt zum Leuchtturm, da die Straße bei Regen rutschig sein kann; nutzen Sie das Gebäude kurzzeitig als Windschutz.",
+                "hu": "Vigyázzon a világítótoronyhoz vezető lejtőn, mert az út esőben csúszós lehet; használja az épületet rövid szélvédőként a pihenő alatt.",
+                "ro": "Atenție la coborârea spre far, deoarece drumul poate fi alunecos pe ploaie; folosiți clădirea ca scut temporar împotriva vântului puternic.",
+                "en": "Be cautious on the descent to the lighthouse as the road can be slick; use the building structure as a brief windbreak while checking your map."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Saint-Quiriou",
+                "hu": "Plage de Saint-Quiriou",
+                "ro": "Plage de Saint-Quiriou",
+                "en": "Plage de Saint-Quiriou"
+              },
+              "tip_5lang": {
+                "de": "Das Meer wirkt bei Regen wild und ungezähmt; bleiben Sie auf den Wegen, da die Böschungen durch das Wasser instabil werden können.",
+                "hu": "A tenger esőben vad és zabolátlan látványt nyújt; maradjon a kijelölt utakon, mert a rézsűk a sok víztől bizonytalanná válhatnak.",
+                "ro": "Marea pare sălbatică și neîmblânzită pe ploaie; rămâneți pe poteci, deoarece taluzurile pot deveni instabile din cauza apei acumulate.",
+                "en": "The sea looks wild and untamed in the rain; stay on the designated paths as the embankments can become unstable due to heavy saturation."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir du Lianver",
+                "hu": "Menhir du Lianver",
+                "ro": "Menhir du Lianver",
+                "en": "Menhir du Lianver"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier bei Nässe aus; achten Sie darauf, dass Ihre Regenbekleidung gut schließt, um bei der Weiterfahrt nicht auszukühlen.",
+                "hu": "Egy rövid megálló is elég itt esőben; ügyeljen rá, hogy a vízálló ruházata jól záródjon, nehogy megfázzon a menetszélben a továbbhaladáskor.",
+                "ro": "O oprire scurtă este suficientă aici pe ploaie; asigurați-vă că hainele impermeabile sunt bine închise pentru a nu răci în timpul mersului.",
+                "en": "A short stop is enough here in the wet; ensure your waterproof gear is properly fastened to avoid chilling from the wind when you resume riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Yaudet",
+                "hu": "Le Yaudet",
+                "ro": "Le Yaudet",
+                "en": "Le Yaudet"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour im Dorf und suchen Sie ein trockenes Plätzchen; die Kapelle ist ein Muss, um sich in Ruhe aufzuwärmen und abzutrocknen.",
+                "hu": "Zárja a túrát a faluban és keressen egy száraz helyet; a kápolna kötelező látnivaló, ahol nyugodtan felmelegedhet és megszárítkozhat kicsit.",
+                "ro": "Încheiați turul în sat și căutați un loc uscat; capela este un obiectiv obligatoriu pentru a vă încălzi și usca în liniște după efort.",
+                "en": "Finish your tour in the village and find a dry spot; the chapel is a must-see, offering a quiet place to warm up and dry off after your ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch mit einer Fahrt durch die klare Küstenluft zum Dolmen. Mittags scheint die Sonne schwach auf die Kapelle Saint-Thurien, was perfekt für ein kurzes Picknick ist. Am Nachmittag radelt man zügig zum Yaudet, um in Bewegung zu bleiben und die Kälte zu vertreiben. Die Tour endet pünktlich zum Sonnenuntergang um 17:00 Uhr, wenn die Temperaturen schnell in den Gefrierbereich sinken.",
+            "hu": "A téli reggel frissen indul, a tiszta parti levegőben tekerünk a dolmen felé. Délben a nap bágyadtan süti a Saint-Thurien kápolnát, ami tökéletes egy rövid pihenőhöz. Délután tempósabban haladunk Le Yaudet irányába, hogy mozgásban maradjunk és ne fázzunk. A túra pontosan a 17:00 órai naplementekor ér véget, amikor a hőmérséklet gyorsan fagypont köré süllyed.",
+            "ro": "Dimineața de iarnă începe proaspăt, pedalând prin aerul curat de coastă spre dolmen. La prânz, soarele palid luminează capela Saint-Thurien, fiind momentul perfect pentru o scurtă pauză. După-amiaza pedalăm susținut spre Le Yaudet pentru a ne menține căldura corporală. Turul se încheie fix la apus, în jur de ora 17:00, când temperaturile scad rapid sub zero grade.",
+            "en": "The winter morning starts fresh with a ride through clear coastal air toward the dolmen. At noon, the faint sun shines on Saint-Thurien chapel, perfect for a brief rest. In the afternoon, cycle briskly toward Le Yaudet to keep your blood flowing and ward off the cold. The tour ends right at sunset around 5:00 PM, as temperatures quickly drop toward freezing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dolmen de Crec'h Lia",
+                "hu": "Dolmen de Crec'h Lia",
+                "ro": "Dolmen de Crec'h Lia",
+                "en": "Dolmen de Crec'h Lia"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter wunderbar ruhig; tragen Sie warme Handschuhe, da der Lenker bei der Weiterfahrt unangenehm kalt sein kann.",
+                "hu": "A lelőhely télen csodálatosan csendes; viseljen meleg kesztyűt, mert a kormány a továbbinduláskor kellemetlenül hideg lehet a kezének.",
+                "ro": "Situl este minunat de liniștit iarna; purtați mănuși groase, deoarece ghidonul poate fi extrem de rece la plecare după pauză.",
+                "en": "The site is wonderfully quiet in winter; wear warm thermal gloves, as your handlebars can become uncomfortably cold after a long stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Thurien",
+                "hu": "Chapelle Saint-Thurien",
+                "ro": "Chapelle Saint-Thurien",
+                "en": "Chapelle Saint-Thurien"
+              },
+              "tip_5lang": {
+                "de": "Ein geschützter Ort vor dem schneidenden Wind; bewegen Sie Ihre Finger und Zehen regelmäßig, um die Durchblutung während der Pause zu fördern.",
+                "hu": "Szélvédett hely a metsző parti szél elől; mozgassa meg az ujjait és lábujjait rendszeresen a pihenő alatt, hogy fenntartsa a vérkeringést.",
+                "ro": "Un loc protejat de vântul tăios de coastă; mișcați degetele mâinilor și picioarelor regulat pentru a menține circulația în timpul pauzei.",
+                "en": "A sheltered spot from the biting coastal wind; wiggle your fingers and toes regularly during your break to maintain good circulation."
+              }
+            },
+            {
+              "name": {
+                "de": "Phare de Beg Léguer",
+                "hu": "Phare de Beg Léguer",
+                "ro": "Phare de Beg Léguer",
+                "en": "Phare de Beg Léguer"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht bei klarer Winterluft ist phänomenal; achten Sie auf mögliche Glätte auf der Straße durch gefrorene Gischt oder Reif.",
+                "hu": "A kilátás a tiszta téli levegőben fenomenális; ügyeljen az úton lévő esetleges jegesedésre, amit a megfagyott pára vagy dér okozhat.",
+                "ro": "Priveliștea în aerul clar de iarnă este fenomenală; atenție la posibila gheață de pe drum formată din rouă înghețată sau promoroacă.",
+                "en": "The view in the clear winter air is phenomenal; watch out for potential icy patches on the road caused by frozen sea spray or hoarfrost."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Saint-Quiriou",
+                "hu": "Plage de Saint-Quiriou",
+                "ro": "Plage de Saint-Quiriou",
+                "en": "Plage de Saint-Quiriou"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Blick auf das Meer lohnt sich, aber bleiben Sie nicht zu lange stehen, um nicht durch den kalten Wind auszukühlen.",
+                "hu": "Megéri egy rövid pillantást vetni a tengerre, de ne álljon meg túl hosszú ideig, nehogy teljesen áthűljön a hideg szélben.",
+                "ro": "Merită o scurtă privire spre mare, dar nu staționați prea mult timp pentru a nu lăsa vântul rece să vă pătrundă prin haine.",
+                "en": "A quick look at the sea is worth it, but don't stop for too long to avoid getting chilled to the bone by the relentless coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir du Lianver",
+                "hu": "Menhir du Lianver",
+                "ro": "Menhir du Lianver",
+                "en": "Menhir du Lianver"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Stein in der Winterlandschaft ist ein tolles Motiv; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Abend funktioniert.",
+                "hu": "A magányos kő a téli tájban remek fotótéma; győződjön meg róla, hogy a kerékpár világítása jól működik a korai sötétedés miatt.",
+                "ro": "Piatra singuratică în peisajul de iarnă este un subiect foto excelent; asigurați-vă că luminile bicicletei funcționează pentru seara timpurie.",
+                "en": "The solitary stone in the winter landscape is a great photo subject; ensure your bike lights are working perfectly for the early dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Yaudet",
+                "hu": "Le Yaudet",
+                "ro": "Le Yaudet",
+                "en": "Le Yaudet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das historische Ambiente im sanften Winterlicht; beenden Sie die Tour rechtzeitig vor 17 Uhr, bevor es schlagartig dunkel wird.",
+                "hu": "Élvezze a történelmi környezetet a lágy téli fényekben; fejezze be a túrát 17 óra előtt, mielőtt hirtelen teljesen besötétedne.",
+                "ro": "Bucurați-vă de ambianța istorică în lumina blândă de iarnă; încheiați turul înainte de ora 17, când se întunecă brusc și temperaturile scad.",
+                "en": "Enjoy the historic atmosphere in the soft winter light; finish your tour well before 5 PM, before it gets pitch dark and significantly colder."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje az autós túrát a lélegzetelállító Baie de Lannion öbölben. Egy rövid vezetés elviszi a bájos Église Saint-Quémeau templomhoz, amely békés reggeli elmélkedésre és pihenésre ad lehetőséget.\n\nDélben parkoljon le az eldugott Plage de Notigou közelében, és sétáljon egyet a csendes parton. Ezután álljon meg, hogy megcsodálja a lenyűgöző Menhir du Lianver-t, a kelta történelem szimbólumát.\n\nA délután a kulturálisan gazdag Le Yaudet helyszínén bontakozik ki, ahol kiterjedt romokat fedezhet fel. Egy rövid ugrás ezután a Plage de Pont Roux védett és pihentető homokjához vezeti önt.\n\nZárja a napot az elrejtett Dolmen de Crec'h Lia megkeresésével. Ennek a megalitikus csodának a felfedezése a halványuló fényben mélységes csodálattal tölti el utazása utolsó, varázslatos perceit.",
         "ro": "Începeți turul cu mașina la impresionanta Baie de Lannion. Un scurt drum vă duce la fermecătoarea Église Saint-Quémeau, oferind o reflectare matinală pașnică și plină de spiritualitate autentică.\n\nLa prânz, veți parca lângă izolată Plage de Notigou pentru a vă plimba pe țărmul neaglomerat. Apoi, opriți-vă pentru a admira Menhir du Lianver, un simbol durabil și minunat al istoriei celtice.\n\nDupă-amiaza se desfășoară în situl cultural bogat din Le Yaudet, unde puteți explora ruine extinse. O scurtă călătorie vă duce apoi la nisipurile adăpostite și relaxante de la Plage de Pont Roux.\n\nÎncheiați-vă ziua navigând spre ascunsul Dolmen de Crec'h Lia. Explorarea acestei minuni megalitice sub lumina crepusculului aduce un sentiment profund de uimire la finalul călătoriei memorabile.",
         "en": "Start your driving tour at the breathtaking Baie de Lannion, appreciating its vastness. A short drive brings you to the charming Église Saint-Quémeau, offering a peaceful morning reflection.\n\nBy midday, you’ll park near the secluded Plage de Notigou to stroll along the uncrowded shoreline. Next, stop to admire the fascinating Menhir du Lianver, an enduring symbol of Celtic history.\n\nThe afternoon unfolds at the culturally rich site of Le Yaudet, where you can easily explore extensive ruins. A brief hop then takes you to the sheltered and relaxing sands of Plage de Pont Roux.\n\nEnd your day navigating to the hidden Dolmen de Crec'h Lia. Exploring this megalithic marvel under the fading light brings a profound sense of wonder to the close of your memorable journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt mit einer Panoramafahrt entlang der regnerischen Bucht, während die Scheibenwischer den Blick freigeben. Mittags bietet die Kirche Saint-Quémeau einen trockenen und besinnlichen Rückzugsort. Am Nachmittag steuert man bequem verschiedene Aussichtspunkte an, ohne nass zu werden. Der Abend klingt gemütlich in einem Restaurant in Lannion aus, während man dem Regen draußen entspannt zusieht.",
+            "hu": "A délelőtt panorámás autózással indul az esős öböl mentén, miközben az ablaktörlők ütemesen dolgoznak. Délben a Saint-Quémeau templom nyújt száraz és békés menedéket az eső elől. Délután kényelmesen látogathatjuk meg a különböző kilátópontokat anélkül, hogy bőrig áznánk. Az este egy hangulatos lannioni étteremben ér véget, ahonnan nyugodtan nézhetjük a kinti esőzést.",
+            "ro": "Dimineața începe cu o cursă panoramică de-a lungul golfului ploios, în timp ce ștergătoarele lucrează constant. La prânz, biserica Saint-Quémeau oferă un refugiu uscat și liniștit. După-amiaza, puteți vizita confortabil diverse puncte de belvedere fără a vă uda. Seara se încheie plăcut într-un restaurant din Lannion, privind relaxați ploaia de afară de la fereastră.",
+            "en": "The morning begins with a scenic drive along the rainy bay as the wipers clear your view of the coast. At noon, Saint-Quémeau church offers a dry and peaceful sanctuary from the downpour. In the afternoon, you can comfortably visit various viewpoints without getting soaked. The evening concludes in a cozy Lannion restaurant, watching the rain outside from a warm window seat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baie de Lannion",
+                "hu": "Baie de Lannion",
+                "ro": "Baie de Lannion",
+                "en": "Baie de Lannion"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Bucht direkt aus dem Auto; parken Sie so, dass Sie die stürmische See beobachten können, ohne auszusteigen.",
+                "hu": "Élvezze az öbölre nyíló kilátást közvetlenül az autóból; parkoljon úgy, hogy láthassa a viharos tengert anélkül, hogy ki kellene szállnia.",
+                "ro": "Bucurați-vă de vederea spre golf direct din mașină; parcați astfel încât să puteți observa marea învolburată fără a ieși în ploaie.",
+                "en": "Enjoy the view of the bay directly from your car; park facing the water so you can watch the stormy sea while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Quémeau",
+                "hu": "Église Saint-Quémeau",
+                "ro": "Église Saint-Quémeau",
+                "en": "Église Saint-Quémeau"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein wunderbarer Ort, um dem Regen zu entfliehen; bewundern Sie die Architektur und nutzen Sie die Ruhe für eine kurze Pause.",
+                "hu": "A templom csodálatos hely az eső elől való menekülésre; csodálja meg az építészetét és használja ki a csendet egy rövid belső pihenőre.",
+                "ro": "Biserica este un loc minunat pentru a scăpa de ploaie; admirați arhitectura și folosiți liniștea pentru o scurtă pauză de reculegere.",
+                "en": "The church is a wonderful place to escape the rain; admire the architecture and use the silence for a brief, dry, and peaceful break."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Notigou",
+                "hu": "Plage de Notigou",
+                "ro": "Plage de Notigou",
+                "en": "Plage de Notigou"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Ufer lohnt sich für die frische Meeresluft; achten Sie auf rutschige Parkplätze und nasse Fahrbahnen bei der Weiterfahrt.",
+                "hu": "Egy rövid futás a partig megéri a friss tengeri levegőért; ügyeljen a csúszós parkolókra és a vizes utakra a továbbinduláskor.",
+                "ro": "O scurtă fugă până la țărm merită pentru aerul proaspăt marin; atenție la parcările alunecoase și la carosabilul umed la plecare.",
+                "en": "A quick dash to the shore is worth it for the fresh sea air; be careful of slippery parking areas and wet road surfaces when restarting."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir du Lianver",
+                "hu": "Menhir du Lianver",
+                "ro": "Menhir du Lianver",
+                "en": "Menhir du Lianver"
+              },
+              "tip_5lang": {
+                "de": "Der Menhir ist vom Auto aus gut sichtbar; halten Sie kurz am Straßenrand an, um ein Foto von diesem einsamen Monument im Regen zu machen.",
+                "hu": "A menhir jól látható az autóból is; álljon meg egy pillanatra az út szélén, hogy fotót készítsen erről a magányos emlékműről az esőben.",
+                "ro": "Menhirul este vizibil din mașină; opriți scurt pe marginea drumului pentru a fotografia acest monument solitar sub ploaie.",
+                "en": "The menhir is clearly visible from the car; stop briefly at the roadside to snap a photo of this solitary monument through the raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Yaudet",
+                "hu": "Le Yaudet",
+                "ro": "Le Yaudet",
+                "en": "Le Yaudet"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentral und erkunden Sie die Kapelle mit der schlafenden Jungfrau; das Dorf bietet viele charmante Ecken, die auch bei Regen wirken.",
+                "hu": "Parkoljon a központban és látogasson el a fekvő Madonnát rejtő kápolnába; a falu sok bájos részlete esőben is különleges hangulatot áraszt.",
+                "ro": "Parcați în centru și vizitați capela cu Madona adormită; satul are multe colțuri fermecătoare care impresionează chiar și pe ploaie.",
+                "en": "Park centrally and visit the chapel housing the reclining Virgin Mary; the village has many charming spots that look beautiful even in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Pont Roux",
+                "hu": "Plage de Pont Roux",
+                "ro": "Plage de Pont Roux",
+                "en": "Plage de Pont Roux"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um den Gezeiten zuzusehen; bleiben Sie im Auto und genießen Sie das prasselnde Geräusch des Regens auf dem Autodach.",
+                "hu": "Nyugodt hely az árapály megfigyelésére; maradjon az autóban és élvezze a kocsi tetején kopogó eső megnyugtató hangját.",
+                "ro": "Un loc liniștit pentru a observa fluxul și refluxul; rămâneți în mașină și savurați sunetul ploii care bate în plafonul autovehiculului.",
+                "en": "A peaceful spot to observe the tides; stay inside the car and enjoy the soothing sound of rain drumming on the roof above you."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Crec'h Lia",
+                "hu": "Dolmen de Crec'h Lia",
+                "ro": "Dolmen de Crec'h Lia",
+                "en": "Dolmen de Crec'h Lia"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Grabanlage kurz vor der Rückfahrt; achten Sie auf den matschigen Boden auf dem kurzen Weg vom Parkplatz zum Dolmen.",
+                "hu": "Látogasson el a síremlékhez közvetlenül a hazaindulás előtt; ügyeljen a sáros talajra a parkoló és a dolmen közötti rövid szakaszon.",
+                "ro": "Vizitați monumentul funerari înainte de plecare; atenție la solul noroios pe scurta distanță dintre parcare și dolmen.",
+                "en": "Visit the megalithic site just before heading back; watch out for muddy ground on the short path between the parking area and the dolmen."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein strahlender Wintermorgen beginnt mit einer Fahrt entlang der glitzernden Küste von Lannion. Mittags erkundet man die ruhige Kirche Saint-Quémeau, während die Heizung im Auto für angenehme Wärme zwischen den Stopps sorgt. Am Nachmittag geht es zum geschichtsträchtigen Yaudet, um das klare Licht für Fotos zu nutzen. Der Tag endet gegen 17:00 Uhr mit einem spektakulären Sonnenuntergang über dem Meer, bevor man die Rückreise antritt.",
+            "hu": "A ragyogó téli reggel autózással indul Lannion csillogó partvidéke mentén. Délben a csendes Saint-Quémeau templomot fedezzük fel, miközben az autó fűtése kellemes meleget biztosít a megállók között. Délután a történelmi Le Yaudet felé vesszük az irányt, kihasználva a tiszta fényeket a fotózáshoz. A nap 17:00 körül látványos naplementével zárul a tenger felett, mielőtt elindulnánk hazafelé.",
+            "ro": "O dimineață strălucitoare de iarnă începe cu o cursă de-a lungul coastei sclipitoare din Lannion. La prânz explorăm biserica liniștită Saint-Quémeau, în timp ce căldura din mașină ne menține confortul între opriri. După-amiaza ne îndreptăm spre istoricul Le Yaudet, folosind lumina clară pentru fotografii. Ziua se încheie în jur de ora 17:00 cu un apus spectaculos peste mare, înainte de drumul de întoarcere.",
+            "en": "A bright winter morning begins with a drive along the sparkling coastline of Lannion. At noon, explore the quiet Saint-Quémeau church while the car heater provides cozy warmth between stops. In the afternoon, head toward historic Le Yaudet, taking advantage of the clear light for photography. The day ends around 5:00 PM with a spectacular sunset over the sea before the journey home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baie de Lannion",
+                "hu": "Baie de Lannion",
+                "ro": "Baie de Lannion",
+                "en": "Baie de Lannion"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt im Winterlicht besonders weit; nutzen Sie die Parkplätze für einen Panoramablick, ohne der Kälte lange ausgesetzt zu sein.",
+                "hu": "Az öböl a téli fényben különösen tágasnak tűnik; használja a parkolókat a panorámához anélkül, hogy sokáig ki lenne téve a hidegnek.",
+                "ro": "Golful pare deosebit de vast în lumina iernii; folosiți parcările pentru o vedere panoramică fără a vă expune prea mult timp la frig.",
+                "en": "The bay looks exceptionally vast in the winter light; use the coastal parking spots for panoramic views without long exposure to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Quémeau",
+                "hu": "Église Saint-Quémeau",
+                "ro": "Église Saint-Quémeau",
+                "en": "Église Saint-Quémeau"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort für eine Pause; im Inneren ist es oft kühler als draußen, lassen Sie also Ihre Jacke bei der Besichtigung lieber an.",
+                "hu": "Békés hely egy rövid pihenőhöz; bent gyakran hűvösebb van, mint odakint, ezért a látogatás alatt ne vegye le a kabátját.",
+                "ro": "Un loc pașnic pentru o pauză; în interior este adesea mai răcoare decât afară, deci păstrați haina pe dumneavoastră în timpul vizitei.",
+                "en": "A peaceful spot for a break; the interior is often cooler than outside, so it is best to keep your coat on during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Notigou",
+                "hu": "Plage de Notigou",
+                "ro": "Plage de Notigou",
+                "en": "Plage de Notigou"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen kurzen Winterspaziergang am Wasser; achten Sie bei der Rückkehr ins Auto darauf, den Sand von den Schuhen zu klopfen.",
+                "hu": "Tökéletes helyszín egy rövid téli sétához a víznél; mielőtt visszaszállna az autóba, rázza le a homokot a cipőjéről.",
+                "ro": "Perfect pentru o scurtă plimbare de iarnă lângă apă; asigurați-vă că scuturați nisipul de pe încălțăminte înainte de a urca în mașină.",
+                "en": "Perfect for a brisk winter stroll by the water; remember to shake the sand off your boots before getting back into your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir du Lianver",
+                "hu": "Menhir du Lianver",
+                "ro": "Menhir du Lianver",
+                "en": "Menhir du Lianver"
+              },
+              "tip_5lang": {
+                "de": "Der Stein wirkt in der kargen Landschaft sehr präsent; da die Tage kurz sind, sollten Sie diesen Stopp vor 16 Uhr einplanen.",
+                "hu": "A kő nagyon hangsúlyos a kopár téli tájban; mivel a nappalok rövidek, ezt a megállót érdemes 16 óra előttre terveznie.",
+                "ro": "Piatra este foarte prezentă în peisajul auster; deoarece zilele sunt scurte, planificați această oprire înainte de ora 16:00.",
+                "en": "The stone stands out boldly in the stark winter landscape; as days are short, plan this stop before 4 PM for the best lighting."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Yaudet",
+                "hu": "Le Yaudet",
+                "ro": "Le Yaudet",
+                "en": "Le Yaudet"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle und genießen Sie die Aussicht; nutzen Sie die Parkmöglichkeiten im Dorf, um die Wege kurz zu halten.",
+                "hu": "Látogasson el a kápolnába és élvezze a kilátást; parkoljon a faluban, hogy a gyalogos szakaszokat a lehető legrövidebbre fogja a hidegben.",
+                "ro": "Vizitați capela și bucurați-vă de priveliște; folosiți locurile de parcare din sat pentru a menține distanțele de mers pe jos cât mai scurte.",
+                "en": "Visit the chapel and soak in the views; use the village parking to keep walking distances short in the biting winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Pont Roux",
+                "hu": "Plage de Pont Roux",
+                "ro": "Plage de Pont Roux",
+                "en": "Plage de Pont Roux"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um den Winter-Sonnenuntergang bequem vom Fahrersitz aus zu beobachten; bringen Sie sich ein warmes Getränk für die Fahrt mit.",
+                "hu": "Ideális hely a téli naplemente megtekintéséhez kényelmesen, a vezetőülésből; vigyen magával meleg italt az autóba a pihenőhöz.",
+                "ro": "Ideal pentru a observa apusul de iarnă confortabil de pe scaunul șoferului; aduceți o băutură caldă cu dumneavoastră în mașină.",
+                "en": "Ideal for watching the winter sunset comfortably from the driver's seat; bring a warm beverage with you to enjoy while you wait."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen de Crec'h Lia",
+                "hu": "Dolmen de Crec'h Lia",
+                "ro": "Dolmen de Crec'h Lia",
+                "en": "Dolmen de Crec'h Lia"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Abschluss der Tour; achten Sie auf die Zeit, da es nach 17 Uhr schlagartig dunkel und sehr frostig wird.",
+                "hu": "Rövid, frissítő zárása a túrának; ügyeljen az időre, mert 17 óra után hirtelen besötétedik és a levegő gyorsan átfagy.",
+                "ro": "O încheiere scurtă și revigorantă a turului; atenție la timp, deoarece după ora 17 se întunecă brusc și se lasă gerul.",
+                "en": "A quick, refreshing final stop for the tour; keep an eye on the clock as it gets dark and frosty almost instantly after 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

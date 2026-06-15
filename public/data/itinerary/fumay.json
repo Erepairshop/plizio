@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi Saint-Georges templomnál, majd fedezze fel a Château des Comtes-de-Bryas ősi várát. Délben a palabányászati múzeum nyújt bepillantást Fumay ipari múltjába. A délutánt töltse a Diversmonts csodálatos természeti környezetében. Zárja a napot egy pihentető esti sétával a festői szépségű kikötőben.",
         "ro": "Începeți dimineața explorând istorica Biserică Saint-Georges, urmată de o vizită la vechiul Château des Comtes-de-Bryas. La prânz, descoperiți trecutul industrial al orașului la muzeul ardeziei. Petreceți după-amiaza bucurându-vă de peisajul natural de la Diversmonts. Încheiați ziua cu o plimbare relaxantă de seară în portul pitoresc din Fumay.",
         "en": "Start your morning exploring the historic Saint-Georges Church, followed by a visit to the ancient Château des Comtes-de-Bryas. Midday brings you to the fascinating slate museum, uncovering Fumay's industrial past. Spend your afternoon enjoying the natural beauty at Diversmonts. Conclude the day with a relaxing evening stroll along the picturesque Fumay Marina."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche einen trockenen Start. Mittags erkunden wir das Schloss unter dem Schirm, während die Fassade im Regen glänzt. Nachmittags ist das Schiefermuseum der ideale Zufluchtsort im Trockenen. Abends genießen wir die mystische, neblige Atmosphäre am Hafen in Regenkleidung, bevor wir uns in ein warmes Café in der Altstadt zurückziehen.",
+            "hu": "Reggel a templom hűvösében kezdünk, ami remek menedék az eső elől. Délben a várkastély komor falai között kalandozunk esernyővel. Délután a palakőmúzeum fedett kiállításai nyújtanak száraz programot. Este a kikötő párás fényeiben gyönyörködhetünk egy vízálló kabátban, majd egy meleg teával zárjuk a napot egy hangulatos belvárosi helyen.",
+            "ro": "Dimineața, biserica oferă un început uscat și liniștit. La prânz, explorăm castelul sub umbrelă, admirând fațada dramatică în ploaie. După-amiaza, muzeul ardeziei este refugiul perfect pentru a scăpa de umezeală. Seara, admirăm atmosfera mistică și cețoasă din port în haine impermeabile, apoi ne retragem la un ceai cald într-o cafenea locală.",
+            "en": "In the morning, the church provides a dry start to your walk. At noon, explore the castle under an umbrella, as the facade shines in the rain. In the afternoon, the slate museum is the ideal indoor sanctuary. In the evening, enjoy the mystical, misty atmosphere at the marina in waterproof gear, then warm up in a cozy cafe in the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Georges Church",
+                "hu": "Saint-Georges Church",
+                "ro": "Saint-Georges Church",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das neugotische Innere beim Trocknen; die massiven Steinmauern bieten perfekten Schutz vor den plötzlichen Ardennen-Regengüssen, bringen Sie einen Schirm mit.",
+                "hu": "Csodálja meg a neogótikus belső teret, miközben megszárad; a vastag kőfalak kiváló védelmet nyújtanak az Ardennek hirtelen jövő esőzései elől, vigyen magával esernyőt.",
+                "ro": "Admirați interiorul neogotic în timp ce vă uscați; pereții groși de piatră oferă un adăpost excelent împotriva averselor bruște din Ardeni, nu uitați să luați o umbrelă.",
+                "en": "Admire the neo-Gothic interior while drying off; the heavy stone walls provide excellent shelter from sudden Ardennes downpours, so keep your umbrella handy inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Comtes-de-Bryas (Ancien)",
+                "hu": "Château des Comtes-de-Bryas (Ancien)",
+                "ro": "Château des Comtes-de-Bryas (Ancien)",
+                "en": "Château des Comtes-de-Bryas (Ancien)"
+              },
+              "tip_5lang": {
+                "de": "Die historische Fassade wirkt im Regen besonders dramatisch; bleiben Sie unter den Dachvorsprüngen naher Gebäude, um die Architektur ohne Nässe zu bewundern.",
+                "hu": "A történelmi homlokzat különösen drámai hatást kelt az esőben; maradjon a közeli épületek eresze alatt, hogy elázás nélkül csodálhassa meg az építészeti részleteket.",
+                "ro": "Fațada istorică pare deosebit de dramatică în ploaie; stați sub streșinile clădirilor din apropiere pentru a aprecia arhitectura fără a vă uda complet în timpul vizitei.",
+                "en": "The historic facade looks particularly dramatic in the rain; stay under the eaves of nearby buildings to appreciate the architecture without getting soaked today."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de l’ardoise Michel Paradon",
+                "hu": "Musée de l’ardoise Michel Paradon",
+                "ro": "Musée de l’ardoise Michel Paradon",
+                "en": "Musée de l’ardoise Michel Paradon"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Rückzugsort bei Regen; erfahren Sie alles über die lokale Schieferindustrie in einer völlig trockenen und faszinierenden Innenumgebung.",
+                "hu": "Ez a múzeum a tökéletes menekülés egy esős napon; ismerje meg a helyi palakőipart egy teljesen száraz és lenyűgöző beltéri környezetben, szánjon rá elég időt.",
+                "ro": "Acest muzeu este evadarea perfectă într-o zi ploioasă; învățați despre industria locală a ardeziei într-un cadru interior fascinant și complet uscat, departe de ploaie.",
+                "en": "This museum is the perfect rainy day escape; learn about the local slate industry in a completely dry and fascinating indoor setting while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Diversmonts, dit du Relais",
+                "hu": "Diversmonts, dit du Relais",
+                "ro": "Diversmonts, dit du Relais",
+                "en": "Diversmonts, dit du Relais"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad könnte schlammig sein, tragen Sie daher feste Stiefel; der Nebel über der Maas schafft hier oben eine fast schon gespenstisch schöne Atmosphäre bei Regen.",
+                "hu": "Az ösvény sáros lehet, ezért viseljen túrabakancsot; a Meuse feletti köd és pára kísértetiesen szép látványt nyújt erről a pontról esős időben is, legyen óvatos.",
+                "ro": "Poteca ar putea fi noroioasă, așa că purtați ghete solide; ceața de deasupra fluviului Meuse creează aici o atmosferă deosebit de frumoasă și misterioasă pe ploaie.",
+                "en": "The path might be muddy, so wear sturdy boots; the mist over the Meuse creates a hauntingly beautiful atmosphere from this viewpoint during rainy weather today."
+              }
+            },
+            {
+              "name": {
+                "de": "Fumay Marina",
+                "hu": "Fumay Marina",
+                "ro": "Fumay Marina",
+                "en": "Fumay Marina"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf dem Fluss von den geschützten Bereichen der Marina aus; ein friedlicher Ort, um den Tag mit einer wasserfesten Jacke ausklingen zu lassen.",
+                "hu": "Figyelje az esőcseppeket a folyón a kikötő fedett részeiről; békés hely a nap befejezéséhez egy vízálló kabátban, a párás levegőben különlegesek a fények.",
+                "ro": "Priviți ploaia pe râu din zonele adăpostite ale marinei; este un loc liniștit pentru a încheia ziua, dar nu uitați să purtați o jachetă impermeabilă de calitate.",
+                "en": "Watch the rain ripple on the river from the sheltered areas of the marina; it is a peaceful spot to end the day with a waterproof jacket while enjoying the view."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Den frostigen Morgen beginnen wir in der schützenden Wärme der Kirche. Mittags spazieren wir bei klarer Winterluft durch den kahlen Schlosspark. Nachmittags bietet das Schiefermuseum wohlige Wärme und spannende Geschichte. Da es bereits um 17 Uhr dunkel wird, beenden wir den Hafenbesuch früh und genießen den Abend bei heißer Schokolade im Warmen.",
+            "hu": "A csípős reggelt a templom vastag falai között kezdjük. Délben a kastély körüli kopár fák között sétálunk a friss, tiszta levegőn. Délután a múzeum melegében ismerkedünk a múlt értékeivel. Mivel 17 órakor már sötétedik, a kikötői sétát korábbra időzítjük, az estét pedig egy forró csokoládé mellett, fedett helyen zárjuk a városban.",
+            "ro": "Începem dimineața geroasă în căldura protectoare a bisericii. La prânz, ne plimbăm prin parcul castelului, bucurându-ne de aerul proaspăt și curat de iarnă. După-amiaza, muzeul oferă căldură și o istorie industrială fascinantă. Deoarece se întunecă la ora 17:00, terminăm vizita în port devreme și petrecem seara la o ciocolată caldă.",
+            "en": "Start the frosty morning in the protective warmth of the church. At noon, stroll through the bare castle park, enjoying the crisp and clear winter air. In the afternoon, the museum offers cozy warmth and fascinating history. Since it gets dark by 5 PM, finish the marina visit early and spend the evening with hot chocolate indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Georges Church",
+                "hu": "Saint-Georges Church",
+                "ro": "Saint-Georges Church",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, windgeschützten Ort; achten Sie darauf, wie das Winterlicht an dunklen Morgen besonders stimmungsvoll durch die Glasfenster fällt.",
+                "hu": "A templom csendes, szélvédett helyet kínál; figyelje meg, hogyan szűrődik át a téli fény az üvegablakokon a sötétebb reggeleken, élvezze a benti nyugalmat.",
+                "ro": "Biserica oferă un loc liniștit și protejat de vânt; observați cum lumina de iarnă trece prin vitralii în diminețile întunecate, creând o atmosferă deosebită.",
+                "en": "The church offers a quiet, wind-shielded space; notice how the winter light filters through the stained glass on darker mornings, providing a serene atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Comtes-de-Bryas (Ancien)",
+                "hu": "Château des Comtes-de-Bryas (Ancien)",
+                "ro": "Château des Comtes-de-Bryas (Ancien)",
+                "en": "Château des Comtes-de-Bryas (Ancien)"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie zügig am Schloss vorbei, um warm zu bleiben; die kahlen Bäume bieten im Winter eine freie Sicht auf das historische Mauerwerk vor dem klaren Himmel.",
+                "hu": "Sétáljon tempósan a kastély mellett, hogy melegen tartsa magát; a kopár fák télen tiszta kilátást nyújtanak a történelmi falakra a hideg kék égbolt előtt.",
+                "ro": "Mergeți vioi pe lângă castel pentru a vă menține căldura; copacii golași oferă iarna o vedere clară asupra zidăriei istorice pe fundalul cerului senin de iarnă.",
+                "en": "Walk briskly past the castle to stay warm; the bare trees in winter offer a clear view of the historic stonework against the sharp sky, perfect for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de l’ardoise Michel Paradon",
+                "hu": "Musée de l’ardoise Michel Paradon",
+                "ro": "Musée de l’ardoise Michel Paradon",
+                "en": "Musée de l’ardoise Michel Paradon"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem Museum auf, während Sie die industrielle Vergangenheit erkunden; es ist der ideale Stopp, um dem beißenden Ardennenwind zu entfliehen.",
+                "hu": "Melegedjen fel ebben a múzeumban, miközben felfedezi a város ipari múltját; ideális megálló, hogy elmeneküljön a metsző ardenneki szél elől a déli órákban.",
+                "ro": "Încălziți-vă în interiorul acestui muzeu în timp ce explorați trecutul industrial; este o oprire ideală pentru a scăpa de vântul tăios din Ardeni la prânz.",
+                "en": "Warm up inside this museum while exploring the town's industrial past; it's an ideal midday stop to escape the biting Ardennes wind and stay cozy for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Diversmonts, dit du Relais",
+                "hu": "Diversmonts, dit du Relais",
+                "ro": "Diversmonts, dit du Relais",
+                "en": "Diversmonts, dit du Relais"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten für den Aufstieg; die kalte Winterluft macht die Fernsicht auf das gefrorene Tal vor Sonnenuntergang außergewöhnlich klar und weit.",
+                "hu": "Öltözzön rétegesen a kapaszkodóhoz; a hideg téli levegő kivételesen tisztává teszi a kilátást a fagyos völgyre naplemente előtt, vigyen magával termoszt.",
+                "ro": "Purtați haine groase în straturi pentru urcare; aerul rece de iarnă face ca vederea panoramică asupra văii înghețate să fie extrem de clară înainte de apus.",
+                "en": "Dress in warm layers for the climb; the crisp winter air makes the panoramic view of the frozen valley exceptionally clear and rewarding before the sun sets."
+              }
+            },
+            {
+              "name": {
+                "de": "Fumay Marina",
+                "hu": "Fumay Marina",
+                "ro": "Fumay Marina",
+                "en": "Fumay Marina"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter sehr still; genießen Sie die Ruhe der Maas, bevor um 17 Uhr die Dunkelheit einbricht, und suchen Sie danach ein warmes Bistro auf.",
+                "hu": "A kikötő télen nagyon csendes; élvezze a Meuse nyugalmát, mielőtt 17 órakor leszáll a sötétség, majd keressen fel gyorsan egy közeli fűtött bisztrót pihenni.",
+                "ro": "Portul este foarte liniștit iarna; bucurați-vă de calmul râului Meuse înainte de lăsarea întunericului la ora 17:00, apoi mergeți rapid la un bistro călduros.",
+                "en": "The marina is very quiet in winter; enjoy the stillness of the Meuse before the 5 PM darkness settles, then head quickly to a nearby warm bistro for dinner."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját a palamúzeumnál, elmerülve a helyi örökségben. Dél körül tekerjen el a Saint-Georges templom és a fenséges Château des Comtes-de-Bryas mellett. A délután festői utat kínál a La Platale-hoz és a kikötőhöz. Zárja a napot a Roche de l'Uf sziklánál, ahonnan lélegzetelállító kilátás nyílik a folyóra.",
         "ro": "Începeți aventura pe bicicletă la muzeul ardeziei pentru a descoperi moștenirea locală. La prânz, pedalați pe lângă Biserica Saint-Georges și grandiosul Château des Comtes-de-Bryas. După-amiaza oferă plimbări pitorești spre La Platale și port. Încheiați ziua la Roche de l'Uf pentru vederi uimitoare asupra râului.",
         "en": "Kick off your biking adventure at the slate museum to dive into local heritage. By midday, pedal past the beautiful Saint-Georges Church and the grand Château des Comtes-de-Bryas. Your afternoon is filled with scenic rides to La Platale and a serene stop at the Marina. Wrap up the day by biking to Roche de l'Uf for breathtaking river views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf Fumays Schieferstraßen. Morgens bietet das Museum eine gute Basis. Mittags nutzen wir die Kircheneingänge für Pausen. Nachmittags erkunden wir die nebligen Aussichtspunkte vorsichtig. Abends beenden wir die Tour am Hafen, wo die Meuse im Regen eine besondere, melancholische Schönheit ausstrahlt.",
+            "hu": "A reggeli tekerésnél figyeljünk a csúszós palakövekre a múzeumnál. Délben a templom tornáca alatt pihenhetünk meg az eső elől. Délután a kastély felé vesszük az irányt, kerülve a tócsákat a sáros utakon. Este a kikötőnél zárjuk a napot, ahol a pára és az eső különleges, párás hangulatot áraszt a víz felett, viseljen láthatósági mellényt.",
+            "ro": "Ciclismul în ploaie necesită prudență pe străzile cu ardezie din Fumay. Dimineața, muzeul oferă o bază bună. La prânz, folosim intrările bisericilor pentru pauze. După-amiaza, explorăm punctele de belvedere cu atenție. Seara, încheiem turul în port, unde râul Meuse reflectă luminile orașului prin ploaia mistică.",
+            "en": "Cycling in the rain requires caution on Fumay's slate-paved streets. In the morning, the museum provides a good base. At noon, use church porches for dry breaks. In the afternoon, explore the misty viewpoints carefully. In the evening, end the tour at the marina, where the Meuse exudes a special, melancholy beauty in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée de l’ardoise Michel Paradon",
+                "hu": "Musée de l’ardoise Michel Paradon",
+                "ro": "Musée de l’ardoise Michel Paradon",
+                "en": "Musée de l’ardoise Michel Paradon"
+              },
+              "tip_5lang": {
+                "de": "Die Innenausstellungen sind perfekt, um den Regen abzuwarten; parken Sie Ihr Rad sicher und erkunden Sie die Schiefergeschichte, während es draußen regnet.",
+                "hu": "A múzeum fedett tárlatai tökéletesek az eső kivárására; parkoljon le, és ismerje meg a palakő bányászatát, miközben kint szakad az eső, vigyázzon a csúszós tárolóval.",
+                "ro": "Expozițiile interioare sunt perfecte pentru a aștepta oprirea ploii; parcați bicicleta și descoperiți istoria ardeziei în timp ce afară plouă torențial în Ardeni.",
+                "en": "The museum's indoor exhibits are perfect for waiting out the rain; park your bike and explore the slate mining history while staying completely dry and comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Georges Church",
+                "hu": "Saint-Georges Church",
+                "ro": "Saint-Georges Church",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Kirchenportal als Unterstand; die Stille und Trockenheit im Inneren helfen Ihnen, sich nach einer nassen Fahrt kurz zu regenerieren und aufzuwärmen.",
+                "hu": "Használja a templom bejáratát ideiglenes menedékként; a belső tér csendje és szárazsága segít felfrissülni a vizes tekerés után, nézze meg a díszes oltárt is.",
+                "ro": "Folosiți intrarea bisericii ca adăpost temporar; liniștea și atmosfera uscată din interior vă vor ajuta să vă recuperați rapid după o tură udă cu bicicleta.",
+                "en": "Use the church's porch as a temporary shelter; the silence and dry interior will help you refresh after a wet ride while checking your map for the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Comtes-de-Bryas (Ancien)",
+                "hu": "Château des Comtes-de-Bryas (Ancien)",
+                "ro": "Château des Comtes-de-Bryas (Ancien)",
+                "en": "Château des Comtes-de-Bryas (Ancien)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Stellen auf der Straße beim Schloss; die alten Steine glänzen schön im Regen, aber die Bremswege verlängern sich auf nassem Untergrund.",
+                "hu": "A várkastély fala mentén haladva figyeljen a csúszós útburkolatra; az esőben a régi kövek különleges fényt kapnak, de a féktávolság jelentősen megnőhet a vízen.",
+                "ro": "Fiți atenți la porțiunile alunecoase de pe drumul de lângă castel; pietrele vechi strălucesc frumos în ploaie, dar distanța de frânare crește pe pavajul ud.",
+                "en": "Watch out for slippery patches on the road near the castle; the old stones look beautiful in the rain, but remember that braking distances increase on wet slate."
+              }
+            },
+            {
+              "name": {
+                "de": "La Platale",
+                "hu": "La Platale",
+                "ro": "La Platale",
+                "en": "La Platale"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Aussichtspunkt kann bei Nässe glatt sein; fahren Sie langsam und genießen Sie das üppige, regennasse Grün der Ardennenlandschaft vom Fahrrad aus.",
+                "hu": "A kilátóhoz vezető út saras és síkos lehet, így hajtson óvatosabban; a ködös völgy látványa kárpótolja a fáradozásért, de legyen önnél sárvédő a biciklin.",
+                "ro": "Drumul spre punctul de belvedere poate fi alunecos când este ud; pedalați încet și bucurați-vă de verdeața luxuriantă a peisajului din Ardeni în ciuda ploii.",
+                "en": "The trail to the viewpoint can be slick when wet; cycle slowly and enjoy the lush, rain-drenched greenery of the Ardennes landscape from this high vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Fumay Marina",
+                "hu": "Fumay Marina",
+                "ro": "Fumay Marina",
+                "en": "Fumay Marina"
+              },
+              "tip_5lang": {
+                "de": "Das Ufer ist im Nebel sehr atmosphärisch; behalten Sie Ihre Regenkleidung an und achten Sie auf Pfützen am Kai, während Sie die Boote auf der Maas beobachten.",
+                "hu": "A kikötőben a vizes mólók csúszhatnak, óvatosan mozogjon a biciklivel; a Meuse partján a párás levegőben különleges a hangulat, nézze meg a hajókat a hídról.",
+                "ro": "Malul râului este foarte atmosferic în ceață; păstrați echipamentul impermeabil și aveți grijă la bălțile de pe chei în timp ce observați bărcile de pe Meuse.",
+                "en": "The riverfront is atmospheric in the mist; keep your waterproof gear on and be careful of puddles along the docks as you observe the boats from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Roche de l'Uf",
+                "hu": "Roche de l'Uf",
+                "ro": "Roche de l'Uf",
+                "en": "Roche de l'Uf"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zum Felsen ist im Regen anstrengend; achten Sie bei der Abfahrt besonders auf die Bremsen, da Schiefer bei Nässe sehr tückisch sein kann.",
+                "hu": "A sziklához vezető emelkedő esőben nagyobb kihívás; a lejtőn fokozottan figyeljen a fékekre, mert a nedves palakő nagyon síkos lehet, viseljen esőkabátot.",
+                "ro": "Urcarea spre stâncă este o provocare pe ploaie; la coborâre, acordați o atenție sporită frânelor, deoarece ardezia umedă poate fi extrem de înșelătoare.",
+                "en": "The climb to the rock is challenging in the rain; take it slow on the descent as the slate surfaces become quite treacherous when wet, so check your brakes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Biken in den Ardennen ist etwas für Mutige. Tragen Sie Thermokleidung und planen Sie das Ende für 16:30 Uhr. Die Luft ist frisch, aber die Feuchtigkeit lässt es kälter wirken. Morgens bietet das Museum Wärme. Mittags sind die Aussichtspunkte klar. Abends sinken die Temperaturen schnell, sobald die Sonne um 17 Uhr hinter den Bergen verschwindet.",
+            "hu": "A fagyos reggelen indul a túra a múzeumból, réteges öltözetben. Délben a templom nyújt szélvédett pihenőt a tekerés közben. A kastély után a dombtetőn a tiszta téli levegőben messzire ellátni a völgybe. Délután a kikötőben már érezni az esti hideget. Mivel korán sötétedik, a sziklát még világosban keressük fel, majd sietünk vissza.",
+            "ro": "Ciclismul de iarnă în Ardeni este pentru cei curajoși. Purtați haine termice și planificați finalul pentru ora 16:30. Aerul este proaspăt, dar umiditatea îl face să pară mai rece. Dimineața, muzeul oferă căldură. După-amiaza, punctele de belvedere sunt senine. Seara, temperaturile scad rapid după apusul soarelui la ora 17:00.",
+            "en": "Winter biking in the Ardennes is for the brave. Wear thermal layers and plan to finish by 4:30 PM. The air is fresh, but the humidity makes it feel colder. In the morning, the museum provides warmth. In the afternoon, viewpoints are clear. In the evening, temperatures drop quickly as the sun sets behind the hills at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée de l’ardoise Michel Paradon",
+                "hu": "Musée de l’ardoise Michel Paradon",
+                "ro": "Musée de l’ardoise Michel Paradon",
+                "en": "Musée de l’ardoise Michel Paradon"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihren Tag in der Wärme des Museums; es ist der beste Ort, um den Kreislauf in Schwung zu bringen, bevor es in die frostige Morgenluft geht.",
+                "hu": "Kezdje a napot a múzeum melegében; ez a legjobb hely, hogy beindítsa a vérkeringését, mielőtt kihajtana a fagyos reggeli levegőre, igyon egy forró teát.",
+                "ro": "Începeți ziua în căldura muzeului; este cel mai bun loc pentru a vă pune sângele în mișcare înainte de a ieși în aerul înghețat al dimineții de iarnă.",
+                "en": "Start your day in the warmth of the museum; it's the best place to get your blood flowing before heading out into the frosty morning air on your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Georges Church",
+                "hu": "Saint-Georges Church",
+                "ro": "Saint-Georges Church",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an der Kirche bietet Schutz vor dem kalten Wind; die dicken Mauern halten das Innere im Winter relativ stabil und friedlich für eine Rast.",
+                "hu": "Egy rövid megálló a templomnál védelmet nyújt a hideg szél ellen; a vastag falak viszonylag stabilan tartják a belső hőmérsékletet egy kis pihenőhöz.",
+                "ro": "O oprire scurtă la biserică oferă protecție împotriva vântului rece; zidurile groase mențin interiorul relativ stabil și liniștit pentru o pauză necesară.",
+                "en": "A quick stop at the church provides a break from the cold wind; the thick walls keep the interior relatively stable and peaceful for a brief rest in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Comtes-de-Bryas (Ancien)",
+                "hu": "Château des Comtes-de-Bryas (Ancien)",
+                "ro": "Château des Comtes-de-Bryas (Ancien)",
+                "en": "Château des Comtes-de-Bryas (Ancien)"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss steht markant vor dem Winterhimmel; die blattlosen Bäume ermöglichen einzigartige Fotowinkel auf die Steinmauern und Türme beim Vorbeifahren.",
+                "hu": "A kastély büszkén áll a téli égbolt előtt; a lombtalan fák egyedi fotózási szögeket tesznek lehetővé a kőfalakra és tornyokra, álljon meg egy gyors képre.",
+                "ro": "Castelul se înalță mândru pe fundalul cerului de iarnă; copacii fără frunze permit unghiuri de fotografiere unice asupra zidurilor de piatră și a turnurilor.",
+                "en": "The castle stands tall against the winter sky; the surrounding leafless trees allow for unique photo angles of the stone walls and towers as you cycle past."
+              }
+            },
+            {
+              "name": {
+                "de": "La Platale",
+                "hu": "La Platale",
+                "ro": "La Platale",
+                "en": "La Platale"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine unglaubliche Fernsicht; tragen Sie unbedingt Handschuhe, da der Wind in dieser Höhe sehr beißend sein kann.",
+                "hu": "A tiszta téli levegő hihetetlen látótávolságot biztosít a dombtetőről; feltétlenül viseljen kesztyűt, mert a szél ezen a magasságon metszően hideg lehet.",
+                "ro": "Aerul clar de iarnă oferă o vizibilitate incredibilă de pe deal; asigurați-vă că purtați mănuși, deoarece vântul poate fi tăios la această altitudine mare.",
+                "en": "The crisp winter air provides incredible visibility from the hilltop; make sure to wear warm gloves as the wind can be biting at this elevation today."
+              }
+            },
+            {
+              "name": {
+                "de": "Fumay Marina",
+                "hu": "Fumay Marina",
+                "ro": "Fumay Marina",
+                "en": "Fumay Marina"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist friedlich und eisig; genießen Sie die scharfen Linien der gefrorenen Landschaft, bevor die Sonne früh über der Maas untergeht.",
+                "hu": "A kikötő békés és jeges hangulatú; élvezze a fagyos táj éles vonalait, mielőtt a nap korán lenyugszik a Meuse folyó felett, utána keressen meleg helyet.",
+                "ro": "Portul este liniștit și înghețat; bucurați-vă de liniile clare ale peisajului hibernal înainte ca soarele să apună devreme peste râul Meuse în această seară.",
+                "en": "The marina is peaceful and icy in winter; enjoy the sharp, clean lines of the frozen landscape before the sun sets early over the Meuse river this afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Roche de l'Uf",
+                "hu": "Roche de l'Uf",
+                "ro": "Roche de l'Uf",
+                "en": "Roche de l'Uf"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor dem Sonnenuntergang um 17 Uhr; die Winterdämmerung über dem Tal ist atemberaubend, aber bringen Sie Licht für den Rückweg mit.",
+                "hu": "Érje el ezt a kilátópontot a 17 órai naplemente előtt; a téli szürkület a völgy felett lélegzetelállító, de legyen önnél lámpa a visszaúthoz a sötétben.",
+                "ro": "Ajungeți la acest punct de belvedere înainte de apusul soarelui la ora 17:00; amurgul de iarnă peste vale este uluitor, dar aduceți lumini pentru drumul de întoarcere.",
+                "en": "Reach this viewpoint before the 5 PM sunset; the winter twilight over the valley is breathtaking, but bring lights for the ride back in the early darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje a napot a történelmi Église Saint-Pierre et Saint-Paul templomnál, majd vezessen a La Platale-hoz. Délben látogassa meg a palamúzeumot és a történelmi Château des Comtes-de-Bryas-t. A délutánt a Roche de l'Uf kilátójánál és a kikötőben töltheti. Az estét a békés Chapelle Sainte-Thérèse kápolnánál zárhatja.",
         "ro": "Începeți cu o plimbare matinală la Église Saint-Pierre et Saint-Paul, apoi mergeți la La Platale. La prânz, vizitați muzeul ardeziei și istoricul Château des Comtes-de-Bryas. Petreceți după-amiaza la punctul de belvedere Roche de l'Uf și în port. Seara se încheie liniștit la frumoasa Chapelle Sainte-Thérèse.",
         "en": "Begin with a morning drive to the historic Église Saint-Pierre et Saint-Paul, then head to La Platale. At midday, visit the slate museum and the historic Château des Comtes-de-Bryas. Spend your afternoon enjoying the viewpoints at Roche de l'Uf and relaxing by the Marina. Your evening concludes with a quiet visit to the Chapelle Sainte-Thérèse."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Fumay ist komfortabel und malerisch. Morgens besuchen wir die abgelegene Kirche. Mittags bewundern wir die neblige Maasschleife aus dem trockenen Auto. Nachmittags verbringen wir viel Zeit im Schiefermuseum, dem Highlight im Trockenen. Abends bietet die kleine Kapelle einen besinnlichen, geschützten Abschluss der Tour.",
+            "hu": "Kényelmes, esős reggel az autóban a távolabbi templom felé. Délben a kilátónál a kocsiból is csodálhatjuk a ködös Meuse-kanyart, ha szakad az eső. Délután a múzeumban töltjük a legtöbb időt, ami kiváló fedett program. Estére a kis kápolna nyújt meghitt, száraz lezárást az esős völgyben tett körút végén, vigyázzon a vizes utakon.",
+            "ro": "O plimbare cu mașina prin Fumay pe ploaie este confortabilă și pitorească. Dimineața vizităm biserica îndepărtată. La prânz admirăm cotul fluviului Meuse din interiorul mașinii. După-amiaza petrecem mai mult timp în muzeul ardeziei, un refugiu ideal. Seara, mica capelă oferă un final liniștit și uscat al turului prin vale.",
+            "en": "A rainy day drive through Fumay is comfortable and scenic. In the morning, visit the remote church. At noon, admire the misty Meuse loop from the comfort of your car. In the afternoon, spend plenty of time at the slate museum, the perfect indoor highlight. In the evening, the small chapel offers a peaceful, sheltered end to your tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist ein toller erster Stopp; parken Sie nah am Eingang, um die Zeit im Regen zu minimieren, während Sie das schöne Innere erkunden.",
+                "hu": "Ez a templom remek első megálló; parkoljon közel a bejárathoz, hogy minimalizálja az esőben töltött időt, miközben felfedezi a gyönyörű belső teret.",
+                "ro": "Această biserică este o primă oprire excelentă; parcați aproape de intrare pentru a minimiza timpul petrecut în ploaie în timp ce explorați interiorul frumos.",
+                "en": "This church is a great first stop; park close to the entrance to minimize time in the rain while you explore the beautiful interior comfortably today."
+              }
+            },
+            {
+              "name": {
+                "de": "La Platale",
+                "hu": "La Platale",
+                "ro": "La Platale",
+                "en": "La Platale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Maasschleife bequem aus dem Auto, wenn der Regen stark ist; der Nebel verleiht dem Tal eine geheimnisvolle Ebene.",
+                "hu": "Élvezze a kilátást a Meuse-kanyarra kényelmesen az autóból, ha erősen esik az eső; a köd és a pára titokzatos hangulatot kölcsönöz a völgynek ezen a ponton.",
+                "ro": "Bucurați-vă de vederea asupra cotului fluviului Meuse din confortul mașinii dacă plouă torențial; ceața adaugă un strat de mister întregii văi de dedesubt.",
+                "en": "Enjoy the view of the Meuse loop from the comfort of your car if the rain is heavy; the mist adds a layer of mystery to the valley from this viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de l’ardoise Michel Paradon",
+                "hu": "Musée de l’ardoise Michel Paradon",
+                "ro": "Musée de l’ardoise Michel Paradon",
+                "en": "Musée de l’ardoise Michel Paradon"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor und verbringen Sie viel Zeit drinnen; das Schiefermuseum ist das ultimative Regenziel in Fumay mit seiner reichen Geschichte.",
+                "hu": "Parkoljon le közvetlenül az épület előtt, és töltsön több időt bent; a palakőmúzeum a legjobb esős napi úti cél Fumay-ban a gazdag történelmével.",
+                "ro": "Parcați chiar în față și petreceți mult timp în interior; muzeul ardeziei este destinația supremă pentru o zi ploioasă în Fumay datorită istoriei sale bogate.",
+                "en": "Park right outside and spend a long time indoors; the slate museum is the ultimate rainy day destination in Fumay with its rich history and dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Comtes-de-Bryas (Ancien)",
+                "hu": "Château des Comtes-de-Bryas (Ancien)",
+                "ro": "Château des Comtes-de-Bryas (Ancien)",
+                "en": "Château des Comtes-de-Bryas (Ancien)"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt imposant unter dem grauen Himmel; ein kurzer Spaziergang vom Auto mit Schirm reicht aus, um dieses Denkmal gebührend zu würdigen.",
+                "hu": "A kastély impozánsan fest a szürke égbolt alatt; egy rövid séta az autótól esernyővel bőven elég, hogy méltó módon megcsodálhassa ezt a történelmi emléket.",
+                "ro": "Castelul pare impunător sub cerul gri; o scurtă plimbare de la mașină cu o umbrelă este suficientă pentru a aprecia moștenirea acestui punct de reper istoric.",
+                "en": "The castle looks imposing under the grey sky; a short walk from the car with an umbrella is enough to appreciate this landmark's heritage without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Roche de l'Uf",
+                "hu": "Roche de l'Uf",
+                "ro": "Roche de l'Uf",
+                "en": "Roche de l'Uf"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zum Felsen ermöglicht Panoramafotos ohne nass zu werden; bleiben Sie im Fahrzeug, wenn der Guss zu stark wird, und genießen Sie die Aussicht.",
+                "hu": "Az autóval történő felhajtás lehetővé teszi a panoráma megtekintését anélkül, hogy elázna; maradjon a kocsiban, ha túl intenzívvé válik a felhőszakadás.",
+                "ro": "Urcarea cu mașina la stâncă vă permite să vedeți panorama fără a vă uda; rămâneți în vehicul dacă ploaia devine prea intensă, priveliștea este superbă și de acolo.",
+                "en": "Driving up to the rock allows you to see the panoramic view without getting soaked; stay in the vehicle if the downpour becomes too intense this afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Fumay Marina",
+                "hu": "Fumay Marina",
+                "ro": "Fumay Marina",
+                "en": "Fumay Marina"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist ein kurzer, schöner Stopp; beobachten Sie den Regen auf dem Wasser vom Fenster aus oder steigen Sie kurz mit einer Regenjacke aus.",
+                "hu": "A kikötő egy rövid, de látványos megálló; figyelje az esőt a vízen az autó ablakából, vagy ugorjon ki egy pillanatra egy jó minőségű esőkabátban.",
+                "ro": "Portul este o oprire scurtă și pitorească; priviți ploaia pe apă de la fereastra mașinii sau ieșiți scurt cu o jachetă impermeabilă solidă pentru poze.",
+                "en": "The marina is a quick, scenic stop; watch the rain on the water from your car window or step out briefly with a sturdy waterproof jacket for a closer look."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Thérèse",
+                "hu": "Chapelle Sainte-Thérèse",
+                "ro": "Chapelle Sainte-Thérèse",
+                "en": "Chapelle Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag an dieser stillen Kapelle; das Innere ist klein, aber gemütlich und bietet einen perfekten spirituellen Schutz vor dem Ardennenregen.",
+                "hu": "Zárja a napot ennél a csendes kápolnánál; a belső tér kicsi, de meghitt, tökéletes lelki menedéket nyújt az ardenneki eső elől a körút végén.",
+                "ro": "Încheiați ziua la această capelă liniștită; interiorul este mic, dar primitor, oferind un adăpost spiritual perfect împotriva ploii din Ardeni la final.",
+                "en": "End your day at this quiet chapel; the interior is small but cozy, providing a perfect spiritual shelter from the Ardennes rain before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Winterfahrt durch Fumay ist der beste Weg, die Sehenswürdigkeiten warm zu genießen. Die Straßen sind gut geräumt. Vormittags nutzen wir die klare Sicht an den Aussichtspunkten. Mittags wärmen wir uns im Schiefermuseum auf. Nachmittags besuchen wir das Schloss und den Hafen, bevor wir um 17 Uhr bei Einbruch der Dunkelheit die letzte Station erreichen.",
+            "hu": "A fűtött autóban indul a téli körút a fagyos tájon át. Délelőtt a tiszta panorámát élvezzük a kilátópontokról, ahol a jég csillog a völgyben. Délben a múzeum melege vár ránk. A kastély érintése után a kikötői szél elől gyorsan visszatérünk a kocsiba. A napot a kápolnánál zárjuk, mielőtt 17 órakor teljesen leszáll az éj a folyó felett.",
+            "ro": "O plimbare de iarnă cu mașina prin Fumay este cel mai bun mod de a vedea obiectivele stând la căldură. Dimineața ne bucurăm de vizibilitatea clară de la punctele de belvedere. La prânz ne încălzim în muzeul ardeziei. După-amiaza vizităm castelul și portul înainte ca întunericul să se lase complet la ora 17:00.",
+            "en": "A winter drive through Fumay is the best way to enjoy the sights while staying warm. Roads are well-maintained. In the morning, enjoy the clear visibility at the viewpoints. At noon, warm up at the slate museum. In the afternoon, visit the castle and marina before darkness falls completely at 5 PM over the river."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein warmer Start für Ihre Wintertour; der Morgenfrost auf der Steinfassade sorgt für einen wunderschönen, saisonalen Anblick.",
+                "hu": "A templom meleg és csendes kezdete a téli túrának; a reggeli zúzmara a kőfelületeken gyönyörű, szezonális megjelenést kölcsönöz az épületnek.",
+                "ro": "Biserica este un început călduros și liniștit pentru turul de iarnă; bruma de dimineață pe fațada de piatră creează un aspect sezonier superb pentru poze.",
+                "en": "The church is a warm and quiet start to your winter tour; the morning frost on the stone exterior creates a beautiful, seasonal look for your first stop."
+              }
+            },
+            {
+              "name": {
+                "de": "La Platale",
+                "hu": "La Platale",
+                "ro": "La Platale",
+                "en": "La Platale"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist in der kalten Winterluft besonders klar; der kurze Weg vom beheizten Auto lohnt sich, um das ruhende Tal tief unten zu sehen.",
+                "hu": "A kilátás kivételesen tiszta a hideg téli levegőben; megéri a rövid séta a fűtött autóból, hogy láthassa a pihenő, zúzmarás völgyet a mélyben.",
+                "ro": "Vederea este excepțional de clară în aerul rece de iarnă; merită scurta plimbare de la mașina încălzită pentru a vedea valea adormită de jos.",
+                "en": "The view is exceptionally clear in the cold winter air; it's worth the short walk from the heated car to see the dormant valley below in its frosty glory."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de l’ardoise Michel Paradon",
+                "hu": "Musée de l’ardoise Michel Paradon",
+                "ro": "Musée de l’ardoise Michel Paradon",
+                "en": "Musée de l’ardoise Michel Paradon"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der perfekte Ort für die kälteste Zeit des Tages; genießen Sie die Innenausstellungen und die faszinierende Schiefergeschichte.",
+                "hu": "Ez a múzeum tökéletes hely a nap leghidegebb részének eltöltésére; élvezze a beltéri kiállításokat és a palakő bányászatának lenyűgöző történetét.",
+                "ro": "Acest muzeu este locul perfect pentru a petrece cea mai rece parte a zilei; bucurați-vă de expozițiile interioare și de istoria fascinantă a ardeziei.",
+                "en": "This museum is the perfect place to spend the coldest part of the day; enjoy the indoor exhibits and the fascinating history of slate while staying warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Château des Comtes-de-Bryas (Ancien)",
+                "hu": "Château des Comtes-de-Bryas (Ancien)",
+                "ro": "Château des Comtes-de-Bryas (Ancien)",
+                "en": "Château des Comtes-de-Bryas (Ancien)"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur des Schlosses ist durch die kahlen Bäume gut sichtbar; ein Besuch ist einfach, wenn das warme Auto ganz in der Nähe auf Sie wartet.",
+                "hu": "A kastély történelmi építészete jól látható a kopár fák között; a látogatás kényelmes, ha a fűtött autó a közelben várja Önt a megálló után.",
+                "ro": "Arhitectura istorică a castelului este clar vizibilă prin copacii golași; o vizită este ușoară când aveți o mașină caldă care vă așteaptă în apropiere.",
+                "en": "The castle's historic architecture is clearly visible through the bare trees; a quick visit is easy when you have a warm car waiting nearby for you."
+              }
+            },
+            {
+              "name": {
+                "de": "Roche de l'Uf",
+                "hu": "Roche de l'Uf",
+                "ro": "Roche de l'Uf",
+                "en": "Roche de l'Uf"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zum Aussichtspunkt ist mit dem Auto bequem; genießen Sie das frostige Panorama von Fumay und der Maas vor dem frühen Wintersonnenuntergang.",
+                "hu": "A kilátóhoz való feljutás autóval kényelmes; élvezze Fumay és a folyó lenyűgöző, fagyos panorámáját a korai téli naplemente előtt a kocsiból.",
+                "ro": "Urcarea la punctul de belvedere este ușoară cu mașina; bucurați-vă de panorama înghețată a orașului Fumay și a râului înainte de apusul soarelui.",
+                "en": "The climb to the viewpoint is easy by car; enjoy the stunning, frosty panorama of Fumay and the river before the early winter sunset this afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Fumay Marina",
+                "hu": "Fumay Marina",
+                "ro": "Fumay Marina",
+                "en": "Fumay Marina"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winterlicht still und schön; machen Sie einen kurzen Spaziergang am Kai, bevor um 17 Uhr die Dunkelheit über das Tal hereinbricht.",
+                "hu": "A kikötő csendes és szép a téli fényekben; tegyen egy rövid sétát a mólón, mielőtt 17 órakor a sötétség elkezd leszállni a völgyre, viseljen sapkát.",
+                "ro": "Portul este liniștit și frumos în lumina de iarnă; faceți o scurtă plimbare pe chei înainte ca întunericul de la ora 17:00 să se lase peste vale.",
+                "en": "The marina is still and beautiful in the winter light; take a brief stroll along the docks before the 5 PM darkness starts to settle over the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Sainte-Thérèse",
+                "hu": "Chapelle Sainte-Thérèse",
+                "ro": "Chapelle Sainte-Thérèse",
+                "en": "Chapelle Sainte-Thérèse"
+              },
+              "tip_5lang": {
+                "de": "Diese abgelegene Kapelle ist ein friedlicher letzter Stopp; das kleine Innere wirkt intim und warm gegen die Kälte des aufkommenden Winterabends.",
+                "hu": "Ez az elszigetelt kápolna békés utolsó állomás; a kis belső tér meghittnek és melegnek hat a közeledő téli este hűvösével szemben a völgyben.",
+                "ro": "Această capelă retrasă este o ultimă oprire liniștită; interiorul mic pare intim și călduros față de frigul serii de iarnă care se așterne peste vale.",
+                "en": "This secluded chapel is a peaceful final stop; the small interior feels intimate and warm against the growing evening chill of the winter valley today."
+              }
+            }
+          ]
+        }
       }
     }
   }

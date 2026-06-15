@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a mohával borított szökőkútnál, mielőtt elmerülne a Porte Bourg Neuf és a Nostradamus-ház középkori hangulatában.\nDélben csodálja meg az Église Saint-Michel-t és az elegáns városházát.\nDélután másszon fel a lenyűgöző Château de l'Empéri erődhöz a panorámáért.\nZárja az estét a Collégiale Saint-Laurent-ben, amely Nostradamus végső nyughelye is egyben.",
         "ro": "Începeți dimineața la fântâna acoperită de mușchi, înainte de a pătrunde în atmosfera medievală la Porte Bourg Neuf și casa lui Nostradamus.\nLa amiază, admirați biserica Saint-Michel și eleganta primărie.\nDupă-amiaza, urcați la formidabilul Château de l'Empéri pentru vederi panoramice.\nÎncheiați seara la Colegiata Saint-Laurent, locul de odihnă al celebrului profet Nostradamus.",
         "en": "Begin your morning at the iconic moss-covered fountain, before diving into the medieval atmosphere of Porte Bourg Neuf and Nostradamus's house.\nMidday brings you to the beautiful Église Saint-Michel and the elegant Hôtel de Ville.\nIn the afternoon, ascend to the formidable Château de l'Empéri for panoramic views.\nConclude your evening at Collégiale Saint-Laurent, resting place of Nostradamus."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Fontaine Moussue trotz Regen ein tolles Fotomotiv. Mittags flüchten wir ins Nostradamus-Museum vor dem Guss. Nachmittags erkunden wir das Schloss und die Kirchen als trockene Rückzugsorte. Abends glänzen die Gassen im Regenschein, ideal für einen kurzen, geschützten Spaziergang.",
+            "hu": "Reggel a Fontaine Moussue az esőben is különleges látványt nyújt. Délben Nostradamus háza kínál tökéletes menedéket a zápor elől. Délután a vár és a templomok belső tereiben kalandozunk szárazon. Estére a vizes macskaköveken megcsillanó fények teszik hangulatossá a rövid sétát a belvárosban.",
+            "ro": "Dimineața, Fontaine Moussue arată spectaculos chiar și pe ploaie. La prânz, ne adăpostim în casa lui Nostradamus pentru a evita aversele. După-amiaza explorăm castelul și bisericile ca refugii uscate. Seara, luminile se reflectă frumos pe străzile umede, perfect pentru o plimbare scurtă sub umbrelă.",
+            "en": "Morning starts at the mossy fountain, which looks even lusher in the rain. At noon, Nostradamus’s house provides the perfect shelter from downpours. Afternoon is spent inside the castle and churches to stay dry. By evening, the wet cobblestones reflect the city lights beautifully during our walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fontaine Moussue",
+                "hu": "Fontaine Moussue",
+                "ro": "Fontaine Moussue",
+                "en": "Fontaine Moussue"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dicke Moosschicht, die im Regen besonders grün leuchtet; nutzen Sie die umliegenden Arkaden als Unterstand.",
+                "hu": "Csodálja meg a vastag moharéteget, amely esőben még élénkebb zöld; használja a közeli árkádokat esernyő helyett.",
+                "ro": "Admirați stratul gros de mușchi, care strălucește verde în ploaie; folosiți arcadele din apropiere pentru a sta la adăpost.",
+                "en": "Admire the thick moss layer that glows vibrant green in the rain; use the nearby arcades to stay dry while observing."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Bourg Neuf",
+                "hu": "Porte Bourg Neuf",
+                "ro": "Porte Bourg Neuf",
+                "en": "Porte Bourg Neuf"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Stadttor bietet einen schnellen Schutz vor Schauern; achten Sie auf den rutschigen Boden unter dem Bogen.",
+                "hu": "Ez a történelmi városkapu gyors menedéket nyújt a zápor elől; vigyázzon, a boltív alatti kövezet csúszós lehet.",
+                "ro": "Această poartă istorică oferă un adăpost rapid împotriva ploii; atenție la pavajul alunecos de sub boltă.",
+                "en": "This historic city gate offers quick shelter from passing showers; be careful as the ground under the arch can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Nostradamus",
+                "hu": "Maison de Nostradamus",
+                "ro": "Maison de Nostradamus",
+                "en": "Maison de Nostradamus"
+              },
+              "tip_5lang": {
+                "de": "Ideal für Regentage: Tauchen Sie tief in die Geschichte ein und bleiben Sie bei der ausführlichen Audioguide-Tour völlig trocken.",
+                "hu": "Ideális esős időre: merüljön el a történelemben, és maradjon teljesen száraz az alapos audioguide-os túra alatt.",
+                "ro": "Ideal pentru zilele ploioase: scufundați-vă în istorie și rămâneți uscat pe durata turului detaliat cu audioghid.",
+                "en": "Ideal for rainy days: dive deep into history and stay completely dry during the extensive audio-guided tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Michel",
+                "hu": "Église Saint-Michel",
+                "ro": "Église Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stille Atmosphäre im Inneren, während es draußen regnet; die Akustik des Regens auf dem Dach ist beruhigend.",
+                "hu": "Élvezze a benti csendes atmoszférát, miközben kint esik; a tetőn koppanó eső hangja különleges nyugalmat áraszt.",
+                "ro": "Bucurați-vă de atmosfera liniștită din interior în timp ce afară plouă; sunetul ploii pe acoperiș este foarte relaxant.",
+                "en": "Enjoy the quiet interior atmosphere while it rains outside; the sound of rain on the roof adds a peaceful layer to the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Hôtel de Ville",
+                "hu": "L'Hôtel de Ville",
+                "ro": "L'Hôtel de Ville",
+                "en": "L'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Das imposante Gebäude hat einen überdachten Eingangsbereich; perfekt, um kurz den Regenradar auf dem Handy zu checken.",
+                "hu": "Az impozáns épület fedett bejárattal rendelkezik; tökéletes hely egy gyors esőradar-ellenőrzésre a telefonján.",
+                "ro": "Clădirea impunătoare are o zonă de intrare acoperită; perfectă pentru a verifica rapid radarul de ploaie pe telefon.",
+                "en": "The imposing building has a covered entrance area; perfect for a quick check of the rain radar on your phone."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Empéri",
+                "hu": "Château de l'Empéri",
+                "ro": "Château de l'Empéri",
+                "en": "Château de l'Empéri"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die umfangreichen Sammlungen in den Sälen, um dem Wetter zu entkommen; der Innenhof kann bei Nässe glatt sein.",
+                "hu": "Látogassa meg a termekben található gyűjteményeket, hogy elkerülje az esőt; a belső udvar kövei nedvesen csúszhatnak.",
+                "ro": "Vizitați colecțiile vaste din săli pentru a scăpa de vremea rea; curtea interioară poate fi alunecoasă când este udă.",
+                "en": "Visit the extensive collections inside the halls to escape the weather; the inner courtyard can be slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Saint-Laurent",
+                "hu": "Collégiale Saint-Laurent",
+                "ro": "Collégiale Saint-Laurent",
+                "en": "Collégiale Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Ort für den Abschluss des Tages; die weiten Hallen bieten viel Platz zum Trocknen und Verweilen.",
+                "hu": "Pompás helyszín a nap lezárásához; a tágas belső terekben bőven van hely megpihenni és megszárítkozni.",
+                "ro": "Un loc magnific pentru a încheia ziua; halele largi oferă mult spațiu pentru a vă usca și a zăbovi.",
+                "en": "A magnificent place to end the day; the wide aisles offer plenty of space to dry off and linger in peace."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft kristallklar, die Fontaine Moussue dampft leicht. Mittags suchen wir die Wärme im Nostradamus-Haus. Nachmittags weht oft der Mistral am Schloss, daher ist warme Kleidung Pflicht. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir das frühe Abendlicht an der Collégiale.",
+            "hu": "Reggel kristálytiszta a levegő, a mohás kút enyhén gőzölög a hidegben. Délben Nostradamus házának melegében bújunk el. Délután a várnál gyakran fúj a misztrál szél, így a réteges öltözet kötelező. Mivel 17:00 körül lemegy a nap, az utolsó fényeket a Collégiale-nál érjük el.",
+            "ro": "Dimineața aerul este de cristal, iar fântâna scoate aburi ușori. La prânz căutăm căldura în casa lui Nostradamus. După-amiaza mistralul suflă rece la castel, deci hainele groase sunt obligatorii. Soarele apune pe la 17:00, așa că prindem ultimele raze la Collégiale.",
+            "en": "Morning air is crystal clear, and the mossy fountain steams slightly in the cold. At noon, we find warmth inside Nostradamus’s house. Afternoon mistral winds at the castle make warm layers essential. Since the sun sets around 17:00, we catch the early golden hour at the Collégiale."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fontaine Moussue",
+                "hu": "Fontaine Moussue",
+                "ro": "Fontaine Moussue",
+                "en": "Fontaine Moussue"
+              },
+              "tip_5lang": {
+                "de": "Bei Frost bilden sich kleine Eiszapfen am Moos; kommen Sie früh, um das Glitzern im ersten Sonnenlicht zu sehen.",
+                "hu": "Fagy esetén apró jégcsapok formálódnak a mohán; jöjjön korán, hogy lássa a csillogást az első napsugarakban.",
+                "ro": "În caz de îngheț, se formează țurțuri mici pe mușchi; veniți devreme pentru a vedea sclipirea în prima lumină.",
+                "en": "In freezing weather, tiny icicles form on the moss; arrive early to see them glistening in the first sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte Bourg Neuf",
+                "hu": "Porte Bourg Neuf",
+                "ro": "Porte Bourg Neuf",
+                "en": "Porte Bourg Neuf"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift oft durch das Tor; nutzen Sie den massiven Steinbau als Windschutz für ein schnelles Foto.",
+                "hu": "A szél gyakran átsüvít a kapun; használja a masszív kőépítményt szélfogóként egy gyors fotó erejéig.",
+                "ro": "Vântul suflă adesea prin poartă; folosiți structura masivă de piatră ca paravan pentru o fotografie rapidă.",
+                "en": "The wind often whistles through the gate; use the massive stone structure as a windbreak for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Nostradamus",
+                "hu": "Maison de Nostradamus",
+                "ro": "Maison de Nostradamus",
+                "en": "Maison de Nostradamus"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekt beheizter Rückzugsort; nehmen Sie sich Zeit für die Ausstellungen, um Ihre Hände und Füße aufzuwärmen.",
+                "hu": "Tökéletesen fűtött menedék; szánjon időt a kiállításokra, hogy jól felmelegedjen a téli séta közben.",
+                "ro": "Un refugiu încălzit perfect; acordați-vă timp pentru expoziții pentru a vă încălzi mâinile și picioarele.",
+                "en": "A perfectly heated sanctuary; take your time with the exhibits to warm up your hands and feet thoroughly."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Michel",
+                "hu": "Église Saint-Michel",
+                "ro": "Église Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; bewundern Sie die Kunstwerke in einer ruhigen, geschützten Umgebung.",
+                "hu": "A vastag falak kint tartják a metsző hideget; csodálja meg a műalkotásokat nyugodt, védett környezetben.",
+                "ro": "Zidurile groase țin frigul afară; admirați operele de artă într-un mediu liniștit și protejat.",
+                "en": "The thick walls keep the biting cold out; admire the artworks in a quiet, sheltered, and wind-free environment."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Hôtel de Ville",
+                "hu": "L'Hôtel de Ville",
+                "ro": "L'Hôtel de Ville",
+                "en": "L'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet im tiefstehenden Winterlicht besonders schön; achten Sie auf eventuelle Weihnachtsdekorationen am Platz.",
+                "hu": "A homlokzat különösen szép az alacsonyan járó téli napfényben; keresse az ünnepi díszítést a téren.",
+                "ro": "Fațada strălucește frumos în lumina joasă a soarelui de iarnă; căutați decorațiunile festive din piață.",
+                "en": "The facade looks stunning in the low winter sunlight; look out for any festive holiday decorations on the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Empéri",
+                "hu": "Château de l'Empéri",
+                "ro": "Château de l'Empéri",
+                "en": "Château de l'Empéri"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Jacke für die Außenbereiche; die Aussicht auf die verschneiten Alpengipfel in der Ferne ist lohnenswert.",
+                "hu": "Viseljen szélálló kabátot a külső részeken; a távolban látszó havas alpesi csúcsok látványa megéri a fáradozást.",
+                "ro": "Purtați o jachetă rezistentă la vânt pentru exterior; vederea spre vârfurile alpine înzăpezite merită efortul.",
+                "en": "Wear a windproof jacket for the outdoor areas; the view of the snow-capped Alpine peaks in the distance is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Saint-Laurent",
+                "hu": "Collégiale Saint-Laurent",
+                "ro": "Collégiale Saint-Laurent",
+                "en": "Collégiale Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor 17 Uhr; das warme Licht der Kerzen schafft eine gemütliche Atmosphäre vor Einbruch der Dunkelheit.",
+                "hu": "Látogasson el ide 17 óra előtt; a gyertyák meleg fénye meghitt hangulatot áraszt a sötétedés beállta előtt.",
+                "ro": "Vizitați biserica înainte de ora 17; lumina caldă a lumânărilor creează o atmosferă primitoare înainte de lăsarea serii.",
+                "en": "Visit just before 17:00; the warm candlelight creates a cozy atmosphere before the early winter darkness sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kerékpározzon a csendes Jardin Magique-hoz a nap indításaként, majd haladjon el a városháza és az Église Saint-Michel mellett.\nA délidőt a Nostradamus-ház és a történelmi Fontaine Moussue felfedezésének szentelheti.\nDélután tekerjen fel a lenyűgöző Château de l'Empéri-hez és a városi színházhoz.\nZárja a túrát a híres Marius Fabre szappangyárban, megismerve a hagyományos készítést.",
         "ro": "Bicicliți lin spre Jardin Magique pentru a începe ziua, apoi pedalați pe lângă primărie și biserica Saint-Michel.\nAmiaza este dedicată fascinantei case a lui Nostradamus și istoricei Fontaine Moussue.\nDupă-amiaza, urcați spre impresionantul Château de l'Empéri și teatrul municipal.\nÎncheiați plimbarea învățând despre săpunul tradițional la celebra fabrică Marius Fabre.",
         "en": "Cycle smoothly to the serene Jardin Magique to start your day, then pedal past the town hall and the intricate Église Saint-Michel.\nMidday is dedicated to the fascinating Maison de Nostradamus and the historic Fontaine Moussue.\nIn the afternoon, bike up to the impressive Château de l'Empéri and pass the municipal theatre.\nConclude your ride learning about traditional soap at Marius Fabre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens im Jardin Magique sind die Wege matschig, fahren Sie vorsichtig. Mittags suchen wir Schutz in den Museen der Altstadt. Nachmittags ist die Fahrt zur Seifenfabrik im Regen erfrischend, aber achten Sie auf rutschige Kurven. Abends beenden wir die Tour trocken in der überdachten Fabrik.",
+            "hu": "Reggel a Jardin Magique útjai sárosak lehetnek, óvatosan pedálozzon. Délben az óváros múzeumaiban keresünk menedéket. Délután a szappangyár felé vezető út frissítő az esőben, de ügyeljen a csúszós kanyarokra. Estére a túrát a gyár fedett csarnokában zárjuk szárazon.",
+            "ro": "Dimineața, potecile din Jardin Magique sunt noroioase, pedalați cu atenție. La prânz căutăm adăpost în muzeele din centrul vechi. După-amiaza drumul spre fabrica de săpun este răcoros, dar atenție la curbele alunecoase. Seara încheiem turul la adăpost în fabrică.",
+            "en": "Morning paths in the Magic Garden might be muddy, so cycle carefully. At noon, we find refuge in the old town museums. Afternoon ride to the soap factory is refreshing in the rain, but watch out for slippery bends. By evening, we finish the tour dry inside the covered factory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Jardin Magique",
+                "hu": "Le Jardin Magique",
+                "ro": "Le Jardin Magique",
+                "en": "Le Jardin Magique"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist im Regen besonders intensiv; bleiben Sie auf den befestigten Wegen, um nicht im Schlamm stecken zu bleiben.",
+                "hu": "A növényzet esőben különösen dús; maradjon a kövezett utakon, hogy elkerülje a saras részeket a biciklivel.",
+                "ro": "Vegetația este intensă în ploaie; rămâneți pe potecile pavate pentru a nu rămâne blocat în noroi cu bicicleta.",
+                "en": "The vegetation is extra lush in the rain; stick to the paved paths to avoid getting muddy tires on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Hôtel de Ville",
+                "hu": "L'Hôtel de Ville",
+                "ro": "L'Hôtel de Ville",
+                "en": "L'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort für eine kurze Pause unter dem Vordach; prüfen Sie Ihre Bremsen, da nasse Felgen länger zum Stoppen brauchen.",
+                "hu": "Jó hely egy rövid szünetre az előtető alatt; ellenőrizze a fékeket, mert a nedves felniken hosszabb a féktáv.",
+                "ro": "Un loc bun pentru o scurtă pauză sub streșină; verificați frânele, jantele umede necesită o distanță mai mare de oprire.",
+                "en": "A good spot for a quick break under the overhang; check your brakes as wet rims require longer stopping distances."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Michel",
+                "hu": "Église Saint-Michel",
+                "ro": "Église Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher im Regen auf und genießen Sie die trockene Stille im Kirchenschiff für eine Weile.",
+                "hu": "Parkolja le a biciklit egy védettebb helyen, és élvezze a templomhajó száraz csendjét egy ideig.",
+                "ro": "Parcați bicicleta într-un loc mai protejat și bucurați-vă de liniștea uscată din interiorul bisericii pentru o vreme.",
+                "en": "Park your bike securely in the rain and enjoy the dry silence of the church interior for a peaceful break."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Nostradamus",
+                "hu": "Maison de Nostradamus",
+                "ro": "Maison de Nostradamus",
+                "en": "Maison de Nostradamus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Museumsbesuch, um Ihre Regenbekleidung abzutropfen; die Ausstellung ist komplett überdacht.",
+                "hu": "Használja ki a hosszú múzeumlátogatást, hogy megszárítsa az esőkabátját; a kiállítás teljes egészében fedett.",
+                "ro": "Profitați de vizita lungă la muzeu pentru a vă usca pelerina de ploaie; expoziția este complet acoperită.",
+                "en": "Use the long museum visit to let your rain gear drip dry; the entire exhibition is completely undercover."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontaine Moussue",
+                "hu": "Fontaine Moussue",
+                "ro": "Fontaine Moussue",
+                "en": "Fontaine Moussue"
+              },
+              "tip_5lang": {
+                "de": "Achtung beim Absteigen: Die Kopfsteinpflaster um den Brunnen sind bei Nässe extrem rutschig für Fahrradschuhe.",
+                "hu": "Vigyázat a leszálláskor: a kút körüli macskakő vizesen rendkívül csúszós lehet a kerékpáros cipőknek.",
+                "ro": "Atenție la coborâre: pavajul din jurul fântânii este extrem de alunecos pentru încălțămintea de ciclism când e ud.",
+                "en": "Caution when dismounting: the cobblestones around the fountain are extremely slippery for cycling shoes when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Empéri",
+                "hu": "Château de l'Empéri",
+                "ro": "Château de l'Empéri",
+                "en": "Château de l'Empéri"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad am Fuß des Schlosses an und verbringen Sie die Regenzeit in den historischen Innenräumen.",
+                "hu": "Zárja le a biciklit a vár lábánál, és töltse az esős időt a történelmi belső terek felfedezésével.",
+                "ro": "Încuiați bicicleta la baza castelului și petreceți timpul ploios explorând interioarele istorice.",
+                "en": "Lock your bike at the base of the castle and spend the rainy period exploring the historic indoor rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre municipal Armand",
+                "hu": "Theatre municipal Armand",
+                "ro": "Theatre municipal Armand",
+                "en": "Theatre municipal Armand"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Lichtblick an einem grauen Tag; das Gebäude bietet exzellenten Schutz und eine warme Atmosphäre.",
+                "hu": "Kulturális fénypont egy szürke napon; az épület kiváló védelmet és meleg hangulatot nyújt a látogatáshoz.",
+                "ro": "Un punct culminant cultural într-o zi gri; clădirea oferă protecție excelentă și o atmosferă caldă.",
+                "en": "A cultural highlight on a grey day; the building offers excellent shelter and a warm atmosphere for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Savonnerie Marius Fabre",
+                "hu": "Savonnerie Marius Fabre",
+                "ro": "Savonnerie Marius Fabre",
+                "en": "Savonnerie Marius Fabre"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel der Tour ist ideal: Die Fabrikbesichtigung findet drinnen statt, wo es herrlich nach Seife und Trockenheit duftet.",
+                "hu": "A túra célpontja ideális: a gyárlátogatás bent zajlik, ahol isteni szappanillat és szárazság várja.",
+                "ro": "Destinația turului este ideală: vizita la fabrică are loc în interior, unde miroase divin a săpun și e uscat.",
+                "en": "The final destination is ideal: the factory tour takes place indoors, smelling divinely of soap and keeping you dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens im Garten ist es frostig, tragen Sie Handschuhe beim Radfahren. Mittags wärmen wir uns in den Museen der Stadt auf. Nachmittags ist die Fahrt durch die Altstadt belebend, aber der Wind kann beißend sein. Da es um 17:00 Uhr dämmert, erreichen wir die Seifenfabrik im magischen blauen Licht.",
+            "hu": "Reggel a kertben fagyos az idő, viseljen kesztyűt a biciklizéshez. Délben a város múzeumaiban melegszünk fel. Délután a belvárosi tekerés élénkítő, de a szél metsző lehet. Mivel 17:00-kor sötétedik, a szappangyárat már a varázslatos kék órában érjük el.",
+            "ro": "Dimineața în grădină este ger, purtați mănuși pentru ciclism. La prânz ne încălzim în muzeele orașului. După-amiaza pedalatul prin centru este revigorant, dar vântul poate fi tăios. Seara se lasă pe la 17:00, deci ajungem la fabrică pe lumină albastră.",
+            "en": "Morning in the garden is frosty, so wear warm gloves for cycling. At noon, we warm up in the city museums. Afternoon cycling through the center is invigorating, but the wind can be biting. Since dusk falls at 17:00, we reach the soap factory in the magical blue hour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Le Jardin Magique",
+                "hu": "Le Jardin Magique",
+                "ro": "Le Jardin Magique",
+                "en": "Le Jardin Magique"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Natur wirkt wie verzaubert; fahren Sie langsam, um Reif auf den Pflanzen zu bewundern.",
+                "hu": "A fagyott természet elvarázsolt képet mutat; tekerjen lassan, hogy megcsodálhassa a zúzmarát a növényeken.",
+                "ro": "Natura înghețată arată ca în povești; pedalați încet pentru a admira bruma de pe plante.",
+                "en": "The frozen nature looks enchanted; cycle slowly to admire the hoarfrost covering the sleeping winter plants."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Hôtel de Ville",
+                "hu": "L'Hôtel de Ville",
+                "ro": "L'Hôtel de Ville",
+                "en": "L'Hôtel de Ville"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto am Platz; die Wintersonne lässt die Steine golden leuchten, bevor Sie weiterfahren.",
+                "hu": "Készítsen egy gyors fotót a téren; a téli napfény aranybarnára festi a köveket, mielőtt továbbtekerne.",
+                "ro": "Faceți o fotografie rapidă în piață; soarele de iarnă colorează pietrele în auriu înainte de a pleca mai departe.",
+                "en": "Take a quick photo in the square; the winter sun paints the stones golden before you cycle onwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Michel",
+                "hu": "Église Saint-Michel",
+                "ro": "Église Saint-Michel",
+                "en": "Église Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen; die dicken Kirchenmauern bieten einen guten Schutz vor dem kalten Mistral-Wind.",
+                "hu": "Rövid megálló a felmelegedéshez; a vastag templomfalak kiváló védelmet nyújtanak a hideg misztrál szél ellen.",
+                "ro": "O scurtă oprire pentru încălzire; zidurile groase oferă o protecție bună împotriva vântului rece mistral.",
+                "en": "A short stop to warm up; the thick church walls provide excellent protection against the cold Mistral wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Nostradamus",
+                "hu": "Maison de Nostradamus",
+                "ro": "Maison de Nostradamus",
+                "en": "Maison de Nostradamus"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die Innenbesichtigung; es ist der beste Ort, um die Kälte der Fahrt aus den Knochen zu bekommen.",
+                "hu": "Szánjon időt a belső látogatásra; ez a legjobb hely, hogy kiűzze a hideget a tagjaiból a tekerés után.",
+                "ro": "Acordați-vă timp pentru vizita interioară; este cel mai bun loc pentru a scăpa de frigul acumulat pe bicicletă.",
+                "en": "Take your time for the indoor visit; it is the best place to get the chill out of your bones after the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Fontaine Moussue",
+                "hu": "Fontaine Moussue",
+                "ro": "Fontaine Moussue",
+                "en": "Fontaine Moussue"
+              },
+              "tip_5lang": {
+                "de": "Der Brunnen kann leicht dampfen, wenn das Wasser wärmer als die Luft ist; ein faszinierender Anblick im Winter.",
+                "hu": "A kút enyhén gőzölöghet, ha a vize melegebb a levegőnél; lenyűgöző látvány a téli hidegben.",
+                "ro": "Fântâna poate scoate aburi dacă apa este mai caldă decât aerul; o priveliște fascinantă în frigul iernii.",
+                "en": "The fountain may steam slightly if the water is warmer than the air; a fascinating sight in the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Empéri",
+                "hu": "Château de l'Empéri",
+                "ro": "Château de l'Empéri",
+                "en": "Château de l'Empéri"
+              },
+              "tip_5lang": {
+                "de": "Vom Schloss aus hat man bei klarer Winterluft die beste Fernsicht; behalten Sie die Handschuhe beim Fotografieren an.",
+                "hu": "A várból tiszta téli időben a legjobb a kilátás; hagyja magán a kesztyűt a fotózás közben is.",
+                "ro": "De la castel aveți cea mai bună vizibilitate pe timp de iarnă; păstrați-vă mănușile chiar și când faceți poze.",
+                "en": "The castle offers the best long-distance views in clear winter air; keep your gloves on while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Theatre municipal Armand",
+                "hu": "Theatre municipal Armand",
+                "ro": "Theatre municipal Armand",
+                "en": "Theatre municipal Armand"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre im Inneren, während draußen die frühe Dämmerung einsetzt.",
+                "hu": "Élvezze a benti meghitt hangulatot, miközben kint megkezdődik a korai téli szürkület.",
+                "ro": "Bucurați-vă de atmosfera primitoare din interior în timp ce afară începe amurgul timpuriu de iarnă.",
+                "en": "Enjoy the cozy indoor atmosphere as the early winter dusk begins to fall outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Savonnerie Marius Fabre",
+                "hu": "Savonnerie Marius Fabre",
+                "ro": "Savonnerie Marius Fabre",
+                "en": "Savonnerie Marius Fabre"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierendes Licht am Fahrrad für den Rückweg, da es nach dem Besuch bereits dunkel sein wird.",
+                "hu": "Ügyeljen a bicikli világítására a visszaúton, mert a látogatás után már sötét lesz.",
+                "ro": "Atenție la luminile bicicletei pentru drumul de întoarcere, deoarece va fi deja întuneric după vizită.",
+                "en": "Ensure your bike lights are working for the return trip, as it will already be dark after your visit."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +1001,196 @@
         "hu": "Vezessen a külvárosba, hogy felfedezze az autentikus marseille-i szappan örökségét, kulturális alaphangot adva a napnak.\nDélben az Accceuil Acrro passion kalandparkban pöröghet fel, majd a központban leparkolva felfedezheti a Château de l'Empéri-t.\nDélután folytassa a túrát a Nostradamus-házzal és a Collégiale Saint-Laurent-nel.\nZárja a napot játékosan a La glissade parkban.",
         "ro": "Conduceți la periferie pentru a descoperi moștenirea autenticului Săpun de Marsilia, stabilind un ton cultural de dimineață.\nLa amiază crește adrenalina la Accceuil Acrro passion, înainte de a parca central pentru Château de l'Empéri.\nContinuați explorarea centrală după-amiaza la casa lui Nostradamus și Colegiata Saint-Laurent.\nÎncheiați ziua în mod jucăuș la parcul La glissade.",
         "en": "Drive to the outskirts to uncover the heritage of authentic Savon de Marseille, setting a cultural tone early on.\nMidday brings adrenaline at Accceuil Acrro passion, before parking centrally to explore the monumental Château de l'Empéri.\nContinue your central exploration in the afternoon at the iconic Maison de Nostradamus and Collégiale Saint-Laurent.\nEnd your day playfully at La glissade."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir bequem zur Seifenmanufaktur, während es draußen prasselt. Mittags parken wir nah an der Altstadt für kurze Wege zum Schloss. Nachmittags besuchen wir das Nostradamus-Haus trocken. Abends genießen wir die Fahrt durch die beleuchteten, regnerischen Straßen von Salon.",
+            "hu": "Reggel kényelmesen autózunk a szappangyárhoz, miközben kint dobol az eső. Délben az óvároshoz közel parkolunk, hogy rövid legyen az út a várig. Délután Nostradamus házát látogatjuk meg szárazon. Estére az autó ablakán keresztül csodáljuk a város fényeit a szakadó esőben.",
+            "ro": "Dimineața conducem confortabil spre fabrica de săpun în timp ce afară plouă torențial. La prânz parcăm aproape de centru pentru acces rapid la castel. După-amiaza vizităm casa lui Nostradamus la uscat. Seara admirăm luminile orașului prin geamul mașinii.",
+            "en": "Morning drive to the soap factory is comfortable while rain drums on the roof. At noon, we park close to the old town for short walks to the castle. Afternoon is spent staying dry inside Nostradamus’s house. By evening, we enjoy the city lights through the car window in the downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Savon de Marseille",
+                "hu": "Savon de Marseille",
+                "ro": "Savon de Marseille",
+                "en": "Savon de Marseille"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Fabrikgelände; so gelangen Sie fast ohne nass zu werden in die historischen Hallen.",
+                "hu": "Parkoljon közvetlenül a gyár területén; így szinte elázás nélkül juthat be a történelmi csarnokokba.",
+                "ro": "Parcați direct în incinta fabricii; astfel ajungeți în halele istorice aproape fără să vă udați.",
+                "en": "Park directly on the factory grounds; this way you can enter the historic halls without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Accceuil Acrro passion",
+                "hu": "Accceuil Acrro passion",
+                "ro": "Accceuil Acrro passion",
+                "en": "Accceuil Acrro passion"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen ist dies eher ein Fotostopp vom Auto aus; genießen Sie das frische Grün der Pinien im Regen.",
+                "hu": "Heves esőben ez inkább csak egy fotómegálló az autóból; élvezze a fenyők friss zöldjét a szakadó esőben.",
+                "ro": "În caz de ploaie torențială, acesta este un popas foto din mașină; admirați verdele crud al pinilor în ploaie.",
+                "en": "In heavy rain, this is more of a photo stop from the car; enjoy the fresh green of the pines in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Empéri",
+                "hu": "Château de l'Empéri",
+                "ro": "Château de l'Empéri",
+                "en": "Château de l'Empéri"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus 'Porte d'Espagne'; von dort ist es nur ein kurzer, fast trockener Fußweg zum Schlosseingang.",
+                "hu": "Használja a 'Porte d'Espagne' parkolót; onnan csak egy rövid, szinte teljesen fedett séta a vár bejárata.",
+                "ro": "Folosiți parcarea 'Porte d'Espagne'; de acolo este doar o scurtă plimbare până la intrarea în castel.",
+                "en": "Use the 'Porte d'Espagne' parking garage; from there it's just a short, mostly sheltered walk to the castle entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Nostradamus",
+                "hu": "Maison de Nostradamus",
+                "ro": "Maison de Nostradamus",
+                "en": "Maison de Nostradamus"
+              },
+              "tip_5lang": {
+                "de": "Perfektes Ziel für Regentage; das Museum ist komplett überdacht und bietet eine faszinierende Reise in die Vergangenheit.",
+                "hu": "Tökéletes célpont esős napokra; a múzeum teljesen fedett, és lenyűgöző utazást kínál a múltba.",
+                "ro": "Destinație perfectă pentru zilele ploioase; muzeul este complet acoperit și oferă o călătorie fascinantă în trecut.",
+                "en": "Perfect destination for rainy days; the museum is completely covered and offers a fascinating journey into the past."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Saint-Laurent",
+                "hu": "Collégiale Saint-Laurent",
+                "ro": "Collégiale Saint-Laurent",
+                "en": "Collégiale Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt an der Kirche; die weiten Innenräume bieten Schutz vor dem schlechten Wetter.",
+                "hu": "Keressen parkolóhelyet közvetlenül a templom mellett; a tágas belső terek menedéket nyújtanak a rossz idő elől.",
+                "ro": "Căutați un loc de parcare chiar lângă biserică; interioarele vaste oferă adăpost împotriva vremii rele.",
+                "en": "Find a parking spot directly next to the church; the vast interior spaces offer refuge from the poor weather."
+              }
+            },
+            {
+              "name": {
+                "de": "La glissade",
+                "hu": "La glissade",
+                "ro": "La glissade",
+                "en": "La glissade"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Park können sehr matschig sein; genießen Sie die Aussicht lieber von einem befestigten Parkplatz aus.",
+                "hu": "A park útjai nagyon sárosak lehetnek; élvezze a kilátást inkább egy szilárd burkolatú parkolóból.",
+                "ro": "Potecile din parc pot fi foarte noroioase; admirați vederea mai degrabă dintr-o parcare cu pavaj solid.",
+                "en": "The park paths can be very muddy; prefer to enjoy the view from a paved parking area instead."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir mit der Heizung im Auto zur Seifenmanufaktur. Mittags erkunden wir das Schloss, während der Mistral draußen weht. Nachmittags bietet Nostradamus' Haus einen warmen Rückzugsort. Da es gegen 17:00 Uhr dunkel wird, beenden wir den Tag mit einer Panoramafahrt im warmen Wagen.",
+            "hu": "Reggel bekapcsolt fűtéssel indulunk a szappangyárhoz. Délben a várat fedezzük fel, miközben kint süvít a misztrál. Délután Nostradamus háza kínál meleg menedéket. Mivel 17:00 körül sötétedik, a napot egy panorámás autózással zárjuk a fűtött utastérben.",
+            "ro": "Dimineața pornim cu încălzirea în mașină spre fabrica de săpun. La prânz explorăm castelul în timp ce mistralul suflă afară. După-amiaza casa lui Nostradamus oferă un refugiu cald. Seara se lasă pe la 17:00, deci încheiem cu o plimbare panoramică la căldură.",
+            "en": "Morning starts with the car heater on as we head to the soap factory. At noon, we explore the castle while the Mistral winds blow outside. Afternoon provides a warm sanctuary inside Nostradamus’s house. Since it gets dark around 17:00, we end the day with a panoramic drive in the warm cabin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Savon de Marseille",
+                "hu": "Savon de Marseille",
+                "ro": "Savon de Marseille",
+                "en": "Savon de Marseille"
+              },
+              "tip_5lang": {
+                "de": "Die Fabrik ist auch im Winter in Betrieb; der Duft der Seife ist in der kalten Luft besonders intensiv.",
+                "hu": "A gyár télen is üzemel; a szappan illata a hideg levegőben különösen intenzíven érezhető.",
+                "ro": "Fabrica este operațională și iarna; mirosul de săpun este deosebit de intens în aerul rece.",
+                "en": "The factory is operational in winter too; the scent of soap is especially intense in the crisp cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Accceuil Acrro passion",
+                "hu": "Accceuil Acrro passion",
+                "ro": "Accceuil Acrro passion",
+                "en": "Accceuil Acrro passion"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort für einen kurzen Winterspaziergang zwischen den Pinien, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "Szép helyszín egy rövid téli sétára a fenyők között, mielőtt visszatérne az autó melegébe.",
+                "ro": "Un loc frumos pentru o scurtă plimbare de iarnă printre pini, înainte de a vă reîncălzi în mașină.",
+                "en": "A beautiful spot for a short winter walk among the pines before warming up again in your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Empéri",
+                "hu": "Château de l'Empéri",
+                "ro": "Château de l'Empéri",
+                "en": "Château de l'Empéri"
+              },
+              "tip_5lang": {
+                "de": "Vom Schlossplatz aus haben Sie eine tolle Sicht auf das winterliche Umland; achten Sie auf den starken Wind.",
+                "hu": "A várudvarról nagyszerű kilátás nyílik a téli tájra; készüljön fel az időnként felerősödő szélre.",
+                "ro": "Din curtea castelului aveți o vedere superbă asupra împrejurimilor; atenție la vântul care se poate intensifica.",
+                "en": "From the castle courtyard, you have a great view of the winter landscape; be prepared for strong winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison de Nostradamus",
+                "hu": "Maison de Nostradamus",
+                "ro": "Maison de Nostradamus",
+                "en": "Maison de Nostradamus"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am Nachmittag, um der Kälte zu entfliehen; die Ausstellungsräume sind angenehm temperiert.",
+                "hu": "Látogasson el a múzeumba délután, hogy elmeneküljön a hideg elől; a kiállítótermek kellemesen fűtöttek.",
+                "ro": "Vizitați muzeul după-amiaza pentru a scăpa de frig; sălile de expoziție sunt încălzite plăcut.",
+                "en": "Visit the museum in the afternoon to escape the cold; the exhibition rooms are kept at a pleasant temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Collégiale Saint-Laurent",
+                "hu": "Collégiale Saint-Laurent",
+                "ro": "Collégiale Saint-Laurent",
+                "en": "Collégiale Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht im Inneren der Kirche ist im Winter besonders einladend; parken Sie für einen kurzen Weg direkt davor.",
+                "hu": "A templom belső meleg fényei télen különösen hívogatóak; parkoljon közvetlenül előtte a rövid séta érdekében.",
+                "ro": "Luminile calde din interiorul bisericii sunt foarte primitoare iarna; parcați chiar în față pentru un drum scurt.",
+                "en": "The warm indoor lights of the church are especially inviting in winter; park directly in front for a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "La glissade",
+                "hu": "La glissade",
+                "ro": "La glissade",
+                "en": "La glissade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr direkt vom Auto aus; die Aussicht über Salon ist im Winterlicht fantastisch.",
+                "hu": "Élvezze a naplementét 17:00 körül közvetlenül az autóból; a kilátás Salonra fantasztikus a téli fényekben.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 direct din mașină; vederea peste Salon este fantastică în lumina iernii.",
+                "en": "Enjoy the sunset around 17:00 directly from your car; the view over Salon is fantastic in the winter light."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Délelőtt: Kezdje a fenséges Foro Romanónál, képzelje el a nyüzsgő ókori életet, majd fedezze fel a közeli ókori kikötőt.\nDél: Fedezze fel a jó állapotban fennmaradt Domus di Titus Macert, és induljon a csodálatos bazilikába a legendás mozaikokért.\nDélután: Sétáljon végig az árnyékos Via Sacra mentén, és élvezze a békés régészeti park hangulatát.\nEste: Zárja a napot a Museo Archeologico Nazionale-ban, hogy teljes mértékben értékelje a régió hatalmas történelmi kincseit.",
         "ro": "Dimineața: Începeți la maiestuosul Foro Romano, imaginându-vă viața antică plină de viață, apoi explorați portul antic din apropiere.\nPrânz: Descoperiți bine conservata Domus di Titus Macer și îndreptați-vă spre magnifica Bazilică pentru mozaicurile sale legendare.\nDupă-amiaza: Rătăciți de-a lungul Via Sacra, plină de umbră, bucurându-vă de atmosfera senină a parcului arheologic.\nSeara: Încheiați la Museo Archeologico Nazionale pentru a aprecia pe deplin vastele comori istorice ale regiunii.",
         "en": "Morning: Start at the majestic Foro Romano, imagining the bustling ancient life, then explore the nearby ancient port.\nMidday: Discover the well-preserved Domus di Titus Macer and head to the magnificent Basilica for its legendary mosaics.\nAfternoon: Wander along the shaded Via Sacra, soaking in the serene archaeological park atmosphere.\nEvening: Conclude at the Museo Archeologico Nazionale to fully appreciate the region's vast historical treasures."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Forum, wo wir unter den Portiken Schutz vor dem Nieselregen suchen. Mittags bieten die Domus und die Basilika trockene Zuflucht inmitten antiker Pracht. Am Nachmittag vertiefen wir uns im Archäologischen Museum in die Geschichte, während draußen der Regen fällt. Der Abend klingt bei mystisch glänzenden Ruinenwegen und der frischen, feuchten Luft der Adria aus.",
+            "hu": "A reggelt a fórum oszlopcsarnokai alatt kezdjük, védve az esőtől. Délben a Domus fedett terei és a Bazilika hatalmas mozaikpadlója nyújt száraz menedéket. Délután az Archeológiai Múzeum gazdag gyűjteményében merülünk el, amíg odakint dobol az eső. Az este a vizes köveken megcsillanó fények és a romváros misztikus, párás hangulata közepette zárul a friss levegőn.",
+            "ro": "Dimineața începe la Forum, unde căutăm adăpost sub porticuri împotriva ploii ușoare. La prânz, Domus și Basilica oferă refugiu uscat printre mozaicuri antice splendide. După-amiaza este dedicată Muzeului de Arheologie, explorând istoria în timp ce ploaia cade afară. Seara se încheie printre ruinele care sclipesc sub lumina felinarelor, oferind o atmosferă mistică și umedă.",
+            "en": "The morning starts at the Forum, seeking shelter under the ancient porticoes from the drizzle. At noon, the covered Domus and the Basilica provide a dry sanctuary among stunning mosaics. In the afternoon, we delve into history at the Archaeological Museum while the rain taps on the windows. The evening concludes with the mystical sight of wet ruins reflecting the soft city lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Foro Romano",
+                "hu": "Foro Romano",
+                "ro": "Foro Romano",
+                "en": "Foro Romano"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Säulen vom Schutz der umliegenden Arkaden aus, da die Steinplatten bei Regen sehr rutschig werden können; tragen Sie feste Schuhe.",
+                "hu": "Csodálja meg az antik oszlopokat a környező árkádok védelméből, mivel az esőben a kőlapok rendkívül csúszóssá válhatnak; viseljen tapadós talpú cipőt.",
+                "ro": "Admirați coloanele antice sub protecția arcadelor înconjurătoare, deoarece plăcile de piatră pot deveni foarte alunecoase la ploaie; purtați încălțăminte aderentă.",
+                "en": "Admire the ancient columns from the shelter of the surrounding arcades, as the stone slabs can become very slippery in the rain; wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Fluviale",
+                "hu": "Porto Fluviale",
+                "ro": "Porto Fluviale",
+                "en": "Porto Fluviale"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am Flussufer ist auch bei Regen stimmungsvoll, erfordert aber einen stabilen Regenschirm, da es hier kaum natürliche Unterstände gibt.",
+                "hu": "A folyóparti séta esőben is hangulatos, de stabil esernyőre lesz szüksége, mivel ezen a szakaszon kevés a természetes fedett óvóhely a romok között.",
+                "ro": "O plimbare pe malul râului este atmosferică chiar și pe ploaie, dar veți avea nevoie de o umbrelă stabilă, deoarece există puține adăposturi naturale aici.",
+                "en": "A walk along the river port is atmospheric even in the rain, but you will need a sturdy umbrella as there are few natural shelters along this stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Domus di Titus Macer",
+                "hu": "Domus di Titus Macer",
+                "ro": "Domus di Titus Macer",
+                "en": "Domus di Titus Macer"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die moderne Überdachung, um die großartigen Mosaikböden dieser römischen Villa völlig trocken zu besichtigen, egal wie stark es draußen regnet.",
+                "hu": "Használja ki a modern védőtetőt, amely alatt teljesen szárazon tekintheti meg a római villa lenyűgöző mozaikpadlóit, bármennyire is esik odakint az eső.",
+                "ro": "Profitați de acoperișul modern pentru a vizita mozaicurile magnifice ale acestei vile romane complet uscat, indiferent cât de tare plouă afară.",
+                "en": "Take advantage of the modern protective roof to view the magnificent mosaic floors of this Roman villa completely dry, no matter how hard it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Der riesige Mosaikboden im Inneren bietet die perfekte trockene Beschäftigung; nehmen Sie sich Zeit, die Details im Schutz der dicken Mauern zu studieren.",
+                "hu": "A belső tér hatalmas mozaikpadlója tökéletes száraz programot kínál; szánjon időt a részletek tanulmányozására a vastag falak nyújtotta biztonságban.",
+                "ro": "Podeaua imensă cu mozaic din interior oferă activitatea perfectă pe timp de ploaie; acordați-vă timp pentru a studia detaliile sub protecția zidurilor groase.",
+                "en": "The vast mosaic floor inside offers the perfect dry activity; take your time to study the details under the protection of the thick, ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Sacra",
+                "hu": "Via Sacra",
+                "ro": "Via Sacra",
+                "en": "Via Sacra"
+              },
+              "tip_5lang": {
+                "de": "Die Zypressenallee duftet bei Regen herrlich frisch, bleiben Sie jedoch auf dem gepflasterten Weg, um Matsch zu vermeiden und Pfützen zu umgehen.",
+                "hu": "A ciprusokkal övezett út illata esőben csodásan friss, de maradjon a kövezett úton, hogy elkerülje a sarat és a nagyobb tócsákat a séta során.",
+                "ro": "Aleea cu chiparoși miroase minunat de proaspăt la ploaie, dar rămâneți pe drumul pavat pentru a evita noroiul și bălțile mari în timpul plimbării.",
+                "en": "The cypress-lined path smells wonderfully fresh in the rain, but stay on the paved path to avoid mud and larger puddles during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale",
+                "hu": "Museo Archeologico Nazionale",
+                "ro": "Museo Archeologico Nazionale",
+                "en": "Museo Archeologico Nazionale"
+              },
+              "tip_5lang": {
+                "de": "Dieses erstklassige Museum ist der ideale Ort, um das Ende des Regentages im Warmen zu verbringen und die zahllosen Exponate in aller Ruhe zu bewundern.",
+                "hu": "Ez a világszínvonalú múzeum az ideális hely az esős nap végére, ahol melegben és szárazon csodálhatja meg a számtalan ókori kincset és leletet.",
+                "ro": "Acest muzeu de talie mondială este locul ideal pentru a încheia ziua ploioasă, unde puteți admira numeroasele comori antice la căldură și uscat.",
+                "en": "This world-class museum is the ideal place to end a rainy day, where you can admire countless ancient treasures in a warm and dry environment."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen am Forum lädt zu einem belebenden Spaziergang in der klaren Winterluft ein. Mittags wärmen wir uns in der Basilika auf und bewundern das Lichtspiel auf den Mosaiken. Der Nachmittag bietet einen goldenen Sonnenuntergang über der Via Sacra, bevor es früh dunkel wird. Den Abend verbringen wir in der gemütlichen Atmosphäre des Museums, geschützt vor der Kälte.",
+            "hu": "A hűvös reggel a fórumon frissítő sétára hív a tiszta téli levegőben. Délben a Bazilika belső terében melegszünk fel, megcsodálva a mozaikokon táncoló téli fényt. A délután aranyló naplementét kínál a Via Sacra felett, mielőtt korán leszáll az éj. Az estét a múzeum barátságos termeiben töltjük, távol a kinti fagyos szellőktől.",
+            "ro": "O dimineață răcoroasă la Forum invită la o plimbare revigorantă în aerul curat de iarnă. La prânz, ne încălzim în interiorul Basilicii, admirând jocul luminii de iarnă pe mozaicuri. După-amiaza oferă un apus auriu peste Via Sacra înainte ca întunericul să cadă devreme. Seara o petrecem în atmosfera primitoare a muzeului, feriți de frigul de afară.",
+            "en": "A crisp winter morning at the Forum invites an invigorating walk in the clear air. At noon, we warm up inside the Basilica, admiring the winter light dancing on the ancient mosaics. The afternoon offers a golden sunset over the Via Sacra before the early twilight. We spend the evening in the cozy halls of the museum, sheltered from the biting cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Foro Romano",
+                "hu": "Foro Romano",
+                "ro": "Foro Romano",
+                "en": "Foro Romano"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Ruinen ohne die Sommerhitze, aber ziehen Sie sich warm an, da der Wind ungehindert über den offenen Platz weht.",
+                "hu": "Élvezze a romok tiszta látványát a nyári hőség nélkül, de öltözzön rétegesen, mert a szél akadálytalanul fúj át a nyitott fórum területén.",
+                "ro": "Bucurați-vă de vederea clară a ruinelor fără căldura verii, dar îmbrăcați-vă gros, deoarece vântul bate neîntrerupt prin piața deschisă a forului.",
+                "en": "Enjoy the clear views of the ruins without the summer heat, but dress in layers as the wind blows unobstructed across the open forum area."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Fluviale",
+                "hu": "Porto Fluviale",
+                "ro": "Porto Fluviale",
+                "en": "Porto Fluviale"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief über dem Kanal und bietet fantastisches Licht für Fotos; ein heißer Tee in der Thermoskanne ist hier ein idealer Begleiter.",
+                "hu": "A téli nap alacsonyan jár a csatorna felett, fantasztikus fényeket kínálva a fotózáshoz; egy termosz forró tea ideális társ lesz ezen a sétán.",
+                "ro": "Soarele de iarnă este jos deasupra canalului, oferind lumini fantastice pentru fotografii; un termos cu ceai fierbinte va fi tovarășul ideal aici.",
+                "en": "The winter sun hangs low over the canal, offering fantastic light for photos; a thermos of hot tea will be an ideal companion on this riverside walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Domus di Titus Macer",
+                "hu": "Domus di Titus Macer",
+                "ro": "Domus di Titus Macer",
+                "en": "Domus di Titus Macer"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungsstätte ist im Winter angenehm ruhig; nutzen Sie die Windstille unter der Überdachung, um die feinen Details der antiken Wohnkultur zu studieren.",
+                "hu": "Az ásatási terület télen kellemesen csendes; használja ki a szélvédett helyet a tető alatt, hogy nyugodtan tanulmányozza az ókori lakókultúra részleteit.",
+                "ro": "Situl arheologic este plăcut de liniștit iarna; profitați de locul ferit de vânt sub acoperiș pentru a studia în tihnă detaliile locuințelor antice.",
+                "en": "The excavation site is pleasantly quiet in winter; take advantage of the sheltered area under the roof to study the details of ancient living in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, aber das Ambiente ist im Winter besonders feierlich; tragen Sie eine warme Mütze und genießen Sie die Stille.",
+                "hu": "A vastag falak tárolják a hideget, de a hangulat télen különösen ünnepélyes; viseljen meleg sapkát, és élvezze a szakrális tér csendjét.",
+                "ro": "Zidurile groase păstrează frigul, dar atmosfera este deosebit de solemnă iarna; purtați o căciulă călduroasă și bucurați-vă de liniștea sacră.",
+                "en": "The thick walls retain the cold, but the atmosphere is particularly solemn in winter; wear a warm hat and enjoy the silence of this sacred space."
+              }
+            },
+            {
+              "name": {
+                "de": "Via Sacra",
+                "hu": "Via Sacra",
+                "ro": "Via Sacra",
+                "en": "Via Sacra"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die frühe Dämmerung gegen 17:00 Uhr; der Spaziergang zwischen den Zypressen ist im sanften Abendlicht besonders romantisch und ruhig.",
+                "hu": "Ügyeljen a korai sötétedésre 17:00 körül; a ciprusok közötti séta a lágy esti fényben különösen romantikus és csendes az év ezen szakaszában.",
+                "ro": "Atenție la întunericul care cade devreme în jurul orei 17:00; plimbarea printre chiparoși în lumina blândă de seară este deosebit de romantică.",
+                "en": "Note the early sunset around 5:00 PM; the walk among the cypresses in the soft evening light is especially romantic and quiet at this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale",
+                "hu": "Museo Archeologico Nazionale",
+                "ro": "Museo Archeologico Nazionale",
+                "en": "Museo Archeologico Nazionale"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Tag im Warmen zu beenden; das Museum bietet eine hervorragende Heizung und eine faszinierende Reise in die römische Vergangenheit.",
+                "hu": "A tökéletes hely a nap melegben történő befejezéséhez; a múzeum kiváló fűtéssel és lenyűgöző időutazással várja a látogatókat a római múltba.",
+                "ro": "Locul perfect pentru a încheia ziua la căldură; muzeul oferă încălzire excelentă și o călătorie fascinantă în timpul trecutului roman.",
+                "en": "The perfect place to end the day in warmth; the museum offers excellent heating and a fascinating journey back into Aquileia's Roman past."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Délelőtt: Kerékpározzon a Museo Paleocristianóhoz, csodálja meg az ókeresztény művészetet, majd tekerjen a történelmi Porto Fluviale felé.\nDél: Látogasson el az ókori Foro Romanóhoz és az ikonikus Basilica di Santa Maria Assuntához, Aquileia igazi szívéhez.\nDélután: Fedezze fel a Museo Archeologico Nazionale gazdag leleteit, elmerülve a helyi római történelemben.\nEste: Lovagoljon ki a gyönyörű Laguna di Gradóhoz, és élvezze a lélegzetelállító naplementét és a csendes parti szellőt.",
         "ro": "Dimineața: Ciclati spre Museo Paleocristiano și admirați arta paleocreștină, apoi pedalați spre istoricul Porto Fluviale.\nPrânz: Vizitați vechiul Foro Romano și iconica Basilica di Santa Maria Assunta, adevărata inimă a orașului Aquileia.\nDupă-amiaza: Explorați artefactele bogate la Museo Archeologico Nazionale, aprofundând istoria romană locală.\nSeara: Mergeți cu bicicleta spre frumoasa Laguna di Grado pentru a vă bucura de un apus de soare uimitor și de briza calmă a coastei.",
         "en": "Morning: Cycle to the Museo Paleocristiano and admire early Christian art, then pedal toward the historic Porto Fluviale.\nMidday: Visit the ancient Foro Romano and the iconic Basilica di Santa Maria Assunta, the true heart of Aquileia.\nAfternoon: Explore the rich artifacts at the Museo Archeologico Nazionale, diving deep into local Roman history.\nEvening: Ride out to the beautiful Laguna di Grado to enjoy a breathtaking sunset and the calm coastal breezes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen auf zwei Rädern erfordert Vorsicht auf den nassen Straßen zum Museum. Mittags finden wir Schutz am Flusshafen und Forum, während wir die Regenpausen abwarten. Der Nachmittag in der Basilika und im Museum bietet die nötige Trockenheit für ausgiebige Besichtigungen. Den Abend lassen wir an der Lagune ausklingen, wo der Regen eine mystische Ruhe verbreitet.",
+            "hu": "Az esős reggel két keréken óvatosságot igényel a múzeum felé vezető nedves utakon. Délben a folyami kikötőnél és a fórumon keresünk menedéket a záporok között. A délutáni Bazilika- és múzeumlátogatás biztosítja a szükséges száraz pihenőt. Az estét a lagúnánál zárjuk, ahol az eső csendes, misztikus nyugalmat áraszt a víz felett.",
+            "ro": "O dimineață ploioasă pe două roți necesită prudență pe drumurile umede spre muzeu. La prânz, căutăm adăpost la portul fluvial și la forum între reprizele de ploaie. Vizita de după-amiază la Basilică și muzeu oferă pauza uscată necesară. Încheiem seara la lagună, unde ploaia răspândește o liniște mistică peste apă.",
+            "en": "A rainy morning on two wheels requires caution on the wet roads leading to the museum. At noon, we find shelter by the river port and forum between showers. The afternoon visits to the Basilica and museum provide a necessary dry break. We end the evening at the lagoon, where the rain brings a quiet, mystical calm over the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Paleocristiano",
+                "hu": "Museo Paleocristiano",
+                "ro": "Museo Paleocristiano",
+                "en": "Museo Paleocristiano"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad nah am Eingang und genießen Sie die frühchristlichen Schätze im Trockenen; die Ausgrabungen sind hervorragend vor Regen geschützt.",
+                "hu": "Parkoljon a biciklivel közvetlenül a bejáratnál, és élvezze az őskeresztény kincseket szárazon; az ásatások kiváló védelmet nyújtanak az eső ellen.",
+                "ro": "Parcați bicicleta aproape de intrare și bucurați-vă de comorile paleocreștine la uscat; excavațiile sunt excelent protejate împotriva ploii.",
+                "en": "Park your bike close to the entrance and enjoy the early Christian treasures in the dry; the excavations are excellently protected from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Fluviale",
+                "hu": "Porto Fluviale",
+                "ro": "Porto Fluviale",
+                "en": "Porto Fluviale"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Radfahren auf dem Uferweg auf rutschige Stellen und Pfützen; wasserfeste Kleidung ist auf diesem offenen Abschnitt unverzichtbar.",
+                "hu": "Biciklizés közben ügyeljen a csúszós szakaszokra és tócsákra a parti úton; a vízálló ruházat elengedhetetlen ezen a nyitott szakaszon.",
+                "ro": "Fiți atenți la porțiunile alunecoase și la bălți pe drumul de pe mal; îmbrăcămintea impermeabilă este indispensabilă pe această secțiune deschisă.",
+                "en": "Watch out for slippery patches and puddles while cycling along the river path; waterproof clothing is essential on this open stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Foro Romano",
+                "hu": "Foro Romano",
+                "ro": "Foro Romano",
+                "en": "Foro Romano"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause unter den Arkaden, um den Regen abzuwarten; die antiken Steine des Forums können bei Nässe für Radfahrer tückisch sein.",
+                "hu": "Tartson egy rövid szünetet az árkádok alatt, amíg eláll a zápor; a fórum antik kövei vizesen trükkösek lehetnek a kerékpárosok számára.",
+                "ro": "Faceți o scurtă pauză sub arcade până trece ploaia; pietrele antice ale forului pot fi înșelătoare pentru bicicliști când sunt ude.",
+                "en": "Take a short break under the arcades to wait out the rain; the ancient stones of the forum can be tricky for cyclists when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine längere Aufwärm- und Trocknungsphase; im Inneren der Basilika sind Sie sicher vor Wind und Wetter geschützt.",
+                "hu": "Használja ki a látogatást egy hosszabb pihenőre és száradásra; a Bazilika belsejében biztosan védve lesz a szél és a csapadék elől.",
+                "ro": "Folosiți vizita pentru o pauză mai lungă de încălzire și uscare; în interiorul Basilicii veți fi protejați de vânt și precipitații.",
+                "en": "Use this visit for a longer warm-up and drying phase; inside the Basilica, you will be safely sheltered from the wind and weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale",
+                "hu": "Museo Archeologico Nazionale",
+                "ro": "Museo Archeologico Nazionale",
+                "en": "Museo Archeologico Nazionale"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an den vorgesehenen Ständern und widmen Sie sich den Ausstellungsstücken, während die Regenwolken über Aquileia hinwegziehen.",
+                "hu": "Zárja le a biciklit a kijelölt tárolóknál, és merüljön el a kiállítási tárgyakban, amíg az esőfelhők elvonulnak Aquileia felett.",
+                "ro": "Asigurați bicicleta în suporturile desemnate și dedicați-vă exponatelor în timp ce norii de ploaie trec peste Aquileia.",
+                "en": "Secure your bike at the designated racks and immerse yourself in the exhibits while the rain clouds pass over Aquileia."
+              }
+            },
+            {
+              "name": {
+                "de": "Laguna di Grado",
+                "hu": "Laguna di Grado",
+                "ro": "Laguna di Grado",
+                "en": "Laguna di Grado"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Lagune bietet wenig Schutz; tragen Sie eine helle Regenjacke für bessere Sichtbarkeit im grauen Wetter und achten Sie auf den Wind.",
+                "hu": "A lagúnához vezető út kevés menedéket nyújt; viseljen élénk esőkabátot a jobb láthatóságért a szürke időben, és ügyeljen az erős szélre.",
+                "ro": "Drumul spre lagună oferă puțin adăpost; purtați o pelerină de ploaie colorată pentru o vizibilitate mai bună și fiți atenți la vântul puternic.",
+                "en": "The path to the lagoon offers little shelter; wear a bright raincoat for better visibility in grey weather and watch out for strong winds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt mit einer schnellen Fahrt zum Paläochristlichen Museum, um der Kälte zu entfliehen. Mittags nutzen wir die klare Wintersonne für Besichtigungen am Hafen und am Forum. Am Nachmittag wärmen wir uns in der Basilika auf, bevor wir zum Archäologischen Museum weiterfahren. Der Abend endet an der Lagune mit einem spektakulären, frühen Wintersonnenuntergang.",
+            "hu": "A fagyos reggel egy gyors tekeréssel indul az Őskeresztény Múzeumig, hogy elmeneküljünk a hideg elől. Délben a tiszta téli napsütést kihasználva nézzük meg a kikötőt és a fórumot. Délután a Bazilikában melegszünk fel, majd a múzeumba indulunk tovább. Az este a lagúnánál zárul egy látványos, korai téli naplementével a vízparton.",
+            "ro": "O dimineață geroasă începe cu o cursă rapidă până la Muzeul Paleocreștin pentru a scăpa de frig. La prânz, profităm de soarele clar de iarnă pentru a vizita portul și forul. După-amiaza ne încălzim în Basilică înainte de a continua spre muzeu. Seara se încheie la lagună cu un apus de iarnă spectaculos și timpuriu la malul apei.",
+            "en": "A frosty morning starts with a quick ride to the Paleo-Christian Museum to escape the cold. At noon, we take advantage of the clear winter sun to visit the port and the forum. In the afternoon, we warm up in the Basilica before heading to the museum. The evening ends at the lagoon with a spectacular, early winter sunset by the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Paleocristiano",
+                "hu": "Museo Paleocristiano",
+                "ro": "Museo Paleocristiano",
+                "en": "Museo Paleocristiano"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um sich nach der ersten kurzen Fahrt aufzuwärmen; die Innenräume sind gut temperiert und bieten Schutz vor dem morgendlichen Frost.",
+                "hu": "Kezdjen itt, hogy az első rövid tekerés után bemelegedjen; a belső terek jól temperáltak és védelmet nyújtanak a reggeli fagyos levegő ellen.",
+                "ro": "Începeți aici pentru a vă încălzi după prima cursă scurtă; spațiile interioare sunt bine temperate și oferă protecție împotriva gerului de dimineață.",
+                "en": "Start here to warm up after the first short ride; the interiors are well-tempered and provide shelter from the morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto Fluviale",
+                "hu": "Porto Fluviale",
+                "ro": "Porto Fluviale",
+                "en": "Porto Fluviale"
+              },
+              "tip_5lang": {
+                "de": "Der Wind vom Wasser kann schneidend kalt sein; tragen Sie winddichte Kleidung und Handschuhe, um die Fahrt entlang der Ruinen genießen zu können.",
+                "hu": "A víz felől fújó szél metszően hideg lehet; viseljen szélálló ruházatot és kesztyűt, hogy élvezni tudja a biciklizést a romok mentén.",
+                "ro": "Vântul de pe apă poate fi tăios de rece; purtați haine rezistente la vânt și mănuși pentru a vă putea bucura de plimbarea de-a lungul ruinelor.",
+                "en": "The wind from the water can be biting cold; wear windproof clothing and gloves to enjoy the ride along the ancient ruins comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Foro Romano",
+                "hu": "Foro Romano",
+                "ro": "Foro Romano",
+                "en": "Foro Romano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos ohne Touristenmassen, aber achten Sie auf gefrorene Stellen auf dem Boden beim Absteigen vom Rad.",
+                "hu": "Használja ki a tiszta téli fényt a fotózáshoz tömegek nélkül, de ügyeljen a fagyott foltokra a talajon, amikor leszáll a kerékpárról.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii fără mulțimi de turiști, dar atenție la porțiunile înghețate de pe jos când coborâți de pe bicicletă.",
+                "en": "Take advantage of the clear winter light for photos without the crowds, but watch out for frozen patches on the ground when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Eine längere Pause in der Basilika hilft, die Gliedmaßen wieder aufzuwärmen; genießen Sie die feierliche winterliche Ruhe in diesem historischen Raum.",
+                "hu": "Egy hosszabb szünet a Bazilikában segít átmelegíteni a végtagokat; élvezze az ünnepélyes téli nyugalmat ebben a történelmi térben.",
+                "ro": "O pauză mai lungă în Basilică ajută la încălzirea membrelor; bucurați-vă de liniștea solemnă de iarnă în acest spațiu istoric.",
+                "en": "A longer break in the Basilica helps to warm up your limbs; enjoy the solemn winter tranquility within this magnificent historical space."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico Nazionale",
+                "hu": "Museo Archeologico Nazionale",
+                "ro": "Museo Archeologico Nazionale",
+                "en": "Museo Archeologico Nazionale"
+              },
+              "tip_5lang": {
+                "de": "Ideal, um die kälteste Zeit des Nachmittags im Warmen zu verbringen; lassen Sie sich Zeit für die beeindruckende Sammlung römischer Steine.",
+                "hu": "Ideális helyszín a délután leghidegebb óráinak melegben töltéséhez; szánjon időt a római kőemlékek lenyűgöző gyűjteményének megtekintésére.",
+                "ro": "Locul ideal pentru a petrece cele mai reci ore ale după-amiezii la căldură; acordați-vă timp pentru colecția impresionantă de monumente romane.",
+                "en": "The ideal location to spend the coldest afternoon hours in the warm; take your time viewing the impressive collection of Roman stone monuments."
+              }
+            },
+            {
+              "name": {
+                "de": "Laguna di Grado",
+                "hu": "Laguna di Grado",
+                "ro": "Laguna di Grado",
+                "en": "Laguna di Grado"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Ankunft vor 16:30 Uhr, um den Sonnenuntergang über dem Wasser zu sehen; danach kühlt es sehr schnell ab, packen Sie also eine Extraschicht ein.",
+                "hu": "Tervezze az érkezést 16:30 elé, hogy lássa a naplementét a víz felett; ezután nagyon gyorsan lehűl a levegő, készüljön extra réteg ruhával.",
+                "ro": "Planificați sosirea înainte de 16:30 pentru a vedea apusul peste apă; după aceea se răcește foarte repede, deci pregătiți un strat de haine în plus.",
+                "en": "Aim to arrive before 4:30 PM to catch the sunset over the water; it cools down very quickly afterward, so pack an extra layer of clothing."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Délelőtt: Vezessen a Grandi Terméhez, hogy megnézze az ókori fürdőket, majd gyorsan látogasson el az impozáns Mausoleo di Aquileia-hoz.\nDél: Parkoljon le a Foro Romano közelében a polgári történelem megismeréséhez, majd látogasson el a lenyűgöző bazilikába.\nDélután: Haladjon dél felé a part irányába, festői utazást téve a főbb romoktól távol.\nEste: Érkezzen meg a lenyűgöző Laguna di Gradóhoz, és zárja a kirándulást a vízre nyíló panorámás kilátással.",
         "ro": "Dimineața: Conduceți la Grandi Terme pentru a vedea băile antice, apoi vizitați rapid impunătorul Mausoleo di Aquileia.\nPrânz: Parcați lângă Foro Romano pentru o privire asupra istoriei civice, urmată de Bazilica plină de venerație.\nDupă-amiaza: Îndreptați-vă spre sud, spre coastă, făcând o plimbare pitorească departe de ruinele principale.\nSeara: Ajungeți la uimitoarea Laguna di Grado, încheindu-vă excursia de o zi cu vederi panoramice asupra apei.",
         "en": "Morning: Drive to the Grandi Terme to see the ancient baths, then quickly visit the imposing Mausoleo di Aquileia.\nMidday: Park near the Foro Romano for a glimpse of civic history, followed by the awe-inspiring Basilica.\nAfternoon: Head south towards the coast, taking a scenic drive away from the main ruins.\nEvening: Arrive at the stunning Laguna di Grado, ending your day trip with panoramic views of the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich in Aquileia am besten mit dem Auto bewältigen, beginnend bei den Thermen. Mittags steuern wir das Mausoleum und das Forum an, wobei das Auto als trockene Basis dient. Den Nachmittag verbringen wir in der Basilika, geschützt vor dem prasselnden Regen. Den Abschluss bildet die Fahrt zur Lagune, wo wir das graue Panorama gemütlich vom Auto aus betrachten.",
+            "hu": "Az esős napot Aquileiában a legkényelmesebben autóval vészelhetjük át, a Terméktől indulva. Délben a Mauzóleumot és a Fórumot érintjük, az autó száraz bázisként szolgál. A délutánt a Bazilika vastag falai között töltjük, védve a szakadó esőtől. A napot a lagúnához vezető autózás zárja, ahol a szürke panorámát a kocsiból is élvezhetjük.",
+            "ro": "O zi ploioasă în Aquileia poate fi parcursă cel mai confortabil cu mașina, începând de la Terme. La prânz, vizităm Mausoleul și Forumul, mașina servind ca bază uscată. După-amiaza o petrecem între zidurile groase ale Basilicii, feriți de ploaia torențială. Ziua se încheie cu drumul spre lagună, admirând panorama gri din confortul mașinii.",
+            "en": "A rainy day in Aquileia is best navigated by car, starting from the thermal baths. At noon, we visit the Mausoleum and the Forum, using the car as a dry home base. We spend the afternoon within the thick walls of the Basilica, sheltered from the pouring rain. The day concludes with a drive to the lagoon, enjoying the grey panorama from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grandi Terme",
+                "hu": "Grandi Terme",
+                "ro": "Grandi Terme",
+                "en": "Grandi Terme"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz in der Nähe und besichtigen Sie die Überreste der Thermen; wasserfeste Schuhe sind für die unbefestigten Wege zwischen den Steinen ratsam.",
+                "hu": "Használja a közeli parkolót és tekintse meg a termák maradványait; vízálló cipő ajánlott a kövek közötti burkolatlan szakaszokon az esőben.",
+                "ro": "Folosiți parcarea din apropiere și vizitați resturile termelor; încălțămintea impermeabilă este recomandată pentru secțiunile nepavate printre pietre.",
+                "en": "Use the nearby parking and view the ruins of the baths; waterproof shoes are recommended for the unpaved sections between the stones in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo di Aquileia",
+                "hu": "Mausoleo di Aquileia",
+                "ro": "Mausoleo di Aquileia",
+                "en": "Mausoleo di Aquileia"
+              },
+              "tip_5lang": {
+                "de": "Da der Stopp kurz ist, können Sie das beeindruckende Monument schnell vom Auto aus erreichen und aus der Nähe bewundern, ohne allzu nass zu werden.",
+                "hu": "Mivel a megálló rövid, gyorsan elérheti az autóval a lenyűgöző emlékművet, és közelről is megcsodálhatja anélkül, hogy túlságosan elázna.",
+                "ro": "Deoarece oprirea este scurtă, puteți ajunge rapid cu mașina la monumentul impresionant și îl puteți admira de aproape fără să vă udați prea tare.",
+                "en": "Since this is a short stop, you can quickly reach the impressive monument by car and admire it up close without getting too wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Foro Romano",
+                "hu": "Foro Romano",
+                "ro": "Foro Romano",
+                "en": "Foro Romano"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Straßenrand und huschen Sie unter die Säulengänge; die antiken Mosaikreste am Rand sind bei Regen besonders kontrastreich und schön zu sehen.",
+                "hu": "Parkoljon az út szélén és siessen az oszlopcsarnokok alá; a széleken található antik mozaikmaradványok esőben különösen kontrasztosak és szépek.",
+                "ro": "Parcați la marginea drumului și grăbiți-vă sub colonade; resturile de mozaic antic de pe margini sunt deosebit de contrastante și frumoase pe ploaie.",
+                "en": "Park at the roadside and duck under the colonnades; the ancient mosaic fragments at the edges appear particularly vivid and beautiful in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Zufluchtsort bei Starkregen; parken Sie auf dem nahen Hauptparkplatz und genießen Sie die spirituelle Stille und die trockenen Mosaikböden.",
+                "hu": "A tökéletes menedék heves esőzés esetén; parkoljon a közeli főparkolóban, és élvezze a spirituális csendet és a száraz mozaikpadlókat a Bazilikában.",
+                "ro": "Refugiul perfect în caz de ploaie torențială; parcați în parcarea principală din apropiere și bucurați-vă de liniștea spirituală și mozaicurile uscate.",
+                "en": "The perfect refuge during heavy rain; park in the main nearby parking lot and enjoy the spiritual silence and dry mosaic floors in the Basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Laguna di Grado",
+                "hu": "Laguna di Grado",
+                "ro": "Laguna di Grado",
+                "en": "Laguna di Grado"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt über den Damm ist bei Regen dramatisch; parken Sie an einem Aussichtspunkt und beobachten Sie das Wetterspiel über der Lagune bequem vom Sitz aus.",
+                "hu": "A gáton való átkelés esőben látványos; álljon meg egy kilátópontnál és nézze a lagúna feletti időjárást kényelmesen az autó üléséből.",
+                "ro": "Traversarea digului pe ploaie este spectaculoasă; opriți-vă la un punct de belvedere și priviți vremea de deasupra lagunei confortabil din mașină.",
+                "en": "Driving across the causeway in the rain is dramatic; pull over at a viewpoint and watch the weather over the lagoon comfortably from your car seat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt bequem mit der Fahrt zu den Thermen, während die Heizung für Komfort sorgt. Mittags besuchen wir das Mausoleum und das Forum unter der strahlenden, tiefstehenden Sonne. Der Nachmittag gehört der prachtvollen Basilika, bevor wir den frühen Sonnenuntergang anpeilen. Den Tag beschließen wir mit der Fahrt zur Lagune, um das winterliche Alpenglühen im Rückspiegel zu bewundern.",
+            "hu": "A tiszta téli reggel kényelmesen indul a Termék felé, miközben az autó fűtése biztosítja a komfortot. Délben a Mauzóleumot és a Fórumot látogatjuk meg a ragyogó, alacsony napállásnál. A délután a pompás Bazilikáé, mielőtt a korai naplementét vennénk célba. A napot a lagúnához vezető út zárja, ahol a téli fényeket csodálhatjuk meg a víz felett.",
+            "ro": "O dimineață senină de iarnă începe confortabil cu drumul spre Terme, în timp ce încălzirea mașinii asigură confortul. La prânz, vizităm Mausoleul și Forumul sub soarele strălucitor de iarnă. După-amiaza aparține Basilicii splendide, înainte de a urmări apusul timpuriu. Ziua se încheie cu drumul spre lagună, admirând luminile de iarnă peste apă.",
+            "en": "A clear winter morning begins comfortably with a drive to the baths while the car's heater keeps you cozy. At noon, we visit the Mausoleum and the Forum under the brilliant, low sun. The afternoon belongs to the splendid Basilica before we target the early sunset. The day concludes with a drive to the lagoon to admire the winter lights over the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grandi Terme",
+                "hu": "Grandi Terme",
+                "ro": "Grandi Terme",
+                "en": "Grandi Terme"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ruinen zügig in der klaren Morgenluft; die Nähe zum Parkplatz ermöglicht eine schnelle Rückkehr ins warme Auto bei frostigem Wind.",
+                "hu": "Tekintse meg a romokat a tiszta reggeli levegőben; a parkoló közelsége lehetővé teszi a gyors visszatérést a meleg autóba, ha fagyos szél támadna.",
+                "ro": "Vizitați ruinele în aerul curat de dimineață; proximitatea parcării permite întoarcerea rapidă în mașina caldă dacă apare un vânt înghețat.",
+                "en": "View the ruins in the crisp morning air; the parking's proximity allows for a quick return to the warm car if a biting frost sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo di Aquileia",
+                "hu": "Mausoleo di Aquileia",
+                "ro": "Mausoleo di Aquileia",
+                "en": "Mausoleo di Aquileia"
+              },
+              "tip_5lang": {
+                "de": "Das Monument ist im Winterlicht besonders eindrucksvoll; ein kurzer Fotostopp reicht aus, da es auf der offenen Straße oft sehr zugig ist.",
+                "hu": "Az emlékmű a téli fényben különösen hatásos; egy rövid fotómegálló elegendő, mivel a nyitott út mellett gyakran erős a huzat ilyenkor.",
+                "ro": "Monumentul este deosebit de impresionant în lumina iernii; o scurtă oprire pentru fotografii este suficientă, deoarece lângă drumul deschis e curent.",
+                "en": "The monument is particularly striking in the winter light; a short photo stop is sufficient as it can be quite draughty by the open road."
+              }
+            },
+            {
+              "name": {
+                "de": "Foro Romano",
+                "hu": "Foro Romano",
+                "ro": "Foro Romano",
+                "en": "Foro Romano"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Forum ohne die sommerlichen Parkplatzsorgen; ziehen Sie sich für den kurzen Rundgang eine windfeste Jacke über.",
+                "hu": "Élvezze a fórum látványát nyári parkolási gondok nélkül; a rövid sétához vegyen fel szélálló kabátot, mert a tér nagyon nyitott a fagyos szélnek.",
+                "ro": "Bucurați-vă de vederea forului fără grijile parcării din timpul verii; purtați o jachetă rezistentă la vânt pentru scurta plimbare prin piața deschisă.",
+                "en": "Enjoy the view of the forum without summer parking worries; put on a windproof jacket for the short walk as the square is very exposed to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilica di Santa Maria Assunta",
+                "hu": "Basilica di Santa Maria Assunta",
+                "ro": "Basilica di Santa Maria Assunta",
+                "en": "Basilica di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es in der Basilika sehr ruhig; nehmen Sie eine Decke für das Auto mit, um sich nach der Besichtigung der kühlen Steinkirche wieder aufzuwärmen.",
+                "hu": "Télen a Bazilika rendkívül csendes; legyen a kocsiban egy takaró, amivel a hűvös kőtemplom megtekintése után gyorsan átmelegedhet az autóban.",
+                "ro": "Iarna, Basilica este extrem de liniștită; aveți în mașină o pătură pentru a vă încălzi rapid după vizitarea bisericii răcoroase de piatră.",
+                "en": "The Basilica is very peaceful in winter; keep a blanket in the car to warm up quickly after visiting the cool stone interior of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Laguna di Grado",
+                "hu": "Laguna di Grado",
+                "ro": "Laguna di Grado",
+                "en": "Laguna di Grado"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig zum Sonnenuntergang gegen 16:45 Uhr; im Winter ist die Fernsicht auf die schneebedeckten Alpen hinter der Lagune oft am besten.",
+                "hu": "Érkezzen időben a 16:45 körüli naplementére; télen a legjobb a kilátás a lagúna mögötti hófödte Alpokra a tiszta, hideg időben.",
+                "ro": "Sosiți la timp pentru apusul de la ora 16:45; iarna, vizibilitatea spre Alpii înzăpeziți din spatele lagunei este adesea cea mai bună.",
+                "en": "Arrive in time for the 4:45 PM sunset; in winter, the visibility of the snow-capped Alps behind the lagoon is often best in the clear, cold air."
+              }
+            }
+          ]
+        }
       }
     }
   }

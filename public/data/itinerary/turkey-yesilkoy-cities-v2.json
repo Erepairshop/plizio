@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a kedves helyi múzeumban. Merüljön el a városrész történetében a lenyűgöző tárgyakon keresztül, mielőtt újra kilépne Yeşilköy csendes, fákkal szegélyezett utcáira.\n\nDélben spirituális nevezetességek felé vezet az útja, kezdve az elegáns Bezmi Alem mecsettel. Egy rövid sétára csodálja meg a modern szír templomot, a környék építészeti remekművét.\n\nDélután fedezze fel a repülés egyedi emlékét, a Dornier repülőgép-emlékművet. Sétáljon a gondozott ösvényeken, és élvezze a külvárosi nyugalmat, amely a környéket jellemzi.\n\nZárja gyalogtúráját a történelmi Mecidiye mecsetnél. Pihenjen meg a békés udvaron, miközben a késő délutáni fény lágyul, elgondolkodva a Yeşilköyben töltött csodálatos napon.",
         "ro": "Începeți dimineața la frumosul muzeu local. Pătrundeți în istoria cartierului prin artefacte fascinante înainte de a ieși pe străzile liniștite și mărginite de copaci din Yeşilköy.\n\nLa prânz, vizitați repere spirituale, începând cu eleganta Moschee Bezmi Alem. La o scurtă plimbare, minunați-vă de moderna Biserică Siriacă, o capodoperă arhitecturală a zonei.\n\nDupă-amiaza, descoperiți o relicvă unică a aviației, monumentul aeronavei Dornier. Plimbați-vă pe aleile bine îngrijite, bucurându-vă de liniștea suburbană care definește cartierul.\n\nÎncheiați-vă turul pietonal la istorica Moschee Mecidiye. Relaxați-vă în curtea sa pașnică, în timp ce lumina după-amiezii târzii se domolește, reflectând la o zi minunată în Yeşilköy.",
         "en": "Start your morning at the lovely local museum. Delve into neighborhood history through fascinating artifacts before stepping back out onto the quiet, tree-lined streets of Yeşilköy.\n\nMidday leads you to spiritual landmarks, beginning with the elegant Bezmi Alem Cami. A short walk away, marvel at the modern Syriac Church, an architectural masterpiece of the area.\n\nIn the afternoon, discover a unique aviation relic, the Dornier aircraft monument. Stroll along the well-kept pathways taking in the suburban serenity that defines the neighborhood.\n\nConclude your walking tour at the historic Mecidiye Mosque. Unwind in its peaceful courtyard as the late afternoon light softens, reflecting on a wonderful day out in Yeşilköy."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt im Stadtmuseum, während der Regen gegen die Fenster trommelt. Mittags spazieren wir unter dem Regenschirm zu den prachtvollen Moscheen und Kirchen im Zentrum. Am Nachmittag bietet das Flugzeugdenkmal einen kurzen Fotostopp im Freien. Der Abend klingt bei der Mecidiye-Moschee aus, deren warme Beleuchtung sich herrlich in den nassen Straßen von Yeşilköy spiegelt.",
+            "hu": "A délelőtt a várostörténeti múzeum fedett falai között indul, menedéket nyújtva az eső elől. Délben esernyővel felszerelkezve látogatjuk meg a közeli mecsetet és a szír ortodox templomot. Délután egy gyors pillantást vetünk a történelmi repülőgépre, majd a vizes aszfalton óvatosan haladunk tovább. Az estét a Mecidiye mecsetnél zárjuk, ahol a lámpák fénye csillog a nedves kövezeten.",
+            "ro": "Dimineața începe la adăpost în muzeul orașului, în timp ce ploaia bate în ferestre. La prânz, ne plimbăm cu umbrela spre moscheile și bisericile din centru. După-amiaza, monumentul aviatic oferă o scurtă oprire foto în aer liber. Seara se încheie la Moscheea Mecidiye, unde luminile calde se reflectă superb pe străzile umede din Yeşilköy, creând o atmosferă melancolică.",
+            "en": "The morning begins sheltered in the city museum while the rain drums against the windows. At noon, we walk under umbrellas to the magnificent mosques and churches in the center. In the afternoon, the aircraft monument offers a quick outdoor photo stop. The evening concludes at the Mecidiye Mosque, where the warm lights reflect beautifully on the wet streets of Yeşilköy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sanat Evi ve Kent Müzesi",
+                "hu": "Sanat Evi ve Kent Müzesi",
+                "ro": "Sanat Evi ve Kent Müzesi",
+                "en": "Sanat Evi ve Kent Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausgiebigen Museumsbesuch; achten Sie darauf, Ihren nassen Regenschirm im vorgesehenen Bereich am Eingang zu lassen.",
+                "hu": "Használja ki az esőt egy alapos múzeumlátogatásra; a vizes esernyőt hagyja a bejáratnál lévő tartóban, hogy ne csússzon a padló a kiállítótérben.",
+                "ro": "Profitați de ploaie pentru o vizită lungă la muzeu; asigurați-vă că lăsați umbrela udă în zona special amenajată de la intrare pentru siguranță.",
+                "en": "Use the rain as an excuse for an extended museum visit; be sure to leave your wet umbrella in the designated area at the entrance to keep floors dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeşilköy Bezmi Alem Cami",
+                "hu": "Yeşilköy Bezmi Alem Cami",
+                "ro": "Yeşilköy Bezmi Alem Cami",
+                "en": "Yeşilköy Bezmi Alem Cami"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee bietet eine trockene Zuflucht; gehen Sie beim Betreten auf den Marmorstufen vorsichtig vor, da diese bei Nässe extrem rutschig sind.",
+                "hu": "A mecset csendes és száraz menedéket nyújt; belépéskor legyen óvatos a márványlépcsőkön, mert a nedvességtől rendkívül csúszóssá válhatnak.",
+                "ro": "Moscheea oferă un refugiu liniștit și uscat; aveți grijă la intrare pe treptele de marmură, deoarece devin extrem de alunecoase când sunt ude.",
+                "en": "The mosque provides a quiet and dry sanctuary; take extra care on the marble steps when entering, as they can become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Syrisch-Orthodoxe Kirche von St. Ephrem",
+                "hu": "Szent Efrém Szír Ortodox Templom",
+                "ro": "Biserica Ortodoxă Siriacă Sf. Efrem",
+                "en": "The Syriac Orthodox Church of St Ephrem"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur aus dem trockenen Innenraum; die Glasfronten bieten einen schönen Blick auf den prasselnden Regen im Garten.",
+                "hu": "Csodálja meg a modern építészetet a száraz belső térből; az üvegfelületeken keresztül szép kilátás nyílik a kertben kopogó esőre.",
+                "ro": "Admirați arhitectura modernă din interiorul uscat; fațadele de sticlă oferă o priveliște frumoasă asupra ploii care cade în grădina bisericii.",
+                "en": "Admire the modern architecture from the dry interior; the glass facades offer a lovely view of the rain falling in the surrounding church gardens."
+              }
+            },
+            {
+              "name": {
+                "de": "Dornier Do 28 D-1",
+                "hu": "Dornier Do 28 D-1",
+                "ro": "Dornier Do 28 D-1",
+                "en": "Dornier Do 28 D-1"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier völlig aus; unter den Tragflächen finden Sie nur bedingt Schutz, halten Sie Ihren Regenschirm also griffbereit.",
+                "hu": "Egy gyors fotómegálló itt bőven elegendő; a szárnyak alatt csak korlátozottan talál menedéket, így tartsa készenlétben az esernyőjét.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă; sub aripi veți găsi adăpost limitat, așa că țineți umbrela la îndemână în orice moment.",
+                "en": "A quick photo stop is sufficient here; the wings provide only limited shelter, so keep your umbrella ready for the short walk back to cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Mecidiye Camii",
+                "hu": "Mecidiye Camii",
+                "ro": "Mecidiye Camii",
+                "en": "Mecidiye Camii"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in der spirituellen Wärme der Moschee; trocknen Sie Ihre Kleidung kurz ab, bevor Sie die weichen Teppiche im Inneren betreten.",
+                "hu": "Zárja a napot a mecset spirituális melegében; rázza le a vizet a ruhájáról, mielőtt a belső tér puha szőnyegeire lépne a szárazság érdekében.",
+                "ro": "Încheiați ziua în căldura spirituală a moscheii; scuturați apa de pe haine înainte de a călca pe covoarele moi din interior pentru confort.",
+                "en": "End your day in the spiritual warmth of the mosque; shake the water off your coat before stepping onto the soft carpets inside for comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Meer ist frisch; wir starten im beheizten Stadtmuseum. Mittags besuchen wir die historischen Sakralbauten, die angenehme Wärme bieten. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das letzte Tageslicht beim Flugzeugdenkmal. Der Abend endet stimmungsvoll bei der beleuchteten Mecidiye-Moschee, während die kühle Brise vom Marmarameer herüberweht.",
+            "hu": "A téli reggel friss tengeri szellővel indul; a fűtött várostörténeti múzeumban kezdünk. Délben a történelmi templomokat és mecseteket látogatjuk meg, melyek kellemes meleget árasztanak. Mivel 17:00 körül már sötétedik, a repülőgépet még világosban nézzük meg. Az este a díszkivilágítású Mecidiye mecsetnél ér véget, miközben a Márvány-tenger felől hideg szél fúj.",
+            "ro": "Dimineața de iarnă la malul mării este revigorantă; începem în muzeul încălzit al orașului. La prânz, vizităm edificiile religioase istorice care oferă o căldură plăcută. Deoarece soarele apune în jurul orei 17:00, profităm de ultima lumină la monumentul aviatic. Seara se încheie atmosferic la Moscheea Mecidiye, în timp ce briza rece suflă dinspre Marea Marmara.",
+            "en": "The winter morning by the sea is crisp; we start in the heated city museum. At noon, we visit the historical religious buildings that offer pleasant warmth. As the sun sets around 17:00, we catch the last daylight at the aircraft monument. The evening ends atmospherically at the illuminated Mecidiye Mosque while the cool breeze blows from the Sea of Marmara."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sanat Evi ve Kent Müzesi",
+                "hu": "Sanat Evi ve Kent Müzesi",
+                "ro": "Sanat Evi ve Kent Müzesi",
+                "en": "Sanat Evi ve Kent Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Ort, um sich aufzuwärmen; genießen Sie die historischen Exponate in der behaglichen Atmosphäre der alten Villa.",
+                "hu": "A múzeum tökéletes hely a bemelegedésre; élvezze a történelmi kiállításokat a régi villaépület hangulatos és fűtött belső tereiben.",
+                "ro": "Muzeul este locul perfect pentru a vă încălzi; bucurați-vă de exponatele istorice în atmosfera primitoare a vechii vile renovate.",
+                "en": "The museum is the perfect place to warm up; enjoy the historical exhibits within the cozy, heated atmosphere of the renovated old villa."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeşilköy Bezmi Alem Cami",
+                "hu": "Yeşilköy Bezmi Alem Cami",
+                "ro": "Yeşilköy Bezmi Alem Cami",
+                "en": "Yeşilköy Bezmi Alem Cami"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Socken, da der Boden trotz Teppichen kühl sein kann; die ruhige Atmosphäre lädt zu einer kurzen Pause in der Winterkälte ein.",
+                "hu": "Viseljen vastag zoknit, mert a padló a szőnyegek ellenére is hűvös lehet; a csendes belsőtér kiváló hely egy rövid pihenőre a téli hidegben.",
+                "ro": "Purtați șosete groase, deoarece podeaua poate fi rece în ciuda covoarelor; atmosfera liniștită este ideală pentru o scurtă pauză de la frig.",
+                "en": "Wear thick socks as the floor can be cool despite the carpets; the quiet atmosphere is perfect for a short break from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Syrisch-Orthodoxe Kirche von St. Ephrem",
+                "hu": "Szent Efrém Szír Ortodox Templom",
+                "ro": "Biserica Ortodoxă Siriacă Sf. Efrem",
+                "en": "The Syriac Orthodox Church of St Ephrem"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Heizung sorgt hier für wohlige Wärme; nutzen Sie die Zeit, um die feinen Details der syrisch-orthodoxen Kunst im Warmen zu studieren.",
+                "hu": "A modern fűtés itt kellemes meleget biztosít; használja ki az időt a szír ortodox művészet finom részleteinek tanulmányozására a jó időben.",
+                "ro": "Sistemul modern de încălzire asigură o căldură plăcută; profitați de timp pentru a studia detaliile artei siriace ortodoxe la adăpost.",
+                "en": "The modern heating system ensures cozy warmth; use this time to study the fine details of Syriac Orthodox art while staying warm indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Dornier Do 28 D-1",
+                "hu": "Dornier Do 28 D-1",
+                "ro": "Dornier Do 28 D-1",
+                "en": "Dornier Do 28 D-1"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Denkmal vor 16:30 Uhr, um das beste Licht zu nutzen; der Wind kann hier an der offenen Straße besonders schneidend sein.",
+                "hu": "Látogassa meg ezt az emlékművet 16:30 előtt a legjobb fényekért; a szél ezen a nyílt útszakaszon télen különösen metsző és hideg lehet.",
+                "ro": "Vizitați acest monument înainte de ora 16:30 pentru cea mai bună lumină; vântul poate fi deosebit de tăios pe această porțiune de drum deschis.",
+                "en": "Visit this monument before 16:30 to make the most of the remaining daylight; the wind can be particularly biting on this open stretch of road."
+              }
+            },
+            {
+              "name": {
+                "de": "Mecidiye Camii",
+                "hu": "Mecidiye Camii",
+                "ro": "Mecidiye Camii",
+                "en": "Mecidiye Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee wirkt in der Winterdämmerung besonders majestätisch; ziehen Sie sich für den Rückweg warm an, wenn die Sonne untergegangen ist.",
+                "hu": "A mecset a téli szürkületben különösen fenséges látványt nyújt; öltözzön fel melegen a visszaúthoz, amint a nap lebukik a horizont alá.",
+                "ro": "Moscheea arată deosebit de maiestuos în amurgul de iarnă; îmbrăcați-vă bine pentru drumul de întoarcere după ce soarele a apus.",
+                "en": "The mosque looks especially majestic in the winter twilight; dress warmly for your return journey once the sun has disappeared below the horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen le a Çiroz strandra egy frissítő reggeli szellőért. A szelíd tengerparti ösvény tökéletes kezdést kínál, mielőtt befelé pedálozna e történelmi isztambuli külváros szívébe.\n\nDélben és ebédidőben kösse le kerékpárját a Városi Múzeum közelében. A helyi örökség felfedezése után tegyen egy rövid utat, hogy megcsodálja a közeli, gyönyörűen részletezett Bezmi Alem mecsetet.\n\nDélutáni kerékpározása a modern szír templomhoz, majd a Mecidiye mecsethez folytatódik. A sík utcák teljesen zökkenőmentessé teszik az átmenetet ezen kulturális helyszínek között.\n\nAz este közeledtével lovagoljon ki a látványos Yeşilköy világítótoronyhoz. A tengerparti sétány megelevenedik, és lenyűgöző panorámát nyújt a csillogó Márvány-tenger felett.",
         "ro": "Pedalați până la Plaja Çiroz pentru o briză răcoroasă de dimineață. Traseul de coastă oferă un început perfect înainte de a merge cu bicicleta spre inima acestei suburbii istorice a Istanbulului.\n\nLa prânz, legați bicicleta lângă Muzeul Orașului. După ce ați absorbit moștenirea locală, faceți o scurtă plimbare pentru a admira Moscheea Bezmi Alem, cu detaliile sale frumoase.\n\nCiclismul de după-amiază continuă către moderna Biserică Siriacă, urmată de Moscheea Mecidiye. Străzile plate fac ca tranziția între aceste diverse situri culturale să fie fără efort.\n\nMergeți spre spectaculosul Far Yeşilköy la lăsarea serii. Promenada de pe malul mării prinde viață, oferind o vedere panoramică superbă la apus asupra mării strălucitoare Marmara.",
         "en": "Pedal down to Çiroz Beach for a refreshing morning breeze. The gentle coastal path offers a perfect start before cycling inland towards the heart of this historical Istanbul suburb.\n\nFor lunch and midday exploration, lock your bike near the City Museum. After absorbing local heritage, take a short ride to admire the beautifully detailed Bezmi Alem Mosque nearby.\n\nYour afternoon cycling continues to the modern Syriac Church, followed by Mecidiye Mosque. The flat streets make transitioning between these diverse cultural sites completely effortless.\n\nRide out to the spectacular Yeşilköy Lighthouse as evening approaches. The seaside promenade comes alive, providing a gorgeous panoramic sunset view of the shimmering Marmara Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Unsere Radtour startet am Strand, wo die Gischt mit dem Regen verschmilzt. Wir radeln vorsichtig auf den nassen Wegen zum Stadtmuseum für eine trockene Pause. Mittags geht es weiter zu den Sakralbauten im Zentrum, wobei wir Pfützen geschickt ausweichen. Nach einem Stopp bei der Mecidiye-Moschee endet die Tour am Leuchtturm, der im grauen Regenwetter besonders nostalgisch wirkt.",
+            "hu": "Bringás túránk a parton indul, ahol a tenger permete keveredik az esővel. Óvatosan tekerünk a vizes utakon a múzeumig egy száraz szünetre. Délben a központ szakrális épületei felé vesszük az irányt, kerülgetve a tócsákat. A Mecidiye mecset érintése után a világítótoronynál zárunk, amely a szürke esőben különösen nosztalgikus látványt nyújt.",
+            "ro": "Turul nostru pe bicicletă începe pe plajă, unde spray-ul mării se amestecă cu ploaia. Pedalăm cu atenție pe drumurile ude spre muzeu pentru o pauză uscată. La prânz, ne îndreptăm spre clădirile religioase din centru, evitând bălțile. După o oprire la Moscheea Mecidiye, turul se încheie la far, care arată deosebit de nostalgic pe vreme ploioasă.",
+            "en": "Our cycling tour starts at the beach, where the sea spray mixes with the rain. We pedal carefully on the wet paths to the city museum for a dry break. At noon, we head towards the religious buildings in the center, skillfully avoiding puddles. After a stop at the Mecidiye Mosque, the tour ends at the lighthouse, which looks particularly nostalgic in the gray rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Çiroz Strand",
+                "hu": "Çiroz Strand",
+                "ro": "Plaja Çiroz",
+                "en": "Çiroz Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Ufer kann bei Regen sehr rutschig sein; fahren Sie langsam und achten Sie auf Pfützen, die tiefer sein könnten, als sie scheinen.",
+                "hu": "A parti kerékpárút esőben nagyon csúszós lehet; tekerjen lassan és ügyeljen a tócsákra, amelyek mélyebbek lehetnek, mint amilyennek látszanak.",
+                "ro": "Pista de biciclete de pe mal poate fi foarte alunecoasă pe ploaie; pedalați încet și atenție la bălțile care pot fi mai adânci decât par.",
+                "en": "The coastal bike path can be very slippery in the rain; ride slowly and watch out for puddles that might be deeper than they initially appear."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanat Evi ve Kent Müzesi",
+                "hu": "Sanat Evi ve Kent Müzesi",
+                "ro": "Sanat Evi ve Kent Müzesi",
+                "en": "Sanat Evi ve Kent Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad an einem geschützten Ort und nutzen Sie den Museumsbesuch, um Ihre Kleidung für die Weiterfahrt etwas zu trocknen.",
+                "hu": "Zárja le kerékpárját egy védett helyen, és használja ki a múzeumlátogatást arra, hogy ruházata kissé megszáradjon a túra folytatása előtt.",
+                "ro": "Asigurați-vă bicicleta într-un loc ferit și folosiți vizita la muzeu pentru a vă usca puțin hainele înainte de a continua traseul.",
+                "en": "Lock your bike in a sheltered spot and use the museum visit as an opportunity to let your gear dry out a bit before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeşilköy Bezmi Alem Cami",
+                "hu": "Yeşilköy Bezmi Alem Cami",
+                "ro": "Yeşilköy Bezmi Alem Cami",
+                "en": "Yeşilköy Bezmi Alem Cami"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad vorsichtig auf dem nassen Pflaster; die Moschee bietet einen ruhigen Moment, um dem prasselnden Regen kurz zu entfliehen.",
+                "hu": "Parkoljon óvatosan a vizes kövezeten; a mecset csendes pillanatot kínál, hogy rövid időre elmeneküljön a szakadó eső és a szél elől.",
+                "ro": "Parcați bicicleta cu atenție pe pavajul ud; moscheea oferă un moment de liniște pentru a scăpa scurt de ploaia torențială de afară.",
+                "en": "Park your bike carefully on the wet pavement; the mosque offers a quiet moment to briefly escape the pouring rain and regroup for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Syrisch-Orthodoxe Kirche von St. Ephrem",
+                "hu": "Szent Efrém Szír Ortodox Templom",
+                "ro": "Biserica Ortodoxă Siriacă Sf. Efrem",
+                "en": "The Syriac Orthodox Church of St Ephrem"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Weg hierher auf den Verkehr, da die Sicht bei Regen eingeschränkt ist; der moderne Kirchenbau ist eine trockene Oase.",
+                "hu": "Ideúton figyeljen fokozottan a forgalomra, mert esőben korlátozottak a látási viszonyok; a modern templomépület igazi száraz oázis.",
+                "ro": "Atenție sporită la trafic în drum spre biserică, deoarece vizibilitatea este redusă pe ploaie; clădirea modernă este o adevărată oază uscată.",
+                "en": "Pay extra attention to traffic on your way here, as visibility is reduced in the rain; the modern church building is a welcome dry oasis."
+              }
+            },
+            {
+              "name": {
+                "de": "Mecidiye Camii",
+                "hu": "Mecidiye Camii",
+                "ro": "Mecidiye Camii",
+                "en": "Mecidiye Camii"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Bremsen auf dem nassen Untergrund gut greifen; nutzen Sie den Besuch für eine letzte Verschnaufpause im Trockenen.",
+                "hu": "Győződjön meg róla, hogy a fékek jól fognak a vizes talajon; használja ki a látogatást egy utolsó száraz pihenőre a torony előtti szakaszon.",
+                "ro": "Asigurați-vă că frânele funcționeze bine pe suprafața umedă; folosiți vizita pentru o ultimă pauză la uscat înainte de segmentul final.",
+                "en": "Ensure your brakes are working effectively on the wet surface; use this visit for one last dry breather before the final stretch to the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Yeşilköy",
+                "hu": "Yeşilköy Világítótorony",
+                "ro": "Farul Yeşilköy",
+                "en": "Yeşilköy Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Boden rund um den Leuchtturm kann schlammig sein; genießen Sie den Blick auf das stürmische Meer, bevor Sie den Rückweg antreten.",
+                "hu": "A világítótorony környékén a talaj sáros lehet; élvezze a viharos tenger látványát, mielőtt teljesen átázna a visszaúton.",
+                "ro": "Terenul din jurul farului poate fi noroios; bucurați-vă de vederea mării înfuriate înainte de a porni pe drumul de întoarcere.",
+                "en": "The ground around the lighthouse can be muddy; enjoy the view of the stormy sea before starting your return journey in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Kleidung gegen den Wind vom Marmarameer. Wir starten am Çiroz Strand und wärmen uns bald im Stadtmuseum auf. Mittags besuchen wir die Sakralbauten, die Schutz vor der Kälte bieten. Vor dem frühen Sonnenuntergang erreichen wir die Mecidiye-Moschee und beenden den Tag am Leuchtturm, wenn die ersten Lichter in der kalten Dämmerung erstrahlen.",
+            "hu": "A téli bringázás meleg öltözetet igényel a Márvány-tenger felől fújó szél miatt. A Çiroz strandnál kezdünk, majd hamar a múzeumban melegszünk fel. Délben a szakrális épületeket látogatjuk meg, melyek védelmet nyújtanak a hideg ellen. A korai naplemente előtt érjük el a Mecidiye mecsetet, és a világítótoronynál zárunk a szürkületben.",
+            "ro": "O plimbare de iarnă cu bicicleta necesită haine groase împotriva vântului de pe Marea Marmara. Începem la plaja Çiroz și ne încălzim curând la muzeu. La prânz, vizităm clădirile religioase care oferă protecție împotriva frigului. Înainte de apusul devreme, ajungem la Moscheea Mecidiye și încheiem la far, în amurgul rece.",
+            "en": "A winter bike ride requires warm clothing against the winds from the Sea of Marmara. We start at Çiroz Beach and soon warm up in the city museum. At noon, we visit the religious buildings that offer protection from the cold. Before the early sunset, we reach the Mecidiye Mosque and end at the lighthouse as the twilight sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Çiroz Strand",
+                "hu": "Çiroz Strand",
+                "ro": "Plaja Çiroz",
+                "en": "Çiroz Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da die Brise vom Meer Ihre Finger beim Radfahren schnell auskühlen lässt; die Aussicht ist jedoch herrlich klar.",
+                "hu": "Viseljen szélálló kesztyűt, mert a tengeri szellő tekerés közben hamar lefagyasztja az ujjait; a kilátás viszont ilyenkor télen rendkívül tiszta.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece briza mării vă va îngheța rapid degetele în timp ce pedalați; totuși, vederea este extrem de clară.",
+                "en": "Wear windproof gloves, as the sea breeze will quickly chill your fingers while cycling; however, the winter air makes the view exceptionally clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanat Evi ve Kent Müzesi",
+                "hu": "Sanat Evi ve Kent Müzesi",
+                "ro": "Sanat Evi ve Kent Müzesi",
+                "en": "Sanat Evi ve Kent Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für ein heißes Getränk in der Nähe, bevor Sie das Museum betreten; die Wärme im Inneren wird Ihre gefrorenen Glieder beleben.",
+                "hu": "Használja ki a megállót egy forró italra a közelben, mielőtt belépne a múzeumba; a benti meleg hamar felélénkíti az elgémberedett tagjait.",
+                "ro": "Folosiți oprirea pentru o băutură caldă în apropiere înainte de a intra în muzeu; căldura din interior vă va revigora membrele amorțite de frig.",
+                "en": "Take the opportunity for a hot drink nearby before entering the museum; the warmth inside will quickly revive your cold limbs after the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeşilköy Bezmi Alem Cami",
+                "hu": "Yeşilköy Bezmi Alem Cami",
+                "ro": "Yeşilköy Bezmi Alem Cami",
+                "en": "Yeşilköy Bezmi Alem Cami"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Teppiche der Moschee sind im Winter eine Wohltat; planen Sie Ihren Besuch so, dass Sie sich kurz von der eisigen Brise erholen können.",
+                "hu": "A mecset vastag szőnyegei valóságos áldást jelentenek télen; tervezze úgy a látogatást, hogy közben kipihenhesse a kinti jeges fuvallatokat.",
+                "ro": "Covoarele groase ale moscheii sunt o binecuvântare iarna; planificați-vă vizita astfel încât să vă puteți odihni puțin de rafalele de vânt rece.",
+                "en": "The mosque's thick carpets are a blessing in winter; plan your visit to take a proper break from the icy gusts of wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Syrisch-Orthodoxe Kirche von St. Ephrem",
+                "hu": "Szent Efrém Szír Ortodox Templom",
+                "ro": "Biserica Ortodoxă Siriacă Sf. Efrem",
+                "en": "The Syriac Orthodox Church of St Ephrem"
+              },
+              "tip_5lang": {
+                "de": "Hier können Sie Ihre Radlerjacke kurz öffnen und die angenehme Innentemperatur genießen, während Sie die sakrale Kunst bewundern.",
+                "hu": "Itt kicipzározhatja a kabátját és élvezheti a kellemes benti hőmérsékletet, miközben a szakrális művészet különleges alkotásaiban gyönyörködik.",
+                "ro": "Aici vă puteți deschide geaca și vă puteți bucura de temperatura interioară plăcută în timp ce admirați operele de artă sacră deosebite.",
+                "en": "Here you can unzip your cycling jacket and enjoy the pleasant indoor temperature while admiring the unique works of sacred art."
+              }
+            },
+            {
+              "name": {
+                "de": "Mecidiye Camii",
+                "hu": "Mecidiye Camii",
+                "ro": "Mecidiye Camii",
+                "en": "Mecidiye Camii"
+              },
+              "tip_5lang": {
+                "de": "Gegen 16:30 Uhr sinken die Temperaturen spürbar; nutzen Sie den Aufenthalt in der Moschee, um sich für das letzte Stück zum Leuchtturm zu wappnen.",
+                "hu": "16:30 körül a hőmérséklet érezhetően zuhanni kezd; használja ki a mecsetben töltött időt, hogy felkészüljön az utolsó, toronyig tartó szakaszra.",
+                "ro": "În jurul orei 16:30, temperaturile scad vizibil; folosiți timpul petrecut în moschee pentru a vă pregăti pentru ultima etapă până la far.",
+                "en": "Around 16:30, the temperature drops noticeably; use your time inside the mosque to brace yourself for the final leg to the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Yeşilköy",
+                "hu": "Yeşilköy Világítótorony",
+                "ro": "Farul Yeşilköy",
+                "en": "Yeşilköy Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm bietet im Winter ein tolles Fotomotiv bei Sonnenuntergang; beeilen Sie sich mit dem Rückweg, bevor es ganz dunkel und frostig wird.",
+                "hu": "A világítótorony télen remek fotótéma naplementekor; siessen a visszaúttal, mielőtt teljesen besötétedik és fagyossá válik a tengerparti levegő.",
+                "ro": "Farul oferă un subiect excelent pentru fotografii la apus iarna; grăbiți-vă cu drumul de întoarcere înainte de a se întuneca de tot.",
+                "en": "The lighthouse makes for a great photo subject at sunset in winter; hurry back before it gets completely dark and the coastal air turns frosty."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós túráját Florya szélén egy vidám megállóval a helyi Lunaparkban. Tegyen egy kényelmes tengerparti sétát, mielőtt kissé keletre hajtana, hogy a Çiroz strand homokján pihenjen.\n\nDélben parkoljon le a Városi Múzeum közelében, hogy felfedezze Yeşilköy gyökereit. Ezután könnyű út vezet a meglepő hadtörténethez, az impozáns Ajax rakétaemlékmű parkjához.\n\nA késő délutánt töltse azzal, hogy buja kertek mellett elhaladva eléri a Szír Ortodox Templomot. A csendes utcák bőséges parkolóhelyet kínálnak, így nyugodtan megcsodálhatja a kőhomlokzatot.\n\nZárja útját az ikonikus Yeşilköy világítótoronynál. Ez a tökéletes tengerparti finálé, ahol parkolhat és tehet egy alkonyati sétát, miközben élvezi a tengeri szellőt és a friss hal illatát.",
         "ro": "Începeți turul cu mașina la marginea orașului Florya cu o oprire distractivă la Lunapark-ul local. Faceți o plimbare pe malul mării înainte de a conduce ușor spre est pentru a vă relaxa pe Plaja Çiroz.\n\nParcați lângă Muzeul Orașului la prânz pentru a explora rădăcinile cartierului Yeşilköy. Apoi, este o călătorie scurtă pentru a descoperi o istorie militară surprinzătoare la monumentul rachetei Ajax.\n\nPetreceți după-amiaza târziu conducând pe lângă grădini luxuriante pentru a ajunge la Biserica Ortodoxă Siriacă. Străzile liniștite oferă parcare amplă pentru a admira fațada din piatră.\n\nÎncheiați-vă călătoria la iconicul Far Yeşilköy. Este finalul de coastă perfect, unde puteți parca și face o plimbare la amurg, bucurându-vă de briza mării și de aromele de pește proaspăt.",
         "en": "Begin your driving tour at the edge of Florya with a fun stop at the local Lunapark. Take a leisurely seaside walk before driving slightly east to relax on the sands of Çiroz Beach.\n\nPark near the City Museum midday to explore Yeşilköy’s roots. Once done, it’s an easy drive to discover surprising military history at the impressive Ajax Missile monument park.\n\nSpend the late afternoon driving past lush gardens to reach the Syriac Orthodox Church. The area's calm streets offer ample parking, letting you take your time admiring the stone facade.\n\nEnd your drive at the iconic Yeşilköy Lighthouse. It’s the perfect coastal finale, where you can park and take a twilight stroll while enjoying the sea breeze and fresh fish aromas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Yeşilköy ganz entspannt trotz Regen. Wir starten beim Lunapark, wo die Fahrgeschäfte im Regen ruhen, und fahren weiter zum Strand für einen Blick aufs stürmische Meer. Mittags bietet das Stadtmuseum ein trockenes Programm. Den Nachmittag verbringen wir bei den Sehenswürdigkeiten im Zentrum, bevor wir am Leuchtturm den Tag im schützenden Auto ausklingen lassen.",
+            "hu": "Autóval kényelmesen felfedezhető Yeşilköy az eső ellenére is. A Lunaparknál kezdünk, ahol a játékok az esőben pihennek, majd a tengerpart felé vesszük az irányt. Délben a városi múzeum kínál száraz programot. A délutánt a központ látnivalóival töltjük, végül a világítótoronynál zárjuk a napot az autó védelmében.",
+            "ro": "Cu mașina, explorăm Yeşilköy relaxați, în ciuda ploii. Începem la Lunapark, unde atracțiile se odihnesc în ploaie, apoi mergem spre plajă. La prânz, muzeul orașului oferă un program la adăpost. După-amiaza o petrecem vizitând obiectivele din centru, iar la final încheiem ziua la far, din siguranța mașinii.",
+            "en": "By car, we explore Yeşilköy comfortably despite the rain. We start at the Lunapark, where the rides rest in the drizzle, then head towards the beach for a view of the stormy sea. At noon, the city museum offers a dry indoor program. We spend the afternoon visiting the central sights, finally ending the day at the lighthouse from the safety of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leroz Lunapark Florya",
+                "hu": "Leroz Lunapark Florya",
+                "ro": "Leroz Lunapark Florya",
+                "en": "Leroz Lunapark Florya"
+              },
+              "tip_5lang": {
+                "de": "Viele Fahrgeschäfte sind bei Regen geschlossen; nutzen Sie den Stopp für einen kurzen Blick auf die bunten Lichter, die sich in den Pfützen spiegeln.",
+                "hu": "Sok játék zárva tarthat esőben; használja ki a megállót a tócsákban tükröződő színes fények megfigyelésére, ami remek fotótéma lehet.",
+                "ro": "Multe atracții pot fi închise pe ploaie; folosiți oprirea pentru a observa luminile colorate reflectate în bălți, un subiect excelent pentru poze.",
+                "en": "Many rides may be closed in the rain; use the stop to observe the colorful lights reflected in the puddles, which makes for a great photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Çiroz Strand",
+                "hu": "Çiroz Strand",
+                "ro": "Plaja Çiroz",
+                "en": "Çiroz Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen direkt aus dem Auto; der Parkplatz bietet oft eine gute Sicht, ohne dass Sie im Regen nass werden müssen.",
+                "hu": "Élvezze a hullámok látványát közvetlenül az autóból; a parkolóból gyakran jó kilátás nyílik a tengerre anélkül, hogy bőrig ázna az esőben.",
+                "ro": "Bucurați-vă de vederea valurilor direct din mașină; parcarea oferă adesea o perspectivă bună asupra mării fără a fi nevoie să vă udați.",
+                "en": "Enjoy the view of the waves directly from your car; the parking area often provides a good perspective of the sea without needing to get wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanat Evi ve Kent Müzesi",
+                "hu": "Sanat Evi ve Kent Müzesi",
+                "ro": "Sanat Evi ve Kent Müzesi",
+                "en": "Sanat Evi ve Kent Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; das Museum ist der ideale Ort, um die Regenzeit mit lokaler Kultur und Geschichte sinnvoll zu füllen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a múzeum ideális hely, hogy az esős időt helyi kultúrával és történelemmel töltsük meg hasznosan.",
+                "ro": "Parcați cât mai aproape de intrare; muzeul este locul ideal pentru a umple timpul ploios cu cultură locală și istorie într-un mod util.",
+                "en": "Park as close to the entrance as possible; the museum is the ideal place to spend a rainy afternoon immersed in local culture and history."
+              }
+            },
+            {
+              "name": {
+                "de": "Nice Ajax Raketenmonument",
+                "hu": "Nice Ajax Rakéta-emlékmű",
+                "ro": "Monumentul Rachetei Nice Ajax",
+                "en": "Nice Ajax Füzesi"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal lässt sich gut vom Beifahrersitz aus betrachten; ein schneller Ausstieg für ein Foto ist dank der Nähe zum Auto kein Problem.",
+                "hu": "Az emlékmű jól látható az anyósülésről is; az autó közelsége miatt egy gyors kiszállás egy fotó erejéig nem jelenthet problémát az esőben.",
+                "ro": "Monumentul poate fi văzut bine de pe scaunul pasagerului; proximitatea mașinii permite o ieșire rapidă pentru o fotografie fără prea mult disconfort.",
+                "en": "The monument is clearly visible from the passenger seat; the car's proximity allows for a quick exit for a photo without getting too wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Syrisch-Orthodoxe Kirche von St. Ephrem",
+                "hu": "Szent Efrém Szír Ortodox Templom",
+                "ro": "Biserica Ortodoxă Siriacă Sf. Efrem",
+                "en": "The Syriac Orthodox Church of St Ephrem"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe, um trockenen Fußes in die Kirche zu gelangen; der Innenraum ist eine wahre Ruheoase im Regen.",
+                "hu": "Használja ki a közeli parkolási lehetőségeket, hogy száraz lábbal jusson be a templomba; a belső tér igazi nyugalmas oázis az esős napokon.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru a ajunge uscat în biserică; interiorul este o adevărată oază de liniște în zilele ploioase.",
+                "en": "Take advantage of nearby parking to reach the church with dry feet; the interior is a true oasis of calm on a gloomy, rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Yeşilköy",
+                "hu": "Yeşilköy Világítótorony",
+                "ro": "Farul Yeşilköy",
+                "en": "Yeşilköy Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Wischer auf Intervall, während Sie den Leuchtturm im Regen betrachten; die Atmosphäre am Ende der Welt ist bei diesem Wetter einzigartig.",
+                "hu": "Hagyja az ablaktörlőt szakaszos üzemmódon, miközben a tornyot figyeli; a világvégi hangulat ebben az időben egészen egyedi és magával ragadó.",
+                "ro": "Lăsați ștergătoarele pe modul intermitent în timp ce priviți farul; atmosfera de la 'capătul lumii' este unică pe o astfel de vreme ploioasă.",
+                "en": "Keep the wipers on intermittent while watching the lighthouse; the 'end of the world' atmosphere is truly unique and captivating in this weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour durch Yeşilköy beginnt im kühlen Lunapark und führt entlang der windigen Küste. Mittags genießen wir die Wärme im Stadtmuseum und in den Sakralbauten des Zentrums. Da es bereits um 17:00 Uhr dunkel wird, planen wir unsere Stopps beim Raketenmonument rechtzeitig ein. Der Tag endet am Leuchtturm, wobei die Autoheizung für wohlige Wärme sorgt.",
+            "hu": "A téli autós túra Yeşilköyben a hűvös Lunaparknál indul, majd a szeles tengerpart mentén folytatódik. Délben a múzeum és a központi templomok melegében pihenünk. Mivel 17:00-kor sötétedik, a rakéta-emlékművet még világosban ejtjük útba. A nap a világítótoronynál ér véget, miközben az autó fűtése gondoskodik a kényelemről.",
+            "ro": "Turul de iarnă cu mașina prin Yeşilköy începe la Lunaparkul răcoros și continuă de-a lungul coastei vântoase. La prânz ne bucurăm de căldura muzeului și a bisericilor din centru. Deoarece se întunecă la 17:00, planificăm vizita la rachetă din timp. Ziua se încheie la far, unde încălzirea mașinii asigură un confort plăcut.",
+            "en": "The winter car tour through Yeşilköy begins at the cool Lunapark and continues along the windy coast. At noon, we enjoy the warmth of the museum and the central religious buildings. As it gets dark by 17:00, we plan our visit to the rocket monument accordingly. The day ends at the lighthouse, with the car's heater providing cozy comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leroz Lunapark Florya",
+                "hu": "Leroz Lunapark Florya",
+                "ro": "Leroz Lunapark Florya",
+                "en": "Leroz Lunapark Florya"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier oft sehr windig; bleiben Sie für einen kurzen Überblick im Auto und steigen Sie nur gezielt für einzelne Attraktionen aus.",
+                "hu": "Télen itt gyakran nagyon erős a szél; maradjon az autóban egy rövid áttekintés erejéig, és csak célirányosan, egy-egy játék kedvéért szálljon ki.",
+                "ro": "Iarna este adesea foarte vânt aici; rămâneți în mașină pentru o scurtă privire de ansamblu și ieșiți doar țintit pentru atracțiile preferate.",
+                "en": "It's often very windy here in winter; stay in the car for a brief overview and only step out specifically for your favorite attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Çiroz Strand",
+                "hu": "Çiroz Strand",
+                "ro": "Plaja Çiroz",
+                "en": "Çiroz Beach"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche See ist ein tolles Motiv; parken Sie so, dass Sie die Brandung beobachten können, ohne sich der eisigen Meeresbrise auszusetzen.",
+                "hu": "A téli tenger látványa lenyűgöző; parkoljon úgy, hogy megfigyelhesse a hullámverést anélkül, hogy kitenné magát a jeges tengeri szélnek.",
+                "ro": "Marea de iarnă este un subiect fascinant; parcați astfel încât să puteți observa valurile fără a vă expune brizei marine înghețate.",
+                "en": "The winter sea is a fascinating sight; park your car so that you can watch the waves crashing without being exposed to the freezing sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanat Evi ve Kent Müzesi",
+                "hu": "Sanat Evi ve Kent Müzesi",
+                "ro": "Sanat Evi ve Kent Müzesi",
+                "en": "Sanat Evi ve Kent Müzesi"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter wunderbar beheizt; nutzen Sie den Besuch, um die Kälte der Küste für eine Weile komplett zu vergessen.",
+                "hu": "A múzeum télen remekül fűtött; használja ki a látogatást, hogy egy időre teljesen elfelejtse a tengerpart felől érkező csípős hideget.",
+                "ro": "Muzeul este bine încălzit iarna; profitați de vizită pentru a uita pentru o vreme de frigul pătrunzător de la malul mării.",
+                "en": "The museum is wonderfully heated in winter; use your visit as an opportunity to completely forget the biting cold from the coast for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Nice Ajax Raketenmonument",
+                "hu": "Nice Ajax Rakéta-emlékmű",
+                "ro": "Monumentul Rachetei Nice Ajax",
+                "en": "Nice Ajax Füzesi"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Wahrzeichen vor dem Einbruch der Dunkelheit um 17:00 Uhr; die Rakete wirkt im klaren Winterlicht besonders beeindruckend.",
+                "hu": "Látogassa meg ezt a nevezetességet a sötétedés beállta előtt (17:00 körül); a rakéta a tiszta téli fényben különösen látványos és impozáns.",
+                "ro": "Vizitați acest obiectiv înainte de lăsarea întunericului (ora 17:00); racheta arată deosebit de impresionant în lumina clară de iarnă.",
+                "en": "Visit this landmark before darkness falls around 17:00; the rocket looks especially impressive and imposing in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Syrisch-Orthodoxe Kirche von St. Ephrem",
+                "hu": "Szent Efrém Szír Ortodox Templom",
+                "ro": "Biserica Ortodoxă Siriacă Sf. Efrem",
+                "en": "The Syriac Orthodox Church of St Ephrem"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine warme Zuflucht vor dem Winterwind; der moderne Bau ist auch bei trübem Wetter im Inneren hell und einladend.",
+                "hu": "A templom meleg menedéket nyújt a téli szél elől; a modern épület borús időben is világos és hívogató belső térrel várja a látogatókat.",
+                "ro": "Biserica oferă un refugiu cald împotriva vântului de iarnă; clădirea modernă are un interior luminos și primitor chiar și pe vreme mohorâtă.",
+                "en": "The church provides a warm sanctuary from the winter wind; even on a gloomy day, the modern building's interior remains bright and welcoming."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Yeşilköy",
+                "hu": "Yeşilköy Világítótorony",
+                "ro": "Farul Yeşilköy",
+                "en": "Yeşilköy Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier im warmen Auto, während Sie zusehen, wie der Leuchtturm in der kalten Winternacht sein Signal über das Meer sendet.",
+                "hu": "Zárja a túrát itt a meleg autóban ülve, miközben nézi, ahogy a torony a hideg téli éjszakában elkezdi küldeni jelzéseit a tenger felé.",
+                "ro": "Încheiați turul aici, stând în mașina caldă și privind cum farul începe să-și trimită semnalele peste mare în noaptea rece de iarnă.",
+                "en": "End your tour here from the comfort of your heated car, watching the lighthouse beam its signal across the sea into the cold winter night."
+              }
+            }
+          ]
+        }
       }
     }
   }

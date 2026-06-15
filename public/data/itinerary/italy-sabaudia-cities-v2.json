@@ -137,6 +137,168 @@
         "hu": "A reggel Sabaudia racionalista szívében indul, ahol a Salone San Francesco és az Emilio Greco Múzeum lenyűgöző bevezetést nyújt a város építészeti és művészeti gyökereibe. Délben a régió tengeri történelmével ismerkedhet meg a Marcello Zei Múzeumban. A délután arra csábít, hogy pihenjen a Lido Azzurro aranyhomokján, engedve, hogy a hűs tengeri szellő felfrissítse. Ahogy közeledik az este, sétáljon el a stílusos Lamante Beach Clubba, hogy megcsodálja a festői naplementét a hullámok felett.",
         "ro": "Dimineața dumneavoastră începe în inima raționalistă a Sabaudiei, unde Salone San Francesco și Muzeul Emilio Greco oferă o introducere arhitecturală. La prânz, veți explora istoria antică la Muzeul Marcello Zei, descoperind comori preistorice uimitoare. După-amiaza vă invită să vă relaxați pe nisipurile aurii ale Lido Azzurro, lăsând briza mării să vă răcorească. Odată cu lăsarea serii, mergeți către elegantul Lamante Beach Club pentru un apus de soare pitoresc peste valurile mării Tireniene.",
         "en": "Your morning starts in the rationalist heart of Sabaudia, where the Salone San Francesco and the Museo Emilio Greco provide a fascinating introduction to the town's architectural and artistic roots. At midday, you'll delve into the region's ancient marine history at the Marcello Zei Museum, uncovering prehistoric treasures. The afternoon invites you to relax on the golden sands of Lido Azzurro, letting the sea breeze refresh you. As evening approaches, stroll down to the stylish Lamante Beach Club for a picturesque sunset over the Tyrrhenian waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Sabaudia zeigt bei Regen seinen melancholischen Charme. Der Vormittag gehört den kühlen Hallen und Museen der Stadt. Mittags bietet die rationale Architektur Schutz unter ihren weiten Arkaden. Der Nachmittag am Meer ist stürmisch und beeindruckend, während die Lichter am Abend auf dem nassen Travertin des Zentrums tanzen. Ein Tag für Entdecker, die den Schutz der Innenräume schätzen.",
+            "hu": "Sabaudia esőben is különleges arcát mutatja a modernista árkádok védelmében. A délelőtt a múzeumoké, ahol fedett helyen ismerhetjük meg a város művészetét. Délben a racionalista épületek nyújtanak menedéket. Délután a tengerparti szél és a viharos hullámok látványa dominál, míg az este a vizes aszfalton tükröződő városi fényekkel zárul. Érdemes vízálló cipővel készülni.",
+            "ro": "Sabaudia își dezvăluie farmecul melancolic sub ploaie, protejată de arcadele sale largi. Dimineața este dedicată muzeelor interioare. La prânz, arhitectura raționalistă oferă adăpost natural. După-amiaza aduce spectacolul valurilor agitate la malul mării, iar seara se încheie cu reflexiile luminilor pe travertinul umed din centru. O zi perfectă pentru explorări culturale la adăpost.",
+            "en": "Sabaudia shows a melancholic charm in the rain, sheltered by its rationalist arches. The morning is dedicated to indoor museums and halls. At noon, the town's architecture provides natural cover. The afternoon features the dramatic sight of stormy waves at the coast, while the evening ends with city lights reflecting on the wet travertine. A day for those who appreciate indoor cultural gems."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Salone San Francesco",
+                "hu": "Salone San Francesco",
+                "ro": "Salone San Francesco",
+                "en": "Salone San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fresken im Inneren dieser beeindruckenden Halle, die ein perfektes, trockenes Refugium vor dem morgendlichen Regen bietet; der Eingang ist direkt vom Platz erreichbar.",
+                "hu": "Csodáld meg a freskókat ebben a monumentális teremben, amely tökéletes száraz menedéket nyújt a reggeli zápor elől; a bejárat közvetlenül a térről nyílik.",
+                "ro": "Admirați frescele din interiorul acestei săli impresionante, care oferă un refugiu uscat perfect împotriva ploii de dimineață; intrarea este accesibilă direct din piață.",
+                "en": "Admire the frescoes inside this grand hall, which offers a perfect dry refuge from the morning rain; the entrance is easily accessible directly from the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Emilio Greco",
+                "hu": "Museo Emilio Greco",
+                "ro": "Museo Emilio Greco",
+                "en": "Museo Emilio Greco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum, um die eleganten Bronzeskulpturen zu studieren, während draußen der Regen fällt; die Innenbeleuchtung setzt die Kunstwerke heute besonders schön in Szene.",
+                "hu": "Használd ki az időt a múzeumban az elegáns bronzszobrok tanulmányozására, amíg kint esik; a benti világítás ma különösen szépen emeli ki a műalkotások részleteit.",
+                "ro": "Folosiți timpul în muzeu pentru a studia sculpturile elegante de bronz în timp ce afară plouă; iluminatul interior pune în valoare piesele de artă într-un mod deosebit astăzi.",
+                "en": "Use your time in the museum to study the elegant bronze sculptures while it rains outside; the indoor lighting highlights the artworks beautifully on a overcast day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare e della Costa “Marcello Zei”",
+                "hu": "Museo del Mare e della Costa “Marcello Zei”",
+                "ro": "Museo del Mare e della Costa “Marcello Zei”",
+                "en": "Museo del Mare e della Costa “Marcello Zei”"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die maritime Geschichte der Region unter einem sicheren Dach; ein idealer Ort, um einen stärkeren Regenschauer abzuwarten, während man antike Funde bestaunt.",
+                "hu": "Fedezd fel a régió tengeri történelmét biztos tető alatt; ideális hely egy nagyobb zápor átvészelésére, miközben az ókori leleteket böngészed.",
+                "ro": "Descoperiți istoria maritimă a regiunii sub un acoperiș sigur; un loc ideal pentru a aștepta trecerea unei averse mai puternice în timp ce admirați descoperirile antice.",
+                "en": "Discover the region's maritime history under a safe roof; an ideal spot to wait out a heavy downpour while browsing through fascinating ancient coastal artifacts."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Azzurro",
+                "hu": "Lido Azzurro",
+                "ro": "Lido Azzurro",
+                "en": "Lido Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die wilden Wellen von der überdachten Terrasse des Clubs aus; bringen Sie eine windfeste Jacke mit, da die Gischt bei Regen weit über den Strand sprühen kann.",
+                "hu": "Figyeld a vad hullámokat a klub fedett teraszáról; hozz szélálló kabátot, mert esőben a tenger permete messzire eljuthat a parton.",
+                "ro": "Observați valurile sălbatice de pe terasa acoperită a clubului; aduceți o jachetă rezistentă la vânt, deoarece aerosolii marini pot ajunge departe pe plajă în timpul ploii.",
+                "en": "Watch the wild waves from the club's covered terrace; bring a windproof jacket as the sea spray can travel far across the beach during a rainy gale."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamante Beach Club",
+                "hu": "Lamante Beach Club",
+                "ro": "Lamante Beach Club",
+                "en": "Lamante Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das graue Meer bei einem Heißgetränk im geschützten Bereich; der Kontrast zwischen der rauen Natur und der warmen Atmosphäre im Inneren ist heute einmalig.",
+                "hu": "Élvezd a szürke tenger látványát egy forró ital mellett a védett részen; a zord természet és a benti meleg hangulat közötti kontraszt ma egyedülálló élményt nyújt.",
+                "ro": "Bucurați-vă de vederea mării cenușii cu o băutură caldă în zona protejată; contrastul dintre natura aspră și atmosfera caldă din interior este unic astăzi.",
+                "en": "Enjoy the view of the grey sea with a hot drink in the sheltered area; the contrast between the harsh nature and the warm indoor atmosphere is unique today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Sabaudia ist ruhig und von klarem Licht geprägt. Die Architektur wirkt in der kühlen Luft noch schärfer. Der Vormittag lädt zu Museumsbesuchen ein, um sich aufzuwärmen. Am Nachmittag erleben wir die einsamen Dünen unter der tiefstehenden Sonne, bevor der Tag gegen 17:00 Uhr mit einem frühen, goldenen Sonnenuntergang am See oder Meer endet.",
+            "hu": "A tél Sabaudiában csendes és tiszta fényekkel teli. A racionalista épületek még élesebben rajzolódnak ki a hűvös levegőben. A délelőtt a múzeumi melegedésé, míg a délután az üres dűnék közötti sétáé. A nap korán, délután 5 körül ér véget egy aranybarna naplementével, ezért érdemes rétegesen öltözködni a tengerparti szél ellen.",
+            "ro": "Iarna în Sabaudia este liniștită și dominată de o lumină clară. Arhitectura pare și mai precisă în aerul rece. Dimineața este perfectă pentru muzee călduroase, iar după-amiaza pentru plimbări pe dunele pustii. Ziua se încheie devreme, în jurul orei 17:00, cu un apus auriu superb peste lac sau mare.",
+            "en": "Winter in Sabaudia is quiet and filled with crisp, clear light. The architecture looks even sharper in the cool air. The morning is best spent in warm museums, while the afternoon invites a stroll along the empty dunes. The day ends early, around 5 PM, with a golden sunset over the sea, so dress in warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Salone San Francesco",
+                "hu": "Salone San Francesco",
+                "ro": "Salone San Francesco",
+                "en": "Salone San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klaren Linien der rationalistischen Architektur im scharfen Winterlicht; die Kirche ist morgens oft angenehm beheizt und bietet einen friedlichen Start in den Tag.",
+                "hu": "Csodáld meg a racionalista építészet tiszta vonalait az éles téli fényben; a templom reggelente gyakran kellemesen fűtött, békés kezdést biztosítva a napnak.",
+                "ro": "Admirați liniile clare ale arhitecturii raționaliste în lumina tăioasă de iarnă; biserica este adesea încălzită plăcut dimineața, oferind un început de zi liniștit.",
+                "en": "Admire the clean lines of rationalist architecture in the sharp winter light; the church is often pleasantly heated in the morning, providing a peaceful start to your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Emilio Greco",
+                "hu": "Museo Emilio Greco",
+                "ro": "Museo Emilio Greco",
+                "en": "Museo Emilio Greco"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf und genießen Sie die Stille der Nebensaison; die Bronzestatuen wirken im kühlen Licht der Wintersonne besonders plastisch.",
+                "hu": "Melegedj fel a kiállítótermekben, és élvezd a holtszezon csendjét; a bronzszobrok a téli napsütés hűvös fényében különösen plasztikusnak tűnnek.",
+                "ro": "Încălziți-vă în sălile de expoziție și bucurați-vă de liniștea din extrasezon; statuile de bronz par deosebit de plastice în lumina rece a soarelui de iarnă.",
+                "en": "Warm up in the exhibition halls and enjoy the silence of the off-season; the bronze statues look particularly sculptural in the cool winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare e della Costa “Marcello Zei”",
+                "hu": "Museo del Mare e della Costa “Marcello Zei”",
+                "ro": "Museo del Mare e della Costa “Marcello Zei”",
+                "en": "Museo del Mare e della Costa “Marcello Zei”"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Stopp, um der kalten Meeresbrise zu entkommen; lernen Sie im Warmen mehr über die Flora und Fauna des Nationalparks Circeo, bevor Sie an den Strand gehen.",
+                "hu": "Kiváló megálló, hogy elmenekülj a hideg tengeri szellő elől; tudj meg többet a Circeo Nemzeti Park élővilágáról a melegben, mielőtt kivonulnál a partra.",
+                "ro": "O oprire excelentă pentru a scăpa de briza rece a mării; aflați mai multe despre flora și fauna Parcului Național Circeo la căldură înainte de a merge pe plajă.",
+                "en": "An excellent stop to escape the cold sea breeze; learn more about the flora and fauna of the Circeo National Park in the warmth before heading out to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Azzurro",
+                "hu": "Lido Azzurro",
+                "ro": "Lido Azzurro",
+                "en": "Lido Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen langen Spaziergang am leeren Strand, aber tragen Sie eine Mütze gegen den Wind; das Licht auf dem Meer ist im Winter besonders klar und fotogen.",
+                "hu": "Tegyél egy hosszú sétát az üres strandon, de viselj sapkát a szél ellen; a tenger feletti fények télen különösen tiszták és fotogének.",
+                "ro": "Faceți o plimbare lungă pe plaja pustie, dar purtați o căciulă împotriva vântului; lumina de deasupra mării este deosebit de clară și fotogenică iarna.",
+                "en": "Take a long walk on the empty beach, but wear a hat against the wind; the light over the sea is particularly clear and photogenic during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamante Beach Club",
+                "hu": "Lamante Beach Club",
+                "ro": "Lamante Beach Club",
+                "en": "Lamante Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr; die sinkende Sonne färbt die Dünen und das Meer in tiefe Goldtöne, ein Spektakel, das man am besten dick eingepackt erlebt.",
+                "hu": "Élvezd a naplementét délután 5 óra körül; a lemenő nap mély arany tónusokba öltözteti a dűnéket és a tengert, amit a legjobb vastag ruhába bújva csodálni.",
+                "ro": "Bucurați-vă de apus în jurul orei 17:00; soarele la apus colorează dunele și marea în nuanțe aurii profunde, un spectacol ce trebuie trăit bine înfofolit.",
+                "en": "Enjoy the sunset around 5:00 PM; the setting sun dyes the dunes and the sea in deep golden tones, a spectacle best experienced while wrapped up warmly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros túráját az Emilio Greco Múzeum kulturális élményével, csodás bronzszobrokat felfedezve, mielőtt elhagyja a városközpontot. Délben a buja Circeo Nemzeti Park felé tekerve megismerheti a helyi élővilágot a Természettudományi Múzeumban. A délutánt az UNESCO Bioszféra-rezervátum nyugodt útjainak szentelheti, teljesen körbevéve a természettel. Végül elérve a nyüzsgő partot a Lido Coalsánál, a napot a Lamante Beach Club tengerparti kilátásával zárhatja.",
         "ro": "Începeți călătoria cu bicicleta cu o doză de cultură la Muzeul Emilio Greco, explorând frumoase lucrări din bronz înainte de a ieși din oraș. La prânz, pedalând spre Parcul Național Circeo, veți descoperi flora locală la Muzeul Naturalistic. După-amiaza este dedicată unei plimbări pitorești prin liniștita Rezervație a Biosferei UNESCO, complet înconjurați de natură. În cele din urmă, veți ajunge pe coasta la Lido Coalsa și veți încheia ziua la Lamante Beach Club.",
         "en": "Kick off your cycling journey with a dose of culture at the Museo Emilio Greco, exploring beautiful bronze works before leaving the town center. By midday, pedaling towards the lush Circeo National Park, you'll discover local flora and fauna at the Museo Naturalistico. The afternoon is dedicated to a scenic ride through the tranquil UNESCO Biosphere Reserve, completely surrounded by nature. Finally, you will reach the vibrant coast at Lido Coalsa and end the day with seaside views at the Lamante Beach Club."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Wegen des Parks. Der Vormittag bietet Kultur im Museum, um trocken zu starten. Mittags geht es durch den schützenden Wald, wo die Blätter den Regen dämpfen. Der Nachmittag am See ist erfrischend, aber achten Sie auf Pfützen. Den Abend lassen wir bei einem warmen Getränk im Zentrum ausklingen.",
+            "hu": "A biciklizés esőben óvatosságot igényel a park csúszós útjain. A délelőtt a múzeumi kultúráé, hogy szárazon kezdjük a napot. Délben a dús erdő lombjai nyújtanak némi védelmet az eső ellen. A délutáni tóparti tekerés frissítő, de figyeljünk a tócsákra. Az estét egy meleg ital mellett fejezzük be a központban.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe drumurile alunecoase din parc. Dimineața oferă cultură la muzeu pentru un start uscat. La prânz, pădurea oferă o protecție naturală împotriva stropilor. După-amiaza la lac este revigorantă, dar atenție la bălți. Seara se încheie cu o băutură caldă în centru.",
+            "en": "Cycling in the rain requires caution on the slippery park paths. The morning offers culture at the museum for a dry start. At noon, the dense forest canopy provides some shelter from the rain. The afternoon lakeside ride is refreshing, but watch out for puddles. The evening concludes with a warm drink in the center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Emilio Greco",
+                "hu": "Museo Emilio Greco",
+                "ro": "Museo Emilio Greco",
+                "en": "Museo Emilio Greco"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad unter den Arkaden und genießen Sie die Ausstellung im Trockenen; die Ruhe im Museum ist der perfekte Kontrast zum prasselnden Regen draußen.",
+                "hu": "Zárd le a biciklidet az árkádok alatt, és élvezd a kiállítást szárazon; a múzeum csendje tökéletes kontrasztot alkot a kinti kopogó esővel.",
+                "ro": "Asigurați bicicleta sub arcade și bucurați-vă de expoziție la adăpost; liniștea din muzeu este contrastul perfect pentru ploaia de afară.",
+                "en": "Secure your bike under the arches and enjoy the exhibition in the dry; the museum's quiet is a perfect contrast to the pattering rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Naturalistico",
+                "hu": "Museo Naturalistico",
+                "ro": "Museo Naturalistico",
+                "en": "Museo Naturalistico"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Zwischenstopp im Wald, um sich aufzuwärmen und mehr über die Ökologie des Parks zu lernen; die Wege hierher können im Regen etwas matschig sein.",
+                "hu": "Ideális pihenőhely az erdőben, ahol felmelegedhetsz és többet tudhatsz meg a park ökológiájáról; az idevezető utak esőben kissé sárosak lehetnek.",
+                "ro": "O oprire ideală în pădure pentru a vă încălzi și a învăța mai multe despre ecologia parcului; potecile până aici pot fi puțin noroioase pe ploaie.",
+                "en": "An ideal stopover in the forest to warm up and learn about the park's ecology; keep in mind that the trails here can be a bit muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva della Biosfera UNESCO",
+                "hu": "Riserva della Biosfera UNESCO",
+                "ro": "Riserva della Biosfera UNESCO",
+                "en": "Riserva della Biosfera UNESCO"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den befestigten Wegen und bewundern Sie, wie das Grün des Waldes im Regen intensiver leuchtet; ein kurzes Unterstellen unter Bäumen hilft bei Schauern.",
+                "hu": "Tekerj óvatosan a kiépített utakon, és csodáld meg, ahogy az erdő zöldje még intenzívebbé válik az esőben; egy rövid pihenő a fák alatt védelmet nyújt.",
+                "ro": "Pedalați cu atenție pe drumurile pavate și admirați cum verdele pădurii devine mai intens sub ploaie; adăpostiți-vă scurt sub copaci în caz de aversă.",
+                "en": "Ride carefully on the paved paths and admire how the forest green glows more intensely in the rain; taking brief cover under the trees helps during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Coalsa",
+                "hu": "Lido Coalsa",
+                "ro": "Lido Coalsa",
+                "en": "Lido Coalsa"
+              },
+              "tip_5lang": {
+                "de": "Die Strandnähe ist bei Regen rau und windig; nutzen Sie die überdachten Bereiche für eine kurze Pause und genießen Sie den Blick auf das aufgewühlte Meer.",
+                "hu": "A tengerpart esőben zord és szeles; használd a fedett részeket egy rövid pihenőre, és élvezd a felkavart tenger látványát.",
+                "ro": "Zona de plajă este aspră și vântoasă pe ploaie; folosiți zonele acoperite pentru o scurtă pauză și bucurați-vă de vederea mării agitate.",
+                "en": "The beachfront is harsh and windy in the rain; make use of the covered areas for a short break and enjoy the view of the churning sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamante Beach Club",
+                "hu": "Lamante Beach Club",
+                "ro": "Lamante Beach Club",
+                "en": "Lamante Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Nach der nassen Tour ist dies der perfekte Ort zum Aufwärmen; parken Sie das Rad sicher und trocknen Sie sich bei einer heißen Schokolade ab.",
+                "hu": "A vizes túra után ez a tökéletes hely a felmelegedésre; parkold le biztonságban a gépet, és szárítkozz meg egy forró csokoládé mellett.",
+                "ro": "După tura udă, acesta este locul perfect pentru încălzire; parcați bicicleta în siguranță și uscați-vă cu o ciocolată caldă.",
+                "en": "After the wet ride, this is the perfect spot to warm up; park your bike securely and dry off over a steaming cup of hot chocolate."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Sabaudia bietet klare Sicht und frische Waldluft. Der Vormittag startet mit Kunst im Museum. Mittags erkunden wir den schattigen Nationalpark, in dem es kühl sein kann. Der Nachmittag am See bietet spektakuläre Spiegelungen der tiefstehenden Sonne, bevor wir rechtzeitig vor Sonnenuntergang um 17:00 Uhr die Tour beenden und uns im Zentrum aufwärmen.",
+            "hu": "A téli biciklizés Sabaudiában tiszta látási viszonyokat és friss erdei levegőt kínál. A délelőtt múzeumi látogatással indul. Délben a nemzeti park árnyas útjain tekerünk, ahol hűvös lehet a levegő. A délutáni tóparti szakasz a lemenő nap fényeiben gyönyörű, de fejezzük be a túrát 5 előtt, mielőtt lehűl az idő.",
+            "ro": "Ciclismul de iarnă în Sabaudia oferă vizibilitate clară și aer proaspăt de pădure. Dimineața începe cu artă la muzeu. La prânz explorăm parcul național umbros, unde aerul poate fi rece. După-amiaza la lac oferă reflexii spectaculoase ale soarelui jos, înainte de a termina tura la ora 17:00 pentru a ne încălzi în centru.",
+            "en": "Winter cycling in Sabaudia offers clear views and fresh forest air. The morning starts with art at the museum. At noon, we explore the shaded national park, where the air can be quite chilly. The afternoon by the lake features spectacular reflections of the low sun, so finish the tour by 5 PM to beat the cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Emilio Greco",
+                "hu": "Museo Emilio Greco",
+                "ro": "Museo Emilio Greco",
+                "en": "Museo Emilio Greco"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Start im Warmen; nutzen Sie den Besuch, um die Muskulatur aufzuwärmen, bevor Sie in die kühle Brise des Küstenwaldes aufbrechen.",
+                "hu": "Kulturális kezdés a melegben; használd ki a látogatást az izmaid bemelegítésére, mielőtt nekivágnál a tengerparti erdő hűvös szelének.",
+                "ro": "Un start cultural la căldură; folosiți vizita pentru a vă încălzi musculatura înainte de a porni în briza rece a pădurii de coastă.",
+                "en": "A cultural start in the warmth; use this visit to warm up your muscles before heading out into the cool breeze of the coastal forest."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Naturalistico",
+                "hu": "Museo Naturalistico",
+                "ro": "Museo Naturalistico",
+                "en": "Museo Naturalistico"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die Winterökologie des Parks; dieser Ort bietet Schutz vor dem Wind, der im Winter oft kräftig durch die Pinien weht.",
+                "hu": "Tudj meg többet a park téli ökológiájáról; ez a hely védelmet nyújt a szél ellen, amely télen gyakran erősen fúj a fenyőfák között.",
+                "ro": "Aflați mai multe despre ecologia de iarnă a parcului; acest loc oferă protecție împotriva vântului care iarna suflă adesea puternic printre pini.",
+                "en": "Learn about the park's winter ecology; this location provides excellent shelter from the wind that often blows strongly through the pines in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva della Biosfera UNESCO",
+                "hu": "Riserva della Biosfera UNESCO",
+                "ro": "Riserva della Biosfera UNESCO",
+                "en": "Riserva della Biosfera UNESCO"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des Waldes; tragen Sie Handschuhe, da der Fahrtwind zwischen den schattigen Bäumen im Winter sehr beißen kann.",
+                "hu": "Élvezd az erdő csendjét; viselj kesztyűt, mert az árnyas fák között a menetszél télen nagyon metsző tud lenni.",
+                "ro": "Bucurați-vă de liniștea pădurii; purtați mănuși, deoarece curentul de aer printre copacii umbroși poate fi foarte tăios iarna.",
+                "en": "Enjoy the silence of the forest; wear gloves, as the wind chill while riding between the shaded trees can be quite biting in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Coalsa",
+                "hu": "Lido Coalsa",
+                "ro": "Lido Coalsa",
+                "en": "Lido Coalsa"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Ort für eine kurze Rast; die Wintersonne glitzert herrlich auf dem Wasser, aber halten Sie sich wegen der Kälte nicht zu lange unbeweglich auf.",
+                "hu": "Magányos hely egy rövid pihenőre; a téli nap gyönyörűen csillog a vízen, de a hideg miatt ne maradj túl sokáig egy helyben.",
+                "ro": "Un loc solitar pentru o scurtă odihnă; soarele de iarnă sclipeste superb pe apă, dar nu stați nemișcați prea mult timp din cauza frigului.",
+                "en": "A solitary spot for a quick rest; the winter sun glitters beautifully on the water, but don't stay still for too long due to the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Lamante Beach Club",
+                "hu": "Lamante Beach Club",
+                "ro": "Lamante Beach Club",
+                "en": "Lamante Beach Club"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit dem goldenen Licht des frühen Sonnenuntergangs; ein heißer Tee ist die beste Belohnung nach der frostigen Radfahrt.",
+                "hu": "Zárd a túrát a korai naplemente aranyló fényeivel; egy forró tea a legjobb jutalom a fagyos biciklizés után.",
+                "ro": "Încheiați tura cu lumina aurie a apusului devreme; un ceai fierbinte este cea mai bună recompensă după plimbarea geroasă cu bicicleta.",
+                "en": "End your tour with the golden light of the early sunset; a hot tea is the best reward after a frosty bike ride along the dunes."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "A festői autózás a Marcello Zei Múzeum tengeri felfedezéseivel kezdődik, visszakövetve a partvonal és ősi lakóinak fejlődését. Délben beljebb haladva a történelmi Lestra építményeit tekintheti meg, közvetlenül az érintetlen UNESCO Bioszféra-rezervátum előtt. Délután visszatér a központba, hogy megcsodálja a Salone San Francesco racionalista dizájnját. A nap tökéletesen zárul a Lido Azzurrónál, ahol a közelben parkolva élvezheti a tengerpart feletti élénk naplementét.",
         "ro": "Plimbarea dumneavoastră începe cu descoperiri la Muzeul Marcello Zei, urmărind evoluția coastei locale și a locuitorilor săi antici. La prânz, mergeți spre interior pentru a vedea structurile istorice Lestra și Rezervația curată a Biosferei UNESCO. După-amiaza, vă întoarceți în centrul urban pentru a admira designul raționalist al Salone San Francesco. Ziua se încheie perfect la Lido Azzurro, unde puteți parca aproape și vă puteți bucura de apusul vibrant de pe țărm.",
         "en": "Your scenic drive begins with maritime discoveries at the Marcello Zei Museum, tracing the evolution of the local coastline and its ancient inhabitants. Midday takes you further inland to see the historic Lestra structures, right before entering the pristine and expansive UNESCO Biosphere Reserve. In the afternoon, return to the urban center to admire the rationalist design of the Salone San Francesco. The day perfectly winds down at Lido Azzurro, where you can park nearby and enjoy the vibrant sunset over the shore."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt ist die komfortabelste Art, Sabaudia im Regen zu erleben. Der Vormittag führt zu maritimen Museen im Trockenen. Mittags genießen wir die Panoramafahrt durch den nassen Wald zum See. Der Nachmittag bietet kulturelle Einblicke im Zentrum, während wir den Wagen nah an den Eingängen parken können. Der Abend endet gemütlich bei einer Fahrt durch die beleuchtete Stadt.",
+            "hu": "Az autós túra a legkényelmesebb módja Sabaudia felfedezésének esőben. A délelőtt a tengeri múzeumoké, száraz kényelemben. Délben élvezzük a panorámás autózást a vizes erdőn keresztül a tóig. A délután kulturális élményeket kínál a központban, ahol közel parkolhatunk a bejáratokhoz. Az este a kivilágított városban tett autózással zárul.",
+            "ro": "O plimbare cu mașina este cel mai confortabil mod de a vedea Sabaudia pe ploaie. Dimineața duce la muzee maritime la adăpost. La prânz ne bucurăm de drumul panoramic prin pădurea umedă spre lac. După-amiaza oferă perspective culturale în centru, unde putem parca aproape de intrări. Seara se încheie plăcut cu o tură prin orașul iluminat.",
+            "en": "A car tour is the most comfortable way to experience Sabaudia in the rain. The morning takes you to maritime museums in dry comfort. At noon, enjoy a scenic drive through the wet forest to the lake. The afternoon offers cultural insights in the center, with the convenience of parking near entrances. The evening ends with a drive through the lit city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mare e della Costa “Marcello Zei”",
+                "hu": "Museo del Mare e della Costa “Marcello Zei”",
+                "ro": "Museo del Mare e della Costa “Marcello Zei”",
+                "en": "Museo del Mare e della Costa “Marcello Zei”"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Museum und flüchten Sie ins Innere, um antike maritime Schätze zu entdecken; ideal für einen regenreichen Vormittag.",
+                "hu": "Parkolj közvetlenül a múzeumnál, és menekülj be az ókori tengeri kincsek közé; ideális program egy esős délelőttre.",
+                "ro": "Parcați chiar lângă muzeu și refugiați-vă în interior pentru a descoperi comori maritime antice; ideal pentru o dimineață ploioasă.",
+                "en": "Park right by the museum and escape inside to discover ancient maritime treasures; a perfect activity for a rainy morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Lestra",
+                "hu": "Lestra",
+                "ro": "Lestra",
+                "en": "Lestra"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie diesen historischen Ort kurz aus dem Wagen oder mit Schirm; die Atmosphäre der alten Siedlung ist im Nebel und Regen besonders mystisch.",
+                "hu": "Tekintsd meg ezt a történelmi helyet röviden az autóból vagy esernyővel; a régi település hangulata ködben és esőben különösen misztikus.",
+                "ro": "Vedeți acest loc istoric scurt din mașină sau cu umbrela; atmosfera vechii așezări este deosebit de mistică în ceață și ploaie.",
+                "en": "View this historical site briefly from the car or with an umbrella; the atmosphere of the old settlement is especially mystical in the mist and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva della Biosfera UNESCO",
+                "hu": "Riserva della Biosfera UNESCO",
+                "ro": "Riserva della Biosfera UNESCO",
+                "en": "Riserva della Biosfera UNESCO"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt auf den Waldwegen und halten Sie an Aussichtspunkten; der Wald schirmt den Wind ab, aber die Straße kann durch nasses Laub rutschig sein.",
+                "hu": "Élvezd az autózást az erdei utakon és állj meg a kilátópontoknál; az erdő felfogja a szelet, de az út a vizes levelektől csúszós lehet.",
+                "ro": "Bucurați-vă de drumul prin pădure și opriți la punctele de belvedere; pădurea oprește vântul, dar drumul poate fi alunecos din cauza frunzelor ude.",
+                "en": "Enjoy driving through the forest roads and stop at the viewpoints; the trees block the wind, but the road can be slippery due to wet fallen leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Salone San Francesco",
+                "hu": "Salone San Francesco",
+                "ro": "Salone San Francesco",
+                "en": "Salone San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten auf der Piazza, um mit wenigen Schritten ins Trockene der beeindruckenden Halle zu gelangen; perfekt für eine Pause vom Regen.",
+                "hu": "Használd ki a téri parkolást, hogy pár lépéssel a lenyűgöző terem száraz belső terébe juss; tökéletes pihenő az eső elől.",
+                "ro": "Folosiți parcarea din piață pentru a ajunge în câteva secunde la interiorul uscat al sălii impresionante; o pauză perfectă de la ploaie.",
+                "en": "Use the parking facilities in the square to reach the dry interior of the impressive hall in just a few steps; a perfect break from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Azzurro",
+                "hu": "Lido Azzurro",
+                "ro": "Lido Azzurro",
+                "en": "Lido Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer aus der Sicherheit Ihres Autos oder vom überdachten Strandclub; die Kraft der Natur ist heute vom Warmen aus am besten zu genießen.",
+                "hu": "Figyeld a viharos tengert az autód biztonságából vagy a fedett strandklubból; a természet ereje ma a melegből élvezhető a legjobban.",
+                "ro": "Observați marea agitată din siguranța mașinii sau de la clubul de plajă acoperit; forța naturii este cel mai bine savurată astăzi de la căldură.",
+                "en": "Watch the stormy sea from the safety of your car or from the covered beach club; the power of nature is best enjoyed from the warmth today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt durch Sabaudia bietet klare Ausblicke ohne die Hitze des Sommers. Der Vormittag ist ideal für Museumsbesuche im Warmen. Mittags erkunden wir die Nationalparkstraßen, wo das Sonnenlicht durch die kahlen Zweige bricht. Der Nachmittag am Meer endet mit einem grandiosen Sonnenuntergang gegen 17:00 Uhr, den wir bequem vom Wagen aus verfolgen können.",
+            "hu": "A téli autós túra Sabaudiában tiszta kilátást kínál a nyári hőség nélkül. A délelőtt ideális a múzeumi melegedéshez. Délben a nemzeti park útjait járjuk, ahol a napfény áttör a csupasz ágak között. A délutáni tengerparti szakasz egy grandiózus naplementével zárul 5 óra körül, amit kényelmesen az autóból is nézhetünk.",
+            "ro": "Drumul cu mașina iarna prin Sabaudia oferă vederi clare fără căldura verii. Dimineața este ideală pentru muzee călduroase. La prânz explorăm drumurile parcului național, unde lumina soarelui străpunge crengile goale. După-amiaza la mare se încheie cu un apus grandios în jurul orei 17:00, vizibil confortabil din mașină.",
+            "en": "A winter drive through Sabaudia offers clear views without the summer heat. The morning is ideal for visiting warm museums. At noon, explore the national park roads where sunlight breaks through the bare branches. The afternoon at the coast ends with a grand sunset around 5 PM, easily watched from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mare e della Costa “Marcello Zei”",
+                "hu": "Museo del Mare e della Costa “Marcello Zei”",
+                "ro": "Museo del Mare e della Costa “Marcello Zei”",
+                "en": "Museo del Mare e della Costa “Marcello Zei”"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Tag im beheizten Museum; erfahren Sie alles über die Küstengeschichte, während draußen der kalte Winterwind über das Meer fegt.",
+                "hu": "Kezdd a napot a fűtött múzeumban; tudj meg mindent a partvidék történelméről, miközben kint a hideg téli szél fúj a tenger felett.",
+                "ro": "Începeți ziua în muzeul încălzit; aflați totul despre istoria coastei în timp ce afară vântul rece de iarnă mătură marea.",
+                "en": "Start your day in the heated museum; learn all about coastal history while the cold winter wind sweeps across the sea outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lestra",
+                "hu": "Lestra",
+                "ro": "Lestra",
+                "en": "Lestra"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp im klaren Winterlicht; die historische Architektur der Siedlung wirkt in der kühlen, trockenen Luft besonders markant.",
+                "hu": "Egy rövid fotómegálló a tiszta téli fényben; a település történelmi építészete a hűvös, száraz levegőben különösen markánsnak tűnik.",
+                "ro": "O scurtă oprire pentru fotografii în lumina clară de iarnă; arhitectura istorică a așezării pare deosebit de marcantă în aerul rece și uscat.",
+                "en": "A quick photo stop in the clear winter light; the settlement's historic architecture looks particularly striking in the cool, dry air."
+              }
+            },
+            {
+              "name": {
+                "de": "Riserva della Biosfera UNESCO",
+                "hu": "Riserva della Biosfera UNESCO",
+                "ro": "Riserva della Biosfera UNESCO",
+                "en": "Riserva della Biosfera UNESCO"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie mit dem Wagen durch den kühlen Wald und halten Sie Ausschau nach Wildtieren, die im ruhigen Winter oft näher an die Straßen kommen.",
+                "hu": "Autózz át a hűvös erdőn, és figyeld a vadon élő állatokat, amelyek a csendes téli időszakban gyakran közelebb merészkednek az utakhoz.",
+                "ro": "Conduceți prin pădurea rece și căutați animale sălbatice care, în iarna liniștită, vin adesea mai aproape de drumuri.",
+                "en": "Drive through the cool forest and keep an eye out for wildlife, which often ventures closer to the roads during the quiet winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Salone San Francesco",
+                "hu": "Salone San Francesco",
+                "ro": "Salone San Francesco",
+                "en": "Salone San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunst im Warmen; die Kirche bietet im Winter eine andächtige Stille, die abseits der Touristenströme besonders intensiv ist.",
+                "hu": "Csodáld meg a művészetet a melegben; a templom télen áhítatos csendet áraszt, ami a turistaáradaton kívül különösen intenzív élmény.",
+                "ro": "Admirați arta la căldură; biserica oferă iarna o liniște pioasă care este deosebit de intensă în afara fluxului de turiști.",
+                "en": "Admire the art in the warmth; the church offers a prayerful silence in winter that feels especially intense away from the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Azzurro",
+                "hu": "Lido Azzurro",
+                "ro": "Lido Azzurro",
+                "en": "Lido Azzurro"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem frühen Sonnenuntergang um 17:00 Uhr; die Farben des Himmels sind im Winter über dem Meer oft spektakulär intensiv.",
+                "hu": "Zárd a napot a korai naplementével délután 5-kor; az égbolt színei télen a tenger felett gyakran látványosan intenzívek.",
+                "ro": "Încheiați ziua cu apusul devreme la ora 17:00; culorile cerului sunt iarna deasupra mării adesea spectaculos de intense.",
+                "en": "End your day with the early sunset at 5:00 PM; the colors of the winter sky over the sea are often spectacularly intense and vivid."
+              }
+            }
+          ]
+        }
       }
     }
   }

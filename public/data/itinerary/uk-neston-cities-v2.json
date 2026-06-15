@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Neston bájos központjának felfedezésével; érkezzen meg a történelmi vasútállomásra, majd csodálja meg a Városháza lenyűgöző viktoriánus építészetét.\nDélben merüljön el a múltban a Neston Crossnál, és élvezze a béke szigetét a közeli St Mary and St Helen plébániatemplom csendes, történelmi falai között.\nA délután egy kellemes sétára invitál a Stanney Fields Parkban, amely pihentető zöld oázist kínál, csupán egy rövid távolságra a nyüzsgő városközponttól.\nAz este közeledtével fejezze be sétáját a The Malt Shovel klasszikus kocsmájában, ahol egy jól megérdemelt helyi sör mellett lazíthat a tartalmas nap után.",
         "ro": "Începeți dimineața explorând centrul fermecător al orașului Neston, de la gara istorică până la admirarea arhitecturii victoriene impresionante a Primăriei locale.\nPână la prânz, aprofundați trecutul îndepărtat la Neston Cross și bucurați-vă de liniștea pașnică a Bisericii Parohiale St Mary și St Helen din imediata apropiere.\nDupă-amiaza vă invită la o plimbare plăcută prin Parcul Stanney Fields, care oferă o oază verde relaxantă, situată la o scurtă distanță de centrul plin de viață.\nOdată cu lăsarea serii, încheiați turul la The Malt Shovel, unde vă puteți relaxa cu o bere locală binemeritată într-o atmosferă de pub istoric clasic.",
         "en": "Start your morning exploring Neston's charming center, arriving at the historic station before taking in the impressive Victorian architecture of the local Town Hall.\nBy midday, delve into the area's deep past at the Neston Cross and enjoy the peaceful tranquility of the Parish Church of St Mary and St Helen right nearby.\nThe afternoon invites you for a pleasant stroll through Stanney Fields Park, offering a relaxing green oasis just a short distance from the bustling town center.\nAs evening approaches, conclude your walking tour at The Malt Shovel, where you can unwind with a well-earned local ale in a classic historical pub setting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt am Bahnhof und nutzen Sie die Innenräume des Rathauses für trockene Pausen. Die historische Kirche bietet Zuflucht vor Schauern, bevor Sie den Park auf befestigten Wegen durchqueren. Den Abend verbringen Sie gemütlich im Pub, während draußen der Regen gegen die Scheiben peitscht. Ein Regenschirm und wasserfeste Schuhe sind heute Ihre besten Begleiter.",
+            "hu": "Kezdje a napot a vasútállomás fedett peronján, majd látogasson el a városháza belső tereibe a záporok elől. A történelmi templom kiváló menedék a délutáni esőben, a parkot pedig csak a kövezett sétányokon járja be a sár elkerülése végett. Az estét töltse a Malt Shovel pub barátságos melegében, ahol teljesen megszárítkozhat. Vízálló cipő és egy erős esernyő elengedhetetlen a túrához.",
+            "ro": "Începeți ziua la adăpostul gării și profitați de interiorul primăriei pentru a evita aversele de dimineață. Biserica istorică oferă un refugiu uscat după-amiaza, înainte de a traversa parcul pe aleile pavate pentru a evita noroiul. Seara vă găsește în atmosfera caldă a pub-ului, în timp ce ploaia bate în geamuri. O umbrelă rezistentă și încălțăminte impermeabilă sunt obligatorii astăzi.",
+            "en": "Start your day under the station's shelter and use the town hall's interior to escape morning showers. The historic church provides a dry sanctuary in the afternoon, while the park should be navigated on paved paths to avoid mud. Spend the evening in the cozy warmth of The Malt Shovel pub as the rain taps on the windows. A sturdy umbrella and waterproof shoes are essential today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Neston",
+                "hu": "Neston Vasútállomás",
+                "ro": "Gara Neston",
+                "en": "Neston Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Wartebereich am Bahnsteig, um Ihren Regenschutz zu richten, bevor Sie sich auf den Weg ins Stadtzentrum machen.",
+                "hu": "Használja ki a peron fedett váróhelyiségét az esőfelszerelés igazítására, mielőtt elindulna a városközpont felé a szemerkélő esőben.",
+                "ro": "Folosiți zona de așteptare acoperită de pe peron pentru a vă ajusta pelerina de ploaie înainte de a porni spre centrul orașului.",
+                "en": "Take advantage of the covered waiting area on the platform to adjust your rain gear before heading towards the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Neston",
+                "hu": "Neston Városháza",
+                "ro": "Primăria Neston",
+                "en": "Neston Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die viktorianische Architektur vom trockenen Eingangsbereich aus und achten Sie auf die glatten Stufen bei Nässe.",
+                "hu": "Csodálja meg a viktoriánus építészetet a száraz bejárat felől, és vigyázzon a vizes lépcsőkön, mert esőben nagyon csúszhatnak.",
+                "ro": "Admirați arhitectura victoriană din zona de intrare uscată și aveți grijă la treptele umede care pot fi foarte alunecoase.",
+                "en": "Admire the Victorian architecture from the dry entrance area and be careful on the wet steps as they can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Neston Kreuz",
+                "hu": "Neston Kereszt",
+                "ro": "Crucea Neston",
+                "en": "Neston Cross"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Marktkreuz von den Arkaden der umliegenden Geschäfte aus, um nicht direkt im Regen stehen zu müssen.",
+                "hu": "Tekintse meg a piaci keresztet a környező üzletek árkádjai alól, így anélkül láthatja a műemléket, hogy közvetlenül az esőben állna.",
+                "ro": "Priviți crucea pieței de sub arcadele magazinelor din jur pentru a vedea monumentul fără a sta direct în ploaie.",
+                "en": "View the market cross from under the arcades of nearby shops to see the monument without standing directly in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St Mary and St Helen",
+                "hu": "St Mary and St Helen Templom",
+                "ro": "Biserica St Mary și St Helen",
+                "en": "St Mary and St Helen's Church"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Kircheninnere bietet den perfekten Schutz vor einem Regenschauer; bewundern Sie die Buntglasfenster, die auch bei trübem Licht leuchten.",
+                "hu": "A templom csendes belső tere tökéletes védelmet nyújt a záporok elől; csodálja meg az üvegablakokat, amelyek borús időben is szépen fénylenek.",
+                "ro": "Interiorul liniștit al bisericii oferă protecția perfectă împotriva averselor; admirați vitraliile care strălucesc chiar și pe lumină difuză.",
+                "en": "The quiet church interior offers the perfect protection from showers; admire the stained glass windows that glow even in dull light."
+              }
+            },
+            {
+              "name": {
+                "de": "Stanney Fields Park",
+                "hu": "Stanney Fields Park",
+                "ro": "Parcul Stanney Fields",
+                "en": "Stanney Fields Park"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen, da die Rasenflächen schnell matschig werden, und genießen Sie das satte Grün nach dem Regen.",
+                "hu": "Maradjon a kövezett utakon, mivel a fű gyorsan mocsarassá válik; használjon stabil esernyőt, mert a parkban gyakran fúj a szél.",
+                "ro": "Rămâneți pe aleile pavate deoarece gazonul devine rapid noroios; folosiți o umbrelă stabilă pentru că vântul bate des în parc.",
+                "en": "Stay on the paved paths as the grass becomes muddy quickly; use a sturdy umbrella as it is often windy in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "The Malt Shovel",
+                "hu": "The Malt Shovel",
+                "ro": "The Malt Shovel",
+                "en": "The Malt Shovel"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem heißen Getränk im gemütlichen Innenraum auf und nutzen Sie die Garderobe, um Ihre nassen Sachen aufzuhängen.",
+                "hu": "Melegedjen fel egy forró itallal a barátságos belső térben, és használja a ruhatárat a vizes kabátok és esernyők elhelyezésére.",
+                "ro": "Încălziți-vă cu o băutură fierbinte în interiorul primitor și folosiți garderoba pentru a vă lăsa hainele și umbrelele ude.",
+                "en": "Warm up with a hot drink in the welcoming interior and use the coat rack to leave your wet jackets and umbrellas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen erwartet Sie in Neston, ideal für einen zügigen Spaziergang zur Erwärmung. Besuchen Sie die beheizte Kirche und das Rathaus zur Mittagszeit, um der Kälte zu entfliehen. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Parkbesuch am frühen Nachmittag planen. Beenden Sie den Tag vor dem lodernden Kaminfeuer im Malt Shovel, bevor es richtig frostig wird.",
+            "hu": "Deres reggel fogadja Nestonban, ami ideális egy tempós sétához a bemelegedés érdekében. Délidőben látogassa meg a fűtött templomot és a városházát a hideg elől. Mivel a nap már 17:00 körül lemegy, a parklátogatást tervezze kora délutánra. A napot a Malt Shovel ropogó kandallója mellett zárja, mielőtt leszállna a fagyos éjszakai sötétség.",
+            "ro": "O dimineață geroasă vă așteaptă în Neston, ideală pentru o plimbare vioaie pentru a vă încălzi. Vizitați biserica încălzită și primăria la prânz pentru a scăpa de frig. Deoarece soarele apune deja în jur de ora 17:00, planificați vizita în parc devreme. Încheiați ziua lângă șemineul trosnind de la Malt Shovel, înainte să se lase gerul nopții.",
+            "en": "A frosty morning awaits in Neston, ideal for a brisk walk to warm up. Visit the heated church and town hall at midday to escape the cold. Since the sun sets around 17:00, plan your park visit for the early afternoon. End the day by the crackling fireplace at The Malt Shovel before the freezing night darkness descends."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Neston",
+                "hu": "Neston Vasútállomás",
+                "ro": "Gara Neston",
+                "en": "Neston Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie sich zügig auf dem Bahnsteig, um bei den winterlichen Temperaturen warm zu bleiben, und achten Sie auf vereiste Stellen.",
+                "hu": "Sétáljon tempósan a peronon, hogy melegen tartsa magát a téli hidegben, és figyeljen az esetleges jeges foltokra az aszfalton.",
+                "ro": "Mergeți vioi pe peron pentru a vă menține căldura în frigul iernii și fiți atenți la eventualele porțiuni înghețate de pe asfalt.",
+                "en": "Walk briskly on the platform to keep warm in the winter cold and watch out for any icy patches on the pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Neston",
+                "hu": "Neston Városháza",
+                "ro": "Primăria Neston",
+                "en": "Neston Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus bietet im Winter oft Ausstellungen im Foyer, wo man sich kurz aufwärmen und lokale Geschichte studieren kann.",
+                "hu": "A városháza aulájában télen gyakran tartanak kiállításokat, ahol egy rövid időre felmelegedhet a helyi történelem tanulmányozása közben.",
+                "ro": "În holul primăriei se organizează des expoziții iarna, unde vă puteți încălzi scurt timp în timp ce studiați istoria locală.",
+                "en": "The town hall lobby often hosts exhibitions in winter, where you can warm up briefly while studying local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Neston Kreuz",
+                "hu": "Neston Kereszt",
+                "ro": "Crucea Neston",
+                "en": "Neston Cross"
+              },
+              "tip_5lang": {
+                "de": "Das historische Marktkreuz wirkt bei Reif besonders malerisch; tragen Sie Handschuhe, wenn Sie Fotos von den Details machen möchten.",
+                "hu": "A történelmi kereszt különösen festői látványt nyújt dérrel borítva; viseljen kesztyűt, ha fényképeket szeretne készíteni a részletekről.",
+                "ro": "Crucea istorică arată deosebit de pitoresc acoperită de brumă; purtați mănuși dacă doriți să faceți fotografii detaliilor.",
+                "en": "The historic market cross looks particularly picturesque covered in frost; wear gloves if you want to take photos of the details."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche St Mary and St Helen",
+                "hu": "St Mary and St Helen Templom",
+                "ro": "Biserica St Mary și St Helen",
+                "en": "St Mary and St Helen's Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille im beheizten Kirchenschiff, ein idealer Ort, um die Kälte draußen für einen Moment zu vergessen.",
+                "hu": "Élvezze a békés csendet a templom fűtött hajójában, amely ideális hely, hogy egy pillanatra elfeledje a kinti metsző hideget.",
+                "ro": "Bucurați-vă de liniștea pașnică din nava încălzită a bisericii, un loc ideal pentru a uita pentru o clipă de frigul tăios de afară.",
+                "en": "Enjoy the peaceful silence in the heated nave of the church, an ideal place to forget the biting cold outside for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Stanney Fields Park",
+                "hu": "Stanney Fields Park",
+                "ro": "Parcul Stanney Fields",
+                "en": "Stanney Fields Park"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die winterliche Parklandschaft in der goldenen Stunde vor dem frühen Sonnenuntergang, aber achten Sie auf gefrorene Pfützen.",
+                "hu": "Csodálja meg a téli parkot az aranyórában a korai naplemente előtt, de ügyeljen a befagyott tócsákra a sétányokon.",
+                "ro": "Admirați parcul de iarnă în ora de aur dinaintea apusului timpuriu, dar aveți grijă la bălțile înghețate de pe alei.",
+                "en": "Admire the winter park during the golden hour before the early sunset, but watch out for frozen puddles on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "The Malt Shovel",
+                "hu": "The Malt Shovel",
+                "ro": "The Malt Shovel",
+                "en": "The Malt Shovel"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Platz in der Nähe des Kamins und genießen Sie ein herzhaftes Wintergericht, um sich vor dem Heimweg zu stärken.",
+                "hu": "Keressen egy helyet a kandalló közelében, és élvezzen egy bőséges téli fogást, hogy erőt gyűjtsön a fagyos hazavezető út előtt.",
+                "ro": "Găsiți un loc lângă șemineu și bucurați-vă de un preparat bogat de iarnă pentru a prinde puteri înainte de drumul înghețat spre casă.",
+                "en": "Find a spot near the fireplace and enjoy a hearty winter dish to gather strength before the freezing journey home."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpáros kalandját Neston szívében, a Városházánál és a középkori Neston Crossnál, mielőtt elindulna a festői, zöldellő vidéki tájak felé.\nTekerjen el a Windle Hill természetvédelmi területre a csodás kilátásért, majd fedezze fel a közelben talált római érme pontos, történelmi helyszínét is.\nTöltse a délutánt a gyönyörű Ness Botanikus Kertben, ahol lenyűgöző virágkompozíciókat csodálhat meg, mielőtt továbbfolytatná útját a parti sáv mentén dél felé.\nFejezze be a túrát a Denhall és a Wirral szénbányák partmenti aknáinál, felfedezve a környék gazdag ipari örökségét, miközben a nap lassan lenyugszik a víz felett.",
         "ro": "Începeți aventura pe bicicletă în inima orașului Neston la Primărie și crucea medievală, înainte de a vă îndrepta spre peisajele rurale pitorești din împrejurimi.\nPedalați până la Rezervația Naturală Windle Hill pentru vederi panoramice, apoi descoperiți istoria fascinantă a locului în care a fost găsită o monedă romană.\nPetreceți după-amiaza plimbându-vă prin frumoasele Grădini Botanice Ness, admirând aranjamentele florale vibrante înainte de a continua călătoria pe coastă.\nÎncheiați turul pe bicicletă explorând bogata moștenire industrială a zonei la fostele puțuri miniere de coastă Denhall și Wirral, la apusul soarelui.",
         "en": "Kick off your cycling adventure in the heart of Neston at the Town Hall and the medieval Neston Cross before heading out towards the scenic rural landscapes.\nPedal out to the Windle Hill Nature Reserve to enjoy sweeping views, then discover the fascinating history behind the exact spot of a 1930 Roman Coin find nearby.\nSpend your afternoon wandering the beautiful Ness Botanic Gardens, taking in the vibrant floral displays before continuing your coastal journey south.\nConclude your bike tour exploring the area's rich industrial heritage at the coastal Denhall and Wirral Colliery shafts as the sun begins to set over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Diese Radtour durch Neston erfordert bei Regen besondere Vorsicht, vor allem auf den Waldwegen bei Windle Hill. Nutzen Sie das Besucherzentrum in den Ness Gardens als trockenen Stützpunkt für die Mittagspause. Die historischen Bergwerksschächte sind exponiert, daher ist eine gute Regenjacke heute unerlässlich. Rechnen Sie mit längeren Bremswegen auf den nassen Straßen im Stadtgebiet.",
+            "hu": "Ez a kerékpártúra Neston körül különös óvatosságot igényel esőben, főleg a Windle Hill erdei útjain. Használja a Ness Gardens látogatóközpontját száraz bázisként az ebédszünethez. A történelmi bányaknák nyitott területen vannak, így egy jó esődzseki ma elengedhetetlen. Számoljon hosszabb féktávval a városi szakaszok nedves aszfaltján.",
+            "ro": "Acest tur cu bicicleta în jurul Neston necesită o atenție deosebită pe ploaie, în special pe potecile de la Windle Hill. Folosiți centrul de vizitatori de la Ness Gardens ca bază uscată pentru pauza de prânz. Puțurile miniere istorice sunt în câmp deschis, deci o jachetă de ploaie bună este esențială astăzi. Luați în calcul o distanță de frânare mai mare pe asfaltul ud.",
+            "en": "This cycling tour around Neston requires extra caution in the rain, especially on the forest paths of Windle Hill. Use the visitor center at Ness Gardens as a dry base for your lunch break. The historic mineshafts are in open areas, so a good rain jacket is essential today. Expect longer braking distances on the wet asphalt in urban sections."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Neston",
+                "hu": "Neston Városháza",
+                "ro": "Primăria Neston",
+                "en": "Neston Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Ausrüstung ein letztes Mal zu prüfen, bevor Sie die Fahrt im Regen fortsetzen.",
+                "hu": "Használja a városháza fedett bejáratát a felszerelése utolsó ellenőrzésére, mielőtt nekivágna a vizes utakon való tekerésnek.",
+                "ro": "Folosiți intrarea acoperită a primăriei pentru o ultimă verificare a echipamentului înainte de a porni la drum pe asfaltul ud.",
+                "en": "Use the town hall's covered entrance for a final equipment check before setting off on your ride on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Neston Kreuz",
+                "hu": "Neston Kereszt",
+                "ro": "Crucea Neston",
+                "en": "Neston Cross"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Befahren der nassen Markierungen am Boden rund um das Kreuz, da diese für Reifen extrem rutschig sein können.",
+                "hu": "Kerülje el a tekerést a kereszt körüli vizes útburkolati jeleken, mivel ezek az esőben rendkívül csúszóssá válhatnak a gumik számára.",
+                "ro": "Evitați să pedalați pe marcajele rutiere umede din jurul crucii, deoarece acestea pot deveni extrem de alunecoase pentru anvelope pe ploaie.",
+                "en": "Avoid riding on the wet road markings around the cross, as these can become extremely slippery for tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Windle Hill",
+                "hu": "Windle Hill Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Windle Hill",
+                "en": "Windle Hill Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Reduzieren Sie den Reifendruck leicht für besseren Grip auf den matschigen Waldwegen und achten Sie auf tiefe Pfützen.",
+                "hu": "Csökkentse kissé a guminyomást a jobb tapadás érdekében a sáros erdei utakon, és ügyeljen a mély tócsákra a kanyarokban.",
+                "ro": "Reduceți ușor presiunea în anvelope pentru o aderență mai bună pe potecile noroioase și aveți grijă la bălțile adânci din curbe.",
+                "en": "Slightly reduce tire pressure for better grip on muddy forest paths and watch out for deep puddles in the bends."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundort der römischen Münze",
+                "hu": "1930-as Római Érme Lelőhely",
+                "ro": "Locul Monedei Romane din 1930",
+                "en": "Roman Coin found 1930 Site"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist sehr ungeschützt; machen Sie nur einen kurzen Halt für Fotos und suchen Sie schnell wieder den Schutz der Bäume.",
+                "hu": "Ez a lelőhely nagyon nyitott területen van; csak egy rövid fotómegállót tartson, majd keresse gyorsan újra a fák védelmét.",
+                "ro": "Acest loc este într-o zonă foarte deschisă; opriți doar pentru o scurtă fotografie, apoi căutați rapid protecția copacilor.",
+                "en": "This site is in a very open area; hold only a quick photo stop, then quickly seek the protection of the trees again."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Ness",
+                "hu": "Ness Botanikus Kert",
+                "ro": "Grădinile Botanice Ness",
+                "en": "Ness Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Baum und besuchen Sie das Café oder die Gewächshäuser, um sich während eines Schauers aufzuwärmen.",
+                "hu": "Parkolja le kerékpárját egy sűrűbb fa alatt, és látogassa meg a kávézót vagy az üvegházakat, hogy felmelegedjen a zápor idején.",
+                "ro": "Parcați bicicleta sub un copac des și vizitați cafeneaua sau serele pentru a vă încălzi în timpul averselor.",
+                "en": "Park your bike under a dense tree and visit the café or greenhouses to warm up during the showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Denhall Zeche Schacht",
+                "hu": "Denhall Szénbánya Akna",
+                "ro": "Puțul Minier Denhall",
+                "en": "Denhall Colliery Mineshaft"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Schacht kann bei Regen sehr rutschig sein; steigen Sie im Zweifel vom Rad ab und schieben Sie das letzte Stück.",
+                "hu": "Az aknához vezető út esőben nagyon csúszós lehet; kétség esetén szálljon le a nyeregből, és tolja a biciklit az utolsó szakaszon.",
+                "ro": "Drumul spre puț poate fi foarte alunecos pe ploaie; dacă aveți dubii, coborâți din șa și împingeți bicicleta pe ultima porțiune.",
+                "en": "The path to the shaft can be very slippery in the rain; if in doubt, get off the saddle and push the bike for the last section."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirral Zeche Schacht C",
+                "hu": "Wirral Szénbánya C Akna",
+                "ro": "Puțul Minier Wirral C",
+                "en": "Wirral Colliery Mineshaft C"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Sicht bei Regen und einsetzender Dämmerung stark abnimmt; prüfen Sie Ihre Beleuchtung.",
+                "hu": "Fejezze be gyorsan a túrát, mivel a látótávolság az esőben és a szürkületben hirtelen lecsökken; ellenőrizze a világítását.",
+                "ro": "Încheiați rapid turul, deoarece vizibilitatea scade brusc pe ploaie și la amurg; verificați dacă luminile bicicletei funcționează.",
+                "en": "Finish the tour quickly as visibility drops sharply in the rain and twilight; check if your bike lights are working properly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren um Neston erfordert Zwiebelprinzip bei der Kleidung und Wachsamkeit gegenüber Glatteis in schattigen Lagen. Die Ness Gardens sind ein Highlight, bieten aber im Winter verkürzte Öffnungszeiten. Planen Sie Ihre Route so, dass Sie die exponierten Bergwerksschächte vor dem frühen Sonnenuntergang um 17:00 Uhr erreichen. Warme Handschuhe und eine Thermoskanne mit Tee machen den Unterschied bei dieser Tour.",
+            "hu": "A téli kerékpározás Neston környékén réteges öltözködést és fokozott figyelmet igényel az árnyékos szakaszok jegesedése miatt. A Ness Gardens ilyenkor is szép, de számoljon a téli rövidített nyitvatartással. Tervezze úgy az utat, hogy a nyitott bányaknákat a korai, 17:00-as naplemente előtt elérje. Meleg kesztyű és egy termosz forró tea sokat segít ezen a túrán.",
+            "ro": "Ciclismul de iarnă în jurul Neston necesită îmbrăcăminte în straturi și atenție sporită la gheața din zonele umbrite. Ness Gardens este frumos și acum, dar țineți cont de programul redus de iarnă. Planificați ruta astfel încât să ajungeți la puțurile miniere deschise înainte de apusul de la ora 17:00. Mănușile groase și un termos cu ceai cald fac diferența.",
+            "en": "Winter cycling around Neston requires layered clothing and increased attention to ice in shaded sections. Ness Gardens is still beautiful, but count on shortened winter opening hours. Plan your route to reach the open mineshafts before the early 17:00 sunset. Warm gloves and a thermos of hot tea will make a huge difference on this tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Neston",
+                "hu": "Neston Városháza",
+                "ro": "Primăria Neston",
+                "en": "Neston Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Fahrt mit einigen Aufwärmübungen im Stand, um die Gelenke auf die kalte Luft vorzubereiten.",
+                "hu": "Kezdje a túrát néhány helyben végzett bemelegítő gyakorlattal, hogy felkészítse ízületeit és izmait a hideg téli menetszélre.",
+                "ro": "Începeți turul cu câteva exerciții de încălzire pe loc pentru a vă pregăti articulațiile și mușchii pentru vântul rece de iarnă.",
+                "en": "Start the tour with some warm-up exercises on the spot to prepare your joints and muscles for the cold winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Neston Kreuz",
+                "hu": "Neston Kereszt",
+                "ro": "Crucea Neston",
+                "en": "Neston Cross"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das Kopfsteinpflaster rund um das Kreuz, das bei Frost extrem glatt sein kann; fahren Sie besonders vorsichtig an.",
+                "hu": "Ügyeljen a kereszt körüli macskakövekre, amelyek fagyban rendkívül csúszósak lehetnek; induláskor kerülje a hirtelen gyorsítást.",
+                "ro": "Aveți grijă la pavajul din jurul crucii care poate fi extrem de alunecos pe ger; evitați accelerările bruște la plecare.",
+                "en": "Watch out for the cobblestones around the cross, which can be extremely slippery in frost; avoid sudden acceleration when starting."
+              }
+            },
+            {
+              "name": {
+                "de": "Naturschutzgebiet Windle Hill",
+                "hu": "Windle Hill Természetvédelmi Terület",
+                "ro": "Rezervația Naturală Windle Hill",
+                "en": "Windle Hill Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Auf der Anhöhe weht oft ein beißender Winterwind; eine winddichte Weste ist hier wichtiger als dicke Isolierung.",
+                "hu": "A dombtetőn gyakran fúj metsző téli szél; egy szélálló mellény itt fontosabb, mint a vastag hőszigetelő rétegek.",
+                "ro": "Pe vârful dealului bate adesea un vânt tăios de iarnă; o vestă rezistentă la vânt este mai importantă aici decât straturile groase.",
+                "en": "A biting winter wind often blows on the hilltop; a windproof vest is more important here than thick insulating layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Fundort der römischen Münze",
+                "hu": "1930-as Római Érme Lelőhely",
+                "ro": "Locul Monedei Romane din 1930",
+                "en": "Roman Coin found 1930 Site"
+              },
+              "tip_5lang": {
+                "de": "Die Infotafel kann vereist sein; nutzen Sie ein Tuch, um sie freizuwischen, ohne die Handschuhe ausziehen zu müssen.",
+                "hu": "Az információs tábla lemezesen lefagyhat; használjon egy kendőt a letisztításához, hogy ne kelljen levennie a kesztyűjét.",
+                "ro": "Panoul informativ poate fi acoperit de gheață; folosiți o cârpă pentru a-l curăța, astfel încât să nu fie nevoie să vă scoateți mănușile.",
+                "en": "The information board may be covered in ice; use a cloth to wipe it clear so you don't have to take off your gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Ness",
+                "hu": "Ness Botanikus Kert",
+                "ro": "Grădinile Botanice Ness",
+                "en": "Ness Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände an einem heißen Kakao im Besucherzentrum auf, bevor Sie die letzte Etappe der Tour antreten.",
+                "hu": "Melegítse fel a kezeit egy forró kakaóval a látogatóközpontban, mielőtt nekivágna a túra utolsó, hűvösebb szakaszának.",
+                "ro": "Încălziți-vă mâinile cu o cacao fierbinte la centrul de vizitatori înainte de a porni în ultima etapă, mai răcoroasă, a turului.",
+                "en": "Warm your hands with a hot cocoa at the visitor center before starting the final, cooler stage of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Denhall Zeche Schacht",
+                "hu": "Denhall Szénbánya Akna",
+                "ro": "Puțul Minier Denhall",
+                "en": "Denhall Colliery Mineshaft"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann beim Fahren in Richtung Küste stark blenden; eine Sonnenbrille ist auch im Winter ratsam.",
+                "hu": "Az alacsonyan járó téli nap erősen vakíthat a tengerpart felé tekerve; a napszemüveg ilyenkor is hasznos kiegészítő.",
+                "ro": "Soarele de iarnă care stă jos poate fi foarte orbitor în timp ce pedalați spre coastă; ochelarii de soare sunt utili și acum.",
+                "en": "The low winter sun can be very blinding while cycling towards the coast; sunglasses are a useful accessory even now."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirral Zeche Schacht C",
+                "hu": "Wirral Szénbánya C Akna",
+                "ro": "Puțul Minier Wirral C",
+                "en": "Wirral Colliery Mineshaft C"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Sonnenuntergang fallen die Temperaturen rapide; fahren Sie zügig zurück zum Startpunkt, um nicht auszukühlen.",
+                "hu": "Naplemente után a hőmérséklet hirtelen zuhanni kezd; tekerjen tempósan vissza a kiindulópontra, hogy ne hűljön ki.",
+                "ro": "După apus, temperatura începe să scadă brusc; pedalați vioi înapoi spre punctul de plecare pentru a nu îngheța.",
+                "en": "After sunset, the temperature starts to drop sharply; pedal briskly back to the starting point to avoid getting too cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Kezdje autós útját a St Mary and St Helen templom lenyűgöző ólomüveg ablakainak megcsodálásával, élvezve a nyugodt pillanatokat a városközpontban az indulás előtt.\nVezessen dél felé, és merüljön el a Ness Botanikus Kert természetes szépségében; ez a hatalmas földi paradicsom csodás ösvényeket és lenyűgöző parti kilátást kínál.\nFedezze fel a félsziget gazdag bányászati múltját a zord partvonal mentén szétszórt Ness és Wirral szénbányák aknáinak beszédes, történelmi maradványainál.\nFejezze be egynapos kirándulását egy hosszabb északi úttal a Wirral Way-hez, ahol szürkületkor kellemes sétát tehet ezen a gyönyörű, egykori vasútvonalon.",
         "ro": "Începeți traseul auto admirând vitraliile uimitoare ale Bisericii St Mary și St Helen, bucurându-vă de un moment de liniște în centrul orașului înainte de plecare.\nConduceți spre sud pentru a vă scufunda în frumusețea naturală a Grădinilor Botanice Ness, un paradis vibrant care oferă alei minunate și vederi superbe la coastă.\nAprofundați bogata istorie minieră a peninsulei vizitând rămășițele evocatoare ale puțurilor Ness și Wirral, împrăștiate de-a lungul coastei accidentate din zonă.\nÎncheiați-vă excursia de o zi cu o plimbare mai lungă spre nord pentru a accesa The Wirral Way, unde vă puteți dezmorți picioarele pe fosta cale ferată la amurg.",
         "en": "Start your drive by taking in the stunning stained glass of St Mary and St Helen's Church, enjoying a peaceful moment in the center of town before departing.\nDrive south to immerse yourself in the natural beauty of Ness Botanic Gardens, a sprawling, vibrant paradise offering lovely pathways and gorgeous coastal views.\nDelve into the rich mining history of the peninsula by visiting the evocative remnants of the Ness and Wirral Colliery shafts scattered along the rugged shoreline.\nFinish your day trip with a longer drive north to access The Wirral Way, where you can stretch your legs on this beautiful former railway line at twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Neston heute bequem vom Auto aus, während Sie zwischen den historischen Sehenswürdigkeiten und Gärten pendeln. Die Ness Gardens bieten mit ihren Gewächshäusern eine wunderbare trockene Alternative für den Vormittag. Die Fahrt entlang der Küstenstraße kann bei Regen neblig sein, bietet aber dramatische Ausblicke. Schließen Sie den Tag mit einer kurzen Fahrt zum Wirral Way ab, wenn der Regen nachlässt.",
+            "hu": "Élvezze Nestont kényelmesen az autóból, miközben a történelmi helyszínek és kertek között ingázik. A Ness Gardens üvegházai kiváló száraz alternatívát kínálnak délelőttre. A tengerparti út esőben ködös lehet, de drámai kilátást nyújt a Dee torkolatra. A napot egy rövid autózással zárja a Wirral Way felé, amikor a csapadék intenzitása alábbhagy.",
+            "ro": "Bucurați-vă de Neston din confortul mașinii în timp ce vă deplasați între siturile istorice și grădini. Serele de la Ness Gardens oferă o alternativă uscată excelentă pentru dimineață. Drumul de coastă poate fi cețos pe ploaie, dar oferă priveliști dramatice asupra estuarului Dee. Încheiați ziua cu o scurtă plimbare spre Wirral Way când ploaia se mai domolește.",
+            "en": "Enjoy Neston from the comfort of your car while commuting between historic sites and gardens. The greenhouses at Ness Gardens offer a great dry alternative for the morning. The coastal road can be misty in the rain but provides dramatic views over the Dee Estuary. End the day with a short drive towards the Wirral Way when the rain subsides."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche St Mary and St Helen",
+                "hu": "St Mary and St Helen Templom",
+                "ro": "Biserica St Mary și St Helen",
+                "en": "St Mary and St Helen's Church"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten direkt an der Kirche, sodass Sie nur wenige Schritte im Regen zurücklegen müssen, um ins Trockene zu gelangen.",
+                "hu": "Közvetlenül a templom mellett van parkolási lehetőség, így csak pár lépést kell megtennie az esőben, hogy bejusson a száraz épületbe.",
+                "ro": "Există locuri de parcare chiar lângă biserică, așa că aveți de făcut doar câțiva pași prin ploaie pentru a intra în clădirea uscată.",
+                "en": "There are parking spaces right next to the church, so you only have to walk a few steps in the rain to get inside the dry building."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Ness",
+                "hu": "Ness Botanikus Kert",
+                "ro": "Grădinile Botanice Ness",
+                "en": "Ness Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem befestigten Hauptparkplatz und nutzen Sie die Schirme des Besucherzentrums für den Weg zu den beheizten Gewächshäusern.",
+                "hu": "Parkoljon a kövezett főparkolóban, és használja a látogatóközpont által kínált esernyőket a fűtött üvegházakhoz vezető úton.",
+                "ro": "Parcați în parcarea principală pavată și folosiți umbrelele oferite de centrul de vizitatori pentru drumul spre serele încălzite.",
+                "en": "Park in the paved main car park and use the umbrellas offered by the visitor center for the walk to the heated greenhouses."
+              }
+            },
+            {
+              "name": {
+                "de": "Ness Zeche Schacht",
+                "hu": "Ness Szénbánya Akna",
+                "ro": "Puțul Minier Ness",
+                "en": "Ness Colliery Mineshaft"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie eine gute Sicht auf die Gedenktafeln, sodass Sie die Informationen auch bei starkem Regen vom Auto aus lesen können.",
+                "hu": "A parkolóból jó rálátás nyílik az emléktáblákra, így az információkat akár az autóból is elolvashatja, ha nagyon szakadna az eső.",
+                "ro": "Din parcare aveți o vedere bună asupra plăcilor comemorative, astfel încât puteți citi informațiile chiar și din mașină dacă plouă torențial.",
+                "en": "There is a good view of the memorial plaques from the car park, so you can read the information even from the car if it's pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirral Zeche Schacht D",
+                "hu": "Wirral Szénbánya D Akna",
+                "ro": "Puțul Minier Wirral D",
+                "en": "Wirral Colliery Mineshaft D"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Nässe matschig sein; bleiben Sie auf dem Asphalt und nutzen Sie das Fernlicht bei schlechter Sicht durch Gischt.",
+                "hu": "A behajtó vizes időben sáros lehet; maradjon az aszfalton, és használja a tompított fényszórót a felverődő víz miatti rossz látási viszonyoknál.",
+                "ro": "Drumul de acces poate fi noroios pe ploaie; rămâneți pe asfalt și folosiți faza scurtă pentru vizibilitate redusă din cauza apei pulverizate.",
+                "en": "The access road can be muddy in wet weather; stay on the asphalt and use dipped headlights for poor visibility due to road spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Wirral Way",
+                "hu": "A Wirral Way",
+                "ro": "Calea Wirral",
+                "en": "The Wirral Way"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Aussichtspunkt und genießen Sie den Blick auf das stürmische Meer, ohne nass zu werden, bevor Sie den Heimweg antreten.",
+                "hu": "Parkoljon le a kilátópontnál, és élvezze a viharos tenger látványát anélkül, hogy megázna, mielőtt elindulna hazafelé.",
+                "ro": "Parcați la punctul de belvedere și bucurați-vă de vederea mării învolburate fără să vă udați, înainte de a pleca spre casă.",
+                "en": "Park at the viewpoint and enjoy the view of the stormy sea without getting wet before heading back home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Neston bietet klare Luft und weite Fernsichten über das Dee Estuary. Nutzen Sie die Sitzheizung zwischen den Stationen und planen Sie den Besuch der Ness Gardens für die Mittagsstunden ein, wenn es am wärmsten ist. Die Bergwerksschächte wirken in der kargen Winterlandschaft besonders eindrucksvoll. Da es früh dunkel wird, bietet die Rückfahrt entlang der Küste bei Sonnenuntergang einen krönenden Abschluss.",
+            "hu": "Egy téli autós kirándulás Neston környékén tiszta levegőt és távoli kilátást kínál a Dee torkolatra. Használja az ülésfűtést az állomások között, és a Ness Gardens látogatását tervezze délre, amikor a legmelegebb az idő. A bányaknák különösen hatásos látványt nyújtanak a kopár téli tájban. Mivel korán sötétedik, a tengerparti visszavezető út a naplementében tökéletes zárás.",
+            "ro": "O excursie cu mașina iarna în jurul Neston oferă aer curat și vederi panoramice asupra estuarului Dee. Folosiți încălzirea în scaune între opriri și planificați vizita la Ness Gardens la prânz, când este cel mai cald. Puțurile miniere arată impresionant în peisajul golaș de iarnă. Deoarece se întunecă devreme, drumul de întoarcere pe coastă la apus este finalul perfect.",
+            "en": "A winter drive around Neston offers crisp air and distant views across the Dee Estuary. Use the seat heating between stops and plan your visit to Ness Gardens for midday when it's warmest. The mineshafts look particularly impressive in the barren winter landscape. Since it gets dark early, the coastal drive back at sunset provides a perfect conclusion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche St Mary and St Helen",
+                "hu": "St Mary and St Helen Templom",
+                "ro": "Biserica St Mary și St Helen",
+                "en": "St Mary and St Helen's Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz warmlaufen, während Sie die frostige Fassade der Kirche bewundern, bevor Sie zur nächsten Station fahren.",
+                "hu": "Hagyja az autót egy kicsit bemelegedni, amíg megcsodálja a templom deres homlokzatát, mielőtt továbbindulna a következő állomáshoz.",
+                "ro": "Lăsați mașina să se încălzească puțin în timp ce admirați fațada înghețată a bisericii înainte de a pleca spre următoarea oprire.",
+                "en": "Let the car warm up for a bit while you admire the frosty facade of the church before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanischer Garten Ness",
+                "hu": "Ness Botanikus Kert",
+                "ro": "Grădinile Botanice Ness",
+                "en": "Ness Botanic Gardens"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Winterbeete am frühen Nachmittag und wärmen Sie sich anschließend im beheizten Café bei einem Tee wieder auf.",
+                "hu": "Látogassa meg a téli ágyásokat kora délután, majd melegedjen fel a fűtött kávézóban egy tea mellett, mielőtt továbbhajtana.",
+                "ro": "Vizitați straturile de flori de iarnă devreme după-amiaza, apoi încălziți-vă în cafeneaua încălzită cu un ceai înainte de a pleca mai departe.",
+                "en": "Visit the winter flower beds in the early afternoon, then warm up in the heated café with a tea before driving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Ness Zeche Schacht",
+                "hu": "Ness Szénbánya Akna",
+                "ro": "Puțul Minier Ness",
+                "en": "Ness Colliery Mineshaft"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem kleinen Parkplatz direkt am Schacht, da dieser Bereich im Winter oft im Schatten liegt.",
+                "hu": "Ügyeljen a jegesedésre a közvetlenül az aknánál található kis parkolóban, mivel ez a terület télen gyakran árnyékban van.",
+                "ro": "Aveți grijă la gheața din mica parcare de lângă puț, deoarece această zonă se află adesea în umbră pe timpul iernii.",
+                "en": "Watch out for ice in the small car park right by the shaft, as this area is often in the shade during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Wirral Zeche Schacht D",
+                "hu": "Wirral Szénbánya D Akna",
+                "ro": "Puțul Minier Wirral D",
+                "en": "Wirral Colliery Mineshaft D"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos vom Schachtgerüst, aber bleiben Sie wegen des gefrorenen Bodens auf den befestigten Wegen.",
+                "hu": "Használja ki a tiszta téli fényeket a bányaváz fotózásához, de a fagyott talaj miatt maradjon a kijelölt utakon.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii cu structura puțului, dar rămâneți pe potecile marcate din cauza solului înghețat.",
+                "en": "Take advantage of the clear winter light to photograph the shaft frame, but stay on the marked paths due to the frozen ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Der Wirral Way",
+                "hu": "A Wirral Way",
+                "ro": "Calea Wirral",
+                "en": "The Wirral Way"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen zum Aussichtspunkt können bei Frost tückisch sein; fahren Sie vorsichtig und genießen Sie das Panorama vor dem Erfrieren.",
+                "hu": "A kilátóhoz vezető utak fagyban csalókák lehetnek; vezessen óvatosan, és élvezze a panorámát a fűtött autó kényelméből.",
+                "ro": "Drumurile spre punctul de belvedere pot fi înșelătoare pe ger; conduceți cu atenție și admirați panorama din confortul mașinii încălzite.",
+                "en": "The roads to the viewpoint can be deceptive in frost; drive carefully and enjoy the panorama from the comfort of your heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

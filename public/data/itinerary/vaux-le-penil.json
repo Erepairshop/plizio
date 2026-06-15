@@ -160,6 +160,196 @@
         "hu": "Reggel: Kezdje a napot Vaux-le-Pénil polgári szívében, fedezze fel az elegáns városházát és a nyugodt Chapelle de la Sainte-Famille-t. A csendes utcák kellemes bevezetést nyújtanak a város történelmi hangulatába.\nDél: Térjen át a város kulturális oldalára a Ferme des Jeux meglátogatásával, amely egy művészeti központ pásztori környezetben. Ezután merüljön el a Château de Vaux-le-Pénil nagyszerűségében, és tapasztalja meg a francia arisztokrácia történetét.\nDélután: Irány dél felé, az Église Saint-Étienne és a rusztikus Fief du Pré körüli történelmi mag felé. Ezek a nevezetességek a régió hiteles építészeti fejlődését mutatják be, amelyet a meleg délutáni fény világít meg.\nEste: Fejezze be kirándulását a Clos Notre-Dame maradványainak felfedezésével vagy a tágas Parc du Château-ban való pihenéssel. A nyugodt zöldterületek és az ősi kőépítmények tökéletes, pihentető befejezést nyújtanak.",
         "ro": "Dimineață: Începeți ziua în inima civică a orașului Vaux-le-Pénil, explorând primăria elegantă și liniștita Chapelle de la Sainte-Famille. Străzile liniștite oferă o introducere blândă în atmosfera istorică a orașului.\nPrânz: Treceți la latura culturală a orașului vizitând Ferme des Jeux, un centru artistic într-un cadru pastoral. Apoi, pătrundeți în măreția Château de Vaux-le-Pénil, scufundându-vă în secole de istorie aristocratică franceză.\nDupă-amiază: Îndreptați-vă spre sud, către nucleul istoric din jurul Église Saint-Étienne și rusticul Fief du Pré. Aceste repere prezintă evoluția arhitecturală autentică a regiunii, scăldate în lumina caldă a după-amiezii.\nSeară: Încheiați excursia explorând rămășițele Clos Notre-Dame sau relaxându-vă în vastul Parc du Château. Spațiile verzi senine și structurile antice din piatră oferă un final perfect și relaxant.",
         "en": "Morning: Start your day in the civic heart of Vaux-le-Pénil, exploring the elegant town hall and the tranquil Chapelle de la Sainte-Famille. The quiet streets offer a gentle introduction to the town's historical atmosphere.\nMidday: Transition to the cultural side of the town by visiting the Ferme des Jeux, an artistic hub in a pastoral setting. Afterwards, delve into the grandeur of the Château de Vaux-le-Pénil, immersing yourself in centuries of French aristocratic history.\nAfternoon: Head south towards the historical core around Église Saint-Étienne and the rustic Fief du Pré. These landmarks showcase the authentic architectural evolution of the region over the centuries, bathed in warm afternoon light.\nEvening: Conclude your excursion exploring the remains of Clos Notre-Dame or unwinding in the expansive Parc du Château. The serene green spaces and ancient stone structures provide a perfect, relaxing finish to a day of discovery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der regnerische Morgenspaziergang beginnt am Rathaus und der Kapelle mit einem stabilen Schirm. Mittags erkunden Sie die Ferme des Jeux und das Schloss am besten mit wasserfesten Schuhen. Nachmittags enden Sie bei der Stephanskirche und Fief du Pré, wo Sie sich vor dem Nieselregen ins Trockene flüchten können, bis der Abend anbricht.",
+            "hu": "A reggeli esős séta a Városházánál és a Kápolnánál indul, mindenképp hozzon stabil esernyőt. Délben a Ferme des Jeux és a Kastély bejárása vízálló cipőt igényel. A délutáni órákban a Szent István templom és a Fief du Pré nyújt menedéket a szitáló eső elől a kora esti hazatérésig.",
+            "ro": "Plimbarea de dimineață pe ploaie începe la Primărie și Capelă cu o umbrelă rezistentă. La prânz explorați Ferme des Jeux și Castelul purtând încălțăminte impermeabilă. După-amiaza se încheie la Biserica Sf. Ștefan și Fief du Pré, oferind adăpost excelent de burniță până la lăsarea serii.",
+            "en": "Your rainy morning walk starts at the Town Hall and Chapel, so bring a sturdy umbrella. Midday explores the indoor spaces of Ferme des Jeux and the Castle with waterproof shoes. The afternoon finishes at St. Stephen's Church and Fief du Pré, finding cozy indoor shelter from the persistent drizzle before evening falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Városháza",
+                "ro": "Primăria Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Schirm; der überdachte Eingang bietet eine kurze Pause vom strömenden Regen.",
+                "hu": "Csodálja meg az építészetet esernyő alól; a fedett bejárat rövid pihenőt nyújt a zuhogó eső elől sétája elején.",
+                "ro": "Admirați arhitectura sub umbrelă; intrarea acoperită vă oferă un scurt răgaz de la ploaia torențială de afară.",
+                "en": "Admire the architecture under your umbrella; the covered entrance offers a brief respite from the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Heiligen Familie",
+                "hu": "Szent Család Kápolna",
+                "ro": "Capela Sfintei Familii",
+                "en": "Holy Family Chapel"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in der friedlichen Kapelle, deren Buntglasfenster auch an trüben Tagen wunderschön leuchten.",
+                "hu": "Keressen menedéket a békés kápolnában, ahol a lenyűgöző ólomüveg még a borús, nedves napokon is gyönyörűen fest.",
+                "ro": "Căutați adăpost în capelă, unde vitraliile uimitoare arată superb chiar și în zilele mohorâte și extrem de umede.",
+                "en": "Seek shelter inside this peaceful chapel, where the stunning stained glass looks beautiful even on gloomy, wet days."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferme des Jeux",
+                "hu": "Ferme des Jeux",
+                "ro": "Ferme des Jeux",
+                "en": "Ferme des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit mit den kulturellen Ausstellungen, um während der starken Mittagsschauer trocken zu bleiben.",
+                "hu": "Töltsön el bőséges időt a beltéri kulturális kiállítások felfedezésével, hogy száraz maradjon a déli záporok idején.",
+                "ro": "Petreceți timp explorând expozițiile culturale interioare pentru a rămâne uscat în timpul averselor grele de prânz.",
+                "en": "Spend ample time exploring the indoor cultural exhibits to stay dry and engaged during the heavy midday showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Kastély",
+                "ro": "Castelul Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Castle"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die prächtigen historischen Innenräume und geben Sie Ihren nassen Regenmantel an der Garderobe ab.",
+                "hu": "Járja be a kastély fenséges történelmi belső tereit, és hagyja lecsöpögő esőkabátját, valamint esernyőjét a ruhatárban.",
+                "ro": "Vizitați interioarele istorice magnifice ale castelului, lăsând pelerina de ploaie complet umedă la garderobă.",
+                "en": "Tour the magnificent historic interiors of the castle, safely leaving your wet raincoat and umbrella in the cloakroom."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Stephans-Kirche",
+                "hu": "Szent István Templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint Stephen's Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Kirchenschiff auf und bewundern Sie die robuste Steinstruktur, die vor Wind und Regen schützt.",
+                "hu": "Melegedjen fel a templomhajóban, és csodálja meg a masszív kőszerkezetet, amely biztos védelmet nyújt a szél ellen.",
+                "ro": "Încălziți-vă în interiorul bisericii și admirați structura de piatră care vă protejează excelent de vânt și burniță.",
+                "en": "Warm up inside the church nave and admire its robust stone structure entirely protecting you against wind and drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Fief du Pré",
+                "hu": "Fief du Pré",
+                "ro": "Fief du Pré",
+                "en": "Fief du Pré"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen flotten Spaziergang; achten Sie bei starkem Regen auf schlammige, rutschige Stellen auf den Wegen.",
+                "hu": "Tegyen egy tempós sétát a történelmi helyszín mellett; ügyeljen a saras, csúszós foltokra a heves esőzések során.",
+                "ro": "Bucurați-vă de o plimbare rapidă; aveți grijă la noroi și la porțiunile alunecoase de pe poteci pe timp de ploaie.",
+                "en": "Enjoy a brisk walk past this historic site; watch out carefully for muddy, slippery patches on paths during heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Wintermorgen beginnt am Rathaus und der Kapelle in dicken Schichten. Mittags besuchen Sie die Ferme des Jeux und das Schloss, wo Sie beheizte Räume genießen. Der Nachmittag endet an der Stephanskirche, bevor der frühe Sonnenuntergang gegen 17:00 Uhr ein eisiges Licht über Fief du Pré wirft.",
+            "hu": "A fagyos téli reggel a Városházánál és a Kápolnánál indul, réteges öltözet javasolt. Délben a Ferme des Jeux és a Kastély fűtött termeiben melegedhet fel. A délután a Szent István templomnál zárul, miközben a korai, 17:00 óra körüli naplemente fagyos fényt vet a Fief du Pré-re.",
+            "ro": "Dimineața geroasă de iarnă începe la Primărie și Capelă cu haine groase. La prânz, vizitați Ferme des Jeux și Castelul, bucurându-vă de spații încălzite. După-amiaza se încheie la Biserica Sf. Ștefan înainte ca apusul devreme, pe la 17:00, să lase o lumină rece peste Fief du Pré.",
+            "en": "A crisp winter morning walk begins at the Town Hall and Chapel wearing warm layers. Your midday visit to Ferme des Jeux and the Castle offers highly welcome heated spaces. The afternoon concludes at St. Stephen's Church as the early sunset around 17:00 casts a frosty glow over Fief du Pré."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Városháza",
+                "ro": "Primăria Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich gegen den Morgenfrost warm ein, während Sie die klare Winterfassade des administrativen Herzens bewundern.",
+                "hu": "Öltözzön fel melegen a reggeli fagy ellen, miközben megcsodálja a város közigazgatási központjának téli homlokzatát.",
+                "ro": "Îmbrăcați-vă gros împotriva gerului matinal în timp ce admirați fațada de iarnă a inimii administrative a orașului.",
+                "en": "Bundle up securely against the morning frost while admiring the crisp winter facade of the town's administrative heart."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Heiligen Familie",
+                "hu": "Szent Család Kápolna",
+                "ro": "Capela Sfintei Familii",
+                "en": "Holy Family Chapel"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um der beißenden Kälte zu entfliehen und die ruhige Winterserenität dieses heiligen Raums zu genießen.",
+                "hu": "Lépjen be, hogy elmeneküljön a metsző hideg elől, és élvezze ennek a szent térnek a csendes, téli nyugalmát odabent.",
+                "ro": "Pășiți înăuntru pentru a scăpa de frigul pătrunzător și bucurați-vă de liniștea de iarnă a acestui spațiu sacru.",
+                "en": "Step inside to easily escape the biting cold and enjoy the exceptionally quiet winter serenity of this sacred space."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferme des Jeux",
+                "hu": "Ferme des Jeux",
+                "ro": "Ferme des Jeux",
+                "en": "Ferme des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die warmen, beheizten kulturellen Ausstellungen, ein perfekter Rückzugsort vor der winterlichen Kälte.",
+                "hu": "Élvezze a meleg, fűtött kulturális kiállításokat, amely tökéletes déli menedék a kinti csípős, téli hideg elől.",
+                "ro": "Bucurați-vă de expozițiile culturale calde și încălzite, o retragere perfectă la prânz din calea frigului de iarnă.",
+                "en": "Enjoy the wonderfully warm, heated indoor cultural displays, a perfect midday retreat from the harsh winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Kastély",
+                "ro": "Castelul Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die großen, beheizten Räume des Schlosses, während die Winterlandschaft draußen eine frostige Kulisse bietet.",
+                "hu": "Fedezze fel a kastély fűtött termeit, miközben a kinti téli táj lenyűgöző, zúzmarás és rendkívül fagyos hátteret kínál.",
+                "ro": "Explorați camerele mari și încălzite ale castelului în timp ce peisajul de iarnă de afară oferă un fundal înghețat.",
+                "en": "Explore the grand, heated rooms of the castle while the magnificent winter landscape outside offers a frosty backdrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Stephans-Kirche",
+                "hu": "Szent István Templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint Stephen's Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bergen eine gewisse Kälte, behalten Sie Ihren Schal an, während Sie den historischen Altar ansehen.",
+                "hu": "A vastag kőfalak tartják a hideget, ezért tartsa magán a sálját, miközben megcsodálja a gyönyörű történelmi oltárt.",
+                "ro": "Zidurile groase de piatră mențin frigul, așa că păstrați fularul în timp ce admirați altarul istoric impresionant.",
+                "en": "The thick stone walls hold a distinct chill, so definitely keep your scarf on while admiring the grand historic altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Fief du Pré",
+                "hu": "Fief du Pré",
+                "ro": "Fief du Pré",
+                "en": "Fief du Pré"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie dieses Wahrzeichen, kurz bevor der frühe Sonnenuntergang um 17:00 Uhr die frostigen Wege verdunkelt.",
+                "hu": "Tekintse meg ezt a nevezetességet, mielőtt a korai, 17:00 órai téli naplemente teljesen besötétíti a fagyos utakat.",
+                "ro": "Vedeți acest punct de reper chiar înainte ca apusul devreme de la 17:00 să întunece complet cărările înghețate.",
+                "en": "See this landmark just as the golden hour hits, before the early 17:00 winter sunset completely darkens frosty paths."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Reggel: Kezdje a napot Vaux-le-Pénil polgári szívében, fedezze fel az elegáns városházát és a nyugodt Chapelle de la Sainte-Famille-t. A csendes utcák kellemes bevezetést nyújtanak a város történelmi hangulatába.\nDél: Térjen át a város kulturális oldalára a Ferme des Jeux meglátogatásával, amely egy művészeti központ pásztori környezetben. Ezután merüljön el a Château de Vaux-le-Pénil nagyszerűségében, és tapasztalja meg a francia arisztokrácia történetét.\nDélután: Irány dél felé, az Église Saint-Étienne és a rusztikus Fief du Pré körüli történelmi mag felé. Ezek a nevezetességek a régió hiteles építészeti fejlődését mutatják be, amelyet a meleg délutáni fény világít meg.\nEste: Fejezze be kirándulását a Clos Notre-Dame maradványainak felfedezésével vagy a tágas Parc du Château-ban való pihenéssel. A nyugodt zöldterületek és az ősi kőépítmények tökéletes, pihentető befejezést nyújtanak.",
         "ro": "Dimineață: Începeți ziua în inima civică a orașului Vaux-le-Pénil, explorând primăria elegantă și liniștita Chapelle de la Sainte-Famille. Străzile liniștite oferă o introducere blândă în atmosfera istorică a orașului.\nPrânz: Treceți la latura culturală a orașului vizitând Ferme des Jeux, un centru artistic într-un cadru pastoral. Apoi, pătrundeți în măreția Château de Vaux-le-Pénil, scufundându-vă în secole de istorie aristocratică franceză.\nDupă-amiază: Îndreptați-vă spre sud, către nucleul istoric din jurul Église Saint-Étienne și rusticul Fief du Pré. Aceste repere prezintă evoluția arhitecturală autentică a regiunii, scăldate în lumina caldă a după-amiezii.\nSeară: Încheiați excursia explorând rămășițele Clos Notre-Dame sau relaxându-vă în vastul Parc du Château. Spațiile verzi senine și structurile antice din piatră oferă un final perfect și relaxant.",
         "en": "Morning: Start your day in the civic heart of Vaux-le-Pénil, exploring the elegant town hall and the tranquil Chapelle de la Sainte-Famille. The quiet streets offer a gentle introduction to the town's historical atmosphere.\nMidday: Transition to the cultural side of the town by visiting the Ferme des Jeux, an artistic hub in a pastoral setting. Afterwards, delve into the grandeur of the Château de Vaux-le-Pénil, immersing yourself in centuries of French aristocratic history.\nAfternoon: Head south towards the historical core around Église Saint-Étienne and the rustic Fief du Pré. These landmarks showcase the authentic architectural evolution of the region over the centuries, bathed in warm afternoon light.\nEvening: Conclude your excursion exploring the remains of Clos Notre-Dame or unwinding in the expansive Parc du Château. The serene green spaces and ancient stone structures provide a perfect, relaxing finish to a day of discovery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das nasse Radfahren beginnt mit wasserfester Kleidung an Rathaus und Kapelle. Mittags radeln Sie zur Ferme des Jeux und zum Schloss; Vorsicht vor rutschigem Kopfsteinpflaster. Die Nachmittagsfahrt führt zur Kirche, Fief du Pré und Clos Notre-Dame, nutzen Sie Schutzbleche gegen das schlammige Spritzwasser auf den Wegen.",
+            "hu": "A nedves kerékpározás vízálló felszereléssel indul a Városházánál és Kápolnánál. Délben a Ferme des Jeux és a Kastély felé teker; vigyázzon a csúszós macskakövekre. A délutáni út a Templom, a Fief du Pré és a Clos Notre-Dame felé vezet, sárvédők használata erősen ajánlott az esti sár ellen.",
+            "ro": "Ciclismul pe ploaie începe la Primărie și Capelă cu echipament impermeabil. La prânz pedalați spre Ferme des Jeux și Castel; atenție la piatra cubică alunecoasă. După-amiaza mergeți la Biserică, Fief du Pré și Clos Notre-Dame, folosind apărători de noroi pentru stropii de pe traseu.",
+            "en": "Wet cycling starts at the Town Hall and Chapel wearing fully waterproof gear. Midday pedaling brings you to Ferme des Jeux and Castle; strictly beware of slippery cobblestones. The afternoon ride connects the Church, Fief du Pré, and Clos Notre-Dame, so use fenders to block muddy spray by evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Városháza",
+                "ro": "Primăria Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad vorsichtig auf dem nassen Pflaster und tragen Sie eine solide Regenjacke beim Betrachten der Fassade.",
+                "hu": "Parkolja le kerékpárját óvatosan a nedves burkolaton; viseljen szilárd esőkabátot a homlokzat megtekintése közben.",
+                "ro": "Parcați bicicleta cu grijă pe pavajul umed; purtați o geacă de ploaie solidă în timp ce priviți fațada clădirii.",
+                "en": "Park your bike very carefully on wet pavement; strictly wear a solid rain jacket while viewing the historic facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Heiligen Familie",
+                "hu": "Szent Család Kápolna",
+                "ro": "Capela Sfintei Familii",
+                "en": "Holy Family Chapel"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Halt, um den Regen abzuschütteln; prüfen Sie Ihre Bremsen, bevor Sie auf nassen Straßen weiterfahren.",
+                "hu": "Tökéletes száraz megálló az eső lerázására; mindenképpen ellenőrizze a fékeket, mielőtt továbbhajt a nedves utakon.",
+                "ro": "O oprire uscată perfectă pentru a scăpa de ploaie; verificați-vă frânele înainte de a continua pe drumurile umede.",
+                "en": "A perfect dry stop to heavily shake off the rain; always check your bike brakes before continuing on wet local roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferme des Jeux",
+                "hu": "Ferme des Jeux",
+                "ro": "Ferme des Jeux",
+                "en": "Ferme des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad unter dem Dach ab und trocknen Sie sich drinnen bei faszinierenden kulturellen Ausstellungen auf.",
+                "hu": "Zárja le kerékpárját az eresz alatt, és száradjon meg odabent, miközben élvezi a lenyűgöző kulturális kiállításokat.",
+                "ro": "Legați bicicleta sub streașină și uscați-vă înăuntru în timp ce vă bucurați de fascinantele expoziții culturale.",
+                "en": "Lock your bike under the eaves and quickly dry off inside while enjoying the fascinating indoor cultural exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Kastély",
+                "ro": "Castelul Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Castle"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Zufahrtsstraßen können rutschig sein, fahren Sie also langsam und genießen Sie die großen überdachten Innenräume.",
+                "hu": "Az ide vezető nedves utak rendkívül csúszósak lehetnek, ezért lassan tekerjen, és élvezze a fenséges fedett belső tereket.",
+                "ro": "Drumurile umede de acces pot fi alunecoase, așa că mergeți încet și bucurați-vă de interioarele grandioase acoperite.",
+                "en": "The wet roads leading here can be very slick, so safely ride slowly and totally enjoy the grand sheltered interiors."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Stephans-Kirche",
+                "hu": "Szent István Templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint Stephen's Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im Inneren der Kirche Zuflucht vor dem Regenguss; tragen Sie Warnkleidung für die trübe Weiterfahrt.",
+                "hu": "Keressen menedéket a felhőszakadás elől a templom belsejében; viseljen láthatósági ruházatot a borús továbbutazáshoz.",
+                "ro": "Refugiați-vă de ploaia torențială în interiorul bisericii; purtați echipament reflectorizant pentru drumul mohorât.",
+                "en": "Take complete refuge from the downpour inside the church; properly wear high-visibility gear for the gloomy onward ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Fief du Pré",
+                "hu": "Fief du Pré",
+                "ro": "Fief du Pré",
+                "en": "Fief du Pré"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Laub auf dem Radweg, während Sie bei Regen an diesem charmanten Wahrzeichen vorbeifahren.",
+                "hu": "Ügyeljen a csúszós nedves falevelekre a kerékpárúton, miközben az esőben elhalad e bájos történelmi nevezetesség mellett.",
+                "ro": "Fiți atenți la frunzele alunecoase de pe pista de biciclete când treceți pe lângă acest reper fermecător pe ploaie.",
+                "en": "Keep a very close eye out for slippery leaves on the cycle path as you carefully pass this charming landmark in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Clos Notre-Dame",
+                "hu": "Clos Notre-Dame",
+                "ro": "Clos Notre-Dame",
+                "en": "Clos Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Fahrt mit der Erkundung dieser Stätte; tragen Sie wasserdichte Überschuhe, um trockene Füße zu behalten.",
+                "hu": "Zárja le esős kerékpározását e helyszín felfedezésével; viseljen vízálló kamáslit, hogy a lábai szárazak maradjanak.",
+                "ro": "Încheiați-vă plimbarea umedă explorând acest sit; purtați suprapantofi impermeabili pentru a vă menține picioarele uscate.",
+                "en": "Conclude your wet ride successfully exploring this site; properly wear waterproof overshoes to keep your feet fully dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiges Morgenradeln zu Rathaus und Kapelle mit Thermohandschuhen. Mittags radeln Sie zu Ferme des Jeux und Schloss, bleiben Sie aktiv, um sich warm zu halten. Am Nachmittag fahren Sie zur Kirche, Fief du Pré und Clos Notre-Dame, bevor die frühe Winterdämmerung kräftige Fahrradlichter erfordert.",
+            "hu": "Fagyos reggeli kerékpározás a Városházához és a Kápolnához termokesztyűben. Délben tekerjen a Ferme des Jeux és a Kastély felé, maradjon mozgásban a melegedéshez. Délután a Templom, Fief du Pré és Clos Notre-Dame várja, mielőtt a korai téli szürkület erős kerékpáros lámpákat követel meg.",
+            "ro": "Pedalat matinal geros spre Primărie și Capelă cu mănuși termice. La prânz mergeți spre Ferme des Jeux și Castel, rămânând activ pentru a vă încălzi. După-amiaza pedalați la Biserică, Fief du Pré și Clos Notre-Dame înainte ca amurgul devreme de iarnă să necesite lumini puternice la bicicletă.",
+            "en": "A frosty morning cycle to the Town Hall and Chapel wearing highly thermal gloves. Midday ride to Ferme des Jeux and Castle, keeping active to stay warm. Afternoon pedaling covers the Church, Fief du Pré, and Clos Notre-Dame before the early winter dusk firmly requires fully charged bike lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Városháza",
+                "ro": "Primăria Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier Ihre frostige Fahrt; stellen Sie sicher, dass Ihre Thermohandschuhe eng anliegen, bevor Sie die Fassade bewundern.",
+                "hu": "Kezdje itt fagyos útját; győződjön meg róla, hogy termokesztyűje szorosan illeszkedik, mielőtt megcsodálja a homlokzatot.",
+                "ro": "Începeți traseul geros aici; asigurați-vă că mănușile termice sunt strânse bine înainte de a admira fațada maiestuoasă.",
+                "en": "Start your frosty ride right here; ensure your thermal gloves are tight before admiring the majestic historic facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Heiligen Familie",
+                "hu": "Szent Család Kápolna",
+                "ro": "Capela Sfintei Familii",
+                "en": "Holy Family Chapel"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände in dieser ruhigen Kapelle auf, nach dem kühlen morgendlichen Tritt in die Pedale durch die Straßen.",
+                "hu": "Melegítse fel kezét ebben a csendes kápolnában a fagyos, kora reggeli utcai kerékpározást követően megpihenve.",
+                "ro": "Încălziți-vă mâinile în această capelă liniștită după pedalatul rece de dimineață pe străzile absolut înghețate.",
+                "en": "Warm your freezing hands safely inside this tranquil chapel after the chilly morning pedal through the quiet local streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferme des Jeux",
+                "hu": "Ferme des Jeux",
+                "ro": "Ferme des Jeux",
+                "en": "Ferme des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und treten Sie in das beheizte Kulturzentrum ein, um aufzutauen und die Ausstellungen zu genießen.",
+                "hu": "Parkolja le kerékpárját, és lépjen be a fűtött kulturális központba, hogy felengedjen és élvezze az érdekes kiállításokat.",
+                "ro": "Parcați bicicleta și intrați în centrul cultural încălzit pentru a vă dezgheța și a vă bucura de exponatele captivante.",
+                "en": "Park your bike and immediately step into the heated cultural center to totally thaw out and enjoy the engaging displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Kastély",
+                "ro": "Castelul Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Winterlandschaft rund um das Schloss ist atemberaubend; hüten Sie sich vor vereisten Stellen auf den Zufahrtswegen.",
+                "hu": "A kastély körüli téli táj lélegzetelállító; azonban nagyon óvakodjon a megközelítési utakon lévő jeges, csúszós foltoktól.",
+                "ro": "Peisajul de iarnă din jurul castelului este absolut uimitor; feriți-vă de peticele de gheață periculoase de pe căile de acces.",
+                "en": "The winter scenery strictly around the castle is stunning; fully beware of dangerous icy patches on the approach paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Stephans-Kirche",
+                "hu": "Szent István Templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint Stephen's Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiges, kühles Heiligtum; behalten Sie Ihre Wintermütze auf, während Sie die historische Innenarchitektur betrachten.",
+                "hu": "Egy csendes, kifejezetten hűvös szentély; tartsa magán a téli sapkáját, miközben megtekinti a történelmi belsőépítészetet.",
+                "ro": "Un sanctuar liniștit și destul de rece; păstrați-vă căciula de iarnă în timp ce priviți arhitectura interioară istorică.",
+                "en": "A quiet, cool sanctuary indeed; safely keep your winter hat on while viewing the exceptionally historic interior architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Fief du Pré",
+                "hu": "Fief du Pré",
+                "ro": "Fief du Pré",
+                "en": "Fief du Pré"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zügig an diesem Ort vorbei, um Ihre Körpertemperatur in der eiskalten Winternachmittagsluft hoch zu halten.",
+                "hu": "Tekerjen el lendületesen e helyszín mellett, hogy magasan tartsa testhőmérsékletét a fagyos téli délutáni levegőben.",
+                "ro": "Pedalați rapid pe lângă acest loc pentru a vă menține temperatura corpului ridicată în aerul înghețat al după-amiezii.",
+                "en": "Ride briskly past this spot to safely keep your body temperature up entirely in the freezing winter afternoon air."
+              }
+            },
+            {
+              "name": {
+                "de": "Clos Notre-Dame",
+                "hu": "Clos Notre-Dame",
+                "ro": "Clos Notre-Dame",
+                "en": "Clos Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor dem frühen Sonnenuntergang an; stellen Sie sicher, dass Ihre Fahrradlichter für die dunkle Rückfahrt voll sind.",
+                "hu": "Érkezzen meg röviddel a korai naplemente előtt; győződjön meg róla, hogy kerékpárja lámpái teljesen fel vannak töltve az estére.",
+                "ro": "Ajungeți chiar înainte de apusul devreme; asigurați-vă că luminile bicicletei sunt complet încărcate pentru drumul întunecat.",
+                "en": "Arrive completely just before the early sunset; properly ensure your bike lights are fully charged for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Reggel: Kezdje a napot Vaux-le-Pénil polgári szívében, fedezze fel az elegáns városházát és a nyugodt Chapelle de la Sainte-Famille-t. A csendes utcák kellemes bevezetést nyújtanak a város történelmi hangulatába.\nDél: Térjen át a város kulturális oldalára a Ferme des Jeux meglátogatásával, amely egy művészeti központ pásztori környezetben. Ezután merüljön el a Château de Vaux-le-Pénil nagyszerűségében, és tapasztalja meg a francia arisztokrácia történetét.\nDélután: Irány dél felé, az Église Saint-Étienne és a rusztikus Fief du Pré körüli történelmi mag felé. Ezek a nevezetességek a régió hiteles építészeti fejlődését mutatják be, amelyet a meleg délutáni fény világít meg.\nEste: Fejezze be kirándulását a Clos Notre-Dame maradványainak felfedezésével vagy a tágas Parc du Château-ban való pihenéssel. A nyugodt zöldterületek és az ősi kőépítmények tökéletes, pihentető befejezést nyújtanak.",
         "ro": "Dimineață: Începeți ziua în inima civică a orașului Vaux-le-Pénil, explorând primăria elegantă și liniștita Chapelle de la Sainte-Famille. Străzile liniștite oferă o introducere blândă în atmosfera istorică a orașului.\nPrânz: Treceți la latura culturală a orașului vizitând Ferme des Jeux, un centru artistic într-un cadru pastoral. Apoi, pătrundeți în măreția Château de Vaux-le-Pénil, scufundându-vă în secole de istorie aristocratică franceză.\nDupă-amiază: Îndreptați-vă spre sud, către nucleul istoric din jurul Église Saint-Étienne și rusticul Fief du Pré. Aceste repere prezintă evoluția arhitecturală autentică a regiunii, scăldate în lumina caldă a după-amiezii.\nSeară: Încheiați excursia explorând rămășițele Clos Notre-Dame sau relaxându-vă în vastul Parc du Château. Spațiile verzi senine și structurile antice din piatră oferă un final perfect și relaxant.",
         "en": "Morning: Start your day in the civic heart of Vaux-le-Pénil, exploring the elegant town hall and the tranquil Chapelle de la Sainte-Famille. The quiet streets offer a gentle introduction to the town's historical atmosphere.\nMidday: Transition to the cultural side of the town by visiting the Ferme des Jeux, an artistic hub in a pastoral setting. Afterwards, delve into the grandeur of the Château de Vaux-le-Pénil, immersing yourself in centuries of French aristocratic history.\nAfternoon: Head south towards the historical core around Église Saint-Étienne and the rustic Fief du Pré. These landmarks showcase the authentic architectural evolution of the region over the centuries, bathed in warm afternoon light.\nEvening: Conclude your excursion exploring the remains of Clos Notre-Dame or unwinding in the expansive Parc du Château. The serene green spaces and ancient stone structures provide a perfect, relaxing finish to a day of discovery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die regnerische Fahrt beginnt an Rathaus und Kapelle, lassen Sie die Heizung an. Mittags parken Sie in der Nähe der Ferme des Jeux und des Schlosses und rennen mit einem Schirm durch den Regen. Die Nachmittagsfahrt führt zur Kirche, Fief du Pré, Clos Notre-Dame und endet sicher vor Einbruch der Dunkelheit am schlammigen Schlosspark.",
+            "hu": "Az esős autózás a Városházánál és Kápolnánál kezdődik, tartsa bekapcsolva a fűtést. Délben parkoljon a Ferme des Jeux és Kastély közelében, esernyővel sietve át az esőn. A délutáni út a Templom, Fief du Pré és Clos Notre-Dame érintésével a kifejezetten saras Kastélyparknál ér véget estére.",
+            "ro": "Plimbarea cu mașina pe ploaie începe la Primărie și Capelă cu căldura pornită. La prânz parcați lângă Ferme des Jeux și Castel, alergând prin ploaie cu umbrela. Traseul de după-amiază include Biserica, Fief du Pré, Clos Notre-Dame și se termină la Parcul Castelului care va fi plin de noroi pe seară.",
+            "en": "Your rainy drive starts at the Town Hall and Chapel, keeping the heater safely on. Midday parking near Ferme des Jeux and the Castle means dashing through the rain with an umbrella. The afternoon route covers the Church, Fief du Pré, Clos Notre-Dame, ending successfully at the muddy Castle Park by evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Városháza",
+                "ro": "Primăria Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nehmen Sie einen robusten Schirm mit, um das Gebäude zu bewundern, ohne vom Regen völlig durchnässt zu werden.",
+                "hu": "Parkoljon a közelben, és vigyen magával egy erős esernyőt, hogy megcsodálja az épületet anélkül, hogy teljesen bőrig ázna az esőben.",
+                "ro": "Parcați aproape și luați o umbrelă robustă pentru a admira clădirea fără a vă uda complet din cauza ploii neîncetate.",
+                "en": "Park extremely close by and bring a sturdy umbrella to admire the building without getting completely soaked by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Heiligen Familie",
+                "hu": "Szent Család Kápolna",
+                "ro": "Capela Sfintei Familii",
+                "en": "Holy Family Chapel"
+              },
+              "tip_5lang": {
+                "de": "Rennen Sie von Ihrem Auto ins trockene Innere der Kapelle, um ihr friedliches, vom Regen geprägtes Ambiente zu schätzen.",
+                "hu": "Fussanak be az autóból a kápolna száraz belső terébe, hogy élvezzék annak rendkívül békés, eső áztatta hangulatát.",
+                "ro": "Alergați din mașină în interiorul uscat al capelei pentru a aprecia ambianța sa absolut pașnică pe timp de ploaie.",
+                "en": "Dash swiftly from your car right to the chapel's dry interior to successfully appreciate its peaceful, rain-pattered ambiance."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferme des Jeux",
+                "hu": "Ferme des Jeux",
+                "ro": "Ferme des Jeux",
+                "en": "Ferme des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die nahe gelegenen Parkplätze und entfliehen Sie den heftigen Mittagsgüssen bei den Indoor-Ausstellungen komplett.",
+                "hu": "Használja a közeli parkolót, és élvezze a beltéri kiállításokat, ezzel teljesen elmenekülve a heves déli felhőszakadások elől.",
+                "ro": "Folosiți parcarea din apropiere și bucurați-vă de exponatele din interior, scăpând complet de ploile abundente de prânz.",
+                "en": "Safely use the nearby parking and deeply enjoy the indoor exhibits, completely escaping the heavy midday downpours entirely."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Kastély",
+                "ro": "Castelul Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Castle"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Schirm für den Weg vom Parkplatz bereit und staunen Sie dann über die großen, geschützten historischen Räume.",
+                "hu": "Készítsen elő esernyőt a parkolótól vezető útra, majd csodálja meg a hatalmas, jól védett történelmi termeket a kastélyban.",
+                "ro": "Păstrați o umbrelă la îndemână pentru plimbarea din parcare, apoi minunați-vă de camerele istorice mari și foarte bine protejate.",
+                "en": "Keep an umbrella handy strictly for the walk from the parking lot, then marvel fully at the grand, sheltered historic rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Stephans-Kirche",
+                "hu": "Szent István Templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint Stephen's Church"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt dorthin ist komfortabel, aber treten Sie vorsichtig auf das nasse Pflaster, wenn Sie diese historische Kirche betreten.",
+                "hu": "Az idevezető út kényelmes, de nagyon óvatosan lépkedjen a nedves járdán, amikor belép ebbe a régi történelmi templomba.",
+                "ro": "Drumul până aici este confortabil, dar pășiți cu mare grijă pe pavajul complet umed când intrați în această biserică istorică.",
+                "en": "The drive here is highly comfortable, but step carefully on the wet pavement precisely when entering this historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Fief du Pré",
+                "hu": "Fief du Pré",
+                "ro": "Fief du Pré",
+                "en": "Fief du Pré"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie dieses Wahrzeichen bequem von Ihrem Auto aus oder unter einem Schirm, wenn der Regen zu stark wird.",
+                "hu": "Figyelje meg ezt a nevezetességet kényelmesen az autójából, vagy egy esernyő alól, ha a záporeső túlságosan is rázendít.",
+                "ro": "Observați acest reper istoric rapid din confortul mașinii dumneavoastră sau sub o umbrelă dacă ploaia este prea abundentă.",
+                "en": "Safely observe this landmark quickly from the comfort of your car or exactly under an umbrella if the rain is too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Clos Notre-Dame",
+                "hu": "Clos Notre-Dame",
+                "ro": "Clos Notre-Dame",
+                "en": "Clos Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie vorsichtig auf den nassen Straßen zu diesem Ort und tragen Sie wasserdichte Stiefel für Spaziergänge im Freien.",
+                "hu": "Navigáljon rendkívül óvatosan a nedves utakon ehhez a helyhez, és viseljen vízálló csizmát minden kinti sétához a környéken.",
+                "ro": "Navigați cu mare prudență pe drumurile umede pentru a ajunge aici, purtând cizme complet impermeabile pentru plimbările pe afară.",
+                "en": "Navigate the wet local roads carefully to reliably reach this spot, wearing fully waterproof boots for any outdoor walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlosspark",
+                "hu": "Kastélypark",
+                "ro": "Parcul Castelului",
+                "en": "Castle Park"
+              },
+              "tip_5lang": {
+                "de": "Die Wege werden schlammig und nass sein, bleiben Sie auf den gepflasterten Gehwegen und tragen Sie stark wasserabweisende Schuhe.",
+                "hu": "Az ösvények rendkívül sarasak és nedvesek lesznek, ezért maradjon a kövezett sétányokon, és viseljen erősen vízlepergető lábbelit.",
+                "ro": "Cărările vor fi destul de noroioase și umede, așa că rămâneți pe trotuarele pavate și purtați o încălțăminte extrem de rezistentă la apă.",
+                "en": "The paths will be heavily muddy and wet, so strictly stick to the paved walkways and wear highly water-resistant footwear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt beginnt an Rathaus und Kapelle mit einer warmen Kabine. Mittagsbesuche in der Ferme des Jeux und im Schloss bieten beheizte Indoor-Erkundungen. Die Nachmittagsroute führt über Kirche, Fief du Pré und Clos Notre-Dame und endet im Schlosspark, kurz bevor die Sonne bereits um 17:00 Uhr untergeht.",
+            "hu": "A téli autózás a Városházánál és Kápolnánál kezdődik jó meleg utastérrel. A déli Ferme des Jeux és Kastély látogatás remek fűtött beltéri kikapcsolódást kínál. A délutáni útvonal a Templomot, Fief du Pré-t, Clos Notre-Dame-ot fedi le, és a Kastélyparknál ér véget pontban a korai, 17:00 órás naplemente előtt.",
+            "ro": "Călătoria de iarnă cu mașina începe la Primărie și Capelă cu un habitaclu foarte cald. Vizitele de prânz la Ferme des Jeux și Castel oferă o explorare complet încălzită. Traseul de după-amiază acoperă Biserica, Fief du Pré, Clos Notre-Dame, terminându-se în Parcul Castelului exact când soarele apune la 17:00.",
+            "en": "Your winter drive strictly begins at the Town Hall and Chapel with a heavily warm cabin. Midday visits to Ferme des Jeux and the Castle completely offer heated indoor exploration. The afternoon route accurately covers the Church, Fief du Pré, Clos Notre-Dame, finishing at Castle Park exactly as the sun sets early at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Városháza",
+                "ro": "Primăria Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den beheizten Autositz, bevor Sie kurz in die klare Winterluft treten, um die sehr historische Fassade zu sehen.",
+                "hu": "Élvezze a fűtött autósülést, mielőtt röviden kilép a kifejezetten csípős téli levegőre, hogy megnézze a történelmi homlokzatot.",
+                "ro": "Bucurați-vă de scaunul auto complet încălzit înainte de a ieși scurt în aerul rece de iarnă pentru a vedea fațada foarte istorică.",
+                "en": "Highly enjoy the heated car seat completely before stepping out briefly into the crisp winter air to see the historic facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle der Heiligen Familie",
+                "hu": "Szent Család Kápolna",
+                "ro": "Capela Sfintei Familii",
+                "en": "Holy Family Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die eiskalte Morgenluft lässt den ruhigen, umschlossenen Raum dieser Kapelle nach dem Aussteigen besonders einladend wirken.",
+                "hu": "A jéghideg reggeli levegő teszi ennek a kápolnának a rendkívül csendes, zárt terét kiszállás után igazán különösen hívogatóvá.",
+                "ro": "Aerul înghețat al dimineții face ca spațiul absolut liniștit și închis al acestei capele să pară deosebit de primitor la sosire.",
+                "en": "The extremely cold morning air securely makes the quiet, enclosed space of this chapel safely feel especially highly welcoming."
+              }
+            },
+            {
+              "name": {
+                "de": "Ferme des Jeux",
+                "hu": "Ferme des Jeux",
+                "ro": "Ferme des Jeux",
+                "en": "Ferme des Jeux"
+              },
+              "tip_5lang": {
+                "de": "Eine fantastisch beheizte Indoor-Attraktion, wo Sie Ihren schweren Wintermantel für eine lange Weile im Auto lassen können.",
+                "hu": "Egy fantasztikusan fűtött beltéri látványosság, ahol egy kis időre kényelmesen az autóban hagyhatja nehéz, meleg téli kabátját.",
+                "ro": "O atracție interioară fantastic de bine încălzită, unde vă puteți lăsa paltonul greu de iarnă în mașină pentru o bună perioadă.",
+                "en": "A fantastic, safely heated indoor attraction entirely where you can securely leave your heavily thick winter coat within the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Vaux-le-Pénil",
+                "hu": "Vaux-le-Pénil Kastély",
+                "ro": "Castelul Vaux-le-Pénil",
+                "en": "Vaux-le-Pénil Castle"
+              },
+              "tip_5lang": {
+                "de": "Das frostbedeckte Gelände ist wunderschön, aber die beheizten Innenräume bieten eine dringend benötigte Zuflucht im Winter.",
+                "hu": "A zúzmarás terület rendkívül gyönyörű, de a fűtött belső terek egy nagyon is szükséges és kellemes téli menedéket biztosítanak.",
+                "ro": "Terenul acoperit complet de chiciură este absolut superb, dar camerele interioare calde oferă o evadare de iarnă foarte necesară.",
+                "en": "The heavily frost-covered grounds are completely beautiful, but the reliably heated interior rooms successfully provide a winter escape."
+              }
+            },
+            {
+              "name": {
+                "de": "Sankt-Stephans-Kirche",
+                "hu": "Szent István Templom",
+                "ro": "Biserica Sfântul Ștefan",
+                "en": "Saint Stephen's Church"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich gut ein, wenn Sie das Auto verlassen; die sehr dicken Steinmauern im Inneren können extrem tiefe Winterkälte speichern.",
+                "hu": "Öltözzön fel nagyon alaposan, amikor elhagyja az autót; a rendkívül vastag kőfalak odabent mély téli hideget képesek tartani.",
+                "ro": "Îmbrăcați-vă complet gros când părăsiți mașina; zidurile de piatră extrem de groase din interior pot reține un frig adânc de iarnă.",
+                "en": "Bundle up completely safely as you perfectly leave the car; the heavily thick stone walls purely inside can hold a deep winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Fief du Pré",
+                "hu": "Fief du Pré",
+                "ro": "Fief du Pré",
+                "en": "Fief du Pré"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Fenster für ein frostiges Foto herunter oder treten Sie nur sehr kurz in die eiskalte Winterbrise hinaus.",
+                "hu": "Húzza le az ablakot egy gyors fagyos fotóhoz, vagy csak egy rendkívül rövid pillanatra lépjen ki a jéghideg, csípős téli szélbe.",
+                "ro": "Deschideți geamul absolut doar pentru o fotografie înghețată sau ieșiți extrem de scurt în briza complet înghețată de iarnă.",
+                "en": "Safely roll down your window exactly for a highly quick frosty photo, or step out very briefly straight into the freezing winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Clos Notre-Dame",
+                "hu": "Clos Notre-Dame",
+                "ro": "Clos Notre-Dame",
+                "en": "Clos Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen könnten eisig sein, fahren Sie also sehr sicher und tragen Sie einen warmen Schal, wenn Sie diese Stätte im Freien erkunden.",
+                "hu": "Az utak valószínűleg jegesek lehetnek, ezért vezessen nagyon biztonságosan, és viseljen meleg sálat, amikor ezt a kinti helyszínt felfedezi.",
+                "ro": "Drumurile pot fi extrem de înghețate, așa că conduceți absolut în siguranță și purtați un fular complet gros când explorați acest sit.",
+                "en": "The roads might be exceptionally icy, so reliably drive safely and properly wear a highly warm scarf when exactly exploring this outdoor site."
+              }
+            },
+            {
+              "name": {
+                "de": "Schlosspark",
+                "hu": "Kastélypark",
+                "ro": "Parcul Castelului",
+                "en": "Castle Park"
+              },
+              "tip_5lang": {
+                "de": "Schlendern Sie durch die kahlen, frostigen Bäume, aber achten Sie auf die Zeit, da es bis 17:00 Uhr sehr dunkel und eiskalt wird.",
+                "hu": "Sétáljon a teljesen csupasz, fagyos fák között, de feltétlenül figyelje az időt, mivel 17:00 órára már nagyon sötét és jéghideg lesz.",
+                "ro": "Plimbați-vă complet printre copacii goi și absolut înghețați, dar urmăriți timpul cu mare atenție deoarece se întunecă și se răcește brusc până la 17:00.",
+                "en": "Stroll exactly through the highly bare, frosty trees, but correctly watch the time completely as it heavily gets very dark and safely cold by 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

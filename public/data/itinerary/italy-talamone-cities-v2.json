@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a tengeri örökség megismerésével a halászati múzeumban, majd sétáljon a városközpont felé. Délben látogasson el a gyönyörű Santa Maria Assunta templomba és az impozáns Aldobrandesca erődbe. Délután gyönyörködjön a kilátásban a történelmi világítótoronyból. A kellemes estét pedig a Bagno delle Donne tengerparti nyugalma mellett pihenve zárhatja le.",
         "ro": "Începeți dimineața explorând moștenirea maritimă locală la muzeul pescuitului, înainte de a vă plimba spre centru. La prânz vizitați frumoasa biserică Santa Maria Assunta și impunătoarea fortăreață Aldobrandesca. După-amiaza, priviți marea de la farul istoric în timp ce briza vă răcorește. Încheiați seara relaxantă lângă apele cristaline de la Bagno delle Donne.",
         "en": "Start your morning delving into local maritime heritage at the fishing museum before strolling toward the town center. Midday brings you to the lovely Santa Maria Assunta and the imposing Aldobrandesca fortress. In the afternoon, gaze out from the historic lighthouse as the sea breeze cools you down. Finish your leisurely evening relaxing by the water at Bagno delle Donne."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Fischereimuseum perfekten Schutz vor den Küstenschauern. Mittags erkunden wir die Kirche und die Burgruinen, wobei wir auf den glatten Steinpflastern vorsichtig sein müssen. Am Nachmittag trotzen wir dem Wind am Leuchtturm mit einem stabilen Schirm. Der Abend klingt bei der Beobachtung der stürmischen Wellen aus, die gegen die Felsen unterhalb der Promenade schlagen.",
+            "hu": "Reggel a halászati múzeum nyújt fedett menedéket a tengerparti zápor elől. Délben a várfalak között sétálva figyeljük a viharos tengert, de vigyázzunk a csúszós kövekre. Délután a világítótoronynál az erős szélben is élvezhetjük a panorámát egy jó esernyővel. Este a kikötő fényeit a parti sétány védett pontjairól csodálhatjuk meg, miközben az eső a macskaköveken kopog.",
+            "ro": "Dimineața, muzeul pescuitului oferă un adăpost perfect împotriva ploii de coastă. La prânz, explorăm biserica și cetatea, având grijă pe pavajul alunecos. După-amiaza, admirăm marea agitată de lângă far, protejați de o umbrelă rezistentă la vânt. Seara se încheie cu sunetul valurilor care se sparg de stânci, o experiență dramatică sub cerul înnorat al Toscanei.",
+            "en": "In the morning, the fishing museum provides a perfect indoor refuge from the coastal showers. At noon, we explore the church and the castle walls, taking care on the slippery stone pavements. In the afternoon, we brave the wind at the lighthouse with a sturdy umbrella. The evening ends watching the dramatic waves crash against the rocks below the promenade as the rain taps on the cobbles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Pesca e delle Tradizioni Lagunari",
+                "hu": "Museo della Pesca e delle Tradizioni Lagunari",
+                "ro": "Museo della Pesca e delle Tradizioni Lagunari",
+                "en": "Museo della Pesca e delle Tradizioni Lagunari"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausführlichen Besuch der Indoor-Ausstellungen über die Lagune; die detaillierten Bootsmodelle sind auch bei trübem Licht faszinierend.",
+                "hu": "Használja ki az esőt a lagúna életét bemutató fedett kiállítás részletes megtekintésére; a régi halászbárkák makettjei borús időben is lenyűgöző látványt nyújtanak.",
+                "ro": "Profită de ploaie pentru o vizită detaliată a expozițiilor interioare despre lagună; machetele de bărci sunt fascinante chiar și sub lumina difuză a unei zile ploioase.",
+                "en": "Take advantage of the rain for a detailed visit to the indoor exhibits about the lagoon; the intricate boat models are fascinating even in dim, overcast light."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Assunta",
+                "hu": "Chiesa di Santa Maria Assunta",
+                "ro": "Chiesa di Santa Maria Assunta",
+                "en": "Chiesa di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche ist ein idealer Ort für eine trockene Pause; bewundern Sie die Stille und die Fresken, während draußen der Regen gegen die alten Mauern peitscht.",
+                "hu": "Ez a kis templom ideális hely egy száraz pihenőre; csodálja meg a csendet és a freskókat, miközben kint az eső veri a vastag, középkori falakat.",
+                "ro": "Această mică biserică este locul ideal pentru o pauză uscată; admiră liniștea și frescele în timp ce afară ploaia bate în zidurile vechi medievale.",
+                "en": "This small church is an ideal spot for a dry break; admire the silence and the frescoes while outside the rain lashes against the thick medieval walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocca Aldobrandesca",
+                "hu": "Rocca Aldobrandesca",
+                "ro": "Rocca Aldobrandesca",
+                "en": "Rocca Aldobrandesca"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt im Regen besonders mystisch; seien Sie jedoch vorsichtig auf den glatten Stufen der Wehrmauern und suchen Sie Schutz unter den Torbögen.",
+                "hu": "A vár esőben különösen misztikus hangulatot áraszt; legyen óvatos a várfalak csúszós lépcsőin, és keressen menedéket a boltíves kapualjak alatt.",
+                "ro": "Cetatea are o atmosferă mistică pe ploaie; fii atent pe treptele alunecoase ale zidurilor și caută adăpost sub arcadele porților vechi.",
+                "en": "The castle has a particularly mystical atmosphere in the rain; be careful on the slippery steps of the ramparts and seek shelter under the arched gateways."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Talamone",
+                "hu": "Faro di Talamone",
+                "ro": "Faro di Talamone",
+                "en": "Faro di Talamone"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Fußweg führt zu diesem Aussichtspunkt; genießen Sie das Schauspiel der grauen See, aber halten Sie Ihren Regenschirm wegen der Böen gut fest.",
+                "hu": "Rövid, áztató séta vezet ehhez a ponthoz; élvezze a szürke tenger látványát, de az erős széllökések miatt szorosan fogja az esernyője nyelét.",
+                "ro": "O scurtă plimbare prin ploaie te duce la acest punct; admiră spectacolul mării cenușii, dar ține bine umbrela din cauza rafalelor puternice de vânt.",
+                "en": "A short, wet walk leads to this viewpoint; enjoy the spectacle of the gray sea, but hold your umbrella tightly due to the strong coastal wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Stabilmento balneare Bagno delle Donne",
+                "hu": "Stabilmento balneare Bagno delle Donne",
+                "ro": "Stabilmento balneare Bagno delle Donne",
+                "en": "Stabilmento balneare Bagno delle Donne"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist heute verlassen und wild; beobachten Sie die Brandung von den asphaltierten Wegen aus und meiden Sie die nassen, glitschigen Felsen am Ufer.",
+                "hu": "A strand ma elhagyatott és vad; a hullámtörést az aszfaltozott utakról figyelje, és kerülje a vízparti nedves, algás és rendkívül csúszós sziklákat.",
+                "ro": "Plaja este pustie și sălbatică astăzi; observă valurile de pe potecile asfaltate și evită stâncile ude și alunecoase de la marginea apei.",
+                "en": "The beach is deserted and wild today; watch the surf from the paved paths and avoid the wet, algae-covered rocks near the water's edge which are slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch und klar im Museum. Mittags wärmen wir uns in den Gassen des historischen Zentrums auf, bevor wir die Burg im sanften Winterlicht erklimmen. Am Nachmittag bietet der Leuchtturm eine weite Sicht über das ruhige Meer. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir das frühe Abendrot von der Klippe aus, eingehüllt in eine warme Jacke.",
+            "hu": "A téli reggel frissen és tisztán indul a múzeumban. Délben a történelmi központ utcáin melegszünk fel, mielőtt a várat megmásszuk a lágy téli fényben. Délután a világítótoronytól messzire ellátni a nyugodt tenger felett. Mivel a nap már 17:00 körül nyugszik, a korai alkonyt már a sziklákról csodáljuk, meleg kabátba burkolózva.",
+            "ro": "Dimineața de iarnă începe proaspătă și senină la muzeu. La prânz, ne încălzim pe străzile centrului istoric înainte de a urca la cetate în lumina blândă a soarelui. După-amiaza, farul oferă o vedere clară peste marea liniștită. Deoarece soarele apune în jurul orei 17:00, admirăm amurgul de pe stânci, bine înfofoliți în haine groase.",
+            "en": "The winter morning starts fresh and clear at the museum. At noon, we warm up in the streets of the historical center before climbing the castle in the soft winter light. Afternoon offers a clear view from the lighthouse over the calm sea. As the sun sets around 5:00 PM, we admire the early twilight from the cliffs, wrapped in a warm winter jacket."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Pesca e delle Traditions Lagunari",
+                "hu": "Museo della Pesca e delle Tradizioni Lagunari",
+                "ro": "Museo della Pesca e delle Tradizioni Lagunari",
+                "en": "Museo della Pesca e delle Tradizioni Lagunari"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den kalten Morgenwind zu vermeiden; die Innenräume sind angenehm temperiert und bieten einen tiefen Einblick in die lokale Kultur.",
+                "hu": "Tökéletes hely a hideg reggeli szél elkerülésére; a belső terek kellemes hőmérsékletűek, és mély betekintést nyújtanak a helyi halászkultúrába.",
+                "ro": "Locul perfect pentru a evita vântul rece de dimineață; interioarele au o temperatură plăcută și oferă o perspectivă profundă asupra culturii locale.",
+                "en": "The perfect place to avoid the cold morning wind; the interiors are pleasantly tempered and offer deep insight into the local lagoon culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Assunta",
+                "hu": "Chiesa di Santa Maria Assunta",
+                "ro": "Chiesa di Santa Maria Assunta",
+                "en": "Chiesa di Santa Maria Assunta"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche herrscht eine friedliche Winterstille; die dicken Mauern speichern die Restwärme und bieten einen besinnlichen Rückzugsort in der Mittagszeit.",
+                "hu": "A templomban békés téli csend honol; a vastag falak jól tartják a hőt, így délidőben meghitt és viszonylag meleg menedéket nyújtanak a látogatóknak.",
+                "ro": "În biserică domnește o liniște deplină de iarnă; zidurile groase rețin căldura, oferind un refugiu primitor și spiritual în timpul amiezii reci.",
+                "en": "Peaceful winter silence reigns in the church; the thick walls retain some warmth, providing a cozy and spiritual refuge during the chilly midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocca Aldobrandesca",
+                "hu": "Rocca Aldobrandesca",
+                "ro": "Rocca Aldobrandesca",
+                "en": "Rocca Aldobrandesca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos ohne Touristenmassen; oben auf den Zinnen weht eine kräftige Brise, daher ist eine windfeste Jacke unerlässlich.",
+                "hu": "Használja ki a tiszta téli fényeket a tömegmentes fotózáshoz; a bástyákon erős szél fújhat, ezért egy szélálló kabát viselése elengedhetetlen a nézelődéshez.",
+                "ro": "Profită de lumina clară de iarnă pentru fotografii fără mulțimi de turiști; pe bastioane vântul poate fi puternic, deci o jachetă groasă este obligatorie.",
+                "en": "Take advantage of the clear winter light for photos without the crowds; a strong breeze blows on the ramparts, so a windproof jacket is essential for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Talamone",
+                "hu": "Faro di Talamone",
+                "ro": "Faro di Talamone",
+                "en": "Faro di Talamone"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Sicht auf die Inseln des toskanischen Archipels oft am besten; halten Sie Ausschau nach Giglio am fernen, scharf gezeichneten Horizont.",
+                "hu": "Télen a legjobb a kilátás a Toszkán-szigetvilágra; keressen rá a távoli, élesen kirajzolódó horizonton Giglio szigetére a tiszta, hideg levegőben.",
+                "ro": "Iarna, vizibilitatea spre insulele arhipelagului toscan este adesea cea mai bună; caută insula Giglio la orizontul îndepărtat și bine definit.",
+                "en": "In winter, visibility towards the Tuscan Archipelago islands is often best; look for Giglio island on the distant, sharp horizon in the crisp cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Stabilmento balneare Bagno delle Donne",
+                "hu": "Stabilmento balneare Bagno delle Donne",
+                "ro": "Stabilmento balneare Bagno delle Donne",
+                "en": "Stabilmento balneare Bagno delle Donne"
+              },
+              "tip_5lang": {
+                "de": "Ein nostalgischer Spaziergang am leeren Strand kurz vor Sonnenuntergang; genießen Sie die Einsamkeit und das Rauschen der See in der kühlen Abendluft.",
+                "hu": "Nosztalgikus séta az üres strandon közvetlenül naplemente előtt; élvezze a magányt és a tenger zúgását a hűvös, sós esti levegőben.",
+                "ro": "O plimbare nostalgică pe plaja goală chiar înainte de apus; bucură-te de singurătate și de sunetul mării în aerul răcoros de seară.",
+                "en": "A nostalgic walk on the empty beach just before sunset; enjoy the solitude and the roar of the sea in the cool, salty evening air before the early dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Induljon kerékpárral a halászati múzeumtól, majd hamarosan elérheti a város fölé magasodó történelmi erődöt. Délben haladjon el az ikonikus világítótorony mellett, majd tekerjen a festői Capo d'Uomo torony felé. Délután kellemes utazás vár az ősi római ciszterna romjainak felfedezéséhez. Ahogy leszáll az est, térjen vissza a központba egy élményekkel teli nap után.",
         "ro": "Porniți cu bicicleta dimineața de la muzeul pescuitului, înainte de a ajunge rapid la fortăreața istorică. La prânz, treceți pe lângă farul emblematic și mergeți spre turnul pitoresc Capo d'Uomo. După-amiaza oferă o plimbare lină pentru a explora vechile ruine ale cisternei romane. Pe măsură ce se lasă seara, întoarceți-vă în siguranță în centru, reflectând la ziua minunată.",
         "en": "Pedal into the morning starting at the fishing museum before swiftly reaching the historic fortress overlooking the town. Midday takes you past the iconic lighthouse and out toward the scenic Capo d'Uomo tower. The afternoon offers a smooth ride to explore the ancient Roman cistern ruins. As evening falls, safely glide back to the center and reflect on a rich day of exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt vorsichtig am Museum, während der erste Regen einsetzt. Mittags fahren wir auf befestigten Wegen zur Burg, meiden aber steile, rutschige Gassen. Am Nachmittag führt die Route zum Turm, wo Nebelschleier über der Küste hängen. Wir beenden die Tour frühzeitig, da die Sicht auf den nassen Straßen abnimmt und die Bremsen bei Nässe mehr Aufmerksamkeit erfordern.",
+            "hu": "A biciklitúra óvatosan indul a múzeumnál, ahogy elered az eső. Délben aszfaltozott utakon haladunk a vár felé, kerülve a meredek, csúszós sikátorokat. Délután a toronyhoz tekerünk, ahol ködfátyol borítja a partvidéket. Korán fejezzük be a napot, mert a vizes utakon romlik a látótávolság, és a fékek is több odafigyelést igényelnek a nedvesség miatt.",
+            "ro": "Turul cu bicicleta începe prudent la muzeu, pe măsură ce ploaia se intensifică. La prânz, urmăm drumurile asfaltate spre cetate, evitând străzile înguste și abrupte. După-amiaza pedalăm spre turn, unde ceața acoperă coasta. Încheiem tura devreme, deoarece vizibilitatea scade pe drumurile ude, iar frânele necesită o atenție sporită.",
+            "en": "The bike tour starts cautiously at the museum as the first rain falls. At noon, we stick to paved roads towards the castle, avoiding steep, slippery alleys. In the afternoon, the route leads to the tower where mist hangs over the coast. We end the tour early as visibility decreases on wet roads and brakes require more attention due to the moisture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Pesca e delle Tradizioni Lagunari",
+                "hu": "Museo della Pesca e delle Tradizioni Lagunari",
+                "ro": "Museo della Pesca e delle Tradizioni Lagunari",
+                "en": "Museo della Pesca e delle Tradizioni Lagunari"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung und nutzen Sie die Regenpause für die Ausstellung; prüfen Sie Ihre Reifen für die Weiterfahrt auf nassen Wegen.",
+                "hu": "Parkolja le a biciklit az előtető alatt, és használja ki az esőszünetet a kiállításra; ellenőrizze a gumik állapotát a vizes úton való haladáshoz.",
+                "ro": "Parchează bicicleta sub streșină și profită de pauza de ploaie pentru a vizita expoziția; verifică anvelopele pentru drumul pe asfalt umed.",
+                "en": "Park your bike under the overhang and use the rain break to explore the museum; check your tire grip before continuing on the wet coastal paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocca Aldobrandesca",
+                "hu": "Rocca Aldobrandesca",
+                "ro": "Rocca Aldobrandesca",
+                "en": "Rocca Aldobrandesca"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg ist auf Kopfsteinpflaster rutschig; steigen Sie im Zweifel ab und schieben Sie das Rad durch die schmalen, nassen Altstadtgassen.",
+                "hu": "A várfeljáró macskakövei csúszósak lehetnek; kétség esetén szálljon le és tolja a kerékpárt a szűk, vizes óvárosi utcákon a biztonság érdekében.",
+                "ro": "Urcarea spre cetate pe piatră cubică este alunecoasă; dacă este necesar, coboară și împinge bicicleta pe străzile înguste și ude ale orașului vechi.",
+                "en": "The cobblestone climb to the castle is slippery; if in doubt, dismount and push your bike through the narrow, wet old town alleys for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Talamone",
+                "hu": "Faro di Talamone",
+                "ro": "Faro di Talamone",
+                "en": "Faro di Talamone"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen und Schlamm auf dem Weg zum Leuchtturm; die Meeresbrise kann das Radfahren bei Regen erschweren, fahren Sie daher langsam und stetig.",
+                "hu": "Ügyeljen a tócsákra és a sárra a világítótorony felé vezető úton; a tengeri szél és az eső nehezítheti a haladást, ezért tekerjen lassabb tempóban.",
+                "ro": "Atenție la bălți și noroi pe drumul spre far; briza mării și ploaia pot îngreuna pedalatul, așa că menține o viteză constantă și redusă.",
+                "en": "Watch out for puddles and mud on the way to the lighthouse; the sea breeze can make cycling difficult in the rain, so ride at a slow and steady pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Capo d'Uomo",
+                "hu": "Torre di Capo d'Uomo",
+                "ro": "Torre di Capo d'Uomo",
+                "en": "Torre di Capo d'Uomo"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg bietet bei Regen eine dramatische Sicht auf die dunstige Küste; bleiben Sie auf dem Hauptweg, da die Seitenpfade nun sehr schlammig sind.",
+                "hu": "Az emelkedő esőben drámai kilátást nyújt a párás partvidékre; maradjon a főúton, mert a mellékösvények ilyenkor nagyon sarasak és balesetveszélyesek.",
+                "ro": "Urcarea oferă o priveliște dramatică spre coasta cețoasă; rămâi pe drumul principal, deoarece potecile secundare sunt acum foarte noroioase.",
+                "en": "The climb offers a dramatic view of the misty coast in the rain; stay on the main road as the side trails are now very muddy and potentially dangerous."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterna romana Di Talamone",
+                "hu": "Cisterna romana Di Talamone",
+                "ro": "Cisterna romana Di Talamone",
+                "en": "Cisterna romana Di Talamone"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen wirken im Regen noch mystischer; parken Sie das Rad sicher auf festem Grund, da das Gras um die Zisterne herum aufgeweicht sein kann.",
+                "hu": "Az ókori romok esőben még titokzatosabbak; parkoljon szilárd talajon, mert a ciszterna körüli füves terület ilyenkor teljesen felázhat és csúszhat.",
+                "ro": "Ruinele antice par și mai misterioase în ploaie; parchează bicicleta pe teren solid, deoarece iarba din jurul cisternei poate fi foarte moale.",
+                "en": "The ancient ruins look even more mysterious in the rain; park your bike on firm ground as the grass around the cistern can be very soft and soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Wintertour durch die Maremma. Wir starten morgens am Museum, wenn die Luft noch kühl ist. Mittags nutzen wir die klare Sicht für die Auffahrt zur Burg und zum Turm, wo uns ein kräftiger, kalter Wind empfängt. Am Nachmittag erkunden wir die römischen Ruinen im goldenen Licht der tiefstehenden Sonne. Die Tour endet pünktlich vor Einbruch der Dunkelheit gegen 17:00 Uhr.",
+            "hu": "Frissítő téli túra a Maremma vidékén. Reggel a múzeumnál kezdünk, amikor a levegő még hűvös. Délben kihasználjuk a tiszta látási viszonyokat a vár és a torony megmászásához, ahol erős, hideg szél fogad minket. Délután a római romokat fedezzük fel az alacsony napállás aranyló fényében. A túra pontosan a sötétedés előtt, 17:00 körül ér véget.",
+            "ro": "O tură revigorantă de iarnă prin regiunea Maremma. Începem dimineața la muzeu, când aerul este încă rece. La prânz profităm de vizibilitatea clară pentru a urca la cetate și la turn, unde ne întâmpină un vânt rece. După-amiaza explorăm ruinele romane în lumina aurie a soarelui care apune devreme. Tura se încheie înainte de lăsarea întunericului, la ora 17:00.",
+            "en": "An invigorating winter tour through the Maremma. We start in the morning at the museum when the air is still crisp. At noon, we take advantage of the clear visibility to climb to the castle and tower, where a strong cold wind greets us. In the afternoon, we explore Roman ruins in the golden light of the low sun. The tour ends promptly before dark at 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo della Pesca e delle Tradizioni Lagunari",
+                "hu": "Museo della Pesca e delle Tradizioni Lagunari",
+                "ro": "Museo della Pesca e delle Tradizioni Lagunari",
+                "en": "Museo della Pesca e delle Tradizioni Lagunari"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier, um sich vor der Fahrt aufzuwärmen; die Ausstellungen bieten einen guten kulturellen Kontrast zur sportlichen Aktivität im Freien.",
+                "hu": "Kezdje itt a napot, hogy bemelegedjen a tekerés előtt; a kiállítások remek kulturális kontrasztot nyújtanak a szabadtéri sportoláshoz a hidegben.",
+                "ro": "Începe aici pentru a te încălzi înainte de drum; expozițiile oferă un contrast cultural excelent față de activitatea sportivă în aer liber.",
+                "en": "Start here to warm up before your ride; the indoor exhibits offer a great cultural contrast to the outdoor cycling activity in the chilly air."
+              }
+            },
+            {
+              "name": {
+                "de": "Rocca Aldobrandesca",
+                "hu": "Rocca Aldobrandesca",
+                "ro": "Rocca Aldobrandesca",
+                "en": "Rocca Aldobrandesca"
+              },
+              "tip_5lang": {
+                "de": "Der steile Anstieg bringt den Kreislauf in Schwung; oben angekommen, schützt eine winddichte Schicht vor dem Auskühlen während der Fotopause.",
+                "hu": "A meredek emelkedő jól beindítja a vérkeringést; felérve egy szélálló réteg megvédi a kihűléstől, miközben a téli panorámát fotózza a bástyáról.",
+                "ro": "Urcarea abruptă îți va pune sângele în mișcare; odată ajuns sus, o jachetă rezistentă la vânt te va proteja de frig în timp ce faci fotografii.",
+                "en": "The steep climb will get your circulation going; once at the top, a windproof layer protects you from cooling down while taking photos of the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro di Talamone",
+                "hu": "Faro di Talamone",
+                "ro": "Faro di Talamone",
+                "en": "Faro di Talamone"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft am Meer; halten Sie nach Vögeln Ausschau, die in der Lagune überwintern, während Sie eine kurze Trinkpause machen.",
+                "hu": "Élvezze a tiszta téli tengeri levegőt; figyeljen a lagúnában telelő madarakra, miközben tart egy rövid frissítő szünetet a világítótoronynál.",
+                "ro": "Bucură-te de aerul curat de iarnă de lângă mare; caută cu privirea păsările care iernează în lagună în timp ce faci o scurtă pauză de hidratare.",
+                "en": "Enjoy the crisp winter sea air; look out for birds wintering in the lagoon while you take a short break at the lighthouse to rehydrate."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Capo d'Uomo",
+                "hu": "Torre di Capo d'Uomo",
+                "ro": "Torre di Capo d'Uomo",
+                "en": "Torre di Capo d'Uomo"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter spektakulär; tragen Sie unbedingt Handschuhe, da der Fahrtwind auf dem Weg zum Turm die Finger schnell auskühlen lässt.",
+                "hu": "A távoli kilátás télen lenyűgöző; mindenképpen viseljen kesztyűt, mert a menetszél a torony felé vezető úton gyorsan lehűtheti az ujjait.",
+                "ro": "Vizibilitatea la distanță este spectaculoasă iarna; poartă neapărat mănuși, deoarece vântul îți poate îngheța degetele pe drumul spre turn.",
+                "en": "The long-distance visibility is spectacular in winter; be sure to wear gloves, as the wind chill on the way to the tower can quickly freeze your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Cisterna romana Di Talamone",
+                "hu": "Cisterna romana Di Talamone",
+                "ro": "Cisterna romana Di Talamone",
+                "en": "Cisterna romana Di Talamone"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht der tiefstehenden Wintersonne betont die Textur der antiken Steine; ein friedlicher Ort für den Abschluss Ihrer Radtour vor dem Abend.",
+                "hu": "Az alacsony téli nap meleg fénye kiemeli az antik kövek mintázatát; békés hely a biciklitúra befejezéséhez még a korai sötétedés beállta előtt.",
+                "ro": "Lumina caldă a soarelui de iarnă subliniază textura pietrelor antice; un loc liniștit pentru a încheia tura cu bicicleta înainte de lăsarea serii.",
+                "en": "The warm light of the low winter sun emphasizes the texture of the ancient stones; a peaceful spot to end your bike tour before the early evening."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autózzon el reggel az ősi római ciszternához és a Villa le Terme lenyűgöző fürdőmaradványaihoz. Délben egy rövid úttal elérheti a csendes Madonna delle Grazie templomot egy kis elvonulásra. Töltse a délutánt azzal, hogy hihetetlen kilátást élvez a régi szemafor állomásról. Zárja az estét egy felejthetetlen naplementés autózással a Punta del Corvo felé.",
         "ro": "Conduceți dimineața pentru a descoperi secrete la cisterna romană și rămășițele termale de la Villa le Terme. La prânz, un scurt drum vă aduce la liniștita Madonna delle Grazie pentru retragere pașnică. Petreceți-vă după-amiaza admirând priveliștile incredibile de la vechea stație de semafor. Încheiați seara cu o plimbare de neuitat la apus către Punta del Corvo.",
         "en": "Drive off in the morning to uncover ancient secrets at the Roman cistern and the fascinating thermal remnants of Villa le Terme. By midday, a short drive brings you to the quiet Madonna delle Grazie for a peaceful retreat. Spend your afternoon catching incredible views from the old Semaphore station. Conclude the evening with an unforgettable sunset drive to Punta del Corvo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Autofahrt durch das verregnete Talamone. Morgens erkunden wir die römische Zisterne, wobei das Auto als trockener Rückzugsort dient. Mittags fahren wir zur Kirche und zur Villa, wobei wir die mystische Stimmung der Maremma genießen. Am Nachmittag bietet das 'Semaforo' einen grandiosen Blick auf die stürmische Küste direkt aus dem Fenster, bevor wir den Tag an der Punta del Corvo beenden.",
+            "hu": "Kényelmes autós kirándulás az esős Talamonéban. Reggel a római ciszternát fedezzük fel, az autó pedig száraz menedékként szolgál a záporok között. Délben a templomhoz és a villához hajtunk, élvezve a Maremma vidékének misztikus hangulatát. Délután a 'Semaforo' pontról közvetlenül az ablakból csodáljuk a viharos partot, majd a Punta del Corvo szikláinál zárjuk a napot.",
+            "ro": "O călătorie relaxantă cu mașina prin Talamone pe ploaie. Dimineața explorăm cisterna romană, mașina fiind un refugiu uscat între reprizele de ploaie. La prânz mergem spre biserică și vilă, bucurându-ne de atmosfera mistică. După-amiaza, punctul 'Semaforo' oferă o vedere spre coasta furtunoasă direct de la geam, înainte de a încheia ziua la Punta del Corvo.",
+            "en": "A comfortable car trip through rainy Talamone. In the morning, we explore the Roman cistern, with the car serving as a dry refuge between showers. At noon, we drive to the church and villa, enjoying the mystical atmosphere of the Maremma. In the afternoon, 'Semaforo' offers a grand view of the stormy coast directly from the window, before ending at Punta del Corvo."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cisterna romana Di Talamone",
+                "hu": "Cisterna romana Di Talamone",
+                "ro": "Cisterna romana Di Talamone",
+                "en": "Cisterna romana Di Talamone"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regenaufenthalt kurz zu halten; die antike Ingenieurskunst ist auch bei grauem Wetter beeindruckend.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja az esőben töltött időt; az antik mérnöki munka szürke időben is lenyűgöző látvány.",
+                "ro": "Parchează cât mai aproape de intrare pentru a minimiza timpul petrecut în ploaie; ingineria antică este impresionantă chiar și pe vreme gri.",
+                "en": "Park as close to the entrance as possible to minimize time spent in the rain; the ancient engineering remains impressive even in gloomy gray weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Francesca di Talamone - Villa le Terme",
+                "hu": "Santa Francesca di Talamone - Villa le Terme",
+                "ro": "Santa Francesca di Talamone - Villa le Terme",
+                "en": "Santa Francesca di Talamone - Villa le Terme"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die Ruinen zu bewundern; der Regen hebt die Farben der antiken Steine und Mosaike hervor, was ihnen einen besonderen Glanz verleiht.",
+                "hu": "Rövid megálló a romok megcsodálására; az eső kiemeli az antik kövek és mozaikok színeit, különleges csillogást kölcsönözve a romkertnek a párás időben.",
+                "ro": "O scurtă oprire pentru a admira ruinele; ploaia scoate în evidență culorile pietrelor antice și ale mozaicurilor, oferindu-le o strălucire aparte.",
+                "en": "A short stop to admire the ruins; the rain highlights the colors of the ancient stones and mosaics, giving them a unique glow in the misty air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna delle Grazie",
+                "hu": "Chiesa della Madonna delle Grazie",
+                "ro": "Chiesa della Madonna delle Grazie",
+                "en": "Chiesa della Madonna delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist eine perfekte Zuflucht bei Starkregen; das schlichte Innere wirkt bei prasselndem Regen draußen besonders schützend und einladend.",
+                "hu": "Ez a templom tökéletes menedék heves esőzés idején; az egyszerű belső tér különösen hívogató és védelmező, miközben kint dobol az eső a tetőn.",
+                "ro": "Această biserică este un refugiu perfect în timpul ploilor torențiale; interiorul simplu pare primitor și protector în timp ce afară plouă cu găleata.",
+                "en": "This church is a perfect sanctuary during heavy rain; the simple interior feels especially protective and welcoming while the rain drums on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Semaforo",
+                "hu": "Semaforo",
+                "ro": "Semaforo",
+                "en": "Semaforo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama direkt aus dem Auto; die Sicht auf das stürmische Meer ist von diesem erhöhten Punkt aus absolut spektakulär und sicher.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból; a viharos tenger látványa erről a magaslati pontról teljesen lenyűgöző, biztonságos és száraz marad közben.",
+                "ro": "Bucură-te de panoramă direct din mașină; vederea spre marea învolburată este absolut spectaculoasă și sigură din acest punct înalt.",
+                "en": "Enjoy the panorama directly from your car; the view of the stormy sea is absolutely spectacular and safe from this elevated, dry vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Corvo",
+                "hu": "Punta del Corvo",
+                "ro": "Punta del Corvo",
+                "en": "Punta del Corvo"
+              },
+              "tip_5lang": {
+                "de": "Das Ende der Straße bietet einen wilden Blick auf die Meeresgischt; bleiben Sie im Wagen, falls der Regen zu stark wird, und beobachten Sie die Naturgewalt.",
+                "hu": "Az út vége vad kilátást nyújt a tengeri tajtékra; maradjon az autóban, ha az eső túl erősre fordul, és figyelje a természet erejét a sziklákról.",
+                "ro": "Capătul drumului oferă o vedere sălbatică spre mare; rămâi în mașină dacă ploaia devine prea puternică și observă forța naturii peste stânci.",
+                "en": "The end of the road offers a wild view of the sea spray; stay in the car if the rain gets too heavy and watch the power of nature over the cliffs."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Ausblicke entlang der Küste von Talamone. Morgens besuchen wir die antiken Stätten in der frischen, klaren Luft. Mittags führt die Fahrt zu den historischen Kapellen der Umgebung, wo die tiefe Wintersonne lange Schatten wirft. Am Nachmittag genießen wir die weite Fernsicht vom 'Semaforo' aus. Da es früh dunkel wird, erleben wir den Sonnenuntergang gegen 17:00 Uhr am Punta del Corvo bequem im Auto.",
+            "hu": "Téli kilátások Talamone partjai mentén. Reggel a friss, tiszta levegőben látogatjuk meg az antik lelőhelyeket. Délben a környék történelmi kápolnáihoz autózunk, ahol az alacsonyan járó téli nap hosszú árnyékokat vet. Délután a 'Semaforo' ponttól élvezzük a messzi kilátást. Mivel korán sötétedik, a 17:00 körüli naplementét a Punta del Corvo-nál már az autóból nézzük.",
+            "ro": "Priveliști de iarnă de-a lungul coastei Talamone. Dimineața vizităm siturile antice în aerul proaspăt și curat. La prânz mergem spre capelele istorice, unde soarele de iarnă aruncă umbre lungi. După-amiaza ne bucurăm de vizibilitatea clară de la 'Semaforo'. Deoarece se întunecă devreme, admirăm apusul de la ora 17:00 la Punta del Corvo, confortabil din mașină.",
+            "en": "Wintery views along the Talamone coast. In the morning, we visit the ancient sites in the fresh, clear air. At noon, the drive leads to historical chapels where the low winter sun casts long shadows. In the afternoon, we enjoy long-distance views from 'Semaforo'. As it gets dark early, we witness the 5:00 PM sunset at Punta del Corvo comfortably from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cisterna romana Di Talamone",
+                "hu": "Cisterna romana Di Talamone",
+                "ro": "Cisterna romana Di Talamone",
+                "en": "Cisterna romana Di Talamone"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage ist im Winter sehr ruhig; die klare Luft lässt die Struktur des römischen Wassersystems besonders gut zur Geltung kommen.",
+                "hu": "A lelőhely télen nagyon csendes; a tiszta levegőben a római vízvezetékrendszer felépítése és mérnöki precizitása különösen jól érvényesül.",
+                "ro": "Situl este foarte liniștit iarna; aerul curat scoate în evidență structura sistemului roman de alimentare cu apă și precizia construcției.",
+                "en": "The site is very quiet in winter; the clear air allows the structure and engineering of the Roman water system to stand out particularly well."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Francesca di Talamone - Villa le Terme",
+                "hu": "Santa Francesca di Talamone - Villa le Terme",
+                "ro": "Santa Francesca di Talamone - Villa le Terme",
+                "en": "Santa Francesca di Talamone - Villa le Terme"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am Vormittag ist ideal; die karge Wintervegetation gibt den Blick auf Mauern frei, die im Sommer oft von Grün überwuchert sind.",
+                "hu": "A délelőtti látogatás ideális; a ritkásabb téli növényzet olyan falrészleteket is láthatóvá tesz, amelyeket nyáron gyakran elfed a dús zöld növényzet.",
+                "ro": "O vizită dimineața este ideală; vegetația rară de iarnă permite observarea unor detalii ale zidurilor care vara sunt adesea acoperite de verdeață.",
+                "en": "A morning visit is ideal; the sparse winter vegetation reveals wall details that are often hidden by lush greenery during the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna delle Grazie",
+                "hu": "Chiesa della Madonna delle Grazie",
+                "ro": "Chiesa della Madonna delle Grazie",
+                "en": "Chiesa della Madonna delle Grazie"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Zwischenstopp auf Ihrer winterlichen Fahrt; die schlichte Fassade verbirgt ein warmes und einladendes lokales Interieur.",
+                "hu": "Békés pihenőhely a téli autózás közben; az egyszerű homlokzat meleg és barátságos belső teret rejt, amely tökéletes egy rövid lelki feltöltődéshez.",
+                "ro": "O oprire liniștită în timpul drumului de iarnă; fațada simplă ascunde un interior cald și primitor, perfect pentru o scurtă pauză de relaxare.",
+                "en": "A peaceful stop during your winter drive; the simple facade hides a warm and welcoming local interior, perfect for a short moment of reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Semaforo",
+                "hu": "Semaforo",
+                "ro": "Semaforo",
+                "en": "Semaforo"
+              },
+              "tip_5lang": {
+                "de": "Dank der klaren Winteratmosphäre haben Sie heute die beste Fernsicht; blicken Sie weit über den toskanischen Archipel hinaus bis zum Horizont.",
+                "hu": "A tiszta téli légkörnek köszönhetően ma van a legjobb kilátás; tekintsen messzire a Toszkán-szigetvilág felett, egészen a távoli horizontig.",
+                "ro": "Datorită atmosferei clare de iarnă, astăzi ai cea mai bună vizibilitate; privește departe peste arhipelagul toscan, până la orizontul îndepărtat.",
+                "en": "Thanks to the clear winter atmosphere, you have the best visibility today; look far across the Tuscan Archipelago towards the distant horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta del Corvo",
+                "hu": "Punta del Corvo",
+                "ro": "Punta del Corvo",
+                "en": "Punta del Corvo"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor 17:00 Uhr hierher, um den Wintersonnenuntergang über dem Meer zu erleben; es ist der perfekte, warme Abschluss Ihrer Tour.",
+                "hu": "Érkezzen nem sokkal 17:00 előtt, hogy elcsípje a tenger feletti téli naplementét; ez a tökéletes, kényelmes és meleg lezárása az autós túrának.",
+                "ro": "Sosește cu puțin timp înainte de ora 17:00 pentru a surprinde apusul de iarnă peste mare; este finalul perfect și confortabil al turului tău.",
+                "en": "Arrive just before 5:00 PM to catch the winter sunset over the sea; it's the perfect, comfortable and warm end to your car tour of the area."
+              }
+            }
+          ]
+        }
       }
     }
   }

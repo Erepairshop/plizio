@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Santa Coloma de Farners szívében a történelmi plébániatemplom felfedezésével. Az építészet megcsodálása után sétáljon el a La Casa de la Paraula épületéhez, hogy elmerüljön a helyi kulturális örökségben.\n\nA dél közeledtével sétáljon a városközpont széle felé, és fedezze fel a Molí de n'Iglesias-t. Ez a történelmi malom varázslatos bepillantást nyújt a régió mezőgazdasági múltjába, békés helyet biztosítva a pihenésre.\n\nTöltse a kora délutánt a hatalmas Parc de Sant Salvador bebarangolásával. A fenséges fák árnyékában és a patakok által hűtött park tökéletes hely a kikapcsolódásra és a természet nyugodt szépségének élvezetére.\n\nZárja sétáját édes hangulatban a Museu de Galetes Trias múzeumban. Itt megismerkedhet a hagyományos katalán sütési technikákkal, és finom kekszeket kóstolhat, miközben a nap lenyugszik a város felett.",
         "ro": "Începeți dimineața în inima orașului Santa Coloma de Farners, explorând istorica biserică parohială. După aceea, faceți o scurtă plimbare la La Casa de la Paraula pentru a vă cufunda în patrimoniul cultural și literar.\n\nPe măsură ce se apropie prânzul, mergeți spre marginea centrului pentru a descoperi Molí de n'Iglesias. Această moară istorică oferă o privire fermecătoare asupra trecutului agricol al regiunii, fiind un loc liniștit.\n\nPetreceți prima parte a după-amiezii plimbându-vă prin extinsul Parc de Sant Salvador. Umbrit de copaci maiestuoși, este locul perfect pentru a vă relaxa, a respira aer curat și a vă bucura de frumusețea naturii.\n\nÎncheiați-vă turul pietonal într-o notă dulce la Museu de Galetes Trias. Aici veți învăța despre tehnicile tradiționale de panificație catalană și veți avea ocazia să degustați biscuiți delicioși.",
         "en": "Start your morning in the heart of Santa Coloma de Farners, exploring the historic Església parroquial. After admiring its architecture, take a short stroll to La Casa de la Paraula to dive deep into local cultural heritage and literature.\n\nAs the midday approaches, walk towards the edge of the town center to discover the Molí de n'Iglesias. This historic mill offers a charming glimpse into the region's agricultural past, making it a peaceful and picturesque spot for a midday break.\n\nSpend your early afternoon wandering through the expansive Parc de Sant Salvador. Shaded by majestic trees and cooled by streams, it's the perfect place to relax, breathe in the fresh air, and enjoy the tranquil beauty of nature.\n\nConclude your walking tour on a sweet note at the Museu de Galetes Trias. Here you will learn about traditional Catalan baking techniques and have the chance to sample delicious biscuits as the sun sets over this lovely Catalan town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Hauptplatz, wobei wir in der Pfarrkirche Schutz vor dem Regen suchen. Mittags bietet das Casa de la Paraula einen idealen Rückzugsort im Trockenen. Am Nachmittag erfordern die Wege im Park festes Schuhwerk, da es rutschig sein kann. Den Tag lassen wir gemütlich im Trias-Keksmuseum ausklingen, weit weg vom nassen Wetter. Abends spiegeln sich die Lichter malerisch.",
+            "hu": "Reggel a főtéren kezdünk, az eső elől a templom hűvös falaiba menekülve. Délben a Casa de la Paraula kínál fedett kulturális menedéket a zuhé idejére. Délután a park saras ösvényein óvatosan haladunk, végül a Trias múzeum édes illatai és száraz belső tere zárja a napot. Este a kivilágított vizes utcák csillogása kíséri utunkat a szállásig, miközben a város csendesebb arcát mutatja.",
+            "ro": "Dimineața începe în piața centrală, unde biserica parohială oferă un adăpost solid împotriva ploii. La prânz, Casa de la Paraula este refugiul cultural perfect în interior. După-amiaza în parc necesită încălțăminte impermeabilă, deoarece potecile pot deveni alunecoase. Ziua se încheie plăcut în interiorul Muzeului Trias, printre arome de biscuiți. Seara, luminile se reflectă în bălți.",
+            "en": "Morning starts at the main square, seeking shelter inside the parish church as the rain begins. At noon, Casa de la Paraula provides a perfect indoor cultural escape. Afternoon walks through the park require waterproof boots as paths become muddy and slippery. The day ends warmly inside the Trias Museum, surrounded by the smell of biscuits. Evening rain brings a unique glow to the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església parroquial de Santa Coloma de Farners",
+                "hu": "Església parroquial de Santa Coloma de Farners",
+                "ro": "Església parroquial de Santa Coloma de Farners",
+                "en": "Església parroquial de Santa Coloma de Farners"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das gotische Interieur, während es draußen regnet; die dicken Mauern garantieren, dass Sie während Ihres Besuchs absolut trocken bleiben.",
+                "hu": "Csodálja meg a gótikus belsőt, miközben kint elered az eső; a vastag falak között garantáltan szárazon marad az imádság vagy a nézelődés alatt.",
+                "ro": "Admirați interiorul gotic în timp ce afară plouă; pereții groși vă garantează că veți rămâne complet uscați pe parcursul vizitei dumneavoastră.",
+                "en": "Admire the Gothic interior while it rains outside; the thick walls guarantee you stay perfectly dry throughout your contemplative visit."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa de la Paraula",
+                "hu": "La Casa de la Paraula",
+                "ro": "La Casa de la Paraula",
+                "en": "La Casa de la Paraula"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie dieses Kulturzentrum, in dem die Wechselausstellungen einen hervorragenden Schutz vor dem strömenden Regen unter freiem Himmel bieten.",
+                "hu": "Fedezze fel a város kulturális központját, ahol az időszakos kiállítások remek menedéket nyújtanak a zuhogó eső elől a belváros szívében.",
+                "ro": "Explorați acest centru cultural unde expozițiile temporare oferă un adăpost excelent împotriva ploii torențiale de afară, chiar în centru.",
+                "en": "Explore this cultural hub where the temporary exhibitions provide an excellent shelter from the pouring rain right in the heart of town."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de n'Iglesias",
+                "hu": "Molí de n'Iglesias",
+                "ro": "Molí de n'Iglesias",
+                "en": "Molí de n'Iglesias"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die alte Mühle, aber seien Sie vorsichtig, da der steinige Boden am Eingang bei Nässe extrem rutschig und gefährlich wird.",
+                "hu": "Tekintse meg a régi malmot, de ügyeljen a bejárat környékén, mert a köves talaj vizesen rendkívül csúszóssá és veszélyessé válik a gyalogosoknak.",
+                "ro": "Vizitați vechea moară, dar aveți grijă la intrare, deoarece solul pietros devine extrem de alunecos și periculos atunci când este ud.",
+                "en": "Visit the old mill but be careful around the entrance as the stony ground becomes extremely slippery and hazardous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Sant Salvador",
+                "hu": "Parc de Sant Salvador",
+                "ro": "Parc de Sant Salvador",
+                "en": "Parc de Sant Salvador"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter den Platanen, die einen natürlichen Schirm bieten, aber bringen Sie unbedingt einen Regenschirm für die offenen Flächen mit.",
+                "hu": "Sétáljon a platánok alatt, melyek némi természetes ernyőt nyújtanak, de mindenképpen vigyen magával esernyőt a nyíltabb parki részekre.",
+                "ro": "Plimbați-vă sub platani, care oferă o umbrelă naturală, dar asigurați-vă că aveți o umbrelă pentru zonele mai deschise ale parcului.",
+                "en": "Walk under the plane trees which provide some natural umbrella, but make sure to carry an umbrella for the more open areas of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Galetes Trias",
+                "hu": "Museu de Galetes Trias",
+                "ro": "Museu de Galetes Trias",
+                "en": "Museu de Galetes Trias"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie die berühmten Kekse im überdachten Ausstellungsbereich, der der beste Ort für einen regnerischen Nachmittag voller süßer Aromen ist.",
+                "hu": "Kóstolja meg a híres kekszeket és ismerje meg a gyártást a fedett kiállítótérben, ami a legjobb hely egy esős délutánon a város szélén.",
+                "ro": "Gustați faimoșii biscuiți în zona de expoziție acoperită, care este cel mai bun loc pentru o după-amiază ploioasă plină de arome dulci.",
+                "en": "Taste the famous biscuits in the covered exhibition area, which is the best place for a rainy afternoon filled with sweet aromas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich warm an für einen klaren Wintermorgen im historischen Zentrum. Mittags bieten die beheizten Räume der Casa de la Paraula eine angenehme Pause von der Kälte. Das Nachmittagslicht im Park ist herrlich, aber denken Sie an den frühen Sonnenuntergang gegen 17 Uhr. Der Tag endet gemütlich im Trias-Museum. Abends kehrt eine frostige Stille ein, die zum Verweilen einlädt.",
+            "hu": "A hűvös téli reggelen rétegesen öltözve indulunk a városnézésre, élvezve a tiszta levegőt. Délben a múzeum fűtött tereiben melegszünk fel, mielőtt a téli napsütésben sétálnánk a parkban. Délután a nap korán, 17 óra körül nyugszik, így a Trias múzeumból már szürkületben jövünk ki. Este a város ünnepi fényei és a csendes, hideg utcák hangulata zárja a napot, forró italok után vágyakozva.",
+            "ro": "Îmbrăcați-vă în straturi pentru o dimineață răcoroasă de iarnă în centrul istoric. La prânz, sălile încălzite de la Casa de la Paraula oferă o pauză de frig. Lumina după-amiezii este superbă în parc, dar nu uitați că soarele apune devreme, în jur de ora 17:00. Ziua se încheie călduros la Muzeul Trias. Seara aduce un frig tăios, ideal pentru a experimenta atmosfera orașului.",
+            "en": "Dress in layers for a crisp winter morning exploration of the town's historic heart. At noon, the heated rooms of Casa de la Paraula offer a welcome break from the cold. Afternoon light is beautiful in the park, but remember that the sun sets early, around 5 PM. The day ends warmly at the Trias Museum with sweet treats. Evening brings a sharp chill, perfect for cozy local vibes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Església parroquial de Santa Coloma de Farners",
+                "hu": "Església parroquial de Santa Coloma de Farners",
+                "ro": "Església parroquial de Santa Coloma de Farners",
+                "en": "Església parroquial de Santa Coloma de Farners"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Gebäude im morgendlichen Winterlicht, aber bleiben Sie drinnen warm angezogen, da es in der Kirche oft kühler ist als draußen.",
+                "hu": "Csodálja meg a monumentális épületet a reggeli téli fényben, de bent készüljön fel a hűvösebb hőmérsékletre, érdemes kabátban maradni a látogatás alatt.",
+                "ro": "Admirați clădirea în lumina dimineții de iarnă, dar rămâneți îmbrăcat gros în interior, deoarece în biserică este adesea mai frig decât afară.",
+                "en": "Admire the building in the morning winter light, but stay warmly dressed inside as the church interior is often cooler than the outside air."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa de la Paraula",
+                "hu": "La Casa de la Paraula",
+                "ro": "La Casa de la Paraula",
+                "en": "La Casa de la Paraula"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Galerien des Kulturzentrums sind der perfekte Ort, um sich während Ihres winterlichen Stadtrundgangs in aller Ruhe aufzuwärmen.",
+                "hu": "A kulturális központ fűtött galériái tökéletes helyszínt biztosítanak a felmelegedéshez a téli városnézés közben a belváros szívében.",
+                "ro": "Galeriile încălzite ale centrului cultural sunt locul perfect pentru a vă încălzi în timpul turului de iarnă prin oraș, oferind confort termic.",
+                "en": "The heated galleries of the cultural center are the perfect place to warm up during your winter city tour while enjoying local art."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de n'Iglesias",
+                "hu": "Molí de n'Iglesias",
+                "ro": "Molí de n'Iglesias",
+                "en": "Molí de n'Iglesias"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die lokale Industriegeschichte in diesem Gebäude kennen, in dem Sie während Ihres Besuchs vor dem kalten Winterwind geschützt sind.",
+                "hu": "Ismerje meg a helyi ipartörténetet ebben az épületben, ahol a téli szél elől is védve maradhat a kiállítás megtekintése során.",
+                "ro": "Aflați despre istoria industrială locală în această clădire, unde veți fi protejat de vântul rece de iarnă în timpul vizitei dumneavoastră.",
+                "en": "Learn about local industrial history in this building where you will be protected from the cold winter wind during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Sant Salvador",
+                "hu": "Parc de Sant Salvador",
+                "ro": "Parc de Sant Salvador",
+                "en": "Parc de Sant Salvador"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Winterlandschaft, aber bleiben Sie nicht zu lange, da es nach dem Sonnenuntergang um 17 Uhr sehr schnell abkühlt.",
+                "hu": "Élvezze a téli táj csendjét és a kopasz fák különleges formáit, de ne maradjon sokáig, mert 17 óra után gyorsan és drasztikusan lehűl az idő.",
+                "ro": "Bucurați-vă de liniștea peisajului de iarnă, dar nu stați prea mult, deoarece se răcește foarte repede după apusul soarelui de la ora 17:00.",
+                "en": "Enjoy the silence of the winter landscape, but don't stay too long as it cools down very quickly after the 5 PM sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Galetes Trias",
+                "hu": "Museu de Galetes Trias",
+                "ro": "Museu de Galetes Trias",
+                "en": "Museu de Galetes Trias"
+              },
+              "tip_5lang": {
+                "de": "Die Geschichte des Familienunternehmens und die süßen Düfte werden Ihre Stimmung an einem kalten Winternachmittag garantiert heben.",
+                "hu": "A családi vállalkozás története és az édes süteményillat garantáltan jobb kedvre deríti a leghidegebb téli délutánon is a kiállítótérben.",
+                "ro": "Istoria afacerii de familie și aromele dulci vă vor ridica garantat starea de spirit într-o după-amiază rece de iarnă în muzeu.",
+                "en": "The family business history and the sweet aromas are guaranteed to lift your spirits on even the coldest winter afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros kalandját kissé északra a Força de l'Alou középkori várromjainál. Ezután tekerjen le a Molí de n'Iglesias felé, egy régi malomhoz, amely kiemeli a környék gazdag mezőgazdasági örökségét.\n\nDélben lovagoljon be a történelmi központba. Álljon meg a plébániatemplomnál, mielőtt elmerülne a La Casa de la Paraula gazdag kiállításaiban, amelyek lenyűgöző betekintést nyújtanak a város irodalmába.\n\nA délután a természeté, ahogy a gyönyörű Parc de Sant Salvador területén kerékpározik. Az árnyékos ösvények tökéletesek a tekeréshez, lehetővé téve, hogy élvezze a víz nyugtató hangját.\n\nFejezze be a kerékpáros napot az El Rocar sziklás nevezetességének meglátogatásával. Erről a természeti helyről lenyűgöző kilátás nyílik, nagyszerű nézőpontot biztosítva a nap visszatekintésére.",
         "ro": "Începeți aventura cu bicicleta la nord la Força de l'Alou, explorând ruinele castelului. Apoi, pedalați spre Molí de n'Iglesias, o moară veche care evidențiază bogatul patrimoniu agricol al zonei.\n\nMergeți spre centrul istoric la prânz. Opriți-vă la biserica parohială înainte de a vă scufunda în expozițiile bogate de la La Casa de la Paraula, oferind perspective fascinante asupra literaturii.\n\nDupă-amiaza se mută în natură, pedalând prin frumosul Parc de Sant Salvador. Căile umbrite sunt perfecte pentru plimbare, permițându-vă să vă bucurați de sunetele liniștitoare ale apei și verdeața luxuriantă.\n\nTerminați-vă ziua de ciclism vizitând El Rocar, un reper stâncos proeminent. Priveliștile ridicate de pe acest sit natural sunt spectaculoase, oferind un punct de observație minunat pentru a reflecta asupra zilei.",
         "en": "Start your cycling adventure slightly north at Força de l'Alou, exploring the medieval castle ruins. Then, bike down towards Molí de n'Iglesias, an old mill that highlights the area's rich agricultural and industrial heritage.\n\nRide into the historical center for midday. Stop briefly at the iconic Església parroquial before diving into the rich exhibits at La Casa de la Paraula, offering fascinating insights into the town's literature and art.\n\nYour afternoon shifts to nature as you cycle through the beautiful Parc de Sant Salvador. The shaded paths are perfect for riding, allowing you to enjoy the calming sounds of water and the lush green surroundings.\n\nFinish your cycling day by visiting El Rocar, a prominent rocky landmark. The elevated views from this natural site are spectacular, providing a great vantage point to reflect on your day in Santa Coloma de Farners."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der morgendliche Aufstieg zur Burg erfordert Schutzbleche und Regenbekleidung, da die Wege rutschig sein können. Mittags sollten Sie einen überdachten Platz für Ihr Fahrrad suchen. Nachmittagsfahrten im nassen Park erfordern besondere Vorsicht in den Kurven. Abends spiegeln sich die Lichter auf dem nassen Asphalt, was eine langsame und vorsichtige Fahrweise erfordert.",
+            "hu": "Reggel a várrom felé tekerünk, a sárvédők és a vízálló ruházat elengedhetetlen a csúszós emelkedőkön. Délben a központban keresünk fedett helyet a kerékpárok lezárásához a zuhé idejére. Délután a park vizes ösvényein óvatosan manőverezünk, elkerülve a mélyebb pocsolyákat. Este a korai sötétségben a lámpák fénye törik meg a vizes aszfalton, lassabb tempót igényelve.",
+            "ro": "Urcarea de dimineață spre castel necesită aripi la bicicletă și echipament impermeabil. La prânz, găsiți un loc adăpostit pentru a parca bicicleta în timp ce vizitați atracțiile interioare. Pedalatul de după-amiază prin parc necesită atenție sporită la viraje din cauza umezelii. Seara, asfaltul ud reflectă luminile bicicletei, impunând un ritm de deplasare mai lent și prudent.",
+            "en": "Morning climb to the castle requires mudguards and waterproof gear as the tracks can get slippery. At noon, find a sheltered spot in the center to park your bike while you explore indoors. Afternoon cycling through the park's wet trails demands extra caution on the turns. As evening falls, the wet pavement reflects your bike lights, making for a scenic but careful ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Força de l'Alou",
+                "hu": "Força de l'Alou",
+                "ro": "Força de l'Alou",
+                "en": "Força de l'Alou"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Burg kann bei Regen rutschig sein; verwenden Sie Reifen mit gutem Profil und bremsen Sie auf den Abfahrten vorsichtig ab.",
+                "hu": "A várhoz vezető út esőben csúszós lehet, ezért használjon terepmintás gumikat és óvatosan fékezzen a lejtőkön a biztonsága érdekében.",
+                "ro": "Drumul spre castel poate fi alunecos pe ploaie; folosiți anvelope cu profil bun și frânați cu grijă pe pantele descendente.",
+                "en": "The road to the castle can be slippery in the rain; use treaded tires and brake carefully on the descents for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de n'Iglesias",
+                "hu": "Molí de n'Iglesias",
+                "ro": "Molí de n'Iglesias",
+                "en": "Molí de n'Iglesias"
+              },
+              "tip_5lang": {
+                "de": "Der steinige Boden um die Mühle ist bei Nässe tückisch glatt; lehnen Sie das Fahrrad während der Besichtigung an einen überdachten Teil.",
+                "hu": "A malom környékén a köves talaj vizesen alattomosan csúszik; a bringát érdemes egy fedettebb részhez támasztani a nézelődés idejére.",
+                "ro": "Solul pietros din jurul morii este înșelător de alunecos când este ud; sprijiniți bicicleta de o parte acoperită în timpul vizitei.",
+                "en": "The stony ground around the mill is treacherously slippery when wet; lean your bike against a covered section during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Església parroquial de Santa Coloma de Farners",
+                "hu": "Església parroquial de Santa Coloma de Farners",
+                "ro": "Església parroquial de Santa Coloma de Farners",
+                "en": "Església parroquial de Santa Coloma de Farners"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt an der Kirche, wo Sie unter dem Turmvorsprung kurzzeitig Schutz finden können, falls der Regen plötzlich stärker wird.",
+                "hu": "Egy gyors megálló a templomnál, ahol a torony alatti beugróban rövid menedéket találhat, ha hirtelen felerősödne a csapadék a téren.",
+                "ro": "O oprire rapidă la biserică, unde puteți găsi un scurt adăpost sub firida turnului în cazul în care ploaia se intensifică brusc.",
+                "en": "A quick stop at the church where you can find brief shelter under the tower alcove if the rain suddenly intensifies in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa de la Paraula",
+                "hu": "La Casa de la Paraula",
+                "ro": "La Casa de la Paraula",
+                "en": "La Casa de la Paraula"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Fahrrad im nahen Ständer und nutzen Sie die Zeit für einen gründlichen Rundgang im Inneren, bis der Schauer draußen aufhört.",
+                "hu": "Hagyja a kerékpárt a közeli tárolóban, és használja ki az időt egy alapos benti körútra, amíg eláll a kinti intenzív zápor.",
+                "ro": "Lăsați bicicleta în suportul din apropiere și profitați de timp pentru un tur interior amănunțit până când ploaia de afară se oprește.",
+                "en": "Leave your bike in the nearby rack and take advantage of the time for a thorough indoor tour until the shower outside stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Sant Salvador",
+                "hu": "Parc de Sant Salvador",
+                "ro": "Parc de Sant Salvador",
+                "en": "Parc de Sant Salvador"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zu den Quellen können schlammig sein, daher sind Schutzbleche ein Muss, wenn Sie die Tour nicht völlig durchnässt beenden wollen.",
+                "hu": "A forrásokhoz vezető utak ilyenkor sárosak lehetnek, így a sárvédő használata kötelező, ha nem akarja sárfelverődéssel befejezni a túrát.",
+                "ro": "Potecile spre izvoare pot fi noroioase în acest moment, deci folosirea aripilor este obligatorie dacă nu vreți să terminați turul ud.",
+                "en": "The paths to the springs can be muddy now, so using mudguards is mandatory if you don't want to finish the tour completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "El Rocar",
+                "hu": "El Rocar",
+                "ro": "El Rocar",
+                "en": "El Rocar"
+              },
+              "tip_5lang": {
+                "de": "Der Anblick der Felsen im Regen ist beeindruckend, aber gehen Sie am Aussichtspunkt nicht zu nah an den Rand, da die Steinflächen sehr glatt sind.",
+                "hu": "A sziklák látványa esőben is lenyűgöző, de a kilátópontnál ne menjen túl közel a széléhez, mert a kőfelületek rendkívül síkosak ilyenkor.",
+                "ro": "Priveliștea stâncilor în ploaie este impresionantă, dar nu vă apropiați prea mult de margine la punctul de observație, deoarece pietrele sunt alunecoase.",
+                "en": "The sight of the rocks in the rain is impressive, but don't go too close to the edge at the viewpoint as the stone surfaces are extremely slick."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frostige morgendliche Fahrt zu den Ruinen erfordert warme Handschuhe und eine winddichte Jacke. Mittags bieten die Museen der Stadt die perfekte Gelegenheit zum Aufwärmen. Das Nachmittagslicht im Park schwindet schnell, achten Sie daher ab 16 Uhr auf funktionierende Lichter. Die Abendluft ist beißend kalt, ein zügiges Tempo zurück ins Zentrum hält den Kreislauf in Schwung.",
+            "hu": "A friss téli reggelen a vár felé tekerünk, a fagyos levegőben jól jön a kesztyű és a szélálló kabát. Délben a városi múzeumokban melegszünk fel, mielőtt a téli napsütésben gurulnánk a park felé. Délután a korai sötétedés miatt már 16 órakor bekapcsoljuk a lámpákat a biztonság kedvéért. Este a hideg szélben gyorsan tekerünk vissza, élvezve a kivilágított főtér hangulatát.",
+            "ro": "O plimbare de dimineață spre ruine necesită mănuși groase și o jachetă rezistentă la vânt. La prânz, muzeele orașului oferă ocazia perfectă pentru a vă încălzi. Lumina după-amiezii dispare rapid în parc, așa că verificați luminile bicicletei încă de la ora 16:00. Aerul serii este tăios, deci un ritm alert spre centru vă va menține căldura corporală.",
+            "en": "A crisp winter morning ride to the ruins requires warm gloves and a windproof jacket. At noon, the town's museums provide a perfect opportunity to thaw out before hitting the trails again. Afternoon light fades quickly in the park, so ensure your bike lights are working by 4 PM. The evening air is biting, so a brisk pace back to the center will keep you warm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Força de l'Alou",
+                "hu": "Força de l'Alou",
+                "ro": "Força de l'Alou",
+                "en": "Força de l'Alou"
+              },
+              "tip_5lang": {
+                "de": "Wegen des morgendlichen Frosts kann der steinige Aufstieg rutschig sein; fahren Sie in einem niedrigeren Gang für eine bessere Traktion.",
+                "hu": "A reggeli dér miatt a köves emelkedő fagyos és csúszós lehet, tekerjen alacsonyabb fokozatban a jobb tapadás és biztonság érdekében.",
+                "ro": "Din cauza înghețului de dimineață, urcarea pietroasă poate fi alunecoasă; pedalați într-o treaptă inferioară pentru o tracțiune mai bună.",
+                "en": "Due to morning frost, the stony climb can be icy and slippery; ride in a lower gear for better traction and stability on the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de n'Iglesias",
+                "hu": "Molí de n'Iglesias",
+                "ro": "Molí de n'Iglesias",
+                "en": "Molí de n'Iglesias"
+              },
+              "tip_5lang": {
+                "de": "Zwischen den historischen Mauern kann die Temperatur viel niedriger sein, ziehen Sie Ihre Jacke auch während des kurzen Innenbesuchs nicht aus.",
+                "hu": "A történelmi falak között a hőmérséklet jóval alacsonyabb lehet, így ne vegye le a kabátját a rövid benti látogatás és nézelődés alatt sem.",
+                "ro": "Între zidurile istorice temperatura poate fi mult mai scăzută, așa că nu vă scoateți jacheta nici în timpul scurtei vizite în interior.",
+                "en": "The temperature between the historical walls can be much lower, so don't take off your jacket even during the short indoor visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Església parroquial de Santa Coloma de Farners",
+                "hu": "Església parroquial de Santa Coloma de Farners",
+                "ro": "Església parroquial de Santa Coloma de Farners",
+                "en": "Església parroquial de Santa Coloma de Farners"
+              },
+              "tip_5lang": {
+                "de": "Der monumentale Anblick der Kirche auf dem Hauptplatz wird durch den tiefen Stand der Wintersonne besonders; machen Sie ein schnelles Foto.",
+                "hu": "A főtéri templom monumentális látványát a téli nap alacsony szöge teszi különlegessé; érdemes egy gyors fotót készíteni a tiszta hidegben.",
+                "ro": "Vederea monumentală a bisericii din piața principală este deosebită datorită unghiului jos al soarelui de iarnă; merită să faceți o poză rapidă.",
+                "en": "The monumental sight of the church in the main square is made special by the low angle of the winter sun; it's worth taking a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa de la Paraula",
+                "hu": "La Casa de la Paraula",
+                "ro": "La Casa de la Paraula",
+                "en": "La Casa de la Paraula"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Stopp zum Aufwärmen; die angenehme Temperatur im Ausstellungsraum hilft Ihnen, Energie für die Weiterfahrt zu tanken.",
+                "hu": "Ez a tökéletes megálló a felmelegedésre; a kiállítótér kellemes hőmérséklete segít visszanyerni az energiát a kerékpáros túra folytatásához.",
+                "ro": "Aceasta este oprirea perfectă pentru a vă încălzi; temperatura plăcută din spațiul expozițional vă ajută să vă recăpătați energia pentru drum.",
+                "en": "This is the perfect stop to warm up; the pleasant temperature in the exhibition space helps you regain energy for the rest of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Sant Salvador",
+                "hu": "Parc de Sant Salvador",
+                "ro": "Parc de Sant Salvador",
+                "en": "Parc de Sant Salvador"
+              },
+              "tip_5lang": {
+                "de": "Im Park zwischen den Bäumen wird es früher dunkel, brechen Sie daher spätestens um 16:30 Uhr auf, um nicht im Dunkeln navigieren zu müssen.",
+                "hu": "A parkban a fák között hamarabb sötétedik, így legkésőbb 16:30-kor induljon tovább, hogy ne a sötétben kelljen visszanavigálnia a városba.",
+                "ro": "În parc, printre copaci, se întunecă mai devreme, așa că plecați cel târziu la ora 16:30 pentru a nu fi nevoit să navigați pe întuneric.",
+                "en": "It gets dark earlier in the park among the trees, so leave by 4:30 PM at the latest to avoid having to navigate back in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "El Rocar",
+                "hu": "El Rocar",
+                "ro": "El Rocar",
+                "en": "El Rocar"
+              },
+              "tip_5lang": {
+                "de": "Felsformationen sehen in der klaren Winterluft am schönsten aus, achten Sie hier aber wegen des Windes auf angemessene Kleidung in Schichten.",
+                "hu": "A sziklaformációk a tiszta téli levegőben látszanak a legszebben, de a szél miatt itt fokozottan figyeljen a megfelelő réteges öltözködésre.",
+                "ro": "Formațiunile stâncoase arată cel mai frumos în aerul curat de iarnă, dar aveți grijă la vânt și purtați haine adecvate în straturi.",
+                "en": "The rock formations look best in the clear winter air, but pay extra attention to layering your clothes here due to the biting wind."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Vezessen a Força de l'Alou lenyűgöző romjaihoz, hogy egy kis középkori történelemmel kezdje a napot. Utána parkoljon le a központban, hogy meglátogassa a La Casa de la Paraula művészeti kiállításait.\n\nDélben tegyen egy pihentető sétát a kiterjedt Parc de Sant Salvador területén. A magasodó fák és szelíd patakok gyönyörű oázist hoznak létre a városközpont mellett, ideális egy békés meneküléshez.\n\nHajtson át a Museu de Galetes Trias-hoz, hogy felfedezze Katalónia ízletes kekszörökségét. Miután betelt az édességekkel, induljon a modern Auditorihoz, hogy megcsodálja elegáns építészetét.\n\nZárja kiterjedt túráját a Magma centre ludic termal fürdőben. Ez a modern komplexum a régió híres termálvizét használja, tökéletes relaxációs élményt kínálva a kirándulás befejezéseként.",
         "ro": "Conduceți la ruinele fascinante de la Força de l'Alou pentru a vă începe ziua cu istorie. După aceea, parcați aproape de centrul orașului pentru a vizita La Casa de la Paraula și arta locală.\n\nPentru prânz, faceți o plimbare relaxantă prin parcul întins Sant Salvador. Copacii falnici și pârâurile blânde creează o oază frumoasă chiar lângă centrul orașului, ideală pentru liniște.\n\nConduceți la Museu de Galetes Trias pentru a explora patrimoniul de biscuiți al Cataloniei. După ce ați savurat dulciurile, mergeți la modernul Auditori pentru a-i admira arhitectura.\n\nÎncheiați-vă turul extins la Magma centre ludic termal. Acest complex spa modern folosește apele termale celebre ale regiunii, oferindu-vă experiența supremă de relaxare.",
         "en": "Drive to the fascinating ruins of Força de l'Alou to begin your day with a touch of medieval history. Afterwards, park near the town center to visit La Casa de la Paraula, immersing yourself in local art and literary history.\n\nFor midday, take a relaxing walk through the sprawling Parc de Sant Salvador. The towering trees and gentle streams create a beautiful oasis right next to the town center, ideal for a peaceful nature escape.\n\nDrive over to the Museu de Galetes Trias to explore Catalonia's delicious biscuit heritage. Once you've had your fill of sweets, head to the modern Auditori to admire its sleek architecture and cultural significance.\n\nEnd your extensive tour at the Magma centre ludic termal. This modern spa complex uses the region's famous thermal waters, offering you the ultimate relaxation experience before wrapping up your day trip."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bei Regen gemütlich zur Burg und genießen Sie die Sitzheizung, während die Wischer die Sicht klären. Mittags parken Sie zentral, um schnell zu den Museen zu gelangen. Nachmittags halten wir den Parkbesuch wegen des Regens kurz und flüchten ins warme Keksmuseum. Der Tag endet perfekt im Magma-Thermalzentrum, wo das heiße Wasser den grauen Regentag vergessen lässt.",
+            "hu": "Az esős reggelen kényelmesen autózunk a vár felé, élvezve az ablaktörlők ritmusát és a fűtött utasteret. Délben a központi parkolókban állunk meg, hogy gyorsan beszaladjunk a múzeumok fedett világába. Délután a park látogatását rövidre fogjuk az eső miatt, inkább a Trias múzeum édes melegét választjuk. Este a Magma termálfürdő gőzölgő vize jelenti a tökéletes kontrasztot.",
+            "ro": "Conduceți confortabil spre castel prin ploaie, bucurându-vă de căldura din mașină în timp ce ștergătoarele curăță parbrizul. La prânz, parcați central pentru acces rapid la muzeele acoperite. Vizita de după-amiază în parc va fi scurtă din cauza precipitațiilor, îndreptându-vă spre căldura Muzeului Trias. Ziua se încheie perfect la centrul termal Magma, unde apa fierbinte sfidează ploaia.",
+            "en": "Drive comfortably to the castle through the rain, enjoying the heated seats while the wipers clear the view. At noon, park centrally for quick access to indoor cultural sites like the museum. Afternoon visits to the park are kept brief due to the downpour, leading us to the warmth of the Trias Museum. The day concludes perfectly at Magma thermal center with hot water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Força de l'Alou",
+                "hu": "Força de l'Alou",
+                "ro": "Força de l'Alou",
+                "en": "Força de l'Alou"
+              },
+              "tip_5lang": {
+                "de": "Die Straße zur Burg kann schmal und bei Nässe rutschig sein; fahren Sie in den unübersichtlichen Kurven langsamer und vorsichtiger.",
+                "hu": "Az autóút a várhoz keskeny és vizesen csúszós lehet, ezért vezessen lassabban és fokozott figyelemmel a beláthatatlan kanyarokban.",
+                "ro": "Drumul spre castel poate fi îngust și alunecos când este ud; conduceți mai încet și cu atenție sporită în curbele fără vizibilitate.",
+                "en": "The road to the castle can be narrow and slippery when wet; drive slower and with extra caution in blind curves on the ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa de la Paraula",
+                "hu": "La Casa de la Paraula",
+                "ro": "La Casa de la Paraula",
+                "en": "La Casa de la Paraula"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das nahegelegene Parkhaus, damit Sie den einladenden Eingang des Kulturzentrums auch ohne Regenschirm problemlos erreichen können.",
+                "hu": "Használja a közeli fedett parkolót, így esernyő nélkül is könnyen és szárazon elérheti a kulturális központ hívogató bejáratát.",
+                "ro": "Folosiți parcarea acoperită din apropiere, astfel încât să puteți ajunge cu ușurință la intrarea centrului cultural fără a avea nevoie de umbrelă.",
+                "en": "Use the nearby covered parking so you can easily reach the inviting entrance of the cultural center even without an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Sant Salvador",
+                "hu": "Parc de Sant Salvador",
+                "ro": "Parc de Sant Salvador",
+                "en": "Parc de Sant Salvador"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Parkeingang und machen Sie nur einen kurzen Spaziergang im Regen unter dem natürlichen Schutz der dichten Bäume.",
+                "hu": "A park bejáratánál parkoljon le, és csak egy rövid sétát tegyen az esőben, a fák nyújtotta természetes védelem alatt a források felé.",
+                "ro": "Parcați chiar la intrarea în parc și faceți doar o scurtă plimbare prin ploaie, sub protecția naturală oferită de copacii deși.",
+                "en": "Park right at the park entrance and take only a short walk in the rain under the natural protection provided by the dense trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Galetes Trias",
+                "hu": "Museu de Galetes Trias",
+                "ro": "Museu de Galetes Trias",
+                "en": "Museu de Galetes Trias"
+              },
+              "tip_5lang": {
+                "de": "Der hauseigene Parkplatz des Museums befindet sich direkt am Eingang, sodass Sie das duftende Reich der Kekse trockenen Fußes betreten können.",
+                "hu": "A múzeum saját parkolója közvetlenül a bejáratnál van, így száraz lábbal juthat be a kekszek illatos birodalmába az eső elől menekülve.",
+                "ro": "Parcarea proprie a muzeului se află chiar la intrare, astfel încât să puteți intra în tărâmul aromat al biscuiților cu picioarele uscate.",
+                "en": "The museum's own parking is right at the entrance, so you can enter the fragrant realm of biscuits with dry feet despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori",
+                "hu": "Auditori",
+                "ro": "Auditori",
+                "en": "Auditori"
+              },
+              "tip_5lang": {
+                "de": "Vor dem Abendprogramm können Sie in der Lobby des Gebäudes warten, geschützt vor dem Wind und dem einsetzenden Regen draußen auf dem Platz.",
+                "hu": "Az esti program előtt az épület tágas előcsarnokában várakozhat, védve a kinti széllel és az eleredő esővel szemben a városközpontban.",
+                "ro": "Înainte de programul de seară, puteți aștepta în holul clădirii, protejat de vântul de afară și de ploaia care începe să cadă în piață.",
+                "en": "Before the evening program, you can wait in the building's lobby, protected from the outside wind and the starting rain in the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Magma centre ludic termal",
+                "hu": "Magma centre ludic termal",
+                "ro": "Magma centre ludic termal",
+                "en": "Magma centre ludic termal"
+              },
+              "tip_5lang": {
+                "de": "Dies ist das beste Regenprogramm; aus den Innenbecken den strömenden Regen zu beobachten, ist ein unvergessliches und entspannendes Erlebnis.",
+                "hu": "Ez a legjobb esős program; a benti medencékből nézni a kinti zuhogó esőt felejthetetlen és rendkívül relaxáló élmény a nap végén.",
+                "ro": "Acesta este cel mai bun program pe ploaie; să privești ploaia torențială din bazinele interioare este o experiență de neuitat și relaxantă.",
+                "en": "This is the best rainy program; watching the pouring rain from the indoor pools is an unforgettable and deeply relaxing experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Wintermorgen mit einer Fahrt zur Burg, die klare Ausblicke auf die frostige Umgebung bietet. Mittags bieten die Museen eine gemütliche Flucht vor dem Wind. Das Nachmittagslicht über dem Park ist kurz vor dem frühen Sonnenuntergang magisch. Der Tag endet perfekt im Magma-Thermalzentrum, wo Sie im heißen Wasser entspannen, während draußen die Winternacht regiert.",
+            "hu": "A hideg téli reggelen az autó fűtését feltekerve indulunk a várromhoz, ahonnan tiszta panoráma nyílik a tájra. Délben a városközpontban a múzeumok kínálnak menedéket a csípős szél elől. Délután a parkot már a lemenő nap fényében látogatjuk meg, mielőtt a Trias múzeumba érnénk. Este a Magma termálfürdő forró vizeiben lazítunk, miközben kint a téli éjszaka sötétje uralkodik.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare spre castel, care oferă vederi clare asupra împrejurimilor înghețate. La prânz, muzeele oferă o scăpare din calea vântului tăios. Lumina după-amiezii peste parc este magică chiar înainte de apusul de la ora 17:00. Ziua se încheie perfect la centrul termal Magma, relaxându-vă în apele fierbinți în timp ce noaptea de iarnă se așterne.",
+            "en": "Start your winter morning with a heated drive to the castle, offering clear views of the frosty surroundings. At noon, the town's museums provide a cozy escape from the biting wind. Afternoon light over the park is magical just before the early sunset at 5 PM. The day ends perfectly at Magma thermal center, soaking in hot mineral waters while the winter night chills the air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Força de l'Alou",
+                "hu": "Força de l'Alou",
+                "ro": "Força de l'Alou",
+                "en": "Força de l'Alou"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt den Flüssigkeitsstand des Autos, da sich auf dem Weg zur Burg morgens in schattigen Bereichen Eis bilden kann.",
+                "hu": "Indulás előtt ellenőrizze az autó folyadékszintjeit, mert a várba vezető úton reggelente jeges foltok alakulhatnak ki az árnyékos kanyarokban.",
+                "ro": "Verificați nivelul lichidelor mașinii înainte de plecare, deoarece pe drumul spre castel se pot forma porțiuni de gheață în zonele umbrite.",
+                "en": "Check your car's fluid levels before leaving as ice patches can form in shaded areas on the road to the castle during winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "La Casa de la Paraula",
+                "hu": "La Casa de la Paraula",
+                "ro": "La Casa de la Paraula",
+                "en": "La Casa de la Paraula"
+              },
+              "tip_5lang": {
+                "de": "In den beheizten Räumen des Kulturzentrums können Sie bequem in die lokale Kunst eintauchen, während draußen der kalte Winterwind weht.",
+                "hu": "A kulturális központ fűtött tereiben kényelmesen elmerülhet a helyi művészetben, miközben odakint fúj a hideg téli szél a város főterén.",
+                "ro": "În spațiile încălzite ale centrului cultural vă puteți cufunda confortabil în arta locală, în timp ce afară suflă vântul rece de iarnă.",
+                "en": "In the heated spaces of the cultural center you can comfortably immerse yourself in local art while the cold winter wind blows outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Sant Salvador",
+                "hu": "Parc de Sant Salvador",
+                "ro": "Parc de Sant Salvador",
+                "en": "Parc de Sant Salvador"
+              },
+              "tip_5lang": {
+                "de": "Setzen Sie sich nach dem Winterspaziergang wieder ins beheizte Auto und genießen Sie den Anblick der Landschaft hinter der Windschutzscheibe.",
+                "hu": "A téli séta után üljön vissza a fűtött autóba, és élvezze a táj látványát a szélvédő mögül egy forró teával, mielőtt továbbhajtana a városba.",
+                "ro": "După plimbarea de iarnă, întoarceți-vă în mașina încălzită și bucurați-vă de priveliștea peisajului din spatele parbrizului înainte de a pleca.",
+                "en": "After your winter walk, get back into the heated car and enjoy the view of the landscape from behind the windshield before driving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Galetes Trias",
+                "hu": "Museu de Galetes Trias",
+                "ro": "Museu de Galetes Trias",
+                "en": "Museu de Galetes Trias"
+              },
+              "tip_5lang": {
+                "de": "Kaufen Sie nach dem Besuch die berühmten Kekse, die an einem kalten Winterabend ein hervorragender Begleiter zu einem heißen Tee sein werden.",
+                "hu": "A múzeumlátogatás után vásároljon be a híres kekszekből, amelyek kiváló kísérői lesznek egy forró teának a hideg téli estén otthon vagy a szálláson.",
+                "ro": "După vizitarea muzeului, cumpărați faimoșii biscuiți, care vor fi un companion excelent pentru un ceai fierbinte într-o seară rece de iarnă.",
+                "en": "After visiting the museum, buy the famous biscuits which will be an excellent companion to a hot tea on a cold winter evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditori",
+                "hu": "Auditori",
+                "ro": "Auditori",
+                "en": "Auditori"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Heizsystem des Gebäudes garantiert, dass Sie sich während kultureller Veranstaltungen auch bei größtem Frost wohlfühlen.",
+                "hu": "Az épület modern fűtési rendszere garantálja, hogy a kulturális események alatt végig komfortosan érezze magát a legnagyobb téli fagyban is.",
+                "ro": "Sistemul modern de încălzire al clădirii garantează că vă veți simți confortabil în timpul evenimentelor culturale, chiar și în cel mai mare îngheț.",
+                "en": "The building's modern heating system guarantees that you will feel comfortable during cultural events even in the deepest winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Magma centre ludic termal",
+                "hu": "Magma centre ludic termal",
+                "ro": "Magma centre ludic termal",
+                "en": "Magma centre ludic termal"
+              },
+              "tip_5lang": {
+                "de": "Das dampfende Wasser der Außenbecken bietet in Kombination mit der kalten Winterluft ein echtes Wellness-Erlebnis im skandinavischen Stil.",
+                "hu": "A szabadtéri medencék gőzölgő vize a hideg téli levegővel párosulva igazi skandináv típusú wellness élményt nyújt a látogatóknak a sötétedés után.",
+                "ro": "Apa aburindă a piscinelor exterioare, combinată cu aerul rece de iarnă, oferă o adevărată experiență wellness de tip scandinav la finalul zilei.",
+                "en": "The steaming water of the outdoor pools combined with the cold winter air provides a true Scandinavian-style wellness experience for visitors."
+              }
+            }
+          ]
+        }
       }
     }
   }

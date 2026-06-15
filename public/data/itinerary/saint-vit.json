@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a polgári központ felfedezésével a Saint-Vit városházán és a közeli Saint-Vit templomban.\nA délidő egy kellemes sétára hívogat a festői Doubs folyó sétányán, amely tökéletes a természetes hangulat elmerüléséhez.\nDélután merüljön el a helyi történelemben a lenyűgöző régi cserzőműhelyek negyedében tett sétával.\nAz este közeledtével fejezze be sétáját az elegáns Église de la Nativité-de-Notre-Dame templomnál.",
         "ro": "Începeți dimineața explorând centrul civic la Primăria Saint-Vit și inima spirituală din apropiere, Biserica Saint-Vit.\nLa amiază, bucurați-vă de o plimbare pe malul pitoresc al Promenadei râului Doubs, perfectă pentru a vă relaxa.\nDupă-amiaza, pătrundeți în istoria locală cu o plimbare prin fascinantul cartier al vechilor tăbăcării.\nSpre seară, încheiați turul la eleganta Église de la Nativité-de-Notre-Dame.",
         "en": "Start your morning exploring the civic center at the Saint-Vit Town Hall and the nearby spiritual heart, Saint-Vit Church.\nMidday invites a leisurely walk along the scenic Doubs River Promenade, perfect for soaking in the natural atmosphere.\nIn the afternoon, dive into local history with a stroll through the fascinating Old Tanneries District.\nAs evening approaches, complete your walking tour at the elegant Église de la Nativité-de-Notre-Dame."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren verregneten Spaziergang mit einem Besuch im trockenen Rathaus und der nahen Kirche. Mittags benötigen Sie einen robusten Regenschirm für den stimmungsvollen, aber nassen Weg am Fluss Doubs. Der Nachmittag führt durch das Gerberviertel zur Église de la Nativité, die Schutz vor Schauern bietet. Da es abends unter den Wolken schnell dunkel wird, lockt ein gemütlicher Rückzugsort.",
+            "hu": "Kezdje az esős napot a Városháza és a helyi templom száraz menedékében. Délben hozzon egy strapabíró esernyőt a Doubs folyó melletti hangulatos, de nedves sétához. Délután a régi cserzőműhelyek és az Église de la Nativité fedett terei nyújtanak száraz alternatívát. A szürke felhők alatt hamarabb sötétedik, így estére érdemes mielőbb egy kényelmes, meleg helyet keresni a pihenéshez.",
+            "ro": "Începeți plimbarea ploioasă adăpostindu-vă în Primărie și în biserica din apropiere. La prânz, folosiți o umbrelă robustă pentru traseul umed de pe malul râului Doubs. După-amiaza vă poartă prin vechile tăbăcării și spre Église de la Nativité, oferind evadări la interior. Seara se lasă devreme sub norii grei, moment perfect pentru a vă retrage într-un loc confortabil și uscat.",
+            "en": "Start your rainy walk by seeking shelter inside the Town Hall and the nearby historic church. By noon, you'll need a sturdy umbrella for a wet but highly atmospheric stroll along the Doubs River. The afternoon takes you through the Old Tanneries and into the grand Église de la Nativité to escape the showers. Evening approaches quickly under the gray skies, perfect for a cozy, dry retreat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Saint-Vit",
+                "hu": "Saint-Vit Városháza",
+                "ro": "Primăria Saint-Vit",
+                "en": "Saint-Vit Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das geräumige Foyer ein, um im Trockenen die Architektur zu bewundern; halten Sie Ihren Schirm für den Weg nach draußen bereit.",
+                "hu": "Lépjen be a tágas előcsarnokba, hogy szárazon csodálhassa meg az építészetet; tartsa kéznél az esernyőjét a kilépéshez.",
+                "ro": "Pășiți în holul spațios pentru a rămâne uscat în timp ce admirați arhitectura; țineți umbrela la îndemână pentru ieșire.",
+                "en": "Step inside the spacious lobby to stay dry while admiring the elegant civic architecture; keep your sturdy umbrella handy for the brief walk outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vit",
+                "hu": "Saint-Vit Templom",
+                "ro": "Biserica Saint-Vit",
+                "en": "Saint-Vit Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor dem Regen im historischen Kirchenschiff, aber achten Sie auf den rutschigen, nassen Steinboden im Eingangsbereich.",
+                "hu": "Keressen menedéket a felhőszakadás elől a történelmi hajóban, de vigyázzon a sima, nedves kőpadlóval a főbejáratnál.",
+                "ro": "Refugiați-vă de ploaie în această navă istorică, dar aveți grijă la podelele din piatră netedă și umedă de la intrarea principală.",
+                "en": "Take refuge from the heavy downpour inside this historic nave, but watch your step on the smooth, wet stone floors right near the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Doubs Flusspromenade",
+                "hu": "Doubs Folyó Sétánya",
+                "ro": "Promenada Râului Doubs",
+                "en": "Doubs River Promenade"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg kann bei starkem Regen ziemlich schlammig werden. Tragen Sie wasserdichte Schuhe und genießen Sie die mystische, neblige Aussicht.",
+                "hu": "A folyóparti ösvény heves esőzések idején saras lehet. Viseljen vízálló cipőt, és élvezze biztonságosan a ködös, rejtélyes vízi tájat.",
+                "ro": "Poteca de pe malul râului poate deveni noroioasă pe ploaie. Purtați încălțăminte impermeabilă și bucurați-vă de peisajul cețos și misterios.",
+                "en": "The riverside path can get quite muddy and slippery during heavy rains, so wear waterproof boots and enjoy the moody, misty waterscape safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Gerberviertel",
+                "hu": "Régi Cserzőműhelyek Negyede",
+                "ro": "Cartierul Vechi al Tăbăcăriilor",
+                "en": "Old Tanneries District"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das historische Areal unter dem Schutz Ihres Regenschirms; die engen Gassen leiten das Wasser schnell ab, bleiben Sie auf breiten Wegen.",
+                "hu": "Fedezze fel a történelmi ipari negyedet esernyővel a kézben; a szűk sikátorokban gyorsan folyik a víz, maradjon a szélesebb, kövezett utakon.",
+                "ro": "Explorați cartierul sub protecția umbrelei; aleile înguste canalizează rapid ploaia, așa că păstrați-vă pe căile pavate mai largi.",
+                "en": "Explore the historic layout under the protection of your umbrella; the narrow alleys channel rain quickly, so stick to the wider paved paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Notre-Dame",
+                "hu": "Église de la Nativité-de-Notre-Dame",
+                "ro": "Église de la Nativité-de-Notre-Dame",
+                "en": "Église de la Nativité-de-Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in dieser schönen Kirche; die dicken Mauern halten die feuchte Kälte ab und bieten einen ruhigen Ort zum Trocknen.",
+                "hu": "Zárja sétáját ebben a gyönyörű templomban; a vastag falak kint tartják a nedves hideget, így nyugodtan megszáradhat és megpihenhet.",
+                "ro": "Încheiați turul adăpostindu-vă în această biserică frumoasă; pereții groși țin frigul umed la distanță, oferind un spațiu liniștit pentru a vă usca.",
+                "en": "End your walking tour by sheltering in this beautiful church; its thick walls keep the damp chill out, providing a quiet space to dry off and relax."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für den frostigen Morgen am Rathaus und in der Kirche. Mittags bieten sich am Ufer des Doubs wunderschöne, eisige Ausblicke. Verbringen Sie den Nachmittag im Gerberviertel und der Église de la Nativité, bevor die Wintersonne verschwindet. Gegen 17:00 Uhr bricht die Dämmerung herein und die Temperaturen fallen, die perfekte Zeit für ein heißes Getränk im Warmen.",
+            "hu": "Öltözzön fel melegen a fagyos reggeli induláshoz a Városházánál. Délben a Doubs folyó sétánya csodálatos, zúzmarás látványt nyújt. Töltse a délutánt a cserzőműhelyeknél és a templomban, miközben a téli nap lassan lebukik. Délután 5 óra körül gyorsan sötétedik és lehűl a levegő, ilyenkor érdemes egy fűtött beltéri helyiséget keresni a feltöltődéshez.",
+            "ro": "Îmbrăcați-vă gros pentru o dimineață geroasă la Primărie și Biserică. La prânz, râul Doubs oferă priveliști înghețate superbe. Petreceți după-amiaza în Tăbăcării și la Église de la Nativité înainte ca soarele de iarnă să apună. Până la ora 17:00 se lasă întunericul și frigul, momentul ideal pentru a găsi un loc cald și primitor.",
+            "en": "Wrap up warmly to start your frosty morning at the Town Hall and local church. Midday offers crisp, beautiful views along the partially frozen Doubs River Promenade. Spend your afternoon wandering the Old Tanneries and the Église de la Nativité as the winter sun dips. By 17:00, dusk settles in and temperatures drop, making it the perfect time to find a warm indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Saint-Vit",
+                "hu": "Saint-Vit Városháza",
+                "ro": "Primăria Saint-Vit",
+                "en": "Saint-Vit Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Eingangsbereich, um sich aufzuwärmen, bevor Sie in die kühle Morgenluft hinaustreten und die Fassade betrachten.",
+                "hu": "Használja ki a fűtött előcsarnokot a felmelegedésre, mielőtt kilépne a csípős reggeli levegőre megcsodálni a homlokzatot.",
+                "ro": "Profitați de holul încălzit pentru a vă încălzi înainte de a ieși în aerul rece al dimineții pentru a admira fațada.",
+                "en": "Take advantage of the heated lobby to warm your hands before stepping back into the crisp morning air to admire the classic stone facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vit",
+                "hu": "Saint-Vit Templom",
+                "ro": "Biserica Saint-Vit",
+                "en": "Saint-Vit Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern können im Winter sehr kalt sein; behalten Sie Ihre Mütze und Schal an, während Sie die frostigen Glasfenster bewundern.",
+                "hu": "A vastag kőfalak télen ontják a hideget; tartsa magán a sapkát és sálat, miközben az ólomüveg ablakokat csodálja a téli fényben.",
+                "ro": "Pereții groși de piatră pot fi foarte reci iarna; păstrați-vă căciula și fularul în timp ce admirați vitraliile în lumina rece.",
+                "en": "The thick stone walls hold the cold during winter; keep your hat and scarf on as you admire the stained glass catching the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Doubs Flusspromenade",
+                "hu": "Doubs Folyó Sétánya",
+                "ro": "Promenada Râului Doubs",
+                "en": "Doubs River Promenade"
+              },
+              "tip_5lang": {
+                "de": "Der Wind vom Fluss ist eisig. Tragen Sie wärmende Schichten und achten Sie auf überfrorene, rutschige Stellen auf dem Uferweg.",
+                "hu": "A folyó felől fújó szél metszően hideg. Viseljen meleg rétegeket, és figyeljen a sétányon kialakuló csúszós, jeges foltokra.",
+                "ro": "Vântul de pe râu este tăios. Purtați straturi groase și fiți atenți la peticele de gheață alunecoase de pe aleea pietonală.",
+                "en": "The breeze off the water can be bitterly cold. Wear proper thermal layers and watch out for slippery frost patches forming on the pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Gerberviertel",
+                "hu": "Régi Cserzőműhelyek Negyede",
+                "ro": "Cartierul Vechi al Tăbăcăriilor",
+                "en": "Old Tanneries District"
+              },
+              "tip_5lang": {
+                "de": "Die niedrige Wintersonne wirft lange Schatten auf die alten Gebäude; seien Sie vorsichtig auf den vereisten Kopfsteinpflastern in den Gassen.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a régi épületekre; óvatosan lépkedjen a sikátorok fagyos macskakövein.",
+                "ro": "Soarele de iarnă aruncă umbre lungi pe clădirile vechi; aveți grijă pe piatra cubică înghețată din aleile înguste.",
+                "en": "The low winter sun casts dramatic shadows over the old industrial buildings; tread carefully on the cobblestones which easily freeze over."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Notre-Dame",
+                "hu": "Église de la Nativité-de-Notre-Dame",
+                "ro": "Église de la Nativité-de-Notre-Dame",
+                "en": "Église de la Nativité-de-Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille der Kirche am späten Nachmittag, bevor Sie sich vor Einbruch der Dunkelheit auf den Rückweg machen.",
+                "hu": "Élvezze a templom békés csendjét a késő délutáni órákban, mielőtt a kora esti sötétség és fagy elől visszatérne a szállására.",
+                "ro": "Bucurați-vă de liniștea pașnică a bisericii în după-amiaza târzie, înainte de a vă întoarce la căldură odată cu lăsarea întunericului.",
+                "en": "Enjoy the peaceful silence of the church interior in the late afternoon, wrapping up your visit just before the early 17:00 darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpározzon a reggeli órákban a központi Saint-Vit városházától, gyorsan a történelmileg gazdag régi cserzőműhelyek felé.\nDélben guruljon végig a Doubs folyó sétányán egy festői pihenőre a vízparton.\nA délutánt töltse azzal, hogy elteker a Saint-Vit templom mellett, és folytassa útját a lenyűgöző Église Funéraire felé.\nZárja az estét egy pihentető tekeréssel a bájos Église Saint-Laurent felé.",
         "ro": "Pedalați de dimineață pornind de la Primăria centrală din Saint-Vit, îndreptându-vă rapid către vechiul cartier istoric al tăbăcăriilor.\nLa amiază, alunecați de-a lungul Promenadei râului Doubs pentru o pauză pitorească pe malul apei.\nPetreceți după-amiaza mergând cu bicicleta pe lângă Biserica Saint-Vit și continuând spre captivanta Église Funéraire.\nÎncheiați seara cu o plimbare relaxantă spre fermecătoarea Église Saint-Laurent.",
         "en": "Pedal through the morning starting from the central Saint-Vit Town Hall, heading swiftly to the historically rich Old Tanneries District.\nAt midday, glide along the Doubs River Promenade for a scenic break by the water.\nSpend your afternoon biking past the Saint-Vit Church and continuing to the captivating Église Funéraire.\nWind down the evening with a relaxing ride towards the charming Église Saint-Laurent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen erfordert Schutzbleche für die Fahrt vom Rathaus zum Gerberviertel. Mittags ist Vorsicht auf den schlammigen Wegen am Doubs geboten. Der Nachmittag führt Sie zu historischen Kirchen, die willkommene trockene Pausen bieten. Da es abends bei Regen früh dunkel wird, sind gute Fahrradlichter und wasserdichte Kleidung unerlässlich.",
+            "hu": "Az esős reggelen sárvédőkre lesz szükség a Városháza és a cserzőműhelyek közötti tekeréshez. Délben óvatosan navigáljon a Doubs folyó csúszós ösvényein. A délutáni templomlátogatások remek alkalmat adnak a száradásra. Mivel esőben az este hamarabb és sötétebben érkezik, ellenőrizze a kerékpár lámpáit és a vízálló felszerelését.",
+            "ro": "O dimineață ploioasă necesită aripi la bicicletă de la Primărie la Tăbăcării. La prânz, atenție pe potecile noroioase de lângă râul Doubs. După-amiaza vizitați biserici istorice, perfecte pentru pauze uscate. Deoarece se întunecă devreme pe ploaie, luminile puternice la bicicletă și pelerinele impermeabile sunt absolut esențiale.",
+            "en": "A rainy morning requires good fenders for your ride from the Town Hall to the Tanneries. By noon, navigate carefully along the muddy paths by the Doubs River. The afternoon brings you to historic churches, offering welcome dry stops. Since dusk falls quickly under rain clouds, ensure your bike lights are bright and wear high-vis waterproofs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Saint-Vit",
+                "hu": "Saint-Vit Városháza",
+                "ro": "Primăria Saint-Vit",
+                "en": "Saint-Vit Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Baum oder Vordach, um den Sattel trocken zu halten, während Sie die Architektur des Rathauses besichtigen.",
+                "hu": "Parkolja le a kerékpárt egy fa vagy tető alá, hogy a nyereg száraz maradjon, amíg a Városháza épületét tanulmányozza.",
+                "ro": "Parcați bicicleta sub un copac sau copertină pentru a menține șaua uscată în timp ce admirați arhitectura Primăriei.",
+                "en": "Park your bike under a tree or nearby overhang to keep your saddle dry while you briefly step inside to view the civic architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Gerberviertel",
+                "hu": "Régi Cserzőműhelyek Negyede",
+                "ro": "Cartierul Vechi al Tăbăcăriilor",
+                "en": "Old Tanneries District"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Kopfsteinpflaster hier ist tückisch für Fahrradreifen. Steigen Sie ab und schieben Sie Ihr Rad durch die schmalsten Gassen.",
+                "hu": "A nedves macskakövek rendkívül csúszósak a kerékpárgumiknak. Szálljon le, és tolja a biciklit a legszűkebb sikátorokban.",
+                "ro": "Piatra cubică umedă este foarte alunecoasă pentru anvelopele de bicicletă. Descălecați și împingeți bicicleta prin cele mai înguste alei.",
+                "en": "The wet cobblestones here are extremely treacherous for bike tires. Consider dismounting and walking your bike through the narrowest historic alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Doubs Flusspromenade",
+                "hu": "Doubs Folyó Sétánya",
+                "ro": "Promenada Râului Doubs",
+                "en": "Doubs River Promenade"
+              },
+              "tip_5lang": {
+                "de": "Reduzieren Sie die Geschwindigkeit auf dem unbefestigten Flussweg; starker Regen erzeugt tiefe Pfützen und weicht den Rand auf.",
+                "hu": "Lassítson le a burkolatlan folyóparti úton; a heves esőzés mély tócsákat hoz létre és feláztatja az út szélét.",
+                "ro": "Reduceți viteza pe poteca neasfaltată a râului; ploaia abundentă creează bălți adânci și înmoaie marginile drumului.",
+                "en": "Reduce your speed significantly on the unpaved river path; heavy rain creates deep, hidden puddles and softens the edges of the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vit",
+                "hu": "Saint-Vit Templom",
+                "ro": "Biserica Saint-Vit",
+                "en": "Saint-Vit Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um sich im Trockenen auszuruhen. Achten Sie darauf, die nassen Steinstufen beim Betreten der Kirche nicht zu unterschätzen.",
+                "hu": "Használja ezt a megállót egy kis száraz pihenőre. Vigyázzon a templom bejáratához vezető nedves, csúszós kőlépcsőkre.",
+                "ro": "Folosiți această oprire pentru a vă odihni la loc uscat. Aveți grijă la treptele din piatră udă și alunecoasă la intrarea în biserică.",
+                "en": "Use this religious site as a sheltered spot to rest and dry off. Step very carefully on the wet stone stairs leading up to the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Funéraire",
+                "hu": "Église Funéraire",
+                "ro": "Église Funéraire",
+                "en": "Église Funéraire"
+              },
+              "tip_5lang": {
+                "de": "Der historische Friedhofsbereich kann schlammig sein. Bleiben Sie mit dem Rad auf dem Hauptweg und suchen Sie unter dem Portal Schutz.",
+                "hu": "A történelmi temető környéke saras lehet. Maradjon a kerékpárral a főúton, és keressen menedéket a bejárati portál alatt.",
+                "ro": "Zona cimitirului istoric poate fi noroioasă. Păstrați bicicleta pe poteca principală și adăpostiți-vă sub portalul de la intrare.",
+                "en": "The surrounding historic grounds get quite muddy. Stick strictly to the main paved path with your bike and shelter under the church portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Letzter Halt im Nassen. Wärmen Sie sich kurz im Inneren auf und schalten Sie Ihre Fahrradlichter für die regnerische Rückfahrt in der Dämmerung ein.",
+                "hu": "Utolsó megálló az esőben. Melegedjen fel röviden bent, és kapcsolja be a kerékpár lámpáit a szürkületi, esős visszautazáshoz.",
+                "ro": "Ultima oprire pe ploaie. Încălziți-vă scurt înăuntru și aprindeți luminile bicicletei pentru drumul de întoarcere în amurgul ploios.",
+                "en": "Your final wet-weather stop. Take a moment inside to warm up, and be absolutely sure to switch on your bike lights for the gloomy evening ride home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre frostige Winterfahrt früh am Rathaus. Mittags erfordert der Weg am eisigen Doubs erhöhte Aufmerksamkeit. Der Nachmittag bringt Sie zu historischen Kirchen, ideal um sich aufzuwärmen, während die Sonne tiefer sinkt. Die Sonne geht gegen 17:00 Uhr unter, stellen Sie also sicher, dass Sie sichere Winterkleidung tragen und Ihr Licht funktioniert.",
+            "hu": "Kezdje a fagyos téli túrát kora reggel a Városházánál. Délben a jeges Doubs folyó melletti tekerés fokozott figyelmet igényel. A délutáni történelmi templomok tökéletesek a felmelegedésre, ahogy a nap egyre lejjebb ereszkedik. Mivel 17:00 körül besötétedik, gondoskodjon a vastag kesztyűről és az erős kerékpárlámpákról.",
+            "ro": "Începeți traseul de iarnă devreme la Primărie. La prânz, navigați cu grijă pe lângă râul înghețat Doubs. După-amiaza vă aduce la biserici istorice, perfecte pentru a vă încălzi pe măsură ce soarele coboară. Apusul este în jur de 17:00, deci asigurați-vă că aveți lumini bune și mănuși groase pentru seară.",
+            "en": "Start your crisp winter ride early at the Town Hall. By noon, navigate carefully along the frosty Doubs River paths. The afternoon brings you to several historic churches, perfect for warming up as dusk approaches. The sun sets around 17:00, so ensure your bike lights are fully charged and wear thick gloves for the freezing evening return."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Saint-Vit",
+                "hu": "Saint-Vit Városháza",
+                "ro": "Primăria Saint-Vit",
+                "en": "Saint-Vit Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Decken Sie Ihren Sattel ab, um Frost zu vermeiden, während Sie das Rathaus besuchen. Die Morgenluft beim Losfahren wird sehr frisch sein.",
+                "hu": "Takarja le a nyerget, hogy megelőzze a ráfagyást, amíg a Városházát látogatja. Az induláskor a reggeli levegő különösen csípős lesz.",
+                "ro": "Acoperiți șaua pentru a preveni înghețul în timp ce vizitați Primăria. Aerul dimineții la plecare va fi foarte rece și tăios.",
+                "en": "Cover your bike saddle to prevent frost buildup while you stop at the Town Hall. The morning wind chill as you set off will be very sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Gerberviertel",
+                "hu": "Régi Cserzőműhelyek Negyede",
+                "ro": "Cartierul Vechi al Tăbăcăriilor",
+                "en": "Old Tanneries District"
+              },
+              "tip_5lang": {
+                "de": "Frost auf dem alten Kopfsteinpflaster kann extrem rutschig sein. Fahren Sie langsam und bewundern Sie den Raureif auf den historischen Mauern.",
+                "hu": "A régi macskaköveken lévő fagy rendkívül csúszós lehet. Tekerjen lassan, és csodálja meg a történelmi falakat borító zúzmarát.",
+                "ro": "Gerul pe piatra cubică veche poate fi extrem de alunecos. Mergeți încet și admirați bruma de pe pereții istorici din jur.",
+                "en": "Morning frost on the old cobblestones is extremely slippery for bikes. Ride slowly and take time to admire the hoarfrost on the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Doubs Flusspromenade",
+                "hu": "Doubs Folyó Sétánya",
+                "ro": "Promenada Râului Doubs",
+                "en": "Doubs River Promenade"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf den Brücken und Wegen am Flussufer. Der kalte Wind hier erfordert eine gute, winddichte Jacke.",
+                "hu": "Figyeljen a tükörjégre a folyóparti hidakon és ösvényeken. A folyó felől fújó hideg szél miatt elengedhetetlen a jó szélálló kabát.",
+                "ro": "Atenție la poleiul de pe poduri și potecile de pe malul râului. Vântul rece de aici necesită o jachetă bună, rezistentă la vânt.",
+                "en": "Keep a sharp eye out for black ice on the bridges and shaded riverbank paths. The biting wind here demands a high-quality windproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Vit",
+                "hu": "Saint-Vit Templom",
+                "ro": "Biserica Saint-Vit",
+                "en": "Saint-Vit Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um Ihre Hände aufzuwärmen. Das Kircheninnere ist kühl, aber immer noch angenehmer als der eisige Winterwind draußen.",
+                "hu": "Használja ezt a megállót a kezei felmelegítésére. A templom belseje hűvös, de még mindig kellemesebb, mint a fagyos téli szél kint.",
+                "ro": "Folosiți această oprire pentru a vă încălzi mâinile. Interiorul este răcoros, dar mult mai plăcut decât vântul înghețat de afară.",
+                "en": "Use this stop to thaw your hands. The church interior remains chilly in winter, but it's a welcome reprieve from the biting wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Funéraire",
+                "hu": "Église Funéraire",
+                "ro": "Église Funéraire",
+                "en": "Église Funéraire"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um die Kirche friert am späten Nachmittag oft hart durch. Bleiben Sie auf dem Asphalt, um Stürze auf vereistem Matsch zu vermeiden.",
+                "hu": "A templom körüli talaj késő délutánra gyakran kőkeményre fagy. Maradjon az aszfalton, hogy elkerülje a fagyott sár miatti eséseket.",
+                "ro": "Pământul din jurul bisericii îngheață adesea după-amiaza. Păstrați-vă pe asfalt pentru a evita căzăturile pe noroiul înghețat.",
+                "en": "The ground around the church often freezes solid by late afternoon. Stay on the paved areas to avoid slipping on deeply rutted frozen mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Ihr letzter Halt, bevor es dunkel und eiskalt wird. Schalten Sie Ihre Lichter rechtzeitig vor 17:00 Uhr ein, wenn die Dämmerung einsetzt.",
+                "hu": "Az utolsó megálló, mielőtt besötétedik és dermesztővé válik az idő. Kapcsolja be a lámpákat jóval 17:00 óra előtt a biztonságos hazaútért.",
+                "ro": "Ultima oprire înainte să se întunece și să devină ger. Aprindeți luminile bine înainte de ora 17:00, când începe să se lase amurgul.",
+                "en": "Your final stop before it gets completely dark and freezing. Ensure your lights are on well before 17:00 as the winter twilight sets in rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Induljon a reggelbe a központi Saint-Vit templom és a lenyűgöző külvárosi Château de Roset-Fluans kastély meglátogatásával.\nA délidő a szép Église Saint-Claude templomhoz és a történelmileg jelentős régi cserzőműhelyek negyedébe viszi.\nDélután utazzon az elegáns Église de la Nativité-de-Notre-Dame felé, hogy megcsodálja annak építészetét.\nFejezze be az autós túrát este a békés Église Saint-Laurent templomnál egy nyugodt befejezésért.",
         "ro": "Începeți dimineața cu vizite la Biserica centrală Saint-Vit și la impresionantul Château de Roset-Fluans de la periferie.\nAmiaza vă aduce la frumoasa Église Saint-Claude și la cartierul istoric semnificativ al vechilor tăbăcării.\nDupă-amiaza, conduceți către eleganta Église de la Nativité-de-Notre-Dame pentru a-i aprecia arhitectura.\nÎncheiați turul cu mașina seara la pașnica Église Saint-Laurent pentru o concluzie senină.",
         "en": "Drive into the morning with visits to the central Saint-Vit Church and the impressive Château de Roset-Fluans on the outskirts.\nMidday brings you to the lovely Église Saint-Claude and the historically significant Old Tanneries District.\nIn the afternoon, cruise to the elegant Église de la Nativité-de-Notre-Dame to appreciate its architecture.\nWrap up your driving tour in the evening at the peaceful Église Saint-Laurent for a serene conclusion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher, regnerischer Autotrip. Starten Sie an der Kirche und fahren Sie zum Schloss, wo das Auto Sie vor dem Wetter schützt. Mittags erkunden Sie die Gassen des Gerberviertels mit dem Schirm. Der Nachmittag führt über nasse Landstraßen zu den Dorfkirchen. Da Regen die Sicht abends stark einschränkt, fahren Sie vorsichtig und genießen Sie die warme Heizung.",
+            "hu": "Kényelmes autós túra esőben. Kezdje a templomnál, majd vezessen a kastélyhoz; az autó száraz menedéket nyújt. Délben esernyővel járja be a cserzőműhelyek negyedét. Délután a nedves vidéki utakon közelíti meg a falusi templomokat. Mivel az eső és a sötétedés rontja a látási viszonyokat, vezessen óvatosan, és élvezze a fűtést.",
+            "ro": "O excursie confortabilă cu mașina pe ploaie. Începeți la biserică și conduceți spre Castel. La prânz, explorați cu umbrela Tăbăcăriile. După-amiaza vă poartă pe drumuri rurale ude către bisericile satului. Deoarece ploaia reduce vizibilitatea seara, conduceți cu prudență și bucurați-vă de căldura mașinii.",
+            "en": "Enjoy a comfortable rainy drive. Start at the Church and drive to the Château, letting your car shelter you from downpours. By midday, brave the Old Tanneries with an umbrella. The afternoon takes you down wet rural roads to quiet village churches. Since rain severely reduces evening visibility, drive with care and enjoy the heater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Vit",
+                "hu": "Saint-Vit Templom",
+                "ro": "Biserica Saint-Vit",
+                "en": "Saint-Vit Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie möglichst nah am Eingang, um nicht nass zu werden. Der Regen lässt die historischen Steine des Gebäudes besonders dunkel wirken.",
+                "hu": "Parkoljon a bejárathoz a lehető legközelebb, hogy elkerülje az esőt. A nedvesség kiemeli a történelmi kövek sötét, drámai színét.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda. Ploaia face ca pietrele istorice ale clădirii să pară mult mai întunecate.",
+                "en": "Try to park as close to the entrance as possible to minimize your time in the rain. The wet weather makes the historic stones look beautifully dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Roset-Fluans",
+                "hu": "Château de Roset-Fluans",
+                "ro": "Château de Roset-Fluans",
+                "en": "Château de Roset-Fluans"
+              },
+              "tip_5lang": {
+                "de": "Die Landstraße zum Schloss kann bei starkem Regen Aquaplaning verursachen. Fahren Sie langsam und bewundern Sie die Anlage vom Auto aus.",
+                "hu": "A kastélyhoz vezető vidéki úton heves esőben felúszhat az autó (aquaplaning). Vezessen lassan, és csodálja meg az épületet a meleg kocsiból.",
+                "ro": "Drumul rural către castel prezintă risc de acvaplanare la ploaie puternică. Conduceți încet și admirați domeniul din mașină.",
+                "en": "The rural road to the Château can be prone to hydroplaning during downpours. Drive slowly and admire the grand estate from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Claude",
+                "hu": "Église Saint-Claude",
+                "ro": "Église Saint-Claude",
+                "en": "Église Saint-Claude"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller, trockener Stopp im Inneren der Kirche. Seien Sie vorsichtig auf den regennassen, rutschigen Fliesen am Kircheneingang.",
+                "hu": "Egy gyors, száraz megálló a templom belsejében. Legyen óvatos a templom bejáratánál lévő esőtől nedves, csúszós csempéken.",
+                "ro": "O oprire rapidă și uscată în interiorul bisericii. Aveți grijă la plăcile umede și alunecoase de la intrarea în lăcașul de cult.",
+                "en": "Make a quick dash from your car to stay dry. Once inside, be careful on the rain-slicked tile floor right near the entrance doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Gerberviertel",
+                "hu": "Régi Cserzőműhelyek Negyede",
+                "ro": "Cartierul Vechi al Tăbăcăriilor",
+                "en": "Old Tanneries District"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Rand des Viertels und nehmen Sie den Schirm. Die engen Gassen sind mit dem Auto nicht passierbar und voller Pfützen.",
+                "hu": "Parkoljon a negyed szélén, és vigyen esernyőt. A szűk utcák autóval járhatatlanok és esőben tele vannak nagy tócsákkal.",
+                "ro": "Parcați la marginea cartierului și luați umbrela. Aleile înguste nu pot fi parcurse cu mașina și sunt pline de bălți.",
+                "en": "Park on the outskirts of the district and grab your umbrella. The narrow historical alleys aren't drivable and quickly fill with large puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Notre-Dame",
+                "hu": "Église de la Nativité-de-Notre-Dame",
+                "ro": "Église de la Nativité-de-Notre-Dame",
+                "en": "Église de la Nativité-de-Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich in dieser massiven Kirche etwas ab. Die Parkplätze in der Nähe können schlammig sein, achten Sie auf Ihre Schuhe.",
+                "hu": "Szárítkozzon meg egy kicsit ebben a masszív templomban. A közeli parkolók sarasak lehetnek, figyeljen a cipőjére kiszálláskor.",
+                "ro": "Uscați-vă puțin în această biserică masivă. Locurile de parcare din apropiere pot fi noroioase, fiți atenți la încălțăminte când coborâți.",
+                "en": "Take some time to dry off inside this massive church. The nearby dirt parking spots can get very muddy, so watch your step as you exit the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Halt bietet eine trockene Zuflucht. Schalten Sie das Abblendlicht für die regnerische Rückfahrt bei schwindendem Tageslicht ein.",
+                "hu": "Az utolsó megálló száraz menedéket nyújt. Kapcsolja fel a tompított fényszórót a romló látási viszonyok és az esős hazaút miatt.",
+                "ro": "Ultima oprire oferă un refugiu uscat. Aprindeți faza scurtă pentru drumul de întoarcere pe ploaie și vizibilitate redusă la amurg.",
+                "en": "Your final stop offers a dry refuge. Make sure your headlights are on for the gloomy, rain-slicked drive back as the evening overcast sets in."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den Komfort Ihres beheizten Autos an diesem Wintermorgen, beginnend an der Kirche. Mittags bietet die Fahrt zum Schloss und Gerberviertel frostige Panoramen. Nachmittags sind die Fahrten zu ländlichen Kirchen gemütlich, aber achten Sie auf vereiste Straßen, da der frühe Sonnenuntergang um 17:00 Uhr die Temperaturen schnell sinken lässt.",
+            "hu": "Élvezze a fűtött autó kényelmét ezen a téli reggelen, a templomnál kezdve. Délben a kastélyhoz és a cserzőműhelyekhez vezető út fagyos panorámát nyújt. Délután a vidéki templomok felfedezése hangulatos, de vigyázzon a jeges utakkal, mert a korai, 17:00 órás naplemente miatt a hőmérséklet gyorsan zuhan.",
+            "ro": "Bucurați-vă de confortul mașinii încălzite în această dimineață de iarnă, începând la Biserică. La prânz, drumul spre Castel oferă panorame înghețate. După-amiaza, vizitele la bisericile rurale sunt plăcute, dar atenție la drumurile înghețate, deoarece apusul de la ora 17:00 scade rapid temperaturile.",
+            "en": "Enjoy the comfort of your heated car on this winter morning, starting at the local church. Midday offers a scenic drive to the Château and Tanneries, with frost highlighting the old stones. Afternoon visits to rural churches are cozy, but be mindful of icy local roads as the early 17:00 sunset brings rapid temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Vit",
+                "hu": "Saint-Vit Templom",
+                "ro": "Biserica Saint-Vit",
+                "en": "Saint-Vit Church"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto ist perfekt nach dem kühlen Kirchenbesuch. Passen Sie auf dem vereisten Parkplatz vor der Kirche gut auf.",
+                "hu": "Az autó fűtése tökéletes a hűvös templomlátogatás után. Nagyon vigyázzon a templom előtti jeges, csúszós parkolóban a kiszálláskor.",
+                "ro": "Căldura mașinii este perfectă după vizita în biserica rece. Aveți mare grijă în parcarea înghețată din fața clădirii.",
+                "en": "The car's heater will feel amazing after stepping out of the chilly church. Walk very carefully across the often-icy parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Roset-Fluans",
+                "hu": "Château de Roset-Fluans",
+                "ro": "Château de Roset-Fluans",
+                "en": "Château de Roset-Fluans"
+              },
+              "tip_5lang": {
+                "de": "Die winterlichen Felder auf der Fahrt bieten ein tolles Fotomotiv. Prüfen Sie, ob Sie Winterreifen für die kleineren Landstraßen haben.",
+                "hu": "A téli mezők az út mentén remek fotótémát nyújtanak. Győződjön meg róla, hogy jó téli gumikkal halad a kisebb, fagyos vidéki utakon.",
+                "ro": "Câmpurile de iarnă de pe drum oferă un motiv foto excelent. Asigurați-vă că aveți anvelope de iarnă pentru drumurile rurale înghețate.",
+                "en": "The frosted fields on the drive here are beautiful. Ensure your car is equipped with good winter tires for these untreated local country roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Claude",
+                "hu": "Église Saint-Claude",
+                "ro": "Église Saint-Claude",
+                "en": "Église Saint-Claude"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort im winterlichen Licht. Schließen Sie die Autotüren schnell, damit die mühsam aufgebaute Wärme nicht in die Kälte entweicht.",
+                "hu": "Gyönyörű hely a téli fényben. Gyorsan csukja be az ajtókat, hogy a drága meleg ne szökjön ki a fagyos levegőre a megálló alatt.",
+                "ro": "Un loc frumos în lumina iernii. Închideți rapid ușile mașinii pentru ca aerul cald să nu iasă în frigul de afară.",
+                "en": "A beautiful structure in the low winter light. Make sure to close your car doors quickly when you step out so you don't lose the cabin heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Historisches Gerberviertel",
+                "hu": "Régi Cserzőműhelyek Negyede",
+                "ro": "Cartierul Vechi al Tăbăcăriilor",
+                "en": "Old Tanneries District"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen und ziehen Sie sich warm an. Das Gerberviertel am Flussufer ist im Winter extrem windig und bitterkalt.",
+                "hu": "Hagyja hátra az autót, és öltözzön fel nagyon melegen. A folyóparti cserzőműhelyek negyede télen rendkívül szeles és csikorgóan hideg.",
+                "ro": "Lăsați mașina și îmbrăcați-vă gros. Cartierul Tăbăcăriilor de pe malul râului este extrem de vântos și înghețat iarna.",
+                "en": "Leave the warm car behind and bundle up tightly. This riverside tanning district catches the winter wind directly and can be bitterly cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de la Nativité-de-Notre-Dame",
+                "hu": "Église de la Nativité-de-Notre-Dame",
+                "ro": "Église de la Nativité-de-Notre-Dame",
+                "en": "Église de la Nativité-de-Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Im späten Nachmittag werfen die Bäume lange Schatten. Fahren Sie besonders aufmerksam, da gefrierende Nässe zu unsichtbarem Glatteis wird.",
+                "hu": "Késő délután a fák hosszú árnyékot vetnek. Vezessen különösen óvatosan, mert az útra fagyó nedvesség láthatatlan tükörjeget képezhet.",
+                "ro": "Spre seară, copacii aruncă umbre lungi. Conduceți cu mare prudență, deoarece umezeala înghețată de pe drum devine polei invizibil.",
+                "en": "In the late afternoon shadows, be highly alert behind the wheel. Residual moisture on these village roads quickly turns into dangerous black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Ihr letztes Ziel. Um 17:00 Uhr ist es dunkel und friert stark. Nutzen Sie die Scheibenheizung, um beschlagene Fenster für die Heimfahrt zu klären.",
+                "hu": "Az utolsó célpont. 17:00 órára sötét és kemény fagy lesz. Indulás előtt használja a szélvédőfűtést a párás ablakok letisztításához.",
+                "ro": "Ultima destinație. La ora 17:00 este întuneric și ger. Folosiți dezaburirea parbrizului pentru a curăța geamurile înainte de a pleca spre casă.",
+                "en": "Your final destination before the 17:00 darkness hits. Use your car's defroster to clear any heavy condensation on the windows before driving back."
+              }
+            }
+          ]
+        }
       }
     }
   }

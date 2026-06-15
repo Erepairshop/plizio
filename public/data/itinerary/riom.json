@@ -183,6 +183,224 @@
         "hu": "Kezdje a gyalogos túrát a Square Virlogeux-n, majd induljon el Riom történelmi szívébe, hogy megcsodálja a fenséges Saint-Amable bazilikát.\nSétáljon a hangulatos utcákon, csodálja meg a Konzulok Házát, és mássza meg az ikonikus óratornyot, ahonnan csodálatos kilátás nyílik a régióra.\nMerüljön el a történelemben a Mandet Múzeumban, majd nézze meg a riomi Sainte-Chapelle lélegzetelállító ólomüveg ablakait.\nZárja a tartalmas napot az Igazságügyi Palota neoklasszicista homlokzatának megcsodálásával, ahogy a késő délutáni fény megvilágítja a köveket.",
         "ro": "Începeți turul pietonal în Square Virlogeux înainte de a vă îndrepta spre inima istorică a orașului Riom pentru a admira grandioasa Bazilică Saint-Amable.\nPlimbați-vă pe străzile fermecătoare, admirați Casa Consulilor și urcați în emblematicul Turn cu Ceas pentru a vă bucura de o priveliște panoramică.\nAprofundați istoria la Muzeul Mandet, urmat de vitraliile uluitoare ale Sainte-Chapelle din Riom, reflectând trecutul glorios al regiunii Auvergne.\nÎncheiați ziua admirând fațada neoclasică a Palatului de Justiție, în timp ce lumina după-amiezii târzii înmoaie pietrele vulcanice antice.",
         "en": "Begin your walking tour at Square Virlogeux to soak in the morning ambiance before heading into the historic heart of Riom to marvel at the grand Basilica of Saint-Amable.\nStroll along the charming streets, taking time to admire the intricately carved House of the Consuls and ascend the iconic Clock Tower for sweeping views of the region.\nDive into history at the Mandet Museum, followed by the breathtaking stained glass of the Sainte-Chapelle of Riom, reflecting the glorious past of the Auvergne.\nConclude your immersive walking day by admiring the majestic neoclassical facade of the Palais de Justice as the late afternoon light softens the ancient volcanic stones."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Riom betont die dunkle Eleganz der Volvic-Steinbauten. Wir beginnen im Park und suchen Schutz unter dichten Bäumen. Mittags bieten die Basilika und historischen Häuser trockene Zuflucht inmitten der Altstadt. Nachmittags sind die Museen ideal, um dem Regen zu entkommen. Abends glänzen die nassen Gassen im Laternenlicht und bieten eine melancholische Atmosphäre.",
+            "hu": "A reggeli eső Riomban kiemeli a fekete vulkáni kövek eleganciáját. A parkban kezdünk, sűrű lombok alatt keresve menedéket. Délben a bazilika és a történelmi épületek nyújtanak száraz pihenőt az óváros szívében. Délután a múzeumok és zárt kápolnák tökéletesek az égi áldás elől. Este a vizes aszfalton megcsillanó fények kísérnek minket a város méltóságteljes épületei között.",
+            "ro": "O dimineață ploioasă în Riom scoate în evidență eleganța pietrei de Volvic. Începem în parc, căutând adăpost sub copacii deși. La prânz, bazilica și casele istorice oferă refugiu uscat în centrul vechi. După-amiaza este dedicată muzeelor, ideale pentru a evita ploaia. Seara, străzile umede reflectă luminile orașului, creând o atmosferă melancolică și liniștită lângă Palatul de Justiție.",
+            "en": "A rainy morning in Riom highlights the dark elegance of the volcanic stone architecture. We start in the park, finding shelter under the trees. At noon, the basilica and historical houses provide dry refuge in the heart of the old town. Afternoon is perfect for museums to escape the downpour. In the evening, the wet streets reflect the city lights, offering a poetic end to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Virlogeux",
+                "hu": "Square Virlogeux",
+                "ro": "Square Virlogeux",
+                "en": "Square Virlogeux"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das satte Grün unter dem Schutz großer Bäume und nutzen Sie die Pavillons bei stärkerem Regen als trockenen Aussichtspunkt.",
+                "hu": "Élvezze a fák alatti friss illatokat, és használja a pavilonokat menedékként, ha felerősödne az eső a reggeli séta közben.",
+                "ro": "Bucurați-vă de verdeața intensă sub protecția arborilor mari și folosiți pavilioanele ca punct de observație uscat dacă ploaia se întețește.",
+                "en": "Enjoy the lush greenery under the shelter of large trees and use the pavilions as a dry lookout point if the rain gets heavier."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Amable",
+                "hu": "Saint-Amable Bazilika",
+                "ro": "Bazilica Saint-Amable",
+                "en": "Basilica of Saint-Amable"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dunklen Steine, die im Regen glänzen, und treten Sie ein, um die Ruhe und Wärme des Kirchenschiffs zu genießen.",
+                "hu": "Csodálja meg az esőben fénylő sötét köveket, majd lépjen be a hajóba, hogy szárazon élvezhesse a szakrális csendet és nyugalmat.",
+                "ro": "Admirați pietrele întunecate care strălucesc în ploaie și intrați pentru a vă bucura de liniștea și căldura interiorului bazilicii.",
+                "en": "Admire the dark stones shining in the rain and step inside to enjoy the peace and warmth of the nave while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Konsuln",
+                "hu": "Konzulok Háza",
+                "ro": "Casa Consulilor",
+                "en": "House of the Consuls"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Dachvorsprünge der engen Gassen, um die Renaissance-Fassade zu betrachten, ohne nass zu werden; ein Regenschirm ist dennoch Pflicht.",
+                "hu": "Használja ki a szűk utcák ereszeit a reneszánsz homlokzat megfigyeléséhez, de a csúszós macskakövön közlekedjen óvatosan és lassan.",
+                "ro": "Folosiți streșinile străzilor înguste pentru a observa fațada renascentistă fără a vă uda; totuși, umbrela este indispensabilă aici.",
+                "en": "Use the overhangs of the narrow streets to observe the Renaissance facade without getting wet, but keep your umbrella ready for crossings."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt bei grauem Himmel besonders dramatisch; achten Sie beim Fotografieren auf die rutschigen Stufen in der Umgebung.",
+                "hu": "A torony szürke égbolt alatt különösen drámai látványt nyújt; fotózáskor ügyeljen a környező lépcsők csúszósságára és a sötétebb tónusokra.",
+                "ro": "Turnul pare deosebit de dramatic sub cerul gri; aveți grijă la treptele alunecoase din jur în timp ce faceți fotografii sub umbrelă.",
+                "en": "The tower looks particularly dramatic against gray clouds; watch out for slippery steps in the vicinity while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandet-Museum",
+                "hu": "Mandet Múzeum",
+                "ro": "Muzeul Mandet",
+                "en": "Mandet Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort für einen Regentag; verbringen Sie viel Zeit in den beheizten Sälen mit den umfangreichen Kunstsammlungen.",
+                "hu": "Ez a legjobb hely egy esős napon; töltsön el hosszabb időt a fűtött termekben a gazdag képzőművészeti gyűjteményeket böngészve.",
+                "ro": "Acesta este cel mai bun loc pentru o zi ploioasă; petreceți mult timp în sălile încălzite explorând colecțiile bogate de artă.",
+                "en": "This is the best place for a rainy day; spend plenty of time in the heated galleries exploring the extensive art collections."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Chapelle von Riom",
+                "hu": "Riomi Sainte-Chapelle",
+                "ro": "Sainte-Chapelle din Riom",
+                "en": "Sainte-Chapelle of Riom"
+              },
+              "tip_5lang": {
+                "de": "Die Glasfenster leuchten auch bei wenig Licht mystisch; suchen Sie unter dem Eingangsvorbau Schutz vor dem nächsten Regenschauer.",
+                "hu": "Az ólomüveg ablakok gyenge fényben is misztikus ragyogást adnak; keressen menedéket a bejárati előtér alatt a következő zápor előtt.",
+                "ro": "Vitraliile strălucesc mistic chiar și în lumină slabă; căutați adăpost sub pridvorul intrării înainte de următoarea rafală de ploaie.",
+                "en": "The stained glass windows glow mystically even in low light; seek shelter under the entrance porch before the next shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais de Justice",
+                "hu": "Igazságügyi Palota",
+                "ro": "Palais de Justice",
+                "en": "Palais de Justice"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die imposante Architektur durch den Nebel und beenden Sie die Tour schnell in einem nahegelegenen gemütlichen Café.",
+                "hu": "Szemlélje meg az impozáns épületet a ködön keresztül, majd fejezze be a túrát egy közeli hangulatos kávézó melegében.",
+                "ro": "Admirați arhitectura impunătoare prin ceață și încheiați turul rapid într-o cafenea primitoare din apropiere pentru a vă încălzi.",
+                "en": "View the imposing architecture through the mist and end your tour quickly in a nearby cozy cafe to warm up."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen in Riom beginnt mit klarer Luft im Park. Mittags wärmen wir uns in der Basilika und den geschichtsträchtigen Gassen auf, bevor die Sonne früh sinkt. Der Nachmittag gehört dem Mandet-Museum, einem warmen Hort der Kultur. Gegen 17:00 Uhr bricht die Dunkelheit ein, und die festliche Beleuchtung der Stadt verwandelt Riom in ein winterliches Märchen.",
+            "hu": "A fagyos téli reggel Riomban friss levegővel indul a parkban. Délben a bazilika falaiban és a történelmi utcákban keresünk enyhülést a hideg ellen, mielőtt a nap korán nyugovóra térne. A délutánt a Mandet Múzeum fűtött termeiben töltjük. 17:00 körül leszáll az est, és a város ünnepi fényei téli mesevilággá varázsolják a sötét kőépületeket.",
+            "ro": "O dimineață geroasă de iarnă în Riom începe cu aer curat în parc. La prânz ne încălzim în bazilică și pe străzile istorice înainte ca soarele să apună devreme. După-amiaza este rezervată Muzeului Mandet, un refugiu cultural călduros. În jurul orei 17:00 se lasă întunericul, iar iluminatul festiv transformă orașul într-o poveste de iarnă magică.",
+            "en": "A frosty winter morning in Riom starts with crisp air in the park. At noon, we warm up inside the basilica and historical alleys before the sun sets early. The afternoon belongs to the Mandet Museum, a warm cultural haven. Around 17:00, darkness falls, and the festive lighting transforms the volcanic stone city into a winter wonderland."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Virlogeux",
+                "hu": "Square Virlogeux",
+                "ro": "Square Virlogeux",
+                "en": "Square Virlogeux"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Raureif auf den Bänken bei einem kurzen Spaziergang; tragen Sie unbedingt Handschuhe und einen warmen Schal.",
+                "hu": "Élvezze a padokon megülő zúzmarát egy rövid séta közben; feltétlenül viseljen kesztyűt és meleg sálat a fagyos szélben.",
+                "ro": "Bucurați-vă de chiciura de pe bănci în timpul unei plimbări scurte; purtați neapărat mănuși și un fular gros pentru confort.",
+                "en": "Enjoy the frost-covered benches during a short walk; be sure to wear gloves and a warm scarf against the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Amable",
+                "hu": "Saint-Amable Bazilika",
+                "ro": "Bazilica Saint-Amable",
+                "en": "Basilica of Saint-Amable"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist kühl, bietet aber Schutz vor dem Wind; nutzen Sie die Zeit für eine stille Betrachtung der romanischen Architektur.",
+                "hu": "A belső tér hűvös, de védelmet nyújt a szél elől; használja ki az időt a román stílusú építészet csendes megfigyelésére.",
+                "ro": "Interiorul este răcoros, dar oferă protecție împotriva vântului; folosiți timpul pentru o contemplare liniștită a arhitecturii romanice.",
+                "en": "The interior is chilly but offers protection from the wind; use the time for silent contemplation of the Romanesque architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus der Konsuln",
+                "hu": "Konzulok Háza",
+                "ro": "Casa Consulilor",
+                "en": "House of the Consuls"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Steinschnitzereien im klaren Winterlicht und gehen Sie zügig weiter, um nicht auszukühlen.",
+                "hu": "Csodálja meg a kőfaragásokat a tiszta téli fényben, majd haladjon tovább lendületesen, hogy ne hűljön ki a várakozás közben.",
+                "ro": "Admirați sculpturile în piatră în lumina clară de iarnă și mergeți rapid mai departe pentru a nu vă răci stând pe loc.",
+                "en": "Admire the stone carvings in the clear winter light and keep moving briskly to maintain your body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm hebt sich scharf vom Winterhimmel ab; falls geöffnet, bietet der Aufstieg einen herrlichen Blick auf verschneite Dächer.",
+                "hu": "A torony élesen kirajzolódik a téli égen; ha nyitva van, a feljutás csodás kilátást nyújt a havas háztetőkre és a tájra.",
+                "ro": "Turnul se profilează clar pe cerul de iarnă; dacă este deschis, urcarea oferă o vedere superbă asupra acoperișurilor eventual înzăpezite.",
+                "en": "The tower stands out sharply against the winter sky; if open, the climb offers a magnificent view of potentially snow-dusted rooftops."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandet-Museum",
+                "hu": "Mandet Múzeum",
+                "ro": "Muzeul Mandet",
+                "en": "Mandet Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Rückzugsort am Nachmittag; genießen Sie die Wärme der Galerien und tauchen Sie tief in die Kunstgeschichte ein.",
+                "hu": "A tökéletes délutáni menedék a hideg elől; élvezze a galériák melegét és mélyedjen el a művészettörténeti kincsek között.",
+                "ro": "Refugiul ideal de după-amiază; bucurați-vă de căldura galeriilor și explorați în profunzime istoria artei expuse aici.",
+                "en": "The ideal afternoon retreat from the cold; enjoy the warmth of the galleries and dive deep into the art history collections."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Chapelle von Riom",
+                "hu": "Riomi Sainte-Chapelle",
+                "ro": "Sainte-Chapelle din Riom",
+                "en": "Sainte-Chapelle of Riom"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle vor dem frühen Sonnenuntergang um 17:00 Uhr, wenn das Licht die Fenster noch zum Leuchten bringt.",
+                "hu": "Látogassa meg a kápolnát a korai, 17:00 körüli naplemente előtt, amíg a fény még életre kelti az üvegablakokat.",
+                "ro": "Vizitați capela înainte de apusul devreme de la ora 17:00, când lumina încă face ferestrele să strălucească frumos.",
+                "en": "Visit the chapel before the early sunset around 17:00, while the light still makes the windows glow beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Palais de Justice",
+                "hu": "Igazságügyi Palota",
+                "ro": "Palais de Justice",
+                "en": "Palais de Justice"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier, wenn die Winterdämmerung einsetzt; die beleuchtete Fassade bietet ein prachtvolles Finale.",
+                "hu": "Fejezze be itt a napot a téli szürkület beálltakor; a kivilágított homlokzat pompás lezárást ad a városi sétának.",
+                "ro": "Încheiați ziua aici când se lasă amurgul de iarnă; fațada iluminată oferă un final grandios explorării orașului.",
+                "en": "End your day here as the winter twilight sets in; the illuminated facade provides a grand finale to your city walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje a napot egy élénk kerékpározással a Square Virlogeux-hoz, majd tekerjen a lenyűgöző Saint-Amable bazilikához, hogy megismerje Riom építészetét.\nNavigáljon a szűk utcákon a történelmi Óratoronyhoz, majd parkolja le kerékpárját, hogy felfedezze a Mandet Múzeum kiterjedt gyűjteményeit.\nTekerjen egy rövid távot a gyönyörű Sainte-Chapelle-hez, hogy megcsodálja gótikus dizájnját, mielőtt elhagyja a sűrű városközpontot.\nTekerjen a város zöldebb pereme felé, és zárja aktív napját egy pihentető szünettel a Parc Vachon France gyönyörű fái között.",
         "ro": "Începeți cu o plimbare rapidă până la Square Virlogeux, apoi pedalați spre impunătoarea Bazilică Saint-Amable pentru a experimenta măreția arhitecturală din Riom.\nNavigați pe străduțele înguste până la Turnul cu Ceas, apoi parcați bicicleta pentru a explora colecțiile vaste de la Muzeul Mandet.\nPedalați pe o distanță scurtă până la rafinata Sainte-Chapelle pentru a admira designul său gotic înainte de a părăsi centrul dens.\nPedalați spre marginile mai verzi ale orașului, încheindu-vă ziua activă cu o pauză de relaxare printre copacii frumoși din Parc Vachon France.",
         "en": "Start with a brisk ride to Square Virlogeux, then pedal towards the imposing Basilica of Saint-Amable to experience Riom's architectural grandeur early on.\nNavigate the narrow lanes to the historic Clock Tower for a quick climb, and then park your bike to explore the extensive collections at the Mandet Museum.\nCycle the short distance to the exquisite Sainte-Chapelle to admire its gothic design before leaving the dense city center.\nPedal out towards the greener edges of town, ending your active day with a relaxing break amidst the beautiful trees of Parc Vachon France."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag in Riom erfordert Vorsicht auf dem rutschigen Volvic-Stein. Vormittags radeln wir schnell zwischen Park und Basilika. Mittags dienen die historischen Türme als kurze Unterstände. Der Nachmittag wird im Museum verbracht, während das Rad sicher untergestellt ist. Trotz Nässe bleibt die Fahrt durch die grauen Gassen ein stimmungsvolles Erlebnis.",
+            "hu": "Egy esős kerékpáros nap Riomban óvatosságot igényel a csúszós vulkáni köveken. Délelőtt gyorsan pedálozunk a park és a bazilika között. Délben a történelmi tornyok tövében keresünk rövid menedéket. A délutánt a múzeumban töltjük, amíg a bicikli biztonságban pihen. A nedves utcák szürkesége ellenére a tekerés hangulatos élmény marad.",
+            "ro": "O zi ploioasă cu bicicleta în Riom necesită prudență pe piatra de Volvic alunecoasă. Dimineața pedalăm rapid între parc și bazilică. La prânz, turnurile istorice servesc ca scurte adăposturi. După-amiaza este petrecută la muzeu, în timp ce bicicleta stă la adăpost. În ciuda umezelii, plimbarea prin străzile gri rămâne o experiență atmosferică.",
+            "en": "A rainy cycling day in Riom requires caution on the slippery volcanic stone. In the morning, we ride quickly between the park and the basilica. At noon, historical towers serve as short shelters. The afternoon is spent at the museum while the bike is parked safely. Despite the wetness, riding through the gray alleys remains an atmospheric experience."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Virlogeux",
+                "hu": "Square Virlogeux",
+                "ro": "Square Virlogeux",
+                "en": "Square Virlogeux"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die asphaltierten Wege und meiden Sie nasse Wiesen; Schutzbleche am Rad sind heute ein absolutes Muss.",
+                "hu": "Használja az aszfaltozott utakat és kerülje a vizes füvet; a sárvédő ma elengedhetetlen a sár és víz ellen.",
+                "ro": "Folosiți potecile asfaltate și evitați iarba umedă; apărătorile de noroi la bicicletă sunt absolut necesare astăzi.",
+                "en": "Stick to the paved paths and avoid wet grass; mudguards on your bike are an absolute must today to stay clean."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Amable",
+                "hu": "Saint-Amable Bazilika",
+                "ro": "Bazilica Saint-Amable",
+                "en": "Basilica of Saint-Amable"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter einem Vorsprung ab und genießen Sie die trockene Stille im Inneren der Basilika.",
+                "hu": "Parkolja le a biciklit egy közeli eresz alá, és élvezze a száraz csendet a bazilika vastag falai között.",
+                "ro": "Parcați bicicleta sub o streașină din apropiere și bucurați-vă de liniștea uscată din interiorul bazilicii.",
+                "en": "Park your bike under a nearby ledge and enjoy the dry silence inside the thick walls of the basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das Kopfsteinpflaster, das bei Regen extrem glatt wird; bremsen Sie frühzeitig vor Kurven ab.",
+                "hu": "Ügyeljen a macskakőre, amely esőben rendkívül csúszós; fékezzen időben a kanyarok és kereszteződések előtt.",
+                "ro": "Atenție la pavajul de piatră care devine extrem de alunecos pe ploaie; frânați din timp înainte de curbe.",
+                "en": "Watch out for the cobblestones, which become extremely slick in the rain; brake early and gently before turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandet-Museum",
+                "hu": "Mandet Múzeum",
+                "ro": "Muzeul Mandet",
+                "en": "Mandet Museum"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine lange Pause vom Regen; das Museum bietet ideale Bedingungen, um Kleidung und Ausrüstung zu trocknen.",
+                "hu": "Tartson hosszú szünetet az eső elől; a múzeum fűtött terei ideálisak a ruházat és a felszerelés megszárításához.",
+                "ro": "Luați o pauză lungă de la ploaie; muzeul ofer淘 condiții ideale pentru a vă usca hainele și echipamentul.",
+                "en": "Take a long break from the rain; the museum offers ideal conditions to warm up and dry your gear while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Chapelle von Riom",
+                "hu": "Riomi Sainte-Chapelle",
+                "ro": "Sainte-Chapelle din Riom",
+                "en": "Sainte-Chapelle of Riom"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Sprint hierher lohnt sich für die prachtvollen Fenster; halten Sie ein Mikrofasertuch für den Sattel bereit.",
+                "hu": "Egy rövid, vizes sprint is megéri a pompás ablakokért; tartson kéznél mikroszálas kendőt a nyereg letörléséhez.",
+                "ro": "Un sprint scurt și umed până aici merită pentru ferestrele superbe; aveți la îndemână o cârpă pentru a șterge șaua.",
+                "en": "A short, wet sprint here is worth it for the magnificent windows; keep a microfiber cloth handy to dry your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Vachon France",
+                "hu": "Parc Vachon France",
+                "ro": "Parc Vachon France",
+                "en": "Parc Vachon France"
+              },
+              "tip_5lang": {
+                "de": "Der Parkweg kann matschig sein; bleiben Sie auf den Hauptrouten und tragen Sie wasserfeste Überschuhe beim Radeln.",
+                "hu": "A parki utak sárosak lehetnek; maradjon a fő útvonalakon és viseljen vízálló cipővédőt a tekerés közben.",
+                "ro": "Potecile din parc pot fi noroioase; rămâneți pe rutele principale și purtați protecții impermeabile pentru încălțăminte.",
+                "en": "Park paths can be muddy; stick to the main routes and wear waterproof shoe covers while riding in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Riom erfordert warme Schichten gegen den Fahrtwind. Morgens erkunden wir den frostigen Square Virlogeux. Mittags bieten die Basilika und der Uhrenturm kulturelle Stopps zum Aufwärmen. Der Nachmittag wird im Mandet-Museum gemütlich. Da es bereits gegen 17:00 Uhr dunkel wird, beenden wir unsere Tour frühzeitig im Park Vachon im schwindenden Licht.",
+            "hu": "A téli kerékpározás Riomban meleg rétegeket igényel a menetszél ellen. Reggel a zúzmarás Square Virlogeux-t fedezzük fel. Délben a bazilika és az óratorony kínál kulturális pihenőt a felmelegedéshez. A délután a Mandet Múzeumban telik kellemesen. Mivel 17:00 körül sötétedik, túránkat korán zárjuk a Parc Vachonban, a fogyó fényeknél.",
+            "ro": "Ciclismul de iarnă în Riom necesită straturi groase împotriva vântului. Dimineața explorăm Square Virlogeux înghețat. La prânz, bazilica și turnul cu ceas oferă opriri culturale pentru încălzire. După-amiaza este petrecută confortabil la Muzeul Mandet. Deoarece se întunecă în jurul orei 17:00, încheiem turul devreme în Parc Vachon.",
+            "en": "Winter cycling in Riom requires warm layers against the wind chill. In the morning, we explore the frosty Square Virlogeux. At noon, the basilica and clock tower offer cultural stops to warm up. The afternoon is spent comfortably at the Mandet Museum. Since it gets dark around 17:00, we finish our tour early at Parc Vachon in the fading light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Square Virlogeux",
+                "hu": "Square Virlogeux",
+                "ro": "Square Virlogeux",
+                "en": "Square Virlogeux"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, um die Hände am Lenker warm zu halten, während Sie die frostige Parklandschaft genießen.",
+                "hu": "Viseljen szélálló kesztyűt, hogy kezei melegen maradjanak a kormányon, miközben a fagyos parki tájat csodálja.",
+                "ro": "Purtați mănuși rezistente la vânt pentru a vă menține mâinile calde pe ghidon în timp ce admirați parcul înghețat.",
+                "en": "Wear windproof gloves to keep your hands warm on the handlebars while enjoying the frosty park landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika Saint-Amable",
+                "hu": "Saint-Amable Bazilika",
+                "ro": "Bazilica Saint-Amable",
+                "en": "Basilica of Saint-Amable"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die steifen Glieder kurz zu bewegen und die imposante romanische Architektur zu bewundern.",
+                "hu": "Használja ki a megállót a megmacskásodott végtagok átmozgatására és az impozáns román építészet megcsodálására.",
+                "ro": "Folosiți această oprire pentru a vă mișca puțin membrele amorțite și pentru a admira arhitectura romanică impunătoare.",
+                "en": "Use this stop to stretch your stiff limbs and admire the imposing Romanesque architecture of the basilica."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisflächen auf dem Kopfsteinpflaster; fahren Sie besonders in Kurven langsam und vorsichtig.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a macskakövön; haladjon lassan és óvatosan, különösen a kanyarokban.",
+                "ro": "Atenție la posibilele porțiuni de gheață de pe pavaj; circulați încet și cu prudență, mai ales în curbe.",
+                "en": "Watch out for potential icy patches on the cobblestones; ride slowly and carefully, especially around corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandet-Museum",
+                "hu": "Mandet Múzeum",
+                "ro": "Muzeul Mandet",
+                "en": "Mandet Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und wärmen Sie sich in den beheizten Ausstellungsräumen bei den Kunstschätzen auf.",
+                "hu": "Parkolja le biztonságosan a biciklit, és melegedjen fel a fűtött kiállítótermekben a művészeti kincsek között.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă în sălile de expoziție călduroase printre comorile de artă.",
+                "en": "Park your bike safely and warm up in the heated exhibition rooms while enjoying the artistic treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Chapelle von Riom",
+                "hu": "Riomi Sainte-Chapelle",
+                "ro": "Sainte-Chapelle din Riom",
+                "en": "Sainte-Chapelle of Riom"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt die Kapelle besonders edel wirken; besuchen Sie diesen Ort, bevor die Kälte am späten Nachmittag zunimmt.",
+                "hu": "A téli fény különösen nemes megjelenést kölcsönöz a kápolnának; látogassa meg, mielőtt késő délután fokozódna a hideg.",
+                "ro": "Lumina de iarnă conferă capelei un aspect nobil; vizitați acest loc înainte ca frigul să se intensifice spre seară.",
+                "en": "The winter light gives the chapel a particularly noble appearance; visit here before the cold intensifies in the late afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Vachon France",
+                "hu": "Parc Vachon France",
+                "ro": "Parc Vachon France",
+                "en": "Parc Vachon France"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier vor 17:00 Uhr, um nicht in die Dunkelheit zu geraten; achten Sie auf funktionierende Fahrradlichter.",
+                "hu": "Zárja a túrát 17:00 előtt, hogy elkerülje a sötétet; ügyeljen arra, hogy a kerékpárlámpák megfelelően működjenek.",
+                "ro": "Încheiați turul aici înainte de ora 17:00 pentru a evita întunericul; asigurați-vă că luminile bicicletei funcționează.",
+                "en": "Finish your tour here before 17:00 to avoid riding in the dark; ensure your bike lights are functioning properly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Könnyedén vezessen be a városba, és kezdje útját a Saint-Amable bazilikánál, miközben az autót leparkolva sétál a történelmi központban.\nLátogasson el az Óratoronyhoz és a híres Mandet Múzeumhoz, élvezve a rövid, gyalogosbarát sétákat e nevezetességek között.\nA Sainte-Chapelle megtekintése után üljön vissza az autóba, és vezessen délre a Parc Vachon France felé egy kellemes délutáni parki pihenőre.\nFolytassa útját a játékos DéfiLand felé, és zárja a tartalmas autós túrát egy békés esti sétával a kiterjedt Parc Mirabelben.",
         "ro": "Conduceți ușor în oraș și începeți călătoria la Bazilica Saint-Amable, lăsând mașina parcată în timp ce vă plimbați prin centrul istoric.\nVizitați Turnul cu Ceas și renumitul Muzeu Mandet, bucurându-vă de plimbările scurte și prietenoase pentru pietoni între aceste repere ale orașului.\nDupă vizionarea uimitoarei Sainte-Chapelle, urcați înapoi în mașină pentru a vă îndrepta spre sud către Parc Vachon France pentru o pauză în parc.\nContinuați drumul către DéfiLand, încheindu-vă turul cu mașina cu o plimbare liniștită de seară prin imensul Parc Mirabel.",
         "en": "Drive easily into town and begin your journey at the breathtaking Basilica of Saint-Amable, leaving your car parked while you walk the historic central cluster.\nVisit the towering Clock Tower and the renowned Mandet Museum, enjoying the short, pedestrian-friendly strolls between these prominent city landmarks.\nAfter viewing the stunning Sainte-Chapelle, hop back in the car to cruise south to Parc Vachon France for a delightful mid-afternoon park break.\nContinue your drive to the playful DéfiLand, concluding your well-rounded driving tour with a peaceful evening walk through the expansive Parc Mirabel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Riom lässt sich bequem im Auto bewältigen. Vormittags besuchen wir die Basilika und den Uhrenturm, wobei das Auto trockene Übergänge ermöglicht. Mittags ist das Mandet-Museum ein Highlight. Nachmittags fahren wir zur Sainte-Chapelle und zum Park Vachon. Den Tag lassen wir im überdachten DéfiLand und im Parc Mirabel ausklingen, ideal für Familien bei schlechtem Wetter.",
+            "hu": "Az esős nap Riomban kényelmesen abszolválható autóval. Délelőtt a bazilikát és az óratoronyt látogatjuk meg, az autó száraz átmenetet biztosít a megállók között. Délben a Mandet Múzeum a fő attrakció. Délután a Sainte-Chapelle és a Parc Vachon következik. A napot a fedett DéfiLandben és a Parc Mirabelben zárjuk, melyek ideálisak családoknak rossz időben is.",
+            "ro": "O zi ploioasă în Riom poate fi gestionată confortabil cu mașina. Dimineața vizităm bazilica și turnul cu ceas, mașina oferind tranzit uscat. La prânz, Muzeul Mandet este atracția principală. După-amiaza mergem la Sainte-Chapelle și Parc Vachon. Încheiem ziua la DéfiLand acoperit și Parc Mirabel, ideale pentru familii pe vreme rea.",
+            "en": "A rainy day in Riom can be easily managed by car. In the morning, we visit the basilica and clock tower, with the car providing dry transit between stops. At noon, the Mandet Museum is a highlight. The afternoon includes Sainte-Chapelle and Parc Vachon. We end the day at the indoor DéfiLand and Parc Mirabel, perfect for families even in wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilika Saint-Amable",
+                "hu": "Saint-Amable Bazilika",
+                "ro": "Bazilica Saint-Amable",
+                "en": "Basilica of Saint-Amable"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz und huschen Sie schnell ins Trockene, um die romanische Pracht zu bewundern.",
+                "hu": "Használja a közeli parkolót és fusson be gyorsan a szárazba, hogy megcsodálhassa a román stílusú pompát.",
+                "ro": "Folosiți parcarea din apropiere și intrați rapid la adăpost pentru a admira splendoarea romanică a bazilicii.",
+                "en": "Use the nearby parking lot and dash inside quickly to stay dry while admiring the Romanesque splendor."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentral und nutzen Sie einen stabilen Regenschirm für den kurzen Fußweg zum Turm in den engen Gassen.",
+                "hu": "Parkoljon a központban és használjon stabil esernyőt a toronyhoz vezető rövid séta során a szűk utcákban.",
+                "ro": "Parcați central și folosiți o umbrelă rezistentă pentru scurta plimbare până la turn prin străzile înguste.",
+                "en": "Park centrally and use a sturdy umbrella for the short walk to the tower through the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandet-Museum",
+                "hu": "Mandet Múzeum",
+                "ro": "Muzeul Mandet",
+                "en": "Mandet Museum"
+              },
+              "tip_5lang": {
+                "de": "Ideal bei Dauerregen; parken Sie direkt in der Nähe, um ohne große Umwege in die warmen Ausstellungsräume zu gelangen.",
+                "hu": "Ideális tartós esőben; parkoljon közvetlenül a közelben, hogy nagyobb kitérő nélkül juthasson a meleg kiállítótermekbe.",
+                "ro": "Ideal în caz de ploaie continuă; parcați chiar în apropiere pentru a ajunge fără ocolișuri în sălile de expoziție calde.",
+                "en": "Ideal during steady rain; park nearby to reach the warm exhibition rooms quickly without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Chapelle von Riom",
+                "hu": "Riomi Sainte-Chapelle",
+                "ro": "Sainte-Chapelle din Riom",
+                "en": "Sainte-Chapelle of Riom"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur kurz von außen und genießen Sie den Aufenthalt im Inneren, während es draußen stürmt.",
+                "hu": "Csodálja meg az építészetet kívülről egy pillanatra, majd élvezze a benti látogatást, amíg odakint tombol az eső.",
+                "ro": "Admirați arhitectura scurt de afară și bucurați-vă de vizita în interior în timp ce afară plouă torențial.",
+                "en": "Admire the architecture briefly from the outside, then enjoy your time inside while it storms outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Vachon France",
+                "hu": "Parc Vachon France",
+                "ro": "Parc Vachon France",
+                "en": "Parc Vachon France"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Grünen; bleiben Sie im Auto, wenn der Regen zu stark ist, und genießen Sie die Aussicht durch die Scheiben.",
+                "hu": "Rövid megálló a zöldben; maradjon az autóban, ha túl erősen esik, és élvezze a kilátást az üvegen keresztül.",
+                "ro": "O scurtă oprire în natură; rămâneți în mașină dacă plouă prea tare și bucurați-vă de vedere prin parbriz.",
+                "en": "A short green stop; stay in the car if the rain is too heavy and enjoy the view through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "DéfiLand",
+                "hu": "DéfiLand",
+                "ro": "DéfiLand",
+                "en": "DéfiLand"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für Kinder bei Regen; diese überdachte Spielwelt bietet stundenlangen trockenen Spaß für die Kleinen.",
+                "hu": "A tökéletes hely gyerekeknek esőben; ez a fedett játszóvilág órákig tartó száraz szórakozást nyújt a kicsiknek.",
+                "ro": "Locul perfect pentru copii pe ploaie; acest univers de joacă acoperit oferă ore întregi de distracție uscată pentru cei mici.",
+                "en": "The perfect place for kids in the rain; this indoor play center offers hours of dry fun for the little ones."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Mirabel",
+                "hu": "Parc Mirabel",
+                "ro": "Parc Mirabel",
+                "en": "Parc Mirabel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier; nutzen Sie die überdachten Bereiche des Parks, um trotz Nässe die Natur zu erleben.",
+                "hu": "Zárja itt a napot; használja a park fedett részeit, hogy a nedvesség ellenére is élvezhesse a természet közelségét.",
+                "ro": "Încheiați ziua aici; folosiți zonele acoperite ale parcului pentru a experimenta natura în ciuda umezelii de afară.",
+                "en": "End your day here; use the park's sheltered areas to experience nature despite the damp weather outdoors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein winterlicher Roadtrip durch Riom bietet Wärme und Komfort im beheizten Auto. Vormittags besuchen wir die Basilika und den Uhrenturm. Mittags wärmen wir uns im Mandet-Museum auf. Der Nachmittag führt uns zur Sainte-Chapelle und in die winterlichen Parks. Mit dem frühen Einbruch der Dunkelheit um 17:00 Uhr endet unsere Tour im festlich beleuchteten Parc Mirabel.",
+            "hu": "A téli autós kirándulás Riomban meleget és kényelmet nyújt a fűtött utastérben. Délelőtt a bazilikát és az óratoronyt nézzük meg. Délben a Mandet Múzeumban melegszünk fel. A délután a Sainte-Chapelle és a téli parkok felfedezésével telik. A korai, 17:00 órai sötétedéssel túránk az ünnepi fényekbe öltözött Parc Mirabelben zárul.",
+            "ro": "O excursie de iarnă cu mașina prin Riom oferă căldură și confort în habitaclul încălzit. Dimineața vizităm bazilica și turnul cu ceas. La prânz ne încălzim la Muzeul Mandet. După-amiaza ne duce la Sainte-Chapelle și în parcurile de iarnă. Odată cu lăsarea serii la ora 17:00, turul nostru se încheie în Parc Mirabel iluminat festiv.",
+            "en": "A winter road trip through Riom offers warmth and comfort in a heated car. In the morning, we visit the basilica and clock tower. At noon, we warm up at the Mandet Museum. The afternoon takes us to Sainte-Chapelle and the winter parks. With the early onset of darkness at 17:00, our tour ends at the festively lit Parc Mirabel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Basilika Saint-Amable",
+                "hu": "Saint-Amable Bazilika",
+                "ro": "Bazilica Saint-Amable",
+                "en": "Basilica of Saint-Amable"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto auf Betriebstemperatur und genießen Sie die kühle Stille der Basilika für einen Moment.",
+                "hu": "Hagyja az autót üzemi hőmérsékleten, és élvezze a bazilika hűvös csendjét egy rövid, de tartalmas látogatás erejéig.",
+                "ro": "Lăsați mașina la temperatură optimă și bucurați-vă de liniștea răcoroasă a bazilicii pentru un moment scurt.",
+                "en": "Keep the car warm and enjoy the cool silence of the basilica for a brief but meaningful visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm",
+                "hu": "Óratorony",
+                "ro": "Turnul cu Ceas",
+                "en": "Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Straßenstellen in den schattigen Gassen der Altstadt beim Parken und Fahren.",
+                "hu": "Ügyeljen a jeges útszakaszokra az óváros árnyékos utcáiban a parkolás és a vezetés során.",
+                "ro": "Atenție la porțiunile de drum înghețate în străzile umbrite ale centrului vechi în timpul condusului și parcării.",
+                "en": "Watch out for icy road patches in the shaded alleys of the old town while driving and parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Mandet-Museum",
+                "hu": "Mandet Múzeum",
+                "ro": "Muzeul Mandet",
+                "en": "Mandet Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Ort für eine ausgiebige Mittagspause zwischen den beeindruckenden Kunstwerken.",
+                "hu": "Használja ki ezt a meleg helyet egy alapos délutáni pihenőre a lenyűgöző művészeti alkotások között.",
+                "ro": "Folosiți acest loc călduros pentru o pauză lungă de prânz printre operele de artă impresionante.",
+                "en": "Take advantage of this warm location for an extensive afternoon break among the impressive artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Sainte-Chapelle von Riom",
+                "hu": "Riomi Sainte-Chapelle",
+                "ro": "Sainte-Chapelle din Riom",
+                "en": "Sainte-Chapelle of Riom"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle am frühen Nachmittag, solange die Wintersonne tief steht und die Fenster erleuchtet.",
+                "hu": "Látogassa meg a kápolnát kora délután, amíg a téli nap alacsonyan jár és szépen megvilágítja az ablakokat.",
+                "ro": "Vizitați capela la începutul după-amiezii, cât timp soarele de iarnă este jos și luminează ferestrele.",
+                "en": "Visit the chapel in the early afternoon while the low winter sun still illuminates the stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Vachon France",
+                "hu": "Parc Vachon France",
+                "ro": "Parc Vachon France",
+                "en": "Parc Vachon France"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Winterspaziergang hier ist erfrischend; ziehen Sie sich warm an, bevor Sie das Auto verlassen.",
+                "hu": "Egy rövid téli séta itt felfrissítő; öltözzön fel rétegesen és melegen, mielőtt kiszállna a fűtött autóból.",
+                "ro": "O scurtă plimbare de iarnă aici este revigorantă; îmbrăcați-vă gros înainte de a coborî din mașina încălzită.",
+                "en": "A brief winter walk here is refreshing; dress in warm layers before leaving the comfort of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "DéfiLand",
+                "hu": "DéfiLand",
+                "ro": "DéfiLand",
+                "en": "DéfiLand"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp zum Aufwärmen für Familien; Kinder können sich hier richtig auspowern, während es draußen friert.",
+                "hu": "A tökéletes melegedő állomás családoknak; a gyerekek itt jól kimeríthetik energiáikat, amíg odakint fagy.",
+                "ro": "O oprire perfectă pentru încălzire pentru familii; copiii își pot consuma energia aici în timp ce afară e ger.",
+                "en": "The perfect warming-up stop for families; kids can burn off energy here while it freezes outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc Mirabel",
+                "hu": "Parc Mirabel",
+                "ro": "Parc Mirabel",
+                "en": "Parc Mirabel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei Einbruch der Dunkelheit; die winterliche Beleuchtung sorgt für eine magische Atmosphäre.",
+                "hu": "Zárja a napot sötétedéskor; a téli esti kivilágítás varázslatos hangulatot teremt a parkban.",
+                "ro": "Încheiați ziua la lăsarea întunericului; iluminatul de iarnă creează o atmosferă magică în acest parc.",
+                "en": "End your day as darkness falls; the winter evening lights create a magical atmosphere throughout the park."
+              }
+            }
+          ]
+        }
       }
     }
   }

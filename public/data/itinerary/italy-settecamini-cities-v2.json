@@ -137,6 +137,168 @@
         "hu": "Reggel\nKezdje a lakóövezetben a helyi templom meglátogatásával, megalapozva a békés hangulatot. Késő délelőtt egy rövid séta elvezeti az impozáns Torre di Pratolungo tornyához.\nDél\nFolytassa a történelmi felfedezést a Santa Maria in Monasterio romjainál. Élvezzen egy laza helyi ebédet a közelben, magába szívva a külvárosi római atmoszférát a séta folytatása előtt.\nDélután\nIrány dél felé a Sepolcro a via Marcellina felé, amely az ősi út menti történelem lenyűgöző darabja. A könnyű séta során elgondolkodhat Róma egykori terjeszkedő határain.\nEste\nFejezze be a sétát a fő régészeti területen, ahol az ősi kövek melegen ragyognak a késő délutáni napsütésben. Ez az utolsó megálló átfogó képet ad a régió gazdag múltjáról.",
         "ro": "Dimineață\nÎncepeți în zona rezidențială cu o vizită la biserica locală, creând o atmosferă liniștită. Până la mijlocul dimineții, o scurtă plimbare vă duce la impunătorul Torre di Pratolungo.\nAmiază\nContinuați explorarea istorică la rămășițele Santa Maria in Monasterio. Bucurați-vă de un prânz local relaxat în apropiere, absorbind atmosfera romană suburbană înainte de a continua.\nDupă-amiază\nÎndreptați-vă spre sud, spre Sepolcro a via Marcellina, o piesă intrigantă a istoriei antice. Plimbarea este ușoară, permițându-vă să reflectați asupra vechilor granițe în expansiune.\nSeară\nÎncheiați la zona arheologică principală, unde pietrele antice strălucesc cald în soarele după-amiezii târzii. Această oprire finală oferă o privire cuprinzătoare asupra trecutului bogat.",
         "en": "Morning\nStart in the residential area with a visit to the local church, setting a peaceful tone. As mid-morning approaches, a short walk brings you to the imposing Torre di Pratolungo.\nMidday\nContinue your historical exploration at the remnants of Santa Maria in Monasterio. Enjoy a relaxed local lunch nearby, soaking in the suburban Roman atmosphere before resuming your walk.\nAfternoon\nHead south towards the Sepolcro a via Marcellina, an intriguing piece of ancient roadside history. The walk is gentle, allowing you to reflect on Rome's expanding ancient borders.\nEvening\nConclude at the main archaeological area, where the ancient stones glow warmly in the late afternoon sun. This final stop offers a comprehensive look at the region's rich past."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Settecamini beginnt besinnlich in der modernen Kirche, die Schutz bietet. Mittags führen die Wege zwischen den historischen Türmen über glänzenden Asphalt; Vorsicht vor Pfützen auf den Gehwegen. Am Nachmittag wirken die archäologischen Stätten unter dem grauen Himmel besonders mystisch. Der Abend klingt bei reflektierenden Lichtern auf den nassen Straßen ruhig aus.",
+            "hu": "A Settecamini esős reggel a modern templomban indul, amely kiváló menedéket nyújt a zivatar elől. Délben a történelmi tornyok közötti séta során a vizes aszfalt csillogása kísér minket; érdemes figyelni a tócsákra. Délután a régészeti területek romjai titokzatos arcukat mutatják a szürke égbolt alatt. Az este a nedves utcákon tükröződő városi fények megtekintésével zárul.",
+            "ro": "O dimineață ploioasă în Settecamini începe liniștit în biserica modernă, care oferă adăpost. La prânz, drumurile între turnurile istorice trec peste asfaltul lucios; atenție la bălți pe trotuare. După-amiaza, siturile arheologice par deosebit de mistice sub cerul cenușiu. Seara se încheie calm, cu luminile orașului reflectându-se pe străzile umede.",
+            "en": "A rainy morning in Settecamini begins contemplatively in the modern church, providing perfect shelter. At noon, the walk between historical towers continues over glistening asphalt; watch out for puddles on the sidewalks. In the afternoon, the archaeological sites look particularly mystical under the gray sky. The evening concludes quietly with city lights reflecting on the wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sant'Enrico",
+                "hu": "Sant'Enrico Templom",
+                "ro": "Biserica Sant'Enrico",
+                "en": "Church of Sant'Enrico"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur des Innenraums, der einen trockenen Zufluchtsort bietet; nutzen Sie die Zeit, um den Regen draußen abzuwarten.",
+                "hu": "Csodálja meg a belső tér modern építészetét, amely száraz menedéket nyújt; használja ki az időt a kinti zápor megvárására.",
+                "ro": "Admirați arhitectura modernă a interiorului, care oferă un refugiu uscat; profitați de timp pentru a aștepta oprirea ploii de afară.",
+                "en": "Admire the modern architecture of the interior, which provides a dry sanctuary; use the time to wait out the rain shower outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Pratolungo",
+                "hu": "Pratolungo Torony",
+                "ro": "Turnul Pratolungo",
+                "en": "Pratolungo Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das mittelalterliche Mauerwerk, dessen Farben bei Regen intensiver wirken; tragen Sie unbedingt festes, wasserdichtes Schuhwerk für den Zugang.",
+                "hu": "Figyelje meg a középkori falazatot, amelynek színei esőben intenzívebbnek tűnnek; a megközelítéshez mindenképpen viseljen vízálló lábbelit.",
+                "ro": "Observați zidăria medievală ale cărei culori par mai intense pe ploaie; purtați neapărat încălțăminte impermeabilă pentru acces.",
+                "en": "Observe the medieval masonry whose colors appear more intense in the rain; be sure to wear sturdy, waterproof footwear for the approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria in Monasterio",
+                "hu": "Santa Maria in Monasterio Templom",
+                "ro": "Biserica Santa Maria in Monasterio",
+                "en": "Church of Santa Maria in Monasterio"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die historische Bedeutung dieses Ortes im Schutz des Gebäudes; ein Regenschirm ist für den kurzen Weg vom Tor unerlässlich.",
+                "hu": "Fedezze fel a helyszín történelmi jelentőségét az épület védelmében; a kaputól vezető rövid útra egy esernyő elengedhetetlen kellék.",
+                "ro": "Descoperiți semnificația istorică a acestui loc la adăpostul clădirii; o umbrelă este indispensabilă pentru drumul scurt de la poartă.",
+                "en": "Discover the historical significance of this site under the protection of the building; an umbrella is essential for the short walk from the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Grab an der Via Marcellina",
+                "hu": "Sír a Via Marcellinán",
+                "ro": "Mormântul de pe Via Marcellina",
+                "en": "Tomb on Via Marcellina"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie dieses antike Relikt, das durch die Feuchtigkeit eine besondere Textur erhält; halten Sie sich auf den befestigten Flächen, um Schlamm zu vermeiden.",
+                "hu": "Tekintse meg ezt az ókori emléket, amely a nedvesség hatására különleges textúrát kap; maradjon a kövezett részeken a sár elkerülése érdekében.",
+                "ro": "Vizitați această relicvă antică ce capătă o textură deosebită din cauza umidității; rămâneți pe suprafețele pavate pentru a evita noroiul.",
+                "en": "Visit this ancient relic which gains a special texture due to the moisture; stay on the paved surfaces to avoid the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Gebiet Settecamini",
+                "hu": "Settecamini Régészeti Terület",
+                "ro": "Zona Arheologică Settecamini",
+                "en": "Settecamini Archaeological Area"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die römischen Ruinen, die im Regen eine melancholische Atmosphäre versprühen; achten Sie auf rutschige Steine zwischen den Ausgrabungen.",
+                "hu": "Fedezze fel a római romokat, amelyek az esőben melankolikus hangulatot árasztanak; ügyeljen a csúszós kövekre az ásatások között.",
+                "ro": "Explorați ruinele romane care emană o atmosferă melancolică pe ploaie; atenție la pietrele alunecoase dintre săpături.",
+                "en": "Explore the Roman ruins which exude a melancholic atmosphere in the rain; watch out for slippery stones among the excavations."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt frisch bei der modernen Kirche, wo die Heizung willkommen ist. Mittags wärmt die tiefstehende Sonne die alten Mauern der Türme während des Spaziergangs. Am Nachmittag ist die archäologische Zone ruhig und menschenleer, was eine friedliche Erkundung ermöglicht. Da die Sonne gegen 17:00 Uhr untergeht, endet der Tag früh im gemütlichen Wohnviertel.",
+            "hu": "A tiszta téli reggel frissen indul a modern templomnál, ahol a belső fűtés nagyon jólesik. Napközben az alacsonyan járó nap melegíti a tornyok ősi falait a séta során. Délután a régészeti terület csendes és kihalt, ami békés felfedezést tesz lehetővé. Mivel a nap 17:00 körül nyugszik, a nap korán véget ér a barátságos lakónegyedben.",
+            "ro": "O dimineață senină de iarnă începe proaspăt la biserica modernă, unde încălzirea este binevenită. La prânz, soarele jos încălzește zidurile vechi ale turnurilor în timpul plimbării. După-amiaza, zona arheologică este liniștită și pustie, permițând o explorare pașnică. Deoarece soarele apune în jur de ora 17:00, ziua se termină devreme în cartierul primitor.",
+            "en": "A clear winter morning starts freshly at the modern church, where the indoor heating is welcome. At noon, the low sun warms the ancient walls of the towers during the walk. In the afternoon, the archaeological area is quiet and deserted, allowing for a peaceful exploration. Since the sun sets around 17:00, the day ends early in the cozy residential neighborhood."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sant'Enrico",
+                "hu": "Sant'Enrico Templom",
+                "ro": "Biserica Sant'Enrico",
+                "en": "Church of Sant'Enrico"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den hellen Vormittag für Fotos der modernen Fassade; tragen Sie im Inneren eine warme Schicht, da große Räume oft kühl bleiben.",
+                "hu": "Használja ki a világos délelőttöt a modern homlokzat fotózására; viseljen réteges öltözetet, mert a nagy terek bent is hűvösek lehetnek.",
+                "ro": "Profitați de dimineața luminoasă pentru poze cu fațada modernă; purtați un strat cald în interior, deoarece spațiile mari rămân adesea răcoroase.",
+                "en": "Use the bright morning for photos of the modern facade; wear a warm layer inside as large spaces often remain chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Pratolungo",
+                "hu": "Pratolungo Torony",
+                "ro": "Turnul Pratolungo",
+                "en": "Pratolungo Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Turm im harten Winterlicht, das die Details der Ziegel betont; die kalte Luft macht die Sicht auf die Umgebung besonders klar.",
+                "hu": "Csodálja meg a tornyot az éles téli fényben, amely kiemeli a téglák részleteit; a hideg levegő miatt a kilátás különösen tiszta.",
+                "ro": "Admirați turnul în lumina aspră de iarnă care accentuează detaliile cărămizilor; aerul rece face vizibilitatea asupra împrejurimilor deosebit de clară.",
+                "en": "Admire the tower in the harsh winter light that emphasizes the brick details; the cold air makes the view of the surroundings especially clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria in Monasterio",
+                "hu": "Santa Maria in Monasterio Templom",
+                "ro": "Biserica Santa Maria in Monasterio",
+                "en": "Church of Santa Maria in Monasterio"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historische Atmosphäre dieses Klostersitzes; achten Sie auf den frühen Schattenwurf der umliegenden Gebäude am Nachmittag.",
+                "hu": "Fedezze fel a kolostorhelyszín történelmi hangulatát; figyeljen a környező épületek korai árnyékaira a délutáni órákban.",
+                "ro": "Explorați atmosfera istorică a acestui sediu monahal; atenție la umbrele timpurii lăsate de clădirile din jur după-amiaza.",
+                "en": "Explore the historical atmosphere of this monastic site; notice the early shadows cast by surrounding buildings in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Grab an der Via Marcellina",
+                "hu": "Sír a Via Marcellinán",
+                "ro": "Mormântul de pe Via Marcellina",
+                "en": "Tomb on Via Marcellina"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses antike Grabmal in der Ruhe des Winters; die kahle Vegetation gibt den Blick auf Details frei, die im Sommer verborgen sind.",
+                "hu": "Tekintse meg ezt az ókori síremléket a téli nyugalomban; a kopár növényzet olyan részleteket is láthatóvá tesz, amelyek nyáron rejtve maradnak.",
+                "ro": "Vizitați acest monument funerar antic în liniștea iernii; vegetația rară permite vederea unor detalii ascunse pe timpul verii.",
+                "en": "View this ancient tomb in the winter stillness; the bare vegetation reveals details that are often hidden in the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Gebiet Settecamini",
+                "hu": "Settecamini Régészeti Terület",
+                "ro": "Zona Arheologică Settecamini",
+                "en": "Settecamini Archaeological Area"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Rundgang hier, bevor es um 17 Uhr dunkel wird; der gefrorene Boden sorgt für einen festen, aber kalten Untergrund.",
+                "hu": "Fejezze be a körutat itt, mielőtt 17 órakor sötétedni kezd; a fagyott talaj stabil, de hideg járófelületet biztosít a romok között.",
+                "ro": "Încheiați turul aici înainte de lăsarea întunericului la ora 17; solul înghețat oferă o suprafață stabilă, dar rece sub picioare.",
+                "en": "Finish your tour here before it gets dark at 17:00; the frozen ground provides a firm but cold surface among the ruins."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel\nKezdje kerékpáros kalandját a távoli Torre S. Eusebio-nál, élvezve a friss reggeli levegőt. Egy rövid túra elviszi a via Carciano római villájának lenyűgöző romjaihoz.\nDél\nTekerjen északra a Sepolcro a via Marcellina felé. A kerékpárutak itt viszonylag csendesek, így könnyen élvezheti a vidéki mezőkről a történelmi külvárosokba való átmenetet.\nDélután\nFedezze fel a fő régészeti zónát. Innen tekerjen az ősi Via Tiburtina mentén a Mansio-hoz, elgondolkodva a történelmi utazókon, akik egykor itt haladtak el.\nEste\nFejezze be aktív napját a CRM-ben egy adag modern kultúrával. Az ősi romok és a kortárs zenei kutatás közötti kontraszt emlékezetes befejezést nyújt a túrának.",
         "ro": "Dimineață\nÎncepeți aventura pe bicicletă la îndepărtatul Torre S. Eusebio, bucurându-vă de aerul proaspăt. O scurtă plimbare vă duce la ruinele impresionante ale Vilei Romane de pe via Carciano.\nAmiază\nPedalați spre nord până la Sepolcro a via Marcellina. Rutele de ciclism de aici sunt relativ liniștite, facilitând tranziția de la câmpurile rurale la suburbiile bogate istoric.\nDupă-amiază\nExplorați zona arheologică principală. De acolo, mergeți de-a lungul anticei Via Tiburtina pentru a descoperi Mansio, reflectând la călătorii istorici care au trecut pe aici.\nSeară\nÎncheiați ziua activă la CRM pentru o doză de cultură. Contrastul dintre ruinele antice de pe marginea drumului și cercetarea muzicală contemporană oferă o concluzie memorabilă.",
         "en": "Morning\nBegin your cycling adventure at the remote Torre S. Eusebio, enjoying the crisp morning air. A short ride takes you to the impressive ruins of the Roman Villa on via Carciano.\nMidday\nPedal north to the Sepolcro a via Marcellina. The cycling routes here are relatively quiet, making it easy to enjoy the transition from rural fields to historically rich suburban outskirts.\nAfternoon\nExplore the main archaeological zone of Settecamini. From there, cycle along the path of the ancient Via Tiburtina to discover the Mansio, reflecting on the historical travelers who passed here.\nEvening\nEnd your active day at the CRM for a dose of modern culture. The contrast between ancient roadside ruins and contemporary musical research makes for a memorable conclusion."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Vormittag auf zwei Rädern beginnt am S. Eusebio Turm; die Radwege können rutschig sein. Mittags führt die Fahrt zu römischen Villen, wobei wasserdichte Kleidung unerlässlich ist. Am Nachmittag bietet das Musikforschungszentrum einen trockenen und kulturellen Höhepunkt. Der Tag endet mit einer vorsichtigen Fahrt durch das Viertel, wobei gute Beleuchtung bei Regen wichtig ist.",
+            "hu": "Egy vizes délelőtt két keréken az S. Eusebio toronynál indul; a kerékpárutak csúszósak lehetnek. Délben a túra római villákhoz vezet, ahol a vízálló öltözet elengedhetetlen. Délután a zenei kutatóközpont nyújt száraz és kulturális kikapcsolódást. A nap óvatos tekeréssel zárul a negyedben, ahol a jó világítás esőben kiemelten fontos.",
+            "ro": "O dimineață umedă pe două roți începe la turnul S. Eusebio; pistele de biciclete pot fi alunecoase. La prânz, traseul duce la vile romane, unde echipamentul impermeabil este esențial. După-amiaza, centrul de cercetare muzicală oferă un punct culminant cultural și uscat. Ziua se încheie cu o plimbare prudentă prin cartier, iluminarea fiind vitală pe ploaie.",
+            "en": "A wet morning on two wheels begins at the S. Eusebio Tower; bike paths can be slippery. At noon, the ride leads to Roman villas, making waterproof gear essential. In the afternoon, the center for musical research offers a dry and cultural highlight. The day ends with a cautious ride through the neighborhood, where good lighting is crucial in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turm St. Eusebio",
+                "hu": "S. Eusebio Torony",
+                "ro": "Turnul S. Eusebio",
+                "en": "St. Eusebio Tower"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie den Turm kurz und nutzen Sie die nahegelegenen Unterstände; prüfen Sie Ihre Bremsen, da die Abfahrten bei Nässe tückisch sind.",
+                "hu": "Tekintse meg röviden a tornyot, és használja a közeli fedett helyeket; ellenőrizze a fékeket, mert a lejtők nedvesen trükkösek lehetnek.",
+                "ro": "Vizitați scurt turnul și folosiți adăposturile din apropiere; verificați frânele, deoarece coborârile sunt înșelătoare pe carosabil umed.",
+                "en": "Visit the tower briefly and use nearby shelters; check your brakes, as the descents can be tricky when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa der Via Carciano",
+                "hu": "Via Carciano Római Villája",
+                "ro": "Vila Romană de pe Via Carciano",
+                "en": "Roman Villa of Via Carciano"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen vom Straßenrand aus, um Schlamm zu vermeiden; helle Regenbekleidung erhöht Ihre Sichtbarkeit für den Autoverkehr.",
+                "hu": "Tekintse meg a romokat az út széléről, hogy elkerülje a sarat; a világos esőruházat növeli a láthatóságát az autósforgalom számára.",
+                "ro": "Observați ruinele de la marginea drumului pentru a evita noroiul; echipamentul de ploaie reflectorizant vă crește vizibilitatea în trafic.",
+                "en": "View the ruins from the roadside to avoid the mud; bright rain gear increases your visibility to car traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Grab an der Via Marcellina",
+                "hu": "Sír a Via Marcellinán",
+                "ro": "Mormântul de pe Via Marcellina",
+                "en": "Tomb on Via Marcellina"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp an diesem antiken Monument ist ideal; parken Sie das Rad auf befestigtem Grund, damit der Ständer nicht im weichen Boden versinkt.",
+                "hu": "Egy gyors megálló ennél az ókori emléknél ideális; parkoljon szilárd talajon, hogy a kerékpár támasztója ne süllyedjen bele a felázott földbe.",
+                "ro": "O oprire rapidă la acest monument antic este ideală; parcați bicicleta pe teren solid pentru ca cricul să nu se afunde în solul moale.",
+                "en": "A quick stop at this ancient monument is ideal; park your bike on firm ground so the kickstand doesn't sink into the soft earth."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Gebiet Settecamini",
+                "hu": "Settecamini Régészeti Terület",
+                "ro": "Zona Arheologică Settecamini",
+                "en": "Settecamini Archaeological Area"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausgrabungen vorsichtig zu Fuß; der Regen bringt die Farben der antiken Steine zum Leuchten, was ein tolles Fotomotiv bietet.",
+                "hu": "Fedezze fel az ásatásokat óvatosan, gyalogosan; az eső kiemeli az ókori kövek színeit, ami kiváló fotótémát nyújt a borús időben is.",
+                "ro": "Explorați săpăturile cu atenție, pe jos; ploaia face culorile pietrelor antice să strălucească, oferind un motiv fotografic excelent.",
+                "en": "Explore the excavations carefully on foot; the rain makes the colors of the ancient stones glow, providing a great photo opportunity."
+              }
+            },
+            {
+              "name": {
+                "de": "Mansio an der 7. Meile",
+                "hu": "Mansio a 7. Mérföldnél",
+                "ro": "Mansio la Mila VII",
+                "en": "Mansio at the 7th Mile"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Überreste der antiken Raststation; tragen Sie Kotflügel am Rad, um sich vor Spritzwasser auf der Via Tiburtina zu schützen.",
+                "hu": "Látogassa meg az ókori pihenőhely maradványait; használjon sárvédőt a biciklin, hogy megvédje magát a Via Tiburtina felcsapódó vizétől.",
+                "ro": "Vizitați resturile vechii stații de popas; folosiți apărători la bicicletă pentru a vă proteja de apa împroșcată pe Via Tiburtina.",
+                "en": "Visit the remains of the ancient rest station; use fenders on your bike to protect yourself from road spray on Via Tiburtina."
+              }
+            },
+            {
+              "name": {
+                "de": "CRM - Zentrum für Musikforschung",
+                "hu": "CRM - Zenei Kutatóközpont",
+                "ro": "CRM - Centrul de Cercetare Muzicală",
+                "en": "CRM - Center for Musical Research"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den trockenen Innenraum und die akustischen Experimente; dies ist der perfekte Ort, um sich vor der Rückfahrt im Regen aufzuwärmen.",
+                "hu": "Élvezze a száraz belső teret és az akusztikai kísérleteket; ez a tökéletes hely a bemelegedésre az esős hazatekerés előtt.",
+                "ro": "Bucurați-vă de interiorul uscat și de experimentele acustice; este locul perfect pentru a vă încălzi înainte de drumul de întoarcere pe ploaie.",
+                "en": "Enjoy the dry interior and acoustic experiments; this is the perfect place to warm up before the ride back in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt am S. Eusebio Turm; Handschuhe sind für die Fahrt zwingend erforderlich. Mittags bietet die Route zu den Villen und Gräbern eine klare Sicht unter der bleichen Sonne. Am Nachmittag führt der Weg zum Musikzentrum, wo man der Kälte entfliehen kann. Da es ab 17:00 Uhr dunkel wird, ist eine helle Fahrradbeleuchtung für den Abend entscheidend.",
+            "hu": "Fagyos téli reggel indul az S. Eusebio toronynál; a kesztyű használata kötelező a tekeréshez. Délben a villákhoz és sírokhoz vezető úton tiszta kilátás nyílik a sápadt napsütésben. Délután az út a zenei központba vezet, ahol menedéket találhat a hideg elől. Mivel 17:00-tól sötétedik, az erős kerékpáros világítás elengedhetetlen az estéhez.",
+            "ro": "O dimineață geroasă de iarnă începe la turnul S. Eusebio; mănușile sunt obligatorii pentru plimbare. La prânz, traseul spre vile și morminte oferă o vedere clară sub soarele palid. După-amiaza, drumul duce la centrul muzical, unde vă puteți adăposti de frig. Deoarece se întunecă de la ora 17:00, iluminarea puternică este crucială pentru seară.",
+            "en": "A frosty winter morning begins at the S. Eusebio Tower; gloves are mandatory for the ride. At noon, the route to villas and tombs offers clear views under the pale sun. In the afternoon, the path leads to the music center where you can escape the cold. Since it gets dark from 17:00, bright bike lights are crucial for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Turm St. Eusebio",
+                "hu": "S. Eusebio Torony",
+                "ro": "Turnul S. Eusebio",
+                "en": "St. Eusebio Tower"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie den Turm in der klaren Winterluft; achten Sie auf glatte Stellen im Schatten der Gebäude am frühen Vormittag.",
+                "hu": "Csodálja meg a tornyot a tiszta téli levegőben; ügyeljen a jeges foltokra az épületek árnyékában a kora délelőtti órákban.",
+                "ro": "Admirați turnul în aerul curat de iarnă; atenție la porțiunile înghețate de la umbra clădirilor dimineața devreme.",
+                "en": "Admire the tower in the clear winter air; watch out for icy patches in the shadows of buildings in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Villa der Via Carciano",
+                "hu": "Via Carciano Római Villája",
+                "ro": "Vila Romană de pe Via Carciano",
+                "en": "Roman Villa of Via Carciano"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Grundmauern, die im Winterlicht gut sichtbar sind; halten Sie den Aufenthalt kurz, um nicht auszukühlen.",
+                "hu": "Fedezze fel az ókori alapfalakat, amelyek a téli fényben jól láthatóak; tartsa röviden a látogatást, hogy ne hűljön ki a teste.",
+                "ro": "Explorați fundațiile antice, clar vizibile în lumina de iarnă; păstrați vizita scurtă pentru a nu vă răci prea tare.",
+                "en": "Explore the ancient foundations, clearly visible in the winter light; keep the visit short to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Grab an der Via Marcellina",
+                "hu": "Sír a Via Marcellinán",
+                "ro": "Mormântul de pe Via Marcellina",
+                "en": "Tomb on Via Marcellina"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Grabmal in der friedlichen Winterlandschaft; tragen Sie eine winddichte Jacke für die Fahrt entlang der freien Felder.",
+                "hu": "Tekintse meg a síremléket a békés téli tájban; viseljen szélálló kabátot a nyílt mezők mentén vezető szakaszokon.",
+                "ro": "Vizitați monumentul în peisajul liniștit de iarnă; purtați o jachetă rezistentă la vânt pentru segmentele de drum de lângă câmp deschis.",
+                "en": "View the tomb in the peaceful winter landscape; wear a windproof jacket for the stretches along the open fields."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Gebiet Settecamini",
+                "hu": "Settecamini Régészeti Terület",
+                "ro": "Zona Arheologică Settecamini",
+                "en": "Settecamini Archaeological Area"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für die römischen Ruinen; die tiefstehende Sonne sorgt für lange Schatten und dramatische Fotoperspektiven.",
+                "hu": "Használja ki az utolsó nappali fényeket a római romoknál; az alacsonyan járó nap hosszú árnyékokat és drámai fotókat eredményez.",
+                "ro": "Profitați de ultima lumină a zilei la ruinele romane; soarele jos creează umbre lungi și perspective fotografice dramatice.",
+                "en": "Use the last daylight for the Roman ruins; the low sun provides long shadows and dramatic photo perspectives."
+              }
+            },
+            {
+              "name": {
+                "de": "Mansio an der 7. Meile",
+                "hu": "Mansio a 7. Mérföldnél",
+                "ro": "Mansio la Mila VII",
+                "en": "Mansio at the 7th Mile"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Besuch der Mansio-Ruinen ist empfehlenswert; achten Sie bei der Weiterfahrt auf den zunehmenden Berufsverkehr in der Dämmerung.",
+                "hu": "A Mansio romjainak gyors megtekintése ajánlott; a továbbhaladásnál ügyeljen a szürkületben erősödő ingázó forgalomra.",
+                "ro": "O vizită rapidă la ruinele Mansio este recomandată; atenție la traficul intens de navetiști care crește odată cu lăsarea serii.",
+                "en": "A quick visit to the Mansio ruins is recommended; watch out for the increasing commuter traffic during twilight as you continue."
+              }
+            },
+            {
+              "name": {
+                "de": "CRM - Zentrum für Musikforschung",
+                "hu": "CRM - Zenei Kutatóközpont",
+                "ro": "CRM - Centrul de Cercetare Muzicală",
+                "en": "CRM - Center for Musical Research"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den modernen Räumen bei innovativer Musik auf; sorgen Sie für reflektierende Kleidung für die Heimfahrt in der Dunkelheit.",
+                "hu": "Melegedjen fel a modern termekben innovatív zenét hallgatva; viseljen fényvisszaverő ruházatot a sötétben való hazatekeréshez.",
+                "ro": "Încălziți-vă în spațiile moderne ascultând muzică inovatoare; asigurați-vă că aveți haine reflectorizante pentru drumul spre casă pe întuneric.",
+                "en": "Warm up in the modern rooms while listening to innovative music; ensure you have reflective clothing for the ride home in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Reggel\nKezdje az autós napot a keleti oldalon található Piscina Manianpama-nál, amely tökéletes egy frissítő kezdéshez. Ezután egy gyors út a CRM-hez vezet az akusztikus művészetek felfedezéséhez.\nDél\nNavigáljon a Via Tiburtina felé, hogy megnézze az ókori római Mansio-t. Autóval könnyen ugrálhat e pontok között. Ebédeljen meg egy út menti trattoriában a főút közelében.\nDélután\nTöltse a kora délutánt a kiterjedt Area archeologica di Settecamini sétájával. Később vezessen be a csendesebb lakóutcákba, hogy megcsodálja a föléjük magasodó Torre di Pratolungo-t.\nEste\nFejezze be a napot a Santa Maria in Monasterio kolostori történelmének felfedezésével, majd tegyen egy utolsó, békés megállót a modern Chiesa di Sant'Enrico-nál. A visszaút innen egyszerű.",
         "ro": "Dimineață\nÎncepeți ziua de condus la Piscina Manianpama în partea de est, perfect pentru un început revigorant. Apoi, o scurtă călătorie vă duce la CRM pentru a aprofunda arta acustică.\nAmiază\nNavigați spre Via Tiburtina pentru a vedea vechea Mansio romană. Având mașină, este ușor să treceți între aceste puncte. Luați prânzul la o trattoria de lângă drumul principal.\nDupă-amiază\nPetreceți începutul după-amiezii plimbându-vă prin vasta zonă arheologică Settecamini. Mai târziu, conduceți pe străzile rezidențiale mai liniștite pentru a admira formidabilul Torre di Pratolungo.\nSeară\nTerminați ziua explorând istoria monahală la Santa Maria in Monasterio, apoi făcând o ultimă oprire pașnică la moderna Chiesa di Sant'Enrico. Drumul de întoarcere este simplu de aici.",
         "en": "Morning\nKick off your driving day at Piscina Manianpama on the eastern side, perfect for a refreshing start. Afterwards, a quick drive takes you to the CRM to delve into cutting-edge acoustic art.\nMidday\nNavigate towards the Via Tiburtina to see the ancient Roman Mansio. Having a car makes it simple to hop between these spread-out points. Grab lunch at a roadside trattoria near the main road.\nAfternoon\nSpend the early afternoon walking through the extensive Area archeologica di Settecamini. Later, drive into the quieter residential streets to admire the formidable Torre di Pratolungo towering above.\nEvening\nFinish the day by exploring the monastic history at Santa Maria in Monasterio, then taking a final, peaceful stop at the modern Chiesa di Sant'Enrico. The drive back is easy and direct from here."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Vormittag beginnt entspannt im Manianpama Pool, perfekt für schlechtes Wetter. Mittags bietet die Fahrt zum Musikzentrum eine komfortable und trockene Fortbewegung. Am Nachmittag können die archäologischen Stätten und Türme bequem vom Wagen aus oder bei kurzen Stopps erkundet werden. Der Tag endet sicher im Auto, während der Regen auf das Dach prasselt.",
+            "hu": "Esős délelőtt indul lazítással a Manianpama medencénél, ami tökéletes rossz idő esetén. Délben az autóút a zenei központhoz kényelmes és száraz közlekedést biztosít. Délután a régészeti helyszínek és tornyok könnyen felfedezhetők rövidebb megállókkal. A nap biztonságban zárul az autóban, miközben az eső kopog a tetőn.",
+            "ro": "O dimineață ploioasă începe relaxat la piscina Manianpama, perfectă pentru vreme rea. La prânz, drumul cu mașina spre centrul muzical oferă o deplasare confortabilă și uscată. După-amiaza, siturile arheologice și turnurile pot fi explorate ușor prin opriri scurte. Ziua se încheie în siguranță în mașină, în timp ce ploaia bate în plafon.",
+            "en": "A rainy morning starts relaxingly at the Manianpama Pool, perfect for bad weather. At noon, the car ride to the music center provides comfortable and dry transportation. In the afternoon, archaeological sites and towers can be easily explored with short stops. The day ends safely in the car as the rain patters on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manianpama Pool",
+                "hu": "Manianpama Medence",
+                "ro": "Piscina Manianpama",
+                "en": "Manianpama Pool"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Wasser im geschützten Bereich, während es draußen regnet; Parkplätze befinden sich direkt vor dem Eingang für kurzen Weg.",
+                "hu": "Élvezze a vizet a fedett részen, miközben kint esik; a parkolók közvetlenül a bejárat előtt találhatók a rövid séta érdekében.",
+                "ro": "Bucurați-vă de apă în zona acoperită în timp ce afară plouă; parcările sunt chiar în fața intrării pentru un drum scurt.",
+                "en": "Enjoy the water in the sheltered area while it rains outside; parking is located directly in front of the entrance for a short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "CRM - Zentrum für Musikforschung",
+                "hu": "CRM - Zenei Kutatóközpont",
+                "ro": "CRM - Centrul de Cercetare Muzicală",
+                "en": "CRM - Center for Musical Research"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Welt der Klänge ein, ohne nass zu werden; nutzen Sie den Wagen, um direkt zum nächsten überdachten Ziel zu gelangen.",
+                "hu": "Merüljön el a hangok világában anélkül, hogy megázna; használja az autót, hogy közvetlenül a következő fedett célponthoz jusson.",
+                "ro": "Cufundați-vă în lumea sunetelor fără a vă uda; folosiți mașina pentru a ajunge direct la următoarea destinație acoperită.",
+                "en": "Immerse yourself in the world of sounds without getting wet; use the car to reach the next sheltered destination directly."
+              }
+            },
+            {
+              "name": {
+                "de": "Mansio an der 7. Meile",
+                "hu": "Mansio a 7. Mérföldnél",
+                "ro": "Mansio la Mila VII",
+                "en": "Mansio at the 7th Mile"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen aus dem trockenen Fahrzeuginneren; fahren Sie vorsichtig, da die Sicht auf der Via Tiburtina bei Starkregen eingeschränkt ist.",
+                "hu": "Tekintse meg a romokat az autó száraz belsejéből; vezessen óvatosan, mert a látási viszonyok a Via Tiburtinán korlátozottak erős esőben.",
+                "ro": "Observați ruinele din interiorul uscat al vehiculului; conduceți cu prudență, vizibilitatea pe Via Tiburtina fiind redusă pe ploaie torențială.",
+                "en": "View the ruins from the dry interior of the car; drive carefully as visibility on Via Tiburtina is limited during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Gebiet Settecamini",
+                "hu": "Settecamini Régészeti Terület",
+                "ro": "Zona Arheologică Settecamini",
+                "en": "Settecamini Archaeological Area"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Ausstieg lohnt sich für Fotos der nassen antiken Steine; halten Sie einen Regenschirm bereit für den Weg vom Parkplatz zu den Ruinen.",
+                "hu": "Egy rövid kiszállás megéri a vizes ókori kövek fotózásáért; tartson kéznél esernyőt a parkolótól a romokig vezető útra.",
+                "ro": "O scurtă oprire merită pentru poze cu pietrele antice umede; aveți umbrela la îndemână pentru drumul de la parcare la ruine.",
+                "en": "A short exit is worth it for photos of the wet ancient stones; have an umbrella ready for the walk from the parking lot to the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Pratolungo",
+                "hu": "Pratolungo Torony",
+                "ro": "Turnul Pratolungo",
+                "en": "Pratolungo Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das mittelalterliche Wahrzeichen bequem vom Beifahrersitz; achten Sie beim Parken auf tiefe Pfützen am Straßenrand.",
+                "hu": "Csodálja meg a középkori jelképet kényelmesen az anyósülésről; parkoláskor ügyeljen a mély tócsákra az út szélén.",
+                "ro": "Admirați simbolul medieval confortabil de pe scaunul pasagerului; atenție la bălțile adânci de la marginea drumului când parcați.",
+                "en": "Admire the medieval landmark comfortably from the passenger seat; watch out for deep puddles at the roadside when parking."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria in Monasterio",
+                "hu": "Santa Maria in Monasterio Templom",
+                "ro": "Biserica Santa Maria in Monasterio",
+                "en": "Church of Santa Maria in Monasterio"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die historische Kirche als letzten trockenen Stopp; die Scheibenheizung hilft gegen das Beschlagen bei feuchter Außenluft.",
+                "hu": "Látogassa meg a történelmi templomot utolsó száraz megállóként; a szélvédőfűtés segít a párásodás ellen a kinti nedves levegőben.",
+                "ro": "Vizitați biserica istorică ca ultimă oprire uscată; dezaburirea parbrizului ajută împotriva condensului cauzat de aerul umed de afară.",
+                "en": "Visit the historical church as the last dry stop; the windshield defroster helps against fogging in the humid outside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sant'Enrico",
+                "hu": "Sant'Enrico Templom",
+                "ro": "Biserica Sant'Enrico",
+                "en": "Church of Sant'Enrico"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag in der modernen Kirche ausklingen; parken Sie so nah wie möglich, um den Regen auf dem letzten Wegstück zu vermeiden.",
+                "hu": "Zárja a napot a modern templomban; parkoljon a lehető legközelebb, hogy elkerülje az esőt az utolsó rövid szakaszon.",
+                "ro": "Încheiați ziua la biserica modernă; parcați cât mai aproape pentru a evita ploaia pe ultima porțiune de drum.",
+                "en": "End the day at the modern church; park as close as possible to avoid the rain on the last stretch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen beginnt angenehm temperiert im Manianpama Pool. Mittags sorgt die Sitzheizung auf dem Weg zum Musikzentrum für wohlige Wärme. Am Nachmittag können die historischen Ruinen und Türme bei klarem Licht ohne Kältestress besucht werden. Da es um 17:00 Uhr dunkel wird, bietet das Auto eine sichere Rückfahrt bei früh einsetzender Nacht.",
+            "hu": "Fagyos téli reggel indul kellemes hőmérsékletben a Manianpama medencénél. Délben az ülésfűtés gondoskodik a melegről a zenei központ felé vezető úton. Délután a történelmi romok és tornyok tiszta fényben, fagyoskodás nélkül tekinthetők meg. Mivel 17:00-kor sötétedik, az autó biztonságos utat nyújt a korán leszálló éjszakában.",
+            "ro": "O dimineață geroasă de iarnă începe la o temperatură plăcută la piscina Manianpama. La prânz, încălzirea din scaune asigură confortul spre centrul muzical. După-amiaza, ruinele istorice și turnurile pot fi vizitate în lumină clară fără stresul frigului. Deoarece se întunecă la ora 17:00, mașina oferă un drum sigur în noaptea care cade devreme.",
+            "en": "A frosty winter morning begins at a pleasant temperature at the Manianpama Pool. At noon, seat heating ensures coziness on the way to the music center. In the afternoon, historical ruins and towers can be visited in clear light without the stress of cold. Since it gets dark at 17:00, the car provides a safe journey in the early falling night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manianpama Pool",
+                "hu": "Manianpama Medence",
+                "ro": "Piscina Manianpama",
+                "en": "Manianpama Pool"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie im warmen Wasser, bevor Sie in die Winterkälte starten; achten Sie auf eine gute Trocknung der Haare vor dem Verlassen des Gebäudes.",
+                "hu": "Lazítson a meleg vízben, mielőtt kilépne a téli hidegbe; ügyeljen a haj alapos megszárítására az épület elhagyása előtt.",
+                "ro": "Relaxați-vă în apa caldă înainte de a ieși în frigul iernii; asigurați-vă că vă uscați bine părul înainte de a părăsi clădirea.",
+                "en": "Relax in the warm water before heading out into the winter cold; make sure to dry your hair thoroughly before leaving the building."
+              }
+            },
+            {
+              "name": {
+                "de": "CRM - Zentrum für Musikforschung",
+                "hu": "CRM - Zenei Kutatóközpont",
+                "ro": "CRM - Centrul de Cercetare Muzicală",
+                "en": "CRM - Center for Musical Research"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kulturellen Experimente in beheizten Räumen; die Parkplatzsuche ist im Winter einfacher, da weniger Touristen unterwegs sind.",
+                "hu": "Élvezze a kulturális kísérleteket a fűtött termekben; a parkolóhely-keresés télen egyszerűbb, mivel kevesebb turista jár erre.",
+                "ro": "Bucurați-vă de experimentele culturale în săli încălzite; găsirea unui loc de parcare este mai ușoară iarna, fiind mai puțini turiști.",
+                "en": "Enjoy the cultural experiments in heated rooms; finding a parking spot is easier in winter as there are fewer tourists around."
+              }
+            },
+            {
+              "name": {
+                "de": "Mansio an der 7. Meile",
+                "hu": "Mansio a 7. Mérföldnél",
+                "ro": "Mansio la Mila VII",
+                "en": "Mansio at the 7th Mile"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp an der Via Tiburtina zeigt die antiken Steine im klaren Winterlicht; halten Sie den Motor für eine warme Weiterfahrt bereit.",
+                "hu": "Egy rövid megálló a Via Tiburtinán megmutatja az ókori köveket a tiszta téli fényben; tartsa készenlétben az autót a meleg továbbhaladáshoz.",
+                "ro": "O scurtă oprire pe Via Tiburtina arată pietrele antice în lumina clară de iarnă; mențineți mașina pregătită pentru un drum călduros în continuare.",
+                "en": "A short stop on Via Tiburtina shows the ancient stones in the clear winter light; keep the car ready for a warm journey onwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Gebiet Settecamini",
+                "hu": "Settecamini Régészeti Terület",
+                "ro": "Zona Arheologică Settecamini",
+                "en": "Settecamini Archaeological Area"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für einen Spaziergang zwischen den Ruinen; der Wagen bietet danach sofortige Erwärmung für die kalten Hände.",
+                "hu": "Használja ki az utolsó nappali fényeket egy sétához a romok között; az autó azonnali felmelegedést nyújt majd a kihűlt kezeknek.",
+                "ro": "Profitați de ultima lumină a zilei pentru o plimbare printre ruine; mașina va oferi încălzire imediată pentru mâinile înghețate.",
+                "en": "Use the last daylight for a stroll among the ruins; the car provides immediate warming for cold hands afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Pratolungo",
+                "hu": "Pratolungo Torony",
+                "ro": "Turnul Pratolungo",
+                "en": "Pratolungo Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den massiven Turm in der winterlichen Dämmerung; schalten Sie das Abblendlicht ein, wenn Sie sich in den engen Gassen bewegen.",
+                "hu": "Tekintse meg a masszív tornyot a téli szürkületben; kapcsolja be a tompított fényszórót, amikor a szűk utcákban manőverezik.",
+                "ro": "Observați turnul masiv în amurgul de iarnă; aprindeți faza scurtă când manevrați pe străzile înguste.",
+                "en": "View the massive tower in the winter twilight; turn on your low beams when maneuvering through the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Santa Maria in Monasterio",
+                "hu": "Santa Maria in Monasterio Templom",
+                "ro": "Biserica Santa Maria in Monasterio",
+                "en": "Church of Santa Maria in Monasterio"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie diesen historischen Ort, bevor die Nacht einbricht; achten Sie auf mögliche Glätte auf den Parkplätzen bei sinkenden Temperaturen.",
+                "hu": "Látogassa meg ezt a történelmi helyszínt, mielőtt teljesen besötétedik; ügyeljen az esetleges jegesedésre a parkolókban a süllyedő hőmérséklet mellett.",
+                "ro": "Vizitați acest loc istoric înainte de căderea nopții; atenție la posibila polei în parcări pe măsură ce temperatura scade.",
+                "en": "Visit this historical site before night fully sets in; watch out for possible ice in the parking lots as temperatures drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sant'Enrico",
+                "hu": "Sant'Enrico Templom",
+                "ro": "Biserica Sant'Enrico",
+                "en": "Church of Sant'Enrico"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Kirche bildet den stimmungsvollen Abschluss des Wintertages; genießen Sie die Ruhe des Abends im beleuchteten Settecamini.",
+                "hu": "A modern templom hangulatos lezárása a téli napnak; élvezze az este nyugalmát a kivilágított Settecamini negyedben.",
+                "ro": "Biserica modernă reprezintă finalul atmosferic al zilei de iarnă; bucurați-vă de liniștea serii în Settecamini iluminat.",
+                "en": "The modern church forms the atmospheric conclusion to the winter day; enjoy the evening stillness in the illuminated Settecamini."
+              }
+            }
+          ]
+        }
       }
     }
   }

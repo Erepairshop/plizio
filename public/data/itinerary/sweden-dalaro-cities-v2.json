@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a történelmi Dalarö Tullhusban, hogy felfedezze a város nyüzsgő tengerészeti múltját. Egy rövid séta elvezeti az Anders Franzénmuseet-hez, ahol a híres Vasa hajó felfedezőjének lenyűgöző története elevenedik meg.\n\nA nap melegedésével túrázzon fel a Lotsberget kanyargós ösvényein a szigetvilágra nyíló páratlan kilátásért. Folytassa a festői sétát az Amerika Berget felé, élvezve a friss tengeri szellőt és a nyugodt légkört.\n\nTérjen vissza Dalarö bájos szívébe. Sétáljon a szűk utcákat szegélyező, gyönyörűen megőrzött történelmi faházak és nyüzsgő helyi üzletek között, tökéletes bepillantást nyerve a hagyományos svéd szigeti kultúrába.\n\nFejezze be a napot a Schweizerbadet strandon pihenve. Ez a homokos part csendes, sekély fürdőzőhelyet kínál, így ideális a lazításhoz, miközben nézi a Balti-tenger felett lemenő napot.",
         "ro": "Începeți dimineața la Dalarö Tullhus istoric pentru a descoperi trecutul maritim vibrant. O scurtă plimbare vă duce la Anders Franzénmuseet, unde povestea fascinantă a celebrului descoperitor al navei Vasa este adusă la viață.\n\nPe măsură ce se încălzește, urcați pe potecile șerpuitoare spre Lotsberget pentru priveliști de neegalat. Continuați plimbarea pitorească în natură spre Amerika Berget, bucurându-vă de briza proaspătă și de atmosfera liniștită.\n\nÎntoarceți-vă în inima fermecătoare a orașului Dalarö. Plimbați-vă printre casele istorice din lemn frumos conservate și magazinele locale vibrante de pe străzile înguste, oferind o privire perfectă asupra culturii tradiționale suedeze.\n\nÎncheiați-vă excursia relaxându-vă la Schweizerbadet. Această plajă cu nisip oferă o zonă calmă de înot, fiind locul ideal pentru a vă relaxa și a privi apusul soarelui peste apele strălucitoare ale Mării Baltice.",
         "en": "Start your morning at the historic Dalarö Tullhus to uncover the town's vibrant maritime past. A short stroll leads you to the Anders Franzénmuseet, where the fascinating tale of the famous Vasa ship discoverer is brought to life.\n\nAs the day warms up, hike up the winding trails to Lotsberget for unparalleled views of the sprawling archipelago. Continue the scenic nature walk towards Amerika Berget, enjoying the crisp sea breeze and the tranquil coastal atmosphere.\n\nHead back into the charming heart of Dalarö. Wander among beautifully preserved historic wooden houses and vibrant local shops that line the narrow streets, offering a perfect glimpse into traditional Swedish island culture.\n\nConclude your day trip by relaxing at Schweizerbadet. This popular sandy beach provides a calm, shallow swimming area, making it the ideal spot to unwind and watch the sunset paint the sky over the Baltic waters."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im historischen Tullhus, wo das prasselnde Regenwetter die maritime Atmosphäre verstärkt. Mittags bietet das Anders Franzénmuseet einen trockenen Zufluchtsort mit faszinierenden Wrackgeschichten. Am Nachmittag führen die Wege zu den Aussichtspunkten Lotsberget und Amerika Berget; der Nebel über den Schären wirkt mystisch, aber die Felsen sind rutschig. Der Abend klingt gemütlich im Dorfzentrum aus, während sich die Lichter in den Pfützen spiegeln.",
+            "hu": "A reggel a történelmi Tullhus falai között indul, ahol az eső kopogása csak mélyíti a tengerparti hangulatot. Délben az Anders Franzénmuseet nyújt száraz menedéket a hajóroncsok titkai között. Délután a Lotsberget és Amerika Berget kilátói felé vesszük az irányt; a ködös szigetvilág látványa misztikus, de a sziklákon óvatosan lépkedjünk. Az este a falu fényeiben ér véget, ahogy a lámpák tükröződnek a vizes aszfalton.",
+            "ro": "Dimineața începe la istoricul Tullhus, unde sunetul ploii accentuează atmosfera maritimă autentică. La prânz, Muzeul Anders Franzén oferă un refugiu uscat printre poveștile epavelor fascinante. După-amiaza, drumul duce spre punctele de belvedere Lotsberget și Amerika Berget; cețurile peste arhipelag sunt mistice, dar stâncile devin alunecoase. Seara se încheie liniștit în sat, cu luminile reflectându-se în bălțile de pe străzile vechi.",
+            "en": "The morning starts inside the historic Tullhus, where the rhythm of the rain enhances the maritime mood. At noon, the Anders Franzénmuseet provides a dry sanctuary filled with shipwreck mysteries. In the afternoon, we head to the Lotsberget and Amerika Berget viewpoints; the misty archipelago looks mystical, though the rocks require careful footing. The evening winds down in the village center, with streetlights reflecting beautifully on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dalarö Tullhus",
+                "hu": "Dalarö Tullhus",
+                "ro": "Dalarö Tullhus",
+                "en": "Dalarö Tullhus"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Zollhauses von innen und genießen Sie den Blick auf die regnerische Bucht; nutzen Sie den überdachten Eingangsbereich zum Unterstellen.",
+                "hu": "Csodálja meg a vámház építészetét belülről, miközben az esős öblöt figyeli; használja a fedett bejárati részt az esernyők összecsukásához.",
+                "ro": "Admirați arhitectura vămii din interior în timp ce priviți golful sub ploaie; folosiți zona de intrare acoperită pentru a vă adăposti temporar.",
+                "en": "Admire the customs house architecture from the inside while watching the rainy bay; use the covered entrance area to dry off your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Anders Franzénmuseet",
+                "hu": "Anders Franzénmuseet",
+                "ro": "Anders Franzénmuseet",
+                "en": "Anders Franzénmuseet"
+              },
+              "tip_5lang": {
+                "de": "Dieses kleine Museum ist der perfekte Ort, um einem Regenschauer zu entkommen und mehr über die Vasa zu erfahren; ideal für eine längere, trockene Pause.",
+                "hu": "Ez a kis múzeum tökéletes hely az eső elől való menekülésre és a Vasa-hajó megismerésére; ideális egy hosszabb, száraz pihenőre.",
+                "ro": "Acest mic muzeu este locul perfect pentru a scăpa de ploaie și a învăța despre nava Vasa; ideal pentru o pauză prelungită și uscată.",
+                "en": "This small museum is the perfect place to escape a downpour and learn about the Vasa ship; ideal for a long, dry break during the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Lotsberget",
+                "hu": "Lotsberget",
+                "ro": "Lotsberget",
+                "en": "Lotsberget"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet bei Regen eine dramatische Sicht auf die graue Ostsee; tragen Sie unbedingt rutschfeste Wanderschuhe für den Aufstieg auf den Hügel.",
+                "hu": "A kilátó esőben drámai látványt nyújt a szürke Keleti-tengerre; mindenképpen viseljen csúszásmentes túrabakancsot a dombra való feljutáshoz.",
+                "ro": "Punctul de belvedere oferă o vedere dramatică asupra Mării Baltice gri sub ploaie; purtați neapărat ghete de munte aderente pentru urcare.",
+                "en": "The viewpoint offers a dramatic sight of the grey Baltic Sea in the rain; be sure to wear non-slip hiking boots for the climb up the hill."
+              }
+            },
+            {
+              "name": {
+                "de": "Amerika Berget",
+                "hu": "Amerika Berget",
+                "ro": "Amerika Berget",
+                "en": "Amerika Berget"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den dichten Kiefern am Hang, während Sie den nebligen Hafen betrachten; Vorsicht vor Pfützen auf den unbefestigten Waldwegen.",
+                "hu": "Keressen menedéket a lejtő sűrű fenyői alatt, miközben a ködös kikötőt figyeli; vigyázzon a tócsákra a kiépítetlen erdei ösvényeken.",
+                "ro": "Căutați adăpost sub pinii de pe versant în timp ce priviți portul cețos; atenție la bălțile de pe potecile de pământ neamenajate.",
+                "en": "Seek shelter under the dense pines on the slope while watching the misty harbor; watch out for puddles on the unpaved forest paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalarö",
+                "hu": "Dalarö",
+                "ro": "Dalarö",
+                "en": "Dalarö"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die malerischen Gassen, die im Regen glänzen, und finden Sie ein gemütliches Café zum Aufwärmen; Regenponchos sind hier praktischer als Schirme.",
+                "hu": "Sétáljon az esőben csillogó festői utcákon, és keressen egy barátságos kávézót a felmelegedéshez; az esőponcsó itt praktikusabb, mint az esernyő.",
+                "ro": "Plimbați-vă pe străzile pitorești care strălucesc în ploaie și găsiți o cafenea primitoare pentru a vă încălzi; pelerina de ploaie este mai practică.",
+                "en": "Walk through the picturesque streets shining in the rain and find a cozy café to warm up; a rain poncho is more practical here than an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Schweizerbadet",
+                "hu": "Schweizerbadet",
+                "ro": "Schweizerbadet",
+                "en": "Schweizerbadet"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen melancholisch und weitläufig; nutzen Sie die Umkleidekabinen als kurzen Unterstand vor dem Wind und genießen Sie die Ruhe.",
+                "hu": "A strand esőben melankolikus és tágas; használja az öltözőkabinokat rövid menedékként a szél elől, és élvezze a tengerparti magányt.",
+                "ro": "Plaja pare melancolică și vastă în ploaie; folosiți cabinele de schimb ca adăpost scurt împotriva vântului și bucurați-vă de liniște.",
+                "en": "The beach feels melancholic and vast in the rain; use the changing cabins as a short shelter from the wind and enjoy the seaside solitude."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Hafen von Dalarö beginnt mit glitzerndem Raureif auf den Holzhäusern. Mittags wärmen wir uns im Anders Franzénmuseet auf, während die tiefstehende Wintersonne den Schnee beleuchtet. Am frühen Nachmittag, gegen 15:00 Uhr, beginnt bereits die Dämmerung und taucht die Schären in magisches blaues Licht. Der Abend kommt früh, und die Stille am Schweizerbadet wird nur vom Knistern des Eises am Ufer unterbrochen.",
+            "hu": "A dalaröi kikötőben a fagyos reggel zúzmarás faházakkal fogad minket. Délben az Anders Franzénmuseet fűtött falai között melegedhetünk fel, miközben a téli nap alacsonyan jár. Kora délután, délután három körül már sötétedni kezd, varázslatos kék fénybe vonva a havas szigetvilágot. Az este hamar leszáll, a Schweizerbadet jeges partján pedig csak a jég rianása töri meg a csendet.",
+            "ro": "O dimineață geroasă în portul Dalarö începe cu promoroacă sclipitoare pe casele din lemn. La prânz, ne încălzim în Muzeul Anders Franzén, în timp ce soarele de iarnă luminează slab zăpada. După-amiaza devreme, în jurul orei 15:00, amurgul se instalează deja, îmbrăcând arhipelagul într-o lumină albastră magică. Seara vine repede, iar liniștea de la Schweizerbadet este întreruptă doar de gheața de la mal.",
+            "en": "A frosty morning in Dalarö harbor begins with sparkling hoarfrost on the wooden houses. At noon, we warm up inside the Anders Franzénmuseet while the low winter sun lights up the snow. In the early afternoon, around 3 PM, twilight already begins, bathing the archipelago in magical blue light. The evening arrives early, and the silence at Schweizerbadet is only broken by the cracking ice at the shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dalarö Tullhus",
+                "hu": "Dalarö Tullhus",
+                "ro": "Dalarö Tullhus",
+                "en": "Dalarö Tullhus"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das schneebedeckte Gebäude und wärmen Sie sich im Inneren an der Geschichte des Ortes auf; tragen Sie Thermokleidung gegen die kalte Seebrise.",
+                "hu": "Csodálja meg a hóval borított épületet, és melegedjen fel odabent a hely történelmével; viseljen termoruházatot a hideg tengeri szél ellen.",
+                "ro": "Admirați clădirea acoperită de zăpadă și încălziți-vă în interior cu istoria locului; purtați haine termice împotriva brizei reci a mării.",
+                "en": "Admire the snow-covered building and warm up inside with the local history; wear thermal layers against the biting sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Anders Franzénmuseet",
+                "hu": "Anders Franzénmuseet",
+                "ro": "Anders Franzénmuseet",
+                "en": "Anders Franzénmuseet"
+              },
+              "tip_5lang": {
+                "de": "Dieses beheizte Museum ist der ideale Ort für die Mittagszeit, um der Kälte zu entfliehen; genießen Sie die warme Atmosphäre inmitten der Exponate.",
+                "hu": "Ez a fűtött múzeum az ideális helyszín délidőben a hideg elöli menekülésre; élvezze a meleg hangulatot a kiállítási tárgyak között.",
+                "ro": "Acest muzeu încălzit este locul ideal la prânz pentru a scăpa de frig; bucurați-vă de atmosfera caldă printre obiectele expuse.",
+                "en": "This heated museum is the ideal spot at noon to escape the freezing temperatures; enjoy the warm atmosphere among the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Lotsberget",
+                "hu": "Lotsberget",
+                "ro": "Lotsberget",
+                "en": "Lotsberget"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Panoramablick über das zugefrorene Meer, aber seien Sie vorsichtig auf vereisten Pfaden; Spikes für die Schuhe sind hier sehr empfehlenswert.",
+                "hu": "Élje át a panorámát a befagyott tenger felett, de legyen nagyon óvatos a jeges ösvényeken; a cipőre húzható csúszásgátló erősen ajánlott.",
+                "ro": "Experimentați panorama asupra mării înghețate, dar fiți foarte atenți pe potecile cu gheață; crampoanele pentru încălțăminte sunt recomandate.",
+                "en": "Experience the panorama over the frozen sea, but be very careful on the icy paths; ice spikes for your shoes are highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Amerika Berget",
+                "hu": "Amerika Berget",
+                "ro": "Amerika Berget",
+                "en": "Amerika Berget"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und den Blick auf den Hafen, bevor es dunkel wird; die tiefstehende Sonne bietet fantastische Fotomotive im Schnee.",
+                "hu": "Élvezze a friss téli levegőt és a kikötőre nyíló kilátást, mielőtt besötétedik; az alacsonyan járó nap fantasztikus fotótémákat kínál a hóban.",
+                "ro": "Bucurați-vă de aerul proaspăt de iarnă și de vederea spre port înainte de lăsarea întunericului; soarele jos oferă motive foto fantastice pe zăpadă.",
+                "en": "Enjoy the crisp winter air and the harbor view before it gets dark; the low-hanging sun provides fantastic photo opportunities on the snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalarö",
+                "hu": "Dalarö",
+                "ro": "Dalarö",
+                "en": "Dalarö"
+              },
+              "tip_5lang": {
+                "de": "Das Dorf wirkt im Winterschlaf wie aus einem Märchen, aber die Wege können glatt sein; achten Sie auf die frühe Dunkelheit ab etwa 16:00 Uhr.",
+                "hu": "A falu téli álmot aludva olyan, mint egy tündérmese, de az utak csúszósak lehetnek; készüljön fel a korai, délután 4 órai sötétedésre.",
+                "ro": "Satul în somnul de iarnă pare desprins dintr-un basm, dar drumurile pot fi alunecoase; atenție la întunericul care vine devreme, pe la ora 16:00.",
+                "en": "The village in winter hibernation looks like a fairy tale, but paths can be slippery; be prepared for the early darkness starting around 4 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Schweizerbadet",
+                "hu": "Schweizerbadet",
+                "ro": "Schweizerbadet",
+                "en": "Schweizerbadet"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am vereisten Ufer bietet absolute Ruhe und frische Luft; nehmen Sie eine Thermoskanne mit einem Heißgetränk für die Pause mit.",
+                "hu": "Egy séta a jeges parton abszolút nyugalmat és friss levegőt kínál; vigyen magával egy termoszt forró itallal a tengerparti pihenőhöz.",
+                "ro": "O plimbare pe malul înghețat oferă liniște absolută și aer proaspăt; luați un termos cu o băutură caldă pentru pauza de pe plajă.",
+                "en": "A walk along the icy shore offers absolute tranquility and fresh air; bring a thermos with a hot drink for your break by the sea."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Tekerjen a Dalarö Tullhus felé, hogy elmerüljön e szigeti kikötő gazdag vámtörténetében. Egy gyors út az Anders Franzénmuseet-hez vezet, ahol a neves svéd régész lenyűgöző víz alatti felfedezéseit tanulmányozhatja.\n\nBiciklizzen dél felé Jutholmen felé, hogy megcsodálja a hagyományos vörös házikókat és a tengeri tájat. Haladjon tovább, hogy a partról tekintse meg a fenséges Dalarö Skans erődöt, amely a 17. századi partvédelem szimbóluma.\n\nForduljon észak felé, és tekerjen fel a Lotsbergethez a mérföldekre nyúló panorámás kilátásért. A festői kerékpárutak buja növényzet és sziklás parti kiemelkedések között kanyarognak, igazi balti szabadságérzetet nyújtva.\n\nFejezze be a kerékpáros túrát a népszerű Schweizerbadetben. Zárja le a biciklit, és süllyessze lábujjait a puha homokba, élvezve a frissítő fürdőzést a sekély vízben, mielőtt megnézné a békés naplementét.",
         "ro": "Pedați spre Dalarö Tullhus pentru a pătrunde în bogata istorie vamală a acestui port din arhipelag. O plimbare scurtă vă aduce la Anders Franzénmuseet, explorând fascinantele descoperiri subacvatice ale renumitului arheolog suedez.\n\nMergeți cu bicicleta spre sud către Jutholmen pentru a admira căsuțele roșii tradiționale și peisajul maritim. Continuați pentru a privi maiestuoasa fortăreață Dalarö Skans de pe țărm, un adevărat simbol al apărării de coastă.\n\nÎntoarceți bicicleta spre nord și urcați spre Lotsberget pentru priveliști panoramice ce se întind pe mile. Pistele de ciclism de aici șerpuiesc prin verdeață luxuriantă și stânci de coastă, oferind un adevărat sentiment de libertate.\n\nTerminați-vă călătoria pe bicicletă la popularul Schweizerbadet. Legați-vă bicicleta și scufundați-vă degetele în nisipul fin, bucurându-vă de o baie revigorantă în apele puțin adânci înainte de a privi apusul senin.",
         "en": "Pedal towards the Dalarö Tullhus to dive into the rich customs history of this archipelago port. A quick ride brings you to the Anders Franzénmuseet, exploring the fascinating underwater discoveries of the renowned Swedish archeologist.\n\nCycle south towards Jutholmen to catch stunning sights of the traditional red cottages and maritime scenery. Push further to gaze at the majestic Dalarö Skans fortress from the shoreline, a true symbol of 17th-century coastal defense.\n\nTurn your bike north and ascend to Lotsberget for panoramic archipelago views that stretch for miles. The scenic cycling paths here weave through lush greenery and rocky coastal outcrops, offering a true sense of Baltic freedom.\n\nFinish your cycling journey at the popular Schweizerbadet. Lock up your bike and sink your toes into the soft sand, enjoying a refreshing dip in the shallow waters before watching the serene sunset paint the evening sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet regnerisch am Tullhus, wo die nassen Straßen Vorsicht verlangen. Mittags machen wir eine längere Pause im Anders Franzénmuseet, um das Schlimmste abzuwarten. Nachmittags geht es weiter zur Festung Dalarö Skans, wobei der Wind von der See den Regen peitscht. Am Abend kehren wir über Lotsberget zurück, wobei die Pfützen auf den Wegen den Fahrspaß für Abenteuerlustige erhöhen.",
+            "hu": "A kerékpártúra esőben indul a Tullhusnál, ahol a vizes aszfalt fokozott figyelmet igényel. Délben hosszabb pihenőt tartunk a múzeumban, amíg a zápor elvonul. Délután a Dalarö Skans felé tekerünk, miközben a tengeri szél korbácsolja az esőt. Este a Lotsberget érintésével érünk vissza, ahol az utak tócsái kalandos befejezést ígérnek a kitartó bringásoknak.",
+            "ro": "Turul cu bicicleta începe ploios la Tullhus, unde asfaltul ud necesită o atenție sporită. La prânz facem o pauză lungă la muzeu până trece aversa. După-amiaza pedalăm spre fortăreața Dalarö Skans, în timp ce vântul dinspre mare biciuiește ploaia. Seara ne întoarcem prin Lotsberget, unde bălțile de pe drumuri promit un final aventuros pentru bicicliștii perseverenți.",
+            "en": "The bike tour starts rainy at Tullhus, where wet pavement requires extra caution. At noon, we take a long break at the museum until the shower passes. In the afternoon, we cycle towards Dalarö Skans as the sea wind whips the rain against us. We return in the evening via Lotsberget, where puddles on the paths promise an adventurous finish for persistent riders."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dalarö Tullhus",
+                "hu": "Dalarö Tullhus",
+                "ro": "Dalarö Tullhus",
+                "en": "Dalarö Tullhus"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie das Gebäude als Windschutz; prüfen Sie Ihre Bremsen, da die Abfahrten im Dorf bei Nässe rutschig sind.",
+                "hu": "Parkolja le biztonságosan a biciklit, és használja az épületet szélfogóként; ellenőrizze a fékeket, mert a lejtők esőben csúszósak.",
+                "ro": "Parcați bicicleta în siguranță și folosiți clădirea ca paravan contra vântului; verificați frânele, deoarece pantele sunt alunecoase pe ploaie.",
+                "en": "Park your bike securely and use the building as a windbreak; check your brakes, as the village slopes are slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Anders Franzénmuseet",
+                "hu": "Anders Franzénmuseet",
+                "ro": "Anders Franzénmuseet",
+                "en": "Anders Franzénmuseet"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Regenkleidung zu ordnen und sich aufzuwärmen; es gibt Fahrradständer in unmittelbarer Nähe des Eingangs.",
+                "hu": "Ideális megálló az esőruházat rendezésére és a felmelegedésre; a bejárat közvetlen közelében találhatók kerékpártárolók.",
+                "ro": "O oprire ideală pentru a vă aranja echipamentul de ploaie și a vă încălzi; există suporturi de biciclete chiar lângă intrare.",
+                "en": "An ideal stop to adjust your rain gear and warm up; there are bike racks located right next to the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Jutholmen",
+                "hu": "Jutholmen",
+                "ro": "Jutholmen",
+                "en": "Jutholmen"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die Holzstege und Brücken, die bei Regen extrem glatt werden können; fahren Sie hier besonders langsam und vorsichtig.",
+                "hu": "Ügyeljen a fapallókra és hidakra, amelyek esőben rendkívül csúszóssá válhatnak; itt különösen lassan és óvatosan haladjon.",
+                "ro": "Atenție la podețele de lemn și podurile care pot deveni extrem de alunecoase pe ploaie; pedalați aici cu o viteză foarte redusă.",
+                "en": "Watch out for wooden walkways and bridges, which can become extremely slippery in the rain; cycle here very slowly and carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalarö Skans",
+                "hu": "Dalarö Skans",
+                "ro": "Dalarö Skans",
+                "en": "Dalarö Skans"
+              },
+              "tip_5lang": {
+                "de": "Die Festung ist dem Wind stark ausgesetzt; tragen Sie eine winddichte Regenjacke, um auf dem exponierten Gelände nicht auszukühlen.",
+                "hu": "Az erőd erősen kitett a szélnek; viseljen szélálló esőkabátot, hogy ne fázzon meg a nyílt terepen való nézelődés közben.",
+                "ro": "Fortăreața este foarte expusă vântului; purtați o jachetă de ploaie rezistentă la vânt pentru a nu răci pe terenul deschis.",
+                "en": "The fortress is highly exposed to the wind; wear a windproof rain jacket to keep warm while exploring the open grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Lotsberget",
+                "hu": "Lotsberget",
+                "ro": "Lotsberget",
+                "en": "Lotsberget"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad unten am Weg stehen, da der Pfad nach oben bei Regen zu schlammig für normale Reifen sein kann; genießen Sie den nebligen Blick.",
+                "hu": "Hagyja a biciklit az út alján, mert a felfelé vezető ösvény esőben túl sáros lehet a normál gumikhoz; élvezze a ködös kilátást.",
+                "ro": "Lăsați bicicleta la baza drumului, deoarece poteca spre vârf poate fi prea noroioasă pentru anvelope normale; admirați vederea cețoasă.",
+                "en": "Leave your bike at the bottom of the hill, as the path up can be too muddy for standard tires in the rain; enjoy the misty view."
+              }
+            },
+            {
+              "name": {
+                "de": "Schweizerbadet",
+                "hu": "Schweizerbadet",
+                "ro": "Schweizerbadet",
+                "en": "Schweizerbadet"
+              },
+              "tip_5lang": {
+                "de": "Der Strandweg ist fest, bietet aber wenig Schutz vor Regengüssen; Schutzbleche am Rad sind hier unerlässlich gegen Spritzwasser.",
+                "hu": "A strandhoz vezető út stabil, de kevés védelmet nyújt a záporok elől; a sárvédő itt elengedhetetlen a felcsapódó víz ellen.",
+                "ro": "Drumul spre plajă este stabil, dar oferă puțin adăpost contra ploii; aripile la bicicletă sunt esențiale împotriva stropirii.",
+                "en": "The beach path is firm but offers little shelter from downpours; mudguards on your bike are essential here against road spray."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Winter-Radtour beginnt mit klarer, kalter Luft am Hafen. Mittags ist das Anders Franzénmuseet ein willkommener Stopp, um die eingefrorenen Finger aufzuwärmen. Am Nachmittag fahren wir vorsichtig über Jutholmen nach Dalarö Skans, wobei wir das Eis auf den Wegen im Blick behalten. Die Sonne sinkt früh, und wir beenden die Tour bei blauem Zwielicht am Schweizerbadet, wo das Meer an den Rändern gefriert.",
+            "hu": "A téli kerékpártúra tiszta, hideg levegőben indul a kikötőnél. Délben a múzeum fűtött tere fogad minket, ahol felmelegíthetjük elgémberedett ujjainkat. Délután óvatosan tekerünk a Jutholmen és a Skans felé, figyelve az utakon előforduló jeges foltokra. A nap hamar nyugovóra tér, a túrát pedig a Schweizerbadet jeges partján zárjuk a kék szürkületben.",
+            "ro": "Turul de iarnă cu bicicleta începe în aer curat și rece la port. La prânz, spațiul încălzit al muzeului ne primește pentru a ne dezmorți degetele înghețate. După-amiaza pedalăm cu grijă spre Jutholmen și Skans, atenți la petele de gheață de pe drum. Soarele apune repede, iar turul se încheie pe malul înghețat de la Schweizerbadet în amurgul albastru.",
+            "en": "The winter bike tour starts in crisp, cold air by the harbor. At noon, the museum's heated interior is a welcome stop to warm up frozen fingers. In the afternoon, we cycle carefully towards Jutholmen and Skans, keeping an eye out for icy patches on the roads. The sun sets early, and we finish the tour at the icy Schweizerbadet shore in the blue twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dalarö Tullhus",
+                "hu": "Dalarö Tullhus",
+                "ro": "Dalarö Tullhus",
+                "en": "Dalarö Tullhus"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Winterhandschuhe für die Fahrt und achten Sie auf gefrorene Pfützen auf dem Parkplatz; das Gebäude schützt gut vor dem Seewind.",
+                "hu": "Viseljen vastag téli kesztyűt a tekeréshez, és ügyeljen a fagyott tócsákra a parkolóban; az épület jól véd a tengeri szél ellen.",
+                "ro": "Purtați mănuși groase de iarnă pentru pedalat și atenție la bălțile înghețate din parcare; clădirea protejează bine de vântul marin.",
+                "en": "Wear thick winter gloves for the ride and watch out for frozen puddles in the parking area; the building offers good protection from sea winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Anders Franzénmuseet",
+                "hu": "Anders Franzénmuseet",
+                "ro": "Anders Franzénmuseet",
+                "en": "Anders Franzénmuseet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den restlichen Nachmittag funktioniert.",
+                "hu": "Használja a múzeumlátogatást melegedő szünetként; győződjön meg róla, hogy a kerékpár lámpái működnek a délutáni sötétséghez.",
+                "ro": "Folosiți vizita la muzeu ca o pauză de încălzire; asigurați-vă că luminile bicicletelei funcționeze pentru restul după-amiezii.",
+                "en": "Use the museum visit as a warming break; make sure your bike lights are working correctly for the rest of the dark afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Jutholmen",
+                "hu": "Jutholmen",
+                "ro": "Jutholmen",
+                "en": "Jutholmen"
+              },
+              "tip_5lang": {
+                "de": "Die Brücken und schmalen Wege können tückisch glatt sein; steigen Sie im Zweifel ab und schieben Sie das Rad über vereiste Stellen.",
+                "hu": "A hidak és keskeny utak csalókán csúszósak lehetnek; kétség esetén szálljon le, és tolja a biciklit a jeges szakaszokon.",
+                "ro": "Podurile și drumurile înguste pot fi înșelător de alunecoase; dacă aveți dubii, coborâți și împingeți bicicleta pe porțiunile cu gheață.",
+                "en": "The bridges and narrow paths can be treacherously slippery; if in doubt, dismount and push your bike over icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalarö Skans",
+                "hu": "Dalarö Skans",
+                "ro": "Dalarö Skans",
+                "en": "Dalarö Skans"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Festung ist oft schneebedeckt; breite Reifen mit Profil sind hier im Winter für eine sichere Fahrt sehr vorteilhaft.",
+                "hu": "Az erődhöz vezető út gyakran hófúvásos; a szélesebb, profilozott gumiabroncsok télen nagy előnyt jelentenek a biztonságos haladáshoz.",
+                "ro": "Drumul spre fortăreață este adesea acoperit de zăpadă; anvelopele late cu profil sunt un mare avantaj iarna pentru siguranță.",
+                "en": "The path to the fortress is often snow-covered; wider tires with good tread are a major advantage for safe riding in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lotsberget",
+                "hu": "Lotsberget",
+                "ro": "Lotsberget",
+                "en": "Lotsberget"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneite Küste, aber achten Sie auf den frühen Sonnenuntergang; das Licht ist gegen 15 Uhr am schönsten.",
+                "hu": "Élvezze a kilátást a havas partvidékre, de figyeljen a korai naplementére; a fények délután 3 óra körül a legszebbek.",
+                "ro": "Bucurați-vă de vederea spre coasta înzăpezită, dar atenție la apusul devreme; lumina este cea mai frumoasă în jurul orei 15:00.",
+                "en": "Enjoy the view of the snow-covered coastline, but watch for the early sunset; the lighting is most beautiful around 3 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Schweizerbadet",
+                "hu": "Schweizerbadet",
+                "ro": "Schweizerbadet",
+                "en": "Schweizerbadet"
+              },
+              "tip_5lang": {
+                "de": "Der Strandbesuch im Winter ist kurz und erfrischend; stellen Sie sicher, dass Sie für die Rückfahrt im Dunkeln gut sichtbare Kleidung tragen.",
+                "hu": "A téli strandlátogatás rövid és frissítő; ügyeljen rá, hogy a sötétben való visszatekeréshez jól látható ruházatot viseljen.",
+                "ro": "Vizita la plajă iarna este scurtă și revigorantă; asigurați-vă că purtați haine reflectorizante pentru drumul de întoarcere pe întuneric.",
+                "en": "A winter beach visit is short and refreshing; make sure to wear high-visibility clothing for the ride back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Vezessen egyenesen a történelmi Dalarö Tullhushoz, és parkoljon le a közelben. Innen egy rövid séta az Anders Franzénmuseet, ahol megismerheti a híres Vasa hadihajó hihetetlen történetét és a kiemelés izgalmas folyamatát.\n\nTegyen egy rövid utat az Amerika Bergethez egy csendes sétáért a természetben és a gyönyörű történelmi kilátópontokért. Folytassa útját Dalarö szívébe, felfedezve a festői utcákat és a megőrzött faépületek bájos sorát.\n\nNavigáljon a város keleti része felé, hogy felfedezze Genböte-t, amely tükrözi a régió mezőgazdasági múltját. Egy rövid autóút után eléri Stenholment, ahol a sziklás kiemelkedések lenyűgöző fotózási lehetőségeket kínálnak.\n\nFejezze be az utazást a Dalarö Skans felé vezető úttal. E fenséges szigeti erőd közelében a partra érkezve drámai történelmi hátteret kap, ahogy a nap leereszkedik az elbűvölő balti szigetvilág felett.",
         "ro": "Conduceți direct la Dalarö Tullhus și parcați în apropiere. De acolo, faceți o scurtă plimbare până la Anders Franzénmuseet pentru a afla despre recuperarea incredibilă a celebrei nave de război Vasa și eforturile uimitoare implicate.\n\nFaceți o scurtă călătorie până la Amerika Berget pentru o plimbare liniștită în natură și priveliști istorice frumoase. Continuați drumul până în inima orașului Dalarö, explorând străzile pitorești și clădirile din lemn conservate.\n\nNavigați spre partea de est a orașului pentru a explora Genböte, reflectând istoria agricolă a zonei. O scurtă plimbare vă duce apoi la Stenholmen, unde stâncile oferă oportunități uimitoare de fotografie ale mării deschise.\n\nTerminați-vă călătoria cu mașina mergând la Dalarö Skans. Sosirea pe țărm lângă această maiestuoasă fortăreață insulară oferă un fundal istoric dramatic, pe măsură ce soarele apune peste fermecătorul arhipelag baltic.",
         "en": "Drive straight to the historic Dalarö Tullhus, parking nearby to easily access the maritime exhibitions. From there, take a brief walk to the Anders Franzénmuseet to learn about the incredible recovery of the famous Vasa warship.\n\nTake a short drive to Amerika Berget for a tranquil nature walk and beautiful historical viewpoints. Continue your drive down to the very heart of Dalarö, exploring its picturesque streets and charming array of preserved wooden buildings.\n\nNavigate your way towards the eastern side of the town to explore Genböte, reflecting the area's agricultural history. A brief drive then takes you to Stenholmen, where rocky outcrops provide stunning photo opportunities of the open sea.\n\nFinish your comprehensive road trip by driving down to Dalarö Skans. Arriving at the shoreline near this majestic island fortress offers a dramatic historical backdrop as the sun lowers over the enchanting Baltic archipelago."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Dalarö lässt sich am besten mit dem Auto erkunden, wobei wir zwischen den Stopps trocken bleiben. Morgens besuchen wir das Tullhus und mittags das Anders Franzénmuseet, ideal für Schlechtwetter. Am Nachmittag fahren wir zu den Aussichtspunkten Amerika Berget und Genböte, wo wir die Aussicht oft direkt aus dem Auto genießen können. Der Tag endet an der Festung Dalarö Skans, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Dalarö felfedezése esőben autóval a legkényelmesebb, mivel a megállók között szárazon maradhatunk. Reggel a Tullhus, délben a múzeum látogatása ideális program rossz időben. Délután az Amerika Berget és Genböte kilátói felé autózunk, ahol a panorámát akár az autóból is élvezhetjük. A nap a Dalarö Skansnál zárul, miközben az esőcseppek kopognak a szélvédőn.",
+            "ro": "Explorarea orașului Dalarö pe ploaie este cea mai confortabilă cu mașina, rămânând uscați între opriri. Dimineața vizităm Tullhus, iar la prânz muzeul, programe ideale pentru vreme rea. După-amiaza conducem spre punctele de belvedere Amerika Berget și Genböte, unde putem admira panorama chiar din mașină. Ziua se încheie la Dalarö Skans, în timp ce stropii de ploaie bat în parbriz.",
+            "en": "Exploring Dalarö in the rain is most comfortable by car, as we stay dry between stops. Morning at Tullhus and noon at the museum are ideal programs for bad weather. In the afternoon, we drive to the Amerika Berget and Genböte viewpoints, where the panorama can often be enjoyed right from the car. The day ends at Dalarö Skans while raindrops drum on the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dalarö Tullhus",
+                "hu": "Dalarö Tullhus",
+                "ro": "Dalarö Tullhus",
+                "en": "Dalarö Tullhus"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe, um den Weg im Regen kurzzuhalten; das historische Gebäude bietet im Inneren Schutz und tolle Fotomotive.",
+                "hu": "Parkoljon közvetlenül a közelben, hogy az esőben megtett út rövid legyen; a történelmi épület védelmet és remek fotótémákat kínál odabent.",
+                "ro": "Parcați chiar în apropiere pentru ca drumul prin ploaie să fie scurt; clădirea istorică oferă adăpost și motive foto excelente în interior.",
+                "en": "Park directly nearby to keep the walk in the rain short; the historic building provides shelter and great photo opportunities inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Anders Franzénmuseet",
+                "hu": "Anders Franzénmuseet",
+                "ro": "Anders Franzénmuseet",
+                "en": "Anders Franzénmuseet"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen; das Museum ist klein, aber fein und bietet eine trockene Umgebung, um in die Geschichte einzutauchen.",
+                "hu": "Tökéletes megálló esőben; a múzeum kicsi, de tartalmas, és száraz környezetet biztosít a történelemben való elmélyüléshez.",
+                "ro": "O oprire perfectă pe ploaie; muzeul este mic, dar bogat în conținut, oferind un mediu uscat pentru a explora istoria locului.",
+                "en": "A perfect stop in the rain; the museum is small but rich in content, providing a dry environment to dive into local maritime history."
+              }
+            },
+            {
+              "name": {
+                "de": "Amerika Berget",
+                "hu": "Amerika Berget",
+                "ro": "Amerika Berget",
+                "en": "Amerika Berget"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße nach oben kann bei Regen rutschig sein; genießen Sie den Blick auf den Hafen aus dem geschützten Fahrzeug.",
+                "hu": "A felfelé vezető keskeny út esőben csúszós lehet; élvezze a kikötőre nyíló kilátást a védett gépjármű kényelméből.",
+                "ro": "Drumul îngust spre vârf poate fi alunecos pe ploaie; bucurați-vă de vederea spre port din confortul vehiculului protejat.",
+                "en": "The narrow road leading up can be slippery in the rain; enjoy the view of the harbor from the comfort of your protected vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalarö",
+                "hu": "Dalarö",
+                "ro": "Dalarö",
+                "en": "Dalarö"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze im Zentrum für einen kurzen Spaziergang zwischen den Regenschauern; Cafés sind gute Rückzugsorte bei Starkregen.",
+                "hu": "Használja a központi parkolókat egy rövid sétára a záporok között; a kávézók jó búvóhelyek heves esőzés esetén.",
+                "ro": "Folosiți parcările centrale pentru o scurtă plimbare între averse; cafenelele sunt refugii bune în caz de ploaie torențială.",
+                "en": "Use the central parking lots for a short walk between showers; local cafés are good hideouts during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Genböte",
+                "hu": "Genböte",
+                "ro": "Genböte",
+                "en": "Genböte"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Aussichtspunkt, der auch bei grauem Wetter seinen Reiz hat; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Szép kilátópont, amely szürke időben is megőrzi báját; kiszálláskor ügyeljen az út szélén lévő mély tócsákra.",
+                "ro": "Un punct de observație frumos care își păstrează farmecul și pe vreme gri; atenție la bălțile adânci de la marginea drumului la coborâre.",
+                "en": "A beautiful viewpoint that keeps its charm even in grey weather; watch out for deep puddles at the roadside when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Stenholmen",
+                "hu": "Stenholmen",
+                "ro": "Stenholmen",
+                "en": "Stenholmen"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet dramatische Ausblicke auf die aufgewühlte See; bleiben Sie im Auto, wenn der Wind den Regen peitscht.",
+                "hu": "A part menti út drámai kilátást nyújt a felkorbácsolt tengerre; maradjon az autóban, ha a szél erősen veri az esőt.",
+                "ro": "Drumul de coastă oferă vederi dramatice asupra mării agitate; rămâneți în mașină dacă vântul bate ploaia cu putere.",
+                "en": "The coastal road offers dramatic views of the turbulent sea; stay inside the car if the wind is whipping the rain too hard."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalarö Skans",
+                "hu": "Dalarö Skans",
+                "ro": "Dalarö Skans",
+                "en": "Dalarö Skans"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz hat man eine gute Sicht auf die Festung; ein kurzer, entschlossener Sprint zur Besichtigung lohnt sich trotz des Regens.",
+                "hu": "A parkolóból jó rálátás nyílik az erődre; egy rövid, határozott vágta a megtekintéshez az eső ellenére is megéri.",
+                "ro": "Din parcare există o vedere bună spre fortăreață; un scurt sprint hotărât pentru vizitare merită efortul în ciuda ploii.",
+                "en": "There is a good view of the fortress from the parking lot; a short, brisk walk to see it is worth the effort despite the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Dalarö im Winter lässt sich wunderbar mit dem Auto erkunden, wobei die Heizung für Komfort sorgt. Morgens glitzert der Frost am Hafen von Tullhus. Mittags besuchen wir das warme Anders Franzénmuseet, während draußen der Schnee leise fällt. Am Nachmittag führt die Fahrt zu den Aussichtspunkten Amerika Berget und Genböte, wo die Wintersonne die Landschaft verzaubert. Den Tag beenden wir bei Einbruch der frühen Dunkelheit an der beleuchteten Festung Dalarö Skans.",
+            "hu": "Dalarö télen csodásan felfedezhető autóval, ahol a fűtés biztosítja a kényelmet. Reggel a zúzmara csillog a Tullhus kikötőjében. Délben a meleg múzeumot látogatjuk meg, miközben kint halkan hull a hó. Délután az Amerika Berget és Genböte kilátói felé autózunk, ahol a téli naplemente elvarázsolja a tájat. A napot a korai sötétség beálltakor a kivilágított Dalarö Skansnál zárjuk.",
+            "ro": "Dalarö iarna poate fi explorat minunat cu mașina, încălzirea asigurând confortul necesar. Dimineața, promoroaca strălucește în portul Tullhus. La prânz vizităm muzeul călduros în timp ce afară ninge încet. După-amiaza conducem spre Amerika Berget și Genböte, unde soarele de iarnă vrăjește peisajul. Încheiem ziua la lăsarea întunericului devreme lângă fortăreața Dalarö Skans iluminată.",
+            "en": "Dalarö in winter is wonderful to explore by car, with the heater ensuring total comfort. In the morning, frost sparkles in the Tullhus harbor. At noon, we visit the warm museum while snow falls softly outside. In the afternoon, we drive to the Amerika Berget and Genböte viewpoints, where the winter sun enchants the landscape. We end the day at early dusk by the illuminated Dalarö Skans fortress."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dalarö Tullhus",
+                "hu": "Dalarö Tullhus",
+                "ro": "Dalarö Tullhus",
+                "en": "Dalarö Tullhus"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz direkt am Wasser; das beheizte Auto ist nach dem kurzen Fotostopp ein Segen.",
+                "hu": "Ügyeljen a tükörjégre a közvetlenül a vízparton lévő parkolóban; a fűtött autó áldás a rövid fotómegálló után.",
+                "ro": "Atenție la poleiul din parcarea aflată direct pe malul apei; mașina încălzită este o binecuvântare după scurta oprire foto.",
+                "en": "Watch out for black ice in the parking lot right by the water; the heated car is a blessing after a quick photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Anders Franzénmuseet",
+                "hu": "Anders Franzénmuseet",
+                "ro": "Anders Franzénmuseet",
+                "en": "Anders Franzénmuseet"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte zu vergessen; das Museum bietet eine gemütliche und warme Umgebung für die ganze Familie.",
+                "hu": "Ideális helyszín a hideg elfelejtésére; a múzeum hangulatos és meleg környezetet biztosít az egész család számára.",
+                "ro": "Un loc ideal pentru a uita de frig; muzeul oferă un mediu primitor și cald pentru întreaga familie.",
+                "en": "An ideal location to forget about the cold; the museum offers a cozy and warm environment for the whole family."
+              }
+            },
+            {
+              "name": {
+                "de": "Amerika Berget",
+                "hu": "Amerika Berget",
+                "ro": "Amerika Berget",
+                "en": "Amerika Berget"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die verschneiten Schären direkt aus dem warmen Auto; die Auffahrt wird im Winter regelmäßig geräumt.",
+                "hu": "Élvezze a kilátást a havas szigetvilágra közvetlenül a meleg autóból; a felvezető utat télen rendszeresen takarítják.",
+                "ro": "Bucurați-vă de vederea spre arhipelagul înzăpezit direct din mașina caldă; drumul de acces este curățat regulat iarna.",
+                "en": "Enjoy the view of the snowy archipelago right from your warm car; the access road is regularly cleared in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalarö",
+                "hu": "Dalarö",
+                "ro": "Dalarö",
+                "en": "Dalarö"
+              },
+              "tip_5lang": {
+                "de": "Die festliche Beleuchtung im Dorf ist im Winter besonders schön; parken Sie zentral, um die kurzen Wege zu den Cafés zu nutzen.",
+                "hu": "A falu ünnepi kivilágítása télen különösen szép; parkoljon központilag, hogy kihasználja a kávézókhoz vezető rövid utakat.",
+                "ro": "Iluminatul festiv din sat este deosebit de frumos iarna; parcați central pentru a profita de distanțele scurte spre cafenele.",
+                "en": "The festive village lighting is especially beautiful in winter; park centrally to take advantage of the short walks to the cafés."
+              }
+            },
+            {
+              "name": {
+                "de": "Genböte",
+                "hu": "Genböte",
+                "ro": "Genböte",
+                "en": "Genböte"
+              },
+              "tip_5lang": {
+                "de": "Die verschneite Landschaft ist ein Traum für Fotografen; stellen Sie sicher, dass Ihre Winterreifen für die teils steilen Wege bereit sind.",
+                "hu": "A havas táj a fotósok álma; győződjön meg róla, hogy a téli gumik készen állnak a helyenként meredek utakra.",
+                "ro": "Peisajul înzăpezit este visul oricărui fotograf; asigurați-vă că anvelopele de iarnă sunt gata pentru drumurile uneori abrupte.",
+                "en": "The snowy landscape is a photographer's dream; ensure your winter tires are ready for the occasionally steep roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Stenholmen",
+                "hu": "Stenholmen",
+                "ro": "Stenholmen",
+                "en": "Stenholmen"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Gischt schnell vereisen; fahren Sie langsam und genießen Sie die bizarren Eisformationen an den Felsen.",
+                "hu": "A part menti út a felfröccsenő víztől gyorsan jegesedhet; hajtson lassan, és csodálja meg a sziklákon kialakuló jégalakzatokat.",
+                "ro": "Drumul de coastă poate îngheța rapid de la stropii de apă; conduceți încet și admirați formațiunile bizare de gheață de pe stânci.",
+                "en": "The coastal road can ice over quickly from sea spray; drive slowly and admire the bizarre ice formations on the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Dalarö Skans",
+                "hu": "Dalarö Skans",
+                "ro": "Dalarö Skans",
+                "en": "Dalarö Skans"
+              },
+              "tip_5lang": {
+                "de": "Bei Einbruch der Dunkelheit ist die künstliche Beleuchtung der Festung besonders stimmungsvoll; bleiben Sie für den Blick im warmen Auto.",
+                "hu": "A sötétség beálltakor az erőd mesterséges megvilágítása különösen hangulatos; maradjon a meleg autóban a látvány kedvéért.",
+                "ro": "La lăsarea întunericului, iluminarea artificială a fortăreței este deosebit de atmosferică; rămâneți în mașina caldă pentru priveliște.",
+                "en": "At nightfall, the artificial lighting of the fortress is especially atmospheric; stay in the warm car to enjoy the view."
+              }
+            }
+          ]
+        }
       }
     }
   }

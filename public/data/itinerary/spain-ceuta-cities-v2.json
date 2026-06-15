@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi falaknál kezdődik, és az utcákon át a lenyűgöző katedrálishoz vezet. Délben a régészeti múzeumban mélyülhet el a római történelemben. A délután tiszta pihenést kínál a tengerészeti park gyönyörű tengervizes medencéiben. Egy csendes pillanat a Los Remedios templomban zárja ezt az izgalmas napot Ceuta központjában.",
         "ro": "Dimineața începe la zidurile istorice și vă poartă prin străduțe spre impresionanta catedrală. La prânz, pătrundeți adânc în istoria romană în muzeul arheologic. După-amiaza vă oferă o relaxare pură în frumoasele piscine cu apă sărată ale parcului maritim. Un moment de liniște la Iglesia de los Remedios încheie această zi plină de viață în centrul orașului Ceuta.",
         "en": "The morning begins at the historic walls and leads you through the alleys to the impressive cathedral. At noon, you dive deep into Roman history within the archaeological museum. The afternoon offers pure relaxation in the beautiful seawater pools of the maritime park. A quiet moment at the Iglesia de los Remedios perfectly concludes this exciting day in central Ceuta."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Parador Schutz vor dem Küstenregen mit Blick auf die Festungsmauern. Mittags laden die Kathedrale und das Heiligtum zu einer trockenen, spirituellen Pause ein. Nachmittags erkunden wir die überdachte spätömische Basilika, bevor wir die frische Seeluft im Park genießen. Abends finden wir in der Iglesia de los Remedios Ruhe, während der Regen draußen an die Fenster klopft.",
+            "hu": "Reggel a Parador falaiban kezdünk, védve a parti szitálástól. Délben a katedrális és a szentély belső terei nyújtanak száraz menedéket. Délután a bazilika fedett múzeumában merülünk el a történelemben, majd teszünk egy sétát a sós levegőn a tengeri parknál. Az estét a Remedios templom csendes békéjében zárjuk, miközben kint az eső mossa az utcákat, kerülve a csúszós macskaköveket.",
+            "ro": "Dimineața începe la Parador, unde zidurile vechi oferă adăpost împotriva burniței marine. La prânz, Catedrala și Sanctuarul sunt refugii uscate și pline de istorie. După-amiaza este dedicată Bazilicii Romane acoperite, urmată de o plimbare rapidă prin parcul maritim. Seara se încheie în liniștea Bisericii Remedios, admirând arhitectura în timp ce afară plouă torențial pe străzile înguste.",
+            "en": "Morning starts within the Parador’s sturdy walls, shielding you from the coastal mist. At noon, the Cathedral and Sanctuary provide dry, spiritual havens. Afternoon is spent exploring the covered Roman Basilica museum, followed by a brisk walk through the Maritime Park's dramatic rainy scenery. Evening concludes in the peaceful Iglesia de los Remedios, avoiding the slippery cobblestones outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parador La Muralla",
+                "hu": "Parador La Muralla",
+                "ro": "Parador La Muralla",
+                "en": "Parador La Muralla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die nassen Festungsmauern vom Café aus; wasserfeste Schuhe sind für die Außenbereiche der Mauer unbedingt erforderlich.",
+                "hu": "Élvezze a kilátást a vizes várfalakra a kávézóból; a külső falak felfedezéséhez vízálló cipő és esernyő mindenképpen ajánlott a szeles időben.",
+                "ro": "Admirați zidurile umede ale fortăreței din cafenea; încălțămintea impermeabilă este esențială pentru explorarea secțiunilor exterioare ale zidului.",
+                "en": "Enjoy the view of the wet fortress walls from the cozy cafe; waterproof shoes are essential for exploring the outdoor wall sections in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de la Asunción",
+                "hu": "Catedral de la Asunción",
+                "ro": "Catedral de la Asunción",
+                "en": "Catedral de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Dieses barocke Juwel ist der ideale Ort, um einen Regenschauer abzuwarten; bewundern Sie die Altarbilder, während Sie im Trockenen bleiben.",
+                "hu": "Ez a barokk ékszerdoboz ideális hely egy zápor kivárására; csodálja meg az oltárképeket, miközben védve marad az égi áldástól.",
+                "ro": "Această bijuterie barocă este locul ideal pentru a aștepta trecerea unei averse; admirați altarele în timp ce rămâneți la adăpost.",
+                "en": "This baroque gem is the perfect spot to wait out a downpour; admire the intricate altarpieces while staying completely dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario de Santa María de África",
+                "hu": "Santuario de Santa María de África",
+                "ro": "Santuario de Santa María de África",
+                "en": "Santuario de Santa María de África"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Schutzpatronin im Inneren; der kurze Weg vom Platz aus kann bei Regen rutschig sein, halten Sie sich an den Geländern fest.",
+                "hu": "Látogassa meg a város védőszentjét a belső térben; a térről vezető rövid út esőben csúszós lehet, használja a korlátokat a biztonságért.",
+                "ro": "Vizitați protectoarea orașului în interior; drumul scurt din piață poate fi alunecos pe ploaie, așa că mergeți cu atenție sporită.",
+                "en": "Visit the city's patron saint inside the sanctuary; the short walk from the square can be slippery when wet, so step carefully on the tiles."
+              }
+            },
+            {
+              "name": {
+                "de": "Late Roman Basilica of Ceuta",
+                "hu": "Late Roman Basilica of Ceuta",
+                "ro": "Late Roman Basilica of Ceuta",
+                "en": "Late Roman Basilica of Ceuta"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Museumsgebäude umschließt die Ruinen komplett und bietet perfekten Schutz vor Wind und Wetter während der archäologischen Tour.",
+                "hu": "A modern múzeumépület teljesen körbeöleli a romokat, így tökéletes védelmet nyújt a szél és az eső ellen a régészeti túra során.",
+                "ro": "Clădirea modernă a muzeului înconjoară complet ruinele, oferind protecție perfectă împotriva vântului și ploii în timpul vizitei arheologice.",
+                "en": "The modern museum building fully encloses the ruins, providing perfect shelter from wind and rain during your archaeological exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Marítimo del Mediterráneo",
+                "hu": "Parque Marítimo del Mediterráneo",
+                "ro": "Parque Marítimo del Mediterráneo",
+                "en": "Parque Marítimo del Mediterráneo"
+              },
+              "tip_5lang": {
+                "de": "Obwohl das Schwimmen ausfällt, ist die Architektur von Manrique im Regen dramatisch; nutzen Sie die überdachten Gänge für Fotos.",
+                "hu": "Bár a fürdés elmarad, Manrique építészete esőben is lenyűgöző; használja a fedett folyosókat a különleges fotók készítéséhez.",
+                "ro": "Deși înotul nu este o opțiune, arhitectura lui Manrique este dramatică pe ploaie; folosiți coridoarele acoperite pentru fotografii superbe.",
+                "en": "While swimming is off the table, Manrique's architecture looks dramatic in the rain; use the covered walkways for unique photo opportunities."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de los Remedios",
+                "hu": "Iglesia de los Remedios",
+                "ro": "Iglesia de los Remedios",
+                "en": "Iglesia de los Remedios"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie den Tag in der warmen Atmosphäre dieser Kirche ab; die umliegenden Arkaden bieten Schutz beim Warten auf ein Taxi.",
+                "hu": "Zárja a napot a templom meleg atmoszférájában; a közeli árkádok védelmet nyújtanak, amíg egy taxira vár a vizes utcán.",
+                "ro": "Încheiați ziua în atmosfera caldă a acestei biserici; arcadele din apropiere oferă adăpost în timp ce așteptați un taxi spre hotel.",
+                "en": "End your day in the warm atmosphere of this church; the nearby arcades offer shelter while you wait for transport back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Parador ist frisch, aber die milde Sonne Ceutas wärmt schnell auf. Mittags erkunden wir die historischen Kirchen, deren dicke Mauern eine angenehme Ruhe ausstrahlen. Nachmittags nutzen wir das goldene Licht an der Basilika, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend gehört der belebten Fußgängerzone, wo die milde Winterluft zum Verweilen einlädt.",
+            "hu": "A téli reggel friss a Parador falainál, de Ceuta enyhe napfénye hamar felmelegíti a levegőt. Délben a történelmi templomokat járjuk be, ahol a vastag falak között kellemes nyugalom fogad. Délután kihasználjuk az aranyló fényeket a bazilikánál, mielőtt 17:00 körül lenyugszik a nap. Az estét a kivilágított belvárosban töltjük, élvezve a kellemes mediterrán téli klímát.",
+            "ro": "Dimineața de iarnă la Parador este răcoroasă, dar soarele blând al Ceutei încălzește rapid atmosfera. La prânz explorăm bisericile istorice, ale căror ziduri groase păstrează o liniște plăcută. După-amiaza profităm de lumina aurie la Bazilică, înainte ca soarele să apună la ora 17:00. Seara aparține zonei pietonale luminate, unde aerul blând de iarnă invită la plimbare.",
+            "en": "Winter mornings at the Parador are crisp, but Ceuta’s mild sun quickly warms the air. At noon, we explore historic churches where thick walls offer a peaceful retreat. Afternoon light hits the Basilica perfectly before the early 5:00 PM sunset. Evening is best spent in the illuminated city center, enjoying the refreshing but manageable Mediterranean winter breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parador La Muralla",
+                "hu": "Parador La Muralla",
+                "ro": "Parador La Muralla",
+                "en": "Parador La Muralla"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne auf der Terrasse ist herrlich; bringen Sie eine leichte Jacke für den Aufenthalt im Schatten der Festungsmauern mit.",
+                "hu": "A téli napsütés a teraszon csodálatos; vigyen magával egy könnyű kabátot a várfalak árnyékosabb részeihez, ahol hűvösebb lehet a szél.",
+                "ro": "Soarele de iarnă pe terasă este minunat; aduceți o jachetă ușoară pentru momentele petrecute în umbra zidurilor fortăreței.",
+                "en": "The winter sun on the terrace is delightful; bring a light jacket for exploring the shaded sections of the fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de la Asunción",
+                "hu": "Catedral de la Asunción",
+                "ro": "Catedral de la Asunción",
+                "en": "Catedral de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Die Kathedrale bietet im Winter eine milde Zuflucht; bewundern Sie die Details der Kapellen ohne die Hitze der Sommermonate.",
+                "hu": "A katedrális télen is enyhe menedéket nyújt; csodálja meg a kápolnák részleteit a nyári hónapok tikkasztó hősége nélkül.",
+                "ro": "Catedrala oferă un refugiu blând iarna; admirați detaliile capetelor fără căldura sufocantă specifică lunilor de vară.",
+                "en": "The Cathedral offers a mild refuge in winter; admire the intricate chapel details without the intense heat of the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario de Santa María de África",
+                "hu": "Santuario de Santa María de África",
+                "ro": "Santuario de Santa María de África",
+                "en": "Santuario de Santa María de África"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Wärme und Besinnung; nutzen Sie den Vormittag für einen Besuch, wenn das Licht durch die Fenster am schönsten fällt.",
+                "hu": "A melegség és az elcsendesedés helyszíne; látogassa meg délelőtt, amikor a téli napfény a legszebb szögben esik be az ablakokon.",
+                "ro": "Un loc de căldură și meditație; vizitați-l dimineața, când lumina iernii pătrunde cel mai frumos prin ferestrele altarului.",
+                "en": "A place of warmth and reflection; visit in the morning when the winter sunlight streams beautifully through the high windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Late Roman Basilica of Ceuta",
+                "hu": "Late Roman Basilica of Ceuta",
+                "ro": "Late Roman Basilica of Ceuta",
+                "en": "Late Roman Basilica of Ceuta"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist klimatisiert und im Winter angenehm temperiert; planen Sie den Besuch vor 16 Uhr ein, um das Tageslicht zu nutzen.",
+                "hu": "A belső tér temperált és télen is kellemes; tervezze a látogatást 16 óra elé, hogy a bazilika feletti természetes fényt is láthassa.",
+                "ro": "Interiorul este temperat și plăcut iarna; planificați vizita înainte de ora 16:00 pentru a profita de lumina naturală deasupra ruinelor.",
+                "en": "The interior is climate-controlled and pleasant in winter; schedule your visit before 4 PM to maximize the natural overhead light."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Marítimo del Mediterráneo",
+                "hu": "Parque Marítimo del Mediterráneo",
+                "ro": "Parque Marítimo del Mediterráneo",
+                "en": "Parque Marítimo del Mediterráneo"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen Spaziergang an der frischen Luft; die Palmen und blauen Lagunen bieten auch im Winter eine exotische Kulisse.",
+                "hu": "Tökéletes helyszín egy frissítő sétához; a pálmák és a kék lagúnák télen is egzotikus hátteret biztosítanak a fotózáshoz.",
+                "ro": "Perfect pentru o plimbare revigorantă; palmierii și lagunele albastre oferă un cadru exotic chiar și în mijlocul iernii blânde.",
+                "en": "Perfect for a refreshing winter stroll; the palm trees and blue lagoons provide an exotic backdrop even in the cooler months."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de los Remedios",
+                "hu": "Iglesia de los Remedios",
+                "ro": "Iglesia de los Remedios",
+                "en": "Iglesia de los Remedios"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag; nach dem frühen Sonnenuntergang ist die Fassade wunderschön beleuchtet.",
+                "hu": "Látogassa meg a templomot késő délután; a korai naplemente után a homlokzat csodálatos díszkivilágításban tündököl.",
+                "ro": "Vizitați biserica după-amiaza târziu; după apusul devreme, fațada este luminată superb, creând o atmosferă magică.",
+                "en": "Visit the church in the late afternoon; after the early sunset, the facade is beautifully illuminated for your evening photos."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpárral frissen indul a nap a nyugati tágas kertekben. Délben a mecsetnél tett megálló után eléri a nyüzsgő központot annak pompás katedrálisával. Délután kényelmesen elteker a tengerészeti parkba egy pihentető szünetre a vízparton. A napot egy rövid kerékpározás zárja a hegy lábához, ahol szinte megelevenedik a történelem.",
         "ro": "Pe bicicletă, începeți ziua revigorați în grădinile spațioase din vest. La amiază, după o oprire la moschee, ajungeți în centrul vibrant cu magnifica sa catedrală. După-amiaza pedalați pe îndelete spre parcul maritim pentru o pauză relaxantă la malul mării. Turul se încheie cu o scurtă plimbare la baza muntelui, unde istoria prinde viață.",
         "en": "By bike, you start refreshed in the spacious western gardens. At lunchtime, after a stop at the mosque, you reach the vibrant center with its magnificent cathedral. In the afternoon, you cycle comfortably to the maritime park for a relaxing break by the water. The day concludes with a short ride to the base of the mountain, where history truly comes alive."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt in den Jardines de la Hipica, wo Bäume etwas Schutz bieten. Mittags steuern wir die Moschee und die Kathedrale an, um im Trockenen zu rasten. Die Fahrt zwischen den Stopps erfordert Vorsicht auf nassen Fliesen. Nachmittags erkunden wir den Park und die Kirche, bevor wir den Tag am Monumento abschließen, während die Gischt mit dem Regen verschmilzt.",
+            "hu": "Az esős bringás nap a Jardines de la Hipica fáinak védelmében indul. Délben a mecset és a katedrális felé vesszük az irányt, hogy szárazon pihenhessünk meg. A megállók között óvatosan hajtsunk a vizes aszfalton. Délután a parkot és a templomot érintjük, majd a napot a Monumentónál zárjuk, ahol a tengeri permet és az eső különleges hangulatot áraszt.",
+            "ro": "O zi ploioasă pe bicicletă începe în Jardines de la Hipica, unde copacii oferă adăpost parțial. La prânz ne îndreptăm spre Moschee și Catedrală pentru pauze uscate. Între opriri, atenție sporită la drumul ud. După-amiaza vizităm parcul și biserica, încheind ziua la Monumento, unde spray-ul marin se amestecă cu ploaia într-un peisaj dramatic.",
+            "en": "A rainy cycling day starts under the partial canopy of Jardines de la Hipica. At noon, we head to the Mosque and Cathedral for dry breaks. Careful navigation is needed on wet streets between stops. Afternoon takes us through the park and church, ending at the Monumento where sea spray and rain create a powerful coastal atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jardines de la Hipica",
+                "hu": "Jardines de la Hipica",
+                "ro": "Jardines de la Hipica",
+                "en": "Jardines de la Hipica"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten Schutz vor leichtem Regen; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf den nassen Parkwegen fortsetzen.",
+                "hu": "A sűrű fák védelmet nyújtanak a szemerkélő esőben; ellenőrizze a fékeket, mielőtt továbbindulna a park vizes aszfaltútjain.",
+                "ro": "Copacii deși oferă adăpost împotriva ploii ușoare; verificați frânele înainte de a continua drumul pe aleile umede ale parcului.",
+                "en": "The thick trees offer shelter from light drizzle; check your brakes before continuing on the park's wet asphalt paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Muley El-Mehdi Mosque",
+                "hu": "Muley El-Mehdi Mosque",
+                "ro": "Muley El-Mehdi Mosque",
+                "en": "Muley El-Mehdi Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um das Äußere zu bewundern; parken Sie das Rad an einem überdachten Platz, da der Vorplatz bei Regen rutschig ist.",
+                "hu": "Gyönyörű hely a külső építészet megcsodálására; parkoljon fedett helyre, mert a mecset előtti tér esőben nagyon csúszóssá válik.",
+                "ro": "Un loc superb pentru a admira arhitectura exterioară; parcați bicicleta sub un adăpost, deoarece piața devine alunecoasă pe ploaie.",
+                "en": "A beautiful spot to admire Moroccan architecture; park your bike in a sheltered area as the forecourt tiles are very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de la Asunción",
+                "hu": "Catedral de la Asunción",
+                "ro": "Catedral de la Asunción",
+                "en": "Catedral de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den langen Aufenthalt für eine ausführliche Innenbesichtigung, während draußen der stärkste Regen niedergeht; Radständer sind nah.",
+                "hu": "Használja ki a hosszabb megállót egy alapos belső látogatásra, amíg kint szakad az eső; a kerékpártámaszok a bejárat közelében vannak.",
+                "ro": "Profitați de oprirea lungă pentru o vizită interioară detaliată în timp ce plouă afară; suporturile de biciclete sunt aproape de intrare.",
+                "en": "Use this long stop for a detailed indoor tour while the heaviest rain passes; bike racks are conveniently located near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Marítimo del Mediterráneo",
+                "hu": "Parque Marítimo del Mediterráneo",
+                "ro": "Parque Marítimo del Mediterráneo",
+                "en": "Parque Marítimo del Mediterráneo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig durch das Gelände; die weißen Flächen sind spiegelglatt, wenn sie nass sind, halten Sie genug Abstand zu den Pools.",
+                "hu": "Hajtson óvatosan a területen; a fehér felületek tükörsimák és csúszósak, ha vizesek, tartson biztonságos távolságot a medencéktől.",
+                "ro": "Circulați cu atenție prin complex; suprafețele albe sunt extrem de alunecoase când sunt ude, deci păstrați distanța față de bazine.",
+                "en": "Ride carefully through the grounds; the white surfaces are mirror-smooth and slippery when wet, so keep a safe distance from the edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia De San Francisco",
+                "hu": "Parroquia De San Francisco",
+                "ro": "Parroquia De San Francisco",
+                "en": "Parroquia De San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Rückzugsort vor dem Wind; trocknen Sie Ihre Ausrüstung kurz ab, während Sie die sakrale Stille im Inneren genießen.",
+                "hu": "Csendes menedék a szél elől; szárítsa meg kicsit a felszerelését, miközben élvezi a belső tér szakrális nyugalmát és melegét.",
+                "ro": "Un refugiu liniștit împotriva vântului; uscați-vă puțin echipamentul în timp ce vă bucurați de liniștea sacră din interior.",
+                "en": "A quiet retreat from the coastal wind; dry off your gear briefly while enjoying the sacred silence and warmth of the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Llano Amarillo",
+                "hu": "Monumento al Llano Amarillo",
+                "ro": "Monumento al Llano Amarillo",
+                "en": "Monumento al Llano Amarillo"
+              },
+              "tip_5lang": {
+                "de": "Der Weg am Meer entlang ist bei Regen windig; tragen Sie eine gute Regenjacke und achten Sie auf Pfützen auf der Fahrbahn.",
+                "hu": "A tengerparti út esőben szeles; viseljen jó minőségű esőkabátot és figyeljen az úttesten kialakuló mélyebb tócsákra.",
+                "ro": "Drumul de-a lungul mării este vântos pe ploaie; purtați o pelerină de ploaie bună și fiți atenți la bălțile de pe carosabil.",
+                "en": "The coastal road is windy during rain; wear a high-quality raincoat and watch out for deep puddles forming on the cycling path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Seeluft begleitet uns auf dem Rad durch die Gärten der Hipica. Mittags wärmt uns die Wintersonne auf dem Weg zur Moschee und Kathedrale. Die kühleren Temperaturen sind ideal für die aktive Fahrt durch Ceuta. Nachmittags besuchen wir den Park, bevor das goldene Licht am Monumento gegen 17:00 Uhr verblasst. Abends ist eine warme Schicht für die Rückfahrt am Hafen wichtig.",
+            "hu": "Friss tengeri levegő kísér minket bringával a Hipica kertjeiben. Délben a téli napsütés kellemesen melegít a mecset és a katedrális felé vezető úton. A hűvösebb idő ideális az aktív tekeréshez Ceuta utcáin. Délután meglátogatjuk a parkot, mielőtt az aranyló fények a Monumentónál 17:00 körül elhalványulnak. Estére fontos egy meleg réteg a kikötői visszautúthoz.",
+            "ro": "Aerul proaspăt marin ne însoțește pe bicicletă prin grădinile Hipica. La prânz, soarele de iarnă ne încălzește pe drumul spre Moschee și Catedrală. Temperaturile scăzute sunt ideale pentru o tură activă prin Ceuta. După-amiaza vizităm parcul, înainte ca lumina aurie de la Monumento să dispară la ora 17:00. Seara, o jachetă groasă este esențială pentru drumul de întoarcere.",
+            "en": "Fresh sea air accompanies our ride through the Hipica gardens. At noon, the winter sun provides pleasant warmth on the way to the Mosque and Cathedral. Cooler temperatures are perfect for active cycling through Ceuta's hills. Afternoon light is stunning at the park, fading by the 5:00 PM sunset at the Monumento. A warm outer layer is vital for the evening ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jardines de la Hipica",
+                "hu": "Jardines de la Hipica",
+                "ro": "Jardines de la Hipica",
+                "en": "Jardines de la Hipica"
+              },
+              "tip_5lang": {
+                "de": "Ein frischer Start in den Tag; tragen Sie Handschuhe, da der Fahrtwind am Morgen in den Gärten noch recht kühl sein kann.",
+                "hu": "Friss kezdete a napnak; viseljen kesztyűt, mert a reggeli menetszél a kertek között még elég hűvös lehet a kezének.",
+                "ro": "Un început de zi revigorant; purtați mănuși, deoarece vântul de dimineață prin grădini poate fi destul de rece pentru mâini.",
+                "en": "A crisp start to the day; wear cycling gloves as the morning breeze through the gardens can be quite chilly on your hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Muley El-Mehdi Mosque",
+                "hu": "Muley El-Mehdi Mosque",
+                "ro": "Muley El-Mehdi Mosque",
+                "en": "Muley El-Mehdi Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Farben der Moschee leuchten im klaren Winterlicht besonders schön; perfekt für Fotos ohne die sommerlichen Touristenmassen.",
+                "hu": "A mecset színei a tiszta téli fényben különösen szépen ragyognak; tökéletes fotókhoz a nyári turistaáradat nélkül.",
+                "ro": "Culorile moscheii strălucesc superb în lumina clară de iarnă; locul este perfect pentru fotografii fără mulțimile de turiști din vară.",
+                "en": "The Mosque's colors glow beautifully in the clear winter light; it is the perfect time for photos without the summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Catedral de la Asunción",
+                "hu": "Catedral de la Asunción",
+                "ro": "Catedral de la Asunción",
+                "en": "Catedral de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um sich im Inneren aufzuwärmen; die Kathedrale liegt windgeschützt und bietet eine angenehme Pause für Radfahrer.",
+                "hu": "Használja ki a megállót, hogy kicsit felmelegedjen bent; a katedrális szélvédett helyen van, kellemes pihenőt nyújtva a bringásoknak.",
+                "ro": "Profitați de oprire pentru a vă încălzi în interior; catedrala este protejată de vânt, oferind o pauză binemeritată bicicliștilor.",
+                "en": "Use this stop to warm up inside; the Cathedral is well-sheltered from the wind, offering a comfortable break for active cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Marítimo del Mediterráneo",
+                "hu": "Parque Marítimo del Mediterráneo",
+                "ro": "Parque Marítimo del Mediterráneo",
+                "en": "Parque Marítimo del Mediterráneo"
+              },
+              "tip_5lang": {
+                "de": "Auch ohne Badebetrieb ist die Anlage für Radfahrer sehenswert; die Wege sind im Winter trocken und sicher befahrbar.",
+                "hu": "Fürdőzés nélkül is érdemes körbetekerni; az utak télen szárazak és biztonságosak, a pálmák pedig ilyenkor is zöldellnek.",
+                "ro": "Chiar și fără scăldat, complexul merită vizitat pe bicicletă; aleile sunt uscate și sigure pentru pedalat în timpul iernii.",
+                "en": "Even without swimming, the complex is worth a visit by bike; the paths are dry and safe to ride during the mild winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Parroquia De San Francisco",
+                "hu": "Parroquia De San Francisco",
+                "ro": "Parroquia De San Francisco",
+                "en": "Parroquia De San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, warmen Moment am Nachmittag; schließen Sie Ihr Rad sicher an und genießen Sie die Stille.",
+                "hu": "A templom csendes, meleg pillanatot kínál délután; zárja le biztonságosan a bringát, és élvezze a belső tér nyugalmát.",
+                "ro": "Biserica oferă un moment de liniște și căldură după-amiaza; parcați bicicleta în siguranță și bucurați-vă de liniștea interioară.",
+                "en": "The church offers a peaceful, warm moment in the afternoon; lock your bike securely and enjoy the quiet spiritual atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento al Llano Amarillo",
+                "hu": "Monumento al Llano Amarillo",
+                "ro": "Monumento al Llano Amarillo",
+                "en": "Monumento al Llano Amarillo"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Monument vor 17 Uhr für den besten Ausblick; die Winterdämmerung am Hafen ist spektakulär, aber kühl.",
+                "hu": "Érkezzen a műemlékhez 17 óra előtt a legjobb kilátásért; a téli szürkület a kikötőnél látványos, de ilyenkor már hűvös a szél.",
+                "ro": "Ajungeți la monument înainte de ora 17:00 pentru cea mai bună vedere; amurgul de iarnă în port este spectaculos, dar rece.",
+                "en": "Reach the monument before 5 PM for the best views; the winter dusk at the harbor is spectacular but quickly turns chilly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós túrája kényelmesen indul a központban, időt hagyva a római romok felfedezésére. Délben felhajt a Monte Hachóra, a bájos remetelakhoz. A délután a hatalmas erődítmény és a két kontinensre nyíló legendás kilátás jegyében telik. Végül késő délután eléri a drámai fekvésű keleti tengerparti kastélyt.",
         "ro": "Turul cu mașina începe relaxant în centru, oferindu-vă timp pentru ruinele romane. La prânz, conduceți pe Monte Hacho către fermecătorul schit. După-amiaza este dedicată marii fortărețe și priveliștilor legendare asupra celor două continente. În cele din urmă, ajungeți după-amiaza târziu la impresionantul castel de coastă din est.",
         "en": "Your car tour starts relaxed in the center, giving you time for the Roman ruins. At midday, you drive up Monte Hacho to visit the charming hermitage. The afternoon is dedicated to exploring the grand fortress and enjoying legendary views of two continents. Finally, you reach the dramatically situated coastal castle in the east in the late afternoon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Ceuta trocken und bequem. Morgens bietet der Parador Schutz, gefolgt von der Basilika mit ihren archäologischen Schätzen. Mittags fahren wir zur Ermita de San Antonio, wo wir den Regen über dem Meer beobachten. Nachmittags besuchen wir die Festung und den Monte Hacho, sicher im Fahrzeug. Der Tag endet am Castillo, während die Wellen gegen die regennassen Felsen schlagen.",
+            "hu": "Autóval szárazon és kényelmesen fedezhetjük fel Ceutát az esős napon. Reggel a Parador kínál oltalmat, majd a bazilika régészeti kincseit látogatjuk meg. Délben a San Antonio remeteséghez hajtunk, figyelve a tenger feletti esőfelhőket. Délután a várat és a Monte Hachót érintjük a kocsi biztonságából. A nap a Castillo del Desnarigadónál zárul a morajló tenger mellett.",
+            "ro": "Cu mașina explorăm Ceuta confortabil și fără a ne uda. Dimineața începe la Parador, urmată de vizitarea Bazilicii. La prânz conducem spre Ermita de San Antonio, admirând spectacolul ploii deasupra mării. După-amiaza vizităm fortăreața și Monte Hacho, protejați în vehicul. Ziua se încheie la Castillo del Desnarigado, unde valurile se sparg de stâncile umede de ploaie.",
+            "en": "The car allows for a comfortable, dry exploration of Ceuta's coastal beauty. Morning at the Parador is followed by a visit to the indoor Basilica. At noon, we drive to Ermita de San Antonio to watch the rain clouds over the Strait. Afternoon highlights include the Fortress and Monte Hacho from the car's safety. The day ends at the Castillo with waves crashing against rainy cliffs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parador La Muralla",
+                "hu": "Parador La Muralla",
+                "ro": "Parador La Muralla",
+                "en": "Parador La Muralla"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken ins Innere zu gelangen; das Hotel bietet eine wunderbare Aussicht auf den Hafen im Regen.",
+                "hu": "Parkoljon közvetlenül a bejárat közelében, hogy szárazon jusson be; a szálloda kávézójából csodás kilátás nyílik az esős kikötőre.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în interior; hotelul oferă o vedere minunată asupra portului în timpul ploii.",
+                "en": "Park close to the entrance to reach the interior dry; the hotel's lounge offers a wonderful view of the rainy harbor below."
+              }
+            },
+            {
+              "name": {
+                "de": "Late Roman Basilica of Ceuta",
+                "hu": "Late Roman Basilica of Ceuta",
+                "ro": "Late Roman Basilica of Ceuta",
+                "en": "Late Roman Basilica of Ceuta"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei starkem Regen; das gesamte Areal ist überdacht, und Parkplätze finden sich in den umliegenden Straßen.",
+                "hu": "Tökéletes megálló erős esőben; az egész terület fedett, és a környező utcákban könnyen találhat parkolóhelyet a látogatáshoz.",
+                "ro": "O oprire perfectă în caz de ploaie torențială; întreaga zonă este acoperită, iar parcarea se găsește ușor pe străzile din jur.",
+                "en": "A perfect stop during heavy rain; the entire site is covered, and parking is usually available in the nearby streets for easy access."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de San Antonio",
+                "hu": "Ermita de San Antonio",
+                "ro": "Ermita de San Antonio",
+                "en": "Ermita de San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick aus dem Auto heraus, bevor Sie kurz zur Kapelle huschen; der Parkplatz ist oft windanfällig.",
+                "hu": "Élvezze a panorámát az autó ablakából, mielőtt beszaladna a kápolnába; a parkoló nagyon szeles lehet esős időben, vigyázzon az ajtónyitásnál.",
+                "ro": "Admirați panorama din mașină înainte de a merge rapid la capelă; parcarea este expusă vântului puternic în timpul furtunilor.",
+                "en": "Enjoy the panorama from your car before darting into the chapel; the parking area is very exposed to wind, so hold onto your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortaleza del Hacho",
+                "hu": "Fortaleza del Hacho",
+                "ro": "Fortaleza del Hacho",
+                "en": "Fortaleza del Hacho"
+              },
+              "tip_5lang": {
+                "de": "Das Befahren der kurvigen Bergstraße erfordert bei Nässe Vorsicht; die Festung wirkt im Nebel und Regen besonders mystisch.",
+                "hu": "A kanyargós hegyi út óvatosságot igényel vizes aszfalton; a vár a ködben és esőben különösen misztikus látványt nyújt az autóból.",
+                "ro": "Conducerea pe drumul sinuos de munte necesită atenție pe carosabil ud; fortăreața arată misterios prin ceață și ploaie.",
+                "en": "Driving the winding mountain road requires care in wet conditions; the fortress looks especially mystical through the mist and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Hacho",
+                "hu": "Monte Hacho",
+                "ro": "Monte Hacho",
+                "en": "Monte Hacho"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Fahrzeug und genießen Sie die Sicht auf die Straße von Gibraltar; die Fahrbahn kann rutschig sein.",
+                "hu": "Erős esőben maradjon a járműben, és onnan csodálja meg a Gibraltári-szorost; az úttest csúszós lehet a lehullott falevelek miatt.",
+                "ro": "Rămâneți în vehicul în caz de ploaie și admirați Strâmtoarea Gibraltar; carosabilul poate fi alunecos din cauza frunzelor ude.",
+                "en": "Stay in your vehicle during heavy rain to enjoy views of the Strait of Gibraltar; the road surface can be slippery with fallen debris."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Desnarigado",
+                "hu": "Castillo del Desnarigado",
+                "ro": "Castillo del Desnarigado",
+                "en": "Castillo del Desnarigado"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum im Inneren des Schlosses; der Parkplatz bietet einen dramatischen Blick auf das aufgewühlte Meer.",
+                "hu": "Látogassa meg a vár belső múzeumát, ahol szárazon maradhat; a parkolóból drámai kilátás nyílik a háborgó, szürke tengerre.",
+                "ro": "Vizitați muzeul din interiorul castelului pentru a rămâne la adăpost; parcarea oferă o vedere dramatică asupra mării agitate.",
+                "en": "Visit the museum inside the castle to stay dry; the parking area offers a dramatic vantage point for watching the stormy sea below."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Winterausflug mit dem Auto führt uns zu den besten Aussichtspunkten Ceutas. Morgens genießen wir die milde Luft am Parador, gefolgt von der Basilika. Mittags bietet die Fahrt zum Monte Hacho spektakuläre Fernsichten bei klarer Winterluft. Nachmittags besuchen wir die Festung, bevor wir gegen 17:00 Uhr den Sonnenuntergang erleben. Der Abend endet gemütlich, während die kühle Meeresbrise draußen bleibt.",
+            "hu": "A téli autós kirándulás Ceuta legszebb kilátópontjaihoz vezet. Reggel a Parador enyhe klímáját élvezzük, majd a bazilikát látogatjuk meg. Délben a Monte Hachóra vezető út tiszta téli levegőjében messzire ellátni. Délután a várat nézzük meg, mielőtt 17:00 körül szemtanúi leszünk a naplementének. Az este kényelmesen zárul, miközben a hűvös tengeri szél kint marad.",
+            "ro": "O excursie de iarnă cu mașina ne duce la cele mai frumoase puncte de belvedere din Ceuta. Dimineața ne bucurăm de aerul blând la Parador, urmat de Bazilică. La prânz, drumul spre Monte Hacho oferă vederi spectaculoase în aerul clar de iarnă. După-amiaza vizităm fortăreața, înainte de a vedea apusul la ora 17:00. Seara se încheie confortabil, protejați de briza rece.",
+            "en": "A winter car trip leads us to Ceuta's most stunning viewpoints. Morning at the Parador is followed by the ancient treasures of the Basilica. At noon, the drive up Monte Hacho offers spectacular clear-air views of Africa and Europe. Afternoon is spent at the Fortress, catching the early 5:00 PM sunset. The evening ends cozily as the cool Mediterranean breeze picks up outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parador La Muralla",
+                "hu": "Parador La Muralla",
+                "ro": "Parador La Muralla",
+                "en": "Parador La Muralla"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Hotelparkplatz für einen stressfreien Start; die Wintersonne ist perfekt für einen Kaffee im Patio vor der Weiterfahrt.",
+                "hu": "Használja a szálloda parkolóját a stresszmentes kezdéshez; a téli napsütés ideális egy kávéhoz a belső udvaron az indulás előtt.",
+                "ro": "Folosiți parcarea hotelului pentru un început fără stres; soarele de iarnă este perfect pentru o cafea în curte înainte de plecare.",
+                "en": "Use the hotel parking for a stress-free start; the winter sun is perfect for a quick coffee in the patio before you set off."
+              }
+            },
+            {
+              "name": {
+                "de": "Late Roman Basilica of Ceuta",
+                "hu": "Late Roman Basilica of Ceuta",
+                "ro": "Late Roman Basilica of Ceuta",
+                "en": "Late Roman Basilica of Ceuta"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter angenehm ruhig; parken Sie in der Nähe, um die kühle Brise vom Meer her zu vermeiden.",
+                "hu": "A múzeum télen kellemesen csendes; parkoljon a közelben, hogy elkerülje a tenger felől érkező hűvös és erős szeleket a séta közben.",
+                "ro": "Muzeul este plăcut de liniștit iarna; parcați în apropiere pentru a evita briza rece care vine dinspre mare în zona deschisă.",
+                "en": "The museum is pleasantly quiet in winter; park nearby to minimize exposure to the cool coastal breeze while walking to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de San Antonio",
+                "hu": "Ermita de San Antonio",
+                "ro": "Ermita de San Antonio",
+                "en": "Ermita de San Antonio"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf Gibraltar ist im Winter oft klarer; bringen Sie ein Fernglas mit und genießen Sie die Aussicht vom Parkplatz.",
+                "hu": "A kilátás Gibraltárra télen gyakran sokkal tisztább; vigyen magával távcsövet, és élvezze a panorámát közvetlenül a parkolóból.",
+                "ro": "Vederea spre Gibraltar este adesea mai clară iarna; aduceți un binoclu și bucurați-vă de panoramă direct din parcare.",
+                "en": "The view across to Gibraltar is often much clearer in winter; bring binoculars and enjoy the panorama directly from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortaleza del Hacho",
+                "hu": "Fortaleza del Hacho",
+                "ro": "Fortaleza del Hacho",
+                "en": "Fortaleza del Hacho"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch am frühen Nachmittag, wenn die Wintersonne die Mauern erwärmt; die Auffahrt bietet tolle Fotostopps.",
+                "hu": "Tervezze a látogatást kora délutánra, amikor a téli nap süti a falakat; a felfelé vezető út mentén több helyen is megállhat fotózni.",
+                "ro": "Planificați vizita la începutul după-amiezii, când soarele încălzește zidurile; drumul spre fortăreață are puncte de oprire superbe.",
+                "en": "Plan your visit for the early afternoon when the winter sun warms the stone walls; the drive up offers several great photo pull-offs."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Hacho",
+                "hu": "Monte Hacho",
+                "ro": "Monte Hacho",
+                "en": "Monte Hacho"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den frühen Winter-Sonnenuntergang um 17 Uhr; bleiben Sie für die Wärme im Auto, während der Himmel sich verfärbt.",
+                "hu": "Ideális helyszín a korai, 17 órai naplementéhez; maradjon a kocsiban a melegben, miközben az égbolt színesbe fordul a szoros felett.",
+                "ro": "Locul ideal pentru apusul devreme de la ora 17:00; rămâneți în mașină la căldură în timp ce cerul capătă nuanțe spectaculoase.",
+                "en": "An ideal spot for the early 5 PM winter sunset; stay in the warmth of your car while the sky turns brilliant colors over the Strait."
+              }
+            },
+            {
+              "name": {
+                "de": "Castillo del Desnarigado",
+                "hu": "Castillo del Desnarigado",
+                "ro": "Castillo del Desnarigado",
+                "en": "Castillo del Desnarigado"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie den Tag vor der Dunkelheit ab; die kurvige Küstenstraße ist im Winter am schönsten im letzten Tageslicht zu befahren.",
+                "hu": "Zárja a napot még sötétedés előtt; a kanyargós parti út télen az utolsó fényeknél a leglátványosabb és legbiztonságosabb.",
+                "ro": "Încheiați ziua înainte de lăsarea întunericului; drumul sinuos de coastă este cel mai frumos de parcurs în ultima lumină a zilei.",
+                "en": "Finish your visit before dark; the winding coastal road is most scenic and safest to drive during the last rays of the winter sun."
+              }
+            }
+          ]
+        }
       }
     }
   }

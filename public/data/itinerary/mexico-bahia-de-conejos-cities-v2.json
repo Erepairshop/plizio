@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a főbejáratnál, ráhangolódva a trópusi légkörre, mielőtt a Conejos aranyhomokos partjára lépne.\n\nDélben a csendes La Arena felé sétál, ahol nyugodt pihenésre és napozásra lel.\n\nA délután folyamán felfedezheti a Tejoncito sekély és szelíd vizét, amely tökéletes sznorkelezéshez.\n\nZárja gyalogos útját az eldugott Picuda strandon, figyelve a Csendes-óceán feletti égbolt lenyűgöző színjátékát.",
         "ro": "Începeți dimineața la intrarea principală, intrând în atmosfera tropicală înainte de a păși pe nisipurile aurii din Conejos.\n\nLa prânz, vă veți plimba spre liniștita La Arena, găsind un loc perfect pentru relaxare la soare.\n\nDupă-amiaza vă invită să descoperiți apele calme de la Tejoncito, ideale pentru explorări subacvatice.\n\nÎncheiați călătoria pe jos la izolata Picuda, privind cum cerul își schimbă culorile deasupra apelor Pacificului.",
         "en": "Start your morning at the main entrance, easing into the tropical atmosphere before stepping onto the vast golden sands of Conejos.\n\nBy midday, you'll wander along the shoreline to the serene La Arena, finding a quiet spot to relax.\n\nThe afternoon invites you to discover the gentle, shallow waters of Tejoncito.\n\nConclude your walking journey at the secluded Picuda, watching the sky change colors over the Pacific."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Start your wet coastal walk by gearing up with waterproof layers at the entrance. By midday, embrace the dramatic, moody atmosphere of the secluded bays. In the afternoon, watch the rain dance on the ocean surface from sheltered spots. End your day by warming up indoors as the heavy tropical showers roll over the dark Pacific coastline.",
+            "de": "Beginnen Sie Ihren nassen Küstenspaziergang mit wasserdichter Kleidung am Eingang. Genießen Sie mittags die dramatische, stimmungsvolle Atmosphäre der abgelegenen Buchten. Beobachten Sie nachmittags von geschützten Plätzen aus, wie der Regen auf dem Ozean tanzt. Wärmen Sie sich abends drinnen auf, während die Schauer über den dunklen Pazifik ziehen.",
+            "hu": "Kezdje a nedves parti sétát vízálló felszereléssel a bejáratnál. Délben élvezze a félreeső öblök drámai, borongós hangulatát. Délután figyelje meg védett helyekről, ahogy az esőcseppek táncolnak az óceán felszínén. Este melegedjen fel egy fedett helyen, miközben a heves trópusi záporok végigsöpörnek a sötét Csendes-óceán felett.",
+            "ro": "Începeți plimbarea de coastă pe ploaie cu echipament impermeabil la intrare. La prânz, bucurați-vă de atmosfera dramatică a golfurilor retrase. După-amiaza, priviți din locuri adăpostite cum ploaia dansează pe suprafața oceanului. Seara, încălziți-vă în interior în timp ce aversele tropicale trec peste Pacificul întunecat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Public Entrance to Playa Conejos",
+                "hu": "Public Entrance to Playa Conejos",
+                "ro": "Public Entrance to Playa Conejos",
+                "en": "Public Entrance to Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Begin your rainy trek here to admire the vibrant wet foliage, ensuring you wear sturdy slip-resistant shoes and a raincoat to navigate the muddy paths safely.",
+                "de": "Beginnen Sie hier Ihre nasse Wanderung zur üppigen Flora; tragen Sie rutschfeste Schuhe und Regenkleidung, um die rutschigen Wege sicher zu meistern.",
+                "hu": "Kezdje itt a nedves túrát a buja növényzet felfedezésére, de viseljen csúszásgátló cipőt és esőkabátot, hogy biztonságosan haladjon a síkos ösvényeken.",
+                "ro": "Începeți aici drumeția ploioasă pentru a vedea flora vibrantă, asigurându-vă că purtați pantofi antiderapanți și o pelerină pentru cărările noroioase."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Conejos",
+                "hu": "Playa Conejos",
+                "ro": "Playa Conejos",
+                "en": "Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Admire the powerful, majestic waves crashing against the rugged rocks in the rain, but stay well clear of the water's edge due to unpredictable slippery swells.",
+                "de": "Bewundern Sie die mächtigen Wellen an den Felsen, bleiben Sie aber wegen unberechenbarer, rutschiger Strömungen bei Regen unbedingt weit vom Wasserrand entfernt.",
+                "hu": "Csodálja meg a szikláknak csapódó hatalmas hullámokat, de a kiszámíthatatlan, csúszós áramlatok miatt maradjon biztonságos távolságban a víz szélétől.",
+                "ro": "Admirați valurile puternice care se sparg de stânci în ploaie, dar stați departe de marginea apei din cauza curenților alunecoși și imprevizibili."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Arena",
+                "hu": "Playa La Arena",
+                "ro": "Playa La Arena",
+                "en": "Playa La Arena"
+              },
+              "tip_5lang": {
+                "en": "This expansive sandy cove looks beautifully desolate under grey stormy skies; utilize the dense surrounding foliage for temporary shelter during sudden downpours.",
+                "de": "Die Bucht wirkt unter grauen Wolken wunderschön verlassen; nutzen Sie das dichte Laubgewächs als kurzzeitigen Schutz bei plötzlichen tropischen Regengüssen.",
+                "hu": "A homokos öböl gyönyörű és elhagyatott a szürke viharos ég alatt; használja a sűrű parti növényzetet átmeneti menedékként a hirtelen lezúduló záporok idején.",
+                "ro": "Acest golf nisipos arată superb sub cerul furtunos gri; folosiți frunzișul dens din jur ca adăpost temporar în timpul averselor tropicale bruște."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tejoncito",
+                "hu": "Playa Tejoncito",
+                "ro": "Playa Tejoncito",
+                "en": "Playa Tejoncito"
+              },
+              "tip_5lang": {
+                "en": "The gentle waters of this bay remain relatively calm even in bad weather, making it a perfectly safe and sheltered spot to appreciate the stormy coastal views.",
+                "de": "Das Wasser dieser Bucht bleibt auch bei schlechtem Wetter relativ ruhig, ideal als sicherer und geschützter Ort, um die stürmische Küstenaussicht zu genießen.",
+                "hu": "Az öböl vize rossz időben is viszonylag nyugodt marad, így tökéletesen biztonságos és védett helyszínt nyújt a viharos tengerparti kilátás élvezetéhez.",
+                "ro": "Apele blânde ale acestui golf rămân calme chiar și pe vreme rea, fiind un loc sigur și ferit pentru a aprecia priveliștile furtunoase de pe coastă."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Picuda",
+                "hu": "Playa Picuda",
+                "ro": "Playa Picuda",
+                "en": "Playa Picuda"
+              },
+              "tip_5lang": {
+                "en": "Conclude your wet walk by watching the spectacular stormy horizon over the ocean, taking extra care on the extremely slippery rocky outcrops as you seek shelter.",
+                "de": "Beenden Sie den Spaziergang mit Blick auf den stürmischen Horizont; seien Sie jedoch auf den extrem rutschigen Felsen vorsichtig, wenn Sie Schutz suchen.",
+                "hu": "Zárja a nedves sétát a viharos óceáni horizont megfigyelésével, de ügyeljen a rendkívül csúszós sziklakibúvásokra, miközben száraz menedéket keres.",
+                "ro": "Încheiați plimbarea privind orizontul furtunos peste ocean, având grijă sporită pe stâncile extrem de alunecoase în timp ce căutați un loc ferit de ploaie."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Start your winter morning with a brisk walk, enjoying the cool ocean breeze. Midday offers pleasant sunshine without the intense heat, perfect for exploring the hidden beaches. In the afternoon, watch the colors deepen as the sun begins its early descent. By 17:00, the evening sets in quickly, so bring an extra warm layer to stay comfortable by the dark shore.",
+            "de": "Beginnen Sie Ihren Wintermorgen mit einem flotten Spaziergang und einer kühlen Meeresbrise. Mittags scheint die Sonne angenehm ohne extreme Hitze, ideal für versteckte Strände. Nachmittags vertiefen sich die Farben, während die Sonne früh untergeht. Gegen 17:00 Uhr wird es dunkel; bringen Sie eine warme Schicht für den Abend am Strand mit.",
+            "hu": "Kezdje a téli reggelt egy frissítő sétával, élvezve a hűvös óceáni szellőt. Délben a kellemes napsütésben, tikkasztó hőség nélkül fedezheti fel a rejtett strandokat. Délután csodálja meg a mélyülő színeket a korai naplemente során. 17:00 óra körül gyorsan sötétedik, így mindenképp hozzon magával egy meleg réteget a hűvös estére.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare energică și briza răcoroasă a oceanului. La prânz, soarele plăcut, fără căldură toridă, este perfect pentru a explora plajele ascunse. După-amiaza, priviți culorile cum se intensifică odată cu apusul timpuriu. La 17:00 se întunecă repede, așa că luați un strat gros de haine pentru seară."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Public Entrance to Playa Conejos",
+                "hu": "Public Entrance to Playa Conejos",
+                "ro": "Public Entrance to Playa Conejos",
+                "en": "Public Entrance to Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Enter the coastal trail wearing a light sweater, as the winter mornings here are wonderfully crisp and chilly before the bright sun fully rises over the ocean.",
+                "de": "Betreten Sie den Pfad mit einem leichten Pullover, da die Wintermorgen hier herrlich frisch und kühl sind, bevor die strahlende Sonne vollständig aufgeht.",
+                "hu": "Vágjon neki a parti ösvénynek egy vékony pulóverben, mivel a téli reggelek csodálatosan frissek és csípősek, mielőtt a nap teljesen felkelne az óceán felett.",
+                "ro": "Intrați pe traseul de coastă purtând un pulover subțire, deoarece diminețile de iarnă sunt minunat de proaspete și reci înainte ca soarele să răsară."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Conejos",
+                "hu": "Playa Conejos",
+                "ro": "Playa Conejos",
+                "en": "Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Enjoy the gentle winter sun on this expansive pristine beach, easily avoiding the extreme heat of summer while you explore the long, relaxing sandy stretches.",
+                "de": "Genießen Sie die milde Wintersonne an diesem weiten Strand und entgehen Sie der extremen Sommerhitze, während Sie die entspannenden Sandflächen erkunden.",
+                "hu": "Élvezze a lágy téli napsütést ezen a tágas strandon, elkerülve a nyári hőséget, miközben kényelmesen felfedezi a hosszú, homokos partszakaszokat.",
+                "ro": "Bucurați-vă de soarele blând de iarnă pe această plajă vastă, evitând căldura extremă a verii în timp ce explorați malurile lungi și relaxante de nisip."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Arena",
+                "hu": "Playa La Arena",
+                "ro": "Playa La Arena",
+                "en": "Playa La Arena"
+              },
+              "tip_5lang": {
+                "en": "This peaceful spot is absolutely perfect for a midday winter picnic; the cooler ambient temperatures make relaxing right by the ocean water extremely comfortable.",
+                "de": "Dieser friedliche Ort ist perfekt für ein winterliches Picknick; die kühleren Temperaturen machen das Entspannen direkt am Meerwasser äußerst angenehm.",
+                "hu": "Ez a békés helyszín tökéletes egy déli téli piknikhez; a hűvösebb környezeti hőmérséklet rendkívül kényelmessé teszi a közvetlen vízparti pihenést.",
+                "ro": "Acest loc liniștit este absolut perfect pentru un picnic de iarnă la prânz; temperaturile mai reci fac relaxarea chiar lângă ocean extrem de confortabilă."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tejoncito",
+                "hu": "Playa Tejoncito",
+                "ro": "Playa Tejoncito",
+                "en": "Playa Tejoncito"
+              },
+              "tip_5lang": {
+                "en": "Take full advantage of the exceptionally mild afternoon to photograph the clear winter waters before the shadows from the rocks begin to lengthen rapidly.",
+                "de": "Nutzen Sie den milden Nachmittag, um das klare Winterwasser zu fotografieren, bevor die Schatten der Felsen an der Küste schnell länger und dunkler werden.",
+                "hu": "Használja ki az enyhe délutánt a tiszta téli vizek fotózására, mielőtt a környező sziklák árnyékai gyorsan megnyúlnának a közelgő naplemente miatt.",
+                "ro": "Profitați din plin de după-amiaza blândă pentru a fotografia apele limpezi de iarnă înainte ca umbrele stâncilor să se lungească rapid pe plajă."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Picuda",
+                "hu": "Playa Picuda",
+                "ro": "Playa Picuda",
+                "en": "Playa Picuda"
+              },
+              "tip_5lang": {
+                "en": "Arrive here just before 17:00 to catch the spectacular early winter sunset, but wrap up warm immediately afterwards as the coastal wind gets chilly very fast.",
+                "de": "Seien Sie kurz vor 17:00 Uhr hier für den frühen Sonnenuntergang, aber packen Sie sich danach warm ein, da der Küstenwind sehr schnell empfindlich kühl wird.",
+                "hu": "Érkezzen ide röviddel 17:00 óra előtt a lenyűgöző korai naplementéhez, de utána öltözzön fel melegen, mert a tengerparti szél nagyon gyorsan lehűl.",
+                "ro": "Ajungeți aici înainte de 17:00 pentru spectaculosul apus timpuriu, dar îmbrăcați-vă gros imediat după, deoarece vântul de coastă devine foarte rece rapid."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen el a főbejárattól a reggeli szellőben, hogy megcsodálhassa a Playa Conejos lenyűgöző látványát.\n\nA déli kerékpározás a festői part menti utakon a La Arena és a Tejoncito rejtett szikláihoz vezet.\n\nDélután fedezze fel a La Guerrilla vadabb hullámait és lenyűgöző tengerpartját.\n\nKétkerekes kalandja a tágas Tangolunda öbölben ér véget, amely kényelmes pihenési lehetőségeket kínál a naplementében.",
         "ro": "Pedalați de la intrarea publică în briza dimineții pentru a ajunge la priveliștile spectaculoase de la Playa Conejos.\n\nLa prânz, traseul vă duce pe cărările de coastă către La Arena și stâncile ascunse de la Tejoncito.\n\nDupă-amiaza, explorați valurile mai agitate și peisajul dramatic de la La Guerrilla.\n\nAventura pe bicicletă se încheie la Tangolunda, oferind confortul resorturilor de pe plajă la apus.",
         "en": "Pedal away from the Public Entrance in the morning breeze to reach the spectacular views of Playa Conejos.\n\nMidday riding takes you along the scenic coastal paths to La Arena and the hidden rocks of Tejoncito.\n\nIn the afternoon, explore the more rugged waves at the beautiful La Guerrilla cove.\n\nYour biking adventure concludes beautifully at the expansive Tangolunda, offering resort-side comforts at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Kick off your wet cycling tour carefully as the morning rain makes dirt roads slick. By noon, pedal cautiously between the scenic bays, wearing high-visibility waterproofs. In the afternoon, find covered spots to temporarily park your bike and watch the dramatic rainclouds. Evening cycling requires extra focus on muddy paths and slipping hazards under the dark tropical showers.",
+            "de": "Starten Sie Ihre nasse Radtour vorsichtig, da der Regen die unbefestigten Straßen rutschig macht. Radeln Sie mittags in wasserdichter, gut sichtbarer Kleidung. Suchen Sie nachmittags überdachte Plätze für Ihr Rad, um die Wolken zu beobachten. Abends erfordert das Radeln auf schlammigen Wegen besondere Konzentration bei dunklen Schauern.",
+            "hu": "Kezdje óvatosan a nedves kerékpártúrát, mert a reggeli eső csúszóssá teszi a földutakat. Délben láthatósági vízálló ruhában tekerjen az öblök között. Délután keressen fedett helyet a kerékpárnak, és figyelje a drámai felhőket. Este a saras ösvények miatt fokozott figyelem szükséges a sötét trópusi záporokban.",
+            "ro": "Începeți turul cu bicicleta cu atenție, ploaia de dimineață făcând drumurile de pământ alunecoase. La prânz, pedalați precaut purtând haine impermeabile vizibile. După-amiaza, găsiți locuri acoperite pentru bicicletă și priviți norii. Seara, ciclismul pe poteci noroioase necesită o concentrare maximă sub averse."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Public Entrance to Playa Conejos",
+                "hu": "Public Entrance to Playa Conejos",
+                "ro": "Public Entrance to Playa Conejos",
+                "en": "Public Entrance to Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Start your rainy ride here by the vibrant flora, ensuring your bike lights work and your thick tires are fully suited for wet, slippery coastal dirt paths.",
+                "de": "Starten Sie Ihre regnerische Fahrt an der Flora; prüfen Sie Ihre Lichter und stellen Sie sicher, dass die Reifen für rutschige Küstenwege geeignet sind.",
+                "hu": "Kezdje az esős utat a buja növényzetnél; ellenőrizze a lámpákat, és győződjön meg róla, hogy a gumik alkalmasak a csúszós parti földutakra.",
+                "ro": "Începeți cursa ploioasă lângă flora vibrantă, asigurându-vă că luminile merg și anvelopele sunt potrivite pentru cărările de coastă alunecoase și umede."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Conejos",
+                "hu": "Playa Conejos",
+                "ro": "Playa Conejos",
+                "en": "Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Keep your pedaling speed very low as you approach this beach; the wet heavy sand and sudden muddy puddles can make the final stretch surprisingly treacherous.",
+                "de": "Fahren Sie sehr langsam an diesen Strand heran; der nasse, schwere Sand und plötzliche schlammige Pfützen machen das letzte Stück überraschend tückisch.",
+                "hu": "Nagyon lassan közelítse meg ezt a strandot; a nedves, nehéz homok és a hirtelen sárpocsolyák meglepően veszélyessé tehetik a legutolsó szakaszt.",
+                "ro": "Păstrați viteza de pedalare foarte redusă la apropiere; nisipul ud și bălțile noroioase bruște pot face ultima porțiune surprinzător de periculoasă."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Arena",
+                "hu": "Playa La Arena",
+                "ro": "Playa La Arena",
+                "en": "Playa La Arena"
+              },
+              "tip_5lang": {
+                "en": "A quick necessary stop under the dense roadside trees offers respite from the rain, allowing you to wipe down your wet saddle before exploring the sandy cove.",
+                "de": "Ein kurzer Stopp unter den dichten Bäumen bietet Schutz vor dem Regen, sodass Sie Ihren nassen Sattel abwischen können, bevor Sie die Bucht erkunden.",
+                "hu": "A sűrű fák alatti gyors megálló menedéket nyújt az eső elől, így letörölheti a nedves nyerget, mielőtt gyalogosan felfedezné a homokos öblöt.",
+                "ro": "O scurtă oprire sub copacii deși oferă un răgaz de la ploaie, permițându-vă să ștergeți șaua udă înainte de a explora golful de nisip pe jos."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tejoncito",
+                "hu": "Playa Tejoncito",
+                "ro": "Playa Tejoncito",
+                "en": "Playa Tejoncito"
+              },
+              "tip_5lang": {
+                "en": "This curved scenic bay offers a safely sheltered view of the crashing rain; make sure your waterproof cycling gear is tightly zipped against the incoming wind.",
+                "de": "Diese geschwungene Bucht bietet einen sicheren Blick auf den prasselnden Regen; ziehen Sie Ihre Regenkleidung gegen den aufkommenden Wind fest zu.",
+                "hu": "Ez az íves öböl védett kilátást nyújt a zuhogó esőre; győződjön meg róla, hogy a vízálló kerékpáros felszerelése jól be van cipzározva a szél ellen.",
+                "ro": "Acest golf curbat oferă o priveliște adăpostită a ploii torențiale; asigurați-vă că echipamentul impermeabil este bine închis împotriva vântului."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Guerrilla",
+                "hu": "Playa La Guerrilla",
+                "ro": "Playa La Guerrilla",
+                "en": "Playa La Guerrilla"
+              },
+              "tip_5lang": {
+                "en": "Take extreme caution on the muddy descent to this secluded spot, as heavy tropical rain often washes loose dangerous rocks onto the main biking trail.",
+                "de": "Seien Sie beim schlammigen Abstieg zu diesem Ort extrem vorsichtig, da starker tropischer Regen oft lose, gefährliche Felsen auf den Radweg spült.",
+                "hu": "Legyen rendkívül óvatos a saras lejtőn ezen a félreeső helyen, mivel a heves trópusi eső gyakran mos laza, veszélyes köveket a fő kerékpárútra.",
+                "ro": "Atenție extremă la coborârea noroioasă spre acest loc izolat, deoarece ploaia tropicală abundentă spală adesea pietre periculoase pe traseul de biciclete."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tangolunda",
+                "hu": "Playa Tangolunda",
+                "ro": "Playa Tangolunda",
+                "en": "Playa Tangolunda"
+              },
+              "tip_5lang": {
+                "en": "Finish your wet ride at this wider bay where sturdy tourist shelters provide a great place to dry off your gear while watching the moody, turbulent ocean.",
+                "de": "Beenden Sie die Fahrt an dieser Bucht, wo stabile Unterstände einen tollen Ort bieten, um Ihre Ausrüstung zu trocknen und den stürmischen Ozean zu sehen.",
+                "hu": "Fejezze be a vizes utat ennél a szélesebb öbölnél, ahol a masszív pavilonok remek helyet nyújtanak a felszerelés szárítására a viharos óceán mellett.",
+                "ro": "Încheiați cursa umedă la acest golf mai larg, unde adăposturile turistice solide oferă un loc excelent pentru a usca echipamentul privind oceanul agitat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "A crisp winter morning is ideal for cycling along the coast without overheating. Midday brings bright, pleasant sunshine, perfect for pedaling between the expansive bays. In the afternoon, enjoy the golden hour lighting up the cliffs as you ride. Plan to finish by 17:00, as the early winter sunset brings rapidly dropping temperatures and low visibility on the roads.",
+            "de": "Ein frischer Wintermorgen ist ideal zum Radfahren an der Küste, ohne zu überhitzen. Mittags sorgt angenehmer Sonnenschein für perfekte Bedingungen. Genießen Sie nachmittags die goldene Stunde an den Klippen. Beenden Sie die Tour bis 17:00 Uhr, da die Temperaturen nach dem frühen Sonnenuntergang stark fallen und die Sicht schlechter wird.",
+            "hu": "A csípős téli reggel ideális a parti kerékpározáshoz túlhevülés nélkül. Délben a ragyogó, kellemes napsütés tökéletes az öblök közötti tekeréshez. Délután élvezze, ahogy az aranyóra megvilágítja a sziklákat. Tervezze a befejezést 17:00-ra, mert a korai sötétedéssel a hőmérséklet hirtelen esik és a látási viszonyok romlanak.",
+            "ro": "O dimineață de iarnă este ideală pentru a pedala pe coastă fără a vă supraîncălzi. Prânzul aduce un soare plăcut, perfect pentru ciclism între golfuri. După-amiaza, bucurați-vă de ora de aur care luminează stâncile. Finalizați traseul până la 17:00, deoarece apusul devreme aduce o scădere rapidă a temperaturilor și vizibilitate redusă."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Public Entrance to Playa Conejos",
+                "hu": "Public Entrance to Playa Conejos",
+                "ro": "Public Entrance to Playa Conejos",
+                "en": "Public Entrance to Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Start cycling in a comfortable light windbreaker; the cool winter morning air is refreshing but can be surprisingly biting near the exposed ocean trailhead.",
+                "de": "Starten Sie in einer leichten Windjacke; die kühle Wintermorgenluft ist erfrischend, kann aber in der Nähe des offenen Ozeans überraschend beißend sein.",
+                "hu": "Kezdje a tekerést egy könnyű széldzsekiben; a hűvös téli reggeli levegő frissítő, de meglepően csípős lehet a nyílt óceánhoz közeli kiindulóponton.",
+                "ro": "Începeți să pedalați într-o jachetă subțire de vânt; aerul rece de dimineață este răcoritor, dar poate fi surprinzător de aspru lângă ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Conejos",
+                "hu": "Playa Conejos",
+                "ro": "Playa Conejos",
+                "en": "Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Enjoy a wonderfully sweat-free ride down to this beautiful beach, taking full advantage of the mild winter sun for a comfortable and relaxing rest break.",
+                "de": "Genießen Sie eine herrlich schweißfreie Fahrt zu diesem wunderschönen Strand und nutzen Sie die milde Wintersonne für eine komfortable, entspannte Pause.",
+                "hu": "Élvezze a csodálatosan izzadságmentes utat le ehhez a gyönyörű strandhoz, kihasználva a lágy téli napsütést egy kényelmes és pihentető szünetre.",
+                "ro": "Bucurați-vă de o plimbare minunată fără transpirație până la această plajă frumoasă, profitând din plin de soarele blând de iarnă pentru o pauză relaxantă."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Arena",
+                "hu": "Playa La Arena",
+                "ro": "Playa La Arena",
+                "en": "Playa La Arena"
+              },
+              "tip_5lang": {
+                "en": "The sharp winter clarity makes the striking ocean colors pop; securely park your bike and walk the cool sand without ever burning your feet in the midday.",
+                "de": "Die winterliche Klarheit lässt die Meeresfarben leuchten; parken Sie Ihr Rad sicher und laufen Sie über den kühlen Sand, ohne sich die Füße zu verbrennen.",
+                "hu": "A téli tisztaság kiemeli az óceán élénk színeit; parkolja le biztonságosan a biciklit, és sétáljon a hűvös homokon anélkül, hogy megégetné a lábát délben.",
+                "ro": "Claritatea de iarnă scoate în evidență culorile oceanului; parcați bicicleta în siguranță și mergeți pe nisipul rece fără a vă arde tălpile la prânz."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tejoncito",
+                "hu": "Playa Tejoncito",
+                "ro": "Playa Tejoncito",
+                "en": "Playa Tejoncito"
+              },
+              "tip_5lang": {
+                "en": "The gentle cool breeze here is lovely during the winter months, making it a perfect spot to hydrate thoroughly before tackling the next steep coastal incline.",
+                "de": "Die sanfte kühle Brise ist hier im Winter herrlich; der perfekte Ort, um ausreichend Wasser zu trinken, bevor Sie die nächste steile Steigung in Angriff nehmen.",
+                "hu": "A lágy, hűvös szellő csodálatos itt a téli hónapokban, tökéletes helyszínt biztosítva a hidratálásra a következő meredek parti emelkedő leküzdése előtt.",
+                "ro": "Briza blândă și răcoroasă este minunată aici iarna, fiind locul perfect pentru a vă hidrata bine înainte de a aborda următoarea urcare abruptă de coastă."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Guerrilla",
+                "hu": "Playa La Guerrilla",
+                "ro": "Playa La Guerrilla",
+                "en": "Playa La Guerrilla"
+              },
+              "tip_5lang": {
+                "en": "Pedal carefully to this hidden bay as the afternoon shadows grow long; the winter sun sits much lower, sometimes causing blinding glare on the coastal trail.",
+                "de": "Radeln Sie vorsichtig zu dieser Bucht, da die Schatten länger werden; die tiefstehende Wintersonne blendet manchmal stark auf dem Küstenweg.",
+                "hu": "Tekerjen óvatosan ehhez a rejtett öbölhöz, ahogy a délutáni árnyékok megnyúlnak; az alacsony téli nap néha vakító csillogást okoz a parti kerékpárúton.",
+                "ro": "Pedalați cu atenție spre acest golf, pe măsură ce umbrele cresc; soarele de iarnă este mai jos, cauzând uneori o strălucire orbitoare pe traseul de coastă."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tangolunda",
+                "hu": "Playa Tangolunda",
+                "ro": "Playa Tangolunda",
+                "en": "Playa Tangolunda"
+              },
+              "tip_5lang": {
+                "en": "Arrive comfortably before the 17:00 sunset to enjoy the golden evening glow, making sure to bring an extra warm layer for your chilly ride back in the dark.",
+                "de": "Kommen Sie vor dem Sonnenuntergang um 17:00 Uhr an, um das goldene Abendlicht zu genießen, und ziehen Sie für die kühle Rückfahrt im Dunkeln etwas Warmes an.",
+                "hu": "Érkezzen kényelmesen a 17:00-s naplemente előtt, hogy élvezze az arany esti fényt, és feltétlenül vegyen fel egy meleg réteget a hűvös, sötét visszaútra.",
+                "ro": "Ajungeți confortabil înainte de apusul de la 17:00 pentru a vă bucura de lumina aurie, asigurându-vă că aveți un strat cald pentru drumul răcoros de întoarcere."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autózzon le a főbejárathoz, és kezdje a partvidék felfedezését egy csodás reggellel a Playa Conejos strandon.\n\nDélben könnyedén mozoghat autóval a festői La Arena és a sziklás Tejoncito öblök között.\n\nA délutáni autózás felfedi Picuda érintetlen szépségét és a La Guerrilla energikus hullámait.\n\nEste parkoljon le Tangolundában, és kényeztesse magát egy varázslatos naplementével a resortoknál.",
         "ro": "Conduceți până la intrarea publică pentru a începe explorarea coastei cu o dimineață perfectă la Playa Conejos.\n\nConduceți rapid între La Arena și priveliștile stâncoase de la Tejoncito în timpul prânzului.\n\nDupă-amiaza la volan vă dezvăluie frumusețea neatinsă a plajei Picuda și valurile puternice de la La Guerrilla.\n\nParcați seara la Tangolunda, răsfățându-vă cu un apus de soare de lux și o cină excelentă.",
         "en": "Drive down to the Public Entrance to start your coastal exploration with a pristine morning at Playa Conejos.\n\nDrive seamlessly between La Arena and Tejoncito at midday, enjoying the dramatic ocean viewpoints.\n\nThe afternoon drive reveals the untouched beauty of Picuda and the energetic surf of La Guerrilla.\n\nPark for the evening at Tangolunda, treating yourself to sunset luxury and a relaxing beachfront atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "en": "Start your rainy drive safely, ensuring your wipers are ready for sudden tropical downpours. By midday, cruise comfortably between bays, observing the wild, stormy sea from the dry comfort of your car. In the afternoon, make quick dashes to sheltered viewpoints with an umbrella. End the evening with a warm drink indoors as the heavy coastal rain heavily washes over the dark, slick winding roads.",
+            "de": "Starten Sie Ihre regnerische Fahrt sicher und prüfen Sie Ihre Scheibenwischer auf plötzliche Güsse. Fahren Sie mittags entspannt zwischen den Buchten und beobachten Sie das wilde Meer aus dem trockenen Auto. Machen Sie nachmittags kurze Ausflüge zu überdachten Aussichtspunkten. Beenden Sie den Abend drinnen, während der Regen die dunklen Straßen wäscht.",
+            "hu": "Kezdje biztonságosan a nedves vezetést, ellenőrizve az ablaktörlőket a hirtelen záporok miatt. Délben kényelmesen guruljon az öblök között, figyelve a viharos tengert a száraz autóból. Délután tegyen gyors esernyős sétákat a fedett kilátókhoz. Zárja az estét melegben, ahogy az eső mossa a sötét, csúszós szerpentineket.",
+            "ro": "Începeți condusul pe ploaie în siguranță, asigurându-vă că ștergătoarele fac față averselor tropicale. La prânz, conduceți confortabil între golfuri, observând marea furtunoasă din mașina uscată. După-amiaza, faceți scurte ieșiri cu umbrela spre puncte adăpostite. Încheiați seara la cald, în timp ce ploaia spală drumurile întunecate și alunecoase."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Public Entrance to Playa Conejos",
+                "hu": "Public Entrance to Playa Conejos",
+                "ro": "Public Entrance to Playa Conejos",
+                "en": "Public Entrance to Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Park carefully at the entrance to view the wet vibrant flora, ensuring your tires have good grip on the muddy asphalt before stepping out into the pouring rain.",
+                "de": "Parken Sie vorsichtig am Eingang zur Flora und stellen Sie sicher, dass Ihre Reifen auf dem schlammigen Asphalt guten Grip haben, bevor Sie in den Regen treten.",
+                "hu": "Parkoljon óvatosan a bejáratnál a nedves növényzet megtekintéséhez, ellenőrizve a gumik tapadását a saras aszfalton, mielőtt kiszállna a szakadó esőbe.",
+                "ro": "Parcați cu atenție la intrare pentru a vedea flora umedă, asigurându-vă că anvelopele au aderență pe asfaltul noroios înainte de a ieși în ploaia torențială."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Conejos",
+                "hu": "Playa Conejos",
+                "ro": "Playa Conejos",
+                "en": "Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Dash quickly from your parked car to the nearby covered palapas to watch the extremely impressive rainy surf without getting completely soaked by the showers.",
+                "de": "Laufen Sie schnell vom Auto zu den nahegelegenen überdachten Palapas, um die beeindruckende regnerische Brandung zu beobachten, ohne völlig durchnässt zu werden.",
+                "hu": "Fussanak gyorsan a parkoló autótól a közeli fedett pálmatetők alá, hogy teljesen elázás nélkül nézhessék meg a rendkívül lenyűgöző esős tengeri hullámverést.",
+                "ro": "Alergați rapid din mașină spre palapele acoperite din apropiere pentru a privi valurile ploioase impresionante fără a vă uda complet în timpul averselor."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Arena",
+                "hu": "Playa La Arena",
+                "ro": "Playa La Arena",
+                "en": "Playa La Arena"
+              },
+              "tip_5lang": {
+                "en": "The unpaved wet dirt road leading here can become dangerously muddy; drive slowly and use a large umbrella when you leave the warm vehicle to explore the sand.",
+                "de": "Der unbefestigte Weg hierher kann gefährlich schlammig werden; fahren Sie extrem langsam und nutzen Sie einen großen Regenschirm, wenn Sie das Auto verlassen.",
+                "hu": "Az ide vezető burkolatlan földút veszélyesen sarassá válhat; vezessen lassan, és használjon nagy esernyőt, amikor elhagyja a meleg járművet a homok felfedezésére.",
+                "ro": "Drumul de pământ care duce aici poate deveni periculos de noroios; conduceți încet și folosiți o umbrelă mare când părăsiți mașina pentru a explora nisipul."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tejoncito",
+                "hu": "Playa Tejoncito",
+                "ro": "Playa Tejoncito",
+                "en": "Playa Tejoncito"
+              },
+              "tip_5lang": {
+                "en": "Park safely facing the beautiful ocean to enjoy the dramatic stormy views right from your perfectly dry car seat, keeping the heater on for ultimate comfort.",
+                "de": "Parken Sie sicher mit Blick auf den Ozean, um die dramatische stürmische Aussicht direkt aus Ihrem trockenen Autositz bei eingeschalteter Heizung zu genießen.",
+                "hu": "Parkoljon biztonságosan az óceán felé fordulva, hogy egyenesen a tökéletesen száraz autóülésből élvezze a drámai viharos kilátást, bekapcsolva tartva a fűtést.",
+                "ro": "Parcați în siguranță cu fața spre ocean pentru a vă bucura de priveliștile furtunoase chiar din scaunul uscat al mașinii, pornind încălzirea pentru confort maxim."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Picuda",
+                "hu": "Playa Picuda",
+                "ro": "Playa Picuda",
+                "en": "Playa Picuda"
+              },
+              "tip_5lang": {
+                "en": "Heavy tropical rain can make the steep coastal curves treacherous, so drive with immense caution and briefly enjoy the moody atmosphere of this secluded rocky bay.",
+                "de": "Starker Regen macht die steilen Küstenkurven tückisch; fahren Sie mit größter Vorsicht und genießen Sie kurz die stimmungsvolle Atmosphäre der abgelegenen Bucht.",
+                "hu": "A heves eső veszélyessé teheti a meredek parti kanyarokat, ezért vezessen rendkívül óvatosan, és csak röviden élvezze ennek a rejtett öbölnek a borongós hangulatát.",
+                "ro": "Ploaia abundentă poate face curbele abrupte de coastă periculoase; conduceți cu prudență și bucurați-vă scurt de atmosfera melancolică a acestui golf izolat."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Guerrilla",
+                "hu": "Playa La Guerrilla",
+                "ro": "Playa La Guerrilla",
+                "en": "Playa La Guerrilla"
+              },
+              "tip_5lang": {
+                "en": "Leave your car only very briefly during a noticeable break in the heavy showers; the thoroughly wet vegetation around this hidden beach is incredibly vibrant.",
+                "de": "Verlassen Sie Ihr Auto nur ganz kurz in einer Regenpause; die völlig nasse Vegetation rund um diesen versteckten Strand leuchtet unglaublich intensiv.",
+                "hu": "Csak nagyon rövid időre hagyja el autóját a záporok szünetében; a rejtett strand körüli alaposan átnedvesedett növényzet esőben elképesztően élénk színű.",
+                "ro": "Părăsiți mașina doar pentru scurt timp în timpul unei pauze de ploaie; vegetația complet udă din jurul acestei plaje ascunse este incredibil de vibrantă."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tangolunda",
+                "hu": "Playa Tangolunda",
+                "ro": "Playa Tangolunda",
+                "en": "Playa Tangolunda"
+              },
+              "tip_5lang": {
+                "en": "Wrap up your scenic drive at this highly developed beach where you can easily find a completely dry, covered restaurant space to escape the dark evening downpour.",
+                "de": "Beenden Sie Ihre Fahrt an diesem ausgebauten Strand, wo Sie leicht ein völlig trockenes, überdachtes Restaurant finden, um dem dunklen Abendregen zu entkommen.",
+                "hu": "Zárja a festői utat ezen a jól kiépített strandon, ahol könnyedén találhat egy teljesen száraz, fedett éttermet, hogy menedéket leljen a sötét esti felhőszakadás elől.",
+                "ro": "Încheiați-vă traseul pitoresc la această plajă amenajată, unde puteți găsi ușor un restaurant uscat și acoperit pentru a scăpa de ploaia torențială de seară."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "en": "Set out on a crisp winter morning drive, enjoying the clear skies and comfortable car interior. Midday driving is a joy with the mild sun illuminating the coastal vistas without blinding heat. In the afternoon, watch the long shadows stretch across the beautiful bays. Plan to reach your final stop before the 17:00 sunset, as the winding coastal roads get completely dark and chilly fast.",
+            "de": "Brechen Sie an einem frischen Wintermorgen auf und genießen Sie die klare Sicht aus dem komfortablen Auto. Mittags ist das Fahren ein Genuss, da die milde Sonne die Küste ohne flirrende Hitze beleuchtet. Nachmittags werfen die Buchten lange Schatten. Erreichen Sie das letzte Ziel vor dem Sonnenuntergang um 17:00 Uhr, da die Küstenstraßen sehr schnell dunkel und kalt werden.",
+            "hu": "Induljon útnak egy csípős téli reggelen, élvezve a tiszta eget az autó kényelméből. A déli vezetés öröm, a lágy napfény forróság nélkül világítja meg a parti panorámát. Délután figyelje meg a gyönyörű öblökre vetülő hosszú árnyékokat. Érjen az utolsó megállóhoz a 17:00-s naplemente előtt, mert a kanyargós parti utak hamar teljesen sötétek és hűvösek lesznek.",
+            "ro": "Porniți la drum într-o dimineață de iarnă, bucurându-vă de cerul senin din confortul mașinii. Condusul la prânz este o bucurie, soarele blând luminând coasta fără căldură orbitoare. După-amiaza, priviți umbrele lungi întinzându-se peste golfuri. Ajungeți la destinația finală înainte de apusul de la 17:00, deoarece drumurile șerpuite se întunecă și se răcesc rapid."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Public Entrance to Playa Conejos",
+                "hu": "Public Entrance to Playa Conejos",
+                "ro": "Public Entrance to Playa Conejos",
+                "en": "Public Entrance to Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "Roll down the windows to let the crisp, highly refreshing winter air fill the car as you begin your incredibly scenic coastal drive down the beautiful coastline today.",
+                "de": "Öffnen Sie die Fenster, um die frische Winterluft ins Auto zu lassen, während Sie heute Ihre unglaublich malerische Küstenfahrt beginnen.",
+                "hu": "Húzza le az ablakokat, hogy a csípős, rendkívül frissítő téli levegő betöltse az autót, miközben ma megkezdi a lenyűgözően festői tengerparti utazását.",
+                "ro": "Deschideți geamurile pentru a lăsa aerul proaspăt de iarnă să umple mașina în timp ce începeți astăzi traseul pitoresc de-a lungul coastei frumoase."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Conejos",
+                "hu": "Playa Conejos",
+                "ro": "Playa Conejos",
+                "en": "Playa Conejos"
+              },
+              "tip_5lang": {
+                "en": "The noticeably mild winter temperatures make the short scenic walk from the parking area to the white sand extremely pleasant compared to the sweltering humid summer.",
+                "de": "Die milden Wintertemperaturen machen den kurzen Spaziergang vom Parkplatz zum weißen Sand im Vergleich zum schwülen Sommer extrem angenehm.",
+                "hu": "A kifejezetten enyhe téli hőmérséklet rendkívül kényelmessé teszi a rövid sétát a parkolóból a fehér homokig a tikkasztó, párás nyári hőséggel ellentétben.",
+                "ro": "Temperaturile blânde de iarnă fac scurta plimbare de la parcare spre nisipul alb extrem de plăcută în comparație cu vara umedă și toridă."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Arena",
+                "hu": "Playa La Arena",
+                "ro": "Playa La Arena",
+                "en": "Playa La Arena"
+              },
+              "tip_5lang": {
+                "en": "Take a perfectly comfortable midday stroll along the pristine beach, easily returning to your perfectly cool parked vehicle without ever suffering from overheating.",
+                "de": "Machen Sie mittags einen komfortablen Spaziergang am Strand und kehren Sie mühelos zu Ihrem kühlen Fahrzeug zurück, ohne jemals zu überhitzen.",
+                "hu": "Tegyen egy tökéletesen kényelmes déli sétát az érintetlen strandon, és térjen vissza a kellemesen hűvös parkoló járműbe anélkül, hogy valaha is túlhevülne.",
+                "ro": "Faceți o plimbare de prânz perfect confortabilă pe plajă, întorcându-vă cu ușurință la vehiculul parcat și răcoros fără a suferi vreodată de supraîncălzire."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tejoncito",
+                "hu": "Playa Tejoncito",
+                "ro": "Playa Tejoncito",
+                "en": "Playa Tejoncito"
+              },
+              "tip_5lang": {
+                "en": "Winter provides the absolute clearest coastal views; park here safely for a stunning panoramic photo op of the bay's turquoise waters perfectly contrasting the rocks.",
+                "de": "Der Winter bietet die klarste Küstensicht; parken Sie hier sicher für ein atemberaubendes Panoramafoto des türkisfarbenen Wassers als Kontrast zu den Felsen.",
+                "hu": "A tél biztosítja a legtisztább parti kilátást; parkoljon itt biztonságosan egy lenyűgöző panorámaképhez a sziklákkal kontrasztot alkotó türkizkék öbölről.",
+                "ro": "Iarna oferă cele mai clare priveliști de coastă; parcați aici în siguranță pentru o fotografie panoramică a apelor turcoaz ale golfului contrastând cu stâncile."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Picuda",
+                "hu": "Playa Picuda",
+                "ro": "Playa Picuda",
+                "en": "Playa Picuda"
+              },
+              "tip_5lang": {
+                "en": "The significantly lower winter sun can cause dangerous blinding glare on the windshield, so keep your sunglasses extremely handy as you navigate the sharp curves here.",
+                "de": "Die deutlich tiefer stehende Wintersonne kann auf der Windschutzscheibe stark blenden; halten Sie Ihre Sonnenbrille griffbereit für die scharfen Kurven hier.",
+                "hu": "A jóval alacsonyabban járó téli nap veszélyes, vakító csillogást okozhat a szélvédőn, ezért tartsa kéznél a napszemüvegét az itteni éles kanyarok bevételekor.",
+                "ro": "Soarele de iarnă mult mai jos poate cauza străluciri periculoase pe parbriz, deci țineți ochelarii de soare la îndemână când navigați curbele strânse aici."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Guerrilla",
+                "hu": "Playa La Guerrilla",
+                "ro": "Playa La Guerrilla",
+                "en": "Playa La Guerrilla"
+              },
+              "tip_5lang": {
+                "en": "Enjoy a serene late afternoon walk from your car; the cooler weather naturally means fewer crowds and a highly relaxing, completely undisturbed atmosphere by the waves.",
+                "de": "Genießen Sie einen ruhigen Spaziergang am späten Nachmittag; das kühlere Wetter bedeutet weniger Menschen und eine extrem entspannende Atmosphäre an den Wellen.",
+                "hu": "Élvezze a békés késő délutáni sétát az autótól; a hűvösebb idő kevesebb tömeget és rendkívül pihentető, teljesen zavartalan légkört jelent a hullámok mellett.",
+                "ro": "Bucurați-vă de o plimbare senină la sfârșitul după-amiezii; vremea rece înseamnă mai puțini oameni și o atmosferă extrem de relaxantă și netulburată lângă valuri."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tangolunda",
+                "hu": "Playa Tangolunda",
+                "ro": "Playa Tangolunda",
+                "en": "Playa Tangolunda"
+              },
+              "tip_5lang": {
+                "en": "Arrive comfortably just in time to safely park and watch the beautiful 17:00 winter sunset, keeping a warm thick jacket perfectly ready for the chilly evening breeze.",
+                "de": "Kommen Sie rechtzeitig an, um sicher zu parken und den Sonnenuntergang um 17:00 Uhr zu sehen; halten Sie eine warme, dicke Jacke für die kühle Abendbrise bereit.",
+                "hu": "Érkezzen kényelmesen épp időben a parkoláshoz és a gyönyörű 17:00-s téli naplemente megtekintéséhez, készenlétben tartva egy vastag meleg kabátot a hűvös esti szellőhöz.",
+                "ro": "Ajungeți la timp pentru a parca în siguranță și a privi apusul frumos de la 17:00, ținând pregătită o jachetă groasă și caldă pentru briza răcoroasă a serii."
+              }
+            }
+          ]
+        }
       }
     }
   }

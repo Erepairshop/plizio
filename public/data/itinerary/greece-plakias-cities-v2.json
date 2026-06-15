@@ -137,6 +137,168 @@
         "de": "Beginnen Sie Ihren Morgen mit der ruhigen Schönheit des Strandes von Skinos, bevor Sie den langen Sandstrand von Plakias entlangspazieren. Mittags geht es zu den historischen Ruinen von Koules mit herrlichem Meerblick. Verbringen Sie den Nachmittag am einzigartigen Paligremnos-Strand. Bewundern Sie abends die Klippen von Korifi im Sonnenuntergang.",
         "hu": "Kezdje a reggelt a Skinos strand nyugodt szépségével, majd sétáljon végig Plakias hosszú homokos partján. Délben látogasson el Koules történelmi romjaihoz, ahonnan csodás kilátás nyílik a tengerre. A délutánt a különleges Paligremnos strandon töltheti. Este csodálja meg a Korifi lenyűgöző szikláit, ahogy a naplemente fényében fürdenek.",
         "ro": "Începeți dimineața bucurându-vă de frumusețea liniștită a plajei Skinos, înainte de a vă plimba pe întinderea de nisip din Plakias. La amiază vizitați ruinele istorice ale Koules, cu vederi ample. Petreceți după-amiaza relaxându-vă la plaja inedită Paligremnos. Spre seară, admirați stâncile impunătoare de la Korifi strălucind în lumina apusului."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Tag mit einem Spaziergang entlang der dramatischen Küste, während der Regen die Felsen dunkler färbt. Mittags suchen Sie Schutz in einem gemütlichen Café im Dorfzentrum. Am Nachmittag erkunden Sie die Festungsruinen, die bei grauem Himmel besonders mystisch wirken. Abends genießen Sie die frische, feuchte Meeresluft bei einem letzten Blick auf die Brandung im Hafen.",
+            "hu": "Kezdje a reggelt a drámai partvonalon, ahol az eső mélyebbre festi a sziklákat. Délben keressen menedéket a falu egyik barátságos kávézójában. Délután a várromok felfedezése következik, amelyek szürke égbolt alatt különösen misztikusak. Este élvezze a friss, párás tengeri levegőt és a kikötői hullámverést egy esőkabátban.",
+            "ro": "Începeți dimineața cu o plimbare pe coasta dramatică, în timp ce ploaia accentuează culorile stâncilor. La prânz, căutați adăpost într-o cafenea primitoare din centru. După-amiaza este dedicată ruinelor cetății, care par mistice sub cerul gri. Seara, bucurați-vă de aerul proaspăt și umed al mării și de zgomotul valurilor în port.",
+            "en": "Start your morning with a walk along the dramatic coastline, where the rain deepens the colors of the rocks. At noon, seek shelter in a cozy village cafe. In the afternoon, explore the fortress ruins, which look particularly mystical under gray skies. In the evening, enjoy the fresh, humid sea air and the crashing waves in the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Skinos Beach",
+                "de": "Strand Skinos",
+                "hu": "Skinos strand",
+                "ro": "Plaja Skinos"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen aus sicherer Entfernung; tragen Sie wasserfeste Schuhe, da der Pfad bei Regen rutschig und schlammig wird.",
+                "hu": "Figyelje a drámai hullámokat biztonságos távolságból; viseljen vízálló cipőt, mert az ösvény csúszóssá és sárossá válik az esőben.",
+                "ro": "Priviți valurile dramatice de la o distanță sigură; purtați încălțăminte impermeabilă, deoarece poteca devine alunecoasă și noroioasă în timpul ploii.",
+                "en": "Watch the dramatic waves from a safe distance; use waterproof shoes as the path becomes slippery and muddy during rainfall."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Beach",
+                "de": "Strand Plakias",
+                "hu": "Plakias strand",
+                "ro": "Plaja Plakias"
+              },
+              "tip_5lang": {
+                "de": "Der lange Sandstrand wirkt im Nebel sehr atmosphärisch; suchen Sie unter den Markisen der Strandbars Schutz, falls der Regen plötzlich stärker wird.",
+                "hu": "A hosszú homokos part hangulatos a ködben; keressen ideiglenes menedéket a strandbárok előtetői alatt, ha az eső hirtelen felerősödne.",
+                "ro": "Plaja lungă de nisip pare atmosferică în ceață; căutați adăpost temporar sub copertinele barurilor de pe plajă dacă ploaia se intensifică brusc.",
+                "en": "The long sandy stretch looks atmospheric in the mist; seek temporary cover under the beach bar awnings if the downpour intensifies suddenly."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Koules",
+                "de": "Festung Koules Plakias",
+                "hu": "Plakias Koules erőd",
+                "ro": "Plakias Koules"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die alten Steinmauern, die Windschutz bieten; seien Sie auf den unebenen, nassen Steinen der Festungsruine jedoch äußerst vorsichtig.",
+                "hu": "Fedezze fel az ősi kőfalakat, amelyek némi szélvédelmet nyújtanak; legyen rendkívül óvatos a várrom egyenetlen, vizes és csúszós kövein.",
+                "ro": "Explorați zidurile vechi de piatră care oferă protecție împotriva vântului; fiți extrem de atenți pe pietrele denivelate și ude ale ruinelor cetății.",
+                "en": "Explore the ancient stone walls which provide some wind protection; be extremely careful on the uneven, wet stones of the fortress ruins."
+              }
+            },
+            {
+              "name": {
+                "en": "Paligremnos Beach (Nudist)",
+                "de": "Paligremnos Strand",
+                "hu": "Paligremnos strand",
+                "ro": "Plaja Paligremnos"
+              },
+              "tip_5lang": {
+                "de": "Die gewaltigen vertikalen Klippen sind in nassem Zustand beeindruckend; halten Sie Abstand zur Felskante, um bei Glätte nicht ins Meer zu rutschen.",
+                "hu": "A hatalmas függőleges sziklafalak lenyűgözőek, amikor vizesek; maradjon távol a sziklák szélétől, hogy elkerülje a megcsúszást a felkorbácsolt tengernél.",
+                "ro": "Stâncile verticale masive sunt impresionante când sunt ude; stați departe de marginea stâncilor pentru a evita alunecarea în marea agitată.",
+                "en": "The massive vertical cliffs are stunning when wet; stay away from the very edge of the rocks to avoid slipping into the churning sea."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Korifi (Paligremnos)",
+                "de": "Korifi Plakias",
+                "hu": "Plakias Korifi",
+                "ro": "Plakias Korifi"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Gipfel für einen stimmungsvollen Blick auf das stürmische Libysche Meer; ein hochwertiger Regenmantel ist für diesen Aufstieg unerlässlich.",
+                "hu": "Érjen fel a csúcsra a Líbiai-tenger feletti vihar látványáért; egy jó minőségű esőkabát elengedhetetlen ehhez a kitett, emelkedő sétához.",
+                "ro": "Ajungeți în vârf pentru o vedere atmosferică a furtunii peste Marea Libiei; o pelerină de ploaie de calitate este esențială pentru această urcare expusă.",
+                "en": "Reach the peak for a moody view of the storm over the Libyan Sea; a high-quality raincoat is essential for this exposed uphill walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die morgendliche Stille in der klaren Winterluft am Meer. Mittags wärmen Sie sich in einer der wenigen offenen Tavernen mit lokalem Bergtee auf. Nachmittags nutzen Sie das sanfte, tiefe Sonnenlicht für spektakuläre Fotos der Küstenlandschaft. Da die Sonne bereits gegen 17:00 Uhr untergeht, beenden Sie Ihren Spaziergang rechtzeitig vor der kühlen Abenddämmerung.",
+            "hu": "Élje át a reggeli csendet a tiszta téli levegőben a tengerparton. Délben melegedjen fel a kevés nyitva tartó taverna egyikében egy helyi hegyi teával. Délután használja ki a lágy, alacsony napfényt a tengerparti táj látványos fotózásához. Mivel a nap 17:00 körül lenyugszik, fejezze be a sétát még a hűvös esti szürkület beállta előtt.",
+            "ro": "Experimentați liniștea dimineții în aerul curat de iarnă de la malul mării. La prânz, încălziți-vă cu un ceai de munte local într-una dintre puținele taverne deschise. După-amiaza, profitați de lumina blândă a soarelui pentru fotografii spectaculoase. Deoarece soarele apune în jurul orei 17:00, încheiați plimbarea înainte de lăsarea serii răcoroase.",
+            "en": "Experience the morning silence in the crisp winter air by the sea. At noon, warm up with a local mountain tea in one of the few open taverns. In the afternoon, take advantage of the soft, low sunlight for spectacular photos of the coast. Since the sun sets around 17:00, finish your walk well before the chilly evening twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Skinos Beach",
+                "de": "Strand Skinos",
+                "hu": "Skinos strand",
+                "ro": "Plaja Skinos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den völlig menschenleeren Strand in der Wintersonne; tragen Sie winddichte Kleidung, da der Nordwind hier sehr kräftig wehen kann.",
+                "hu": "Élvezze a teljesen néptelen strandot a téli napsütésben; viseljen szélálló ruházatot, mivel az északi szél itt igen erősen fújhat.",
+                "ro": "Bucurați-vă de plaja complet pustie în soarele de iarnă; purtați haine rezistente la vânt, deoarece vântul de nord poate sufla destul de tare aici.",
+                "en": "Enjoy the completely deserted beach in the winter sun; wear windproof clothing as the northern wind can blow quite strongly here."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Beach",
+                "de": "Strand Plakias",
+                "hu": "Plakias strand",
+                "ro": "Plaja Plakias"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen langen Spaziergang auf dem festen Sand; die tiefstehende Sonne sorgt für lange Schatten und eine besondere Atmosphäre am weiten Ufer.",
+                "hu": "Ideális egy hosszú sétához a kemény homokon; az alacsonyan járó nap hosszú árnyékokat és különleges hangulatot teremt a tágas parton.",
+                "ro": "Ideal pentru o plimbare lungă pe nisipul întărit; soarele jos creează umbre lungi și o atmosferă specială pe țărmul vast.",
+                "en": "Ideal for a long walk on the firm sand; the low sun creates long shadows and a special atmosphere on the wide shore."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Koules",
+                "de": "Festung Koules Plakias",
+                "hu": "Plakias Koules erőd",
+                "ro": "Plakias Koules"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sicht bis zum Horizont; die Steine speichern tagsüber etwas Wärme, perfekt für eine kurze Rast in der Sonne.",
+                "hu": "A tiszta téli levegő messzi kilátást tesz lehetővé a horizontig; a kövek napközben tárolják a hőt, így tökéletesek egy rövid pihenőre a napon.",
+                "ro": "Aerul curat de iarnă permite o vizibilitate mare până la orizont; pietrele rețin puțină căldură în timpul zilei, perfect pentru un scurt popas la soare.",
+                "en": "The clear winter air allows for far-reaching views to the horizon; the stones store some heat during the day, perfect for a short rest in the sun."
+              }
+            },
+            {
+              "name": {
+                "en": "Paligremnos Beach (Nudist)",
+                "de": "Paligremnos Strand",
+                "hu": "Paligremnos strand",
+                "ro": "Plaja Paligremnos"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die glatten Felswände ohne die Sommerhitze; bringen Sie eine Thermoskanne mit, um das Meeresrauschen bei einem heißen Getränk zu genießen.",
+                "hu": "Csodálja meg a sima sziklafalakat a nyári hőség nélkül; vigyen magával termoszt, hogy egy forró ital mellett élvezhesse a tenger morajlását.",
+                "ro": "Admirați pereții netezi de stâncă fără arșița verii; aduceți un termos pentru a vă bucura de vuietul mării cu o băutură caldă.",
+                "en": "Admire the smooth rock faces without the summer heat; bring a thermos to enjoy the sound of the sea with a hot drink."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Korifi (Paligremnos)",
+                "de": "Korifi Plakias",
+                "hu": "Plakias Korifi",
+                "ro": "Plakias Korifi"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 17:00 Uhr von diesem Aussichtspunkt aus; steigen Sie sofort danach ab, da die Temperaturen rapide sinken.",
+                "hu": "Élje át a naplementét 17:00 körül erről a kilátópontról; közvetlenül utána induljon vissza, mert a hőmérséklet gyorsan csökkenni kezd.",
+                "ro": "Experimentați apusul în jurul orei 17:00 din acest punct de observație; coborâți imediat după, deoarece temperaturile scad rapid.",
+                "en": "Experience the sunset around 17:00 from this viewpoint; head back down immediately after, as temperatures drop rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "de": "Beginnen Sie Ihre Radtour im Landesinneren an der rustikalen Chatzis-Mühle und genießen Sie die Morgenbrise. Mittags radeln Sie zum Koules und dann hinunter zum Plakias-Strand. Ihr Nachmittag folgt der atemberaubenden Küste bis zur ruhigen Bucht von Fotinari. Lassen Sie den aktiven Tag am malerischen, von Palmen gesäumten Souda-Strand ausklingen.",
         "hu": "Kezdje kerékpártúráját a szárazföld belsejében a rusztikus Chatzis malomnál. Délben tekerjen el a Koules romjaihoz egy kis történelemért, majd guruljon le a Plakias strandra fürdeni. A délután a lenyűgöző partvonalat követi a békés Fotinari öbölig. Végül zárja ezt az aktív napot a festői, pálmafákkal övezett Souda strandon pihenve.",
         "ro": "Începeți turul cu bicicleta la moara rustică a lui Chatzis, bucurându-vă de briza dimineții. La prânz, pedalați spre Koules pentru istorie, apoi coborâți la plaja Plakias. După-amiaza urmează coasta uimitoare până la golful senin Fotinari. La final, încheiați-vă ziua activă relaxându-vă pe pitoreasca plajă Souda, mărginită de palmieri."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Radtour vorsichtig auf den glatten Straßen ins Hinterland. Mittags finden Sie in einem kleinen Dorf unter einem Vordach Schutz vor den Schauern. Nachmittags führt die Route zurück an die Küste, wo die salzige Gischt sich mit dem Regen vermischt. Abends beenden Sie die Tour im Hafen und wärmen sich nach der nassen Fahrt in einer Taverne auf.",
+            "hu": "Kezdje a kerékpártúrát óvatosan a csúszós utakon a hátország felé. Délben egy kis falu előtetője alatt találhat menedéket a záporok elől. Délután az útvonal visszavezet a partra, ahol a sós permet keveredik az esővel. Este fejezze be a túrát a kikötőben, és melegedjen fel egy tavernánál a vizes tekerés után.",
+            "ro": "Începeți turul cu bicicleta cu atenție pe drumurile alunecoase spre interior. La prânz, găsiți adăpost sub o copertină într-un sat mic. După-amiaza, traseul revine pe coastă, unde spray-ul sărat al mării se amestecă cu ploaia. Seara, încheiați turul în port și încălziți-vă la o tavernă după drumul umed.",
+            "en": "Start your bike tour carefully on the slippery roads leading inland. At noon, find shelter under a canopy in a small village during the showers. In the afternoon, the route leads back to the coast, where salty spray mixes with the rain. In the evening, end the tour at the harbor and warm up in a tavern after the wet ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Mill of Chatzis",
+                "de": "Chatzis-Mühle",
+                "hu": "Chatzis malom",
+                "ro": "Moara lui Chatzis"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung der Mühle kann sehr matschig sein; parken Sie Ihr Rad auf festem Grund und achten Sie auf rutschige Steine an den alten Ruinen.",
+                "hu": "A malom környéke nagyon sáros lehet; parkolja le a bringát szilárd talajon, és ügyeljen a csúszós kövekre a régi romoknál.",
+                "ro": "Zona morii poate fi foarte noroioasă; parcați bicicleta pe teren solid și aveți grijă la pietrele alunecoase de la vechile ruine.",
+                "en": "The area around the mill can be very muddy; park your bike on solid ground and watch out for slippery stones at the old ruins."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Koules",
+                "de": "Festung Koules Plakias",
+                "hu": "Plakias Koules erőd",
+                "ro": "Plakias Koules"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Mauern als Windschutz während eines Regenschauers; die Auffahrt zur Festung erfordert bei Nässe gute Reifenhaftung und Vorsicht.",
+                "hu": "Használja a vaskos falakat szélvédelemként egy zápor alatt; a várba vezető feljáró nedvesen jó tapadást és óvatosságot igényel.",
+                "ro": "Folosiți zidurile masive ca protecție împotriva vântului în timpul unei averse; urcarea spre cetate necesită aderență bună și atenție pe ud.",
+                "en": "Use the thick walls as wind protection during a rain shower; the climb to the fortress requires good tire grip and caution when wet."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Beach",
+                "de": "Strand Plakias",
+                "hu": "Plakias strand",
+                "ro": "Plaja Plakias"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf der befestigten Straße parallel zum Strand; der Sand ist bei Regen schwer befahrbar, bietet aber einen dramatischen Anblick der Brandung.",
+                "hu": "Haladjon a stranddal párhuzamos aszfaltozott úton; a homokon esőben nehéz tekerni, de a hullámverés látványa drámai.",
+                "ro": "Mergeți pe drumul asfaltat paralel cu plaja; nisipul este greu de parcurs pe ploaie, dar oferă o priveliște dramatică a valurilor.",
+                "en": "Ride on the paved road parallel to the beach; the sand is hard to cycle on in the rain, but it offers a dramatic view of the surf."
+              }
+            },
+            {
+              "name": {
+                "en": "Skinos Beach",
+                "de": "Strand Skinos",
+                "hu": "Skinos strand",
+                "ro": "Plaja Skinos"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, schöner Fotostopp im Regen; achten Sie beim Bremsen auf den nassen Kieselsteinen der Zufahrt, um nicht seitlich wegzurutschen.",
+                "hu": "Egy rövid, szép fotómegálló az esőben; ügyeljen a fékezésre a lehajtó vizes kavicsain, hogy elkerülje az oldalsó megcsúszást.",
+                "ro": "O oprire scurtă și frumoasă pentru poze pe ploaie; aveți grijă la frânare pe pietrișul ud de la intrare pentru a nu aluneca lateral.",
+                "en": "A short, beautiful photo stop in the rain; be careful when braking on the wet pebbles of the access path to avoid sliding sideways."
+              }
+            },
+            {
+              "name": {
+                "en": "Fotinari Beach",
+                "de": "Strand Fotinari",
+                "hu": "Fotinari strand",
+                "ro": "Plaja Fotinari"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Bucht ist bei grauem Himmel sehr friedlich; parken Sie das Rad sicher am Straßenrand, bevor Sie die steile Treppe hinuntergehen.",
+                "hu": "A kis öböl nagyon békés szürke égbolt mellett; parkolja le biztonságosan a bringát az út szélén, mielőtt lemenne a meredek lépcsőn.",
+                "ro": "Micul golf este foarte liniștit sub cerul gri; parcați bicicleta în siguranță la marginea drumului înainte de a coborî scările abrupte.",
+                "en": "The small cove is very peaceful under gray skies; park your bike safely at the roadside before heading down the steep stairs."
+              }
+            },
+            {
+              "name": {
+                "en": "Souda Beach",
+                "de": "Strand Souda",
+                "hu": "Souda strand",
+                "ro": "Plaja Souda"
+              },
+              "tip_5lang": {
+                "de": "Hier endet die Straße direkt am stürmischen Meer; nutzen Sie die überdachten Bereiche der geschlossenen Tavernen für eine kurze trockene Pause.",
+                "hu": "Itt az út közvetlenül a viharos tengernél ér véget; használja a zárt tavernák fedett részeit egy rövid, száraz pihenőre.",
+                "ro": "Aici drumul se termină chiar lângă marea agitată; folosiți zonele acoperite ale tavernelor închise pentru o scurtă pauză uscată.",
+                "en": "Here the road ends right by the stormy sea; use the covered areas of closed taverns for a short dry break."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare, kühle Morgenbrise auf den leeren Straßen rund um Plakias. Mittags radeln Sie gemütlich durch die schlafende Natur, während die Wintersonne die Landschaft sanft beleuchtet. Am Nachmittag erreichen Sie die abgelegenen Buchten, die nun ganz Ihnen gehören. Planen Sie Ihre Rückkehr vor 17:00 Uhr, da es nach Sonnenuntergang schnell sehr kalt wird.",
+            "hu": "Élvezze a tiszta, hűvös reggeli szellőt a Plakias környéki üres utakon. Délben tekerjen kényelmesen az alvó természetben, miközben a téli nap lágyan világítja meg a tájat. Délután érje el a távoli öblöket, amelyek most teljesen az Önöké. Tervezze a visszatérést 17:00 előtt, mert naplemente után gyorsan lehűl az idő.",
+            "ro": "Bucurați-vă de briza curată și răcoroasă a dimineții pe drumurile pustii din jurul Plakias. La prânz, pedalați relaxat prin natura adormită, în timp ce soarele de iarnă luminează blând peisajul. După-amiaza ajungeți la golfulurile retrase care acum vă aparțin. Planificați întoarcerea înainte de ora 17:00, deoarece se face frig repede după apus.",
+            "en": "Enjoy the clear, cool morning breeze on the empty roads around Plakias. At noon, cycle leisurely through sleeping nature as the winter sun gently illuminates the landscape. In the afternoon, reach the remote coves that are now all yours. Plan your return before 17:00, as it gets very cold quickly after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Mill of Chatzis",
+                "de": "Chatzis-Mühle",
+                "hu": "Chatzis malom",
+                "ro": "Moara lui Chatzis"
+              },
+              "tip_5lang": {
+                "de": "Die alte Mühle liegt im Winter sehr idyllisch im grünen Tal; tragen Sie Schichten, da es im Schatten der Hügel deutlich kühler ist als am Strand.",
+                "hu": "A régi malom télen nagyon idilli a zöld völgyben; öltözzön rétegesen, mert a dombok árnyékában sokkal hűvösebb van, mint a parton.",
+                "ro": "Moara veche este foarte idilică iarna în valea verde; purtați straturi de haine, deoarece la umbra dealurilor este mult mai răcoare decât pe plajă.",
+                "en": "The old mill is very idyllic in winter in the green valley; wear layers as it is much cooler in the shade of the hills than on the beach."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Koules",
+                "de": "Festung Koules Plakias",
+                "hu": "Plakias Koules erőd",
+                "ro": "Plakias Koules"
+              },
+              "tip_5lang": {
+                "de": "Die klare Sicht bietet fantastische Fotomotive der verschneiten Weißen Berge im Norden; bringen Sie warme Handschuhe für die kühle Abfahrt mit.",
+                "hu": "A tiszta látási viszonyok fantasztikus fotótémát kínálnak az északi havas Fehér-hegységről; vigyen meleg kesztyűt a hűvös lejtőzéshez.",
+                "ro": "Vizibilitatea clară oferă oportunități fantastice pentru poze cu Munții Albi înzăpeziți la nord; aduceți mănuși groase pentru coborârea răcoroasă.",
+                "en": "The clear visibility offers fantastic photo opportunities of the snowy White Mountains to the north; bring warm gloves for the cool descent."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Beach",
+                "de": "Strand Plakias",
+                "hu": "Plakias strand",
+                "ro": "Plaja Plakias"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die leere Strandstraße für eine entspannte Fahrt ohne Verkehr; die Wintersonne glitzert herrlich auf dem ruhigen, tiefblauen Wasser.",
+                "hu": "Használja ki az üres parti utat egy forgalommentes, pihentető tekeréshez; a téli nap gyönyörűen csillog a nyugodt, mélykék vízen.",
+                "ro": "Profitați de drumul pustiu de pe plajă pentru o plimbare relaxată fără trafic; soarele de iarnă sclipește superb pe apa liniștită și albastru închis.",
+                "en": "Take advantage of the empty beach road for a relaxed ride without traffic; the winter sun glitters beautifully on the calm, deep blue water."
+              }
+            },
+            {
+              "name": {
+                "en": "Skinos Beach",
+                "de": "Strand Skinos",
+                "hu": "Skinos strand",
+                "ro": "Plaja Skinos"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine kurze Pause; die Kieselsteine sind oft sauberer und glänzender nach den Winterstürmen, ideal für Naturliebhaber.",
+                "hu": "Csendes hely egy rövid pihenőre; a kavicsok gyakran tisztábbak és fényesebbek a téli viharok után, ideális a természet kedvelőinek.",
+                "ro": "Un loc liniștit pentru o scurtă pauză; pietrele sunt adesea mai curate și mai strălucitoare după furtunile de iarnă, ideal pentru iubitorii de natură.",
+                "en": "A quiet place for a short break; the pebbles are often cleaner and shinier after winter storms, ideal for nature lovers."
+              }
+            },
+            {
+              "name": {
+                "en": "Fotinari Beach",
+                "de": "Strand Fotinari",
+                "hu": "Fotinari strand",
+                "ro": "Plaja Fotinari"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Einsamkeit in dieser Felsenbucht; achten Sie auf den kalten Wind, der im Winter ungehindert in die kleinen Buchten weht.",
+                "hu": "Élvezze a teljes magányt ebben a sziklás öbölben; ügyeljen a hideg szélre, amely télen akadálytalanul fúj be a kis öblökbe.",
+                "ro": "Bucurați-vă de singurătatea absolută în acest golf stâncos; aveți grijă la vântul rece care suflă nestingherit în golfulețe iarna.",
+                "en": "Enjoy absolute solitude in this rocky cove; watch out for the cold wind that blows unimpeded into the small bays in winter."
+              }
+            },
+            {
+              "name": {
+                "en": "Souda Beach",
+                "de": "Strand Souda",
+                "hu": "Souda strand",
+                "ro": "Plaja Souda"
+              },
+              "tip_5lang": {
+                "de": "Das Ziel der Tour belohnt mit wilder Natur; machen Sie sich rechtzeitig auf den Rückweg, bevor das Licht gegen 16:30 Uhr zu schwinden beginnt.",
+                "hu": "A túra célpontja vad természettel jutalmaz; induljon vissza időben, mielőtt a fény 16:30 körül fogyni kezdene.",
+                "ro": "Destinația turului vă răsplătește cu natură sălbatică; porniți înapoi la timp înainte ca lumina să înceapă să scadă în jurul orei 16:30.",
+                "en": "The tour destination rewards you with wild nature; head back in time before the light begins to fade around 16:30."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "de": "Ihre Fahrt entlang der Küste beginnt am Souda-Strand, ideal für ein morgendliches Bad. Fahren Sie weiter nach Fotinari und besuchen Sie mittags die bezaubernde Chatzis-Mühle. Erkunden Sie am Nachmittag die Festung Koules und die hoch aufragenden Paligremnos-Klippen. Beenden Sie Ihr Abenteuer in Kalypso mit einem Sprung in den dramatischen Fjord.",
         "hu": "Autós utazása a Souda strandon kezdődik, amely tökéletes egy reggeli frissítő csobbanáshoz. Folytassa útját Fotinari felé, majd délben látogasson el a bájos Chatzis malomhoz. Délután fedezze fel a Koules erődöt és a Paligremnos szikláit. Kalandját a Kalypso üdülőhelyen fejezheti be, elmerülve a drámai sziklás fjord szépségében.",
         "ro": "Călătoria cu mașina începe la plaja Souda, perfectă pentru o baie matinală revigorantă. Continuați spre Fotinari, iar la prânz vizitați fermecătoarea moară Chatzis. După-amiaza, explorați fortăreața Koules și stâncile falnice de la Paligremnos. Încheiați aventura la Kalypso, bucurându-vă de peisajul dramatic al fiordului stâncos la apus."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Autotour entspannt und genießen Sie den Blick auf das aufgewühlte Meer durch die Windschutzscheibe. Mittags machen Sie Halt in einer gemütlichen Bergtaverne, wo der Kamin bereits brennt. Nachmittags erkunden Sie die Aussichtspunkte, während die Wolken tief über den Hügeln hängen. Abends kehren Sie sicher nach Plakias zurück und beobachten den Regen im Hafen.",
+            "hu": "Kezdje az autós túrát kényelmesen, és élvezze a felkorbácsolt tenger látványát a szélvédő mögül. Délben álljon meg egy barátságos hegyi tavernánál, ahol már ég a kandalló. Délután fedezze fel a kilátópontokat, miközben a felhők alacsonyan lógnak a dombok felett. Este térjen vissza biztonságban Plakiasba, és figyelje az esőt a kikötőben.",
+            "ro": "Începeți turul cu mașina relaxat și bucurați-vă de vederea mării agitate prin parbriz. La prânz, opriți-vă la o tavernă de munte primitoare, unde șemineul este deja aprins. După-amiaza, explorați punctele de observație în timp ce norii atârnă jos peste dealuri. Seara, întoarceți-vă în siguranță în Plakias și priviți ploaia în port.",
+            "en": "Start your car tour relaxed and enjoy the view of the churning sea through the windshield. At noon, stop at a cozy mountain tavern where the fireplace is already lit. In the afternoon, explore the viewpoints while the clouds hang low over the hills. In the evening, return safely to Plakias and watch the rain in the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Souda Beach",
+                "de": "Strand Souda",
+                "hu": "Souda strand",
+                "ro": "Plaja Souda"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die gewaltige Brandung direkt vom warmen Auto aus; die Gischt kann bei starkem Wind bis auf den Parkplatz peitschen.",
+                "hu": "Figyelje a hatalmas hullámverést közvetlenül a meleg autóból; a sós permet erős szélben egészen a parkolóig eljuthat.",
+                "ro": "Priviți valurile imense direct din mașina caldă; spuma mării poate ajunge până în parcare în caz de vânt puternic.",
+                "en": "Watch the massive surf directly from the warm car; the spray can whip all the way to the parking lot in strong winds."
+              }
+            },
+            {
+              "name": {
+                "en": "Fotinari Beach",
+                "de": "Strand Fotinari",
+                "hu": "Fotinari strand",
+                "ro": "Plaja Fotinari"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Fotostopp von der Straße aus; parken Sie vorsichtig, da der Seitenstreifen bei starkem Regen instabil oder rutschig sein kann.",
+                "hu": "Tökéletes fotómegálló az útról; parkoljon óvatosan, mert az útpadka heves esőzéskor instabil vagy csúszós lehet.",
+                "ro": "O oprire perfectă pentru poze de pe drum; parcați cu atenție deoarece acostamentul poate fi instabil sau alunecos pe ploaie torențială.",
+                "en": "A perfect photo stop from the road; park carefully as the roadside may be unstable or slippery during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "en": "Mill of Chatzis",
+                "de": "Chatzis-Mühle",
+                "hu": "Chatzis malom",
+                "ro": "Moara lui Chatzis"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann schlammig sein, bleiben Sie auf dem befestigten Weg; die Ruinen wirken im Regen besonders antik und geheimnisvoll.",
+                "hu": "A lehajtó sáros lehet, maradjon a szilárd burkolatú úton; a romok esőben különösen antiknak és titokzatosnak tűnnek.",
+                "ro": "Accesul poate fi noroios, rămâneți pe drumul pavat; ruinele par deosebit de antice și misterioase pe ploaie.",
+                "en": "The access may be muddy, stay on the paved path; the ruins look particularly ancient and mysterious in the rain."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Koules",
+                "de": "Festung Koules Plakias",
+                "hu": "Plakias Koules erőd",
+                "ro": "Plakias Koules"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Bucht im Regen ist dramatisch; achten Sie beim Aussteigen auf den starken Wind, der hier oben oft heftige Böen bringt.",
+                "hu": "A kilátás az öbölre az esőben drámai; kiszálláskor ügyeljen az erős szélre, amely itt fent gyakran heves széllökéseket okoz.",
+                "ro": "Vederea asupra golfului pe ploaie este dramatică; aveți grijă la vântul puternic când coborâți din mașină, deoarece aici sunt rafale dese.",
+                "en": "The view of the bay in the rain is dramatic; watch out for the strong wind when getting out of the car, as there are often heavy gusts up here."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Korifi (Paligremnos)",
+                "de": "Korifi Plakias",
+                "hu": "Plakias Korifi",
+                "ro": "Plakias Korifi"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Blick auf die aufgewühlte See; bleiben Sie im Auto, falls es blitzt, und genießen Sie das Naturschauspiel in Sicherheit.",
+                "hu": "Spektakuláris kilátás a felkavart tengerre; villámlás esetén maradjon az autóban, és élvezze a természet látványosságát biztonságban.",
+                "ro": "O vedere spectaculoasă a mării agitate; rămâneți în mașină în caz de fulgere și bucurați-vă de spectacolul naturii în siguranță.",
+                "en": "A spectacular view of the churning sea; stay in the car if there is lightning and enjoy the natural spectacle in safety."
+              }
+            },
+            {
+              "name": {
+                "en": "Kalypso Cretan Village",
+                "de": "Kalypso Cretan Village",
+                "hu": "Kalypso krétai falu",
+                "ro": "Kalypso Cretan Village"
+              },
+              "tip_5lang": {
+                "de": "Die enge Schlucht ist bei Regen ein beeindruckender Anblick; fahren Sie die Serpentinen langsam hinunter, da Steinschlag bei Nässe möglich ist.",
+                "hu": "A szűk szurdok esőben lenyűgöző látvány; ereszkedjen le lassan a szerpentineken, mert esőben kőomlás fordulhat elő.",
+                "ro": "Cheile înguste sunt o priveliște impresionantă pe ploaie; coborâți încet pe serpentine, deoarece pot apărea căderi de pietre pe ud.",
+                "en": "The narrow gorge is an impressive sight in the rain; descend the serpentines slowly as rockfall is possible when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die morgendliche Fahrt durch die friedliche Winterlandschaft bei bester Fernsicht. Mittags wärmen Sie sich in einem der urigen Bergdörfer bei einem deftigen kretischen Eintopf. Am Nachmittag erleben Sie das spektakuläre Licht der tiefstehenden Sonne an der Küste. Beenden Sie Ihre Tour rechtzeitig vor 17:00 Uhr, um den malerischen Sonnenuntergang sicher zu erreichen.",
+            "hu": "Élvezze a reggeli autózást a békés téli tájon, kiváló látási viszonyok mellett. Délben melegedjen fel az egyik hegyi faluban egy kiadós krétai egytálétellel. Délután élje át az alacsonyan járó nap spektakuláris fényeit a parton. Fejezze be a túrát időben 17:00 előtt, hogy biztonságosan elérje a festői naplementét.",
+            "ro": "Bucurați-vă de drumul de dimineață prin peisajul liniștit de iarnă, cu vizibilitate maximă. La prânz, încălziți-vă într-un sat de munte cu o mâncare cretană consistentă. După-amiaza, experimentați lumina spectaculoasă a soarelui jos pe coastă. Încheiați turul la timp înainte de ora 17:00 pentru a vedea apusul pitoresc.",
+            "en": "Enjoy the morning drive through the peaceful winter landscape with excellent visibility. At noon, warm up in a mountain village with a hearty Cretan stew. In the afternoon, experience the spectacular light of the low sun on the coast. Finish your tour in time before 17:00 to safely catch the picturesque sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "en": "Souda Beach",
+                "de": "Strand Souda",
+                "hu": "Souda strand",
+                "ro": "Plaja Souda"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter herrlich einsam und weit; die Palmen am Bachlauf bilden einen schönen Kontrast zum klaren, kühlen Winterhimmel.",
+                "hu": "A strand télen csodálatosan magányos és tágas; a patak menti pálmák szép kontrasztot alkotnak a tiszta, hűvös téli égbolttal.",
+                "ro": "Plaja este minunat de solitară și vastă iarna; palmierii de lângă pârâu formează un contrast frumos cu cerul curat și rece de iarnă.",
+                "en": "The beach is wonderfully lonely and vast in winter; the palms along the stream form a beautiful contrast with the clear, cool winter sky."
+              }
+            },
+            {
+              "name": {
+                "en": "Fotinari Beach",
+                "de": "Strand Fotinari",
+                "hu": "Fotinari strand",
+                "ro": "Plaja Fotinari"
+              },
+              "tip_5lang": {
+                "de": "Das türkisfarbene Wasser wirkt im harten Winterlicht besonders intensiv; ein kurzer Stopp für ein paar Landschaftsaufnahmen lohnt sich jetzt besonders.",
+                "hu": "A türkizkék víz a kemény téli fényben különösen intenzívnek tűnik; egy rövid megálló néhány tájkép kedvéért most különösen megéri.",
+                "ro": "Apa turcoaz pare deosebit de intensă în lumina aspră de iarnă; o scurtă oprire pentru câteva poze de peisaj merită din plin acum.",
+                "en": "The turquoise water looks particularly intense in the harsh winter light; a short stop for a few landscape shots is especially worth it now."
+              }
+            },
+            {
+              "name": {
+                "en": "Mill of Chatzis",
+                "de": "Chatzis-Mühle",
+                "hu": "Chatzis malom",
+                "ro": "Moara lui Chatzis"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Mühle in der sanften Mittagssonne; die umliegenden Felder sind nach den ersten Winterregen oft herrlich grün und frisch.",
+                "hu": "Látogassa meg a malmot a lágy déli napsütésben; a környező mezők az első téli esők után gyakran gyönyörűen zöldek és frissek.",
+                "ro": "Vizitați moara în soarele blând de la prânz; câmpurile din jur sunt adesea verzi și proaspete după primele ploi de iarnă.",
+                "en": "Visit the mill in the gentle noon sun; the surrounding fields are often beautifully green and fresh after the first winter rains."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Koules",
+                "de": "Festung Koules Plakias",
+                "hu": "Plakias Koules erőd",
+                "ro": "Plakias Koules"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist unschlagbar, oft sieht man die Konturen von Gavdos; packen Sie eine warme Jacke ein, da es hier oben windig ist.",
+                "hu": "A téli kilátás verhetetlen, gyakran látni Gavdos körvonalait; vigyen meleg kabátot, mert itt fent mindig fúj a szél.",
+                "ro": "Vizibilitatea iarna este imbatabilă, adesea se văd contururile insulei Gavdos; luați o jachetă groasă, deoarece aici sus bate vântul.",
+                "en": "The winter visibility is unbeatable, you can often see the contours of Gavdos; pack a warm jacket as it is windy up here."
+              }
+            },
+            {
+              "name": {
+                "en": "Plakias Korifi (Paligremnos)",
+                "de": "Korifi Plakias",
+                "hu": "Plakias Korifi",
+                "ro": "Plakias Korifi"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für den Sonnenuntergang gegen 17:00 Uhr; das goldene Licht auf den Klippen ist im Winter besonders weich und fotogen.",
+                "hu": "Ideális hely a naplemente megtekintéséhez 17:00 körül; az aranyló fény a sziklákon télen különösen lágy és fotogén.",
+                "ro": "Locul ideal pentru apusul soarelui în jurul orei 17:00; lumina aurie pe stânci este deosebit de blândă și fotogenă iarna.",
+                "en": "The ideal place for sunset around 17:00; the golden light on the cliffs is particularly soft and photogenic in winter."
+              }
+            },
+            {
+              "name": {
+                "en": "Kalypso Cretan Village",
+                "de": "Kalypso Cretan Village",
+                "hu": "Kalypso krétai falu",
+                "ro": "Kalypso Cretan Village"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bizarren Felsformationen ohne den Trubel; die tiefe Sonne wirft dramatische Schatten in den fjordähnlichen Meerzugang.",
+                "hu": "Csodálja meg a bizarr sziklaalakzatokat a tömeg nélkül; az alacsony nap drámai árnyékokat vet a fjordszerű tengeröbölbe.",
+                "ro": "Admirați formațiunile stâncoase bizare fără aglomerație; soarele jos aruncă umbre dramatice în accesul la mare asemănător unui fiord.",
+                "en": "Admire the bizarre rock formations without the crowds; the low sun casts dramatic shadows into the fjord-like sea access."
+              }
+            }
+          ]
+        }
       }
     }
   }

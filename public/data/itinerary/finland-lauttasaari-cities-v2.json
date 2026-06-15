@@ -183,6 +183,224 @@
         "hu": "A nap spirituális és történelmi jegyben indul. A modern templomtól az elegáns kúriáig sétálhat.\nDélben elmerül a helyi művészeti életben. A galériák és kis múzeumok bőséges inspirációt kínálnak a folytatáshoz.\nDélután a gondozott parkok nyugalmát élvezheti. A sziget buja növényzete éles kontrasztot alkot a várossal.\nAz este a tengerparton ér véget. A déli parkban régi erődítmények mellett sétálva hallgathatja a hullámokat.",
         "ro": "Ziua începe spiritual și istoric. Veți merge de la biserica modernă până la conacul elegant al insulei.\nLa prânz vă scufundați în scena artistică. Galeriile și muzeele mici vă oferă o abundență de inspirație creativă.\nDupă-amiaza vă bucurați de liniște în parcuri. Verdeața bogată formează un contrast minunat cu agitația urbană.\nSeara se încheie la malul mării. În parcul sudic vă veți plimba pe lângă fortificații vechi ascultând valurile.",
         "en": "The day begins with a blend of spirit and history. You will walk from the modern church to the elegant manor.\nBy midday, you immerse yourself in the local art scene. The galleries and small museums offer plenty of inspiration.\nIn the afternoon, enjoy the tranquility of the lush parks. The island's greenery is a lovely contrast to city life.\nYour evening concludes by the sea. In the southern park, you will stroll past old fortifications while listening to the waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Schutz der modernen Kirche. Mittags bieten das Herrenhaus und die Galerien trockene Zuflucht für Kulturfreunde. Nachmittags erleben Sie die raue Schönheit der Ostsee in den Parks; die Gischt vermischt sich dramatisch mit dem Regen. Abends leuchten die Lichter der Insel auf dem nassen Asphalt, während Sie unter Ihrem Schirm die frische, feuchte Meeresluft genießen.",
+            "hu": "Kezdje a napot a modern templom oltalmában. Délben a kúria és a galériák nyújtanak száraz menedéket a kultúra kedvelőinek. Délután tapasztalja meg a Balti-tenger nyers szépségét a parkokban; a tenger permete drámaian keveredik az esővel. Este a sziget fényei megcsillannak a vizes aszfalton, miközben az esernyő alatt élvezi a friss, párás tengeri levegőt.",
+            "ro": "Începeți ziua sub protecția bisericii moderne. La prânz, conacul și galeriile oferă refugiu uscat pentru iubitorii de cultură. După-amiaza, experimentați frumusețea crudă a Mării Baltice în parcuri; stropii mării se amestecă dramatic cu ploaia. Seara, luminile insulei strălucesc pe asfaltul umed, în timp ce vă bucurați de aerul proaspăt și umed al mării sub umbrelă.",
+            "en": "Start your day under the protection of the modern church. At noon, the manor and galleries offer dry refuge for culture lovers. In the afternoon, experience the raw beauty of the Baltic Sea in the parks; the sea spray mixes dramatically with the rain. In the evening, the island lights glisten on the wet asphalt as you enjoy the fresh, humid sea air under your umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lauttasaaren kirkko",
+                "hu": "Lauttasaaren kirkko",
+                "ro": "Lauttasaaren kirkko",
+                "en": "Lauttasaaren kirkko"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markante Architektur vom trockenen Innenraum aus; der Regen verstärkt die besinnliche Stille der Kirche. Tragen Sie rutschfeste Schuhe auf den Stufen.",
+                "hu": "Csodálja meg a markáns építészetet a száraz belső térből; az eső csak fokozza a templom elmélyült csendjét. Viseljen csúszásmentes cipőt a lépcsőkön.",
+                "ro": "Admirați arhitectura izbitoare din interiorul uscat; ploaia sporește liniștea contemplativă a bisericii. Purtați pantofi antiderapanți pe treptele de la intrare.",
+                "en": "Admire the striking architecture from the dry interior; the rain only enhances the church's contemplative silence. Wear non-slip shoes on the entrance steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Lauttasaaren kartano",
+                "hu": "Lauttasaaren kartano",
+                "ro": "Lauttasaaren kartano",
+                "en": "Lauttasaaren kartano"
+              },
+              "tip_5lang": {
+                "de": "Das historische Herrenhaus wirkt im Nebel besonders geheimnisvoll; nutzen Sie die überdachten Bereiche für Fotos. Ein windfester Regenschirm ist auf dem Gelände wichtig.",
+                "hu": "A történelmi kúria különösen titokzatosnak tűnik a ködben; használja a fedett részeket fotózáshoz. Egy szélálló esernyő elengedhetetlen a birtok területén.",
+                "ro": "Conacul istoric pare deosebit de misterios în ceață; folosiți zonele acoperite pentru fotografii. O umbrelă rezistentă la vânt este esențială pe domeniu.",
+                "en": "The historic manor looks particularly mysterious in the fog; use the covered areas for photos. A windproof umbrella is essential on the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Galleria Fogga",
+                "hu": "Galleria Fogga",
+                "ro": "Galleria Fogga",
+                "en": "Galleria Fogga"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie ist der perfekte Ort, um dem Wolkenbruch zu entkommen und lokale Kunst zu genießen. Schütteln Sie Ihren nassen Mantel im Eingangsbereich gründlich ab.",
+                "hu": "A galéria tökéletes hely, hogy elmeneküljön a felhőszakadás elől és élvezze a helyi művészetet. Alaposan rázza le vizes kabátját a bejárati részen.",
+                "ro": "Galeria este locul perfect pentru a scăpa de potop și pentru a savura arta locală. Scuturați-vă bine haina udă în zona de la intrare.",
+                "en": "The gallery is the perfect place to escape the downpour and enjoy local art. Shake your wet coat thoroughly in the entrance area before exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Aimo Tukiaisen puisto",
+                "hu": "Aimo Tukiaisen puisto",
+                "ro": "Aimo Tukiaisen puisto",
+                "en": "Aimo Tukiaisen puisto"
+              },
+              "tip_5lang": {
+                "de": "Die Skulpturen glänzen im Regen und wirken fast lebendig; ideal für stimmungsvolle Nahaufnahmen. Achten Sie auf die aufgeweichten Wege nach dem Regenguss.",
+                "hu": "A szobrok csillognak az esőben, és szinte életre kelnek; ideális helyszín hangulatos közeli fotókhoz. Ügyeljen a felázott ösvényekre a nagy eső után.",
+                "ro": "Sculpturile strălucesc în ploaie și par aproape vii; loc ideal pentru fotografii de detaliu. Atenție la potecile înmuiate după ploaia abundentă.",
+                "en": "The sculptures glisten in the rain and seem almost alive; ideal for atmospheric close-ups. Watch out for softened paths after the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Taidesalonki Piirto",
+                "hu": "Taidesalonki Piirto",
+                "ro": "Taidesalonki Piirto",
+                "en": "Taidesalonki Piirto"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer kultureller Rückzugsort, der Sie vor dem Wind schützt; lassen Sie sich von den Farben inspirieren. Prüfen Sie vorher, ob es eine Garderobe für Schirme gibt.",
+                "hu": "Egy újabb kulturális menedék, amely megvédi a széltől; hagyja, hogy a színek inspirálják. Érkezéskor ellenőrizze, van-e kijelölt hely az esernyőknek.",
+                "ro": "Un alt refugiu cultural care vă protejează de vânt; lăsați culorile să vă inspire. Verificați la sosire dacă există un loc special pentru umbrele.",
+                "en": "Another cultural retreat protecting you from the wind; let the vibrant colors inspire you. Upon arrival, check if there is a designated spot for umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Merikylpylänpuisto",
+                "hu": "Merikylpylänpuisto",
+                "ro": "Merikylpylänpuisto",
+                "en": "Merikylpylänpuisto"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das graue Meer und die tanzenden Tropfen auf der Wasseroberfläche von einer Bank aus. Eine wasserfeste Sitzunterlage hält Sie beim Rasten trocken.",
+                "hu": "Figyelje a szürke tengert és a vízen táncoló esőcseppeket egy padon pihenve. Egy vízhatlan ülőalátét szárazon tartja Önt a rövid pihenő alatt.",
+                "ro": "Observați marea gri și picăturile de ploaie care dansează pe apă de pe o bancă. O folie impermeabilă pentru șezut vă va menține uscat în timpul pauzei.",
+                "en": "Watch the grey sea and the raindrops dancing on the water from a park bench. A waterproof seat pad will keep you dry during your short rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Veijarivuorenpuisto",
+                "hu": "Veijarivuorenpuisto",
+                "ro": "Veijarivuorenpuisto",
+                "en": "Veijarivuorenpuisto"
+              },
+              "tip_5lang": {
+                "de": "Der Park bietet bei Regen eine dramatische Küstenkulisse mit tosenden Wellen; perfekt für Naturbeobachter. Vorsicht an den Klippen, die Felsen sind extrem glitschig.",
+                "hu": "A park esőben drámai tengerparti látványt nyújt zúgó hullámokkal; tökéletes a természet szerelmeseinek. Vigyázzon a szikláknál, mert rendkívül csúszósak.",
+                "ro": "Parcul oferă un peisaj de coastă dramatic în ploaie, cu valuri clocotitoare; perfect pentru observatori. Atenție la stânci, sunt extrem de alunecoase.",
+                "en": "The park offers a dramatic coastal backdrop in the rain with roaring waves; perfect for nature lovers. Be careful near the cliffs, as the rocks are very slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare, frostige Morgenluft bei der Kirche. Mittags wärmen Sie sich in den historischen Räumen des Herrenhauses und in den Kunstgalerien auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, bieten die Parks am Nachmittag ein zauberhaftes Lichtspiel im Schnee. Den Abend verbringen Sie am besten eingepackt in warme Schichten bei einem winterlichen Spaziergang am Ufer.",
+            "hu": "Élvezze a tiszta, fagyos reggeli levegőt a templom környékén. Délben melegedjen fel a kúria történelmi falaiban és a művészeti galériákban. Mivel a nap már 17:00 körül lemegy, a parkok délután varázslatos fényekkel várják a hóban. Az estét legjobb meleg rétegekbe bújva tölteni, egy téli séta során a befagyott tengerpart mentén.",
+            "ro": "Bucurați-vă de aerul curat și înghețat de dimineață lângă biserică. La prânz, încălziți-vă între zidurile istorice ale conacului și în galeriile de artă. Deoarece soarele apune deja în jurul orei 17:00, parcurile oferă după-amiaza un joc de lumini magic în zăpadă. Seara este cel mai bine petrecută înfofolit în haine groase, într-o plimbare pe malul mării.",
+            "en": "Enjoy the clear, frosty morning air around the church. At noon, warm up within the historic walls of the manor and in the art galleries. Since the sun sets around 5:00 PM, the parks offer a magical light display in the snow during the afternoon. The evening is best spent wrapped in warm layers during a winter walk along the frozen shoreline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lauttasaaren kirkko",
+                "hu": "Lauttasaaren kirkko",
+                "ro": "Lauttasaaren kirkko",
+                "en": "Lauttasaaren kirkko"
+              },
+              "tip_5lang": {
+                "de": "Die weiße Kirche verschmilzt fast mit der verschneiten Umgebung; nutzen Sie die Wärme im Inneren zur Besinnung. Ein Thermobecher mit Tee hält Sie draußen warm.",
+                "hu": "A fehér templom szinte eggyé válik a havas környezettel; használja a benti meleget az elmélyüléshez. Egy termosz meleg teával jól jöhet a kinti séta alatt.",
+                "ro": "Biserica albă aproape că se contopește cu mediul înzăpezit; folosiți căldura din interior pentru meditație. O cană termică cu ceai vă va prinde bine afară.",
+                "en": "The white church almost merges with the snowy surroundings; use the warmth inside for reflection. A thermal mug with hot tea will keep you warm outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Lauttasaaren kartano",
+                "hu": "Lauttasaaren kartano",
+                "ro": "Lauttasaaren kartano",
+                "en": "Lauttasaaren kartano"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus wirkt im Winter wie aus einem Märchen; bewundern Sie die schneebedeckten Bäume im Park. Tragen Sie gefütterte Stiefel für den Spaziergang im Schnee.",
+                "hu": "A kúria télen olyan, mintha egy meséből lépett volna elő; csodálja meg a park hófödte fáit. Viseljen bélelt csizmát a mély hóban való sétához a kertben.",
+                "ro": "Conacul iarna pare desprins dintr-un basm; admirați copacii acoperiți de zăpadă din parc. Purtați cizme căptușite pentru plimbarea prin zăpadă în grădină.",
+                "en": "The manor in winter looks like it's straight out of a fairy tale; admire the snow-covered trees in the park. Wear lined boots for walking through the deep snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Galleria Fogga",
+                "hu": "Galleria Fogga",
+                "ro": "Galleria Fogga",
+                "en": "Galleria Fogga"
+              },
+              "tip_5lang": {
+                "de": "Die warme Galerie ist eine ideale Pause vom Frost; genießen Sie die Kontraste der modernen Kunst. Ziehen Sie Ihre Schichten so an, dass Sie sie drinnen leicht ablegen.",
+                "hu": "A meleg galéria ideális pihenő a fagy elől; élvezze a modern művészet kontrasztjait. Öltözzön rétegesen, hogy bent könnyen le tudja venni a felesleges ruhát.",
+                "ro": "Galeria călduroasă este o pauză ideală de la ger; bucurați-vă de contrastele artei moderne. Îmbrăcați-vă în straturi pentru a le putea scoate ușor în interior.",
+                "en": "The warm gallery is an ideal break from the frost; enjoy the contrasts of modern art. Dress in layers so you can easily remove outer garments once inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aimo Tukiaisen puisto",
+                "hu": "Aimo Tukiaisen puisto",
+                "ro": "Aimo Tukiaisen puisto",
+                "en": "Aimo Tukiaisen puisto"
+              },
+              "tip_5lang": {
+                "de": "Die Skulpturen tragen oft weiße Schneehauben, was ihnen ein völlig neues Gesicht verleiht. Achten Sie auf versteckte Eisplatten unter der frischen Schneedecke.",
+                "hu": "A szobrok gyakran viselnek fehér hósapkát, ami teljesen új arcot kölcsönöz nekik. Ügyeljen a friss hó alatt megbújó jégfoltokra a biztonságos séta érdekében.",
+                "ro": "Sculpturile poartă adesea căciuli albe de zăpadă, ceea ce le dă o față complet nouă. Atenție la petele de gheață ascunse sub stratul de zăpadă proaspătă.",
+                "en": "The sculptures often wear white snow caps, giving them a completely new look. Watch out for ice patches hidden under the fresh snow for a safe walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Taidesalonki Piirto",
+                "hu": "Taidesalonki Piirto",
+                "ro": "Taidesalonki Piirto",
+                "en": "Taidesalonki Piirto"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie dem eisigen Wind und lassen Sie sich von der kreativen Atmosphäre aufwärmen. Denken Sie an Handwärmer in Ihren Taschen für den nächsten Außenteil.",
+                "hu": "Meneküljön el a jeges szél elől, és hagyja, hogy a kreatív légkör felmelegítse. Tegyen kézmelegítőt a zsebébe a következő szabadtéri szakasz előtt.",
+                "ro": "Evadați de vântul înghețat și lăsați atmosfera creativă să vă încălzească. Puneți-vă încălzitoare de mâini în buzunare înainte de următoarea etapă afară.",
+                "en": "Escape the icy wind and let the creative atmosphere warm you up. Put hand warmers in your pockets before the next outdoor section of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Merikylpylänpuisto",
+                "hu": "Merikylpylänpuisto",
+                "ro": "Merikylpylänpuisto",
+                "en": "Merikylpylänpuisto"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die blaue Stunde über der gefrorenen Ostsee; die Farben sind im Winter einzigartig. Da es früh dunkel wird, ist eine kleine Taschenlampe hilfreich.",
+                "hu": "Élje át a kék órát a befagyott Balti-tenger felett; a színek télen egyedülállóak. Mivel korán sötétedik, egy kis zseblámpa hasznos lehet az ösvényeken.",
+                "ro": "Experimentați ora albastră deasupra Mării Baltice înghețate; culorile sunt unice iarna. Deoarece se întunecă repede, o mică lanternă este utilă pe poteci.",
+                "en": "Experience the blue hour over the frozen Baltic Sea; the colors are unique in winter. Since it gets dark early, a small flashlight is helpful on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Veijarivuorenpuisto",
+                "hu": "Veijarivuorenpuisto",
+                "ro": "Veijarivuorenpuisto",
+                "en": "Veijarivuorenpuisto"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das Packeis an der Küste ist atemberaubend; atmen Sie die reine Winterluft ein. Achten Sie auf die Windkälte und tragen Sie eine winddichte Mütze.",
+                "hu": "A tengerparti jégtáblák látványa lélegzetelállító; szívja be a tiszta téli levegőt. Ügyeljen a szél hűtő hatására, és viseljen szélálló sapkát a parton.",
+                "ro": "Vederea blocurilor de gheață de la mal este uluitoare; respirați aerul curat de iarnă. Atenție la vântul tăios, purtați o căciulă rezistentă la vânt.",
+                "en": "The view of the ice floes by the shore is breathtaking; breathe in the pure winter air. Watch out for the wind chill and wear a windproof hat on the shore."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje a túrát a szárazföldön, és fedezze fel a történelmi kórházat. A friss reggeli levegő azonnal felélénkíti.\nDélben a lenyűgöző hídon keresztül éri el a szigetet. Ott az elegáns, történelmi kúria várja, hogy felfedezze titkait.\nDélután kényelmesen tekerhet a parti parkokon át. A tengeri kilátás és a lágy szellő kíséri a kiváló kerékpárutakon.\nEste az útvonal egy másik modern hídhoz vezet. A naplementében pompázó városi panoráma tökéletes befejezése a napnak.",
         "ro": "Începeți turul pe continent explorând spitalul istoric. Aerul proaspăt al dimineții vă va trezi rapid simțurile.\nLa prânz, traversați podul impresionant spre insulă. Acolo, conacul istoric și elegant abia așteaptă să fie explorat.\nDupă-amiaza, pedalați liniștit prin parcurile de coastă. Priveliștea mării și briza vă vor însoți pe pistele excelente.\nSeara, traseul duce la un alt pod arhitectural. Panorama urbană spectaculoasă la apus este finalul absolut perfect.",
         "en": "Start your ride on the mainland exploring the historical hospital grounds. The crisp morning air will quickly wake you up.\nAround midday, cross the striking bridge onto the island. The historic, elegant manor awaits your exploration there.\nIn the afternoon, cycle leisurely through the coastal parks. The sea views and gentle breeze accompany you on great paths.\nBy evening, the route leads to another modern bridge. The urban skyline bathed in sunset colors provides a perfect finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber leere Wege. Morgens radeln Sie durch den Dunst von Lapinlahti. Mittags erreichen Sie das Herrenhaus, wo Sie eine überdachte Pause einlegen können. Nachmittags führen die Wege am Ufer entlang, wo der Wind den Regen peitscht. Abends kehren Sie über die glänzenden Brücken zurück und genießen die urbane Lichtreflexion im Wasser.",
+            "hu": "Egy esős bringázás óvatosságot igényel, de üres utakat kínál. Reggel tekerjen át a Lapinlahti ködén. Délben érjen a kúriához, ahol fedett helyen pihenhet. Délután az utak a parton vezetnek, ahol a szél korbácsolja az esőt. Este a csillogó hidakon térjen vissza, élvezve a vízben tükröződő városi fényeket, miközben az esőfelhők lassan elvonulnak.",
+            "ro": "O plimbare cu bicicleta prin ploaie necesită prudență, dar oferă poteci libere. Dimineața, pedalați prin ceața din Lapinlahti. La prânz, ajungeți la conac pentru o pauză acoperită. După-amiaza, drumurile duc pe malul mării, unde vântul biciuiește ploaia. Seara, întoarceți-vă pe podurile strălucitoare, savurând reflexiile luminilor urbane în apă.",
+            "en": "A rainy bike ride requires caution but offers empty paths. In the morning, cycle through the mist of Lapinlahti. At noon, reach the manor where you can take a covered break. In the afternoon, the paths lead along the shore where the wind whips the rain. In the evening, return across the glistening bridges, enjoying the urban light reflections in the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lapinlahti",
+                "hu": "Lapinlahti",
+                "ro": "Lapinlahti",
+                "en": "Lapinlahti"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände wirkt im Regen melancholisch und ruhig; parken Sie Ihr Rad unter den großen Bäumen. Achten Sie auf rutschiges Laub auf den gepflasterten Wegen.",
+                "hu": "A terület melankolikus és csendes az esőben; parkolja le a bringát a nagy fák alatt. Ügyeljen a csúszós levelekre a kövezett utakon a park területén.",
+                "ro": "Zona pare melancolică și liniștită în ploaie; parcați bicicleta sub copacii mari. Atenție la frunzele alunecoase de pe aleile pavate din perimetrul parcului.",
+                "en": "The area looks melancholic and quiet in the rain; park your bike under the large trees. Watch out for slippery leaves on the paved paths within the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapinlahden silta",
+                "hu": "Lapinlahden silta",
+                "ro": "Lapinlahden silta",
+                "en": "Lapinlahden silta"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke bietet einen tollen Blick auf die regnerische Bucht; fahren Sie langsam bei Seitenwind. Die Dehnungsfugen können bei Nässe extrem glatt sein.",
+                "hu": "A híd nagyszerű kilátást nyújt az esős öbölre; tekerjen lassan az oldalszélben. A tágulási hézagok rendkívül csúszósak lehetnek vizes állapotban.",
+                "ro": "Podul oferă o vedere excelentă asupra golfului ploios; pedalați încet în vânt lateral. Rosturile de dilatare pot fi extrem de alunecoase când sunt ude.",
+                "en": "The bridge offers a great view of the rainy bay; cycle slowly in the crosswind. The expansion joints can be extremely slippery when wet, so take care."
+              }
+            },
+            {
+              "name": {
+                "de": "Lauttasaaren kartano",
+                "hu": "Lauttasaaren kartano",
+                "ro": "Lauttasaaren kartano",
+                "en": "Lauttasaaren kartano"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Herrenhaus als trockenen Stopp, um sich kurz auszuruhen; die Architektur glänzt im Regen. Parken Sie Ihr Fahrrad an einem geschützten Ort.",
+                "hu": "Használja a kúriát száraz megállóként egy rövid pihenőhöz; az épület ragyog az esőben. Parkolja le a kerékpárt egy védettebb ponton a pihenő alatt.",
+                "ro": "Folosiți conacul ca o oprire uscată pentru o scurtă odihnă; arhitectura strălucește în ploaie. Parcați bicicleta într-un loc mai protejat în timpul pauzei.",
+                "en": "Use the manor as a dry stop for a short rest; the architecture shines in the rain. Park your bike in a more sheltered spot during your rest period."
+              }
+            },
+            {
+              "name": {
+                "de": "Merikylpylänpuisto",
+                "hu": "Merikylpylänpuisto",
+                "ro": "Merikylpylänpuisto",
+                "en": "Merikylpylänpuisto"
+              },
+              "tip_5lang": {
+                "de": "Die Uferwege sind nass, bieten aber eine herrliche Erfrischung durch die Meeresbrise. Ein wasserdichter Sattelbezug ist nach jedem Stopp ein Segen.",
+                "hu": "A parti utak vizesek, de a tengeri szellő frissítő ereje kárpótolja a fáradtságért. Egy vízálló nyeregvédő igazi áldás minden egyes megálló után.",
+                "ro": "Drumurile de pe mal sunt ude, dar briza mării este foarte revigorantă. O husă de șa impermeabilă este o adevărată binecuvântare după fiecare oprire.",
+                "en": "The coastal paths are wet, but the refreshing sea breeze compensates for the effort. A waterproof saddle cover is a real blessing after each stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Veijarivuorenpuisto",
+                "hu": "Veijarivuorenpuisto",
+                "ro": "Veijarivuorenpuisto",
+                "en": "Veijarivuorenpuisto"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist bei Regen menschenleer, was Ihnen freie Fahrt auf den Wegen ermöglicht. Tragen Sie eine Brille, um Ihre Augen vor Regen und Wind zu schützen.",
+                "hu": "A park esőben szinte üres, ami szabad utat biztosít a tekeréshez az ösvényeken. Viseljen szemüveget, hogy megvédje szemét az esőtől és a széltől.",
+                "ro": "Parcul este aproape gol pe ploaie, ceea ce vă oferă drum liber pe poteci. Purtați ochelari pentru a vă proteja ochii de ploaie și de vântul tăios.",
+                "en": "The park is almost empty in the rain, providing a clear path for cycling. Wear glasses to protect your eyes from the rain and the sharp wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Crusellinsilta",
+                "hu": "Crusellinsilta",
+                "ro": "Crusellinsilta",
+                "en": "Crusellinsilta"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Brücke sieht im Regen futuristisch aus; die Stahlkabel glänzen im grauen Licht. Reduzieren Sie Ihre Geschwindigkeit auf den Metalloberflächen.",
+                "hu": "A modern híd futurisztikusan néz ki az esőben; az acélkábelek csillognak a szürke fényben. Csökkentse a sebességet a fém felületeken való áthaladáskor.",
+                "ro": "Podul modern arată futurist în ploaie; cablurile de oțel strălucesc în lumina gri. Reduceți viteza când traversați suprafețele metalice ale podului.",
+                "en": "The modern bridge looks futuristic in the rain; the steel cables glisten in the grey light. Reduce your speed when crossing the metal surfaces of the bridge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im finnischen Winter ist ein Abenteuer; nutzen Sie ein Rad mit Spikereifen. Morgens glitzert der Frost in Lapinlahti. Mittags ist das Herrenhaus ein willkommener Ort für eine Pause im Warmen. Da es früh dunkelt, sollten Sie am Nachmittag die Parks besuchen, wenn die Beleuchtung den Schnee erhellt. Abends führt die Tour über die beleuchteten Brücken zurück in die Stadt.",
+            "hu": "A kerékpározás a finn télben igazi kaland; használjon szöges gumival felszerelt bringát. Reggel csillog a zúzmara Lapinlahtiban. Délben a kúria várja egy kis melegedésre a történelmi falak között. Mivel korán sötétedik, délután látogassa meg a parkokat, amikor a fények megvilágítják a havat. Este a túra a kivilágított hidakon át vezet vissza a városba.",
+            "ro": "Ciclismul în iarna finlandeză este o aventură; folosiți o bicicletă cu anvelope cu ținte. Dimineața, promoroaca sclipește în Lapinlahti. La prânz, conacul vă așteaptă pentru puțină căldură. Deoarece se întunecă repede, vizitați parcurile după-amiaza, când luminile luminează zăpada. Seara, turul duce înapoi în oraș pe podurile luminate.",
+            "en": "Cycling in the Finnish winter is a true adventure; use a bike equipped with studded tires. In the morning, frost sparkles in Lapinlahti. At noon, the manor awaits for a quick warm-up within its historic walls. Since it gets dark early, visit the parks in the afternoon when the lights illuminate the snow. In the evening, the tour leads back to the city across the lit bridges."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lapinlahti",
+                "hu": "Lapinlahti",
+                "ro": "Lapinlahti",
+                "en": "Lapinlahti"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Parklandschaft ist wunderschön; fahren Sie vorsichtig auf den festgetretenen Schneewegen. Tragen Sie warme Handschuhe, um Ihre Hände beweglich zu halten.",
+                "hu": "A fagyos park tája gyönyörű; tekerjen óvatosan a letaposott havas utakon. Viseljen meleg kesztyűt, hogy kezei mozgékonyak maradjanak a kormányon.",
+                "ro": "Peisajul parcului înghețat este superb; pedalați cu atenție pe aleile cu zăpadă bătătorită. Purtați mănuși groase pentru a vă păstra mâinile mobile.",
+                "en": "The frosty park landscape is beautiful; cycle carefully on the packed snow paths. Wear warm gloves to keep your hands mobile on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Lapinlahden silta",
+                "hu": "Lapinlahden silta",
+                "ro": "Lapinlahden silta",
+                "en": "Lapinlahden silta"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das Eis unter der Brücke ist spektakulär; halten Sie für ein kurzes Foto an. Vorsicht vor Glatteis auf der Fahrbahn, besonders bei starkem Wind.",
+                "hu": "A híd alatti jég látványa látványos; álljon meg egy rövid fotóra. Vigyázzon az úttesten lévő jegesedésre, különösen erős szél esetén a híd felett.",
+                "ro": "Vederea gheții de sub pod este spectaculoasă; opriți-vă pentru o poză rapidă. Atenție la poleiul de pe carosabil, mai ales în condiții de vânt puternic.",
+                "en": "The view of the ice under the bridge is spectacular; stop for a quick photo. Watch out for black ice on the roadway, especially in strong winds over the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Lauttasaaren kartano",
+                "hu": "Lauttasaaren kartano",
+                "ro": "Lauttasaaren kartano",
+                "en": "Lauttasaaren kartano"
+              },
+              "tip_5lang": {
+                "de": "Das schneebedeckte Herrenhaus bietet eine perfekte Kulisse für eine kurze Radlerpause. Achten Sie beim Abstellen darauf, dass Ihr Schloss nicht einfriert.",
+                "hu": "A hófödte kúria tökéletes kulisszát nyújt egy rövid bringás pihenőhöz. A kerékpár lezárásakor ügyeljen rá, hogy a lakat ne fagyjon be a hidegben.",
+                "ro": "Conacul înzăpezit oferă un decor perfect pentru o scurtă pauză de bicicletă. Când parcați, aveți grijă ca antifurtul să nu înghețe din cauza gerului.",
+                "en": "The snow-covered manor provides a perfect backdrop for a short cycling break. When locking your bike, make sure the lock doesn't freeze in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Merikylpylänpuisto",
+                "hu": "Merikylpylänpuisto",
+                "ro": "Merikylpylänpuisto",
+                "en": "Merikylpylänpuisto"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresluft ist eisig, aber belebend; genießen Sie die weite Sicht über die weiße Fläche. Tragen Sie eine Gesichtsmaske gegen den kalten Fahrtwind am Ufer.",
+                "hu": "A tengeri levegő jeges, de élénkítő; élvezze a tágas kilátást a fehér hótakaróra. Viseljen maszkot a hideg menetszél ellen a tengerparti szakaszon.",
+                "ro": "Aerul mării este înghețat, dar revigorant; admirați vederea largă peste întinderea albă. Purtați o mască de față împotriva vântului rece de pe mal.",
+                "en": "The sea air is icy but invigorating; enjoy the wide view over the white expanse. Wear a face mask against the cold headwind on the coastal section."
+              }
+            },
+            {
+              "name": {
+                "de": "Veijarivuorenpuisto",
+                "hu": "Veijarivuorenpuisto",
+                "ro": "Veijarivuorenpuisto",
+                "en": "Veijarivuorenpuisto"
+              },
+              "tip_5lang": {
+                "de": "Die verschneiten Klippen sind ein Naturwunder; steigen Sie für die besten Aussichten kurz vom Rad. Bleiben Sie auf den geräumten Wegen, um Stürze zu vermeiden.",
+                "hu": "A havas sziklák természeti csodák; a legjobb kilátásért szálljon le egy pillanatra a bringáról. Maradjon a letakarított utakon az esések elkerülése végett.",
+                "ro": "Stâncile înzăpezite sunt o minune a naturii; coborâți puțin de pe bicicletă pentru cele mai bune vederi. Rămâneți pe aleile curățate pentru a evita căzăturile.",
+                "en": "The snowy cliffs are a natural wonder; hop off your bike for a moment for the best views. Stay on the cleared paths to avoid any falls on the ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Crusellinsilta",
+                "hu": "Crusellinsilta",
+                "ro": "Crusellinsilta",
+                "en": "Crusellinsilta"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung der Brücke spiegelt sich herrlich im gefrorenen Meer wider. Achten Sie auf die Metallgitter, die bei Frost extrem rutschig sein können.",
+                "hu": "A híd világítása gyönyörűen tükrözöződik a befagyott tenger felszínén. Ügyeljen a fémrácsokra, amelyek fagy esetén rendkívül csúszósak lehetnek.",
+                "ro": "Iluminatul podului se reflectă superb în marea înghețată. Atenție la grătarele metalice, care pot fi extrem de alunecoase în condiții de îngheț.",
+                "en": "The bridge's lighting reflects beautifully in the frozen sea. Watch out for metal grates, which can be extremely slippery in freezing conditions."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "A reggeli autózás északon kezdődik. Egy lenyűgöző szobor és egy csendes parti park adja meg a nap kellemes alaphangját.\nDélben megérkezik a kulturális látnivalókhoz. A modern művészeti központ és a kis nevezetességek sokszínűséget kínálnak.\nDélután a sziget központjába vezet az útja. A letisztult templom a finn építészeti hagyományok kiváló példája.\nAz estét a történelmi kúriánál töltheti. A hatalmas, gondozott kertek elegánsan zárják le a motoros szigeti túrát.",
         "ro": "Călătoria de dimineață începe în nord. O sculptură fascinantă și un parc de coastă liniștit dau tonul unei zile perfecte.\nLa prânz, ajungeți la principalele atracții culturale. Un centru de artă modernă și reperele mai mici oferă o mare varietate.\nDupă-amiaza, conduceți spre centrul insulei. Biserica simplă este un exemplu excelent al tradiției arhitecturale finlandeze.\nVeți petrece seara la conacul istoric. Grădinile sale imense completează elegant această explorare motorizată a insulei.",
         "en": "Your morning drive begins in the north. A fascinating sculpture and a quiet coastal park set a lovely, relaxed tone.\nBy midday, you reach the cultural highlights. A modern art center and smaller landmarks offer plenty of engaging variety.\nIn the afternoon, drive into the center of the island. The simple, elegant church showcases fine Finnish architectural style.\nYou will spend the evening at the historic manor. Its expansive gardens elegantly round out your motorized island tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie die Insel bequem und trocken. Morgens starten Sie bei Biogenesis. Mittags bietet der Kalkkipaadenpuisto trotz Regen schöne Ausblicke aus dem Autofenster. Nachmittags ist die Fahrt zum Karhusaaren taidekeskus besonders entspannt, da Sie direkt vor den kulturellen Highlights parken können. Abends genießen Sie die Fahrt durch das verregnete Lauttasaari zurück nach Hause.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel a szigetet. Reggel kezdjen a Biogenesisnél. Délben a Kalkkipaadenpuisto az eső ellenére szép kilátást nyújt az autó ablakából. Délután a Karhusaaren taidekeskushoz vezető út különösen pihentető, hiszen közvetlenül a kulturális pontok előtt parkolhat. Este élvezze az utazást az esős Lauttasaarin keresztül hazafelé.",
+            "ro": "Cu mașina, explorați insula confortabil și la adăpost de ploaie. Dimineața, începeți la Biogenesis. La prânz, Kalkkipaadenpuisto oferă vederi frumoase de pe fereastră, în ciuda ploii. După-amiaza, drumul către Karhusaaren taidekeskus este relaxant, putând parca direct lângă obiective. Seara, bucurați-vă de drumul prin Lauttasaari-ul ploios spre casă.",
+            "en": "By car, you explore the island comfortably and dry. Start your morning at Biogenesis. At noon, Kalkkipaadenpuisto offers beautiful views from the car window despite the rain. In the afternoon, the drive to Karhusaaren taidekeskus is particularly relaxing, as you can park right in front of the cultural highlights. In the evening, enjoy the drive home through rainy Lauttasaari."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Biogenesis",
+                "hu": "Biogenesis",
+                "ro": "Biogenesis",
+                "en": "Biogenesis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz in der Nähe, um den kurzen Weg zum historischen Ort trocken zu überstehen. Halten Sie die Scheibenwischer bereit für die Weiterfahrt.",
+                "hu": "Használja a közeli parkolót, hogy a rövid utat a történelmi helyszínig szárazon tegye meg. Tartsa készenlétben az ablaktörlőket a továbbinduláshoz.",
+                "ro": "Folosiți parcarea din apropiere pentru a parcurge drumul scurt până la situl istoric la uscat. Pregătiți ștergătoarele pentru continuarea drumului.",
+                "en": "Use the nearby parking lot to keep the short walk to the historic site dry. Have your windshield wipers ready for when you continue your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalkkipaadenpuisto",
+                "hu": "Kalkkipaadenpuisto",
+                "ro": "Kalkkipaadenpuisto",
+                "en": "Kalkkipaadenpuisto"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Parkblick bei einem kurzen Stopp; der Regen lässt das Grün besonders satt wirken. Achten Sie beim Aussteigen auf tiefe Pfützen am Fahrbahnrand.",
+                "hu": "Élvezze a park látványát egy rövid megálló során; az eső miatt a zöld színek teltebbnek tűnnek. Kiszálláskor ügyeljen az út szélén lévő mély tócsákra.",
+                "ro": "Bucurați-vă de vederea parcului în timpul unei scurte opriri; ploaia face culorile să pară mai intense. Atenție la bălțile adânci de la marginea drumului.",
+                "en": "Enjoy the park view during a short stop; the rain makes the greenery look particularly lush. Watch out for deep puddles at the curb when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Karhusaaren taidekeskus",
+                "hu": "Karhusaaren taidekeskus",
+                "ro": "Karhusaaren taidekeskus",
+                "en": "Karhusaaren taidekeskus"
+              },
+              "tip_5lang": {
+                "de": "Das Kulturzentrum bietet eine wunderbare Flucht vor dem Regen; parken Sie so nah wie möglich am Eingang. Ein kleiner Taschenschirm im Handschuhfach ist ideal.",
+                "hu": "A kulturális központ csodálatos menedék az eső elől; parkoljon a lehető legközelebb a bejárathoz. Egy kisméretű esernyő a kesztyűtartóban most nagyon jól jöhet.",
+                "ro": "Centrul cultural oferă o evadare minunată din ploaie; parcați cât mai aproape de intrare. O umbrelă mică în torpedou este ideală pentru acest moment.",
+                "en": "The cultural center offers a wonderful escape from the rain; park as close to the entrance as possible. A small umbrella in the glove compartment is ideal now."
+              }
+            },
+            {
+              "name": {
+                "de": "Pluto",
+                "hu": "Pluto",
+                "ro": "Pluto",
+                "en": "Pluto"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Foto-Stopp vom Auto aus ist bei starkem Regen möglich; das Wahrzeichen wirkt im Grau markant. Vorsicht vor Aquaplaning auf den Zufahrtsstraßen.",
+                "hu": "Erős esőben egy gyors fotómegálló az autóból is lehetséges; a jelkép markánsan fest a szürkeségben. Ügyeljen a vízátfolyásokra a környező utakon.",
+                "ro": "O scurtă oprire pentru poze din mașină este posibilă pe ploaie torențială; reperul arată impunător. Atenție la acvaplanare pe drumurile de acces.",
+                "en": "A quick photo stop from the car is possible during heavy rain; the landmark looks striking in the grey. Watch out for aquaplaning on the access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Lauttasaaren kirkko",
+                "hu": "Lauttasaaren kirkko",
+                "ro": "Lauttasaaren kirkko",
+                "en": "Lauttasaaren kirkko"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche für einen Moment der Stille, während draußen der Regen trommelt. Nutzen Sie die Sitzheizung, um sich nach dem kurzen Gang aufzuwärmen.",
+                "hu": "Látogassa meg a templomot egy csendes pillanatra, miközben odakint dobol az eső. Használja az ülésfűtést a felmelegedéshez a rövid kinti séta után.",
+                "ro": "Vizitați biserica pentru un moment de liniște în timp ce ploaia bate afară. Folosiți încălzirea în scaune pentru a vă încălzi după scurta plimbare.",
+                "en": "Visit the church for a moment of silence while the rain drums outside. Use the seat heating to warm up again after the short walk from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Lauttasaaren kartano",
+                "hu": "Lauttasaaren kartano",
+                "ro": "Lauttasaaren kartano",
+                "en": "Lauttasaaren kartano"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus bildet den krönenden Abschluss; die Anlage wirkt im Regen besonders atmosphärisch. Prüfen Sie den Reifendruck für die Heimfahrt bei Nässe.",
+                "hu": "A kúria méltó befejezése a napnak; a birtok különösen hangulatos az esőben. Ellenőrizze a guminyomást a vizes úton való biztonságos hazatéréshez.",
+                "ro": "Conacul este încheierea perfectă a zilei; domeniul este extrem de atmosferic pe ploaie. Verificați presiunea pneurilor pentru drumul de întoarcere pe ud.",
+                "en": "The manor is the perfect conclusion to the day; the grounds are very atmospheric in the rain. Check your tire pressure for a safe drive home in the wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Inselrundfahrt im Auto ist im Winter besonders behaglich. Morgens gleiten Sie durch die verschneiten Straßen bei Biogenesis. Mittags bietet der Kalkkipaadenpuisto eine weiße Wunderwelt direkt vor Ihrem Fenster. Da es gegen 17:00 Uhr bereits dunkel ist, genießen Sie die beleuchtete Kirche am späten Nachmittag. Den Abend lassen Sie beim Herrenhaus ausklingen, während die Schneeflocken im Scheinwerferlicht tanzen.",
+            "hu": "Az autós szigetnézés télen különösen otthonos élmény. Reggel siklott át a hófödte utcákon a Biogenesis közelében. Délben a Kalkkipaadenpuisto fehér csodaországot kínál közvetlenül az ablaka előtt. Mivel 17:00 körül már sötét van, élvezze a kivilágított templomot késő délután. Az estét a kúriánál zárja, miközben a pelyhek táncolnak a fényszórók előtt.",
+            "ro": "Turul insulei cu mașina este o experiență deosebit de confortabilă iarna. Dimineața, alunecați pe străzile înzăpezite de lângă Biogenesis. La prânz, Kalkkipaadenpuisto oferă un peisaj alb de poveste direct la fereastră. Fiind deja întuneric în jur de 17:00, admirați biserica luminată. Încheiați seara la conac, în timp ce fulgii dansează în faruri.",
+            "en": "An island tour by car is particularly cozy in winter. In the morning, glide through the snowy streets near Biogenesis. At noon, Kalkkipaadenpuisto offers a white wonderland right outside your window. Since it’s already dark by 5:00 PM, enjoy the lit church in the late afternoon. End the evening at the manor as snowflakes dance in the headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Biogenesis",
+                "hu": "Biogenesis",
+                "ro": "Biogenesis",
+                "en": "Biogenesis"
+              },
+              "tip_5lang": {
+                "de": "Der historische Ort wirkt im Schnee friedlich; parken Sie auf geräumten Flächen. Stellen Sie sicher, dass Ihr Eiskratzer für den Tag griffbereit im Auto liegt.",
+                "hu": "A történelmi helyszín békés a hóban; parkoljon a letakarított területeken. Győződjön meg róla, hogy a jégkaparó kéznél van az autóban a nap folyamán.",
+                "ro": "Situl istoric pare liniștit în zăpadă; parcați în zonele curățate. Asigurați-vă că aveți racleta pentru gheață la îndemână în mașină pe tot parcursul zilei.",
+                "en": "The historic site looks peaceful in the snow; park in cleared areas. Make sure your ice scraper is within reach in the car throughout the entire day."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalkkipaadenpuisto",
+                "hu": "Kalkkipaadenpuisto",
+                "ro": "Kalkkipaadenpuisto",
+                "en": "Kalkkipaadenpuisto"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schneebedeckte Parklandschaft aus der Wärme Ihres Fahrzeugs. Achten Sie auf Glätte beim Ein- und Ausparken auf den Nebenstraßen.",
+                "hu": "Csodálja meg a hófödte parkot a jármű melegéből. Ügyeljen a jegesedésre a be- és kiparkoláskor a park környéki mellékutcákban a biztonság érdekében.",
+                "ro": "Admirați parcul înzăpezit din căldura mașinii. Atenție la polei când parcați sau ieșiți din parcare pe străzile secundare din jurul parcului.",
+                "en": "Admire the snow-covered park from the warmth of your vehicle. Watch out for icy patches when parking or leaving on the side streets around the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Karhusaaren taidekeskus",
+                "hu": "Karhusaaren taidekeskus",
+                "ro": "Karhusaaren taidekeskus",
+                "en": "Karhusaaren taidekeskus"
+              },
+              "tip_5lang": {
+                "de": "Das Kunstzentrum bietet eine warme Zuflucht vor dem Frost; Parkplätze sind meist gut geräumt. Prüfen Sie, ob Frostschutzmittel im Wischwasser aufgefüllt ist.",
+                "hu": "A művészeti központ meleg menedéket nyújt a fagy elől; a parkolók általában jól takarítottak. Ellenőrizze, hogy van-e elég fagyálló az ablakmosó tartályban.",
+                "ro": "Centrul de artă oferă un refugiu cald împotriva gerului; parcările sunt de regulă bine curățate. Verificați dacă aveți destul lichid de parbriz anti-îngheț.",
+                "en": "The art center offers a warm refuge from the frost; parking lots are usually well-cleared. Check if you have enough antifreeze in your windshield washer tank."
+              }
+            },
+            {
+              "name": {
+                "de": "Pluto",
+                "hu": "Pluto",
+                "ro": "Pluto",
+                "en": "Pluto"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal steht markant in der Winterlandschaft; ein kurzer Stopp für Fotos lohnt sich. Schalten Sie bei Schneefall das Abblendlicht für bessere Sicht ein.",
+                "hu": "Az emlékmű markánsan emelkedik ki a téli tájból; egy rövid fotómegállót mindenképp megér. Hóesésben kapcsolja be a tompított fényszórót a jobb láthatóságért.",
+                "ro": "Monumentul se înalță impunător în peisajul de iarnă; merită o scurtă oprire pentru fotografii. Pe ninsoare, aprindeți faza scurtă pentru o vizibilitate mai bună.",
+                "en": "The monument stands out strikingly in the winter landscape; a short photo stop is definitely worth it. In snowfall, turn on low beam headlights for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Lauttasaaren kirkko",
+                "hu": "Lauttasaaren kirkko",
+                "ro": "Lauttasaaren kirkko",
+                "en": "Lauttasaaren kirkko"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winterlicht besonders eindrucksvoll; genießen Sie die warme Atmosphäre im Inneren. Achten Sie auf Schneeanhäufungen auf dem Autodach.",
+                "hu": "A templom a téli fényekben különösen lenyűgöző; élvezze a benti meleg és békés hangulatot. Indulás előtt ügyeljen az autó tetején maradt hórétegre.",
+                "ro": "Biserica este deosebit de impresionantă în lumina iernii; bucurați-vă de atmosfera caldă din interior. Atenție la zăpada acumulată pe plafonul mașinii.",
+                "en": "The church is particularly impressive in the winter light; enjoy the warm atmosphere inside. Watch out for snow accumulation on the car roof before driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Lauttasaaren kartano",
+                "hu": "Lauttasaaren kartano",
+                "ro": "Lauttasaaren kartano",
+                "en": "Lauttasaaren kartano"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus wirkt im Schnee wie verzaubert; die Zufahrten sind im Winter meist geräumt. Prüfen Sie die Funktion der Scheinwerfer für die dunkle Heimfahrt.",
+                "hu": "A kúria olyan a hóban, mintha elvarázsolták volna; a behajtók általában jól takarítottak télen. Ellenőrizze a fényszórókat a sötétben való hazatérés előtt.",
+                "ro": "Conacul pare vrăjit sub zăpadă; căile de acces sunt de obicei curățate iarna. Verificați funcționarea farurilor înainte de drumul spre casă pe întuneric.",
+                "en": "The manor looks enchanted in the snow; the driveways are usually well-cleared in winter. Check your headlights' function before driving home in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

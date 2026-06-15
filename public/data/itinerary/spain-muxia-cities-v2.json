@@ -160,6 +160,196 @@
         "hu": "A reggel Muxía szívében kezdődik, felfedezve a bájos önkormányzati központot és belélegezve a friss atlanti levegőt a közeli strandokon.\nA dél közeledtével elmerül a város spirituális örökségében, és lenyűgöző vallási nevezetességeket látogat meg a tenger partján.\nA délután a természeté és a hagyományoké, kilátópontokat mászva és a híres angolnaszárítókat megfigyelve.\nAz este egy legendás naplementével zárul a mitikus ingókövek közelében, felejthetetlen emlékeket hagyva a galíciai tengerpartról.",
         "ro": "Dimineața dumneavoastră începe în inima orașului Muxía, explorând centrul său fermecător și respirând aerul proaspăt al Atlanticului la plajele din apropiere.\nPe măsură ce se apropie prânzul, pătrundeți în moștenirea spirituală a orașului, vizitând repere religioase de pe malul mării.\nDupă-amiaza este dedicată naturii și tradițiilor, urcând la puncte de belvedere și admirând uscătoarele de anghilă.\nSeara se încheie cu un apus de soare legendar lângă stâncile mitice, lăsându-vă cu amintiri de neuitat de pe coasta Galiciei.",
         "en": "Your morning begins in the heart of Muxía, exploring its charming municipal center and breathing in the fresh Atlantic air at the nearby beaches.\nAs midday approaches, you delve into the town's spiritual legacy, visiting profound religious landmarks that overlook the endless sea.\nThe afternoon is dedicated to nature and heritage, climbing panoramic viewpoints and witnessing the iconic conger eel drying racks.\nYour evening concludes with a legendary sunset near the mythical rocking stones, leaving you with unforgettable memories of the Galician coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Hafen, wo der Nebel an den Masten hängt und das Rathaus einen trockenen Start bietet. Mittags sind die Küstenpfade wild von der Gischt, was wasserfeste Kleidung für den Spaziergang unerlässlich macht. Am Nachmittag wirkt das steinerne Heiligtum wie eine Festung gegen den Sturm. Der Abend bringt einen sanften Glanz auf die nassen Straßen, während der Regen nachlässt.",
+            "hu": "A reggel a kikötőben indul, ahol a köd a vitorlák közé tapad, a városháza pedig száraz menedéket nyújt a kezdéshez. Délben a part menti ösvényeken a tenger permete és a szél az úr, ezért a vízhatlan öltözet elengedhetetlen. Délután a kőtemplom valóságos erődként védelmezi a látogatót a vihar elől. Az este csendes fényt hoz a vizes utcákra, ahogy az eső szitálássá szelídül az óceán felett.",
+            "ro": "Dimineața începe în port, unde ceața se agață de catarge, iar primăria oferă un adăpost uscat pentru început. La prânz, potecile de coastă sunt pline de spray marin, făcând echipamentul impermeabil esențial pentru plimbare. După-amiaza, sanctuarul de piatră pare o fortăreață împotriva furtunii. Seara aduce o strălucire blândă pe străzile umede, în timp ce ploaia se transformă într-o burniță ușoară.",
+            "en": "Morning starts at the harbor where the mist clings to the masts and the town hall offers a dry start. By noon, the coastal paths are wild with spray, making waterproof gear essential for the walk. In the afternoon, the stone sanctuary feels like a fortress against the storm. Evening brings a quiet glow to the wet streets as the rain softens into a gentle drizzle over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Concello de Muxía",
+                "hu": "Concello de Muxía",
+                "ro": "Concello de Muxía",
+                "en": "Concello de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Rathaus als ersten trockenen Unterschlupf, um die lokale Geschichte zu erkunden; beachten Sie, dass das Kopfsteinpflaster davor bei Regen sehr rutschig ist.",
+                "hu": "Használja a városházát az első száraz menedékként a helyi történelem felfedezéséhez; ügyeljen rá, hogy az előtte lévő macskaköves burkolat esőben rendkívül csúszós lehet.",
+                "ro": "Folosiți primăria ca prim adăpost uscat pentru a explora istoria locală; rețineți că pavajul de piatră din față devine foarte alunecos atunci când plouă abundent.",
+                "en": "Use the town hall as your first dry shelter to explore local history; note that the stone pavement outside becomes extremely slippery when wet during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Lanchas",
+                "hu": "Praia das Lanchas",
+                "ro": "Praia das Lanchas",
+                "en": "Praia das Lanchas"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatische Brandung von den überdachten Bereichen der Promenade aus; die aufpeitschenden Wellen bieten bei Regen ein besonders kraftvolles Naturschauspiel.",
+                "hu": "Figyelje meg a drámai hullámzást a sétány fedett részeiről; a felcsapó tengeri permet esős időben különösen erőteljes és látványos természeti élményt nyújt.",
+                "ro": "Observați valurile dramatice din zonele acoperite ale falezii; marea agitată oferă un spectacol natural deosebit de puternic atunci când plouă și vântul bate dinspre larg.",
+                "en": "Observe the dramatic surf from the covered areas of the promenade; the crashing waves provide a particularly powerful natural spectacle when it rains and the wind picks up."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Muxía",
+                "hu": "Igrexa de Santa María de Muxía",
+                "ro": "Igrexa de Santa María de Muxía",
+                "en": "Igrexa de Santa María de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet eine spirituelle und trockene Zuflucht vor den Küstenwinden; bewundern Sie die gotischen Details, während Sie dem Regen an den dicken Steinmauern lauschen.",
+                "hu": "Ez a templom lelki és száraz menedéket nyújt a parti szél elől; csodálja meg a gótikus részleteket, miközben hallgatja az eső kopogását a vastag kőfalakon.",
+                "ro": "Această biserică oferă un refugiu spiritual și uscat de vânturile de coastă; admirați detaliile gotice în timp ce ascultați ploaia bătând în zidurile groase de piatră.",
+                "en": "This church offers a spiritual and dry refuge from the coastal winds; admire the Gothic details while listening to the rain drumming against the thick stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Corpiño",
+                "hu": "Miradoiro do Corpiño",
+                "ro": "Miradoiro do Corpiño",
+                "en": "Miradoiro do Corpiño"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg bietet trotz Regen eine mystische Aussicht auf den nebligen Ozean; tragen Sie unbedingt griffige Wanderschuhe, da die Pfade zum Aussichtspunkt schlammig sind.",
+                "hu": "A felkapaszkodás az eső ellenére misztikus kilátást nyújt a ködös óceánra; viseljen tapadós talpú cipőt, mert a kilátóhoz vezető ösvények sárban csúszóssá válnak.",
+                "ro": "Urcarea oferă o vedere mistică asupra oceanului cețos în ciuda ploii; purtați încălțăminte cu aderență bună, deoarece cărările spre punct sunt noroioase și alunecoase.",
+                "en": "The climb offers a mystical view of the misty ocean despite the rain; wear high-grip shoes as the paths to the viewpoint become muddy and slick in these conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Secadoiro de Congrios",
+                "hu": "Secadoiro de Congrios",
+                "ro": "Secadoiro de Congrios",
+                "en": "Secadoiro de Congrios"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die traditionellen Trockengestelle, die im Regen glänzen; diese archaischen Holzstrukturen wirken unter einem grauen Himmel besonders authentisch und zeitlos.",
+                "hu": "Látogassa meg a hagyományos szárítóállványokat, amelyek fényesen csillognak az esőben; ezek a faépítmények a szürke égbolt alatt különösen autentikus látványt nyújtanak.",
+                "ro": "Vizitați uscătoriile tradiționale care strălucesc sub ploaie; aceste structuri arhaice de lemn par deosebit de autentice sub cerul gri, evocând tradiția pescărească.",
+                "en": "Visit the traditional drying racks that glisten in the rain; these archaic wooden structures look particularly authentic and timeless under a moody grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "A Pedra de Abalar",
+                "hu": "A Pedra de Abalar",
+                "ro": "A Pedra de Abalar",
+                "en": "A Pedra de Abalar"
+              },
+              "tip_5lang": {
+                "de": "Der heilige Stein wirkt im Regen dunkler und geheimnisvoller; halten Sie sich wegen der starken Windböen und der extrem glatten Felsen in sicherem Abstand zur Brandung.",
+                "hu": "A szent kő az esőben sötétebbnek és titokzatosabbnak tűnik; a hatalmas széllökések és a csúszós sziklák miatt tartson biztonságos távolságot a felcsapó hullámoktól.",
+                "ro": "Piatra sacră pare mai întunecată și mai misterioasă sub ploaie; păstrați o distanță sigură de valuri din cauza rafalelor puternice de vânt și a stâncilor alunecoase.",
+                "en": "The sacred stone appears darker and more mysterious in the rain; keep a safe distance from the surf due to strong wind gusts and the extremely slick granite surfaces."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wind weht am Wintermorgen durch die Gassen von Muxía, während das Licht weich auf die Granitwände fällt. Mittags bietet die Küste eine einsame Schönheit, ideal für einen klaren Blick auf den Atlantik. Da die Sonne bereits gegen 17:00 Uhr untergeht, ist der Nachmittag die beste Zeit für das Heiligtum. Der Abend endet gemütlich bei einem heißen Getränk im Ortskern.",
+            "hu": "Hűvös szél fúj a téli reggelen Muxía utcáin, miközben a fény lágyan törik meg a gránitfalakon. Délben a part magányos szépséget áraszt, tökéletes a tiszta kilátáshoz az Atlanti-óceánra. Mivel a nap már 17:00 körül lenyugszik, a délután a legalkalmasabb idő a szentély felkeresésére. Az este meghitt hangulatban, egy meleg ital mellett ér véget a központban.",
+            "ro": "Un vânt răcoros bate în dimineața de iarnă prin străzile din Muxía, în timp ce lumina cade blând pe pereții de granit. La prânz, coasta oferă o frumusețe solitară, ideală pentru o vedere clară. Deoarece soarele apune deja în jurul orei 17:00, după-amiaza este cel mai bun moment pentru sanctuar. Seara se încheie confortabil cu o băutură caldă în centru.",
+            "en": "A chilly wind blows through the streets of Muxía on a winter morning, with soft light hitting the granite walls. At noon, the coast offers a solitary beauty, perfect for clear views of the Atlantic. Since the sun sets around 17:00, the afternoon is the best time for the sanctuary. The evening ends cozily with a warm drink in the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Concello de Muxía",
+                "hu": "Concello de Muxía",
+                "ro": "Concello de Muxía",
+                "en": "Concello de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Verwaltungszentrum früh am Morgen, um der Kälte zu entgehen; die dicken Mauern speichern die Restwärme und bieten Schutz vor dem scharfen Seewind.",
+                "hu": "Látogassa meg az adminisztratív központot kora reggel, hogy elkerülje a hideget; a vastag falak jól tartják a hőt és védelmet nyújtanak a metsző tengeri szél ellen.",
+                "ro": "Vizitați centrul administrativ dimineața devreme pentru a evita frigul; zidurile groase rețin căldura și oferă protecție împotriva vântului tăios de pe malul mării.",
+                "en": "Visit the administrative center early in the morning to escape the chill; the thick walls retain some warmth and provide protection from the sharp sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia das Lanchas",
+                "hu": "Praia das Lanchas",
+                "ro": "Praia das Lanchas",
+                "en": "Praia das Lanchas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den einsamen Strandspaziergang in der frischen Winterluft; ziehen Sie sich winddicht an, da die Temperaturen am Wasser deutlich kühler wirken als im Ort.",
+                "hu": "Élvezze a magányos tengerparti sétát a friss téli levegőn; öltözzön szélállóan, mivel a vízparton a hőmérséklet sokkal hűvösebbnek tűnik, mint a város belső részein.",
+                "ro": "Bucurați-vă de o plimbare solitară pe plajă în aerul proaspăt de iarnă; purtați haine rezistente la vânt, deoarece temperatura este mult mai scăzută lângă apă.",
+                "en": "Enjoy a solitary beach walk in the fresh winter air; dress in windproof layers as the temperature by the water feels much cooler than in the sheltered town streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Muxía",
+                "hu": "Igrexa de Santa María de Muxía",
+                "ro": "Igrexa de Santa María de Muxía",
+                "en": "Igrexa de Santa María de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille der Kirche im sanften Winterlicht; die ruhige Atmosphäre ist perfekt für eine besinnliche Pause, bevor die Sonne am frühen Nachmittag tief sinkt.",
+                "hu": "Tapasztalja meg a templom csendjét a lágy téli fényben; a nyugodt környezet tökéletes egy elmélyült pihenőre, mielőtt a nap korán alacsonyra süllyedne a látóhatáron.",
+                "ro": "Experimentați liniștea bisericii în lumina blândă a iernii; atmosfera calmă este perfectă pentru o pauză reflexivă înainte ca soarele să coboare devreme spre orizont.",
+                "en": "Experience the silence of the church in the soft winter light; the calm atmosphere is perfect for a reflective break before the sun dips low early in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Corpiño",
+                "hu": "Miradoiro do Corpiño",
+                "ro": "Miradoiro do Corpiño",
+                "en": "Miradoiro do Corpiño"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch hier für 16:30 Uhr, um den spektakulären Wintersonnenuntergang zu sehen; bringen Sie eine Taschenlampe für den Abstieg in der Dämmerung mit.",
+                "hu": "Tervezze látogatását 16:30-ra, hogy láthassa a látványos téli naplementét; hozzon magával zseblámpát, mert a sötétség gyorsan leszáll a visszafelé vezető úton.",
+                "ro": "Planificați vizita aici pentru ora 16:30 pentru a vedea apusul spectaculos de iarnă; aduceți o lanternă pentru coborârea care va avea loc pe întuneric după ora 17:00.",
+                "en": "Plan your visit here for 16:30 to catch the spectacular winter sunset; bring a flashlight for the descent as darkness falls very quickly after 17:00 in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Secadoiro de Congrios",
+                "hu": "Secadoiro de Congrios",
+                "ro": "Secadoiro de Congrios",
+                "en": "Secadoiro de Congrios"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Holzgestelle wirken im tiefen Stand der Wintersonne besonders plastisch; nutzen Sie das goldene Licht kurz vor 17:00 Uhr für eindrucksvolle Fotos.",
+                "hu": "A történelmi faállványok a téli nap alacsony állásánál különösen karakteresek; használja ki az 17:00 előtti aranyórát az igazán látványos fényképek készítéséhez.",
+                "ro": "Suporturile istorice de lemn par foarte sculpturale în lumina joasă a soarelui de iarnă; profitați de ora de aur înainte de 17:00 pentru fotografii impresionante.",
+                "en": "The historic wooden racks look particularly sculptural in the low winter sun; take advantage of the golden light just before 17:00 for impressive photography."
+              }
+            },
+            {
+              "name": {
+                "de": "A Pedra de Abalar",
+                "hu": "A Pedra de Abalar",
+                "ro": "A Pedra de Abalar",
+                "en": "A Pedra de Abalar"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen magischen Ort in der blauen Stunde direkt nach Sonnenuntergang; achten Sie auf glatte Steine durch winterlichen Frost oder Feuchtigkeit am Abend.",
+                "hu": "Látogassa meg ezt a mágikus helyet a kék órában, közvetlenül naplemente után; ügyeljen a téli fagy vagy pára miatt csúszóssá vált kövekre az esti órákban.",
+                "ro": "Vizitați acest loc magic în ora albastră, imediat după apus; aveți grijă la pietrele alunecoase din cauza înghețului de iarnă sau a umezelii depuse seara.",
+                "en": "Visit this magical spot during the blue hour right after sunset; watch out for slippery stones due to winter frost or moisture accumulation in the evening hours."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "A reggel Muxía szívében kezdődik, felfedezve a bájos önkormányzati központot és belélegezve a friss atlanti levegőt a közeli strandokon.\nA dél közeledtével elmerül a város spirituális örökségében, és lenyűgöző vallási nevezetességeket látogat meg a tenger partján.\nA délután a természeté és a hagyományoké, kilátópontokat mászva és a híres angolnaszárítókat megfigyelve.\nAz este egy legendás naplementével zárul a mitikus ingókövek közelében, felejthetetlen emlékeket hagyva a galíciai tengerpartról.",
         "ro": "Dimineața dumneavoastră începe în inima orașului Muxía, explorând centrul său fermecător și respirând aerul proaspăt al Atlanticului la plajele din apropiere.\nPe măsură ce se apropie prânzul, pătrundeți în moștenirea spirituală a orașului, vizitând repere religioase de pe malul mării.\nDupă-amiaza este dedicată naturii și tradițiilor, urcând la puncte de belvedere și admirând uscătoarele de anghilă.\nSeara se încheie cu un apus de soare legendar lângă stâncile mitice, lăsându-vă cu amintiri de neuitat de pe coasta Galiciei.",
         "en": "Your morning begins in the heart of Muxía, exploring its charming municipal center and breathing in the fresh Atlantic air at the nearby beaches.\nAs midday approaches, you delve into the town's spiritual legacy, visiting profound religious landmarks that overlook the endless sea.\nThe afternoon is dedicated to nature and heritage, climbing panoramic viewpoints and witnessing the iconic conger eel drying racks.\nYour evening concludes with a legendary sunset near the mythical rocking stones, leaving you with unforgettable memories of the Galician coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf den Küstenstraßen, bietet aber eine erfrischende Perspektive auf die raue See. Mittags erreichen Sie das Rathaus für eine trockene Pause. Die Route führt an historischen Trockengestellen vorbei, die im nassen Wetter glänzen. Der Nachmittag endet mit einer windigen Fahrt zum heiligen Stein, bevor Sie sich im Ort aufwärmen.",
+            "hu": "Az esős bringázás óvatosságot igényel a parti utakon, de frissítő betekintést nyújt a zord tenger látványába. Délben érkezzen meg a városházához egy száraz pihenőre. Az útvonal elhalad a történelmi szárítók mellett, amelyek csillognak a párás időben. A délután egy szeles tekeréssel zárul a szent kőhöz, mielőtt a városban keresne menedéket.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile de coastă, dar oferă o perspectivă revigorantă asupra mării agitate. La prânz, ajungeți la primărie pentru o pauză uscată. Traseul trece pe lângă uscătoriile istorice care strălucesc în vremea umedă. După-amiaza se încheie cu o cursă vântoasă spre piatra sacră, înainte de a vă încălzi.",
+            "en": "Cycling in the rain requires caution on the coastal roads but offers a refreshing perspective of the rugged sea. By noon, reach the town hall for a dry break. The route passes historical drying racks glistening in the wet weather. The afternoon ends with a windy ride to the sacred stone before warming up back in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia da Cruz",
+                "hu": "Praia da Cruz",
+                "ro": "Praia da Cruz",
+                "en": "Praia da Cruz"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um die stürmische See zu bewundern; tragen Sie wasserdichte Überschuhe, um Ihre Füße vor Pfützen auf dem Radweg zu schützen.",
+                "hu": "Álljon meg egy pillanatra a viharos tenger megcsodálására; viseljen vízhatlan cipővédőt, hogy lábait megóvja a kerékpárúton lévő tócsáktól.",
+                "ro": "Opriți-vă scurt pentru a admira marea furtunoasă; purtați protecții impermeabile pentru încălțăminte ca să vă feriți picioarele de bălțile de pe pistă.",
+                "en": "Stop briefly to admire the stormy sea; wear waterproof shoe covers to protect your feet from the puddles forming along the cycling path."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Muxía",
+                "hu": "Concello de Muxía",
+                "ro": "Concello de Muxía",
+                "en": "Concello de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich am Rathaus, um Ihre Karte zu prüfen; bremsen Sie auf dem nassen Granit vorsichtig, um ein Wegrutschen der Reifen zu vermeiden.",
+                "hu": "Használja a városháza fedett részeit a térkép ellenőrzéséhez; fékezzen óvatosan a vizes grániton, hogy elkerülje a kerékpár megcsúszását.",
+                "ro": "Folosiți zona acoperită de lângă primărie pentru a verifica harta; frânați cu mare atenție pe granitul ud pentru a evita deraparea roților.",
+                "en": "Use the covered area by the town hall to check your map; brake gently on the wet granite surfaces to prevent your bike tires from sliding."
+              }
+            },
+            {
+              "name": {
+                "de": "Secadoiro da Pedriña",
+                "hu": "Secadoiro da Pedriña",
+                "ro": "Secadoiro da Pedriña",
+                "en": "Secadoiro da Pedriña"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade hier können bei Regen schlammig sein; ein Schutzblech am Rad ist sehr empfehlenswert, um Ihre Kleidung vor aufgewirbeltem Schmutz zu bewahren.",
+                "hu": "Az itteni ösvények sárban csúszósak lehetnek; a sárvédő használata erősen ajánlott, hogy megóvja ruházatát a felverődő kosztól a szárítók környékén.",
+                "ro": "Potecile de aici pot fi noroioase pe ploaie; o apărătoare de noroi la bicicletă este recomandată pentru a vă proteja hainele de murdărie.",
+                "en": "The paths here can be muddy in the rain; a mudguard on your bike is highly recommended to protect your clothes from splashes around the drying racks."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Muxía",
+                "hu": "Igrexa de Santa María de Muxía",
+                "ro": "Igrexa de Santa María de Muxía",
+                "en": "Igrexa de Santa María de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einer geschützten Stelle und genießen Sie die Ruhe im Inneren; die dicken Mauern bieten perfekten Schutz vor Regenböen.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és élvezze a belső csendet; a vastag falak tökéletes menedéket nyújtanak az esős széllökések elől.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de liniștea din interior; zidurile groase oferă un adăpost perfect împotriva rafalelor de ploaie.",
+                "en": "Park your bike in a sheltered spot and enjoy the interior silence; the thick walls provide a perfect shield against the rainy wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "A Pedra de Abalar",
+                "hu": "A Pedra de Abalar",
+                "ro": "A Pedra de Abalar",
+                "en": "A Pedra de Abalar"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig bei starkem Wind am Kap; halten Sie einen sicheren Abstand zum Ufer, da die Gischt den Radweg sehr glatt machen kann.",
+                "hu": "Legyen óvatos az erős szélben a foknál; tartson biztonságos távolságot a parttól, mert a vízpermet nagyon csúszóssá teheti a kerékpárutat.",
+                "ro": "Fiți precaut la vântul puternic de la cap; păstrați o distanță sigură de mal, deoarece spray-ul marin poate face pista de biciclete foarte alunecoasă.",
+                "en": "Be cautious of strong winds at the cape; keep a safe distance from the shore as the salt spray can make the bike path extremely slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft macht die Radtour entlang der Küste von Muxía zu einem belebenden Erlebnis. Mittags ist das Licht am Rathaus ideal für Fotos der menschenleeren Plätze. Der Nachmittag führt Sie zu den einsamen Trockengestellen, wo die Geschichte Muxías greifbar ist. Beenden Sie die Tour vor 17:00 Uhr, da die Temperaturen nach Sonnenuntergang schnell fallen.",
+            "hu": "A friss téli levegő élénkítővé teszi a kerékpártúrát Muxía partjai mentén. Délben a városházánál a fények tökéletesek az üres terek fotózásához. A délután elvezeti a magányos szárítóállványokhoz, ahol Muxía történelme kézzelfogható. Fejezze be a túrát 17:00 előtt, mert naplemente után a hőmérséklet gyorsan csökken.",
+            "ro": "Aerul proaspăt de iarnă face turul cu bicicleta de-a lungul coastei din Muxía o experiență revigorantă. La prânz, lumina este ideală pentru fotografii în piețele goale. După-amiaza vă duce la uscătoriile solitare, unde istoria locală este palpabilă. Terminați turul înainte de 17:00, deoarece temperatura scade rapid după apus.",
+            "en": "The crisp winter air makes the bike tour along Muxía's coast an invigorating experience. At noon, the light at the town hall is ideal for photos of empty squares. The afternoon leads you to solitary drying racks where history is tangible. Finish your tour before 17:00 as temperatures drop quickly after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia da Cruz",
+                "hu": "Praia da Cruz",
+                "ro": "Praia da Cruz",
+                "en": "Praia da Cruz"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht über den Ozean; tragen Sie Handschuhe, da der Fahrtwind am Strand im Winter besonders kalt an den Fingern ist.",
+                "hu": "Élvezze a tiszta kilátást az óceánra; viseljen kesztyűt, mert a menetszél a tengerparton télen különösen hideg tud lenni az ujjaknak.",
+                "ro": "Bucurați-vă de vederea clară peste ocean; purtați mănuși, deoarece vântul creat de mișcare pe plajă iarna este foarte rece pentru degete.",
+                "en": "Enjoy the clear views over the ocean; wear gloves as the wind chill on the beach in winter can be particularly biting for your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Concello de Muxía",
+                "hu": "Concello de Muxía",
+                "ro": "Concello de Muxía",
+                "en": "Concello de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne bietet hier ein wenig Wärme; nutzen Sie die ruhige Wintersaison, um das Gebäude ohne die üblichen Touristenmassen zu bewundern.",
+                "hu": "A déli napsütés itt némi meleget adhat; használja ki a csendes téli szezont az épület megcsodálására a szokásos turistaáradat nélkül.",
+                "ro": "Soarele de la prânz oferă puțină căldură aici; profitați de sezonul liniștit de iarnă pentru a admira clădirea fără masele obișnuite de turiști.",
+                "en": "The midday sun provides a bit of warmth here; take advantage of the quiet winter season to admire the building without the usual tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Secadoiro da Pedriña",
+                "hu": "Secadoiro da Pedriña",
+                "ro": "Secadoiro da Pedriña",
+                "en": "Secadoiro da Pedriña"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren oder rutschig sein; fahren Sie in den Kurven vorsichtig, während Sie die winterliche Küstenlandschaft betrachten.",
+                "hu": "A talaj fagyott vagy csúszós lehet; hajtson óvatosan a kanyarokban, miközben a téli partmenti tájban gyönyörködik a szárítóknál.",
+                "ro": "Solul poate fi înghețat sau alunecos; conduceți cu prudență în curbe în timp ce admirați peisajul costier de iarnă de la uscătoriile de pește.",
+                "en": "The ground can be frozen or slippery; ride carefully through the turns while taking in the winter coastal scenery around the drying racks."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Muxía",
+                "hu": "Igrexa de Santa María de Muxía",
+                "ro": "Igrexa de Santa María de Muxía",
+                "en": "Igrexa de Santa María de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Tag optimal und besuchen Sie die Kirche am frühen Nachmittag; das warme Licht im Inneren bildet einen tollen Kontrast zur Kälte.",
+                "hu": "Használja ki a rövid nappalt, és látogassa meg a templomot kora délután; a belső meleg fények remek kontrasztot alkotnak a kinti hideggel.",
+                "ro": "Profită de ziua scurtă și vizitează biserica la începutul după-amiezii; lumina caldă din interior oferă un contrast plăcut cu frigul de afară.",
+                "en": "Make the most of the short day and visit the church in the early afternoon; the warm interior light offers a great contrast to the outdoor cold."
+              }
+            },
+            {
+              "name": {
+                "de": "A Pedra de Abalar",
+                "hu": "A Pedra de Abalar",
+                "ro": "A Pedra de Abalar",
+                "en": "A Pedra de Abalar"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Stein vor 17:00 Uhr für den Sonnenuntergang; rüsten Sie Ihr Rad mit Licht aus, falls die Rückfahrt in die einsetzende Dämmerung fällt.",
+                "hu": "Érjen a kőhöz 17:00 előtt a naplemente megtekintéséhez; szerelje fel kerékpárját lámpákkal, ha a visszaút az időközben beálló szürkületbe nyúlna.",
+                "ro": "Ajungeți la piatră înainte de 17:00 pentru apus; echipați-vă bicicleta cu lumini în cazul în care drumul de întoarcere are loc în amurgul instalat rapid.",
+                "en": "Reach the stone before 17:00 for the sunset; equip your bike with lights in case the return journey stretches into the rapidly onsetting twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "A reggel Muxía szívében kezdődik, felfedezve a bájos önkormányzati központot és belélegezve a friss atlanti levegőt a közeli strandokon.\nA dél közeledtével elmerül a város spirituális örökségében, és lenyűgöző vallási nevezetességeket látogat meg a tenger partján.\nA délután a természeté és a hagyományoké, kilátópontokat mászva és a híres angolnaszárítókat megfigyelve.\nAz este egy legendás naplementével zárul a mitikus ingókövek közelében, felejthetetlen emlékeket hagyva a galíciai tengerpartról.",
         "ro": "Dimineața dumneavoastră începe în inima orașului Muxía, explorând centrul său fermecător și respirând aerul proaspăt al Atlanticului la plajele din apropiere.\nPe măsură ce se apropie prânzul, pătrundeți în moștenirea spirituală a orașului, vizitând repere religioase de pe malul mării.\nDupă-amiaza este dedicată naturii și tradițiilor, urcând la puncte de belvedere și admirând uscătoarele de anghilă.\nSeara se încheie cu un apus de soare legendar lângă stâncile mitice, lăsându-vă cu amintiri de neuitat de pe coasta Galiciei.",
         "en": "Your morning begins in the heart of Muxía, exploring its charming municipal center and breathing in the fresh Atlantic air at the nearby beaches.\nAs midday approaches, you delve into the town's spiritual legacy, visiting profound religious landmarks that overlook the endless sea.\nThe afternoon is dedicated to nature and heritage, climbing panoramic viewpoints and witnessing the iconic conger eel drying racks.\nYour evening concludes with a legendary sunset near the mythical rocking stones, leaving you with unforgettable memories of the Galician coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt entlang der Küste bietet im Regen einen geschützten Blick auf die tosende Brandung. Mittags ist die Kapelle von Moraime ein perfekter Halt, um dem Wetter in mittelalterlichen Mauern zu entfliehen. Der Nachmittag führt zum Heiligtum, wo Sie die Kraft der Natur vom warmen Innenraum aus erleben können. Abends glänzen die Lichter des Hafens durch die regennasse Windschutzscheibe.",
+            "hu": "Az autóút a part mentén védett kilátást nyújt a dübörgő hullámokra az esőben. Délben a Moraime-kápolna tökéletes megálló, hogy a középkori falak között keressen menedéket. A délután a szentélyhez vezet, ahol a meleg autóból kiszállva is érezheti a természet erejét. Este a kikötő fényei csillognak a reggel óta tartó esőtől nedves szélvédőn keresztül.",
+            "ro": "Călătoria cu mașina de-a lungul coastei oferă o vedere protejată spre valurile care se sparg de stânci în ploaie. La prânz, capela din Moraime este o oprire perfectă. După-amiaza vă duce la sanctuar, unde puteți simți forța naturii chiar și dintr-o scurtă vizită. Seara, luminile portului strălucesc prin parbrizul umed de ploaie.",
+            "en": "The car drive along the coast offers a protected view of the crashing surf in the rain. At noon, the Moraime chapel is a perfect stop to escape the weather within medieval walls. The afternoon leads to the sanctuary, where you can feel nature's power even during a brief visit. In the evening, the harbor lights glisten through the rain-streaked windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Lourido",
+                "hu": "Praia de Lourido",
+                "ro": "Praia de Lourido",
+                "en": "Praia de Lourido"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen bequem vom Parkplatz aus; dies ist ein idealer Ort, um die stürmische See zu sehen, ohne nass zu werden.",
+                "hu": "Figyelje a hullámokat kényelmesen a parkolóból; ez az ideális hely, hogy megcsodálja a viharos tengert anélkül, hogy bőrig ázna.",
+                "ro": "Observați valurile confortabil din parcare; acesta este un loc ideal pentru a vedea marea furtunoasă fără a fi nevoie să vă udați.",
+                "en": "Observe the waves comfortably from the parking lot; this is an ideal spot to see the stormy sea without the need to get soaked in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de San Roque de Moraime",
+                "hu": "Capela de San Roque de Moraime",
+                "ro": "Capela de San Roque de Moraime",
+                "en": "Capela de San Roque de Moraime"
+              },
+              "tip_5lang": {
+                "de": "Diese Kapelle ist ein hervorragender Zufluchtsort bei Regen; parken Sie direkt davor und bewundern Sie die antiken Steinarbeiten im Trockenen.",
+                "hu": "Ez a kápolna kiváló menedék esőben; parkoljon közvetlenül előtte, és csodálja meg az antik kőfaragásokat a száraz és csendes belső térben.",
+                "ro": "Această capelă este un refugiu excelent pe ploaie; parcați chiar în față și admirați sculpturile antice în piatră într-un mediu uscat și liniștit.",
+                "en": "This chapel is an excellent refuge during rain; park right in front and admire the ancient stonework in a dry and peaceful interior environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Fornelos",
+                "hu": "Praia de Fornelos",
+                "ro": "Praia de Fornelos",
+                "en": "Praia de Fornelos"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Ufer lohnt sich für die dramatischen Farben des Meeres; halten Sie im Auto einen Regenschirm für den kurzen Weg zum Strand bereit.",
+                "hu": "Egy rövid futás a partig megéri a tenger drámai színeiért; tartson az autóban esernyőt a strandhoz vezető pár méteres szakaszhoz.",
+                "ro": "O scurtă fugă până la țărm merită pentru culorile dramatice ale mării; țineți o umbrelă în mașină pentru distanța scurtă până la plajă.",
+                "en": "A short sprint to the shore is worth it for the sea's dramatic colors; keep an umbrella in the car for the short path leading to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Muxía",
+                "hu": "Igrexa de Santa María de Muxía",
+                "ro": "Igrexa de Santa María de Muxía",
+                "en": "Igrexa de Santa María de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Hafens und nutzen Sie die Kirche als trockenen Aussichtspunkt; die Akustik im Inneren ist bei Regen besonders stimmungsvoll.",
+                "hu": "Parkoljon a kikötő közelében, és használja a templomot száraz kilátópontként; a belső tér akusztikája esőben különösen hangulatos és megnyugtató.",
+                "ro": "Parcați lângă port și folosiți biserica ca punct de observație uscat; acustica din interior este deosebit de atmosferică atunci când plouă afară.",
+                "en": "Park near the harbor and use the church as a dry vantage point; the interior acoustics are particularly atmospheric and soothing when it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Corpiño",
+                "hu": "Miradoiro do Corpiño",
+                "ro": "Miradoiro do Corpiño",
+                "en": "Miradoiro do Corpiño"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind im Fahrzeug und genießen Sie die Panoramaaussicht; die erhöhte Position bietet auch bei Regen einen weiten Blick über die Küste.",
+                "hu": "Erős szélben maradjon a járműben, és élvezze a panorámát; a magaslati pont az eső ellenére is tágas kilátást nyújt a partvidékre.",
+                "ro": "Rămâneți în vehicul dacă vântul este prea puternic și bucurați-vă de panoramă; punctul înalt oferă o vedere largă asupra coastei în ciuda ploii.",
+                "en": "Stay in the vehicle if the wind is too strong and enjoy the panoramic view; the high vantage point offers a wide view of the coast despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Secadoiro de Congrios",
+                "hu": "Secadoiro de Congrios",
+                "ro": "Secadoiro de Congrios",
+                "en": "Secadoiro de Congrios"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an den Gestellen vorbei, um Fotos aus dem Fenster zu machen; die nassen Strukturen wirken unter dem grauen Himmel sehr mystisch.",
+                "hu": "Hajtson el lassan az állványok mellett, hogy az ablakból készíthessen fotókat; a vizes szerkezetek a szürke ég alatt nagyon misztikus látványt nyújtanak.",
+                "ro": "Conduceți încet pe lângă suporturi pentru a face fotografii de pe fereastră; structurile umede par foarte mistice sub cerul gri al Galiciei.",
+                "en": "Drive slowly past the racks to take photos from your window; the wet structures look very mystical under the grey Galician sky in rainy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt nach Muxía besticht durch klare Luft und einsame Küstenstraßen. Mittags bietet die Heizung im Auto wohlige Wärme zwischen den historischen Stopps in Moraime und am Hafen. Da das Tageslicht gegen 17:00 Uhr schwindet, ist der Nachmittag perfekt für Panoramafahrten. Der Abend endet mit einem stimmungsvollen Blick auf die beleuchtete Stadt.",
+            "hu": "A téli autózás Muxía felé tiszta levegővel és magányos parti utakkal ajándékozza meg. Délben az autó fűtése kellemes meleget ad a moraime-i és a kikötői történelmi megállók között. Mivel a napfény 17:00 körül elfogy, a délután tökéletes a panorámautakhoz. Az este a kivilágított város hangulatos látványával zárul.",
+            "ro": "Călătoria de iarnă spre Muxía impresionează prin aerul clar și drumurile de coastă solitare. La prânz, căldura din mașină oferă confort între opririle istorice din Moraime și port. Deoarece lumina zilei dispare în jurul orei 17:00, după-amiaza este perfectă pentru trasee panoramice. Seara se încheie cu o vedere atmosferică a orașului iluminat.",
+            "en": "The winter drive to Muxía impresses with clear air and solitary coastal roads. At noon, the car's heater provides comfort between historical stops in Moraime and the harbor. Since daylight fades around 17:00, the afternoon is perfect for scenic drives. The evening ends with an atmospheric view of the illuminated town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia de Lourido",
+                "hu": "Praia de Lourido",
+                "ro": "Praia de Lourido",
+                "en": "Praia de Lourido"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintersonne am Strand; nutzen Sie die beheizte Kabine Ihres Autos als Basis für kurze Spaziergänge an der frischen Seeluft.",
+                "hu": "Élvezze a tiszta téli napsütést a strandon; használja az autó fűtött utasterét bázisként a friss tengeri levegőn tett rövid sétákhoz.",
+                "ro": "Bucurați-vă de soarele clar de iarnă pe plajă; folosiți cabina încălzită a mașinii ca bază pentru scurte plimbări în aerul proaspăt al mării.",
+                "en": "Enjoy the clear winter sunshine on the beach; use your car's heated cabin as a base for short, brisk walks in the fresh and invigorating sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Capela de San Roque de Moraime",
+                "hu": "Capela de San Roque de Moraime",
+                "ro": "Capela de San Roque de Moraime",
+                "en": "Capela de San Roque de Moraime"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen geschichtsträchtigen Ort zur Mittagszeit für das beste Licht; die kühle, ruhige Atmosphäre im Winter verstärkt den antiken Charme.",
+                "hu": "Látogassa meg ezt a történelmi helyet délidőben a legjobb fényviszonyokért; a hűvös, csendes téli légkör felerősíti az antik falak varázsát.",
+                "ro": "Vizitați acest loc istoric la prânz pentru cea mai bună lumină; atmosfera răcoroasă și liniștită de iarnă amplifică farmecul zidurilor antice.",
+                "en": "Visit this historic site at midday for the best lighting conditions; the cool, quiet winter atmosphere enhances the charm of the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Fornelos",
+                "hu": "Praia de Fornelos",
+                "ro": "Praia de Fornelos",
+                "en": "Praia de Fornelos"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; nutzen Sie den nahegelegenen Parkplatz für einen schnellen Zugang zum Wasser bei kühlen Temperaturen.",
+                "hu": "A strand télen szinte teljesen néptelen; használja a közeli parkolót a vízpart gyors eléréséhez, mielőtt túlságosan átfázna a hűvös időben.",
+                "ro": "Plaja este aproape pustie iarna; folosiți parcarea din apropiere pentru acces rapid la malul apei înainte de a simți prea tare frigul de afară.",
+                "en": "The beach is almost deserted in winter; use the nearby parking lot for quick access to the water's edge before getting too cold in the winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa María de Muxía",
+                "hu": "Igrexa de Santa María de Muxía",
+                "ro": "Igrexa de Santa María de Muxía",
+                "en": "Igrexa de Santa María de Muxía"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das Heiligtum im goldenen Nachmittagslicht; parken Sie am Hafen, da die winterlichen Sonnenuntergänge hier gegen 16:45 Uhr spektakulär sind.",
+                "hu": "Tapasztalja meg a szentélyt az aranyló délutáni fényekben; parkoljon a kikötőben, mivel a téli naplementék 16:45 körül itt egészen lenyűgözőek.",
+                "ro": "Experimentați sanctuarul în lumina aurie a după-amiezii; parcați în port, deoarece apusurile de iarnă de aici, în jurul orei 16:45, sunt spectaculoase.",
+                "en": "Experience the sanctuary in the golden afternoon light; park at the harbor, as the winter sunsets here around 16:45 are truly spectacular to witness."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Corpiño",
+                "hu": "Miradoiro do Corpiño",
+                "ro": "Miradoiro do Corpiño",
+                "en": "Miradoiro do Corpiño"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zum Aussichtspunkt, um den frühen Sonnenuntergang um 17:00 Uhr zu sehen; die klare Winterluft ermöglicht eine weite Sicht bis zum Horizont.",
+                "hu": "Hajtson fel a kilátóhoz a korai, 17:00-s naplemente megtekintéséhez; a tiszta téli levegő messzi kilátást tesz lehetővé egészen a horizont széléig.",
+                "ro": "Conduceți până la punctul de observație pentru apusul devreme de la ora 17:00; aerul clar de iarnă permite o vedere lungă până la linia orizontului.",
+                "en": "Drive up to the viewpoint to catch the early 17:00 sunset; the clear winter air allows for far-reaching views all the way to the distant horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Secadoiro de Congrios",
+                "hu": "Secadoiro de Congrios",
+                "ro": "Secadoiro de Congrios",
+                "en": "Secadoiro de Congrios"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gestelle in der Dämmerung nach 17:00 Uhr; die künstliche Beleuchtung verleiht den Holzstrukturen in der Winternacht ein besonderes Flair.",
+                "hu": "Látogassa meg az állványokat a 17:00 utáni szürkületben; a mesterséges fények különleges hangulatot kölcsönöznek a faépítményeknek a téli éjszakában.",
+                "ro": "Vizitați suporturile în amurgul de după ora 17:00; luminile artificiale conferă structurilor de lemn un farmec aparte în noaptea rece de iarnă.",
+                "en": "Visit the racks in the twilight after 17:00; the artificial lights give the wooden structures a unique flair during the cold winter night."
+              }
+            }
+          ]
+        }
       }
     }
   }

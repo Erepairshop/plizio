@@ -137,6 +137,168 @@
         "hu": "Reggel Aimargues szívét fedezzük fel, a városházától kezdve a közeli templomokig. Délben elmerülünk a római történelemben az ősi sírköveknél. Délután dél felé sétálunk, hogy a Camargue Autrefois-ban megismerjük a vidéki hagyományokat. Az este szabadon választható egy pihentető sétára a dél-francia hangulatban.",
         "ro": "Dimineața explorăm inima localității Aimargues, de la primărie la bisericile din apropiere. La prânz ne scufundăm în istoria romană la stelele antice. După-amiaza ne îndreptăm spre sud pentru a descoperi tradițiile rurale la Camargue Autrefois. Seara rămâne liberă pentru a vă bucura de atmosfera relaxantă din sudul Franței.",
         "en": "Morning brings an exploration of central Aimargues, walking between its historic civic and religious buildings. Midday shifts focus to the ancient Roman steles that reveal the region's deep past. The afternoon concludes with a walk towards the Camargue boundaries to celebrate local traditions. Evening allows for peaceful reflection in town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Morgen am Rathaus, nutzen Sie die Vordächer. Mittags bieten die Kirchen trockene Zuflucht für Besichtigungen. Nachmittags führt der Weg zu den antiken Stelen; festes Schuhwerk ist wegen aufgeweichter Wege ratsam. Abends endet die Tour im Ortskern, wo beleuchtete Gassen trotz Regen eine mystische Atmosphäre verbreiten.",
+            "hu": "Esős reggel a városházánál, használja az ereszeket menedéknek. Délben a templomok belső terei nyújtanak száraz pihenőt. Délután az antik sírkövek felé vezet az út; a sár miatt vízálló cipő javasolt. Este a túra a központban zárul, ahol az eső áztatta kövek különleges fényt kapnak a lámpák alatt.",
+            "ro": "Dimineață ploioasă la primărie, folosiți arcadele pentru adăpost. La prânz, bisericile oferă un refugiu uscat pentru vizitare. După-amiaza, drumul spre stelele antice necesită încălțăminte impermeabilă din cauza noroiului. Seara, turul se încheie în centru, unde străzile luminate au un farmec aparte pe ploaie.",
+            "en": "A rainy morning at the town hall; use the eaves for shelter. At noon, the church interiors provide a dry sanctuary for exploration. In the afternoon, the path to the ancient steles requires waterproof shoes as the ground softens. The tour ends in the center, where wet cobblestones reflect the evening lights beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Aimargues",
+                "hu": "Aimargues Városháza",
+                "ro": "Primăria Aimargues",
+                "en": "Aimargues Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die Fassade aus dem Schutz der umliegenden Arkaden, um trocken zu bleiben, während Sie sich orientieren und den weiteren Weg planen.",
+                "hu": "Csodálja meg a homlokzatot a közeli árkádok védelméből, így szárazon maradhat, miközben tájékozódik és megtervezi a további útvonalat a városban.",
+                "ro": "Admirați fațada din protecția arcadelor din apropiere pentru a rămâne uscat în timp ce vă orientați și vă planificați restul traseului prin oraș.",
+                "en": "Admire the facade from the shelter of the nearby arches to stay dry while you get your bearings and plan your next steps through the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Saturnin",
+                "hu": "Saint-Saturnin Templom",
+                "ro": "Biserica Saint-Saturnin",
+                "en": "St. Saturnin Church"
+              },
+              "tip_4lang": {
+                "de": "Das Kirchenschiff bietet perfekten Schutz vor Regenschauern; nutzen Sie die Zeit für die Details der Fenster, aber Vorsicht vor glatten Stufen am Eingang.",
+                "hu": "A templomhajó tökéletes menedék a záporok elől; használja ki az időt az üvegablakok megtekintésére, de ügyeljen a bejáratnál a csúszós lépcsőkre.",
+                "ro": "Naosul oferă adăpost perfect împotriva ploii; profitați de timp pentru a vedea detaliile ferestrelor, dar atenție la treptele alunecoase de la intrare.",
+                "en": "The nave offers perfect shelter from rain showers; take your time to admire the window details, but watch out for slippery steps at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Vereinigte Protestantische Kirche",
+                "hu": "Egyesült Protestáns Templom",
+                "ro": "Biserica Protestantă Unită",
+                "en": "Temple de l'Église Protestante Unie"
+              },
+              "tip_4lang": {
+                "de": "Ein weiterer trockener Stopp mit schlichter Architektur; schütteln Sie Ihren Schirm draußen gut ab, um den historischen Innenraum trocken zu halten.",
+                "hu": "Újabb száraz megálló letisztult építészettel; rázza ki alaposan az esernyőjét kint, hogy megóvja a történelmi belső teret a nedvességtől.",
+                "ro": "O altă oprire uscată cu arhitectură sobră; scuturați bine umbrela afară pentru a proteja interiorul istoric de umezeala adusă de ploaie.",
+                "en": "Another dry stop with minimalist architecture; shake your umbrella thoroughly outside to protect the historical interior from the damp weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Grabstelen",
+                "hu": "Ősi Sírkövek",
+                "ro": "Stele Funerare Antice",
+                "en": "Stèles funéraires antiques"
+              },
+              "tip_4lang": {
+                "de": "Da die Stelen im Freien stehen, ist ein großer Schirm unerlässlich; der Boden kann aufweichen, wählen Sie also einen sicheren Tritt auf festem Grund.",
+                "hu": "Mivel a sírkövek a szabad ég alatt vannak, egy nagy esernyő elengedhetetlen; a talaj felázhat, így válasszon stabil tartást a kövesebb részeken.",
+                "ro": "Deoarece stelele sunt în aer liber, o umbrelă mare este esențială; solul poate fi moale, deci alegeți o poziție stabilă pe porțiunile mai tari.",
+                "en": "Since the steles are outdoors, a large umbrella is essential; the ground may be soft, so ensure stable footing on the firmer stone sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Camargue Einst",
+                "hu": "Egykori Camargue",
+                "ro": "Camargue de Odinioară",
+                "en": "Camargue Autrefois"
+              },
+              "tip_4lang": {
+                "de": "Die ländliche Umgebung wirkt im Regen sehr dramatisch; achten Sie auf wasserfeste Kleidung, da der Wind hier den Regen seitlich peitschen kann.",
+                "hu": "A vidéki környezet esőben igen drámai hatást kelt; viseljen vízálló ruházatot, mert a szél itt oldalról is fújhatja az esőcseppeket.",
+                "ro": "Cadrul rural pare foarte dramatic în ploaie; purtați haine impermeabile, deoarece vântul de aici poate sufla ploaia din lateral.",
+                "en": "The rural setting looks very dramatic in the rain; wear waterproof layers, as the wind here can blow rain in from the side across the fields."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen im historischen Kern. Mittags wärmen die Kirchenbesuche Körper und Geist auf. Am Nachmittag geht es durch die kahle, aber weite Landschaft zu den Stelen. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie den Rückweg frühzeitig antreten, um die Dämmerung sicher im beleuchteten Ort zu erleben.",
+            "hu": "Friss téli reggel a történelmi magban. Délben a templomlátogatások melegítik fel a testet és a lelket. Délután a kopár, de tágas tájon át vezet az út a sírkövekhez. Mivel a nap 17:00 körül nyugszik, induljon vissza korán, hogy a szürkületben már a kivilágított faluban legyen.",
+            "ro": "O dimineață răcoroasă de iarnă în centrul istoric. La prânz, vizitele la biserici încălzesc trupul și sufletul. După-amiaza, drumul spre stele trece prin peisajul golaș dar vast. Deoarece soarele apune în jur de 17:00, porniți înapoi devreme pentru a ajunge în satul luminat înainte de întuneric.",
+            "en": "A crisp winter morning in the historic core. At noon, church visits offer a warm break for body and soul. In the afternoon, the path to the steles leads through the stark but vast landscape. As the sun sets around 17:00, start your return early to reach the safety of the lit village by twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Aimargues",
+                "hu": "Aimargues Városháza",
+                "ro": "Primăria Aimargues",
+                "en": "Aimargues Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne steht tief und beleuchtet das Rathaus wunderschön; tragen Sie Handschuhe, da die kühle Morgenluft hier in den Gassen steht.",
+                "hu": "A téli nap alacsonyan jár és csodásan megvilágítja a városházát; viseljen kesztyűt, mert a hűvös reggeli levegő megül itt a szűk utcákban.",
+                "ro": "Soarele de iarnă stă jos și luminează frumos primăria; purtați mănuși, deoarece aerul rece de dimineață persistă aici pe străduțele înguste.",
+                "en": "The winter sun hangs low and illuminates the town hall beautifully; wear gloves, as the cool morning air tends to settle here in the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Saturnin",
+                "hu": "Saint-Saturnin Templom",
+                "ro": "Biserica Saint-Saturnin",
+                "en": "St. Saturnin Church"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Stille des Winters für eine Besinnung im Inneren; es ist oft wärmer als draußen, ideal um die kalten Finger kurz aufzuwärmen.",
+                "hu": "Használja ki a tél csendjét egy belső elmélyülésre; bent gyakran melegebb van, mint kint, ideális a hideg ujjak rövid felmelegítésére.",
+                "ro": "Profitați de liniștea iernii pentru o meditație în interior; adesea este mai cald decât afară, ideal pentru a vă încălzi puțin mâinile reci.",
+                "en": "Take advantage of the winter silence for some indoor reflection; it is often warmer inside, ideal for briefly warming up cold fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Vereinigte Protestantische Kirche",
+                "hu": "Egyesült Protestáns Templom",
+                "ro": "Biserica Protestantă Unită",
+                "en": "Temple de l'Église Protestante Unie"
+              },
+              "tip_4lang": {
+                "de": "Das schlichte Interieur wirkt im Winterlicht besonders friedlich; achten Sie beim Verlassen auf den kalten Windzug beim Öffnen der schweren Tür.",
+                "hu": "A letisztult belső tér a téli fényben különösen békés; kilépéskor ügyeljen a hirtelen beáramló hideg szélre a nehéz ajtó nyitásakor.",
+                "ro": "Interiorul sobru pare deosebit de liniștit în lumina iernii; la plecare, atenție la curentul rece de aer când deschideți ușa grea.",
+                "en": "The simple interior feels especially peaceful in the winter light; when leaving, be mindful of the cold draft when opening the heavy door."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Grabstelen",
+                "hu": "Ősi Sírkövek",
+                "ro": "Stele Funerare Antice",
+                "en": "Stèles funéraires antiques"
+              },
+              "tip_4lang": {
+                "de": "Die Steine wirken in der kargen Winterlandschaft sehr zeitlos; halten Sie die Ohren warm, da das Gelände hier ungeschützt vor Wind ist.",
+                "hu": "A kövek a kopár téli tájban igazán időtlennek tűnnek; tartsa melegen a füleit, mivel a terep itt teljesen védtelen az éles széltől.",
+                "ro": "Pietrele par cu adevărat atemporale în peisajul sterp de iarnă; protejați-vă urechile, deoarece terenul de aici este expus vântului tăios.",
+                "en": "The stones look truly timeless in the barren winter landscape; keep your ears warm, as the terrain here is completely unprotected from sharp winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Camargue Einst",
+                "hu": "Egykori Camargue",
+                "ro": "Camargue de Odinioară",
+                "en": "Camargue Autrefois"
+              },
+              "tip_4lang": {
+                "de": "Erleben Sie die Weite vor dem frühen Sonnenuntergang; bringen Sie eine Thermoskanne mit, da es hier draußen im freien Feld schnell abkühlt.",
+                "hu": "Tapasztalja meg a tágasságot a korai napnyugta előtt; vigyen magával termoszt, mert itt a nyílt mezőn gyorsan lehűl a levegő délután.",
+                "ro": "Experimentați vastitatea înainte de apusul devreme; aduceți un termos, deoarece aici pe câmpul deschis aerul se răcește rapid după-amiaza.",
+                "en": "Experience the vastness before the early sunset; bring a thermos, as the temperature drops quickly out here in the open fields during the afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúránk Aimargues szívében indul, a központi templomoknál és sírköveknél. Dél körül Le Cailar felé tekerünk, hogy megismerjük a bikaviadal-aréna hagyományait. Délután a vidékre kerekezünk Missignac ősi romjaihoz. A természeten keresztüli visszaút tökéletes befejezése a napnak.",
         "ro": "Turul nostru cu bicicleta începe în inima orașului Aimargues, la bisericile centrale. În jurul prânzului pedalăm spre Le Cailar pentru a experimenta tradițiile arenei. După-amiaza ieșim în mediul rural către ruinele antice din Missignac. Plimbarea de întoarcere prin natură este o încheiere perfectă.",
         "en": "Our cycling journey kicks off in central Aimargues among its spiritual and ancient stones. By midday, we roll towards Le Cailar to witness the iconic Camargue bullring heritage. The afternoon involves a longer, scenic ride out to the remote historical site of Missignac. The ride back serves as a pleasant evening wind-down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerischer Start an der Kirche, achten Sie auf rutschiges Kopfsteinpflaster. Mittags führt die Route durch die Camargue-Landschaft; Regenkleidung ist Pflicht. Nachmittags bieten die Arenen wenig Schutz, planen Sie Pausen in den Kirchen von Le Cailar ein. Abends endet die Fahrt bei den Ruinen von Missignac, wo Vorsicht auf unbefestigten, schlammigen Wegen geboten ist.",
+            "hu": "Esős kezdés a templomnál, ügyeljen a csúszós macskakövekre. Délben az útvonal a Camargue tájain vezet; az esőruha kötelező. Délután az arénák kevés védelmet nyújtanak, tervezzen pihenőt Le Cailar templomaiban. Este a túra Missignac romjainál zárul, ahol óvatosan közlekedjen a felázott, sáros földutakon.",
+            "ro": "Start ploios la biserică, atenție la pavajul alunecos. La prânz, traseul trece prin peisajele Camargue; pelerina de ploaie este obligatorie. După-amiaza, arenele oferă puțin adăpost, planificați pauze în bisericile din Le Cailar. Seara, cursa se termină la ruinele Missignac, unde trebuie condus cu grijă pe drumurile de pământ noroioase.",
+            "en": "A rainy start at the church; watch out for slippery cobblestones. At noon, the route leads through Camargue landscapes where rain gear is a must. In the afternoon, the arenas offer little shelter, so plan breaks in Le Cailar's churches. The ride ends at the Missignac ruins, where caution is needed on the soaked, muddy dirt paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Saturnin",
+                "hu": "Saint-Saturnin Templom",
+                "ro": "Biserica Saint-Saturnin",
+                "en": "St. Saturnin Church"
+              },
+              "tip_4lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen; die Kirche bietet einen guten Platz, um die Regenjacke in Ruhe anzuziehen und zu schließen.",
+                "hu": "Ellenőrizze a fékeit az esőben való indulás előtt; a templom bejárata jó hely, hogy nyugodtan felvegye és rögzítse az esőkabátját.",
+                "ro": "Verificați frânele înainte de plecare pe ploaie; intrarea bisericii este un loc bun pentru a vă pune și fixa pelerina de ploaie în liniște.",
+                "en": "Check your brakes before starting off in the rain; the church entrance is a good spot to calmly put on and secure your rain jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Grabstelen",
+                "hu": "Ősi Sírkövek",
+                "ro": "Stele Funerare Antice",
+                "en": "Stèles funéraires antiques"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Rad auf festem Boden ab, um ein Einsinken im Schlamm zu vermeiden; die Stelen sind bei grauem Regenwetter besonders fotogen.",
+                "hu": "Parkolja le kerékpárját szilárd talajon, hogy elkerülje a sárba süllyedést; a sírkövek a szürke esős időben különösen fotogének.",
+                "ro": "Parcați bicicleta pe teren solid pentru a evita scufundarea în noroi; stelele sunt deosebit de fotogenice pe vremea gri și ploioasă.",
+                "en": "Park your bike on solid ground to avoid sinking into the mud; the steles look particularly photogenic in the grey, rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Camargue Einst",
+                "hu": "Egykori Camargue",
+                "ro": "Camargue de Odinioară",
+                "en": "Camargue Autrefois"
+              },
+              "tip_4lang": {
+                "de": "Vorsicht vor Pfützen auf den flachen Wegen; tragen Sie eine Schutzbrille gegen den spritzenden Regen, damit Ihre Sicht auf die Landschaft klar bleibt.",
+                "hu": "Ügyeljen a tócsákra a lapos utakon; viseljen védőszemüveget a felcsapódó eső ellen, hogy kilátása tiszta maradjon a tájra.",
+                "ro": "Atenție la bălțile de pe drumurile plane; purtați ochelari de protecție împotriva stropilor de ploaie pentru a vedea clar peisajul.",
+                "en": "Watch out for puddles on the flat paths; wear protective eyewear against splashing rain to keep your view of the landscape clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena von Le Cailar",
+                "hu": "Le Cailar Aréna",
+                "ro": "Arenele din Le Cailar",
+                "en": "Arènes du Cailar"
+              },
+              "tip_4lang": {
+                "de": "Die Arena kann bei Regen sehr rutschig sein; bleiben Sie am Rand unter den Überständen und nutzen Sie die Mauern als kurzen Windschutz.",
+                "hu": "Az aréna esőben igen csúszós lehet; maradjon a széleken az áthajlások alatt, és használja a falakat rövid szélfogónak.",
+                "ro": "Arena poate fi foarte alunecoasă pe ploaie; rămâneți la margini sub cornișe și folosiți zidurile ca paravan temporar împotriva vântului.",
+                "en": "The arena can be very slippery in the rain; stay near the edges under the overhangs and use the walls as a temporary windbreak."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne Templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Ort, um die Fahrt kurz zu unterbrechen und abzutrocknen; die ruhige Atmosphäre hilft, sich vor dem letzten Streckenabschnitt zu sammeln.",
+                "hu": "Ideális hely az út rövid megszakítására és a megszárítkozásra; a nyugodt légkör segít összeszedni magát az utolsó szakasz előtt.",
+                "ro": "Un loc ideal pentru a întrerupe scurt cursa și a vă usca; atmosfera liniștită vă ajută să vă reculegeți înainte de ultima etapă.",
+                "en": "An ideal place to briefly interrupt your ride and dry off; the calm atmosphere helps you collect yourself before the final leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen von Missignac",
+                "hu": "Missignac Romjai",
+                "ro": "Ruinele Missignac",
+                "en": "Missignac"
+              },
+              "tip_4lang": {
+                "de": "Die Auffahrt zu den Ruinen kann bei Regen mühsam sein; achten Sie auf eine gute Gangwahl, um auf dem rutschigen Untergrund nicht wegzurutschen.",
+                "hu": "A romokhoz vezető emelkedő esőben fárasztó lehet; válasszon megfelelő sebességfokozatot, hogy ne csússzon meg a vizenyős talajon.",
+                "ro": "Urcarea spre ruine poate fi anevoioasă pe ploaie; alegeți treapta de viteză potrivită pentru a nu aluneca pe solul îmbibat cu apă.",
+                "en": "The climb to the ruins can be taxing in the rain; choose the right gear to avoid slipping on the water-logged ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Radtour bei klarer Luft. Mittags reflektiert die Sonne auf den weiten Ebenen der Camargue; warme Handschuhe sind gegen den Fahrtwind wichtig. Nachmittags in Le Cailar bieten die Kirchen warme Pausen. Da es früh dunkel wird, sollten Sie Missignac vor 16:30 Uhr erreichen, um die Ruinen im letzten Tageslicht sicher zu erkunden und rechtzeitig zurückzukehren.",
+            "hu": "Téli kerékpártúra tiszta levegőben. Délben a nap megcsillan a Camargue tágas síkságain; a meleg kesztyű fontos a menetszél ellen. Délután Le Cailar templomai kínálnak meleg pihenőt. Mivel korán sötétedik, érjen Missignacba 16:30 előtt, hogy a romokat még az utolsó fényeknél lássa, és időben visszaérjen.",
+            "ro": "Tură de iarnă cu bicicleta în aer curat. La prânz, soarele strălucește peste câmpiile vaste din Camargue; mănușile groase sunt importante contra vântului. După-amiaza, bisericile din Le Cailar oferă pauze calde. Fiindcă se întunecă devreme, ajungeți la Missignac înainte de 16:30 pentru a vedea ruinele în ultima lumină.",
+            "en": "A winter bike tour in crisp air. At noon, the sun glints off the vast Camargue plains; warm gloves are vital against the wind chill. In the afternoon, Le Cailar's churches offer warm breaks. Since it gets dark early, reach Missignac before 16:30 to see the ruins in the last light and return safely before sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Saturnin",
+                "hu": "Saint-Saturnin Templom",
+                "ro": "Biserica Saint-Saturnin",
+                "en": "St. Saturnin Church"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den windgeschützten Eingangsbereich für letzte Kleidungskorrekturen; die Kälte ist beim Radfahren durch die Bewegung deutlicher spürbar.",
+                "hu": "Használja a szélvédett bejáratot a ruházat utolsó igazítására; a hideg kerékpározás közben a menetszél miatt sokkal erősebben érezhető.",
+                "ro": "Folosiți intrarea ferită de vânt pentru ultimele ajustări ale hainelor; frigul este resimțit mult mai tare în timpul mersului pe bicicletă.",
+                "en": "Use the wind-sheltered entrance for final clothing adjustments; the cold is felt much more intensely while cycling due to the wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Grabstelen",
+                "hu": "Ősi Sírkövek",
+                "ro": "Stele Funerare Antice",
+                "en": "Stèles funéraires antiques"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne sorgt für lange Schatten an den Stelen; bewegen Sie sich zwischendurch, um nach der Fahrt nicht zu stark auszukühlen.",
+                "hu": "A téli nap hosszú árnyékokat vet a sírköveknél; mozogjon a megálló alatt is, hogy ne hűljön ki túlságosan a kerékpározás utáni pihenőben.",
+                "ro": "Soarele de iarnă aruncă umbre lungi la stele; continuați să vă mișcați în timpul vizitei pentru a nu vă răci prea tare după efortul depus.",
+                "en": "The winter sun casts long shadows at the steles; keep moving during your stop to avoid getting too chilled after your cycling effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Camargue Einst",
+                "hu": "Egykori Camargue",
+                "ro": "Camargue de Odinioară",
+                "en": "Camargue Autrefois"
+              },
+              "tip_4lang": {
+                "de": "Der flache Horizont wirkt im Winter unendlich weit; schützen Sie Ihre Haut mit Fettcreme vor dem kalten, schneidenden Wind auf der Strecke.",
+                "hu": "A lapos horizont télen végtelennek tűnik; védje bőrét zsíros krémmel az útvonalon fújó hideg, metsző szél ellen.",
+                "ro": "Orizontul plat pare infinit iarna; protejați-vă pielea cu o cremă hidratantă împotriva vântului rece și tăios de pe traseu.",
+                "en": "The flat horizon looks endless in winter; protect your skin with balm against the cold, biting wind you'll encounter on this stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena von Le Cailar",
+                "hu": "Le Cailar Aréna",
+                "ro": "Arenele din Le Cailar",
+                "en": "Arènes du Cailar"
+              },
+              "tip_4lang": {
+                "de": "Die Arena steht im Winter oft leer und wirkt sehr friedlich; nutzen Sie die kurzen Wege im Ort, um die Durchblutung der Füße anzuregen.",
+                "hu": "Az aréna télen gyakran üres és igen békés hangulatú; használja ki a falusi rövid szakaszokat a lábak vérkeringésének serkentésére.",
+                "ro": "Arena este adesea goală iarna și are o atmosferă foarte pașnică; profitați de distanțele scurte din sat pentru a stimula circulația în picioare.",
+                "en": "The arena is often empty in winter and feels very peaceful; use the short stretches within the village to stimulate circulation in your feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne Templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_4lang": {
+                "de": "Ein willkommener Stopp zum Aufwärmen vor dem letzten Anstieg; die dicken Kirchenmauern halten die Kälte draußen und bieten angenehme Ruhe.",
+                "hu": "Üdvözlendő megálló a felmelegedéshez az utolsó emelkedő előtt; a vastag templomfalak kint tartják a fagyot és kellemes nyugalmat árasztanak.",
+                "ro": "O oprire binevenită pentru încălzire înainte de ultima urcare; zidurile groase ale bisericii țin gerul afară și oferă o liniște plăcută.",
+                "en": "A welcome stop to warm up before the final climb; the thick church walls keep the frost out and provide a pleasant sense of calm."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen von Missignac",
+                "hu": "Missignac Romjai",
+                "ro": "Ruinele Missignac",
+                "en": "Missignac"
+              },
+              "tip_4lang": {
+                "de": "Im Winter ist die Sicht von den Ruinen oft klarer; denken Sie an eine gute Fahrradbeleuchtung für den nun folgenden, dunklen Rückweg.",
+                "hu": "Télen a kilátás a romoktól gyakran tisztább; gondoskodjon a megfelelő kerékpáros világításról a most következő, sötétedő hazaúthoz.",
+                "ro": "Iarna, vizibilitatea de la ruine este adesea mai clară; asigurați-vă că aveți lumini bune la bicicletă pentru drumul de întoarcere pe întuneric.",
+                "en": "In winter, the view from the ruins is often clearer; ensure you have good bike lights for the darkening return journey ahead."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "A nap Aimargues központjában indul, ahol a városháza és az ősi műemlékek várnak ránk. Délben kocsival Missignac lenyűgöző romjaihoz hajtunk, hogy átéljük a távoli múltat. A délutánt a Camargue hagyományainak és a Le Cailar-i arénának szenteljük. A békés befejezést a régi falusi templomok csendjében találjuk meg.",
         "ro": "Ziua începe în inima orașului Aimargues cu primăria și monumentele antice. La prânz conducem spre ruinele din Missignac pentru a simți trecutul îndepărtat. După-amiaza este dedicată tradițiilor de la Camargue Autrefois și impunătoarei arene din Le Cailar. Încheiem liniștit vizitând vechile biserici din satele învecinate.",
         "en": "The drive starts in central Aimargues, briefly touching on civic and ancient history. Midday involves a short trip to the sprawling ruins of Missignac and Saint-Gilles-le-Vieux. In the afternoon, we immerse ourselves in the vibrant traditions of the Camargue and its famous arenas. Evening approaches with quiet moments by old village churches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerische Fahrt durch die Gard-Region, das Auto bietet besten Komfort. Mittags sind die antiken Stelen und Ruinen per Kurzstopp erreichbar; Schirm für die Wege vom Parkplatz nötig. Nachmittags in Saint-Gilles und Le Cailar ermöglichen die Kirchen trockene Kulturmomente. Abends endet die Tour gemütlich, während der Regen gegen die Scheiben prasselt.",
+            "hu": "Esős autózás a Gard régióban, az autó tökéletes kényelmet nyújt. Délben az antik sírkövek és romok rövid megállókkal elérhetők; esernyő kell a parkolótól. Délután Saint-Gilles és Le Cailar templomai száraz kulturális élményt kínálnak. Este a túra hangulatosan zárul, miközben az eső a szélvédőn kopog.",
+            "ro": "Călătorie ploioasă prin regiunea Gard, mașina oferind confort maxim. La prânz, stelele antice și ruinele sunt accesibile prin opriri scurte; umbrela e necesară de la parcare. După-amiaza, bisericile din Saint-Gilles și Le Cailar oferă momente culturale uscate. Seara, turul se încheie plăcut, cu ploaia bătând în geam.",
+            "en": "A rainy drive through the Gard region; the car provides maximum comfort. At noon, the ancient steles and ruins are accessible via short stops, though an umbrella is needed from the parking area. In the afternoon, the churches of Saint-Gilles and Le Cailar offer dry cultural highlights. The tour ends cozily as the rain pummels the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Aimargues",
+                "hu": "Aimargues Városháza",
+                "ro": "Primăria Aimargues",
+                "en": "Aimargues Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie nah am Zentrum, um die Fassade schnell zu sehen; der Regen macht die Details der Steinarbeiten glänzend und kontrastreich.",
+                "hu": "Parkoljon a központhoz közel, hogy gyorsan megtekinthesse a homlokzatot; az eső csillogóvá és kontrasztossá teszi a kőfaragások részleteit.",
+                "ro": "Parcați aproape de centru pentru a vedea rapid fațada; ploaia face detaliile sculpturilor în piatră să fie strălucitoare și contrastante.",
+                "en": "Park close to the center to view the facade quickly; the rain makes the details of the stonework look shiny and high-contrast."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Grabstelen",
+                "hu": "Ősi Sírkövek",
+                "ro": "Stele Funerare Antice",
+                "en": "Stèles funéraires antiques"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die kurzen Wege vom Auto zu den Stelen; bei starkem Regen wirken die antiken Monumente besonders ehrwürdig und verlassen.",
+                "hu": "Használja ki a rövid sétát az autótól a sírkövekig; erős esőben az antik műemlékek különösen tiszteletreméltónak és elhagyatottnak tűnnek.",
+                "ro": "Profitați de distanța scurtă de la mașină la stele; pe ploaie puternică, monumentele antice par deosebit de venerabile și solitare.",
+                "en": "Take advantage of the short walk from the car to the steles; in heavy rain, the ancient monuments look particularly venerable and solitary."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen von Missignac",
+                "hu": "Missignac Romjai",
+                "ro": "Ruinele Missignac",
+                "en": "Missignac"
+              },
+              "tip_4lang": {
+                "de": "Vorsicht bei der Auffahrt auf unbefestigten Parkflächen; genießen Sie den Blick auf die Ruinen aus dem trockenen Fahrzeuginnenraum.",
+                "hu": "Legyen óvatos a felázott parkolófelületeken; élvezze a kilátást a romokra a gépjármű száraz és meleg utasteréből.",
+                "ro": "Fiți atenți pe suprafețele de parcare neasfaltate; bucurați-vă de priveliștea ruinelor din interiorul uscat și cald al vehiculului.",
+                "en": "Be careful on unpaved parking surfaces; enjoy the view of the ruins from the dry and warm interior of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Alt-Saint-Gilles",
+                "hu": "Régi Saint-Gilles",
+                "ro": "Vechiul Saint-Gilles",
+                "en": "Saint-Gilles-le-Vieux"
+              },
+              "tip_4lang": {
+                "de": "Die historischen Gassen sind bei Regen oft leer; nutzen Sie die Zeit für Fotos ohne Touristenmassen, ein Taschenschirm ist hier sehr praktisch.",
+                "hu": "A történelmi utcák esőben gyakran üresek; használja ki az időt fotózásra turisták nélkül, egy zsebben hordható esernyő itt nagyon praktikus.",
+                "ro": "Străzile istorice sunt adesea goale pe ploaie; profitați de timp pentru fotografii fără turiști, o umbrelă de buzunar fiind foarte practică aici.",
+                "en": "The historic streets are often empty in the rain; use this time for photos without crowds, a compact umbrella will be very practical here."
+              }
+            },
+            {
+              "name": {
+                "de": "Camargue Einst",
+                "hu": "Egykori Camargue",
+                "ro": "Camargue de Odinioară",
+                "en": "Camargue Autrefois"
+              },
+              "tip_4lang": {
+                "de": "Die weite Landschaft wirkt im grauen Regenlicht sehr authentisch; achten Sie beim Aussteigen auf Windböen, die den Schirm erfassen könnten.",
+                "hu": "A tágas táj a szürke esős fényben igen autentikusnak hat; kiszálláskor ügyeljen a hirtelen széllökésekre, amik belekaphatnak az esernyőbe.",
+                "ro": "Peisajul vast pare foarte autentic în lumina gri de ploaie; la coborâre, atenție la rafalele de vânt care pot prinde umbrela.",
+                "en": "The vast landscape looks very authentic in the grey rainy light; when getting out, watch out for sudden gusts that might catch your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena von Le Cailar",
+                "hu": "Le Cailar Aréna",
+                "ro": "Arenele din Le Cailar",
+                "en": "Arènes du Cailar"
+              },
+              "tip_4lang": {
+                "de": "Die Arena ist mit dem Auto leicht erreichbar; bleiben Sie im Regen im überdachten Bereich der Tribünen, um die Architektur trocken zu bewundern.",
+                "hu": "Az aréna autóval könnyen megközelíthető; maradjon a lelátók fedett része alatt, hogy szárazon csodálhassa meg az építményt.",
+                "ro": "Arena este ușor accesibilă cu mașina; rămâneți sub zona acoperită a tribunelor pentru a admira structura fără a vă uda.",
+                "en": "The arena is easily accessible by car; stay under the covered sections of the stands to admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorf-Tempel",
+                "hu": "Falusi Templom",
+                "ro": "Templul Satului",
+                "en": "Temple"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Eingang lohnt sich; die schlichte Ruhe im Inneren ist ein wunderbarer Kontrast zum prasselnden Regen draußen.",
+                "hu": "Megéri egy rövid sprint a parkolótól a bejáratig; a benti letisztult nyugalom csodás kontrasztot alkot a kinti kopogó esővel.",
+                "ro": "Merită un sprint scurt de la parcare la intrare; liniștea sobră din interior oferă un contrast minunat cu ploaia de afară.",
+                "en": "A short sprint from the parking spot to the entrance is worth it; the minimalist calm inside is a wonderful contrast to the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne Templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_4lang": {
+                "de": "Der ideale letzte Stopp im Trockenen; prüfen Sie vor der Weiterfahrt die Sichtverhältnisse durch die beschlagenen Autoscheiben.",
+                "hu": "Az ideális utolsó megálló száraz helyen; a továbbindulás előtt ellenőrizze a látási viszonyokat a bepárásodott autóablakokon keresztül.",
+                "ro": "Oprirea finală ideală la adăpost; înainte de a pleca, verificați vizibilitatea prin geamurile aburite ale mașinii.",
+                "en": "The ideal final stop in the dry; before driving on, check your visibility through the fogged-up car windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Heimelige Wintertour im beheizten Wagen. Mittags glitzert der Frost auf den Feldern von Missignac; nutzen Sie die kurzen Wege für Fotos. Nachmittags bieten die Kirchen in Le Cailar und Saint-Gilles eine andächtige Wärme. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie das goldene Licht der Dämmerung auf der Rückfahrt durch die Camargue.",
+            "hu": "Otthonos téli túra a fűtött autóban. Délben a zúzmara csillog Missignac mezőin; használja ki a rövid sétákat a fotózáshoz. Délután Le Cailar és Saint-Gilles templomai áhítatos meleget nyújtanak. Mivel a nap 17:00 körül nyugszik, élvezze a szürkület aranyszínű fényeit a Camargue-on átvezető hazaúton.",
+            "ro": "Tură de iarnă confortabilă în mașina încălzită. La prânz, chiciura strălucește pe câmpurile din Missignac; folosiți opririle scurte pentru poze. După-amiaza, bisericile din Le Cailar și Saint-Gilles oferă o căldură primitoare. Soarele apunând la 17:00, savurați lumina aurie a amurgului pe drumul de întoarcere.",
+            "en": "A cozy winter tour in your heated car. At noon, frost glistens on the fields of Missignac; take advantage of the short walks for photos. In the afternoon, the churches in Le Cailar and Saint-Gilles offer a welcoming warmth. With the sun setting around 17:00, enjoy the golden twilight light on your drive back through the Camargue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Aimargues",
+                "hu": "Aimargues Városháza",
+                "ro": "Primăria Aimargues",
+                "en": "Aimargues Town Hall"
+              },
+              "tip_4lang": {
+                "de": "Die klare Winterluft lässt die Steinfassade besonders scharf wirken; lassen Sie den Motor nicht unnötig laufen, während Sie kurz für ein Foto aussteigen.",
+                "hu": "A tiszta téli levegőben a kőhomlokzat különösen élesnek tűnik; ne járassa feleslegesen a motort, amíg kiszáll egy gyors fénykép erejéig.",
+                "ro": "Aerul curat de iarnă face ca fațada de piatră să pară foarte clară; nu lăsați motorul pornit inutil cât timp coborâți pentru o fotografie rapidă.",
+                "en": "The clear winter air makes the stone facade look particularly sharp; don't leave the engine idling while you hop out for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Grabstelen",
+                "hu": "Ősi Sírkövek",
+                "ro": "Stele Funerare Antice",
+                "en": "Stèles funéraires antiques"
+              },
+              "tip_4lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Inschriften der Stelen perfekt; ein kurzer Aufenthalt reicht aus, um die Atmosphäre ohne zu frieren zu erleben.",
+                "hu": "Az alacsony téli nap tökéletesen megvilágítja a sírkövek feliratait; egy rövid kintlét is elég, hogy átélje a hangulatot fagyoskodás nélkül.",
+                "ro": "Soarele jos de iarnă luminează perfect inscripțiile de pe stele; o scurtă oprire este suficientă pentru a simți atmosfera fără a îngheța.",
+                "en": "The low winter sun perfectly illuminates the inscriptions on the steles; a short stay is enough to experience the atmosphere without getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen von Missignac",
+                "hu": "Missignac Romjai",
+                "ro": "Ruinele Missignac",
+                "en": "Missignac"
+              },
+              "tip_4lang": {
+                "de": "Der Blick vom Hügel ist im Winter oft kilometerweit; nutzen Sie die Sitzheizung nach dem kurzen Aufstieg zu den Ruinen zur schnellen Entspannung.",
+                "hu": "A dombról nyíló kilátás télen gyakran kilométerekre ellát; a romokhoz való rövid felmenetel után használja az ülésfűtést a gyors ellazuláshoz.",
+                "ro": "Priveliștea de pe deal iarna se întinde adesea pe kilometri întregi; după scurta urcare la ruine, folosiți încălzirea în scaune pentru relaxare rapidă.",
+                "en": "The view from the hill often stretches for miles in winter; use your seat heaters for quick relaxation after the short walk up to the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Alt-Saint-Gilles",
+                "hu": "Régi Saint-Gilles",
+                "ro": "Vechiul Saint-Gilles",
+                "en": "Saint-Gilles-le-Vieux"
+              },
+              "tip_4lang": {
+                "de": "Die schmalen Gassen schützen etwas vor dem kalten Wind; planen Sie den Rundgang so, dass Sie rechtzeitig zum warmen Auto zurückkehren.",
+                "hu": "A szűk utcák némileg védenek a hideg széltől; tervezze úgy a sétát, hogy időben visszaérjen a fűtött autóhoz.",
+                "ro": "Străduțele înguste oferă protecție contra vântului rece; planificați plimbarea astfel încât să reveniți la timp la mașina încălzită.",
+                "en": "The narrow streets offer some protection from the cold wind; plan your walk so that you return to your warm car in good time."
+              }
+            },
+            {
+              "name": {
+                "de": "Camargue Einst",
+                "hu": "Egykori Camargue",
+                "ro": "Camargue de Odinioară",
+                "en": "Camargue Autrefois"
+              },
+              "tip_4lang": {
+                "de": "Die karge Winterlandschaft versprüht einen ganz eigenen Charme; bleiben Sie für den besten Ausblick einfach kurz am Wegesrand stehen.",
+                "hu": "A kopár téli táj sajátos bájt áraszt; a legjobb kilátásért álljon meg egy pillanatra az út szélén, és élvezze a csendet az autóból.",
+                "ro": "Peisajul sterp de iarnă emană un farmec aparte; pentru cea mai bună priveliște, opriți scurt pe marginea drumului și admirați liniștea.",
+                "en": "The barren winter landscape exudes a unique charm; for the best view, simply pull over briefly and enjoy the silence from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Arena von Le Cailar",
+                "hu": "Le Cailar Aréna",
+                "ro": "Arenele din Le Cailar",
+                "en": "Arènes du Cailar"
+              },
+              "tip_4lang": {
+                "de": "Im Winter ist es hier sehr ruhig, ideal für ungestörte Fotos; achten Sie auf glatte Stellen auf dem Parkplatz bei Frost am frühen Morgen.",
+                "hu": "Télen itt nagy a nyugalom, ideális a zavartalan fotózáshoz; ügyeljen a jeges foltokra a parkolóban a kora reggeli fagyok idején.",
+                "ro": "Iarna este foarte liniște aici, ideal pentru fotografii nestânjenite; atenție la petele de gheață din parcare în timpul înghețului de dimineață.",
+                "en": "It's very quiet here in winter, ideal for undisturbed photos; watch out for icy patches in the parking area during early morning frosts."
+              }
+            },
+            {
+              "name": {
+                "de": "Dorf-Tempel",
+                "hu": "Falusi Templom",
+                "ro": "Templul Satului",
+                "en": "Temple"
+              },
+              "tip_4lang": {
+                "de": "Ein Ort der Stille, perfekt um kurz innezuhalten; die schlichte Architektur wirkt im kühlen Winterlicht besonders rein und klar.",
+                "hu": "A csend helyszíne, tökéletes egy rövid megállásra; a letisztult építészet a hűvös téli fényben különösen tisztának és világosnak hat.",
+                "ro": "Un loc al liniștii, perfect pentru o scurtă pauză; arhitectura sobră pare deosebit de pură și clară în lumina rece de iarnă.",
+                "en": "A place of silence, perfect for a brief pause; the minimalist architecture looks especially pure and clear in the cool winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne Templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die andächtige Wärme vor der Heimfahrt; im Winter wird es in der Kirche oft früher dämmrig, was die Kerzenlichter betont.",
+                "hu": "Élvezze az áhítatos meleget a hazaindulás előtt; télen a templomban gyakran hamarabb alkonyodik, ami kiemeli a gyertyák fényét.",
+                "ro": "Bucurați-vă de căldura primitoare înainte de plecare; iarna, în biserică se înserează adesea mai devreme, ceea ce scoate în evidență lumina lumânărilor.",
+                "en": "Enjoy the peaceful warmth before driving home; in winter, twilight often falls earlier inside the church, highlighting the candlelight."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Charles-Roux kastély felfedezésével, majd irány a nyüzsgő Sausset kikötő, hogy élvezze a tengeri hangulatot.\nDélben egy festői séta vár a parti ösvényen, amely lenyűgöző kilátást nyújt a csillogó Földközi-tengerre.\nDélután telepedjen le a Petit Nid strandon, hogy pihenjen és sznorkelezzen a kristálytiszta vizekben.\nZárja a túrát a Plagette du Grand Nid strandon, és élvezze a nyugodt naplementét a központ zajától távol.",
         "ro": "Începeți dimineața explorând castelul Charles-Roux, apoi îndreptați-vă spre portul plin de viață Sausset pentru a admira bărcile.\nLa amiază, faceți o plimbare pitorească pe traseul de coastă, cu vederi uimitoare la Marea Mediterană.\nDupă-amiaza, relaxați-vă la plaja Petit Nid și faceți snorkeling în apele sale curate și limpezi.\nÎncheiați-vă turul la Plagette du Grand Nid, bucurându-vă de un apus liniștit departe de agitația orașului.",
         "en": "Start your morning exploring the striking 19th-century architecture of Charles-Roux Castle, then head to the lively Sausset Marina.\nMidday brings a scenic stroll along the Coastal Path, offering stunning views of the sparkling Mediterranean Sea.\nIn the afternoon, settle down at Petit Nid Beach to relax and snorkel in its pristine, clear waters.\nConclude your walking tour at Plagette du Grand Nid, enjoying the serene sunset away from the bustling town center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen am Schloss und suchen Sie Schutz. Mittags bietet der Yachthafen dramatische Ausblicke; finden Sie einen überdachten Platz. Navigieren Sie nachmittags vorsichtig auf dem Küstenpfad, da die nassen Steine rutschig sind. Beenden Sie den feuchten Abend an den Stränden und beobachten Sie die grauen Wellen.",
+            "hu": "Kezdje az esős reggelt a kastélynál, menedéket keresve a falak alatt. Délben a kikötő drámai látványt nyújt; keressen egy fedett helyet. Délután óvatosan járja be a parti ösvényt, mert a vizes kövek csúszósak. Az estét a strandokon zárja, megfigyelve a szürke, viharos hullámokat egy esernyő alól.",
+            "ro": "Începeți dimineața ploioasă la castel, căutând adăpost. La prânz, portul oferă priveliști dramatice; găsiți un loc acoperit. După-amiaza, navigați cu atenție pe cărarea de coastă, deoarece pietrele ude sunt alunecoase. Încheiați seara umedă la plaje, privind valurile gri care se sparg de țărm.",
+            "en": "Begin your rainy morning at the castle, seeking shelter under its ancient eaves. By noon, the marina offers dramatic views of bobbing boats; find a covered spot nearby. In the afternoon, navigate the coastal path carefully, as the wet stones are slippery. Conclude your wet evening at the beaches, watching the grey crashing waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Charles-Roux",
+                "hu": "Charles-Roux Kastély",
+                "ro": "Castelul Charles-Roux",
+                "en": "Charles-Roux Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur des Schlosses und suchen Sie Schutz unter den historischen Dachüberständen; bringen Sie einen stabilen Regenschirm mit.",
+                "hu": "Csodálja meg a kastély lenyűgöző építészetét, miközben menedéket keres a falak alatt; feltétlenül hozzon magával erős esernyőt a vizes udvarra.",
+                "ro": "Admirați arhitectura castelului în timp ce căutați adăpost sub streșinile sale istorice; asigurați-vă că aduceți o umbrelă rezistentă.",
+                "en": "Admire the castle's striking architecture while seeking shelter under its historic eaves; be sure to bring a sturdy umbrella for the wet courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Sausset",
+                "hu": "Sausset Kikötő",
+                "ro": "Portul Sausset",
+                "en": "Sausset Marina"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die im Regen schaukelnden Fischerboote; die nahegelegenen Arkaden bieten einen großartigen, trockenen Ort, um den Hafen zu sehen.",
+                "hu": "Figyelje meg az esőben ringatózó halászhajókat; a közeli árkádok nagyszerű, száraz helyet kínálnak a vizes kikötő megtekintéséhez.",
+                "ro": "Priviți bărcile de pescuit legănându-se în ploaie; arcadele comerciale din apropiere oferă un loc uscat excelent pentru a vedea portul.",
+                "en": "Watch the fishing boats bobbing dramatically in the rain; the nearby commercial arcades offer a great dry spot to view the wet harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad (Sentier du Littoral)",
+                "hu": "Parti Ösvény (Sentier du Littoral)",
+                "ro": "Cărarea de Coastă (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Das Mittelmeer ist im Regen wild und dramatisch; tragen Sie rutschfeste Schuhe, da der Kalksteinweg an der Küste sehr glatt wird.",
+                "hu": "A Földközi-tenger viharos és drámai az esőben; viseljen csúszásmentes cipőt, mivel a mészköves parti ösvény nagyon síkossá válik.",
+                "ro": "Marea Mediterană este dramatică în ploaie; purtați pantofi rezistenți, antiderapanți, deoarece calea de calcar de coastă devine foarte alunecoasă.",
+                "en": "The Mediterranean is fierce and dramatic in the rain; wear sturdy, slip-resistant shoes as the coastal limestone path gets very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Petit Nid",
+                "hu": "Petit Nid Strand",
+                "ro": "Plaja Petit Nid",
+                "en": "Petit Nid Beach"
+              },
+              "tip_5lang": {
+                "de": "Dieser Kieselstrand wirkt unter dem grauen Himmel markant; eine wasserdichte Jacke ist hier unerlässlich, da es keinen natürlichen Schutz gibt.",
+                "hu": "Ez a kavicsos strand lenyűgöző a szürke, viharos égbolt alatt; egy teljesen vízálló kabát itt elengedhetetlen, mert nincs természetes menedék.",
+                "ro": "Această plajă cu pietricele arată uimitor sub cerul gri furtunos; o jachetă complet impermeabilă este esențială aici, neexistând adăpost natural.",
+                "en": "This pebble beach looks striking under grey stormy skies; a fully waterproof jacket is essential here as there is no natural shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plagette du Grand Nid",
+                "hu": "Plagette du Grand Nid",
+                "ro": "Plagette du Grand Nid",
+                "en": "Plagette du Grand Nid"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang hier und beobachten Sie die Wellen; finden Sie einen überdachten Vorsprung, um sich vom Regen zu trocknen.",
+                "hu": "Zárja itt a vizes sétát a hatalmas hullámok megfigyelésével; keressen egy közeli fedett beugrót, ahol megpihenhet és megszáradhat az eső elől.",
+                "ro": "Încheiați plimbarea umedă aici, privind valurile; găsiți un loc acoperit în apropiere pentru a vă odihni și a vă usca de ploaia puternică.",
+                "en": "Conclude your wet walk here watching the crashing waves; find a nearby covered overhang to rest and dry off from the heavy rainfall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den frischen Wintermorgen am historischen Schloss. Der Mittag am Yachthafen bringt erfrischende Spaziergänge bei kühlem Wind. Der nachmittägliche Küstenpfad belohnt Sie mit klaren Ausblicken. Packen Sie sich warm ein, da die Sonne um 17:00 Uhr an den ruhigen Stränden untergeht.",
+            "hu": "Kezdje a csípős téli reggelt a történelmi kastélynál. A déli kikötői séta frissítő a hideg tengeri szélben. A délutáni parti ösvény kristálytiszta mediterrán kilátással jutalmazza. Öltözzön melegen a kora esti órákra, mivel a nap már 17:00 óra körül lemenőben van a csendes strandokon.",
+            "ro": "Începeți dimineața de iarnă explorând castelul istoric. Prânzul la port aduce plimbări răcoritoare în vântul rece. Cărarea de coastă de după-amiază vă răsplătește cu vederi clare. Îmbrăcați-vă gros pentru seara timpurie, deoarece soarele apune rapid în jurul orei 17:00 la plajele liniștite.",
+            "en": "Start the crisp winter morning exploring the historic castle grounds. Midday at the marina brings refreshing strolls with brisk winds. The afternoon coastal path rewards you with exceptionally clear views. Wrap up warmly for an early evening, as the sun sets rapidly around 17:00 at the beaches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Charles-Roux",
+                "hu": "Charles-Roux Kastély",
+                "ro": "Castelul Charles-Roux",
+                "en": "Charles-Roux Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Wintersonnenlicht hebt die historischen Steinstrukturen wunderschön hervor; packen Sie sich warm ein, da die Morgenluft hier besonders frisch ist.",
+                "hu": "A téli napfény gyönyörűen kiemeli a történelmi kőépületeket; öltözzön melegen, mivel a reggeli levegő itt különösen csípős.",
+                "ro": "Lumina soarelui de iarnă evidențiază frumos structurile istorice de piatră; îmbrăcați-vă gros, deoarece aerul dimineții aici este deosebit de rece.",
+                "en": "The winter sunlight beautifully highlights the historic stone structures; wrap up warmly as the morning air here is particularly crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Sausset",
+                "hu": "Sausset Kikötő",
+                "ro": "Portul Sausset",
+                "en": "Sausset Marina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche, leere Winterhafenatmosphäre; eine Windjacke wird heute gegen die beißende Meeresbrise dringend empfohlen.",
+                "hu": "Élvezze a békés, üres téli kikötő hangulatát; egy jó széldzseki kifejezetten ajánlott ma a metsző tengeri szellők ellen.",
+                "ro": "Bucurați-vă de atmosfera pașnică a portului de iarnă; o jachetă de vânt este foarte recomandată împotriva brizelor marine tăioase de astăzi.",
+                "en": "Enjoy the peaceful, uncrowded winter harbor atmosphere; a windbreaker is highly recommended against the biting sea breezes today."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad (Sentier du Littoral)",
+                "hu": "Parti Ösvény (Sentier du Littoral)",
+                "ro": "Cărarea de Coastă (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie im Winter eine außergewöhnliche Sicht auf das Meer; halten Sie ein zügiges Tempo, um auf dieser ungeschützten Route warm zu bleiben.",
+                "hu": "Tapasztalja meg a tenger kivételes látási viszonyait télen; tartson egyenletes sétatempót, hogy melegen maradjon ezen a nyitott útvonalon.",
+                "ro": "Experimentați o vizibilitate excepțională a mării iarna; păstrați un ritm constant de mers pentru a vă menține cald pe acest traseu expus.",
+                "en": "Experience exceptional visibility of the sea in winter; keep a steady walking pace to stay warm along this beautifully exposed route."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Petit Nid",
+                "hu": "Petit Nid Strand",
+                "ro": "Plaja Petit Nid",
+                "en": "Petit Nid Beach"
+              },
+              "tip_5lang": {
+                "de": "Sammeln Sie glatte Winterkieselsteine in völliger Ruhe; kleiden Sie sich in mehreren thermischen Schichten, um den kühlen Böen zu trotzen.",
+                "hu": "Gyűjtsön sima téli kavicsokat teljes, csendes magányban; öltözzön több réteg termo ruházatba, hogy kivédje a hideg parti széllökéseket.",
+                "ro": "Colectați pietricele netede de iarnă în liniște deplină; îmbrăcați-vă în mai multe straturi termice pentru a combate rafalele reci de coastă.",
+                "en": "Collect smooth winter pebbles in complete, quiet solitude; dress in multiple thermal layers to combat the chilly coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Plagette du Grand Nid",
+                "hu": "Plagette du Grand Nid",
+                "ro": "Plagette du Grand Nid",
+                "en": "Plagette du Grand Nid"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das frühe goldene Licht ein, das sich auf dem Wasser spiegelt; die Wintersonnenuntergänge hier um 17:00 Uhr sind absolut atemberaubend.",
+                "hu": "Kapja el a korai aranyórai fényeket, amelyek ragyogóan tükröződnek a vízen; az itteni téli naplementék 17:00 körül lenyűgözőek.",
+                "ro": "Surprindeți lumina timpurie care se reflectă strălucitor pe apă; apusurile de iarnă aici în jurul orei 17:00 sunt absolut uimitoare de văzut.",
+                "en": "Catch the early golden hour light reflecting brilliantly on the water; winter sunsets here around 17:00 are absolutely stunning to see."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpározzon reggel a Charles-Roux kastélyhoz, majd tegyen egy kellemes túrát a nyüzsgő Sausset kikötőbe.\nDélben tekerjen végig a lenyűgöző parti ösvényen, és tartson egy frissítő szünetet a Petit Nid strandon.\nDélután haladjon tovább nyugat felé, hogy felfedezze a Four à Chaux és a Roselière sziklás öbleit.\nFejezze be a kerékpáros napot a Plage de Sainte-Croix strandon, pihenve a homokban, ahogy a naplemente megvilágítja a kápolnát.",
         "ro": "Creați-vă dimineața pedalând spre Castelul Charles-Roux, urmat de o plimbare plăcută spre portul vibrant din Sausset.\nLa amiază, mergeți de-a lungul impresionantului traseu de coastă și faceți o pauză la plaja Petit Nid.\nPetreceți după-amiaza mergând spre vest pentru a explora stâncile de calcar de la Four à Chaux și Roselière.\nÎncheiați ziua de ciclism la Plage de Sainte-Croix, relaxându-vă pe nisip la apusul soarelui.",
         "en": "Cycle your way to Charles-Roux Castle in the morning, followed by a pleasant ride to the bustling Sausset Marina.\nAt midday, pedal along the stunning Sentier du Littoral and take a refreshing break at Petit Nid Beach.\nSpend your afternoon riding further west to explore the limestone cliffs and natural shade at Four à Chaux and Roselière.\nEnd your cycling day at Plage de Sainte-Croix, relaxing on the sand as the sunset illuminates the coastal chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die nasse Morgenfahrt beginnt am Schloss. Mittags sind die Hafenreflexionen schön, erfordern aber vorsichtiges Bremsen. Der Küstenweg am Nachmittag verlangt langsames Radfahren. Der graue Abend erfordert zuverlässige Fahrradlichter und Regenausrüstung.",
+            "hu": "A nedves reggeli tekerés a ködös kastélynál indul. Délben a kikötői tükröződések szépek, de óvatos fékezés kell. A délutáni parti ösvényen lassan haladjon a csúszós terepen. A szürke estére megbízható kerékpárlámpa és vízálló ruha szükséges.",
+            "ro": "Plimbarea umedă de dimineață începe la castel. La prânz, reflexiile portului sunt frumoase, deși necesită frânare atentă. Traseul de coastă cere pedalare lentă. Seara gri la plaje necesită lumini bune pentru bicicletă și echipament impermeabil.",
+            "en": "A wet morning ride begins at the castle with misty views. By noon, the marina reflections are beautiful, though careful braking is needed. The afternoon coastal trail demands slow cycling on slippery terrain. The grey evening requires reliable bike lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Charles-Roux",
+                "hu": "Charles-Roux Kastély",
+                "ro": "Castelul Charles-Roux",
+                "en": "Charles-Roux Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad und bewundern Sie die regennassen Mauern; eine wasserdichte Fahrradtasche ist ideal für Ihre Ausrüstung bei diesem Wetter.",
+                "hu": "Parkolja le a biciklit és csodálja meg az eső áztatta falakat; egy vízálló kerékpáros táska ideális a felszerelésének ebben az időben.",
+                "ro": "Parcați bicicleta și admirați zidurile spălate de ploaie; un cobur impermeabil este excelent pentru echipamentul dumneavoastră pe această vreme.",
+                "en": "Park your bike and admire the rain-washed castle walls; a waterproof pannier is highly recommended to protect your gear in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Sausset",
+                "hu": "Sausset Kikötő",
+                "ro": "Portul Sausset",
+                "en": "Sausset Marina"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Hafenoberflächen; machen Sie eine kurze Pause unter den Markisen der geschlossenen Sommerstände.",
+                "hu": "Óvatosan tekerjen a nedves kikötői burkolaton; tartson egy rövid szünetet a zárt nyári standok ponyvái alatt, hogy elkerülje az esőt.",
+                "ro": "Mergeți cu atenție pe suprafețele umede ale portului; faceți o scurtă pauză sub copertinele tarabelor de vară închise pentru a scăpa de ploaie.",
+                "en": "Ride carefully on the wet harbor surfaces; take a short break under the awnings of closed summer stalls to stay out of the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad (Sentier du Littoral)",
+                "hu": "Parti Ösvény (Sentier du Littoral)",
+                "ro": "Cărarea de Coastă (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Radfahren Sie sehr langsam, da die nassen Küstenwege tückisch rutschig sein können; genießen Sie die dramatischen, stürmischen Meeresblicke.",
+                "hu": "Nagyon lassan kerékpározzon, mert a nedves parti ösvények alattomosan csúszósak lehetnek; élvezze a drámai, viharos tengeri kilátást.",
+                "ro": "Pedalați foarte încet, deoarece traseele umede de coastă pot fi extrem de alunecoase; bucurați-vă de priveliștile dramatice ale mării furtunoase.",
+                "en": "Cycle slowly as the scenic wet coastal trails can be treacherously slippery; stop safely to enjoy the dramatic, stormy sea views."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Petit Nid",
+                "hu": "Petit Nid Strand",
+                "ro": "Plaja Petit Nid",
+                "en": "Petit Nid Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp, um die grauen Wellen zu sehen; stellen Sie sicher, dass Ihre Fahrradlichter aufgrund der schlechten Sicht durch den Regen an sind.",
+                "hu": "Egy rövid megálló a szürke hullámok megtekintéséhez; győződjön meg róla, hogy a kerékpár lámpái be vannak kapcsolva az eső miatti rossz látási viszonyoknál.",
+                "ro": "O oprire scurtă pentru a vedea valurile gri; asigurați-vă că luminile bicicletei sunt aprinse din cauza vizibilității scăzute cauzate de ploaie.",
+                "en": "A quick stop to see the moody grey waves; ensure your bike lights are switched on due to the low visibility caused by the continuous rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plagette du Four à Chaux",
+                "hu": "Plagette du Four à Chaux",
+                "ro": "Plagette du Four à Chaux",
+                "en": "Plagette du Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Der Regen hebt die rauen Küstenfelsen wunderbar hervor; tragen Sie einen hochwertigen Fahrrad-Regenmantel, um trocken und bequem zu bleiben.",
+                "hu": "Az eső csodálatosan kiemeli a nyers parti sziklákat; viseljen kiváló minőségű kerékpáros esőkabátot, hogy kényelmes és teljesen száraz maradjon.",
+                "ro": "Ploaia evidențiază minunat stâncile aspre de coastă; purtați o pelerină de ploaie pentru ciclism de înaltă calitate pentru a rămâne uscat.",
+                "en": "The rain highlights the raw, rugged coastal rocks wonderfully; wear a high-quality cycling raincoat to stay comfortable and completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roselière",
+                "hu": "Plage de la Roselière",
+                "ro": "Plage de la Roselière",
+                "en": "Plage de la Roselière"
+              },
+              "tip_5lang": {
+                "de": "Das Schilf schwankt intensiv im regnerischen Wind; achten Sie auf schlammige und rutschige Stellen auf dem Anfahrtsweg zum Strand.",
+                "hu": "A gyönyörű nádasok intenzíven ringatóznak a viharos, esős szélben; óvatosan figyeljen a sáros és csúszós foltokra a megközelítési útvonalon.",
+                "ro": "Paturile de stuf se leagănă intens în vântul ploios; aveți grijă la peticele noroioase și alunecoase de pe traseul de apropiere.",
+                "en": "The beautiful reed beds sway intensely in the stormy rainy wind; watch out carefully for muddy and slick patches on the approach trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Sainte-Croix",
+                "hu": "Plage de Sainte-Croix",
+                "ro": "Plage de Sainte-Croix",
+                "en": "Plage de Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Fahrt an dieser weiten Bucht; packen Sie eine warme Thermoskanne in Ihre wasserdichte Tasche, um sich aufzuwärmen.",
+                "hu": "Zárja a vizes túrát ennél a széles öbölnél; csomagoljon egy meleg termoszt a vízálló kerékpáros táskájába, hogy felmelegedjen a nap végén.",
+                "ro": "Încheiați cursa umedă la acest golf larg; împachetați un termos cald în coburul impermeabil pentru a vă încălzi după ploaie.",
+                "en": "End your wet ride at this wide bay as the rain creates a mystic atmosphere; pack a warm thermos in your waterproof pannier to warm up."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie an einem frostigen Morgen zum historischen Schloss. Mittags lockt das ruhige Radfahren am leeren Hafen. Der Küstenpfad bietet nachmittags tolle Sicht, achten Sie auf den Mistral. Erreichen Sie die Strände vor dem frühen Sonnenuntergang in warmer Kleidung.",
+            "hu": "Induljon egy fagyos reggelen a történelmi kastélyhoz. A dél békés, élénk biciklizést kínál az üres kikötőben. Délután a parti ösvény lenyűgöző látási viszonyokat nyújt; ügyeljen a szélre. Érje el a strandokat a korai 17:00 órás naplemente előtt meleg ruhában.",
+            "ro": "Porniți într-o dimineață geroasă spre castel. Prânzul oferă o plimbare liniștită în jurul portului gol. După-amiaza, cărarea de coastă oferă o vizibilitate uimitoare; atenție la vânt. Ajungeți la plaje înainte de apusul timpuriu de la ora 17:00, purtând haine groase.",
+            "en": "Set off on a frosty morning to the historic castle. Midday offers peaceful, brisk cycling around the empty marina. In the afternoon, the coastal path provides stunning visibility, but watch for the strong wind. Reach the final beaches before the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Charles-Roux",
+                "hu": "Charles-Roux Kastély",
+                "ro": "Castelul Charles-Roux",
+                "en": "Charles-Roux Castle"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre flotte Fahrt an diesem Wahrzeichen; warme Handschuhe sind unerlässlich für den frostigen Lenker am frühen Wintermorgen.",
+                "hu": "Kezdje a lendületes utat ennél a nevezetességnél; a meleg kesztyű elengedhetetlen a fagyos kormányhoz a kora téli reggeleken.",
+                "ro": "Începeți plimbarea rapidă la acest punct de reper; mănușile calde sunt esențiale pentru ghidonul înghețat în dimineața rece de iarnă.",
+                "en": "Start your brisk ride at this historic landmark; insulated gloves are absolutely essential for the freezing handlebars on a winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Sausset",
+                "hu": "Sausset Kikötő",
+                "ro": "Portul Sausset",
+                "en": "Sausset Marina"
+              },
+              "tip_5lang": {
+                "de": "Der leere Winterhafen ist perfekt für ungestörtes Radfahren; die kalte Meeresluft ist unglaublich erfrischend in der Mittagssonne.",
+                "hu": "Az üres téli kikötő tökéletes a zavartalan kerékpározáshoz; a hideg tengeri levegő hihetetlenül frissítő a déli napsütésben.",
+                "ro": "Portul gol de iarnă este perfect pentru ciclism netulburat; aerul rece al mării este incredibil de răcoritor sub soarele amiezii.",
+                "en": "The empty winter marina is perfectly suited for undisturbed cycling; the cold sea air is incredibly refreshing in the bright midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Küstenpfad (Sentier du Littoral)",
+                "hu": "Parti Ösvény (Sentier du Littoral)",
+                "ro": "Cărarea de Coastă (Sentier du Littoral)",
+                "en": "Coastal Path (Sentier du Littoral)"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie mit atemberaubender, klarer Wintersicht an der Küste entlang; hüten Sie sich jedoch vor starken Mistralwinden, die Sie aus dem Gleichgewicht bringen können.",
+                "hu": "Tekerjen végig a parton lenyűgöző, tiszta téli látási viszonyok mellett; azonban óvakodjon az erős Mistral széltől, amely kibillentheti egyensúlyából.",
+                "ro": "Pedalați de-a lungul coastei cu o vizibilitate uimitoare de iarnă; aveți grijă la vânturile puternice Mistral care vă pot dezechilibra.",
+                "en": "Pedal along the coast with stunning, clear winter visibility; however, beware of strong Mistral crosswinds that can quickly throw off your balance."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Petit Nid",
+                "hu": "Petit Nid Strand",
+                "ro": "Plaja Petit Nid",
+                "en": "Petit Nid Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Winterstopp, um sich die Beine zu vertreten; thermische Radlerhosen machen die Fahrt auf diesen exponierten Strecken viel gemütlicher.",
+                "hu": "Békés téli megálló a lábak kinyújtóztatására; a termo kerékpáros nadrág sokkal otthonosabbá teszi az utat ezeken a nyílt szakaszokon.",
+                "ro": "O oprire pașnică de iarnă pentru a vă întinde picioarele; colanții termici de ciclism vor face călătoria mult mai confortabilă pe aceste porțiuni.",
+                "en": "A peaceful winter stop to stretch your legs; thermal cycling leggings will make the ride much cozier along these fully exposed coastal stretches."
+              }
+            },
+            {
+              "name": {
+                "de": "Plagette du Four à Chaux",
+                "hu": "Plagette du Four à Chaux",
+                "ro": "Plagette du Four à Chaux",
+                "en": "Plagette du Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit der ruhigen Winterküste; behalten Sie ein konstantes Radeltempo bei, um Ihre Körperwärme zu erhalten.",
+                "hu": "Élvezze a csendes téli partvidék zord szépségét; tartson fenn egy egyenletes kerékpáros tempót, hogy megőrizze a testhőmérsékletét.",
+                "ro": "Bucurați-vă de frumusețea aspră a coastei liniștite de iarnă; mențineți un ritm constant de ciclism pentru a vă păstra căldura corpului.",
+                "en": "Enjoy the stark, rugged beauty of the quiet winter coastline; maintain a steady cycling pace to generate and keep your core body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roselière",
+                "hu": "Plage de la Roselière",
+                "ro": "Plage de la Roselière",
+                "en": "Plage de la Roselière"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Winteratmosphäre macht diesen Strand magisch; packen Sie eine warme Mütze und isolierte Handschuhe für Ihre kurzen Pausen hier ein.",
+                "hu": "A békés téli atmoszféra varázslatossá teszi ezt a homokos strandot; csomagoljon meleg sapkát és szigetelt kesztyűt a rövid pihenőkre.",
+                "ro": "Atmosfera senină de iarnă face această plajă magică; împachetați o căciulă caldă și mănuși izolate pentru scurtul dumneavoastră popas aici.",
+                "en": "The serene winter atmosphere makes this sandy beach magical; pack a warm hat and insulated gloves for your short rest stops here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Sainte-Croix",
+                "hu": "Plage de Sainte-Croix",
+                "ro": "Plage de Sainte-Croix",
+                "en": "Plage de Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig zum spektakulären frühen Wintersonnenuntergang um 17:00 Uhr an; stellen Sie sicher, dass Sie geladene Lichter für die Rückfahrt haben.",
+                "hu": "Érkezzen épp időben a látványos kora téli naplementéhez 17:00 körül; gondoskodjon a teljesen feltöltött kerékpárlámpákról a sötét visszaútra.",
+                "ro": "Ajungeți la timp pentru spectaculosul apus timpuriu de iarnă în jurul orei 17:00; asigurați-vă că aveți lumini încărcate pentru întoarcere.",
+                "en": "Arrive just in time for the spectacular early winter sunset around 17:00; ensure you have fully charged bike lights for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje a parti autózást a Charles-Roux kastélynál, majd parkoljon le a kikötő közelében egy kellemes reggeli sétához.\nDélben vezessen a nyugati öblök felé, felfedezve a Petit Nid és a rejtett sziklás partok különleges világát.\nDélután élvezze a napsütést a Plage de la Roselière strandon, majd a Sainte-Croix tágas homokos partjain.\nEste pihenjen a Plage de la Saulce strandon, és tegyen egy csendes sétát a fenyőfák alatt a mediterrán naplemente fényében.",
         "ro": "Începeți plimbarea de-a lungul coastei la Castelul Charles-Roux, apoi parcați lângă port pentru o plimbare matinală plăcută.\nConduceți spre golfurile vestice la prânz, explorând țărmurile distincte de la Petit Nid și golfurile stâncoase ascunse.\nDupă-amiaza, bucurați-vă de soare la Plage de la Roselière și de nisipul spațios de la Sainte-Croix.\nRelaxați-vă la Plage de la Saulce seara, făcând o plimbare liniștită sub pini în timp ce soarele apune.",
         "en": "Start your scenic coastal drive at Charles-Roux Castle, then park near the Sausset Marina for a delightful morning walk.\nDrive towards the western coves at midday, exploring the distinct shores of Petit Nid and hidden rocky bays.\nIn the afternoon, enjoy the sun at Plage de la Roselière and the spacious, welcoming sands of Sainte-Croix.\nRelax at Plage de la Saulce in the evening, taking a serene stroll under the pine trees as the Mediterranean sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zum Schloss für einen nebligen Morgenblick. Parken Sie mittags am Hafen und beobachten Sie den Regen. Die Nachmittagsfahrt entlang der Küste zeigt dramatische Wellen. Verbringen Sie den Abend bequem zwischen den Stränden und halten Sie ein Handtuch bereit.",
+            "hu": "Vezessen a kastélyhoz egy ködös reggeli látványért a meleg autóból. Délben parkoljon a kikötőnél, és nézze az esőt a hajókon. A délutáni parti vezetés drámai, viharos hullámokat tár elénk. Töltse az estét kényelmesen a strandok között, egy száraz törülközővel felszerelkezve.",
+            "ro": "Conduceți la castel pentru o vedere încețoșată de dimineață. La prânz, parcați lângă port și priviți ploaia. Călătoria de după-amiază pe coastă dezvăluie valuri dramatice. Petreceți seara confortabil sărind între plaje, având la îndemână un prosop uscat.",
+            "en": "Drive to the castle for a misty morning view from your warm seat. By noon, park near the marina and watch the rain over the boats. The afternoon drive along the coast reveals dramatic, stormy waves. Spend the evening comfortably hopping between beaches with a dry towel handy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Charles-Roux",
+                "hu": "Charles-Roux Kastély",
+                "ro": "Castelul Charles-Roux",
+                "en": "Charles-Roux Castle"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich das majestätische, regnerische Äußere von den nahegelegenen Parkplätzen an; ein Regenschirm ist ein Muss für den kurzen Weg zu den Toren.",
+                "hu": "Tekintse meg a fenséges, esős külsőt a közeli parkolóból; az esernyő kötelező a kapukhoz vezető rövid sétához.",
+                "ro": "Vedeți exteriorul maiestuos, ploios, de la parcarea din apropiere; o umbrelă este obligatorie pentru scurta plimbare spre porți.",
+                "en": "View the majestic rainy exterior from nearby parking spots; a sturdy umbrella is an absolute must for the short walk to the gates."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Sausset",
+                "hu": "Sausset Kikötő",
+                "ro": "Portul Sausset",
+                "en": "Sausset Marina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die regnerische Hafenansicht aus der Wärme Ihres Autos; steigen Sie nur kurz mit einem robusten Regenmantel aus.",
+                "hu": "Élvezze az esős kikötő látványát az autója melegéből; csak rövid időre szálljon ki egy strapabíró esőkabátban.",
+                "ro": "Bucurați-vă de priveliștea portului ploios din căldura mașinii dumneavoastră; ieșiți doar pentru scurt timp cu o pelerină rezistentă.",
+                "en": "Enjoy the beautiful rainy harbor views from the warmth of your car; step out only briefly with a sturdy raincoat to take photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Petit Nid",
+                "hu": "Petit Nid Strand",
+                "ro": "Plaja Petit Nid",
+                "en": "Petit Nid Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen, stürmischen Wellen, die auf das Ufer treffen; bewahren Sie ein Handtuch im Auto auf, um sich nach dem Aussteigen abzutrocknen.",
+                "hu": "Figyelje a partra csapódó drámai, viharos hullámokat; tartson egy törülközőt az autóban, hogy megtörölközzön a rövid kiszállás után.",
+                "ro": "Priviți valurile dramatice de furtună lovind țărmul; păstrați un prosop în mașină pentru a vă usca după ce ați ieșit afară.",
+                "en": "Watch the dramatic stormy waves hitting the shore from the parking area; keep a dry towel in the car to dry off after stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Plagette du Four à Chaux",
+                "hu": "Plagette du Four à Chaux",
+                "ro": "Plagette du Four à Chaux",
+                "en": "Plagette du Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Die nasse Küste ist markant; nutzen Sie die Heizung des Autos, um sich zwischen diesen kurzen, landschaftlich reizvollen Stopps aufzuwärmen.",
+                "hu": "A vizes partvidék lenyűgöző; használja az autó fűtését, hogy felmelegedjen ezen rövid, festői megállók között az esős napon.",
+                "ro": "Coasta umedă este uimitoare; folosiți încălzirea mașinii pentru a vă încălzi între aceste opriri scurte și pitorești.",
+                "en": "The wet coastline here is striking; use the car's heater to warm yourself up comfortably between these short scenic sightseeing stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roselière",
+                "hu": "Plage de la Roselière",
+                "ro": "Plage de la Roselière",
+                "en": "Plage de la Roselière"
+              },
+              "tip_5lang": {
+                "de": "Regen verwandelt diesen Ort in eine düstere Landschaft; seien Sie beim Fahren auf den nassen, kurvigen Küstenstraßen hier sehr vorsichtig.",
+                "hu": "Az eső komor, drámai tájjá változtatja ezt a helyet; legyen nagyon óvatos, amikor a vizes, kanyargós parti utakon vezet.",
+                "ro": "Ploaia transformă acest loc într-un peisaj posomorât; fiți foarte atenți la volan pe drumurile umede și sinuoase de coastă de aici.",
+                "en": "Rain transforms this spot into a very moody landscape; be exceedingly careful driving on the wet, winding coastal roads around here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Sainte-Croix",
+                "hu": "Plage de Sainte-Croix",
+                "ro": "Plage de Sainte-Croix",
+                "en": "Plage de Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Die große Bucht sieht im Regen wild aus; suchen Sie Schutz unter den Pinien, wenn Sie sich aus dem Fahrzeug wagen.",
+                "hu": "A nagy öböl vadnak tűnik az esőben; keressen menedéket a fenyőfák alatt, ha esetleg kimerészkedik a meleg járműből.",
+                "ro": "Golful mare arată sălbatic în ploaie; căutați adăpost sub pini dacă vă aventurați afară din vehiculul dumneavoastră cald.",
+                "en": "The large bay looks incredibly wild in the heavy rain; seek shelter under the thick pine trees if you venture out of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Saulce",
+                "hu": "Plage de la Saulce",
+                "ro": "Plage de la Saulce",
+                "en": "Plage de la Saulce"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre regnerische Fahrt hier und beobachten Sie die schwere Brandung aus der Ferne; Ihr Fahrzeug bietet den perfekten, gemütlichen Rückzugsort.",
+                "hu": "Fejezze be itt az esős vezetést, figyelve a heves hullámverést a távolból; járműve tökéletes, hangulatos menedéket nyújt a viharos időben.",
+                "ro": "Terminați-vă călătoria ploioasă aici, privind valurile grele de departe; vehiculul vă oferă retragerea perfectă și confortabilă din vremea furtunoasă.",
+                "en": "Finish your rainy drive here watching the heavy surf from afar; your vehicle provides the perfect, cozy retreat from the stormy weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einer gemütlichen Fahrt zum winterlichen Schloss. Das Parken am Hafen ist mittags einfach. Die Fahrt an der Küste bietet kristallklare Horizonte. Beenden Sie den Tag und beobachten Sie den frühen Sonnenuntergang um 17:00 Uhr aus dem warmen Auto.",
+            "hu": "Kezdje egy hangulatos reggeli autózással a napfényes téli kastélyhoz. Délben könnyű parkolni a kikötőben. A délutáni parti vezetés kristálytiszta óceáni horizontot kínál. Fejezze be a napot a gyönyörű, korai 17:00 órás naplemente megtekintésével a fűtött autóból.",
+            "ro": "Începeți cu o plimbare confortabilă spre castelul de iarnă. Parcarea la port este ușoară la prânz. Călătoria de după-amiază pe coastă oferă orizonturi oceanice clare. Terminați ziua privind apusul timpuriu de la ora 17:00 din confortul încălzit al mașinii.",
+            "en": "Start with a cozy morning drive to the sunlit winter castle. Midday parking at the marina is easy, perfect for a brisk walk. The afternoon coastal drive offers crystal-clear ocean horizons. Finish the day watching the early 17:00 sunset from your heated car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Charles-Roux",
+                "hu": "Charles-Roux Kastély",
+                "ro": "Castelul Charles-Roux",
+                "en": "Charles-Roux Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Wintersonnenlicht auf der historischen Fassade; genießen Sie den Luxus eines warmen Autos, bevor Sie das Gelände erkunden.",
+                "hu": "Csodálja meg a téli napfényt a történelmi homlokzaton; élvezze a meleg autó luxusát, mielőtt gyalogosan felfedezné a kastély területét.",
+                "ro": "Admirați lumina soarelui de iarnă pe fațada istorică; bucurați-vă de luxul unei mașini calde înainte de a explora terenurile.",
+                "en": "Admire the beautiful winter sunlight on the historic facade; enjoy the simple luxury of a warm car before stepping out to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen Sausset",
+                "hu": "Sausset Kikötő",
+                "ro": "Portul Sausset",
+                "en": "Sausset Marina"
+              },
+              "tip_5lang": {
+                "de": "Am ruhigen Winterhafen lässt es sich leicht parken; bringen Sie einen warmen Schal für Ihren Spaziergang entlang der Docks mit.",
+                "hu": "A nyugodt téli kikötőben nagyon könnyű parkolni; hozzon magával egy meleg sálat a dokkok menti frissítő sétához.",
+                "ro": "În portul senin de iarnă este ușor să parchezi; adu-ți o eșarfă caldă pentru plimbarea ta de-a lungul docurilor friguroase.",
+                "en": "The serene winter harbor is incredibly easy to park at; bring a very warm scarf for your brisk walk along the chilly docks."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Petit Nid",
+                "hu": "Petit Nid Strand",
+                "ro": "Plaja Petit Nid",
+                "en": "Petit Nid Beach"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die unberührte Winterküste; das Fahren macht es einfach, den beißenden Küstenwinden jederzeit schnell zu entkommen.",
+                "hu": "Tekintse meg az érintetlen téli partvonalat; a vezetés megkönnyíti a metsző parti szelek elől való gyors menekülést bármikor.",
+                "ro": "Vedeți țărmul de iarnă neatins; condusul face ușoară scăparea rapidă din calea vânturilor mușcătoare de coastă oricând doriți.",
+                "en": "See the beautifully untouched winter shoreline; having a car makes it incredibly easy to escape the biting coastal winds whenever needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Plagette du Four à Chaux",
+                "hu": "Plagette du Four à Chaux",
+                "ro": "Plagette du Four à Chaux",
+                "en": "Plagette du Four à Chaux"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie den klaren Winterhorizont; die beheizten Autositze sind nach einem kurzen, frischen Spaziergang hier ein wahrer Segen.",
+                "hu": "Csodálja meg a tiszta téli horizontot; a fűtött autóülések igazi áldást jelentenek egy rövid, frissítő séta után ezen a ponton.",
+                "ro": "Minunați-vă de orizontul clar de iarnă; scaunele încălzite ale mașinii sunt o adevărată binecuvântare după o scurtă plimbare pe frig.",
+                "en": "Marvel at the crystal clear winter horizon; the heated car seats are an absolute blessing after taking a brisk, chilly walk here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roselière",
+                "hu": "Plage de la Roselière",
+                "ro": "Plage de la Roselière",
+                "en": "Plage de la Roselière"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger und friedlicher Winterküstenstopp; kleiden Sie sich in warmen Schichten für den kurzen Spaziergang vom Parkplatz zum Wasser.",
+                "hu": "Csendes és nyugodt téli parti megálló; öltözzön meleg rétegekbe a parkolótól a vízig tartó rövid, hideg sétához.",
+                "ro": "O oprire de coastă de iarnă liniștită; îmbrăcați-vă în straturi calde pentru scurta plimbare de la parcare la apa mării.",
+                "en": "A quiet and tranquil winter coastal stop; dress in very warm layers for the short, bracing stroll from the parking area to the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Sainte-Croix",
+                "hu": "Plage de Sainte-Croix",
+                "ro": "Plage de Sainte-Croix",
+                "en": "Plage de Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den weiten, leeren Winterstrand; kommen Sie unbedingt vor 17:00 Uhr an, um das restliche wertvolle Tageslicht noch einzufangen.",
+                "hu": "Tapasztalja meg a hatalmas, üres téli strandot; feltétlenül érkezzen 17:00 óra előtt, hogy elcsípje a hátralévő értékes nappali fényt.",
+                "ro": "Experimentați plaja vastă și goală de iarnă; asigurați-vă că ajungeți înainte de ora 17:00 pentru a prinde lumina zilei rămasă.",
+                "en": "Experience the vast, beautifully empty winter beach; arrive well before 17:00 to catch the remaining daylight before it gets completely dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Saulce",
+                "hu": "Plage de la Saulce",
+                "ro": "Plage de la Saulce",
+                "en": "Plage de la Saulce"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den atemberaubenden frühen goldenen Sonnenuntergang; die ruhige Winteratmosphäre ist aus Ihrem beheizten Auto unvergesslich.",
+                "hu": "Nézze meg a lélegzetelállító korai arany naplementét; a nyugodt téli atmoszféra felejthetetlen a fűtött autójából kényelmesen szemlélve.",
+                "ro": "Priviți apusul de aur timpuriu care îți taie respirația; atmosfera calmă de iarnă este de neuitat din interiorul mașinii dumneavoastră încălzite.",
+                "en": "Watch the breathtaking early golden sunset over the Mediterranean; the calm winter atmosphere is unforgettable from your heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

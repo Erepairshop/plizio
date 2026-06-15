@@ -183,6 +183,224 @@
         "hu": "Kezdje a gyalogtúrát a monumentális Zağnos Paşa mecsetnél, majd merüljön el a város egyedi kulturális örökségében a Nemzeti Fotográfiai Múzeum régi kameráit tanulmányozva.",
         "ro": "Începeți turul pietonal la monumentala Moschee Zağnos Paşa, apoi explorați moștenirea culturală la Muzeul Național de Fotografie admirând aparate foto de epocă.",
         "en": "Begin your walking tour at the monumental Zağnos Paşa Camii, soaking in the early history of Balıkesir. Then, dive into the city's unique cultural heritage at the National Photography Museum to see vintage cameras."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in der majestätischen Zağnos-Paşa-Moschee, die perfekten Schutz vor dem Regen bietet. Mittags laden die Museen der Stadt zu einer trockenen und kulturellen Pause ein. Am Nachmittag schlendern wir mit dem Regenschirm durch die Altstadt, wobei wir auf die rutschigen Pflastersteine achten. Den Abend lassen wir bei dem sanften Trommeln der Tropfen in einem Café ausklingen.",
+            "hu": "Reggel a Zağnos Paşa mecset árkádjai alatt keressünk menedéket a szemerkélő eső elől. Délben a múzeumok belső terei nyújtanak száraz és tartalmas időtöltést a záporok idején. Délután ernyővel vágjunk neki a történelmi negyednek, figyelve a vizes macskakövekre. Az estét a városi fények csillogása teszi hangulatossá a vizes aszfalton, mielőtt egy meleg teázóba vonulnánk.",
+            "ro": "Începeți dimineața la Moscheea Zağnos Paşa, un refugiu perfect împotriva ploii. La prânz, muzeele orașului oferă o pauză culturală uscată și confortabilă. După-amiaza, explorăm centrul istoric cu umbrela, fiind atenți la pavajul care poate deveni alunecos. Seara, luminile orașului reflectate în bălți creează o atmosferă magică înainte de a ne retrage într-o cafenea caldă.",
+            "en": "Start your morning at the grand Zağnos Paşa Mosque, providing excellent shelter from the drizzle. At noon, the city's museums offer a dry and cultural refuge during the heaviest showers. In the afternoon, navigate the historic streets with an umbrella, taking care on the potentially slippery cobblestones. End the day watching the city lights reflect on the wet pavement from a cozy café."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zağnos Paşa Moschee",
+                "hu": "Zağnos Paşa mecset",
+                "ro": "Moscheea Zağnos Paşa",
+                "en": "Zağnos Paşa Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Vorhof, um die Architektur trocken zu bewundern; tragen Sie rutschfeste Schuhe für den Marmorboden.",
+                "hu": "Használja a fedett előteret az építészet megcsodálásához; viseljen csúszásmentes talpú cipőt a márvány burkolat miatt.",
+                "ro": "Folosiți porticul acoperit pentru a admira arhitectura fără a vă uda; purtați încălțăminte aderentă pentru curtea de marmură.",
+                "en": "Use the covered portico to admire the masonry while staying dry; wear non-slip shoes for the wet marble courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Fotomuseum Balıkesir",
+                "hu": "Balıkesir Nemzeti Fotográfiai Múzeum",
+                "ro": "Muzeul Național de Fotografie Balıkesir",
+                "en": "Balıkesir National Photography Museum"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel bei Regen; lassen Sie Ihren Schirm am Eingang trocknen, während Sie die Fotogeschichte erkunden.",
+                "hu": "Ideális úti cél esőben; hagyja az ernyőt a bejáratnál, és merüljön el a fotográfia történetében a száraz termekben.",
+                "ro": "Destinația ideală pe ploaie; lăsați umbrela la intrare în timp ce explorați istoria fotografiei în galeriile uscate.",
+                "en": "The perfect rainy day destination; leave your umbrella at the entrance and explore photo history in the dry galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuvâ-yi Milliye Museum Balıkesir",
+                "hu": "Balıkesir Kuvâ-yi Milliye Múzeum",
+                "ro": "Muzeul Kuvâ-yi Milliye Balıkesir",
+                "en": "Balıkesir Kuvâ-yi Milliye Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier die regenreichste Zeit des Mittags; die großzügigen Innenräume bieten viel Platz zum Aufwärmen.",
+                "hu": "Itt töltse a délidő legesősebb részét; a tágas belső terek rengeteg látnivalót és menedéket kínálnak a vihar elől.",
+                "ro": "Petreceți aici cea mai ploioasă parte a amiezii; spațiile interioare generoase oferă mult loc pentru a vă adăposti.",
+                "en": "Spend the rainiest part of midday here; the spacious interior rooms provide plenty of shelter and historical exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeşilli Moschee",
+                "hu": "Yeşilli mecset",
+                "ro": "Moscheea Yeşilli",
+                "en": "Yeşilli Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, gemütlicher Ort; schütteln Sie das Wasser an der Tür ab, bevor Sie den warmen Gebetsraum betreten.",
+                "hu": "Kicsi, meghitt helyszín; rázza le a vizet az ajtóban, mielőtt belépne a szőnyegekkel borított, meleg imatérbe.",
+                "ro": "Un loc mic și intim; scuturați apa la intrare înainte de a păși în spațiul de rugăciune primitor și uscat.",
+                "en": "A small, intimate venue; shake off the water at the door before entering the carpeted, warm prayer hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Umurbey Moschee",
+                "hu": "Umurbey mecset",
+                "ro": "Moscheea Umurbey",
+                "en": "Umurbey Mosque"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Weg hierher; die historischen Gassen um die Moschee können bei Nässe sehr rutschig sein.",
+                "hu": "Vigyázzon az idevezető úton; a mecset körüli történelmi utcák kövezete nagyon csúszós lehet az esőtől.",
+                "ro": "Atenție pe drumul spre moschee; pavajul străzilor istorice din jur poate deveni extrem de alunecos când este ud.",
+                "en": "Watch your step on the way here; the historic alleyways around the mosque can be quite slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Şeyh Lütfullah Moschee",
+                "hu": "Şeyh Lütfullah mecset",
+                "ro": "Moscheea Şeyh Lütfullah",
+                "en": "Şeyh Lütfullah Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die spirituelle Ruhe im Inneren kontrastiert wunderbar mit dem grauen Regenwetter draußen; ein Ort der Besinnung.",
+                "hu": "A belső lelki béke remek kontrasztot alkot a kinti szürke esővel; tökéletes hely a rövid elcsendesedéshez.",
+                "ro": "Liniștea spirituală din interior contrastează plăcut cu ploaia cenușie de afară; un loc excelent pentru reculegere.",
+                "en": "The spiritual peace inside contrasts beautifully with the grey rain outside; a perfect spot for a quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıldırım Moschee",
+                "hu": "Yıldırım mecset",
+                "ro": "Moscheea Yıldırım",
+                "en": "Yıldırım Mosque"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour unter den stabilen Bögen; genießen Sie den Blick auf den Regen im Garten vom Trockenen aus.",
+                "hu": "Fejezze be a túrát a masszív ívek alatt; csodálja a kertre hulló esőt a száraz és fedett tornácról.",
+                "ro": "Încheiați turul sub arcadele masive; admirați ploaia din grădină de la adăpostul oferit de pridvorul moscheii.",
+                "en": "End your tour under the sturdy arches; enjoy the view of the rain in the garden from the dry, covered porch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der Zağnos-Paşa-Moschee, deren dicke Mauern Schutz vor der Kälte bieten. Mittags wärmen wir uns in den gut beheizten Museen auf. Der Nachmittag wird für kurze Besichtigungen genutzt, da die Temperaturen sinken. Da die Sonne bereits gegen 17:00 Uhr untergeht, endet der Spaziergang in der stimmungsvollen Dämmerung.",
+            "hu": "A csípős téli reggel a Zağnos Paşa mecsetben kezdődik, ahol a vastag falak távol tartják a fagyot. Délben a jól fűtött múzeumokban melegedhetünk fel a kiállítások közben. Délután gyorsabb tempóra váltunk a hűvös szélben, figyelve a korai sötétedésre. A nap 17:00 körül lebukik, így a séta végét már az esti fények kísérik.",
+            "ro": "O dimineață crocantă de iarnă începe la Moscheea Zağnos Paşa, unde zidurile groase țin gerul la distanță. La prânz, ne încălzim în muzeele bine încălzite ale orașului. După-amiaza este dedicată vizitelor scurte înainte ca temperaturile să scadă. Deoarece soarele apune în jurul orei 17:00, plimbarea se încheie în amurgul sclipitor.",
+            "en": "A crisp winter morning starts at the Zağnos Paşa Mosque, where thick walls keep the freezing air at bay. At noon, warm up in the well-heated museums while exploring the exhibits. Use the afternoon for brisk visits as the temperature drops. Since the sun sets around 17:00, your walk concludes in the beautiful winter twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Zağnos Paşa Moschee",
+                "hu": "Zağnos Paşa mecset",
+                "ro": "Moscheea Zağnos Paşa",
+                "en": "Zağnos Paşa Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Start in die Kälte; die spirituelle Atmosphäre sorgt für innere Wärme an einem frostigen Morgen.",
+                "hu": "Nyugodt kezdés a hidegben; a spirituális hangulat belső melegséget ad a fagyos balıkesiri reggelen.",
+                "ro": "Un început liniștit în frig; atmosfera spirituală oferă o căldură interioară în diminețile geroase de iarnă.",
+                "en": "A calm start in the cold; the spiritual atmosphere provides inner warmth on a frosty Balıkesir morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Fotomuseum Balıkesir",
+                "hu": "Balıkesir Nemzeti Fotográfiai Múzeum",
+                "ro": "Muzeul Național de Fotografie Balıkesir",
+                "en": "Balıkesir National Photography Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Galerien; es ist einer der besten Orte, um der Kälte zur Mittagszeit zu entfliehen.",
+                "hu": "Élvezze a fűtött galériákat; ez az egyik legjobb hely a városban, hogy átmelegedjen a déli órákban.",
+                "ro": "Bucurați-vă de galeriile încălzite; este unul dintre cele mai bune locuri din oraș pentru a scăpa de frigul amiezii.",
+                "en": "Enjoy the heated galleries; it is one of the best places in the city to warm up during the midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuvâ-yi Milliye Museum Balıkesir",
+                "hu": "Balıkesir Kuvâ-yi Milliye Múzeum",
+                "ro": "Muzeul Kuvâ-yi Milliye Balıkesir",
+                "en": "Balıkesir Kuvâ-yi Milliye Museum"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die Innenräume; die historische Bedeutung wärmt das Herz an einem grauen Wintertag.",
+                "hu": "Szánjon időt a belső kiállításokra; a történelmi jelentőség melengeti a szívet a szürke téli napokon.",
+                "ro": "Acordați timp expozițiilor interioare; semnificația istorică vă va încălzi inima în zilele cenușii de iarnă.",
+                "en": "Take your time for the indoor exhibits; the historical significance warms the heart on a grey winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeşilli Moschee",
+                "hu": "Yeşilli mecset",
+                "ro": "Moscheea Yeşilli",
+                "en": "Yeşilli Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Teppiche bieten eine gute Isolierung; genießen Sie die Geborgenheit in diesem kleinen Gotteshaus.",
+                "hu": "A vastag szőnyegek jó hőszigetelést biztosítanak; élvezze a meghittséget ebben a kis, védett templomban.",
+                "ro": "Covoarele groase oferă o izolare bună; bucurați-vă de intimitatea acestui mic lăcaș de cult protejat.",
+                "en": "The thick carpets provide good insulation; enjoy the coziness within this small, sheltered place of worship."
+              }
+            },
+            {
+              "name": {
+                "de": "Umurbey Moschee",
+                "hu": "Umurbey mecset",
+                "ro": "Moscheea Umurbey",
+                "en": "Umurbey Mosque"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die tiefstehende Wintersonne die Kuppel beleuchtet; beeilen Sie sich, bevor es dunkel wird.",
+                "hu": "Nézze meg, ahogy az alacsonyan járó téli nap megvilágítja a kupolát; siessen, mielőtt teljesen besötétedik.",
+                "ro": "Observați cum soarele palid de iarnă luminează cupola; grăbiți-vă vizita înainte de lăsarea întunericului.",
+                "en": "Watch the low winter sun illuminate the dome; complete your visit quickly before the early darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Şeyh Lütfullah Moschee",
+                "hu": "Şeyh Lütfullah mecset",
+                "ro": "Moscheea Şeyh Lütfullah",
+                "en": "Şeyh Lütfullah Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die warme Innenbeleuchtung wirkt in der frühen Dämmerung besonders einladend; ideal für eine kurze Rast.",
+                "hu": "A belső világítás különösen hívogató a korai szürkületben; ideális hely egy rövid pihenőre a hidegben.",
+                "ro": "Iluminarea interioară caldă este primitoare în amurgul timpuriu; locul ideal pentru un scurt popas la căldură.",
+                "en": "The warm interior lighting is very inviting in the early twilight; an ideal spot for a short break from the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıldırım Moschee",
+                "hu": "Yıldırım mecset",
+                "ro": "Moscheea Yıldırım",
+                "en": "Yıldırım Mosque"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag, während die Lichter angehen; die frische Winterluft macht Lust auf einen heißen Tee danach.",
+                "hu": "Fejezze be a napot, ahogy kigyúlnak a fények; a friss téli levegő után keressen egy közeli forró teázót.",
+                "ro": "Încheiați ziua când se aprind luminile orașului; aerul rece de iarnă vă va face să doriți un ceai fierbinte.",
+                "en": "Finish the day as the city lights come on; the crisp winter air will make you crave a hot Turkish tea."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Kezdje kerékpártúráját északon, a Kayabey mecsetnél. Tekerjen délre az ikonikus Zağnos Paşa mecsethez, mielőtt megnézné a Nemzeti Fotográfiai Múzeum régi kameráit.",
         "ro": "Începeți turul cu bicicleta în nord la Moscheea Kayabey. Pedalați spre sud către Moscheea Zağnos Paşa înainte de a vedea camerele vintage la Muzeul Național de Fotografie.",
         "en": "Start your cycling journey in the northern district at Kayabey Cami, feeling the local morning vibe. Pedal south to the iconic Zağnos Paşa Camii before checking out the vintage cameras at the National Photography Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt vorsichtig auf den glatten Straßen von Balıkesir. Nutzen Sie die Moscheen als strategische Unterstände bei starken Schauern. Mittags bieten die Museen eine willkommene Trockenpause für Sie und Ihre Ausrüstung. Achten Sie nachmittags auf Bremswege und Pfützen in den engen Gassen, bevor Sie die Tour sicher im Trockenen beenden.",
+            "hu": "A vizes kerékpártúra óvatosan indul Balıkesir csúszós útjain. Használja a mecseteket stratégiai menedékként a nagyobb záporok idején. Délben a múzeumok kínálnak száraz pihenőt önnek és a felszerelésének is. Délután figyeljen a megnövekedett féktávra a szűk utcákban, mielőtt biztonságban befejezné a kört egy fedett helyen.",
+            "ro": "O tură cu bicicleta pe ploaie începe cu prudență pe străzile alunecoase din Balıkesir. Folosiți moscheile ca adăposturi strategice în timpul averselor. La prânz, muzeele oferă o pauză uscată binevenită. După-amiaza, atenție la distanța de frânare și la bălți înainte de a încheia traseul în siguranță la adăpost.",
+            "en": "A wet cycling tour starts cautiously on the slippery roads of Balıkesir. Use the mosques as strategic shelters during heavy downpours. At noon, the museums provide a welcome dry break for both you and your gear. In the afternoon, mind your braking distance and avoid deep puddles before finishing your ride safely under cover."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kayabey Moschee",
+                "hu": "Kayabey mecset",
+                "ro": "Moscheea Kayabey",
+                "en": "Kayabey Mosque"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung; nutzen Sie die Zeit, um Ihre Regenjacke für die Weiterfahrt zu richten.",
+                "hu": "Parkoljon a tető túlnyúlása alatt; használja az időt az esőkabát megigazítására a következő szakasz előtt.",
+                "ro": "Parcați bicicleta sub streașină; folosiți timpul pentru a vă ajusta pelerina de ploaie înainte de plecare.",
+                "en": "Park your bike under the roof overhang; use the time to adjust your rain gear for the next stage of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Zağnos Paşa Moschee",
+                "hu": "Zağnos Paşa mecset",
+                "ro": "Moscheea Zağnos Paşa",
+                "en": "Zağnos Paşa Mosque"
+              },
+              "tip_5lang": {
+                "de": "Großer Vorplatz, aber rutschiger Marmor; steigen Sie frühzeitig ab und schieben Sie das Rad zum Unterstand.",
+                "hu": "Tágas előtér, de csúszós márvány; szálljon le időben a nyeregből, és tolja a biciklit a fedett részig.",
+                "ro": "Curte largă, dar marmură alunecoasă; coborâți de pe bicicletă din timp și împingeți-o până la adăpost.",
+                "en": "Spacious courtyard but slippery marble; dismount early and push your bike to the covered area to stay safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Fotomuseum Balıkesir",
+                "hu": "Balıkesir Nemzeti Fotográfiai Múzeum",
+                "ro": "Muzeul Național de Fotografie Balıkesir",
+                "en": "Balıkesir National Photography Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein langer Stopp ist ideal, um den stärksten Regen abzuwarten; sichere Fahrradabstellplätze befinden sich in der Nähe.",
+                "hu": "A hosszú megálló ideális a leghevesebb eső kivárására; keressen biztonságos, fedett tárolót a biciklinek.",
+                "ro": "Popasul lung este ideal pentru a aștepta oprirea ploii; căutați un loc de parcare sigur și ferit pentru bicicletă.",
+                "en": "This long stop is ideal for waiting out heavy rain; look for a secure and sheltered spot to park your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuvâ-yi Milliye Museum Balıkesir",
+                "hu": "Balıkesir Kuvâ-yi Milliye Múzeum",
+                "ro": "Muzeul Kuvâ-yi Milliye Balıkesir",
+                "en": "Balıkesir Kuvâ-yi Milliye Museum"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie Ihre Hände und Griffe hier gründlich ab; die Innenräume bieten Schutz vor dem nasskalten Wind.",
+                "hu": "Szárítsa meg alaposan a kezeit és a kormányt itt; a belső terek védelmet nyújtanak a nyirkos szél ellen.",
+                "ro": "Uscați-vă bine mâinile și ghidonul aici; spațiile interioare oferă protecție împotriva vântului umed și rece.",
+                "en": "Dry your hands and handlebars thoroughly here; the indoor galleries offer protection from the damp, chilly wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinkçiler Eski Moschee",
+                "hu": "Dinkçiler Eski mecset",
+                "ro": "Moscheea Dinkçiler Eski",
+                "en": "Dinkçiler Eski Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt über Kopfsteinpflaster erfordert volle Konzentration bei Nässe; bremsen Sie vorsichtig und vorausschauend.",
+                "hu": "A macskaköves bekötőút teljes koncentrációt igényel esőben; fékezzen óvatosan és időben a kanyarok előtt.",
+                "ro": "Accesul pe pavaj necesită concentrare maximă pe ploaie; frânați ușor și din timp înainte de viraje.",
+                "en": "The cobblestone access requires full focus in the rain; brake gently and well in advance of the corners."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeşilli Moschee",
+                "hu": "Yeşilli mecset",
+                "ro": "Moscheea Yeşilli",
+                "en": "Yeşilli Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Stopp; wischen Sie den Sattel ab, bevor Sie die Fahrt durch das Viertel fortsetzen.",
+                "hu": "Gyors, száraz megálló; törölje le a nyerget, mielőtt folytatná az utat a történelmi negyeden keresztül.",
+                "ro": "Un popas scurt și uscat; ștergeți șaua înainte de a continua drumul prin cartierul istoric al orașului.",
+                "en": "A quick, dry stop; wipe down your saddle before continuing your journey through the historic neighborhood."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıldırım Moschee",
+                "hu": "Yıldırım mecset",
+                "ro": "Moscheea Yıldırım",
+                "en": "Yıldırım Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten überdachten Bereich zur Orientierung auf der Karte, ohne dass Ihr Handy nass wird.",
+                "hu": "Használja a tágas fedett részt a térkép ellenőrzésére, így a telefonja vagy navigációja száraz marad.",
+                "ro": "Folosiți zona acoperită generoasă pentru a verifica harta fără a vă uda telefonul sau echipamentul.",
+                "en": "Use the spacious covered area to check your map so your phone or navigation device remains perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Hamidiye Moschee",
+                "hu": "Hamidiye mecset",
+                "ro": "Moscheea Hamidiye",
+                "en": "Hamidiye Mosque"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp; prüfen Sie die Beleuchtung Ihres Rads für die Rückfahrt bei schlechter Sicht im Regen.",
+                "hu": "Utolsó állomás; ellenőrizze a világítást a hazaúthoz az eső miatti rossz látási viszonyok miatt.",
+                "ro": "Ultima oprire; verificați luminile bicicletei pentru drumul de întoarcere din cauza vizibilității reduse.",
+                "en": "Final stop; check your bike lights for the return journey due to the poor visibility caused by the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start in den Tag erfordert warme Handschuhe auf dem Rad. Die Route führt durch das historische Zentrum, wo die Moscheen spirituelle und physische Wärme bieten. Mittags nutzen wir die Museen für längere Aufwärmpausen. Der Nachmittag wird kurz gehalten, um der eisigen Abendluft und der frühen Dunkelheit ab 17:00 Uhr zu entgehen.",
+            "hu": "A fagyos reggeli kezdés meleg kesztyűt igényel a kerékpáron. Az útvonal a történelmi központon vezet át, ahol a mecsetek spirituális és fizikai melegséget adnak. Délben a múzeumokat használjuk hosszabb melegedőnek. A délutáni szakaszt rövidre fogjuk, elkerülve a jeges esti szelet és a korai sötétedést.",
+            "ro": "Un început de zi geros necesită mănuși groase pe bicicletă. Traseul trece prin centrul istoric, unde moscheile oferă căldură fizică și spirituală. La prânz, folosim muzeele pentru pauze lungi de încălzire. După-amiaza este scurtată pentru a evita vântul înghețat de seară și întunericul de după ora 17:00.",
+            "en": "A freezing start to the day requires warm gloves and layers on the bike. The route winds through the historic center, where mosques offer both spiritual and physical warmth. Use museums at noon for extended warm-up breaks. Keep the afternoon ride short to avoid the icy evening wind and the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kayabey Moschee",
+                "hu": "Kayabey mecset",
+                "ro": "Moscheea Kayabey",
+                "en": "Kayabey Mosque"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und wärmen Sie Ihre Hände kurz im Inneren auf, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Parkoljon le biztonságosan, és melegítse fel a kezeit a belső térben, mielőtt folytatná a tekerést.",
+                "ro": "Parcați bicicleta în siguranță și încălziți-vă mâinile în interior înainte de a continua drumul prin frig.",
+                "en": "Park your bike securely and warm your hands inside for a few minutes before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Zağnos Paşa Moschee",
+                "hu": "Zağnos Paşa mecset",
+                "ro": "Moscheea Zağnos Paşa",
+                "en": "Zağnos Paşa Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Sonnenstrahlen auf dem Vorplatz sind trügerisch; die Kälte hält sich lange in den schattigen Ecken der Anlage.",
+                "hu": "A napsugarak csalókák lehetnek az előtéren; a hideg sokáig megmarad az épületegyüttes árnyékos sarkaiban.",
+                "ro": "Razele soarelui pot fi înșelătoare în curte; frigul persistă mult timp în colțurile umbrite ale complexului.",
+                "en": "The winter sun in the courtyard can be deceiving; the cold lingers long in the shaded corners of the complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Fotomuseum Balıkesir",
+                "hu": "Balıkesir Nemzeti Fotográfiai Múzeum",
+                "ro": "Muzeul Național de Fotografie Balıkesir",
+                "en": "Balıkesir National Photography Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Körpertemperatur zu regulieren; die Ausstellungen lenken wunderbar vom Frost ab.",
+                "hu": "Használja ki a megállót a testhőmérséklet helyreállítására; a kiállítások remekül elterelik a figyelmet a fagyról.",
+                "ro": "Folosiți acest popas pentru a vă regla temperatura corpului; expozițiile vă vor face să uitați de gerul de afară.",
+                "en": "Use this stop to regulate your body temperature; the indoor exhibits are a great distraction from the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuvâ-yi Milliye Museum Balıkesir",
+                "hu": "Balıkesir Kuvâ-yi Milliye Múzeum",
+                "ro": "Muzeul Kuvâ-yi Milliye Balıkesir",
+                "en": "Balıkesir Kuvâ-yi Milliye Museum"
+              },
+              "tip_5lang": {
+                "de": "Lange Aufwärmpause in historischem Ambiente; ideal, um neue Energie für die kühle Weiterfahrt zu sammeln.",
+                "hu": "Hosszú melegedő pihenő történelmi környezetben; ideális az energiagyűjtéshez a hűvös folytatás előtt.",
+                "ro": "O pauză lungă de încălzire într-un cadru istoric; ideal pentru a prinde forțe noi înainte de a pleca iar la drum.",
+                "en": "A long warm-up break in a historic setting; ideal for regaining energy before the chilly continuation of your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Dinkçiler Eski Moschee",
+                "hu": "Dinkçiler Eski mecset",
+                "ro": "Moscheea Dinkçiler Eski",
+                "en": "Dinkçiler Eski Mosque"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor überfrierender Nässe in den Gassen; fahren Sie besonders bei Schattenstellen sehr vorsichtig.",
+                "hu": "Vigyázzon a lefagyott részekre a szűk utcákban; az árnyékos helyeken az aszfalt jeges és csúszós lehet.",
+                "ro": "Atenție la porțiunile înghețate de pe străzile înguste; pavajul din zonele umbrite poate fi extrem de alunecos.",
+                "en": "Beware of frozen patches in the narrow streets; asphalt in shaded areas can be very icy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Yeşilli Moschee",
+                "hu": "Yeşilli mecset",
+                "ro": "Moscheea Yeşilli",
+                "en": "Yeşilli Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Stille im Warmen; prüfen Sie Ihre Winterausrüstung auf festen Sitz für den Endspurt.",
+                "hu": "Rövid csendes pillanat a melegben; ellenőrizze a téli felszerelését a végső szakasz megkezdése előtt.",
+                "ro": "Un moment scurt de liniște la căldură; verificați-vă echipamentul de iarnă înainte de etapa finală a zilei.",
+                "en": "A brief quiet moment in the warm interior; check your winter gear before starting the final leg of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıldırım Moschee",
+                "hu": "Yıldırım mecset",
+                "ro": "Moscheea Yıldırım",
+                "en": "Yıldırım Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Abendkühle zieht schnell ein; genießen Sie die Architektur und bereiten Sie sich auf den Heimweg vor.",
+                "hu": "Az esti hűvös gyorsan beköszönt; csodálja meg az építészetet, és készüljön fel a hideg hazaútra.",
+                "ro": "Răcoarea serii se instalează rapid; admirați arhitectura și pregătiți-vă pentru drumul rece spre casă.",
+                "en": "The evening chill sets in quickly; enjoy the grand architecture and prepare for the cold ride back."
+              }
+            },
+            {
+              "name": {
+                "de": "Hamidiye Moschee",
+                "hu": "Hamidiye mecset",
+                "ro": "Moscheea Hamidiye",
+                "en": "Hamidiye Mosque"
+              },
+              "tip_5lang": {
+                "de": "Abschluss der Tour in der Dämmerung; schalten Sie alle Lichter ein und fahren Sie zügig zum Aufwärmen.",
+                "hu": "A túra befejezése szürkületben; kapcsoljon be minden lámpát, és tekerjen tempósan a meleg szállásig.",
+                "ro": "Finalul turului la amurg; aprindeți toate luminile și pedalați susținut pentru a vă menține căldura.",
+                "en": "Ending the tour at twilight; turn on all your lights and cycle at a steady pace to keep your body warm."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +1024,224 @@
         "hu": "Vezessen a déli negyedbe, hogy felfedezze a Dinkçiler Eski mecsetet, majd menjen a központba a Kuvâ-yi Milliye Múzeumhoz a helyi történelem megismeréséért.",
         "ro": "Conduceți în cartierul sudic pentru a explora Moscheea Dinkçiler Eski, apoi mergeți central la Muzeul Kuvâ-yi Milliye pentru a înțelege istoria locală.",
         "en": "Drive to the southern neighborhood to explore the traditional Dinkçiler Eski Camii. Then, head centrally to the Kuvâ-yi Milliye Museum to understand the profound local history of the War of Independence."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Balıkesir lässt sich am besten im trockenen Auto beginnen. Die kurzen Wege zwischen den Parkplätzen und den historischen Stätten minimieren den Kontakt mit dem Wetter. Mittags genießen wir die Museen als ausgedehnte trockene Stopps. Am Nachmittag bietet die Fahrt einen gemütlichen Ausblick auf die nassen Straßen und beleuchteten Moscheen der Stadt.",
+            "hu": "A balıkesiri esős napot a legkényelmesebb az autó száraz belső teréből indítani. A parkolók és a történelmi helyszínek közötti rövid távolságok minimálisra csökkentik az elázás esélyét. Délben a múzeumok kínálnak tartalmas és száraz kikapcsolódást. Délután az autó ablakából csodálhatjuk a vizes utcák és a kivilágított mecsetek hangulatos látványát.",
+            "ro": "O zi ploioasă în Balıkesir este cel mai bine începută din confortul uscat al mașinii. Distanțele scurte între parcări și siturile istorice minimizează contactul cu vremea rea. La prânz, muzeele oferă opriri lungi și uscate. După-amiaza, drumul oferă o perspectivă relaxantă asupra străzilor ude și a moscheilor luminate din oraș.",
+            "en": "A rainy day in Balıkesir is best started from the dry comfort of your car. Short distances between parking spots and historical sites minimize your exposure to the weather. At noon, museums offer extended dry stops for cultural exploration. In the afternoon, enjoy a cozy drive with views of the wet streets and beautifully lit mosques."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dinkçiler Eski Moschee",
+                "hu": "Dinkçiler Eski mecset",
+                "ro": "Moscheea Dinkçiler Eski",
+                "en": "Dinkçiler Eski Mosque"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; nutzen Sie den Schirm nur für den kurzen Weg zur Moschee.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; az ernyőt csak a mecsetig tartó rövid szakaszon kell majd használnia.",
+                "ro": "Parcați cât mai aproape de intrare; veți avea nevoie de umbrelă doar pentru scurta plimbare până la moschee.",
+                "en": "Park as close to the entrance as possible; you will only need your umbrella for the short walk to the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuvâ-yi Milliye Museum Balıkesir",
+                "hu": "Balıkesir Kuvâ-yi Milliye Múzeum",
+                "ro": "Muzeul Kuvâ-yi Milliye Balıkesir",
+                "en": "Balıkesir Kuvâ-yi Milliye Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei starkem Regen; lassen Sie die nasse Kleidung im Auto und genießen Sie die Ausstellungen.",
+                "hu": "Ideális megálló heves esőzéskor; hagyja a vizes holmikat az autóban, és élvezze a benti kiállításokat szárazon.",
+                "ro": "Popas ideal pe ploaie torențială; lăsați hainele ude în mașină și bucurați-vă de expozițiile interioare la uscat.",
+                "en": "An ideal stop during heavy rain; leave wet outer gear in the car and enjoy the indoor exhibits in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Fotomuseum Balıkesir",
+                "hu": "Balıkesir Nemzeti Fotográfiai Múzeum",
+                "ro": "Muzeul Național de Fotografie Balıkesir",
+                "en": "Balıkesir National Photography Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um den Regenguss abzuwarten; Parkplätze befinden sich in unmittelbarer Nähe.",
+                "hu": "Használja a múzeumlátogatást a zápor kivárására; parkolók közvetlenül az épület szomszédságában találhatók.",
+                "ro": "Folosiți vizita la muzeu pentru a aștepta trecerea ploii; parcările sunt situate chiar lângă clădire.",
+                "en": "Use the museum visit to wait out the rain showers; parking lots are located right next to the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Zağnos Paşa Moschee",
+                "hu": "Zağnos Paşa mecset",
+                "ro": "Moscheea Zağnos Paşa",
+                "en": "Zağnos Paşa Mosque"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen auf nassem Asphalt; der historische Komplex bietet viele überdachte Gänge.",
+                "hu": "Vigyázzon a kiszálláskor a vizes aszfalton; a történelmi épületegyüttes rengeteg fedett átjárót kínál.",
+                "ro": "Atenție la coborârea din mașină pe asfaltul ud; complexul istoric oferă numeroase pasaje acoperite.",
+                "en": "Take care when stepping out onto wet asphalt; the historic complex offers many covered walkways to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Kayabey Moschee",
+                "hu": "Kayabey mecset",
+                "ro": "Moscheea Kayabey",
+                "en": "Kayabey Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei Regen unübersichtlich sein; fahren Sie langsam und achten Sie auf Fußgänger.",
+                "hu": "A szűk bekötőutak esőben nehezen beláthatóak; vezessen lassan, és figyeljen a gyalogosokra az utcákon.",
+                "ro": "Drumurile de acces înguste pot fi greu vizibile pe ploaie; conduceți încet și atenție la pietoni.",
+                "en": "Narrow access roads can have poor visibility in the rain; drive slowly and watch out for pedestrians."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıldırım Moschee",
+                "hu": "Yıldırım mecset",
+                "ro": "Moscheea Yıldırım",
+                "en": "Yıldırım Mosque"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die nasse Fassade vom trockenen Wagen aus, bevor Sie für eine kurze Besichtigung aussteigen.",
+                "hu": "Csodálja meg a vizes homlokzatot a száraz autóból, mielőtt kiszállna egy rövid, fedett körsétára a mecsetnél.",
+                "ro": "Admirați fațada udă din confortul mașinii înainte de a coborî pentru o scurtă vizită sub arcadele moscheii.",
+                "en": "Admire the wet facade from your dry car before stepping out for a short, sheltered visit under the arches."
+              }
+            },
+            {
+              "name": {
+                "de": "Hamidiye Moschee",
+                "hu": "Hamidiye mecset",
+                "ro": "Moscheea Hamidiye",
+                "en": "Hamidiye Mosque"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Scheibenwischer für die Rückfahrt; die Lichter der Stadt spiegeln sich wunderschön in den Pfützen.",
+                "hu": "Ellenőrizze az ablaktörlőket a hazaúthoz; a város fényei gyönyörűen tükröződnek a tócsákban az út mentén.",
+                "ro": "Verificați ștergătoarele pentru drumul de întoarcere; luminile orașului se reflectă superb în bălțile de pe drum.",
+                "en": "Check your wipers for the return trip; the city lights reflect beautifully in the puddles along the way."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen beginnt bequem mit der Sitzheizung im Auto. Die Route führt zu den bedeutendsten Moscheen, wobei das Fahrzeug als warme Basis dient. Mittags bieten die Museen eine exzellente Gelegenheit, die Winterausstellungen im Warmen zu erkunden. Der Nachmittag endet früh, um vor dem Frost und der Dunkelheit ab 17:00 Uhr wieder sicher zurückzukehren.",
+            "hu": "A hideg téli reggel kényelmesen, fűtött autóban indul. Az útvonal a legfontosabb mecsetekhez vezet, ahol az autó meleg bázisként szolgál a megállók között. Délben a múzeumok kiváló alkalmat adnak a téli tárlatok felfedezésére a melegben. A délután korán véget ér, hogy elkerüljük a fagyot és a 17:00-as sötétedést.",
+            "ro": "O dimineață rece de iarnă începe confortabil în mașina încălzită. Traseul trece pe la cele mai importante moschei, mașina servind drept bază caldă între opriri. La prânz, muzeele oferă ocazia excelentă de a explora expozițiile la căldură. După-amiaza se încheie devreme pentru a evita gerul serii și întunericul de după ora 17:00.",
+            "en": "A cold winter morning starts comfortably in your heated car. The route takes you to the most important mosques, with the vehicle serving as a warm base between stops. At noon, museums provide an excellent chance to explore winter exhibits in the heat. The afternoon ends early to avoid the evening frost and the 17:00 darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dinkçiler Eski Moschee",
+                "hu": "Dinkçiler Eski mecset",
+                "ro": "Moscheea Dinkçiler Eski",
+                "en": "Dinkçiler Eski Mosque"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben zu enteisen; der Weg zur Moschee ist kurz und frostig.",
+                "hu": "Járassa a motort, amíg leolvasztja a szélvédőt; a mecsetig tartó szakasz rövid, de csípősen hideg lesz.",
+                "ro": "Lăsați motorul pornit până se dezgheață parbrizul; drumul până la moschee este scurt, dar foarte geros.",
+                "en": "Keep the heater on until the windshield clears; the walk to the mosque will be brief but very crisp and cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuvâ-yi Milliye Museum Balıkesir",
+                "hu": "Balıkesir Kuvâ-yi Milliye Múzeum",
+                "ro": "Muzeul Kuvâ-yi Milliye Balıkesir",
+                "en": "Balıkesir Kuvâ-yi Milliye Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für eine ausgiebige Besichtigung; Parkmöglichkeiten sind direkt vor dem Museum.",
+                "hu": "Használja ki a fűtött belső tereket a hosszú nézelődésre; parkolási lehetőség közvetlenül a múzeum előtt van.",
+                "ro": "Bucurați-vă de spațiile interioare încălzite pentru o vizită lungă; există parcare chiar în fața muzeului.",
+                "en": "Take advantage of the heated interiors for an extended visit; parking is available right in front of the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationales Fotomuseum Balıkesir",
+                "hu": "Balıkesir Nemzeti Fotográfiai Múzeum",
+                "ro": "Muzeul Național de Fotografie Balıkesir",
+                "en": "Balıkesir National Photography Museum"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme im Museum ist herrlich nach der kurzen Fahrt; genießen Sie die Kunstwerke ohne Winterjacke.",
+                "hu": "A múzeumi meleg hívogató a rövid autózás után; élvezze a műalkotásokat a télikabát nélkül a benti részen.",
+                "ro": "Căldura din muzeu este primitoare după drumul scurt; bucurați-vă de operele de artă fără haina de iarnă.",
+                "en": "The museum's warmth is inviting after the short drive; enjoy the artworks without your winter coat inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Zağnos Paşa Moschee",
+                "hu": "Zağnos Paşa mecset",
+                "ro": "Moscheea Zağnos Paşa",
+                "en": "Zağnos Paşa Mosque"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind vorhanden; die dicken Mauern der Moschee speichern die Kälte, tragen Sie also warme Kleidung.",
+                "hu": "A parkolás megoldott; a mecset vastag falai tartják a hideget, így az épületen belül is viseljen meleg ruhát.",
+                "ro": "Parcarea este disponibilă; zidurile groase ale moscheii rețin frigul, deci purtați haine groase și în interior.",
+                "en": "Parking is available; the mosque's thick walls retain the cold, so keep your warm layers on even inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kayabey Moschee",
+                "hu": "Kayabey mecset",
+                "ro": "Moscheea Kayabey",
+                "en": "Kayabey Mosque"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Glätte in den schattigen Kurven der Zufahrt; fahren Sie defensiv und vorsichtig.",
+                "hu": "Figyeljen az esetleges jegesedésre a bekötőút árnyékos kanyarjaiban; vezessen óvatosan és körültekintően.",
+                "ro": "Atenție la posibila gheață în curbele umbrite ale drumului de acces; conduceți preventiv și cu prudență.",
+                "en": "Watch out for potential icy patches in the shaded turns of the access road; drive defensively and carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Yıldırım Moschee",
+                "hu": "Yıldırım mecset",
+                "ro": "Moscheea Yıldırım",
+                "en": "Yıldırım Mosque"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Stopp im Winterlicht; die Architektur wirkt in der klaren, kalten Luft besonders beeindruckend.",
+                "hu": "Gyönyörű megálló a téli fényekben; az építészet különösen lenyűgöző a tiszta, hideg levegőben.",
+                "ro": "Un popas superb în lumina iernii; arhitectura este impresionantă în aerul rece și curat al după-amiezii.",
+                "en": "A beautiful stop in the winter light; the architecture looks particularly impressive in the clear, cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Hamidiye Moschee",
+                "hu": "Hamidiye mecset",
+                "ro": "Moscheea Hamidiye",
+                "en": "Hamidiye Mosque"
+              },
+              "tip_5lang": {
+                "de": "Letzter Stopp vor der Dunkelheit; schalten Sie die Scheinwerfer ein und genießen Sie die warme Rückfahrt.",
+                "hu": "Utolsó állomás a sötétedés előtt; kapcsolja be a fényszórókat, és élvezze a fűtött autó kényelmét hazafelé.",
+                "ro": "Ultima oprire înainte de întuneric; aprindeți farurile și bucurați-vă de căldura mașinii pe drumul spre casă.",
+                "en": "Final stop before dark; turn on your headlights and enjoy the warmth of your car on the return journey."
+              }
+            }
+          ]
+        }
       }
     }
   }

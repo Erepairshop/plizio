@@ -160,6 +160,196 @@
         "hu": "A gyalogtúra a nyüzsgő központi strandszakasznál indul, egyenesen a Ripley's furcsaságaival, majd egy pihentető tengerparti sétával a Pattaya Beach-en.\n\nDélben eléri az északi negyedet, ahol az Alcazar Cabaret ikonikus, lüktető hangulata fogadja.\n\nA délután az interaktív művészeté az Art in Paradise-ban és a csillogó Tiffany's Show teátrumánál.\n\nAz estéje a Teddy Bear Museum vidám látogatásával zárul, teljessé téve a kultúrával és szórakozással teli napot.",
         "ro": "Turul pietonal începe aproape de plaja centrală, explorând curiozitățile de la Ripley's înainte de o plimbare relaxantă de-a lungul Pattaya Beach.\n\nLa amiază ajungeți în cartierul nordic, captând atmosfera vibrantă a legendarului cabaret Alcazar.\n\nDupă-amiaza este dedicată artei interactive la Art in Paradise și teatrului strălucitor Tiffany's Show.\n\nSeara se încheie vesel la Teddy Bear Museum, finalizând o zi perfectă de cultură și divertisment pe jos.",
         "en": "Your walking tour begins near the vibrant central beach area, diving straight into the oddities of Ripley's before offering a relaxing seaside stroll along Pattaya Beach.\n\nBy midday, you'll reach the lively northern district, catching the iconic Alcazar Cabaret's distinct cultural ambiance.\n\nThe afternoon is dedicated to interactive art at Art in Paradise and the glamorous Tiffany's Show theater.\n\nYour evening concludes with a lighthearted visit to the Teddy Bear Museum, wrapping up a perfect day of culture and entertainment on foot."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie im trockenen Ripley's. Mittags bietet der Pattaya Beach frische Luft, doch halten Sie Schirme bereit. Der Nachmittag gehört den klimatisierten Shows und Museen wie Art in Paradise, um den Güssen zu entgehen. Den Abend beschließen Sie im Teddybär-Museum, wo Sie geschützt vor tropischem Regen und nassen Straßen in fantasievolle Welten eintauchen können.",
+            "hu": "Kezdje a napot fedett helyen a Ripley's-ben. Délben a Pattaya Beach frissítő, de az esernyő legyen kéznél a záporok ellen. A délután a kulturális show-k és fedett múzeumok ideje, ahol garantáltan száraz marad. Az estét a Teddy Bear Museumban zárja, távol a kinti trópusi esőtől és a csúszós járdáktól, biztonságos, fedett környezetben.",
+            "ro": "Începeți ziua la adăpost în Ripley's. La prânz, plaja Pattaya oferă aer curat, dar aveți umbrela pregătită pentru averse. După-amiaza este dedicată spectacolelor și muzeelor interioare, perfecte pentru a evita ploaia. Încheiați seara la Teddy Bear Museum, rămânând complet uscat în timp ce explorați exponatele, departe de străzile ude de afară.",
+            "en": "Start your day indoors at Ripley's, ideal for escaping the downpour. At noon, Pattaya Beach is refreshing, but keep an umbrella handy for sudden showers. The afternoon is perfect for indoor shows and museums like Art in Paradise. End your evening at the Teddy Bear Museum, staying dry while the tropical rain falls outside and the pavements get slippery."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ripley's Believe it or not",
+                "hu": "Ripley's Believe it or not",
+                "ro": "Ripley's Believe it or not",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die bizarren Exponate in diesem klimatisierten Gebäude, das perfekten Schutz vor heftigen Regengüssen bietet; achten Sie auf rutschige Böden am Eingang.",
+                "hu": "Fedezze fel a bizarr kiállítási tárgyakat ebben a légkondicionált épületben, amely tökéletes menedéket nyújt az eső elől; ügyeljen a bejáratnál a csúszós padlóra.",
+                "ro": "Explorați exponatele bizare în această clădire climatizată care oferă protecție perfectă împotriva ploilor; atenție la podelele alunecoase de la intrarea principală.",
+                "en": "Explore the bizarre exhibits in this air-conditioned building that provides perfect shelter from heavy downpours; watch out for slippery floors at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Beach",
+                "hu": "Pattaya Beach",
+                "ro": "Pattaya Beach",
+                "en": "Pattaya Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische Aussicht auf das stürmische Meer von einem der überdachten Pavillons aus; bringen Sie eine robuste Regenjacke für den kurzen Fußweg mit.",
+                "hu": "Élvezze a viharos tenger látványát az egyik fedett pavilon alól; hozzon magával strapabíró esőkabátot a parton való rövid, de vizes sétához.",
+                "ro": "Bucurați-vă de vederea dramatică a mării agitate dintr-unul dintre pavilioanele acoperite; aduceți o pelerină de ploaie pentru scurta plimbare pe mal.",
+                "en": "Enjoy the dramatic views of the stormy sea from one of the covered pavilions; bring a sturdy raincoat for the short but wet walk along the sandy shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazar Cabaret Show",
+                "hu": "Alcazar Cabaret Show",
+                "ro": "Alcazar Cabaret Show",
+                "en": "Alcazar Cabaret Show"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie eine glitzernde Show in einem komplett überdachten Theater, während draußen der Regen prasselt; ideal, um die Wartezeit auf besseres Wetter zu überbrücken.",
+                "hu": "Élvezze a csillogó előadást a teljesen fedett színházban, miközben kint szakad az eső; tökéletes program, hogy megvárja, amíg eláll a trópusi zápor.",
+                "ro": "Urmăriți un spectacol strălucitor într-un teatru complet acoperit în timp ce afară plouă; este modul ideal de a aștepta oprirea averselor tropicale.",
+                "en": "Experience a glittering show in a fully covered theater while the rain pours outside; it is the perfect way to wait out the heavy tropical showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Art in Paradise",
+                "hu": "Art in Paradise",
+                "ro": "Art in Paradise",
+                "en": "Art in Paradise"
+              },
+              "tip_5lang": {
+                "de": "Werden Sie Teil der 3D-Gemälde in dieser großen Indoor-Galerie, in der Sie garantiert trocken bleiben; perfekt für lustige Urlaubsfotos trotz schlechtem Wetter.",
+                "hu": "Váljon a 3D festmények részévé ebben a hatalmas fedett galériában, ahol garantáltan száraz marad; kiváló helyszín vidám fotókhoz rossz idő esetén is.",
+                "ro": "Deveniți parte din picturile 3D în această galerie interioară vastă unde veți rămâne uscat; locul perfect pentru fotografii distractive pe vreme rea.",
+                "en": "Become part of the 3D paintings in this vast indoor gallery where you are guaranteed to stay dry; a great spot for fun photos despite the bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiffany's Show",
+                "hu": "Tiffany's Show",
+                "ro": "Tiffany's Show",
+                "en": "Tiffany's Show"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich von der weltberühmten Kabarett-Show verzaubern, ohne nass zu werden; der überdachte Eingangsbereich sorgt für ein trockenes Ankommen mit dem Taxi.",
+                "hu": "Hagyja, hogy elvarázsolja a világhírű kabaré, anélkül, hogy megázna; a fedett bejárati rész biztosítja a száraz érkezést taxival vagy gyalogosan.",
+                "ro": "Lăsați-vă fermecați de acest cabaret faimos fără a vă uda deloc; zona de intrare acoperită asigură o sosire uscată chiar și în timpul ploii.",
+                "en": "Let yourself be enchanted by the world-famous cabaret without getting wet; the covered entrance area ensures a dry arrival by taxi or on foot."
+              }
+            },
+            {
+              "name": {
+                "de": "Teddy Bear Museum",
+                "hu": "Teddy Bear Museum",
+                "ro": "Teddy Bear Museum",
+                "en": "Teddy Bear Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in dieser charmanten Indoor-Attraktion, die besonders bei Regen eine gemütliche Atmosphäre bietet; ideal für Familien und Fotoliebhaber.",
+                "hu": "Zárja a napot ebben a bájos fedett látványosságban, amely esős időben különösen barátságos; kiváló választás családoknak és a fotózás szerelmeseinek.",
+                "ro": "Încheiați ziua în această atracție interioară fermecătoare care oferă o atmosferă primitoare pe ploaie; ideal pentru familii și pasionații de poze.",
+                "en": "End your day in this charming indoor attraction that offers a cozy atmosphere when it rains; an excellent choice for families and photo enthusiasts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den milden Morgen bei Ripley's ohne die extreme Hitze. Mittags lädt der Strand zum Verweilen in der sanften Wintersonne ein. Da es nachmittags früher abkühlt, sind die Indoor-Shows ein gemütlicher Rückzugsort. Da die Sonne gegen 17:00 Uhr untergeht, erleben Sie die beleuchtete Stadt schon früh am Teddybär-Museum in angenehm kühler Luft.",
+            "hu": "Élvezze a hűvösebb reggelt a Ripley's-ben a perzselő hőség nélkül. Délben a strand hívogató a lágy téli napsütésben. Mivel délután hamarabb hűl az idő, a benti előadások kellemes menedéket nyújtanak. A nap 17:00 körül lebukik, így a Teddy Bear Museum környékén már korán megcsodálhatja a város fényeit a friss esti levegőn.",
+            "ro": "Bucurați-vă de dimineața răcoroasă la Ripley's, fără căldura extremă de vară. La prânz, plaja este invitantă sub soarele blând de iarnă. Deoarece se răcește mai devreme, spectacolele interioare oferă un refugiu confortabil. Soarele apune în jurul orei 17:00, așa că veți vedea orașul luminat devreme lângă Teddy Bear Museum.",
+            "en": "Enjoy a mild morning at Ripley's without the intense tropical heat. At noon, the beach is pleasant under the gentle winter sun. As it cools down earlier in the afternoon, indoor shows provide a cozy retreat. With sunset around 17:00, you will experience the city's lights early near the Teddy Bear Museum in the cool evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ripley's Believe it or not",
+                "hu": "Ripley's Believe it or not",
+                "ro": "Ripley's Believe it or not",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die angenehmen Morgentemperaturen für den Fußweg hierher; drinnen ist es klimatisiert, was einen guten Kontrast zur milden Außenluft bietet.",
+                "hu": "Használja ki a kellemes reggeli hőmérsékletet az idevezető sétához; bent a légkondicionálás jó kontrasztot ad a kinti enyhe, száraz levegővel.",
+                "ro": "Profitate de temperaturile plăcute de dimineață pentru plimbarea până aici; în interior este climatizat, oferind un contrast bun cu aerul blând.",
+                "en": "Take advantage of the pleasant morning temperatures for the walk here; inside is air-conditioned, providing a good contrast to the mild outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Beach",
+                "hu": "Pattaya Beach",
+                "ro": "Pattaya Beach",
+                "en": "Pattaya Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist perfekt zum Bräunen ohne die sengende Hitze; bringen Sie eine leichte Jacke für die kühle Meeresbrise am Nachmittag mit.",
+                "hu": "A téli napsütés tökéletes a barnuláshoz a perzselő hőség nélkül; hozzon egy könnyű dzsekit a délutáni hűvös tengeri szellő ellen a parton.",
+                "ro": "Soarele de iarnă este perfect pentru bronzat fără căldura dogorâtoare; aduceți o jachetă ușoară pentru briza răcoroasă a mării de după-amiază.",
+                "en": "The winter sun is perfect for tanning without the scorching heat; bring a light jacket for the cool sea breeze that picks up in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazar Cabaret Show",
+                "hu": "Alcazar Cabaret Show",
+                "ro": "Alcazar Cabaret Show",
+                "en": "Alcazar Cabaret Show"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch am frühen Nachmittag schützt vor der UV-Strahlung; nach der Show ist es draußen bereits spürbar kühler, was ideal für einen Spaziergang ist.",
+                "hu": "A kora délutáni látogatás véd az erős UV-sugárzástól; az előadás után kint már érezhetően hűvösebb az idő, ami ideális egy esti sétához.",
+                "ro": "O vizită la începutul după-amiezii vă protejează de radiațiile UV; după spectacol, afară este deja mai răcoare, fiind ideal pentru o plimbare.",
+                "en": "A visit in the early afternoon protects you from UV rays; after the show, it will be noticeably cooler outside, ideal for a pleasant evening stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Art in Paradise",
+                "hu": "Art in Paradise",
+                "ro": "Art in Paradise",
+                "en": "Art in Paradise"
+              },
+              "tip_5lang": {
+                "de": "Diese Galerie bietet eine tolle Abwechslung zum Strandleben im Winter; drinnen herrschen ideale Temperaturen für ausgiebige Fotosessions ohne Schwitzen.",
+                "hu": "Ez a galéria remek alternatíva a téli strandolás mellé; bent ideális a hőmérséklet a hosszú fotózásokhoz anélkül, hogy megizzadna a tömegben.",
+                "ro": "Această galerie oferă o alternativă excelentă la plajă iarna; în interior sunt temperaturi ideale pentru sesiuni foto lungi fără a transpira.",
+                "en": "This gallery offers a great alternative to beach life in winter; inside the temperature is ideal for long photo sessions without breaking a sweat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tiffany's Show",
+                "hu": "Tiffany's Show",
+                "ro": "Tiffany's Show",
+                "en": "Tiffany's Show"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch so, dass Sie pünktlich zum frühen Sonnenuntergang gegen 17 Uhr wieder draußen sind, um das goldene Licht für Fotos zu nutzen.",
+                "hu": "Tervezze úgy a látogatást, hogy a korai, 17 óra körüli naplemente idején már kint legyen, kihasználva az aranyló fényeket a fotózáshoz.",
+                "ro": "Planificați vizita astfel încât să ieșiți la timp pentru apusul devreme de la ora 17:00, profitând de lumina aurie pentru fotografii superbe.",
+                "en": "Plan your visit so you step out in time for the early sunset around 17:00, making the most of the golden light for your outdoor photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Teddy Bear Museum",
+                "hu": "Teddy Bear Museum",
+                "ro": "Teddy Bear Museum",
+                "en": "Teddy Bear Museum"
+              },
+              "tip_5lang": {
+                "de": "Der Abendspaziergang nach dem Museumsbesuch ist im Winter besonders angenehm, da die Luftfeuchtigkeit niedriger ist und die Lichter der Stadt funkeln.",
+                "hu": "A múzeumlátogatás utáni esti séta télen különösen kellemes, mivel a páratartalom alacsonyabb és a város fényei csodásan szikráznak.",
+                "ro": "Plimbarea de seară după muzeu este deosebit de plăcută iarna, deoarece umiditatea este mai scăzută și luminile orașului sclipesc frumos.",
+                "en": "The evening walk after the museum is particularly pleasant in winter, as the humidity is lower and the city lights sparkle beautifully."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a tekerést az Asia Beach nyugodt partjainál, majd vegye az irányt a D'Luck Cinematic Theatre modern építészeti csodája felé.\n\nDélidőben a város szívébe érkezik, ahol a Ripley's izgalmai és a híres Pattaya Beach tengerparti nyüzsgése várja.\n\nA délutáni útvonal kissé beljebb vezet, a The Bottle Museum lenyűgöző miniatűrjeihez és precíz palackhajóihoz.\n\nVégül a biciklis kaland az Amazing Art kreatív és színes, interaktív kiállításainál ér kényelmes véget.",
         "ro": "Începeți traseul de pe țărmul liniștit de la Asia Beach, înainte de a pedala spre minunea arhitecturală modernă D'Luck Cinematic Theatre.\n\nLa amiază intrați în inima orașului pentru a explora colecțiile de la Ripley's și faimoasa Pattaya Beach.\n\nTraseul de după-amiază vă duce ușor spre interior la miniaturile fascinante și corăbiile meticuloase de la The Bottle Museum.\n\nAventura pe bicicletă se încheie creativ la Amazing Art, o destinație plină de culoare și iluzii fantastice.",
         "en": "Start your ride from the tranquil shores of Asia Beach, enjoying the coastal breeze before heading to the architectural marvel of D'Luck Cinematic Theatre.\n\nAs midday approaches, pedal into the heart of the city to explore Ripley's Believe it or not and the iconic Pattaya Beach.\n\nThe afternoon route takes you slightly inland to discover intricately crafted miniatures at The Bottle Museum.\n\nFinally, your biking adventure winds down at Amazing Art, offering a highly creative and colorful end to your scenic journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zum Asia Beach; die Küstenstraßen sind bei Nässe rutschig. Nutzen Sie das D'Luck Theatre für eine lange Pause, um den schwersten Regen abzuwarten. Nachmittags sind Indoor-Ziele wie das Flaschenmuseum ideal, während Sie Pfützen auf dem Weg umfahren. Beenden Sie den Tag bei Amazing Art und parken Sie Ihr Rad an einem überdachten Platz.",
+            "hu": "Óvatosan tekerjen az Asia Beach felé; a parti utak vizesen csúszósak lehetnek. Használja a D'Luck színházat egy hosszabb pihenőre a legnagyobb eső idején. Délután a benti célpontok, mint a palackmúzeum az ideálisak, miközben kerüli a tócsákat. A napot az Amazing Artnál zárja, és keresse a fedett tárolót a biciklije számára.",
+            "ro": "Pedalați cu atenție spre Asia Beach; drumurile de coastă sunt alunecoase când sunt ude. Folosiți Teatrul D'Luck pentru o pauză lungă până trece ploaia torențială. După-amiaza, destinațiile interioare sunt ideale, evitând bălțile de pe traseu. Încheiați ziua la Amazing Art și parcați bicicleta într-un loc acoperit pentru protecție.",
+            "en": "Cycle carefully to Asia Beach; coastal roads can be slippery when wet. Use D'Luck Theatre for a long break to let the heaviest rain pass. In the afternoon, indoor destinations like the bottle museum are best while you navigate around puddles. Finish the day at Amazing Art and park your bike in a covered area to keep it dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Asia Beach",
+                "hu": "Asia Beach",
+                "ro": "Asia Beach",
+                "en": "Asia Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Radfahren auf dem sandigen Uferweg auf Rutschgefahr; ein Poncho schützt Sie vor plötzlichen Regenschauern während der Fahrt.",
+                "hu": "Ügyeljen a csúszásveszélyre a homokos parti úton biciklizve; egy poncsó megvédi Önt a hirtelen záporoktól a látványos szakasz során.",
+                "ro": "Atenție la riscul de alunecare pe drumul de coastă nisipos; o pelerină vă va proteja de aversele bruște în timpul deplasării pe bicicletă.",
+                "en": "Watch out for slippery conditions on the sandy coastal path; a poncho will protect you from sudden showers during your scenic ride."
+              }
+            },
+            {
+              "name": {
+                "de": "D'Luck Cinematic Theatre",
+                "hu": "D'Luck Cinematic Theatre",
+                "ro": "D'Luck Cinematic Theatre",
+                "en": "D'Luck Cinematic Theatre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem geschützten Ort und genießen Sie die Show im Trockenen; die Pause ist perfekt, um nasse Kleidung kurz zu lüften.",
+                "hu": "Parkolja le kerékpárját egy védett helyen, és élvezze az előadást szárazon; a szünet tökéletes, hogy a vizes ruhák kicsit átszellőzzenek.",
+                "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de spectacol la uscat; pauza este perfectă pentru a lăsa hainele ude să se usuce puțin.",
+                "en": "Park your bike in a protected spot and enjoy the show in the dry; the break is perfect for letting wet clothes air out for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley's Believe it or not",
+                "hu": "Ripley's Believe it or not",
+                "ro": "Ripley's Believe it or not",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt durch die Stadt erfordert bei Regen Konzentration; drinnen erwartet Sie eine faszinierende Welt fernab der grauen Wolken am Himmel.",
+                "hu": "A városon keresztüli tekerés esőben nagy koncentrációt igényel; bent egy lenyűgöző világ várja, messze az égen gyülekező szürke felhőktől.",
+                "ro": "Drumul prin oraș pe ploaie necesită concentrare maximă; în interior vă așteaptă o lume fascinantă, departe de norii gri de pe cer.",
+                "en": "Cycling through the city in the rain requires concentration; inside a fascinating world awaits you, far from the gray clouds in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Beach",
+                "hu": "Pattaya Beach",
+                "ro": "Pattaya Beach",
+                "en": "Pattaya Beach"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ausschau nach überdachten Stopps entlang der Promenade; nutzen Sie die kurzen Regenpausen für schnelle Sprints zum nächsten Ziel.",
+                "hu": "Keressen fedett megállókat a sétány mentén; használja ki a rövid esőszüneteket a gyors tekerésre a következő biztonságos úti cél felé.",
+                "ro": "Căutați opriri acoperite de-a lungul falezei; folosiți scurte pauze de ploaie pentru sprinturi rapide către următoarea destinație sigură.",
+                "en": "Look for covered stops along the promenade; use short breaks in the rain for quick sprints to the next dry and safe destination."
+              }
+            },
+            {
+              "name": {
+                "de": "The bottle museum",
+                "hu": "The bottle museum",
+                "ro": "The bottle museum",
+                "en": "The bottle museum"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad gut gegen Spritzwasser ab; die filigrane Kunst im Museum ist der ideale Rückzugsort während eines kräftigen Gewitters.",
+                "hu": "Biztosítsa kerékpárját a felverődő víz ellen; a múzeum filigrán művészeti alkotásai ideális menedéket nyújtanak egy erős vihar idején.",
+                "ro": "Asigurați bicicleta împotriva apei împroșcate; arta filigrană din muzeu este refugiul ideal în timpul unei furtuni tropicale puternice.",
+                "en": "Secure your bike against splashes; the delicate art inside the museum is the ideal retreat during a powerful tropical thunderstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Amazing Art",
+                "hu": "Amazing Art",
+                "ro": "Amazing Art",
+                "en": "Amazing Art"
+              },
+              "tip_5lang": {
+                "de": "Nach einer nassen Fahrt bietet dieses Museum bunte Abwechslung; wischen Sie die Bremsen Ihres Rades nach der Ankunft kurz trocken.",
+                "hu": "Egy vizes tekerés után ez a múzeum színes kikapcsolódást nyújt; érkezés után röviden törölje szárazra a kerékpárja fékeit a biztonságért.",
+                "ro": "După o cursă udă, acest muzeu oferă o relaxare colorată; ștergeți scurt frânele bicicletei după sosire pentru a asigura funcționarea lor.",
+                "en": "After a wet ride, this museum provides colorful relaxation; wipe your bike's brakes dry after arrival to ensure they remain functional."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Morgenluft am Asia Beach ist ideal zum Radeln, ohne ins Schwitzen zu kommen. Genießen Sie die Fahrt zum Theater bei sanfter Wintersonne und angenehmen Temperaturen. Nachmittags bleiben die Bedingungen optimal für Erkundungen per Rad. Denken Sie an den frühen Sonnenuntergang gegen 17:00 Uhr und stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+            "hu": "A friss reggeli levegő az Asia Beachnél ideális a tekeréshez anélkül, hogy túlságosan megizzadna. Élvezze az utat a színház felé a lágy téli napsütésben. Délután a körülmények továbbra is optimálisak a bringás felfedezéshez. Gondoljon a korai, 17:00 körüli naplementére, és ellenőrizze, hogy a kerékpár világítása jól működik-e a hazaúthoz.",
+            "ro": "Aerul proaspăt de dimineață la Asia Beach este ideal pentru pedalat fără a transpira. Bucurați-vă de drumul spre teatru sub soarele blând de iarnă. După-amiaza, condițiile rămân optime pentru explorarea pe bicicletă. Nu uitați că soarele apune devreme, în jur de 17:00, deci verificați luminile bicicletei pentru drumul de întoarcere.",
+            "en": "The crisp morning air at Asia Beach is perfect for cycling without sweating too much. Enjoy the ride to the theatre under the gentle winter sun and pleasant temperatures. In the afternoon, conditions remain optimal for bike exploration. Remember the early sunset around 17:00; ensure your bike lights are working for the final stretch home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Asia Beach",
+                "hu": "Asia Beach",
+                "ro": "Asia Beach",
+                "en": "Asia Beach"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die kühle Meeresbrise zu genießen; der Weg ist im Winter staubtrocken, was das Fahren sehr angenehm und sauber macht.",
+                "hu": "Induljon korán, hogy élvezze a hűvös tengeri szellőt; az út télen száraz, ami nagyon kellemessé és tisztává teszi a biciklizést a parton.",
+                "ro": "Porniți devreme pentru a vă bucura de briza răcoroasă; drumul este uscat iarna, ceea ce face pedalatul pe malul mării foarte plăcut.",
+                "en": "Start early to enjoy the cool sea breeze; the path is bone dry in winter, making the ride very pleasant and clean along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "D'Luck Cinematic Theatre",
+                "hu": "D'Luck Cinematic Theatre",
+                "ro": "D'Luck Cinematic Theatre",
+                "en": "D'Luck Cinematic Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher ist bei moderaten Temperaturen entspannt; nutzen Sie die Parkplätze im Schatten, damit sich der Sattel nicht zu sehr aufheizt.",
+                "hu": "Az idevezető út mérsékelt hőmérséklet mellett pihentető; keressen árnyékos parkolót, hogy a bicikli nyerge ne melegedjen fel a napon.",
+                "ro": "Drumul până aici este relaxant la temperaturi moderate; folosiți locurile de parcare la umbră pentru ca șaua bicicletei să nu se încingă.",
+                "en": "The ride here is relaxing at moderate temperatures; use shaded parking spots so your bike saddle doesn't heat up too much in the sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Ripley's Believe it or not",
+                "hu": "Ripley's Believe it or not",
+                "ro": "Ripley's Believe it or not",
+                "en": "Ripley's Believe it or not"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Winter, um längere Strecken durch die Stadt zu radeln; die geringere Luftfeuchtigkeit macht die Fahrt deutlich weniger anstrengend.",
+                "hu": "Használja ki a telet a városon keresztüli hosszabb szakaszokra; az alacsony páratartalom miatt a tekerés sokkal kevésbé fárasztó és megterhelő.",
+                "ro": "Profitate de iarnă pentru trasee mai lungi prin oraș; umiditatea scăzută face pedalatul mult mai puțin obositor pe distanțe mari.",
+                "en": "Take advantage of the winter for longer stretches through the city; the lower humidity makes the ride significantly less exhausting for everyone."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Beach",
+                "hu": "Pattaya Beach",
+                "ro": "Pattaya Beach",
+                "en": "Pattaya Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Stopp am Strand ist bei der milden Mittagssonne ideal; eine Sonnenbrille ist Pflicht, da die flach stehende Sonne beim Radeln blenden kann.",
+                "hu": "A strand megálló ideális az enyhe déli napsütésben; a napszemüveg kötelező, mivel az alacsonyan járó téli nap elvakíthat tekerés közben.",
+                "ro": "O oprire la plajă este ideală sub soarele blând de la prânz; ochelarii de soare sunt obligatorii, deoarece soarele jos vă poate orbi.",
+                "en": "A stop at the beach is ideal in the mild midday sun; sunglasses are a must as the low winter sun can dazzle you while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "The bottle museum",
+                "hu": "The bottle museum",
+                "ro": "The bottle museum",
+                "en": "The bottle museum"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt am Nachmittag ist angenehm kühl; genießen Sie die Ruhe im Museum, bevor Sie die letzte Etappe vor Einbruch der Dunkelheit antreten.",
+                "hu": "A délutáni tekerés kellemesen hűvös; élvezze a múzeum nyugalmát, mielőtt megkezdi az utolsó szakaszt még a sötétedés beállta előtt.",
+                "ro": "Pedalatul de după-amiază este plăcut de răcoros; bucurați-vă de liniștea muzeului înainte de ultima etapă, înainte de lăsarea întunericului.",
+                "en": "The afternoon ride is pleasantly cool; enjoy the quiet of the museum before starting the last leg of your trip before darkness falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Amazing Art",
+                "hu": "Amazing Art",
+                "ro": "Amazing Art",
+                "en": "Amazing Art"
+              },
+              "tip_5lang": {
+                "de": "Das frühe Licht am späten Nachmittag sorgt für tolle Farben draußen; stellen Sie sicher, dass Ihre Reflektoren für die Heimfahrt sauber sind.",
+                "hu": "A késő délutáni fények csodás színeket varázsolnak a környékre; ellenőrizze, hogy a fényvisszaverők tiszták-e a biztonságos hazaúthoz.",
+                "ro": "Luminile de după-amiază târzie creează culori superbe afară; asigurați-vă că reflectorizantele sunt curate pentru drumul spre casă.",
+                "en": "The early light in the late afternoon creates great colors outside; make sure your bike reflectors are clean for the safe ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós túrája a keleti oldalon, a Nemzetközi Kígyóshow izgalmainál kezdődik, majd a Palackmúzeum finom hajómakettjeinél folytatódik.\n\nDélben a Tuxedo Illusion Hall bámulatos varázslata és az Art in Paradise magával ragadó 3D illúziói várják.\n\nA késő délutánt a Pattaya Beach hűsítő homokján, a tengerparti nyüzsgésben töltheti el.\n\nEstefelé délre veszi az irányt a Kids ATV's kalandjaiért, és az estét a lenyűgöző Colosseum Show-nál zárja.",
         "ro": "Turul auto începe în est cu captivantul International Snake Show și cu navele delicate din Muzeul Sticlei.\n\nLa amiază vă bucurați de magia de la Tuxedo Illusion Hall și de incredibilele iluzii 3D de la Art in Paradise.\n\nPetreceți după-amiaza târzie cu o pauză relaxantă pe nisipurile animate de la Pattaya Beach.\n\nPe seară, mergeți spre sud pentru acțiune la Kids ATV's și încheiați noaptea la spectaculosul Colosseum Show.",
         "en": "Your driving tour begins on the eastern side at the thrilling International Snake Show before marvelling at the delicate ships within The Bottle Museum.\n\nMidday brings you to the magical performances at Tuxedo Illusion Hall and the immersive 3D optical illusions at Art in Paradise.\n\nSpend the late afternoon taking a refreshing and leisurely break along the sandy shores of Pattaya Beach.\n\nAs evening falls, head south for some action at Kids ATV's and cap off the night at the spectacular Colosseum Show."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie sicher zur Snake Show; das Auto bietet den besten Schutz vor den Güssen. Besuchen Sie die Museen wie das Flaschenmuseum, während es draußen stürmt. Indoor-Attraktionen wie Art in Paradise lassen Sie den Regen vergessen. Den Abend krönt die Colosseum Show, bei der Sie dank überdachter Vorfahrt direkt am Eingang trocken aussteigen können.",
+            "hu": "Hajtson biztonságosan a Snake Show-hoz; az autó nyújtja a legjobb védelmet a záporok ellen. Látogassa meg a palackmúzeumot, amíg kint tombol a vihar. Az olyan benti helyszínek, mint az Art in Paradise, elfeledtetik az esőt. Az estét a Colosseum Show koronázza meg, ahol a fedett felhajtónak hála szárazon szállhat ki az autóból.",
+            "ro": "Conduceți în siguranță la Snake Show; mașina oferă cea mai bună protecție împotriva averselor. Vizitați muzeul sticlelor în timp ce afară plouă torențial. Atracțiile interioare precum Art in Paradise vă fac să uitați de ploaie. Seara se încheie la Colosseum Show, unde intrarea acoperită vă permite să coborâți uscat din mașină.",
+            "en": "Drive safely to the Snake Show; the car provides the best protection from the heavy tropical downpour. Hop between museums like the bottle museum during showers. Indoor attractions like Art in Paradise will make you forget the rain outside. The Colosseum Show is the grand finale, with covered drop-offs keeping you dry at the entrance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "International Snake Show",
+                "hu": "International Snake Show",
+                "ro": "International Snake Show",
+                "en": "International Snake Show"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenabschnitt kurz zu halten; drinnen sind die Vorführungen in einer überdachten Arena sicher vor Nässe.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az elázást; bent a bemutatókat fedett arénában tartják, így az eső nem zavarja az élményt.",
+                "ro": "Parcați aproape de intrare pentru a minimiza expunerea la ploaie; în interior, spectacolele au loc într-o arenă acoperită, ferită de apă.",
+                "en": "Park close to the entrance to keep the walk in the rain short; inside, the shows are held in a covered arena, safe from the tropical wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "The bottle museum",
+                "hu": "The bottle museum",
+                "ro": "The bottle museum",
+                "en": "The bottle museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Zwischenlager für feuchte Schirme; die filigrane Kunst im Museum bietet eine trockene und ruhige Atmosphäre.",
+                "hu": "Használja az autót az ázott esernyők tárolására; a múzeum filigrán alkotásai száraz és nyugodt környezetet biztosítanak a vihar idején.",
+                "ro": "Folosiți mașina pentru a lăsa umbrelele ude; arta filigrană din interiorul muzeului oferă o atmosferă uscată și liniștită pe durata ploii.",
+                "en": "Use the car as a storage spot for wet umbrellas; the delicate art inside the museum offers a dry and peaceful atmosphere during the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuxedo Illusion Hall",
+                "hu": "Tuxedo Illusion Hall",
+                "ro": "Tuxedo Illusion Hall",
+                "en": "Tuxedo Illusion Hall"
+              },
+              "tip_5lang": {
+                "de": "Die klimatisierten Räume lassen Sie die hohe Luftfeuchtigkeit draußen vergessen; genießen Sie die Magie, während das Auto sicher im Regen parkt.",
+                "hu": "A légkondicionált termekben elfelejtheti a kinti magas páratartalmat; élvezze a varázslatot, miközben az autója biztonságban pihen az esőben.",
+                "ro": "Sălile climatizate vă vor face să uitați de umiditatea ridicată de afară; bucurați-vă de magie în timp ce mașina este parcată în siguranță.",
+                "en": "The air-conditioned halls will make you forget the high humidity outside; enjoy the magic while your car stays safely parked in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Art in Paradise",
+                "hu": "Art in Paradise",
+                "ro": "Art in Paradise",
+                "en": "Art in Paradise"
+              },
+              "tip_5lang": {
+                "de": "Dieses riesige Indoor-Ziel ist perfekt, wenn es dauerhaft regnet; nutzen Sie die Zeit für kreative Fotos in einer komplett trockenen Umgebung.",
+                "hu": "Ez a hatalmas benti helyszín tökéletes tartós eső esetén; használja ki az időt kreatív fotózásra egy teljesen száraz és kényelmes környezetben.",
+                "ro": "Această destinație interioară vastă este perfectă dacă plouă continuu; folosiți timpul pentru poze creative într-un mediu complet uscat.",
+                "en": "This huge indoor destination is perfect if it rains continuously; use the time for creative photos in a completely dry and comfortable setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Beach",
+                "hu": "Pattaya Beach",
+                "ro": "Pattaya Beach",
+                "en": "Pattaya Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Strand bequem aus dem parkenden Auto heraus; die dramatischen Wolken über dem Meer sind ein tolles Fotomotiv.",
+                "hu": "Élvezze a tengerparti kilátást kényelmesen a parkoló autóból; a tenger feletti drámai felhők kiváló fotótémát szolgáltatnak a vihar előtt.",
+                "ro": "Bucurați-vă de vederea la plajă confortabil din mașina parcată; norii dramatici de deasupra mării sunt un subiect foto excelent în timpul ploii.",
+                "en": "Enjoy the beach view comfortably from your parked car; the dramatic clouds over the sea provide an excellent photo subject during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kids ATV's",
+                "hu": "Kids ATV's",
+                "ro": "Kids ATV's",
+                "en": "Kids ATV's"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen kann die Strecke schlammig und rutschig sein; bringen Sie Wechselkleidung im Kofferraum mit, da die Kinder sicher nass werden.",
+                "hu": "Esőben a pálya saras és csúszós lehet; hozzon váltóruhát a csomagtartóban, mivel a gyerekek biztosan vizesek és sarasak lesznek a játék közben.",
+                "ro": "Pe ploaie, pista poate fi noroioasă și alunecoasă; aduceți haine de schimb în portbagaj, deoarece copiii se vor uda cu siguranță la joacă.",
+                "en": "In the rain, the track can be muddy and slippery; bring a change of clothes in the trunk, as the kids will surely get wet and muddy while playing."
+              }
+            },
+            {
+              "name": {
+                "de": "Colosseum Show Pattaya",
+                "hu": "Colosseum Show Pattaya",
+                "ro": "Colosseum Show Pattaya",
+                "en": "Colosseum Show Pattaya"
+              },
+              "tip_5lang": {
+                "de": "Die Ankunft mit dem Wagen ist ideal, da Sie direkt unter dem Portal aussteigen können; genießen Sie das prächtige Finale Ihres Regentages.",
+                "hu": "Az autóval való érkezés ideális, mivel közvetlenül a fedett bejáratnál szállhat ki; élvezze az esős nap pompás lezárását a színházban.",
+                "ro": "Sosirea cu mașina este ideală, deoarece puteți coborî direct sub portalul acoperit; bucurați-vă de finalul grandios al zilei ploioase.",
+                "en": "Arriving by car is ideal as you can drop off right under the covered portal; enjoy the magnificent finale of your rainy day in comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour komfortabel im Auto; das milde Winterwetter ist ideal für Sightseeing. Besuchen Sie den Strand und die Museen bei angenehmen Außentemperaturen. Am Nachmittag wechseln Sie zwischen den klimatisierten Hallen, während das Licht früher als gewohnt zu schwinden beginnt. Genießen Sie das frühe Abendlicht Pattayas aus dem Wagen auf dem Weg zur finalen Colosseum Show.",
+            "hu": "Kezdje a túrát kényelmesen az autóban; az enyhe téli időjárás ideális a városnézéshez. Látogassa meg a strandot és a múzeumokat a kellemes kinti hőmérséklet mellett. Délután váltson a légkondicionált termek között, miközben a fény a szokásosnál korábban kezd fogyni. Élvezze Pattaya korai esti fényeit az autóból a végső Colosseum Show felé vezető úton.",
+            "ro": "Începeți turul confortabil în mașină; vremea blândă de iarnă este ideală pentru vizitarea obiectivelor turistice. Vizitați plaja și muzeele la temperaturi exterioare plăcute. După-amiaza, alternați între sălile climatizate în timp ce lumina scade mai devreme. Bucurați-vă de luminile serii din mașină în drum spre spectacolul final de la Colosseum.",
+            "en": "Start your tour comfortably in the car; the mild winter weather is ideal for sightseeing. Visit the beach and museums while outdoor temperatures remain pleasant. In the afternoon, transition between indoor halls as the light begins to fade earlier than usual. Enjoy the early evening glow of Pattaya's lights from your car on the way to the final Colosseum Show."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "International Snake Show",
+                "hu": "International Snake Show",
+                "ro": "International Snake Show",
+                "en": "International Snake Show"
+              },
+              "tip_5lang": {
+                "de": "Das Winterwetter macht die Wartezeit im Freien angenehm; parken Sie in der Sonne, um die milde Wärme am Morgen noch einmal richtig zu genießen.",
+                "hu": "A téli időjárás kellemessé teszi a szabadban való várakozást; parkoljon a napon, hogy reggel még kiélvezhesse az enyhe, természetes meleget.",
+                "ro": "Vremea de iarnă face așteptarea în aer liber plăcută; parcați la soare pentru a vă bucura de căldura blândă a dimineții înainte de show.",
+                "en": "The winter weather makes waiting outdoors pleasant; park in the sun to soak up the mild morning warmth before the show begins."
+              }
+            },
+            {
+              "name": {
+                "de": "The bottle museum",
+                "hu": "The bottle museum",
+                "ro": "The bottle museum",
+                "en": "The bottle museum"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt am Vormittag ist bei klarem Winterhimmel besonders schön; drinnen ist es angenehm temperiert für eine entspannte Betrachtung der Kunstwerke.",
+                "hu": "A délelőtti autózás a tiszta téli égbolt alatt különösen szép; bent kellemes a hőmérséklet a műalkotások nyugodt megtekintéséhez.",
+                "ro": "Drumul de dimineață sub cerul senin de iarnă este superb; în interior este o temperatură plăcută pentru vizionarea relaxată a exponatelor.",
+                "en": "The morning drive under clear winter skies is beautiful; inside it is pleasantly tempered for a relaxed viewing of the unique artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Tuxedo Illusion Hall",
+                "hu": "Tuxedo Illusion Hall",
+                "ro": "Tuxedo Illusion Hall",
+                "en": "Tuxedo Illusion Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Tiefgaragen, um das Auto kühl zu halten; die Show im Winter bietet eine tolle Abwechslung zum sonnigen Outdoor-Programm.",
+                "hu": "Használja a mélygarázsokat, hogy az autó hűvös maradjon; a téli előadás remek kikapcsolódást nyújt a napsütéses szabadtéri programok mellé.",
+                "ro": "Folosiți parcările subterane pentru a păstra mașina răcoroasă; spectacolul de iarnă oferă o alternativă excelentă la programul de exterior.",
+                "en": "Use underground parking to keep your car cool; the show in winter offers a great alternative to the sunny outdoor activities of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Art in Paradise",
+                "hu": "Art in Paradise",
+                "ro": "Art in Paradise",
+                "en": "Art in Paradise"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Besucherandrang moderat, was das Parken erleichtert; genießen Sie die 3D-Welt ohne die sommerliche Schwüle Pattayas.",
+                "hu": "Télen a látogatók száma mérsékeltebb, ami megkönnyíti a parkolást; élvezze a 3D világot a nyári fülledtség és hőség nélkül.",
+                "ro": "Iarna numărul de vizitatori este moderat, ceea ce ușurează parcarea; bucurați-vă de lumea 3D fără zăpușeala specifică verii în Pattaya.",
+                "en": "In winter the number of visitors is moderate, making parking easier; enjoy the 3D world without the usual summer sultriness of Pattaya."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattaya Beach",
+                "hu": "Pattaya Beach",
+                "ro": "Pattaya Beach",
+                "en": "Pattaya Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an der Promenade für einen schnellen Strandspaziergang; die Winterbrise ist kühl, also lassen Sie die Fenster bei der Weiterfahrt ruhig offen.",
+                "hu": "Parkoljon a sétányon egy gyors tengerparti sétához; a téli szellő hűvös, így a továbbhaladáskor nyugodtan lehúzva hagyhatja az autó ablakait.",
+                "ro": "Parcați pe faleză pentru o plimbare scurtă pe plajă; briza de iarnă este răcoroasă, deci puteți lăsa geamurile deschise în timpul mersului.",
+                "en": "Park on the promenade for a quick beach stroll; the winter breeze is cool, so feel free to leave the car windows down as you drive on."
+              }
+            },
+            {
+              "name": {
+                "de": "Kids ATV's",
+                "hu": "Kids ATV's",
+                "ro": "Kids ATV's",
+                "en": "Kids ATV's"
+              },
+              "tip_5lang": {
+                "de": "Der späte Nachmittag ist wegen des flacheren Lichts ideal für Action-Fotos; achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr.",
+                "hu": "A késő délután az alacsonyabb napállás miatt ideális akciódús fotókhoz; ügyeljen a korai, 17:00 óra körüli naplementére a pálya mellett.",
+                "ro": "După-amiaza târzie este ideală pentru poze de acțiune datorită luminii; atenție la apusul devreme care are loc în jurul orei 17:00.",
+                "en": "The late afternoon is ideal for action photos because of the lower light; watch out for the early sunset that occurs around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Colosseum Show Pattaya",
+                "hu": "Colosseum Show Pattaya",
+                "ro": "Colosseum Show Pattaya",
+                "en": "Colosseum Show Pattaya"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort der Klimaanlage im Wagen auf der Fahrt zur Show; nach Sonnenuntergang kühlt es draußen für den Heimweg merklich ab.",
+                "hu": "Élvezze az autó klímájának kényelmét az előadásra menet; naplemente után kint már érezhetően hűvösebb lesz az idő a hazaúthoz.",
+                "ro": "Bucurați-vă de confortul climatizării din mașină spre spectacol; după apusul soarelui, afară se va răci simțitor pentru drumul spre casă.",
+                "en": "Enjoy the comfort of the car's air conditioning on the way to the show; after sunset, it will cool down noticeably for your journey back home."
+              }
+            }
+          ]
+        }
       }
     }
   }

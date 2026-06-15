@@ -137,6 +137,168 @@
         "hu": "A reggel nyugodtan indul a Place de la Vendée téren, majd a fenséges Saint-Étienne templom következik. Délben a város szívében található Sainte-Croix kápolna történelmi részleteit fedezheti fel. A délután a bájos Notre-Dame-de-la-Salette kápolnához vezet az erdő szélén. Kora este egy kellemes sétával zárja a túrát a vidéki Saint-Laurent kápolnánál.",
         "ro": "Dimineața începe liniștit în Place de la Vendée, urmată de o vizită la maiestuoasa Biserică Saint-Étienne. La prânz, explorați detaliile istorice ale Capelei Sainte-Croix din inima orașului. După-amiaza vă conduce la fermecătoarea Capelă Notre-Dame-de-la-Salette de la marginea pădurii. Seara devreme încheiați turul pietonal cu o plimbare spre Capela rurală Saint-Laurent.",
         "en": "The morning starts peacefully at Place de la Vendée, followed by a visit to the majestic Saint-Étienne Church. By midday, explore the historical details of Chapelle de la Sainte-Croix in the heart of the city. The afternoon leads you to the charming Chapelle Notre-Dame-de-la-Salette on the edge of the woods. In the early evening, conclude your walking tour at the rural Chapelle Saint-Laurent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen an der Place de la Vendée mit einem Regenschirm. Suchen Sie Schutz in der Kirche Saint-Étienne. Mittags geht es auf nassen Wegen zu den Kapellen. Am Nachmittag sind wasserdichte Schuhe für die feuchten Pfade zur Kapelle Saint-Laurent unerlässlich.",
+            "hu": "Kezdje az esős reggelt a Place de la Vendée-n egy erős esernyővel. Keressen menedéket a záporok elől a Saint-Étienne templomban. Délben nedves, de járható utakon juthat el a kápolnákhoz. Délutánra vízálló cipő elengedhetetlen a Saint-Laurent felé vezető nyirkos ösvényeken.",
+            "ro": "Începeți dimineața ploioasă la Place de la Vendée cu o umbrelă robustă. Găsiți adăpost de averse în biserica Saint-Étienne. La prânz, plimbările spre capele sunt umede, dar plăcute. După-amiaza, încălțămintea impermeabilă este esențială pe potecile umede spre Saint-Laurent.",
+            "en": "Start your rainy morning at Place de la Vendée with a sturdy umbrella. Find shelter from the showers inside the grand Saint-Étienne Church. Midday involves wet but manageable walks to the historic chapels. By afternoon, waterproof shoes are a must as you navigate the damp trails to Saint-Laurent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Vendée",
+                "hu": "Place de la Vendée",
+                "ro": "Place de la Vendée",
+                "en": "Place de la Vendée"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Platz unter einem Schirm; achten Sie auf rutschige Pflastersteine im Regen.",
+                "hu": "Csodálja meg a teret esernyő alól; vigyázzon a csúszós macskakövekre az esőben.",
+                "ro": "Admirați piața sub umbrelă; atenție la pietrele de pavaj alunecoase pe timp de ploaie.",
+                "en": "Admire the square's layout under an umbrella; watch out for slick paving stones in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die Glasfenster zu bewundern und bei starken Regengüssen trocken zu bleiben.",
+                "hu": "Lépjen be, és csodálja meg az ólomüveg ablakokat, miközben teljesen száraz marad a felhőszakadás alatt.",
+                "ro": "Intrați pentru a admira vitraliile, rămânând perfect uscat în timpul ploilor torențiale.",
+                "en": "Step inside to admire the stained glass while staying perfectly dry during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Croix",
+                "hu": "Sainte-Croix kápolna",
+                "ro": "Capela Sainte-Croix",
+                "en": "Chapelle de la Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Äußere kurz; der Weg kann schlammig werden, tragen Sie wasserfestes Schuhwerk.",
+                "hu": "Nézze meg kívülről gyorsan; az itteni ösvény sáros lehet, így a vízálló lábbeli elengedhetetlen.",
+                "ro": "Vedeți exteriorul rapid; poteca de aici poate deveni noroioasă, purtați încălțăminte impermeabilă.",
+                "en": "View the exterior quickly; the path here can get muddy, so wear proper waterproof footwear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-la-Salette",
+                "hu": "Notre-Dame-de-la-Salette kápolna",
+                "ro": "Capela Notre-Dame-de-la-Salette",
+                "en": "Chapelle Notre-Dame-de-la-Salette"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das friedliche Innere, um dem Regen zu entkommen; das nasse Gras ist sehr rutschig.",
+                "hu": "Élvezze a békés belső teret az eső elől menekülve; a környező fű nedvesen nagyon csúszós.",
+                "ro": "Bucurați-vă de interiorul liniștit pentru a scăpa de ploaie; iarba din jur este foarte alunecoasă.",
+                "en": "Enjoy the peaceful interior to escape the rain; the surrounding grass is very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Laurent",
+                "hu": "Saint-Laurent kápolna",
+                "ro": "Capela Saint-Laurent",
+                "en": "Chapelle Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Halt, bei dem der ländliche Weg regenfestes Schuhwerk erfordert, um trockene Füße zu behalten.",
+                "hu": "Az utolsó állomás, ahol a vidéki ösvény vízálló cipőt igényel, hogy elkerülje a vizes lábakat.",
+                "ro": "O oprire finală unde poteca rurală necesită încălțăminte rezistentă la ploaie pentru a evita udarea.",
+                "en": "A final stop where the rural path demands sturdy, rain-resistant shoes to avoid wet feet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an der Place de la Vendée. Wärmen Sie sich in der Kirche Saint-Étienne auf. Mittags packen Sie sich für den Spaziergang zu den Kapellen warm ein. Der Nachmittag endet früh bei Saint-Laurent, bevor der Sonnenuntergang um 17 Uhr Kälte bringt.",
+            "hu": "Ropogós téli reggel a Place de la Vendée-n. Melegedjen fel a Saint-Étienne templomban. Délben öltözzön melegen a kápolnákhoz vezető sétához. A délután korán ér véget a Saint-Laurent-nál, mielőtt a 17 órás naplemente hideget hoz.",
+            "ro": "O dimineață geroasă de iarnă la Place de la Vendée. Încălziți-vă în biserica Saint-Étienne. La prânz, înfofoliți-vă pentru plimbarea spre capele. După-amiaza se termină devreme la Saint-Laurent, înainte ca apusul de la ora 17:00 să aducă frigul.",
+            "en": "Crisp winter morning at Place de la Vendée. Warm up inside Saint-Étienne church. At noon, bundle up for the walk to the historic chapels. The afternoon ends early at Saint-Laurent before the 5 PM sunset brings a biting chill to the air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Vendée",
+                "hu": "Place de la Vendée",
+                "ro": "Place de la Vendée",
+                "en": "Place de la Vendée"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich warm ein; der offene Platz wird in der morgendlichen Winterbrise recht kühl.",
+                "hu": "Öltözzön melegen a fagyos tér megtekintéséhez; a nyitott tér reggel nagyon csípős lehet.",
+                "ro": "Îmbrăcați-vă gros pentru a vedea piața înghețată; spațiul deschis devine destul de rece dimineața.",
+                "en": "Bundle up to view the crisp, frosty square; the open space gets quite chilly in the morning breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Kirchenmauern bieten einen milden Zufluchtsort vor der klirrenden Winterkälte draußen.",
+                "hu": "A vastag templomfalak enyhe menedéket nyújtanak a kinti csípős téli hideg elől.",
+                "ro": "Zidurile groase ale bisericii oferă un sanctuar blând împotriva frigului mușcător al iernii.",
+                "en": "The thick church walls provide a mild sanctuary from the biting winter cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Croix",
+                "hu": "Sainte-Croix kápolna",
+                "ro": "Capela Sainte-Croix",
+                "en": "Chapelle de la Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Anblick im Schnee, aber passen Sie auf, da der Zugang gefährlich vereist sein kann.",
+                "hu": "Gyönyörű látvány a hóban, de vigyázzon a lépéseire, mert a megközelítés veszélyesen jeges lehet.",
+                "ro": "O priveliște frumoasă în zăpadă, dar atenție la pași, deoarece accesul poate fi periculos de înghețat.",
+                "en": "A beautiful sight in the snow, but watch your step as the approach can be dangerously icy."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-la-Salette",
+                "hu": "Notre-Dame-de-la-Salette kápolna",
+                "ro": "Capela Notre-Dame-de-la-Salette",
+                "en": "Chapelle Notre-Dame-de-la-Salette"
+              },
+              "tip_5lang": {
+                "de": "Die isolierte Lage wirkt im Winter magisch, aber tragen Sie unbedingt eine winddichte Jacke.",
+                "hu": "Az elszigetelt helyszín varázslatos télen, de mindenképpen viseljen szélálló kabátot.",
+                "ro": "Locația izolată se simte magică iarna, dar asigurați-vă că purtați o jachetă rezistentă la vânt.",
+                "en": "The isolated location feels magical in winter, but ensure you wear a warm windproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Laurent",
+                "hu": "Saint-Laurent kápolna",
+                "ro": "Capela Saint-Laurent",
+                "en": "Chapelle Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle am frühen Nachmittag vor der Dunkelheit um 17 Uhr; es wird hier extrem kalt.",
+                "hu": "Látogassa meg kora délután, mielőtt 17 órakor besötétedik; itt rendkívül hideg tud lenni.",
+                "ro": "Vizitați devreme după-amiaza înainte de întunericul de la ora 17; aici se face extrem de frig.",
+                "en": "Visit early in the afternoon before the 5 PM darkness sets in; it gets extremely cold here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája nyugodtan indul a városközpontban a Place de la Vendée téren és a Saint-Étienne templomnál. Dél körül a Sainte-Croix kápolna mellett elhaladva a lenyűgöző városházához tekerhet. Délután az út a délnyugatra fekvő eldugott Saint-Clément kápolnához vezet. Az estét a festői Saint-Laurent kápolnánál egy kényelmes utazással zárhatja.",
         "ro": "Turul cu bicicleta începe relaxat în centrul orașului la Place de la Vendée și Biserica Saint-Étienne. Spre prânz, pedalați pe lângă Capela Sainte-Croix spre impresionanta primărie. După-amiaza, traseul continuă spre Capela izolată Saint-Clément din sud-vest. Seara vă bucurați de o plimbare confortabilă care se încheie la idilica Capelă Saint-Laurent.",
         "en": "Your bike tour starts reasonably in the city center at Place de la Vendée and the impressive Saint-Étienne Church. Around midday, pedal past the Sainte-Croix Chapel to the majestic town hall. The afternoon route continues to the secluded Chapelle Saint-Clément in the southwest. Wind down your evening at the idyllic Chapelle Saint-Laurent after a pleasant ride."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Fahrt beginnt an der Place de la Vendée. Pausieren Sie in Saint-Étienne, um dem Regen zu entgehen. Fahren Sie vorsichtig zum Rathaus, da die Straßen rutschig sind. Nachmittags erfordern die nassen Wege zu den Kapellen Schutzbleche und besondere Vorsicht.",
+            "hu": "Nedves reggeli tekerés indul a Place de la Vendée-ről. Tartson szünetet a Saint-Étienne-ben az eső elől. Óvatosan kerékpározzon a Városházához a csúszós utakon. A délutáni út a kápolnákhoz sárvédőt és extra figyelmet igényel a vizes, vidéki szakaszokon.",
+            "ro": "O plimbare umedă începe la Place de la Vendée. Faceți o pauză la Saint-Étienne pentru a scăpa de ploaie. Pedalați cu grijă spre Primărie, deoarece străzile devin alunecoase. Cursa de după-amiază spre capele necesită apărători de noroi și prudență pe drumurile ude.",
+            "en": "A wet morning ride starts at Place de la Vendée. Take a break at Saint-Étienne to escape the rain. Ride carefully to the Town Hall as the streets get slick. The afternoon cycle to Saint-Clément and Saint-Laurent requires mudguards and extra caution on slippery rural roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Vendée",
+                "hu": "Place de la Vendée",
+                "ro": "Place de la Vendée",
+                "en": "Place de la Vendée"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie langsam; nasse Kopfsteinpflaster machen das Abbiegen für Reifen gefährlich.",
+                "hu": "Induljon lassan; a vizes macskakövek veszélyessé teszik a kanyarodást a gumik számára.",
+                "ro": "Porniți încet; piatra cubică umedă face virajele periculoase pentru anvelopele bicicletei.",
+                "en": "Start slowly; wet cobblestones make turning dangerous for bike tires today."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Fahrrad ab und gehen Sie hinein, um zu trocknen; Sattelbezüge werden empfohlen.",
+                "hu": "Zárja le a biciklit, és menjen be megszáradni; a nyereghuzat erősen ajánlott.",
+                "ro": "Încuiați bicicleta și intrați să vă uscați; husele pentru șa sunt foarte recomandate.",
+                "en": "Lock the bike and go inside to dry off; waterproof saddle covers are highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Croix",
+                "hu": "Sainte-Croix kápolna",
+                "ro": "Capela Sainte-Croix",
+                "en": "Chapelle de la Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig ab, da nasses Laub und Schlamm den Weg rutschig machen.",
+                "hu": "Fékezzen korán a közeledésnél, mert a nedves falevelek és a sár csúszóssá teszik az utat.",
+                "ro": "Frânați devreme la apropiere, deoarece frunzele ude și noroiul fac poteca alunecoasă.",
+                "en": "Brake early on the approach, as wet leaves and mud make the path very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Boulay",
+                "hu": "Boulay Városháza",
+                "ro": "Primăria Boulay",
+                "en": "Boulay Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Vordächern Zuflucht, falls ein plötzlicher Platzregen das Zentrum trifft.",
+                "hu": "Keressen menedéket az ereszek alatt, ha hirtelen felhőszakadás éri a városközpontot.",
+                "ro": "Refugiați-vă sub streșini dacă o ploaie torențială bruscă lovește centrul orașului.",
+                "en": "Take refuge under the eaves if a sudden downpour hits the town center area."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Clément",
+                "hu": "Saint-Clément kápolna",
+                "ro": "Capela Saint-Clément",
+                "en": "Chapelle Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Der ländliche Radweg ist heute schlammig; Schutzbleche sind eine absolute Notwendigkeit.",
+                "hu": "A vidéki kerékpárút ma sáros; a sárvédő elengedhetetlen feltétele az utazásnak.",
+                "ro": "Pista rurală de biciclete este noroioasă azi; apărătorile de noroi sunt o necesitate absolută.",
+                "en": "The rural cycling path is muddy today; properly fitted mudguards are an absolute necessity."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Laurent",
+                "hu": "Saint-Laurent kápolna",
+                "ro": "Capela Saint-Laurent",
+                "en": "Chapelle Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vorsichtig; bei starkem Regen sinkt die Sichtbarkeit, Licht einschalten.",
+                "hu": "Fejezze be az utat óvatosan; a látási viszonyok romlanak az esőben, kapcsolja be a lámpákat.",
+                "ro": "Terminați cursa cu grijă; vizibilitatea scade în ploaie abundentă, țineți luminile aprinse.",
+                "en": "Finish the ride carefully; visibility drops in heavy rain, so make sure to keep your lights on."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Start mit dem Fahrrad von der Place de la Vendée. Halten Sie an Saint-Étienne, um Ihre Hände aufzutauen. Fahren Sie zügig zum Rathaus, um warm zu bleiben. Die Nachmittagsfahrt zu den Kapellen erfordert Lichter, da die Wintersonne am späten Nachmittag tief steht.",
+            "hu": "Fagyos indulás biciklivel a Place de la Vendée-ről. Álljon meg a Saint-Étienne-nél, hogy felmelegítse a kezét. Tekerjen tempósan a Városházához a melegért. A délutáni út a kápolnákhoz lámpát igényel, mivel a téli nap késő délután már alacsonyan jár.",
+            "ro": "Start geros cu bicicleta de la Place de la Vendée. Opriți-vă la Saint-Étienne pentru a vă dezgheța mâinile. Pedalați alert spre Primărie pentru a vă încălzi. Cursa spre capele necesită lumini, deoarece soarele de iarnă coboară devreme.",
+            "en": "Frosty start biking from Place de la Vendée. Stop at Saint-Étienne to thaw your hands. Ride briskly to the Town Hall to stay warm. The afternoon cycle to the chapels requires good lights, as the winter sun dips low by late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Vendée",
+                "hu": "Place de la Vendée",
+                "ro": "Place de la Vendée",
+                "en": "Place de la Vendée"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost macht den Platz eisig; tragen Sie isolierte Fahrradhandschuhe.",
+                "hu": "A reggeli fagy miatt a tér jeges; viseljen szigetelt kerékpáros kesztyűt.",
+                "ro": "Gerul dimineții face piața înghețată; purtați mănuși de ciclism izolate.",
+                "en": "The morning frost makes the square icy; make sure to wear insulated cycling gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um die Hände zu wärmen; der metallene Fahrradrahmen wird eiskalt sein.",
+                "hu": "Jó hely a kezek felmelegítésére; a fém kerékpárváz fagyos lesz a hidegben.",
+                "ro": "Un loc bun pentru a vă încălzi mâinile; cadrul metalic al bicicletei va fi înghețat.",
+                "en": "A good spot to warm your hands inside; your metal bike frame will be freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Croix",
+                "hu": "Sainte-Croix kápolna",
+                "ro": "Capela Sainte-Croix",
+                "en": "Chapelle de la Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Blitzeis in den schattigen Teilen des Weges, der zur Kapelle führt.",
+                "hu": "Vigyázzon a fekete jégre a kápolnához vezető út árnyékos részein.",
+                "ro": "Atenție la polei pe porțiunile umbrite ale potecii care duce la capelă.",
+                "en": "Watch out for black ice on the constantly shaded parts of the path leading to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Boulay",
+                "hu": "Boulay Városháza",
+                "ro": "Primăria Boulay",
+                "en": "Boulay Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Gemeindezentrum bietet eine kurze Atempause vor dem beißenden Wintergegenwind.",
+                "hu": "A polgármesteri hivatal rövid pihenőt kínál a csípős téli szembeszél elől.",
+                "ro": "Centrul civic oferă un scurt răgaz de la vântul tăios de iarnă din față.",
+                "en": "The civic center offers a brief and welcome respite from the biting winter headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Clément",
+                "hu": "Saint-Clément kápolna",
+                "ro": "Capela Saint-Clément",
+                "en": "Chapelle Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie zügig in die Pedale, um Körperwärme zu erhalten; thermische Schichten sind wichtig.",
+                "hu": "Tekerjen tempósan a testhőmérséklet fenntartása érdekében; a termo rétegek döntőek.",
+                "ro": "Pedalați alert pentru a menține căldura corpului; straturile termice sunt cruciale aici.",
+                "en": "Pedal briskly to maintain body heat; thermal layers are absolutely crucial out here."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Laurent",
+                "hu": "Saint-Laurent kápolna",
+                "ro": "Capela Saint-Laurent",
+                "en": "Chapelle Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an; der frühe Sonnenuntergang um 17:00 Uhr macht ländliches Radfahren gefährlich.",
+                "hu": "Érkezzen 16:30 előtt; a korai, 17:00-s naplemente veszélyessé teszi a vidéki kerékpározást.",
+                "ro": "Ajungeți înainte de 16:30; apusul de la 17:00 face ciclismul rural periculos.",
+                "en": "Arrive before 16:30; the early 17:00 sunset makes rural cycling very hazardous."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "A nap a központban indul a Place de la Vendée és a történelmi Saint-Étienne templomnál, melyet a Salette-kápolna követ. Délben a Saint-Laurent kápolnához hajt, majd pihentető órákat tölt a Boulay-erdőben. A délután kulturális betekintést nyújt a Saint-Clément kápolnánál és az impozáns városházánál. Este a túrát a békés Sainte-Croix kápolnánál zárja.",
         "ro": "Ziua începe în centru, la Place de la Vendée și biserica istorică Saint-Étienne, urmate de Capela Salette. La prânz conduceți la Capela Saint-Laurent și petreceți ore de relaxare în întinsa Pădure Boulay. După-amiaza oferă perspective culturale la Capela Saint-Clément și la primăria impunătoare. Seara încheiați turul la liniștita Capelă Sainte-Croix.",
         "en": "The day begins in the center at Place de la Vendée and the historical Saint-Étienne Church, followed by the Salette Chapel. At midday, drive to Chapelle Saint-Laurent and spend relaxing hours in the expansive Boulay Forest. The afternoon offers cultural insights at Chapelle Saint-Clément and the imposing town hall. In the evening, end your tour at the peaceful Sainte-Croix Chapel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem von der Place de la Vendée los. Parken Sie nahe Saint-Étienne, um Regengüsse zu vermeiden. Mittags bleiben Sie in den Kapellen trocken, auch wenn der Waldweg schlammig ist. Der Nachmittag endet am Rathaus und Sainte-Croix mit laufenden Scheibenwischern.",
+            "hu": "Vezessen kényelmesen a Place de la Vendée-ről indulva. Parkoljon a Saint-Étienne közelében a felhőszakadás elkerülése végett. Délben a kápolnák szárazak, bár az erdei séta sáros. A délután a Városházánál és a Sainte-Croix-nál ér véget, működő ablaktörlőkkel.",
+            "ro": "Conduceți confortabil pornind de la Place de la Vendée. Parcați lângă Saint-Étienne pentru a evita aversele. La prânz vă mențineți uscat la capele, deși pădurea este noroioasă. După-amiaza se termină la Primărie și Sainte-Croix cu ștergătoarele la maximum.",
+            "en": "Drive comfortably starting at Place de la Vendée. Park near Saint-Étienne to avoid downpours. Midday drives to the chapels keep you dry, though the forest walk is muddy. The afternoon ends at the Town Hall and Sainte-Croix with windshield wipers on full."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Vendée",
+                "hu": "Place de la Vendée",
+                "ro": "Place de la Vendée",
+                "en": "Place de la Vendée"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nutzen Sie einen Schirm; achten Sie auf Pfützen beim Aussteigen.",
+                "hu": "Parkoljon a közelben és használjon esernyőt; kiszálláskor vigyázzon a tócsákra.",
+                "ro": "Parcați în apropiere și folosiți o umbrelă; atenție la bălți când coborâți din mașină.",
+                "en": "Park near the square and use an umbrella; watch carefully for deep puddles when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Bequemes Parken in der Nähe bedeutet, dass Sie nicht durchnässt zum Eingang rennen müssen.",
+                "hu": "A közeli kényelmes parkolás révén nem fog elázni, amíg a bejárathoz szalad.",
+                "ro": "Parcarea convenabilă înseamnă că nu vă veți uda complet alergând spre intrare.",
+                "en": "Convenient parking nearby means you won't get completely soaked running to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-la-Salette",
+                "hu": "Notre-Dame-de-la-Salette kápolna",
+                "ro": "Capela Notre-Dame-de-la-Salette",
+                "en": "Chapelle Notre-Dame-de-la-Salette"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben nach diesem nassen Halt zu entbeschlagen.",
+                "hu": "Hagyja kissé járni a motort, hogy páramentesítse az ablakokat e nedves megálló után.",
+                "ro": "Lăsați motorul pornit puțin pentru a dezaburi geamurile după această oprire umedă.",
+                "en": "Keep the engine running slightly to defog your windows after returning from this damp stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Laurent",
+                "hu": "Saint-Laurent kápolna",
+                "ro": "Capela Saint-Laurent",
+                "en": "Chapelle Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Auto ist schlammig; bewahren Sie ein Paar Ersatzschuhe im Kofferraum auf.",
+                "hu": "Az autótól vezető rövid séta sáros; tartson egy pár váltócipőt a csomagtartóban.",
+                "ro": "Scurta plimbare de la mașină este noroioasă; păstrați o pereche de pantofi de schimb în portbagaj.",
+                "en": "The short walk from the car is muddy; it is wise to keep a spare pair of shoes in the trunk."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Boulay",
+                "hu": "Boulay-erdő",
+                "ro": "Pădurea Boulay",
+                "en": "Boulay Forest"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege sind extrem schlammig; bleiben Sie heute auf den Hauptkieswegen.",
+                "hu": "Az erdei ösvények rendkívül sárosak; ma maradjon a fő kavicsos utakon.",
+                "ro": "Traseele forestiere sunt extrem de noroioase; rămâneți azi pe potecile principale de pietriș.",
+                "en": "The forest trails are extremely muddy; make sure to stick to the main gravel paths today."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Clément",
+                "hu": "Saint-Clément kápolna",
+                "ro": "Capela Saint-Clément",
+                "en": "Chapelle Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Starker Regen kann die Landstraße verdecken; fahren Sie langsam und nutzen Sie Nebelscheinwerfer.",
+                "hu": "A heves esőzés elhomályosíthatja a vidéki utat; vezessen lassan, és használjon ködlámpát.",
+                "ro": "Ploaia abundentă poate ascunde drumul rural; conduceți încet și folosiți farurile de ceață.",
+                "en": "Heavy rain can obscure the rural road; drive slowly and use fog lights for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Boulay",
+                "hu": "Boulay Városháza",
+                "ro": "Primăria Boulay",
+                "en": "Boulay Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Flüchten Sie sich ins Rathausgebiet, wenn der Regen zunimmt; Parkplätze sind meist leicht zu finden.",
+                "hu": "Meneküljön a városháza területére, ha az eső erősödik; a parkolás általában egyszerű.",
+                "ro": "Refugiați-vă în zona primăriei dacă ploaia se intensifică; parcarea este de obicei ușoară.",
+                "en": "Dash into the town hall area if the rain intensifies; parking is usually easy to find here."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Croix",
+                "hu": "Sainte-Croix kápolna",
+                "ro": "Capela Sainte-Croix",
+                "en": "Chapelle de la Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller letzter Halt; bleiben Sie im Auto, wenn der Platzregen zum Laufen zu stark ist.",
+                "hu": "Egy gyors utolsó megálló; maradjon az autóban, ha a felhőszakadás túl erős a sétához.",
+                "ro": "O oprire finală rapidă; rămâneți în mașină dacă ploaia torențială este prea puternică pentru mers.",
+                "en": "A quick final stop; just stay inside the warm car if the downpour is too heavy to walk out."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Morgenstart an der Place de la Vendée, aber die Heizung wärmt. Fahren Sie sicher zu Saint-Étienne und den Kapellen. Mittags im Wald von Boulay brauchen Sie einen dicken Mantel. Beenden Sie die Tour am Rathaus und Sainte-Croix, bevor die Dunkelheit um 17 Uhr hereinbricht.",
+            "hu": "Hideg reggeli indulás a Place de la Vendée-n, de a fűtés melegít. Vezessen biztonságosan a Saint-Étienne-hez és a kápolnákhoz. Délben a Boulay-erdőben vastag kabát kell. Fejezze be a túrát a Városházánál és a Sainte-Croix-nál a 17 órás sötétedés előtt.",
+            "ro": "O dimineață rece la Place de la Vendée, dar încălzirea vă menține confortabil. Conduceți spre Saint-Étienne și capele. Pădurea Boulay la prânz necesită o haină groasă. Terminați la Primărie și Sainte-Croix chiar înainte de lăsarea întunericului la ora 17:00.",
+            "en": "A cold morning drive starting at Place de la Vendée. The heater keeps you warm between Saint-Étienne and the chapels. Midday at Boulay Forest requires thick coats for the brisk air. Finish the route by the Town Hall and Sainte-Croix before the early winter darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la Vendée",
+                "hu": "Place de la Vendée",
+                "ro": "Place de la Vendée",
+                "en": "Place de la Vendée"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie die Autoheizung früh; der Morgenfrost auf der Windschutzscheibe muss gekratzt werden.",
+                "hu": "Indítsa be korán az autó fűtését; a reggeli fagyot le kell kaparni a szélvédőről.",
+                "ro": "Porniți devreme încălzirea; gerul matinal de pe parbriz trebuie curățat cu racleta.",
+                "en": "Start the car heater early; the crisp morning frost on the windshield will need scraping."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Étienne Kirche",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Saint-Étienne Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das warme Autoinnere zwischen den Halten; die Kirche selbst ist recht kühl.",
+                "hu": "Élvezze a meleg autót a megállók között; maga a templom meglehetősen hűvös.",
+                "ro": "Bucurați-vă de interiorul cald al mașinii între opriri; biserica în sine este destul de rece.",
+                "en": "Enjoy the warm car interior between stops; the vast stone church itself is quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame-de-la-Salette",
+                "hu": "Notre-Dame-de-la-Salette kápolna",
+                "ro": "Capela Notre-Dame-de-la-Salette",
+                "en": "Chapelle Notre-Dame-de-la-Salette"
+              },
+              "tip_5lang": {
+                "de": "Die Straße hier könnte frostig sein; stellen Sie sicher, dass Ihre Winterreifen guten Halt haben.",
+                "hu": "Az út itt fagyos lehet; győződjön meg róla, hogy a téli gumiknak jó a tapadása.",
+                "ro": "Drumul aici ar putea fi înghețat; asigurați-vă că anvelopele de iarnă au o aderență bună.",
+                "en": "The road here might be frosty; ensure your winter tires have good traction on the approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Laurent",
+                "hu": "Saint-Laurent kápolna",
+                "ro": "Capela Saint-Laurent",
+                "en": "Chapelle Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderschöner schneebedeckter Ausblick aus dem warmen Auto, perfekt für ein schnelles Foto.",
+                "hu": "Gyönyörű hóval borított kilátás a meleg autóból, tökéletes egy gyors fotóhoz.",
+                "ro": "O priveliște superbă acoperită de zăpadă din mașina caldă, perfectă pentru o fotografie rapidă.",
+                "en": "A beautiful snow-covered view from the warm car, absolutely perfect for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Boulay",
+                "hu": "Boulay-erdő",
+                "ro": "Pădurea Boulay",
+                "en": "Boulay Forest"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Schichten für den Waldspaziergang; die Winterluft hier ist klirrend kalt.",
+                "hu": "Öltözzön vastagon az erdei sétához; a téli levegő itt rendkívül csípős és hideg.",
+                "ro": "Purtați straturi groase pentru plimbarea în pădure; aerul de iarnă de aici este foarte rece.",
+                "en": "Dress in thick layers for the forest walk; the winter air beneath the trees here is biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Clément",
+                "hu": "Saint-Clément kápolna",
+                "ro": "Capela Saint-Clément",
+                "en": "Chapelle Saint-Clément"
+              },
+              "tip_5lang": {
+                "de": "Das schwindende Winterlicht wirft lange Schatten; fahren Sie vorsichtig auf den Landstraßen.",
+                "hu": "A halványuló téli fény hosszú árnyékokat vet; vezessen óvatosan a vidéki utakon.",
+                "ro": "Lumina palidă de iarnă aruncă umbre lungi; conduceți cu atenție pe drumurile rurale.",
+                "en": "The fading winter light casts long shadows; drive very carefully on the rural lanes."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Boulay",
+                "hu": "Boulay Városháza",
+                "ro": "Primăria Boulay",
+                "en": "Boulay Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Stadt sieht im Winter festlich aus, aber das Pflaster davor ist oft sehr rutschig.",
+                "hu": "A város ünnepinek tűnik télen, de az előtte lévő burkolat gyakran nagyon csúszós.",
+                "ro": "Orașul arată festiv iarna, dar pavajul din exterior este adesea foarte alunecos.",
+                "en": "The town looks festive in winter, but the pavement outside is often icy and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Sainte-Croix",
+                "hu": "Sainte-Croix kápolna",
+                "ro": "Capela Sainte-Croix",
+                "en": "Chapelle de la Sainte-Croix"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der Dämmerung um 17:00 Uhr an; die schmale Zufahrt ist im Dunkeln knifflig.",
+                "hu": "Érkezzen a 17:00 órás szürkület előtt; a keskeny feljáró trükkös a sötétben.",
+                "ro": "Ajungeți înainte de amurgul de la 17:00; abordarea îngustă este dificilă pe întuneric.",
+                "en": "Arrive before the 17:00 twilight; the narrow approach is quite tricky in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

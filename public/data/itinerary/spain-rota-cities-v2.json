@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a történelmi központ és a fő plébániatemplom felfedezésével, majd sétáljon a nyüzsgő strandokon. Délben csendesebb partokhoz és egy történelmi emlékműhöz ér. Délután tegyen egy sétát a nyugodt városi parkban. Zárja a napot a tágas Costilla strandon pihenve.",
         "ro": "Începeți dimineața explorând inima istorică și parohia principală, apoi plimbați-vă de-a lungul plajelor animate. La prânz veți ajunge la țărmuri mai liniștite și la un monument istoric. După-amiaza, rătăciți prin parcul urban liniștit. Încheiați-vă ziua relaxându-vă pe întinsa plajă Costilla.",
         "en": "Start your morning exploring the historic heart and the main parish, then stroll along the bustling beaches. Midday brings you to the calmer shores and a historic triumph monument. In the afternoon, wander through the serene urban park. End your day relaxing on the expansive Costilla beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in der prächtigen Kirche von Rota. Mittags bieten die Uferpromenaden trotz Regen dramatische Ausblicke auf den Atlantik, sofern Sie wasserfeste Kleidung tragen. Am Nachmittag laden die Alleen des Parks zu einem kurzen, erfrischenden Spaziergang ein. Der Abend endet an der Playa de la Costilla, wo die tosenden Wellen unter dem grauen Himmel besonders eindrucksvoll wirken.",
+            "hu": "Kezdje a napot Rota gyönyörű templomának védelmében. Délben a tengerparti sétányok az eső ellenére is drámai kilátást nyújtanak az Atlanti-óceánra, ha megfelelő vízálló öltözetet visel. Délután a park fasorai hívogatnak egy rövid, frissítő sétára. Az este a Playa de la Costilla partján zárul, ahol a morajló hullámok a szürke égbolt alatt különösen lenyűgöző látványt nyújtanak.",
+            "ro": "Începeți ziua la adăpost în biserica magnifică din Rota. La prânz, faleza oferă vederi dramatice ale Atlanticului în ciuda ploii, cu condiția să purtați haine impermeabile. După-amiaza, aleile parcului vă invită la o scurtă plimbare revigorantă. Seara se încheie la Playa de la Costilla, unde valurile înfuriate sub cerul gri oferă un spectacol impresionant.",
+            "en": "Start your day sheltered in Rota's magnificent church. At noon, the waterfront promenades offer dramatic views of the Atlantic despite the rain, provided you wear waterproof gear. In the afternoon, the park's avenues invite a short, refreshing stroll. The evening ends at Playa de la Costilla, where the crashing waves under the grey sky are particularly impressive."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de la O",
+                "hu": "Parroquia de Nuestra Señora de la O",
+                "ro": "Parroquia de Nuestra Señora de la O",
+                "en": "Parroquia de Nuestra Señora de la O"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für eine ausführliche Innenbesichtigung der gotischen Architektur und tragen Sie in den kühlen Steingemäuern eine leichte Jacke.",
+                "hu": "Használja ki az esőt a gótikus építészet részletes belső megtekintésére, és viseljen könnyű kabátot a hűvös kőfalak között.",
+                "ro": "Profită de ploaie pentru o vizită detaliată a arhitecturii gotice interioare și poartă o jachetă ușoară între zidurile reci de piatră.",
+                "en": "Use the rain as an opportunity for a detailed indoor tour of the Gothic architecture, and wear a light jacket inside the cool stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Rompidillo",
+                "hu": "Playa del Rompidillo",
+                "ro": "Playa del Rompidillo",
+                "en": "Playa del Rompidillo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf dem Meer vom befestigten Weg aus und achten Sie auf rutschige Stellen am Pflaster.",
+                "hu": "Figyelje az esőcseppek játékát a tengeren a kiépített sétányról, és ügyeljen a burkolat csúszós szakaszaira.",
+                "ro": "Observați jocul picăturilor de ploaie pe mare de pe promenada pavată și aveți grijă la porțiunile alunecoase ale pavajului.",
+                "en": "Watch the raindrops dancing on the sea from the paved promenade and be careful of slippery sections on the walkway."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Chorrillo",
+                "hu": "Playa del Chorrillo",
+                "ro": "Playa del Chorrillo",
+                "en": "Playa del Chorrillo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Wasser ist auch bei Regen belebend; halten Sie Ihren Schirm wegen der Meeresbrise besonders fest.",
+                "hu": "Egy rövid séta a vízparton esőben is frissítő; az erős tengeri szél miatt szorosan fogja az esernyőjét.",
+                "ro": "O scurtă plimbare pe malul mării este revigorantă chiar și pe ploaie; țineți bine umbrela din cauza brizelor marine puternice.",
+                "en": "A short walk by the water is invigorating even in the rain; hold your umbrella tightly due to the strong sea breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "Triunfo de la Virgen del Rosario Coronada",
+                "hu": "Triunfo de la Virgen del Rosario Coronada",
+                "ro": "Triunfo de la Virgen del Rosario Coronada",
+                "en": "Triunfo de la Virgen del Rosario Coronada"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal bietet einen Moment der Besinnung im Freien; suchen Sie danach schnell Schutz unter den Arkaden der nahen Gassen.",
+                "hu": "Ez az emlékmű alkalmat ad a szabadtéri elmélyülésre; utána keressen gyorsan menedéket a közeli utcák árkádjai alatt.",
+                "ro": "Acest monument oferă un moment de reflecție în aer liber; după vizită, căutați rapid adăpost sub arcadele străzilor din apropiere.",
+                "en": "This monument offers a moment of outdoor reflection; afterwards, quickly seek shelter under the arches of the nearby streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque El Mayeto",
+                "hu": "Parque El Mayeto",
+                "ro": "Parque El Mayeto",
+                "en": "Parque El Mayeto"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Bäume bieten natürlichen Schutz vor leichtem Nieselregen; nutzen Sie die befestigten Wege, um nasse Füße zu vermeiden.",
+                "hu": "A sűrű fák természetes védelmet nyújtanak az enyhe szemerkélő eső ellen; használja a kiépített utakat a lábak szárazon tartásához.",
+                "ro": "Copacii deși oferă protecție naturală împotriva ploii ușoare; folosiți potecile amenajate pentru a vă menține picioarele uscate.",
+                "en": "The dense trees provide natural protection against light drizzle; use the paved paths to keep your feet dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Costilla",
+                "hu": "Playa de la Costilla",
+                "ro": "Playa de la Costilla",
+                "en": "Playa de la Costilla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den stürmischen Ozean von einer überdachten Terrasse eines nahegelegenen Strandlokals aus.",
+                "hu": "Élvezze a viharos óceánra nyíló tágas kilátást egy közeli tengerparti vendéglátóhely fedett teraszáról.",
+                "ro": "Bucurați-vă de vederea panoramică asupra oceanului furtunos de pe terasa acoperită a unui local de pe plajă.",
+                "en": "Enjoy the expansive view of the stormy ocean from the covered terrace of a nearby beachfront establishment."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Rota ist mild, aber oft windig. Starten Sie vormittags in der Altstadt, wo die Gassen vor dem kalten Seewind schützen. Mittags wärmt die tiefstehende Sonne bei einem Strandspaziergang angenehm das Gesicht. Nutzen Sie den Nachmittag im Park, bevor die Dämmerung gegen 17:00 Uhr einsetzt. Den Abend verbringen Sie am besten in einem gemütlichen Restaurant, während draußen die kühle Meeresluft weht.",
+            "hu": "A tél Rotában enyhe, de gyakran szeles. Kezdje a délelőttöt az óvárosban, ahol a szűk utcák védenek a hideg tengeri széltől. Délben az alacsonyan járó nap kellemesen melengeti az arcát egy parti séta során. Használja ki a délutánt a parkban, mielőtt 17:00 körül leszáll az alkony. Az estét töltse egy barátságos étteremben, miközben kint a hűvös tengeri levegő fúj.",
+            "ro": "Iarna în Rota este blândă, dar adesea vântoasă. Începeți dimineața în orașul vechi, unde străzile înguste vă protejează de vântul rece marin. La prânz, soarele blând vă încălzește plăcut fața în timpul unei plimbări pe plajă. Profitați de după-amiază în parc înainte de amurgul de la ora 17:00. Seara este cel mai bine petrecută într-un restaurant primitor, în timp ce aerul rece de mare suflă afară.",
+            "en": "Winter in Rota is mild but often windy. Start your morning in the old town, where the narrow streets protect you from the cold sea wind. At noon, the low sun pleasantly warms your face during a beach walk. Make the most of the afternoon in the park before twilight sets in around 5:00 PM. Spend the evening in a cozy restaurant while the cool sea air blows outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de la O",
+                "hu": "Parroquia de Nuestra Señora de la O",
+                "ro": "Parroquia de Nuestra Señora de la O",
+                "en": "Parroquia de Nuestra Señora de la O"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine angenehme Stille; tragen Sie eine warme Schicht, da die historische Bausubstanz im Winter recht kühl sein kann.",
+                "hu": "A templom kellemes csendet áraszt; viseljen meleg réteget, mivel a történelmi épület falai télen meglehetősen hűvösek lehetnek.",
+                "ro": "Biserica oferă o liniște plăcută; purtați un strat cald de haine, deoarece structura istorică poate fi destul de rece iarna.",
+                "en": "The church offers a pleasant silence; wear a warm layer as the historic structure can be quite chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Rompidillo",
+                "hu": "Playa del Rompidillo",
+                "ro": "Playa del Rompidillo",
+                "en": "Playa del Rompidillo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft und die einsame Weite des Strandes; eine winddichte Jacke ist für den Aufenthalt am Ufer unerlässlich.",
+                "hu": "Élvezze a tiszta téli levegőt és a strand magányos tágasságát; egy szélálló kabát elengedhetetlen a parton tartózkodáshoz.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de întinderea solitară a plajei; o jachetă rezistentă la vânt este esențială pe mal.",
+                "en": "Enjoy the clear winter air and the solitary expanse of the beach; a windproof jacket is essential for staying on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Chorrillo",
+                "hu": "Playa del Chorrillo",
+                "ro": "Playa del Chorrillo",
+                "en": "Playa del Chorrillo"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne glitzert hier besonders schön auf dem Wasser; ideal für Fotos ohne die üblichen Touristenmassen des Sommers.",
+                "hu": "A téli nap itt különösen szépen csillog a vízen; ideális fotózáshoz a nyári turistatömeg nélkül.",
+                "ro": "Soarele de iarnă sclipește deosebit de frumos pe apă aici; ideal pentru fotografii fără mulțimile obișnuite de turiști din vară.",
+                "en": "The winter sun sparkles particularly beautifully on the water here; ideal for photos without the usual summer tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Triunfo de la Virgen del Rosario Coronada",
+                "hu": "Triunfo de la Virgen del Rosario Coronada",
+                "ro": "Triunfo de la Virgen del Rosario Coronada",
+                "en": "Triunfo de la Virgen del Rosario Coronada"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Denkmal am frühen Nachmittag, wenn das Licht am weichsten ist, und ziehen Sie sich für den Schatten warm an.",
+                "hu": "Látogassa meg ezt az emlékművet kora délután, amikor a leglágyabbak a fények, és öltözzön melegen az árnyékos részekre.",
+                "ro": "Vizitați acest monument după-amiaza devreme, când lumina este cea mai blândă, și îmbrăcați-vă bine pentru zonele umbrite.",
+                "en": "Visit this monument in the early afternoon when the light is softest, and dress warmly for the shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque El Mayeto",
+                "hu": "Parque El Mayeto",
+                "ro": "Parque El Mayeto",
+                "en": "Parque El Mayeto"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter ein friedlicher Rückzugsort; achten Sie auf die frühen Schatten der Bäume und planen Sie den Besuch vor 16:30 Uhr.",
+                "hu": "A park télen békés menedékhely; ügyeljen a fák korai árnyékára, és tervezze a látogatást 16:30 előttre.",
+                "ro": "Parcul este un refugiu liniștit iarna; atenție la umbrele timpurii ale copacilor și planificați vizita înainte de ora 16:30.",
+                "en": "The park is a peaceful retreat in winter; watch out for the early shadows of the trees and plan your visit before 4:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Costilla",
+                "hu": "Playa de la Costilla",
+                "ro": "Playa de la Costilla",
+                "en": "Playa de la Costilla"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Winter-Sonnenuntergang am Horizont und kehren Sie danach schnell in die wärmende Stadt zurück.",
+                "hu": "Élje át a látványos téli naplementét a horizonton, majd térjen vissza gyorsan a város melegítő fényei közé.",
+                "ro": "Experimentați apusul spectaculos de iarnă la orizont, apoi întoarceți-vă rapid în orașul primitor.",
+                "en": "Experience the spectacular winter sunset on the horizon, then return quickly to the warming atmosphere of the town."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Indítsa kerékpártúráját a festői kilátónál, majd tekerjen el a közeli strandra egy kis friss tengeri levegőért. Délben vegye az irányt a történelmi emlékmű és a park buja növényzete felé. A délutánt a helyi történelmet bemutató kulturális múzeumnak szentelje. Zárásként élvezze a lenyűgöző kilátást a fenyves erdő kilátójából.",
         "ro": "Începeți plimbarea cu bicicleta la punctul de belvedere pitoresc înainte de a pedala spre plaja din apropiere pentru aer proaspăt de mare. În jurul prânzului, mergeți spre monumentul istoric și verdeața luxuriantă a parcului. După-amiaza este rezervată muzeului cultural. Încheiați cu o priveliște uimitoare de la punctul de belvedere din pădurea de pini.",
         "en": "Kick off your ride at the scenic viewpoint before cycling to the nearby beach for some fresh sea air. Around midday, pedal towards the historical monument and the lush greenery of the park. Your afternoon is reserved for the cultural museum showcasing local history. Wrap up with stunning views at the pine forest viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenwegen von Rota. Vormittags bieten die Aussichtspunkte trotz Wolken eine mystische Atmosphäre. Mittags ist ein Stopp im Kulturzentrum ideal, um sich aufzuwärmen und das Fahrrad sicher abzustellen. Der Nachmittag führt durch die Pinienwälder, die bei Regen herrlich duften. Beenden Sie die Tour frühzeitig, bevor die Sichtverhältnisse schwieriger werden.",
+            "hu": "Az esőben tett kerékpártúra óvatosságot igényel Rota parti útjain. Délelőtt a kilátók a felhők ellenére misztikus hangulatot árasztanak. Délben érdemes megállni a kulturális központnál, hogy felmelegedjen és biztonságban leállítsa a biciklit. A délután a fenyőerdőkön át vezet, amelyek esőben csodás illatúak. Fejezze be a túrát időben, mielőtt a látási viszonyok romlanának.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe pistele de coastă din Rota. Dimineața, punctele de belvedere oferă o atmosferă mistică în ciuda norilor. La prânz, o oprire la centrul cultural este ideală pentru a vă încălzi și a lăsa bicicleta în siguranță. După-amiaza trece prin pădurile de pini care miros superb pe ploaie. Încheiați tura devreme, înainte ca vizibilitatea să scadă.",
+            "en": "A bike tour in the rain requires caution on Rota's coastal paths. In the morning, the viewpoints offer a mystical atmosphere despite the clouds. At noon, a stop at the cultural center is ideal to warm up and park your bike safely. The afternoon leads through the pine forests, which smell wonderful in the rain. Finish the tour early before visibility becomes more difficult."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Pico Barro",
+                "hu": "Mirador Pico Barro",
+                "ro": "Mirador Pico Barro",
+                "en": "Mirador Pico Barro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die graue See; achten Sie beim Absteigen vom Rad auf den durch Regen rutschigen Untergrund.",
+                "hu": "Élvezze a kilátást a szürke tengerre; a kerékpárról való leszálláskor ügyeljen az esőtől csúszós talajra.",
+                "ro": "Bucurați-vă de vederea asupra mării gri; aveți grijă la solul alunecos din cauza ploii când coborâți de pe bicicletă.",
+                "en": "Enjoy the view of the grey sea; be careful of the slippery ground caused by rain when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Galeones",
+                "hu": "Playa de Galeones",
+                "ro": "Playa de Galeones",
+                "en": "Playa de Galeones"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt für ein Foto der stürmischen Küste; tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit im Verkehr.",
+                "hu": "Egy rövid megálló a viharos part fotózásához; viseljen fényvisszaverő esőkabátot a jobb láthatóság érdekében a forgalomban.",
+                "ro": "O scurtă oprire pentru o fotografie a coastei furtunoase; purtați o pelerină de ploaie reflectorizantă pentru o mai bună vizibilitate.",
+                "en": "A short stop for a photo of the stormy coast; wear a high-visibility raincoat for better visibility in traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Triunfo de la Virgen del Rosario Coronada",
+                "hu": "Triunfo de la Virgen del Rosario Coronada",
+                "ro": "Triunfo de la Virgen del Rosario Coronada",
+                "en": "Triunfo de la Virgen del Rosario Coronada"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz inne und prüfen Sie Ihre Bremsen, da Nässe den Bremsweg Ihres Rades erheblich verlängern kann.",
+                "hu": "Álljon meg egy pillanatra és ellenőrizze a fékeket, mivel a nedvesség jelentősen meghosszabbíthatja a féktávot.",
+                "ro": "Opriți-vă pentru un moment și verificați frânele, deoarece umiditatea poate prelungi considerabil distanța de frânare.",
+                "en": "Pause for a moment and check your brakes, as wetness can significantly increase your bike's stopping distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque El Mayeto",
+                "hu": "Parque El Mayeto",
+                "ro": "Parque El Mayeto",
+                "en": "Parque El Mayeto"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Parkwege als Abkürzung im Regen; fahren Sie langsam in Kurven, um seitliches Wegrutschen zu vermeiden.",
+                "hu": "Használja a park kiépített útjait rövidítésként az esőben; a kanyarokban hajtson lassan az oldalirányú megcsúszás elkerülésére.",
+                "ro": "Folosiți aleile pavate ale parcului ca scurtătură pe ploaie; rulați încet în curbe pentru a evita derapajele laterale.",
+                "en": "Use the paved park paths as a shortcut in the rain; ride slowly in curves to avoid sideways slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Espacio Cultural Hispano Norteamericano de Rota",
+                "hu": "Espacio Cultural Hispano Norteamericano de Rota",
+                "ro": "Espacio Cultural Hispano Norteamericano de Rota",
+                "en": "Espacio Cultural Hispano Norteamericano de Rota"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um das Rad zu parken und im Trockenen mehr über die lokale Geschichte und die US-Basis zu erfahren.",
+                "hu": "Tökéletes hely a bicikli leállítására, és hogy szárazon tudjon meg többet a helyi történelemről és az amerikai bázisról.",
+                "ro": "Locul perfect pentru a parca bicicleta și a afla mai multe despre istoria locală și baza americană la adăpost.",
+                "en": "The perfect place to park your bike and learn more about local history and the US base while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Pinares de Rota",
+                "hu": "Mirador Pinares de Rota",
+                "ro": "Mirador Pinares de Rota",
+                "en": "Mirador Pinares de Rota"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die Bucht von Cádiz ist bei Regen oft wolkenverhangen; tragen Sie wasserfeste Handschuhe für einen festen Griff am Lenker.",
+                "hu": "A Cádizi-öbölre nyíló kilátás esőben gyakran felhős; viseljen vízálló kesztyűt a kormány biztos fogása érdekében.",
+                "ro": "Vederea spre Golful Cádiz este adesea noroasă pe ploaie; purtați mănuși impermeabile pentru o aderență sigură pe ghidon.",
+                "en": "The view of the Bay of Cádiz is often clouded over in the rain; wear waterproof gloves for a secure grip on the handlebars."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Rota ist dank der milden Temperaturen sehr angenehm. Vormittags weht eine frische Brise an den Küstenwegen, ideal für eine zügige Fahrt. Mittags steht die Sonne am höchsten und lädt zu einer Pause im Park ein. Nachmittags sollten Sie das kulturelle Zentrum besuchen, bevor es draußen kühl wird. Beenden Sie die Fahrt vor Sonnenuntergang um 17:00 Uhr, um nicht in der Kälte radeln zu müssen.",
+            "hu": "A téli kerékpártúra Rotában a mérsékelt hőmérsékletnek köszönhetően nagyon kellemes. Délelőtt friss szellő fúj a parti utakon, ami ideális a tempós haladáshoz. Délben a nap magasan jár, és pihenésre hívogat a parkban. Délután érdemes meglátogatni a kulturális központot, mielőtt kint lehűlne az idő. Fejezze be a tekerést a 17:00-s naplemente előtt, hogy ne a hidegben kelljen tekernie.",
+            "ro": "O tură cu bicicleta iarna în Rota este foarte plăcută datorită temperaturilor blânde. Dimineața, o briză proaspătă suflă pe pistele de coastă, ideală pentru o rulare rapidă. La prânz, soarele este sus și invită la o pauză în parc. După-amiaza vizitați centrul cultural înainte de a se lăsa frigul. Încheiați tura înainte de apusul de la ora 17:00 pentru a nu pedala în frig.",
+            "en": "A winter bike tour in Rota is very pleasant thanks to the mild temperatures. In the morning, a fresh breeze blows on the coastal paths, ideal for a brisk ride. At noon, the sun is at its highest, inviting a break in the park. In the afternoon, visit the cultural center before it gets chilly outside. Finish your ride before sunset at 5:00 PM to avoid cycling in the cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Pico Barro",
+                "hu": "Mirador Pico Barro",
+                "ro": "Mirador Pico Barro",
+                "en": "Mirador Pico Barro"
+              },
+              "tip_5lang": {
+                "de": "Die klare Sicht im Winter erlaubt weite Blicke; schützen Sie Ohren und Hände vor dem kühlen Fahrtwind auf dem Weg zum Aussichtspunkt.",
+                "hu": "A tiszta téli látási viszonyok távoli kilátást engednek; védje fülét és kezét a hűvös menetszéltől a kilátóhoz vezető úton.",
+                "ro": "Vizibilitatea clară de iarnă permite vederi la distanță; protejați-vă urechile și mâinile de vântul rece în drum spre punctul de belvedere.",
+                "en": "Clear winter visibility allows for far-reaching views; protect your ears and hands from the cool wind on the way to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Galeones",
+                "hu": "Playa de Galeones",
+                "ro": "Playa de Galeones",
+                "en": "Playa de Galeones"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; nutzen Sie das helle Mittagslicht für beeindruckende Landschaftsaufnahmen direkt vom Radweg aus.",
+                "hu": "A strand télen szinte néptelen; használja ki a ragyogó déli fényt a lenyűgöző tájképekhez közvetlenül a kerékpárútról.",
+                "ro": "Plaja este aproape pustie iarna; profitați de lumina strălucitoare de la prânz pentru fotografii superbe direct de pe pista de biciclete.",
+                "en": "The beach is almost deserted in winter; take advantage of the bright midday light for impressive landscape shots directly from the bike path."
+              }
+            },
+            {
+              "name": {
+                "de": "Triunfo de la Virgen del Rosario Coronada",
+                "hu": "Triunfo de la Virgen del Rosario Coronada",
+                "ro": "Triunfo de la Virgen del Rosario Coronada",
+                "en": "Triunfo de la Virgen del Rosario Coronada"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause und genießen Sie die Sonne; tragen Sie mehrere Schichten Kleidung, um flexibel auf wechselnde Temperaturen zu reagieren.",
+                "hu": "Tartson egy rövid szünetet és élvezze a napsütést; viseljen több réteg ruhát, hogy rugalmasan alkalmazkodjon a változó hőmérséklethez.",
+                "ro": "Faceți o scurtă pauză și bucurați-vă de soare; purtați mai multe straturi de haine pentru a vă adapta la temperaturile schimbătoare.",
+                "en": "Take a short break and enjoy the sun; wear multiple layers of clothing to flexibly respond to changing temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque El Mayeto",
+                "hu": "Parque El Mayeto",
+                "ro": "Parque El Mayeto",
+                "en": "Parque El Mayeto"
+              },
+              "tip_5lang": {
+                "de": "Die Wege sind trocken und gut befahrbar; nutzen Sie den Halt im Park, um einen heißen Tee aus Ihrer Thermosflasche zu trinken.",
+                "hu": "Az utak szárazak és jól járhatóak; használja ki a parki megállót, hogy igyon egy forró teát a termoszából.",
+                "ro": "Drumurile sunt uscate și ușor de parcurs; profitați de oprirea în parc pentru a bea un ceai fierbinte din termos.",
+                "en": "The paths are dry and easy to ride; use the stop in the park to drink some hot tea from your thermos."
+              }
+            },
+            {
+              "name": {
+                "de": "Espacio Cultural Hispano Norteamericano de Rota",
+                "hu": "Espacio Cultural Hispano Norteamericano de Rota",
+                "ro": "Espacio Cultural Hispano Norteamericano de Rota",
+                "en": "Espacio Cultural Hispano Norteamericano de Rota"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Ausstellung auf; planen Sie etwa eine Stunde ein, um die informativen Displays in Ruhe zu besichtigen.",
+                "hu": "Melegedjen fel a kiállításon; tervezzen be körülbelül egy órát, hogy nyugodtan megtekintse az informatív tárlatokat.",
+                "ro": "Încălziți-vă în cadrul expoziției; planificați aproximativ o oră pentru a vizita în liniște ecranele informative.",
+                "en": "Warm up inside the exhibition; plan for about an hour to view the informative displays in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Pinares de Rota",
+                "hu": "Mirador Pinares de Rota",
+                "ro": "Mirador Pinares de Rota",
+                "en": "Mirador Pinares de Rota"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um das Ende der Tour bei Sonnenuntergang zu erleben; achten Sie darauf, dass Ihr Fahrradlicht für den Rückweg funktioniert.",
+                "hu": "Tökéletes hely a túra befejezéséhez naplementekor; ügyeljen rá, hogy a kerékpárlámpa működjön a hazaúthoz.",
+                "ro": "Un loc perfect pentru a încheia tura la apus; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
+                "en": "A perfect spot to end the tour at sunset; make sure your bike lights are working for the journey back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Vezessen a történelmi plébániához egy békés reggeli kezdésért, majd induljon egyenesen a fő strandra. Élvezze a déli pihenőt a központi park sétányain. A délután egy lenyűgöző közeli kulturális kiállításhoz vezeti. Autós túráját a helyi fenyves kilátóknál és strandoknál található természetes tengerparti táj megcsodálásával fejezze be.",
         "ro": "Conduceți la parohia istorică pentru un început de dimineață liniștit, apoi mergeți direct la plaja principală. Bucurați-vă de o pauză la prânz plimbându-vă pe aleile parcului central. După-amiaza vă poartă la o expoziție culturală fascinantă. Încheiați-vă turul auto admirând peisajul natural de coastă de la punctele de belvedere cu pini și plajele locale.",
         "en": "Drive to the historic parish for a peaceful morning start, then head straight to the main beach. Enjoy a midday break strolling through the central park's walking paths. The afternoon takes you to an fascinating cultural exhibition nearby. Finish your driving tour by taking in the natural coastal scenery at the local pine viewpoints and beaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Rota bei Regen komfortabel und trocken. Vormittags führt die Fahrt zur historischen Kirche, wo Parkplätze in der Nähe den Fußweg minimieren. Mittags bietet die Küstenstraße wunderbare Ausblicke aus dem Autofenster. Der Nachmittag im Kulturzentrum ist ideal, um dem Wetter zu entfliehen. Abends können Sie den beleuchteten Hafen von einem warmen Innenraum aus genießen.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Rotát esőben is. Délelőtt az út a történelmi templomhoz vezet, ahol a közeli parkolók minimalizálják a gyaloglást. Délben a parti út csodás kilátást nyújt az autóablakból. A délután a kulturális központban ideális az időjárás elől való menekülésre. Este a kivilágított kikötőt élvezheti egy meleg belső térből.",
+            "ro": "Cu mașina, explorați Rota confortabil și uscat chiar și pe ploaie. Dimineața, drumul duce la biserica istorică, unde parcările din apropiere reduc mersul pe jos. La prânz, drumul de coastă oferă vederi superbe de la geamul mașinii. După-amiaza la centrul cultural este ideală pentru a scăpa de vremea rea. Seara, vă puteți bucura de portul iluminat dintr-un interior cald.",
+            "en": "By car, you can explore Rota comfortably and dryly even in the rain. In the morning, the drive leads to the historic church, where nearby parking minimizes walking. At noon, the coastal road offers wonderful views from the car window. The afternoon at the cultural center is ideal for escaping the weather. In the evening, you can enjoy the illuminated harbor from a warm interior."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de la O",
+                "hu": "Parroquia de Nuestra Señora de la O",
+                "ro": "Parroquia de Nuestra Señora de la O",
+                "en": "Parroquia de Nuestra Señora de la O"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich, um den Regen zu meiden, und nehmen Sie sich Zeit, die sakralen Details im Inneren der Kirche zu bestaunen.",
+                "hu": "Parkoljon a lehető legközelebb az eső elkerüléséhez, és szánjon időt a templom belső szakrális részleteinek megcsodálására.",
+                "ro": "Parcați cât mai aproape pentru a evita ploaia și acordați-vă timp pentru a admira detaliile sacre din interiorul bisericii.",
+                "en": "Park as close as possible to avoid the rain, and take your time to admire the sacred details inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Costilla",
+                "hu": "Playa de la Costilla",
+                "ro": "Playa de la Costilla",
+                "en": "Playa de la Costilla"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Regen über dem Meer direkt aus Ihrem warmen Auto am Parkplatz der Promenade.",
+                "hu": "Élvezze a tenger feletti eső látványát közvetlenül a meleg autóból a sétány melletti parkolóból.",
+                "ro": "Bucurați-vă de vederea ploii deasupra mării direct din mașina caldă, în parcarea de lângă faleză.",
+                "en": "Enjoy the view of the rain over the sea directly from your warm car at the promenade parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque El Mayeto",
+                "hu": "Parque El Mayeto",
+                "ro": "Parque El Mayeto",
+                "en": "Parque El Mayeto"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, regengeschützter Stopp; prüfen Sie die Scheibenwischer, da die Sicht bei starkem Regen in den baumreichen Zonen eingeschränkt sein kann.",
+                "hu": "Egy rövid, esőtől védett megálló; ellenőrizze az ablaktörlőket, mert a látási viszonyok korlátozottak lehetnek a fás területeken.",
+                "ro": "O scurtă oprire protejată de ploaie; verificați ștergătoarele, deoarece vizibilitatea poate fi limitată în zonele cu mulți copaci.",
+                "en": "A short stop protected from the rain; check your wipers as visibility can be limited in the heavily wooded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Espacio Cultural Hispano Norteamericano de Rota",
+                "hu": "Espacio Cultural Hispano Norteamericano de Rota",
+                "ro": "Espacio Cultural Hispano Norteamericano de Rota",
+                "en": "Espacio Cultural Hispano Norteamericano de Rota"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum als trockene Kulturpause; in der Nähe gibt es ausreichend Parkplätze für einen unkomplizierten Besuch.",
+                "hu": "Használja a múzeumot száraz kulturális szünetként; a közelben bőséges parkolóhely áll rendelkezésre a könnyű látogatáshoz.",
+                "ro": "Folosiți muzeul ca o pauză culturală la uscat; în apropiere există locuri de parcare suficiente pentru o vizită ușoară.",
+                "en": "Use the museum as a dry cultural break; there are plenty of parking spaces nearby for a straightforward visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Pinares de Rota",
+                "hu": "Mirador Pinares de Rota",
+                "ro": "Mirador Pinares de Rota",
+                "en": "Mirador Pinares de Rota"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Pinien im Regen ist sehr beruhigend; bleiben Sie im Wagen und lassen Sie die Szenerie bei laufender Heizung auf sich wirken.",
+                "hu": "A fenyők látványa az esőben nagyon megnyugtató; maradjon a kocsiban, és élvezze a látványt a fűtés mellett.",
+                "ro": "Vederea pinilor în ploaie este foarte relaxantă; rămâneți în mașină și bucurați-vă de peisaj cu căldura pornită.",
+                "en": "The view of the pines in the rain is very soothing; stay in the car and enjoy the scenery with the heater running."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Puntalillo",
+                "hu": "Playa de Puntalillo",
+                "ro": "Playa de Puntalillo",
+                "en": "Playa de Puntalillo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Meeresgischt aus sicherer Entfernung; achten Sie auf Pfützen und schlechte Bodenhaftung auf den Parkflächen.",
+                "hu": "Figyelje a tenger habzását biztonságos távolságból; ügyeljen a tócsákra és a rosszabb tapadásra a parkolóhelyeken.",
+                "ro": "Observați spuma mării de la o distanță sigură; atenție la bălți și la aderența scăzută în zonele de parcare.",
+                "en": "Watch the sea spray from a safe distance; watch out for puddles and poor traction in the parking areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt durch Rota offenbart die ruhige Seite der Stadt. Vormittags wärmt die Sonne den Innenraum Ihres Wagens bei der Fahrt zur Kirche. Mittags ist der Strandbesuch belebend, da das Auto jederzeit einen warmen Rückzugsort bietet. Der Nachmittag im Kulturzentrum ist informativ und gemütlich. Planen Sie Ihre letzte Station am Mirador vor 17:00 Uhr, um den klaren Winterhimmel im Abendrot zu sehen.",
+            "hu": "A téli autózás Rotában feltárja a város nyugodt arcát. Délelőtt a nap melengeti az autó belterét a templomhoz vezető úton. Délben a strandlátogatás frissítő, hiszen az autó bármikor meleg menedéket nyújt. A délután a kulturális központban informatív és kényelmes. Tervezze az utolsó megállót a kilátónál 17:00 előtt, hogy lássa a tiszta téli eget az alkonyatban.",
+            "ro": "Călătoria de iarnă prin Rota dezvăluie latura liniștită a orașului. Dimineața, soarele încălzește interiorul mașinii în drum spre biserică. La prânz, vizita la plajă este revigorantă, deoarece mașina oferă un refugiu cald oricând. După-amiaza la centrul cultural este informativă și confortabilă. Planificați ultima oprire la belvedere înainte de ora 17:00 pentru a vedea cerul clar de iarnă la apus.",
+            "en": "A winter drive through Rota reveals the quiet side of the town. In the morning, the sun warms the interior of your car on the way to the church. At noon, a beach visit is invigorating, as the car provides a warm retreat at any time. The afternoon at the cultural center is informative and comfortable. Plan your last stop at the viewpoint before 5:00 PM to see the clear winter sky at sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parroquia de Nuestra Señora de la O",
+                "hu": "Parroquia de Nuestra Señora de la O",
+                "ro": "Parroquia de Nuestra Señora de la O",
+                "en": "Parroquia de Nuestra Señora de la O"
+              },
+              "tip_5lang": {
+                "de": "Das milde Winterlicht setzt die Fassade perfekt in Szene; achten Sie darauf, den Motor nicht unnötig laufen zu lassen, während Sie parken.",
+                "hu": "A lágy téli fény tökéletesen megvilágítja a homlokzatot; ügyeljen rá, hogy ne járassa feleslegesen a motort várakozás közben.",
+                "ro": "Lumina blândă de iarnă pune în valoare perfect fațada; aveți grijă să nu lăsați motorul pornit inutil în timp ce parcați.",
+                "en": "The mild winter light highlights the facade perfectly; be careful not to leave the engine running unnecessarily while parked."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Costilla",
+                "hu": "Playa de la Costilla",
+                "ro": "Playa de la Costilla",
+                "en": "Playa de la Costilla"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Strandspaziergang ist auch im Winter schön; legen Sie sich eine Decke ins Auto, um sich danach schnell wieder aufzuwärmen.",
+                "hu": "Egy rövid parti séta télen is szép; tegyen egy pokrócot az autóba, hogy utána gyorsan fel tudjon melegedni.",
+                "ro": "O scurtă plimbare pe plajă este frumoasă și iarna; puneți o pătură în mașină pentru a vă încălzi rapid după aceea.",
+                "en": "A short beach walk is beautiful even in winter; keep a blanket in the car to warm up quickly afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque El Mayeto",
+                "hu": "Parque El Mayeto",
+                "ro": "Parque El Mayeto",
+                "en": "Parque El Mayeto"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille des Parks im Winter; die tiefstehende Sonne sorgt für lange, fotogene Schatten auf den Wegen.",
+                "hu": "Élvezze a park csendjét télen; az alacsonyan járó nap hosszú, fotogén árnyékokat vet az utakra.",
+                "ro": "Bucurați-vă de liniștea parcului iarna; soarele care apune creează umbre lungi și fotogenice pe alei.",
+                "en": "Enjoy the silence of the park in winter; the low sun creates long, photogenic shadows on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Espacio Cultural Hispano Norteamericano de Rota",
+                "hu": "Espacio Cultural Hispano Norteamericano de Rota",
+                "ro": "Espacio Cultural Hispano Norteamericano de Rota",
+                "en": "Espacio Cultural Hispano Norteamericano de Rota"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klimatisierten Innenraum für eine Pause von der kühlen Seeluft und entdecken Sie die Geschichte der Region.",
+                "hu": "Használja a klimatizált belső teret a hűvös tengeri levegő utáni pihenésre, és fedezze fel a régió történelmét.",
+                "ro": "Folosiți interiorul climatizat pentru o pauză de la aerul rece de mare și descoperiți istoria regiunii.",
+                "en": "Use the climate-controlled interior for a break from the cool sea air and discover the history of the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador Pinares de Rota",
+                "hu": "Mirador Pinares de Rota",
+                "ro": "Mirador Pinares de Rota",
+                "en": "Mirador Pinares de Rota"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Punkt für den Sonnenuntergang; prüfen Sie die Lichtverhältnisse und machen Sie Ihre Fotos, bevor es um 17:15 Uhr dunkel ist.",
+                "hu": "Ideális pont a naplementéhez; ellenőrizze a fényviszonyokat, és készítse el a fotókat, mielőtt 17:15-kor besötétedik.",
+                "ro": "Punctul ideal pentru apus; verificați condițiile de lumină și faceți fotografii înainte de a se întuneca la ora 17:15.",
+                "en": "The ideal spot for the sunset; check the light conditions and take your photos before it gets dark at 5:15 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Puntalillo",
+                "hu": "Playa de Puntalillo",
+                "ro": "Playa de Puntalillo",
+                "en": "Playa de Puntalillo"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Tag mit Blick auf das ruhige Wintermeer ausklingen; im Auto bleibt es dabei angenehm warm und windgeschützt.",
+                "hu": "Zárja a napot a nyugodt téli tenger látványával; az autóban közben kellemesen meleg és szélvédett marad.",
+                "ro": "Încheiați ziua cu vederea mării liniștite de iarnă; în mașină rămâne plăcut de cald și sunteți protejat de vânt.",
+                "en": "End the day with a view of the calm winter sea; it stays pleasantly warm and wind-protected inside the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

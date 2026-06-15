@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Notre-Dame templom építészeti szépségeinek felfedezésével, majd irány a Micro Folie digitális világa. A délben a családbarát Hamac területén pihenhet egyet. A délután a Borne médiévale de la Jéraphie felfedezésének van szentelve, amely a helyi történelem hiteles darabja. Sétáljon el az esti órák közeledtével a bájos Château de la Clairière kastélyhoz, amivel tökéletesen zárhatja a napot.",
         "ro": "Începeți dimineața aprofundând frumusețea arhitecturală a bisericii Notre-Dame înainte de a explora minunile digitale de la Micro Folie. La amiază, relaxați-vă în zona prietenoasă Hamac. După-amiaza este dedicată descoperirii bornei medievale de la Jéraphie, o bucată autentică de istorie locală. Încheiați-vă plimbarea cu o vizită la fermecătorul Château de la Clairière odată cu lăsarea serii.",
         "en": "Start your morning delving into the architectural beauty of Notre-Dame Church before exploring the digital wonders at Micro Folie. Midday brings you to the family-friendly Hamac area for a relaxing break and a quick lunch. The afternoon is dedicated to discovering the Borne médiévale de la Jéraphie, an authentic piece of local history. Conclude your walking journey with a pleasant stroll to the charming Château de la Clairière as evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der imposanten Notre-Dame Kirche, um dem Regen zu entkommen. Mittags bietet das digitale Museum Micro Folie ein völlig trockenes kulturelles Erlebnis. Spazieren Sie nachmittags vorsichtig mit dem Regenschirm zum historischen Grenzstein. Beenden Sie den regnerischen Tag am Château de la Clairière und suchen Sie sich rechtzeitig einen trockenen Unterstand.",
+            "hu": "Kezdje a reggelt a lenyűgöző Notre-Dame templomban, menedéket lelve az eső elől. Délben a Micro Folie múzeum tökéletesen száraz, beltéri kulturális élményt nyújt. Délután óvatosan sétáljon esernyővel a határkőhöz, mert az út csúszós. Fejezze be a nedves napot a Château de la Clairière kastélynál, és keressen fedett helyet a záporok idejére.",
+            "ro": "Începeți dimineața la impresionanta biserică Notre-Dame pentru a scăpa de ploaie. La prânz, muzeul Micro Folie oferă un sanctuar cultural interior perfect uscat. După-amiaza, mergeți cu atenție cu umbrela spre borna istorică, deoarece potecile sunt alunecoase. Încheiați ziua umedă la Château de la Clairière, adăpostindu-vă de aversă.",
+            "en": "Start your morning at the impressive Notre-Dame church to escape the rain. At noon, the Micro Folie digital museum offers a perfectly dry indoor cultural sanctuary. In the afternoon, walk cautiously with your umbrella to the historic boundary stone as paths get slippery. Finish your wet day at the Château de la Clairière, seeking shelter if the heavy downpour continues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die robuste Granitarchitektur und die schönen Buntglasfenster, während Sie in diesem friedlichen Heiligtum während der Regenschauer völlig trocken bleiben.",
+                "hu": "Csodálja meg a robusztus gránit építészetet és az ólomüveg ablakokat, miközben teljesen szárazon marad ebben a békés szentélyben a kinti heves esőzések során.",
+                "ro": "Admirați arhitectura robustă din granit și frumoasele vitralii, rămânând complet uscat în acest sanctuar liniștit în timpul ploilor torențiale de afară.",
+                "en": "Admire the robust granite architecture and beautiful stained glass windows while staying completely dry inside this peaceful sanctuary during the heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Micro Folie",
+                "hu": "Micro Folie",
+                "ro": "Micro Folie",
+                "en": "Micro Folie"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die interaktiven digitalen Kunstsammlungen im Innenbereich; dies ist ein perfekter und warmer Zufluchtsort, um dem anhaltenden Nieselregen draußen zu entkommen.",
+                "hu": "Fedezze fel az interaktív digitális művészeti gyűjteményeket beltéren; ez egy tökéletes és meleg menedék, hogy elkerülje a kinti tartós és kellemetlen szitáló esőt.",
+                "ro": "Explorați colecțiile interactive de artă digitală în interior; acesta este un sanctuar perfect și cald pentru a scăpa de burnița persistentă și neplăcută de afară.",
+                "en": "Explore the interactive digital art collections indoors; this is a perfect and warm sanctuary to fully escape the persistent and unpleasant drizzle happening outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Hamac",
+                "hu": "Hamac",
+                "ro": "Hamac",
+                "en": "Hamac"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die geschützten Familienaktivitäten an diesem Ort, aber tragen Sie gute wasserdichte Schuhe für den kurzen, nassen Spaziergang zwischen den verschiedenen Gebäuden.",
+                "hu": "Élvezze a fedett családi tevékenységeket ezen a helyen, de mindenképpen viseljen jó vízálló cipőt az épületek közötti rövid, de nagyon nedves és saras sétához.",
+                "ro": "Bucurați-vă de activitățile de familie la adăpost aici, dar asigurați-vă că purtați încălțăminte impermeabilă bună pentru scurta plimbare umedă dintre locații.",
+                "en": "Enjoy the sheltered family activities at this venue, but make sure to wear good waterproof shoes for the short but very wet walk between the different building areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterlicher Grenzstein von Jéraphie",
+                "hu": "Jéraphie középkori határkő",
+                "ro": "Borna medievală de la Jéraphie",
+                "en": "Medieval Boundary Stone of Jéraphie"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie diese historische Granitmarkierung, aber treten Sie sehr vorsichtig auf, da der umgebende grasbewachsene Weg im Regen extrem schlammig und rutschig wird.",
+                "hu": "Figyelje meg ezt a történelmi gránit jelzőkövet, de lépjen nagyon óvatosan, mivel a környező füves ösvény rendkívül sarassá és csúszóssá válik az esőben.",
+                "ro": "Observați acest marcaj istoric din granit, dar pășiți cu mare atenție, deoarece cărarea cu iarbă din jur devine extrem de noroioasă și alunecoasă în ploaie.",
+                "en": "Observe this historic granite marker, but step very carefully as the surrounding grassy path becomes extremely muddy, soft, and slippery during continuous rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Clairière",
+                "hu": "Château de la Clairière",
+                "ro": "Château de la Clairière",
+                "en": "Château de la Clairière"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die elegante Fassade des Schlosses; tragen Sie einen großen, stabilen Regenschirm, während Sie das Gelände während der Nachmittagsschauer erkunden.",
+                "hu": "Fedezze fel a kastély elegáns homlokzatát; mindenképpen vigyen magával egy nagy, masszív esernyőt, miközben a délutáni záporok idején felfedezi a csodás birtokot.",
+                "ro": "Descoperiți fațada elegantă a castelului; purtați o umbrelă mare și robustă în timp ce explorați domeniul în timpul ploilor torențiale de după-amiază.",
+                "en": "Discover the elegant facade of the castle; make sure to carry a large, sturdy umbrella as you explore the beautiful estate grounds during the afternoon showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie in der alten Notre-Dame Kirche, wo die kalte Winterluft den mittelalterlichen Charme verstärkt. Wärmen Sie sich mittags im Museum Micro Folie auf. Ziehen Sie sich nachmittags für den Spaziergang zum Grenzstein in der klaren, frostigen Luft warm an. Beenden Sie Ihren Tag am Château de la Clairière frühzeitig, bevor die Sonne gegen 17:00 Uhr untergeht.",
+            "hu": "Kezdje a napot az ősi Notre-Dame templomban, ahol a hideg téli levegő fokozza a középkori hangulatot. Délben melegedjen fel a Micro Folie múzeumban. Délután öltözzön fel rétegesen a határkőhöz vezető sétához a fagyos levegőn. Fejezze be a napot a Château de la Clairière-nél, még a korai, 17:00 óra körüli naplemente előtt.",
+            "ro": "Începeți la vechea biserică Notre-Dame, unde aerul rece de iarnă adaugă farmec medieval. Încălziți-vă la prânz la muzeul Micro Folie. După-amiaza, îmbrăcați-vă gros pentru plimbarea spre borna istorică în aerul înghețat. Încheiați ziua devreme la Château de la Clairière, înainte ca soarele să apună în jurul orei 17:00.",
+            "en": "Begin at the ancient Notre-Dame church, where the cold winter air adds to its medieval charm. Warm up at noon inside the Micro Folie museum. In the afternoon, bundle up in heavy layers for the crisp walk to the boundary stone. End your day early at Château de la Clairière before the early winter sunset around 5:00 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das historische Kirchenschiff ein, um die Details zu bewundern, aber tragen Sie einen dicken Mantel, da alte Steinkirchen im Winter sehr kalt sein können.",
+                "hu": "Lépjen be a történelmi hajóba, hogy megcsodálja a részleteket, de viseljen vastag kabátot, mivel az ősi kőtemplomok télen rendkívül hidegek és huzatosak tudnak lenni.",
+                "ro": "Pășiți în naosul istoric pentru a admira detaliile, dar purtați o haină groasă, deoarece bisericile vechi din piatră pot fi foarte friguroase în timpul iernii.",
+                "en": "Step inside the historic nave to admire its details, but wear a thick winter coat as ancient stone churches can be quite chilly and drafty during the colder months."
+              }
+            },
+            {
+              "name": {
+                "de": "Micro Folie",
+                "hu": "Micro Folie",
+                "ro": "Micro Folie",
+                "en": "Micro Folie"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit, um die faszinierenden digitalen Meisterwerke in diesem gut beheizten Innenraum zu erkunden und Ihre frierenden Finger richtig aufzuwärmen.",
+                "hu": "Szánjon rá időt, hogy felfedezze a lenyűgöző digitális remekműveket ebben a jól fűtött beltéri térben, hogy alaposan felmelegítse a kint átfagyott ujjait.",
+                "ro": "Acordați-vă timp pentru a explora capodoperele digitale fascinante în acest spațiu interior bine încălzit, pentru a vă încălzi complet degetele înghețate.",
+                "en": "Take your time exploring the fascinating digital masterpieces in this well-heated indoor space to completely warm up your freezing fingers from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Hamac",
+                "hu": "Hamac",
+                "ro": "Hamac",
+                "en": "Hamac"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen warmen Schal mit, wenn Sie die familienfreundlichen Räume genießen, und behalten Sie die frostige Winterumgebung während Ihres Besuchs im Auge.",
+                "hu": "Hozzon magával egy meleg sálat, amikor élvezi a családbarát tereket, és gyönyörködjön a zúzmarás, fagyos téli környezetben a látogatása során.",
+                "ro": "Aduceți un fular cald în timp ce vă bucurați de spațiile pentru familie, admirând mediul înconjurător înghețat de iarnă în timpul vizitei dumneavoastră.",
+                "en": "Bring a warm scarf as you enjoy the family-friendly spaces, keeping an eye on the beautiful, frosty winter surroundings through the windows during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterlicher Grenzstein von Jéraphie",
+                "hu": "Jéraphie középkori határkő",
+                "ro": "Borna medievală de la Jéraphie",
+                "en": "Medieval Boundary Stone of Jéraphie"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto von dieser alten Markierung in der klaren Winterluft; achten Sie auf gefährliche Eisflächen auf dem unebenen, gefrorenen Boden.",
+                "hu": "Készítsen egy gyors fotót erről az ősi jelzőkőről a csípős téli levegőben; ügyeljen a veszélyes jégfoltokra az egyenetlen, keményre fagyott talajon.",
+                "ro": "Faceți o fotografie rapidă a acestui marcaj antic în aerul rece de iarnă; atenție la petele periculoase de gheață de pe pământul denivelat și înghețat.",
+                "en": "Take a quick photo of this ancient marker in the crisp winter air; watch out for potentially dangerous patches of ice on the uneven, solidly frozen ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Clairière",
+                "hu": "Château de la Clairière",
+                "ro": "Château de la Clairière",
+                "en": "Château de la Clairière"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Äußere vor der Dämmerung; die tiefstehende Wintersonne erzeugt lange Schatten, aber Sie benötigen dicke Handschuhe für die abendliche Kälte.",
+                "hu": "Fedezze fel a külteret még szürkület előtt; az alacsonyan járó téli nap hosszú árnyékokat vet, de vastag kesztyűre lesz szüksége az esti metsző hideg ellen.",
+                "ro": "Explorați exteriorul înainte de amurg; soarele de iarnă creează umbre lungi, dar veți avea nevoie de mănuși groase pentru frigul care se lasă seara.",
+                "en": "Explore the grand exterior before dusk; the low winter sun creates long shadows, but you will definitely need thick gloves to combat the dropping evening temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja a fenséges Bridiers-toronynál kezdődik, ahonnan remek kilátás nyílik, majd a szomszédos kastélyromokat tekintheti meg. Délben tekerjen a központba, hogy megcsodálja a Notre-Dame templomot és a Micro Folie kiállításait. Délután látogasson el az ősi Borne médiévale de la Jéraphie határkőhöz. Az esti célpont ezen az izgalmas útvonalon az elegáns Château de la Clairière lesz.",
         "ro": "Aventura dumneavoastră pe bicicletă începe la maiestuosul Turn Bridiers, urmat de o scurtă privire asupra ruinelor castelului adiacent. La prânz, mergeți spre centru pentru a admira Biserica Notre-Dame și a vizita Micro Folie. După-amiaza, pedalați către străvechea bornă medievală de la Jéraphie. Destinația finală a serii este elegantul Château de la Clairière, perfect pentru a încheia ziua cu stil.",
         "en": "Your cycling adventure begins at the majestic Bridiers Tower, offering a commanding morning view, followed by a quick look at the adjacent Château ruins. Ride into the center midday to admire the historic Notre-Dame Church and enjoy the interactive exhibits at Micro Folie. In the afternoon, pedal your way to the ancient Borne médiévale de la Jéraphie. Your final evening destination is the elegant Château de la Clairière."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens vorsichtig zum Bridiers Turm und achten Sie auf rutschiges Laub. Suchen Sie mittags in der Kirche und im Micro Folie Zuflucht, um abzutrocknen. Radeln Sie nachmittags behutsam zum historischen Grenzstein, da die Feldwege schlammig werden. Beenden Sie die Tour am Schloss; schalten Sie wegen der schlechten Sicht bei Regen früh Ihre Fahrradlichter ein.",
+            "hu": "Reggel óvatosan tekerjen a Bridiers toronyhoz, ügyelve a csúszós levelekre. Délben keressen menedéket a templomban és a Micro Folie-ban, hogy megszáradjon. Délután lassan haladjon a határkőhöz, mert a földutak sarasak. Fejezze be a túrát a kastélynál; a rossz esős látási viszonyok miatt korán kapcsolja be a kerékpárlámpát.",
+            "ro": "Mergeți dimineața cu atenție spre Turnul Bridiers, ferindu-vă de frunzele alunecoase. La prânz, căutați refugiu în biserică și la Micro Folie pentru a vă usca. După-amiaza, pedalați încet spre borna istorică, deoarece drumurile devin noroioase. Încheiați la castel; aprindeți luminile bicicletei din cauza vizibilității reduse pe timp de ploaie.",
+            "en": "Ride carefully in the morning to the Bridiers Tower, watching out for slippery leaves. At noon, seek refuge in the church and Micro Folie to thoroughly dry off. Cycle cautiously to the boundary stone in the afternoon as dirt paths turn to mud. Conclude at the Château; ensure your bike lights are on due to poor rainy visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bridiers Turm",
+                "hu": "Bridiers torony",
+                "ro": "Turnul Bridiers",
+                "en": "Bridiers Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diese Festung von unten; tragen Sie einen hochwertigen Regenmantel, da die erhöhte Lage kaum Schutz vor dem peitschenden Wind und Regen bietet.",
+                "hu": "Csodálja meg ezt az erődöt lentről; viseljen kiváló minőségű esőkabátot, mivel a magaslati fekvés alig nyújt védelmet a heves szél és a szakadó eső ellen.",
+                "ro": "Admirați această fortăreață de la bază; purtați o haină de ploaie de calitate, deoarece situl înalt oferă puțin adăpost împotriva vântului și ploii.",
+                "en": "Marvel at this fortress from the base; wear a high-quality raincoat as the elevated site offers very little cover from the whipping wind and driving rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bridiers",
+                "hu": "Château de Bridiers",
+                "ro": "Château de Bridiers",
+                "en": "Château de Bridiers"
+              },
+              "tip_5lang": {
+                "de": "Werfen Sie einen kurzen Blick auf die Burgruine; radeln Sie sehr langsam um das Gelände, da die nassen Blätter und Steine extrem rutschig sein können.",
+                "hu": "Vessen egy gyors pillantást a várromokra; tekerjen nagyon lassan a helyszín körül, mivel a nedves levelek és a vizes kövek rendkívül csúszósak lehetnek.",
+                "ro": "Aruncați o scurtă privire la ruinele castelului; pedalați foarte încet în jurul sitului, deoarece frunzele și pietrele umede pot fi extrem de alunecoase.",
+                "en": "Take a brief look at the castle ruins; make sure to cycle very slowly around the site as the wet fallen leaves and ancient stones can be extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in dieses friedliche Heiligtum ein, um Ihre nasse Fahrradausrüstung zu trocknen, während Sie die beeindruckende romanisch-gotische Architektur bewundern.",
+                "hu": "Lépjen be ebbe a békés szentélybe, hogy megszárítsa nedves kerékpáros felszerelését, miközben megcsodálja a lenyűgöző román-gótikus építészetet.",
+                "ro": "Pășiți în acest sanctuar liniștit pentru a vă usca echipamentul ud de ciclism, admirând în același timp arhitectura impresionantă romanică-gotică.",
+                "en": "Step inside this peaceful sanctuary to dry off your wet cycling gear while taking the time to admire the impressive Romanesque-Gothic historical architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Micro Folie",
+                "hu": "Micro Folie",
+                "ro": "Micro Folie",
+                "en": "Micro Folie"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr nasses Fahrrad sicher draußen stehen und genießen Sie die interaktiven Kunstausstellungen in diesem perfekt trockenen, modernen digitalen Museum.",
+                "hu": "Hagyja nedves kerékpárját biztonságosan kint, és élvezze az interaktív művészeti kiállításokat ebben a tökéletesen száraz, modern digitális múzeumban.",
+                "ro": "Lăsați-vă bicicleta udă în siguranță afară și bucurați-vă de expozițiile de artă interactivă în acest muzeu digital modern, perfect uscat.",
+                "en": "Leave your wet bike securely parked outside and fully enjoy the interactive art displays in this perfectly dry, warm, and modern indoor digital museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterlicher Grenzstein von Jéraphie",
+                "hu": "Jéraphie középkori határkő",
+                "ro": "Borna medievală de la Jéraphie",
+                "en": "Medieval Boundary Stone of Jéraphie"
+              },
+              "tip_5lang": {
+                "de": "Inspizieren Sie diesen alten Grenzstein, aber steigen Sie früh vom Fahrrad ab, da die umliegenden unbefestigten Wege im Regen gefährlich schlammig werden.",
+                "hu": "Vizsgálja meg ezt az ősi határkövet, de szálljon le korán a kerékpárról, mivel a környező földutak az esőben veszélyesen sarassá és járhatatlanná válnak.",
+                "ro": "Inspectați această bornă antică, dar descălecați devreme, deoarece drumurile de pământ din jur devin periculos de noroioase în ploaie.",
+                "en": "Inspect this ancient border stone, but be sure to dismount your bike early as the surrounding dirt tracks become dangerously muddy and soft in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Clairière",
+                "hu": "Château de la Clairière",
+                "ro": "Château de la Clairière",
+                "en": "Château de la Clairière"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die stattliche Architektur durch den Nebel; wischen Sie Ihre Fahrradbremsen trocken, bevor Sie bei diesen sehr nassen Bedingungen zurückfahren.",
+                "hu": "Csodálja meg az impozáns építészetet a ködön keresztül; mindenképpen törölje szárazra a kerékpár fékjeit, mielőtt visszaindulna ezekben a vizes körülményekben.",
+                "ro": "Admirați arhitectura impunătoare prin ceață; asigurați-vă că ștergeți frânele bicicletei înainte de a vă întoarce în aceste condiții foarte umede.",
+                "en": "Admire the stately architecture through the rain mist; absolutely ensure your bike brakes are wiped dry before heading back out in these slippery, wet conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre kalte Fahrt am Bridiers Turm und tragen Sie unbedingt Thermokleidung. Wärmen Sie sich mittags in der Kirche und im Micro Folie auf. Genießen Sie nachmittags die klare, frostige Luft auf dem Weg zum Grenzstein. Beenden Sie die Tour am Château de la Clairière frühzeitig; schalten Sie das Fahrradlicht vor 17:00 Uhr ein.",
+            "hu": "Kezdje a fagyos tekerést a Bridiers toronynál, és viseljen meleg aláöltözetet. Délben melegedjen fel a templomban és a Micro Folie-ban. Délután élvezze a friss, ropogós levegőt a határkő felé vezető úton. Fejezze be a túrát a Château de la Clairière-nél korán; még 17:00 óra előtt kapcsolja be a kerékpárlámpát a sötétedés miatt.",
+            "ro": "Începeți cursa rece la Turnul Bridiers, purtând straturi termice. Încălziți-vă la prânz în biserică și la Micro Folie. După-amiaza, bucurați-vă de aerul înghețat pe drumul spre borna istorică. Încheiați devreme la Château de la Clairière; aprindeți luminile bicicletei înainte de ora 17:00 din cauza întunericului timpuriu.",
+            "en": "Start your chilly ride at the Bridiers Tower, ensuring you wear proper thermal layers. Warm up indoors at noon inside the church and Micro Folie. In the afternoon, enjoy the crisp, frosty air riding to the boundary stone. Finish early at Château de la Clairière; turn on your bike lights well before 5:00 PM as darkness falls fast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bridiers Turm",
+                "hu": "Bridiers torony",
+                "ro": "Turnul Bridiers",
+                "en": "Bridiers Tower"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Struktur in der frostigen Morgenluft, aber tragen Sie dicke Handschuhe, da das Halten des eiskalten Lenkers extrem schmerzhaft sein kann.",
+                "hu": "Csodálja meg az építményt a fagyos reggeli levegőben, de viseljen vastag kesztyűt, mivel a jéghideg kormány fogása rendkívül kényelmetlen és fájdalmas lehet.",
+                "ro": "Admirați structura în aerul înghețat al dimineții, dar purtați mănuși groase, deoarece ținerea ghidonului rece ca gheața poate fi extrem de dureroasă.",
+                "en": "Admire the imposing structure in the frosty morning air, but wear thick winter gloves as holding the freezing metal handlebars can be extremely uncomfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bridiers",
+                "hu": "Château de Bridiers",
+                "ro": "Château de Bridiers",
+                "en": "Château de Bridiers"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie schnell die atmosphärischen Ruinen; seien Sie beim Radfahren extrem vorsichtig vor unsichtbarem Glatteis auf den schattigen Wegen.",
+                "hu": "Gyorsan fedezze fel a hangulatos romokat; kerékpározás közben legyen rendkívül óvatos az árnyékos ösvényeken megbúvó láthatatlan, fekete jég miatt.",
+                "ro": "Explorați rapid ruinele atmosferice; fiți extrem de atenți la gheața neagră invizibilă de pe cărările umbrite în timp ce pedalați pe domeniu.",
+                "en": "Quickly explore the atmospheric ruins; be extremely careful of invisible black ice on the shaded paths around the castle grounds while handling your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihr eingefrorenes Gesicht in dieser schönen Steinkirche auf, während Sie die beeindruckenden jahrhundertealten Buntglasfenster bewundern.",
+                "hu": "Melegítse fel átfagyott arcát ebben a gyönyörű kőtemplomban, miközben megcsodálja a lenyűgöző, több évszázados ólomüveg ablakokat a téli fényben.",
+                "ro": "Încălziți-vă fața înghețată în această frumoasă biserică de piatră, în timp ce admirați vitraliile impresionante vechi de secole în lumina palidă.",
+                "en": "Warm up your frozen face inside this beautiful stone church while taking the time to admire the impressive centuries-old stained glass windows in the pale light."
+              }
+            },
+            {
+              "name": {
+                "de": "Micro Folie",
+                "hu": "Micro Folie",
+                "ro": "Micro Folie",
+                "en": "Micro Folie"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie ausreichend Zeit in diesem gut beheizten digitalen Museum, um Ihre Zehen vollständig aufzutauen, bevor Sie Ihre Winterradtour fortsetzen.",
+                "hu": "Töltsön elegendő időt ebben a jól fűtött digitális múzeumban, hogy a lábujjai teljesen felolvadjanak, mielőtt folytatná a hideg téli kerékpártúrát.",
+                "ro": "Petreceți suficient timp în acest muzeu digital bine încălzit pentru a vă dezgheța complet degetele de la picioare înainte de a continua cursa de iarnă.",
+                "en": "Spend a good amount of time in this thoroughly heated digital museum to fully defrost your toes and fingers before continuing your chilling winter cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterlicher Grenzstein von Jéraphie",
+                "hu": "Jéraphie középkori határkő",
+                "ro": "Borna medievală de la Jéraphie",
+                "en": "Medieval Boundary Stone of Jéraphie"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein Foto dieses faszinierenden Stücks Geschichte; der hart gefrorene Boden macht es tatsächlich einfacher, auf der sonst weichen Erde zu radeln.",
+                "hu": "Készítsen fotót erről a lenyűgöző történelmi emlékről; a keményre fagyott talaj valójában megkönnyíti a kerékpározást az amúgy puha, sáros földön.",
+                "ro": "Faceți o fotografie a acestei piese fascinante de istorie; pământul înghețat face de fapt mai ușoară pedalarea pe solul altfel moale din această zonă.",
+                "en": "Take a quick photo of this fascinating piece of history; the solidly frozen ground actually makes it much easier to cycle on the otherwise soft, uneven soil."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Clairière",
+                "hu": "Château de la Clairière",
+                "ro": "Château de la Clairière",
+                "en": "Château de la Clairière"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den majestätischen Anblick des Schlosses im fahlen Winterlicht; schalten Sie Ihre Fahrradlichter ein, da es in den ländlichen Gebieten sehr früh dunkel wird.",
+                "hu": "Élvezze a kastély fenséges látványát a halvány téli fényben; kapcsolja be a kerékpárlámpákat, mivel a vidéki területeken nagyon korán és hirtelen sötétedik.",
+                "ro": "Bucurați-vă de vederea maiestuoasă a castelului în lumina palidă a iernii; aprindeți luminile bicicletei, deoarece se întunecă foarte devreme în zonele rurale.",
+                "en": "Enjoy the majestic view of the castle in the pale winter light; remember to turn on your bike lights as it gets dark very early and fast in these rural areas."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós utazását a festői Château de la Clairière-nél, majd vezessen délre, az Étang de Chabannes természetes nyugalmához. Délben látogasson el a Borne médiévale de la Jéraphie-hez, mielőtt a városközpontban megnézné a Notre-Dame templomot. A késő délutánt a lenyűgöző Bridiers-torony felfedezésével és a Château de Bridiers történelmi romjai közötti sétával töltheti.",
         "ro": "Începeți excursia cu mașina la pitorescul Château de la Clairière, apoi conduceți spre sud până la liniștitul Étang de Chabannes. La amiază, îndreptați-vă spre borna medievală de la Jéraphie înainte de a vizita Biserica Notre-Dame din centru. Petreceți-vă după-amiaza explorând impresionantul Turn Bridiers și rătăcind printre ruinele istorice ale Château de Bridiers la apus.",
         "en": "Kick off your road trip at the picturesque Château de la Clairière, then drive south to immerse yourself in the natural tranquility of Étang de Chabannes. By midday, make your way to the Borne médiévale de la Jéraphie before heading to the town center to visit Notre-Dame Church. Spend your late afternoon exploring the impressive Bridiers Tower and wandering through the historic ruins of Château de Bridiers as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie morgens zum Château de la Clairière und nutzen Sie Ihr Auto als mobilen Unterstand. Parken Sie mittags am Étang de Chabannes und betrachten Sie den Regen über dem See. Besuchen Sie nachmittags kurz den Grenzstein und bleiben Sie in der Notre-Dame Kirche trocken. Beenden Sie den Tag am Bridiers Turm und fahren Sie vorsichtig auf nassen Straßen.",
+            "hu": "Reggel vezessen a Château de la Clairière-hez, autóját mobil menedékként használva. Délben parkoljon le az Étang de Chabannes-nál, és nézze az esőt a tó felett. Délután gyorsan látogassa meg a határkövet, majd maradjon szárazon a Notre-Dame templomban. Fejezze be a napot a Bridiers toronynál, óvatosan vezetve a vizes, csúszós utakon.",
+            "ro": "Conduceți dimineața spre Château de la Clairière, folosind mașina ca adăpost mobil. La prânz, parcați lângă Étang de Chabannes, privind ploaia peste lac. După-amiaza, vizitați rapid borna istorică și rămâneți uscat în biserica Notre-Dame. Încheiați la Turnul Bridiers, conducând cu prudență pe drumurile umede.",
+            "en": "Drive in the morning to Château de la Clairière, using your car as a mobile shelter. At noon, park near Étang de Chabannes to view the heavy rain over the lake. In the afternoon, quickly visit the boundary stone, then stay dry inside Notre-Dame church. Conclude at the Bridiers Tower, driving carefully on slick, wet local country roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Clairière",
+                "hu": "Château de la Clairière",
+                "ro": "Château de la Clairière",
+                "en": "Château de la Clairière"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die eleganten Schlossanlagen; bewahren Sie einen großen Regenschirm im Kofferraum auf für den kurzen, aber nassen Weg vom Parkplatz.",
+                "hu": "Csodálja meg az elegáns kastélyparkot; tartson egy nagy esernyőt a csomagtartóban a parkolótól vezető rövid, de nagyon nedves sétához az esőben.",
+                "ro": "Admirați domeniul elegant al castelului; păstrați o umbrelă mare în portbagaj pentru scurta, dar umeda plimbare de la zona de parcare.",
+                "en": "Admire the elegant castle grounds; make sure to keep a large umbrella in your car trunk for the short but inevitably wet walk from the designated parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Chabannes",
+                "hu": "Étang de Chabannes",
+                "ro": "Étang de Chabannes",
+                "en": "Étang de Chabannes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die stimmungsvolle Aussicht auf die Regentropfen, die auf die Seeoberfläche treffen, direkt aus dem trockenen Komfort Ihres beheizten Autos.",
+                "hu": "Élvezze a tó felszínére hulló esőcseppek hangulatos látványát közvetlenül a fűtött autója száraz, kényelmes és meleg utasteréből.",
+                "ro": "Bucurați-vă de priveliștea atmosferică a picăturilor de ploaie lovind suprafața lacului direct din confortul uscat al mașinii dumneavoastră încălzite.",
+                "en": "Enjoy the moody, atmospheric view of the raindrops hitting the lake surface directly from the dry, warm comfort of your perfectly heated car seats."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterlicher Grenzstein von Jéraphie",
+                "hu": "Jéraphie középkori határkő",
+                "ro": "Borna medievală de la Jéraphie",
+                "en": "Medieval Boundary Stone of Jéraphie"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie legal möglich und rennen Sie hinaus, um diese historische Markierung zu sehen, da sich die Umgebung in eine große Schlammpfütze verwandelt.",
+                "hu": "Parkoljon a lehető legközelebb, és csak szaladjon ki megnézni ezt a történelmi jelzőt, mivel a környező terület egyetlen hatalmas sártengerré változik az esőben.",
+                "ro": "Parcați cât mai aproape legal posibil și fugiți să vedeți acest marcaj istoric, deoarece zona înconjurătoare se transformă într-o baltă uriașă de noroi.",
+                "en": "Park as close as legally possible and run out to see this historic marker, as the surrounding natural area quickly turns into a massive, muddy puddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie einen nahegelegenen Parkplatz und huschen Sie hinein, um die Architektur zu bestaunen, während Sie dem heftigen Platzregen völlig entkommen.",
+                "hu": "Keressen egy közeli parkolóhelyet, és siessen befelé, hogy megcsodálja az építészetet, miközben teljesen megmenekül a kinti heves felhőszakadástól.",
+                "ro": "Găsiți un loc de parcare în apropiere și grăbiți-vă înăuntru pentru a vă minuna de arhitectură, scăpând complet de aversa puternică de afară.",
+                "en": "Find a nearby parking spot and dash inside to marvel at the impressive historic architecture while completely escaping the heavy downpour happening outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridiers Turm",
+                "hu": "Bridiers torony",
+                "ro": "Turnul Bridiers",
+                "en": "Bridiers Tower"
+              },
+              "tip_5lang": {
+                "de": "Blicken Sie zu diesem massiven mittelalterlichen Turm hinauf; seien Sie beim Weg vom Auto vorsichtig, da die nassen Grashänge an der Basis sehr rutschig sind.",
+                "hu": "Nézzen fel erre a masszív középkori toronyra; legyen nagyon óvatos, amikor az autótól sétál, mivel a nedves füves lejtők a tövénél rendkívül csúszósak.",
+                "ro": "Priviți în sus la acest turn medieval masiv; fiți atenți când mergeți de la mașină, deoarece pantele cu iarbă umedă de la bază sunt foarte alunecoase.",
+                "en": "Look up at this massive medieval tower; be very careful walking from your parked car as the wet grassy slopes around the base are extremely slick and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bridiers",
+                "hu": "Château de Bridiers",
+                "ro": "Château de Bridiers",
+                "en": "Château de Bridiers"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historischen Ruinen schnell unter Ihrem Regenschirm; fahren Sie auf dem Rückweg langsam, da die ländlichen Straßen bei Regen eine schlechte Entwässerung haben.",
+                "hu": "Nézze meg a történelmi romokat gyorsan az esernyője alól; visszafelé vezessen lassan, mivel a vidéki utak vízelvezetése nagyon rossz a heves esőzések során.",
+                "ro": "Vizionați rapid ruinele istorice de sub umbrela dumneavoastră; conduceți încet la întoarcere, deoarece drumurile rurale au un drenaj slab pe timp de ploaie.",
+                "en": "View the historic ruins quickly from under your umbrella; make sure to drive slowly on the way back as the rural country roads have very poor water drainage."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie morgens die Autoheizung auf dem Weg zum frostigen Château de la Clairière. Genießen Sie mittags die zugefrorene Schönheit des Étang de Chabannes. Besuchen Sie nachmittags den historischen Grenzstein und die kühle Notre-Dame Kirche. Beenden Sie den Tag vor 17:00 Uhr am Bridiers Turm und achten Sie auf vereiste Landstraßen.",
+            "hu": "Reggel élvezze az autó fűtését a fagyos Château de la Clairière felé vezető úton. Délben gyönyörködjön az Étang de Chabannes befagyott szépségében. Délután látogassa meg a történelmi határkövet és a hűvös Notre-Dame templomot. Fejezze be a napot 17:00 óra előtt a Bridiers toronynál, ügyelve a jeges vidéki utakra.",
+            "ro": "Folosiți dimineața încălzirea mașinii pe drumul spre înghețatul Château de la Clairière. La prânz, bucurați-vă de frumusețea înghețată a Étang de Chabannes. După-amiaza, vizitați borna istorică și răcoroasa biserică Notre-Dame. Încheiați înainte de ora 17:00 la Turnul Bridiers, fiind atenți la drumurile rurale înghețate.",
+            "en": "Use your car's heater in the morning as you drive to the frosty Château de la Clairière. At noon, enjoy the frozen beauty of Étang de Chabannes. In the afternoon, visit the historic boundary stone and the chilly Notre-Dame church. Conclude at the Bridiers Tower before 5:00 PM, watching out for icy rural roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de la Clairière",
+                "hu": "Château de la Clairière",
+                "ro": "Château de la Clairière",
+                "en": "Château de la Clairière"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich von dem frostbedeckten Schlossgelände verzaubern; lassen Sie die Autoheizung an, damit Sie bei Ihrer Rückkehr ein warmes Refugium haben.",
+                "hu": "Csodálja meg a dérrel borított kastélybirtokot; kapcsolja be az autó fűtését előre, hogy egy meleg menedékbe térhessen vissza a kinti fagyos séta után.",
+                "ro": "Minunați-vă de domeniul castelului acoperit de brumă; porniți din timp încălzirea mașinii pentru a avea un sanctuar cald la care să vă întoarceți.",
+                "en": "Marvel at the beautiful frost-covered castle estate; turn on your car heater beforehand so you have a wonderfully warm sanctuary to return to after walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Chabannes",
+                "hu": "Étang de Chabannes",
+                "ro": "Étang de Chabannes",
+                "en": "Étang de Chabannes"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den atemberaubenden Blick auf den teilweise zugefrorenen See; die Winterluft ist erfrischend, aber halten Sie eine Thermodecke im Kofferraum bereit.",
+                "hu": "Élvezze a részben befagyott tó lenyűgöző látványát; a téli levegő frissítő, de mindenképpen tartson egy meleg termotakarót az autó csomagtartójában.",
+                "ro": "Bucurați-vă de priveliștea uimitoare a lacului parțial înghețat; aerul de iarnă este revigorant, dar păstrați o pătură termică în portbagaj pentru siguranță.",
+                "en": "Take in the stunning view of the partially frozen lake; the crisp winter air is refreshing, but always keep a thermal blanket in the trunk just in case."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterlicher Grenzstein von Jéraphie",
+                "hu": "Jéraphie középkori határkő",
+                "ro": "Borna medievală de la Jéraphie",
+                "en": "Medieval Boundary Stone of Jéraphie"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz aus, um diesen alten Grenzstein zu betrachten; tragen Sie Stiefel mit gutem Profil, da der Boden hier um diese Jahreszeit steinhart gefroren ist.",
+                "hu": "Szálljon ki, hogy megvizsgálja ezt az ősi határkövet; viseljen jó tapadású csizmát, mivel a talaj itt ilyenkor csontkeményre fagy és nagyon csúszik.",
+                "ro": "Coborâți pentru a examina acest marcaj antic de frontieră; purtați cizme cu aderență bună, deoarece pământul aici este înghețat bocnă în această perioadă.",
+                "en": "Step out to examine this fascinating ancient border marker; make sure to wear boots with good grip as the ground here is completely frozen solid and slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Kirche",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das prächtige Innere dieses mittelalterlichen Juwels, aber behalten Sie Ihren dicken Wintermantel an, da es drinnen meist völlig unbeheizt ist.",
+                "hu": "Fedezze fel ennek a középkori gyöngyszemnek a csodás belsejét, de mindenképpen tartsa magán a vastag téli kabátját, mivel az épület belül teljesen fűtetlen.",
+                "ro": "Explorați interiorul magnific al acestei bijuterii medievale, dar păstrați haina groasă de iarnă pe dumneavoastră, deoarece înăuntru este complet neîncălzit.",
+                "en": "Explore the magnificent interior of this medieval gem, though you will definitely want to keep your heavy winter coat on as it is completely unheated inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridiers Turm",
+                "hu": "Bridiers torony",
+                "ro": "Turnul Bridiers",
+                "en": "Bridiers Tower"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie diesen majestätischen Turm im goldenen Licht des frühen Wintersonnenuntergangs; achten Sie beim Gehen auf tückisches Eis auf den Steinstufen.",
+                "hu": "Fotózza le ezt a fenséges tornyot a kora téli naplemente arany órájának fényében; séta közben ügyeljen a kőlépcsőkön megbúvó alattomos jégfoltokra.",
+                "ro": "Fotografiați acest turn maiestuos în lumina aurie a apusului timpuriu de iarnă; aveți grijă la gheața înșelătoare de pe treptele de piatră când mergeți.",
+                "en": "Take photos of this majestic tower bathed in the golden hour light of the early winter sunset; watch out for treacherous ice on the ancient stone steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bridiers",
+                "hu": "Château de Bridiers",
+                "ro": "Château de Bridiers",
+                "en": "Château de Bridiers"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Ruinen im schwindenden Licht; stellen Sie sicher, dass Ihre Autoscheinwerfer vollständig vom Frost befreit sind, bevor Sie zurückfahren.",
+                "hu": "Figyelje meg a romokat a halványuló fényben; a visszaindulás előtt feltétlenül ellenőrizze, hogy az autó fényszórói teljesen mentesek-e a fagytól és jégtől.",
+                "ro": "Observați ruinele în lumina care pălește; asigurați-vă că farurile mașinii sunt complet curățate de îngheț înainte de a conduce înapoi pe întuneric.",
+                "en": "Observe the historic ruins in the fading light; make absolutely sure your car headlights are fully cleared of frost before driving back in the evening darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a nyüzsgő Plaza de las Américas téren, és élvezze a helyi hangulatot.\n\nDélben merüljön el az őslakosok örökségében a Huichol Wixárika Múzeumban, majd nézze meg a Művészeti Múzeumot.\n\nDélután a Condición Suspendida emlékmű várja a látogatókat.\n\nZárja a napot egy kellemes esti sétával a családbarát Villa Fantasía állatkertben és buja növényzetű parkban.",
         "ro": "Începeți ziua în vibranta Plaza de las Américas, simțind atmosfera locală.\n\nLa prânz, explorați moștenirea indigenă la Muzeul Huichol Wixárika și arta contemporană la Muzeul de Artă.\n\nDupă-amiaza vă aduce la fascinantul monument istoric Condición Suspendida.\n\nÎncheiați plimbarea cu o vizită relaxantă de seară la Villa Fantasía, o locație perfectă și verde pentru familii.",
         "en": "Start your day at the vibrant Plaza de las Américas, taking in the lively local atmosphere.\n\nBy midday, delve into indigenous heritage at the Huichol Wixárika Museum and explore contemporary pieces at the nearby Art Museum.\n\nAfternoon brings you to the intriguing Condición Suspendida monument.\n\nConclude your gentle walking tour with an evening stroll through the family-friendly Villa Fantasía."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Arkaden der Basilika, um den ersten Güssen zu entgehen. Mittags bieten die Museen trockene Zufluchtsorte für kulturelle Entdeckungen. Am Nachmittag erfordern die nassen Straßen bei der Skulptur Vorsicht. Der Abend endet mit einem atmosphärischen Spaziergang im Regen, wobei die Lichter der Stadt auf dem nassen Asphalt wunderschön reflektieren.",
+            "hu": "A reggel a Bazilika védelmező árkádjai alatt indul, elkerülve az első záporokat. Délben a múzeumok belső terei nyújtanak száraz menedéket a kulturális felfedezéshez. Délután a vizes kövezet fokozott figyelmet igényel a szobornál. Az este egy hangulatos esős sétával zárul, ahol a város fényei megcsillannak a nedves aszfalton, különleges látványt nyújtva.",
+            "ro": "Dimineața începe sub arcadele protectoare ale Basilicii pentru a evita primele averse. La prânz, muzeele oferă refugii uscate pentru explorări culturale. După-amiaza, străzile umede necesită prudență în apropierea sculpturii. Seara se încheie cu o plimbare atmosferică prin ploaie, luminile orașului reflectându-se superb pe asfaltul ud.",
+            "en": "The morning starts under the protective arches of the Basilica to avoid the early showers. At noon, the museums provide dry havens for cultural exploration. In the afternoon, the wet pavement near the sculpture requires extra caution. The evening concludes with an atmospheric rainy walk, where the city lights reflect beautifully on the damp asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de las Américas (Juan Pablo II)",
+                "hu": "Plaza de las Américas (Juan Pablo II)",
+                "ro": "Plaza de las Américas (Juan Pablo II)",
+                "en": "Plaza de las Américas (Juan Pablo II)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden der Basilika als Schutz vor dem Regen, während Sie die weitläufige Architektur bewundern. Die Steinfliesen können bei Nässe sehr rutschig sein.",
+                "hu": "Használja a Bazilika árkádjait menedékként az eső elől, miközben megcsodálja a teret. A kőburkolat vizesen rendkívül csúszós lehet, óvatosan lépkedjen.",
+                "ro": "Folosiți arcadele Basilicii ca adăpost împotriva ploii în timp ce admirați arhitectura pieței. Dalele de piatră pot fi foarte alunecoase când sunt ude.",
+                "en": "Use the Basilica's arches as shelter from the rain while admiring the vast architecture. The stone tiles can be very slippery when wet, so watch your step."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnografico Huichol Wixárika",
+                "hu": "Museo Etnografico Huichol Wixárika",
+                "ro": "Museo Etnografico Huichol Wixárika",
+                "en": "Museo Etnografico Huichol Wixárika"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der perfekte Ort, um einen Regenschauer trocken zu verbringen und in die indigene Kunst einzutauchen. Nehmen Sie sich Zeit für die filigranen Perlenarbeiten.",
+                "hu": "Ez a múzeum tökéletes hely egy zápor száraz átvészelésére, miközben elmerül az őslakos művészetben. Szánjon időt a részletgazdag gyöngymunkák megtekintésére.",
+                "ro": "Acest muzeu este locul perfect pentru a petrece o aversă la adăpost, cufundându-vă în arta indigenă. Acordați-vă timp pentru a admira lucrările detaliate cu mărgele.",
+                "en": "This museum is the perfect place to spend a heavy shower indoors while immersing yourself in indigenous art. Take your time with the intricate beadwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Zapopan",
+                "hu": "Museo de Arte de Zapopan",
+                "ro": "Museo de Arte de Zapopan",
+                "en": "Museo de Arte de Zapopan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die zeitgenössischen Ausstellungen in diesem modernen, überdachten Raum. Der Museumsshop bietet originelle Souvenirs, während es draußen weiter regnet.",
+                "hu": "Élvezze a kortárs kiállításokat ebben a modern, fedett térben. A múzeumi bolt egyedi szuveníreket kínál, amíg odakint elcsendesedik az eső.",
+                "ro": "Bucurați-vă de expozițiile contemporane în acest spațiu modern și acoperit. Magazinul muzeului oferă suveniruri originale în timp ce afară continuă să plouă.",
+                "en": "Enjoy the contemporary exhibitions in this modern, indoor space. The museum shop offers original souvenirs while waiting for the rain outside to subside."
+              }
+            },
+            {
+              "name": {
+                "de": "Condición Suspendida",
+                "hu": "Condición Suspendida",
+                "ro": "Condición Suspendida",
+                "en": "Condición Suspendida"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Kunstwerk im Freien unter einem stabilen Regenschirm. Die reflektierenden Oberflächen der Skulptur wirken bei Regen besonders mystisch.",
+                "hu": "Tekintse meg ezt a szabadtéri alkotást egy stabil esernyő alól. A szobor tükröződő felületei esőben különlegesen misztikus látványt nyújtanak.",
+                "ro": "Admirați această operă de artă în aer liber sub o umbrelă solidă. Suprafețele reflectorizante ale sculpturii par deosebit de mistice în timpul ploii.",
+                "en": "View this outdoor artwork from under a sturdy umbrella. The reflective surfaces of the sculpture look particularly mystical during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoologico Villa Fantasía",
+                "hu": "Zoologico Villa Fantasía",
+                "ro": "Zoologico Villa Fantasía",
+                "en": "Zoologico Villa Fantasía"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie ein festes Cape, da viele Wege im Zoo ungeschützt sind. Einige Tiere sind bei Regen aktiver und kommen näher an die Gehegegitter heran.",
+                "hu": "Viseljen tartós esőköpenyt, mivel az állatkert útvonalai többnyire nyitottak. Egyes állatok esőben aktívabbak és közelebb merészkednek a kerítésekhez.",
+                "ro": "Purtați o pelerină rezistentă, deoarece multe poteci din grădina zoologică sunt neprotejate. Unele animale sunt mai active pe ploaie și se apropie de garduri.",
+                "en": "Wear a durable poncho as many paths in the zoo are unsheltered. Some animals are more active in the rain and might venture closer to the enclosure edges."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen lädt zu einem erfrischenden Start am Platz ein. Mittags wärmen die Sonnenstrahlen die historischen Gebäude auf, während die Museen angenehme Wärme bieten. Am Nachmittag sinken die Temperaturen spürbar, was den Besuch im Zoo ideal macht. Gegen 17:00 Uhr geht die Sonne früh unter und hüllt Zapopan in ein sanftes, winterliches Abendlicht.",
+            "hu": "A hűvös téli reggel frissítő kezdést kínál a téren. Délben a napsugarak felmelegítik a történelmi épületeket, a múzeumok pedig kellemes meleget nyújtanak. Délután a hőmérséklet érezhetően csökkenni kezd, ami ideálissá teszi az állatkerti látogatást. 17:00 körül korán nyugszik a nap, lágy téli fénybe öltöztetve Zapopan városát az este közeledtével.",
+            "ro": "Dimineața răcoroasă de iarnă oferă un început revigorant în piață. La prânz, razele soarelui încălzesc clădirile istorice, în timp ce muzeele oferă o căldură plăcută. După-amiaza, temperaturile scad vizibil, făcând vizita la zoo ideală. În jurul orei 17:00, soarele apune devreme, îmbrăcând Zapopan într-o lumină blândă de iarnă.",
+            "en": "The crisp winter morning offers a refreshing start at the plaza. At noon, the sun warms the historic buildings, while museums provide cozy interior warmth. In the afternoon, temperatures drop noticeably, making the zoo visit pleasant before dusk. Around 5 PM, the sun sets early, bathing Zapopan in a soft, wintry evening glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de las Américas (Juan Pablo II)",
+                "hu": "Plaza de las Américas (Juan Pablo II)",
+                "ro": "Plaza de las Américas (Juan Pablo II)",
+                "en": "Plaza de las Américas (Juan Pablo II)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Wintersonne auf dem weiten Platz, aber tragen Sie Schichten gegen den kühlen Wind. Die Basilika wirkt im flachen Winterlicht besonders majestätisch.",
+                "hu": "Élvezze a tiszta téli napsütést a tágas téren, de öltözzön rétegesen a hűvös szél ellen. A Bazilika a lapos téli fényben különösen fenséges látványt nyújt.",
+                "ro": "Bucurați-vă de soarele clar de iarnă în piața vastă, dar purtați straturi de haine împotriva vântului răcoros. Basilica pare deosebit de maiestuoasă în lumina joasă.",
+                "en": "Enjoy the clear winter sun in the vast plaza, but wear layers against the cool breeze. The Basilica looks particularly majestic in the low winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnografico Huichol Wixárika",
+                "hu": "Museo Etnografico Huichol Wixárika",
+                "ro": "Museo Etnografico Huichol Wixárika",
+                "en": "Museo Etnografico Huichol Wixárika"
+              },
+              "tip_5lang": {
+                "de": "Die warmen Innenräume sind ein idealer Rückzugsort vor der morgendlichen Kälte. Entdecken Sie die farbenfrohe Kunst der Huichol in einer gemütlichen Atmosphäre.",
+                "hu": "A meleg belső terek ideális menedéket nyújtanak a reggeli hideg elől. Fedezze fel a Huichol nép színes művészetét ebben a barátságos környezetben.",
+                "ro": "Interioarele calde sunt un refugiu ideal împotriva frigului de dimineață. Descoperiți arta colorată a populației Huichol într-o atmosferă primitoare.",
+                "en": "The warm interiors are an ideal retreat from the morning chill. Discover the colorful Huichol art in a cozy environment while staying comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Zapopan",
+                "hu": "Museo de Arte de Zapopan",
+                "ro": "Museo de Arte de Zapopan",
+                "en": "Museo de Arte de Zapopan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für einen Besuch in den klimatisierten Galerien. Das moderne Design sorgt auch im Winter für eine angenehme Besichtigungstemperatur.",
+                "hu": "Használja ki a déli időszakot a klimatizált galériák látogatására. A modern dizájn télen is kellemes hőmérsékletet biztosít a zavartalan nézelődéshez.",
+                "ro": "Profitați de orele prânzului pentru a vizita galeriile climatizate. Designul modern asigură o temperatură plăcută de vizitare chiar și în timpul iernii.",
+                "en": "Take advantage of the midday to visit the climate-controlled galleries. The modern design ensures a comfortable temperature for viewing art even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Condición Suspendida",
+                "hu": "Condición Suspendida",
+                "ro": "Condición Suspendida",
+                "en": "Condición Suspendida"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Denkmal am frühen Nachmittag, wenn das Licht am weichsten ist. Die kühle Luft lässt die Umgebung der Skulptur besonders klar erscheinen.",
+                "hu": "Látogassa meg ezt az emlékművet kora délután, amikor a fények a leglágyabbak. A hűvös levegő különösen tisztává teszi a szobor körüli környezetet.",
+                "ro": "Vizitați acest monument după-amiaza devreme, când lumina este cea mai blândă. Aerul răcoros face ca împrejurimile sculpturii să pară deosebit de clare.",
+                "en": "Visit this monument in the early afternoon when the light is softest. The crisp air makes the surroundings of the sculpture appear exceptionally clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoologico Villa Fantasía",
+                "hu": "Zoologico Villa Fantasía",
+                "ro": "Zoologico Villa Fantasía",
+                "en": "Zoologico Villa Fantasía"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch vor Sonnenuntergang um 17:00 Uhr, da es danach schnell abkühlt. Viele Tiere genießen die milden winterlichen Sonnenstrahlen sichtlich.",
+                "hu": "Fejezze be a látogatást a 17:00 órai naplemente előtt, mert utána gyorsan lehűl az idő. Sok állat láthatóan élvezi a lágy téli napsugarakat a kifutókban.",
+                "ro": "Finalizați vizita înainte de apusul soarelui de la ora 17:00, deoarece se răcește rapid după aceea. Multe animale se bucură vizibil de razele blânde ale soarelui.",
+                "en": "Finish your visit before the early 5 PM sunset, as it cools down rapidly afterwards. Many animals can be seen enjoying the mild winter sunshine."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a kerékpártúrát a Plaza de las Américas téren a friss reggeli levegőn.\n\nDélben tekerjen el a Művészeti Múzeumba egy kis modern kortárs kultúráért.\n\nDélután fedezze fel északra a kulturális negyedet, megállva a Foro Cometa és az Ágora Jenkins mellett.\n\nZárja az aktív napot a Calle 2 és az ikonikus Auditorio Telmex körüli pezsgő területeken.",
         "ro": "Începeți turul cu bicicleta în Plaza de las Américas, bucurându-vă de aerul dimineții.\n\nPedalați spre Muzeul de Artă la prânz pentru o doză de creativitate modernă.\n\nDupă-amiaza, mergeți spre nord în cartierul cultural, vizitând Foro Cometa și Ágora Jenkins.\n\nÎncheiați ziua activă explorând spațiile de la Calle 2 și celebrul Auditorio Telmex, pe măsură ce se lasă seara.",
         "en": "Kick off your cycling tour at Plaza de las Américas, enjoying the morning breeze.\n\nRide towards the Art Museum for a midday dose of modern creativity.\n\nIn the afternoon, pedal north to the vibrant cultural district, stopping at Foro Cometa and Ágora Jenkins.\n\nFinish your active day exploring the lively spaces around Calle 2 and the iconic Auditorio Telmex as the evening sets in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad beginnt mit Vorsicht auf den nassen Wegen am Platz. Mittags bieten die Kulturzentren und Museen sichere Unterstellmöglichkeiten. Am Nachmittag sind die Radwege zum Auditorio rutschig, planen Sie also mehr Zeit ein. Der Abend endet bei Regen unter den Vordächern des Telmex-Bereichs, wo die moderne Architektur bei Nacht glänzt.",
+            "hu": "A reggel kerékpáron óvatos indulással kezdődik a tér vizes útjain. Délben a kulturális központok és múzeumok biztosítanak fedett menedéket. Délután az Auditorio felé vezető kerékpárutak csúszósak lehetnek, így lassabb tempót tervezzen. Az este esőben a Telmex környékének előtetői alatt zárul, ahol az épületek fényei megcsillannak a vizes úton.",
+            "ro": "Dimineața pe bicicletă începe cu prudență pe drumurile ude din piață. La prânz, centrele culturale și muzeele oferă adăpost sigur. După-amiaza, pistele de biciclete spre Auditorio sunt alunecoase, deci planificați mai mult timp. Seara se încheie sub copertinele zonei Telmex, unde arhitectura modernă strălucește spectaculos pe timp de ploaie.",
+            "en": "The morning on the bike starts with caution on the wet paths near the plaza. At noon, the cultural centers and museums offer safe shelters. In the afternoon, the bike lanes towards the Auditorio are slippery, so plan for a slower pace. The evening ends under the canopies of the Telmex area, where modern architecture shines beautifully in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de las Américas (Juan Pablo II)",
+                "hu": "Plaza de las Américas (Juan Pablo II)",
+                "ro": "Plaza de las Américas (Juan Pablo II)",
+                "en": "Plaza de las Américas (Juan Pablo II)"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die glatten Fliesen und nutzen Sie die Kioske für kurze Pausen während der Schauer. Eine Regenjacke ist für diese offene Strecke unerlässlich.",
+                "hu": "Ügyeljen a csúszós burkolatra, és használja a pavilonokat rövid pihenőkre a záporok alatt. Egy esőkabát elengedhetetlen ezen a nyitott szakaszon.",
+                "ro": "Atenție la dalele alunecoase și folosiți chioșcurile pentru scurte pauze în timpul averselor. O jachetă de ploaie este esențială pentru acest traseu deschis.",
+                "en": "Watch out for smooth tiles and use the kiosks for quick breaks during showers. A raincoat is essential for this open stretch of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Zapopan",
+                "hu": "Museo de Arte de Zapopan",
+                "ro": "Museo de Arte de Zapopan",
+                "en": "Museo de Arte de Zapopan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den Museumsbesuch als trockene Pause. Die Innenräume sind perfekt, um den stärksten Regen abzuwarten.",
+                "hu": "Parkolja le kerékpárját biztonságos helyen, és használja a múzeumlátogatást száraz pihenőként. A belső terek tökéletesek a legerősebb eső kivárására.",
+                "ro": "Parcați bicicleta în siguranță și folosiți vizita la muzeu ca o pauză uscată. Interioarele sunt perfecte pentru a aștepta trecerea ploii torențiale.",
+                "en": "Park your bike securely and use the museum visit as a dry break. The interiors are perfect for waiting out the strongest part of the afternoon rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Foro Cometa",
+                "hu": "Foro Cometa",
+                "ro": "Foro Cometa",
+                "en": "Foro Cometa"
+              },
+              "tip_5lang": {
+                "de": "Dieses Freiluftforum kann bei Regen nass sein, bietet aber interessante architektonische Perspektiven. Achten Sie beim Befahren des Geländes auf Pfützen.",
+                "hu": "Ez a szabadtéri fórum vizes lehet esőben, de érdekes építészeti látványt nyújt. Ügyeljen a tócsákra, amikor a területen kerékpározik keresztül.",
+                "ro": "Acest forum în aer liber poate fi umed pe ploaie, dar oferă perspective arhitecturale interesante. Atenție la bălți când traversați zona cu bicicleta.",
+                "en": "This open-air forum can be wet during rain but offers interesting architectural views. Watch out for puddles when cycling through the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Ágora Jenkins",
+                "hu": "Ágora Jenkins",
+                "ro": "Ágora Jenkins",
+                "en": "Ágora Jenkins"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Betonstrukturen, falls es plötzlich zu regnen beginnt. Die Wege hier sind für Radfahrer bei Nässe recht anspruchsvoll.",
+                "hu": "Keressen menedéket a betonstruktúrák alatt, ha hirtelen eleredne az eső. Az itteni utak vizesen kihívást jelenthetnek a kerékpárosok számára.",
+                "ro": "Căutați adăpost sub structurile de beton dacă începe să plouă brusc. Căile de acces pot fi provocatoare pentru bicicliști când sunt ude.",
+                "en": "Seek shelter under the concrete structures if it starts to rain suddenly. The paths here can be quite challenging for cyclists when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle 2",
+                "hu": "Calle 2",
+                "ro": "Calle 2",
+                "en": "Calle 2"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die großen überdachten Hallen für eine Pause vom Wind und Regen. Hier gibt es oft genug Platz, um das Rad kurz im Trockenen abzustellen.",
+                "hu": "Használja a nagy, fedett csarnokokat, hogy megpihenjen a széltől és az esőtől. Itt gyakran van elég hely a kerékpár rövid idejű száraz tárolására.",
+                "ro": "Folosiți marile hale acoperite pentru o pauză de vânt și ploaie. Există adesea suficient spațiu pentru a lăsa bicicleta la uscat pentru scurt timp.",
+                "en": "Use the large sheltered halls for a break from the wind and rain. There is often enough space here to briefly keep your bike in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Telmex",
+                "hu": "Auditorio Telmex",
+                "ro": "Auditorio Telmex",
+                "en": "Auditorio Telmex"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufige Überdachung des Eingangsbereichs bietet exzellenten Schutz für Radfahrer. Bewundern Sie die moderne Fassade, während Sie im Trockenen bleiben.",
+                "hu": "A bejárati rész tágas előteteje kiváló védelmet nyújt a kerékpárosoknak. Csodálja meg a modern homlokzatot, miközben biztonságban van az esőtől.",
+                "ro": "Copertina vastă a zonei de intrare oferă protecție excelentă pentru bicicliști. Admirați fațada modernă în timp ce rămâneți la adăpost de ploaie.",
+                "en": "The vast canopy of the entrance area provides excellent shelter for cyclists. Admire the modern facade while staying perfectly dry underneath."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen auf dem Rad weckt die Lebensgeister, während Sie zum Platz fahren. Mittags ist das Wetter ideal für eine Tour durch das Kulturviertel. Am Nachmittag sollten Sie eine warme Jacke tragen, da der Fahrtwind kühler wird. Da die Sonne gegen 17:00 Uhr untergeht, endet der Tag mit einer stimmungsvollen Fahrt im letzten Tageslicht am Auditorio.",
+            "hu": "A hűvös reggeli kerékpározás frissítően hat, miközben a tér felé teker. Délben az időjárás ideális egy túrához a kulturális negyedben. Délután érdemes meleg kabátot viselni, mert a menetszél egyre hűvösebb lesz. Mivel a nap 17:00 körül nyugszik, a nap egy hangulatos tekeréssel zárul az utolsó fényeknél az Auditorio környékén.",
+            "ro": "O dimineață răcoroasă pe bicicletă vă va revigora în timp ce pedalați spre piață. La prânz, vremea este ideală pentru un tur prin cartierul cultural. După-amiaza, purtați o jachetă groasă, deoarece vântul devine mai rece. Deoarece soarele apune în jur de 17:00, ziua se încheie cu o plimbare plină de atmosferă la Auditorio.",
+            "en": "A crisp morning on the bike is invigorating as you ride towards the plaza. At noon, the weather is perfect for a tour through the cultural district. In the afternoon, wear a warm jacket as the riding wind becomes cooler. Since the sun sets around 5 PM, the day ends with an atmospheric ride in the last daylight near the Auditorio."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaza de las Américas (Juan Pablo II)",
+                "hu": "Plaza de las Américas (Juan Pablo II)",
+                "ro": "Plaza de las Américas (Juan Pablo II)",
+                "en": "Plaza de las Américas (Juan Pablo II)"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht das Radfahren hier sehr angenehm. Nutzen Sie die klaren Lichtverhältnisse für Fotos der Basilika ohne die sommerliche Hitze.",
+                "hu": "A hűvös reggeli levegő nagyon kellemessé teszi itt a kerékpározást. Használja ki a tiszta fényeket a Bazilika fotózásához a nyári hőség nélkül.",
+                "ro": "Aerul răcoros de dimineață face ciclismul foarte plăcut aici. Profitați de lumina clară pentru fotografii ale Basilicii fără căldura verii.",
+                "en": "The cool morning air makes cycling here very pleasant. Take advantage of the clear light for photos of the Basilica without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo de Arte de Zapopan",
+                "hu": "Museo de Arte de Zapopan",
+                "ro": "Museo de Arte de Zapopan",
+                "en": "Museo de Arte de Zapopan"
+              },
+              "tip_5lang": {
+                "de": "Eine Pause im Museum wärmt Sie nach der Fahrt wieder auf. Die klimatisierten Räume bieten eine konstante Wohlfühltemperatur für Kunstliebhaber.",
+                "hu": "Egy múzeumi szünet kellemesen felmelegíti a tekerés után. A klimatizált termek állandó, komfortos hőmérsékletet biztosítanak a művészetkedvelőknek.",
+                "ro": "O pauză la muzeu vă va încălzi după plimbare. Sălile climatizate oferă o temperatură constantă și confortabilă pentru iubitorii de artă.",
+                "en": "A break at the museum will warm you up after the ride. The climate-controlled rooms offer a constant comfortable temperature for art lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Foro Cometa",
+                "hu": "Foro Cometa",
+                "ro": "Foro Cometa",
+                "en": "Foro Cometa"
+              },
+              "tip_5lang": {
+                "de": "Das Forum liegt nachmittags oft im Schatten, was es kühl machen kann. Bewundern Sie die geometrischen Formen in der klaren Winterluft.",
+                "hu": "A fórum délután gyakran árnyékban van, ami hűvössé teheti a helyet. Csodálja meg a geometriai formákat a kristálytiszta téli levegőben.",
+                "ro": "Forumul este adesea în umbră după-amiaza, ceea ce îl poate face răcoros. Admirați formele geometrice în aerul curat de iarnă.",
+                "en": "The forum is often in the shade in the afternoon, making it quite cool. Admire the geometric shapes in the crystal-clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Ágora Jenkins",
+                "hu": "Ágora Jenkins",
+                "ro": "Ágora Jenkins",
+                "en": "Ágora Jenkins"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine kurze Pause in der Nachmittagssonne, bevor es kälter wird. Die offenen Betonflächen speichern mittags ein wenig Restwärme.",
+                "hu": "Tökéletes egy rövid pihenőre a délutáni napsütésben, mielőtt lehűlne az idő. A nyitott betonfelületek délben tárolnak némi maradék hőt.",
+                "ro": "Perfect pentru o scurtă pauză în soarele după-amiezii înainte de a se răci. Suprafețele deschise de beton rețin puțină căldură la prânz.",
+                "en": "Perfect for a short break in the afternoon sun before it gets colder. The open concrete surfaces retain a bit of residual heat at midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Calle 2",
+                "hu": "Calle 2",
+                "ro": "Calle 2",
+                "en": "Calle 2"
+              },
+              "tip_5lang": {
+                "de": "Diese Gegend kann im Winter windig sein, also halten Sie sich beim Radfahren warm. Die großen Strukturen bieten Schutz vor dem kühlen Zugwind.",
+                "hu": "Ez a környék télen szeles lehet, ezért öltözzön melegen kerékpározás közben. A nagy építmények védelmet nyújtanak a hűvös huzat ellen.",
+                "ro": "Această zonă poate fi vântoasă iarna, deci îmbrăcați-vă bine când pedalați. Structurile mari oferă protecție împotriva curentului rece.",
+                "en": "This area can be windy in winter, so keep warm while cycling. The large structures offer protection against the cool drafty winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Telmex",
+                "hu": "Auditorio Telmex",
+                "ro": "Auditorio Telmex",
+                "en": "Auditorio Telmex"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Auditorio vor 17:00 Uhr, um die Fassade im goldenen Licht zu sehen. Danach sinken die Temperaturen für die Rückfahrt schnell.",
+                "hu": "Érkezzen az Auditorióhoz 17:00 előtt, hogy lássa a homlokzatot az aranyfényben. Utána a hőmérséklet gyorsan csökken a hazaúthoz.",
+                "ro": "Ajungeți la Auditorio înainte de 17:00 pentru a vedea fațada în lumina aurie. După aceea, temperaturile scad rapid pentru drumul de întoarcere.",
+                "en": "Reach the Auditorio before 5 PM to see the facade in the golden light. Afterwards, temperatures drop quickly for the return journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózzon reggel az Avila Camacho parkba, ahol békésen indul a nap.\n\nDélben irány a központ, hogy felfedezze a Huichol Wixárika Múzeumot és a Plaza de las Américas teret.\n\nDélután látogasson el az El Grillo történelmi helyszínére.\n\nAz autós kirándulás az északi kulturális központban ér véget, megcsodálva az Auditorio Centralt és a Teatro Estudio Cavaret-t.",
         "ro": "Conduceți dimineața la Parque Avila Camacho pentru relaxare lângă apă.\n\nLa prânz, mergeți în centru pentru a explora Muzeul Huichol Wixárika și istorica Plaza de las Américas.\n\nDupă-amiaza, vizitați situl istoric El Grillo.\n\nExcursia se încheie în centrul cultural nordic, admirând impresionantul Auditorio Central și Teatro Estudio Cavaret.",
         "en": "Drive first to Parque Avila Camacho for a peaceful morning by the water.\n\nBy noon, head to the city center to explore the Huichol Wixárika Museum and the historic Plaza de las Américas.\n\nIn the afternoon, navigate to the historical site of El Grillo.\n\nYour road trip concludes in the northern cultural hub, visiting the impressive Auditorio Central and Teatro Estudio Cavaret."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto genießen Sie den Komfort, während draußen der Regen auf das Dach prasselt. Der Morgen im Park bietet trotz Nässe schöne Ausblicke aus dem Fahrzeug. Mittags sind die Museen bequem erreichbar, ohne nass zu werden. Nachmittags ist die Fahrt zum Auditorio bei starkem Regen entspannt. Der Abend endet trocken beim Cavaret, während die Stadtlichter im Regen leuchten.",
+            "hu": "Az autóban élvezheti a kényelmet, miközben odakint az eső kopog a tetőn. A reggel a parkban a nedvesség ellenére szép kilátást nyújt a járműből. Délben a múzeumok kényelmesen, ázás nélkül elérhetőek. Délután az Auditorio felé vezető út erős esőben is pihentető marad. Az este szárazon zárul a Cavaret-nél, miközben a város fényei ragyognak az esőben.",
+            "ro": "În mașină vă bucurați de confort în timp ce afară ploaia bate în plafon. Dimineața în parc oferă vederi frumoase din vehicul în ciuda umezelii. La prânz, muzeele sunt ușor accesibile fără a vă uda. După-amiaza, drumul spre Auditorio este relaxant chiar și pe ploaie torențială. Seara se încheie la Cavaret, în timp ce luminile orașului strălucesc în ploaie.",
+            "en": "In the car, you enjoy comfort while the rain patters on the roof outside. The morning in the park offers beautiful views from the vehicle despite the wetness. At noon, museums are easily accessible without getting soaked. In the afternoon, the drive to the Auditorio remains relaxing even in heavy rain. The evening ends dry at Cavaret, as city lights glow in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Avila Camacho",
+                "hu": "Parque Avila Camacho",
+                "ro": "Parque Avila Camacho",
+                "en": "Parque Avila Camacho"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Nähe des Eingangs, um den Weg im Regen kurzzuhalten. Die üppige Vegetation sieht bei Regen besonders intensiv grün aus.",
+                "hu": "Keressen parkolóhelyet a bejárat közelében, hogy lerövidítse az utat az esőben. A dús növényzet esőben különösen intenzív zöldnek tűnik.",
+                "ro": "Căutați un loc de parcare lângă intrare pentru a scurta drumul prin ploaie. Vegetația bogată arată de un verde deosebit de intens în timpul ploii.",
+                "en": "Find a parking spot close to the entrance to keep your walk in the rain short. The lush vegetation looks intensely green during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnografico Huichol Wixárika",
+                "hu": "Museo Etnografico Huichol Wixárika",
+                "ro": "Museo Etnografico Huichol Wixárika",
+                "en": "Museo Etnografico Huichol Wixárika"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis und springen Sie schnell ins trockene Museum. Die kunstvollen Exponate sind ein wunderbarer Kontrast zum grauen Wetter draußen.",
+                "hu": "Használja az autót bázisként, és ugorjon be gyorsan a száraz múzeumba. A művészi kiállítási tárgyak csodás kontrasztot alkotnak a kinti szürke idővel.",
+                "ro": "Folosiți mașina ca bază și intrați rapid în muzeul uscat. Exponatele artistice sunt un contrast minunat față de vremea cenușie de afară.",
+                "en": "Use your car as a base and quickly pop into the dry museum. The artistic exhibits provide a wonderful contrast to the gray weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de las Américas (Juan Pablo II)",
+                "hu": "Plaza de las Américas (Juan Pablo II)",
+                "ro": "Plaza de las Américas (Juan Pablo II)",
+                "en": "Plaza de las Américas (Juan Pablo II)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den umliegenden Straßen und nutzen Sie die Arkaden für Ihren Rundgang. Bei Regen ist die Plaza weniger überlaufen und wirkt sehr friedlich.",
+                "hu": "Parkoljon a környező utcákban, és használja az árkádokat a körsétához. Esőben a tér kevésbé zsúfolt, és rendkívül békés hangulatot áraszt.",
+                "ro": "Parcați pe străzile din jur și folosiți arcadele pentru plimbare. Pe ploaie, piața este mai puțin aglomerată și emană o atmosferă foarte pașnică.",
+                "en": "Park in the surrounding streets and use the arches for your walk. During rain, the plaza is less crowded and feels exceptionally peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "El Grillo",
+                "hu": "El Grillo",
+                "ro": "El Grillo",
+                "en": "El Grillo"
+              },
+              "tip_5lang": {
+                "de": "Diese archäologische Stätte ist bei Regen rutschig; betrachten Sie sie lieber aus sicherer Entfernung. Die grünen Hügel wirken im Regen sehr mystisch.",
+                "hu": "Ez a régészeti lelőhely esőben csúszós lehet; inkább biztonságos távolságból szemlélje. A zöld dombok az esőben nagyon misztikus látványt nyújtanak.",
+                "ro": "Acest sit arheologic poate fi alunecos pe ploaie; admirați-l mai degrabă de la o distanță sigură. Dealurile verzi par foarte mistice în ploaie.",
+                "en": "This archaeological site can be slippery in the rain; observe it from a safe distance instead. The green mounds look very mystical in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Central",
+                "hu": "Auditorio Central",
+                "ro": "Auditorio Central",
+                "en": "Auditorio Central"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Gebäude, sodass Sie den Regen kaum spüren werden. Die Architektur des Auditoriums wirkt bei bewölktem Himmel sehr markant.",
+                "hu": "A parkoló közel van az épülethez, így alig fogja érezni az esőt. Az Auditórium építészete felhős égbolt alatt nagyon markánsnak hat.",
+                "ro": "Parcarea este aproape de clădire, așa că abia veți simți ploaia. Arhitectura Auditoriului pare foarte impunătoare sub cerul înnorat.",
+                "en": "The parking lot is close to the building, so you will hardly feel the rain. The architecture of the Auditorium looks very striking under cloudy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Estudio Cavaret",
+                "hu": "Teatro Estudio Cavaret",
+                "ro": "Teatro Estudio Cavaret",
+                "en": "Teatro Estudio Cavaret"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Veranstaltungsort, um trocken zum Eingang zu gelangen. Ein perfekter Abschluss für einen regnerischen Tag in einem geschützten Rahmen.",
+                "hu": "Parkoljon közvetlenül a helyszínnél, hogy szárazon jusson a bejárathoz. Tökéletes lezárása egy esős napnak ebben a védett környezetben.",
+                "ro": "Parcați chiar lângă locație pentru a ajunge uscat la intrare. Un final perfect pentru o zi ploioasă într-un cadru protejat.",
+                "en": "Park directly at the venue to reach the entrance dry. A perfect conclusion to a rainy day within a sheltered and comfortable setting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt im warmen Auto ist an diesem kühlen Wintermorgen besonders angenehm. Mittags laden die sonnigen Parks und Museen zu Zwischenstopps ein. Am Nachmittag sinken die Temperaturen draußen, während Sie komfortabel zum Grillo fahren. Da es um 17:00 Uhr bereits dunkel wird, genießen Sie den frühen Abend in der gemütlichen Atmosphäre der Kulturzentren.",
+            "hu": "A meleg autóban való utazás különösen kellemes ezen a hűvös téli reggelen. Délben a napsütötte parkok és múzeumok hívogatnak megállókra. Délután a kinti hőmérséklet csökken, miközben Ön kényelmesen utazik a Grillo felé. Mivel 17:00-kor már sötétedik, élvezze a kora estét a kulturális központok barátságos légkörében.",
+            "ro": "Călătoria în mașina caldă este deosebit de plăcută în această dimineață răcoroasă de iarnă. La prânz, parcurile însorite și muzeele vă invită la opriri. După-amiaza, temperaturile scad afară în timp ce călătoriți confortabil spre Grillo. Deoarece se întunecă deja la ora 17:00, bucurați-vă de seară în centrele culturale.",
+            "en": "The drive in a warm car is particularly pleasant on this crisp winter morning. At noon, the sunny parks and museums invite you for stops. In the afternoon, temperatures outside drop while you travel comfortably towards El Grillo. Since it gets dark by 5 PM, enjoy the early evening in the cozy atmosphere of the cultural centers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque Avila Camacho",
+                "hu": "Parque Avila Camacho",
+                "ro": "Parque Avila Camacho",
+                "en": "Parque Avila Camacho"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Parkbesuch am Vormittag, wenn die Wintersonne am wärmsten ist. Die kühle Luft macht die Sicht über den See besonders klar und weit.",
+                "hu": "Élvezze a parkot délelőtt, amikor a téli nap a legmelegebben süt. A hűvös levegő miatt a kilátás a tó felett különösen tiszta és messzire nyúló.",
+                "ro": "Bucurați-vă de vizita în parc dimineața, când soarele de iarnă este cel mai cald. Aerul răcoros face ca vederea peste lac să fie deosebit de clară.",
+                "en": "Enjoy the park visit in the morning when the winter sun is warmest. The crisp air makes the view over the lake particularly clear and far-reaching."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Etnografico Huichol Wixárika",
+                "hu": "Museo Etnografico Huichol Wixárika",
+                "ro": "Museo Etnografico Huichol Wixárika",
+                "en": "Museo Etnografico Huichol Wixárika"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und wärmen Sie sich in den Ausstellungsräumen auf. Die lebendigen Farben der Huichol-Kunst wirken im Winterlicht sehr strahlend.",
+                "hu": "Parkoljon kényelmesen a közelben, és melegedjen fel a kiállítótermekben. A Huichol művészet élénk színei a téli fényben nagyon ragyogónak tűnnek.",
+                "ro": "Parcați confortabil în apropiere și încălziți-vă în sălile de expoziție. Culorile vii ale artei Huichol par foarte strălucitoare în lumina iernii.",
+                "en": "Park conveniently nearby and warm up inside the exhibition rooms. The vibrant colors of Huichol art appear very radiant in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Plaza de las Américas (Juan Pablo II)",
+                "hu": "Plaza de las Américas (Juan Pablo II)",
+                "ro": "Plaza de las Américas (Juan Pablo II)",
+                "en": "Plaza de las Américas (Juan Pablo II)"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist die beste Zeit für einen Spaziergang auf dem Platz, wenn es mild ist. Lassen Sie die Wintersonne auf sich wirken, bevor es am Abend kühler wird.",
+                "hu": "A délidő a legjobb alkalom egy sétára a téren, amikor az idő enyhe. Hagyja, hogy a téli nap melegítsen, mielőtt este hűvösebbre fordulna az idő.",
+                "ro": "Amiaza este cel mai bun moment pentru o plimbare în piață, când este blând. Lăsați soarele de iarnă să vă încălzească înainte de răcirea serii.",
+                "en": "Midday is the best time for a stroll in the plaza when it is mild. Let the winter sun warm you before the temperature drops in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "El Grillo",
+                "hu": "El Grillo",
+                "ro": "El Grillo",
+                "en": "El Grillo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Stätte am frühen Nachmittag, um das beste Tageslicht zu nutzen. Die winterliche Trockenheit lässt die archäologischen Details gut hervortreten.",
+                "hu": "Látogassa meg a helyszínt kora délután, hogy kihasználja a legjobb nappali fényt. A téli szárazság miatt a régészeti részletek jól kivehetőek.",
+                "ro": "Vizitați situl după-amiaza devreme pentru a profita de cea mai bună lumină. Uscăciunea iernii face ca detaliile arheologice să iasă bine în evidență.",
+                "en": "Visit the site in the early afternoon to make the most of the best daylight. The winter dryness makes the archaeological details stand out clearly."
+              }
+            },
+            {
+              "name": {
+                "de": "Auditorio Central",
+                "hu": "Auditorio Central",
+                "ro": "Auditorio Central",
+                "en": "Auditorio Central"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Auditorio vor Einbruch der Dunkelheit um 17:00 Uhr. Die moderne Struktur ist in der Dämmerung ein schöner Anblick aus dem Auto.",
+                "hu": "Érkezzen az Auditóriumhoz a sötétedés előtt, 17:00 körül. A modern építmény a szürkületben szép látványt nyújt az autóból szemlélve.",
+                "ro": "Ajungeți la Auditoriu înainte de lăsarea întunericului, în jurul orei 17:00. Structura modernă este o vedere frumoasă din mașină la crepuscul.",
+                "en": "Reach the Auditorium before darkness falls around 5 PM. The modern structure is a beautiful sight from the car during the winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Estudio Cavaret",
+                "hu": "Teatro Estudio Cavaret",
+                "ro": "Teatro Estudio Cavaret",
+                "en": "Teatro Estudio Cavaret"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in der Wärme dieses Kulturzentrums. Die Heizung sorgt für einen gemütlichen Aufenthalt, während es draußen winterlich kühl ist.",
+                "hu": "Zárja a napot ezen a meleg kulturális helyszínen. A fűtés biztosítja a kellemes időtöltést, miközben odakint téli hűvösség uralkodik.",
+                "ro": "Încheiați ziua în căldura acestui centru cultural. Încălzirea asigură o ședere plăcută în timp ce afară este răcoarea specifică iernii.",
+                "en": "End your day in the warmth of this cultural venue. The heating ensures a cozy stay while it is wintry and cool outside in Zapopan."
+              }
+            }
+          ]
+        }
       }
     }
   }

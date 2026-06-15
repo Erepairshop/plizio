@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot az egyedülálló geológiai és történelmi leletek felfedezésével Adamas múzeumaiban. Délben induljon el Plaka magaslati sikátorai felé, hogy megcsodálja a hagyományos építészetet. A délután a velencei várromok felfedezéséről és a panoráma élvezetéről szól. Zárja a napot Trypiti ősi katakombáinak és lenyűgöző kora keresztény emlékeinek megtekintésével.",
         "ro": "Începeți ziua explorând artefactele geologice și istorice unice din muzeele locale din Adamas. La prânz, îndreptați-vă spre aleile înalte din Plaka pentru a admira arhitectura tradițională. După-amiaza este dedicată explorării ruinelor impunătoare ale castelului venețian și bucuriei vederilor panoramice. Încheiați-vă călătoria în Trypiti descoperind catacombele antice.",
         "en": "Begin your day delving into the unique geological and historical artifacts at the local museums in Adamas. By midday, make your way toward the elevated alleys of Plaka to admire stunning traditional architecture. The afternoon is dedicated to exploring the commanding ruins of the Venetian Castle and enjoying the panoramic island views. End your journey in Trypiti discovering ancient catacombs."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Sandmuseum perfekten Schutz vor den ersten Tropfen. Mittags spazieren wir vorsichtig über die glatten Gassen zum Archäologischen Museum. Am Nachmittag genießen wir die dramatische Aussicht von der Burg, bevor wir in die geschützten Katakomben hinabsteigen. Abends wärmen wir uns in einer gemütlichen Taverne am Hafen auf und lauschen dem Regen auf den Wellen.",
+            "hu": "Reggel a homokmúzeum fedett tereiben kezdünk, távol az esőtől. Délben az óváros szűk, csúszós utcáin óvatosan haladunk a régészeti kincsek felé. Délután a vár fokáról nézzük a viharos tengert, majd a katakombák védett járataiba húzódunk a szél elől. Este Adamasz fényei mellett egy zárt tavernát keresünk, ahol a helyi ételek melegítenek fel a párás időben.",
+            "ro": "Dimineața începe la muzeul nisipului, un refugiu ideal împotriva ploii. La prânz explorăm vestigiile arheologice în interior, evitând trotuarele alunecoase. După-amiaza admirăm marea agitată de la castel, apoi coborâm în catacombele ferite de intemperii. Seara se încheie într-o tavernă călduroasă din port, savurând atmosfera autentică și liniștită a insulei.",
+            "en": "Morning starts indoors at the sand museum, staying dry while admiring unique exhibits. At noon, we navigate the slippery cobblestones carefully toward the archaeological museum. In the afternoon, the castle offers a moody view of the stormy Aegean, followed by the sheltered catacombs. Evening is best spent in a cozy, indoor tavern in Adamas as the rain falls over the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sandmuseum Mapmapa",
+                "hu": "Mapmapa Homokmúzeum",
+                "ro": "Muzeul de Nisip Mapmapa",
+                "en": "Mapmapa Sand Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Raum, um die faszinierende Sammlung bunter Sande aus aller Welt zu bewundern, während es draußen regnet.",
+                "hu": "Élvezze a világ minden tájáról származó színes homokok gyűjteményét a múzeum fedett tereiben, így szárazon ismerheti meg a sziget geológiáját.",
+                "ro": "Explorați colecția fascinantă de nisipuri colorate din întreaga lume în interior, ferit de ploaie, descoperind diversitatea geologică uimitoare.",
+                "en": "Enjoy the fascinating collection of colored sands from around the world inside this sheltered museum, perfect for avoiding the morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Milos",
+                "hu": "Miloszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Milos",
+                "en": "Archaeological Museum of Milos"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Rückzugsort; bewundern Sie die Kopie der Venus von Milo im Trockenen und meiden Sie die nassen Außenstufen.",
+                "hu": "A múzeum kiváló menedék az eső elől; csodálja meg a Miloszi Vénusz másolatát beltérben, elkerülve a vizes és csúszós lépcsőket.",
+                "ro": "Muzeul este un refugiu ideal; admirați copia celebrei Venus din Milo la adăpost, evitând treptele exterioare umede și alunecoase.",
+                "en": "The museum is an ideal indoor sanctuary; admire the copy of Venus de Milo while staying dry and avoiding the wet outdoor steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Korphiatissa",
+                "hu": "Panagia Korphiatissa",
+                "ro": "Panagia Korphiatissa",
+                "en": "Panagia Korphiatissa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere der Kirche für einen Moment der Stille und nutzen Sie den Vorraum, um Ihren Regenschirm kurz zu trocknen.",
+                "hu": "Térjen be a templom belső terébe egy csendes pillanatra, és használja az előteret, hogy lerázza az esőt az esernyőjéről.",
+                "ro": "Vizitați interiorul bisericii pentru un moment de liniște și profitați de pridvor pentru a vă adăposti scurt timp de ploaie.",
+                "en": "Visit the church interior for a quiet moment and use the porch to briefly dry off your umbrella before continuing your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianische Burg von Milos",
+                "hu": "Miloszi Velencei Vár",
+                "ro": "Castelul Venețian din Milos",
+                "en": "Venetian Castle of Milos"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht bei Regen ist mystisch, aber seien Sie vorsichtig auf den glatten Steinen; tragen Sie unbedingt Schuhe mit gutem Profil.",
+                "hu": "Az esős kilátás misztikus, de legyen nagyon óvatos a csúszós köveken a várnál; viseljen tapadós talpú cipőt a biztonság érdekében.",
+                "ro": "Priveliștea pe ploaie este mistică, dar aveți grijă pe pietrele alunecoase de la castel; purtați încălțăminte cu talpă aderentă.",
+                "en": "The rainy view is mystical, but be very careful on the slippery stones at the castle; wear shoes with good grip for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Baptisterium der drei Kirchen",
+                "hu": "Három Templom Keresztelőkápolnája",
+                "ro": "Baptisteriul celor Trei Biserici",
+                "en": "Baptistery of Three Churches"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die antiken Ruinen schnell und suchen Sie dann Schutz unter den nahegelegenen Vordächern, um trocken zu bleiben.",
+                "hu": "Tekintse meg gyorsan az antik romokat, majd keressen menedéket a közeli előtetők alatt, hogy ne ázzon meg a nyílt terepen.",
+                "ro": "Observați rapid ruinele antice și apoi căutați adăpost sub streșinile din apropiere pentru a rămâne uscat în timpul explorării.",
+                "en": "Observe the ancient ruins quickly and then seek shelter under nearby eaves to stay dry while exploring the open site."
+              }
+            },
+            {
+              "name": {
+                "de": "Katakomben von Trypiti",
+                "hu": "Trypiti Katakombák",
+                "ro": "Catacombele din Trypiti",
+                "en": "Catacombs of Trypiti"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort bei Regen; unter der Erde sind Sie völlig geschützt vor Wind und Wasser in den historischen Gängen.",
+                "hu": "Ez a legjobb hely esőben; a föld alatt teljesen védve van a széltől és a víztől a különleges történelmi járatokban.",
+                "ro": "Acesta este cel mai bun loc pe ploaie; sub pământ sunteți complet protejat de vânt și apă în coridoarele istorice unice.",
+                "en": "This is the best spot during rain; underground you are completely sheltered from wind and water in the unique historic passages."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am kühlen Morgen besuchen wir die Museen, um uns aufzuwärmen. Mittags spazieren wir durch die ruhige Plaka und genießen das klare Winterlicht. Da die Sonne bereits gegen 17:00 Uhr untergeht, erklimmen wir die Burg am frühen Nachmittag. Der Abend endet früh bei einem heißen Getränk in einer der wenigen offenen, heimeligen Bars in Adamas.",
+            "hu": "Reggel a friss téli szélben indulunk a múzeumi negyedbe melegedni. Délben a napfényes, de hűvös Plakában sétálunk, élvezve a tömeg nélküli szigetet. Délután 17 óra körül a várból csodáljuk meg a korai naplementét, mielőtt lehűlne a levegő. Este Adamasz egyik hangulatos, nyitva tartó kávézójában melegszünk fel egy forró itallal.",
+            "ro": "În dimineața răcoroasă ne încălzim vizitând muzeele locale. La prânz ne plimbăm prin Plaka liniștită, profitând de lumina clară de iarnă. Deoarece soarele apune în jur de ora 17:00, urcăm la castel devreme. Seara se încheie devreme cu o băutură caldă într-o cafenea primitoare din Adamas, printre localnici.",
+            "en": "On a crisp winter morning, we head to the museums to stay warm. At noon, we stroll through the quiet streets of Plaka, enjoying the crowd-free island. Since sunset is around 17:00, we visit the castle in the early afternoon. The evening ends early with a hot drink in a cozy cafe in Adamas as the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sandmuseum Mapmapa",
+                "hu": "Mapmapa Homokmúzeum",
+                "ro": "Muzeul de Nisip Mapmapa",
+                "en": "Mapmapa Sand Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter beheizt; ideal, um die filigranen Sandproben in aller Ruhe ohne sommerliche Hitze zu betrachten.",
+                "hu": "A múzeum télen is kellemes hőmérsékletű; ideális a különleges homokminták nyugodt tanulmányozására a nyári hőség nélkül.",
+                "ro": "Muzeul este încălzit iarna; este locul ideal pentru a studia probele de nisip în liniște, fără arșița verii sau aglomerație.",
+                "en": "The museum is heated in winter; ideal for studying the unique sand samples in peace without the summer heat or crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Milos",
+                "hu": "Miloszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Milos",
+                "en": "Archaeological Museum of Milos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Winteröffnungszeiten am Vormittag, um die antiken Statuen ohne Warteschlangen in den warmen Sälen zu sehen.",
+                "hu": "Használja ki a délelőtti rövid téli nyitvatartást, hogy sorban állás nélkül, fűtött termekben nézze meg az antik szobrokat.",
+                "ro": "Profități de programul scurt de iarnă de dimineață pentru a vedea statuile antice fără cozi, în sălile primitoare ale muzeului.",
+                "en": "Take advantage of the short winter morning hours to see the ancient statues without queues in the warm museum halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Korphiatissa",
+                "hu": "Panagia Korphiatissa",
+                "ro": "Panagia Korphiatissa",
+                "en": "Panagia Korphiatissa"
+              },
+              "tip_5lang": {
+                "de": "Der Platz vor der Kirche bietet im Winter eine glasklare Fernsicht; ziehen Sie eine windfeste Jacke für die kühle Brise an.",
+                "hu": "A templom előtti térről télen kristálytiszta a kilátás; vegyen fel szélálló kabátot a hűvös tengeri szellő ellen.",
+                "ro": "Piațeta din fața bisericii oferă o vizibilitate excelentă iarna; purtați o jachetă rezistentă la vânt pentru briza rece.",
+                "en": "The square in front of the church offers crystal clear views in winter; wear a windproof jacket against the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianische Burg von Milos",
+                "hu": "Miloszi Velencei Vár",
+                "ro": "Castelul Venețian din Milos",
+                "en": "Venetian Castle of Milos"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie spätestens um 16:30 Uhr hier, um den frühen Sonnenuntergang zu erleben, bevor es oben auf den Mauern sehr kalt wird.",
+                "hu": "Érkezzen legkésőbb 16:30-ra, hogy lássa a korai naplementét, mielőtt a várfalak között hirtelen lehűlne a levegő.",
+                "ro": "Ajungeți cel târziu la 16:30 pentru a vedea apusul timpuriu, înainte ca temperatura să scadă brusc pe zidurile castelului.",
+                "en": "Be here by 16:30 at the latest to witness the early sunset before the air turns very cold on the castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Baptisterium der drei Kirchen",
+                "hu": "Három Templom Keresztelőkápolnája",
+                "ro": "Baptisteriul celor Trei Biserici",
+                "en": "Baptistery of Three Churches"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Mosaike wunderschön; besuchen Sie die Stätte früh, bevor sie im Schatten der Hügel liegt.",
+                "hu": "Az alacsonyan járó téli nap gyönyörűen megvilágítja a mozaikokat; látogassa meg korán, mielőtt a dombok árnyékába kerülne.",
+                "ro": "Soarele de iarnă luminează superb mozaicurile; vizitați situl devreme, înainte ca dealurile să arunce umbre lungi și reci.",
+                "en": "The low winter sun illuminates the mosaics beautifully; visit early before the site falls into the cold shadow of the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Katakomben von Trypiti",
+                "hu": "Trypiti Katakombák",
+                "ro": "Catacombele din Trypiti",
+                "en": "Catacombs of Trypiti"
+              },
+              "tip_5lang": {
+                "de": "In den Katakomben herrscht ganzjährig eine konstante Temperatur; sie wirken im Winter im Vergleich zur Außenluft angenehm mild.",
+                "hu": "A katakombákban egész évben állandó a hőmérséklet; télen kellemesen enyhének tűnnek a kinti hideg levegőhöz képest.",
+                "ro": "Catacombele mențin o temperatură constantă tot anul; iarna par plăcut de calde comparativ cu aerul rece de afară.",
+                "en": "The catacombs maintain a constant temperature year-round; in winter, they feel pleasantly mild compared to the cold outside air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje egy békés reggeli tekeréssel a bájos Agios Nektarios templomhoz és Nukhia egyedülálló természeti tájaihoz. Délben másszon fel Trypitibe, hogy felfedezze a történelmi katakombákat. Délután hódítsa meg a milói velencei várat, ahonnan lenyűgöző kilátás nyílik az Égei-tengerre. Zárja aktív napját azzal, hogy legurul Firopotamos élénk vizéhez, és kipiheni a fáradalmakat.",
         "ro": "Începeți cu o plimbare liniștită dimineața către fermecătorul Agios Nektarios și peisajele naturale unice din Nukhia. La prânz, urcați spre Trypiti pentru a explora catacombe istorice. După-amiaza, cuceriți Castelul Venețian pentru vederi panoramice asupra Mării Egee. Încheiați ziua activă coborând ușor către apele vibrante și relaxante din Firopotamos.",
         "en": "Start with a peaceful morning ride to the charming Agios Nektarios and the unique natural landscapes of Nukhia. At midday, climb up to Trypiti to explore historical catacombs and traditional Cycladic religious sites. In the afternoon, conquer the Venetian Castle of Milos for sweeping vistas over the Aegean. Conclude your active day by coasting down to the vibrant waters of Firopotamos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig auf nassen Straßen zur Kirche. Mittags suchen wir Schutz in den Katakomben, während der Regen draußen die Hügel wäscht. Am Nachmittag fahren wir langsam über die glatten Wege der Plaka zur Burg. Abends beenden wir die Tour früh in Adamas, um die Fahrräder sicher abzustellen und uns vor dem Wind ins Trockene zu flüchten.",
+            "hu": "Reggel óvatosan biciklizünk a vizes utakon a templom felé. Délben a katakombákba húzódunk, amíg az eső lemossa a domboldalakat. Délután lassan haladunk a Plaka csúszós kövein a vár felé, ügyelve a féktávra. Este korán befejezzük a túrát Adamaszban, biztonságba helyezve a gépeket és fedett helyre húzódva a szél elől.",
+            "ro": "Dimineața pedalăm cu atenție pe asfaltul ud spre biserică. La prânz ne adăpostim în catacombe cât timp ploaia spală dealurile din jur. După-amiaza înaintăm lent prin Plaka, având grijă la frânare pe pavajul umed. Seara încheiem turul devreme în Adamas, punând bicicletele la adăpost și căutând un loc ferit de vânt.",
+            "en": "Morning cycling requires caution on wet roads as we head to the church. At noon, we shelter in the catacombs while the rain washes the hills. Afternoon involves slow riding through Plaka's slippery streets toward the castle. Evening ends early in Adamas to park the bikes safely and seek cover from the coastal wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Agios Nektarios",
+                "hu": "Agios Nektarios",
+                "ro": "Agios Nektarios",
+                "en": "Agios Nektarios"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab und nutzen Sie die Kirche als trockenen Ruhepunkt, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Támassza le a biciklit az előtető alatt, és használja a templomot száraz pihenőhelyként, mielőtt folytatná az utat az esőben.",
+                "ro": "Parcați bicicleta sub streșină și folosiți biserica ca punct de odihnă uscat înainte de a continua drumul prin ploaie.",
+                "en": "Park your bike under the overhang and use the church as a dry rest point before continuing your ride through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Nukhia",
+                "hu": "Nukhia",
+                "ro": "Nukhia",
+                "en": "Nukhia"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenfelsen sind bei Regen extrem glatt; lassen Sie das Rad oben stehen und genießen Sie den Blick aus sicherer Entfernung.",
+                "hu": "A tengerparti sziklák esőben rendkívül csúszósak; hagyja fent a biciklit, és csak biztonságos távolságból csodálja a panorámát.",
+                "ro": "Stâncile de coastă sunt extrem de alunecoase pe ploaie; lăsați bicicleta sus și admirați panorama de la o distanță sigură.",
+                "en": "Coastal rocks are extremely slippery in the rain; leave your bike above and enjoy the view from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Katakomben von Trypiti",
+                "hu": "Trypiti Katakombák",
+                "ro": "Catacombele din Trypiti",
+                "en": "Catacombs of Trypiti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch für eine längere Pause im Trockenen; der Abstieg in die kühlen Gänge ist bei Regen besonders angenehm.",
+                "hu": "Használja ki a látogatást egy hosszabb száraz pihenőre; a föld alatti járatok tökéletes menedéket nyújtanak a zivatar elől.",
+                "ro": "Profitați de vizită pentru o pauză lungă la uscat; galeriile subterane oferă adăpostul perfect împotriva averselor de ploaie.",
+                "en": "Use this visit for a longer dry break; the underground passages provide perfect shelter from the passing rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Korphiatissa",
+                "hu": "Panagia Korphiatissa",
+                "ro": "Panagia Korphiatissa",
+                "en": "Panagia Korphiatissa"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den nassen Pflastersteinen der Plaka auf Ihren Stand; die Kirche bietet kurzfristig Schutz.",
+                "hu": "Vigyázzon a leszállásnál a Plaka vizes macskakövein; a templom épülete rövid ideig védelmet nyújt a csapadék ellen.",
+                "ro": "Aveți grijă când coborâți de pe bicicletă pe pavajul umed din Plaka; clădirea bisericii oferă protecție temporară contra ploii.",
+                "en": "Be careful when dismounting on Plaka's wet cobblestones; the church building offers temporary protection from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianische Burg von Milos",
+                "hu": "Miloszi Velencei Vár",
+                "ro": "Castelul Venețian din Milos",
+                "en": "Venetian Castle of Milos"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nicht zu nah an den Rand; der Wind kann bei Regen oben am Schloss sehr stark und unberechenbar wehen.",
+                "hu": "Ne hajtson túl közel a peremhez; a szél esős időben nagyon erős és kiszámíthatatlan lehet fent a várnál.",
+                "ro": "Nu pedalați prea aproape de margine; vântul pe ploaie poate fi foarte puternic și imprevizibil sus la castel.",
+                "en": "Don't cycle too close to the edge; the wind can be very strong and unpredictable up at the castle during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Firopotamos",
+                "hu": "Firopotamos",
+                "ro": "Firopotamos",
+                "en": "Firopotamos"
+              },
+              "tip_5lang": {
+                "de": "Die steile Abfahrt zum Dorf ist bei Nässe gefährlich; prüfen Sie Ihre Bremsen gründlich, bevor Sie den Hügel hinunterrollen.",
+                "hu": "A faluba vezető meredek lejtő nedvesen veszélyes; alaposan ellenőrizze a fékeit, mielőtt elindulna lefelé a dombról.",
+                "ro": "Coborârea abruptă spre sat este periculoasă pe carosabil umed; verificați bine frânele înainte de a porni la vale.",
+                "en": "The steep descent to the village is dangerous when wet; check your brakes thoroughly before heading down the hill."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frühmorgens radeln wir los, um die Kühle mit Bewegung zu vertreiben. Mittags erreichen wir die Katakomben, wo es wärmer ist als an der windigen Küste. Am Nachmittag genießen wir die leeren Straßen Richtung Plaka und den frühen Sonnenuntergang an der Burg gegen 17:00 Uhr. Den Abend lassen wir bei einem warmen Tee in Adamas ausklingen, bevor es richtig kalt wird.",
+            "hu": "Kora reggel indulunk, hogy a mozgással űzzük el a téli hűvösséget. Délben érjük el a katakombákat, ahol enyhébb az idő, mint a szeles parton. Délután élvezzük az üres utakat Plaka felé, és a korai, 17 órai naplementét a várnál. Az estét egy meleg teával zárjuk Adamaszban, mielőtt a levegő teljesen lehűlne.",
+            "ro": "Pornim devreme pentru a ne încălzi prin mișcare în aerul rece de iarnă. La prânz ajungem la catacombe, unde este mai cald decât pe coasta vântoasă. După-amiaza profităm de drumurile libere spre Plaka și de apusul de la ora 17:00. Seara se încheie cu un ceai fierbinte în Adamas, înainte de lăsarea frigului.",
+            "en": "We start early, using movement to ward off the winter chill. At noon, we reach the catacombs, which feel warmer than the windy coast. Afternoon is for enjoying empty roads toward Plaka and the early 17:00 sunset at the castle. The evening ends with a hot tea in Adamas before the night chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Agios Nektarios",
+                "hu": "Agios Nektarios",
+                "ro": "Agios Nektarios",
+                "en": "Agios Nektarios"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den sonnigen Vormittag für die Fahrt hierher; im Winter ist die Luft glasklar und die Sicht auf die Kirche perfekt.",
+                "hu": "Használja ki a napsütéses délelőttöt az ideútra; télen kristálytiszta a levegő, és a templom látványa ilyenkor a legszebb.",
+                "ro": "Profități de dimineața însorită pentru drum; iarna aerul este extrem de clar, iar vizibilitatea asupra bisericii este perfectă.",
+                "en": "Take advantage of the sunny morning for the ride; in winter the air is crystal clear and the view of the church is perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Nukhia",
+                "hu": "Nukhia",
+                "ro": "Nukhia",
+                "en": "Nukhia"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung beim Radeln entlang der Küste; die Winterbrise ist hier deutlich stärker und kühler als im Sommer.",
+                "hu": "Viseljen szélálló ruházatot a parton tekerve; a téli szellő itt sokkal erősebb és hűvösebb, mint a nyári hónapokban.",
+                "ro": "Purtați haine rezistente la vânt pe coastă; briza de iarnă este mult mai puternică și rece aici decât în lunile de vară.",
+                "en": "Wear windproof clothing while cycling along the coast; the winter breeze here is much stronger and cooler than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Katakomben von Trypiti",
+                "hu": "Trypiti Katakombák",
+                "ro": "Catacombele din Trypiti",
+                "en": "Catacombs of Trypiti"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich kurz aufzuwärmen, da die Innentemperatur in den Gängen im Winter meist über der Außentemperatur liegt.",
+                "hu": "Ideális hely egy rövid felmelegedéshez, mivel a járatok belső hőmérséklete télen általában magasabb a kinti levegőnél.",
+                "ro": "Un loc ideal pentru o scurtă încălzire, deoarece temperatura din interiorul galeriilor este iarna mai ridicată decât cea de afară.",
+                "en": "An ideal place for a quick warm-up, as the indoor temperature in the passages is usually higher than the outside air in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Panagia Korphiatissa",
+                "hu": "Panagia Korphiatissa",
+                "ro": "Panagia Korphiatissa",
+                "en": "Panagia Korphiatissa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der Plaka ohne Touristenströme; das Licht auf der weißen Fassade ist im Winter besonders sanft.",
+                "hu": "Élvezze a Plaka nyugalmát a turistaáradat nélkül; a fehér homlokzatra eső téli fények ilyenkor különösen lágyak és szépek.",
+                "ro": "Bucurați-vă de liniștea din Plaka fără mulțimi de turiști; lumina de iarnă pe fațada albă este extrem de blândă și frumoasă.",
+                "en": "Enjoy the peace of Plaka without the tourist crowds; the winter light on the white facade is particularly soft and beautiful."
+              }
+            },
+            {
+              "name": {
+                "de": "Venezianische Burg von Milos",
+                "hu": "Miloszi Velencei Vár",
+                "ro": "Castelul Venețian din Milos",
+                "en": "Venetian Castle of Milos"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor dem frühen Sonnenuntergang um 17:00 Uhr; die Farben über der Bucht sind im Winter sehr intensiv.",
+                "hu": "Tervezze az érkezést a korai, 17 órás naplemente elé; az öböl feletti színek télen sokkal intenzívebbek és drámaibbak.",
+                "ro": "Planificați sosirea înainte de apusul de la ora 17:00; culorile de deasupra golfului sunt mult mai intense și dramatice iarna.",
+                "en": "Plan to arrive before the early 17:00 sunset; the colors over the bay are much more intense and dramatic in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Firopotamos",
+                "hu": "Firopotamos",
+                "ro": "Firopotamos",
+                "en": "Firopotamos"
+              },
+              "tip_5lang": {
+                "de": "Das verlassene Fischerdorf hat im Winter einen ganz eigenen Charme; nehmen Sie Handschuhe für die kühle Rückfahrt nach Adamas mit.",
+                "hu": "Az elhagyatott halászfalu télen különleges hangulatot áraszt; vigyen kesztyűt a hűvös visszaútra Adamasz felé.",
+                "ro": "Satul pescăresc părăsit are un farmec aparte iarna; luați mănuși pentru drumul de întoarcere răcoros spre Adamas.",
+                "en": "The deserted fishing village has a unique charm in winter; bring gloves for the cool return ride back to Adamas."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autózzon először a sziget belsejébe, hogy magába szívja a helyi kápolnák spirituális nyugalmát, mielőtt az északi partra indulna. A delet a festői halászfalvak, Mantrakia és Tourkothalassa közötti ugrálással töltse. A délután arra hívja, hogy pihenjen Firopotamos nyugodt vizeinél. Zárja a festői autós utazást egy csodálatos naplementével a védett Plathiena tengerpartján.",
         "ro": "Conduceți spre interior inițial pentru a absorbi calmul spiritual al capelelor locale înainte de a vă îndrepta spre coasta de nord. Petreceți-vă prânzul între satele pitorești de pescari Mantrakia și Tourkothalassa. După-amiaza vă invită să vă relaxați lângă apele senine din Firopotamos. Încheiați excursia pitorească cu un apus de soare magnific pe plaja relaxantă Plathiena.",
         "en": "Drive inland initially to soak in the spiritual calmness of local chapels before heading to the northern coast. Spend your midday hopping between the picturesque fishing villages of Mantrakia and Tourkothalassa, admiring their colorful boathouses. The afternoon invites you to relax by the serene waters of Firopotamos. Wrap up your scenic road trip with a magnificent sunset at Plathiena beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir bequem im trockenen Auto zur ersten Kirche. Mittags steuern wir die Küstenorte an und beobachten den Regen vom geschützten Fahrzeug aus. Am Nachmittag besuchen wir Firopotamos, wo wir die Brandung sicher vom Auto aus filmen können. Den Abend verbringen wir in einem gemütlichen Restaurant in Adamas, während die Autoscheiben langsam beschlagen.",
+            "hu": "Reggel kényelmesen, száraz autóval indulunk az első templom felé. Délben a part menti falvakat látogatjuk meg, az autóból figyelve az eső áztatta tájat. Délután Firopotamosz felé vesszük az irányt, ahol a kocsi ablakából csodálhatjuk a tajtékzó tengert. Az estét Adamasz egyik zárt éttermében töltjük, miközben kint elcsendesedik a kikötő.",
+            "ro": "Dimineața pornim confortabil cu mașina spre prima biserică, feriți de ploaie. La prânz vizităm satele de coastă, admirând peisajul umed din interiorul vehiculului. După-amiaza mergem spre Firopotamos, unde putem observa marea agitată în siguranță din mașină. Seara ne relaxăm într-un restaurant din Adamas, în timp ce ploaia continuă afară.",
+            "en": "Morning starts comfortably in a dry car heading to the first church. At noon, we tour coastal villages, observing the rain-soaked scenery from inside the vehicle. Afternoon is spent at Firopotamos, where we can watch the crashing waves safely from the car. Evening is best spent in a cozy restaurant in Adamas as the windows fog up from the warmth."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Agios Nektarios",
+                "hu": "Agios Nektarios",
+                "ro": "Agios Nektarios",
+                "en": "Agios Nektarios"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trockenen Fußes in die Kirche zu gelangen; genießen Sie die Ruhe im Inneren.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy száraz lábbal jusson be a templomba; élvezze a benti csendet és nyugalmat.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în interior; bucurați-vă de liniștea și pacea din biserică.",
+                "en": "Park as close to the entrance as possible to reach the church dry; enjoy the quiet and peaceful atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantrakia",
+                "hu": "Mantrakia",
+                "ro": "Mantrakia",
+                "en": "Mantrakia"
+              },
+              "tip_5lang": {
+                "de": "Die bunten Bootshäuser wirken bei grauem Regenwetter besonders farbenfroh; schießen Sie Fotos direkt durch das offene Autofenster.",
+                "hu": "A színes csónakházak a szürke esőben még élénkebbek; készítsen fotókat közvetlenül a lehúzott autóablakon keresztül.",
+                "ro": "Căsuțele colorate pentru bărci par și mai vibrante pe ploaie; faceți fotografii direct prin geamul coborât al mașinii.",
+                "en": "The colorful boat houses look even more vibrant against the grey rain; take photos directly through the open car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourkothalassa",
+                "hu": "Tourkothalassa",
+                "ro": "Tourkothalassa",
+                "en": "Tourkothalassa"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das aufgewühlte Meer ist vom Parkplatz aus spektakulär; bleiben Sie im Auto und lassen Sie die Wischer auf Intervall.",
+                "hu": "A felkorbácsolt tenger látványa a parkolóból is lenyűgöző; maradjon a kocsiban, és élvezze a drámai hullámokat a szélvédő mögül.",
+                "ro": "Priveliștea mării agitate din parcare este spectaculoasă; rămâneți în mașină și admirați valurile dramatice prin parbriz.",
+                "en": "The view of the churning sea from the parking lot is spectacular; stay in the car and enjoy the dramatic waves from behind the glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Gerania",
+                "hu": "Gerania",
+                "ro": "Gerania",
+                "en": "Gerania"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als mobilen Unterschlupf; die Küstenstraße bietet tolle Ausblicke, ohne dass Sie im Regen nass werden müssen.",
+                "hu": "Használja az autót mobil menedékként; a part menti út nagyszerű kilátást nyújt anélkül, hogy ki kellene szállnia az esőbe.",
+                "ro": "Folosiți mașina ca adăpost mobil; drumul de coastă oferă priveliști grozave fără a fi nevoie să ieșiți în ploaie.",
+                "en": "Use the car as a mobile shelter; the coastal road offers great views without the need to step out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Firopotamos",
+                "hu": "Firopotamos",
+                "ro": "Firopotamos",
+                "en": "Firopotamos"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die schmale Straße hinunter; bei Regen können kleine Steine auf die Fahrbahn gespült werden.",
+                "hu": "Vezessen óvatosan a szűk lejtőn lefelé; esőben kisebb köveket moshat a víz az útra, ami megnehezítheti a haladást.",
+                "ro": "Conduceți cu atenție pe panta îngustă; pe timp de ploaie, apa poate aduce pietre mici pe carosabil, îngreunând deplasarea.",
+                "en": "Drive carefully down the narrow slope; during rain, small stones can be washed onto the road, making driving tricky."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Georgios",
+                "hu": "Agios Georgios",
+                "ro": "Agios Georgios",
+                "en": "Agios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zur Kapelle lohnt sich für das stimmungsvolle Licht; halten Sie einen Regenschirm für den Weg bereit.",
+                "hu": "Egy gyors sprint az autótól a kápolnáig megéri a hangulatos fények miatt; tartsa kéznél az esernyőt a rövid szakaszra.",
+                "ro": "Un sprint rapid de la mașină la capelă merită pentru luminile atmosferice; țineți umbrela la îndemână pentru drumul scurt.",
+                "en": "A quick sprint from the car to the chapel is worth it for the atmospheric light; keep an umbrella handy for the short distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Plathiena",
+                "hu": "Plathiena",
+                "ro": "Plathiena",
+                "en": "Plathiena"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Meeresoberfläche direkt vom bequemen Fahrersitz aus bei einer Tasse Kaffee.",
+                "hu": "Figyelje az esőcseppek játékát a tenger felszínén közvetlenül a kényelmes vezetőülésből, egy forró kávé társaságában.",
+                "ro": "Observați jocul picăturilor de ploaie pe suprafața mării direct din scaunul confortabil al mașinii, cu o cafea fierbinte.",
+                "en": "Watch the play of raindrops on the sea surface directly from the comfortable driver's seat with a hot coffee."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen wir die Heizung im Auto auf dem Weg zur Kirche. Mittags fahren wir über die menschenleeren Straßen zu den Nordstränden, wo die Wintersonne tief steht. Da es gegen 17:00 Uhr dunkel wird, planen wir unseren letzten Strandbesuch am frühen Nachmittag. Der Abend endet entspannt in Adamas, wo wir den Wagen sicher parken und ein warmes Lokal aufsuchen.",
+            "hu": "Reggel élvezzük az autó fűtését az első templom felé vezető úton. Délben a néptelen utakon autózunk az északi partokhoz, ahol a téli nap alacsonyan világít. Mivel 17 órakor sötétedik, az utolsó strandlátogatást kora délutánra időzítjük. Az estét nyugodtan zárjuk Adamaszban, egy meleg étteremben, távol a hideg tengeri széltől.",
+            "ro": "Dimineața profităm de căldura din mașină în drum spre prima biserică. La prânz conducem pe drumurile pustii spre plajele din nord, unde soarele de iarnă stă jos. Deoarece se întunecă la ora 17:00, programăm ultima vizită la plajă devreme. Seara se încheie relaxat în Adamas, într-un local primitor și cald.",
+            "en": "Morning is best spent enjoying the car's heater on the way to the church. At noon, we drive along deserted roads to the northern shores under the low winter sun. Since it gets dark by 17:00, we schedule our last beach visit for the early afternoon. The evening ends relaxingly in Adamas in a warm restaurant, away from the cold sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Agios Nektarios",
+                "hu": "Agios Nektarios",
+                "ro": "Agios Nektarios",
+                "en": "Agios Nektarios"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Vormittag ist im Winter perfekt für Fotos der Kirche; die klare Luft lässt die Farben besonders leuchten.",
+                "hu": "A délelőtti fények télen tökéletesek a templom fotózásához; a tiszta levegőben a színek még élénkebben ragyognak.",
+                "ro": "Luminile dimineții de iarnă sunt perfecte pentru fotografierea bisericii; aerul curat face culorile să strălucească intens.",
+                "en": "The morning light in winter is perfect for photographing the church; the clear air makes the colors shine even more brightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantrakia",
+                "hu": "Mantrakia",
+                "ro": "Mantrakia",
+                "en": "Mantrakia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafenbecken und genießen Sie die absolute Stille des Winters, die nur vom sanften Plätschern der Wellen unterbrochen wird.",
+                "hu": "Parkoljon közvetlenül a kikötőnél, és élvezze a téli csendet, amelyet csak a hullámok lágy csobogása tör meg a csónakházaknál.",
+                "ro": "Parcați direct lângă port și bucurați-vă de liniștea iernii, întreruptă doar de clipocitul blând al valurilor la căsuțe.",
+                "en": "Park right by the harbor and enjoy the absolute winter silence, interrupted only by the gentle splashing of the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Tourkothalassa",
+                "hu": "Tourkothalassa",
+                "ro": "Tourkothalassa",
+                "en": "Tourkothalassa"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne verwandelt das Wasser in flüssiges Silber; ein toller Ort für eine kurze Kaffeepause im warmen Auto mit Ausblick.",
+                "hu": "A téli napfény ezüstössé varázsolja a vizet; remek hely egy rövid kávészünetre a meleg autóban, miközben a kilátást élvezi.",
+                "ro": "Soarele de iarnă transformă apa în argint viu; un loc excelent pentru o pauză de cafea în mașina caldă, admirând peisajul.",
+                "en": "The winter sun turns the water into liquid silver; a great spot for a short coffee break in the warm car while enjoying the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Gerania",
+                "hu": "Gerania",
+                "ro": "Gerania",
+                "en": "Gerania"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind Sie hier fast allein; nutzen Sie die leeren Parkplätze für die besten Fotopositionen direkt an der Küstenlinie.",
+                "hu": "Télen szinte teljesen egyedül lesz itt; használja ki az üres parkolókat a legjobb fotós szögek megtalálásához a parton.",
+                "ro": "Iarna veți fi aproape singur aici; profitați de parcările goale pentru a găsi cele mai bune unghiuri foto direct pe mal.",
+                "en": "In winter you will be almost alone here; use the empty parking spaces to find the best photo angles right on the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Firopotamos",
+                "hu": "Firopotamos",
+                "ro": "Firopotamos",
+                "en": "Firopotamos"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Dorf, bevor der Schatten des Berges es am frühen Nachmittag erreicht und es deutlich kühler wird.",
+                "hu": "Látogassa meg a falut, mielőtt a hegy árnyéka kora délután elérné a partot, és jelentősen lehűlne a levegő a völgyben.",
+                "ro": "Vizitați satul înainte ca umbra muntelui să ajungă pe mal devreme după-amiaza și temperatura să scadă considerabil.",
+                "en": "Visit the village before the mountain shadow reaches the shore in the early afternoon and the air cools down significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Agios Georgios",
+                "hu": "Agios Georgios",
+                "ro": "Agios Georgios",
+                "en": "Agios Georgios"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle wirkt im harten Winterlicht besonders dramatisch; ideal für Architekturaufnahmen ohne störende Touristen im Bild.",
+                "hu": "A kápolna a kemény téli fényekben különösen drámai hatást kelt; ideális építészeti fotókhoz, zavaró turisták nélkül.",
+                "ro": "Capela arată deosebit de dramatic în lumina aspră de iarnă; ideal pentru fotografii de arhitectură fără turiști în cadru.",
+                "en": "The chapel looks particularly dramatic in the harsh winter light; ideal for architectural shots without tourists in the frame."
+              }
+            },
+            {
+              "name": {
+                "de": "Plathiena",
+                "hu": "Plathiena",
+                "ro": "Plathiena",
+                "en": "Plathiena"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang um 17:00 Uhr direkt vom Strandparkplatz aus, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "Nézze meg a korai, 17 órás naplementét közvetlenül a strand parkolójából, mielőtt újra feltekerné a fűtést az autóban.",
+                "ro": "Admirați apusul timpuriu de la ora 17:00 direct din parcarea plajei, înainte de a porni din nou căldura în mașină.",
+                "en": "Watch the early 17:00 sunset directly from the beach parking lot before turning up the car heater for the drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

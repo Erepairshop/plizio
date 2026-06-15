@@ -180,6 +180,196 @@
           "afternoon": "Spend the afternoon wandering through Fremington Quay, soaking in the maritime heritage and enjoying a warm drink as you watch the changing estuary tides.",
           "evening": "The day concludes with a leisurely stroll along the famous Tarka Trail, offering a breathtaking sunset over the waters to end your village exploration."
         }
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Muddlebridge beginnt mit dem sanften Plätschern des Wassers. Mittags bietet das New Inn den perfekten Zufluchtsort vor dem Guss. Nachmittags erkunden wir das Manor und den Pill unter dem Schutz von Regenschirmen. Der Abend am Quay und auf dem Tarka Trail besticht durch die mystische Stimmung der nebligen Mündung, während die asphaltierten Wege sicher begehbar bleiben.",
+            "hu": "A reggeli séta Muddlebridge-ben az eső kopogásával kezdődik a történelmi köveken. Délben a New Inn nyújt menedéket a zápor elől egy forró ital mellett. Délután az udvarház és a Pill környéke misztikus arcát mutatja a ködben. Az estét a Quay és a Tarka Trail zárja, ahol a kiépített utak sármentes haladást biztosítanak a szürkületben, miközben az eső illata betölti a sós tengeri levegőt.",
+            "ro": "O dimineață ploioasă în Muddlebridge începe cu sunetul picăturilor pe podul istoric. La prânz, New Inn oferă refugiul ideal pentru a savura o masă caldă la adăpost. După-amiaza explorăm conacul și estuarul sub protecția umbrelelor rezistente. Seara la Quay și pe Tarka Trail este marcată de atmosfera mistică a malurilor cețoase, drumurile asfaltate fiind sigure chiar și pe vreme umedă.",
+            "en": "A rainy morning in Muddlebridge begins with the gentle patter of rain on historical stones. At noon, The New Inn provides the perfect shelter from the downpour. Afternoon exploration of the Manor and the Pill continues under the protection of sturdy umbrellas. The evening at the Quay and Tarka Trail offers a mystical atmosphere over the misty estuary, with paved paths ensuring easy transit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Muddlebridge",
+                "hu": "Muddlebridge",
+                "ro": "Muddlebridge",
+                "en": "Muddlebridge"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die alte Brückenarchitektur im Regen, während der Bach unter Ihnen anschwillt; tragen Sie wasserfeste Stiefel für die oft pfützigen Uferwege.",
+                "hu": "Csodálja meg a régi híd szerkezetét az esernyő alól, miközben a patak megárad; viseljen vízálló bakancsot a part menti utak mentén kialakuló tócsák miatt.",
+                "ro": "Admirați arhitectura podului vechi în timp ce pârâul se umflă sub ploaie; purtați cizme impermeabile pentru potecile de mal care pot colecta apă rapid.",
+                "en": "Admire the old bridge architecture from under an umbrella as the stream swells; wear waterproof boots for the riverside paths that often collect puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "The New Inn",
+                "hu": "The New Inn",
+                "ro": "The New Inn",
+                "en": "The New Inn"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen historischen Gasthof als idealen Trockenraum bei einem warmen Getränk; der gepflasterte Eingangsbereich kann bei Nässe etwas rutschig sein.",
+                "hu": "Használja ezt a történelmi fogadót ideális menedékként egy forró ital mellett; a kövezett bejárat nedvesen csúszós lehet, lépjen óvatosan a küszöbnél.",
+                "ro": "Folosiți acest han istoric ca adăpost ideal pentru a vă usca la o băutură caldă; intrarea pavată poate fi alunecoasă când este udă, pășiți cu mare atenție.",
+                "en": "Use this historic inn as an ideal shelter to dry off with a warm drink; the paved entrance can be slippery when wet, so watch your footing carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Manor",
+                "hu": "Fremington Manor",
+                "ro": "Fremington Manor",
+                "en": "Fremington Manor"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die herrschaftliche Fassade im grauen Licht, das die Details hervorhebt; ein windfester Regenschirm ist wegen der offenen Lage des Geländes ratsam.",
+                "hu": "Nézze meg az úrilak homlokzatát a szürke fényben, mely kiemeli a részleteket; a szélálló esernyő ajánlott a terület nyitottsága és a hirtelen széllökések miatt.",
+                "ro": "Priviți fațada impunătoare în lumina gri care scoate în evidență detaliile; o umbrelă rezistentă la vânt este recomandată din cauza locației expuse.",
+                "en": "View the manor's facade in the gray light that emphasizes its details; a windproof umbrella is recommended due to the open and exposed nature of the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Pill",
+                "hu": "Fremington Pill",
+                "ro": "Fremington Pill",
+                "en": "Fremington Pill"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Wasseroberfläche des Estuars; bleiben Sie strikt auf dem erhöhten Pfad, um dem matschigen Ufer zu entgehen.",
+                "hu": "Figyelje meg az esőcseppek játékát az estuárium víztükrén; maradjon szigorúan a kiemelt ösvényen, hogy elkerülje a part menti mély és ragadós sarat.",
+                "ro": "Observați jocul picăturilor de ploaie pe suprafața apei estuarului; rămâneți strict pe poteca principală pentru a evita noroiul adânc de pe mal.",
+                "en": "Watch the play of raindrops on the estuary's water surface; stay strictly on the raised path to avoid the deep and sticky mud along the riverbanks."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Quay",
+                "hu": "Fremington Quay",
+                "ro": "Fremington Quay",
+                "en": "Fremington Quay"
+              },
+              "tip_5lang": {
+                "de": "Das gemütliche Café am Kai bietet Panoramafenster für den Blick auf den Regen; bringen Sie eine leichte Regenjacke für den kurzen Weg zum Wasser mit.",
+                "hu": "A mólónál lévő hangulatos kávézó panorámaablakaiból csodás kilátás nyílik az esőre; hozzon könnyű esőkabátot a vízparti rövid, de szeles sétához.",
+                "ro": "Cafeneaua primitoare de la chei are ferestre panoramice pentru a vedea ploaia; aduceți o jachetă ușoară de ploaie pentru scurta plimbare lângă apă.",
+                "en": "The cozy cafe at the quay offers panoramic windows to watch the rain; bring a light raincoat for the short but windy walk right by the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarka Trail",
+                "hu": "Tarka Trail",
+                "ro": "Tarka Trail",
+                "en": "Tarka Trail"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den asphaltierten Weg, der trotz Regen sauber bleibt; achten Sie auf Radfahrer, die bei schlechter Sicht oft erst spät bemerkt werden können.",
+                "hu": "Élvezze az aszfaltozott utat, amely az eső ellenére is tiszta marad; figyeljen a kerékpárosokra, akiket a rossz látási viszonyok miatt nehezebb észrevenni.",
+                "ro": "Bucurați-vă de drumul asfaltat care rămâne curat în ciuda ploii; atenție la bicicliștii care pot fi greu de observat din cauza vizibilității reduse.",
+                "en": "Enjoy the paved path which remains clean despite the rain; watch out for cyclists who may be harder to spot due to the reduced visibility in the mist."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Wintermorgen in Muddlebridge beginnt mit weißem Reif auf den Wiesen. Mittags wärmen wir uns im New Inn am Kamin auf. Die tiefstehende Nachmittagssonne taucht das Manor in goldenes Licht, bevor es gegen 17:00 Uhr dunkel wird. Der Abendspaziergang am Pill und Quay findet unter dem Sternenhimmel statt, wobei die kalte, klare Luft die Sinne schärft.",
+            "hu": "A fagyos téli reggel Muddlebridge-ben zúzmarás rétekkel indul. Délben a New Inn kandallója mellett melegedhetünk fel a frissítő séta után. A délutáni alacsony napállás arany fénybe vonja az udvarházat, mielőtt 17:00 körül leszáll az éj. Az esti séta a Quay mentén a csillagos ég alatt folytatódik, ahol a tiszta, hideg levegőben messzire hallatszik a tenger zúgása.",
+            "ro": "O dimineață geroasă de iarnă în Muddlebridge începe cu promoroacă pe pajiști. La prânz, ne încălzim lângă șemineul de la New Inn după plimbarea revigorantă. Soarele de după-amiază scaldă conacul în lumină aurie înainte de apusul de la ora 17:00. Seara la chei se desfășoară sub cerul înstelat, aerul rece și clar accentuând liniștea locului.",
+            "en": "A frosty winter morning in Muddlebridge begins with white hoarfrost on the meadows. At noon, we warm up by the fireplace in The New Inn. The low afternoon sun bathes the Manor in golden light before darkness falls around 17:00. The evening walk by the Pill and Quay takes place under starry skies, with the cold, clear air sharpening the senses."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Muddlebridge",
+                "hu": "Muddlebridge",
+                "ro": "Muddlebridge",
+                "en": "Muddlebridge"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die gefrorenen Details am Geländer der Brücke; tragen Sie warme Handschuhe, da der Metallhandlauf im Winter extrem kalt werden kann.",
+                "hu": "Fotózza le a híd korlátján megtelepedett jégkristályokat; viseljen meleg kesztyűt, mivel a fém korlátok télen rendkívül hidegek és fagyosak lehetnek.",
+                "ro": "Fotografiați cristalele de gheață de pe balustrada podului; purtați mănuși groase, deoarece balustradele metalice pot deveni extrem de reci iarna.",
+                "en": "Photograph the frost crystals on the bridge railings; wear warm gloves as the metal handrails can become extremely cold and frosty in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "The New Inn",
+                "hu": "The New Inn",
+                "ro": "The New Inn",
+                "en": "The New Inn"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre am prasselnden Kaminfeuer; bestellen Sie ein heißes lokales Getränk, um die Körpertemperatur nach dem Marsch zu heben.",
+                "hu": "Élvezze a meghitt hangulatot a ropogó kandallótűz mellett; rendeljen egy forró helyi italt, hogy testhőmérséklete helyreálljon a hideg séta után.",
+                "ro": "Bucurați-vă de atmosfera primitoare lângă focul din șemineu; comandați o băutură caldă locală pentru a vă încălzi corpul după plimbarea prin frig.",
+                "en": "Enjoy the cozy atmosphere by the crackling fireplace; order a hot local drink to restore your body temperature after the brisk winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Manor",
+                "hu": "Fremington Manor",
+                "ro": "Fremington Manor",
+                "en": "Fremington Manor"
+              },
+              "tip_5lang": {
+                "de": "Die laubfreien Bäume ermöglichen im Winter einen unverstellten Blick auf die Architektur; achten Sie auf vereiste Stellen auf den schattigen Gartenwegen.",
+                "hu": "A lombmentes fák télen akadálytalan kilátást engednek az épületre; ügyeljen a jeges foltokra, melyek a kert árnyékosabb ösvényein megmaradhatnak.",
+                "ro": "Copacii fără frunze permit o vedere neobstrucționată asupra arhitecturii; atenție la porțiunile înghețate de pe potecile umbrite din grădină.",
+                "en": "The leafless trees allow an unobstructed view of the architecture in winter; watch out for icy patches that may persist on shaded garden paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Pill",
+                "hu": "Fremington Pill",
+                "ro": "Fremington Pill",
+                "en": "Fremington Pill"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wintervögel, die im Schlamm nach Nahrung suchen; ziehen Sie mehrere Schichten Kleidung an, da der Wind vom Estuar sehr schneidend ist.",
+                "hu": "Figyelje meg a sárban táplálékot kereső téli madárvilágot; öltözzön rétegesen, mivel az estuárium felől érkező szél ilyenkor nagyon metsző lehet.",
+                "ro": "Observați păsările de iarnă care caută hrană în mâl; purtați mai multe straturi de haine, deoarece vântul dinspre estuar este tăios în acest sezon.",
+                "en": "Observe the winter birds foraging for food in the mud; dress in multiple layers as the wind blowing from the estuary can be very biting now."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Quay",
+                "hu": "Fremington Quay",
+                "ro": "Fremington Quay",
+                "en": "Fremington Quay"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang über dem Wasser gegen 16:30 Uhr; eine Thermoskanne mit Tee hält Sie während der Wartezeit am Ufer angenehm warm.",
+                "hu": "Élje át a víz feletti korai naplementét 16:30 körül; egy termosz meleg teával kellemesen várakozhat a parton a legszebb fényekre vadászva.",
+                "ro": "Experimentați apusul timpuriu peste apă în jurul orei 16:30; un termos cu ceai cald vă va prinde bine în timp ce așteptați momentul serii pe mal.",
+                "en": "Experience the early sunset over the water around 16:30; a thermos with hot tea will keep you warm while waiting for the twilight views on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarka Trail",
+                "hu": "Tarka Trail",
+                "ro": "Tarka Trail",
+                "en": "Tarka Trail"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht für einen zügigen Marsch zur Erwärmung; tragen Sie reflektierende Kleidung, da es ab 17:00 Uhr schlagartig dunkel wird.",
+                "hu": "Használja ki az utolsó fényeket egy tempós sétára a felmelegedéshez; viseljen fényvisszaverő elemeket, mert 17:00 után hirtelen teljesen besötétedik.",
+                "ro": "Folosiți ultima lumină pentru o plimbare rapidă pentru a vă încălzi; purtați elemente reflectorizante, deoarece se întunecă brusc după ora 17:00.",
+                "en": "Use the last bit of daylight for a brisk walk to stay warm; wear reflective gear as it becomes pitch dark very suddenly after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -354,6 +544,196 @@
           "afternoon": "Pedal onwards to the expansive wetlands of Home Farm Marsh in the afternoon, immersing yourself in the raw natural beauty and diverse local birdlife.",
           "evening": "Wrap up the day gliding smoothly along the iconic Tarka Trail before reaching Basett's Ridge to take in a sweeping panoramic view at twilight."
         }
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen startet erfrischend in Muddlebridge. Mittags pausieren wir im New Inn, um die Ausrüstung zu prüfen. Nachmittags geht es über den Kai zum Home Farm Marsh, wobei Spritzschutz ein Muss ist. Der Abend auf dem Tarka Trail und am Basett's Ridge bietet trotz Nässe gute Bodenhaftung auf den asphaltierten Abschnitten, ideal für wetterfeste Radler.",
+            "hu": "A reggeli kerékpározás Muddlebridge-ben frissítő élmény az esőben. Délben a New Inn-nél tartunk szünetet a felszerelés ellenőrzésére. Délután a mólón keresztül a Home Farm Marsh felé tekerünk, ahol a sárvédő kötelező. Az este a Tarka Trail-en és a Basett's Ridge-nél ér véget, ahol az aszfaltozott szakaszok jó tapadást biztosítanak a kitartó bringásoknak.",
+            "ro": "O tură cu bicicleta în ploaie începe revigorant în Muddlebridge. La prânz, facem o pauză la New Inn pentru a verifica echipamentul. După-amiaza pedalăm prin chei spre Home Farm Marsh, unde apărătorile de noroi sunt obligatorii. Seara pe Tarka Trail și la Basett's Ridge oferă o aderență bună pe secțiunile asfaltate, ideal pentru bicicliștii rezistenți.",
+            "en": "A rainy bike ride starts refreshingly in Muddlebridge. At noon, we pause at The New Inn to check our gear. Afternoon cycling takes us through the Quay to Home Farm Marsh, where mudguards are a must. The evening on the Tarka Trail and Basett's Ridge offers good grip on paved sections, ideal for weather-hardened cyclists."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Muddlebridge",
+                "hu": "Muddlebridge",
+                "ro": "Muddlebridge",
+                "en": "Muddlebridge"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt auf der nassen Fahrbahn; der hölzerne Belag in der Nähe kann bei Regen extrem rutschig für Reifen sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeit a nedves útfelület miatt; a közeli faborítású részek esőben rendkívül csúszósak lehetnek a gumiabroncsoknak.",
+                "ro": "Verificați frânele înainte de plecare din cauza carosabilului ud; porțiunile din lemn din apropiere pot fi extrem de alunecoase pentru anvelope.",
+                "en": "Check your brakes before setting off due to the wet road surface; any wooden surfaces nearby can be extremely slippery for bike tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "The New Inn",
+                "hu": "The New Inn",
+                "ro": "The New Inn",
+                "en": "The New Inn"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Dachvorsprung, um den Sattel trocken zu halten; nutzen Sie die Pause, um das Visier Ihres Helms von Regentropfen zu reinigen.",
+                "hu": "Parkoljon a tetőeresz alatt, hogy a nyereg száraz maradjon; használja ki a pihenőt, hogy megtisztítsa sisakrostélyát vagy szemüvegét az esőcseppektől.",
+                "ro": "Parcați bicicleta sub streșină pentru a păstra șaua uscată; folosiți pauza pentru a curăța viziera căștii sau ochelarii de picăturile de ploaie.",
+                "en": "Park under the eaves to keep your saddle dry; use the break to clean your helmet visor or glasses from raindrops for better visibility ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Quay",
+                "hu": "Fremington Quay",
+                "ro": "Fremington Quay",
+                "en": "Fremington Quay"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über die Metallschienen am Kai, die bei Nässe tückisch sind; der Wind kann hier seitlich stark gegen die Laufräder drücken.",
+                "hu": "Óvatosan hajtson át a mólónál lévő fémsíneken, melyek nedvesen csalókák; a szél itt oldalról erősen nekinyomódhat a kerékpárosnak és a kerekeknek.",
+                "ro": "Traversați cu atenție șinele de metal de la chei, care sunt înșelătoare pe ud; vântul lateral poate sufla cu putere împotriva roților în această zonă.",
+                "en": "Ride carefully over the metal rails at the quay which are treacherous when wet; the crosswinds here can push strongly against your wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "Home Farm Marsh",
+                "hu": "Home Farm Marsh",
+                "ro": "Home Farm Marsh",
+                "en": "Home Farm Marsh"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die tiefen Schlammstellen abseits des Hauptweges zum Schutz der Kette; die weite Sicht im Regen wirkt hier besonders dramatisch und weit.",
+                "hu": "Kerülje el a mély sarat a lánc védelme érdekében, maradjon a főúton; a tágas kilátás az esőben itt különösen drámainak és végtelennek tűnik.",
+                "ro": "Evitați noroiul adânc pentru a proteja lanțul bicicletei, rămâneți pe drum; vederea largă în ploaie pare aici deosebit de dramatică și vastă.",
+                "en": "Avoid deep mud to protect your bike chain, stay on the main track; the wide views in the rain appear particularly dramatic and vast here."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarka Trail",
+                "hu": "Tarka Trail",
+                "ro": "Tarka Trail",
+                "en": "Tarka Trail"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das schnelle Vorankommen auf dem glatten Asphalt trotz Pfützen; schalten Sie Ihr Rücklicht ein, um für andere Nutzer besser sichtbar zu sein.",
+                "hu": "Élvezze a gyors haladást a sima aszfalton a tócsák ellenére is; kapcsolja be a hátsó lámpáját, hogy jobban látható legyen a többi közlekedő számára.",
+                "ro": "Bucurați-vă de avansarea rapidă pe asfaltul neted în ciuda bălților; aprindeți lumina din spate pentru a fi mai vizibil pentru ceilalți utilizatori.",
+                "en": "Enjoy the fast pace on the smooth asphalt despite the puddles; turn on your rear light to be more visible to other trail users in the gloom."
+              }
+            },
+            {
+              "name": {
+                "de": "Basett's Ridge",
+                "hu": "Basett's Ridge",
+                "ro": "Basett's Ridge",
+                "en": "Basett's Ridge"
+              },
+              "tip_5lang": {
+                "de": "Reduzieren Sie bei der Abfahrt das Tempo wegen der eingeschränkten Sicht; wasserfeste Überschuhe verhindern, dass Wasser von oben in Ihre Schuhe läuft.",
+                "hu": "Csökkentse a sebességet az ereszkedésnél a korlátozott látási viszonyok miatt; a vízálló kamásli megakadályozza, hogy felülről víz jusson a cipőjébe.",
+                "ro": "Reduceți viteza la coborâre din cauza vizibilității limitate; protecțiile impermeabile pentru pantofi vor împiedica apa să pătrundă la picioare.",
+                "en": "Reduce your speed on the descent due to limited visibility; waterproof overshoes will prevent water from running into your boots from above."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit klirrender Kälte auf dem Rad in Muddlebridge. Mittags ist das New Inn ein Muss für warme Speisen. Die Nachmittagstour zum Home Farm Marsh bietet spektakuläre Ausblicke auf den Raureif. Vor dem frühen Sonnenuntergang um 17:00 Uhr erreichen wir den Tarka Trail, wo die Beleuchtung am Rad für den Rückweg von Basett's Ridge entscheidend ist.",
+            "hu": "A téli reggel metsző hideggel indul a nyeregben Muddlebridge-ben. Délben a New Inn kötelező megálló egy meleg ételre a test felmelegítéséhez. A délutáni túra a Home Farm Marsh felé zúzmarás tájjal ajándékozza meg a bátrabbakat. A korai, 17:00-s naplemente előtt érjük el a Tarka Trail-t, ahol a lámpák már elengedhetetlenek.",
+            "ro": "Dimineața de iarnă începe cu un frig pătrunzător pe bicicletă în Muddlebridge. La prânz, New Inn este o oprire obligatorie pentru o masă caldă. Tura de după-amiază spre Home Farm Marsh oferă peisaje spectaculoase cu promoroacă. Înainte de apusul de la ora 17:00, ajungem pe Tarka Trail, unde luminile sunt esențiale.",
+            "en": "The winter morning begins with biting cold in the saddle at Muddlebridge. At noon, The New Inn is a must-stop for warm food to reheat the body. The afternoon ride to Home Farm Marsh offers spectacular views of the frost-covered landscape. Before the early 17:00 sunset, we reach the Tarka Trail where bike lights are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Muddlebridge",
+                "hu": "Muddlebridge",
+                "ro": "Muddlebridge",
+                "en": "Muddlebridge"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor „schwarzem Eis“ auf der Brücke und in Kurven; tragen Sie Thermo-Handschuhe, um die Beweglichkeit Ihrer Finger beim Bremsen zu erhalten.",
+                "hu": "Vigyázzon a fekete jégre a hídon és a kanyarokban; viseljen hőszigetelt kesztyűt, hogy megőrizze ujjai mozgékonyságát a fékezéshez a nagy hidegben.",
+                "ro": "Atenție la gheața neagră pe pod și în curbe; purtați mănuși termice pentru a menține mobilitatea degetelor la frânare în frigul extrem.",
+                "en": "Watch out for black ice on the bridge and in curves; wear thermal gloves to maintain finger dexterity for braking in the sub-zero temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "The New Inn",
+                "hu": "The New Inn",
+                "ro": "The New Inn",
+                "en": "The New Inn"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Radschloss nicht einfrieren, nutzen Sie etwas Enteiser falls nötig; wärmen Sie sich gründlich auf, bevor Sie wieder in den kalten Wind steigen.",
+                "hu": "Ne hagyja megfagyni a kerékpárzárat, használjon jégoldót ha szükséges; melegedjen át alaposan a benti térben, mielőtt újra a hideg szélbe merészkedne.",
+                "ro": "Nu lăsați antifurtul bicicletei să înghețe, folosiți spray de dezghețare; încălziți-vă bine în interior înainte de a ieși din nou în vântul rece.",
+                "en": "Don't let your bike lock freeze, use some de-icer if necessary; warm yourself up thoroughly inside before heading back out into the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Quay",
+                "hu": "Fremington Quay",
+                "ro": "Fremington Quay",
+                "en": "Fremington Quay"
+              },
+              "tip_5lang": {
+                "de": "Die hölzernen Stege können bei Frost extrem glatt sein, steigen Sie im Zweifel kurz ab; eine winddichte Maske schützt Ihr Gesicht vor der eiskalten Seebrise.",
+                "hu": "A faborítású mólók fagypont alatt rendkívül csúszósak lehetnek, kétség esetén szálljon le; egy szélálló maszk megvédi arcát a jeges tengeri szellőtől.",
+                "ro": "Podiumurile de lemn pot fi extrem de alunecoase pe ger, coborâți de pe bicicletă dacă e cazul; o mască rezistentă la vânt vă va proteja fața de briza rece.",
+                "en": "Wooden jetties can be extremely slick in frost, dismount if unsure of traction; a windproof face mask protects your skin from the icy sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Home Farm Marsh",
+                "hu": "Home Farm Marsh",
+                "ro": "Home Farm Marsh",
+                "en": "Home Farm Marsh"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefgefrorene Fahrrinnen, die Ihr Vorderrad führen könnten; die karge Winterlandschaft bietet hier eine weite, friedliche Stille.",
+                "hu": "Ügyeljen a megfagyott keréknyomokra, melyek megvezethetik az első kerekét; a kopár téli táj itt különlegesen tágas és békés csendet áraszt a látogatóknak.",
+                "ro": "Atenție la șanțurile înghețate care vă pot devia roata din față; peisajul sterp de iarnă oferă aici o liniște vastă și profundă pentru vizitatori.",
+                "en": "Watch out for frozen ruts that could divert your front wheel; the barren winter landscape here offers a vast and peaceful silence for those who visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Tarka Trail",
+                "hu": "Tarka Trail",
+                "ro": "Tarka Trail",
+                "en": "Tarka Trail"
+              },
+              "tip_5lang": {
+                "de": "Der flache Weg ist ideal für winterliches Radeln ohne Überhitzung; prüfen Sie vor Abfahrt Ihre Akkus, da Kälte die Laufzeit der Lampen stark verkürzt.",
+                "hu": "A sík út ideális a téli tekeréshez túlzott kimelegedés nélkül; indulás előtt ellenőrizze az akkukat, mert a hideg jelentősen rövidíti a lámpák élettartamát.",
+                "ro": "Drumul plat este ideal pentru pedalatul de iarnă fără supraîncălzire; verificați bateriile înainte de plecare, gerul reduce durata lor de viață.",
+                "en": "The flat path is ideal for winter cycling without overheating; check your batteries before leaving as cold weather drastically shortens lamp runtimes."
+              }
+            },
+            {
+              "name": {
+                "de": "Basett's Ridge",
+                "hu": "Basett's Ridge",
+                "ro": "Basett's Ridge",
+                "en": "Basett's Ridge"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie späte Fahrten ohne volle Beleuchtung, da die Dämmerung schnell kommt; tragen Sie eine Mütze unter dem Helm, um den Wärmeverlust am Kopf zu stoppen.",
+                "hu": "Kerülje a késői tekerést teljes világítás nélkül, mert a szürkület gyorsan érkezik; viseljen vékony sapkát a sisak alatt a fejen keresztüli hővesztés ellen.",
+                "ro": "Evitați plimbările târzii fără iluminare completă, amurgul vine repede; purtați o căciulă sub cască pentru a preveni pierderea căldurii prin cap.",
+                "en": "Avoid late rides without full lighting as twilight arrives quickly; wear a thin cap under your helmet to stop heat loss through your head in the cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -504,6 +884,168 @@
           "midday": "Arriving at the quay by midday, dive into the area's rich maritime history and grab a hearty lunch overlooking the shimmering estuary waters.",
           "afternoon": "A short drive in the afternoon brings you to The New Inn and Muddlebridge, where you can explore the dense historical heritage of the village core.",
           "evening": "The day concludes with a final drive up to Basett's Ridge, providing an effortless vantage point for a spectacular sunset across the Devon countryside."
+        }
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Autofahrt beginnt gemütlich am Home Farm Marsh. Mittags steuern wir den Kai an, wobei das Auto als trockener Rückzugsort dient. Nach dem Lunch im New Inn geht es nach Muddlebridge, wo wir die Sehenswürdigkeiten zwischen den Schauern erkunden. Der Abend endet am Basett's Ridge mit Blick auf das verregnete Panorama, während wir im warmen Innenraum bleiben.",
+            "hu": "Az esős autós túra kényelmesen indul a Home Farm Marsh-nál. Délben a móló felé vesszük az irányt, ahol az autó száraz menedékként szolgál a nézelődéshez. A New Inn-ben elköltött ebéd után Muddlebridge következik, ahol a záporok között fedezzük fel a látnivalókat. Az este a Basett's Ridge-nél zárul a párás panorámával, miközben mi a fűtött utastérben pihenünk.",
+            "ro": "O călătorie cu mașina pe ploaie începe confortabil la Home Farm Marsh. La prânz ne îndreptăm spre chei, mașina servind drept refugiu uscat. După prânzul la New Inn, mergem la Muddlebridge pentru a explora atracțiile între reprizele de ploaie. Seara se încheie la Basett's Ridge cu o vedere panoramică asupra peisajului ud, stând în interiorul cald.",
+            "en": "A rainy car trip begins comfortably at Home Farm Marsh. At noon, we head to the Quay, with the car serving as a dry sanctuary for sightseeing. After lunch at The New Inn, we visit Muddlebridge, exploring sites between showers. The evening ends at Basett's Ridge with a view of the rainy panorama while staying cozy in the heated cabin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Home Farm Marsh",
+                "hu": "Home Farm Marsh",
+                "ro": "Home Farm Marsh",
+                "en": "Home Farm Marsh"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund, um nicht im nassen Gras stecken zu bleiben; beobachten Sie die stürmische See sicher durch die Windschutzscheibe.",
+                "hu": "Parkoljon szilárd burkolaton, hogy ne akadjon el a felázott fűben; figyelje a viharos tengert biztonságban, közvetlenül a szélvédő mögül.",
+                "ro": "Parcați pe teren solid pentru a nu rămâne blocat în iarba udă; observați marea agitată în siguranță, direct de după parbrizul mașinii.",
+                "en": "Park on firm ground to avoid getting stuck in wet grass; watch the stormy sea in safety, directly through your windshield from the warmth of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Quay",
+                "hu": "Fremington Quay",
+                "ro": "Fremington Quay",
+                "en": "Fremington Quay"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen schnellen Sprint ins Trockene; achten Sie beim Aussteigen auf tiefe Pfützen, die sich am Straßenrand bilden.",
+                "hu": "Használja a közeli parkolót egy gyors sprinthez a fedett részekig; kiszálláskor ügyeljen az út szélén felgyülemlett mély tócsákra és a vízátfolyásokra.",
+                "ro": "Folosiți parcarea apropiată pentru un sprint rapid spre zonele acoperite; la coborâre, atenție la bălțile adânci formate la marginea drumului.",
+                "en": "Use the nearby parking for a quick sprint to sheltered areas; watch out for deep puddles forming at the roadside when stepping out of the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "The New Inn",
+                "hu": "The New Inn",
+                "ro": "The New Inn",
+                "en": "The New Inn"
+              },
+              "tip_5lang": {
+                "de": "Ein schirmfreundlicher Parkplatz ist meist verfügbar, halten Sie den Regenschirm griffbereit; genießen Sie den Regenblick gemütlich von einem Tisch am Fenster.",
+                "hu": "Az esernyőbarát parkolás általában megoldható, tartsa kéznél az esővédőt; élvezze az esős kilátást kényelmesen, egy ablak melletti asztal biztonságából.",
+                "ro": "Parcarea accesibilă este de obicei disponibilă, țineți umbrela la îndemână; bucurați-vă de vederea ploioasă confortabil, de la o masă de lângă fereastră.",
+                "en": "Umbrella-friendly parking is usually available, so keep your rain gear handy; enjoy the rainy view comfortably from a window table inside the inn."
+              }
+            },
+            {
+              "name": {
+                "de": "Muddlebridge",
+                "hu": "Muddlebridge",
+                "ro": "Muddlebridge",
+                "en": "Muddlebridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch Wasserlachen, um Fußgänger nicht zu bespritzen; die historischen Gebäude wirken im nassen Glanz besonders fotogen und zeitlos.",
+                "hu": "Hajtson lassan a tócsákon keresztül, hogy ne fröccselje le a gyalogosokat; a történelmi épületek vizes csillogása különösen fotogénné teszi a helyszínt.",
+                "ro": "Conduceți încet prin bălți pentru a nu stropi pietonii; strălucirea umedă a clădirilor istorice face locația deosebit de fotogenică în fotografii.",
+                "en": "Drive slowly through puddles to avoid splashing pedestrians; the wet sheen on the historic buildings makes the site particularly photogenic for shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Basett's Ridge",
+                "hu": "Basett's Ridge",
+                "ro": "Basett's Ridge",
+                "en": "Basett's Ridge"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Scheibenwischer für klare Sicht bei der Auffahrt zum Aussichtspunkt; eine beschlagfreie Scheibe ist wichtig für das abendliche Panorama.",
+                "hu": "Ellenőrizze az ablaktörlőket a tiszta kilátásért a kilátóhoz vezető úton; a páramentesített szélvédő elengedhetetlen az esti panoráma élvezetéhez.",
+                "ro": "Verificați ștergătoarele pentru o vedere clară la urcarea spre punctul de belvedere; un parbriz dezaburit este vital pentru a vedea panorama de seară.",
+                "en": "Check your wipers for clear vision when driving up to the viewpoint; a defogged windshield is essential for enjoying the evening panorama in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer warmen Heizung auf dem Weg zum Home Farm Marsh. Mittags steuern wir das Quay für einen kurzen, frischen Spaziergang an. Nach dem Aufwärmen im New Inn führt die Fahrt nach Muddlebridge, wo der Raureif die Landschaft verzaubert. Den frühen Sonnenuntergang gegen 17:00 Uhr erleben wir sicher am Basett's Ridge, bevor die frostige Nacht beginnt.",
+            "hu": "A téli reggel fűtött autóban indul a Home Farm Marsh felé. Délben a mólót vesszük célba egy rövid, frissítő sétára a tiszta levegőn. A New Inn-ben való átmelegedés után Muddlebridge felé haladunk, ahol a zúzmara varázsolja el a tájat. A korai, 17:00-s naplementét a Basett's Ridge-nél élvezhetjük, mielőtt beáll a fagyos éjszaka.",
+            "ro": "Dimineața de iarnă începe cu încălzirea pornită în drum spre Home Farm Marsh. La prânz, mergem la chei pentru o scurtă plimbare revigorantă. După ce ne încălzim la New Inn, conducem spre Muddlebridge, unde promoroaca transformă peisajul. Apusul timpuriu de la ora 17:00 îl vedem de la Basett's Ridge, înainte de noaptea geroasă.",
+            "en": "The winter morning starts with the heater on high while driving to Home Farm Marsh. At noon, we head to the Quay for a short, refreshing walk in the crisp air. After warming up at The New Inn, the drive leads to Muddlebridge where frost enchants the land. We witness the early 17:00 sunset at Basett's Ridge before the frosty night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Home Farm Marsh",
+                "hu": "Home Farm Marsh",
+                "ro": "Home Farm Marsh",
+                "en": "Home Farm Marsh"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Parkflächen in den frühen Morgenstunden; die weite Marschlandschaft wirkt unter Frost wie eine verzauberte, weiße Welt.",
+                "hu": "Ügyeljen a jeges parkolófelületekre a kora reggeli órákban; a tágas mocsárvidék a zúzmara alatt olyan, mint egy elvarázsolt, fehér birodalom.",
+                "ro": "Atenție la suprafețele de parcare înghețate în orele dimineții; peisajul vast al mlaștinii sub ger arată ca o lume albă, fermecată.",
+                "en": "Watch out for icy parking surfaces in the early morning hours; the wide marshland under frost looks like an enchanted, white world for miles."
+              }
+            },
+            {
+              "name": {
+                "de": "Fremington Quay",
+                "hu": "Fremington Quay",
+                "ro": "Fremington Quay",
+                "en": "Fremington Quay"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt, um das Auto nicht zu stark auskühlen zu lassen; der kurze Weg zum Wasser erfordert wegen der Seebrise eine dichte Winterjacke.",
+                "hu": "Parkoljon szélvédett helyen, hogy az autó ne hűljön le túlságosan; a vízparti rövid séta a tengeri szél miatt vastag télikabátot és sálat igényel.",
+                "ro": "Parcați într-un loc ferit de vânt pentru ca mașina să nu se răcească prea tare; scurta plimbare pe mal necesită o jachetă de iarnă groasă.",
+                "en": "Park in a wind-sheltered spot to prevent the car from cooling down too fast; the short walk to the water requires a thick winter coat due to sea breezes."
+              }
+            },
+            {
+              "name": {
+                "de": "The New Inn",
+                "hu": "The New Inn",
+                "ro": "The New Inn",
+                "en": "The New Inn"
+              },
+              "tip_5lang": {
+                "de": "Der beleuchtete Parkplatz ist am späten Nachmittag sicher; nutzen Sie die Wärme des Gastraums, um Ihre Reiseroute für den dunklen Abend zu planen.",
+                "hu": "A kivilágított parkoló biztonságos a késő délutáni órákban is; használja ki a vendégtér melegét, hogy megtervezze az esti útvonalat a sötétedés előtt.",
+                "ro": "Parcarea iluminată este sigură în orele târzii ale după-amiezii; folosiți căldura interiorului pentru a vă planifica ruta înainte de lăsarea serii.",
+                "en": "The well-lit parking area is safe in the late afternoon hours; use the warmth of the indoor space to plan your remaining route before darkness falls."
+              }
+            },
+            {
+              "name": {
+                "de": "Muddlebridge",
+                "hu": "Muddlebridge",
+                "ro": "Muddlebridge",
+                "en": "Muddlebridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über die Brücke, da sich dort zuerst Frost bildet; das warme Licht der Straßenlaternen spiegelt sich herrlich im gefrorenen Bach.",
+                "hu": "Vezessen óvatosan a hídon, mivel ott alakul ki legelőször jegesedés; az utcai lámpák meleg fénye gyönyörűen tükröződik a befagyott patak felszínén.",
+                "ro": "Conduceți cu prudență pe pod, deoarece acolo se formează gheața prima dată; lumina caldă a felinarelor se reflectă superb în pârâul înghețat.",
+                "en": "Drive cautiously over the bridge as frost forms there first; the warm streetlights reflect beautifully in the frozen surface of the stream at twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Basett's Ridge",
+                "hu": "Basett's Ridge",
+                "ro": "Basett's Ridge",
+                "en": "Basett's Ridge"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt den Frostschutz in der Scheibenwaschanlage; genießen Sie das Lichtermeer der umliegenden Dörfer in der klaren Winternacht.",
+                "hu": "Indulás előtt ellenőrizze a fagyállót a szélvédőmosóban; élvezze a környező falvak fényeinek tengerét a tiszta, csillagos téli éjszakában.",
+                "ro": "Verificați lichidul de parbriz antigel înainte de plecare; bucurați-vă de marea de lumini a satelor din jur în noaptea senină și geroasă de iarnă.",
+                "en": "Check your antifreeze screen wash before heading home; enjoy the sea of lights from surrounding villages in the clear, starry winter night sky."
+              }
+            }
+          ]
         }
       }
     }

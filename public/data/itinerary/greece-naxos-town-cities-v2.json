@@ -160,6 +160,196 @@
         "hu": "Kezdje naxoszi sétáját az impozáns Portaránál, magába szívva a reggeli tengeri szellőt, mielőtt a Vintsi partszakasz nyugalma felé venné az irányt.\n\nAhogy közeledik a dél, merüljön el a sziget gazdag örökségében a Néprajzi Múzeumban és Iakovos Kampanelis kiállításain, a szűk sikátorokban sétálva.\n\nA délután a Della Rocca-Barozzi Velencei Múzeum felfedezésére hív, ahol a középkori történelem és az elegáns építészet találkozik az óváros szívében.\n\nZárja a napot a Naxoszi Régészeti Múzeumban, csodálva a kükladikus művészetet, miközben a lemenő nap aranyos fényt vet a történelmi központra.",
         "ro": "Începeți plimbarea prin Naxos la impunătoarea Portara, bucurându-vă de briza dimineții, înainte de a vă îndrepta spre liniștea de coastă din Vintsi.\n\nPe măsură ce se apropie prânzul, descoperiți bogata moștenire a insulei la Muzeul Satului și expozițiile lui Iakovos Kampanelis, rătăcind pe străduțele înguste.\n\nDupă-amiaza vă invită să explorați Muzeul Venețian Della Rocca-Barozzi, unde istoria medievală se îmbină cu arhitectura elegantă în inima orașului vechi.\n\nÎncheiați ziua la Muzeul Arheologic din Naxos, admirând arta cicladică antică în timp ce soarele la apus scaldă centrul istoric într-o lumină aurie.",
         "en": "Begin your walking tour of Naxos Town at the imposing Portara, taking in the morning sea breeze before heading into the coastal serenity of Vintsi.\n\nAs midday approaches, dive into the island's rich heritage at the Folk Museum and the cultural exhibits of Iakovos Kampanelis, wandering the narrow alleys.\n\nThe afternoon invites you to explore the Della Rocca-Barozzi Venetian Museum, where medieval history meets elegant architecture in the heart of the old town.\n\nConclude your day at the Archaeological Museum of Naxos, marvelling at ancient Cycladic art as the setting sun casts a golden glow over the historical center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Portara beginnt windig und nass, wo die Gischt mit dem Regen verschmilzt. Mittags bietet die Altstadt Schutz in ihren engen Gassen. Am Nachmittag laden die Museen im Kastro zu einer trockenen Zeitreise ein. Der Abend klingt gemütlich in einer der wettergeschützten Tavernen in Hafennähe aus, während der Regen gegen die Fenster prasselt.",
+            "hu": "A reggel a Portaránál szeles és esős, a tenger permete keveredik az égi áldással. Délben az óváros szűk utcái nyújtanak némi oltalmat. Délután a várnegyed múzeumaiban vészelhetjük át a záporokat, elmerülve a történelemben. Az este egy kikötő közeli, fedett tavernában zárul, ahol a forró görög kávé és az eső kopogása teremt különleges hangulatot.",
+            "ro": "Dimineața la Portara începe cu vânt și ploaie, unde vaporii mării se amestecă cu stropii reci. La prânz, străduțele înguste din orașul vechi oferă adăpost. După-amiaza, muzeele din Kastro vă invită la o călătorie istorică la adăpost de umezeală. Seara se încheie confortabil într-o tavernă protejată de lângă port, ascultând ropotele ploii pe acoperiș.",
+            "en": "The morning at Portara begins windy and wet, where sea spray blends with the rain. At noon, the narrow alleys of the Old Town offer some shelter. In the afternoon, the museums in the Kastro district invite you for a dry journey through history. The evening ends cozily in a weather-protected tavern near the harbor, with the sound of rain against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portara",
+                "hu": "Portara",
+                "ro": "Portara",
+                "en": "Portara"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Damm, die Steine sind bei Regen sehr rutschig; halten Sie Ihren Schirm wegen der starken Windböen besonders fest.",
+                "hu": "Vigyázzon a gáton, mert az esőben a kövek rendkívül csúszóssá válnak; a viharos széllökések miatt pedig szorosan fogja az esernyőjét.",
+                "ro": "Atenție pe dig, pietrele devin extrem de alunecoase când plouă; țineți umbrela bine din cauza rafalelor puternice de vânt de pe mare.",
+                "en": "Be careful on the causeway as the stones become extremely slippery in the rain; hold your umbrella tightly due to strong sea gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Vintsi",
+                "hu": "Vintsi",
+                "ro": "Vintsi",
+                "en": "Vintsi"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Stopp am Wasser; suchen Sie bei starkem Guss Schutz unter den Arkaden der nahen Geschäfte in der Altstadt.",
+                "hu": "Egy rövid, vizes megálló a partnál; intenzív zápor esetén keressen menedéket a közeli óvárosi üzletek árkádjai alatt.",
+                "ro": "O oprire scurtă și umedă lângă apă; în caz de aversă puternică, căutați adăpost sub arcadele magazinelor din apropiere.",
+                "en": "A short, wet stop by the water; in case of heavy downpours, seek shelter under the arcades of the nearby Old Town shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Volkskundemuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Satului",
+                "en": "Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausgiebigen Besuch in diesem historischen Haus, wo Sie die lokale Kultur im Trockenen erleben können.",
+                "hu": "Használja ki az esőt egy alapos látogatásra ebben a történelmi házban, ahol fedett helyen ismerkedhet meg a helyi kultúrával.",
+                "ro": "Profitați de ploaie pentru o vizită detaliată în această casă istorică, unde puteți descoperi cultura locală într-un mediu uscat.",
+                "en": "Take advantage of the rain for an extensive visit to this historic house, where you can explore local culture while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Iakovos Kampanelis",
+                "hu": "Iakovos Kampanelis",
+                "ro": "Iakovos Kampanelis",
+                "en": "Iakovos Kampanelis"
+              },
+              "tip_5lang": {
+                "de": "Dieses kulturelle Zentrum ist ein idealer Rückzugsort vor dem Wetter; vertiefen Sie sich in die Literatur, während es draußen regnet.",
+                "hu": "Ez a kulturális központ ideális búvóhely az időjárás elől; mélyedjen el az irodalomban, amíg odakint esik az eső.",
+                "ro": "Acest centru cultural este un refugiu ideal de vremea rea; cufundați-vă în literatură în timp ce afară plouă torențial.",
+                "en": "This cultural center is an ideal refuge from the weather; immerse yourself in literature while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Della Rocca-Barozzi Venezianisches Museum",
+                "hu": "Della Rocca-Barozzi Velencei Múzeum",
+                "ro": "Muzeul Venețian Della Rocca-Barozzi",
+                "en": "Della Rocca-Barozzi Venetian Museum"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern des Turms bieten perfekten Schutz; genießen Sie die historische Atmosphäre ohne Sorge vor dem nassen Wetter.",
+                "hu": "A torony vastag falai tökéletes védelmet nyújtanak; élvezze a történelmi hangulatot anélkül, hogy aggódnia kellene a vizes idő miatt.",
+                "ro": "Zidurile groase ale turnului oferă protecție perfectă; bucurați-vă de atmosfera istorică fără nicio grijă față de vremea umedă.",
+                "en": "The thick walls of the tower provide perfect protection; enjoy the historic atmosphere without worrying about the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Naxos",
+                "hu": "Naxoszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Naxos",
+                "en": "Archaeological Museum of Naxos"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt bei den kykladischen Idolen, bis der Schauer nachlässt; das Museum ist der beste Ort bei Regen.",
+                "hu": "Hosszabbítsa meg maradását a kükládikus bálványok között, amíg a zápor elül; a múzeum a legjobb hely esős időben.",
+                "ro": "Prelungiți vizita printre idolii cicladici până când ploaia se domolește; muzeul este cel mai bun loc pe timp de ploaie.",
+                "en": "Extend your stay among the Cycladic idols until the shower passes; the museum is the best place to be during the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen an der Portara ist frisch und klar, ideal für Fotos im weichen Licht. Mittags herrscht in der Chora eine friedliche Stille, fernab der Sommermassen. Am Nachmittag wärmen die Museen im Kastro Herz und Geist. Da die Sonne bereits gegen 17:00 Uhr untergeht, hüllt sich die Stadt früh in ein stimmungsvolles Licht, das zum Abendessen einlädt.",
+            "hu": "A téli reggel a Portaránál friss és tiszta, ideális fotózáshoz a lágy fényekben. Délben a Chora utcáin békés csend honol, távol a nyári tömegtől. Délután a várnegyed múzeumaiban melegedhetünk fel. Mivel a nap már 17:00 körül lemegy, a város korán ünnepi fényekbe öltözik, hívogatva egy korai, barátságos vacsorára.",
+            "ro": "Dimineața de iarnă la Portara este proaspătă și senină, ideală pentru fotografii în lumină blândă. La prânz, în Chora domnește o liniște deplină. După-amiaza, muzeele din Kastro vă încălzesc spiritul. Deoarece soarele apune deja în jur de ora 17:00, orașul se îmbracă devreme în lumini de seară, invitându-vă la o cină caldă.",
+            "en": "The winter morning at Portara is fresh and clear, ideal for photos in the soft light. At noon, a peaceful silence reigns in the Chora, far from summer crowds. In the afternoon, the museums in the Kastro warm both heart and mind. As the sun sets around 5:00 PM, the city is early enveloped in atmospheric light, perfect for dinner."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portara",
+                "hu": "Portara",
+                "ro": "Portara",
+                "en": "Portara"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, der Wind am offenen Torbogen ist im Winter schneidend; die klare Sicht auf die Nachbarinseln entschädigt dafür.",
+                "hu": "Öltözzön rétegesen, mert a nyitott boltívnél télen metsző a szél; a tiszta kilátás a szomszédos szigetekre azonban kárpótolni fogja.",
+                "ro": "Îmbrăcați-vă bine, vântul de la poarta deschisă este tăios iarna; vederea clară spre insulele vecine merită însă efortul.",
+                "en": "Dress warmly as the wind at the open archway is biting in winter; however, the clear view of neighboring islands is a great reward."
+              }
+            },
+            {
+              "name": {
+                "de": "Vintsi",
+                "hu": "Vintsi",
+                "ro": "Vintsi",
+                "en": "Vintsi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den ruhigen Hafenblick mit einem warmen Schal; im Winter zeigen sich hier oft dramatische Wolkenformationen über dem Meer.",
+                "hu": "Élvezze a nyugodt kikötői kilátást egy meleg sállal; télen gyakran láthatók drámai felhőalakzatok a tenger felett.",
+                "ro": "Bucurați-vă de vederea liniștită a portului cu un fular gros; iarna se formează adesea nori dramatici deasupra mării.",
+                "en": "Enjoy the quiet harbor view with a warm scarf; in winter, dramatic cloud formations often appear over the sea here."
+              }
+            },
+            {
+              "name": {
+                "de": "Volkskundemuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Satului",
+                "en": "Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am späten Vormittag, wenn die Räume durch die Wintersonne leicht erwärmt sind; ein Einblick in das authentische Naxos.",
+                "hu": "Látogassa meg a múzeumot késő délelőtt, amikor a téli nap már kissé felmelegítette a szobákat; betekintés az autentikus Naxoszba.",
+                "ro": "Vizitați muzeul spre sfârșitul dimineții, când soarele de iarnă încălzește ușor încăperile; o privire în Naxos-ul autentic.",
+                "en": "Visit the museum in the late morning when the rooms are slightly warmed by the winter sun; a glimpse into authentic Naxos life."
+              }
+            },
+            {
+              "name": {
+                "de": "Iakovos Kampanelis",
+                "hu": "Iakovos Kampanelis",
+                "ro": "Iakovos Kampanelis",
+                "en": "Iakovos Kampanelis"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher kultureller Stopp am Nachmittag; die Ausstellungen bieten eine warme Abwechslung zum Spaziergang durch die kühle Chora.",
+                "hu": "Egy kellemes kulturális megálló délután; a kiállítások meleg felüdülést nyújtanak a hűvös Chorában tett séta után.",
+                "ro": "O oprire culturală plăcută după-amiaza; expozițiile oferă o alternativă caldă la plimbarea prin Chora cea răcoroasă.",
+                "en": "A cozy cultural stop in the afternoon; the exhibitions offer a warm break from your walk through the cool Chora."
+              }
+            },
+            {
+              "name": {
+                "de": "Della Rocca-Barozzi Venezianisches Museum",
+                "hu": "Della Rocca-Barozzi Velencei Múzeum",
+                "ro": "Muzeul Venețian Della Rocca-Barozzi",
+                "en": "Della Rocca-Barozzi Venetian Museum"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wirkt der venezianische Turm noch mystischer; nutzen Sie das sanfte Nachmittagslicht für Fotos in den Innenhöfen.",
+                "hu": "Télen a velencei torony még misztikusabbnak hat; használja ki a lágy délutáni fényeket a belső udvarokon készített fotókhoz.",
+                "ro": "Iarna, turnul venețian pare și mai mistic; profitați de lumina blândă de după-amiază pentru fotografii în curțile interioare.",
+                "en": "In winter, the Venetian tower feels even more mystical; use the soft afternoon light for photos in the inner courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Naxos",
+                "hu": "Naxoszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Naxos",
+                "en": "Archaeological Museum of Naxos"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier im Warmen; beachten Sie, dass es nach dem Museumsbesuch draußen bereits dämmrig sein wird.",
+                "hu": "Zárja itt a napot a melegben; vegye figyelembe, hogy a múzeumlátogatás után odakint már szürkület fogadja.",
+                "ro": "Încheiați ziua aici, la căldură; rețineți că după vizita la muzeu, afară se va însera deja rapid.",
+                "en": "End your day here in the warmth; be aware that it will already be twilight outside by the time you leave the museum."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros útját a látványos Portaránál, majd tekerjen végig a város utcáin a Néprajzi Múzeumhoz, hogy bepillantást nyerjen a helyi hagyományokba.\n\nTekerjen a Régészeti Múzeum felé, hogy megcsodálja az ősi leleteket, és élvezze a hagyományos fehér házakra nyíló, kissé megemelt kilátást.\n\nHagyja el a központot, és vegye az irányt a Szent István-bazilika és az ősi vízvezeték lenyűgöző romjai felé, ami tökéletes kétkerekes szabadtéri program.\n\nZárja aktív napját a Naxaki Beach Lounge-ban pihenve, majd érkezzen meg a festői Laguna Beach Parkba, ahogy a nap a csillogó horizont alá bukik.",
         "ro": "Începeți-vă traseul cu bicicleta la spectaculoasa Portara, apoi pedalați pe străzile orașului până la Muzeul Satului pentru o privire asupra tradițiilor locale.\n\nPedalați către Muzeul Arheologic din Naxos pentru a admira artefactele antice, bucurându-vă de vederea ușor panoramică asupra caselor tradiționale albe.\n\nIeșiți din centrul principal spre ruinele uimitoare ale Bazilicii Sf. Ștefan și Apeductului Antic, o explorare perfectă în aer liber pe două roți.\n\nÎncheiați-vă ziua activă relaxându-vă la Naxaki Beach Lounge și oprindu-vă la Laguna Beach Park în timp ce soarele coboară sub orizontul sclipitor.",
         "en": "Kick off your cycling journey at the spectacular Portara, then pedal through the town streets to the Folk Museum for a quick glimpse into local traditions.\n\nCycle towards the Archaeological Museum of Naxos to marvel at ancient artifacts, enjoying the slightly elevated views over the traditional white-washed houses.\n\nHead out of the main center towards the striking ruins of the Basilica of St. Stefanos and the Ancient Aqueduct, a perfect outdoor exploration on two wheels.\n\nFinish your active day cruising to Naxaki Beach Lounge for a rest, ending at the scenic Laguna Beach Park as the sun dips below the shimmering horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag erfordert wasserfeste Kleidung und Vorsicht in den Kurven. Morgens führt die Fahrt zur Portara durch spritzende Pfützen. Mittags bieten Museen längere trockene Pausen. Nachmittags geht es entlang der Küste, wo der Wind den Regen peitscht. Der Abend endet nach einer vorsichtigen Rückfahrt bei einem wärmenden Getränk in der Stadt.",
+            "hu": "Az esős kerékpáros nap vízálló ruházatot és óvatosságot igényel a kanyarokban. Reggel a Portarához vezető úton pocsolyák várnak. Délben a múzeumok nyújtanak hosszabb, száraz pihenőt. Délután a tengerpart mentén haladva a szél korbácsolja az esőt. Az este egy óvatos visszaút után egy melengető ital mellett zárul a városban.",
+            "ro": "O zi de ciclism pe ploaie necesită haine impermeabile și prudență în curbe. Dimineața, drumul spre Portara trece prin bălți. La prânz, muzeele oferă pauze lungi și uscate. După-amiaza, de-a lungul coastei, vântul biciuiește ploaia. Seara se încheie după o întoarcere prudentă, cu o băutură caldă în oraș.",
+            "en": "A rainy cycling day requires waterproof clothing and caution in corners. In the morning, the ride to Portara goes through splashing puddles. At noon, museums offer longer dry breaks. In the afternoon, riding along the coast, the wind whips the rain. The evening ends after a careful return ride with a warming drink in town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portara",
+                "hu": "Portara",
+                "ro": "Portara",
+                "en": "Portara"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab, da der Boden glitschig ist; der Wind am Damm kann das Schieben des Rades erforderlich machen.",
+                "hu": "Biztonságosan támassza le a biciklit, mert a talaj csúszós; a gáton a szél miatt szükség lehet a kerékpár tolására.",
+                "ro": "Parcați bicicleta în siguranță, deoarece solul este alunecos; vântul de pe dig ar putea face necesară împingerea bicicletei.",
+                "en": "Park your bike securely as the ground is slippery; the wind on the causeway might make walking your bike necessary."
+              }
+            },
+            {
+              "name": {
+                "de": "Volkskundemuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Satului",
+                "en": "Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften und sich in den historischen Räumen des Kastro aufzuwärmen.",
+                "hu": "Ideális hely az esőruházat rövid szellőztetésére és a felmelegedésre a várnegyed történelmi szobáiban.",
+                "ro": "Un loc ideal pentru a aerisi puțin hainele de ploaie și pentru a vă încălzi în camerele istorice din Kastro.",
+                "en": "An ideal place to briefly air out your rain gear and warm up in the historic rooms of the Kastro district."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Naxos",
+                "hu": "Naxoszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Naxos",
+                "en": "Archaeological Museum of Naxos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Abstellplätze in der Nähe des Schlosses und genießen Sie eine lange, trockene Pause bei den antiken Schätzen.",
+                "hu": "Használja a vár közeli tárolókat, és élvezze a hosszú, száraz pihenőt az antik kincsek között.",
+                "ro": "Folosiți locurile de parcare de lângă castel și bucurați-vă de o pauză lungă și uscată printre comorile antice.",
+                "en": "Use the parking spots near the castle and enjoy a long, dry break among the ancient treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika St. Stefanos, Antikes Aquädukt",
+                "hu": "Szent István-bazilika, Ősi vízvezeték",
+                "ro": "Bazilica Sf. Ștefan, Apeductul Antic",
+                "en": "Basilica of St. Stefanos, Ancient Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den unbefestigten Wegen zum Aquädukt, diese können schlammig sein; prüfen Sie Ihre Bremsen vor der Abfahrt.",
+                "hu": "Vigyázzon a vízvezetékhez vezető burkolatlan utakon, mert sárosak lehetnek; indulás előtt ellenőrizze a fékeket.",
+                "ro": "Atenție pe drumurile neasfaltate spre apeduct, acestea pot fi noroioase; verificați frânele înainte de plecare.",
+                "en": "Be careful on the unpaved paths to the aqueduct as they can be muddy; check your brakes before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Naxaki Beach Lounge und Restaurant",
+                "hu": "Naxaki Beach Lounge és Étterem",
+                "ro": "Naxaki Beach Lounge și Restaurant",
+                "en": "Naxaki Beach Lounge and Restaurant"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Platz im überdachten Bereich; der Blick auf die regnerische Ägäis bei einem heißen Tee ist sehr entspannend.",
+                "hu": "Keressen helyet a fedett részen; a regnerikus Égei-tenger látványa egy forró tea mellett nagyon megnyugtató.",
+                "ro": "Căutați un loc în zona acoperită; vederea spre Marea Egee ploioasă, în timp ce savurați un ceai cald, este relaxantă.",
+                "en": "Find a seat in the covered area; the view of the rainy Aegean with a hot tea is very relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Laguna Beach Park",
+                "hu": "Laguna Beach Park",
+                "ro": "Laguna Beach Park",
+                "en": "Laguna Beach Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem sandigen Untergrund, der durch den Regen schwer passierbar sein kann; achten Sie auf tiefe Pfützen.",
+                "hu": "Haladjon lassan a homokos talajon, amely az esőtől nehezen járhatóvá válhat; ügyeljen a mély pocsolyákra.",
+                "ro": "Mergeți încet pe terenul nisipos, care poate fi greu de parcurs din cauza ploii; atenție la bălțile adânci.",
+                "en": "Ride slowly on the sandy ground, which can be difficult to navigate due to rain; watch out for deep puddles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter bietet leere Straßen und kühle Brisen. Morgens ist die Luft an der Portara kristallklar. Mittags laden die Museen in der Chora zum Aufwärmen ein. Am Nachmittag führt die Route zum Aquädukt durch die grüne Winterlandschaft. Vor dem frühen Sonnenuntergang gegen 17:00 Uhr sollten Sie den Strand erreichen, um das goldene Licht zu genießen.",
+            "hu": "A téli kerékpározás üres utakat és hűvös szellőket kínál. Reggel a levegő a Portaránál kristálytiszta. Délben a Chora múzeumaiban melegedhetünk fel. Délután az út a vízvezetékhez a zöldellő téli tájon át vezet. A korai, 17:00-s naplemente előtt érdemes elérni a strandot a városhoz közeli részen.",
+            "ro": "Ciclismul de iarnă oferă drumuri pustii și brize răcoroase. Dimineața, aerul la Portara este de cristal. La prânz, muzeele din Chora vă invită la încălzire. După-amiaza, ruta spre apeduct trece prin peisajul verde de iarnă. Înainte de apusul devreme de la ora 17:00, ajungeți la plajă.",
+            "en": "Winter cycling offers empty roads and cool breezes. In the morning, the air at Portara is crystal clear. At noon, museums in the Chora invite you to warm up. In the afternoon, the route to the aqueduct leads through green winter landscapes. Aim to reach the beach before the early 5:00 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Portara",
+                "hu": "Portara",
+                "ro": "Portara",
+                "en": "Portara"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie Handschuhe gegen den kalten Fahrtwind; im Winter haben Sie das antike Tor fast ganz für sich allein.",
+                "hu": "Használjon kesztyűt a hideg menetszél ellen; télen az antik kapu szinte csak az öné lesz.",
+                "ro": "Folosiți mănuși împotriva vântului rece; iarna veți avea poarta antică aproape în întregime doar pentru dumneavoastră.",
+                "en": "Use gloves against the cold riding wind; in winter, you'll have the ancient gate almost entirely to yourself."
+              }
+            },
+            {
+              "name": {
+                "de": "Volkskundemuseum",
+                "hu": "Néprajzi Múzeum",
+                "ro": "Muzeul Satului",
+                "en": "Folk Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener Stopp, um die Muskeln aufzuwärmen; die herzliche Atmosphäre im Museum vertreibt die Winterkälte.",
+                "hu": "Szívesen látott megálló az izmok bemelegítésére; a múzeum szívélyes légköre elűzi a téli hideget.",
+                "ro": "O oprire binevenită pentru a vă încălzi mușchii; atmosfera caldă din muzeu alungă frigul iernii.",
+                "en": "A welcome stop to warm up your muscles; the museum's hearty atmosphere chases away the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Naxos",
+                "hu": "Naxoszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Naxos",
+                "en": "Archaeological Museum of Naxos"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Rad im Kastro stehen und genießen Sie die Wärme der Ausstellungsräume; ideal für eine längere Pause am Mittag.",
+                "hu": "Hagyja a biciklit a várnegyedben, és élvezze a kiállítótermek melegét; ideális egy hosszabb déli pihenőhöz.",
+                "ro": "Lăsați bicicleta în Kastro și bucurați-vă de căldura sălilor de expoziție; ideal pentru o pauză lungă la prânz.",
+                "en": "Leave your bike in the Kastro district and enjoy the warmth of the galleries; ideal for a longer midday break."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika St. Stefanos, Antikes Aquädukt",
+                "hu": "Szent István-bazilika, Ősi vízvezeték",
+                "ro": "Bazilica Sf. Ștefan, Apeductul Antic",
+                "en": "Basilica of St. Stefanos, Ancient Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Die Landschaft ist im Winter herrlich grün; tragen Sie mehrere Schichten Kleidung, da es im Schatten der Hügel kühl sein kann.",
+                "hu": "A táj télen csodálatosan zöld; viseljen több réteg ruhát, mert a dombok árnyékában hűvös lehet az idő.",
+                "ro": "Peisajul este de un verde superb iarna; purtați mai multe straturi de haine, deoarece la umbra dealurilor poate fi răcoare.",
+                "en": "The landscape is wonderfully green in winter; wear multiple layers of clothing as it can be cool in the shade of the hills."
+              }
+            },
+            {
+              "name": {
+                "de": "Naxaki Beach Lounge und Restaurant",
+                "hu": "Naxaki Beach Lounge és Étterem",
+                "ro": "Naxaki Beach Lounge și Restaurant",
+                "en": "Naxaki Beach Lounge and Restaurant"
+              },
+              "tip_5lang": {
+                "de": "Ein windgeschützter Platz ist im Winter Gold wert; tanken Sie bei einem warmen Snack Energie für die letzte Etappe.",
+                "hu": "Egy szélvédett hely télen aranyat ér; tankoljon energiát egy meleg harapnivalóval az utolsó szakasz előtt.",
+                "ro": "Un loc ferit de vânt valorează aur iarna; reîncărcați-vă cu o gustare caldă pentru ultima etapă a drumului.",
+                "en": "A wind-sheltered spot is worth its weight in gold in winter; recharge with a warm snack for the last leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Laguna Beach Park",
+                "hu": "Laguna Beach Park",
+                "ro": "Laguna Beach Park",
+                "en": "Laguna Beach Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang am leeren Strand; da es früh dunkel wird, schalten Sie rechtzeitig Ihre Fahrradbeleuchtung ein.",
+                "hu": "Élvezze a naplementét az üres strandon; mivel korán sötétedik, időben kapcsolja be a kerékpárvilágítást.",
+                "ro": "Bucurați-vă de apus pe plaja pustie; deoarece se întunecă devreme, porniți din timp luminile bicicletei.",
+                "en": "Enjoy the sunset on the empty beach; since it gets dark early, remember to turn on your bike lights in time."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autózzon el a csendes Limnodexameni Eggaron tóhoz, hogy a természetben kezdje a napot, mielőtt visszatérne a partra az ikonikus Portara megtekintéséhez.\n\nParkoljon le a városközpont közelében, látogasson el a Régészeti Múzeumba, majd tegyen egy rövid autózást a lenyűgöző Szent István-bazilika felé.\n\nFolytassa útját délre, és fedezze fel az Archaiologiki Syllogi Yriont, elmerülve a sziget mély ókori történelmében és békés tájában.\n\nZárja naxoszi autós kalandját egy frissítő csobbanással az Aqua fun parkban, amely remek kikapcsolódás a késő délutáni melegben, vacsora előtt.",
         "ro": "Conduceți până la liniștitul Limnodexameni Eggaron pentru a vă începe ziua în natură, înainte de a vă întoarce pe coastă pentru a vedea iconica Portara.\n\nParcați aproape de centru și vizitați Muzeul Arheologic din Naxos, urmat de un scurt drum pitoresc până la fascinanta Bazilică a Sfântului Ștefan.\n\nContinuați-vă călătoria spre sud pentru a explora Archaiologiki Syllogi Yrion, cufundându-vă în istoria antică profundă și peisajul senin al insulei.\n\nÎncheiați-vă aventura auto din Naxos cu o bălăceală energică la Aqua fun, o modalitate excelentă de a vă răcori și a vă bucura de după-amiază.",
         "en": "Drive out to the tranquil Limnodexameni Eggaron to start your day surrounded by nature, before heading back to the coast to witness the iconic Portara.\n\nPark near the town center and step into the Archaeological Museum of Naxos, followed by a short scenic drive to the fascinating Basilica of St. Stefanos.\n\nContinue your road trip south to explore the Archaiologiki Syllogi Yrion, immersing yourself in the profound ancient history and serene landscape of the island.\n\nWrap up your Naxos driving adventure with an energetic splash at Aqua fun, a great way to cool off and enjoy the late afternoon before dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl bei Regen, um die Insel trocken zu erkunden. Morgens geht es zum Eggares-Stausee, wo die Natur im Regen auflebt. Mittags bietet die Chora Museen als trockene Häfen. Nachmittags führen Fahrten zu antiken Stätten, die im Nebel mystisch wirken. Der Abend endet entspannt in der Stadt, während das Auto sicher geparkt ist.",
+            "hu": "Az autó a legjobb választás esőben a sziget száraz felfedezéséhez. Reggel az eggareszi víztározóhoz látogatunk, ahol a természet kivirul az esőben. Délben a Chora múzeumai szolgálnak száraz kikötőként. Délután az antik lelőhelyek ködbe burkolózva misztikus látványt nyújtanak. Az este a városban zárul, miután az autót biztonságban leparkoltuk.",
+            "ro": "Mașina este cea mai bună alegere pe ploaie pentru a explora insula la adăpost. Dimineața mergem la lacul de acumulare Eggares, unde natura prinde viață. La prânz, muzeele din Chora servesc drept porturi uscate. După-amiaza, siturile antice par mistice în ceață. Seara se încheie relaxat în oraș, cu mașina parcată în siguranță.",
+            "en": "The car is the best choice in the rain to explore the island while staying dry. In the morning, head to the Eggares reservoir, where nature revives in the rain. At noon, the Chora museums serve as dry harbors. In the afternoon, drives to ancient sites feel mystical in the mist. The evening ends relaxingly in town with the car safely parked."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Limnodexameni Eggaron",
+                "hu": "Limnodexameni Eggaron",
+                "ro": "Limnodexameni Eggaron",
+                "en": "Limnodexameni Eggaron"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den vollen Stausee vom Auto aus; die Umgebung ist bei Regen besonders grün und lebendig.",
+                "hu": "Élvezze a telt víztározó látványát az autóból; a környék esőben különösen zöld és élettel teli.",
+                "ro": "Bucurați-vă de vederea lacului plin direct din mașină; împrejurimile sunt deosebit de verzi și vii pe ploaie.",
+                "en": "Enjoy the view of the full reservoir from your car; the surroundings are especially green and vibrant in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Portara",
+                "hu": "Portara",
+                "ro": "Portara",
+                "en": "Portara"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Hafen und sprinten Sie zur Portara; der Wind am Damm kann bei Regen sehr stark sein.",
+                "hu": "Parkoljon a lehető legközelebb a kikötőhöz, és szaladjon ki a Portarához; a szél a gáton esőben igen erős lehet.",
+                "ro": "Parcați cât mai aproape de port și mergeți rapid spre Portara; vântul de pe dig poate fi foarte puternic pe ploaie.",
+                "en": "Park as close to the harbor as possible and make a quick dash to Portara; the wind on the causeway can be very strong."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Naxos",
+                "hu": "Naxoszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Naxos",
+                "en": "Archaeological Museum of Naxos"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen; nutzen Sie die Zeit für die detaillierte Ausstellung, während es draußen ungemütlich ist.",
+                "hu": "Tökéletes megálló esőben; szánjon időt a részletes kiállításra, amíg odakint barátságtalan az időjárás.",
+                "ro": "O oprire perfectă pe ploaie; profitați de timp pentru expoziția detaliată în timp ce afară vremea este neplăcută.",
+                "en": "A perfect stop during the rain; take your time for the detailed exhibition while it's unpleasant outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika St. Stefanos, Antikes Aquädukt",
+                "hu": "Szent István-bazilika, Ősi vízvezeték",
+                "ro": "Bazilica Sf. Ștefan, Apeductul Antic",
+                "en": "Basilica of St. Stefanos, Ancient Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen zum Aquädukt können rutschig sein; bleiben Sie bei starkem Regen lieber im Wagen und genießen Sie die Aussicht.",
+                "hu": "A vízvezetékhez vezető utak csúszósak lehetnek; heves esőben maradjon inkább a kocsiban, és onnan csodálja a kilátást.",
+                "ro": "Drumurile spre apeduct pot fi alunecoase; în caz de ploaie torențială, mai bine rămâneți în mașină și admirați peisajul.",
+                "en": "The roads to the aqueduct can be slippery; in heavy rain, stay in the car and enjoy the view from there."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaiologiki Syllogi Yrion",
+                "hu": "Archaiologiki Syllogi Yrion",
+                "ro": "Archaiologiki Syllogi Yrion",
+                "en": "Archaiologiki Syllogi Yrion"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Dach des Heiligtums; die antiken Ruinen haben bei Regen eine ganz eigene, stille Aura.",
+                "hu": "Keressen menedéket a szentély tetővel védett része alatt; az antik romoknak esőben sajátos, csendes aurájuk van.",
+                "ro": "Căutați adăpost sub acoperișul sanctuarului; ruinele antice au o aură proprie, liniștită, pe timp de ploaie.",
+                "en": "Seek shelter under the roofed parts of the sanctuary; the ancient ruins have a unique, quiet aura in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqua fun",
+                "hu": "Aqua fun",
+                "ro": "Aqua fun",
+                "en": "Aqua fun"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob Indoor-Angebote verfügbar sind; ansonsten ist es ein kurzer Blick auf den Poolbereich vom trockenen Auto aus.",
+                "hu": "Ellenőrizze, vannak-e fedett programok; egyébként csak egy rövid pillantás a medencékre a száraz autóból.",
+                "ro": "Verificați dacă sunt disponibile activități de interior; altfel, este doar o scurtă privire spre piscine din mașina uscată.",
+                "en": "Check if indoor facilities are available; otherwise, it's just a quick glance at the pool area from the dry car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterfahrten mit dem Auto bieten Komfort und Flexibilität. Morgens erkunden Sie den grünen Eggares-Stausee. Mittags wärmen Sie sich in den Museen der Chora auf. Nachmittags führen Fahrten zu den antiken Stätten von Yria im goldenen Winterlicht. Beenden Sie die Tour vor 17:00 Uhr am Strand, bevor die Dämmerung schnell hereinbricht.",
+            "hu": "A téli autós utazás kényelmet és rugalmasságot kínál. Reggel a zöldellő eggareszi víztározót fedezzük fel. Délben a Chora múzeumaiban melegedhetünk fel. Délután Yria antik lelőhelyeit látogatjuk meg az aranyló téli fényekben. A túrát 17:00 előtt fejezzük be a tengerparton, mielőtt gyorsan leszáll az alkony.",
+            "ro": "Călătoria cu mașina iarna oferă confort și flexibilitate. Dimineața explorați lacul verde Eggares. La prânz vă încălziți în muzeele din Chora. După-amiaza vizitați siturile antice din Yria în lumina aurie a iernii. Încheiați turul înainte de ora 17:00 la plajă, înainte de lăsarea serii.",
+            "en": "Winter car trips offer comfort and flexibility. In the morning, explore the green Eggares reservoir. At noon, warm up in the Chora museums. In the afternoon, visit the ancient sites of Yria in the golden winter light. Finish your tour at the beach before 5:00 PM as twilight falls quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Limnodexameni Eggaron",
+                "hu": "Limnodexameni Eggaron",
+                "ro": "Limnodexameni Eggaron",
+                "en": "Limnodexameni Eggaron"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Wasserstand am höchsten; genießen Sie die friedliche Natur ohne Touristenströme bei einer kühlen Brise.",
+                "hu": "Télen a legmagasabb a vízszint; élvezze a békés természetet turistaáradat nélkül a hűvös szellőben.",
+                "ro": "Iarna nivelul apei este maxim; bucurați-vă de natura liniștită, fără mulțimi de turiști, în briza răcoroasă.",
+                "en": "In winter, the water level is at its highest; enjoy the peaceful nature without tourist crowds in the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Portara",
+                "hu": "Portara",
+                "ro": "Portara",
+                "en": "Portara"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Hafen und genießen Sie den kurzen Spaziergang im frischen Wind; die Wintersonne steht perfekt für Fotos.",
+                "hu": "Parkoljon a kikötőben, és élvezze a rövid sétát a friss szélben; a téli nap állása tökéletes a fotózáshoz.",
+                "ro": "Parcați în port și bucurați-vă de plimbarea scurtă în vântul proaspăt; soarele de iarnă este perfect pentru fotografii.",
+                "en": "Park at the harbor and enjoy a short walk in the fresh wind; the winter sun's position is perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Naxos",
+                "hu": "Naxoszi Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Naxos",
+                "en": "Archaeological Museum of Naxos"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Räume sind im Winter sehr angenehm; nutzen Sie die ruhige Nebensaison für eine ungestörte Besichtigung.",
+                "hu": "A fűtött termek télen nagyon kellemesek; használja ki a csendes utószezont a zavartalan nézelődésre.",
+                "ro": "Sălile încălzite sunt foarte plăcute iarna; profitați de extrasezonul liniștit pentru o vizită netulburată.",
+                "en": "The heated rooms are very pleasant in winter; take advantage of the quiet off-season for an undisturbed visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilika St. Stefanos, Antikes Aquädukt",
+                "hu": "Szent István-bazilika, Ősi vízvezeték",
+                "ro": "Bazilica Sf. Ștefan, Apeductul Antic",
+                "en": "Basilica of St. Stefanos, Ancient Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter oft klarer als im Sommer; ein kurzer Halt am Aquädukt lohnt sich für die weite Aussicht.",
+                "hu": "A látótávolság télen gyakran nagyobb, mint nyáron; egy rövid megálló a vízvezetéknél megéri a tágas kilátásért.",
+                "ro": "Vizibilitatea este adesea mai bună iarna decât vara; o scurtă oprire la apeduct merită pentru privelistea vastă.",
+                "en": "Visibility is often clearer in winter than in summer; a short stop at the aqueduct is worth it for the expansive view."
+              }
+            },
+            {
+              "name": {
+                "de": "Archaiologiki Syllogi Yrion",
+                "hu": "Archaiologiki Syllogi Yrion",
+                "ro": "Archaiologiki Syllogi Yrion",
+                "en": "Archaiologiki Syllogi Yrion"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wirkt der Tempel der Iria besonders isoliert und beeindruckend; tragen Sie festes Schuhwerk für den Gartenbereich.",
+                "hu": "Télen az iriai templom különösen elszigeteltnek és lenyűgözőnek tűnik; viseljen stabil cipőt a kerti részhez.",
+                "ro": "Iarna, templul din Iria pare deosebit de izolat și impresionant; purtați încălțăminte solidă pentru zona grădinii.",
+                "en": "In winter, the Temple of Yria feels especially isolated and impressive; wear sturdy shoes for the garden area."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqua fun",
+                "hu": "Aqua fun",
+                "ro": "Aqua fun",
+                "en": "Aqua fun"
+              },
+              "tip_5lang": {
+                "de": "In der Nebensaison kann der Betrieb eingeschränkt sein; genießen Sie stattdessen die Fahrt entlang der einsamen Winterküste.",
+                "hu": "Az utószezonban a nyitvatartás korlátozott lehet; élvezze helyette az autózást a magányos téli tengerpart mentén.",
+                "ro": "În extrasezon activitatea poate fi limitată; bucurați-vă în schimb de drumul de-a lungul coastei pustii de iarnă.",
+                "en": "Operations may be limited in the off-season; instead, enjoy the drive along the lonely winter coastline."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Ez a gyalogos útvonal Mazatlán gazdag kulturális szívére összpontosít. A délelőtt a CICMA innovatív történelmével és a színház építészetével indul. A dél a helyi identitásé a Museo Que viva Sinaloa-ban. A délután Pedro Infante filmes nosztalgiájába vált. Az este a Playa Olas Altas tengerpartján ér véget egy tökéletes naplemente kíséretében.",
         "ro": "Acest traseu pietonal se concentrează pe inima culturală bogată a orașului Mazatlán. Dimineața începe cu istorie inovatoare la CICMA și arhitectura teatrului. Prânzul este dedicat identității locale la Museo Que viva Sinaloa. După-amiaza trece la nostalgia cinematografică onorându-l pe Pedro Infante. Seara se încheie la Playa Olas Altas cu un apus perfect.",
         "en": "This walkable itinerary focuses on Mazatlán's rich cultural heart. Morning starts with innovative history at CICMA and the stunning architecture of Teatro Ángela Peralta. Midday is dedicated to local identity at Museo Que viva Sinaloa. Afternoon shifts to cinematic nostalgia honoring Pedro Infante. Evening concludes at Playa Olas Altas for a perfect sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bieten die Museen im historischen Zentrum perfekten Schutz vor den tropischen Güssen. Mittags erkunden Sie die prachtvolle Architektur des Theaters, während es draußen regnet. Nachmittags vertiefen Sie sich in die lokale Geschichte in Pedro Infantes Haus. Abends erleben Sie die dramatische Gischt an der Playa Olas Altas von einer überdachten Terrasse aus, wenn der Regen nachlässt.",
+            "hu": "Reggel a történelmi központ múzeumaiban találunk menedéket a trópusi záporok elől. Délben a színház pompás belső tereit fedezzük fel, miközben kint dobol az eső. Délután Pedro Infante emlékházában mélyedünk el a helyi kultúrában. Este a Playa Olas Altas partján, egy fedett teraszról figyeljük a tenger és az eső találkozását, ügyelve a csúszós kövezetre a Malecón mentén.",
+            "ro": "Dimineața, muzeele din centrul istoric oferă adăpostul perfect împotriva averselor tropicale. La prânz, explorăm arhitectura splendidă a teatrului în timp ce afară plouă. După-amiaza este dedicată istoriei locale în casa memorială a lui Pedro Infante. Seara, admirăm spectacolul valurilor la Playa Olas Altas de pe o terasă acoperită, savurând atmosfera dramatică a furtunii.",
+            "en": "Morning starts with indoor cultural exploration to avoid tropical showers in the historic center. At noon, the grand theater provides a dry sanctuary full of art. Afternoon is spent uncovering local legends in sheltered museums. Evening concludes at Olas Altas, where you can watch the stormy Pacific from a covered spot, being mindful of the slippery pavement on your way back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "CICMA Centro de Innovación Cultural Mazatlán",
+                "hu": "CICMA Centro de Innovación Cultural Mazatlán",
+                "ro": "CICMA Centro de Innovación Cultural Mazatlán",
+                "en": "CICMA Centro de Innovación Cultural Mazatlán"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die interaktiven Ausstellungen als idealen Zufluchtsort bei Regen und bewahren Sie Ihren Schirm im Eingangsbereich auf.",
+                "hu": "Használja ki az interaktív kiállításokat ideális menedékként az eső elől, az esernyőket pedig hagyja a bejáratnál lévő tárolóban.",
+                "ro": "Profită de expozițiile interactive ca refugiu ideal împotriva ploii și lasă umbrela la spațiul de depozitare de la intrare.",
+                "en": "Utilize the interactive exhibits as a perfect rainy-day refuge and make sure to leave your umbrella in the designated entry area."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ángela Peralta",
+                "hu": "Teatro Ángela Peralta",
+                "ro": "Teatro Ángela Peralta",
+                "en": "Teatro Ángela Peralta"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prachtvolle Akustik und Architektur im Trockenen und achten Sie auf die oft rutschigen Marmorstufen im Foyer.",
+                "hu": "Csodálja meg a pompás akusztikát és építészetet a száraz belső térben, de ügyeljen a foyer gyakran csúszós márványlépcsőire.",
+                "ro": "Admiră acustica și arhitectura splendidă la adăpost și ai grijă la treptele de marmură din foaier care pot deveni alunecoase.",
+                "en": "Admire the magnificent acoustics and architecture while staying dry, but watch out for the foyer's marble steps which can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Que viva Sinaloa",
+                "hu": "Museo Que viva Sinaloa",
+                "ro": "Museo Que viva Sinaloa",
+                "en": "Museo Que viva Sinaloa"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie tief in die Kultur von Sinaloa ein, während draußen der Regen prasselt, und nutzen Sie die gut beleuchteten Innenräume.",
+                "hu": "Merüljön el Sinaloa kultúrájában, miközben kint kopog az eső, és élvezze a múzeum jól megvilágított, fedett belső tereit.",
+                "ro": "Explorează cultura din Sinaloa în timp ce afară plouă torențial și profită de spațiile interioare bine luminate ale muzeului.",
+                "en": "Dive deep into Sinaloa's culture while the rain pours outside, and enjoy the museum's well-lit and fully sheltered interior spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo El Rincón de Pedro Infante",
+                "hu": "Museo El Rincón de Pedro Infante",
+                "ro": "Museo El Rincón de Pedro Infante",
+                "en": "Museo El Rincón de Pedro Infante"
+              },
+              "tip_5lang": {
+                "de": "Dieses kleine, charmante Museum bietet eine intime Atmosphäre an Regentagen; halten Sie Ihre Kamera für die Exponate griffbereit.",
+                "hu": "Ez a bájos kis múzeum meghitt hangulatot áraszt esős napokon; tartsa készenlétben a fényképezőgépét a belső tárlathoz.",
+                "ro": "Acest mic muzeu fermecător oferă o atmosferă intimă în zilele ploioase; ține camera pregătită pentru exponatele interioare.",
+                "en": "This small, charming museum offers an intimate atmosphere on rainy days; keep your camera ready for the indoor memorabilia."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Olas Altas",
+                "hu": "Playa Olas Altas",
+                "ro": "Playa Olas Altas",
+                "en": "Playa Olas Altas"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufgewühlte See von einem der Cafés aus und meiden Sie die Wellenbrecher wegen der hohen Gischt bei Regen.",
+                "hu": "Figyelje a háborgó tengert valamelyik kávézó fedezékéből, és kerülje a mólókat a hatalmas hullámverés és a csúszós kövek miatt.",
+                "ro": "Observă marea agitată din adăpostul unei cafenele și evită digurile din cauza valurilor mari și a pietrelor alunecoase.",
+                "en": "Watch the turbulent sea from the safety of a cafe and avoid the breakwaters due to high spray and extremely slippery rocks."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am CICMA weckt die Sinne bei milden Temperaturen. Mittags genießen Sie die Sonne auf dem Weg zum Theater, ohne die Hitze des Sommers. Nachmittags erkunden Sie die Gassen des historischen Zentrums im goldenen Licht. Da die Sonne bereits gegen 17:00 Uhr sinkt, erleben Sie an der Playa Olas Altas einen frühen, aber spektakulären Sonnenuntergang.",
+            "hu": "A friss téli reggel a CICMA-nál éberré teszi az érzékeket a kellemes, enyhe időben. Délben a színház felé sétálva élvezzük a napsütést a nyári hőség nélkül. Délután az óváros utcáit fedezzük fel az aranyló fényben. Mivel a nap már 17:00 körül nyugovóra tér, a Playa Olas Altas partján korai, de annál látványosabb naplementében lesz részünk.",
+            "ro": "O dimineață răcoroasă de iarnă la CICMA trezește simțurile la temperaturi blânde. La prânz, profităm de soare în drum spre teatru, fără arșița verii. După-amiaza explorăm străzile centrului istoric în lumina aurie. Deoarece soarele apune deja în jur de ora 17:00, la Playa Olas Altas avem parte de un apus timpuriu, dar spectaculos.",
+            "en": "A crisp winter morning at CICMA awakens the senses with mild temperatures. At noon, walk to the theater enjoying the gentle sun without the summer heat. Afternoon is perfect for exploring the old town's alleys in golden light. Since the sun sets around 17:00, you'll witness an early but breathtaking sunset at Olas Altas beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "CICMA Centro de Innovación Cultural Mazatlán",
+                "hu": "CICMA Centro de Innovación Cultural Mazatlán",
+                "ro": "CICMA Centro de Innovación Cultural Mazatlán",
+                "en": "CICMA Centro de Innovación Cultural Mazatlán"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das helle Winterlicht in den Innenhöfen für Fotos und bringen Sie eine leichte Jacke für die kühleren Räume mit.",
+                "hu": "Használja ki az udvarok világos téli fényeit a fotózáshoz, és vigyen egy vékony kabátot a hűvösebb kiállítótermekbe.",
+                "ro": "Profită de lumina clară de iarnă din curțile interioare pentru fotografii și ia o jachetă subțire pentru sălile mai răcoroase.",
+                "en": "Take advantage of the bright winter light in the courtyards for photos and bring a light jacket for the cooler exhibit halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ángela Peralta",
+                "hu": "Teatro Ángela Peralta",
+                "ro": "Teatro Ángela Peralta",
+                "en": "Teatro Ángela Peralta"
+              },
+              "tip_5lang": {
+                "de": "Die milden Wintertemperaturen machen die Besichtigung der oberen Ränge angenehm; genießen Sie die historische Pracht ohne Hitze.",
+                "hu": "A lágy téli hőmérséklet kényelmessé teszi a felső páholyok bejárását; élvezze a történelmi pompát a nyári forróság nélkül.",
+                "ro": "Temperaturile blânde de iarnă fac vizitarea lojelor superioare foarte plăcută; admiră splendoarea istorică fără arșița verii.",
+                "en": "Mild winter temperatures make touring the upper balconies very pleasant; enjoy the historic grandeur without the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Que viva Sinaloa",
+                "hu": "Museo Que viva Sinaloa",
+                "ro": "Museo Que viva Sinaloa",
+                "en": "Museo Que viva Sinaloa"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen am frühen Nachmittag, wenn das schräge Winterlicht die Exponate besonders schön hervorhebt.",
+                "hu": "Fedezze fel a kiállításokat kora délután, amikor a ferdén beeső téli fények különleges hangulatot adnak a tárlatnak.",
+                "ro": "Explorează expozițiile la începutul după-amiezii, când lumina piezișă de iarnă scoate în evidență detaliile obiectelor expuse.",
+                "en": "Explore the exhibits in the early afternoon when the slanting winter light highlights the artifacts with a unique glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo El Rincón de Pedro Infante",
+                "hu": "Museo El Rincón de Pedro Infante",
+                "ro": "Museo El Rincón de Pedro Infante",
+                "en": "Museo El Rincón de Pedro Infante"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Museum vor 16 Uhr, um danach noch genügend Tageslicht für den Spaziergang zur Küste zu haben.",
+                "hu": "Látogassa meg ezt a múzeumot délután 4 előtt, hogy maradjon elég természetes fénye a tengerparti sétához a korai sötétedés előtt.",
+                "ro": "Vizitează acest muzeu înainte de ora 16:00 pentru a avea destulă lumină naturală la plimbarea spre coastă înainte de amurg.",
+                "en": "Visit this museum before 4 PM to ensure you have enough natural daylight for your walk to the coast before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Olas Altas",
+                "hu": "Playa Olas Altas",
+                "ro": "Playa Olas Altas",
+                "en": "Playa Olas Altas"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie gegen 16:45 Uhr hier, um den Winter-Sonnenuntergang zu erleben, und kleiden Sie sich für die frische Meeresbrise wärmer.",
+                "hu": "Érkezzen 16:45 körül a téli naplemente megtekintéséhez, és öltözzön rétegesen a felerősödő esti tengeri szél miatt.",
+                "ro": "Fii aici în jur de ora 16:45 pentru a prinde apusul de iarnă și îmbracă-te gros pentru briza răcoroasă a mării de seară.",
+                "en": "Arrive around 4:45 PM to catch the winter sunset and dress in layers to stay comfortable against the cool evening sea breeze."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A híres Malecón kerékpározása folyamatos óceáni kilátást biztosít. A reggel a Playa Olas Altas-nál és az Ördög-barlangnál kezdődik. A dél a csendes Playa Pinitos-on telik, egy gyors fotóval a Pulmonia emlékműnél. Délután tekerjen el a nyüzsgő Playa Norte mellett. Az este a tengeri élővilág mélyreható felfedezésével zárul a lenyűgöző Gran Acuario falai között.",
         "ro": "Ciclismul pe Malecón oferă vederi constante la ocean. Dimineața începe la Playa Olas Altas și La Cueva del Diablo. Prânzul aduce relaxare la Playa Pinitos și o fotografie la monumentul Pulmonia. După-amiaza implică mersul pe lângă animata Playa Norte. Seara se termină cu explorarea vieții marine la spectaculosul acvariu, încununând o zi perfectă pe coastă.",
         "en": "Cycling the famous Malecón provides constant ocean views. Morning begins at Playa Olas Altas with a quick photo stop at La Cueva del Diablo. Midday brings relaxation at the calm Playa Pinitos and a cultural photo-op at the Pulmonia monument. Afternoon involves riding past the bustling Playa Norte. Evening finishes with deep exploration of marine life at the spectacular Gran Acuario."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet der Malecón eine dramatische Kulisse für Ihre Radtour. Vormittags radeln Sie vorsichtig entlang der Küste, während die Wellen gegen die Mauer schlagen. Mittags suchen Sie Schutz bei den Klippen. Nachmittags führt die Tour nordwärts zur Playa Norte. Den Abschluss bildet der Besuch im Aquarium, wo Sie die Meereswelt im Trockenen bewundern können.",
+            "hu": "Az eső ellenére a Malecón drámai hátteret nyújt a kerékpározáshoz. Délelőtt óvatosan tekerünk a parton, miközben a hullámok a gátnak csapódnak. Délben a sziklák mentén keresünk menedéket. Délután észak felé vesszük az irányt a Playa Norte-ig. A túra végét az Akvárium jelenti, ahol fedett helyen merülhetünk el a tengeri világ csodáiban.",
+            "ro": "În ciuda ploii, Malecón oferă un decor dramatic pentru tura cu bicicleta. Dimineața pedalăm cu grijă pe coastă în timp ce valurile se sparg de dig. La prânz căutăm adăpost lângă stânci. După-amiaza turul continuă spre Playa Norte. Încheiem la Acvariu, unde putem admira lumea marină la adăpost de intemperii.",
+            "en": "Despite the rain, the Malecón provides a dramatic backdrop for a bike ride. In the morning, cycle carefully as waves crash against the sea wall. Seek temporary shelter near the cliffs at noon. Afternoon takes you north toward Playa Norte. Conclude your trip at the Aquarium, enjoying the marine life while staying completely dry indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Olas Altas",
+                "hu": "Playa Olas Altas",
+                "ro": "Playa Olas Altas",
+                "en": "Playa Olas Altas"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig auf dem nassen Pflaster und achten Sie auf Pfützen, die die Sicht auf Schlaglöcher verdecken könnten.",
+                "hu": "Induljon óvatosan a vizes díszburkolaton, és ügyeljen a tócsákra, amelyek elrejthetik az út egyenetlenségeit.",
+                "ro": "Pornește cu atenție pe pavajul umed și ai grijă la bălțile care pot ascunde denivelări ale drumului.",
+                "en": "Start carefully on the wet pavement and watch out for puddles that might hide potholes or uneven surfaces along the path."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cueva del Diablo",
+                "hu": "La Cueva del Diablo",
+                "ro": "La Cueva del Diablo",
+                "en": "La Cueva del Diablo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Eingangsbereich der Höhle für einen kurzen Stopp im Trockenen, aber betreten Sie sie bei Regen wegen Rutschgefahr nicht.",
+                "hu": "Használja a barlang bejáratát egy rövid pihenőre az eső elől, de ne menjen be mélyebbre a csúszós és sötét sziklák miatt.",
+                "ro": "Folosește intrarea peșterii pentru o scurtă pauză la uscat, dar nu intra în interior din cauza stâncilor alunecoase și a întunericului.",
+                "en": "Use the cave entrance for a quick dry break, but avoid going deep inside as the rocks become extremely slippery and dark when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Pinitos",
+                "hu": "Playa Pinitos",
+                "ro": "Playa Pinitos",
+                "en": "Playa Pinitos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der Wellen vom Fahrradweg aus; halten Sie Ihre Bremsen wegen der Nässe stets bremsbereit.",
+                "hu": "Élvezze a hullámok látványát a kerékpárútról; a nedvesség miatt hagyjon nagyobb féktávolságot a megálláshoz.",
+                "ro": "Admiră valurile de pe pista de biciclete; din cauza umezelii, păstrează o distanță mai mare de frânare pentru siguranță.",
+                "en": "Enjoy the view of the waves from the bike path; keep your brakes ready and allow for longer stopping distances in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Pulmonia",
+                "hu": "Monumento a la Pulmonia",
+                "ro": "Monumento a la Pulmonia",
+                "en": "Monumento a la Pulmonia"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp ist hier auch bei Regen möglich; wischen Sie den Sattel vor der Weiterfahrt kurz trocken.",
+                "hu": "Egy gyors fotómegálló esőben is belefér; indulás előtt törölje szárazra a nyerget a kényelmesebb folytatás érdekében.",
+                "ro": "O scurtă oprire pentru poze este posibilă și pe ploaie; șterge șaua înainte de a pleca mai departe pentru confort.",
+                "en": "A quick photo stop is doable even in the rain; wipe your seat dry before continuing to stay comfortable for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Norte",
+                "hu": "Playa Norte",
+                "ro": "Playa Norte",
+                "en": "Playa Norte"
+              },
+              "tip_5lang": {
+                "de": "Der sandige Wind kann bei Regen unangenehm sein; tragen Sie eine Schutzbrille, um die Sicht beim Fahren frei zu halten.",
+                "hu": "A szeles esőben felverődő homok kellemetlen lehet; viseljen szemüveget, hogy megvédje látását tekerés közben.",
+                "ro": "Nisipul ridicat de vânt și ploaie poate fi deranjant; poartă ochelari pentru a-ți proteja ochii în timp ce pedalezi.",
+                "en": "The wind-blown sand during rain can be unpleasant; wear cycling glasses to keep your vision clear while riding along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "hu": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "ro": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "en": "Gran Acuario de Mazatlán \"Mar de Cortés\""
+              },
+              "tip_5lang": {
+                "de": "Dies ist das ultimative Ziel bei Regen; parken Sie Ihr Rad an einem überdachten Ort und genießen Sie die Unterwasserwelt.",
+                "hu": "Ez a legjobb úticél esőben; parkolja le a kerékpárt fedett helyen, és élvezze a lenyűgöző víz alatti világot órákon át.",
+                "ro": "Aceasta este destinația finală perfectă pe ploaie; parchează bicicleta într-un loc acoperit și bucură-te de lumea subacvatică.",
+                "en": "This is the ultimate rainy-day destination; park your bike in a sheltered spot and enjoy the stunning underwater exhibits for hours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die beste Zeit für Radtouren in Mazatlán. Vormittags weht eine erfrischende Brise an der Playa Olas Altas. Mittags erkunden Sie die Küstenmonumente unter der angenehmen Wintersonne. Nachmittags radeln Sie gemütlich zur Playa Norte. Da es früh dunkel wird, sollten Sie das Aquarium als letzten Stopp einplanen, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "A tél a legjobb időszak a kerékpározáshoz Mazatlánban. Délelőtt frissítő szellő fúj a Playa Olas Altas mentén. Délben a parti emlékműveket fedezzük fel a kellemes téli napsütésben. Délután kényelmesen tekerünk a Playa Norte felé. Mivel korán sötétedik, az Akváriumot érdemes utolsó állomásnak hagyni, ahol nyugodtan zárhatjuk a napot.",
+            "ro": "Iarna este cea mai bună perioadă pentru ciclism în Mazatlán. Dimineața, o briză revigorantă suflă de-a lungul Playa Olas Altas. La prânz explorăm monumentele de pe coastă sub soarele blând de iarnă. După-amiaza pedalăm relaxat spre Playa Norte. Fiindcă se întunecă devreme, lăsați Acvariul ca ultimă oprire.",
+            "en": "Winter is prime time for cycling in Mazatlán. In the morning, enjoy a refreshing breeze along Olas Altas. At noon, explore coastal monuments under the pleasant winter sun. Afternoon is perfect for a leisurely ride to Playa Norte. Since it gets dark early, time your visit to the Aquarium as the final stop to wrap up your day comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Olas Altas",
+                "hu": "Playa Olas Altas",
+                "ro": "Playa Olas Altas",
+                "en": "Playa Olas Altas"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einer leichten Windjacke, da die Meeresbrise am Morgen im Winter recht kühl sein kann.",
+                "hu": "Kezdje a túrát egy könnyű széldzsekiben, mivel a reggeli tengeri szellő télen meglehetősen hűvös lehet a parton.",
+                "ro": "Începe tura cu o jachetă ușoară antivânt, deoarece briza mării de dimineață poate fi destul de răcoroasă iarna.",
+                "en": "Start your ride with a light windbreaker, as the morning sea breeze can be quite chilly during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "La Cueva del Diablo",
+                "hu": "La Cueva del Diablo",
+                "ro": "La Cueva del Diablo",
+                "en": "La Cueva del Diablo"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht sorgt für tolle Kontraste am Höhleneingang; ein perfekter Moment für Fotos ohne die Hitze des Tages.",
+                "hu": "A téli fények nagyszerű kontrasztot adnak a barlang bejáratánál; tökéletes pillanat a fotózáshoz a tikkasztó hőség nélkül.",
+                "ro": "Lumina de iarnă oferă un contrast deosebit la intrarea peșterii; un moment perfect pentru poze fără căldura sufocantă.",
+                "en": "The winter light provides great contrast at the cave entrance; it is a perfect moment for photos without the scorching heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Pinitos",
+                "hu": "Playa Pinitos",
+                "ro": "Playa Pinitos",
+                "en": "Playa Pinitos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den flachen Sonnenstand für stimmungsvolle Bilder der Küste und genießen Sie die angenehme Fahrt auf dem Malecón.",
+                "hu": "Használja ki az alacsony napállást a tengerparti hangulatképekhez, és élvezze a kellemes tekerést a Malecón sima aszfaltján.",
+                "ro": "Profită de poziția joasă a soarelui pentru fotografii de atmosferă și bucură-te de plimbarea plăcută pe asfaltul de pe Malecón.",
+                "en": "Take advantage of the low sun for atmospheric coastal photos and enjoy the pleasant ride on the Malecón's smooth asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Pulmonia",
+                "hu": "Monumento a la Pulmonia",
+                "ro": "Monumento a la Pulmonia",
+                "en": "Monumento a la Pulmonia"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss für jedes Mazatlán-Album; im Winter müssen Sie hier seltener in der prallen Sonne für ein Foto anstehen.",
+                "hu": "Kihagyhatatlan fotópont; télen ritkábban kell a tűző napon sorban állnia egy képért ennél a népszerű szobornál.",
+                "ro": "Un punct foto obligatoriu; iarna va trebui să aștepți mai puțin la rând sub soarele arzător pentru o poză cu acest monument.",
+                "en": "An essential photo spot; in winter, you'll rarely have to wait in the scorching sun for a picture at this popular statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Norte",
+                "hu": "Playa Norte",
+                "ro": "Playa Norte",
+                "en": "Playa Norte"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Pelikane im warmen Nachmittagslicht; die winterliche Luft ist hier besonders klar und erfrischend.",
+                "hu": "Figyelje meg a pelikánokat a délutáni meleg fényekben; a téli levegő itt különösen tiszta és frissítő a kerékpárosoknak.",
+                "ro": "Observă pelicanii în lumina caldă a după-amiezii; aerul de iarnă este aici deosebit de curat și revigorant pentru bicicliști.",
+                "en": "Observe the pelicans in the warm afternoon light; the winter air here is particularly clear and refreshing for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "hu": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "ro": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "en": "Gran Acuario de Mazatlán \"Mar de Cortés\""
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier vor Einbruch der Dunkelheit; die Innenbereiche sind im Winter angenehm temperiert.",
+                "hu": "Zárja itt a túrát sötétedés előtt; a belső terek télen is kellemes hőmérsékletűek a hosszú nézelődéshez.",
+                "ro": "Încheie tura aici înainte de lăsarea întunericului; spațiile interioare au o temperatură plăcută chiar și iarna.",
+                "en": "Finish your tour here before dark; the indoor exhibits maintain a very comfortable temperature for a long visit in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autó lehetővé teszi, hogy egyetlen nap alatt bejárja egész Mazatlánt. A reggel északon, a Playa Sábalo strandon indul, majd a Gran Acuario következik. A dél a festői part menti vezetésé a Pulmonia emlékműnél. A délután a történelmi központba, a Teatro Peraltához és a Pedro Infante múzeumhoz vezet. Az este a nyüzsgő Playa Olas Altas tengerpartján ér véget.",
         "ro": "O mașină vă permite să acoperiți toată lungimea orașului într-o zi. Dimineața începe la Playa Sábalo înainte de a merge la spectaculosul Acvariu. Prânzul implică o plimbare pitorească pe coastă cu o oprire la monumentul Pulmonia. După-amiaza se mută în centrul istoric pentru Teatrul Peralta și muzeul lui Pedro Infante. Seara se încheie vibrant la Playa Olas Altas.",
         "en": "A car allows you to span the entire length of Mazatlán in a single day. Morning starts far north at the quiet Playa Sábalo before heading to the spectacular Gran Acuario. Midday involves a scenic coastal drive with a stop at the Pulmonia monument. Afternoon shifts inland to the historic center for the Teatro Peralta and Pedro Infante's museum. Evening wraps up at the vibrant Playa Olas Altas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Mazatlán bei Regen ganz entspannt. Vormittags fahren Sie zur Playa Sábalo und genießen den Blick auf die Wellen aus dem trockenen Fahrzeug. Mittags ist das Aquarium das perfekte Ziel für Stunden im Trockenen. Nachmittags besuchen Sie das Theater und Pedro Infantes Haus im historischen Zentrum. Den Tag lassen Sie bei einer Panoramafahrt entlang der Olas Altas ausklingen.",
+            "hu": "Autóval az eső ellenére is kényelmesen felfedezhetjük Mazatlánt. Délelőtt a Playa Sábalo felé autózunk, a szélvédő mögül csodálva a viharos tengert. Délben az Akvárium nyújt tökéletes, száraz menedéket. Délután a színházat és Pedro Infante házát látogatjuk meg az óvárosban. A napot egy panorámás autózással zárjuk a hullámverte Olas Altas mentén.",
+            "ro": "Cu mașina explorăm Mazatlán în siguranță pe timp de ploaie. Dimineața mergem spre Playa Sábalo, admirând marea agitată din confortul vehiculului. La prânz, Acvariul este destinația ideală pentru a rămâne la uscat. După-amiaza vizităm teatrul și casa lui Pedro Infante. Încheiem ziua cu o plimbare panoramică de-a lungul coastei la Olas Altas.",
+            "en": "Exploring Mazatlán by car is the most comfortable option on a rainy day. In the morning, drive to Playa Sábalo and enjoy the sea view from your dry vehicle. Spend your midday hours at the Aquarium, the perfect indoor sanctuary. Afternoon features visits to the theater and Pedro Infante's house. End the day with a scenic coastal drive past Olas Altas as waves crash nearby."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Sábalo",
+                "hu": "Playa Sábalo",
+                "ro": "Playa Sábalo",
+                "en": "Playa Sábalo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie das Meer sehen können; bei Starkregen ist dies der sicherste Ort für den Strandblick.",
+                "hu": "Parkoljon úgy, hogy rálásson a tengerre; heves esőben ez a legbiztonságosabb módja a strand élvezetének.",
+                "ro": "Parchează astfel încât să ai vedere spre mare; în caz de ploaie torențială, acesta este cel mai sigur mod de a admira plaja.",
+                "en": "Park your car with a view of the ocean; during heavy rain, this is the safest way to enjoy the beach scenery comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "hu": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "ro": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "en": "Gran Acuario de Mazatlán \"Mar de Cortés\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus, um trocken ins Gebäude zu gelangen; planen Sie bei Regen mit mehr Besuchern als üblich.",
+                "hu": "Használja a parkolót, hogy száraz lábbal jusson be az épületbe; esős időben számítson a szokásosnál több látogatóra.",
+                "ro": "Folosește parcarea pentru a ajunge la uscat în clădire; pe timp de ploaie, așteaptă-te la un număr mai mare de vizitatori.",
+                "en": "Use the parking area to enter the building while staying dry; expect slightly larger crowds than usual during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Pulmonia",
+                "hu": "Monumento a la Pulmonia",
+                "ro": "Monumento a la Pulmonia",
+                "en": "Monumento a la Pulmonia"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz am Straßenrand für ein schnelles Foto aus dem Autofenster, um nicht nass zu werden.",
+                "hu": "Álljon meg rövid időre az út szélén egy gyors fotóra az ablakból, így elkerülheti, hogy bőrig ázzon a kiszálláskor.",
+                "ro": "Oprește scurt pe marginea drumului pentru o poză rapidă pe fereastră, astfel încât să nu te uzi la ieșirea din mașină.",
+                "en": "Stop briefly at the roadside for a quick photo through the car window to avoid getting soaked while stepping outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ángela Peralta",
+                "hu": "Teatro Ángela Peralta",
+                "ro": "Teatro Ángela Peralta",
+                "en": "Teatro Ángela Peralta"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in unmittelbarer Nähe des Eingangs, da die Straßen im historischen Zentrum bei Regen schnell überfluten.",
+                "hu": "Keressen parkolót közvetlenül a bejárat közelében, mivel az óváros utcái heves esőzéskor gyorsan víz alá kerülhetnek.",
+                "ro": "Caută un loc de parcare chiar lângă intrare, deoarece străzile din centrul istoric se pot inunda rapid la ploi torențiale.",
+                "en": "Look for a parking spot very close to the entrance, as the old town streets can flood quickly during heavy tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo El Rincón de Pedro Infante",
+                "hu": "Museo El Rincón de Pedro Infante",
+                "ro": "Museo El Rincón de Pedro Infante",
+                "en": "Museo El Rincón de Pedro Infante"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig in den engen Gassen; der Regen kann die Sicht beim Rangieren erheblich einschränken.",
+                "hu": "Parkoljon óvatosan a szűk utcákban; az eső jelentősen korlátozhatja a látási viszonyokat a manőverezés közben.",
+                "ro": "Parchează cu atenție pe străzile înguste; ploaia poate reduce semnificativ vizibilitatea în timpul manevrelor.",
+                "en": "Park carefully in the narrow side streets; the heavy rain can significantly reduce visibility while you are maneuvering."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Olas Altas",
+                "hu": "Playa Olas Altas",
+                "ro": "Playa Olas Altas",
+                "en": "Playa Olas Altas"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einer langsamen Fahrt entlang der Uferstraße, um die beleuchtete Küste im Regen zu sehen.",
+                "hu": "Zárja a napot egy lassú autózással a parti úton, hogy megcsodálja a kivilágított, eső áztatta tengerparti látképet.",
+                "ro": "Încheie ziua cu o plimbare lentă pe drumul de coastă pentru a admira panorama litoralului luminat sub ploaie.",
+                "en": "End your day with a slow drive along the coastal road to admire the illuminated, rain-swept shoreline from your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Winterklima ist ideal für eine Entdeckungstour mit dem Auto. Vormittags genießen Sie die Sonne an der Playa Sábalo. Mittags besuchen Sie das kühle Aquarium und die Monumente am Malecón. Nachmittags erkunden Sie die Kulturstätten des historischen Zentrums. Planen Sie das Ende gegen 17:00 Uhr an der Playa Olas Altas ein, um den Sonnenuntergang bequem vom Auto aus zu erleben.",
+            "hu": "A téli időjárás ideális egy autós felfedezőúthoz. Délelőtt a Playa Sábalo napsütötte partján kezdünk. Délben az Akvárium hűvösebb tereit és a Malecón emlékműveit látogatjuk meg. Délután az óváros kulturális helyszíneit fedezzük fel. A napot 17:00 körül a Playa Olas Altas-nál zárjuk, ahonnan kényelmesen nézhetjük végig a naplementét.",
+            "ro": "Clima de iarnă este ideală pentru un tur de explorare cu mașina. Dimineața profităm de soare la Playa Sábalo. La prânz vizităm Acvariul și monumentele de pe Malecón. După-amiaza explorăm punctele culturale din centrul istoric. Planificați finalul în jur de ora 17:00 la Playa Olas Altas pentru un apus superb.",
+            "en": "The mild winter weather is perfect for a full day of driving. Enjoy the morning sun at Playa Sábalo before heading to the Aquarium. At noon, tour the famous Malecón monuments. Afternoon is for cultural deep dives in the historic center. Plan to reach Olas Altas by 17:00 to catch the early winter sunset from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa Sábalo",
+                "hu": "Playa Sábalo",
+                "ro": "Playa Sábalo",
+                "en": "Playa Sábalo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Strand bei milden 20 Grad; perfekt für einen kurzen Spaziergang am Wasser, bevor Sie weiterfahren.",
+                "hu": "Élvezze a strandot a kellemes 20 fokos időben; tökéletes egy rövid parti sétához, mielőtt továbbhajtana a város felé.",
+                "ro": "Bucură-te de plajă la temperaturi blânde de 20 de grade; este momentul perfect pentru o scurtă plimbare pe malul mării.",
+                "en": "Enjoy the beach in the pleasant 20-degree weather; it's the perfect time for a short walk by the water before driving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "hu": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "ro": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                "en": "Gran Acuario de Mazatlán \"Mar de Cortés\""
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Außenanlagen des Aquariums besonders angenehm zu besichtigen; nutzen Sie das weiche Licht für Fotos.",
+                "hu": "Télen az Akvárium szabadtéri részei is kellemesen bejárhatóak; használja ki a lágy fényeket a családi fotók elkészítéséhez.",
+                "ro": "Iarna, zonele exterioare ale Acvariului sunt foarte plăcute de vizitat; profită de lumina blândă pentru fotografii reușite.",
+                "en": "In winter, the Aquarium's outdoor areas are very pleasant to tour; take advantage of the soft light for great photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a la Pulmonia",
+                "hu": "Monumento a la Pulmonia",
+                "ro": "Monumento a la Pulmonia",
+                "en": "Monumento a la Pulmonia"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Malecón; die winterliche Luft ist hier besonders klar und bietet eine tolle Sicht auf die Inseln.",
+                "hu": "Gyors megálló a Malecónon; a téli levegő különösen tiszta, így remek kilátás nyílik a szemközti szigetekre a kocsiból is.",
+                "ro": "O oprire rapidă pe Malecón; aerul de iarnă este foarte curat, oferind o vedere clară spre insule chiar și din mașină.",
+                "en": "A quick stop on the Malecón; the winter air is exceptionally clear, offering great views of the islands from your seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro Ángela Peralta",
+                "hu": "Teatro Ángela Peralta",
+                "ro": "Teatro Ángela Peralta",
+                "en": "Teatro Ángela Peralta"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittag für die Innenbesichtigung; die Parkplatzsuche ist im Winter oft etwas entspannter als in der Hochsaison.",
+                "hu": "Használja ki a délutánt a belső terek felfedezésére; télen a parkolóhely-keresés általában könnyebb, mint a főszezonban.",
+                "ro": "Profită de după-amiază pentru vizitarea interiorului; căutarea unui loc de parcare este mai relaxată iarna decât în sezon.",
+                "en": "Use the afternoon for an indoor tour; finding a parking spot is usually much easier in winter than during the peak season."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo El Rincón de Pedro Infante",
+                "hu": "Museo El Rincón de Pedro Infante",
+                "ro": "Museo El Rincón de Pedro Infante",
+                "en": "Museo El Rincón de Pedro Infante"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum rechtzeitig, um vor dem frühen Sonnenuntergang wieder an der Küste zu sein.",
+                "hu": "Látogassa meg időben a múzeumot, hogy a korai naplemente előtt visszaérjen az autóval a látványos tengerparti útra.",
+                "ro": "Vizitează muzeul din timp pentru a te întoarce pe drumul de coastă spectaculos înainte de apusul timpuriu de iarnă.",
+                "en": "Visit the museum early enough to ensure you're back on the scenic coastal road before the early winter sunset begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Olas Altas",
+                "hu": "Playa Olas Altas",
+                "ro": "Playa Olas Altas",
+                "en": "Playa Olas Altas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie entlang der Promenade für den perfekten Blick auf den Sonnenuntergang; bringen Sie einen Pullover für den Abend mit.",
+                "hu": "Parkoljon le a sétány mentén a tökéletes naplemente-nézéshez; vigyen magával egy pulóvert a hűvös esti szellőhöz.",
+                "ro": "Parchează de-a lungul promenadei pentru vederea perfectă la apus; ia un pulover pentru briza răcoroasă de seară.",
+                "en": "Park along the promenade for the perfect sunset view; bring a sweater as the evening breeze can get quite cool in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt az impozáns mayenne-i vár és környékének felfedezésével, elmerülve a középkori történelemben. Délben látogasson el az ünnepélyes emlékműhöz és a bájos Providence-kápolnához. Délután fedezze fel a Saint-Martin templom építészeti részleteit. Zárja a napot a Vármúzeum lebilincselő kiállításainak megtekintésével.",
         "ro": "Începeți dimineața explorând impunătorul Castel Mayenne, cufundându-vă în istoria medievală. La prânz, vizitați Memorialul solemn și fermecătoarea Capelă a Providenței. După-amiaza, descoperiți detaliile arhitecturale ale Bisericii Saint-Martin. Încheiați ziua parcurgând expozițiile captivante ale Muzeului Castelului.",
         "en": "Start your morning exploring the imposing Mayenne Castle and its surroundings, soaking in the medieval history. Midday brings a visit to the solemn Memorial and the charming Chapelle de la Providence. In the afternoon, discover the architectural details of Saint-Martin Church. Conclude your day walking through the engaging exhibits of the Castle Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang am Schloss, wo dicke Mauern etwas Schutz bieten. Mittags bieten die Basilika und das Denkmal trockene, faszinierende Innenräume. Nachmittags sind die Kapelle und die Saint-Martin-Kirche ideal, um Pfützen auszuweichen. Beenden Sie den nassen Tag im überdachten Schlossmuseum. Tragen Sie wasserfeste Schuhe für die nassen Pflastersteine!",
+            "hu": "Kezdje az esős sétát a várnál, ahol a vastag falak némi menedéket nyújtanak. Délben a bazilika és az emlékmű száraz, beltéri élményt kínál. Délután a kápolna és a Saint-Martin templom ideális a pocsolyák elkerülésére. Az estét a vármúzeum teljesen fedett kiállításain zárhatja. Mindenképpen vízálló cipőben induljon útnak a csúszós kövek miatt!",
+            "ro": "Începeți plimbarea ploioasă la castel, unde zidurile groase oferă adăpost. La prânz, bazilica și memorialul oferă refugii interioare uscate. După-amiaza continuă cu capela și biserica Saint-Martin, perfecte pentru a evita bălțile. Încheiați ziua umedă explorând muzeul acoperit al castelului. Purtați încălțăminte impermeabilă pentru pietrele alunecoase!",
+            "en": "Start your rainy walk at the castle, where thick walls offer partial shelter. Midday brings dry, indoor visits to the beautiful basilica and the poignant memorial. The afternoon continues with the chapel and Saint-Martin church, perfect for avoiding puddles. Conclude your wet day exploring the fully indoor Castle Museum. Wear waterproof shoes for the slippery cobblestones!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Mayenne",
+                "hu": "Mayenne Vára",
+                "ro": "Castelul Mayenne",
+                "en": "Mayenne Castle"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die imposanten Festungsmauern, die etwas Schutz bieten, aber tragen Sie wasserfeste Schuhe für den nassen Innenhof.",
+                "hu": "Fedezze fel az impozáns várfalakat, amelyek adnak némi menedéket, de viseljen vízálló cipőt a nedves udvar miatt.",
+                "ro": "Explorați zidurile impunătoare ale fortăreței care oferă un oarecare adăpost, dar purtați pantofi impermeabili pentru curtea umedă.",
+                "en": "Explore the imposing fortress walls which offer some shelter, but wear sturdy, waterproof shoes for the wet and slippery courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilique Notre-Dame-des-Miracles",
+                "hu": "Notre-Dame-des-Miracles Bazilika",
+                "ro": "Basilica Notre-Dame-des-Miracles",
+                "en": "Basilique Notre-Dame-des-Miracles"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die wunderschönen Buntglasfenster zu bewundern, die einen perfekten, trockenen Zufluchtsort vor dem Regen bieten.",
+                "hu": "Lépjen be, és csodálja meg a gyönyörű ólomüveg ablakokat, tökéletes és száraz menedéket találva a heves eső elől.",
+                "ro": "Intrați pentru a admira vitraliile frumoase, un refugiu uscat și liniștit perfect împotriva ploii de la amiază.",
+                "en": "Step inside to admire the beautiful stained glass, providing a perfect and peaceful dry haven from the heavy midday rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial Des Déportés",
+                "hu": "Deportáltak Emlékműve",
+                "ro": "Memorialul Deportaților",
+                "en": "Mémorial Des Déportés"
+              },
+              "tip_5lang": {
+                "de": "Dieses tief bewegende Museum bietet einen lehrreichen, trockenen Rückzugsort, um den heftigsten Schauern zu entgehen.",
+                "hu": "Ez a mélyen megérintő múzeum tanulságos, teljesen fedett menedéket nyújt a legrosszabb záporok idején is.",
+                "ro": "Acest muzeu emoționant oferă un refugiu educațional complet acoperit pentru a scăpa de cele mai puternice averse.",
+                "en": "This deeply moving indoor museum provides an educational and completely dry retreat from the heaviest rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Providence",
+                "hu": "Gondviselés Kápolnája",
+                "ro": "Capela Providenței",
+                "en": "Chapelle de la Providence"
+              },
+              "tip_5lang": {
+                "de": "Ein kleines, aber wunderschönes Heiligtum, in dem Sie Schutz suchen und Ihren Regenmantel trocknen können.",
+                "hu": "Egy apró, de gyönyörű szentély, ahol meghúzhatja magát az eső elől, és megszáradhat egy kicsit az esőkabátja.",
+                "ro": "Un sanctuar mic, dar frumos, unde vă puteți adăposti și usca haina de ploaie în timp ce admirați altarul.",
+                "en": "A small but beautiful sanctuary to take cover and dry your rain coat while admiring the peaceful altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die architektonischen Details in der trockenen Behaglichkeit des Kirchenschiffs, während Sie den Regen abwarten.",
+                "hu": "Figyelje meg az építészeti részleteket a hajó száraz kényelméből, amíg odakint alábbhagy az esőzés.",
+                "ro": "Observați detaliile arhitecturale în confortul uscat al naosului în timp ce așteptați să treacă ploaia.",
+                "en": "Observe the architectural details in the dry comfort of the nave while waiting out the afternoon rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgmuseum",
+                "hu": "Vármúzeum",
+                "ro": "Muzeul Castelului",
+                "en": "Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesem vollständig überdachten Museum in die lokale Geschichte ein – der ideale Abschluss eines Regentages.",
+                "hu": "Merüljön el a helyi történelemben ebben a teljesen zárt múzeumban, amely ideális befejezése egy esős napnak.",
+                "ro": "Aprofundați istoria locală în acest muzeu complet acoperit, o concluzie ideală pentru o după-amiază ploioasă.",
+                "en": "Delve into local history in this fully indoor museum, an ideal and warm conclusion to a wet walking day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren klaren Wintermorgen mit der Erkundung des Schlosses, bevor der Frost schmilzt. Wärmen Sie sich mittags in der prächtigen Basilika und dem Denkmal auf. Der Nachmittagsspaziergang zur Kapelle und zur Kirche erfordert dicke, warme Schichten. Beenden Sie Ihren Tag im Schlossmuseum, genau dann, wenn der frühe Sonnenuntergang gegen 17:00 Uhr den Himmel färbt.",
+            "hu": "Kezdje a fagyos téli reggelt a vár felfedezésével, mielőtt a dér elolvadna. Délben melegedjen fel a lenyűgöző bazilikában és az emlékműben. A délutáni séta a kápolnához és a templomhoz vastag, meleg rétegeket igényel. Zárja a napot a Vármúzeumban, pont mielőtt a korai sötétedés 17:00 körül beállna, és a hőmérséklet lecsökkenne.",
+            "ro": "Începeți dimineața de iarnă explorând castelul înainte să se topească bruma. Încălziți-vă la prânz în superba bazilică și la memorial. Plimbarea de după-amiază spre capelă și biserică necesită straturi groase. Încheiați ziua la Muzeul Castelului, chiar când apusul devreme din jurul orei 17:00 colorează cerul rece.",
+            "en": "Begin a crisp winter morning exploring the historic castle grounds before the frost melts. Warm up inside the beautiful basilica and the poignant memorial at midday. The afternoon walk to the chapel and church requires thick, warm layers. Finish your day at the Castle Museum just as the early sunset around 17:00 drops the temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Mayenne",
+                "hu": "Mayenne Vára",
+                "ro": "Castelul Mayenne",
+                "en": "Mayenne Castle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die frostbedeckten alten Steine des Schlosses, aber packen Sie sich gegen den beißenden Morgenwind gut ein.",
+                "hu": "Csodálja meg a vár dérrel borított ősi köveit, de öltözzön be alaposan a csípős reggeli szél ellen.",
+                "ro": "Admirați pietrele antice acoperite de gheață ale castelului, dar îmbrăcați-vă bine împotriva vântului tăios de dimineață.",
+                "en": "Admire the frost-covered ancient stones of the castle, but bundle up tightly against the biting morning winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilique Notre-Dame-des-Miracles",
+                "hu": "Notre-Dame-des-Miracles Bazilika",
+                "ro": "Basilica Notre-Dame-des-Miracles",
+                "en": "Basilique Notre-Dame-des-Miracles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige, wärmende Atmosphäre im Inneren der Basilika nach einem kühlen Spaziergang am Morgen.",
+                "hu": "Élvezze a bazilika csendes, melegítő atmoszféráját egy fagyos reggeli séta után, hogy felengedjenek a végtagjai.",
+                "ro": "Bucurați-vă de atmosfera liniștită și caldă din interiorul bazilicii după o scurtă plimbare răcoroasă.",
+                "en": "Enjoy the quiet, warming atmosphere inside the grand basilica after a chilly walk in the morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial Des Déportés",
+                "hu": "Deportáltak Emlékműve",
+                "ro": "Memorialul Deportaților",
+                "en": "Mémorial Des Déportés"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie Zeit zur Besinnung in diesem beheizten Denkmal, um den eisigen Wintertemperaturen zu entfliehen.",
+                "hu": "Töltsön időt az elmélkedéssel ebben a fűtött, beltéri emlékműben, hogy elmeneküljön a fagyos téli hőmérséklet elől.",
+                "ro": "Petreceți timp reflectând în acest memorial încălzit pentru a scăpa de temperaturile înghețate de iarnă.",
+                "en": "Spend time reflecting in this heated, indoor memorial to comfortably escape the freezing winter temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Providence",
+                "hu": "Gondviselés Kápolnája",
+                "ro": "Capela Providenței",
+                "en": "Chapelle de la Providence"
+              },
+              "tip_5lang": {
+                "de": "Das kompakte Innere dieser charmanten Kapelle bietet eine schnelle, gemütliche Atempause vom kalten Wetter.",
+                "hu": "Ennek a bájos kápolnának a kompakt belső tere gyors, barátságos menedéket nyújt a hideg időjárás elől.",
+                "ro": "Interiorul compact al acestei capele fermecătoare oferă un răgaz rapid și confortabil de la vremea rece.",
+                "en": "The compact interior of this charming chapel offers a quick, cozy respite from the cold winter weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Kirche",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in das historische Kirchenschiff ein, um sich die Hände aufzuwärmen, bevor die Sonne am Nachmittag tief steht.",
+                "hu": "Lépjen be a történelmi hajóba, hogy felmelegítse a kezét, mielőtt nekivágna a téli séta utolsó szakaszának.",
+                "ro": "Intrați în naosul istoric pentru a vă încălzi mâinile înainte de ultima etapă a plimbării de iarnă.",
+                "en": "Step into the historic nave to warm your hands before embarking on the final leg of your winter walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgmuseum",
+                "hu": "Vármúzeum",
+                "ro": "Muzeul Castelului",
+                "en": "Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag mit Ausstellungen im Innenbereich, zeitlich perfekt abgestimmt, um der frühen Dunkelheit zu entgehen.",
+                "hu": "Zárja a napot a beltéri kiállítások felfedezésével, pont időben, hogy elkerülje a korai sötétedést és fagyot.",
+                "ro": "Încheiați-vă ziua explorând exponatele interioare, perfect sincronizat pentru a evita întunericul și frigul devreme.",
+                "en": "End your day exploring indoor exhibits, perfectly timed to avoid the early darkness and rapidly dropping temperatures."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpártúráját a történelmi mayenne-i várnál, mielőtt a gyönyörű bazilikához tekerne. A delet az emlékműnél és a békés kápolnánál tölti. Délután kerekezzen át a Vármúzeumhoz, hogy elmerüljön a helyi örökségben. Végül élvezze a szellős esti utat a békés Plan d'eau communale tóhoz.",
         "ro": "Începeți turul cu bicicleta la Castelul istoric Mayenne înainte de a merge la frumoasa Bazilică. Prânzul este petrecut la Memorial și bucurându-vă de Capela senină. După-amiaza, pedalați spre Muzeul Castelului pentru a descoperi moștenirea locală. În cele din urmă, bucurați-vă de o plimbare de seară către pașnicul lac comunal.",
         "en": "Kick off your cycling tour at the historic Mayenne Castle before riding to the beautiful Basilique. Your midday is spent reflecting at the Memorial and enjoying the serene Chapelle. In the afternoon, pedal over to the Castle Museum for a deep dive into local heritage. Finally, enjoy a breezy evening ride to the peaceful Plan d'eau communale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre nasse Radtour am Schloss und achten Sie auf das rutschige Kopfsteinpflaster. Fahren Sie vorsichtig zur Basilika und zum Denkmal für trockene Pausen. Die Nachmittagsfahrt zur Kapelle und zum Museum erfordert gute Regenkleidung. Schließen Sie am Gemeindesee ab, wo der Regen eine dramatische Atmosphäre über dem Wasser schafft. Bremsen Sie frühzeitig auf nassen Wegen!",
+            "hu": "Kezdje a nedves kerékpártúrát a várnál, vigyázva a csúszós macskakövekre. Óvatosan tekerjen a bazilikához és az emlékműhöz a fedett pihenőkért. A délutáni út a kápolnához és a múzeumhoz komoly esőruhát igényel. Zárja a napot a tónál, ahol az eső drámai hangulatot teremt. A vizes utakon mindig fékezzen időben!",
+            "ro": "Începeți turul umed pe bicicletă la castel, având grijă la piatra cubică alunecoasă. Mergeți prudent la bazilică și memorial pentru pauze uscate. Cursa de după-amiază necesită haine bune de ploaie. Încheiați la lacul comunal, unde ploaia creează o atmosferă dramatică pe apă. Frânați din timp pe drumurile ude!",
+            "en": "Start your wet cycling tour at the castle, taking care on the slippery cobblestones. Ride cautiously to the basilica and memorial for indoor breaks. The afternoon ride to the chapel and museum requires excellent rain gear. Conclude at the communal lake, where the rain creates a dramatic mood over the water. Always brake early on slick paths!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Mayenne",
+                "hu": "Mayenne Vára",
+                "ro": "Castelul Mayenne",
+                "en": "Mayenne Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Festung ist im Regen großartig, aber bremsen Sie sanft, da die umliegenden Wege mit dem Fahrrad sehr rutschig werden.",
+                "hu": "Az erőd lenyűgöző az esőben, de fékezzen nagyon óvatosan, mert a környező utak kerékpárral rendkívül csúszósak.",
+                "ro": "Fortăreața este magnifică în ploaie, dar frânați ușor, deoarece potecile din jur devin foarte alunecoase.",
+                "en": "The fortress is magnificent in the rain, but brake gently as the surrounding cobblestone paths get very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilique Notre-Dame-des-Miracles",
+                "hu": "Notre-Dame-des-Miracles Bazilika",
+                "ro": "Basilica Notre-Dame-des-Miracles",
+                "en": "Basilique Notre-Dame-des-Miracles"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad in der Nähe und genießen Sie das trockene, friedliche Innere fernab vom Platzregen.",
+                "hu": "Parkolja le a kerékpárt a bejárat közelében, és élvezze a száraz, békés belső teret, távol a felhőszakadástól.",
+                "ro": "Parcați bicicleta aproape de intrare și bucurați-vă de interiorul uscat și pașnic, departe de ploaia torențială.",
+                "en": "Park your bike near the entrance and enjoy the completely dry, peaceful interior away from the midday downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial Des Déportés",
+                "hu": "Deportáltak Emlékműve",
+                "ro": "Memorialul Deportaților",
+                "en": "Mémorial Des Déportés"
+              },
+              "tip_5lang": {
+                "de": "Ein tiefgründiges historisches Museum, das Sie bequem über eine Stunde lang vor dem Regen schützt.",
+                "hu": "Egy mélyreható történelmi múzeum, amely kényelmesen, több mint egy órán át távol tartja az esőtől.",
+                "ro": "Un muzeu istoric profund care vă ține convenabil ferit de ploaie pentru mai bine de o oră.",
+                "en": "A profound historical museum that conveniently keeps you out of the rain and dry for well over an hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Providence",
+                "hu": "Gondviselés Kápolnája",
+                "ro": "Capela Providenței",
+                "en": "Chapelle de la Providence"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp drinnen, um das Dekor zu schätzen und Ihre nasse Fahrradbrille abzuwischen.",
+                "hu": "Egy gyors beltéri megálló, hogy értékelje a dekorációt és letörölje a nedves kerékpáros szemüvegét.",
+                "ro": "O oprire scurtă în interior pentru a aprecia decorul și a vă șterge ochelarii de ciclism de ploaie.",
+                "en": "A quick indoor stop to appreciate the serene decor and safely wipe down your wet cycling glasses."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgmuseum",
+                "hu": "Vármúzeum",
+                "ro": "Muzeul Castelului",
+                "en": "Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die Ausstellungen, während Ihre Fahrradkleidung drinnen etwas abtrocknen kann.",
+                "hu": "Töltsön sok időt a kiállítások felfedezésével, miközben a kerékpáros felszerelése megszárad egy kicsit.",
+                "ro": "Petreceți mult timp explorând exponatele în timp ce echipamentul de ciclism se usucă în interior.",
+                "en": "Spend a long time exploring the historical exhibits while your cycling rain gear dries off indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau communale",
+                "hu": "Községi Tó",
+                "ro": "Lacul Comunal",
+                "en": "Plan d'eau communale"
+              },
+              "tip_5lang": {
+                "de": "Der See sieht im Regen mystisch aus, aber tragen Sie komplett wasserfeste Kleidung, da es keinen Unterstand gibt.",
+                "hu": "A tó misztikusan fest az esőben, de viseljen teljesen vízálló ruházatot, mivel itt nincs fedett menedék.",
+                "ro": "Lacul arată mistic în ploaie, dar purtați haine complet impermeabile, deoarece nu există adăpost.",
+                "en": "The lake looks mystical in the rain, but wear full waterproofs on your bike as there is minimal shelter here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radeln Sie durch die frische Morgenluft zum Schloss und tragen Sie Thermokleidung. Wärmen Sie Ihre Hände mittags an der Basilika und dem Denkmal. Die Nachmittagsfahrt zur Kapelle und zum Museum hält Ihren Kreislauf in Schwung. Kommen Sie vor dem frühen Sonnenuntergang um 17:00 Uhr am frostigen See an, um die stille Winterlandschaft zu genießen. Nehmen Sie gute Fahrradlichter mit!",
+            "hu": "Tekerjen a friss reggeli levegőn a várhoz, feltétlenül termo öltözetben. Melegítse fel a kezét a bazilikánál és az emlékműnél. A délutáni út a kápolnához és a múzeumhoz mozgásban tartja a vérkeringést. Érjen a fagyos tóhoz a korai, 17:00 órás naplemente előtt, hogy élvezze a téli tájat. A sötétedés miatt erős kerékpárlámpa kötelező!",
+            "ro": "Ciclism prin aerul proaspăt al dimineții spre castel purtând haine termice. Încălziți-vă mâinile la bazilică și memorial. Pedalarea de după-amiază vă menține sângele în mișcare. Ajungeți la lacul înghețat înainte de apusul devreme de la 17:00 pentru a vă bucura de peisajul de iarnă. Luați lumini bune pentru bicicletă!",
+            "en": "Cycle through the crisp morning air to the castle, wearing thermal layers. Warm your freezing hands at the basilica and the memorial at noon. The afternoon pedal to the chapel and museum keeps your blood pumping. Arrive at the frosty communal lake before the early 17:00 sunset to enjoy the winter landscape. Pack strong bike lights!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Mayenne",
+                "hu": "Mayenne Vára",
+                "ro": "Castelul Mayenne",
+                "en": "Mayenne Castle"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad schnell ab, um Ihre Hände warm zu halten, und erkunden Sie dann die frostige Festung.",
+                "hu": "Zárja le gyorsan a kerékpárt, hogy melegen tartsa a kezét, majd fedezze fel a dérrel borított fenséges erődöt.",
+                "ro": "Legați bicicleta rapid pentru a vă menține mâinile calde, apoi explorați fortăreața acoperită de gheață.",
+                "en": "Lock your bike quickly to keep your hands warm in your gloves, then explore the majestic frost-covered fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Basilique Notre-Dame-des-Miracles",
+                "hu": "Notre-Dame-des-Miracles Bazilika",
+                "ro": "Basilica Notre-Dame-des-Miracles",
+                "en": "Basilique Notre-Dame-des-Miracles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp, um im großen Kirchenschiff aufzutauen, bevor Sie Ihre kühle Fahrt fortsetzen.",
+                "hu": "Használja ki ezt a megállót arra, hogy felengedjen a hatalmas hajóban, mielőtt folytatná a fagyos tekerést.",
+                "ro": "Folosiți această oprire pentru a vă dezgheța în interiorul naosului înainte de a continua cursa răcoroasă.",
+                "en": "Use this convenient stop to thaw out inside the grand nave before continuing your chilly winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial Des Déportés",
+                "hu": "Deportáltak Emlékműve",
+                "ro": "Memorialul Deportaților",
+                "en": "Mémorial Des Déportés"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit in diesem beheizten Museum, um sich vollständig von dem eiskalten Gegenwind zu erholen.",
+                "hu": "Szánjon időt erre a fűtött múzeumra, hogy teljesen kipihenje és felmelegítse magát a fagyos ellenszél után.",
+                "ro": "Luați-vă timp în acest muzeu încălzit pentru a vă recupera complet de la vântul înghețat din față.",
+                "en": "Take your time in this well-heated museum to fully recover from the freezing winter headwinds on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Providence",
+                "hu": "Gondviselés Kápolnája",
+                "ro": "Capela Providenței",
+                "en": "Chapelle de la Providence"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihre Radtour kurz und wärmen Sie sich in dieser kleinen, wunderschön erhaltenen Kapelle auf.",
+                "hu": "Tartsa rövidre a kerékpározást ezen a szakaszon, és melegedjen fel ebben a kis, szépen megőrzött kápolnában.",
+                "ro": "Păstrați cursa scurtă și încălziți-vă în această capelă mică și frumos conservată.",
+                "en": "Keep your bike ride short between stops and warm up quickly in this small, beautifully preserved chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgmuseum",
+                "hu": "Vármúzeum",
+                "ro": "Muzeul Castelului",
+                "en": "Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte, warme Indoor-Aktivität, da der Winternachmittag auf dem Fahrrad spürbar kühler wird.",
+                "hu": "Tökéletes, meleg beltéri program, mivel a téli délután a kerékpáron már jelentősen hűlni kezd.",
+                "ro": "O activitate interioară perfectă și caldă, pe măsură ce după-amiaza de iarnă începe să se răcească semnificativ pe bicicletă.",
+                "en": "A perfect, warm indoor activity as the winter afternoon starts to cool down significantly during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau communale",
+                "hu": "Községi Tó",
+                "ro": "Lacul Comunal",
+                "en": "Plan d'eau communale"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Wintersonnenuntergang über dem eisigen See, aber schalten Sie für die dunkle Rückfahrt Ihre Lichter ein.",
+                "hu": "Nézze meg a téli naplementét a jeges tó felett, de a sötét visszaútra feltétlenül kapcsolja be a kerékpárlámpát.",
+                "ro": "Priviți apusul de iarnă peste lacul înghețat, dar asigurați-vă că aprindeți luminile pentru drumul întunecat de întoarcere.",
+                "en": "Watch the beautiful winter sunset over the icy lake, but turn on your strong lights for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Vezessen a mayenne-i várhoz egy ősi történelemmel és védelmi építészettel teli délelőttért. Délben könnyedén eléri az emlékművet, majd a Vármúzeumot. Délután tegyen egy rövid autózást a festői Église Saint-Baudelle templomhoz. Zárja a napot a Plan d'eau communale festői vizeinél pihenve.",
         "ro": "Conduceți la Castelul Mayenne pentru o dimineață plină de istorie antică. La prânz, ajungeți cu ușurință la Memorial și apoi mergeți la Muzeul Castelului pentru a explora artefactele istorice. După-amiaza, faceți o scurtă plimbare spre pitoreasca Biserică Saint-Baudelle. Încheiați-vă ziua relaxându-vă lângă apele pitorești ale lacului comunal.",
         "en": "Drive to Mayenne Castle for a morning steeped in ancient history and grand defensive architecture. Midday, easily reach the Memorial and then head to the Castle Museum to explore its fascinating historical artifacts. In the afternoon, take a short drive to the quaint Église Saint-Baudelle. End your day relaxing by the picturesque waters of Plan d'eau communale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zuerst zum Schloss und nutzen Sie einen Regenschirm für den kurzen Weg vom Parkplatz. Das Denkmal und das Schlossmuseum bieten ausgedehnte Stunden drinnen, fernab vom Platzregen. Nachmittags besuchen Sie die Saint-Baudelle-Kirche für ein trockenes Heiligtum. Beenden Sie den Tag, indem Sie um den See fahren und die regnerische Aussicht bequem aus Ihrem trockenen Auto genießen.",
+            "hu": "Vezessen a várhoz, használjon esernyőt a parkolótól a bejáratig tartó rövid úton. Az emlékmű és a Vármúzeum kiváló beltéri programot nyújt a felhőszakadás idejére. Délután látogasson el a Saint-Baudelle templom száraz szentélyébe. Zárásként autózzon egyet a községi tó körül, élvezve a borús, esős látványt a meleg, száraz kocsiból.",
+            "ro": "Conduceți mai întâi la castel, folosind o umbrelă pentru scurta plimbare de la parcare. Memorialul și Muzeul Castelului oferă ore întregi în interior, departe de ploaie. După-amiaza, vizitați biserica Saint-Baudelle pentru un sanctuar uscat. Terminați conducând în jurul lacului, bucurându-vă de priveliștile ploioase din confortul mașinii.",
+            "en": "Drive to the castle first, using an umbrella for the short walk from the parking lot. The memorial and Castle Museum offer substantial indoor hours away from the heavy downpour. In the afternoon, visit Saint-Baudelle church for a dry sanctuary. End by driving around the communal lake, enjoying the moody, rain-swept views from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Mayenne",
+                "hu": "Mayenne Vára",
+                "ro": "Castelul Mayenne",
+                "en": "Mayenne Castle"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Regenschirm für den Weg vom Parkplatz zu den imposanten, nassen Festungsmauern mit.",
+                "hu": "Vigyen magával esernyőt a parkolóból az impozáns, nedves várfalakig tartó rövid sétához.",
+                "ro": "Aduceți o umbrelă pentru plimbarea din parcare până la zidurile impunătoare și ude ale fortăreței.",
+                "en": "Bring an umbrella for the short walk from the car park to the imposing, wet fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial Des Déportés",
+                "hu": "Deportáltak Emlékműve",
+                "ro": "Memorialul Deportaților",
+                "en": "Mémorial Des Déportés"
+              },
+              "tip_5lang": {
+                "de": "Dieses umfassende Innenmuseum eignet sich hervorragend, um die schwersten Regenstürme trocken abzuwarten.",
+                "hu": "Ez az átfogó beltéri múzeum kiválóan alkalmas arra, hogy szárazon kivárja a legnehezebb esőzések végét.",
+                "ro": "Acest muzeu interior cuprinzător este excelent pentru a aștepta trecerea celor mai puternice furtuni.",
+                "en": "This comprehensive indoor museum is perfectly suited for waiting out the heaviest midday rainstorms."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgmuseum",
+                "hu": "Vármúzeum",
+                "ro": "Muzeul Castelului",
+                "en": "Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Geschichte der Region ein und genießen Sie dabei vollständigen Schutz vor dem nassen Wetter draußen.",
+                "hu": "Merüljenek el a régió történelmében, miközben teljes védelmet élveznek a kinti nedves, esős időjárás elől.",
+                "ro": "Scufundați-vă în istoria regiunii bucurându-vă de protecție completă împotriva vremii umede de afară.",
+                "en": "Dive into the region's history while enjoying complete protection from the wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Baudelle",
+                "hu": "Saint-Baudelle Templom",
+                "ro": "Biserica Saint-Baudelle",
+                "en": "Église Saint-Baudelle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor der Tür und treten Sie unmittelbar in dieses wunderschöne, trockene Heiligtum ein.",
+                "hu": "Parkoljon le közvetlenül az épület előtt, és lépjen be azonnal ebbe a gyönyörű, száraz szentélybe.",
+                "ro": "Parcați chiar afară și pășiți direct în acest sanctuar religios frumos și uscat.",
+                "en": "Park your car right outside and step directly into this beautiful, dry religious sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau communale",
+                "hu": "Községi Tó",
+                "ro": "Lacul Comunal",
+                "en": "Plan d'eau communale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die malerische, verregnete Aussicht auf den See hauptsächlich aus dem Auto und steigen Sie nur kurz aus.",
+                "hu": "Élvezze a festői, eső áztatta tó látványát nagyrészt az autóból, és csak rövid időre szálljon ki.",
+                "ro": "Bucurați-vă de priveliștile pitorești și ploioase ale lacului mai ales din mașină, ieșind doar scurt.",
+                "en": "Enjoy the scenic, rain-pattered lake views mostly from the dry comfort of your car, stepping out only briefly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine beheizte Fahrt zum historischen Schloss an einem kühlen Wintermorgen. Das Museum und das Denkmal sind perfekt, um während der kältesten Stunden des Tages gemütlich drinnen zu bleiben. Nachmittagssonne erhellt die Saint-Baudelle-Kirche. Beenden Sie die Tour am See, um den frühen Wintersonnenuntergang gegen 17:00 Uhr sicher aus Ihrem warmen Fahrzeug zu beobachten.",
+            "hu": "Élvezze a fűtött utazást a történelmi várhoz egy csípős téli reggelen. A beltéri emlékmű és a Vármúzeum tökéletes arra, hogy melegben maradjon a nap leghidegebb óráiban. A délutáni fények megvilágítják a Saint-Baudelle templomot. Zárásként figyelje meg a korai, 17:00 körüli téli naplementét a tónál, kényelmesen a meleg autójából.",
+            "ro": "Bucurați-vă de o plimbare încălzită spre castelul istoric într-o dimineață rece. Memorialul și Muzeul Castelului sunt perfecte pentru a sta confortabil în timpul celei mai reci părți a zilei. Lumina după-amiezii decorează biserica Saint-Baudelle. Terminați la lac pentru a prinde apusul devreme la 17:00 din vehiculul cald.",
+            "en": "Enjoy a heated drive to the historic castle on a chilly winter morning. The indoor memorial and Castle Museum are perfect for staying cozy during the coldest part of the day. Afternoon sunlight graces the Saint-Baudelle church. Finish at the communal lake to catch the early winter sunset around 17:00 from your warm vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schloss Mayenne",
+                "hu": "Mayenne Vára",
+                "ro": "Castelul Mayenne",
+                "en": "Mayenne Castle"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um die Zeit im eisigen Wind zu minimieren, bevor Sie das Schloss erkunden.",
+                "hu": "Parkoljon közel a bejárathoz, hogy a lehető legkevesebb időt töltse a fagyos szélben a vár felfedezése előtt.",
+                "ro": "Parcați aproape de intrare pentru a minimiza timpul petrecut în vântul înghețat înainte de a explora castelul.",
+                "en": "Park close to the entrance to minimize your time in the freezing wind before exploring the castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Mémorial Des Déportés",
+                "hu": "Deportáltak Emlékműve",
+                "ro": "Memorialul Deportaților",
+                "en": "Mémorial Des Déportés"
+              },
+              "tip_5lang": {
+                "de": "Ein tief bewegender und durchgehend beheizter Stopp im Innenbereich, ideal für einen langen, kalten Mittagsbesuch.",
+                "hu": "Egy mélyen megható és alaposan fűtött beltéri megálló, amely ideális a hosszú, hideg déli látogatáshoz.",
+                "ro": "O oprire interioară profund emoționantă și bine încălzită, ideală pentru o vizită lungă de prânz.",
+                "en": "A deeply moving and thoroughly heated indoor stop, ideal for a long midday visit to escape the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgmuseum",
+                "hu": "Vármúzeum",
+                "ro": "Muzeul Castelului",
+                "en": "Castle Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reichen Ausstellungen bequem und halten Sie sich warm, während die Außentemperaturen sinken.",
+                "hu": "Fedezze fel a gazdag kiállításokat kényelemben, és maradjon melegben, miközben a kinti hőmérséklet tovább esik.",
+                "ro": "Explorați exponatele bogate în confort, păstrându-vă cald pe măsură ce temperatura exterioară scade.",
+                "en": "Explore the rich exhibits in heated comfort, keeping warm as the outdoor temperature drops significantly."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Baudelle",
+                "hu": "Saint-Baudelle Templom",
+                "ro": "Biserica Saint-Baudelle",
+                "en": "Église Saint-Baudelle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Winteratmosphäre im Inneren der Kirche, geschützt vor dem strengen Nachmittagsfrost.",
+                "hu": "Élvezze a csendes téli atmoszférát a templom belsejében, védve a csípős délutáni fagytól.",
+                "ro": "Bucurați-vă de atmosfera senină de iarnă din interiorul bisericii, protejați de gerul tăios al după-amiezii.",
+                "en": "Enjoy the serene winter atmosphere inside the church, perfectly shielded from the biting afternoon frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Plan d'eau communale",
+                "hu": "Községi Tó",
+                "ro": "Lacul Comunal",
+                "en": "Plan d'eau communale"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie um den stillen, frostigen See und beobachten Sie den frühen Sonnenuntergang, ohne im Freien zu frieren.",
+                "hu": "Kocsikázzon körbe a békés, fagyos tó körül, és nézze meg a korai naplementét anélkül, hogy megfagyna odakint.",
+                "ro": "Conduceți în jurul lacului senin și înghețat și urmăriți apusul devreme fără să înghețați afară.",
+                "en": "Drive around the serene, frosty lake and securely watch the early sunset without freezing outdoors."
+              }
+            }
+          ]
+        }
       }
     }
   }

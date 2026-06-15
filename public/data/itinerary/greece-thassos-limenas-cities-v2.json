@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot Limenas ókori szívében, a római Odeon és a korakeresztény bazilika alapjainak felfedezésével. A lenyűgöző régészeti múzeum kincsei után délben a Kalogeriko hagyományos épülete felé vesszük az irányt. A délutánt az ókori színház lenyűgöző romjainak szenteljük, ahonnan fentről csodálhatjuk meg a tengert. Zárásként másszon fel az Akropoliszhoz egy igazán varázslatos és felejthetetlen naplementés panorámáért.",
         "ro": "Începeți ziua explorând inima antică a orașului Limenas, unde Odeonul roman și basilica paleocreștină oferă o primă impresie istorică. După comorile Muzeului Arheologic, prânzul aduce farmecul clădirii tradiționale Kalogeriko. După-amiaza urcați spre Teatrul Antic, care fascinează prin priveliștile sale la Marea Egee. Încheiați călătoria cu o ascensiune curajoasă către Acropole pentru o panoramă magnifică la apus.",
         "en": "Start your morning exploring the ancient heart of Limenas, taking in the historical layers at the old Basilica and the Roman Odeon. The Archaeological Museum provides essential context before a midday stroll to the traditional Kalogeriko building. Afternoon brings a scenic climb to the Ancient Theatre with its breathtaking Aegean backdrop. Finally, cap off your day with a hike up to the Acropolis for a truly spectacular sunset over the harbor."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Basilika, wo der Regen den antiken Marmor zum Glänzen bringt. Mittags bietet das Archäologische Museum den perfekten trockenen Unterschlupf für tiefe Einblicke. Am Nachmittag erkunden wir das Odeon und das Theater trotz Regenschauern unter dem Schutz von Pinien. Den Abend lassen wir an der Akropolis ausklingen, wo der Nebel über dem Meer eine mystische Aura schafft.",
+            "hu": "A reggelt a bazilikánál kezdjük, ahol az eső mossa tisztára az ősi köveket. Délben a Régészeti Múzeum nyújt tökéletes menedéket a csapadék elől, miközben Thassos kincseit csodáljuk. Délután az Odeon és a Színház környékét járjuk be, ahol a fák némi védelmet adnak. Az estét az Akropolisz ködbe burkolózó romjai között zárjuk, ahonnan a viharos tenger látványa egészen drámai és felejthetetlen.",
+            "ro": "Dimineața începe la Bazilică, unde ploaia face marmura antică să strălucească sub umbrele. La prânz, Muzeul de Arheologie oferă refugiul perfect și uscat pentru explorarea istoriei. După-amiaza vizităm Odeonul și Teatrul, profitând de protecția pinilor în timpul averselor. Seara se încheie la Acropolă, unde ceața de deasupra mării creează o atmosferă mistică și memorabilă asupra orașului.",
+            "en": "The morning starts at the Basilica, where rain brings out the natural patterns in the ancient marble. At noon, the Archaeological Museum provides a perfect dry sanctuary for exploring local history. In the afternoon, we visit the Odeon and Theatre, using umbrellas along the pine-covered paths. The evening ends at the Acropolis, where the misty sea views create a truly haunting and mystical atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die kreuzförmige Basilika",
+                "hu": "A Kereszt alakú bazilika",
+                "ro": "Bazilica în formă de cruce",
+                "en": "The Cross-Shaped Basilica"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Marmor der Basilika ist bei Regen extrem rutschig; nutzen Sie die hölzernen Stege und tragen Sie unbedingt Schuhe mit festem Profil für einen sicheren Halt.",
+                "hu": "A bazilika nedves márványkövei esőben rendkívül csúszósak; használja a kiépített fapallókat és viseljen jó tapadású túracipőt a balesetek elkerülése érdekében.",
+                "ro": "Pietrele de marmură udă ale bazilicii sunt extrem de alunecoase pe ploaie; folosiți platformele de lemn și purtați încălțăminte cu talpă aderentă pentru siguranță.",
+                "en": "The wet marble of the basilica becomes extremely slippery in the rain; stick to the wooden walkways and ensure you wear high-grip shoes for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Thasos",
+                "hu": "Thassos Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Thassos",
+                "en": "Archaeological Museum of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Zufluchtsort bei Starkregen; bewundern Sie den riesigen Kouros im Trockenen und nutzen Sie die Schließfächer für Ihre nassen Regenschirme.",
+                "hu": "A múzeum a legjobb helyszín egy kiadós felhőszakadás idején; csodálja meg a hatalmas Kúrosz-szobrot fedett helyen, és használja az esernyőtartókat a bejáratnál.",
+                "ro": "Acest muzeu este refugiul ideal în caz de ploaie torențială; admirați uriașul Kouros la adăpost și folosiți dulapurile de la intrare pentru umbrelele ude.",
+                "en": "This museum is the ultimate sanctuary during heavy rain; admire the massive Kouros statue while staying dry and use the cloakroom for your wet umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalogeriko",
+                "hu": "Kalogeriko",
+                "ro": "Kalogeriko",
+                "en": "Kalogeriko"
+              },
+              "tip_5lang": {
+                "de": "Dieses markante Gebäude am Hafen bietet unter seinen Vordächern Schutz; genießen Sie den Blick auf die raue See, während Sie im Trockenen auf das Abklingen des Regens warten.",
+                "hu": "A kikötő emblematikus épülete védelmet nyújt az eresz alatt; élvezze a viharos tenger látványát szárazon maradva, amíg a legnagyobb zápor elvonul a város felett.",
+                "ro": "Această clădire iconică din port oferă protecție sub streșini; admirați marea agitată rămânând uscați în timp ce așteptați ca ploaia torențială să se domolească.",
+                "en": "This iconic harbor building offers good shelter under its eaves; enjoy watching the choppy sea while staying dry as you wait for the heaviest rain to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal des Glaukos",
+                "hu": "Glaukosz emlékműve",
+                "ro": "Monumentul lui Glaukos",
+                "en": "Monument of Glaukos"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, ungeschützter Stopp im antiken Viertel; halten Sie Ihren Regenschirm wegen der böigen Seewinde fest und konzentrieren Sie sich auf die antiken Inschriften.",
+                "hu": "Rövid, nyitott megálló az ókori negyedben; kapaszkodjon erősen az esernyőjébe a hirtelen széllökések miatt, és figyelje meg közelebbről az antik feliratokat.",
+                "ro": "O oprire scurtă și expusă în cartierul antic; țineți bine umbrela din cauza rafalelor de vânt marin și priviți de aproape inscripțiile antice de pe soclu.",
+                "en": "A brief, exposed stop in the ancient quarter; hold your umbrella firmly against sea gusts and take a quick look at the ancient inscriptions on the base."
+              }
+            },
+            {
+              "name": {
+                "de": "Odeon",
+                "hu": "Odeon",
+                "ro": "Odeon",
+                "en": "Odeon"
+              },
+              "tip_5lang": {
+                "de": "In den antiken Gängen des Odeons finden Sie kurzzeitig Schutz; achten Sie auf tiefe Pfützen in den Ausgrabungsbereichen und vermeiden Sie das Betreten der glatten Sitzreihen.",
+                "hu": "Az Odeon boltíves járataiban rövid menedéket találhat; ügyeljen a mély tócsákra az ásatási területen, és ne lépjen a vizes, csúszós márvány ülősorokra.",
+                "ro": "Puteți găsi adăpost temporar în pasajele boltite ale Odeonului; atenție la bălțile adânci din zona săpăturilor și evitați să pășiți pe rândurile de marmură udă.",
+                "en": "You can find temporary shelter in the vaulted passages of the Odeon; watch out for deep puddles in the excavation site and avoid stepping on wet marble seats."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater von Thasos",
+                "hu": "Thassos ókori színháza",
+                "ro": "Teatrul Antic din Thassos",
+                "en": "Thassos Ancient Theatre"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg durch den Wald bietet etwas Regenschutz; oben angekommen ist die Sicht auf das graue Meer dramatisch, aber die Steinstufen sind tückisch glatt.",
+                "hu": "Az erdőn átvezető út némi védelmet nyújt az eső elől; a színházból a szürke tenger látványa drámai, de a kőlépcsők ilyenkor rendkívül csalókán csúsznak.",
+                "ro": "Urcarea prin pădure oferă o oarecare protecție; odată ajunși sus, priveliștea mării cenușii este dramatică, dar treptele de piatră sunt înșelător de alunecoase.",
+                "en": "The walk up through the woods offers some cover from the rain; the view of the grey sea is dramatic from the top, but the stone steps are treacherously slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Akropolis von Thasos",
+                "hu": "Thassos Akropolisza",
+                "ro": "Acropola din Thassos",
+                "en": "Acropolis of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Die Akropolis im Regen wirkt wie aus einer anderen Zeit; tragen Sie wasserfeste Kleidung, da es hier oben windig ist, und bleiben Sie für einen sicheren Abstieg auf den Hauptpfaden.",
+                "hu": "Az Akropolisz az esőben olyan, mintha megállt volna az idő; viseljen vízhatlan ruházatot a szél miatt, és a biztonságos lejövetelhez maradjon a fő ösvényen.",
+                "ro": "Acropola în ploaie pare desprinsă din alt timp; purtați haine impermeabile deoarece vântul este puternic aici și rămâneți pe potecile principale pentru coborâre.",
+                "en": "The Acropolis in the rain feels like a place out of time; wear waterproof layers as it gets windy up here, and stick to main paths for a safe descent."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft an der Basilika weckt die Sinne am Morgen. Mittags wärmen wir uns im Archäologischen Museum auf, während die tiefstehende Sonne die antiken Statuen beleuchtet. Am Nachmittag erklimmen wir das Theater, bevor die Sonne gegen 17:00 Uhr spektakulär untergeht. Der Abend endet früh mit einem Spaziergang zur Akropolis, bewaffnet mit einer Taschenlampe für den Rückweg in der Dunkelheit.",
+            "hu": "A friss téli reggelt a bazilikánál kezdjük, ahol a hideg levegőben tisztán látszanak a romok. Délben a Régészeti Múzeumban melegedünk fel, Thassos gazdag múltját kutatva. Délután a Színház felé vesszük az irányt, hogy még világosban lássuk a panorámát. Az estét az Akropoliszon zárjuk a korai, 17 órás naplementével, majd a sötétedő fenyvesen keresztül térünk vissza a városba.",
+            "ro": "Aerul proaspăt de iarnă de la Bazilică trezește simțurile dimineața. La prânz ne încălzim în Muzeul de Arheologie, admirând statuile iluminate de soarele jos de iarnă. După-amiaza urcăm la Teatru pentru a prinde panorama înainte de apusul spectaculos de la ora 17:00. Seara se încheie devreme cu o plimbare spre Acropolă, având nevoie de o lanternă pentru întoarcerea prin pădure.",
+            "en": "The crisp winter air at the Basilica wakes up your senses in the morning. At noon, we warm up in the Archaeological Museum while the low winter sun illuminates the statues. In the afternoon, we hike to the Theatre to catch the panorama before the spectacular 5:00 PM sunset. The evening ends early at the Acropolis, requiring a flashlight for the return walk through the darkening woods."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Die kreuzförmige Basilika",
+                "hu": "A Kereszt alakú bazilika",
+                "ro": "Bazilica în formă de cruce",
+                "en": "The Cross-Shaped Basilica"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille der Ruinen ohne Touristenmassen; die Steine speichern die Kälte, tragen Sie daher warme Socken und windfeste Kleidung für den Morgenstopp.",
+                "hu": "Élvezze a romok csendjét a turistaáradat nélkül; a kövek ontják magukból a hideget, ezért viseljen vastag zoknit és szélálló ruházatot a reggeli látogatáskor.",
+                "ro": "Bucurați-vă de liniștea ruinelor fără mulțimi de turiști; pietrele emană frig, așa că purtați șosete groase și haine rezistente la vânt pentru oprirea de dimineață.",
+                "en": "Enjoy the silence of the ruins without the crowds; the ancient stones radiate cold, so wear warm socks and windproof clothing for your morning visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Thasos",
+                "hu": "Thassos Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Thassos",
+                "en": "Archaeological Museum of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Die beste Zeit für einen Besuch im Winter, um sich aufzuwärmen; die gut geheizten Räume laden zum Verweilen ein, während man die antike Handwerkskunst in Ruhe studiert.",
+                "hu": "Télen ez a legjobb helyszín a felmelegedésre; a jól fűtött termekben kényelmesen elidőzhetünk, miközben alaposan tanulmányozzuk az antik művészeti remekműveket.",
+                "ro": "Cel mai bun loc pentru a vă încălzi iarna; sălile bine încălzite vă permit să zăboviți în timp ce studiați în liniște capodoperele meșteșugului antic.",
+                "en": "The best place to warm up during winter; the well-heated rooms allow you to linger while studying the ancient craftsmanship in comfort and peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Kalogeriko",
+                "hu": "Kalogeriko",
+                "ro": "Kalogeriko",
+                "en": "Kalogeriko"
+              },
+              "tip_5lang": {
+                "de": "Das historische Gebäude steht exponiert am Hafen; der winterliche Seewind kann hier sehr beißend sein, ein warmer Schal und eine Mütze sind für diesen Fotostopp unverzichtbar.",
+                "hu": "A történelmi épület védtelenül áll a kikötőben; a téli tengeri szél itt metsző lehet, ezért egy meleg sál és sapka elengedhetetlen ehhez a rövid fotómegállóhoz.",
+                "ro": "Clădirea istorică este expusă în port; vântul marin de iarnă poate fi tăios aici, așa că un fular cald și o căciulă sunt indispensabile pentru această oprire foto.",
+                "en": "This historic building stands exposed at the harbor; the winter sea breeze can be biting here, so a warm scarf and hat are essential for this photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal des Glaukos",
+                "hu": "Glaukosz emlékműve",
+                "ro": "Monumentul lui Glaukos",
+                "en": "Monument of Glaukos"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Besuch in der Mittagssonne ist ideal; nutzen Sie das klare Winterlicht für detailreiche Fotos der Inschriften, bevor die Schatten am frühen Nachmittag länger werden.",
+                "hu": "A déli napsütésben a legideálisabb a látogatás; használja ki a tiszta téli fényeket a feliratok fotózásához, mielőtt kora délután megnyúlnának az árnyékok.",
+                "ro": "O vizită scurtă în soarele de la prânz este ideală; profitați de lumina clară de iarnă pentru fotografii detaliate ale inscripțiilor înainte ca umbrele să se lungească.",
+                "en": "A quick visit in the midday sun is ideal; take advantage of the clear winter light for detailed photos of the inscriptions before shadows lengthen in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Odeon",
+                "hu": "Odeon",
+                "ro": "Odeon",
+                "en": "Odeon"
+              },
+              "tip_5lang": {
+                "de": "Die Marmorsitze sind im Winter eiskalt; setzen Sie sich nicht direkt auf den Stein, sondern genießen Sie den Anblick im Stehen, um die Körperwärme nicht zu verlieren.",
+                "hu": "A márványülések télen jéghidegek; ne üljön közvetlenül a kőre, inkább állva csodálja meg az építményt, hogy ne veszítsen a testhőmérsékletéből a hideg romok között.",
+                "ro": "Scaunele de marmură sunt înghețate iarna; nu vă așezați direct pe piatră, ci admirați structura stând în picioare pentru a nu pierde căldura corporală.",
+                "en": "The marble seats are ice-cold in winter; avoid sitting directly on the stone, instead admire the structure while standing to keep your body heat up."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater von Thasos",
+                "hu": "Thassos ókori színháza",
+                "ro": "Teatrul Antic din Thassos",
+                "en": "Thassos Ancient Theatre"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie das Theater spätestens um 16:30 Uhr; erleben Sie den winterlichen Sonnenuntergang über der Ägäis, aber bringen Sie für den Abstieg eine Stirnlampe mit.",
+                "hu": "Legkésőbb 16:30-ra érjen fel a színházhoz; élvezze a téli naplementét az Égei-tenger felett, de a lejövetelhez mindenképpen legyen önnél egy működő fejlámpa.",
+                "ro": "Ajungeți la teatru cel târziu la ora 16:30; admirați apusul de iarnă peste Marea Egee, dar aduceți o lanternă frontală pentru coborârea prin pădure.",
+                "en": "Reach the theatre by 4:30 PM at the latest; enjoy the winter sunset over the Aegean, but bring a headlamp for the descent through the darkening trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Akropolis von Thasos",
+                "hu": "Thassos Akropolisza",
+                "ro": "Acropola din Thassos",
+                "en": "Acropolis of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt ist im Winter sehr windanfällig; tragen Sie mehrere Schichten Kleidung und genießen Sie die absolute Ruhe hoch über dem winterlichen Limenas.",
+                "hu": "A legmagasabb pont télen nagyon szeles; öltözzön rétegesen, és élvezze a tökéletes nyugalmat magasan a téli álomba merült Limenas városa felett.",
+                "ro": "Cel mai înalt punct este foarte expus vântului iarna; purtați mai multe straturi de haine și bucurați-vă de liniștea absolută deasupra orașului Limenas.",
+                "en": "The highest point is very windy in winter; wear multiple layers of clothing and enjoy the absolute peace high above the winter-quiet town of Limenas."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Egy kerékpáros túra Thassos partjainál tökéletesen ötvözi a kultúrát a hűsítő tengeri szellővel. Induljon a békés Szent Demeter templomtól, majd fedezze fel az ókori Odeont és a Dionüszosz-szentélyt. A délután a kikötő történelmi múltjának megismerésével folytatódik az egykori kereskedelmi dokkoknál. Zárja a napot a festői Karnagio hegyfokán, majd élvezze a jól megérdemelt pihenést és fürdőzést az Aqua Beach Bar vibráló tengerpartján.",
         "ro": "Un tur cu bicicleta pe coasta insulei Thassos combină perfect cultura cu briza mării. Începeți la liniștita biserică Sfântul Dimitrie și pedalați spre ruinele Odeonului. Traseul continuă spre fostul port comercial antic, plin de ecouri ale trecutului maritim. După-amiaza vă duce la pitorescul promontoriu Karnagio pentru priveliști excelente. Ziua se încheie relaxant la Aqua Beach Bar cu o baie răcoroasă în Marea Egee.",
         "en": "A bike trip along the Thassos coast perfectly blends ancient history with the refreshing sea breeze. Start at the peaceful Saint Demetrius Church before cycling to the well-preserved Odeon and the Sanctuary of Dionysus. The afternoon takes you along the ancient commercial port, reflecting the island's maritime heritage. End your scenic ride at the picturesque Karnagio point, followed by a well-earned swim and sunset drinks at Aqua Beach Bar."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenstraßen. Wir starten an der Demetrius-Kirche und radeln vorsichtig zum Odeon. Mittags suchen wir Schutz beim Dionusion, wo die antiken Steine im Regen glänzen. Nachmittags geht es zum alten Handelshafen, bevor wir den Tag am Karnagio ausklingen lassen, während die Wellen gegen die nassen Felsen peitschen.",
+            "hu": "Az esős biciklitúra óvatosságot igényel a parti utakon. A Szent Demeter templomtól indulunk, majd óvatosan gurulunk az Odeonig. Délben a Dionüszion romjai között keresünk menedéket. Délután az ókori kereskedelmi kikötőt érintjük, végül a Karnagiónál zárjuk a napot, ahol a hullámok látványosan csapkodják a nedves sziklákat a szakadó esőben.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe drumurile de coastă. Pornim de la Biserica Sf. Dimitrie și pedalăm cu grijă spre Odeon. La prânz căutăm adăpost la Dionision, unde pietrele antice strălucesc sub stropi. După-amiaza vizităm portul comercial antic, terminând ziua la Karnagio, unde valurile se sparg spectaculos de stâncile ude.",
+            "en": "Biking in the rain requires extra caution on the coastal roads. We start at St. Demetrius Church and pedal carefully to the Odeon. At noon, we find some cover near the Dionusion. In the afternoon, we visit the ancient commercial port, finishing the day at Karnagio, where the waves crash spectacularly against the wet rocks in the downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche des Heiligen Demetrius",
+                "hu": "Szent Demeter templom",
+                "ro": "Biserica Sfântul Dimitrie",
+                "en": "Saint Demetrius Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im Vorraum der Kirche Schutz vor dem Regen; achten Sie beim Losfahren auf die nassen Pflastersteine, die für Fahrradreifen sehr rutschig sein können.",
+                "hu": "Keressen menedéket a templom előterében az eső elől; induláskor ügyeljen a vizes macskakövekre, amelyek kerékpárral rendkívül csúszósak és veszélyesek lehetnek.",
+                "ro": "Căutați adăpost în pridvorul bisericii în caz de ploaie; la plecare, atenție la pietrele cubice ude, care pot fi foarte alunecoase pentru anvelopele bicicletei.",
+                "en": "Seek shelter in the church porch during showers; when starting off, be careful of wet cobblestones which can be very slippery for bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Odeon",
+                "hu": "Odeon",
+                "ro": "Odeon",
+                "en": "Odeon"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Bäumen am Eingang ab; die antiken Abflusssysteme sind bei Regen noch funktionstüchtig und bieten ein interessantes Detail zum Beobachten.",
+                "hu": "Támassza le kerékpárját a bejáratnál lévő fák alá; az ókori vízelvezető rendszerek esőben még ma is működnek, ami érdekes látványt nyújt a romok között.",
+                "ro": "Parcați bicicleta sub copacii de la intrare; sistemele antice de drenaj sunt încă funcționale pe ploaie, oferind un detaliu istoric interesant de observat.",
+                "en": "Park your bike under the trees near the entrance; the ancient drainage systems are still functional during rain, offering an interesting historical detail to observe."
+              }
+            },
+            {
+              "name": {
+                "de": "Dionysion",
+                "hu": "Dionüszion",
+                "ro": "Dionision",
+                "en": "Dionusion"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Pinien rund um das Dionysion bieten natürlichen Schutz; nutzen Sie die Zeit für eine Trinkpause im Stehen, während Sie die monumentalen Fundamente betrachten.",
+                "hu": "A Dionüszion körüli sűrű fenyőfák természetes védelmet nyújtanak az eső ellen; használja ki az időt egy rövid pihenőre, miközben a monumentális alapokat nézi.",
+                "ro": "Pinii deși din jurul Dionisionului oferă protecție naturală; profitați de timp pentru o scurtă pauză de hidratare în timp ce admirați fundațiile monumentale.",
+                "en": "The thick pine trees around the Dionusion provide natural cover; use the time for a quick drink break while admiring the monumental ancient foundations."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Handelshafen von Thasos",
+                "hu": "Thassos ókori kereskedelmi kikötője",
+                "ro": "Portul comercial antic din Thassos",
+                "en": "Ancient commercial port of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht auf die versunkenen Hafenmauern ist bei Regen und trübem Wasser eingeschränkt; konzentrieren Sie sich auf die Ruinen am Ufer und tragen Sie eine Regenjacke.",
+                "hu": "A süllyedt kikötőfalak látványa esőben korlátozott a zavaros víz miatt; koncentráljon a parton lévő romokra, és viseljen sárvédőt a biciklin a felcsapódó víz ellen.",
+                "ro": "Vizibilitatea zidurilor scufundate este limitată pe ploaie; concentrați-vă pe ruinele de la mal și purtați o jachetă impermeabilă pentru a rămâne uscați pe bicicletă.",
+                "en": "Visibility of the sunken harbor walls is limited in the rain; focus on the ruins on the shore and ensure your bike has mudguards for the wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Karnagio",
+                "hu": "Karnagio",
+                "ro": "Karnagio",
+                "en": "Karnagio"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Karnagio ist schmal und exponiert; bei starkem Wind und Regen sollten Sie das Fahrrad schieben, da die Gischt den Weg sehr glitschig machen kann.",
+                "hu": "A Karnagióhoz vezető út szűk és kitett; erős szélben és esőben javasolt a bicikli tolása, mivel a tengeri permet nagyon csúszóssá teheti az aszfaltot.",
+                "ro": "Drumul spre Karnagio este îngust și expus; în caz de vânt puternic și ploaie, este mai sigur să împingeți bicicleta, deoarece spray-ul marin face asfaltul alunecos.",
+                "en": "The path to Karnagio is narrow and exposed; in strong wind and rain, consider walking your bike as sea spray can make the surface very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqua Beach Bar",
+                "hu": "Aqua Beach Bar",
+                "ro": "Aqua Beach Bar",
+                "en": "Aqua Beach Bar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Bar für eine letzte Pause; der Regen auf dem Meer bietet eine beruhigende Kulisse vor der kurzen Rückfahrt zum Hafen.",
+                "hu": "Használja ki a bár fedett részeit egy utolsó pihenőre; az esőben fürdő tenger látványa megnyugtató háttért nyújt a rövid visszautazás előtt a kikötőbe.",
+                "ro": "Folosiți zonele acoperite ale barului pentru o ultimă pauză; vederea mării în ploaie oferă un fundal relaxant înainte de scurta călătorie de întoarcere în port.",
+                "en": "Utilize the covered areas of the bar for a final rest; the view of rain falling over the sea provides a calming backdrop before the short ride back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour durch Limenas bietet leere Straßen und frische Meeresbrisen. Wir starten an der Demetrius-Kirche und genießen die kühle Fahrt zum Odeon. Mittags erkunden wir das Dionysion im sanften Winterlicht. Der Nachmittag führt uns zum alten Hafen und nach Karnagio, wo wir den Sonnenuntergang pünktlich um 17:00 Uhr erleben, bevor es in der Kälte schnell zurückgeht.",
+            "hu": "A téli biciklitúra Limenasban üres utcákat és friss tengeri szellőt ígér. A Szent Demeter templomtól indulva élvezzük a hűvös gurulást az Odeonig. Délben a Dionüsziont fedezzük fel a lágy téli fényekben. Délután az ókori kikötő és a Karnagio következik, ahol pontosan 17:00-kor ér minket a naplemente, mielőtt a gyorsan hűlő levegőben visszatekernénk.",
+            "ro": "O plimbare de iarnă cu bicicleta prin Limenas oferă străzi pustii și brize proaspete. Pornim de la Biserica Sf. Dimitrie și ne bucurăm de traseul răcoros spre Odeon. La prânz explorăm Dionisionul în lumina blândă a iernii. După-amiaza ne duce la vechiul port și la Karnagio, unde prindem apusul la ora 17:00, înainte de a reveni rapid prin frig.",
+            "en": "A winter bike ride through Limenas offers empty streets and fresh sea breezes. Starting at St. Demetrius Church, enjoy the cool ride to the Odeon. At noon, explore the Dionusion in the soft winter light. The afternoon takes us to the ancient port and Karnagio, where we catch the 5:00 PM sunset before heading back quickly as the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche des Heiligen Demetrius",
+                "hu": "Szent Demeter templom",
+                "ro": "Biserica Sfântul Dimitrie",
+                "en": "Saint Demetrius Church"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für die Fahrt; die Kirche liegt in einer kühlen Gasse, die im Winter kaum Sonne abbekommt, was den Start besonders frisch macht.",
+                "hu": "Viseljen szélálló kesztyűt a tekeréshez; a templom egy hűvös utcában található, amely télen alig kap napfényt, így az indulás különösen fagyos lehet.",
+                "ro": "Purtați mănuși rezistente la vânt pentru pedalat; biserica se află pe o stradă răcoroasă care primește puțin soare iarna, făcând pornirea foarte revigorantă.",
+                "en": "Wear windproof gloves for the ride; the church is located in a cool alley that gets little sun in winter, making the start of your trip quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Odeon",
+                "hu": "Odeon",
+                "ro": "Odeon",
+                "en": "Odeon"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten über das Odeon; ein wunderbarer Ort für Fotos ohne Menschenmassen, aber bewegen Sie sich viel, um warm zu bleiben.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet az Odeonra; csodás helyszín tömeg nélküli fotókhoz, de mozogjon sokat a romok között, hogy ne fázzon meg.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste Odeon; este un loc minunat pentru fotografii fără mulțimi, dar mișcați-vă mult pentru a vă menține căldura.",
+                "en": "The low winter sun casts long shadows over the Odeon; it's a wonderful spot for photos without crowds, but keep moving to maintain your body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Dionysion",
+                "hu": "Dionüszion",
+                "ro": "Dionision",
+                "en": "Dionusion"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Pinienwald rund um das Dionysion besonders friedlich; ziehen Sie eine zusätzliche Schicht an, da die schattigen Bereiche deutlich kühler sind.",
+                "hu": "Télen a Dionüszion körüli fenyőerdő különösen békés; vegyen fel egy plusz réteg ruhát, mivel az árnyékos részeken jelentősen hűvösebb az idő.",
+                "ro": "Iarna, pădurea de pini din jurul Dionisionului este foarte liniștită; puneți un strat suplimentar de haine, deoarece zonele umbrite sunt mult mai reci.",
+                "en": "In winter, the pine woods around the Dionusion are especially peaceful; put on an extra layer as the shaded areas are significantly cooler than the open road."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Handelshafen von Thasos",
+                "hu": "Thassos ókori kereskedelmi kikötője",
+                "ro": "Portul comercial antic din Thassos",
+                "en": "Ancient commercial port of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter kristallklar, was die Sicht auf die versunkenen Mauern verbessert; nutzen Sie den Halt für eine kurze Pause in der wärmenden Nachmittagssonne.",
+                "hu": "A víz télen kristálytiszta, ami javítja a látási viszonyokat a süllyedt falakra; használja ki a megállót egy rövid pihenőre a melengető délutáni napsütésben.",
+                "ro": "Apa este extrem de clară iarna, îmbunătățind vizibilitatea zidurilor scufundate; profitați de oprire pentru o scurtă pauză în soarele blând de după-amiază.",
+                "en": "The water is crystal clear in winter, improving visibility of the sunken walls; use this stop for a short break in the warming afternoon sunshine."
+              }
+            },
+            {
+              "name": {
+                "de": "Karnagio",
+                "hu": "Karnagio",
+                "ro": "Karnagio",
+                "en": "Karnagio"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist im Winter magisch und einsam; genießen Sie die Aussicht auf die verschneiten Gipfel des Festlandes, aber planen Sie den Rückweg vor 17:00 Uhr ein.",
+                "hu": "Ez a hely télen varázslatos és magányos; élvezze a kilátást a szárazföld hófödte csúcsaira, de tervezze meg a visszautat a 17:00-kor kezdődő sötétedés előtt.",
+                "ro": "Acest loc este magic și solitar iarna; admirați priveliștea spre vârfurile înzăpezite ale continentului, dar planificați întoarcerea înainte de ora 17:00.",
+                "en": "This spot is magical and lonely in winter; enjoy the views of the snow-capped mainland peaks, but plan your ride back before the 5:00 PM darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Aqua Beach Bar",
+                "hu": "Aqua Beach Bar",
+                "ro": "Aqua Beach Bar",
+                "en": "Aqua Beach Bar"
+              },
+              "tip_5lang": {
+                "de": "Die Bar ist im Winter geschlossen, aber die Terrasse ist ein toller Aussichtspunkt; trinken Sie einen Tee aus Ihrer Thermoskanne, bevor Sie das letzte Stück radeln.",
+                "hu": "A bár télen zárva tart, de a terasz remek kilátópont; igyon egy forró teát a termoszhából, mielőtt megtenné az utolsó szakaszt a kikötő felé.",
+                "ro": "Barul este închis iarna, dar terasa rămâne un punct de observație excelent; beți un ceai cald din termos înainte de a parcurge ultima etapă a traseului.",
+                "en": "The bar is closed in winter, but the terrace remains a great viewpoint; enjoy a hot tea from your thermos before the final stretch of your ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Autóval kényelmesen felfedezheti Limenas tágabb környezetét. Kezdje a napot a Nisteri strand nyugodt, fenyőkkel övezett vizénél. Ezután irány a központ, ahol a Régészeti Múzeum gazdag kiállítása várja. A délután folyamán felkapaszkodunk az ókori színház és a lenyűgöző középkori erőd romjaihoz. Az igazi csúcspontot az Akropolisz jelenti, amelynek lenyűgöző panorámája felejthetetlen lezárást ad ennek az utazásnak.",
         "ro": "Cu mașina, puteți explora cu ușurință zonele mai largi din Limenas. Începeți relaxat pe plaja liniștită Nisteri, înconjurată de pini. Apoi, descoperiți comorile locale din Muzeul Arheologic din centrul orașului. După-amiaza urcați spre Teatrul Antic și explorați zidurile fascinante ale fortăreței medievale. Finalul vă recompensează cu o ascensiune la Acropole, unde orizontul Mării Egee oferă un spectacol vizual absolut extraordinar.",
         "en": "Having a car allows you to explore the wider beauty around Limenas with ease. Start your morning with a tranquil swim at the pine-fringed Nisteri beach. Head back to town for a deep dive into local antiquity at the Archaeological Museum. In the afternoon, explore the heights of the Ancient Theatre and the sweeping walls of the medieval fortress. The ultimate reward is the Acropolis, offering a commanding view of the Thracian Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Thassos bequem und trocken. Wir starten am Nisteri-Strand, wo der Regen auf das Meer prasselt. Mittags bietet das Archäologische Museum eine ausgiebige Flucht ins Trockene. Am Nachmittag besuchen wir das Theater und die Festung, wobei wir die kurzen Regenpausen für Fotos nutzen. Der Tag endet an der Akropolis, die im Regen eine geheimnisvolle Stimmung ausstrahlt.",
+            "hu": "Autóval kényelmesen és szárazon fedezhetjük fel Thassos kincseit. A Nisteri strandnál kezdünk, ahol az eső cseppjei dobolnak a tengeren. Délben a Régészeti Múzeum nyújt hosszabb menedéket a csapadék elől. Délután a Színház és az Erőd következik, kihasználva a rövidebb esőszüneteket a fotózáshoz. A napot az Akropoliszon zárjuk, amely esőben különösen titokzatos és fenséges látvány.",
+            "ro": "Cu mașina explorăm Thassos confortabil și fără a ne uda. Pornim de la plaja Nisteri, unde ploaia răpăie pe suprafața mării. La prânz, Muzeul de Arheologie oferă o evadare prelungită la adăpost. După-amiaza vizităm Teatrul și Cetatea, folosind scurte pauze între averse pentru fotografii. Ziua se încheie la Acropolă, care emană o atmosferă misterioasă și impunătoare pe ploaie.",
+            "en": "By car, we explore Thassos comfortably while staying completely dry. We start at Nisteri beach, watching the rain dance on the sea. At noon, the Archaeological Museum offers an extensive escape from the weather. In the afternoon, we visit the Theatre and Fortress, using brief breaks in the rain for photos. The day ends at the Acropolis, which feels mysterious and grand in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nisteri",
+                "hu": "Nisteri",
+                "ro": "Nisteri",
+                "en": "Νιστέρι"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Strand aus dem warmen Auto; der Regen auf dem Wasser ist beruhigend, aber vermeiden Sie das Parken auf unbefestigten, schlammigen Flächen.",
+                "hu": "Élvezze a tengerparti kilátást a meleg autóból; az eső látványa a vízen megnyugtató, de kerülje a parkolást a nem aszfaltozott, ilyenkor saras területeken.",
+                "ro": "Bucurați-vă de vederea la plajă din confortul mașinii; ploaia pe apă este relaxantă, dar evitați parcarea pe suprafețe neasfaltate care pot deveni noroioase.",
+                "en": "Enjoy the beach view from the warmth of your car; the rain on the water is soothing, but avoid parking on unpaved areas that can become muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Thasos",
+                "hu": "Thassos Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Thassos",
+                "en": "Archaeological Museum of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe, um nicht nass zu werden; verbringen Sie hier die regenreichsten Stunden des Mittags bei den faszinierenden antiken Exponaten.",
+                "hu": "Parkoljon közvetlenül a bejárat közelében, hogy elkerülje az elázást; töltse itt a dél körüli legesősebb órákat a lenyűgöző ókori kiállítási tárgyak között.",
+                "ro": "Parcați chiar lângă intrare pentru a nu vă uda; petreceți aici cele mai ploioase ore ale amiezii printre fascinantele exponate antice la adăpost.",
+                "en": "Park as close as possible to the entrance to avoid getting wet; spend the rainiest hours of midday here among the fascinating ancient exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal des Glaukos",
+                "hu": "Glaukosz emlékműve",
+                "ro": "Monumentul lui Glaukos",
+                "en": "Monument of Glaukos"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt; Sie können das Denkmal fast vom Auto aus sehen, was ideal ist, wenn der Regen gerade zu stark für einen längeren Spaziergang ist.",
+                "hu": "Gyors megálló; az emlékmű szinte az autóból is jól látható, ami ideális, ha az eső éppen túl intenzív egy hosszabb szabadtéri sétához a városban.",
+                "ro": "O oprire rapidă; puteți vedea monumentul aproape din mașină, ceea ce este ideal dacă ploaia este prea intensă pentru o plimbare lungă pe jos.",
+                "en": "A quick stop; you can see the monument almost from the car, which is ideal if the rain is currently too intense for a longer walk through town."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater von Thasos",
+                "hu": "Thassos ókori színháza",
+                "ro": "Teatrul Antic din Thassos",
+                "en": "Thassos Ancient Theatre"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie so weit wie möglich den Hügel hinauf; tragen Sie feste Schuhe für den kurzen Fußweg, da der Pfad zum Theater bei Regen rutschig sein kann.",
+                "hu": "Hajtson fel, ameddig csak lehetséges a dombon; viseljen stabil cipőt a rövid gyalogúthoz, mivel a színházhoz vezető ösvény esőben csúszóssá válik.",
+                "ro": "Urcați cu mașina cât mai mult posibil pe deal; purtați încălțăminte stabilă pentru scurta plimbare, deoarece poteca spre teatru devine alunecoasă pe ploaie.",
+                "en": "Drive as far up the hill as permitted; wear sturdy shoes for the short walk, as the path to the theatre becomes quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Festung von Thasos",
+                "hu": "Thassos középkori erődje",
+                "ro": "Fortăreața medievală din Thassos",
+                "en": "Medieval fortress of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern bieten kaum Schutz, aber die Aussicht auf das wolkenverhangene Limenas ist einzigartig; halten Sie die Kamera unter einer Schutzhülle bereit.",
+                "hu": "A vastag falak nem nyújtanak védelmet az eső ellen, de a felhős Limenas látványa egyedülálló; tartsa készenlétben a fényképezőgépét egy védőtokban.",
+                "ro": "Zidurile groase nu oferă protecție, dar vederea asupra orașului Limenas acoperit de nori este unică; pregătiți camera foto sub o husă de protecție.",
+                "en": "The thick walls offer little shelter from rain, but the view of cloud-covered Limenas is unique; keep your camera ready under a protective cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Akropolis von Thasos",
+                "hu": "Thassos Akropolisza",
+                "ro": "Acropola din Thassos",
+                "en": "Acropolis of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Nach der Rückfahrt zum Parkplatz bietet der kurze Weg zur Akropolis dramatische Ausblicke; nutzen Sie die Sitzheizung im Auto zum Aufwärmen nach dem Ausstieg.",
+                "hu": "A parkolóba való visszatérés után az Akropoliszhoz vezető út drámai kilátást nyújt; használja az autó ülésfűtését a felmelegedéshez a szabadtéri séta után.",
+                "ro": "După revenirea la parcare, drumul spre Acropolă oferă priveliști dramatice; folosiți încălzirea în scaune pentru a vă încălzi după plimbarea prin ploaie.",
+                "en": "After returning to the car park, the short walk to the Acropolis offers dramatic views; use your car's seat heaters to warm up after the outdoor walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Thassos im Winter mit dem Auto ist eine entspannte Reise durch die Geschichte. Wir starten am kühlen Nisteri-Strand, bevor wir uns im Archäologischen Museum aufwärmen. Nachmittags besuchen wir das Theater und die Festung in der klaren Winterluft. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir unseren Besuch der Akropolis frühzeitig, um das goldene Licht über dem Hafen voll auszunutzen.",
+            "hu": "A téli Thassos autóval egy nyugodt utazás a történelemben. A hűvös Nisteri strandnál kezdünk, majd a Régészeti Múzeumban melegedünk fel alaposan. Délután a Színház és az Erőd következik a friss téli levegőben. Mivel a nap már 17:00-kor lemegy, az Akropolisz meglátogatását korábbra tervezzük, hogy kihasználjuk az aranyló fényeket a kikötő felett.",
+            "ro": "Thassos iarna cu mașina este o călătorie relaxată prin istorie. Începem la plaja răcoroasă Nisteri, înainte de a ne încălzi bine în Muzeul de Arheologie. După-amiaza vizităm Teatrul și Cetatea în aerul curat de iarnă. Deoarece soarele apune deja la ora 17:00, planificăm vizita la Acropolă devreme pentru a profita de lumina aurie peste port.",
+            "en": "Exploring Thassos by car in winter is a relaxed journey through time. We start at the cool Nisteri beach before warming up thoroughly in the Archaeological Museum. In the afternoon, we visit the Theatre and Fortress in the crisp winter air. Since the sun sets at 5:00 PM, we plan our Acropolis visit early to catch the golden light over the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nisteri",
+                "hu": "Nisteri",
+                "ro": "Nisteri",
+                "en": "Νιστέρι"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter menschenleer und wunderschön; genießen Sie die Einsamkeit für einen kurzen Strandspaziergang, bevor Sie die Heizung im Auto wieder aufdrehen.",
+                "hu": "A tengerpart télen teljesen néptelen és gyönyörű; élvezze a magányt egy rövid parti séta erejéig, mielőtt újra felcsavarná a fűtést az autóban.",
+                "ro": "Plaja este complet pustie și superbă iarna; bucurați-vă de singurătate pentru o scurtă plimbare pe mal înainte de a porni din nou căldura în mașină.",
+                "en": "The beach is completely deserted and beautiful in winter; enjoy the solitude for a short walk on the shore before turning the car heater back up."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Thasos",
+                "hu": "Thassos Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Thassos",
+                "en": "Archaeological Museum of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss im Winter wegen der angenehmen Innentemperaturen; nutzen Sie das klare Licht der Wintersonne, das durch die Fenster auf die antiken Statuen fällt.",
+                "hu": "Télen kötelező megálló a kellemes benti hőmérséklet miatt; használja ki a téli napsütés tiszta fényeit, ahogy az ablakokon át megvilágítják az antik szobrokat.",
+                "ro": "O oprire obligatorie iarna datorită temperaturii plăcute din interior; profitați de lumina clară a soarelui care luminează statuile antice prin ferestre.",
+                "en": "A must-visit in winter for the comfortable indoor temperatures; enjoy the clear winter sunlight as it illuminates the ancient statues through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal des Glaukos",
+                "hu": "Glaukosz emlékműve",
+                "ro": "Monumentul lui Glaukos",
+                "en": "Monument of Glaukos"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze direkt in der Nähe meist frei; ein kurzer Halt für ein schnelles Foto reicht aus, da der Wind in den Gassen kühl wehen kann.",
+                "hu": "Télen a közvetlen közeli parkolóhelyek általában szabadok; egy rövid megálló elég egy gyors fotóhoz, mivel a szűk utcákban ilyenkor hűvösen fújhat a szél.",
+                "ro": "Iarna, locurile de parcare din imediata apropiere sunt de obicei libere; o scurtă oprire pentru o fotografie rapidă este suficientă, deoarece vântul poate fi rece.",
+                "en": "In winter, parking spaces nearby are usually available; a short stop for a quick photo is enough as the wind can blow cool through the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Antikes Theater von Thasos",
+                "hu": "Thassos ókori színháza",
+                "ro": "Teatrul Antic din Thassos",
+                "en": "Thassos Ancient Theatre"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet tolle Ausblicke auf das winterliche Meer; achten Sie darauf, vor 16:30 Uhr hier zu sein, um das beste Licht für Ihre Landschaftsfotos zu haben.",
+                "hu": "A felfelé vezető út remek kilátást nyújt a téli tengerre; ügyeljen rá, hogy 16:30 előtt ideérjen, így a legjobb fényeket kapja el a tájképfotózáshoz.",
+                "ro": "Drumul de urcare oferă vederi superbe spre marea de iarnă; aveți grijă să ajungeți aici înainte de 16:30 pentru a prinde cea mai bună lumină pentru fotografii.",
+                "en": "The drive up offers great views of the winter sea; make sure to arrive before 4:30 PM to get the best natural light for your landscape photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Mittelalterliche Festung von Thasos",
+                "hu": "Thassos középkori erődje",
+                "ro": "Fortăreața medievală din Thassos",
+                "en": "Medieval fortress of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Die Steine der Festung können im Winter sehr kalt sein; tragen Sie warme Schichten und Handschuhe, um die Panoramaaussicht auf das Festland entspannt zu genießen.",
+                "hu": "Az erőd kövei télen nagyon hidegek; viseljen meleg rétegeket és kesztyűt, hogy zavartalanul élvezhesse a szárazföldre nyíló panorámát a bástyákról.",
+                "ro": "Pietrele cetății pot fi foarte reci iarna; purtați straturi groase de haine și mănuși pentru a vă bucura de panorama spre continent fără a îngheța.",
+                "en": "The stones of the fortress can be very cold in winter; wear warm layers and gloves to comfortably enjoy the panoramic views across to the mainland."
+              }
+            },
+            {
+              "name": {
+                "de": "Akropolis von Thasos",
+                "hu": "Thassos Akropolisza",
+                "ro": "Acropola din Thassos",
+                "en": "Acropolis of Thasos"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 17:00 Uhr; die Rückfahrt zum Hafen im Auto ist danach besonders angenehm, um sich nach der Kälte oben wieder aufzuwärmen.",
+                "hu": "Élje át a korai naplementét 17:00 körül; az autóval való visszatérés a kikötőbe utána különösen kellemes lesz, hogy a fenti hideg után újra felmelegedjen.",
+                "ro": "Experimentați apusul devreme, în jurul orei 17:00; întoarcerea cu mașina în port va fi foarte plăcută după aceea, oferindu-vă ocazia să vă reîncălziți.",
+                "en": "Experience the early sunset around 5:00 PM; the drive back down to the harbor will be especially pleasant as you warm up in the car after the cold at the top."
+              }
+            }
+          ]
+        }
       }
     }
   }

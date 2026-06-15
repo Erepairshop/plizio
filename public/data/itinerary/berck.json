@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Berckben egy látogatással a történelmi templomban. Sétáljon a csendes utcákon, hogy magába szívja a helyi hangulatot. Délután a múzeum és a gyönyörű partvidék várja. Fejezze be a napot a világítótoronynál, élvezve a csodálatos esti fényeket.",
         "ro": "Începeți ziua în Berck cu o vizită la biserica istorică. Plimbați-vă pe străzile liniștite pentru a absorbi atmosfera locală autentică. După-amiaza vă așteaptă muzeul captivant și coasta superbă. Încheiați ziua admirând priveliștea de la far în lumina caldă a serii.",
         "en": "Start your day in Berck with a peaceful visit to the historic church. Stroll through the quiet streets to truly absorb the authentic local atmosphere. In the afternoon, the engaging museum and the gorgeous coastline await. End your day enjoying the evening view from the lighthouse."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in den historischen Mauern der Stadtkirchen. Mittags bietet das Museum eine ideale Zuflucht vor den Schauern, während Sie in die maritime Kunst eintauchen. Am Nachmittag trotzen wir dem Regen an der Promenade, wo die aufgewühlte See eine dramatische Kulisse bildet. Den Abend lassen wir bei der beleuchteten Küstenkulisse ausklingen, stets in Reichweite trockener Unterkünfte.",
+            "hu": "Kezdje a napot a városi templomok védelmében, elkerülve a reggeli záporokat. Délben a múzeum nyújt tökéletes menedéket, ahol a helyi tengeri festészetben merülhet el. Délután a szél és az eső igazi tengerparti hangulatot áraszt a sétányon, a viharos tenger látványa pedig lenyűgöző. Az estét a fényekben úszó kikötői részen zárjuk, ügyelve a csúszós járdákra a világítótorony felé.",
+            "ro": "Începeți ziua la adăpost în interiorul bisericilor istorice pentru a evita ploile matinale. La prânz, muzeul oferă refugiul perfect, permițându-vă să explorați arta maritimă fără a vă uda. După-amiaza, faleza oferă un spectacol dramatic sub ploaie, cu marea agitată în fundal. Seara se încheie lângă far, unde luminile se reflectă spectaculos în bălțile de pe trotuar.",
+            "en": "Start your day sheltered within the historic walls of the town's churches. At noon, the museum provides an ideal sanctuary from the showers, letting you dive into maritime art. In the afternoon, the promenade shows its raw coastal character under the rain, with crashing waves creating a dramatic scene. End the evening by the lighthouse, where the wet pavement reflects the city lights beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die hölzernen Deckenkonstruktionen im Inneren, während draußen der Regen prasselt; nutzen Sie den Vorraum, um Ihren Regenschirm abzustellen.",
+                "hu": "Csodálja meg a belső fa mennyezetet, miközben kint kopog az eső; használja az előteret az esernyő lerázására és a kabát szárítására.",
+                "ro": "Admirați tavanul de lemn sculptat în timp ce ploaia bate în geamuri; folosiți pridvorul pentru a vă scutura umbrela înainte de a intra.",
+                "en": "Admire the wooden ceiling structures inside while the rain patters outside; use the vestibule to dry your umbrella before exploring the nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Museum",
+                "hu": "Berck Múzeum",
+                "ro": "Muzeul Berck",
+                "en": "Berck Museum"
+              },
+              "tip_5lang": {
+                "de": "Dieses ehemalige Krankenhaus ist das beste Versteck vor einem Wolkenbruch; planen Sie hier mehr Zeit ein, um die Gemälde der Bercker Schule trocken zu genießen.",
+                "hu": "Ez az egykori kórházépület a legjobb búvóhely felhőszakadás idején; töltsön itt több időt a Berck-iskola festményeinek tanulmányozásával.",
+                "ro": "Această fostă clădire de spital este cel mai bun ascunziș în caz de furtună; petreceți mai mult timp aici admirând picturile școlii din Berck.",
+                "en": "This former hospital building is the best hideout during a downpour; plan extra time here to enjoy the Berck School paintings in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad der ca2bm",
+                "hu": "ca2bm uszoda",
+                "ro": "Piscina ca2bm",
+                "en": "piscine de la ca2bm"
+              },
+              "tip_5lang": {
+                "de": "Tauschen Sie die kalten Regentropfen gegen das warme Wasser des Hallenbades; ein Besuch hier ist die perfekte Indoor-Alternative zum grauen Küstenwetter.",
+                "hu": "Cserélje le a hideg esőcseppeket a fedett uszoda meleg vizére; ez a látogatás a tökéletes beltéri alternatíva a szürke tengerparti időben.",
+                "ro": "Schimbați picăturile reci de ploaie cu apa caldă a piscinei interioare; o vizită aici este alternativa ideală de interior pentru vremea gri.",
+                "en": "Swap the cold raindrops for the warm water of the indoor pool; a visit here is the perfect indoor alternative to the grey coastal weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Strand",
+                "hu": "Berck tengerpart",
+                "ro": "Plaja Berck",
+                "en": "Berck Plage"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer von einem der überdachten Cafés aus; der nasse Sand ist fest genug für einen kurzen, erfrischenden Spaziergang.",
+                "hu": "Figyelje a viharos tengert egy fedett kávézó ablakából; a vizes homok elég kemény egy rövid, frissítő sétához a parton.",
+                "ro": "Observați marea agitată de la adăpostul unei cafenele de pe faleză; nisipul ud este suficient de compact pentru o scurtă plimbare revigorantă.",
+                "en": "Watch the stormy sea from the shelter of a beachfront cafe; the wet sand is firm enough for a short, refreshing walk along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Sables",
+                "hu": "Notre-Dame des Sables templom",
+                "ro": "Biserica Notre-Dame des Sables",
+                "en": "Church of Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Die hölzerne Innenausstattung wirkt bei Regen besonders gemütlich; ein idealer Ort, um kurz innezuhalten, bevor es zurück zum Leuchtturm geht.",
+                "hu": "A fából készült belső tér különösen otthonosnak hat esőben; ideális hely egy rövid megállásra, mielőtt visszaindulna a világítótorony felé.",
+                "ro": "Interiorul din lemn oferă o atmosferă primitoare pe timp de ploaie; este locul ideal pentru un moment de liniște înainte de ultima etapă.",
+                "en": "The wooden interior feels especially cozy during the rain; it is an ideal spot for a quick pause before heading back towards the lighthouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Berck",
+                "hu": "Berck világítótornya",
+                "ro": "Farul din Berck",
+                "en": "Berck Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die roten und weißen Streifen leuchten vor dem grauen Himmel besonders stark; tragen Sie windfeste Kleidung, da es hier bei Regen sehr zugig ist.",
+                "hu": "A piros és fehér csíkok különösen élénken világítanak a szürke égbolt előtt; viseljen szélálló ruhát, mert ilyenkor itt nagyon huzatos az idő.",
+                "ro": "Dungile roșii și albe strălucesc intens pe fundalul cerului gri; purtați haine rezistente la vânt, deoarece zona devine foarte expusă pe ploaie.",
+                "en": "The red and white stripes glow vividly against the grey sky; wear windproof clothing as the area becomes very drafty during rainy spells."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die klare Winterluft bei einem zügigen Morgenspaziergang zu den Kirchen. Mittags wärmen wir uns im beheizten Museum auf und lassen uns Zeit. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Strandbesuch für den frühen Nachmittag ein, wenn das Licht am schönsten ist. Den Abend verbringen wir gemütlich im Stadtzentrum, wo die Winterbeleuchtung für Wärme sorgt.",
+            "hu": "Élvezze a friss téli levegőt egy tempós reggeli sétával a templomok felé. Délben a fűtött múzeumban melegszünk fel, bőven hagyva időt a nézelődésre. Mivel a nap már 17 óra körül nyugszik, a tengerparti látogatást kora délutánra időzítjük a legszebb fényekért. Az estét a városközpontban töltjük, ahol a téli kivilágítás és a forró italok adnak melegséget.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă cu o plimbare matinală alertă spre biserici. La prânz, ne încălzim în muzeul bine încălzit, acordând timp exponatelor. Deoarece soarele apune în jurul orei 17:00, programăm vizita pe plajă devreme după-amiaza pentru cea mai bună lumină. Seara o petrecem în centru, profitând de atmosfera caldă creată de luminile de iarnă.",
+            "en": "Enjoy the crisp winter air with a brisk morning walk towards the churches. At noon, we warm up in the heated museum, taking plenty of time for the exhibits. Since the sun sets around 5:00 PM, we schedule the beach visit for early afternoon to catch the best light. Spend the evening in the town center, where winter illuminations and warm drinks provide comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine friedliche Zuflucht vor dem beißenden Küstenwind; achten Sie auf die prächtigen Glasfenster, die im Winterlicht kühl funkeln.",
+                "hu": "A templom békés menedéket nyújt a metsző tengerparti szél elől; figyelje meg a színes üvegablakokat, amelyek hűvösen csillognak a téli fényben.",
+                "ro": "Biserica oferă un refugiu liniștit împotriva vântului tăios de coastă; admirați vitraliile care strălucesc rece în lumina palidă de iarnă.",
+                "en": "The church offers a peaceful refuge from the biting coastal wind; notice the stained glass windows that sparkle coolly in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Museum",
+                "hu": "Berck Múzeum",
+                "ro": "Muzeul Berck",
+                "en": "Berck Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Inneren für eine längere Pause; die maritimen Szenen erinnern an wärmere Tage, während es draußen klirrend kalt ist.",
+                "hu": "Használja ki a benti fűtést egy hosszabb pihenőre; a tengeri jelenetek melegebb napokat idéznek, miközben kint metsző a hideg.",
+                "ro": "Profități de căldura din interior pentru o pauză prelungită; scenele maritime amintesc de zile mai calde în timp ce afară este ger.",
+                "en": "Take advantage of the indoor heating for an extended break; the maritime scenes recall warmer days while it is freezing cold outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad der ca2bm",
+                "hu": "ca2bm uszoda",
+                "ro": "Piscina ca2bm",
+                "en": "piscine de la ca2bm"
+              },
+              "tip_5lang": {
+                "de": "Ein heißes Bad ist im Winter ein Muss; packen Sie sich nach dem Schwimmen besonders warm ein, um den Kälteschock beim Verlassen zu vermeiden.",
+                "hu": "A forró fürdő télen kötelező program; úszás után öltözzön fel különösen rétegesen, hogy elkerülje a hidegsokkot a kilépéskor.",
+                "ro": "O baie caldă este obligatorie iarna; după înot, îmbrăcați-vă foarte gros pentru a evita șocul termic la ieșirea în aerul rece.",
+                "en": "A hot swim is a must in winter; wrap up extra warmly after your session to avoid the cold shock when stepping back outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Strand",
+                "hu": "Berck tengerpart",
+                "ro": "Plaja Berck",
+                "en": "Berck Plage"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Weite des Strandes fast allein; die Wintersonne spiegelt sich herrlich im nassen Sand, aber feste Schuhe gegen die Kälte sind nötig.",
+                "hu": "Élje át a tengerparti magányt; a téli nap gyönyörűen tükröződik a vizes homokon, de a hideg miatt elengedhetetlen a bélelt lábbeli.",
+                "ro": "Experimentați singurătatea plajei; soarele de iarnă se reflectă superb pe nisipul ud, dar încălțămintea groasă este esențială împotriva frigului.",
+                "en": "Experience the beach in solitude; the winter sun reflects beautifully on the wet sand, but insulated footwear is essential against the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Sables",
+                "hu": "Notre-Dame des Sables templom",
+                "ro": "Biserica Notre-Dame des Sables",
+                "en": "Church of Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Die hölzerne Bauweise speichert die Wärme besser als Stein; bewundern Sie das schiffsähnliche Interieur als Schutz vor der winterlichen Brise.",
+                "hu": "A faépítmény jobban tartja a meleget, mint a kő; csodálja meg a hajószerű belsőt, amely védelmet nyújt a téli szél elől.",
+                "ro": "Structura de lemn păstrează căldura mai bine decât piatra; admirați interiorul asemănător unei nave ca protecție împotriva brizei de iarnă.",
+                "en": "The wooden construction holds heat better than stone; admire the ship-like interior as a shield against the biting winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Berck",
+                "hu": "Berck világítótornya",
+                "ro": "Farul din Berck",
+                "en": "Berck Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor Sonnenuntergang um 16:30 Uhr hierher; das goldene Licht des Winters lässt den Turm in einem magischen Glanz erstrahlen.",
+                "hu": "Érkezzen nem sokkal a 16:30-as naplemente előtt; a tél végi aranyfények mágikus ragyogásba vonják a tornyot és a környékét.",
+                "ro": "Veniți cu puțin înainte de apusul de la ora 16:30; lumina aurie a iernii face ca turnul să strălucească într-un mod cu totul magic.",
+                "en": "Arrive shortly before the 4:30 PM sunset; the golden winter light makes the tower glow with a magical, crisp intensity."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Berck felfedezése kerékpárral nagyszerű élmény. Reggel tekerjen a széles tengerpart mentén, majd délben ismerje meg a város kulturális kincseit. Délután az útvonal a világítótoronyhoz, majd az idilli Baie d'Authie felé vezet, ahol megcsodálhatja a fókákat.",
         "ro": "Explorarea orașului Berck cu bicicleta este minunată. Dimineața pedalați de-a lungul plajei largi, iar la prânz descoperiți comorile culturale. După-amiaza, traseul vă duce la far și în final la idilicul Baie d'Authie, unde puteți admira focile în sălbăticie.",
         "en": "Exploring Berck by bike is a wonderful experience. Cycle along the wide beach in the morning, then discover cultural treasures in the town center by noon. In the afternoon, the route leads to the lighthouse and finally to the idyllic Baie d'Authie to admire the beautiful seals."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet Berck flache Wege, die auch bei Nässe gut befahrbar sind. Wir starten an der Küste mit wasserfester Ausrüstung und suchen mittags Schutz im Museum. Achten Sie auf den rutschigen Untergrund bei den Kurven zum Leuchtturm. Der Nachmittag führt uns zur Baie d'Authie, wo die Natur unter dem Regen besonders wild wirkt, bevor wir den Rückweg im Schutz der Stadt antreten.",
+            "hu": "Az eső ellenére Berck sík útjai nedvesen is jól kerékpározhatóak. Vízálló felszerelésben indulunk a part mentén, délben pedig a múzeumban keresünk menedéket. Ügyeljen a csúszós kanyarokra a világítótorony felé vezető úton. Délután az Authie-öböl vadregényes arcát mutatja az esőben, majd a város védelmében tekerünk vissza a szállásunkra.",
+            "ro": "În ciuda ploii, drumurile plane din Berck rămân practicabile cu echipament impermeabil. Pornim pe coastă și căutăm adăpost la muzeu în timpul prânzului. Atenție la curbele alunecoase spre far. După-amiaza ne duce spre Baie d'Authie, unde natura pare mai sălbatică sub ploaie, înainte de a ne întoarce pe rutele mai protejate din oraș.",
+            "en": "Despite the rain, Berck's flat paths remain cyclable with waterproof gear. We start along the coast and seek shelter in the museum at noon. Watch out for slippery surfaces on the curves leading to the lighthouse. The afternoon takes us to Baie d'Authie, where nature feels wilder under the rain, before returning via the sheltered town routes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Berck Beach",
+                "hu": "Berck Beach",
+                "ro": "Plaja Berck Beach",
+                "en": "Berck Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, da der Sand auf der nassen Promenade rutschig sein kann; genießen Sie den weiten Blick auf das graue, wilde Meer.",
+                "hu": "Ellenőrizze a fékeket, mert a nedves sétányon a homok csúszóssá teheti az utat; élvezze a kilátást a szürke, haragos tengerre.",
+                "ro": "Verificați frânele, deoarece nisipul de pe faleza udă poate deveni alunecos; bucurați-vă de vederea spre marea gri și agitată.",
+                "en": "Check your brakes as wet sand on the promenade can be slippery; enjoy the expansive view of the grey, wild sea from your saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Sables",
+                "hu": "Notre-Dame des Sables templom",
+                "ro": "Biserica Notre-Dame des Sables",
+                "en": "Church of Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab und nutzen Sie die Kirche für eine kurze Aufwärmpause im Trockenen vor der Weiterfahrt.",
+                "hu": "Parkoljon az előtető alatt, és használja a templomot egy rövid, száraz pihenőre, mielőtt továbbtekerne a múzeum felé.",
+                "ro": "Parcați bicicleta sub streașină și folosiți interiorul bisericii pentru o scurtă pauză uscată înainte de a continua traseul.",
+                "en": "Park your bike under the overhang and use the church for a short, dry break before continuing your ride towards the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Museum",
+                "hu": "Berck Múzeum",
+                "ro": "Muzeul Berck",
+                "en": "Berck Museum"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Station, um nasse Kleidung kurz zu lüften, während Sie die Kunstwerke bewundern; Fahrradständer befinden sich direkt am Eingang.",
+                "hu": "Ideális helyszín a nedves ruhák átszellőztetésére a műalkotások megtekintése közben; a kerékpártárolók közvetlenül a bejáratnál vannak.",
+                "ro": "Locul ideal pentru a vă scutura hainele ude în timp ce admirați arta; există rastele pentru biciclete chiar la intrare.",
+                "en": "The ideal stop to air out wet gear while admiring the artwork; bicycle racks are located conveniently right by the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Strand",
+                "hu": "Berck tengerpart",
+                "ro": "Plaja Berck",
+                "en": "Berck Plage"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem befestigten Weg; bei Regen sind kaum Fußgänger unterwegs, was Ihnen freie Fahrt für den Küstenblick gewährt.",
+                "hu": "Tekerjen óvatosan a kiépített úton; esőben alig vannak gyalogosok, így zavartalanul élvezheti a száguldást a part mentén.",
+                "ro": "Pedalați cu atenție pe drumul pavat; ploaia îndepărtează pietonii, oferindu-vă libertate totală pentru a admira coasta.",
+                "en": "Cycle carefully on the paved path; the rain clears away pedestrians, giving you total freedom to enjoy the coastal panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Berck",
+                "hu": "Berck világítótornya",
+                "ro": "Farul din Berck",
+                "en": "Berck Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um den Turm kann bei Nässe sehr glatt sein; machen Sie ein schnelles Foto vom dramatischen Kontrast des Turms zum Gewitterhimmel.",
+                "hu": "A torony körüli talaj nedvesen nagyon csúszós lehet; készítsen egy gyors fotót a torony és a viharos égbolt látványos kontrasztjáról.",
+                "ro": "Solul din jurul farului poate fi foarte alunecos când este ud; faceți o fotografie rapidă a contrastului dintre turn și cerul de furtună.",
+                "en": "The ground around the tower can be very slick when wet; take a quick photo of the dramatic contrast between the tower and the storm sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie d'Authie",
+                "hu": "Authie-öböl",
+                "ro": "Baie d'Authie",
+                "en": "Baie d'Authie"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Wege können schlammig sein; bei Regen wirken die Robben in der Bucht oft noch natürlicher in ihrem rauen Element.",
+                "hu": "A kiépítetlen utak sárga válhatnak; esőben az öbölben pihenő fókák még természetesebbnek hatnak a zord elemek között.",
+                "ro": "Potecile neamenajate pot deveni noroioase; pe ploaie, focile din golf par și mai integrate în elementul lor natural brut.",
+                "en": "Unpaved paths may get muddy; during the rain, the seals in the bay often look even more at home in their raw, natural element."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winterwind kann auf dem Rad fordernd sein, also wählen wir windgeschützte Routen durch die Stadt. Nach dem Erfrischen am Strand nutzen wir die Mittagszeit für das Museum zum Aufwärmen. Am Nachmittag radeln wir zügig zur Baie d'Authie, um die Robben vor der frühen Dämmerung zu sehen. Gegen 17:00 Uhr sollte die Tour enden, wenn die Kälte mit dem schwindenden Licht zunimmt.",
+            "hu": "A téli szél kihívást jelenthet a kerékpáron, ezért szélvédettebb városi útvonalakat választunk. A tengerparti frissítő tekerés után a délidőt a múzeumban töltjük melegedéssel. Délután tempósan tekerünk az Authie-öbölhöz, hogy még a korai sötétedés előtt láthassuk a fókákat. 17 óra felé fejezzük be a túrát, amikor a fényekkel együtt a hideg is megérkezik.",
+            "ro": "Vântul de iarnă poate fi solicitant pe bicicletă, așa că alegem rute mai protejate prin oraș. După o tură revigorantă pe plajă, folosim prânzul la muzeu pentru reîncălzire. După-amiaza pedalăm alert spre Baie d'Authie pentru a vedea focile înainte de amurgul timpuriu. Încheiem tura în jurul orei 17:00, când frigul se intensifică.",
+            "en": "Winter winds can be challenging on a bike, so we choose sheltered city routes. After a refreshing coastal ride, use lunchtime at the museum to warm up. In the afternoon, cycle briskly to Baie d'Authie to spot the seals before the early twilight. Aim to finish by 5:00 PM as the temperature drops sharply with the fading light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Berck Beach",
+                "hu": "Berck Beach",
+                "ro": "Plaja Berck Beach",
+                "en": "Berck Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie unbedingt winddichte Handschuhe, da die Brise am Strand beißend kalt ist; genießen Sie die leere Promenade für freie Fahrt.",
+                "hu": "Mindenképpen viseljen szélálló kesztyűt, mert a tengerparti szellő metszően hideg; élvezze az üres sétányt a zavartalan tekeréshez.",
+                "ro": "Purtați neapărat mănuși rezistente la vânt, briza de pe plajă fiind tăioasă; profitați de faleza goală pentru a pedala fără restricții.",
+                "en": "Be sure to wear windproof gloves as the beach breeze is biting; enjoy the empty promenade for an unhindered ride along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Sables",
+                "hu": "Notre-Dame des Sables templom",
+                "ro": "Biserica Notre-Dame des Sables",
+                "en": "Church of Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für ein kurzes Aufwärmen; die Holzarchitektur wirkt im Winterlicht besonders warm und einladend auf Radfahrer.",
+                "hu": "Használja ki a megállót egy rövid melegedésre; a faépítészet a téli fényben különösen melegnek és hívogatónak tűnik a bringások számára.",
+                "ro": "Folosiți oprirea pentru o scurtă reîncălzire; arhitectura din lemn pare deosebit de primitoare în lumina rece de iarnă.",
+                "en": "Use this stop for a quick warm-up; the wooden architecture feels especially cozy and inviting in the winter light for weary cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Museum",
+                "hu": "Berck Múzeum",
+                "ro": "Muzeul Berck",
+                "en": "Berck Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Pause fernab der Kälte; parken Sie Ihr Rad sicher und wärmen Sie sich bei der Kunst der Opal Küste auf.",
+                "hu": "Tökéletes helyszín egy hosszabb pihenőre a hideg elől; parkoljon le biztonságosan, és melegedjen fel az Opál-part művészete mellett.",
+                "ro": "Locul perfect pentru o pauză prelungită departe de frig; parcați bicicleta în siguranță și încălziți-vă admirând arta Coastei de Opal.",
+                "en": "The perfect spot for a long break away from the frost; park your bike securely and warm up while admiring the art of the Opal Coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Strand",
+                "hu": "Berck tengerpart",
+                "ro": "Plaja Berck",
+                "en": "Berck Plage"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht am späten Mittag ist ideal für Fotos; achten Sie auf Sandverwehungen auf dem Radweg, die bei Frost hart sein können.",
+                "hu": "A kora délutáni téli fények ideálisak a fotózáshoz; ügyeljen a kerékpárútra fújt homokra, amely fagyban keménnyé és egyenetlenné válhat.",
+                "ro": "Lumina de iarnă de la prânz este ideală pentru fotografii; atenție la dunele de nisip de pe pistă, care pot îngheța și deveni dure.",
+                "en": "The late midday winter light is ideal for photography; watch out for sand drifts on the path which can become hard and bumpy in the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Berck",
+                "hu": "Berck világítótornya",
+                "ro": "Farul din Berck",
+                "en": "Berck Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine schnelle Runde um den Turm; das klare Wetter bietet oft eine Sicht bis weit über den Ärmelkanal hinaus.",
+                "hu": "Tekerjen egy gyors kört a torony körül; a tiszta téli időben gyakran egészen messzire el lehet látni a Csatorna felett.",
+                "ro": "Faceți o tură rapidă în jurul farului; vremea senină de iarnă oferă adesea o vizibilitate excelentă peste Canalul Mânecii.",
+                "en": "Take a quick ride around the tower; the clear winter weather often provides visibility far across the English Channel."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie d'Authie",
+                "hu": "Authie-öböl",
+                "ro": "Baie d'Authie",
+                "en": "Baie d'Authie"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die Robben, die im Winter oft zahlreicher sind; treten Sie den Rückweg vor 16:30 Uhr an, bevor es dunkel und eisig wird.",
+                "hu": "Keresse a fókákat, amelyek télen gyakran többen vannak; induljon vissza 16:30 előtt, mielőtt sötét és jeges lesz az idő.",
+                "ro": "Căutați focile care sunt adesea mai numeroase iarna; porniți înapoi înainte de 16:30, înainte să se întunece și să înghețe.",
+                "en": "Look for the seals, which are often more numerous in winter; start your return journey by 4:30 PM before it gets dark and icy."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autóval kényelmesen felfedezheti a régió látnivalóit. A napot a Baie d'Authie fókáinál kezdi, majd a központba hajt a múzeumhoz és a parthoz. Késő délután az északi vidámparkok kínálnak izgalmas programot, tökéletes befejezést nyújtva egy eseménydús napnak.",
         "ro": "Cu mașina veți explora cu ușurință toate atracțiile. Dimineața începe cu focile din Baie d'Authie. Mai târziu conduceți spre centru pentru a vizita muzeul și plaja. După-amiaza, parcurile de distracții din nord oferă programul ideal pentru a încheia o zi plină de aventuri.",
         "en": "By car, you can effortlessly explore all the regional highlights. Your morning begins with the seals at Baie d'Authie. Later, drive to the center to visit the museum and the lovely beach. In the late afternoon, the northern amusement parks provide an adventurous end to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist die beste Wahl, um Berck bei Regen komfortabel zu erkunden. Wir beginnen an der Baie d'Authie, wo Sie die Natur bequem vom Wagen aus beobachten können. Mittags bietet das Museum trockene Kultur, während die Kirchen am Nachmittag kurze, geschützte Stopps ermöglichen. Den Tag schließen wir bei den Indoor-Attraktionen im Norden ab, während der Regen draußen an die Scheiben klopft.",
+            "hu": "Az autó a legjobb választás Berck kényelmes felfedezéséhez esős időben. Az Authie-öböllel kezdünk, ahol a természetet akár a kocsiból is megfigyelheti. Délben a múzeum nyújt száraz kulturális élményt, délután pedig a templomok kínálnak rövid, védett megállókat. A napot az északi rész fedett látnivalóinál zárjuk, miközben az eső odakint az ablakokon kopog.",
+            "ro": "Mașina este cea mai bună opțiune pentru a explora Berck confortabil pe ploaie. Începem la Baie d'Authie, unde puteți observa natura din confortul vehiculului. La prânz, muzeul oferă cultură la adăpost, iar după-amiaza bisericile sunt opriri scurte și protejate. Încheiem ziua la atracțiile de interior din nord, în timp ce ploaia bate în parbriz.",
+            "en": "The car is the best choice for exploring Berck comfortably during rainy weather. We start at Baie d'Authie, where you can observe nature from the comfort of your vehicle. At noon, the museum provides dry cultural enrichment, and in the afternoon, the churches offer short, sheltered stops. Finish the day at the indoor attractions in the north while the rain taps on the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baie d'Authie",
+                "hu": "Authie-öböl",
+                "ro": "Baie d'Authie",
+                "en": "Baie d'Authie"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz mit Blick auf die Bucht; so können Sie die Robben beobachten, ohne im strömenden Regen nass zu werden.",
+                "hu": "Használja az öbölre néző parkolót; így kényelmesen megfigyelheti a fókákat anélkül, hogy elázna a szakadó esőben.",
+                "ro": "Folosiți parcarea cu vedere spre golf; astfel puteți observa focile fără a vă uda în ploaia torențială.",
+                "en": "Use the parking area overlooking the bay; this allows you to spot the seals without getting soaked in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Berck",
+                "hu": "Berck világítótornya",
+                "ro": "Farul din Berck",
+                "en": "Berck Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt in der Nähe für ein kurzes Foto; der Kontrast des Turms zum nassen Asphalt ist ein tolles Motiv bei Regen.",
+                "hu": "Parkoljon közvetlenül a közelben egy gyors fotó erejéig; a torony és a vizes aszfalt kontrasztja remek téma esős időben.",
+                "ro": "Parcați chiar în apropiere pentru o fotografie rapidă; contrastul dintre far și asfaltul ud este un motiv excelent pe ploaie.",
+                "en": "Park right nearby for a quick photo; the contrast between the tower and the wet asphalt makes for a great rainy-day subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Museum",
+                "hu": "Berck Múzeum",
+                "ro": "Muzeul Berck",
+                "en": "Berck Museum"
+              },
+              "tip_5lang": {
+                "de": "Es gibt ausreichend Parkmöglichkeiten in der Nähe; genießen Sie die trockene Wärme, während draußen ein typischer Küstenregen fällt.",
+                "hu": "Elegendő parkolóhely van a közelben; élvezze a benti száraz meleget, miközben odakint a tipikus tengerparti eső esik.",
+                "ro": "Există locuri de parcare suficiente în apropiere; bucurați-vă de căldura din interior în timp ce afară cade o ploaie tipică de coastă.",
+                "en": "There is plenty of parking nearby; enjoy the dry warmth inside while a typical coastal rain falls outside the museum walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Sables",
+                "hu": "Notre-Dame des Sables templom",
+                "ro": "Biserica Notre-Dame des Sables",
+                "en": "Church of Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Kurzstopp, um die beeindruckende Holzdecke zu sehen; der Eingang ist nur wenige Schritte von den Parkplätzen entfernt.",
+                "hu": "Ideális rövid megálló a lenyűgöző famennyezet megtekintéséhez; a bejárat csak pár lépésre van a parkolóhelyektől.",
+                "ro": "O oprire scurtă ideală pentru a vedea tavanul de lemn; intrarea este la doar câțiva pași de locurile de parcare.",
+                "en": "An ideal short stop to see the impressive wooden ceiling; the entrance is just a few steps from the parking spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Beach",
+                "hu": "Berck Beach",
+                "ro": "Plaja Berck Beach",
+                "en": "Berck Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Brandung durch die Windschutzscheibe; die Parkplätze an der Promenade bieten eine tolle Aussicht im Trockenen.",
+                "hu": "Élvezze a hullámverés látványát a szélvédőn keresztül; a sétány menti parkolók remek kilátást nyújtanak a száraz kocsiból.",
+                "ro": "Admirați valurile prin parbriz; parcările de pe faleză oferă o vedere excelentă fără a fi nevoie să ieșiți în ploaie.",
+                "en": "Enjoy the view of the surf through your windshield; the parking lots along the promenade offer a great vista while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Catajack",
+                "hu": "Le Catajack",
+                "ro": "Le Catajack",
+                "en": "Le Catajack"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die aktuellen Öffnungszeiten bei Regen; viele Aktivitäten hier sind witterungsabhängig, aber die Fahrt dorthin ist gut ausgebaut.",
+                "hu": "Ellenőrizze az aktuális nyitvatartást esőben; sok tevékenység időjárásfüggő, de az odavezető út jól kiépített és könnyen járható.",
+                "ro": "Verificați programul actualizat pe timp de ploaie; multe activități depind de vreme, dar drumul până acolo este bine întreținut.",
+                "en": "Check the current opening times during rain; many activities are weather-dependent, but the drive there is well-maintained and easy."
+              }
+            },
+            {
+              "name": {
+                "de": "River Splash",
+                "hu": "River Splash",
+                "ro": "River Splash",
+                "en": "River Splash"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist bei leichtem Regen oft weniger besucht; tragen Sie wasserfeste Kleidung für den Weg vom Parkplatz zur Attraktion.",
+                "hu": "Enyhe esőben ez a helyszín gyakran kevésbé zsúfolt; viseljen vízálló ruhát a parkolótól a látnivalóig tartó rövid úton.",
+                "ro": "Această locație este adesea mai puțin aglomerată pe ploaie ușoăra; purtați haine impermeabile pentru drumul de la parcare la atracție.",
+                "en": "This spot is often less crowded during light rain; wear waterproof clothing for the short walk from the parking lot to the attraction."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto die nötige Wärme zwischen den Küstenstopps. Wir beginnen morgens an der Baie d'Authie, um die Robben bei bestem Licht zu sehen. Mittags wärmen wir uns im Museum auf, bevor wir am Nachmittag die Kirchen und den Strand besuchen. Da es gegen 17:00 Uhr dunkel wird, nutzen wir die Dämmerung für eine Panoramafahrt entlang der beleuchteten Küstenstraße.",
+            "hu": "Télen az autó biztosítja a szükséges meleget a tengerparti megállók között. Reggel az Authie-öbölben kezdünk, hogy a legjobb fényekben láthassuk a fókákat. Délben a múzeumban melegszünk fel, majd délután a templomok és a strand következik. Mivel 17 óra körül sötétedik, a szürkületet egy panorámás autózásra használjuk a kivilágított parton.",
+            "ro": "Iarna, mașina oferă căldura necesară între opririle pe coastă. Începem dimineața la Baie d'Authie pentru a vedea focile în cea mai bună lumină. La prânz ne încălzim la muzeu, înainte de a vizita bisericile și plaja după-amiaza. Deoarece se întunecă în jur de ora 17:00, folosim amurgul pentru o plimbare panoramică pe faleză.",
+            "en": "In winter, the car provides essential warmth between coastal stops. We start at Baie d'Authie in the morning to catch the seals in the best light. At noon, warm up at the museum before visiting the churches and beach in the afternoon. As it gets dark around 5:00 PM, use the twilight for a scenic drive along the illuminated coastline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baie d'Authie",
+                "hu": "Authie-öböl",
+                "ro": "Baie d'Authie",
+                "en": "Baie d'Authie"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh am Vormittag für die beste Sicht; die Robben liegen oft in Gruppen am Ufer, um die schwache Wintersonne zu genießen.",
+                "hu": "Érkezzen korán délelőtt a legjobb látványért; a fókák gyakran csoportokba verődve pihennek a parton, élvezve a gyenge téli napsütést.",
+                "ro": "Veniți dimineața devreme pentru cea mai bună vizibilitate; focile stau adesea în grupuri pe mal pentru a profita de soarele slab de iarnă.",
+                "en": "Arrive early in the morning for the best visibility; seals often gather on the shore to soak up the faint winter sun together."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Berck",
+                "hu": "Berck világítótornya",
+                "ro": "Farul din Berck",
+                "en": "Berck Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Blicke; halten Sie nur kurz für Fotos an, um nicht zu sehr im kalten Küstenwind auszukühlen.",
+                "hu": "A tiszta téli levegő nagy látótávolságot biztosít; csak rövid időre szálljon ki fotózni, hogy ne hűljön át a metsző tengeri szélben.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă; opriți doar scurt pentru poze pentru a nu îngheța în vântul tăios de coastă.",
+                "en": "The clear winter air allows for far-reaching views; stop only briefly for photos to avoid getting chilled by the sharp coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Museum",
+                "hu": "Berck Múzeum",
+                "ro": "Muzeul Berck",
+                "en": "Berck Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein willkommener Stopp zum Aufwärmen nach der Küstenfahrt; die gut beheizten Räume machen den Museumsbesuch im Winter sehr angenehm.",
+                "hu": "Várva várt megálló a melegedésre a tengerparti autózás után; a jól fűtött termek télen különösen kellemessé teszik a múzeumlátogatást.",
+                "ro": "O oprire binevenită pentru a vă încălzi după tura pe coastă; sălile bine încălzite fac vizita la muzeu foarte plăcută iarna.",
+                "en": "A welcome stop to warm up after the coastal drive; the well-heated rooms make the museum visit very comfortable during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame des Sables",
+                "hu": "Notre-Dame des Sables templom",
+                "ro": "Biserica Notre-Dame des Sables",
+                "en": "Church of Notre-Dame des Sables"
+              },
+              "tip_5lang": {
+                "de": "Das dunkle Holz des Interieurs wirkt bei winterlichem Licht besonders edel; ein ruhiger Ort für eine kurze Besinnungspause im Warmen.",
+                "hu": "A belső tér sötét fája a téli fényben különösen nemesnek hat; nyugodt hely egy rövid, békés megállóra a melegben.",
+                "ro": "Lemnul închis la culoare al interiorului pare deosebit de nobil în lumina de iarnă; un loc liniștit pentru o scurtă pauză la căldură.",
+                "en": "The dark wood of the interior looks especially elegant in the winter light; a peaceful spot for a short, quiet break in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Berck Beach",
+                "hu": "Berck Beach",
+                "ro": "Plaja Berck Beach",
+                "en": "Berck Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; nutzen Sie die Parkplätze direkt am Wasser für einen tollen Blick ohne kalte Füße.",
+                "hu": "A tengerpart télen szinte teljesen üres; használja a közvetlenül a víz melletti parkolókat a remek kilátásért anélkül, hogy fázna.",
+                "ro": "Plaja este aproape goală iarna; folosiți parcările de lângă apă pentru o priveliște superbă fără a vă expune la frigul intens.",
+                "en": "The beach is almost deserted in winter; use the parking spots right by the water for a great view without getting cold feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Catajack",
+                "hu": "Le Catajack",
+                "ro": "Le Catajack",
+                "en": "Le Catajack"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Winterpausen der Attraktionen; die Umgebung ist im Winterlicht dennoch ein schönes Ziel für eine kurze Fahrt.",
+                "hu": "Ügyeljen a látnivalók esetleges téli üzemszünetére; a környék a téli fényekben így is szép célpontja egy rövid autós kirándulásnak.",
+                "ro": "Fiți atenți la eventualele perioade de închidere pe timp de iarnă; zona rămâne totuși o destinație frumoasă pentru o scurtă plimbare.",
+                "en": "Watch out for any winter closures of local attractions; the area remains a beautiful destination for a short drive in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "River Splash",
+                "hu": "River Splash",
+                "ro": "River Splash",
+                "en": "River Splash"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der Natur; ziehen Sie sich für den kurzen Spaziergang vom Auto zur Aussichtsstelle besonders warm an.",
+                "hu": "Élvezze a természet nyugalmát; öltözzön fel különösen rétegesen a parkolótól a kilátópontig tartó rövid téli sétához.",
+                "ro": "Bucurați-vă de liniștea naturii; îmbrăcați-vă foarte gros pentru scurta plimbare de la mașină până la punctul de observație.",
+                "en": "Enjoy the tranquility of nature; dress extra warmly for the short winter walk from your car to the scenic observation point."
+              }
+            }
+          ]
+        }
       }
     }
   }

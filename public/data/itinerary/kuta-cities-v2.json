@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi robbantásos emlékműnél, majd sétáljon le a legendás Kuta Beach-re, élvezve az energikus szörfös hangulatot.\nDélben a Waterbom Bali trópusi csúszdáin élheti át a maximális izgalmakat és frissülhet fel.\nDélután meneküljön el a tömeg elől, és lazítson a délre fekvő, sokkal békésebb Jerman Beach partján.\nVégül csodálja meg a monumentális I Gusti Ngurah Rai szobrot a lemenő nap fényében.",
         "ro": "Începeți dimineața reflectând asupra istoriei la Memorialul Bombardamentelor. Apoi, plimbați-vă spre legendara plajă Kuta, simțind vibrația energică a surferilor.\nLa prânz, aventura vă așteaptă pe toboganele tropicale uimitoare din parcul acvatic Waterbom Bali.\nDupă-amiaza, scăpați de aglomerație explorând țărmurile mai liniștite ale plajei Jerman din sud.\nSeara, admirați grandioasa statuie I Gusti Ngurah Rai.",
         "en": "Start your morning reflecting on history at the Bombing Memorial. Next, stroll down to the legendary Kuta Beach, feeling the energetic surf vibe.\nMidday brings high-speed excitement as you conquer the tropical slides at Waterbom Bali.\nIn the afternoon, escape the crowds by wandering further south to the peaceful shores of Jerman Beach.\nFinally, admire the grand I Gusti Ngurah Rai statue against the sunset glow."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Denkmal ist trotz Regen ruhig und würdevoll. Mittags bietet die Kuta Beach einen dramatischen Anblick unter grauen Wolken. Nachmittags im Wasserpark stört die Nässe kaum, doch bei Gewitter ist Vorsicht geboten. Der Abend endet trocken in den überdachten Passagen von Kuta.",
+            "hu": "A reggeli eső méltóságteljes csendet áraszt az emlékműnél. Délben a Kuta Beach hullámai drámai látványt nyújtanak a felhők alatt. Délután a víziparkban a víz az úr, de vihar esetén keressen menedéket. A napot Kuta fedett sétányain, száraz helyen zárjuk.",
+            "ro": "Dimineața la monument este liniștită și demnă, în ciuda ploii. La prânz, plaja Kuta oferă o priveliște dramatică sub norii cenușii. După-amiaza la parcul acvatic umezeala nu deranjează, dar fiți atenți la furtuni. Seara se încheie la adăpost, în pasajele acoperite din Kuta.",
+            "en": "The morning at the memorial is quiet and dignified despite the rain. At noon, Kuta Beach offers a dramatic sight under grey clouds. In the afternoon at the water park, the wetness hardly matters, but watch for storms. The evening ends in a dry spot within Kuta's covered walkways."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bali Bombing Memorial (Ground Zero Monument)",
+                "hu": "Bali Bombing Memorial (Ground Zero Monument)",
+                "ro": "Bali Bombing Memorial (Ground Zero Monument)",
+                "en": "Bali Bombing Memorial (Ground Zero Monument)"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal am Morgen; der Regen verleiht dem Ort eine nachdenkliche Stille, nutzen Sie einen großen Regenschirm für den Weg.",
+                "hu": "Látogasson el reggel az emlékműhöz; az eső méltóságteljes csendet ad a helynek, használjon nagy esernyőt a nevek kényelmes olvasásához.",
+                "ro": "Vizitați monumentul dimineața; ploaia oferă locului o liniște reflexivă, folosiți o umbrelă mare pentru a citi numele în confort.",
+                "en": "Visit the memorial in the morning; the rain lends a reflective silence to the site, use a large umbrella to read the names comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuta Beach",
+                "hu": "Kuta Beach",
+                "ro": "Kuta Beach",
+                "en": "Kuta Beach"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die stürmische See von einem Strandcafé aus; der Sand ist nass und fest, tragen Sie wasserfeste Sandalen für einen kurzen Uferspaziergang.",
+                "hu": "Csodálja meg a viharos tengert egy partmenti kávézóból; a homok ilyenkor nedves és kemény, viseljen vízálló szandált egy rövid sétához.",
+                "ro": "Admirați marea învolburată dintr-o cafenea de pe plajă; nisipul este umed și tare, purtați sandale impermeabile pentru o scurtă plimbare pe țărm.",
+                "en": "Admire the stormy sea from a beachfront cafe; the sand is wet and firm now, so wear waterproof sandals for a short walk along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Waterbom Bali",
+                "hu": "Waterbom Bali",
+                "ro": "Waterbom Bali",
+                "en": "Waterbom Bali"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Rutschen auch bei Regen, da Sie sowieso nass werden; bei Blitzschlag werden die hohen Türme aus Sicherheitsgründen kurzzeitig gesperrt.",
+                "hu": "Élvezze a csúszdákat esőben is, hiszen úgyis vizes lesz; villámlás esetén a magas tornyokat biztonsági okokból rövid időre lezárhatják.",
+                "ro": "Bucurați-vă de tobogane chiar și pe ploaie, oricum veți fi uzi; în caz de fulgere, turnurile înalte pot fi închise temporar din motive de siguranță.",
+                "en": "Enjoy the slides even in the rain since you will be wet anyway; in case of lightning, the high towers may be temporarily closed for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Jerman Beach",
+                "hu": "Jerman Beach",
+                "ro": "Jerman Beach",
+                "en": "Jerman Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Küstenweg kann bei Nässe rutschig sein; suchen Sie Schutz unter den Pavillons der Hotels, wenn ein tropischer Guss einsetzt, und genießen Sie die kühle Brise.",
+                "hu": "A parti sétány nedvesen csúszós lehet; keressen menedéket a hotelek pavilonjai alatt a trópusi zápor idején, és élvezze a hűvös fuvallatot.",
+                "ro": "Faleza poate fi alunecoasă când este udă; căutați adăpost sub pavilioanele hotelurilor în timpul ploii tropicale și bucurați-vă de briza răcoroasă.",
+                "en": "The coastal path can be slippery when wet; seek shelter under hotel pavilions during a tropical downpour and enjoy the cool breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "I Gusti Ngurah Rai",
+                "hu": "I Gusti Ngurah Rai",
+                "ro": "I Gusti Ngurah Rai",
+                "en": "I Gusti Ngurah Rai"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Statue im Regen, die besonders nachts im Scheinwerferlicht glänzt; halten Sie Ihre Kamera in einer wasserdichten Hülle für Fotos bereit.",
+                "hu": "Nézze meg a szobrot az esőben, amely éjszaka a fényszórók alatt különlegesen csillog; tartsa a fényképezőgépét vízálló tokban a fotózáshoz.",
+                "ro": "Observați statuia în ploaie, care strălucește sub reflectoare noaptea; păstrați aparatul foto într-o husă impermeabilă pentru fotografii.",
+                "en": "Observe the statue in the rain, which shines uniquely under spotlights at night; keep your camera in a waterproof case for taking photos."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Denkmal ist ideal für Fotos. Mittags strahlt die Kuta Beach in hellem Licht, doch die Luft ist trockener. Nachmittags im Wasserpark genießen wir die Wärme, bevor es ab 17 Uhr schnell dunkelt. Der Abend endet bei kühler Brise an der beleuchteten Statue.",
+            "hu": "A friss téli reggel az emlékműnél ideális a fotózáshoz. Délben a Kuta Beach ragyog a fényben, de a levegő szárazabb. Délután a víziparkban élvezzük a meleget, mielőtt 17 órakor gyorsan besötétedik. Az este hűvös szélben, a kivilágított szobornál ér véget.",
+            "ro": "O dimineață răcoroasă de iarnă la monument este ideală pentru poze. La prânz, plaja Kuta strălucește, dar aerul este mai uscat. După-amiaza la parcul acvatic ne bucurăm de căldură înainte de apusul de la ora 17. Seara se încheie la statuia iluminată.",
+            "en": "A fresh winter morning at the memorial is ideal for photos. At noon, Kuta Beach shines brightly, but the air is drier. In the afternoon at the water park, we enjoy the warmth before it gets dark quickly at 5 PM. The evening ends by the lit statue in a cool breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bali Bombing Memorial (Ground Zero Monument)",
+                "hu": "Bali Bombing Memorial (Ground Zero Monument)",
+                "ro": "Bali Bombing Memorial (Ground Zero Monument)",
+                "en": "Bali Bombing Memorial (Ground Zero Monument)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühle Morgenluft für einen Besuch; der Platz ist im Winter weniger schwül, was das Lesen der Inschriften wesentlich angenehmer macht.",
+                "hu": "Használja ki a hűvös reggeli levegőt a látogatáshoz; télen a tér kevésbé párás, ami sokkal kellemesebbé teszi a feliratok olvasását.",
+                "ro": "Profită de aerul răcoros de dimineață pentru o vizită; piața este mai puțin umedă iarna, ceea ce face citirea inscripțiilor mult mai plăcută.",
+                "en": "Take advantage of the cool morning air for a visit; the square is less humid in winter, making reading the inscriptions much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Kuta Beach",
+                "hu": "Kuta Beach",
+                "ro": "Kuta Beach",
+                "en": "Kuta Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den hellen Mittagsschein; die Sonne ist trotz Winterbrise stark, tragen Sie daher unbedingt Sonnenschutz und einen Hut für den Spaziergang.",
+                "hu": "Élvezze a fényes déli napsütést; a nap a téli szél ellenére is erős, ezért mindenképpen használjon fényvédőt és viseljen kalapot a sétához.",
+                "ro": "Bucurați-vă de soarele strălucitor de la prânz; soarele este puternic în ciuda brizei de iarnă, așa că purtați protecție solară și o pălărie.",
+                "en": "Enjoy the bright midday sunshine; the sun is strong despite the winter breeze, so definitely wear sunscreen and a hat for your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Waterbom Bali",
+                "hu": "Waterbom Bali",
+                "ro": "Waterbom Bali",
+                "en": "Waterbom Bali"
+              },
+              "tip_5lang": {
+                "de": "Die Wassertemperaturen sind perfekt für den Nachmittag; trocknen Sie sich gut ab, bevor die Lufttemperatur nach 16 Uhr mit der sinkenden Sonne spürbar fällt.",
+                "hu": "A víz hőmérséklete tökéletes a délutánhoz; alaposan szárítkozzon meg, mielőtt a levegő hőmérséklete 16 óra után a lemenő nappal érezhetően lehűl.",
+                "ro": "Temperatura apei este perfectă pentru după-amiază; uscați-vă bine înainte ca temperatura aerului să scadă simțitor după ora 16, odată cu apusul.",
+                "en": "Water temperatures are perfect for the afternoon; dry off thoroughly before the air temperature drops noticeably after 4 PM with the setting sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Jerman Beach",
+                "hu": "Jerman Beach",
+                "ro": "Jerman Beach",
+                "en": "Jerman Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17 Uhr für den frühen Wintersonnenuntergang; der Himmel färbt sich intensiv violett, bringen Sie eine leichte Jacke für die Zeit danach mit.",
+                "hu": "Érkezzen 17 óra előtt a korai téli naplementére; az ég intenzív lila színben játszik, hozzon egy vékony dzsekit a naplemente utáni időre.",
+                "ro": "Sosiți înainte de ora 17 pentru apusul timpuriu de iarnă; cerul capătă nuanțe intense de violet, aduceți o jachetă subțire pentru după apus.",
+                "en": "Arrive before 5 PM for the early winter sunset; the sky turns an intense purple, so bring a light jacket for the time after the sun goes down."
+              }
+            },
+            {
+              "name": {
+                "de": "I Gusti Ngurah Rai",
+                "hu": "I Gusti Ngurah Rai",
+                "ro": "I Gusti Ngurah Rai",
+                "en": "I Gusti Ngurah Rai"
+              },
+              "tip_5lang": {
+                "de": "Die Statue wird in der frühen Dunkelheit wunderschön beleuchtet; genießen Sie die klare Sicht und die kühle Abendluft bei diesem beeindruckenden Monument.",
+                "hu": "A szobrot a korai sötétségben gyönyörűen kivilágítják; élvezze a tiszta kilátást és a hűvös esti levegőt ennél a lenyűgöző emlékműnél.",
+                "ro": "Statuia este frumos iluminată în întunericul timpuriu; bucurați-vă de vizibilitatea clară și de aerul răcoros de seară la acest monument impresionant.",
+                "en": "The statue is beautifully illuminated in the early darkness; enjoy the clear views and the cool evening air at this impressive monument."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje egy szórakoztató reggellel a DMZ Dream Museum lenyűgöző optikai illúzióinak felfedezésével.\nKerekezzen kényelmesen a Pantai Double Six partjára, majd haladjon végig a tengerparton a Legian Beach felé.\nTekerjen délre, hogy tisztelegjen az emlékműnél, majd folytassa útját a hagyományos Becak Múzeumba.\nZárja a kerékpártúrát a Bali Shell Museum lenyűgöző és ritka tengeri kincseinek megcsodálásával.",
         "ro": "Începeți cu o dimineață interactivă explorând iluziile optice de la muzeul inedit DMZ Dream Museum.\nPedalați relaxat spre Pantai Double Six pentru briza mării, apoi de-a lungul coastei către plaja Legian.\nMergeți spre sud pentru a onora istoria locală la Memorial, continuând apoi spre istoricul Muzeu Becak.\nÎncheiați turul pe bicicletă admirând comorile globale din interiorul fascinantului Bali Shell Museum.",
         "en": "Begin with a fun and highly interactive morning exploring the optical illusions at the DMZ Dream Museum.\nCycle comfortably to Pantai Double Six to enjoy the gentle sea breeze before heading down the coast to Legian Beach.\nPedal south to honor local history at the Memorial, then continue to the vintage Becak Museum.\nWind down your cycling tour by marveling at global treasures inside the fascinating Bali Shell Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im trockenen Museum, während es draußen schüttet. Mittags radeln wir vorsichtig entlang der nassen Strände von Double Six und Legian. Nachmittags bietet das Denkmal einen Moment des Innehaltens im Regen. Der Abend wird gemütlich in den geschlossenen Ausstellungsräumen beendet.",
+            "hu": "A napot egy száraz múzeumban kezdjük, miközben kint szakad az eső. Délben óvatosan biciklizünk a Double Six és Legian vizes partjainál. Délután az emlékműnél egy pillanatra megállunk az esőben. Az estét fedett kiállítótermekben, kényelmesen zárjuk.",
+            "ro": "Ziua începe într-un muzeu uscat, în timp ce afară plouă torențial. La prânz pedalăm cu grijă de-a lungul plajelor umede Double Six și Legian. După-amiaza monumentul oferă un moment de reculegere în ploaie. Seara se încheie plăcut în săli de expoziție acoperite.",
+            "en": "The day begins in a dry museum while it pours outside. At noon, we cycle carefully along the wet shores of Double Six and Legian. In the afternoon, the memorial offers a moment of reflection in the rain. The evening ends comfortably in indoor exhibition halls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "DMZ Dream Museum Zone",
+                "hu": "DMZ Dream Museum Zone",
+                "ro": "DMZ Dream Museum Zone",
+                "en": "DMZ Dream Museum Zone"
+              },
+              "tip_5lang": {
+                "de": "Dieses interaktive Museum ist der perfekte Ort bei Regen; parken Sie Ihr Rad im überdachten Bereich und genießen Sie die trockene Zeit mit lustigen 3D-Fotos.",
+                "hu": "Ez az interaktív múzeum tökéletes hely esőben; parkolja le a biciklit a fedett részen, és élvezze a száraz időt mókás 3D fotók készítésével.",
+                "ro": "Acest muzeu interactiv este locul perfect pe ploaie; parcați bicicleta în zona acoperită și bucurați-vă de timpul uscat făcând fotografii 3D amuzante.",
+                "en": "This interactive museum is the perfect place during rain; park your bike in the covered area and enjoy the dry time taking fun 3D photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Double Six",
+                "hu": "Pantai Double Six",
+                "ro": "Pantai Double Six",
+                "en": "Pantai Double Six"
+              },
+              "tip_5lang": {
+                "de": "Radle vorsichtig auf dem nassen Asphalt zum Strand; die bunten Sonnenschirme sind meist geschlossen, aber die Cafés bieten gemütliche, trockene Sitzplätze.",
+                "hu": "Biciklizzen óvatosan a nedves aszfalton a part felé; a színes napernyők többnyire zárva vannak, de a kávézók barátságos, száraz ülőhelyeket kínálnak.",
+                "ro": "Pedalați cu atenție pe asfaltul umed spre plajă; umbrelele colorate sunt închise, dar cafenelele oferă locuri uscate și primitoare pentru o pauză.",
+                "en": "Cycle carefully on the wet asphalt toward the beach; the colorful umbrellas are mostly closed, but the cafes offer cozy, dry seating for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Legian Beach",
+                "hu": "Legian Beach",
+                "ro": "Legian Beach",
+                "en": "Legian Beach"
+              },
+              "tip_5lang": {
+                "de": "Der befestigte Weg ist auch bei Regen befahrbar, aber meiden Sie die Pfützen; der Anblick der rauen Brandung ist vom Fahrrad aus besonders beeindruckend.",
+                "hu": "A kiépített út esőben is járható, de kerülje a tócsákat; a vad hullámzás látványa a bicikliről nézve különösen lenyűgöző és látványos.",
+                "ro": "Drumul amenajat este practicabil și pe ploaie, dar evitați bălțile; priveliștea valurilor agitate este impresionantă atunci când o privești de pe bicicletă.",
+                "en": "The paved path is passable even in rain, but avoid the puddles; the sight of the rough surf is especially impressive when viewed from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Bali Bombing Memorial (Ground Zero Monument)",
+                "hu": "Bali Bombing Memorial (Ground Zero Monument)",
+                "ro": "Bali Bombing Memorial (Ground Zero Monument)",
+                "en": "Bali Bombing Memorial (Ground Zero Monument)"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um dem Denkmal Respekt zu zollen; nutzen Sie die kurzen Regenpausen für Fotos und achten Sie auf den glatten Boden rund um das Monument.",
+                "hu": "Álljon meg egy pillanatra, hogy lerója kegyeletét; használja ki a rövid esőszüneteket a fotózáshoz, és ügyeljen a csúszós talajra az emlékmű körül.",
+                "ro": "Opriți-vă scurt pentru a aduce un omagiu; profitați de scurtele pauze de ploaie pentru fotografii și atenție la podeaua alunecoasă din jurul monumentului.",
+                "en": "Stop briefly to pay your respects; take advantage of short breaks in the rain for photos and watch out for the slippery ground around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Becak museum",
+                "hu": "Becak museum",
+                "ro": "Becak museum",
+                "en": "Becak museum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Unterschlupf vor dem Nachmittagsregen; erkunden Sie die Geschichte der indonesischen Transportmittel in dieser geschützten Umgebung.",
+                "hu": "Kiváló menedék a délutáni eső elől; fedezze fel az indonéz közlekedés történetét ebben a védett környezetben, miközben kint kopog az eső.",
+                "ro": "Un adăpost excelent împotriva ploii de după-amiază; explorați istoria transportului indonezian în acest mediu protejat în timp ce afară plouă.",
+                "en": "An excellent shelter from the afternoon rain; explore the history of Indonesian transport in this protected environment while it rains outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Bali Shell Museum",
+                "hu": "Bali Shell Museum",
+                "ro": "Bali Shell Museum",
+                "en": "Bali Shell Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in diesem faszinierenden Innenmuseum; es ist der ideale Ort, um den Tag trocken zu beenden und seltene Naturschätze zu bewundern.",
+                "hu": "Zárja a túrát ebben a lenyűgöző beltéri múzeumban; ideális hely a nap száraz befejezéséhez és a ritka természeti kincsek megcsodálásához.",
+                "ro": "Încheiați turul în acest muzeu interior fascinant; este locul ideal pentru a termina ziua la uscat și pentru a admira comori naturale rare.",
+                "en": "End your tour in this fascinating indoor museum; it is the ideal place to finish the day dry and admire rare natural treasures from the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen beginnt mit Kunst im DMZ. Mittags radeln wir entspannt bei trockener Luft entlang der Strände. Das Licht am Denkmal ist am frühen Nachmittag besonders klar. Da die Sonne gegen 17 Uhr sinkt, besuchen wir die Museen am Abend unter stimmungsvollem Kunstlicht.",
+            "hu": "A hűvös téli reggel művészettel indul a DMZ-ben. Délben lazán biciklizünk a száraz levegőben a strandok mentén. Az emlékműnél a fény kora délután különösen tiszta. Mivel 17 órakor lemegy a nap, az esti múzeumlátogatás hangulatos fényekben telik.",
+            "ro": "Dimineața răcoroasă de iarnă începe cu artă la DMZ. La prânz pedalăm relaxat în aerul uscat de-a lungul plajelor. Lumina la monument este deosebit de clară după-amiaza. Deoarece soarele apune la ora 17, vizităm muzeele seara sub lumini ambientale.",
+            "en": "The cool winter morning starts with art at DMZ. At noon, we cycle in the dry air along the beaches. The light at the memorial is especially clear in the early afternoon. Since the sun sets at 5 PM, the evening museum visits are spent under atmospheric lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "DMZ Dream Museum Zone",
+                "hu": "DMZ Dream Museum Zone",
+                "ro": "DMZ Dream Museum Zone",
+                "en": "DMZ Dream Museum Zone"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier am kühlen Morgen; die Klimatisierung ist im Winter angenehm und Sie haben die besten Fotomotive ohne die großen Touristenmassen.",
+                "hu": "Kezdjen itt a hűvös reggelen; a légkondicionálás télen is kellemes, és a legjobb fotótémákat élvezheti a nagy turistatömegek nélkül.",
+                "ro": "Începeți aici în dimineața răcoroasă; aerul condiționat este plăcut iarna și aveți cele mai bune decoruri foto fără masele mari de turiști.",
+                "en": "Start here on the cool morning; the air conditioning is pleasant in winter, and you will have the best photo backdrops without the large crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Double Six",
+                "hu": "Pantai Double Six",
+                "ro": "Pantai Double Six",
+                "en": "Pantai Double Six"
+              },
+              "tip_5lang": {
+                "de": "Das helle Winterlicht ist perfekt für Strandfotos; die Meeresbrise ist erfrischend, tragen Sie dennoch eine Sonnenbrille wegen der starken Reflexionen.",
+                "hu": "A ragyogó téli fény tökéletes a parti fotókhoz; a tengeri szellő frissítő, de a erős tükröződés miatt mindenképpen viseljen napszemüveget.",
+                "ro": "Lumina strălucitoare de iarnă este perfectă pentru poze pe plajă; briza mării este revigorantă, dar purtați ochelari de soare pentru reflexiile puternice.",
+                "en": "The bright winter light is perfect for beach photos; the sea breeze is refreshing, but definitely wear sunglasses due to the strong reflections."
+              }
+            },
+            {
+              "name": {
+                "de": "Legian Beach",
+                "hu": "Legian Beach",
+                "ro": "Legian Beach",
+                "en": "Legian Beach"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie bei der milden Mittagssonne; die Luft ist weniger feucht, was die Fahrt angenehm macht, trinken Sie aber dennoch ausreichend Wasser.",
+                "hu": "Biciklizzen a hűvösebb déli napsütésben; a levegő kevésbé párás, ami kényelmessé teszi a tekerést, de azért igyon elegendő vizet a hidratáláshoz.",
+                "ro": "Pedalați sub soarele blând de la prânz; aerul este mai puțin umed, ceea ce face plimbarea confortabilă, dar beți suficientă apă pentru hidratare.",
+                "en": "Cycle under the mild midday sun; the air is less humid, making the ride comfortable, but still drink enough water to stay hydrated."
+              }
+            },
+            {
+              "name": {
+                "de": "Bali Bombing Memorial (Ground Zero Monument)",
+                "hu": "Bali Bombing Memorial (Ground Zero Monument)",
+                "ro": "Bali Bombing Memorial (Ground Zero Monument)",
+                "en": "Bali Bombing Memorial (Ground Zero Monument)"
+              },
+              "tip_5lang": {
+                "de": "Am frühen Nachmittag ist das Licht für Detailaufnahmen der Inschriften am besten; die Winterbrise kühlt den Platz angenehm für einen längeren Aufenthalt.",
+                "hu": "Kora délután a legjobb a fény a feliratok részletes fotózásához; a téli szellő kellemesen hűsíti a teret egy hosszabb megálláshoz is.",
+                "ro": "După-amiaza devreme lumina este cea mai bună pentru poze detaliate cu inscripțiile; briza de iarnă răcorește plăcut piața pentru o oprire mai lungă.",
+                "en": "In the early afternoon, the light is best for detailed photos of the inscriptions; the winter breeze cools the square nicely for a longer stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Becak museum",
+                "hu": "Becak museum",
+                "ro": "Becak museum",
+                "en": "Becak museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum kurz vor Sonnenuntergang um 17 Uhr; die Ausstellungsstücke wirken im warmen Nachmittagslicht besonders plastisch und historisch.",
+                "hu": "Látogasson el a múzeumba röviddel a 17 órai naplemente előtt; a kiállítási tárgyak a meleg délutáni fényben különösen élethűnek és történelinek hatnak.",
+                "ro": "Vizitați muzeul cu puțin timp înainte de apusul de la ora 17; obiectele expuse par deosebit de reale și istorice în lumina caldă a după-amiezii.",
+                "en": "Visit the museum shortly before the 5 PM sunset; the exhibits look particularly lifelike and historical in the warm afternoon winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Bali Shell Museum",
+                "hu": "Bali Shell Museum",
+                "ro": "Bali Shell Museum",
+                "en": "Bali Shell Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Abschluss bei kühler werdender Abendluft; das Museum ist beleuchtet und bietet eine warme Atmosphäre, um den Tag entspannt ausklingen zu lassen.",
+                "hu": "Hangulatos zárás a hűvösödő esti levegőben; a múzeum kivilágított és meleg légkört áraszt, hogy a napot nyugodtan és elégedetten fejezhesse be.",
+                "ro": "O încheiere plăcută în aerul răcoros de seară; muzeul este iluminat și oferă o atmosferă caldă pentru a termina ziua într-un mod relaxat.",
+                "en": "A cozy end in the cooling evening air; the museum is lit up and offers a warm atmosphere to finish the day in a relaxed and satisfied way."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje a napot egy energikus és izgalmas délelőttel a világszínvonalú Trans Studio Bali fedett vidámparkban.\nDélben mély kulturális élményben lesz része, amikor megtekinti a hagyományos Tari Barong és Keris előadást.\nDélután hűsöljön az Ekowisata mangroveerdő békés, fák között kanyargó, gyönyörű fapallóin sétálva.\nFejezze be az autózást a Benoa-öböl megtekintésével, majd csobbanjon egyet a híres Waterbom Bali parkban.",
         "ro": "Conduceți direct în mijlocul acțiunii cu o dimineață energică la parcul tematic de interior Trans Studio Bali.\nLa prânz, schimbați peisajul asistând la un spectacol cultural tradițional fascinant, Tari Barong & Keris.\nRăcoriți-vă după-amiaza explorând pasarelele liniștite din lemn ale pădurii de mangrove Ekowisata.\nTerminați cursa scenică admirând Golful Benoa înainte de a vă aventura pe toboganele din Waterbom Bali.",
         "en": "Drive right into the action with an energetic morning at the world-class Trans Studio Bali indoor theme park.\nMidday offers a profound cultural shift as you witness the traditional Tari Barong & Keris performance.\nCool off in the afternoon by exploring the peaceful wooden boardwalks of the Ekowisata mangrove forest.\nFinish your scenic drive taking in the sights of Benoa Bay before splashing into Waterbom Bali."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto bleiben wir trocken, während wir den Indoor-Themenpark besuchen. Mittags verfolgen wir die Barong-Tänze unter einem schützenden Dach. Nachmittags im Mangrovenwald glänzen die Blätter im Regen, bevor wir den Tag im beheizten Wasser von Waterbom ausklingen lassen.",
+            "hu": "Az autóban szárazon maradunk, amíg a fedett témaparkot látogatjuk. Délben a Barong táncokat védett tető alatt nézzük. Délután a mangrove erdőben a levelek csillognak az esőben, majd a napot a Waterbom kellemes vizében fejezzük be.",
+            "ro": "În mașină rămânem uscați în timp ce vizităm parcul tematic interior. La prânz urmărim dansurile Barong sub un acoperiș protector. După-amiaza în pădurea de mangrove frunzele strălucesc în ploaie, apoi încheiem ziua în apa caldă de la Waterbom.",
+            "en": "In the car, we stay dry while visiting the indoor theme park. At noon, we watch the Barong dances under a protective roof. In the afternoon in the mangrove forest, the leaves glisten in the rain, then we end the day in the pleasant water of Waterbom."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trans Studio Bali",
+                "hu": "Trans Studio Bali",
+                "ro": "Trans Studio Bali",
+                "en": "Trans Studio Bali"
+              },
+              "tip_5lang": {
+                "de": "Dieser vollständig überdachte Park ist das ideale Ziel bei Regen; genießen Sie die Fahrgeschäfte im Trockenen, während es draußen heftig gewittert.",
+                "hu": "Ez a teljesen fedett park ideális célpont esőben; élvezze a hullámvasutakat szárazon, miközben kint heves trópusi zivatar tombol.",
+                "ro": "Acest parc complet acoperit este destinația ideală pe ploaie; bucurați-vă de atracții la uscat în timp ce afară este o furtună tropicală severă.",
+                "en": "This fully covered park is the ideal destination during rain; enjoy the rides in the dry while a heavy tropical storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tari Barong & Keris",
+                "hu": "Tari Barong & Keris",
+                "ro": "Tari Barong & Keris",
+                "en": "Tari Barong & Keris"
+              },
+              "tip_5lang": {
+                "de": "Die Aufführungen finden in einer überdachten Halle statt; der Regen auf dem Dach erzeugt eine mystische Kulisse für diesen traditionellen Tanz.",
+                "hu": "Az előadások fedett csarnokban zajlanak; a tetőn kopogó eső misztikus hátteret ad ennek a tradicionális és látványos táncnak.",
+                "ro": "Spectacolele au loc într-o sală acoperită; ploaia care bate pe acoperiș creează un fundal mistic pentru acest dans tradițional și spectaculos.",
+                "en": "The performances take place in a covered hall; the rain drumming on the roof creates a mystical backdrop for this traditional dance."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekowisata mangrove",
+                "hu": "Ekowisata mangrove",
+                "ro": "Ekowisata mangrove",
+                "en": "Ekowisata mangrove"
+              },
+              "tip_5lang": {
+                "de": "Der Holzsteg kann bei Regen sehr rutschig sein; tragen Sie Schuhe mit gutem Profil und bewundern Sie das dichte, nasse Grün der Mangrovenwälder.",
+                "hu": "A fapalló esőben nagyon csúszós lehet; viseljen jó tapadású cipőt, és csodálja meg a mangroveerdő sűrű, vizes és élénk zöld színeit.",
+                "ro": "Podiumul de lemn poate fi foarte alunecos pe ploaie; purtați pantofi cu aderență bună și admirați culorile verzi intense ale pădurii de mangrove.",
+                "en": "The wooden boardwalk can be very slippery in the rain; wear shoes with good grip and admire the dense, wet, and vivid green of the mangroves."
+              }
+            },
+            {
+              "name": {
+                "de": "Benoa Bay",
+                "hu": "Benoa Bay",
+                "ro": "Benoa Bay",
+                "en": "Benoa Bay"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Bucht gemütlich aus dem Autofenster; bei Regen wirken die Fischerboote wie kleine Punkte in einer nebligen, grauen Wasserlandschaft.",
+                "hu": "Nézze meg az öblöt kényelmesen az autó ablakából; esőben a halászhajók apró pontoknak tűnnek a ködös, szürke és misztikus vízi tájban.",
+                "ro": "Admirați golful confortabil din geamul mașinii; pe ploaie, bărcile de pescuit par mici puncte într-un peisaj acvatic gri și cețos.",
+                "en": "View the bay comfortably from your car window; in the rain, the fishing boats look like tiny dots in a misty, grey, and mystical waterscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Waterbom Bali",
+                "hu": "Waterbom Bali",
+                "ro": "Waterbom Bali",
+                "en": "Waterbom Bali"
+              },
+              "tip_5lang": {
+                "de": "Der Regen stört im warmen Pool kaum; nutzen Sie die beheizten Bereiche und entspannen Sie sich, während der tropische Guss die Anlage abkühlt.",
+                "hu": "Az eső alig zavaró a meleg medencében; használja a fűtött részeket, és pihenjen, miközben a trópusi zápor kellemesen lehűti a levegőt.",
+                "ro": "Ploaia nu deranjează în piscina caldă; folosiți zonele încălzite și relaxați-vă în timp ce ploaia tropicală răcorește plăcut aerul de afară.",
+                "en": "The rain is hardly bothersome in the warm pool; use the heated areas and relax while the tropical downpour pleasantly cools the air outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der helle Wintermorgen beginnt im Trans Studio Park. Mittags genießen wir die kulturelle Vorführung bei angenehm trockener Luft. Die Mangroven bieten am Nachmittag kühlen Schatten, bevor wir den frühen Sonnenuntergang um 17 Uhr an der Benoa Bay bewundern und im Wasserpark entspannen.",
+            "hu": "A fényes téli reggel a Trans Studio parkban indul. Délben a kulturális előadást élvezzük a kellemesen száraz levegőben. A mangrovék délután hűvös árnyékot adnak, majd 17 órakor a Benoa Bay-nél nézzük a naplementét.",
+            "ro": "Dimineața strălucitoare de iarnă începe la Trans Studio. La prânz ne bucurăm de spectacolul cultural în aerul plăcut și uscat. Mangrovele oferă umbră după-amiaza, apoi admirăm apusul de la ora 17 la Benoa Bay.",
+            "en": "The bright winter morning starts at Trans Studio park. At noon, we enjoy the cultural performance in the pleasantly dry air. The mangroves offer cool shade in the afternoon, followed by the 5 PM sunset at Benoa Bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trans Studio Bali",
+                "hu": "Trans Studio Bali",
+                "ro": "Trans Studio Bali",
+                "en": "Trans Studio Bali"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Park am Morgen ohne die Hitze; die Klimaanlage im Winter ist perfekt eingestellt, sodass Sie alle Attraktionen entspannt nutzen können.",
+                "hu": "Élvezze a parkot reggel a hőség nélkül; a téli légkondicionálás tökéletesen van beállítva, így minden látványosságot kényelmesen használhat.",
+                "ro": "Bucurați-vă de parc dimineața fără căldură; aerul condiționat iarna este setat perfect, astfel încât să puteți folosi toate atracțiile relaxat.",
+                "en": "Enjoy the park in the morning without the heat; the air conditioning in winter is set perfectly, so you can use all the attractions comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Tari Barong & Keris",
+                "hu": "Tari Barong & Keris",
+                "ro": "Tari Barong & Keris",
+                "en": "Tari Barong & Keris"
+              },
+              "tip_5lang": {
+                "de": "Die trockene Winterluft macht das Open-Air-Gefühl der Halle sehr angenehm; bringen Sie eine Kamera für die scharfen Kontraste im Winterlicht mit.",
+                "hu": "A száraz téli levegő nagyon kellemessé teszi a csarnok szabadtéri jellegét; hozzon fényképezőgépet a téli fény éles kontrasztjainak megörökítéséhez.",
+                "ro": "Aerul uscat de iarnă face ca senzația de aer liber a sălii să fie foarte plăcută; aduceți un aparat foto pentru contrastele clare în lumina iernii.",
+                "en": "The dry winter air makes the open-air feel of the hall very pleasant; bring a camera for the sharp contrasts in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Ekowisata mangrove",
+                "hu": "Ekowisata mangrove",
+                "ro": "Ekowisata mangrove",
+                "en": "Ekowisata mangrove"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht am Nachmittag tiefer und wirft lange Schatten auf die Stege; die Luft ist frischer, was den Spaziergang weniger anstrengend macht.",
+                "hu": "A téli nap délután alacsonyabban áll, hosszú árnyékokat vetve a pallókra; a levegő frissebb, ami sokkal kevésbé fárasztóvá teszi a hosszú sétát.",
+                "ro": "Soarele de iarnă este mai jos după-amiaza, aruncând umbre lungi pe podiumuri; aerul este mai proaspăt, ceea ce face plimbarea mult mai ușoară.",
+                "en": "The winter sun is lower in the afternoon, casting long shadows on the boardwalks; the air is fresher, making the walk much less tiring."
+              }
+            },
+            {
+              "name": {
+                "de": "Benoa Bay",
+                "hu": "Benoa Bay",
+                "ro": "Benoa Bay",
+                "en": "Benoa Bay"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Bucht pünktlich zum frühen Wintersonnenuntergang um 17 Uhr; die Farben über dem flachen Wasser sind in dieser Jahreszeit besonders klar.",
+                "hu": "Érjen az öbölhöz pontosan a korai, 17 órai téli naplementére; a sekély víz feletti színek ebben az évszakban különlegesen tiszták és élénkek.",
+                "ro": "Ajungeți la golf exact pentru apusul timpuriu de la ora 17; culorile de deasupra apei puțin adânci sunt deosebit de clare în acest sezon.",
+                "en": "Reach the bay right in time for the early 5 PM winter sunset; the colors over the shallow water are especially clear and vivid during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Waterbom Bali",
+                "hu": "Waterbom Bali",
+                "ro": "Waterbom Bali",
+                "en": "Waterbom Bali"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang kühlt es schnell ab; nutzen Sie die warmen Duschen und haben Sie ein trockenes Handtuch bereit, um sich vor der Abendbrise zu schützen.",
+                "hu": "Naplemente után gyorsan lehűl az idő; használja a meleg zuhanyokat, és legyen kéznél száraz törölköző, hogy megvédje magát az esti szellőtől.",
+                "ro": "După apus se răcește rapid; folosiți dușurile calde și aveți pregătit un prosop uscat pentru a vă proteja de briza răcoroasă a serii.",
+                "en": "It cools down quickly after sunset; use the warm showers and have a dry towel ready to protect yourself from the cool evening breeze."
+              }
+            }
+          ]
+        }
       }
     }
   }

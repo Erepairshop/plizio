@@ -183,6 +183,224 @@
         "hu": "A reggel a városközpontban kezdődik a Quartier Colson-Blaise katonai örökségének és a Bencés Könyvtár kéziratainak megcsodálásával. Délben kápolnák és a Maison du Roi mellett halad el. Délután túrázzon fel a Saint-Mihiel-i sziklákhoz a panorámáért, majd sétáljon el a nagyszerű kastélyok mellett. A nap a Ligier Richier házban ér véget.",
         "ro": "Dimineața începe în centru, admirând moștenirea militară de la Quartier Colson-Blaise și manuscrisele Bibliotecii Benedictine. La prânz treceți pe lângă capele și reședințe istorice precum Maison du Roi. După-amiaza, urcați pe stâncile Saint-Mihiel pentru vederi panoramice, iar ziua se încheie la casa artistică Ligier Richier.",
         "en": "Morning starts in the town center, admiring the military heritage at Quartier Colson-Blaise and the stunning manuscripts of the Benedictine Library. Midday takes you past beautiful chapels and historical residences like the Maison du Roi. In the afternoon, hike up the famous Rocks of Saint-Mihiel for panoramic views before wandering past grand mansions. The day concludes at the artistic Ligier Richier House."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen an der Fassade von Colson-Blaise, bevor Sie in der herrlichen Benediktinerbibliothek Schutz suchen. Mittags bietet die Sainte-Anne-Kapelle einen trockenen Rückzugsort. Der Nachmittag bringt einen nassen, aber beeindruckenden Blick auf die Felsen von Saint-Mihiel – wasserfeste Schuhe sind Pflicht! Beenden Sie den Spaziergang im Ligier-Richier-Haus.",
+            "hu": "Kezdje az esős reggelt a Colson-Blaise oromzatánál, majd keressen menedéket a lenyűgöző Bencés Könyvtárban. Délben a Sainte-Anne kápolna nyújt száraz pihenőt, mielőtt megnézné a Király Házát. Délután csapadékos, de drámai látványt nyújtanak a mészkősziklák – vízálló cipő kötelező! Zárja a nedves sétát a Bousmard kastélynál és a történelmi Ligier Richier háznál.",
+            "ro": "Începeți dimineața ploioasă la frontonul Colson-Blaise înainte de a vă adăposti în superba Bibliotecă Benedictină. La prânz, Capela Sainte-Anne oferă un refugiu uscat. După-amiaza aduce o priveliște umedă, dar dramatică asupra Stâncilor din Saint-Mihiel – purtați încălțăminte impermeabilă! Încheiați plimbarea umedă la Conacul Bousmard și la istorica Casă Ligier Richier.",
+            "en": "Start your rainy morning admiring the Colson-Blaise facade before finding shelter in the magnificent Benedictine Library. By noon, the Sainte-Anne Chapel offers a dry, peaceful retreat before viewing the King's House. Afternoon brings a wet but striking view of the Saint-Mihiel Rocks—wear sturdy boots! Conclude your damp walk at the Bousmard Mansion and Ligier Richier House."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Giebel des Quartiers Colson-Blaise",
+                "hu": "Quartier Colson-Blaise Oromzata",
+                "ro": "Frontonul Cartierului Colson-Blaise",
+                "en": "Fronton du Quartier Colson-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markante Architektur und die detaillierten Verzierungen schnell unter Ihrem Regenschirm, bevor Sie vor den Schauern flüchten.",
+                "hu": "Csodálja meg a lenyűgöző építészetet és a részleteket a nagy esernyője alól, mielőtt a száraz könyvtárba indulna a reggeli záporok elől.",
+                "ro": "Admirați rapid arhitectura impresionantă și detaliile de sub umbrela dumneavoastră înainte de a vă îndrepta spre bibliotecă pentru a scăpa de ploaie.",
+                "en": "Admire the striking architecture and intricate details quickly from beneath your large umbrella before heading to the dry library to escape the showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Benediktinerbibliothek",
+                "hu": "Bencés Könyvtár",
+                "ro": "Biblioteca Benedictină",
+                "en": "Benedictine Library"
+              },
+              "tip_5lang": {
+                "de": "Diese atemberaubende Innenbibliothek ist ein perfekter trockener Zufluchtsort, um ihre riesige historische Handschriftensammlung gemütlich zu bestaunen.",
+                "hu": "Ez a lenyűgöző beltéri könyvtár tökéletes, száraz menedék a hatalmas történelmi kéziratgyűjtemény kényelmes megcsodálására a heves esőzés elől.",
+                "ro": "Această bibliotecă interioară uimitoare este un sanctuar uscat perfect pentru a admira în confort vasta sa colecție de manuscrise istorice feriți de ploaie.",
+                "en": "This stunning indoor library is the perfect dry sanctuary to comfortably marvel at its massive historic manuscript collection away from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des Krankenhauses Sainte-Anne",
+                "hu": "Sainte-Anne Kórház Kápolnája",
+                "ro": "Capela Spitalului Sainte-Anne",
+                "en": "Chapelle de l'hôpital Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz aus dem strömenden Regen, um die friedliche religiöse Kunst in dieser ruhigen, vollständig geschützten Kapelle zu genießen.",
+                "hu": "Lépjen be az ömlő esőből, és élvezze a békés, csendes vallási művészetet ebben a teljesen védett és nyugodt történelmi kápolnában.",
+                "ro": "Pășiți din ploaia torențială pentru a aprecia arta religioasă senină din această capelă liniștită, ferită complet de intemperii și foarte primitoare.",
+                "en": "Step out of the pouring rain to appreciate the serene religious art within this quiet, fully sheltered and historically rich chapel space."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Königs",
+                "hu": "A Király Háza",
+                "ro": "Casa Regelui",
+                "en": "Maison du Roi"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die prächtigen Renaissance-Details sicher von der Straße aus, während Ihr Regenmantel fest zugeknöpft bleibt.",
+                "hu": "Figyelje meg a csodás reneszánsz részleteket biztonságosan az utcáról, miközben a vízálló esőkabátja szorosan be van gombolva a szél ellen.",
+                "ro": "Observați detaliile renascentiste magnifice în siguranță din stradă, păstrându-vă pelerina de ploaie bine închisă împotriva stropilor reci.",
+                "en": "Note the magnificent Renaissance details safely from the street, keeping your waterproof raincoat securely buttoned up against the damp weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Felsen von Saint-Mihiel",
+                "hu": "Saint-Mihiel Sziklái",
+                "ro": "Stâncile din Saint-Mihiel",
+                "en": "The Rocks of Saint-Mihiel"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen Kalksteinfelsen sind im Regen sehr dramatisch, aber die schlammigen Waldwege erfordern unbedingt wasserfeste Schuhe mit gutem Profil.",
+                "hu": "A hatalmas mészkősziklák drámaiak az esőben, de a saras, csúszós erdei ösvényekhez kiváló tapadású, vízálló túrabakancsra van szükség.",
+                "ro": "Stâncile uriașe de calcar arată dramatic în ploaie, dar potecile de pădure noroioase necesită absolut bocanci impermeabili cu o aderență excelentă.",
+                "en": "The massive limestone rocks are dramatic in the rain, but the muddy and slippery forest paths absolutely require waterproof boots with excellent grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtpalais Bousmard",
+                "hu": "Bousmard Magánkastély",
+                "ro": "Conacul Bousmard",
+                "en": "Hôtel particulier de Bousmard"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die elegante, historische Fassade dieses Privatpalastes schnell von der nassen Straße, bevor Sie wieder einen trockenen Ort suchen.",
+                "hu": "Gyorsan tekintse meg ezen magánkastély elegáns, történelmi homlokzatát a nedves utcáról, mielőtt újra száraz, fedett menedéket keresne.",
+                "ro": "Admirați rapid fațada elegantă și istorică a acestui conac privat din strada umedă înainte de a căuta un nou adăpost uscat și confortabil.",
+                "en": "View the elegant, historic facade of this private mansion quickly from the wet street before moving along to find your next dry indoor shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ligier-Richier-Haus",
+                "hu": "Ligier Richier Ház",
+                "ro": "Casa Ligier Richier",
+                "en": "Ligier Richier House"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich drinnen ab, während Sie in seinem gut erhaltenen historischen Zuhause mehr über den berühmten Renaissance-Bildhauer erfahren.",
+                "hu": "Száradjon meg bent a melegben, miközben a híres reneszánsz szobrászról tanul ebben a kiválóan karbantartott, esőtől védett történelmi otthonban.",
+                "ro": "Uscați-vă în interior în timp ce aflați despre celebrul sculptor renascentist în casa sa istorică foarte bine conservată și ferită de ploaie.",
+                "en": "Dry off inside the warm interior while learning all about the famous Renaissance sculptor within his well-preserved and sheltered historic home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein, um die Fassade von Colson-Blaise an einem klaren Wintermorgen zu bewundern, und wärmen Sie sich dann in der Benediktinerbibliothek auf. Mittags besuchen Sie die Sainte-Anne-Kapelle. Nachmittags wirken die Felsen im Winterlicht majestätisch. Beenden Sie die Tour vor dem frühen Sonnenuntergang gegen 17 Uhr mit Besuchen im Bousmard-Palast und im Ligier-Richier-Haus.",
+            "hu": "Öltözzön melegen a csípős téli reggelen a Colson-Blaise oromzatához, majd melegedjen fel a történelmi Bencés Könyvtárban. Délben a Sainte-Anne kápolna és a Király Háza várja. Délután a mészkősziklák fenségesen festenek a téli fényekben. Fejezze be a sétát a korai, 17 óra körüli sötétedés előtt a Bousmard kastély és a Ligier Richier Ház felfedezésével.",
+            "ro": "Îmbrăcați-vă gros pentru a admira frontonul Colson-Blaise în dimineața rece de iarnă, apoi încălziți-vă în Biblioteca Benedictină. La prânz vizitați Capela Sainte-Anne și Casa Regelui. După-amiaza, Stâncile din Saint-Mihiel arată maiestuos în lumina iernii. Terminați înainte de apusul devreme de la ora 17:00 cu vizite la Conacul Bousmard și Casa Ligier Richier.",
+            "en": "Wrap up warmly to admire the Colson-Blaise facade in the crisp winter morning, then thaw out inside the historic Benedictine Library. Midday brings a chilly visit to the Sainte-Anne Chapel and the King's House. In the afternoon, the Saint-Mihiel Rocks look majestic in the winter light. Finish before the early sunset around 5 PM with cozy visits to Bousmard Mansion and Ligier Richier House."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Giebel des Quartiers Colson-Blaise",
+                "hu": "Quartier Colson-Blaise Oromzata",
+                "ro": "Frontonul Cartierului Colson-Blaise",
+                "en": "Fronton du Quartier Colson-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die feinen Details der Fassade, gut eingepackt in einen warmen Schal, um sich gegen den beißenden Morgenfrost zu schützen.",
+                "hu": "Figyelje meg a homlokzat finom részleteit vastag, meleg sálba burkolózva, hogy megvédje magát a csípős és hideg kora reggeli fagyoktól.",
+                "ro": "Observați detaliile fine ale fațadei înfofolit într-un fular cald și gros pentru a vă proteja împotriva gerului aspru și tăios al dimineții.",
+                "en": "Observe the intricate details of the facade securely wrapped in a thick, warm scarf to protect yourself against the biting morning winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Benediktinerbibliothek",
+                "hu": "Bencés Könyvtár",
+                "ro": "Biblioteca Benedictină",
+                "en": "Benedictine Library"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit, die alten Manuskripte in diesem angenehm beheizten, wunderbar ruhigen kulturellen Hafen vor der Kälte zu erkunden.",
+                "hu": "Szánjon időt az ősi kéziratok felfedezésére ebben a kellemesen fűtött, csendes kulturális menedékben, messze a zord téli hidegtől.",
+                "ro": "Explorați pe îndelete manuscrisele antice în acest refugiu cultural confortabil încălzit și liniștit, departe de frigul pătrunzător de afară.",
+                "en": "Take your time exploring the ancient manuscripts inside this comfortably heated and quiet cultural haven, escaping the freezing outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle des Krankenhauses Sainte-Anne",
+                "hu": "Sainte-Anne Kórház Kápolnája",
+                "ro": "Capela Spitalului Sainte-Anne",
+                "en": "Chapelle de l'hôpital Sainte-Anne"
+              },
+              "tip_5lang": {
+                "de": "Die extrem dicken Steinmauern der Kapelle halten den eisigen Winterwind zuverlässig ab, während Sie das friedliche Innere bewundern können.",
+                "hu": "A történelmi kápolna rendkívül vastag kőfalai kint tartják a fagyos téli szeleket, amíg Ön nyugalomban csodálja a békés, csendes belső teret.",
+                "ro": "Zidurile extrem de groase de piatră ale capelei țin la distanță vânturile înghețate de iarnă în timp ce admirați interiorul liniștit și cald.",
+                "en": "The chapel's thick historic stone walls reliably keep the harsh, freezing winter winds out while you peacefully admire its serene interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Königs",
+                "hu": "A Király Háza",
+                "ro": "Casa Regelui",
+                "en": "Maison du Roi"
+              },
+              "tip_5lang": {
+                "de": "Das beeindruckende Haus des Königs sieht vor einem grauen Winterhimmel wunderschön aus; behalten Sie die warmen Handschuhe zum Fotografieren an.",
+                "hu": "A lenyűgöző Király Háza gyönyörűen fest a szürke téli égbolt előtt; fotózás közben is feltétlenül tartsa magán a meleg téli kesztyűjét.",
+                "ro": "Casa Regelui arată superb profilată pe cerul gri de iarnă; păstrați mănușile groase pe mâini atunci când faceți fotografii în frig.",
+                "en": "The impressive King's House looks beautiful against a gray winter sky; make sure to keep your thick gloves on while taking outdoor photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Felsen von Saint-Mihiel",
+                "hu": "Saint-Mihiel Sziklái",
+                "ro": "Stâncile din Saint-Mihiel",
+                "en": "The Rocks of Saint-Mihiel"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei Frost auf sehr gefährliche vereiste Stellen auf den Waldwegen rund um diese hoch aufragenden Kalksteinformationen.",
+                "hu": "Fagyos időben fokozottan ügyeljen a nagyon veszélyes, jeges foltokra ezen hatalmas mészkőképződmények körüli árnyékos erdei ösvényeken.",
+                "ro": "Aveți mare grijă la peticele de gheață periculoase de pe traseele de pădure din jurul acestor formațiuni impunătoare de calcar pe vreme geroasă.",
+                "en": "Be extremely careful of dangerous icy patches on the shaded forest trails around these towering limestone formations during freezing weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadtpalais Bousmard",
+                "hu": "Bousmard Magánkastély",
+                "ro": "Conacul Bousmard",
+                "en": "Hôtel particulier de Bousmard"
+              },
+              "tip_5lang": {
+                "de": "Die klassischen Linien des Palastes sind im kahlen Winter besonders markant; ein toller kurzer Halt auf dem kühlen Nachmittagsspaziergang.",
+                "hu": "A kastély klasszikus vonalai a kopár télben különösen feltűnőek; nagyszerű, de rövid megálló, mielőtt folytatná csípős délutáni sétáját.",
+                "ro": "Liniile clasice ale conacului sunt deosebit de izbitoare în iarna golașă; o scurtă oprire excelentă înainte de a continua plimbarea rece.",
+                "en": "The mansion’s classic lines are striking against the bare winter trees; make it a quick, scenic stop before continuing your chilly walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Ligier-Richier-Haus",
+                "hu": "Ligier Richier Ház",
+                "ro": "Casa Ligier Richier",
+                "en": "Ligier Richier House"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Leben von Ligier Richier in den gemütlich beleuchteten, warmen Räumen, während draußen die frühe Winterdämmerung hereinbricht.",
+                "hu": "Fedezze fel Ligier Richier életét a hangulatosan megvilágított, meleg szobákban, miközben odakint már 17 óra körül leszáll a téli alkonyat.",
+                "ro": "Explorați viața lui Ligier Richier în camerele calde și primitoare, pe măsură ce afară se lasă rapid amurgul timpuriu și rece de iarnă.",
+                "en": "Explore the life of Ligier Richier inside these cozily lit, warm rooms as the early, freezing winter dusk falls rapidly outside around 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kerékpározzon ki korán a Quartier Colson-Blaise-hez, mielőtt elmerülne a Bencés Könyvtár történelmében. Ebédidőben tekerjen el a Maison du Roi mellett, majd fel a Saint-Mihiel-i sziklákhoz. A délután egy festői túrát tartogat a Chapelle Notre-Dame-des-Prés-hez, majd kulturális betekintést a Ligier Richier házba. Az est a Camp des Romains-hez vezet.",
         "ro": "Porniți devreme pentru a admira Quartier Colson-Blaise înainte de a explora Biblioteca Benedictină. La prânz, pedalați pe lângă Maison du Roi și urcați la stâncile Saint-Mihiel. După-amiaza include o plimbare pitorească până la Chapelle Notre-Dame-des-Prés și o vizită culturală la Casa Ligier Richier, terminând ziua la Fortul Camp des Romains.",
         "en": "Pedal out early to take in the imposing Quartier Colson-Blaise before diving into the history of the Benedictine Library. By lunchtime, ride past the Maison du Roi and cycle up to the majestic Rocks of Saint-Mihiel for fresh air. Your afternoon features a scenic ride to the secluded Chapelle Notre-Dame-des-Prés, followed by cultural insights at Ligier Richier House. Evening brings you to the imposing Camp des Romains."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie an diesem regnerischen Morgen vorsichtig von Colson-Blaise zur trockenen Benediktinerbibliothek. Mittags fahren Sie auf nassen Straßen zum Haus des Königs und zu den beeindruckenden Felsen – Vorsicht, rutschig! Nachmittags geht es zur Kapelle Notre-Dame-des-Prés und zum Ligier-Richier-Haus. Beenden Sie die Tour am schlammigen Römerlager-Fort.",
+            "hu": "Óvatosan kerékpározzon az esős reggelen a Colson-Blaise oromzattól a száraz Bencés Könyvtárig. Délben a nedves utcákon át tekerjen a Király Házához és a mészkősziklákhoz – vigyázzon a csúszós pedálokra! A délutáni útvonal a Notre-Dame-des-Prés kápolnához és a Ligier Richier Házhoz vezet. Zárja a napot sárban, az egykori római tábor erődjénél.",
+            "ro": "Pedalați cu prudență în această dimineață ploioasă de la frontonul Colson-Blaise până la Biblioteca Benedictină. La prânz, navigați pe străzile ude pe lângă Casa Regelui până la Stâncile din Saint-Mihiel – atenție la pedalele alunecoase! După-amiaza duce la capela adăpostită și la Casa Ligier Richier. Terminați la fortul noroios purtând echipament impermeabil.",
+            "en": "Cycle cautiously this rainy morning from the Colson-Blaise facade to the dry sanctuary of the Benedictine Library. At noon, navigate wet streets past the King's House to the impressive Saint-Mihiel Rocks—beware of slippery pedals. The afternoon route leads to the sheltered Notre-Dame-des-Prés Chapel and Ligier Richier House. Finish at the muddy Fort des Römerlagers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Giebel des Quartiers Colson-Blaise",
+                "hu": "Quartier Colson-Blaise Oromzata",
+                "ro": "Frontonul Cartierului Colson-Blaise",
+                "en": "Fronton du Quartier Colson-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Regen, um die Architektur zu bewundern, bevor Sie mit dem Rad vorsichtig zur überdachten Bibliothek weiterfahren.",
+                "hu": "Gyors megálló az esőben az építészet megcsodálására, mielőtt óvatosan továbbtekerne a csúszós macskaköveken a fedett könyvtár felé.",
+                "ro": "O scurtă oprire în ploaie pentru a admira arhitectura, înainte de a pedala cu mare atenție pe pavajul alunecos spre biblioteca acoperită.",
+                "en": "A quick outdoor stop in the rain to admire the architecture before carefully cycling over the slick, wet pavement to the sheltered library."
+              }
+            },
+            {
+              "name": {
+                "de": "Benediktinerbibliothek",
+                "hu": "Bencés Könyvtár",
+                "ro": "Biblioteca Benedictină",
+                "en": "Benedictine Library"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr nasses Fahrrad sicher ab und tauchen Sie in die trockene, faszinierende Welt der historischen Bücher und Manuskripte ein.",
+                "hu": "Zárja le vizes kerékpárját, és merüljön el a száraz, lenyűgöző beltéri világban, tele történelmi könyvekkel és ritka kéziratokkal.",
+                "ro": "Parcați bicicleta udă în siguranță și scufundați-vă în lumea uscată și interioară fascinantă a cărților și manuscriselor istorice.",
+                "en": "Lock up your wet bicycle securely and dive into the perfectly dry, fascinating indoor world of ancient historic books and manuscripts."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Königs",
+                "hu": "A Király Háza",
+                "ro": "Casa Regelui",
+                "en": "Maison du Roi"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Gebäude direkt vom Sattel aus; achten Sie auf den rutschigen Straßenbelag beim Bremsen in der Nässe.",
+                "hu": "Tekintse meg ezt a történelmi épületet egyenesen a nyeregből; a nedves, esős időben nagyon ügyeljen a csúszós útfelületre fékezéskor.",
+                "ro": "Priviți această clădire istorică direct din șa; aveți mare grijă la suprafața alunecoasă a drumului atunci când frânați pe timp de ploaie.",
+                "en": "View this historical building directly from your saddle; be extremely cautious of the highly slippery road surface when braking in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Felsen von Saint-Mihiel",
+                "hu": "Saint-Mihiel Sziklái",
+                "ro": "Stâncile din Saint-Mihiel",
+                "en": "The Rocks of Saint-Mihiel"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Fahrrad auf den schlammigen Wegen zu den Felsen, da nasses Laub und Schlamm das Fahren hier gefährlich rutschig machen.",
+                "hu": "Inkább tolja a kerékpárt a sziklákhoz vezető saras ösvényeken, mivel a nedves falevelek és a sár nagyon csúszóssá és veszélyessé teszik az utat.",
+                "ro": "Împingeți bicicleta pe potecile noroioase spre stânci, deoarece frunzele ude și noroiul fac mersul pe două roți extrem de alunecos și periculos.",
+                "en": "Walk your bike on the muddy trails leading to the rocks, as wet leaves and thick mud make cycling here dangerously slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-des-Prés",
+                "hu": "Notre-Dame-des-Prés Kápolna",
+                "ro": "Capela Notre-Dame-des-Prés",
+                "en": "Chapelle Notre-Dame-des-Prés"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Innere dieser historischen Kapelle bietet eine äußerst willkommene und trockene Flucht vor den heftigen Regengüssen draußen.",
+                "hu": "Ennek a történelmi kápolnának a békés, száraz belső tere rendkívül kellemes menedéket nyújt a kinti heves, megszakítás nélküli esőzések elől.",
+                "ro": "Interiorul senin și uscat al acestei capele istorice oferă o evadare extrem de binevenită din ploile torențiale și reci de afară.",
+                "en": "The serene and dry interior of this historic chapel offers a highly welcome, sheltered escape from the heavy downpours pouring outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ligier-Richier-Haus",
+                "hu": "Ligier Richier Ház",
+                "ro": "Casa Ligier Richier",
+                "en": "Ligier Richier House"
+              },
+              "tip_5lang": {
+                "de": "Wärmen und trocknen Sie sich im gut geschützten Haus auf, während Sie spannende Details über den großen Bildhauer der Region erfahren.",
+                "hu": "Melegedjen fel és szárítkozzon meg a jól védett házban, miközben izgalmas részleteket tud meg a régió leghíresebb reneszánsz szobrászáról.",
+                "ro": "Încălziți-vă și uscați-vă în casa bine protejată, în timp ce aflați detalii fascinante despre cel mai mare sculptor renascentist al regiunii.",
+                "en": "Warm up and dry off completely inside the well-protected house while learning fascinating details about the region's greatest sculptor."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort des Römerlagers",
+                "hu": "Camp des Romains Erőd",
+                "ro": "Fortul Camp des Romains",
+                "en": "Fort du Camp des Romains"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind bei Nässe extrem rutschig; parken Sie das Rad sicher und tragen Sie schwere, wasserfeste Stiefel für die Erkundung.",
+                "hu": "A romok nedvesen rendkívül csúszósak; parkolja le biztonságosan a biciklit, és viseljen vastag, vízálló bakancsot a gyalogos felfedezéshez.",
+                "ro": "Ruinele sunt extrem de alunecoase când sunt ude; parcați bicicleta în siguranță și purtați bocanci grei impermeabili pentru explorare.",
+                "en": "The ruins are extremely slippery when wet; safely park your bike nearby and wear heavy-duty waterproof boots for your walking exploration."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Tragen Sie winddichte Kleidung für die frostige Morgenfahrt zur Fassade von Colson-Blaise und zur warmen Bibliothek. Mittags radeln Sie flott zum Haus des Königs und zu den Felsen im Winterlicht. Wärmen Sie sich nachmittags in der Kapelle Notre-Dame-des-Prés und im Ligier-Richier-Haus auf. Beenden Sie die Fahrt am Fort des Römerlagers vor dem Sonnenuntergang.",
+            "hu": "Viseljen szélálló rétegeket a fagyos reggeli bringázáshoz a Colson-Blaise oromzathoz és a meleg Bencés Könyvtárhoz. Délben frissítő tekerés vár a Király Házához és a mészkősziklákhoz. Délután melegedjen fel a Notre-Dame-des-Prés kápolnában és a Ligier Richier Házban. A napot a nyitott római tábor erődjénél zárja, még a 17 óra körüli naplemente előtt.",
+            "ro": "Purtați straturi rezistente la vânt pentru o plimbare matinală geroasă spre frontonul Colson-Blaise și biblioteca caldă. La prânz pedalați vioi spre Casa Regelui și Stâncile din Saint-Mihiel. Încălziți-vă în Capela Notre-Dame-des-Prés și în Casa Ligier Richier după-amiaza. Încheiați la Fortul expus al Romanilor înainte de apusul soarelui în jurul orei 17:00.",
+            "en": "Dress in windproof layers for a frosty morning ride to the Colson-Blaise facade and the warm Benedictine Library. Midday brings a brisk pedal to the King's House and the magnificent winter-lit Saint-Mihiel Rocks. Warm up in the Notre-Dame-des-Prés Chapel and Ligier Richier House in the afternoon. End your ride at the exposed Fort before the sun sets around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Giebel des Quartiers Colson-Blaise",
+                "hu": "Quartier Colson-Blaise Oromzata",
+                "ro": "Frontonul Cartierului Colson-Blaise",
+                "en": "Fronton du Quartier Colson-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre dicken Winterhandschuhe an, während Sie die frostige Fassade vom Sattel aus kurz auf sich wirken lassen.",
+                "hu": "Tartsa magán a vastag, szélálló téli kerékpáros kesztyűt, miközben a nyeregből röviden megcsodálja a dérrel fedett fagyos homlokzatot.",
+                "ro": "Păstrați-vă mănușile groase de iarnă pe mâini în timp ce admirați scurt fațada înghețată direct din șaua bicicletei dumneavoastră.",
+                "en": "Keep your thick winter cycling gloves securely on while you briefly admire the frosty facade straight from the saddle of your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Benediktinerbibliothek",
+                "hu": "Bencés Könyvtár",
+                "ro": "Biblioteca Benedictină",
+                "en": "Benedictine Library"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Gelegenheit, sich nach der eisigen Fahrt aufzuwärmen und die prachtvollen historischen Bücher in Ruhe zu betrachten.",
+                "hu": "Ideális lehetőség arra, hogy a jeges menetszél után felmelegedjen, és nyugodtan tanulmányozza a lenyűgöző történelmi könyveket.",
+                "ro": "Ocazia ideală pentru a vă încălzi după plimbarea înghețată și a examina în pace cărțile istorice magnifice din interiorul cald.",
+                "en": "The perfect opportunity to warm up your freezing hands after the icy ride and peacefully examine the magnificent historical books."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Königs",
+                "hu": "A Király Háza",
+                "ro": "Casa Regelui",
+                "en": "Maison du Roi"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klaren Linien des Hauses in der frischen Winterluft; achten Sie auf versteckte Eisflächen am Straßenrand.",
+                "hu": "Csodálja meg a ház éles vonalait a friss, ropogós téli levegőben; tekerés közben nagyon figyeljen az út menti rejtett jégfoltokra.",
+                "ro": "Admirați liniile clare ale casei în aerul proaspăt de iarnă; fiți foarte atenți la peticele de gheață ascunse pe marginea drumului.",
+                "en": "Admire the crisp lines of the house in the fresh winter air; pay close attention to any hidden patches of ice along the road edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Felsen von Saint-Mihiel",
+                "hu": "Saint-Mihiel Sziklái",
+                "ro": "Stâncile din Saint-Mihiel",
+                "en": "The Rocks of Saint-Mihiel"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt die Felsen majestätisch wirken, aber gefrorener Schlamm auf den Waldwegen kann für Radfahrer tückisch sein.",
+                "hu": "A lapos téli fények fenségessé teszik a sziklákat, de az erdei ösvényeken lévő keményre fagyott sár rendkívül trükkös a kerékpárosoknak.",
+                "ro": "Lumina de iarnă face stâncile să pară maiestuoase, dar noroiul înghețat de pe potecile de pădure poate fi perfid pentru bicicliști.",
+                "en": "The low winter light makes the rocks look majestic, but hard-frozen mud on the forest trails can be extremely treacherous for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-des-Prés",
+                "hu": "Notre-Dame-des-Prés Kápolna",
+                "ro": "Capela Notre-Dame-des-Prés",
+                "en": "Chapelle Notre-Dame-des-Prés"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in die ruhige Kapelle, um Schutz vor den beißenden Winden zu suchen und den beleuchteten Altar zu bewundern.",
+                "hu": "Lépjen be a csendes kápolnába a csípős, fagyos szelek elől, és csodálja meg a gyönyörű, békés, télies fényben úszó oltárt.",
+                "ro": "Pășiți în capela liniștită pentru a vă adăposti de vânturile aspre și înghețate și a admira altarul său frumos luminat.",
+                "en": "Step inside the quiet chapel to seek shelter from the biting, freezing winds and admire its beautiful, winter-lit peaceful altar."
+              }
+            },
+            {
+              "name": {
+                "de": "Ligier-Richier-Haus",
+                "hu": "Ligier Richier Ház",
+                "ro": "Casa Ligier Richier",
+                "en": "Ligier Richier House"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den späten, kalten Nachmittag im wohlig warmen Haus und tauchen Sie in die Geschichte des Bildhauers ein.",
+                "hu": "Töltse a késői, egyre hidegebb délutánt a kellemesen meleg házban, és merüljön el a híres reneszánsz szobrász lenyűgöző történetében.",
+                "ro": "Petreceți după-amiaza târzie și rece în casa plăcut încălzită și cufundați-vă profund în istoria faimosului sculptor renascentist.",
+                "en": "Spend the late, dropping-temperature afternoon in the comfortably warm house and fully immerse yourself in the sculptor's history."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort des Römerlagers",
+                "hu": "Camp des Romains Erőd",
+                "ro": "Fortul Camp des Romains",
+                "en": "Fort du Camp des Romains"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das stark windige Fort unbedingt vor 16:30 Uhr, da es hier oben eisig ist und die Dunkelheit im Winter sehr früh hereinbricht.",
+                "hu": "Fedezze fel az erősen szeles erődöt mindenképp 16:30 előtt, mivel idefent jeges a levegő, és télen a sötétség nagyon korán leszáll.",
+                "ro": "Explorați fortul foarte vântos neapărat înainte de 16:30, deoarece aici sus este înghețat și întunericul de iarnă se lasă foarte devreme.",
+                "en": "Make sure to explore the highly exposed fort before 4:30 PM, as the winds here are freezing and winter darkness falls extremely early."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Kezdje a vezetést a Bencés Könyvtárnál, majd álljon meg a Maison du Roi lenyűgöző épületénél. Délben egy rövid autóút viszi a Saint-Mihiel-i sziklák természeti csodáihoz. Délután kényelmesen elgurulhat a békés Chapelle Notre-Dame-des-Prés és az ikonikus Ligier Richier ház felé. Fejezze be a napot egy festői autózással a Camp des Romains erődhöz.",
         "ro": "Începeți plimbarea cu mașina la Biblioteca Benedictină înainte de a opri la Maison du Roi. La prânz faceți o scurtă călătorie până la minunile naturale ale stâncilor Saint-Mihiel. După-amiaza, conduceți liniștit spre Chapelle Notre-Dame-des-Prés și iconica Casă Ligier Richier. Încheiați cu o plimbare pitorească până la impresionantul Fort Camp des Romains.",
         "en": "Begin your drive at the historic Benedictine Library to soak in centuries of knowledge before stopping by the striking Maison du Roi. Midday takes you a short drive up to the natural wonders of the Rocks of Saint-Mihiel for a refreshing hike. In the afternoon, cruise easily to the peaceful Chapelle Notre-Dame-des-Prés and the iconic Ligier Richier House. Conclude with a scenic drive to the impressive Fort du Camp des Romains."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den Morgenregen zur Benediktinerbibliothek, einem perfekten Zufluchtsort. Mittags betrachten Sie das Haus des Königs unter einem Regenschirm und erkunden die nassen Felsen von Saint-Mihiel. Die Nachmittagsschauer verbringen Sie am besten in der Kapelle Notre-Dame-des-Prés und im Ligier-Richier-Haus. Endstation sind die schlammigen Fortruinen.",
+            "hu": "Vezessen kényelmesen a reggeli esőben a Bencés Könyvtárhoz, amely tökéletes beltéri menedék. Délben esernyő alól nézze meg a Király Házát, majd óvatosan járja be a mészkősziklák nedves ösvényeit. A délutáni záporokat a békés Notre-Dame-des-Prés kápolnában és a Ligier Richier Házban érdemes átvészelni. Fejezze be az utat a sáros erődromoknál.",
+            "ro": "Conduceți confortabil prin ploaia matinală până la Biblioteca Benedictină, o evadare perfectă în interior. La prânz, priviți Casa Regelui sub o umbrelă, apoi explorați traseele ude la Stâncile din Saint-Mihiel. Ploile de după-amiază sunt cel mai bine petrecute în capela pașnică și în Casa Ligier Richier. Terminați la ruinele noroioase ale fortului.",
+            "en": "Drive comfortably through the morning rain to the Benedictine Library, a perfect indoor escape. By noon, view the King's House under an umbrella, then carefully navigate the wet trails at the Saint-Mihiel Rocks. The afternoon showers are best spent inside the peaceful Notre-Dame-des-Prés Chapel and the historic Ligier Richier House. Finish at the muddy Fort ruins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Benediktinerbibliothek",
+                "hu": "Bencés Könyvtár",
+                "ro": "Biblioteca Benedictină",
+                "en": "Benedictine Library"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und flüchten Sie aus dem Auto direkt in diese faszinierende, komplett trockene historische Bibliothekswelt.",
+                "hu": "Parkoljon le a közelben, és meneküljön a fűtött autóból egyenesen ebbe a lenyűgöző, teljesen száraz történelmi könyvtári világba.",
+                "ro": "Parcați în apropiere și evadați din mașină direct în această lume istorică fascinantă și complet uscată a bibliotecii benedictine.",
+                "en": "Park nearby and escape directly from your car into this fascinating, completely dry and sheltered historical library environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Königs",
+                "hu": "A Király Háza",
+                "ro": "Casa Regelui",
+                "en": "Maison du Roi"
+              },
+              "tip_5lang": {
+                "de": "Sie können die architektonischen Details bei starkem Regen sogar bequem und trocken durch das Autofenster im Vorbeifahren bewundern.",
+                "hu": "A lenyűgöző építészeti részleteket szakadó esőben akár kényelmesen és szárazon, a lehúzott autóablakon keresztül is megcsodálhatja.",
+                "ro": "Puteți admira detaliile arhitecturale confortabil și uscat prin geamul mașinii dacă plouă foarte tare în timpul trecerii dumneavoastră.",
+                "en": "You can comfortably and drily admire the stunning architectural details right through your car window if the rain is falling too heavily."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Felsen von Saint-Mihiel",
+                "hu": "Saint-Mihiel Sziklái",
+                "ro": "Stâncile din Saint-Mihiel",
+                "en": "The Rocks of Saint-Mihiel"
+              },
+              "tip_5lang": {
+                "de": "Wechseln Sie im Kofferraum unbedingt in feste Regenstiefel; die unbefestigten Wege zu den Felsen sind bei Nässe sehr schlammig.",
+                "hu": "A csomagtartónál mindenképp váltson vastag gumicsizmára; a sziklákhoz vezető kiépítetlen ösvények nedvesen rendkívül sarasak.",
+                "ro": "Asigurați-vă că vă schimbați în cizme de ploaie la portbagaj; potecile neasfaltate spre stânci devin foarte noroioase când este ud.",
+                "en": "Make absolutely sure to change into rain boots at your trunk; the unpaved paths leading to the rocks become incredibly muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-des-Prés",
+                "hu": "Notre-Dame-des-Prés Kápolna",
+                "ro": "Capela Notre-Dame-des-Prés",
+                "en": "Chapelle Notre-Dame-des-Prés"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Zwischenstopp auf Ihrer Fahrt, um sich bei einem plötzlichen Regenschauer in stiller, trockener Atmosphäre zu entspannen.",
+                "hu": "Kiváló megálló az autós útvonalon, ahol egy hirtelen jött délutáni zápor elől békés, száraz és nyugodt atmoszférában pihenhet meg.",
+                "ro": "O oprire excelentă pe traseul auto pentru a vă relaxa într-o atmosferă liniștită și uscată în timpul unui duș brusc de ploaie.",
+                "en": "An excellent stop on your drive to thoroughly relax in a peaceful, completely dry atmosphere during a sudden, heavy afternoon rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Ligier-Richier-Haus",
+                "hu": "Ligier Richier Ház",
+                "ro": "Casa Ligier Richier",
+                "en": "Ligier Richier House"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen ausführlichen Indoor-Besuch, um den Regen draußen zu vergessen und die lokale Kunstgeschichte zu genießen.",
+                "hu": "Használja ki ezt a hosszabb beltéri látogatást, hogy teljesen elfelejtse a kinti esőt, és élvezze a helyi reneszánsz művészettörténetet.",
+                "ro": "Profitați de această vizită interioară extinsă pentru a uita de ploaia de afară și a vă bucura de istoria artei locale în confort.",
+                "en": "Take full advantage of this extended indoor visit to completely forget the relentless rain outside and enjoy the local art history."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort des Römerlagers",
+                "hu": "Camp des Romains Erőd",
+                "ro": "Fortul Camp des Romains",
+                "en": "Fort du Camp des Romains"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem schlammigen Parkplatz und tragen Sie robuste, wasserfeste Kleidung für die Besichtigung der nassen Ruinen.",
+                "hu": "Vezessen nagyon óvatosan a saras, felázott parkolóban, és viseljen strapabíró, vízálló ruházatot a nedves erődromok megtekintéséhez.",
+                "ro": "Conduceți cu mare atenție în parcarea noroioasă și purtați îmbrăcăminte robustă și impermeabilă pentru a vizita ruinele ude ale fortului.",
+                "en": "Drive extremely carefully in the muddy parking area and wear robust, fully waterproof clothing to safely visit the wet, slippery ruins."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Verlassen Sie sich an einem kalten Wintermorgen auf die Heizung Ihres Autos, während Sie zur Benediktinerbibliothek fahren. Mittags packen Sie sich dick ein für Fotos vom Haus des Königs und den frostigen Felsen von Saint-Mihiel. Verbringen Sie den kühlen Nachmittag in der Kapelle Notre-Dame-des-Prés und im Ligier-Richier-Haus. Besuchen Sie das Fort vor 17 Uhr.",
+            "hu": "Támaszkodjon az autó fűtésére a hideg téli reggelen, miközben a történelmi Bencés Könyvtárhoz vezet. Délben öltözzön fel melegen a Király Háza fotózásához, majd járja be a mészkősziklák fagyos ösvényeit. A csípős délutánt melegedéssel töltse a Notre-Dame-des-Prés kápolnában és a Ligier Richier Házban. Keresse fel a lenyűgöző erődöt még a 17 órás sötétedés előtt.",
+            "ro": "Bazați-vă pe încălzirea mașinii în timp ce conduceți spre Biblioteca Benedictină într-o dimineață rece de iarnă. La prânz, înfofoliți-vă pentru a fotografia Casa Regelui înainte de a merge pe traseele înghețate ale Stâncilor. Petreceți după-amiaza rece încălzindu-vă în capelă și în Casa Ligier Richier. Vizitați fortul impunător înainte să se întunece în jurul orei 17:00.",
+            "en": "Rely on your car's heater as you drive to the historic Benedictine Library on a cold winter morning. At noon, bundle up to snap photos of the King's House before walking the frosty trails of the Saint-Mihiel Rocks. Spend the chilly afternoon warming up inside the Notre-Dame-des-Prés Chapel and Ligier Richier House. Visit the imposing Fort before it gets dark around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Benediktinerbibliothek",
+                "hu": "Bencés Könyvtár",
+                "ro": "Biblioteca Benedictină",
+                "en": "Benedictine Library"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der frostigen Morgenluft auf dem kurzen Weg vom Parkplatz und den angenehm beheizten Lesesälen.",
+                "hu": "Élvezze a kontrasztot a fagyos, csípős reggeli levegő (a parkolóból jövet) és az épület kellemesen fűtött, csendes olvasótermei között.",
+                "ro": "Bucurați-vă de contrastul uriaș dintre aerul înghețat al dimineții pe scurtul drum din parcare și sălile de lectură plăcut încălzite.",
+                "en": "Enjoy the sharp contrast between the freezing morning air on the short walk from your parked car and the pleasantly heated reading rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus des Königs",
+                "hu": "A Király Háza",
+                "ro": "Casa Regelui",
+                "en": "Maison du Roi"
+              },
+              "tip_5lang": {
+                "de": "Das Aufheizen des Autos macht kurze, eiskalte Fotostopps an solch markanten historischen Gebäuden im Winter sehr viel erträglicher.",
+                "hu": "Az autó kiváló fűtése sokkal elviselhetőbbé teszi az ilyen rövid, jéghideg fotómegállókat ezeknél a feltűnő történelmi épületeknél.",
+                "ro": "Încălzirea mașinii face ca opririle scurte și înghețate pentru fotografii la clădiri istorice atât de izbitoare să fie mult mai tolerabile.",
+                "en": "Your car's heater makes short, freezing-cold outdoor photo stops at such striking historical buildings much more comfortable and tolerable."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Felsen von Saint-Mihiel",
+                "hu": "Saint-Mihiel Sziklái",
+                "ro": "Stâncile din Saint-Mihiel",
+                "en": "The Rocks of Saint-Mihiel"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich am Auto dicke Schichten an; der frostige Wind um diese massiven Steinformationen kann im Winter extrem beißend sein.",
+                "hu": "Az autónál vegyen fel extra vastag rétegeket; ezek körül a masszív kőalakzatok körül a fagyos szél télen rendkívül csípős tud lenni.",
+                "ro": "Puneți-vă straturi groase la mașină; vântul înghețat din jurul acestor formațiuni masive de piatră poate fi extrem de mușcător iarna.",
+                "en": "Put on extra thick layers at your car; the freezing winter wind whipping around these massive stone formations can be extremely biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame-des-Prés",
+                "hu": "Notre-Dame-des-Prés Kápolna",
+                "ro": "Capela Notre-Dame-des-Prés",
+                "en": "Chapelle Notre-Dame-des-Prés"
+              },
+              "tip_5lang": {
+                "de": "Eine friedliche Aufwärmpause auf Ihrer Autoroute, bevor Sie in die winterliche Kälte für den restlichen Nachmittag zurückkehren.",
+                "hu": "Békés, nyugodt felmelegedési szünet az autós útvonalán, mielőtt visszatérne a kinti zord téli hidegbe a délután hátralévő részére.",
+                "ro": "O pauză pașnică de încălzire pe traseul dumneavoastră auto înainte de a vă întoarce în frigul aspru al iernii pentru restul după-amiezii.",
+                "en": "A highly peaceful warm-up break on your driving route before you have to return to the harsh winter cold for the rest of the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Ligier-Richier-Haus",
+                "hu": "Ligier Richier Ház",
+                "ro": "Casa Ligier Richier",
+                "en": "Ligier Richier House"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die kältesten Nachmittagsstunden im warmen Inneren und erkunden Sie die faszinierende Welt der Renaissance-Skulpturen.",
+                "hu": "Töltse a leghidegebb, sötétedő délutáni órákat a meleg belső térben, és fedezze fel a reneszánsz szobrok lenyűgöző történelmi világát.",
+                "ro": "Petreceți cele mai reci ore ale după-amiezii în interiorul cald și explorați lumea fascinantă și istorică a sculpturilor renascentiste.",
+                "en": "Spend the absolute coldest afternoon hours safely inside the warm interior while deeply exploring the fascinating world of Renaissance sculpture."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort des Römerlagers",
+                "hu": "Camp des Romains Erőd",
+                "ro": "Fortul Camp des Romains",
+                "en": "Fort du Camp des Romains"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie rechtzeitig vor 16:30 Uhr hinauf, um das riesige Gelände noch bei Tageslicht zu sehen, bevor die frostige Dunkelheit hereinbricht.",
+                "hu": "Feltétlenül hajtson fel időben, még 16:30 előtt, hogy a hatalmas területet nappali fényben lássa, mielőtt a fagyos sötétség korán leszáll.",
+                "ro": "Conduceți sus la timp, înainte de ora 16:30, pentru a vedea situl masiv la lumina zilei înainte să se lase întunericul înghețat al iernii.",
+                "en": "Make absolutely sure to drive up before 4:30 PM to see the massive site in daylight before the freezing, pitch-black winter night falls."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A reggel a történelmi központban indul a Saint-Symphorien templom és a közeli szemafor meglátogatásával, amely szép folyami kilátást nyújt. Délben a lenyűgöző Ólomtoronyhoz érkezik, az ipari múlt igazi tanújához. Délután a békés Église Notre-Dame szentélyét fedezi fel. Az este a Chapelle de Beaulieu-nél fejeződik be kellemes hangulatban.",
         "ro": "Dimineața dumneavoastră începe în centrul istoric cu vizite la Biserica Saint-Symphorien și semaforul din apropiere. La prânz ajungeți la impunătorul Turn de Plumb, un adevărat testament al trecutului industrial. După-amiaza, veți explora pașnica Biserică Notre-Dame. Seara se încheie liniștit la istorica și fermecătoarea capelă Beaulieu.",
         "en": "Your morning starts in the historic center with visits to the serene Saint-Symphorien Church and the nearby semaphore, offering lovely river vistas. Midday brings you to the imposing Lead Tower, a true testament to the industrial past. In the afternoon, you will explore the peaceful Église Notre-Dame. The evening concludes gently at the Chapelle de Beaulieu."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz in der Kirche Saint-Symphorien. Mittags führt der Weg am Fluss entlang zum Bleiturm, wobei Regenschutz unerlässlich ist. Am Nachmittag besuchen wir weitere sakrale Bauten, die trockene Rückzugsorte bieten. Abends endet der Spaziergang an der Chapelle de Beaulieu, während der Regen auf die historischen Steine trommelt und eine mystische Atmosphäre schafft.",
+            "hu": "Reggel a Saint-Symphorien templomban kezdünk, amely kiváló menedék az eső elől. Délben a folyóparti séta során az esernyő kötelező, miközben az Ólomtorony felé haladunk. Délután a szakrális terek belső értékeit fedezzük fel, védve a széltől. Este a Beaulieu kápolnánál zárjuk a napot, ahol a vizes aszfalton megcsillanó fények különleges hangulatot árasztanak a szemerkélő esőben.",
+            "ro": "Dimineața ne adăpostim în biserica Saint-Symphorien pentru a evita ploaia. La prânz, plimbarea pe malul râului spre Turnul de Plumb necesită o umbrelă rezistentă. După-amiaza explorăm interiorul lăcașurilor de cult, spații uscate și liniștite. Seara se încheie la Capela de Beaulieu, unde sunetul ploii pe acoperișul vechi creează o ambianță melancolică și autentică de neuitat.",
+            "en": "In the morning, find shelter in Saint-Symphorien Church to avoid the initial drizzle. By noon, the riverside walk to the Lead Tower demands a sturdy umbrella and waterproof shoes. Afternoon is spent exploring indoor religious sites, offering a dry refuge from the grey skies. The evening concludes at the Chapelle de Beaulieu, where the rain adds a reflective, poetic touch to the old stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Symphorien",
+                "hu": "Saint-Symphorien Templom",
+                "ro": "Biserica Saint-Symphorien",
+                "en": "Saint-Symphorien Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenausstattung, während es draußen regnet, und nutzen Sie das Portal als trockenen Treffpunkt vor dem nächsten Abschnitt.",
+                "hu": "Csodálja meg a belső teret, amíg kint esik, és használja a bejáratot száraz találkozási pontként a következő szakasz megkezdése előtt.",
+                "ro": "Admirați detaliile interioare în timp ce afară plouă și folosiți portalul ca punct de întâlnire uscat înainte de a porni spre următoarea oprire.",
+                "en": "Admire the detailed interior while it rains outside and use the church porch as a dry meeting point before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Sémaphore de l’Île de la Liberté",
+                "hu": "Sémaphore de l’Île de la Liberté",
+                "ro": "Semaforul Insulei Libertății",
+                "en": "Sémaphore de l’Île de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die Loire ist bei Regen dramatisch, aber achten Sie auf den rutschigen Boden am Ufer; feste Regenstiefel sind hier sehr ratsam.",
+                "hu": "A Loire látványa esőben is lenyűgöző, de ügyeljen a csúszós partmenti talajra; a vízálló bakancs viselése itt kifejezetten ajánlott.",
+                "ro": "Vederea spre Loara este dramatică pe ploaie, dar atenție la solul alunecos de pe mal; cizmele de cauciuc sunt foarte utile în această zonă.",
+                "en": "The view of the Loire is dramatic in the rain, but watch out for slippery ground near the bank; waterproof boots are highly recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleiturm (Tour à Plomb)",
+                "hu": "Ólomtorony",
+                "ro": "Turnul de Plumb",
+                "en": "Lead Tower (Tour à Plomb)"
+              },
+              "tip_5lang": {
+                "de": "Dieses Industriedenkmal bietet an seiner Basis etwas Schutz vor vertikalem Regen; betrachten Sie die Architektur unter Ihrem aufgespannten Schirm.",
+                "hu": "Ez az ipari műemlék a tövében némi védelmet nyújt a függőleges eső ellen; csodálja meg az építményt az esernyője biztonságos takarásából.",
+                "ro": "Acest monument industrial oferă puțin adăpost la bază împotriva ploii verticale; observați arhitectura sub protecția umbrelei deschise.",
+                "en": "This industrial monument offers some shelter at its base from vertical rain; observe the architecture from the safety of your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Miséricorde",
+                "hu": "Notre-Dame de Miséricorde Templom",
+                "ro": "Biserica Notre-Dame de Miséricorde",
+                "en": "Église Notre-Dame de Miséricorde"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den ruhigen Innenraum für eine kurze Rast im Trockenen und achten Sie auf die Lichtspiele der Fenster bei bewölktem Himmel.",
+                "hu": "Használja ki a csendes belső teret egy rövid száraz pihenőre, és figyelje meg az ablakok fényjátékát még felhős, szürke időben is.",
+                "ro": "Profitați de interiorul liniștit pentru un scurt popas la uscat și observați jocurile de lumină ale ferestrelor chiar și pe cer noros.",
+                "en": "Take advantage of the quiet interior for a short dry rest and observe the light effects through the windows even under cloudy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de Beaulieu",
+                "hu": "Beaulieu Kápolna",
+                "ro": "Capela de Beaulieu",
+                "en": "Chapelle de Beaulieu"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle wirkt im Regen besonders besinnlich; klopfen Sie Ihre nasse Kleidung vor dem Eintreten vorsichtig ab, um Pfützen zu vermeiden.",
+                "hu": "A kis kápolna esőben különösen meghitt hangulatot áraszt; belépés előtt alaposan rázza le az esernyőjét, hogy elkerülje a tócsákat bent.",
+                "ro": "Mica chapelă pare deosebit de contemplativă în ploaie; scuturați bine hainele ude înainte de a intra pentru a evita formarea bălților.",
+                "en": "The small chapel feels especially contemplative in the rain; shake off your wet gear before entering to avoid creating puddles inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Kirche Saint-Symphorien. Mittags spazieren wir gut eingepackt zum Ufer, wo der Wind vom Fluss her weht. Am Nachmittag besichtigen wir den Bleiturm und die umliegenden historischen Stätten, bevor die Dämmerung früh einsetzt. Gegen 17:00 Uhr erreichen wir die Chapelle de Beaulieu im sanften Licht des Winterabends.",
+            "hu": "A téli reggel friss levegővel fogad a Saint-Symphorien templomnál. Délben melegen felöltözve sétálunk a folyóparton, ahol a szél élénkebb lehet. Délután az Ólomtorony és a környék nevezetességeit látogatjuk meg, ügyelve a korai sötétedésre. 17:00 körül érünk a Beaulieu kápolnához, amikor a téli alkonyat már lassan leszáll a városra.",
+            "ro": "Dimineața de iarnă începe cu aer rece la biserica Saint-Symphorien. La prânz, bine înfofoliți, mergem spre malul Loarei, unde vântul poate fi tăios. După-amiaza vizităm Turnul de Plumb și siturile istorice, profitând de lumina zilei. În jurul orei 17:00, ajungem la Capela de Beaulieu exact când amurgul de iarnă începe să coboare.",
+            "en": "A crisp winter morning starts at Saint-Symphorien Church. By noon, wrapped in warm layers, walk to the riverside where the wind from the Loire is refreshing. Afternoon is for visiting the Lead Tower and historical sites before the light fades. Around 5 PM, conclude at the Chapelle de Beaulieu as the early winter dusk settles over the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Symphorien",
+                "hu": "Saint-Symphorien Templom",
+                "ro": "Biserica Saint-Symphorien",
+                "en": "Saint-Symphorien Church"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Schutz vor dem kalten Morgenwind; bewundern Sie die Architektur in der Stille der kühlen Wintermorgenluft.",
+                "hu": "A belső tér védelmet nyújt a hideg reggeli szél ellen; csodálja meg az építészetet a hűvös téli levegő nyugalmában.",
+                "ro": "Interiorul oferă adăpost împotriva vântului rece de dimineață; admirați arhitectura în liniștea aerului proaspăt de iarnă.",
+                "en": "The interior provides shelter from the cold morning wind; admire the architecture in the quiet of the crisp winter morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Sémaphore de l’Île de la Liberté",
+                "hu": "Sémaphore de l’Île de la Liberté",
+                "ro": "Semaforul Insulei Libertății",
+                "en": "Sémaphore de l’Île de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den gefrorenen oder nebligen Fluss ist magisch; tragen Sie windfeste Kleidung, da es am Ufer im Winter sehr zugig sein kann.",
+                "hu": "A ködös folyó látványa varázslatos; viseljen szélálló ruházatot, mert a part mentén télen kifejezetten metsző lehet a szél.",
+                "ro": "Vederea asupra râului încețoșat este magică; purtați haine rezistente la vânt, deoarece pe mal poate fi foarte curent iarna.",
+                "en": "The view of the misty river is magical; wear windproof clothing as it can be very drafty along the riverbank in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleiturm (Tour à Plomb)",
+                "hu": "Ólomtorony",
+                "ro": "Turnul de Plumb",
+                "en": "Lead Tower (Tour à Plomb)"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Silhouette hebt sich scharf vom grauen Winterhimmel ab; halten Sie Ihre Hände in den Taschen warm, während Sie das Denkmal umrunden.",
+                "hu": "Az ipari sziluett élesen kirajzolódik a szürke téli égen; tartsa melegen a kezét a zsebében, miközben körbejárja ezt a különleges emlékművet.",
+                "ro": "Silueta industrială se profilează clar pe cerul gri de iarnă; țineți mâinile la căldură în buzunare în timp ce înconjurați monumentul.",
+                "en": "The industrial silhouette stands out sharply against the grey winter sky; keep your hands warm in your pockets while walking around the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Miséricorde",
+                "hu": "Notre-Dame de Miséricorde Templom",
+                "ro": "Biserica Notre-Dame de Miséricorde",
+                "en": "Église Notre-Dame de Miséricorde"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe im Inneren, die im Winter fast greifbar ist; ein Schal schützt beim Hinausgehen vor dem Temperaturunterschied.",
+                "hu": "Élvezze a belső nyugalmat, amely télen szinte tapintható; egy sál sokat segít, amikor kilépve újra szembenéz a kinti hideggel.",
+                "ro": "Bucurați-vă de liniștea interioară, aproape palpabilă iarna; un fular vă va proteja de diferența de temperatură la ieșire.",
+                "en": "Enjoy the interior peace, which feels almost tangible in winter; a scarf will protect you from the temperature drop when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de Beaulieu",
+                "hu": "Beaulieu Kápolna",
+                "ro": "Capela de Beaulieu",
+                "en": "Chapelle de Beaulieu"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle vor 17:00 Uhr, um das letzte Tageslicht zu nutzen; die historischen Steine strahlen im Winter eine kühle Eleganz aus.",
+                "hu": "Látogasson el ide 17:00 előtt, hogy kihasználja az utolsó fényeket; a történelmi falak télen hűvös eleganciát sugároznak.",
+                "ro": "Vizitați capela înainte de ora 17:00 pentru a profita de ultima lumină; pietrele istorice emană o eleganță rece în timpul iernii.",
+                "en": "Visit the chapel before 5 PM to catch the last daylight; the historic stones exude a cool, serene elegance during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a biciklis napot a friss levegőn, a gyönyörű Audubon mocsaraknál, mielőtt az elegáns Château de Bougon felé pedálozna. A dél a Saint-Symphorien templom és a Szemafor kilátóinak élvezetével telik. A délutáni tekerés az ikonikus Ólomtoronyhoz vezet. A napot a Beaulieu-tó békés partján pihenve zárhatja naplemente közben.",
         "ro": "Începeți ziua de ciclism respirând aer curat în frumoasele mlaștini Audubon, înainte de a pedala spre elegantul Château de Bougon. Prânzul este petrecut la Biserica Saint-Symphorien și la Semafor. Plimbarea de după-amiază duce la Turnul de Plumb. Încheiați ziua relaxându-vă pe malurile pașnice ale lacului Beaulieu la apus.",
         "en": "Kick off your cycling day breathing fresh air at the beautiful Audubon Marshes before pedaling towards the elegant Château de Bougon. Midday is spent reflecting at Saint-Symphorien Church and enjoying views from the Semaphore. Afternoon riding leads to the iconic Lead Tower. Wrap up your day relaxing by the peaceful shores of Beaulieu Lake at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt in den Audubon-Sümpfen, wo Vorsicht auf matschigen Wegen geboten ist. Mittags erreichen wir das Château de Bougon, das unter grauen Wolken imposant wirkt. Nachmittags bieten Kirchen und der Bleiturm willkommene Pausen im Trockenen. Den Abschluss bildet der Beaulieu-See, dessen Oberfläche im Regen unzählige Kreise zieht, bevor wir die Tour beenden.",
+            "hu": "A kerékpártúra az Audubon mocsaraknál indul, ahol vigyázni kell a sáros utakon. Délben érjük el a Bougon kastélyt, amely a szürke felhők alatt is méltóságteljes. Délután a templomok és az Ólomtorony nyújtanak száraz pihenőt. A napot a Beaulieu-tónál zárjuk, ahol az esőcseppek végtelen köröket rajzolnak a vízfelszínre.",
+            "ro": "Turul cu bicicleta începe în mlaștinile Audubon, unde prudența este cheia pe potecile noroioase. La prânz ajungem la Castelul Bougon, impunător sub norii cenușii. După-amiaza, bisericile și Turnul de Plumb oferă pauze binevenite la adăpost. Încheiem la Lacul Beaulieu, unde suprafața apei este punctată de nenumărate picături de ploaie.",
+            "en": "The bike tour starts at Audubon Marshes, where caution is needed on muddy paths. By noon, reach Château de Bougon, looking imposing under grey clouds. Afternoon stops at churches and the Lead Tower provide welcome dry breaks. The day ends at Beaulieu Lake, its surface rippling with rain, creating a serene atmosphere before heading back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Audubon-Sümpfe",
+                "hu": "Audubon Mocsarak",
+                "ro": "Mlaștinile Audubon",
+                "en": "Audubon Marshes"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können sehr rutschig sein; fahren Sie langsam und tragen Sie wasserfeste Kleidung, um die mystische Sumpflandschaft zu genießen.",
+                "hu": "Az utak nagyon csúszósak lehetnek; tekerjen lassan és viseljen vízálló ruhát, hogy élvezhesse a mocsár misztikus látványát.",
+                "ro": "Potecile pot fi foarte alunecoase; pedalați încet și purtați haine impermeabile pentru a vă bucura de peisajul mistic al mlaștinii.",
+                "en": "The paths can be very slippery; ride slowly and wear waterproof gear to enjoy the mystical marsh landscape safely in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bougon",
+                "hu": "Bougon Kastély",
+                "ro": "Castelul Bougon",
+                "en": "Château de Bougon"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Bäume im Park als natürlichen Regenschutz und bewundern Sie das Schloss von einem trockenen Standpunkt aus.",
+                "hu": "Használja a park fáit természetes esővédőként, és csodálja meg a kastély homlokzatát egy szárazabb pontról várakozva.",
+                "ro": "Folosiți copacii din parc ca adăpost natural împotriva ploii și admirați castelul dintr-un punct de observație mai uscat.",
+                "en": "Use the park's trees as natural rain cover and admire the castle's facade from a drier vantage point while taking a breather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Symphorien",
+                "hu": "Saint-Symphorien Templom",
+                "ro": "Biserica Saint-Symphorien",
+                "en": "Saint-Symphorien Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter einem Vordach ab und wärmen Sie sich im Inneren der Kirche auf, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Parkolja le kerékpárját egy előtető alatt, és melegedjen fel a templom belsejében, mielőtt folytatná a vizes úton a túrát.",
+                "ro": "Parcați bicicleta sub un acoperiș și încălziți-vă în interiorul bisericii înainte de a continua drumul pe asfaltul ud.",
+                "en": "Park your bike under a canopy and warm up inside the church before continuing your journey on the wet roads ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Sémaphore de l’Île de la Liberté",
+                "hu": "Sémaphore de l’Île de la Liberté",
+                "ro": "Semaforul Insulei Libertății",
+                "en": "Sémaphore de l’Île de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf starken Seitenwind am Flussufer; halten Sie den Lenker fest und genießen Sie kurz den dramatischen Blick auf die Loire.",
+                "hu": "Ügyeljen az erős oldalszélre a folyóparton; tartsa erősen a kormányt, és vessen egy rövid, drámai pillantást a szürke folyóra.",
+                "ro": "Atenție la vântul lateral puternic de pe malul râului; țineți bine ghidonul și bucurați-vă scurt de vederea dramatică asupra Loarei.",
+                "en": "Watch out for strong crosswinds along the riverbank; keep a firm grip on the handlebars and enjoy the dramatic grey river view."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleiturm (Tour à Plomb)",
+                "hu": "Ólomtorony",
+                "ro": "Turnul de Plumb",
+                "en": "Lead Tower (Tour à Plomb)"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet an seiner Basis Schutz vor Wind; nutzen Sie diesen Moment, um Ihre Brille oder Ausrüstung kurz trocken zu wischen.",
+                "hu": "A torony tövében némi szélvédett helyet találhat; használja ki ezt a pillanatot a szemüvege vagy a felszerelése áttörlésére.",
+                "ro": "Turnul oferă un loc ferit de vânt la bază; profitați de acest moment pentru a vă șterge ochelarii sau echipamentul ud.",
+                "en": "The tower base offers some wind protection; use this moment to wipe your glasses or gear dry before the final stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaulieu-See",
+                "hu": "Beaulieu-tó",
+                "ro": "Lacul Beaulieu",
+                "en": "Beaulieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Der See ist im Regen sehr friedlich; beenden Sie die Tour zügig, um bald wieder ins Trockene zu kommen und sich aufzuwärmen.",
+                "hu": "A tó esőben nagyon békés látvány; fejezze be gyorsan a túrát, hogy mielőbb száraz helyre érjen és felmelegedhessen.",
+                "ro": "Lacul este foarte liniștit pe ploaie; încheiați turul rapid pentru a ajunge curând la adăpost și a vă putea încălzi.",
+                "en": "The lake is very peaceful in the rain; conclude your tour efficiently so you can get back to a dry place and warm up soon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen radeln wir durch die Audubon-Sümpfe, wo der Frost die Gräser glitzern lässt. Mittags machen wir Halt am Château de Bougon, um die frische Luft zu genießen. Nachmittags besuchen wir die kulturellen Highlights im Zentrum, während die Sonne tief steht. Die Tour endet am Beaulieu-See pünktlich zum Sonnenuntergang um 17:00 Uhr, wenn die Kälte spürbar zunimmt.",
+            "hu": "Tiszta téli reggelen indulunk az Audubon mocsarakhoz, ahol a dér csillog a nádasokon. Délben megállunk a Bougon kastélynál, élvezve a friss, csípős levegőt. Délután a központ kulturális látnivalóit keressük fel az alacsonyan járó nap fényében. A túra 17:00 körül a Beaulieu-tónál ér véget, pontosan naplementekor, amikor a hideg már fokozódik.",
+            "ro": "Într-o dimineață senină de iarnă, pedalăm prin mlaștinile Audubon, unde chiciura strălucește pe iarbă. La prânz oprim la Castelul Bougon pentru a savura aerul curat. După-amiaza vizităm punctele culturale din centru în lumina joasă a soarelui. Turul se încheie la Lacul Beaulieu la apus, în jur de ora 17:00, când frigul devine mai pătrunzător.",
+            "en": "On a clear winter morning, cycle through Audubon Marshes where frost makes the reeds sparkle. By noon, stop at Château de Bougon to enjoy the crisp air. Afternoon is for exploring central cultural highlights in the low winter sun. The tour concludes at Beaulieu Lake right at sunset around 5 PM, just as the evening chill starts to intensify."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Audubon-Sümpfe",
+                "hu": "Audubon Mocsarak",
+                "ro": "Mlaștinile Audubon",
+                "en": "Audubon Marshes"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Landschaft ist wunderschön, aber Vorsicht vor vereisten Stellen auf den Radwegen; tragen Sie unbedingt warme Handschuhe.",
+                "hu": "A deres táj gyönyörű, de vigyázzon a kerékpárutak jeges foltjaira; a meleg kesztyű viselése elengedhetetlen a kormányzáshoz.",
+                "ro": "Peisajul înghețat este superb, dar atenție la porțiunile cu gheață de pe pistele de biciclete; purtați neapărat mănuși groase.",
+                "en": "The frosty landscape is beautiful, but beware of icy patches on the cycle paths; wearing warm gloves is essential for safe handling."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bougon",
+                "hu": "Bougon Kastély",
+                "ro": "Castelul Bougon",
+                "en": "Château de Bougon"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im klaren Winterlicht besonders scharf konturiert; nutzen Sie die Bewegung, um Ihren Körper auf Betriebstemperatur zu halten.",
+                "hu": "A kastély éles kontúrokkal jelenik meg a tiszta téli fényben; a folyamatos mozgás segít fenntartani a testhőmérsékletét a hidegben.",
+                "ro": "Castelul apare cu contururi clare în lumina pură de iarnă; mișcarea continuă vă va ajuta să vă mențineți temperatura corpului.",
+                "en": "The castle appears with sharp contours in the clear winter light; keeping active will help maintain your body heat in the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Symphorien",
+                "hu": "Saint-Symphorien Templom",
+                "ro": "Biserica Saint-Symphorien",
+                "en": "Saint-Symphorien Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft, die Hände aufzuwärmen; genießen Sie die winterliche Stille in diesem ehrwürdigen Gotteshaus.",
+                "hu": "Egy rövid belső látogatás segít felmelegíteni a kezeit; élvezze a téli csendet és a nyugalmat ebben a patinás templomban.",
+                "ro": "O scurtă oprire în interior vă va ajuta să vă încălziți mâinile; bucurați-vă de liniștea iernii în acest lăcaș istoric.",
+                "en": "A brief stop inside helps warm up your hands; enjoy the serene winter silence and tranquility within this venerable church."
+              }
+            },
+            {
+              "name": {
+                "de": "Sémaphore de l’Île de la Liberté",
+                "hu": "Sémaphore de l’Île de la Liberté",
+                "ro": "Semaforul Insulei Libertății",
+                "en": "Sémaphore de l’Île de la Liberté"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Fluss ist im Winter beißend; machen Sie ein schnelles Foto und radeln Sie weiter, um nicht auszukühlen.",
+                "hu": "A folyóparti szél télen metsző lehet; készítsen egy gyors fotót, majd tekerjen tovább, hogy ne hűljön le túlságosan a teste.",
+                "ro": "Vântul de pe malul râului este tăios iarna; faceți o fotografie rapidă și pedalați mai departe pentru a nu vă răci prea tare.",
+                "en": "The wind by the river is biting in winter; take a quick photo and keep cycling to prevent your body temperature from dropping."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleiturm (Tour à Plomb)",
+                "hu": "Ólomtorony",
+                "ro": "Turnul de Plumb",
+                "en": "Lead Tower (Tour à Plomb)"
+              },
+              "tip_5lang": {
+                "de": "Die metallische Struktur wirkt in der Winterkälte besonders imposant; halten Sie sich für den Endspurt der Tour bereit.",
+                "hu": "A fémszerkezet különösen monumentálisnak hat a téli hidegben; készüljön fel a túra utolsó szakaszára, már közel a cél.",
+                "ro": "Structura metalică pare deosebit de impunătoare în frigul iernii; pregătiți-vă pentru ultima etapă a traseului de astăzi.",
+                "en": "The metallic structure looks especially imposing in the winter cold; get ready for the final stretch of your tour today."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaulieu-See",
+                "hu": "Beaulieu-tó",
+                "ro": "Lacul Beaulieu",
+                "en": "Beaulieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den See vor 17:00 Uhr, um die Abenddämmerung zu erleben; die Rückfahrt sollte bei gutem Licht erfolgen.",
+                "hu": "Érkezzen a tóhoz 17:00 előtt, hogy lássa az alkonyatot; a visszautat mindenképpen jó látási viszonyok mellett tervezze meg.",
+                "ro": "Ajungeți la lac înainte de ora 17:00 pentru a surprinde amurgul; planificați drumul de întoarcere cât încă mai aveți lumină bună.",
+                "en": "Reach the lake before 5 PM to catch the winter dusk; plan your ride back while you still have decent visibility and light."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós utazását a kiterjedt Audubon mocsaraknál, majd tegyen egy rövid utat a gyönyörű Château de Bougon megcsodálására. Délre a központi történelmi negyedbe érkezik, ahol megáll a templomnál és az Ólomtoronynál. A délután a grandiózus Château de Beaulieu felfedezéséről szól. A nap egy naplementés sétával ér véget a Beaulieu-tónál.",
         "ro": "Începeți excursia cu mașina devreme la vastele mlaștini Audubon, înainte de a conduce pentru a admira frumosul castel Bougon. Până la prânz, veți ajunge în centrul istoric, oprind la biserică și la celebrul Turn de Plumb. După-amiaza se concentrează pe grandiosul Château de Beaulieu. Ziua se încheie cu o plimbare la Lacul Beaulieu.",
         "en": "Start your road trip early at the expansive Audubon Marshes before taking a quick drive to admire the beautiful Château de Bougon. By midday, you will reach the central historic district, stopping at the local church and the famous Lead Tower. Your afternoon focuses on the grand Château de Beaulieu. The day ends with a sunset walk at Beaulieu Lake."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt beginnt bei den Audubon-Sümpfen, die man bequem aus dem warmen Wagen betrachten kann. Mittags steuern wir das Château de Bougon an, wobei kurze Wege vom Parkplatz den Regen erträglich machen. Nachmittags besuchen wir die Kirche und den Bleiturm im Stadtzentrum. Die Tour endet am Beaulieu-See, wo man den Blick auf das Wasser auch durch die Scheiben genießen kann.",
+            "hu": "Az autós túra az Audubon mocsaraknál indul, amelyet a fűtött utastérből is kényelmesen megfigyelhetünk. Délben a Bougon kastélyhoz hajtunk, ahol a rövid séta a parkolótól nem zavaró. Délután a belvárosi templomot és az Ólomtornyot keressük fel. A napot a Beaulieu-tónál zárjuk, élvezve a vízi panorámát az ablaktörlők ütemes játéka mellett.",
+            "ro": "Turul cu mașina începe la mlaștinile Audubon, pe care le puteți observa confortabil din interiorul cald. La prânz ne îndreptăm spre Castelul Bougon, distanța scurtă de la parcare făcând ploaia neglijabilă. După-amiaza vizităm biserica și Turnul de Plumb. Încheiem la Lacul Beaulieu, unde priveliștea apei poate fi savurată chiar și prin parbrizul udat de ploaie.",
+            "en": "The car tour starts at Audubon Marshes, easily observed from the comfort of your vehicle. By noon, drive to Château de Bougon, where short walks from the car make the rain manageable. Afternoon is spent at the central church and the Lead Tower. Conclude your day at Beaulieu Lake, enjoying the water views through the windshield as the rain continues to fall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Audubon-Sümpfe",
+                "hu": "Audubon Mocsarak",
+                "ro": "Mlaștinile Audubon",
+                "en": "Audubon Marshes"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und nutzen Sie Ferngläser zur Vogelbeobachtung, ohne dabei nass zu werden.",
+                "hu": "Heves esőzés esetén maradjon az autóban, és használjon távcsövet a madármegfigyeléshez anélkül, hogy bőrig ázna a mocsárban.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și folosiți binoclul pentru observarea păsărilor fără a vă uda pe potecile de acces.",
+                "en": "In case of heavy rain, stay in the car and use binoculars for birdwatching without getting soaked on the access paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bougon",
+                "hu": "Bougon Kastély",
+                "ro": "Castelul Bougon",
+                "en": "Château de Bougon"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Kontakt mit dem Regen zu minimieren; das Schloss bietet im Inneren Schutz.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy minimalizálja az esővel való érintkezést; a kastély belseje kiváló menedék.",
+                "ro": "Parcați cât mai aproape de intrare pentru a minimiza expunerea la ploaie; interiorul castelului oferă un adăpost excelent și uscat.",
+                "en": "Park as close to the entrance as possible to minimize rain exposure; the castle interior provides a grand and dry refuge for visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Symphorien",
+                "hu": "Saint-Symphorien Templom",
+                "ro": "Biserica Saint-Symphorien",
+                "en": "Saint-Symphorien Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche liegt zentral; nutzen Sie den Besuch für eine trockene Besichtigung und lassen Sie Ihren Schirm im Auto trocknen.",
+                "hu": "A templom központi helyen található; használja ki a látogatást egy száraz városnézésre, és hagyja az esernyőjét a kocsiban száradni.",
+                "ro": "Biserica este situată central; profitați de vizită pentru a vedea interiorul la uscat și lăsați umbrela să se usuce în mașină.",
+                "en": "The church is centrally located; use the visit for a dry indoor tour and leave your umbrella to dry in the car in the meantime."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleiturm (Tour à Plomb)",
+                "hu": "Ólomtorony",
+                "ro": "Turnul de Plumb",
+                "en": "Lead Tower (Tour à Plomb)"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die beeindruckende Höhe des Turms direkt aus dem Auto heraus, wenn der Regen für einen Spaziergang zu stark ist.",
+                "hu": "Csodálja meg a torony lenyűgöző magasságát közvetlenül az autóból, ha az eső túl intenzívvé válna egy kinti sétához.",
+                "ro": "Admirați înălțimea impresionantă a turnului direct din mașină dacă ploaia devine prea intensă pentru o scurtă plimbare afară.",
+                "en": "Admire the impressive height of the tower directly from your car if the rain becomes too intense for a walk around the base."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Beaulieu",
+                "hu": "Beaulieu Kastély",
+                "ro": "Castelul Beaulieu",
+                "en": "Château de Beaulieu"
+              },
+              "tip_5lang": {
+                "de": "Das Anwesen wirkt im Regen sehr vornehm; nutzen Sie die Auffahrt für einen guten Blick auf die Fassade aus dem trockenen Wagen.",
+                "hu": "A birtok esőben is rendkívül elegáns; használja a kocsibehajtót, hogy szárazon is jól láthassa a kastély gyönyörű homlokzatát.",
+                "ro": "Domeniul pare foarte distins pe ploaie; folosiți aleea de acces pentru a vedea bine fațada direct din interiorul uscat al mașinii.",
+                "en": "The estate looks very distinguished in the rain; use the driveway to get a good view of the facade from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaulieu-See",
+                "hu": "Beaulieu-tó",
+                "ro": "Lacul Beaulieu",
+                "en": "Beaulieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss, um den See bei Regen zu beobachten; stellen Sie sicher, dass Ihre Scheiben für freie Sicht nicht beschlagen.",
+                "hu": "Tökéletes zárópont a tó megfigyelésére esőben; ügyeljen rá, hogy az ablakok ne párásodjanak be a tiszta kilátás érdekében.",
+                "ro": "Un punct final perfect pentru a observa lacul pe ploaie; asigurați-vă că dezaburiți geamurile pentru o vizibilitate optimă.",
+                "en": "A perfect final spot to observe the lake in the rain; make sure to defog your windows for the best possible view of the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt führt zuerst zu den Audubon-Sümpfen, wo die Landschaft oft in Nebel gehüllt ist. Mittags besuchen wir das Château de Bougon und genießen die Wärme im Fahrzeug zwischen den Stopps. Am Nachmittag stehen Stadtbesichtigungen auf dem Programm, bevor das Tageslicht schwindet. Die Tour endet am Beaulieu-See gegen 17:00 Uhr, wenn die Wintersonne spektakulär untergeht.",
+            "hu": "A téli autós túra az Audubon mocsarakhoz vezet, ahol a táj ilyenkor gyakran ködbe vész. Délben a Bougon kastélyt látogatjuk meg, élvezve a fűtést a megállók között. Délután városi nevezetességeket nézünk meg, mielőtt teljesen elfogyna a fény. A napot a Beaulieu-tónál zárjuk 17:00 körül, a téli naplemente látványával.",
+            "ro": "Călătoria de iarnă începe la mlaștinile Audubon, unde peisajul este adesea învăluit în ceață. La prânz vizităm Castelul Bougon, savurând căldura din mașină între opriri. După-amiaza este dedicată vizitării orașului înainte de lăsarea întunericului. Turul se încheie la Lacul Beaulieu în jur de ora 17:00, cu un apus spectaculos.",
+            "en": "A winter drive starts at Audubon Marshes, where the landscape is often draped in mist. By noon, visit Château de Bougon, enjoying the heater between stops. Afternoon is dedicated to town sights before the daylight fades. The tour concludes at Beaulieu Lake around 5 PM, just in time for a potentially spectacular winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Audubon-Sümpfe",
+                "hu": "Audubon Mocsarak",
+                "ro": "Mlaștinile Audubon",
+                "en": "Audubon Marshes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung Ihres Autos, um sich nach einem kurzen Fotostopp in der frostigen Sumpflandschaft sofort wieder aufzuwärmen.",
+                "hu": "Használja az autó fűtését, hogy egy rövid fotómegálló után a jeges mocsárnál azonnal felmelegedhessen a következő útszakasz előtt.",
+                "ro": "Folosiți încălzirea mașinii pentru a vă încălzi imediat după o scurtă oprire foto în peisajul înghețat al mlaștinii Audubon.",
+                "en": "Use your car's heater to warm up immediately after a short photo stop in the frosty marsh landscape before driving further."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Bougon",
+                "hu": "Bougon Kastély",
+                "ro": "Castelul Bougon",
+                "en": "Château de Bougon"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Winterlicht sehr klar; ein kurzer Spaziergang im Park ist erfrischend, bevor es zurück in den warmen Wagen geht.",
+                "hu": "A kastély látványa téli fényben rendkívül tiszta; egy rövid séta a parkban frissítő, mielőtt visszatérne a meleg utastérbe.",
+                "ro": "Castelul arată foarte clar în lumina iernii; o scurtă plimbare în parc este revigorantă înainte de a reveni la căldura mașinii.",
+                "en": "The castle looks very sharp in the winter light; a brief walk in the park is refreshing before returning to your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Symphorien",
+                "hu": "Saint-Symphorien Templom",
+                "ro": "Biserica Saint-Symphorien",
+                "en": "Saint-Symphorien Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und genießen Sie die angenehme Kühle im Inneren der Kirche, die im Winter eine besondere Ruhe ausstrahlt.",
+                "hu": "Parkoljon a közelben, és élvezze a templom belső hűvösségét, amely télen sajátos, megnyugtató csendet és békét áraszt.",
+                "ro": "Parcați în apropiere și bucurați-vă de răcoarea plăcută din interiorul bisericii, care iarna emană o liniște și o pace aparte.",
+                "en": "Park nearby and enjoy the pleasant coolness inside the church, which radiates a special sense of peace and quiet in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bleiturm (Tour à Plomb)",
+                "hu": "Ólomtorony",
+                "ro": "Turnul de Plumb",
+                "en": "Lead Tower (Tour à Plomb)"
+              },
+              "tip_5lang": {
+                "de": "Die industrielle Struktur ist auch bei tief stehender Wintersonne ein tolles Fotomotiv; nutzen Sie das goldene Licht am Nachmittag.",
+                "hu": "Az ipari szerkezet az alacsony téli napsütésben is kiváló fotótéma; használja ki a délutáni aranyló fényeket a képekhez.",
+                "ro": "Structura industrială este un subiect foto excelent chiar și cu soarele jos de iarnă; profitați de lumina aurie de după-amiază.",
+                "en": "The industrial structure is a great photo subject even with the low winter sun; take advantage of the golden afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Beaulieu",
+                "hu": "Beaulieu Kastély",
+                "ro": "Castelul Beaulieu",
+                "en": "Château de Beaulieu"
+              },
+              "tip_5lang": {
+                "de": "Die Anlage strahlt im Winter eine stille Erhabenheit aus; betrachten Sie das Schloss, bevor es um 17:00 Uhr dunkel wird.",
+                "hu": "A birtok télen csendes méltóságot áraszt; csodálja meg a kastélyt, mielőtt 17:00 körül teljesen ránk sötétedne a téli napon.",
+                "ro": "Domeniul emană o maiestate tăcută iarna; observați castelul înainte ca întunericul să se lase complet, în jur de ora 17:00.",
+                "en": "The estate exudes a quiet majesty in winter; observe the castle's exterior before darkness falls completely around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaulieu-See",
+                "hu": "Beaulieu-tó",
+                "ro": "Lacul Beaulieu",
+                "en": "Beaulieu Lake"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit dem Blick auf den winterlichen See; die Heizung im Auto macht das Warten auf den Sonnenuntergang sehr gemütlich.",
+                "hu": "Zárja a napot a téli tó látványával; az autó fűtése mellett kifejezetten kényelmes megvárni a lenyűgöző téli naplementét.",
+                "ro": "Încheiați ziua cu vederea lacului iarna; încălzirea din mașină face așteptarea apusului de soare foarte confortabilă și plăcută.",
+                "en": "End your day with a view of the winter lake; the car's heater makes waiting for the sunset a very cozy and pleasant experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

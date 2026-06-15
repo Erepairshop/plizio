@@ -137,6 +137,168 @@
         "hu": "A reggel az ikonikus Dugong-körforgalomnál indul, majd egy rövid séta elvezet a történelmi óratoronyhoz, Trang lüktető szívéhez. Délben a Trangi templomnál elmerülünk a város sokszínű spirituális örökségében. A délután a kínai gyökereké, melyet a Pao Kong szentély felkeresése fémjelez. Kora este a nyüzsgő éjszakai piac a helyi utcai ételek felejthetetlen kavalkádjával várja.",
         "ro": "Dimineața începe la faimosul Sens Giratoriu Dugong înainte ca o scurtă plimbare să ne ducă la Turnul cu Ceas, inima orașului Trang. Până la prânz, explorăm moștenirea spirituală diversă la Biserica din Trang. După-amiaza se îndreaptă spre rădăcinile chinezești printr-o vizită la Altarul Pao Kong. Odată cu lăsarea serii, Piața de Noapte oferă o gamă de neuitat de mâncăruri stradale locale.",
         "en": "Morning begins at the iconic Dugong Circle before a short stroll takes us to the historic Clock Tower, the heartbeat of Trang. By midday, we dive into the city's diverse spiritual heritage at the Trang Church. The afternoon shifts toward Chinese ancestry with a visit to the Pao Kong Shrine. As evening falls, the bustling Nightmarket offers an unforgettable array of local street food."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Trang beginnt beim Dugong Circle, wo die Statuen im nassen Glanz erstrahlen. Mittags bieten der Uhrenturm und die umliegenden Arkaden Schutz vor den Schauern. Am Nachmittag erkunden wir die wetterfesten Kirchen und Schreine der Stadt. Den Abend verbringen wir auf dem Nachtmarkt, wobei wir die überdachten Gassen für kulinarische Entdeckungen nutzen.",
+            "hu": "Az esős reggel Trangi sétája a Dugong körforgalomnál indul, ahol a szobrok különleges fényt kapnak a víztől. Délben az Óratorony környéki árkádok nyújtanak menedéket a záporok elől. Délután a város templomait és szentélyeit keressük fel, amelyek fedett belső terei nyugalmat árasztanak. Az estét az éjszakai piacon zárjuk, ahol a sátrak és tetők alatt biztonságban kóstolgathatunk.",
+            "ro": "O dimineață ploioasă în Trang începe la Sensul Giratoriu Dugong, unde statuile strălucesc sub stropii de apă. La prânz, Turnul cu Ceas și arcadele din jur oferă adăpost împotriva averselor. După-amiaza explorăm bisericile și sanctuarele orașului, profitând de spațiile interioare uscate. Seara ne găsește în Piața de Noapte, navigând printre tarabele acoperite pentru o experiență culinară locală.",
+            "en": "A rainy morning in Trang starts at Dugong Circle, where the statues glisten in the wet light. At noon, the Clock Tower area and nearby arcades provide shelter from tropical showers. In the afternoon, we visit the city's churches and shrines, offering a dry sanctuary for reflection. We end the evening at the Nightmarket, staying under the covered stalls to enjoy local street food safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dugong Circle",
+                "hu": "Dugong körforgalom",
+                "ro": "Sensul Giratoriu Dugong",
+                "en": "Dugong Circle"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Dugong-Statuen, aber achten Sie auf den rutschigen Boden beim Fotografieren; ein großer Regenschirm ist hier unverzichtbar.",
+                "hu": "Csodálja meg a dugong szobrokat, de ügyeljen a csúszós útburkolatra fotózás közben; egy stabil esernyő itt elengedhetetlen kellék.",
+                "ro": "Admirați statuile Dugong, dar aveți grijă la pavajul alunecos când faceți poze; o umbrelă rezistentă este indispensabilă în această zonă.",
+                "en": "Admire the Dugong statues but watch your step on the slippery pavement while taking photos; a sturdy umbrella is essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm Trang",
+                "hu": "Trang Óratorony",
+                "ro": "Turnul cu Ceas Trang",
+                "en": "Trang Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Cafés bieten einen trockenen Sitzplatz mit Blick auf den Turm; ideal, um einen plötzlichen Regenschauer bei einem Tee abzuwarten.",
+                "hu": "A közeli kávézók száraz ülőhelyet és remek kilátást kínálnak a toronyra; ideális hely egy hirtelen zápor átvészelésére egy tea mellett.",
+                "ro": "Cafenelele din apropiere oferă un loc uscat cu vedere la turn; este locul ideal pentru a aștepta trecerea unei ploi bruște cu un ceai cald.",
+                "en": "Nearby cafes offer a dry seat and a great view of the tower; it is the perfect spot to wait out a sudden downpour with a warm tea."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Trang",
+                "hu": "Trangi Templom",
+                "ro": "Biserica din Trang",
+                "en": "Trang Church"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche ist ein friedlicher, trockener Rückzugsort; nutzen Sie die Zeit, um die Architektur ohne den Lärm des Regens zu genießen.",
+                "hu": "A templom belső tere békés és száraz menedék; használja ki az időt az építészet megcsodálására, távol az eső zajától és a sártól.",
+                "ro": "Interiorul bisericii este un refugiu liniștit și uscat; profitați de timp pentru a admira arhitectura, departe de zgomotul ploii de afară.",
+                "en": "The church interior is a peaceful and dry sanctuary; take your time to admire the architecture away from the rain and street mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Pao Kong Shrine",
+                "hu": "Pao Kong Shrine",
+                "ro": "Pao Kong Shrine",
+                "en": "Pao Kong Shrine"
+              },
+              "tip_5lang": {
+                "de": "Der Schrein bietet Schutz unter seinen kunstvollen Dächern; achten Sie auf die bunten Details, die bei bewölktem Licht besonders intensiv wirken.",
+                "hu": "A szentély díszes tetői alatt védelmet találhat; figyelje meg a színes részleteket, amelyek a borús fényben még élénkebben ragyognak fel.",
+                "ro": "Sanctuarul oferă protecție sub acoperișurile sale ornamentate; observați detaliile colorate care par mai intense în lumina difuză de ploaie.",
+                "en": "The shrine provides shelter under its ornate roofs; notice the colorful details that seem more vibrant in the soft, cloudy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt",
+                "hu": "Éjszakai piac",
+                "ro": "Piața de Noapte",
+                "en": "Nightmarket"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die überdachten Essensstände auf, um lokale Spezialitäten im Trockenen zu probieren; wasserfeste Schuhe sind für die Gassen ratsam.",
+                "hu": "Keresse a fedett ételes standokat, hogy szárazon kóstolhassa meg a helyi falatokat; a vizes utcák miatt vízálló lábbeli erősen ajánlott.",
+                "ro": "Căutați tarabele cu mâncare acoperite pentru a degusta specialități locale la uscat; încălțămintea impermeabilă este recomandată pentru alei.",
+                "en": "Look for the covered food stalls to sample local delicacies while staying dry; waterproof footwear is highly recommended for the wet lanes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Trang ist angenehm kühl am Dugong Circle. Mittags genießen wir die milde Sonne am Uhrenturm, bevor wir die historischen Kirchen besuchen. Am Nachmittag nutzen wir das sanfte Licht für Fotos an den Schreinen. Da die Sonne bereits gegen 17:00 Uhr untergeht, suchen wir uns früh ein gemütliches, warm beleuchtetes Restaurant am Nachtmarkt.",
+            "hu": "A téli reggel Trangi sétája frissítően hűvös a Dugong körforgalomnál. Délben a lágy napsütést élvezzük az Óratoronynál, majd meglátogatjuk a történelmi templomokat. Délután a szelíd fényeket használjuk fotózáshoz a szentélyeknél. Mivel a nap már 17:00 körül lemegy, korán keresünk egy hangulatos, meleg fényű éttermet az éjszakai piacon.",
+            "ro": "Dimineața de iarnă în Trang este plăcut de răcoroasă la Sensul Giratoriu Dugong. La prânz ne bucurăm de soarele blând la Turnul cu Ceas, apoi vizităm bisericile istorice. După-amiaza profităm de lumina caldă pentru fotografii la sanctuare. Deoarece soarele apune deja în jur de ora 17:00, căutăm devreme un restaurant primitor în Piața de Noapte.",
+            "en": "A winter morning in Trang feels refreshingly cool at Dugong Circle. At noon, we enjoy the mild sunshine by the Clock Tower before visiting historic churches. In the afternoon, the soft winter light is perfect for photos at the shrines. As the sun sets around 17:00, we head early to find a cozy, warmly lit spot at the Nightmarket."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dugong Circle",
+                "hu": "Dugong körforgalom",
+                "ro": "Sensul Giratoriu Dugong",
+                "en": "Dugong Circle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Morgenbrise an diesem Wahrzeichen; eine leichte Jacke ist ideal, da die Luft im Winter in Trang überraschend frisch sein kann.",
+                "hu": "Élvezze a hűvös reggeli szellőt ennél a jelképnél; egy könnyű dzseki ideális, mivel a trangi téli reggelek meglepően frissek lehetnek.",
+                "ro": "Bucurați-vă de briza răcoroasă a dimineții la acest simbol; o jachetă ușoară este ideală, deoarece aerul de iarnă poate fi surprinzător de rece.",
+                "en": "Enjoy the cool morning breeze at this landmark; a light jacket is ideal as winter mornings in Trang can be surprisingly crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm Trang",
+                "hu": "Trang Óratorony",
+                "ro": "Turnul cu Ceas Trang",
+                "en": "Trang Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist im Winter angenehm; nutzen Sie die Zeit für einen Spaziergang um den Turm, bevor es am späten Nachmittag kühler wird.",
+                "hu": "A déli napsütés télen kifejezetten kellemes; használja ki az időt egy sétára a torony körül, mielőtt a késő délutáni lehűlés megérkezik.",
+                "ro": "Soarele de la amiază este plăcut iarna; profitați de timp pentru o plimbare în jurul turnului înainte ca răcoarea serii să se instaleze.",
+                "en": "The midday sun is very pleasant in winter; take this time for a stroll around the tower before the late afternoon chill arrives."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Trang",
+                "hu": "Trangi Templom",
+                "ro": "Biserica din Trang",
+                "en": "Trang Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, um die warmen Sonnenstrahlen einzufangen, die durch die Fenster fallen und den Raum erhellen.",
+                "hu": "Látogassa meg a templomot kora délután, hogy elcsípje a meleg napsugarakat, amint az ablakokon keresztül megvilágítják a belső teret.",
+                "ro": "Vizitați biserica la începutul după-amiezii pentru a surprinde razele calde de soare care luminează interiorul prin ferestrele înalte.",
+                "en": "Visit the church in the early afternoon to catch the warm sunbeams as they illuminate the interior through the tall windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Pao Kong Shrine",
+                "hu": "Pao Kong Shrine",
+                "ro": "Pao Kong Shrine",
+                "en": "Pao Kong Shrine"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne sorgt für lange Schatten und dramatisches Licht am Schrein; ideal für stimmungsvolle Fotos kurz vor Sonnenuntergang.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat és drámai fényeket vet a szentélynél; ideális hangulatos fotókhoz közvetlenül naplemente előtt.",
+                "ro": "Soarele jos de iarnă creează umbre lungi și o lumină dramatică la sanctuar; este momentul ideal pentru fotografii înainte de apus.",
+                "en": "The low winter sun creates long shadows and dramatic light at the shrine; perfect for atmospheric photos just before the early sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt",
+                "hu": "Éjszakai piac",
+                "ro": "Piața de Noapte",
+                "en": "Nightmarket"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie früh gegen 17:00 Uhr, wenn die Lichter angehen; probieren Sie eine heiße lokale Suppe, um sich in der kühler werdenden Abendluft zu wärmen.",
+                "hu": "Érkezzen korán, 17:00 körül, amikor kigyúlnak a fények; kóstoljon meg egy forró helyi levest, hogy felmelegedjen a hűvös esti levegőben.",
+                "ro": "Sosiți devreme, în jur de ora 17:00, când se aprind luminile; încercați o supă locală fierbinte pentru a vă încălzi în aerul serii.",
+                "en": "Arrive early around 17:00 as the lights come on; try a hot local soup to stay warm as the evening air begins to cool down significantly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A Dugong-körforgalomtól indulva gyorsan áttekerünk a Tha Kong Yea szentélyhez a reggeli nyugalomért. A délidő tökéletes a 3/2 Galéria kortárs kiállításainak felfedezésére. Délután az ikonikus óratorony mellett elhaladva a Chao Pho Men Ram szentélynél tartunk egy kis pihenőt. A kerékpáros napot a festői Cinta Gardenben fejezzük be.",
         "ro": "Începem să pedalăm de la Sensul Giratoriu Dugong, îndreptându-ne rapid spre Altarul Tha Kong Yea pentru liniștea dimineții. Prânzul este perfect pentru a explora expozițiile contemporane de la Galeria 3/2. După-amiaza, trecem cu bicicleta pe lângă Turnul cu Ceas spre Altarul Chao Pho Men Ram. Ne încheiem ziua de ciclism relaxându-ne în Grădina Cinta.",
         "en": "We start cycling from the Dugong Circle, quickly pedaling to the intricate Tha Kong Yea Shrine to soak in the morning tranquility. Midday is perfect for exploring contemporary local exhibits at the 3/2 Gallery. In the afternoon, we ride past the iconic Clock Tower towards the Chao Pho Men Ram Shrine for a quiet moment. We conclude our cycling day unwinding at the picturesque Cinta Garden."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht am Dugong Circle. Wir fahren zügig zum Tha Kong Yea Schrein, um Schutz zu suchen. Den Mittag verbringen wir in der trockenen 3/2 Galerie, wo Kunst uns den Regen vergessen lässt. Nach einem Stopp am Uhrenturm besuchen wir weitere Schreine und beenden den Tag im Cinta Garden unter den großen Überdachungen der Food-Courts.",
+            "hu": "Az esős bringázás óvatosságot igényel a Dugong körforgalomnál. Gyorsan a Tha Kong Yea szentélyhez tekerünk menedékért. A delet a száraz 3/2 Galériában töltjük, ahol a művészet feledteti a vihart. Az Óratorony érintésével újabb szentélyeket látogatunk meg, majd a napot a Cinta Garden hatalmas fedett étkezőteraszai alatt zárjuk.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită prudență la Sensul Giratoriu Dugong. Pedalăm rapid spre Sanctuarul Tha Kong Yea pentru adăpost. Prânzul îl petrecem în Galeria 3/2, unde arta ne face să uităm de vreme. După o oprire la Turnul cu Ceas, vizităm alte sanctuare și încheiem ziua în Cinta Garden, sub copertinele mari.",
+            "en": "Cycling in the rain requires caution at Dugong Circle. We pedal quickly to Tha Kong Yea Shrine to find cover. Noon is spent in the dry 3/2 Gallery, where art helps us forget the storm. After passing the Clock Tower, we visit more shrines and end the day at Cinta Garden under the vast covered roofs of the food courts."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dugong Circle",
+                "hu": "Dugong körforgalom",
+                "ro": "Sensul Giratoriu Dugong",
+                "en": "Dugong Circle"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über die nassen Markierungen im Kreisverkehr; tragen Sie ein Regenponcho, um beide Hände sicher am Lenker zu behalten.",
+                "hu": "Vigyázzon a vizes útburkolati jelekre a körforgalomban; viseljen esőponcsót, hogy mindkét keze szabadon maradjon a kormányzáshoz.",
+                "ro": "Circulați cu atenție pe marcajele rutiere umede din sensul giratoriu; purtați o pelerină de ploaie pentru a avea mâinile libere pe ghidon.",
+                "en": "Ride carefully over the wet road markings in the circle; wear a rain poncho to keep both hands free for safe steering and braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Tha Kong Yea Shrine",
+                "hu": "Tha Kong Yea Shrine",
+                "ro": "Tha Kong Yea Shrine",
+                "en": "Tha Kong Yea Shrine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Vordach und nutzen Sie die überdachten Bereiche des Schreins, um die detaillierten Schnitzereien im Trockenen zu bewundern.",
+                "hu": "Parkoljon a kerékpárral az előtető alá, és használja a szentély fedett részeit a részletes faragványok megcsodálásához, távol az esőtől.",
+                "ro": "Parcați bicicleta sub streșină și folosiți zonele acoperite ale sanctuarului pentru a admira sculpturile detaliate, ferit de ploaie.",
+                "en": "Park your bike under the eave and use the shrine's covered areas to admire the detailed carvings while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "3/2 Galerie",
+                "hu": "3/2 Galéria",
+                "ro": "Galeria 3/2",
+                "en": "3/2 Gallery"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort, um ein schweres Gewitter auszusitzen; genießen Sie die lokale Kunstausstellung und nutzen Sie die sauberen, trockenen Einrichtungen.",
+                "hu": "Ez a tökéletes hely egy nagyobb vihar átvészelésére; élvezze a helyi művészeti kiállítást és használja ki a tiszta, száraz belső teret.",
+                "ro": "Acesta este locul perfect pentru a aștepta trecerea unei furtuni; bucurați-vă de expoziția de artă locală și folosiți facilitățile uscate.",
+                "en": "This is the perfect spot to wait out a heavy storm; enjoy the local art exhibition and make use of the clean, dry indoor facilities."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm Trang",
+                "hu": "Trang Óratorony",
+                "ro": "Turnul cu Ceas Trang",
+                "en": "Trang Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen um den Turm können bei Regen sehr rutschig sein; bremsen Sie frühzeitig ab und meiden Sie plötzliche Lenkmanöver auf dem nassen Asphalt.",
+                "hu": "A torony körüli utcák nagyon csúszósak lehetnek esőben; fékezzen időben és kerülje a hirtelen kanyarodást a vizes aszfalton.",
+                "ro": "Străzile din jurul turnului pot fi foarte alunecoase pe ploaie; frânați din timp și evitați manevrele bruște pe asfaltul ud.",
+                "en": "The streets around the tower can be very slippery in the rain; brake early and avoid sudden steering maneuvers on the wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Pho Men Ram Shrine",
+                "hu": "Chao Pho Men Ram Shrine",
+                "ro": "Chao Pho Men Ram Shrine",
+                "en": "Chao Pho Men Ram Shrine"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um kurz zu verschnaufen und die Kameraausrüstung vor Feuchtigkeit zu schützen, bevor Sie weiterfahren.",
+                "hu": "Használja a fedett bejárati részt egy rövid pihenőre, és óvja meg fotós felszerelését a nedvességtől, mielőtt tovább indulna.",
+                "ro": "Folosiți zona de intrare acoperită pentru un scurt popas și protejați-vă echipamentul foto de umiditate înainte de a porni iar la drum.",
+                "en": "Use the covered entrance area for a short break and protect your camera equipment from moisture before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Cinta Garden",
+                "hu": "Cinta Garden",
+                "ro": "Cinta Garden",
+                "en": "Cinta Garden"
+              },
+              "tip_5lang": {
+                "de": "Die meisten Bereiche sind gut überdacht; stellen Sie Ihr Rad sicher ab und genießen Sie die Vielfalt an Streetfood, ohne nass zu werden.",
+                "hu": "A legtöbb rész jól fedett; parkolja le biztonságban a bringát, és élvezze az utcai ételek széles választékát anélkül, hogy elázna.",
+                "ro": "Majoritatea zonelor sunt bine acoperite; parcați bicicleta în siguranță și bucurați-vă de varietatea de mâncare stradală fără a vă uda.",
+                "en": "Most areas here are well-covered; park your bike securely and enjoy the wide variety of street food without getting wet at all."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag auf dem Rad beginnt erfrischend am Dugong Circle. Wir radeln durch die milde Mittagssonne zu den Schreinen und genießen die kühle Brise in der 3/2 Galerie. Am Nachmittag führt uns der Weg zum Uhrenturm und weiteren kulturellen Stätten. Gegen 17:00 Uhr erreichen wir den Cinta Garden, wo wir den frühen Sonnenuntergang bei angenehmen Temperaturen im Freien erleben.",
+            "hu": "A téli kerékpáros nap frissítően indul a Dugong körforgalomnál. A mildebb déli napsütésben tekerünk a szentélyekhez, majd hűsölünk a 3/2 Galériában. Délután az Óratorony és további kulturális helyszínek felé vesszük az irányt. 17:00 körül érünk a Cinta Gardenbe, ahol a korai naplementét kellemes hőmérsékletben, a szabadban élvezzük.",
+            "ro": "O zi de iarnă pe bicicletă începe revigorant la Sensul Giratoriu Dugong. Pedalăm prin soarele blând de amiază spre sanctuare și ne răcorim la Galeria 3/2. După-amiaza ne îndreptăm spre Turnul cu Ceas și alte situri culturale. În jur de ora 17:00 ajungem la Cinta Garden, unde admirăm apusul timpuriu la temperaturi exterioare plăcute.",
+            "en": "A winter day on the bike starts refreshingly at Dugong Circle. We cycle through the mild midday sun to the shrines and enjoy the cool breeze at 3/2 Gallery. In the afternoon, we head towards the Clock Tower and other cultural sites. Around 17:00, we reach Cinta Garden, enjoying the early sunset in pleasant outdoor temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dugong Circle",
+                "hu": "Dugong körforgalom",
+                "ro": "Sensul Giratoriu Dugong",
+                "en": "Dugong Circle"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Winterluft macht das Radfahren am Morgen sehr angenehm; ein leichtes Langarmshirt schützt vor dem Fahrtwind und der frühen Sonne.",
+                "hu": "A hűvös téli levegő nagyon kellemessé teszi a reggeli bringázást; egy könnyű hosszú ujjú felső véd a menetszéltől és a korai naptól.",
+                "ro": "Aerul răcoros de iarnă face pedalatul de dimineață foarte plăcut; o bluză ușoară cu mânecă lungă vă protejează de vânt și de soare.",
+                "en": "The cool winter air makes morning cycling very pleasant; a light long-sleeve shirt protects you from the wind and early sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Tha Kong Yea Shrine",
+                "hu": "Tha Kong Yea Shrine",
+                "ro": "Tha Kong Yea Shrine",
+                "en": "Tha Kong Yea Shrine"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klaren Winterhimmel für Fotos der roten Akzente des Schreins; die milden Temperaturen laden zum Verweilen im Freien ein.",
+                "hu": "Használja ki a tiszta téli eget a szentély piros díszeinek fotózásához; a mérsékelt hőmérséklet hosszasabb nézelődésre hívogat a szabadban.",
+                "ro": "Profitate de cerul senin de iarnă pentru fotografii cu accentele roșii ale sanctuarului; temperaturile blânde vă permit să zăboviți afară.",
+                "en": "Take advantage of the clear winter sky to photograph the shrine's red accents; mild temperatures invite you to linger outdoors longer."
+              }
+            },
+            {
+              "name": {
+                "de": "3/2 Galerie",
+                "hu": "3/2 Galéria",
+                "ro": "Galeria 3/2",
+                "en": "3/2 Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die Galerie bietet eine willkommene Pause von der Mittagssonne; genießen Sie die klimatisierten Räume, um für die Nachmittagstour neue Energie zu tanken.",
+                "hu": "A galéria kellemes pihenőt nyújt a déli napsütés elől; élvezze a klimatizált termeket, hogy újult erővel vágjon bele a délutáni tekerésbe.",
+                "ro": "Galeria oferă o pauză binemeritată de soarele de amiază; bucurați-vă de camerele cu aer condiționat pentru a vă reîncărca bateriile.",
+                "en": "The gallery provides a welcome break from the midday sun; enjoy the air-conditioned rooms to recharge for your afternoon cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm Trang",
+                "hu": "Trang Óratorony",
+                "ro": "Turnul cu Ceas Trang",
+                "en": "Trang Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist ideal, um den Turm ohne die harte Hitze des Sommers zu umrunden und die Details der Architektur zu studieren.",
+                "hu": "A késő délutáni fények ideálisak a torony megkerüléséhez a nyári hőség nélkül, így alaposabban megfigyelheti az építészeti részleteket.",
+                "ro": "Lumina de după-amiază târzie este ideală pentru a înconjura turnul fără căldura verii, permițându-vă să observați detaliile arhitecturale.",
+                "en": "The late afternoon light is ideal for circling the tower without the summer heat, allowing you to study architectural details more closely."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Pho Men Ram Shrine",
+                "hu": "Chao Pho Men Ram Shrine",
+                "ro": "Chao Pho Men Ram Shrine",
+                "en": "Chao Pho Men Ram Shrine"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Schrein kurz vor dem Sonnenuntergang um 17:00 Uhr, wenn die Atmosphäre durch das sanfte Winterlicht besonders feierlich wirkt.",
+                "hu": "Látogassa meg a szentélyt nem sokkal a 17:00 órai naplemente előtt, amikor a lágy téli fények ünnepélyessé teszik a hely hangulatát.",
+                "ro": "Vizitați sanctuarul cu puțin timp înainte de apusul de la ora 17:00, când lumina blândă de iarnă oferă o atmosferă solemnă locului.",
+                "en": "Visit the shrine shortly before the 17:00 sunset, when the soft winter light creates an especially solemn and beautiful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Cinta Garden",
+                "hu": "Cinta Garden",
+                "ro": "Cinta Garden",
+                "en": "Cinta Garden"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang kann es kühl werden; suchen Sie sich einen Platz in der Nähe der Garküchen, um die wohlige Wärme der Feuerstellen zu genießen.",
+                "hu": "Naplemente után lehűlhet az idő; keressen egy helyet a kifőzdék közelében, hogy élvezhesse a sütőlapok felől áradó kellemes meleget.",
+                "ro": "După apus se poate face răcoare; căutați un loc aproape de standurile de gătit pentru a vă bucura de căldura plăcută a focurilor.",
+                "en": "It can get chilly after sunset; find a seat near the cooking stalls to enjoy the pleasant warmth emanating from the open grills."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "A Dugong-körforgalomtól elindulva a friss reggeli levegőn könnyedén elérjük a Wat Kut és a Tha Kong Yea szentélyt. Ahogy melegszik az idő, a 3/2 Galéria légkondicionált terei nyújtanak kulturális feltöltődést. Ebéd után az óratorony, majd a Trangi templom és a Pao Kong szentély következik. Az autós túra esti sétával zárul a Cinta Gardenben.",
         "ro": "Plecând de la Sensul Giratoriu Dugong, accesăm ușor Wat Kut și Altarul Tha Kong Yea în aerul proaspăt al dimineții. Pe măsură ce ziua se încălzește, Galeria 3/2 ne oferă o imersiune culturală răcoroasă. După-amiaza, trecem pe lângă Turnul cu Ceas și explorăm Biserica din Trang și Altarul Pao Kong. Excursia auto se încheie perfect cu o plimbare în Grădina Cinta.",
         "en": "Driving out from Dugong Circle, we easily access the ornate Wat Kut and Tha Kong Yea Shrine in the crisp morning air. As the day warms up, the air-conditioned spaces of the 3/2 Gallery provide cultural immersion. Post-lunch, we drive by the central Clock Tower and explore both the Trang Church and Pao Kong Shrine. The road trip perfectly wraps up with an evening stroll and drinks at Cinta Garden."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir Trang komfortabel und trocken. Wir besuchen Wat Kut und diverse Schreine, während der Regen gegen die Scheiben prasselt. Mittags bietet die 3/2 Galerie einen längeren Aufenthalt im Trockenen. Nach dem Uhrenturm und der Kirche von Trang beenden wir den Tag im Cinta Garden, wo wir dank der Nähe zum Parkplatz schnell in die überdachten Food-Hallen gelangen.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel Trangot. Meglátogatjuk a Wat Kutot és a különféle szentélyeket, miközben az eső a szélvédőn kopog. Délben a 3/2 Galéria hosszabb, fedett kikapcsolódást nyújt. Az Óratorony és a trangi templom után a napot a Cinta Gardenben zárjuk, ahol a parkoló közelsége miatt gyorsan a fedett étkezőkhöz jutunk.",
+            "ro": "Cu mașina, explorăm Trang confortabil și la uscat. Vizităm Wat Kut și diverse sanctuare în timp ce ploaia bate în parbriz. La prânz, Galeria 3/2 oferă o opțiune de relaxare acoperită pentru mai mult timp. După Turnul cu Ceas și biserică, încheiem ziua în Cinta Garden, profitând de parcarea apropiată de zonele cu mâncare.",
+            "en": "In the car, we explore Trang comfortably and stay dry. We visit Wat Kut and various shrines while the rain drums against the windshield. At noon, the 3/2 Gallery offers a long indoor retreat. After seeing the Clock Tower and the church, we end the day at Cinta Garden, where the nearby parking lets us reach the covered food halls quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dugong Circle",
+                "hu": "Dugong körforgalom",
+                "ro": "Sensul Giratoriu Dugong",
+                "en": "Dugong Circle"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz für ein Foto aus dem Fenster an; die Sicht kann bei starkem Regen eingeschränkt sein, schalten Sie daher immer das Licht an.",
+                "hu": "Álljon meg egy rövid fotóra az ablakból; erős esőben a látási viszonyok korlátozottak lehetnek, ezért mindig kapcsolja be a fényszórókat.",
+                "ro": "Opriți scurt pentru o poză de la fereastră; vizibilitatea poate fi redusă în timpul ploii torențiale, așa că aprindeți întotdeauna luminile.",
+                "en": "Stop briefly for a photo from the window; visibility can be limited during heavy rain, so always keep your headlights turned on."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Kut",
+                "hu": "Wat Kut",
+                "ro": "Wat Kut",
+                "en": "Wat Kut"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; nutzen Sie die Zeit für eine meditative Pause im Tempelinneren, während es draußen stürmt.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; használja ki az időt egy meditatív szünetre a templom belsejében, amíg odakint esik.",
+                "ro": "Parcați cât mai aproape de intrare; folosiți timpul pentru o pauză meditativă în interiorul templului în timp ce afară plouă torențial.",
+                "en": "Park as close to the entrance as possible; use the time for a meditative break inside the temple while the rain storms outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tha Kong Yea Shrine",
+                "hu": "Tha Kong Yea Shrine",
+                "ro": "Tha Kong Yea Shrine",
+                "en": "Tha Kong Yea Shrine"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm griffbereit im Auto; der kurze Weg vom Parkplatz zum überdachten Schrein kann bei Wind sehr nass sein.",
+                "hu": "Tartsa az esernyőt kéznél az autóban; a parkolótól a fedett szentélyig tartó rövid út szeles időben is vizes lehet.",
+                "ro": "Țineți umbrela la îndemână în mașină; drumul scurt de la parcare la sanctuarul acoperit poate fi foarte umed pe timp de vânt.",
+                "en": "Keep your umbrella handy in the car; the short walk from the parking lot to the covered shrine can be very wet when it's windy."
+              }
+            },
+            {
+              "name": {
+                "de": "3/2 Galerie",
+                "hu": "3/2 Galéria",
+                "ro": "Galeria 3/2",
+                "en": "3/2 Gallery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Parkplatz, falls verfügbar; die Galerie ist der beste Ort, um bei anhaltendem Regen in die lokale Kultur einzutauchen.",
+                "hu": "Használja a fedett parkolót, ha elérhető; a galéria a legjobb hely, hogy tartós eső esetén is elmerülhessen a helyi kultúrában.",
+                "ro": "Folosiți parcarea acoperită dacă este disponibilă; galeria este cel mai bun loc pentru a explora cultura locală în caz de ploaie persistentă.",
+                "en": "Use covered parking if available; the gallery is the best place to immerse yourself in local culture during persistent rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm Trang",
+                "hu": "Trang Óratorony",
+                "ro": "Turnul cu Ceas Trang",
+                "en": "Trang Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie eine langsame Runde um den Turm, um die beleuchteten Ziffern im Regen zu sehen; das Wasser auf dem Asphalt spiegelt die Lichter wunderbar wider.",
+                "hu": "Tegyen egy lassú kört a torony körül, hogy megcsodálja a fényeket az esőben; a vizes aszfalt csodásan tükrözi vissza a város fényeit.",
+                "ro": "Faceți un cerc lent în jurul turnului pentru a vedea luminile prin ploaie; asfaltul umed reflectă minunat luminile orașului.",
+                "en": "Take a slow drive around the tower to see the lights in the rain; the wet asphalt reflects the city lights beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Trang",
+                "hu": "Trangi Templom",
+                "ro": "Biserica din Trang",
+                "en": "Trang Church"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern der Kirche dämpfen das Geräusch des Regens; ein idealer Ort für eine trockene Besichtigung mit spirituellem Flair.",
+                "hu": "A templom vastag falai elnyelik az eső zaját; ideális helyszín egy száraz és spirituális hangulatú látogatáshoz a záporok idején.",
+                "ro": "Zidurile groase ale bisericii atenuează zgomotul ploii; este un loc ideal pentru o vizită uscată cu o atmosferă spirituală deosebită.",
+                "en": "The thick church walls dampen the sound of the rain; it's an ideal spot for a dry and spiritual visit during tropical showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Pao Kong Shrine",
+                "hu": "Pao Kong Shrine",
+                "ro": "Pao Kong Shrine",
+                "en": "Pao Kong Shrine"
+              },
+              "tip_5lang": {
+                "de": "Der Schrein hat breite Dachvorsprünge, unter denen man trocken stehen kann; bewundern Sie die Architektur, während es draußen schüttet.",
+                "hu": "A szentély széles tetőperemekkel rendelkezik, amelyek alatt szárazon állhat; csodálja meg az építészetet, miközben odakint szakad az eső.",
+                "ro": "Sanctuarul are streșini largi sub care puteți sta la uscat; admirați arhitectura în timp ce afară plouă torențial.",
+                "en": "The shrine has wide eaves where you can stand dry; admire the architecture while the rain pours down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cinta Garden",
+                "hu": "Cinta Garden",
+                "ro": "Cinta Garden",
+                "en": "Cinta Garden"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Eingängen der Markthallen; genießen Sie die trockene, lebhafte Atmosphäre und die große Auswahl an warmen Speisen.",
+                "hu": "Parkoljon közel a csarnokok bejáratához; élvezze a száraz, nyüzsgő légkört és a meleg ételek széles választékát a fedett részeken.",
+                "ro": "Parcați aproape de intrările halelor; bucurați-vă de atmosfera plină de viață și de selecția mare de mâncăruri calde la adăpost.",
+                "en": "Park close to the hall entrances; enjoy the dry, lively atmosphere and the large selection of warm food in the covered sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag mit dem Auto beginnt entspannt am Dugong Circle. Wir genießen die Fahrt durch das sonnige Trang zum Wat Kut und den kunstvollen Schreinen. Die Mittagspause in der 3/2 Galerie ist dank Klimatisierung angenehm. Nach dem Besuch der Kirche und des Uhrenturms fahren wir zum Cinta Garden, um pünktlich zum frühen Sonnenuntergang um 17:00 Uhr die Abendstimmung zu genießen.",
+            "hu": "A téli autós nap nyugodtan indul a Dugong körforgalomnál. Élvezzük az utazást a napfényes Trangban a Wat Kuthoz és a díszes szentélyekhez. A déli pihenő a 3/2 Galériában a légkondicionálásnak köszönhetően kellemes. A templom és az Óratorony után a Cinta Gardenbe hajtunk, hogy a korai, 17:00-s naplementére már ott legyünk.",
+            "ro": "O zi de iarnă cu mașina începe relaxat la Sensul Giratoriu Dugong. Ne bucurăm de drumul prin Trang-ul însorit spre Wat Kut și sanctuarele ornamentate. Pauza de prânz la Galeria 3/2 este plăcută datorită aerului condiționat. După biserică și Turnul cu Ceas, mergem la Cinta Garden pentru apusul timpuriu de la ora 17:00.",
+            "en": "A winter day by car starts relaxed at Dugong Circle. We enjoy the drive through sunny Trang to Wat Kut and the ornate shrines. The midday break at 3/2 Gallery is pleasant thanks to the air conditioning. After visiting the church and Clock Tower, we drive to Cinta Garden to arrive in time for the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Dugong Circle",
+                "hu": "Dugong körforgalom",
+                "ro": "Sensul Giratoriu Dugong",
+                "en": "Dugong Circle"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne im Winter ist ideal für helle, klare Fotos; nutzen Sie die kühleren Temperaturen für einen kurzen Spaziergang um die Statuen.",
+                "hu": "A téli reggeli napsütés ideális tiszta fotók készítéséhez; használja ki a hűvösebb időt egy rövid sétára a szobrok körül.",
+                "ro": "Soarele de dimineață iarna este ideal pentru fotografii clare; profitate de temperaturile mai scăzute pentru o scurtă plimbare la statui.",
+                "en": "The winter morning sun is ideal for bright, clear photos; take advantage of the cooler temperatures for a short walk around the statues."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Kut",
+                "hu": "Wat Kut",
+                "ro": "Wat Kut",
+                "en": "Wat Kut"
+              },
+              "tip_5lang": {
+                "de": "Der Tempelgarten wirkt im Winterlicht besonders ruhig; die angenehme Luft macht die Erkundung der Außenanlagen ohne Hitze sehr komfortabel.",
+                "hu": "A templomkert a téli fényben különösen nyugodt; a kellemes levegő miatt a külső részek felfedezése hőség nélkül is kényelmes élmény.",
+                "ro": "Grădina templului pare deosebit de liniștită în lumina iernii; aerul plăcut face explorarea zonelor exterioare foarte confortabilă.",
+                "en": "The temple garden feels especially peaceful in winter light; the pleasant air makes exploring the outdoor areas comfortable without the heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tha Kong Yea Shrine",
+                "hu": "Tha Kong Yea Shrine",
+                "ro": "Tha Kong Yea Shrine",
+                "en": "Tha Kong Yea Shrine"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Farben des Schreins unter dem blauen Himmel besonders prächtig; parken Sie im Schatten, um das Auto kühl zu halten.",
+                "hu": "Télen a szentély színei a kék ég alatt különösen pompásak; parkoljon árnyékban, hogy az autó belseje hűvös maradjon a látogatás alatt.",
+                "ro": "Iarna, culorile sanctuarului sub cerul albastru sunt superbe; parcați la umbră pentru a menține interiorul mașinii răcoros.",
+                "en": "In winter, the shrine's colors are especially magnificent under the blue sky; park in the shade to keep your car cool during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "3/2 Galerie",
+                "hu": "3/2 Galéria",
+                "ro": "Galeria 3/2",
+                "en": "3/2 Gallery"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine Pause im kühlen Innenraum, während die Mittagssonne am stärksten ist; die Galerie bietet moderne Kunst in entspanntem Ambiente.",
+                "hu": "Tartson egy kis szünetet a hűvös belső térben, amíg a déli nap a legerősebben tűz; a galéria modern művészetet kínál nyugodt környezetben.",
+                "ro": "Luați o pauză în interiorul răcoros în timp ce soarele de amiază este cel mai puternic; galeria oferă artă modernă într-un cadru relaxat.",
+                "en": "Take a break in the cool interior while the midday sun is at its strongest; the gallery offers modern art in a relaxed atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrenturm Trang",
+                "hu": "Trang Óratorony",
+                "ro": "Turnul cu Ceas Trang",
+                "en": "Trang Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag betont die Texturen des Turms; nutzen Sie die Parkmöglichkeiten in der Nähe, um den Turm in Ruhe zu umrunden.",
+                "hu": "A délutáni fények szépen kiemelik a torony részleteit; használja a közeli parkolási lehetőségeket, hogy nyugodtan körbejárhassa az építményt.",
+                "ro": "Luminile de după-amiază scot în evidență texturile turnului; folosiți parcările din apropiere pentru a înconjura turnul în liniște.",
+                "en": "The afternoon light emphasizes the tower's textures; use the nearby parking options to circle the landmark at a leisurely pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Trang",
+                "hu": "Trangi Templom",
+                "ro": "Biserica din Trang",
+                "en": "Trang Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag, wenn das warme Winterlicht durch die Fenster eine magische Stimmung im Inneren erzeugt.",
+                "hu": "Látogassa meg a templomot késő délután, amikor a meleg téli fény az ablakokon át mágikus hangulatot teremt a belső térben.",
+                "ro": "Vizitați biserica după-amiaza târziu, când lumina caldă de iarnă prin ferestre creează o atmosferă magică în interior.",
+                "en": "Visit the church in the late afternoon, when the warm winter light through the windows creates a magical atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pao Kong Shrine",
+                "hu": "Pao Kong Shrine",
+                "ro": "Pao Kong Shrine",
+                "en": "Pao Kong Shrine"
+              },
+              "tip_5lang": {
+                "de": "Kurz vor 17:00 Uhr ist die Atmosphäre hier besonders friedlich; die tiefstehende Sonne lässt den Schrein in goldenen Tönen erstrahlen.",
+                "hu": "Közvetlenül 17:00 előtt a hangulat itt különösen békés; az alacsonyan járó nap arany tónusokba öltözteti a szentély épületét.",
+                "ro": "Chiar înainte de ora 17:00, atmosfera aici este deosebit de pașnică; soarele jos face ca sanctuarul să strălucească în tonuri aurii.",
+                "en": "Just before 17:00, the atmosphere here is especially peaceful; the low sun makes the shrine glow in beautiful golden tones."
+              }
+            },
+            {
+              "name": {
+                "de": "Cinta Garden",
+                "hu": "Cinta Garden",
+                "ro": "Cinta Garden",
+                "en": "Cinta Garden"
+              },
+              "tip_5lang": {
+                "de": "Da es nach 17:00 Uhr schnell dunkel wird, ist dies der ideale Ort für den Abend; genießen Sie die warme Beleuchtung und die kühle Winterbrise.",
+                "hu": "Mivel 17:00 után gyorsan sötétedik, ez az ideális hely az estéhez; élvezze a meleg fényeket és a hűvös téli szellőt a szabadban.",
+                "ro": "Deoarece se întunecă repede după ora 17:00, acesta este locul ideal pentru seară; bucurați-vă de iluminarea caldă și de briza răcoroasă.",
+                "en": "As it gets dark quickly after 17:00, this is the ideal spot for the evening; enjoy the warm lighting and the cool winter breeze outdoors."
+              }
+            }
+          ]
+        }
       }
     }
   }

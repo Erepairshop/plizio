@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Észak-L'Aquila ellenálló palotáinak megcsodálásával, a Pascalival és a Branconióval. A dél a pompás Palazzo Quinzihez és a MAXXI kortárs gyűjteményeihez vezet. Délután sétáljon dél felé, az Érseki Palota spirituális vonzereje felé. Zárja a napot a régió gazdag örökségének elmélyült megismerésével a lenyűgöző MUNDA múzeumban.",
         "ro": "Începeți dimineața admirând palatele rezistente din nordul orașului L'Aquila, cu Pascali și Branconio. Amiaza vă aduce la grandiosul Palazzo Quinzi și la colecțiile contemporane de la MAXXI. După-amiaza, plimbați-vă spre sud, spre gravitatea spirituală a Palatului Arhiepiscopal. Încheiați-vă ziua explorând profund patrimoniul regiunii la uimitorul muzeu MUNDA.",
         "en": "Begin your morning admiring the resilient palazzos of northern L'Aquila, starting with Pascali and Branconio. Midday brings you to the grand Palazzo Quinzi and the striking contemporary collections at MAXXI. In the afternoon, stroll south towards the spiritual gravity of the Archbishop's Palace. Conclude your day delving deep into the region's heritage at the MUNDA museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Palazzo Pascali mit grauem Himmel; ein stabiler Regenschirm ist für diesen Spaziergang unerlässlich. Mittags regnet es stärker, nutzen Sie die prachtvollen Portale der Paläste als vorübergehenden Schutz vor den Güssen. Der Nachmittag ist ideal für das MAXXI L'Aquila, wo moderne Kunst einen farbenfrohen Kontrast zum Nieselregen bietet. Der Abend endet im MUNDA, dessen Innenräume Sie trocken halten, bis es Zeit für einen gemütlichen Ausklang ist.",
+            "hu": "A reggel szürke égbolttal indul a Palazzo Pascali előtt, így egy strapabíró esernyő lesz a séta legfontosabb kiegészítője. Délben az eső felerősödhet, használja a paloták hatalmas kapualjait ideiglenes menedékként, miközben a belvárosban navigál. A délutánt érdemes a MAXXI L'Aquila falai között tölteni, ahol a modern művészet színes kontrasztot ad a borús időnek. Az este a MUNDA-nál zárul, ahol a benti kiállítások szárazon tartják a nap végéig.",
+            "ro": "Dimineața începe cu un cer cenușiu la Palazzo Pascali, făcând din umbrela rezistentă cel mai important accesoriu pentru plimbare. La prânz ploaia se intensifică, deci folosiți intrările grandioase ale palatelor ca adăposturi temporare în centrul vechi. După-amiaza este cel mai bine petrecută în interiorul MAXXI L'Aquila, unde arta modernă oferă un contrast colorat. Seara se încheie la MUNDA, unde expozițiile interioare vă mențin uscat până la finalul vizitei.",
+            "en": "Morning starts with a gray sky at Palazzo Pascali, making a sturdy umbrella your most important accessory for the walk. By noon, the rain intensifies, so use the grand entrances of the palaces as temporary shelters while navigating the center. The afternoon is best spent inside the MAXXI L'Aquila, where modern art provides a colorful contrast to the drizzly weather. Evening wraps up at MUNDA, where the indoor exhibits keep you dry until it’s time to head home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Pascali",
+                "hu": "Palazzo Pascali",
+                "ro": "Palazzo Pascali",
+                "en": "Palazzo Pascali"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Renaissance-Details vom Schutz des Portals aus und achten Sie auf das glatte Kopfsteinpflaster, das bei Nässe extrem rutschig wird.",
+                "hu": "Csodálja meg a reneszánsz részleteket a kapualj védelméből, és ügyeljen a fényesre kopott utcakövekre, mert nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Admirați detaliile renascentiste din protecția portalului și aveți grijă la pavajul lustruit, care devine extrem de alunecos atunci când este ud.",
+                "en": "Admire the Renaissance details from the shelter of the portal and be mindful of the polished cobblestones, which become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Branconio",
+                "hu": "Palazzo Branconio",
+                "ro": "Palazzo Branconio",
+                "en": "Palazzo Branconio"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die kunstvolle Fassade kurz und suchen Sie dann Schutz in den umliegenden Arkaden, um die Architektur ohne nass zu werden zu genießen.",
+                "hu": "Vesse egy gyors pillantást a díszes homlokzatra, majd keressen menedéket a közeli árkádok alatt, hogy ázás nélkül élvezhesse az építészeti látványt.",
+                "ro": "Priviți rapid fațada decorată și apoi căutați adăpost sub arcadele din apropiere pentru a vă bucura de arhitectură fără a vă uda prea tare.",
+                "en": "Take a quick look at the ornate facade and then seek shelter under nearby arcades to enjoy the architecture without getting soaked by the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Quinzi",
+                "hu": "Palazzo Quinzi",
+                "ro": "Palazzo Quinzi",
+                "en": "Palazzo Quinzi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den massiven Eingangsbereich, um sich kurz abzutrocknen, während Sie die imposante Barockstruktur dieses historischen Adelsitzes bestaunen.",
+                "hu": "Használja ki a masszív bejárati részt egy rövid szárítkozásra, miközben megcsodálja e történelmi nemesi rezidencia impozáns barokk szerkezetét.",
+                "ro": "Folosiți zona masivă de la intrare pentru a vă usca puțin în timp ce admirați structura barocă impunătoare a acestei reședințe nobiliare istorice.",
+                "en": "Use the massive entrance area for a quick dry-off while you admire the imposing Baroque structure of this historic noble residence."
+              }
+            },
+            {
+              "name": {
+                "de": "MAXXI L'Aquila",
+                "hu": "MAXXI L'Aquila",
+                "ro": "MAXXI L'Aquila",
+                "en": "MAXXI L'Aquila"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Ort für regnerische Stunden; erkunden Sie die weitläufigen, trockenen Galerien und nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Ez a tökéletes hely az esős órákra; fedezze fel a tágas, száraz galériákat, és használja a ruhatárat a vizes kabátok és esernyők elhelyezésére.",
+                "ro": "Acesta este locul perfect pentru orele ploioase; explorați galeriile spațioase și uscate și folosiți garderoba pentru hainele ude și umbrele.",
+                "en": "This is the perfect spot for rainy hours; explore the spacious, dry galleries and make use of the cloakroom for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Arcivescovile",
+                "hu": "Érseki Palota",
+                "ro": "Palatul Arhiepiscopal",
+                "en": "Palazzo Arcivescovile"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie eine Regenpause ab, um den Innenhof zu besichtigen, oder bewundern Sie die architektonische Strenge unter einem schützenden Vordach.",
+                "hu": "Várjon meg egy szünetet az esőben az udvar megtekintéséhez, vagy csodálja meg az építészeti szigort egy védőtető vagy eresz alól szemlélődve.",
+                "ro": "Așteptați o pauză în ploaie pentru a vizita curtea interioară sau admirați rigoarea arhitecturală de sub o streașină protectoare din apropiere.",
+                "en": "Wait for a break in the rain to view the courtyard, or admire the architectural rigor while standing under a protective ledge nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "MUNDA - Museo Nazionale d’Abruzzo",
+                "hu": "MUNDA - Museo Nazionale d’Abruzzo",
+                "ro": "MUNDA - Museo Nazionale d’Abruzzo",
+                "en": "MUNDA - Museo Nazionale d’Abruzzo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag sicher im Inneren der Festung; die dicken Mauern bieten perfekten Schutz vor dem Sturm und beherbergen wertvolle Kunstwerke.",
+                "hu": "Zárja a napot biztonságban az erőd belsejében; a vastag falak tökéletes védelmet nyújtanak a vihar elől, és értékes műalkotásokat rejtenek.",
+                "ro": "Încheiați ziua în siguranță în interiorul cetății; zidurile groase oferă protecție perfectă împotriva furtunii și adăpostesc opere de artă valoroase.",
+                "en": "End your day safely inside the fortress; the thick walls provide perfect protection from the storm and house valuable artworks in a dry setting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Palazzo Pascali erfordert warme Kleidung, da die Höhenlage von L'Aquila oft beißende Kälte mit sich bringt. Mittags bieten die engen Gassen der Altstadt etwas Schutz vor dem eisigen Bergwind. Ein Besuch im MAXXI Museum am Nachmittag ist eine willkommene Gelegenheit, sich in den beheizten Räumen aufzuwärmen. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen Sie das goldene Licht auf den Steinfassaden, bevor der Nachtfrost einsetzt.",
+            "hu": "A Palazzo Pascali előtti fagyos reggel réteges öltözködést igényel, mivel L'Aquila magassága gyakran metsző hideget hoz. Délben az óváros szűk utcái némi védelmet nyújtanak a jeges hegyi szél ellen. A délutáni látogatás a MAXXI múzeumban kiváló alkalom a felmelegedésre a fűtött termekben. Mivel a nap már 17:00 körül lemegy, élvezze a kőhomlokzatokra vetülő aranyfényt, mielőtt beállna az éjszakai fagy.",
+            "ro": "O dimineață geroasă la Palazzo Pascali necesită haine groase, deoarece altitudinea orașului L'Aquila aduce adesea un frig tăios. La prânz, străzile înguste ale centrului vechi oferă puțin adăpost împotriva vântului înghețat de munte. O vizită la muzeul MAXXI după-amiaza este o ocazie binevenită de a vă încălzi în sălile climatizate. Deoarece soarele apune devreme, în jur de 17:00, bucurați-vă de lumina aurie înainte de înghețul nopții.",
+            "en": "A frosty winter morning at Palazzo Pascali requires heavy layers, as L'Aquila's altitude brings a sharp, biting cold. At midday, the historic center's narrow streets provide some shelter from the wind. Afternoon visits to the MAXXI museum offer a much-needed warm break indoors. As sunset arrives early around 17:00, enjoy the golden glow on the stone facades before the night frost sets in after your final stop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Pascali",
+                "hu": "Palazzo Pascali",
+                "ro": "Palazzo Pascali",
+                "en": "Palazzo Pascali"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermokleidung für den Start; die Steinmauern strahlen am frühen Morgen eine tiefe Kälte aus, die man nicht unterschätzen sollte.",
+                "hu": "Viseljen termaruházatot az induláshoz; a kőfalak kora reggel mély hideget árasztanak, amelyet nem szabad alábecsülni a városnézés során.",
+                "ro": "Purtați haine termice pentru început; zidurile de piatră emană un frig profund dimineața devreme, care nu trebuie subestimat în timpul vizitei.",
+                "en": "Wear thermal layers for the start; the stone walls radiate a deep chill in the early morning that should not be underestimated while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Branconio",
+                "hu": "Palazzo Branconio",
+                "ro": "Palazzo Branconio",
+                "en": "Palazzo Branconio"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade im hellen Winterlicht, das die Details hervorhebt, aber halten Sie sich in der Sonne auf, um nicht zu sehr auszukühlen.",
+                "hu": "Csodálja meg a homlokzatot az éles téli fényben, amely kiemeli a részleteket, de próbáljon a napsütötte oldalon maradni, hogy ne fázzon meg.",
+                "ro": "Admirați fațada în lumina puternică a iernii care scoate în evidență detaliile, dar încercați să stați la soare pentru a nu vă răci prea tare.",
+                "en": "Admire the facade in the sharp winter light which highlights the details, but try to stay on the sunny side of the street to keep warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Quinzi",
+                "hu": "Palazzo Quinzi",
+                "ro": "Palazzo Quinzi",
+                "en": "Palazzo Quinzi"
+              },
+              "tip_5lang": {
+                "de": "Die barocke Pracht wirkt im Winter besonders edel; achten Sie jedoch auf schattige Stellen, an denen Reif das Gehen auf dem Pflaster erschwert.",
+                "hu": "A barokk pompa télen különösen nemesnek hat; ügyeljen azonban az árnyékos helyekre, ahol a dér csúszóssá teheti a köveket a lába alatt.",
+                "ro": "Splendoarea barocă pare deosebit de nobilă iarna; aveți grijă totuși la locurile umbroase unde chiciura poate face pavajul foarte alunecos.",
+                "en": "The Baroque splendor looks particularly noble in winter; however, watch out for shaded spots where frost might make the pavement slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "MAXXI L'Aquila",
+                "hu": "MAXXI L'Aquila",
+                "ro": "MAXXI L'Aquila",
+                "en": "MAXXI L'Aquila"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Stopp als Aufwärmpause; die modernen, beheizten Ausstellungsräume sind der ideale Ort, um die Kälte der Berge kurz zu vergessen.",
+                "hu": "Használja ezt a megállót melegedő szünetként; a modern, fűtött kiállítóterek ideálisak arra, hogy egy kicsit elfelejtse a hegyvidéki hideget.",
+                "ro": "Folosiți această oprire ca o pauză de încălzire; spațiile expoziționale moderne și încălzite sunt ideale pentru a uita puțin de frigul muntelui.",
+                "en": "Use this stop as a warm-up break; the modern, heated exhibition spaces are the ideal place to briefly forget the biting mountain cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Arcivescovile",
+                "hu": "Érseki Palota",
+                "ro": "Palatul Arhiepiscopal",
+                "en": "Palazzo Arcivescovile"
+              },
+              "tip_5lang": {
+                "de": "Das frühe Abendlicht verleiht dem Palast eine mystische Aura; ziehen Sie Schal und Mütze fest, da der Wind in diesen Gassen oft zunimmt.",
+                "hu": "A kora esti fények misztikus aurát kölcsönöznek a palotának; húzza szorosabbra a sálat, mert a szél ezekben az utcákban gyakran felerősödik.",
+                "ro": "Lumina de seară devreme conferă palatului o aură mistică; strângeți bine fularul, deoarece vântul se intensifică adesea pe aceste străzi.",
+                "en": "The early evening light gives the palace a mystical aura; tighten your scarf as the wind often picks up in these narrow corridors at sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "MUNDA - Museo Nazionale d’Abruzzo",
+                "hu": "MUNDA - Museo Nazionale d’Abruzzo",
+                "ro": "MUNDA - Museo Nazionale d’Abruzzo",
+                "en": "MUNDA - Museo Nazionale d’Abruzzo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in der beheizten Festung; die dicken Mauern speichern die Wärme der Innenräume gut und schützen vor dem Frost draußen.",
+                "hu": "Fejezze be a túrát a fűtött erődben; a vastag falak jól tartják a benti meleget, és tökéletesen védenek a kinti éjszakai fagyoktól.",
+                "ro": "Încheiați turul în cetatea încălzită; zidurile groase păstrează bine căldura interioară și vă protejează perfect de gerul nopții de afară.",
+                "en": "Finish your tour inside the heated fortress; the thick walls retain indoor warmth well, providing a perfect shield from the freezing night air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Induljon a reggel a gyönyörűen felújított Palazzo Pascali felfedezésével, majd tekerjen az innovatív MAXXI felé. Délben a történelmi központon keresztül a Palazzo Carli akadémiai bájához vezet az útja. A délutáni pedálozás a Palazzo Bettihez és az ex GIL racionalista vonalaihoz visz. Az este a MUNDA múzeum gazdag kulturális tárgyainak megismerésével köszönt be.",
         "ro": "Porniți în dimineața explorând frumosul Palazzo Pascali restaurat înainte de a pedala spre inovatorul MAXXI. La amiază, plimbarea vă poartă spre farmecul academic al Palatului Carli. Pedalarea de după-amiază vă duce la impresionantul Palazzo Betti și la liniile raționaliste ale fostului GIL. Seara sosește în timp ce absorbiți bogatele artefacte culturale la muzeul MUNDA.",
         "en": "Roll into the morning exploring the beautifully restored Palazzo Pascali before riding to the innovative MAXXI. Midday riding takes you through the historical center to discover Palazzo Carli's academic charm. Afternoon pedaling leads you to the impressive Palazzo Betti and the rationalist lines of the ex GIL. Evening arrives as you absorb the rich cultural artifacts at MUNDA."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen durch L'Aquila erfordert gute Ausrüstung; wasserfeste Kleidung und Schutzbleche sind heute Ihre besten Freunde. Mittags sollten Sie die Route über flachere, weniger rutschige Straßen planen und scharfe Kurven auf nassem Kopfsteinpflaster vermeiden. Am Nachmittag bietet das MAXXI einen überdachten Parkplatz und eine trockene Pause. Denken Sie am Abend daran, dass Bremswege bei Nässe länger sind, wenn Sie zum MUNDA hinunterfahren.",
+            "hu": "Egy esős bringázás L'Aquilában jó felszerelést igényel; a vízálló ruha és a sárvédő ma a legjobb barátja lesz. Délben tervezze az útvonalat simább utakra, és kerülje az éles kanyarokat a nedves macskakövön. Délután a MAXXI-nál találhat fedett tárolót és száraz pihenőt a kiállítások alatt. Este ne feledje, hogy a féktávolság megnő a vizes lejtőkön, amikor a MUNDA felé teker.",
+            "ro": "O plimbare cu bicicleta prin ploaie în L'Aquila necesită echipament bun; hainele impermeabile și aripile sunt cei mai buni prieteni astăzi. La prânz, planificați ruta pe străzi mai puțin alunecoase și evitați virajele strânse pe pavajul ud. După-amiaza, MAXXI oferă parcare acoperită și o pauză uscată. Seara, nu uitați că distanța de frânare este mai mare pe carosabil umed spre MUNDA.",
+            "en": "A rainy bike ride through L'Aquila requires good gear; waterproof clothing and mudguards are your best friends today. At noon, plan your route on smoother roads and avoid sharp turns on wet cobblestones. In the afternoon, MAXXI offers covered parking and a dry break while you explore. In the evening, remember that braking distances are longer on wet descents as you head toward MUNDA."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Pascali",
+                "hu": "Palazzo Pascali",
+                "ro": "Palazzo Pascali",
+                "en": "Palazzo Pascali"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad an einem geschützten Ort und prüfen Sie Ihre Bremsen, bevor Sie die Tour auf dem nassen Pflaster fortsetzen.",
+                "hu": "Rögzítse kerékpárját egy védettebb helyen, és ellenőrizze a fékeit, mielőtt folytatná a túrát a nedves, csúszós városi burkolaton.",
+                "ro": "Asigurați bicicleta într-un loc protejat și verificați frânele înainte de a continua turul pe pavajul ud și alunecos din oraș.",
+                "en": "Secure your bike in a sheltered spot and check your brakes before continuing the tour on the wet, slippery city pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "MAXXI L'Aquila",
+                "hu": "MAXXI L'Aquila",
+                "ro": "MAXXI L'Aquila",
+                "en": "MAXXI L'Aquila"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Regenbekleidung auszuschütteln; das Museum bietet eine trockene Umgebung für eine längere Pause.",
+                "hu": "Használja ki a múzeumlátogatást az esőruházat lerázására; a múzeum száraz környezetet biztosít egy hosszabb, kényelmes pihenőhöz.",
+                "ro": "Folosiți vizita la muzeu pentru a vă scutura echipamentul de ploaie; muzeul oferă un mediu uscat pentru o pauză lungă și confortabilă.",
+                "en": "Use the museum visit to shake off your rain gear; the museum provides a dry environment for a longer, comfortable rest away from the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Carli",
+                "hu": "Palazzo Carli",
+                "ro": "Palazzo Carli",
+                "en": "Palazzo Carli"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter einem Dachvorsprung, um den Sattel trocken zu halten, während Sie die beeindruckende Fassade dieses Adelspalastes bewundern.",
+                "hu": "Parkoljon egy tetőnyúlvány alatt, hogy a nyereg száraz maradjon, miközben megcsodálja ennek a nemesi palotának az impozáns homlokzatát.",
+                "ro": "Parcați sub o streașină pentru a păstra șaua uscată în timp ce admirați fațada impunătoare a acestui palat nobiliar istoric.",
+                "en": "Park under a roof overhang to keep your saddle dry while you admire the imposing facade of this historic noble palace."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Betti",
+                "hu": "Palazzo Betti",
+                "ro": "Palazzo Betti",
+                "en": "Palazzo Betti"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen in der Nähe der Bordsteinkanten; die Abflüsse hier können bei starkem Regen manchmal überlaufen.",
+                "hu": "Ügyeljen a tócsákra a padkák közelében; a vízelvezetők erős esőben néha túlcsordulhatnak, ami elrejtheti az úthibákat a kerékpár elől.",
+                "ro": "Aveți grijă la bălțile de lângă borduri; scurgerile se pot revărsa uneori în timpul ploilor abundente, ascunzând defectele drumului.",
+                "en": "Watch out for deep puddles near the curbs; drains can sometimes overflow during heavy rain, hiding road defects from your bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dell'ex GIL",
+                "hu": "Palazzo dell'ex GIL",
+                "ro": "Palazzo dell'ex GIL",
+                "en": "Palazzo dell'ex GIL"
+              },
+              "tip_5lang": {
+                "de": "Die rationale Architektur bietet wenig Windschutz; halten Sie den Lenker bei Böen fest und meiden Sie rutschige Fahrbahnmarkierungen.",
+                "hu": "A racionális építészet kevés szélvédelmet nyújt; tartsa erősen a kormányt a széllökéseknél, és kerülje a csúszós útburkolati jeleket.",
+                "ro": "Arhitectura raționalistă oferă puțină protecție împotriva vântului; țineți bine ghidonul la rafale și evitați marcajele rutiere alunecoase.",
+                "en": "The rationalist architecture offers little wind protection; keep a firm grip on the handlebars during gusts and avoid slippery road markings."
+              }
+            },
+            {
+              "name": {
+                "de": "MUNDA - Museo Nazionale d’Abruzzo",
+                "hu": "MUNDA - Museo Nazionale d’Abruzzo",
+                "ro": "MUNDA - Museo Nazionale d’Abruzzo",
+                "en": "MUNDA - Museo Nazionale d’Abruzzo"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Festung ist bei Regen anstrengend; nutzen Sie die niedrigen Gänge und freuen Sie sich auf die trockenen Ausstellungsräume.",
+                "hu": "Az erődhöz vezető emelkedő esőben fárasztó lehet; használjon alacsonyabb fokozatot, és nézzen szét a várfalon belül, ahol szárazon maradhat.",
+                "ro": "Urcarea spre cetate poate fi obositoare pe ploaie; folosiți viteze inferioare și bucurați-vă de spațiile expoziționale uscate din interior.",
+                "en": "The climb to the fortress can be tiring in the rain; use lower gears and look forward to the dry exhibition spaces waiting for you inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in L'Aquila erfordert warme Handschuhe und Windschutz, da der Fahrtwind die Kälte verstärkt. Mittags scheint die Sonne oft hell, aber die Temperaturen bleiben niedrig, also halten Sie sich in Bewegung. Am Nachmittag ist das MAXXI ein idealer Ort, um die Hände aufzuwärmen und neue Energie zu tanken. Nach 17:00 Uhr sinken die Temperaturen rapide; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die Dämmerung am MUNDA einwandfrei funktioniert.",
+            "hu": "A téli bringázás L'Aquilában meleg kesztyűt és szélvédelmet igényel, mivel a menetszél felerősíti a hidegérzetet. Délben a nap gyakran süt, de a hőmérséklet alacsony marad, ezért maradjon mozgásban. Délután a MAXXI ideális hely a kezek felmelegítésére és az energiaraktárak feltöltésére. 17:00 után a hőmérséklet gyorsan zuhan; győződjön meg róla, hogy a lámpái jól működnek a szürkületben.",
+            "ro": "Ciclismul de iarnă în L'Aquila necesită mănuși groase și protecție la vânt, deoarece curentul de aer amplifică senzația de frig. La prânz, soarele strălucește adesea, dar temperaturile rămân scăzute. După-amiaza, MAXXI este locul ideal pentru a vă încălzi mâinile și a vă recăpăta energia. După ora 17:00, temperaturile scad brusc; asigurați-vă că luminile bicicletei funcționează perfect pentru amurg.",
+            "en": "Winter cycling in L'Aquila requires warm gloves and wind protection, as the wind chill amplifies the cold significantly. At noon, the sun often shines brightly, but temperatures remain low, so keep moving to stay warm. In the afternoon, MAXXI is an ideal place to warm your hands and recharge. After 17:00, temperatures drop rapidly; ensure your bike lights are working perfectly for the twilight at MUNDA."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Pascali",
+                "hu": "Palazzo Pascali",
+                "ro": "Palazzo Pascali",
+                "en": "Palazzo Pascali"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig; auf schattigem Kopfsteinpflaster kann sich über Nacht unbemerkt Glatteis gebildet haben, das sehr gefährlich ist.",
+                "hu": "Induljon óvatosan; az árnyékos macskakövön éjszaka észrevétlenül jégpáncél alakulhatott ki, ami rendkívül veszélyes lehet a kanyarokban.",
+                "ro": "Porniți cu prudență; pe pavajul umbrit s-ar fi putut forma peste noapte o peliculă de gheață invizibilă, foarte periculoasă pentru bicicliști.",
+                "en": "Start cautiously; on shaded cobblestones, a thin layer of ice may have formed unnoticed overnight, which is very dangerous for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "MAXXI L'Aquila",
+                "hu": "MAXXI L'Aquila",
+                "ro": "MAXXI L'Aquila",
+                "en": "MAXXI L'Aquila"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt hier, um die Körperwärme zu regenerieren, bevor Sie wieder in den kalten Fahrtwind der Berge steigen.",
+                "hu": "Hosszabbítsa meg itt a tartózkodását, hogy regenerálja testhőmérsékletét, mielőtt újra szembenézne a hegyvidéki jeges menetszéllel.",
+                "ro": "Prelungiți șederea aici pentru a vă recupera căldura corporală înainte de a înfrunta din nou curentul de aer rece de munte pe bicicletă.",
+                "en": "Extend your stay here to regenerate your body heat before facing the icy mountain wind chill on your bike again."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Carli",
+                "hu": "Palazzo Carli",
+                "ro": "Palazzo Carli",
+                "en": "Palazzo Carli"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur, während Sie in Bewegung bleiben; die Kälte zieht in diesen Gassen schnell durch die Kleidung, wenn man steht.",
+                "hu": "Csodálja meg az építészetet, de maradjon mozgásban; a hideg ezekben a szűk utcákban gyorsan átjárja a ruhát, ha túl sokat egy helyben áll.",
+                "ro": "Admirați arhitectura în timp ce rămâneți în mișcare; frigul pătrunde rapid prin haine pe aceste străzi dacă staționați prea mult.",
+                "en": "Admire the architecture while staying in motion; the cold in these narrow streets quickly penetrates clothing if you stand still for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Betti",
+                "hu": "Palazzo Betti",
+                "ro": "Palazzo Betti",
+                "en": "Palazzo Betti"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne kann blenden; tragen Sie eine Sportbrille, um Unebenheiten auf der Fahrbahn rechtzeitig zu erkennen.",
+                "hu": "Az alacsonyan járó téli nap elvakíthat; viseljen napszemüveget, hogy időben észrevegye az útfelület egyenetlenségeit vagy a jeges foltokat.",
+                "ro": "Soarele de iarnă aflat jos la orizont vă poate orbi; purtați ochelari de sport pentru a observa la timp denivelările sau petele de gheață.",
+                "en": "The low winter sun can be blinding; wear sports glasses to spot road irregularities or icy patches in time for safe maneuvering."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dell'ex GIL",
+                "hu": "Palazzo dell'ex GIL",
+                "ro": "Palazzo dell'ex GIL",
+                "en": "Palazzo dell'ex GIL"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf windige Ecken an diesem offenen Gebäude; der Abruzzen-Wind kann hier besonders beißend sein, schützen Sie Ihr Gesicht.",
+                "hu": "Ügyeljen a szeles sarkokra az épület körül; az abruzzói szél itt különösen metsző lehet, védje arcát és kezeit a kihűléstől.",
+                "ro": "Aveți grijă la colțurile expuse vântului lângă această clădire; vântul din Abruzzo poate fi tăios aici, protejați-vă fața și mâinile.",
+                "en": "Watch out for windy corners around this open building; the Abruzzo wind can be particularly biting here, protect your face and hands."
+              }
+            },
+            {
+              "name": {
+                "de": "MUNDA - Museo Nazionale d’Abruzzo",
+                "hu": "MUNDA - Museo Nazionale d’Abruzzo",
+                "ro": "MUNDA - Museo Nazionale d’Abruzzo",
+                "en": "MUNDA - Museo Nazionale d’Abruzzo"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang wird es schlagartig kälter; nutzen Sie den Besuch im Inneren, um sich für die finale Heimfahrt warm anzuziehen.",
+                "hu": "Naplemente után hirtelen lehűl a levegő; használja ki a benti látogatást, hogy melegen felöltözzön a végső hazaúthoz a sötétben.",
+                "ro": "După apus se face brusc mai frig; profitați de vizita în interior pentru a vă îmbrăca bine pentru drumul final spre casă prin întuneric.",
+                "en": "After sunset, it gets significantly colder; use the indoor visit to layer up warmly for the final ride home in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Kezdje a reggelt egy könnyű autózással a MUNDA felé, elmerülve Abruzzo régió mélyreható történelmében. Délben hajtson a Palazzo dell'ex GIL racionalista építészetéhez és a történelmi Érseki Palotához. Délután a város szélén navigálva csodálja meg a Palazzo Lucentini Bonannit. Fejezze be a napot a MAXXI lenyűgöző, élénk modern művészeti kiállításainak felfedezésével.",
         "ro": "Începeți dimineața cu un drum ușor spre MUNDA, cufundându-vă în istoria profundă a regiunii Abruzzo. Până la amiază, conduceți către arhitectura raționalistă a Palazzo dell'ex GIL și spre Palatul Arhiepiscopal. După-amiaza, navigați pe marginea orașului pentru a admira Palazzo Lucentini Bonanni. Terminați ziua explorând scenele vibrante de artă modernă găzduite la muzeul MAXXI.",
         "en": "Start the morning with an easy drive to MUNDA, immersing yourself in the profound history of the Abruzzo region. By midday, drive up to the rationalist architecture of Palazzo dell'ex GIL and the historic Archbishop's Palace. In the afternoon, navigate the city edge to admire Palazzo Lucentini Bonanni. Finish the day exploring the vibrant modern art scenes housed at MAXXI."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "L'Aquila im Regen mit dem Auto zu erkunden, bietet den Vorteil, trocken von einem Palast zum nächsten zu gelangen. Beginnen Sie am MUNDA, wo Parkplätze in der Nähe der Festung den Zugang erleichtern. Mittags kann der Verkehr bei starkem Regen zäher sein, planen Sie also etwas mehr Zeit für den Weg zum Palazzo Arcivescovile ein. Am Nachmittag ist das MAXXI ein hervorragender Zufluchtsort mit bequemer Erreichbarkeit. Genießen Sie die glänzenden Straßen der Stadt aus dem trockenen Innenraum.",
+            "hu": "L'Aquila felfedezése esőben autóval azzal az előnnyel jár, hogy szárazon juthat el egyik palotától a másikig. Kezdjen a MUNDA-nál, ahol az erőd közeli parkolók megkönnyítik a bejutást. Délben az erős esőben a forgalom lassabb lehet, hagyjon több időt az Érseki Palotához vezető útra. Délután a MAXXI kiváló menedék, amely autóval is kényelmesen megközelíthető. Élvezze a város csillogó utcáit a száraz utastérből.",
+            "ro": "Explorarea orașului L'Aquila pe ploaie cu mașina oferă avantajul de a ajunge uscat de la un palat la altul. Începeți la MUNDA, unde parcările de lângă cetate facilitează accesul. La prânz, traficul poate fi mai lent din cauza ploii, deci rezervați mai mult timp pentru drumul spre Palatul Arhiepiscopal. După-amiaza, MAXXI este un refugiu excelent, accesibil ușor cu mașina. Admirați străzile strălucitoare ale orașului din confortul interiorului uscat.",
+            "en": "Exploring L'Aquila in the rain by car has the advantage of staying dry while moving between historical palaces. Start at MUNDA, where nearby parking makes access to the fortress easy. At noon, traffic can be slower during heavy rain, so allow extra time for the drive to Palazzo Arcivescovile. In the afternoon, MAXXI is an excellent refuge that is conveniently accessible by car. Enjoy the city's glistening streets from the dry comfort of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "MUNDA - Museo Nazionale d’Abruzzo",
+                "hu": "MUNDA - Museo Nazionale d’Abruzzo",
+                "ro": "MUNDA - Museo Nazionale d’Abruzzo",
+                "en": "MUNDA - Museo Nazionale d’Abruzzo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang der Festung, um den Fußweg im Regen kurz zu halten und trocken zur Kunstsammlung zu gelangen.",
+                "hu": "Parkoljon a lehető legközelebb az erőd bejáratához, hogy minimálisra csökkentse az esőben megtett utat, és szárazon érkezzen a kiállításra.",
+                "ro": "Parcați cât mai aproape de intrarea în cetate pentru a scurta drumul prin ploaie și a ajunge uscat la colecția de artă din interior.",
+                "en": "Park as close as possible to the fortress entrance to minimize your walk in the rain and arrive dry at the impressive art collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dell'ex GIL",
+                "hu": "Palazzo dell'ex GIL",
+                "ro": "Palazzo dell'ex GIL",
+                "en": "Palazzo dell'ex GIL"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf große Pfützen in den Rinnsteinen; die rationalistische Fassade lässt sich gut kurz vom Auto aus betrachten.",
+                "hu": "Kiszálláskor ügyeljen a mély tócsákra a padka mentén; a racionalista homlokzatot érdemes először az autó ablakából alaposan szemügyre venni.",
+                "ro": "Aveți grijă la bălțile adânci de lângă bordură când coborâți; fațada raționalistă poate fi admirată parțial chiar din confortul mașinii.",
+                "en": "Watch out for deep puddles near the curb when getting out; the rationalist facade can be partially admired even from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Arcivescovile",
+                "hu": "Érseki Palota",
+                "ro": "Palatul Arhiepiscopal",
+                "en": "Palazzo Arcivescovile"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in den Seitenstraßen; ein kurzer Sprint bringt Sie in den geschützten Bereich des bischöflichen Hofes.",
+                "hu": "Használja ki az oldalsó utcák parkolóhelyeit; egy rövid sprinttel gyorsan bejuthat az érseki udvar védett, fedett részeire az eső elől.",
+                "ro": "Folosiți locurile de parcare de pe străzile laterale; un scurt sprint vă va duce rapid în zona protejată a curții arhiepiscopale.",
+                "en": "Make use of parking spaces in the side streets; a quick sprint will get you into the protected area of the archiepiscopal courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Lucentini Bonanni",
+                "hu": "Palazzo Lucentini Bonanni",
+                "ro": "Palazzo Lucentini Bonanni",
+                "en": "Palazzo Lucentini Bonanni"
+              },
+              "tip_5lang": {
+                "de": "Da der Palazzo im Zentrum liegt, ist die Parkplatzsuche bei Regen oft schwierig; parken Sie etwas weiter entfernt in einem Parkhaus.",
+                "hu": "Mivel a palota a központban van, a parkolás esőben nehézkes lehet; érdemesebb egy közeli parkolóházat keresni a kényelmesebb bejutáshoz.",
+                "ro": "Deoarece palatul este în centru, parcarea pe ploaie poate fi dificilă; căutați o parcare acoperită în apropiere pentru un acces mai ușor.",
+                "en": "Since the palace is in the center, street parking can be tricky in the rain; look for a nearby parking garage for a more comfortable arrival."
+              }
+            },
+            {
+              "name": {
+                "de": "MAXXI L'Aquila",
+                "hu": "MAXXI L'Aquila",
+                "ro": "MAXXI L'Aquila",
+                "en": "MAXXI L'Aquila"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Abschluss für einen Regentag; die Innenräume sind weitläufig und bieten reichlich Platz zum Verweilen im Trockenen.",
+                "hu": "Ez az ideális zárása egy esős napnak; a belső terek tágasak, és bőséges helyet kínálnak a nézelődéshez a kinti vihar elől menekülve.",
+                "ro": "Acesta este finalul ideal pentru o zi ploioasă; spațiile interioare sunt vaste și oferă mult loc pentru a zăbovi la adăpost de furtună.",
+                "en": "This is the ideal conclusion to a rainy day; the interior spaces are vast and offer plenty of room to linger while staying perfectly dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Fahrt durch das winterliche L'Aquila ist dank der Heizung im Auto sehr angenehm, erfordert aber Vorsicht bei eventuellem Reif auf den Straßen. Beginnen Sie am MUNDA, wo Sie die Kälte der Abruzzen-Berge kurz spüren, bevor Sie sich im Inneren aufwärmen. Mittags sorgt die Wintersonne für gute Sicht auf die Paläste, aber die Luft bleibt eisig. Der Besuch im MAXXI am Nachmittag bietet eine perfekte Pause in moderner, warmer Umgebung. Denken Sie daran, dass die Sicht nach 17:00 Uhr schnell abnimmt.",
+            "hu": "A téli autózás L'Aquilában a fűtésnek köszönhetően kényelmes, de óvatosságot igényel az utakon előforduló dér vagy jegesedés miatt. Kezdjen a MUNDA-nál, ahol megérezheti az abruzzói hegyek hidegét, mielőtt bent felmelegedne. Délben a téli nap jó látási viszonyokat biztosít a palotákhoz, de a levegő fagyos marad. A MAXXI délutáni meglátogatása tökéletes pihenőt nyújt meleg, modern környezetben. Ne feledje, hogy 17:00 után a látási viszonyok gyorsan romlanak.",
+            "ro": "Călătoria prin L'Aquila iarna este confortabilă datorită căldurii din mașină, dar necesită prudență din cauza poleiului posibil de pe drumuri. Începeți la MUNDA, unde veți simți gerul munților Abruzzo înainte de a vă încălzi în interior. La prânz, soarele de iarnă oferă o vizibilitate bună asupra palatelor, dar aerul rămâne înghețat. Vizita la MAXXI oferă o pauză perfectă într-un mediu cald. Rețineți că după ora 17:00 vizibilitatea scade rapid.",
+            "en": "Driving through winter L'Aquila is comfortable thanks to the car's heater, but requires caution due to potential frost on the roads. Start at MUNDA, where you'll feel the Abruzzo mountain chill before warming up inside. At noon, the winter sun provides clear views of the palaces, but the air remains freezing. A visit to MAXXI in the afternoon offers a perfect break in a warm, modern environment. Remember that visibility decreases rapidly after 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "MUNDA - Museo Nazionale d’Abruzzo",
+                "hu": "MUNDA - Museo Nazionale d’Abruzzo",
+                "ro": "MUNDA - Museo Nazionale d’Abruzzo",
+                "en": "MUNDA - Museo Nazionale d’Abruzzo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmphase für den Tag; die Klimatisierung in den Galerien ist sehr angenehm bei winterlichen Temperaturen.",
+                "hu": "Használja a múzeumlátogatást a nap indító melegedő fázisaként; a galériák fűtése nagyon kellemes a kinti zord téli hőmérséklethez képest.",
+                "ro": "Folosiți vizita la muzeu ca o etapă de încălzire pentru începutul zilei; climatizarea din galerii este foarte plăcută față de gerul de afară.",
+                "en": "Use the museum visit as a warm-up phase for the day; the climate control in the galleries is very pleasant compared to the winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo dell'ex GIL",
+                "hu": "Palazzo dell'ex GIL",
+                "ro": "Palazzo dell'ex GIL",
+                "en": "Palazzo dell'ex GIL"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto kurz laufen, um die Scheiben eisfrei zu halten, während Sie die strengen Linien dieses modernen Gebäudes bewundern.",
+                "hu": "Hagyja járni a motort egy rövid ideig a páramentesítéshez, miközben megcsodálja ennek a modern épületnek a szigorú, geometrikus vonalait.",
+                "ro": "Lăsați mașina pornită puțin pentru dezghețare în timp ce admirați liniile geometrice riguroase ale acestei clădiri moderniste impunătoare.",
+                "en": "Keep the car running briefly for defrosting while you admire the rigorous, geometric lines of this imposing modern building."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Arcivescovile",
+                "hu": "Érseki Palota",
+                "ro": "Palatul Arhiepiscopal",
+                "en": "Palazzo Arcivescovile"
+              },
+              "tip_5lang": {
+                "de": "Die Gassen um den Palast können im Schatten vereist sein; parken Sie vorsichtig und achten Sie auf festgefrorenen Schnee am Straßenrand.",
+                "hu": "A palota körüli utcák árnyékos részei jegesek lehetnek; parkoljon óvatosan, és ügyeljen az út szélén megmaradt fagyott hóbuckákra.",
+                "ro": "Străzile din jurul palatului pot fi înghețate la umbră; parcați cu atenție și aveți grijă la zăpada înghețată de la marginea drumului.",
+                "en": "The streets around the palace can be icy in the shade; park carefully and watch out for frozen snow piles along the curbside."
+              }
+            },
+            {
+              "name": {
+                "de": "Palazzo Lucentini Bonanni",
+                "hu": "Palazzo Lucentini Bonanni",
+                "ro": "Palazzo Lucentini Bonanni",
+                "en": "Palazzo Lucentini Bonanni"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade im klaren Winterlicht; die kalte Luft lässt die Steinstrukturen besonders scharf und detailliert erscheinen.",
+                "hu": "Csodálja meg a homlokzatot a tiszta téli fényben; a hideg levegőben a kőszerkezetek különösen élesnek és részletgazdagnak tűnnek.",
+                "ro": "Admirați fațada în lumina clară a iernii; aerul rece face ca structurile de piatră să pară deosebit de clare și bogate în detalii.",
+                "en": "Admire the facade in the clear winter light; the cold air makes the stone structures appear particularly sharp and rich in detail."
+              }
+            },
+            {
+              "name": {
+                "de": "MAXXI L'Aquila",
+                "hu": "MAXXI L'Aquila",
+                "ro": "MAXXI L'Aquila",
+                "en": "MAXXI L'Aquila"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier in wohliger Wärme; die modernen Räume bieten den perfekten Abschluss, bevor die frostige Nacht über die Stadt hereinbricht.",
+                "hu": "Zárja itt a napot kellemes melegben; a modern termek tökéletes befejezést nyújtanak, mielőtt a fagyos éjszaka teljesen leszállna a városra.",
+                "ro": "Încheiați ziua aici la căldură; sălile moderne oferă finalul perfect înainte ca noaptea geroasă să se așeze complet peste oraș.",
+                "en": "End your day here in cozy warmth; the modern rooms provide the perfect conclusion before the freezing night fully descends upon the city."
+              }
+            }
+          ]
+        }
       }
     }
   }

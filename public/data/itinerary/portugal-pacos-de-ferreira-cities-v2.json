@@ -160,6 +160,196 @@
         "hu": "Kezdje gyalogtúráját a tekintélyes Câmara Municipalnál, Paços de Ferreira polgári szívében, hogy érezze a város ritmusát.\n\nFolytassa útját a történelmi Pelourinho felé, majd fedezze fel a lenyűgöző Casa de Coquêda páratlan eleganciáját.\n\nTöltse a délutánt a repülés történetének tiszteletével a különleges emlékműnél, majd barangoljon a Quinta das Uveiras békés területén.\n\nZárja a napot a természet nyugtató hangjaival és a régi idők emlékével a bájos Moinho de Pêgas vízimalomnál.",
         "ro": "Începeți turul pietonal la impunătoarea Câmara Municipal, absorbind cu atenție inima civică a frumosului oraș Paços de Ferreira.\n\nContinuați spre istoricul Pelourinho, apoi descoperiți eleganța arhitecturală de necontestat de la Casa de Coquêda.\n\nPetreceți după-amiaza onorând istoria aviației la monumentul Força Aérea și explorând domeniul vast de la Quinta das Uveiras.\n\nÎncheiați cu sunetele liniștitoare ale naturii și apei curgătoare la fermecătoarea moară istorică Moinho de Pêgas.",
         "en": "Begin your walking tour at the stately Câmara Municipal, fully absorbing the historic civic heart of Paços de Ferreira.\n\nProceed to the intricately carved historic Pelourinho, then uncover the refined architectural elegance of Casa de Coquêda.\n\nSpend your afternoon honoring aviation history at the Força Aérea monument and wandering the agricultural grounds of Quinta das Uveiras.\n\nConclude your satisfying stroll with the soothing sounds of nature at the charming historical Moinho de Pêgas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Rathaus, während der Regen auf den Platz prasselt. Mittags führt der Weg schnell zum Pelourinho und zur Casa de Coquêda, wobei Torbögen als trockene Rastplätze dienen. Am Nachmittag zeigen sich die Denkmäler und die Quinta im mystischen Nebel. Den Abend lassen wir am Moinho de Pêgas ausklingen, wo das Rauschen des Wassers bei Regen besonders intensiv ist.",
+            "hu": "A reggelt a Városháza védelmében kezdjük, miközben az eső kopogása ritmust ad a városnézésnek. Délben a Pelourinho és a Casa de Coquêda között gyors léptekkel haladunk, kihasználva az épületek ereszeit. Délután a Quinta das Uveiras ködös, romantikus arcát mutatja a szemerkélő esőben. Az estét a vízimalomnál zárjuk, ahol a megáradt patak zúgása különleges hangulatot áraszt.",
+            "ro": "Dimineața începe sub protecția Primăriei, în timp ce ploaia tobează pe pavaj. La prânz, drumul spre Pelourinho și Casa de Coquêda se face rapid, folosind arcadele clădirilor pentru adăpost. După-amiaza, monumentele și Quinta capătă un aer mistic în ceața ușoară. Seara se încheie la Moinho de Pêgas, unde sunetul apei curgătoare devine mult mai intens și relaxant pe timp de ploaie.",
+            "en": "The morning begins sheltered at the City Hall as rain drums on the square. At noon, we move quickly between the Pelourinho and Casa de Coquêda, using building overhangs for dry breaks. In the afternoon, the monuments and the Quinta take on a mystical look in the mist. The evening concludes at Moinho de Pêgas, where the sound of the rushing stream is amplified by the rainy weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Paços de Ferreira",
+                "hu": "Câmara Municipal de Paços de Ferreira",
+                "ro": "Câmara Municipal de Paços de Ferreira",
+                "en": "Câmara Municipal de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur vom trockenen Eingangsbereich aus; ein großer Regenschirm schützt Sie auf dem Weg über den nassen Rathausplatz.",
+                "hu": "Csodálja meg az épületet az oszlopcsarnok védelméből; a macskaköves téren a csúszásveszély miatt hordjon recés talpú, vízálló lábbelit.",
+                "ro": "Admirați arhitectura primăriei de sub protecția intrării principale; purtați încălțăminte impermeabilă pentru a evita alunecarea pe pavajul ud.",
+                "en": "Admire the town hall's architecture from the shelter of the entrance; wear waterproof boots with good grip for the slippery wet cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Paços de Ferreira",
+                "hu": "Pelourinho de Paços de Ferreira",
+                "ro": "Pelourinho de Paços de Ferreira",
+                "en": "Pelourinho de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses historische Denkmal kurz im Regen; die nassen Steine glänzen wunderschön, aber achten Sie auf den rutschigen Boden.",
+                "hu": "A vizes kövek különleges fényt adnak a pellengérnek; tartson egy rövid fotómegállót az esernyője alatt, ügyelve a csúszós felületekre.",
+                "ro": "Observați acest monument istoric sub reflexiile ploii; piatra udă strălucește frumos, dar aveți grijă la treptele umede și alunecoase.",
+                "en": "View this historical monument under the glistening rain; the wet stone looks beautiful, but watch your step on the slick surrounding ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Coquêda",
+                "hu": "Casa de Coquêda",
+                "ro": "Casa de Coquêda",
+                "en": "Casa de Coquêda"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus wirkt bei Regen sehr herrschaftlich; nutzen Sie die umliegenden Bäume als natürlichen Schutz vor den schwersten Schauern.",
+                "hu": "Az udvarház méltóságteljesen fest a szürke égbolt alatt; keresse a környező fák sűrű lombját egy gyors, szárazabb pihenőhöz a séta közben.",
+                "ro": "Conacul arată impunător sub cerul gri; folosiți copacii din jur ca adăpost natural împotriva stropilor mari de ploaie în timpul vizitei.",
+                "en": "The manor house looks stately under the grey sky; use the nearby dense trees as natural cover from the heaviest showers while observing."
+              }
+            },
+            {
+              "name": {
+                "de": "Homenagem à Força Aérea Portuguesa",
+                "hu": "Homenagem à Força Aérea Portuguesa",
+                "ro": "Homenagem à Força Aérea Portuguesa",
+                "en": "Homenagem à Força Aérea Portuguesa"
+              },
+              "tip_5lang": {
+                "de": "Das Flugzeugmonument wirkt im Regen wie im Flug durch Wolken; ein kurzer Halt reicht aus, um das Denkmal ohne Durchnässung zu ehren.",
+                "hu": "A repülőgép-emlékmű az esőben olyan, mintha felhők között repülne; egy gyors tisztelgés elegendő, hogy elkerülje a teljes ázást.",
+                "ro": "Monumentul aviației pare că zboară prin nori pe timp de ploaie; o scurtă oprire este suficientă pentru a vedea detaliile fără a vă uda.",
+                "en": "The aircraft monument looks like it's flying through clouds in the rain; a brief stop is enough to see it without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta das Uveiras",
+                "hu": "Quinta das Uveiras",
+                "ro": "Quinta das Uveiras",
+                "en": "Quinta das Uveiras"
+              },
+              "tip_5lang": {
+                "de": "Die Gartenanlage verströmt bei Regen einen intensiven Duft; halten Sie sich unter den Gebäudevorsprüngen auf, um die Aussicht zu genießen.",
+                "hu": "Az esőben felerősödnek a kert illatai; maradjon az épület eresze alatt, és élvezze a párás táj látványát egy meleg teával a kezében.",
+                "ro": "Grădinile emană un parfum proaspăt în timpul ploii; stați sub streșinile clădirilor pentru a admira peisajul fără a vă uda hainele.",
+                "en": "The gardens release fresh scents in the rain; stay under the building's overhangs to enjoy the lush view while keeping your clothes dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de Pêgas",
+                "hu": "Moinho de Pêgas",
+                "ro": "Moinho de Pêgas",
+                "en": "Moinho de Pêgas"
+              },
+              "tip_5lang": {
+                "de": "Die alte Mühle bietet eine rustikale Kulisse im Regen; das verstärkte Rauschen des Baches sorgt für eine sehr entspannende Atmosphäre.",
+                "hu": "Az öreg malom rusztikus látványt nyújt a szakadó esőben; a megáradt patak zúgása meditatív zárást ad a napnak a fedett részeken.",
+                "ro": "Moara veche oferă un decor rustic superb pe ploaie; sunetul puternic al pârâului umflat creează o atmosferă relaxantă sub adăpost.",
+                "en": "The old mill provides a beautiful rustic backdrop in the rain; the louder rush of the stream creates a very soothing atmosphere under cover."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und klar am Rathausplatz. Mittags wärmen wir uns bei kurzen Besuchen historischer Häuser auf, bevor die Sonne bereits gegen 17:00 Uhr untergeht. Der Nachmittag wird genutzt, um die Quinta im weichen Winterlicht zu sehen. Der Abend endet früh und gemütlich an der Mühle, wenn die Dämmerung die Stadt in ein sanftes Licht taucht.",
+            "hu": "A téli reggel friss és tiszta levegővel fogad a Városháza előtt. Délben a történelmi helyszínek között gyorsan haladunk, hogy minél többet lássunk a korai, 17:00-s naplemente előtt. Délután a Quinta kertjeiben élvezzük a lágy téli fényeket. Az estét korán, a vízimalom békés csendjében zárjuk, ahogy a város fényei lassan kigyúlnak.",
+            "ro": "Dimineața de iarnă este proaspătă și clară la Primărie. La prânz, vizităm rapid siturile istorice pentru a profita de lumină înainte de apusul de la ora 17:00. După-amiaza este dedicată grădinilor Quinta, luminate de soarele blând de iarnă. Seara se încheie devreme și primitor la moară, în timp ce amurgul coboară peste oraș.",
+            "en": "The winter morning is crisp and clear at the Town Hall square. At noon, we move briskly between historical sites to make the most of the daylight before the 17:00 sunset. In the afternoon, the Quinta's gardens are bathed in soft winter light. The evening ends early and cozy by the mill as dusk settles over the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Paços de Ferreira",
+                "hu": "Câmara Municipal de Paços de Ferreira",
+                "ro": "Câmara Municipal de Paços de Ferreira",
+                "en": "Câmara Municipal de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade glänzt im flachen Winterlicht; tragen Sie Schal und Handschuhe, da der Wind auf dem offenen Platz oft recht kühl weht.",
+                "hu": "A homlokzat gyönyörűen fest a súroló téli fényben; öltözzön rétegesen, mert a nyitott téren a szél sokkal hűvösebbnek érződik.",
+                "ro": "Fațada strălucește în lumina slabă a iernii; purtați fular și mănuși, deoarece vântul poate fi tăios în piața deschisă a primăriei.",
+                "en": "The facade looks brilliant in the low winter sun; wear a scarf and gloves as the wind can be quite chilly across the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Paços de Ferreira",
+                "hu": "Pelourinho de Paços de Ferreira",
+                "ro": "Pelourinho de Paços de Ferreira",
+                "en": "Pelourinho de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Innehalten am Pelourinho lohnt sich für Fotos; nutzen Sie die klare Winterluft für weite Aufnahmen der historischen Umgebung.",
+                "hu": "A tiszta téli levegőben messzire ellátni a pellengértől; készítsen fotókat a történelmi környezetről, mielőtt továbbindulna a hidegben.",
+                "ro": "O scurtă oprire la Pelourinho este ideală pentru poze; aerul curat de iarnă oferă o vizibilitate excelentă asupra centrului istoric.",
+                "en": "A brief stop at the Pelourinho is great for photos; take advantage of the clear winter air for sharp shots of the historical surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Coquêda",
+                "hu": "Casa de Coquêda",
+                "ro": "Casa de Coquêda",
+                "en": "Casa de Coquêda"
+              },
+              "tip_5lang": {
+                "de": "Das Herrenhaus wirkt in der kahlen Winterlandschaft besonders markant; halten Sie sich in Bewegung, um trotz der Kälte warm zu bleiben.",
+                "hu": "Az udvarház karakteres formái jól érvényesülnek a téli tájban; maradjon mozgásban a kertben, hogy megőrizze teste melegét a látogatás alatt.",
+                "ro": "Conacul arată impunător în peisajul golaș de iarnă; mențineți un ritm alert de mers pentru a vă păstra căldura corporală în curte.",
+                "en": "The manor house stands out sharply against the bare winter landscape; keep moving briskly to stay warm while exploring the exterior."
+              }
+            },
+            {
+              "name": {
+                "de": "Homenagem à Força Aérea Portuguesa",
+                "hu": "Homenagem à Força Aérea Portuguesa",
+                "ro": "Homenagem à Força Aérea Portuguesa",
+                "en": "Homenagem à Força Aérea Portuguesa"
+              },
+              "tip_5lang": {
+                "de": "Das kalte Metall des Flugzeugs glitzert bei Frost; ein kurzer Besuch reicht aus, bevor Sie sich wieder in ein warmes Café zurückziehen.",
+                "hu": "A repülő fémfelülete látványosan csillog a dérben; tegyen egy gyors kört az emlékműnél, majd keressen egy közeli meleg helyet pihenni.",
+                "ro": "Metalul rece al avionului strălucește sub brumă; o vizită scurtă este suficientă înainte de a căuta un loc cald pentru o pauză.",
+                "en": "The cold metal of the plane glitters beautifully in the frost; make it a quick visit before heading to a nearby warm cafe for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Quinta das Uveiras",
+                "hu": "Quinta das Uveiras",
+                "ro": "Quinta das Uveiras",
+                "en": "Quinta das Uveiras"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten wirken im Winterschlaf sehr friedlich; nutzen Sie die Zeit vor 16:30 Uhr, um das Anwesen noch bei Tageslicht zu sehen.",
+                "hu": "A téli álmot alvó kertekben nagy a nyugalom; érkezzen 16:30 előtt, hogy még a naplemente előtti utolsó fényekben láthassa a birtokot.",
+                "ro": "Grădinile sunt foarte liniștite în timpul iernii; vizitați proprietatea înainte de ora 16:30 pentru a beneficia de lumina naturală.",
+                "en": "The gardens are very peaceful in their winter slumber; visit before 16:30 to see the estate in the last rays of natural daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de Pêgas",
+                "hu": "Moinho de Pêgas",
+                "ro": "Moinho de Pêgas",
+                "en": "Moinho de Pêgas"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser des Baches dampft oft in der kalten Luft; beenden Sie die Tour hier zügig, da es nach Sonnenuntergang schnell sehr kalt wird.",
+                "hu": "A patak vize gyakran párállik a hideg levegőben; fejezze be itt a túrát, mert a naplemente után a hőmérséklet hirtelen sokat zuhan.",
+                "ro": "Apa pârâului scoate adesea aburi în aerul rece; încheiați turul aici rapid, deoarece temperatura scade brusc după apusul soarelui.",
+                "en": "The stream water often mists in the cold air; finish your tour here promptly as the temperature drops significantly after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje kerékpáros utazását a nagyszerű Városházánál, mielőtt meglátogatná a kőből finoman kifaragott Pelourinhót a városközpontban.\n\nTekerjen kényelmesen a repülős emlékműhöz, majd fedezze fel a tekintélyes Casa do Dr. Jaime Barros elegáns, klasszikus formáit.\n\nÉlvezze a festői utat nyugat felé, a Casa da Botica Velha tömör falaihoz és a csendes, rusztikus Moinho de água szépségéig.\n\nZárja aktív napját, lassan visszatérve a Casa da Torre középkori visszhangjaihoz a békés és festői szürkületben.",
         "ro": "Începeți călătoria cu bicicleta la grandioasa Primărie înainte de a vizita faimosul Pelourinho sculptat din piatră în centrul orașului.\n\nPedați ușor spre monumentul inspirator dedicat aviației și spre impunătoarea arhitectură a vechii Casa do Dr. Jaime Barros.\n\nBucurați-vă de o plimbare pitorească spre vest, spre impunătoarea Casa da Botica Velha și moara de apă cu farmec tradițional.\n\nÎncheiați-vă ziua activă întorcându-vă agale la ecourile medievale remarcabile ale Casa da Torre în lumina superbă de amurg.",
         "en": "Kick off your cycling journey at the grand Câmara Municipal before easily visiting the intricate stone Pelourinho in the city center.\n\nPedal comfortably to the inspiring Força Aérea monument and marvel at the stately classical lines of Casa do Dr. Jaime Barros.\n\nEnjoy a scenic ride west to the imposing Casa da Botica Velha and discover the rustic, serene beauty of the historic Moinho de água.\n\nFinish your active day by returning gently to the medieval echoes of Casa da Torre bathed in the warm light of twilight."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour vorsichtig am Rathaus bei nasser Fahrbahn. Mittags radeln wir zum Pelourinho und zu den historischen Häusern, wobei wir auf rutschiges Kopfsteinpflaster achten. Der Nachmittag führt uns zu den Mühlen, wo die Natur im Regen besonders grün leuchtet. Den Abend beenden wir an der Casa da Torre, wobei wir uns auf beleuchtete, sichere Wege konzentrieren.",
+            "hu": "Vizes aszfalton, óvatosan kezdjük a bringázást a Városházánál. Délben a Pelourinho és a régi udvarházak felé tekerünk, kerülve a csúszós macskaköveket. Délután a vízimalmokhoz gurulunk, ahol a táj üde zöld színben pompázik az esőben. A napot a Casa da Torrénál zárjuk, figyelve a megfelelő világításra és a biztonságos, kevésbé vizes útvonalakra.",
+            "ro": "Începem tura cu bicicleta cu prudență la Primărie, pe asfaltul ud. La prânz, pedalăm spre Pelourinho și casele istorice, evitând zonele cu pavaj alunecos. După-amiaza ne îndreptăm spre morile de apă, unde natura pare mai verde sub ploaie. Încheiem ziua la Casa da Torre, acordând atenție iluminării și folosind trasee sigure și mai puțin inundate.",
+            "en": "We start the bike tour cautiously at the Town Hall on wet roads. At noon, we cycle to the Pelourinho and historical houses, staying alert for slippery cobblestones. The afternoon leads us to the water mills, where nature looks vibrant green in the rain. We finish at Casa da Torre, focusing on well-lit, safe paths and ensuring our bike lights are on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Paços de Ferreira",
+                "hu": "Câmara Municipal de Paços de Ferreira",
+                "ro": "Câmara Municipal de Paços de Ferreira",
+                "en": "Câmara Municipal de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf dem nassen Platz; Schutzbleche am Fahrrad sind heute ein Muss gegen den aufgewirbelten Schlamm.",
+                "hu": "Indulás előtt ellenőrizze a fékeit a vizes téren; a sárvédő használata elengedhetetlen, hogy megvédje ruházatát a felverődő víztől.",
+                "ro": "Verificați frânele înainte de plecare pe pavajul ud; aripile la bicicletă sunt obligatorii astăzi pentru a vă proteja de noroiul stropit.",
+                "en": "Check your brakes before starting on the wet square; mudguards are essential today to protect your clothes from water splashes."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Paços de Ferreira",
+                "hu": "Pelourinho de Paços de Ferreira",
+                "ro": "Pelourinho de Paços de Ferreira",
+                "en": "Pelourinho de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf dem Denkmalssockel; der Stein ist extrem rutschig, steigen Sie lieber kurz ab für ein Foto.",
+                "hu": "Kerülje a kerékpározást közvetlenül az emlékmű mellett; a kövezet rendkívül csúszós, inkább szálljon le a bringáról a nézelődés idejére.",
+                "ro": "Evitați să pedalați direct pe soclul monumentului; piatra este extrem de alunecoasă, deci mai bine coborâți de pe bicicletă pentru poze.",
+                "en": "Avoid cycling directly on the monument's base; the stone is extremely slippery, so it's better to dismount briefly for a quick look."
+              }
+            },
+            {
+              "name": {
+                "de": "Homenagem à Força Aérea Portuguesa",
+                "hu": "Homenagem à Força Aérea Portuguesa",
+                "ro": "Homenagem à Força Aérea Portuguesa",
+                "en": "Homenagem à Força Aérea Portuguesa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad kurz im Schutz der nahen Bäume; die glatte Metalloberfläche des Flugzeugs spiegelt das Regenlicht eindrucksvoll wider.",
+                "hu": "Parkoljon le rövid időre a közeli fák védelmében; a repülőgép fémes felülete látványosan veri vissza a szürke esőfényeket.",
+                "ro": "Parcați bicicleta scurt sub protecția copacilor din jur; suprafața metalică a avionului reflectă spectaculos lumina în timpul ploii.",
+                "en": "Park your bike briefly under the shelter of nearby trees; the aircraft's metal surface reflects the rainy light quite impressively."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa do Dr. Jaime Barros",
+                "hu": "Casa do Dr. Jaime Barros",
+                "ro": "Casa do Dr. Jaime Barros",
+                "en": "Casa do Dr. Jaime Barros"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen matschig sein; fahren Sie langsam und achten Sie auf Pfützen, die tiefe Löcher verbergen könnten.",
+                "hu": "A behajtó út esőben sáros lehet; haladjon lassabban, és ügyeljen a tócsákra, amelyek mélyebb úthibákat is rejthetnek a kerék előtt.",
+                "ro": "Aleea de acces poate fi noroioasă pe ploaie; pedalați încet și fiți atenți la bălțile care pot ascunde gropi adânci pe traseu.",
+                "en": "The access path can be muddy in the rain; cycle slowly and watch out for puddles that might hide deeper potholes on the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Botica Velha",
+                "hu": "Casa da Botica Velha",
+                "ro": "Casa da Botica Velha",
+                "en": "Casa da Botica Velha"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Dachvorsprung für eine kurze Trinkpause; achten Sie beim Wiederanfahren auf die durch das Laub rutschige Straße.",
+                "hu": "Használja az épület kiugró részeit egy rövid pihenőre; induláskor vigyázzon, mert a nedves levelek miatt az úttest nagyon csúszóssá válhat.",
+                "ro": "Folosiți streașina clădirii pentru o scurtă pauză de hidratare; atenție la plecare, deoarece frunzele ude fac drumul foarte alunecos.",
+                "en": "Use the building's overhang for a quick water break; be careful when starting again, as wet leaves can make the road very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de água",
+                "hu": "Moinho de água",
+                "ro": "Moinho de apă",
+                "en": "Moinho de água"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung der Mühle ist bei Regen besonders idyllisch; parken Sie das Rad auf festem Grund, um ein Einsinken im Schlamm zu vermeiden.",
+                "hu": "A malom környéke esőben igazi idilli látvány; a biciklit szilárd talajon állítsa le, hogy elkerülje a sárba süllyedést a nézelődés alatt.",
+                "ro": "Zona morii este foarte idilică pe timp de ploaie; parcați bicicleta pe teren solid pentru a evita scufundarea în noroi în timpul vizitei.",
+                "en": "The mill area looks truly idyllic in the rain; park your bike on firm ground to prevent it from sinking into the mud while you look around."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Torre",
+                "hu": "Casa da Torre",
+                "ro": "Casa da Torre",
+                "en": "Casa da Torre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier und wischen Sie Ihr Rad trocken; die Sicht kann durch den Regen eingeschränkt sein, nutzen Sie helle Kleidung.",
+                "hu": "Itt fejezze be a túrát, és törölje szárazra a bringát; a látótávolság csökkenhet az esőben, ezért viseljen feltűnő, élénk színű esőkabátot.",
+                "ro": "Încheiați tura aici și ștergeți bicicleta; vizibilitatea poate fi redusă de ploaie, deci purtați haine reflectorizante sau viu colorate.",
+                "en": "Finish your tour here and wipe your bike dry; visibility can be low in the rain, so wear bright or reflective clothing for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Start am Rathaus erfordert warme Schichten. Mittags radeln wir zügig durch den historischen Stadtkern, um die Körperwärme zu halten. Da die Sonne bereits um 17:00 Uhr untergeht, nutzen wir das goldene Licht des Nachmittags bei den Mühlen. Der Abend endet bei Einbruch der Dunkelheit an der Casa da Torre, wo wir die Winterstille genießen.",
+            "hu": "A fagyos reggeli kezdéshez a Városházánál meleg rétegekre lesz szükség. Délben tempósan tekerünk a történelmi belvárosban, hogy mozgásban maradjunk a hidegben. Mivel a nap 17:00-kor nyugszik, a vízimalmoknál élvezzük ki az utolsó fényeket. A napot sötétedéskor zárjuk a Casa da Torrénál, átélve a téli táj csendjét.",
+            "ro": "Un început geros la Primărie necesită haine groase în straturi. La prânz, pedalăm rapid prin centrul istoric pentru a ne menține căldura corporală. Deoarece soarele apune la ora 17:00, profităm de lumina aurie a după-amiezii la morile de apă. Ziua se încheie la lăsarea întunericului la Casa da Torre, savurând liniștea iernii.",
+            "en": "A frosty start at the Town Hall requires warm layers for cycling. At noon, we pedal briskly through the historical center to keep our body heat up. Since the sun sets at 17:00, we enjoy the golden afternoon light at the water mills. The tour concludes at dusk at Casa da Torre, where we soak in the peaceful winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Câmara Municipal de Paços de Ferreira",
+                "hu": "Câmara Municipal de Paços de Ferreira",
+                "ro": "Câmara Municipal de Paços de Ferreira",
+                "en": "Câmara Municipal de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für den Start; die kalte Morgenluft auf dem Fahrrad kann die Finger schnell gefühllos machen.",
+                "hu": "Viseljen szélálló kesztyűt az induláshoz; a hideg menetszél a kerékpáron nagyon hamar lezsibbiszthatja az ujjait a kormányon.",
+                "ro": "Purtați mănuși rezistente la vânt pentru început; aerul rece de dimineață pe bicicletă vă poate îngheța degetele foarte rapid.",
+                "en": "Wear windproof gloves for the start; the cold morning air while cycling can quickly numb your fingers on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Paços de Ferreira",
+                "hu": "Pelourinho de Paços de Ferreira",
+                "ro": "Pelourinho de Paços de Ferreira",
+                "en": "Pelourinho de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto ist ideal; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf das historische Monument.",
+                "hu": "Egy rövid fotómegálló ideális itt; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a történelmi emlékmű köré.",
+                "ro": "O oprire scurtă pentru o poză este ideală; soarele jos de iarnă proiectează umbre lungi și dramatice pe monumentul istoric.",
+                "en": "A brief stop for a photo is ideal here; the low winter sun casts long, dramatic shadows around the historical monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Homenagem à Força Aérea Portuguesa",
+                "hu": "Homenagem à Força Aérea Portuguesa",
+                "ro": "Homenagem à Força Aérea Portuguesa",
+                "en": "Homenagem à Força Aérea Portuguesa"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal wirkt in der klaren Winterluft besonders scharf; steigen Sie kurz ab, um die Beine auszuschütteln und warm zu bleiben.",
+                "hu": "Az emlékmű körvonalai nagyon élesek a tiszta téli levegőben; szálljon le a bringáról, és mozgassa át a lábait, hogy fokozza a vérkeringést.",
+                "ro": "Monumentul pare foarte clar în aerul curat de iarnă; coborâți de pe bicicletă pentru a vă mișca picioarele și a vă menține cald.",
+                "en": "The monument looks very sharp in the clear winter air; dismount for a moment to stretch your legs and keep your circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa do Dr. Jaime Barros",
+                "hu": "Casa do Dr. Jaime Barros",
+                "ro": "Casa do Dr. Jaime Barros",
+                "en": "Casa do Dr. Jaime Barros"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann morgens glatt sein; achten Sie auf überfrierende Nässe im Schatten der Mauern und fahren Sie vorsichtig.",
+                "hu": "A feljáró út reggelente jeges lehet; ügyeljen a falak árnyékában megmaradó fagyra, és kerülje a hirtelen kanyarodást vagy fékezést.",
+                "ro": "Aleea poate fi înghețată dimineața; aveți grijă la gheața din umbra zidurilor și pedalați cu prudență sporită în acele zone.",
+                "en": "The driveway can be icy in the mornings; watch out for frost lingering in the shadow of the walls and cycle with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Botica Velha",
+                "hu": "Casa da Botica Velha",
+                "ro": "Casa da Botica Velha",
+                "en": "Casa da Botica Velha"
+              },
+              "tip_5lang": {
+                "de": "Das alte Haus wirkt im Winterlicht sehr malerisch; nutzen Sie das restliche Tageslicht gut aus, da es ab 16:30 Uhr dämmert.",
+                "hu": "A régi ház festői látványt nyújt a téli fényben; használja ki jól az időt, mert 16:30 után már jelentősen csökkennek a fényviszonyok.",
+                "ro": "Casa veche arată pitoresc în lumina iernii; profitați de lumina zilei, deoarece amurgul începe să se instaleze deja de la ora 16:30.",
+                "en": "The old house looks picturesque in the winter light; make good use of the remaining daylight, as it starts to dim from 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de água",
+                "hu": "Moinho de água",
+                "ro": "Moinho de apă",
+                "en": "Moinho de água"
+              },
+              "tip_5lang": {
+                "de": "Die Mühle ist ein ruhiger Ort für eine kurze Rast; trinken Sie etwas Warmes aus Ihrer Thermoskanne, bevor es zum letzten Stopp geht.",
+                "hu": "A malom csendes hely egy rövid pihenőhöz; igyon valami meleg italt a kulacsából, mielőtt nekivágna a túra utolsó szakaszának.",
+                "ro": "Moara este un loc liniștit pentru o scurtă pauză; beți ceva cald din termos înainte de a porni spre ultima destinație a zilei.",
+                "en": "The mill is a peaceful spot for a short break; have a warm drink from your thermos before heading to the final stop of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Torre",
+                "hu": "Casa da Torre",
+                "ro": "Casa da Torre",
+                "en": "Casa da Torre"
+              },
+              "tip_5lang": {
+                "de": "Zum Abschluss bietet der Turm eine kühle, aber majestätische Aussicht; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
+                "hu": "Zárásként a torony méltóságteljes látványt nyújt a hidegben; ellenőrizze, hogy a kerékpár lámpái jól működnek-e a hazaúthoz.",
+                "ro": "La final, turnul oferă o priveliște maiestuoasă; asigurați-vă că luminile bicicletei funcționează corect pentru drumul de întoarcere.",
+                "en": "To finish, the tower offers a majestic view in the cold; ensure your bike lights are working perfectly for the ride back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje átfogó autós túráját északon, az ősi Ponte Joanina lenyűgöző íveinél és a történelmi Casa da Botica épületénél.\n\nVezessen délre a központba, hogy megcsodálja az elegáns Casa de Coquêda-t, a kő pellengért és a tágas, központi Városházát.\n\nNavigáljon kényelmesen nyugat felé a Casa do Dr. Jaime Barros klasszikus vonalainak és a masszív Casa da Botica Velha felfedezéséhez.\n\nFejezze be a kirándulást a teljes vidéki nyugalomban, a hagyományos Moinho de água mellett egy gyönyörű naplementekor.",
         "ro": "Începeți-vă turul auto cuprinzător în nord la antică Ponte Joanina și istorica farmacie veche Casa da Botica.\n\nConduceți spre centru pentru a admira eleganta Casa de Coquêda, istoricul Pelourinho din piatră și impunătoarea Primărie centrală.\n\nNavigați confortabil spre vest pentru a explora liniile clasice de la Casa do Dr. Jaime Barros și robusta Casa da Botica Velha.\n\nÎncheiați excursia rutieră învăluit în liniștea rurală perfectă, la tradiționala moară Moinho de apă, în lumina blândă de la apus.",
         "en": "Start your comprehensive driving tour north at the ancient stone arches of Ponte Joanina and the historic walls of Casa da Botica.\n\nDrive down to the city core to admire the elegant Casa de Coquêda, the iconic stone Pelourinho, and the central Câmara Municipal.\n\nNavigate west in comfort to explore the classical lines of Casa do Dr. Jaime Barros and the robust heritage of Casa da Botica Velha.\n\nConclude your scenic road trip completely enveloped in rural serenity by the traditional Moinho de água as the sun begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Autofahrt sicher an der Ponte Joanina, während der Regen auf das Dach trommelt. Mittags besuchen wir die historischen Häuser und das Rathaus, wobei wir die kurzen Wege vom Parkplatz zum Eingang schätzen. Der Nachmittag führt uns zu den Mühlen im Grünen, die wir gemütlich aus dem trockenen Wagen betrachten. Der Abend endet entspannt bei der letzten Mühle, wenn die Regentropfen im Scheinwerferlicht glänzen.",
+            "hu": "Biztonságos autós utazással kezdünk a Ponte Joaninánál, miközben az eső kopog a tetőn. Délben a történelmi házakat és a Városházát látogatjuk meg, kihasználva a parkolók közelségét. Délután a vízimalmokhoz autózunk, amelyeket a száraz utastér kényelméből csodálhatunk meg. A napot az utolsó malomnál zárjuk, ahogy az esőcseppek csillognak a fényszórók fényében.",
+            "ro": "Începem călătoria cu mașina în siguranță la Ponte Joanina, cu ploaia bătând în plafon. La prânz vizităm casele istorice și Primăria, profitând de distanțele scurte de la parcare la intrare. După-amiaza ne îndreptăm spre morile de apă, pe care le admirăm din confortul mașinii. Ziua se încheie relaxat la ultima moară, cu picăturile de ploaie strălucind în lumina farurilor.",
+            "en": "We start the drive safely at Ponte Joanina as rain drums on the car roof. At noon, we visit the historical houses and City Hall, appreciating the short walk from the parking spots. In the afternoon, we drive to the water mills, enjoying the lush scenery from the dry interior. The day ends peacefully at the last mill, with raindrops glistening in the headlight beams."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte Joanina",
+                "hu": "Ponte Joanina",
+                "ro": "Ponte Joanina",
+                "en": "Ponte Joanina"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz am Straßenrand für ein Foto der Brücke; achten Sie beim Aussteigen auf die durch den Regen rutschige Fahrbahn.",
+                "hu": "Álljon meg röviden az út szélén egy fotó erejéig; kiszálláskor ügyeljen az úttestre, amely az eső miatt csúszóssá válhat a lába alatt.",
+                "ro": "Parcați scurt pe marginea drumului pentru o poză cu podul; atenție la coborâre, deoarece carosabilul poate fi alunecos din cauza ploii.",
+                "en": "Park briefly by the roadside for a photo of the bridge; be careful when stepping out, as the road surface can be slippery from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Botica",
+                "hu": "Casa da Botica",
+                "ro": "Casa da Botica",
+                "en": "Casa da Botica"
+              },
+              "tip_5lang": {
+                "de": "Die historische Fassade wirkt im Regen sehr stimmungsvoll; nutzen Sie den Scheibenwischer-Intervall für freie Sicht aus dem Auto.",
+                "hu": "A történelmi homlokzat hangulatos látványt nyújt az esőben; használja az ablaktörlő szakaszos üzemmódját a tiszta kilátás érdekében.",
+                "ro": "Fațada istorică arată foarte sugestiv în ploaie; folosiți ștergătoarele la intervalul potrivit pentru o vizibilitate clară din mașină.",
+                "en": "The historical facade looks very atmospheric in the rain; adjust your wipers for a clear view of the building from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Coquêda",
+                "hu": "Casa de Coquêda",
+                "ro": "Casa de Coquêda",
+                "en": "Casa de Coquêda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingangsbereich; die Architektur lässt sich auch bei starkem Regen gut von den überdachten Teilen aus bewundern.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; az épület részleteit a fedett részekről is jól megfigyelheti, elkerülve az elázást.",
+                "ro": "Parcați cât mai aproape de intrare; arhitectura poate fi admirată de sub zonele acoperite, chiar și în timpul unei ploi torențiale.",
+                "en": "Park as close to the entrance as possible; the architecture can be admired from the covered areas even during a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Paços de Ferreira",
+                "hu": "Pelourinho de Paços de Ferreira",
+                "ro": "Pelourinho de Paços de Ferreira",
+                "en": "Pelourinho de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Pelourinho ist auch bei Regen lohnenswert; die nassen Steine reflektieren das Stadtlicht auf elegante Weise.",
+                "hu": "Egy gyors megálló a pellengérnél esőben is megéri; a vizes kőfelületek elegánsan verik vissza a város fényeit a szürkületben.",
+                "ro": "O oprire rapidă la Pelourinho merită chiar și pe ploaie; piatra udă reflectă luminile orașului într-un mod foarte elegant.",
+                "en": "A quick stop at the Pelourinho is worth it even in the rain; the wet stone surfaces reflect the city lights in an elegant way."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Paços de Ferreira",
+                "hu": "Câmara Municipal de Paços de Ferreira",
+                "ro": "Câmara Municipal de Paços de Ferreira",
+                "en": "Câmara Municipal de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus oder nahe Parkplätze am Rathaus; die prachtvolle Fassade ist ein tolles Motiv für Fotos aus dem trockenen Wagen.",
+                "hu": "Használja a Városháza közeli parkolóit; az impozáns homlokzat remek fotótéma marad akár az autó száraz utasteréből is nézve.",
+                "ro": "Folosiți parcările din apropierea primăriei; fațada impunătoare este un subiect excelent pentru poze chiar și din interiorul mașinii.",
+                "en": "Use the parking areas near the town hall; the grand facade is a great photo subject even from the dry interior of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa do Dr. Jaime Barros",
+                "hu": "Casa do Dr. Jaime Barros",
+                "ro": "Casa do Dr. Jaime Barros",
+                "en": "Casa do Dr. Jaime Barros"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann rutschig sein, fahren Sie vorsichtig; schalten Sie das Abblendlicht ein, um bei starkem Regen besser gesehen zu werden.",
+                "hu": "A feljáró út csúszós lehet, vezessen óvatosan; kapcsolja be a tompított fényszórót, hogy a sűrű esőben is jól látható maradjon az autója.",
+                "ro": "Aleea poate fi alunecoasă, conduceți cu prudență; aprindeți faza scurtă pentru a fi mai vizibil în timpul ploii dense pe acest traseu.",
+                "en": "The driveway can be slick, so drive carefully; keep your low beams on to remain visible to others during heavy rain on this path."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Botica Velha",
+                "hu": "Casa da Botica Velha",
+                "ro": "Casa da Botica Velha",
+                "en": "Casa da Botica Velha"
+              },
+              "tip_5lang": {
+                "de": "Das alte Haus wirkt im Regen sehr verwunschen; nutzen Sie die Klimaanlage gegen beschlagene Scheiben für eine ungetrübte Aussicht.",
+                "hu": "A régi ház varázslatosan fest az esőben; használja a légkondicionálót a szélvédő páramentesítésére a zavartalan kilátás érdekében.",
+                "ro": "Casa veche arată fascinant sub ploaie; folosiți aerul condiționat pentru a dezaburi geamurile și a avea o vedere clară asupra ei.",
+                "en": "The old house looks enchanting in the rain; use the air conditioning to defog the windows for an unobstructed view of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de água",
+                "hu": "Moinho de água",
+                "ro": "Moinho de apă",
+                "en": "Moinho de água"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss bei der Mühle ist auch bei Regen idyllisch; prüfen Sie vor der Abfahrt den Reifendruck für sicheres Fahren auf nasser Straße.",
+                "hu": "A malomnál tett látogatás esőben is idilli zárás; indulás előtt ellenőrizze a gumiabroncsok állapotát a vizes úton való biztonságos vezetéshez.",
+                "ro": "Vizita la moară este un final idilic chiar și pe ploaie; verificați starea anvelopelor pentru o condus în siguranță pe carosabilul umed.",
+                "en": "The mill visit is an idyllic finish even in the rain; check your tire condition for safe driving on wet roads before heading home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt beginnt frostig an der Ponte Joanina mit aufgedrehter Heizung. Mittags erkunden wir die historischen Stätten und das Rathaus, wobei wir die Wärme im Auto zwischen den Stopps genießen. Da es bereits um 17:00 Uhr dunkel wird, nutzen wir das letzte Tageslicht bei den Mühlen. Der Abend endet gemütlich bei der Wasserstelle, während draußen die Winterkälte einzieht.",
+            "hu": "A téli autózás fagyos reggelen kezdődik a Ponte Joaninánál, feltekert fűtéssel. Délben a történelmi helyszíneket és a Városházát látogatjuk meg, élvezve az autó melegét a megállók között. Mivel 17:00-kor már sötétedik, a malmoknál használjuk ki az utolsó fényeket. A napot a vízimalomnál zárjuk, miközben odakint beköszönt a téli éjszaka.",
+            "ro": "Călătoria de iarnă începe geros la Ponte Joanina, cu căldura pornită în mașină. La prânz vizităm siturile istorice și Primăria, bucurându-ne de confortul termic între opriri. Deoarece se întunecă la ora 17:00, profităm de ultima lumină la morile de apă. Ziua se încheie confortabil la moară, în timp ce afară se lasă frigul nopții.",
+            "en": "The winter drive starts on a frosty morning at Ponte Joanina with the heater on. At noon, we explore the historical sites and City Hall, enjoying the warmth of the car between stops. Since it gets dark by 17:00, we make the most of the last daylight at the water mills. The day concludes comfortably at the mill as the winter cold sets in outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte Joanina",
+                "hu": "Ponte Joanina",
+                "ro": "Ponte Joanina",
+                "en": "Ponte Joanina"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Brückenglätte bei Temperaturen um den Gefrierpunkt; ein kurzer Stopp für ein Foto der frostigen Brücke lohnt sich.",
+                "hu": "Fagypont közeli hőmérsékletnél ügyeljen a híd jegesedésére; egy rövid megálló a dérlepte hídnál látványos fotókat eredményezhet.",
+                "ro": "Aveți grijă la polei pe pod când temperaturile sunt scăzute; o scurtă oprire pentru o poză cu podul înghețat merită efortul.",
+                "en": "Watch out for icy patches on the bridge when temperatures are low; a brief stop for a photo of the frosty bridge is well worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Botica",
+                "hu": "Casa da Botica",
+                "ro": "Casa da Botica",
+                "en": "Casa da Botica"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im klaren Winterlicht besonders scharf; nutzen Sie die Sitzheizung, um nach dem kurzen Aussteigen schnell wieder warm zu werden.",
+                "hu": "A homlokzat élesen rajzolódik ki a tiszta téli fényben; használja az ülésfűtést, hogy a rövid kinti séta után gyorsan felmelegedjen az autóban.",
+                "ro": "Fațada apare foarte clară în lumina tăioasă de iarnă; folosiți încălzirea în scaune pentru a vă încălzi rapid după scurta vizită afară.",
+                "en": "The facade looks very sharp in the crisp winter light; use your seat heaters to warm up quickly after a short walk outside to see it."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa de Coquêda",
+                "hu": "Casa de Coquêda",
+                "ro": "Casa de Coquêda",
+                "en": "Casa de Coquêda"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie an einem sonnigen Platz, damit sich der Wagen natürlich aufwärmt; die Architektur ist im kahlen Wintergarten besonders gut sichtbar.",
+                "hu": "Parkoljon napos helyre, hogy az autó természetes módon is melegedjen; az épület részletei a kopár téli kertben még jobban érvényesülnek.",
+                "ro": "Parcați într-un loc însorit pentru a lăsa mașina să se încălzească natural; detaliile clădirii sunt mult mai vizibile în peisajul de iarnă.",
+                "en": "Park in a sunny spot to let the car warm up naturally; the building's details are much more visible in the bare winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho de Paços de Ferreira",
+                "hu": "Pelourinho de Paços de Ferreira",
+                "ro": "Pelourinho de Paços de Ferreira",
+                "en": "Pelourinho de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Pelourinho bei tiefstehender Sonne sorgt für tolle Schatteneffekte; halten Sie Frostschutzmittel für die Scheiben bereit.",
+                "hu": "A pellengérnél tett gyors megálló az alacsony napállásnál remek árnyékokat ad; legyen kéznél jégoldó a szélvédőhöz, ha szükséges.",
+                "ro": "O oprire rapidă la Pelourinho sub soarele jos oferă efecte de umbră superbe; aveți pregătit lichid de parbriz rezistent la îngheț.",
+                "en": "A quick stop at the Pelourinho under the low sun provides great shadow effects; keep some de-icer handy for the windshield if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Câmara Municipal de Paços de Ferreira",
+                "hu": "Câmara Municipal de Paços de Ferreira",
+                "ro": "Câmara Municipal de Paços de Ferreira",
+                "en": "Câmara Municipal de Paços de Ferreira"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Rathaus am Nachmittag für das weichste Licht; achten Sie auf Fußgänger auf dem Platz, die bei Kälte oft eilig unterwegs sind.",
+                "hu": "Látogassa meg a Városházát délután a lágyabb fényekért; ügyeljen a téren siető gyalogosokra, akik a hidegben kevésbé figyelhetnek az autókra.",
+                "ro": "Vizitați primăria după-amiaza pentru cea mai caldă lumină; atenție la pietonii din piață care pot fi grăbiți din cauza frigului de afară.",
+                "en": "Visit the town hall in the afternoon for the softest light; watch out for pedestrians in the square who may be rushing due to the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa do Dr. Jaime Barros",
+                "hu": "Casa do Dr. Jaime Barros",
+                "ro": "Casa do Dr. Jaime Barros",
+                "en": "Casa do Dr. Jaime Barros"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann schattig und frostig sein; prüfen Sie vor der Fahrt das Licht Ihres Wagens, da es ab 16:30 Uhr bereits dämmert.",
+                "hu": "A feljáró út árnyékos és jeges lehet; ellenőrizze az autó világítását indulás előtt, mert 16:30 után már erősen szürkül a táj.",
+                "ro": "Aleea poate fi umbrită și înghețată; verificați funcționarea farurilor înainte de plecare, deoarece amurgul începe devreme, la 16:30.",
+                "en": "The driveway can be shaded and icy; check your car's lights before heading out, as it starts to get dark as early as 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa da Botica Velha",
+                "hu": "Casa da Botica Velha",
+                "ro": "Casa da Botica Velha",
+                "en": "Casa da Botica Velha"
+              },
+              "tip_5lang": {
+                "de": "Das historische Haus wirkt in der Dämmerung sehr einladend; parken Sie sicher und genießen Sie den Anblick kurz, bevor es ganz dunkel wird.",
+                "hu": "A történelmi ház hívogatóan fest a szürkületben; parkoljon le biztonságosan, és élvezze a látványt, mielőtt teljesen leszállna az éj.",
+                "ro": "Casa istorică arată foarte primitor la amurg; parcați în siguranță și bucurați-vă de priveliște înainte de a se întuneca complet.",
+                "en": "The historical house looks very inviting at dusk; park safely and enjoy the view for a moment before it gets completely dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de água",
+                "hu": "Moinho de água",
+                "ro": "Moinho de apă",
+                "en": "Moinho de água"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag an der Mühle und genießen Sie die kühle, frische Luft; stellen Sie sicher, dass Ihre Autobatterie bei der Kälte gut funktioniert.",
+                "hu": "Zárja a napot a malomnál, és élvezze a friss, hűvös levegőt; győződjön meg róla, hogy az autó akkumulátora jól bírja a téli hideget.",
+                "ro": "Încheiați ziua la moară și bucurați-vă de aerul proaspăt și rece; asigurați-vă că bateria mașinii este în stare bună pentru frigul iernii.",
+                "en": "Finish your day at the mill and enjoy the fresh, cool air; make sure your car battery is in good condition for the winter cold."
+              }
+            }
+          ]
+        }
       }
     }
   }

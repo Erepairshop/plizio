@@ -183,6 +183,224 @@
         "hu": "Kezdje gyalogtúráját a fenséges chiavari kastélynál, majd sétáljon át a Casa Charitas és a San Giacomo templomhoz. A délután folyamán merüljön el a ligur történelemben a helyi múzeumokban. Csodálja meg a Mazzini-szobrot a központban, és zárja a napot a parti őrség repülőgépének megtekintésével.",
         "ro": "Începeți turul pietonal la maiestuosul Castel din Chiavari, apoi plimbați-vă spre Casa Charitas și Biserica San Giacomo. După-amiaza, scufundați-vă în istoria ligurică vizitând muzeele locale. Admirați Statuia lui Mazzini în centru și încheiați ziua admirând aeronava Gărzii de Coastă.",
         "en": "Begin your walking tour at the majestic Castle of Chiavari, then stroll towards Casa Charitas and San Giacomo church. As the day progresses, dive into deep Ligurian history at the town's excellent museums. Admire the central Mazzini Statue before concluding your historical exploration near the coast with the Coast Guard aircraft."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Ein nebliger Aufstieg zur Burg bietet mystische Ausblicke trotz Regen. Mittag: Die Kirchen und historischen Gebäude im Zentrum dienen als willkommene, trockene Zufluchtsorte. Nachmittag: Die Museen sind ideal, um den starken Regengüssen zu entkommen und tief in die Geschichte einzutauchen. Abend: Ein Spaziergang am Meer mit Regenschirm zeigt die Lichter, die auf dem nassen Asphalt glitzern.",
+            "hu": "Reggel: A ködös várfelmenet misztikus kilátást nyújt az eső ellenére is. Délben: A központ templomai és történelmi épületei kiváló fedett menedéket jelentenek a záporok elől. Délután: A múzeumlátogatás a legjobb program a zuhé idején, mélyedjen el a helyi történelemben. Este: Egy esernyős séta a tengerparton különleges élmény, ahogy a fények megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața: O urcare cețoasă spre castel oferă vederi mistice în ciuda ploii. La prânz: Bisericile și clădirile istorice din centru servesc ca adăposturi primitoare și uscate. După-amiaza: Muzeele sunt ideale pentru a scăpa de aversele puternice și pentru a explora istoria locală. Seara: O plimbare la malul mării cu umbrela dezvăluie lumini care sclipesc pe asfaltul ud.",
+            "en": "Morning: A misty climb to the castle offers mystical views despite the drizzle. Noon: The churches and historic buildings in the center serve as welcome, dry sanctuaries from the showers. Afternoon: The museums are perfect for escaping heavy downpours while diving deep into local history. Evening: A seaside stroll with an umbrella reveals lights glistening on the wet pavement."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Chiavari",
+                "hu": "Castello di Chiavari",
+                "ro": "Castello di Chiavari",
+                "en": "Castello di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den nebligen Golf von Tigullio; achten Sie auf die rutschigen Steinstufen beim Aufstieg zur Burg.",
+                "hu": "Csodálja meg a ködös Tigullio-öböl látványát; vigyázzon a várba vezető csúszós kőlépcsőkkel az esős időben.",
+                "ro": "Admirați vederea spre Golful Tigullio învelit în ceață; aveți grijă la treptele de piatră alunecoase în drum spre castel.",
+                "en": "Enjoy the view of the misty Gulf of Tigullio; watch out for the slippery stone steps during the climb to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Charitas",
+                "hu": "Casa Charitas",
+                "ro": "Casa Charitas",
+                "en": "Casa Charitas"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort bietet guten Schutz vor dem Regen; nutzen Sie die Zeit, um die sozialen Aspekte der lokalen Geschichte im Trockenen zu studieren.",
+                "hu": "Ez a helyszín jó védelmet nyújt az eső elől; használja ki az időt a helyi szociális történet tanulmányozására a szárazban.",
+                "ro": "Această locație oferă un bun adăpost împotriva ploii; profitați de timp pentru a studia istoria socială locală la adăpost.",
+                "en": "This location provides good shelter from the rain; use the time to study the social history of the area in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa San Giacomo di Rupinaro",
+                "hu": "Chiesa San Giacomo di Rupinaro",
+                "ro": "Chiesa San Giacomo di Rupinaro",
+                "en": "Chiesa San Giacomo di Rupinaro"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Rückzugsort während eines Schauers; bewundern Sie die religiöse Kunst und lassen Sie Ihren Regenschirm am Eingang abtropfen.",
+                "hu": "Pompás menedék egy zápor idején; csodálja meg a vallási művészetet, és hagyja az esernyőt a bejáratnál lecsepegni.",
+                "ro": "Un refugiu splendid în timpul unei averse; admirați arta religioasă și lăsați umbrela la intrare să se scurgă.",
+                "en": "A splendid refuge during a shower; admire the religious art and leave your umbrella to drip dry by the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Chiavari",
+                "hu": "Museo Archeologico di Chiavari",
+                "ro": "Museo Archeologico di Chiavari",
+                "en": "Museo Archeologico di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für einen längeren Aufenthalt bei Regen; entdecken Sie antike Funde, während es draußen ununterbrochen gießt.",
+                "hu": "Tökéletes helyszín hosszabb tartózkodásra esőben; fedezze fel az ókori leleteket, miközben kint szakadatlanul esik.",
+                "ro": "Locul perfect pentru o ședere prelungită pe ploaie; descoperiți descoperiri antice în timp ce afară plouă torențial.",
+                "en": "The perfect place for an extended stay in the rain; discover ancient finds while it pours incessantly outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Diocesano di Arte Sacra",
+                "hu": "Museo Diocesano di Arte Sacra",
+                "ro": "Museo Diocesano di Arte Sacra",
+                "en": "Museo Diocesano di Arte Sacra"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier den regnerischen Nachmittag; die umfangreiche Sammlung sakraler Kunst bietet reichlich Kultur unter einem festen Dach.",
+                "hu": "Töltse itt az esős délutánt; a szakrális művészeti gyűjtemény bőséges kulturális élményt nyújt biztos fedél alatt.",
+                "ro": "Petreceți aici după-amiaza ploioasă; colecția de artă sacră oferă o experiență culturală bogată sub un acoperiș solid.",
+                "en": "Spend your rainy afternoon here; the extensive collection of sacred art offers plenty of culture under a solid roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Giuseppe Mazzini",
+                "hu": "Statua di Giuseppe Mazzini",
+                "ro": "Statua di Giuseppe Mazzini",
+                "en": "Statua di Giuseppe Mazzini"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp; nutzen Sie die nahegelegenen Bogengänge als Schutz, wenn der Regen plötzlich stärker wird.",
+                "hu": "Rövid fotómegálló; használja a közeli árkádokat menedékként, ha az eső hirtelen intenzívebbé válna.",
+                "ro": "O scurtă oprire pentru fotografii; folosiți arcadele din apropiere ca adăpost dacă ploaia devine brusc mai intensă.",
+                "en": "A quick photo stop; use the nearby porticoes as shelter if the rain suddenly becomes more intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Aereo Guardia Costiera",
+                "hu": "Aereo Guardia Costiera",
+                "ro": "Aereo Guardia Costiera",
+                "en": "Aereo Guardia Costiera"
+              },
+              "tip_5lang": {
+                "de": "Dieses Freilichtdenkmal erfordert Vorsicht; die Hafenmole kann bei Nässe extrem rutschig sein, halten Sie sich fest.",
+                "hu": "Ez a szabadtéri emlékmű óvatosságot igényel; a kikötői gát vizesen rendkívül csúszós lehet, kapaszkodjon meg.",
+                "ro": "Acest monument în aer liber necesită prudență; digul portului poate fi extrem de alunecos când este ud, țineți-vă bine.",
+                "en": "This open-air monument requires caution; the harbor pier can be extremely slippery when wet, so watch your footing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Die klare Winterluft bietet weite Sichten von der Burg, kleiden Sie sich winddicht. Mittag: Nutzen Sie die Innenräume der Kirchen, um sich vor der kühlen Meeresbrise aufzuwärmen. Nachmittag: Besuchen Sie Museen, während das Tageslicht bereits ab 16:30 Uhr schwindet. Abend: Nach dem frühen Sonnenuntergang um 17:00 Uhr erstrahlt der Hafen in festlicher, winterlicher Atmosphäre.",
+            "hu": "Reggel: A tiszta téli levegő távoli kilátást enged a várból, öltözzön szélbiztosan. Délben: Használja ki a templomok belső tereit, hogy felmelegedjen a hűvös tengeri szél elől. Délután: Látogasson múzeumokat, mivel a nappali fény már 16:30-tól fogyni kezd. Este: A korai, 17:00-s napnyugta után a kikötő ünnepi, téli fényekben úszik.",
+            "ro": "Dimineața: Aerul clar de iarnă oferă vederi îndepărtate de la castel, îmbrăcați-vă cu haine rezistente la vânt. La prânz: Folosiți interioarele bisericilor pentru a vă încălzi de briza rece a mării. După-amiaza: Vizitați muzeele, deoarece lumina zilei începe să scadă încă de la ora 16:30. Seara: După apusul devreme de la ora 17:00, portul strălucește într-o atmosferă festivă de iarnă.",
+            "en": "Morning: The crisp winter air offers far-reaching views from the castle; be sure to dress in windproof layers. Noon: Take advantage of the church interiors to warm up from the chilly sea breeze. Afternoon: Visit museums as daylight begins to fade from 4:30 PM onwards. Evening: After the early 5:00 PM sunset, the harbor glows in a festive, wintery atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Chiavari",
+                "hu": "Castello di Chiavari",
+                "ro": "Castello di Chiavari",
+                "en": "Castello di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht im Winter ist spektakulär; tragen Sie eine Mütze gegen den starken Wind auf der Bergkuppe.",
+                "hu": "A téli látótávolság lenyűgöző; viseljen sapkát a hegytetőn tapasztalható erős szél ellen a várlátogatáskor.",
+                "ro": "Vizibilitatea pe timp de iarnă este spectaculoasă; purtați o căciulă împotriva vântului puternic de pe creastă.",
+                "en": "The winter visibility is spectacular; wear a hat against the strong winds at the hilltop during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Charitas",
+                "hu": "Casa Charitas",
+                "ro": "Casa Charitas",
+                "en": "Casa Charitas"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für Besinnung; die dicken Mauern halten die Kälte draußen und ermöglichen einen gemütlichen Aufenthalt.",
+                "hu": "Csendes hely az elmélkedésre; a vastag falak kint tartják a hideget, így kényelmesen nézelődhet bent.",
+                "ro": "Un loc liniștit pentru reflecție; zidurile groase țin frigul afară, permițând o vizită confortabilă în interior.",
+                "en": "A quiet place for reflection; the thick walls keep the cold outside, allowing for a cozy visit indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa San Giacomo di Rupinaro",
+                "hu": "Chiesa San Giacomo di Rupinaro",
+                "ro": "Chiesa San Giacomo di Rupinaro",
+                "en": "Chiesa San Giacomo di Rupinaro"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille; Kirchen sind im Winter oft wärmer als die windigen Gassen der Altstadt.",
+                "hu": "Élvezze a békés csendet; a templomok télen gyakran melegebbek, mint az óváros szeles, szűk utcái.",
+                "ro": "Bucurați-vă de liniștea pașnică; bisericile sunt adesea mai calde iarna decât străzile vântoase ale centrului vechi.",
+                "en": "Enjoy the peaceful silence; churches are often warmer in winter than the windy alleys of the old town."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Chiavari",
+                "hu": "Museo Archeologico di Chiavari",
+                "ro": "Museo Archeologico di Chiavari",
+                "en": "Museo Archeologico di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Ein Highlight an kalten Tagen; die beheizten Ausstellungsräume sind ideal, um der winterlichen Kälte zu entfliehen.",
+                "hu": "Kiemelt program hideg napokon; a fűtött kiállítótermek ideálisak a téli fagy elöli menekülésre.",
+                "ro": "Un punct culminant în zilele reci; sălile de expoziție încălzite sunt ideale pentru a scăpa de gerul iernii.",
+                "en": "A highlight on cold days; the heated exhibition halls are ideal for escaping the winter frost while learning."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Diocesano di Arte Sacra",
+                "hu": "Museo Diocesano di Arte Sacra",
+                "ro": "Museo Diocesano di Arte Sacra",
+                "en": "Museo Diocesano di Arte Sacra"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstwerke in angenehmer Atmosphäre; nutzen Sie das schwindende Tageslicht für die Betrachtung der Details.",
+                "hu": "Csodálja meg a műalkotásokat kellemes környezetben; használja ki a fogyatkozó fényt a részletek megfigyeléséhez.",
+                "ro": "Admirați operele de artă într-o atmosferă plăcută; profitați de lumina slabă pentru a observa detaliile fine.",
+                "en": "Admire the artworks in a pleasant atmosphere; use the fading daylight to observe the fine details of the collection."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Giuseppe Mazzini",
+                "hu": "Statua di Giuseppe Mazzini",
+                "ro": "Statua di Giuseppe Mazzini",
+                "en": "Statua di Giuseppe Mazzini"
+              },
+              "tip_5lang": {
+                "de": "Das scharfe Winterlicht eignet sich hervorragend für Fotos der Statue; bleiben Sie wegen der Kälte jedoch in Bewegung.",
+                "hu": "Az éles téli fény kiválóan alkalmas a szobor fotózására; a hideg miatt azonban maradjon mozgásban a téren.",
+                "ro": "Lumina clară de iarnă este excelentă pentru fotografii; totuși, rămâneți în mișcare din cauza temperaturilor scăzute.",
+                "en": "The sharp winter light is excellent for photographing the statue; however, keep moving due to the cold temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Aereo Guardia Costiera",
+                "hu": "Aereo Guardia Costiera",
+                "ro": "Aereo Guardia Costiera",
+                "en": "Aereo Guardia Costiera"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung um 17:00 Uhr verleiht dem Flugzeug am Meer eine dramatische Silhouette; ziehen Sie sich für die Meeresbrise warm an.",
+                "hu": "A 17:00-s szürkület drámai sziluettet ad a tengerparti repülőnek; öltözzön nagyon melegen a jeges tengeri szél miatt.",
+                "ro": "Amurgul de la ora 17:00 oferă avionului de lângă mare o siluetă dramatică; îmbrăcați-vă gros pentru briza marină.",
+                "en": "Twilight at 5:00 PM gives the aircraft by the sea a dramatic silhouette; dress warmly for the biting sea breeze."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Kezdje kényelmes kerékpártúráját a csendes San Giuseppe templomnál Lavagnában. Tekerjen végig a festői tengerparton, megállva a Bagni Riviera és a Bagni Lido strandoknál. Délután fedezze fel a város történelmi oldalát a Régészeti Múzeumtól egészen a dombtetőn magasodó lenyűgöző chiavari kastélyig.",
         "ro": "Începeți traseul cu bicicleta la liniștita Biserică San Giuseppe din Lavagna. Pedalați de-a lungul coastei pitorești, oprindu-vă la Bagni Riviera și Bagni Lido. După-amiaza, explorați latura istorică a orașului, vizitând Muzeul Arheologic și urcând la impunătorul Castel din Chiavari.",
         "en": "Kick off your relaxed bike route at the quiet San Giuseppe church in Lavagna. Pedal along the picturesque coastline, taking breaks at the Riviera and Lido beach clubs. In the afternoon, shift your focus to the town's historical side by visiting the Archaeological Museum and riding up to the imposing Castle of Chiavari."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Trotz Regen beginnt die Tour an der Kirche; wasserfeste Kleidung ist für Radfahrer unerlässlich. Mittag: Planen Sie längere Pausen in Museen ein, um sich aufzuwärmen und zu trocknen. Nachmittag: Fahren Sie vorsichtig auf nassen Straßen zum Strand; die Küste wirkt bei Regen wild und leer. Abend: Beenden Sie die Fahrt frühzeitig, da die Sicht bei Regen und Dunkelheit stark abnimmt.",
+            "hu": "Reggel: Az eső ellenére a túra a templomnál indul; a vízálló ruházat elengedhetetlen a kerékpárosoknak. Délben: Tervezzen hosszabb pihenőket a múzeumokban, hogy felmelegedjen és megszáradjon. Délután: Óvatosan tekerjen a vizes utakon a strand felé; a part esőben vad és elhagyatott. Este: Fejezze be korán a bringázást, mert a látási viszonyok esőben és sötétben sokat romlanak.",
+            "ro": "Dimineața: În ciuda ploii, turul începe la biserică; hainele impermeabile sunt esențiale pentru bicicliști. La prânz: Planificați pauze mai lungi în muzee pentru a vă încălzi și a vă usca. După-amiaza: Pedalați cu atenție pe drumurile ude spre plajă; coasta pare sălbatică și pustie pe ploaie. Seara: Încheiați călătoria devreme, deoarece vizibilitatea scade semnificativ pe ploaie și întuneric.",
+            "en": "Morning: Despite the rain, the tour starts at the church; waterproof gear is essential for cyclists today. Noon: Plan longer breaks in museums to warm up and dry off between rides. Afternoon: Cycle carefully on wet roads towards the beach; the coast looks wild and deserted in the rain. Evening: Finish your ride early as visibility decreases significantly in rainy and dark conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Vordach; nutzen Sie die Kirche als trockenen Startpunkt für Ihre Tour.",
+                "hu": "Parkolja a kerékpárt az előtető alá; használja a templomot száraz indópontként a túrájához.",
+                "ro": "Parcați bicicleta sub streașină; folosiți biserica ca punct de plecare uscat pentru turul dumneavoastră.",
+                "en": "Park your bike under the overhang; use the church as a dry starting point for your rainy day tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Riviera",
+                "hu": "Bagni Riviera",
+                "ro": "Bagni Riviera",
+                "en": "Bagni Riviera"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschiges Salz und Sand auf der Fahrbahn; die Strandpromenade kann bei Wind sehr nass gespritzt werden.",
+                "hu": "Ügyeljen a csúszós sóra és homokra az úttesten; a tengerparti sétány szeles időben nagyon vizes lehet a kicsapó hullámoktól.",
+                "ro": "Atenție la sarea și nisipul alunecos de pe carosabil; faleza poate fi foarte udă din cauza valurilor în timpul vântului.",
+                "en": "Watch out for slippery salt and sand on the roadway; the beachfront promenade can get very wet from sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Lido",
+                "hu": "Bagni Lido",
+                "ro": "Bagni Lido",
+                "en": "Bagni Lido"
+              },
+              "tip_5lang": {
+                "de": "Pfützen können Schlaglöcher verbergen; fahren Sie langsam und nutzen Sie Reflektoren für bessere Sichtbarkeit im Regen.",
+                "hu": "A tócsák kátyúkat rejthetnek; tekerjen lassan és használjon fényvisszaverőket a jobb láthatóságért az esőben.",
+                "ro": "Bălțile pot ascunde gropi; pedalați încet și folosiți reflectorizante pentru o vizibilitate mai bună pe ploaie.",
+                "en": "Puddles can hide potholes; cycle slowly and use reflectors for better visibility during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Giuseppe Mazzini",
+                "hu": "Statua di Giuseppe Mazzini",
+                "ro": "Statua di Giuseppe Mazzini",
+                "en": "Statua di Giuseppe Mazzini"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt; der Marmorsockel der Statue ist bei Nässe extrem glatt, steigen Sie vorsichtig vom Rad.",
+                "hu": "Gyors megálló; a szobor márványtalapzata vizesen rendkívül síkos, óvatosan szálljon le a kerékpárról.",
+                "ro": "O oprire rapidă; soclul de marmură al statuii este extrem de alunecos când este ud, coborâți cu grijă de pe bicicletă.",
+                "en": "A quick stop; the statue's marble base is extremely slippery when wet, so dismount your bike carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Chiavari",
+                "hu": "Museo Archeologico di Chiavari",
+                "ro": "Museo Archeologico di Chiavari",
+                "en": "Museo Archeologico di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Es gibt überdachte Fahrradabstellplätze in der Nähe; trocknen Sie sich beim Erkunden der Ruinen gründlich ab.",
+                "hu": "A közelben vannak fedett kerékpártárolók; szárítkozzon meg alaposan, miközben az ókori romokat kutatja.",
+                "ro": "Există parcări de biciclete acoperite în apropiere; uscați-vă bine în timp ce explorați ruinele antice.",
+                "en": "There are covered bike parking spots nearby; take the opportunity to dry off while exploring the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Chiavari",
+                "hu": "Castello di Chiavari",
+                "ro": "Castello di Chiavari",
+                "en": "Castello di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg erfordert höchste Konzentration; nasses Laub auf dem Weg kann für Radreifen sehr gefährlich sein.",
+                "hu": "A felfelé menet maximális koncentrációt igényel; az úton lévő vizes levelek nagyon veszélyesek lehetnek a gumiknak.",
+                "ro": "Urcarea necesită concentrare maximă; frunzele ude de pe drum pot fi foarte periculoase pentru anvelope.",
+                "en": "The ascent requires maximum concentration; wet leaves on the path can be very treacherous for bike tires."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Beginnen Sie Ihre Fahrt bei frischen Temperaturen; Handschuhe sind für den Griff am Lenker unerlässlich. Mittag: Die Wintersonne wärmt an windgeschützten Stellen der Promenade angenehm. Nachmittag: Planen Sie Ihre Route so, dass Sie die Museen vor Einbruch der frühen Dunkelheit erreichen. Abend: Da es ab 17:00 Uhr dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung einwandfrei funktioniert.",
+            "hu": "Reggel: Induljon friss hőmérsékletben; a kesztyű elengedhetetlen a kormány fogásához a hideg szélben. Délben: A téli napsütés kellemesen melegít a sétány szélvédett pontjain. Délután: Úgy tervezze az útvonalat, hogy a múzeumokat még a korai sötétedés előtt elérje. Este: Mivel 17:00-tól sötét van, győződjön meg róla, hogy a kerékpáros lámpái tökéletesen működnek.",
+            "ro": "Dimineața: Începeți călătoria la temperaturi scăzute; mănușile sunt esențiale pentru prinderea ghidonului în vântul rece. La prânz: Soarele de iarnă încălzește plăcut în locurile ferite de vânt de pe faleză. După-amiaza: Planificați traseul astfel încât să ajungeți la muzee înainte de lăsarea întunericului devreme. Seara: Deoarece se întunecă de la ora 17:00, asigurați-vă că luminile bicicletei funcționează perfect.",
+            "en": "Morning: Start your ride in fresh temperatures; gloves are essential for gripping the handlebars in the cold wind. Noon: The winter sun warms pleasantly in sheltered spots along the promenade. Afternoon: Plan your route to reach the museums before the early onset of darkness. Evening: As it gets dark from 5:00 PM, make sure your bike lights are functioning perfectly for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie ruhig in den Tag; im Winter ist es hier morgens herrlich still und wenig Verkehr.",
+                "hu": "Indítsa nyugodtan a napot; télen reggelente itt csodálatos csend fogadja, és alig van forgalom.",
+                "ro": "Începeți ziua în liniște; iarna, diminețile sunt minunat de tăcute aici și traficul este redus.",
+                "en": "Start your day calmly; in winter, it's wonderfully quiet here in the morning with very little traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Riviera",
+                "hu": "Bagni Riviera",
+                "ro": "Bagni Riviera",
+                "en": "Bagni Riviera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das raue Wintermeer; der Wind kann beim Treten einen starken Widerstand leisten.",
+                "hu": "Élvezze a haragos téli tenger látványát; a szél tekerés közben erős ellenállást tanúsíthat a parton.",
+                "ro": "Bucurați-vă de vederea mării agitate de iarnă; vântul poate opune o rezistență puternică la pedalat pe mal.",
+                "en": "Enjoy the view of the rough winter sea; the wind can provide strong resistance while pedaling along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni Lido",
+                "hu": "Bagni Lido",
+                "ro": "Bagni Lido",
+                "en": "Bagni Lido"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause im Winterlicht; die leeren Strände strahlen eine ganz eigene, friedliche Melancholie aus.",
+                "hu": "Tartson rövid szünetet a téli fényben; az üres strandok sajátos, békés melankóliát árasztanak ilyenkor.",
+                "ro": "Faceți o scurtă pauză în lumina iernii; plajele pustii emană o melancolie specifică și liniștită acum.",
+                "en": "Take a short break in the winter light; the empty beaches radiate a unique, peaceful melancholy this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Statua di Giuseppe Mazzini",
+                "hu": "Statua di Giuseppe Mazzini",
+                "ro": "Statua di Giuseppe Mazzini",
+                "en": "Statua di Giuseppe Mazzini"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für ein schnelles Foto; die klare Luft lässt die Details der Statue besonders scharf hervortreten.",
+                "hu": "Ideális hely egy gyors fotóhoz; a tiszta levegő miatt a szobor részletei különösen élesen látszódnak.",
+                "ro": "Loc ideal pentru o fotografie rapidă; aerul clar face ca detaliile statuii să iasă în evidență foarte clar.",
+                "en": "An ideal spot for a quick photo; the clear air makes the statue's details stand out particularly sharply."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico di Chiavari",
+                "hu": "Museo Archeologico di Chiavari",
+                "ro": "Museo Archeologico di Chiavari",
+                "en": "Museo Archeologico di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und nutzen Sie die Wärme des Museums; im Winter ist der Andrang hier deutlich geringer.",
+                "hu": "Parkolja le a bringát és élvezze a múzeum melegét; télen a látogatók száma is jóval alacsonyabb.",
+                "ro": "Parcați bicicleta și bucurați-vă de căldura muzeului; iarna, numărul vizitatorilor este mult mai mic.",
+                "en": "Park your bike and enjoy the warmth of the museum; in winter, the crowds are significantly smaller."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Chiavari",
+                "hu": "Castello di Chiavari",
+                "ro": "Castello di Chiavari",
+                "en": "Castello di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm; oben angekommen, sollten Sie schnell wieder in die Pedale treten, um nicht auszukühlen.",
+                "hu": "A felfelé tekerés melegen tartja; a csúcsra érve hamar induljon tovább, hogy ne hűljön ki a szélben.",
+                "ro": "Urcarea vă va ține de cald; odată ajunși sus, porniți repede la drum pentru a nu vă răci în vânt.",
+                "en": "The climb will keep you warm; once at the top, start pedaling again soon to avoid catching a chill in the wind."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Indítsa a reggelt pihentetően a Bagni Egidiónál, majd autózzon a központba a San Giuseppe templomhoz. Utazzon tovább Chiavariba az ősi kastély és az Egyházmegyei Múzeum felfedezésére. A parti őrség repülőgépének megtekintése után zárja az estét zenével és tengeri kilátással a Duna Beach klubban.",
         "ro": "Începeți dimineața relaxant la Bagni Egidio, apoi conduceți spre centrul orașului la Biserica San Giuseppe. Mergeți mai departe în Chiavari pentru a explora vechiul castel și Muzeul Diecezan. O oprire la aeronava Gărzii de Coastă precede seara festivă de la Duna Beach, cu muzică și vedere la mare.",
         "en": "Start your morning with a relaxing vibe at Bagni Egidio before driving to the central San Giuseppe church. Head over to Chiavari to explore the ancient castle and the fascinating Diocesan Museum. A quick stop at the Coast Guard aircraft transitions you into a lively evening of music and sea views at Duna Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgen: Beginnen Sie Ihre Fahrt gemütlich im Trockenen; Parkplätze direkt am Wasser ermöglichen kurze Wege. Mittag: Besuchen Sie die Burg; die Auffahrt mit dem Auto ist bei Regen wesentlich komfortabler als der Fußweg. Nachmittag: Museen bieten perfekten Schutz, während der Regen auf das Autodach trommelt. Abend: Genießen Sie den Ausblick auf das stürmische Meer aus der Sicherheit Ihres Fahrzeugs.",
+            "hu": "Reggel: Kezdje az utat kényelmesen, szárazon; a vízparti parkolók rövid gyaloglást tesznek lehetővé. Délben: Látogassa meg a várat; autóval felhajtani sokkal kényelmesebb esőben, mint gyalogosan. Délután: A múzeumok tökéletes védelmet nyújtanak, miközben az eső az autótetőn kopog. Este: Élvezze a viharos tenger látványát járműve biztonságából.",
+            "ro": "Dimineața: Începeți călătoria confortabil și uscat; parcările de pe mal permit deplasări scurte pe jos. La prânz: Vizitați castelul; urcarea cu mașina este mult mai confortabilă pe ploaie decât mersul pe jos. După-amiaza: Muzeele oferă protecție perfectă în timp ce ploaia bate în plafonul mașinii. Seara: Bucurați-vă de vederea mării învolburate din siguranța vehiculului dumneavoastră.",
+            "en": "Morning: Start your trip comfortably dry; waterfront parking spots allow for very short walks to the attractions. Noon: Visit the castle; driving up is much more comfortable in the rain than taking the steep path on foot. Afternoon: Museums offer perfect protection while the rain drums on the car roof. Evening: Enjoy the view of the stormy sea from the safety and warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Egidio",
+                "hu": "Bagni Egidio",
+                "ro": "Bagni Egidio",
+                "en": "Bagni Egidio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; beobachten Sie die Wellen durch die Windschutzscheibe bei laufendem Scheibenwischer.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; figyelje a hullámokat a szélvédőn keresztül, működő ablaktörlők mellett.",
+                "ro": "Parcați cât mai aproape de intrare; observați valurile prin parbriz cu ștergătoarele pornite.",
+                "en": "Park as close to the entrance as possible; watch the crashing waves through your windshield with the wipers on."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Weg vom Auto zur Kirche; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Használja ki a rövid utat az autótól a templomig; kiszálláskor ügyeljen az útmenti mély tócsákra.",
+                "ro": "Profitați de drumul scurt de la mașină la biserică; atenție la bălțile adânci de la marginea drumului la coborâre.",
+                "en": "Take advantage of the short walk from the car to the church; watch out for deep puddles by the roadside when exiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Chiavari",
+                "hu": "Castello di Chiavari",
+                "ro": "Castello di Chiavari",
+                "en": "Castello di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Auffahrt kann bei Regen rutschig sein; fahren Sie langsam und achten Sie auf entgegenkommende Fahrzeuge im Nebel.",
+                "hu": "A szűk felhajtó esőben csúszós lehet; hajtson lassan és figyeljen a ködben szembejövő járművekre.",
+                "ro": "Aleea îngustă poate fi alunecoasă pe ploaie; conduceți încet și fiți atenți la vehiculele care vin din sens opus în ceață.",
+                "en": "The narrow driveway can be slippery in the rain; drive slowly and watch for oncoming vehicles in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Diocesano di Arte Sacra",
+                "hu": "Museo Diocesano di Arte Sacra",
+                "ro": "Museo Diocesano di Arte Sacra",
+                "en": "Museo Diocesano di Arte Sacra"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkhäuser in der Nähe, die Sie trocken zum Museum führen; ideal für einen längeren Aufenthalt bei Gewitter.",
+                "hu": "A közelben vannak parkolóházak, ahonnan szárazon elérheti a múzeumot; ideális hosszú tartózkodásra vihar esetén.",
+                "ro": "Există parcări acoperite în apropiere care vă permit să ajungeți uscat la muzeu; ideal pentru o ședere lungă în caz de furtună.",
+                "en": "There are parking garages nearby that lead you dryly to the museum; ideal for an extended stay during a thunderstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Aereo Guardia Costiera",
+                "hu": "Aereo Guardia Costiera",
+                "ro": "Aereo Guardia Costiera",
+                "en": "Aereo Guardia Costiera"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für den besten Blick im Auto; die Gischt kann bei starkem Wind bis auf die Straße peitschen.",
+                "hu": "A legjobb kilátásért maradjon az autóban; az erős szélben a vízpermet egészen az úttestig kicsaphat.",
+                "ro": "Rămâneți în mașină pentru cea mai bună vedere; în timpul vântului puternic, stropii de apă pot ajunge până pe carosabil.",
+                "en": "Stay in the car for the best view; in strong winds, sea spray can lash all the way onto the roadway."
+              }
+            },
+            {
+              "name": {
+                "de": "Duna Beach (discoteca e stabilimento)",
+                "hu": "Duna Beach (discoteca e stabilimento)",
+                "ro": "Duna Beach (discoteca e stabilimento)",
+                "en": "Duna Beach (discoteca e stabilimento)"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze sind im Regen oft leer; genießen Sie die melancholische Stimmung des geschlossenen Clubs vom Trockenen aus.",
+                "hu": "A parkolók esőben gyakran üresek; élvezze a zárt klub melankolikus hangulatát a száraz autóból.",
+                "ro": "Parcările sunt adesea goale pe ploaie; bucurați-vă de atmosfera melancolică a clubului închis din mașina uscată.",
+                "en": "Parking lots are often empty in the rain; enjoy the melancholy vibe of the closed club from the dry interior of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgen: Beginnen Sie den Tag mit einer warmen Fahrt entlang der Küste; die Heizung sorgt für Wohlbefinden. Mittag: Parken Sie nahe der Altstadt; die kühle Winterbrise macht kurze Fußwege angenehm. Nachmittag: Besuchen Sie die Museen und das Schloss, bevor die Dämmerung um 16:30 Uhr einsetzt. Abend: Die Fahrt durch das beleuchtete Lavagna bei winterlicher Dunkelheit nach 17:00 Uhr ist besonders stimmungsvoll.",
+            "hu": "Reggel: Kezdje a napot egy meleg autózással a part mentén; a fűtés gondoskodik a kényelemről. Délben: Parkoljon az óváros közelében; a hűvös téli szellő miatt a rövid séták is kellemesek. Délután: Látogassa meg a múzeumokat és a várat, mielőtt 16:30-kor elkezdődne a szürkület. Este: Az autózás a kivilágított Lavagnában a 17:00 utáni téli sötétségben különösen hangulatos.",
+            "ro": "Dimineața: Începeți ziua cu o plimbare caldă cu mașina de-a lungul coastei; încălzirea asigură confortul necesar. La prânz: Parcați aproape de centrul vechi; briza rece de iarnă face ca scurte plimbări pe jos să fie plăcute. După-amiaza: Vizitați muzeele și castelul înainte ca amurgul să se instaleze la 16:30. Seara: Plimbarea prin Lavagna iluminată în întunericul iernii după ora 17:00 este deosebit de atmosferică.",
+            "en": "Morning: Start your day with a warm drive along the coast; the car's heater ensures a comfortable beginning. Noon: Park near the old town; the cool winter breeze makes even short walks feel refreshing. Afternoon: Visit the museums and the castle before twilight sets in around 4:30 PM. Evening: Driving through illuminated Lavagna in the winter darkness after 5:00 PM is particularly atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bagni Egidio",
+                "hu": "Bagni Egidio",
+                "ro": "Bagni Egidio",
+                "en": "Bagni Egidio"
+              },
+              "tip_5lang": {
+                "de": "Das Wintermeer ist faszinierend; lassen Sie den Motor kurz laufen, um die Scheiben vor dem Beschlagen zu schützen.",
+                "hu": "A téli tenger látványa lenyűgöző; járassa rövid ideig a motort, hogy megvédje a szélvédőt a párásodástól.",
+                "ro": "Marea de iarnă este fascinantă; lăsați motorul pornit scurt timp pentru a preveni aburirea parbrizului.",
+                "en": "The winter sea is fascinating; keep the engine running briefly to prevent the windshield from fogging up."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giuseppe",
+                "hu": "Chiesa di San Giuseppe",
+                "ro": "Chiesa di San Giuseppe",
+                "en": "Chiesa di San Giuseppe"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind in der Nebensaison leicht zu finden; genießen Sie die ruhige, kalte Morgenatmosphäre in der Kirche.",
+                "hu": "A parkolóhelyeket holtszezonban könnyű megtalálni; élvezze a templom csendes, hideg reggeli hangulatát.",
+                "ro": "Locurile de parcare sunt ușor de găsit în extrasezon; bucurați-vă de atmosfera liniștită și rece a dimineții în biserică.",
+                "en": "Parking spots are easy to find in the low season; enjoy the quiet, cold morning atmosphere inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Chiavari",
+                "hu": "Castello di Chiavari",
+                "ro": "Castello di Chiavari",
+                "en": "Castello di Chiavari"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt nach oben bietet klare Fernsichten; die alten Steinmauern des Schlosses strahlen im Winter eine besondere Kälte aus.",
+                "hu": "A felfelé vezető út tiszta kilátást nyújt; a vár ősi kőfalai télen különleges hideget árasztanak, öltözzön fel.",
+                "ro": "Drumul spre culme oferă vederi clare; zidurile vechi de piatră ale castelului emană un frig aparte iarna.",
+                "en": "The drive up offers clear panoramic views; the castle's ancient stone walls radiate a special chill in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Diocesano di Arte Sacra",
+                "hu": "Museo Diocesano di Arte Sacra",
+                "ro": "Museo Diocesano di Arte Sacra",
+                "en": "Museo Diocesano di Arte Sacra"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort für religiöse Kunst; nutzen Sie die beheizten Räume, um sich zwischen den Fahrten aufzuwärmen.",
+                "hu": "Meleg menedék a vallási művészet kedvelőinek; használja a fűtött tereket a felmelegedésre két autózás között.",
+                "ro": "Un refugiu cald pentru arta religioasă; folosiți spațiile încălzite pentru a vă încălzi între deplasări.",
+                "en": "A warm sanctuary for religious art; use the heated rooms to warm up properly between your driving legs."
+              }
+            },
+            {
+              "name": {
+                "de": "Aereo Guardia Costiera",
+                "hu": "Aereo Guardia Costiera",
+                "ro": "Aereo Guardia Costiera",
+                "en": "Aereo Guardia Costiera"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang um 17:00 Uhr erzeugt eine spektakuläre Kulisse; beobachten Sie das Farbspiel vom warmen Auto aus.",
+                "hu": "A 17:00-s napnyugta látványos hátteret teremt; figyelje a színek játékát a repülő körül a meleg autóból.",
+                "ro": "Apusul de la ora 17:00 creează un cadru spectaculos; observați jocul de culori din mașina încălzită.",
+                "en": "Sunset at 5:00 PM creates a spectacular backdrop; watch the play of colors around the aircraft from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Duna Beach (discoteca e stabilimento)",
+                "hu": "Duna Beach (discoteca e stabilimento)",
+                "ro": "Duna Beach (discoteca e stabilimento)",
+                "en": "Duna Beach (discoteca e stabilimento)"
+              },
+              "tip_5lang": {
+                "de": "Winterstimmung am Strand; genießen Sie den Blick auf die Küste, bevor Frost oder Reif am Abend einsetzen.",
+                "hu": "Téli hangulat a strandon; élvezze a part látványát az autóban ülve, mielőtt az esti fagy vagy pára beállna.",
+                "ro": "Atmosferă de iarnă pe plajă; bucurați-vă de vederea coastei din mașină înainte ca gerul serii să se instaleze.",
+                "en": "Winter vibes at the beach; enjoy the coastal view from your seat before the evening frost or mist sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

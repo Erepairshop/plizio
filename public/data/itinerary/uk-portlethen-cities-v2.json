@@ -160,6 +160,196 @@
         "hu": "Kezdje sétáját a portletheni állomáson, magába szívva a nyugodt atmoszférát, mielőtt egy rövid sétát tenne a közeli bájos plébániatemplomhoz.\n\nDélben kapcsolódjon be a helyi közösség életébe a könyvtárban, és tartson egy békés pihenőt a jól karbantartott Bourtree Parkban.\n\nDélután látogasson el a Portlethen Moss természeti tájaira, felfedezve a helyi növényvilágot.\n\nFejezze be pihentető utazását a modern bevásárlóközpont közelében, elmerengve a kellemes tengerparti közösségi hangulaton, mielőtt hazatérne.",
         "ro": "Începeți turul de mers pe jos la Gara Portlethen, absorbind atmosfera liniștită înainte de a face o scurtă plimbare până la fermecătoarea biserică parohială.\n\nLa amiază, interacționați cu comunitatea locală la bibliotecă și luați o pauză liniștită în Parcul Bourtree cel bine întreținut.\n\nDupă-amiaza, aventurați-vă în peisajele naturale de la Portlethen Moss, descoperind flora locală.\n\nÎncheiați călătoria relaxantă lângă centrul comercial modern, reflectând asupra atmosferei plăcute a comunității de coastă înainte de a vă întoarce acasă.",
         "en": "Begin your walking tour at the Portlethen Station, absorbing the tranquil atmosphere before making a short stroll to the charming parish church nearby.\n\nBy midday, engage with the local community at the library and take a peaceful break in the well-maintained Bourtree Park with some snacks.\n\nIn the afternoon, venture out to the natural landscapes of Portlethen Moss, discovering local flora.\n\nConclude your relaxing journey near the modern shopping centre, reflecting on the pleasant coastal community vibe before heading home."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen in Portlethen beginnt grau; am Bahnhof ist ein stabiler Schirm wegen der Küstenwinde unerlässlich. Mittags bieten die Steinkirche und die Bibliothek trockene Zuflucht und Ruhe. Am Nachmittag trotzen wir dem Regen im Bourtree Park und im nebligen Moor, bevor wir uns im modernen Einkaufszentrum vollständig aufwärmen und abtrocknen. Ein Tag für wasserfeste Abenteurer.",
+            "hu": "A reggel szürkén indul az állomáson; a tengerparti szél miatt egy erős esernyő elengedhetetlen. Délben a kőtemplom és a könyvtár nyújt száraz menedéket az eső elől. Délután a Bourtree Park és a párás lápvidék sáros ösvényein kalandozunk, majd a napot a bevásárlóközpont melegében zárjuk. Ez a nap a vízálló cipőkről és a belső terek nyugalmáról szól.",
+            "ro": "Dimineața începe gri la gară; o umbrelă rezistentă este esențială din cauza vântului de coastă. La prânz, biserica de piatră și biblioteca oferă un refugiu uscat. După-amiaza, explorăm potecile noroioase din Bourtree Park și mlaștina cețoasă, înainte de a ne usca în centrul comercial modern. O zi dedicată exploratorilor pregătiți pentru vremea scoțiană tipică.",
+            "en": "The morning begins grey at the station; a sturdy umbrella is essential due to coastal winds. At noon, the stone church and library offer dry sanctuary from the rain. In the afternoon, we brave the muddy paths of Bourtree Park and the misty Moss before drying off completely in the modern shopping centre. A day for waterproof adventurers embracing the Scottish drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Portlethen",
+                "hu": "Portlethen Vasútállomás",
+                "ro": "Gara Portlethen",
+                "en": "Portlethen Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wartehäuschen am Gleis, da der Wind den Regen oft seitlich unter das Dach peitscht; halten Sie Ihre Fahrkarte griffbereit in einer wasserfesten Tasche.",
+                "hu": "Használja a peronon lévő várófülkéket, mert a szél gyakran behordja az esőt a tető alá; a menetjegyét tartsa vízhatlan helyen a gyors ellenőrzéshez.",
+                "ro": "Folosiți adăposturile de pe peron, deoarece vântul împinge adesea ploaia lateral; păstrați biletul într-un buzunar impermeabil pentru a-l proteja de umezeală.",
+                "en": "Use the platform shelters as the wind often drives rain sideways under the main roof; keep your ticket in a waterproof pocket for quick access."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Portlethen",
+                "hu": "Portletheni Plébániatemplom",
+                "ro": "Biserica Parohială Portlethen",
+                "en": "Portlethen Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern bieten exzellenten Schutz vor dem prasselnden Regen; achten Sie beim Betreten auf die glatten Stufen am Eingangsbereich.",
+                "hu": "A vaskos kőfalak kiváló védelmet nyújtanak a kopogó eső elől; belépéskor ügyeljen a bejárati lépcsőkre, amelyek vizesen rendkívül csúszóssá válhatnak.",
+                "ro": "Zidurile masive de piatră oferă o protecție excelentă împotriva ploii; aveți grijă la treptele de la intrare, care pot fi alunecoase când sunt ude.",
+                "en": "The massive stone walls provide excellent protection from the drumming rain; watch your step on the entrance stairs, as they become slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bibliothek Portlethen",
+                "hu": "Portletheni Könyvtár",
+                "ro": "Biblioteca Portlethen",
+                "en": "Portlethen Library"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um die lokale Geschichte zu studieren, während es draußen regnet; nutzen Sie die Zeit für eine gemütliche Lesepause im Trockenen.",
+                "hu": "Ez a tökéletes hely a helyi történelem tanulmányozására, amíg odakint szakad az eső; használja ki az időt egy kényelmes, száraz olvasási szünetre.",
+                "ro": "Acesta este locul ideal pentru a studia istoria locală în timp ce afară plouă; profitați de timp pentru o pauză de lectură relaxantă la adăpost.",
+                "en": "This is the perfect spot to study local history while it pours outside; use the time for a cozy reading break in a dry, quiet environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourtree Park",
+                "hu": "Bourtree Park",
+                "ro": "Parcul Bourtree",
+                "en": "Bourtree Park"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Bäumen, wenn ein Schauer aufzieht, aber bleiben Sie auf den befestigten Wegen, um tiefen Schlamm zu vermeiden.",
+                "hu": "Keressen menedéket a nagy fák alatt, ha elered az eső, de maradjon a burkolt ösvényeken, hogy elkerülje a mély sarat a fűben.",
+                "ro": "Căutați adăpost sub copacii mari dacă începe o aversă, dar rămâneți pe potecile pavate pentru a evita noroiul adânc de pe iarbă.",
+                "en": "Seek shelter under the large trees if a shower starts, but stick to the paved paths to avoid deep mud on the grassy areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Portlethen Moss",
+                "hu": "Portlethen Moss",
+                "ro": "Portlethen Moss",
+                "en": "Portlethen Moss"
+              },
+              "tip_5lang": {
+                "de": "Das Moor wirkt im Regen besonders mystisch, aber wasserfeste Wanderschuhe sind hier Pflicht, da die Wege teilweise unter Wasser stehen können.",
+                "hu": "A lápvidék különösen misztikus az esőben, de a vízálló túrabakancs kötelező, mivel az ösvények helyenként víz alá kerülhetnek.",
+                "ro": "Mlaștina pare deosebit de mistică în ploaie, dar bocancii impermeabili sunt obligatorii, deoarece potecile pot fi parțial inundate.",
+                "en": "The Moss looks particularly mystical in the rain, but waterproof hiking boots are a must as paths can be partially submerged in water."
+              }
+            },
+            {
+              "name": {
+                "de": "Einkaufszentrum Portlethen",
+                "hu": "Portletheni Bevásárlóközpont",
+                "ro": "Centrul Comercial Portlethen",
+                "en": "Portlethen Shopping Centre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Cafés im Zentrum, um Ihre Kleidung zu trocknen und sich bei einem Heißgetränk aufzuwärmen, bevor Sie die Heimreise antreten.",
+                "hu": "Használja ki a központ kávézóit, hogy megszárítsa ruháit és felmelegedjen egy forró itallal, mielőtt elindulna hazafelé.",
+                "ro": "Profitați de cafenelele din centru pentru a vă usca hainele și a vă încălzi cu o băutură fierbinte înainte de a pleca spre casă.",
+                "en": "Take advantage of the center's cafes to dry your clothes and warm up with a hot drink before heading back to the station."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen erwartet uns am Bahnhof; die klare Winterluft ist erfrischend, erfordert aber warme Schichten. Mittags wärmen wir uns in der Kirche und der Bibliothek auf. Da die Sonne bereits gegen 16:30 Uhr untergeht, genießen wir das goldene Licht im Park und Moor am frühen Nachmittag. Der Tag endet gemütlich im hell beleuchteten Einkaufszentrum, fern der Kälte.",
+            "hu": "Fagyos reggel vár ránk az állomáson; a friss téli levegő élénkítő, de réteges öltözetet igényel. Délben a templom és a könyvtár melegében engedünk fel. Mivel a nap már 16:30 körül nyugszik, a parkot és a lápot kora délután látogatjuk meg a gyenge fényben. A napot a fényesen kivilágított bevásárlóközpontban zárjuk, elkerülve az esti fagyot.",
+            "ro": "O dimineață geroasă ne întâmpină la gară; aerul rece de iarnă este revigorant, dar necesită haine groase. La prânz, ne încălzim în biserică și bibliotecă. Deoarece soarele apune în jurul orei 16:30, ne bucurăm de lumina aurie în parc și mlaștină devreme. Ziua se încheie confortabil în centrul comercial luminat, departe de frigul de afară.",
+            "en": "A frosty morning awaits at the station; the crisp winter air is refreshing but demands warm layers. At noon, we thaw out in the warmth of the church and library. Since the sun sets around 16:30, we enjoy the golden light in the park and Moss early in the afternoon. The day ends cozily in the brightly lit shopping centre, sheltered from the freezing evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Portlethen",
+                "hu": "Portlethen Vasútállomás",
+                "ro": "Gara Portlethen",
+                "en": "Portlethen Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe, da die Metallgeländer am Bahnhof bei Frost extrem kalt sind; die Wartezeiten am zugigen Bahnsteig können lang erscheinen.",
+                "hu": "Viseljen kesztyűt, mert az állomás fémkorlátai fagyban rendkívül hidegek; a huzatos peronon a várakozási idő hosszabbnak tűnhet.",
+                "ro": "Purtați mănuși, deoarece balustradele metalice din gară sunt extrem de reci pe timp de îngheț; timpul de așteptare pe peronul expus poate părea lung.",
+                "en": "Wear gloves as the metal railings at the station are freezing in the frost; waiting times on the drafty platform can feel much longer in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Portlethen",
+                "hu": "Portletheni Plébániatemplom",
+                "ro": "Biserica Parohială Portlethen",
+                "en": "Portlethen Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte ab, aber im Inneren bleibt es kühl; behalten Sie Ihren Mantel für den kurzen, besinnlichen Aufenthalt an.",
+                "hu": "A vastag falak kint tartják a szelet, de bent is hűvös maradhat az idő; hagyja magán a kabátját a rövid, elcsendesedő látogatás idejére.",
+                "ro": "Zidurile groase țin vântul la distanță, dar în interior rămâne răcoare; păstrați haina pe dvs. pentru scurta vizită meditativă.",
+                "en": "The thick walls keep the wind out, but it remains cool inside; keep your coat on during your short, contemplative visit to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Bibliothek Portlethen",
+                "hu": "Portletheni Könyvtár",
+                "ro": "Biblioteca Portlethen",
+                "en": "Portlethen Library"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung in der Bibliothek, um Ihre Finger aufzuwärmen, während Sie durch lokale Zeitungen oder Zeitschriften blättern.",
+                "hu": "Használja ki a könyvtár fűtését, hogy felmelegítse ujjait, miközben helyi újságokat vagy magazinokat lapozgat a meleg olvasóteremben.",
+                "ro": "Folosiți încălzirea din bibliotecă pentru a vă încălzi mâinile în timp ce răsfoiți ziarele locale sau revistele în sala de lectură.",
+                "en": "Take advantage of the library's heating to warm your fingers while browsing through local newspapers or magazines in the cozy reading area."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourtree Park",
+                "hu": "Bourtree Park",
+                "ro": "Parcul Bourtree",
+                "en": "Bourtree Park"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Teiche und Bäume bieten tolle Fotomotive, aber bleiben Sie in Bewegung, um bei der tiefstehenden Wintersonne nicht auszukühlen.",
+                "hu": "A befagyott tavak és zúzmarás fák remek fotótémák, de maradjon mozgásban, hogy a gyenge téli napsütésben ne hűljön ki a teste.",
+                "ro": "Lacurile înghețate și copacii oferă subiecte foto grozave, dar rămâneți în mișcare pentru a nu vă răci sub soarele palid de iarnă.",
+                "en": "The frozen ponds and frost-covered trees offer great photo opportunities, but keep moving to stay warm under the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Portlethen Moss",
+                "hu": "Portlethen Moss",
+                "ro": "Portlethen Moss",
+                "en": "Portlethen Moss"
+              },
+              "tip_5lang": {
+                "de": "Das Moor ist oft gefroren, was das Wandern erleichtert, aber Vorsicht vor glatten Stellen auf den Holzstegen und verdeckten Eislöchern.",
+                "hu": "A láp gyakran befagy, ami megkönnyíti a túrázást, de vigyázzon a csúszós fapallókra és a hó alatt megbújó jégfoltokra.",
+                "ro": "Mlaștina este adesea înghețată, ceea ce ușurează drumeția, dar aveți grijă la porțiunile alunecoase de pe punțile de lemn.",
+                "en": "The Moss is often frozen, which makes walking easier, but be careful of slippery patches on the wooden boardwalks and hidden ice pockets."
+              }
+            },
+            {
+              "name": {
+                "de": "Einkaufszentrum Portlethen",
+                "hu": "Portletheni Bevásárlóközpont",
+                "ro": "Centrul Comercial Portlethen",
+                "en": "Portlethen Shopping Centre"
+              },
+              "tip_5lang": {
+                "de": "Wenn es draußen dunkel wird, bietet das Zentrum eine helle und warme Umgebung, ideal um vor der Zugfahrt letzte Besorgungen zu machen.",
+                "hu": "Amikor odakint besötétedik, a központ világos és meleg környezetet kínál, ideális az utolsó beszerzésekre a vonat indulása előtt.",
+                "ro": "Când se întunecă afară, centrul oferă un mediu luminos și cald, ideal pentru ultimele cumpărături înainte de călătoria cu trenul.",
+                "en": "When it gets dark outside, the shopping centre offers a bright and warm environment, ideal for last-minute errands before your train departs."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a kerékpáros napot a központi állomáson, majd tekerjen át a történelmi templomhoz, és induljon el az ó-portletheni festői partvidék felé.\n\nEbédidőben tekerjen vissza a szárazföld felé, hogy élvezze a Bourtree Park nyílt zöldterületeit, majd a gyönyörű Portlethen Moss körüli frissítő utat.\n\nKéső délután kerekezzen fel a helyi golfklubhoz, megcsodálva a gondozott zöld pázsitokat és a környékre nyíló elsöprő kilátást.\n\nFejezze be kerékpártúráját a Hillside Iskola mellett elhaladva, megörökítve a város nyüzsgő polgári építészetének utolsó pillanatait.",
         "ro": "Începeți ziua de ciclism la gara centrală, mergând rapid până la biserica istorică și apoi îndreptându-vă spre coasta pitorească din Vechiul Portlethen.\n\nLa prânz, pedalați înapoi spre interior pentru a vă bucura de spațiile verzi din Parcul Bourtree, urmate de o plimbare revigorantă în jurul Portlethen Moss.\n\nPetreceți după-amiaza târziu pedalând spre clubul de golf local, admirând verdele bine îngrijit și priveliștile superbe ale zonei înconjurătoare.\n\nTerminați turul cu bicicleta trecând pe lângă Școala Hillside, captând o ultimă privire asupra arhitecturii civice pline de viață a orașului.",
         "en": "Start your cycling day at the central station, quickly riding over to the historic church and then heading out to the picturesque Old Portlethen coast.\n\nFor lunch, cycle back inland to enjoy the open green spaces of Bourtree Park, followed by an energizing ride around the beautiful Portlethen Moss.\n\nSpend your late afternoon cruising up to the local golf club, admiring the well-kept greens and sweeping views of the surrounding area.\n\nFinish your bicycle tour by rolling past Hillside School, capturing a final glimpse of the town's lively civic architecture before you depart."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour durch Portlethen erfordert gute Schutzbleche und wasserfeste Kleidung. Vormittags radeln wir zur Kirche und nach Alt-Portlethen, wo der Wind am Hafen peitscht. Mittags suchen wir Schutz im Bourtree Park, bevor wir das Moor erkunden. Der Tag endet sportlich am Golfclub und der Schule, wobei wir auf den oft rutschigen Asphaltwegen besonders vorsichtig sind.",
+            "hu": "Egy esős kerékpártúra Portlethenben jó sárvédőt és vízálló ruházatot igényel. Délelőtt a templomhoz és Ó-Portlethenbe tekerünk, ahol a kikötőben fúj a szél. Délben a Bourtree Parkban keresünk fedezéket, majd a lápot fedezzük fel. A napot a golfklubnál és az iskolánál zárjuk, különös figyelmet fordítva a vizes aszfalton való biztonságos kanyarodásra.",
+            "ro": "O tură cu bicicleta prin Portlethen pe ploaie necesită apărători bune și haine impermeabile. Dimineața pedalăm spre biserică și Vechiul Portlethen. La prânz căutăm adăpost în Bourtree Park, apoi explorăm mlaștina. Ziua se încheie sportiv la clubul de golf și școală, fiind foarte atenți pe porțiunile de asfalt care devin alunecoase.",
+            "en": "A rainy bike tour through Portlethen requires good mudguards and waterproof gear. In the morning, we cycle to the church and Old Portlethen, where the wind whips the harbour. At noon, we seek shelter in Bourtree Park before exploring the Moss. The day ends at the golf club and school, taking extra care on the often slippery asphalt paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Portlethen",
+                "hu": "Portlethen Vasútállomás",
+                "ro": "Gara Portlethen",
+                "en": "Portlethen Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen; die Fahrradständer sind teilweise überdacht, aber sichern Sie Ihr Rad schnell.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben; a kerékpártárolók részben fedettek, de gyorsan rögzítse a biciklijét a nedvesség elől.",
+                "ro": "Verificați frânele înainte de plecare pe ploaie; suporturile pentru biciclete sunt parțial acoperite, deci asigurați-vă bicicleta rapid.",
+                "en": "Check your brakes before setting off in the rain; the bike racks are partially covered, so secure your bike quickly to minimize exposure."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Portlethen",
+                "hu": "Portletheni Plébániatemplom",
+                "ro": "Biserica Parohială Portlethen",
+                "en": "Portlethen Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet Platz zum Abstellen, aber achten Sie auf Pfützen; die Kirche ist ein guter Ort, um kurz den Regenradar zu prüfen.",
+                "hu": "A parkolóban van hely a megálláshoz, de ügyeljen a tócsákra; a templom falai mellett megállva kényelmesen ellenőrizheti az esőfelhőket a telefonján.",
+                "ro": "Parcarea oferă spațiu pentru oprire, dar aveți grijă la bălți; biserica este un loc bun pentru a verifica rapid prognoza pe telefon.",
+                "en": "The parking area has space to stop, but watch out for deep puddles; the church is a good spot to pause and check the rain radar on your phone."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Portlethen",
+                "hu": "Ó-Portlethen",
+                "ro": "Vechiul Portlethen",
+                "en": "Old Portlethen"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zum Hafen ist bei Regen steil und rutschig; fahren Sie langsam und genießen Sie den Anblick der rauen, grauen Nordsee.",
+                "hu": "A kikötőbe vezető lejtő esőben meredek és csúszós; tekerjen lassan, és élvezze a haragos, szürke Északi-tenger látványát.",
+                "ro": "Coborârea spre port este abruptă și alunecoasă pe ploaie; pedalați încet și bucurați-vă de vederea mării Nordului agitate și gri.",
+                "en": "The descent to the harbour is steep and slippery in the rain; cycle slowly and enjoy the dramatic sight of the rough, grey North Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourtree Park",
+                "hu": "Bourtree Park",
+                "ro": "Parcul Bourtree",
+                "en": "Bourtree Park"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können Laub und Schlamm aufweisen, was das Radfahren erschwert; nutzen Sie die überdachten Bereiche für eine kurze Trinkpause.",
+                "hu": "Az utakon levelek és sár lehet, ami nehezíti a haladást; használja a fedett részeket egy rövid frissítő szünetre az eső ellenére.",
+                "ro": "Potecile pot fi acoperite cu frunze și noroi, îngreunând pedalarea; folosiți zonele acoperite pentru o scurtă pauză de hidratare.",
+                "en": "Paths may be covered in leaves and mud, making cycling tricky; use the sheltered areas for a short hydration break away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Portlethen Moss",
+                "hu": "Portlethen Moss",
+                "ro": "Portlethen Moss",
+                "en": "Portlethen Moss"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den Hauptwegen; die Holzstege sind bei Nässe extrem rutschig für Fahrradreifen, schieben Sie Ihr Rad hier lieber kurz.",
+                "hu": "Maradjon a főutakon; a fapallók nedvesen rendkívül csúszósak a gumiknak, ezen a szakaszon inkább tolja a kerékpárját a biztonság kedvéért.",
+                "ro": "Rămâneți pe drumurile principale; punțile de lemn sunt extrem de alunecoase pentru anvelopele de bicicletă, mai bine împingeți bicicleta.",
+                "en": "Stick to the main paths; the wooden boardwalks are extremely slippery for bike tires when wet, so it's safer to push your bike here."
+              }
+            },
+            {
+              "name": {
+                "de": "Golfclub Portlethen",
+                "hu": "Portlethen Golfklub",
+                "ro": "Clubul de Golf Portlethen",
+                "en": "Portlethen Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt zum Clubhaus ist gut asphaltiert, aber achten Sie auf Spritzwasser von passierenden Fahrzeugen; das Clubhaus bietet Schutz.",
+                "hu": "A klubházhoz vezető út jól aszfaltozott, de ügyeljen az autók által felvert vízre; a klubház bejárata közelében találhat fedett menedéket.",
+                "ro": "Accesul la club este bine asfaltat, dar aveți grijă la apa stropită de mașini; zona clubului oferă un adăpost temporar bun contra ploii.",
+                "en": "The access road to the clubhouse is well-paved, but watch out for spray from passing vehicles; the clubhouse area offers good temporary shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Hillside Schule",
+                "hu": "Hillside Iskola",
+                "ro": "Școala Hillside",
+                "en": "Hillside School"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour vorsichtig; die Markierungen auf dem Boden können bei Regen rutschig sein, wenn Sie zum Stehen kommen.",
+                "hu": "Óvatosan fejezze be a túrát; a felfestések az aszfalton esőben csúszósak lehetnek, amikor megálláshoz készülődik az iskola előtt.",
+                "ro": "Încheiați tura cu atenție; marcajele de pe carosabil pot fi alunecoase pe ploaie atunci când încetiniți pentru a opri la școală.",
+                "en": "Finish your tour carefully; the road markings can be slippery in the rain when you are coming to a halt near the school area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Portlethen bietet klare Sichten und frische Luft, erfordert aber Windschutz. Morgens führt der Weg zur Kirche und zum malerischen, frostigen Hafen von Alt-Portlethen. Die Mittagssonne nutzen wir im Park und Moor, bevor es am Nachmittag Richtung Golfclub geht. Da es früh dunkel wird, ist eine gute Beleuchtung am Rad für den Rückweg ab 16:30 Uhr Pflicht.",
+            "hu": "A téli kerékpározás Portlethenben tiszta kilátást és friss levegőt kínál, de szél elleni védelmet igényel. Reggel a templomhoz és Ó-Portlethen zúzmarás kikötőjéhez tekerünk. A déli napsütést a parkban és a lápon használjuk ki, majd a golfklub felé vesszük az irányt. Mivel korán sötétedik, 16:30-tól a jó világítás elengedhetetlen a biztonságos visszaúthoz.",
+            "ro": "Pedalatul pe timp de iarnă în Portlethen oferă priveliști clare, dar necesită protecție contra vântului. Dimineața mergem spre biserică și portul înghețat din Vechiul Portlethen. Profităm de soarele de la prânz în parc și mlaștină. Deoarece se întunecă devreme, o iluminare bună a bicicletei este obligatorie pentru drumul de întoarcere după ora 16:30.",
+            "en": "Winter cycling in Portlethen offers clear views and crisp air but demands wind protection. In the morning, the path leads to the church and the picturesque, frosty harbour of Old Portlethen. We use the midday sun in the park and Moss before heading toward the golf club. As it gets dark early, good bike lights are mandatory for the return journey from 16:30."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Portlethen",
+                "hu": "Portlethen Vasútállomás",
+                "ro": "Gara Portlethen",
+                "en": "Portlethen Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Rampen zum Bahnsteig; wärmen Sie Ihre Hände auf, bevor Sie losfahren, um die Bremsen sicher zu bedienen.",
+                "hu": "Ügyeljen a jeges foltokra a peronhoz vezető rámpákon; melegítse fel a kezeit indulás előtt, hogy biztonságosan kezelhesse a fékkarokat.",
+                "ro": "Atenție la porțiunile înghețate de pe rampele spre peron; încălziți-vă mâinile înainte de plecare pentru a acționa frânele în siguranță.",
+                "en": "Watch out for icy patches on the ramps leading to the platform; warm your hands before setting off to ensure you can operate the brakes safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Portlethen",
+                "hu": "Portletheni Plébániatemplom",
+                "ro": "Biserica Parohială Portlethen",
+                "en": "Portlethen Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windstillen Ort für eine Pause; prüfen Sie hier den Luftdruck Ihrer Reifen, da Kälte diesen beeinflussen kann.",
+                "hu": "A templom kertje szélvédett helyet kínál a pihenéshez; ellenőrizze a guminyomást, mivel a hideg hatására az lecsökkenhet.",
+                "ro": "Biserica oferă un loc ferit de vânt pentru o pauză; verificați presiunea în anvelope aici, deoarece frigul o poate influența negativ.",
+                "en": "The church grounds offer a wind-still spot for a break; check your tire pressure here, as the cold temperature can cause it to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Portlethen",
+                "hu": "Ó-Portlethen",
+                "ro": "Vechiul Portlethen",
+                "en": "Old Portlethen"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann sehr windig und kalt sein; tragen Sie eine winddichte Schicht, um die Aussicht auf den winterlichen Ozean zu genießen.",
+                "hu": "A tengerparti út nagyon szeles és hideg lehet; viseljen szélálló réteget, hogy élvezhesse a téli óceán lenyűgöző panorámáját.",
+                "ro": "Drumul de coastă poate fi foarte vântos și rece; purtați un strat rezistent la vânt pentru a vă bucura de vederea oceanului iarna.",
+                "en": "The coastal road can be very windy and freezing; wear a windproof layer to comfortably enjoy the view of the winter ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourtree Park",
+                "hu": "Bourtree Park",
+                "ro": "Parcul Bourtree",
+                "en": "Bourtree Park"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie schattige Wegabschnitte, da sich dort oft Reif hält; genießen Sie die winterliche Stille des Parks im hellen Tageslicht.",
+                "hu": "Kerülje az árnyékos útszakaszokat, mert ott gyakran megmarad a zúzmara; élvezze a park téli csendjét a világos nappali órákban.",
+                "ro": "Evitați porțiunile de drum umbrite, unde chiciura persistă; bucurați-vă de liniștea hibernală a parcului în lumina zilei.",
+                "en": "Avoid shaded sections of the path where frost often lingers; enjoy the winter silence of the park while there is still bright daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Portlethen Moss",
+                "hu": "Portlethen Moss",
+                "ro": "Portlethen Moss",
+                "en": "Portlethen Moss"
+              },
+              "tip_5lang": {
+                "de": "Die Wege sind bei Frost oft fest und gut befahrbar, aber achten Sie auf gefrorene Pfützen, die unter einer dünnen Eisschicht verborgen sind.",
+                "hu": "A fagyott talajon gyakran könnyebb haladni, de vigyázzon a vékony jéggel borított tócsákra, amelyek megcsúsztathatják a kereket.",
+                "ro": "Drumurile sunt adesea ferme pe timp de îngheț, dar atenție la bălțile înghețate ascunse sub un strat subțire de gheață.",
+                "en": "The paths are often firm and easy to cycle on when frozen, but watch out for frozen puddles hidden under a thin layer of ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Golfclub Portlethen",
+                "hu": "Portlethen Golfklub",
+                "ro": "Clubul de Golf Portlethen",
+                "en": "Portlethen Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Das Gelände ist weitläufig und dem Wind ausgesetzt; eine warme Mütze unter dem Helm hilft gegen den beißenden Fahrtwind auf den Freiflächen.",
+                "hu": "A terület tágas és kitett a szélnek; a sisak alatt viselt vékony, meleg sapka sokat segít a metsző ellenszéllel szemben a nyílt részeken.",
+                "ro": "Terenul este vast și expus vântului; o căciulă caldă sub cască ajută împotriva vântului tăios pe secțiunile deschise ale drumului.",
+                "en": "The grounds are vast and exposed to the wind; a warm beanie under your helmet helps against the biting headwind on the open sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Hillside Schule",
+                "hu": "Hillside Iskola",
+                "ro": "Școala Hillside",
+                "en": "Hillside School"
+              },
+              "tip_5lang": {
+                "de": "Da der Schultag endet, achten Sie auf Fußgänger im Halbdunkel; schalten Sie Ihre Lichter frühzeitig ein, um gesehen zu werden.",
+                "hu": "Mivel véget ér a tanítás, figyeljen a gyalogosokra a félhomályban; kapcsolja be a lámpáit időben, hogy jól látható maradjon.",
+                "ro": "Deoarece se termină orele, atenție la pietoni în amurg; aprindeți luminile din timp pentru a fi vizibil în trafic.",
+                "en": "As the school day ends, watch out for pedestrians in the twilight; switch on your lights early to ensure you are clearly visible to others."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje autós kirándulását az állomáson, majd navigáljon a Badentoy környékére, mielőtt megtapasztalná a Findon Ness igazán látványos, zord szikláit.\n\nDélután vezessen vissza a főváros felé, elhaladva a makulátlan golfpálya mellett, és felfedezve a Portlethen Moss nyugodt, vad ösvényeit.\n\nFolytassa útját a Bourtree Parkba egy rövid sétára, majd tegyen egy gyors utat Ó-Portlethen bájos, történelmi lakóépületei felé.\n\nFejezze be átfogó autós túráját egy csendes pillanattal a gyönyörű plébániatemplom közelében, hagyva, hogy a tengerparti naplemente lezárja a napot.",
         "ro": "Începeți călătoria cu mașina la gară, apoi navigați către zona Badentoy înainte de a experimenta stâncile cu adevărat spectaculoase și accidentate de la Findon Ness.\n\nConduceți înapoi spre orașul principal după-amiaza, trecând pe lângă terenul de golf imaculat și explorând traseele sălbatice și senine de la Portlethen Moss.\n\nContinuați-vă traseul spre Parcul Bourtree pentru o scurtă plimbare, apoi faceți o scurtă călătorie până la locuințele istorice fermecătoare din Vechiul Portlethen.\n\nÎncheiați excursia extinsă cu un moment de liniște lângă frumoasa biserică parohială, lăsând apusul de pe coastă să încheie o zi perfectă.",
         "en": "Kick off your driving trip at the station, then navigate to the Badentoy area before experiencing the truly spectacular, rugged cliffs at Findon Ness.\n\nDrive back towards the main town in the afternoon, passing the pristine golf course and exploring the serene, wild trails of Portlethen Moss.\n\nContinue your route to Bourtree Park for a short walk, then take a quick drive to the charming, historic dwellings at Old Portlethen.\n\nEnd your extensive road trip with a quiet moment near the beautiful parish church, letting the coastal sunset conclude a perfect day out."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Portlethen bei Regen ist komfortabel und bietet dramatische Ausblicke auf die neblige Küste. Morgens besuchen wir Badentoy und das stürmische Findon Ness, wo wir das Wetter sicher vom Wagen aus beobachten. Mittags geht es zum Golfclub und durch das Moor. Der Tag endet entspannt in Alt-Portlethen und an der Kirche, wobei wir stets auf Gischt und Pfützen achten.",
+            "hu": "Az esős autózás Portlethenben kényelmes, és drámai kilátást nyújt a ködös partvidékre. Reggel meglátogatjuk Badentoy-t és a viharos Findon Ness-t, ahol a kocsi biztonságából figyeljük a hullámokat. Délben a golfklub és a láp felé vesszük az irányt. A nap Ó-Portlethenben és a templomnál zárul, miközben ügyelünk a felcsapódó vízre és a mélyebb tócsákra.",
+            "ro": "O călătorie cu mașina prin Portlethen pe ploaie este confortabilă și oferă vederi dramatice asupra coastei cețoase. Dimineața vizităm Badentoy și Findon Ness, observând marea din siguranța vehiculului. La prânz mergem la clubul de golf și prin mlaștină. Ziua se încheie relaxat în Vechiul Portlethen și la biserică, fiind atenți la bălțile mari de pe drum.",
+            "en": "A car tour through Portlethen in the rain is comfortable and offers dramatic views of the misty coast. In the morning, we visit Badentoy and stormy Findon Ness, watching the weather safely from the vehicle. At noon, we head to the golf club and through the Moss. The day ends relaxedly in Old Portlethen and at the church, always keeping an eye out for spray and deep puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Portlethen",
+                "hu": "Portlethen Vasútállomás",
+                "ro": "Gara Portlethen",
+                "en": "Portlethen Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Ausgang, um im Regen schnell zum Wagen zu gelangen; die Sicht beim Ausparken kann durch beschlagene Scheiben eingeschränkt sein.",
+                "hu": "Parkoljon közel a kijárathoz, hogy esőben gyorsan a kocsihoz érjen; indulás előtt várja meg, amíg a párátlanító letisztítja az ablakokat.",
+                "ro": "Parcați aproape de ieșire pentru a ajunge rapid la mașină pe ploaie; vizibilitatea poate fi redusă din cauza geamurilor aburite la plecare.",
+                "en": "Park close to the exit to reach the car quickly in the rain; visibility might be limited by fogged-up windows when you start your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Badentoy Park",
+                "hu": "Badentoy Park",
+                "ro": "Parcul Badentoy",
+                "en": "Badentoy Park"
+              },
+              "tip_5lang": {
+                "de": "In diesem Industriegebiet gibt es viele LKWs; halten Sie bei starkem Regen mehr Abstand, da diese viel Spritzwasser aufwirbeln.",
+                "hu": "Ebben az ipari negyedben sok a teherautó; heves esőben tartson nagyobb követési távolságot a felcsapódó vízpermet miatt.",
+                "ro": "În această zonă industrială sunt multe camioane; păstrați o distanță mai mare în caz de ploaie torențială din cauza apei pulverizate de acestea.",
+                "en": "There are many trucks in this industrial area; keep a longer following distance during heavy rain due to the heavy spray they kick up."
+              }
+            },
+            {
+              "name": {
+                "de": "Findon Ness",
+                "hu": "Findon Ness",
+                "ro": "Findon Ness",
+                "en": "Findon Ness"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wilde Nordsee sicher von einem Parkplatz aus; der Wind kann hier so stark sein, dass das Öffnen der Türen schwierig ist.",
+                "hu": "Élvezze a vad Északi-tengert biztonságban a parkolóból; a szél itt olyan erős lehet, hogy az ajtók kinyitása is nehézséget okozhat.",
+                "ro": "Bucurați-vă de marea Nordului agitată din parcare; vântul poate fi atât de puternic aici încât deschiderea ușilor mașinii devine dificilă.",
+                "en": "Enjoy the wild North Sea safely from the parking area; the wind can be so strong here that opening the car doors becomes a challenge."
+              }
+            },
+            {
+              "name": {
+                "de": "Golfclub Portlethen",
+                "hu": "Portlethen Golfklub",
+                "ro": "Clubul de Golf Portlethen",
+                "en": "Portlethen Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist gut befestigt, aber achten Sie auf tiefe Pfützen am Rand; das Clubhaus bietet eine warme und trockene Einkehrmöglichkeit.",
+                "hu": "A parkoló jól burkolt, de ügyeljen a mélyebb tócsákra a szegélyeknél; a klubház meleg és száraz menedéket kínál a pihenéshez.",
+                "ro": "Parcarea este bine amenajată, dar atenție la bălțile adânci de pe margini; clubul oferă o opțiune caldă și uscată pentru popas.",
+                "en": "The parking lot is well-paved, but watch out for deep puddles at the edges; the clubhouse provides a warm and dry place to stop for a break."
+              }
+            },
+            {
+              "name": {
+                "de": "Portlethen Moss",
+                "hu": "Portlethen Moss",
+                "ro": "Portlethen Moss",
+                "en": "Portlethen Moss"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Rand und beobachten Sie die Tierwelt im Regen; die schmalen Zufahrtswege können bei Gegenverkehr und Nässe rutschig sein.",
+                "hu": "Parkoljon le a szélen, és figyelje a vadvilágot az esőben; a keskeny bekötőutak nedvesen csúszósak lehetnek szembeforgalom esetén.",
+                "ro": "Parcați pe margine și observați fauna în ploaie; drumurile de acces înguste pot fi alunecoase când sunt ude și este trafic din sens opus.",
+                "en": "Park on the shoulder and watch the wildlife in the rain; the narrow access roads can be slippery when wet and during oncoming traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourtree Park",
+                "hu": "Bourtree Park",
+                "ro": "Parcul Bourtree",
+                "en": "Bourtree Park"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkmöglichkeiten in der Nähe; nutzen Sie eine Regenpause für einen kurzen Spaziergang oder bleiben Sie für den Blick ins Grüne im Auto.",
+                "hu": "A közelben több parkoló is található; használjon ki egy esőszünetet egy rövid sétára, vagy maradjon a kocsiban a zöld látványért.",
+                "ro": "Există locuri de parcare în apropiere; profitați de o pauză de ploaie pentru o scurtă plimbare sau rămâneți în mașină pentru priveliște.",
+                "en": "There are parking options nearby; take advantage of a break in the rain for a short stroll or stay in the car for a view of the greenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Portlethen",
+                "hu": "Ó-Portlethen",
+                "ro": "Vechiul Portlethen",
+                "en": "Old Portlethen"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die steile Straße zum Hafen vorsichtig hinunter; das Manövrieren auf engem Raum ist bei Regen und Wind anspruchsvoller.",
+                "hu": "Óvatosan hajtson le a kikötőbe vezető meredek úton; a szűk helyen való manőverezés esőben és szélben nagyobb odafigyelést igényel.",
+                "ro": "Coborâți cu atenție pe drumul abrupt spre port; manevrarea în spații înguste este mai dificilă atunci când plouă și bate vântul.",
+                "en": "Drive carefully down the steep road to the harbour; maneuvering in tight spaces is more challenging during heavy rain and high winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Portlethen",
+                "hu": "Portletheni Plébániatemplom",
+                "ro": "Biserica Parohială Portlethen",
+                "en": "Portlethen Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist oft ruhig; schalten Sie das Radio aus und lauschen Sie dem Regen auf dem Autodach, bevor Sie die Kirche besuchen.",
+                "hu": "A parkoló általában csendes; kapcsolja ki a rádiót, és hallgassa az eső kopogását az autó tetőjén, mielőtt betérne a templomba.",
+                "ro": "Parcarea este adesea liniștită; opriți radioul și ascultați ploaia pe plafonul mașinii înainte de a vizita interiorul bisericii.",
+                "en": "The parking area is often quiet; turn off the radio and listen to the rain on the car roof before heading inside the church."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Tour mit dem Auto bietet Wärme und tolle Fotomotive bei klarem Wetter. Vormittags führt die Route nach Badentoy und zum frostigen Findon Ness mit Blick auf die Nordsee. Mittags passieren wir den Golfclub und das gefrorene Moor. Da es ab 16:30 Uhr dunkel wird, endet der Tag stimmungsvoll im alten Dorf und an der festlich wirkenden Kirche im Abendlicht.",
+            "hu": "A téli autós túra meleg utasteret és remek fotótémákat kínál tiszta időben. Délelőtt Badentoy és a zúzmarás Findon Ness felé vesszük az irányt, ahonnan pazar kilátás nyílik a tengerre. Délben a golfklubot és a fagyott lápot érintjük. Mivel 16:30-tól sötétedik, a nap az ófaluban és az esti fényekben úszó templomnál ér véget.",
+            "ro": "O tură cu mașina iarna oferă căldură și oportunități foto excelente pe vreme senină. Dimineața mergem spre Badentoy și Findon Ness pentru vederi spre marea înghețată. La prânz trecem pe lângă clubul de golf și mlaștină. Deoarece se întunecă de la 16:30, ziua se încheie atmosferic în satul vechi și la biserica luminată.",
+            "en": "A winter car tour offers warmth and great photo opportunities in clear weather. In the morning, the route leads to Badentoy and frosty Findon Ness with views of the North Sea. At noon, we pass the golf club and the frozen Moss. As it gets dark from 16:30, the day ends atmospherically in the old village and at the church in the evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bahnhof Portlethen",
+                "hu": "Portlethen Vasútállomás",
+                "ro": "Gara Portlethen",
+                "en": "Portlethen Railway Station"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf dem Parkplatz am frühen Morgen; lassen Sie den Motor kurz warmlaufen, um die Scheiben vollständig zu enteisen.",
+                "hu": "Kora reggel ügyeljen a jegesedésre a parkolóban; hagyja a motort járni egy rövid ideig, amíg a szélvédő teljesen jégmentessé válik.",
+                "ro": "Atenție la polei în parcare dimineața devreme; lăsați motorul să se încălzească puțin pentru a dezgheța complet parbrizul.",
+                "en": "Watch out for black ice in the parking lot early in the morning; let the engine warm up briefly to fully defrost the windows before moving."
+              }
+            },
+            {
+              "name": {
+                "de": "Badentoy Park",
+                "hu": "Badentoy Park",
+                "ro": "Parcul Badentoy",
+                "en": "Badentoy Park"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen hier werden oft gestreut, aber Vorsicht in den Kurven; LKWs können bei Frost langsamer manövrieren, halten Sie Abstand.",
+                "hu": "Az utakat itt gyakran sózzák, de a kanyarokban legyen óvatos; a teherautók fagyban lassabban manővereznek, tartson biztonságos távolságot.",
+                "ro": "Drumurile sunt adesea dezapezite aici, dar atenție în curbe; camioanele manevrează mai greu pe îngheț, deci păstrați distanța.",
+                "en": "The roads here are often gritted, but be careful in the bends; trucks may maneuver more slowly in the frost, so keep a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Findon Ness",
+                "hu": "Findon Ness",
+                "ro": "Findon Ness",
+                "en": "Findon Ness"
+              },
+              "tip_5lang": {
+                "de": "Das winterliche Licht an der Küste ist fantastisch für Fotos; bleiben Sie bei starkem Wind im Auto, um die Aussicht warm zu genießen.",
+                "hu": "A téli fények a parton fantasztikusak a fotózáshoz; erős szélben maradjon az autóban, hogy melegben élvezhesse a panorámát.",
+                "ro": "Lumina de iarnă pe coastă este fantastică pentru fotografii; dacă vântul e puternic, rămâneți în mașină pentru a vedea peisajul la căldură.",
+                "en": "The winter light on the coast is fantastic for photography; stay inside the car if the wind is biting to enjoy the view in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Golfclub Portlethen",
+                "hu": "Portlethen Golfklub",
+                "ro": "Clubul de Golf Portlethen",
+                "en": "Portlethen Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann im Schatten vereist sein; nutzen Sie den Parkplatz für einen kurzen Halt und genießen Sie die klare Luft auf dem Gelände.",
+                "hu": "A bekötőút az árnyékos részeken jeges lehet; használja a parkolót egy rövid megállóra, és élvezze a friss, tiszta levegőt a területen.",
+                "ro": "Aleea de acces poate fi înghețată la umbră; folosiți parcarea pentru un scurt popas și bucurați-vă de aerul curat de pe teren.",
+                "en": "The access road might be icy in shaded areas; use the parking lot for a quick stop and enjoy the crisp, fresh air on the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Portlethen Moss",
+                "hu": "Portlethen Moss",
+                "ro": "Portlethen Moss",
+                "en": "Portlethen Moss"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Felder sind im Winter oft mit Reif bedeckt; halten Sie kurz am Straßenrand, um die gefrorene Naturlandschaft zu bewundern.",
+                "hu": "A környező mezőket télen gyakran zúzmara borítja; álljon meg egy pillanatra az út szélén, hogy megcsodálhassa a fagyott tájat.",
+                "ro": "Câmpiile din jur sunt adesea acoperite de chiciură iarna; opriți scurt pe marginea drumului pentru a admira peisajul natural înghețat.",
+                "en": "The surrounding fields are often covered in hoarfrost in winter; stop briefly by the roadside to admire the frozen natural landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Bourtree Park",
+                "hu": "Bourtree Park",
+                "ro": "Parcul Bourtree",
+                "en": "Bourtree Park"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze sind gut erreichbar; am späten Nachmittag werfen die kahlen Bäume lange Schatten im tiefstehenden Sonnenlicht.",
+                "hu": "A parkolók könnyen megközelíthetők; késő délután a kopasz fák hosszú árnyékot vetnek a gyenge téli napsütésben a park felett.",
+                "ro": "Parcările sunt ușor accesibile; după-amiaza târziu, copacii golași proiectează umbre lungi în lumina palidă a soarelui.",
+                "en": "The parking areas are easily accessible; in the late afternoon, the bare trees cast long shadows in the low winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Altes Portlethen",
+                "hu": "Ó-Portlethen",
+                "ro": "Vechiul Portlethen",
+                "en": "Old Portlethen"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen wirkt im Winterlicht besonders ruhig; achten Sie beim Fahren auf der steilen Küstenstraße auf mögliche Straßenglätte.",
+                "hu": "A kikötő a téli fényekben különösen nyugodtnak tűnik; a meredek tengerparti úton vezessen lassan az esetleges felfagyások miatt.",
+                "ro": "Portul pare deosebit de liniștit în lumina iernii; conduceți încet pe drumul abrupt de coastă din cauza posibilelor porțiuni de gheață.",
+                "en": "The harbour looks particularly peaceful in the winter light; drive slowly on the steep coastal road due to potential icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Pfarrkirche Portlethen",
+                "hu": "Portletheni Plébániatemplom",
+                "ro": "Biserica Parohială Portlethen",
+                "en": "Portlethen Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Zum Sonnenuntergang bietet die Kirche ein schönes Motiv; nutzen Sie das Fernlicht auf den unbeleuchteten Abschnitten der Zufahrtswege.",
+                "hu": "Naplementekor a templom gyönyörű látványt nyújt; a kivilágítatlan bekötőutakon használja a távolsági fényszórót a biztonságért.",
+                "ro": "La apus, biserica oferă o imagine superbă; folosiți faza lungă pe secțiunile de drum neiluminate pentru o siguranță sporită.",
+                "en": "At sunset, the church provides a beautiful silhouette; use your high beams on the unlit sections of the access roads for safety."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a Művészeti és Történeti Múzeum gazdag gyűjteményeivel. A reggeli szellő tökéletes egy sétához a Jardin du Bout du Monde-hoz, ahol panorámás folyami kilátás várja. \nDélben a Château de Château-Gontier történelmi romjaihoz ér. Tartson ebédszünetet a hangulatos városközpontban, mielőtt elmerülne a középkori múltban. \nDélután fedezze fel a Couvent des Ursulines lenyűgöző építészetét. Ez a kulturális központ békés légkört kínál a helyi művészet élvezetéhez. \nAz este közeledtével sétáljon el a nyugodt Couvent des Franciscains-hez. A késő délutáni napsütésben fürdő csendes kerengők tökéletes befejezést nyújtanak.",
         "ro": "Începeți ziua explorând colecțiile bogate de la Muzeul de Artă și Istorie. Briza dimineții este perfectă pentru o scurtă plimbare la Jardin du Bout du Monde, cu vederi panoramice. \nLa amiază veți ajunge la ruinele istorice ale Château de Château-Gontier. Luați o pauză de prânz în centrul fermecător înainte de a vă adânci în trecutul medieval. \nDupă-amiaza, descoperiți arhitectura mănăstirii Couvent des Ursulines. Acest hub cultural oferă o atmosferă pașnică pentru a vă bucura de arta locală. \nSpre seară, mergeți la liniștita Couvent des Franciscains. Claustrele scăldate în soarele după-amiezii târzii oferă un final perfect și reflexiv al turului.",
         "en": "Start your day exploring the rich collections at the Museum of Art and History. The morning breeze is perfect for a short stroll to the Jardin du Bout du Monde, where panoramic river views await. \nMidday brings you to the historic ruins of the Château de Château-Gontier. Take a lunch break in the charming town center before delving into the area's medieval past. \nIn the afternoon, discover the striking architecture of the Couvent des Ursulines. This cultural hub offers a peaceful yet inspiring atmosphere to soak in local art and history. \nAs evening approaches, walk to the serene Couvent des Franciscains. The quiet cloisters bathed in the late afternoon sun provide a perfect, reflective end to your walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Château-Gontier lädt dazu ein, die reiche Geschichte in den überdachten Museen und Klöstern zu entdecken. Vormittags bieten die Ausstellungen Schutz, während mittags die Gärten im Dunst eine mystische Atmosphäre versprühen. Nachmittags erkunden wir die sakrale Stille der Konvente. Der Abend klingt gemütlich in der historischen Altstadt ab, geschützt durch festes Schuhwerk.",
+            "hu": "Egy esős nap Château-Gontier-ben tökéletes alkalom a város gazdag történelmének felfedezésére a fedett múzeumokban és kolostorokban. Délelőtt a kiállítások nyújtanak menedéket, délben a kertek misztikus párába burkolóznak. Délután a konventek szakrális csendjét járjuk be, ügyelve a csúszós macskakövekre. Az este a történelmi óvárosban ér véget, vízálló cipőben és esernyővel a kézben.",
+            "ro": "O zi ploioasă în Château-Gontier este ocazia perfectă pentru a descoperi istoria bogată în muzeele și mănăstirile acoperite. Dimineața, expozițiile oferă adăpost, în timp ce la prânz grădinile capătă o atmosferă mistică în ceață. După-amiaza explorăm liniștea sacră a conventelor, atenți la pavajul alunecos. Seara se încheie confortabil în centrul vechi, protejați de încălțăminte impermeabilă.",
+            "en": "A rainy day in Château-Gontier is the perfect excuse to dive into local history within sheltered museums and convents. Spend the morning exploring exhibits, while at noon the gardens take on a mystical vibe in the mist. Afternoon is dedicated to the quiet interiors of religious sites. The evening concludes in the historic center; keep an umbrella handy for the short walks between stops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Kunst und Geschichte",
+                "hu": "Művészeti és Történeti Múzeum",
+                "ro": "Muzeul de Artă și Istorie",
+                "en": "Museum of Art and History"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die römischen Artefakte in diesem Herrenhaus aus dem 15. Jahrhundert, das einen perfekten trockenen Rückzugsort bietet; nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Csodálja meg a római kori leleteket ebben a 15. századi kúriában, amely tökéletes száraz menedéket nyújt az eső elől; használja a ruhatárat a vizes kabátok számára.",
+                "ro": "Admirați artefactele romane în acest conac din secolul al XV-lea, care oferă un refugiu uscat perfect; folosiți garderoba pentru haina umedă înainte de vizitare.",
+                "en": "Admire the Roman artifacts within this 15th-century manor that provides a perfect dry sanctuary; use the cloakroom to store your wet raincoats before exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin du Bout du Monde",
+                "hu": "Jardin du Bout du Monde",
+                "ro": "Jardin du Bout du Monde",
+                "en": "Jardin du Bout du Monde"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die Mayenne unter einem Regenschirm, da die nassen Blätter im Garten einen intensiven Duft verströmen; Vorsicht vor rutschigen Wegen.",
+                "hu": "Élvezze a Mayenne-re nyíló drámai kilátást az esernyő alól, hiszen a vizes levelek intenzív illatot árasztanak a kertben; ügyeljen a helyenként csúszós gyalogutakra.",
+                "ro": "Bucurați-vă de vederea dramatică asupra râului Mayenne sub umbrelă, deoarece frunzele ude emană un parfum intens în grădină; atenție la aleile care pot deveni alunecoase.",
+                "en": "Enjoy the dramatic views over the Mayenne river from under an umbrella, as the wet foliage releases intense scents; watch your step on the potentially slippery paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Château-Gontier",
+                "hu": "Château de Château-Gontier",
+                "ro": "Château de Château-Gontier",
+                "en": "Château de Château-Gontier"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Überreste der alten Festung und stellen Sie sich das mittelalterliche Leben vor, während der Regen gegen die alten Mauern peitscht; wasserfeste Schuhe sind hier ratsam.",
+                "hu": "Fedezze fel a régi erődítmény maradványait, és képzelje el a középkori életet, miközben az eső mossa az ódon falakat; a füves részeken vízálló cipő viselése javasolt.",
+                "ro": "Explorați rămășițele vechii fortărețe și imaginați-vă viața medievală în timp ce ploaia bate în zidurile vechi; încălțămintea rezistentă la apă este recomandată pe porțiunile cu iarbă.",
+                "en": "Explore the remains of the old fortress and imagine medieval life as rain lashes against the ancient walls; waterproof shoes are advised for the grassy sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Ursulines",
+                "hu": "Couvent des Ursulines",
+                "ro": "Couvent des Ursulines",
+                "en": "Couvent des Ursulines"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen beeindruckenden Komplex, der heute ein Theater beherbergt, und bewundern Sie den Kreuzgang im Regen; die Arkaden bieten Schutz beim Fotografieren.",
+                "hu": "Látogasson el ebbe a lenyűgöző épületegyüttesbe, amely ma színháznak ad otthont, és csodálja meg a kerengőt az esőben; az árkádok védelmet nyújtanak fotózás közben.",
+                "ro": "Vizitați acest complex impresionant care astăzi găzduiește un teatru și admirați claustrul în ploaie; arcadele oferă protecție excelentă în timp ce faceți fotografii.",
+                "en": "Visit this impressive complex, now home to a theater, and admire the cloister in the rain; the vaulted arcades offer great shelter while you take your photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Franciscains",
+                "hu": "Couvent des Franciscains",
+                "ro": "Couvent des Franciscains",
+                "en": "Couvent des Franciscains"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in der spirituellen Stille der Kapelle, während das Prasseln des Regens auf das Dach die Ruhe verstärkt; ein idealer Ort zum Nachdenken im Trockenen.",
+                "hu": "Zárja a túrát a kápolna spirituális csendjében, ahol a tetőn kopogó eső hangja még inkább elmélyíti a nyugalmat; ideális hely a békés elmélkedésre a szárazban.",
+                "ro": "Încheiați turul în liniștea spirituală a capelei, unde sunetul ploii pe acoperiș adâncește starea de calm; este un loc ideal pentru reflecție, fiind complet protejat.",
+                "en": "End your tour in the spiritual silence of the chapel, where the sound of rain tapping on the roof enhances the tranquility; it is an ideal spot for quiet reflection indoors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter hüllt Château-Gontier in eine klare, kühle Luft, ideal für geschichtsträchtige Entdeckungen. Vormittags wärmen wir uns in den Museen auf, mittags bietet der Garten weite, frostige Ausblicke. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das Tageslicht für die Außenanlagen der Klöster. Warme Kleidung und Pausen in beheizten Räumen machen den Tag behaglich.",
+            "hu": "A tél tiszta, hűvös levegőbe burkolja Château-Gontier-t, ami ideális a történelmi felfedezésekhez. Délelőtt a múzeumokban melegszünk fel, délben a kertek fagyos, tiszta kilátást nyújtanak. Mivel a nap már 17:00 körül lemegy, a nappali fényt a kolostorok külső részeire használjuk ki. A réteges öltözet és a fűtött belső terek teszik teljessé a téli sétát.",
+            "ro": "Iarna învăluie Château-Gontier într-un aer curat și rece, ideal pentru descoperiri istorice. Dimineața ne încălzim în muzee, iar la prânz grădina oferă vederi clare și înghețate. Deoarece soarele apune în jurul orei 17:00, profităm de lumina zilei pentru exteriorul mănăstirilor. Îmbrăcămintea groasă și pauzele în spații încălzite fac ziua foarte plăcută.",
+            "en": "Winter brings crisp air to Château-Gontier, creating a sharp backdrop for historical exploration. Warm up in museums during the morning and enjoy the frosty river views at noon. With sunset around 17:00, prioritize outdoor sites early in the afternoon. Dressing in warm layers ensures you stay comfortable as you traverse the city's ancient religious landmarks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museum für Kunst und Geschichte",
+                "hu": "Művészeti és Történeti Múzeum",
+                "ro": "Muzeul de Artă și Istorie",
+                "en": "Museum of Art and History"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern dieses historischen Gebäudes halten die Kälte draußen, während Sie die Kunstwerke bei sanftem Winterlicht betrachten; idealer Start zum Aufwärmen.",
+                "hu": "A történelmi épület vastag falai kint tartják a téli hideget, miközben a műalkotásokat lágy téli fényben csodálhatja meg; ideális kezdőpont a bemelegedéshez.",
+                "ro": "Zidurile groase ale acestei clădiri istorice țin frigul afară în timp ce admirați operele de artă în lumina blândă a iernii; este un punct de pornire ideal pentru a vă încălzi.",
+                "en": "The thick walls of this historic building keep the winter chill at bay while you view artworks in soft seasonal light; it is the perfect spot to start and stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin du Bout du Monde",
+                "hu": "Jardin du Bout du Monde",
+                "ro": "Jardin du Bout du Monde",
+                "en": "Jardin du Bout du Monde"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den klaren Blick auf das Flusstal, der im Winter ohne Laub besonders weit reicht; tragen Sie eine windfeste Jacke wegen der Brise von der Mayenne.",
+                "hu": "Élvezze a tiszta kilátást a folyóvölgyre, amely télen, lombkorona nélkül különösen messzire nyúlik; viseljen szélálló kabátot a Mayenne felől fújó hűvös szél miatt.",
+                "ro": "Bucurați-vă de vederea clară asupra văii râului, care iarna, fără frunziș, se întinde deosebit de departe; purtați o jachetă rezistentă la vânt din cauza brizelor de pe râu.",
+                "en": "Enjoy the clear views over the river valley, which stretch particularly far in winter without the foliage; wear a windproof jacket to shield against the river breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Château-Gontier",
+                "hu": "Château de Château-Gontier",
+                "ro": "Château de Château-Gontier",
+                "en": "Château de Château-Gontier"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Winterlicht besonders imposant; besuchen Sie die Anlage vor 16:00 Uhr, um die Details der Steine noch im Tageslicht bei tiefstehender Sonne zu sehen.",
+                "hu": "A romok különösen impozánsak a téli fényben; látogasson el ide 16:00 előtt, hogy az alacsonyan járó nap sugarainál még természetes fényben láthassa a kövek részleteit.",
+                "ro": "Ruinele par deosebit de impunătoare în lumina iernii; vizitați situl înainte de ora 16:00 pentru a vedea detaliile pietrei în lumina naturală a soarelui care apune.",
+                "en": "The ruins look especially imposing in the winter light; visit before 16:00 to catch the details of the stonework in the natural glow of the low-hanging sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Ursulines",
+                "hu": "Couvent des Ursulines",
+                "ro": "Couvent des Ursulines",
+                "en": "Couvent des Ursulines"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur dieses Ensembles und nutzen Sie die beheizten Ausstellungsräume im Inneren, um der Kälte zu entkommen; achten Sie auf die frühen Schließzeiten.",
+                "hu": "Csodálja meg az együttes építészetét, és használja ki a belső, fűtött kiállítótereket a hideg elől való menekülésre; ügyeljen a korábbi téli záróra időpontjára.",
+                "ro": "Admirați arhitectura acestui ansamblu și folosiți spațiile expoziționale încălzite din interior pentru a scăpa de frig; atenție la orele de închidere mai timpurii iarna.",
+                "en": "Admire the architecture of this complex and take advantage of the heated indoor exhibition spaces to escape the chill; check for earlier winter closing times."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Franciscains",
+                "hu": "Couvent des Franciscains",
+                "ro": "Couvent des Franciscains",
+                "en": "Couvent des Franciscains"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Schönheit des Klosters bietet im Winter einen Ort der inneren Einkehr; die Kapelle ist meist angenehm temperiert und lädt zum Verweilen im Warmen ein.",
+                "hu": "A kolostor egyszerű szépsége a belső elcsendesedés helyszíne télen; a kápolna általában kellemes hőmérsékletű, így hívogató hely a melegben való pihenésre.",
+                "ro": "Frumusețea simplă a mănăstirii oferă un loc de reculegere iarna; capela are de obicei o temperatură plăcută, fiind un loc primitor pentru a zăbovi la căldură.",
+                "en": "The simple beauty of the convent provides a peaceful spot for reflection in winter; the chapel is usually pleasantly tempered, making it a welcoming place to linger."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Tekerjen az Église Saint-Martin-hoz, hogy korán megcsodálja az ólomüveg ablakokat. Egy gyors út a Jardin du Bout du Monde-hoz vezet, amely frissítő parki élményt nyújt. \nDélben a város szívébe érkezik. Látogasson el a Művészeti Múzeumba, és biciklizzen át a Château de Château-Gontier maradványaihoz, felszívva a város örökségét. \nA délután a Couvent des Ursulines-nél folytatódik. Onnan tegyen egy hosszabb utat a Refuge de l'Arche-hoz, ahol a vadvédelem és a táj találkozik. \nZárja kerékpáros útját a Couvent des Franciscains-nél. A kellemes esti tekerés a központba maradandó emlékeket hagy a Mayenne varázsáról.",
         "ro": "Pedalați până la Église Saint-Martin pentru a admira vitraliile devreme. O plimbare rapidă vă duce la Jardin du Bout du Monde, oferind o experiență răcoroasă în parc. \nLa amiază, ajungeți în inima orașului. Vizitați Muzeul de Artă și Istorie și pedalați către rămășițele Château de Château-Gontier, absorbind patrimoniul orașului. \nDupă-amiaza continuă cu eleganta Couvent des Ursulines. De acolo, mergeți către Refuge de l'Arche, unde conservarea faunei întâlnește peisaje frumoase. \nÎncheiați călătoria la Couvent des Franciscains. Plimbarea blândă de seară înapoi spre centru vă va lăsa amintiri durabile ale farmecului zonei.",
         "en": "Pedal to the Église Saint-Martin to admire its stained glass early in the day. A quick ride leads you to the Jardin du Bout du Monde, offering a refreshing park experience. \nMidday connects you to the heart of the town. Visit the Museum of Art and History and cycle over to the remnants of the Château de Château-Gontier, absorbing the town's vibrant heritage. \nThe afternoon continues with the elegant Couvent des Ursulines. From there, take a slightly longer ride to the Refuge de l'Arche, where wildlife conservation meets beautiful landscapes. \nConclude your cycling journey at the Couvent des Franciscains. The gentle evening ride back to the center will leave you with lasting memories of Mayenne's charm."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour durch Château-Gontier bei Regen erfordert gute Ausrüstung, belohnt aber mit leeren Wegen. Vormittags erkunden wir Kirchen und Museen, die trockene Pausen bieten. Mittags geht es durch die vernebelten Gärten. Vorsicht auf den Radwegen entlang der Mayenne, da diese rutschig sein können. Ein wasserdichter Poncho ist Ihr bester Begleiter für diesen aktiven Tag.",
+            "hu": "Egy esős kerékpártúra Château-Gontier-ben jó felszerelést igényel, de csendes utakkal jutalmaz. Délelőtt templomokat és múzeumokat keresünk fel, amelyek száraz pihenőt kínálnak. Délben a ködös kerteken át tekerünk. Legyen óvatos a Mayenne menti kerékpárutakon, mert csúszósak lehetnek. Egy vízálló poncsó a legjobb társ ezen az aktív, vizes napon.",
+            "ro": "Un tur cu bicicleta prin Château-Gontier pe ploaie necesită echipament bun, dar oferă trasee libere. Dimineața explorăm biserici și muzee care oferă pauze uscate. La prânz pedalăm prin grădinile cețoase. Atenție pe pistele de biciclete de-a lungul râului Mayenne, deoarece pot fi alunecoase. Un pelerin de ploaie este cel mai bun companion pentru această zi activă.",
+            "en": "Cycling through Château-Gontier in the rain requires the right gear but rewards you with quiet paths. Start with churches and museums for dry intervals. At noon, ride through the misty gardens, taking extra care on the riverside bike paths which can become slick. A waterproof poncho is your best friend for this active, adventurous day out."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Diese romanische Kirche ist ein idealer erster Stopp, um die Fahrräder kurz unterzustellen und die Krypta im Trockenen zu bewundern; Vorsicht beim Absteigen auf nassem Asphalt.",
+                "hu": "Ez a román stílusú templom ideális első megálló, ahol rövid időre fedett helyre teheti a biciklit, és megcsodálhatja a kriptát; vigyázzon a leszálláskor a vizes aszfalton.",
+                "ro": "Această biserică romanică este o primă oprire ideală pentru a lăsa bicicletele scurt timp la adăpost și a admira cripta la uscat; atenție la coborâre pe asfaltul ud.",
+                "en": "This Romanesque church is an ideal first stop to briefly park your bike under cover and admire the crypt while dry; be careful when dismounting on wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin du Bout du Monde",
+                "hu": "Jardin du Bout du Monde",
+                "ro": "Jardin du Bout du Monde",
+                "en": "Jardin du Bout du Monde"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad am Eingang und schlendern Sie mit einem Regenschirm durch die Anlage; die nassen Steinmauern glänzen im Regen besonders schön für stimmungsvolle Fotos.",
+                "hu": "Parkolja le a kerékpárt a bejáratnál, és sétáljon körbe esernyővel; a vizes kőfalak különlegesen csillognak az esőben, ami hangulatos fotótémát kínál.",
+                "ro": "Parcați bicicleta la intrare și plimbați-vă prin grădină cu o umbrelă; zidurile de piatră umede strălucesc frumos în ploaie, oferind un decor excelent pentru fotografii.",
+                "en": "Park your bike at the entrance and stroll through the grounds with an umbrella; the wet stone walls glisten beautifully in the rain, perfect for atmospheric photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kunst und Geschichte",
+                "hu": "Művészeti és Történeti Múzeum",
+                "ro": "Muzeul de Artă și Istorie",
+                "en": "Museum of Art and History"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen ausgiebigen Museumsbesuch als lange Regenerationspause im Trockenen; es gibt sichere Abstellmöglichkeiten für Fahrräder in der Nähe des Eingangs.",
+                "hu": "Használja ki ezt az alapos múzeumi látogatást egy hosszú, száraz regenerációs szünetként; a bejárat közelében biztonságos kerékpártárolók állnak rendelkezésre.",
+                "ro": "Folosiți această vizită extinsă la muzeu ca o pauză lungă de regenerare la uscat; există locuri sigure pentru parcarea bicicletelor în apropierea intrării principale.",
+                "en": "Use this extensive museum visit as a long recovery break in the dry; there are secure bike racks available near the entrance for your convenience."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Château-Gontier",
+                "hu": "Château de Château-Gontier",
+                "ro": "Château de Château-Gontier",
+                "en": "Château de Château-Gontier"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem Kopfsteinpflaster rund um das Schloss, das bei Nässe sehr rutschig sein kann; die erhöhte Lage bietet auch im Regen einen tollen Rundblick.",
+                "hu": "Hajtson óvatosan a kastély körüli macskaköveken, amelyek nedvesen nagyon csúszósak lehetnek; a magaslati pont az esőben is remek körpanorámát nyújt a városra.",
+                "ro": "Pedalați cu prudență pe pavajul din jurul castelului, care poate fi foarte alunecos când este ud; locația ridicată oferă o panoramă excelentă chiar și pe ploaie.",
+                "en": "Ride carefully on the cobblestones around the castle, as they can be very slippery when wet; the elevated position offers a great panoramic view even in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Ursulines",
+                "hu": "Couvent des Ursulines",
+                "ro": "Couvent des Ursulines",
+                "en": "Couvent des Ursulines"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Arkaden des Klosters bieten einen perfekten Schutz für eine kurze Trinkpause, während Sie die Architektur bewundern; halten Sie Ihre Regenjacke griffbereit.",
+                "hu": "A kolostor tágas árkádjai tökéletes menedéket nyújtanak egy rövid frissítő szünethez, miközben az építészetet csodálja; tartsa az esőkabátot könnyen elérhető helyen.",
+                "ro": "Arcadele spațioase ale mănăstirii oferă un adăpost perfect pentru o scurtă pauză de hidratare în timp ce admirați arhitectura; păstrați pelerina de ploaie la îndemână.",
+                "en": "The spacious arcades of the convent provide perfect shelter for a quick water break while you admire the architecture; keep your rain gear easily accessible."
+              }
+            },
+            {
+              "name": {
+                "de": "Refuge de l'Arche",
+                "hu": "Refuge de l'Arche",
+                "ro": "Refuge de l'Arche",
+                "en": "Refuge de l'Arche"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Tiere, von denen viele bei Regen in ihren Unterständen zu sehen sind; die Wege im Park können schlammig sein, achten Sie auf Ihre Fahrradreifen.",
+                "hu": "Látogassa meg az állatokat, amelyek közül sok az esőben is látható az óljaik közelében; a park útjai sarasak lehetnek, ügyeljen a kerékpár gumiabroncsaira.",
+                "ro": "Vizitați animalele, dintre care multe pot fi văzute în adăposturile lor pe timp de ploaie; aleile din parc pot fi noroioase, deci atenție la anvelopele bicicletei.",
+                "en": "Visit the animals, many of whom can be seen in their shelters during the rain; the park paths may be muddy, so keep an eye on your bike tires while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Franciscains",
+                "hu": "Couvent des Franciscains",
+                "ro": "Couvent des Franciscains",
+                "en": "Couvent des Franciscains"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour in der Kapelle und trocknen Sie sich kurz ab, bevor Sie die letzte Strecke antreten; ein ruhiger Ort, um den Tag Revue passieren zu lassen.",
+                "hu": "Zárja a túrát a kápolnában, és szárítkozzon meg egy kicsit, mielőtt megtenné az utolsó szakaszt; nyugodt hely a nap eseményeinek felelevenítésére a szárazban.",
+                "ro": "Încheiați turul la capelă și uscați-vă puțin înainte de a porni pe ultimul segment; este un loc liniștit pentru a trece în revistă evenimentele zilei la uscat.",
+                "en": "End your tour at the chapel and dry off a bit before heading out for the final stretch; it is a quiet spot to reflect on your rainy day adventures in comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Château-Gontier ist belebend, erfordert aber Schutz gegen den kalten Wind. Vormittags nutzen wir das helle Sonnenlicht für die Kirchen, mittags wärmen wir uns im Museum auf. Da es gegen 17:00 Uhr dunkel wird, sollten Sie Reflektoren am Rad haben und die Tour rechtzeitig beenden. Handschuhe und eine Thermo-Trinkflasche sind heute unverzichtbar.",
+            "hu": "A téli kerékpározás Château-Gontier-ben frissítő, de védekezni kell a hideg szél ellen. Délelőtt a templomokat látogatjuk a világos napsütésben, délben a múzeumban melegszünk fel. Mivel 17:00 körül sötétedik, legyen fényvisszaverő a biciklin, és fejezze be időben a túrát. A kesztyű és a termosz ma elengedhetetlen kellék.",
+            "ro": "Ciclismul de iarnă în Château-Gontier este revigorant, dar necesită protecție împotriva vântului rece. Dimineața vizităm bisericile profitând de lumina soarelui, iar la prânz ne încălzim în muzeu. Deoarece se întunecă în jur de ora 17:00, asigurați-vă că aveți reflectoare pe bicicletă. Mănușile și un termos cu băutură caldă sunt indispensabile.",
+            "en": "Winter cycling in Château-Gontier is invigorating but requires protection against the cold wind. Use the bright morning light for churches and warm up in the museum at noon. Since it gets dark around 17:00, ensure your bike has reflectors and aim to finish early. Gloves and a thermal flask with a hot drink are essential for staying warm today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den ersten Halt, um die Gliedmaßen in der Kirche aufzuwärmen; die Architektur wirkt im tiefen Winterlicht besonders klar und detailliert.",
+                "hu": "Használja ki az első megállót, hogy átmelegedjen a templom belső terében; az építészet különösen tisztának és részletgazdagnak tűnik az alacsony téli fényben.",
+                "ro": "Folosiți prima oprire pentru a vă încălzi în interiorul bisericii; arhitectura pare deosebit de clară și detaliată în lumina joasă a soarelui de iarnă.",
+                "en": "Take advantage of this first stop to warm up your limbs inside the church; the architecture appears remarkably crisp and detailed in the low winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin du Bout du Monde",
+                "hu": "Jardin du Bout du Monde",
+                "ro": "Jardin du Bout du Monde",
+                "en": "Jardin du Bout du Monde"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zügig durch den Garten, um die Körperwärme zu halten, und genießen Sie die frostigen Ausblicke; Vorsicht vor eventuellen Glatteisstellen auf den Wegen.",
+                "hu": "Tekerjen tempósan a kertben, hogy megőrizze testhőjét, és közben élvezze a fagyos kilátást; legyen nagyon óvatos az utakon előforduló esetleges jeges foltokkal.",
+                "ro": "Pedalați într-un ritm susținut prin grădină pentru a vă menține căldura corporală și admirați priveliștea înghețată; atenție sporită la porțiunile de polei.",
+                "en": "Ride at a steady pace through the garden to maintain body heat while enjoying the frosty views; stay very alert for any potential icy patches on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kunst und Geschichte",
+                "hu": "Művészeti és Történeti Múzeum",
+                "ro": "Muzeul de Artă și Istorie",
+                "en": "Museum of Art and History"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Aufwärmpause ein; das Museum bietet eine hervorragende Gelegenheit, der Winterkälte für eine Weile komplett zu entkommen.",
+                "hu": "Tervezzen ide egy hosszabb melegedő szünetet; a múzeum kiváló lehetőséget nyújt arra, hogy egy időre teljesen elmeneküljön a téli hideg elől a kiállítások közé.",
+                "ro": "Planificați aici o pauză mai lungă pentru a vă încălzi; muzeul oferă o oportunitate excelentă de a scăpa complet de frigul iernii printre exponate.",
+                "en": "Plan for a longer warm-up break here; the museum provides an excellent opportunity to completely escape the winter chill while browsing the collections."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Château-Gontier",
+                "hu": "Château de Château-Gontier",
+                "ro": "Château de Château-Gontier",
+                "en": "Château de Château-Gontier"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zum Schloss bringt den Kreislauf in Schwung; oben angekommen sollten Sie sich schnell wieder dick einpacken, um im Wind nicht auszukühlen.",
+                "hu": "A kastélyhoz vezető emelkedő jól felpezsdíti a vérkeringést; felérve gyorsan öltözzön vissza melegen, hogy a szélben ne hűljön ki nézelődés közben.",
+                "ro": "Urcarea spre castel vă va pune sângele în mișcare; odată ajunși sus, îmbrăcați-vă rapid cu haine groase pentru a nu răci în bătaia vântului.",
+                "en": "The climb up to the castle will get your circulation going; once at the top, bundle up quickly to avoid catching a chill from the exposed winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Ursulines",
+                "hu": "Couvent des Ursulines",
+                "ro": "Couvent des Ursulines",
+                "en": "Couvent des Ursulines"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassaden im Winterlicht; im Inneren finden Sie oft beheizte Bereiche, die perfekt für eine kurze Pause zwischen den Rad-Etappen sind.",
+                "hu": "Csodálja meg a homlokzatokat a téli fényben; belül gyakran talál fűtött részeket, amelyek tökéletesek egy rövid pihenőre a kerékpáros szakaszok között.",
+                "ro": "Admirați fațadele în lumina iernii; în interior găsiți adesea zone încălzite, perfecte pentru o scurtă pauză între etapele de pedalat prin oraș.",
+                "en": "Admire the facades in the crisp winter light; inside you can often find heated areas that are perfect for a quick rest between your cycling segments."
+              }
+            },
+            {
+              "name": {
+                "de": "Refuge de l'Arche",
+                "hu": "Refuge de l'Arche",
+                "ro": "Refuge de l'Arche",
+                "en": "Refuge de l'Arche"
+              },
+              "tip_5lang": {
+                "de": "Einige Tiere sind im Winter besonders aktiv; tragen Sie feste Handschuhe beim Fahren zum Park, da die Temperatur in Ufernähe meist niedriger ist.",
+                "hu": "Néhány állat télen különösen aktív; viseljen vastag kesztyűt a park felé menet, mivel a folyópart közelében a hőmérséklet általában alacsonyabb.",
+                "ro": "Unele animale sunt deosebit de active iarna; purtați mănuși groase spre parc, deoarece temperatura în apropierea malului râului este de obicei mai scăzută.",
+                "en": "Some animals are particularly active in winter; wear thick gloves for the ride to the park, as temperatures near the riverbank are usually lower."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Franciscains",
+                "hu": "Couvent des Franciscains",
+                "ro": "Couvent des Franciscains",
+                "en": "Couvent des Franciscains"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Radtour hier, bevor die Dämmerung einsetzt; die Kapelle bietet einen warmen, friedlichen Abschluss für einen sportlichen Wintertag.",
+                "hu": "Fejezze be a kerékpártúrát itt, mielőtt beállna a szürkület; a kápolna meleg és békés lezárást nyújt egy sportos, téli felfedező nap után.",
+                "ro": "Încheiați turul cu bicicleta aici înainte de lăsarea serii; capela oferă un final cald și liniștit pentru o zi sportivă de iarnă în Château-Gontier.",
+                "en": "Finish your bike tour here before dusk sets in; the chapel offers a warm and peaceful conclusion to an active winter day in Château-Gontier."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "Kezdje a napot egy festői autózással a Manoir de Montviant-hoz, megadva a történelmi alaphangot. Ugorjon át az Église Saint-Martin-hoz, hogy megcsodálja lenyűgöző építészetét. \nDélre parkoljon le a városközpont közelében, és fedezze fel a Jardin du Bout du Monde-ot. Mellette a Múzeum és a Château de Château-Gontier kínál elmélyülést a múltba. \nDélután vezessen a Couvent des Ursulines-hez, majd a Couvent des Franciscains-hez. Ezután élvezze az állatmenhely, a Refuge de l'Arche látogatását a központon kívül. \nZárja átfogó autós túráját a hatalmas Château de la Maroutière-nél. Szürkületkor a fenséges vidéki környezet látványos befejezést nyújt.",
         "ro": "Începeți cu o plimbare pitorească până la Manoir de Montviant, stabilind un ton istoric. Faceți o scurtă oprire la Église Saint-Martin pentru a-i vedea arhitectura magnifică. \nLa amiază, parcați aproape de centru pentru a explora Jardin du Bout du Monde. Chiar alături, Muzeul și Château de Château-Gontier oferă o incursiune în trecut. \nConduceți spre Couvent des Ursulines după-amiaza, apoi spre Couvent des Franciscains. Apoi, bucurați-vă de o vizită la sanctuarul de animale Refuge de l'Arche. \nÎncheiați turul extins cu mașina la grandiosul Château de la Maroutière. La lăsarea întunericului, cadrul rural majestuos oferă o concluzie spectaculoasă.",
         "en": "Start with a scenic drive to the Manoir de Montviant, setting a historical tone for the day. Quickly hop over to the Église Saint-Martin to view its magnificent architecture and intricate details. \nBy midday, park near the town center to explore the Jardin du Bout du Monde. Right next door, the Museum of Art and History and the Château de Château-Gontier offer an immersive dive into the past. \nDrive to the Couvent des Ursulines in the afternoon, followed by the Couvent des Franciscains. Then, enjoy a rewarding visit to the Refuge de l'Arche animal sanctuary just outside the main center. \nEnd your extensive driving tour at the grand Château de la Maroutière. As twilight falls, the majestic rural setting provides a spectacular conclusion to your exploration of the Mayenne."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist ein Regentag in Château-Gontier komfortabel und trocken. Wir besuchen abgelegene Herrenhäuser und Klöster, ohne nass zu werden. Vormittags stehen Schlösser auf dem Plan, mittags Museen. Die kurzen Wege vom Parkplatz zum Eingang lassen sich mit einem Schirm leicht bewältigen. Die beheizten Innenräume der historischen Stätten bieten den ganzen Tag über angenehmen Schutz.",
+            "hu": "Autóval egy esős nap Château-Gontier-ben kényelmes és száraz élmény marad. Távolabbi kúriákat és kolostorokat látogatunk meg anélkül, hogy megáznánk. Délelőtt kastélyok, délben múzeumok szerepelnek a tervben. A parkolótól a bejáratig tartó rövid távokat esernyővel könnyen leküzdhetjük. A történelmi helyszínek fűtött belső terei egész nap kellemes menedéket nyújtanak.",
+            "ro": "Cu mașina, o zi ploioasă în Château-Gontier rămâne o experiență confortabilă și uscată. Vizităm conace și mănăstiri mai îndepărtate fără a ne uda. Dimineața sunt programate castele, iar la prânz muzee. Distanțele scurte de la parcare la intrare sunt ușor de parcurs cu o umbrelă. Spațiile interioare încălzite oferă un adăpost plăcut pe tot parcursul zilei.",
+            "en": "Exploring Château-Gontier by car on a rainy day ensures a comfortable and dry experience. Visit outlying manors and convents without worrying about the weather. Morning is for castles and noon for museums. The short distances between parking spots and entrances are easily managed with an umbrella, while the heated interiors keep you cozy all day long."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manoir de Montviant",
+                "hu": "Manoir de Montviant",
+                "ro": "Manoir de Montviant",
+                "en": "Manoir de Montviant"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Anwesen und bewundern Sie dieses architektonische Juwel im Regen; das Herrenhaus bietet einen eleganten und trockenen Start in den Tag.",
+                "hu": "Parkoljon közvetlenül a birtoknál, és csodálja meg ezt az építészeti gyöngyszemet az esőben; a kúria elegáns és száraz kezdést biztosít a napnak.",
+                "ro": "Parcați direct la proprietate și admirați această bijuterie arhitecturală în ploaie; conacul oferă un început de zi elegant și complet protejat de intemperii.",
+                "en": "Park right at the estate and admire this architectural gem in the rain; the manor provides an elegant and dry start to your historical day out."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz für einen schnellen Zugang zur Kirche; das massive Steingewölbe bietet perfekten Schutz vor den schwersten Regengüssen.",
+                "hu": "Használja a közeli parkolót a templom gyors eléréséhez; a masszív kőboltozat tökéletes védelmet nyújt még a leghevesebb esőzések idején is.",
+                "ro": "Folosiți parcarea din apropiere pentru acces rapid la biserică; bolta masivă de piatră oferă protecție perfectă chiar și în timpul celor mai puternice averse.",
+                "en": "Use the nearby parking for quick access to the church; the massive stone vaults provide perfect shelter even during the heaviest rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin du Bout du Monde",
+                "hu": "Jardin du Bout du Monde",
+                "ro": "Jardin du Bout du Monde",
+                "en": "Jardin du Bout du Monde"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Schirm im Auto bereitliegen für den kurzen Fußweg; der Blick über das neblige Flusstal ist vom Aussichtspunkt aus besonders mystisch.",
+                "hu": "Tartsa készenlétben az esernyőt a rövid sétához; a ködös folyóvölgyre nyíló kilátás a kilátópontról nézve különösen misztikus és felejthetetlen élmény.",
+                "ro": "Păstrați umbrela la îndemână pentru scurta plimbare; vederea asupra văii cețoase a râului este deosebit de mistică atunci când este privită din punctul de observație.",
+                "en": "Keep your umbrella ready for the short walk; the view over the misty river valley from the lookout point is particularly mystical and memorable."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kunst und Geschichte",
+                "hu": "Művészeti és Történeti Múzeum",
+                "ro": "Muzeul de Artă și Istorie",
+                "en": "Museum of Art and History"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die regenreichste Zeit des Mittags im Trockenen zu verbringen; genießen Sie die umfangreichen Sammlungen in aller Ruhe und Wärme.",
+                "hu": "Ideális helyszín ahhoz, hogy a délidő legesősebb részét szárazon töltse; élvezze a gazdag gyűjteményeket teljes nyugalomban és kellemes melegben.",
+                "ro": "Locația ideală pentru a petrece cea mai ploioasă parte a prânzului la uscat; bucurați-vă de colecțiile bogate în liniște deplină și la o temperatură plăcută.",
+                "en": "The ideal location to spend the rainiest part of midday indoors; enjoy the extensive collections in complete peace and comfortable warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Château-Gontier",
+                "hu": "Château de Château-Gontier",
+                "ro": "Château de Château-Gontier",
+                "en": "Château de Château-Gontier"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Fuße der Festung und erkunden Sie die Anlage zügig zwischen den Regenschauern; wasserfeste Kleidung ist für den Außenbereich sehr wichtig.",
+                "hu": "Parkoljon az erődítmény lábánál, és fedezze fel a helyszínt gyorsan az esőszünetekben; a vízálló ruházat nagyon fontos a kültéri maradványok megtekintéséhez.",
+                "ro": "Parcați la poalele fortăreței și explorați situl rapid între reprizele de ploaie; îmbrăcămintea impermeabilă este esențială pentru vizitarea zonelor exterioare.",
+                "en": "Park at the base of the fortress and explore the site quickly between rain showers; waterproof clothing is vital for viewing the outdoor remains."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Ursulines",
+                "hu": "Couvent des Ursulines",
+                "ro": "Couvent des Ursulines",
+                "en": "Couvent des Ursulines"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komfort des Autos, um schnell zu diesem beeindruckenden Komplex zu gelangen; die Innenhöfe bieten auch im Regen architektonische Highlights.",
+                "hu": "Használja ki az autó kényelmét, hogy gyorsan eljusson ehhez a lenyűgöző épületegyütteshez; a belső udvarok az esőben is építészeti fénypontokat kínálnak.",
+                "ro": "Profitați de confortul mașinii pentru a ajunge rapid la acest complex impresionant; curțile interioare oferă detalii arhitecturale superbe chiar și pe ploaie.",
+                "en": "Take advantage of your car's comfort to reach this impressive complex quickly; the inner courtyards offer architectural highlights even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Franciscains",
+                "hu": "Couvent des Franciscains",
+                "ro": "Couvent des Franciscains",
+                "en": "Couvent des Franciscains"
+              },
+              "tip_5lang": {
+                "de": "Die spirituelle Atmosphäre im Inneren lässt Sie das schlechte Wetter draußen völlig vergessen; ein kurzer Sprint vom Auto reicht aus, um trocken zu bleiben.",
+                "hu": "A belső terek spirituális hangulata elfeledteti Önnel a kinti rossz időt; egy rövid sprint az autótól elég ahhoz, hogy teljesen száraz maradjon.",
+                "ro": "Atmosfera spirituală din interior vă va face să uitați complet de vremea rea de afară; un scurt sprint de la mașină este suficient pentru a rămâne uscat.",
+                "en": "The spiritual atmosphere inside will make you completely forget the bad weather outside; a short sprint from the car is all it takes to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Refuge de l'Arche",
+                "hu": "Refuge de l'Arche",
+                "ro": "Refuge de l'Arche",
+                "en": "Refuge de l'Arche"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Tiere, die oft in der Nähe ihrer überdachten Ställe Schutz suchen; wasserfeste Schuhe sind für die Wege im Park bei Regen unerlässlich.",
+                "hu": "Látogassa meg az állatokat, amelyek gyakran keresnek menedéket fedett óljaik közelében; a vízálló cipő elengedhetetlen a park útjaihoz az esőben.",
+                "ro": "Vizitați animalele care caută adesea adăpost în apropierea grajdurilor acoperite; încălțămintea impermeabilă este indispensabilă pentru aleile din parc.",
+                "en": "Visit the animals, who often seek shelter near their covered stalls; waterproof shoes are essential for navigating the park paths in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Maroutière",
+                "hu": "Château de la Maroutière",
+                "ro": "Château de la Maroutière",
+                "en": "Château de la Maroutière"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Abschluss im Trockenen; bewundern Sie die Fassaden vom Auto aus oder nutzen Sie Regenpausen für einen kurzen Spaziergang am Schloss.",
+                "hu": "Pompás lezárás a szárazban; csodálja meg a homlokzatokat az autóból, vagy használja ki az esőszüneteket egy rövid sétára a kastély körül.",
+                "ro": "Un final magnific la uscat; admirați fațadele din mașină sau profitați de pauzele de ploaie pentru o scurtă plimbare în jurul castelului.",
+                "en": "A magnificent conclusion in the dry; admire the facades from your car or take advantage of rain breaks for a short stroll around the castle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Château-Gontier bietet die perfekte Mischung aus Komfort und Entdeckung. Vormittags besuchen wir frostige Schlösser, mittags wärmen wir uns im Museum auf. Da die Sonne gegen 17:00 Uhr untergeht, planen wir die Außenbesichtigungen für den frühen Nachmittag. Die Sitzheizung macht die kurzen Fahrten zwischen den historischen Schätzen besonders angenehm.",
+            "hu": "Egy téli autós túra Château-Gontier-ben a kényelem és a felfedezés tökéletes keverékét nyújtja. Délelőtt fagyos kastélyokat látogatunk, délben a múzeumban melegszünk fel. Mivel a nap 17:00 körül lemegy, a kültéri látnivalókat kora délutánra tervezzük. Az ülésfűtés különösen kellemessé teszi a történelmi kincsek közötti rövid utazásokat.",
+            "ro": "Un tur cu mașina iarna prin Château-Gontier oferă amestecul perfect de confort și descoperire. Dimineața vizităm castele înghețate, iar la prânz ne încălzim în muzeu. Deoarece soarele apune în jur de 17:00, planificăm vizitele exterioare pentru începutul după-amiezii. Încălzirea în scaune face deplasările scurte foarte plăcute.",
+            "en": "A winter car tour of Château-Gontier offers the ideal blend of comfort and exploration. Visit frosty castles in the morning and thaw out in the museum at noon. With sunset around 17:00, schedule your outdoor sightseeing for the early afternoon. Car heating makes the short drives between historic treasures especially pleasant during the cold spells."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Manoir de Montviant",
+                "hu": "Manoir de Montviant",
+                "ro": "Manoir de Montviant",
+                "en": "Manoir de Montviant"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des Herrenhauses im klaren Winterlicht; die dicken Mauern bieten eine angenehme Atmosphäre für den ersten kulturellen Stopp des Tages.",
+                "hu": "Élvezze a kúria látványát a tiszta téli fényben; a vastag falak kellemes hangulatot biztosítanak a nap első kulturális megállójához a hidegben.",
+                "ro": "Bucurați-vă de vederea conacului în lumina clară a iernii; zidurile groase oferă o atmosferă plăcută pentru prima oprire culturală a zilei.",
+                "en": "Enjoy the sight of the manor in the crisp winter light; the thick walls provide a cozy atmosphere for your first cultural stop of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Martin",
+                "hu": "Église Saint-Martin",
+                "ro": "Église Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um der Kälte schnell zu entkommen; das Innere der Kirche ist meist windgeschützt und bietet einen ruhigen Ort zum Aufwärmen.",
+                "hu": "Parkoljon közel a bejárathoz, hogy gyorsan elmenekülhessen a hideg elől; a templom belseje szélvédett, és nyugodt helyet kínál a bemelegedéshez.",
+                "ro": "Parcați aproape de intrare pentru a scăpa rapid de frig; interiorul bisericii este protejat de vânt și oferă un loc liniștit pentru a vă încălzi puțin.",
+                "en": "Park close to the entrance to quickly escape the cold; the church interior is sheltered from the wind and provides a peaceful spot to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin du Bout du Monde",
+                "hu": "Jardin du Bout du Monde",
+                "ro": "Jardin du Bout du Monde",
+                "en": "Jardin du Bout du Monde"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterwetter für weite Panoramafotos vom Flusstal; tragen Sie eine Mütze und Schal, da es auf dem Aussichtspunkt recht windig sein kann.",
+                "hu": "Használja ki a tiszta téli időt a folyóvölgyről készített panorámafotókhoz; viseljen sapkát és sálat, mivel a kilátóponton elég szeles lehet az idő.",
+                "ro": "Profitați de vremea clară de iarnă pentru fotografii panoramice ale văii râului; purtați căciulă și fular, deoarece la punctul de observație poate fi destul de vânt.",
+                "en": "Take advantage of the clear winter weather for wide panoramic photos of the river valley; wear a hat and scarf as it can be quite windy at the lookout."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Kunst und Geschichte",
+                "hu": "Művészeti és Történeti Múzeum",
+                "ro": "Muzeul de Artă și Istorie",
+                "en": "Museum of Art and History"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für einen ausgiebigen Aufenthalt im Warmen; bewundern Sie die Sammlungen, während draußen der Winterwind weht.",
+                "hu": "Tökéletes helyszín egy kiadós, melegben töltött látogatáshoz; csodálja meg a gyűjteményeket, miközben kint a téli szél fúj az ódon utcákon.",
+                "ro": "Locul perfect pentru o vizită prelungită la căldură; admirați colecțiile în timp ce afară vântul de iarnă bate pe străzile vechi ale orașului.",
+                "en": "A perfect spot for an extended stay in the warm; admire the collections while the winter wind blows outside through the ancient streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Château-Gontier",
+                "hu": "Château de Château-Gontier",
+                "ro": "Château de Château-Gontier",
+                "en": "Château de Château-Gontier"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen im hellen Tageslicht vor 16:00 Uhr; die historische Kulisse wirkt mit Raureif auf den Steinen besonders märchenhaft.",
+                "hu": "Látogassa meg a romokat világos nappali fényben 16:00 előtt; a történelmi díszlet a köveken lévő zúzmarával különösen meseszerűnek hat.",
+                "ro": "Vizitați ruinele în lumina zilei înainte de ora 16:00; decorul istoric cu chiciură pe pietre pare desprins dintr-un basm în timpul iernii.",
+                "en": "Visit the ruins in bright daylight before 16:00; the historic setting looks especially fairytale-like with frost coating the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Ursulines",
+                "hu": "Couvent des Ursulines",
+                "ro": "Couvent des Ursulines",
+                "en": "Couvent des Ursulines"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die beeindruckende Architektur und nutzen Sie die beheizten Säle, um der Kälte zwischen den Besichtigungen zu entkommen.",
+                "hu": "Fedezze fel a lenyűgöző építészetet, és használja a fűtött termeket, hogy elmeneküljön a hideg elől a városnézés közbeni pihenők során.",
+                "ro": "Explorați arhitectura impresionantă și folosiți sălile încălzite pentru a scăpa de frig în timpul pauzelor dintre vizitarea diferitelor obiective.",
+                "en": "Explore the impressive architecture and make use of the heated halls to escape the chill during breaks between your sightseeing stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Couvent des Franciscains",
+                "hu": "Couvent des Franciscains",
+                "ro": "Couvent des Franciscains",
+                "en": "Couvent des Franciscains"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Ruhe der Kapelle bietet einen angenehmen Ort zur Einkehr im Warmen; ideal, um die spirituelle Seite der Stadt im Winter zu erleben.",
+                "hu": "A kápolna egyszerű nyugalma kellemes helyszínt biztosít a melegben való elcsendesedéshez; ideális a város spirituális oldalának téli megtapasztalásához.",
+                "ro": "Liniștea simplă a capelei oferă un loc plăcut pentru reculegere la căldură; este ideal pentru a experimenta latura spirituală a orașului iarna.",
+                "en": "The simple peace of the chapel provides a pleasant spot for quiet reflection in the warm; ideal for experiencing the city's spiritual side in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Refuge de l'Arche",
+                "hu": "Refuge de l'Arche",
+                "ro": "Refuge de l'Arche",
+                "en": "Refuge de l'Arche"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Tiere im Winterfell, die im klaren Licht gut zu sehen sind; halten Sie sich durch Gehen warm und nutzen Sie das Auto zum schnellen Aufwärmen danach.",
+                "hu": "Figyelje meg a téli bundás állatokat, amelyek a tiszta fényben jól láthatóak; maradjon mozgásban, és használja az autót a látogatás utáni gyors bemelegedéshez.",
+                "ro": "Observați animalele cu blană de iarnă, care sunt bine vizibile în lumina clară; rămâneți în mișcare și folosiți mașina pentru a vă încălzi rapid după vizită.",
+                "en": "Observe the animals in their winter coats, easily spotted in the crisp light; keep moving to stay warm and use your car for a quick reheat afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Maroutière",
+                "hu": "Château de la Maroutière",
+                "ro": "Château de la Maroutière",
+                "en": "Château de la Maroutière"
+              },
+              "tip_5lang": {
+                "de": "Ein prachtvoller Abschluss des Tages; die Beleuchtung des Schlosses in der frühen Winterdämmerung sorgt für eine magische Atmosphäre bei der Abfahrt.",
+                "hu": "Pompás lezárása a napnak; a kastély kivilágítása a korai téli szürkületben mágikus hangulatot teremt az elindulás előtt a parkolóból.",
+                "ro": "Un final magnific al zilei; iluminarea castelului în amurgul timpuriu de iarnă creează o atmosferă magică înainte de plecarea spre casă.",
+                "en": "A magnificent conclusion to your day; the castle's lighting in the early winter dusk creates a magical atmosphere before you head back."
+              }
+            }
+          ]
+        }
       }
     }
   }

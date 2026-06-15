@@ -137,6 +137,168 @@
         "hu": "Reggel fedezze fel a lenyűgöző Notre-Dame templomot, majd sétáljon át a közeli történelmi kúriákhoz. Délben elmerülhet a környező kastélyok fenséges építészetében. A délután pihentető sétákat kínál a zöldellő tájak és kőműemlékek között. Este találjon belső békére a történelmi Szent Péter-templom meglátogatásával és csendes atmoszférájával.",
         "ro": "Dimineața veți explora impresionanta Biserică Notre-Dame și vă veți plimba spre conacele istorice vecine. La prânz, vă veți cufunda în arhitectura castelelor din împrejurimi. După-amiaza oferă plimbări relaxante printre peisaje verzi și monumente de piatră. Seara, veți găsi liniște interioară printr-o vizită la istorica Biserică Saint-Pierre.",
         "en": "In the morning, explore the impressive Église Notre-Dame and stroll leisurely to the neighboring historic manors. At noon, immerse yourself in the architecture of the surrounding castles. The afternoon offers relaxing walks between green landscapes and stone monuments. In the evening, find inner peace with a visit to the historic Église Saint-Pierre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt mit sanftem Regen an der Église Notre-Dame, deren dicke Mauern Schutz bieten. Mittags führt der Weg zum Herrenhaus durch feuchtes Grün, wo festes Schuhwerk gegen Schlamm hilft. Am Nachmittag wirken die Schlösser im Nebel geheimnisvoll, während man unter den Torbögen Schutz sucht. Der Abend klingt bei der Église Saint-Pierre aus, während der Regen leise gegen die bunten Glasfenster trommelt.",
+            "hu": "A reggel hűvös esővel indul az Église Notre-Dame falai között, melyek biztos menedéket nyújtanak. Délben a Manoir du Vau Février felé vezető út sáros lehet, érdemes vízhatlan bakancsot húzni a kényelemért. Délután a kastélyok szürke sziluettje misztikus a ködben, a szél ellen keressünk fedett zugokat a falak tövében. Az este csendesen érkezik az Église Saint-Pierre-hez, ahol a szemerkélő eső hangja festi alá a látogatást.",
+            "ro": "Dimineața începe cu o ploaie ușoară la Église Notre-Dame, unde zidurile groase oferă un adăpost primitor. La prânz, drumul spre conac poate fi noroios, fiind recomandată încălțămintea impermeabilă pentru confort. După-amiaza, castelele par misterioase în ceață, oferind ocazia de a admira arhitectura sub protecția arcadelor. Seara se încheie la Église Saint-Pierre, în timp ce stropii de ploaie bat ritmic în vitraliile vechi.",
+            "en": "The morning begins with gentle rain at Église Notre-Dame, where the thick walls provide a welcoming shelter. By noon, the path to the manor might be muddy, so waterproof boots are recommended for a comfortable walk. In the afternoon, the castles look mystical in the mist, offering a chance to admire the architecture from under stone arches. The evening ends at Église Saint-Pierre, as the drizzle taps softly against the historic stained glass."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innendetails der Kirche, während Sie draußen den Regen abwarten; die Akustik bei fallenden Tropfen ist einzigartig beruhigend.",
+                "hu": "Csodálja meg a belső részleteket, miközben az eső elől menedéket keres; a lehulló cseppek hangja mellett a templom akusztikája különleges élmény.",
+                "ro": "Admirați detaliile interioare în timp ce vă adăpostiți de ploaie; acustica bisericii în timpul precipitațiilor oferă o experiență senzorială unică.",
+                "en": "Admire the interior details while seeking shelter from the rain; the church's acoustics during rainfall create a uniquely soothing atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir du Vau Février",
+                "hu": "Manoir du Vau Février",
+                "ro": "Manoir du Vau Février",
+                "en": "Manoir du Vau Février"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die glitschigen Steinwege am Eingang und nutzen Sie die Dachvorsprünge, um das historische Mauerwerk im Regen zu betrachten.",
+                "hu": "Ügyeljen a csúszós kövekre a bejáratnál, és használja az eresz alatti részeket a történelmi falak megfigyelésére a szemerkélő esőben is.",
+                "ro": "Atenție la pietrele alunecoase de la intrare și folosiți streșinile clădirii pentru a observa zidăria istorică chiar și pe timp de ploaie.",
+                "en": "Watch out for slippery stones at the entrance and use the building's eaves to observe the historic masonry even during the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Vau Terteux",
+                "hu": "Château du Vau Terteux",
+                "ro": "Château du Vau Terteux",
+                "en": "Château du Vau Terteux"
+              },
+              "tip_5lang": {
+                "de": "Die dramatische Wolkenstimmung über dem Schloss bietet tolle Fotomotive; halten Sie die Kamera unter einem Regenschirm trocken und bereit.",
+                "hu": "A kastély feletti drámai felhők remek fotótémát kínálnak; tartsa a fényképezőgépet az esernyő alatt szárazon a legjobb felvételek érdekében.",
+                "ro": "Norii dramatici de deasupra castelului oferă cadre foto excelente; păstrați aparatul sub umbrelă pentru a surprinde atmosfera misterioasă.",
+                "en": "The dramatic clouds above the castle provide great photo opportunities; keep your camera dry under an umbrella for the best atmospheric shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Longueville",
+                "hu": "Château de Longueville",
+                "ro": "Château de Longueville",
+                "en": "Château de Longueville"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Torbögen als trockenen Aussichtspunkt auf den Garten, wo die Farben der Pflanzen im Regen besonders kräftig leuchten.",
+                "hu": "Használja a masszív kapualjakat száraz kilátópontként a kertre, ahol a növények színei az esőben különösen élénken és frissen ragyognak.",
+                "ro": "Folosiți arcadele masive ca punct de observație uscat asupra grădinii, unde culorile plantelor devin extrem de vii sub acțiunea ploii.",
+                "en": "Use the massive archways as a dry vantage point over the garden, where the plant colors appear exceptionally vivid and fresh in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Tour trocken abzuschließen; nutzen Sie die Stille im Inneren, um die Eindrücke des Tages Revue passieren zu lassen.",
+                "hu": "Tökéletes hely a túra száraz befejezéséhez; használja ki a belső csendet, hogy átgondolja a nap esős, de hangulatos pillanatait és élményeit.",
+                "ro": "Locul perfect pentru a încheia turul la adăpost; folosiți liniștea din interior pentru a reflecta asupra momentelor atmosferice ale zilei.",
+                "en": "A perfect place to end the tour in the dry; use the indoor silence to reflect on the day's atmospheric and rainy coastal experiences."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen hüllt Bréville in ein weißes Kleid, ideal für einen erfrischenden Start bei der Église Notre-Dame. Mittags weht eine steife Brise vom Meer, weshalb warme Schichten beim Manoir unerlässlich sind. Am Nachmittag sinkt die Sonne tief und taucht die Schlösser in ein goldenes Winterlicht. Gegen 17:00 Uhr bricht die Dunkelheit ein, und die beleuchteten Fenster der Église Saint-Pierre weisen den Weg zum Ende der Tour.",
+            "hu": "A fagyos reggel fehér zúzmarába öltözteti Bréville-t, frissítő indítást kínálva az Église Notre-Dame-nál. Délben erős tengeri szél fúj, így a réteges öltözködés elengedhetetlen a Manoir környékén. Délután az alacsonyan járó nap aranybarna fénybe vonja a kastélyok falait. 17:00 óra körül gyorsan besötétedik, így az Église Saint-Pierre kivilágított ablakai jelzik a téli túra végét.",
+            "ro": "Dimineața geroasă îmbracă Bréville într-o haină albă, oferind un început revigorant la Église Notre-Dame. La prânz, briza rece a mării impune purtarea unor haine groase în jurul conacului. După-amiaza, soarele palid scaldă castelele într-o lumină aurie de iarnă. În jurul orei 17:00 se întunecă rapid, iar ferestrele luminate ale Église Saint-Pierre marchează finalul călătoriei.",
+            "en": "The frosty morning dresses Bréville in white, offering a refreshing start at Église Notre-Dame. By noon, a stiff sea breeze blows, making warm layers essential while exploring near the manor. In the afternoon, the low sun bathes the castles in a golden winter light. Darkness falls quickly around 5:00 PM, and the lit windows of Église Saint-Pierre mark the end of your winter journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am frühen Morgen; die kühle Luft lässt die historischen Steine der Fassade besonders klar und detailreich erscheinen.",
+                "hu": "Élvezze a kora reggeli csendet; a hűvös téli levegőben a homlokzat történelmi kövei különösen tisztának és részletgazdagnak tűnnek.",
+                "ro": "Bucurați-vă de liniștea dimineții devreme; aerul rece face ca pietrele istorice ale fațadei să pară extrem de clare și detaliate.",
+                "en": "Enjoy the early morning silence; the crisp winter air makes the historic stones of the facade appear exceptionally clear and detailed."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir du Vau Février",
+                "hu": "Manoir du Vau Février",
+                "ro": "Manoir du Vau Février",
+                "en": "Manoir du Vau Février"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie einen winddichten Mantel, da das Anwesen auf einer Anhöhe liegt; die Aussicht auf die kahle Winterlandschaft ist hier faszinierend.",
+                "hu": "Viseljen szélálló kabátot, mivel a birtok nyitott területen fekszik; a kopár téli táj látványa innen nézve lenyűgözően puritán.",
+                "ro": "Purtați o haină rezistentă la vânt, deoarece conacul este expus; vederea asupra peisajului de iarnă golaș este fascinantă de aici.",
+                "en": "Wear a windproof coat as the manor sits in an exposed area; the view of the stark winter landscape is fascinating from this vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Vau Terteux",
+                "hu": "Château du Vau Terteux",
+                "ro": "Château du Vau Terteux",
+                "en": "Château du Vau Terteux"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel von Licht und Schatten auf den kalten Mauern; die tiefstehende Wintersonne betont die Wehrhaftigkeit des Schlosses.",
+                "hu": "Figyelje meg a fény és árnyék játékát a hideg falakon; az alacsonyan járó téli nap kiemeli a kastély védelmi jellegét és erejét.",
+                "ro": "Observați jocul de lumini și umbre pe zidurile reci; soarele de iarnă aflat la orizont accentuează caracterul defensiv al castelului.",
+                "en": "Observe the play of light and shadow on the cold walls; the low winter sun emphasizes the castle's defensive character and strength."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Longueville",
+                "hu": "Château de Longueville",
+                "ro": "Château de Longueville",
+                "en": "Château de Longueville"
+              },
+              "tip_5lang": {
+                "de": "Die entlaubten Bäume im Garten geben den Blick auf architektonische Details frei, die im Sommer oft hinter dem dichten Grün verborgen bleiben.",
+                "hu": "A kert lomb nélküli fái lehetővé teszik olyan építészeti részletek felfedezését, amelyek nyáron gyakran rejtve maradnak a sűrű zöld növényzet mögött.",
+                "ro": "Copacii desfrunziți din grădină dezvăluie detalii arhitecturale care vara sunt adesea ascunse în spatele vegetației verzi și dese.",
+                "en": "The leafless trees in the garden reveal architectural details that are often hidden behind dense green foliage during the summer months."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang, bevor der Frost anzieht; das warme Licht im Inneren bietet einen angenehmen Kontrast zur winterlichen Kälte.",
+                "hu": "Fejezze be a sétát, mielőtt beállna az esti fagy; a belső tér meleg fényei kellemes kontrasztot alkotnak a kinti téli hideggel.",
+                "ro": "Încheiați plimbarea înainte ca gerul să se intensifice; lumina caldă din interior oferă un contrast plăcut cu frigul iernii de afară.",
+                "en": "Finish your walk before the evening frost sets in; the warm light inside offers a pleasant contrast to the biting winter cold outside."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A délelőtt spirituálisan indul a Szent Péter-templomnál, mielőtt eltekerne a rejtélyes történelem előtti menhírhez. Délben két keréken élvezheti a helyi kúriák és templomok lenyűgöző építészetét. Délután az útvonal fenséges kastélyok mellett vezet a természetbe. A nap Bréville-sur-Mer tengerpartjának pihentető szellőjével és csodálatos naplementéjével zárul.",
         "ro": "Dimineața începe spiritual la Biserica Saint-Pierre înainte de a pedala spre misteriosul menhir preistoric. La prânz, bucurați-vă de arhitectura captivantă a conacelor și bisericilor locale pe două roți. După-amiaza, traseul vă duce pe lângă castele maiestuoase în natură. Ziua se încheie cu o briză relaxantă pe plaja din Bréville-sur-Mer.",
         "en": "The morning begins spiritually at Église Saint-Pierre before cycling to the mysterious prehistoric menhir. At noon, enjoy the captivating architecture of local manors and churches on two wheels. In the afternoon, the route leads you past majestic castles into nature. The day concludes with a relaxing sea breeze on the beach of Bréville-sur-Mer."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt bei der Église Saint-Pierre, während der Regen die Straßen glänzen lässt. Vorsicht bei der Pierre Aigüe, wo der Boden weich sein kann. Mittags bieten die Kirchen und Herrenhäuser trockene Pausenstationen für Mensch und Rad. Nachmittags fordern der Wind und die Nässe auf dem Weg zu den Schlössern Konzentration. Die Tour endet an der Küste von Bréville, wo die stürmische See ein wildes Naturschauspiel bietet.",
+            "hu": "A kerékpártúra az Église Saint-Pierre-nél indul, miközben az eső csillogóvá teszi az utat. Legyen óvatos a Pierre Aigüe környékén, ahol a talaj felázhat. Délben a templomok és udvarházak nyújtanak száraz pihenőt a bringásnak. Délután a szél és a nedvesség nagyobb figyelmet igényel a kastélyok felé vezető úton. A túra a parton ér véget, ahol a viharos tenger látványa kárpótol a nedves kilométerekért.",
+            "ro": "Turul pe bicicletă pornește de la Église Saint-Pierre, cu drumuri lucioase din cauza ploii. Atenție sporită la Pierre Aigüe, unde solul poate deveni moale. La prânz, bisericile și conacele oferă puncte de oprire uscate pentru biciclist. După-amiaza, vântul și umezeala necesită concentrare pe drumul spre castele. Turul se încheie pe coasta din Bréville, unde marea agitată oferă un spectacol natural sălbatic.",
+            "en": "The bike tour starts at Église Saint-Pierre with roads glistening from the rain. Be extra careful at Pierre Aigüe where the ground may be soft. By noon, the churches and manors provide dry rest stops for the cyclist. In the afternoon, wind and moisture require focus on the path to the castles. The tour ends at the Bréville coast, where the stormy sea offers a wild natural spectacle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie die Vorhalle, um Ihre Regenkleidung für die Weiterfahrt zu richten.",
+                "hu": "Parkolja le kerékpárját védett helyen, és használja az előcsarnokot, hogy megigazítsa esőfelszerelését a túra folytatása előtt.",
+                "ro": "Parcați bicicleta într-un loc protejat și folosiți pridvorul pentru a vă ajusta echipamentul de ploaie înainte de a pleca mai departe.",
+                "en": "Park your bike in a sheltered spot and use the porch to adjust your rain gear before continuing your coastal cycling journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit Pierre Aigüe",
+                "hu": "Menhir dit Pierre Aigüe",
+                "ro": "Menhir dit Pierre Aigüe",
+                "en": "Menhir dit Pierre Aigüe"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Absteigen auf nassem Gras; der prähistorische Stein wirkt im Regen besonders dunkel und beeindruckend in der Landschaft.",
+                "hu": "Vigyázzon a leszállásnál a nedves fűben; a prehisztorikus kő az esőben különösen sötétnek és monumentálisnak tűnik a tájban.",
+                "ro": "Atenție când coborâți de pe bicicletă pe iarba udă; menhirul preistoric pare extrem de întunecat și impunător în peisajul pluvios.",
+                "en": "Be careful when dismounting on wet grass; the prehistoric stone appears strikingly dark and monumental in the rainy landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Eine gute Gelegenheit, den Helm abzunehmen und kurz im Trockenen zu verschnaufen, während Sie die religiöse Kunst im Inneren bewundern.",
+                "hu": "Remek alkalom, hogy levegye a sisakot és tartson egy rövid pihenőt a szárazon, miközben megcsodálja a benti vallási művészeti alkotásokat.",
+                "ro": "O ocazie excelentă de a scoate casca și de a vă odihni scurt la uscat, admirând în același timp obiectele de artă religioasă.",
+                "en": "A great chance to take off your helmet and have a quick rest in the dry while admiring the religious art treasures inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir du Vau Février",
+                "hu": "Manoir du Vau Février",
+                "ro": "Manoir du Vau Février",
+                "en": "Manoir du Vau Février"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen nach der Abfahrt zum Manoir; der Regen kann die Bremsleistung auf den asphaltierten Wegen leicht beeinflussen.",
+                "hu": "Ellenőrizze a fékeket a kúria felé tartó lejtő után; az eső befolyásolhatja a féktávot az aszfaltozott utakon, legyen óvatos.",
+                "ro": "Verificați frânele după coborârea spre conac; ploaia poate influența performanța frânării pe drumurile asfaltate, fiți precaut.",
+                "en": "Check your brakes after the descent to the manor; the rain can slightly affect braking performance on the paved paths, so stay alert."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Vau Terteux",
+                "hu": "Château du Vau Terteux",
+                "ro": "Château du Vau Terteux",
+                "en": "Château du Vau Terteux"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad unter die hohen Bäume, um das Schloss aus der Ferne zu betrachten, ohne völlig im Regen stehen zu müssen.",
+                "hu": "Állítsa a kerékpárt a magas fák alá, hogy távolról szemlélhesse a kastélyt anélkül, hogy teljesen elázna a nyílt területen.",
+                "ro": "Așezați bicicleta sub copacii înalți pentru a admira castelul de la distanță fără a sta direct în ploaie pe câmp deschis.",
+                "en": "Place your bike under the tall trees to view the castle from a distance without having to stand directly in the open rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Longueville",
+                "hu": "Château de Longueville",
+                "ro": "Château de Longueville",
+                "en": "Château de Longueville"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie Pfützen auf dem Schlossgelände, da diese tiefer sein können als gedacht; nutzen Sie den Schotterweg für besseren Halt.",
+                "hu": "Kerülje el a tócsákat a kastély környékén, mert mélyebbek lehetnek a vártnál; a kavicsos út jobb tapadást biztosít a kerekeknek.",
+                "ro": "Evitați bălțile de pe domeniul castelului, pot fi mai adânci decât par; folosiți drumul cu pietriș pentru o aderență mai bună.",
+                "en": "Avoid puddles around the castle grounds as they may be deeper than expected; stick to the gravel path for better tire traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Bréville-sur-Mer",
+                "hu": "Bréville-sur-Mer",
+                "ro": "Bréville-sur-Mer",
+                "en": "Bréville-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt am Aussichtspunkt; der Blick auf die raue Nordsee im Regen ist der krönende, wenn auch nasse Abschluss der Tour.",
+                "hu": "Fejezze be a túrát a kilátópontnál; a zord északi tenger látványa az esőben méltó, bár nedves lezárása a megtett kilométereknek.",
+                "ro": "Încheiați tura la punctul de observație; vederea mării agitate sub ploaie este un final memorabil, deși umed, pentru traseul parcurs.",
+                "en": "End your ride at the viewpoint; the sight of the rough North Sea in the rain is a worthy, albeit wet, conclusion to your journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet frisch bei der Église Saint-Pierre. Vorsicht vor überfrierender Nässe in schattigen Kurven beim Menhir. Mittags wärmt die Bewegung auf dem Weg zum Manoir, während die klare Luft weite Sichten ermöglicht. Nachmittags ist Eile geboten, um die Schlösser vor Sonnenuntergang um 17:00 Uhr zu erreichen. Die Tour endet am Strand von Bréville, wo die winterliche Dämmerung den Himmel in Pastelltöne taucht.",
+            "hu": "A téli bringázás frissen indul az Église Saint-Pierre-nél. Vigyázzon a lefagyott részekre az árnyékos kanyarokban a Menhir felé. Délben a mozgás melegen tart a Manoir felé vezető úton, a tiszta levegő pedig messzi kilátást enged. Délután érdemes sietni, hogy a 17:00 órai naplemente előtt elérjük a kastélyokat. A túra a parton zárul, ahol a téli szürkület pasztellszínekbe öltözteti az eget.",
+            "ro": "Tura de iarnă pe bicicletă începe energic la Église Saint-Pierre. Atenție la porțiunile cu gheață în curbele umbrite spre Menhir. La prânz, mișcarea vă va ține de cald pe drumul spre conac, iar aerul curat permite vizibilitate maximă. După-amiaza grăbiți pasul pentru a vizita castelele înainte de apusul de la ora 17:00. Turul se încheie la plajă, unde amurgul de iarnă colorează cerul în tonuri pastelate.",
+            "en": "The winter bike tour starts briskly at Église Saint-Pierre. Watch out for icy patches in shaded corners on the way to the Menhir. By noon, the activity keeps you warm en route to the manor, while the clear air offers distant views. In the afternoon, hurry to reach the castles before the 5:00 PM sunset. The tour ends at the beach, where the winter twilight paints the sky in pastel hues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre",
+                "hu": "Église Saint-Pierre",
+                "ro": "Église Saint-Pierre",
+                "en": "Église Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Start Ihren Reifendruck; kalte Luft kann den Druck leicht mindern, was auf winterlichen Straßen die Fahrt erschwert.",
+                "hu": "Indulás előtt ellenőrizze a guminyomást; a hideg levegőben csökkenhet a nyomás, ami nehezebbé tenné a haladást a téli utakon.",
+                "ro": "Verificați presiunea în anvelope înainte de start; aerul rece poate scădea presiunea, îngreunând deplasarea pe drumurile de iarnă.",
+                "en": "Check your tire pressure before starting; cold air can reduce pressure, making it harder to pedal on the winter roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit Pierre Aigüe",
+                "hu": "Menhir dit Pierre Aigüe",
+                "ro": "Menhir dit Pierre Aigüe",
+                "en": "Menhir dit Pierre Aigüe"
+              },
+              "tip_5lang": {
+                "de": "Der Menhir in der frostigen Wiese ist ein tolles Motiv; tragen Sie Handschuhe, um beim Fotografieren nicht die Finger auszukühlen.",
+                "hu": "A zúzmarás réten álló menhir lenyűgöző látvány; viseljen kesztyűt, hogy fotózás közben ne hűljenek le az ujjai a fagyos szélben.",
+                "ro": "Menhirul în mijlocul pajiștii înghețate este un motiv foto excelent; purtați mănuși pentru a nu vă răci degetele în timp ce fotografiați.",
+                "en": "The menhir in the frosty meadow is a great photo subject; wear gloves to keep your fingers warm while taking pictures in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Bereich der Kirche für einen kurzen Energieriegel, um Ihre Kraftreserven für den nächsten Abschnitt zu füllen.",
+                "hu": "Használja ki a templom szélvédett környékét egy gyors energiaszelet elfogyasztására, hogy feltöltődjön a következő szakasz előtt.",
+                "ro": "Folosiți zona protejată de vânt a bisericii pentru a lua o gustare rapidă, refăcându-vă rezervele de energie pentru următoarea etapă.",
+                "en": "Use the wind-sheltered area of the church for a quick energy snack to replenish your reserves for the next leg of the journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir du Vau Février",
+                "hu": "Manoir du Vau Février",
+                "ro": "Manoir du Vau Février",
+                "en": "Manoir du Vau Février"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Sonne, die blenden kann; eine Sportsonnenbrille hilft, die Strecke zum Herrenhaus sicher zu überblicken.",
+                "hu": "Ügyeljen az alacsonyan járó napra, amely elvakíthat; egy napszemüveg sokat segít, hogy biztonságosan belássa az utat a kúria felé.",
+                "ro": "Atenție la soarele jos care vă poate orbi; o pereche de ochelari de soare vă va ajuta să parcurgeți drumul spre conac în siguranță.",
+                "en": "Watch out for the low sun which can be blinding; sports sunglasses will help you navigate the path to the manor safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Vau Terteux",
+                "hu": "Château du Vau Terteux",
+                "ro": "Château du Vau Terteux",
+                "en": "Château du Vau Terteux"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich nicht zu lange im Stehen auf, um nicht auszukühlen; die Architektur des Schlosses lässt sich auch gut im Vorbeifahren bewundern.",
+                "hu": "Ne álljon meg túl hosszú időre, nehogy átfázzon; a kastély lenyűgöző építészete lassabb tempójú eltekerés közben is remekül látható.",
+                "ro": "Nu staționați prea mult pentru a nu vă răci; arhitectura impresionantă a castelului poate fi admirată și în timp ce pedalați încet.",
+                "en": "Don't stop for too long to avoid getting chilled; the castle's grand architecture can be easily admired while cycling past at a slow pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Longueville",
+                "hu": "Château de Longueville",
+                "ro": "Château de Longueville",
+                "en": "Château de Longueville"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Lichter für den letzten Abschnitt; im Winter beginnt die Dämmerung früh, Sicherheit auf der Straße ist jetzt oberstes Gebot.",
+                "hu": "Ellenőrizze a lámpákat az utolsó szakasz előtt; télen korán kezdődik a szürkület, a láthatóság most a legfontosabb a biztonsághoz.",
+                "ro": "Verificați luminile pentru ultima etapă; iarna amurgul începe devreme, iar vizibilitatea este acum prioritară pentru siguranța dumneavoastră.",
+                "en": "Check your lights for the final leg; twilight starts early in winter, and being visible is now the top priority for your safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Bréville-sur-Mer",
+                "hu": "Bréville-sur-Mer",
+                "ro": "Bréville-sur-Mer",
+                "en": "Bréville-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Der Strandbesuch ist kurz und knackig; genießen Sie die klare Meeresluft, bevor die winterliche Kälte Sie zur Rückkehr mahnt.",
+                "hu": "A tengerparti látogatás legyen rövid; élvezze a friss, tiszta sós levegőt, mielőtt a téli fagy gyorsan visszatérésre ösztönözné.",
+                "ro": "Vizita la plajă va fi scurtă; bucurați-vă de aerul sărat și curat înainte ca gerul iernii să vă îndemne spre întoarcere.",
+                "en": "Keep the beach visit short; enjoy the crisp, salty sea air before the winter chill prompts you to head back for warmth."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +917,280 @@
         "hu": "Autóstúrája délen kezdődik a bájos Saint-Pair templomnál, és további csendes falusi templomokhoz vezet. A delet a menhír hatalmas kőtömbjei és történelmi birtokok fémjelzik. Délután átszelheti a vidéket, hogy teljes mértékben megcsodálhassa a pompás kastélyokat. Az este lágyan, Bréville-sur-Mer nyugodt partvonalánál ér véget kellemes kikapcsolódással.",
         "ro": "Turul cu mașina începe în sud cu fermecătoarea Biserică Saint-Pair și vă duce la alte biserici liniștite din sat. Prânzul este marcat de blocurile masive de piatră ale menhirului și de proprietățile istorice. După-amiaza veți traversa peisajul rural pentru a admira castelele magnifice. Seara se încheie blând pe coasta liniștită de la Bréville-sur-Mer.",
         "en": "Your driving tour starts in the south with the charming Église Saint-Pair and leads you to other quiet village churches. Noon is marked by the massive stone blocks of the menhir and historic estates. In the afternoon, cross the countryside to fully admire the magnificent castles. The evening fades out gently on the tranquil coastline at Bréville-sur-Mer."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet den Komfort, die Kirchen von Saint-Pair und Lourdes trocken zu erreichen. Der Regen peitscht gegen die Scheiben, während Sie bequem zum Menhir und Manoir fahren. Mittags ist das Auto der ideale Rückzugsort vor den Schauern. Nachmittags glänzen die Schlösser nass in der Landschaft. Die Tour endet am Strand von Bréville, wo Sie das Toben der Wellen gemütlich vom Auto aus beobachten können.",
+            "hu": "Az autós túra kényelmét élvezve szárazon érheti el Saint-Pair és Lourdes templomait. Az eső az ablakon kopog, miközben Ön komfortosan halad a Menhir és a Manoir felé. Délben az autó tökéletes menedék a záporok elől két megálló között. Délután a kastélyok vizes falai csillognak a tájban. A túra a parton zárul, ahol az autó melegéből csodálhatja a tenger hullámait.",
+            "ro": "Turul cu mașina oferă confortul de a vizita bisericile din Saint-Pair și Lourdes fără a vă uda. Ploaia bate în geam în timp ce conduceți relaxat spre Menhir și conac. La prânz, mașina este refugiul ideal între reprizele de ploaie. După-amiaza, castelele lucesc sub precipitații în peisajul normand. Turul se încheie la plaja din Bréville, admirând valurile din interiorul vehiculului.",
+            "en": "The car tour offers the comfort of reaching the churches of Saint-Pair and Lourdes while staying dry. Rain lashes against the windows as you drive comfortably toward the Menhir and manor. At noon, the car is the perfect sanctuary between showers. In the afternoon, the wet castles glisten in the landscape. The tour ends at Bréville beach, where you can watch the crashing waves from the warmth of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pair",
+                "hu": "Église Saint-Pair",
+                "ro": "Église Saint-Pair",
+                "en": "Église Saint-Pair"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um mit dem Schirm schnell ins Trockene zu kommen; das Interieur bietet Schutz vor dem stärksten Guss.",
+                "hu": "Használja a közeli parkolót, hogy esernyővel gyorsan a szárazra érjen; a templom belső tere tökéletes védelmet nyújt a legerősebb zápor idején is.",
+                "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost cu umbrela; interiorul oferă protecție împotriva celor mai puternice averse.",
+                "en": "Use the nearby parking to reach the dry interior quickly with an umbrella; the church offers great protection even during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de Lourdes",
+                "hu": "Église Notre-Dame de Lourdes",
+                "ro": "Église Notre-Dame de Lourdes",
+                "en": "Église Notre-Dame de Lourdes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf Pfützen; die Kirche ist ein friedlicher Ort, um dem Prasseln des Regens auf dem Dach zu lauschen.",
+                "hu": "Vigyázzon a tócsákra kiszálláskor; a templom békés helyszín, ahol hallgathatja az eső kopogását a tetőn, miközben a belső díszítést figyeli.",
+                "ro": "Atenție la bălți când coborâți din mașină; biserica este un loc liniștit unde puteți asculta ploaia bătând în acoperiș în timp ce admirați interiorul.",
+                "en": "Watch out for puddles when getting out; the church is a peaceful spot to listen to the rain drumming on the roof while admiring the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Clair",
+                "hu": "Église Saint-Clair",
+                "ro": "Église Saint-Clair",
+                "en": "Église Saint-Clair"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Eingang lohnt sich für diese kleine architektonische Perle, die im Regen besonders beschaulich wirkt.",
+                "hu": "Egy rövid sprint az autótól a bejáratig megéri ezért a kis építészeti gyöngyszemért, amely az esőben különösen meghitt hangulatot áraszt.",
+                "ro": "Un scurt sprint de la mașină până la intrare merită pentru această mică bijuterie arhitecturală care pare foarte pitorească sub ploaie.",
+                "en": "A short sprint from the car to the entrance is worth it for this small architectural gem, which feels especially cozy in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit Pierre Aigüe",
+                "hu": "Menhir dit Pierre Aigüe",
+                "ro": "Menhir dit Pierre Aigüe",
+                "en": "Menhir dit Pierre Aigüe"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Menhir direkt vom Fenster aus, wenn der Regen zu stark ist; seine Silhouette wirkt vor grauem Himmel sehr markant.",
+                "hu": "Szemlélje a menhirt közvetlenül az autóablakból, ha túl erősen esik; sötét sziluettje nagyon markánsan rajzolódik ki a szürke égbolt előtt.",
+                "ro": "Observați menhirul direct de la fereastra mașinii dacă plouă prea tare; silueta sa pare foarte pronunțată pe fundalul cerului cenușiu.",
+                "en": "Observe the menhir directly from the car window if the rain is too heavy; its silhouette looks very striking against the grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir Sainte-Marie",
+                "hu": "Manoir Sainte-Marie",
+                "ro": "Manoir Sainte-Marie",
+                "en": "Manoir Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem Zufahrtsweg, da sich Wasser sammeln kann; das Manoir bietet im Regen einen wunderbar historischen Anblick.",
+                "hu": "Hajtson lassan a felázott bekötőúton; a kúria az esőben csodálatos történelmi látványt nyújt, érdemes a kocsiból is megfigyelni részleteit.",
+                "ro": "Conduceți încet pe drumul de acces unde se poate acumula apă; conacul oferă o priveliște istorică minunată chiar și pe timp de ploaie.",
+                "en": "Drive slowly on the access road as water can accumulate; the manor offers a wonderful historic sight even through the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Longueville",
+                "hu": "Château de Longueville",
+                "ro": "Château de Longueville",
+                "en": "Château de Longueville"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als Basis für kurze Erkundungsgänge zum Schlossgelände; die feuchten Steine bringen die Textur des Baus zur Geltung.",
+                "hu": "Használja az autót bázisként a kastély környéki rövid felfedezőutakhoz; a nedves kövek még jobban kiemelik az épület textúráit és színeit.",
+                "ro": "Folosiți mașina ca bază pentru scurte explorări în jurul castelului; pietrele umede scot în evidență textura și culorile construcției.",
+                "en": "Use the car as a base for short explorations around the castle; the damp stones bring out the unique texture and colors of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Vau Terteux",
+                "hu": "Château du Vau Terteux",
+                "ro": "Château du Vau Terteux",
+                "en": "Château du Vau Terteux"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie den Scheibenwischer kurz ab, um das Schloss in aller Ruhe zu betrachten; die Atmosphäre im Regen ist hier sehr authentisch.",
+                "hu": "Állítsa le egy pillanatra az ablaktörlőt, hogy nyugodtan szemlélhesse a kastélyt; az esős atmoszféra itt különösen hiteles és megkapó.",
+                "ro": "Opriți ștergătoarele pentru un moment pentru a admira castelul în liniște; atmosfera ploioasă de aici este foarte autentică și captivantă.",
+                "en": "Stop the wipers for a moment to admire the castle in peace; the rainy atmosphere here is very authentic and captivating to witness."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine letzte Pause im Trockenen; genießen Sie die sakrale Stille, während draußen der Regen die Straßen wäscht.",
+                "hu": "Ideális hely egy utolsó száraz pihenőre; élvezze a szakrális csendet, miközben odakint az eső mossa az utcákat és a történelmi falakat.",
+                "ro": "Un loc ideal pentru o ultimă pauză la uscat; bucurați-vă de liniștea sacră în timp ce afară ploaia spală străzile și zidurile vechi.",
+                "en": "An ideal spot for one last dry break; enjoy the sacred silence while outside the rain washes the streets and the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Bréville-sur-Mer",
+                "hu": "Bréville-sur-Mer",
+                "ro": "Bréville-sur-Mer",
+                "en": "Bréville-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Strandparkplatz; der Blick auf das graue Meer und die Gischt ist vom warmen Wageninneren aus besonders entspannend.",
+                "hu": "Hajtson le egészen a tengerparti parkolóig; a szürke tenger és a habzó hullámok látványa a meleg autóból nézve különösen pihentető élmény.",
+                "ro": "Conduceți până în parcarea de la plajă; vederea mării cenușii și a valurilor înspumate este relaxantă din interiorul cald al mașinii.",
+                "en": "Drive right down to the beach parking; watching the grey sea and foamy waves from the warm interior of your car is truly relaxing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt entspannt an der Église Saint-Pair bei klarem, kaltem Wetter. Die Fahrt führt durch die frostige Landschaft zu den historischen Menhiren und Manoirs. Mittags bietet die Heizung im Wagen wohlige Wärme zwischen den Besichtigungen. Nachmittags taucht das Winterlicht die Schlösser in sanfte Farben. Da es um 17:00 Uhr dunkel wird, endet die Tour stimmungsvoll in der Dämmerung an der Küste von Bréville.",
+            "hu": "A téli autós túra nyugodtan indul az Église Saint-Pair-nél tiszta, hideg időben. Az út zúzmarás tájakon át vezet a történelmi Menhirhez és a kastélyokhoz. Délben a kocsi fűtése kellemes meleget ad a megállók között. Délután a téli fények lágy színekbe vonják a várfalakat. Mivel 17:00-kor sötétedik, a túra hangulatos szürkületben ér véget a tengerparton, Bréville határában.",
+            "ro": "Turul de iarnă cu mașina începe relaxat la Église Saint-Pair, pe o vreme rece și senină. Drumul șerpuiește prin peisaje înghețate spre menhirul istoric și conace. La prânz, căldura din mașină oferă confort între vizite. După-amiaza, lumina iernii scaldă castelele în culori blânde. Deoarece se întunecă la ora 17:00, turul se încheie atmosferic la amurg pe coasta din Bréville.",
+            "en": "The winter car tour starts relaxed at Église Saint-Pair in clear, cold weather. The drive leads through frosty landscapes to the historic Menhir and manors. At noon, the car's heater provides cozy warmth between sightseeing stops. In the afternoon, the winter light bathes the castles in soft colors. As darkness falls at 5:00 PM, the tour ends atmospherically at twilight on the Bréville coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pair",
+                "hu": "Église Saint-Pair",
+                "ro": "Église Saint-Pair",
+                "en": "Église Saint-Pair"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um das klare Winterlicht für die ersten Fotos der historischen Fassade optimal auszunutzen; die Luft ist jetzt besonders rein.",
+                "hu": "Induljon korán, hogy kihasználja a tiszta téli fényeket a történelmi homlokzat fotózásához; a levegő ilyenkor különösen friss és tiszta.",
+                "ro": "Porniți devreme pentru a profita de lumina clară de iarnă la fotografierea fațadei istorice; aerul este acum extrem de proaspăt și curat.",
+                "en": "Start early to take advantage of the clear winter light for photos of the historic facade; the air is exceptionally fresh and crisp now."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de Lourdes",
+                "hu": "Église Notre-Dame de Lourdes",
+                "ro": "Église Notre-Dame de Lourdes",
+                "en": "Église Notre-Dame de Lourdes"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für spirituelle Wärme; das Innere der Kirche wirkt im Winterlicht besonders andächtig und ruhig.",
+                "hu": "Rövid megálló a lelki melegségért; a templom belseje a téli fényekben különösen áhítatosnak és csendesnek tűnik, érdemes betérni.",
+                "ro": "O scurtă oprire pentru căldură spirituală; interiorul bisericii pare deosebit de pios și liniștit în lumina palidă a iernii.",
+                "en": "A short stop for spiritual warmth; the interior of the church looks especially devout and peaceful in the soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Clair",
+                "hu": "Église Saint-Clair",
+                "ro": "Église Saint-Clair",
+                "en": "Église Saint-Clair"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die kleine Kirche, die oft von Raureif überzogen ist; ein wahres Postkartenmotiv im normannischen Winter.",
+                "hu": "Élvezze a kis templom látványát, amelyet gyakran zúzmara borít; igazi képeslapra illő téli motívum ez a normandiai tájban.",
+                "ro": "Bucurați-vă de vederea micii biserici, adesea acoperită de chiciură; un adevărat motiv de carte poștală în iarna normandă.",
+                "en": "Enjoy the sight of the small church, often covered in hoarfrost; a true postcard-perfect winter motif in the Norman landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Menhir dit Pierre Aigüe",
+                "hu": "Menhir dit Pierre Aigüe",
+                "ro": "Menhir dit Pierre Aigüe",
+                "en": "Menhir dit Pierre Aigüe"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glätte auf dem kleinen Parkplatz; der prähistorische Stein in der kahlen Landschaft wirkt im Winter fast mystisch.",
+                "hu": "Ügyeljen a csúszós talajra a kis parkolóban; a prehisztorikus kő a kopár téli tájban szinte misztikus hatást kelt, érdemes megállni.",
+                "ro": "Atenție la porțiunile alunecoase din mica parcare; menhirul preistoric pare aproape mistic în peisajul de iarnă golaș.",
+                "en": "Watch out for icy spots in the small parking area; the prehistoric stone looks almost mystical in the stark winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir Sainte-Marie",
+                "hu": "Manoir Sainte-Marie",
+                "ro": "Manoir Sainte-Marie",
+                "en": "Manoir Sainte-Marie"
+              },
+              "tip_5lang": {
+                "de": "Das Manoir zeigt im Winter seine klare Struktur ohne das Laub der Bäume; nutzen Sie die Wärme des Wagens für die Anfahrt.",
+                "hu": "A kúria télen mutatja meg igazán tiszta szerkezetét a lombok nélkül; élvezze az autó melegét, miközben megközelíti a történelmi épületet.",
+                "ro": "Conacul își dezvăluie structura clară iarna, fără frunziș; bucurați-vă de căldura mașinii în timp ce vă apropiați de clădirea istorică.",
+                "en": "The manor reveals its clear architectural structure in winter without foliage; enjoy the car's warmth while approaching the historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Longueville",
+                "hu": "Château de Longueville",
+                "ro": "Château de Longueville",
+                "en": "Château de Longueville"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne betont die Details der Schlossmauer; machen Sie Ihre Fotos direkt nach der Ankunft, bevor das Licht schwindet.",
+                "hu": "Az alacsonyan járó nap kiemeli a kastélyfal részleteit; készítse el fotóit rögtön érkezés után, mielőtt a téli fények elhalványulnának.",
+                "ro": "Soarele jos accentuează detaliile zidului castelului; faceți fotografiile imediat după sosire, înainte ca lumina să dispară.",
+                "en": "The low sun emphasizes the details of the castle walls; take your photos right after arrival before the winter light fades away."
+              }
+            },
+            {
+              "name": {
+                "de": "Château du Vau Terteux",
+                "hu": "Château du Vau Terteux",
+                "ro": "Château du Vau Terteux",
+                "en": "Château du Vau Terteux"
+              },
+              "tip_5lang": {
+                "de": "Ein beeindruckendes Schloss, das im Winterlicht besonders trutzig wirkt; verweilen Sie kurz im Wagen, um den Anblick in Ruhe zu genießen.",
+                "hu": "Lenyűgöző kastély, amely a téli fényekben különösen zordnak és erősnek tűnik; maradjon kicsit a kocsiban, és élvezze a látványt nyugodtan.",
+                "ro": "Un castel impresionant care pare deosebit de robust în lumina iernii; zăboviți puțin în mașină pentru a admira priveliștea în liniște.",
+                "en": "An impressive castle that looks especially sturdy in the winter light; stay in the car for a moment to enjoy the view in peace and warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame",
+                "hu": "Église Notre-Dame",
+                "ro": "Église Notre-Dame",
+                "en": "Église Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das schwindende Licht für eine stimmungsvolle Besichtigung; die Atmosphäre im Inneren ist im Winter besonders friedlich.",
+                "hu": "Használja ki a fogyatkozó fényeket egy hangulatos látogatáshoz; a belső tér atmoszférája télen különösen békés és megnyugtató.",
+                "ro": "Profitați de lumina care scade pentru o vizită atmosferică; atmosfera din interior este deosebit de pașnică pe timpul iernii.",
+                "en": "Take advantage of the fading light for an atmospheric visit; the interior ambiance is especially peaceful and serene during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Bréville-sur-Mer",
+                "hu": "Bréville-sur-Mer",
+                "ro": "Bréville-sur-Mer",
+                "en": "Bréville-sur-Mer"
+              },
+              "tip_5lang": {
+                "de": "Die blaue Stunde am Strand ist im Winter magisch; beobachten Sie den Sonnenuntergang über dem Meer bequem durch die Windschutzscheibe.",
+                "hu": "A kék óra a tengerparton télen varázslatos; figyelje a naplementét a tenger felett kényelmesen, az autó szélvédőjén keresztül.",
+                "ro": "Ora albastră la plajă este magică iarna; observați apusul soarelui peste mare confortabil, prin parbrizul mașinii dumneavoastră.",
+                "en": "The blue hour at the beach is magical in winter; watch the sunset over the sea comfortably through your car's windshield."
+              }
+            }
+          ]
+        }
       }
     }
   }

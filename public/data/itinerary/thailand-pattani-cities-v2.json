@@ -160,6 +160,196 @@
         "hu": "A reggel lágy ébredést hoz Pattani központjában, a Központi Mecset nagyszerűségével kezdve. Ezután a közeli békés buddhista templomokat fedezzük fel. Délben a kultúrák spirituális találkozásánál, a Városi Oszlopszentélynél időzünk. A délutánt Chao Mae Lim Ko Niao élénk kínai örökségének szenteljük. Az estét a helyi templomok békés és csendes hangulata zárja.",
         "ro": "Dimineața aduce o trezire blândă în centrul orașului Pattani, începând cu măreția Moscheii Centrale. Apoi explorăm temple budiste liniștite aflate la câțiva pași. La amiază ne îndreptăm spre intersecția spirituală a culturilor de la Altarul Stâlpului Orașului. După-amiaza este dedicată moștenirii chinezești a lui Chao Mae Lim Ko Niao. Seara se încheie cu reflecții la templele locale.",
         "en": "Morning brings a gentle awakening to Pattani's core, starting with the grandeur of the Central Mosque. We then explore serene Buddhist temples just a short walk away. Midday draws us into the spiritual intersection of cultures at the City Pillar Shrine. Afternoon is dedicated to the vibrant Chinese heritage of Chao Mae Lim Ko Niao. The evening concludes with peaceful reflections at local wats."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Zentralmoschee einen trockenen Zufluchtsort vor tropischen Güssen. Mittags navigieren Sie unter einem Schirm durch die historischen Gassen, während die Schreine Schutz bieten. Am Nachmittag laden die Tempelhallen zum Verweilen im Trockenen ein. Der Abend endet bei kühlem Regen, wobei die nassen Straßen die bunten Lichter der Stadt stimmungsvoll reflektieren.",
+            "hu": "Reggel a Központi Mecset tágas belső tere nyújt menedéket a trópusi eső elől. Délben esernyővel felszerelkezve haladjon a szentélyek között, kihasználva a fedett részeket. Délután a templomok csarnokai tökéletes helyszínt biztosítanak a pihenésre. Az este a vizes aszfalton tükröződő városi fényekkel zárul, ami a hűvös csapadék ellenére is hangulatos látvány.",
+            "ro": "Dimineața, Moscheea Centrală oferă un refugiu uscat împotriva ploilor tropicale. La prânz, navigați cu umbrela prin străzile istorice, profitând de adăpostul oferit de sanctuare. După-amiaza, halele templelor sunt ideale pentru a rămâne la adăpost. Seara se încheie cu reflexii spectaculoase ale luminilor pe asfaltul umed, oferind un cadru urban deosebit sub ploaia răcoroasă.",
+            "en": "In the morning, the Central Mosque provides a dry sanctuary from tropical downpours. At noon, navigate the historic alleys with an umbrella, using the shrines for cover. In the afternoon, the temple halls are perfect for staying dry while resting. The evening concludes with city lights reflecting on the wet pavement, creating a moody atmosphere despite the cooling rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pattani Zentralmoschee",
+                "hu": "Pattani Központi Mecset",
+                "ro": "Moscheea Centrală Pattani",
+                "en": "Pattani Central Mosque"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die prächtige Architektur vom trockenen Inneren aus und achten Sie auf den glatten Marmorboden im Eingangsbereich, der bei Nässe sehr rutschig wird.",
+                "hu": "Csodálja meg a pompás építészetet a száraz belső térből, és ügyeljen a bejáratnál a vizes márványpadlóra, amely az esőben rendkívül csúszóssá válik.",
+                "ro": "Admirați arhitectura magnifică din interiorul uscat și aveți grijă la podeaua de marmură de la intrare, care devine foarte alunecoasă pe timp de ploaie.",
+                "en": "Admire the magnificent architecture from the dry interior and watch your step on the marble floors near the entrance, which become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Tani Narasamoson",
+                "hu": "Wat Tani Narasamoson",
+                "ro": "Wat Tani Narasamoson",
+                "en": "Wat Tani Narasamoson"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die überdachten Gänge des Tempels, um trocken zu bleiben, und beobachten Sie, wie der Regen von den verzierten Dächern in den Garten rinnt.",
+                "hu": "Használja a templom fedett folyosóit, hogy szárazon maradjon, és figyelje meg, ahogy az esővíz látványosan csorog le a díszes tetőszerkezetekről a kertbe.",
+                "ro": "Folosiți coridoarele acoperite ale templului pentru a rămâne uscat și observați cum ploaia se scurge spectaculos de pe acoperișurile ornamentate în grădină.",
+                "en": "Use the temple's covered walkways to stay dry and watch how the rainwater pours dramatically from the ornate roof structures into the surrounding garden."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Pakistani Moschee",
+                "hu": "Masjid Pakistani Mecset",
+                "ro": "Moscheea Pakistani",
+                "en": "Masjid Pakistani Mosque"
+              },
+              "tip_4lang": {
+                "de": "Die kleine Moschee bietet schnellen Schutz; stellen Sie Ihre nassen Schuhe ordentlich in ein Regal, um den Innenraum für alle Besucher sauber zu halten.",
+                "hu": "A kis mecset gyors menedéket nyújt a zápor elől; helyezze vizes cipőit a polcra, hogy a belső tér tiszta és száraz maradjon minden látogató számára.",
+                "ro": "Mica moschee oferă un adăpost rapid împotriva ploii; așezați pantofii uzi pe raft pentru a menține interiorul curat și uscat pentru toți vizitatorii.",
+                "en": "The small mosque offers quick shelter from the rain; place your wet shoes on the rack to keep the interior clean and dry for all visitors to enjoy."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani City Pillar Schrein",
+                "hu": "Pattani Városi Oszlopszentély",
+                "ro": "Altarul Stâlpului Orașului Pattani",
+                "en": "Pattani City Pillar Shrine"
+              },
+              "tip_4lang": {
+                "de": "Der Schrein ist ein schöner Ort für eine kurze Pause; warten Sie unter dem Dach einen heftigen Schauer ab, bevor Sie zum nächsten Ziel weitergehen.",
+                "hu": "A szentély szép hely egy rövid pihenőre; várja meg a tető alatt a hevesebb zápor végét, mielőtt továbbindulna a következő városi megálló felé.",
+                "ro": "Sanctuarul este un loc bun pentru o pauză scurtă; așteptați sub acoperiș trecerea averselor puternice înainte de a continua spre următoarea destinație.",
+                "en": "The shrine is a nice spot for a short break; wait under the roof for heavy showers to pass before continuing your walk to the next city landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Mae Lim Ko Niao Schrein",
+                "hu": "Chao Mae Lim Ko Niao Szentély",
+                "ro": "Altarul Chao Mae Lim Ko Niao",
+                "en": "Chao Mae Lim Ko Niao Shrine"
+              },
+              "tip_4lang": {
+                "de": "Die leuchtend roten Lampions wirken bei Regen besonders intensiv; tragen Sie festes Schuhwerk, da die Steinstufen zum Schrein rutschig sein können.",
+                "hu": "A lángvörös lámpások esőben is különleges látványt nyújtanak; viseljen tapadós talpú cipőt, mert a szentély kőlépcsői vizesen csúszóssá válhatnak.",
+                "ro": "Lampioanele roșii strălucitoare arată spectaculos în ploaie; purtați încălțăminte aderentă, deoarece treptele de piatră pot deveni alunecoase când sunt ude.",
+                "en": "The bright red lanterns look particularly vivid in the rain; wear shoes with good grip as the stone steps to the shrine can become quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Nikorn Chanaram",
+                "hu": "Wat Nikorn Chanaram",
+                "ro": "Wat Nikorn Chanaram",
+                "en": "Wat Nikorn Chanaram"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie Ihre Tour in der Ruhe der Tempelhalle und nutzen Sie den überdachten Bereich, um Ihre Regenbekleidung für den Rückweg zu richten.",
+                "hu": "Zárja a túrát a templomcsarnok nyugalmában, és használja a fedett területet, hogy rendezze esőfelszerelését, mielőtt visszatérne a szállására.",
+                "ro": "Încheiați turul în liniștea halei templului și folosiți zona acoperită pentru a vă aranja echipamentul de ploaie înainte de a pleca spre cazare.",
+                "en": "End your tour in the tranquility of the temple hall and use the covered area to adjust your rain gear before heading back to your accommodation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einer erfrischenden Brise bei der Zentralmoschee. Mittags ist das Wandern zwischen den Tempeln ohne die extreme Hitze sehr angenehm. Nutzen Sie das milde Licht des Nachmittags für Fotos, bevor gegen 17:00 Uhr die Sonne untergeht. Der Abend wird kühl, was den Spaziergang durch das beleuchtete Pattani besonders erfrischend macht.",
+            "hu": "A reggel frissítő szellővel indul a Központi Mecsetnél. Délben a templomok közötti séta a tikkasztó hőség nélkül kifejezetten kellemes és könnyed. Használja ki a délutáni lágy fényeket a fotózáshoz, mielőtt 17:00 körül lenyugszik a nap. Az este hűvösebb lesz, így a kivilágított Pattani utcáin tett séta igazán felfrissítő élmény.",
+            "ro": "Dimineața începe cu o briză revigorantă la Moscheea Centrală. La prânz, plimbarea între temple este foarte plăcută fără căldura extremă de vară. Profitați de lumina blândă a după-amiezii pentru fotografii înainte de apusul de la ora 17:00. Seara devine răcoroasă, făcând plimbarea prin Pattani iluminat foarte reconfortantă.",
+            "en": "The morning starts with a refreshing breeze at the Central Mosque. At noon, walking between temples is pleasant and easy without the intense tropical heat. Take advantage of the soft afternoon light for photos before the sun sets around 17:00. The evening turns cool, making a walk through the lit-up streets of Pattani very refreshing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pattani Zentralmoschee",
+                "hu": "Pattani Központi Mecset",
+                "ro": "Moscheea Centrală Pattani",
+                "en": "Pattani Central Mosque"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die kühle Morgenluft im offenen Hof der Moschee; die milde Wintersonne macht den Aufenthalt im Freien heute besonders angenehm.",
+                "hu": "Élvezze a hűvös reggeli levegőt a mecset nyitott udvarán; az enyhe téli napsütés különösen kellemessé teszi a szabadtéri tartózkodást ezen a napon.",
+                "ro": "Bucurați-vă de aerul răcoros al dimineții în curtea deschisă a moscheii; soarele blând de iarnă face șederea în aer liber foarte plăcută astăzi.",
+                "en": "Enjoy the cool morning air in the mosque's open courtyard; the mild winter sun makes staying outdoors particularly pleasant during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Tani Narasamoson",
+                "hu": "Wat Tani Narasamoson",
+                "ro": "Wat Tani Narasamoson",
+                "en": "Wat Tani Narasamoson"
+              },
+              "tip_4lang": {
+                "de": "Die angenehmen Temperaturen laden dazu ein, die feinen architektonischen Details der Tempelgebäude ohne Zeitdruck unter freiem Himmel zu bewundern.",
+                "hu": "A kellemes hőmérséklet arra csábít, hogy időnyomás nélkül, a szabad ég alatt csodálja meg a templomépületek finom építészeti részleteit.",
+                "ro": "Temperaturile plăcute vă invită să admirați detaliile arhitecturale fine ale clădirilor templului sub cerul liber, fără graba cauzată de căldură.",
+                "en": "The comfortable temperatures invite you to admire the fine architectural details of the temple buildings under the open sky without any rush."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Pakistani Moschee",
+                "hu": "Masjid Pakistani Mecset",
+                "ro": "Moscheea Pakistani",
+                "en": "Masjid Pakistani Mosque"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Besuch in dieser schlichten Moschee ist ideal, um die ruhige Atmosphäre der kühlen Mittagszeit in diesem Stadtviertel aufzusaugen.",
+                "hu": "Egy rövid látogatás ebben az egyszerű mecsetben tökéletes alkalom arra, hogy magába szívja a környék nyugodt hangulatát a hűvös délidőben.",
+                "ro": "O scurtă vizită la această moschee simplă este ideală pentru a absorbi atmosfera liniștită a cartierului în timpul prânzului răcoros.",
+                "en": "A short visit to this simple mosque is a perfect way to soak up the quiet atmosphere of the neighborhood during the cool midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani City Pillar Schrein",
+                "hu": "Pattani Városi Oszlopszentély",
+                "ro": "Altarul Stâlpului Orașului Pattani",
+                "en": "Pattani City Pillar Shrine"
+              },
+              "tip_4lang": {
+                "de": "Der Schrein liegt im Freien; nutzen Sie die milden Temperaturen für ein paar zusätzliche Fotos der goldenen Details in der klaren Winterluft.",
+                "hu": "A szentély a szabadban található; használja ki az enyhe időt, hogy több fotót készítsen az aranyozott részletekről a tiszta téli levegőben.",
+                "ro": "Sanctuarul este situat în aer liber; profitați de vremea blândă pentru a face mai multe fotografii detaliilor aurite în aerul curat de iarnă.",
+                "en": "The shrine is located outdoors; take advantage of the mild weather to take extra photos of the gilded details in the clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Mae Lim Ko Niao Schrein",
+                "hu": "Chao Mae Lim Ko Niao Szentély",
+                "ro": "Altarul Chao Mae Lim Ko Niao",
+                "en": "Chao Mae Lim Ko Niao Shrine"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie den Schrein am frühen Nachmittag, wenn das Sonnenlicht flacher einfällt und die kulturellen Symbole besonders plastisch hervorhebt.",
+                "hu": "Látogasson el a szentélyhez kora délután, amikor a napfény alacsonyabb szögből érkezik, és különösen szépen emeli ki a kulturális szimbólumokat.",
+                "ro": "Vizitați sanctuarul după-amiaza devreme, când lumina soarelui cade sub un unghi mai mic, evidențiind frumos simbolurile culturale locale.",
+                "en": "Visit the shrine in the early afternoon when the sunlight hits at a lower angle, beautifully highlighting the local cultural symbols."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Nikorn Chanaram",
+                "hu": "Wat Nikorn Chanaram",
+                "ro": "Wat Nikorn Chanaram",
+                "en": "Wat Nikorn Chanaram"
+              },
+              "tip_4lang": {
+                "de": "Planen Sie Ihren Besuch vor 17:00 Uhr ein, da es im Winter früh dunkel wird; die Tempelanlage wirkt in der Abenddämmerung sehr mystisch.",
+                "hu": "Tervezze látogatását 17:00 előtt, mivel télen korán sötétedik; a templomkomplexum a szürkületben rendkívül misztikus látványt nyújt.",
+                "ro": "Planificați vizita înainte de ora 17:00, deoarece se întunecă devreme iarna; complexul templului arată foarte mistic în lumina amurgului.",
+                "en": "Plan your visit before 17:00 as it gets dark early in winter; the temple complex looks incredibly mystical in the gathering twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpártúránkat a történelmi Wat Lak Mueangnál kezdjük, majd a részletgazdag Városi Oszlopszentély felé tekerünk. A délelőtt a helyi vallásosság mély rétegeit tárja fel. Délben a buddhista templomok és a lenyűgöző Központi Mecset építészeti csodáit kötjük össze. Délután keletre, a modern Pattani Jaya Mecset felé tekerünk. Az estét a nyüzsgő éjszakai piacon koronázzuk meg.",
         "ro": "Începem turul cu bicicleta la istoricul Wat Lak Mueang, pedalând lin spre complexul Altarului Stâlpului Orașului. Dimineața dezvăluie straturile profunde ale devotamentului local. La amiază legăm minunile arhitecturale ale templelor budiste și ale Moscheii Centrale. După-amiaza, mergem spre est către moderna Moschee Pattani Jaya. Seara culminează la animata Piață de Noapte.",
         "en": "We begin our cycling tour at the historic Wat Lak Mueang, rolling smoothly toward the intricate City Pillar Shrine. The morning pedal reveals rich layers of local devotion. Midday finds us bridging the architectural marvels of Buddhist temples and the majestic Central Mosque. In the afternoon, we ride east to the modern Pattani Jaya Mosque. Evening culminates in the lively Night Market."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert das Radfahren auf nassen Straßen erhöhte Vorsicht, besonders bei den Tempeln. Mittags sind kurze Fahrten zwischen überdachten Stopps ideal, um dem Regen zu entkommen. Am Nachmittag bietet die Fahrt zur Jaya-Moschee eine Abkühlung durch den Fahrtwind und Regen. Der Abend auf dem Nachtmarkt ist trotz Pfützen lebendig, da viele Stände überdacht sind.",
+            "hu": "Reggel a vizes utakon való biciklizés fokozott óvatosságot igényel, különösen a templomok környékén. Délben a fedett megállók közötti rövid tekerésekkel kerülheti el a nagyobb záporokat. Délután a Jaya-mecset felé vezető út a menetszéllel és az esővel együtt is frissítő. Az esti piac a tócsák ellenére is életteli, mivel a legtöbb árus sátra fedett.",
+            "ro": "Dimineața, mersul pe bicicletă pe drumurile umede necesită prudență sporită, mai ales în zona templelor. La prânz, deplasările scurte între opriri acoperite sunt ideale pentru a evita ploaia. După-amiaza, drumul spre moscheea Jaya oferă o răcorire plăcută prin vânt și ploaie. Piața de noapte rămâne plină de viață în ciuda bălților, majoritatea tarabelor fiind acoperite.",
+            "en": "In the morning, cycling on wet roads requires extra caution, especially near the temples. At noon, short rides between covered stops are ideal to avoid the heaviest showers. In the afternoon, the ride to Jaya Mosque provides a cooling experience with the wind and rain. The evening at the night market is lively despite the puddles, as most stalls are well-covered."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Lak Mueang",
+                "hu": "Wat Lak Mueang",
+                "ro": "Wat Lak Mueang",
+                "en": "Wat Lak Mueang"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad an einem trockenen Ort und achten Sie beim Gehen auf dem Tempelgelände auf den rutschigen Boden durch das Regenwasser.",
+                "hu": "Parkolja le kerékpárját egy száraz helyen, és ügyeljen a templom területén a csapadék miatt csúszóssá vált burkolatra séta közben.",
+                "ro": "Parcați bicicleta într-un loc uscat și aveți grijă la pavajul care a devenit alunecos din cauza ploii în timp ce vă plimbați prin templu.",
+                "en": "Park your bike in a dry spot and be careful of the pavement within the temple grounds which becomes slippery due to the rainwater."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani City Pillar Schrein",
+                "hu": "Pattani Városi Oszlopszentély",
+                "ro": "Altarul Stâlpului Orașului Pattani",
+                "en": "Pattani City Pillar Shrine"
+              },
+              "tip_4lang": {
+                "de": "Ein Regenponcho ist beim Radfahren zwischen den Schreinen sehr hilfreich; nutzen Sie das Schrein-Dach für eine kurze Pause vom Regen.",
+                "hu": "Egy esőponcsó nagyon hasznos a szentélyek közötti tekerés során; használja a szentély fedelét egy rövid pihenőre, amíg eláll az eső.",
+                "ro": "O pelerină de ploaie este foarte utilă în timp ce pedalați între sanctuare; folosiți acoperișul sanctuarului pentru o scurtă pauză de ploaie.",
+                "en": "A rain poncho is very helpful while cycling between shrines; use the shrine's roof for a quick break until the heavy rain subsides."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Tani Narasamoson",
+                "hu": "Wat Tani Narasamoson",
+                "ro": "Wat Tani Narasamoson",
+                "en": "Wat Tani Narasamoson"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf tiefere Pfützen vor dem Tempeleingang und nutzen Sie die überdachten Bereiche, um Ihre Ausrüstung trocken zu halten.",
+                "hu": "Ügyeljen a mélyebb tócsákra a templom bejárata előtt, és használja a fedett részeket, hogy felszerelése száraz maradjon a látogatás alatt.",
+                "ro": "Aveți grijă la bălțile adânci din fața intrării în templu și folosiți zonele acoperite pentru a vă menține echipamentul uscat în timpul vizitei.",
+                "en": "Watch out for deep puddles in front of the temple entrance and make use of the covered areas to keep your belongings dry during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani Zentralmoschee",
+                "hu": "Pattani Központi Mecset",
+                "ro": "Moscheea Centrală Pattani",
+                "en": "Pattani Central Mosque"
+              },
+              "tip_4lang": {
+                "de": "Der große Parkplatz bietet festen Untergrund für Ihr Rad; das Innere der Moschee ist der ideale Ort, um sich vom Regen auf der Fahrt zu erholen.",
+                "hu": "A nagy parkoló szilárd talajt biztosít a kerékpárnak; a mecset belseje pedig ideális hely a pihenésre a vizes úton való tekerés után.",
+                "ro": "Parcarea mare oferă un teren solid pentru bicicletă; interiorul moscheii este locul ideal pentru odihnă după pedalarea pe drumul ud.",
+                "en": "The large parking area provides solid ground for your bike; the interior of the mosque is an ideal place to rest after cycling in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Mae Lim Ko Niao Schrein",
+                "hu": "Chao Mae Lim Ko Niao Szentély",
+                "ro": "Altarul Chao Mae Lim Ko Niao",
+                "en": "Chao Mae Lim Ko Niao Shrine"
+              },
+              "tip_4lang": {
+                "de": "Die Farben des Schreins leuchten bei bedecktem Himmel besonders stark; seien Sie vorsichtig mit den Bremsen Ihres Rades auf dem nassen Asphalt.",
+                "hu": "A szentély színei különösen élénkek borús időben; legyen óvatos a kerékpár fékezésével a vizes aszfalton a szentélyhez vezető úton.",
+                "ro": "Culorile sanctuarului sunt deosebit de vibrante pe vreme înnorată; fiți atent la frânarea bicicletei pe asfaltul ud în drum spre sanctuar.",
+                "en": "The colors of the shrine appear extra vibrant under overcast skies; be careful when braking your bike on the wet asphalt nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani Jaya Moschee",
+                "hu": "Pattani Jaya Mecset",
+                "ro": "Moscheea Pattani Jaya",
+                "en": "Pattani Jaya Mosque"
+              },
+              "tip_4lang": {
+                "de": "Die Fahrt hierher führt durch offenes Gelände; bei starkem Wind und Regen sollten Sie das Rad schieben, um auf den glatten Wegen sicher zu bleiben.",
+                "hu": "Az idevezető út nyílt terepen halad át; erős szélben és esőben érdemes tolni a biciklit, hogy biztonságban maradjon a csúszós szakaszokon.",
+                "ro": "Drumul până aici traversează teren deschis; în caz de vânt puternic și ploaie, merită să împingeți bicicleta pentru a fi în siguranță pe drum.",
+                "en": "The ride here is through open terrain; in heavy wind and rain, it might be better to walk your bike to stay safe on slippery sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Phayatani Nachtmarkt",
+                "hu": "Phayatani Éjszakai Piac",
+                "ro": "Piața de Noapte Phayatani",
+                "en": "Phayatani Night Market"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie einen überdachten Stand für Ihr Rad und genießen Sie heiße Snacks, die bei Regen besonders gut schmecken und Sie aufwärmen.",
+                "hu": "Keressen egy fedett részt a kerékpárnak, és élvezze a forró falatokat, amelyek esős időben különösen jól esnek és felmelegítik a testet.",
+                "ro": "Căutați un loc acoperit pentru bicicletă și bucurați-vă de gustări calde, care pe vreme ploioasă sunt deosebit de bune și vă vor încălzi.",
+                "en": "Find a covered spot for your bike and enjoy some hot street food snacks, which feel especially comforting and warming during a rainy evening."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt bei kühler Luft zur Zentralmoschee sehr belebend. Mittags genießen Sie die Sonne beim Radeln ohne ins Schwitzen zu kommen. Am Nachmittag sollten Sie die Fahrt zur Jaya-Moschee früh antreten, da die Dämmerung gegen 17:00 Uhr einsetzt. Der Abend auf dem Nachtmarkt ist bei milden Wintertemperaturen perfekt für einen langen Aufenthalt.",
+            "hu": "Reggel a hűvös levegőben való tekerés a Központi Mecset felé igazán felpezsdítő. Délben élvezze a napsütést biciklizés közben anélkül, hogy megizzadna a hőségben. Délután induljon el korábban a Jaya-mecsethez, mert 17:00 körül már alkonyodik. Az esti piac látogatása a mild téli időben tökéletes program a nap zárásaként.",
+            "ro": "Dimineața, pedalatul în aerul răcoros spre Moscheea Centrală este foarte revigorant. La prânz, bucurați-vă de soare pe bicicletă fără a transpira din cauza căldurii. După-amiaza, plecați mai devreme spre moscheea Jaya, deoarece amurgul începe în jur de ora 17:00. Vizita la piața de noapte este perfectă la temperaturile blânde de iarnă.",
+            "en": "In the morning, cycling to the Central Mosque in the cool air is truly invigorating. At noon, enjoy the sun while riding without sweating in the tropical heat. In the afternoon, head to Jaya Mosque early as twilight begins around 17:00. The evening market visit is a perfect way to end the day in the mild winter weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Lak Mueang",
+                "hu": "Wat Lak Mueang",
+                "ro": "Wat Lak Mueang",
+                "en": "Wat Lak Mueang"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die kühle Morgenstunde für eine entspannte Erkundung; das Radfahren durch die erwachende Stadt ist im Winter besonders angenehm.",
+                "hu": "Használja ki a hűvös reggeli órákat egy nyugodt felfedezésre; a biciklizés az ébredező városban télen különösen kellemes élmény.",
+                "ro": "Profitați de orele răcoroase ale dimineții pentru o explorare relaxată; mersul pe bicicletă prin orașul care se trezește este foarte plăcut iarna.",
+                "en": "Take advantage of the cool morning hours for a relaxed exploration; cycling through the waking city is particularly pleasant in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani City Pillar Schrein",
+                "hu": "Pattani Városi Oszlopszentély",
+                "ro": "Altarul Stâlpului Orașului Pattani",
+                "en": "Pattani City Pillar Shrine"
+              },
+              "tip_4lang": {
+                "de": "Die milde Wintersonne lässt den Schrein strahlen; die kurze Fahrt hierher ist bei diesen Temperaturen eine ideale Aufwärmübung für den Tag.",
+                "hu": "Az enyhe téli napsütésben ragyog a szentély; a rövid tekerés ide a kellemes időben tökéletes bemelegítés a nap további részére.",
+                "ro": "Soarele blând de iarnă face sanctuarul să strălucească; drumul scurt până aici este o încălzire ideală pentru restul zilei în acest climat.",
+                "en": "The mild winter sun makes the shrine glow; the short ride here in the pleasant weather is a perfect warm-up for the rest of your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Tani Narasamoson",
+                "hu": "Wat Tani Narasamoson",
+                "ro": "Wat Tani Narasamoson",
+                "en": "Wat Tani Narasamoson"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad im Schatten und genießen Sie die kühle Brise, die durch die offene Architektur des Tempels weht und für Erfrischung sorgt.",
+                "hu": "Parkolja le a biciklit árnyékba, és élvezze a templom nyitott építészetén átáramló hűvös szellőt, amely frissítőleg hat a tekerés után.",
+                "ro": "Parcați bicicleta la umbră și bucurați-vă de briza răcoroasă care trece prin arhitectura deschisă a templului, oferind o răcorire binemeritată.",
+                "en": "Park your bike in the shade and enjoy the cool breeze blowing through the temple's open architecture, providing refreshment after your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani Zentralmoschee",
+                "hu": "Pattani Központi Mecset",
+                "ro": "Moscheea Centrală Pattani",
+                "en": "Pattani Central Mosque"
+              },
+              "tip_4lang": {
+                "de": "Die weiten Flächen der Moschee sind im Winter ideal zum Erkunden zu Fuß, nachdem Sie Ihr Rad sicher am Haupteingang abgestellt haben.",
+                "hu": "A mecset tágas terei télen ideálisak a gyalogos felfedezésre, miután biztonságosan leparkolta kerékpárját a főbejáratnál.",
+                "ro": "Spațiile vaste ale moscheii sunt ideale pentru explorarea la pas iarna, după ce ați parcat în siguranță bicicleta la intrarea principală.",
+                "en": "The vast grounds of the mosque are ideal for exploring on foot in winter once you have safely parked your bike at the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Mae Lim Ko Niao Schrein",
+                "hu": "Chao Mae Lim Ko Niao Szentély",
+                "ro": "Altarul Chao Mae Lim Ko Niao",
+                "en": "Chao Mae Lim Ko Niao Shrine"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die klare Sicht und die intensiven Farben bei der Fahrt zum Schrein; die trockene Winterluft macht die Farben der Tempel lebendiger.",
+                "hu": "Élvezze a tiszta kilátást és az élénk színeket a szentélyhez vezető úton; a száraz téli levegőben a templom színei még vibrálóbbnak tűnnek.",
+                "ro": "Bucurați-vă de vizibilitatea clară și culorile intense în drum spre sanctuar; aerul uscat de iarnă face culorile templului să pară mai vii.",
+                "en": "Enjoy the clear views and intense colors on your ride to the shrine; the dry winter air makes the temple's colors appear more vibrant."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani Jaya Moschee",
+                "hu": "Pattani Jaya Mecset",
+                "ro": "Moscheea Pattani Jaya",
+                "en": "Pattani Jaya Mosque"
+              },
+              "tip_4lang": {
+                "de": "Die Fahrt zur Jaya-Moschee ist im Winter ein Highlight; die flache Nachmittagssonne bietet großartige Fotomotive für Radfahrer auf dem Weg.",
+                "hu": "A Jaya-mecsethez vezető út télen igazi fénypont; az alacsonyan járó délutáni nap remek fotótémákat kínál a kerékpárosoknak útközben.",
+                "ro": "Drumul spre moscheea Jaya este un punct culminant iarna; soarele de după-amiază oferă oportunități grozave de fotografiere pentru bicicliști.",
+                "en": "The ride to Jaya Mosque is a highlight in winter; the low afternoon sun provides great photo opportunities for cyclists along the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Phayatani Nachtmarkt",
+                "hu": "Phayatani Éjszakai Piac",
+                "ro": "Piața de Noapte Phayatani",
+                "en": "Phayatani Night Market"
+              },
+              "tip_4lang": {
+                "de": "Der Markt ist nach 17:00 Uhr bereits dunkel und hell erleuchtet; parken Sie Ihr Rad gut sichtbar und genießen Sie die kühle Abendluft beim Essen.",
+                "hu": "A piac 17:00 után már sötétben, de fényárban úszik; parkolja le a biciklit látható helyen, és élvezze a hűvös esti levegőt falatozás közben.",
+                "ro": "Piața este deja întunecată dar plină de lumini după ora 17:00; parcați bicicleta la vedere și bucurați-vă de aerul răcoros de seară în timp ce mâncați.",
+                "en": "The market is already dark but brightly lit after 17:00; park your bike in a visible spot and enjoy the cool evening air while you eat."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "A festői autózás a Somdet Phra Sinagarin Park buja zöldjében, egy igazi városi oázisban indítja a napot. Nem sokkal ezután a part felé vesszük az irányt, hogy a csendes természetben madarakat figyeljünk. A dél tökéletes a Városi Oszlop és az ikonikus mecsetek körüli központ felfedezésére. Délután a kulturálisan gazdag kínai szentély következik. Az este a nyüzsgő Phayatani Éjszakai Piacon ér véget.",
         "ro": "O plimbare pitorească ne începe ziua în întinderea luxuriantă a Parcului Somdet Phra Sinagarin, o adevărată oază urbană. La scurt timp, ne îndreptăm spre coastă pentru a observa păsări în natura liniștită. Amiaza este perfectă pentru a explora centrul aglomerat din jurul moscheilor iconice. După-amiaza se mută la altarul chinezesc bogat cultural. Seara se încheie la vibranta Piață Phayatani.",
         "en": "A scenic drive starts our day in the lush expanse of Somdet Phra Sinagarin Park, a true urban oasis. Soon after, we navigate to the coast for bird watching amidst tranquil nature. Midday is perfect for exploring the bustling center around the City Pillar and iconic mosques. Afternoon shifts to the culturally rich Chinese shrine. Evening arrives at the vibrant Phayatani Night Market."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet das Auto perfekten Schutz vor Regen bei der Fahrt zum Park. Mittags erreichen Sie die Schreine trocken, auch wenn der Parkplatzbesuch kurze Sprints erfordert. Am Nachmittag ist die Fahrt zur Jaya-Moschee ein entspanntes Erlebnis durch die beschlagenen Scheiben. Der Abend endet am Nachtmarkt, wo Sie bequem parken und nur kurz durch den Regen zum Essen laufen müssen.",
+            "hu": "Reggel az autó tökéletes védelmet nyújt az eső ellen a parkba vezető úton. Délben szárazon érheti el a szentélyeket, még ha a parkolótól egy rövid sprintet is kell tennie az esőben. Délután a Jaya-mecset felé vezető út kényelmes élmény a párás ablakok mögül. Az este a piacon zárul, ahol könnyen parkolhat, és csak keveset kell gyalogolnia az esőben.",
+            "ro": "Dimineața, mașina oferă protecție perfectă împotriva ploii în drum spre parc. La prânz, ajungeți uscat la sanctuare, chiar dacă vizita necesită sprinturi scurte prin ploaie de la parcare. După-amiaza, drumul spre moscheea Jaya este relaxant în ciuda geamurilor aburite. Seara se încheie la piață, unde puteți parca comod și merge puțin prin ploaie pentru mâncare.",
+            "en": "In the morning, the car provides perfect protection from the rain on your way to the park. At noon, you'll reach the shrines dry, even if short sprints through the rain are needed from the car. In the afternoon, the drive to Jaya Mosque is relaxing despite the foggy windows. The evening ends at the market, where you can park easily and only walk a bit through the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Somdet Phra Sinagarin Park",
+                "hu": "Somdet Phra Sinagarin Park",
+                "ro": "Parcul Somdet Phra Sinagarin",
+                "en": "Somdet Phra Sinagarin Park"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Blick auf den Park bequem aus dem Auto; machen Sie nur einen kurzen Spaziergang in den überdachten Pavillons, falls es stark regnet.",
+                "hu": "Élvezze a park látványát kényelmesen az autóból; csak rövid sétát tegyen a fedett pavilonoknál, ha éppen hevesen esik az eső látogatáskor.",
+                "ro": "Bucurați-vă de vederea parcului din confortul mașinii; faceți doar o scurtă plimbare la pavilioanele acoperite dacă plouă torențial în timpul vizitei.",
+                "en": "Enjoy the park views from the comfort of your car; take only a short walk to the covered pavilions if it happens to be raining heavily during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Vogelbeobachtungszentrum Pattani",
+                "hu": "Pattani Madármegfigyelő Központ",
+                "ro": "Centrul de Observare a Păsărilor Pattani",
+                "en": "Bird Watching Center, Pattani"
+              },
+              "tip_4lang": {
+                "de": "Vom Beobachtungsturm aus bleiben Sie trocken, während Sie die Vögel im Regen beobachten; bringen Sie ein Fernglas für die Sicht durch die nassen Fenster mit.",
+                "hu": "A megfigyelőtoronyból szárazon maradhat, miközben az esőben pihenő madarakat figyeli; hozzon távcsövet a vizes ablakokon keresztüli jobb látáshoz.",
+                "ro": "Din turnul de observare veți rămâne uscat în timp ce priviți păsările în ploaie; aduceți binoclul pentru o vedere mai bună prin geamurile ude.",
+                "en": "From the observation tower, you'll stay dry while watching birds in the rain; bring binoculars for a better view through the damp windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani City Pillar Schrein",
+                "hu": "Pattani Városi Oszlopszentély",
+                "ro": "Altarul Stâlpului Orașului Pattani",
+                "en": "Pattani City Pillar Shrine"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu vermeiden; der goldene Schrein wirkt bei grauem Himmel besonders eindrucksvoll.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt; az aranyozott szentély a szürke égbolt alatt különösen lenyűgöző látványt nyújt.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; sanctuarul aurit arată deosebit de impresionant sub cerul gri de furtună.",
+                "en": "Park as close to the entrance as possible to avoid the rain; the gilded shrine looks particularly impressive under the moody gray skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Mae Lim Ko Niao Schrein",
+                "hu": "Chao Mae Lim Ko Niao Szentély",
+                "ro": "Altarul Chao Mae Lim Ko Niao",
+                "en": "Chao Mae Lim Ko Niao Shrine"
+              },
+              "tip_4lang": {
+                "de": "Der Schrein bietet gute Unterstellmöglichkeiten direkt nach dem Aussteigen; nutzen Sie die Zeit für eine entspannte Besichtigung im Trockenen.",
+                "hu": "A szentély jó oltalmat nyújt közvetlenül a kiszállás után; használja ki az időt egy kényelmes, fedett helyen történő nézelődésre az eső ellenére.",
+                "ro": "Sanctuarul oferă un adăpost bun imediat după ce coborâți din mașină; folosiți timpul pentru o vizită relaxată la adăpost în ciuda ploii.",
+                "en": "The shrine provides good shelter right after you get out of the car; take your time for a relaxed indoor visit while waiting for the rain to ease."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani Zentralmoschee",
+                "hu": "Pattani Központi Mecset",
+                "ro": "Moscheea Centrală Pattani",
+                "en": "Pattani Central Mosque"
+              },
+              "tip_4lang": {
+                "de": "Der großzügige Parkplatz ermöglicht einen kurzen Weg zum überdachten Eingangsbereich; genießen Sie die Ruhe im Inneren, während draußen der Regen fällt.",
+                "hu": "A tágas parkolóból rövid út vezet a fedett bejárathoz; élvezze a belső tér nyugalmát és csendjét, miközben kint kopog az eső a hatalmas kupolákon.",
+                "ro": "Parcarea generoasă permite un acces rapid la zona de intrare acoperită; bucurați-vă de liniștea interiorului în timp ce afară plouă peste domuri.",
+                "en": "The spacious parking area allows for quick access to the covered entrance; enjoy the peace and quiet of the interior while rain falls on the domes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani Jaya Moschee",
+                "hu": "Pattani Jaya Mecset",
+                "ro": "Moscheea Pattani Jaya",
+                "en": "Pattani Jaya Mosque"
+              },
+              "tip_4lang": {
+                "de": "Fahren Sie direkt bis zum Vorplatz, um trocken in die Moschee zu gelangen; die moderne Architektur wirkt bei Regenwetter besonders markant.",
+                "hu": "Hajtson közvetlenül az előtérhez, hogy szárazon juthasson be a mecsetbe; a modern építészet az esős időben még markánsabb karaktert kap.",
+                "ro": "Conduceți direct până în fața moscheii pentru a intra uscat; arhitectura modernă capătă un caracter și mai pronunțat pe vreme ploioasă.",
+                "en": "Drive right up to the entrance area to get inside the mosque dry; the modern architecture takes on an even more striking character in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Phayatani Nachtmarkt",
+                "hu": "Phayatani Éjszakai Piac",
+                "ro": "Piața de Noapte Phayatani",
+                "en": "Phayatani Night Market"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie das Auto als Basis, um Einkäufe trocken zu verstauen, und genießen Sie die lebendige Marktatmosphäre zwischen den Regenschauern.",
+                "hu": "Használja az autót bázisként, hogy a vásárolt holmikat szárazon elhelyezze, és élvezze a piac életteli hangulatát két zápor közötti szünetben.",
+                "ro": "Folosiți mașina ca bază pentru a depozita cumpărăturile la uscat și bucurați-vă de atmosfera vibrantă a pieței între reprizele de ploaie.",
+                "en": "Use the car as a base to store your purchases dry, and enjoy the lively market atmosphere during the breaks between the rain showers."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt im Auto bei angenehmen Temperaturen zum Park ein toller Start. Mittags erreichen Sie alle Sehenswürdigkeiten bequem, ohne die Hitze des tropischen Sommers. Am Nachmittag sollten Sie die Jaya-Moschee vor 17:00 Uhr besuchen, um den Sonnenuntergang zu erleben. Der Abend am Nachtmarkt ist im Winter bei kühler Brise besonders erholsam.",
+            "hu": "Reggel a kellemes hőmérsékletben tett autóút a parkba remek kezdete a napnak. Délben kényelmesen érheti el az összes látnivalót, elkerülve a trópusi nyár forróságát. Délután érdemes 17:00 előtt a Jaya-mecsethez érni, hogy láthassa a naplementét. Az esti piac látogatása a hűvös téli szellőben kifejezetten pihentető program.",
+            "ro": "Dimineața, drumul cu mașina spre parc la temperaturi plăcute este un început excelent de zi. La prânz, ajungeți comod la toate obiectivele, evitând arșița verii tropicale. După-amiaza, vizitați moscheea Jaya înainte de ora 17:00 pentru a prinde apusul. Seara la piața de noapte este deosebit de relaxantă în briza răcoroasă de iarnă.",
+            "en": "In the morning, driving to the park in comfortable temperatures is a great start to the day. At noon, you can reach all sights easily without the typical tropical summer heat. In the afternoon, visit Jaya Mosque before 17:00 to catch the sunset. The evening at the night market is particularly relaxing in the cool winter breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Somdet Phra Sinagarin Park",
+                "hu": "Somdet Phra Sinagarin Park",
+                "ro": "Parcul Somdet Phra Sinagarin",
+                "en": "Somdet Phra Sinagarin Park"
+              },
+              "tip_4lang": {
+                "de": "Die kühle Morgenluft macht den Spaziergang durch den weitläufigen Park im Winter zu einem erfrischenden und absolut stressfreien Erlebnis.",
+                "hu": "A hűvös reggeli levegő a tágas parkban tett sétát télen frissítő és teljesen stresszmentes élménnyé teszi minden látogató számára ezen a napon.",
+                "ro": "Aerul răcoros al dimineții face plimbarea prin parcul vast o experiență revigorantă și total lipsită de stres în timpul iernii thailandeze.",
+                "en": "The cool morning air makes strolling through the spacious park in winter a refreshing and completely stress-free experience for any visitor."
+              }
+            },
+            {
+              "name": {
+                "de": "Vogelbeobachtungszentrum Pattani",
+                "hu": "Pattani Madármegfigyelő Központ",
+                "ro": "Centrul de Observare a Păsărilor Pattani",
+                "en": "Bird Watching Center, Pattani"
+              },
+              "tip_4lang": {
+                "de": "Im Winter sind oft mehr Zugvögel zu sehen; nutzen Sie die milden Temperaturen auf dem Beobachtungsturm für eine längere und entspannte Sichtung.",
+                "hu": "Télen gyakran több költöző madár látható; használja ki az enyhe hőmérsékletet a megfigyelőtoronyban egy hosszabb és nyugodtabb madárlesre.",
+                "ro": "Iarna pot fi văzute adesea mai multe păsări migratoare; profitați de temperaturile blânde din turnul de observare pentru o sesiune mai lungă de privit.",
+                "en": "More migratory birds can often be seen in winter; take advantage of the mild temperatures on the observation tower for a longer and more relaxed session."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani City Pillar Schrein",
+                "hu": "Pattani Városi Oszlopszentély",
+                "ro": "Altarul Stâlpului Orașului Pattani",
+                "en": "Pattani City Pillar Shrine"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie bequem im Schatten und bewundern Sie den Schrein in der klaren Winterluft, die die goldenen Verzierungen besonders intensiv leuchten lässt.",
+                "hu": "Parkoljon kényelmesen az árnyékban, és csodálja meg a szentélyt a tiszta téli levegőben, amelyben az aranyozott díszítések intenzívebben ragyognak.",
+                "ro": "Parcați comod la umbră și admirați sanctuarul în aerul curat de iarnă, care face ca decorațiunile aurite să strălucească mai intens.",
+                "en": "Park comfortably in the shade and admire the shrine in the clear winter air, which makes the gilded decorations glow more intensely than usual."
+              }
+            },
+            {
+              "name": {
+                "de": "Chao Mae Lim Ko Niao Schrein",
+                "hu": "Chao Mae Lim Ko Niao Szentély",
+                "ro": "Altarul Chao Mae Lim Ko Niao",
+                "en": "Chao Mae Lim Ko Niao Shrine"
+              },
+              "tip_4lang": {
+                "de": "Die milden Temperaturen machen die Besichtigung des Schreins und der umliegenden Altstadt zu einem sehr angenehmen Erlebnis ohne die sommerliche Schwüle.",
+                "hu": "Az enyhe hőmérséklet a szentély és a környező óváros felfedezését rendkívül kellemes élménnyé teszi a nyári fülledtség és hőség nélkül.",
+                "ro": "Temperaturile blânde fac din vizitarea sanctuarului și a orașului vechi din jur o experiență foarte plăcută, fără umezeala și căldura verii.",
+                "en": "The mild temperatures make visiting the shrine and the surrounding old town a very pleasant experience without the typical summer humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani Zentralmoschee",
+                "hu": "Pattani Központi Mecset",
+                "ro": "Moscheea Centrală Pattani",
+                "en": "Pattani Central Mosque"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den weitläufigen Außenbereich der Moschee im milden Nachmittagslicht; die kühle Brise sorgt für eine spirituelle und beruhigende Atmosphäre.",
+                "hu": "Élvezze a mecset tágas kültéri részeit a délutáni lágy fényekben; a hűvös szellő spirituális és megnyugtató hangulatot áraszt a látogatáskor.",
+                "ro": "Bucurați-vă de spațiile exterioare vaste ale moscheii în lumina blândă a după-amiezii; briza răcoroasă creează o atmosferă spirituală și calmă.",
+                "en": "Enjoy the mosque's vast outdoor areas in the soft afternoon light; the cool breeze creates a spiritual and calming atmosphere during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Pattani Jaya Moschee",
+                "hu": "Pattani Jaya Mecset",
+                "ro": "Moscheea Pattani Jaya",
+                "en": "Pattani Jaya Mosque"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie die Moschee kurz vor 17:00 Uhr, um das Farbspiel des Sonnenuntergangs auf der modernen Fassade in der klaren Winterluft zu erleben.",
+                "hu": "Látogasson el a mecsethez röviddel 17:00 előtt, hogy lássa a naplemente színeit a modern homlokzaton a tiszta, hűvös téli levegőben.",
+                "ro": "Vizitați moscheea cu puțin înainte de ora 17:00 pentru a vedea culorile apusului pe fațada modernă în aerul curat și răcoros de iarnă.",
+                "en": "Visit the mosque shortly before 17:00 to see the sunset colors on the modern facade in the clear, cool winter air of Southern Thailand."
+              }
+            },
+            {
+              "name": {
+                "de": "Phayatani Nachtmarkt",
+                "hu": "Phayatani Éjszakai Piac",
+                "ro": "Piața de Noapte Phayatani",
+                "en": "Phayatani Night Market"
+              },
+              "tip_4lang": {
+                "de": "Die kühle Abendluft im Winter ist ideal für einen ausgiebigen Marktbummel; probieren Sie lokale Spezialitäten ohne die sonst übliche Hitze des Tages.",
+                "hu": "A hűvös téli esti levegő ideális egy kiadós piaci barangoláshoz; kóstolja meg a helyi specialitásokat a szokásos napközbeni hőség nélkül.",
+                "ro": "Aerul răcoros de seară este ideal pentru o plimbare lungă prin piață; gustați specialitățile locale fără căldura obișnuită din timpul zilei.",
+                "en": "The cool winter evening air is ideal for an extensive stroll through the market; taste local specialties without the usual sweltering daytime heat."
+              }
+            }
+          ]
+        }
       }
     }
   }

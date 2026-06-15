@@ -137,6 +137,168 @@
         "hu": "A reggel a nyüzsgő városközpontban kezdődik a városháza és a mauzóleum ókori titkainak felfedezésével. A délidő a Régészeti Múzeumba vezet, amely lenyűgöző leleteken keresztül tárja fel Dél-Évia gazdag történelmét. Délután egy kényelmes séta visz el minket a történelmi világítótoronyhoz. Ahogy közeledik az este, a Psile Ammos finom homokja tökéletes helyszínt kínál a pihenésre, úszásra és a naplemente megcsodálására.",
         "ro": "Dimineața începe în centrul vibrant, explorând primăria neoclasică și secretele antice de la Mausoleul Procuratorului. Amiaza ne conduce la Muzeul Arheologic, dezvăluind istoria bogată a Eviei de sud. După-amiaza, o plimbare liniștită ne aduce la Farul istoric care păzește portul. Pe măsură ce se apropie seara, nisipul fin de la Psile Ammos oferă locul perfect pentru relaxare, înot și pentru a privi apusul de soare.",
         "en": "Morning begins in the vibrant town center, exploring the neoclassical town hall and uncovering ancient secrets at the Procurator's Mausoleum. Midday leads us to the Archeological Museum, revealing the rich history of southern Evia through fascinating artifacts. In the afternoon, a leisurely stroll brings us to the historic Pharos guarding the harbor. As evening approaches, the fine sands of Psile Ammos offer the perfect place to relax, swim, and watch the sunset over Karystos."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Rathaus und nutzen Sie die Arkaden als Schutz vor dem Regen. Mittags bietet das Archäologische Museum den perfekten Rückzugsort, um im Trockenen in die Geschichte einzutauchen. Am Nachmittag zeigt sich der Hafen in einer dramatischen, nebligen Atmosphäre. Abends genießen Sie den Blick auf die peitschenden Wellen von einem gemütlichen Platz in einer Taverne am Meer.",
+            "hu": "Kezdje a reggelt a Városháza árkádjai alatt, védve az esőtől, miközben az épület részleteit figyeli. Délben a Régészeti Múzeum nyújt tökéletes menedéket és kulturális élményt a zápor elől. Délután a kikötő és a világítótorony ködös sziluettje nyújt drámai látványt a szürke égbolt alatt. Estére keressen egy hangulatos taverna ablak melletti asztalát, és figyelje a tenger hullámait.",
+            "ro": "Începeți dimineața la Primărie, folosind porticele pentru a rămâne uscați în timp ce admirați arhitectura. La prânz, Muzeul Arheologic oferă refugiul perfect împotriva ploii, explorând istoria locală. După-amiaza aduce o plimbare cețoasă spre port și far, oferind un peisaj dramatic. Seara, relaxați-vă într-o tavernă primitoare, privind ploaia care cade peste marea agitată.",
+            "en": "Start your morning at the Town Hall, using its porticos to stay dry while planning your route. By midday, find refuge in the Archaeological Museum, where the rain outside fades into history. Afternoon brings a misty walk to the harbor and the lighthouse. As evening falls, enjoy the dramatic view of the waves crashing against the shore from a cozy seaside tavern window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Karystos",
+                "hu": "Karystos Városháza",
+                "ro": "Primăria Karystos",
+                "en": "Karystos Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die neoklassizistische Fassade vom Schutz der nahen Cafés aus; der Regen hebt die architektonischen Details dieses Wahrzeichens hervor.",
+                "hu": "Csodálja meg a neoklasszicista homlokzatot a közeli kávézók védelméből; az eső kiemeli a városközpont ezen ikonikus épületének építészeti részleteit.",
+                "ro": "Admirați fațada neoclasică din adăpostul cafenelelor din apropiere; ploaia scoate în evidență detaliile arhitecturale ale acestui punct de reper central.",
+                "en": "Admire the elegant neoclassical facade from the shelter of nearby cafes; the rain highlights the architectural details of this central landmark."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum des Prokurators",
+                "hu": "Procurator Mauzóleuma",
+                "ro": "Mausoleul Procuratorului",
+                "en": "Procurator's Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig auf den antiken Steinen, da sie rutschig sein können; der Nebel über den Ruinen sorgt für eine mystische, dichte Atmosphäre.",
+                "hu": "Óvatosan járjon az ókori köveken, mert csúszósak lehetnek; a romok feletti köd misztikus, sűrű atmoszférát teremt a történelmi helyszínen.",
+                "ro": "Mergeți cu atenție pe pietrele antice, deoarece pot fi alunecoase; ceața de deasupra ruinelor creează o atmosferă mistică și densă la sit.",
+                "en": "Navigate the ancient stones carefully as they can be slippery; the mist over the ruins creates a mystical, dense atmosphere at the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Karystos",
+                "hu": "Karystos Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Karystos",
+                "en": "Archeological Museum of Karystos"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um dem Regen zu entkommen; nehmen Sie sich Zeit, um die antiken Funde in der ruhigen, trockenen Umgebung zu studieren.",
+                "hu": "Ez az ideális hely az eső elől való menekülésre; szánjon időt az ókori leletek tanulmányozására a nyugodt, száraz és csendes környezetben.",
+                "ro": "Acesta este locul ideal pentru a scăpa de ploaie; faceți-vă timp pentru a studia descoperirile antice în mediul liniștit, uscat și calm.",
+                "en": "This is the ideal spot to escape the rain; take your time to study the ancient finds in the quiet, dry, and peaceful indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Pharos",
+                "hu": "Pharos Világítótorony",
+                "ro": "Farul Pharos",
+                "en": "Pharos Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Ein dramatischer Anblick im Regen; halten Sie Ihre Regenjacke geschlossen, da der Wind hier am Hafen deutlich an Stärke gewinnt.",
+                "hu": "Drámai látvány az esőben; tartsa szorosan a vízálló kabátját, mivel a szél itt a kikötőnél jelentősen felerősödhet a viharos időben.",
+                "ro": "O priveliște dramatică în ploaie; păstrați-vă jacheta impermeabilă închisă, deoarece vântul aici în port se intensifică semnificativ.",
+                "en": "A dramatic sight in the rain; keep your waterproof jacket zipped tight as the wind here at the harbor picks up significantly during storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Psile Ammos",
+                "hu": "Psile Ammos Strand",
+                "ro": "Plaja Psile Ammos",
+                "en": "Psile Ammos Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Wellen unter dem grauen Himmel; ein kurzer Spaziergang mit festem Schuhwerk bietet ein wildes Naturerlebnis.",
+                "hu": "Figyelje a hullámok játékát a szürke égbolt alatt; egy rövid séta vízálló lábbeliben vad és különleges természeti élményt nyújt a parton.",
+                "ro": "Urmăriți jocul valurilor sub cerul cenușiu; o scurtă plimbare cu încălțăminte adecvată oferă o experiență naturală sălbatică pe plajă.",
+                "en": "Watch the play of the waves under the grey sky; a short walk with waterproof footwear offers a wild and unique natural experience on the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft empfängt Sie am Rathaus; ziehen Sie sich warm an für den Spaziergang am Meer. Mittags beleuchtet die tiefstehende Sonne die Ruinen mit einem sanften Licht. Am Nachmittag bietet das ruhige Museum eine friedliche Atmosphäre zum Aufwärmen. Wenn die Sonne gegen 17:00 Uhr untergeht, beginnen die Hafenlichter zu funkeln und sorgen für einen gemütlichen Ausklang.",
+            "hu": "Friss téli levegő fogadja a Városházánál; öltözzön rétegesen a tengerparti sétához. Délben az alacsonyan járó nap lágy fénnyel világítja meg az ókori romokat. Délután a csendes múzeum nyugodt menedéket nyújt a felmelegedéshez. Ahogy a nap korán, 17 óra körül lemegy, a kikötő fényei kigyúlnak, meghitt hangulatot teremtve a nap végére.",
+            "ro": "Aerul proaspăt de iarnă vă întâmpină la Primărie; îmbrăcați-vă gros pentru plimbarea pe malul mării. La prânz, soarele palid luminează ruinele cu o lumină caldă. După-amiaza, muzeul liniștit oferă o atmosferă caldă pentru a vă încălzi. Pe măsură ce soarele apune devreme, în jurul orei 17:00, luminile portului încep să sclipească.",
+            "en": "Crisp winter air greets you at the Town Hall; wrap up warm for the seaside stroll. By midday, the low winter sun illuminates the ruins with a soft, golden glow. In the afternoon, the quiet museum offers a peaceful atmosphere to warm up. As the sun sets early around 17:00, the harbor lights begin to twinkle, creating a serene and cozy end to your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Karystos",
+                "hu": "Karystos Városháza",
+                "ro": "Primăria Karystos",
+                "en": "Karystos Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den zentralen Platz ohne die sommerlichen Menschenmassen; tragen Sie einen Windbreaker gegen die kühle Meeresbrise.",
+                "hu": "Élvezze a központi tér látványát a nyári tömeg nélkül; viseljen szélkabátot a tenger felől érkező hűvös téli fuvallatok ellen.",
+                "ro": "Bucurați-vă de vederea pieței centrale fără mulțimile de vară; purtați o jachetă de vânt împotriva brizelor răcoroase ale mării.",
+                "en": "Enjoy the view of the central square without the summer crowds; wear a windbreaker against the cool winter breezes coming from the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum des Prokurators",
+                "hu": "Procurator Mauzóleuma",
+                "ro": "Mausoleul Procuratorului",
+                "en": "Procurator's Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Stätte am späten Vormittag, um das beste Licht zu nutzen; die Wintersonne betont die Marmordetails auf wunderschöne Weise.",
+                "hu": "Látogasson el a helyszínre késő délelőtt a legjobb fényekért; a téli napsütés gyönyörűen emeli ki a márvány részleteit a romokon.",
+                "ro": "Vizitați situl la sfârșitul dimineții pentru cea mai bună lumină; soarele de iarnă scoate în evidență detaliile de marmură într-un mod superb.",
+                "en": "Visit the site in the late morning for the best light; the winter sun highlights the marble details on the ruins in a beautiful way."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Karystos",
+                "hu": "Karystos Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Karystos",
+                "en": "Archeological Museum of Karystos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Galerien für eine gemütliche Pause; die Ruhe des Winters lässt Sie die Exponate ohne Ablenkung genießen.",
+                "hu": "Használja ki a fűtött termeket egy kellemes pihenőre; a téli nyugalom lehetővé teszi a kiállítási tárgyak zavartalan megtekintését.",
+                "ro": "Profită de galeriile încălzite pentru o pauză confortabilă; liniștea iernii vă permite să vă bucurați de exponate fără nicio distragere.",
+                "en": "Take advantage of the heated galleries for a cozy break; the winter quiet allows you to enjoy the exhibits without any distractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Pharos",
+                "hu": "Pharos Világítótorony",
+                "ro": "Farul Pharos",
+                "en": "Pharos Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Wickeln Sie Ihren Schal fest um, wenn Sie sich dem exponierten Pier nähern; das tiefblaue Wintermeer bietet eine fantastische Fotokulisse.",
+                "hu": "Tekerje szorosan a sálat a nyaka köré a mólónál; a mélykék téli tenger fantasztikus hátteret kínál a fényképezéshez a parton.",
+                "ro": "Înfășurați-vă fularul strâns când vă apropiați de dig; marea de iarnă de un albastru profund oferă un fundal fantastic pentru fotografii.",
+                "en": "Wrap your scarf tight as you approach the exposed pier; the deep blue winter sea provides a fantastic backdrop for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Psile Ammos",
+                "hu": "Psile Ammos Strand",
+                "ro": "Plaja Psile Ammos",
+                "en": "Psile Ammos Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der absoluten Ruhe im Winter; die tiefstehende Sonne wirft lange Schatten auf den Sand, ideal für stimmungsvolle Aufnahmen.",
+                "hu": "Az abszolút nyugalom helyszíne télen; az alacsonyan járó nap hosszú árnyékokat vet a homokra, ideális hangulatos képek készítéséhez.",
+                "ro": "Un loc de liniște absolută în timpul iernii; soarele jos proiectează umbre lungi pe nisip, ideal pentru fotografii de atmosferă.",
+                "en": "A place of absolute tranquility in winter; the low sun casts long shadows on the sand, ideal for capturing atmospheric photos."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a központi Demarkheiónál, mielőtt elmerülne a régió ókori múltjában a Régészeti Múzeumban. Délben nyugatra teker a békés Gallida partjai és Kremala festői zöldje felé. A délután egy kellemes tekeréssel folytatódik vissza a kikötőbe, hogy megcsodálja a Pharost. Zárja aktív napját a festői Agios Antonios strandon, élvezve a tengerparti szellőt és egy késő délutáni frissítő úszást a tiszta vízben.",
         "ro": "Începeți turul cu bicicleta la Demarkheio central înainte de a pătrunde în trecutul antic al regiunii la Muzeul Arheologic. La amiază pedalați spre vest spre țărmurile senine din Gallida și verdeața din Kremala. După-amiaza continuă cu o plimbare ușoară înapoi spre portul plin de viață pentru a admira Pharos-ul istoric. Încheiați ziua activă la plaja pitorească Agios Antonios, bucurându-vă de briza de coastă și de o baie revigorantă.",
         "en": "Kick off your cycling tour at the central Demarkheio before diving into the region's ancient past at the nearby Archeological Museum. Midday finds you pedaling west to the serene shores of Gallida and the picturesque greenery of Kremala. The afternoon continues with a gentle ride back toward the bustling harbor to admire the historic Pharos. Conclude your active day at the scenic Agios Antonios beach, enjoying the coastal breeze and a refreshing late swim."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Rathaus und achten Sie auf nasse Straßen. Mittags bietet das Museum eine willkommene, trockene Pause für Radfahrer. Nachmittags führt der Weg entlang der Küste, wo die salzige Gischt sich mit dem Regen vermischt. Beenden Sie die Tour frühzeitig und wärmen Sie sich in einer lokalen Taverne auf, während Sie Ihr Fahrrad sicher unterstellen.",
+            "hu": "Kezdje óvatosan a Városházánál, ügyelve a vizes aszfaltra. Délben a múzeum szívesen látott, száraz pihenőt kínál a kerékpárosoknak. Délután az út a part mentén vezet, ahol a sós tengeri permet keveredik az esővel. Fejezze be korán a túrát, és melegedjen fel egy helyi tavernában, miközben kerékpárját fedett helyre teszi.",
+            "ro": "Începeți cu prudență la Primărie, având grijă la drumurile umede. La prânz, muzeul oferă o pauză uscată binevenită pentru bicicliști. După-amiaza, traseul continuă pe coastă, unde spray-ul sărat se amestecă cu ploaia. Încheiați turul devreme și încălziți-vă într-o tavernă locală.",
+            "en": "Start cautiously at the Town Hall, keeping an eye out for wet roads. By midday, the museum offers a welcome dry break for cyclists. In the afternoon, the route takes you along the coast where salty spray mixes with the rain. End your tour early and warm up in a local tavern while keeping your bike in a sheltered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Karystos",
+                "hu": "Karystos Városháza",
+                "ro": "Primăria Karystos",
+                "en": "Karystos Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie losfahren; die glatten Straßen im Stadtzentrum erfordern bei Nässe erhöhte Aufmerksamkeit.",
+                "hu": "Ellenőrizze a fékeket indulás előtt; a városközpont csúszós utcái fokozott figyelmet igényelnek nedves időben a kerékpárosoktól.",
+                "ro": "Verificați frânele înainte de a pleca; străzile alunecoase din centrul orașului necesită o atenție sporită pe vreme umedă.",
+                "en": "Check your brakes before setting off; the slippery streets in the city center require extra attention in wet weather for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Karystos",
+                "hu": "Karystos Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Karystos",
+                "en": "Archeological Museum of Karystos"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem Vordach und genießen Sie die Ausstellungen, während draußen der stärkste Regen vorüberzieht.",
+                "hu": "Parkolja le kerékpárját az előtető alatt, és élvezze a kiállításokat, amíg kint a legerősebb zápor elvonul a város felett.",
+                "ro": "Parcați bicicleta sub copertină și bucurați-vă de expoziții în timp ce cea mai puternică ploaie trece pe afară.",
+                "en": "Park your bike under the canopy and enjoy the indoor exhibits while the heaviest rain shower passes by outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Gallida",
+                "hu": "Gallida Strand",
+                "ro": "Plaja Gallida",
+                "en": "Gallida Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Küstenweg; der Strand wirkt bei Regen besonders wild und unberührt, ideal für Naturfreunde.",
+                "hu": "Ügyeljen a tócsákra a partmenti úton; a strand esőben különösen vadnak és érintetlennek tűnik, ideális a természet kedvelőinek.",
+                "ro": "Atenție la bălțile de pe poteca de coastă; plaja pare deosebit de sălbatică și neatinsă în ploaie, ideală pentru iubitorii de natură.",
+                "en": "Watch out for puddles on the coastal path; the beach looks particularly wild and untouched in the rain, ideal for nature lovers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kremala",
+                "hu": "Kremala",
+                "ro": "Kremala",
+                "en": "Kremala"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bergauf mit niedriger Übersetzung, da der Boden rutschig sein kann; die frische Regenluft macht die Anstrengung wett.",
+                "hu": "Kisebb fokozatban tekerjen felfelé, mert a talaj csúszós lehet; a friss eső utáni tiszta levegő kárpótolja majd az erőfeszítésért.",
+                "ro": "Pedalați în sus într-o treaptă inferioară, deoarece solul poate fi alunecos; aerul proaspăt de ploaie va compensa efortul depus.",
+                "en": "Cycle uphill in a lower gear as the ground may be slippery; the fresh rain-cleansed air will compensate for the extra effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Pharos",
+                "hu": "Pharos Világítótorony",
+                "ro": "Farul Pharos",
+                "en": "Pharos Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad gut gegen den Wind; die Sicht auf das stürmische Meer vom Hafen aus ist bei Regen absolut spektakulär.",
+                "hu": "Rögzítse jól a kerékpárját a szél ellen; a viharos tenger látványa a kikötőből esőben is teljesen lenyűgöző és látványos.",
+                "ro": "Asigurați-vă bine bicicleta împotriva vântului; vederea mării furtunoase din port este absolut spectaculoasă chiar și în ploaie.",
+                "en": "Secure your bike well against the wind; the view of the stormy sea from the harbor is absolutely spectacular even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Agios Antonios",
+                "hu": "Agios Antonios Strand",
+                "ro": "Plaja Agios Antonios",
+                "en": "Agios Antonios Beach"
+              },
+              "tip_5lang": {
+                "de": "Die nasse Küstenstraße erfordert beim Radfahren Vorsicht; genießen Sie die Einsamkeit des Strandes unter einem regnerischen Himmel.",
+                "hu": "A nedves tengerparti út óvatosságot igényel kerékpározáskor; élvezze a strand magányát a borongós, esős égbolt alatt.",
+                "ro": "Drumul de coastă umed necesită prudență la mersul pe bicicletă; bucurați-vă de singurătatea plajei sub un cer ploios.",
+                "en": "The wet coastal road requires caution while cycling; enjoy the solitude of the beach under a moody, rainy sky."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein zügiger Start am Rathaus hilft, bei der Kälte warm zu bleiben. Mittags bietet das Museum einen kulturellen Stopp in beheizten Räumen. Die Nachmittagssonne wärmt die Küstenstraßen für eine angenehme Fahrt zum Strand. Da es früh dunkel wird, planen Sie Ihre Rückkehr zum Hafen rechtzeitig ein, um die beleuchtete Uferpromenade bei Dämmerung zu genießen.",
+            "hu": "A Városházától való tempós indulás segít a hidegben melegen maradni. Délben a múzeum fűtött tereiben kulturális pihenőt tarthat. A délutáni napsütés felmelegíti a part menti utakat a tengerparti tekeréshez. Mivel korán sötétedik, tervezze meg időben a visszatérést, hogy még szürkületben élvezhesse a kivilágított partot.",
+            "ro": "O pornire rapidă de la Primărie vă ajută să vă mențineți cald în frig. La prânz, muzeul oferă o oprire culturală în spații încălzite. Soarele de după-amiază încălzește drumurile de coastă pentru o plimbare plăcută. Deoarece se întunecă devreme, planificați-vă întoarcerea la timp.",
+            "en": "A brisk start at the Town Hall helps keep you warm in the cold. By midday, the museum provides a cultural stop in heated rooms. The afternoon sun warms the coastal roads for a pleasant ride to the beach. As it gets dark early, plan your return to the harbor in time to enjoy the illuminated waterfront at dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus von Karystos",
+                "hu": "Karystos Városháza",
+                "ro": "Primăria Karystos",
+                "en": "Karystos Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermo-Handschuhe für die Fahrt; die kühle Winterluft ist am Lenker deutlich spürbar, besonders am frühen Morgen.",
+                "hu": "Viseljen termokesztyűt a tekeréshez; a hűvös téli levegő a kormányt fogva jól érezhető, különösen a kora reggeli órákban.",
+                "ro": "Purtați mănuși termice pentru plimbare; aerul rece de iarnă este clar vizibil când țineți ghidonul, mai ales dimineața devreme.",
+                "en": "Wear thermal gloves for the ride; the cool winter air is clearly felt while holding the handlebars, especially in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Karystos",
+                "hu": "Karystos Régészeti Múzeuma",
+                "ro": "Muzeul Arheologic din Karystos",
+                "en": "Archeological Museum of Karystos"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Beine aufzuwärmen; genießen Sie die Stille des Museums, die im Winter besonders zur Geltung kommt.",
+                "hu": "Ideális hely a lábak felmelegítésére; élvezze a múzeum csendjét, amely télen különösen nyugodt és meghitt hangulatot áraszt.",
+                "ro": "Un loc ideal pentru a vă încălzi picioarele; bucurați-vă de liniștea muzeului, care este deosebit de calmă și primitoare iarna.",
+                "en": "An ideal spot to warm up your legs; enjoy the museum's silence, which feels particularly calm and welcoming in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Gallida",
+                "hu": "Gallida Strand",
+                "ro": "Plaja Gallida",
+                "en": "Gallida Beach"
+              },
+              "tip_5lang": {
+                "de": "Die frische Seeluft ist belebend; machen Sie eine kurze Pause und genießen Sie die klare Sicht über den Euböischen Golf.",
+                "hu": "A friss tengeri levegő élénkítő; tartson egy rövid szünetet és élvezze a tiszta kilátást az Euboiai-öbölre a téli napsütésben.",
+                "ro": "Aerul curat al mării este înviorător; luați o scurtă pauză și bucurați-vă de vederea clară asupra Golfului Eubea în soarele de iarnă.",
+                "en": "The fresh sea air is invigorating; take a short break and enjoy the clear views across the Euboean Gulf in the winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Kremala",
+                "hu": "Kremala",
+                "ro": "Kremala",
+                "en": "Kremala"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird Sie schnell aufwärmen; oben angekommen, bietet sich ein fantastischer Panoramablick auf das winterliche Karystos.",
+                "hu": "Az emelkedő gyorsan felmelegíti majd; a felérkezés után fantasztikus panoráma nyílik a téli Karystosra és a környező tájra.",
+                "ro": "Urcarea te va încălzi rapid; odată ajuns în vârf, există o panoramă fantastică a Karystosului de iarnă și a peisajului din jur.",
+                "en": "The climb will quickly warm you up; once at the top, there is a fantastic panoramic view of winter Karystos and the landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm Pharos",
+                "hu": "Pharos Világítótorony",
+                "ro": "Farul Pharos",
+                "en": "Pharos Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp vor Sonnenuntergang ein; das goldene Licht der Wintersonne lässt den Leuchtturm in warmen Farben erstrahlen.",
+                "hu": "Tervezze ezt a megállót naplemente elé; a téli nap aranyló fényei meleg színekbe öltöztetik a világítótornyot a kikötőben.",
+                "ro": "Planificați această oprire înainte de apus; luminile aurii ale soarelui de iarnă scaldă farul din port în culori calde.",
+                "en": "Plan this stop before sunset; the golden lights of the winter sun bathe the lighthouse in the harbor in warm colors."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Agios Antonios",
+                "hu": "Agios Antonios Strand",
+                "ro": "Plaja Agios Antonios",
+                "en": "Agios Antonios Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das offene Meer, bevor die Dämmerung einsetzt; die winterliche Einsamkeit ist hier besonders spürbar.",
+                "hu": "Élvezze a nyílt tengerre nyíló kilátást, mielőtt beáll a szürkület; a téli magány és csend itt különösen jól érezhető a parton.",
+                "ro": "Bucurați-vă de vederea spre marea deschisă înainte de lăsarea serii; singurătatea și liniștea iernii sunt simțite aici pe plajă.",
+                "en": "Enjoy the view towards the open sea before dusk sets in; the winter solitude and silence are particularly felt here on the beach."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózzon fel a hegyekbe, és kezdje a napot az impozáns Vörös Kastélynál, majd tegyen egy rövid látogatást a római vízvezetékhez. Délben visszatér a nyüzsgő városközpontba, hogy felfedezze a városházát és a mauzóleum romjait. Délután induljon kelet felé a gyönyörű partvonal mentén, és pihenjen a hívogató Agios Athanasios strandon. Fejezze be útját a békés Marmarában, figyelve a naplemente élénk színeit az Égei-tenger felett.",
         "ro": "Conduceți pe dealuri pentru a începe ziua la impunătorul Castello Rosso, urmat de o scurtă vizită la arcadele Apeductului Roman. Amiaza vă aduce înapoi în centrul orașului pentru a explora grandiosul Demarkheio și ruinele Mausoleului. După-amiaza, mergeți spre est de-a lungul coastei frumoase pentru a vă relaxa la plaja primitoare Agios Athanasios. Încheiați-vă călătoria la Marmara, privind apusul care aruncă culori vibrante peste Marea Egee.",
         "en": "Drive up the hills to start your day at the imposing Castello Rosso, followed by a quick visit to the impressive arches of the Roman Aqueduct. Midday brings you back down to the lively town center to explore the grand Demarkheio and the ruins of the Procurator's Mausoleum. In the afternoon, head east along the beautiful coastline to relax at the inviting Agios Athanasios beach. End your road trip at the serene Marmara, watching the sunset cast vibrant colors over the Aegean Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Castello Rosso, wo der Regen die alten Steine dunkel glänzen lässt. Mittags führt die Fahrt zum römischen Aquädukt, das in der wolkenverhangenen Landschaft dramatisch wirkt. Parken Sie bequem am Rathaus und besuchen Sie das Museum im Trockenen. Abends bietet die Autofahrt entlang der Küste sichere Ausblicke auf die stürmische Ägäis, bevor Sie in ein warmes Restaurant einkehren.",
+            "hu": "Kezdje a Castello Rossónál, ahol az eső sötétre festi az ősi köveket. Délben az út a római vízvezetékhez vezet, amely drámai látványt nyújt a felhős tájban. Parkoljon kényelmesen a Városházánál, és látogasson el szárazon a múzeumba. Este a tengerparti autózás biztonságos kilátást nyújt a viharos Égei-tengerre, mielőtt betérne egy meleg étterembe.",
+            "ro": "Începeți la Castello Rosso, unde ploaia întunecă pietrele antice. La prânz, drumul duce la apeductul roman, care arată dramatic în peisajul înnorat. Parcați confortabil la Primărie și vizitați muzeul la adăpost. Seara, plimbarea cu mașina pe coastă oferă vederi sigure ale mării învolburate.",
+            "en": "Start at Castello Rosso, where the rain turns the ancient stones dark and shiny. By midday, the drive to the Roman aqueduct offers dramatic views in the cloudy landscape. Park conveniently at the Town Hall and visit the museum while staying dry. In the evening, the coastal drive provides safe views of the stormy Aegean before heading to a warm restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Rosso",
+                "hu": "Castello Rosso",
+                "ro": "Castello Rosso",
+                "en": "Castello Rosso"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Regen rutschig sein; genießen Sie den dramatischen Blick auf Karystos direkt aus dem Schutz Ihres Autos.",
+                "hu": "A felfelé vezető út esőben csúszós lehet; élvezze a Karystosra nyíló drámai kilátást közvetlenül az autója biztonságából.",
+                "ro": "Drumul de urcare poate fi alunecos în ploaie; bucurați-vă de vederea dramatică asupra Karystos direct din siguranța mașinii dumneavoastră.",
+                "en": "The drive up can be slippery in the rain; enjoy the dramatic view over Karystos directly from the safety and shelter of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Aquädukt",
+                "hu": "Római Vízvezeték",
+                "ro": "Apeductul Roman",
+                "en": "Roman Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos genügt; das Aquädukt wirkt bei grauem Himmel besonders imposant und geschichtsträchtig.",
+                "hu": "Egy rövid megálló fotózáshoz bőven elég; a vízvezeték a szürke égbolt alatt különösen impozáns és történelmi hangulatú.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă; apeductul pare deosebit de impunător și istoric sub cerul cenușiu.",
+                "en": "A short stop for photos is plenty; the aqueduct looks particularly imposing and steeped in history under the grey rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Karystos",
+                "hu": "Karystos Városháza",
+                "ro": "Primăria Karystos",
+                "en": "Karystos Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in der Nähe, um schnell in den Schutz der Arkaden zu gelangen; bewundern Sie das Rathaus trockenen Fußes.",
+                "hu": "Használja a közeli parkolókat, hogy gyorsan az árkádok védelmébe érjen; csodálja meg a Városházát teljesen száraz lábbal.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru a ajunge rapid sub protecția porticelor; admirați Primăria cu picioarele uscate.",
+                "en": "Use the nearby parking spots to quickly reach the shelter of the porticos; admire the Town Hall while keeping your feet dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum des Prokurators",
+                "hu": "Procurator Mauzóleuma",
+                "ro": "Mausoleul Procuratorului",
+                "en": "Procurator's Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; die römischen Ruinen wirken bei Regen besonders atmosphärisch und geheimnisvoll.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a római romok esőben különösen hangulatosnak és titokzatosnak tűnnek a városban.",
+                "ro": "Parcați cât mai aproape de intrare; ruinele romane par deosebit de atmosferice și misterioase în ploaie în interiorul orașului.",
+                "en": "Park as close to the entrance as possible; the Roman ruins look especially atmospheric and mysterious in the rain within the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Agios Athanasios",
+                "hu": "Agios Athanasios Strand",
+                "ro": "Plaja Agios Athanasios",
+                "en": "Agios Athanasios Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer gemütlich vom Auto aus; die Kraft der Wellen ist bei schlechtem Wetter beeindruckend.",
+                "hu": "Figyelje a viharos tengert kényelmesen az autójából; a hullámok ereje rossz időben is lenyűgöző látványt nyújt a parton.",
+                "ro": "Priviți marea furtunoasă confortabil din mașină; puterea valurilor oferă o priveliște impresionantă chiar și pe vreme rea.",
+                "en": "Watch the stormy sea comfortably from your car; the power of the waves provides an impressive sight even in bad weather on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Marmara",
+                "hu": "Marmara Strand",
+                "ro": "Plaja Marmara",
+                "en": "Marmara Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet spektakuläre Ausblicke; halten Sie an sicheren Stellen, um die dramatische Szenerie zu fotografieren.",
+                "hu": "A tengerparti út látványos kilátást kínál; álljon meg a biztonságos helyeken, hogy lefotózza a drámai tengeri jeleneteket.",
+                "ro": "Drumul de coastă oferă vederi spectaculoase; opriți în locuri sigure pentru a fotografia scenele dramatice de la mare.",
+                "en": "The coastal road offers spectacular views; stop at safe spots to photograph the dramatic sea scenes from the warmth of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Castello Rosso und genießen Sie die klare Winterfernbedienung. Mittags führt die Fahrt zum Aquädukt, wo die Wintersonne lange Schatten wirft. In Karystos parken Sie am Rathaus und besuchen das beheizte Museum. Vor dem frühen Sonnenuntergang gegen 17:00 Uhr fahren Sie zu den Stränden, um das goldene Licht über dem Meer zu erleben, bevor Sie den Abend gemütlich ausklingen lassen.",
+            "hu": "Kezdje a Castello Rossónál, és élvezze a tiszta téli kilátást. Délben az út a vízvezetékhez vezet, ahol a téli nap hosszú árnyékokat vet. Karystosban parkoljon a Városházánál, és látogasson el a fűtött múzeumba. A korai, 17 órai naplemente előtt autózzon a strandokhoz, hogy láthassa az aranyló fényeket a tenger felett, majd fejezze be a napot egy meghitt helyen.",
+            "ro": "Începeți la Castello Rosso și bucurați-vă de vederea clară de iarnă. La prânz, drumul duce la apeduct, unde soarele de iarnă proiectează umbre lungi. În Karystos, parcați la Primărie și vizitați muzeul încălzit. Înainte de apusul devreme de la ora 17:00, mergeți spre plaje pentru a vedea luminile aurii.",
+            "en": "Start at Castello Rosso and enjoy the clear winter views. By midday, the drive leads to the aqueduct where the winter sun casts long shadows. In Karystos, park at the Town Hall and visit the heated museum. Before the early sunset around 17:00, drive to the beaches to see the golden lights over the sea before ending the day cozy and warm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Rosso",
+                "hu": "Castello Rosso",
+                "ro": "Castello Rosso",
+                "en": "Castello Rosso"
+              },
+              "tip_5lang": {
+                "de": "Die Burg bietet im Winter klare Sicht auf die schneebedeckten Berge; bringen Sie eine warme Jacke für den kurzen Rundgang mit.",
+                "hu": "A vár télen tiszta kilátást nyújt a távoli hófödte hegyekre; vigyen magával meleg kabátot a rövid vársétához a hideg szélben.",
+                "ro": "Castelul oferă o vedere clară asupra munților înzăpeziți în timpul iernii; aduceți o haină groasă pentru scurta plimbare prin castel.",
+                "en": "The castle offers clear views of the snow-capped mountains in winter; bring a warm jacket for the short walk around the castle in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Römisches Aquädukt",
+                "hu": "Római Vízvezeték",
+                "ro": "Apeductul Roman",
+                "en": "Roman Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp ist ideal; die tiefe Wintersonne hebt die Textur der alten Steine besonders schön hervor.",
+                "hu": "Egy gyors fotómegálló ideális; az alacsonyan járó téli nap különösen szépen emeli ki az ókori kövek textúráját a tájban.",
+                "ro": "O oprire rapidă pentru fotografii este ideală; soarele jos de iarnă scoate în evidență textura pietrelor antice într-un mod deosebit.",
+                "en": "A quick photo stop is ideal; the low winter sun highlights the texture of the ancient stones particularly beautifully in the landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Karystos",
+                "hu": "Karystos Városháza",
+                "ro": "Primăria Karystos",
+                "en": "Karystos Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Gebäude im weichen Winterlicht; parken Sie direkt am Platz, um die Kälte zu meiden.",
+                "hu": "Élvezze az épület látványát a lágy téli fényben; parkoljon közvetlenül a térnél, hogy elkerülje a hosszas kint tartózkodást a hidegben.",
+                "ro": "Bucurați-vă de vederea clădirii în lumina blândă a iernii; parcați direct în piață pentru a evita șederea prelungită afară în frig.",
+                "en": "Enjoy the view of the building in the soft winter light; park directly by the square to avoid prolonged stays outside in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleum des Prokurators",
+                "hu": "Procurator Mauzóleuma",
+                "ro": "Mausoleul Procuratorului",
+                "en": "Procurator's Mausoleum"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Besuch am Vormittag nutzt die wärmsten Sonnenstrahlen aus; die antiken Ruinen strahlen im Winter eine besondere Ruhe aus.",
+                "hu": "Egy rövid délelőtti látogatás során kihasználhatja a legmelegebb napsugarakat; az ókori romok télen különleges nyugalmat árasztanak.",
+                "ro": "O scurtă vizită de dimineață profită de cele mai calde raze de soare; ruinele antice emană o liniște deosebită iarna.",
+                "en": "A short morning visit takes advantage of the warmest sun rays; the ancient ruins radiate a special tranquility during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Agios Athanasios",
+                "hu": "Agios Athanasios Strand",
+                "ro": "Plaja Agios Athanasios",
+                "en": "Agios Athanasios Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang am leeren Strand; die winterliche Seeluft ist frisch und belebend, bevor Sie ins Auto zurückkehren.",
+                "hu": "Tegyen egy rövid sétát az üres strandon; a téli tengeri levegő friss és élénkítő, mielőtt visszatérne az autója melegébe.",
+                "ro": "Faceți o scurtă plimbare pe plaja goală; aerul mării de iarnă este proaspăt și înviorător înainte de a vă întoarce la căldura mașinii.",
+                "en": "Take a short walk on the empty beach; the winter sea air is fresh and invigorating before you return to the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Marmara",
+                "hu": "Marmara Strand",
+                "ro": "Plaja Marmara",
+                "en": "Marmara Beach"
+              },
+              "tip_5lang": {
+                "de": "Die ideale Zeit für diesen Strand ist kurz vor 17:00 Uhr; erleben Sie den frühen Sonnenuntergang über dem Euböischen Golf vom Auto aus.",
+                "hu": "Az ideális időpont ehhez a strandhoz közvetlenül 17 óra előtt van; nézze végig a korai naplementét az Euboiai-öböl felett az autóból.",
+                "ro": "Momentul ideal pentru această plajă este chiar înainte de ora 17:00; urmăriți apusul devreme peste Golful Eubea direct din mașină.",
+                "en": "The ideal time for this beach is just before 17:00; watch the early sunset over the Euboean Gulf from the comfort of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Museu Antón megtekintésével, ahol tengeri művészet és gyönyörű szabadtéri szobrok várják. Délben a Teatru Prendes kulturális szívébe merülhet Candásban, majd a Palmera strandon pihenhet. A délután festői parti sétát tartogat a Sablera Rebolleres felé. Este a világítótoronynál csodálhatja meg a lenyűgöző naplementét a morajló óceán felett.",
         "ro": "Începeți dimineața cu o vizită la Museu Antón, unde vă așteaptă artă maritimă și sculpturi exterioare. La prânz, scufundați-vă în inima culturală a orașului la Teatru Prendes, înainte de a vă relaxa pe plaja Palmera. După-amiaza oferă o plimbare pitorească pe coastă spre Sablera Rebolleres. Seara, bucurați-vă de un apus de soare perfect la faimosul far din Candás.",
         "en": "Start your morning with a visit to Museu Antón, where maritime art and beautiful outdoor sculptures await your discovery. At midday, dive into the cultural heart of Candás at Teatru Prendes before relaxing on Palmera beach. The afternoon offers a picturesque coastal walk taking you towards Sablera Rebolleres. In the evening, enjoy the perfect sunset views from the iconic lighthouse."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im geschützten Museu Anton, um dem Morgenregen zu entgehen. Mittags bietet das historische Theater einen gemütlichen Rückzugsort für kulturelle Einblicke. Am Nachmittag führt der Weg entlang der Küste, wo die stürmische See ein beeindruckendes Schauspiel bietet. Den Abend lassen Sie sicher in einer der wetterfesten Hafentavernen ausklingen.",
+            "hu": "Kezdje a napot a Museu Anton fedett kiállítótereiben, elkerülve a reggeli záporokat. Délben a történelmi színház nyújt menedéket és kulturális élményeket. Délután a tengerparti sétányon a hullámok látványa lenyűgöző az esőben, de ügyeljen a csúszós kövekre. Az estét töltse a kikötő egyik hangulatos, esővédett teraszán, figyelve a vízen táncoló fényeket.",
+            "ro": "Începeți ziua în interiorul protejat al Museu Anton pentru a evita ploile de dimineață. La prânz, teatrul istoric oferă un refugiu cultural excelent. După-amiaza, plimbarea pe faleză dezvăluie spectacolul mării agitate; purtați încălțăminte aderentă pe pavajul umed. Seara se încheie plăcut într-o tavernă din port, ascultând sunetul ploii pe acoperiș.",
+            "en": "Start your day inside the Museu Anton to stay dry during the morning showers. At noon, the historic theater provides a perfect cultural shelter. In the afternoon, the coastal path offers dramatic sea views; keep a sturdy umbrella ready for the gusts. End your evening in a cozy harbor pub, watching the rain reflect off the lighthouse's glow."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Anton",
+                "hu": "Museu Anton",
+                "ro": "Museu Anton",
+                "en": "Museu Anton"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Skulpturen im trockenen Innenraum; nutzen Sie den Schirmständer am Eingang, um das Museum ohne tropfende Last zu erkunden.",
+                "hu": "Csodálja meg a szobrokat a száraz belső terekben; használja a bejárati esernyőtartót, hogy kényelmesen, vizes teher nélkül járhassa be a tárlatot.",
+                "ro": "Admirați sculpturile în interiorul uscat; folosiți suportul de umbrele de la intrare pentru a explora muzeul fără povara obiectelor ude.",
+                "en": "Admire the sculptures in the dry interior; use the umbrella stand at the entrance to explore the museum without carrying wet gear around."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatru Prendes",
+                "hu": "Teatru Prendes",
+                "ro": "Teatru Prendes",
+                "en": "Teatru Prendes"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Gebäude ist der ideale Zufluchtsort vor Schauern; prüfen Sie das aktuelle Kinoprogramm für eine gemütliche Pause im Trockenen.",
+                "hu": "Ez a történelmi épület ideális búvóhely a záporok elől; nézze meg az aktuális moziműsort egy kellemes, szárazon töltött kulturális pihenőhöz.",
+                "ro": "Această clădire istorică este refugiul ideal împotriva averselor; verificați programul cinematografului pentru o pauză relaxantă la adăpost.",
+                "en": "This historic building is the ideal refuge from showers; check the current cinema listings for a cozy and dry cultural break indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmera beach",
+                "hu": "Palmera beach",
+                "ro": "Palmera beach",
+                "en": "Palmera beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht auf die graue See von den Arkaden aus; wasserfeste Schuhe sind für den kurzen Weg über den nassen Sand unerlässlich.",
+                "hu": "Élvezze a szürke tenger látványát az árkádok alól; vízálló cipő elengedhetetlen a nedves homokon átvezető rövid sétához a parton.",
+                "ro": "Bucurați-vă de priveliștea mării gri de sub arcade; încălțămintea impermeabilă este esențială pentru scurta plimbare pe nisipul ud.",
+                "en": "Enjoy the view of the grey sea from under the arcades; waterproof shoes are essential for the short walk across the wet sand today."
+              }
+            },
+            {
+              "name": {
+                "de": "Sablera Rebolleres",
+                "hu": "Sablera Rebolleres",
+                "ro": "Sablera Rebolleres",
+                "en": "Sablera Rebolleres"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen wirken im Regen besonders dramatisch; bleiben Sie auf dem asphaltierten Weg, da die Strandfelsen bei Nässe extrem rutschig sind.",
+                "hu": "A sziklák az esőben különösen drámai hatást keltenek; maradjon az aszfaltozott úton, mert a parti kövek ilyenkor rendkívül csúszósak.",
+                "ro": "Stâncile par extrem de dramatice în ploaie; rămâneți pe drumul asfaltat, deoarece pietrele de pe plajă devin foarte alunecoase când sunt ude.",
+                "en": "The cliffs look particularly dramatic in the rain; stay on the paved path as the beach rocks become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Candas",
+                "hu": "Faro de Candas",
+                "ro": "Faro de Candas",
+                "en": "Faro de Candas"
+              },
+              "tip_5lang": {
+                "de": "Der Leuchtturm im Nebel bietet ein mystisches Fotomotiv; halten Sie ein Mikrofasertuch bereit, um Ihre Kameralinse vor Regentropfen zu schützen.",
+                "hu": "A ködbe burkolózó világítótorony misztikus fotótéma; legyen kéznél mikroszálas kendő, hogy megóvja a lencsét a szemerkélő esőcseppektől.",
+                "ro": "Farul învăluit în ceață oferă un cadru foto mistic; aveți la îndemână o lavetă din microfibră pentru a proteja lentila de picăturile de ploaie.",
+                "en": "The lighthouse shrouded in mist offers a mystic photo opportunity; keep a microfiber cloth handy to protect your lens from raindrops."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das milde Winterlicht am Vormittag für einen Besuch im Museu Anton. Mittags wärmen Sie sich im Teatru Prendes auf, während die kühle Meeresbrise draußen weht. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Strandspaziergang am frühen Nachmittag planen. Der Abend am Hafen ist kurz, aber dank der festlichen Beleuchtung besonders stimmungsvoll.",
+            "hu": "Használja ki a délelőtti lágy téli fényeket a Museu Anton látogatásához. Délben melegedjen fel a színház belső terében, amíg odakint hűvös tengeri szél fúj. Mivel a nap 17:00 körül lenyugszik, a tengerparti sétát kora délutánra időzítse. Az este a kikötőben hamar eljön, de az ünnepi fények miatt ilyenkor a leghangulatosabb.",
+            "ro": "Profitați de lumina blândă de iarnă pentru o vizită de dimineață la Museu Anton. La prânz, încălziți-vă în interiorul teatrului în timp ce briza rece suflă afară. Deoarece soarele apune în jurul orei 17:00, planificați plimbarea pe plajă devreme. Seara în port este răcoroasă, dar luminile festive creează o atmosferă specială.",
+            "en": "Make use of the soft morning winter light for a visit to Museu Anton. At noon, warm up inside the theater while the cool sea breeze blows outside. As the sun sets around 17:00, schedule your beach walks for the early afternoon. The evening at the harbor comes early, but the seasonal lights make it exceptionally atmospheric."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Anton",
+                "hu": "Museu Anton",
+                "ro": "Museu Anton",
+                "en": "Museu Anton"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Galerien bieten einen komfortablen Start in den Tag; genießen Sie die lokale Kunst ohne die Kälte der Küstenwinde zu spüren.",
+                "hu": "A fűtött galériák kényelmes kezdést biztosítanak a naphoz; élvezze a helyi művészetet anélkül, hogy érezné a part felől fújó hideg szelet.",
+                "ro": "Galeriile încălzite oferă un început confortabil de zi; bucurați-vă de arta locală fără a simți frigul vântului de pe coastă.",
+                "en": "The heated galleries offer a comfortable start to the day; enjoy local art without feeling the bite of the cold coastal winds outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatru Prendes",
+                "hu": "Teatru Prendes",
+                "ro": "Teatru Prendes",
+                "en": "Teatru Prendes"
+              },
+              "tip_5lang": {
+                "de": "Dieses Kulturzentrum ist ein warmer Ort für die Mittagszeit; ziehen Sie sich eine zusätzliche Schicht für den anschließenden Strandweg an.",
+                "hu": "Ez a kulturális központ kiváló melegedőhely délidőben; vegyen fel egy plusz réteg ruhát, mielőtt elindulna a szeles tengerparti szakaszon.",
+                "ro": "Acest centru cultural este un loc cald pentru prânz; puneți-vă un strat suplimentar de haine înainte de a pleca pe faleza vântoasă.",
+                "en": "This cultural center is a warm spot for midday; put on an extra layer of clothing before heading out to the windy beach sections later."
+              }
+            },
+            {
+              "name": {
+                "de": "Palmera beach",
+                "hu": "Palmera beach",
+                "ro": "Palmera beach",
+                "en": "Palmera beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter herrlich leer und ruhig; eine Thermoskanne mit Tee macht die Pause im kühlen Sand zu einem gemütlichen Erlebnis.",
+                "hu": "A strand télen csodálatosan üres és csendes; egy termosz meleg teával a hűvös homokban ücsörgés is felejthetetlen élménnyé válik.",
+                "ro": "Plaja este minunat de goală și liniștită iarna; un termos cu ceai cald face ca pauza pe nisipul rece să fie o experiență foarte plăcută.",
+                "en": "The beach is wonderfully empty and quiet in winter; a thermos with hot tea makes sitting on the cool sand a very cozy experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Sablera Rebolleres",
+                "hu": "Sablera Rebolleres",
+                "ro": "Sablera Rebolleres",
+                "en": "Sablera Rebolleres"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das wilde Wintermeer aus sicherer Entfernung; tragen Sie eine winddichte Jacke, da die Böen hier besonders kräftig sein können.",
+                "hu": "Figyelje a vad téli tengert biztonságos távolságból; viseljen szélálló kabátot, mert a széllökések ezen a szakaszon igen erősek lehetnek.",
+                "ro": "Observați marea sălbatică de iarnă de la o distanță sigură; purtați o jachetă rezistentă la vânt, deoarece rafalele pot fi puternice aici.",
+                "en": "Observe the wild winter sea from a safe distance; wear a windproof jacket as the gusts can be particularly strong along this stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Candas",
+                "hu": "Faro de Candas",
+                "ro": "Faro de Candas",
+                "en": "Faro de Candas"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um das goldene Licht kurz vor Sonnenuntergang zu sehen; die Dämmerung setzt im Winter sehr plötzlich ein.",
+                "hu": "Érkezzen 16:30 előtt, hogy lássa a naplemente előtti arany fényeket; a szürkület télen nagyon hirtelen vált át sötét éjszakába.",
+                "ro": "Sosiți înainte de ora 16:30 pentru a vedea lumina aurie de dinaintea apusului; amurgul se instalează foarte brusc pe timpul iernii.",
+                "en": "Arrive before 16:30 to catch the golden light just before sunset; twilight sets in very suddenly during the winter months here."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja a Teatru Prendes történelmi varázsával és a Museu Antón inspiráló túrájával kezdődik. Délben tekerjen el a Faro de Candas-hoz, amely széles óceáni kilátást nyújt. Délután sportosan folytatódik a geológiailag érdekes Sablera de San Pedro d'Antromero és a csillogó Playa de Los Cristales felé. A napot a békés Playa Cristal homokján pihenve zárhatja.",
         "ro": "Aventura cu bicicleta începe cu farmecul istoric de la Teatru Prendes și un tur la Museu Antón. La prânz, pedalați spre Faro de Candas, care oferă vederi ample asupra oceanului. După-amiaza continuă energic spre Sablera de San Pedro d'Antromero și impresionanta Playa de Los Cristales. Încheiați-vă ziua pe nisipurile liniștite de la izolata Playa Cristal.",
         "en": "Your cycling adventure begins with the historic charm of Teatru Prendes and an inspiring tour through Museu Antón. At midday, ride to Faro de Candas, which offers sweeping ocean views. The afternoon continues energetically towards the geological Sablera de San Pedro d'Antromero and the sparkling Playa de Los Cristales. Conclude your active day on the peaceful sands of Playa Cristal."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Tour vorsichtig am Teatru Prendes, da die Straßen rutschig sein können. Vormittags bietet das Museu Anton eine längere, trockene Pause. Die Fahrt zum Leuchtturm erfordert volle Konzentration und gute Regenkleidung. Am Nachmittag sollten Sie die Küstenwege meiden, wenn der Wind zunimmt, und stattdessen befestigte, weniger exponierte Routen wählen.",
+            "hu": "Kezdje a túrát óvatosan a színháznál, mivel az utak csúszósak lehetnek. Délelőtt a Museu Anton kínál hosszabb, száraz pihenőt. A világítótoronyhoz vezető tekerés teljes koncentrációt és jó esőruházatot igényel. Délután kerülje a kitett parti utakat, ha felerősödik a szél, válasszon inkább védettebb, aszfaltozott útvonalakat.",
+            "ro": "Începeți turul cu atenție la teatru, deoarece drumurile pot fi alunecoase. Dimineața, Museu Anton oferă o pauză lungă și uscată. Drumul spre far necesită concentrare maximă și echipament de ploaie bun. După-amiaza, evitați potecile de coastă dacă vântul se întețește și alegeți rute mai puțin expuse.",
+            "en": "Start your ride carefully at the theater as the roads can be slippery. In the morning, Museu Anton offers a long, dry break. The cycle to the lighthouse requires full concentration and quality rain gear. In the afternoon, avoid exposed coastal paths if the wind picks up, opting for sheltered paved routes instead."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatru Prendes",
+                "hu": "Teatru Prendes",
+                "ro": "Teatru Prendes",
+                "en": "Teatru Prendes"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenbekleidung zu richten; parken Sie das Rad sicher auf dem Pflaster, nicht auf Schlamm.",
+                "hu": "Használja a fedett bejáratot az esőruházat megigazításához; parkolja a biciklit biztonságos aszfalton, kerülve a felázott, sáros részeket.",
+                "ro": "Folosiți intrarea acoperită pentru a vă ajusta echipamentul de ploaie; parcați bicicleta pe pavaj sigur, evitând zonele cu noroi.",
+                "en": "Use the covered entrance area to adjust your rain gear; park your bike securely on the pavement rather than on potentially muddy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Anton",
+                "hu": "Museu Anton",
+                "ro": "Museu Anton",
+                "en": "Museu Anton"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt, bis der stärkste Guss vorbei ist; der Innenraum bietet viel Platz, um sich ohne nasse Jacke zu entspannen.",
+                "hu": "Hosszabbítsa meg a látogatást, amíg a legnagyobb zápor elvonul; a belső terekben bőven van hely a kikapcsolódáshoz vizes kabát nélkül is.",
+                "ro": "Prelungiți vizita până trece aversa cea mai puternică; interiorul oferă mult spațiu pentru relaxare fără jacheta udă pe umeri.",
+                "en": "Extend your stay until the heaviest downpour passes; the interior offers plenty of space to relax without having to wear your wet jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Candas",
+                "hu": "Faro de Candas",
+                "ro": "Faro de Candas",
+                "en": "Faro de Candas"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da die Nässe die Bremskraft reduziert; genießen Sie den dramatischen Blick auf das graue Meer.",
+                "hu": "Indulás előtt ellenőrizze a fékeket, mert a nedvesség csökkenti a fékhatást; élvezze a drámai kilátást a hullámzó, szürke tengerre.",
+                "ro": "Verificați frânele înainte de plecare, deoarece umezeala reduce eficiența acestora; admirați vederea dramatică spre marea agitată.",
+                "en": "Check your brakes before departing, as wet conditions reduce braking power; enjoy the dramatic views of the churning grey sea from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Sablera de San Pedro d'Antromero",
+                "hu": "Sablera de San Pedro d'Antromero",
+                "ro": "Sablera de San Pedro d'Antromero",
+                "en": "Sablera de San Pedro d'Antromero"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf dem sandigen Untergrund, da das Rad leicht wegrutschen kann; die menschenleere Bucht ist im Regen sehr friedlich.",
+                "hu": "Tekerjen lassan a homokos részeken, mert a kerék könnyen megcsúszhat; az elhagyatott öböl az esőben különösen békés hangulatot áraszt.",
+                "ro": "Mergeți încet pe porțiunile cu nisip, deoarece roata poate aluneca ușor; golful pustiu este foarte liniștit în timpul ploii.",
+                "en": "Cycle slowly on sandy sections as your wheels can slip easily; the deserted bay is incredibly peaceful in the rain today."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Los Cristales",
+                "hu": "Playa de Los Cristales",
+                "ro": "Playa de Los Cristales",
+                "en": "Playa de Los Cristales"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Glasscherben glänzen im Regen besonders schön; tragen Sie Handschuhe, um beim Radeln warme und griffige Hände zu behalten.",
+                "hu": "A nedves üvegdarabok az esőben különösen szépen csillognak; viseljen kesztyűt, hogy kezei melegek maradjanak és biztosan fogja a kormányt.",
+                "ro": "Fragmentele de sticlă ude strălucesc frumos în ploaie; purtați mănuși pentru a avea mâinile calde și o aderență bună pe ghidon.",
+                "en": "The wet glass fragments shine beautifully in the rain; wear gloves to keep your hands warm and maintain a firm grip on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Cristal",
+                "hu": "Playa Cristal",
+                "ro": "Playa Cristal",
+                "en": "Playa Cristal"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Klippenvorsprüngen Schutz vor dem Wind; wischen Sie den Sattel vor der Rückfahrt trocken, um Komfort zu sichern.",
+                "hu": "Keressen menedéket a sziklakiszöggelések alatt a szél elől; törölje szárazra a nyerget a visszaindulás előtt a maximális kényelemért.",
+                "ro": "Căutați adăpost sub proeminențele stâncilor; ștergeți șaua înainte de plecare pentru a vă asigura un drum de întoarcere confortabil.",
+                "en": "Look for shelter under cliff overhangs to hide from the wind; wipe your saddle dry before the return trip for maximum comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Vormittag am Teatru Prendes, wenn die Wintersonne die Straßen leicht aufwärmt. Ein Besuch im Museu Anton bietet die nötige Aufwärmpause zur Mittagszeit. Planen Sie die Fahrt zum Leuchtturm und den Stränden so, dass Sie bis 16:30 Uhr fertig sind. Da die Temperaturen bei Sonnenuntergang rasch sinken, sollten Sie für die letzte Etappe warme Handschuhe und Ohrenschützer bereithalten.",
+            "hu": "Kezdje a délelőttöt a színháznál, amikor a téli nap már kissé felmelegíti az utakat. A Museu Anton látogatása tökéletes melegedőhely délidőben. A világítótoronyhoz és a strandokhoz vezető túrát úgy tervezze, hogy 16:30-ra végezzen. Mivel a hőmérséklet naplemente után gyorsan esik, legyen kéznél meleg kesztyű és fülvédő.",
+            "ro": "Începeți dimineața la teatru, când soarele de iarnă încălzește ușor drumurile. O vizită la Museu Anton oferă pauza necesară pentru încălzire la prânz. Planificați traseul spre far și plaje astfel încât să terminați până la 16:30. Deoarece temperatura scade rapid după apus, aveți pregătite mănuși calde.",
+            "en": "Start your morning at the theater when the winter sun slightly warms the roads. A visit to Museu Anton provides a necessary warm break at midday. Plan your trip to the lighthouse and beaches to finish by 16:30. As temperatures drop rapidly after sunset, keep warm gloves and ear warmers ready for the final leg."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatru Prendes",
+                "hu": "Teatru Prendes",
+                "ro": "Teatru Prendes",
+                "en": "Teatru Prendes"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Foyer hilft, die Kälte der Fahrt abzuschütteln; prüfen Sie den Reifendruck, da dieser bei Kälte oft etwas sinkt.",
+                "hu": "Egy rövid megálló az előcsarnokban segít lerázni a tekerés közbeni hideget; ellenőrizze a guminyomást, mert hidegben az gyakran lecsökken.",
+                "ro": "O scurtă oprire în foaier vă ajută să scăpați de frigul de afară; verificați presiunea în pneuri, deoarece aceasta scade adesea la rece.",
+                "en": "A quick stop in the foyer helps shake off the morning chill; check your tire pressure, as it often drops in colder temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Anton",
+                "hu": "Museu Anton",
+                "ro": "Museu Anton",
+                "en": "Museu Anton"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme des Museums ist perfekt, um die Beine zu lockern; nutzen Sie die Garderobe, um schwere Winterjacken während des Besuchs abzulegen.",
+                "hu": "A múzeum melege tökéletes a lábak ellazításához; használja a ruhatárat, hogy levegye a nehéz téli kabátot a kiállítás megtekintése alatt.",
+                "ro": "Căldura muzeului este perfectă pentru relaxarea picioarelor; folosiți garderoba pentru a lăsa jachetele groase în timpul vizitei.",
+                "en": "The museum's warmth is perfect for loosening your legs; use the cloakroom to drop off heavy winter jackets during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Candas",
+                "hu": "Faro de Candas",
+                "ro": "Faro de Candas",
+                "en": "Faro de Candas"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht am Leuchtturm ist spektakulär für Fotos; tragen Sie eine Windjacke, da es hier oben deutlich kälter ist als im Ort.",
+                "hu": "A téli fények a világítótoronynál lenyűgözőek a fotózáshoz; viseljen szélálló dzsekit, mert itt fent jóval hidegebb van, mint a városban.",
+                "ro": "Lumina de iarnă la far este spectaculoasă pentru fotografii; purtați o jachetă de vânt, deoarece aici este mult mai rece decât în oraș.",
+                "en": "The winter light at the lighthouse is spectacular for photos; wear a windbreaker as it's significantly colder up here than in town."
+              }
+            },
+            {
+              "name": {
+                "de": "Sablera de San Pedro d'Antromero",
+                "hu": "Sablera de San Pedro d'Antromero",
+                "ro": "Sablera de San Pedro d'Antromero",
+                "en": "Sablera de San Pedro d'Antromero"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit am Strand in der Wintersonne; halten Sie das Tempo hoch, um den Körper bei der kühlen Brise warm zu halten.",
+                "hu": "Élvezze a strand magányát a téli napsütésben; tartsa a tempót tekerés közben, hogy a hűvös szél ellenére is melegen tartsa a testét.",
+                "ro": "Bucurați-vă de singurătatea plajei sub soarele de iarnă; mențineți un ritm alert pentru a vă menține corpul cald în briza rece.",
+                "en": "Enjoy the solitude of the beach in the winter sun; keep your pace up to keep your body warm against the cool coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Los Cristales",
+                "hu": "Playa de Los Cristales",
+                "ro": "Playa de Los Cristales",
+                "en": "Playa de Los Cristales"
+              },
+              "tip_5lang": {
+                "de": "Die klirrende Kälte lässt die Farben des Glasstrandes intensiver wirken; eine Mütze unter dem Helm verhindert Wärmeverlust über den Kopf.",
+                "hu": "A csípős hidegben az üvegstrand színei intenzívebbnek tűnnek; viseljen vékony sapkát a sisak alatt, hogy megakadályozza a hővesztést.",
+                "ro": "Frigul tăios face culorile plajei de sticlă să pară mai intense; purtați o căciulă sub cască pentru a preveni pierderea căldurii.",
+                "en": "The biting cold makes the colors of the glass beach seem more intense; wear a skull cap under your helmet to prevent heat loss."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Cristal",
+                "hu": "Playa Cristal",
+                "ro": "Playa Cristal",
+                "en": "Playa Cristal"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch rechtzeitig vor 16:30 Uhr; reflektierende Kleidung ist wichtig, falls Sie die Rückfahrt in der Dämmerung antreten.",
+                "hu": "Fejezze be a látogatást legkésőbb 16:30-ig; a fényvisszaverő ruházat fontos, ha a visszautat már szürkületben teszi meg.",
+                "ro": "Încheiați vizita înainte de 16:30; îmbrăcămintea reflectorizantă este importantă dacă porniți înapoi spre casă pe amurg.",
+                "en": "Finish your visit by 16:30 at the latest; reflective gear is important if you end up cycling back during the winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "A nap a jól felszerelt Playa de Carranques strandon indul, amely ideális egy frissítő tengerparti reggelhez. Dél körül fedezze fel a Güelgues strand csendes légkörét, majd autózzon be a központba a Museu Antón felé. Délután élvezze a fenséges Faro de Candas panorámáját. Az estét a Playa de Gargantera vad és érintetlen tengerparti szépségében gyönyörködve zárhatja.",
         "ro": "Ziua începe la Playa de Carranques, bine echipată, ideală pentru o dimineață răcoritoare pe litoral. În jurul prânzului, explorați atmosfera liniștită de pe plaja Güelgues și apoi conduceți în centru spre Museu Antón. După-amiaza, admirați priveliștea de la maiestuosul Faro de Candas. Seara se încheie pe coasta sălbatică și virgină a izolatei Playa de Gargantera.",
         "en": "The day begins at the well-equipped Playa de Carranques, ideal for a refreshing coastal morning. Around midday, explore the tranquil atmosphere of Güelgues beach and then drive into the center to visit Museu Antón. In the afternoon, take in the vast ocean views from the majestic Faro de Candas. The evening winds down on the wild, untouched coastline of Playa de Gargantera."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie die Küste bequem mit dem Auto, während der Regen gegen die Scheiben trommelt. Vormittags bieten die Parkplätze an den Stränden eine gute Sicht auf die stürmische See, ohne nass zu werden. Mittags ist das Museu Anton ein idealer trockener Stopp. Am Nachmittag führt die Fahrt zum Leuchtturm, wo Sie den Nebel über den Klippen aus dem warmen Fahrzeug beobachten können.",
+            "hu": "Fedezze fel a partvonalat kényelmesen az autóból, miközben az eső kopog a szélvédőn. Délelőtt a strandok parkolóiból kiválóan látszik a viharos tenger anélkül, hogy megázna. Délben a Museu Anton kínál tökéletes száraz programot. Délután autózzon el a világítótoronyhoz, ahonnan a meleg utastérből figyelheti a sziklák felett kavargó ködöt.",
+            "ro": "Explorați coasta confortabil cu mașina în timp ce ploaia bate în parbriz. Dimineața, parcările de lângă plaje oferă o vedere bună spre marea agitată. La prânz, Museu Anton este oprirea ideală la adăpost. După-amiaza, mergeți spre far, unde puteți observa ceața de deasupra stâncilor din interiorul cald al vehiculului.",
+            "en": "Explore the coastline comfortably by car while the rain drums against the windshield. In the morning, beach parking lots offer great views of the stormy sea without getting wet. At noon, Museu Anton is the perfect dry stop. In the afternoon, drive to the lighthouse to watch the mist swirling over the cliffs from the warmth of your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Carranques",
+                "hu": "Playa de Carranques",
+                "ro": "Playa de Carranques",
+                "en": "Playa de Carranques"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick aufs Meer, um die Wellen im Regen zu beobachten; ein Regenschirm ist für den kurzen Gang zum Aussichtspunkt ratsam.",
+                "hu": "Parkoljon a tengerre néző részen, hogy az autóból nézhesse a hullámokat; a kilátóhoz vezető rövid úthoz mindenképp vigyen esernyőt.",
+                "ro": "Parcați cu fața spre mare pentru a observa valurile din mașină; o umbrelă este necesară pentru scurta plimbare până la punctul de observație.",
+                "en": "Park facing the sea to watch the waves in the rain; an umbrella is highly recommended for the short walk to the main viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Güelgues beach",
+                "hu": "Güelgues beach",
+                "ro": "Güelgues beach",
+                "en": "Güelgues beach"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken auf unbefestigten Flächen, die bei Regen aufweichen können; genießen Sie das dramatische Küstenpanorama vom Auto aus.",
+                "hu": "Kerülje a parkolást a burkolatlan felületeken, amelyek az esőben felázhatnak; élvezze a drámai parti panorámát az autó ablakán keresztül.",
+                "ro": "Evitați parcarea pe suprafețe neasfaltate care se pot înmuia la ploaie; admirați panorama dramatică a coastei direct din mașină.",
+                "en": "Avoid parking on unpaved areas that might become muddy in the rain; enjoy the dramatic coastal panorama from the safety of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Anton",
+                "hu": "Museu Anton",
+                "ro": "Museu Anton",
+                "en": "Museu Anton"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe, um den Weg im Regen zu verkürzen; die Ausstellungen im Inneren sind der beste Regenschutz.",
+                "hu": "Használja a közeli parkolóhelyeket, hogy lerövidítse az esőben megtett utat; a benti kiállítások a legjobb menedéket nyújtják az eső elől.",
+                "ro": "Folosiți locurile de parcare din apropiere pentru a scurta drumul prin ploaie; expozițiile din interior sunt cel mai bun refugiu acum.",
+                "en": "Use the parking spots nearby to minimize your walk in the rain; the indoor exhibitions are the best protection from the weather today."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Candas",
+                "hu": "Faro de Candas",
+                "ro": "Faro de Candas",
+                "en": "Faro de Candas"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Wind im Fahrzeug, während Sie den Leuchtturm betrachten; die Gischt kann bis zum Parkplatz hochgeweht werden.",
+                "hu": "Erős szélben maradjon a járműben, miközben a világítótornyot nézi; a tenger permetét a szél egészen a parkolóig felhordhatja.",
+                "ro": "Rămâneți în vehicul dacă vântul este puternic în timp ce admirați farul; stropii de mare pot fi suflați până în zona parcării.",
+                "en": "Stay inside your vehicle if the wind is strong while viewing the lighthouse; sea spray can be blown all the way up to the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Gargantera",
+                "hu": "Playa de Gargantera",
+                "ro": "Playa de Gargantera",
+                "en": "Playa de Gargantera"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf die zerklüftete Küste ist bei grauem Wetter besonders urig; wischen Sie die beschlagenen Scheiben für freie Sicht frei.",
+                "hu": "A szabdalt partvonal látványa szürke időben különösen különleges; törölje le a bepárásodott szélvédőt a tiszta kilátás érdekében.",
+                "ro": "Vederea coastei abrupte este spectaculoasă pe vreme gri; ștergeți geamurile aburite pentru a avea o vizibilitate clară asupra mării.",
+                "en": "The view of the rugged coastline is particularly atmospheric in grey weather; wipe fogged windows for a clear view of the cliffs."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie den Komfort der Sitzheizung für eine winterliche Küstenfahrt. Vormittags glänzen die Strände im flachen Sonnenlicht besonders schön. Mittags bietet das Museu Anton eine kulturelle Pause in wohliger Wärme. Da es ab 17:00 Uhr dunkel wird, beenden Sie Ihre Tour am späten Nachmittag an der Playa de Gargantera, um den winterlichen Sonnenuntergang über dem Meer sicher zu erleben.",
+            "hu": "Használja ki az ülésfűtés kényelmét egy téli parti autózáshoz. Délelőtt a strandok különösen szépen csillognak az alacsonyan járó napfényben. Délben a Museu Anton nyújt kulturális kikapcsolódást kellemes melegben. Mivel 17:00-kor sötétedik, a túrát késő délután fejezze be, hogy még láthassa a téli naplementét a tenger felett.",
+            "ro": "Bucurați-vă de confortul mașinii pentru o plimbare de iarnă pe coastă. Dimineața, plajele strălucesc frumos în lumina slabă a soarelui. La prânz, Museu Anton oferă o pauză culturală la căldură. Deoarece se întunecă la ora 17:00, încheiați turul după-amiaza devreme pentru a prinde apusul peste mare.",
+            "en": "Enjoy the comfort of your car for a winter coastal drive. In the morning, the beaches shine beautifully in the low-angled sunlight. At noon, Museu Anton offers a cultural break in cozy warmth. Since it gets dark by 17:00, finish your tour in the late afternoon to catch the winter sunset over the sea safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de Carranques",
+                "hu": "Playa de Carranques",
+                "ro": "Playa de Carranques",
+                "en": "Playa de Carranques"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für eine enorme Fernsicht auf das Meer; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
+                "hu": "A tiszta téli levegő hatalmas látótávolságot biztosít a tengeren; ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik.",
+                "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă asupra mării; nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
+                "en": "The crisp winter air provides incredible visibility over the sea; avoid idling your engine while enjoying the view from the parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Güelgues beach",
+                "hu": "Güelgues beach",
+                "ro": "Güelgues beach",
+                "en": "Güelgues beach"
+              },
+              "tip_5lang": {
+                "de": "Der menschenleere Strand bietet im Winter eine friedliche Kulisse; nutzen Sie die Parkplatznähe für einen sehr kurzen, erfrischenden Gang zum Ufer.",
+                "hu": "Az elhagyatott strand télen békés hátteret kínál; használja ki a közeli parkolót egy nagyon rövid, frissítő sétához a part mentén.",
+                "ro": "Plaja pustie oferă un cadru liniștit iarna; profitați de parcarea apropiată pentru o scurtă plimbare revigorantă pe malul mării.",
+                "en": "The deserted beach offers a peaceful backdrop in winter; take advantage of the nearby parking for a very short, refreshing walk to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Anton",
+                "hu": "Museu Anton",
+                "ro": "Museu Anton",
+                "en": "Museu Anton"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Windschatten der Gebäude, um das Einsteigen angenehmer zu machen; die beheizte Galerie ist der perfekte Ort zum Aufwärmen.",
+                "hu": "Parkoljon az épületek szélárnyékában, hogy kellemesebb legyen a beszállás; a fűtött galéria tökéletes helyszín a déli felmelegedéshez.",
+                "ro": "Parcați la adăpostul clădirilor pentru ca urcarea în mașină să fie mai plăcută; galeria încălzită este locul perfect pentru a vă dezmorți.",
+                "en": "Park in the lee of buildings to make getting back in more pleasant; the heated gallery is the perfect place to warm up at midday today."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Candas",
+                "hu": "Faro de Candas",
+                "ro": "Faro de Candas",
+                "en": "Faro de Candas"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist ideal für dramatische Küstenfotos; achten Sie auf glatte Stellen auf der Zufahrtsstraße bei Minusgraden.",
+                "hu": "A délutáni fények ideálisak a drámai parti fotókhoz; figyeljen a jeges foltokra a bekötőúton, ha a hőmérséklet fagypont alá süllyed.",
+                "ro": "Lumina de după-amiază este ideală pentru fotografii dramatice; atenție la porțiunile înghețate de pe drumul de acces dacă e foarte frig.",
+                "en": "The afternoon light is ideal for dramatic coastal photos; watch out for icy patches on the access road if temperatures drop below freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Gargantera",
+                "hu": "Playa de Gargantera",
+                "ro": "Playa de Gargantera",
+                "en": "Playa de Gargantera"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt vom warmen Autositz aus; stellen Sie sicher, dass Ihre Scheinwerfer sauber sind.",
+                "hu": "Élje át a korai, 17:00 körüli naplementét közvetlenül a meleg autóülésből; ellenőrizze, hogy a fényszórók tiszták-e a hazavezető úthoz.",
+                "ro": "Experimentați apusul timpuriu de la ora 17:00 direct din scaunul cald al mașinii; asigurați-vă că farurile sunt curate pentru drumul înapoi.",
+                "en": "Experience the early sunset around 17:00 directly from your warm car seat; make sure your headlights are clean for the dark drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

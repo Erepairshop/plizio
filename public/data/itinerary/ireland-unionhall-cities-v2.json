@@ -157,6 +157,168 @@
           "afternoon": "Continue your gentle hike southward into Ballincolla Village, soaking up the quiet, rural Irish atmosphere and historic charm of the old stone boundary walls.",
           "evening": "Conclude your walking tour with a leisurely pace back to the village center, where you can find a cozy spot to relax as the sun sets over the scenic harbor waters."
         }
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Meer ist neblig; wasserfeste Ausrüstung ist wichtig, da die Wege schlammig werden. Mittags bietet die Myross-Kirche einen trockenen Zufluchtsort. Der Nachmittag bringt Regen über Castle Ire, wo die Ruinen im Regen ätherisch wirken. Der Abend endet früh in Ballincolla, wenn die feuchte Kälte einsetzt; suchen Sie sich ein gemütliches Plätzchen im Haus.",
+            "hu": "A reggel ködös a parton; a sár miatt vízálló felszerelés elengedhetetlen. Délben a Myross templom száraz menedéket nyújt az elmélyüléshez. Délután eső áztatja Castle Ire várát, ahol a romok misztikusak a csapadékban. Este Ballincollában korán beköszönt a nyirkos hideg; keressen egy barátságos belső teret a pihenéshez a nap végén.",
+            "ro": "Dimineața la malul mării este cețoasă; echipamentul impermeabil este vital, deoarece potecile devin noroioase. La prânz, Biserica Myross oferă un sanctuar uscat. După-amiaza aduce ploaie peste Castle Ire, unde ruinele par eterice. Seara se încheie devreme în Ballincolla, pe măsură ce se lasă frigul umed; căutați confortul unui spațiu interior.",
+            "en": "Morning by the coast is misty; waterproof gear is vital as paths get muddy. By noon, Myross Church offers a dry sanctuary for reflection. Afternoon brings rain over Castle Ire, where ruins look ethereal in the wet weather. Evening ends early in Ballincolla as the damp chill sets in; seek local indoor comfort to warm up after the walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "White Steps",
+                "hu": "White Steps",
+                "ro": "White Steps",
+                "en": "White Steps"
+              },
+              "tip_5lang": {
+                "de": "Die Kalksteinstufen sind bei Nässe extrem rutschig; tragen Sie griffige Wanderschuhe und genießen Sie den dramatischen Blick auf die aufgewühlte See.",
+                "hu": "A mészkő lépcsők vizesen rendkívül csúszósak; viseljen tapadós talpú cipőt, és csodálja meg a felkorbácsolt tenger drámai látványát a menedékből.",
+                "ro": "Treptele de calcar sunt extrem de alunecoase când sunt ude; purtați încălțăminte cu aderență bună și admirați vederea dramatică a mării agitate.",
+                "en": "The limestone steps are extremely slippery when wet; wear high-grip hiking boots and enjoy the dramatic view of the churning sea from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Myross Parish Church",
+                "hu": "Myross plébániatemplom",
+                "ro": "Biserica Parohială Myross",
+                "en": "Myross Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kircheneingang als Regenschutz; die historische Architektur wirkt im grauen Licht besonders andächtig und bietet einen trockenen Rastplatz.",
+                "hu": "Használja a templom bejáratát esővédőként; a történelmi építészet a szürke fényben különösen áhítatos, és száraz pihenőhelyet kínál a túrázóknak.",
+                "ro": "Folosiți intrarea bisericii ca adăpost împotriva ploii; arhitectura istorică pare deosebit de solemnă în lumina gri și oferă un loc de odihnă uscat.",
+                "en": "Use the church porch as a rain shelter; the historic architecture feels especially solemn in the grey light and provides a dry resting spot for walkers."
+              }
+            },
+            {
+              "name": {
+                "de": "St Brigid's Church",
+                "hu": "Szent Brigitta-templom",
+                "ro": "Biserica Sfânta Brigita",
+                "en": "St Brigid's Church"
+              },
+              "tip_5lang": {
+                "de": "Im Inneren finden Sie Schutz vor schweren Güssen; bewundern Sie die Details im Trockenen, während draußen der Regen gegen die alten Mauern peitscht.",
+                "hu": "A belső térben védelmet talál a heves záporok elől; csodálja meg a részleteket szárazon, miközben odakint az eső veri a régi kőfalakat.",
+                "ro": "În interior veți găsi protecție împotriva averselor abundente; admirați detaliile la adăpost, în timp ce afară ploaia bate în zidurile vechi de piatră.",
+                "en": "Inside you will find protection from heavy downpours; admire the details in the dry while outside the rain lashes against the old stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Ire",
+                "hu": "Castle Ire",
+                "ro": "Castelul Ire",
+                "en": "Castle Ire"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine ist ungeschützt, also halten Sie den Besuch kurz; die nassen Steine wirken mystisch, aber Vorsicht vor tiefen Pfützen und Schlamm.",
+                "hu": "A várrom védtelen az elemektől, így tartsa rövidre a látogatást; a vizes kövek misztikusak, de vigyázzon a mély tócsákra és a sárra.",
+                "ro": "Ruinele castelului sunt expuse, așa că vizita trebuie să fie scurtă; pietrele ude par mistice, dar aveți grijă la bălțile adânci și noroi.",
+                "en": "The castle ruins are exposed to the elements, so keep your visit brief; the wet stones look mystical, but watch out for deep puddles and mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballincolla Village",
+                "hu": "Ballincolla falu",
+                "ro": "Satul Ballincolla",
+                "en": "Ballincolla Village"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie mit einem Regenschirm durch die Gassen; beenden Sie die Tour schnell und suchen Sie ein lokales Pub auf, um die nasse Kleidung zu trocknen.",
+                "hu": "Sétáljon esernyővel a falu utcáin; fejezze be gyorsan a túrát, és keressen egy helyi pubot, hogy megszárítsa átázott ruháit a tűz mellett.",
+                "ro": "Plimbați-vă cu o umbrelă pe străzile satului; încheiați rapid turul și căutați un pub local pentru a vă usca hainele ude lângă foc.",
+                "en": "Stroll through the village streets with an umbrella; end the tour quickly and seek a local pub to dry your wet clothes by the fire."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft begrüßt Sie an der Küste; ziehen Sie sich für den Wind warm an. Das Mittagslicht ist tief, aber wunderschön in den alten Kirchen. Erkunden Sie nachmittags die Burgruinen, bevor der Frost den Boden härtet. Der Sonnenuntergang erfolgt früh gegen 17:00 Uhr; beenden Sie Ihren Spaziergang in Ballincolla, wenn die Dorflichter angehen.",
+            "hu": "Friss téli levegő fogadja a parton; öltözzön rétegesen a szél ellen. A déli fények alacsonyan járnak, de gyönyörűek a régi templomokban. Délután fedezze fel a várromokat, mielőtt a fagy megkeményíti a talajt. A naplemente korán, 17:00 körül érkezik; fejezze be a sétát Ballincollában, ahogy kigyúlnak a falu fényei.",
+            "ro": "Aerul proaspăt de iarnă vă întâmpină la malul mării; îmbrăcați-vă gros pentru vânt. Lumina de la prânz este joasă, dar frumoasă în vechile biserici. După-amiaza, explorați ruinele castelului înainte ca înghețul să întărească solul. Apusul vine devreme, în jur de 17:00; încheiați plimbarea în Ballincolla când se aprind luminile satului.",
+            "en": "Crisp winter air greets you at the shore; dress in warm layers for the sea wind. Midday light is low but beautiful inside the old parish churches. In the afternoon, explore the castle ruins before the frost hardens the ground. Sunset arrives early around 17:00; finish your stroll in Ballincolla as the cozy village lights flicker on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "White Steps",
+                "hu": "White Steps",
+                "ro": "White Steps",
+                "en": "White Steps"
+              },
+              "tip_5lang": {
+                "de": "Die Stufen sind in der tiefen Wintersonne wunderschön, aber der Wind ist beißend; tragen Sie Thermokleidung und eine winddichte Jacke für die Aussicht.",
+                "hu": "A lépcsők gyönyörűek az alacsony téli napsütésben, de a szél metsző lehet; viseljen hőtartó ruházatot és szélálló kabátot a kilátáshoz.",
+                "ro": "Treptele sunt frumoase în soarele slab de iarnă, dar vântul este tăios; purtați haine termice și o jachetă rezistentă la vânt pentru priveliște.",
+                "en": "The steps are beautiful in the low winter sun, but the wind can be biting; wear thermal layers and a windproof coat to enjoy the coastal view."
+              }
+            },
+            {
+              "name": {
+                "de": "Myross Parish Church",
+                "hu": "Myross plébániatemplom",
+                "ro": "Biserica Parohială Myross",
+                "en": "Myross Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter friedlich, aber kühl; ein Schal und Handschuhe sind nötig, während Sie die frostige Friedhofsatmosphäre im Freien erkunden.",
+                "hu": "A templom télen békés, de hűvös; sál és kesztyű szükséges, miközben a kinti fagyos temető hangulatos, de rideg környezetét járja körbe.",
+                "ro": "Biserica este liniștită iarna, dar răcoroasă; un fular și mănuși sunt necesare în timp ce explorați atmosfera înghețată a cimitirului din exterior.",
+                "en": "The church is peaceful in winter but chilly; a scarf and gloves are necessary while you explore the frosty graveyard atmosphere outside the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "St Brigid's Church",
+                "hu": "Szent Brigitta-templom",
+                "ro": "Biserica Sfânta Brigita",
+                "en": "St Brigid's Church"
+              },
+              "tip_5lang": {
+                "de": "Das massive Mauerwerk hält die Kälte fest; genießen Sie die Stille, aber bleiben Sie in Bewegung, um warm zu bleiben, bevor Sie zur Burg weitergehen.",
+                "hu": "A vaskos kőfalak tartják a hideget; élvezze a csendet, de maradjon mozgásban, hogy melegen tartsa magát, mielőtt továbbindulna a vár felé.",
+                "ro": "Zidurile groase de piatră rețin frigul; bucurați-vă de liniște, dar rămâneți în mișcare pentru a vă menține căldura înainte de a pleca spre castel.",
+                "en": "The thick stone walls hold the cold; enjoy the silence but stay moving to keep warm before you head further towards the castle ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Ire",
+                "hu": "Castle Ire",
+                "ro": "Castelul Ire",
+                "en": "Castle Ire"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken bei Frost dramatisch; achten Sie auf glatte Stellen auf den Graswegen und versuchen Sie, die Burg vor dem frühen Sonnenuntergang zu sehen.",
+                "hu": "A romok drámaiak a fagyban; ügyeljen a csúszós foltokra a füves ösvényeken, és próbálja meg a várat a korai, 17 órás naplemente előtt megtekinteni.",
+                "ro": "Ruinele par dramatice în îngheț; atenție la porțiunile alunecoase de pe potecile de iarbă și vizitați castelul înainte de apusul devreme de la ora 17.",
+                "en": "The ruins look dramatic in the frost; watch for slick patches on the grass paths and try to see the castle before the early 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Ballincolla Village",
+                "hu": "Ballincolla falu",
+                "ro": "Satul Ballincolla",
+                "en": "Ballincolla Village"
+              },
+              "tip_5lang": {
+                "de": "Wenn es dunkel wird, leuchten die Häuser einladend; beenden Sie die Tour hier und wärmen Sie sich mit einem heißen Getränk in einer lokalen Gaststube auf.",
+                "hu": "Ahogy sötétedik, a házak fényei hívogatóak; fejezze be itt a túrát, és melegedjen fel egy forró itallal az egyik helyi vendéglátóhelyen.",
+                "ro": "Pe măsură ce se întunecă, luminile caselor sunt primitoare; încheiați turul aici și încălziți-vă cu o băutură fierbinte într-o locație locală.",
+                "en": "As darkness falls, the village lights look inviting; end the tour here and warm up with a hot drink in a local establishment after the winter air."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -330,6 +492,196 @@
           "midday": "Pedal through the rolling coastal landscape to Castle Ire and Stookeen Fort, where sweeping sea views effortlessly meet fascinating layers of ancient Irish heritage.",
           "afternoon": "Navigate the scenic paths leading towards Séipéal an Stuaicín and the old ringfort of Lios Cúil Bláith, immersing yourself deeply in the region's rich archaeological sites.",
           "evening": "Ride back into Unionhall as the evening light paints the harbor, feeling invigorated from a fulfilling day of exploring the wild, historic, and beautiful Irish coastline."
+        }
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren an der Küste bei Regen erfordert Vorsicht; die Straßen sind glatt und die Sicht ist eingeschränkt. Machen Sie eine lange Pause an der Myross-Kirche. Nachmittagsfahrten zu den Forts bedeuten Pfützen, Schutzbleche sind ein Muss. Beenden Sie die Fahrt, bevor der Abendnebel im Hafen dicker wird; prüfen Sie Ihre Lichter.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel; az utak csúszósak, a látási viszonyok korlátozottak. Tartson hosszabb pihenőt a Myross templomnál. Délután az erődök felé pocsolyákra számítson, a sárvédő kötelező. Fejezze be a túrát, mielőtt az esti köd leszáll a kikötőre; ellenőrizze a lámpákat.",
+            "ro": "Ciclismul pe coastă în ploaie necesită prudență; drumurile sunt alunecoase, iar vizibilitatea este redusă. Luați o pauză lungă la Biserica Myross. După-amiaza, drumul spre forturi înseamnă bălți, deci aripile sunt obligatorii. Încheiați cursa înainte ca ceața să se îngroașe în port; verificați luminile.",
+            "en": "Cycling the coast in rain requires caution; roads are slick and visibility is reduced. Take a long break at Myross Church to dry off. Afternoon riding to the forts means dealing with puddles, so mudguards are a must. Finish your ride before the evening mist thickens near the harbor; ensure your bike lights work."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bathing Cove",
+                "hu": "Fürdőöböl",
+                "ro": "Golful de Baie",
+                "en": "Bathing Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Regen neblig; tragen Sie eine neongelbe Regenjacke, um für Autofahrer sichtbar zu bleiben, während Sie den Blick kurz genießen.",
+                "hu": "Az öböl ködös az esőben; viseljen neon esőkabátot, hogy látható maradjon az autósok számára, miközben röviden gyönyörködik a kilátásban.",
+                "ro": "Golful este cețos în ploaie; purtați o jachetă de ploaie neon pentru a fi vizibil șoferilor în timp ce admirați scurt priveliștea.",
+                "en": "The cove is misty in the rain; wear a neon rain jacket to stay visible to drivers while you briefly enjoy the grey coastal view from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Myross Parish Church",
+                "hu": "Myross plébániatemplom",
+                "ro": "Biserica Parohială Myross",
+                "en": "Myross Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter Bäumen oder am Vordach; nutzen Sie die Pause, um das Visier zu reinigen und sich für die Weiterfahrt zu den Ruinen zu stärken.",
+                "hu": "Parkoljon a fák alatt vagy az előtetőnél; használja a szünetet a sisakrostély megtisztítására és frissítsen fel a romok felé vezető út előtt.",
+                "ro": "Parcați bicicleta sub copaci sau sub copertină; folosiți pauza pentru a curăța viziera și a vă revigora înainte de drumul spre ruine.",
+                "en": "Park your bike under trees or the porch; use the break to clean your visor and refresh yourself before the wet ride towards the castle ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Ire",
+                "hu": "Castle Ire",
+                "ro": "Castelul Ire",
+                "en": "Castle Ire"
+              },
+              "tip_5lang": {
+                "de": "Der Zugangsweg kann sehr matschig sein; schieben Sie Ihr Rad auf den grasbewachsenen Abschnitten, um Stürze auf nassen Steinen zu vermeiden.",
+                "hu": "A hozzáférési út nagyon sáros lehet; tolja a kerékpárt a füves szakaszokon, hogy elkerülje az elesést a vizes, csúszós köveken.",
+                "ro": "Calea de acces poate fi foarte noroioasă; împingeți bicicleta pe secțiunile cu iarbă pentru a evita căzăturile pe pietrele ude.",
+                "en": "The access path can be very muddy; push your bike on the grassy sections to avoid slipping on the wet, ancient stones around the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Stookeen Fort",
+                "hu": "Stookeen-erőd",
+                "ro": "Fortul Stookeen",
+                "en": "Stookeen Fort"
+              },
+              "tip_5lang": {
+                "de": "Das Fort ist sehr exponiert; bei starkem Wind und Regen sollten Sie hier nicht lange verweilen und auf die Bremsleistung auf dem Rückweg achten.",
+                "hu": "Az erőd nagyon kitett a szélnek; erős szélben és esőben ne időzzön itt sokat, és ügyeljen a fékhatásra a lejtős visszaúton.",
+                "ro": "Fortul este foarte expus; în vânt puternic și ploaie nu zăboviți mult și fiți atenți la eficiența frânelor pe drumul de întoarcere.",
+                "en": "The fort is very exposed; in high wind and rain, do not stay long and be mindful of your braking distance on the slick return descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Séipéal an Stuaicín",
+                "hu": "Séipéal an Stuaicín",
+                "ro": "Séipéal an Stuaicín",
+                "en": "Séipéal an Stuaicín"
+              },
+              "tip_5lang": {
+                "de": "Die alten Mauern bieten minimalen Windschutz; prüfen Sie Ihre Kleidung auf Dichtigkeit, bevor Sie den letzten Abschnitt der Küstenstraße antreten.",
+                "hu": "A régi falak minimális szélvédelmet nyújtanak; ellenőrizze ruházata vízállóságát, mielőtt nekivágna a parti út utolsó szakaszának.",
+                "ro": "Zidurile vechi oferă protecție minimă împotriva vântului; verificați dacă hainele sunt bine închise înainte de ultima etapă a drumului de coastă.",
+                "en": "The old walls provide minimal wind protection; check your gear is properly sealed before taking on the final stretch of the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios Cúil Bláith",
+                "hu": "Lios Cúil Bláith",
+                "ro": "Lios Cúil Bláith",
+                "en": "Lios Cúil Bláith"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft gesättigt; halten Sie Abstand zu tiefen Gräben und konzentrieren Sie sich auf die Rückfahrt zum Hafen bei abnehmendem Licht.",
+                "hu": "A talaj itt gyakran telített vízzel; tartson távolságot a mély árkoktól, és koncentráljon a kikötőbe való visszatérésre a csökkenő fényben.",
+                "ro": "Solul este adesea saturat aici; păstrați distanța de șanțurile adânci și concentrați-vă pe drumul de întoarcere în port pe lumină slabă.",
+                "en": "The ground here is often saturated with water; keep a safe distance from deep ditches and focus on the ride back to the harbor in the fading light."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wappnen Sie sich gegen eine beißende Meeresbrise; Thermo-Handschuhe und Kopfbedeckung sind für das Radfahren im Winter unerlässlich. Die tiefe Sonne wirft mittags lange Schatten über die Ruinen. Die Anstiege zu den Forts halten den Kreislauf in Schwung, aber achten Sie auf eisige Stellen. Kehren Sie um 17:00 Uhr zum warmen Zentrum von Unionhall zurück.",
+            "hu": "Készüljön fel a metsző tengeri szélre; a téli biciklizéshez hőtartó kesztyű és sapka alapvető. Az alacsony nap hosszú árnyékokat vet a romokra délben. A délutáni emelkedők az erődökhöz megmozgatják, de figyeljen a jeges foltokra az úton. 17:00-kor, sötétedéskor térjen vissza Unionhall meleg központjába.",
+            "ro": "Pregătiți-vă pentru o briză tăioasă; mănușile termice și căciula sunt esențiale pentru ciclismul de iarnă. Soarele jos creează umbre lungi peste ruine la prânz. Urcările de după-amiază spre forturi vă vor menține circulația, dar atenție la gheață. Reveniți în centrul cald din Unionhall la ora 17:00.",
+            "en": "Brace for a biting sea breeze; thermal gloves and headwear are essential for winter cycling. The low sun creates long shadows across the parish ruins at noon. Afternoon climbs to the ancient forts will keep your blood pumping, but stay alert for icy patches. As darkness falls at 17:00, head back to Unionhall's warm center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Bathing Cove",
+                "hu": "Fürdőöböl",
+                "ro": "Golful de Baie",
+                "en": "Bathing Cove"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresluft ist eisig; tragen Sie einen Schlauchschal über Nase und Mund, um sich beim Radfahren vor dem kalten Küstenwind zu schützen.",
+                "hu": "A tengeri levegő jeges; viseljen csősálat az orra és szája előtt, hogy megvédje magát a hideg parti széltől a kerékpározás közben.",
+                "ro": "Aerul marin este înghețat; purtați un fular tip tub peste nas și gură pentru a vă proteja de vântul rece de coastă în timp ce pedalați.",
+                "en": "The sea air is icy here; wear a neck buff over your nose and mouth to protect yourself from the cold coastal wind while cycling to the cove."
+              }
+            },
+            {
+              "name": {
+                "de": "Myross Parish Church",
+                "hu": "Myross plébániatemplom",
+                "ro": "Biserica Parohială Myross",
+                "en": "Myross Parish Church"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern strahlen Kälte aus; halten Sie die Pause kurz, um nicht auszukühlen, und genießen Sie das klare, frostige Winterlicht auf dem alten Friedhof.",
+                "hu": "A kőfalak árasztják a hideget; tartsa rövidre a pihenőt, hogy ne hűljön ki, és élvezze a tiszta, fagyos téli fényt a régi temetőben.",
+                "ro": "Zidurile de piatră emană frig; faceți o pauză scurtă pentru a nu îngheța și bucurați-vă de lumina clară de iarnă peste cimitirul vechi.",
+                "en": "The stone walls radiate cold; keep your break short to avoid getting chilled and enjoy the clear, frosty winter light over the ancient graveyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Ire",
+                "hu": "Castle Ire",
+                "ro": "Castelul Ire",
+                "en": "Castle Ire"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren sein; achten Sie beim Gehen auf den holprigen Pfaden auf festen Halt und nutzen Sie das letzte Tageslicht für Fotos der Burg.",
+                "hu": "A talaj fagyott lehet; ügyeljen a biztos léptekre a göröngyös ösvényeken, és használja ki az utolsó nappali fényt a vár fotózásához.",
+                "ro": "Solul poate fi înghețat; atenție la stabilitatea pașilor pe potecile denivelate și folosiți ultima lumină a zilei pentru a fotografia castelul.",
+                "en": "The ground may be frozen; watch your footing on the uneven paths and use the last bit of daylight for photos of the castle ruins before dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Stookeen Fort",
+                "hu": "Stookeen-erőd",
+                "ro": "Fortul Stookeen",
+                "en": "Stookeen Fort"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Fort ist im Winter extrem stark; bleiben Sie in Bewegung, um die Körperwärme zu halten, bevor Sie die Abfahrt zurück nach Unionhall antreten.",
+                "hu": "A szél az erődnél télen rendkívül erős; maradjon mozgásban a testhő megőrzése érdekében, mielőtt megkezdené a lejtmenetet Unionhall felé.",
+                "ro": "Vântul la fort este extrem de puternic iarna; rămâneți în mișcare pentru a păstra căldura corpului înainte de a începe coborârea spre Unionhall.",
+                "en": "The wind at the fort is extremely strong in winter; stay moving to maintain body heat before starting the descent back towards Unionhall's center."
+              }
+            },
+            {
+              "name": {
+                "de": "Séipéal an Stuaicín",
+                "hu": "Séipéal an Stuaicín",
+                "ro": "Séipéal an Stuaicín",
+                "en": "Séipéal an Stuaicín"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht hier tief über dem Horizont; achten Sie auf die Blendwirkung beim Fahren und stellen Sie sicher, dass Ihre Lichter für 17:00 Uhr bereit sind.",
+                "hu": "A téli nap alacsonyan áll a látóhatár felett; vigyázzon a vakító fényre vezetés közben, és készítse elő a lámpákat az 17:00-s sötétedéshez.",
+                "ro": "Soarele de iarnă este jos la orizont; atenție la reflexiile orbitoare în timp ce pedalați și asigurați-vă că luminile sunt gata pentru ora 17:00.",
+                "en": "The winter sun sits very low on the horizon here; watch for glare while riding and ensure your lights are ready for the 17:00 sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios Cúil Bláith",
+                "hu": "Lios Cúil Bláith",
+                "ro": "Lios Cúil Bláith",
+                "en": "Lios Cúil Bláith"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung setzt hier schnell ein; beenden Sie Ihren Besuch zügig, da die Temperaturen rapide sinken, sobald die Sonne hinter den Hügeln verschwindet.",
+                "hu": "A szürkület gyorsan beköszönt; fejezze be gyorsan a látogatást, mivel a hőmérséklet hirtelen leesik, amint a nap eltűnik a dombok mögött.",
+                "ro": "Amurgul se lasă rapid aici; încheiați vizita repede, deoarece temperaturile scad brusc odată ce soarele dispare după dealuri.",
+                "en": "Twilight sets in quickly here; conclude your visit promptly as temperatures drop rapidly once the sun vanishes behind the West Cork hills."
+              }
+            }
+          ]
         }
       }
     },
@@ -527,6 +879,224 @@
           "midday": "Drive south through Unionhall's heart, stopping at St Brigid's Church before tracing the coastline to Castle Ire, enjoying dramatic shifts from green valleys to ocean cliffs.",
           "afternoon": "Continue your driving tour toward the southern headlands, exploring ancient strongholds like Ardra Fort and Lios which stand quietly amid lush farmlands.",
           "evening": "Wrap up your road trip at the natural monument of Carraig-ín Mhóire, perfectly positioned to capture breathtaking sunset photos over the untamed Atlantic waters."
+        }
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahrten durch den Nebel von West Cork bieten eine gemütliche Art, die Landschaft zu sehen; lassen Sie das Licht zur Sicherheit an. Die Kirchen bieten perfekte megstopps bei starken Güssen. Nachmittags offenbart die Fahrt zu den Forts dramatische, regenpeitschte Küstenaussichten. Der Abend kehrt mit Reflexionen auf den nassen Straßen ein; parken Sie nah am Ziel.",
+            "hu": "A West Cork-i ködben való autózás kényelmes módja a táj megismerésének; a biztonság érdekében használja a fényszórókat. A templomok tökéletes fedett megállókat kínálnak a felhőszakadások idején. Délután a távoli erődökhöz vezető út drámai, eső áztatta parti látványt nyújt. Az este vizes utakkal érkezik; parkoljon közel a céljához.",
+            "ro": "Condusul prin ceața din West Cork oferă un mod confortabil de a vedea peisajul; țineți farurile aprinse pentru siguranță. Bisericile oferă opriri interioare perfecte în timpul averselor. După-amiaza, drumul spre forturi dezvăluie vederi dramatice de coastă. Seara vine cu reflexii pe drumurile umede; parcați aproape de destinație.",
+            "en": "Driving through the West Cork mist offers a cozy way to see the landscape; keep headlights on for safety. The churches provide perfect indoor stops during heavy downpours. In the afternoon, the drive to the remote forts reveals dramatic, rain-swept coastal vistas. Evening settles in with reflections on the wet harbor roads; park close to your destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leap Church of Ireland",
+                "hu": "Leap Church of Ireland",
+                "ro": "Leap Church of Ireland",
+                "en": "Leap Church of Ireland"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um einen schweren Schauer abzuwarten; parken Sie direkt vor dem Tor und genießen Sie die friedliche Stille im Inneren, während es draußen stürmt.",
+                "hu": "Ideális hely egy heves zápor kivárására; parkoljon közvetlenül a kapu előtt, és élvezze a benti békés csendet, miközben odakint tombol a vihar.",
+                "ro": "Un loc ideal pentru a aștepta trecerea unei averse; parcați chiar la poartă și bucurați-vă de liniștea din interior în timp ce afară plouă torențial.",
+                "en": "An ideal place to wait out a heavy shower; park right at the gate and enjoy the peaceful silence inside while the storm rages outside in Leap."
+              }
+            },
+            {
+              "name": {
+                "de": "An Teampall Bán",
+                "hu": "An Teampall Bán",
+                "ro": "An Teampall Bán",
+                "en": "An Teampall Bán"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Nebel geisterhaft; bleiben Sie auf den befestigten Wegen, da der Boden um die alten Steine bei Regen sehr tiefgründig und schlammig wird.",
+                "hu": "A romok kísértetiesek a ködben; maradjon a kijelölt ösvényeken, mivel a talaj a régi kövek körül nagyon felázik és sáros lesz az esőben.",
+                "ro": "Ruinele par fantomatice în ceață; rămâneți pe potecile principale, deoarece solul din jurul pietrelor vechi devine foarte noroios în timpul ploii.",
+                "en": "The ruins look ghostly in the mist; stay on the firm paths as the ground around the ancient stones becomes very soft and muddy during rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "St Brigid's Church",
+                "hu": "Szent Brigitta-templom",
+                "ro": "Biserica Sfânta Brigita",
+                "en": "St Brigid's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um trocken in die Kirche zu gelangen; das Innere bietet eine warme, trockene Atmosphäre fernab des Küstenwetters.",
+                "hu": "Használja a fedett bejáratot, hogy szárazon jusson be a templomba; a belső tér meleg, száraz menedéket nyújt a zord parti időjárás elől.",
+                "ro": "Folosiți intrarea acoperită pentru a intra uscat în biserică; interiorul oferă o atmosferă caldă și uscată, departe de vremea aspră de coastă.",
+                "en": "Use the covered entrance to get into the church dry; the interior offers a warm, dry atmosphere away from the harsh coastal weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Ire",
+                "hu": "Castle Ire",
+                "ro": "Castelul Ire",
+                "en": "Castle Ire"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand; die Burgruine ist vom Auto aus gut zu sehen, falls der Regen zu stark für einen Spaziergang im Freien ist.",
+                "hu": "Parkoljon óvatosan az út szélén; a várrom jól látható az autóból is, ha az eső túl erős lenne egy szabadtéri sétához a romok között.",
+                "ro": "Parcați cu atenție pe marginea drumului; ruinele castelului sunt vizibile din mașină în cazul în care ploaia este prea puternică pentru o plimbare.",
+                "en": "Park carefully on the roadside; the castle ruins are visible from the car if the rain is too heavy for an outdoor walk among the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardra Fort",
+                "hu": "Ardra-erőd",
+                "ro": "Fortul Ardra",
+                "en": "Ardra Fort"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Fort kann rutschig sein; tragen Sie wasserfeste Schuhe mit gutem Profil und genießen Sie die Aussicht auf die stürmische Glandore Bay.",
+                "hu": "Az erődhöz vezető út csúszós lehet; viseljen jó tapadású vízálló cipőt, és élvezze a viharos Glandore-öbölre nyíló látványt a magaslatról.",
+                "ro": "Drumul spre fort poate fi alunecos; purtați pantofi impermeabili cu aderență bună și admirați vederea golfului Glandore în timpul furtunii.",
+                "en": "The path to the fort can be slippery; wear waterproof shoes with good grip and enjoy the view of the stormy Glandore Bay from the high ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios",
+                "hu": "Lios",
+                "ro": "Lios",
+                "en": "Lios"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier aus; die nassen Erdwälle sind empfindlich, also betrachten Sie das historische Denkmal respektvoll aus kurzer Distanz.",
+                "hu": "Egy rövid megálló is elég itt; a vizes földsáncok sérülékenyek, ezért tiszteletteljesen, rövid távolságból tekintse meg a történelmi emléket.",
+                "ro": "O oprire scurtă este suficientă aici; terasamentele umede sunt fragile, deci vizitați monumentul istoric cu respect de la o distanță scurtă.",
+                "en": "A short stop is sufficient here; the wet earthworks are fragile, so view the historical monument respectfully from a short distance in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Carraig-ín Mhóire",
+                "hu": "Carraig-ín Mhóire",
+                "ro": "Carraig-ín Mhóire",
+                "en": "Carraig-ín Mhóire"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen glänzen im Regen; bleiben Sie im Fahrzeug für den besten Panoramablick, bevor Sie zur gemütlichen Unterkunft in Unionhall zurückkehren.",
+                "hu": "A sziklák csillognak az esőben; maradjon az autóban a legjobb panorámáért, mielőtt visszatérne Unionhall barátságos szálláshelyeire.",
+                "ro": "Stâncile strălucesc în ploaie; rămâneți în vehicul pentru cea mai bună panoramă înainte de a reveni la cazarea primitoare din Unionhall.",
+                "en": "The rocks glisten in the rain; stay in the vehicle for the best panoramic view before returning to your cozy accommodation in Unionhall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den beheizten Komfort Ihres Autos, während Sie die frostbedeckten Hügel von Unionhall durchqueren. Mittagsstopps an den Kirchen bieten eine friedliche, ruhige Atmosphäre. Das Nachmittagslicht trifft die Forts in einem scharfen Winkel, perfekt für Fotos vor dem Sonnenuntergang um 17:00 Uhr. Beenden Sie die Tour, wenn die Wintersterne erscheinen.",
+            "hu": "Élvezze az autó fűtött kényelmét, miközben Unionhall zúzmarás dombjain halad át. A déli megállók a templomoknál békés, csendes hangulatot árasztanak. A délutáni fények éles szögben érik az erődöket, ideális fotózáshoz a 17:00-s naplemente előtt. Zárja a túrát, ahogy a téli csillagok feltűnnek a sötét égbolton.",
+            "ro": "Bucurați-vă de confortul mașinii în timp ce traversați dealurile înghețate din Unionhall. Opririle de la prânz la biserici oferă o atmosferă liniștită. Lumina de după-amiază cade pe forturi sub un unghi ascuțit, perfect pentru poze înainte de apusul de la ora 17:00. Încheiați turul când apar stelele de iarnă.",
+            "en": "Enjoy the heated comfort of your car while traversing the frost-covered hills of Unionhall. Midday stops at the stone churches offer a peaceful, quiet atmosphere. Afternoon light hits the coastal forts at a sharp angle, perfect for photography before the 17:00 sunset. Conclude your tour as the winter stars appear over the Atlantic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Leap Church of Ireland",
+                "hu": "Leap Church of Ireland",
+                "ro": "Leap Church of Ireland",
+                "en": "Leap Church of Ireland"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter wunderschön still; achten Sie auf Frost auf den Parkplatzstufen und genießen Sie die kühle, klare Akustik im Inneren des Gebäudes.",
+                "hu": "A templom télen gyönyörűen csendes; ügyeljen a zúzmarára a parkoló lépcsőin, és élvezze az épület belsejének hűvös, tiszta akusztikáját.",
+                "ro": "Biserica este extrem de liniștită iarna; atenție la gheața de pe treptele parcării și bucurați-vă de acustica clară și rece din interiorul clădirii.",
+                "en": "The church is beautifully quiet in winter; watch for frost on the parking area steps and enjoy the cool, clear acoustics inside the historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "An Teampall Bán",
+                "hu": "An Teampall Bán",
+                "ro": "An Teampall Bán",
+                "en": "An Teampall Bán"
+              },
+              "tip_5lang": {
+                "de": "Das frostige Gras um die Ruinen ist im Morgenlicht fotogen; tragen Sie warme Socken und feste Stiefel, da die Kälte hier schnell in die Füße zieht.",
+                "hu": "A fagyos fű a romok körül fotogén a reggeli fényben; viseljen meleg zoknit és bakancsot, mivel a hideg itt gyorsan átjárja a lábakat.",
+                "ro": "Iarba înghețată din jurul ruinelor este fotogenică în lumina dimineții; purtați șosete groase și ghete, deoarece frigul pătrunde rapid aici.",
+                "en": "The frosty grass around the ruins is very photogenic in the morning light; wear warm socks and boots as the ground chill sets in quickly here."
+              }
+            },
+            {
+              "name": {
+                "de": "St Brigid's Church",
+                "hu": "Szent Brigitta-templom",
+                "ro": "Biserica Sfânta Brigita",
+                "en": "St Brigid's Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern sind im Winter sehr kalt; ein kurzes Gebet oder eine Besichtigung ist wunderbar, aber kehren Sie bald ins warme Auto zurück.",
+                "hu": "A vastag falak télen nagyon hidegek; egy rövid látogatás csodálatos, de térjen vissza mielőbb a fűtött autóba a további felfedezéshez.",
+                "ro": "Zidurile groase sunt foarte reci iarna; o scurtă vizită este minunată, dar reveniți curând în mașina încălzită pentru a continua drumul.",
+                "en": "The thick walls are very cold in winter; a short visit is wonderful, but return to your heated car soon to stay comfortable for the rest of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Castle Ire",
+                "hu": "Castle Ire",
+                "ro": "Castelul Ire",
+                "en": "Castle Ire"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt bei tiefstehender Wintersonne majestätisch; nutzen Sie das goldene Licht kurz vor 16:00 Uhr für die besten Aufnahmen der Ruinen.",
+                "hu": "A vár fenségesen fest az alacsonyan járó téli napsütésben; használja ki az aranyórát 16:00 körül a legjobb fotók készítéséhez a romokról.",
+                "ro": "Castelul arată maiestuos în lumina joasă de iarnă; profitați de lumina aurie de la ora 16:00 pentru cele mai bune fotografii ale ruinelor.",
+                "en": "The castle looks majestic in the low winter sun; take advantage of the golden light around 16:00 for the best shots of the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Ardra Fort",
+                "hu": "Ardra-erőd",
+                "ro": "Fortul Ardra",
+                "en": "Ardra Fort"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise am Fort ist im Winter schneidend kalt; eine winddichte Jacke ist Pflicht, wenn Sie die Klippen vor dem Sonnenuntergang erkunden.",
+                "hu": "A tengeri szél az erődnél télen metszően hideg; szélálló kabát kötelező, ha a naplemente előtt szeretné felfedezni a sziklákat a magasban.",
+                "ro": "Briză marină la fort este tăioasă iarna; o jachetă rezistentă la vânt este obligatorie dacă explorați faleza înainte de apusul soarelui.",
+                "en": "The sea breeze at the fort is cuttingly cold in winter; a windproof jacket is mandatory if you plan to explore the cliffs before sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Lios",
+                "hu": "Lios",
+                "ro": "Lios",
+                "en": "Lios"
+              },
+              "tip_5lang": {
+                "de": "Bei gefrorenem Boden ist der Zugang zum Lios einfacher als bei Matsch; bewundern Sie die Struktur der Erdwälle, die sich im Winterreif deutlich abheben.",
+                "hu": "Fagyott talajon a Lios megközelítése könnyebb, mint sárban; csodálja meg a földsáncok szerkezetét, amelyek élesen kirajzolódnak a zúzmarában.",
+                "ro": "Pe sol înghețat, accesul la Lios este mai ușor decât în noroi; admirați structura terasamentelor care se evidențiază clar în chiciură.",
+                "en": "On frozen ground, accessing the Lios is easier than in mud; admire the structure of the earthworks which stand out clearly in the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Carraig-ín Mhóire",
+                "hu": "Carraig-ín Mhóire",
+                "ro": "Carraig-ín Mhóire",
+                "en": "Carraig-ín Mhóire"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr vom Parkplatz aus; die winterliche Dämmerung über dem Atlantik bietet ein spektakuläres Farbspiel.",
+                "hu": "Figyelje a naplementét 17:00-kor a parkolóból; a téli szürkület az Atlanti-óceán felett látványos színeket és felejthetetlen élményt kínál.",
+                "ro": "Urmăriți apusul de la ora 17:00 din parcare; amurgul de iarnă peste Atlantic oferă un joc de culori spectaculos și o experiență de neuitat.",
+                "en": "Watch the 17:00 sunset from the parking area; the winter twilight over the Atlantic offers a spectacular display of colors to end your car tour."
+              }
+            }
+          ]
         }
       }
     }

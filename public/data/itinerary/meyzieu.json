@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Meyzieu csendes központjában a történelmi templom és az izgalmas VR-élmények felfedezésével. Délben egy kellemes séta vezet a Le Grand Large partjához, amely tökéletes helyszín egy vízparti piknikhez. A délutánt a Parc de Miribel-Jonage buja erdeinek és békés ösvényeinek szentelheti, ahol a természet közelsége teljesen feltölti. Az estét egy hosszú sétával zárhatja dél felé, a Fort de Meyzieu történelmi romjainál, miközben a lemenő nap fénye bevilágítja a régi erődítmény falait.",
         "ro": "Începeți ziua în centrul liniștit al orașului Meyzieu, vizitând biserica istorică și bucurându-vă de experiențe VR captivante. La amiază, o plimbare pitorească vă duce la Le Grand Large, locul perfect pentru un picnic pe malul apei. După-amiaza este dedicată explorării pădurilor dese și a țărmurilor idilice din vasta rezervație Parc de Miribel-Jonage. Încheiați seara cu o plimbare spre sud pentru a descoperi ruinele robuste ale Fortului Meyzieu, absorbind istoria fascinantă a regiunii la apus.",
         "en": "Start your day in the quiet center of Meyzieu by exploring the historic church and diving into exciting VR experiences. By midday, a leisurely walk takes you to the scenic shores of Le Grand Large, offering the perfect setting for a waterfront picnic. Spend your afternoon wandering through the sprawling forests and idyllic trails of the impressive Parc de Miribel-Jonage nature reserve. Conclude the day with a long evening walk south to the sturdy ruins of Fort de Meyzieu, soaking in the region's rich military history at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Tag mit Schutz in der Kirche Saint-Sébastien. Mittags bietet die Vortex Experience VR perfekte Indoor-Unterhaltung. Am Nachmittag spazieren Sie mit festem Schuhwerk am Le Grand Large und im Parc de Miribel-Jonage entlang, wo die Natur im Regen auflebt. Abends erkunden Sie das Fort de Meyzieu vorsichtig auf den nassen und rutschigen Pfaden.",
+            "hu": "Kezdd az esős napot a Saint-Sébastien templom védelmében. Délben a Vortex Experience VR tökéletes benti szórakozást nyújt a záporok elől. Délután vízálló cipőben fedezd fel a Le Grand Large és a Miribel-Jonage park friss, eső áztatta természetét. Este az ódon Fort de Meyzieu falai között zárj, vigyázva a csúszós, nedves kövekre a sötétedésben.",
+            "ro": "Începeți ziua ploioasă la adăpost în Biserica Saint-Sébastien. La prânz, Vortex Experience VR oferă distracție interioară perfectă. După-amiaza, explorați cu încălțăminte impermeabilă Le Grand Large și Parcul Miribel-Jonage, unde natura se trezește la viață. Seara, încheiați la Fort de Meyzieu, având grijă la pietrele alunecoase în condiții de umezeală.",
+            "en": "Start the rainy day taking shelter in Saint-Sébastien Church. At noon, Vortex Experience VR provides perfect indoor entertainment away from downpours. In the afternoon, wear waterproof shoes to explore the wet, dramatic nature of Le Grand Large and Miribel-Jonage Park. The evening concludes at Fort de Meyzieu; walk carefully on the slippery historical stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Sébastien",
+                "hu": "Saint-Sébastien Templom",
+                "ro": "Biserica Saint-Sébastien",
+                "en": "Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht vor dem Regen unter den bunten Fenstern, aber passen Sie auf den nassen, rutschigen Stufen am Eingang auf.",
+                "hu": "Tökéletes menedék az eső elől a díszes üvegablakok alatt, de kifelé nagyon vigyázz a csúszós, nedves kinti lépcsőkön.",
+                "ro": "Găsiți adăpost de ploaie sub vitraliile colorate, dar aveți mare grijă la treptele exterioare umede și alunecoase.",
+                "en": "Find shelter from the heavy rain under the colorful stained glass, but be very careful on the wet and slippery outside steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Vortex Experience VR",
+                "hu": "Vortex Experience VR",
+                "ro": "Vortex Experience VR",
+                "en": "Vortex Experience VR"
+              },
+              "tip_5lang": {
+                "de": "Perfekte Indoor-Flucht: Tauchen Sie in actionreiche Virtual-Reality-Abenteuer ein, während es draußen in Strömen gießt.",
+                "hu": "Ideális benti esőprogram: merülj el az izgalmas virtuális valóságban, és felejtsd el teljesen a kinti borús időt.",
+                "ro": "Evadare interioară perfectă: scufundați-vă în aventuri pline de acțiune în realitatea virtuală cât timp afară toarnă.",
+                "en": "The perfect indoor escape: completely immerse yourself in action-packed virtual reality adventures while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Grand Large",
+                "hu": "Le Grand Large",
+                "ro": "Le Grand Large",
+                "en": "Le Grand Large"
+              },
+              "tip_5lang": {
+                "de": "Das Gewässer zeigt sich im Regen dramatisch schön. Wasserdichte Schuhe für die matschigen Uferwege sind hier absolute Pflicht.",
+                "hu": "A tó az esőben is drámai és gyönyörű arcát mutatja. Egy jó vízálló cipő elengedhetetlen a saras parti sétához.",
+                "ro": "Lacul arată dramatic și frumos în ploaie. Încălțămintea impermeabilă este absolut obligatorie pentru potecile noroioase de pe mal.",
+                "en": "The huge lake looks dramatic and beautiful in the rain. Sturdy, waterproof shoes are absolutely essential for the muddy shore paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Miribel-Jonage",
+                "hu": "Parc de Miribel-Jonage",
+                "ro": "Parc de Miribel-Jonage",
+                "en": "Parc de Miribel-Jonage"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Waldpfade werden schnell zu tiefem Schlamm. Bleiben Sie mit einem großen Regenschirm besser auf den asphaltierten Wegen.",
+                "hu": "Az erdei földutak hamar sártengerré válnak. Biztonságosabb, ha a kikövezett utakon maradsz egy stabil esernyővel a kezedben.",
+                "ro": "Potecile neasfaltate din pădure se transformă rapid în noroi adânc. Rămâneți mai bine pe drumurile pavate cu o umbrelă mare.",
+                "en": "Unpaved forest trails quickly turn into deep mud during showers. It's safer to stick to the paved roads with a large umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Meyzieu",
+                "hu": "Fort de Meyzieu",
+                "ro": "Fort de Meyzieu",
+                "en": "Fort de Meyzieu"
+              },
+              "tip_5lang": {
+                "de": "Das alte, nasse Gestein ist extrem rutschig. Erkunden Sie die historischen Gewölbe und überdachten Bereiche mit großer Vorsicht.",
+                "hu": "A történelmi, vizes kövek rendkívül csúsznak. Óvatos lépésekkel fedezd fel az erőd romjait és a fedett boltíveket.",
+                "ro": "Piatra veche și umedă este extrem de alunecoasă. Explorați bolțile istorice și zonele acoperite ale fortului cu mare grijă.",
+                "en": "The old, wet stone paths are extremely slippery. Explore the historical vaults and covered sections of the fort with great care."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen startet frisch bei der Kirche Saint-Sébastien. Mittags wärmen Sie sich bei der actionreichen Vortex Experience VR auf. Am Nachmittag erfordern die eisigen Winde am Le Grand Large und im Park warme Kleidung, bieten aber klare Sicht. Gegen 17 Uhr wird es dunkel; beenden Sie die Tour am Fort de Meyzieu mit einer Taschenlampe in der Dämmerung.",
+            "hu": "A téli reggel frissen indul a Saint-Sébastien templomnál. Délben melegedj fel egy aktív kalanddal a Vortex Experience VR-ben. Délután a Le Grand Large és a park fagyos szelei meleg rétegeket követelnek, de a tiszta levegő kárpótol. A korai sötétedés már 17 órakor utolér, így a Fort de Meyzieu romjait a misztikus téli szürkületben csodálhatod meg.",
+            "ro": "Dimineața de iarnă începe proaspăt la Biserica Saint-Sébastien. La prânz, încălziți-vă cu aventura interioară la Vortex Experience VR. După-amiaza, vânturile reci de la Le Grand Large și din parc cer haine groase, dar oferă priveliști clare. Apusul timpuriu vine pe la 17:00, așa că explorați Fort de Meyzieu în crepusculul mistic de iarnă.",
+            "en": "The winter morning starts crisp at Saint-Sébastien Church. At noon, warm up with an active indoor adventure at Vortex Experience VR. In the afternoon, the icy winds at Le Grand Large and the park demand warm layers but offer clear views. Early sunset hits by 5 PM, so you'll explore the historical Fort de Meyzieu in the mystic winter twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Sébastien",
+                "hu": "Saint-Sébastien Templom",
+                "ro": "Biserica Saint-Sébastien",
+                "en": "Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre und das flache, klare Winterlicht durch die Buntglasfenster. Die dicken Steinmauern halten die Kälte draußen.",
+                "hu": "Élvezd a benti csendet és a lapos szögben érkező csodás téli fényeket az üvegablakokon át, miután a hideg szél elől behúzódtál.",
+                "ro": "Bucurați-vă de liniște și de lumina clară de iarnă prin vitralii. Zidurile groase de piatră țin frigul tăios afară.",
+                "en": "Enjoy the quiet atmosphere and the crisp, low winter light filtering through the stained glass after escaping the freezing morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Vortex Experience VR",
+                "hu": "Vortex Experience VR",
+                "ro": "Vortex Experience VR",
+                "en": "Vortex Experience VR"
+              },
+              "tip_5lang": {
+                "de": "Eine hervorragende Gelegenheit, sich bei einer körperlich aktiven VR-Mission aufzuwärmen, bevor Sie wieder in die Kälte hinausgehen.",
+                "hu": "Kiváló alkalom, hogy testben és lélekben is felmelegedj egy aktív VR-küldetés során, mielőtt visszatérsz a téli fagyba.",
+                "ro": "O ocazie excelentă de a vă încălzi corpul într-o misiune VR activă înainte de a ieși din nou în aerul înghețat de afară.",
+                "en": "An excellent opportunity to warm up your body with an active and exciting VR mission before heading back out into the freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Grand Large",
+                "hu": "Le Grand Large",
+                "ro": "Le Grand Large",
+                "en": "Le Grand Large"
+              },
+              "tip_5lang": {
+                "de": "Der eisige Wind über dem Wasser kann beißend sein. Tragen Sie winddichte Kleidung und eine dicke Mütze für das klare Winterpanorama.",
+                "hu": "A hatalmas vízfelület felől fújó metsző szél nagyon hideg. Vastag sál, sapka és szélálló réteg kell a tiszta téli panorámához.",
+                "ro": "Vântul înghețat de pe apă poate fi tăios. Purtați haine rezistente la vânt și o căciulă groasă pentru panorama clară de iarnă.",
+                "en": "The icy wind blowing off the open water is biting. Wear windproof layers, a thick scarf, and a hat to enjoy the clear winter panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Miribel-Jonage",
+                "hu": "Parc de Miribel-Jonage",
+                "ro": "Parc de Miribel-Jonage",
+                "en": "Parc de Miribel-Jonage"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten freie Sicht auf überwinternde Vögel. Eine Thermoskanne mit heißem Tee ist auf den gefrorenen Wegen ein Lebensretter.",
+                "hu": "A kopasz fák között remekül megfigyelheted a telelő madarakat. A fagyos erdei sétán egy termosz forró tea valóságos életmentő lesz.",
+                "ro": "Copacii goi oferă o vedere clară asupra păsărilor de iarnă. Un termos cu ceai fierbinte este un salvator pe potecile înghețate.",
+                "en": "The bare trees offer great views of wintering birds. Bringing a thermos of hot tea will be a lifesaver during your walk on the frozen paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Meyzieu",
+                "hu": "Fort de Meyzieu",
+                "ro": "Fort de Meyzieu",
+                "en": "Fort de Meyzieu"
+              },
+              "tip_5lang": {
+                "de": "Um 17 Uhr bricht bereits die Dunkelheit herein. Die steinernen Ruinen wirken im Zwielicht mystisch; bringen Sie eine Taschenlampe mit.",
+                "hu": "Mivel 17 óra körül már sötétedik, a romos kőfalak nagyon misztikusak a szürkületben. Mindenképpen legyen nálad zseblámpa a lépcsőkhöz.",
+                "ro": "Întunericul cade deja pe la ora 17:00. Ruinele de piatră par mistice în amurg; asigurați-vă că aduceți o lanternă puternică.",
+                "en": "Darkness falls early around 5 PM. The stone ruins look incredibly mystic in the twilight, but be sure to bring a flashlight for safety."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpártúrája a templomnál kezdődik, majd gyorsan délre, a lenyűgöző Fort de Meyzieu erődítményéhez vezet. Délben észak felé veszi az irányt, hogy a Le Grand Large csillogó vizeinél tartson egy pihentető ebédszünetet. A délután folyamán a festői Canal de Jonage mentén pedálozva fedezheti fel a Parc de Miribel-Jonage zöldellő szívét. Zárja a napot a békés Lac des Allivoz partján, ahol a nyugodt vizet figyelve gyönyörködhet az est csendes és harmonikus atmoszférájában.",
         "ro": "Turul dumneavoastră pe bicicletă începe cultural la biserică și coboară rapid spre impresionantul Fort Meyzieu din sud. Până la prânz, pedalați spre nord către apele strălucitoare ale Le Grand Large pentru o pauză binemeritată. După-amiaza oferă o plimbare pitorească de-a lungul liniștitului Canal de Jonage, direct în inima verde a Parcului Miribel-Jonage. Încheiați ziua relaxându-vă pe malurile pașnice ale Lacului Allivoz, bucurându-vă de atmosfera senină de seară a apei.",
         "en": "Your cycling tour begins with local culture at the church before heading swiftly south to the impressive remains of Fort de Meyzieu. By midday, you will pedal north to the sparkling waters of Le Grand Large for a well-deserved, refreshing break. The afternoon features a highly scenic ride along the tranquil Canal de Jonage, leading you deep into the green heart of Parc de Miribel-Jonage. End your active day unwinding by the peaceful shores of Lac des Allivoz, taking in the serene evening atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Start an der Kirche bietet trockenen Unterschlupf. Radeln Sie mittags vorsichtig zum Fort, wo nasses Laub rutschig ist. Nachmittags fordern Pfützen am Le Grand Large und am Jonage-Kanal gute Schutzbleche. Abends im Parc de Miribel-Jonage und am Lake Allivoz zeigt sich die Natur dramatisch grau; fahren Sie langsam auf den aufgeweichten Wegen.",
+            "hu": "A nedves reggelen a templom száraz menedéket ad a bringásoknak. Délben óvatosan tekerj az erődhöz, mert a nedves avar csúszik. Délután a Le Grand Large és a Jonage csatorna mentén a pocsolyák miatt a sárvédő elengedhetetlen. Este a Miribel-Jonage park és az Allivoz-tó drámai szürke arcát mutatja; haladj lassan az esőtől felázott erdei utakon.",
+            "ro": "Dimineața umedă oferă un adăpost uscat la biserică pentru bicicliști. La prânz, pedalați cu grijă spre fort, unde frunzele umede alunecă. După-amiaza, bălțile de la Le Grand Large și Canalul Jonage necesită apărători de noroi. Seara, parcul și Lacul Allivoz arată dramatic; mergeți încet pe cărările moi și noroioase.",
+            "en": "A wet morning start offers dry shelter at the church. Ride carefully at noon to the fort, as wet leaves are slippery. In the afternoon, puddles along Le Grand Large and Jonage Canal make mudguards essential. Evening at the park and Lake Allivoz showcases dramatic grey skies; ride slowly on the rain-soaked trails to finish safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Sébastien",
+                "hu": "Saint-Sébastien Templom",
+                "ro": "Biserica Saint-Sébastien",
+                "en": "Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Fahrrad gut an und nutzen Sie die Kirche als trockene Pause, um den schwersten Regenschauer am Morgen abzuwarten.",
+                "hu": "Kösd le a bringát a bejáratnál, és használd a templomot száraz pihenőként, amíg a legdurvább reggeli zápor alábbhagy.",
+                "ro": "Legați-vă bine bicicleta și folosiți biserica ca pe o pauză uscată pentru a aștepta să treacă cea mai puternică ploaie de dimineață.",
+                "en": "Lock your bike securely and use the church as a dry rest stop to wait out the heaviest morning downpour before riding on."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Meyzieu",
+                "hu": "Fort de Meyzieu",
+                "ro": "Fort de Meyzieu",
+                "en": "Fort de Meyzieu"
+              },
+              "tip_5lang": {
+                "de": "Auf dem Hügel zum Fort sammeln sich nasses Laub und Matsch. Bremsen Sie frühzeitig ab und fahren Sie die Steigungen sehr konzentriert.",
+                "hu": "Az erődhöz vezető emelkedőn a nedves falevelek nagyon csúsznak. Fékezz időben, és a kanyarokat a lehető legnagyobb óvatossággal vedd be.",
+                "ro": "Frunzele umede și noroiul se adună pe dealul spre fort. Frânați din timp și parcurgeți pantele cu multă concentrare și atenție.",
+                "en": "Wet leaves and mud accumulate on the hill leading to the fort. Brake early and ride the inclines with maximum concentration and care."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Grand Large",
+                "hu": "Le Grand Large",
+                "ro": "Le Grand Large",
+                "en": "Le Grand Large"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg am Seeufer ist oft voller tiefer Pfützen. Funktionierende Schutzbleche und Regenkleidung machen die Fahrt hier deutlich angenehmer.",
+                "hu": "A tóparti kerékpárút teli van mély pocsolyákkal. A sárvédő és a vízálló esőkabát itt teszi igazán komfortossá a haladást.",
+                "ro": "Pista de biciclete de pe malul lacului este adesea plină de bălți adânci. Apărătorile bune și hainele de ploaie sunt foarte utile aici.",
+                "en": "The cycle path along the lake is often full of deep puddles. Working mudguards and full rain gear will make this stretch much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanal von Jonage",
+                "hu": "Jonage Csatorna",
+                "ro": "Canalul Jonage",
+                "en": "Jonage Canal"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Radwegen neben dem Kanal. Die unbefestigten Uferstreifen werden bei Regen sehr weich und gefährlich rutschig.",
+                "hu": "Szigorúan maradj a csatorna melletti aszfaltozott bringaúton. A füves partoldal az esőben hirtelen beszakadhat és nagyon csúszik.",
+                "ro": "Rămâneți pe pistele de biciclete pavate de lângă canal. Malurile neasfaltate devin foarte moi și periculos de alunecoase în timpul ploii.",
+                "en": "Stick strictly to the paved cycle paths next to the canal. The unpaved grassy banks become very soft and dangerously slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Miribel-Jonage",
+                "hu": "Parc de Miribel-Jonage",
+                "ro": "Parc de Miribel-Jonage",
+                "en": "Parc de Miribel-Jonage"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen im Park bieten stellenweise natürlichen Regenschutz. Meiden Sie jedoch die unbefestigten, aufgeweichten Singletrails.",
+                "hu": "A park sűrűbb lombkoronái alatt találhatsz természetes menedéket. A felázott, erdei földutakat viszont kerüld el, mert sárba ragadsz.",
+                "ro": "Coroanele dese ale copacilor oferă pe alocuri protecție naturală împotriva ploii. Evitați totuși traseele neasfaltate și pline de noroi.",
+                "en": "The dense tree canopies in the park offer natural rain shelters in places. However, absolutely avoid the unpaved, mud-soaked dirt tracks."
+              }
+            },
+            {
+              "name": {
+                "de": "Allivoz-See",
+                "hu": "Allivoz-tó",
+                "ro": "Lacul Allivoz",
+                "en": "Lake Allivoz"
+              },
+              "tip_5lang": {
+                "de": "Die graue, wolkenverhangene Szenerie über dem Wasser ist dramatisch. Fahren Sie in den matschigen Uferkurven besonders im Regen langsam.",
+                "hu": "A szürke, esőfelhős égbolt drámai tükröződést ad a tavon. A kanyarokat a saras, vizes aszfalton is fokozott óvatossággal vedd be.",
+                "ro": "Peisajul gri și înnorat deasupra apei este dramatic. Conduceți încet, în special în curbele noroioase de pe mal, în timpul ploii.",
+                "en": "The grey, cloudy scenery over the water is highly dramatic. Take it very slow around the muddy, wet shoreline curves in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostiger Start an der Kirche, warm einpacken! Fahren Sie zügig zum Fort de Meyzieu für klare Winterpanoramen. Nachmittags ist die eiskalte Luft am Le Grand Large und Jonage-Kanal erfrischend, erfordert aber winddichte Handschuhe. Die Sonne geht um 17 Uhr unter; seien Sie am Park und Lake Allivoz mit gutem Fahrradlicht rechtzeitig in der Dämmerung unterwegs.",
+            "hu": "Fagyos rajt a templomnál, öltözz melegen! Tekerj az erődhöz a tiszta téli panorámáért. Délután a Le Grand Large és a Jonage csatorna jeges levegője frissítő, de szélálló kesztyűt követel. A nap korán, 17 óra körül nyugszik; a parkhoz és az Allivoz-tóhoz már erős bringalámpákkal érkezz a biztonságos téli szürkületi tekeréshez.",
+            "ro": "Început geros la biserică, îmbrăcați-vă gros! Pedalați spre fort pentru panorame clare de iarnă. După-amiaza, aerul înghețat de la Le Grand Large și Canalul Jonage necesită mănuși rezistente la vânt. Soarele apune devreme, la ora 17:00; asigurați-vă că aveți lumini bune la bicicletă pentru Parcul Miribel și Lacul Allivoz la crepuscul.",
+            "en": "Frosty start at the church, wrap up warm! Ride briskly to the fort for clear winter panoramas. In the afternoon, the icy air at Le Grand Large and Jonage Canal is refreshing but requires windproof gloves. The sun sets early around 5 PM; make sure you have strong bike lights ready for the park and Lake Allivoz in the evening twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Sébastien",
+                "hu": "Saint-Sébastien Templom",
+                "ro": "Biserica Saint-Sébastien",
+                "en": "Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Kirche zum Aufwärmen Ihrer Finger und Zehen nach der eiskalten Morgenfahrt, bevor die richtige Tour beginnt.",
+                "hu": "Kiváló helyszín arra, hogy a fagyos reggeli indulás után kicsit felmelegítsd a megdermedt ujjaidat a benti csendes nyugalomban.",
+                "ro": "Folosiți biserica pentru a vă încălzi degetele după plimbarea înghețată de dimineață, înainte de a începe cu adevărat turul.",
+                "en": "Use the peaceful interior of the church to warm up your freezing fingers and toes after the very cold morning bike ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Meyzieu",
+                "hu": "Fort de Meyzieu",
+                "ro": "Fort de Meyzieu",
+                "en": "Fort de Meyzieu"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Fort hält Sie warm, doch oben weht ein scharfer Winterwind. Die unbelaubten Bäume gewähren eine weite, klare Aussicht.",
+                "hu": "A felfelé tekerés kimelegít, de a tetőn metsző téli szél fogad. Cserébe a kopasz fák miatt ilyenkor a legtisztább a panoráma.",
+                "ro": "Urcarea spre fort vă ține de cald, dar sus suflă un vânt aspru de iarnă. Copacii fără frunze oferă o priveliște vastă și clară.",
+                "en": "The climb keeps you warm, but a sharp winter wind waits at the top. The leafless trees provide a wide, completely unobstructed view."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Grand Large",
+                "hu": "Le Grand Large",
+                "ro": "Le Grand Large",
+                "en": "Le Grand Large"
+              },
+              "tip_5lang": {
+                "de": "Der feuchte Frost vom Wasser kriecht schnell in die Kleidung. Thermohandschuhe und eine Helmmütze sind für diese Uferstrecke unerlässlich.",
+                "hu": "A hatalmas vízfelület felől érkező fagyos levegő csontig hatol. A thermo kesztyű és a sisak alá húzható sapka itt életmentő.",
+                "ro": "Gerul umed de la apă pătrunde rapid prin haine. Mănușile termice și o căciulă sub cască sunt esențiale pentru această secțiune de coastă.",
+                "en": "The damp frost blowing off the water quickly chills your bones. Thermal gloves and a warm under-helmet cap are strictly essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanal von Jonage",
+                "hu": "Jonage Csatorna",
+                "ro": "Canalul Jonage",
+                "en": "Jonage Canal"
+              },
+              "tip_5lang": {
+                "de": "Auf dem glatten Asphalt entlang des Kanals kann sich an schattigen Stellen tückisches Glatteis bilden. Fahren Sie vorausschauend.",
+                "hu": "A csatorna melletti sima aszfalton az árnyékos részeken alattomos tükörjég alakulhat ki. Tartsd a tempót mérsékelten és figyelj.",
+                "ro": "Pe asfaltul neted de-a lungul canalului se poate forma gheață ascunsă în zonele umbrite. Mergeți cu prudență și vizibilitate bună.",
+                "en": "Treacherous black ice can easily form on the smooth asphalt along the shaded parts of the canal. Ride slowly and look ahead carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Miribel-Jonage",
+                "hu": "Parc de Miribel-Jonage",
+                "ro": "Parc de Miribel-Jonage",
+                "en": "Parc de Miribel-Jonage"
+              },
+              "tip_5lang": {
+                "de": "Das späte Nachmittagslicht bricht sich wunderschön in den vereisten Zweigen. Passen Sie in den Waldkurven auf überfrorene Pfützen auf.",
+                "hu": "A késő délutáni téli napfény varázslatosan csillog a deres ágakon. Az erdei kanyarokban nagyon vigyázz a befagyott pocsolyákra.",
+                "ro": "Lumina târzie a după-amiezii se reflectă frumos pe ramurile înghețate. Atenție la bălțile înghețate în curbele din pădure.",
+                "en": "The late afternoon winter light reflects beautifully through the frosty branches. Watch out carefully for frozen puddles on the forest curves."
+              }
+            },
+            {
+              "name": {
+                "de": "Allivoz-See",
+                "hu": "Allivoz-tó",
+                "ro": "Lacul Allivoz",
+                "en": "Lake Allivoz"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor dem frühen Sonnenuntergang um 17 Uhr. Ab hier benötigen Sie helle, funktionierende Fahrradlichter für die Heimfahrt.",
+                "hu": "Érj ide még a 17 órás korai naplemente előtt. Innen már mindenképpen erős és feltöltött kerékpárlámpákkal kell folytatnod az utat.",
+                "ro": "Planificați-vă sosirea înainte de apusul devreme, la ora 17:00. De aici aveți nevoie de lumini puternice la bicicletă pentru drumul spre casă.",
+                "en": "Plan to arrive well before the early 5 PM sunset. From this point on, you absolutely need bright, fully charged bike lights for safety."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A nap a Fort de Meyzieu lenyűgöző romjainak felfedezésével indul, amit a helyi templom és modern VR-kalandok követnek. Délben kényelmesen elautózhat a Lac des Simondières és a Lac de la Bletta rejtett természeti kincseihez egy csendes ebédszünetre. Délután a Canal de Jonage festői partjait járhatja be, élvezve a víz közelségét és a tiszta levegőt. Az estét a hatalmas Parc de Miribel-Jonage területén töltheti, ahol a természet nyugalma tökéletes lezárást nyújt a napnak.",
         "ro": "Ziua începe cu o plimbare fascinantă la Fortul Meyzieu, urmată de o vizită la biserica centrală și aventuri moderne VR. La prânz, conduceți confortabil către bijuteriile naturale ascunse Lac des Simondières și Lac de la Bletta pentru o pauză relaxantă. După-amiaza vă invită să explorați malurile pitorești ale Canalului Jonage, bucurându-vă de briza proaspătă. Petreceți seara perfectă în vastul Parc Miribel-Jonage, unde puteți savura pe deplin liniștea și peisajele idilice.",
         "en": "Your day trip starts with a fascinating drive to Fort de Meyzieu, followed by a visit to the central church and some modern VR adventures. By midday, drive comfortably to the secluded natural gems of Lac des Simondières and Lac de la Bletta for a relaxing lunch break. The afternoon invites you to explore the scenic banks of the Canal de Jonage, enjoying the fresh, cooling breeze. Spend a perfect evening in the expansive Parc de Miribel-Jonage, fully savoring the absolute tranquility of the landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie im Regen zum Fort und warten Sie im Auto, bis Schauer abklingen. Mittags bieten die Kirche und Vortex VR trockene Zufluchtsorte. Nachmittags erleben Sie die Seen Simondières und Bletta bequem durch regennasse Scheiben. Abends runden Fahrten entlang des Jonage-Kanals und durch den Parc de Miribel-Jonage den Tag sicher auf nassen Straßen ab.",
+            "hu": "Esőben vezess az erődhöz, és várd meg az autóban a zápor végét. Délben a templom és a Vortex VR tökéletes száraz menedékeket nyújtanak. Délután a Simondières és Bletta tavak drámai arcát kényelmesen, a fűtött kocsiból is csodálhatod. Este a Jonage csatorna és a Miribel-Jonage park aszfaltozott útjain biztonságosan zárhatod a vizes napot.",
+            "ro": "Conduceți pe ploaie spre fort și așteptați în mașină să treacă aversele. La prânz, biserica și Vortex VR oferă refugii uscate perfecte. După-amiaza, admirați lacurile Simondières și Bletta confortabil, de la căldură. Seara, plimbările auto de-a lungul Canalului Jonage și prin Parcul Miribel-Jonage încheie ziua în siguranță pe drumurile umede.",
+            "en": "Drive in the rain to the fort and wait out heavy showers in your car. At noon, the church and Vortex VR provide perfect dry escapes. In the afternoon, admire the dramatic views of Lakes Simondières and Bletta comfortably from your heated vehicle. Evening drives along Jonage Canal and through Miribel-Jonage Park safely end your wet day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort de Meyzieu",
+                "hu": "Fort de Meyzieu",
+                "ro": "Fort de Meyzieu",
+                "en": "Fort de Meyzieu"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie heftige Regengüsse gemütlich im Auto ab. Beim anschließenden Rundgang über die nassen Steinböden ist äußerste Vorsicht geboten.",
+                "hu": "A legdurvább záport kényelmesen átvészelheted az autóban. Amikor kiszállsz, nagyon vigyázz a csúszós, nedves történelmi köveken.",
+                "ro": "Așteptați ploile abundente confortabil în mașină. La plimbarea ulterioară pe podelele de piatră umede este necesară o prudență extremă.",
+                "en": "Wait out the heaviest downpours comfortably inside your car. When you step out, be extremely careful walking on the slippery wet stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Sébastien",
+                "hu": "Saint-Sébastien Templom",
+                "ro": "Biserica Saint-Sébastien",
+                "en": "Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie möglichst nah am Eingang, um nicht durchnässt zu werden, und bewundern Sie im Trockenen die beeindruckende Architektur.",
+                "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy megúszd az esőt, és odabent, szárazon csodáld meg az építészeti részleteket.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda și admirați la uscat arhitectura impresionantă a bisericii.",
+                "en": "Park as close to the entrance as safely possible to avoid getting soaked, and admire the beautiful architecture completely dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Vortex Experience VR",
+                "hu": "Vortex Experience VR",
+                "ro": "Vortex Experience VR",
+                "en": "Vortex Experience VR"
+              },
+              "tip_5lang": {
+                "de": "Bequemes Parken direkt vor Ort macht diesen Halt zum perfekten, wetterunabhängigen Entertainment-Highlight des verregneten Tages.",
+                "hu": "Könnyű parkolás és teljesen fedett helyszín: ez a VR központ a legjobb esőbiztos szórakozás ezen a borongós, vizes napon.",
+                "ro": "Parcarea convenabilă la fața locului face din această oprire punctul culminant al divertismentului în această zi ploioasă.",
+                "en": "Convenient parking right outside makes this fully indoor VR center the ultimate, weather-proof entertainment highlight of a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "See des Simondières",
+                "hu": "Simondières-tó",
+                "ro": "Lacul Simondières",
+                "en": "Lake Simondières"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie fasziniert die Regentropfen auf der Wasseroberfläche direkt aus dem warmen Auto heraus, ohne nasse Füße zu bekommen.",
+                "hu": "Nézd, ahogy az esőcseppek mintákat rajzolnak a tó vizére, miközben a fűtött, száraz autóból egy pillanatra sem kell kiszállnod.",
+                "ro": "Urmăriți fascinat picăturile de ploaie pe suprafața apei direct din mașina caldă, fără să vă udați picioarele în noroi.",
+                "en": "Fascinatingly watch the heavy raindrops dancing on the water surface directly from the warmth of your car, without getting wet feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bletta-See",
+                "hu": "Bletta-tó",
+                "ro": "Lacul Bletta",
+                "en": "Lake Bletta"
+              },
+              "tip_5lang": {
+                "de": "Die Uferbereiche weichen bei Regen stark auf. Machen Sie am besten nur einen kurzen Fotostopp vom befestigten Parkplatz aus.",
+                "hu": "A part menti földutak sártengerré válnak esőben. A legokosabb, ha csak a lebetonozott parkolóból lősz egy gyors, drámai fotót.",
+                "ro": "Malurile se înmoaie puternic pe ploaie. Cel mai bine este să faceți doar o scurtă oprire foto de pe parcarea asfaltată.",
+                "en": "The grassy shorelines turn to deep mud in the rain. It’s smartest to just take a quick, moody photo directly from the paved parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanal von Jonage",
+                "hu": "Jonage Csatorna",
+                "ro": "Canalul Jonage",
+                "en": "Jonage Canal"
+              },
+              "tip_5lang": {
+                "de": "Das durch Regen angeschwollene Wasser des Kanals ist beeindruckend. Steigen Sie nur auf den sicher asphaltierten Wegen kurz aus.",
+                "hu": "Az esőtől megduzzadt csatorna vize tiszteletet parancsoló. Ha kiszállsz, szigorúan csak a biztonságos aszfaltos részeken állj meg.",
+                "ro": "Apa umflată de ploaie a canalului este impresionantă. Coborâți din mașină doar pe drumurile asfaltate și sigure.",
+                "en": "The rain-swollen waters of the canal look highly impressive. If you step out, strictly keep to the safely paved walkways and viewing spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Miribel-Jonage",
+                "hu": "Parc de Miribel-Jonage",
+                "ro": "Parc de Miribel-Jonage",
+                "en": "Parc de Miribel-Jonage"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die große Parkrunde mit eingeschalteten Scheibenwischern langsam ab und genießen Sie die mystische, neblige Waldstimmung.",
+                "hu": "Csorogj lassan végig a park fő autós útjain, és élvezd a fűtött kocsiból a vizes, misztikusan ködös erdei atmoszférát.",
+                "ro": "Parcurgeți încet bucla mare a parcului cu ștergătoarele pornite și bucurați-vă de atmosfera mistică și încețoșată a pădurii.",
+                "en": "Slowly drive the main park loop with your wipers on, enjoying the mystic, fog-draped forest atmosphere safely from your cozy car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Fort ist eisig; parken Sie nah, um schnell wieder ins Warme zu kommen. Mittags bieten die Kirche und Vortex VR eine gute Aufwärmpause. Nachmittags fahren Sie entlang der zugefrorenen Seen Simondières und Bletta, genießen Sie heißen Tee im Auto. Um 17 Uhr wird es dunkel; der Kanal und Park leuchten im magischen Abendrot.",
+            "hu": "A téli reggel az erődnél jéghideg; parkolj közel, hogy hamar visszatérhess a fűtött kocsiba. Délben a templom és a Vortex VR remek felmelegedést nyújt. Délután a befagyott Simondières és Bletta tavaknál élvezd a forró teát a volán mögül. 17 órakor sötétedik; a csatorna és a park téli sziluettje lenyűgöző a kora esti fagyos szürkületben.",
+            "ro": "Dimineața de iarnă la fort este înghețată; parcați aproape pentru a vă întoarce repede la căldură. La prânz, biserica și Vortex VR oferă pauze de încălzire. După-amiaza, conduceți pe lângă lacurile înghețate Simondières și Bletta, savurând un ceai cald în mașină. La 17:00 se întunecă; canalul și parcul strălucesc în crepusculul magic de iarnă.",
+            "en": "Winter morning at the fort is icy; park close so you can quickly return to the heater. At noon, the church and Vortex VR offer great warm-up spots. In the afternoon, drive past the frozen Simondières and Bletta lakes, enjoying hot tea inside the car. Dusk falls by 5 PM; the canal and park silhouettes look magical in the frosty early evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Fort de Meyzieu",
+                "hu": "Fort de Meyzieu",
+                "ro": "Fort de Meyzieu",
+                "en": "Fort de Meyzieu"
+              },
+              "tip_5lang": {
+                "de": "Zwischen den Steinruinen weht ein bitterkalter Wind. Nutzen Sie die Fahrzeugheizung nach dem frostigen Spaziergang voll aus.",
+                "hu": "A romok között a dombtetőn csontig hatoló szél fúj. Érdemes már előre bekapcsolva hagyni az ülésfűtést a gyors felmelegedéshez.",
+                "ro": "Un vânt foarte rece suflă printre ruinele de piatră. Folosiți la maximum încălzirea mașinii după plimbarea deosebit de geroasă.",
+                "en": "A bitter cold wind constantly blows through the exposed ruins. Blast your car's heater immediately upon your return from the icy walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Sébastien",
+                "hu": "Saint-Sébastien Templom",
+                "ro": "Biserica Saint-Sébastien",
+                "en": "Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Trotz der kalten Steinböden ist das kristallklare Winterlicht, das durch die alten Glasfenster fällt, einen kurzen Stopp wert.",
+                "hu": "Bár a kövezet odabent is hűvös, a lenyűgöző téli napfény játéka a régi üvegablakokon mindenképpen megér egy rövid kiszállást.",
+                "ro": "În ciuda podelelor reci de piatră, lumina de iarnă cristalină care pătrunde prin ferestrele vechi merită o scurtă oprire.",
+                "en": "Despite the freezing stone floors inside, the crystal-clear winter light shining through the old windows makes it worth stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Vortex Experience VR",
+                "hu": "Vortex Experience VR",
+                "ro": "Vortex Experience VR",
+                "en": "Vortex Experience VR"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie die eisigen Temperaturen für ein bis zwei Stunden und powern Sie sich in wohlig warmen Innenräumen richtig aus.",
+                "hu": "Menekülj be a fagy elől pár órára, és mozgasd át magad a fűtött belső térben ezzel az izgalmas virtuális kalanddal.",
+                "ro": "Lăsați temperaturile de îngheț pentru o oră sau două și consumați-vă energia în spații interioare plăcut încălzite.",
+                "en": "Completely escape the freezing outdoor temperatures for an hour or two by burning off energy in this comfortably heated indoor space."
+              }
+            },
+            {
+              "name": {
+                "de": "See des Simondières",
+                "hu": "Simondières-tó",
+                "ro": "Lacul Simondières",
+                "en": "Lake Simondières"
+              },
+              "tip_5lang": {
+                "de": "Ein teilweise zugefrorener See in der Wintersonne bietet ein tolles Motiv. Trinken Sie dabei entspannt einen heißen Tee im Auto.",
+                "hu": "A részben befagyott tó gyönyörű a téli napsütésben. A legokosabb, ha ezt a látványt egy termosz forró teával a volán mögül élvezed.",
+                "ro": "Un lac parțial înghețat în soarele de iarnă oferă o priveliște minunată. Beți relaxat un ceai fierbinte în interiorul mașinii.",
+                "en": "The partially frozen lake sparkling in the winter sun is a beautiful sight. Enjoy it perfectly relaxed with a hot tea right inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Bletta-See",
+                "hu": "Bletta-tó",
+                "ro": "Lacul Bletta",
+                "en": "Lake Bletta"
+              },
+              "tip_5lang": {
+                "de": "Die verlassene Winterlandschaft strahlt absolute Ruhe aus. Drehen Sie die Heizung hoch und genießen Sie die Stille durchs Fenster.",
+                "hu": "A kihalt téli táj tökéletes nyugalmat áraszt. Tekerd fel a fűtést, engedd le félig az ablakot, és hallgasd a természet fagyos csendjét.",
+                "ro": "Peisajul părăsit de iarnă radiază o liniște absolută. Dați drumul la căldură și bucurați-vă de liniște privind pe fereastră.",
+                "en": "The deserted winter landscape radiates absolute peace. Turn up the car's heater and enjoy the profound frosty silence through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Kanal von Jonage",
+                "hu": "Jonage Csatorna",
+                "ro": "Canalul Jonage",
+                "en": "Jonage Canal"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Uferbänke glitzern bezaubernd. Achten Sie jedoch auf mögliche, unsichtbare Eisflächen auf den angrenzenden Zufahrtsstraßen.",
+                "hu": "A dérlepte partok csodásan csillognak. Vezess lassan, mert a csatornához vezető árnyékos aszfaltutakon gyakori az alattomos tükörjég.",
+                "ro": "Malurile înghețate strălucesc fermecător. Aveți însă grijă la posibilele pete de gheață invizibile de pe drumurile de acces din jur.",
+                "en": "The frosty banks glitter enchantingly. Drive carefully, however, as highly dangerous black ice easily forms on the shaded access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Miribel-Jonage",
+                "hu": "Parc de Miribel-Jonage",
+                "ro": "Parc de Miribel-Jonage",
+                "en": "Parc de Miribel-Jonage"
+              },
+              "tip_5lang": {
+                "de": "Gegen 17 Uhr taucht die untergehende Sonne die kahlen Bäume in ein magisches Licht. Schalten Sie rechtzeitig das Fahrlicht ein.",
+                "hu": "17 óra körül a lenyugvó nap varázslatos sziluetteket rajzol a kopasz fákból. Időben kapcsold fel a tompított fényszórót a parkon belül.",
+                "ro": "Pe la 17:00, soarele la apus scaldă copacii goi într-o lumină magică. Aprindeți din timp farurile de întâlnire pentru siguranță.",
+                "en": "Around 5 PM, the setting sun paints the bare trees in magical twilight silhouettes. Be sure to turn your headlights on early for safety."
+              }
+            }
+          ]
+        }
       }
     }
   }

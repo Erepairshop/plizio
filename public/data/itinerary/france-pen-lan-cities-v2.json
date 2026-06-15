@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot a Pen Lan világítótoronynál, és gyönyörködjön a tengerre nyíló kilátásban, majd sétáljon át a békés Baie des Prêtres öbölhöz. Délben a tágas Plage des Barges strand felé veszi az irányt, ahol a tengeri szellő felfrissíti. Délután a Cairn des Grays és a Dolmen du Crapaud területén a régió misztikus, történelem előtti múltjába nyerhet betekintést. Az estét végül a családbarát Plage des Granges partján zárja, amely tökéletes egy naplemente alatti piknikhez.",
         "ro": "Începeți ziua la Farul Pen Lan cu o vedere panoramică spre ocean, apoi plimbați-vă pe îndelete până la liniștitul Baie des Prêtres. La prânz, traseul vă duce către plaja largă Plage des Barges, unde briza proaspătă vă va revigora complet. După-amiaza veți descoperi trecutul mistic și preistoric al regiunii vizitând Cairn des Grays și Dolmen du Crapaud. Seara se încheie liniștit pe Plage des Granges, locul ideal pentru un picnic relaxant la apusul soarelui.",
         "en": "Start your day at the Pen Lan Lighthouse for sweeping ocean views, then enjoy a leisurely stroll down to the tranquil Baie des Prêtres. By midday, your path leads to the expansive Plage des Barges, where the fresh sea breeze provides a revitalizing boost. In the afternoon, immerse yourself in the region's mystical prehistoric past by exploring the Cairn des Grays and the Dolmen du Crapaud. Your evening concludes peacefully at the Plage des Granges, offering the perfect backdrop for a relaxing sunset picnic."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Spaziergang an der Küste von Pen Lan gewinnt bei Regen an dramatischer Intensität. Der Vormittag am Leuchtturm zeigt die rohe Kraft des Ozeans. Mittags bieten die historischen Cairns eine mystische Atmosphäre im Nebel. Am Nachmittag führt der Weg entlang der Strände, wo der Sand fest und gut begehbar ist. Der Tag endet früh unter dem schützenden Dach des Hafens, während der Regen auf das Meer peitscht.",
+            "hu": "A Pen Lan-i part menti séta esőben drámai intenzitást kap. A délelőtt a világítótoronynál az óceán nyers erejét mutatja meg. Délben a történelmi sírhalmok misztikus hangulatot árasztanak a ködben. Délután az út a strandok mentén halad, ahol a homok ilyenkor kemény és jól járható. A nap korán ér véget a kikötő védelmet nyújtó tetői alatt, miközben az eső a tengerre ostoroz.",
+            "ro": "Plimbarea de coastă la Pen Lan capătă o intensitate dramatică pe ploaie. Dimineața la far arată forța brută a oceanului. La prânz, tumulii istorici oferă o atmosferă mistică în ceață. După-amiaza, traseul urmează plajele, unde nisipul este ferm și ușor de parcurs. Ziua se încheie devreme sub acoperișul protector al portului, în timp ce ploaia biciuiește marea agitată.",
+            "en": "The coastal walk at Pen Lan gains a dramatic intensity in the rain. The morning at the lighthouse showcases the raw power of the ocean. At noon, the historical cairns offer a mystical atmosphere in the mist. The afternoon route follows the beaches, where the wet sand is firm and easy to walk on. The day ends early under the protective shelter of the harbor as rain lashes down on the churning sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phare de Pen Lan",
+                "hu": "Phare de Pen Lan",
+                "ro": "Phare de Pen Lan",
+                "en": "Phare de Pen Lan"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Gischt der Wellen am Fuß des Turms; die graue See wirkt heute besonders imposant, tragen Sie aber unbedingt eine winddichte Regenjacke gegen das Salzwasser.",
+                "hu": "Élje át a hullámok permetét a torony lábánál; a szürke tenger ma különösen impozáns látvány, de viseljen szélálló esőkabátot a sós permet ellen.",
+                "ro": "Experimentați stropii valurilor la picioarele turnului; marea gri arată impunător astăzi, dar purtați neapărat o jachetă de ploaie rezistentă la vânt contra vaporilor sărați.",
+                "en": "Experience the sea spray at the base of the tower; the gray sea looks particularly imposing today, but be sure to wear a windproof raincoat against the salty mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie des Prêtres",
+                "hu": "Baie des Prêtres",
+                "ro": "Baie des Prêtres",
+                "en": "Baie des Prêtres"
+              },
+              "tip_5lang": {
+                "de": "Die geschützte Bucht bietet im Regen eine ruhige, fast melancholische Kulisse; suchen Sie Muscheln am Spülsaum, aber achten Sie auf die rutschigen Felsen am Uferrand.",
+                "hu": "A védett öböl esőben nyugodt, szinte melankolikus díszletet kínál; keressen kagylókat a parton, de ügyeljen a csúszós sziklákra a vízpart szélén.",
+                "ro": "Golful protejat oferă un decor liniștit, aproape melancolic pe ploaie; căutați scoici pe mal, dar aveți grijă la stâncile alunecoase de la marginea apei.",
+                "en": "The sheltered bay offers a quiet, almost melancholy backdrop in the rain; look for shells on the shore, but watch out for the slippery rocks at the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Barges",
+                "hu": "Plage des Barges",
+                "ro": "Plage des Barges",
+                "en": "Plage des Barges"
+              },
+              "tip_5lang": {
+                "de": "Der Regen wäscht seltene Steine am Strand frei, was diesen Ort ideal für Sammler macht; nutzen Sie wasserfeste Schuhe, um trocken durch den feuchten Sand zu kommen.",
+                "hu": "Az eső ritka köveket mos ki a homokból, ami ideálissá teszi a helyet a gyűjtőknek; használjon vízálló cipőt, hogy száraz lábbal gázolhasson át a nedves homokon.",
+                "ro": "Ploaia spală pietre rare pe plajă, făcând acest loc ideal pentru colecționari; folosiți încălțăminte impermeabilă pentru a merge prin nisipul ud fără probleme.",
+                "en": "The rain washes up rare stones on the beach, making this spot ideal for collectors; use waterproof shoes to walk through the damp sand without getting wet feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Cairn des Grays",
+                "hu": "Cairn des Grays",
+                "ro": "Cairn des Grays",
+                "en": "Cairn des Grays"
+              },
+              "tip_5lang": {
+                "de": "Die uralten Steine wirken im Regen dunkler und geheimnisvoller; die prähistorische Anlage bietet wenig Schutz, daher ist ein großer Regenschirm hier Ihr bester Begleiter.",
+                "hu": "Az ősi kövek az esőben sötétebbnek és titokzatosabbnak tűnnek; a történelem előtti építmény kevés védelmet nyújt, ezért egy nagy esernyő itt a legjobb társ.",
+                "ro": "Pietrele străvechi par mai întunecate și mai misterioase pe ploaie; situl preistoric oferă puțin adăpost, așa că o umbrelă mare este cel mai bun partener aici.",
+                "en": "The ancient stones appear darker and more mysterious in the rain; the prehistoric site offers little shelter, so a large umbrella is your best companion here."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Crapaud",
+                "hu": "Dolmen du Crapaud",
+                "ro": "Dolmen du Crapaud",
+                "en": "Dolmen du Crapaud"
+              },
+              "tip_5lang": {
+                "de": "Dieser markante Dolmen bietet unter seiner massiven Deckplatte einen kurzen, trockenen Unterstand; bewundern Sie die Struktur, während der Regen laut auf den Stein trommelt.",
+                "hu": "Ez a jellegzetes dolmen masszív fedőlapja alatt rövid, száraz menedéket kínál; csodálja meg a szerkezetet, miközben az eső hangosan kopog a hatalmas kövön.",
+                "ro": "Acest dolmen distinctiv oferă un scurt adăpost uscat sub dala sa masivă; admirați structura în timp ce ploaia bate zgomotos pe piatra uriașă de deasupra.",
+                "en": "This distinctive dolmen offers a short, dry shelter under its massive capstone; admire the structure while the rain drums loudly on the giant stone above."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Granges",
+                "hu": "Plage des Granges",
+                "ro": "Plage des Granges",
+                "en": "Plage des Granges"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen, die kleine Krater im nassen Sand hinterlassen; ein schneller Rückweg zum Auto ist ratsam, bevor die Dämmerung und die Kälte einsetzen.",
+                "hu": "Figyelje meg az esőcseppeket, amint apró krátereket hagynak a nedves homokban; érdemes gyorsan visszatérni az autóhoz, mielőtt a szürkület és a hideg beköszönt.",
+                "ro": "Observați picăturile de ploaie lăsând mici cratere în nisipul ud; se recomandă o întoarcere rapidă la mașină înainte de instalarea amurgului și a frigului.",
+                "en": "Watch the raindrops leaving tiny craters in the wet sand; a quick return to the car is advisable before the twilight and the cold evening air set in."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Pen Lan ist geprägt von klarer Luft und der einsamen Schönheit der Küste. Morgens glitzert der Frost auf den Felsen am Leuchtturm. Mittags wärmt die tiefstehende Sonne die Megalithen. Der Nachmittag bietet weite Ausblicke über das leere Meer, bevor um 17:00 Uhr die Sonne spektakulär im Ozean versinkt. Abends zieht man sich nach einem kräftigen Marsch in die Wärme der lokalen Unterkünfte zurück.",
+            "hu": "A tél Pen Lan-ban tiszta levegővel és a partvidék magányos szépségével telik. Reggelente a zúzmara csillog a világítótorony szikláin. Délben az alacsonyan járó nap melegíti a megallitokat. A délután tágas kilátást nyújt az üres tengerre, mielőtt 17:00-kor a nap látványosan az óceánba süllyed. Este egy tempós gyaloglás után jól esik visszavonulni a meleg szállásra.",
+            "ro": "Iarna la Pen Lan este marcată de aer curat și frumusețea solitară a coastei. Dimineața, promoroaca sclipește pe stâncile de la far. La prânz, soarele jos încălzește megaliții. După-amiaza oferă vederi largi peste marea pustie, înainte ca soarele să apună spectaculos în ocean la ora 17:00. Seara, după un marș vioi, este plăcut să te retragi la căldură.",
+            "en": "Winter in Pen Lan is defined by crisp air and the lonely beauty of the coastline. In the morning, frost glitters on the rocks by the lighthouse. At noon, the low sun warms the ancient megaliths. The afternoon offers vast views over the empty sea before the sun sets spectacularly into the ocean at 17:00. In the evening, retreat to warmth after a brisk walk in the cold breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phare de Pen Lan",
+                "hu": "Phare de Pen Lan",
+                "ro": "Phare de Pen Lan",
+                "en": "Phare de Pen Lan"
+              },
+              "tip_5lang": {
+                "de": "Der Turm steht stolz gegen den klirrend kalten Ostwind; genießen Sie die klare Sicht bis zum Horizont, aber tragen Sie Thermo-Handschuhe für die Kameraführung.",
+                "hu": "A torony büszkén áll a metsző, hideg keleti szélben; élvezze a tiszta kilátást a horizontig, de viseljen termokesztyűt a fényképezőgép kezeléséhez.",
+                "ro": "Turnul stă mândru împotriva vântului tăios de est; bucurați-vă de vederea clară până la orizont, dar purtați mănuși termice pentru a manevra aparatul foto.",
+                "en": "The tower stands proud against the biting cold east wind; enjoy the clear views to the horizon, but wear thermal gloves to handle your camera comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie des Prêtres",
+                "hu": "Baie des Prêtres",
+                "ro": "Baie des Prêtres",
+                "en": "Baie des Prêtres"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Bucht ein Rückzugsort für Seevögel; beobachten Sie die Natur in aller Ruhe, und nutzen Sie eine isolierende Sitzunterlage für kurze Pausen.",
+                "hu": "Télen az öböl a tengeri madarak menedéke; figyelje meg a természetet teljes nyugalomban, és használjon hőszigetelő ülőpárnát a rövid pihenőkhöz.",
+                "ro": "Iarna, golful este un refugiu pentru păsările marine; observați natura în liniște deplină și folosiți o protecție izolatoare pentru scurte pauze de șezut.",
+                "en": "In winter, the bay is a haven for sea birds; observe nature in total peace, and use an insulating seat pad for short breaks on the cold stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Barges",
+                "hu": "Plage des Barges",
+                "ro": "Plage des Barges",
+                "en": "Plage des Barges"
+              },
+              "tip_5lang": {
+                "de": "Der leere Strand lädt zu einer meditativen Wanderung im Winterlicht ein; eine Thermoskanne mit heißem Tee macht das Erlebnis am frostigen Ufer perfekt.",
+                "hu": "Az üres strand meditatív túrára hív a téli fényben; egy termosz forró tea teszi tökéletessé az élményt a fagyos parton a tenger morajlása mellett.",
+                "ro": "Plaja pustie invită la o drumeție meditativă în lumina iernii; un termos cu ceai fierbinte face experiența pe malul înghețat absolut perfectă.",
+                "en": "The empty beach invites a meditative hike in the winter light; a thermos of hot tea makes the experience on the frosty shore absolutely perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Cairn des Grays",
+                "hu": "Cairn des Grays",
+                "ro": "Cairn des Grays",
+                "en": "Cairn des Grays"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange Schatten auf das antike Grabmal; besuchen Sie diesen Ort am frühen Nachmittag, um das beste Licht und die meiste Wärme zu nutzen.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet az antik sírhelyre; kora délután látogassa meg a helyet, hogy kihasználja a legjobb fényeket és a maradék meleget.",
+                "ro": "Soarele jos aruncă umbre lungi peste mormântul antic; vizitați acest loc după-amiaza devreme pentru a profita de cea mai bună lumină și de puțină căldură.",
+                "en": "The low sun casts long shadows over the ancient tomb; visit this spot in the early afternoon to make the most of the best light and the remaining warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Crapaud",
+                "hu": "Dolmen du Crapaud",
+                "ro": "Dolmen du Crapaud",
+                "en": "Dolmen du Crapaud"
+              },
+              "tip_5lang": {
+                "de": "Die Moose auf den Steinen leuchten im Winter besonders intensiv; tragen Sie festes Schuhwerk mit dicker Sohle, um die Bodenkälte während der Besichtigung fernzuhalten.",
+                "hu": "A köveken lévő moha télen különösen intenzíven világít; viseljen vastag talpú bakancsot, hogy távol tartsa a talaj hidegét a nézelődés közben.",
+                "ro": "Mușchiul de pe pietre strălucește deosebit de intens iarna; purtați bocanci cu talpă grosă pentru a ține la distanță frigul solului în timpul vizitei.",
+                "en": "The moss on the stones glows particularly intensely in winter; wear thick-soled boots to keep the ground's cold away while you admire the megalith."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Granges",
+                "hu": "Plage des Granges",
+                "ro": "Plage des Granges",
+                "en": "Plage des Granges"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die blaue Stunde am Strand, wenn der Himmel sich verfärbt; kehren Sie zügig um, da die Temperatur nach Sonnenuntergang sehr schnell sinkt.",
+                "hu": "Élvezze a kék órát a strandon, amikor az ég színe megváltozik; induljon vissza időben, mert naplemente után a hőmérséklet nagyon gyorsan zuhan.",
+                "ro": "Bucurați-vă de ora albastră pe plajă când cerul își schimbă culoarea; întorceți-vă rapid, deoarece temperatura scade foarte repede după apusul soarelui.",
+                "en": "Enjoy the blue hour on the beach as the sky changes color; head back promptly, as the temperature drops very quickly once the sun has disappeared."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Induljon a jellegzetes világítótoronytól, majd tekerjen el a csendes Plage de Bétahon felé, hogy kiélvezze a kellemes reggeli napsütést. Délben megérkezik a Saint-Maxent templomhoz a történelmi építészet megcsodálására, majd a régi malom festői romjaihoz kerekezik. Délután a Cairn des Grays és a Dolmen du Crapaud lenyűgöző, történelem előtti emlékeit fedezi fel két keréken. A napot a békés Plage des Granges strandján zárja, ahol a tenger lágy morajlása kíséretében pihenheti ki a túra fáradalmait.",
         "ro": "Porniți de la farul pitoresc și pedalați către liniștita Plage de Bétahon pentru a vă bucura de soarele blând al dimineții pe plajă. La prânz, ajungeți la biserica Saint-Maxent pentru a-i admira arhitectura istorică, înainte de a continua spre ruinele fermecătoare ale vechii mori. După-amiaza, explorați monumentele preistorice Cairn des Grays și Dolmen du Crapaud într-un ritm relaxant pe două roți. Finalul perfect are loc la Plage des Granges, unde vă puteți încheia ziua relaxându-vă ascultând sunetul valurilor.",
         "en": "Start at the striking lighthouse before cycling briskly to the quiet Plage de Bétahon to soak up the morning sun on the sandy shore. Around midday, arrive at the Église Saint-Maxent to admire its historical architecture before heading to the picturesque ruined mill. In the afternoon, explore the fascinating prehistoric monuments of Cairn des Grays and Dolmen du Crapaud on your bicycle. The perfect conclusion awaits at Plage des Granges, where you can peacefully end your day listening to the gentle sound of the waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour bei Regen in Pen Lan erfordert gute Ausrüstung, belohnt aber mit einsamen Wegen. Morgens gleitet man durch den feinen Dunst zum Leuchtturm. Mittags bieten die Kirchen und Mühlen im Landesinneren willkommenen Schutz. Die Wege können rutschig sein, daher ist Vorsicht geboten. Der Nachmittag führt zurück zur Küste, wo die salzige Luft die Sinne trotz der Nässe schärft.",
+            "hu": "A Pen Lan-i esős kerékpártúra jó felszerelést igényel, de magányos utakkal jutalmaz. Reggel a finom párában gurulunk a világítótoronyhoz. Délben a belső területek templomai és malmai kínálnak szívesen látott menedéket. Az utak csúszósak lehetnek, ezért óvatosság ajánlott. Délután visszatérünk a partra, ahol a sós levegő a nedvesség ellenére is felfrissíti az érzékeket.",
+            "ro": "O tură cu bicicleta pe ploaie la Pen Lan necesită echipament bun, dar răsplătește cu drumuri pustii. Dimineața se alunecă prin boarea fină spre far. La prânz, bisericile și morile din interior oferă adăpost binevenit. Drumurile pot fi alunecoase, deci se recomandă prudență. După-amiaza duce înapoi la coastă, unde aerul sărat ascute simțurile în ciuda umidității.",
+            "en": "A rainy bike ride in Pen Lan requires good gear but rewards you with empty paths. In the morning, glide through the fine mist toward the lighthouse. At noon, the inland churches and mills offer welcome shelter. Paths can be slippery, so caution is advised. The afternoon leads back to the coast, where the salty air sharpens the senses despite the damp conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phare de Pen Lan",
+                "hu": "Phare de Pen Lan",
+                "ro": "Phare de Pen Lan",
+                "en": "Phare de Pen Lan"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Felsen am Parkplatz sind für Radschuhe tückisch; stellen Sie Ihr Rad sicher ab und tragen Sie eine Regenbrille, um klare Sicht bei der Abfahrt zu behalten.",
+                "hu": "A parkoló nedves kövei csalókák a kerékpáros cipőnek; támassza le biztonságosan a gépet, és viseljen esőszemüveget a tiszta látásért az induláskor.",
+                "ro": "Pietrele ude din parcare sunt înșelătoare pentru pantofii de ciclism; parcați bicicleta sigur și purtați ochelari de ploaie pentru vizibilitate clară la plecare.",
+                "en": "The wet rocks in the parking area are treacherous for cycling shoes; park your bike securely and wear rain goggles to maintain clear vision as you ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Bétahon",
+                "hu": "Plage de Bétahon",
+                "ro": "Plage de Bétahon",
+                "en": "Plage de Bétahon"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg entlang des Strandes ist bei Regen oft menschenleer; achten Sie auf Pfützen, die tiefer sein können als sie scheinen, und nutzen Sie Schutzbleche am Rad.",
+                "hu": "A strand menti kerékpárút esőben gyakran néptelen; ügyeljen a tócsákra, amik mélyebbek lehetnek a látszatnál, és használjon sárvédőt a biciklin.",
+                "ro": "Pista de biciclete de-a lungul plajei este adesea pustie pe ploaie; atenție la bălți, pot fi mai adânci decât par, și folosiți apărători de noroi la bicicletă.",
+                "en": "The coastal bike path is often deserted in the rain; watch out for puddles that might be deeper than they look, and ensure your bike has fenders installed."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maxent",
+                "hu": "Église Saint-Maxent",
+                "ro": "Église Saint-Maxent",
+                "en": "Église Saint-Maxent"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen trockenen Ort für eine Pause und Besinnung; nutzen Sie die Zeit im Inneren, um Ihre Kleidung kurz zu lüften und die nassen Handschuhe zu wechseln.",
+                "hu": "A templom száraz helyet kínál a pihenésre és elmélyülésre; használja ki az időt a ruházata szellőztetésére és a nedves kesztyűk lecserélésére.",
+                "ro": "Biserica oferă un loc uscat pentru pauză și reflecție; profitați de timpul în interior pentru a vă aerisi hainele și pentru a schimba mănușile ude.",
+                "en": "The church provides a dry spot for a break and reflection; use the time inside to air out your gear briefly and switch to a pair of dry gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin ruiné",
+                "hu": "Moulin ruiné",
+                "ro": "Moulin ruiné",
+                "en": "Moulin ruiné"
+              },
+              "tip_5lang": {
+                "de": "Die Ruine wirkt im Regen besonders malerisch, aber der Untergrund ist oft schlammig; bleiben Sie auf den befestigten Wegen, um das Rad nicht unnötig zu verschmutzen.",
+                "hu": "A rom esőben különösen festői, de a talaj gyakran saras; maradjon a kövezett utakon, hogy ne sározza össze feleslegesen a kerékpárját.",
+                "ro": "Ruina pare deosebit de pitorească pe ploaie, dar solul este adesea noroios; rămâneți pe potecile consolidate pentru a nu murdări inutil bicicleta.",
+                "en": "The ruins look particularly picturesque in the rain, but the ground is often muddy; stay on the paved paths to avoid getting your bike unnecessarily dirty."
+              }
+            },
+            {
+              "name": {
+                "de": "Cairn des Grays",
+                "hu": "Cairn des Grays",
+                "ro": "Cairn des Grays",
+                "en": "Cairn des Grays"
+              },
+              "tip_5lang": {
+                "de": "Die Steine glänzen nass in der grauen Landschaft; parken Sie das Rad stabil im Windschatten der Anlage und tragen Sie eine wasserdichte Kopfbedeckung unter dem Helm.",
+                "hu": "A kövek nedvesen csillognak a szürke tájban; támassza le a gépet szélvédett helyen, és viseljen vízálló sapkát a sisak alatt a megfázás ellen.",
+                "ro": "Pietrele strălucesc ude în peisajul gri; parcați bicicleta stabil la adăpostul vântului și purtați o protecție impermeabilă sub cască.",
+                "en": "The stones glisten while wet in the gray landscape; park your bike in a wind-sheltered spot and wear a waterproof skull cap under your helmet."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Crapaud",
+                "hu": "Dolmen du Crapaud",
+                "ro": "Dolmen du Crapaud",
+                "en": "Dolmen du Crapaud"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Halt am massiven Dolmen, der auch bei Regen ein starkes Fotomotiv ist; prüfen Sie Ihre Bremsen, da die Bremsleistung auf nassen Felgen deutlich nachlassen kann.",
+                "hu": "Rövid megálló a masszív dolmennél, amely esőben is erős fotótéma; ellenőrizze a fékeket, mert a fékhatás nedves felniken jelentősen csökkenhet.",
+                "ro": "Oprire scurtă la dolmenul masiv, un subiect foto puternic și pe ploaie; verificați frânele, deoarece eficiența lor pe jante ude poate scădea considerabil.",
+                "en": "A short stop at the massive dolmen, which remains a strong photo subject in the rain; check your brakes, as stopping power can decrease significantly on wet rims."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Granges",
+                "hu": "Plage des Granges",
+                "ro": "Plage des Granges",
+                "en": "Plage des Granges"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Kombination aus Nässe und Wind den Körper schnell auskühlt; eine warme Dusche nach der Rückkehr sollte jetzt Ihr Ziel sein.",
+                "hu": "Fejezze be gyorsan a túrát, mert a nedvesség és a szél kombinációja gyorsan lehűti a testet; a visszatérés után egy forró zuhany legyen a célja.",
+                "ro": "Încheiați tura rapid, deoarece combinația de umezeală și vânt răcește corpul repede; un duș fierbinte după întoarcere ar trebui să fie prioritatea acum.",
+                "en": "Finish the tour promptly, as the combination of wetness and wind chills the body quickly; a warm shower after your return should be your primary goal now."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radeln in Pen Lan bietet glasklare Sichten und erfrischenden Fahrtwind. Morgens am Leuchtturm spürt man die Kälte des Ozeans besonders deutlich. Mittags führen die Wege durch das ruhige Hinterland, wo die Sonne die Felder in goldenes Licht taucht. Wegen der frühen Dämmerung ist eine gute Beleuchtung am Rad unerlässlich. Der Tag endet, wenn die Kälte am späten Nachmittag durch die Kleidung dringt.",
+            "hu": "A téli kerékpározás Pen Lan-ban kristálytiszta kilátást és frissítő menetszelet kínál. Reggel a világítótoronynál különösen érezni az óceán hidegét. Délben az utak a csendes hátországon vezetnek át, ahol a nap aranyfénybe vonja a mezőket. A korai szürkület miatt a jó világítás elengedhetetlen. A nap akkor ér véget, amikor a hideg átjárja a ruházatot.",
+            "ro": "Ciclismul de iarnă la Pen Lan oferă vederi clare și un vânt revigorant. Dimineața la far, frigul oceanului se simte foarte clar. La prânz, drumurile duc prin interiorul liniștit, unde soarele scaldă câmpurile în lumină aurie. Din cauza amurgului timpuriu, iluminarea bună e esențială. Ziua se termină când frigul pătrunde prin haine spre seară.",
+            "en": "Winter cycling in Pen Lan offers crystal-clear views and a refreshing breeze. In the morning at the lighthouse, the ocean's chill is particularly sharp. At noon, paths lead through the quiet hinterland where the sun bathes fields in golden light. Due to early twilight, good bike lights are essential. The day ends when the cold begins to seep through your layers in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phare de Pen Lan",
+                "hu": "Phare de Pen Lan",
+                "ro": "Phare de Pen Lan",
+                "en": "Phare de Pen Lan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf das winterliche Meer; tragen Sie Überschuhe, um Ihre Zehen vor dem eisigen Fahrtwind während der Abfahrt vom Kap zu schützen.",
+                "hu": "Élvezze a tágas kilátást a téli tengerre; használjon kamáslit, hogy megvédje lábujjait a jeges menetszéltől, miközben legurul a foktól.",
+                "ro": "Bucurați-vă de vederea largă spre marea de iarnă; purtați protecții peste pantofi pentru a vă feri degetele de vântul înghețat la coborârea de pe cap.",
+                "en": "Enjoy the wide view of the wintry sea; wear shoe covers to protect your toes from the icy wind chill during the descent from the cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Bétahon",
+                "hu": "Plage de Bétahon",
+                "ro": "Plage de Bétahon",
+                "en": "Plage de Bétahon"
+              },
+              "tip_5lang": {
+                "de": "Die salzige Luft ist im Winter besonders rein; atmen Sie tief durch, aber halten Sie das Tempo moderat, um nicht zu stark ins Schwitzen zu kommen und dann auszukühlen.",
+                "hu": "A sós levegő télen különösen tiszta; lélegezzen mélyeket, de tartson mérsékelt tempót, hogy ne izzadjon meg túlságosan, majd ne hűljön le a szélben.",
+                "ro": "Aerul sărat este deosebit de curat iarna; respirați adânc, dar mențineți un ritm moderat pentru a nu transpira prea mult și a nu răci apoi în vânt.",
+                "en": "The salty air is especially pure in winter; breathe deeply, but keep a moderate pace to avoid sweating too much and then catching a chill in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maxent",
+                "hu": "Église Saint-Maxent",
+                "ro": "Église Saint-Maxent",
+                "en": "Église Saint-Maxent"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen, aber auch drinnen ist es kühl; eine kurze Besichtigung der Architektur ist ideal, um die Beine kurz zu entspannen.",
+                "hu": "A vastag falak kint tartják a fagyot, de bent is hűvös van; egy rövid építészeti séta ideális, hogy kicsit átmozgassa és pihentesse a lábait.",
+                "ro": "Zidurile groase țin gerul afară, dar și înăuntru este răcoare; o scurtă vizită arhitecturală este ideală pentru a vă relaxa puțin picioarele.",
+                "en": "The thick walls keep the frost out, but it's cool inside too; a short architectural tour is ideal to give your legs a quick rest from pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin ruiné",
+                "hu": "Moulin ruiné",
+                "ro": "Moulin ruiné",
+                "en": "Moulin ruiné"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume um die Ruine geben den Blick auf Details frei, die im Sommer verborgen sind; achten Sie auf Raureif auf dem Weg, der sehr rutschig sein kann.",
+                "hu": "A rom körüli kopár fák olyan részleteket is láttatni engednek, amik nyáron rejtve maradnak; ügyeljen a zúzmarára az úton, ami nagyon csúszós lehet.",
+                "ro": "Copacii golași din jurul ruinei permit vederea unor detalii ascunse vara; atenție la chiciura de pe drum, care poate fi extrem de alunecoasă.",
+                "en": "The bare trees around the ruins reveal details hidden in summer; watch out for hoarfrost on the path, which can be very slippery for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Cairn des Grays",
+                "hu": "Cairn des Grays",
+                "ro": "Cairn des Grays",
+                "en": "Cairn des Grays"
+              },
+              "tip_5lang": {
+                "de": "Das prähistorische Monument wirkt in der Wintersonne sehr erhaben; nutzen Sie die sonnigen Abschnitte für Fotos, solange das Licht noch Kraft hat.",
+                "hu": "A történelem előtti emlékmű a téli napsütésben igen fenségesnek tűnik; használja ki a napos időszakokat fotózásra, amíg a fénynek még van ereje.",
+                "ro": "Monumentul preistoric pare foarte maiestuos în soarele de iarnă; profitați de perioadele însorite pentru fotografii cât timp lumina are încă forță.",
+                "en": "The prehistoric monument looks very majestic in the winter sun; take advantage of the sunny intervals for photos while the light still has some strength."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Crapaud",
+                "hu": "Dolmen du Crapaud",
+                "ro": "Dolmen du Crapaud",
+                "en": "Dolmen du Crapaud"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp, um die zeitlose Struktur zu bewundern; bewegen Sie Ihre Finger und Zehen regelmäßig, um die Durchblutung in der Kälte aufrechtzuerhalten.",
+                "hu": "Gyors megálló az időtlen építmény megcsodálására; mozgassa rendszeresen az ujjait és lábujjait, hogy fenntartsa a vérkeringést a nagy hidegben.",
+                "ro": "O oprire rapidă pentru a admira structura atemporală; mișcați-vă degetele de la mâini și picioare regulat pentru a menține circulația în frig.",
+                "en": "A quick stop to admire the timeless structure; wiggle your fingers and toes regularly to maintain circulation while cycling in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Granges",
+                "hu": "Plage des Granges",
+                "ro": "Plage des Granges",
+                "en": "Plage des Granges"
+              },
+              "tip_5lang": {
+                "de": "Die Rückfahrt sollte vor Einbruch der Dunkelheit abgeschlossen sein; schalten Sie Ihr Licht rechtzeitig ein, um für andere Verkehrsteilnehmer gut sichtbar zu sein.",
+                "hu": "A visszaútnak sötétedés előtt véget kell érnie; kapcsolja be időben a lámpáit, hogy jól látható legyen a közlekedés többi résztvevője számára.",
+                "ro": "Întoarcerea trebuie finalizată înainte de lăsarea întunericului; aprindeți luminile din timp pentru a fi bine vizibil pentru ceilalți participanți la trafic.",
+                "en": "The return journey should be completed before dark; turn on your lights early to ensure you are clearly visible to other road users in the twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Reggel vezessen el a világítótoronyhoz, majd a vad Plage de Cromenac'h felé, hogy megcsodálja a régió érintetlen parti tájait. Délben vegye az irányt a csendesebb Plage de Bétahon felé, majd látogasson el a bájos Saint-Maxent templomhoz és az öreg malomhoz. A délutánt a lenyűgöző történelemnek szenteli, amikor a Cairn des Grays és a Dolmen du Crapaud ősi köveit térképezi fel autójával. Fejezze be az utazást a Plage des Granges partján, amely festői esti hangulatával gyönyörű, emlékezetes befejezést kínál túrájához.",
         "ro": "Dimineața, conduceți până la far și apoi spre sălbatica Plage de Cromenac'h pentru a admira peisajele de coastă absolut spectaculoase. La prânz, îndreptați-vă spre liniștita Plage de Bétahon, apoi vizitați fermecătoarea biserică Saint-Maxent și vechea moară ruinată. După-amiaza este dedicată istoriei fascinante, explorând formațiunile antice de piatră de la Cairn des Grays și Dolmen du Crapaud. Încheiați-vă traseul cu mașina la Plage des Granges, care oferă un final minunat și relaxant datorită atmosferei sale pitorești de seară.",
         "en": "Drive to the lighthouse in the morning, then head to the wild Plage de Cromenac'h to admire the completely unspoiled coastal scenery. At midday, steer towards the quieter Plage de Bétahon, followed by a visit to the charming Église Saint-Maxent and the old mill. The afternoon is dedicated to fascinating history as you explore the ancient stone settings of Cairn des Grays and Dolmen du Crapaud. Conclude your drive peacefully at Plage des Granges, which offers a beautiful and memorable ending with its picturesque evening ambiance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch Pen Lan bei Regen ist die komfortabelste Art, die Küste zu erleben. Morgens beobachtet man den Sturm am Leuchtturm sicher aus dem Wagen. Mittags steuert man die kulturellen Schätze im Landesinneren an, während die Scheibenwischer den Rhythmus vorgeben. Die Flexibilität des Autos erlaubt es, Regenschauer abzuwarten und die kurzen trockenen Momente an den Cairns zu nutzen.",
+            "hu": "Az esős autózás Pen Lan-ban a legkényelmesebb módja a partvidék felfedezésének. Reggel a viharos tengert biztonságban, a kocsiból figyelhetjük a világítótoronynál. Délben a belső területek kulturális kincsei felé vesszük az irányt, miközben az ablaktörlők adják a ritmust. Az autó rugalmassága lehetővé teszi, hogy kivárjuk az esőt, és kihasználjuk a rövid száraz perceket a sírhelyeknél.",
+            "ro": "O plimbare cu mașina prin Pen Lan pe ploaie este cel mai confortabil mod de a vedea coasta. Dimineața observăm furtuna la far în siguranță din vehicul. La prânz ne îndreptăm spre comorile culturale din interior, în timp ce ștergătoarele dau ritmul. Flexibilitatea mașinii ne permite să așteptăm trecerea averselor și să profităm de momentele uscate la tumuli.",
+            "en": "Driving through Pen Lan in the rain is the most comfortable way to experience the coast. In the morning, watch the storm at the lighthouse safely from your car. At noon, head to the cultural treasures inland while the wipers set the pace. The car's flexibility allows you to wait out heavy showers and seize brief dry moments at the historical cairns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phare de Pen Lan",
+                "hu": "Phare de Pen Lan",
+                "ro": "Phare de Pen Lan",
+                "en": "Phare de Pen Lan"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um die Brandung trocken zu genießen; ein Fernglas hilft, die Details des Turms auch durch die regnerische Scheibe zu erkennen.",
+                "hu": "Parkoljon kilátással a tengerre, hogy szárazon élvezze a hullámzást; egy távcső segít a torony részleteinek megfigyelésében az eső áztatta szélvédőn keresztül is.",
+                "ro": "Parcați cu vedere la mare pentru a savura valurile la uscat; un binoclu ajută la observarea detaliilor turnului chiar și prin parbrizul plouat.",
+                "en": "Park with a view of the sea to enjoy the surf while staying dry; binoculars help you see the lighthouse details even through the rainy windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Cromenac'h",
+                "hu": "Plage de Cromenac'h",
+                "ro": "Plage de Cromenac'h",
+                "en": "Plage de Cromenac'h"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Starkregen etwas schlammig sein; bleiben Sie auf den offiziellen Parkflächen und genießen Sie das Rauschen des Meeres bei leicht geöffnetem Fenster.",
+                "hu": "A behajtó út nagy esőben sáros lehet; maradjon a kijelölt parkolóhelyeken, és élvezze a tenger zúgását egy kissé lehúzott ablakon keresztül.",
+                "ro": "Accesul poate fi noroios pe ploaie torențială; rămâneți pe locurile oficiale de parcare și savurați sunetul mării cu geamul ușor întredeschis.",
+                "en": "The access road can be muddy in heavy rain; stay on official parking areas and enjoy the roar of the sea with the window cracked open slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Bétahon",
+                "hu": "Plage de Bétahon",
+                "ro": "Plage de Bétahon",
+                "en": "Plage de Bétahon"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen kurzen Strandspaziergang zwischen zwei Regengüssen; halten Sie Schirm und Regenmantel griffbereit im Kofferraum für spontane Erkundungen.",
+                "hu": "Ideális egy rövid strandtúrához két zápor között; tartsa az esernyőt és az esőkabátot elérhető helyen a csomagtartóban a spontán felfedezésekhez.",
+                "ro": "Ideal pentru o scurtă plimbare pe plajă între două averse; țineți umbrela și pelerina de ploaie la îndemână în portbagaj pentru explorări spontane.",
+                "en": "Ideal for a short beach walk between two downpours; keep your umbrella and raincoat handy in the trunk for quick, spontaneous explorations."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maxent",
+                "hu": "Église Saint-Maxent",
+                "ro": "Église Saint-Maxent",
+                "en": "Église Saint-Maxent"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei schlechtem Wetter, da das Innere der Kirche viel Sehenswertes bietet; schütteln Sie Ihren Schirm vor dem Eintreten gründlich ab.",
+                "hu": "Tökéletes megálló rossz időben, mivel a templom belső tere sok látnivalót kínál; rázza le alaposan az esernyőjét, mielőtt belépne a szentélybe.",
+                "ro": "O oprire perfectă pe vreme rea, interiorul bisericii oferind multe de văzut; scuturați-vă bine umbrela înainte de a intra în clădire.",
+                "en": "A perfect stop in bad weather, as the interior of the church offers much to see; give your umbrella a good shake before entering the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin ruiné",
+                "hu": "Moulin ruiné",
+                "ro": "Moulin ruiné",
+                "en": "Moulin ruiné"
+              },
+              "tip_5lang": {
+                "de": "Die Ruine ist vom Parkplatz aus gut sichtbar; nutzen Sie den Wagen als Basis und steigen Sie nur für kurze Fotoshootings aus, um nicht völlig durchnässt zu werden.",
+                "hu": "A rom a parkolóból is jól látható; használja az autót bázisként, és csak rövid fotózásokra szálljon ki, hogy elkerülje a teljes bőrig ázást.",
+                "ro": "Ruina este bine vizibilă din parcare; folosiți mașina ca bază și coborâți doar pentru sesiuni foto scurte pentru a nu vă uda complet.",
+                "en": "The ruins are clearly visible from the parking area; use the car as your base and only step out for quick photo sessions to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Cairn des Grays",
+                "hu": "Cairn des Grays",
+                "ro": "Cairn des Grays",
+                "en": "Cairn des Grays"
+              },
+              "tip_5lang": {
+                "de": "Die mystische Stimmung bei Regen macht diesen Ort besonders; tragen Sie wasserfeste Schuhe für den kurzen Fußweg vom Parkplatz zum prähistorischen Monument.",
+                "hu": "Az esőben tapasztalható misztikus hangulat különlegessé teszi a helyet; viseljen vízálló cipőt a parkolótól az emlékműig tartó rövid sétához.",
+                "ro": "Atmosfera mistică pe ploaie face acest loc deosebit; purtați încălțăminte impermeabilă pentru scurta plimbare de la parcare la monumentul preistoric.",
+                "en": "The mystical atmosphere in the rain makes this spot special; wear waterproof shoes for the short walk from the parking area to the prehistoric monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Crapaud",
+                "hu": "Dolmen du Crapaud",
+                "ro": "Dolmen du Crapaud",
+                "en": "Dolmen du Crapaud"
+              },
+              "tip_5lang": {
+                "de": "Der gewaltige Stein wirkt bei nassem Wetter noch massiver; nutzen Sie die Sitzheizung Ihres Wagens nach dem kurzen Ausflug, um sich schnell wieder aufzuwärmen.",
+                "hu": "A hatalmas kő nedves időben még masszívabbnak tűnik; a rövid kiruccanás után használja az autó ülésfűtését, hogy gyorsan újra felmelegedjen.",
+                "ro": "Piatra uriașă pare și mai masivă pe vreme umedă; folosiți încălzirea în scaune după scurta excursie pentru a vă reîncălzi rapid în mașină.",
+                "en": "The massive stone appears even more solid in wet weather; use your car's seat heating after the brief outing to warm up again quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Granges",
+                "hu": "Plage des Granges",
+                "ro": "Plage des Granges",
+                "en": "Plage des Granges"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den peitschenden Regen über dem Ozean; schalten Sie die Klimaanlage auf Entfeuchtung, um beschlagene Scheiben während der Rückfahrt zu vermeiden.",
+                "hu": "Utolsó pillantás az óceán felett ostorozó esőre; kapcsolja a légkondicionálót páramentesítő módba, hogy elkerülje a szélvédő bepárásodását a visszaúton.",
+                "ro": "O ultimă privire la ploaia care biciuiește oceanul; setați climatizarea pe dezaburire pentru a evita aburirea geamurilor în timpul drumului de întoarcere.",
+                "en": "A final look at the rain lashing over the ocean; set your AC to defrost mode to prevent the windows from fogging up during the drive back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Tour mit dem Auto durch Pen Lan offenbart eine stille, frostige Welt. Morgens am Leuchtturm glitzert das Eis auf den Mauern, während die Heizung im Wagen für wohlige Wärme sorgt. Mittags erkundet man die historischen Bauten, wobei die tiefstehende Sonne lange Schatten wirft. Der späte Nachmittag bietet spektakuläre Lichtverhältnisse an der Küste, bevor die Dunkelheit um 17:00 Uhr die Szenerie in tiefes Blau taucht.",
+            "hu": "A téli autós túra Pen Lan-ban egy csendes, fagyos világot tár fel. Reggel a világítótoronynál jég csillog a falakon, miközben a kocsiban a fűtés kellemes meleget ad. Délben a történelmi épületeket fedezzük fel, miközben az alacsony nap hosszú árnyékokat vet. A késő délután látványos fényeket kínál a parton, mielőtt 17:00-kor a sötétség mélykékbe vonja a tájat.",
+            "ro": "Turul de iarnă cu mașina prin Pen Lan dezvăluie o lume tăcută și înghețată. Dimineața la far, gheața sclipește pe ziduri în timp ce încălzirea din mașină oferă confort. La prânz explorăm clădirile istorice, cu soarele jos aruncând umbre lungi. După-amiaza târzie oferă condiții de lumină spectaculoase pe coastă înainte de întunericul de la ora 17:00.",
+            "en": "A winter car tour of Pen Lan reveals a silent, frosty world. In the morning at the lighthouse, ice glitters on the walls while the car's heater provides cozy warmth. At noon, explore historical sites as the low sun casts long shadows. The late afternoon offers spectacular lighting conditions on the coast before darkness drapes the scene in deep blue at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Phare de Pen Lan",
+                "hu": "Phare de Pen Lan",
+                "ro": "Phare de Pen Lan",
+                "en": "Phare de Pen Lan"
+              },
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen dem weißen Turm und dem tiefblauen Winterhimmel ist brillant; lassen Sie den Motor nicht unnötig laufen, während Sie für Fotos kurz aussteigen.",
+                "hu": "A fehér torony és a mélykék téli égbolt közötti kontraszt zseniális; ne járassa feleslegesen a motort, amíg rövid időre kiszáll a fényképezéshez.",
+                "ro": "Contrastul dintre turnul alb și cerul de iarnă albastru închis este briliant; nu lăsați motorul pornit inutil cât timp coborâți scurt pentru fotografii.",
+                "en": "The contrast between the white tower and the deep blue winter sky is brilliant; don't leave the engine idling while you step out briefly for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Cromenac'h",
+                "hu": "Plage de Cromenac'h",
+                "ro": "Plage de Cromenac'h",
+                "en": "Plage de Cromenac'h"
+              },
+              "tip_5lang": {
+                "de": "Die Einsamkeit des Winters lässt diesen Strand fast unwirklich erscheinen; prüfen Sie den Reifendruck vor der Abfahrt, da Kälte diesen oft sinken lässt.",
+                "hu": "A tél magánya szinte valótlannak mutatja ezt a strandot; indulás előtt ellenőrizze a guminyomást, mert a hidegben az gyakran lecsökkenhet.",
+                "ro": "Singurătatea iernii face această plajă să pară aproape ireală; verificați presiunea în pneuri înainte de plecare, deoarece frigul o poate reduce semnificativ.",
+                "en": "The winter solitude makes this beach feel almost surreal; check your tire pressure before heading out, as the cold often causes it to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Bétahon",
+                "hu": "Plage de Bétahon",
+                "ro": "Plage de Bétahon",
+                "en": "Plage de Bétahon"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um den Sonnenstand über dem Ozean zu beobachten; achten Sie beim Parken auf gefrorene Pfützen, die beim Aussteigen sehr glatt sein können.",
+                "hu": "Szép hely a nap óceán feletti állásának megfigyelésére; parkoláskor ügyeljen a fagyott tócsákra, amelyek kiszálláskor nagyon csúszósak lehetnek.",
+                "ro": "Un loc frumos pentru a observa poziția soarelui deasupra oceanului; atenție la bălțile înghețate când parcați, pot fi foarte glisante la coborâre.",
+                "en": "A beautiful spot to observe the sun's low path over the ocean; watch out for frozen puddles when parking, as they can be very slippery when you step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Maxent",
+                "hu": "Église Saint-Maxent",
+                "ro": "Église Saint-Maxent",
+                "en": "Église Saint-Maxent"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe in der Kirche fernab der sommerlichen Besucherströme; prüfen Sie den Stand Ihres Frostschutzmittels, falls die Temperaturen nachts stark sinken.",
+                "hu": "Élvezze a templom nyugalmát, távol a nyári látogatók tömegétől; ellenőrizze a fagyálló szintjét, ha a hőmérséklet éjszaka jelentősen visszaesne.",
+                "ro": "Bucurați-vă de liniștea din biserică, departe de mulțimile de turiști de vară; verificați nivelul antigelului dacă temperaturile scad mult noaptea.",
+                "en": "Enjoy the peace of the church, far from the summer crowds; check your antifreeze levels if temperatures are expected to drop significantly overnight."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin ruiné",
+                "hu": "Moulin ruiné",
+                "ro": "Moulin ruiné",
+                "en": "Moulin ruiné"
+              },
+              "tip_5lang": {
+                "de": "Die Ruine steht markant in der entlaubten Winterlandschaft; ein heißes Getränk im Wagen macht den kurzen Stopp zu einem gemütlichen Erlebnis.",
+                "hu": "A rom markánsan emelkedik ki a lombját vesztett téli tájból; egy forró ital a kocsiban igazi hangulatos élménnyé teszi ezt a rövid megállót.",
+                "ro": "Ruina se ridică impunător în peisajul de iarnă desfrunzit; o băutură fierbinte în mașină face din această scurtă oprire o experiență confortabilă.",
+                "en": "The ruins stand out sharply in the leafless winter landscape; a hot drink in the car makes this short stop a very cozy and pleasant experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Cairn des Grays",
+                "hu": "Cairn des Grays",
+                "ro": "Cairn des Grays",
+                "en": "Cairn des Grays"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine wirken in der Winterkälte besonders zeitlos; nutzen Sie die Zeit bis zum frühen Sonnenuntergang für die Erkundung des Geländes.",
+                "hu": "Az antik kövek a téli hidegben különösen időtlennek tűnnek; használja ki az időt a korai naplementéig a terület alapos felfedezésére.",
+                "ro": "Pietrele antice par deosebit de atemporale în frigul iernii; profitați de timpul rămas până la apusul timpuriu pentru a explora situl.",
+                "en": "The ancient stones feel particularly timeless in the winter cold; use the time before the early sunset to explore the grounds thoroughly."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen du Crapaud",
+                "hu": "Dolmen du Crapaud",
+                "ro": "Dolmen du Crapaud",
+                "en": "Dolmen du Crapaud"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prähistorische Baukunst in der klaren Winterluft; ein kurzes Warmlaufen des Wagens vor der Weiterfahrt sorgt für freie Sicht durch alle Fenster.",
+                "hu": "Csodálja meg a történelem előtti építészetet a tiszta téli levegőben; a továbbindulás előtt melegítse be kicsit az autót a tökéletes kilátásért.",
+                "ro": "Admirați arhitectura preistorică în aerul curat de iarnă; o scurtă încălzire a mașinii înainte de plecare asigură vizibilitate prin toate geamurile.",
+                "en": "Admire the prehistoric architecture in the crisp winter air; a brief warm-up of the car before moving on ensures clear vision through all windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Granges",
+                "hu": "Plage des Granges",
+                "ro": "Plage des Granges",
+                "en": "Plage des Granges"
+              },
+              "tip_5lang": {
+                "de": "Der Tag endet mit einem kühlen Leuchten am Horizont; achten Sie auf Wildwechsel auf den Straßen zurück, da Tiere in der Winterdämmerung aktiver sind.",
+                "hu": "A nap hűvös fénnyel ér véget a horizonton; ügyeljen a vadakra a visszaúton, mert az állatok aktívabbak a téli szürkület idején.",
+                "ro": "Ziua se încheie cu o strălucire rece la orizont; atenție la animale pe drumul de întoarcere, ele fiind mai active în amurgul de iarnă.",
+                "en": "The day ends with a cool glow on the horizon; watch out for wildlife on the roads back, as animals are more active during the winter twilight."
+              }
+            }
+          ]
+        }
       }
     }
   }

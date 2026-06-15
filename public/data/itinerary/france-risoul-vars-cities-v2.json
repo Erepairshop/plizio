@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a régi fazekaskemence megtekintésével, amely a falu kézműves múltjába vezet, majd csodálja meg az Église Sainte-Lucie-t. Dél körül sétáljon a Chapelle Saint-Roch-hoz, amely egy békés menedék. Délután fedezze fel a Chapelle Saint-Sébastien-t. A séta a lenyűgöző Église Notre-Dame de l'Aquilonnál ér véget, ahol elmerülhet a történelmi hangulatban.",
         "ro": "Începeți ziua la vechiul cuptor de olărit, care vă introduce în trecutul meșteșugăresc, înainte de a admira Église Sainte-Lucie. La prânz, mergeți către Chapelle Saint-Roch, un loc de liniște. După-amiaza, descoperiți Chapelle Saint-Sébastien. Plimbarea se încheie la impresionanta Église Notre-Dame de l'Aquilon, unde puteți savura atmosfera istorică.",
         "en": "Start your day at the ancient pottery kiln, connecting with the village's craft heritage before admiring Église Sainte-Lucie. Around midday, hike to Chapelle Saint-Roch, a peaceful sanctuary. In the afternoon, discover the charm of Chapelle Saint-Sébastien. Your walk concludes at the impressive Église Notre-Dame de l'Aquilon, soaking in the serene atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen bei der historischen Töpferei. Mittags bieten die Kirchen trockene Zuflucht vor den Schauern. Der Nachmittag wird feucht, daher sind wasserfeste Schuhe auf dem Weg zu den Kapellen Pflicht. Abends trocknen Sie sich am besten in einer gemütlichen Hütte im Dorfzentrum auf.",
+            "hu": "Az esős reggelt kezdje a történelmi fazekaskemence felfedezésével. Délben a templomok nyújtanak száraz menedéket a záporok elől. Délután vízálló cipőben járja be a csúszós, vizes ösvényeket a kápolnák felé. Este egy meleg helyi szálláson vagy étteremben szárítkozhat és pihenhet meg a faluban.",
+            "ro": "Începeți dimineața ploioasă explorând vechiul cuptor de ceramică. La prânz, bisericile istorice vă oferă un refugiu uscat. După-amiaza, străzile și potecile devin alunecoase, deci purtați încălțăminte impermeabilă. Seara, relaxați-vă la adăpost într-un loc cald din centrul satului.",
+            "en": "Start your rainy morning exploring the historic pottery kiln under an umbrella. At noon, the thick-walled historic churches offer a dry refuge from the showers. The afternoon walks require waterproof shoes as paths to the chapels get slippery. End the evening drying off in a warm spot in the village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Four à Poterie",
+                "hu": "Four à Poterie",
+                "ro": "Four à Poterie",
+                "en": "Four à Poterie"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für den faszinierenden historischen Töpferofen, aber achten Sie genau auf Ihre Schritte, da die alten Steine in der Umgebung bei Nässe extrem rutschig werden.",
+                "hu": "Szánjon időt a lenyűgöző történelmi fazekaskemence megtekintésére, de lépjen nagyon óvatosan, mert a környező ősi kövek nedves, esős időben rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Alocați timp pentru a observa fascinantul cuptor istoric de ceramică, dar fiți foarte atenți la pași, deoarece pietrele vechi din jur devin incredibil de alunecoase pe vreme ploioasă.",
+                "en": "Take your time to observe the fascinating historic pottery kiln, but be extremely careful with your footing, as the surrounding ancient stones become incredibly slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Lucie",
+                "hu": "Église Sainte-Lucie",
+                "ro": "Église Sainte-Lucie",
+                "en": "Église Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur dieser lokalen Kirche ist beeindruckend, und ihr geräumiges Inneres bietet perfekten, trockenen Schutz vor plötzlichen Regengüssen, während Sie die Details bewundern.",
+                "hu": "A lenyűgöző építészet megcsodálása mellett a templom belső tere kiváló menedéket nyújt a hirtelen záporok elől, ahol szárazon és nyugodtan tanulmányozhatja a történelmi részleteket.",
+                "ro": "Arhitectura uimitoare a acestei biserici locale este impresionantă, iar interiorul său spațios oferă un adăpost perfect și uscat împotriva ploilor torențiale bruște.",
+                "en": "The stunning architecture of this local church is truly impressive, and its spacious interior provides a perfect, dry shelter from sudden, heavy downpours while you admire the details."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Roch",
+                "hu": "Chapelle Saint-Roch",
+                "ro": "Chapelle Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Dies ist eine malerische und charmante Kapelle, aber ihr Vorplatz wird bei Regen sehr schlammig, was festes, wasserdichtes Schuhwerk für einen Besuch absolut unerlässlich macht.",
+                "hu": "Ez egy festői és bájos kápolna, de a gyönyörű előkertje esőben rendkívül sarassá válik, ezért a kényelmes és biztonságos látogatáshoz a masszív, vízálló lábbeli elengedhetetlen.",
+                "ro": "Aceasta este o capelă pitorească și fermecătoare, dar curtea sa devine foarte noroioasă pe ploaie, făcând încălțămintea solidă și impermeabilă absolut esențială pentru o vizită.",
+                "en": "This is a picturesque and charming chapel, but its beautiful forecourt gets very muddy in the rain, making solid, waterproof footwear absolutely essential for a comfortable visit here."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Sébastien",
+                "hu": "Chapelle Saint-Sébastien",
+                "ro": "Chapelle Saint-Sébastien",
+                "en": "Chapelle Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Die künstlerischen Details dieser Kapelle sind faszinierend zu studieren; bei starkem Regen bietet das kleine Vordach eine kurze, aber willkommene Zuflucht zum Verschnaufen.",
+                "hu": "A kápolna művészi részleteit lenyűgöző tanulmányozni; heves esőzés esetén a külső kis előtető rövid, de nagyon is üdvözlendő menedéket nyújt, amíg egy kicsit szusszanhat.",
+                "ro": "Detaliile artistice ale acestei capele sunt fascinante de studiat; în caz de ploaie torențială, mica copertină exterioară oferă un adăpost scurt, dar binevenit pentru a vă trage sufletul.",
+                "en": "The artistic details of this chapel are fascinating to study; in the event of heavy rain, the small exterior overhang offers a brief but welcome shelter for you to catch your breath."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de l'Aquilon",
+                "hu": "Église Notre-Dame de l'Aquilon",
+                "ro": "Église Notre-Dame de l'Aquilon",
+                "en": "Église Notre-Dame de l'Aquilon"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historischen Kunstwerke im Inneren völlig im Trockenen und lauschen Sie dem prasselnden Regen, der gegen das beeindruckende alte Dach hoch oben schlägt.",
+                "hu": "Csodálja meg a bent található történelmi műalkotásokat teljesen szárazon, és szánjon egy percet arra, hogy meghallgassa az impozáns régi tetőt verő heves eső megnyugtató hangját.",
+                "ro": "Admirați operele de artă istorice din interior stând complet la uscat și ascultați un moment ploaia puternică care lovește acoperișul istoric impresionant de deasupra.",
+                "en": "Admire the beautiful and historic artworks inside while staying completely dry, taking a moment to listen to the heavy rain battering against the impressive historic roof high above."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt beim alten Töpferofen. Mittags wärmen Sie sich in den historischen Kirchen der Umgebung auf. Am Nachmittag genießen Sie die verschneiten Pfade zu den Kapellen. Abends um 17:00 Uhr wird es dunkel, ideal für einen gemütlichen Abschluss.",
+            "hu": "A fagyos reggel az ősi fazekaskemencénél indul a ropogó hóban. Délben a történelmi templomok vastag falai között találhat menedéket a hideg elől. Délután csodálja meg a havas kápolnákat a hegyi ösvényeken. Este 5 órakor már sötétedik, így időben térjen vissza a faluba.",
+            "ro": "Dimineața geroasă începe la vechiul cuptor de ceramică. La prânz, zidurile groase ale bisericilor istorice vă protejează de frig. După-amiaza, admirați capelele înzăpezite. Seara se lasă devreme, pe la 17:00, așa că întoarceți-vă la un loc călduros din sat.",
+            "en": "The frosty morning starts at the ancient pottery kiln. At noon, warm up inside the thick walls of the historic local churches. Spend the afternoon admiring the snow-covered chapels. Evening falls early around 5 PM, so retreat to a cozy spot in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Four à Poterie",
+                "hu": "Four à Poterie",
+                "ro": "Four à Poterie",
+                "en": "Four à Poterie"
+              },
+              "tip_5lang": {
+                "de": "Dieser alte Töpferofen sieht unter frischem Schnee absolut magisch aus. Tragen Sie jedoch sehr warme, winddichte Kleidung, da dieser exponierte Bereich im Winter eiskalt wird.",
+                "hu": "Ez az ősi fazekaskemence varázslatosan néz ki a friss hó alatt, de feltétlenül viseljen nagyon meleg, szélálló rétegeket, mivel ez a nyílt terület télen rendkívül fagyos lehet.",
+                "ro": "Acest cuptor antic de ceramică arată absolut magic acoperit de zăpadă proaspătă, dar purtați straturi foarte calde, rezistente la vânt, deoarece zona expusă devine extrem de rece.",
+                "en": "This ancient pottery kiln looks absolutely magical when covered in fresh snow, but be sure to wear very warm, windproof layers as this exposed area can get freezing cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Lucie",
+                "hu": "Église Sainte-Lucie",
+                "ro": "Église Sainte-Lucie",
+                "en": "Église Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die tiefe Stille und das schöne Mauerwerk dieser Kirche, aber beachten Sie, dass die dicken Steinwände im Winter sehr kühl bleiben, behalten Sie Ihren Mantel an.",
+                "hu": "Élvezze a templom mély csendjét és gyönyörű kőfaragásait, de vegye figyelembe, hogy a vastag kőfalak a téli hónapokban is meglehetősen hidegek maradnak, így hagyja magán a kabátot.",
+                "ro": "Bucurați-vă de tăcerea profundă și de zidăria frumoasă a acestei biserici, deși pereții groși de piatră rămân destul de reci în lunile de iarnă, așa că țineți haina încheiată.",
+                "en": "Enjoy the profound silence and beautiful stonework of this church, though be aware that the thick stone walls remain quite cold during the winter months, so keep your coat zipped up."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Roch",
+                "hu": "Chapelle Saint-Roch",
+                "ro": "Chapelle Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine idyllische Kapelle ist im tiefen Schnee ein fantastisches Fotomotiv, aber achten Sie besonders auf versteckte Eisflächen auf dem Weg und treten Sie vorsichtig auf.",
+                "hu": "Ez a kis idilli kápolna fantasztikus fotótéma a mély hóban, de rendkívül óvatosan lépkedjen a fagyban, mert a közeledő ösvényen alattomos, rejtett jégfoltok bújhatnak meg.",
+                "ro": "Această capelă mică și idilică este un loc fantastic de fotografie în zăpada adâncă, dar fiți extrem de atenți la peticele de gheață ascunse pe poteca de acces, pășind cu grijă.",
+                "en": "This small, idyllic chapel is a fantastic photography spot in the deep snow, but be extremely mindful of hidden icy patches on the approaching path, stepping carefully in the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Sébastien",
+                "hu": "Chapelle Saint-Sébastien",
+                "ro": "Chapelle Saint-Sébastien",
+                "en": "Chapelle Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbar friedlicher Ort in der verschneiten Winterlandschaft; achten Sie jedoch auf scharfe, schwere Eiszapfen, die unerwartet vom Rand des alten Kapellendachs fallen könnten.",
+                "hu": "Csodálatosan békés hely a havas téli tájban; azonban folyamatosan figyeljen a régi kápolna tető pereméről esetlegesen váratlanul lezuhanó, éles és súlyos jégcsapokra.",
+                "ro": "Un loc minunat de liniștit de vizitat în peisajul înzăpezit de iarnă; fiți atenți la țurțurii ascuțiți și grei care ar putea cădea pe neașteptate de pe marginea acoperișului vechi.",
+                "en": "A wonderfully peaceful spot to visit in the snowy winter landscape; just keep an eye out for sharp, heavy icicles that might unexpectedly fall from the edge of the chapel's old roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de l'Aquilon",
+                "hu": "Église Notre-Dame de l'Aquilon",
+                "ro": "Église Notre-Dame de l'Aquilon",
+                "en": "Église Notre-Dame de l'Aquilon"
+              },
+              "tip_5lang": {
+                "de": "Ein majestätisches Gebäude, das wunderbar im hellen Schnee leuchtet; treten Sie ein, um eine warme, ruhige Zuflucht vor dem beißenden Winterwind zu finden, der durch die Stadt fegt.",
+                "hu": "Impozáns, fenséges épület, amely gyönyörűen ragyog a ragyogó hóban; lépjen be az ajtaján, hogy meleg, csendes menedéket találjon a városon végigsöprő metsző téli szél elől.",
+                "ro": "O clădire impunătoare și majestuoasă care strălucește frumos pe zăpada albă; pășiți înăuntru pentru a găsi un refugiu cald și liniștit din calea vântului tăios de iarnă.",
+                "en": "An imposing, majestic building that beautifully glows against the bright snow; step inside its doors to find a warm, quiet refuge from the biting winter wind sweeping through town."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a történelmi fazekaskemencénél, és tekerjen az Église Sainte-Lucie-hoz a nyugalomért. Délben látogasson el a Peyre Haute-hoz, ahonnan lenyűgöző hegyi kilátás nyílik. Délután folytassa útját az Église Notre-Dame de l'Aquilon és a Chapelle Saint-Sébastien felé. A nap a La Rue des Masques lenyűgöző geológiai képződményénél ér véget.",
         "ro": "Începeți turul cu bicicleta la cuptorul de olărit și mergeți la Église Sainte-Lucie pentru liniștea dimineții. La prânz, pedalați spre Peyre Haute pentru o vedere uimitoare asupra munților. După-amiaza, continuați spre Église Notre-Dame de l'Aquilon și Chapelle Saint-Sébastien. Ziua se încheie la fascinanta formațiune geologică La Rue des Masques, perfectă pentru explorare relaxată.",
         "en": "Start your cycling route at the historic pottery kiln and ride to Église Sainte-Lucie to enjoy the morning calm. By midday, cycle up to Peyre Haute, where breathtaking mountain panoramas reward your effort. In the afternoon, pedal towards Église Notre-Dame de l'Aquilon and Chapelle Saint-Sébastien. The adventurous day wraps up at the fascinating geological formation of La Rue des Masques."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den verregneten Morgen mit Vorsicht bei der Töpferei. Mittags radeln Sie sehr langsam zu den Kirchen und Peyre Haute, da die Straßen extrem rutschig sind. Nachmittags fordern nasse Pfade zur Rue des Masques volle Konzentration und gute Bremsen. Abends das Fahrrad frühzeitig trocken unterstellen.",
+            "hu": "Az esős reggelt kezdje óvatos pedálozással a fazekaskemencénél. Délben a templomok és a Peyre Haute felé a vizes aszfalt fokozott figyelmet igényel a csúszásveszély miatt. Délután a Rue des Masques sáros ösvényein viseljen esőruhát. Este tegye le a kerékpárt egy fedett, száraz helyen és melegedjen fel.",
+            "ro": "Dimineața ploioasă începe cu o pedalare atentă spre cuptorul de ceramică. La prânz, drumul spre biserici și Peyre Haute necesită prudență din cauza asfaltului alunecos. După-amiaza, traseul spre Rue des Masques cere pelerină și frâne bune. Seara, lăsați bicicleta la un adăpost uscat și încălziți-vă.",
+            "en": "Start the rainy morning pedaling carefully to the pottery kiln. At noon, the roads toward the churches and Peyre Haute require extra caution due to slippery, wet asphalt. Afternoon rides to Rue des Masques demand full waterproof gear and good brakes. Shelter your bike safely in the early evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Four à Poterie",
+                "hu": "Four à Poterie",
+                "ro": "Four à Poterie",
+                "en": "Four à Poterie"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für den faszinierenden historischen Töpferofen, aber achten Sie genau auf Ihre Schritte und bremsen Sie vorsichtig, da das Pflaster bei Nässe sehr rutschig ist.",
+                "hu": "Szánjon időt a lenyűgöző történelmi kemence megtekintésére, de nagyon finoman fékezzen, mert a környező macskaköves részek nedves, esős időben rendkívül csúszóssá válnak.",
+                "ro": "Observați fascinantul cuptor istoric de ceramică, dar fiți extrem de atenți la frânare, deoarece pietrele de pavaj din jur devin incredibil de alunecoase pe vreme ploioasă.",
+                "en": "Take your time to observe the fascinating historic pottery kiln, but be extremely careful with your braking, as the surrounding cobblestones become incredibly slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Lucie",
+                "hu": "Église Sainte-Lucie",
+                "ro": "Église Sainte-Lucie",
+                "en": "Église Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Die wunderschöne Architektur lädt zum Verweilen ein; stellen Sie Ihr Rad an einen geschützten Ort und trocknen Sie sich im ruhigen, friedlichen Kirchenschiff etwas ab.",
+                "hu": "A gyönyörű építészet maradásra csábít; támassza le a kerékpárját egy fedett, védett helyre, és szárítkozzon meg egy kicsit a templom csendes, békés és száraz hajójában.",
+                "ro": "Arhitectura frumoasă invită la zăbovire; parcați bicicleta într-un loc ferit și uscați-vă puțin în naosul liniștit, pașnic și uscat al acestei biserici istorice.",
+                "en": "The beautiful architecture invites you to linger; park your bike in a sheltered spot and dry off for a moment inside the quiet, peaceful, and dry nave of this historic church."
+              }
+            },
+            {
+              "name": {
+                "de": "Peyre Haute",
+                "hu": "Peyre Haute",
+                "ro": "Peyre Haute",
+                "en": "Peyre Haute"
+              },
+              "tip_5lang": {
+                "de": "Die Naturkulisse hier ist fantastisch, aber der schlammige Untergrund erfordert ein gutes Mountainbike und extreme Vorsicht bei der Fahrt durch rutschige Pfützen und nasse Trails.",
+                "hu": "A természeti táj itt fantasztikus, de a sáros, vízzel teli talaj megfelelő hegyikerékpárt és rendkívüli óvatosságot igényel a csúszós tócsákon és nedves ösvényeken való átkeléskor.",
+                "ro": "Peisajul natural de aici este fantastic, dar terenul noroios și îmbibat cu apă necesită o bicicletă de munte adecvată și o atenție extremă la trecerea prin bălți alunecoase.",
+                "en": "The natural scenery here is fantastic, but the muddy, waterlogged ground requires a proper mountain bike and extreme caution when riding through the slippery puddles and wet trails."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de l'Aquilon",
+                "hu": "Église Notre-Dame de l'Aquilon",
+                "ro": "Église Notre-Dame de l'Aquilon",
+                "en": "Église Notre-Dame de l'Aquilon"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunstwerke im Inneren und nutzen Sie diesen perfekten Halt im Regen, um den rutschigen Straßen kurz zu entkommen und wieder zu Atem zu kommen.",
+                "hu": "Csodálja meg a benti történelmi műalkotásokat, és használja ki ezt a tökéletes esős megállót arra, hogy egy kicsit elkerülje a csúszós utakat és kifújja magát a pedálozás után.",
+                "ro": "Admirați operele de artă din interior și folosiți această oprire perfectă pe ploaie pentru a scăpa scurt timp de drumurile alunecoase și pentru a vă trage sufletul după pedalare.",
+                "en": "Admire the historic artworks inside and use this perfect stop in the rain to briefly escape the dangerous, slippery roads and catch your breath before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Sébastien",
+                "hu": "Chapelle Saint-Sébastien",
+                "ro": "Chapelle Saint-Sébastien",
+                "en": "Chapelle Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Die architektonischen Details sind faszinierend; bei einem plötzlichen, starken Regenguss bietet das kleine Vordach einen kurzen Schutz für Sie und Ihr wertvolles Fahrrad.",
+                "hu": "Az építészeti részletek lenyűgözőek; egy hirtelen jött, kiadós zápor esetén a kis előtető rövid, de nagyon hasznos menedéket nyújt Önnek és értékes kerékpárjának is.",
+                "ro": "Detaliile arhitecturale sunt fascinante; în cazul unei ploi torențiale bruște, mica copertină oferă un scurt, dar foarte util adăpost atât pentru dumneavoastră, cât și pentru bicicletă.",
+                "en": "The architectural details are fascinating; in the event of a sudden, heavy downpour, the small overhang provides brief but very useful shelter for both you and your valuable bike."
+              }
+            },
+            {
+              "name": {
+                "de": "La Rue des Masques",
+                "hu": "La Rue des Masques",
+                "ro": "La Rue des Masques",
+                "en": "La Rue des Masques"
+              },
+              "tip_5lang": {
+                "de": "Eine zutiefst mystische Felsformation, deren schmale Pfade bei Nässe extrem rutschig und schlammig werden – es ist viel sicherer, hier abzusteigen und das Fahrrad vorsichtig zu schieben.",
+                "hu": "Mélyen misztikus sziklaalakzat, melynek keskeny ösvényei nedvesen rendkívül csúszóssá és sárossá válnak – sokkal biztonságosabb itt leszállni és óvatosan tolni a kerékpárt.",
+                "ro": "O formațiune stâncoasă profund mistică, ale cărei poteci înguste devin incredibil de alunecoase și noroioase la umezeală – este mult mai sigur să coborâți și să împingeți bicicleta.",
+                "en": "A deeply mystical rock formation whose narrow paths are incredibly slippery and muddy when wet—it is far safer to dismount and push your bike carefully through this specific section."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der eisige Morgen erfordert dicke Thermokleidung auf der Fahrt zur Töpferei. Mittags leuchten die Kirchen und Peyre Haute wunderschön in der klaren Wintersonne. Der Nachmittag zur Rue des Masques kann auf Schnee rutschig sein, fahren Sie vorsichtig. Abends vor 17:00 Uhr wegen der frühen Dunkelheit zurückkehren.",
+            "hu": "A fagyos reggelen öltözzön vastagon, amíg a fazekaskemencéhez teker a csípős levegőben. Délben a templomok és a Peyre Haute gyönyörűek a téli napsütésben. Délután a havas utakon a Rue des Masques felé rendkívül óvatosan haladjon a jégfoltok miatt. Este 5 óra előtt fejezze be a túrát a korai sötétedés miatt.",
+            "ro": "Dimineața geroasă necesită haine termice groase pentru drumul spre cuptor. La prânz, bisericile și Peyre Haute arată superb în lumina soarelui de iarnă. După-amiaza, pedalați cu mare grijă spre Rue des Masques pe potecile acoperite de zăpadă. Seara se lasă la 17:00, așa că încheiați traseul devreme în siguranță.",
+            "en": "The freezing morning demands heavy thermal layers for the crisp ride to the kiln. At noon, the churches and Peyre Haute look incredibly beautiful in the bright winter sun. Afternoon riding towards Rue des Masques requires caution on snowy, icy paths. Finish your ride safely before 5 PM as it gets dark very early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Four à Poterie",
+                "hu": "Four à Poterie",
+                "ro": "Four à Poterie",
+                "en": "Four à Poterie"
+              },
+              "tip_5lang": {
+                "de": "Ein magischer Ort im frischen Schnee; der Fahrtwind auf dem Rad ist eiskalt, vergessen Sie also nicht, dicke, warme Handschuhe und eine winddichte Jacke zu tragen.",
+                "hu": "Varázslatos hely a friss hóban; a kerékpáros menetszél itt jéghideg, ezért semmiképpen se felejtse el a vastag, meleg kesztyűt és egy megbízható, szélálló kabátot.",
+                "ro": "Un loc magic în zăpada proaspătă; frigul resimțit din cauza vântului la pedalare este înghețat, așa că nu uitați să purtați mănuși groase și calde și o jachetă rezistentă la vânt.",
+                "en": "A magical place in the fresh snow; the wind chill while riding your bike here is freezing, so absolutely do not forget to wear thick, warm gloves and a windproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Lucie",
+                "hu": "Église Sainte-Lucie",
+                "ro": "Église Sainte-Lucie",
+                "en": "Église Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille; die Kirche ist ein hervorragender Ort, um kurz vom Rad abzusteigen und sich etwas aufzuwärmen, bevor Sie in der eisigen Kälte weiterfahren.",
+                "hu": "Élvezze a csendet; a templom kiváló helyszín arra, hogy egy kicsit leszálljon a kerékpárról, és felmelegedjen, mielőtt tovább pedálozna a dermesztő, jeges hidegben.",
+                "ro": "Bucurați-vă de liniște; biserica este un loc excelent pentru a coborî de pe bicicletă și a vă încălzi puțin înainte de a continua să pedalați în frigul înghețat.",
+                "en": "Enjoy the deep silence; the church is an excellent spot to dismount your bike and briefly warm up before you continue pedaling out into the freezing, icy cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Peyre Haute",
+                "hu": "Peyre Haute",
+                "ro": "Peyre Haute",
+                "en": "Peyre Haute"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Aussichtspunkt mit atemberaubenden Panoramen; fahren Sie hier nur mit Spikereifen, da die schattigen Wege die ganze Saison über stark vereist sind.",
+                "hu": "Látványos kilátópont lélegzetelállító panorámával; ide kizárólag szöges téli gumikkal tekerjen, mivel az árnyékos hegyi ösvények egész szezonban erősen jegesek és veszélyesek.",
+                "ro": "Un punct de belvedere spectaculos cu panorame uluitoare; mergeți aici doar cu anvelope de iarnă cu crampoane, deoarece cărările umbrite rămân puternic înghețate tot sezonul.",
+                "en": "A spectacular viewpoint offering breathtaking panoramas; you should only ride here with studded winter tires, as the shaded paths remain heavily iced over and dangerous all season."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de l'Aquilon",
+                "hu": "Église Notre-Dame de l'Aquilon",
+                "ro": "Église Notre-Dame de l'Aquilon",
+                "en": "Église Notre-Dame de l'Aquilon"
+              },
+              "tip_5lang": {
+                "de": "Ein imposantes Gebäude, das hell im Schnee leuchtet; wärmen Sie drinnen Ihre kalten Hände und Füße auf, nachdem Sie eine so frostige und kühle Fahrt hinter sich haben.",
+                "hu": "Impozáns épület, amely fényesen ragyog a hóban; odabent melegítse fel a hidegtől elgémberedett kezeit és lábait egy ilyen fagyos és csípős kerékpározás után.",
+                "ro": "O clădire impunătoare care strălucește luminos în zăpadă; încălziți-vă mâinile și picioarele reci în interior, după ce ați avut o plimbare atât de geroasă și friguroasă.",
+                "en": "An imposing building that glows brightly in the snow; warmly thaw out your cold hands and feet inside after completing such a frosty, chilly, and demanding ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Sébastien",
+                "hu": "Chapelle Saint-Sébastien",
+                "ro": "Chapelle Saint-Sébastien",
+                "en": "Chapelle Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr friedlicher Ort; achten Sie jedoch gut auf tückische, vereiste Pfützen auf dem schmalen Weg zur Kapelle und fahren Sie in diesem Bereich extrem langsam.",
+                "hu": "Nagyon békés helyszín; azonban nagyon figyeljen a kápolnához vezető keskeny ösvényen lévő alattomos, lefagyott tócsákra, és ezen a szakaszon rendkívül lassan haladjon.",
+                "ro": "Un loc foarte pașnic; totuși, aveți mare grijă la bălțile înghețate și înșelătoare de pe poteca îngustă spre capelă și pedalați extrem de încet în această zonă.",
+                "en": "A very peaceful spot; however, watch out carefully for treacherous, icy puddles on the narrow path leading to the chapel and be sure to ride extremely slowly in this area."
+              }
+            },
+            {
+              "name": {
+                "de": "La Rue des Masques",
+                "hu": "La Rue des Masques",
+                "ro": "La Rue des Masques",
+                "en": "La Rue des Masques"
+              },
+              "tip_5lang": {
+                "de": "Diese imposanten Felsenklippen wirken eisbedeckt dramatisch; das Radfahren ist hier im Winter gefährlich, betreten Sie die Schlucht nur zu Fuß oder mit Eisspikes am Rad.",
+                "hu": "Ezek az impozáns sziklaszirtek drámaian festenek jéggel borítva; a téli kerékpározás itt kifejezetten veszélyes, csak gyalogosan, vagy speciális szöges gumikkal lépjen a szurdokba.",
+                "ro": "Aceste stânci impunătoare arată dramatic acoperite de gheață; ciclismul e periculos aici iarna, intrați în defileu doar pe jos sau dacă bicicleta are anvelope cu ținte.",
+                "en": "These imposing rocky cliffs look dramatic covered in ice; cycling is dangerous here in winter, so only enter the gorge area on foot or if your bike is fully equipped with ice spikes."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autózzon reggel az Église Sainte-Lucie-hoz, majd tovább a Peyre Haute-hoz a csodás hegyi panorámáért. Délben látogasson el a fenséges Église Notre-Dame de l'Aquilonhoz és a Chapelle Saint-Sébastienhez. Délután az útvonal a Chapelle Saint-Roch-hoz és a lenyűgöző Rue des Masques-hoz vezet. A napot az Echauguette sziklájáról nyíló páratlan esti kilátás koronázza meg.",
         "ro": "Conduceți dimineața către Église Sainte-Lucie și urcați la Peyre Haute pentru a admira panorama montană superbă. La prânz, vizitați măreața Église Notre-Dame de l'Aquilon și apropiata Chapelle Saint-Sébastien. După-amiaza, traseul vă duce la Chapelle Saint-Roch și prin impresionanta Rue des Masques. Ziua se încheie cu priveliștea spectaculoasă de seară de la stânca Echauguette.",
         "en": "Drive comfortably in the morning to Église Sainte-Lucie before heading to Peyre Haute to admire the spectacular mountain panorama. By midday, visit the majestic Église Notre-Dame de l'Aquilon and the nearby Chapelle Saint-Sébastien. In the afternoon, your route leads to Chapelle Saint-Roch and through the striking Rue des Masques. The journey culminates with sunset views from Echauguette."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am nassen Morgen bequem zur Église Sainte-Lucie. Mittags können Sie die dramatische, nebelerfüllte Aussicht bei Peyre Haute trockenen Fußes aus dem Auto genießen. Nachmittags besuchen Sie die Kapellen und die Rue des Masques bewaffnet mit einem großen Schirm. Abends parken Sie sicher im Ort.",
+            "hu": "Az esős reggelen autózzon kényelmesen a Sainte-Lucie templomhoz. Délben a Peyre Haute ködbe burkolózó, drámai látványát a száraz és fűtött autóból is élvezheti. Délután a kápolnákat és a Rue des Masques-t egy nagy esernyővel fedezze fel. Este parkoljon le és keressen egy jó hangulatú, meleg éttermet.",
+            "ro": "Conduceți confortabil în dimineața ploioasă spre Église Sainte-Lucie. La prânz, admirați priveliștea dramatică și cețoasă de la Peyre Haute din mașina uscată. După-amiaza, vizitați capelele istorice și Rue des Masques echipat cu o umbrelă mare. Seara, parcați în siguranță și relaxați-vă la interior.",
+            "en": "Drive comfortably on a wet, rainy morning to Église Sainte-Lucie. At noon, you can enjoy the dramatic, fog-covered views at Peyre Haute completely dry from your car. In the afternoon, visit the historic chapels and Rue des Masques armed with a large umbrella. Park safely in the evening and head indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Lucie",
+                "hu": "Église Sainte-Lucie",
+                "ro": "Église Sainte-Lucie",
+                "en": "Église Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Tolle Architektur; parken Sie das Auto so nah wie möglich am Eingang, um bei plötzlichen, starken Regengüssen schnell ins gemütliche Trockene der Kirche zu gelangen.",
+                "hu": "Lenyűgöző építészet; próbáljon az autójával minél közelebb parkolni a bejárathoz, hogy a hirtelen, heves záporok esetén gyorsan bejuthasson a templom kényelmes és száraz belső terébe.",
+                "ro": "Arhitectură minunată; parcați mașina cât mai aproape de intrare pentru a ajunge rapid și confortabil la uscat în interiorul bisericii în timpul ploilor torențiale bruște.",
+                "en": "Great architecture; park your car as close to the entrance as safely possible to get inside and stay dry very quickly during any sudden, uncomfortably heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Peyre Haute",
+                "hu": "Peyre Haute",
+                "ro": "Peyre Haute",
+                "en": "Peyre Haute"
+              },
+              "tip_5lang": {
+                "de": "Die dramatischen, wolkigen Ausblicke über das Tal sind spektakulär; bewundern Sie die mystischen Nebelschwaden sicher und komfortabel aus Ihrem warmen, trockenen Auto heraus.",
+                "hu": "A völgyre nyíló drámai, felhős kilátás egyszerűen látványos; csodálja meg a misztikus, gomolygó ködfelhőket biztonságosan és kényelmesen, a meleg és száraz autóból nézve.",
+                "ro": "Priveliștea dramatică și înnorată asupra văii este spectaculoasă; admirați peticele mistice de ceață în siguranță și confortabil din interiorul mașinii dumneavoastră calde și uscate.",
+                "en": "The dramatic, cloudy views over the valley are spectacular; admire the mystical, rolling fog patches safely and comfortably from inside your warm, dry car without stepping in the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de l'Aquilon",
+                "hu": "Église Notre-Dame de l'Aquilon",
+                "ro": "Église Notre-Dame de l'Aquilon",
+                "en": "Église Notre-Dame de l'Aquilon"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Kunst im Inneren, nachdem Sie aus Ihrem warmen Auto gestiegen sind und den kurzen, nassen Weg zum Eingang sicher unter einem Regenschirm zurückgelegt haben.",
+                "hu": "Csodálja meg a benti művészetet, miután kiszállt a meleg autójából, és a bejáratig tartó rövid, de rendkívül nedves utat biztonságosan, egy nagy esernyő alatt megtette.",
+                "ro": "Admirați arta înăuntru, după ce ați ieșit din mașina caldă și ați parcurs scurtul drum umed până la intrare, la adăpost sub o umbrelă robustă pentru a rămâne uscat.",
+                "en": "Admire the art inside after stepping out of your warm car and walking the short, wet distance to the entrance securely sheltered under a large, reliable umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Sébastien",
+                "hu": "Chapelle Saint-Sébastien",
+                "ro": "Chapelle Saint-Sébastien",
+                "en": "Chapelle Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Eine sehr sehenswerte Kapelle; seien Sie jedoch äußerst vorsichtig, wenn Sie aus Ihrem Auto auf den nassen, potenziell rutschigen und schlammigen Parkstreifen steigen.",
+                "hu": "Egy nagyon érdekes kápolna; azonban legyen rendkívül óvatos és körültekintő, amikor kiszáll az autóból a nedves, potenciálisan csúszós és sáros út menti parkolósávban.",
+                "ro": "O capelă foarte interesantă; cu toate acestea, fiți extrem de atenți când coborâți din mașină pe marginea drumului umedă, potențial alunecoasă și plină de noroi.",
+                "en": "A very interesting chapel; however, be extremely careful when stepping out of your car onto the wet, potentially slippery, and thoroughly muddy grassy verge beside the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Roch",
+                "hu": "Chapelle Saint-Roch",
+                "ro": "Chapelle Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Ein malerischer Ort; bei Regen wird der kurze Fußweg von Ihrem geparkten Auto zur Kapelle extrem schlammig, ziehen Sie also unbedingt feste, wasserdichte Schuhe an!",
+                "hu": "Festői helyszín; esőben a leparkolt autótól a kápolnáig vezető rövid gyalogút rendkívül sárossá és latyakossá válik, ezért mindenképpen viseljen masszív, vízálló cipőt!",
+                "ro": "Un loc pitoresc; pe ploaie, scurta plimbare de la mașina parcată până la capelă devine extrem de noroioasă, așa că purtați neapărat încălțăminte solidă și impermeabilă!",
+                "en": "A picturesque spot; in the rain, the short walk from your parked car directly to the chapel becomes heavily muddy, so be absolutely sure to wear solid, waterproof shoes!"
+              }
+            },
+            {
+              "name": {
+                "de": "La Rue des Masques",
+                "hu": "La Rue des Masques",
+                "ro": "La Rue des Masques",
+                "en": "La Rue des Masques"
+              },
+              "tip_5lang": {
+                "de": "Mystische Felsen; die Pfade sind bei Nässe unglaublich rutschig, also lassen Sie das Auto stehen und gehen Sie nur mit Schuhen mit tiefem, griffigem Profil spazieren.",
+                "hu": "Misztikus sziklák; az ösvények nedvesen hihetetlenül csúszósak, ezért hagyja az autót az út szélén, és csak mély, jól tapadó bordázatú cipőben induljon el sétálni.",
+                "ro": "Stânci mistice; potecile sunt incredibil de alunecoase la umezeală, așa că lăsați mașina și plimbați-vă doar dacă purtați încălțăminte cu tălpi cu aderență profundă.",
+                "en": "Mystical rocks; the narrow trails are incredibly slippery when wet, so safely leave the car parked and only walk if you are wearing shoes with very deep, gripping treads."
+              }
+            },
+            {
+              "name": {
+                "de": "Echauguette",
+                "hu": "Echauguette",
+                "ro": "Echauguette",
+                "en": "Echauguette"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische steinerne Wachturm ist beeindruckend, aber der steile Aufstieg ist bei Regen tückisch; es ist viel sicherer, das Bauwerk bei schlechtem Wetter von unten zu bewundern.",
+                "hu": "Ez a történelmi kő őrtorony lenyűgöző, de a meredek feljutás esőben nagyon csúszós és veszélyes; rossz időben sokkal biztonságosabb a zord építményt lentről megcsodálni.",
+                "ro": "Acest turn de veghe istoric din piatră este impresionant, dar urcușul abrupt este periculos pe ploaie; e mult mai sigur să admirați structura robustă de jos pe vreme rea.",
+                "en": "This historic stone watchtower is impressive, but the steep climb is treacherous in the rain; it's much safer to admire the rugged structure from below rather than risking a wet fall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt mit der Fahrt zur Église Sainte-Lucie – Winterreifen sind Pflicht! Mittags bietet Peyre Haute herrliche Ausblicke auf verschneite Berge vom warmen Sitz aus. Nachmittags erkunden Sie die winterliche Rue des Masques mit Vorsicht. Abends vor 17:00 Uhr sicher parken, da es früh dunkel wird.",
+            "hu": "A téli reggelen induljon téli gumikkal a Sainte-Lucie templomhoz. Délben a Peyre Haute lenyűgöző hófödte panorámát kínál a meleg, kényelmes autóból. Délután óvatosan vezessen a kápolnák és a Rue des Masques havas útjain. Este 5-kor már sötétedik, így vezessen különösen figyelmesen vissza a szállására.",
+            "ro": "Dimineața de iarnă începe cu un drum spre Église Sainte-Lucie – anvelopele de iarnă sunt obligatorii! La prânz, Peyre Haute oferă vederi panoramice înzăpezite din mașina caldă. După-amiaza, explorați capelele și Rue des Masques. Seara la 17:00 e deja întuneric, deci conduceți cu atenție înapoi spre sat.",
+            "en": "Start your winter morning driving to Église Sainte-Lucie—winter tires are absolutely essential! At noon, Peyre Haute offers stunning snow-covered panoramas from your warm car seats. In the afternoon, carefully explore the chapels and Rue des Masques. Drive carefully back to the village as it gets dark by 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Sainte-Lucie",
+                "hu": "Église Sainte-Lucie",
+                "ro": "Église Sainte-Lucie",
+                "en": "Église Sainte-Lucie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille in der Kirche; lassen Sie im Winter den Motor auf dem Parkplatz nicht laufen, das Innere der Kirche ist trotz Kälte gut vor dem Wind geschützt.",
+                "hu": "Élvezze a csendet a templomban; télen ne járassa a motort feleslegesen a parkolóban, a templom belső tere a hideg ellenére is nagyon jól védett a metsző széllel szemben.",
+                "ro": "Bucurați-vă de liniștea din biserică; nu lăsați motorul pornit în parcare iarna, interiorul bisericii este bine protejat de vânt, în ciuda frigului de afară.",
+                "en": "Enjoy the profound silence; please don't leave your car engine running in the parking lot in winter, as the church interior itself is well sheltered from the freezing wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Peyre Haute",
+                "hu": "Peyre Haute",
+                "ro": "Peyre Haute",
+                "en": "Peyre Haute"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakuläres Panorama, das die schneebedeckten Gipfel zeigt; der Parkplatz ist oft ungeräumt, daher sind Winterreifen oder Schneeketten zwingend erforderlich, um hier sicher anzukommen.",
+                "hu": "Látványos panoráma, amely bemutatja a hófödte csúcsokat; a parkoló gyakran takarítatlan, így a téli gumi vagy az erős hólánc itt elengedhetetlen a biztonságos megérkezéshez.",
+                "ro": "O panoramă spectaculoasă care prezintă vârfurile acoperite de zăpadă; parcarea este adesea necurățată, deci anvelopele de iarnă sau lanțurile sunt obligatorii pentru a ajunge în siguranță.",
+                "en": "A spectacular panorama that showcases the snow-covered peaks; the parking area is often uncleared, so winter tires or sturdy snow chains are mandatory to safely reach this viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame de l'Aquilon",
+                "hu": "Église Notre-Dame de l'Aquilon",
+                "ro": "Église Notre-Dame de l'Aquilon",
+                "en": "Église Notre-Dame de l'Aquilon"
+              },
+              "tip_5lang": {
+                "de": "Ein imposantes Gebäude im Schnee; ein Spaziergang im Inneren und das Betrachten der Kunst ist erfrischend, bevor Sie sich auf den Weg zurück in Ihr ausgekühltes, geparktes Auto machen.",
+                "hu": "Impozáns épület a hóban; a templomi séta és a benti művészet megtekintése kellemesen felfrissíti, mielőtt elindulna vissza a hidegben várakozó, teljesen kihűlt autójához.",
+                "ro": "O clădire impunătoare în zăpadă; o plimbare în interior și vizionarea artei este revigorantă înainte de a vă întoarce la mașina parcată, care s-a răcit considerabil.",
+                "en": "An imposing building in the snow; a walk inside to view the art is quite refreshing before making the brisk walk back to your chilly, parked car in the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Sébastien",
+                "hu": "Chapelle Saint-Sébastien",
+                "ro": "Chapelle Saint-Sébastien",
+                "en": "Chapelle Saint-Sébastien"
+              },
+              "tip_5lang": {
+                "de": "Ein sehr friedlicher Ort im Winter; das letzte Stück Straße, das zur Kapelle führt, kann stark vereist sein, also fahren und manövrieren Sie hier mit äußerster Vorsicht.",
+                "hu": "Nagyon békés helyszín télen; a kápolnához vezető utolsó útszakasz gyakran erősen jeges lehet, így vezessen és manőverezzen ezen a kis szakaszon rendkívüli óvatossággal.",
+                "ro": "Un loc foarte pașnic iarna; ultima porțiune de drum care duce spre capelă poate fi puternic înghețată, așa că vă rugăm să conduceți și să manevrați cu extremă prudență.",
+                "en": "A very peaceful location in winter; the final stretch of road leading up directly to the chapel can be heavily iced over, so drive and maneuver with extreme caution here."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Roch",
+                "hu": "Chapelle Saint-Roch",
+                "ro": "Chapelle Saint-Roch",
+                "en": "Chapelle Saint-Roch"
+              },
+              "tip_5lang": {
+                "de": "Eine großartige Gelegenheit für Fotos; der kurze Weg von Ihrem Auto kann stark vereist sein, achten Sie also bei der eisigen Kälte gut auf Ihre Schritte, um nicht auszurutschen.",
+                "hu": "Kiváló fotózási lehetőség; az autójától vezető rövid sétaút azonban erősen fagyos és jeges lehet, ezért a dermesztő hidegben nagyon figyeljen a lépéseire, nehogy elcsússzon.",
+                "ro": "O oportunitate excelentă pentru fotografii; scurta plimbare de la mașină poate fi puternic înghețată, așa că aveți mare grijă la pași în frigul înghețat pentru a nu aluneca.",
+                "en": "A great photo opportunity; the short walk from your car can be heavily iced over, so carefully watch your step in the freezing cold weather to avoid a nasty slip and fall."
+              }
+            },
+            {
+              "name": {
+                "de": "La Rue des Masques",
+                "hu": "La Rue des Masques",
+                "ro": "La Rue des Masques",
+                "en": "La Rue des Masques"
+              },
+              "tip_5lang": {
+                "de": "Imposante vereiste Felsen; parken Sie am sicheren Straßenrand und genießen Sie einfach die Aussicht, ohne tief in die gefährlich glatte und unberechenbare Schlucht zu gehen.",
+                "hu": "Impozáns jeges sziklák; parkoljon le a biztonságos út szélén, és csak élvezze a csodás látványt anélkül, hogy gyalogosan bemerészkedne a veszélyesen csúszós és kiszámíthatatlan szurdokba.",
+                "ro": "Stânci înghețate impunătoare; parcați în siguranță pe marginea drumului și bucurați-vă de priveliște fără a merge adânc în defileul periculos de alunecos și imprevizibil.",
+                "en": "Imposing icy rocks; safely park by the roadside and simply enjoy the dramatic view without attempting to walk deep into the dangerously slick and highly unpredictable gorge."
+              }
+            },
+            {
+              "name": {
+                "de": "Echauguette",
+                "hu": "Echauguette",
+                "ro": "Echauguette",
+                "en": "Echauguette"
+              },
+              "tip_5lang": {
+                "de": "Ein phänomenaler Aussichtspunkt über die Region, aber im Winter heult hier ein eisiger Wind; machen Sie ein schnelles Foto und kehren Sie in die Wärme Ihres geheizten Autos zurück.",
+                "hu": "Fenomenális kilátópont a régió felett, de télen folyamatosan metsző, jeges szél süvít itt; készítsen egy gyors fotót, majd térjen vissza a fűtött, meleg autó kényelmébe.",
+                "ro": "Un punct de belvedere fenomenal asupra regiunii, dar un vânt aspru și înghețat urlă aici constant iarna; faceți o fotografie rapidă și întoarceți-vă în confortul mașinii încălzite.",
+                "en": "A phenomenal viewpoint over the region, but a harsh, icy wind constantly howls here in winter; take a quick photo and return to the comfort of your heated car to avoid freezing."
+              }
+            }
+          ]
+        }
       }
     }
   }

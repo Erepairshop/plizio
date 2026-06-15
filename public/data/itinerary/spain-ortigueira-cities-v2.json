@@ -137,6 +137,168 @@
         "hu": "Ortigueira gyalogos túrája a bájos városközpontban kezdődik, a fenséges Beneficencia Színháztól a Museo Ortegalia helyi örökségéig. A dél a Campo da Torre középkori romjaihoz viszi Önt, bepillantást engedve az ősi parti védelembe. A délutáni séta elhalad az impozáns Pazo de Brandariz mellett, mielőtt a látványos Ría vizes élőhelyein, a madarak paradicsomában csúcsosodna ki.",
         "ro": "Turul pietonal al orașului Ortigueira începe în centrul fermecător, ducându-vă de la Teatrul Beneficencia la patrimoniul local de la Museo Ortegalia. La amiază ajungeți la ruinele medievale Campo da Torre, oferind o privire asupra apărării antice. Plimbarea de după-amiază trece pe lângă impunătorul Pazo de Brandariz înainte de a culmina la spectaculoasele zone umede Ría de Ortigueira.",
         "en": "The walking tour of Ortigueira starts in the charming town center, taking you from the majestic Beneficencia Theater to the deep local heritage at Museo Ortegalia. Midday brings you to the medieval ruins of the Campo da Torre, offering a glimpse into ancient coastal defenses. Your afternoon stroll passes the imposing Pazo de Brandariz before culminating at the spectacular Ría wetlands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Schutz des Theaters, während draußen der galicische Regen fällt. Mittags bietet das Museum einen trockenen Rückzugsort voller Geschichte. Am Nachmittag erkunden wir die historischen Mauern und den Pazo unter grauem Himmel, wobei Pfützen die Architektur spiegeln. Den Abend beschließen wir an der Ría, wo der Nebel über dem Wasser eine mystische Atmosphäre schafft.",
+            "hu": "Kezdje a napot a színház oltalmában, miközben odakint esik a galíciai eső. Délben a múzeum nyújt száraz menedéket a történelem kedvelőinek. Délután a történelmi falakat és a pazót fedezzük fel a szürke ég alatt, ahol a pocsolyák tükrözik az épületeket. Az estét a Ría mellett zárjuk, ahol a víz felett gomolygó köd misztikus hangulatot áraszt a védett madárlesekről nézve.",
+            "ro": "Începeți ziua la adăpostul teatrului, în timp ce afară cade ploaia galiciană. La prânz, muzeul oferă un refugiu uscat plin de istorie. După-amiaza explorăm zidurile istorice și conacul sub cerul gri, unde bălțile reflectă arhitectura locală. Seara se încheie la Ría, unde ceața de deasupra apei creează o atmosferă mistică, observată din puncte de belvedere acoperite.",
+            "en": "Start your day in the shelter of the theater while the Galician rain falls outside. At noon, the museum provides a dry retreat full of history. In the afternoon, we explore historical walls and the manor under grey skies, where puddles mirror the local architecture. The evening concludes by the Ría, where mist over the water creates a mystical atmosphere from covered birdwatching spots."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro da Beneficencia",
+                "hu": "Teatro da Beneficencia",
+                "ro": "Teatro da Beneficencia",
+                "en": "Teatro da Beneficencia"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die prächtige Holzarchitektur im Inneren, die einen hervorragenden Schutz vor dem Küstenregen bietet, während Sie die lokale Kulturgeschichte kennenlernen.",
+                "hu": "Csodálja meg a belső tér gyönyörű fafaragásait, amelyek kiváló menedéket nyújtanak a parti eső elől, miközben megismeri a helyi kulturális örökséget és történelmet.",
+                "ro": "Admirați arhitectura magnifică din lemn din interior, care oferă un adăpost excelent împotriva ploii de coastă, în timp ce învățați despre istoria culturală locală.",
+                "en": "Admire the magnificent wooden interior architecture, which provides excellent shelter from the coastal rain while you learn about the local cultural history and heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Ortegalia",
+                "hu": "Museo Ortegalia",
+                "ro": "Museo Ortegalia",
+                "en": "Museo Ortegalia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine ausführliche Pause im Trockenen und entdecken Sie archäologische Schätze, während draußen der typische galicische Nieselregen fällt.",
+                "hu": "Használja ki a múzeumot egy hosszabb száraz szünetre, és fedezze fel a régészeti kincseket, miközben odakint a tipikus galíciai permetező eső áztatja a tájat.",
+                "ro": "Folosiți muzeul pentru o pauză prelungită la uscat și descoperiți comorile arheologice, în timp ce afară cade burnița tipică galiciană peste peisajul local.",
+                "en": "Take advantage of the museum for an extended break in the dry and discover archaeological treasures while the typical Galician drizzle falls outside over the landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo do Campo da Torre",
+                "hu": "Castelo do Campo da Torre",
+                "ro": "Castelo do Campo da Torre",
+                "en": "Castelo do Campo da Torre"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf den nassen Steinen der Ruinen; der Regen verleiht den alten Mauern eine besonders intensive Farbe und eine historische Melancholie.",
+                "hu": "Legyen óvatos a romok nedves kövein; az eső különösen intenzív színeket kölcsönöz a régi falaknak, fokozva a helyszín történelmi és melankolikus hangulatát.",
+                "ro": "Aveți grijă pe pietrele umede ale ruinelor; ploaia conferă zidurilor vechi o culoare deosebit de intensă și o melancolie istorică profundă în aerul umed.",
+                "en": "Be careful on the wet stones of the ruins; the rain gives the old walls a particularly intense color and enhances the historical melancholy of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Brandariz",
+                "hu": "Pazo de Brandariz",
+                "ro": "Pazo de Brandariz",
+                "en": "Pazo de Brandariz"
+              },
+              "tip_5lang": {
+                "de": "Die aristokratische Fassade wirkt im Regen besonders imposant; suchen Sie Schutz unter den Dachvorsprüngen, um die Details der galicischen Herrenhaus-Architektur zu studieren.",
+                "hu": "Az arisztokratikus homlokzat esőben is impozáns; keressen menedéket az ereszek alatt, hogy megfigyelhesse a galíciai udvarház-építészet finom részleteit és díszeit.",
+                "ro": "Fațada aristocratică pare deosebit de impunătoare în ploaie; căutați adăpost sub streșini pentru a studia detaliile arhitecturii conacelor galiciene tradiționale.",
+                "en": "The aristocratic facade looks particularly imposing in the rain; seek shelter under the eaves to study the details of traditional Galician manor house architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "hu": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "ro": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "en": "Zona Húmida Protexida Ría de Ortigueira e Ladrido"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wasservögel von den überdachten Holzhütten aus; das Regenwetter macht die Vögel oft aktiver und die Landschaft wirkt wie ein lebendiges Gemälde.",
+                "hu": "Figyelje meg a vízimadarakat a fedett faházakból; az esős időben a madarak gyakran aktívabbak, a táj pedig olyan, mint egy misztikus, élő olajfestmény.",
+                "ro": "Observați păsările de apă din colibele de lemn acoperite; vremea ploioasă face adesea păsările mai active, iar peisajul arată ca o pictură mistică vie.",
+                "en": "Observe the waterfowl from the covered wooden huts; rainy weather often makes the birds more active, and the landscape looks like a mystical living painting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der Wärme des historischen Theaters. Mittags erkunden wir die Geschichte im beheizten Museum, bevor wir die klare Winterluft bei den Burgruinen genießen. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Licht des Nachmittags am Pazo. Der Tag endet mit einer kühlen, aber klaren Brise an der Ría unter dem frühen Sternenhimmel.",
+            "hu": "A friss téli reggel a történelmi színház melegében indul. Délben a fűtött múzeumban kalandozunk a múltban, majd élvezzük a tiszta téli levegőt a várromoknál. Mivel a nap már 17:00 körül nyugszik, kihasználjuk a délutáni arany fényeket a pazónál. A nap hűvös, de tiszta szellővel zárul a Ría partján, a korán felkelő csillagok alatt.",
+            "ro": "O dimineață răcoroasă de iarnă începe în căldura teatrului istoric. La prânz explorăm istoria în muzeul încălzit, înainte de a ne bucura de aerul curat la ruinele castelului. Deoarece soarele apune deja în jurul orei 17:00, profităm de lumina aurie la conac. Ziua se încheie cu o briză rece, dar senină la Ría, sub cerul înstelat timpuriu.",
+            "en": "A crisp winter morning begins in the warmth of the historic theater. At noon, we explore history in the heated museum before enjoying the clear winter air at the castle ruins. Since the sun sets around 17:00, we take advantage of the afternoon's golden light at the manor. The day ends with a cool but clear breeze by the Ría under the early starry sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro da Beneficencia",
+                "hu": "Teatro da Beneficencia",
+                "ro": "Teatro da Beneficencia",
+                "en": "Teatro da Beneficencia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den warmen Innenraum dieses architektonischen Juwels; die winterliche Stille im Theater lässt die historische Atmosphäre noch intensiver wirken.",
+                "hu": "Élvezze építészeti ékszerdoboz meleg belső terét; a téli csend a színházban még intenzívebbé teszi a történelmi hangulatot és a hely varázsát.",
+                "ro": "Bucurați-vă de interiorul cald al acestei bijuterii arhitecturale; liniștea iernii în teatru face ca atmosfera istorică să pară și mai intensă și magică.",
+                "en": "Enjoy the warm interior of this architectural gem; the winter silence in the theater makes the historical atmosphere feel even more intense and magical."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Ortegalia",
+                "hu": "Museo Ortegalia",
+                "ro": "Museo Ortegalia",
+                "en": "Museo Ortegalia"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Ort, um sich aufzuwärmen, während man tief in die keltische Vergangenheit der Region eintaucht, fernab vom kalten Küstenwind.",
+                "hu": "A múzeum tökéletes hely a felmelegedésre, miközben elmélyed a régió kelta múltjában, távol a part felől fújó hideg és metsző téli széltől.",
+                "ro": "Muzeul este locul perfect pentru a vă încălzi în timp ce vă cufundați în trecutul celtic al regiunii, departe de vântul rece și tăios de coastă.",
+                "en": "The museum is the perfect place to warm up while immersing yourself in the region's Celtic past, far from the cold and biting coastal winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo do Campo da Torre",
+                "hu": "Castelo do Campo da Torre",
+                "ro": "Castelo do Campo da Torre",
+                "en": "Castelo do Campo da Torre"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine weite Sicht über den Ort; ziehen Sie sich warm an, um den Panoramablick ohne Eile bei tiefstehender Sonne zu genießen.",
+                "hu": "A tiszta téli levegő messzi kilátást biztosít a városra; öltözzön rétegesen, hogy kapkodás nélkül élvezhesse a panorámát az alacsonyan járó nap fényében.",
+                "ro": "Aerul curat de iarnă oferă o vedere clară asupra orașului; îmbrăcați-vă gros pentru a vă bucura de panoramă fără grabă în lumina soarelui care apune.",
+                "en": "The clear winter air provides a distant view over the town; dress in warm layers to enjoy the panorama without haste in the low-hanging winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Pazo de Brandariz",
+                "hu": "Pazo de Brandariz",
+                "ro": "Pazo de Brandariz",
+                "en": "Pazo de Brandariz"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um das letzte Tageslicht auf den steinernen Wappen zu sehen, bevor die winterliche Dämmerung das Anwesen einhüllt.",
+                "hu": "Látogasson el ide 16:30 előtt, hogy lássa az utolsó napfényt a kőcímereken, mielőtt a téli szürkület és a korai sötétség körbeöleli az ősi birtokot.",
+                "ro": "Vizitați acest loc înainte de ora 16:30 pentru a vedea ultima lumină a zilei pe blazoanele de piatră, înainte ca amurgul de iarnă să învăluie domeniul.",
+                "en": "Visit this spot before 16:30 to catch the last daylight on the stone crests before the winter twilight and early darkness envelop the ancient estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "hu": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "ro": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "en": "Zona Húmida Protexida Ría de Ortigueira e Ladrido"
+              },
+              "tip_5lang": {
+                "de": "Im Winter rasten hier Tausende von Zugvögeln; bringen Sie ein Fernglas mit und genießen Sie die kühle, klare Natur bei einem frühen Sonnenuntergang.",
+                "hu": "Télen több ezer költöző madár pihen itt; hozzon távcsövet, és élvezze a hűvös, tiszta természetet a korai naplemente varázslatos színeiben.",
+                "ro": "Iarna, mii de păsări migratoare se odihnesc aici; aduceți binoclul și bucurați-vă de natura răcoroasă și senină în culorile magice ale apusului timpuriu.",
+                "en": "In winter, thousands of migratory birds rest here; bring binoculars and enjoy the cool, clear nature in the magical colors of the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Egy kerékpáros kalandra indulva a reggel a kelta történelemmel kezdődik a Museo Ortégaliában, mielőtt O Castriño ősi romjaihoz pedálozna. Délben fedezze fel a régi téglakemencéket A Telleira-ban. A délutánt a parti szellőnek tartják fenn, miközben a Morouzos és Cabalar strandokhoz lovagol, és aktív napját a torkolat védett vizes élőhelyein fejezi be.",
         "ro": "Pornind într-o aventură cu bicicleta, dimineața începe cu istoria celtică la Museo Ortegalia înainte de a pedala spre ruinele O Castriño. La amiază, explorați vechile cuptoare la A Telleira. După-amiaza este rezervată brizelor de coastă, mergând spre Praia de Morouzos și Cabalar, terminând ziua activă observând păsările în zonele umede protejate ale estuarului uluitor.",
         "en": "Embarking on a cycling adventure, your morning begins with Celtic history at Museo Ortegalia before pedaling to the ancient ruins of O Castriño. By midday, explore the remnants of old brick kilns at A Telleira. The afternoon is reserved for coastal breezes as you ride to Praia de Morouzos and Cabalar, finishing your active day watching birds in the protected wetlands of the estuary."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet die Radtour durch Ortigueira einen besonderen Reiz. Wir starten geschützt im Museum, radeln dann vorsichtig zu den archäologischen Stätten unter dem Schutz von Regenponchos. Mittags erreichen wir die historische Fabrik, während die Küste im Nebel verschwindet. Nachmittags führen uns nasse Wege zu den Stränden, bevor wir den Tag an der mystisch verregneten Ría beenden.",
+            "hu": "Az eső ellenére a kerékpártúra Ortigueirában különleges élményt nyújt. Védett helyen, a múzeumban kezdünk, majd óvatosan tekerünk a régészeti lelőhelyekhez esőponchóban. Délben elérjük a történelmi gyárat, miközben a part elvész a ködben. Délután nedves utakon jutunk el a strandokhoz, végül a napot a misztikusan esős Ría mellett zárjuk.",
+            "ro": "În ciuda ploii, turul cu bicicleta prin Ortigueira oferă un farmec deosebit. Începem protejați în muzeu, apoi pedalăm cu atenție spre siturile arheologice purtând pelerine. La prânz ajungem la fabrica istorică, în timp ce coasta dispare în ceață. După-amiaza, drumurile umede ne duc la plaje, înainte de a încheia ziua la Ría mistică și ploioasă.",
+            "en": "Despite the rain, the bike tour through Ortigueira offers a special charm. We start protected in the museum, then cycle carefully to the archaeological sites under the shelter of rain ponchos. At noon, we reach the historic factory while the coast disappears in the mist. In the afternoon, wet paths lead us to the beaches before ending the day at the mystically rainy Ría."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Ortegalia",
+                "hu": "Museo Ortegalia",
+                "ro": "Museo Ortegalia",
+                "en": "Museo Ortegalia"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt, um den ersten Regenguss abzuwarten; prüfen Sie Ihre Bremsen, da die Straßen von Ortigueira bei Nässe rutschig sein können.",
+                "hu": "Ideális kiindulópont az első zápor kivárásához; ellenőrizze a fékeket, mivel Ortigueira utcái és útjai nedvesen rendkívül csúszósak lehetnek.",
+                "ro": "Un punct de plecare ideal pentru a aștepta prima ploaie; verificați frânele, deoarece străzile din Ortigueira pot fi alunecoase când sunt ude.",
+                "en": "An ideal starting point to wait out the first downpour; check your brakes, as the streets and paths of Ortigueira can be very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "O Castriño",
+                "hu": "O Castriño",
+                "ro": "O Castriño",
+                "en": "O Castriño"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen wirken im Regen besonders archaisch; achten Sie auf den unbefestigten Wegen auf Schlamm und tragen Sie wasserfeste Schuhe beim Erkunden.",
+                "hu": "Az ásatások esőben különösen archaikusnak tűnnek; figyeljen a sáros szakaszokra a földutakon, és viseljen vízálló cipőt a romok felfedezésekor.",
+                "ro": "Săpăturile par deosebit de arhaice în ploaie; aveți grijă la noroi pe drumurile neasfaltate și purtați încălțăminte impermeabilă când explorați ruinele.",
+                "en": "The excavations look particularly archaic in the rain; watch out for mud on the unpaved paths and wear waterproof shoes while exploring the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "A Telleira",
+                "hu": "A Telleira",
+                "ro": "A Telleira",
+                "en": "A Telleira"
+              },
+              "tip_5lang": {
+                "de": "Dieses Industriedenkmal bietet stellenweise Schutz vor Wind; nutzen Sie die alten Strukturen, um kurz zu verschnaufen und den Regen auf der Ría zu beobachten.",
+                "hu": "Ez az ipari műemlék helyenként védelmet nyújt a szél elől; használja a régi építményeket egy rövid pihenőre, miközben az esőt figyeli a Ría felett.",
+                "ro": "Acest monument industrial oferă pe alocuri protecție împotriva vântului; folosiți structurile vechi pentru un scurt popas în timp ce priviți ploaia pe Ría.",
+                "en": "This industrial monument offers shelter from the wind in places; use the old structures for a short break while watching the rain over the Ría."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Morouzos",
+                "hu": "Praia de Morouzos",
+                "ro": "Praia de Morouzos",
+                "en": "Praia de Morouzos"
+              },
+              "tip_5lang": {
+                "de": "Der Pinienwald am Strand bietet einen natürlichen Regenschirm; radeln Sie vorsichtig über den nassen Waldboden und genießen Sie den Duft von nassem Harz.",
+                "hu": "A tengerparti fenyőerdő természetes esernyőként szolgál; tekerjen óvatosan a nedves erdei talajon, és élvezze a vizes gyanta friss illatát a levegőben.",
+                "ro": "Pădurea de pini de lângă plajă servește ca o umbrelă naturală; pedalați cu atenție pe solul umed al pădurii și bucurați-vă de mirosul proaspăt de rășină.",
+                "en": "The pine forest by the beach serves as a natural umbrella; cycle carefully over the wet forest floor and enjoy the fresh scent of wet resin in the air."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cabalar",
+                "hu": "Praia de Cabalar",
+                "ro": "Praia de Cabalar",
+                "en": "Praia de Cabalar"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen wirkt dieser Strand wild und verlassen; suchen Sie kurz Schutz bei den kleinen Fischerhütten, falls der Wind vom Meer zu stark wird.",
+                "hu": "Esőben ez a strand vad és elhagyatott arcát mutatja; keressen rövid menedéket a halászkunyhóknál, ha a tenger felőli szél túl erőssé válna.",
+                "ro": "În ploaie, această plajă pare sălbatică și părăsită; căutați un scurt adăpost lângă colibele pescarilor dacă vântul dinspre mare devine prea puternic.",
+                "en": "In the rain, this beach shows its wild and deserted side; seek short shelter near the fishing huts if the wind from the sea becomes too strong."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "hu": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "ro": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "en": "Zona Húmida Protexida Ría de Ortigueira e Ladrido"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an einem der überdachten Beobachtungspunkte; das ferne Donnern des Meeres und der Regen auf dem Schilf bilden eine tolle Kulisse.",
+                "hu": "Zárja a túrát az egyik fedett megfigyelőponton; a tenger távoli moraja és a nádasra hulló eső kopogása lenyűgöző természeti kulisszát alkot.",
+                "ro": "Încheiați turul la unul dintre punctele de observare acoperite; vuietul îndepărtat al mării și ploaia care cade pe stuf creează un decor natural uimitor.",
+                "en": "End your tour at one of the covered observation points; the distant roar of the sea and the rain falling on the reeds create a stunning natural backdrop."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Ortigueira auf zwei Rädern in der klaren Winterluft. Wir starten im warmen Museum und radeln unter der tiefstehenden Wintersonne zu den Castros. Mittags wärmt uns die Bewegung auf dem Weg zur Telleira. Die Strände wirken im Winterlicht fast magisch, auch wenn die Brise frisch ist. Denken Sie an den frühen Sonnenuntergang gegen 17:00 Uhr, wenn wir die Ría im letzten Tageslicht erreichen.",
+            "hu": "Fedezze fel Ortigueirát két keréken a friss téli levegőn. A meleg múzeumból indulunk, majd az alacsonyan járó téli nap fényében tekerünk a Castrókhoz. Délben a mozgás tart melegen a Telleira felé vezető úton. A strandok szinte varázslatosak a téli fényben, még ha a szél metsző is. Ne feledje a korai, 17:00 körüli naplementét a Ría partján.",
+            "ro": "Experimentați Ortigueira pe două roți în aerul proaspăt de iarnă. Începem la muzeul cald și pedalăm sub soarele jos de iarnă spre Castros. La prânz, mișcarea ne ține de cald pe drumul spre Telleira. Plajele par aproape magice în lumina iernii, chiar dacă briza este rece. Nu uitați de apusul timpuriu în jurul orei 17:00 la Ría.",
+            "en": "Experience Ortigueira on two wheels in the crisp winter air. We start at the warm museum and cycle under the low winter sun towards the Castros. At noon, the activity keeps us warm on the way to Telleira. The beaches look almost magical in the winter light, even if the breeze is chilly. Remember the early sunset around 17:00 when we reach the Ría."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Ortegalia",
+                "hu": "Museo Ortegalia",
+                "ro": "Museo Ortegalia",
+                "en": "Museo Ortegalia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um sich aufzuwärmen, bevor Sie in die kühle Brise starten; tragen Sie winddichte Kleidung für die bevorstehende Küstenfahrt.",
+                "hu": "Használja ki a múzeumi látogatást a felmelegedésre, mielőtt kimerészkedne a hűvös szélbe; viseljen szélálló ruházatot a tengerparti szakaszokhoz.",
+                "ro": "Profitat de vizita la muzeu pentru a vă încălzi înainte de a ieși în briza răcoroasă; purtați îmbrăcăminte rezistentă la vânt pentru traseul de coastă.",
+                "en": "Use the museum visit to warm up before heading out into the cool breeze; wear windproof clothing for the upcoming coastal sections of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "O Castriño",
+                "hu": "O Castriño",
+                "ro": "O Castriño",
+                "en": "O Castriño"
+              },
+              "tip_5lang": {
+                "de": "Die freie Fläche bietet kaum Windschutz; radeln Sie zügig, um warm zu bleiben, und genießen Sie die klare Sicht, die oft nur der Winter ermöglicht.",
+                "hu": "A nyitott terület alig nyújt szélvédelmet; tekerjen tempósan, hogy melegen tartsa magát, és élvezze a téli időszakra jellemző kristálytiszta kilátást.",
+                "ro": "Zona deschisă oferă puțină protecție împotriva vântului; pedalați vioi pentru a vă menține cald și bucurați-vă de vizibilitatea clară specifică iernii.",
+                "en": "The open area offers little wind protection; cycle briskly to stay warm and enjoy the crystal-clear views that are often only possible in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "A Telleira",
+                "hu": "A Telleira",
+                "ro": "A Telleira",
+                "en": "A Telleira"
+              },
+              "tip_5lang": {
+                "de": "Der Aufenthalt bei diesen Ruinen ist im Winter kurz, aber eindrucksvoll; nutzen Sie die sonnigen Abschnitte zwischen den Mauern, um die Kälte zu vertreiben.",
+                "hu": "A romoknál tett látogatás télen rövid, de hatásos; keresse a napsütötte részeket a régi falak között, hogy egy kis meleget gyűjtsön a folytatáshoz.",
+                "ro": "Vizita la aceste ruine este scurtă, dar impresionantă iarna; căutați porțiunile însorite între zidurile vechi pentru a colecta puțină căldură.",
+                "en": "The stop at these ruins is short but impactful in winter; look for sunny spots between the old walls to gather some warmth for the rest of the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Morouzos",
+                "hu": "Praia de Morouzos",
+                "ro": "Praia de Morouzos",
+                "en": "Praia de Morouzos"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; genießen Sie die Einsamkeit, aber achten Sie auf den kalten Seewind, der durch die Pinien pfeift.",
+                "hu": "A strand télen szinte teljesen néptelen; élvezze a magányt, de készüljön fel a fenyők között süvítő hideg tengeri szélre és az alacsony hőmérsékletre.",
+                "ro": "Plaja este aproape pustie iarna; bucurați-vă de singurătate, dar pregătiți-vă pentru vântul rece de mare care șuieră printre pinii de pe mal.",
+                "en": "The beach is almost deserted in winter; enjoy the solitude, but be prepared for the cold sea wind whistling through the pines and the low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cabalar",
+                "hu": "Praia de Cabalar",
+                "ro": "Praia de Cabalar",
+                "en": "Praia de Cabalar"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne glitzert herrlich auf dem Wasser; machen Sie ein schnelles Foto, bevor die Finger zu kalt werden, und radeln Sie dann zügig weiter.",
+                "hu": "A téli nap csodásan csillog a vízen; készítsen egy gyors fotót, mielőtt az ujjai túlságosan áthűlnének, majd tekerjen tovább a mozgás öröméért.",
+                "ro": "Soarele de iarnă sclipește superb pe apă; faceți o fotografie rapidă înainte ca degetele să înghețe prea tare, apoi pedalați mai departe pentru a vă încălzi.",
+                "en": "The winter sun glitters beautifully on the water; take a quick photo before your fingers get too cold, then keep cycling to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "hu": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "ro": "Zona Húmida Protexida Ría de Ortigueira e Ladrido",
+                "en": "Zona Húmida Protexida Ría de Ortigueira e Ladrido"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft vor 17:00 Uhr, um das Abendrot zu erleben; der Rückweg nach Ortigueira bei beginnender Dunkelheit erfordert gute Fahrradlichter.",
+                "hu": "Tervezze az érkezést 17:00 előtt, hogy lássa az alkonypírt; a sötétedésben való visszatéréshez Ortigueirába elengedhetetlen a jó kerékpáros világítás.",
+                "ro": "Planificați sosirea înainte de ora 17:00 pentru a vedea apusul; întoarcerea spre Ortigueira pe întuneric necesită lumini de bicicletă foarte bune.",
+                "en": "Plan to arrive before 17:00 to catch the sunset glow; returning to Ortigueira in the gathering darkness requires reliable and bright bike lights."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós túrája Ortigueira szélességét fedi le, az elegáns Pazo de Riomaior udvarházzal és a San Xiao de Barbos templom nyugodt bájával kezdve. Délben a városmagba vonzza Önt, hogy felfedezze múzeumát és történelmi erődjét. Ahogy a délután elhalványul, a part mentén fog vezetni, megállva a drámai Puntal kilátónál, mielőtt a gyönyörű Cabalar és Morouzos strandokon pihenne.",
         "ro": "Turul auto acoperă întinderea orașului Ortigueira, începând cu elegantul Pazo de Riomaior și farmecul liniștit al bisericii San Xiao de Barbos. La amiază vă îndreptați spre centrul orașului pentru a explora muzeul și fortăreața. După-amiaza, veți conduce de-a lungul coastei, oprindu-vă la punctul de observație dramatic Puntal înainte de a vă relaxa pe frumoasele plaje Cabalar și Morouzos.",
         "en": "Your driving tour covers the breadth of Ortigueira, starting with the elegant rural Pazo de Riomaior and the quiet charm of the San Xiao de Barbos church. Midday draws you to the town's core to explore its museum and historic fortress. As the afternoon wanes, you will drive along the coast, stopping at the dramatic Puntal viewpoint before relaxing on the beautiful stretches of Cabalar and Morouzos beaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt schützt Sie vor dem galicischen Wetter, während Sie die Küste erkunden. Morgens besuchen wir den Pazo und die Kirche im Trockenen. Mittags bietet das Museum einen kulturellen Stopp. Nachmittags genießen wir die Aussicht vom Miradoiro aus dem warmen Auto heraus, bevor wir die Strände besuchen. Der Tag endet sicher und trocken an der nebligen Ría, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Az autóút megvédi önt a galíciai időjárástól, miközben felfedezi a partot. Reggel a pazót és a templomot látogatjuk meg szárazon. Délben a múzeum nyújt kulturális kikapcsolódást. Délután a Miradoiro kilátását a meleg autóból élvezhetjük, mielőtt a strandokhoz hajtanánk. A nap biztonságban és szárazon ér véget a ködös Ría mellett, miközben az eső kopog a szélvédőn.",
+            "ro": "Călătoria cu mașina vă protejează de vremea galiciană în timp ce explorați coasta. Dimineața vizităm conacul și biserica la uscat. La prânz, muzeul oferă o oprire culturală. După-amiaza ne bucurăm de vederea de la Miradoiro din mașina caldă, înainte de a vizita plajele. Ziua se încheie în siguranță și uscat la Ría cețoasă, în timp ce ploaia bate în geamuri.",
+            "en": "The car trip protects you from the Galician weather while you explore the coast. In the morning, we visit the manor and the church in the dry. At noon, the museum offers a cultural stop. In the afternoon, enjoy the view from Miradoiro from the warm car before visiting the beaches. The day ends safely and dry at the misty Ría while rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pazo de Riomaior",
+                "hu": "Pazo de Riomaior",
+                "ro": "Pazo de Riomaior",
+                "en": "Pazo de Riomaior"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu umgehen; das historische Herrenhaus wirkt in der nassen Umgebung besonders herrschaftlich und stolz.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt; a történelmi udvarház a nedves környezetben különösen méltóságteljesnek és büszkének tűnik.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; conacul istoric pare deosebit de maiestuos și mândru în mediul umed de afară.",
+                "en": "Park as close to the entrance as possible to avoid the rain; the historic manor house looks particularly majestic and proud in the wet surroundings."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Xiao de Barbos",
+                "hu": "Igrexa de San Xiao de Barbos",
+                "ro": "Igrexa de San Xiao de Barbos",
+                "en": "Igrexa de San Xiao de Barbos"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Kirche bietet eine spirituelle Ruhepause im Trockenen; genießen Sie die Stille und den Duft von altem Stein, während draußen der Regen fällt.",
+                "hu": "Ez a kis templom spirituális és száraz pihenőt kínál; élvezze a csendet és a régi kövek illatát, miközben odakint a sűrű galíciai eső áztatja a falakat.",
+                "ro": "Această mică biserică oferă un popas spiritual la uscat; bucurați-vă de liniște și de mirosul de piatră veche în timp ce afară cade ploaia deasă galiciană.",
+                "en": "This small church offers a spiritual and dry respite; enjoy the silence and the scent of old stone while the heavy Galician rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Ortegalia",
+                "hu": "Museo Ortegalia",
+                "ro": "Museo Ortegalia",
+                "en": "Museo Ortegalia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den einfachen Parkplatz direkt beim Museum, um schnell ins warme Innere zu gelangen und die archäologische Ausstellung ganz ohne Eile zu genießen.",
+                "hu": "Használja ki a közvetlenül a múzeumnál lévő parkolót, hogy gyorsan bejusson a meleg belső térbe, és kapkodás nélkül élvezhesse a régészeti kiállítást.",
+                "ro": "Folosiți parcarea de lângă muzeu pentru a intra rapid în interiorul cald și pentru a vă bucura de expoziția arheologică fără nicio grabă.",
+                "en": "Take advantage of the parking right by the museum to get into the warm interior quickly and enjoy the archaeological exhibition without any haste."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo do Campo da Torre",
+                "hu": "Castelo do Campo da Torre",
+                "ro": "Castelo do Campo da Torre",
+                "en": "Castelo do Campo da Torre"
+              },
+              "tip_5lang": {
+                "de": "Vom Auto aus hat man bereits einen guten Blick; falls Sie aussteigen, nutzen Sie einen festen Schirm gegen den oft böigen Wind an den Ruinen.",
+                "hu": "Az autóból is jó kilátás nyílik; ha kiszáll, használjon erős esernyőt a romoknál gyakran fújó széllökések ellen, hogy száraz maradjon a rövid séta alatt.",
+                "ro": "Din mașină aveți deja o vedere bună; dacă coborâți, folosiți o umbrelă rezistentă împotriva vântului adesea puternic de la ruine pentru a rămâne uscat.",
+                "en": "You get a good view from the car; if you step out, use a sturdy umbrella against the often gusty winds at the ruins to stay dry during your brief walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Puntal",
+                "hu": "Miradoiro do Puntal",
+                "ro": "Miradoiro do Puntal",
+                "en": "Miradoiro do Puntal"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Stopp bei Regen, da man das Panorama der Ría direkt durch die Windschutzscheibe bewundern kann, während man im warmen Auto bleibt.",
+                "hu": "Tökéletes megálló esőben, mivel a Ría panorámáját közvetlenül a szélvédőn keresztül csodálhatja meg, miközben a fűtött autóban marad.",
+                "ro": "Oprirea perfectă pe ploaie, deoarece puteți admira panorama Ría direct prin parbriz, în timp ce rămâneți în mașina încălzită și confortabilă.",
+                "en": "The perfect stop in the rain, as you can admire the panorama of the Ría directly through the windshield while staying in the warm and cozy car."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cabalar",
+                "hu": "Praia de Cabalar",
+                "ro": "Praia de Cabalar",
+                "en": "Praia de Cabalar"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmische See vom Parkplatz aus; der Kontrast zwischen dem warmen Fahrzeug und der rauen Natur draußen ist ein besonderes Erlebnis.",
+                "hu": "Figyelje a viharos tengert a parkolóból; a meleg jármű és a kinti zord természet közötti kontraszt különleges és megnyugtató élményt nyújt az utasoknak.",
+                "ro": "Observați marea agitată din parcare; contrastul dintre vehiculul cald și natura aspră de afară este o experiență specială și relaxantă.",
+                "en": "Observe the stormy sea from the parking lot; the contrast between the warm vehicle and the harsh nature outside is a special and relaxing experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Morouzos",
+                "hu": "Praia de Morouzos",
+                "ro": "Praia de Morouzos",
+                "en": "Praia de Morouzos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Schutz der Bäume am Rand des Parkplatzes für einen kurzen Blick auf den Strand, bevor Sie den Tag gemütlich im Auto ausklingen lassen.",
+                "hu": "Használja ki a parkoló szélén lévő fák oltalmát egy rövid pillantásra a tengerpartra, mielőtt kényelmesen befejezné a napot az autóban pihenve.",
+                "ro": "Folosiți protecția copacilor de la marginea parcării pentru o privire scurtă la plajă, înainte de a încheia ziua confortabil în mașină.",
+                "en": "Take advantage of the shelter of the trees at the edge of the parking lot for a quick look at the beach before ending the day comfortably in the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour mit dem Auto durch die weite Landschaft von Ortigueira. Wir besuchen herrschaftliche Pazo und alte Kirchen in der klaren Vormittagssonne. Mittags wärmt uns die Geschichte im Museum, bevor wir zu den Panoramapunkten fahren. Da die Sonne bereits um 17:00 Uhr sinkt, genießen wir den Sonnenuntergang am Strand bequem vom Sitz aus, bevor die kühle Winternacht hereinbricht.",
+            "hu": "Kényelmes téli autós túra Ortigueira tágas tájain. Reggel elegáns pazót és ősi templomokat látogatunk meg a tiszta délelőtti napsütésben. Délben a múzeumban melegszünk fel, majd a panorámapontok felé vesszük az irányt. Mivel a nap már 17:00-kor nyugszik, a naplementét a strandnál élvezzük az autó üléséből, mielőtt beállna a hűvös téli éjszaka.",
+            "ro": "Un tur confortabil de iarnă cu mașina prin peisajele vaste din Ortigueira. Vizităm conace elegante și biserici vechi în soarele clar al dimineții. La prânz ne încălzim în muzeu, apoi ne îndreptăm spre punctele panoramice. Deoarece soarele apune deja la ora 17:00, savurăm apusul la plajă din mașină, înainte de a se lăsa noaptea rece de iarnă.",
+            "en": "A cozy winter car tour through the vast landscapes of Ortigueira. We visit elegant manors and ancient churches in the clear morning sun. At noon, we warm up in the museum before heading to the panoramic points. Since the sun sets at 17:00, we enjoy the sunset at the beach from the comfort of the car before the cool winter night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pazo de Riomaior",
+                "hu": "Pazo de Riomaior",
+                "ro": "Pazo de Riomaior",
+                "en": "Pazo de Riomaior"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Fassade des Herrenhauses am Vormittag perfekt; nutzen Sie das klare Licht für Fotos, bevor Sie die Sitzheizung wieder einschalten.",
+                "hu": "A téli nap délelőtt tökéletesen megvilágítja az udvarház homlokzatát; használja ki a tiszta fényt a fotózáshoz, mielőtt visszakapcsolná az ülésfűtést.",
+                "ro": "Soarele de iarnă luminează perfect fațada conacului dimineața; profitați de lumina clară pentru fotografii înainte de a reporni încălzirea în scaune.",
+                "en": "The winter sun illuminates the manor facade perfectly in the morning; take advantage of the clear light for photos before turning the seat heating back on."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Xiao de Barbos",
+                "hu": "Igrexa de San Xiao de Barbos",
+                "ro": "Igrexa de San Xiao de Barbos",
+                "en": "Igrexa de San Xiao de Barbos"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche kann im Winter kühl sein; ein kurzer Besuch lohnt sich für die Architektur, bevor Sie die Fahrt durch die malerische Hügellandschaft fortsetzen.",
+                "hu": "A templom télen hűvös lehet; egy rövid látogatás megéri az építészet miatt, mielőtt folytatná az utat a festői dombok és a téli táj között.",
+                "ro": "Biserica poate fi răcoroasă iarna; o vizită scurtă merită pentru arhitectură, înainte de a continua drumul prin dealurile pitorești și peisajul de iarnă.",
+                "en": "The church can be cool in winter; a short visit is worth it for the architecture before continuing the drive through the picturesque hills and winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Ortegalia",
+                "hu": "Museo Ortegalia",
+                "ro": "Museo Ortegalia",
+                "en": "Museo Ortegalia"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Museum bietet die ideale Mittagspause; genießen Sie die Ausstellung in aller Ruhe, während draußen die kalte Winterluft vom Meer herüberweht.",
+                "hu": "A fűtött múzeum ideális déli pihenőpont; élvezze a kiállítást teljes nyugalomban, miközben odakint a hideg téli levegő fúj a tenger felől.",
+                "ro": "Muzeul încălzit oferă punctul ideal de odihnă la prânz; bucurați-vă de expoziție în liniște, în timp ce afară suflă aerul rece de iarnă dinspre mare.",
+                "en": "The heated museum provides the ideal midday rest point; enjoy the exhibition in peace while the cold winter air blows in from the sea outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo do Campo da Torre",
+                "hu": "Castelo do Campo da Torre",
+                "ro": "Castelo do Campo da Torre",
+                "en": "Castelo do Campo da Torre"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht über die Bucht ist im Winter oft klarer als im Sommer; parken Sie strategisch, um das Panorama windgeschützt aus dem Auto zu erleben.",
+                "hu": "Az öbölre nyíló kilátás télen gyakran tisztább, mint nyáron; parkoljon stratégiailag, hogy a panorámát szélvédett helyen, az autóból is élvezhesse.",
+                "ro": "Vederea spre golf este adesea mai clară iarna decât vara; parcați strategic pentru a vă bucura de panoramă din mașină, protejat de vânt.",
+                "en": "The distant view over the bay is often clearer in winter than in summer; park strategically to enjoy the panorama from the car while sheltered from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Puntal",
+                "hu": "Miradoiro do Puntal",
+                "ro": "Miradoiro do Puntal",
+                "en": "Miradoiro do Puntal"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie am frühen Nachmittag hierher, um das beste Licht auf der Ría zu erleben, bevor die Sonne tiefer sinkt und die Temperaturen spürbar fallen.",
+                "hu": "Érkezzen ide kora délután, hogy a legjobb fényekben lássa a Ríát, mielőtt a nap lejjebb süllyed, és a hőmérséklet érezhetően zuhanni kezdene.",
+                "ro": "Veniți aici după-amiaza devreme pentru a vedea Ría în cea mai bună lumină, înainte ca soarele să coboare și temperaturile să scadă vizibil.",
+                "en": "Arrive here in the early afternoon to see the Ría in the best light before the sun sinks lower and the temperatures begin to drop noticeably."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cabalar",
+                "hu": "Praia de Cabalar",
+                "ro": "Praia de Cabalar",
+                "en": "Praia de Cabalar"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht auf den Wellen ist spektakulär; bleiben Sie im Fahrzeug, um die wilde Schönheit der Küste komfortabel und warm zu beobachten.",
+                "hu": "A téli fény a hullámokon látványos; maradjon a járműben, hogy a part vad szépségét kényelmesen és melegben, fázás nélkül figyelhesse meg.",
+                "ro": "Lumina de iarnă pe valuri este spectaculoasă; rămâneți în vehicul pentru a observa frumusețea sălbatică a coastei confortabil și la căldură.",
+                "en": "The winter light on the waves is spectacular; stay in your vehicle to observe the wild beauty of the coast comfortably and warmly without getting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Morouzos",
+                "hu": "Praia de Morouzos",
+                "ro": "Praia de Morouzos",
+                "en": "Praia de Morouzos"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 17:00 Uhr direkt am Strandparkplatz; die Farben des Winterhimmels über dem Meer sind ein unvergesslicher Abschluss.",
+                "hu": "Élje át a naplementét 17:00 körül közvetlenül a strand parkolójából; a téli égbolt színei a tenger felett felejthetetlen lezárást adnak a napnak.",
+                "ro": "Experimentați apusul soarelui în jurul orei 17:00 direct din parcarea plajei; culorile cerului de iarnă peste mare sunt un final de zi de neuitat.",
+                "en": "Experience the sunset around 17:00 directly from the beach parking lot; the colors of the winter sky over the sea provide an unforgettable end to the day."
+              }
+            }
+          ]
+        }
       }
     }
   }

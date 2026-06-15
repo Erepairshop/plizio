@@ -160,6 +160,196 @@
         "hu": "A reggel Culiacán szívében kezdődik, ahol a MIA interaktív kiállításai lenyűgöző indulást biztosítanak. Egy rövid sétára a MASIN a régió kortárs művészetébe nyújt mélyebb betekintést egy gyönyörű épületben.\n\nA dél a Pablo de Villavicencio színháznál éri, kulturális örökségét felfedezve. A városi utcák pezsegnek, miközben a modern művészettől a Museo Regional történelmi gyökerei felé halad.\n\nA délután a természeté és a kikapcsolódásé a helyi állatkertben. Itt az árnyékos ösvények és a változatos állati élőhelyek frissítő szünetet kínálnak a városi nyüzsgés után.\n\nAz este közeledtével a Dicsőségcsarnokban fejezi be útját. Sinaloa sporthőseinek ünneplése inspiráló lezárást ad a művészettel, történelemmel és kultúrával teli napnak.",
         "ro": "Dimineața începe în inima orașului Culiacán, unde expozițiile interactive ale MIA oferă un start fascinant. La o scurtă plimbare, MASIN oferă o incursiune profundă în expresiile artistice contemporane ale regiunii.\n\nLa amiază vă aflați la teatrul Pablo de Villavicencio, explorând moștenirea sa culturală. Străzile orașului pulsează de energie pe măsură ce treceți de la arta modernă la istoria profundă a Museo Regional.\n\nDupă-amiaza se îndreaptă spre natură și recreere la grădina zoologică din Culiacán. Aici, cărările umbrite și diversele habitate ale animalelor oferă o pauză răcoroasă de la mediul urban.\n\nSeara se apropie în timp ce vă încheiați călătoria la Sala Faimei. Sărbătorirea eroilor sportivi din Sinaloa adaugă un final inspirat unei zile pline de istorie și cultură.",
         "en": "Morning begins in the heart of Culiacán, where the interactive exhibits of MIA provide a fascinating start to the day. Just a short stroll away, the MASIN offers a deep dive into the region's contemporary artistic expressions within a beautifully preserved building.\n\nMidday finds you at the Pablo de Villavicencio, exploring its cultural legacy before heading eastward. The city streets hum with local energy as you transition from modern art to the deep historical roots showcased at the Museo Regional de Sinaloa.\n\nAfternoon shifts towards nature and recreation at the Zoológico de Culiacán. Here, shaded paths and diverse animal habitats offer a refreshing break from the urban environment, perfect for a leisurely walk.\n\nEvening approaches as you conclude your journey at the Salón de la Fama. Celebrating the athletic heroes of Sinaloa adds an inspiring finish to a day filled with art, history, and vibrant local culture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag in modernen Museen, um den heftigen Regengüssen zu entgehen. Mittags bieten die kolonialen Mauern des Kunstmuseums einen sicheren und trockenen Rückzugsort. Am Nachmittag erkunden Sie die regionale Geschichte im Schutz fester Dächer. Den Abend verbringen Sie in der hell beleuchteten Ruhmeshalle, während draußen der Regen die Straßen Culiacáns kühlt.",
+            "hu": "Kezdje a napot modern múzeumokban, elkerülve a heves trópusi felhőszakadásokat. Délben a művészeti múzeum vastag gyarmati falai nyújtanak száraz menedéket. Délután fedett terekben fedezheti fel a régió történelmét, védve az esőtől. Az estét a fényesen kivilágított sportcsarnokban zárhatja, miközben az eső felfrissíti a város levegőjét.",
+            "ro": "Începeți ziua în muzee moderne pentru a evita aversele tropicale intense. La prânz, zidurile coloniale ale muzeului de artă oferă un refugiu sigur și uscat. După-amiaza, explorați istoria regională sub protecția acoperișurilor solide. Seara o puteți petrece în sala sportului bine luminată, în timp ce ploaia răcorește străzile orașului.",
+            "en": "Start your day in modern museums to avoid heavy tropical downpours. At noon, the thick colonial walls of the art museum provide a dry and safe sanctuary. In the afternoon, explore regional history protected by solid roofs. Spend the evening in the brightly lit hall of fame while the rain refreshes the city's air outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "MIA Museo Interactivo Contra Las Adicciones",
+                "hu": "MIA Museo Interactivo Contra Las Adicciones",
+                "ro": "MIA Museo Interactivo Contra Las Adicciones",
+                "en": "MIA Museo Interactivo Contra Las Adicciones"
+              },
+              "tip_5lang": {
+                "de": "Interaktive Ausstellungen in einem modernen, vollklimatisierten Gebäude; nutzen Sie die Garderobe für nasse Regenschirme, um die Technik ungestört zu testen.",
+                "hu": "Interaktív kiállítások egy modern, légkondicionált épületben; használja a ruhatárat a vizes esernyőknek, hogy kényelmesen próbálhassa ki a technikai eszközöket.",
+                "ro": "Expoziții interactive într-o clădire modernă, complet climatizată; folosiți garderoba pentru umbrelele ude pentru a testa tehnologia fără nicio grijă.",
+                "en": "Interactive exhibits in a modern, fully air-conditioned building; use the cloakroom for wet umbrellas to test the technology without any distractions."
+              }
+            },
+            {
+              "name": {
+                "de": "El Museo de Arte de Sinaloa (MASIN)",
+                "hu": "El Museo de Arte de Sinaloa (MASIN)",
+                "ro": "El Museo de Arte de Sinaloa (MASIN)",
+                "en": "El Museo de Arte de Sinaloa (MASIN)"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie mexikanische Kunst in einem historischen Palast; die hohen Decken und überdachten Gänge bieten perfekten Schutz vor der hohen Luftfeuchtigkeit draußen.",
+                "hu": "Csodálja meg a mexikói művészetet egy történelmi palotában; a magas mennyezet és a fedett folyosók tökéletes védelmet nyújtanak a kinti magas páratartalom ellen.",
+                "ro": "Admirați arta mexicană într-un palat istoric; tavanele înalte și coridoarele acoperite oferă protecție perfectă împotriva umidității ridicate de afară.",
+                "en": "Admire Mexican art in a historical palace; the high ceilings and covered corridors provide perfect protection against the high humidity outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pablo de Villavicencio",
+                "hu": "Pablo de Villavicencio",
+                "ro": "Pablo de Villavicencio",
+                "en": "Pablo de Villavicencio"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Zentrum mit beeindruckender Architektur; ideal, um bei Regen die moderne Foyer-Gestaltung zu bewundern und kurz innezuhalten.",
+                "hu": "Kulturális központ lenyűgöző építészettel; ideális helyszín az esőben a modern előcsarnok kialakításának megcsodálására és egy rövid pihenőre.",
+                "ro": "Centru cultural cu o arhitectură impresionantă; loc ideal pentru a admira designul modern al foierului în timpul ploii și pentru un scurt popas.",
+                "en": "A cultural center with impressive architecture; an ideal spot to admire the modern foyer design during the rain and take a short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Sinaloa",
+                "hu": "Museo Regional de Sinaloa",
+                "ro": "Museo Regional de Sinaloa",
+                "en": "Museo Regional de Sinaloa"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Wurzeln der Region in den trockenen Ausstellungsräumen; ein wasserfester Poncho ist für den kurzen Weg durch den Park empfehlenswert.",
+                "hu": "Fedezze fel a régió gyökereit a száraz kiállítótermekben; egy vízálló poncsó ajánlott a parkon keresztüli rövid sétához a bejáratig.",
+                "ro": "Descoperiți rădăcinile regiunii în sălile de expoziție uscate; se recomandă un pelerină de ploaie pentru scurta plimbare prin parc până la intrare.",
+                "en": "Discover the roots of the region in the dry exhibition halls; a waterproof poncho is recommended for the short walk through the park to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoológico de Culiacán",
+                "hu": "Zoológico de Culiacán",
+                "ro": "Zoológico de Culiacán",
+                "en": "Zoológico de Culiacán"
+              },
+              "tip_5lang": {
+                "de": "Viele Tiere sind bei Regen aktiver; nutzen Sie die überdachten Beobachtungspunkte und achten Sie auf rutschige Wege in der Nähe der Gehege.",
+                "hu": "Sok állat aktívabb az esőben; használja a fedett megfigyelőpontokat, és ügyeljen a csúszós utakra a kifutók közelében.",
+                "ro": "Multe animale sunt mai active pe ploaie; folosiți punctele de observare acoperite și aveți grijă la potecile alunecoase din apropierea țarcurilor.",
+                "en": "Many animals are more active in the rain; use the covered observation points and watch out for slippery paths near the enclosures."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la Fama Culiacán",
+                "hu": "Salón de la Fama Culiacán",
+                "ro": "Salón de la Fama Culiacán",
+                "en": "Salón de la Fama Culiacán"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie ein in die Sportgeschichte Sinaloas; dieses moderne Gebäude ist der perfekte, trockene Abschluss für einen regnerischen Tag in der Stadt.",
+                "hu": "Merüljön el Sinaloa sporttörténelmében; ez a modern épület tökéletes, száraz befejezése egy esős városi napnak.",
+                "ro": "Imersați-vă în istoria sportivă a statului Sinaloa; această clădire modernă este finalul perfect și uscat pentru o zi ploioasă în oraș.",
+                "en": "Immerse yourself in Sinaloa's sports history; this modern building is the perfect, dry conclusion to a rainy day in the city."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den milden Wintermorgen bei einem Spaziergang ohne die extreme Sommerhitze. Mittags ist das Licht in den historischen Höfen besonders sanft und fotogen. Nachmittags belebt die kühle Brise den Besuch im Zoo. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenbereiche frühzeitig erkunden und den Abend gemütlich ausklingen lassen.",
+            "hu": "Élvezze az enyhe téli reggelt egy sétával, a rekkenő nyári hőség nélkül. Délben a fények különösen lágyak és fotogének a történelmi udvarokon. Délután a friss szellő élénkítővé teszi a látogatást az állatkertben. Mivel a nap 17:00 körül nyugszik, érdemes korán felfedezni a szabadtéri részeket, majd egy kellemes helyen zárni a napot.",
+            "ro": "Bucurați-vă de dimineața blândă de iarnă cu o plimbare fără căldura extremă a verii. La prânz, lumina este deosebit de moale și fotogenă în curțile istorice. După-amiaza, briza răcoroasă face vizita la grădina zoologică revigorantă. Deoarece soarele apune în jur de 17:00, explorați zonele exterioare din timp.",
+            "en": "Enjoy the mild winter morning with a stroll without the extreme summer heat. At noon, the light is particularly soft and photogenic in the historical courtyards. In the afternoon, the cool breeze makes the zoo visit refreshing. As the sun sets around 17:00, explore the outdoor areas early and end the day comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "MIA Museo Interactivo Contra Las Adicciones",
+                "hu": "MIA Museo Interactivo Contra Las Adicciones",
+                "ro": "MIA Museo Interactivo Contra Las Adicciones",
+                "en": "MIA Museo Interactivo Contra Las Adicciones"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Start, wenn es morgens noch etwas kühl ist; die modernen Ausstellungen sind perfekt temperiert für einen entspannten Vormittag.",
+                "hu": "Ideális kezdés, amikor reggel még kissé hűvös van; a modern kiállítások tökéletes hőmérsékletűek egy kötetlen délelőtthöz.",
+                "ro": "Un început ideal când dimineața este încă puțin răcoare; expozițiile moderne au temperatura perfectă pentru o dimineață relaxată.",
+                "en": "An ideal start when it's still a bit cool in the morning; the modern exhibits are perfectly tempered for a relaxed morning."
+              }
+            },
+            {
+              "name": {
+                "de": "El Museo de Arte de Sinaloa (MASIN)",
+                "hu": "El Museo de Arte de Sinaloa (MASIN)",
+                "ro": "El Museo de Arte de Sinaloa (MASIN)",
+                "en": "El Museo de Arte de Sinaloa (MASIN)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das sanfte Winterlicht im Innenhof für Fotos; die kühleren Temperaturen machen den Aufenthalt im historischen Gebäude sehr angenehm.",
+                "hu": "Használja ki a belső udvar lágy téli fényeit a fotózáshoz; a hűvösebb hőmérséklet nagyon kellemessé teszi a tartózkodást a történelmi épületben.",
+                "ro": "Profitați de lumina blândă de iarnă din curtea interioară pentru fotografii; temperaturile mai scăzute fac șederea în clădirea istorică foarte plăcută.",
+                "en": "Take advantage of the soft winter light in the courtyard for photos; the cooler temperatures make the stay in the historical building very pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Pablo de Villavicencio",
+                "hu": "Pablo de Villavicencio",
+                "ro": "Pablo de Villavicencio",
+                "en": "Pablo de Villavicencio"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Kulturzentrum am frühen Nachmittag; die Wintersonne beleuchtet die Architektur besonders schön, bevor die Schatten länger werden.",
+                "hu": "Látogassa meg ezt a kulturális központot kora délután; a téli nap különösen szépen világítja meg az építészetet, mielőtt a negyed árnyékba borul.",
+                "ro": "Vizitați acest centru cultural la începutul după-amiezii; soarele de iarnă luminează arhitectura deosebit de frumos înainte ca umbrele să se lungească.",
+                "en": "Visit this cultural center in the early afternoon; the winter sun illuminates the architecture particularly beautifully before the shadows grow long."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Regional de Sinaloa",
+                "hu": "Museo Regional de Sinaloa",
+                "ro": "Museo Regional de Sinaloa",
+                "en": "Museo Regional de Sinaloa"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang durch den angrenzenden Park ist im Winter ein Genuss; die frische Luft ist eine willkommene Abwechslung zur Museumsbesichtigung.",
+                "hu": "A szomszédos parkban tett séta télen igazi élvezet; a friss levegő üdvözlendő változás a múzeumi tárlatvezetés után.",
+                "ro": "O plimbare prin parcul adiacent este o plăcere iarna; aerul curat este o schimbare binevenită după vizitarea muzeului.",
+                "en": "A stroll through the adjacent park is a treat in winter; the fresh air is a welcome change after the museum tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoológico de Culiacán",
+                "hu": "Zoológico de Culiacán",
+                "ro": "Zoológico de Culiacán",
+                "en": "Zoológico de Culiacán"
+              },
+              "tip_5lang": {
+                "de": "Die Tiere sind bei den milden Temperaturen wesentlich aktiver als im Sommer; kommen Sie vor 16 Uhr, um das Tageslicht voll auszunutzen.",
+                "hu": "Az állatok az enyhe hőmérsékleten sokkal aktívabbak, mint nyáron; érkezzen 16 óra előtt, hogy teljes mértékben kihasználja a nappali fényt.",
+                "ro": "Animalele sunt mult mai active la temperaturi blânde decât vara; veniți înainte de ora 16 pentru a profita din plin de lumina zilei.",
+                "en": "The animals are much more active in the mild temperatures than in summer; arrive before 4 PM to take full advantage of the daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Salón de la Fama Culiacán",
+                "hu": "Salón de la Fama Culiacán",
+                "ro": "Salón de la Fama Culiacán",
+                "en": "Salón de la Fama Culiacán"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den Tag zu beenden; wenn es nach 17 Uhr dunkel wird, bietet das Museum eine warme und inspirierende Atmosphäre.",
+                "hu": "Tökéletes hely a nap befejezéséhez; amikor 17 óra után besötétedik, a múzeum meleg és inspiráló légkört kínál.",
+                "ro": "Un loc perfect pentru a încheia ziua; când se întunecă după ora 17, muzeul oferă o atmosferă caldă și plină de inspirație.",
+                "en": "A perfect place to end the day; when it gets dark after 5 PM, the museum offers a warm and inspiring atmosphere."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a reggelt azzal, hogy elkerékpározik a Pablo de Villavicencio kulturális központjához. Gyorsan guruljon át a MIA múzeumba, hogy olyan modern kiállításokkal találkozzon, amelyek új perspektívákat nyitnak.\n\nA dél egy festői utazást tartogat az ikonikus Puente Negro felé. A hatalmas építmény melletti tekerés lenyűgöző kilátást nyújt a folyóra, és tökéletesen keretbe foglalja a város ipari örökségét.\n\nA délutáni energia fokozódik a Circo Rolex felé, majd a helyi gördeszkaparkban folytatódik, ahol megnézheti a város fiataljainak lenyűgöző trükkjeit.\n\nAz este közeledtével a Go Kartz felé veszi az irányt. A versenypálya adrenalinja izgalmas lezárást nyújt a kétkerekű kalandnak Culiacán nyüzsgő és változatos negyedein keresztül.",
         "ro": "Începeți-vă dimineața cu bicicleta spre centrul cultural Pablo de Villavicencio. Deplasați-vă rapid la muzeul MIA pentru a interacționa cu expoziții moderne care vă provoacă perspectiva asupra lumii.\n\nAmiaza aduce o plimbare pitorească spre emblematicul Puente Negro. Pedalând pe lângă această structură masivă vă oferă vederi spectaculoase asupra râului și moștenirii industriale.\n\nEnergia după-amiezii crește pe măsură ce vă îndreptați spre Circo Rolex, urmat de o vizită la skatepark-ul local unde puteți urmări tinerii orașului arătându-și trucurile impresionante.\n\nSeara cade în timp ce vă grăbiți la Go Kartz. Adrenalina de pe pistă oferă o concluzie palpitantă aventurii dumneavoastră pe două roți prin districtele vibrante și diverse ale orașului.",
         "en": "Start your morning cycling to the cultural hub of Pablo de Villavicencio, setting an inspiring tone for the day. Quickly glide over to the MIA museum to interact with modern exhibits that challenge your perspective.\n\nMidday brings a scenic ride towards the iconic Puente Negro. Pedaling past this massive structure offers spectacular views of the river and perfectly frames Culiacán's unique industrial heritage.\n\nAfternoon energy ramps up as you head to Circo Rolex for a taste of traditional entertainment, followed by a visit to the local Skatepark where you can watch the city's youth show off their impressive tricks.\n\nEvening falls as you race to Go Kartz. The adrenaline of the track provides a thrilling conclusion to your two-wheeled adventure through the vibrant and diverse districts of the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den glatten Straßen am Flussufer. Vormittags bieten kulturelle Stopps Schutz vor den schwersten Güssen. Mittags können Sie die Brücke bei dramatischer Bewölkung überqueren. Nachmittags ist bei Indoor-Aktivitäten eine Pause vom Wetter möglich. Tragen Sie auffällige Regenbekleidung, da die Sicht für Autofahrer eingeschränkt sein kann.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a folyóparti csúszós utakon. Délelőtt a kulturális megállók nyújtanak menedéket a nehezebb záporok elől. Délben drámai felhőzet mellett kelhet át a hídon. Délután a fedett programok alatt pihenhet meg az időjárás elől. Viseljen feltűnő esőruházatot, mert a látási viszonyok korlátozottak lehetnek.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe drumurile alunecoase de pe malul râului. Dimineața, opririle culturale oferă adăpost de ploile grele. La prânz, puteți traversa podul sub nori dramatici. După-amiaza, activitățile indoor permit o pauză de la vremea rea. Purtați haine de ploaie reflectorizante pentru vizibilitate.",
+            "en": "Cycling in the rain requires caution on the slippery riverside paths. In the morning, cultural stops provide shelter from the heaviest showers. At noon, you can cross the bridge under dramatic cloud cover. In the afternoon, indoor activities offer a break from the weather. Wear bright rain gear as visibility for drivers may be limited."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pablo de Villavicencio",
+                "hu": "Pablo de Villavicencio",
+                "ro": "Pablo de Villavicencio",
+                "en": "Pablo de Villavicencio"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad im überdachten Bereich ab; das Foyer bietet einen trockenen Ort, um die Regenpause für die nächste Etappe abzuwarten.",
+                "hu": "Parkolja le kerékpárját a fedett részen; az előcsarnok száraz helyet biztosít, hogy megvárja az esőszünetet a következő szakasz előtt.",
+                "ro": "Parcați bicicleta în zona acoperită; foierul oferă un loc uscat pentru a aștepta oprirea ploii înainte de următoarea etapă.",
+                "en": "Park your bike in the covered area; the foyer provides a dry spot to wait for a break in the rain before the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "MIA Museo Interactivo Contra Las Adicciones",
+                "hu": "MIA Museo Interactivo Contra Las Adicciones",
+                "ro": "MIA Museo Interactivo Contra Las Adicciones",
+                "en": "MIA Museo Interactivo Contra Las Adicciones"
+              },
+              "tip_5lang": {
+                "de": "Ein moderner Stopp mit sicheren Abstellplätzen; ideal, um sich aufzuwärmen und die interaktiven Displays im Trockenen zu genießen.",
+                "hu": "Modern megálló biztonságos tárolókkal; ideális a bemelegedéshez és az interaktív kijelzők száraz helyen történő élvezetéhez.",
+                "ro": "O oprire modernă cu locuri de parcare sigure; ideal pentru a vă încălzi și a vă bucura de ecranele interactive la adăpost.",
+                "en": "A modern stop with secure bike storage; ideal for warming up and enjoying the interactive displays in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Negro",
+                "hu": "Puente Negro",
+                "ro": "Puente Negro",
+                "en": "Puente Negro"
+              },
+              "tip_5lang": {
+                "de": "Die Eisenbrücke wirkt im Regen sehr imposant; fahren Sie besonders vorsichtig, da die Metall- und Holzplanken extrem rutschig werden.",
+                "hu": "A vashíd nagyon impozáns az esőben; közlekedjen különösen óvatosan, mivel a fém- és fapadlók rendkívül csúszóssá válnak.",
+                "ro": "Podul de fier arată foarte impunător pe ploaie; pedalați cu mare atenție, deoarece plăcile de metal și lemn devin extrem de alunecoase.",
+                "en": "The iron bridge looks very imposing in the rain; ride extra carefully as the metal and wood planks become extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Circo Rolex",
+                "hu": "Circo Rolex",
+                "ro": "Circo Rolex",
+                "en": "Circo Rolex"
+              },
+              "tip_5lang": {
+                "de": "Das Zelt bietet einen großartigen Schutz vor plötzlichen Schauern; genießen Sie die Show, während das Trommeln des Regens die Atmosphäre verstärkt.",
+                "hu": "A sátor nagyszerű védelmet nyújt a hirtelen záporok elől; élvezze az előadást, miközben az eső kopogása fokozza a hangulatot.",
+                "ro": "Cortul oferă o protecție excelentă împotriva averselor bruște; bucurați-vă de spectacol în timp ce sunetul ploii accentuează atmosfera.",
+                "en": "The tent provides great protection from sudden showers; enjoy the show while the drumming of the rain enhances the atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Skatepark",
+                "hu": "Skatepark",
+                "ro": "Skatepark",
+                "en": "Skatepark"
+              },
+              "tip_5lang": {
+                "de": "Bei Nässe ist das Skaten gefährlich; nutzen Sie die Zeit für eine kleine Radreinigung unter den überdachten Unterständen in der Nähe.",
+                "hu": "Nedves időben a deszkázás veszélyes; használja ki az időt egy kis kerékpártisztításra a közeli fedett beállók alatt.",
+                "ro": "Pe timp umed, skatingul este periculos; folosiți timpul pentru o scurtă curățare a bicicletei sub adăposturile acoperite din apropiere.",
+                "en": "Skating is dangerous when wet; use the time for a quick bike cleaning under the nearby covered shelters."
+              }
+            },
+            {
+              "name": {
+                "de": "Go Kartz",
+                "hu": "Go Kartz",
+                "ro": "Go Kartz",
+                "en": "Go Kartz"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Strecke bei Regen geöffnet ist; das Fahren auf nasser Bahn erfordert Geschick und bietet einen besonderen Adrenalinkick.",
+                "hu": "Ellenőrizze, hogy az esőben nyitva van-e a pálya; a vizes aszfalton való vezetés ügyességet igényel és különleges adrenalint ad.",
+                "ro": "Verificați dacă pista este deschisă pe ploaie; condusul pe pistă umedă necesită îndemânare și oferă o doză specială de adrenalină.",
+                "en": "Check if the track is open in the rain; driving on a wet track requires skill and provides a special adrenaline rush."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die beste Zeit für Radtouren in Culiacán, da die Luft angenehm frisch ist. Vormittags radeln Sie entspannt durch die Stadtlandschaft. Mittags bietet die Sonne angenehme Wärme ohne zu brennen. Nachmittags erreichen Sie die Parks, bevor die frühe Dämmerung einsetzt. Achten Sie ab 17:00 Uhr auf gute Beleuchtung an Ihrem Fahrrad für die Rückfahrt.",
+            "hu": "A tél a legjobb időszak a kerékpározáshoz Culiacánban, mivel a levegő kellemesen friss. Délelőtt pihentetően tekerhet át a városi tájon. Délben a nap kellemes meleget ad anélkül, hogy égetne. Délután érje el a parkokat, mielőtt beáll a korai szürkület. 17:00 után ügyeljen a jó kerékpárvilágításra a hazaúthoz.",
+            "ro": "Iarna este cea mai bună perioadă pentru plimbări cu bicicleta în Culiacán, aerul fiind plăcut și proaspăt. Dimineața, pedalați relaxat prin peisajul urban. La prânz, soarele oferă o căldură plăcută fără a arde. După-amiaza, ajungeți în parcuri înainte de amurgul timpuriu. După ora 17, asigurați-vă că aveți lumini bune.",
+            "en": "Winter is the best time for cycling in Culiacán as the air is pleasantly fresh. In the morning, enjoy a relaxed ride through the urban landscape. At noon, the sun provides pleasant warmth without burning. In the afternoon, reach the parks before the early dusk sets in. After 17:00, ensure good lighting on your bike for the return trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pablo de Villavicencio",
+                "hu": "Pablo de Villavicencio",
+                "ro": "Pablo de Villavicencio",
+                "en": "Pablo de Villavicencio"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier mit einer leichten Jacke; die morgendliche Brise am Fluss kann im Winter kühl sein, bis die Sonne höher steht.",
+                "hu": "Kezdjen itt egy könnyű kabátban; a reggeli szellő a folyóparton hűvös lehet télen, amíg a nap magasabbra nem ér.",
+                "ro": "Începeți aici cu o jachetă ușoară; briza matinală de lângă râu poate fi răcoroasă iarna până când soarele urcă mai sus pe cer.",
+                "en": "Start here with a light jacket; the morning breeze by the river can be cool in winter until the sun gets higher."
+              }
+            },
+            {
+              "name": {
+                "de": "MIA Museo Interactivo Contra Las Adicciones",
+                "hu": "MIA Museo Interactivo Contra Las Adicciones",
+                "ro": "MIA Museo Interactivo Contra Las Adicciones",
+                "en": "MIA Museo Interactivo Contra Las Adicciones"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort für eine Pause; das Museum bietet eine konstante Temperatur, was nach der Anfahrt an der frischen Luft sehr angenehm ist.",
+                "hu": "Nagyszerű hely egy pihenőhöz; a múzeum állandó hőmérsékletet biztosít, ami a friss levegőn való tekerés után nagyon kellemes.",
+                "ro": "Un loc excelent pentru o pauză; muzeul oferă o temperatură constantă, ceea ce este foarte plăcut după pedalatul în aerul curat.",
+                "en": "A great place for a break; the museum provides a constant temperature, which is very pleasant after riding in the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Negro",
+                "hu": "Puente Negro",
+                "ro": "Puente Negro",
+                "en": "Puente Negro"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den Fluss ist im Winterlicht besonders klar; halten Sie kurz an, um den Panoramablick ohne die Hitze zu genießen.",
+                "hu": "A folyóra nyíló kilátás a téli fényben különösen tiszta; álljon meg egy pillanatra, hogy élvezze a panorámát a hőség nélkül.",
+                "ro": "Vederea spre râu este deosebit de clară în lumina iernii; opriți-vă un moment pentru a vă bucura de panoramă fără arșiță.",
+                "en": "The view of the river is particularly clear in the winter light; stop for a moment to enjoy the panorama without the heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Circo Rolex",
+                "hu": "Circo Rolex",
+                "ro": "Circo Rolex",
+                "en": "Circo Rolex"
+              },
+              "tip_5lang": {
+                "de": "Die Zeltatmosphäre ist im Winter sehr gemütlich; nutzen Sie die Nachmittagsvorstellung, bevor die Temperaturen am Abend sinken.",
+                "hu": "A sátor hangulata télen nagyon barátságos; használja ki a délutáni előadást, mielőtt este lehűlne a levegő.",
+                "ro": "Atmosfera din cort este foarte primitoare iarna; profitați de spectacolul de după-amiază înainte ca temperaturile să scadă seara.",
+                "en": "The tent atmosphere is very cozy in winter; take advantage of the afternoon show before the temperatures drop in the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Skatepark",
+                "hu": "Skatepark",
+                "ro": "Skatepark",
+                "en": "Skatepark"
+              },
+              "tip_5lang": {
+                "de": "Perfektes Wetter für Action; die Wintersonne ist mild genug, um sich länger auszupowern, ohne schnell zu überhitzen.",
+                "hu": "Tökéletes idő az akcióhoz; a téli nap elég enyhe ahhoz, hogy tovább fárassza magát anélkül, hogy gyorsan túlhevülne.",
+                "ro": "Vreme perfectă pentru acțiune; soarele de iarnă este destul de blând pentru a face mișcare mai mult timp fără a vă supraîncălzi rapid.",
+                "en": "Perfect weather for action; the winter sun is mild enough to exercise longer without overheating quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Go Kartz",
+                "hu": "Go Kartz",
+                "ro": "Go Kartz",
+                "en": "Go Kartz"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier vor dem Sonnenuntergang um 17 Uhr; die kühle Abendluft macht das schnelle Fahren auf der Bahn noch erfrischender.",
+                "hu": "Fejezze be túráját itt a 17 órai naplemente előtt; a hűvös esti levegő még frissítőbbé teszi a gyors gokartozást.",
+                "ro": "Încheiați turul aici înainte de apusul de la ora 17; aerul răcoros de seară face condusul rapid pe pistă și mai revigorant.",
+                "en": "End your tour here before sunset at 5 PM; the cool evening air makes fast karting even more refreshing."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A reggel a Centro de Ciencias de Sinaloa-nál indul, ahol a modern kiállítások megragadják a képzeletét. Autóval könnyedén átkelhet az El Cruce De Los Quiqes nyüzsgő városi csomópontjához.\n\nA dél közeledtével a culiacáni állatkertbe hajt. A városon való átkelés lehetővé teszi, hogy nyugodtan sétáljon az egzotikus állatok között anélkül, hogy a tömegközlekedés miatt aggódna.\n\nA délután a MASIN művészeti kincseinek van fenntartva, amelyet egy gyors autózás követ az ikonikus Puente Negro hatalmas sziluettjének megcsodálására.\n\nAz este egy rövid utazással zárul a Parque Temático-ba. A kiterjedt területek és a fantáziadús installációk tökéletes módot kínálnak a város átfogó autós túrájának lezárására.",
         "ro": "Dimineața începe la Centro de Ciencias, unde expozițiile de ultimă generație vă captează imaginația. Cu o mașină, traversați cu ușurință orașul spre intersecția aglomerată El Cruce De Los Quiqes.\n\nAmiaza se apropie în timp ce conduceți spre grădina zoologică din Culiacán. Traversarea orașului vă permite să vă bucurați de o plimbare relaxantă printre animalele exotice, fără griji.\n\nDupă-amiaza este rezervată comorilor artistice de la MASIN, urmată de o scurtă plimbare pentru a vă minuna de silueta impunătoare a Puente Negro pe cerul târziu.\n\nSeara se încheie cu o excursie la Parque Temático. Terenurile întinse și decorurile pline de imaginație oferă un mod perfect și relaxant de a vă încheia turul cuprinzător al orașului.",
         "en": "Morning kicks off at the Centro de Ciencias de Sinaloa, where cutting-edge displays and a massive meteorite capture your imagination. With a car, you easily traverse to the energetic urban spot of El Cruce De Los Quiqes.\n\nMidday approaches as you drive to the Zoológico de Culiacán. Navigating across town allows you to enjoy a leisurely stroll among exotic wildlife without worrying about transit delays.\n\nAfternoon is reserved for the artistic treasures at MASIN, followed by a quick drive to marvel at the imposing silhouette of Puente Negro against the late-afternoon sky.\n\nEvening concludes with a short trip to Parque Temático Más Culiacán. The sprawling grounds and imaginative setups offer a perfect, relaxing way to wind down your comprehensive driving tour of the city."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist an regnerischen Tagen in Culiacán das komfortabelste Verkehrsmittel. Vormittags erreichen Sie Museen trocken, trotz verstopfter Straßen. Mittags parken Sie nah an den Eingängen, um lange Wege im Guss zu vermeiden. Nachmittags können Sie die Stadtansichten sicher aus dem Fenster genießen. Rechnen Sie mit längeren Fahrzeiten durch Aquaplaning-Gefahr auf den Hauptstraßen.",
+            "hu": "Az autó a legkényelmesebb közlekedési eszköz Culiacánban esős napokon. Délelőtt szárazon érheti el a múzeumokat a zsúfolt utak ellenére is. Délben parkoljon közel a bejáratokhoz, hogy elkerülje a hosszú sétát a szakadó esőben. Délután az ablakból biztonságban élvezheti a város látképét. Számoljon hosszabb menetidővel a főutakon kialakuló vízátfolyások miatt.",
+            "ro": "Mașina este cel mai confortabil mijloc de transport în Culiacán în zilele ploioase. Dimineața ajungeți uscat la muzee, în ciuda traficului intens. La prânz, parcați aproape de intrări pentru a evita plimbările lungi prin ploaie. După-amiaza, puteți admira orașul în siguranță de la fereastră. Anticipați timpi de parcurs mai mari din cauza riscului de acvaplanare.",
+            "en": "The car is the most comfortable way to get around Culiacán on rainy days. In the morning, you reach museums dry despite congested roads. At noon, park close to entrances to avoid long walks in the downpour. In the afternoon, you can safely enjoy city views from the window. Expect longer travel times due to the risk of aquaplaning on main roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro de Ciencias de Sinaloa",
+                "hu": "Centro de Ciencias de Sinaloa",
+                "ro": "Centro de Ciencias de Sinaloa",
+                "en": "Centro de Ciencias de Sinaloa"
+              },
+              "tip_5lang": {
+                "de": "Ein riesiger Indoor-Komplex; parken Sie direkt am Haupteingang, um bei dem starken Regen nicht nass zu werden, bevor Sie das Museum betreten.",
+                "hu": "Hatalmas fedett komplexum; parkoljon közvetlenül a főbejáratnál, hogy a szakadó esőben ne ázzon el, mielőtt belépne a múzeumba.",
+                "ro": "Un complex indoor imens; parcați chiar la intrarea principală pentru a nu vă uda în ploaia torențială înainte de a intra în muzeu.",
+                "en": "A huge indoor complex; park right at the main entrance to avoid getting wet in the heavy rain before entering the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "El Cruce De Los Quiqes",
+                "hu": "El Cruce De Los Quiqes",
+                "ro": "El Cruce De Los Quiqes",
+                "en": "El Cruce De Los Quiqes"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses Wahrzeichen aus dem sicheren Auto heraus; die dramatischen Wolken bieten einen tollen Hintergrund für ein schnelles Foto.",
+                "hu": "Tekintse meg ezt a látnivalót a biztonságos autóból; a drámai felhők remek hátteret biztosítanak egy gyors fotóhoz az ablakon keresztül.",
+                "ro": "Priviți acest punct de reper din siguranța mașinii; norii dramatici oferă un fundal excelent pentru o fotografie rapidă de la fereastră.",
+                "en": "View this landmark from the safety of your car; the dramatic clouds provide a great backdrop for a quick photo through the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoológico de Culiacán",
+                "hu": "Zoológico de Culiacán",
+                "ro": "Zoológico de Culiacán",
+                "en": "Zoológico de Culiacán"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Vogelvoliere und andere überdachte Gehege; das Auto bietet einen trockenen Rückzugsort zwischen den verschiedenen Zoobereichen.",
+                "hu": "Látogassa meg a madárházat és más fedett kifutókat; az autó száraz menedéket nyújt az állatkert különböző területei közötti közlekedéshez.",
+                "ro": "Vizitați voliera și alte țarcuri acoperite; mașina oferă un refugiu uscat pentru deplasarea între diferitele zone ale grădinii zoologice.",
+                "en": "Visit the aviary and other covered enclosures; the car provides a dry sanctuary for moving between the different zoo areas."
+              }
+            },
+            {
+              "name": {
+                "de": "El Museo de Arte de Sinaloa (MASIN)",
+                "hu": "El Museo de Arte de Sinaloa (MASIN)",
+                "ro": "El Museo de Arte de Sinaloa (MASIN)",
+                "en": "El Museo de Arte de Sinaloa (MASIN)"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp bei Regen; die Ausstellungen im Inneren sind weitläufig und bieten Schutz, während draußen die tropischen Güsse niedergehen.",
+                "hu": "Tökéletes megálló esőben; a belső kiállítások tágasak és védelmet nyújtanak, miközben kint a trópusi felhőszakadás zúdul.",
+                "ro": "O oprire perfectă pe ploaie; expozițiile interioare sunt spațioase și oferă protecție în timp ce afară se dezlănțuie aversele tropicale.",
+                "en": "A perfect stop in the rain; the indoor exhibits are spacious and provide protection while the tropical downpours fall outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Negro",
+                "hu": "Puente Negro",
+                "ro": "Puente Negro",
+                "en": "Puente Negro"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam über die nassen Straßen in Flussnähe; die Beleuchtung der Brücke im Regen ist besonders stimmungsvoll für Auto-Passagiere.",
+                "hu": "Vezessen lassan a folyó menti vizes utakon; a híd megvilágítása az esőben különösen hangulatos az autó utasai számára.",
+                "ro": "Conduceți încet pe drumurile umede de lângă râu; iluminatul podului pe ploaie este deosebit de sugestiv pentru pasagerii mașinii.",
+                "en": "Drive slowly on the wet roads near the river; the lighting of the bridge in the rain is particularly atmospheric for car passengers."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Temático Más Culiacán",
+                "hu": "Parque Temático Más Culiacán",
+                "ro": "Parque Temático Más Culiacán",
+                "en": "Parque Temático Más Culiacán"
+              },
+              "tip_5lang": {
+                "de": "Viele Attraktionen sind überdacht; nutzen Sie den Parkplatz direkt vor Ort und achten Sie auf Pfützen beim Ein- und Aussteigen.",
+                "hu": "Számos látnivaló fedett; használja a helyi parkolót, és ügyeljen a tócsákra a kocsiba való be- és kiszálláskor.",
+                "ro": "Multe atracții sunt acoperite; folosiți parcarea de la fața locului și aveți grijă la bălți când urcați sau coborâți din mașină.",
+                "en": "Many attractions are covered; use the on-site parking and watch out for puddles when getting in and out of the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das angenehme Winterwetter für eine entspannte Fahrt durch Culiacán. Vormittags sind die Straßen klar und die Sicht ist bei tiefstehender Sonne hervorragend. Mittags können Sie problemlos zwischen den Spots wechseln, ohne dass das Auto überhitzt. Planen Sie Ihre letzte Fahrt vor 17:00 Uhr, um den malerischen Sonnenuntergang über dem Fluss vom Auto aus zu erleben.",
+            "hu": "Használja ki a kellemes téli időjárást egy pihentető autózáshoz Culiacánban. Délelőtt az utak tiszták, a látási viszonyok pedig kiválóak az alacsonyan járó napnál. Délben gond nélkül válthat a helyszínek között anélkül, hogy az autó túlmelegedne. Tervezze az utolsó utat 17:00 előtt, hogy az autóból láthassa a festői naplementét a folyó felett.",
+            "ro": "Profitați de vremea plăcută de iarnă pentru o plimbare relaxantă prin Culiacán. Dimineața, drumurile sunt libere, iar vizibilitatea este excelentă cu soarele jos. La prânz, puteți schimba locațiile fără ca mașina să se supraîncălzească. Planificați ultima cursă înainte de ora 17 pentru a vedea apusul pitoresc peste râu.",
+            "en": "Take advantage of the pleasant winter weather for a relaxed drive through Culiacán. In the morning, the roads are clear and visibility is excellent with the low sun. At noon, you can easily switch between spots without the car overheating. Plan your last drive before 5 PM to experience the scenic sunset over the river from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centro de Ciencias de Sinaloa",
+                "hu": "Centro de Ciencias de Sinaloa",
+                "ro": "Centro de Ciencias de Sinaloa",
+                "en": "Centro de Ciencias de Sinaloa"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Start in den Tag; die Klimatisierung ist im Winter sanfter eingestellt, was den Besuch besonders angenehm macht.",
+                "hu": "Nagyszerű kezdés a naphoz; a légkondicionálás télen enyhébbre van állítva, ami különösen kellemessé teszi a látogatást.",
+                "ro": "Un început de zi excelent; climatizarea este setată pe un mod mai blând iarna, ceea ce face vizita deosebit de plăcută.",
+                "en": "A great start to the day; the air conditioning is set more gently in winter, making the visit particularly pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "El Cruce De Los Quiqes",
+                "hu": "El Cruce De Los Quiqes",
+                "ro": "El Cruce De Los Quiqes",
+                "en": "El Cruce De Los Quiqes"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an für ein Foto bei strahlend blauem Winterhimmel; die Luft ist klarer als im Sommer, was für bessere Fernsichten sorgt.",
+                "hu": "Álljon meg egy rövid fotóra a ragyogó kék téli égbolt alatt; a levegő tisztább, mint nyáron, ami jobb távoli kilátást biztosít.",
+                "ro": "Opriți-vă scurt pentru o fotografie sub cerul senin de iarnă; aerul este mai curat decât vara, asigurând o vizibilitate mai bună la distanță.",
+                "en": "Stop for a quick photo under the bright blue winter sky; the air is clearer than in summer, providing better long-distance views."
+              }
+            },
+            {
+              "name": {
+                "de": "Zoológico de Culiacán",
+                "hu": "Zoológico de Culiacán",
+                "ro": "Zoológico de Culiacán",
+                "en": "Zoológico de Culiacán"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter entspannter; genießen Sie den Zoo am Mittag, wenn die Sonne die Gehege angenehm erwärmt.",
+                "hu": "A parkolás télen sokkal nyugodtabb; élvezze az állatkertet délben, amikor a nap kellemesen melengeti a kifutókat.",
+                "ro": "Căutarea locului de parcare este mai relaxată iarna; bucurați-vă de grădina zoologică la prânz, când soarele încălzește plăcut țarcurile.",
+                "en": "Finding parking is more relaxed in winter; enjoy the zoo at noon when the sun pleasantly warms the enclosures."
+              }
+            },
+            {
+              "name": {
+                "de": "El Museo de Arte de Sinaloa (MASIN)",
+                "hu": "El Museo de Arte de Sinaloa (MASIN)",
+                "ro": "El Museo de Arte de Sinaloa (MASIN)",
+                "en": "El Museo de Arte de Sinaloa (MASIN)"
+              },
+              "tip_5lang": {
+                "de": "Das historische Viertel lässt sich im Winter gut befahren; parken Sie in der Nähe und genießen Sie die kühle Brise in den Museumsfluren.",
+                "hu": "A történelmi negyed télen jól autózható; parkoljon a közelben, és élvezze a hűvös szellőt a múzeum folyosóin.",
+                "ro": "Cartierul istoric este ușor de parcurs iarna; parcați în apropiere și bucurați-vă de briza răcoroasă de pe coridoarele muzeului.",
+                "en": "The historical district is easy to navigate in winter; park nearby and enjoy the cool breeze in the museum corridors."
+              }
+            },
+            {
+              "name": {
+                "de": "Puente Negro",
+                "hu": "Puente Negro",
+                "ro": "Puente Negro",
+                "en": "Puente Negro"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag; die Wintersonne geht direkt hinter der Brücke unter, was vom Auto aus spektakulär aussieht.",
+                "hu": "Tökéletes késő délutánra; a téli nap közvetlenül a híd mögött nyugszik le, ami az autóból nézve látványos élmény.",
+                "ro": "Perfect pentru sfârșitul după-amiezii; soarele de iarnă apune chiar în spatele podului, oferind o priveliște spectaculoasă din mașină.",
+                "en": "Perfect for late afternoon; the winter sun sets directly behind the bridge, which looks spectacular from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Temático Más Culiacán",
+                "hu": "Parque Temático Más Culiacán",
+                "ro": "Parque Temático Más Culiacán",
+                "en": "Parque Temático Más Culiacán"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss vor Einbruch der Dunkelheit um 17 Uhr; die frische Abendluft macht den Spaziergang durch den Park sehr angenehm.",
+                "hu": "Szép befejezés a 17 órai sötétedés előtt; a friss esti levegő nagyon kellemessé teszi a sétát a parkban.",
+                "ro": "Un final frumos înainte de lăsarea întunericului de la ora 17; aerul proaspăt de seară face plimbarea prin parc foarte plăcută.",
+                "en": "A nice conclusion before dark at 5 PM; the fresh evening air makes the walk through the park very pleasant."
+              }
+            }
+          ]
+        }
       }
     }
   }

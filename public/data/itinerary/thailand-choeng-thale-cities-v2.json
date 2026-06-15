@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Choeng Thale nyüzsgő központjában, az elegáns szabadtéri bevásárlóközpontban. Később találjon nyugalmat a helyi főtemplomban, csodálva a thai motívumokat a reggeli fényben.\n\nFolytassa a kulturális felfedezést a modern Lotus Arenában, elmerülve az építészeti hangulatban. Kapjon be egy falatot, mielőtt a hatalmas Blue Tree vízipark felé veszi az irányt.\n\nTöltse a délutánját a kristálytiszta lagúna körüli szabadidős létesítmények élvezetével. Akár úszik, akár csak pihen, az élénk energia tökéletes trópusi kikapcsolódást nyújt.\n\nZárja sétáját az ikonikus maraton helyszínénél. Tegyen egy kellemes sétát a kövezett ösvényeken a lemenő nap fényében, és gondoljon vissza erre a tökéletesen kiegyensúlyozott phuketi napra.",
         "ro": "Începeți ziua în centrul aglomerat din Choeng Thale, explorând elegantul mall în aer liber. Mai târziu, găsiți un moment de liniște la frumosul templu principal al comunității, admirând designurile thailandeze.\n\nContinuați explorarea culturală cu o vizită la moderna Lotus Arena. Luați o gustare în apropiere înainte de a vă îndrepta spre imensul parc acvatic Blue Tree pentru o după-amiază dinamică.\n\nPetreceți după-amiaza bucurându-vă de facilitățile de agrement din jurul lagunei cristaline. Fie că înotați sau doar vă relaxați la soare, energia vibrantă oferă evadarea tropicală perfectă.\n\nÎncheiați turul pietonal lângă zona emblematică a maratonului. Bucurați-vă de o plimbare relaxantă pe aleile pavate la apus, reflectând la o zi perfect echilibrată în frumoasa insulă Phuket.",
         "en": "Start your day in the bustling heart of Choeng Thale, browsing the elegant open-air lifestyle mall. Later, find a moment of peace and reflection at the community's beautiful main temple, admiring the intricate Thai designs in the morning light.\n\nContinue your cultural exploration with a visit to the modern Lotus Arena, soaking in the architectural ambiance. Grab a bite nearby before heading towards the expansive Blue Tree water park for a dynamic afternoon.\n\nSpend the core of your afternoon enjoying the recreational facilities around the crystal lagoon. Whether you prefer swimming or simply lounging by the water, the vibrant energy provides the perfect tropical escape.\n\nConclude your walking tour near the iconic marathon grounds, a symbol of local health and fitness. Enjoy a leisurely stroll along the paved pathways as the sun sets, reflecting on a perfectly balanced day in Phuket."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen mit einem Regenschirm im Porto de Phuket. Mittags sollten Sie auf den nassen Fliesen des Wat Choeng Thale aufpassen. Nachmittags bieten Lotus Arena und Blue Tree überdachte Bereiche bei heftigen Schauern. Beenden Sie den nassen Abend am weitläufigen Marathon-Gelände.",
+            "hu": "Indítsa a reggelt esernyővel a Porto de Phuket üzleteinél. Délben vigyázzon a csúszós csempékre a Wat Choeng Thale templomnál. Délután a Lotus Arena és a Blue Tree fedett menedéket nyújt a záporok elől. Az esős estét a Maraton nyitott helyszínén zárhatja.",
+            "ro": "Începeți dimineața cu o umbrelă la magazinele Porto de Phuket. La prânz, atenție la gresia umedă de la Wat Choeng Thale. După-amiaza vă aduce la Lotus Arena și Blue Tree, unde găsiți zone acoperite în timpul ploilor torențiale. Încheiați seara umedă la locația Maratonului.",
+            "en": "Start the morning with a sturdy umbrella at Porto de Phuket's shops. By noon, watch your step on the wet temple tiles at Wat Choeng Thale. The afternoon brings you to Lotus Arena and Blue Tree, where you can easily find covered areas during showers. End the wet evening at the Marathon site."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto de Phuket",
+                "hu": "Porto de Phuket",
+                "ro": "Porto de Phuket",
+                "en": "Porto de Phuket"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Einkaufszentrum und flüchten Sie bei plötzlichen Schauern in die vielen einladenden Boutiquen.",
+                "hu": "Fedezze fel a bevásárlóközpontot, és húzódjon be a butikokba egy hirtelen trópusi zápor esetén.",
+                "ro": "Explorați centrul comercial și refugiați-vă în buticuri în timpul ploilor bruște și abundente.",
+                "en": "Browse the open-air mall, taking immediate refuge in the boutiques during sudden tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Choeng Thale",
+                "hu": "Wat Choeng Thale",
+                "ro": "Wat Choeng Thale",
+                "en": "Wat Choeng Thale"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Tempeldetails, aber tragen Sie unbedingt rutschfeste Schuhe für die nassen, glatten Höfe.",
+                "hu": "Csodálja meg a templom részleteit, de viseljen jó tapadású, csúszásgátló cipőt a nedves udvarokon.",
+                "ro": "Admirați detaliile templului, dar purtați neapărat încălțăminte aderentă pe curțile foarte alunecoase.",
+                "en": "Admire the vibrant temple details, but definitely wear shoes with good grip for the slippery wet courtyards."
+              }
+            },
+            {
+              "name": {
+                "de": "Lotus Arena",
+                "hu": "Lotus Arena",
+                "ro": "Lotus Arena",
+                "en": "Lotus Arena"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie hier kulturelle Veranstaltungen und nutzen Sie die großen Dächer, um völlig trocken zu bleiben.",
+                "hu": "Tekintse meg a kulturális eseményeket, a hatalmas tetőszerkezetek alatt teljesen szárazon maradhat.",
+                "ro": "Urmăriți evenimentele culturale aici, folosind acoperișurile masive pentru a rămâne complet uscat.",
+                "en": "Check out the cultural events here, utilizing the large roof structures to stay completely dry during storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Tree",
+                "hu": "Blue Tree",
+                "ro": "Blue Tree",
+                "en": "Blue Tree"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die überdachten Restaurants bei Regen und bewahren Sie Ihre Sachen in wasserdichten Taschen auf.",
+                "hu": "Élvezze a park fedett éttermeit esőben, és tartsa értékeit megbízható vízálló táskában a séták során.",
+                "ro": "Bucurați-vă de restaurantele acoperite pe timp de ploaie, păstrând lucrurile în genți complet impermeabile.",
+                "en": "Enjoy the park's indoor dining options when it rains, safely keeping your belongings in waterproof bags."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Marathon",
+                "hu": "Phuket Maraton",
+                "ro": "Maratonul Phuket",
+                "en": "Phuket Marathon"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den Startpunkt des berühmten Rennens und bringen Sie einen Regenmantel für den Nieselregen mit.",
+                "hu": "Nézze meg a híres verseny rajtját, és hozzon magával egy megbízható esőkabátot a folyamatos esti szitáláshoz.",
+                "ro": "Vedeți punctul de plecare al celebrei curse, aducând o pelerină de ploaie pentru burnița de seară.",
+                "en": "See the starting point of the famous race, bringing a reliable raincoat for the persistent evening drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgenspaziergang beginnt am Porto de Phuket. Der Mittag ist ideal, um Wat Choeng Thale ohne Hitze zu besuchen. Der Nachmittag bei Lotus Arena und Blue Tree ist angenehm mild. Stellen Sie sich auf einen frühen Sonnenuntergang gegen 17:00 Uhr mit wärmerer Kleidung ein.",
+            "hu": "A hűvös reggeli séta a Porto de Phuketnél kezdődik. A dél tökéletes a Wat Choeng Thale meglátogatására túlhevülés nélkül. A délután a Lotus Arenában és a Blue Tree-nél kellemesen enyhe. Készüljön a korai, 17:00 órás naplementére egy meleg réteggel az estére.",
+            "ro": "O plimbare matinală răcoroasă începe la Porto de Phuket. Prânzul e perfect pentru a vizita Wat Choeng Thale fără a vă supraîncălzi. După-amiaza la Lotus Arena și Blue Tree este blândă. Pregătiți-vă pentru un apus devreme la 17:00 cu o haină călduroasă la finalul zilei.",
+            "en": "A crisp morning walk starts at Porto de Phuket. Midday is perfect for visiting Wat Choeng Thale without overheating. The afternoon at Lotus Arena and Blue Tree is pleasantly mild. Be prepared for an early 17:00 sunset, bringing a warm layer for the evening near the Marathon site."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porto de Phuket",
+                "hu": "Porto de Phuket",
+                "ro": "Porto de Phuket",
+                "en": "Porto de Phuket"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich einen warmen Kaffee vor dem Einkaufen, da die Morgenluft überraschend frisch sein kann.",
+                "hu": "Igyon egy meleg kávét vásárlás előtt, mivel a reggeli levegő meglepően csípős és hűvös lehet itt.",
+                "ro": "Luați o cafea caldă înainte de cumpărături, deoarece aerul dimineții poate fi destul de rece și proaspăt.",
+                "en": "Grab a warm coffee before browsing the stores, as the morning air can be surprisingly crisp and cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Choeng Thale",
+                "hu": "Wat Choeng Thale",
+                "ro": "Wat Choeng Thale",
+                "en": "Wat Choeng Thale"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die friedlichen Tempelanlagen absolut bequem in der deutlich kühleren Winterbrise.",
+                "hu": "Fedezze fel a békés templomkert területét sokkal kényelmesebben a hűvösebb téli szellőben.",
+                "ro": "Explorați curtea liniștită a templului confortabil și fără grabă în briza mai rece de iarnă.",
+                "en": "Explore the peaceful temple grounds comfortably, taking advantage of the significantly cooler winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Lotus Arena",
+                "hu": "Lotus Arena",
+                "ro": "Lotus Arena",
+                "en": "Lotus Arena"
+              },
+              "tip_5lang": {
+                "de": "Schauen Sie sich ein Event an und halten Sie einen leichten Pullover für den kühler werdenden Nachmittag bereit.",
+                "hu": "Nézzen meg egy helyi eseményt, de tartson kéznél egy vékony pulóvert a gyorsan hűlő délutánra.",
+                "ro": "Urmăriți un eveniment local, având la îndemână un pulover subțire pe măsură ce se răcește vizibil.",
+                "en": "Watch a local match or event, keeping a light sweater handy as the late afternoon starts cooling down."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Tree",
+                "hu": "Blue Tree",
+                "ro": "Blue Tree",
+                "en": "Blue Tree"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist erfrischend, aber wickeln Sie sich wegen der kühleren Temperatur schnell in ein Handtuch.",
+                "hu": "A víz frissítő, de a hűvösebb hőmérséklet miatt gyorsan burkolózzon egy vastag meleg törölközőbe.",
+                "ro": "Apa este revigorantă, dar înveliți-vă rapid într-un prosop cald din cauza temperaturii ambientale scăzute.",
+                "en": "The water is refreshing, but wrap up quickly in a warm towel due to the noticeably cooler ambient temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Marathon",
+                "hu": "Phuket Maraton",
+                "ro": "Maratonul Phuket",
+                "en": "Phuket Marathon"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie um die Startlinie und genießen Sie den Abend eingepackt in einer gemütlichen äußeren Schicht.",
+                "hu": "Sétáljon az ikonikus rajtvonal körül, és élvezze az estét egy kényelmes, széltől védő meleg felsőben.",
+                "ro": "Plimbați-vă în jurul liniei de start, bucurându-vă de seară înfășurat într-o haină exterioară confortabilă.",
+                "en": "Walk around the iconic starting line, enjoying the darker evening wrapped in a cozy outer layer."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpáros kalandját a békés helyi templomnál. Tekerjen el a hatalmas szabadidős lagúnához, hogy elcsípje a nyüzsgő reggeli hangulatot, mielőtt a déli hőség beköszöntene.\n\nGuruljon át a stílusos szabadtéri bevásárlófaluba egy megérdemelt ebédszünetre. Ezután kerékpározzon el a maraton területének széles sávjai mellett, élvezve a zöldterületeket.\n\nNavigáljon át a fényűző Laguna üdülőközponton, hogy megtalálja a lenyűgöző lebegő esküvői kápolnát. A víz felől érkező lágy szellő különösen frissítővé teszi az utat.\n\nFejezze be az útját a lenyűgöző, hat kilométer hosszú tengerparton. Parkolja le a kerékpárt, és nézze végig a látványos trópusi naplementét az Andamán-tenger felett.",
         "ro": "Începeți aventura pe bicicletă la liniștitul templu local. Pedați către imensa lagună de agrement pentru a prinde atmosfera plină de viață a dimineții înainte să se instaleze căldura amiezii.\n\nMergeți către elegantul sat de cumpărături în aer liber pentru o pauză de prânz. Apoi, pedalați pe lângă aleile largi ale zonei de maraton, bucurându-vă de mersul lin și de spațiile verzi.\n\nNavigați prin complexul luxos Laguna pentru a găsi uimitoarea capelă de nunți plutitoare. Briza blândă de pe apele din jur face această parte a plimbării deosebit de pitorească.\n\nTerminați călătoria pe uimitoarea plajă lungă de șase kilometri. Parcați bicicleta și urmăriți un apus tropical spectaculos peste Marea Andaman pentru a încheia ziua activă.",
         "en": "Kick off your cycling adventure at the serene local temple, a perfect quiet start. Pedal your way to the massive recreational lagoon to catch the lively morning atmosphere before the midday heat sets in.\n\nCruise over to the stylish open-air shopping village for a well-deserved break and lunch. Afterward, cycle past the wide lanes of the marathon area, enjoying the smooth riding conditions and open green spaces.\n\nNavigate through the luxurious Laguna resort complex to find the stunning floating wedding chapel. The gentle breeze off the surrounding waters makes this part of the ride particularly refreshing and picturesque.\n\nFinish your journey at the stunning six-kilometer stretch of beach. Park your bike and sink your toes into the soft sand, watching a spectacular tropical sunset over the Andaman Sea to cap off your active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgenschauer bedeuten nasse Straßen zum Tempel. Mittagsregen zwingt zu Pausen bei Blue Tree; Poncho einpacken! Fahren Sie vorsichtig auf rutschigem Asphalt zur Kapelle. Der Abend am Bang Tao Beach ist stimmungsvoll; achten Sie auf tiefe Pfützen am Küstenweg.",
+            "hu": "A reggeli záporok vizes utakat jelentenek a Wat Choeng Thale felé. Délben tartson pihenőt a Blue Tree-nél, hozzon poncsót. Óvatosan tekerjen a csúszós aszfalton az Esküvői Kápolna felé. A Bang Tao Beach este borús, figyeljen a mély tócsákra.",
+            "ro": "Ploile matinale aduc drumuri umede spre Wat Choeng Thale. La prânz faceți o pauză la Blue Tree, aduceți un poncho. Mergeți cu grijă pe asfaltul alunecos spre Capelă. Seara la plaja Bang Tao este melancolică; atenție la bălțile adânci.",
+            "en": "Morning showers mean wet roads to Wat Choeng Thale. Midday rain might force a stop at Blue Tree or Porto de Phuket, so pack a poncho. Ride carefully on slippery tarmac towards the Chapel. Evening at Bang Tao Beach is moody; watch out for deep puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Choeng Thale",
+                "hu": "Wat Choeng Thale",
+                "ro": "Wat Choeng Thale",
+                "en": "Wat Choeng Thale"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie unter großen Bäumen, um den Sattel trocken zu halten, während Sie den nassen Tempel ansehen.",
+                "hu": "Parkoljon a fák alá, hogy a nyereg száraz maradjon, míg a nedves csillogó tetőket csodálja.",
+                "ro": "Parcați sub copaci mari pentru a menține șaua uscată în timp ce admirați acoperișurile umede.",
+                "en": "Park your bike under the trees to keep the saddle relatively dry while viewing the wet temple roofs."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Tree",
+                "hu": "Blue Tree",
+                "ro": "Blue Tree",
+                "en": "Blue Tree"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Zufluchtsort vor Regen; prüfen Sie nach der Pause unbedingt Ihre Bremsen bei Nässe.",
+                "hu": "Kiváló fedett menedék a vihar elől; indulás előtt mindig ellenőrizze a kerékpár fékjeit a nedves időben.",
+                "ro": "Un refugiu excelent de ploaie înăuntru; asigurați-vă că frânele bicicletei funcționează perfect pe ud.",
+                "en": "A great indoor refuge from the sudden rain; always be sure your bike brakes work well in the wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto de Phuket",
+                "hu": "Porto de Phuket",
+                "ro": "Porto de Phuket",
+                "en": "Porto de Phuket"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in den Cafés Schutz und lassen Sie Ihre tropfende Regenkleidung am Eingang abtropfen.",
+                "hu": "Húzódjon be a kávézókba felmelegedni, és hagyja az esőruhát a bejáratnál nyugodtan lecsepegni.",
+                "ro": "Adăpostiți-vă în cafenele primitoare, lăsând pelerina de ploaie să se scurgă la intrare.",
+                "en": "Take shelter in the cafes here, safely leaving your soaked rain gear to drip-dry at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Marathon",
+                "hu": "Phuket Maraton",
+                "ro": "Maratonul Phuket",
+                "en": "Phuket Marathon"
+              },
+              "tip_5lang": {
+                "de": "Die offenen Straßen können sehr rutschig sein; fahren Sie langsam und tragen Sie gut sichtbare Regenkleidung.",
+                "hu": "A nyitott utak itt extra csúszósak lehetnek, tekerjen lassan és viseljen jól látható élénk esőruhát.",
+                "ro": "Drumurile deschise pot fi foarte alunecoase, mergeți încet și purtați haine impermeabile vizibile.",
+                "en": "The open roads here can get extremely slick, so ride slowly and wear bright waterproof clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Angsana Laguna Wedding Chapel",
+                "hu": "Angsana Laguna Esküvői Kápolna",
+                "ro": "Capela Angsana Laguna",
+                "en": "Angsana Laguna Wedding Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune sieht im Regen dramatisch aus. Gehen Sie hinein, um sich kurz aufzuwärmen und abzutrocknen.",
+                "hu": "A lagúna lenyűgözően drámai esőben. Lépjen be egy kis menedékre, melegedésre és szárítkozásra.",
+                "ro": "Laguna arată dramatic și impresionant în ploaie. Intrați pentru a vă încălzi și usca puțin.",
+                "en": "The lagoon looks striking in the rain. Step inside the available spaces to warm up and dry off briefly."
+              }
+            },
+            {
+              "name": {
+                "de": "Bang Tao Beach",
+                "hu": "Bang Tao Part",
+                "ro": "Plaja Bang Tao",
+                "en": "Bang Tao Beach"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Strand ist wunderbar verlassen; halten Sie Ihr Rad aber fern vom weichen, schlammigen Sand.",
+                "hu": "Az esős part gyönyörűen elhagyatott és csendes, de feltétlenül tartsa távol a biciklit a saras homoktól.",
+                "ro": "Plaja ploioasă este frumos de pustie, dar țineți cu siguranță bicicleta departe de nisipul noroios.",
+                "en": "The rainy beach is beautifully desolate, but make sure to keep your bike completely out of the muddy sand."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine frische Morgenfahrt zum Tempel. Die milde Mittagssonne macht die Fahrt mühelos. Nachmittags werden die Schatten zur Kapelle schnell länger. Erreichen Sie Bang Tao Beach für den spektakulären Sonnenuntergang um 17:00 Uhr; dicke Jacke nicht vergessen.",
+            "hu": "Élvezze a frissítő reggeli tekerést a templom felé. Az enyhe déli nap megkönnyíti az utat. A délutáni árnyékok gyorsan megnyúlnak a Kápolna felé. Érjen a Bang Tao Beachre a 17:00 órás naplementére, és feltétlenül hozzon meleg kabátot hazafelé.",
+            "ro": "Bucurați-vă de o plimbare matinală spre Wat Choeng Thale. Soarele blând face mersul pe bicicletă ușor. Umbrele se lungesc rapid spre Capelă. Ajungeți la plajă pentru apusul de la 17:00 cu o jachetă foarte caldă pentru întoarcere.",
+            "en": "Enjoy a brisk morning ride to Wat Choeng Thale. The mild midday sun makes cycling to Blue Tree effortless. Afternoon shadows lengthen quickly as you head to the Chapel. Reach Bang Tao Beach for a beautiful 17:00 sunset, bringing a warm jacket for the ride home."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Choeng Thale",
+                "hu": "Wat Choeng Thale",
+                "ro": "Wat Choeng Thale",
+                "en": "Wat Choeng Thale"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft macht die Erkundung des Tempels auf dem Fahrrad viel angenehmer als im Sommer.",
+                "hu": "A hűvös reggeli levegő sokkal kényelmesebbé teszi a templom felfedezését kerékpárral, mint nyáron.",
+                "ro": "Aerul rece al dimineții face explorarea templului pe bicicletă mult mai confortabilă decât vara.",
+                "en": "The cool morning air makes cycling and exploring the temple complex far more comfortable than in summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Tree",
+                "hu": "Blue Tree",
+                "ro": "Blue Tree",
+                "en": "Blue Tree"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad an und wärmen Sie sich mit einem heißen Getränk vor den Wasseraktivitäten auf.",
+                "hu": "Zárja le biztonságosan a biciklit, és melegedjen fel egy forró itallal a hűvösebb vízi kalandok előtt.",
+                "ro": "Legați bicicleta și încălziți-vă cu o băutură caldă înainte de activitățile acvatice din parc.",
+                "en": "Lock up the bike and warm up with a hot drink here before dipping into any cool water activities."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto de Phuket",
+                "hu": "Porto de Phuket",
+                "ro": "Porto de Phuket",
+                "en": "Porto de Phuket"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie mühelos und ohne zu schwitzen in der erfrischenden Winterbrise durch das Dorf.",
+                "hu": "Tekerjen át a szabadtéri falun teljesen izzadás nélkül, hála a kifejezetten kellemes téli szellőnek.",
+                "ro": "Pedalați ușor prin satul în aer liber fără să transpirați deloc în briza răcoroasă de iarnă.",
+                "en": "Cycle through the outdoor village easily without breaking a sweat thanks to the pleasant winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Marathon",
+                "hu": "Phuket Maraton",
+                "ro": "Maratonul Phuket",
+                "en": "Phuket Marathon"
+              },
+              "tip_5lang": {
+                "de": "Eine tolle flache Strecke zum Radeln. Die spürbar kühleren Temperaturen halten die Energie hoch.",
+                "hu": "Kiváló sík szakasz a tempós tekeréshez. A hűvösebb idő sokkal tovább magasan tartja az energiaszintet.",
+                "ro": "O porțiune plată excelentă pentru ciclism. Temperaturile mai reci vă mențin energia la nivel optim.",
+                "en": "A great flat stretch for cycling. The distinctly cooler temperatures keep your physical energy levels high."
+              }
+            },
+            {
+              "name": {
+                "de": "Angsana Laguna Wedding Chapel",
+                "hu": "Angsana Laguna Esküvői Kápolna",
+                "ro": "Capela Angsana Laguna",
+                "en": "Angsana Laguna Wedding Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne taucht die Kapelle in ein goldenes Licht, absolut perfekt für Nachmittagsfotos.",
+                "hu": "Az alacsony téli nap arany ragyogást vet a kápolnára, ami egyszerűen tökéletes a késő délutáni fotókhoz.",
+                "ro": "Soarele jos de iarnă aruncă o strălucire aurie asupra capelei, absolut perfectă pentru fotografii.",
+                "en": "The low winter sun casts a brilliant golden glow over the chapel, perfectly timed for late afternoon photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Bang Tao Beach",
+                "hu": "Bang Tao Part",
+                "ro": "Plaja Bang Tao",
+                "en": "Bang Tao Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie und genießen Sie die frühe Dämmerung um 17:00 Uhr. Ziehen Sie dringend einen dicken Pullover an.",
+                "hu": "Parkoljon le és élvezze a korai, 17:00 órás szürkületet. Vegyen fel egy vastag pulóvert a tengeri szél ellen.",
+                "ro": "Parcați și bucurați-vă de amurgul devreme la 17:00. Puneți-vă un pulover gros împotriva brizei mării.",
+                "en": "Park the bike and enjoy the early twilight around 17:00. Put on a thick sweater against the chilly sea breeze."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a tisztelt helyi templom békés meglátogatásával. Innen egyenesen az etikus elefántrezervátumba hajtson, hogy a kora reggeli órákban megfigyelhesse e fenséges lényeket.\n\nVezessen a nyüzsgő vízipark és lagúna területére, majd élvezze az energiát. Folytassa útját a modern kulturális aréna felé, értékelve a helyszín lenyűgöző kortárs építészetét.\n\nTartson egy ebédszünetet a kifinomult szabadtéri bevásárlóközpontban. Ezután navigáljon át a Laguna komplexumon, fotószüneteket tartva a maraton rajtjánál és a festői lebegő kápolnánál.\n\nParkoljon le a kiterjedt fő strand közelében a nappal utolsó óráira. Sétáljon a part mentén, élvezze az óceáni szellőt, és csodálja meg a híres phuketi naplementét.",
         "ro": "Începeți turul cu mașina cu o vizită la templul local venerat. De acolo, mergeți direct la rezervația etică de elefanți pentru a petrece dimineața devreme observând aceste creaturi maiestuoase.\n\nConduceți către parcul acvatic și zona lagunei, oprindu-vă pentru a vă bucura de energie. Continuați spre arena culturală modernă, apreciind arhitectura contemporană a locației.\n\nFaceți o pauză pentru prânz la sofisticatul mall în aer liber. După ce vă revigorați, navigați prin complexul Laguna, făcând scurte opriri foto la startul maratonului și la capela plutitoare.\n\nParcați lângă plaja extinsă pentru ultimele ore de lumină. Plimbați-vă pe țărm, bucurați-vă de briza oceanului și admirați renumitul apus de soare din Phuket de pe o terasă la plajă.",
         "en": "Start your driving tour with a peaceful visit to the revered local temple. From there, head directly to the ethical elephant reserve to spend your early morning observing these majestic creatures in their sanctuary.\n\nDrive to the vibrant water park and lagoon area, stopping to stretch your legs and enjoy the energetic vibe. Continue on to the modern cultural arena, appreciating the striking contemporary architecture of the venue.\n\nTake a break for lunch and shopping at the sophisticated open-air lifestyle mall. Once refreshed, navigate through the pristine Laguna complex, making short photo stops at the marathon start and the picturesque floating chapel.\n\nPark near the expansive stretch of the main beach for the final hours of daylight. Stroll along the shoreline, enjoy the ocean breeze, and settle in at a beachfront spot to admire the renowned Phuket sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie sicher im Morgenregen zum Tempel. Mittags kann das Elefantenreservat schlammig sein, Gummistiefel einpacken. Blue Tree und Lotus Arena bieten überdachte Zuflucht. Den verregneten Abend an Kapelle und Strand genießt man am besten aus dem trockenen Auto.",
+            "hu": "Vezessen óvatosan a reggeli esőben a templomhoz. A déli záporok sárral járhatnak a rezervátumban. A Blue Tree és a Lotus Arena kényelmes fedett menedék. Este a kápolnát és a partot biztonságosan élvezheti a meleg, száraz autóból nézve.",
+            "ro": "Conduceți în siguranță în ploaia matinală spre templu. La prânz rezervația de elefanți poate fi plină de noroi. Blue Tree și Lotus Arena oferă refugii acoperite masive. Seara la Capelă și plajă este cel mai bine savurată din mașina uscată.",
+            "en": "Drive safely in the morning rain to Wat Choeng Thale. Midday showers might make the Elephant Reserve muddy, so bring boots. Blue Tree and Lotus Arena offer quick indoor escapes. Evening at the Chapel and Beach is best enjoyed from your warm, dry car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Choeng Thale",
+                "hu": "Wat Choeng Thale",
+                "ro": "Wat Choeng Thale",
+                "en": "Wat Choeng Thale"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie ganz nah am Eingang und nutzen Sie einen Regenschirm; achten Sie auf sehr glatten Boden.",
+                "hu": "Parkoljon minél közelebb, és használjon esernyőt; fokozottan figyeljen a csúszós burkolatra a templomnál.",
+                "ro": "Parcați foarte aproape și folosiți o umbrelă; atenție mare la pavajul alunecos de la complexul templului.",
+                "en": "Park extremely close to the entrance and use an umbrella; watch carefully for slick pavement on the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Nature Elephant Reserve",
+                "hu": "Phuket Nature Elefántrezervátum",
+                "ro": "Rezervația de Elefanți Phuket Nature",
+                "en": "Phuket Nature Elephant Reserve"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich auf Schlamm ein; Gummistiefel sind wichtig, und die Elefanten lieben den kühlen Regen!",
+                "hu": "Sárra számíthat; a gumicsizma itt kötelező, az elefántok pedig egyenesen imádják a hűsítő esőt!",
+                "ro": "Așteptați-vă la mult noroi; cizmele de cauciuc sunt esențiale, iar elefanții adoră ploaia răcoroasă!",
+                "en": "Expect a very muddy experience; wellies are essential, and the elephants actually love the cooling rain!"
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Tree",
+                "hu": "Blue Tree",
+                "ro": "Blue Tree",
+                "en": "Blue Tree"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie ein Handtuch im Auto bereit, wenn Sie vom nassen Parkplatz schnell nach drinnen rennen.",
+                "hu": "Tartson egy extra törölközőt az autóban, hogy megszáradjon a parkolóból a fedett zónákba futás után.",
+                "ro": "Țineți un prosop uscat în mașină pentru a vă șterge după ce alergați din parcare spre zonele interioare.",
+                "en": "Keep a fresh towel in the car to dry off after dashing from the wet parking lot to the indoor zones."
+              }
+            },
+            {
+              "name": {
+                "de": "Lotus Arena",
+                "hu": "Lotus Arena",
+                "ro": "Lotus Arena",
+                "en": "Lotus Arena"
+              },
+              "tip_5lang": {
+                "de": "Das Auto ist absolut perfekt, um Ihre empfindlichen Sachen vor den Indoor-Events trocken zu halten.",
+                "hu": "Az autó tökéletes bázis a felszerelés és elektronika szárazon tartására a benti események előtt.",
+                "ro": "Mașina este perfectă pentru a păstra echipamentul sensibil uscat înaintea evenimentelor interioare de aici.",
+                "en": "The car is absolutely perfect for keeping your sensitive gear completely dry before attending indoor events."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto de Phuket",
+                "hu": "Porto de Phuket",
+                "ro": "Porto de Phuket",
+                "en": "Porto de Phuket"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie unbedingt die überdachten Parkplätze, um beim Aussteigen und Einkaufen nicht nass zu werden.",
+                "hu": "Mindenképp használja ki a fedett parkolókat, hogy garantáltan ne ázzon el a vásárlás megkezdésekor.",
+                "ro": "Profitați neapărat de parcarea acoperită pentru a nu vă uda deloc în timpul sesiunii de cumpărături.",
+                "en": "Take full advantage of underground or covered parking to avoid getting soaked while shopping here."
+              }
+            },
+            {
+              "name": {
+                "de": "Angsana Laguna Wedding Chapel",
+                "hu": "Angsana Laguna Esküvői Kápolna",
+                "ro": "Capela Angsana Laguna",
+                "en": "Angsana Laguna Wedding Chapel"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie im trockenen Auto auf eine Regenpause, bevor Sie aussteigen, um die Lagune zu fotografieren.",
+                "hu": "Várja meg a kényelmes autóban az esőszünetet, mielőtt kiszállna lefotózni a viharos lagúnát.",
+                "ro": "Așteptați în mașină o scurtă pauză de ploaie înainte de a ieși să fotografiați spectaculoasa lagună.",
+                "en": "Wait inside the car for a brief break in the heavy rain before stepping out to photograph the lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Bang Tao Beach",
+                "hu": "Bang Tao Part",
+                "ro": "Plaja Bang Tao",
+                "en": "Bang Tao Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean und beobachten Sie die stürmischen Wellen sicher im Trockenen.",
+                "hu": "Parkoljon közvetlenül az óceán felé, és nézze a viharos trópusi hullámokat teljes kényelemben, szárazon.",
+                "ro": "Parcați cu fața direct la ocean pentru a privi valurile furtunoase tropicale în confort absolut și uscat.",
+                "en": "Park facing the ocean to watch the dramatic stormy tropical waves in total comfort, staying perfectly dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kühle Fahrt zum Tempel ist der perfekte Start. Der Mittag bei den Elefanten und Blue Tree ist angenehm ohne Hitze. Nachmittags fahren Sie entspannt zur Lotus Arena. Fahren Sie vor dem frühen Sonnenuntergang um 17:00 Uhr zum Strand; dichten Mantel mitnehmen.",
+            "hu": "Egy hűvös reggeli autózás a templomhoz remek kezdés. A dél az elefántoknál és a Blue Tree-nél kellemes az intenzív hőség nélkül. Később kényelmesen irány a Lotus Arena. Érjen a partra a korai 17:00 órás naplemente előtt, és feltétlenül hozzon meleg kabátot.",
+            "ro": "O plimbare răcoroasă cu mașina spre templu e un început perfect. Prânzul la elefanți și Blue Tree e extrem de plăcut fără căldură intensă. După-amiaza la Lotus Arena. Mergeți la plajă înainte de apusul de la 17:00, aducând o haină foarte caldă.",
+            "en": "A cool morning drive to Wat Choeng Thale starts the day right. Midday at the Elephant Reserve and Blue Tree is pleasant without the intense heat. By afternoon, visit Lotus Arena. Head to the Beach before the early 17:00 sunset, bringing a very warm coat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Choeng Thale",
+                "hu": "Wat Choeng Thale",
+                "ro": "Wat Choeng Thale",
+                "en": "Wat Choeng Thale"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die malerische Fahrt mit offenen Fenstern und lassen Sie die frische Winterluft in die Kabine.",
+                "hu": "Élvezze a festői utat teljesen lehúzott ablakokkal, beengedve a friss, ropogós téli levegőt a fülkébe.",
+                "ro": "Bucurați-vă de peisaj cu geamurile complet lăsate, lăsând aerul rece și proaspăt de iarnă în mașină.",
+                "en": "Enjoy the scenic drive with windows fully down, letting the famously crisp winter air fill the cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Phuket Nature Elephant Reserve",
+                "hu": "Phuket Nature Elefántrezervátum",
+                "ro": "Rezervația de Elefanți Phuket Nature",
+                "en": "Phuket Nature Elephant Reserve"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen leichten Pullover im Auto bereit, da die Dschungelpfade im Schatten erstaunlich kühl sind.",
+                "hu": "Tartson egy vékony pulóvert az autóban, mert a sűrű erdei ösvények meglepően hűvösek lehetnek az árnyékban.",
+                "ro": "Păstrați un pulover în mașină, deoarece potecile dense din junglă pot fi surprinzător de reci la umbră.",
+                "en": "Keep a light sweater in the car, as the dense jungle paths can be surprisingly cool when standing in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Tree",
+                "hu": "Blue Tree",
+                "ro": "Blue Tree",
+                "en": "Blue Tree"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Auto schnell mit der Heizung auf, nachdem Sie das kühle Wasser verlassen haben.",
+                "hu": "Melegedjen fel a fűtött autóban gyorsan, miután kijött a park szabadtéri, kissé hűvös medencéiből.",
+                "ro": "Încălziți-vă rapid cu căldura mașinii după ce ieșiți din apa rece a atracțiilor în aer liber din parc.",
+                "en": "Warm up in the car quickly using the heater after leaving the cool water of the park's outdoor attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Lotus Arena",
+                "hu": "Lotus Arena",
+                "ro": "Lotus Arena",
+                "en": "Lotus Arena"
+              },
+              "tip_5lang": {
+                "de": "Das erfreulich milde Wetter macht den kurzen Fußweg vom Parkplatz zur Arena viel angenehmer als sonst.",
+                "hu": "Az enyhe, kellemes időjárás sokkal élvezetesebbé teszi a rövid sétát a kijelölt parkolóból az arénáig.",
+                "ro": "Vremea deosebit de blândă face plimbarea scurtă de la parcare la arenă mult mai plăcută și relaxantă.",
+                "en": "The exceptionally mild weather makes walking from the main car park to the arena much more enjoyable today."
+              }
+            },
+            {
+              "name": {
+                "de": "Porto de Phuket",
+                "hu": "Porto de Phuket",
+                "ro": "Porto de Phuket",
+                "en": "Porto de Phuket"
+              },
+              "tip_5lang": {
+                "de": "Der Kofferraum ist absolut perfekt, um die Kleidungsschichten zu verstauen, die Sie mittags ablegen.",
+                "hu": "Az autó tágas csomagtartója tökéletes a déli napfényben levetett felesleges meleg rétegek tárolására.",
+                "ro": "Portbagajul e absolut perfect pentru a depozita straturile groase pe care le dați jos la soarele prânzului.",
+                "en": "The trunk space is absolutely perfect for storing the extra layers you peel off during the midday sun here."
+              }
+            },
+            {
+              "name": {
+                "de": "Angsana Laguna Wedding Chapel",
+                "hu": "Angsana Laguna Esküvői Kápolna",
+                "ro": "Capela Angsana Laguna",
+                "en": "Angsana Laguna Wedding Chapel"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie entspannt an, um das schwindende Nachmittagslicht zu sehen, das im Winter sehr früh untergeht.",
+                "hu": "Érkezzen kényelmesen, hogy még lássa az évnek ebben a szakában jóval korábban halványuló délutáni fényt.",
+                "ro": "Ajungeți confortabil pentru a vedea lumina după-amiezii, care scade semnificativ mai devreme iarna.",
+                "en": "Arrive comfortably in the car to see the fading afternoon light, which dips much earlier around this time of year."
+              }
+            },
+            {
+              "name": {
+                "de": "Bang Tao Beach",
+                "hu": "Bang Tao Part",
+                "ro": "Plaja Bang Tao",
+                "en": "Bang Tao Beach"
+              },
+              "tip_5lang": {
+                "de": "Verstauen Sie eine dicke Decke im Auto, um den frühen Sonnenuntergang um 17:00 Uhr warm am Strand zu sehen.",
+                "hu": "Tegyen be egy vastag takarót a kocsiba, hogy kényelmesen, melegen nézhesse a korai, 17:00 órás naplementét.",
+                "ro": "Păstrați o pătură foarte groasă în mașină pentru a privi apusul devreme la 17:00 cu căldură pe nisip.",
+                "en": "Stash a thick blanket in your car trunk for watching the early 17:00 sunset warmly and comfortably on the sand."
+              }
+            }
+          ]
+        }
       }
     }
   }

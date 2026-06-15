@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a falu ősi sikátorainak és kőhomlokzatainak felfedezésével, miközben belélegzi a lucaniai Dolomitok friss, tiszta hegyi levegőjét.\n\nDélben merüljön el a közvetlenül a drámai sziklákba vájt történelmi erődítményekben, amelyek lenyűgöző panorámát kínálnak a vidékre.\n\nA délutánt töltse a rejtett építészeti kincsek és a régi vidéki építmények felfedezésével, amelyek ezen egyedülálló régió történetét mesélik el.\n\nZárja a napot a falu szívében pihenve, miközben a lemenő nap aranyló fénybe öltözteti az önt körülvevő zord hegycsúcsokat és völgyeket.",
         "ro": "Începeți dimineața explorând aleile antice și fațadele de piatră ale satului, respirând aerul proaspăt de munte al Dolomiților Lucanieni.\n\nLa prânz, scufundați-vă în istoria fortărețelor sculptate direct în stâncile abrupte, care oferă panorame spectaculoase asupra peisajului.\n\nPetreceți după-amiaza descoperind comorile arhitecturale ascunse și vechile structuri rurale care spun povestea fascinantă a acestei regiuni.\n\nÎncheiați ziua relaxându-vă în inima satului, în timp ce soarele la apus aruncă o strălucire aurie peste vârfurile stâncoase din jurul vostru.",
         "en": "Start your morning exploring the ancient alleys and stone facades of the village, breathing in the fresh mountain air of the Lucanian Dolomites.\n\nBy midday, immerse yourself in the historical fortresses carved directly into the dramatic cliffs, offering spectacular panoramic vistas.\n\nSpend the afternoon discovering the hidden architectural gems and old rural structures that tell the fascinating story of this unique region.\n\nConclude your day relaxing in the heart of the village as the setting sun casts a golden glow over the rugged mountain peaks around you."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Stille der Kirche, geschützt vor dem Regen. Mittags erkunden wir die nebligen Gassen, die zum Zentrum führen. Am Nachmittag bieten die Festungsruinen inmitten der Wolken eine mystische Aussicht. Am Abend spiegeln sich die Lichter auf dem nassen Kopfsteinpflaster, während wir uns in ein gemütliches Lokal zurückziehen.",
+            "hu": "A reggel a templom csendjében indul, védve az esőtől. Délben a ködös, szűk utcákon átvágva fedezzük fel a központot. Délután a várromok közül misztikus kilátás nyílik a felhőkbe burkolózó tájra. Este a vizes macskaköveken megcsillanó fények kísérnek minket, miközben egy barátságos, fedett helyen pihenünk meg.",
+            "ro": "Dimineața începe în liniștea bisericii, la adăpost de ploaie. La prânz explorăm străzile cețoase care duc spre centru. După-amiaza, ruinele cetății oferă o priveliște mistică printre nori. Seara, luminile se reflectă pe pavajul umed, în timp ce ne retragem într-un local primitor și acoperit.",
+            "en": "The morning starts in the silence of the church, sheltered from the rain. At noon, we explore the misty alleys leading to the center. In the afternoon, the fortress ruins offer a mystical view amidst the clouds. In the evening, the lights reflect on the wet cobblestones as we retreat to a cozy, covered spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria del Carmelo",
+                "hu": "Santa Maria del Carmelo",
+                "ro": "Santa Maria del Carmelo",
+                "en": "Santa Maria del Carmelo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Altäre im Trockenen; die Ruhe im Inneren ist ideal bei Regen, nehmen Sie für den Weg einen stabilen Regenschirm mit.",
+                "hu": "Csodálja meg az oltárokat a szárazban; a belső nyugalom ideális esős időben, az útra pedig vigyen magával egy strapabíró esernyőt.",
+                "ro": "Admirați altarele la adăpost; liniștea din interior este ideală pe ploaie, iar pentru drum luați o umbrelă rezistentă.",
+                "en": "Admire the altars while staying dry; the inner peace is ideal during rain, and bring a sturdy umbrella for the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "hu": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "ro": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "en": "Castelmezzano - Nella lista I Borghi più Belli d'Italia"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die Bogengänge des Dorfes; die Architektur bietet oft Schutz vor Schauern, tragen Sie rutschfeste Schuhe auf dem Pflaster.",
+                "hu": "Sétáljon végig a falu árkádjai alatt; az építészet gyakran védelmet nyújt a záporok elől, viseljen csúszásmentes cipőt a köveken.",
+                "ro": "Plimbați-vă pe sub arcadele satului; arhitectura oferă adesea protecție împotriva ploii, purtați încălțăminte antiderapantă pe pavaj.",
+                "en": "Walk under the village archways; the architecture often provides shelter from showers, wear non-slip shoes on the cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Normanna",
+                "hu": "Fortezza Normanna",
+                "ro": "Fortezza Normanna",
+                "en": "Fortezza Normanna"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dramatische Aussicht im Nebel; die Felsstufen sind bei Nässe rutschig, halten Sie sich unbedingt an den Handläufen fest.",
+                "hu": "Élje át a drámai kilátást a ködben; a sziklalépcsők nedvesen csúszósak, mindenképpen kapaszkodjon a korlátokba.",
+                "ro": "Experimentați vederea dramatică în ceață; treptele de piatră sunt alunecoase când sunt ude, țineți-vă neapărat de balustrade.",
+                "en": "Experience the dramatic view in the mist; the rock steps are slippery when wet, so be sure to hold onto the handrails."
+              }
+            },
+            {
+              "name": {
+                "de": "Stazione di Arrivo del Volo dell'Angelo",
+                "hu": "Stazione di Arrivo del Volo dell'Angelo",
+                "ro": "Stazione di Arrivo del Volo dell'Angelo",
+                "en": "Stazione di Arrivo del Volo dell'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Wolken, die über die Gipfel ziehen; die Plattform bietet einen tollen Blick auf das verregnete Tal, nutzen Sie ein Regenponcho.",
+                "hu": "Nézze meg a csúcsok felett átvonuló felhőket; a platformról remek kilátás nyílik az eső áztatta völgyre, használjon esőponcsót.",
+                "ro": "Priviți norii care trec peste vârfuri; platforma oferă o vedere excelentă spre valea plouată, folosiți o pelerină de ploaie.",
+                "en": "Watch the clouds passing over the peaks; the platform offers a great view of the rain-soaked valley, use a rain poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "vecchio mulino",
+                "hu": "vecchio mulino",
+                "ro": "vecchio mulino",
+                "en": "vecchio mulino"
+              },
+              "tip_5lang": {
+                "de": "Der angeschwollene Bach am Mahlwerk ist bei Regen besonders beeindruckend; der Pfad kann schlammig sein, wasserfeste Wanderschuhe sind ratsam.",
+                "hu": "A megáradt patak a malomnál esőben különösen látványos; az ösvény sáros lehet, vízálló túrabakancs viselete tanácsos.",
+                "ro": "Pârâul umflat de lângă moară este spectaculos pe ploaie; poteca poate fi noroioasă, se recomandă bocanci de munte impermeabili.",
+                "en": "The swollen stream by the mill is especially impressive in the rain; the path can be muddy, waterproof hiking boots are advised."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen wärmt die Ruhe der Kirche Körper und Geist. Mittags funkeln die Dolomiten im hellen Winterlicht. Der Nachmittag an der Festung bringt einen frühen Sonnenuntergang gegen 17:00 Uhr, der die Gipfel rot färbt. Am Abend erleuchten die Lichter des Dorfes die kalte Bergnacht.",
+            "hu": "Egy tiszta téli reggelen a templom nyugalma melengeti meg a lelket. Délben a Dolomitok sziklái szikráznak az éles téli fényben. A délutáni várnézés után a korai, 5 órás naplemente vörösre festi a csúcsokat. Este a falu fényei barátságosan világítják meg a hideg hegyi éjszakát.",
+            "ro": "Într-o dimineață senină de iarnă, liniștea bisericii încălzește sufletul. La prânz, stâncile Dolomiților sclipesc în lumina tăioasă de iarnă. După cetate, apusul timpuriu de la ora 17:00 pictază vârfurile în roșu. Seara, luminile satului luminează prietenos noaptea rece de munte.",
+            "en": "On a clear winter morning, the church's tranquility warms the soul. At noon, the Dolomite rocks sparkle in the sharp winter light. After the afternoon fortress visit, the early 5 PM sunset paints the peaks red. In the evening, the village lights warmly illuminate the cold mountain night."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria del Carmelo",
+                "hu": "Santa Maria del Carmelo",
+                "ro": "Santa Maria del Carmelo",
+                "en": "Santa Maria del Carmelo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille fernab der Kälte; die dicken Mauern halten die Wärme, tragen Sie dennoch mehrere Kleidungsschichten.",
+                "hu": "Élvezze a békés csendet a hidegtől távol; a vastag falak tartják a hőt, de viseljen réteges öltözetet.",
+                "ro": "Bucurați-vă de liniștea pașnică departe de frig; zidurile groase mențin căldura, dar purtați haine în mai multe straturi.",
+                "en": "Enjoy the peaceful silence away from the cold; the thick walls retain heat, but wear layered clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "hu": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "ro": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "en": "Castelmezzano - Nella lista I Borghi più Belli d'Italia"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die weihnachtliche Dekoration in den Gassen; die Luft ist hier oben sehr trocken, benutzen Sie einen guten Lippenschutz.",
+                "hu": "Csodálja meg az ünnepi díszítést a szűk utcákban; a levegő itt fent nagyon száraz, használjon jó ajakírt.",
+                "ro": "Admirați decorațiunile de sărbătoare de pe străduțe; aerul este foarte uscat aici sus, folosiți un balsam de buze bun.",
+                "en": "Admire the festive decorations in the narrow streets; the air is very dry up here, use a good lip balm."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Normanna",
+                "hu": "Fortezza Normanna",
+                "ro": "Fortezza Normanna",
+                "en": "Fortezza Normanna"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick auf die schneebedeckten Berge ist einmalig; die Stufen können vereist sein, tragen Sie unbedingt griffige Winterstiefel.",
+                "hu": "A panoráma a havas hegyekre páratlan; a lépcsők jegesek lehetnek, mindenképpen tapadós talpú téli bakancsot viseljen.",
+                "ro": "Panorama spre munții înzăpeziți este inegalabilă; treptele pot fi înghețate, purtați neapărat ghete de iarnă cu talpă aderentă.",
+                "en": "The panorama of the snowy mountains is unparalleled; the steps may be icy, so wear winter boots with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Stazione di Arrivo del Volo dell'Angelo",
+                "hu": "Stazione di Arrivo del Volo dell'Angelo",
+                "ro": "Stazione di Arrivo del Volo dell'Angelo",
+                "en": "Stazione di Arrivo del Volo dell'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie den eisigen Wind auf der Aussichtsplattform; die Fernsicht ist im Winter am besten, eine windfeste Jacke ist hier Pflicht.",
+                "hu": "Érezze a jeges szelet a kilátóteraszon; a látótávolság télen a legjobb, egy szélálló dzseki itt kötelező viselet.",
+                "ro": "Simțiți vântul înghețat pe platforma de observație; vizibilitatea este cea mai bună iarna, o jachetă rezistentă la vânt este obligatorie.",
+                "en": "Feel the icy wind on the observation deck; visibility is best in winter, a windproof jacket is mandatory here."
+              }
+            },
+            {
+              "name": {
+                "de": "vecchio mulino",
+                "hu": "vecchio mulino",
+                "ro": "vecchio mulino",
+                "en": "vecchio mulino"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach Eiszapfen an den alten Mauern; der Weg im Tal ist oft schattig und sehr kalt, nehmen Sie eine Thermoskanne mit Tee mit.",
+                "hu": "Keressen jégcsapokat a régi falakon; a völgyben az út gyakran árnyékos és nagyon hideg, vigyen magával termoszban meleg teát.",
+                "ro": "Căutați țurțuri de gheață pe zidurile vechi; poteca din vale este adesea umbrită și foarte rece, luați un termos cu ceai cald.",
+                "en": "Look for icicles on the old walls; the path in the valley is often shaded and very cold, bring a thermos with hot tea."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a reggelt a falu ősi sikátorainak és kőhomlokzatainak felfedezésével, miközben belélegzi a lucaniai Dolomitok friss, tiszta hegyi levegőjét.\n\nDélben merüljön el a közvetlenül a drámai sziklákba vájt történelmi erődítményekben, amelyek lenyűgöző panorámát kínálnak a vidékre.\n\nA délutánt töltse a rejtett építészeti kincsek és a régi vidéki építmények felfedezésével, amelyek ezen egyedülálló régió történetét mesélik el.\n\nZárja a napot a falu szívében pihenve, miközben a lemenő nap aranyló fénybe öltözteti az önt körülvevő zord hegycsúcsokat és völgyeket.",
         "ro": "Începeți dimineața explorând aleile antice și fațadele de piatră ale satului, respirând aerul proaspăt de munte al Dolomiților Lucanieni.\n\nLa prânz, scufundați-vă în istoria fortărețelor sculptate direct în stâncile abrupte, care oferă panorame spectaculoase asupra peisajului.\n\nPetreceți după-amiaza descoperind comorile arhitecturale ascunse și vechile structuri rurale care spun povestea fascinantă a acestei regiuni.\n\nÎncheiați ziua relaxându-vă în inima satului, în timp ce soarele la apus aruncă o strălucire aurie peste vârfurile stâncoase din jurul vostru.",
         "en": "Start your morning exploring the ancient alleys and stone facades of the village, breathing in the fresh mountain air of the Lucanian Dolomites.\n\nBy midday, immerse yourself in the historical fortresses carved directly into the dramatic cliffs, offering spectacular panoramic vistas.\n\nSpend the afternoon discovering the hidden architectural gems and old rural structures that tell the fascinating story of this unique region.\n\nConclude your day relaxing in the heart of the village as the setting sun casts a golden glow over the rugged mountain peaks around you."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf zwei Rädern erfordert volle Konzentration auf den nassen Kurven. Mittags suchen wir Schutz in den Gassen von Castelmezzano. Am Nachmittag bietet die Fahrt mystische Ausblicke durch den Dunst. Der Abend endet mit der Reinigung der Ausrüstung nach einer anspruchsvollen Tour.",
+            "hu": "Egy esős nap két keréken teljes koncentrációt igényel a vizes kanyarokban. Délben Castelmezzano szűk utcáin keresünk menedéket. Délután a tekerés misztikus kilátást kínál a párás tájban. Az este a felszerelés letakarításával zárul a kihívásokkal teli túra után.",
+            "ro": "O zi ploioasă pe două roți necesită concentrare maximă în curbele umede. La prânz căutăm adăpost pe străzile din Castelmezzano. După-amiaza, tura oferă vederi mistice prin pâclă. Seara se încheie cu curățarea echipamentului după o tură solicitantă.",
+            "en": "A rainy day on two wheels requires full concentration on the wet curves. At noon, we seek shelter in the alleys of Castelmezzano. In the afternoon, the ride offers mystical views through the haze. The evening ends with cleaning the gear after a challenging tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria del Carmelo",
+                "hu": "Santa Maria del Carmelo",
+                "ro": "Santa Maria del Carmelo",
+                "en": "Santa Maria del Carmelo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Vorplatz zum Unterstellen der Räder; prüfen Sie vor der Weiterfahrt im Regen unbedingt Ihre Bremsen auf Funktion.",
+                "hu": "Használja az előteret a biciklik leállítására; az esőben való továbbindulás előtt feltétlenül ellenőrizze a fékek működését.",
+                "ro": "Folosiți zona din față pentru a parca bicicletele; înainte de a pleca mai departe prin ploaie, verificați neapărat frânele.",
+                "en": "Use the front area to park the bikes; before continuing in the rain, be sure to check that your brakes are working properly."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Normanna",
+                "hu": "Fortezza Normanna",
+                "ro": "Fortezza Normanna",
+                "en": "Fortezza Normanna"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Fuße des Aufstiegs; der Boden ist rutschig, gehen Sie die letzten Meter zu Fuß und tragen Sie ein Regenpelerine.",
+                "hu": "Parkolja le biztonságosan a bringát az emelkedő alján; a talaj csúszós, az utolsó métereket gyalog tegye meg, és viseljen esőköpenyt.",
+                "ro": "Parcați bicicleta în siguranță la baza urcării; solul este alunecos, parcurgeți ultimii metri pe jos și purtați o pelerină.",
+                "en": "Park your bike safely at the base of the climb; the ground is slippery, walk the last few meters and wear a rain cape."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "hu": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "ro": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "en": "Castelmezzano - Nella lista I Borghi più Belli d'Italia"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das glatte Kopfsteinpflaster in steilen Gassen; schieben Sie das Rad lieber kurzzeitig, um Stürze bei Nässe zu vermeiden.",
+                "hu": "Kerülje a sima macskaköveket a meredek utcákban; inkább tolja a bringát rövid ideig, hogy elkerülje az eséseket a nedves úton.",
+                "ro": "Evitați pavajul alunecos pe străzile abrupte; mai degrabă împingeți bicicleta pentru scurt timp ca să evitați căzăturile pe ud.",
+                "en": "Avoid smooth cobblestones in steep alleys; better to push the bike briefly to avoid falls on the wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Stazione di Arrivo del Volo dell'Angelo",
+                "hu": "Stazione di Arrivo del Volo dell'Angelo",
+                "ro": "Stazione di Arrivo del Volo dell'Angelo",
+                "en": "Stazione di Arrivo del Volo dell'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die nassen Felsen ist fantastisch; achten Sie beim Abstieg auf metallene Gitter, die bei Regen extrem glatt werden.",
+                "hu": "A kilátás a vizes sziklákra fantasztikus; leereszkedéskor ügyeljen a fémrácsokra, amelyek esőben rendkívül csúszóssá válnak.",
+                "ro": "Vederea spre stâncile umede este fantastică; la coborâre aveți grijă la grătarele metalice, care devin extrem de alunecoase pe ploaie.",
+                "en": "The view of the wet rocks is fantastic; watch out for metal grates during descent, as they become extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "vecchio mulino",
+                "hu": "vecchio mulino",
+                "ro": "vecchio mulino",
+                "en": "vecchio mulino"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt zum Tal ist bei Regen technisch anspruchsvoll; verringern Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+                "hu": "A völgybe vezető lejtő esőben technikailag nehéz; csökkentse kissé a guminyomást a jobb tapadás érdekében a vizes aszfalton.",
+                "ro": "Coborârea spre vale este dificilă tehnic pe ploaie; reduceți puțin presiunea din anvelope pentru o aderență mai bună pe asfalt ud.",
+                "en": "The descent to the valley is technically demanding in the rain; slightly reduce tire pressure for better grip on wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "casa con obelischi",
+                "hu": "casa con obelischi",
+                "ro": "casa con obelischi",
+                "en": "casa con obelischi"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur unter einem Vordach; nach der Fahrt sollten Sie Kette und Schaltung sofort trocknen und neu fetten.",
+                "hu": "Nézze meg az építészetet egy előtető alól; a túra után azonnal szárítsa meg és kenje újra a láncot és a váltót.",
+                "ro": "Admirați arhitectura de sub un acoperiș; după tură, uscați și ungeți imediat lanțul și schimbătorul de viteze.",
+                "en": "View the architecture from under a canopy; after the ride, dry and re-grease the chain and derailleur immediately."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet mit frischer Luft und brennenden Lungen. Mittags wärmt die Sonne nur schwach, aber die Sicht auf die Gipfel ist glasklar. Am Nachmittag drängt die Zeit wegen des Sonnenuntergangs um 17 Uhr. Der Abend erfordert warme Getränke, um die durchgefrorenen Glieder zu lockern.",
+            "hu": "A téli biciklitúra friss levegővel és égő tüdővel indul. Délben a nap csak gyengén melegít, de a kilátás a csúcsokra kristálytiszta. Délután az 5 órás naplemente miatt sietni kell. Az este forró italokat igényel, hogy felengedjenek az átfagyott végtagok.",
+            "ro": "Tura de iarnă cu bicicleta începe cu aer proaspăt și plămâni arzând. La prânz soarele încălzește slab, dar vizibilitatea spre vârfuri este clară. După-amiaza, timpul presează din cauza apusului de la ora 17. Seara necesită băuturi fierbinți pentru relaxarea membrelor înghețate.",
+            "en": "The winter bike tour starts with fresh air and burning lungs. At noon, the sun warms only weakly, but the view of the peaks is crystal clear. In the afternoon, time is tight due to the 5 PM sunset. The evening requires hot drinks to loosen up frozen limbs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Maria del Carmelo",
+                "hu": "Santa Maria del Carmelo",
+                "ro": "Santa Maria del Carmelo",
+                "en": "Santa Maria del Carmelo"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Pause im Inneren schützt vor dem eisigen Fahrtwind; tragen Sie unter dem Helm ein dünnes Stirnband gegen die Kälte.",
+                "hu": "Egy rövid szünet odabent megvéd a jeges menetszéltől; viseljen a bukósisak alatt vékony fejpántot a hideg ellen.",
+                "ro": "O scurtă pauză în interior vă protejează de vântul înghețat; purtați o bentiță subțire sub cască împotriva frigului.",
+                "en": "A short break inside protects you from the icy wind; wear a thin headband under your helmet against the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Normanna",
+                "hu": "Fortezza Normanna",
+                "ro": "Fortezza Normanna",
+                "en": "Fortezza Normanna"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die Muskeln beim Aufstieg zur Festung warm werden; achten Sie auf Raureif an den Geländern, tragen Sie gefütterte Radhandschuhe.",
+                "hu": "Hagyja, hogy az izmai bemelegedjenek a várba menet; ügyeljen a zúzmarás korlátokra, viseljen bélelt kerékpáros kesztyűt.",
+                "ro": "Lăsați mușchii să se încălzească la urcarea spre cetate; atenție la chiciura de pe balustrade, purtați mănuși de ciclism căptușite.",
+                "en": "Let your muscles warm up during the climb to the fortress; watch out for frost on the railings, wear lined cycling gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "hu": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "ro": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "en": "Castelmezzano - Nella lista I Borghi più Belli d'Italia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Dorfpanorama ohne Sommertouristen; die Abfahrten in den Gassen sind extrem kalt, ein Halstuch ist unverzichtbar.",
+                "hu": "Élvezze a falu panorámáját a nyári turisták nélkül; a sikátorokban a lejtmenet extrém hideg, egy sál nélkülözhetetlen.",
+                "ro": "Bucurați-vă de panorama satului fără turiștii de vară; coborârile prin ulițe sunt extrem de reci, un fular este indispensabil.",
+                "en": "Enjoy the village panorama without the summer tourists; descents in the alleys are extremely cold, a neck gaiter is essential."
+              }
+            },
+            {
+              "name": {
+                "de": "Stazione di Arrivo del Volo dell'Angelo",
+                "hu": "Stazione di Arrivo del Volo dell'Angelo",
+                "ro": "Stazione di Arrivo del Volo dell'Angelo",
+                "en": "Stazione di Arrivo del Volo dell'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Fotos mit unglaublicher Tiefe; halten Sie die Finger warm, damit Sie die Kamera noch bedienen können.",
+                "hu": "A tiszta téli levegő hihetetlen mélységű fotókat tesz lehetővé; tartsa melegen az ujjait, hogy tudja kezelni a fényképezőgépet.",
+                "ro": "Aerul curat de iarnă permite fotografii cu o profunzime incredibilă; păstrați-vă degetele calde pentru a putea folosi camera.",
+                "en": "The clear winter air allows for photos with incredible depth; keep your fingers warm so you can still operate the camera."
+              }
+            },
+            {
+              "name": {
+                "de": "vecchio mulino",
+                "hu": "vecchio mulino",
+                "ro": "vecchio mulino",
+                "en": "vecchio mulino"
+              },
+              "tip_5lang": {
+                "de": "Im schattigen Tal kann es mittags noch gefroren sein; achten Sie auf Eisflächen auf dem Weg, fahren Sie vorausschauend und langsam.",
+                "hu": "Az árnyékos völgyben délben is fagyott lehet a talaj; ügyeljen a jégfoltokra az úton, vezessen előrelátóan és lassan.",
+                "ro": "În valea umbrită solul poate fi înghețat și la prânz; atenție la petele de gheață de pe drum, conduceți prudent și încet.",
+                "en": "In the shaded valley, it can still be frozen at noon; watch out for ice patches on the path, ride proactively and slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "casa con obelischi",
+                "hu": "casa con obelischi",
+                "ro": "casa con obelischi",
+                "en": "casa con obelischi"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Stopp, bevor die Sonne untergeht; prüfen Sie Ihre Beleuchtung am Rad, da es im Winter schon sehr früh dunkel wird.",
+                "hu": "Egy utolsó megálló, mielőtt lebukik a nap; ellenőrizze a világítást a bringán, mivel télen már nagyon korán sötétedik.",
+                "ro": "O ultimă oprire înainte de apus; verificați luminile bicicletei, deoarece iarna se întunecă foarte devreme.",
+                "en": "One last stop before the sun goes down; check your bike lights, as it gets dark very early in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje a reggelt a falu ősi sikátorainak és kőhomlokzatainak felfedezésével, miközben belélegzi a lucaniai Dolomitok friss, tiszta hegyi levegőjét.\n\nDélben merüljön el a közvetlenül a drámai sziklákba vájt történelmi erődítményekben, amelyek lenyűgöző panorámát kínálnak a vidékre.\n\nA délutánt töltse a rejtett építészeti kincsek és a régi vidéki építmények felfedezésével, amelyek ezen egyedülálló régió történetét mesélik el.\n\nZárja a napot a falu szívében pihenve, miközben a lemenő nap aranyló fénybe öltözteti az önt körülvevő zord hegycsúcsokat és völgyeket.",
         "ro": "Începeți dimineața explorând aleile antice și fațadele de piatră ale satului, respirând aerul proaspăt de munte al Dolomiților Lucanieni.\n\nLa prânz, scufundați-vă în istoria fortărețelor sculptate direct în stâncile abrupte, care oferă panorame spectaculoase asupra peisajului.\n\nPetreceți după-amiaza descoperind comorile arhitecturale ascunse și vechile structuri rurale care spun povestea fascinantă a acestei regiuni.\n\nÎncheiați ziua relaxându-vă în inima satului, în timp ce soarele la apus aruncă o strălucire aurie peste vârfurile stâncoase din jurul vostru.",
         "en": "Start your morning exploring the ancient alleys and stone facades of the village, breathing in the fresh mountain air of the Lucanian Dolomites.\n\nBy midday, immerse yourself in the historical fortresses carved directly into the dramatic cliffs, offering spectacular panoramic vistas.\n\nSpend the afternoon discovering the hidden architectural gems and old rural structures that tell the fascinating story of this unique region.\n\nConclude your day relaxing in the heart of the village as the setting sun casts a golden glow over the rugged mountain peaks around you."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt durch die nebligen Basilikata-Berge wirkt wie eine Reise durch die Wolken. Mittags erreichen wir sicher das Herz von Castelmezzano. Am Nachmittag bietet die Panoramastraße trotz Regen faszinierende Ausblicke. Der Abend endet bei prasselndem Regen an den Scheiben in einer gemütlichen Unterkunft.",
+            "hu": "Az utazás a ködös basilicatai hegyekben olyan, mintha a felhők között járnánk. Délben biztonságban érjük el Castelmezzano szívét. Délután a panorámaút az eső ellenére is lenyűgöző látványt nyújt. Az este az ablakon kopogó eső mellett, egy barátságos szálláson ér véget.",
+            "ro": "Călătoria prin munții cețoși ai Basilicatei pare o excursie prin nori. La prânz ajungem în siguranță în inima Castelmezzano. După-amiaza, drumul panoramic oferă vederi fascinante în ciuda ploii. Seara se încheie la o cazare primitoare, cu ploaia bătând în geamuri.",
+            "en": "Driving through the misty Basilicata mountains feels like a journey through the clouds. At noon, we safely reach the heart of Castelmezzano. In the afternoon, the panoramic road offers fascinating views despite the rain. The evening ends in cozy accommodation with rain drumming on the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "hu": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "ro": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "en": "Castelmezzano - Nella lista I Borghi più Belli d'Italia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den markierten Plätzen am Ortseingang; nutzen Sie die kurzen Regenpausen für Fotos, ein Schirm sollte immer griffbereit sein.",
+                "hu": "Parkoljon a kijelölt helyeken a falu szélén; használja ki a rövid esőszüneteket a fotózáshoz, az esernyő legyen mindig kéznél.",
+                "ro": "Parcați în locurile marcate la intrarea în sat; profitați de scurtele pauze de ploaie pentru poze, umbrela să fie mereu la îndemână.",
+                "en": "Park in the designated spots at the village entrance; use brief rain breaks for photos, keep an umbrella always at hand."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Normanna",
+                "hu": "Fortezza Normanna",
+                "ro": "Fortezza Normanna",
+                "en": "Fortezza Normanna"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Nässe kurz, aber steil; schalten Sie das Abblendlicht ein, wenn Sie zu den Parkplätzen in der Nähe navigieren.",
+                "hu": "Az emelkedő nedvesen rövid, de meredek; kapcsolja be a tompított fényszórót, amikor a közeli parkolókhoz navigál.",
+                "ro": "Urcarea este scurtă, dar abruptă pe ud; aprindeți faza scurtă când navigați spre parcările din apropiere.",
+                "en": "The climb is short but steep when wet; turn on your dipped headlights when navigating to nearby parking spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Volo dell'Angelo",
+                "hu": "Volo dell'Angelo",
+                "ro": "Volo dell'Angelo",
+                "en": "Volo dell'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtspunkte sind auch bei Regen befahrbar; achten Sie auf Aquaplaning auf den kurvigen Bergstraßen, fahren Sie vorsichtig.",
+                "hu": "A kilátópontok esőben is megközelíthetők autóval; ügyeljen a vízátfolyásokra a kanyargós hegyi utakon, vezessen óvatosan.",
+                "ro": "Punctele de observație sunt accesibile cu mașina și pe ploaie; atenție la acvaplanare pe drumurile montane sinuoase, conduceți prudent.",
+                "en": "The viewpoints are accessible by car even in the rain; watch out for aquaplaning on the winding mountain roads, drive carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Pietrapertosa - Nella lista I Borghi più belli d'Italia",
+                "hu": "Pietrapertosa - Nella lista I Borghi più belli d'Italia",
+                "ro": "Pietrapertosa - Nella lista I Borghi più belli d'Italia",
+                "en": "Pietrapertosa - Nella lista I Borghi più belli d'Italia"
+              },
+              "tip_5lang": {
+                "de": "Die Verbindung zwischen den Dörfern ist bei Nebel mystisch; prüfen Sie Ihre Scheibenwischer auf gute Wischleistung für klare Sicht.",
+                "hu": "A falvak közötti út ködben misztikus látvány; ellenőrizze az ablaktörlők állapotát a tiszta kilátás érdekében.",
+                "ro": "Drumul dintre sate este mistic în ceață; verificați starea ștergătoarelor pentru o vizibilitate clară.",
+                "en": "The road between the villages is mystical in the mist; check your windshield wipers for good performance to ensure clear vision."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Pietrapertosa",
+                "hu": "Castello di Pietrapertosa",
+                "ro": "Castello di Pietrapertosa",
+                "en": "Castello di Pietrapertosa"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den alten Turmresten; der Boden im Burgareal ist oft lehmig und rutschig, tragen Sie festes Schuhwerk.",
+                "hu": "Keressen menedéket a régi toronymaradványok között; a vár területe gyakran agyagos és csúszós, viseljen stabil túracipőt.",
+                "ro": "Căutați adăpost în resturile vechiului turn; zona cetății este adesea lutoasă și alunecoasă, purtați încălțăminte stabilă.",
+                "en": "Seek shelter in the old tower remains; the castle area is often clayey and slippery, wear stable hiking shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "casa con obelischi",
+                "hu": "casa con obelischi",
+                "ro": "casa con obelischi",
+                "en": "casa con obelischi"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Gebäude bequem aus dem Auto; nach der Fahrt im Regen empfiehlt sich eine kurze Kontrolle der Reifen auf Profiltiefe.",
+                "hu": "Nézze meg az épületet kényelmesen az autóból; az esős út után ajánlott egy rövid ellenőrzés a gumiabroncsok profilmélységénél.",
+                "ro": "Admirați clădirea confortabil din mașină; după drumul prin ploaie se recomandă o scurtă verificare a adâncimii profilului anvelopelor.",
+                "en": "View the building comfortably from the car; after driving in the rain, a quick check of the tire tread depth is recommended."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autofahrt durch die verschneiten Basilikata-Gipfel bietet magische Momente. Mittags ist das Panorama der Dolomiten besonders scharf. Am Nachmittag taucht die Sonne um 17 Uhr alles in ein tiefes Blau. Der Abend endet bei wohliger Wärme der Autoheizung und Blick auf das beleuchtete Dorf.",
+            "hu": "A téli autózás a havas basilicatai csúcsok között varázslatos pillanatokat kínál. Délben a Dolomitok panorámája különösen élesen rajzolódik ki. Délután 5 órakor a naplemente mindent mélykékbe öltöztet. Az este az autó fűtésének melegében, a kivilágított falura nézve zárul.",
+            "ro": "O călătorie iarna cu mașina prin vârfurile înzăpezite ale Basilicatei oferă momente magice. La prânz, panorama Dolomiților este deosebit de clară. După-amiaza, la ora 17, apusul îmbracă totul în albastru închis. Seara se încheie la căldura mașinii, cu vedere spre satul luminat.",
+            "en": "A winter car trip through the snowy Basilicata peaks offers magical moments. At noon, the panorama of the Dolomites is particularly sharp. In the afternoon at 5 PM, the sunset bathes everything in deep blue. The evening ends in the warmth of the car heater with a view of the illuminated village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "hu": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "ro": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+                "en": "Castelmezzano - Nella lista I Borghi più Belli d'Italia"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen im Ort können morgens glatt sein; Winterreifen sind in dieser Höhenlage absolut zwingend erforderlich.",
+                "hu": "A falu utcái reggelente jegesek lehetnek; a téli gumi ezen a magasságon abszolút kötelező és elengedhetetlen.",
+                "ro": "Străzile din sat pot fi înghețate dimineața; anvelopele de iarnă sunt absolut obligatorii la această altitudine.",
+                "en": "The village streets can be icy in the mornings; winter tires are absolutely mandatory and essential at this altitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Fortezza Normanna",
+                "hu": "Fortezza Normanna",
+                "ro": "Fortezza Normanna",
+                "en": "Fortezza Normanna"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die schneebedeckten Felsnadeln; stellen Sie sicher, dass Ihr Frostschutzmittel im Scheibenwischwasser aufgefüllt ist.",
+                "hu": "Élvezze a kilátást a havas sziklatűkre; győződjön meg róla, hogy a szélvédőmosó folyadék fagyállóval fel van töltve.",
+                "ro": "Bucurați-vă de vederea spre acele de stâncă înzăpezite; asigurați-vă că lichidul de parbriz are suficient antigel.",
+                "en": "Enjoy the view of the snowy rock needles; make sure your windshield washer fluid is topped up with antifreeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Volo dell'Angelo",
+                "hu": "Volo dell'Angelo",
+                "ro": "Volo dell'Angelo",
+                "en": "Volo dell'Angelo"
+              },
+              "tip_5lang": {
+                "de": "Die Bergstraßen bieten spektakuläre Ausblicke auf Eisformationen; fahren Sie langsam in schattigen Kurven, dort hält sich Glätte am längsten.",
+                "hu": "A hegyi utak látványos jégképződményeket kínálnak; vezessen lassan az árnyékos kanyarokban, ott marad meg legtovább a jég.",
+                "ro": "Drumurile montane oferă formațiuni de gheață spectaculoase; conduceți încet în curbele umbrite, unde gheața rezistă cel mai mult.",
+                "en": "The mountain roads offer spectacular ice formations; drive slowly in shaded curves, as ice lingers there the longest."
+              }
+            },
+            {
+              "name": {
+                "de": "Pietrapertosa - Nella lista I Borghi più belli d'Italia",
+                "hu": "Pietrapertosa - Nella lista I Borghi più belli d'Italia",
+                "ro": "Pietrapertosa - Nella lista I Borghi più belli d'Italia",
+                "en": "Pietrapertosa - Nella lista I Borghi più belli d'Italia"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das höchstgelegene Dorf der Region im Winterschlaf; führen Sie für extreme Wetterumschwünge immer Schneeketten im Kofferraum mit.",
+                "hu": "Látogassa meg a régió legmagasabb faluját téli álma alatt; szélsőséges időjárás esetére mindig tartson hóláncot a csomagtartóban.",
+                "ro": "Vizitați cel mai înalt sat din regiune în timpul somnului de iarnă; pentru schimbări bruște de vreme, țineți mereu lanțuri în portbagaj.",
+                "en": "Visit the highest village in the region during its winter sleep; always keep snow chains in the trunk for extreme weather shifts."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Pietrapertosa",
+                "hu": "Castello di Pietrapertosa",
+                "ro": "Castello di Pietrapertosa",
+                "en": "Castello di Pietrapertosa"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt im Schnee wie aus einem Märchen; die Wege oben sind oft nicht geräumt, tragen Sie hohe, warme Winterstiefel.",
+                "hu": "A vár a hóban olyan, mint egy tündérmese; a fenti utak gyakran nincsenek letakarítva, viseljen magas szárú, meleg téli bakancsot.",
+                "ro": "Cetatea în zăpadă pare desprinsă din basme; potecile de sus nu sunt adesea deszăpezite, purtați ghete de iarnă înalte și călduroase.",
+                "en": "The castle in the snow looks like a fairy tale; the paths above are often not cleared, wear high, warm winter boots."
+              }
+            },
+            {
+              "name": {
+                "de": "casa con obelischi",
+                "hu": "casa con obelischi",
+                "ro": "casa con obelischi",
+                "en": "casa con obelischi"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss im warmen Fahrzeug; da es um 17 Uhr dunkel wird, planen Sie die Rückfahrt über die Serpentinen rechtzeitig ein.",
+                "hu": "Szép lezárás a meleg járműben; mivel 5-kor sötétedik, tervezze meg időben a visszautat a szerpentineken keresztül.",
+                "ro": "O încheiere frumoasă în vehiculul cald; deoarece se întunecă la ora 17, planificați din timp drumul de întoarcere pe serpentine.",
+                "en": "A nice conclusion in the warm vehicle; since it gets dark at 5 PM, plan your return trip over the serpentines in good time."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot a Nemzeti Erdőpark zord szépségében, élvezve a hűvös reggeli szellőt. A délben a magányos borókafa és a tengerre néző lenyűgöző Cape Greco kilátó várja. Délután fedezze fel a búvárbarlang izgalmát, és fürödjön a káprázatos Kék Lagúnában. Az este a bűnösök hídjánál és az Ayioi Anargyroi barlangnál tett békés látogatással zárul a lenyugvó nap fényében.",
         "ro": "Începeți ziua scufundându-vă în frumusețea sălbatică a Parcului Național Forestier, bucurându-vă de briza dimineții. La prânz, vizitați ienupărul solitar și uimitorul punct de belvedere Cape Greco. După-amiaza, descoperiți emoția peșterii de scufundări și înotați în uimitoarea Lagună Albastră. Seara se încheie cu vederi la podul Păcătoșilor și o vizită pașnică la peștera Ayioi Anargyroi.",
         "en": "Begin your day immersed in the rugged beauty of the National Forest Park, enjoying the cool morning breeze. Midday brings you to the solitary Juniper Tree and the breathtaking Cape Greco View Point overlooking the vast sea. In the afternoon, discover the thrill of the Diving cave and swim in the dazzling Blue Lagoon. Your evening concludes with golden hour views at Sinners'es bridge and a peaceful visit to Ayioi Anargyroi Cave."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Wanderung im Nationalpark, wo die neblige Landschaft eine mystische Atmosphäre ausstrahlt. Bewundern Sie mittags das aufgewühlte Meer, aber achten Sie auf den starken Wind. Am Nachmittag bieten die Höhlen trockenen Schutz vor dem Regen, während Sie das Spiel des Wassers beobachten. Beenden Sie den Abend früh, da die nassen Felsen gefährlich sind und die Sicht schnell nachlässt.",
+            "hu": "Kezdje a túrát a nemzeti parkban, ahol a ködös táj misztikus hangulatot áraszt. Délben a kilátópontról csodálhatja a haragos tengert, de ügyeljen a szeles időre. Délután a barlangok nyújtanak száraz menedéket az eső elől, miközben a víz játékát figyeli. Az estét zárja korán, mivel a nedves sziklák veszélyesek, és a látási viszonyok gyorsan romlanak a szürkeségben.",
+            "ro": "Începeți drumeția în parcul național, unde peisajul cețos emană o atmosferă mistică. La prânz, admirați marea agitată de la punctul de belvedere, dar aveți grijă la vântul puternic. După-amiaza, peșterile oferă adăpost uscat împotriva ploii în timp ce urmăriți jocul apei. Încheiați seara devreme, deoarece stâncile ude sunt periculoase, iar vizibilitatea scade rapid în griul zilei.",
+            "en": "Start your hike in the national park, where the misty landscape exudes a mystical atmosphere. At noon, admire the angry sea from the viewpoint, but beware of the windy weather. In the afternoon, the caves provide dry shelter from the rain while you watch the play of the water. End the evening early, as the wet rocks are dangerous and visibility deteriorates quickly in the grey conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "National Forest Park \"Cape Greco\"",
+                "hu": "Cape Greco Nemzeti Erdőpark",
+                "ro": "Parcul Național Forestier \"Cape Greco\"",
+                "en": "National Forest Park \"Cape Greco\""
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Flora unter einem stimmungsvollen Himmel; der Regen verstärkt die erdigen Düfte der Sträucher, aber bleiben Sie auf befestigten Wegen, um Schlamm zu vermeiden.",
+                "hu": "Fedezze fel a vadvilágot a borús ég alatt; az eső kiemeli a mediterrán cserjék földes illatát, de maradjon a kövezett utakon a sár elkerülése és a biztonságos haladás érdekében.",
+                "ro": "Explorați flora sălbatică sub un cer înnorat; ploaia scoate în evidență aromele pământii ale tufișurilor, dar rămâneți pe secțiunile pavate pentru a evita noroiul excesiv.",
+                "en": "Explore the wild flora under a moody sky; the rain brings out the earthy scents of the Mediterranean shrubs, but stick to the paved sections to avoid mud and ensure safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Wacholderbaum (Tree of Cape Greco)",
+                "hu": "Cape Greco fája (Borókafa)",
+                "ro": "Arborele Cape Greco (Ienupărul)",
+                "en": "Tree of Cape Greco (Juniper Tree)"
+              },
+              "tip_5lang": {
+                "de": "Dieser ikonische Wacholderbaum wirkt im Nebel poetisch; nutzen Sie seine dichten Zweige als kurzen Schutz vor dem Nieselregen, während Sie ein atmosphärisches Foto machen.",
+                "hu": "Ez az ikonikus borókafa költőien mutat a ködben; használja sűrű ágait rövid menedékként a szemerkélő esőben, miközben egyedi és igazán hangulatos fotókat készít a tájról.",
+                "ro": "Acest ienupăr iconic pare poetic în ceață; folosiți ramurile sale dese ca un scurt scut împotriva burniței în timp ce surprindeți o fotografie atmosferică unică.",
+                "en": "This iconic juniper tree looks poetic in the mist; use its dense branches for a quick shield from the drizzle while capturing a unique and highly atmospheric photo of the area."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Kap Greco",
+                "hu": "Cape Greco Kilátópont",
+                "ro": "Punct de belvedere Cape Greco",
+                "en": "Cape Greco View Point"
+              },
+              "tip_5lang": {
+                "de": "Die Klippen bieten einen atemberaubenden Blick auf das aufgewühlte Meer; seien Sie an den Kalksteinkanten extrem vorsichtig, da diese bei Nässe sehr rutschig werden.",
+                "hu": "A sziklák lélegzetelállító kilátást nyújtanak a háborgó tengerre; legyen rendkívül óvatos a mészkőperemeken, mert nedvesen nagyon csúszóssá és veszélyessé válnak a túrázókra.",
+                "ro": "Stâncile oferă o vedere uluitoare asupra mării agitate; fiți extrem de precauți pe marginile de calcar, deoarece acestea devin foarte alunecoase și periculoase când sunt ude.",
+                "en": "The cliffs offer a breathtaking view of the churning sea; be extremely cautious on the limestone edges as they become very slippery and dangerous for hikers when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchhöhle",
+                "hu": "Búvárbarlang",
+                "ro": "Peștera de scufundări",
+                "en": "Diving cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet einen perfekten natürlichen Unterschlupf, um dem Regen zuzusehen; es ist ein trockener Ort, um sich auszuruhen und dem Rauschen des Ozeans zu lauschen.",
+                "hu": "A barlang tökéletes természetes menedéket nyújt, ahol nézheti a vízre hulló esőt; ideális száraz hely a pihenéshez és az óceán megnyugtató morajlásának élvezetéhez.",
+                "ro": "Peștera oferă un adăpost natural perfect unde puteți privi ploaia lovind apa; este un loc uscat pentru a vă odihni și a vă bucura de sunetul hipnotizant al oceanului.",
+                "en": "The cave provides a perfect natural shelter where you can watch the rain hit the crystal water; it is a dry spot to rest and enjoy the soothing sound of the ocean waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Das türkisfarbene Wasser der Lagune nimmt im Regen einen tieferen Ton an; bleiben Sie auf höherem Gelände, um die Gischt zu vermeiden und Ihre Ausrüstung trocken zu halten.",
+                "hu": "A lagúna türkiz vize mélyebb, titokzatosabb árnyalatot ölt az esőben; maradjon a magasabb pontokon, hogy elkerülje a sós permetet és szárazon tartsa értékes felszerelését.",
+                "ro": "Apa turcoaz a lagunei capătă o nuanță mai profundă în ploaie; rămâneți pe terenul mai înalt pentru a evita stropii mării și pentru a vă păstra echipamentul uscat.",
+                "en": "The lagoon's turquoise water takes on a deeper hue in the rain; stay on higher ground to avoid the sea spray and keep your photography equipment dry during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Sünderbrücke",
+                "hu": "Bűnösök hídja",
+                "ro": "Podul Păcătoșilor",
+                "en": "Sinners'es bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Steinbogen wirkt unter grauem Himmel noch zerbrechlicher; halten Sie Sicherheitsabstand zu den Rändern, um ein Ausrutschen auf den nassen Steinen zu vermeiden.",
+                "hu": "A kőív a természet csodája, amely még törékenyebbnek tűnik a szürke ég alatt; tartson biztonságos távolságot a szélektől, hogy elkerülje a megcsúszást a nedves köveken.",
+                "ro": "Arcul de piatră pare și mai fragil sub cerul gri; păstrați o distanță de siguranță față de margini pentru a evita orice alunecare pe pietrele ude și periculoase.",
+                "en": "The stone arch is a marvel of nature that looks even more fragile under gray skies; keep a safe distance from the edges to avoid any slips on the wet and treacherous rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayioi Anargyroi Höhle",
+                "hu": "Ayioi Anargyroi barlang",
+                "ro": "Peștera Ayioi Anargyroi",
+                "en": "Ayioi Anargyroi Cave"
+              },
+              "tip_5lang": {
+                "de": "Diese Höhle ist ein hervorragender Zufluchtsort vor plötzlichen Güssen; die nahe gelegene Kapelle bietet Besuchern ebenfalls einen trockenen und ruhigen Ort zum Verweilen.",
+                "hu": "Ez a barlang kiváló menedék a hirtelen záporok elől, békés helyet kínálva az elmélkedésre; a közeli kápolna szintén száraz és csendes pontot biztosít a látogatóknak.",
+                "ro": "Această peșteră este un refugiu excelent împotriva unei averse bruște; capela din apropiere oferă, de asemenea, un loc uscat și liniștit pentru vizitatori pe timp de ploaie.",
+                "en": "This cave is an excellent refuge from a sudden downpour, offering a peaceful space to reflect; the nearby chapel also provides a dry, quiet spot for visitors to wait out the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen ist ideal für lange Spaziergänge ohne die heiße Sonne. Mittags können Sie in der Stille der Lagune entspannen, fernab der Touristenmassen. Nutzen Sie am Nachmittag das letzte Licht an der Felsenbrücke, bevor die Sonne früh im Meer versinkt. Wenn der Abend hereinbricht, kühlt es schnell ab, also ziehen Sie sich warm an und suchen Sie nach 17 Uhr Schutz.",
+            "hu": "A hűvös téli reggel ideális a hosszú sétákhoz a forró napsütés hiányában. Délben a lagúna csendjében pihenhet meg, távol a nyári turistatömegtől. Délután használja ki az utolsó fényeket a sziklahídnál, mielőtt a nap korán lebukna a tengerbe. Az este leszálltával gyorsan lehűl a levegő, így érdemes rétegesen öltözni és 17:00 után menedéket keresni.",
+            "ro": "Dimineața răcoroasă de iarnă este ideală pentru plimbări lungi în absența soarelui arzător. La prânz, vă puteți relaxa în liniștea lagunei, departe de mulțimile de turiști. După-amiaza, profitați de ultima lumină la podul de piatră înainte ca soarele să apună devreme în mare. Pe măsură ce se lasă seara, aerul se răcește rapid, așa că îmbrăcați-vă în straturi.",
+            "en": "The cool winter morning is ideal for long walks in the absence of the hot sun. At noon, you can relax in the silence of the lagoon, away from the summer tourist crowds. In the afternoon, take advantage of the last light at the rock bridge before the sun sets early into the sea. As evening falls, the air cools down quickly, so dress in layers and seek shelter after 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "National Forest Park \"Cape Greco\"",
+                "hu": "Cape Greco Nemzeti Erdőpark",
+                "ro": "Parcul Național Forestier \"Cape Greco\"",
+                "en": "National Forest Park \"Cape Greco\""
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist sanft und macht dies zur besten Zeit für eine Wanderung ohne Hitze; tragen Sie eine leichte Windjacke, um auf den offenen Wegen geschützt zu bleiben.",
+                "hu": "A téli nap gyenge, így ez a legjobb időszak egy teljes túrára a nyári hőség nélkül; viseljen könnyű szélkabátot, hogy kényelmesen mozoghasson a nyílt tengerparti utakon.",
+                "ro": "Soarele de iarnă este blând, făcând din acesta cel mai bun moment pentru o drumeție fără căldură; purtați o jachetă ușoară pentru a rămâne confortabil pe potecile deschise.",
+                "en": "The winter sun is gentle, making it the best time for a full hike without the summer heat; wear a light windbreaker to stay comfortable on the open trails along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Wacholderbaum (Tree of Cape Greco)",
+                "hu": "Cape Greco fája (Borókafa)",
+                "ro": "Arborele Cape Greco (Ienupărul)",
+                "en": "Tree of Cape Greco (Juniper Tree)"
+              },
+              "tip_5lang": {
+                "de": "Der Wacholderbaum steht als einsamer Wächter gegen die kühle Seebrise; das tiefstehende Winterlicht ist perfekt für professionell aussehende Landschaftsaufnahmen.",
+                "hu": "A borókafa magányos őrszemként áll a hűvös tengeri szélben; az alacsonyan járó téli nap fénye tökéletes a profi megjelenésű tájképek és portrék készítéséhez ezen a ponton.",
+                "ro": "Ienupărul stă ca o santinelă solitară împotriva brizei răcoroase a mării; lumina de iarnă cu unghi mic este perfectă pentru fotografii de peisaj cu aspect profesional.",
+                "en": "The juniper tree stands as a solitary sentinel against the cool sea breeze; the low-angled winter light is perfect for capturing professional-looking landscape shots here."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Kap Greco",
+                "hu": "Cape Greco Kilátópont",
+                "ro": "Punct de belvedere Cape Greco",
+                "en": "Cape Greco View Point"
+              },
+              "tip_5lang": {
+                "de": "Von hier aus ist die Sicht im Winter oft besser und erlaubt klare Blicke auf den Horizont; bringen Sie einen warmen Schal mit, da der Wind hier oben beißend sein kann.",
+                "hu": "Innen a látótávolság télen gyakran sokkal jobb, tiszta rálátást engedve a messzi horizontra; hozzon meleg sálat, mivel a szél itt fent elég metsző lehet ilyenkor.",
+                "ro": "De aici, vizibilitatea în timpul iernii este adesea superioară, permițând vederi clare ale orizontului; aduceți o eșarfă călduroasă, deoarece vântul poate fi tăios aici sus.",
+                "en": "From here, the visibility in winter is often superior, allowing for clear views of the distant horizon; bring a warm scarf as the wind can be quite biting up here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchhöhle",
+                "hu": "Búvárbarlang",
+                "ro": "Peștera de scufundări",
+                "en": "Diving cave"
+              },
+              "tip_5lang": {
+                "de": "Obwohl es zu kalt zum Schwimmen ist, sind die geologischen Merkmale der Höhle faszinierend; die Felsformationen sind ohne die Menschenmassen viel besser sichtbar.",
+                "hu": "Bár az úszáshoz túl hideg van, a barlang geológiai jellemzői lenyűgözőek a holtszezonban; a sziklaalakzatok sokkal jobban látszanak a zavaró nyári tömeg nélkül.",
+                "ro": "Deși este prea frig pentru înot, caracteristicile geologice ale peșterii sunt fascinante de explorat în sezonul liniștit; formațiunile stâncoase sunt mai vizibile fără mulțimi.",
+                "en": "While too cold for a swim, the cave's geological features are fascinating to explore in the quiet season; the rock formations are more visible without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Lagune in völliger Ruhe, wenn die Touristenmassen weg sind; das Wasser ist auffallend klar und spiegelt den weichen Winterhimmel in schönen Tönen wider.",
+                "hu": "Tapasztalja meg a lagúna teljes nyugalmát, mivel a nyári tömeg már eltűnt; a víz feltűnően tiszta, a puha téli eget gyönyörű kék árnyalatokban tükrözi vissza a látogatóknak.",
+                "ro": "Experimentați laguna în liniște totală, deoarece mulțimile de vară au dispărut; apa este izbitor de clară, reflectând cerul moale de iarnă în nuanțe superbe și relaxante.",
+                "en": "Experience the lagoon in total tranquility as the summer crowds are gone; the water is strikingly clear, reflecting the soft winter sky in beautiful and serene shades."
+              }
+            },
+            {
+              "name": {
+                "de": "Sünderbrücke",
+                "hu": "Bűnösök hídja",
+                "ro": "Podul Păcătoșilor",
+                "en": "Sinners'es bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke besucht man am besten am Nachmittag, um das goldene Winterlicht zu sehen; achten Sie auf den frühen Sonnenuntergang und machen Sie sich rechtzeitig auf den Rückweg.",
+                "hu": "A természetes hidat legcélszerűbb délután felkeresni, hogy lássa a követ megvilágító arany téli fényeket; ügyeljen a korai naplementére, és időben induljon vissza a szállására.",
+                "ro": "Podul este cel mai bine vizitat după-amiaza pentru a vedea lumina aurie de iarnă lovind piatra; aveți grijă la apusul timpuriu și începeți să vă întoarceți din timp.",
+                "en": "The natural bridge is best visited in the afternoon to see the golden winter light hitting the stone; be mindful of the early sunset and start heading back before it gets dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayioi Anargyroi Höhle",
+                "hu": "Ayioi Anargyroi barlang",
+                "ro": "Peștera Ayioi Anargyroi",
+                "en": "Ayioi Anargyroi Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bleibt im Vergleich zu den Klippen mild; es ist ein toller Ort, um gegen 17 Uhr zu beobachten, wie die Sonne untergeht, bevor die Kälte einsetzt.",
+                "hu": "A barlang viszonylag enyhe marad a felette lévő sziklákhoz képest; remek hely a horizont alá bukó nap megfigyelésére 17:00 körül, mielőtt a téli hideg igazán beállna.",
+                "ro": "Peștera rămâne relativ blândă în comparație cu stâncile de deasupra; este un loc minunat pentru a privi soarele apunând în jurul orei 17:00, înainte de lăsarea frigului.",
+                "en": "The cave stays relatively mild compared to the cliffs above; it’s a great spot to watch the sun dip below the horizon around 5 PM before the sharp winter cold sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Induljon el a békés Echo területről, ahogy a reggeli nap első sugarai megvilágítják a tájat. Dél felé haladva tekerjen le az Ayioi Anargyroi barlanghoz, és csodálja meg a bűnösök hídját. Délután kerékpározzon a látványos Kék Lagúna és a híres sziklaugró helyek között. Este csodálja meg a naplementét a kilátópontnál, mielőtt békésen visszatekerne az erdőparkon keresztül.",
         "ro": "Porniți cu bicicleta din zona pașnică Echo, în timp ce soarele dimineții luminează peisajul. Spre prânz, mergeți la peștera Ayioi Anargyroi și minunați-vă de podul Păcătoșilor. Petreceți după-amiaza pedalând între spectaculoasa Lagună Albastră și faimoasele locuri de sărituri în apă. Seara, prindeți apusul la punctul de belvedere înainte de a vă întoarce liniștit prin parcul forestier.",
         "en": "Pedal off from the peaceful Echo area as the morning sun casts its first rays over the landscape. Approaching midday, ride down to Ayioi Anargyroi Cave and marvel at the fragile beauty of Sinners'es bridge. Spend your afternoon cycling between the spectacular Blue Lagoon and the famous cliff diving spots. As evening falls, catch the sunset at the View Point before a final serene ride back through the Forest Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig auf dem nassen Asphalt und genießen Sie die frischen Düfte nach dem Regen an der Küste. Suchen Sie mittags Schutz bei den Höhlen, während die Schauer vorbeiziehen. Am Nachmittag kann der Wind auffrischen, fahren Sie also besonders aufmerksam auf offenen Abschnitten. Beenden Sie die Tour am Abend vor der Dämmerung in einem sicheren Tempo wegen der rutschigen Straßen.",
+            "hu": "Kerékpározzon óvatosan a nedves aszfalton, élvezve a friss, eső utáni illatokat a part mentén. Délben keressen fedett helyet a barlangoknál, amíg a sűrűbb záporok elvonulnak a fejünk felett. Délután a szél felerősödhet, így a nyitottabb szakaszokon fokozott figyelemmel tekerjen a sziklák közt. Este a csúszós utak miatt javasolt a túrát még szürkület előtt, biztonságos tempóban befejezni.",
+            "ro": "Mergeți cu bicicleta cu atenție pe asfaltul umed, bucurându-vă de aromele proaspete de după ploaie de-a lungul coastei. La prânz, căutați adăpost la peșteri până trec aversele grele. După-amiaza, vântul se poate intensifica, așa că pedalați cu prudență pe secțiunile deschise. Seara, se recomandă terminarea traseului înainte de amurg din cauza drumurilor alunecoase.",
+            "en": "Cycle carefully on the wet asphalt, enjoying the fresh scents after the rain along the coast. At noon, seek shelter at the caves until the heavy showers pass over. In the afternoon, the wind may pick up, so pedal with caution on the open sections. In the evening, it is recommended to finish the tour before dusk at a safe pace due to slippery roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Echo",
+                "hu": "Echo",
+                "ro": "Echo",
+                "en": "Echo"
+              },
+              "tip_5lang": {
+                "de": "Die Akustik wird durch den Regen verstärkt; rufen Sie in die Leere und hören Sie, wie die feuchte Luft Ihre Stimme über die felsige Landschaft trägt, aber tragen Sie eine Kapuze.",
+                "hu": "A hely egyedülálló akusztikáját felerősíti a hulló eső; kiáltson a semmibe, és hallgassa, ahogy a párás levegő továbbítja hangját a sziklás tájon, miközben kapucnival védi magát.",
+                "ro": "Acustica unică este amplificată de ploaia care cade; strigați în gol și auziți cum aerul umed vă poartă vocea prin peisajul stâncos, dar purtați o glugă pentru protecție.",
+                "en": "The unique acoustics are amplified by the falling rain; shout into the void and hear the damp air carry your voice across the rocky landscape, but keep your hood on to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayioi Anargyroi Höhle",
+                "hu": "Ayioi Anargyroi barlang",
+                "ro": "Peștera Ayioi Anargyroi",
+                "en": "Ayioi Anargyroi Cave"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen Halt, um Ihr Fahrrad kurz abzustellen und im Höhleneingang Schutz vor dem Regen zu suchen; die Atmosphäre hier ist bei Gewitter besonders beeindruckend.",
+                "hu": "Használja ezt a megállót arra, hogy rövid időre letegye a biciklit, és a barlang bejáratánál keressen menedéket az eső elől; a hangulat itt viharos időben különösen lenyűgöző.",
+                "ro": "Folosiți această oprire pentru a lăsa bicicleta scurt timp și a căuta adăpost în intrarea peșterii; atmosfera de aici este deosebit de impresionantă în timpul unei furtuni.",
+                "en": "Use this stop to briefly park your bike and seek shelter in the cave entrance from the rain; the atmosphere here is particularly impressive during stormy weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Sünderbrücke",
+                "hu": "Bűnösök hídja",
+                "ro": "Podul Păcătoșilor",
+                "en": "Sinners'es bridge"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher ab und nähern Sie sich dem Bogen zu Fuß; der Boden ist rutschig, also vermeiden Sie es, auf dem nassen Gestein zu laufen oder zu springen.",
+                "hu": "Állítsa le biztonságosan a kerékpárt, és gyalog közelítse meg az ívet; a talaj csúszós, ezért kerülje a szaladást vagy ugrálást a nedves köveken a balesetek elkerülése végett.",
+                "ro": "Parcați bicicleta în siguranță și abordați arcul pe jos; solul este alunecos, așa că evitați să alergați sau să săriți pe piatra umedă pentru a preveni accidentele.",
+                "en": "Park your bike safely and approach the arch on foot; the ground is slippery, so avoid running or jumping on the wet stone to prevent any accidents during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Das Meer wirkt im Regen wild und dunkel; halten Sie Ihr Fahrrad von der Kante fern und genießen Sie den Anblick der Wellen, die gegen die zerklüfteten Klippen schlagen.",
+                "hu": "A tenger vadnak és sötétnek tűnik az esőben; tartsa távol a kerékpárt a szikla szélétől, és élvezze a hullámok látványát, ahogy a zord szikláknak csapódnak a lagúnánál.",
+                "ro": "Marea pare sălbatică și întunecată în ploaie; țineți bicicleta departe de margine și bucurați-vă de vederea valurilor care se izbesc de stâncile zimțate ale lagunei.",
+                "en": "The sea looks wild and dark in the rain; keep your bike away from the edge and enjoy the view of the waves crashing against the jagged cliffs near the lagoon area."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchhöhle",
+                "hu": "Búvárbarlang",
+                "ro": "Peștera de scufundări",
+                "en": "Diving cave"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger trockener Ort für Radfahrer, um eine Pause einzulegen; die natürliche Felsendecke hält Sie trocken, während Sie Ihre Fahrt auf der Küstenstraße planen.",
+                "hu": "Nagyszerű száraz hely a kerékpárosoknak egy rövid pihenőre; a természetes sziklatető szárazon tartja Önt, miközben megtervezi a továbbhaladást a part menti úton.",
+                "ro": "Un loc uscat excelent pentru bicicliști pentru a face o pauză; tavanul natural de stâncă vă va menține uscat în timp ce vă planificați continuarea traseului pe coastă.",
+                "en": "A great dry spot for cyclists to take a quick break; the natural rock ceiling will keep you dry while you plan your next move along the scenic coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Kap Greco",
+                "hu": "Cape Greco Kilátópont",
+                "ro": "Punct de belvedere Cape Greco",
+                "en": "Cape Greco View Point"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier oben stark sein, was das Radfahren erschwert; steigen Sie ab und gehen Sie zum Aussichtspunkt, um die dramatische Meereslandschaft sicher zu bewundern.",
+                "hu": "A szél itt fent nagyon erős lehet, ami megnehezíti a tekerést; szálljon le a nyeregből és sétáljon a kilátóhoz, hogy biztonságban csodálhassa meg a drámai tengeri tájat.",
+                "ro": "Vântul poate fi foarte puternic aici, îngreunând pedalarea; coborâți de pe bicicletă și mergeți la belvedere pentru a admira peisajul marin dramatic în siguranță.",
+                "en": "The wind can be very strong up here, making cycling difficult; dismount and walk to the viewpoint to admire the dramatic seascape safely in these weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Wacholderbaum (Tree of Cape Greco)",
+                "hu": "Cape Greco fája (Borókafa)",
+                "ro": "Arborele Cape Greco (Ienupărul)",
+                "en": "Tree of Cape Greco (Juniper Tree)"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Baum bietet ein schönes Fotomotiv im Regen; achten Sie auf den schlammigen Boden um den Baum herum, wenn Sie mit dem Fahrrad in seine Nähe kommen.",
+                "hu": "A magányos fa szép fotótémát kínál az esőben is; ügyeljen a fa körüli sárra és csúszós szakaszokra, amikor kerékpárral próbálja megközelíteni a látványosságot.",
+                "ro": "Copacul singuratic oferă un subiect foto frumos în ploaie; aveți grijă la solul noroios din jurul copacului când vă apropiați cu bicicleta de acesta.",
+                "en": "The lonely tree offers a beautiful photo subject even in the rain; watch out for the muddy ground around the tree when approaching it with your bicycle for a picture."
+              }
+            },
+            {
+              "name": {
+                "de": "National Forest Park \"Cape Greco\"",
+                "hu": "Cape Greco Nemzeti Erdőpark",
+                "ro": "Parcul Național Forestier \"Cape Greco\"",
+                "en": "National Forest Park \"Cape Greco\""
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Park können bei Regen rutschig sein; fahren Sie mit niedrigem Reifendruck für besseren Grip und genießen Sie den Duft des nassen Bodens und der Vegetation.",
+                "hu": "A park ösvényei esőben csúszósak lehetnek; tekerjen alacsonyabb guminyomással a jobb tapadásért, és élvezze a nedves föld és a friss növényzet intenzív illatát.",
+                "ro": "Potecile din parc pot fi alunecoase când plouă; pedalați cu o presiune mai mică în anvelope pentru o aderență mai bună și bucurați-vă de mirosul pământului umed.",
+                "en": "The paths in the park can be slippery when it rains; ride with lower tire pressure for better grip and enjoy the intense scent of the wet earth and vegetation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen auf dem Fahrrad ist belebend, aber ziehen Sie sich windfest an. Nutzen Sie mittags die Pause bei den Höhlen, um die Stille und die kristallklare Luft zu genießen. Fahren Sie am Nachmittag zügig zu den letzten Stopps, um die Tour noch bei Tageslicht zu beenden. Nach 17:00 Uhr sinkt die Temperatur schnell, kehren Sie also rechtzeitig ins Warme zurück.",
+            "hu": "A friss téli reggelen a kerékpározás élénkítő élmény a tengerparti szellőben, de öltözzön szélállóan. Délben a barlangoknál tett pihenő alatt élvezheti a csendet és a kristálytiszta, hűvös levegőt. Délután haladjon tempósan az utolsó megállók felé, hogy még világosban befejezhesse a kerékpárutat. Este 17:00 után a hőmérséklet hirtelen leesik, így érdemes időben meleg helyre vonulni.",
+            "ro": "O dimineață răcoroasă de iarnă pe bicicletă este o experiență revigorantă, dar îmbrăcați-vă cu haine rezistente la vânt. La prânz, bucurați-vă de liniște și de aerul cristalin în timpul pauzei de la peșteri. După-amiaza, deplasați-vă rapid către ultimele opriri pentru a termina traseul pe lumină. După ora 17:00, temperatura scade brusc, așa că reveniți la căldură.",
+            "en": "A fresh winter morning on a bike is an invigorating experience in the coastal breeze, but dress in windproof layers. At noon, enjoy the silence and crystal-clear air during a break at the caves. In the afternoon, move quickly towards the final stops to finish the route while it's still light. After 5 PM, the temperature drops suddenly, so head back to warmth in time."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Echo",
+                "hu": "Echo",
+                "ro": "Echo",
+                "en": "Echo"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft macht den Echo-Effekt noch deutlicher; es ist ein lustiger Halt, um sich durch Bewegung aufzuwärmen, während man die weite Küstenlandschaft genießt.",
+                "hu": "A friss, hideg levegő még hangsúlyosabbá teszi a visszhangot; szórakoztató megálló, ahol mozgással melegedhet fel, miközben élvezi a tágas és tiszta tengerparti látványt.",
+                "ro": "Aerul rece de iarnă face efectul de ecou și mai pronunțat; este o oprire distractivă pentru a vă încălzi prin mișcare în timp ce admirați peisajul de coastă vast.",
+                "en": "The crisp, cold air makes the echo effect even more pronounced; it is a fun stop to warm up by moving around and enjoying the vast, open and clear coastal scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayioi Anargyroi Höhle",
+                "hu": "Ayioi Anargyroi barlang",
+                "ro": "Peștera Ayioi Anargyroi",
+                "en": "Ayioi Anargyroi Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet Schutz vor dem kühlen Wind; es ist ein friedlicher Ort, um kurz vom Fahrrad abzusteigen und die Winterlandschaft in aller Ruhe zu betrachten.",
+                "hu": "A barlang védelmet nyújt a hűvös téli szél elől; békés hely, ahol érdemes leszállni a bicikliről, és nyugodtan szemlélni a környező, érintetlen téli táj szépségét.",
+                "ro": "Peștera oferă protecție împotriva vântului rece de iarnă; este un loc liniștit unde merită să coborâți de pe bicicletă și să admirați frumusețea peisajului în tihnă.",
+                "en": "The cave provides protection from the cool winter wind; it's a peaceful spot to get off your bike and quietly observe the beauty of the surrounding winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Sünderbrücke",
+                "hu": "Bűnösök hídja",
+                "ro": "Podul Păcătoșilor",
+                "en": "Sinners'es bridge"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Winterlicht am Nachmittag lässt den Steinbogen wunderschön leuchten; halten Sie kurz an für ein schnelles Foto, bevor die Sonne zu tief sinkt.",
+                "hu": "A délutáni aranyló téli fényekben a kőív csodálatosan ragyog; álljon meg egy rövid időre egy gyors fotóra, mielőtt a nap túl alacsonyra süllyedne a horizonton.",
+                "ro": "Luminile aurii de iarnă de după-amiază fac arcul de piatră să strălucească minunat; opriți-vă scurt pentru o fotografie rapidă înainte ca soarele să apună prea mult.",
+                "en": "The golden winter lights in the afternoon make the stone arch glow beautifully; stop for a short time for a quick photo before the sun sinks too low on the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune ist im Winter menschenleer und bietet Radfahrern eine ruhige Kulisse; das klare Wasser spiegelt den weichen Himmel perfekt wider, ideal zum Verschnaufen.",
+                "hu": "A lagúna télen néptelen, csendes hátteret biztosítva a kerékpárosoknak; a tiszta víz tökéletesen tükrözi a lágy eget, ideális hely egy kis pihenőre tekerés közben.",
+                "ro": "Laguna este pustie iarna, oferind un fundal liniștit pentru bicicliști; apa limpede reflectă perfect cerul moale, fiind un loc ideal pentru o scurtă pauză de relaxare.",
+                "en": "The lagoon is deserted in winter, providing a quiet backdrop for cyclists; the clear water reflects the soft sky perfectly, making it an ideal spot for a quick breather."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchhöhle",
+                "hu": "Búvárbarlang",
+                "ro": "Peștera de scufundări",
+                "en": "Diving cave"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Felsformationen ohne den Trubel; im Winter ist die Küste ruhig, und Sie können die geologischen Details der Höhle viel besser schätzen als im Sommer.",
+                "hu": "Fedezze fel a sziklaalakzatokat a nyári nyüzsgés nélkül; télen a part csendes, és sokkal jobban értékelheti a barlang geológiai részleteit, mint a forró főszezonban.",
+                "ro": "Explorați formațiunile stâncoase fără agitația verii; iarna coasta este liniștită și puteți aprecia detaliile geologice ale peșterii mult mai bine decât în plin sezon.",
+                "en": "Explore the rock formations without the summer hustle; in winter the coast is quiet, and you can appreciate the cave's geological details much better than in high season."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Kap Greco",
+                "hu": "Cape Greco Kilátópont",
+                "ro": "Punct de belvedere Cape Greco",
+                "en": "Cape Greco View Point"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist im Winter hervorragend, aber der Wind beim Radfahren ist kühl; bringen Sie Handschuhe mit, um Ihre Hände am Lenker warm zu halten, während Sie die Aussicht genießen.",
+                "hu": "A látótávolság télen kiváló, de a szél tekerés közben hűvös lehet; hozzon kesztyűt, hogy melegen tartsa kezeit a kormányon, miközben a pazar kilátásban gyönyörködik.",
+                "ro": "Vizibilitatea este excelentă iarna, dar vântul în timp ce pedalați este rece; aduceți mănuși pentru a vă menține mâinile calde pe ghidon în timp ce admirați priveliștea.",
+                "en": "Visibility is excellent in winter, but the wind while cycling can be chilly; bring gloves to keep your hands warm on the handlebars while enjoying the magnificent view."
+              }
+            },
+            {
+              "name": {
+                "de": "Wacholderbaum (Tree of Cape Greco)",
+                "hu": "Cape Greco fája (Borókafa)",
+                "ro": "Arborele Cape Greco (Ienupărul)",
+                "en": "Tree of Cape Greco (Juniper Tree)"
+              },
+              "tip_5lang": {
+                "de": "Ein ikonischer Stopp für Radfahrer; der Wacholderbaum steht fest im Winterwind und bietet eine großartige Gelegenheit für ein schnelles Foto in der milden Mittagssonne.",
+                "hu": "Ikonikus megálló a kerékpárosoknak; a borókafa szilárdan áll a téli szélben, és nagyszerű lehetőséget kínál egy gyors fotóra az enyhe, de ragyogó déli napsütésben.",
+                "ro": "O oprire iconică pentru bicicliști; ienupărul stă ferm în vântul de iarnă și oferă o oportunitate excelentă pentru o fotografie rapidă în soarele blând de la prânz.",
+                "en": "An iconic stop for cyclists; the juniper tree stands firm in the winter wind and offers a great opportunity for a quick photo in the mild but bright midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "National Forest Park \"Cape Greco\"",
+                "hu": "Cape Greco Nemzeti Erdőpark",
+                "ro": "Parcul Național Forestier \"Cape Greco\"",
+                "en": "National Forest Park \"Cape Greco\""
+              },
+              "tip_5lang": {
+                "de": "Der Park ist ideal für Winter-Biking; die Temperaturen sind angenehm für körperliche Anstrengung, und Sie können die Natur ohne die Sommerhitze voll genießen.",
+                "hu": "A park ideális a téli kerékpározáshoz; a hőmérséklet kellemes a fizikai igénybevételhez, és a nyári hőség nélkül élvezheti a természetet az ösvényeken tekerve.",
+                "ro": "Parcul este ideal pentru ciclism de iarnă; temperaturile sunt plăcute pentru efort fizic și vă puteți bucura de natură fără căldura sufocantă a verii pe poteci.",
+                "en": "The park is ideal for winter biking; the temperatures are pleasant for physical exertion, and you can enjoy nature without the summer heat while riding on the paths."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1047,252 @@
         "hu": "Autózzon korán a Nemzeti Erdőparkba, hogy még a nappali hőség beállta előtt bejárja ösvényeit. Délre könnyedén elérheti az ikonikus borókafát és a lenyűgöző Cape Greco kilátót. Délután parkoljon le a drámai búvárbarlang közelében, és mártózzon meg a Kék Lagúna vizében. A tengerparti utazás az esti fényekkel zárul a bűnösök hídjánál és a békés Echo pihenőhelynél.",
         "ro": "Conduceți devreme către Parcul Național Forestier pentru a explora traseele înainte de a se face cald. La prânz, deplasați-vă ușor între ienupărul emblematic și priveliștile ample de la punctul de belvedere. După-amiaza, parcați lângă peștera de scufundări și faceți o baie răcoritoare în apele Lagunei Albastre. Călătoria se încheie frumos cu lumina serii la podul Păcătoșilor și la Echo.",
         "en": "Drive to the National Forest Park early to wander its trails before the heat of the day sets in. By midday, effortlessly hop between the iconic Juniper Tree and the sweeping vistas of the Cape Greco View Point. In the afternoon, park near the dramatic Diving cave and take a refreshing dip in the crystal waters of the Blue Lagoon. Your coastal drive finishes beautifully with evening light at Sinners'es bridge and Echo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Komfort Ihres Autos aus können Sie die wilden Küsten von Cape Greco auch bei starkem Regen erkunden. Halten Sie mittags an den Aussichtspunkten an und bewundern Sie die Kraft des stürmischen Meeres hinter der Windschutzscheibe. Erfrischen Sie sich nachmittags bei kurzen Spaziergängen zu den Höhlen und nutzen Sie die Regenpausen. Kehren Sie am Abend trotz nasser Straßen sicher zurück.",
+            "hu": "Az autó kényelméből a legzordabb esőben is felfedezheti Cape Greco vadregényes partjait és szikláit. Délben álljon meg a kilátópontoknál, és csodálja a viharos tenger erejét a szélvédő mögül vagy egy esernyővel. Délután a barlangokhoz tett rövid séták alatt frissüljön fel, kihasználva a két zápor közötti szüneteket. Este a nedves utak ellenére is biztonságban érhet vissza.",
+            "ro": "Din confortul mașinii, puteți explora coastele sălbatice din Cape Greco chiar și în cea mai puternică ploaie. La prânz, opriți-vă la punctele de belvedere și admirați forța mării furtunoase din spatele parbrizului. După-amiaza, împrospătați-vă cu scurte plimbări la peșteri, profitând de pauzele dintre averse. Seara, reveniți în siguranță, în ciuda drumurilor ude.",
+            "en": "From the comfort of your car, you can explore the wild shores and cliffs of Cape Greco even in the heaviest rain. At noon, stop at the viewpoints and admire the power of the stormy sea from behind your windshield or with an umbrella. In the afternoon, refresh yourself during short walks to the caves, taking advantage of the breaks between showers. Return safely in the evening despite the wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "National Forest Park \"Cape Greco\"",
+                "hu": "Cape Greco Nemzeti Erdőpark",
+                "ro": "Parcul Național Forestier \"Cape Greco\"",
+                "en": "National Forest Park \"Cape Greco\""
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den Park, um die im Regen glänzende Vegetation zu bewundern; bleiben Sie für Fotos im Auto oder nutzen Sie die überdachten Infotafeln als Schutz.",
+                "hu": "Hajtson lassan a parkon keresztül, hogy megcsodálja az esőben csillogó vegetációt; maradjon az autóban a fotózáshoz, vagy használja a fedett információs táblákat menedékként.",
+                "ro": "Conduceți încet prin parc pentru a admira vegetația strălucitoare în ploaie; rămâneți în mașină pentru fotografii sau folosiți panourile informative acoperite ca adăpost.",
+                "en": "Drive slowly through the park to admire the vegetation glistening in the rain; stay in the car for photos or use the covered information boards as a temporary shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Wacholderbaum (Tree of Cape Greco)",
+                "hu": "Cape Greco fája (Borókafa)",
+                "ro": "Arborele Cape Greco (Ienupărul)",
+                "en": "Tree of Cape Greco (Juniper Tree)"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist möglich, da Sie in der Nähe parken können; springen Sie kurz raus, um den Baum im Regen festzuhalten, und kehren Sie dann schnell ins trockene Auto zurück.",
+                "hu": "Egy gyors megálló lehetséges, mivel közel tud parkolni a fához; ugorjon ki egy pillanatra, hogy megörökítse a fát az esőben, majd térjen vissza gyorsan a száraz autóba.",
+                "ro": "O oprire rapidă este posibilă deoarece puteți parca aproape de copac; ieșiți un moment pentru a surprinde copacul în ploaie, apoi reveniți rapid în mașina uscată.",
+                "en": "A quick stop is possible as you can park close to the tree; hop out for a moment to capture the tree in the rain, then return quickly to the dry comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Kap Greco",
+                "hu": "Cape Greco Kilátópont",
+                "ro": "Punct de belvedere Cape Greco",
+                "en": "Cape Greco View Point"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt vom Parkplatz aus; der Regen macht die Küstenlinie dramatisch, und Sie können die Aussicht genießen, ohne nass zu werden.",
+                "hu": "Élvezze a panorámát közvetlenül a parkolóból; az eső drámaivá teszi a partvonalat, Ön pedig anélkül gyönyörködhet a kilátásban, hogy teljesen elázna a szabadban.",
+                "ro": "Bucurați-vă de panorama direct din parcare; ploaia face linia coastei dramatică, iar voi puteți admira priveliștea fără a vă uda complet afară în condiții de ploaie.",
+                "en": "Enjoy the panoramic view directly from the parking lot; the rain makes the coastline dramatic, and you can admire the view without getting completely soaked outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchhöhle",
+                "hu": "Búvárbarlang",
+                "ro": "Peștera de scufundări",
+                "en": "Diving cave"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie oben und gehen Sie den kurzen Weg zur Höhle; sie ist ein großartiger natürlicher Schutzraum, in dem man dem Regen lauschen kann, bevor man weiterfährt.",
+                "hu": "Parkoljon le fent, és tegye meg a rövid utat a barlangig; ez egy nagyszerű természetes óvóhely, ahol hallgathatja az eső kopogását, mielőtt továbbindulna az útján.",
+                "ro": "Parcați sus și parcurgeți drumul scurt până la peșteră; este un adăpost natural excelent unde puteți asculta ploaia înainte de a vă continua călătoria cu mașina.",
+                "en": "Park above and take the short walk to the cave; it is a great natural shelter where you can listen to the rain before continuing your journey further along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das dunkle Wasser der Lagune aus der Sicherheit Ihres Fahrzeugs; die Farben ändern sich im Regen ständig und bieten ein faszinierendes Naturschauspiel.",
+                "hu": "Figyelje meg a lagúna sötét vizét a jármű biztonságából; a színek az esőben folyamatosan változnak, lenyűgöző természeti látványt nyújtva az utasok számára.",
+                "ro": "Observați apa întunecată a lagunei din siguranța vehiculului; culorile se schimbă constant în ploaie, oferind un spectacol natural fascinant pentru vizitatori.",
+                "en": "Observe the dark water of the lagoon from the safety of your vehicle; the colors change constantly in the rain, providing a fascinating natural spectacle for viewers."
+              }
+            },
+            {
+              "name": {
+                "de": "Sünderbrücke",
+                "hu": "Bűnösök hídja",
+                "ro": "Podul Păcătoșilor",
+                "en": "Sinners'es bridge"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang vom Auto zum Bogen lohnt sich; nehmen Sie einen Regenschirm mit, um den Steinbogen sicher zu besichtigen, da der Pfad dorthin rutschig sein kann.",
+                "hu": "Egy rövid séta az autótól az ívig megéri a fáradtságot; vigyen magával esernyőt a kőhíd biztonságos megtekintéséhez, mivel az odavezető ösvény csúszós lehet.",
+                "ro": "O scurtă plimbare de la mașină până la arc merită efortul; luați o umbrelă pentru a vizita podul de piatră în siguranță, deoarece poteca poate fi alunecoasă.",
+                "en": "A short walk from the car to the arch is worth the effort; take an umbrella to see the stone bridge safely, as the path leading there can be quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayioi Anargyroi Höhle",
+                "hu": "Ayioi Anargyroi barlang",
+                "ro": "Peștera Ayioi Anargyroi",
+                "en": "Ayioi Anargyroi Cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle und die Kapelle sind leicht mit dem Auto zu erreichen; sie bieten einen trockenen und spirituellen Ort, um dem Wetter für einen Moment zu entkommen.",
+                "hu": "A barlang és a kápolna könnyen megközelíthető autóval; száraz és spirituális helyet kínálnak, ahol egy pillanatra elmenekülhet a zord időjárás és az eső elől.",
+                "ro": "Peștera și capela sunt ușor de accesat cu mașina; acestea oferă un loc uscat și spiritual pentru a scăpa de vremea rea și de ploaie pentru un moment de liniște.",
+                "en": "The cave and chapel are easily accessible by car; they offer a dry and spiritual place to escape the bad weather and rain for a moment of quiet reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Echo",
+                "hu": "Echo",
+                "ro": "Echo",
+                "en": "Echo"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für einen Moment im Auto und hören Sie, wie der Regen auf das Dach trommelt, bevor Sie kurz aussteigen, um das Echo im feuchten Tal zu testen.",
+                "hu": "Maradjon egy pillanatra az autóban, és hallgassa az eső kopogását a tetőn, mielőtt kiszállna, hogy letesztelje a visszhangot a párás és sziklás völgyben.",
+                "ro": "Rămâneți un moment în mașină și ascultați ploaia bătând în plafon înainte de a coborî scurt pentru a testa ecoul în valea umedă și stâncoasă de aici.",
+                "en": "Stay in the car for a moment and listen to the rain drumming on the roof before getting out briefly to test the echo in the damp and rocky valley nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vom Komfort Ihres Autos aus können Sie alle Facetten von Cape Greco im Winter entdecken, trotz des beißenden Winds. Machen Sie mittags kurze Spaziergänge an den Aussichtspunkten und wärmen Sie sich dann im Auto wieder auf. Am Nachmittag ist der Anblick der Klippen im klaren Winterlicht am schönsten. Kehren Sie nach dem frühen Sonnenuntergang auf friedlichen Straßen zurück.",
+            "hu": "A fűtött autó kényelméből a téli Cape Greco minden arcát felfedezheti a csípős szél ellenére is. Délben a kilátópontoknál tegyen rövid sétákat, majd melegedjen vissza az autóban a következő állomásig. Délután a barlangok és a tengerparti sziklák látványa a tiszta téli fényben a legszebb és legélesebb. Este a korai naplemente után is könnyedén visszatérhet.",
+            "ro": "Din confortul mașinii încălzite, puteți descoperi toate fețele zonei Cape Greco iarna, în ciuda vântului tăios. La prânz, faceți scurte plimbări la punctele de belvedere, apoi reîncălziți-vă în mașină. După-amiaza, vederea stâncilor în lumina clară de iarnă este cea mai frumoasă. Reveniți cu ușurință după apusul timpuriu.",
+            "en": "From the comfort of a heated car, you can discover all the faces of winter Cape Greco despite the biting wind. At noon, take short walks at the viewpoints, then warm up back in the car until the next stop. In the afternoon, the view of the caves and coastal cliffs is most beautiful and sharp in the clear winter light. Return easily after the early sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "National Forest Park \"Cape Greco\"",
+                "hu": "Cape Greco Nemzeti Erdőpark",
+                "ro": "Parcul Național Forestier \"Cape Greco\"",
+                "en": "National Forest Park \"Cape Greco\""
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch den Park ist im Winter sehr angenehm; nutzen Sie die Parkplätze für kurze Erkundungsgänge in der milden Sonne ohne die Hitze des Sommers.",
+                "hu": "A parkon keresztüli autózás télen nagyon kellemes; használja a parkolókat rövid felfedező sétákhoz az enyhe napsütésben, a nyári fojtogató hőség nélkül.",
+                "ro": "Conducerea prin parc este foarte plăcută iarna; folosiți parcările pentru scurte plimbări de explorare în soarele blând, fără căldura sufocantă a verii.",
+                "en": "Driving through the park is very pleasant in winter; use the parking lots for short exploratory walks in the mild sun without the stifling heat of the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Wacholderbaum (Tree of Cape Greco)",
+                "hu": "Cape Greco fája (Borókafa)",
+                "ro": "Arborele Cape Greco (Ienupărul)",
+                "en": "Tree of Cape Greco (Juniper Tree)"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie direkt beim Baum an; im Winter ist es hier ruhig, und Sie können sich Zeit für das perfekte Foto nehmen, bevor Sie wieder in Ihr warmes Auto steigen.",
+                "hu": "Álljon meg közvetlenül a fánál; télen itt nagy a nyugalom, és bőven van ideje a tökéletes fotóra, mielőtt újra visszaülne a kényelmes és meleg autójába.",
+                "ro": "Opriți-vă direct lângă copac; iarna este liniște aici și vă puteți face timp pentru fotografia perfectă înainte de a vă urca înapoi în mașina călduroasă.",
+                "en": "Stop directly by the tree; in winter it is quiet here, and you can take your time for the perfect photo before getting back into your comfortable and warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Kap Greco",
+                "hu": "Cape Greco Kilátópont",
+                "ro": "Punct de belvedere Cape Greco",
+                "en": "Cape Greco View Point"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht; steigen Sie kurz aus, um die frische Meeresbrise zu genießen, und nutzen Sie die hervorragende Fernsicht im Winter.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik; szálljon ki egy rövid időre, hogy élvezze a friss tengeri szellőt és a télen tapasztalható kiváló látótávolságot a horizonton.",
+                "ro": "Parcarea oferă o priveliște excelentă; coborâți scurt pentru a vă bucura de briza proaspătă a mării și de vizibilitatea excelentă la distanță tipică iernii.",
+                "en": "The parking lot offers a great view; get out briefly to enjoy the fresh sea breeze and take advantage of the excellent long-distance visibility in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Tauchhöhle",
+                "hu": "Búvárbarlang",
+                "ro": "Peștera de scufundări",
+                "en": "Diving cave"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle ist im Winter ein stiller Ort; erkunden Sie die Felsen ohne die üblichen Tauchergruppen und genießen Sie die ungestörte Sicht auf das klare Meer.",
+                "hu": "A barlang télen csendes hely; fedezze fel a sziklákat a szokásos búvárcsoportok nélkül, és élvezze a tiszta tengerre nyíló zavartalan és békés kilátást.",
+                "ro": "Peștera este un loc liniștit iarna; explorați stâncile fără grupurile obișnuite de scafandri și bucurați-vă de vederea neîntreruptă asupra mării limpezi.",
+                "en": "The cave is a quiet place in winter; explore the rocks without the usual diving groups and enjoy the undisturbed and peaceful view of the clear sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Blaue Lagune",
+                "hu": "Kék Lagúna",
+                "ro": "Laguna Albastră",
+                "en": "Blue Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Die Lagune wirkt im Winter verlassen und friedlich; bewundern Sie das tiefe Blau des Wassers vom Ufer aus, bevor Sie zur nächsten Station weiterfahren.",
+                "hu": "A lagúna télen elhagyatottnak és békésnek tűnik; csodálja meg a víz mélykék színét a partról egy rövid séta alatt, mielőtt továbbhajtana a következő állomásra.",
+                "ro": "Laguna pare părăsită și liniștită iarna; admirați culoarea albastru închis a apei de pe țărm în timpul unei scurte plimbări înainte de a pleca spre următoarea oprire.",
+                "en": "The lagoon looks deserted and peaceful in winter; admire the deep blue color of the water from the shore during a short walk before driving on to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Sünderbrücke",
+                "hu": "Bűnösök hídja",
+                "ro": "Podul Păcătoșilor",
+                "en": "Sinners'es bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Nachmittagssonne beleuchtet den Bogen in warmen Tönen; es ist die ideale Zeit für Autofahrer, um kurz anzuhalten und dieses Naturwunder in aller Ruhe zu sehen.",
+                "hu": "A délutáni nap meleg tónusokkal világítja meg az ívet; ideális időszak az autósoknak egy rövid megállóra, hogy nyugodtan megtekintsék ezt a természeti csodát.",
+                "ro": "Soarele de după-amiază luminează arcul în tonuri calde; este momentul ideal pentru șoferi să oprească scurt și să vadă această minune a naturii în liniște.",
+                "en": "The afternoon sun illuminates the arch in warm tones; it is the ideal time for drivers to stop briefly and see this natural wonder in total peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayioi Anargyroi Höhle",
+                "hu": "Ayioi Anargyroi barlang",
+                "ro": "Peștera Ayioi Anargyroi",
+                "en": "Ayioi Anargyroi Cave"
+              },
+              "tip_5lang": {
+                "de": "Ein Muss im Winter wegen des einfachen Zugangs; beobachten Sie den frühen Sonnenuntergang von den Klippen aus und kehren Sie dann schnell ins warme Auto zurück.",
+                "hu": "Télen kötelező megálló a könnyű megközelíthetőség miatt; nézze meg a korai naplementét a sziklákról, majd térjen vissza gyorsan a kellemesen meleg autójába.",
+                "ro": "O oprire obligatorie iarna datorită accesului ușor; urmăriți apusul timpuriu de pe stânci, apoi reveniți rapid în mașina voastră confortabilă și încălzită.",
+                "en": "A must-stop in winter due to the easy access; watch the early sunset from the cliffs, then return quickly to the comfort of your warm and cozy car."
+              }
+            },
+            {
+              "name": {
+                "de": "Echo",
+                "hu": "Echo",
+                "ro": "Echo",
+                "en": "Echo"
+              },
+              "tip_5lang": {
+                "de": "Die kalte, klare Luft verstärkt den Schalleffekt; ein schneller und unterhaltsamer Halt am späten Nachmittag, um die weite Landschaft in der Abenddämmerung zu erleben.",
+                "hu": "A hideg, tiszta levegő felerősíti a hanghatást; gyors és szórakoztató megálló késő délután, hogy megtapasztalja a tágas tájat a hűvös alkonyati fényekben.",
+                "ro": "Aerul rece și limpede amplifică efectul sonor; o oprire rapidă și distractivă după-amiaza târziu pentru a experimenta peisajul vast în lumina rece a amurgului.",
+                "en": "The cold, clear air amplifies the sound effect; it is a quick and entertaining stop in the late afternoon to experience the vast landscape in the cool twilight lights."
+              }
+            }
+          ]
+        }
       }
     }
   }

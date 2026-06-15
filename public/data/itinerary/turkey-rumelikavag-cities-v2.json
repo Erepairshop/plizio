@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot ott, ahol a Boszporusz összeszűkül, magába szívva a tengerparti hangulatot. Látogassa meg az európai partvidék nevezetességeit. Ahogy a nap magasabbra hág, fedezze fel a drámai erődítményeket, amelyek egykor a szorost őrizték. Pihenjen a strandon a csillogó víz mellett, vagy figyelje meg a vándormadarakat. Zárja utazását egy csodálatos naplementével, ahol az aranyfényben fürdő várak látványa tökéletes és emlékezetes befejezést nyújt.",
         "ro": "Începeți-vă ziua acolo unde Bosforul se îngustează, bucurându-vă de atmosfera de coastă. Vizitați siturile istorice de-a lungul țărmului european. Pe măsură ce soarele urcă, explorați fortificațiile dramatice care păzeau odată strâmtoarea. Relaxați-vă la plaja locală și fiți cu ochii în patru după păsările migratoare. Încheiați-vă călătoria cu un apus uimitor care aruncă o strălucire aurie asupra castelelor, creând un final perfect.",
         "en": "Begin your day where the Bosphorus winds narrow, soaking in the coastal atmosphere. Visit the sacred and historical sites along the European shoreline. As the sun rises higher, explore the dramatic coastal fortifications that once guarded the strait. Relax near the shimmering waters at the local beach and keep an eye out for migratory birds. Conclude your journey as the sunset casts a golden glow on the castles, creating a perfect ending to your walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Telli Baba Schrein, wo das Prasseln des Regens auf das Meer eine andächtige Stille erzeugt. Mittags bieten die Moscheen im Dorf trockenen Unterschlupf, während die Fischerboote im Hafen tanzen. Nachmittags wirken die alten Festungen im Nebel fast mystisch, doch die Pfade sind rutschig. Am Abend erreichen Sie den Aussichtsturm, wenn die Wolken über dem Bosporus tief hängen.",
+            "hu": "A napot a Telli Baba szentélynél kezdjük, ahol az eső kopogása a tengeren mély, áhítatos csendet teremt. Délben a falu mecsetei nyújtanak száraz menedéket, miközben a kikötőben táncolnak a halászhajók. Délután a ködbe burkolózó erődök misztikus látványt nyújtanak, de az utak ilyenkor csúszósak. Este a madármegfigyelő toronyhoz érünk, amikor a felhők alacsonyan szállnak a Boszporusz felett.",
+            "ro": "Începeți ziua la sanctuarul Telli Baba, unde ropotul ploii pe mare creează o liniște meditativă. La prânz, moscheile din sat oferă un adăpost uscat în timp ce bărcile de pescuit dansează în port. După-amiaza, fortărețele vechi par mistice în ceață, dar potecile devin alunecoase. Seara veți ajunge la turnul de observare, când norii plutesc jos deasupra Bosforului.",
+            "en": "Start the day at the Telli Baba shrine, where the patter of rain on the sea creates a meditative silence. At noon, the village mosques offer dry shelter while fishing boats dance in the harbor. In the afternoon, the old fortifications look mystical in the mist, but the paths are slippery. By evening, you reach the observation tower as the clouds hang low over the Bosphorus."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Telli Baba",
+                "hu": "Telli Baba",
+                "ro": "Telli Baba",
+                "en": "Telli Baba"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Gebetsbereich, um das Meer im Regen zu beobachten; tragen Sie feste Schuhe, da die Steinstufen zum Schrein bei Nässe sehr glatt werden.",
+                "hu": "Használja a fedett imateret a tengeri kilátás élvezetéhez esőben is; viseljen tapadós talpú cipőt, mert a szentélyhez vezető kőlépcsők rendkívül csúszósak lehetnek.",
+                "ro": "Folosiți zona de rugăciune acoperită pentru a admira marea pe ploaie; purtați încălțăminte aderentă, deoarece treptele de piatră spre sanctuar devin foarte alunecoase.",
+                "en": "Use the covered prayer area to observe the sea in the rain; wear shoes with good grip as the stone steps to the shrine become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Yusuf Ağa Camii",
+                "hu": "Yusuf Ağa Camii",
+                "ro": "Yusuf Ağa Camii",
+                "en": "Yusuf Ağa Camii"
+              },
+              "tip_5lang": {
+                "de": "Diese kleine Moschee ist der ideale Ort, um einen heftigen Schauer abzuwarten; bewundern Sie die Holzarbeiten im Inneren, während Sie draußen dem Regen lauschen.",
+                "hu": "Ez a kis mecset ideális hely egy kiadós zápor kivárására; csodálja meg a belső fafaragásokat, miközben bentről hallgatja a kinti eső kopogását az ablakokon.",
+                "ro": "Această mică moschee este locul ideal pentru a aștepta trecerea unei averse; admirați lucrătura în lemn din interior în timp ce ascultați ploaia de afară.",
+                "en": "This small mosque is the ideal place to wait out a heavy shower; admire the interior woodwork while listening to the rain pattering outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Tabyaları",
+                "hu": "Rumeli Kavağı Tabyaları",
+                "ro": "Rumeli Kavağı Tabyaları",
+                "en": "Rumeli Kavağı Tabyaları"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen bieten nur wenig Schutz, daher ist ein Regencape Pflicht; halten Sie sich von den grasbewachsenen Kanten fern, da der Boden durch den Regen instabil sein kann.",
+                "hu": "A romok kevés védelmet nyújtanak, ezért az esőköpeny kötelező; maradjon távol a füves szélektől, mert a talaj az eső miatt instabillá és sárossá válhat.",
+                "ro": "Ruinele oferă puțin adăpost, așa că pelerina de ploaie este obligatorie; stați departe de marginile înierbate, deoarece solul poate fi instabil din cauza ploii.",
+                "en": "The ruins offer little shelter, so a rain cape is mandatory; stay away from the grassy edges as the ground can be unstable and muddy due to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Plajı",
+                "hu": "Rumeli Kavağı Plajı",
+                "ro": "Rumeli Kavağı Plajı",
+                "en": "Rumeli Kavağı Plajı"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen verlassen und wild; nutzen Sie die Vordächer der nahen Fischrestaurants, um den Blick auf den grauen Bosporus windgeschützt zu genießen.",
+                "hu": "A strand esőben elhagyatott és vad arcát mutatja; használja a közeli haléttermek előtetőit, hogy szélvédett helyről élvezhesse a szürke Boszporusz látványát.",
+                "ro": "Plaja pare pustie și sălbatică pe ploaie; folosiți copertinele restaurantelor de pește din apropiere pentru a admira Bosforul gri, protejați de vânt.",
+                "en": "The beach looks deserted and wild in the rain; use the awnings of nearby fish restaurants to enjoy the view of the grey Bosphorus while protected from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Feneryolu Bird Observation Tower",
+                "hu": "Feneryolu Bird Observation Tower",
+                "ro": "Feneryolu Bird Observation Tower",
+                "en": "Feneryolu Bird Observation Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm ist dem Wind stark ausgesetzt, halten Sie Ferngläser unter der Kleidung trocken; die Sicht kann eingeschränkt sein, was die Atmosphäre jedoch einzigartig macht.",
+                "hu": "A torony erősen ki van téve a szélnek, tartsa távcsövét a ruhája alatt szárazon; a látótávolság korlátozott lehet, de ez egyedi, viharos hangulatot kölcsönöz a tájnak.",
+                "ro": "Turnul este expus vântului puternic, țineți binoclul uscat sub haine; vizibilitatea poate fi redusă, dar acest lucru oferă o atmosferă unică și dramatică peisajului.",
+                "en": "The tower is highly exposed to the wind, keep your binoculars dry under your clothes; visibility may be limited, but this gives a unique, dramatic feel to the landscape."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die winterliche Ruhe in Rumelikavağı, wenn der kalte Wind vom Schwarzen Meer weht. Am Morgen wärmt die spirituelle Atmosphäre im Telli Baba, gefolgt von einem heißen Tee in der Nähe der Moschee. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Festungen im hellen Mittagslicht besuchen. Der Abend gehört der gemütlichen Stille des Dorfes, bevor die Dunkelheit den Bosporus verschluckt.",
+            "hu": "Tapasztalja meg a téli nyugalmat Rumelikavağıban, amikor a Fekete-tenger felől hideg szél fúj. Reggel a Telli Baba spirituális ereje melegít, amit egy forró tea követ a mecset közelében. Mivel a nap már 17:00 körül lemegy, az erődöket a déli fényben látogassa meg. Az este a falu meghitt csendjéé, mielőtt a sötétség teljesen elnyeli a Boszporuszt.",
+            "ro": "Experimentați liniștea iernii în Rumelikavağı, când vântul rece suflă dinspre Marea Neagră. Dimineața, atmosfera spirituală de la Telli Baba vă încălzește, urmată de un ceai fierbinte lângă moschee. Deoarece soarele apune deja în jurul orei 17:00, vizitați fortărețele în lumina prânzului. Seara aparține liniștii primitoare a satului, înainte ca întunericul să cuprindă Bosforul.",
+            "en": "Experience the winter serenity in Rumelikavağı when the cold wind blows from the Black Sea. In the morning, the spiritual atmosphere at Telli Baba warms you, followed by a hot tea near the mosque. Since the sun sets around 17:00, visit the fortifications in the bright midday light. The evening belongs to the cozy silence of the village before darkness swallows the Bosphorus."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Telli Baba",
+                "hu": "Telli Baba",
+                "ro": "Telli Baba",
+                "en": "Telli Baba"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet Schutz vor dem beißenden Seewind; zünden Sie eine Kerze an und genießen Sie die Wärme des Ortes, bevor Sie den windigen Küstenweg fortsetzen.",
+                "hu": "A belső tér védelmet nyújt a metsző tengeri szél ellen; gyújtson egy gyertyát és élvezze a hely belső melegét, mielőtt folytatná útját a szeles tengerparti úton.",
+                "ro": "Interiorul oferă protecție împotriva vântului tăios de mare; aprindeți o lumânare și bucurați-vă de căldura locului înainte de a continua pe drumul de coastă vântos.",
+                "en": "The interior provides protection against the biting sea wind; light a candle and enjoy the warmth of the place before continuing on the windy coastal path."
+              }
+            },
+            {
+              "name": {
+                "de": "Yusuf Ağa Camii",
+                "hu": "Yusuf Ağa Camii",
+                "ro": "Yusuf Ağa Camii",
+                "en": "Yusuf Ağa Camii"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Restwärme und bieten einen ruhigen Rückzugsort; tragen Sie Wollsocken, da der Boden trotz Teppichen im Winter recht kühl sein kann.",
+                "hu": "A vastag falak jól tartják a meleget, csendes menedéket nyújtva; viseljen vastag gyapjúzoknit, mert a padló a szőnyegek ellenére is hűvös lehet télen.",
+                "ro": "Zidurile groase păstrează căldura și oferă un refugiu liniștit; purtați șosete groase de lână, deoarece podeaua poate fi destul de rece iarna, în ciuda covoarelor.",
+                "en": "The thick walls retain heat and provide a quiet retreat; wear thick wool socks as the floor can be quite cool in winter despite the carpets."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Tabyaları",
+                "hu": "Rumeli Kavağı Tabyaları",
+                "ro": "Rumeli Kavağı Tabyaları",
+                "en": "Rumeli Kavağı Tabyaları"
+              },
+              "tip_5lang": {
+                "de": "Der Wind pfeift hier oben im Winter heftig, eine winddichte Jacke ist unerlässlich; genießen Sie die klare Fernsicht, die man oft nur an kalten Wintertagen hat.",
+                "hu": "A szél télen erősen fütyül itt fent, a szélálló kabát elengedhetetlen; élvezze a tiszta távlati kilátást, amely gyakran csak a hideg téli napokon ilyen látványos.",
+                "ro": "Vântul șuieră puternic aici sus iarna, o jachetă rezistentă la vânt este esențială; bucurați-vă de vizibilitatea clară, care este adesea spectaculoasă în zilele reci.",
+                "en": "The wind whistles loudly up here in winter, a windproof jacket is essential; enjoy the clear long-distance views that are often spectacular only on cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Plajı",
+                "hu": "Rumeli Kavağı Plajı",
+                "ro": "Rumeli Kavağı Plajı",
+                "en": "Rumeli Kavağı Plajı"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur einen kurzen Spaziergang am Ufer, um die raue Brandung zu sehen; die feuchte Kälte zieht schnell in die Kleidung, also bleiben Sie in Bewegung.",
+                "hu": "Tegyen egy rövid sétát a parton, hogy lássa a haragos hullámverést; a nyirkos hideg gyorsan átjárja a ruhát, ezért maradjon folyamatos mozgásban a parton.",
+                "ro": "Faceți doar o scurtă plimbare pe țărm pentru a vedea valurile înfuriate; frigul umed pătrunde rapid prin haine, așa că rămâneți în mișcare continuă pe plajă.",
+                "en": "Take just a short walk along the shore to see the angry surf; the damp cold quickly seeps through clothing, so keep moving while on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Feneryolu Bird Observation Tower",
+                "hu": "Feneryolu Bird Observation Tower",
+                "ro": "Feneryolu Bird Observation Tower",
+                "en": "Feneryolu Bird Observation Tower"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Turm vor 16:30 Uhr, um den Sonnenuntergang über dem Meer zu erleben; Handschuhe sind wichtig, da das Metallgeländer extrem kalt wird.",
+                "hu": "Látogasson el a toronyba 16:30 előtt, hogy elcsípje a tenger feletti naplementét; a kesztyű fontos, mert a fémkorlátok télen rendkívül hidegek lehetnek.",
+                "ro": "Vizitați turnul înainte de 16:30 pentru a prinde apusul peste mare; mănușile sunt importante, deoarece balustradele metalice devin extrem de reci iarna.",
+                "en": "Visit the tower before 16:30 to catch the sunset over the sea; gloves are important as the metal railings become extremely cold in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a nyüzsgő Sarıyerben, és merüljön el a helyi kultúrában, mielőtt végigkerekezik a békés parton. Fedezze fel az útjába eső történelmi mecseteket. Délben csodálja meg a lenyűgöző oszmán erődítményeket, amelyek egykor a szorost védték. Délután tartson egy pihentető szünetet a strandon, majd figyelje meg a fenséges madárvonulást a fa kilátótoronyból, miközben a nap békésen véget ér.",
         "ro": "Începeți în vibrantul Sarıyer, explorând cultura locală înainte de a pedala de-a lungul coastei liniștite. Descoperiți moschei istorice și altare pe drum. La prânz, explorați fortificațiile otomane impresionante care păzeau Bosforul. Bucurați-vă de o pauză relaxantă la plajă după-amiaza și urmăriți migrațiile maiestuoase ale păsărilor din turnul de observație din lemn.",
         "en": "Start in vibrant Sarıyer, diving into local culture before pedaling along the serene coastline. Discover historic mosques and sacred shrines along the way. By midday, explore the impressive Ottoman fortifications that guarded the Bosphorus. Enjoy a relaxing afternoon break at the local beach, and watch the majestic bird migrations from the wooden observation tower as the day peacefully winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt entlang der Küste erfordert Konzentration auf den nassen Straßen von Sarıyer. Starten Sie bei der Nejat Uygur Bühne und suchen Sie Schutz in den historischen Moscheen. Die Auffahrt zu den Festungen ist bei Regen anstrengend, aber die kühle Luft belebt. Nachmittags führt der Weg zum Strand, wo der Asphalt rutschig sein kann. Beenden Sie die Tour am Aussichtsturm, bevor der Abendregen stärker wird.",
+            "hu": "Az esős kerékpározás a parton koncentrációt igényel Sarıyer vizes útjain. Kezdjen a Nejat Uygur színpadnál, és keressen menedéket a történelmi mecsetekben. Az erődökhöz vezető emelkedő esőben fárasztó, de a hűvös levegő frissítő. Délután az út a strandhoz vezet, ahol az aszfalt csúszós lehet. Zárja a túrát a kilátónál, mielőtt az esti eső felerősödne.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită concentrare pe drumurile umede din Sarıyer. Începeți la scena Nejat Uygur și căutați adăpost în moscheile istorice. Urcarea spre fortărețe este obositoare pe ploaie, dar aerul rece este revigorant. După-amiaza, drumul duce spre plajă, unde asfaltul poate fi alunecos. Încheiați turul la turn înainte ca ploaia de seară să se intensifice.",
+            "en": "Riding in the rain along the coast requires concentration on Sarıyer's wet roads. Start at the Nejat Uygur stage and seek shelter in the historic mosques. The climb to the fortifications is tiring in the rain, but the cool air is refreshing. In the afternoon, the path leads to the beach, where the asphalt can be slippery. End the tour at the tower before the evening rain intensifies."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nejat Uygur Sahnesi",
+                "hu": "Nejat Uygur Sahnesi",
+                "ro": "Nejat Uygur Sahnesi",
+                "en": "Nejat Uygur Sahnesi"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start, da die Abfahrten in Sarıyer bei Regen gefährlich sind; nutzen Sie den Eingangsbereich als trockenen Startpunkt für die Tour.",
+                "hu": "Indulás előtt ellenőrizze a fékeket, mert a sarıyeri lejtők esőben veszélyesek; használja a bejárati részt száraz kiindulópontként a túra megkezdéséhez.",
+                "ro": "Verificați frânele înainte de plecare, deoarece coborârile din Sarıyer sunt periculoase pe ploaie; folosiți zona de la intrare ca punct de plecare uscat.",
+                "en": "Check your brakes before starting, as the descents in Sarıyer are dangerous in the rain; use the entrance area as a dry starting point for the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Kethüda Camii",
+                "hu": "Ali Kethüda Camii",
+                "ro": "Ali Kethüda Camii",
+                "en": "Ali Kethüda Camii"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen und wärmen Sie sich kurz im Inneren auf; der nasse Marmor im Hof ist für Radschuhe extrem rutschig, gehen Sie vorsichtig.",
+                "hu": "Parkolja le kerékpárját a fák alatt, és melegedjen fel bent; az udvar nedves márványa kerékpáros cipőben rendkívül csúszós, ezért mozogjon óvatosan.",
+                "ro": "Parcați bicicleta sub copaci și încălziți-vă scurt în interior; marmura umedă din curte este extrem de alunecoasă pentru pantofii de ciclism, mergeți cu grijă.",
+                "en": "Park your bike under the trees and warm up briefly inside; the wet marble in the courtyard is extremely slippery for cycling shoes, so move carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Telli Baba",
+                "hu": "Telli Baba",
+                "ro": "Telli Baba",
+                "en": "Telli Baba"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schrein ist steil und bei Regen fordernd; sichern Sie Ihr Rad gut und nutzen Sie die Pause, um die Regenkleidung für den weiteren Weg zu richten.",
+                "hu": "A szentélyhez vezető emelkedő meredek és esőben megterhelő; rögzítse jól a kerékpárját, és használja a szünetet az esőruházat igazítására a további úthoz.",
+                "ro": "Urcarea spre sanctuar este abruptă și solicitantă pe ploaie; asigurați-vă bine bicicleta și folosiți pauza pentru a vă ajusta echipamentul de ploaie.",
+                "en": "The climb to the shrine is steep and demanding in the rain; secure your bike well and use the break to adjust your rain gear for the road ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Yusuf Ağa Camii",
+                "hu": "Yusuf Ağa Camii",
+                "ro": "Yusuf Ağa Camii",
+                "en": "Yusuf Ağa Camii"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Brille zu putzen und die Karte zu prüfen; die engen Gassen um die Moschee können bei Regen kleine Sturzbäche bilden, achten Sie darauf.",
+                "hu": "Tökéletes megálló a szemüveg megtisztításához és a térkép ellenőrzéséhez; a mecset körüli szűk utcákban esőben kis patakok alakulhatnak ki, ügyeljen rájuk.",
+                "ro": "Un popas perfect pentru a vă curăța ochelarii și a verifica harta; străzile înguste din jurul moscheii pot forma mici șuvoaie pe ploaie, aveți grijă la ele.",
+                "en": "A perfect stop to clean your glasses and check the map; the narrow streets around the mosque can form small torrents during rain, so watch out for them."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Tabyaları",
+                "hu": "Rumeli Kavağı Tabyaları",
+                "ro": "Rumeli Kavağı Tabyaları",
+                "en": "Rumeli Kavağı Tabyaları"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, mit dem Rad direkt auf die Ruinenwälle zu fahren, da der Boden aufweicht; genießen Sie den dramatischen Blick auf das graue Meer im Regendunst.",
+                "hu": "Kerülje el, hogy kerékpárral közvetlenül a várfalakra hajtson, mert a talaj felázik; élvezze a drámai kilátást a szürke tengerre az esőpárában.",
+                "ro": "Evitați să mergeți cu bicicleta direct pe zidurile ruinei, deoarece solul se înmoaie; bucurați-vă de priveliștea dramatică a mării gri prin burniță.",
+                "en": "Avoid riding your bike directly onto the ruins' ramparts as the ground softens; enjoy the dramatic view of the grey sea through the rain haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Plajı",
+                "hu": "Rumeli Kavağı Plajı",
+                "ro": "Rumeli Kavağı Plajı",
+                "en": "Rumeli Kavağı Plajı"
+              },
+              "tip_5lang": {
+                "de": "Der Sand klebt an den Reifen, bleiben Sie lieber auf dem befestigten Uferweg; die salzige Gischt vermischt sich mit dem Regen und erfordert eine Kettenpflege danach.",
+                "hu": "A homok rátapad a gumikra, maradjon inkább a kövezett partmenti úton; a sós permet keveredik az esővel, ami után alapos lánctisztításra lesz szükség.",
+                "ro": "Nisipul se lipește de anvelope, rămâneți mai degrabă pe drumul pavat de pe mal; vaporii sărați se amestecă cu ploaia, necesitând o curățare a lanțului ulterior.",
+                "en": "The sand sticks to the tires, so stay on the paved shore path instead; the salty spray mixes with the rain, requiring chain maintenance afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Feneryolu Bird Observation Tower",
+                "hu": "Feneryolu Bird Observation Tower",
+                "ro": "Feneryolu Bird Observation Tower",
+                "en": "Feneryolu Bird Observation Tower"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad im geschützten Bereich unter dem Turm ab; die Metallstufen nach oben können sehr rutschig sein, halten Sie sich am nassen Geländer fest.",
+                "hu": "Zárja le kerékpárját a torony alatti védett területen; a felfelé vezető fém lépcsőfokok nagyon csúszósak lehetnek, kapaszkodjon erősen a nedves korlátba.",
+                "ro": "Încuiați bicicleta în zona protejată de sub turn; treptele metalice spre vârf pot fi foarte alunecoase, țineți-vă bine de balustrada umedă.",
+                "en": "Lock your bike in the protected area under the tower; the metal steps going up can be very slippery, so hold on tight to the wet railing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Rumelikavağı bietet klare Luft und wenig Verkehr. Starten Sie morgens warm eingepackt bei der Nejat Uygur Bühne. Die Steigungen helfen, die Körperwärme zu halten, während Sie die Küstenmoscheen besuchen. Planen Sie die Ankunft bei den Festungen für den frühen Nachmittag, da die Kälte nach Sonnenuntergang um 17:00 Uhr drastisch zunimmt. Der Tag endet mit einer schnellen Abfahrt zurück ins Dorfzentrum.",
+            "hu": "A téli kerékpártúra Rumelikavağıban friss levegőt és kevés forgalmat kínál. Induljon reggel, melegen felöltözve a Nejat Uygur színpadtól. Az emelkedők segítenek megőrizni a testhőt, miközben meglátogatja a mecseteket. Az erődökhöz kora délután érkezzen, mert a hideg a 17:00 órai naplemente után drasztikusan fokozódik. A nap egy gyors lejtmenettel zárul a falu központjába.",
+            "ro": "O tură cu bicicleta iarna în Rumelikavağı oferă aer curat și trafic redus. Începeți dimineața, bine îmbrăcat, de la scena Nejat Uygur. Urcările ajută la menținerea căldurii corporale în timp ce vizitați moscheile. Planificați sosirea la fortărețe pentru începutul după-amiezii, deoarece frigul crește drastic după apusul de la ora 17:00. Ziua se încheie cu o coborâre rapidă în centrul satului.",
+            "en": "A winter bike tour in Rumelikavağı offers crisp air and little traffic. Start warm and bundled up in the morning at the Nejat Uygur stage. The climbs help maintain body heat while visiting the coastal mosques. Plan your arrival at the fortifications for early afternoon, as the cold increases drastically after sunset at 17:00. The day ends with a quick descent back to the village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nejat Uygur Sahnesi",
+                "hu": "Nejat Uygur Sahnesi",
+                "ro": "Nejat Uygur Sahnesi",
+                "en": "Nejat Uygur Sahnesi"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln vor der Abfahrt gut auf; der Fahrtwind ist im Winter in Meeresnähe besonders eisig, tragen Sie unbedingt einen Gesichtsschutz.",
+                "hu": "Indulás előtt alaposan melegítse be izmait; a menetszél télen a tenger közelében különösen jeges, feltétlenül viseljen arcvédőt vagy sálat.",
+                "ro": "Încălziți-vă bine mușchii înainte de plecare; vântul provocat de deplasare este deosebit de rece iarna lângă mare, purtați neapărat o mască de față.",
+                "en": "Warm up your muscles well before starting; the wind chill near the sea is particularly icy in winter, so be sure to wear a face mask or scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Kethüda Camii",
+                "hu": "Ali Kethüda Camii",
+                "ro": "Ali Kethüda Camii",
+                "en": "Ali Kethüda Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee bietet einen windgeschützten Ort für eine kurze Trinkpause; trinken Sie nichts Eiskaltes, um Ihren Körper nicht unnötig von innen auszukühlen.",
+                "hu": "A mecset szélvédett helyet kínál egy rövid ivószünethez; ne igyon jéghideg folyadékot, hogy ne hűtse le feleslegesen a szervezetét belülről.",
+                "ro": "Moscheea oferă un loc ferit de vânt pentru o scurtă pauză de hidratare; nu beți lichide foarte reci pentru a nu vă răci corpul inutil din interior.",
+                "en": "The mosque offers a wind-protected spot for a short hydration break; don't drink ice-cold fluids to avoid unnecessarily cooling your body from the inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Telli Baba",
+                "hu": "Telli Baba",
+                "ro": "Telli Baba",
+                "en": "Telli Baba"
+              },
+              "tip_5lang": {
+                "de": "Das Schieben des Rades die letzte Steigung hinauf hilft gegen kalte Füße; genießen Sie die spirituelle Wärme im Inneren des Schreins für ein paar Minuten.",
+                "hu": "A kerékpár tolása az utolsó emelkedőn segít a lábak átmelegítésében; élvezze a szentély belsejének spirituális melegét néhány percig a folytatás előtt.",
+                "ro": "Împinsul bicicletei pe ultima pantă ajută la încălzirea picioarelor; bucurați-vă de căldura spirituală din interiorul sanctuarului pentru câteva minute.",
+                "en": "Pushing your bike up the final slope helps warm up cold feet; enjoy the spiritual warmth inside the shrine for a few minutes before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Yusuf Ağa Camii",
+                "hu": "Yusuf Ağa Camii",
+                "ro": "Yusuf Ağa Camii",
+                "en": "Yusuf Ağa Camii"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Handschuhe kurz auszuziehen und die Hände aufzuwärmen; achten Sie auf kleine Eisflächen auf dem Kopfsteinpflaster in den Schattenseiten.",
+                "hu": "Ideális hely a kesztyűk rövid levételére és a kezek átmelegítésére; ügyeljen a macskaköveken lévő kisebb jeges foltokra az árnyékosabb utcákban.",
+                "ro": "Un loc ideal pentru a scoate scurt mănușile și a vă încălzi mâinile; atenție la micile porțiuni cu gheață de pe piatra cubică în zonele umbrite.",
+                "en": "An ideal place to take off your gloves briefly and warm up your hands; watch out for small icy patches on the cobblestones in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Tabyaları",
+                "hu": "Rumeli Kavağı Tabyaları",
+                "ro": "Rumeli Kavağı Tabyaları",
+                "en": "Rumeli Kavağı Tabyaları"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bringt die Steine der Ruinen zum Leuchten, bietet aber kaum Wärme; bleiben Sie nur kurz für Fotos, um nicht durch den Wind auszukühlen.",
+                "hu": "A téli napfény szépen megvilágítja a romok köveit, de meleget alig ad; csak rövid ideig maradjon a fotók kedvéért, hogy ne hűljön le a szélben.",
+                "ro": "Soarele de iarnă luminează frumos pietrele ruinelor, dar oferă puțină căldură; stați doar scurt pentru fotografii, pentru a nu vă răci din cauza vântului.",
+                "en": "The winter sun lights up the stones of the ruins beautifully but offers little warmth; stay only briefly for photos to avoid cooling down in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Plajı",
+                "hu": "Rumeli Kavağı Plajı",
+                "ro": "Rumeli Kavağı Plajı",
+                "en": "Rumeli Kavağı Plajı"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zügig am Strand entlang, um die Durchblutung anzuregen; die Meeresluft ist hier besonders feucht-kalt, halten Sie Ihren Oberkörper gut isoliert.",
+                "hu": "Haladjon tempósan a strand mentén, hogy serkentse a vérkeringését; a tengeri levegő itt különösen nyirkos-hideg, tartsa a felsőtestét jól szigetelve.",
+                "ro": "Pedalați rapid de-a lungul plajei pentru a stimula circulația; aerul marin este deosebit de umed și rece aici, păstrați-vă pieptul bine izolat.",
+                "en": "Ride briskly along the beach to stimulate circulation; the sea air here is especially damp and cold, so keep your upper body well insulated."
+              }
+            },
+            {
+              "name": {
+                "de": "Feneryolu Bird Observation Tower",
+                "hu": "Feneryolu Bird Observation Tower",
+                "ro": "Feneryolu Bird Observation Tower",
+                "en": "Feneryolu Bird Observation Tower"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie nicht auf den Sonnenuntergang auf dem Turm, wenn Sie keine Thermokleidung tragen; die Kälte oben wird ohne Bewegung extrem schneidend.",
+                "hu": "Ne várja meg a naplementét a torony tetején, ha nincs thermo ruházata; a fenti hideg mozgás nélkül percek alatt rendkívül metszővé válik.",
+                "ro": "Nu așteptați apusul pe turn dacă nu purtați haine termice; frigul de sus devine extrem de tăios în câteva minute fără mișcare.",
+                "en": "Don't wait for the sunset on top of the tower unless you are wearing thermal gear; the cold up there becomes extremely biting within minutes without movement."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje kulturális autós utazását Sarıyerben, mielőtt a parton történelmi mecsetek és szentélyek felé veszi az irányt. Délben fedezze fel a Boszporuszt védő európai erődítményeket. Délután keljen át a szoroson az ázsiai oldalra, ahol látványos várromok és lenyűgöző kilátás várja. Zárja a napot a víz fölött magasodó spirituális nevezetességeknél, ahogy az este békés hangulatot teremt a fenséges tájban.",
         "ro": "Începeți-vă excursia culturală cu mașina în Sarıyer, conducând spre moscheile și altarele istorice de coastă. La prânz, experimentați fortificațiile europene care securizau Bosforul. După-amiaza, traversați strâmtoarea spre partea asiatică pentru ruine spectaculoase de castele și priveliști. Încheiați-vă ziua la repere spirituale înalte deasupra apei, pe măsură ce seara aduce o atmosferă liniștită.",
         "en": "Begin your cultural road trip in Sarıyer before driving up the coast to historical mosques and sacred shrines. By midday, experience the European fortifications that secured the Bosphorus. In the afternoon, cross the strait to the Asian side, where spectacular castle ruins and sweeping vistas await. Conclude your day at deeply spiritual landmarks high above the water as evening brings a peaceful and reflective mood."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine Panoramafahrt entlang des Bosporus im Schutz Ihres Autos. Die Tour beginnt bei der Nejat Uygur Bühne und führt durch regenverhangene Küstenorte. Bei den Festungen und der Burg Yoros erleben Sie dramatische Ausblicke auf das aufgewühlte Schwarze Meer. Mittags bieten die Moscheen trockene Stopps, bevor Sie am späten Nachmittag die Hz Yuşa Moschee auf dem Hügel erreichen.",
+            "hu": "Élvezze a panorámás autózást a Boszporusz mentén, autója védelmében. A túra a Nejat Uygur színpadtól indul, és esőáztatta parti falvakon vezet keresztül. Az erődöknél és a Yoros várnál drámai kilátás nyílik a háborgó Fekete-tengerre. Délben a mecsetek nyújtanak száraz megállókat, mielőtt késő délután elérné a dombtetőn lévő Hz Yuşa mecsetet.",
+            "ro": "Bucurați-vă de o plimbare panoramică de-a lungul Bosforului, la adăpostul mașinii. Turul începe la scena Nejat Uygur și trece prin sate de coastă învăluite în ploaie. La fortărețe și castelul Yoros veți avea vederi dramatice asupra Marii Negre agitate. La prânz, moscheile oferă opriri uscate înainte de a ajunge la moscheea Hz Yuşa de pe deal.",
+            "en": "Enjoy a scenic drive along the Bosphorus from the comfort of your car. The tour starts at the Nejat Uygur stage and leads through rain-shrouded coastal villages. At the fortifications and Yoros Castle, you'll experience dramatic views of the turbulent Black Sea. At noon, the mosques provide dry stops before reaching the Hz Yuşa mosque on the hill in the late afternoon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nejat Uygur Sahnesi",
+                "hu": "Nejat Uygur Sahnesi",
+                "ro": "Nejat Uygur Sahnesi",
+                "en": "Nejat Uygur Sahnesi"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden; nutzen Sie das Auto als Basis, um die Architektur kurz von außen zu betrachten, ohne nass zu werden.",
+                "hu": "A parkolóban erős esőben tócsák alakulhatnak ki; használja az autót bázisként, hogy anélkül csodálhassa meg az épületet, hogy teljesen elázna.",
+                "ro": "Parcarea poate forma bălți în caz de ploaie torențială; folosiți mașina ca bază pentru a admira arhitectura din exterior fără a vă uda complet.",
+                "en": "The parking lot may form puddles during heavy rain; use your car as a base to admire the architecture from the outside without getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Kethüda Camii",
+                "hu": "Ali Kethüda Camii",
+                "ro": "Ali Kethüda Camii",
+                "en": "Ali Kethüda Camii"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenweg kurz zu halten; die Moschee ist ein herrlicher, ruhiger Ort, um das Trommeln des Regens auf dem Dach zu genießen.",
+                "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az ázást; a mecset csodálatos, csendes hely, ahol hallgathatja az eső dobolását a tetőn.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; moscheea este un loc minunat și liniștit pentru a asculta răpăitul ploii pe acoperiș.",
+                "en": "Park as close to the entrance as possible to avoid the rain; the mosque is a wonderful, quiet place to listen to the rain drumming on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Telli Baba",
+                "hu": "Telli Baba",
+                "ro": "Telli Baba",
+                "en": "Telli Baba"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße ist bei Regen oft verstopft, parken Sie vorsichtig am Rand; der Schrein bietet einen überdachten Bereich mit wunderbarem Blick auf den nebligen Bosporus.",
+                "hu": "A bekötőút esőben gyakran zsúfolt, parkoljon óvatosan az út szélén; a szentély fedett része nagyszerű kilátást nyújt a ködös Boszporuszra.",
+                "ro": "Drumul de acces este adesea aglomerat pe ploaie, parcați cu grijă; zona acoperită a sanctuarului oferă o priveliște excelentă spre Bosforul cețos.",
+                "en": "The access road is often congested in the rain, so park carefully at the side; the shrine's covered area offers a great view of the misty Bosphorus."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Tabyaları",
+                "hu": "Rumeli Kavağı Tabyaları",
+                "ro": "Rumeli Kavağı Tabyaları",
+                "en": "Rumeli Kavağı Tabyaları"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zu den Ruinen können schlammig sein, bleiben Sie auf den befestigten Abschnitten; der Blick aus dem Autofenster auf die Festung im Regen ist sehr atmosphärisch.",
+                "hu": "A romokhoz vezető utak sárosak lehetnek, maradjon a kövezett részeken; az autó ablakából nézve az erőd az esőben rendkívül hangulatos látványt nyújt.",
+                "ro": "Drumurile spre ruine pot fi noroioase, rămâneți pe porțiunile pavate; văzută de pe geamul mașinii, fortăreața în ploaie are o atmosferă deosebită.",
+                "en": "The paths to the ruins can be muddy, so stay on the paved sections; looking through the car window, the fortress in the rain has a very atmospheric feel."
+              }
+            },
+            {
+              "name": {
+                "de": "Yoros Castle",
+                "hu": "Yoros Castle",
+                "ro": "Yoros Castle",
+                "en": "Yoros Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Burg ist bei Regen rutschig, nutzen Sie festes Schuhwerk; oben angekommen bietet sich ein dramatischer Blick auf das Zusammentreffen von Bosporus und Schwarzem Meer.",
+                "hu": "A várba vezető emelkedő esőben csúszós, viseljen túracipőt; felérve drámai kilátás nyílik a Boszporusz és a Fekete-tenger találkozására az esőfelhők alatt.",
+                "ro": "Urcarea spre castel este alunecoasă pe ploaie, purtați bocanci; odată ajunși sus, aveți o priveliște dramatică asupra întâlnirii Bosforului cu Marea Neagră.",
+                "en": "The climb to the castle is slippery in the rain, so wear hiking boots; once at the top, there's a dramatic view of the Bosphorus meeting the Black Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Midillili Ali Reis Camii",
+                "hu": "Midillili Ali Reis Camii",
+                "ro": "Midillili Ali Reis Camii",
+                "en": "Midillili Ali Reis Camii"
+              },
+              "tip_5lang": {
+                "de": "Die Lage direkt am Wasser ist im Regen spektakulär; parken Sie so, dass Sie die Wellen beobachten können, bevor Sie den trockenen Innenraum der Moschee besuchen.",
+                "hu": "A közvetlen vízparti fekvés esőben látványos; parkoljon úgy, hogy láthassa a hullámokat, mielőtt belépne a mecset száraz és békés belső terébe.",
+                "ro": "Locația direct pe malul apei este spectaculoasă pe ploaie; parcați astfel încât să puteți vedea valurile înainte de a intra în interiorul uscat al moscheii.",
+                "en": "The direct waterfront location is spectacular in the rain; park so you can watch the waves before entering the dry and peaceful interior of the mosque."
+              }
+            },
+            {
+              "name": {
+                "de": "Hz Yuşa Cami",
+                "hu": "Hz Yuşa Cami",
+                "ro": "Hz Yuşa Cami",
+                "en": "Hz Yuşa Cami"
+              },
+              "tip_5lang": {
+                "de": "Der Hügel ist oft in Wolken gehüllt, was den Ort noch heiliger wirken lässt; nutzen Sie die überdachten Arkaden, um windgeschützt die Aussicht zu genießen.",
+                "hu": "A domb gyakran felhőkbe burkolózik, ami még szentebbé teszi a helyet; használja a fedett árkádokat, hogy szélvédett helyről csodálhassa meg a kilátást.",
+                "ro": "Dealul este adesea învăluit în nori, ceea ce face locul să pară și mai sacru; folosiți arcadele acoperite pentru a admira priveliștea feriți de vânt.",
+                "en": "The hill is often shrouded in clouds, making the place feel even more sacred; use the covered arcades to admire the view while protected from the wind."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie den winterlichen Bosporus mit dem Auto, wenn die Sicht am klarsten ist. Beginnen Sie morgens bei der Nejat Uygur Bühne und genießen Sie die Fahrt durch das ruhige Fischerdorf. Mittags lockt die Burg Yoros mit einem weiten Blick über das eisige Schwarze Meer. Da es gegen 17:00 Uhr dunkel wird, planen Sie den Besuch des Hz Yuşa Hügels für den späten Nachmittag ein, um die Lichter der Stadt erwachen zu sehen.",
+            "hu": "Fedezze fel a téli Boszporuszt autóval, amikor a legtisztább a látótávolság. Kezdjen reggel a Nejat Uygur színpadnál, és élvezze az autózást a nyugodt halászfalun át. Délben a Yoros vár vonzza a látogatókat a jeges Fekete-tengerre nyíló kilátással. Mivel 17:00 körül sötétedik, a Hz Yuşa dombot késő délutánra tervezze, hogy lássa a város ébredező fényeit.",
+            "ro": "Descoperiți Bosforul iarna cu mașina, când vizibilitatea este cea mai clară. Începeți dimineața la scena Nejat Uygur și bucurați-vă de drumul prin satul de pescari liniștit. La prânz, castelul Yoros atrage vizitatorii cu o vedere largă asupra Marii Negre înghețate. Deoarece se întunecă în jur de ora 17:00, planificați vizita la dealul Hz Yuşa pentru sfârșitul după-amiezii.",
+            "en": "Discover the winter Bosphorus by car when visibility is at its clearest. Start in the morning at the Nejat Uygur stage and enjoy the drive through the quiet fishing village. At noon, Yoros Castle beckons with wide views over the icy Black Sea. Since it gets dark around 17:00, plan your visit to Hz Yuşa hill for late afternoon to see the city lights awakening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nejat Uygur Sahnesi",
+                "hu": "Nejat Uygur Sahnesi",
+                "ro": "Nejat Uygur Sahnesi",
+                "en": "Nejat Uygur Sahnesi"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz warmlaufen, während Sie die frostige Architektur bewundern; die Parkplätze sind im Winter meist leer, was einen stressfreien Start ermöglicht.",
+                "hu": "Hagyja a motort kicsit bemelegedni, miközben a deres épületet csodálja; a parkolók télen többnyire üresek, ami stresszmentes kezdést tesz lehetővé.",
+                "ro": "Lăsați motorul să se încălzească puțin în timp ce admirați arhitectura brumată; parcările sunt de cele mai multe ori goale iarna, permițând un început fără stres.",
+                "en": "Let the engine warm up for a bit while admiring the frosty architecture; the parking lots are mostly empty in winter, allowing for a stress-free start."
+              }
+            },
+            {
+              "name": {
+                "de": "Ali Kethüda Camii",
+                "hu": "Ali Kethüda Camii",
+                "ro": "Ali Kethüda Camii",
+                "en": "Ali Kethüda Camii"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist durch die Teppiche angenehm fußwarm; genießen Sie die Stille der historischen Moschee, bevor die kalte Meeresbrise draußen wieder spürbar wird.",
+                "hu": "A belső tér a szőnyegeknek köszönhetően kellemesen meleg; élvezze a történelmi mecset csendjét, mielőtt kint újra érezné a hideg tengeri szellőt.",
+                "ro": "Interiorul este plăcut de cald datorită covoarelor; bucurați-vă de liniștea moscheii istorice înainte de a simți din nou briza rece a mării afară.",
+                "en": "The interior is pleasantly warm thanks to the carpets; enjoy the silence of the historic mosque before feeling the cold sea breeze again outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Telli Baba",
+                "hu": "Telli Baba",
+                "ro": "Telli Baba",
+                "en": "Telli Baba"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Aussichtspunkt beim Schrein für Fotos vom winterlichen Bosporus; die spirituelle Atmosphäre wirkt im Winter noch intensiver und ruhiger.",
+                "hu": "Használja a szentélynél lévő szélvédett kilátópontot a téli Boszporusz fotózásához; a spirituális légkör télen még intenzívebbnek és nyugodtabbnak hat.",
+                "ro": "Folosiți punctul de observație ferit de vânt de la sanctuar pentru fotografii cu Bosforul iarna; atmosfera spirituală pare și mai intensă și liniștită iarna.",
+                "en": "Use the wind-protected viewpoint at the shrine for photos of the winter Bosphorus; the spiritual atmosphere feels even more intense and calm in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Rumeli Kavağı Tabyaları",
+                "hu": "Rumeli Kavağı Tabyaları",
+                "ro": "Rumeli Kavağı Tabyaları",
+                "en": "Rumeli Kavağı Tabyaları"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf der Zufahrtsstraße zu den Tabyas; die klare Winterluft bietet eine unvergleichliche Sicht bis weit auf das offene Schwarze Meer hinaus.",
+                "hu": "Ügyeljen a jegesedésre a tabyákhoz vezető bekötőúton; a tiszta téli levegő páratlan kilátást kínál messze az érkező Fekete-tenger nyílt vizeire.",
+                "ro": "Atenție la porțiunile cu gheață de pe drumul de acces spre tabyas; aerul curat de iarnă oferă o vizibilitate de neegalat până departe pe Marea Neagră.",
+                "en": "Watch out for icy patches on the access road to the tabyas; the clear winter air offers an unparalleled view far out onto the open Black Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Yoros Castle",
+                "hu": "Yoros Castle",
+                "ro": "Yoros Castle",
+                "en": "Yoros Castle"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine warme Mütze gegen den schneidenden Wind auf der Burgspitze; das Licht der tiefstehenden Wintersonne taucht die Burgruine in ein goldenes Licht.",
+                "hu": "Viseljen meleg sapkát a vár fokán fújó metsző szél ellen; az alacsonyan járó téli nap fénye csodálatos arany színbe öltözteti a várromokat.",
+                "ro": "Purtați o căciulă groasă împotriva vântului tăios de pe culmea castelului; lumina soarelui de iarnă îmbracă ruinele castelului într-o culoare aurie superbă.",
+                "en": "Wear a warm hat against the biting wind on the castle ramparts; the low winter sun bathes the castle ruins in a beautiful golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Midillili Ali Reis Camii",
+                "hu": "Midillili Ali Reis Camii",
+                "ro": "Midillili Ali Reis Camii",
+                "en": "Midillili Ali Reis Camii"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Gebetsraum ist ideal; beobachten Sie durch die Fenster, wie der kalte Wind die Wellen gegen die Ufermauer peitscht.",
+                "hu": "Egy rövid megálló az imatérben ideális a felmelegedéshez; figyelje az ablakokon át, ahogy a hideg szél a hullámokat a parti falnak csapkodja.",
+                "ro": "O scurtă oprire pentru încălzire în sala de rugăciune este ideală; priviți prin ferestre cum vântul rece izbește valurile de zidul țărmului.",
+                "en": "A short stop to warm up in the prayer hall is ideal; watch through the windows as the cold wind whips the waves against the shore wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Hz Yuşa Cami",
+                "hu": "Hz Yuşa Cami",
+                "ro": "Hz Yuşa Cami",
+                "en": "Hz Yuşa Cami"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 16:45 Uhr an, um das letzte Tageslicht zu nutzen; der Blick auf den winterlich beleuchteten Bosporus ist von hier oben unvergesslich.",
+                "hu": "Érkezzen meg időben 16:45 előtt, hogy kihasználja az utolsó fényeket; a téli kivilágított Boszporusz látványa innen fentről felejthetetlen élmény.",
+                "ro": "Ajungeți la timp, înainte de 16:45, pentru a profita de ultima lumină; vederea spre Bosforul iluminat de iarnă este de neuitat de aici de sus.",
+                "en": "Arrive in time before 16:45 to make use of the last daylight; the view of the winter-lit Bosphorus from up here is an unforgettable experience."
+              }
+            }
+          ]
+        }
       }
     }
   }

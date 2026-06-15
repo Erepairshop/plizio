@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Uruapan történelmi szívében, élvezve a Pérgola Municipal építészeti szépségét és a La Huátapera múzeum őslakos gyökereit. Délben a Monumento a La Bandera-hoz ér, majd kortárs művészetet láthat a La Moradában. Délután bepréselheti magát a világ legkisebb házába. Az este tökéletes egy nyugodt sétához a városközpontban, ahol naplementekor helyi michoacáni utcai ételeket kóstolhat.",
         "ro": "Începeți dimineața în inima istorică a orașului Uruapan, admirând frumusețea arhitecturală a Pergolei Municipale și rădăcinile indigene la muzeul La Huátapera. La prânz veți ajunge la Monumento a La Bandera, urmat de artă contemporană la La Morada. După-amiaza, vă veți strecura în cea mai mică casă din lume. Seara este perfectă pentru o plimbare relaxantă, savurând mâncare stradală locală.",
         "en": "Start your morning exploring the historic heart of Uruapan, soaking in the architectural beauty of the Pérgola Municipal and the indigenous roots at La Huátapera museum. Enjoy the central square's vibrant energy. Midday brings you to the Monumento a La Bandera, followed by contemporary art at La Morada. In the afternoon, you'll squeeze into the world's smallest house. The evening is perfect for a relaxed stroll around the city center, enjoying local Michoacán street food as the sun sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie unter dem Schutz der Pergola, während der Regen die Plaza belebt. Mittags bietet das Museum La Huátapera ein trockenes Refugium voller Geschichte. Am Nachmittag lockt das Kulturforum La Morada mit Ausstellungen im Innenbereich. Den Tag beschließen Sie beim kleinsten Haus der Welt, wobei die nassen Straßen den Charme der Altstadt reflektieren und für tolle Fotos sorgen.",
+            "hu": "Kezdje a reggelt a Pergola védelme alatt, miközben az eső felfrissíti a főteret. Délben a La Huátapera múzeum nyújt száraz menedéket a purépecha művészettel. Délután a La Morada Kulturális Fórum fedett kiállításai várják. A napot a világ legkisebb házánál zárja, ahol a vizes macskakövek különleges fényt adnak a városnak, és kiváló fotótémát nyújtanak.",
+            "ro": "Începeți dimineața sub protecția Pergolei, în timp ce ploaia împrospătează piața. La prânz, muzeul La Huátapera oferă un refugiu uscat plin de istorie purépecha. După-amiaza, Forumul Cultural La Morada vă așteaptă cu expoziții interioare. Încheiați ziua la cea mai mică casă din lume, unde străzile umede reflectă farmecul orașului și oferă ocazii de poze superbe.",
+            "en": "Start your morning under the shelter of the Pergola while the rain refreshes the main square. At noon, La Huátapera museum provides a dry sanctuary filled with Purépecha art. In the afternoon, explore the indoor exhibits at La Morada Cultural Forum. End your day at the world's smallest house, where the wet cobblestones add a unique glow to the city and great photo opportunities."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Städtische Pergola",
+                "hu": "Városi Pergola",
+                "ro": "Pergola Municipală",
+                "en": "Municipal Pergola"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Holzschnitzereien unter dem schützenden Dach; ein idealer Ort, um das Treiben auf dem Platz trocken zu beobachten und die frische Luft zu genießen.",
+                "hu": "Csodálja meg a fafaragásokat a védelmező tetőszerkezet alatt; ez az ideális hely, hogy szárazon figyelje a főtér esős nyüzsgését és élvezze a friss levegőt.",
+                "ro": "Admirați sculpturile în lemn sub acoperișul protector; este locul ideal pentru a observa agitația pieței rămânând uscat și bucurându-vă de aerul proaspăt.",
+                "en": "Admire the intricate wood carvings under the protective roof; it is the perfect spot to watch the rainy square while staying dry and enjoying the fresh air."
+              }
+            },
+            {
+              "name": {
+                "de": "La Huátapera",
+                "hu": "La Huátapera",
+                "ro": "La Huátapera",
+                "en": "La Huátapera"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses historische Gebäude als sicheren Unterschlupf vor dem Guss; die dicken Mauern halten Sie trocken, während Sie die koloniale Sakralkunst erkunden.",
+                "hu": "Használja ezt a történelmi épületet biztonságos menedékként az eső elől; a vastag falak szárazon tartják, miközben felfedezi a gyarmati szakrális művészetet.",
+                "ro": "Folosiți această clădire istorică ca adăpost sigur împotriva ploii; zidurile groase vă vor ține uscat în timp ce explorați arta sacră din perioada colonială.",
+                "en": "Use this historic building as a safe shelter from the downpour; the thick walls keep you dry while you explore the fascinating colonial religious artwork."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal für die Flagge",
+                "hu": "Zászló Emlékmű",
+                "ro": "Monumentul Steagului",
+                "en": "Flag Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto zwischen den Schauern; achten Sie auf den rutschigen Marmor um das Denkmal herum und halten Sie Ihren Regenschirm gut fest.",
+                "hu": "Egy rövid megálló egy fotóra a záporok között; ügyeljen a csúszós márványfelületekre az emlékmű körül, és tartsa erősen az esernyőjét a szélben.",
+                "ro": "O oprire scurtă pentru o fotografie între averse; atenție la suprafețele de marmură alunecoase din jurul monumentului și țineți bine umbrela pe vânt.",
+                "en": "A quick stop for a photo between showers; watch out for slippery marble surfaces around the monument and hold your umbrella firmly against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturforum La Morada",
+                "hu": "La Morada Kulturális Fórum",
+                "ro": "Forumul Cultural La Morada",
+                "en": "La Morada Cultural Forum"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Aufenthalt in den Galerien, um den stärksten Regen abzuwarten; die wechselnden Ausstellungen bieten eine perfekte, trockene Kulturpause.",
+                "hu": "Hosszabbítsa meg maradását a galériákban, hogy megvárja a nagyobb eső végét; a váltakozó kiállítások tökéletes, száraz kulturális kikapcsolódást nyújtanak.",
+                "ro": "Prelungiți șederea în galerii pentru a aștepta trecerea ploii torențiale; expozițiile temporare oferă o pauză culturală perfectă și uscată în interior.",
+                "en": "Extend your stay in the galleries to wait out the heaviest rain; the rotating exhibitions provide a perfect, dry cultural break in the heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Das kleinste Haus der Welt",
+                "hu": "A világ legkisebb háza",
+                "ro": "Cea mai mică casă din lume",
+                "en": "Smallest house in the world"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein in dieses winzige Museum, um dem Regen zu entfliehen; die engen Räume wirken bei prasselndem Wasser auf dem Dach besonders gemütlich und trocken.",
+                "hu": "Lépjen be ebbe az apró múzeumba, hogy elmeneküljön az eső elől; a szűk terek különösen otthonosak és szárazak, miközben kint kopog a víz a tetőn.",
+                "ro": "Intrați în acest mic muzeu pentru a scăpa de ploaie; spațiile strâmte par extrem de primitoare și uscate în timp ce apa bate în acoperișul casei.",
+                "en": "Step inside this tiny museum to escape the rain; the cramped spaces feel extra cozy and dry while the water taps rhythmically on the narrow roof outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Morgen beginnt am zentralen Platz, wo die Wintersonne die Pergola sanft beleuchtet. Mittags wärmen Sie sich in den historischen Räumen der La Huátapera auf. Der Nachmittag gehört der Kultur im gut geschützten La Morada. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das letzte Tageslicht für das kleinste Haus der Welt, bevor die Abendkälte einsetzt.",
+            "hu": "A hűvös reggel a főtéren indul, ahol a téli napsütés gyengéden világítja meg a Pergolát. Délben melegedjen fel a La Huátapera történelmi falai között. A délutánt töltse a La Morada kulturális tereiben. Mivel a nap 17:00 körül lebukik, az utolsó fényeket a világ legkisebb házánál használja ki, mielőtt beáll az esti hideg.",
+            "ro": "Dimineața răcoroasă începe în piața centrală, unde soarele de iarnă luminează blând Pergola. La prânz, încălziți-vă între zidurile istorice de la La Huátapera. Petreceți după-amiaza în spațiile culturale de la La Morada. Deoarece soarele apune în jur de ora 17:00, profitați de ultima lumină la cea mai mică casă din lume.",
+            "en": "The crisp morning begins in the main square, where the winter sun gently illuminates the Pergola. At noon, warm up within the historic walls of La Huátapera. Spend the afternoon in the cultural spaces of La Morada. Since the sun sets around 17:00, use the last daylight for the world's smallest house before the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Städtische Pergola",
+                "hu": "Városi Pergola",
+                "ro": "Pergola Municipală",
+                "en": "Municipal Pergola"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Morgensonne, die durch die Holzkonstruktion bricht; ein warmer Kaffee in der Hand macht diesen windgeschützten Ort noch angenehmer.",
+                "hu": "Élvezze a fa szerkezeten áttörő reggeli napsütést; egy meleg kávéval a kezében ez a szélvédett pont még kellemesebb lesz a téli reggelen.",
+                "ro": "Bucurați-vă de soarele dimineții care străbate structura de lemn; cu o cafea caldă în mână, acest punct ferit de vânt va fi și mai plăcut iarna.",
+                "en": "Enjoy the morning sun breaking through the wooden structure; holding a warm coffee makes this wind-sheltered spot even more pleasant during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "La Huátapera",
+                "hu": "La Huátapera",
+                "ro": "La Huátapera",
+                "en": "La Huátapera"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern speichern die Mittagswärme; erkunden Sie die Innenhöfe in der Sonne, um Vitamin D zu tanken, bevor es in die kühleren Hallen geht.",
+                "hu": "A vastag kőfalak jól tartják a déli meleget; fedezze fel a belső udvarokat a napsütésben, hogy feltöltődjön, mielőtt a hűvösebb termekbe lépne.",
+                "ro": "Zidurile groase de piatră rețin bine căldura de la prânz; explorați curțile interioare în soare pentru a vă încălzi înainte de a intra în sălile reci.",
+                "en": "The thick stone walls retain the midday warmth well; explore the inner courtyards in the sun to recharge before entering the cooler museum halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal für die Flagge",
+                "hu": "Zászló Emlékmű",
+                "ro": "Monumentul Steagului",
+                "en": "Flag Monument"
+              },
+              "tip_5lang": {
+                "de": "Das weiße Monument strahlt hell im klaren Winterlicht; tragen Sie eine Sonnenbrille, da die Reflexion auf dem Stein bei tiefstehender Sonne stark sein kann.",
+                "hu": "A fehér emlékmű ragyog a tiszta téli fényben; viseljen napszemüveget, mert az alacsony napállásnál az erős visszatükröződés zavaró lehet a szemnek.",
+                "ro": "Monumentul alb strălucește în lumina clară de iarnă; purtați ochelari de soare, deoarece reflexia pe piatră poate fi puternică la apusul soarelui.",
+                "en": "The white monument shines brightly in the clear winter light; wear sunglasses as the reflection on the stone can be intense with the low sun position."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturforum La Morada",
+                "hu": "La Morada Kulturális Fórum",
+                "ro": "Forumul Cultural La Morada",
+                "en": "La Morada Cultural Forum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den späten Nachmittag, um der Kälte zu entfliehen; die geschlossenen Galerien bieten Schutz vor der aufziehenden Abendbrise.",
+                "hu": "Ideális helyszín a késő délutánra, hogy elmeneküljön a lehűlés elől; a zárt galériák védelmet nyújtanak a feltámadó esti szél ellen.",
+                "ro": "Locul ideal pentru după-amiaza târzie pentru a scăpa de frig; galeriile închise oferă protecție împotriva brizei răcoroase de seară.",
+                "en": "An ideal spot for the late afternoon to escape the dropping temperature; the enclosed galleries provide protection from the rising evening breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Das kleinste Haus der Welt",
+                "hu": "A világ legkisebb háza",
+                "ro": "Cea mai mică casă din lume",
+                "en": "Smallest house in the world"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Highlight unbedingt vor 17:00 Uhr; bei Sonnenuntergang wirkt das winzige Haus im Dämmerlicht besonders malerisch und beleuchtet.",
+                "hu": "Mindenképpen látogassa meg 17:00 előtt; naplementekor az apró ház a szürkületi fényekben különösen festői látványt nyújt a kivilágított ablakokkal.",
+                "ro": "Vizitați acest obiectiv înainte de ora 17:00; la apus, casa minusculă pare deosebit de pitorească în lumina amurgului cu ferestrele luminate.",
+                "en": "Be sure to visit before 17:00; at sunset, the tiny house looks particularly picturesque in the twilight with its warm interior lighting."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "A kerékpáros utazás a La Huátapera 16. századi történelmével kezdődik, majd a La Morada kulturális központjához gurul. Délben a világ legkisebb házánál áll meg, hogy megcsodálja a kompakt kialakítást. Délután a folyó felé teker, hogy megnézze az elegáns Mansión del Cupatitzio-t. A késő délutánt és az estét a Nemzeti Park buja ösvényein sétálva töltheti, hallgatva a folyó csobogását.",
         "ro": "Călătoria cu bicicleta începe cu istoria secolului XVI la La Huátapera, înainte de a pedala spre centrul cultural La Morada. La prânz veți face o oprire rapidă la cea mai mică casă din lume. După-amiaza, mergeți spre râu pentru a vedea eleganta Mansión del Cupatitzio. Petreceți după-amiaza târziu și seara plimbându-vă pe potecile luxuriante ale Parcului Național, ascultând apa curgătoare.",
         "en": "Your cycling journey begins with the fascinating 16th-century history at La Huátapera, before rolling through the central streets to the cultural hub of La Morada. Midday features a quick, quirky stop at the world's smallest house to marvel at its compact design. In the afternoon, ride towards the river to see the elegant Mansión del Cupatitzio, then lock up your bike. Spend your late afternoon and evening walking the lush trails of the National Park, listening to the rushing water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour bei La Huátapera, wo Sie unter den Arkaden Schutz finden. Am Mittag radeln Sie vorsichtig über die nassen Straßen zum Kulturforum. Nachmittags erkunden Sie die kuriosen Innenräume des kleinsten Hauses. Die Tour endet im Nationalpark, dessen üppiges Grün im Regen besonders intensiv leuchtet; Vorsicht auf rutschigen Wegen im dichten Waldgebiet.",
+            "hu": "Kezdje a kerékpározást a La Huátaperánál, ahol az árkádok alatt talál menedéket. Délben óvatosan tekerjen a vizes utakon a kulturális fórumhoz. Délután fedezze fel a legkisebb ház különleges belső tereit. A túra a nemzeti parkban zárul, melynek zöldje az esőben még intenzívebb; vigyázzon a csúszós ösvényeken az erdős részeken.",
+            "ro": "Începeți plimbarea cu bicicleta la La Huátapera, unde găsiți adăpost sub arcade. La prânz, pedalați cu atenție pe străzile umede spre forumul cultural. După-amiaza, explorați interiorul curat al celei mai mici case. Turul se încheie în parcul național, unde verdele este intens sub ploaie; atenție pe potecile alunecoase.",
+            "en": "Start your bike ride at La Huátapera, finding shelter under the arches. At noon, cycle carefully through the wet streets to the cultural forum. In the afternoon, explore the curious interior of the smallest house. The tour ends in the national park, where the greenery glows intensely in the rain; be careful on slippery paths in the forest."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Huátapera",
+                "hu": "La Huátapera",
+                "ro": "La Huátapera",
+                "en": "La Huátapera"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad trocken unter den Arkaden; nutzen Sie die Zeit für eine Besichtigung der Kapelle, während ein heftiger Regenschauer vorbeizieht.",
+                "hu": "Parkolja le biciklijét szárazon az árkádok alatt; használja ki az időt a kápolna megtekintésére, amíg egy hevesebb esőfelhő elvonul a város felett.",
+                "ro": "Parcați bicicleta la loc uscat sub arcade; folosiți timpul pentru a vizita capela în timp ce o ploaie torențială trece peste oraș.",
+                "en": "Park your bike safely under the dry arches; use the time to visit the chapel while a heavy rain cloud passes over the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturforum La Morada",
+                "hu": "La Morada Kulturális Fórum",
+                "ro": "Forumul Cultural La Morada",
+                "en": "La Morada Cultural Forum"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Regenkleidung kurz zu lüften; die Ausstellungen im Inneren bieten eine willkommene Pause von der feuchten Fahrt durch die Stadt.",
+                "hu": "Tökéletes hely, hogy kicsit kiszárítsa az esőkabátját; a belső kiállítások szívesen látott pihenőt nyújtanak a városi tekerés után a nedves időben.",
+                "ro": "Locul perfect pentru a vă usca puțin pelerina de ploaie; expozițiile interioare oferă o pauză binemeritată după pedalarea prin orașul umed.",
+                "en": "A perfect spot to dry off your rain gear; the indoor exhibits provide a welcome break from cycling through the city in the damp weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Das kleinste Haus der Welt",
+                "hu": "A világ legkisebb háza",
+                "ro": "Cea mai mică casă din lume",
+                "en": "Smallest house in the world"
+              },
+              "tip_5lang": {
+                "de": "Die Besichtigung ist kurz und bündig, ideal zwischen zwei Regenschauern; stellen Sie sicher, dass Ihre Bremsen auf dem nassen Pflaster vor dem Haus gut greifen.",
+                "hu": "A látogatás rövid és velős, ideális két esőzés között; győződjön meg róla, hogy a fékjei jól fognak a ház előtti vizes macskakövön megálláskor.",
+                "ro": "Vizita este scurtă și la obiect, ideală între două reprize de ploaie; asigurați-vă că frânele funcționează bine pe pavajul umed din fața casei.",
+                "en": "The visit is short and sweet, ideal between two rain showers; make sure your brakes are working well on the wet cobblestones before stopping here."
+              }
+            },
+            {
+              "name": {
+                "de": "Herrenhaus am Cupatitzio",
+                "hu": "Cupatitzio Kúria",
+                "ro": "Conacul Cupatitzio",
+                "en": "Cupatitzio Mansion"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade vom Sattel aus; die umliegenden Bäume bieten begrenzten Schutz vor Nieselregen, während Sie den Blick auf den Fluss genießen.",
+                "hu": "Csodálja meg a homlokzatot a nyeregből; a környező fák némi védelmet nyújtanak a szemerkélő eső ellen, miközben a folyóparti kilátást élvezi.",
+                "ro": "Admirați fațada din șa; copacii din jur oferă o oarecare protecție împotriva burniței în timp ce vă bucurați de vederea spre râu.",
+                "en": "Admire the facade from your bike; the surrounding trees offer some limited protection from drizzle while you enjoy the riverfront views."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark Barranca del Cupatitzio",
+                "hu": "Barranca del Cupatitzio Nemzeti Park",
+                "ro": "Parcul Național Barranca del Cupatitzio",
+                "en": "Barranca del Cupatitzio National Park"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den Radwegen im Park; die feuchten Blätter und Steine können sehr rutschig sein, aber die Wasserfälle wirken bei Regen noch gewaltiger.",
+                "hu": "Vigyázzon a parki utakon; a nedves levelek és kövek nagyon csúszósak lehetnek, de a vízesések az esőben még lenyűgözőbb látványt nyújtanak.",
+                "ro": "Atenție pe drumurile din parc; frunzele și pietrele umede pot fi foarte alunecoase, dar cascadele par și mai impresionante pe timp de ploaie.",
+                "en": "Be careful on the park paths; wet leaves and stones can be very slippery, but the waterfalls look even more spectacular during a rain shower."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die frische Winterluft auf dem Rad bei La Huátapera. Mittags radeln Sie durch das milde Sonnenlicht zum Kulturforum. Der Nachmittag führt Sie zum kleinsten Haus und zum Herrenhaus am Cupatitzio. Beenden Sie Ihre Tour im Nationalpark rechtzeitig vor Sonnenuntergang um 17:00 Uhr, wenn die Temperaturen im dichten Grün schnell sinken.",
+            "hu": "Élvezze a friss téli levegőt a kerékpáron a La Huátaperánál. Délben a lágy napsütésben tekerjen a kulturális fórumhoz. A délután elviszi a legkisebb házhoz és a Cupatitzio Kúriához. A túrát fejezze be a nemzeti parkban időben a 17:00-s naplemente előtt, mert a hőmérséklet a sűrű zöldben gyorsan esik.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă pe bicicletă la La Huátapera. La prânz, pedalați în lumina blândă a soarelui spre forumul cultural. După-amiaza vă duce la cea mai mică casă și la conacul de lângă Cupatitzio. Încheiați turul în parcul național înainte de apusul de la 17:00.",
+            "en": "Enjoy the fresh winter air on your bike at La Huátapera. At noon, cycle through the mild sunlight to the cultural forum. The afternoon takes you to the smallest house and the Cupatitzio Mansion. Finish your tour in the national park well before the 17:00 sunset as it cools down quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "La Huátapera",
+                "hu": "La Huátapera",
+                "ro": "La Huátapera",
+                "en": "La Huátapera"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe für die Abfahrt; die kühle Morgenbrise an diesem historischen Ort ist erfrischend, kann aber die Hände am Lenker schnell auskühlen.",
+                "hu": "Viseljen kesztyűt az induláshoz; a hűvös reggeli szellő ennél a történelmi helyszínnél frissítő, de a kezek hamar kihűlhetnek a kormányon.",
+                "ro": "Purtați mănuși la plecare; briza răcoroasă de dimineață la acest loc istoric este revigorantă, dar mâinile pot îngheța rapid pe ghidon.",
+                "en": "Wear gloves for the start; the crisp morning breeze at this historic site is refreshing, but your hands can get cold quickly on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturforum La Morada",
+                "hu": "La Morada Kulturális Fórum",
+                "ro": "Forumul Cultural La Morada",
+                "en": "La Morada Cultural Forum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne vor dem Eingang zum Aufwärmen; die Galerien im Inneren bieten eine windgeschützte Umgebung für eine kulturelle Pause.",
+                "hu": "Használja ki a déli napsütést a bejárat előtt a felmelegedéshez; a belső galériák szélvédett környezetet biztosítanak egy kulturális pihenőhöz.",
+                "ro": "Profitați de soarele de la prânz din fața intrării pentru a vă încălzi; galeriile interioare oferă un mediu ferit de vânt pentru o pauză culturală.",
+                "en": "Take advantage of the midday sun in front of the entrance to warm up; the indoor galleries offer a wind-sheltered environment for a cultural break."
+              }
+            },
+            {
+              "name": {
+                "de": "Das kleinste Haus der Welt",
+                "hu": "A világ legkisebb háza",
+                "ro": "Cea mai mică casă din lume",
+                "en": "Smallest house in the world"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp am Nachmittag; die tiefstehende Wintersonne leuchtet die schmale Gasse vor dem Haus perfekt für ein Erinnerungsfoto aus.",
+                "hu": "Egy gyors délutáni megálló; az alacsonyan járó téli nap tökéletesen megvilágítja a ház előtti szűk utcát egy emlékezetes fényképhez.",
+                "ro": "O oprire rapidă după-amiaza; soarele de iarnă aflat jos luminează perfect strada îngustă din fața casei pentru o fotografie memorabilă.",
+                "en": "A quick afternoon stop; the low winter sun perfectly illuminates the narrow street in front of the house for a memorable souvenir photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Herrenhaus am Cupatitzio",
+                "hu": "Cupatitzio Kúria",
+                "ro": "Conacul Cupatitzio",
+                "en": "Cupatitzio Mansion"
+              },
+              "tip_5lang": {
+                "de": "Die Luft am Flussufer ist im Winter besonders klar; genießen Sie den Anblick der historischen Architektur, bevor das Licht gegen 16:30 Uhr weicher wird.",
+                "hu": "A folyóparti levegő télen különösen tiszta; élvezze a történelmi építészet látványát, mielőtt a fények 16:30 körül lágyabbá válnának.",
+                "ro": "Aerul de pe malul râului este extrem de clar iarna; bucurați-vă de vederea arhitecturii istorice înainte ca lumina să devină mai difuză pe la 16:30.",
+                "en": "The riverside air is especially clear in winter; enjoy the sight of the historic architecture before the light softens around 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark Barranca del Cupatitzio",
+                "hu": "Barranca del Cupatitzio Nemzeti Park",
+                "ro": "Parcul Național Barranca del Cupatitzio",
+                "en": "Barranca del Cupatitzio National Park"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch pünktlich vor Sonnenuntergang um 17:00 Uhr; die schattigen Wege im Park kühlen im Winter extrem schnell ab, sobald das Licht schwindet.",
+                "hu": "Fejezze be a látogatást pontosan a 17:00-s naplemente előtt; a park árnyékos ösvényei télen rendkívül gyorsan lehűlnek, amint eltűnik a napfény.",
+                "ro": "Încheiați vizita exact înainte de apusul de la ora 17:00; potecile umbrite din parc se răcesc extrem de rapid iarna odată ce lumina dispare.",
+                "en": "Finish your visit exactly before the 17:00 sunset; the shaded paths in the park cool down extremely fast in winter once the daylight fades away."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autózzon először a déli kerületekbe, hogy felfedezze a MAPECO kézműves művészetét és a La Macarena bikaviadal-aréna nagyságát. Délben induljon a központ felé, hogy tisztelegjen Lázaro Cárdenas előtt, majd parkoljon le a Pérgola Municipal közelében. A délután a lenyűgöző Mural de los Orígenes-hez vezet. Fejezze be a napot a Barranca del Cupatitzio Nemzeti Parkban, élvezve a nyugodt, természetes estét.",
         "ro": "Conduceți mai întâi în cartierele sudice pentru a descoperi măiestria artistică de la MAPECO și arena La Macarena. La prânz, îndreptați-vă spre centru pentru a-l onora pe Gral. Lázaro Cárdenas, apoi parcați lângă Pergola Municipală. După-amiaza vă duce la impresionanta Mural de los Orígenes. Încheiați-vă ziua conducând spre Parcul Național Barranca del Cupatitzio pentru o seară liniștită.",
         "en": "Drive to the southern districts first to discover the artistic craftsmanship at MAPECO and the grand scale of La Macarena bullring. By midday, head towards the center to honor Gral. Lázaro Cárdenas, then park near the historic Pérgola Municipal. The afternoon leads you to the impressive Mural de los Orígenes to appreciate local lore. Conclude your day trip by driving out to the Barranca del Cupatitzio National Park, enjoying a serene evening immersed in spectacular nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie MAPECO bequem und trocken für einen kunstvollen Morgen. Mittags bietet La Macarena ein großzügiges Hallenprogramm. Die Fahrt führt weiter zur Pergola, wo Sie kurz aussteigen können. Der Nachmittag schließt mit den Wandgemälden und einem Nationalpark-Besuch ab, den Sie auch bei Regen vom geschützten Fahrzeug aus bewundern können.",
+            "hu": "Autóval kényelmesen és szárazon érheti el a MAPECO-t egy művészeti reggelhez. Délben a La Macarena tágas belső programokat kínál. Az út a Pergolához vezet, ahol rövid időre kiszállhat. A délután a falfestményekkel és egy nemzeti parki látogatással zárul, melyet esőben is megcsodálhat a jármű védelméből.",
+            "ro": "Cu mașina ajungeți confortabil și uscat la MAPECO pentru o dimineață artistică. La prânz, La Macarena oferă programe interioare generoase. Drumul continuă spre Pergolă, unde puteți coborî scurt. După-amiaza se încheie cu picturile murale și o vizită în parcul național, admirat chiar și pe ploaie.",
+            "en": "By car, reach MAPECO comfortably and dry for an artistic morning. At noon, La Macarena offers spacious indoor programs. The drive continues to the Pergola, where you can hop out briefly. The afternoon concludes with murals and a national park visit, which you can enjoy even in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kunstschule und Werkstatt MAPECO",
+                "hu": "MAPECO Képzőművészeti Iskola",
+                "ro": "Școala și Atelierul de Artă MAPECO",
+                "en": "MAPECO Art School and Workshop"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trocken in die Ateliers zu gelangen; der Regen draußen schafft eine inspirierende Atmosphäre für die Betrachtung der Kunst.",
+                "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be a műtermekbe; a kinti eső inspiráló atmoszférát teremt a művészeti alkotások megtekintéséhez.",
+                "ro": "Parcați aproape de intrare pentru a ajunge uscat în ateliere; ploaia de afară creează o atmosferă inspiratoare pentru vizionarea operelor de artă.",
+                "en": "Park close to the entrance to stay dry while reaching the studios; the rain outside creates an inspiring atmosphere for viewing the artistic creations."
+              }
+            },
+            {
+              "name": {
+                "de": "Veranstaltungszentrum La Macarena",
+                "hu": "La Macarena Rendezvényközpont",
+                "ro": "Centrul de Evenimente La Macarena",
+                "en": "La Macarena Entertainment Center"
+              },
+              "tip_5lang": {
+                "de": "Dank der überdachten Bereiche ist dies ein idealer Stopp für den Mittag; genießen Sie die Architektur, während es draußen in Strömen regnet.",
+                "hu": "A fedett részeknek köszönhetően ez ideális megálló délidőben; élvezze az építészetet, miközben odakint szakad az eső, Ön pedig száraz marad.",
+                "ro": "Datorită zonelor acoperite, aceasta este o oprire ideală la prânz; bucurați-vă de arhitectură în timp ce afară plouă torențial, rămânând uscat.",
+                "en": "Thanks to the covered areas, this is an ideal midday stop; enjoy the architecture while it pours outside, keeping yourself perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "General Lázaro Cárdenas",
+                "hu": "Lázaro Cárdenas Tábornok",
+                "ro": "Generalul Lázaro Cárdenas",
+                "en": "General Lázaro Cárdenas"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal aus dem Autofenster für ein schnelles Foto; so vermeiden Sie nasse Füße und können direkt zum nächsten Ziel weiterfahren.",
+                "hu": "Tekintse meg az emlékművet az autó ablakából egy gyors fotó erejéig; így elkerülheti a lábak elázását, és azonnal haladhat tovább a következő célpont felé.",
+                "ro": "Priviți monumentul de pe geamul mașinii pentru o fotografie rapidă; astfel evitați să vă udați la picioare și puteți continua imediat spre următoarea destinație.",
+                "en": "View the monument from the car window for a quick photo; this way you avoid getting wet feet and can proceed immediately to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtische Pergola",
+                "hu": "Városi Pergola",
+                "ro": "Pergola Municipală",
+                "en": "Municipal Pergola"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz direkt am Platz; das kurze Stück zur Pergola ist schnell überbrückt, wo Sie unter dem Dach sicher vor Regen sind.",
+                "hu": "Keressen parkolóhelyet közvetlenül a tér mellett; a Pergola alatti fedett részhez vezető rövid utat gyorsan megteheti, ahol teljes védelmet talál az eső ellen.",
+                "ro": "Căutați un loc de parcare direct lângă piață; drumul scurt până sub Pergola poate fi parcurs rapid, unde veți găsi protecție completă împotriva ploii.",
+                "en": "Look for a parking spot right next to the square; the short walk to the covered Pergola is quick, where you will find full protection from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wandgemälde der Ursprünge von Uruapan",
+                "hu": "Uruapan Eredete Falfestmény",
+                "ro": "Muralul Originilor din Uruapan",
+                "en": "Mural of the Origins of Uruapan"
+              },
+              "tip_5lang": {
+                "de": "Die Farben des Wandgemäldes wirken bei feuchtem Licht besonders gesättigt; nutzen Sie den Wagen, um direkt davor zu halten und die Details zu bewundern.",
+                "hu": "A falfestmény színei a párás fényben különösen telítettnek tűnnek; használja az autót, hogy közvetlenül előtte megállva csodálhassa meg a részleteket.",
+                "ro": "Culorile picturii murale par extrem de saturate în lumina umedă; folosiți mașina pentru a opri direct în față și a admira detaliile fără a coborî.",
+                "en": "The colors of the mural look especially saturated in the damp light; use the car to pull up directly in front and admire the details from the dry cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark Barranca del Cupatitzio",
+                "hu": "Barranca del Cupatitzio Nemzeti Park",
+                "ro": "Parcul Național Barranca del Cupatitzio",
+                "en": "Barranca del Cupatitzio National Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkeingang; der Regen macht die Vegetation üppig und grün, aber bleiben Sie auf den befestigten Hauptwegen, um Schlamm zu vermeiden.",
+                "hu": "Hajtson egészen a park bejáratáig; az eső burjánzóvá és zölddé teszi a növényzetet, de maradjon a kövezett főutakon a sár elkerülése érdekében.",
+                "ro": "Conduceți până la intrarea în parc; ploaia face vegetația luxuriantă, dar rămâneți pe drumurile principale pavate pentru a evita noroiul de pe poteci.",
+                "en": "Drive all the way to the park entrance; the rain makes the vegetation lush and green, but stay on the paved main paths to avoid mud on the trails."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre winterliche Spritztour bei MAPECO im beheizten Wagen. Mittags erkunden Sie La Macarena und das Denkmal für General Cárdenas bei milder Sonne. Nach einem kurzen Stopp an der Pergola bewundern Sie die Wandgemälde. Beenden Sie den Tag im Nationalpark vor 17:00 Uhr, um das goldene Licht der Wintersonne über den Wasserfällen zu erleben.",
+            "hu": "Kezdje téli autós körútját a MAPECO-nál a fűtött kocsival. Délben fedezze fel a La Macarenát és a Cárdenas emlékművet a lágy napsütésben. Egy rövid pergolai megálló után csodálja meg a falfestményeket. A napot a nemzeti parkban zárja 17:00 előtt, hogy lássa a téli nap arany fényeit a vízesések felett.",
+            "ro": "Începeți turul de iarnă cu mașina la MAPECO. La prânz explorați La Macarena și monumentul Cárdenas în soarele blând. După o scurtă oprire la Pergolă, admirați picturile murale. Încheiați ziua în parcul național înainte de ora 17:00 pentru a vedea lumina aurie a soarelui peste cascade.",
+            "en": "Start your winter car tour at MAPECO in a heated vehicle. At noon, explore La Macarena and the Cárdenas monument in the mild sun. After a short stop at the Pergola, admire the murals. End the day in the national park before 17:00 to catch the golden winter sun over the waterfalls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kunstschule und Werkstatt MAPECO",
+                "hu": "MAPECO Képzőművészeti Iskola",
+                "ro": "Școala și Atelierul de Artă MAPECO",
+                "en": "MAPECO Art School and Workshop"
+              },
+              "tip_5lang": {
+                "de": "Die Ateliers sind morgens angenehm temperiert; ein wunderbarer Ort, um den Tag mit lokaler Kunst zu beginnen, während draußen der Wintermorgen erwacht.",
+                "hu": "A műtermek reggel kellemes hőmérsékletűek; csodálatos hely a nap indításához a helyi művészettel, miközben kint ébredezik a téli reggel a városban.",
+                "ro": "Atelierele au o temperatură plăcută dimineața; un loc minunat pentru a începe ziua cu arta locală în timp ce afară se trezește dimineața de iarnă.",
+                "en": "The studios are pleasantly tempered in the morning; a wonderful place to start the day with local art while the winter morning awakes outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Veranstaltungszentrum La Macarena",
+                "hu": "La Macarena Rendezvényközpont",
+                "ro": "Centrul de Evenimente La Macarena",
+                "en": "La Macarena Entertainment Center"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagszeit für einen Rundgang; die Sonne steht tief und beleuchtet die architektonischen Details der Arena in einem weichen, warmen Ton.",
+                "hu": "Használja ki a délidőt egy körbejárásra; a nap alacsonyan áll, és lágy, meleg tónusban világítja meg az aréna építészeti részleteit a látogatás során.",
+                "ro": "Profitați de timpul prânzului pentru un tur; soarele se află jos și luminează detaliile arhitecturale ale arenei într-un ton cald și difuz.",
+                "en": "Take advantage of the midday for a tour; the sun is low and illuminates the architectural details of the arena in a soft, warm tone during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "General Lázaro Cárdenas",
+                "hu": "Lázaro Cárdenas Tábornok",
+                "ro": "Generalul Lázaro Cárdenas",
+                "en": "General Lázaro Cárdenas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp in der Wintersonne; das Denkmal wirkt vor dem oft tiefblauen Winterhimmel von Uruapan besonders imposant und klar umrissen.",
+                "hu": "Egy rövid fotómegálló a téli napsütésben; az emlékmű Uruapan gyakran mélykék téli ege előtt különösen impozáns és élesen körvonalazott látványt nyújt.",
+                "ro": "O scurtă oprire foto în soarele de iarnă; monumentul pare extrem de impunător și clar definit pe fundalul cerului de iarnă adesea de un albastru intens.",
+                "en": "A short photo stop in the winter sun; the monument looks particularly imposing and clearly defined against Uruapan's often deep blue winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtische Pergola",
+                "hu": "Városi Pergola",
+                "ro": "Pergola Municipală",
+                "en": "Municipal Pergola"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe eines Cafés am Platz, um sich nach dem kurzen Spaziergang zur Pergola bei einem heißen Getränk wieder aufzuwärmen.",
+                "hu": "Parkoljon egy kávézó közelében a téren, hogy a Pergola alatti rövid séta után egy forró itallal melegedhessen fel az autóba való visszatérés előtt.",
+                "ro": "Parcați lângă o cafenea din piață pentru a vă încălzi cu o băutură fierbinte după scurta plimbare până la Pergolă înainte de a reveni la mașină.",
+                "en": "Park near a cafe on the square to warm up with a hot drink after the short walk to the Pergola before returning to the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wandgemälde der Ursprünge von Uruapan",
+                "hu": "Uruapan Eredete Falfestmény",
+                "ro": "Muralul Originilor din Uruapan",
+                "en": "Mural of the Origins of Uruapan"
+              },
+              "tip_5lang": {
+                "de": "Am späten Nachmittag ist das Licht perfekt für Details; die Farben des Wandgemäldes leuchten kräftig, bevor die Schatten der Gebäude länger werden.",
+                "hu": "Késő délután a fények tökéletesek a részletekhez; a falfestmény színei erőteljesen ragyognak, mielőtt az épületek árnyékai hosszúra nyúlnának.",
+                "ro": "După-amiaza târziu lumina este perfectă pentru detalii; culorile picturii murale strălucesc intens înainte ca umbrele clădirilor să se lungească.",
+                "en": "In the late afternoon, the light is perfect for seeing details; the colors of the mural glow intensely before the building shadows grow longer."
+              }
+            },
+            {
+              "name": {
+                "de": "Nationalpark Barranca del Cupatitzio",
+                "hu": "Barranca del Cupatitzio Nemzeti Park",
+                "ro": "Parcul Național Barranca del Cupatitzio",
+                "en": "Barranca del Cupatitzio National Park"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier pünktlich zum Sonnenuntergang um 17:00 Uhr; die Wintersonne zaubert magische Lichtreflexe auf die fließenden Gewässer.",
+                "hu": "Zárja itt a napot pontosan a 17:00-s naplementekor; a téli nap varázslatos fényvisszaverődéseket varázsol a folyóvíz felszínére és a vízesésekre.",
+                "ro": "Încheiați ziua aici exact la apusul de la ora 17:00; soarele de iarnă creează reflexii magice de lumină pe suprafața apei și peste cascade.",
+                "en": "End the day here exactly at the 17:00 sunset; the winter sun creates magical light reflections on the flowing water surface and the waterfalls."
+              }
+            }
+          ]
+        }
       }
     }
   }

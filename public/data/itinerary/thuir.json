@@ -137,6 +137,168 @@
         "hu": "Délelőtt: Kezdje a nyüzsgő Place de la République-en, majd csodálja meg a közeli Notre-Dame-de-la-Victoire templomot, és fedezze fel a híres Caves Byrrh-t.\nDél: Sétáljon át az elegáns Villa Palaudához, és szánjon időt a történelmi építészet, valamint a gyönyörű kerti környezet megcsodálására.\nDélután: Folytassa sétáját egy kicsit dél felé, hogy felfedezze a Saint-Sébastien kápolna békés középkori varázsát.\nEste: Zárja a kényelmes sétát egy kellemes barangolással az óváros hangulatos, macskaköves utcáin, és keressen egy jó helyet a pihenésre.",
         "ro": "Dimineața: Începeți în animata Place de la République, apoi admirați Biserica Notre-Dame-de-la-Victoire și explorați iconicele crame Byrrh.\nPrânz: Plimbați-vă până la eleganta Villa Palauda, luându-vă timp pentru a aprecia arhitectura sa istorică și împrejurimile superbe ale grădinii.\nDupă-amiaza: Continuați plimbarea ușor spre sud pentru a descoperi farmecul medieval senin al Capelei Saint-Sébastien.\nSeara: Încheiați-vă turul pietonal cu o plimbare relaxantă înapoi prin străzile pline de atmosferă ale orașului vechi.",
         "en": "Morning: Start at the lively Place de la République, then admire the nearby Church of Notre-Dame-de-la-Victoire and explore the iconic Caves Byrrh.\nMidday: Stroll over to the elegant Villa Palauda, taking your time to appreciate its historic architecture and beautiful garden surroundings.\nAfternoon: Continue your walk slightly south to discover the serene medieval charm of the Saint-Sébastien Chapel.\nEvening: Conclude your gentle walking tour with a leisurely stroll back through the old town's atmospheric streets, finding a cozy spot to relax."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz unter den Arkaden am Marktplatz. Mittags bietet die Kirche ein trockenes Refugium für stille Momente. Nachmittags verbringen wir viel Zeit in den riesigen, überdachten Hallen der Caves Byrrh. Abends spazieren wir mit dem Regenschirm zur Kapelle, während die nassen Gassen von Thuir im fahlen Licht glänzen und eine mystische Atmosphäre verbreiten.",
+            "hu": "Reggel a központi téren kezdünk, az árkádok és kávéházi napellenzők alatt keresve menedéket. Délben a templom vastag falai között pihenünk meg. Délután a Byrrh pincék hatalmas, fedett csarnokaiban kalandozunk, ahol teljesen szárazon maradhatunk. Este a vizes aszfalton tükröződő fények kísérnek utunkon a kápolna felé, miközben a város csendes esőbe burkolózik.",
+            "ro": "Dimineața căutăm adăpost sub arcadele din piața centrală. La prânz, biserica oferă un refugiu uscat pentru momente de liniște. După-amiaza o petrecem în halele imense și acoperite de la Caves Byrrh. Seara ne plimbăm cu umbrela spre capelă, în timp ce străzile umede din Thuir strălucesc în lumina difuză, creând o atmosferă plină de melancolie și farmec.",
+            "en": "In the morning, we seek shelter under the square's awnings. At noon, the church provides a dry sanctuary for quiet reflection. The afternoon is spent inside the vast, covered halls of Caves Byrrh, keeping us perfectly dry. In the evening, we walk with umbrellas to the chapel as the wet streets of Thuir reflect the dim lights, creating a mystical and cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la République",
+                "hu": "Place de la République",
+                "ro": "Place de la République",
+                "en": "Place de la République"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markisen der Cafés, um das Treiben auf dem Platz trocken zu beobachten; warme Getränke helfen gegen die klamme Feuchtigkeit des Morgens.",
+                "hu": "Használja a kávézók napellenzőit, hogy szárazon figyelje a tér nyüzsgését; egy forró ital segít elűzni a reggeli nyirkos levegőt és felfrissít.",
+                "ro": "Folosiți copertinele cafenelelor pentru a observa agitația din piață fără a vă uda; o băutură caldă vă va ajuta să uitați de umezeala dimineții.",
+                "en": "Use the cafe awnings to watch the square's bustle while staying dry; a hot drink will help combat the damp morning air and keep you warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Victoire",
+                "hu": "Notre-Dame-de-la-Victoire templom",
+                "ro": "Biserica Notre-Dame-de-la-Victoire",
+                "en": "Church of Notre-Dame-de-la-Victoire"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Altarbilder lassen sich im Inneren geschützt vor dem Regen bewundern; stellen Sie Ihren Schirm im Vorraum ab, um die Stille zu genießen.",
+                "hu": "A pompás oltárképeket az esőtől védve, bent csodálhatja meg; hagyja az esernyőt az előtérben, és élvezze a templom nyugalmát és szakrális csendjét.",
+                "ro": "Retaburile magnifice pot fi admirate în interior, la adăpost de ploaie; lăsați umbrela la intrare și bucurați-vă de liniștea profundă a bisericii.",
+                "en": "The magnificent altarpieces can be admired inside, sheltered from the rain; leave your umbrella at the entrance to fully enjoy the spiritual silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Caves Byrrh",
+                "hu": "Caves Byrrh",
+                "ro": "Caves Byrrh",
+                "en": "Caves Byrrh"
+              },
+              "tip_5lang": {
+                "de": "Dies ist das ultimative Ziel für Regentage, da die Tour komplett überdacht ist; bestaunen Sie das weltgrößte Eichenfass in einer trockenen Industriehalle.",
+                "hu": "Ez a tökéletes úticél esős napokon, mivel a túra teljesen fedett; csodálja meg a világ legnagyobb tölgyfahordóját a hatalmas, száraz ipari csarnokban.",
+                "ro": "Aceasta este destinația supremă pentru zilele ploioase, turul fiind complet acoperit; admirați cea mai mare cuvă de stejar din lume într-o hală uscată.",
+                "en": "This is the ultimate rainy day destination as the tour is entirely undercover; marvel at the world's largest oak vat inside a vast, dry industrial hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Palauda",
+                "hu": "Villa Palauda",
+                "ro": "Villa Palauda",
+                "en": "Villa Palauda"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die elegante Fassade unter dem Schutz der dichten Bäume; der Regen lässt die Farben der regionalen Ziegelsteine besonders kräftig leuchten.",
+                "hu": "Tekintse meg az elegáns homlokzatot a sűrű fák oltalma alól; az eső hatására a helyi téglák színei még mélyebbé és ragyogóbbá válnak a szürkeségben.",
+                "ro": "Admirați fațada elegantă de sub protecția copacilor deși; ploaia face ca culorile cărămizilor regionale să strălucească mai intens în lumină.",
+                "en": "View the elegant facade from under the shelter of dense trees; the rain makes the colors of the regional bricks appear richer and more vibrant."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Sébastien-Kapelle",
+                "hu": "Saint-Sébastien kápolna",
+                "ro": "Capela Saint-Sébastien",
+                "en": "Saint-Sébastien Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der kleine überdachte Vorbau bietet Schutz, während Sie den Blick über die verregneten Hügel genießen; achten Sie auf die rutschigen Steine beim Abstieg.",
+                "hu": "A kis fedett tornác menedéket nyújt, miközben az esős dombvidék látványában gyönyörködik; vigyázzon a csúszós kövekre a városba visszavezető úton.",
+                "ro": "Pridvorul mic acoperit oferă adăpost în timp ce admirați dealurile ploioase; atenție la pietrele alunecoase pe drumul de întoarcere spre oraș.",
+                "en": "The small covered porch provides shelter while you enjoy views of the rainy hills; watch out for slippery stones on the path back to the town."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch auf dem leeren Platz. Wir wärmen uns in der Kirche auf und genießen die klare Luft. Nachmittags bieten die Caves Byrrh eine konstante, angenehme Temperatur ohne Wind. Da die Sonne bereits gegen 17:00 Uhr hinter den Pyrenäen versinkt, erreichen wir die Kapelle im magischen Licht der blauen Stunde, bevor die Kälte der Nacht einsetzt.",
+            "hu": "A téli reggel frissen indul az üres téren. A templom vastag falaiban keressük az enyhülést a csípős szél elől. Délután a Byrrh pincék állandó, szélmentes hőmérséklete kellemes menedék. Mivel a nap már 17:00 körül eltűnik a Pireneusok mögött, a kápolnát a kék óra varázslatos fényeiben érjük el, mielőtt beállna az éjszakai fagy.",
+            "ro": "Dimineața de iarnă începe proaspăt în piața pustie. Ne încălzim în biserică și ne bucurăm de aerul curat. După-amiaza, Caves Byrrh oferă o temperatură constantă și plăcută, fără vânt. Deoarece soarele apune deja în jurul orei 17:00 după Pirinei, ajungem la capelă în lumina magică a orei albastre, înainte de gerul nopții.",
+            "en": "The winter morning starts fresh on the quiet square. We warm up inside the church and enjoy the crisp air. In the afternoon, Caves Byrrh provides a constant, wind-free temperature. As the sun sets behind the Pyrenees around 17:00, we reach the chapel in the magical blue hour light before the nighttime chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la République",
+                "hu": "Place de la République",
+                "ro": "Place de la République",
+                "en": "Place de la République"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit einem heißen Kaffee in einem beheizten Bistro; die klare Winterluft bietet einen ungetrübten Blick auf die Architektur des Zentrums.",
+                "hu": "Kezdje a napot egy forró kávéval egy fűtött bisztróban; a tiszta téli levegő akadálytalan kilátást nyújt a központ történelmi építészetére.",
+                "ro": "Începeți ziua cu o cafea fierbinte într-un bistro încălzit; aerul curat de iarnă oferă o vedere clară asupra arhitecturii centrului istoric.",
+                "en": "Start with a hot coffee in a heated bistro; the clear winter air offers an unobstructed view of the central architecture and historic buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Victoire",
+                "hu": "Notre-Dame-de-la-Victoire templom",
+                "ro": "Biserica Notre-Dame-de-la-Victoire",
+                "en": "Church of Notre-Dame-de-la-Victoire"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor dem schneidenden Wind; bewundern Sie das goldene Licht der Kerzen, das im Winter besonders gemütlich wirkt.",
+                "hu": "A vastag kőfalak megvédenek a metsző téli széltől; csodálja meg a gyertyák aranyló fényét, amely télen különösen meghitt hangulatot áraszt odabent.",
+                "ro": "Zidurile groase de piatră vă protejează de vântul tăios; admirați lumina aurie a lumânărilor, care iarna pare deosebit de primitoare și caldă.",
+                "en": "The thick stone walls protect you from the biting wind; admire the golden candlelight, which feels especially cozy and warm during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Caves Byrrh",
+                "hu": "Caves Byrrh",
+                "ro": "Caves Byrrh",
+                "en": "Caves Byrrh"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Winterstop, da die Keller temperiert sind; genießen Sie die historische Atmosphäre ohne schwere Winterjacken während der Führung.",
+                "hu": "Ideális téli megálló, mivel a pincék hőmérséklete mérsékelt; élvezze a történelmi atmoszférát nehéz télikabát nélkül a vezetett túra során.",
+                "ro": "Un popas ideal de iarnă, deoarece pivnițele sunt temperate; bucurați-vă de atmosfera istorică fără haine grele în timpul vizitei ghidate.",
+                "en": "An ideal winter stop as the cellars maintain a steady temperature; enjoy the historic atmosphere without heavy winter coats during the guided tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Palauda",
+                "hu": "Villa Palauda",
+                "ro": "Villa Palauda",
+                "en": "Villa Palauda"
+              },
+              "tip_5lang": {
+                "de": "Ohne Laub bieten die Bäume des Parks einen freien Blick auf die Details der Villa; tragen Sie mehrere Schichten für den Spaziergang im Freien.",
+                "hu": "Lombkorona nélkül a park fái szabad kilátást engednek a villa apró részleteire; viseljen réteges öltözetet a szabadtéri séta idején.",
+                "ro": "Fără frunziș, copacii din parc oferă o vedere liberă asupra detaliilor vilei; purtați mai multe straturi de haine pentru plimbarea în aer liber.",
+                "en": "Without leaves, the park's trees offer a clear view of the villa's architectural details; wear multiple layers for the walk in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Sébastien-Kapelle",
+                "hu": "Saint-Sébastien kápolna",
+                "ro": "Capela Saint-Sébastien",
+                "en": "Saint-Sébastien Chapel"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kapelle vor 17:00 Uhr, um den spektakulären Sonnenuntergang zu sehen; die kalte Luft macht die Fernsicht auf die Berge unglaublich klar.",
+                "hu": "Érkezzen a kápolnához 17:00 előtt, hogy lássa a látványos téli naplementét; a hideg levegő miatt a távoli hegyek körvonalai rendkívül élesek.",
+                "ro": "Ajungeți la capelă înainte de ora 17:00 pentru a vedea apusul spectaculos; aerul rece face ca vederea spre munții îndepărtați să fie incredibil de clară.",
+                "en": "Reach the chapel before 17:00 to catch the spectacular winter sunset; the cold air makes the distant mountain views incredibly sharp and clear."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Délelőtt: Kerékpározzon a nyüzsgő központi tértől a történelmi templomig, majd irány a híres Byrrh pincészet egy lenyűgöző túrára.\nDél: Tekerjen át Thuir festői külvárosán az impozáns Château de Saü felé, miközben élvezheti a gyönyörű vidéki tájat az út mentén.\nDélután: Pedálozzon vissza a város felé, hogy nyugodt, zavartalan tempóban fedezze fel a csendes Saint-Sébastien kápolnát.\nEste: Zárja aktív kerékpáros kalandját egy pihentető tekeréssel vissza Thuir szívébe, miközben a lemenő nap megvilágítja a dombokat.",
         "ro": "Dimineața: Bicicliți din piața centrală vibrantă până la biserica istorică, apoi îndreptați-vă spre faimoasele crame Byrrh pentru un tur fascinant.\nPrânz: Mergeți prin împrejurimile pitorești ale Thuir-ului pentru a ajunge la impunătorul Château de Saü, admirând peisajul rural pe drum.\nDupă-amiaza: Pedalați înapoi spre oraș pentru a explora liniștita Capelă Saint-Sébastien într-un ritm relaxant și neîntrerupt.\nSeara: Încheiați-vă aventura activă cu o plimbare relaxantă cu bicicleta înapoi în inima orașului Thuir, în timp ce soarele începe să apună.",
         "en": "Morning: Cycle from the vibrant central square to the historic church, then head to the famous Byrrh cellars for a fascinating guided tour.\nMidday: Ride through the scenic outskirts of Thuir to reach the imposing Château de Saü, taking in the picturesque countryside along the way.\nAfternoon: Pedal your way back towards town to explore the quiet Saint-Sébastien Chapel at a leisurely, uninterrupted pace.\nEvening: End your active cycling adventure with a relaxing ride back to the heart of Thuir as the afternoon sun begins to slowly set over the hills."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsicht auf dem nassen Kopfsteinpflaster am Morgen. Wir radeln zügig zwischen den Sehenswürdigkeiten, um wenig Zeit im Regen zu verbringen. Mittags bietet die Kirche eine lange Pause zum Trocknen. Den Nachmittag verbringen wir entspannt bei Byrrh, während unsere Ausrüstung draußen lüftet. Die Rückfahrt erfolgt vorsichtig auf den glatten Straßen durch die Aspres-Hügel.",
+            "hu": "Vigyázzon a reggeli vizes macskakövön! Gyorsan tekerünk a látnivalók között, hogy minél kevesebb időt töltsünk az esőben. Délben a templomban tartunk hosszú pihenőt, hogy megszáradjunk. A délutánt a Byrrh-nél töltjük fedett helyen, míg felszerelésünk a tárolóban szikkad. Óvatosan ereszkedünk le a csúszós utakon az Aspres dombjairól.",
+            "ro": "Atenție pe piatra cubică umedă de dimineață. Pedalăm rapid între obiective pentru a petrece puțin timp în ploaie. La prânz, biserica oferă o pauză lungă pentru uscare. După-amiaza o petrecem la Byrrh, în timp ce echipamentul se aerisește. Drumul de întoarcere pe dealurile Aspres trebuie făcut cu mare prudență pe asfaltul lucios.",
+            "en": "Be careful on the wet cobblestones in the morning. We cycle quickly between sights to minimize time in the rain. At noon, the church offers a long break to dry off. The afternoon is spent at Byrrh undercover while our gear airs out. The return journey through the Aspres hills requires caution on the slippery road surfaces."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la République",
+                "hu": "Place de la République",
+                "ro": "Place de la République",
+                "en": "Place de la République"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter den Arkaden und achten Sie auf rutschige Markierungen auf dem Boden; wasserfeste Taschen sind heute unverzichtbar.",
+                "hu": "Parkolja le kerékpárját az árkádok alatt, és vigyázzon a csúszós útburkolati jelekre; a vízálló táskák ma elengedhetetlenek a túrához.",
+                "ro": "Parcați bicicleta sub arcade și aveți grijă la marcajele rutiere alunecoase; gențile impermeabile sunt absolut necesare astăzi pentru confort.",
+                "en": "Park your bike under the awnings and watch out for slippery road markings; waterproof panniers are essential for keeping your things dry today."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Victoire",
+                "hu": "Notre-Dame-de-la-Victoire templom",
+                "ro": "Biserica Notre-Dame-de-la-Victoire",
+                "en": "Church of Notre-Dame-de-la-Victoire"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp, um die Regenjacke auszuschütteln; das ruhige Innere bietet eine ideale Pause, während es draußen auf die alten Dächer prasselt.",
+                "hu": "Használja ki a megállót az esőkabát megrázására; a nyugodt belső tér ideális pihenőhely, miközben kint az eső veri a régi város tetőit.",
+                "ro": "Profită de acest popas pentru a scutura pelerina de ploaie; interiorul liniștit oferă o pauză ideală în timp ce ploaia bate în acoperișurile vechi.",
+                "en": "Take advantage of this stop to shake off your rain jacket; the peaceful interior provides an ideal rest while rain lashes against the old roofs."
+              }
+            },
+            {
+              "name": {
+                "de": "Byrrh",
+                "hu": "Byrrh",
+                "ro": "Byrrh",
+                "en": "Byrrh"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad im überdachten Bereich; die ausgiebige Besichtigung der Keller lässt Sie das schlechte Wetter für fast zwei Stunden vergessen.",
+                "hu": "Láncolja le kerékpárját a fedett részen; a pincék alapos felfedezése közben majdnem két órára teljesen elfelejtheti a kinti rossz időjárást.",
+                "ro": "Asigurați-vă bicicleta în zona acoperită; vizitarea extensivă a pivnițelor vă va face să uitați de vremea rea de afară timp de aproape două ore.",
+                "en": "Secure your bike in the covered area; the extensive tour of the cellars will make you completely forget the bad weather for almost two hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saü",
+                "hu": "Château de Saü",
+                "ro": "Château de Saü",
+                "en": "Château de Saü"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt durch die Weinberge ist bei Regen sehr erfrischend, aber achten Sie auf Schlamm auf den Wegen; Schutzbleche am Rad sind heute ein Muss.",
+                "hu": "A szőlőültetvények közötti tekerés frissítő az esőben, de ügyeljen a sárra az utakon; a sárvédő használata ma kötelező a kerékpáron.",
+                "ro": "Plimbarea prin vii este răcoritoare în ploaie, dar atenție la noroiul de pe drumuri; apărătorile de noroi sunt obligatorii astăzi pe bicicletă.",
+                "en": "Riding through the vineyards is refreshing in the rain, but watch out for mud on the paths; mudguards are a must-have on your bike today."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Sébastien-Kapelle",
+                "hu": "Saint-Sébastien kápolna",
+                "ro": "Capela Saint-Sébastien",
+                "en": "Saint-Sébastien Chapel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit Vorsicht, da die Abfahrt nach Thuir bei Nässe tückisch sein kann; prüfen Sie Ihre Bremsen vor dem Start an der Kapelle.",
+                "hu": "Fejezze be a túrát óvatosan, mivel a Thuirba vezető lejtő vizesen csalóka lehet; ellenőrizze a fékeket, mielőtt elindulna a kápolnától.",
+                "ro": "Încheiați turul cu prudență, deoarece coborârea spre Thuir poate fi periculoasă pe carosabil umed; verificați frânele înainte de a pleca.",
+                "en": "Finish the tour carefully, as the descent to Thuir can be treacherous when wet; double-check your brakes before leaving the chapel area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start am Morgen erfordert gute Handschuhe beim Radeln durch Thuir. Wir genießen die klare Fernsicht während der Fahrt zu den Schlössern. Mittags wärmen wir uns bei Byrrh auf, wo der Wind keine Chance hat. Wir planen den Rückweg so, dass wir vor Sonnenuntergang um 17:00 Uhr wieder im Zentrum sind, bevor die Temperaturen spürbar in den Keller sinken.",
+            "hu": "A hűvös reggeli induláshoz jó kesztyűre lesz szükség a városon keresztül. Élvezzük a tiszta kilátást a kastély felé tekerve. Délben a Byrrh-nél melegszünk fel, ahol a szél nem ér el minket. Úgy tervezzük a visszautat, hogy a 17:00-s naplemente előtt visszaérjünk a központba, mielőtt a hőmérséklet jelentősen visszaesne.",
+            "ro": "Un start răcoros dimineața necesită mănuși bune pentru pedalatul prin Thuir. Ne bucurăm de vizibilitatea clară în timpul drumului spre castele. La prânz ne încălzim la Byrrh, unde vântul nu ne poate atinge. Planificăm întoarcerea astfel încât să fim în centru înainte de apusul de la ora 17:00, când gerul se instalează.",
+            "en": "A chilly morning start requires good gloves while cycling through Thuir. We enjoy the clear long-distance views on the way to the castles. At noon, we warm up at Byrrh, shielded from the wind. We plan the return so we are back in the center before the 17:00 sunset, before temperatures drop significantly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place de la République",
+                "hu": "Place de la République",
+                "ro": "Place de la République",
+                "en": "Place de la République"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, um den Fahrtwind bei kühlen Temperaturen abzuwehren; die Morgensonne auf dem Platz gibt erste zaghafte Wärme.",
+                "hu": "Viseljen szélálló ruházatot, hogy kivédje a menetszelet a hűvös időben; a reggeli napsütés a téren ad egy kevéske kezdeti melegséget.",
+                "ro": "Purtați haine rezistente la vânt pentru a contracara curentul de aer rece; soarele de dimineață din piață oferă o primă căldură timidă.",
+                "en": "Wear windproof clothing to block the wind chill while riding; the morning sun on the square provides a bit of gentle, initial warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Victoire",
+                "hu": "Notre-Dame-de-la-Victoire templom",
+                "ro": "Biserica Notre-Dame-de-la-Victoire",
+                "en": "Church of Notre-Dame-de-la-Victoire"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine hervorragende windstille Pause; bewegen Sie Ihre Finger und Zehen, um die Durchblutung nach der Fahrt aufrechtzuerhalten.",
+                "hu": "A templom kiváló szélmentes pihenőt nyújt; mozgassa meg ujjait és lábujjait, hogy fenntartsa a keringést a hideg tekerés után.",
+                "ro": "Biserica oferă o pauză excelentă fără vânt; mișcați degetele de la mâini și picioare pentru a menține circulația după drumul răcoros.",
+                "en": "The church provides an excellent wind-free break; wiggle your fingers and toes to keep circulation going after the cold morning ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Byrrh",
+                "hu": "Byrrh",
+                "ro": "Byrrh",
+                "en": "Byrrh"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den langen Aufenthalt im geschützten Inneren; die Verkostung des Aperitifs am Ende der Tour wärmt angenehm von innen auf.",
+                "hu": "Élvezze a hosszú tartózkodást a védett belső térben; a túra végén az aperitif kóstolása kellemesen felmelegíti az embert belülről.",
+                "ro": "Bucurați-vă de șederea prelungită în interiorul protejat; degustarea aperitivului la sfârșitul turului vă va încălzi plăcut pe interior.",
+                "en": "Enjoy the long stay in the protected interior; tasting the aperitif at the end of the tour provides a pleasant internal warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saü",
+                "hu": "Château de Saü",
+                "ro": "Château de Saü",
+                "en": "Château de Saü"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Weinberglandschaft ist wunderschön, aber der Weg kann durch Reif glatt sein; fahren Sie mit angemessener Geschwindigkeit zum Schloss.",
+                "hu": "A téli szőlővidék gyönyörű, de az út a zúzmarától csúszós lehet; közlekedjen mérsékelt sebességgel a kastély felé vezető úton.",
+                "ro": "Peisajul de iarnă al viilor este superb, dar drumul poate fi alunecos din cauza chiciurei; pedalați cu viteză moderată spre castel.",
+                "en": "The winter vineyard landscape is beautiful, but the path can be slippery with frost; ride at a moderate speed on your way to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Sébastien-Kapelle",
+                "hu": "Saint-Sébastien kápolna",
+                "ro": "Capela Saint-Sébastien",
+                "en": "Saint-Sébastien Chapel"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Pyrenäen; beeilen Sie sich mit der Rückfahrt, sobald die Sonne weg ist, da es schnell kalt wird.",
+                "hu": "Használja ki a tiszta téli fényt a Pireneusok fotózásához; siessen a visszautúttal, amint lemegy a nap, mert hirtelen lehűl a levegő.",
+                "ro": "Folosiți lumina clară de iarnă pentru fotografii cu Pirineii; grăbiți-vă cu întoarcerea imediat ce soarele apune, deoarece se răcește brusc.",
+                "en": "Take advantage of the clear winter light for photos of the Pyrenees; hurry back once the sun sets, as the temperature drops rapidly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Délelőtt: Vezessen egyenesen a világhírű Caves Byrrh-hez, hogy részt vegyen egy lenyűgöző történelmi túrán a legendás pincékben.\nDél: Irány a buja vidék, hogy megcsodálja a nagyszerű Château de Saü-t és a birtokot körülvevő festői, nyugodt vidéki tájat.\nDélután: Navigáljon át a dombos terepen, és fedezze fel a festői Église Saint-Thomas-t, valamint a történelmi Église Saint-Julien et Sainte-Baselisse-t.\nEste: Térjen vissza Thuir-ba, és pihenjen meg a Place de la Fon Espinasse téren, átgondolva a tágabb régió sokszínű autós felfedezését.",
         "ro": "Dimineața: Conduceți direct la faimoasele Caves Byrrh pentru un tur istoric fascinant și o degustare captivantă în cramele legendare.\nPrânz: Mergeți în mediul rural luxuriant pentru a admira mărețul Château de Saü și peisajele rurale pitorești care înconjoară domeniul.\nDupă-amiaza: Navigați prin terenul deluros pentru a descoperi pitoreasca Église Saint-Thomas și istorica Église Saint-Julien et Sainte-Baselisse.\nSeara: Întoarceți-vă la Thuir pentru a vă relaxa în Place de la Fon Espinasse, reflectând la turul dumneavoastră cuprinzător al regiunii mai largi.",
         "en": "Morning: Drive straight to the world-renowned Caves Byrrh for an immersive tasting and fascinating historical tour of the legendary cellars.\nMidday: Head out into the lush countryside to admire the grand Château de Saü and the picturesque rural landscapes surrounding the estate.\nAfternoon: Navigate through the rolling terrain to discover the quaint Église Saint-Thomas and the historic Église Saint-Julien et Sainte-Baselisse.\nEvening: Return to Thuir to unwind at Place de la Fon Espinasse, reflecting on your comprehensive driving tour of the diverse wider region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Dank des Autos bleiben wir heute fast völlig trocken. Wir starten bei Byrrh, wo wir direkt am Eingang parken können. Die Fahrt zu den abgelegenen Kirchen durch die verregneten Weinberge ist sehr malerisch. Mittags und nachmittags genießen wir die Ruhe in den Sakralbauten, während draußen der Regen prasselt. Den Tag lassen wir entspannt auf dem zentralen Platz ausklingen.",
+            "hu": "Az autónak köszönhetően ma szinte teljesen szárazon maradunk. A Byrrh-nél kezdünk, ahol közvetlenül a bejáratnál parkolhatunk. A távoli templomokhoz vezető út az esős szőlőültetvényeken keresztül nagyon látványos. Délben és délután a szakrális épületek nyugalmát élvezzük, miközben kint kopog az eső. A napot pihentető módon a központi téren zárjuk.",
+            "ro": "Datorită mașinii, astăzi rămânem aproape complet uscați. Începem la Byrrh, unde putem parca chiar lângă intrare. Drumul spre bisericile izolate prin viile ploioase este foarte pitoresc. La prânz și după-amiază ne bucurăm de liniștea clădirilor sacre în timp ce afară plouă. Încheiem ziua într-un mod relaxant în piața centrală.",
+            "en": "Thanks to the car, we stay almost entirely dry today. We start at Byrrh, where we can park right by the entrance. The drive to the remote churches through rainy vineyards is very scenic. At noon and in the afternoon, we enjoy the peace of the sacred buildings while rain drums outside. We end the day in a relaxing way at the central square."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caves Byrrh",
+                "hu": "Caves Byrrh",
+                "ro": "Caves Byrrh",
+                "en": "Caves Byrrh"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz, um trocken ins Gebäude zu gelangen; die Keller bieten ein perfektes, wetterunabhängiges Erlebnis für die ganze Familie.",
+                "hu": "Használja a közeli parkolót, hogy szárazon jusson az épületbe; a pincék tökéletes, időjárástól független élményt nyújtanak az egész családnak.",
+                "ro": "Folosiți parcarea din apropiere pentru a intra uscat în clădire; pivnițele oferă o experiență perfectă, indiferent de vreme, pentru toată familia.",
+                "en": "Use the nearby parking to get into the building dry; the cellars provide a perfect, weather-independent experience for the whole family."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saü",
+                "hu": "Château de Saü",
+                "ro": "Château de Saü",
+                "en": "Château de Saü"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das wolkenverhangene Tal; das Schloss wirkt im Regen besonders herrschaftlich und geheimnisvoll hinter den nassen Bäumen.",
+                "hu": "Élvezze az autózást a felhőkbe burkolózó völgyben; a kastély az esőben különösen előkelőnek és titokzatosnak tűnik a vizes fák mögött.",
+                "ro": "Bucurați-vă de condusul prin valea acoperită de nori; castelul pare deosebit de nobil și misterios în ploaie, ascuns după copacii umezi.",
+                "en": "Enjoy driving through the cloud-shrouded valley; the castle looks especially grand and mysterious in the rain behind the wet trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Thomas",
+                "hu": "Église Saint-Thomas",
+                "ro": "Église Saint-Thomas",
+                "en": "Église Saint-Thomas"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie direkt vor der Kirche, um den Regenschirm nur kurz zu brauchen; das gedämpfte Licht im Inneren verstärkt die spirituelle Atmosphäre.",
+                "hu": "Álljon meg közvetlenül a templom előtt, hogy csak rövid ideig kelljen az esernyő; a benti tompa fények felerősítik a spirituális hangulatot.",
+                "ro": "Opriți direct în fața bisericii pentru a folosi umbrela doar scurt timp; lumina difuză din interior intensifică atmosfera spirituală.",
+                "en": "Stop directly in front of the church to minimize umbrella use; the dimmed light inside enhances the spiritual atmosphere during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Julien et Sainte-Baselisse",
+                "hu": "Église Saint-Julien et Sainte-Baselisse",
+                "ro": "Église Saint-Julien et Sainte-Baselisse",
+                "en": "Église Saint-Julien et Sainte-Baselisse"
+              },
+              "tip_5lang": {
+                "de": "Die ländliche Idylle wirkt im Regen sehr beruhigend; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung der historischen Wandmalereien.",
+                "hu": "A vidéki idill esőben nagyon megnyugtató; használja ki az időt a történelmi falfestmények alapos belső megtekintésére, amíg eláll az eső.",
+                "ro": "Idila rurală este foarte liniștitoare pe ploaie; profitați de timp pentru o vizitare detaliată a picturilor murale istorice din interior.",
+                "en": "The rural idyll is very soothing in the rain; use the time for a detailed indoor viewing of the historic murals while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de la Fon Espinasse",
+                "hu": "Place de la Fon Espinasse",
+                "ro": "Place de la Fon Espinasse",
+                "en": "Place de la Fon Espinasse"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um den Tag bei einem Glas Wein in einem der gemütlichen Lokale rund um den Platz zu beenden, während es draußen weiter regnet.",
+                "hu": "Remek hely, hogy a napot egy pohár bor mellett fejezze be a tér körüli hangulatos helyek egyikén, miközben kint tovább esik az eső.",
+                "ro": "Un loc minunat pentru a încheia ziua cu un pahar de vin într-una dintre locațiile primitoare din jurul pieței, în timp ce afară plouă.",
+                "en": "A great place to end the day with a glass of wine in one of the cozy venues around the square while the rain continues outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Komfort des beheizten Autos macht die winterliche Tour durch die Aspres sehr angenehm. Wir starten morgens bei Byrrh und genießen die Wärme im Inneren. Die Fahrt zu den alten Kirchen bietet spektakuläre Ausblicke auf die verschneiten Pyrenäen-Gipfel in der Ferne. Da es früh dunkel wird, planen wir die letzte Station so, dass wir die einsetzende Dämmerung in Thuir erleben.",
+            "hu": "A fűtött autó kényelme nagyon kellemessé teszi a téli túrát az Aspres vidékén. Reggel a Byrrh-nél kezdünk, élvezve a benti meleget. A régi templomokhoz vezető út látványos kilátást nyújt a távoli havas Pireneusok csúcsaira. Mivel korán sötétedik, az utolsó állomást úgy tervezzük, hogy a szürkületet már Thuirban töltsük.",
+            "ro": "Confortul mașinii încălzite face turul de iarnă prin Aspres foarte plăcut. Începem dimineața la Byrrh și ne bucurăm de căldura din interior. Drumul spre bisericile vechi oferă vederi spectaculoase spre vârfurile înzăpezite ale Pirineilor. Deoarece se întunecă devreme, planificăm ultima oprire pentru a prinde amurgul în Thuir.",
+            "en": "The comfort of a heated car makes the winter tour through the Aspres very pleasant. We start at Byrrh in the morning, enjoying the indoor warmth. The drive to the old churches offers spectacular views of the snowy Pyrenees peaks. Since it gets dark early, we plan the last stop to experience the twilight back in Thuir."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Caves Byrrh",
+                "hu": "Caves Byrrh",
+                "ro": "Caves Byrrh",
+                "en": "Caves Byrrh"
+              },
+              "tip_5lang": {
+                "de": "Die Kellertemperatur ist im Winter angenehm konstant; nutzen Sie die Zeit für eine ausführliche Tour durch die Industriegeschichte von Thuir.",
+                "hu": "A pincék hőmérséklete télen kellemesen állandó; használja ki az időt Thuir ipari történelmének alapos megismerésére a vezetett túra során.",
+                "ro": "Temperatura pivnițelor este plăcut constantă iarna; profitați de timp pentru un tur detaliat al istoriei industriale a orașului Thuir.",
+                "en": "The cellar temperature is pleasantly constant in winter; take your time for a detailed tour of Thuir's industrial history in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saü",
+                "hu": "Château de Saü",
+                "ro": "Château de Saü",
+                "en": "Château de Saü"
+              },
+              "tip_5lang": {
+                "de": "Die Weinberge im Winterschlaf bieten tolle Fotomotive; das Schloss wirkt in der tiefstehenden Sonne besonders plastisch und eindrucksvoll.",
+                "hu": "A téli álmot alvó szőlőültetvények remek fotótémát kínálnak; a kastély az alacsonyan járó napfényben különösen impozáns látványt nyújt.",
+                "ro": "Viile în stare de hibernare oferă oportunități excelente pentru fotografii; castelul pare deosebit de impresionant în lumina joasă a soarelui.",
+                "en": "The vineyards in winter dormancy offer great photo opportunities; the castle looks especially striking and impressive in the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Thomas",
+                "hu": "Église Saint-Thomas",
+                "ro": "Église Saint-Thomas",
+                "en": "Église Saint-Thomas"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fußweg vom Parkplatz zur Kirche reicht aus, um die frische Luft zu genießen; innen ist es windstill und kontemplativ ruhig.",
+                "hu": "Egy rövid séta a parkolótól a templomig éppen elég a friss levegőhöz; bent szélcsend és mély, elmélkedő nyugalom fogadja a látogatót.",
+                "ro": "O scurtă plimbare de la parcare la biserică este suficientă pentru a savura aerul curat; interiorul este ferit de vânt și foarte liniștit.",
+                "en": "A short walk from the car to the church is enough to enjoy the crisp air; inside it is wind-free and contemplatively quiet for a winter visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Julien et Sainte-Baselisse",
+                "hu": "Église Saint-Julien et Sainte-Baselisse",
+                "ro": "Église Saint-Julien et Sainte-Baselisse",
+                "en": "Église Saint-Julien et Sainte-Baselisse"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am frühen Nachmittag, wenn die Sonne die Mauern wärmt; die klare Winterluft sorgt für eine weite Sicht über das Tal.",
+                "hu": "Látogassa meg ezt a helyet kora délután, amikor a nap még melegíti a falakat; a tiszta téli levegő messzi kilátást biztosít a völgy felett.",
+                "ro": "Vizitați acest loc la începutul după-amiezii, când soarele încă mai încălzește zidurile; aerul clar de iarnă oferă o vizibilitate mare peste vale.",
+                "en": "Visit this spot in the early afternoon when the sun still warms the walls; the clear winter air provides far-reaching views over the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Place de la Fon Espinasse",
+                "hu": "Place de la Fon Espinasse",
+                "ro": "Place de la Fon Espinasse",
+                "en": "Place de la Fon Espinasse"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Beleuchtung des Platzes in der frühen Dunkelheit; ein schöner Ort, um sich vor der Heimfahrt nochmals aufzuwärmen.",
+                "hu": "Élvezze a tér meghitt kivilágítását a korai sötétedésben; remek hely, hogy még egyszer felmelegedjen a hazaindulás előtt egy teával.",
+                "ro": "Bucurați-vă de iluminarea primitoare a pieței în întunericul care se lasă devreme; un loc bun pentru a vă încălzi înainte de plecare.",
+                "en": "Enjoy the cozy square lighting as darkness falls early; a lovely place to warm up one last time with a hot drink before heading home."
+              }
+            }
+          ]
+        }
       }
     }
   }

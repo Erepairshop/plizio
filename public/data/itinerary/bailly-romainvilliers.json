@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot Bailly-Romainvilliers-ben egy sétával a Les Bassins de Bailly körül. Késő délelőtt az Église Notre-Dame-de-l'Assomption nyújt elmélkedésre alkalmas pillanatokat. A délután a szórakozásé, a minigolftól kezdve a Game Town és az Action Factory játékaiig. Az estét a Villages Nature lenyűgöző víziparkjában töltheti lazán és felfrissülve.",
         "ro": "Începeți ziua în Bailly-Romainvilliers cu o plimbare liniștită în jurul Les Bassins de Bailly. Dimineața târziu, Église Notre-Dame-de-l'Assomption oferă un moment de reflecție. După-amiaza este dedicată distracției, de la minigolf la jocurile din Game Town și Action Factory. Seara se încheie cu relaxare și prospețime în fantasticul parc acvatic din Villages Nature.",
         "en": "Start your day in Bailly-Romainvilliers with a calm stroll around Les Bassins de Bailly. In the late morning, the Église Notre-Dame-de-l'Assomption provides a moment of reflection. The afternoon is completely dedicated to fun, from mini-golf to the thrilling games in Game Town and Action Factory. Your evening concludes with a relaxing and refreshing splash in the amazing Villages Nature Waterpark."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie am Morgen mit einem Schirm an den Teichen, wo der Regen eine mystische Ruhe erzeugt. Mittags bietet die Kirche trockenen Unterschlupf und Besinnung. Am Nachmittag locken die großen Indoor-Spielhallen, die Sie völlig trocken halten. Den Abend verbringen Sie im riesigen, überdachten Wasserpark, wo die warmen Pools den grauen Himmel draußen vergessen lassen.",
+            "hu": "Reggel esernyővel indulunk a tavak mentén, ahol az eső csendes, misztikus hangulatot áraszt. Délben a templom falai közt találunk száraz menedéket. A délután a beltéri játéktereké, ahol a záporoktól védve szórakozhatunk. Az estét a hatalmas, fedett víziparkban zárjuk, ahol a meleg medencékben pihenve a kinti zivatar már csak távoli emlék marad.",
+            "ro": "Începeți dimineața cu o umbrelă lângă iazuri, unde ploaia creează o liniște mistică. La prânz, biserica oferă un adăpost uscat și momente de reflecție. După-amiaza, arcadele interioare mari vă atrag pentru distracție ferită de umezeală. Seara o veți petrece în parcul acvatic acoperit, unde bazinele calde vă vor face să uitați de cerul gri de afară.",
+            "en": "Start your morning with an umbrella by the ponds, where the rain creates a mystical calm. At noon, the church provides a dry sanctuary and reflection. In the afternoon, large indoor game centers keep you perfectly dry while having fun. Spend the evening in the massive indoor waterpark, where warm pools make the grey sky outside a distant memory."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Bassins de Bailly",
+                "hu": "Les Bassins de Bailly",
+                "ro": "Les Bassins de Bailly",
+                "en": "Les Bassins de Bailly"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Spiegelung der Wolken im Wasser; achten Sie auf die rutschigen Wege und nehmen Sie einen stabilen Regenschirm mit.",
+                "hu": "Élvezze a felhők tükröződését a vízen; vigyázzon a csúszós partmenti utakra, és vigyen magával egy erős esernyőt.",
+                "ro": "Bucurați-vă de reflexia norilor în apă; atenție la potecile alunecoase și luați o umbrelă rezistentă cu voi.",
+                "en": "Enjoy the reflection of clouds on the water; watch out for slippery lakeside paths and bring a sturdy umbrella with you."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum bietet perfekten Schutz vor einem plötzlichen Schauer; bewundern Sie die Stille, während draußen der Regen auf das Dach prasselt.",
+                "hu": "A belső tér tökéletes menedéket nyújt egy hirtelen zápor elől; csodálja meg a csendet, miközben kint az eső kopog a tetőn.",
+                "ro": "Interiorul oferă adăpost perfect împotriva unei averse bruște; admirați liniștea în timp ce ploaia bate pe acoperiș afară.",
+                "en": "The interior provides perfect shelter from a sudden downpour; admire the silence while the rain patters on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mini-Golf",
+                "hu": "Mini-Golf",
+                "ro": "Mini-Golf",
+                "en": "Mini-Golf"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen sind die Bahnen oft nass, aber die Bäume bieten etwas Schutz; tragen Sie wasserfeste Schuhe für einen besseren Stand beim Putten.",
+                "hu": "Esőben a pályák nedvesek lehetnek, de a fák némi védelmet nyújtanak; viseljen vízálló cipőt a stabilabb állás érdekében gurítás közben.",
+                "ro": "Pe ploaie pistele pot fi ude, dar copacii oferă puțină protecție; purtați încălțăminte impermeabilă pentru o stabilitate mai bună.",
+                "en": "In the rain the tracks can be wet, but trees offer some cover; wear waterproof shoes for better stability while putting."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Springs Pool",
+                "hu": "Blue Springs Pool",
+                "ro": "Blue Springs Pool",
+                "en": "Blue Springs Pool"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche, um das Wasser ohne nass zu werden zu genießen; ein Handtuch im Rucksack ist bei diesem Wetter Gold wert.",
+                "hu": "Használja a fedett részeket, hogy elkerülje az elázást a víz közelében; egy törölköző a hátizsákban aranyat ér ilyen borús időben.",
+                "ro": "Folosiți zonele acoperite pentru a evita umezirea lângă apă; un prosop în rucsac este extrem de util pe o astfel de vreme mohorâtă.",
+                "en": "Use the covered areas to enjoy the water views without getting soaked; a towel in your backpack is invaluable in this gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Game Town",
+                "hu": "Game Town",
+                "ro": "Game Town",
+                "en": "Game Town"
+              },
+              "tip_5lang": {
+                "de": "Dieses riesige Indoor-Spielezentrum ist der ideale Ort, um dem Regen komplett zu entfliehen; genießen Sie stundenlangen Spaß in trockener Umgebung.",
+                "hu": "Ez az óriási beltéri központ ideális hely, hogy teljesen elmeneküljön az eső elől; élvezze az órákig tartó szórakozást teljesen szárazon.",
+                "ro": "Acest centru interior uriaș este locul ideal pentru a scăpa complet de ploaie; bucurați-vă de ore de distracție într-un mediu perfect uscat.",
+                "en": "This huge indoor center is the ideal place to escape the rain completely; enjoy hours of fun in a perfectly dry environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Action Factory",
+                "hu": "Action Factory",
+                "ro": "Action Factory",
+                "en": "Action Factory"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Nachmittage, da alle Aktivitäten drinnen stattfinden; testen Sie Ihre Geschicklichkeit, ohne sich um das Wetter zu kümmern.",
+                "hu": "Tökéletes esős délutánokra, mivel minden aktivitás bent zajlik; tesztelje ügyességét anélkül, hogy az időjárás miatt kellene aggódnia.",
+                "ro": "Perfect pentru după-amiezi ploioase, deoarece toate activitățile sunt la interior; testați-vă abilitățile fără să vă faceți griji de vreme.",
+                "en": "Perfect for rainy afternoons as all activities are indoors; test your skills without having to worry about the weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Villages Nature Waterpark",
+                "hu": "Les Villages Nature Waterpark",
+                "ro": "Les Villages Nature Waterpark",
+                "en": "Les Villages Nature Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Der Großteil des Wasserparks ist überdacht, sodass Sie auch bei Sturm schwimmen können; die warme Wassertemperatur lässt den Regen schnell vergessen.",
+                "hu": "A vízipark nagy része fedett, így viharban is zavartalanul úszhat; a kellemes vízhőmérséklet mellett gyorsan elfelejti a kinti zivatart.",
+                "ro": "Majoritatea parcului acvatic este acoperită, deci puteți înota chiar și pe furtună; temperatura apei vă va face să uitați rapid de ploaie.",
+                "en": "Most of the waterpark is indoor, so you can swim undisturbed even during a storm; the warm water will quickly make you forget the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie einen frostigen Morgen an den Teichen, wo der Nebel über dem Wasser tanzt. Mittags wärmen Sie sich in der historischen Kirche auf. Am Nachmittag bieten die beheizten Spielzentren die nötige Wärme und Unterhaltung. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie den frühen Abend in den beleuchteten, dampfenden Thermalbecken des Resorts.",
+            "hu": "Tapasztalja meg a deres reggelt a tavaknál, ahol köd táncol a víz felett. Délben a történelmi templom falai közt melegedhet fel. A délutáni órákban a fűtött beltéri központok nyújtanak menedéket és vidám pillanatokat. Mivel a nap 17:00 körül nyugszik, az estét már az üdülőfalu kivilágított, gőzölgő medencéiben élvezheti.",
+            "ro": "Experimentați o dimineață geroasă la iazuri, unde ceața dansează deasupra apei. La prânz, încălziți-vă în biserica istorică. După-amiaza, centrele de jocuri încălzite oferă căldura și divertismentul necesar. Deoarece soarele apune în jur de 17:00, bucurați-vă de seară în bazinele termale aburinde ale complexului.",
+            "en": "Experience a frosty morning by the ponds, where mist dances over the water. At noon, warm up within the walls of the historic church. In the afternoon, heated indoor entertainment centers provide much-needed warmth and fun. As the sun sets around 17:00, enjoy the early evening in the resort's illuminated, steaming pools."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Les Bassins de Bailly",
+                "hu": "Les Bassins de Bailly",
+                "ro": "Les Bassins de Bailly",
+                "en": "Les Bassins de Bailly"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene See bietet eine herrliche Kulisse; tragen Sie Thermo-Kleidung und rutschfeste Stiefel für den Spaziergang auf eisigen Wegen.",
+                "hu": "A befagyott tavak látványa lenyűgöző; viseljen réteges öltözetet és csúszásmentes bakancsot a jeges partmenti sétához.",
+                "ro": "Iazurile înghețate oferă un peisaj superb; purtați haine termice și cizme antiderapante pentru plimbarea pe potecile înghețate.",
+                "en": "The frozen ponds offer a stunning backdrop; wear thermal layers and non-slip boots for the walk along icy lakeside paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Wärme; nutzen Sie die Zeit drinnen, um sich vom kalten Wind zu erholen, bevor es zur nächsten Station geht.",
+                "hu": "A béke és a meleg szigete; használja ki a bent töltött időt a felmelegedésre a metsző szél után, mielőtt továbbindulna.",
+                "ro": "Un loc de liniște și căldură; profitați de timpul petrecut în interior pentru a vă recupera după vântul rece de afară.",
+                "en": "A place of peace and warmth; use the time inside to warm up from the cold wind before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Mini-Golf",
+                "hu": "Mini-Golf",
+                "ro": "Mini-Golf",
+                "en": "Mini-Golf"
+              },
+              "tip_5lang": {
+                "de": "Das Spiel dauert im Winter oft länger; halten Sie Ihre Hände mit Taschenwärmern warm, um den Schläger präzise führen zu können.",
+                "hu": "A játék télen lassabb lehet a hideg miatt; használjon zsebmelegítőt, hogy ujjai ne gémberedjenek el az ütő fogása közben.",
+                "ro": "Jocul poate dura mai mult iarna; folosiți încălzitoare de buzunar pentru a vă menține degetele agile la manevrarea crosei.",
+                "en": "Playing in winter can take longer; use pocket warmers to keep your hands nimble for precise putting in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Springs Pool",
+                "hu": "Blue Springs Pool",
+                "ro": "Blue Springs Pool",
+                "en": "Blue Springs Pool"
+              },
+              "tip_5lang": {
+                "de": "Der Kontrast zwischen kalter Luft und blauem Wasser ist fotogen; ein heißer Tee in der Thermoskanne macht die Pause am Pool perfekt.",
+                "hu": "A hideg levegő és a kék víz kontrasztja csodás látvány; egy termosz meleg tea teszi teljessé a pihenőt a medencék mellett.",
+                "ro": "Contrastul dintre aerul rece și apa albastră este foarte fotogenic; un ceai fierbinte în termos face pauza de lângă piscină perfectă.",
+                "en": "The contrast between cold air and blue water is very photogenic; a hot tea in a thermos makes the break by the pool perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Game Town",
+                "hu": "Game Town",
+                "ro": "Game Town",
+                "en": "Game Town"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Fluchtpunkt vor Frost und Wind; ziehen Sie Ihre schwere Jacke aus und genießen Sie die behagliche Wärme bei Spiel und Spaß.",
+                "hu": "Tökéletes menekülőút a fagy és a szél elől; vegye le a nehéz kabátot, és élvezze a kellemes meleget a játék és szórakozás közben.",
+                "ro": "Punctul perfect de evadare din fața gerului și vântului; lăsați haina grea la intrare și bucurați-vă de căldura din interior.",
+                "en": "The perfect escape from frost and wind; take off your heavy coat and enjoy the cozy warmth while playing indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Action Factory",
+                "hu": "Action Factory",
+                "ro": "Action Factory",
+                "en": "Action Factory"
+              },
+              "tip_5lang": {
+                "de": "Bewegung hält warm, aber hier ist es ohnehin gut beheizt; ideal, um den frühen Sonnenuntergang in einer aktiven Umgebung zu verbringen.",
+                "hu": "A mozgás melegen tart, de itt amúgy is remek a fűtés; ideális hely az abszolválásra, mielőtt a korai sötétség beállna odakint.",
+                "ro": "Mișcarea vă ține de cald, dar aici este oricum bine încălzit; ideal pentru a petrece timpul înainte de apusul devreme.",
+                "en": "Movement keeps you warm, but it's well-heated here anyway; ideal for spending the time before the early sunset in an active way."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Villages Nature Waterpark",
+                "hu": "Les Villages Nature Waterpark",
+                "ro": "Les Villages Nature Waterpark",
+                "en": "Les Villages Nature Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Schwimmen Sie im dampfenden Wasser, während es draußen dunkelt; bringen Sie einen Bademantel mit, um den Weg zum Umkleideraum warm zu überbrücken.",
+                "hu": "Ússzon a gőzölgő vízben, miközben odakint sötétedik; vigyen köntöst, hogy a medencétől az öltözőig ne fázzon meg a hideg folyosókon.",
+                "ro": "Înotați în apa aburindă în timp ce afară se întunecă; luați un halat pentru a nu răci pe culoarele spre vestiar.",
+                "en": "Swim in the steaming water as it gets dark outside; bring a bathrobe to keep warm on your way from the pool to the locker room."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "A Bailly-Romainvilliers-i autós túra az exkluzív golfpályán és a nyugodt Bassins de Bailly-nél indul. Délben felfedezheti a Parc des Communes természetét és megtekintheti a bájos helyi templomot. A délután akciódús lesz a Villages Nature és a hozzá tartozó vízipark meglátogatásával. Egy szórakoztató kitérő a természetes útvesztőhöz tökéletesen zárja ezt a változatos napot.",
         "ro": "O excursie cu mașina prin Bailly-Romainvilliers începe la terenul de golf exclusivist și la liniștitele Bassins de Bailly. La prânz explorați natura din Parc des Communes și vizitați fermecătoarea biserică locală. După-amiaza va fi plină de acțiune cu o vizită la Villages Nature și parcul său acvatic. O excursie distractivă la labirintul natural completează perfect această zi variată.",
         "en": "A road trip through Bailly-Romainvilliers starts at the exclusive golf course and the tranquil Bassins de Bailly. At midday, explore the nature in Parc des Communes and visit the charming local church. The afternoon becomes action-packed with a visit to Villages Nature and its attached waterpark. A fun trip to the natural labyrinth perfectly rounds off this varied day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig durch den nassen Park, wo die Blätter auf den Wegen kleben. Mittags bietet die Kirche eine willkommene Pause im Trockenen. Nachmittags erkunden Sie die überdachten Bereiche der Naturdörfer. Den Abend lassen Sie bei einer gemütlichen Fahrt zum Resort ausklingen, wobei die Regenbekleidung Sie vor dem stetigen Nieseln schützt.",
+            "hu": "Tekerjen óvatosan a nedves parkon át, ahol a levelek tapadnak az útra. Délben a templom nyújt szívesen látott száraz pihenőt. Délután az üdülőfalu fedett részeit fedezzük fel két keréken. A napot egy csendes gurulással zárjuk a szállás felé, miközben az esőruházat védelmet nyújt a folyamatos szemerkélés ellen.",
+            "ro": "Pedalați cu atenție prin parcul umed, unde frunzele se lipesc de poteci. La prânz, biserica oferă o pauză binevenită la uscat. După-amiaza, explorați zonele acoperite ale satelor de vacanță. Încheiați seara cu o plimbare spre complex, echipamentul de ploaie protejându-vă de burnița constantă.",
+            "en": "Ride carefully through the wet park, where leaves stick to the paths. At noon, the church offers a welcome dry break. In the afternoon, explore the covered areas of the nature villages on two wheels. End the evening with a steady ride to the resort, with rain gear protecting you from the constant drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc des Communes",
+                "hu": "Parc des Communes",
+                "ro": "Parc des Communes",
+                "en": "Parc des Communes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf matschige Stellen und Wurzeln; Schutzbleche am Fahrrad sind unverzichtbar, um die Kleidung sauber zu halten.",
+                "hu": "Vigyázzon a saras szakaszokra és gyökerekre; a sárvédő nélkülözhetetlen, hogy ruházata tiszta maradjon a tekerés közben.",
+                "ro": "Atenție la porțiunile noroioase și rădăcini; aripile la bicicletă sunt indispensabile pentru a vă păstra hainele curate.",
+                "en": "Watch out for muddy spots and roots; mudguards on your bike are essential to keep your clothes clean during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Golf Paris Val d'Europe",
+                "hu": "Golf Paris Val d'Europe",
+                "ro": "Golf Paris Val d'Europe",
+                "en": "Golf Paris Val d'Europe"
+              },
+              "tip_5lang": {
+                "de": "Das Grün glänzt im Regen besonders stark; suchen Sie bei starken Güssen Schutz im Clubhaus und prüfen Sie den Stand Ihres Rades.",
+                "hu": "A gyep különösen élénk esőben; heves zápor esetén keressen menedéket a klubházban, és ellenőrizze a bicikli támasztékát.",
+                "ro": "Gazonul strălucește în ploaie; în caz de aversă puternică, adăpostiți-vă în club și verificați stabilitatea bicicletei.",
+                "en": "The green shines brightly in the rain; seek shelter in the clubhouse during heavy showers and check your bike's stand."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bassins de Bailly",
+                "hu": "Les Bassins de Bailly",
+                "ro": "Les Bassins de Bailly",
+                "en": "Les Bassins de Bailly"
+              },
+              "tip_5lang": {
+                "de": "Der Weg am Wasser ist bei Regen rutschig; fahren Sie langsam in die Kurven und genießen Sie den Blick auf die spritzenden Tropfen.",
+                "hu": "A vízparti út esőben csúszós lehet; lassítson a kanyarokban, és élvezze a vízen táncoló esőcseppek látványát.",
+                "ro": "Drumul de lângă apă este alunecos; încetiniți în curbe și bucurați-vă de priveliștea picăturilor care cad pe suprafața apei.",
+                "en": "The waterside path is slippery when wet; slow down in corners and enjoy the sight of raindrops dancing on the water surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihr Fahrrad kurz abzustellen; im Inneren trocknen Ihre Sachen am besten in der Ruhe.",
+                "hu": "Használja a fedett bejáratot a kerékpár rövid tárolására; odabent a csendben a ruhái is száradhatnak egy kicsit a pihenő alatt.",
+                "ro": "Folosiți zona acoperită de la intrare pentru a lăsa bicicleta; înăuntru hainele se pot usca puțin în timp ce vă odihniți.",
+                "en": "Use the covered entrance area to briefly park your bike; inside, your gear can dry a bit while you rest in the quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Villages Nature Paris",
+                "hu": "Villages Nature Paris",
+                "ro": "Villages Nature Paris",
+                "en": "Villages Nature Paris"
+              },
+              "tip_5lang": {
+                "de": "Viele Wege im Resort sind gut befestigt; parken Sie das Rad im Fahrradständer unter dem Vordach und nutzen Sie die Indoor-Angebote.",
+                "hu": "Az üdülőfalu útjai jól burkoltak; parkoljon a fedett tárolókban, és élvezze a bőséges beltéri szórakozási lehetőségeket.",
+                "ro": "Drumurile din complex sunt bine pavate; parcați în zonele acoperite și bucurați-vă de ofertele de divertisment la interior.",
+                "en": "The resort's paths are well-paved; park your bike in covered stands and take advantage of the many indoor activities available."
+              }
+            },
+            {
+              "name": {
+                "de": "Labyrinthe Nature Val d’Europe 77",
+                "hu": "Labyrinthe Nature Val d’Europe 77",
+                "ro": "Labyrinthe Nature Val d’Europe 77",
+                "en": "Labyrinthe Nature Val d’Europe 77"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade können matschig sein, was das Labyrinth schwieriger macht; wasserfeste Überschuhe schützen Ihre Schuhe beim Radeln und Gehen.",
+                "hu": "Az ösvények sarasak lehetnek, ami nehezíti a tájékozódást; egy vízálló cipővédő hasznos lehet a tekeréshez és a gyalogláshoz is.",
+                "ro": "Cărările pot fi noroioase, ceea ce face labirintul mai greu; protecțiile de încălțăminte sunt utile pentru pedalat și mers.",
+                "en": "The paths can be muddy, making the maze more challenging; waterproof shoe covers are useful for both cycling and walking."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch die winterliche Landschaft beginnt im frostigen Park. Mittags suchen Sie Wärme in der Kirche. Nachmittags radeln Sie durch die Naturdörfer, wo die kalte Luft die Sinne schärft. Da es früh dunkel wird, beenden Sie Ihre Tour am Labyrinth unter dem ersten Sternenhimmel, gut eingepackt in Thermokleidung.",
+            "hu": "Frissítő biciklitúra kezdődik a téli tájon át a jeges parkban. Délben a templom falai között keresünk enyhülést a hideg ellen. Délután az üdülőfalu útjait rójuk, ahol a csípős levegő felfrissíti az érzékeket. Mivel korán sötétedik, a túrát a labirintusnál zárjuk az első csillagok alatt, rétegesen felöltözve.",
+            "ro": "O plimbare revigorantă cu bicicleta prin peisajul hibernal începe în parcul înghețat. La prânz, căutați căldura în biserică. După-amiaza, pedalați prin satele de vacanță, unde aerul rece vă ascute simțurile. Deoarece se întunecă devreme, încheiați turul la labirint sub primele stele, bine echipați.",
+            "en": "A refreshing bike tour through the winter landscape begins in the frosty park. At noon, seek warmth inside the church. In the afternoon, cycle through the nature villages, where the crisp air sharpens your senses. As it gets dark early, end your tour at the maze under the first stars, wrapped in thermal gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc des Communes",
+                "hu": "Parc des Communes",
+                "ro": "Parc des Communes",
+                "en": "Parc des Communes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf überfrierende Nässe in schattigen Abschnitten; tragen Sie gefütterte Handschuhe, um Ihre Finger beweglich zu halten.",
+                "hu": "Vigyázzon a lefagyott szakaszokra az árnyékos részeken; viseljen bélelt kesztyűt, hogy ujjai ne gémberedjenek el a kormányon.",
+                "ro": "Atenție la porțiunile înghețate în zonele umbrite; purtați mănuși căptușite pentru a vă menține degetele mobile pe ghidon.",
+                "en": "Watch out for black ice in shaded sections; wear lined gloves to keep your fingers nimble on the handlebars in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Golf Paris Val d'Europe",
+                "hu": "Golf Paris Val d'Europe",
+                "ro": "Golf Paris Val d'Europe",
+                "en": "Golf Paris Val d'Europe"
+              },
+              "tip_5lang": {
+                "de": "Die weite Fläche lässt den Wind stärker wirken; eine winddichte Jacke ist hier bei der Pause im Freien Gold wert.",
+                "hu": "A nyílt terepen a szél erősebben fúj; egy szélálló dzseki aranyat ér itt a szabadtéri pihenő alatt a téli hidegben.",
+                "ro": "Pe teren deschis vântul suflă mai tare; o jachetă rezistentă la vânt este esențială aici pentru pauza în aer liber.",
+                "en": "The open space makes the wind feel stronger; a windproof jacket is invaluable here during an outdoor break in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bassins de Bailly",
+                "hu": "Les Bassins de Bailly",
+                "ro": "Les Bassins de Bailly",
+                "en": "Les Bassins de Bailly"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das raue Wasser ist im Winter besonders klar; halten Sie nur kurz an, um nicht auszukühlen, und treten Sie stetig weiter.",
+                "hu": "A vízparti kilátás télen különösen tiszta; csak rövid ideig álljon meg, hogy ne hűljön le, és tekerjen egyenletes tempóban.",
+                "ro": "Priveliștea de lângă apă este foarte clară iarna; opriți-vă doar scurt pentru a nu vă răci și pedalați în ritm constant.",
+                "en": "The view by the water is exceptionally clear in winter; stop only briefly to avoid cooling down and keep a steady pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um die Kälte kurz zu vergessen; die dicken Mauern isolieren gut und bieten eine besinnliche Atmosphäre.",
+                "hu": "Tökéletes hely, hogy rövid időre elfelejtse a kinti fagyot; a vastag falak jól szigetelnek és békés hangulatot árasztanak.",
+                "ro": "Locul perfect pentru a uita scurt de ger; pereții groși izolează bine și oferă o atmosferă liniștită de reculegere.",
+                "en": "The perfect spot to briefly forget the frost outside; the thick walls insulate well and provide a peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Villages Nature Paris",
+                "hu": "Villages Nature Paris",
+                "ro": "Villages Nature Paris",
+                "en": "Villages Nature Paris"
+              },
+              "tip_5lang": {
+                "de": "Im Resort sind die Wege oft geräumt, aber Vorsicht vor Glätte; wärmen Sie sich nach der Fahrt in einem der Cafés bei einem Kakao auf.",
+                "hu": "Az üdülőfalu útjait gyakran takarítják, de vigyázzon a csúszós részekre; tekerés után melegedjen fel egy forró kakaóval.",
+                "ro": "Drumurile sunt deszăpezite des, dar atenție la gheață; după plimbare, încălziți-vă la o cafenea cu o ciocolată caldă.",
+                "en": "The resort paths are often cleared, but watch out for ice; warm up with a hot cocoa in a café after your winter ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Labyrinthe Nature Val d’Europe 77",
+                "hu": "Labyrinthe Nature Val d’Europe 77",
+                "ro": "Labyrinthe Nature Val d’Europe 77",
+                "en": "Labyrinthe Nature Val d’Europe 77"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Hecken verändern die Perspektive im Labyrinth; achten Sie auf die Zeit, da das Licht im Winter extrem schnell schwindet.",
+                "hu": "A kopár sövények megváltoztatják a labirintus látványát; figyeljen az időre, mert a fény télen rendkívül gyorsan fogytán lesz.",
+                "ro": "Gardurile vii golașe schimbă perspectiva în labirint; atenție la oră, deoarece lumina dispare extrem de rapid iarna.",
+                "en": "The bare hedges change the perspective in the maze; keep an eye on the time as light fades extremely fast in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "A Bailly-Romainvilliers-i autós túra az exkluzív golfpályán és a nyugodt Bassins de Bailly-nél indul. Délben felfedezheti a Parc des Communes természetét és megtekintheti a bájos helyi templomot. A délután akciódús lesz a Villages Nature és a hozzá tartozó vízipark meglátogatásával. Egy szórakoztató kitérő a természetes útvesztőhöz tökéletesen zárja ezt a változatos napot.",
         "ro": "O excursie cu mașina prin Bailly-Romainvilliers începe la terenul de golf exclusivist și la liniștitele Bassins de Bailly. La prânz explorați natura din Parc des Communes și vizitați fermecătoarea biserică locală. După-amiaza va fi plină de acțiune cu o vizită la Villages Nature și parcul său acvatic. O excursie distractivă la labirintul natural completează perfect această zi variată.",
         "en": "A road trip through Bailly-Romainvilliers starts at the exclusive golf course and the tranquil Bassins de Bailly. At midday, explore the nature in Parc des Communes and visit the charming local church. The afternoon becomes action-packed with a visit to Villages Nature and its attached waterpark. A fun trip to the natural labyrinth perfectly rounds off this varied day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt durch den Regen im trockenen Auto vom Golfplatz zu den Teichen. Mittags bietet die Kirche eine spirituelle Pause, während der Regen gegen die Fenster trommelt. Am Nachmittag sind die Indoor-Attraktionen der Naturdörfer leicht erreichbar. Den Abend lassen Sie gemütlich ausklingen, geschützt vor dem Matsch und dem nassen Wetter draußen.",
+            "hu": "Élvezze a kényelmes autózást az esőben a golfpályától a tavakig. Délben a templom spirituális békét nyújt, miközben az eső a kinti ablakokon kopog. Délután az üdülőfalu beltéri attrakciói könnyen elérhetőek kocsival. Az estét kényelmesen zárjuk, védve a kinti sártól és a barátságtalan, nedves időjárástól.",
+            "ro": "Bucurați-vă de drumul prin ploaie în mașina uscată, de la golf la iazuri. La prânz, biserica oferă o pauză spirituală în timp ce ploaia bate în geamuri. După-amiaza, atracțiile interioare sunt ușor accesibile cu mașina. Încheiați seara confortabil, protejați de noroiul și vremea umedă de afară.",
+            "en": "Enjoy the drive through the rain in your dry car from the golf course to the ponds. At noon, the church offers a spiritual break while rain taps on the windows. In the afternoon, the indoor attractions of the nature villages are easily reachable. End your evening comfortably, protected from the mud and wet weather outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Golf Paris Val d'Europe",
+                "hu": "Golf Paris Val d'Europe",
+                "ro": "Golf Paris Val d'Europe",
+                "en": "Golf Paris Val d'Europe"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Clubhaus, um den Weg im Regen kurz zu halten; genießen Sie den Ausblick auf das satte Grün vom Fenster aus.",
+                "hu": "Parkoljon közel a klubházhoz, hogy ne ázzon el; élvezze a haragoszöld gyep látványát az ablak melletti kényelmes székből.",
+                "ro": "Parcați aproape de club pentru a nu vă uda; bucurați-vă de vederea spre gazonul verde intens direct de la fereastră.",
+                "en": "Park close to the clubhouse to keep the walk in the rain short; enjoy the view of the lush green grass from the window."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bassins de Bailly",
+                "hu": "Les Bassins de Bailly",
+                "ro": "Les Bassins de Bailly",
+                "en": "Les Bassins de Bailly"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie oft einen guten Blick auf die Teiche; halten Sie einen Schirm für den kurzen Weg zum Wasser bereit.",
+                "hu": "A parkolóból gyakran remek kilátás nyílik a tavakra; legyen kéznél az esernyő az autóban a vízparti rövid sétához.",
+                "ro": "Din parcare aveți adesea o vedere bună asupra iazurilor; țineți umbrela la îndemână în mașină pentru scurta plimbare.",
+                "en": "You often get a good view of the ponds from the parking lot; keep an umbrella ready in the car for the short walk to the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Communes",
+                "hu": "Parc des Communes",
+                "ro": "Parc des Communes",
+                "en": "Parc des Communes"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können bei Regen rutschig sein; nutzen Sie die befestigten Parkplätze und achten Sie auf Pfützen beim Aussteigen.",
+                "hu": "A bekötőutak esőben csúszósak lehetnek; használja a burkolt parkolókat, és ügyeljen a tócsákra a kiszállásnál.",
+                "ro": "Drumurile de acces pot fi alunecoase; folosiți parcările pavate și atenție la bălți atunci când coborâți din mașină.",
+                "en": "The access roads can be slippery in the rain; use the paved parking spots and watch out for puddles when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze finden sich meist direkt vor der Tür; der kurze Weg ins Innere garantiert, dass Sie trocken die Architektur bewundern können.",
+                "hu": "Parkolóhelyek általában közvetlenül a bejáratnál találhatóak; a rövid út garantálja, hogy szárazon csodálhatja meg az épületet.",
+                "ro": "Locurile de parcare se află de obicei chiar în față; drumul scurt vă garantează că puteți admira arhitectura fără să vă udați.",
+                "en": "Parking is usually available right in front; the short walk ensures you can admire the architecture while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Villages Nature Paris",
+                "hu": "Villages Nature Paris",
+                "ro": "Villages Nature Paris",
+                "en": "Villages Nature Paris"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das zentrale Parkhaus des Resorts; von dort aus erreichen Sie alle Indoor-Aktivitäten, ohne lange dem Regen ausgesetzt zu sein.",
+                "hu": "Használja az üdülőfalu központi parkolóját; onnan minden beltéri program elérhető anélkül, hogy sokáig kellene az esőben gyalogolnia.",
+                "ro": "Folosiți parcarea centrală a complexului; de acolo ajungeți la toate activitățile interioare fără a sta mult în ploaie.",
+                "en": "Use the resort's central parking; from there you can reach all indoor activities without spending much time in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Villages Nature Waterpark",
+                "hu": "Les Villages Nature Waterpark",
+                "ro": "Les Villages Nature Waterpark",
+                "en": "Les Villages Nature Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Die Nähe zum Parkplatz macht den Besuch bei Sturm besonders komfortabel; lassen Sie nasse Sachen einfach sicher im Kofferraum zurück.",
+                "hu": "A parkoló közelsége viharos időben különösen kényelmessé teszi a látogatást; a vizes holmikat hagyja biztonságban a csomagtartóban.",
+                "ro": "Apropierea parcării face vizita foarte confortabilă pe furtună; lăsați lucrurile ude în siguranță în portbagajul mașinii.",
+                "en": "The proximity to parking makes the visit very comfortable during a storm; leave your wet gear safely in the car's trunk."
+              }
+            },
+            {
+              "name": {
+                "de": "Labyrinthe Nature Val d’Europe 77",
+                "hu": "Labyrinthe Nature Val d’Europe 77",
+                "ro": "Labyrinthe Nature Val d’Europe 77",
+                "en": "Labyrinthe Nature Val d’Europe 77"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor dem Aussteigen die Wetter-App auf Regenpausen; das Labyrinth ist bei leichtem Nieselregen ein ganz besonderes Erlebnis.",
+                "hu": "Kiszállás előtt ellenőrizze az esőszüneteket az applikációban; a labirintus szemerkélő esőben is különleges, misztikus élmény.",
+                "ro": "Verificați aplicația meteo pentru pauze de ploaie înainte de a coborî; labirintul este o experiență mistică pe burniță.",
+                "en": "Check your weather app for breaks in the rain before getting out; the maze is a unique, mystical experience in light drizzle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre winterliche Tour im vorgewärmten Auto mit Blick auf den frostigen Golfplatz. Mittags bietet die Kirche einen ehrwürdigen Halt in der klaren Winterluft. Nachmittags erreichen Sie bequem die beheizten Welten der Naturdörfer. Genießen Sie den Sonnenuntergang gegen 17:00 Uhr und die festliche Beleuchtung, während Sie sicher und warm von Ort zu Ort fahren.",
+            "hu": "Indítsa téli túráját az előmelegített autóban, rálátással a deres golfpályára. Délben a templom méltóságteljes megállót kínál a friss téli levegőben. Délután kényelmesen érheti el az üdülőfalu fűtött birodalmait. Élvezze a 17:00 körüli naplementét és az ünnepi fényeket, miközben melegben és biztonságban autózik a helyszínek között.",
+            "ro": "Începeți turul hibernal în mașina preîncălzită, cu vedere spre terenul de golf înghețat. La prânz, biserica oferă o oprire plină de demnitate în aerul clar. După-amiaza, ajungeți confortabil în zonele încălzite ale satelor de vacanță. Bucurați-vă de apusul de la ora 17:00 și de luminile festive, călătorind la căldură.",
+            "en": "Start your winter tour in a pre-warmed car with a view of the frosty golf course. At noon, the church provides a dignified stop in the crisp winter air. In the afternoon, easily reach the heated realms of the nature villages. Enjoy the sunset around 17:00 and the festive lights while driving safely and warmly between locations."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Golf Paris Val d'Europe",
+                "hu": "Golf Paris Val d'Europe",
+                "ro": "Golf Paris Val d'Europe",
+                "en": "Golf Paris Val d'Europe"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Greens sind ein tolles Fotomotiv; wärmen Sie sich nach einem kurzen Fotostopp sofort wieder in Ihrem Auto auf.",
+                "hu": "A deres pázsit lenyűgöző látvány; egy rövid fotózás után azonnal melegedjen fel az autó fűtött utasterében.",
+                "ro": "Gazonul înghețat este un subiect foto excelent; încălziți-vă imediat înapoi în mașină după o scurtă oprire pentru poze.",
+                "en": "The frozen greens are a great photo motive; warm up immediately in your car after a quick photo stop in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Bassins de Bailly",
+                "hu": "Les Bassins de Bailly",
+                "ro": "Les Bassins de Bailly",
+                "en": "Les Bassins de Bailly"
+              },
+              "tip_5lang": {
+                "de": "Im Winter dampft das Wasser oft bei Sonnenaufgang; nutzen Sie die Standheizung, während Sie die Aussicht auf die Teiche genießen.",
+                "hu": "Télen a víz gyakran gőzölög napfelkeltekor; használja az autó fűtését, miközben a tavak jeges látványában gyönyörködik.",
+                "ro": "Iarna apa aburește adesea la răsărit; folosiți încălzirea mașinii în timp ce admirați priveliștea înghețată a iazurilor.",
+                "en": "In winter the water often steams at sunrise; use the car's heater while enjoying the icy view of the ponds."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Communes",
+                "hu": "Parc des Communes",
+                "ro": "Parc des Communes",
+                "en": "Parc des Communes"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Parkflächen; festes Schuhwerk mit gutem Profil ist wichtig für den kurzen Weg vom Auto in den Park.",
+                "hu": "Ügyeljen a jeges parkolóhelyekre; a jó profilú bakancs elengedhetetlen a rövid sétához az autótól a park belseje felé.",
+                "ro": "Atenție la locurile de parcare înghețate; încălțămintea cu profil bun este esențială pentru scurta plimbare spre parc.",
+                "en": "Watch out for icy parking spots; sturdy boots with good grip are essential for the short walk from the car into the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Ein herrlicher Ort, um die winterliche Stille zu erleben; die Kirche ist im Winter oft weniger besucht und bietet viel Raum für Ruhe.",
+                "hu": "Csodás hely a téli csend átéléséhez; a templom ilyenkor kevésbé zsúfolt, így bőséges tér jut az elcsendesedésre.",
+                "ro": "Un loc superb pentru a experimenta liniștea iernii; biserica este mai puțin vizitată acum, oferind mult spațiu pentru reculegere.",
+                "en": "A wonderful place to experience winter silence; the church is often less crowded now, offering plenty of space for quietude."
+              }
+            },
+            {
+              "name": {
+                "de": "Villages Nature Paris",
+                "hu": "Villages Nature Paris",
+                "ro": "Villages Nature Paris",
+                "en": "Villages Nature Paris"
+              },
+              "tip_5lang": {
+                "de": "Die Parkhäuser sind frostfrei und sicher; genießen Sie den Luxus, direkt in die warmen Erlebniswelten des Resorts einzusteigen.",
+                "hu": "A parkolóházak fagymentesek és biztonságosak; élvezze a luxust, hogy szinte azonnal az üdülőfalu meleg élményvilágaiba léphet.",
+                "ro": "Parcările acoperite sunt ferite de îngheț; bucurați-vă de luxul de a intra direct în zonele calde de divertisment ale complexului.",
+                "en": "The parking garages are frost-free and safe; enjoy the luxury of stepping directly into the resort's warm entertainment zones."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Villages Nature Waterpark",
+                "hu": "Les Villages Nature Waterpark",
+                "ro": "Les Villages Nature Waterpark",
+                "en": "Les Villages Nature Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Badewannen-Gefühl ist die Fahrt im warmen Auto zurück zum Hotel purer Genuss; achten Sie auf trockene Haare beim Verlassen.",
+                "hu": "A meleg vizes fürdő után a fűtött autóban való visszatérés tiszta élvezet; ügyeljen rá, hogy haja teljesen száraz legyen távozáskor.",
+                "ro": "După baia caldă, întoarcerea în mașina încălzită este o plăcere pură; asigurați-vă că aveți părul complet uscat la plecare.",
+                "en": "After the warm bath, returning in a heated car is pure joy; make sure your hair is completely dry before leaving the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Labyrinthe Nature Val d’Europe 77",
+                "hu": "Labyrinthe Nature Val d’Europe 77",
+                "ro": "Labyrinthe Nature Val d’Europe 77",
+                "en": "Labyrinthe Nature Val d’Europe 77"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Beleuchtung des Labyrinths ist vom Auto aus bereits sichtbar; eine Stirnlampe hilft bei der Orientierung im Dunkeln.",
+                "hu": "A labirintus téli kivilágítása már az autóból látszik; egy fejlámpa sokat segíthet a tájékozódásban a korai sötétedés után.",
+                "ro": "Iluminatul hibernal al labirintului se vede deja din mașină; o lanternă frontală ajută mult la orientare după lăsarea serii.",
+                "en": "The winter lighting of the maze is visible even from the car; a headlamp helps with orientation after the early sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

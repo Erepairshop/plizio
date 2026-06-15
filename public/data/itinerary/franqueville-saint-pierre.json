@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi Saint-Pierre templom megcsodálásával, elmerülve a csendes helyi hangulatban. Délben fedezze fel a Centre Culturel Bourvil kulturális kínálatát, majd pihenjen a Notre-Dame templomnál. A délután folyamán látogasson el a központi városházához. Sétája a rusztikus Église Saint-Pierre-et-Saint-Laurent templomnál ér véget az este közeledtével.",
         "ro": "Începeți dimineața admirând biserica istorică Saint-Pierre, bucurându-vă de atmosfera locală liniștită. La prânz, explorați scena culturală la Centre Culturel Bourvil, urmată de o oprire la biserica Notre-Dame. După-amiaza continuă cu o vizită la Primăria centrală. Încheiați turul pietonal la rustica Église Saint-Pierre-et-Saint-Laurent, odată cu lăsarea serii.",
         "en": "Begin your morning by admiring the historic Saint-Pierre Church, soaking in the quiet local atmosphere. By midday, dive into the cultural scene at Centre Culturel Bourvil, followed by a serene stop at Notre-Dame Church. Your afternoon continues with a visit to the central Franqueville Town Hall. End your walking tour at the rustic Église Saint-Pierre-et-Saint-Laurent as evening approaches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen mit einem Spaziergang zur Kirche Saint-Pierre, geschützt durch einen festen Schirm. Mittags bietet das Centre Culturel Bourvil einen trockenen, warmen Unterschlupf. Gehen Sie am Nachmittag vorsichtig über rutschige Wege zum Rathaus. Beenden Sie den Tag in der trockenen, ruhigen Église Saint-Pierre-et-Saint-Laurent, während draußen der Regen fällt.",
+            "hu": "Indítsa a borongós reggelt egy esernyős sétával a történelmi Saint-Pierre templomhoz. Délben keressen kényelmes, száraz menedéket a Centre Culturel Bourvil kiállításain. A kora délutáni esőben óvatosan sétáljon a Városházához a csúszós járdákon. A napot az Église Saint-Pierre-et-Saint-Laurent száraz, békés belső terében zárja, miközben kint szakad az eső.",
+            "ro": "Începeți dimineața ploioasă cu o plimbare sub o umbrelă solidă spre Biserica Saint-Pierre. La prânz, adăpostiți-vă la expozițiile uscate ale Centrului Cultural Bourvil. După-amiaza, mergeți cu mare atenție spre Primărie pe trotuarele alunecoase. Încheiați ziua în interiorul liniștit al Église Saint-Pierre-et-Saint-Laurent, ascultând ploaia de afară.",
+            "en": "Start your morning walking to the historic Saint-Pierre Church with a sturdy umbrella. Around noon, take reliable shelter and enjoy the dry exhibits at the Centre Culturel Bourvil. In the rainy afternoon, cautiously walk to the Town Hall, minding the slippery sidewalks. End the day at Église Saint-Pierre-et-Saint-Laurent, appreciating its quiet interior as the rain heavily falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie drinnen die prächtige Steinarchitektur, während Sie sicher dem Regen entfliehen; lassen Sie Ihren nassen Schirm bitte direkt am Haupteingang.",
+                "hu": "Csodálja meg a kőépítészetet bent, biztonságos menedéket lelve a szakadó eső elől; a csöpögő, vizes esernyőt mindenképp hagyja a főbejáratnál.",
+                "ro": "Admirați arhitectura magnifică din piatră la adăpost sigur de ploaia neîncetată; amintiți-vă să lăsați umbrela udă la intrarea principală.",
+                "en": "Admire the magnificent stone architecture inside while securely escaping the relentless rain; just remember to leave your dripping wet umbrella at the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel Bourvil",
+                "hu": "Centre Culturel Bourvil",
+                "ro": "Centre Culturel Bourvil",
+                "en": "Centre Culturel Bourvil"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie faszinierende Innenausstellungen völlig trocken; die geräumige Lobby ist absolut perfekt, um plötzliche, schwere Regenschauer bequem abzuwarten.",
+                "hu": "Fedezze fel a helytörténeti kiállításokat teljesen szárazon; a tágas előtér tökéletes egy-egy hirtelen jövő, nagyobb zivatar kényelmes átvészelésére.",
+                "ro": "Explorați expozițiile interioare complet la uscat; holul spațios este absolut perfect pentru a aștepta confortabil trecerea averselor bruște și grele.",
+                "en": "Explore fascinating indoor exhibitions about local history completely dry; the spacious lobby area is absolutely perfect to comfortably wait out sudden heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Church",
+                "hu": "Notre-Dame Church",
+                "ro": "Notre-Dame Church",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie, wie eindrucksvoll die bunten Fenster gegen dunkle Regenwolken wirken; betreten Sie die extrem rutschigen Eingangsstufen sehr vorsichtig.",
+                "hu": "Figyelje meg, milyen lenyűgözőek az ólomüveg ablakok a sötét esőfelhők előtt; lépjen extrém óvatosan a vizes, nagyon csúszós bejárati lépcsőkön.",
+                "ro": "Observați vitraliile colorate care contrastează superb cu norii întunecați de ploaie; pășiți cu mare grijă pe treptele de la intrare extrem de alunecoase.",
+                "en": "Notice how the colorful stained glass windows look striking against the dark rain clouds; please step very carefully on the slippery, wet entrance steps when leaving."
+              }
+            },
+            {
+              "name": {
+                "de": "Franqueville Town Hall",
+                "hu": "Franqueville Town Hall",
+                "ro": "Franqueville Town Hall",
+                "en": "Franqueville Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie sicher unter Ihrem Schirm ein schönes Foto der Rathausfassade; seien Sie besonders vorsichtig auf dem nassen, rutschigen Kopfsteinpflaster.",
+                "hu": "Készítsen egy gyors, szép fotót a városháza homlokzatáról a biztonságos esernyő alól; legyen különösen óvatos a tér körüli vizes, csúszós macskaköveken.",
+                "ro": "Faceți o poză rapidă a fațadei clădirii municipale în siguranță sub umbrelă; fiți extrem de prudenți pe pavajele umede și alunecoase din jurul pieței.",
+                "en": "Take a quick, beautiful photo of the municipal building's facade safely under your umbrella; be extra cautious on the wet, slippery cobblestone pavements around the square."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-et-Saint-Laurent",
+                "hu": "Église Saint-Pierre-et-Saint-Laurent",
+                "ro": "Église Saint-Pierre-et-Saint-Laurent",
+                "en": "Église Saint-Pierre-et-Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich in diese friedliche Kirche zurück, um zu trocknen; die unglaublich dicken Mauern bieten hervorragenden Schutz vor Wind und starkem Regen.",
+                "hu": "Húzódjon be ebbe a békés templomba teljesen megszáradni; a hihetetlenül vastag történelmi falak kiváló, biztos menedéket nyújtanak az erős szél és eső ellen.",
+                "ro": "Retrageți-vă în această biserică parohială pentru a vă usca complet; zidurile sale incredibil de groase oferă un adăpost excelent împotriva vântului și ploii.",
+                "en": "Retreat into this peaceful parish church to dry off completely; its incredibly thick historic walls provide excellent, sturdy shelter from relentless wind and heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen warm eingepackt an der Kirche Saint-Pierre. Mittags bietet das Centre Culturel Bourvil einen herrlich beheizten Rückzugsort. Genießen Sie nachmittags einen flotten Spaziergang zum Rathaus, bevor die Sonne untergeht. Beenden Sie den Tag an der Église Saint-Pierre-et-Saint-Laurent, wenn es gegen 17:00 Uhr sehr früh dunkel und eiskalt wird.",
+            "hu": "Kezdje a fagyos téli reggelt vastag ruhában a Saint-Pierre templomnál. Délben a Centre Culturel Bourvil fűtött termei nyújtanak nagyszerű menedéket. Délután tegyen egy frissítő sétát a Városházához a korai sötétedés előtt. A napot az Église Saint-Pierre-et-Saint-Laurent kivilágított falai között zárja, ahogy 17:00 körül leszáll a fagyos est.",
+            "ro": "Începeți dimineața de iarnă foarte bine îmbrăcați la Biserica Saint-Pierre. La prânz, Centrul Cultural Bourvil vă oferă un refugiu excelent încălzit. După-amiaza, bucurați-vă de o plimbare revigorantă spre Primărie înainte să apună soarele. Încheiați la Église Saint-Pierre-et-Saint-Laurent, odată cu lăsarea întunericului friguros pe la 17:00.",
+            "en": "Begin your crisp winter morning wrapped up very warmly at Saint-Pierre Church. By noon, the Centre Culturel Bourvil offers a wonderfully heated retreat. In the afternoon, enjoy a brisk walk to the Town Hall before the sun starts setting early. Conclude your evening at Église Saint-Pierre-et-Saint-Laurent, admiring the glowing lights as darkness completely falls by 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche, kühle Atmosphäre; tragen Sie zusätzliche thermische Schichten, da die dicken Steinmauern der Kirche extrem kalt sind.",
+                "hu": "Élvezze a történelmi hajó békés, hűvös hangulatát; viseljen extra termo rétegeket, mert a templom vastag kőfalai miatt a belső tér jéghideg tud lenni.",
+                "ro": "Bucurați-vă de atmosfera pașnică a naosului; purtați straturi termice suplimentare, deoarece pereții groși de piatră fac ca interiorul să fie înghețat.",
+                "en": "Enjoy the peaceful, chilling atmosphere of the historic nave; wear extra thermal layers as the thick stone walls of the church make the interior freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel Bourvil",
+                "hu": "Centre Culturel Bourvil",
+                "ro": "Centre Culturel Bourvil",
+                "en": "Centre Culturel Bourvil"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem gut beheizten Kulturzentrum bei einem Film auf; es bietet eine perfekte, gemütliche Mittagspause vor den eisigen Außentemperaturen.",
+                "hu": "Melegedjen fel alaposan ebben a fűtött kulturális központban egy film alatt; tökéletes, hangulatos déli pihenőt nyújt a fagyos kinti hőmérséklet elől.",
+                "ro": "Încălziți-vă bine în acest centru cultural foarte bine încălzit; oferă o pauză de prânz perfectă și confortabilă pentru a scăpa de temperaturile înghețate.",
+                "en": "Warm up thoroughly in this well-heated cultural hub while watching a local documentary; it provides a perfect, cozy midday break from the freezing outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Church",
+                "hu": "Notre-Dame Church",
+                "ro": "Notre-Dame Church",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die frostigen Details draußen an; behalten Sie dicke Handschuhe an, da historische Holzbänke und Steinböden im Winter sehr eisig bleiben.",
+                "hu": "Nézze meg a gyönyörű deres külső részleteket mielőtt belép; tartsa magán a vastag kesztyűt, mert a történelmi fa padok és a kőpadló télen is jéghidegek.",
+                "ro": "Priviți detaliile înghețate din exterior înainte de a intra; păstrați mănușile groase, deoarece băncile istorice și podelele din piatră rămân reci iarna.",
+                "en": "See the beautiful frosty exterior details before stepping inside; keep your thick gloves on as the historic wooden pews and stone floors remain quite icy during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Franqueville Town Hall",
+                "hu": "Franqueville Town Hall",
+                "ro": "Franqueville Town Hall",
+                "en": "Franqueville Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Schätzen Sie die Architektur in der klaren Winterluft; kommen Sie unbedingt vor dem frühen Sonnenuntergang gegen 16:30 Uhr für das natürliche Tageslicht.",
+                "hu": "Csodálja meg a lenyűgöző építészetet a friss téli levegőn; érkezzen mindenképp a korai naplemente előtt, 16:30 körül, hogy természetes fényben lássa az épületet.",
+                "ro": "Admirați arhitectura civică în aerul rece de iarnă; asigurați-vă că ajungeți înainte de apusul de la 16:30 pentru a vedea clădirea scăldată în lumină naturală.",
+                "en": "Appreciate the stunning civic architecture in the crisp winter air; make sure to arrive before the early sunset around 16:30 to see the building bathed in natural light."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-et-Saint-Laurent",
+                "hu": "Église Saint-Pierre-et-Saint-Laurent",
+                "ro": "Église Saint-Pierre-et-Saint-Laurent",
+                "en": "Église Saint-Pierre-et-Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die herrlich ruhige Dämmerungsstimmung im Inneren; ein dicker Wintermantel wird dringend empfohlen, da die Heizung am späten Nachmittag minimal ist.",
+                "hu": "Élje át a csodálatosan csendes alkonyati hangulatot bent; a vastag télikabát erősen ajánlott, mivel a beltéri fűtés minimális a késő délutáni órákban.",
+                "ro": "Experimentați atmosfera minunat de liniștită a amurgului; o haină groasă este foarte recomandată, deoarece încălzirea este minimă după-amiaza târziu.",
+                "en": "Experience the wonderfully quiet twilight atmosphere inside; a thick winter coat is highly recommended as indoor heating is kept to a minimum in the late afternoon hours."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros útját a Saint-Pierre templomnál, mielőtt az inspiráló Centre Culturel Bourvil felé pedálozna. Dél körül látogassa meg a Notre-Dame templomot, majd tekerjen északra az Église Saint-Aubin felé. Délután guruljon el a városháza mellett. Zárja aktív napját az Église Saint-Pierre-et-Saint-Laurent megcsodálásával a késő délutáni aranyfényben.",
         "ro": "Începeți călătoria cu bicicleta la biserica Saint-Pierre înainte de a pedala spre inspirantul Centre Culturel Bourvil. În jurul prânzului, vizitați biserica Notre-Dame și apoi mergeți spre nord la Église Saint-Aubin. După-amiaza, treceți ușor pe lângă Primăria Franqueville. Încheiați-vă ziua activă minunându-vă de Église Saint-Pierre-et-Saint-Laurent în lumina de seară.",
         "en": "Kick off your cycling journey at Saint-Pierre Church before pedaling to the inspiring Centre Culturel Bourvil. Around noon, visit the peaceful Notre-Dame Church and then ride north to the quaint Église Saint-Aubin. In the afternoon, smoothly glide past the Franqueville Town Hall. Conclude your active day by marveling at Église Saint-Pierre-et-Saint-Laurent in the golden late-day light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den nassen Morgen mit dem Rad zur Kirche Saint-Pierre in wasserfester Kleidung. Mittags trocknen Sie im Centre Culturel Bourvil. Fahren Sie nachmittags sehr vorsichtig zur Église Saint-Aubin und zum Rathaus. Beenden Sie die Tour an der Église Saint-Pierre-et-Saint-Laurent, und bremsen Sie frühzeitig auf gefährlich nassem Laub.",
+            "hu": "Kezdje a nedves reggelt a Saint-Pierre templomhoz tekerve, minőségi vízálló felszerelésben. Délben szárítkozzon meg a Centre Culturel Bourvilban. Délután óvatosan navigáljon a vizes utcákon az Église Saint-Aubin felé. A napot az Église Saint-Pierre-et-Saint-Laurentnál zárja, különösen figyelve a nagyon csúszós, nedves falevelekre.",
+            "ro": "Începeți dimineața ploioasă pedalând spre Biserica Saint-Pierre în echipament excelent impermeabil. La prânz, uscați-vă la Centrul Cultural Bourvil. După-amiaza, navigați cu mare grijă pe străzile ude spre Église Saint-Aubin. Încheiați la Église Saint-Pierre-et-Saint-Laurent, frânând din timp pe frunzele umede și foarte alunecoase.",
+            "en": "Start your wet morning biking to Saint-Pierre Church, wearing high-quality waterproof gear. Around noon, safely dry off at the Centre Culturel Bourvil. In the afternoon, navigate the wet streets carefully to Église Saint-Aubin and the Town Hall. Conclude your ride at Église Saint-Pierre-et-Saint-Laurent, braking early on extremely slippery wet leaves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen zuverlässigen Schutz vor dem Morgenregen; wischen Sie Ihren Fahrradsattel gründlich trocken, bevor Sie für eine bequeme Fahrt aufsteigen.",
+                "hu": "Keressen megbízható menedéket a reggeli zivatar elől a templomban; törölje teljesen szárazra a kerékpár nyergét az ismételt, kényelmes indulás előtt.",
+                "ro": "Căutați un adăpost de încredere împotriva ploii de dimineață; ștergerea completă a șeii bicicletei înainte de a pleca este absolut necesară pentru confort.",
+                "en": "Seek reliable shelter from the morning downpour inside the church; thoroughly wiping down your bike seat before getting back on is an absolute must for a comfortable ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel Bourvil",
+                "hu": "Centre Culturel Bourvil",
+                "ro": "Centre Culturel Bourvil",
+                "en": "Centre Culturel Bourvil"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine lange, trockene Pause bei den Exponaten; schließen Sie Ihr Rad sicher unter Bäumen oder breiten Vordächern an, um es vor Regen zu schützen.",
+                "hu": "Tartson egy hosszú, száraz szünetet a kulturális kiállításokon; zárja a biciklit biztonságosan fák vagy széles ereszek alá, hogy teljesen megvédje az esőtől.",
+                "ro": "Faceți o pauză lungă și uscată bucurându-vă de expoziții; legați bicicleta în siguranță sub copaci sau streșini late pentru a o proteja complet de ploaie.",
+                "en": "Take a long, dry break enjoying the excellent cultural exhibits; lock your bike securely under the nearby trees or wide eaves to protect it entirely from the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Church",
+                "hu": "Notre-Dame Church",
+                "ro": "Notre-Dame Church",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Das schöne Innere bietet schnellen Schutz vor Regenschauern; fahren Sie äußerst vorsichtig auf dem Kopfsteinpflaster, das bei Nässe sehr gefährlich wird.",
+                "hu": "A gyönyörű belső tér gyors menedék a hirtelen záporok elől; nagyon óvatosan kerékpározzon a kinti macskaköveken, mert vizesen rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Interiorul superb oferă un sanctuar rapid împotriva averselor; navigați cu mare grijă pe piatra cubică din exterior, care devine foarte alunecoasă și periculoasă udă.",
+                "en": "The beautiful interior provides a quick sanctuary from sudden, heavy showers; carefully navigate the cobblestones outside, which get very slick and dangerous when soaking wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Aubin",
+                "hu": "Église Saint-Aubin",
+                "ro": "Église Saint-Aubin",
+                "en": "Église Saint-Aubin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie diese idyllische Kirche vom trockenen Schiff aus; denken Sie daran, dass Bremswege auf dem Fahrrad bei dieser Nässe deutlich länger sind.",
+                "hu": "Csodálja meg ezt a festői templomot a száraz, védett hajóból; mindig emlékezzen arra, hogy a kerékpár fékútja jelentősen megnő ezekben a csúszós, nedves körülményekben.",
+                "ro": "Admirați această biserică pitorească din naosul uscat și protector; rețineți mereu că distanțele de frânare sunt semnificativ mai lungi pe aceste condiții alunecoase.",
+                "en": "Appreciate this quaint church from the dry, protective nave; always remember that braking distances on your bike are significantly longer in these slippery wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Franqueville Town Hall",
+                "hu": "Franqueville Town Hall",
+                "ro": "Franqueville Town Hall",
+                "en": "Franqueville Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie kurz unterm Vordach für Ihre Karte; auffällige Regenkleidung ist entscheidend, da der dunkle, bewölkte Himmel die Sicht der Fahrer stark mindert.",
+                "hu": "Álljon meg röviden a védőtető alatt a térképhez; a láthatósági esőkabát viselése kritikus, mivel a sötét, borús égbolt súlyosan rontja az autósok látási viszonyait.",
+                "ro": "Opriți-vă scurt sub copertină pentru a verifica harta; purtarea hainelor de ploaie vizibile este crucială, deoarece cerul întunecat reduce sever vizibilitatea șoferilor.",
+                "en": "Pause briefly under the protective canopy to check your map; wearing high-visibility rain gear is crucial as the dark, overcast skies severely reduce driver visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-et-Saint-Laurent",
+                "hu": "Église Saint-Pierre-et-Saint-Laurent",
+                "ro": "Église Saint-Pierre-et-Saint-Laurent",
+                "en": "Église Saint-Pierre-et-Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die nasse Fahrt im einladenden historischen Heiligtum; biegen Sie extrem vorsichtig durch tiefe Pfützen ein, die unebenen Boden verbergen.",
+                "hu": "Fejezze be a vizes túrát ebben a hihetetlenül barátságos szentélyben; extrém óvatosan kanyarodjon be a templomkertbe a mély tócsákon át, amik elrejtik a gödröket.",
+                "ro": "Terminați cursa umedă în acest sanctuar istoric incredibil de primitor; fiți extrem de atenți la bălțile adânci din curtea bisericii care ascund terenul denivelat.",
+                "en": "Finish your wet ride inside this incredibly welcoming historic sanctuary; be extremely careful turning into the churchyard through deep puddles that obscure uneven ground."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre eiskalte Morgenfahrt zur Kirche Saint-Pierre mit dicken Handschuhen. Mittags wärmen Sie sich im Centre Culturel Bourvil herrlich auf. Genießen Sie nachmittags die frische Luft zur Église Saint-Aubin und zum Rathaus. Erreichen Sie die Église Saint-Pierre vor dem frühen Sonnenuntergang um 17:00 Uhr mit gut geladenen Lichtern.",
+            "hu": "Kezdje a fagyos tekerést a Saint-Pierre templomhoz vastag kesztyűben és szélálló kabátban. Délben melegítse fel teljesen ujjait a Centre Culturel Bourvilban. Délután élvezze a friss levegőt az Église Saint-Aubin és a Városháza felé. Érkezzen az Église Saint-Pierre-et-Saint-Laurenthoz 17:00 előtt, erős kerékpárlámpákkal a korai sötéthez.",
+            "ro": "Începeți plimbarea de dimineață friguroasă spre Biserica Saint-Pierre cu mănuși foarte groase. La prânz, încălziți-vă degetele în Centrul Cultural Bourvil. După-amiaza, bucurați-vă de aerul rece pedalând spre Église Saint-Aubin. Ajungeți la Église Saint-Pierre înainte de 17:00, cu luminile bicicletei puternice pentru întunericul timpuriu.",
+            "en": "Begin your extremely chilly morning ride to Saint-Pierre Church with thick gloves. By midday, thoroughly warm your fingers inside the Centre Culturel Bourvil. In the afternoon, enjoy the brisk air cycling to Église Saint-Aubin and the Town Hall. Arrive at Église Saint-Pierre-et-Saint-Laurent before 17:00, with fully charged bike lights for the early dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die herrlichen, frostigen Steine der Fassade; ein dicker Thermo-Schal während der Fahrt schützt Ihr Gesicht komplett vor eisigem Fahrtwind.",
+                "hu": "Csodálja meg a templom homlokzatának gyönyörű, deres köveit; a kerékpározás alatt viselt vastag termo csősál teljesen megvédi az arcát a fagyos, metsző széltől.",
+                "ro": "Admirați pietrele superbe și înghețate ale fațadei; acoperirea feței cu un fular termic gros în timpul mersului previne complet arsurile provocate de vântul aspru.",
+                "en": "Admire the gorgeous, frosty stones of the church facade; keeping your face well covered with a thick thermal snood during the ride here completely prevents harsh windburn."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel Bourvil",
+                "hu": "Centre Culturel Bourvil",
+                "ro": "Centre Culturel Bourvil",
+                "en": "Centre Culturel Bourvil"
+              },
+              "tip_5lang": {
+                "de": "Der beheizte Innenraum ist absolut perfekt, um nach einer kalten Fahrt aufzutauen; trinken Sie ein heißes Getränk, bevor Sie begeistert weiter strampeln.",
+                "hu": "A fűtött belső tér abszolút tökéletes felmelegedni a hideg, szeles tekerés után; igyon meg gyorsan egy forró italt, mielőtt újra lelkesen a pedálokba taposna.",
+                "ro": "Interiorul încălzit este absolut perfect pentru a vă dezgheța după o plimbare rece; luați rapid o băutură fierbinte în apropiere înainte de a pedala din nou cu entuziasm.",
+                "en": "The heated interior is absolutely perfect to thaw out after a cold, breezy ride; quickly grab a hot drink nearby to warm your core before enthusiastically pedaling again."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Church",
+                "hu": "Notre-Dame Church",
+                "ro": "Notre-Dame Church",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur im bitteren Winterfrost; achten Sie streng auf unsichtbares Glatteis nahe den schattigen Mauern, wo die Sonne nie scheint.",
+                "hu": "Nézze meg az ünnepélyes építészetet a keserű téli hidegben; figyeljen nagyon a láthatatlan, lefagyott jégfoltokra a templom árnyékos falainál, ahova sosem süt be a nap.",
+                "ro": "Priviți arhitectura solemnă învăluită în frigul iernii; fiți foarte atenți la gheața neagră invizibilă de lângă zidurile umbrite ale bisericii unde soarele nu ajunge.",
+                "en": "View the solemn architecture wrapped in the season's bitter chill; be highly mindful of unseen black ice patches near the shaded church walls where the sun rarely reaches."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Aubin",
+                "hu": "Église Saint-Aubin",
+                "ro": "Église Saint-Aubin",
+                "en": "Église Saint-Aubin"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, schöner Ort, der im blassen Winterlicht toll wirkt; tragen Sie spezielle Überschuhe, damit Ihre Zehen beim Radfahren hier nicht abfrieren.",
+                "hu": "Egy csendes, bájos hely, amely igazán gyönyörű a halvány téli fényben; viseljen speciális hőszigetelt kamáslit, hogy a lábujjai ne fagyjanak le a tekerés során.",
+                "ro": "Un loc liniștit și minunat care arată cu adevărat frumos în lumina palidă de iarnă; purtați huse izolate pentru a preveni înghețarea degetelor în timp ce pedalați aici.",
+                "en": "A quiet, lovely spot that looks genuinely beautiful in the pale winter light; wear specialized insulated shoe covers to prevent your toes from freezing while pedaling here."
+              }
+            },
+            {
+              "name": {
+                "de": "Franqueville Town Hall",
+                "hu": "Franqueville Town Hall",
+                "ro": "Franqueville Town Hall",
+                "en": "Franqueville Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Die Winterkulisse hebt das Gebäude perfekt hervor; die Luft wird jetzt beißend kalt, also ziehen Sie Ihre thermischen Schichten vor der Weiterfahrt gut zu.",
+                "hu": "A ropogós téli háttér tökéletesen kiemeli az épület vonásait; a levegő mostanra metszően hideg lett, így húzza fel teljesen a termo rétegek cipzárját az indulás előtt.",
+                "ro": "Fundalul rece de iarnă evidențiază perfect clădirea; aerul devine foarte rece acum, așa că închideți bine fermoarul straturilor termice înainte de a continua drumul.",
+                "en": "The crisp winter backdrop perfectly highlights the building's features; the air is turning biting cold now, so zip up your thermal layers tightly before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-et-Saint-Laurent",
+                "hu": "Église Saint-Pierre-et-Saint-Laurent",
+                "ro": "Église Saint-Pierre-et-Saint-Laurent",
+                "en": "Église Saint-Pierre-et-Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Reflektieren Sie in der ruhigen, dunklen Kirche; die Wintersonne geht jetzt extrem schnell unter, also schalten Sie sofort die hellen Fahrradlichter ein.",
+                "hu": "Pihenjen meg a csendes, sötétedő belső térben; a téli nap most extrém gyorsan nyugszik, ezért azonnal kapcsolja fel az erős biciklilámpákat a sötét visszaútra.",
+                "ro": "Reflectați în interiorul liniștit și întunecat; soarele de iarnă apune extrem de repede acum, așa că aprindeți imediat luminile puternice ale bicicletei pentru întoarcere.",
+                "en": "Reflect on your journey in the quiet, dimming interior; the winter sun sets extremely fast now, so switch on your bright bike lights immediately for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Kezdje autós útját a déli Église Saint-Sauveur templomnál, majd hajtson a Saint-Pierre templomhoz. A telet a Centre Culturel Bourvil és a Notre-Dame templom felfedezésével töltheti. Délután látogassa meg a Saint-Aubin templomot, a városházát és a Saint-Pierre-et-Saint-Laurent templomot. Fejezze be a napot egy esti túrával a Plateaux du Rouennais területén.",
         "ro": "Începeți excursia cu mașina la Église Saint-Sauveur din sud, apoi conduceți până la frumoasa biserică Saint-Pierre. Petreceți prânzul cufundându-vă în artă la Centre Culturel Bourvil și vizitând biserica Notre-Dame. După-amiaza, explorați Église Saint-Aubin, Primăria și Église Saint-Pierre-et-Saint-Laurent. Finalizați cu o drumeție de seară la Plateaux du Rouennais.",
         "en": "Start your road trip at the southern Église Saint-Sauveur, then drive to the beautiful Saint-Pierre Church. Spend midday immersing yourself in art at Centre Culturel Bourvil and checking out Notre-Dame Church. In the afternoon, explore Église Saint-Aubin, the Town Hall, and Église Saint-Pierre-et-Saint-Laurent. Finish with an evening hike and sunset views at Plateaux du Rouennais."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre verregnete Fahrt mit einfachem Parken nahe der Église Saint-Sauveur. Mittags fliehen Sie sicher vor dem Regen in die Kirche Saint-Pierre und das Centre Culturel. Fahren Sie nachmittags gemütlich mit vollen Scheibenwischern zur Notre-Dame, Saint-Aubin und zum Rathaus. Beenden Sie die Tour an der Église Saint-Pierre-et-Saint-Laurent und betrachten Sie die Plateaux aus dem trockenen Auto.",
+            "hu": "Kezdje az esős autózást egy nagyon egyszerű parkolással az Église Saint-Sauveur közelében. Délben meneküljön a zápor elől a Saint-Pierre templomba és a kulturális központba. Délután kényelmesen vezessen a Notre-Dame, Saint-Aubin és a Városháza felé, maximális ablaktörlővel. Végül tekintse meg az Église Saint-Pierre-et-Saint-Laurent-t és a fennsíkot a száraz autóból.",
+            "ro": "Începeți condusul pe ploaie cu o parcare ușoară lângă Église Saint-Sauveur. La prânz, scăpați sigur de averse în Biserica Saint-Pierre și Centrul Cultural Bourvil. După-amiaza, conduceți liniștit cu ștergătoarele la maximum spre Notre-Dame, Saint-Aubin și Primărie. Încheiați la Église Saint-Pierre-et-Saint-Laurent și vedeți platoul din mașina uscată.",
+            "en": "Begin your heavily rainy drive with an easy park near Église Saint-Sauveur. By midday, securely escape the downpour inside Saint-Pierre Church and the Centre Culturel Bourvil. In the afternoon, smoothly drive to Notre-Dame, Saint-Aubin, and the Town Hall, keeping wipers on full. Conclude at Église Saint-Pierre-et-Saint-Laurent and safely view the Plateaux from your dry car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um den historischen Altar völlig trocken zu bewundern; nutzen Sie einfach einen großen Schirm für den kurzen Weg vom Auto zum Eingang.",
+                "hu": "Lépjen be, hogy teljesen szárazon csodálja meg a gyönyörű történelmi oltárt; egyszerűen használjon egy nagy esernyőt a parkoló autótól a bejáratig tartó rövid sétához.",
+                "ro": "Intrați pentru a admira frumosul altar istoric stând complet uscat; folosiți pur și simplu o umbrelă mare pentru scurta plimbare de la mașină la intrarea bisericii.",
+                "en": "Step inside to admire the beautiful historic altar while staying completely dry; simply use a large umbrella for the short walk from your parked car to the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Das imposante Innere ist ein toller Zufluchtsort vor dem düsteren Regen; lassen Sie nasse Regenmäntel bewusst im Auto, um die Holzbänke sauber zu halten.",
+                "hu": "Az impozáns belső tér egy igazán remek menedék a végtelen, borús eső elől; tudatosan hagyja a csöpögő esőkabátot az autóban, hogy a fa templomi padok szárazak maradjanak.",
+                "ro": "Interiorul impunător este un refugiu excelent împotriva ploii interminabile și sumbre; lăsați intenționat pelerina udă în mașină pentru a păstra băncile din lemn curate și uscate.",
+                "en": "The imposing interior is a truly great refuge from the endless, gloomy rain; deliberately leave your dripping raincoat in the car to keep the wooden church pews clean and dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel Bourvil",
+                "hu": "Centre Culturel Bourvil",
+                "ro": "Centre Culturel Bourvil",
+                "en": "Centre Culturel Bourvil"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel komfortable Zeit im Trockenen; die Nutzung der überdachten Parkplätze in der Nähe schützt Sie vollständig vor dem miserablen Wetter.",
+                "hu": "Töltsön bőséges, kényelmes időt a helyi örökség beltéri felfedezésével; a közeli fedett parkolók használatával teljesen védve marad a nyomorúságos időjárástól.",
+                "ro": "Petreceți timp confortabil explorând patrimoniul local în interior; utilizarea parcării acoperite din apropiere vă protejează complet de vremea absolut mizerabilă.",
+                "en": "Spend ample, comfortable time exploring the local heritage indoors; utilizing the underground or covered parking nearby keeps you totally shielded from the miserable weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Church",
+                "hu": "Notre-Dame Church",
+                "ro": "Notre-Dame Church",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Details des Schiffs vor dem Sturm geschützt; achten Sie beim Aussteigen auf tiefe, versteckte Pfützen, die sich schnell auf dem Parkplatz bilden.",
+                "hu": "Figyelje meg a hajó részleteit teljesen elzárva a kinti vihartól; kiszálláskor vigyázzon a közeli parkolóban gyorsan kialakuló mély, rejtett tócsákra.",
+                "ro": "Observați detaliile naosului complet adăpostit de furtună; atenție la bălțile adânci și ascunse care se formează rapid în zona de parcare atunci când coborâți din mașină.",
+                "en": "Observe the intricate details of the nave completely sheltered from the storm; watch out for deep, hidden puddles forming quickly in the nearby parking area when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Aubin",
+                "hu": "Église Saint-Aubin",
+                "ro": "Église Saint-Aubin",
+                "en": "Église Saint-Aubin"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt für die Fassade aus dem Auto oder ein Schirm-Sprint; extrem starker Regen kann die schmalen Zufahrtsstraßen hier sehr leicht verdecken.",
+                "hu": "Tegyen egy rövid megállót az autóból fotózva, vagy egy gyors esernyős sprinttel; a rendkívül heves esőzés nagyon könnyen elhomályosíthatja az itteni szűk bevezető utakat.",
+                "ro": "Faceți o scurtă oprire pentru a vedea fațada din mașină sau o fugă rapidă cu umbrela; ploaia extrem de puternică poate ascunde cu ușurință drumurile înguste de acces de aici.",
+                "en": "Make a brief stop to see the charming facade from inside the car or do a quick umbrella dash; extremely heavy rain can easily obscure the narrow approaching roads here."
+              }
+            },
+            {
+              "name": {
+                "de": "Franqueville Town Hall",
+                "hu": "Franqueville Town Hall",
+                "ro": "Franqueville Town Hall",
+                "en": "Franqueville Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das Rathaus ohne Aussteigen, falls es zu stark gießt; stellen Sie die Scheibenwischer auf Maximalstufe, um alle Details absolut sicher zu erkennen.",
+                "hu": "Tekintse meg a gyönyörű épületet anélkül, hogy elhagyná a járművet a heves záporban; használja az ablaktörlőt maximális sebességen, hogy minden részletet biztonságosan lásson.",
+                "ro": "Vedeți centrul civic frumos fără a ieși din vehicul dacă plouă prea tare; folosiți ștergătoarele la viteză maximă pentru a vedea clar și în siguranță toate detaliile.",
+                "en": "View the beautiful civic center without leaving your vehicle if the downpour is too intense; securely use your wipers on maximum speed to clearly see all the details safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-et-Saint-Laurent",
+                "hu": "Église Saint-Pierre-et-Saint-Laurent",
+                "ro": "Église Saint-Pierre-et-Saint-Laurent",
+                "en": "Église Saint-Pierre-et-Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit der robusten Architektur, die ewig dem Regen trotzt; achten Sie beim vorsichtigen Parken unbedingt auf nasse, extrem schlammige Stellen.",
+                "hu": "Fejezze be a túrát a robusztus építészet élvezetével, amely évszázadok óta dacol az esővel; nagyon figyeljen a vizes, extrém saras foltokra, amikor óvatosan itt parkol.",
+                "ro": "Încheiați turul bucurându-vă de arhitectura robustă care a rezistat secolelor de ploaie; fiți foarte atenți la locurile umede și extrem de noroioase când parcați cu grijă aici.",
+                "en": "Conclude your church tour enjoying the robust architecture that has withstood centuries of rain; strongly mind the wet, extremely muddy spots when carefully parking here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plateaux du Rouennais",
+                "hu": "Plateaux du Rouennais",
+                "ro": "Plateaux du Rouennais",
+                "en": "Plateaux du Rouennais"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie statt eines Spaziergangs eine malerische Fahrt über das Plateau; beobachten Sie die dramatischen Regenwolken sicher und warm hinter den Autoscheiben.",
+                "hu": "Séta helyett élvezze a rendkívül festői autózást közvetlenül a fennsíkon keresztül; nézze meg a drámai esőfelhőket a meleg autóüveg mögül, teljesen biztonságban.",
+                "ro": "În loc să mergeți pe jos, bucurați-vă de o plimbare pitorească direct pe platou; priviți norii dramatici de ploaie în deplină siguranță din spatele geamului cald al mașinii.",
+                "en": "Instead of walking, enjoy a highly scenic drive directly across the plateau; watch the dramatic, dark rain clouds roll safely over the landscape from behind the warm glass."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kalten Wintermorgen im vorgeheizten Auto zur Église Saint-Sauveur. Mittags erkunden Sie die Kirche Saint-Pierre und das herrlich beheizte Centre Culturel. Fahren Sie am sehr kurzen Nachmittag gemütlich zur Notre-Dame, Saint-Aubin und zum Rathaus. Besuchen Sie die Église Saint-Pierre und beobachten Sie den frühen Sonnenuntergang um 17:00 über den Plateaux.",
+            "hu": "Indítsa a fagyos téli reggelt egy kényelmesen előmelegített autóban az Église Saint-Sauveur felé. Délben fedezze fel a Saint-Pierre templomot és a fűtött kulturális központot. A nagyon rövid délutánon vezessen a Notre-Dame, a Saint-Aubin és a Városháza felé. Látogasson el az Église Saint-Pierre-hez, majd nézze a 17:00 órai naplementét a fennsík felett az autóból.",
+            "ro": "Începeți dimineața friguroasă de iarnă într-o mașină preîncălzită spre Église Saint-Sauveur. La prânz, explorați Biserica Saint-Pierre și Centrul Cultural minunat încălzit. În după-amiaza scurtă, conduceți confortabil spre Notre-Dame, Saint-Aubin și Primărie. Vizitați Église Saint-Pierre, apoi priviți apusul timpuriu de la 17:00 peste platou din mașină.",
+            "en": "Kick off your freezing winter morning in a comfortably pre-heated car, driving to Église Saint-Sauveur. By noon, explore Saint-Pierre Church and the wonderfully heated Centre Culturel Bourvil. In the short afternoon, smoothly drive to Notre-Dame, Saint-Aubin, and the Town Hall. Visit Église Saint-Pierre, then watch the early 17:00 sunset over the Plateaux from your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Sauveur",
+                "hu": "Église Saint-Sauveur",
+                "ro": "Église Saint-Sauveur",
+                "en": "Église Saint-Sauveur"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die tiefe, historische Stille der alten Kirche; lassen Sie den Motor vorher etwas laufen, um eine wunderbar warme Rückkehr auf den Fahrersitz zu garantieren.",
+                "hu": "Élvezze a régi épület mély, történelmi csendjét; járassa egy kicsit a motort előtte, hogy garantáltan egy csodálatosan meleg vezetőülésbe térhessen vissza a látogatás után.",
+                "ro": "Bucurați-vă de liniștea profundă și istorică a acestei structuri vechi; țineți motorul pornit puțin înainte pentru a vă asigura o întoarcere minunat de caldă la volan.",
+                "en": "Enjoy the deep, historic silence of this old structure; keep your car engine running a bit beforehand to ensure a wonderfully warm return to the driver's seat afterward."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das blasse Winterlicht durch die bunten Fenster; die Steinböden gefrieren unfassbar schnell, weshalb stark isolierte Winterstiefel eine absolute Notwendigkeit sind.",
+                "hu": "Nézze meg, ahogy a sápadt téli fény átsüt a színes ablakokon; a kőpadló hihetetlenül gyorsan átfagy, így az erősen hőszigetelt téli csizma itt abszolút elengedhetetlen.",
+                "ro": "Priviți lumina palidă de iarnă strălucind prin ferestrele colorate; podelele din piatră îngheață incredibil de repede, așa că cizmele de iarnă bine izolate sunt o necesitate.",
+                "en": "Witness the pale winter light shining through the colorful windows; the stone floors freeze incredibly quickly, so highly insulated winter boots are an absolute necessity."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Culturel Bourvil",
+                "hu": "Centre Culturel Bourvil",
+                "ro": "Centre Culturel Bourvil",
+                "en": "Centre Culturel Bourvil"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Galerien für eine gemütliche Kulturpause in vollen Zügen; eine Thermoskanne mit heißem Tee im Auto wird das Gesamterlebnis noch deutlich verbessern.",
+                "hu": "Használja ki maximálisan a fűtött galériákat egy nagyon hangulatos kulturális szünethez; egy nagy termosz forró tea az autóban nagymértékben fokozza majd az általános élményt.",
+                "ro": "Profitați din plin de galeriile încălzite pentru o pauză culturală foarte confortabilă; un termos mare cu ceai fierbinte așteptând în mașină va îmbunătăți enorm experiența.",
+                "en": "Take full advantage of the heated galleries for a very cozy cultural break; having a large thermos of hot tea waiting in the car will greatly enhance the overall experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame Church",
+                "hu": "Notre-Dame Church",
+                "ro": "Notre-Dame Church",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Die klassische Architektur hebt sich wunderschön vom verschneiten Himmel ab; drehen Sie die Autoheizung voll auf, bevor Sie mutig in den beißenden Winterwind treten.",
+                "hu": "A klasszikus építészet gyönyörűen kiemelkedik a havas égbolt előtt; mindenképpen kapcsolja feljebb az autó fűtését, mielőtt bátran kilépne a metsző, fagyos téli szélbe.",
+                "ro": "Arhitectura clasică iese frumos în evidență pe cerul înzăpezit; dați cu siguranță mai tare căldura în mașină înainte de a ieși curajos în vântul tăios și înghețat de iarnă.",
+                "en": "The classic architecture stands out beautifully against the snowy skies; definitely turn up the car heater before bravely stepping out into the biting, freezing winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Aubin",
+                "hu": "Église Saint-Aubin",
+                "ro": "Église Saint-Aubin",
+                "en": "Église Saint-Aubin"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die atemberaubend frostbedeckten Ziegel; seien Sie sich sehr bewusst, dass unbehandelte lokale Seitenstraßen extrem rutschige, gefährliche Glatteisstellen haben können.",
+                "hu": "Nézze meg a lenyűgözően dércsípte tetőcserepeket; legyen nagyon tudatában annak, hogy a kezeletlen helyi mellékutakon rendkívül csúszós, nagyon veszélyes jégfoltok lehetnek.",
+                "ro": "Vedeți țiglele uimitoare acoperite de chiciură; fiți foarte conștienți că drumurile laterale locale netratate pot avea petice de gheață neagră extrem de alunecoase și periculoase.",
+                "en": "See the stunning frost-covered roof tiles and tranquil surroundings; be very aware that untreated local side roads might have slippery, highly dangerous black ice spots."
+              }
+            },
+            {
+              "name": {
+                "de": "Franqueville Town Hall",
+                "hu": "Franqueville Town Hall",
+                "ro": "Franqueville Town Hall",
+                "en": "Franqueville Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus wirkt in der tiefen Nachmittagssonne absolut beeindruckend; Sie können es bequem durch das Autofenster bewundern, ohne draußen in der bitteren Kälte zu frieren.",
+                "hu": "A városháza abszolút lenyűgöző az alacsony délutáni napsütésben; könnyedén és nagyon kényelmesen megcsodálhatja az autó ablakán keresztül, anélkül, hogy megfagyna a hidegben.",
+                "ro": "Primăria arată absolut uimitor în soarele scăzut de după-amiază; o puteți admira cu ușurință și confortabil chiar prin geamul mașinii, fără a îngheța în frigul amar de afară.",
+                "en": "The town hall looks absolutely striking in the low afternoon sun; you can easily and comfortably admire it right through your car window without freezing in the bitter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre-et-Saint-Laurent",
+                "hu": "Église Saint-Pierre-et-Saint-Laurent",
+                "ro": "Église Saint-Pierre-et-Saint-Laurent",
+                "en": "Église Saint-Pierre-et-Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das unglaublich friedliche schwindende Licht in den Mauern; die starke Autoheizung ist eine sehr willkommene Erleichterung direkt nach der harten Kälte.",
+                "hu": "Élje át a hihetetlenül békés, halványuló fényt a történelmi falak között; az autó erős fűtése hatalmas megváltás lesz, amint azonnal kilép a kíméletlen kinti hidegből.",
+                "ro": "Experimentați lumina incredibil de pașnică care se estompează între zidurile istorice; încălzitorul puternic al mașinii va fi o ușurare imensă imediat ce scăpați de frigul aspru.",
+                "en": "Experience the incredibly peaceful fading light inside the historic walls; your car's strong heater will be a welcome relief immediately after stepping out of the harsh cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Plateaux du Rouennais",
+                "hu": "Plateaux du Rouennais",
+                "ro": "Plateaux du Rouennais",
+                "en": "Plateaux du Rouennais"
+              },
+              "tip_5lang": {
+                "de": "Prischen Sie den wirklich spektakulären, frühen Wintersonnenuntergang, der pünktlich um 17:00 über die gefrorenen Felder strahlt, direkt aus der komfortablen Wärme Ihres Autositzes.",
+                "hu": "Kapja el az igazán látványos, kora téli naplementét, amely pontosan 17:00-kor ragyog a fagyott mezők felett, mindezt közvetlenül az első ülés kényelmes, fűtött melegéből figyelve.",
+                "ro": "Prindeți apusul de iarnă cu adevărat spectaculos, strălucind peste câmpurile înghețate exact la 17:00, toate vizibile direct din căldura confortabilă a scaunului din față al mașinii.",
+                "en": "Catch the truly spectacular, early winter sunset glowing over the frozen fields precisely at 17:00, all directly from the comfortable, heated warmth of your front car seat."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Gourin szellemi központjának felfedezésével a központi templomban, mielőtt a helyi tó békés atmoszférája nyugodt alaphangot adna az egész délelőttnek.\nDélben merészkedjen egy kicsit kijjebb, és fedezze fel a breton vidéket pettyező bájos, vidéki kőkápolnát, amely a történelemről és az őszinte áhítatról mesél.\nA délután Tronjoly nagyszerűségének van szentelve; sétáljon végig a csodálatos kastélykertben, és képzelje el a szomszédos szabadtéri színházban megrendezett nagyszabású eseményeket.\nZárja utazását a késő délutáni fények lágyulásával, visszagondolva az ezen autentikus breton város történelmi műemlékei és buja zöldellő tájai között eltöltött csodálatos napra.",
         "ro": "Începeți ziua explorând inima spirituală a orașului Gourin la biserica centrală, înainte ca atmosfera pașnică a lacului local să stabilească un ton relaxant pentru prima parte a dimineții.\nLa amiază, aventurați-vă ușor spre exterior pentru a descoperi fermecătoarea capelă rurală de piatră care presară peisajul breton, spunând propria poveste de istorie și devotament.\nDupă-amiaza este dedicată măreției domeniului Tronjoly; plimbați-vă prin terenurile magnifice ale castelului și imaginați-vă marile evenimente de la teatrul în aer liber din vecinătate.\nÎncheiați-vă călătoria pe măsură ce lumina se domolește, reflectând la o zi bine petrecută printre monumentele istorice și peisajele verzi și luxuriante ale acestui oraș breton autentic.",
         "en": "Start your day exploring the spiritual heart of Gourin by visiting the central church, before letting the peaceful atmosphere of the local lake set a relaxing tone for the morning.\nBy midday, venture slightly outwards to discover the charming rural stone chapel that dots the Breton countryside, telling its own quiet story of history and regional devotion.\nThe afternoon is dedicated to the grandeur of Tronjoly; walk through its magnificent castle grounds and picture the grand events that take place at the neighboring open-air theatre.\nConclude your journey as the late afternoon light softens, reflecting on a day well spent amidst the historical monuments and lush, green landscapes of this authentic Breton town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen unter den schützenden Bögen der Hauptkirche von Gourin. Mittags folgt ein Spaziergang um den See, bei dem ein robuster Regenschirm unerlässlich ist. Nachmittags bieten die lokalen Kapellen eine ruhige Zuflucht vor dem Regen. Beenden Sie den Tag in den trockenen, kulturellen Räumen des Anwesens Tronjoly.",
+            "hu": "Kezdje a reggelt Gourin főtemplomának védelmet nyújtó boltívei alatt. Délben egy ködös séta következik a tó körül, ahol elengedhetetlen egy jó esernyő. Délután a helyi kápolnák csendes menedéket nyújtanak az eső elől. Zárja a napot a Tronjoly birtok fedett, kulturális tereiben, melegben és szárazon.",
+            "ro": "Începeți dimineața sub arcadele protectoare ale bisericii principale din Gourin. La prânz, faceți o plimbare cețoasă în jurul lacului, unde o umbrelă este esențială. După-amiaza, capelele locale oferă un adăpost liniștit împotriva ploii. Încheiați ziua bucurându-vă de spațiile culturale interioare ale domeniului Tronjoly.",
+            "en": "Start your morning under the protective arches of Gourin's main church. Midday brings a misty stroll around the lake where a good umbrella is essential. In the afternoon, the local chapels offer quiet shelter from the rain. End your day enjoying the indoor cultural spaces of the Tronjoly estate, keeping warm and dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die beeindruckende Innenarchitektur und finden Sie Zuflucht vor dem Regen. Vorsicht am Eingang, der nasse Steinboden kann ziemlich rutschig sein.",
+                "hu": "Fedezze fel a templom lenyűgöző belső építészetét, miközben menedéket talál az eső elől. A vizes kőpadló csúszhat, ezért óvatosan lépkedjen a bejárat környékén.",
+                "ro": "Explorați arhitectura interioară impresionantă în timp ce găsiți un adăpost uscat. Aveți grijă la intrare, deoarece podeaua de piatră umedă poate fi alunecoasă.",
+                "en": "Explore the stunning interior architecture while finding a dry shelter from the rain. Be careful as the wet stone floor near the entrance can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Gourin",
+                "hu": "Étang de Gourin",
+                "ro": "Étang de Gourin",
+                "en": "Étang de Gourin"
+              },
+              "tip_5lang": {
+                "de": "Die vernebelte Atmosphäre am See ist magisch, bietet aber kaum Schutz. Tragen Sie wasserfeste Schuhe, da die Uferwege bei starkem Regen schnell matschig werden.",
+                "hu": "A tó ködös hangulata varázslatos, de nem sok fedezéket nyújt. Viseljen vízálló cipőt, mivel a parti ösvények a heves esőzések során gyorsan sarassá válhatnak.",
+                "ro": "Atmosfera cețoasă de la lac este magică, dar oferă puțin adăpost. Purtați încălțăminte impermeabilă, deoarece potecile devin rapid noroioase pe ploaie.",
+                "en": "The misty atmosphere by the lake is magical but offers little shelter. Wear waterproof shoes as the lakeside paths can quickly become muddy during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Philibert",
+                "hu": "Chapelle Saint-Philibert",
+                "ro": "Chapelle Saint-Philibert",
+                "en": "Chapelle Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderschöner und ruhiger Rückzugsort bei plötzlichen Schauern. Der kurze Zugangspfad zur Kapelle erfordert bei Nässe etwas Vorsicht wegen tiefer Pfützen.",
+                "hu": "Gyönyörű és békés menedék hirtelen lezúduló záporok esetén. A kápolnához vezető rövid ösvényen érdemes vigyázni, mert a mélyebb tócsákat nehéz kikerülni.",
+                "ro": "Un refugiu frumos și liniștit în timpul ploilor bruște. Calea scurtă de acces către capelă necesită puțină atenție din cauza bălților adânci pe vreme umedă.",
+                "en": "A beautiful and peaceful retreat during sudden rain showers. The short access path to the chapel requires a bit of caution due to deep puddles when it is wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Tronjoly",
+                "hu": "Théâtre de Tronjoly",
+                "ro": "Théâtre de Tronjoly",
+                "en": "Théâtre de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lokale Kultur in den angenehm warmen und trockenen Innenräumen. Dies ist der perfekte Ort, um einen anhaltenden Regenschauer abzuwarten.",
+                "hu": "Élvezze a helyi kultúrát a kellemesen meleg és teljesen száraz belső terekben. Ez a legtökéletesebb helyszín arra, hogy kényelmesen átvészeljen egy tartós záport.",
+                "ro": "Bucurați-vă de cultura locală în interioarele plăcut de calde și uscate. Acesta este locul perfect pentru a aștepta trecerea unei ploi prelungite și reci.",
+                "en": "Enjoy the local culture in the pleasantly warm and completely dry interiors. This is the absolute perfect spot to comfortably wait out a prolonged rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Tronjoly",
+                "hu": "Château de Tronjoly",
+                "ro": "Château de Tronjoly",
+                "en": "Château de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade des Schlosses von außen unter Ihrem Schirm. Die gepflasterten Wege im Park können bei nassem Wetter unangenehm rutschig werden.",
+                "hu": "Csodálja meg a kastély lenyűgöző homlokzatát az esernyője alól. A park kövezett útjai és lépcsői nedves időben meglehetősen csúszóssá és veszélyessé válhatnak.",
+                "ro": "Admirați fațada impresionantă a castelului de sub umbrela dumneavoastră. Aleile pietruite și treptele din parc pot deveni destul de alunecoase pe vreme umedă.",
+                "en": "Admire the impressive facade of the castle from safely under your umbrella. The paved paths and steps in the park can become quite slippery in wet weather conditions."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen im historischen Herzen von Gourin. Mittags genießen Sie einen Spaziergang um den See in warmen Schichten. Das Nachmittagslicht beleuchtet die alten Steinkapellen wunderschön. Wenn gegen 17 Uhr die Sonne untergeht, ziehen Sie sich in die gemütlichen Hallen von Tronjoly zurück.",
+            "hu": "Kezdje a csípős téli reggelt Gourin történelmi központjának felfedezésével. Délben tegyen egy séta a tó körül, meleg rétegekbe öltözve. A délutáni fény gyönyörűen megvilágítja a régi kőkápolnákat. Amikor 17 óra körül lemegy a nap, vonuljon vissza a Tronjoly birtok hangulatos, kivilágított termeibe.",
+            "ro": "Începeți dimineața de iarnă explorând inima istorică a orașului Gourin. La prânz, bucurați-vă de o plimbare revigorantă în jurul lacului, purtând haine groase. Lumina după-amiezii luminează frumos vechile capele. Odată cu apusul din jurul orei 17:00, retrageți-vă în sălile domeniului Tronjoly.",
+            "en": "Begin the crisp winter morning exploring the historic heart of Gourin. By noon, enjoy a brisk walk around the lake, bundled up in warm layers. The afternoon light beautifully illuminates the old stone chapels. As the early sunset arrives around 5 PM, retreat to the cozy halls of the Tronjoly estate."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wunderbar friedliche Atmosphäre im Inneren. Ziehen Sie sich unbedingt warm an, da die dicken Steinwände der Kirche die winterliche Kälte speichern.",
+                "hu": "Élvezze a benti csodálatosan békés légkört. Mindenképpen öltözzön fel melegen, mivel a templom vastag kőfalai magukba zárják a fagyos téli hideget.",
+                "ro": "Bucurați-vă de atmosfera minunat de pașnică din interior. Îmbrăcați-vă neapărat gros, deoarece pereții groși de piatră ai bisericii rețin frigul aspru al iernii.",
+                "en": "Enjoy the wonderfully peaceful atmosphere inside. Be sure to dress warmly, as the thick stone walls of the church trap and hold the freezing winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Gourin",
+                "hu": "Étang de Gourin",
+                "ro": "Étang de Gourin",
+                "en": "Étang de Gourin"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Uferlandschaft bietet fantastische Fotomotive in der Wintersonne. Ein dicker Schal ist wichtig, um sich vor dem eisigen Wind am offenen Wasser zu schützen.",
+                "hu": "A deres partvidék fantasztikus fotótémákat kínál a téli napsütésben. Egy vastag sál fontos, hogy megvédje magát a nyílt víz felől fújó jeges széllel szemben.",
+                "ro": "Peisajul înghețat oferă motive foto fantastice în soarele de iarnă. Un fular gros este important pentru a vă proteja de vântul înghețat de lângă apa deschisă.",
+                "en": "The frosty shoreline offers fantastic photo opportunities in the winter sun. A thick scarf is important to protect yourself from the icy wind off the open water."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Philibert",
+                "hu": "Chapelle Saint-Philibert",
+                "ro": "Chapelle Saint-Philibert",
+                "en": "Chapelle Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Die alte Steinfassade leuchtet besonders schön im tief stehenden Winterlicht. Tragen Sie dicke Socken, da der historische Boden im Innenraum eiskalt ist.",
+                "hu": "A régi kőhomlokzat különösen szépen ragyog az alacsonyan járó téli napfényben. Viseljen vastag zoknit, mivel a történelmi padlózat a belső térben jéghideg.",
+                "ro": "Vechea fațadă de piatră strălucește deosebit de frumos în lumina joasă a iernii. Purtați șosete groase, deoarece podeaua istorică din interior este rece ca gheața.",
+                "en": "The old stone facade glows beautifully in the low-angled winter sunlight. Wear thick socks as the historic floor inside the building is literally ice-cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Tronjoly",
+                "hu": "Théâtre de Tronjoly",
+                "ro": "Théâtre de Tronjoly",
+                "en": "Théâtre de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Die gut beheizten Räumlichkeiten sind nach einem Spaziergang eine echte Wohltat. Ein idealer Rückzugsort für den späten Nachmittag, wenn es draußen dunkel und kalt wird.",
+                "hu": "A jól fűtött termek igazi felüdülést nyújtanak egy hosszú téli séta után. Ideális menedék a késő délutáni órákban, amikor kint már sötét és nagyon hideg van.",
+                "ro": "Camerele bine încălzite sunt o adevărată binecuvântare după o plimbare lungă. O retragere ideală după-amiaza târziu, când afară devine întuneric și foarte frig.",
+                "en": "The well-heated rooms are a true blessing after a long winter walk outside. An ideal retreat for the late afternoon when it gets dark and very cold outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Tronjoly",
+                "hu": "Château de Tronjoly",
+                "ro": "Château de Tronjoly",
+                "en": "Château de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Das imposante Schloss wirkt im klaren Winterzauber noch edler. Der Wind im offenen Park kann extrem kalt werden, ziehen Sie Ihre Mütze tief ins Gesicht.",
+                "hu": "Az impozáns kastély a tiszta téli varázslatban még nemesebbnek hat. A nyílt parkban a szél rendkívül csípős lehet, érdemes a sapkát mélyen az arcába húznia.",
+                "ro": "Castelul impunător pare și mai nobil în farmecul clar al iernii. Vântul din parcul deschis poate fi extrem de rece, trageți-vă bine căciula pe frunte.",
+                "en": "The imposing castle looks even more noble in the clear magic of winter. The wind in the open park can be extremely sharp, so pull your hat down tight."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a napot Gourin szellemi központjának felfedezésével a központi templomban, mielőtt két kerékre pattanva bejárná a környéket.\nDélben merészkedjen kijjebb, és fedezze fel a breton vidéket pettyező vidéki kőkápolnákat, majd pihenjen meg egy kicsit a festői természetes tó partján.\nA délután Tronjoly nagyszerűségének van szentelve; tekerjen el a csodálatos kastélykertbe, és képzelje el a szabadtéri színházban megrendezett nagy eseményeket.\nZárja utazását a Keresztelő János emlékműnél, élvezve, ahogy a késő délutáni fények finoman megvilágítják ezen autentikus breton város buja tájait.",
         "ro": "Începeți ziua explorând inima spirituală a orașului Gourin la biserica centrală, înainte de a pedala prin împrejurimi pentru un aer proaspăt de dimineață.\nLa amiază, aventurați-vă spre exterior pentru a descoperi fermecătoarele capele de piatră care presară peisajul breton, urmate de o oprire relaxantă la lacul natural pitoresc.\nDupă-amiaza este dedicată măreției domeniului Tronjoly; mergeți cu bicicleta la terenurile magnifice ale castelului și explorați teatrul în aer liber din vecinătate.\nÎncheiați-vă călătoria la impresionantul monument dedicat Sfântului Ioan, în timp ce lumina caldă a după-amiezii reflectă farmecul istoric al acestui oraș breton.",
         "en": "Start your day exploring the spiritual heart of Gourin by visiting the central church, before hopping on your bike to explore the surrounding countryside.\nBy midday, venture slightly outwards to discover the charming rural stone chapels that dot the Breton landscape, followed by a relaxing pause at the scenic natural lake.\nThe afternoon is dedicated to the grandeur of Tronjoly; cycle over to its magnificent castle grounds and picture the grand events taking place at the open-air theatre.\nConclude your journey at the striking Saint John monument as the late afternoon light softens, reflecting on a day of cultural discovery amidst the greenery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig in diesen nassen Morgen zur Hauptkirche und achten Sie auf rutschiges Kopfsteinpflaster. Mittags radeln Sie zu ruhigen Kapellen und dem See in wasserfester Kleidung. Nachmittagsschauer erfordern kürzere Stopps und mehr Zeit im Anwesen. Fahren Sie vor Einbruch der Dunkelheit sicher zurück.",
+            "hu": "Induljon óvatosan ezen a nedves reggelen a főtemplomhoz, ügyelve a csúszós macskakövekre. Délben a nyugodt kápolnákhoz és a tóhoz teker, amihez vízálló felszerelés szükséges. A záporok rövidebb kinti megállókat és több benti időt jelentenek. Tekerjen vissza biztonságosan szürkület előtt.",
+            "ro": "Porniți cu atenție în această dimineață umedă spre biserica principală, ferindu-vă de pavajul alunecos. Ciclismul de la prânz vă duce spre capele și lac, necesitând echipament impermeabil. Ploile înseamnă opriri mai scurte la exterior. Întoarceți-vă în siguranță înainte de lăsarea întunericului.",
+            "en": "Set out carefully this wet morning to see the main church, keeping an eye on slippery cobblestones. Midday cycling connects you to tranquil chapels and the lake, requiring waterproof gear. Afternoon showers mean shorter outdoor stops and more time inside. Ride safely back before dusk falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und trocknen Sie sich im ruhigen Kirchenschiff ab. Das Kopfsteinpflaster rund um die Kirche ist bei Nässe extrem rutschig für Zweiräder.",
+                "hu": "Parkolja le biztonságosan a kerékpárját, és szárátkozzon meg a csendes templomhajóban. A templom körüli macskakő nedvesen rendkívül csúszós a kétkerekűek számára.",
+                "ro": "Parcați bicicleta în siguranță și uscați-vă în naosul liniștit. Pavajul din jurul bisericii este extrem de alunecos pentru vehiculele cu două roți pe vreme umedă.",
+                "en": "Park your bike safely and dry off inside the quiet nave. The cobblestones immediately surrounding the church are extremely slippery for two-wheelers when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Philibert",
+                "hu": "Chapelle Saint-Philibert",
+                "ro": "Chapelle Saint-Philibert",
+                "en": "Chapelle Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume bieten beim Absteigen etwas Schutz vor dem Regen. Der unbefestigte Weg zur Kapelle verwandelt sich bei Dauerregen schnell in eine rutschige Matschpiste.",
+                "hu": "A fák némi menedéket nyújtanak az eső ellen a leszálláskor. A kápolnához vezető burkolatlan út tartós esőzés esetén gyorsan csúszós sártengerré változhat.",
+                "ro": "Copacii oferă o oarecare protecție împotriva ploii la coborâre. Drumul neasfaltat către capelă se transformă rapid într-o pistă noroioasă pe ploaie continuă.",
+                "en": "The trees offer some shelter from the rain as you dismount. The unpaved path to the chapel quickly turns into a slippery, muddy track during continuous rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Guénolé",
+                "hu": "Chapelle Saint-Guénolé",
+                "ro": "Chapelle Saint-Guénolé",
+                "en": "Chapelle Saint-Guénolé"
+              },
+              "tip_5lang": {
+                "de": "Eine gute Gelegenheit, kurz ins Trockene zu flüchten und die Details zu bewundern. Die Bremswege auf den umliegenden Landstraßen verlängern sich bei Nässe spürbar.",
+                "hu": "Kiváló alkalom, hogy rövid időre a szárazra meneküljön és megcsodálja a részleteket. A környező vidéki utakon a fékutak nedves időben érezhetően megnőnek.",
+                "ro": "O oportunitate bună de a scăpa la uscat și de a admira detaliile. Distanțele de frânare pe drumurile de țară din jur cresc vizibil în condiții de umezeală.",
+                "en": "A great opportunity to briefly escape to the dry and admire the historic details. Braking distances on the surrounding country lanes increase noticeably when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Gourin",
+                "hu": "Étang de Gourin",
+                "ro": "Étang de Gourin",
+                "en": "Étang de Gourin"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig am Ufer entlang, da nasse Blätter eine Rutschgefahr darstellen. Ein Regencape über der normalen Kleidung ist hier draußen am Wasser unerlässlich.",
+                "hu": "Tekerjen óvatosan a part mentén, mivel a nedves levelek csúszásveszélyt jelentenek. Egy jó minőségű esőköpeny elengedhetetlen itt kint, a nyílt vízfelület mellett.",
+                "ro": "Ciclati cu atenție de-a lungul malului, frunzele umede fiind un pericol. O pelerină de ploaie peste hainele normale este esențială aici, afară, lângă apă.",
+                "en": "Cycle carefully along the shoreline as wet leaves pose a serious slipping hazard. A good rain cape over your clothes is essential out here near the open water."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Tronjoly",
+                "hu": "Château de Tronjoly",
+                "ro": "Château de Tronjoly",
+                "en": "Château de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Schloss vom Sattel aus oder schieben Sie das Rad. Nasses Laub auf den Hauptwegen des Parks erfordert erhöhte Aufmerksamkeit beim Lenken.",
+                "hu": "Csodálja meg a kastélyt a nyeregből, vagy tolja a kerékpárt. A park főbb útjain felgyülemlett nedves avar fokozott figyelmet követel a kormányzás során.",
+                "ro": "Admirați castelul din șa sau împingeți bicicleta. Frunzele umede de pe aleile principale ale parcului necesită o atenție sporită atunci când virați.",
+                "en": "Admire the castle from the saddle or safely push your bike along. Wet foliage on the main paths of the park requires heightened attention when steering."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Tronjoly",
+                "hu": "Théâtre de Tronjoly",
+                "ro": "Théâtre de Tronjoly",
+                "en": "Théâtre de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad ab und wärmen Sie sich in den Ausstellungsräumen auf. Ein trockener Sattelüberzug ist Gold wert, wenn Sie später Ihre Tour fortsetzen.",
+                "hu": "Tegye le a kerékpárt, és melegedjen fel a benti kiállítótermekben. Egy vízhatlan, száraz nyereghuzat aranyat ér, amikor később folytatja az esős túrát.",
+                "ro": "Lăsați bicicleta și încălziți-vă în sălile de expoziție. O husă uscată pentru șa valorează greutatea ei în aur atunci când vă continuați turul mai târziu.",
+                "en": "Park your bike and warm up thoroughly inside the exhibition rooms. A dry, waterproof saddle cover is worth its weight in gold when you resume your tour later."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Baptiste",
+                "hu": "Saint-Jean Baptiste",
+                "ro": "Saint-Jean Baptiste",
+                "en": "Saint-Jean Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, lohnenswerter Stopp am Denkmal, bevor der Regen wieder stärker wird. Achten Sie auf die Pfützen, die sich rund um den Steinsockel bilden können.",
+                "hu": "Egy rövid, érdemes megálló az emlékműnél, mielőtt az eső újra rázendít. Ügyeljen a mélyebb tócsákra, amelyek a kőtalapzat körül gyorsan kialakulhatnak.",
+                "ro": "O oprire scurtă, utilă la monument, înainte ca ploaia să se întețească. Aveți grijă la bălțile care se pot forma rapid în jurul soclului de piatră.",
+                "en": "A short, worthwhile stop at the monument before the rain gets heavier again. Watch out for the deep puddles that can quickly form around the stone base."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre frische Winterfahrt an der Hauptkirche mit warmen Radhandschuhen. Mittags bietet sich klare, kalte Luft, während Sie zwischen Kapellen und dem See radeln. Erkunden Sie nachmittags das Anwesen Tronjoly, wenn die Temperatur sinkt. Beenden Sie Ihre Route vor 16:30 Uhr, bevor es ganz dunkel wird.",
+            "hu": "Kezdje a frissítő téli biciklizést a főtemplomnál, termál kerékpáros kesztyűt viselve. A dél tiszta levegőt kínál, miközben a kápolnák és a deres tó között teker. Délután fedezze fel a Tronjoly birtokot, ahogy a hőmérséklet csökken. Fejezze be az utat 16:30 előtt, mielőtt a téli sötétség leszáll.",
+            "ro": "Începeți plimbarea revigorantă de iarnă la biserica principală, asigurându-vă că aveți mănuși de ciclism. Prânzul oferă aer curat între capele și lac. După-amiaza, explorați domeniul Tronjoly pe măsură ce se răcește. Terminați traseul înainte de 16:30, înainte să se întunece.",
+            "en": "Start your brisk winter ride at the main church, ensuring you have thermal cycling gloves. Midday offers clear, cold air as you pedal between historic chapels and the frosty lake. In the afternoon, explore the Tronjoly estate as the temperature drops. Finish your route by 4:30 PM before darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach den ersten Kilometern im Inneren etwas auf. Beachten Sie, dass Raureif die Steinstufen am Eingang am frühen Morgen sehr glatt macht.",
+                "hu": "Melegedjen fel egy kicsit a belső térben az első kilométerek megtétele után. Vegye figyelembe, hogy a zúzmara kora reggel nagyon csúszóssá teszi a kőlépcsőket.",
+                "ro": "Încălziți-vă puțin în interior după primii kilometri. Rețineți că bruma face ca treptele de piatră de la intrare să fie foarte alunecoase dimineața devreme.",
+                "en": "Warm up a little inside after completing the first few kilometers. Note that early morning frost makes the stone steps at the entrance extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Philibert",
+                "hu": "Chapelle Saint-Philibert",
+                "ro": "Chapelle Saint-Philibert",
+                "en": "Chapelle Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Ruhe hier ist fantastisch, aber der Schattenwurf macht es sehr kalt. Tragen Sie winddichte Kleidung, wenn Sie mit dem Rad wieder losfahren.",
+                "hu": "A téli nyugalom itt fantasztikus, de a fák árnyékában nagyon hideg lehet. Viseljen szélálló ruházatot, amikor újra nyeregbe pattan és felgyorsít.",
+                "ro": "Liniștea de iarnă aici este fantastică, dar umbra face să fie foarte frig. Purtați haine rezistente la vânt când vă urcați din nou pe bicicletă.",
+                "en": "The winter tranquility here is fantastic, but the shadows make it very cold. Wear completely windproof clothing when you get back on your bike and speed up."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Guénolé",
+                "hu": "Chapelle Saint-Guénolé",
+                "ro": "Chapelle Saint-Guénolé",
+                "en": "Chapelle Saint-Guénolé"
+              },
+              "tip_5lang": {
+                "de": "Eine charmante kleine Kapelle in der klaren Winterluft. Achten Sie auf den Landstraßen auf überfrierende Nässe an schattigen Waldrändern.",
+                "hu": "Egy bájos kis kápolna a kristálytiszta téli levegőben. A vidéki utakon tekerve fokozottan ügyeljen az árnyékos erdőszéleken kialakuló jégbordákra.",
+                "ro": "O mică capelă fermecătoare în aerul curat de iarnă. Acordați atenție umezelii înghețate de pe marginile umbrite ale pădurii de pe drumurile rurale.",
+                "en": "A charming little chapel standing in the crisp winter air. Pay close attention to black ice forming on the shaded forest edges along the country lanes."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Gourin",
+                "hu": "Étang de Gourin",
+                "ro": "Étang de Gourin",
+                "en": "Étang de Gourin"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene See glitzert herrlich, aber der Fahrtwind am Wasser kühlt stark aus. Thermohandschuhe und eine Mütze unter dem Helm sind hier absolute Pflicht.",
+                "hu": "A befagyott tó gyönyörűen csillog, de a víz melletti menetszél erősen hűt. A termálkesztyű és a sisak alatti meleg sapka itt elengedhetetlen kellék.",
+                "ro": "Lacul înghețat strălucește frumos, dar vântul vă răcește rapid. Mănușile termice și o căciulă sub cască sunt absolut obligatorii aici, lângă apă.",
+                "en": "The frozen lake sparkles beautifully, but the riding wind by the water chills rapidly. Thermal gloves and a warm cap under your helmet are mandatory here."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Tronjoly",
+                "hu": "Château de Tronjoly",
+                "ro": "Château de Tronjoly",
+                "en": "Château de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände wirkt im Winter sehr friedlich. Seien Sie vorsichtig auf den Schotterwegen, gefrorene Pfützen machen das Lenken schwer berechenbar.",
+                "hu": "A kastély területe télen nagyon békésnek és elhagyatottnak tűnik. Legyen óvatos a kavicsos utakon, a megfagyott tócsák kiszámíthatatlanná teszik a kormányzást.",
+                "ro": "Terenul castelului pare foarte pașnic în timpul iernii. Aveți grijă pe drumurile cu pietriș, bălțile înghețate fac direcția greu de prevăzut.",
+                "en": "The castle grounds seem very peaceful and deserted in winter. Be careful on the gravel paths; hidden frozen puddles make steering highly unpredictable."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Tronjoly",
+                "hu": "Théâtre de Tronjoly",
+                "ro": "Théâtre de Tronjoly",
+                "en": "Théâtre de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den längeren Stopp, um Ihre kalten Finger in den Innenräumen aufzuwärmen. Ein idealer Ort, um die sinkende Wintersonne geschützt zu beobachten.",
+                "hu": "Használja ki a hosszabb megállót, hogy a belső terekben felmelegítse fagyos ujjait. Ideális helyszín a lenyugvó téli nap védett, meleg helyről történő megfigyelésére.",
+                "ro": "Profitați de oprirea mai lungă pentru a vă încălzi degetele reci în interior. Un loc ideal pentru a privi soarele de iarnă apunând dintr-un loc protejat.",
+                "en": "Use this longer stop to thoroughly warm your freezing fingers indoors. An ideal location to watch the setting winter sun from a protected, warm vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Baptiste",
+                "hu": "Saint-Jean Baptiste",
+                "ro": "Saint-Jean Baptiste",
+                "en": "Saint-Jean Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss in der frühen Abenddämmerung. Schalten Sie jetzt unbedingt Ihre Fahrradbeleuchtung ein, da es im Winter sehr rasant dunkel wird.",
+                "hu": "Gyönyörű befejezés a kora esti, fagyos szürkületben. Most már mindenképpen kapcsolja be a kerékpárlámpáit, mivel télen nagyon hirtelen sötétedik be.",
+                "ro": "O concluzie frumoasă la amurgul de la începutul serii. Asigurați-vă că porniți luminile bicicletei acum, deoarece se întunecă foarte repede iarna.",
+                "en": "A beautiful conclusion to your ride in the early evening dusk. Make sure to turn on your bike lights now, as darkness falls extremely rapidly in winter."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje a napot Gourin szellemi központjában a központi templomnál, majd tegyen egy rövid utat a festői tóhoz, hogy élvezze a békés reggeli atmoszférát.\nDélben autóval könnyedén elérheti a távolabbi történelmi kőkápolnákat is, amelyek a breton vidék kiterjedt erdeiben és mezőin bújnak meg, csendes áhítatot árasztva.\nA délután a lenyűgöző Keresztelő János emlékműhöz, majd Tronjoly nagyszerűségéhez vezeti Önt, ahol felfedezheti a kastély csodás kertjeit és a szomszédos szabadtéri színházat.\nZárja ezt a kényelmes utazást, miközben a lemenő nap fénye meleg, arany árnyalatokkal vonja be e breton városka évszázados építészetét.",
         "ro": "Începeți ziua în inima spirituală a orașului Gourin la biserica centrală, apoi conduceți scurt până la lacul pitoresc pentru a vă bucura de atmosfera pașnică a dimineții.\nLa amiază, mașina vă permite să ajungeți cu ușurință la capelele istorice de piatră mai îndepărtate, ascunse în pădurile și câmpurile vaste ale peisajului breton.\nDupă-amiaza vă poartă spre impresionantul monument dedicat Sfântului Ioan, urmat de măreția domeniului Tronjoly, unde puteți explora grădinile castelului și teatrul în aer liber.\nÎncheiați acest tur confortabil pe măsură ce lumina difuză a apusului îmbracă arhitectura seculară a acestui oraș breton în nuanțe calde, aurii.",
         "en": "Start your day in the spiritual heart of Gourin at the central church, then take a short drive to the scenic local lake to soak in the peaceful morning atmosphere.\nBy midday, your car allows you to easily reach the more distant historic stone chapels, tucked away in the woods and open fields of the picturesque Breton countryside.\nThe afternoon leads you to the striking Saint John monument, followed by the grandeur of Tronjoly, where you can explore the castle's beautiful grounds and adjacent open-air theatre.\nConclude this comfortable journey as the fading light coats the centuries-old architecture of this authentic Breton town in warm, golden hues."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre regnerische Fahrt beginnt mit einem bequemen Stopp an der Hauptkirche. Mittags bieten sich szenische Blicke auf den See und kurze Sprints in die historischen Kapellen. Der Nachmittag eignet sich perfekt für den Innenkomfort des Anwesens Tronjoly. Fahren Sie am Abend vorsichtig auf den nassen Landstraßen.",
+            "hu": "Az esős autózás egy kényelmes megállóval kezdődik a főtemplomnál. Délben festői kilátás nyílik az ablaktörlők mögül a tóra, és rövid sprintek a történelmi kápolnákba. A délután tökéletesen alkalmas a Tronjoly birtok benti kényelmére. Az este közeledtével vezessen óvatosan a nedves vidéki utakon.",
+            "ro": "Călătoria ploioasă începe cu o oprire convenabilă la biserica principală. La prânz, aveți vederi pitorești prin parbriz asupra lacului și scurte opriri la capelele istorice. După-amiaza este perfectă pentru confortul interior al domeniului Tronjoly. Conduceți prudent pe drumurile de țară umede.",
+            "en": "Your rainy drive begins with a convenient stop at the main church. Midday brings scenic, wiper-cleared views of the lake and short dashes into the historic chapels. The afternoon is perfectly suited for the indoor comfort of the Tronjoly estate. Drive safely on the wet country roads as evening approaches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nahe der Kirche, um trocken hineinzukommen. Die großen Fenster wirken bei regnerischem, grauem Licht besonders atmosphärisch und beruhigend.",
+                "hu": "Parkoljon közel a templomhoz, hogy szárazon be tudjon jutni. A hatalmas üvegablakok esős, szürke fényben különösen hangulatosak és megnyugtatóak.",
+                "ro": "Parcați aproape de biserică pentru a intra uscat. Ferestrele mari sunt deosebit de atmosferice și liniștitoare în lumina ploioasă și gri.",
+                "en": "Park close to the church so you can get inside while staying dry. The large stained windows look particularly atmospheric and calming in the gray rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Gourin",
+                "hu": "Étang de Gourin",
+                "ro": "Étang de Gourin",
+                "en": "Étang de Gourin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das regengepeitschte Wasser bequem aus dem warmen Auto. Wenn Sie aussteigen, ist ein breiter Regenschirm hier sehr ratsam.",
+                "hu": "Élvezze az eső áztatta vízfelület látványát kényelmesen a meleg autóból. Ha kiszáll egy rövid sétára, egy széles, erős esernyő nagyon ajánlott.",
+                "ro": "Bucurați-vă de vederea apei bătute de ploaie din confortul mașinii calde. Dacă ieșiți, o umbrelă mare și robustă este foarte recomandată aici.",
+                "en": "Enjoy the view of the rain-swept water comfortably from inside your warm car. If you step out, a wide, sturdy umbrella is highly advisable in this open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Philibert",
+                "hu": "Chapelle Saint-Philibert",
+                "ro": "Chapelle Saint-Philibert",
+                "en": "Chapelle Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf dem schmalen Zufahrtsweg, der bei Regen oft schlammig wird. Die Kapelle bietet einen exzellenten, trockenen Schutz für eine Pause.",
+                "hu": "Vezessen óvatosan a keskeny bekötőúton, amely esőben gyakran sárossá válik. Maga a kápolna kiváló, száraz menedéket nyújt egy rövid, csendes pihenőhöz.",
+                "ro": "Conduceți cu atenție pe drumul de acces îngust, care devine adesea noroios pe ploaie. Capela oferă un adăpost excelent și uscat pentru o pauză scurtă.",
+                "en": "Drive carefully on the narrow access road which often gets muddy in the rain. The chapel itself provides an excellent, dry shelter for a quiet, short break."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Guénolé",
+                "hu": "Chapelle Saint-Guénolé",
+                "ro": "Chapelle Saint-Guénolé",
+                "en": "Chapelle Saint-Guénolé"
+              },
+              "tip_5lang": {
+                "de": "Ein malerischer Stopp. Legen Sie Gummimatten ins Auto, falls Ihre Schuhe auf dem kurzen, regennassen Weg zur Kapellentür etwas schmutzig werden.",
+                "hu": "Festői megálló. Érdemes gumiszőnyegeket tartani az autóban, ha a cipője kissé sáros lenne a kápolna ajtajához vezető rövid, eső áztatta ösvényen.",
+                "ro": "O oprire pitorească. Puneți covorașe de cauciuc în mașină, în caz că pantofii se murdăresc pe drumul scurt și ud de ploaie spre ușa capelei.",
+                "en": "A picturesque stop. Consider having rubber mats in the car in case your shoes get a bit muddy on the short, rain-soaked path up to the chapel doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Hervé",
+                "hu": "Chapelle Saint-Hervé",
+                "ro": "Chapelle Saint-Hervé",
+                "en": "Chapelle Saint-Hervé"
+              },
+              "tip_5lang": {
+                "de": "Der etwas abgelegene Ort hat im Regen etwas sehr Mystisches. Parken Sie mit Bedacht, da weiche Bankette neben der Landstraße bei Dauerregen tückisch sind.",
+                "hu": "A kissé eldugott helyszín az esőben nagyon misztikus hangulatot áraszt. Parkoljon körültekintően, mert az út menti puha padkák tartós esőben beszakadhatnak.",
+                "ro": "Locația oarecum îndepărtată are un aer mistic în ploaie. Parcați cu grijă, deoarece acostamentele moi de lângă drum sunt înșelătoare pe ploaie continuă.",
+                "en": "This somewhat remote spot feels very mystical in the rain. Park with great care, as the soft shoulders beside the country road can be treacherous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Baptiste",
+                "hu": "Saint-Jean Baptiste",
+                "ro": "Saint-Jean Baptiste",
+                "en": "Saint-Jean Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp aus dem Autofenster ist bei Starkregen völlig ausreichend. Die Statue wirkt vor dem grauen, wolkenverhangenen Himmel sehr erhaben.",
+                "hu": "Szakadó esőben egy gyors fotómegálló az autó lehúzott ablakából is tökéletesen elegendő. A szobor fenségesen mutat a szürke, felhős, viharos égbolt előtt.",
+                "ro": "O scurtă oprire foto pe geamul mașinii este suficientă pe ploaie torențială. Statuia pare foarte sublimă pe cerul gri și înnorat.",
+                "en": "A quick photo stop by just rolling down the car window is perfectly fine in heavy rain. The statue looks quite sublime against the gray, overcast sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Tronjoly",
+                "hu": "Château de Tronjoly",
+                "ro": "Château de Tronjoly",
+                "en": "Château de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die romantische Architektur des Schlosses. Der Parkplatz kann große Pfützen haben, schauen Sie genau hin, bevor Sie die Autotür öffnen.",
+                "hu": "Szemlélje meg a kastély romantikus építészetét. A parkolóban meglehetősen nagy tócsák alakulhatnak ki, ezért jól nézze meg, hová lép kiszálláskor.",
+                "ro": "Priviți arhitectura romantică a castelului. Parcarea poate avea bălți mari, așa că uitați-vă cu atenție înainte de a deschide ușa mașinii.",
+                "en": "Observe the romantic architecture of the castle. The main parking lot can develop large puddles, so look closely at the ground before opening your car door."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Tronjoly",
+                "hu": "Théâtre de Tronjoly",
+                "ro": "Théâtre de Tronjoly",
+                "en": "Théâtre de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Die Indoor-Räumlichkeiten sind das absolute Highlight bei schlechtem Wetter. Schütteln Sie Ihren Schirm im Vorraum aus und genießen Sie die trockene Kultur.",
+                "hu": "A benti termek jelentik az abszolút fénypontot zord, esős időjárás esetén. Rázza ki az esernyőjét az előtérben, és élvezze kényelmesen a száraz kultúrát.",
+                "ro": "Spațiile interioare sunt atracția absolută pe vreme rea. Scuturați-vă umbrela în hol și bucurați-vă de cultura uscată din interior.",
+                "en": "The indoor spaces are the absolute highlight when the weather is miserable. Shake out your umbrella in the vestibule and enjoy the completely dry culture."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren Winter-Roadtrip an der beeindruckenden Zentralkirche, während die Autoheizung läuft. Mittags können Sie bequem den frostigen See und entlegene Kapellen in der kalten Landschaft abfahren. Nachmittags schwindet das Licht am Anwesen Tronjoly schnell. Beenden Sie die Tour vor 17 Uhr wegen möglicher Eisglätte.",
+            "hu": "Kezdje a téli autós túrát a lenyűgöző központi templomnál, bekapcsolva tartva a fűtést. A déli vezetés lehetővé teszi a deres tó és a kápolnák kényelmes bejárását a hideg tájban. A délutáni fény gyorsan elhalványul a Tronjoly birtokon. Fejezze be az utat 17 óra előtt, mivel az utakon jeges foltok alakulhatnak ki.",
+            "ro": "Începeți excursia de iarnă vizitând biserica centrală, menținând căldura în mașină. Conducerea la prânz vă permite să vizitați confortabil lacul înghețat și capelele îndepărtate. Lumina după-amiezii dispare rapid în jurul domeniului Tronjoly. Încheiați traseul înainte de 17:00 din cauza gheții.",
+            "en": "Start your winter road trip visiting the impressive central church, keeping the car heater on. Midday driving lets you comfortably tour the frosty lake and distant chapels in the cold landscape. Afternoon light fades quickly around the Tronjoly estate. Conclude your tour before 5 PM as icy patches may form on the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur ist atemberaubend, aber die dicken Mauern sind eiskalt. Lassen Sie Ihre Winterjacke unbedingt an, wenn Sie vom warmen Auto in die Kirche wechseln.",
+                "hu": "Az építészet lélegzetelállító, de a vastag falak jéghidegek. Mindenképpen tartsa magán a téli kabátját, amikor a meleg autóból átlép a hűvös templomba.",
+                "ro": "Arhitectura este uluitoare, dar pereții groși sunt sloi de gheață. Asigurați-vă că vă lăsați geaca de iarnă pe dumneavoastră când treceți din mașina caldă în biserică.",
+                "en": "The architecture is breathtaking, but the thick walls are freezing cold. Be sure to keep your winter coat on when moving from the warm car into the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de Gourin",
+                "hu": "Étang de Gourin",
+                "ro": "Étang de Gourin",
+                "en": "Étang de Gourin"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, knackig-kalter Spaziergang am gefrorenen Ufer ist herrlich belebend. Die Autoheizung wärmt Sie danach bei der Weiterfahrt schnell wieder auf.",
+                "hu": "Egy rövid, ropogósan hideg séta a befagyott parton csodálatosan frissítő. Az autó fűtése utána pillanatok alatt ismét kellemesen felmelegíti a továbbutazáshoz.",
+                "ro": "O plimbare scurtă și rece pe malul înghețat este minunat de revigorantă. Încălzirea mașinii vă va încălzi rapid din nou în timp ce conduceți mai departe.",
+                "en": "A short, crisp and cold walk on the frozen shore is wonderfully invigorating. The car heater will quickly warm you up again as you continue your drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Philibert",
+                "hu": "Chapelle Saint-Philibert",
+                "ro": "Chapelle Saint-Philibert",
+                "en": "Chapelle Saint-Philibert"
+              },
+              "tip_5lang": {
+                "de": "Der Boden rund um diese historische Stätte kann im Winter steinhart und gefroren sein. Tragen Sie festes Schuhwerk für den kurzen Weg vom Parkplatz.",
+                "hu": "A történelmi helyszín körüli talaj télen kőkemény és teljesen fagyott lehet. Viseljen nagyon masszív, meleg lábbelit a parkolótól vezető rövid sétához.",
+                "ro": "Terenul din jurul acestui sit istoric poate fi tare ca piatra și înghețat iarna. Purtați încălțăminte rezistentă pentru scurta plimbare de la parcare.",
+                "en": "The ground around this historic site can be rock-hard and completely frozen in winter. Wear sturdy footwear for the short walk from your parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Guénolé",
+                "hu": "Chapelle Saint-Guénolé",
+                "ro": "Chapelle Saint-Guénolé",
+                "en": "Chapelle Saint-Guénolé"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille fernab des Verkehrs. Wenn Schnee liegt, parken Sie das Auto so, dass Sie auf dem ländlichen Weg problemlos wieder anfahren können.",
+                "hu": "Élvezze a forgalomtól távoli, mély csendet. Ha esett a hó, úgy parkolja le az autót, hogy ezen a vidéki, elhagyatott úton gond nélkül el tudjon indulni.",
+                "ro": "Bucurați-vă de liniștea departe de trafic. Dacă este zăpadă, parcați mașina în așa fel încât să puteți porni din nou fără probleme pe drumul rural.",
+                "en": "Enjoy the deep silence far away from traffic. If there is snow, park the car carefully so you can easily pull away on this quiet, rural road without slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Hervé",
+                "hu": "Chapelle Saint-Hervé",
+                "ro": "Chapelle Saint-Hervé",
+                "en": "Chapelle Saint-Hervé"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt durch die kahle Winterlandschaft ist landschaftlich sehr reizvoll. Vorsicht vor Glatteis in den schattigen Kurven kurz vor der Kapelle.",
+                "hu": "A kopár téli tájon keresztül vezető út tájképileg rendkívül vonzó. Fokozottan vigyázzon a fekete jégre a kápolna előtti, fákkal árnyékolt kanyarokban.",
+                "ro": "Călătoria prin peisajul golaș de iarnă este foarte pitorească. Atenție la gheața neagră din curbele umbrite chiar înainte de a ajunge la capelă.",
+                "en": "The drive through the barren winter landscape is very scenic. Beware of extremely dangerous black ice in the shaded curves just before reaching the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Jean Baptiste",
+                "hu": "Saint-Jean Baptiste",
+                "ro": "Saint-Jean Baptiste",
+                "en": "Saint-Jean Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um das Denkmal im weichen Nachmittagslicht zu fotografieren. Die Sonne steht im Winter sehr tief, was lange, dramatische Schatten wirft.",
+                "hu": "Álljon meg egy pillanatra, és fotózza le az emlékművet a lágy délutáni fényben. A téli nap nagyon alacsonyan jár, ami hosszú, drámai árnyékokat vet.",
+                "ro": "Opriți scurt pentru a fotografia monumentul în lumina moale a după-amiezii. Soarele este foarte jos iarna, ceea ce aruncă umbre lungi și dramatice.",
+                "en": "Stop briefly to photograph the monument in the soft afternoon light. The sun is very low in winter, which casts long, dramatic, and beautiful shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Tronjoly",
+                "hu": "Château de Tronjoly",
+                "ro": "Château de Tronjoly",
+                "en": "Château de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände wirkt in der winterlichen Dämmerung fast märchenhaft. Schalten Sie das Abblendlicht ein, wenn Sie auf dem dunklen Parkplatz manövrieren.",
+                "hu": "A kastély területe a fagyos téli szürkületben szinte mesebelinek tűnik. Mindenképpen kapcsolja be a tompított fényszórót, amikor a sötét parkolóban manőverezik.",
+                "ro": "Terenul castelului pare aproape de basm în amurgul de iarnă. Porniți faza scurtă atunci când manevrați în parcarea întunecată și puțin luminată.",
+                "en": "The castle grounds look almost fairytale-like in the freezing winter dusk. Make sure to turn on your low beams when maneuvering in the dark parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre de Tronjoly",
+                "hu": "Théâtre de Tronjoly",
+                "ro": "Théâtre de Tronjoly",
+                "en": "Théâtre de Tronjoly"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss des Tages in den geheizten Innenräumen. Wenn Sie später heimfahren, achten Sie auf überfrierende Nässe bei sinkenden Temperaturen.",
+                "hu": "A nap legtökéletesebb lezárása a jól fűtött belső terekben. Amikor később hazavezet, nagyon ügyeljen a süllyedő hőmérséklet miatti felfagyásokra az utakon.",
+                "ro": "Finalul perfect al zilei în spațiile interioare încălzite. Când conduceți spre casă mai târziu, aveți grijă la îngheț pe măsură ce temperaturile scad abrupt.",
+                "en": "The absolutely perfect end to the day inside the heated rooms. When driving home later, watch out carefully for black ice as evening temperatures plummet."
+              }
+            }
+          ]
+        }
       }
     }
   }

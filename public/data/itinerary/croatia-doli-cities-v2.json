@@ -137,6 +137,168 @@
         "hu": "A reggel békésen indul Pjenak és Zaglavice érintetlen növényvilága közepette.\n\nAhogy közeledik a dél, Gradac magaslata széles kilátást és frissítő szellőt kínál a látogatóknak.\n\nA délután Vriješac gazdag, élettel teli ökoszisztémái felé irányul egy kellemes séta során.\n\nVégül az este csendesen ereszkedik le Rvač területén, nyugodt lezárást nyújtva a gyalogos túrának.",
         "ro": "Dimineața începe liniștit în mijlocul florei neatinse din Pjenak și Zaglavice.\n\nPe măsură ce se apropie amiaza, înălțimea pitorească Gradac oferă priveliști ample și o briză răcoroasă.\n\nDupă-amiaza se îndreaptă spre ecosistemele bogate și vibrante din rezervația naturală Vriješac.\n\nÎn cele din urmă, seara se lasă în liniște la Rvač, oferind o concluzie senină turului dumneavoastră.",
         "en": "Your morning starts peacefully amidst the untouched flora of Pjenak and Zaglavice.\n\nAs midday approaches, the elevation of Gradac provides sweeping views and a refreshing coastal breeze.\n\nThe afternoon shifts towards the rich, vibrant and highly cherished ecosystems of Vriješac.\n\nFinally, the evening settles quietly at Rvač, offering a serene conclusion to your Doli walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in Doli mit wetterfester Kleidung. Der Regen verleiht der dalmatinischen Küste eine mystische Atmosphäre. Vormittags wandern Sie durch duftende, nasse Pinienwälder.\n\nMittags finden Sie unter dichten Baumkronen oder kleinen Felsvorsprüngen Schutz. Die graue Adria wirkt heute besonders kraftvoll und dramatisch.\n\nAm Nachmittag führen die Pfade über glänzende Steine. Achten Sie auf den rutschigen Untergrund, während Sie die Aussicht auf die stürmische See genießen.\n\nAbends kehren Sie nach Doli zurück. Die frische, regenreine Luft ist belebend. Ein warmer Tee in Ihrer Unterkunft ist nun der perfekte Abschluss.",
+            "hu": "Kezdje a napot Doliban réteges, vízálló öltözetben. Az eső különleges, misztikus hangulatot kölcsönöz a dalmát partvidéknek. Délelőtt a nedves fenyvesek illata kíséri utazását.\n\nDélben keressen menedéket a sűrű lombok vagy sziklahajlatok alatt. A szürke Adria látványa ilyenkor rendkívül erőteljes és drámai.\n\nDélután a köves ösvények csillognak az esőtől. Ügyeljen a csúszós szakaszokra, miközben a viharos tenger morajlását hallgatja a távolból.\n\nEstére érjen vissza a faluba. Az eső utáni tiszta levegő felfrissíti a testet. Egy forró ital mellett pihenje ki a vizes, de élménydús túrát.",
+            "ro": "Începeți ziua în Doli echipat cu haine impermeabile. Ploaia oferă coastei dalmate o atmosferă mistică. Dimineața, mergeți prin păduri de pini care miros intens a prospețime.\n\nLa prânz, căutați adăpost sub coroanele dese ale copacilor. Marea Adriatică, de un gri profund, arată astăzi deosebit de puternică și dramatică.\n\nDupă-amiaza, potecile de piatră strălucesc sub ploaie. Aveți grijă la porțiunile alunecoase în timp ce admirați spectacolul valurilor care se sparg de țărm.\n\nSeara, întoarceți-vă în Doli. Aerul curat de după ploaie este revigorant. O băutură caldă la unitatea de cazare este finalul perfect pentru această zi.",
+            "en": "Start your day in Doli with waterproof gear. The rain adds a mystical touch to the Dalmatian coast. In the morning, hike through fragrant, wet pine forests.\n\nAt noon, find shelter under thick tree canopies or rock overhangs. The grey Adriatic looks particularly powerful and dramatic today.\n\nIn the afternoon, the stone paths glisten in the rain. Watch your step on slippery sections while enjoying the sound of the stormy sea.\n\nIn the evening, return to Doli. The fresh, rain-cleansed air is invigorating. A warm tea at your accommodation is the perfect end to your day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pjenak",
+                "hu": "Pjenak",
+                "ro": "Pjenak",
+                "en": "Pjenak"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die weiße Gischt der Wellen, die bei Regen besonders intensiv wirkt; tragen Sie feste Stiefel, da die Uferfelsen extrem rutschig sind.",
+                "hu": "Figyelje meg a hullámok fehér tajtékját, amely esőben még látványosabb; viseljen tapadós talpú bakancsot, mert a parti sziklák ilyenkor nagyon csúsznak.",
+                "ro": "Observați spuma albă a valurilor, care pare mai intensă pe ploaie; purtați bocanci aderenți, deoarece stâncile de pe mal sunt extrem de alunecoase.",
+                "en": "Watch the white foam of the waves, which looks more intense in the rain; wear high-grip boots as the shore rocks are extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaglavice",
+                "hu": "Zaglavice",
+                "ro": "Zaglavice",
+                "en": "Zaglavice"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel über den Hügeln erzeugt hier eine geheimnisvolle Stimmung; schützen Sie Ihre Kamera in einer wasserdichten Tasche vor der hohen Feuchtigkeit.",
+                "hu": "A dombok felett lebegő köd titokzatos hangulatot áraszt; óvja fényképezőgépét vízálló tokkal a magas páratartalom és az esőcseppek ellen.",
+                "ro": "Ceața de deasupra dealurilor creează o atmosferă misterioasă; protejați-vă camera într-o geantă impermeabilă împotriva umidității ridicate.",
+                "en": "The mist over the hills creates a mysterious atmosphere; protect your camera in a waterproof bag against the high humidity and raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradac",
+                "hu": "Gradac",
+                "ro": "Gradac",
+                "en": "Gradac"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf das stürmische Meer; suchen Sie bei starken Güssen unter den dichten Pinien am Wegrand kurzzeitig Schutz.",
+                "hu": "Élvezze a viharos tenger drámai látványát; hevesebb zápor esetén keressen rövid menedéket az út menti sűrű fenyőfák védelmező lombjai alatt.",
+                "ro": "Bucurați-vă de vederea dramatică a mării înfuriate; în caz de aversă puternică, căutați adăpost temporar sub pinii deși de la marginea drumului.",
+                "en": "Enjoy the dramatic view of the stormy sea; in case of heavy downpours, seek temporary shelter under the thick pine trees along the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Vriješac",
+                "hu": "Vriješac",
+                "ro": "Vriješac",
+                "en": "Vriješac"
+              },
+              "tip_5lang": {
+                "de": "Der Duft der nassen Kräuter ist hier besonders intensiv; halten Sie Ihr Tempo konstant, um trotz der Feuchtigkeit warm und in Bewegung zu bleiben.",
+                "hu": "A nedves gyógynövények illata itt rendkívül bódító; tartsa az ütemes tempót, hogy a nedvesség ellenére is melegen tartsa testét a mozgással.",
+                "ro": "Parfumul ierburilor umede este deosebit de intens aici; mențineți un ritm constant pentru a vă păstra corpul cald în ciuda umezelii de afară.",
+                "en": "The scent of wet herbs is particularly intense here; keep a steady pace to stay warm and active despite the damp conditions of the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Rvač",
+                "hu": "Rvač",
+                "ro": "Rvač",
+                "en": "Rvač"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie die Wolken am Horizont langsam aufreißen; halten Sie für die Rückkehr nach Doli unbedingt trockene Kleidung zum Wechseln bereit.",
+                "hu": "Nézze meg, ahogy a felhők lassan felszakadoznak a horizonton; a faluba való visszaérkezés után azonnal váltson száraz ruhára a felfázás ellen.",
+                "ro": "Urmăriți cum norii se risipesc încet la orizont; asigurați-vă că aveți haine uscate de schimb pregătite imediat ce vă întoarceți în Doli.",
+                "en": "Watch the clouds slowly breaking on the horizon; make sure to have dry clothes ready to change into as soon as you return to the village."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die Stille von Doli im Winter. Die Luft ist kristallklar und erfrischend. Vormittags wärmt Sie die milde Wintersonne bei Ihrem Spaziergang entlang der Küste.\n\nMittags reflektiert das ruhige Meer das helle Licht. Suchen Sie sich ein windgeschütztes Plätzchen für eine kurze Rast und genießen Sie die klare Weitsicht.\n\nAm Nachmittag taucht die tiefstehende Sonne die Landschaft in goldene Farben. Die kühle Brise erinnert Sie daran, die warme Mütze und Handschuhe griffbereit zu haben.\n\nGegen 17:00 Uhr beginnt der frühe Sonnenuntergang. Kehren Sie rechtzeitig zurück, bevor es spürbar kälter wird. Ein gemütlicher Abend in Doli erwartet Sie.",
+            "hu": "Fedezze fel Doli téli nyugalmát. A levegő ilyenkor kristálytiszta és frissítő. Délelőtt a szelíd téli napsütés melengeti arcát a parti sétája során.\n\nDélben a nyugodt tengerfelület visszaveri az éles fényt. Keressen egy szélvédett zugot a rövid pihenőhöz, és élvezze a tiszta tálati kilátást.\n\nDélután az alacsonyan járó nap aranyló színekbe öltözteti a tájat. A hűvös szél emlékezteti, hogy tartson magánál meleg sapkát és kesztyűt.\n\n17:00 körül már kezdődik a naplemente. Érjen vissza a szállására, mielőtt a hőmérséklet jelentősen visszaesik. Meghitt este várja Doliban.",
+            "ro": "Experimentați liniștea iernii în Doli. Aerul este deosebit de clar și revigorant. Dimineața, soarele blând de iarnă vă încălzește în timpul plimbării pe coastă.\n\nLa prânz, marea liniștită reflectă lumina puternică. Găsiți un loc ferit de vânt pentru o scurtă pauză și bucurați-vă de vizibilitatea excelentă.\n\nDupă-amiaza, soarele aflat jos la orizont scaldă peisajul în culori aurii. Briza răcoroasă vă amintește să aveți la îndemână căciula și mănușile.\n\nÎn jurul orei 17:00 începe apusul timpuriu. Întoarceți-vă la timp, înainte ca temperatura să scadă brusc. O seară confortabilă vă așteaptă în Doli.",
+            "en": "Experience the silence of Doli in winter. The air is crystal clear and refreshing. In the morning, the mild winter sun warms you during your coastal walk.\n\nAt noon, the calm sea reflects the bright light. Find a wind-sheltered spot for a short break and enjoy the clear panoramic views.\n\nIn the afternoon, the low sun bathes the landscape in golden colors. The cool breeze reminds you to keep your warm hat and gloves handy.\n\nAround 5:00 PM, the early sunset begins. Return in time before it gets noticeably colder. A cozy evening in Doli awaits you."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pjenak",
+                "hu": "Pjenak",
+                "ro": "Pjenak",
+                "en": "Pjenak"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne glitzert herrlich auf dem ruhigen Wasser; tragen Sie winddichte Kleidung, da die Bura-Winde hier sehr plötzlich auffrischen können.",
+                "hu": "A téli nap csodásan csillog a nyugodt víztükrön; viseljen szélálló ruházatot, mert a bóra szél itt váratlanul és erősen feltámadhat.",
+                "ro": "Soarele de iarnă sclipeste superb pe apa liniștită; purtați haine rezistente la vânt, deoarece vântul Bura se poate intensifica brusc aici.",
+                "en": "The winter sun sparkles beautifully on the calm water; wear windproof clothing as the Bura winds can pick up very suddenly along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaglavice",
+                "hu": "Zaglavice",
+                "ro": "Zaglavice",
+                "en": "Zaglavice"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille der Natur im Winterschlaf; starten Sie früh, um das begrenzte Tageslicht optimal für Ihre Wanderung zu nutzen.",
+                "hu": "Élvezze a téli álomba merült természet tökéletes csendjét; induljon korán, hogy a korlátozott nappali fényt maximálisan kihasználhassa a túrához.",
+                "ro": "Bucurați-vă de liniștea absolută a naturii aflate în repaus; plecați devreme pentru a profita la maximum de lumina limitată a zilei.",
+                "en": "Enjoy the absolute silence of nature in winter hibernation; start early to make the most of the limited daylight for your hike today."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradac",
+                "hu": "Gradac",
+                "ro": "Gradac",
+                "en": "Gradac"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist in der kalten Luft oft viel besser; bringen Sie eine Thermoskanne mit heißem Tee mit, um sich am Aussichtspunkt aufzuwärmen.",
+                "hu": "A tálati kilátás a hideg levegőben sokkal tisztább; hozzon magával forró teát termoszban, hogy átmelegedjen, miközben a panorámában gyönyörködik.",
+                "ro": "Vizibilitatea la distanță este adesea mult mai bună în aerul rece; aduceți un termos cu ceai fierbinte pentru a vă încălzi la punctul de belvedere.",
+                "en": "The visibility is often much clearer in the cold winter air; bring a thermos with hot tea to warm up while admiring the panoramic view."
+              }
+            },
+            {
+              "name": {
+                "de": "Vriješac",
+                "hu": "Vriješac",
+                "ro": "Vriješac",
+                "en": "Vriješac"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die immergrünen Pflanzen der Region; der niedrige Sonnenstand bietet den ganzen Tag über ideales Licht für beeindruckende Landschaftsfotos.",
+                "hu": "Csodálja meg a régió örökzöld növényeit; az alacsony napállás egész nap tökéletes fényeket biztosít a lenyűgöző tájképek készítéséhez.",
+                "ro": "Admirați plantele mereu verzi ale regiunii; poziția joasă a soarelui oferă o lumină ideală pentru fotografii de peisaj reușite pe tot parcursul zilei.",
+                "en": "Admire the evergreen plants of the region; the low sun angle provides ideal lighting all day long for impressive landscape photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Rvač",
+                "hu": "Rvač",
+                "ro": "Rvač",
+                "en": "Rvač"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das goldene Licht kurz vor dem frühen Sonnenuntergang; planen Sie Ihren Rückweg so, dass Sie vor Einbruch der Dunkelheit wieder ankommen.",
+                "hu": "Figyelje meg az aranyló fényeket közvetlenül a korai naplemente előtt; tervezze úgy a visszautat, hogy sötétedés előtt biztosan megérkezzen.",
+                "ro": "Observați lumina aurie chiar înainte de apusul timpuriu; planificați-vă întoarcerea astfel încât să ajungeți la destinație înainte de lăsarea întunericului.",
+                "en": "Watch the golden light just before the early sunset; plan your return journey to ensure you arrive back before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa útját Prijšnica rejtett forrásainál, mielőtt Pjenak hívogató, zöld oázisa felé gurulna.\n\nA dél Zaglavice és Blizna zord, sziklás terepeire viszi Önt egy közelebbi pillantásra a természet munkájára.\n\nAz Oštrikovac délutáni megmászása és felfedezése horizontot átfogó, varázslatos kilátással jutalmazza.\n\nFejezze be a napot Gradacnál, kényelmesen magába szívva a völgy feletti utolsó, késői napfényt.",
         "ro": "Începeți plimbarea la izvoarele ascunse din Prijšnica înainte de a coborî spre frumoasa oază verde Pjenak.\n\nAmiaza vă aduce pe terenurile accidentate din Zaglavice și printre formațiunile stâncoase din Blizna.\n\nUrcușul de după-amiază pe dealul Oštrikovac vă răsplătește cu perspective panoramice de neuitat.\n\nÎncheiați ziua liniștit la Gradac, bucurându-vă de lumina târzie a soarelui deasupra văii adânci.",
         "en": "Kick off your ride at the hidden springs of Prijšnica before coasting towards the green oasis of Pjenak.\n\nMidday brings you to the rugged rocky terrains of Zaglavice and Blizna for a closer look at nature's sculpting.\n\nThe short afternoon climb up to Oštrikovac rewards your pedaling efforts with horizon-spanning scenic vistas.\n\nEnd the day peacefully at Gradac, soaking in the late golden sunlight as it sets over the valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen um Doli erfordert Vorsicht, bietet aber ein erfrischendes Erlebnis. Starten Sie vormittags mit guter Regenbekleidung. Die Straßen sind leer und die Luft ist staubfrei.\n\nMittags können Sie an überdachten Aussichtspunkten pausieren. Die nassen Felsen und das dunkle Meer bilden eine beeindruckende Kulisse für Ihre Tour.\n\nAm Nachmittag fordern Sie die Steigungen heraus, die Sie bei kühleren Temperaturen leichter bewältigen. Achten Sie auf Kurven, da der Asphalt bei Nässe glatt sein kann.\n\nAbends erreichen Sie Doli, zufrieden über die sportliche Leistung. Eine heiße Dusche und trockene Kleidung sind jetzt genau das Richtige nach einem Tag im Sattel.",
+            "hu": "A kerékpározás esőben Doliban óvatosságot igényel, de frissítő élményt nyújt. Kezdje a délelőttöt jó minőségű esőruházatban. Az utak üresek, a levegő pormentes.\n\nDélben álljon meg egy-egy fedett kilátópontnál pihenni. A vizes sziklák és a sötét tenger látványa lenyűgöző díszletet ad a tekeréshez.\n\nDélután a hűvösebb időben könnyebben küzdi le az emelkedőket. A kanyarokban legyen nagyon óvatos, mert az aszfalt nedvesen rendkívül csúszós lehet.\n\nEstére érjen vissza Doliba, elégedetten a sportteljesítménnyel. Egy forró zuhany és a száraz ruhák jelentik majd a nap méltó lezárását.",
+            "ro": "Ciclismul pe ploaie în jurul satului Doli necesită prudență, dar oferă o experiență revigorantă. Începeți dimineața cu echipament de ploaie bun. Drumurile sunt libere și aerul fără praf.\n\nLa prânz, puteți face pauze la punctele de belvedere acoperite. Stâncile umede și marea întunecată formează un decor impresionant pentru turul dumneavoastră.\n\nDupă-amiaza, abordați pantele pe care le urcați mai ușor la temperaturi scăzute. Atenție în curbe, deoarece asfaltul poate fi alunecos când este ud.\n\nSeara, ajungeți în Doli, mulțumit de efortul fizic depus. Un duș fierbinte și haine uscate sunt exact ce aveți nevoie după o zi în șa.",
+            "en": "Cycling in the rain around Doli requires caution but offers a refreshing experience. Start your morning with high-quality rain gear. The roads are empty and the air is dust-free.\n\nAt noon, take breaks at covered viewpoints. The wet rocks and dark sea provide an impressive backdrop for your ride.\n\nIn the afternoon, tackle the climbs more easily in the cooler temperatures. Be careful in corners, as the asphalt can be very slippery when wet.\n\nIn the evening, reach Doli, satisfied with your athletic performance. A hot shower and dry clothes are exactly what you need after a day in the saddle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Prijšnica",
+                "hu": "Prijšnica",
+                "ro": "Prijšnica",
+                "en": "Prijšnica"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet auch bei Nieselregen eine frische Brise; reduzieren Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
+                "hu": "A parti út szitáló esőben is friss szellőt kínál; csökkentse kissé a guminyomást a jobb tapadás érdekében a nedves aszfalton és köveken.",
+                "ro": "Drumul de coastă oferă o briză proaspătă chiar și pe burniță; reduceți ușor presiunea în anvelope pentru o aderență mai bună pe asfaltul ud.",
+                "en": "The coastal road offers a fresh breeze even in drizzle; slightly reduce your tire pressure for better grip on the wet asphalt and stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Pjenak",
+                "hu": "Pjenak",
+                "ro": "Pjenak",
+                "en": "Pjenak"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung, die heute besonders wild wirkt; Schutzbleche am Rad sind heute unverzichtbar, um den Rücken trocken zu halten.",
+                "hu": "Nézze meg a hullámtörést, amely ma különösen vadnak tűnik; a sárvédő ma elengedhetetlen, hogy hátát szárazon tartsa tekerés közben.",
+                "ro": "Observați valurile care par deosebit de sălbatice astăzi; apărătorile de noroi sunt indispensabile pentru a vă menține spatele uscat.",
+                "en": "Watch the surf, which looks particularly wild today; mudguards on your bike are essential today to keep your back dry while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaglavice",
+                "hu": "Zaglavice",
+                "ro": "Zaglavice",
+                "en": "Zaglavice"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg wird Sie trotz der Feuchtigkeit warm halten; seien Sie bei der Abfahrt extrem vorsichtig, da die Bremsen verzögert reagieren können.",
+                "hu": "Az emelkedő a nedvesség ellenére is melegen tartja; legyen rendkívül óvatos a lejtőn, mert a fékek reakcióideje megnőhet a vizes felnin.",
+                "ro": "Urcarea vă va menține cald în ciuda umezelii; fiți extrem de prudenți la coborâre, deoarece frânele pot reacționa cu întârziere.",
+                "en": "The climb will keep you warm despite the dampness; be extremely cautious on the descent as brakes may have a delayed response when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Blizna",
+                "hu": "Blizna",
+                "ro": "Blizna",
+                "en": "Blizna"
+              },
+              "tip_5lang": {
+                "de": "Navigieren Sie durch die neblige, grün-graue Landschaft; nutzen Sie Ihr Rücklicht für bessere Sichtbarkeit bei den trüben Wetterverhältnissen.",
+                "hu": "Navigáljon a ködös, szürkészöld tájon keresztül; használja a hátsó lámpáját a jobb láthatóság érdekében a borongós időjárási viszonyok között.",
+                "ro": "Navigați prin peisajul cețos, de un verde-gri; folosiți stopul de la bicicletă pentru o mai bună vizibilitate în condiții de vreme mohorâtă.",
+                "en": "Navigate through the misty, green-grey landscape; use your rear light for better visibility in the gloomy weather conditions this afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštrikovac",
+                "hu": "Oštrikovac",
+                "ro": "Oštrikovac",
+                "en": "Oštrikovac"
+              },
+              "tip_5lang": {
+                "de": "Dieser Aussichtspunkt wirkt unter dunklen Wolken sehr dramatisch; stecken Sie Ihr Smartphone in eine wasserdichte Klarsichthülle für die Navigation.",
+                "hu": "Ez a kilátópont sötét felhők alatt nagyon drámai hatást kelt; tegye okostelefonját vízálló tokba a navigációhoz és a fotózáshoz.",
+                "ro": "Acest punct de belvedere arată dramatic sub norii negri; puneți-vă smartphone-ul într-o husă impermeabilă transparentă pentru navigare.",
+                "en": "This viewpoint looks very dramatic under dark clouds; place your smartphone in a waterproof transparent case for navigation and photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradac",
+                "hu": "Gradac",
+                "ro": "Gradac",
+                "en": "Gradac"
+              },
+              "tip_5lang": {
+                "de": "Rollen Sie vorsichtig zurück in Richtung Küste; der Duft der nassen mediterranen Macchia ist die Belohnung für die heutige Regenfahrt.",
+                "hu": "Guruljon vissza óvatosan a part felé; a nedves mediterrán bozótos illata a jutalom a mai esős, de sportos kerékpáros túráért.",
+                "ro": "Coborâți cu grijă spre coastă; parfumul tufișurilor mediteraneene umede este recompensa pentru tura de astăzi prin ploaie.",
+                "en": "Roll back carefully towards the coast; the scent of the wet Mediterranean scrub is the reward for today's rainy cycling adventure."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klaren Wintertage in Doli sind perfekt für Radtouren ohne Sommerhitze. Vormittags starten Sie in Schichten mit Handschuhen und Stirnband gegen den Fahrtwind.\n\nMittags genießen Sie die helle Sonne, die Kraft spendet. Da die Luft trocken ist, haben Sie eine fantastische Sicht auf die fernen Inseln der Adria.\n\nAm Nachmittag führt die Route durch ruhige Täler. Planen Sie Ihre Anstiege so, dass Sie in Bewegung bleiben und nicht auskühlen, während die Schatten länger werden.\n\nGegen 16:30 Uhr sollten Sie den Rückweg antreten. Das Licht wird weich und die Temperaturen sinken rasch. Beenden Sie die Tour rechtzeitig vor der Dämmerung.",
+            "hu": "A tiszta téli napok Doliban tökéletesek a kerékpározáshoz a nyári hőség nélkül. Délelőtt rétegesen öltözzön, kesztyűvel és fejpánttal a menetszél ellen.\n\nDélben élvezze a ragyogó napsütést, amely ilyenkor is ad némi energiát. A száraz levegőnek köszönhetően fantasztikus kilátás nyílik a távoli szigetekre.\n\nDélután az út csendes völgyeken vezet keresztül. Úgy tervezze az emelkedőket, hogy folyamatosan mozgásban maradjon és ne hűljön ki, ahogy nyúlnak az árnyékok.\n\n16:30 körül érdemes megkezdeni a visszautat. A fények lágyulnak, a hőmérséklet pedig gyorsan esik. Fejezze be a túrát még a szürkület beállta előtt.",
+            "ro": "Zilele senine de iarnă în Doli sunt perfecte pentru ciclism, fără arșița verii. Dimineața, porniți îmbrăcat în straturi, cu mănuși și bentiță contra vântului.\n\nLa prânz, bucurați-vă de soarele strălucitor care vă dă energie. Deoarece aerul este uscat, aveți o vedere fantastică spre insulele îndepărtate.\n\nDupă-amiaza, traseul trece prin văi liniștite. Planificați urcările astfel încât să rămâneți în mișcare și să nu vă răciți, pe măsură ce umbrele se lungesc.\n\nÎn jurul orei 16:30, ar trebui să porniți înapoi. Lumina devine difuză, iar temperaturile scad rapid. Încheiați turul înainte de lăsarea serii.",
+            "en": "Clear winter days in Doli are perfect for cycling without the summer heat. In the morning, dress in layers with gloves and a headband against the wind.\n\nAt noon, enjoy the bright sun that gives you energy. Since the air is dry, you have a fantastic view of the distant Adriatic islands.\n\nIn the afternoon, the route leads through quiet valleys. Plan your climbs to stay in motion and avoid getting chilled as the shadows grow longer.\n\nAround 4:30 PM, you should start heading back. The light softens and temperatures drop quickly. Finish the tour well before twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Prijšnica",
+                "hu": "Prijšnica",
+                "ro": "Prijšnica",
+                "en": "Prijšnica"
+              },
+              "tip_5lang": {
+                "de": "Die Luft ist extrem klar, was die Inseln in der Ferne nah erscheinen lässt; schützen Sie Ihre Hände mit Thermohandschuhen vor dem kalten Fahrtwind.",
+                "hu": "A levegő rendkívül tiszta, így a távoli szigetek is közelinek tűnnek; védje kezeit termokesztyűvel a hideg menetszél ellen tekerés közben.",
+                "ro": "Aerul este extrem de clar, făcând ca insulele din depărtare să pară aproape; protejați-vă mâinile cu mănuși termice împotriva vântului rece.",
+                "en": "The air is exceptionally clear, making distant islands appear close; protect your hands with thermal gloves against the cold wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Pjenak",
+                "hu": "Pjenak",
+                "ro": "Pjenak",
+                "en": "Pjenak"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um Wintervögel an der Küste zu beobachten; halten Sie Ihren Puls hoch, um die Körperwärme in den offenen Abschnitten zu bewahren.",
+                "hu": "Csendes hely a parti téli madarak megfigyeléséhez; tartsa magasan a pulzusát, hogy megőrizze teste melegét a nyílt, szeles szakaszokon.",
+                "ro": "Un loc liniștit pentru a observa păsările de iarnă de pe coastă; mențineți pulsul ridicat pentru a păstra căldura corpului pe secțiunile deschise.",
+                "en": "A peaceful spot to observe winter birds along the shore; keep your heart rate up to maintain body heat while pedaling through open sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaglavice",
+                "hu": "Zaglavice",
+                "ro": "Zaglavice",
+                "en": "Zaglavice"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist bei der Auffahrt im Gesicht sehr angenehm; nutzen Sie atmungsaktive Kleidung, um bei Anstrengung nicht zu stark zu schwitzen.",
+                "hu": "A téli nap fénye az emelkedőn az arcába sütve nagyon kellemes; használjon légáteresztő ruházatot, hogy ne izzadjon le túlságosan a kaptatókon.",
+                "ro": "Soarele de iarnă este foarte plăcut pe față în timpul urcării; folosiți haine care permit pielii să respire pentru a nu transpira excesiv la efort.",
+                "en": "The winter sun feels wonderful on your face during the ascent; wear breathable layers to avoid excessive sweating during the physical effort."
+              }
+            },
+            {
+              "name": {
+                "de": "Blizna",
+                "hu": "Blizna",
+                "ro": "Blizna",
+                "en": "Blizna"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die leeren Straßen ohne die Hitze des Sommers; denken Sie daran, dass die Schatten früh lang werden und planen Sie das Ende der Tour ein.",
+                "hu": "Fedezze fel az üres utakat a nyári forróság és forgalom nélkül; ne feledje, hogy az árnyékok korán megnyúlnak, így tervezze meg a túra végét.",
+                "ro": "Explorați drumurile libere fără arșița verii; rețineți că umbrele devin lungi foarte devreme și planificați încheierea turului în consecință.",
+                "en": "Explore the empty roads without the summer heat or traffic; remember that shadows grow long early, so plan to finish your ride by 4:00 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštrikovac",
+                "hu": "Oštrikovac",
+                "ro": "Oštrikovac",
+                "en": "Oštrikovac"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Wind halten Sie den Lenker fest umschlossen; die karge Schönheit der Kalksteinfelsen kommt im Winterlicht besonders gut zur Geltung.",
+                "hu": "Erős szél esetén fogja szorosan a kormányt ezen a nyitott ponton; a mészkősziklák zord szépsége a téli fényben érvényesül a legjobban.",
+                "ro": "În caz de vânt puternic, țineți bine ghidonul; frumusețea austeră a stâncilor calcaroase este evidențiată cel mai bine de lumina iernii.",
+                "en": "Hold your handlebars firmly if there are strong winds here; the stark beauty of the limestone rocks is most apparent in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradac",
+                "hu": "Gradac",
+                "ro": "Gradac",
+                "en": "Gradac"
+              },
+              "tip_5lang": {
+                "de": "Die letzte Etappe bietet einen Blick auf den Sonnenuntergang; stellen Sie sicher, dass Ihre Fahrradlichter für die kurze Dämmerung voll geladen sind.",
+                "hu": "Az utolsó szakasz pazar kilátást nyújt a naplementére; győződjön meg róla, hogy a kerékpárlámpák fel vannak töltve a rövid szürkületi úthoz.",
+                "ro": "Ultima etapă oferă o vedere spre apus; asigurați-vă că luminile bicicletei sunt încărcate pentru scurta deplasare prin amurg înapoi spre sat.",
+                "en": "The final stretch offers a view of the sunset; ensure your bike lights are fully charged for the short twilight ride back to the village."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Utazása a reggeli hullámokkal és a Plaža Pržina gyönyörű, aranyhomokos partjával kezdődik.\n\nA dél Pologrina vad, mediterrán illatai, valamint Prijšnica és Rvač mély, árnyékos nyugalma felé fordul.\n\nA délutáni festői autózások Vriješac lombjai és a Gradac lenyűgöző, szeles magaslatai közé vezetnek.\n\nZárja a napot Oštrikovacnál, ahol a lenyugvó nap lágy színekkel festi meg az eget a távoli csúcsok felett.",
         "ro": "Călătoria începe relaxant cu valurile dimineții și nisipurile aurii primitoare de la Plaža Pržina.\n\nAmiaza face tranziția către parfumurile sălbatice din Pologrina și liniștea profundă din Prijšnica și Rvač.\n\nPlimbările pitorești de după-amiază cu mașina vă poartă prin frunzișul din Vriješac și pe înălțimile de la Gradac.\n\nÎncheiați turul la Oštrikovac, unde soarele care apune pictează treptat întregul cer în culori calde.",
         "en": "Your journey begins with the refreshing morning waves and warm golden sands at Plaža Pržina.\n\nMidday gracefully transitions to the wild, herbaceous scents of Pologrina and the deep tranquility of Prijšnica and Rvač.\n\nAfternoon scenic drives take you smoothly through the vibrant foliage of Vriješac and the impressive heights of Gradac.\n\nConclude at the viewpoint of Oštrikovac, where the setting sun beautifully paints the sky over the distant landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt bei Regen rund um Doli ist sicher und gemütlich. Starten Sie vormittags und genießen Sie die Aussicht durch die saubere Windschutzscheibe auf die graue See.\n\nMittags können Sie die dramatische Brandung direkt vom Wagen aus beobachten. Die Küstenstraße wirkt heute einsam und fast melancholisch.\n\nAm Nachmittag erkunden Sie die Bergstraßen. Das Grün der Vegetation wirkt im Regen besonders satt. Halten Sie an den Aussichtspunkten für kurze Fotostopps mit dem Regenschirm.\n\nAbends kehren Sie nach Doli zurück. Die Straßenlaternen spiegeln sich im nassen Asphalt und erzeugen ein schönes Lichtspiel. Ein entspannter Tag geht zu Ende.",
+            "hu": "Egy esős autós kirándulás Doli környékén biztonságos és kényelmes program. Kezdje a délelőttöt, és élvezze a kilátást a szürke tengerre az ablaktörlők mögül.\n\nDélben figyelje meg a drámai hullámtörést közvetlenül az autóból. A parti út ma magányosnak és szinte melankolikusnak tűnik.\n\nDélután fedezze fel a hegyi utakat. A növényzet zöldje esőben különösen teltnek és élénknek hat. Álljon meg a kilátópontoknál rövid, esernyős fotószünetekre.\n\nEstére érjen vissza Doliba. Az utcai lámpák fénye megcsillan a vizes aszfalton, különleges hangulatot teremtve. Egy pihentető nap ér véget.",
+            "ro": "O plimbare cu mașina pe ploaie în jurul satului Doli este sigură și confortabilă. Începeți dimineața și admirați marea gri prin parbrizul curat.\n\nLa prânz, puteți observa valurile dramatice direct din mașină. Drumul de coastă pare astăzi pustiu și aproape melancolic.\n\nDupă-amiaza, explorați drumurile montane. Verdele vegetației pare deosebit de intens în ploaie. Opriți la punctele de belvedere pentru scurte fotografii cu umbrela.\n\nSeara, întoarceți-vă în Doli. Luminile stradale se reflectă în asfaltul ud, creând un joc de lumini frumos. O zi relaxantă se încheie.",
+            "en": "A rainy drive around Doli is safe and cozy. Start your morning and enjoy the view of the grey sea through your clean windshield.\n\nAt noon, you can watch the dramatic surf directly from your car. The coastal road feels lonely and almost melancholic today.\n\nIn the afternoon, explore the mountain roads. The greenery looks particularly lush and vibrant in the rain. Stop at viewpoints for quick photo opportunities with your umbrella.\n\nIn the evening, return to Doli. The streetlights reflect in the wet asphalt, creating a beautiful play of light. A relaxed day comes to an end."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaža Pržina",
+                "hu": "Plaža Pržina",
+                "ro": "Plaža Pržina",
+                "en": "Plaža Pržina"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Meeresbrandung sicher aus Ihrem Fahrzeug; der leere Strand wirkt im Regen poetisch, bleiben Sie aber auf befestigten Wegen.",
+                "hu": "Figyelje a tenger morajlását biztonságban az autóból; az üres strand esőben költői látványt nyújt, de a sár elkerülése érdekében maradjon a kövezett úton.",
+                "ro": "Observați valurile mării în siguranță din vehicul; plaja pustie arată poetic în ploaie, dar rămâneți pe drumurile pavate pentru a evita noroiul.",
+                "en": "Watch the storm surge safely from your vehicle; the empty beach looks poetic in the rain, but stay on paved areas to avoid getting stuck in mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Pologrina",
+                "hu": "Pologrina",
+                "ro": "Pologrina",
+                "en": "Pologrina"
+              },
+              "tip_5lang": {
+                "de": "Die umliegenden Hügel sind heute oft wolkenverhangen; nutzen Sie bei schlechter Sicht die Nebelscheinwerfer für eine sicherere Fahrt entlang der Küste.",
+                "hu": "A környező dombokat ma gyakran felhők borítják; rossz látási viszonyok esetén használja a ködfényszórót a biztonságosabb parti autózáshoz.",
+                "ro": "Dealurile din jur sunt adesea acoperite de nori astăzi; folosiți proiectoarele de ceață pentru o conducere mai sigură în condiții de vizibilitate redusă.",
+                "en": "The surrounding hills are often shrouded in low clouds today; use your fog lights if visibility drops for a safer drive along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Prijšnica",
+                "hu": "Prijšnica",
+                "ro": "Prijšnica",
+                "en": "Prijšnica"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprung aus dem Auto zum Aussichtspunkt lohnt sich; halten Sie einen Regenschirm in der Seitentür für diese kurzen Stopps im Freien bereit.",
+                "hu": "Érdemes egy pillanatra kiszállni a kilátópontnál; tartson esernyőt az oldalajtóban az ilyen rövid, szabadtéri megállókhoz a fotózás idejére.",
+                "ro": "O scurtă oprire la punctul de belvedere merită efortul; țineți o umbrelă la îndemână în portieră pentru aceste scurte ieșiri în aer liber.",
+                "en": "A quick dash to the viewpoint is worth it for the photos; keep an umbrella handy in the side door for these short outdoor stops during the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Rvač",
+                "hu": "Rvač",
+                "ro": "Rvač",
+                "en": "Rvač"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Steinmauern leuchten in kräftigen Farben; fahren Sie auf den schmalen Straßen besonders vorsichtig, da Ausweichmanöver bei Nässe schwieriger sind.",
+                "hu": "A vizes kőfalak színe ilyenkor mélyebb és élénkebb; vezessen óvatosan a szűk utakon, mert a nedves útpadkán nehezebb a félreállás és a manőverezés.",
+                "ro": "Zidurile de piatră umede strălucesc în culori intense; conduceți cu atenție pe drumurile înguste, deoarece manevrele de evitare sunt mai dificile pe ud.",
+                "en": "The wet stone walls take on a deep, rich color; drive slowly on the narrow roads as passing other cars requires more careful maneuvering when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Vriješac",
+                "hu": "Vriješac",
+                "ro": "Vriješac",
+                "en": "Vriješac"
+              },
+              "tip_5lang": {
+                "de": "Der Regen bringt die erdigen Düfte der Macchia hervor; lassen Sie die Heizung leicht laufen, um das Beschlagen der Scheiben während der Fahrt zu verhindern.",
+                "hu": "Az eső előhozza a mediterrán bozótos földes illatát; járassa a fűtést alacsony fokozaton, hogy elkerülje a szélvédő párásodását út közben.",
+                "ro": "Ploaia scoate la iveală mirosurile pământii ale tufișurilor; lăsați căldura pornită la nivel mic pentru a preveni aburirea geamurilor în timpul mersului.",
+                "en": "The rain brings out the earthy scents of the scrub; keep the heater on low to prevent the windows from fogging up during your journey today."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradac",
+                "hu": "Gradac",
+                "ro": "Gradac",
+                "en": "Gradac"
+              },
+              "tip_5lang": {
+                "de": "Die hohe Position bietet einen tollen Blick auf das Unwetter; warten Sie auf eine Regenpause, bevor Sie für das perfekte Panorama-Foto aussteigen.",
+                "hu": "A magaslati pontról kiváló rálátás nyílik a viharra; várjon meg egy rövidebb esőszünetet, mielőtt kiszállna a tökéletes panorámakép elkészítéséhez.",
+                "ro": "Poziția înaltă oferă o vedere excelentă asupra furtunii; așteptați o pauză în ploaie înainte de a coborî pentru fotografia panoramică perfectă.",
+                "en": "The high vantage point offers a unique perspective on the storm; wait for a break in the clouds before stepping out to capture the dramatic coastline."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštrikovac",
+                "hu": "Oštrikovac",
+                "ro": "Oštrikovac",
+                "en": "Oštrikovac"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Regenfahrt mit dem Blick ins neblige Tal; die Lichtstimmung ändert sich bei Regen ständig und bietet tolle Fotomotive.",
+                "hu": "Zárja az esős autózást a ködös völgy látványával; a fényviszonyok esőben folyamatosan változnak, így mindig más arcát mutatja a táj.",
+                "ro": "Încheiați plimbarea cu o vedere spre valea cețoasă; condițiile de lumină se schimbă constant pe ploaie, oferind motive fotografice deosebite.",
+                "en": "End your rainy drive with a panoramic view of the misty valley; the transition of light through rain clouds creates a constantly changing landscape."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine entspannte Winterfahrt durch die klare dalmatinische Luft. Vormittags wärmt die Sonne den Innenraum Ihres Wagens, während Sie die Küste entlangfahren.\n\nMittags ist die Sicht am besten. Die Adria leuchtet tiefblau und die Kalkfelsen strahlen im hellen Winterlicht. Ein idealer Tag für weite Panoramen.\n\nAm Nachmittag erkunden Sie die Dörfer und Aussichtspunkte. Haben Sie immer eine warme Jacke griffbereit, wenn Sie für Fotos aus dem gemütlich geheizten Auto steigen.\n\nGegen 16:30 Uhr sinkt die Sonne und taucht alles in warmes Licht. Beenden Sie die Fahrt rechtzeitig, bevor es nach Sonnenuntergang spürbar kälter wird.",
+            "hu": "Élvezze a pihentető téli autózást a kristálytiszta dalmát levegőben. Délelőtt a nap melengeti az autó belterét, miközben a tengerpart mentén halad.\n\nDélben a legjobb a látótávolság. Az Adria mélykék színben pompázik, a mészkősziklák pedig fehéren ragyognak a téli fényben. Ideális nap a panorámákhoz.\n\nDélután fedezze fel a falvakat és kilátópontokat. Mindig tartson kéznél egy meleg kabátot, amikor kiszáll a fűtött autóból fotózni vagy sétálni.\n\n16:30 körül a nap már alacsonyan jár, és mindent meleg fénybe von. Fejezze be a kirándulást időben, mielőtt napnyugta után jelentősen lehűl a levegő.",
+            "ro": "Bucurați-vă de o plimbare relaxantă cu mașina prin aerul clar de iarnă. Dimineața, soarele încălzește interiorul mașinii în timp ce conduceți de-a lungul coastei.\n\nLa prânz, vizibilitatea este maximă. Marea Adriatică strălucește în albastru profund, iar stâncile calcaroase radiază în lumina iernii. O zi ideală pentru panorame.\n\nDupă-amiaza, explorați satele și punctele de belvedere. Aveți mereu o jachetă caldă la îndemână când coborâți din mașina încălzită pentru fotografii.\n\nÎn jurul orei 16:30, soarele coboară și scaldă totul într-o lumină caldă. Încheiați călătoria la timp, înainte ca temperatura să scadă după apus.",
+            "en": "Enjoy a relaxed winter drive through the clear Dalmatian air. In the morning, the sun warms the car's interior while you drive along the scenic coast.\n\nAt noon, the visibility is at its best. The Adriatic glows deep blue and the limestone rocks shine in the bright winter light. An ideal day for panoramas.\n\nIn the afternoon, explore the villages and viewpoints. Always have a warm jacket ready when you step out of the heated car for photos or short walks.\n\nAround 4:30 PM, the sun sets and bathes everything in warm light. Finish your drive in time before it gets noticeably colder after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plaža Pržina",
+                "hu": "Plaža Pržina",
+                "ro": "Plaža Pržina",
+                "en": "Plaža Pržina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit der Küste ohne Sommertouristen; die Wintersonne steht tief, halten Sie daher Ihre Sonnenbrille gegen Reflexionen bereit.",
+                "hu": "Élvezze a tengerparti magányt a nyári turisták nélkül; a téli nap alacsonyan jár, ezért tartsa kéznél napszemüvegét az erős tükröződések ellen.",
+                "ro": "Bucurați-vă de singurătatea coastei fără turiștii de vară; soarele de iarnă este jos, așa că aveți ochelarii de soare pregătiți împotriva reflexiilor.",
+                "en": "Enjoy the solitude of the coast without the summer crowds; the winter sun is low, so keep your sunglasses ready for the bright reflections on the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Pologrina",
+                "hu": "Pologrina",
+                "ro": "Pologrina",
+                "en": "Pologrina"
+              },
+              "tip_5lang": {
+                "de": "Die Landschaft ist still und die Luft erfrischend klar; lassen Sie eine warme Jacke griffbereit auf dem Rücksitz, wenn Sie für die Aussicht kurz aussteigen.",
+                "hu": "A táj csendes, a levegő pedig frissítően tiszta; tartson egy meleg kabátot a hátsó ülésen, hogy gyorsan felvehesse, amikor kiszáll megcsodálni a kilátást.",
+                "ro": "Peisajul este liniștit și aerul revigorant de clar; lăsați o jachetă caldă la îndemână pe bancheta din spate când coborâți pentru a admira vederea.",
+                "en": "The landscape is quiet and the air is refreshingly clear; keep a warm jacket handy in the back seat for when you step out to admire the view today."
+              }
+            },
+            {
+              "name": {
+                "de": "Prijšnica",
+                "hu": "Prijšnica",
+                "ro": "Prijšnica",
+                "en": "Prijšnica"
+              },
+              "tip_5lang": {
+                "de": "Exzellente Sichtweiten erlauben heute Blicke weit entlang der Küste; achten Sie auf Bura-Windwarnungen, die die Fahrstabilität Ihres Wagens beeinflussen können.",
+                "hu": "A kiváló látótávolság ma messzi kilátást tesz lehetővé a part mentén; figyelje a bóra szélre vonatkozó figyelmeztetéseket, amelyek érinthetik az autó stabilitását.",
+                "ro": "Vizibilitatea excelentă permite astăzi vederi lungi de-a lungul coastei; atenție la avertizările de vânt Bura care pot afecta stabilitatea mașinii.",
+                "en": "Excellent visibility today allows you to see far along the coast; check for Bura wind warnings which can affect driving stability on exposed road sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Rvač",
+                "hu": "Rvač",
+                "ro": "Rvač",
+                "en": "Rvač"
+              },
+              "tip_5lang": {
+                "de": "Das niedrige Winterlicht hebt die Texturen der alten Steinterrassen hervor; ideal für Fotografie ohne das harte Mittagslicht des Sommers.",
+                "hu": "Az alacsony téli napfény kiemeli a régi kőteraszok textúráját; ez a legjobb időszak a fotózáshoz a nyári vakító déli napsütés hiányában.",
+                "ro": "Lumina joasă a iernii evidențiază texturile vechilor terase de piatră; este un moment ideal pentru fotografie fără lumina puternică de la prânz.",
+                "en": "The low winter light highlights the textures of the ancient stone terraces; this is a great time for photography without the harsh midday summer sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Vriješac",
+                "hu": "Vriješac",
+                "ro": "Vriješac",
+                "en": "Vriješac"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang in der kühlen Luft; die Farben von Fels und Meer sind im Winterlicht überraschend lebendig und klar.",
+                "hu": "Tegyen egy rövid sétát a friss, hűvös levegőn; a sziklák és a tenger természetes színei meglepően élénkek és tiszták a téli fényviszonyok között.",
+                "ro": "Faceți o scurtă plimbare în aerul răcoros și curat; culorile stâncilor și ale mării sunt surprinzător de vii în lumina de iarnă.",
+                "en": "Take a short walk to stretch your legs in the cool, clean air; the natural colors of the rocks and sea are surprisingly vivid in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Gradac",
+                "hu": "Gradac",
+                "ro": "Gradac",
+                "en": "Gradac"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den frühen Winter-Sonnenuntergang; bringen Sie ein warmes Getränk im Thermobecher mit, um die Farben gemütlich zu genießen.",
+                "hu": "Tökéletes hely a korai téli naplemente megtekintéséhez; hozzon magával meleg italt egy termoszban, hogy kényelmesen élvezhesse az égbolt színeit.",
+                "ro": "Locul perfect pentru a urmări apusul timpuriu de iarnă; aduceți o băutură caldă într-o cană termică pentru a vă bucura confortabil de culori.",
+                "en": "A perfect spot to watch the early winter sunset over the sea; bring a warm drink in a travel mug to stay cozy while you wait for the evening colors."
+              }
+            },
+            {
+              "name": {
+                "de": "Oštrikovac",
+                "hu": "Oštrikovac",
+                "ro": "Oštrikovac",
+                "en": "Oštrikovac"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Stopp bietet einen tollen Blick auf die dämmernde Landschaft; kehren Sie vor dem starken Temperaturabfall nach Doli zurück.",
+                "hu": "Az utolsó megálló nagyszerű kilátást nyújt a szürkülő tájra; térjen vissza Doliba, mielőtt a hőmérséklet jelentősen visszaesne a sötétedés után.",
+                "ro": "Ultima oprire oferă o vedere panoramică asupra peisajului în amurg; întoarceți-vă în Doli înainte de scăderea bruscă a temperaturii după lăsarea serii.",
+                "en": "The final stop offers a grand view of the darkening landscape; ensure you head back to Doli before the temperature drops significantly after dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

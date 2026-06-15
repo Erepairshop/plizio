@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Beaumont-sur-Oise szívében, a történelmi városházánál, elmerülve a helyi hangulatban.\nDélben utazzon vissza az időben, miközben felfedezi a hűbéri kastély középkori romjait és a Saint-Laurent templom lenyűgöző gótikus boltíveit.\nDélután fedezze fel a lenyűgöző ókori gall-római amfiteátrumot, mielőtt egy festői sétát tenne az elegáns Nointel kastély felé.\nFejezze be a napot a gyönyörű birtok bejárásával, elmélkedve e csodálatos régió gazdag történelmi örökségén.",
         "ro": "Începeți-vă dimineața în inima orașului Beaumont-sur-Oise la primăria istorică, bucurându-vă de atmosfera locală.\nLa amiază, călătoriți înapoi în timp explorând ruinele medievale ale castelului feudal și arcadele gotice uimitoare ale bisericii Saint-Laurent.\nDupă-amiază, descoperiți impresionantul amfiteatru galo-roman antic, înainte de a face o plimbare spre elegantul Château de Nointel.\nÎncheiați-vă ziua plimbându-vă pe domeniul rafinat, reflectând la istoria bogată a acestei regiuni.",
         "en": "Begin your morning in the heart of Beaumont-sur-Oise at the historic town hall, soaking in the local atmosphere.\nMidday leads you back in time as you explore the medieval ruins of the feudal castle and the stunning gothic arches of Église Saint-Laurent.\nIn the afternoon, discover the impressive ancient Gallo-Roman amphitheater before enjoying a scenic walk towards the elegant Château de Nointel.\nConclude your day wandering the exquisite estate grounds, reflecting on the rich blend of medieval and ancient history of this beautiful region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Tag am Rathaus von Beaumont-sur-Oise. Mittags trotzen Sie dem Nieselregen bei den Burgruinen und suchen Schutz in der Kirche. Am Nachmittag erwartet Sie das antike Amphitheater unter dem Regenschirm. Beenden Sie den Tag mit der Erkundung des eleganten Château de Nointel und nutzen Sie dessen überdachte Bereiche.",
+            "hu": "Kezdje az esős napot Beaumont-sur-Oise városházájánál. Délben dacoljon a szitáló esővel a középkori várromoknál, majd keressen menedéket a templom falai között. Délután az ősi amfiteátrum várja az esernyője alatt. A nap végén fedezze fel a lenyűgöző Château de Nointel-t, behúzódva a fedett részek alá, miközben az eső csepereg.",
+            "ro": "Începeți ziua ploioasă la primăria din Beaumont-sur-Oise. La prânz, înfruntați ploaia măruntă la ruinele castelului și la biserică, unde vă puteți adăposti. După-amiaza, amfiteatrul antic vă așteaptă sub umbrelă. Încheiați ziua explorând elegantul Château de Nointel, refugiindu-vă în spațiile sale acoperite în timp ce plouă.",
+            "en": "Start your rainy day in Beaumont-sur-Oise at the town hall. By midday, brave the drizzle to see the medieval castle ruins and the church, finding shelter inside the latter. In the afternoon, the ancient amphitheatre awaits under your umbrella. Finish the day exploring the elegant Château de Nointel, taking refuge in its covered areas as the rain falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Beaumont-sur-Oise",
+                "hu": "Mairie de Beaumont-sur-Oise",
+                "ro": "Mairie de Beaumont-sur-Oise",
+                "en": "Mairie de Beaumont-sur-Oise"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klassische Architektur des Rathauses; bringen Sie einen stabilen Regenschirm mit, da der Platz wenig Schutz vor Regen bietet.",
+                "hu": "Csodálja meg a városháza klasszikus francia építészetét; hozzon erős esernyőt, mivel a tér kevés menedéket nyújt a zuhogó eső elől.",
+                "ro": "Admirați arhitectura franceză clasică a primăriei; aduceți o umbrelă rezistentă, deoarece piața oferă puțin adăpost împotriva ploii.",
+                "en": "Admire the classic French architecture of the town hall; bring a sturdy umbrella as the square offers little shelter from the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château féodal",
+                "hu": "Château féodal",
+                "ro": "Château féodal",
+                "en": "Château féodal"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die mittelalterlichen Ruinen auch bei Regen; tragen Sie wasserdichte Stiefel, da die Gras- und Feldwege um die Burg matschig werden.",
+                "hu": "Fedezze fel az ősi középkori romokat esőben is; viseljen vízálló bakancsot, mivel a kastély körüli füves és földes utak eléggé sárosak lesznek.",
+                "ro": "Explorați vechile ruine medievale chiar și în ploaie; purtați cizme impermeabile, deoarece potecile cu iarbă și noroi devin alunecoase.",
+                "en": "Explore the ancient medieval ruins even in the rain; wear waterproof boots as the grassy and dirt paths around the castle become quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die wunderschönen Buntglasfenster und die gotische Architektur; sie bietet den perfekten trockenen Zufluchtsort bei starkem Regen.",
+                "hu": "Csodálja meg a gyönyörű ólomüvegeket és a gótikus építészetet; tökéletes, száraz menedéket nyújt a leghevesebb esőzések átvészeléséhez.",
+                "ro": "Admirați vitraliile frumoase și arhitectura gotică; oferă un refugiu uscat perfect pentru a aștepta trecerea celor mai abundente ploi.",
+                "en": "Marvel at the beautiful stained glass and Gothic architecture; it provides a perfect dry refuge to wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaumont-sur-Oise amphitheatre",
+                "hu": "Beaumont-sur-Oise amphitheatre",
+                "ro": "Beaumont-sur-Oise amphitheatre",
+                "en": "Beaumont-sur-Oise amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die gallo-römischen Ruinen an; bleiben Sie auf den gepflasterten Aussichtspunkten, da das Becken des Amphitheaters leicht überschwemmt wird.",
+                "hu": "Tekintse meg a gall-római romokat, amelyek az ókori történelemről suttognak; maradjon a burkolt kilátópontokon, mert az amfiteátrum medencéje könnyen elárasztódik.",
+                "ro": "Vedeți ruinele galo-romane care șoptesc istoria antică; rămâneți pe punctele de belvedere pavate, deoarece bazinul vechiului amfiteatru se inundă ușor.",
+                "en": "View the Gallo-Roman ruins that whisper of ancient history; stick to the paved viewpoints, as the old amphitheatre basin floods easily."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Nointel",
+                "hu": "Château de Nointel",
+                "ro": "Château de Nointel",
+                "en": "Château de Nointel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das majestätische Äußere dieses großen Anwesens; prüfen Sie, ob Innenausstellungen geöffnet sind, um dem nassen Wetter zu entfliehen.",
+                "hu": "Élvezze e hatalmas birtok fenséges külsejét; ellenőrizze, nyitva vannak-e a benti kiállítások, hogy elkerülje az esőt, miközben élvezi a pazar történelmet.",
+                "ro": "Bucurați-vă de exteriorul maiestuos al acestei mari moșii; verificați dacă expozițiile interioare sunt deschise pentru a scăpa de vremea ploioasă.",
+                "en": "Enjoy the majestic exterior of this grand estate; check if indoor exhibits are open to escape the wet weather while enjoying the opulent history."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Wintermorgen am historischen Rathaus in der klaren Luft. Packen Sie sich mittags warm ein, um die Burg und die ruhige Kirche zu erkunden. Das Nachmittagslicht wirft lange Schatten auf das antike Amphitheater. Beenden Sie den Tag vor dem frühen Sonnenuntergang gegen 17 Uhr am majestätischen Château de Nointel.",
+            "hu": "Kezdje a téli reggelt a történelmi városházánál a csípős levegőn. Délben öltözzön melegen a középkori vár és a békés templom felfedezéséhez. A délutáni fény hosszú árnyékokat vet az ősi amfiteátrumra, ami kiváló fotótéma. Fejezze be a sétát a korai, 17 órai sötétedés előtt a fenséges Château de Nointel-nél.",
+            "ro": "Începeți dimineața de iarnă la primăria istorică, în aerul rece. La prânz, îmbrăcați-vă gros pentru a explora castelul medieval și biserica liniștită. Lumina de după-amiază creează umbre lungi peste amfiteatrul antic. Încheiați plimbarea înainte de apusul timpuriu de la ora 17:00 la maiestuosul Château de Nointel.",
+            "en": "Begin your winter morning at the historic town hall in the crisp air. At noon, bundle up to explore the medieval castle and the serene church. The afternoon light casts long shadows over the ancient amphitheatre, perfect for winter photography. Conclude before the early 5 PM sunset at the majestic Château de Nointel."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Beaumont-sur-Oise",
+                "hu": "Mairie de Beaumont-sur-Oise",
+                "ro": "Mairie de Beaumont-sur-Oise",
+                "en": "Mairie de Beaumont-sur-Oise"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die beeindruckende Fassade des Rathauses in der Winterluft; tragen Sie warme Handschuhe und einen dicken Mantel auf dem offenen Platz.",
+                "hu": "Nézze meg a városháza lenyűgöző homlokzatát a téli levegőn; viseljen meleg kesztyűt és vastag kabátot, mert a nyitott tér eléggé hideg lehet.",
+                "ro": "Vedeți fațada grandioasă a primăriei în aerul rece de iarnă; purtați mănuși calde și un palton gros, deoarece piața deschisă poate fi foarte friguroasă.",
+                "en": "See the grand town hall facade crisp in the winter air; wear warm gloves and a heavy coat as the open square can get quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Château féodal",
+                "hu": "Château féodal",
+                "ro": "Château féodal",
+                "en": "Château féodal"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die dramatischen Überreste dieser feudalen Burg im Winter; achten Sie auf eisige Stellen auf den Steinstufen und ziehen Sie sich warm an.",
+                "hu": "Fedezze fel a feudális vár drámai maradványait a téli égbolt alatt; vigyázzon a kőlépcsők jeges foltjaira, és öltözzön meleg rétegekbe.",
+                "ro": "Descoperiți rămășițele dramatice ale acestui castel feudal sub cerul de iarnă; atenție la gheața de pe treptele de piatră și îmbrăcați-vă gros.",
+                "en": "Discover the dramatic remains of this feudal castle under a winter sky; beware of icy patches on the stone steps and dress in warm layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um das historische Kirchenschiff und religiöse Kunst zu bewundern; das Steininnere ist kalt, behalten Sie Ihren Wintermantel an.",
+                "hu": "Lépjen be, és csodálja meg a történelmi hajót és a vallási művészetet; a kőbelső dermesztő lehet, így tartsa magán a télikabátot és a sálat.",
+                "ro": "Intrați pentru a admira nava istorică și arta religioasă; interiorul de piatră poate fi înghețat, așa că păstrați-vă haina de iarnă și fularul.",
+                "en": "Step inside to admire the historical nave and religious art; the stone interior can be freezing, so keep your winter coat and scarf on."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaumont-sur-Oise amphitheatre",
+                "hu": "Beaumont-sur-Oise amphitheatre",
+                "ro": "Beaumont-sur-Oise amphitheatre",
+                "en": "Beaumont-sur-Oise amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich antike Spektakel an dieser historischen Stätte vor; besuchen Sie sie am frühen Nachmittag für das beste Licht vor dem Sonnenuntergang um 17 Uhr.",
+                "hu": "Képzelje el az ókori látványosságokat ezen a történelmi helyszínen; látogasson el kora délután, hogy elcsípje a legjobb fényeket a 17 órai naplemente előtt.",
+                "ro": "Imaginați-vă spectacolele antice în acest sit istoric; vizitați la începutul după-amiezii pentru a prinde cea mai bună lumină înainte de apusul de la ora 17.",
+                "en": "Imagine ancient spectacles at this historic site; visit during the early afternoon to catch the best light before the sun sets around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Nointel",
+                "hu": "Château de Nointel",
+                "ro": "Château de Nointel",
+                "en": "Château de Nointel"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch das weitläufige Gelände des Schlosses; ziehen Sie sich sehr warm an, da der Wind über den offenen Gärten beißend kalt sein kann.",
+                "hu": "Sétáljon a kastély kiterjedt területén a csípős téli levegőn; öltözzön nagyon melegen, mivel a nyitott kerteken végigsöprő szél harapós lehet.",
+                "ro": "Plimbați-vă pe terenurile întinse ale castelului în aerul rece de iarnă; îmbrăcați-vă foarte gros, deoarece vântul care bate peste grădinile deschise este tăios.",
+                "en": "Stroll the expansive grounds of the château in the crisp winter air; dress very warmly as the wind sweeping across the open gardens is biting."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a központi városházánál, majd tekerjen a közeli ősi kastélyromokhoz, hogy átélje a város reggeli energiáját.\nA dél a történelmi csodáké: látogasson el a gyönyörű Saint-Laurent templomba és az egy rövid útra található hatalmas gall-római amfiteátrumba.\nDélután kerékpározzon el a Saint-Denis templomhoz egy csendes pillanatra, majd folytassa útját a fenséges Nointel kastély felé.\nZárja az estét egy békés utazással a Chapelle des Pères Blancs felé, élvezve a nyugodt naplementét a történelmi tájak felett.",
         "ro": "Începeți turul cu bicicleta la primăria centrală, simțind energia matinală a orașului înainte de a pedala spre ruinele antice ale castelului.\nAmiaza este rezervată minunilor istorice, vizitând frumoasa biserică Saint-Laurent și marele amfiteatru galo-roman aflat la o scurtă distanță.\nDupă-amiază, pedalați spre biserica Saint-Denis pentru un moment de liniște, apoi continuați călătoria spre maiestuosul Château de Nointel.\nÎncheiați-vă seara cu o plimbare liniștită spre Chapelle des Pères Blancs, bucurându-vă de un apus senin peste peisajele istorice.",
         "en": "Kick off your cycling tour at the central Mairie, feeling the morning energy of the city before pedaling to the nearby ancient castle ruins.\nMidday is reserved for historical marvels, visiting the beautiful Église Saint-Laurent and the grand Gallo-Roman amphitheater just a short ride away.\nIn the afternoon, cycle out towards Église Saint-Denis for a quiet moment, then continue your journey to the majestic Château de Nointel.\nWind down your evening with a peaceful ride to the Chapelle des Pères Blancs, enjoying the serene sunset over the historic landscapes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour beginnt am Rathaus. Mittags fahren Sie vorsichtig auf nassen Wegen zur Burg und Kirche und machen drinnen Pause. Nachmittags radeln Sie am Amphitheater und der Kirche Saint-Denis vorbei, achten Sie auf rutschiges Kopfsteinpflaster. Beenden Sie die Fahrt am Château de Nointel und der Kapelle.",
+            "hu": "Az esős biciklizés a városházánál indul. Délben óvatosan navigáljon a vizes utakon a várromokhoz és a templomhoz, tartson pihenőt bent. Délután tekerjen el az amfiteátrum és a Saint-Denis templom mellett, figyelve a csúszós macskakövekre. Nedves útját a Château de Nointelnél és a kápolnánál fejezze be, menedéket keresve.",
+            "ro": "O plimbare ploioasă începe la primărie. La prânz, navigați cu grijă pe aleile umede spre ruinele castelului și biserică, făcând pauze la interior. După-amiaza, pedalați pe lângă amfiteatru și biserica Saint-Denis, atenți la pietrele alunecoase. Încheiați traseul umed la Château de Nointel și Capela Părinților Albi.",
+            "en": "A rainy ride starts at the town hall. By midday, carefully navigate the wet paths to the castle ruins and church, taking breaks indoors. In the afternoon, cycle past the amphitheatre and the Saint-Denis church, keeping an eye out for slippery cobblestones. End your wet journey at Château de Nointel and the Chapelle des Pères Blancs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Beaumont-sur-Oise",
+                "hu": "Mairie de Beaumont-sur-Oise",
+                "ro": "Mairie de Beaumont-sur-Oise",
+                "en": "Mairie de Beaumont-sur-Oise"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klassische Architektur des Rathauses; bringen Sie einen stabilen Regenschirm mit, da der Platz wenig Schutz vor Regen bietet.",
+                "hu": "Csodálja meg a városháza klasszikus francia építészetét; hozzon erős esernyőt, mivel a tér kevés menedéket nyújt a zuhogó eső elől.",
+                "ro": "Admirați arhitectura franceză clasică a primăriei; aduceți o umbrelă rezistentă, deoarece piața oferă puțin adăpost împotriva ploii.",
+                "en": "Admire the classic French architecture of the town hall; bring a sturdy umbrella as the square offers little shelter from the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château féodal",
+                "hu": "Château féodal",
+                "ro": "Château féodal",
+                "en": "Château féodal"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die mittelalterlichen Ruinen auch bei Regen; tragen Sie wasserdichte Stiefel, da die Gras- und Feldwege um die Burg matschig werden.",
+                "hu": "Fedezze fel az ősi középkori romokat esőben is; viseljen vízálló bakancsot, mivel a kastély körüli füves és földes utak eléggé sárosak lesznek.",
+                "ro": "Explorați vechile ruine medievale chiar și în ploaie; purtați cizme impermeabile, deoarece potecile cu iarbă și noroi devin alunecoase.",
+                "en": "Explore the ancient medieval ruins even in the rain; wear waterproof boots as the grassy and dirt paths around the castle become quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die wunderschönen Buntglasfenster und die gotische Architektur; sie bietet den perfekten trockenen Zufluchtsort bei starkem Regen.",
+                "hu": "Csodálja meg a gyönyörű ólomüvegeket és a gótikus építészetet; tökéletes, száraz menedéket nyújt a leghevesebb esőzések átvészeléséhez.",
+                "ro": "Admirați vitraliile frumoase și arhitectura gotică; oferă un refugiu uscat perfect pentru a aștepta trecerea celor mai abundente ploi.",
+                "en": "Marvel at the beautiful stained glass and Gothic architecture; it provides a perfect dry refuge to wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaumont-sur-Oise amphitheatre",
+                "hu": "Beaumont-sur-Oise amphitheatre",
+                "ro": "Beaumont-sur-Oise amphitheatre",
+                "en": "Beaumont-sur-Oise amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die gallo-römischen Ruinen an; bleiben Sie auf den gepflasterten Aussichtspunkten, da das Becken des Amphitheaters leicht überschwemmt wird.",
+                "hu": "Tekintse meg a gall-római romokat, amelyek az ókori történelemről suttognak; maradjon a burkolt kilátópontokon, mert az amfiteátrum medencéje könnyen elárasztódik.",
+                "ro": "Vedeți ruinele galo-romane care șoptesc istoria antică; rămâneți pe punctele de belvedere pavate, deoarece bazinul vechiului amfiteatru se inundă ușor.",
+                "en": "View the Gallo-Roman ruins that whisper of ancient history; stick to the paved viewpoints, as the old amphitheatre basin floods easily."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Denis",
+                "hu": "Église Saint-Denis",
+                "ro": "Église Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses religiöse Denkmal im Regen; der Eingang bietet ein kleines Vordach, um den Regenschirm auszuschütteln, bevor Sie das Innere erkunden.",
+                "hu": "Látogassa meg ezt a bájos vallási műemléket esőben is; az ajtó kis előtetőt kínál, ahol lerázhatja az esernyőjét, mielőtt felfedezné a belsejét.",
+                "ro": "Vizitați acest monument religios fermecător pe ploaie; intrarea oferă un mic baldachin pentru a vă scutura umbrela înainte de a explora interiorul.",
+                "en": "Visit this charming religious monument in the rain; the doorway offers a small canopy to shake off your umbrella before exploring the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Nointel",
+                "hu": "Château de Nointel",
+                "ro": "Château de Nointel",
+                "en": "Château de Nointel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das majestätische Äußere dieses großen Anwesens; prüfen Sie, ob Innenausstellungen geöffnet sind, um dem nassen Wetter zu entfliehen.",
+                "hu": "Élvezze e hatalmas birtok fenséges külsejét; ellenőrizze, nyitva vannak-e a benti kiállítások, hogy elkerülje az esőt, miközben élvezi a pazar történelmet.",
+                "ro": "Bucurați-vă de exteriorul maiestuos al acestei mari moșii; verificați dacă expozițiile interioare sunt deschise pentru a scăpa de vremea ploioasă.",
+                "en": "Enjoy the majestic exterior of this grand estate; check if indoor exhibits are open to escape the wet weather while enjoying the opulent history."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pères Blancs",
+                "hu": "Chapelle des Pères Blancs",
+                "ro": "Chapelle des Pères Blancs",
+                "en": "Chapelle des Pères Blancs"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie diese ruhige, versteckte Kapelle; sie ist ein wunderbarer Ort, um dem Regen zu entkommen und eine ruhige, besinnliche Pause einzulegen.",
+                "hu": "Fedezze fel ezt a városban megbújó, csendes kápolnát; csodálatos hely, ahová behúzódhat az eső elől, és élvezhet egy csendes, elmélyült szünetet.",
+                "ro": "Descoperiți această capelă liniștită ascunsă în oraș; este un loc minunat pentru a ieși din ploaie și a vă bucura de o pauză liniștită și contemplativă.",
+                "en": "Discover this tranquil chapel tucked away in the city; it is a wonderful spot to step out of the rain and enjoy a quiet, contemplative pause."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine winterliche Radtour ab dem Rathaus warm ein. Mittags erreichen Sie die Burg und die Kirche Saint-Laurent, wo der Frost Charme verleiht. Nachmittags radeln Sie zum Amphitheater und zur Kirche Saint-Denis. Beenden Sie die Tour vor der Dunkelheit um 17 Uhr am Château de Nointel und der Kapelle.",
+            "hu": "Öltözzön fel melegen a csípős téli biciklizéshez a városházától. Délben a középkori vár és a Saint-Laurent templom fagyos bája várja. A délutáni tekerés az amfiteátrumhoz és a Saint-Denis templomhoz vezet, mielőtt a hideg igazán beállna. Fejezze be az utat a délután 17 órai sötétedés előtt a Château de Nointel-nél és a kápolnánál.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare de iarnă care începe la primărie. Prânzul vă aduce la castelul medieval și biserica Saint-Laurent, fermecătoare în ger. Pedalarea de după-amiază vă duce la amfiteatru și biserica Saint-Denis înainte de lăsarea frigului. Terminați înainte de întunericul de la ora 17 la Château de Nointel și capelă.",
+            "en": "Bundle up for a crisp winter ride starting at the town hall. Midday brings you to the medieval castle and Saint-Laurent church, where the frost adds charm. Afternoon cycling takes you to the amphitheatre and Saint-Denis church before the cold sets in deeply. Finish before the 5 PM darkness at Château de Nointel and the Chapelle des Pères Blancs."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Beaumont-sur-Oise",
+                "hu": "Mairie de Beaumont-sur-Oise",
+                "ro": "Mairie de Beaumont-sur-Oise",
+                "en": "Mairie de Beaumont-sur-Oise"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die beeindruckende Fassade des Rathauses in der Winterluft; tragen Sie warme Handschuhe und einen dicken Mantel auf dem offenen Platz.",
+                "hu": "Nézze meg a városháza lenyűgöző homlokzatát a téli levegőn; viseljen meleg kesztyűt és vastag kabátot, mert a nyitott tér eléggé hideg lehet.",
+                "ro": "Vedeți fațada grandioasă a primăriei în aerul rece de iarnă; purtați mănuși calde și un palton gros, deoarece piața deschisă poate fi foarte friguroasă.",
+                "en": "See the grand town hall facade crisp in the winter air; wear warm gloves and a heavy coat as the open square can get quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Château féodal",
+                "hu": "Château féodal",
+                "ro": "Château féodal",
+                "en": "Château féodal"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die dramatischen Überreste dieser feudalen Burg im Winter; achten Sie auf eisige Stellen auf den Steinstufen und ziehen Sie sich warm an.",
+                "hu": "Fedezze fel a feudális vár drámai maradványait a téli égbolt alatt; vigyázzon a kőlépcsők jeges foltjaira, és öltözzön meleg rétegekbe.",
+                "ro": "Descoperiți rămășițele dramatice ale acestui castel feudal sub cerul de iarnă; atenție la gheața de pe treptele de piatră și îmbrăcați-vă gros.",
+                "en": "Discover the dramatic remains of this feudal castle under a winter sky; beware of icy patches on the stone steps and dress in warm layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um das historische Kirchenschiff und religiöse Kunst zu bewundern; das Steininnere ist kalt, behalten Sie Ihren Wintermantel an.",
+                "hu": "Lépjen be, és csodálja meg a történelmi hajót és a vallási művészetet; a kőbelső dermesztő lehet, így tartsa magán a télikabátot és a sálat.",
+                "ro": "Intrați pentru a admira nava istorică și arta religioasă; interiorul de piatră poate fi înghețat, așa că păstrați-vă haina de iarnă și fularul.",
+                "en": "Step inside to admire the historical nave and religious art; the stone interior can be freezing, so keep your winter coat and scarf on."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaumont-sur-Oise amphitheatre",
+                "hu": "Beaumont-sur-Oise amphitheatre",
+                "ro": "Beaumont-sur-Oise amphitheatre",
+                "en": "Beaumont-sur-Oise amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich antike Spektakel an dieser historischen Stätte vor; besuchen Sie sie am frühen Nachmittag für das beste Licht vor dem Sonnenuntergang um 17 Uhr.",
+                "hu": "Képzelje el az ókori látványosságokat ezen a történelmi helyszínen; látogasson el kora délután, hogy elcsípje a legjobb fényeket a 17 órai naplemente előtt.",
+                "ro": "Imaginați-vă spectacolele antice în acest sit istoric; vizitați la începutul după-amiezii pentru a prinde cea mai bună lumină înainte de apusul de la ora 17.",
+                "en": "Imagine ancient spectacles at this historic site; visit during the early afternoon to catch the best light before the sun sets around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Denis",
+                "hu": "Église Saint-Denis",
+                "ro": "Église Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Moment der Ruhe in dieser Kirche; im Winter ist sie schwach beleuchtet, bewundern Sie die Atmosphäre, aber behalten Sie Ihre warme Kleidung an.",
+                "hu": "Töltsön el egy békés pillanatot ebben a történelmi templomban; télen gyengén megvilágított, így csodálja meg az ünnepélyes hangulatot, de hagyja magán a kabátot.",
+                "ro": "Petreceți un moment liniștit în această biserică istorică; este slab luminată iarna, așa că admirați atmosfera solemnă, dar păstrați hainele groase.",
+                "en": "Take a peaceful moment inside this historic church; it's dimly lit in winter, so admire the solemn atmosphere, but keep your winter layers on."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Nointel",
+                "hu": "Château de Nointel",
+                "ro": "Château de Nointel",
+                "en": "Château de Nointel"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch das weitläufige Gelände des Schlosses; ziehen Sie sich sehr warm an, da der Wind über den offenen Gärten beißend kalt sein kann.",
+                "hu": "Sétáljon a kastély kiterjedt területén a csípős téli levegőn; öltözzön nagyon melegen, mivel a nyitott kerteken végigsöprő szél harapós lehet.",
+                "ro": "Plimbați-vă pe terenurile întinse ale castelului în aerul rece de iarnă; îmbrăcați-vă foarte gros, deoarece vântul care bate peste grădinile deschise este tăios.",
+                "en": "Stroll the expansive grounds of the château in the crisp winter air; dress very warmly as the wind sweeping across the open gardens is biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pères Blancs",
+                "hu": "Chapelle des Pères Blancs",
+                "ro": "Chapelle des Pères Blancs",
+                "en": "Chapelle des Pères Blancs"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle wegen ihrer einfachen Schönheit; das kleine Innere bietet eine kurze Erholung von der Winterkälte, ideal vor Sonnenuntergang.",
+                "hu": "Térjen be a kápolnába az egyszerű szépségéért; a kis belső tér rövid felüdülést nyújt a téli hideg elől, ideális a naplemente beköszönte előtt.",
+                "ro": "Opriți-vă la capelă pentru frumusețea ei simplă; interiorul mic oferă un scurt răgaz de la frigul iernii, ideal înainte de lăsarea apusului.",
+                "en": "Stop by the chapel for its simple beauty; the small interior provides a brief respite from the winter chill, ideal before sunset hits."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje autós túráját egy békés reggeli látogatással a Chapelle des Pères Blancs-nál, mielőtt a városközpont felé venné az irányt.\nDélben parkoljon le a városháza közelében, hogy felfedezze a hűbéri kastélyromokat, a gyönyörű Saint-Laurent templomot és az ókori római amfiteátrumot.\nTöltse a délutánt a Saint-Denis templom ólomüveg ablakainak megcsodálásával, majd tegyen egy hosszú, festői látogatást a híres Nointel kastélyban.\nFejezze be az átfogó egynapos kirándulást a családbarát Foot területen, élvezve a késő délutáni szellőt és a kedves helyi környezetet.",
         "ro": "Începeți turul cu mașina cu o vizită matinală la Chapelle des Pères Blancs, stabilind un ton reflexiv înainte de a vă îndrepta spre centrul orașului.\nLa amiază, parcați lângă primărie pentru a explora ruinele castelului feudal, frumoasa biserică Saint-Laurent și amfiteatrul roman antic.\nPetreceți-vă după-amiaza admirând vitraliile bisericii Saint-Denis, urmată de o lungă și pitorească vizită la faimosul Château de Nointel.\nÎncheiați-vă excursia relaxându-vă în zona prietenoasă pentru familii Foot, bucurându-vă de briza după-amiezii târziu și de împrejurimile minunate.",
         "en": "Start your driving tour with a peaceful morning visit to the Chapelle des Pères Blancs, setting a reflective tone before heading into the town center.\nAt midday, park near the Mairie to explore the impressive feudal castle ruins, the beautiful Église Saint-Laurent, and the ancient Roman amphitheater.\nSpend your afternoon marveling at the stained glass of Église Saint-Denis, followed by a long, scenic visit to the famous Château de Nointel.\nFinish your comprehensive day trip relaxing at the family-friendly Foot area, enjoying the late afternoon breeze and the lovely local surroundings."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am regnerischen Morgen zur Kapelle der Weißen Väter und dann zum Rathaus. Gehen Sie mittags vorsichtig vom Auto zur nassen Burgruine und in die trockene Kirche Saint-Laurent. Nachmittags besuchen Sie das Amphitheater und die Kirche Saint-Denis zwischen den Schauern. Beenden Sie den Tag im Château de Nointel und der Halle 'Foot'.",
+            "hu": "Autózzon az esős reggelen a Pères Blancs kápolnához, majd a városházához. Délben óvatosan sétáljon autójától a vizes várromokhoz és a Saint-Laurent templom száraz menedékébe. Délután látogassa meg az amfiteátrumot és a Saint-Denis templomot a záporok között. Zárja a napot a Château de Nointelnél és a fedett 'Foot' létesítményben.",
+            "ro": "Conduceți în dimineața ploioasă spre Capela Părinților Albi, apoi spre primărie. La prânz, mergeți cu grijă de la mașină la ruinele umede și la adăpostul uscat al bisericii Saint-Laurent. După-amiaza, vizitați amfiteatrul și biserica Saint-Denis între ploi. Încheiați la Château de Nointel și complexul acoperit 'Foot' pentru a rămâne uscați.",
+            "en": "Drive through the rainy morning to the Chapelle des Pères Blancs, then hop to the town hall. Midday, carefully walk from your car to the wet castle ruins and the dry shelter of Saint-Laurent church. In the afternoon, visit the amphitheatre and Saint-Denis church between showers. Conclude at Château de Nointel and the indoor 'Foot' facility to stay dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle des Pères Blancs",
+                "hu": "Chapelle des Pères Blancs",
+                "ro": "Chapelle des Pères Blancs",
+                "en": "Chapelle des Pères Blancs"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie diese ruhige, versteckte Kapelle; sie ist ein wunderbarer Ort, um dem Regen zu entkommen und eine ruhige, besinnliche Pause einzulegen.",
+                "hu": "Fedezze fel ezt a városban megbújó, csendes kápolnát; csodálatos hely, ahová behúzódhat az eső elől, és élvezhet egy csendes, elmélyült szünetet.",
+                "ro": "Descoperiți această capelă liniștită ascunsă în oraș; este un loc minunat pentru a ieși din ploaie și a vă bucura de o pauză liniștită și contemplativă.",
+                "en": "Discover this tranquil chapel tucked away in the city; it is a wonderful spot to step out of the rain and enjoy a quiet, contemplative pause."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Beaumont-sur-Oise",
+                "hu": "Mairie de Beaumont-sur-Oise",
+                "ro": "Mairie de Beaumont-sur-Oise",
+                "en": "Mairie de Beaumont-sur-Oise"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klassische Architektur des Rathauses; bringen Sie einen stabilen Regenschirm mit, da der Platz wenig Schutz vor Regen bietet.",
+                "hu": "Csodálja meg a városháza klasszikus francia építészetét; hozzon erős esernyőt, mivel a tér kevés menedéket nyújt a zuhogó eső elől.",
+                "ro": "Admirați arhitectura franceză clasică a primăriei; aduceți o umbrelă rezistentă, deoarece piața oferă puțin adăpost împotriva ploii.",
+                "en": "Admire the classic French architecture of the town hall; bring a sturdy umbrella as the square offers little shelter from the falling rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château féodal",
+                "hu": "Château féodal",
+                "ro": "Château féodal",
+                "en": "Château féodal"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die mittelalterlichen Ruinen auch bei Regen; tragen Sie wasserdichte Stiefel, da die Gras- und Feldwege um die Burg matschig werden.",
+                "hu": "Fedezze fel az ősi középkori romokat esőben is; viseljen vízálló bakancsot, mivel a kastély körüli füves és földes utak eléggé sárosak lesznek.",
+                "ro": "Explorați vechile ruine medievale chiar și în ploaie; purtați cizme impermeabile, deoarece potecile cu iarbă și noroi devin alunecoase.",
+                "en": "Explore the ancient medieval ruins even in the rain; wear waterproof boots as the grassy and dirt paths around the castle become quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die wunderschönen Buntglasfenster und die gotische Architektur; sie bietet den perfekten trockenen Zufluchtsort bei starkem Regen.",
+                "hu": "Csodálja meg a gyönyörű ólomüvegeket és a gótikus építészetet; tökéletes, száraz menedéket nyújt a leghevesebb esőzések átvészeléséhez.",
+                "ro": "Admirați vitraliile frumoase și arhitectura gotică; oferă un refugiu uscat perfect pentru a aștepta trecerea celor mai abundente ploi.",
+                "en": "Marvel at the beautiful stained glass and Gothic architecture; it provides a perfect dry refuge to wait out the heaviest rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaumont-sur-Oise amphitheatre",
+                "hu": "Beaumont-sur-Oise amphitheatre",
+                "ro": "Beaumont-sur-Oise amphitheatre",
+                "en": "Beaumont-sur-Oise amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die gallo-römischen Ruinen an; bleiben Sie auf den gepflasterten Aussichtspunkten, da das Becken des Amphitheaters leicht überschwemmt wird.",
+                "hu": "Tekintse meg a gall-római romokat, amelyek az ókori történelemről suttognak; maradjon a burkolt kilátópontokon, mert az amfiteátrum medencéje könnyen elárasztódik.",
+                "ro": "Vedeți ruinele galo-romane care șoptesc istoria antică; rămâneți pe punctele de belvedere pavate, deoarece bazinul vechiului amfiteatru se inundă ușor.",
+                "en": "View the Gallo-Roman ruins that whisper of ancient history; stick to the paved viewpoints, as the old amphitheatre basin floods easily."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Denis",
+                "hu": "Église Saint-Denis",
+                "ro": "Église Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses religiöse Denkmal im Regen; der Eingang bietet ein kleines Vordach, um den Regenschirm auszuschütteln, bevor Sie das Innere erkunden.",
+                "hu": "Látogassa meg ezt a bájos vallási műemléket esőben is; az ajtó kis előtetőt kínál, ahol lerázhatja az esernyőjét, mielőtt felfedezné a belsejét.",
+                "ro": "Vizitați acest monument religios fermecător pe ploaie; intrarea oferă un mic baldachin pentru a vă scutura umbrela înainte de a explora interiorul.",
+                "en": "Visit this charming religious monument in the rain; the doorway offers a small canopy to shake off your umbrella before exploring the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Nointel",
+                "hu": "Château de Nointel",
+                "ro": "Château de Nointel",
+                "en": "Château de Nointel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das majestätische Äußere dieses großen Anwesens; prüfen Sie, ob Innenausstellungen geöffnet sind, um dem nassen Wetter zu entfliehen.",
+                "hu": "Élvezze e hatalmas birtok fenséges külsejét; ellenőrizze, nyitva vannak-e a benti kiállítások, hogy elkerülje az esőt, miközben élvezi a pazar történelmet.",
+                "ro": "Bucurați-vă de exteriorul maiestuos al acestei mari moșii; verificați dacă expozițiile interioare sunt deschise pentru a scăpa de vremea ploioasă.",
+                "en": "Enjoy the majestic exterior of this grand estate; check if indoor exhibits are open to escape the wet weather while enjoying the opulent history."
+              }
+            },
+            {
+              "name": {
+                "de": "Foot",
+                "hu": "Foot",
+                "ro": "Foot",
+                "en": "Foot"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie sportliche Aktivitäten in dieser Anlage; es ist ein toller familienfreundlicher Ersatzplan, wenn die Besichtigung im Freien ins Wasser fällt.",
+                "hu": "Élvezze a benti vagy fedett sporttevékenységeket ebben a sportkomplexumban; nagyszerű családbarát B-terv, amikor a kinti városnézést elmossa az eső.",
+                "ro": "Bucurați-vă de activități sportive în interior la acest complex sportiv; este un plan de rezervă excelent pentru familii când vizitarea exterioară este spălată de ploaie.",
+                "en": "Enjoy indoor or sheltered athletic activities at this sports complex; it's a great family-friendly backup plan when outdoor sightseeing gets washed out."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Winterfahrt an der Kapelle und nutzen Sie die Autoheizung. Mittags erkunden Sie das Rathaus, die frostigen Burgruinen und wärmen sich in der Kirche Saint-Laurent auf. Nachmittags sehen Sie das Amphitheater und die Kirche Saint-Denis in der tiefen Wintersonne. Beenden Sie den Tag vor 17 Uhr am Château de Nointel und bei 'Foot'.",
+            "hu": "Kezdje a téli autózást a Pères Blancs kápolnánál, kihasználva az autó fűtését. Délre fedezze fel a városházát, a fagyos várromokat, és melegedjen fel a Saint-Laurent templomban. Délután nézze meg az amfiteátrumot és a Saint-Denis templomot az alacsony téli napfényben. Zárja a napot 17 óra előtt a Château de Nointel-nél és a 'Foot' területen.",
+            "ro": "Începeți plimbarea de iarnă la Capela Părinților Albi, folosind căldura mașinii. La prânz, explorați primăria, ruinele înghețate și încălziți-vă în biserica Saint-Laurent. După-amiaza, vedeți amfiteatrul și biserica Saint-Denis sub soarele de iarnă. Încheiați înainte de ora 17 la Château de Nointel și în zona 'Foot'.",
+            "en": "Start your winter drive at the serene Chapelle des Pères Blancs, utilizing your car's heater. By noon, explore the town hall, the frosty castle ruins, and warm up inside Saint-Laurent church. In the afternoon, see the amphitheatre and Saint-Denis church under the low winter sun. Finish before the 5 PM sunset at Château de Nointel and the lively 'Foot' area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle des Pères Blancs",
+                "hu": "Chapelle des Pères Blancs",
+                "ro": "Chapelle des Pères Blancs",
+                "en": "Chapelle des Pères Blancs"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kapelle wegen ihrer einfachen Schönheit; das kleine Innere bietet eine kurze Erholung von der Winterkälte, ideal vor Sonnenuntergang.",
+                "hu": "Térjen be a kápolnába az egyszerű szépségéért; a kis belső tér rövid felüdülést nyújt a téli hideg elől, ideális a naplemente beköszönte előtt.",
+                "ro": "Opriți-vă la capelă pentru frumusețea ei simplă; interiorul mic oferă un scurt răgaz de la frigul iernii, ideal înainte de lăsarea apusului.",
+                "en": "Stop by the chapel for its simple beauty; the small interior provides a brief respite from the winter chill, ideal before sunset hits."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Beaumont-sur-Oise",
+                "hu": "Mairie de Beaumont-sur-Oise",
+                "ro": "Mairie de Beaumont-sur-Oise",
+                "en": "Mairie de Beaumont-sur-Oise"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die beeindruckende Fassade des Rathauses in der Winterluft; tragen Sie warme Handschuhe und einen dicken Mantel auf dem offenen Platz.",
+                "hu": "Nézze meg a városháza lenyűgöző homlokzatát a téli levegőn; viseljen meleg kesztyűt és vastag kabátot, mert a nyitott tér eléggé hideg lehet.",
+                "ro": "Vedeți fațada grandioasă a primăriei în aerul rece de iarnă; purtați mănuși calde și un palton gros, deoarece piața deschisă poate fi foarte friguroasă.",
+                "en": "See the grand town hall facade crisp in the winter air; wear warm gloves and a heavy coat as the open square can get quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Château féodal",
+                "hu": "Château féodal",
+                "ro": "Château féodal",
+                "en": "Château féodal"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die dramatischen Überreste dieser feudalen Burg im Winter; achten Sie auf eisige Stellen auf den Steinstufen und ziehen Sie sich warm an.",
+                "hu": "Fedezze fel a feudális vár drámai maradványait a téli égbolt alatt; vigyázzon a kőlépcsők jeges foltjaira, és öltözzön meleg rétegekbe.",
+                "ro": "Descoperiți rămășițele dramatice ale acestui castel feudal sub cerul de iarnă; atenție la gheața de pe treptele de piatră și îmbrăcați-vă gros.",
+                "en": "Discover the dramatic remains of this feudal castle under a winter sky; beware of icy patches on the stone steps and dress in warm layers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Laurent",
+                "hu": "Église Saint-Laurent",
+                "ro": "Église Saint-Laurent",
+                "en": "Église Saint-Laurent"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um das historische Kirchenschiff und religiöse Kunst zu bewundern; das Steininnere ist kalt, behalten Sie Ihren Wintermantel an.",
+                "hu": "Lépjen be, és csodálja meg a történelmi hajót és a vallási művészetet; a kőbelső dermesztő lehet, így tartsa magán a télikabátot és a sálat.",
+                "ro": "Intrați pentru a admira nava istorică și arta religioasă; interiorul de piatră poate fi înghețat, așa că păstrați-vă haina de iarnă și fularul.",
+                "en": "Step inside to admire the historical nave and religious art; the stone interior can be freezing, so keep your winter coat and scarf on."
+              }
+            },
+            {
+              "name": {
+                "de": "Beaumont-sur-Oise amphitheatre",
+                "hu": "Beaumont-sur-Oise amphitheatre",
+                "ro": "Beaumont-sur-Oise amphitheatre",
+                "en": "Beaumont-sur-Oise amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich antike Spektakel an dieser historischen Stätte vor; besuchen Sie sie am frühen Nachmittag für das beste Licht vor dem Sonnenuntergang um 17 Uhr.",
+                "hu": "Képzelje el az ókori látványosságokat ezen a történelmi helyszínen; látogasson el kora délután, hogy elcsípje a legjobb fényeket a 17 órai naplemente előtt.",
+                "ro": "Imaginați-vă spectacolele antice în acest sit istoric; vizitați la începutul după-amiezii pentru a prinde cea mai bună lumină înainte de apusul de la ora 17.",
+                "en": "Imagine ancient spectacles at this historic site; visit during the early afternoon to catch the best light before the sun sets around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Denis",
+                "hu": "Église Saint-Denis",
+                "ro": "Église Saint-Denis",
+                "en": "Église Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Moment der Ruhe in dieser Kirche; im Winter ist sie schwach beleuchtet, bewundern Sie die Atmosphäre, aber behalten Sie Ihre warme Kleidung an.",
+                "hu": "Töltsön el egy békés pillanatot ebben a történelmi templomban; télen gyengén megvilágított, így csodálja meg az ünnepélyes hangulatot, de hagyja magán a kabátot.",
+                "ro": "Petreceți un moment liniștit în această biserică istorică; este slab luminată iarna, așa că admirați atmosfera solemnă, dar păstrați hainele groase.",
+                "en": "Take a peaceful moment inside this historic church; it's dimly lit in winter, so admire the solemn atmosphere, but keep your winter layers on."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Nointel",
+                "hu": "Château de Nointel",
+                "ro": "Château de Nointel",
+                "en": "Château de Nointel"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch das weitläufige Gelände des Schlosses; ziehen Sie sich sehr warm an, da der Wind über den offenen Gärten beißend kalt sein kann.",
+                "hu": "Sétáljon a kastély kiterjedt területén a csípős téli levegőn; öltözzön nagyon melegen, mivel a nyitott kerteken végigsöprő szél harapós lehet.",
+                "ro": "Plimbați-vă pe terenurile întinse ale castelului în aerul rece de iarnă; îmbrăcați-vă foarte gros, deoarece vântul care bate peste grădinile deschise este tăios.",
+                "en": "Stroll the expansive grounds of the château in the crisp winter air; dress very warmly as the wind sweeping across the open gardens is biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Foot",
+                "hu": "Foot",
+                "ro": "Foot",
+                "en": "Foot"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Familie in Bewegung und wärmen Sie sich hier aktiv auf; es ist der perfekte Weg, um die eisigen Außentemperaturen zu besiegen.",
+                "hu": "Tartsa mozgásban a családot, és melegedjen fel egy kis aktív szórakozással; a vérkeringés felpezsdítése a tökéletes módja a kinti fagyos hideg leküzdésének.",
+                "ro": "Păstrați familia în mișcare și încălziți-vă cu puțină distracție activă aici; punerea sângelui în mișcare este modalitatea perfectă de a învinge frigul de afară.",
+                "en": "Keep the family moving and warm up with some active fun here; getting the blood pumping is the perfect way to beat the freezing outdoor temperatures."
+              }
+            }
+          ]
+        }
       }
     }
   }

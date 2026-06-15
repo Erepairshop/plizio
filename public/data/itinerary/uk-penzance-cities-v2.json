@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt a Market Jew Street nyüzsgő központjában, majd ahogy a város ébredezik, sétáljon le a történelmi kikötő felé.\n\nDélben barangoljon a Chapel Street ódon utcáin, fedezze fel a különleges Egyptian House-t, majd pihenjen meg a buja kertekben.\n\nA délutánt szentelje a helyi művészetnek a Penlee House-ban, mielőtt a part felé venné az irányt egy kellemes kulturális séta után.\n\nZárja a napot a lenyűgöző Jubilee Pool mellett, élvezve a késő délutáni napsütést és a páratlan, hűsítő tengerparti hangulatot.",
         "ro": "Începeți dimineața explorând centrul civic animat din jurul străzii Market Jew, îndreptându-vă spre portul istoric pe măsură ce orașul se trezește.\n\nLa amiază, plimbați-vă pe coridoarele istorice ale străzii Chapel, descoperind eclectica Casă Egipteană înainte de a găsi liniște în grădini.\n\nPetreceți după-amiaza cufundați în arta locală la Penlee House, bucurându-vă de un ritm cultural constant înainte de a vă îndrepta spre coastă.\n\nÎncheiați ziua relaxându-vă la uimitoarea Jubilee Pool, bucurându-vă de soarele după-amiezii târzii și de atmosfera magnifică a litoralului.",
         "en": "Start your morning exploring the bustling civic heart around Market Jew Street, transitioning toward the historic harbor as the town awakens.\n\nBy midday, weave through the historic corridors of Chapel Street, encountering the eclectic Egyptian House before finding solace in lush gardens.\n\nSpend your afternoon immersed in local art at Penlee House, enjoying a steady cultural pace before heading toward the coastline.\n\nConclude the day relaxing by the stunning Jubilee Pool, soaking in the late afternoon sun and the magnificent seaside atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt auf der Market Jew Street, deren Arkaden Schutz vor dem kornischen Regen bieten. Mittags beobachten wir die dramatische Brandung am Hafen, gut eingepackt in Regenkleidung. Nachmittags wirken die Morrab Gardens im Nebel fast mystisch und tropisch. Den Abend verbringen wir geschützt in einer Galerie oder einem beheizten Pool, während draußen der Wind vom Atlantik weht.",
+            "hu": "A reggel a Market Jew Street árkádjai alatt indul, amelyek kiváló védelmet nyújtanak a szemerkélő esőben. Délben a kikötő drámai hullámait figyeljük vízálló öltözetben. Délután a Morrab Gardens egzotikus növényei misztikus arcukat mutatják a párás időben. Az estét egy védett galériában vagy a fűtött medencénél zárjuk, miközben az óceáni szél odakint süvít.",
+            "ro": "Dimineața începe sub arcadele străzii Market Jew, care oferă adăpost excelent împotriva burniței. La prânz, admirăm valurile dramatice din port, protejați de haine impermeabile. După-amiaza, grădinile Morrab capătă un aspect mistic sub ploaie. Seara ne retragem într-o galerie sau la piscina încălzită, în timp ce vântul atlantic bate cu putere pe coastă.",
+            "en": "Morning begins under the terraces of Market Jew Street, which offer great shelter from the Cornish drizzle. At noon, we watch the dramatic waves at the harbour in waterproof gear. In the afternoon, Morrab Gardens feel almost mystical and tropical in the mist. We end the evening safely tucked away in a gallery or the heated pool while the Atlantic wind howls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Market Jew Street",
+                "hu": "Market Jew Street",
+                "ro": "Market Jew Street",
+                "en": "Market Jew Street"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die erhobenen Gehwege und Arkaden, um trocken zu bleiben; achten Sie auf den glatten Granit unter Ihren Füßen.",
+                "hu": "Használja a megemelt járdákat és az üzletek előtetőit a szárazon maradáshoz; vigyázzon a gránitkövek csúszós felületére.",
+                "ro": "Folosiți trotuarele supraînălțate și arcadele magazinelor pentru a rămâne uscați; atenție la granitul care devine alunecos.",
+                "en": "Utilize the raised pavements and shop overhangs to stay dry while exploring; watch out for slippery granite surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Penzance Harbour",
+                "hu": "Penzance Harbour",
+                "ro": "Penzance Harbour",
+                "en": "Penzance Harbour"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischerboote vom Schutz der Hafenmauer aus; der Wind kann hier sehr stark und der Boden rutschig sein.",
+                "hu": "Figyelje a halászhajókat a kikötőfal védelméből; a szél itt felerősödhet, a kövezet pedig vizesen rendkívül csúszós.",
+                "ro": "Observați bărcile de pescuit din spatele zidului portului; vântul poate fi puternic, iar pavajul devine foarte alunecos.",
+                "en": "Watch the fishing boats from the shelter of the harbour walls; winds can be strong here and the ground quite slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapel Street",
+                "hu": "Chapel Street",
+                "ro": "Chapel Street",
+                "en": "Chapel Street"
+              },
+              "tip_5lang": {
+                "de": "Diese schmale Straße bietet guten Windschutz; flüchten Sie bei Bedarf in eines der historischen und gemütlichen Pubs.",
+                "hu": "Ez a szűk utca jó szélvédelmet nyújt; hirtelen zápor esetén meneküljön be az egyik patinás és hangulatos pubba.",
+                "ro": "Această stradă îngustă oferă protecție bună împotriva vântului; intrați într-un pub istoric dacă ploaia se întețește.",
+                "en": "This narrow street provides decent wind protection; duck into one of the historic pubs if a sudden downpour starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Egyptian House",
+                "hu": "Egyptian House",
+                "ro": "Egyptian House",
+                "en": "Egyptian House"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunte Fassade unter einem Regenschirm; die Farben wirken bei nassem Wetter oft noch kräftiger.",
+                "hu": "Csodálja meg a színes homlokzatot egy esernyő alól; a tarka díszítések az esős időben még élénkebbnek tűnnek.",
+                "ro": "Admirați fațada colorată de sub umbrelă; culorile exotice par și mai vibrante pe fundalul gri al zilei ploioase.",
+                "en": "Admire the colorful facade from under an umbrella; the ornate details often look even more vibrant in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Morrab Gardens",
+                "hu": "Morrab Gardens",
+                "ro": "Morrab Gardens",
+                "en": "Morrab Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die dichten subtropischen Pflanzen bieten natürlichen Schutz; nutzen Sie die befestigten Wege, um Schlamm zu vermeiden.",
+                "hu": "A sűrű szubtrópusi növényzet természetes ernyőt alkot; maradjon a kiépített utakon a sár elkerülése érdekében.",
+                "ro": "Plantele subtropicale dese oferă un adăpost natural; rămâneți pe potecile pavate pentru a evita noroiul din grădină.",
+                "en": "The dense subtropical plants provide natural canopy; stick to the paved paths to avoid mud during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Penlee House Gallery",
+                "hu": "Penlee House Gallery",
+                "ro": "Penlee House Gallery",
+                "en": "Penlee House Gallery"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Zufluchtsort bei Regen; genießen Sie die Kunst der Newlyn School und danach einen Tee im Café.",
+                "hu": "A tökéletes menedék esőben; merüljön el a Newlyn School festményeiben, majd igyon egy forró teát a múzeum kávézójában.",
+                "ro": "Refugiul perfect pe timp de ploaie; admirați arta locală și savurați un ceai cald în cafeneaua muzeului.",
+                "en": "The perfect rainy day refuge; enjoy the Newlyn School art and then have a warming tea in the museum's cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Jubilee Pool",
+                "hu": "Jubilee Pool",
+                "ro": "Jubilee Pool",
+                "en": "Jubilee Pool"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie das geothermische Becken; im warmen Wasser zu baden, während es regnet, ist ein besonderes Erlebnis.",
+                "hu": "Válassza a geotermikus medencét; a meleg vízben ázni, miközben az eső esik, különleges és pihentető élmény.",
+                "ro": "Alegeți piscina geotermală; este o experiență unică să înoți în apă caldă în timp ce plouă deasupra ta.",
+                "en": "Opt for the geothermal pool section; soaking in warm water while it rains is a unique and relaxing experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Luft in Penzance herrlich frisch. Mittags genießen wir die tiefstehende Sonne am Hafen, bevor es nachmittags in die geschützten Morrab Gardens geht. Da die Sonne gegen 17:00 Uhr untergeht, planen wir den Besuch der Galerie für die Dämmerung ein. Der Abend endet früh und gemütlich bei Kerzenschein in einem der historischen Gasthäuser.",
+            "hu": "A tiszta téli reggeleken a levegő friss és metsző Penzance-ban. Délben a kikötőben élvezzük az alacsonyan járó napot, mielőtt a védett Morrab Gardensbe indulnánk. Mivel 17:00 körül sötétedik, a galériát késő délutánra időzítjük. Az este korán kezdődik, egy történelmi fogadó melegében, a kandalló mellett pihenve.",
+            "ro": "În diminețile senine de iarnă, aerul este rece și proaspăt. La prânz ne bucurăm de soarele blând din port, iar după-amiaza vizităm grădinile Morrab. Deoarece soarele apune în jur de ora 17:00, lăsăm galeria pentru amurg. Seara se încheie devreme și primitor într-un han istoric, la căldură.",
+            "en": "On clear winter mornings, the air is wonderfully crisp. At noon, we enjoy the low sun at the harbour before heading to the sheltered Morrab Gardens. As sunset is around 17:00, we time our gallery visit for the twilight hours. The evening ends early and cozy by the fireside in one of the town's historic inns."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Market Jew Street",
+                "hu": "Market Jew Street",
+                "ro": "Market Jew Street",
+                "en": "Market Jew Street"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Ruhe und die festliche Beleuchtung; tragen Sie warme Schichten gegen den Seewind.",
+                "hu": "Élvezze a téli nyugalmat és az ünnepi fényeket; öltözzön rétegesen a tenger felől érkező metsző szél ellen.",
+                "ro": "Bucurați-vă de liniștea iernii și de luminile festive; purtați haine groase împotriva vântului tăios de coastă.",
+                "en": "Enjoy the peaceful winter atmosphere and festive lights; wear warm layers against the bracing sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Penzance Harbour",
+                "hu": "Penzance Harbour",
+                "ro": "Penzance Harbour",
+                "en": "Penzance Harbour"
+              },
+              "tip_5lang": {
+                "de": "Das goldene Licht der tiefstehenden Winter-Sonne ist ideal für Fotos; halten Sie Ausschau nach Wintervögeln.",
+                "hu": "Az alacsony téli napfény tökéletes a fotózáshoz; figyelje meg a kikötőben telelő különleges madárfajokat.",
+                "ro": "Lumina aurie a soarelui de iarnă este ideală pentru fotografii; căutați păsările marine care iernează în port.",
+                "en": "The golden winter light is perfect for photography; look out for unique sea birds wintering in the harbour."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapel Street",
+                "hu": "Chapel Street",
+                "ro": "Chapel Street",
+                "en": "Chapel Street"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Granithäuser wirken im Winterlicht besonders stimmungsvoll; perfekt für einen zügigen Spaziergang.",
+                "hu": "A történelmi gránitházak a téli fényben különösen hangulatosak; ideális helyszín egy frissítő sétához.",
+                "ro": "Casele istorice din granit au un farmec aparte în lumina iernii; locul perfect pentru o plimbare revigorantă.",
+                "en": "The historic granite buildings look particularly atmospheric in winter light; perfect for a brisk, scenic walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Egyptian House",
+                "hu": "Egyptian House",
+                "ro": "Egyptian House",
+                "en": "Egyptian House"
+              },
+              "tip_5lang": {
+                "de": "Ein farbenfroher Anblick an grauen Wintertagen; die Details lassen sich ohne die Sommermassen besser studieren.",
+                "hu": "Színpompás látvány a szürke téli napokon; a nyári tömeg nélkül sokkal jobban megfigyelhetők az apró részletek.",
+                "ro": "O pată de culoare în zilele cenușii de iarnă; puteți studia detaliile fără aglomerația specifică verii.",
+                "en": "A splash of color on grey winter days; you can study the ornate details without the summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Morrab Gardens",
+                "hu": "Morrab Gardens",
+                "ro": "Morrab Gardens",
+                "en": "Morrab Gardens"
+              },
+              "tip_5lang": {
+                "de": "Staunen Sie über die Kamelien, die hier oft schon im Winter blühen; ein windgeschützter Ort für milde Tage.",
+                "hu": "Csodálja meg a télen is virágzó kaméliákat; a kert mikroklímája szélvédett menedéket nyújt a hidegben.",
+                "ro": "Admirați cameliile care înfloresc adesea iarna aici; grădina oferă un refugiu ferit de vânturile reci.",
+                "en": "Marvel at the camellias that often bloom in winter here; the garden's microclimate offers a sheltered spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Penlee House Gallery",
+                "hu": "Penlee House Gallery",
+                "ro": "Penlee House Gallery",
+                "en": "Penlee House Gallery"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in der Galerie auf; die Ausstellungen zur Newlyn School sind im Winter besonders inspirierend.",
+                "hu": "Melegedjen fel a galéria termeiben; a Newlyn School alkotásai téli fényben különösen inspiráló hatásúak.",
+                "ro": "Încălziți-vă în galeria de artă; expozițiile școlii Newlyn sunt deosebit de sugestive în timpul iernii.",
+                "en": "Warm up inside the gallery; the Newlyn School exhibitions are particularly inspiring during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Jubilee Pool",
+                "hu": "Jubilee Pool",
+                "ro": "Jubilee Pool",
+                "en": "Jubilee Pool"
+              },
+              "tip_5lang": {
+                "de": "Das geothermische Wasser ist im Winter eine Wohltat; prüfen Sie unbedingt vorab die saisonalen Öffnungszeiten.",
+                "hu": "A geotermikus víz télen igazi áldás; mindenképpen ellenőrizze előre a téli szezonális nyitvatartást.",
+                "ro": "Apa geotermală este o binecuvântare iarna; verificați neapărat orarul sezonier înainte de a porni la drum.",
+                "en": "The geothermal water is a bliss in winter; make sure to check the seasonal opening hours in advance."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Indítsa kalandját a friss reggeli levegőn a drámai St Michael's Mount szigeterődjének felfedezésével, miután átkelt a gránit töltésen.\n\nDélben tekerjen vissza a szárazföldre, guruljon el a Jubilee Pool mellett, és élvezze a kellemes biciklizést a tengerparti sétányon.\n\nA délután a kultúráé: látogasson el a Penlee House Gallery-be, majd pihenjen meg kerékpárjával a Morrab Gardens csendes ösvényein.\n\nEste tekintsen meg egy emlékezetes előadást a The Acornban, majd zárja ezt a dinamikus napot a közeli St Mary's Church falai között.",
         "ro": "Începeți aventura traversând drumul spectaculos spre St Michael's Mount în aerul proaspăt al dimineții, escaladând fortăreața insulară.\n\nPedalați înapoi pe continent la amiază, trecând pe lângă Jubilee Pool și plimbându-vă confortabil pe frumoasa Promenadă din Penzance.\n\nDupă-amiaza se transformă cultural pe măsură ce vizitați Galeria Penlee House și aleile liniștite din Morrab Gardens pe bicicletă.\n\nPe măsură ce se apropie seara, prindeți un eveniment memorabil la The Acorn, încheind o zi dinamică la biserica St Mary's din apropiere.",
         "en": "Kick off your adventure crossing the dramatic causeway to St Michael's Mount in the crisp morning air, taking time to scale the island fortress.\n\nCycle back to the mainland for midday, rolling past the Jubilee Pool and cruising comfortably along the beautiful Penzance Promenade.\n\nYour afternoon seamlessly shifts to culture as you visit the Penlee House Gallery and the tranquil paths of Morrab Gardens on your bike.\n\nAs evening approaches, catch a memorable event at The Acorn, wrapping up a dynamic day at the nearby St Mary's Church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour zum Mount, wobei wir auf dem Damm auf Gischt achten. Mittags bietet der Jubilee Pool ein warmes Bad als Kontrast zur Kälte. Nachmittags fahren wir vorsichtig über die nasse Promenade und suchen Schutz in der Penlee Gallery. Der Tag endet kulturell im Acorn, wo wir die nasse Ausrüstung trocknen können, während wir eine Aufführung genießen.",
+            "hu": "A Mount felé indítjuk a túrát, ügyelve a töltésen felcsapó hullámokra. Délben a Jubilee Pool meleg vize kínál kontrasztot a kinti esővel. Délután óvatosan tekerünk a vizes Promenádon, majd a Penlee Galleryben keresünk menedéket. A napot az Acorn kulturális programjával zárjuk, ahol végre megszáríthatjuk a felszerelésünket.",
+            "ro": "Începem tura spre Mount, fiind atenți la valurile care pot trece peste dig. La prânz, piscina Jubilee oferă un contrast cald față de ploaie. După-amiaza pedalăm cu grijă pe faleză și ne adăpostim la galeria Penlee. Ziua se încheie cultural la Acorn, unde ne putem usca echipamentul în timp ce urmărim un spectacol.",
+            "en": "We start the ride towards the Mount, watching out for sea spray on the causeway. At noon, Jubilee Pool offers a warm contrast to the rain. In the afternoon, we cycle carefully across the wet Promenade and seek shelter in Penlee Gallery. The day ends culturally at The Acorn, where we can dry off our gear while enjoying a show."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Michael's Mount",
+                "hu": "St Michael's Mount",
+                "ro": "St Michael's Mount",
+                "en": "St Michael's Mount"
+              },
+              "tip_5lang": {
+                "de": "Der gepflasterte Weg kann bei Regen extrem rutschig sein; fahren Sie langsam oder schieben Sie das Rad.",
+                "hu": "A macskaköves út esőben rendkívül csúszóssá válhat; tekerjen nagyon lassan vagy tolja a kerékpárt.",
+                "ro": "Drumul pietruit poate fi extrem de alunecos pe ploaie; pedalați cu viteză redusă sau mergeți pe lângă bicicletă.",
+                "en": "The cobbled causeway can be extremely slippery in the rain; cycle very slowly or walk your bike across."
+              }
+            },
+            {
+              "name": {
+                "de": "Jubilee Pool",
+                "hu": "Jubilee Pool",
+                "ro": "Jubilee Pool",
+                "en": "Jubilee Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um sich im warmen Wasser aufzuwärmen; nutzen Sie die Schließfächer für Ihre nasse Kleidung.",
+                "hu": "Ideális megálló a felmelegedéshez; használja az öltözőszekrényeket a vizes kerékpáros ruházat tárolására.",
+                "ro": "Oprire ideală pentru încălzire în apa geotermală; folosiți vestiarele pentru a vă depozita hainele ude.",
+                "en": "An ideal stop to warm up in geothermal water; use the lockers to store your wet cycling gear safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Penzance Promenade",
+                "hu": "Penzance Promenade",
+                "ro": "Penzance Promenade",
+                "en": "Penzance Promenade"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf starken Seitenwind und Pfützen; wasserfeste Kleidung ist auf diesem exponierten Abschnitt Pflicht.",
+                "hu": "Vigyázzon az erős oldalszélre és a tócsákra; ezen a kitett szakaszon a vízálló öltözet elengedhetetlen.",
+                "ro": "Atenție la vântul lateral puternic și la bălți; echipamentul impermeabil este obligatoriu pe acest segment.",
+                "en": "Watch out for strong crosswinds and puddles; waterproof gear is essential on this exposed coastal stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Penlee House Gallery",
+                "hu": "Penlee House Gallery",
+                "ro": "Penlee House Gallery",
+                "en": "Penlee House Gallery"
+              },
+              "tip_5lang": {
+                "de": "Sichere Fahrradständer sind vorhanden; nutzen Sie die Zeit drinnen, um sich vollständig abzutrocknen.",
+                "hu": "Biztonságos kerékpártárolók állnak rendelkezésre; használja ki az időt a galériában a teljes megszáradáshoz.",
+                "ro": "Sunt disponibile rastele sigure pentru biciclete; profitați de timpul petrecut în interior pentru a vă usca.",
+                "en": "Secure bike racks are available; take your time inside the gallery to dry off completely before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Morrab Gardens",
+                "hu": "Morrab Gardens",
+                "ro": "Morrab Gardens",
+                "en": "Morrab Gardens"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad am Eingang und machen Sie einen kurzen Spaziergang unter dem schützenden Blätterdach.",
+                "hu": "Parkolja le a bringát a bejáratnál, és tegyen egy rövid sétát a védelmet nyújtó sűrű lombok alatt.",
+                "ro": "Parcați bicicleta la intrare și faceți o scurtă plimbare sub coronamentul protector al copacilor.",
+                "en": "Park your bike at the entrance and take a short stroll under the garden's protective leafy canopy."
+              }
+            },
+            {
+              "name": {
+                "de": "The Acorn",
+                "hu": "The Acorn",
+                "ro": "The Acorn",
+                "en": "The Acorn"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den Abend; prüfen Sie, ob es eine Garderobe für Ihre Helme und Regenjacken gibt.",
+                "hu": "Tökéletes esti program; ellenőrizze, van-e ruhatár a sisakok és az esőkabátok kényelmes tárolásához.",
+                "ro": "Perfect pentru seară; verificați dacă există garderobă pentru căști și jachetele de ploaie ude.",
+                "en": "Perfect for the evening; check if there's a cloakroom available for your helmets and wet rain jackets."
+              }
+            },
+            {
+              "name": {
+                "de": "St Mary's Church",
+                "hu": "St Mary's Church",
+                "ro": "St Mary's Church",
+                "en": "St Mary's Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort, um dem Regen für einen Moment zu entkommen; bewundern Sie die Architektur im Trockenen.",
+                "hu": "Csendes hely, ahol egy pillanatra elmenekülhet az eső elől; csodálja meg az építészetet szárazon.",
+                "ro": "Un loc liniștit unde puteți scăpa de ploaie pentru o clipă; admirați arhitectura la adăpost.",
+                "en": "A peaceful place to escape the rain for a moment; admire the interior architecture while staying dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintertag auf zwei Rädern beginnt mit der Fahrt zum Mount unter der klaren Morgensonne. Mittags wärmt uns das geothermische Wasser im Jubilee Pool auf. Nachmittags nutzen wir das restliche Tageslicht auf der Promenade und in den Gärten. Da es um 17:00 Uhr dunkel wird, verbringen wir den Abend bei Kultur und Besinnlichkeit in den historischen Gebäuden der Stadt.",
+            "hu": "Egy frissítő téli nap két keréken; a túra a Mount felé indul a tiszta reggeli napsütésben. Délben a Jubilee Pool geotermikus vize segít a bemelegedésben. Délután kihasználjuk a maradék fényt a Promenádon és a kertekben. Mivel 17:00-kor sötétedik, az estét kulturális programokkal és elcsendesedéssel töltjük a város falai között.",
+            "ro": "O zi revigorantă de iarnă pe bicicletă începe cu drumul spre Mount sub soarele clar al dimineții. La prânz, apa geotermală de la Jubilee ne încălzește. După-amiaza profităm de puțină lumină pe faleză și în grădini. Deoarece se întunecă la ora 17:00, seara aparține culturii și relaxării în interior.",
+            "en": "A refreshing winter day on two wheels starts with a ride to the Mount under clear morning skies. At noon, the geothermal water at Jubilee Pool warms us up. In the afternoon, we make the most of the remaining light on the Promenade and gardens. As it gets dark by 17:00, we spend the evening enjoying culture and quiet reflection indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Michael's Mount",
+                "hu": "St Michael's Mount",
+                "ro": "St Michael's Mount",
+                "en": "St Michael's Mount"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine fantastische Fernsicht; tragen Sie Handschuhe für die kühle Fahrt über den Damm.",
+                "hu": "A tiszta téli levegő fantasztikus kilátást biztosít; viseljen kesztyűt a töltésen átvezető szeles szakaszhoz.",
+                "ro": "Aerul clar de iarnă oferă o vizibilitate excelentă; purtați mănuși pentru drumul rece peste dig.",
+                "en": "The clear winter air offers fantastic visibility; wear warm gloves for the chilly ride across the causeway."
+              }
+            },
+            {
+              "name": {
+                "de": "Jubilee Pool",
+                "hu": "Jubilee Pool",
+                "ro": "Jubilee Pool",
+                "en": "Jubilee Pool"
+              },
+              "tip_5lang": {
+                "de": "Das Dampfen des warmen Wassers in der kalten Winterluft ist magisch; planen Sie genug Zeit zum Aufwärmen ein.",
+                "hu": "A meleg víz gőzölgése a hideg téli levegőben varázslatos; szánjon elég időt a testének teljes átmelegítésére.",
+                "ro": "Aburii apei calde în aerul rece de iarnă creează o atmosferă magică; rezervați-vă timp pentru o încălzire profundă.",
+                "en": "The steam rising from the warm water in the cold air is magical; allow plenty of time to fully warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Penzance Promenade",
+                "hu": "Penzance Promenade",
+                "ro": "Penzance Promenade",
+                "en": "Penzance Promenade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über die Bucht; eine winddichte Jacke ist bei der kühlen Brise unerlässlich.",
+                "hu": "Élvezze a tágas kilátást az öbölre; egy szélálló dzseki elengedhetetlen a hűvös tengeri fuvallatok ellen.",
+                "ro": "Bucurați-vă de priveliștea deschisă asupra golfului; o jachetă rezistentă la vânt este esențială aici.",
+                "en": "Enjoy the expansive views across the bay; a windproof jacket is essential against the chilly sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Penlee House Gallery",
+                "hu": "Penlee House Gallery",
+                "ro": "Penlee House Gallery",
+                "en": "Penlee House Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort für eine Pause; das Café bietet warme Speisen, um die Energiereserven aufzufüllen.",
+                "hu": "Hangulatos hely egy pihenőhöz; a kávézó meleg ételeket is kínál az energiatartalékok feltöltéséhez.",
+                "ro": "Un loc primitor pentru o pauză; cafeneaua oferă preparate calde pentru a vă reîncărca bateriile.",
+                "en": "A cozy spot for a break; the cafe offers warm food and drinks to replenish your energy for the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Morrab Gardens",
+                "hu": "Morrab Gardens",
+                "ro": "Morrab Gardens",
+                "en": "Morrab Gardens"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille des winterlichen Gartens; die immergrünen Pflanzen sorgen für Farbe in der kalten Jahreszeit.",
+                "hu": "Tapasztalja meg a téli kert csendjét; az örökzöld növények színt visznek a leghidegebb évszakba is.",
+                "ro": "Experimentați liniștea grădinii pe timp de iarnă; plantele mereu verzi aduc culoare în sezonul rece.",
+                "en": "Experience the silence of the winter garden; the evergreen plants provide color even in the coldest season."
+              }
+            },
+            {
+              "name": {
+                "de": "The Acorn",
+                "hu": "The Acorn",
+                "ro": "The Acorn",
+                "en": "The Acorn"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich bei einer Abendvorstellung auf; ein großartiger Ort, um die lokale Kulturszene kennenzulernen.",
+                "hu": "Melegedjen fel egy esti előadáson; nagyszerű helyszín a helyi kulturális élet megismeréséhez.",
+                "ro": "Încălziți-vă la un spectacol de seară; un loc excelent pentru a descoperi scena culturală locală.",
+                "en": "Warm up during an evening performance; a great venue to discover the local cultural and arts scene."
+              }
+            },
+            {
+              "name": {
+                "de": "St Mary's Church",
+                "hu": "St Mary's Church",
+                "ro": "St Mary's Church",
+                "en": "St Mary's Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche vor Einbruch der Dunkelheit, um die Glasfenster im letzten Tageslicht zu sehen.",
+                "hu": "Látogasson el a templomba sötétedés előtt, hogy láthassa az üvegablakokat az utolsó nappali fényben.",
+                "ro": "Vizitați biserica înainte de lăsarea întunericului pentru a vedea vitraliile în ultima lumină a zilei.",
+                "en": "Visit the church before dark to see the beautiful stained glass windows in the last rays of daylight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Kezdje a napot a békés Drift Reservoirnál, ahol élvezheti az édesvizű tó csendjét és a kora reggeli madármegfigyelést távol a tömegtől.\n\nVezessen tovább a Boscathnoe Reservoirhoz, majd térjen vissza a városba, hogy délben elmerüljön a Penlee House Gallery képzőművészetében.\n\nA délutánt töltse a part menti Jubilee Pool lenyűgöző látványával, majd gyönyörködjön a panorámában a Penzance South Pier Light tornyánál.\n\nZárja a festői autós utat a St Michael's Mountnál, a késő délutánt a történelmi töltésen és az ősi vártermek felfedezésével töltve.",
         "ro": "Conduceți mai întâi la liniștitul Drift Reservoir, bucurându-vă de priveliștile senine de apă dulce și de observarea păsărilor dimineața devreme.\n\nNavigați spre Boscathnoe Reservoir înainte de a vă întoarce în oraș la prânz, aprofundând istoria și artele plastice la faimoasa Penlee House Gallery.\n\nPetreceți după-amiaza admirând infrastructura de coastă de la Jubilee Pool și bucurându-vă de priveliștile panoramice de la Penzance South Pier Light.\n\nÎncheiați-vă călătoria pitorească conducând spre St Michael's Mount, petrecând după-amiaza târziu traversând drumul său istoric și sălile antice.",
         "en": "Drive out to the tranquil Drift Reservoir first thing, enjoying the serene freshwater views and peaceful morning birdwatching away from the crowds.\n\nNavigate toward Boscathnoe Reservoir before heading back into town midday, diving into history and fine arts at the acclaimed Penlee House Gallery.\n\nSpend your afternoon admiring the coastal infrastructure at Jubilee Pool and taking in the panoramic vistas at the Penzance South Pier Light.\n\nConclude your scenic road trip by driving to St Michael's Mount, spending your late afternoon traversing its historic causeway and ancient halls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir die Stauseen, wo der Regen eine neblige, ruhige Atmosphäre schafft. Mittags bietet die Penlee Gallery trockenen Kulturgenuss. Nachmittags ist das geothermische Wasser des Jubilee Pool perfekt, um der Nässe zu trotzen. Wir beobachten die stürmische See vom Hafenleuchtturm aus und beenden den Tag beim Mount, wobei wir das Auto als warmen Rückzugsort nutzen.",
+            "hu": "Autóval fedezzük fel a víztározókat, ahol az eső ködös, nyugodt hangulatot áraszt. Délben a Penlee Gallery kínál száraz kulturális élményt. Délután a Jubilee Pool geotermikus vize tökéletes az eső elleni védekezéshez. A viharos tengert a kikötői világítótoronytól figyeljük, majd a Mountnál zárjuk a napot, az autót meleg bázisként használva.",
+            "ro": "Explorăm lacurile de acumulare cu mașina, unde ploaia creează o atmosferă cețoasă și liniștită. La prânz, galeria Penlee oferă cultură la adăpost. După-amiaza, apa caldă de la Jubilee Pool este perfectă împotriva umezelii. Observăm marea agitată de lângă far, încheind ziua la Mount cu mașina ca refugiu călduros.",
+            "en": "By car, we explore the reservoirs where the rain creates a misty, peaceful atmosphere. At noon, Penlee Gallery offers dry cultural enjoyment. In the afternoon, the geothermal water of Jubilee Pool is perfect to defy the wet weather. We watch the stormy sea from the harbour lighthouse and end the day at the Mount, using the car as a warm retreat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Drift Reservoir",
+                "hu": "Drift Reservoir",
+                "ro": "Drift Reservoir",
+                "en": "Drift Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den nebligen See direkt aus dem Auto; ein Fernglas für die Vogelbeobachtung ist nützlich.",
+                "hu": "Élvezze a ködös tó látványát közvetlenül az autóból; a madármegfigyeléshez vigyen magával távcsövet.",
+                "ro": "Bucurați-vă de vederea lacului cețos direct din mașină; un binoclu pentru observarea păsărilor este util.",
+                "en": "Enjoy the view of the misty lake directly from your car; a pair of binoculars for birdwatching is useful."
+              }
+            },
+            {
+              "name": {
+                "de": "Boscathnoe Reservoir",
+                "hu": "Boscathnoe Reservoir",
+                "ro": "Boscathnoe Reservoir",
+                "en": "Boscathnoe Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, regnerischer Spaziergang lohnt sich für die dramatische Aussicht; parken Sie nah am Aussichtspunkt.",
+                "hu": "Egy rövid, esős séta is megéri a drámai kilátásért; parkoljon minél közelebb a kilátóponthoz.",
+                "ro": "O scurtă plimbare prin ploaie merită pentru privelistea dramatică; parcați cât mai aproape de punctul de belvedere.",
+                "en": "A short rainy walk is worth it for the dramatic views; park close to the viewpoint to minimize soak time."
+              }
+            },
+            {
+              "name": {
+                "de": "Penlee House Gallery",
+                "hu": "Penlee House Gallery",
+                "ro": "Penlee House Gallery",
+                "en": "Penlee House Gallery"
+              },
+              "tip_5lang": {
+                "de": "Kostenlose Parkplätze in der Nähe erleichtern den Besuch bei Regen; verbringen Sie die nasseste Zeit des Tages hier.",
+                "hu": "A közelben lévő parkolók megkönnyítik a látogatást; a nap legesősebb időszakát töltse bent a galériában.",
+                "ro": "Parcarea gratuită din apropiere facilitează vizita pe ploaie; petreceți aici cea mai umedă parte a zilei.",
+                "en": "Free parking nearby makes visiting easy in the rain; spend the wettest part of your day inside the gallery."
+              }
+            },
+            {
+              "name": {
+                "de": "Jubilee Pool",
+                "hu": "Jubilee Pool",
+                "ro": "Jubilee Pool",
+                "en": "Jubilee Pool"
+              },
+              "tip_5lang": {
+                "de": "Dank der Parkmöglichkeiten direkt an der Promenade gelangen Sie schnell vom Auto ins warme Wasser.",
+                "hu": "A sétány menti parkolási lehetőségekkel gyorsan átérhet az autóból a kellemesen meleg vízbe.",
+                "ro": "Datorită parcării de pe faleză, puteți ajunge rapid din mașină direct în apa caldă a piscinei.",
+                "en": "With parking available along the promenade, you can get from your car to the warm water quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Penzance South Pier Light",
+                "hu": "Penzance South Pier Light",
+                "ro": "Penzance South Pier Light",
+                "en": "Penzance South Pier Light"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die anbrandenden Wellen sicher aus dem Auto; der Pier kann bei Sturm gefährlich sein.",
+                "hu": "Figyelje a becsapódó hullámokat biztonságban az autóból; a móló viharos időben veszélyes lehet.",
+                "ro": "Observați valurile care se sparg de dig în siguranță din mașină; debarcaderul poate fi periculos pe furtună.",
+                "en": "Watch the crashing waves safely from your car; the pier can be dangerous and slippery during storms."
+              }
+            },
+            {
+              "name": {
+                "de": "St Michael's Mount",
+                "hu": "St Michael's Mount",
+                "ro": "St Michael's Mount",
+                "en": "St Michael's Mount"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob das Boot fährt, falls der Damm überflutet oder zu nass ist; parken Sie auf dem großen Strandparkplatz.",
+                "hu": "Ellenőrizze, jár-e a hajó, ha a töltés túl vizes vagy elöntötte az ár; használja a nagy strandparkolót.",
+                "ro": "Verificați dacă circulă barca în cazul în care digul este inundat; folosiți parcarea mare de la plajă.",
+                "en": "Check if the boat is running if the causeway is flooded or too wet; use the large beach car park nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Stille empfängt uns an den Stauseen, deren Ufer oft von Frost gezeichnet sind. Mittags bietet Penlee House einen warmen Rückzugsort. Nachmittags genießen wir das Dampfen des Jubilee Pool unter freiem Winterhimmel. Da die Sonne gegen 17:00 Uhr am Mount untergeht, planen wir unsere Ankunft dort passend für die goldene Stunde und den frühen Abend ein.",
+            "hu": "Téli csend fogad minket a víztározóknál, melyek partját gyakran zúzmara fedi. Délben a Penlee House nyújt meleg menedéket. Délután a Jubilee Pool gőzölgését élvezzük a nyílt téli égbolt alatt. Mivel a nap 17:00 körül nyugszik a Mountnál, érkezésünket az aranyórához és a korai estéhez igazítjuk.",
+            "ro": "Liniștea iernii ne întâmpină la lacurile de acumulare, unde malurile sunt adesea înghețate. La prânz, Penlee House oferă un refugiu cald. După-amiaza admirăm aburii de la Jubilee Pool sub cerul liber. Deoarece soarele apune la ora 17:00, planificăm sosirea la Mount pentru ora de aur.",
+            "en": "Winter stillness greets us at the reservoirs, with banks often touched by frost. At noon, Penlee House provides a warm retreat. In the afternoon, we enjoy the steam of Jubilee Pool under the open winter sky. As the sun sets around 17:00 at the Mount, we time our arrival for the golden hour and early evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Drift Reservoir",
+                "hu": "Drift Reservoir",
+                "ro": "Drift Reservoir",
+                "en": "Drift Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für weite Sicht über das Wasser; halten Sie im Auto Heißgetränke bereit.",
+                "hu": "A tiszta téli levegő nagy látótávolságot biztosít a vízen; tartson készenlétben forró italokat az autóban.",
+                "ro": "Aerul clar de iarnă oferă o vizibilitate mare peste apă; pregătiți băuturi calde în mașină.",
+                "en": "The clear winter air ensures great visibility across the water; keep hot drinks ready in the car for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Boscathnoe Reservoir",
+                "hu": "Boscathnoe Reservoir",
+                "ro": "Boscathnoe Reservoir",
+                "en": "Boscathnoe Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort für einen zügigen Winterspaziergang; die gefrorene Landschaft ist ein tolles Fotomotiv.",
+                "hu": "Látogasson el ide egy frissítő téli sétára; a fagyos táj kiváló témát szolgáltat a fotózáshoz.",
+                "ro": "Vizitați acest loc pentru o plimbare revigorantă; peisajul înghețat este un subiect excelent pentru fotografii.",
+                "en": "Visit here for a brisk winter walk; the frost-covered landscape makes for a beautiful photo subject."
+              }
+            },
+            {
+              "name": {
+                "de": "Penlee House Gallery",
+                "hu": "Penlee House Gallery",
+                "ro": "Penlee House Gallery",
+                "en": "Penlee House Gallery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kurzen Wege vom Parkplatz, um der Kälte schnell zu entkommen und Kunst zu genießen.",
+                "hu": "Használja ki a parkolótól vezető rövid utat, hogy gyorsan bejusson a melegbe és élvezze a művészetet.",
+                "ro": "Profitați de distanța scurtă de la parcare pentru a intra rapid la căldură și a vă bucura de artă.",
+                "en": "Use the short distance from the car park to escape the cold quickly and enjoy the indoor art collections."
+              }
+            },
+            {
+              "name": {
+                "de": "Jubilee Pool",
+                "hu": "Jubilee Pool",
+                "ro": "Jubilee Pool",
+                "en": "Jubilee Pool"
+              },
+              "tip_5lang": {
+                "de": "Das warme geothermische Becken ist im Winter ein Muss; die Parkplätze sind im Winter meist direkt davor frei.",
+                "hu": "A meleg geotermikus medence télen kötelező program; ilyenkor általában közvetlenül a bejáratnál is van parkoló.",
+                "ro": "Piscina geotermală caldă este obligatorie iarna; parcarea de pe faleză este mai liberă în acest sezon.",
+                "en": "The warm geothermal pool is a must in winter; parking spots are usually available right in front during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Penzance South Pier Light",
+                "hu": "Penzance South Pier Light",
+                "ro": "Penzance South Pier Light",
+                "en": "Penzance South Pier Light"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für das perfekte Foto vom Leuchtturm in der tiefstehenden Winter-Sonne; achten Sie auf Glätte.",
+                "hu": "Rövid megálló a tökéletes fotóért az alacsonyan járó téli napfényben; vigyázzon a móló csúszós felületére.",
+                "ro": "Oprire scurtă pentru fotografia perfectă cu farul în lumina iernii; atenție la gheață pe pavaj.",
+                "en": "A quick stop for the perfect photo of the lighthouse in low winter light; watch out for icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "St Michael's Mount",
+                "hu": "St Michael's Mount",
+                "ro": "St Michael's Mount",
+                "en": "St Michael's Mount"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Sonnenuntergang gegen 17:00 Uhr; das Schloss schließt im Winter oft früher.",
+                "hu": "Élje át a látványos naplementét 17:00 körül; ne feledje, hogy a vár télen gyakran korábban zár.",
+                "ro": "Experimentați apusul spectaculos în jur de ora 17:00; atenție, castelul se închide adesea mai devreme iarna.",
+                "en": "Experience the spectacular sunset around 17:00; keep in mind that the castle often closes earlier in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

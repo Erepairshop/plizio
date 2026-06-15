@@ -137,6 +137,168 @@
         "hu": "A reggel Ayia Napában nyugodtan indul a vidéki örökség felfedezésével a Country House Múzeumban, majd az ókori vízvezetékhez sétálunk. Délben a Thalassa Múzeumban merülünk el Ciprus gazdag tengeri történelmében. A délután a Parko Paliatsóban kínál szórakozást az egész családnak, mielőtt a napot a festői kikötőben, a lenyűgöző Black Pearl hajónál zárnánk.",
         "ro": "Dimineața în Ayia Napa începe relaxant cu explorarea moștenirii rurale la Country House Museum, urmată de o plimbare spre apeductul antic. La prânz, ne scufundăm în istoria maritimă bogată a Ciprului la Muzeul Thalassa. După-amiaza oferă distracție pentru toată familia în Parko Paliatso, înainte de a încheia ziua în portul pitoresc, lângă impresionanta Black Pearl.",
         "en": "The morning in Ayia Napa starts relaxingly by exploring the rural heritage at the Country House Museum, followed by a stroll to the ancient aqueduct. At noon, we dive into the rich maritime history of Cyprus at the Thalassa Museum. The afternoon offers fun for the whole family at Parko Paliatso, before we end the day at the picturesque harbor by the impressive Black Pearl."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Country House Museum, um dem Regen zu entgehen. Mittags bietet das Thalassa Museum einen sicheren, trockenen Rückzugsort. Nachmittags glänzen die nassen Wege am Luna Park unter den grauen Wolken. Den Abend verbringen Sie am Hafen, wo die Black Pearl trotz des Regens eine dramatische Kulisse bietet, bevor Sie in ein gemütliches Lokal einkehren.",
+            "hu": "Kezdje a napot a Country House Múzeumban, hogy menedéket találjon az eső elől. Délben a Thalassa Múzeum kínál biztonságos, száraz menedéket a záporok elől. Délután a vidámpark vizes útjai különleges fényben tündökölnek a szürke felhők alatt. Az estét a kikötőben zárja, ahol a Black Pearl drámai látványt nyújt az esőben, mielőtt egy fedett helyre húzódna.",
+            "ro": "Începeți ziua la Muzeul Country House pentru a vă adăposti de ploaie. La prânz, Muzeul Thalassa oferă un refugiu uscat și interesant. După-amiaza, aleile umede de la Luna Park strălucesc sub norii cenușii. Seara se încheie în port, unde vasul Black Pearl oferă un decor dramatic în ploaie, înainte de a vă retrage într-o tavernă primitoare.",
+            "en": "Start your day at the Country House Museum to find shelter from the rain. At noon, the Thalassa Museum provides a perfect dry retreat from the showers. In the afternoon, the wet paths of the Luna Park shine under the gray clouds. End the evening at the harbor, where the Black Pearl offers a dramatic backdrop in the rain before you find a cozy indoor spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Country House Museum",
+                "hu": "Country House Museum",
+                "ro": "Country House Museum",
+                "en": "Country House Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die traditionellen Räume im Trockenen; ideal, um den ersten Regenschauer des Tages bei einer Zeitreise in die Vergangenheit zu überbrücken.",
+                "hu": "Fedezze fel a hagyományos szobákat a szárazban; ideális hely az első záporok átvészelésére, miközben visszarepül a múltba a ciprusi ház falai között.",
+                "ro": "Explorați camerele tradiționale la interior; este locul ideal pentru a evita prima ploaie a zilei în timp ce călătoriți în trecutul cipriot.",
+                "en": "Explore the traditional rooms while staying dry; it is the ideal spot to wait out the first rain of the day while traveling back into the Cypriot past."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Napa Aquädukt",
+                "hu": "Agia Napa Vízvezeték",
+                "ro": "Apeductul Agia Napa",
+                "en": "The Agia Napa Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp unter dem Regenschirm reicht aus; achten Sie auf den rutschigen Boden rund um die antiken Steine des Vízvezeték.",
+                "hu": "Egy rövid megálló esernyő alatt is elég; figyeljen a csúszós talajra az antik kövek környékén, mivel az ösvény sárossá válhat az esőben.",
+                "ro": "O oprire scurtă sub umbrelă este suficientă; aveți grijă la solul alunecos din jurul pietrelor antice, deoarece poteca poate deveni noroioasă.",
+                "en": "A short stop under an umbrella is enough; watch out for the slippery ground around the ancient stones as the path can get muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Thalassa Municipal Museum",
+                "hu": "Thalassa Városi Múzeum",
+                "ro": "Muzeul Municipal Thalassa",
+                "en": "Thalassa Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Gebäude bietet perfekten Schutz vor starkem Regen; bestaunen Sie die antiken Schiffswracks, während es draußen stürmt.",
+                "hu": "A modern épület tökéletes védelmet nyújt a heves esőzés ellen; csodálja meg az antik hajóroncsokat, miközben odakint tombol a vihar.",
+                "ro": "Clădirea modernă oferă protecție perfectă împotriva ploii torențiale; admirați epavele antice în timp ce afară este furtună.",
+                "en": "The modern building offers perfect protection from heavy rain; admire the ancient shipwrecks while the storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parko Paliatso Luna Park",
+                "hu": "Parko Paliatso Vidámpark",
+                "ro": "Parcul de distracții Parko Paliatso",
+                "en": "Parko Paliatso Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Einige Fahrgeschäfte könnten pausieren, aber die Lichter spiegeln sich wunderschön in den Pfützen; tragen Sie wasserfeste Schuhe für den Spaziergang.",
+                "hu": "Néhány játék üzeme szünetelhet, de a fények gyönyörűen tükröződnek a tócsákban; viseljen vízálló cipőt a park területén való sétához.",
+                "ro": "Unele atracții ar putea fi închise, dar luminile se reflectă superb în bălți; purtați încălțăminte impermeabilă pentru plimbarea prin parc.",
+                "en": "Some rides might be closed, but the lights reflect beautifully in the puddles; wear waterproof shoes for walking through the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Black Pearl",
+                "hu": "Black Pearl",
+                "ro": "Black Pearl",
+                "en": "Black Pearl"
+              },
+              "tip_5lang": {
+                "de": "Das Piratenschiff wirkt im Regen besonders authentisch; nutzen Sie die überdachten Bereiche am Hafen für Fotos ohne nass zu werden.",
+                "hu": "A kalózhajó az esőben különösen autentikusnak hat; használja a kikötő fedett részeit a fotózáshoz, hogy ne ázzon el a fényképezőgép.",
+                "ro": "Nava pirat arată deosebit de autentic în ploaie; folosiți zonele acoperite din port pentru fotografii fără a vă uda echipamentul.",
+                "en": "The pirate ship looks especially authentic in the rain; use the covered areas of the harbor for photos to keep your camera dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft am Museum klar und erfrischend. Mittags wärmt die milde Wintersonne das Aquädukt. Da es gegen 17:00 Uhr dunkel wird, besuchen Sie das Thalassa Museum am frühen Nachmittag. Der Abend am Hafen ist kühl; die Black Pearl liegt ruhig im Wasser, perfekt für einen entspannten Abschluss bei einem heißen Getränk.",
+            "hu": "Reggel a levegő tiszta és frissítő a múzeumnál. Délben a gyenge téli napsütés kellemesen melegíti a vízvezetéket. Mivel 17:00 körül sötétedik, a Thalassa Múzeumot kora délután látogassa meg. Az este a kikötőben hűvös; a Black Pearl csendesen pihen a vízen, tökéletes lezárás egy forró ital mellett.",
+            "ro": "Dimineața, aerul este curat și revigorant lângă muzeu. La prânz, soarele blând de iarnă încălzește apeductul. Deoarece se întunecă în jurul orei 17:00, vizitați Muzeul Thalassa devreme. Seara în port este răcoroasă; nava Black Pearl se odihnește pe apă, fiind un final perfect lângă o băutură caldă.",
+            "en": "In the morning, the air is crisp and refreshing by the museum. At noon, the mild winter sun warms the aqueduct. Since it gets dark around 17:00, visit the Thalassa Museum in the early afternoon. The evening at the harbor is chilly; the Black Pearl rests quietly on the water, perfect for a relaxed finish with a hot drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Country House Museum",
+                "hu": "Country House Museum",
+                "ro": "Country House Museum",
+                "en": "Country House Museum"
+              },
+              "tip_5lang": {
+                "de": "Die kühlen Räume sind im Winter sehr angenehm; genießen Sie die Ruhe ohne die Touristenmassen des Sommers in den historischen Mauern.",
+                "hu": "A hűvös szobák télen kifejezetten kellemesek; élvezze a nyári turistatömeg nélküli csendet és a történelmi falak nyugalmát.",
+                "ro": "Încăperile răcoroase sunt foarte plăcute iarna; bucurați-vă de liniște fără masele de turiști din timpul verii în interiorul zidurilor istorice.",
+                "en": "The cool rooms are very pleasant in winter; enjoy the silence without the summer tourist crowds inside the historical walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Agia Napa Aquädukt",
+                "hu": "Agia Napa Vízvezeték",
+                "ro": "Apeductul Agia Napa",
+                "en": "The Agia Napa Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das weiche Winterlicht für Fotos; der Weg ist im Winter oft windig, also halten Sie Ihre Jacke bereit.",
+                "hu": "Használja ki a lágy téli fényeket a fotózáshoz; az útvonal télen gyakran szeles, ezért legyen kéznél egy meleg kabát a séta során.",
+                "ro": "Profită de lumina blândă de iarnă pentru fotografii; traseul este adesea vântos iarna, așa că ține-ți jacheta la îndemână.",
+                "en": "Take advantage of the soft winter light for photos; the path is often windy in winter, so keep your jacket ready during the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Thalassa Municipal Museum",
+                "hu": "Thalassa Városi Múzeum",
+                "ro": "Muzeul Municipal Thalassa",
+                "en": "Thalassa Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich aufzuwärmen, wenn der Wind am Nachmittag auffrischt; die Ausstellungen sind im Winter weniger überlaufen.",
+                "hu": "Ideális hely a felmelegedésre, ha délután feltámadna a szél; a kiállítások télen sokkal kényelmesebben, tömeg nélkül járhatók be.",
+                "ro": "Un loc ideal pentru a te încălzi dacă vântul se intensifică după-amiaza; expozițiile sunt mult mai puțin aglomerate iarna.",
+                "en": "An ideal place to warm up if the wind picks up in the afternoon; the exhibitions are much less crowded during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Parko Paliatso Luna Park",
+                "hu": "Parko Paliatso Vidámpark",
+                "ro": "Parcul de distracții Parko Paliatso",
+                "en": "Parko Paliatso Luna Park"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Park vor Sonnenuntergang um 17 Uhr; die kühle Abendluft macht die rasanten Fahrten zu einem erfrischenden Erlebnis.",
+                "hu": "Látogassa meg a parkot a 17 órai naplemente előtt; a hűvös esti levegő frissítő élménnyé teszi a gyorsabb játékokat.",
+                "ro": "Vizitați parcul înainte de apusul soarelui de la ora 17:00; aerul rece de seară face ca cursele rapide să fie o experiență revigorantă.",
+                "en": "Visit the park before the 17:00 sunset; the cool evening air makes the fast rides a refreshing experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Black Pearl",
+                "hu": "Black Pearl",
+                "ro": "Black Pearl",
+                "en": "Black Pearl"
+              },
+              "tip_5lang": {
+                "de": "Die Hafenpromenade ist im Winter friedlich; ziehen Sie sich warm an für den Abschiedsblick auf das beleuchtete Schiff bei Dunkelheit.",
+                "hu": "A kikötői sétány télen békés; öltözzön fel melegen a kivilágított hajóra nyíló esti kilátáshoz, mert a tenger felől hűvös szél fúj.",
+                "ro": "Promenada portului este liniștită iarna; îmbrăcați-vă gros pentru vederea de seară asupra navei iluminate, când briza mării devine rece.",
+                "en": "The harbor promenade is peaceful in winter; dress warmly for the evening view of the illuminated ship when the sea breeze turns cold."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Sportosan indulunk a Thalassa Múzeumtól, ahol a tengeri történelmet tanulmányozzuk. Ezt követően a szoborparkba tekerünk, amely egy szabadtéri múzeum közvetlenül a tengerparton. Egy rövid fotómegálló a barátság hídjánál az aranyhomokos strandok felé vezet minket. A Glyky Nero strandon tartott pihenő után a túrát a nyüzsgő Nissi Beach-en fejezzük be.",
         "ro": "Începem sportiv la Muzeul Thalassa, unde studiem istoria maritimă. Apoi pedalăm către parcul de sculpturi, un muzeu în aer liber chiar pe coastă. O scurtă oprire foto la podul prieteniei ne duce mai departe spre plajele cu nisip auriu. După o pauză de relaxare pe plaja Glyky Nero, terminăm turul cu înot și plajă pe plaja plină de viață Nissi.",
         "en": "We start sportily at the Thalassa Museum, where we study the maritime history. We then cycle to the sculpture park, an open-air museum right on the coast. A short photo stop at the friendship bridge leads us on to the golden sandy beaches. After a relaxing break at Glyky Nero Beach, we end the tour swimming and sunbathing at the lively Nissi Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig zum Thalassa Museum, da die Straßen bei Regen rutschig sind. Mittags bieten die Skulpturen im Freien ein raues, künstlerisches Bild im Nebel. Die Brücke und Glyky Nero wirken unter Wolken mystisch. Da der Regen anhalten kann, beenden Sie die Tour am Nissi Beach, wo Sie im geschützten Strandcafé das Meer beobachten können.",
+            "hu": "Biciklizzen óvatosan a Thalassa Múzeumhoz, mert az utak esőben csúszósak. Délben a szoborpark alkotásai nyers, művészi képet mutatnak a ködben. A híd és Glyky Nero misztikus hangulatot áraszt a felhők alatt. Mivel az eső elhúzódhat, a Nissi Beach-en zárjon, ahol egy fedett kávézóból figyelheti a tengert.",
+            "ro": "Pedalați cu atenție către Muzeul Thalassa, deoarece drumurile sunt alunecoase pe ploaie. La prânz, sculpturile în aer liber oferă o imagine artistică brută în ceață. Podul și Glyky Nero par mistice sub nori. Deoarece ploaia poate continua, încheiați turul la plaja Nissi, observând marea dintr-o cafenea acoperită.",
+            "en": "Cycle carefully to the Thalassa Museum, as the roads are slippery in the rain. At noon, the outdoor sculptures offer a raw, artistic image in the mist. The bridge and Glyky Nero feel mystical under the clouds. As the rain may persist, end the tour at Nissi Beach, watching the sea from a sheltered beach café."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thalassa Municipal Museum",
+                "hu": "Thalassa Városi Múzeum",
+                "ro": "Muzeul Municipal Thalassa",
+                "en": "Thalassa Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab; das Museum ist der perfekte Ort, um sich nach der ersten Fahrt im Regen abzutrocknen.",
+                "hu": "Parkolja le a biciklit az előtető alatt; a múzeum tökéletes hely a megszáradásra az első esős szakasz után a tárlatok között.",
+                "ro": "Parcați bicicleta sub copertină; muzeul este locul perfect pentru a vă usca după prima etapă de pedalat prin ploaie.",
+                "en": "Park your bike under the overhang; the museum is the perfect place to dry off after the first rainy leg of your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayia Napa International sculpture symposium",
+                "hu": "Ayia Napa Nemzetközi Szobrászati Szimpózium",
+                "ro": "Simpozionul Internațional de Sculptură Ayia Napa",
+                "en": "Ayia Napa International sculpture symposium"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Gehen zwischen den Skulpturen; der Boden kann schlammig sein, aber der nasse Stein lässt die Details schärfer wirken.",
+                "hu": "Vigyázzon a szobrok közötti sétánál; a talaj sáros lehet, de a vizes kőfelületek még élesebben mutatják meg az alkotások részleteit.",
+                "ro": "Atenție la plimbarea printre sculpturi; solul poate fi noroios, dar piatra umedă scoate în evidență detaliile operelor de artă.",
+                "en": "Be careful walking between sculptures; the ground can be muddy, but the wet stone makes the artistic details stand out even more."
+              }
+            },
+            {
+              "name": {
+                "de": "Brücke der griechisch-polnischen Freundschaft",
+                "hu": "A görög-lengyel barátság hídja",
+                "ro": "Podul prieteniei greco-poloneze",
+                "en": "Bridge of Greek & Polish Friendship"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Brücke langsam, da das Metalldeck bei Nässe extrem glatt ist; halten Sie den Lenker bei Windböen fest.",
+                "hu": "Lassan haladjon át a hídon, mert a fémfelület vizesen rendkívül csúszós; erős széllökések esetén fogja szorosan a kormányt.",
+                "ro": "Traversați podul încet, deoarece suprafața metalică este extrem de alunecoasă când este udă; țineți bine ghidonul la rafale de vânt.",
+                "en": "Cross the bridge slowly as the metal surface is extremely slippery when wet; hold the handlebars firmly during wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Glyky Nero",
+                "hu": "Glyky Nero",
+                "ro": "Glyky Nero",
+                "en": "Glyky Nero"
+              },
+              "tip_5lang": {
+                "de": "Der Strandabschnitt wirkt bei Regen verlassen und wild; eine wasserdichte Regenjacke ist für diesen exponierten Küstenweg unerlässlich.",
+                "hu": "A tengerparti szakasz esőben elhagyatott és vad; egy vízálló esőkabát elengedhetetlen ezen a kitett partmenti útvonalon.",
+                "ro": "Secțiunea de plajă pare pustie și sălbatică în ploaie; o jachetă impermeabilă este esențială pe acest traseu de coastă expus.",
+                "en": "The beach section looks deserted and wild in the rain; a waterproof jacket is essential on this exposed coastal route."
+              }
+            },
+            {
+              "name": {
+                "de": "Nissi beach",
+                "hu": "Nissi Beach",
+                "ro": "Plaja Nissi",
+                "en": "Nissi beach"
+              },
+              "tip_5lang": {
+                "de": "Das türkisfarbene Wasser wirkt auch unter grauem Himmel leuchtend; suchen Sie Schutz in einer der Bars, um den Regen am Meer auszusitzen.",
+                "hu": "A türkizkék víz szürke ég alatt is világít; keressen menedéket az egyik bárban, hogy onnan figyelje az esőcseppeket a tengeren.",
+                "ro": "Apa turcoaz strălucește chiar și sub cerul gri; căutați adăpost într-un bar pentru a privi picăturile de ploaie pe mare.",
+                "en": "The turquoise water glows even under gray skies; seek shelter in one of the bars to watch the raindrops on the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die leeren Radwege am Morgen. Mittags ist das Licht am Skulpturenpark ideal für Panoramafotos. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie die Rückfahrt vom Nissi Beach rechtzeitig ein. Der Winterwind an der Küste kann kühl sein, also tragen Sie winddichte Kleidung für die Fahrt zwischen den Stationen.",
+            "hu": "Élvezze az üres kerékpárutakat a reggeli órákban. Délben a szoborpark fényei ideálisak a panorámafotókhoz. Mivel a nap 17:00 körül lemegy, tervezze meg időben a visszautat a Nissi Beach-ről. A téli tengeri szél hűvös lehet, ezért viseljen szélálló ruhát a szakaszok között.",
+            "ro": "Bucurați-vă de pistele de biciclete libere dimineața. La prânz, lumina de la parcul de sculpturi este ideală pentru fotografii. Deoarece soarele apune la 17:00, planificați întoarcerea de la Nissi la timp. Vântul de iarnă poate fi rece, deci purtați haine rezistente la vânt.",
+            "en": "Enjoy the empty bike paths in the morning hours. At noon, the light at the sculpture park is ideal for panorama photos. Since the sun sets around 17:00, plan your return from Nissi Beach in time. The winter sea breeze can be chilly, so wear windproof clothing between stages."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thalassa Municipal Museum",
+                "hu": "Thalassa Városi Múzeum",
+                "ro": "Muzeul Municipal Thalassa",
+                "en": "Thalassa Municipal Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Eingangsbereich zum Abstellen der Räder; das Museum bietet eine willkommene Pause von der kühlen Morgenbrise.",
+                "hu": "Használja a szélvédett bejárati részt a biciklik tárolására; a múzeum kellemes pihenőt nyújt a hűvös reggeli tengeri szél után.",
+                "ro": "Folosiți zona de intrare protejată de vânt pentru a lăsa bicicletele; muzeul oferă o pauză binemeritată de briza rece a dimineții.",
+                "en": "Use the wind-sheltered entrance area to park your bikes; the museum offers a welcome break from the chilly morning sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayia Napa International sculpture symposium",
+                "hu": "Ayia Napa Nemzetközi Szobrászati Szimpózium",
+                "ro": "Simpozionul Internațional de Sculptură Ayia Napa",
+                "en": "Ayia Napa International sculpture symposium"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier wunderbar ruhig; ziehen Sie eine zusätzliche Schicht an, da das offene Gelände am Hügel sehr windanfällig ist.",
+                "hu": "Télen csodálatosan nyugodt a park; vegyen fel egy plusz réteget, mert a domboldali nyitott terep nagyon ki van téve a szélnek.",
+                "ro": "Iarna este minunat de liniște aici; puneți un strat suplimentar de haine, deoarece terenul deschis de pe deal este foarte vântos.",
+                "en": "It is wonderfully quiet here in winter; put on an extra layer as the open hillside terrain is very exposed to the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Brücke der griechisch-polnischen Freundschaft",
+                "hu": "A görög-lengyel barátság hídja",
+                "ro": "Podul prieteniei greco-poloneze",
+                "en": "Bridge of Greek & Polish Friendship"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die raue Wintersee ist von hier aus fantastisch; halten Sie für ein kurzes Foto an, bevor es zu kühl wird.",
+                "hu": "A kilátás a vad téli tengerre fantasztikus innen; álljon meg egy rövid fotóra, mielőtt túl hűvösre fordulna az idő a hídon.",
+                "ro": "Vederea spre marea agitată de iarnă este fantastică de aici; opriți-vă pentru o fotografie scurtă înainte ca vântul să devină prea rece.",
+                "en": "The view of the wild winter sea is fantastic from here; stop for a quick photo before it gets too chilly on the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Glyky Nero",
+                "hu": "Glyky Nero",
+                "ro": "Glyky Nero",
+                "en": "Glyky Nero"
+              },
+              "tip_5lang": {
+                "de": "Ideal für eine zügige Fahrt am Strand entlang; die frische Meeresluft ist im Winter besonders belebend, aber Handschuhe sind ratsam.",
+                "hu": "Ideális egy tempós tekeréshez a part mentén; a friss tengeri levegő télen különösen élénkítő, de egy kesztyű ajánlott a kormányhoz.",
+                "ro": "Ideal pentru o plimbare rapidă de-a lungul plajei; aerul proaspăt de mare este revigorant iarna, dar mănușile sunt recomandate.",
+                "en": "Ideal for a brisk ride along the beach; the fresh sea air is especially invigorating in winter, but gloves are recommended for cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Nissi beach",
+                "hu": "Nissi Beach",
+                "ro": "Plaja Nissi",
+                "en": "Nissi beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den fast leeren Strand vor dem frühen Sonnenuntergang; die Rückfahrt sollte vor 17 Uhr starten, um nicht im Dunkeln zu radeln.",
+                "hu": "Élvezze a szinte üres strandot a korai naplemente előtt; a visszautat érdemes 17 óra előtt elkezdeni, hogy ne sötétben biciklizzen.",
+                "ro": "Bucurați-vă de plaja aproape goală înainte de apusul timpuriu; întoarcerea trebuie începută înainte de 17:00 pentru a nu pedala pe întuneric.",
+                "en": "Enjoy the almost empty beach before the early sunset; you should start your return before 17:00 to avoid cycling in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Az autós túra lehetővé teszi, hogy kényelmesen megközelítsük a távolabbi látnivalókat. A történelmi vízvezetéknél kezdünk, majd a tengerparti, lenyűgöző szoborpark felé siklunk. A barátság hídjánál tartott fotómegálló után átutazunk a városon a Pernera strandig. A megkoronázás a híres Nissi Beach, ahol a késő délutánt élvezzük.",
         "ro": "Turul cu mașina ne permite să ajungem confortabil la atracțiile mai îndepărtate. Începem la apeductul istoric și apoi alunecăm spre impresionantul parc de sculpturi de la malul mării. După o oprire foto la podul prieteniei, traversăm orașul până la plaja Pernera. Punctul culminant este faimoasa plajă Nissi, unde ne bucurăm de sfârșitul după-amiezii.",
         "en": "The car tour allows us to comfortably reach the more distant sights. We start at the historic aqueduct and then glide out to the impressive seaside sculpture park. After a photo stop at the friendship bridge, we drive right across town to the beach of Pernera. The grand finale is the famous Nissi Beach, where the late afternoon is thoroughly enjoyed."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie das Auto als trockene Basis zwischen den Stopps. Am Aquädukt ist ein kurzer Blick aus dem Fenster bei starkem Regen ideal. Mittags im Skulpturenpark können Sie kurze regenfreie Momente abpassen. Nachmittags bietet die Fahrt entlang der Küste bei Pernera dramatische Ausblicke, bevor Sie den Tag gemütlich und trocken am Nissi Beach ausklingen lassen.",
+            "hu": "Használja az autót száraz bázisként a megállók között. A vízvezetéknél heves esőben egy rövid ablakon át történő megtekintés is elég. Délben a szoborparkban könnyen kivárhatja az esőszüneteket. Délután a Pernera menti autózás drámai kilátást nyújt, mielőtt a napot szárazon zárná a Nissi Beach-en.",
+            "ro": "Folosiți mașina ca bază uscată între opriri. La apeduct, o privire scurtă pe geam este suficientă în caz de ploaie torențială. La prânz, în parcul de sculpturi, puteți aștepta pauzele dintre averse. După-amiaza, condusul de-a lungul coastei Pernera oferă vederi dramatice înainte de finalul la Nissi.",
+            "en": "Use your car as a dry base between stops. At the aqueduct, a quick look through the window is ideal during heavy rain. At noon in the sculpture park, you can easily wait for gaps in the showers. In the afternoon, driving along the Pernera coast offers dramatic views before ending the day dry at Nissi Beach."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Agia Napa Aquädukt",
+                "hu": "Agia Napa Vízvezeték",
+                "ro": "Apeductul Agia Napa",
+                "en": "The Agia Napa Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Denkmal; bei starkem Regen können Sie die antike Architektur auch bequem vom Auto aus bewundern.",
+                "hu": "Parkoljon a lehető legközelebb az emlékműhöz; heves esőzés esetén az autó kényelméből is jól látható az antik építészet és a táj.",
+                "ro": "Parcați cât mai aproape de monument; în caz de ploaie puternică, puteți admira arhitectura antică din confortul mașinii.",
+                "en": "Park as close as possible to the monument; during heavy rain, you can admire the ancient architecture from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayia Napa International sculpture symposium",
+                "hu": "Ayia Napa Nemzetközi Szobrászati Szimpózium",
+                "ro": "Simpozionul Internațional de Sculptură Ayia Napa",
+                "en": "Ayia Napa International sculpture symposium"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Eingang; warten Sie einen kurzen Schauer im Wagen ab, bevor Sie die Skulpturen im Freien besichtigen.",
+                "hu": "Használja a közvetlenül a bejáratnál lévő parkolót; várja meg az autóban, amíg eláll a zápor, mielőtt kiszállna a szobrokhoz.",
+                "ro": "Folosiți parcarea de la intrare; așteptați în mașină trecerea aversei înainte de a ieși să vizitați sculpturile în aer liber.",
+                "en": "Use the parking lot right at the entrance; wait out a short shower in the car before heading out to see the outdoor sculptures."
+              }
+            },
+            {
+              "name": {
+                "de": "Brücke der griechisch-polnischen Freundschaft",
+                "hu": "A görög-lengyel barátság hídja",
+                "ro": "Podul prieteniei greco-poloneze",
+                "en": "Bridge of Greek & Polish Friendship"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Parken am Straßenrand, da der Untergrund bei Regen instabil sein kann; ein schneller Schnappschuss aus dem Wagen reicht.",
+                "hu": "Vigyázzon az út menti parkolással, mert a padka esőben instabil lehet; egy gyors fotó az ablakból is megörökíti a híd látványát.",
+                "ro": "Atenție la parcarea pe marginea drumului, deoarece solul poate fi instabil pe ploaie; o fotografie rapidă de la fereastră este suficientă.",
+                "en": "Be careful when parking on the roadside as the ground can be unstable in the rain; a quick snapshot from the window captures the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Pernera",
+                "hu": "Pernera",
+                "ro": "Pernera",
+                "en": "Pernera"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet auch bei Regen tolle Ausblicke auf die Brandung; schalten Sie die Klimaanlage ein, um beschlagene Scheiben zu vermeiden.",
+                "hu": "A part menti út esőben is remek kilátást nyújt a hullámokra; kapcsolja be a légkondicionálót a szélvédő párátlanításához az autózás alatt.",
+                "ro": "Drumul de coastă oferă vederi excelente asupra valurilor chiar și pe ploaie; porniți aerul condiționat pentru a dezaburi parbrizul.",
+                "en": "The coastal road offers great views of the surf even in the rain; turn on the air conditioning to keep the windshield from fogging up."
+              }
+            },
+            {
+              "name": {
+                "de": "Nissi beach",
+                "hu": "Nissi Beach",
+                "ro": "Plaja Nissi",
+                "en": "Nissi beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf dem großen befestigten Platz, um Schlamm zu vermeiden; genießen Sie den Blick auf die Wellen im Trockenen vom Auto aus.",
+                "hu": "Parkoljon a nagy, szilárd burkolatú parkolóban a sár elkerülése érdekében; élvezze a hullámok látványát a száraz autóból a parton.",
+                "ro": "Parcați în parcarea mare asfaltată pentru a evita noroiul; bucurați-vă de vederea valurilor din interiorul uscat al mașinii.",
+                "en": "Park in the large paved parking lot to avoid mud; enjoy the view of the waves from the dry interior of your car at the beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die milde Wintersonne für eine entspannte Fahrt. Vormittags am Aquädukt ist die Luft klar und perfekt für Fotos. Mittags bietet der Skulpturenpark weite Ausblicke ohne Hitze. Da es um 17:00 Uhr dunkel wird, erreichen Sie den Nissi Beach am frühen Nachmittag, um den Sonnenuntergang bequem vom warmen Auto oder Strandcafé aus zu erleben.",
+            "hu": "Használja ki a gyenge téli napsütést egy kellemes autózáshoz. Délelőtt a vízvezetéknél a tiszta levegő tökéletes a fotózáshoz. Délben a szoborpark hőség nélkül kínál tágas kilátást. Mivel 17:00-kor sötétedik, érjen a Nissi Beach-re kora délután, hogy a naplementét a meleg autóból vagy kávézóból nézhesse.",
+            "ro": "Profită de soarele blând de iarnă pentru o plimbare relaxată. Dimineața la apeduct, aerul curat este perfect pentru fotografii. La prânz, parcul de sculpturi oferă vederi largi fără căldură. Deoarece se întunecă la 17:00, ajungeți la plaja Nissi devreme pentru a vedea apusul din mașina caldă.",
+            "en": "Take advantage of the mild winter sun for a relaxed drive. In the morning at the aqueduct, the clear air is perfect for photos. At noon, the sculpture park offers wide views without the heat. Since it gets dark at 17:00, reach Nissi Beach in the early afternoon to watch the sunset from your warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Agia Napa Aquädukt",
+                "hu": "Agia Napa Vízvezeték",
+                "ro": "Apeductul Agia Napa",
+                "en": "The Agia Napa Aqueduct"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht lässt die antiken Steine in den Fotos besonders gut zur Geltung kommen; parken Sie direkt am Rand für einen schnellen Stopp.",
+                "hu": "A tiszta téli fények különösen jól mutatnak a fotókon az antik köveken; parkoljon közvetlenül a szélen egy gyors, kényelmes megállóhoz.",
+                "ro": "Lumina clară de iarnă face ca pietrele antice să arate foarte bine în fotografii; parcați chiar la margine pentru o oprire rapidă.",
+                "en": "The clear winter light makes the ancient stones look particularly good in photos; park right at the edge for a quick and convenient stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayia Napa International sculpture symposium",
+                "hu": "Ayia Napa Nemzetközi Szobrászati Szimpózium",
+                "ro": "Simpozionul Internațional de Sculptură Ayia Napa",
+                "en": "Ayia Napa International sculpture symposium"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden Sie hier mühelos einen Parkplatz; genießen Sie die Skulpturen bei kühleren Temperaturen, bevor Sie sich im Auto aufwärmen.",
+                "hu": "Télen könnyedén talál itt parkolóhelyet; élvezze a szobrok látványát a hűvösebb időben, mielőtt visszatérne a felmelegített autóba.",
+                "ro": "Iarna veți găsi loc de parcare fără efort; bucurați-vă de sculpturi la temperaturi mai scăzute înainte de a vă încălzi în mașină.",
+                "en": "In winter, you will find a parking space effortlessly; enjoy the sculptures in cooler temperatures before warming up back in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Brücke der griechisch-polnischen Freundschaft",
+                "hu": "A görög-lengyel barátság hídja",
+                "ro": "Podul prieteniei greco-poloneze",
+                "en": "Bridge of Greek & Polish Friendship"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße zur Brücke ist im Winter fast leer; halten Sie kurz an, um den Blick auf das raue Meer zu genießen, bevor der Wind zu kühl wird.",
+                "hu": "A hídhoz vezető part menti út télen szinte üres; álljon meg egy pillanatra a vad tenger látványáért, mielőtt a szél túl hideggé válna.",
+                "ro": "Drumul de coastă către pod este aproape gol iarna; opriți-vă scurt pentru a admira marea agitată înainte ca vântul să devină prea tăios.",
+                "en": "The coastal road to the bridge is almost empty in winter; stop briefly for the view of the wild sea before the wind gets too sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Pernera",
+                "hu": "Pernera",
+                "ro": "Pernera",
+                "en": "Pernera"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt entlang der Küste ist im Winter besonders entspannt; nutzen Sie die Parkbuchten für Fotos der einsamen Buchten im sanften Licht.",
+                "hu": "A part menti autózás télen különösen pihentető; használja a parkolóöblöket az elhagyatott öblök fotózásához a lágy délutáni fényben.",
+                "ro": "Condusul de-a lungul coastei este relaxant iarna; folosiți alveolele de parcare pentru a fotografia golful pustiu în lumina blândă.",
+                "en": "The coastal drive is especially relaxing in winter; use the parking lay-bys to photograph the deserted bays in the soft afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Nissi beach",
+                "hu": "Nissi Beach",
+                "ro": "Plaja Nissi",
+                "en": "Nissi beach"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor 17 Uhr für den Sonnenuntergang; im Winter ist das Parken am Nissi Beach stressfrei und direkt am Ufer möglich.",
+                "hu": "Érkezzen a partra 17 óra előtt a naplementére; télen a parkolás stresszmentes és közvetlenül a parton is lehetséges a Nissi Beach-nél.",
+                "ro": "Ajungeți la plajă înainte de 17:00 pentru apus; iarna parcarea la Nissi este fără stres și posibilă chiar lângă țărm.",
+                "en": "Reach the beach before 17:00 for the sunset; in winter, parking at Nissi Beach is stress-free and possible right by the shore."
+              }
+            }
+          ]
+        }
       }
     }
   }

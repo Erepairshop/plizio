@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Saint-Léger templomnál, megcsodálva a barokk részleteket. A délben a Paul Lafran Múzeum nyújt betekintést a helyi örökségbe, majd a Chapelle Saint-Pierre következik. Délután csodálja meg az ősi Pont Flavien római hídját, mielőtt a viadukt felé veszi az irányt. Este fejezze be útját a monumentális Saint-Chamas viadukt lenyűgöző látványával a naplementében.",
         "ro": "Începeți dimineața la Biserica Saint-Léger, admirând detaliile sale baroce. La amiază, Muzeul Paul Lafran vă oferă o perspectivă asupra patrimoniului local, urmat de o oprire pașnică la Chapelle Saint-Pierre. După-amiaza, admirați antic podul roman Pont Flavien. Încheiați-vă seara privind monumentalul viaduct de Saint-Chamas, un spectacol uimitor în lumina caldă a apusului de soare.",
         "en": "Begin your morning at the Saint-Léger Church, soaking in its beautiful baroque details. Midday brings an insightful journey through local heritage at the Paul Lafran Museum and a peaceful stop at Chapelle Saint-Pierre. In the afternoon, marvel at the ancient Pont Flavien before heading towards the viaduct. Conclude your evening viewing the monumental Viaduc de Saint-Chamas at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt in den historischen Mauern der Kirchen von Saint-Chamas. Mittags bietet das Paul Lafran Museum den perfekten Zufluchtsort vor dem Regen, während Sie in die lokale Geschichte eintauchen. Am Nachmittag führt der Weg unter dem Regenschirm zu den monumentalen Brücken der Stadt. Der Abend klingt bei der sanften Akustik des Viadukts im feinen Nieselregen aus.",
+            "hu": "A reggel Saint-Chamas történelmi templomainak védelmében indul. Délben a Paul Lafran Múzeum nyújt tökéletes menedéket az eső elől, ahol elmélyedhet a helyi múltban. Délután esernyővel vághatunk neki a monumentális hidak felfedezésének, ügyelve a csúszós kövekre. Az este a viadukt környékének különleges, párás hangulatával zárul, miközben az eső lágyan kopog a háztetőkön.",
+            "ro": "Dimineața începe la adăpostul zidurilor istorice ale bisericilor din Saint-Chamas. La prânz, Muzeul Paul Lafran oferă refugiul perfect împotriva ploii, unde puteți explora istoria locală. După-amiaza, drumul continuă sub umbrelă către podurile monumentale ale orașului. Seara se încheie cu atmosfera mistică a viaductului, în timp ce ploaia măruntă împrospătează aerul mediteranean.",
+            "en": "The morning begins sheltered within the historic walls of Saint-Chamas' churches. At midday, the Paul Lafran Museum provides the perfect refuge from the rain, allowing for a deep dive into local history. In the afternoon, the walk continues under an umbrella towards the city's monumental bridges. The evening concludes with the atmospheric mist around the viaduct as the rain settles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Léger Kirche",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Saint-Léger Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das prachtvolle Barock-Interieur dieser Kirche, während Sie draußen dem beruhigenden Prasseln des Regens lauschen.",
+                "hu": "Csodálja meg a templom pompás barokk belső terét, miközben bentről hallgatja az eső megnyugtató kopogását.",
+                "ro": "Admirați interiorul baroc magnific al acestei biserici în timp ce ascultați ropoteul liniștitor al ploii de afară.",
+                "en": "Admire the magnificent Baroque interior of this church while listening to the soothing sound of rain hitting the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Lafran Museum",
+                "hu": "Paul Lafran Múzeum",
+                "ro": "Muzeul Paul Lafran",
+                "en": "Paul Lafran Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausgiebigen Besuch der Sammlungen; das Museum ist der ideale beheizte und trockene Ort heute.",
+                "hu": "Használja ki az esőt a gyűjtemények alapos felfedezésére; a múzeum a mai nap ideális, fűtött és száraz menedéke.",
+                "ro": "Profitați de ploaie pentru o vizită extinsă a colecțiilor; muzeul este locul ideal, încălzit și uscat pentru ziua de azi.",
+                "en": "Take advantage of the rain for an extensive visit to the collections; the museum is today's ideal heated and dry sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Pierre",
+                "hu": "Saint-Pierre kápolna",
+                "ro": "Capela Saint-Pierre",
+                "en": "Chapelle Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zur Kapelle lohnt sich; achten Sie auf die nassen Stufen, die bei diesem Wetter besonders rutschig sein können.",
+                "hu": "Megéri egy gyors séta a kápolnáig; ügyeljen a nedves lépcsőkre, amelyek ilyenkor különösen csúszósak lehetnek.",
+                "ro": "O scurtă plimbare până la capelă merită efortul; atenție la treptele umede care pot fi deosebit de alunecoase acum.",
+                "en": "A short dash to the chapel is worth it; watch out for the wet steps which can be particularly slippery in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de la Miséricorde",
+                "hu": "Notre-Dame de la Miséricorde",
+                "ro": "Notre-Dame de la Miséricorde",
+                "en": "Notre-Dame de la Miséricorde"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die Lagune unter grauem Himmel, aber halten Sie Ihren Regenschirm wegen des Windes fest.",
+                "hu": "Élvezze a lagúnára nyíló drámai kilátást a szürke égbolt alatt, de tartsa erősen az esernyőjét a feltámadó szélben.",
+                "ro": "Bucurați-vă de vederea dramatică asupra lagunei sub cerul gri, dar țineți bine umbrela din cauza vântului puternic.",
+                "en": "Enjoy the dramatic view of the lagoon under grey skies, but hold your umbrella firmly due to the coastal wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Flavien",
+                "hu": "Pont Flavien",
+                "ro": "Pont Flavien",
+                "en": "Pont Flavien"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine glänzen wunderschön im Regen; tragen Sie festes Schuhwerk, um auf dem nassen Pflaster sicher zu gehen.",
+                "hu": "Az ősi kövek gyönyörűen csillognak az esőben; viseljen stabil cipőt, hogy biztonságosan járhasson a nedves burkolaton.",
+                "ro": "Pietrele antice strălucesc frumos în ploaie; purtați încălțăminte stabilă pentru a merge în siguranță pe pavajul umed.",
+                "en": "The ancient stones glisten beautifully in the rain; wear sturdy footwear to walk safely on the wet Roman pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Viaduc de Saint-Chamas",
+                "hu": "Saint-Chamas Viadukt",
+                "ro": "Viaductul din Saint-Chamas",
+                "en": "Viaduc de Saint-Chamas"
+              },
+              "tip_5lang": {
+                "de": "Das Viadukt wirkt im Nebel fast mystisch; suchen Sie unter den großen Bögen Schutz, falls der Schauer noch einmal zunimmt.",
+                "hu": "A viadukt szinte misztikusnak tűnik a ködben; keressen menedéket a hatalmas ívek alatt, ha az eső ismét rákezdene.",
+                "ro": "Viaductul pare aproape mistic în ceață; căutați adăpost sub arcadele mari dacă ploaia se intensifică din nou.",
+                "en": "The viaduct looks almost mystical in the mist; seek shelter under the large arches if the shower intensifies again."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Saint-Chamas bietet frische Luft und leere Gassen. Mittags wärmen Sie sich im Paul Lafran Museum auf, bevor Sie die tiefstehende Wintersonne an der Küste genießen. Da es bereits gegen 17:00 Uhr dunkel wird, liegt der Fokus auf den monumentalen Bauwerken im goldenen Licht des Nachmittags. Der Abend endet gemütlich in der beleuchteten Altstadt.",
+            "hu": "A tiszta téli reggel Saint-Chamas-ban friss levegőt és üres utcákat kínál. Délben melegedjen fel a Paul Lafran Múzeumban, mielőtt kiélvezné az alacsonyan járó téli nap sugarait a parton. Mivel 17:00 körül sötétedik, a hangsúly a monumentális építmények délutáni aranyfényére kerül. Az este a kivilágított óváros meghitt hangulatában zárul, mielőtt a hideg igazán beállna.",
+            "ro": "O dimineață senină de iarnă în Saint-Chamas oferă aer proaspăt și străzi liniștite. La prânz, încălziți-vă în Muzeul Paul Lafran înainte de a vă bucura de soarele blând de iarnă pe malul mării. Deoarece se întunecă în jurul orei 17:00, accentul cade pe lumina aurie a după-amiezii peste monumente. Seara se încheie confortabil în centrul vechi iluminat.",
+            "en": "A crisp winter morning in Saint-Chamas offers fresh air and quiet streets. At midday, warm up inside the Paul Lafran Museum before enjoying the low winter sun along the coast. Since it gets dark around 17:00, the focus is on the golden afternoon light hitting the monuments. The evening concludes cozily in the illuminated old town as the temperature drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Léger Kirche",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Saint-Léger Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; nutzen Sie die ruhige Atmosphäre für eine besinnliche Pause im Warmen.",
+                "hu": "A vastag falak kint tartják a hideget; használja ki a csendes légkört egy meghitt, melengető pihenőre a templomban.",
+                "ro": "Zidurile groase țin frigul afară; profitați de atmosfera liniștită pentru o pauză relaxantă și călduroasă în interior.",
+                "en": "The thick stone walls keep the biting cold out; use the quiet atmosphere for a peaceful, warm break inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Lafran Museum",
+                "hu": "Paul Lafran Múzeum",
+                "ro": "Muzeul Paul Lafran",
+                "en": "Paul Lafran Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort, um der Winterkälte für ein paar Stunden zu entfliehen und die Geschichte der Stadt zu studieren.",
+                "hu": "Ez az ideális hely, hogy néhány órára elmeneküljön a téli hideg elől, miközben a város gazdag múltját tanulmányozza.",
+                "ro": "Acesta este locul ideal pentru a scăpa de frigul iernii timp de câteva ore în timp ce studiați istoria orașului.",
+                "en": "This is the ideal place to escape the winter chill for a few hours while studying the city's rich and diverse history."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Pierre",
+                "hu": "Saint-Pierre kápolna",
+                "ro": "Capela Saint-Pierre",
+                "en": "Chapelle Saint-Pierre"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet die Fassade der Kapelle am späten Vormittag besonders fotogen; ziehen Sie sich warm an.",
+                "hu": "A téli napsütés késő délelőtt különösen fotogén módon világítja meg a kápolna homlokzatát; öltözzön rétegesen.",
+                "ro": "Soarele de iarnă luminează fațada capelei într-un mod deosebit de fotogen la sfârșitul dimineții; îmbrăcați-vă gros.",
+                "en": "The winter sun illuminates the chapel facade beautifully in the late morning; dress in warm layers for the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de la Miséricorde",
+                "hu": "Notre-Dame de la Miséricorde",
+                "ro": "Notre-Dame de la Miséricorde",
+                "en": "Notre-Dame de la Miséricorde"
+              },
+              "tip_5lang": {
+                "de": "Der Wind an der Küste kann im Winter schneidend sein; ein Schal und eine Mütze sind für diesen Aussichtspunkt Pflicht.",
+                "hu": "A tengerparti szél télen metsző lehet; egy sál és egy sapka kötelező viselet ennél a kilátópontnál.",
+                "ro": "Vântul de pe coastă poate fi tăios iarna; un fular și o căciulă sunt obligatorii pentru acest punct de belvedere.",
+                "en": "The coastal wind can be biting in winter; a scarf and hat are essential for enjoying this viewpoint comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Flavien",
+                "hu": "Pont Flavien",
+                "ro": "Pont Flavien",
+                "en": "Pont Flavien"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Brücke vor 16:30 Uhr, um das warme Licht der untergehenden Wintersonne auf dem Stein einzufangen.",
+                "hu": "Érkezzen a hídhoz 16:30 előtt, hogy elkapja a lemenő téli nap meleg fényeit az ősi köveken.",
+                "ro": "Ajungeți la pod înainte de ora 16:30 pentru a surprinde lumina caldă a soarelui de iarnă pe pietrele antice.",
+                "en": "Reach the bridge before 16:30 to catch the warm, low light of the setting winter sun on the ancient stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Viaduc de Saint-Chamas",
+                "hu": "Saint-Chamas Viadukt",
+                "ro": "Viaductul din Saint-Chamas",
+                "en": "Viaduc de Saint-Chamas"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre Tour hier ab, wenn die Lichter des Viadukts angehen; die Blaue Stunde beginnt im Winter sehr früh.",
+                "hu": "Zárja itt a túrát, amikor a viadukt fényei kigyúlnak; a kék óra télen nagyon korán kezdődik, lenyűgöző látvány.",
+                "ro": "Încheiați turul aici când se aprind luminile viaductului; ora albastră începe foarte devreme iarna, oferind un spectacol.",
+                "en": "Conclude your tour here as the viaduct lights come on; the blue hour starts very early in winter, looking magical."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpáros napot a Grand bassin békés vizei mellett. Délben a város szívébe teker, hogy felfedezze a történelmi Saint-Léger templomot és a lenyűgöző Paul Lafran Múzeumot. Délután tekerjen a Pont Flavien csodás római íveihez és a sziklába vájt Ermitage-hoz. Az estéje tökéletesen zárul a híres Saint-Chamas viadukt monumentális és megkapó szerkezete alatt megpihenve.",
         "ro": "Începeți ziua de ciclism lângă apele liniștite ale Grand bassin. La amiază mergeți în inima orașului pentru a explora Biserica istorică Saint-Léger și captivantul Muzeu Paul Lafran. Petreceți după-amiaza pedalând spre magnificele arcuri romane ale Pont Flavien și Schitul săpat în stâncă. Seara se termină perfect sub structura impunătoare a faimosului viaduct de Saint-Chamas.",
         "en": "Start your cycling day beside the tranquil waters of the Grand bassin. Midday takes you into the town's heart to explore the historic Saint-Léger Church and the captivating Paul Lafran Museum. Spend your afternoon pedaling to the magnificent Roman arches of Pont Flavien and the cliffside Ermitage. Your evening finishes perfectly under the grand structure of the famous Viaduc de Saint-Chamas."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Uferwegen des Grand Bassin. Vormittags nutzen Sie die Kirchenpausen zum Abtrocknen, während der Mittag im Museum für eine längere Pause sorgt. Die monumentale Architektur wirkt bei grauem Himmel besonders kraftvoll. Achten Sie auf die Bodenbeschaffenheit und genießen Sie die kühle, frische Brise während der Fahrt.",
+            "hu": "Az esős bringázás óvatosságot igényel a Grand Bassin menti utakon. Délelőtt használja ki a templomi megállókat a száradásra, a délutánt pedig töltse a múzeumban, amíg elvonul a vihar. A monumentális építészet különösen erőteljesnek tűnik a szürke égbolt alatt. Ügyeljen az útburkolat minőségére, és élvezze a frissítő, hűvös szelet tekerés közben.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe drumurile de lângă Grand Bassin. Dimineața, folosiți opririle la biserici pentru a vă usca, iar prânzul la muzeu oferă o pauză lungă. Arhitectura monumentală pare deosebit de puternică sub cerul gri. Atenție la starea drumului și bucurați-vă de briza răcoroasă în timp ce pedalați.",
+            "en": "Cycling in the rain requires caution on the paths along the Grand Bassin. Use church stops in the morning to dry off, and plan for a longer museum visit at midday. The monumental architecture looks particularly powerful under grey skies. Pay attention to the road surface and enjoy the refreshing, cool breeze while riding through town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Großes Becken",
+                "hu": "Nagy medence",
+                "ro": "Bazinul mare",
+                "en": "Grand bassin"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können schlammig sein; prüfen Sie Ihre Reifenhaftung und genießen Sie die dramatische Wasseroberfläche.",
+                "hu": "Az utak sárosak lehetnek; ellenőrizze a gumik tapadását, és élvezze a drámai látványt nyújtó vízfelületet.",
+                "ro": "Drumurile pot fi noroioase; verificați aderența anvelopelor și bucurați-vă de suprafața dramatică a apei.",
+                "en": "The paths can be muddy; check your tire grip and enjoy the dramatic look of the water surface under the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Léger Kirche",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Saint-Léger Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Vordach unter und nutzen Sie die Zeit drinnen, um Ihre Regenbekleidung kurz auszuschütteln.",
+                "hu": "Parkoljon le a bejárat melletti védett helyen, és használja az időt a vizes ruhák rövid lerázására a templom előtt.",
+                "ro": "Parcați bicicleta sub copertină și folosiți timpul în interior pentru a vă scutura scurt pelerina de ploaie.",
+                "en": "Park your bike under the overhang and use the time inside to briefly shake off your wet rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Lafran Museum",
+                "hu": "Paul Lafran Múzeum",
+                "ro": "Muzeul Paul Lafran",
+                "en": "Paul Lafran Museum"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier einen längeren Aufenthalt ein, um vollständig abzutrocknen; das Museum bietet viel Platz und Wärme.",
+                "hu": "Tervezzen ide hosszabb megállót, hogy teljesen megszáradjon; a múzeum tágas terei és melege tökéletes erre.",
+                "ro": "Planificați o ședere mai lungă aici pentru a vă usca complet; muzeul oferă mult spațiu și căldură.",
+                "en": "Plan for a longer stay here to dry off completely; the museum offers plenty of space and a warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Flavien",
+                "hu": "Pont Flavien",
+                "ro": "Pont Flavien",
+                "en": "Pont Flavien"
+              },
+              "tip_5lang": {
+                "de": "Die Römerstraße ist bei Nässe sehr rutschig; steigen Sie am besten kurz ab, um das Denkmal sicher zu umrunden.",
+                "hu": "A római út nedvesen nagyon csúszós; érdemes rövid időre leszállni a nyeregből, hogy biztonságosan megnézze az emlékművet.",
+                "ro": "Drumul roman este foarte alunecos când e ud; cel mai bine este să coborâți de pe bicicletă pentru a vedea monumentul.",
+                "en": "The Roman road is very slippery when wet; it's best to dismount briefly to explore the monument safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermitage Saint-Léger",
+                "hu": "Ermitage Saint-Léger",
+                "ro": "Schitul Saint-Léger",
+                "en": "Ermitage Saint-Léger"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen anstrengend sein; achten Sie auf eine gleichmäßige Trittfrequenz auf dem feuchten Asphalt.",
+                "hu": "Az emelkedő esőben fárasztóbb lehet; ügyeljen az egyenletes tempóra a nedves aszfalton felfelé tekerve.",
+                "ro": "Urcarea poate fi obositoare pe ploaie; mențineți o cadență constantă pe asfaltul umed în timp ce urcați.",
+                "en": "The climb can be more taxing in the rain; maintain a steady cadence on the damp asphalt to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Viaduc de Saint-Chamas",
+                "hu": "Saint-Chamas Viadukt",
+                "ro": "Viaductul din Saint-Chamas",
+                "en": "Viaduc de Saint-Chamas"
+              },
+              "tip_5lang": {
+                "de": "Das dunkle Gestein des Viadukts kontrastiert stark mit dem grauen Himmel; ein tolles Motiv für regnerische Reisefotos.",
+                "hu": "A viadukt sötét kövei éles kontrasztot alkotnak a szürke égbolttal; kiváló téma az esős hangulatú fotókhoz.",
+                "ro": "Piatra întunecată a viaductului contrastează puternic cu cerul gri; un subiect excelent pentru fotografii de călătorie.",
+                "en": "The dark stone of the viaduct contrasts sharply with the grey sky; a great subject for moody rainy travel photos."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die stille Landschaft am Grand Bassin. Vormittags sorgt die Bewegung für Wärme, während das Museum am Mittag den nötigen Kälteschutz bietet. Da die Sonne früh untergeht, sollten Sie die Küstenabschnitte am frühen Nachmittag befahren. Denken Sie an winddichte Kleidung, da der Fahrtwind die Kälte verstärkt. Der Tag endet rechtzeitig vor dem Frost.",
+            "hu": "A téli kerékpártúra a Grand Bassin környéki csendes tájon vezet keresztül. Délelőtt a mozgás melegen tart, délben pedig a múzeum nyújt menedéket a fagy elől. Mivel a nap korán nyugszik, a tengerparti szakaszokat kora délutánra időzítse. Viseljen szélálló ruhát, mert a menetszél felerősíti a hideget. A nap a fagy beállta előtt véget ér.",
+            "ro": "Turul cu bicicleta de iarnă trece prin peisajul liniștit de lângă Grand Bassin. Dimineața mișcarea vă ține cald, iar la prânz muzeul oferă protecție împotriva frigului. Deoarece soarele apune devreme, parcurgeți secțiunile de coastă la începutul după-amiezii. Purtați haine rezistente la vânt, deoarece viteza accentuează frigul.",
+            "en": "The winter bike tour leads through the quiet landscapes around Grand Bassin. Movement keeps you warm in the morning, while the museum provides shelter from the chill at midday. Since the sun sets early, schedule coastal sections for the early afternoon. Wear windproof layers, as speed increases the wind chill. End your ride before the evening frost."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Großes Becken",
+                "hu": "Nagy medence",
+                "ro": "Bazinul mare",
+                "en": "Grand bassin"
+              },
+              "tip_5lang": {
+                "de": "Der eisige Wind vom Wasser her erfordert gute Handschuhe; genießen Sie die klare Sicht über die winterliche Lagune.",
+                "hu": "A víz felől fújó jeges szél jó kesztyűt igényel; élvezze a tiszta kilátást a téli lagúna felett.",
+                "ro": "Vântul înghețat de pe apă necesită mănuși bune; bucurați-vă de vederea clară asupra lagunei în timpul iernii.",
+                "en": "The icy wind from the water requires good gloves; enjoy the crystal-clear visibility across the winter lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Léger Kirche",
+                "hu": "Saint-Léger templom",
+                "ro": "Biserica Saint-Léger",
+                "en": "Saint-Léger Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für Dehnübungen im Inneren, um Ihre Muskeln in der Kälte geschmeidig zu halten.",
+                "hu": "Használja ki a megállót egy kis benti nyújtásra, hogy az izmait rugalmasan tartsa a kinti hidegben való tekerés után.",
+                "ro": "Folosiți oprirea pentru exerciții de stretching în interior, pentru a vă menține mușchii relaxați în frig.",
+                "en": "Use this stop for some indoor stretching to keep your muscles supple after riding in the cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Lafran Museum",
+                "hu": "Paul Lafran Múzeum",
+                "ro": "Muzeul Paul Lafran",
+                "en": "Paul Lafran Museum"
+              },
+              "tip_5lang": {
+                "de": "Verlängern Sie Ihren Museumsbesuch, um dem kältesten Teil des Tages im Warmen zu entgehen.",
+                "hu": "Hosszabbítsa meg a múzeumlátogatást, hogy a nap leghidegebb részét fűtött, kellemes környezetben töltse.",
+                "ro": "Prelungiți vizita la muzeu pentru a evita cea mai rece parte a zilei stând la căldură în interior.",
+                "en": "Extend your museum visit to avoid the coldest part of the day by staying in a warm, heated environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Flavien",
+                "hu": "Pont Flavien",
+                "ro": "Pont Flavien",
+                "en": "Pont Flavien"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht lässt die Brücke gegen 16:00 Uhr golden leuchten; perfekt für ein schnelles Foto.",
+                "hu": "Az alacsonyan járó napfény 16:00 körül arany színbe öltözteti a hidat; tökéletes időpont egy gyors fotóhoz.",
+                "ro": "Lumina soarelui la apus face ca podul să strălucească auriu în jurul orei 16:00; perfect pentru o fotografie rapidă.",
+                "en": "The low winter sunlight makes the bridge glow golden around 16:00; it's the perfect time for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermitage Saint-Léger",
+                "hu": "Ermitage Saint-Léger",
+                "ro": "Schitul Saint-Léger",
+                "en": "Ermitage Saint-Léger"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg bringt Ihren Kreislauf in Schwung; oben angekommen, kühlt man im Winterwind jedoch schnell aus.",
+                "hu": "Az emelkedő alaposan felpörgeti a vérkeringést; de vigyázzon, a csúcson a téli szélben hamar áthűlhet a teste.",
+                "ro": "Urcarea vă va pune sângele în mișcare; odată ajuns sus însă, vă veți răci rapid în vântul de iarnă.",
+                "en": "The climb will get your circulation going; however, you will cool down quickly in the winter wind at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Viaduc de Saint-Chamas",
+                "hu": "Saint-Chamas Viadukt",
+                "ro": "Viaductul din Saint-Chamas",
+                "en": "Viaduc de Saint-Chamas"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor Einbruch der Dunkelheit um 17:00 Uhr, um sicher und warm zurückzukommen.",
+                "hu": "Fejezze be a bringázást a sötétség 17:00-s beállta előtt, hogy biztonságban és még időben visszaérjen a szállására.",
+                "ro": "Încheiați plimbarea înainte de lăsarea întunericului la ora 17:00, pentru a ajunge înapoi în siguranță.",
+                "en": "Finish your ride before darkness falls at 17:00 to ensure you return safely and stay warm as the frost begins."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggeli autózása északon kezdődik a Notre-Dame-de-Beauvezer templom és a Chapelle Saint-Julien eldugott bájával. Délben egy festői megállót tehet a Grand bassinnál, és történelmi ismereteket szerezhet a múzeumban. Délután fedezze fel az ősi Pont Flavien csodáját. Élvezze a festői estét a viadukt magasba törő boltíveinek megtekintésével, ahogy a nap lassan eltűnik a horizonton.",
         "ro": "Plimbarea de dimineață începe în nord cu farmecul izolat al Bisericii Notre-Dame-de-Beauvezer și al Capelei Saint-Julien. La amiază faceți o oprire la Grand bassin și o vizită la Muzeul Paul Lafran. Odată cu lăsarea după-amiezii, descoperiți minunea antică a Pont Flavien. Bucurați-vă de o seară pitorească privind arcurile înalte ale viaductului în timp ce lumina zilei se estompează.",
         "en": "Your morning drive begins in the north with the secluded charm of Église Notre-Dame-de-Beauvezer and Chapelle Saint-Julien. Midday invites a scenic stop at the Grand bassin and deep historical insights at the Paul Lafran Museum. As afternoon sets in, discover the ancient wonder of the Pont Flavien. Enjoy a scenic evening viewing the soaring arches of the viaduct as the day slowly fades."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto dient heute als mobiler Unterschlupf zwischen den Sehenswürdigkeiten. Vormittags erkunden Sie die Kirchen, wobei Sie nur kurz durch den Regen sprinten müssen. Das Museum am Mittag bietet ein ausgiebiges Indoor-Erlebnis. Genießen Sie die Fahrt entlang der nebligen Lagune und die Sicht auf monumentale Bauwerke direkt aus dem trockenen Fahrzeug. Der Abend endet stressfrei und warm.",
+            "hu": "Az autó ma mobil menedékként szolgál a látnivalók között. Délelőtt fedezze fel a templomokat, csak rövid sprinteket téve az esőben. A múzeumi megálló délben bőséges beltéri élményt nyújt. Élvezze a ködös lagúna látványát és a monumentális építményeket közvetlenül a száraz járműből. Az este stresszmentesen és melegben ér véget, miközben odakint dobol az eső.",
+            "ro": "Mașina servește astăzi ca adăpost mobil între obiectivele turistice. Dimineața explorați bisericile, făcând doar sprinturi scurte prin ploaie. Muzeul de la prânz oferă o experiență bogată în interior. Bucurați-vă de vederea lagunei cețoase și a monumentelor direct din vehiculul uscat. Seara se încheie fără stres și la căldură.",
+            "en": "The car serves as your mobile shelter between sights today. Explore the churches in the morning with only short dashes through the rain. The museum at midday provides an extensive indoor experience. Enjoy the view of the misty lagoon and monumental structures directly from your dry vehicle. The evening concludes stress-free and warm inside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-Beauvezer",
+                "hu": "Notre-Dame-de-Beauvezer templom",
+                "ro": "Biserica Notre-Dame-de-Beauvezer",
+                "en": "Église Notre-Dame-de-Beauvezer"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu meiden und das stille Innere trocken zu erreichen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt, és szárazon érje el a templom csendes belső terét.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia și pentru a ajunge uscat în interiorul liniștit.",
+                "en": "Park as close to the entrance as possible to avoid the heavy rain and reach the quiet interior while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Julien",
+                "hu": "Saint-Julien kápolna",
+                "ro": "Capela Saint-Julien",
+                "en": "Chapelle Saint-Julien"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Kapelle durch die Windschutzscheibe, bevor Sie für ein kurzes Foto kurz aussteigen.",
+                "hu": "Élvezze a kápolnára nyíló kilátást a szélvédőn keresztül, mielőtt kiszállna egy gyors fotó erejéig.",
+                "ro": "Bucurați-vă de vederea capelei prin parbriz înainte de a coborî scurt pentru o fotografie rapidă.",
+                "en": "Enjoy the view of the chapel through your windshield before stepping out briefly for a quick atmospheric photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Großes Becken",
+                "hu": "Nagy medence",
+                "ro": "Bazinul mare",
+                "en": "Grand bassin"
+              },
+              "tip_5lang": {
+                "de": "Die Uferstraße bietet bei Regen eine melancholische Atmosphäre; nutzen Sie die Parkplätze für einen Blick aufs Wasser.",
+                "hu": "A vízparti út esőben melankolikus hangulatot áraszt; használja a parkolókat egy gyors kitekintésre a vízre.",
+                "ro": "Drumul de pe mal oferă o atmosferă melancolică pe ploaie; folosiți parcările pentru o privire asupra apei.",
+                "en": "The coastal road offers a melancholic atmosphere in the rain; use the parking spots for a view of the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Lafran Museum",
+                "hu": "Paul Lafran Múzeum",
+                "ro": "Muzeul Paul Lafran",
+                "en": "Paul Lafran Museum"
+              },
+              "tip_5lang": {
+                "de": "Der Museumsparkplatz ist gut erreichbar; nutzen Sie den Regen für eine ausgiebige Tour durch die Ausstellungen.",
+                "hu": "A múzeum parkolója jól megközelíthető; használja ki az esős időt a kiállítások alapos végigjárására.",
+                "ro": "Parcarea muzeului este ușor accesibilă; profitați de ploaie pentru un tur amănunțit al expozițiilor.",
+                "en": "The museum parking is easily accessible; take advantage of the rain for an extensive tour of the exhibitions."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Flavien",
+                "hu": "Pont Flavien",
+                "ro": "Pont Flavien",
+                "en": "Pont Flavien"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Parkplatz mit Sicht auf die Brücke, um die Architektur im Regen ohne nass zu werden zu bewundern.",
+                "hu": "Keressen egy parkolóhelyet kilátással a hídra, hogy anélkül csodálhassa az építészetet, hogy megázna.",
+                "ro": "Căutați un loc de parcare cu vedere la pod pentru a admira arhitectura în ploaie fără a vă uda.",
+                "en": "Find a parking spot with a view of the bridge to admire the architecture in the rain without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Viaduc de Saint-Chamas",
+                "hu": "Saint-Chamas Viadukt",
+                "ro": "Viaductul din Saint-Chamas",
+                "en": "Viaduc de Saint-Chamas"
+              },
+              "tip_5lang": {
+                "de": "Die nebligen Bögen des Viadukts sind ein tolles Fotomotiv; halten Sie kurz an, bevor Sie die Heimreise im Warmen antreten.",
+                "hu": "A viadukt ködös ívei nagyszerű fotótémát szolgáltatnak; álljon meg egy pillanatra, mielőtt hazaindulna a melegben.",
+                "ro": "Arcadele cețoase ale viaductului sunt un subiect foto excelent; opriți scurt înainte de a pleca spre casă la căldură.",
+                "en": "The misty arches of the viaduct make for a great photo; stop briefly before heading home in your warm car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Saint-Chamas kombiniert Komfort mit Panoramablicken. Vormittags besuchen Sie die abgelegenen Kapellen, während die Heizung Sie zwischen den Stopps warm hält. Das Museum bildet den kulturellen Höhepunkt am Mittag. Da es früh dunkel wird, nutzen Sie das Auto für eine Rundfahrt zur Lagune im letzten Tageslicht. Der Tag endet gemütlich vor dem Einbruch der Nacht.",
+            "hu": "A téli autós kirándulás Saint-Chamas-ban ötvözi a kényelmet a panorámás kilátással. Délelőtt látogassa meg a távolabbi kápolnákat, miközben a fűtés melegen tartja. A múzeum jelenti a kulturális csúcspontot délben. Mivel korán sötétedik, használja az autót egy utolsó körre a lagúnához a fényekben. A nap kényelmesen ér véget az éjszaka beállta előtt.",
+            "ro": "O excursie de iarnă cu mașina prin Saint-Chamas combină confortul cu vederile panoramice. Dimineața vizitați capelele izolate în timp ce încălzirea vă ține cald. Muzeul este punctul culminant cultural la prânz. Deoarece se întunecă devreme, folosiți mașina pentru un tur al lagunei în ultima lumină a zilei.",
+            "en": "A winter driving tour through Saint-Chamas combines comfort with panoramic views. Visit the remote chapels in the morning while the car heater keeps you warm between stops. The museum is the cultural highlight at midday. Since it gets dark early, use the car for a final drive to the lagoon in the last daylight. The day ends comfortably."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-Beauvezer",
+                "hu": "Notre-Dame-de-Beauvezer templom",
+                "ro": "Biserica Notre-Dame-de-Beauvezer",
+                "en": "Église Notre-Dame-de-Beauvezer"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehende Wintersonne, die beim Fahren blenden kann; die Kirche bietet einen ruhigen, kühlen Rückzugsort.",
+                "hu": "Ügyeljen az alacsonyan járó téli napra, amely vezetés közben vakíthat; a templom csendes, hűvös menedéket nyújt.",
+                "ro": "Atenție la soarele de iarnă care vă poate orbi în timp ce conduceți; biserica oferă un refugiu liniștit și răcoros.",
+                "en": "Watch out for the low winter sun which can dazzle while driving; the church offers a peaceful, cool sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Julien",
+                "hu": "Saint-Julien kápolna",
+                "ro": "Capela Saint-Julien",
+                "en": "Chapelle Saint-Julien"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Kälte lohnt sich für die Architektur; die Kapelle wirkt im Winterlicht besonders klar und rein.",
+                "hu": "Egy rövid megálló a hidegben is megéri az építészetért; a kápolna a téli fényben különösen tisztának és tisztának tűnik.",
+                "ro": "O scurtă oprire în frig merită pentru arhitectură; capela pare deosebit de clară și pură în lumina iernii.",
+                "en": "A short stop in the cold is worth it for the architecture; the chapel looks particularly clear and pure in winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Großes Becken",
+                "hu": "Nagy medence",
+                "ro": "Bazinul mare",
+                "en": "Grand bassin"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt am Wasser entlang ist im Winter besonders malerisch; parken Sie für ein paar Minuten, um die Ruhe zu genießen.",
+                "hu": "A vízparti vezetés télen különösen festői; parkoljon le néhány percre, hogy élvezze a téli táj csendjét.",
+                "ro": "Condusul pe malul apei este deosebit de pitoresc iarna; parcați pentru câteva minute pentru a vă bucura de liniște.",
+                "en": "Driving along the water is particularly scenic in winter; park for a few minutes to enjoy the silence of the lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Paul Lafran Museum",
+                "hu": "Paul Lafran Múzeum",
+                "ro": "Muzeul Paul Lafran",
+                "en": "Paul Lafran Museum"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Museum ist der Herzschlag Ihrer Tour heute; nehmen Sie sich Zeit, um der Kälte draußen zu entfliehen.",
+                "hu": "A fűtött múzeum a mai túra szíve; szánjon időt rá, hogy teljesen elmeneküljön a kinti metsző hideg elől.",
+                "ro": "Muzeul încălzit este inima turului de astăzi; acordați-vă timp pentru a scăpa complet de frigul de afară.",
+                "en": "The heated museum is the heart of your tour today; take your time here to fully escape the biting winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pont Flavien",
+                "hu": "Pont Flavien",
+                "ro": "Pont Flavien",
+                "en": "Pont Flavien"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe für einen schnellen Spaziergang; die Blaue Stunde am Nachmittag verleiht der Brücke einen magischen Glanz.",
+                "hu": "Parkoljon a közelben egy rövid sétához; a délutáni kék óra mágikus ragyogást kölcsönöz az ókori hídnak.",
+                "ro": "Parcați în apropiere pentru o plimbare scurtă; ora albastră de după-amiază oferă podului o strălucire magică.",
+                "en": "Park nearby for a short walk; the afternoon blue hour lends a magical glow to the ancient Roman bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Viaduc de Saint-Chamas",
+                "hu": "Saint-Chamas Viadukt",
+                "ro": "Viaductul din Saint-Chamas",
+                "en": "Viaduc de Saint-Chamas"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Beleuchtung des Viadukts gegen 17:00 Uhr direkt aus dem Auto, bevor Sie gemütlich die Heimreise antreten.",
+                "hu": "Nézze meg a viadukt kivilágítását 17:00 körül közvetlenül az autóból, mielőtt kényelmesen elindulna hazafelé.",
+                "ro": "Priviți iluminarea viaductului în jurul orei 17:00 direct din mașină, înainte de a pleca confortabil spre casă.",
+                "en": "Experience the illumination of the viaduct around 17:00 directly from your car before heading home in comfort."
+              }
+            }
+          ]
+        }
       }
     }
   }

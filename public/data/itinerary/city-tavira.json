@@ -160,6 +160,196 @@
         "hu": "Kezdje a sétát Tavira iszlám múltjának felfedezésével a Museu Islâmico-ban, majd sétáljon át a Museu Municipalba, ahol további helyi művészeti és történelmi kincseket csodálhat meg.\n\nMiután felfedezte a múzeumokat, sétáljon el a történelmi Bairro Almóada negyedbe, ahol az ősi macskaköves utcák arra hívják, hogy elmerüljön a város lenyűgöző mór gyökereiben.\n\nÉlvezze a békés sétát a Largo de Santa Ana-hoz, egy festői térhez, amely tökéletes a fák alatti pihenéshez, mielőtt felfedezné a kortárs művészetet a Casa das Artes de Tavira-ban.\n\nZárja sétáját a Tavira Science Centre-ben, ahol a lenyűgöző interaktív kiállítások szórakoztató befejezést kínálnak egy kultúrával és felfedezéssel teli napnak.",
         "ro": "Începeți turul plonjând în trecutul islamic al orașului Tavira la Museu Islâmico, înainte de a merge la Museu Municipal pentru a descoperi mai multă artă și istorie locală.\n\nDupă ce ați explorat muzeele, plimbați-vă spre istoricul Bairro Almóada, unde străzile vechi pietruite vă invită să vă scufundați în rădăcinile maure fascinante ale orașului.\n\nBucurați-vă de o plimbare liniștită până la Largo de Santa Ana, o piață pitorească perfectă pentru odihnă sub copaci, înainte de a descoperi arta contemporană la Casa das Artes de Tavira.\n\nÎncheiați-vă aventura la Tavira Science Centre, unde exponatele interactive captivante oferă un final distractiv pentru o zi plină de cultură și descoperiri uimitoare.",
         "en": "Begin your walking tour diving into Tavira's Islamic past at the Museu Islâmico before walking over to the Museu Municipal to discover more local art and history in a beautiful setting.\n\nAfter exploring the museums, wander up to the historical Bairro Almóada, where ancient cobblestone streets invite you to immerse yourself in the city’s Moorish roots.\n\nEnjoy a peaceful stroll to Largo de Santa Ana, a picturesque square perfect for resting under the trees before discovering local contemporary art at Casa das Artes de Tavira.\n\nConclude your walking adventure at the Tavira Science Centre, where engaging interactive displays offer a fun wrap-up to a day filled with culture and discovery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Vormittag im Islamischen Museum, einem perfekten Rückzugsort vor dem Regen. Mittags setzen Sie Ihre Kulturreise im Stadtmuseum fort und bleiben beim Erkunden von Taviras Wurzeln trocken. Besuchen Sie am Nachmittag die maurischen Ruinen mit einem Regenschirm und suchen Sie dann Wärme im Kunsthaus. Beenden Sie den Tag im Science Centre, wo interaktiver Spaß die Stimmung hebt.",
+            "hu": "Kezdje a reggelt az Iszlám Múzeumban, amely tökéletes fedett menedék az eső elől. Délben folytassa kulturális útját a Városi Múzeumban, szárazon maradva Tavira gyökereinek felfedezése közben. Délután látogasson el a mór romokhoz esernyővel, majd keressen melegséget a helyi művészetek házában. A napot a Tudományos Központban zárja, ahol az interaktív játékok esőben is jókedvre derítik.",
+            "ro": "Începeți dimineața la Muzeul Islamic, un refugiu interior perfect împotriva ploii. La prânz, continuați călătoria culturală la Muzeul Municipal, rămânând la adăpost în timp ce explorați rădăcinile orașului Tavira. După-amiaza, vizitați ruinele maure cu o umbrelă, apoi căutați căldură în casa artelor. Încheiați ziua la Centrul de Știință, unde distracția interactivă menține moralul ridicat.",
+            "en": "Start your morning at the Islamic Museum, a perfect indoor escape from the drizzle. By midday, continue your cultural journey at the Municipal Museum, staying dry while exploring Tavira's roots. In the afternoon, visit the Moorish ruins with an umbrella, then seek warmth in the local arts house. Finish your rainy day at the Science Centre, where interactive fun keeps the spirits high."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Islâmico",
+                "hu": "Museu Islâmico",
+                "ro": "Museu Islâmico",
+                "en": "Museu Islâmico"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die islamische Geschichte ein und bleiben Sie dabei im Trockenen; der Innenbereich bietet perfekten Schutz vor dem morgendlichen Regen.",
+                "hu": "Fedett helyen ismerkedhetsz meg az iszlám örökséggel; a múzeum kiváló menedék a reggeli eső elől, miközben lenyűgöző tárlatokat láthatsz.",
+                "ro": "Explorați moștenirea islamică într-un mediu uscat și protejat; interiorul muzeului este refugiul ideal împotriva ploii de dimineață în Tavira.",
+                "en": "Explore Islamic heritage in a dry, indoor environment; the museum provides a perfect shelter from the morning rain while you enjoy the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal",
+                "hu": "Museu Municipal",
+                "ro": "Museu Municipal",
+                "en": "Museu Municipal"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie lokale Archäologie in diesem historischen Gebäude; es ist ein sicherer, trockener Ort, um mittags mehr über die Stadtgeschichte zu erfahren.",
+                "hu": "Fedezd fel a helyi régészeti kincseket ebben a történelmi épületben; biztonságos és száraz helyszín a város múltjának megismeréséhez esős időben.",
+                "ro": "Descoperiți arheologia locală în această clădire istorică; oferă un adăpost sigur și uscat pentru a învăța despre trecutul orașului la prânz.",
+                "en": "Discover local archaeology in this historic building; it offers a safe, dry haven to learn about the city's past during a rainy midday."
+              }
+            },
+            {
+              "name": {
+                "de": "Bairro Almóada do Convento da Graça",
+                "hu": "Bairro Almóada do Convento da Graça",
+                "ro": "Bairro Almóada do Convento da Graça",
+                "en": "Bairro Almóada do Convento da Graça"
+              },
+              "tip_5lang": {
+                "de": "Diese Ruinen liegen im Freien, bringen Sie also einen Regenschirm mit; erkunden Sie die maurischen Mauern vorsichtig auf dem nassen Untergrund.",
+                "hu": "Ezek a romok a szabad ég alatt vannak, így vigyél magaddal esernyőt a mór alapok felfedezéséhez; vigyázz a vizes, csúszós talajra a séta alatt.",
+                "ro": "Aceste ruine sunt în aer liber, deci aduceți o umbrelă; explorați fundațiile maure cu atenție pe solul care poate deveni alunecos de la ploaie.",
+                "en": "These ancient ruins are outdoors, so bring a sturdy umbrella to explore the Moorish foundations while navigating the potentially wet ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Largo de Santa Ana",
+                "hu": "Largo de Santa Ana",
+                "ro": "Largo de Santa Ana",
+                "en": "Largo de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Werfen Sie einen kurzen Blick auf diesen Platz; die Gebäude bieten etwas Schutz, aber achten Sie auf das glatte Kopfsteinpflaster bei Regen.",
+                "hu": "Pillants rá erre a békés térre; a környező épületek némi védelmet nyújtanak, de figyelj a lépteidre a csúszóssá váló portugál köveken.",
+                "ro": "Vizitați rapid această piață liniștită; clădirile din jur oferă puțin adăpost, dar aveți grijă la pavajul portughez care devine alunecos când este ud.",
+                "en": "Take a quick look at this peaceful square; the surrounding buildings offer some cover, but watch your step on the slippery Portuguese pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa das Artes de Tavira",
+                "hu": "Casa das Artes de Tavira",
+                "ro": "Casa das Artes de Tavira",
+                "en": "Casa das Artes de Tavira"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie moderne Kunst in dieser gemütlichen Galerie; ein idealer Ort, um einen Regenschauer in einer kreativen und warmen Atmosphäre abzuwarten.",
+                "hu": "Merülj el a kortárs művészetben ebben a barátságos galériában; kiváló helyszín a heves záporok kivárására kreatív és száraz környezetben.",
+                "ro": "Bucurați-vă de arta contemporană în această galerie primitoare; este locul perfect pentru a aștepta trecerea ploii într-o atmosferă creativă.",
+                "en": "Immerse yourself in contemporary art inside this cozy gallery; it is an excellent place to wait out a heavy downpour in a creative atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Tavira Science Centre",
+                "hu": "Tavira Science Centre",
+                "ro": "Tavira Science Centre",
+                "en": "Tavira Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Dieses interaktive Museum ist komplett überdacht; beenden Sie den nassen Tag mit spannenden Experimenten für die ganze Familie im Trockenen.",
+                "hu": "Ez az interaktív múzeum teljesen zárt és fűtött; a legjobb hely a nap zárására, ahol izgalmas kísérletek várnak az egész családra.",
+                "ro": "Acest muzeu interactiv este complet acoperit și încălzit; este cea mai bună opțiune pentru a încheia o zi ploioasă cu experimente captivante.",
+                "en": "This interactive museum is fully enclosed and heated; it is the best place to end a wet day with engaging experiments for the whole family."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Winterspaziergang in der frischen Morgenluft am Islamischen Museum. Mittags reflektieren die weißen Wände der Altstadt die milde Wintersonne auf dem Weg zum Stadtmuseum. Bewundern Sie am Nachmittag lokale Kunst, bevor das Licht früh schwindet. Um 17:00 Uhr geht die Sonne über dem Gilão-Fluss unter, was das Science Centre zum idealen warmen Abschluss macht.",
+            "hu": "Indítsa téli sétáját a friss reggeli levegőn az Iszlám Múzeumnál. Délben a történelmi negyed fehér falai visszaverik a lágy téli napsütést a Városi Múzeum felé menet. Délután csodálja meg a helyi művészeteket, mielőtt korán sötétedni kezdene. 17:00-kor a nap lebukik a Gilão-folyó felett, így a Tudományos Központ ideális, meleg befejezése lesz az esti programnak.",
+            "ro": "Începeți plimbarea de iarnă în aerul proaspăt al dimineții la Muzeul Islamic. La prânz, pereții albi ai centrului istoric reflectă soarele blând pe drumul spre Muzeul Municipal. După-amiaza, admirați arta locală înainte ca lumina să dispară devreme. La ora 17:00, soarele apune peste râul Gilão, făcând din Centrul de Știință opțiunea ideală pentru seară.",
+            "en": "Begin your winter walk in the refreshing morning air at the Islamic Museum. At noon, the historic center's white walls reflect the soft winter sun, perfect for a stroll to the Municipal Museum. Spend the afternoon admiring local art as the light begins to fade early. By 17:00, the sun sets over the Gilão River, making the Science Centre the ideal warm final stop for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Islâmico",
+                "hu": "Museu Islâmico",
+                "ro": "Museu Islâmico",
+                "en": "Museu Islâmico"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Tag in diesem Museum, um der morgendlichen Kälte zu entgehen; die Innentemperaturen sind ideal zum Betrachten der Schätze.",
+                "hu": "Kezdje a napot ebben a múzeumban, hogy elkerülje a reggeli hűvöst; a benti hőmérséklet kellemes a történelmi kincsek megtekintéséhez.",
+                "ro": "Începeți ziua în acest muzeu fascinant pentru a evita frigul dimineții; temperatura interioară este confortabilă pentru a vedea comorile istorice.",
+                "en": "Start your day inside this fascinating museum to avoid the morning chill; the indoor temperature is comfortable for viewing the historic treasures."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal",
+                "hu": "Museu Municipal",
+                "ro": "Museu Municipal",
+                "en": "Museu Municipal"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für die Mittagszeit fernab vom Wind; die ruhigen Hallen bieten eine warme Umgebung, um das Erbe von Tavira zu studieren.",
+                "hu": "Remek hely a déli órák eltöltésére a szél elől elzárva; a múzeum csendes termei meleg környezetet biztosítanak Tavira örökségének tanulmányozásához.",
+                "ro": "Un loc excelent pentru a petrece orele prânzului departe de vânt; sălile liniștite oferă un mediu cald pentru a studia moștenirea orașului Tavira.",
+                "en": "A great spot to enjoy the midday hours away from the breeze; the museum's quiet halls provide a warm environment to study Tavira's heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Bairro Almóada do Convento da Graça",
+                "hu": "Bairro Almóada do Convento da Graça",
+                "ro": "Bairro Almóada do Convento da Graça",
+                "en": "Bairro Almóada do Convento da Graça"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen unter dem klaren Winterhimmel; die tiefstehende Sonne ist perfekt, um architektonische Details auf Fotos festzuhalten.",
+                "hu": "Fedezze fel a romokat a tiszta téli égbolt alatt; az alacsonyan járó nap ilyenkor tökéletes fényeket biztosít az építészeti részletek fotózásához.",
+                "ro": "Explorați aceste ruine sub cerul senin de iarnă; soarele blând de după-amiază este perfect pentru a surprinde detalii arhitecturale deosebite.",
+                "en": "Explore these historical ruins under the clear winter sky; the low angle of the sun at this time of year is perfect for capturing architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Largo de Santa Ana",
+                "hu": "Largo de Santa Ana",
+                "ro": "Largo de Santa Ana",
+                "en": "Largo de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Luft auf diesem Platz; kommen Sie früh am Nachmittag, um die Anlage vor dem frühen Sonnenuntergang um 17:00 Uhr zu sehen.",
+                "hu": "Élvezze a friss levegőt ezen a történelmi téren; érkezzen kora délután, hogy még a 17:00-s naplemente és a hosszú árnyékok előtt láthassa a teret.",
+                "ro": "Bucurați-vă de aerul proaspăt în această piață; vizitați-o devreme după-amiaza pentru a vedea spațiul înainte ca soarele să apună la ora 17:00.",
+                "en": "Enjoy the crisp air in this historic square; arrive early in the afternoon to see the space before the shadows lengthen and the sun sets at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa das Artes de Tavira",
+                "hu": "Casa das Artes de Tavira",
+                "ro": "Casa das Artes de Tavira",
+                "en": "Casa das Artes de Tavira"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Kunstzentrum, um der kühleren Abendluft zu entkommen; die Innenräume sind am späten Nachmittag besonders gemütlich.",
+                "hu": "Látogasson el ide, hogy elmeneküljön a hűvös esti levegő elől; a benti kiállítások barátságos menedéket nyújtanak a késő délutáni szürkületben.",
+                "ro": "Vizitați acest centru artistic pentru a scăpa de aerul rece de seară; expozițiile interioare sunt o modalitate caldă de a petrece după-amiaza.",
+                "en": "Visit this artistic hub to escape the cooling evening air; the indoor exhibitions are a cozy way to spend the late afternoon as light fades."
+              }
+            },
+            {
+              "name": {
+                "de": "Tavira Science Centre",
+                "hu": "Tavira Science Centre",
+                "ro": "Tavira Science Centre",
+                "en": "Tavira Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in diesem hellen, interaktiven Raum; er bietet einen warmen Abschluss des Tages nach dem frühen Sonnenuntergang im Freien.",
+                "hu": "Zárja a téli túrát ebben a világos, interaktív térben; meleg és vidám befejezést nyújt a napnak a korai kinti naplemente után.",
+                "ro": "Încheiați turul în acest spațiu interactiv bine luminat; oferă un final cald și primitor zilei după apusul timpuriu al soarelui de afară.",
+                "en": "Finish your winter tour in this well-lit, interactive space; it provides a bright and warm end to the day after the early sunset outdoors."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpáros napot a Parque de Feiras e Exposições körüli területek felfedezésével, majd tekerjen le a Parque Rodoviário nyugodt zöldjébe egy frissítő reggeli szünetre.\n\nKerékpározzon Tavira történelmi szíve felé, és érkezzen meg az ősi Bairro Almóadába, ahol leparkolhatja a kerékpárját, és megcsodálhatja a mór kolostor tartós örökségét.\n\nHaladjon a festői folyóparti ösvényen a Forte do Rato felé, gyönyörködjön a panorámás parti kilátásban, majd folytassa útját a hagyományos tonhalhalászat múzeumába.\n\nFejezze be a kerékpártúrát a Praia do Rato partján, ahol megpihenhet a puha homokon, és végignézheti, ahogy a naplemente csodás fénybe borítja a gyönyörű algarvei tengerpartot.",
         "ro": "Începeți-vă ziua de ciclism explorând terenurile din jurul Parque de Feiras e Exposições, înainte de a pedala spre verdeața liniștită de la Parque Rodoviário pentru o pauză.\n\nMergeți spre inima istorică a orașului Tavira, ajungând la vechiul Bairro Almóada, unde vă puteți parca bicicleta și admira moștenirea de durată a mănăstirii maure.\n\nMergeți pe poteca pitorească a râului spre Forte do Rato, bucurându-vă de priveliștile panoramice de coastă, apoi continuați spre Muzeul pescuitului tradițional de ton.\n\nTerminați-vă excursia coborând la Praia do Rato, unde vă puteți relaxa pe nisipul fin și urmări apusul soarelui peste apele calme ale frumoasei coaste din pitorescul Algarve.",
         "en": "Start your cycling day exploring the grounds around the Parque de Feiras e Exposições before pedaling down to the tranquil greenery of Parque Rodoviário for a refreshing morning break.\n\nCycle towards the historic heart of Tavira, arriving at the ancient Bairro Almóada, where you can park your bike and admire the enduring legacy of the Moorish convent.\n\nHead along the scenic river path towards Forte do Rato, taking in the panoramic coastal views, then continue to the Museum of the traditional tuna fishing to uncover maritime secrets.\n\nFinish your cycling trip by coasting down to Praia do Rato, where you can relax on the soft sands and watch the sun set over the calm tidal waters of the beautiful Algarve coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren nassen Vormittag auf dem Messegelände mit einem Technik-Check. Mittags radeln Sie vorsichtig durch den Park und achten auf glatte Wege. Die Küstenfahrt zum Fischereimuseum erfordert am Nachmittag Konzentration bei Wind und Gischt. Kehren Sie am Abend frühzeitig zurück, um Dunkelheit und starken Regen auf den Radwegen zu vermeiden.",
+            "hu": "Kezdje a vizes reggelt a kiállítási területen egy gyors műszaki ellenőrzéssel. Délben tekerjen óvatosan a parkon keresztül, figyelve a csúszós utakra. A délutáni parti kerékpározás a halászati múzeumhoz figyelmet igényel a szélben. Este térjen vissza korán, hogy elkerülje a sötétséget és a heves esőzést a bicikliutakon.",
+            "ro": "Începeți dimineața ploioasă la centrul de expoziții cu o verificare tehnică. La prânz, pedalați cu atenție prin parc, fiind vigilenți pe potecile umede. Drumul de coastă către muzeul pescuitului necesită concentrare după-amiaza din cauza vântului. Seara, întoarceți-vă devreme pentru a evita întunericul și ploaia torențială pe piste.",
+            "en": "Start your wet morning at the fairgrounds with a quick bike check. At midday, cycle carefully through the park, paying attention to slippery paths. The afternoon coastal ride to the fishing museum requires concentration in the wind and spray. In the evening, return early to avoid darkness and heavy rain on the cycling paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque de Feiras e Exposições de Tavira",
+                "hu": "Parque de Feiras e Exposições de Tavira",
+                "ro": "Parque de Feiras e Exposições de Tavira",
+                "en": "Parque de Feiras e Exposições de Tavira"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie auf dem Messegelände, wo große Strukturen Schutz bieten; prüfen Sie Reifen und Bremsen, bevor Sie in den Regen hinausfahren.",
+                "hu": "Kezdje a vásártéren, ahol a nagy építmények némi fedezéket nyújtanak; ellenőrizze a gumikat és a fékeket, mielőtt elindulna az esőbe.",
+                "ro": "Începeți la centrul de expoziții unde structurile mari oferă adăpost; verificați anvelopele și frânele înainte de a pleca prin ploaie.",
+                "en": "Start at the exhibition grounds where large structures provide some cover; check your tires and brakes before heading out into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Rodoviário",
+                "hu": "Parque Rodoviário",
+                "ro": "Parque Rodoviário",
+                "en": "Parque Rodoviário"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig durch den Park; die nassen Wege können glatt sein, genießen Sie also das üppige, regengeschwängerte Grün in moderatem Tempo.",
+                "hu": "Tekerjen óvatosan a parkon keresztül; a vizes utak csúszósak lehetnek, ezért mérsékelt tempóban élvezze a friss, esőáztatta zöld környezetet.",
+                "ro": "Pedalați cu atenție prin parc; potecile umede pot fi alunecoase, așa că bucurați-vă de verdeața proaspătă într-un ritm moderat și sigur.",
+                "en": "Cycle carefully through the park; the wet paths can be slippery, so maintain a steady pace and enjoy the lush, rain-freshened greenery around you."
+              }
+            },
+            {
+              "name": {
+                "de": "Bairro Almóada do Convento da Graça",
+                "hu": "Bairro Almóada do Convento da Graça",
+                "ro": "Bairro Almóada do Convento da Graça",
+                "en": "Bairro Almóada do Convento da Graça"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad ab und erkunden Sie die Ruinen im Regenmantel; die historische Stätte bietet unter dem grauen Himmel eine einzigartige Atmosphäre.",
+                "hu": "Parkolja le a biciklit és fedezze fel a romokat esőköpenyben; a történelmi helyszín különleges hangulatot áraszt a szürke, esős Algarve-i ég alatt.",
+                "ro": "Parcați bicicleta și explorați ruinele cu o pelerină de ploaie; situl istoric oferă o atmosferă unică sub cerul gri și ploios din Algarve.",
+                "en": "Park your bike and explore the ruins with a raincoat; the historical site offers a unique atmosphere under the grey, rainy Algarve sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Rato",
+                "hu": "Forte do Rato",
+                "ro": "Forte do Rato",
+                "en": "Forte do Rato"
+              },
+              "tip_5lang": {
+                "de": "Die Mauern des Forts bieten begrenzten Schutz; achten Sie auf tiefe Pfützen auf den Zugangswegen und genießen Sie die dramatische Aussicht auf das Meer.",
+                "hu": "Az erőd falai korlátozott védelmet nyújtanak; figyeljen a mély tócsákra a bekötőutakon, és élvezze a drámai kilátást a viharos tengerpartra.",
+                "ro": "Zidurile fortului oferă adăpost limitat; atenție la bălțile adânci de pe căile de acces și bucurați-vă de priveliștea dramatică a coastei.",
+                "en": "The fort's walls offer limited shelter from the wind; watch for deep puddles on the access paths and enjoy the dramatic views of the stormy coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of the traditional tuna fishing",
+                "hu": "Museum of the traditional tuna fishing",
+                "ro": "Museum of the traditional tuna fishing",
+                "en": "Museum of the traditional tuna fishing"
+              },
+              "tip_5lang": {
+                "de": "Dieses Innenmuseum ist eine willkommene Pause für Radfahrer; trocknen Sie sich ab, während Sie etwas über die maritime Geschichte der Region erfahren.",
+                "hu": "Ez a fedett múzeum szívesen látott pihenő a bringásoknak; száradjon meg, miközben megismeri a régió tengeri történelmét és hagyományait.",
+                "ro": "Acest muzeu interior este o pauză binevenită pentru bicicliști; uscați-vă în timp ce învățați despre istoria maritimă și tradițiile locale.",
+                "en": "This indoor museum is a welcome break for cyclists; dry off while learning about the region's maritime history and fishing traditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Rato",
+                "hu": "Praia do Rato",
+                "ro": "Praia do Rato",
+                "en": "Praia do Rato"
+              },
+              "tip_5lang": {
+                "de": "Der Strandpfad kann bei Sturm windig sein; werfen Sie aus sicherer Entfernung einen Blick aufs Meer, bevor Sie wieder Schutz vor dem Regen suchen.",
+                "hu": "A tengerparti ösvény viharban szeles lehet; vessen egy pillantást a tengerre biztonságos távolságból, mielőtt visszatekerni esővédett helyre.",
+                "ro": "Poteca spre plajă poate fi vântoasă în timpul furtunii; priviți marea de la o distanță sigură înainte de a pedala înapoi spre adăpost.",
+                "en": "The beach path can be windy during a storm; take a brief look at the sea from a safe distance before cycling back to seek cover from the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die Morgensonne für eine zügige Fahrt auf dem Messegelände. Mittags radeln Sie durch den ruhigen Park und genießen die Winterflora in der milden Algarve-Sonne. Besuchen Sie am Nachmittag das Fort und das Thunfischmuseum. Erreichen Sie den Strand vor dem frühen Sonnenuntergang, um die Fahrt in der klaren Abendluft zu beenden.",
+            "hu": "Használja ki a reggeli napsütést egy élénk tekeréshez a vásártéren. Délben bringázzon át a csendes parkon, élvezve a téli flórát a lágy napsütésben. Délután látogassa meg az erődöt és a tonhalmúzeumot. Érjen a partra a korai naplemente előtt, hogy a túrát a friss esti levegőben zárja.",
+            "ro": "Profitați de soarele dimineții pentru o plimbare revigorantă la centrul de expoziții. La prânz, pedalați prin parcul liniștit sub soarele blând de iarnă. După-amiaza, vizitați fortul și muzeul tonului. Ajungeți la plajă înainte de apusul devreme pentru a încheia aventura în aerul serii.",
+            "en": "Use the morning sun to warm up while cycling at the fairgrounds. At midday, cycle through the quiet park and enjoy the winter flora in the mild Algarve sun. Visit the fort and the tuna museum in the afternoon. Reach the beach before the early sunset to end your ride in the crisp evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parque de Feiras e Exposições de Tavira",
+                "hu": "Parque de Feiras e Exposições de Tavira",
+                "ro": "Parque de Feiras e Exposições de Tavira",
+                "en": "Parque de Feiras e Exposições de Tavira"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Morgensonne zum Aufwärmen auf dem Messegelände; der offene Raum ist ideal für einen zügigen Start in der kühlen Winterluft.",
+                "hu": "Használja a reggeli napot a bemelegítéshez a vásártéren; a nyílt terület ideális egy élénk indításhoz a hűvös téli levegőben.",
+                "ro": "Folosiți soarele dimineții pentru a vă încălzi la centrul de expoziții; spațiul deschis este ideal pentru un start revigorant în aerul rece.",
+                "en": "Use the morning sun to warm up while cycling at the fairgrounds; the open space is ideal for a brisk start in the cool winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Rodoviário",
+                "hu": "Parque Rodoviário",
+                "ro": "Parque Rodoviário",
+                "en": "Parque Rodoviário"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch den ruhigen Park; das Tragen von Handschuhen wird empfohlen, um Ihre Hände gegen die erfrischende Winterbrise zu schützen.",
+                "hu": "Tekerjen át a csendes parkon; kesztyű viselése ajánlott, hogy kezeit melegen tartsa a frissítő téli széllel szemben.",
+                "ro": "Pedalați prin parcul liniștit; purtarea mănușilor este recomandată pentru a vă proteja mâinile împotriva brizelor răcoroase de iarnă.",
+                "en": "Ride through the quiet park and enjoy the winter flora; wearing gloves is recommended to keep your hands warm against the refreshing breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Bairro Almóada do Convento da Graça",
+                "hu": "Bairro Almóada do Convento da Graça",
+                "ro": "Bairro Almóada do Convento da Graça",
+                "en": "Bairro Almóada do Convento da Graça"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die alten Steinruinen wunderschön hervor; es ist eine friedliche Zeit für einen Besuch ohne die sommerlichen Menschenmassen.",
+                "hu": "A téli fények gyönyörűen kiemelik az ősi kőromokat; békés időszak ez a látogatáshoz a nyári tömeg nélkül, kerékpárral is könnyen megközelíthető.",
+                "ro": "Lumina de iarnă evidențiază frumos ruinele vechi de piatră; este un moment liniștit pentru o vizită fără aglomerația de vară, pe bicicletă.",
+                "en": "The winter light highlights the ancient stone ruins beautifully; it is a peaceful time to visit without the summer crowds on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Rato",
+                "hu": "Forte do Rato",
+                "ro": "Forte do Rato",
+                "en": "Forte do Rato"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie zum Fort für einen klaren Blick auf den Winterhorizont; die frische Luft lässt das ferne Meer unglaublich blau und scharf erscheinen.",
+                "hu": "Tekerjen el az erődhöz a tiszta téli panorámáért; a friss levegőben a távoli tenger hihetetlenül kéknek és élesnek tűnik az égbolt alatt.",
+                "ro": "Pedalați până la fort pentru o vedere clară a orizontului; aerul curat face ca marea îndepărtată să pară incredibil de albastră și clară.",
+                "en": "Cycle to the fort for a clear view of the winter horizon; the crisp air makes the distant sea look incredibly blue and sharp against the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of the traditional tuna fishing",
+                "hu": "Museum of the traditional tuna fishing",
+                "ro": "Museum of the traditional tuna fishing",
+                "en": "Museum of the traditional tuna fishing"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich nach Ihrer Küstenfahrt in diesem Museum auf; die Exponate bieten einen faszinierenden Einblick in das lokale Leben fernab vom Wind.",
+                "hu": "Melegedjen fel ebben a múzeumban a parti tekerés után; a kiállítások lenyűgöző betekintést nyújtanak a helyi életbe, védve a széltől.",
+                "ro": "Încălziți-vă în interiorul acestui muzeu după plimbarea pe coastă; expozițiile oferă o perspectivă fascinantă asupra vieții locale, departe de vânt.",
+                "en": "Warm up inside this museum after your coastal ride; the exhibits provide a fascinating insight into the local life away from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Rato",
+                "hu": "Praia do Rato",
+                "ro": "Praia do Rato",
+                "en": "Praia do Rato"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Strand vor dem Sonnenuntergang um 17:00 Uhr; die verlassene Küste bietet einen ruhigen Abschluss für Ihr Radabenteuer.",
+                "hu": "Érjen ki a partra a 17:00 órai naplemente előtt; az elhagyatott tengerpart nyugodt befejezést kínál kerékpáros kalandjához.",
+                "ro": "Ajungeți la plajă înainte de apusul de la ora 17:00; țărmul pustiu oferă un final senin și liniștit aventurii dumneavoastră pe bicicletă.",
+                "en": "Reach the beach before the 17:00 sunset to see the golden winter light; the deserted shore offers a serene end to your cycling adventure."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autózzon el a Tavira Science Centre-be egy interaktív felfedezésekkel teli izgalmas délelőttért, majd tegyen egy rövid utat a történelmi Bairro Almóada lenyűgöző utcáira.\n\nFolytassa útját a part felé, hogy meglátogassa a történelmi Forte do Rato-t, egy régi védelmi építményt, amely pazar panorámás kilátást nyújt az egész Ria Formosa tájra.\n\nVezessen egy rövid távot a hagyományos tonhalhalászat múzeumához, hogy elmerüljön a helyi tengerészet történetében, mielőtt nyugalmat talál a Praia do Forte da Barra eldugott partjain.\n\nZárja le utazását a part felé tartva, ahonnan egy kompjárat a csodás Praia da Terra Estreita strandra viszi, így a napot látványos kilátással és a dűnék menti pihentető sétával fejezheti be.",
         "ro": "Conduceți spre Tavira Science Centre pentru o dimineață captivantă de descoperiri interactive, apoi faceți o scurtă călătorie către istoricul Bairro Almóada pentru a-i explora străzile.\n\nContinuați-vă excursia spre coastă pentru a vizita istoricul Forte do Rato, o structură de apărare veche care oferă vederi panoramice superbe asupra întregului peisaj Ria Formosa.\n\nConduceți o distanță scurtă până la Muzeul pescuitului de ton pentru a aprofunda istoria maritimă locală, înainte de a găsi liniște pe țărmurile izolate ale Praia do Forte da Barra.\n\nCompletați-vă călătoria îndreptându-vă spre coastă, unde o plimbare cu feribotul vă duce la Praia da Terra Estreita, încheind ziua cu vederi spectaculoase și o plimbare relaxantă pe dune.",
         "en": "Drive to the Tavira Science Centre for an engaging morning of interactive discovery, then take a short trip to the historical Bairro Almóada to explore its ancient Moorish streets.\n\nContinue your road trip towards the coast to visit the historic Forte do Rato, an old defensive structure that offers sweeping panoramic views of the entire Ria Formosa landscape.\n\nDrive a short distance to the Museum of the traditional tuna fishing to delve into local seafaring history before finding tranquility at the secluded shores of Praia do Forte da Barra.\n\nComplete your journey by heading to the coast where a ferry ride takes you to Praia da Terra Estreita, ending your day with spectacular views and a relaxing stroll along the pristine dunes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren nassen Tag im Science Centre, um trocken zu bleiben. Mittags fahren Sie zu den Klosterruinen, nur ein kurzer Fußweg vom Auto entfernt. Besuchen Sie am Nachmittag das Fort und das Fischereimuseum. Beenden Sie den Tag an der Küste und beobachten Sie das stürmische Meer gemütlich und sicher von Ihrem Fahrzeug aus.",
+            "hu": "Kezdje az esős napot a Tudományos Központban, hogy szárazon maradjon. Délben hajtson a kolostorromokhoz, amelyek csak egy rövid sétára vannak az autótól. Délután látogassa meg az erődöt és a halászati múzeumot. Zárja a napot a parton, figyelve a viharos tengert kényelmesen és biztonságban a járművéből.",
+            "ro": "Începeți ziua ploioasă la Centrul de Știință pentru a rămâne la uscat. La prânz, conduceți spre ruinele mănăstirii, aflate la mică distanță de mașină. După-amiaza, vizitați fortul și muzeul pescuitului. Încheiați ziua pe coastă, admirând marea înfuriată din confortul și siguranța vehiculului.",
+            "en": "Start your rainy day at the Science Centre to stay dry. At midday, drive to the convent ruins, just a short walk from the car. In the afternoon, visit the fort and the fishing museum. End the day at the coast, watching the stormy sea comfortably and safely from inside your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tavira Science Centre",
+                "hu": "Tavira Science Centre",
+                "ro": "Tavira Science Centre",
+                "en": "Tavira Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und starten Sie drinnen; das Science Centre ist eine perfekte Regenwetter-Aktivität, die alle trocken hält.",
+                "hu": "Parkoljon a közelben és kezdje bent a napot; a tudományos központ tökéletes esőnapi program, amely mindenkit szárazon tart.",
+                "ro": "Parcați în apropiere și începeți ziua în interior; centrul de știință este o activitate perfectă pentru zilele ploioase, menținându-vă la uscat.",
+                "en": "Park nearby and start your day indoors; the science center is a perfect rainy-day activity that keeps everyone dry and entertained."
+              }
+            },
+            {
+              "name": {
+                "de": "Bairro Almóada do Convento da Graça",
+                "hu": "Bairro Almóada do Convento da Graça",
+                "ro": "Bairro Almóada do Convento da Graça",
+                "en": "Bairro Almóada do Convento da Graça"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Weg vom Auto zu den Ruinen ist mit dem Schirm machbar; sehen Sie die historischen Fundamente, während es um Sie herum regnet.",
+                "hu": "Egy rövid séta az autótól a romokig esernyővel is megoldható; nézze meg a történelmi alapokat, miközben hallgatja az eső kopogását.",
+                "ro": "O scurtă plimbare de la mașină la ruine este ușoară cu o umbrelă; vedeți fundațiile istorice în timp ce ascultați sunetul ploii.",
+                "en": "A short walk from the car to the ruins is manageable with an umbrella; see the historic foundations while listening to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Rato",
+                "hu": "Forte do Rato",
+                "ro": "Forte do Rato",
+                "en": "Forte do Rato"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nah an das Fort heran; die Steinmauern und der Meerblick sind bei einem schweren Regenschauer besonders atmosphärisch.",
+                "hu": "Hajtson közel az erődhöz, hogy minél kevesebbet ázzon; a kőfalak és a tengeri kilátás különösen hangulatos egy heves esőzés idején.",
+                "ro": "Conduceți aproape de fort pentru a minimiza timpul în ploaie; zidurile de piatră și vederea la mare sunt deosebit de atmosferice acum.",
+                "en": "Drive close to the fort to minimize time in the wet; the stone walls and sea views are particularly atmospheric during a heavy rainstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of the traditional tuna fishing",
+                "hu": "Museum of the traditional tuna fishing",
+                "ro": "Museum of the traditional tuna fishing",
+                "en": "Museum of the traditional tuna fishing"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum bietet gute Parkmöglichkeiten und ein trockenes Erlebnis; lernen Sie die Thunfischindustrie kennen, während es draußen regnet.",
+                "hu": "Ez a múzeum kényelmes parkolást és száraz élményt kínál; ismerje meg a tonhalipart, miközben odakint esik az eső.",
+                "ro": "Acest muzeu are parcare convenabilă și oferă o experiență uscată; învățați despre industria tonului în timp ce plouă afară.",
+                "en": "This museum has convenient parking and offers a dry, indoor experience; learn about the tuna industry while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Forte da Barra",
+                "hu": "Praia do Forte da Barra",
+                "ro": "Praia do Forte da Barra",
+                "en": "Praia do Forte da Barra"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie kurz im Auto, um die Wellen zu beobachten; das dramatische Regenwetter lässt die Küste vom sicheren Innenraum aus kraftvoll wirken.",
+                "hu": "Maradjon egy pillanatra az autóban és figyelje a hullámokat; a drámai esős időben a partvonal lenyűgöző látványt nyújt a biztonságos utastérből.",
+                "ro": "Rămâneți în mașină pentru a urmări valurile; vremea ploioasă face ca linia coastei să pară puternică și spectaculoasă din siguranța mașinii.",
+                "en": "Stay in the car for a moment to watch the waves; the dramatic rainy weather makes the coastline look powerful and beautiful from safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Terra Estreita na Ilha de Tavira",
+                "hu": "Praia da Terra Estreita na Ilha de Tavira",
+                "ro": "Praia da Terra Estreita na Ilha de Tavira",
+                "en": "Praia da Terra Estreita na Ilha de Tavira"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, ob die Fähre bei Regen fährt; wenn nicht, genießen Sie den Blick auf den Kanal vom Festland aus, während Sie im Auto trocken bleiben.",
+                "hu": "Ellenőrizze, jár-e a komp esőben; ha nem, élvezze a csatorna látványát a szárazföldről, miközben szárazon marad a járművében.",
+                "ro": "Verificați dacă feribotul circulă pe ploaie; dacă nu, admirați canalul de pe uscat în timp ce rămâneți la adăpost în vehicul.",
+                "en": "Check if the ferry is running in the rain; if not, enjoy the view of the channel from the mainland while staying dry in your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Wintertour in der Wärme des Science Centres. Mittags besuchen Sie das historische Viertel in der milden Wintersonne. Fahren Sie am Nachmittag zum Fort und zum Fischereimuseum. Der Sonnenuntergang am Strand ist im Winterlicht spektakulär. Genießen Sie die Rückfahrt bei eingeschalteter Heizung, wenn die Temperaturen sinken.",
+            "hu": "Indítsa téli körútját a Tudományos Központ melegében. Délben látogassa meg a történelmi negyedet a lágy téli napsütésben. Délután hajtson az erődhöz és a halászati múzeumhoz. A naplemente a parton látványos a téli fényekben. Élvezze a visszautat bekapcsolt fűtéssel, ahogy csökken a hőmérséklet.",
+            "ro": "Începeți turul de iarnă în căldura Centrului de Știință. La prânz, vizitați cartierul istoric sub soarele blând. După-amiaza, conduceți spre fort și muzeul pescuitului. Apusul de soare pe plajă este spectaculos în lumina iernii. Bucurați-vă de drumul înapoi cu căldura pornită în mașină.",
+            "en": "Start your winter tour in the warmth of the Science Centre. At midday, visit the historical quarter in the mild winter sun. Drive to the fort and the fishing museum in the afternoon. Sunset at the beach is spectacular in winter light. Enjoy the drive back with the heater on as temperatures drop in the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tavira Science Centre",
+                "hu": "Tavira Science Centre",
+                "ro": "Tavira Science Centre",
+                "en": "Tavira Science Centre"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie in der Wärme dieses Museums; es ist ein idealer Ort für den Vormittag, während man darauf wartet, dass sich der Morgenfrost auflöst.",
+                "hu": "Kezdje a túrát a múzeum melegében; ideális helyszín a délelőttre, amíg megvárja, hogy a reggeli fagy elpárologjon a szabadban.",
+                "ro": "Începeți turul în căldura acestui muzeu; este un loc interior ideal în timp ce așteptați ca bruma dimineții să se ridice de afară.",
+                "en": "Start your winter tour in the warmth of this museum; it is an ideal indoor spot to visit while waiting for the morning frost to clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Bairro Almóada do Convento da Graça",
+                "hu": "Bairro Almóada do Convento da Graça",
+                "ro": "Bairro Almóada do Convento da Graça",
+                "en": "Bairro Almóada do Convento da Graça"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne ist perfekt für die Ruinen; der kurze Weg vom Parkplatz ist in der kühlen, frischen Luft sehr erfrischend.",
+                "hu": "Az alacsonyan járó téli nap tökéletes a romok megtekintéséhez; a rövid séta a parkolótól frissítő a hűvös, tiszta levegőn.",
+                "ro": "Soarele blând de iarnă este perfect pentru a vedea ruinele; scurta plimbare de la parcare este revigorantă în aerul rece și curat.",
+                "en": "The low winter sun is perfect for viewing the ruins; the short walk from the parking area is refreshing in the cool, crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte do Rato",
+                "hu": "Forte do Rato",
+                "ro": "Forte do Rato",
+                "en": "Forte do Rato"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie zu diesem Fort für spektakuläre Winterfotos; die klare Luft bietet eine hervorragende Sicht über den Ozean und die Lagune.",
+                "hu": "Hajtson el ehhez a parti erődhöz a látványos téli fotókért; a tiszta levegő kiváló láthatóságot biztosít az óceán és a lagúna felett.",
+                "ro": "Conduceți spre acest fort de coastă pentru fotografii spectaculoase; aerul curat oferă o vizibilitate excelentă peste ocean și lagună.",
+                "en": "Drive to this coastal fort for spectacular winter photography; the clear air provides excellent visibility across the ocean and the lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum of the traditional tuna fishing",
+                "hu": "Museum of the traditional tuna fishing",
+                "ro": "Museum of the traditional tuna fishing",
+                "en": "Museum of the traditional tuna fishing"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die kühlen Nachmittagsstunden drinnen; das Museum ist gut vor der Meeresbrise geschützt und erzählt eine spannende Geschichte.",
+                "hu": "Töltse a hűvös délutáni órákat bent; a múzeum jól védett a tengeri széltől, és lenyűgöző helyi történeteket mesél el a látogatóknak.",
+                "ro": "Petreceți orele reci de după-amiază în interior; muzeul este bine protejat de briza mării și spune o poveste locală captivantă.",
+                "en": "Spend the chilly afternoon hours inside; the museum is well-protected from the sea breeze and tells a compelling local story."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Forte da Barra",
+                "hu": "Praia do Forte da Barra",
+                "ro": "Praia do Forte da Barra",
+                "en": "Praia do Forte da Barra"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen kurzen Spaziergang am Winterstrand; die Luft ist belebend, und Sie können schnell zur Autoheizung zurückkehren.",
+                "hu": "Élvezze a rövid sétát a téli tengerparton; a levegő élénkítő, és bármikor visszatérhet az autó fűtéséhez, ha túlságosan lehűlne az idő.",
+                "ro": "Bucurați-vă de o scurtă plimbare pe plajă; aerul este revigorant și vă puteți întoarce rapid la căldura mașinii dacă devine prea frig.",
+                "en": "Enjoy a quick walk on the winter beach; the air is invigorating, and you can easily return to the car's heater if it gets too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Terra Estreita na Ilha de Tavira",
+                "hu": "Praia da Terra Estreita na Ilha de Tavira",
+                "ro": "Praia da Terra Estreita na Ilha de Tavira",
+                "en": "Praia da Terra Estreita na Ilha de Tavira"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie das letzte Boot vor dem Sonnenuntergang um 17:00 Uhr; das Winterlicht über dem Wasser ist magisch, tragen Sie aber einen warmen Mantel.",
+                "hu": "Kapja el az utolsó hajót a korai, 17:00-s naplemente előtt; a téli fények a vízen varázslatosak, de ne felejtsen el meleg kabátot vinni.",
+                "ro": "Prindeți ultima barcă înainte de apusul de la ora 17:00; lumina de iarnă peste apă este magică, dar nu uitați să purtați o haină groasă.",
+                "en": "Catch the last boat before the early 17:00 sunset; the winter light over the water is magical, but remember to bring a warm coat."
+              }
+            }
+          ]
+        }
       }
     }
   }

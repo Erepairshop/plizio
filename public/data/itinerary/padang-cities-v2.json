@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Padang kreatív szívében, a Gallery Distro kortárs művészeti kiállításával. Délig két fontos helyi mecset békés termeit is felfedezheti, spirituális betekintést nyerve. A délutánt a lenyűgöző Minangkabau kultúra megismerésének szenteljük a város legismertebb múzeumaiban. Végül a napot a nyüzsgő Taman Budaya kulturális központjában zárjuk.",
         "ro": "Începeți ziua în inima creativă a orașului Padang cu arta contemporană la Gallery Distro. Până la prânz, veți explora sălile liniștite a două moschei locale importante, oferind o perspectivă spirituală. După-amiaza este dedicată culturii fascinante Minangkabau la cele mai cunoscute muzee din oraș. În cele din urmă, încheiați ziua în vibrantul centru cultural Taman Budaya.",
         "en": "Start your day in Padang's creative heart, taking in contemporary art at Gallery Distro. By midday, you'll have explored the tranquil halls of two important local mosques, gaining spiritual insight. The afternoon is dedicated to discovering the fascinating Minangkabau culture at the city's most renowned museums. Finally, wrap up your cultural walking tour at the vibrant Taman Budaya."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz in der Gallery Distro vor dem tropischen Regen. Mittags bieten die großen Moscheen ein trockenes Refugium für Besinnung. Der Nachmittag gehört den Museen, wo man die Geschichte Padangs ohne nasse Füße erkunden kann. Abends empfiehlt sich ein kurzer Spaziergang unter dem Regenschirm, wenn die Luft angenehm abkühlt, aber Vorsicht vor den rutschigen Wegen.",
+            "hu": "Reggel a Gallery Distro fedett tereiben kezdünk az eső elől menekülve. Délben a nagy mecsetek nyújtanak száraz menedéket a spirituális elmélyüléshez. A délutánt a múzeumok folyosóin töltjük, ahol száraz lábbal ismerhetjük meg a helyi történelmet. Este egy rövid ernyős séta javasolt a friss, eső utáni párás levegőben, figyelve a csúszós útburkolatokra és a víztócsákra.",
+            "ro": "Dimineața ne adăpostim în Gallery Distro de ploaia tropicală densă. La prânz, marile moschei oferă un refugiu uscat pentru reflecție și liniște. După-amiaza este dedicată muzeelor, unde putem explora istoria locală fără a ne uda picioarele. Seara, o scurtă plimbare cu umbrela este plăcută pe măsură ce aerul se răcorește, însă trebuie avut grijă la pavajele alunecoase.",
+            "en": "In the morning, we seek shelter in Gallery Distro from the heavy tropical rain. At noon, the grand mosques provide a dry sanctuary for peaceful reflection. The afternoon is spent in the hallways of museums, exploring history without getting wet. In the evening, a short umbrella walk is pleasant as the air cools down after the rain, though watch out for slippery paths and puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gallery Distro",
+                "hu": "Gallery Distro",
+                "ro": "Gallery Distro",
+                "en": "Gallery Distro"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die lokale Mode in diesem überdachten Geschäft, während es draußen regnet; bringen Sie einen stabilen Regenschirm für den kurzen Weg zum Eingang mit.",
+                "hu": "Csodálja meg a helyi divatot ebben a fedett üzletben, miközben odakint szakad az eső; hozzon magával egy erős esernyőt a bejárathoz vezető rövid szakaszra.",
+                "ro": "Admirați moda locală în acest magazin acoperit în timp ce afară plouă torențial; aduceți o umbrelă rezistentă pentru scurta distanță până la intrare.",
+                "en": "Admire local fashion in this covered shop while it pours outside; bring a sturdy umbrella for the short walk to the entrance to stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Taqwa Muhammadiyah",
+                "hu": "Masjid Taqwa Muhammadiyah",
+                "ro": "Masjid Taqwa Muhammadiyah",
+                "en": "Masjid Taqwa Muhammadiyah"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die spirituelle Ruhe in der trockenen Gebetshalle, während der Regen auf das Dach prasselt; achten Sie beim Betreten auf die rutschigen Marmorstufen.",
+                "hu": "Tapasztalja meg a spirituális nyugalmat a száraz imacsarnokban, miközben az eső a tetőn kopog; belépéskor figyeljen a márványlépcsők csúszós felületére.",
+                "ro": "Experimentați liniștea spirituală în sala de rugăciune uscată în timp ce ploaia bate în acoperiș; atenție la treptele de marmură care pot fi alunecoase la intrare.",
+                "en": "Experience spiritual peace in the dry prayer hall while rain patters on the roof; watch out for slippery marble steps when entering the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung Nurul Iman",
+                "hu": "Masjid Agung Nurul Iman",
+                "ro": "Masjid Agung Nurul Iman",
+                "en": "Masjid Agung Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die gewaltige Architektur unter dem schützenden Dach dieser imposanten Moschee; nutzen Sie die überdachten Bereiche, um Ihre Kleidung zu trocknen.",
+                "hu": "Csodálja meg a monumentális építészetet ezen impozáns mecset védelmező tetőzete alatt; használja a fedett részeket a ruházata megszárítására a séta közben.",
+                "ro": "Admirați arhitectura monumentală sub acoperișul protector al acestei moschei impunătoare; folosiți zonele acoperite pentru a vă usca hainele în timpul vizitei.",
+                "en": "Admire the monumental architecture under the protective roof of this imposing mosque; use the covered areas to dry off your clothes during the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+                "hu": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+                "ro": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+                "en": "Museum Rumah Kelahiran Bagindo Aziz Chan"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das historische Geburtshaus im Trockenen und erfahren Sie mehr über den Helden Padangs; ein wasserdichter Beutel schützt Ihre Kamera vor Feuchtigkeit.",
+                "hu": "Fedezze fel a történelmi szülőházat szárazon, és tudjon meg többet Padang hőséről; egy vízhatlan táska jól jöhet a kamera megóvásához a magas párától.",
+                "ro": "Explorați casa memorială istorică la adăpost și aflați mai multe despre eroul din Padang; o geantă impermeabilă vă va proteja camera de umiditatea ridicată.",
+                "en": "Explore the historical birthplace in the dry and learn more about Padang's hero; a waterproof bag will protect your camera from the high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Adityawarman",
+                "hu": "Museum Adityawarman",
+                "ro": "Museum Adityawarman",
+                "en": "Museum Adityawarman"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Minangkabau-Kultur ein, während die dicken Museumsmauern den Regen draußen halten; nutzen Sie die Zeit für eine ausführliche Indoor-Tour.",
+                "hu": "Merüljön el a Minangkabau kultúrában, miközben a múzeum vastag falai távol tartják az esőt; használja ki az időt egy alapos belső körbevezetésre.",
+                "ro": "Imersați-vă în cultura Minangkabau în timp ce pereții groși ai muzeului țin ploaia la distanță; profitați de timp pentru un tur interior detaliat.",
+                "en": "Immerse yourself in Minangkabau culture while the museum's thick walls keep the rain away; take advantage of the time for a thorough indoor tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri Taman Budaya Sumatera Barat",
+                "hu": "Galeri Taman Budaya Sumatera Barat",
+                "ro": "Galeri Taman Budaya Sumatera Barat",
+                "en": "Galeri Taman Budaya Sumatera Barat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie zeitgenössische Kunstausstellungen in den geschützten Galerieräumen zum Abschluss des Tages; Vorsicht beim Verlassen, wenn die Gehwege noch nass sind.",
+                "hu": "Élvezze a kortárs művészeti kiállításokat a védett galériaterekben a nap végén; legyen óvatos a távozáskor, ha a járdák még vizesek és csúszósak.",
+                "ro": "Bucurați-vă de expozițiile de artă contemporană în spațiile protejate ale galeriei la sfârșitul zilei; atenție la plecare dacă trotuarele sunt încă umede.",
+                "en": "Enjoy contemporary art exhibitions in the protected gallery spaces at the end of the day; be careful when leaving if the sidewalks are still wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühlerer Morgen beginnt in der Gallery Distro, ideal zum Aufwärmen zwischen den Kleiderständern. Mittags laden die Moscheen zu einer ruhigen Pause in windgeschützter Atmosphäre ein. Der Nachmittag wird in den warmen Museumsräumen verbracht, während das Licht weicher wird. Da die Sonne gegen 17:00 Uhr untergeht, endet unsere Tour im goldenen Dämmerlicht der Stadt.",
+            "hu": "A hűvösebb reggelt a Gallery Distro belső tereiben kezdjük, ami tökéletes a bemelegítéshez. Délben a mecsetek szélvédett belső terei nyújtanak nyugodt pihenőt a hűvös szél elől. A délutánt a múzeumok barátságos termeiben töltjük, élvezve a lágy fényeket. Mivel a nap már 17:00 körül lemegy, túránk az aranyló szürkületben ér véget a korai sötétedés előtt.",
+            "ro": "O dimineață răcoroasă începe în Gallery Distro, ideală pentru a ne încălzi printre rafturile de haine. La prânz, moscheile oferă o pauză liniștită într-o atmosferă ferită de vânt. După-amiaza este petrecută în sălile primitoare ale muzeelor, în timp ce lumina devine mai blândă. Deoarece soarele apune spre ora 17:00, turul se încheie în amurgul auriu.",
+            "en": "A cooler morning starts in Gallery Distro, perfect for warming up among the clothing racks. At noon, the mosques offer a peaceful break in a wind-sheltered atmosphere away from the breeze. The afternoon is spent in the cozy museum halls while the light softens. Since the sun sets around 5:00 PM, our tour concludes in the golden twilight before the early darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gallery Distro",
+                "hu": "Gallery Distro",
+                "ro": "Gallery Distro",
+                "en": "Gallery Distro"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich eine warme Jacke aus lokaler Produktion für die kühleren Abendstunden aus; die beheizte Atmosphäre im Laden ist ein perfekter Start.",
+                "hu": "Válasszon egy helyi készítésű meleg pulóvert a hűvösebb esti órákra; a bolt kellemes belső klímája tökéletes kiindulópont a városi sétához.",
+                "ro": "Alegeți o jachetă caldă de producție locală pentru orele mai răcoroase de seară; atmosfera primitoare din magazin este un început perfect.",
+                "en": "Pick out a warm locally-made sweater for the cooler evening hours; the pleasant indoor climate of the shop is a perfect starting point for the walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Taqwa Muhammadiyah",
+                "hu": "Masjid Taqwa Muhammadiyah",
+                "ro": "Masjid Taqwa Muhammadiyah",
+                "en": "Masjid Taqwa Muhammadiyah"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die windstille Ruhe im Inneren der Moschee während der Mittagszeit; ziehen Sie Socken an, da der Steinboden im Winter recht kühl sein kann.",
+                "hu": "Élvezze a szélcsendes nyugalmat a mecset belsejében a déli órákban; viseljen zoknit, mivel a kőpadló hűvösebb lehet ezekben a hónapokban.",
+                "ro": "Bucurați-vă de liniștea ferită de vânt în interiorul moscheii la prânz; purtați șosete deoarece podeaua de piatră poate fi destul de rece în această perioadă.",
+                "en": "Enjoy the windless peace inside the mosque during noon; wear socks as the stone floor can be quite cool during these months of the year."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung Nurul Iman",
+                "hu": "Masjid Agung Nurul Iman",
+                "ro": "Masjid Agung Nurul Iman",
+                "en": "Masjid Agung Nurul Iman"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Mauern halten die Wärme im Inneren und bieten Schutz vor der kühlen Brise; bewundern Sie das Lichtspiel der tiefer stehenden Wintersonne.",
+                "hu": "A vaskos falak bent tartják a meleget és védelmet nyújtanak a hűvös szél ellen; csodálja meg az alacsonyabban járó téli nap fényjátékát az ablakokon.",
+                "ro": "Pereții masivi rețin căldura în interior și oferă protecție împotriva brizei reci; admirați jocul de lumini al soarelui de iarnă care stă mai jos pe cer.",
+                "en": "The massive walls keep the warmth inside and provide protection from the cool breeze; admire the light play of the lower winter sun through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+                "hu": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+                "ro": "Museum Rumah Kelahiran Bagindo Aziz Chan",
+                "en": "Museum Rumah Kelahiran Bagindo Aziz Chan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses gemütliche Holzhaus, das im Winter eine besonders einladende Atmosphäre ausstrahlt; nutzen Sie das weiche Licht für stimmungsvolle Fotos.",
+                "hu": "Látogasson el ebbe a hangulatos faházba, amely télen különösen barátságos légkört áraszt; használja ki a lágy fényeket a hangulatos belső fotókhoz.",
+                "ro": "Vizitați această casă de lemn primitoare care emană o atmosferă caldă iarna; profitați de lumina blândă pentru fotografii de interior reușite.",
+                "en": "Visit this cozy wooden house which radiates a particularly welcoming atmosphere in winter; use the soft light for atmospheric interior photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Adityawarman",
+                "hu": "Museum Adityawarman",
+                "ro": "Museum Adityawarman",
+                "en": "Museum Adityawarman"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den späten Nachmittag in den gut temperierten Ausstellungsräumen; beeilen Sie sich, um die Außenanlage noch vor Sonnenuntergang um 17 Uhr zu sehen.",
+                "hu": "Töltse a késő délutánt a kellemes hőmérsékletű kiállítótermekben; siessen, hogy a külső épületeket még a 17 órai naplemente előtt megtekinthesse.",
+                "ro": "Petreceți după-amiaza târzie în sălile de expoziție bine temperate; grăbiți-vă să vedeți exteriorul înainte de apusul soarelui de la ora 17:00.",
+                "en": "Spend the late afternoon in the well-tempered exhibition rooms; hurry to see the outdoor grounds before the 5:00 PM sunset sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri Taman Budaya Sumatera Barat",
+                "hu": "Galeri Taman Budaya Sumatera Barat",
+                "ro": "Galeri Taman Budaya Sumatera Barat",
+                "en": "Galeri Taman Budaya Sumatera Barat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei einer Indoor-Performance, wenn die Kälte draußen zunimmt; nehmen Sie einen heißen Tee mit, um sich nach der Tour aufzuwärmen.",
+                "hu": "Zárja a napot egy belső előadással, ahogy odakint hűl az idő a korai sötétedés után; igyon egy forró teát a túra utáni felmelegedéshez.",
+                "ro": "Încheiați ziua cu o reprezentație în interior pe măsură ce se lasă frigul afară; beți un ceai fierbinte pentru a vă încălzi după terminarea turului.",
+                "en": "End the day with an indoor performance as it gets colder outside after dark; have a hot tea to warm up after completing the winter tour."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros napja Padang történelmének mélyebb megismerésével kezdődik a városi levéltárban. Dél körül az óvároson keresztül teker az indiai kereskedők által alapított történelmi mecsetekhez. A délután lenyűgöző tengerparti építészeti csodákat és gyarmati banképületeket tartogat. Zárja túráját az ikonikus Adityawarman Múzeumban, amely a helyi kultúra kincsestára.",
         "ro": "Ziua pe bicicletă începe cu o incursiune profundă în istoria orașului Padang la arhivele orașului. În jurul prânzului, veți pedala prin cartierele vechi către moscheile istorice fondate de comercianții indieni. După-amiaza aduce minuni arhitecturale de pe coastă și impresionante bănci coloniale. Încheiați turul la iconicul Muzeu Adityawarman, plin de cultură locală.",
         "en": "Your cycling day begins with a deep dive into Padang's history at the city archives. Around midday, you'll pedal through old town neighborhoods to historic mosques founded by Indian merchants. The afternoon brings you to stunning coastal architectural wonders and impressive colonial bank buildings. Finish your breezy ride at the iconic Museum Adityawarman, brimming with rich local culture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet bei Regen in der Galeri Arsip Statis, einem sicheren Hafen. Mittags radeln wir vorsichtig zwischen den historischen Moscheen, wobei wir kurze Schauer für Pausen nutzen. Der Nachmittag bietet in den Museen Schutz für Mensch und Rad. Abends beenden wir die Tour an der Küste, wobei wir auf spritzendes Wasser und rutschige Kurven achten müssen.",
+            "hu": "A kerékpártúra esőben indul a Galeri Arsip Statis biztonságos épületénél. Délben óvatosan tekerünk a mecsetek között, a záporokat pihenőkre kihasználva. A délutáni múzeumlátogatások alatt a bicikli is védett helyen pihenhet. Este a parton fejezzük be a kört, ügyelve a felverődő vízre és a csúszós kanyarokra az utakon.",
+            "ro": "Turul cu bicicleta începe pe ploaie la Galeri Arsip Statis, un adăpost sigur. La prânz pedalăm cu grijă între moschei, folosind pauzele dintre averse pentru deplasare. După-amiaza oferă protecție în muzee atât pentru noi, cât și pentru biciclete. Seara încheiem turul pe coastă, fiind atenți la apă și la curbele alunecoase.",
+            "en": "The bike tour starts in the rain at Galeri Arsip Statis, a safe haven. At noon, we pedal carefully between historic mosques, using showers as opportunities for breaks. The afternoon provides shelter in museums for both riders and bikes. In the evening, we finish at the coast, being mindful of splashing water and slippery curves on the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galeri Arsip Statis Dinas Perpustakaan und Kearsipan Kota Padang",
+                "hu": "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang",
+                "ro": "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang",
+                "en": "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im überdachten Bereich und erkunden Sie die Stadtarchive im Trockenen; prüfen Sie Ihre Bremsen vor der Abfahrt im Regen.",
+                "hu": "Parkoljon a fedett részen, és fedezze fel a városi archívumot szárazon; ellenőrizze a fékeket indulás előtt a vizes útra való tekintettel.",
+                "ro": "Parcați bicicleta în zona acoperită și explorați arhivele orașului la adăpost; verificați frânele înainte de a pleca din nou prin ploaie.",
+                "en": "Park your bike in the covered area and explore the city archives in the dry; check your brakes before departing again into the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya Ganting",
+                "hu": "Masjid Raya Ganting",
+                "ro": "Masjid Raya Ganting",
+                "en": "Masjid Raya Ganting"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den Arkaden dieser historischen Moschee Schutz vor dem Guss; tragen Sie eine Regenjacke, da der Fahrtwind Sie sonst auskühlt.",
+                "hu": "Keressen menedéket a történelmi mecset árkádjai alatt a zápor elől; viseljen esőkabátot, mert a menetszélben gyorsan átázhat a ruházata.",
+                "ro": "Căutați adăpost sub arcadele moscheii istorice în timpul aversei; purtați o pelerină de ploaie pentru a evita răceala cauzată de vântul la pedalat.",
+                "en": "Seek shelter under the arches of this historic mosque during the downpour; wear a raincoat to avoid getting soaked by the wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Muhammadan",
+                "hu": "Masjid Muhammadan",
+                "ro": "Masjid Muhammadan",
+                "en": "Masjid Muhammadan"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese einzigartige Moschee im indischen Stil, während das Rad draußen im Regen steht; achten Sie auf den schlammigen Untergrund beim Absteigen.",
+                "hu": "Látogassa meg ezt az egyedülálló indiai stílusú mecsetet, amíg a gép kint ázik; ügyeljen a sáros talajra a leszálláskor a kapu előtt.",
+                "ro": "Vizitați această moschee unică în stil indian în timp ce bicicleta stă afară în ploaie; atenție la terenul noroios când coborâți de pe bicicletă.",
+                "en": "Visit this unique Indian-style mosque while your bike stays outside in the rain; watch out for muddy ground when dismounting at the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Bank Indonesia Padang",
+                "hu": "Museum Bank Indonesia Padang",
+                "ro": "Museum Bank Indonesia Padang",
+                "en": "Museum Bank Indonesia Padang"
+              },
+              "tip_5lang": {
+                "de": "Das massive Bankgebäude bietet exzellenten Schutz für eine längere Pause; wischen Sie den Sattel trocken, bevor Sie die Fahrt fortsetzen.",
+                "hu": "A masszív banképület kiváló védelmet nyújt egy hosszabb pihenőhöz; törölje szárazra a nyerget, mielőtt folytatná az utat a következő állomáshoz.",
+                "ro": "Clădirea masivă a băncii oferă o protecție excelentă pentru o pauză lungă; ștergeți șaua înainte de a continua drumul spre următoarea oprire.",
+                "en": "The massive bank building offers excellent protection for a long break; wipe your saddle dry before continuing the ride to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Hakim",
+                "hu": "Masjid Al-Hakim",
+                "ro": "Masjid Al-Hakim",
+                "en": "Masjid Al-Hakim"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das regnerische Meer von dieser prachtvollen Moschee aus; fahren Sie extrem vorsichtig auf den küstennahen, nassen Straßen.",
+                "hu": "Élvezze a kilátást az esős tengerre ebből a pompás mecsetből; vezessen rendkívül óvatosan a parti, vizes utakon a megcsúszás veszélye miatt.",
+                "ro": "Bucurați-vă de vederea spre marea învolburată din această moschee superbă; pedalați cu maximă prudență pe drumurile ude de pe malul mării.",
+                "en": "Enjoy the view of the rainy sea from this magnificent mosque; ride extremely carefully on the wet coastal roads due to the risk of skidding."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Adityawarman",
+                "hu": "Museum Adityawarman",
+                "ro": "Museum Adityawarman",
+                "en": "Museum Adityawarman"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die letzte Station für eine gründliche Abtrocknung in den Ausstellungsräumen; prüfen Sie die Beleuchtung Ihres Rades für den Heimweg im Regen.",
+                "hu": "Használja ki az utolsó állomást egy alapos megszárítkozásra a termekben; ellenőrizze a világítást a hazaúthoz az esős szürkületben.",
+                "ro": "Folosiți ultima oprire pentru a vă usca bine în sălile de expoziție; verificați luminile bicicletei pentru drumul spre casă prin ploaie.",
+                "en": "Use the last stop for a thorough drying off in the exhibition halls; check your bike lights for the ride home through the rainy twilight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Radtour beginnt frisch an der Galeri Arsip Statis, ideal um den Kreislauf in Schwung zu bringen. Mittags suchen wir die windgeschützten Höfe der historischen Moscheen auf. Der Nachmittag wird in den Museen verbracht, um der kühlen Brise zu entgehen. Da es bereits um 17:00 Uhr dunkel wird, genießen wir das letzte Tageslicht auf dem Radweg am Ozean.",
+            "hu": "A reggeli kerékpártúra frissen indul a Galeri Arsip Statis-nál, ideális a vérkeringés felpezsdítésére. Délben a történelmi mecsetek szélvédett udvarait keressük fel a pihenőhöz. A délutánt múzeumokban töltjük, elkerülve a hűvös parti szelet. Mivel 17:00 körül sötétedik, az utolsó fényeket az óceán melletti kerékpárúton élvezzük.",
+            "ro": "Turul matinal cu bicicleta începe în aerul proaspăt la Galeri Arsip Statis, ideal pentru energie. La prânz căutăm curțile moscheilor istorice, ferite de vânt. După-amiaza este petrecută în muzee pentru a evita briza răcoroasă. Deoarece se întunecă la 17:00, ne bucurăm de ultima lumină pe pista de biciclete de lângă ocean.",
+            "en": "The morning bike tour starts fresh at Galeri Arsip Statis, ideal for getting the circulation going. At noon, we seek the wind-sheltered courtyards of historic mosques for a rest. The afternoon is spent in museums to avoid the cool coastal breeze. Since it gets dark around 5:00 PM, we enjoy the last light on the bike path by the ocean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Galeri Arsip Statis Dinas Perpustakaan und Kearsipan Kota Padang",
+                "hu": "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang",
+                "ro": "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang",
+                "en": "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie zügig, um sich warm zu radeln, und genießen Sie die kühle Morgenluft im Archiv; tragen Sie Handschuhe gegen den kalten Lenker.",
+                "hu": "Induljon tempósan, hogy bemelegedjen a tekeréstől, és élvezze a hűvös reggeli levegőt; viseljen kesztyűt a hideg kormány fogásához.",
+                "ro": "Porniți în forță pentru a vă încălzi pedalând și bucurați-vă de aerul răcoros; purtați mănuși pentru a proteja mâinile de ghidonul rece.",
+                "en": "Start at a brisk pace to warm up through riding and enjoy the cool morning air; wear gloves to protect your hands from the cold handlebar."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya Ganting",
+                "hu": "Masjid Raya Ganting",
+                "ro": "Masjid Raya Ganting",
+                "en": "Masjid Raya Ganting"
+              },
+              "tip_5lang": {
+                "de": "Rasten Sie in der Sonne auf dem Vorplatz, um Wärme für die nächste Etappe zu tanken; die windgeschützte Architektur ist hier ein großer Vorteil.",
+                "hu": "Pihenjen a napsütötte előtéren, hogy feltöltődjön meleggel a következő szakaszra; a szélvédett építészet nagy előny a hűvösebb téli napokon.",
+                "ro": "Odihniți-vă la soare în fața moscheii pentru a vă încălzi înainte de următoarea etapă; arhitectura ferită de vânt este un mare avantaj aici.",
+                "en": "Rest in the sun on the forecourt to recharge with warmth for the next leg; the wind-sheltered architecture is a great advantage on cool days."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Muhammadan",
+                "hu": "Masjid Muhammadan",
+                "ro": "Masjid Muhammadan",
+                "en": "Masjid Muhammadan"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Innere, um dem Fahrtwind zu entkommen; das warme Licht der Wintersonne lässt die Farben der Moschee besonders leuchten.",
+                "hu": "Tekintse meg a belső teret, hogy kimeneküljön a menetszélből; a téli nap meleg fénye különösen szépen világítja meg a mecset színes falait.",
+                "ro": "Vizitați interiorul pentru a scăpa de curentul de aer de la pedalat; lumina caldă a soarelui de iarnă scoate în evidență culorile moscheii.",
+                "en": "Visit the interior to escape the wind from riding; the warm light of the winter sun makes the colors of the mosque shine beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Bank Indonesia Padang",
+                "hu": "Museum Bank Indonesia Padang",
+                "ro": "Museum Bank Indonesia Padang",
+                "en": "Museum Bank Indonesia Padang"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten oder windstillen Räume für eine ausgiebige Pause; laden Sie Ihre elektronischen Geräte auf, bevor die Sonne früh untergeht.",
+                "hu": "Használja ki a szélcsendes belső tereket egy alapos pihenőre; töltse fel eszközeit, mielőtt a nap korán, 17 óra körül lebukna a láthatáron.",
+                "ro": "Folosiți spațiile ferite de vânt pentru o pauză prelungită; încărcați-vă dispozitivele electronice înainte ca soarele să apună devreme.",
+                "en": "Take advantage of the windless interior spaces for an extensive break; charge your electronic devices before the sun sets early at 5:00 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Hakim",
+                "hu": "Masjid Al-Hakim",
+                "ro": "Masjid Al-Hakim",
+                "en": "Masjid Al-Hakim"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr direkt vom Fahrradsitz aus; ziehen Sie eine extra Schicht an, sobald die Sonne im Meer versinkt.",
+                "hu": "Élvezze a 17:00 körüli naplementét közvetlenül a kerékpár nyergéből; vegyen fel egy plusz réteget, amint a nap a tengerbe süllyed.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 direct de pe șaua bicicletei; puneți-vă un strat suplimentar de haine imediat ce soarele apune în mare.",
+                "en": "Enjoy the sunset around 5:00 PM directly from your bike saddle; put on an extra layer of clothing as soon as the sun disappears into the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Adityawarman",
+                "hu": "Museum Adityawarman",
+                "ro": "Museum Adityawarman",
+                "en": "Museum Adityawarman"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour in der gemütlichen Atmosphäre des Museums; prüfen Sie Ihre Fahrradlichter für die Rückfahrt in der frühen Dunkelheit.",
+                "hu": "Fejezze be a túrát a múzeum barátságos hangulatában; ellenőrizze a lámpákat a korai sötétedés utáni biztonságos hazatekeréshez.",
+                "ro": "Încheiați turul în atmosfera primitoare a muzeului; verificați luminile bicicletei pentru drumul de întoarcere pe întuneric.",
+                "en": "Finish your tour in the cozy atmosphere of the museum; check your bike lights for the safe ride back in the early darkness after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje autós útját Nyugat-Szumátra híres nagymecsetjénél, amely a modern Minangkabau építészet remekműve. Az autó gyorsan elviszi Önt más építészeti gyöngyszemekhez, beleértve a gyarmati és neoklasszikus szentélyeket. Délután kényelmesen fedezze fel a régió kulturális és gazdasági történelmét a múzeumokban. A nagy finálé a vibráló Taman Budaya kulturális központban várja.",
         "ro": "Începeți călătoria cu mașina la faimoasa Mare Moschee din Sumatra de Vest, o capodoperă a arhitecturii moderne Minangkabau. Mașina vă duce rapid la alte bijuterii arhitecturale, inclusiv sanctuare coloniale și neoclasice. După-amiaza, explorați confortabil istoria culturală și economică a regiunii în muzee răcoroase. Marele final are loc la centrul cultural Taman Budaya.",
         "en": "Kick off your drive at the renowned Grand Mosque of West Sumatra, a masterpiece of modern Minangkabau architecture. The car quickly whisks you away to other architectural gems, including colonial and neoclassical sanctuaries. In the afternoon, comfortably explore the region's cultural and economic history in air-conditioned museums. The grand finale unfolds at the vibrant Taman Budaya hub."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt trocken im Auto, während draußen der Regen auf die Scheiben trommelt. Wir besuchen die prächtigen Moscheen, wobei wir direkt vor den Eingängen parken, um trocken zu bleiben. Der Nachmittag wird in den weitläufigen Museen verbracht, ein perfektes Schlechtwetterprogramm. Abends genießen wir die beleuchtete Stadt durch die regennassen Fenster unseres Fahrzeugs.",
+            "hu": "Az út kényelmesen, szárazon indul az autóban, miközben odakint az eső veri az ablakokat. A mecseteknél közvetlenül a bejáratnál parkolunk, hogy minimalizáljuk az ázást. A délutánt a tágas múzeumokban töltjük, ami tökéletes esős napi program. Este a kivilágított várost az autónk esőáztatta ablakain keresztül csodáljuk meg a forgalomban.",
+            "ro": "Călătoria începe confortabil în mașină, în timp ce afară ploaia bate în geamuri. Vizităm moscheile superbe, parcând direct la intrare pentru a rămâne uscați. După-amiaza este petrecută în muzeele spațioase, un program perfect pentru vreme rea. Seara admirăm orașul iluminat prin ferestrele ude ale vehiculului nostru.",
+            "en": "The journey starts comfortably dry in the car while rain drums on the windows outside. We visit magnificent mosques, parking right at the entrances to stay dry. The afternoon is spent in spacious museums, a perfect rainy-day program. In the evening, we admire the illuminated city through the rain-streaked windows of our vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Raya Sumatera Barat",
+                "hu": "Masjid Raya Sumatera Barat",
+                "ro": "Masjid Raya Sumatera Barat",
+                "en": "Masjid Raya Sumatera Barat"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Parkplatz und bewundern Sie das Dachdesign im Regen; die Architektur wirkt bei bewölktem Himmel besonders dramatisch.",
+                "hu": "Használja a fedett parkolót, és csodálja meg a különleges tetőt az esőben; az épület látványa a felhős égbolt alatt különösen drámai.",
+                "ro": "Folosiți parcarea acoperită și admirați designul acoperișului în ploaie; arhitectura pare deosebit de dramatică sub cerul înnorat.",
+                "en": "Use the covered parking and admire the unique roof design in the rain; the architecture looks particularly dramatic under cloudy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya Andalas",
+                "hu": "Masjid Raya Andalas",
+                "ro": "Masjid Raya Andalas",
+                "en": "Masjid Raya Andalas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Haupteingang, um dem Platzregen zu entgehen; genießen Sie die warme, trockene Atmosphäre im Inneren der Gebetshalle.",
+                "hu": "Parkoljon közvetlenül a főbejáratnál, hogy elkerülje a felhőszakadást; élvezze a belső imacsarnok meleg és száraz atmoszféráját a látogatáskor.",
+                "ro": "Parcați aproape de intrarea principală pentru a evita ploaia torențială; bucurați-vă de atmosfera caldă și uscată din interiorul sălii.",
+                "en": "Park close to the main entrance to avoid the downpour; enjoy the warm and dry atmosphere inside the prayer hall during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya Ganting",
+                "hu": "Masjid Raya Ganting",
+                "ro": "Masjid Raya Ganting",
+                "en": "Masjid Raya Ganting"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto zum Portal bringt Sie in diese historische Stätte; achten Sie auf tiefe Pfützen auf dem Parkgelände.",
+                "hu": "Egy rövid futás az autótól a kapuig, és már bent is van a történelmi helyszínen; ügyeljen a mély tócsákra a parkoló területén.",
+                "ro": "Un scurt sprint de la mașină până la poartă vă duce în acest loc istoric; atenție la bălțile adânci din zona de parcare.",
+                "en": "A short sprint from the car to the gate gets you into this historic site; watch out for deep puddles in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Bank Indonesia Padang",
+                "hu": "Museum Bank Indonesia Padang",
+                "ro": "Museum Bank Indonesia Padang",
+                "en": "Museum Bank Indonesia Padang"
+              },
+              "tip_5lang": {
+                "de": "Das massive Gebäude bietet perfekten Schutz für Stunden; lassen Sie nasse Schirme im Auto, um die Exponate trocken zu halten.",
+                "hu": "A masszív épület tökéletes védelmet nyújt órákon át; hagyja a vizes ernyőket az autóban, hogy megóvja a kiállítási tárgyak szárazságát.",
+                "ro": "Clădirea masivă oferă protecție perfectă timp de ore întregi; lăsați umbrelele ude în mașină pentru a păstra exponatele uscate.",
+                "en": "The massive building offers perfect protection for hours; leave wet umbrellas in the car to keep the exhibits dry and safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Hakim",
+                "hu": "Masjid Al-Hakim",
+                "ro": "Masjid Al-Hakim",
+                "en": "Masjid Al-Hakim"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Wellen des Ozeans aus der Sicherheit des Autos oder der Moschee; die Gischt kann bei Regen sehr stark sein.",
+                "hu": "Csodálja meg az óceán hullámait az autó vagy a mecset biztonságából; a sós vízpára esőben és szélben nagyon erős lehet a parton.",
+                "ro": "Admirați valurile oceanului din siguranța mașinii sau a moscheii; vaporii de apă sărată pot fi foarte puternici pe ploaie și vânt.",
+                "en": "Admire the ocean waves from the safety of your car or the mosque; the sea spray can be very strong during rain and wind on the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Adityawarman",
+                "hu": "Museum Adityawarman",
+                "ro": "Museum Adityawarman",
+                "en": "Museum Adityawarman"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Nachmittag für eine ausführliche Innenbesichtigung; die Klimaanlage im Auto hilft, die beschlagenen Scheiben schnell frei zu bekommen.",
+                "hu": "Használja ki a délutánt egy alapos belső látogatásra; az autó légkondicionálója segít gyorsan párátlanítani a szélvédőt az indulás után.",
+                "ro": "Profitați de după-amiază pentru o vizită interioară detaliată; aerul condiționat din mașină ajută la dezaburirea rapidă a geamurilor.",
+                "en": "Take advantage of the afternoon for a thorough indoor visit; the car's air conditioning helps quickly defog the windows after you get in."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri Taman Budaya Sumatera Barat",
+                "hu": "Galeri Taman Budaya Sumatera Barat",
+                "ro": "Galeri Taman Budaya Sumatera Barat",
+                "en": "Galeri Taman Budaya Sumatera Barat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag kulturell im Trockenen, bevor Sie die beleuchtete Stadt befahren; prüfen Sie Ihre Scheibenwischer für die Abendfahrt.",
+                "hu": "Zárja a napot kulturális programmal szárazon, mielőtt az esti városba hajtana; ellenőrizze az ablaktörlőket a biztonságos esti vezetéshez.",
+                "ro": "Încheiați ziua cu un program cultural la adăpost înainte de a conduce prin oraș; verificați ștergătoarele pentru condusul de seară.",
+                "en": "End the day with a cultural program in the dry before driving through the city; check your wipers for safe evening driving in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt im beheizten Auto bietet einen komfortablen Start in den kühleren Tag. Wir besuchen die spirituellen Zentren Padangs, wobei wir die windgeschützte Anreise genießen. Der Nachmittag gehört der Kultur in den Museen, ein idealer Ort zum Aufwärmen. Da die Dämmerung bereits um 17:00 Uhr einsetzt, erleben wir das stimmungsvolle Abendlicht direkt von der Küstenstraße aus.",
+            "hu": "A reggeli autózás kényelmes és meleg indítást nyújt a hűvösebb téli napon. Padang spirituális központjait látogatjuk meg, élvezve a szélvédett utazást a helyszínek között. A délutánt a múzeumok falai között töltjük, ami ideális hely a felmelegedéshez. Mivel 17:00-kor már sötétedik, a hangulatos esti fényeket közvetlenül a tengerparti útról csodálhatjuk meg.",
+            "ro": "Călătoria matinală cu mașina oferă un început confortabil și cald în ziua răcoroasă. Vizităm centrele spirituale din Padang, bucurându-ne de drumul ferit de vânt. După-amiaza este dedicată culturii în muzee, locul ideal pentru a ne încălzi. Deoarece amurgul vine la 17:00, experimentăm lumina serii direct de pe drumul de coastă.",
+            "en": "The morning drive in the car provides a comfortable and warm start to the cooler winter day. We visit Padang's spiritual centers, enjoying the wind-sheltered travel between sites. The afternoon belongs to culture in the museums, an ideal place to warm up. Since dusk sets in at 5:00 PM, we experience the atmospheric evening light directly from the coastal road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjid Raya Sumatera Barat",
+                "hu": "Masjid Raya Sumatera Barat",
+                "ro": "Masjid Raya Sumatera Barat",
+                "en": "Masjid Raya Sumatera Barat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die majestätische Architektur bei klarer Winterluft; im Auto bleibt es warm, während Sie draußen die frische Brise spüren.",
+                "hu": "Élvezze a fenséges építészetet a tiszta téli levegőben; az autóban meleg marad, miközben kint érzi a frissítő, hűvös szellőt.",
+                "ro": "Bucurați-vă de arhitectura maiestuoasă în aerul curat de iarnă; rămâneți la căldură în mașină în timp ce afară simțiți briza proaspătă.",
+                "en": "Enjoy the majestic architecture in the clear winter air; stay warm in the car while feeling the refreshing cool breeze outside the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya Andalas",
+                "hu": "Masjid Raya Andalas",
+                "ro": "Masjid Raya Andalas",
+                "en": "Masjid Raya Andalas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg vom Parkplatz zum Eingang, um die Kälte draußen zu lassen; das Innere der Moschee ist angenehm temperiert.",
+                "hu": "Használja ki a rövid sétát a parkolótól a bejáratig, hogy elkerülje a kinti hűvöset; a mecset belseje kellemes hőmérsékletű ilyenkor.",
+                "ro": "Profități de scurta plimbare de la parcare la intrare pentru a evita răcoarea de afară; interiorul moscheii are o temperatură foarte plăcută.",
+                "en": "Take advantage of the short walk from the parking to the entrance to avoid the chill; the interior of the mosque is pleasantly tempered."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya Ganting",
+                "hu": "Masjid Raya Ganting",
+                "ro": "Masjid Raya Ganting",
+                "en": "Masjid Raya Ganting"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historischen Details in der windgeschützten Halle; nutzen Sie die tief stehende Sonne für perfekte Fotos der Fassade.",
+                "hu": "Csodálja meg a történelmi részleteket a szélvédett imacsarnokban; használja ki az alacsony napállást a homlokzat tökéletes lefotózásához.",
+                "ro": "Admirați detaliile istorice în sala ferită de vânt; profitați de soarele care stă jos pentru a face fotografii perfecte fațadei.",
+                "en": "Admire the historical details in the wind-sheltered hall; take advantage of the low sun for perfect photos of the building's facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Bank Indonesia Padang",
+                "hu": "Museum Bank Indonesia Padang",
+                "ro": "Museum Bank Indonesia Padang",
+                "en": "Museum Bank Indonesia Padang"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Warmen während der Mittagszeit; die dicken Mauern speichern die Wärme der Vormittagssonne.",
+                "hu": "Ideális hely egy hosszabb, melegben töltött pihenőre a déli órákban; a vastag falak jól tartják a délelőtti napsütés melegét.",
+                "ro": "Locul ideal pentru o pauză prelungită la căldură în timpul prânzului; pereții groși rețin bine căldura soarelui de dimineață.",
+                "en": "An ideal place for an extended break in the warmth during noon; the thick walls retain the heat from the morning sun very effectively."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Hakim",
+                "hu": "Masjid Al-Hakim",
+                "ro": "Masjid Al-Hakim",
+                "en": "Masjid Al-Hakim"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang um 17:00 Uhr direkt durch die Frontscheibe; das Auto bietet Schutz vor der kühlen Meeresbrise.",
+                "hu": "Nézze meg a korai, 17:00 órai naplementét közvetlenül a szélvédőn keresztül; az autó védelmet nyújt a hűvös, sós tengeri szél ellen.",
+                "ro": "Urmăriți apusul devreme de la ora 17:00 direct prin parbriz; mașina oferă protecție împotriva brizei marine răcoroase.",
+                "en": "Watch the early sunset at 5:00 PM directly through the windshield; the car provides protection from the cool and salty sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Adityawarman",
+                "hu": "Museum Adityawarman",
+                "ro": "Museum Adityawarman",
+                "en": "Museum Adityawarman"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie in den gemütlichen Räumen, während es draußen früher dunkel wird; die Fahrzeugheizung sorgt für eine behagliche Rückfahrt.",
+                "hu": "Időzzön a barátságos belső terekben, miközben odakint hamarabb sötétedik; az autó fűtése gondoskodik a kényelmes hazaútról.",
+                "ro": "Zăboviți în spațiile interioare primitoare în timp ce afară se întunecă devreme; încălzirea mașinii asigură un drum de întoarcere plăcut.",
+                "en": "Linger in the cozy interior spaces while it gets dark earlier outside; the car's heating ensures a comfortable and snug ride home."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeri Taman Budaya Sumatera Barat",
+                "hu": "Galeri Taman Budaya Sumatera Barat",
+                "ro": "Galeri Taman Budaya Sumatera Barat",
+                "en": "Galeri Taman Budaya Sumatera Barat"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour mit Kultur ab, wenn die Temperaturen abends sinken; schalten Sie das Licht am Auto für die Heimfahrt im Dunkeln ein.",
+                "hu": "Zárja a túrát kulturális élménnyel, ahogy az esti hőmérséklet csökken; ne felejtse el felkapcsolni a fényszórókat a sötét hazaúthoz.",
+                "ro": "Încheiați turul cu o experiență culturală pe măsură ce temperatura scade; nu uitați să aprindeți farurile pentru drumul spre casă.",
+                "en": "Conclude the tour with a cultural experience as temperatures drop in the evening; remember to turn on your lights for the dark ride home."
+              }
+            }
+          ]
+        }
       }
     }
   }

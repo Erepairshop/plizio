@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az újváros kulturális szívében, a Musée Meryemben, elmélyülve a művészetekben és hagyományokban. Délben tapasztalja meg Fes modern lüktetését a Word @ work és a Fly center plus közösségi tereiben. A nyugodt délutánt a város romantikus múltját idéző orientalista mesterművek megcsodálásával töltheti. Zárja a napot egy kellemes esti sétával a Cendrillon retro bája mellett, ahogy a város kivilágosodik.",
         "ro": "Începeți dimineața explorând inima culturală a Ville Nouvelle la Musée Meryem, bucurându-vă de artele și tradițiile senine. La prânz, simțiți pulsul modern al orașului Fes la centre comunitare precum Word @ work și Fly center plus. Petreceți o după-amiază relaxantă admirând capodopere orientaliste care amintesc de trecutul romantic al orașului. Încheiați ziua cu o plimbare plăcută de seară pe lângă farmecul retro de la Cendrillon.",
         "en": "Start your morning exploring the cultural heart of the Ville Nouvelle at Musée Meryem, soaking in the serene arts and traditions. By midday, engage with the modern pulse of Fes at community hubs like Word @ work and Fly center plus. Spend a leisurely afternoon admiring orientalist masterpieces that recall the city's romantic past. Conclude your day with a pleasant evening walk past the retro charm of Cendrillon as the city lights up."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt trocken im Musée Meryem, während der Regen gegen die Fenster trommelt. Mittags bieten die kreativen Räume der Medina perfekten Schutz vor den Güssen. Am Nachmittag genießen Sie die Kunst in der Orientaliste Gallery, weit weg von den nassen Gassen. Der Abend endet mit dem Glanz der Lichter, die sich malerisch in den Pfützen spiegeln.",
+            "hu": "A reggel szárazon indul a Musée Meryem falai között, miközben az eső kopog a tetőn. Délben a medina kreatív terei nyújtanak menedéket a záporok elől. Délután az Orientaliste galériában kalandozhat, távol a felázott utcáktól. Az este a városi fényekkel zárul, amelyek festőien tükröződnek vissza a vizes kövezet pocsolyáiban.",
+            "ro": "Dimineața începe la adăpost în Musée Meryem, în timp ce ploaia bate în ferestre. La prânz, spațiile creative din medina oferă refugiul perfect împotriva averselor. După-amiaza, explorați galeria Orientaliste, departe de străzile ude. Seara se încheie cu luminile orașului care se oglindesc pitoresc în bălțile de pe pavaj.",
+            "en": "The morning starts dry within Musée Meryem as rain drums on the roof. At noon, the creative spaces of the medina provide the perfect shelter from sudden showers. In the afternoon, explore the Orientaliste Gallery, safely away from the soaked streets. The evening concludes with city lights reflecting beautifully in the puddles on the stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée Meryem",
+                "hu": "Musée Meryem",
+                "ro": "Musée Meryem",
+                "en": "Musée Meryem"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Exponate im trockenen Innenraum, während die Akustik des Regens im Innenhof eine magische Atmosphäre schafft. Nutzen Sie die Garderobe für nasse Mäntel.",
+                "hu": "Csodálja meg a kiállításokat a száraz belső térben, miközben az udvaron kopogó eső akusztikája mágikus hangulatot áraszt. Használja a ruhatárat a vizes kabátoknak.",
+                "ro": "Admirați exponatele în interiorul uscat, în timp ce acustica ploii din curtea interioară creează o atmosferă magică. Folosiți garderoba pentru haine și umbrele ude.",
+                "en": "Admire the exhibits in the dry interior while the acoustics of the rain in the courtyard create a magical atmosphere. Use the cloakroom for wet coats and umbrellas."
+              }
+            },
+            {
+              "name": {
+                "de": "Word @ work",
+                "hu": "Word @ work",
+                "ro": "Word @ work",
+                "en": "Word @ work"
+              },
+              "tip_5lang": {
+                "de": "Dieser kulturelle Ort ist ideal, um einen heftigen Schauer bei tiefgründigen Gesprächen abzuwarten. Achten Sie auf die rutschigen Stufen am Eingang bei Nässe.",
+                "hu": "Ez a kulturális helyszín ideális egy heves zápor kivárására mély beszélgetések közepette. Ügyeljen a bejáratnál a vizes, csúszós lépcsőkre a belépéskor.",
+                "ro": "Acest spațiu cultural este ideal pentru a aștepta trecerea unei averse în timp ce purtați conversații profunde. Atenție la treptele alunecoase de la intrare.",
+                "en": "This cultural space is ideal for waiting out a heavy downpour amid deep conversations. Watch out for slippery steps at the entrance when arriving from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fly center plus",
+                "hu": "Fly center plus",
+                "ro": "Fly center plus",
+                "en": "Fly center plus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche dieses Zentrums, um die lokale Dynamik ohne Regenrisiko zu erleben. Ein fester Stand auf den glatten Fliesen ist hier wichtig.",
+                "hu": "Használja ki a központ fedett részeit, hogy esőmentesen tapasztalja meg a helyi dinamikát. A sima padlólapokon fontos a magabiztos, nem csúszós léptek tartása.",
+                "ro": "Profitați de zonele acoperite ale acestui centru pentru a experimenta dinamica locală fără riscul ploii. Mențineți un pas sigur pe plăcile de pavaj umede.",
+                "en": "Take advantage of the covered areas in this center to experience local dynamics without the rain. Maintaining a firm footing on the smooth tiles is essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Orientaliste Art Gallery",
+                "hu": "Orientaliste Art Gallery",
+                "ro": "Orientaliste Art Gallery",
+                "en": "Orientaliste Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Die warme Beleuchtung der Galerie lässt die Farben der Gemälde auch an grauen Regentagen strahlen. Perfekt, um sich vor dem feuchten Wind draußen zu schützen.",
+                "hu": "A galéria meleg világítása a szürke esős napokon is ragyogóvá teszi a festmények színeit. Tökéletes helyszín a kinti nyirkos szél elleni védekezéshez és pihenéshez.",
+                "ro": "Iluminarea caldă a galeriei face ca culorile tablourilor să strălucească chiar și în zilele gri. Locul perfect pentru a vă proteja de vântul umed de afară.",
+                "en": "The gallery's warm lighting makes the paintings' colors shine even on grey rainy days. It is the perfect spot to take shelter from the damp wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Cendrillon",
+                "hu": "Cendrillon",
+                "ro": "Cendrillon",
+                "en": "Cendrillon"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein stimmungsvolles Foto im Regen; die feuchten Steine wirken besonders antik. Halten Sie Ihr Handy unter einem Schirm gut geschützt.",
+                "hu": "Rövid megálló egy hangulatos esős fotóhoz; a vizes kövek ilyenkor különösen antik hatást keltenek. Tartsa telefonját az esernyő alatt jól védett helyen.",
+                "ro": "O oprire scurtă pentru o fotografie atmosferică în ploaie; pietrele umede par deosebit de antice. Păstrați telefonul bine protejat sub o umbrelă.",
+                "en": "A brief stop for an atmospheric photo in the rain; the wet stones look particularly ancient now. Keep your phone well protected under an umbrella."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Fes ist klar und frisch, ideal für den Museumsbesuch. Mittags wärmt die sanfte Sonne die Gassen, während Sie kulturelle Zentren erkunden. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das goldene Licht des Nachmittags in den Galerien. Der Abend bringt Kühle, die man am besten in den beheizten Innenräumen der Stadt verbringt.",
+            "hu": "A téli reggel Fezben tiszta és friss, ideális a múzeumlátogatáshoz. Délben a szelíd napsütés melegíti az utcákat, miközben kulturális központokat fedez fel. Mivel a nap már délután 5 körül nyugovóra tér, használja ki a galériák aranyló fényeit. Az este hűvöset hoz, amit a legjobb a város fűtött belső tereiben tölteni.",
+            "ro": "Dimineața de iarnă în Fes este clară și proaspătă, ideală pentru vizitarea muzeului. La prânz, soarele blând încălzește străzile în timp ce explorați centrele culturale. Deoarece soarele apune deja în jur de ora 17:00, profitați de lumina aurie din galerii. Seara aduce răcoare, care se simte cel mai bine în interior.",
+            "en": "The winter morning in Fes is clear and fresh, ideal for a museum visit. At noon, the gentle sun warms the streets while you explore cultural centers. Since the sun sets around 17:00, take advantage of the afternoon's golden light in the galleries. The evening brings a chill best spent in the heated interiors of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée Meryem",
+                "hu": "Musée Meryem",
+                "ro": "Musée Meryem",
+                "en": "Musée Meryem"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kühle; tragen Sie Schichten, um sich im Inneren wohlzufühlen. Das Morgenlicht fällt im Winter besonders sanft durch die Fenster.",
+                "hu": "A vastag falak őrzik a hűvöset; öltözzön rétegesen, hogy komfortosan érezze magát bent. A téli reggeli fény különösen lágyan szűrődik be az ablakokon.",
+                "ro": "Zidurile groase rețin răcoarea; purtați straturi de haine pentru a vă simți confortabil în interior. Lumina de iarnă intră foarte blând prin ferestre.",
+                "en": "The thick walls retain the chill; wear layers to stay comfortable inside. The winter morning light filters through the windows with a special softness."
+              }
+            },
+            {
+              "name": {
+                "de": "Word @ work",
+                "hu": "Word @ work",
+                "ro": "Word @ work",
+                "en": "Word @ work"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die intime Atmosphäre dieses Ortes, wenn es draußen windig ist. Die Innentemperaturen sind perfekt für eine längere Pause zum Aufwärmen.",
+                "hu": "Élvezze a hely meghitt hangulatát, amikor kint szeles az idő. A belső hőmérséklet tökéletes egy hosszabb pihenőhöz és a szervezet felmelegítéséhez.",
+                "ro": "Bucurați-vă de atmosfera intimă a acestui loc când afară este vânt. Temperaturile interioare sunt perfecte pentru o pauză lungă de încălzire.",
+                "en": "Enjoy the intimate atmosphere of this place when it's windy outside. The indoor temperatures are perfect for a longer break to warm up properly."
+              }
+            },
+            {
+              "name": {
+                "de": "Fly center plus",
+                "hu": "Fly center plus",
+                "ro": "Fly center plus",
+                "en": "Fly center plus"
+              },
+              "tip_5lang": {
+                "de": "Ein lebendiger Ort, um die Wintersonne in geschützten Ecken zu erhaschen. Tragen Sie eine Mütze gegen den Zugwind, der durch die offenen Durchgänge weht.",
+                "hu": "Életteli hely, ahol a védett sarkokban elcsípheti a téli napsütést. Viseljen sapkát a huzat ellen, amely a nyitott átjárókon keresztül süvíthet be.",
+                "ro": "Un loc plin de viață unde puteți prinde soarele de iarnă în colțurile ferite. Purtați o căciulă împotriva curentului care trece prin pasajele deschise.",
+                "en": "A lively spot to catch the winter sun in sheltered corners. Wear a hat against the draft that can blow through the open passages during the colder months."
+              }
+            },
+            {
+              "name": {
+                "de": "Orientaliste Art Gallery",
+                "hu": "Orientaliste Art Gallery",
+                "ro": "Orientaliste Art Gallery",
+                "en": "Orientaliste Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das letzte Tageslicht vor 17:00 Uhr, um die Details der Kunstwerke zu sehen. Die Galerie bietet einen gemütlichen Zufluchtsort vor der Abendkühle.",
+                "hu": "Használja ki az utolsó nappali fényeket délután 5 előtt, hogy lássa a művek részleteit. A galéria meghitt menedéket nyújt az esti lehűlés elől.",
+                "ro": "Profitați de ultima lumină a zilei înainte de ora 17:00 pentru a vedea detaliile operelor. Galeria oferă un refugiu primitor înainte de răcoarea serii.",
+                "en": "Use the last daylight before 17:00 to see the fine details of the artworks. The gallery offers a cozy refuge before the evening chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Cendrillon",
+                "hu": "Cendrillon",
+                "ro": "Cendrillon",
+                "en": "Cendrillon"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie dieses Wahrzeichen pünktlich zum Sonnenuntergang um 17:00 Uhr für dramatische Schatten. Ein warmer Schal schützt Sie vor dem sinkenden Thermometer.",
+                "hu": "Látogassa meg ezt a jelképet pontban naplementekor, 17 órakor a drámai árnyékokért. Egy meleg sál megvédi Önt a hirtelen süllyedő hőmérséklettől.",
+                "ro": "Vizitați acest reper exact la apus, la ora 17:00, pentru umbre dramatice. Un fular călduros vă va proteja de scăderea bruscă a temperaturii.",
+                "en": "Visit this landmark right at sunset at 17:00 for dramatic shadows. A warm scarf will protect you from the rapidly dropping evening temperature."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros kalandját a Királyi Palota lenyűgöző aranykapuinál a reggeli fényben. Ahogy melegszik a nap, találjon árnyékot és nyugalmat a Jnan Sbil kertek buja ösvényein. Délután tekerjen a történelmi Medina felé, elhaladva a monumentális Bab Semmarine és a szent Zaouia of Moulay Idriss II mellett. Fejezze be az utat a Borj Sidi Bounafae-nál egy látványos naplementével.",
         "ro": "Începeți aventura pe bicicletă la porțile de aur uimitoare ale Palatului Regal, surprinzând lumina dimineții. Pe măsură ce ziua se încălzește, găsiți umbră și liniște mergând prin cărările luxuriante ale grădinilor Jnan Sbil. După-amiaza, pedalați spre Medina istorică, trecând pe lângă monumentalul Bab Semmarine și sacra Zaouia a lui Moulay Idriss II. Terminați cursa urcând la Borj Sidi Bounafae pentru un apus panoramic spectaculos.",
         "en": "Begin your cycling adventure at the awe-inspiring golden gates of the Royal Palace, capturing the morning light. As the day warms up, find shade and tranquility riding through the lush pathways of Jnan Sbil Gardens. In the afternoon, pedal towards the historic Medina, passing the monumental Bab Semmarine and the sacred Zaouia of Moulay Idriss II. Finish your ride ascending to Borj Sidi Bounafae for a spectacular panoramic sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf dem glatten Pflaster vor dem Palast. Mittags bieten die Jnan Sbil Gärten Schutz unter den Palmen, doch die Wege sind schlammig. Am Nachmittag radeln Sie vorsichtig durch das historische Viertel, wo die Mauern etwas Deckung bieten. Der Tag endet am Borj, wo der Nebel über der Stadt eine mystische Kulisse bildet.",
+            "hu": "Az esős biciklizés óvatosságot igényel a palota előtti csúszós köveken. Délben a Jnan Sbil kertek pálmái adnak némi védelmet, de az utak sárosak lehetnek. Délután tekerjen óvatosan a történelmi negyedben, ahol a falak némi fedezéket nyújtanak. A nap a Borjnál zárul, ahol a város feletti köd misztikus hátteret fest.",
+            "ro": "O plimbare cu bicicleta în ploaie necesită prudență pe pavajul alunecos din fața palatului. La prânz, palmierii din grădinile Jnan Sbil oferă protecție, dar aleile sunt noroioase. După-amiaza, pedalați cu grijă prin cartierul istoric sub adăpostul zidurilor. Ziua se încheie la Borj, unde ceața peste oraș creează un decor mistic.",
+            "en": "Cycling in the rain requires caution on the slippery pavement in front of the palace. At noon, the palms of Jnan Sbil Gardens offer some cover, but paths can be muddy. In the afternoon, pedal carefully through the historical quarter where walls provide slight shelter. The day ends at the Borj, where mist over the city creates a mystical backdrop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Royal Palace",
+                "hu": "Royal Palace",
+                "ro": "Royal Palace",
+                "en": "Royal Palace"
+              },
+              "tip_5lang": {
+                "de": "Die goldenen Tore glänzen im Regen wunderschön, aber der Boden davor ist extrem rutschig. Bremsen Sie frühzeitig ab und steigen Sie für Fotos sicher ab.",
+                "hu": "Az aranykapuk gyönyörűen csillognak az esőben, de az előttük lévő talaj rendkívül csúszós. Fékezzen időben, és szálljon le biztonságosan a fotózáshoz.",
+                "ro": "Porțile aurii strălucesc frumos în ploaie, dar solul din față este extrem de alunecos. Frânați din timp și coborâți în siguranță pentru fotografii.",
+                "en": "The golden gates shine beautifully in the rain, but the ground in front is extremely slippery. Brake early and dismount safely for your photographs."
+              }
+            },
+            {
+              "name": {
+                "de": "Jnan Sbil Gardens",
+                "hu": "Jnan Sbil Gardens",
+                "ro": "Jnan Sbil Gardens",
+                "en": "Jnan Sbil Gardens"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den großen Blättern Schutz vor Schauern; die Luft riecht herrlich frisch. Meiden Sie die unbefestigten Wege, die im Regen schlammig werden.",
+                "hu": "Keressen menedéket a nagy levelek alatt a záporok elől; a levegő ilyenkor illatos és friss. Kerülje a burkolatlan utakat, amelyek sártengerré válhatnak.",
+                "ro": "Căutați adăpost sub frunzele mari în timpul averselor; aerul are un miros proaspăt. Evitați potecile neasfaltate care devin noroioase în ploaie.",
+                "en": "Seek shelter under large leaves during showers; the air smells wonderfully fresh. Avoid unpaved paths as they quickly become muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Semmarine",
+                "hu": "Bab Semmarine",
+                "ro": "Bab Semmarine",
+                "en": "Bab Semmarine"
+              },
+              "tip_5lang": {
+                "de": "Das massive Tor bietet einen trockenen Durchgang für Radfahrer während eines Gusses. Prüfen Sie Ihre Ausrüstung auf Spritzwasser, bevor Sie die Fahrt fortsetzen.",
+                "hu": "A masszív kapu száraz átjárót biztosít a bicikliseknek egy hirtelen zivatar idején. Ellenőrizze felszerelését a sárfelverődések ellen, mielőtt tovább indulna.",
+                "ro": "Poarta masivă oferă un pasaj uscat pentru bicicliști în timpul unei averse. Verificați echipamentul împotriva stropilor de noroi înainte de a continua drumul.",
+                "en": "The massive gate provides a dry passage for cyclists during a downpour. Check your gear for mud splashes before continuing your ride through the district."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaouia of Moulay Idriss II",
+                "hu": "Zaouia of Moulay Idriss II",
+                "ro": "Zaouia of Moulay Idriss II",
+                "en": "Zaouia of Moulay Idriss II"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad gut ab und genießen Sie die spirituelle Stille im Schutz der Mauern. Die religiöse Bedeutung wirkt im grauen Regenlicht noch intensiver.",
+                "hu": "Zárja le jól a biciklit, és élvezze a spirituális csendet a falak védelmében. A vallási jelentőség a szürke esős fényben még intenzívebbnek tűnik.",
+                "ro": "Încuiați bine bicicleta și bucurați-vă de liniștea spirituală la adăpostul zidurilor. Semnificația religioasă pare și mai intensă în lumina gri a ploii.",
+                "en": "Lock your bike securely and enjoy the spiritual silence under the shelter of the walls. The religious significance feels even more intense in the grey rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Borj Sidi Bounafae",
+                "hu": "Borj Sidi Bounafae",
+                "ro": "Borj Sidi Bounafae",
+                "en": "Borj Sidi Bounafae"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen anstrengend und rutschig; fahren Sie im kleinsten Gang. Belohnt werden Sie mit einem dramatischen Blick auf das wolkenverhangene Fes.",
+                "hu": "Az emelkedő esőben fárasztó és csúszós; tekerjen a legkisebb fokozatban. Jutalma a drámai kilátás lesz a felhőkbe burkolózott Fez városára.",
+                "ro": "Urcarea în ploaie este obositoare și alunecoasă; pedalați în cea mai mică viteză. Recompensa va fi o priveliște dramatică asupra orașului Fes înnorat.",
+                "en": "The climb in the rain is tiring and slippery; ride in the lowest gear. You will be rewarded with a dramatic view of cloud-covered Fes from the top."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frische Winterluft macht das Radfahren am Palast belebend. Mittags bieten die sonnigen Pfade der Gärten eine willkommene Wärme während der Fahrt. Da es ab 17:00 Uhr kühl wird, sollten Sie den historischen Teil zügig durchqueren. Der Nachmittag am Borj bietet bei klarer Fernsicht den perfekten Platz für den frühen Sonnenuntergang über dem Atlasgebirge.",
+            "hu": "A friss téli levegő élénkítővé teszi a biciklizést a palotánál. Délben a kertek napsütötte ösvényei kellemes meleget adnak menet közben. Mivel 17 órától hűvös lesz, haladjon tempósan a történelmi részen. A délután a Borjnál a tiszta látási viszonyok miatt tökéletes hely az Atlasz feletti korai naplemente megtekintéséhez.",
+            "ro": "Aerul proaspăt de iarnă face ciclismul la palat revigorant. La prânz, aleile însorite ale grădinilor oferă o căldură binevenită în timpul mersului. Deoarece se face răcoare de la ora 17, parcurgeți rapid zona istorică. După-amiaza la Borj oferă locul perfect pentru apusul timpuriu peste munții Atlas.",
+            "en": "The fresh winter air makes cycling at the palace invigorating. At noon, the sunny paths of the gardens provide welcome warmth during your ride. Since it gets chilly from 17:00, move briskly through the historical section. The afternoon at the Borj offers the perfect spot for the early sunset over the Atlas Mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Royal Palace",
+                "hu": "Royal Palace",
+                "ro": "Royal Palace",
+                "en": "Royal Palace"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe beim Fahren, da der Metalllenker morgens sehr kalt sein kann. Das klare Winterlicht lässt die Details der Fassade perfekt hervortreten.",
+                "hu": "Viseljen kesztyűt menet közben, mert a fém kormány reggelente nagyon hideg lehet. A tiszta téli fényben a homlokzat részletei tökéletesen érvényesülnek.",
+                "ro": "Purtați mănuși în timpul mersului, deoarece ghidonul metalic poate fi foarte rece dimineața. Lumina clară de iarnă scoate în evidență detaliile fațadei.",
+                "en": "Wear gloves while riding as the metal handlebars can be very cold in the morning. The clear winter light makes the facade's details stand out perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Jnan Sbil Gardens",
+                "hu": "Jnan Sbil Gardens",
+                "ro": "Jnan Sbil Gardens",
+                "en": "Jnan Sbil Gardens"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne für eine Fahrt durch die Alleen; die laublosen Bäume bieten neue Ausblicke. Halten Sie Ausschau nach sonnigen Bänken für Pausen.",
+                "hu": "Használja ki a déli napsütést egy gurulásra a fasorok között; a lombmentes fák új kilátást nyitnak. Keressen napsütötte padokat a rövid pihenőkhöz.",
+                "ro": "Profitați de soarele de la prânz pentru o plimbare prin alei; copacii fără frunze oferă noi perspective. Căutați bănci însorite pentru scurte pauze.",
+                "en": "Take advantage of the midday sun for a ride through the avenues; leafless trees offer new vistas. Look for sunny benches for quick breaks to warm up."
+              }
+            },
+            {
+              "name": {
+                "de": "Bab Semmarine",
+                "hu": "Bab Semmarine",
+                "ro": "Bab Semmarine",
+                "en": "Bab Semmarine"
+              },
+              "tip_5lang": {
+                "de": "Das Steintor wirkt im Winter kühler; halten Sie sich beim Radfahren in den sonnigen Bereichen auf. Ein Helm schützt auch vor dem beißenden Winterwind.",
+                "hu": "A kőkapu télen hűvösebbnek hat; biciklizés közben igyekezzen a napsütötte sávokban maradni. A bukósisak a metsző téli szél ellen is védelmet nyújt.",
+                "ro": "Poarta de piatră pare mai rece iarna; încercați să rămâneți în zonele însorite în timp ce pedalați. Casca oferă protecție și împotriva vântului tăios.",
+                "en": "The stone gate feels cooler in winter; try to stay in the sunny patches while cycling. A helmet also provides protection against the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Zaouia of Moulay Idriss II",
+                "hu": "Zaouia of Moulay Idriss II",
+                "ro": "Zaouia of Moulay Idriss II",
+                "en": "Zaouia of Moulay Idriss II"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um kurz vom Rad zu steigen und die innere Wärme des Heiligtums zu spüren. Beachten Sie die frühen Schatten in den schmalen Gassen.",
+                "hu": "Ideális hely, hogy rövid időre leszálljon a bicikliről és megérezze a szentély belső melegét. Ügyeljen a korai árnyékokra a szűk, hűvös sikátorokban.",
+                "ro": "Un loc ideal pentru a coborî de pe bicicletă și a simți căldura interioară a sanctuarului. Atenție la umbrele timpurii din străzile înguste și reci.",
+                "en": "An ideal spot to briefly dismount and feel the inner warmth of the sanctuary. Be mindful of the early shadows in the narrow, chilly alleys surrounding it."
+              }
+            },
+            {
+              "name": {
+                "de": "Borj Sidi Bounafae",
+                "hu": "Borj Sidi Bounafae",
+                "ro": "Borj Sidi Bounafae",
+                "en": "Borj Sidi Bounafae"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Gipfel vor 16:30 Uhr, um das Alpenglühen des Atlas im klaren Winterlicht zu sehen. Nach Sonnenuntergang wird die Abfahrt sehr kalt.",
+                "hu": "Érjen fel a csúcsra 16:30 előtt, hogy lássa az Atlasz havas csúcsainak izzását a tiszta fényben. Naplemente után a lejtőn való gurulás már nagyon hideg.",
+                "ro": "Ajungeți în vârf înainte de 16:30 pentru a vedea strălucirea munților Atlas în lumina clară. După apus, coborârea cu bicicleta devine foarte rece.",
+                "en": "Reach the summit before 16:30 to see the glow of the Atlas Mountains in the clear winter light. After sunset, the downhill ride becomes very cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Vezessen reggel az újvárosba, hogy felfedezze a marokkói hagyományokat a Musée Meryemben, majd a lenyűgöző Orientaliste Art Gallery-ben. Délben tartson egy gyors szünetet a Sandwich Benmaseoud-nál, és figyelje meg a mindennapi nyüzsgést a Cass-croute körül. Délutánja a monumentális történelem felé fordul a Királyi Palota kapuinak fenséges látványával. Végül parkoljon le a Jnan Sbil kertek közelében egy békés esti sétához.",
         "ro": "Conduceți spre Ville Nouvelle în această dimineață pentru a descoperi tradițiile marocane la Musée Meryem, urmate de rafinata Galerie de Artă Orientalistă. La prânz, faceți o scurtă pauză pentru a gusta aromele locale la Sandwich Benmaseoud și pentru a observa agitația din jurul Cass-croute. După-amiaza se îndreaptă spre istoria monumentală, cu o vedere la porțile Palatului Regal. În cele din urmă, parcați lângă Grădinile Jnan Sbil pentru o plimbare de seară.",
         "en": "Drive to the Ville Nouvelle this morning to uncover Moroccan traditions at Musée Meryem followed by the exquisite Orientaliste Art Gallery. Midday, take a quick break to taste the local flavor at Sandwich Benmaseoud and spot the everyday hustle around Cass-croute. Your afternoon shifts to monumental history with a majestic view of the Royal Palace gates. Finally, park near Jnan Sbil Gardens to enjoy a peaceful evening stroll among the fountains."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Fes komfortabel und trocken, startend beim Musée Meryem. Mittags erreichen Sie die Orientaliste Gallery ohne nasse Füße durch den Regen. Ein kurzer Stopp für Snacks ermöglicht den Genuss lokaler Aromen im geschützten Fahrzeug. Nachmittags besuchen Sie den Palast und die Gärten, wobei das Auto als mobiler Unterschlupf zwischen den Sehenswürdigkeiten dient.",
+            "hu": "Autóval kényelmesen és szárazon fedezheti fel Fezt, a Musée Meryemtől indulva. Délben az Orientaliste galériát vizes lábak nélkül érheti el az esőben. Egy rövid megálló a snackeknél lehetővé teszi a helyi ízek élvezetét a védett autóban. Délután a palotát és a kerteket látogatja meg, ahol az autó mobil menedékként szolgál.",
+            "ro": "Cu mașina explorați Fes confortabil și uscat, începând de la Musée Meryem. La prânz ajungeți la galeria Orientaliste fără a vă uda picioarele prin ploaie. O scurtă oprire pentru gustări vă permite să savurați aromele locale în vehiculul protejat. După-amiaza vizitați palatul și grădinile, mașina fiind un adăpost mobil.",
+            "en": "By car, you explore Fes comfortably and dry, starting at Musée Meryem. At noon, reach the Orientaliste Gallery without getting wet feet in the rain. A short stop for snacks allows you to enjoy local flavors within the sheltered vehicle. In the afternoon, visit the palace and gardens, with the car serving as a mobile refuge between sights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée Meryem",
+                "hu": "Musée Meryem",
+                "ro": "Musée Meryem",
+                "en": "Musée Meryem"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um den Regen zu meiden; die Gehwege können rutschig sein. Genießen Sie die Kunst, während es draußen ungemütlich ist.",
+                "hu": "Parkoljon minél közelebb a bejárathoz az eső elkerülése végett; a járdák ilyenkor csúszósak lehetnek. Élvezze a művészetet, amíg kint barátságtalan az idő.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; trotuarele pot fi alunecoase. Bucurați-vă de artă în timp ce afară vremea este neplăcută.",
+                "en": "Park as close as possible to the entrance to avoid the rain; the sidewalks can be slippery. Enjoy the art while the weather remains unfriendly outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Orientaliste Art Gallery",
+                "hu": "Orientaliste Art Gallery",
+                "ro": "Orientaliste Art Gallery",
+                "en": "Orientaliste Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zur Galerie ist kurz, aber halten Sie einen Schirm bereit. Die warmen Ausstellungsräume sind der perfekte Ort für eine Regenpause.",
+                "hu": "A parkolótól a galériáig vezető út rövid, de tartsa készenlétben az esernyőjét. A meleg kiállítóterek tökéletes helyszínt biztosítanak egy esőszünethez.",
+                "ro": "Drumul de la parcare la galerie este scurt, dar țineți umbrela pregătită. Sălile calde de expoziție sunt locul perfect pentru o pauză în timpul ploii.",
+                "en": "The walk from the parking area to the gallery is short, but keep your umbrella ready. The warm exhibition rooms are the perfect spot for a rain break."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandwich Benmaseoud",
+                "hu": "Sandwich Benmaseoud",
+                "ro": "Sandwich Benmaseoud",
+                "en": "Sandwich Benmaseoud"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich Ihr Sandwich zum Mitnehmen und genießen Sie es gemütlich im trockenen Auto. So bleiben Sie flexibel und vor den Schauern geschützt.",
+                "hu": "Kérje szendvicsét elvitelre, és fogyassza el kényelmesen a száraz autóban. Így rugalmas maradhat, és teljes védelmet élvezhet a záporok elől.",
+                "ro": "Luați sandvișul la pachet și savurați-l confortabil în mașina uscată. Astfel rămâneți flexibil și protejat în totalitate de aversele de afară.",
+                "en": "Get your sandwich to go and enjoy it comfortably inside your dry car. This way you stay flexible and fully protected from the sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Cass-croute",
+                "hu": "Cass-croute",
+                "ro": "Cass-croute",
+                "en": "Cass-croute"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Drive-in-Stopp für lokale Köstlichkeiten; ideal bei Regenwetter. Achten Sie beim Einparken auf die tieferen Pfützen am Straßenrand.",
+                "hu": "Gyors megálló helyi finomságokért; ideális megoldás esős időben. Parkoláskor ügyeljen az út menti mélyebb pocsolyákra, hogy elkerülje a sárfelverődést.",
+                "ro": "O oprire rapidă pentru delicii locale; soluția ideală pe vreme ploioasă. La parcare, atenție la bălțile adânci de la marginea drumului.",
+                "en": "A quick drive-in stop for local delicacies; the ideal solution in rainy weather. When parking, watch out for deeper puddles at the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Royal Palace",
+                "hu": "Royal Palace",
+                "ro": "Royal Palace",
+                "en": "Royal Palace"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die prunkvollen Tore direkt vom Fenster aus oder nutzen Sie kurze Regenpausen für Fotos. Der Asphalt vor dem Palast ist bei Nässe glatt.",
+                "hu": "Csodálja meg a pompás kapukat közvetlenül az autó ablakából, vagy használja ki a rövid esőszüneteket a fotózáshoz. A palota előtti aszfalt vizesen csúszik.",
+                "ro": "Admirați porțile somptuoase direct de la fereastra mașinii sau profitați de scurte pauze de ploaie pentru poze. Asfaltul din fața palatului este alunecos.",
+                "en": "Admire the magnificent gates directly from the car window or use short breaks in the rain for photos. The asphalt in front of the palace is slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Jnan Sbil Gardens",
+                "hu": "Jnan Sbil Gardens",
+                "ro": "Jnan Sbil Gardens",
+                "en": "Jnan Sbil Gardens"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang unter den Bäumen ist auch bei leichtem Regen reizvoll; der Schlamm bleibt an den Schuhen, das Auto wartet trocken. Nutzen Sie die Heizung danach.",
+                "hu": "A fák alatti séta enyhe esőben is bájos; a sár a cipőn marad, de az autó szárazon várja. Használja utána az autó fűtését a gyors felmelegedéshez.",
+                "ro": "O plimbare sub copaci este fermecătoare chiar și pe ploaie ușoară; noroiul rămâne pe pantofi, dar mașina vă așteaptă uscată. Folosiți apoi încălzirea.",
+                "en": "A walk under the trees is charming even in light rain; the mud stays on your shoes while the car waits dry. Use the heater afterwards to warm up quickly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das beheizte Auto ist im Winter Ihr bester Begleiter durch das kühle Fes. Starten Sie gemütlich am Morgen beim Musée Meryem und genießen Sie die Fahrt zur Galerie im Warmen. Da die Sonne bereits um 17:00 Uhr untergeht, planen Sie die Palast- und Gartenbesuche für den sonnigen Mittag ein. Der Abend endet komfortabel, ohne dass Sie der Winterkälte der Medina ausgesetzt sind.",
+            "hu": "A fűtött autó télen a legjobb társa a hűvös Fezben. Kezdje kényelmesen a reggelt a Musée Meryemnél, és élvezze az utat a galériáig a melegben. Mivel a nap már 17 órakor lemegy, tervezze a palota- és kertlátogatást a napsütéses délidőre. Az este komfortosan zárul, anélkül, hogy ki lenne téve a medina téli hidegének.",
+            "ro": "Mașina încălzită este cel mai bun companion în Fes-ul răcoros de iarnă. Începeți dimineața confortabil la Musée Meryem și savurați drumul spre galerie la căldură. Deoarece soarele apune la ora 17, planificați vizitele la palat și grădini pentru prânzul însorit. Seara se încheie confortabil, fără expunere la frig.",
+            "en": "The heated car is your best companion through chilly Fes in winter. Start comfortably in the morning at Musée Meryem and enjoy the drive to the gallery in the warmth. Since the sun sets at 17:00, plan the palace and garden visits for the sunny midday. The evening ends comfortably without exposure to the medina's winter cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Musée Meryem",
+                "hu": "Musée Meryem",
+                "ro": "Musée Meryem",
+                "en": "Musée Meryem"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie keine dicken Mäntel im Auto liegen, falls Sie draußen länger verweilen möchten. Das Museum bietet Schutz vor der morgendlichen Winterbrise.",
+                "hu": "Ne hagyja a vastag kabátokat az autóban, ha kint is szeretne időzni. A múzeum belső terei kiváló védelmet nyújtanak a reggeli téli fuvallatok ellen.",
+                "ro": "Nu lăsați hainele groase în mașină dacă intenționați să zăboviți afară. Spațiile muzeului oferă protecție excelentă împotriva brizelor matinale de iarnă.",
+                "en": "Don't leave your thick coats in the car if you plan to linger outside. The museum's interior provides excellent protection against the morning winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Orientaliste Art Gallery",
+                "hu": "Orientaliste Art Gallery",
+                "ro": "Orientaliste Art Gallery",
+                "en": "Orientaliste Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den kurzen Fußweg vom Auto, um die klare Winterluft zu genießen, bevor Sie in die beheizte Galerie eintreten. Das Licht ist am frühen Nachmittag ideal.",
+                "hu": "Használja ki az autótól vezető rövid utat a tiszta téli levegő élvezetére, mielőtt belép a fűtött galériába. A fények kora délután a legalkalmasabbak a megtekintéshez.",
+                "ro": "Profitați de scurta plimbare de la mașină pentru a savura aerul curat de iarnă înainte de a intra în galeria încălzită. Lumina este ideală la începutul după-amiezii.",
+                "en": "Take advantage of the short walk from the car to enjoy the crisp winter air before entering the heated gallery. The light is ideal in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Sandwich Benmaseoud",
+                "hu": "Sandwich Benmaseoud",
+                "ro": "Sandwich Benmaseoud",
+                "en": "Sandwich Benmaseoud"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Snack ist im Winter Gold wert; genießen Sie Ihr Sandwich im warmen Innenraum Ihres Autos. Die Energie hilft gegen die Kühle des restlichen Tages.",
+                "hu": "Egy meleg snack télen aranyat ér; fogyassza el szendvicsét az autó fűtött belterében. Az energia segít a nap hátralévő részének hűvöse elleni védekezésben.",
+                "ro": "O gustare caldă valorează aur iarna; savurați sandvișul în interiorul încălzit al mașinii. Energia vă va ajuta să faceți față răcorii din restul zilei.",
+                "en": "A warm snack is worth its weight in gold in winter; enjoy your sandwich in the heated interior of your car. The energy helps combat the day's remaining chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Cass-croute",
+                "hu": "Cass-croute",
+                "ro": "Cass-croute",
+                "en": "Cass-croute"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen schnellen Stopp für eine heiße Kleinigkeit zum Aufwärmen. Beachten Sie, dass die Parkplatzsuche in der Winterdämmerung ab 16:30 Uhr schwieriger wird.",
+                "hu": "Használja ki ezt a gyors megállót egy forró apróságra a felmelegedéshez. Ügyeljen rá, hogy a parkolás a téli szürkületben, 16:30 után már nehezebb lehet.",
+                "ro": "Profitați de această oprire rapidă pentru ceva cald pentru a vă încălzi. Rețineți că parcarea poate fi mai dificilă în amurgul de iarnă, după ora 16:30.",
+                "en": "Take advantage of this quick stop for a hot bite to warm up. Note that finding parking becomes harder in the winter twilight starting from 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Royal Palace",
+                "hu": "Royal Palace",
+                "ro": "Royal Palace",
+                "en": "Royal Palace"
+              },
+              "tip_5lang": {
+                "de": "Die prachtvollen Tore wirken im tiefstehenden Winterlicht besonders majestätisch. Steigen Sie kurz aus, aber halten Sie die Autotüren geschlossen, um die Wärme zu bewahren.",
+                "hu": "A pompás kapuk az alacsonyan járó téli napfényben különösen fenségesek. Szálljon ki egy rövid időre, de tartsa zárva az autó ajtajait a meleg megőrzése érdekében.",
+                "ro": "Porțile somptuoase par deosebit de maiestuoase în lumina joasă a iernii. Coborâți pentru scurt timp, dar țineți ușile mașinii închise pentru a păstra căldura.",
+                "en": "The magnificent gates look particularly majestic in the low winter light. Step out briefly, but keep the car doors closed to preserve the warmth inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Jnan Sbil Gardens",
+                "hu": "Jnan Sbil Gardens",
+                "ro": "Jnan Sbil Gardens",
+                "en": "Jnan Sbil Gardens"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Spaziergang in der Mittagssonne, wenn es am wärmsten ist. Kehren Sie vor Sonnenuntergang um 17:00 Uhr zum Auto zurück, um der Kälte zu entgehen.",
+                "hu": "Élvezze a sétát a déli napsütésben, amikor a legmelegebb van. Térjen vissza az autóhoz a 17 órai naplemente előtt, hogy elkerülje a hirtelen lehűlést.",
+                "ro": "Bucurați-vă de plimbare în soarele de la prânz, când este cel mai cald. Reveniți la mașină înainte de apusul de la ora 17 pentru a evita frigul brusc.",
+                "en": "Enjoy the walk in the midday sun when it is warmest. Return to the car before the 17:00 sunset to avoid the sudden and sharp evening temperature drop."
+              }
+            }
+          ]
+        }
       }
     }
   }

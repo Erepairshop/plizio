@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a déli ösvényeken, a sziget fedett teniszpályája közelében melegítve be. Délben sétáljon fel a nyüzsgő keleti partvonalon a népszerű sznorkelező és búvárközpontokhoz. A délután nyugodt pillanatokat kínál a Han's Reef-nél a tengeri élővilág megfigyelésére. Este élvezze a kellemes tengerparti sétát, miközben a nap lágyan lebukik a horizont alá.",
         "ro": "Începeți dimineața cu o plimbare revigorantă pe potecile din sud, încălzindu-vă lângă terenul de tenis. La amiază, plimbați-vă de-a lungul coastei estice vibrante pentru a explora centrele populare de snorkeling și scufundări. După-amiaza oferă momente liniștite la Han's Reef, perfecte pentru a observa viața marină. Seara, bucurați-vă de o plimbare pe litoral în timp ce soarele apune ușor.",
         "en": "Start your morning with a brisk, refreshing walk around the southern paths, warming up near the island's indoor tennis court. By midday, wander up the vibrant eastern coastline to explore popular snorkeling hubs and dive centers. The afternoon offers tranquil moments at Han's Reef, perfect for observing marine life at your own pace. In the evening, enjoy a seaside stroll as the sun gently sets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag am Tennisplatz bietet idealen Schutz vor tropischen Güssen. Mittags sind die Küstenpfade schlammig, daher ist festes Schuhwerk bei der Schildkrötenbeobachtung ratsam. Nachmittags ist die Tauchbasis ein trockener Rückzugsort für Vorbereitungen. Abends wird es auf den unbefestigten Wegen dunkel und rutschig; bleiben Sie in der Nähe beleuchteter Unterkünfte und nutzen Sie Regenponchos.",
+            "hu": "A délelőtt a teniszpályán biztonságos menedéket nyújt a trópusi záporok elől. Délben a parti ösvények sárassá válnak, így a teknősleshez vízálló lábbeli ajánlott. Délután a búvárközpont száraz bázis a felkészüléshez. Estére a belső utak csúszóssá válnak a sötétben; maradj a kivilágított főutakon és használj esőköpenyt a városi sétához.",
+            "ro": "Dimineața la terenul de tenis oferă un adăpost ideal împotriva ploilor tropicale. La prânz, potecile de pe coastă devin noroioase, deci încălțămintea impermeabilă este necesară pentru observarea țestoaselor. După-amiaza, centrul de diving este o bază uscată pentru pregătiri. Seara, drumurile devin alunecoase în întuneric; rămâneți pe traseele iluminate și folosiți o pelerină de ploaie.",
+            "en": "Morning at the tennis court provides ideal shelter from tropical downpours. At noon, coastal paths become muddy, so waterproof footwear is recommended for turtle spotting. In the afternoon, the dive center serves as a dry base for preparations. By evening, inland paths become slippery in the dark; stay on lit main routes and use a rain poncho for your walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Indoor tennis court",
+                "hu": "Indoor tennis court",
+                "ro": "Indoor tennis court",
+                "en": "Indoor tennis court"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachte Halle, um trocken Sport zu treiben, während es draußen regnet; bringen Sie ein Handtuch gegen die hohe Luftfeuchtigkeit mit.",
+                "hu": "Használd a fedett csarnokot a sportoláshoz, így szárazon maradhatsz az eső alatt; hozz magaddal törölközőt a magas páratartalom miatt.",
+                "ro": "Folosiți sala acoperită pentru a face sport în timp ce plouă afară; aduceți un prosop pentru a face față umidității ridicate din aer.",
+                "en": "Use the indoor hall to stay active while it rains outside; bring a towel to manage the high humidity during your workout session."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle Point",
+                "hu": "Turtle Point",
+                "ro": "Turtle Point",
+                "en": "Turtle Point"
+              },
+              "tip_5lang": {
+                "de": "Schildkröten sind bei Regen aktiv, aber der Strandzugang ist rutschig; beobachten Sie sie von einem Pavillon aus und schützen Sie Ihre Kamera.",
+                "hu": "A teknősök esőben is aktívak, de a strandhoz vezető út csúszós; figyeld őket egy közeli pavilonból és óvd a fényképezőgépedet.",
+                "ro": "Țestoasele sunt active pe ploaie, dar accesul pe plajă este alunecos; observă-le dintr-un foișor și protejează-ți aparatul foto.",
+                "en": "Turtles remain active in the rain, but the beach access is slippery; watch them from a nearby gazebo and keep your camera protected."
+              }
+            },
+            {
+              "name": {
+                "de": "Next Level Scuba",
+                "hu": "Next Level Scuba",
+                "ro": "Next Level Scuba",
+                "en": "Next Level Scuba"
+              },
+              "tip_5lang": {
+                "de": "Tauchen ist perfekt bei Regen, da man sowieso nass wird; verstauen Sie Ihre trockene Kleidung in einem wasserdichten Beutel in der Basis.",
+                "hu": "A búvárkodás tökéletes esős időben, hiszen úgyis vizes leszel; tárold a száraz ruháidat vízhatlan zsákban a bázis területén.",
+                "ro": "Scufundările sunt perfecte pe ploaie, oricum te vei uda; păstrează-ți hainele uscate într-un sac impermeabil în incinta bazei.",
+                "en": "Diving is perfect for rainy days since you'll get wet anyway; keep your dry clothes in a waterproof bag inside the dive center."
+              }
+            },
+            {
+              "name": {
+                "de": "Very good location for snorkeling",
+                "hu": "Very good location for snorkeling",
+                "ro": "Very good location for snorkeling",
+                "en": "Very good location for snorkeling"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist warm, aber die Sicht kann durch Regen sinken; tragen Sie eine helle Schnorchelmaske für bessere Sichtbarkeit bei grauem Licht.",
+                "hu": "A víz meleg marad, de a látótávolság csökkenhet az eső miatt; viselj élénk színű maszkot a jobb láthatóságért a szürke fényben.",
+                "ro": "Apa rămâne caldă, dar vizibilitatea poate scădea din cauza ploii; poartă o mască de culori vii pentru o vizibilitate mai bună în lumină gri.",
+                "en": "The water stays warm, but visibility may drop due to the rain; wear a bright snorkel mask for better visibility in the grey light."
+              }
+            },
+            {
+              "name": {
+                "de": "Han's reef - dive site",
+                "hu": "Han's reef - dive site",
+                "ro": "Han's reef - dive site",
+                "en": "Han's reef - dive site"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag unter dem schützenden Dach der Tauchschule; ein heißer Tee hilft gegen das Frösteln nach dem Schnorcheln im Regen.",
+                "hu": "Fejezd be a napot a búváriskola védelmező tetője alatt; egy forró tea segít a didergés ellen az esős sznorkelezés után.",
+                "ro": "Încheie ziua sub acoperișul protector al școlii de diving; un ceai fierbinte ajută împotriva frisoanelor după snorkeling pe ploaie.",
+                "en": "Finish your day under the protective roof of the dive school; a hot tea helps against chills after snorkeling in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Brise macht das morgendliche Tennis sehr angenehm. Mittags steht die Sonne tiefer, was das Licht am Riff perfekt für Fotos macht, aber eine leichte Schicht Kleidung ist nötig. Nach dem Tauchen kühlt man im Wind schnell aus. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Rückweg früh antreten, um die gemütliche Abendstimmung in einem beheizten Café zu genießen.",
+            "hu": "A hűvös szellő kellemessé teszi a reggeli teniszt a pályán. Délben a nap alacsonyabban jár, így a fények tökéletesek a zátonynál, de egy vékony réteg ruha ajánlott. Búvárkodás után a szélben gyorsan lehűlhet a tested. Mivel a nap már 17:00 körül lemegy, indulj el korán visszafelé, hogy kiélvezhesd a hangulatos esti fényeket egy meleg kávézóban.",
+            "ro": "Briza răcoroasă face tenisul de dimineață foarte plăcut. La prânz, soarele este mai jos, oferind o lumină perfectă la recif, dar se recomandă o jachetă subțire. După diving, corpul se poate răci rapid din cauza vântului. Deoarece soarele apune deja în jur de ora 17:00, pleacă devreme spre casă pentru a savura atmosfera serii într-o cafenea caldă.",
+            "en": "The cool breeze makes morning tennis very pleasant on the court. At noon, the sun is lower, making the light at the reef perfect for photos, but a light layer of clothing is advised. After diving, you might cool down quickly in the wind. Since the sun sets around 17:00, head back early to enjoy the cozy evening atmosphere in a warm café."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Indoor tennis court",
+                "hu": "Indoor tennis court",
+                "ro": "Indoor tennis court",
+                "en": "Indoor tennis court"
+              },
+              "tip_5lang": {
+                "de": "Die kühlere Luft in der Halle ist ideal für ein intensives Training; tragen Sie lange Socken, um Ihre Gelenke vor dem kühlen Zugwind zu schützen.",
+                "hu": "A csarnok hűvösebb levegője ideális az intenzív edzéshez; viselj hosszú zoknit, hogy óvd az ízületeidet a hűvös huzattól.",
+                "ro": "Aerul mai răcoros din sală este ideal pentru un antrenament intens; poartă șosete lungi pentru a-ți proteja articulațiile de curentul rece.",
+                "en": "The cooler air in the hall is ideal for intense training; wear long socks to protect your joints from any cool drafts."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle Point",
+                "hu": "Turtle Point",
+                "ro": "Turtle Point",
+                "en": "Turtle Point"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie Schildkröten im klaren Winterlicht; bringen Sie ein leichtes Sweatshirt für die windigen Pausen am Ufer mit.",
+                "hu": "Figyeld meg a teknősöket a tiszta téli fényben; hozz magaddal egy vékony pulóvert a parton töltött szeles szünetekhez.",
+                "ro": "Observă țestoasele în lumina clară de iarnă; adu un hanorac subțire pentru pauzele vântoase de pe malul mării.",
+                "en": "Observe turtles in the clear winter light; bring a light sweatshirt for the windy breaks spent on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Next Level Scuba",
+                "hu": "Next Level Scuba",
+                "ro": "Next Level Scuba",
+                "en": "Next Level Scuba"
+              },
+              "tip_5lang": {
+                "de": "Wählen Sie einen dickeren Neoprenanzug für den kühleren Ozean; fragen Sie in der Basis nach einer winddichten Jacke für die Zeit nach dem Tauchgang.",
+                "hu": "Válassz vastagabb neoprént a hűvösebb óceánhoz; kérj a bázison szélálló dzsekit a merülés utáni pihenőhöz.",
+                "ro": "Alege un costum de neopren mai gros pentru oceanul mai rece; cere la bază o jachetă rezistentă la vânt pentru după scufundare.",
+                "en": "Choose a thicker wetsuit for the cooler ocean waters; ask at the base for a windproof jacket for the post-dive break."
+              }
+            },
+            {
+              "name": {
+                "de": "Very good location for snorkeling",
+                "hu": "Very good location for snorkeling",
+                "ro": "Very good location for snorkeling",
+                "en": "Very good location for snorkeling"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne blendet weniger auf der Wasseroberfläche; nutzen Sie ein UV-Shirt als zusätzliche Isolierung gegen das kühlere Wasser.",
+                "hu": "A téli nap kevésbé csillog a vízfelszínen; használj UV-szűrős pólót kiegészítő szigetelésként a hűvösebb víz ellen.",
+                "ro": "Soarele de iarnă strălucește mai puțin pe suprafața apei; folosește un tricou UV ca izolație suplimentară împotriva apei reci.",
+                "en": "The winter sun glares less on the water surface; use a UV shirt as extra insulation against the cooler water temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Han's reef - dive site",
+                "hu": "Han's reef - dive site",
+                "ro": "Han's reef - dive site",
+                "en": "Han's reef - dive site"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das goldene Licht kurz vor dem frühen Sonnenuntergang; packen Sie eine warme Mütze für den Rückweg im kühlen Abendwind ein.",
+                "hu": "Élvezd az arany fényeket a korai naplemente előtt; csomagolj egy meleg sapkát a hűvös esti szélben való visszatéréshez.",
+                "ro": "Bucură-te de lumina aurie înainte de apusul devreme; pune în rucsac o căciulă caldă pentru întoarcerea prin vântul serii.",
+                "en": "Enjoy the golden lights just before the early sunset; pack a warm beanie for the return trip in the cool evening wind."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a reggelt egy kerékpározással a híres teknősök területére, érezve a lágy szigeti szellőt a homokos ösvényeken. Délben parkolja le a kerékpárt, és merüljön a kristálytiszta vizekbe a Next Level Scuba közelében. Töltse a délutánt az északabbra fekvő Han's Reef felé pedálozva egy felejthetetlen sznorkelezésért. Zárja a napot egy pihentető esti biciklizéssel vissza a sziget déli része felé.",
         "ro": "Începeți dimineața pedalând spre faimoasele zone cu țestoase, simțind briza blândă a insulei pe potecile de nisip. La amiază, parcați bicicleta și scufundați-vă în apele cristaline de lângă Next Level Scuba. Petreceți după-amiaza pedalând spre nord către Han's Reef pentru o experiență de snorkeling de neuitat. Încheiați ziua cu o plimbare relaxantă de seară înapoi spre sudul insulei.",
         "en": "Kick off your morning by cycling to the famous turtle areas, feeling the gentle island breeze as you ride along the sandy paths. Midday invites you to park your bike and dive into the crystal-clear waters near Next Level Scuba. Spend your afternoon pedaling further north to Han's Reef for an unforgettable snorkeling experience. Conclude the day with a relaxing evening ride back toward the south."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Radfahren im Regen erfordert Vorsicht auf den rutschigen Sandwegen der Schildkrötenareale. Mittags bieten die Tauchschulen Schutz, während der Schlamm auf den Pfaden zunimmt. Nachmittags ist das Schnorcheln trotz Regen angenehm, aber die Sicht ist begrenzt. Abends sollten Sie die Fahrt früh beenden, da die Bremsen auf nassen Wegen weniger effektiv sind und Pfützen die Sicht behindern.",
+            "hu": "A biciklizés esőben óvatosságot igényel a teknősrezervátumok csúszós homokos útjain. Délben a búváriskolák nyújtanak menedéket, miközben az ösvényeken nő a sár. Délután a sznorkelezés az eső ellenére is élvezetes, de a látótávolság korlátozott. Estére fejezd be korán a tekerést, mert a fékek vizes úton kevésbé fognak, és a tócsák elrejtik az út hibáit.",
+            "ro": "Mersul pe bicicletă pe ploaie necesită prudență pe drumurile nisipoase și alunecoase din zonele cu țestoase. La prânz, școlile de diving oferă adăpost, în timp ce noroiul crește pe poteci. După-amiaza, snorkelingul este plăcut în ciuda ploii, dar vizibilitatea este limitată. Seara, termină cursa devreme, deoarece frânele sunt mai puțin eficiente pe drumuri ude.",
+            "en": "Cycling in the rain requires caution on the slippery sandy paths of the turtle areas. At noon, dive schools provide shelter as mud increases on the trails. In the afternoon, snorkeling is enjoyable despite the rain, but visibility is limited. By evening, end your ride early as brakes are less effective on wet paths and puddles hide road hazards."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "turtle area",
+                "hu": "turtle area",
+                "ro": "turtle area",
+                "en": "turtle area"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch den nassen Sand, um wegzurutschen; ein Schutzblech am Rad ist jetzt Gold wert gegen den aufspritzenden Matsch.",
+                "hu": "Tekerj lassan a nedves homokban, hogy elkerüld a megcsúszást; a sárvédő most aranyat ér a felverődő sár ellen.",
+                "ro": "Pedalează încet prin nisipul ud pentru a evita alunecarea; o apărătoare la bicicletă este esențială acum împotriva noroiului.",
+                "en": "Ride slowly through the wet sand to avoid skidding; a mudguard on your bike is worth its weight in gold against splashes."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle Point",
+                "hu": "Turtle Point",
+                "ro": "Turtle Point",
+                "en": "Turtle Point"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter Palmen unter, um den Sattel trocken zu halten; nutzen Sie eine wasserfeste Handyhülle für Ihre Fotos am Strand.",
+                "hu": "Támaszd a biciklidet pálmafák alá, hogy szárazon tartsd a nyerget; használj vízálló telefontokot a parti fotózáshoz.",
+                "ro": "Parchează bicicleta sub palmieri pentru a menține șaua uscată; folosește o husă de telefon impermeabilă pentru pozele de pe plajă.",
+                "en": "Park your bike under palm trees to keep the saddle dry; use a waterproof phone case for your photos on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Next Level Scuba",
+                "hu": "Next Level Scuba",
+                "ro": "Next Level Scuba",
+                "en": "Next Level Scuba"
+              },
+              "tip_5lang": {
+                "de": "Der Regen wäscht das Salz vom Rad, aber ölen Sie die Kette danach; nutzen Sie den Aufenthalt für eine trockene Theorieeinheit im Shop.",
+                "hu": "Az eső lemossa a sót a bicikliről, de utána olajozd meg a láncot; használd ki az időt egy száraz elméleti oktatásra a boltban.",
+                "ro": "Ploaia spală sarea de pe bicicletă, dar unge lanțul ulterior; profită de oprire pentru o lecție teoretică uscată în magazin.",
+                "en": "The rain washes salt off the bike, but oil the chain afterwards; use the stay for a dry theory session inside the shop."
+              }
+            },
+            {
+              "name": {
+                "de": "Very good location for snorkeling",
+                "hu": "Very good location for snorkeling",
+                "ro": "Very good location for snorkeling",
+                "en": "Very good location for snorkeling"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt nach dem Schnorcheln im starken Regen; warten Sie unter einem Vordach, bis der schlimmste Guss vorbei ist.",
+                "hu": "Kerüld a biciklizést közvetlenül a sznorkelezés után erős esőben; várj egy előtető alatt, amíg a heves zápor elvonul.",
+                "ro": "Evită mersul pe bicicletă imediat după snorkeling în ploaie torențială; așteaptă sub o streșină până trece aversa cea mai grea.",
+                "en": "Avoid cycling immediately after snorkeling in heavy rain; wait under a canopy until the worst of the downpour passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Han's reef - dive site",
+                "hu": "Han's reef - dive site",
+                "ro": "Han's reef - dive site",
+                "en": "Han's reef - dive site"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad an einem festen Punkt, da der Boden aufweichen kann; tragen Sie eine Regenjacke, die auch Ihre Oberschenkel beim Treten schützt.",
+                "hu": "Rögzítsd a biciklidet biztos ponthoz, mert a talaj felázhat; viselj olyan esőkabátot, ami a combjaidat is védi tekerés közben.",
+                "ro": "Asigură bicicleta de un punct fix, deoarece solul se poate înmuia; poartă o pelerină care îți protejează și coapsele la pedalat.",
+                "en": "Secure your bike to a solid point as the ground may soften; wear a raincoat that also protects your thighs while pedaling."
+              }
+            },
+            {
+              "name": {
+                "de": "Indoor tennis court",
+                "hu": "Indoor tennis court",
+                "ro": "Indoor tennis court",
+                "en": "Indoor tennis court"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren zur Halle ist die perfekte Aufwärmübung im Regen; nutzen Sie die Umkleiden der Halle, um in trockene Sportsachen zu wechseln.",
+                "hu": "A csarnokhoz való tekerés tökéletes bemelegítés az esőben; használd a csarnok öltözőit, hogy száraz sportruhára válthass.",
+                "ro": "Pedalatul spre sală este încălzirea perfectă pe ploaie; folosește vestiarele sălii pentru a te schimba în haine de sport uscate.",
+                "en": "Cycling to the hall is the perfect warm-up in the rain; use the hall's changing rooms to switch into dry sports gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise, ideal für eine Radtour um die Insel. Mittags bietet die Wintersonne ein klares Panorama auf die Nachbarinseln, aber der Wind am Ufer kann kühl sein. Nachmittags ist die Tauchbasis ein guter Ort zum Aufwärmen nach dem Wassersport. Da es ab 17:00 Uhr dunkel wird, sollten Sie sicherstellen, dass Ihr Fahrradlicht funktioniert, und eine winddichte Schicht tragen.",
+            "hu": "Reggel friss szellő fúj, ami ideális a sziget körbetekeréséhez. Délben a téli nap tiszta panorámát nyújt a szomszédos szigetekre, de a parton a szél hűvös lehet. Délután a búvárbázis jó hely a felmelegedéshez a vízi sportok után. Mivel 17:00-tól sötétedik, ellenőrizd a lámpákat a biciklin, és viselj szélálló réteget.",
+            "ro": "Dimineața suflă o briză proaspătă, ideală pentru o tură cu bicicleta în jurul insulei. La prânz, soarele de iarnă oferă o panoramă clară spre insulele vecine, dar vântul pe mal poate fi rece. După-amiaza, baza de diving este un loc bun pentru încălzire după sport. Fiindcă se întunecă de la ora 17:00, verifică luminile bicicletei și poartă haine antivânt.",
+            "en": "A fresh breeze blows in the morning, ideal for a bike tour around the island. At noon, the winter sun offers a clear panorama of neighboring islands, but the shore wind can be cool. In the afternoon, the dive base is a good place to warm up after water sports. Since it gets dark from 17:00, ensure your bike lights work and wear a windproof layer."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "turtle area",
+                "hu": "turtle area",
+                "ro": "turtle area",
+                "en": "turtle area"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die staubfreien Wege nach dem Morgentau; tragen Sie eine Sonnenbrille, um Ihre Augen vor dem kühlen Fahrtwind zu schützen.",
+                "hu": "Élvezd a pormentes utakat a reggeli harmat után; viselj napszemüveget, hogy megvédd a szemedet a hűvös menetszéltől.",
+                "ro": "Bucură-te de drumurile fără praf după roua dimineții; poartă ochelari de soare pentru a-ți proteja ochii de vântul rece de mișcare.",
+                "en": "Enjoy the dust-free paths after the morning dew; wear sunglasses to protect your eyes from the cool wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle Point",
+                "hu": "Turtle Point",
+                "ro": "Turtle Point",
+                "en": "Turtle Point"
+              },
+              "tip_5lang": {
+                "de": "Die Gezeiten sind im Winter oft niedriger, was die Sichtung erleichtert; nehmen Sie eine Thermoskanne mit warmem Tee auf die Radtour mit.",
+                "hu": "A téli apály gyakran alacsonyabb, ami megkönnyíti a teknősök észlelését; vigyél magaddal termoszban meleg teát a biciklis túrára.",
+                "ro": "Fluxul este adesea mai scăzut iarna, facilitând observarea țestoaselor; ia un termos cu ceai cald în tura cu bicicleta.",
+                "en": "Winter tides are often lower, making turtle sightings easier; take a thermos with warm tea on your bike trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Next Level Scuba",
+                "hu": "Next Level Scuba",
+                "ro": "Next Level Scuba",
+                "en": "Next Level Scuba"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Bereich der Basis für Ihre Pausen; klemmen Sie Ihre Windjacke sicher auf dem Gepäckträger fest.",
+                "hu": "Használd a bázis szélvédett területeit a pihenéshez; rögzítsd a széldzsekidet biztonságosan a bicikli csomagtartójára.",
+                "ro": "Folosește zonele ferite de vânt ale bazei pentru pauze; fixează-ți jacheta de vânt în siguranță pe portbagajul bicicletei.",
+                "en": "Use the wind-sheltered areas of the base for your breaks; secure your windbreaker firmly to the bike's luggage rack."
+              }
+            },
+            {
+              "name": {
+                "de": "Very good location for snorkeling",
+                "hu": "Very good location for snorkeling",
+                "ro": "Very good location for snorkeling",
+                "en": "Very good location for snorkeling"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter oft klarer, aber kühler; ziehen Sie sich nach dem Schnorcheln sofort trocken an, bevor Sie weiterfahren.",
+                "hu": "A víz télen gyakran tisztább, de hűvösebb; sznorkelezés után azonnal öltözz át szárazba, mielőtt továbbtekernél a parton.",
+                "ro": "Apa este adesea mai clară iarna, dar mai rece; după snorkeling, îmbracă-te imediat cu haine uscate înainte de a pedala mai departe.",
+                "en": "The water is often clearer in winter but cooler; change into dry clothes immediately after snorkeling before cycling further."
+              }
+            },
+            {
+              "name": {
+                "de": "Han's reef - dive site",
+                "hu": "Han's reef - dive site",
+                "ro": "Han's reef - dive site",
+                "en": "Han's reef - dive site"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am späten Nachmittag ist ideal für dramatische Küstenfotos; achten Sie auf die Zeit, um nicht im Dunkeln radeln zu müssen.",
+                "hu": "A késő délutáni fények ideálisak a drámai parti fotókhoz; figyelj az időre, hogy ne kelljen sötétben tekerned a szállásig.",
+                "ro": "Lumina de după-amiază târzie este ideală pentru poze dramatice pe coastă; fii atent la timp pentru a nu pedala pe întuneric.",
+                "en": "The late afternoon lights are ideal for dramatic coastal photos; watch the time so you don't have to cycle back in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Indoor tennis court",
+                "hu": "Indoor tennis court",
+                "ro": "Indoor tennis court",
+                "en": "Indoor tennis court"
+              },
+              "tip_5lang": {
+                "de": "Die Halle bietet eine warme Umgebung im Vergleich zum windigen Strand; radeln Sie zügig zurück, um die Körperwärme nach dem Sport zu halten.",
+                "hu": "A csarnok melegebb környezetet biztosít a szeles tengerparthoz képest; tekerj tempósan vissza, hogy megőrizd a testhődet sport után.",
+                "ro": "Sala oferă un mediu mai cald comparativ cu plaja vântoasă; pedalează energic la întoarcere pentru a menține căldura corporală.",
+                "en": "The hall provides a warmer environment compared to the windy beach; cycle briskly back to maintain body heat after your game."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Induljon egy izgalmas reggeli vízi utazásra a Gili Meno teknősmenedékhelyre egy igazán varázslatos vízi találkozásért. A dél tökéletes arra, hogy gyorsan ugráljon a tengeri teknősöktől nyüzsgő, érintetlen sznorkelező helyek között. Délután merüljön mélyebbre a lenyűgöző víz alatti ökoszisztémában a híres teknős helyen. Zárja az aktív napot egy zökkenőmentes, festői visszautazással naplementekor.",
         "ro": "Porniți într-o călătorie matinală emoționantă pe apă către sanctuarul de țestoase Gili Meno pentru o întâlnire magică. Amiaza este perfectă pentru a sări rapid între mai multe locuri imaculate de snorkeling pline de țestoase. După-amiaza, scufundați-vă mai adânc în ecosistemul subacvatic vibrant la faimosul punct al țestoaselor. Încheiați ziua activă cu o călătorie de întoarcere pitorească.",
         "en": "Embark on an exciting morning journey across the water to the Gili Meno turtle sanctuary for a truly magical aquatic encounter. Midday is perfect for hopping swiftly between multiple pristine snorkeling sites teeming with sea turtles. In the afternoon, dive deeper into the vibrant underwater ecosystem at the renowned turtle spot. Wrap up your active day with a smooth, scenic return trip at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt im überdachten Elektrowagen schützt morgens gut vor den heftigen Schauern. Mittags können die Wege zwischen den Schildkrötenpunkten tief mit Wasser gefüllt sein, was die Fahrt abenteuerlich macht. Nachmittags ist der Aufenthalt an den Schnorchelplätzen trotz Regen dank der Fahrzeugdächer gemütlich. Abends können die Scheiben beschlagen; bitten Sie den Fahrer um ein Tuch für bessere Sicht.",
+            "hu": "A fedett elektromos kocsival való utazás reggel jól véd a heves záporoktól. Délben a teknősös megállók közötti utak mély tócsákkal telhetnek meg, ami kalandossá teszi az utat. Délután a sznorkelező helyeken való tartózkodás az eső ellenére is kényelmes a kocsi tetője alatt. Estére az ablakok bepárásodhatnak; kérj a sofőrtől egy rongyot a jobb kilátás érdekében.",
+            "ro": "Călătoria cu mașina electrică acoperită protejează bine dimineața împotriva averselor violente. La prânz, drumurile dintre punctele cu țestoase se pot umple cu apă, făcând cursa aventuroasă. După-amiaza, șederea la locurile de snorkeling este confortabilă sub pavilionul mașinii, în ciuda ploii. Seara, geamurile se pot aburi; cere șoferului o cârpă pentru o vizibilitate mai bună.",
+            "en": "Traveling in a covered electric cart protects well from heavy morning showers. At noon, paths between turtle spots can fill with deep water, making the ride adventurous. In the afternoon, staying at snorkeling sites remains comfortable under the cart's roof despite the rain. By evening, windows may fog up; ask the driver for a cloth to maintain a clear view of the island."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gili Meno Turtles",
+                "hu": "Gili Meno Turtles",
+                "ro": "Gili Meno Turtles",
+                "en": "Gili Meno Turtles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick aus dem trockenen Wagen auf das graue Meer; ein Regenschirm ist für den kurzen Weg vom Auto zum Wasser nützlich.",
+                "hu": "Élvezd a kilátást a száraz kocsiból a szürke tengerre; egy esernyő hasznos lesz a kocsitól a vízig tartó rövid szakaszon.",
+                "ro": "Bucură-te de priveliștea spre marea gri din mașina uscată; o umbrelă va fi utilă pentru distanța scurtă de la mașină până la apă.",
+                "en": "Enjoy the view of the grey sea from the dry cart; an umbrella will be useful for the short walk from the vehicle to the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtles galore",
+                "hu": "Turtles galore",
+                "ro": "Turtles galore",
+                "en": "Turtles galore"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt auf unebenen Wegen kann bei Regen spritzig sein; halten Sie Ihre Wertsachen in der Mitte des Wagens, um sie trocken zu halten.",
+                "hu": "Az egyenetlen utakon való utazás esőben fröcskölős lehet; tartsd az értékeidet a kocsi közepén, hogy szárazon maradjanak.",
+                "ro": "Călătoria pe drumuri denivelate poate fi cu stropi pe ploaie; ține obiectele de valoare în centrul mașinii pentru a le păstra uscate.",
+                "en": "The ride on uneven paths can be splashy in the rain; keep your valuables in the center of the cart to ensure they stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Snorkeling site",
+                "hu": "Snorkeling site",
+                "ro": "Snorkeling site",
+                "en": "Snorkeling site"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Wagen als private Umkleidekabine, um trocken zu bleiben; bringen Sie ein großes, trockenes Handtuch für die Rückfahrt mit.",
+                "hu": "Használd a kocsit privát öltözőként, hogy száraz maradj; hozz magaddal egy nagy, száraz törölközőt a visszaútra.",
+                "ro": "Folosește mașina ca vestiar privat pentru a rămâne uscat; adu un prosop mare și uscat pentru drumul de întoarcere.",
+                "en": "Use the cart as a private changing room to stay dry; bring a large, dry towel for the ride back after your swim."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle spot",
+                "hu": "Turtle spot",
+                "ro": "Turtle spot",
+                "en": "Turtle spot"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wetter vom Rücksitz aus, bevor Sie aussteigen; eine wasserdichte Tasche schützt Ihre Ausrüstung bei den Stopps.",
+                "hu": "Figyeld az időjárást a hátsó ülésről, mielőtt kiszállnál; egy vízhatlan táska megvédi a felszerelésedet a megállók során.",
+                "ro": "Monitorizează vremea de pe bancheta din spate înainte de a coborî; o geantă impermeabilă îți protejează echipamentul în timpul opririlor.",
+                "en": "Watch the weather from the back seat before stepping out; a waterproof bag protects your gear during the various stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle Snorkeling site",
+                "hu": "Turtle Snorkeling site",
+                "ro": "Turtle Snorkeling site",
+                "en": "Turtle Snorkeling site"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour gemütlich im Wagen, während der Regen auf das Dach prasselt; bitten Sie den Fahrer, direkt vor Ihrem Ziel zu halten.",
+                "hu": "Fejezd be a túrát kényelmesen a kocsiban, miközben az eső kopog a tetőn; kérd meg a sofőrt, hogy közvetlenül a célodnál álljon meg.",
+                "ro": "Încheie turul confortabil în mașină în timp ce ploaia bate în acoperiș; roagă șoferul să oprească exact în fața destinației tale.",
+                "en": "Finish the tour comfortably in the cart while rain drums on the roof; ask the driver to drop you off right at your final destination."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Fahrt im offenen Wagen erfrischend, aber eine Windjacke ist ratsam. Mittags leuchten die Farben der Insel im klaren Winterlicht besonders intensiv durch die Fahrzeugfenster. Nachmittags kühlt es bei der Fahrt entlang der Küste merklich ab. Da die Sonne gegen 17:00 Uhr untergeht, ist die abendliche Rückfahrt im Wagen der perfekte Weg, um die blaue Stunde gemütlich und windgeschützt zu erleben.",
+            "hu": "Reggel a nyitott kocsiban való utazás frissítő, de egy széldzseki ajánlott. Délben a sziget színei különösen intenzíven ragyognak a tiszta téli fényben a kocsi ablakán át. Délután a tengerpart menti autózás során érezhetően lehűl a levegő. Mivel a nap 17:00 körül lemegy, az esti kocsis visszatérés a legjobb mód a kék óra szélvédett megéléséhez.",
+            "ro": "Dimineața, cursa în mașina deschisă este revigorantă, dar se recomandă o jachetă de vânt. La prânz, culorile insulei strălucesc intens în lumina clară de iarnă prin geamurile mașinii. După-amiaza, aerul se răcește vizibil în timpul plimbării pe coastă. Deoarece soarele apune la ora 17:00, întoarcerea de seară cu mașina este calea ideală de a trăi ora albastră la adăpost.",
+            "en": "In the morning, the ride in the open cart is refreshing, but a windbreaker is advised. At noon, the island's colors shine intensely in the clear winter light through the vehicle windows. In the afternoon, the air cools noticeably while driving along the coast. Since the sun sets around 17:00, the evening return by cart is the perfect way to experience the blue hour protected from the wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gili Meno Turtles",
+                "hu": "Gili Meno Turtles",
+                "ro": "Gili Meno Turtles",
+                "en": "Gili Meno Turtles"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterwetter für weite Ausblicke vom Wagen aus; eine leichte Decke über den Knien macht die morgendliche Fahrt behaglicher.",
+                "hu": "Használd ki a tiszta téli időt a kocsiból nyíló messzi kilátáshoz; egy vékony takaró a térdeden kényelmesebbé teszi a reggeli utat.",
+                "ro": "Profită de vremea clară de iarnă pentru vederi panoramice din mașină; o pătură ușoară pe genunchi face cursa de dimineață mai plăcută.",
+                "en": "Take advantage of the clear winter weather for long views from the cart; a light blanket over your knees makes the morning ride cozier."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtles galore",
+                "hu": "Turtles galore",
+                "ro": "Turtles galore",
+                "en": "Turtles galore"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht im Winter ideal für Fotos ohne harte Schatten; halten Sie während der Fahrt Ausschau nach Schildkröten in den flachen Wellen.",
+                "hu": "A nap télen ideálisan áll a kemény árnyékok nélküli fotózáshoz; utazás közben figyeld a teknősöket a sekély hullámok között.",
+                "ro": "Iarna, soarele este poziționat ideal pentru poze fără umbre dure; în timpul cursei, caută țestoasele printre valurile puțin adânci.",
+                "en": "In winter, the sun is ideally positioned for photos without harsh shadows; keep an eye out for turtles in the shallow waves as you ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Snorkeling site",
+                "hu": "Snorkeling site",
+                "ro": "Snorkeling site",
+                "en": "Snorkeling site"
+              },
+              "tip_5lang": {
+                "de": "Bitten Sie den Fahrer, an einer windgeschützten Stelle zu warten; packen Sie eine Thermosflasche mit warmem Wasser ein, um sich nach dem Bad abzuspülen.",
+                "hu": "Kérd meg a sofőrt, hogy szélvédett helyen várjon rád; vigyél egy termoszt meleg vízzel, hogy leöblítsd magad a fürdés után.",
+                "ro": "Roagă șoferul să aștepte într-un loc ferit de vânt; ia un termos cu apă caldă pentru a te clăti după baia în mare.",
+                "en": "Ask the driver to wait in a wind-sheltered spot; pack a thermos with warm water to rinse yourself off after your swim."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle spot",
+                "hu": "Turtle spot",
+                "ro": "Turtle spot",
+                "en": "Turtle spot"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht hebt die Muster auf den Panzern der Schildkröten hervor; tragen Sie eine Mütze gegen den Wind, der durch den offenen Wagen zieht.",
+                "hu": "A téli fény kiemeli a mintázatot a teknősök páncélján; viselj sapkát a szél ellen, ami átfúj a nyitott kocsi utasterén.",
+                "ro": "Lumina de iarnă scoate în evidență modelul de pe carapacea țestoaselor; poartă o căciulă împotriva vântului care trece prin mașina deschisă.",
+                "en": "The winter light highlights the patterns on the turtles' shells; wear a beanie against the wind blowing through the open cart."
+              }
+            },
+            {
+              "name": {
+                "de": "Turtle Snorkeling site",
+                "hu": "Turtle Snorkeling site",
+                "ro": "Turtle Snorkeling site",
+                "en": "Turtle Snorkeling site"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang direkt aus dem Wagen; halten Sie eine warme Jacke für die Rückfahrt nach dem letzten Stopp bereit.",
+                "hu": "Figyeld a korai naplementét közvetlenül a kocsiból; tarts készenlétben egy meleg kabátot az utolsó megálló utáni visszaútra.",
+                "ro": "Observă apusul devreme direct din mașină; pregătește o jachetă groasă pentru drumul de întoarcere după ultima oprire.",
+                "en": "Watch the early sunset directly from the cart; have a warm jacket ready for the return trip after your final stop of the day."
+              }
+            }
+          ]
+        }
       }
     }
   }

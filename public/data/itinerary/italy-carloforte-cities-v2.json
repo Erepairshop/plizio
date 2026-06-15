@@ -160,6 +160,196 @@
         "hu": "Carlofortei napja a város szívében kezdődik, ahol a reggeli fényben megcsodálhatja a festői tengerparti sétányt és a városalapító emlékművét. Délelőtt merüljön el a helyi kultúrában, fedezze fel a kis rejtett templomokat és a lenyűgöző történelmi városi múzeumot a szűk utcácskákban. A délután lélegzetelállító kilátással csábít a régi erődítményből, ahonnan teljes mértékben átérezheti az egész sziget tengeri atmoszféráját. Zárja a napot egy pihentető sétával a nyüzsgő utcákon, és élvezze ennek a különleges liguriai enklávénak a varázslatos esti hangulatát.",
         "ro": "Ziua dumneavoastră în Carloforte începe în inima orașului, unde veți admira promenada pitorească și monumentul fondatorului în lumina caldă a dimineții. Până la prânz, vă veți scufunda adânc în cultura locală, explorând biserici mici ascunse și fascinantul muzeu de istorie de pe străduțele înguste. După-amiaza vă atrage cu priveliști uluitoare de la vechea fortăreață, de unde puteți simți din plin atmosfera maritimă a întregii insule. Încheiați-vă ziua cu o plimbare relaxantă pe străzile pline de viață și bucurați-vă de farmecul deosebit al acestei enclave ligurice fermecătoare.",
         "en": "Your day in Carloforte begins in the heart of the town, admiring the picturesque waterfront promenade and the founder's monument in the soft morning light. By late morning, you will dive deep into local culture, exploring small hidden churches and the fascinating civic history museum tucked in the alleys. The afternoon invites you to enjoy breathtaking panoramic views from the old fortress, perfectly capturing the maritime atmosphere of the entire island. End your day with a relaxing stroll through the lively streets, soaking up the unique evening charm and vibrant flair of this special Ligurian enclave."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens am Denkmal suchen wir Schutz unter den Arkaden. Mittags bietet das Museum Casa del Duca einen trockenen Rückzugsort voller Geschichte. Nachmittags spazieren wir vorsichtig über das glitschige Pflaster der Caruggi zur Kirche. Abends reflektieren die Lichter des Hafens malerisch in den Pfützen auf der Piazza, während der Regen sanft auf die Dächer von Carloforte trommelt.",
+            "hu": "Reggel a monumentumnál az ívek alatt keresünk menedéket. Délben a Casa del Duca múzeum nyújt száraz és tartalmas pihenőt a történelem kedvelőinek. Délután óvatosan haladunk a csúszós macskaköves sikátorokon a templom felé. Este a kikötő fényei festőien tükröződnek a főtér tócsáiban, miközben az eső halkan kopog Carloforte háztetőin, meghitt hangulatot árasztva.",
+            "ro": "Dimineața la monument căutăm adăpost sub arcade. La prânz, Muzeul Casa del Duca oferă un refugiu uscat și plin de istorie. După-amiaza mergem cu grijă pe străzile înguste și alunecoase către biserică. Seara, luminile portului se oglindesc pitoresc în bălțile din piață, în timp ce ploaia bate ușor în acoperișurile din Carloforte, creând o atmosferă intimă.",
+            "en": "Morning at the monument finds us seeking cover under the arches. At noon, the Casa del Duca Museum provides a dry, historical retreat. In the afternoon, we navigate the slippery cobblestone caruggi toward the church. By evening, harbor lights reflect beautifully in the puddles on the square as rain taps gently on the roofs of Carloforte, creating a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Carlo Emanuele Terzo",
+                "hu": "Monumento a Carlo Emanuele Terzo",
+                "ro": "Monumento a Carlo Emanuele Terzo",
+                "en": "Monumento a Carlo Emanuele Terzo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Statue des Stadtgründers vom Schutz der nahen Arkaden aus; bei Regen sind die Stufen zum Denkmal besonders rutschig.",
+                "hu": "Csodálja meg a városalapító szobrát a közeli árkádok védelméből; esőben a talapzathoz vezető lépcsők fokozottan csúszósak lehetnek.",
+                "ro": "Admirați statuia fondatorului orașului de sub protecția arcadelor din apropiere; pe ploaie, treptele monumentului sunt extrem de alunecoase.",
+                "en": "Admire the founder's statue from the shelter of nearby arches; remember that the steps leading to the monument become very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madonna dello Schiavo",
+                "hu": "Chiesa Madonna dello Schiavo",
+                "ro": "Chiesa Madonna dello Schiavo",
+                "en": "Chiesa Madonna dello Schiavo"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen friedlichen, trockenen Raum, um die verehrte Statue zu sehen; schütteln Sie Ihren Regenschirm am Eingang gründlich aus.",
+                "hu": "A templom békés és száraz helyszín a tisztelt szobor megtekintéséhez; a bejáratnál rázza le alaposan az esernyőjét a padló védelmében.",
+                "ro": "Biserica oferă un spațiu liniștit și uscat pentru a vedea statuia venerată; scuturați bine umbrela la intrare pentru a evita accidentele.",
+                "en": "The church offers a peaceful, dry space to view the revered statue; make sure to shake your umbrella thoroughly at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico Casa del Duca",
+                "hu": "Museo Civico Casa del Duca",
+                "ro": "Museo Civico Casa del Duca",
+                "en": "Museo Civico Casa del Duca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das schlechte Wetter für einen ausgiebigen Museumsbesuch; die Ausstellungen zur Inselgeschichte sind komplett überdacht und trocken.",
+                "hu": "Használja ki a rossz időt egy alapos múzeumlátogatásra; a sziget történelmét bemutató tárlatok teljesen fedettek és szárazak.",
+                "ro": "Profitați de vremea rea pentru o vizită detaliată la muzeu; expozițiile despre istoria insulei sunt complet acoperite și ferite de ploaie.",
+                "en": "Take advantage of the bad weather for a detailed museum visit; the exhibits on island history are fully indoor and comfortably dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Santa Teresa",
+                "hu": "Forte Santa Teresa",
+                "ro": "Forte Santa Teresa",
+                "en": "Forte Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Vom Fort aus wirkt das graue, stürmische Meer besonders dramatisch; tragen Sie eine windfeste Regenjacke für den exponierten Außenbereich.",
+                "hu": "Az erődből a szürke, viharos tenger látványa különösen drámai; viseljen szélálló esőkabátot a nyitott, kitett falfelületeken.",
+                "ro": "De la fort, marea gri și agitată pare extrem de dramatică; purtați o pelerină de ploaie rezistentă la vânt pentru zonele exterioare expuse.",
+                "en": "From the fort, the grey and stormy sea looks particularly dramatic; wear a windproof raincoat for the exposed outdoor areas."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pietro Apostolo",
+                "hu": "San Pietro Apostolo",
+                "ro": "San Pietro Apostolo",
+                "en": "San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das schlichte Innere dieser historischen Kirche als Schutz vor Schauern; achten Sie auf Wassereintritt im Eingangsbereich.",
+                "hu": "Tekintse meg a történelmi templom letisztult belső terét a záporok elől menekülve; figyeljen a bejáratnál esetlegesen összegyűlt vízre.",
+                "ro": "Vizitați interiorul simplu al acestei biserici istorice pentru a vă adăposti de averse; atenție la apa adunată în zona intrării.",
+                "en": "Visit the simple interior of this historic church to shelter from showers; watch out for puddles that may form near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti di Carloforte",
+                "hu": "Monumento ai Caduti di Carloforte",
+                "ro": "Monumento ai Caduti di Carloforte",
+                "en": "Monumento ai Caduti di Carloforte"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, besinnlicher Halt im Regen am Denkmal; nutzen Sie die umliegenden Cafés für einen warmen Abschluss des nassen Tages.",
+                "hu": "Rövid, elcsendesedő megálló az esőben a műemléknél; keressen egy közeli kávézót a vizes nap méltó és meleg befejezéséhez.",
+                "ro": "O scurtă oprire reflexivă în ploaie la monument; folosiți cafenelele din jur pentru un final cald al acestei zile umede.",
+                "en": "A brief, contemplative stop in the rain at the memorial; use the surrounding cafes for a warm finish to your wet day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Denkmal. Mittags wärmen wir uns im Museum Casa del Duca auf, während wir in die maritime Vergangenheit eintauchen. Nachmittags ist die Luft klar und kühl beim Besuch der Kirchen. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir das goldene Licht am Denkmal der Gefallenen, bevor die winterliche Kühle den Abend einläutet.",
+            "hu": "A téli reggel frissen indul a monumentumnál. Délben a Casa del Duca múzeumban melegszünk fel, miközben elmélyedünk a tengeri múlt emlékeiben. Délután a levegő tiszta és hűvös a templomok látogatása közben. Mivel a nap már 17:00 körül nyugovóra tér, a hősök emlékművénél élvezzük az utolsó aranyló fényeket, mielőtt a téli hideg átveszi az uralmat.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt la monument. La prânz ne încălzim în Muzeul Casa del Duca, explorând trecutul maritim. După-amiaza aerul este clar și răcoros în timpul vizitării bisericilor. Deoarece soarele apune deja în jur de ora 17:00, savurăm lumina aurie la monumentul eroilor înainte ca frigul iernii să pună stăpânire pe seară.",
+            "en": "The winter morning starts fresh at the monument. At noon, we warm up inside the Casa del Duca Museum while diving into the maritime past. In the afternoon, the air is crisp and cool as we visit the local churches. Since the sun sets around 17:00, we enjoy the golden hour at the war memorial before the winter chill sets in for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Carlo Emanuele Terzo",
+                "hu": "Monumento a Carlo Emanuele Terzo",
+                "ro": "Monumento a Carlo Emanuele Terzo",
+                "en": "Monumento a Carlo Emanuele Terzo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den freien Blick ohne Touristenmassen; ziehen Sie eine warme Jacke an, da die Meeresbrise im Winter recht schneidend sein kann.",
+                "hu": "Élvezze a zavartalan kilátást a turistahadak nélkül; vegyen fel meleg kabátot, mert a tengeri szél télen metsző tud lenni a parton.",
+                "ro": "Bucurați-vă de vederea neobstrucționată fără mulțimi de turiști; purtați o jachetă groasă, deoarece briza mării poate fi tăioasă iarna.",
+                "en": "Enjoy the clear view without the tourist crowds; wear a warm jacket as the sea breeze can be quite biting during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madonna dello Schiavo",
+                "hu": "Chiesa Madonna dello Schiavo",
+                "ro": "Chiesa Madonna dello Schiavo",
+                "en": "Chiesa Madonna dello Schiavo"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; ein idealer Ort für einen Moment der Stille in der kühlen Winterluft der Stadt.",
+                "hu": "A vastag kőfalak kint tartják a hideget; ideális helyszín egy pillanatnyi elcsendesedéshez a város hűvös téli levegője után.",
+                "ro": "Zidurile groase de piatră țin frigul la distanță; un loc ideal pentru un moment de liniște după aerul rece de iarnă al orașului.",
+                "en": "The thick stone walls keep the chill outside; an ideal place for a moment of silence away from the cool winter air of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico Casa del Duca",
+                "hu": "Museo Civico Casa del Duca",
+                "ro": "Museo Civico Casa del Duca",
+                "en": "Museo Civico Casa del Duca"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um sich aufzuwärmen und die Geschichte der Tabarkiner zu studieren; im Winter ist es hier angenehm temperiert.",
+                "hu": "Tökéletes megálló a felmelegedéshez és a tabarkinok történetének tanulmányozásához; télen a belső tér kellemes hőmérsékletű.",
+                "ro": "O oprire perfectă pentru a vă încălzi și pentru a studia istoria tabarkinilor; iarna, temperatura interioară este foarte plăcută.",
+                "en": "A perfect stop to warm up and study the history of the Tabarkins; the museum interior is comfortably tempered during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Santa Teresa",
+                "hu": "Forte Santa Teresa",
+                "ro": "Forte Santa Teresa",
+                "en": "Forte Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Fort vor 16:30 Uhr, um das winterliche Sonnenuntergangslicht zu nutzen; tragen Sie Handschuhe für den Rundgang auf den Mauern.",
+                "hu": "Látogassa meg az erődöt 16:30 előtt, hogy kihasználja a téli naplemente fényeit; viseljen kesztyűt a várfalakon tett sétához.",
+                "ro": "Vizitați fortul înainte de 16:30 pentru a profita de lumina apusului de iarnă; purtați mănuși pentru plimbarea pe zidurile cetății.",
+                "en": "Visit the fort before 16:30 to make the most of the winter sunset light; wear gloves for your walk along the exposed fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pietro Apostolo",
+                "hu": "San Pietro Apostolo",
+                "ro": "San Pietro Apostolo",
+                "en": "San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Architektur wirkt im weichen Winterlicht besonders edel; ein ruhiger Rückzugsort vor dem frühen Einbruch der Dunkelheit.",
+                "hu": "A letisztult építészet a lágy téli fényben különösen nemesnek hat; nyugodt menedék a sötétség korai leszállta előtt.",
+                "ro": "Arhitectura simplă pare deosebit de nobilă în lumina blândă a iernii; un refugiu liniștit înainte de lăsarea timpurie a întunericului.",
+                "en": "The simple architecture looks especially noble in the soft winter light; a quiet sanctuary before the early onset of darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento ai Caduti di Carloforte",
+                "hu": "Monumento ai Caduti di Carloforte",
+                "ro": "Monumento ai Caduti di Carloforte",
+                "en": "Monumento ai Caduti di Carloforte"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal steht im Winter oft in dramatischem Schatten; beenden Sie die Tour schnell, da es nach 17 Uhr rasch abkühlt.",
+                "hu": "Az emlékmű télen gyakran drámai árnyékba borul; fejezze be gyorsan a túrát, mert 17 óra után hirtelen hűl le a levegő.",
+                "ro": "Monumentul este adesea învăluit în umbre dramatice iarna; finalizați turul rapid, deoarece după ora 17 aerul se răcește brusc.",
+                "en": "The memorial is often cast in dramatic shadows in winter; wrap up your tour quickly as it cools down fast after 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpáros kirándulása a városközpontban kezdődik a városalapító emlékművénél, majd egy kényelmes tekeréssel a partközeli modern multimédiás múzeumhoz ér. Délben lazítson egyet a gyönyörű Spiaggia del Giunco strandon, ahol finom homok és kristálytiszta víz várja. A délután visszavezeti Önt Carloforte szívébe, hogy megcsodálja a történelmi látnivalókat, például az impozáns színházat és a régi templomot. Befejezésül élvezze a régi Santa Teresa erődítményből nyíló páratlan kilátást a nyílt tengerre.",
         "ro": "Excursia dumneavoastră cu bicicleta începe în centrul orașului la monumentul fondatorului, urmată de o plimbare spre modernul muzeu multimedia de lângă coastă. La prânz veți pedala relaxat către frumoasa plajă Spiaggia del Giunco, unde vă așteaptă nisip fin și apă curată. După-amiaza vă întoarceți în inima orașului Carloforte pentru a admira puncte de atracție istorice, precum impunătorul teatru și vechea biserică. Încheiați-vă ziua bucurându-vă de o priveliște de neegalat asupra mării deschise de la vechiul Fort Santa Teresa.",
         "en": "Your cycling tour begins in the town center at the founder's monument, followed by a pleasant ride to the modern multimedia museum near the coast. At noon, you will pedal down to the beautiful Spiaggia del Giunco beach, where soft sand and crystal-clear water await. The afternoon leads you back into the heart of Carloforte to admire historical highlights like the grand theater and the charming old church. Finally, conclude your trip by taking in the unparalleled panoramic view of the open sea from the old Forte Santa Teresa."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens radeln wir vorsichtig zum Denkmal. Mittags bietet das Torre San Vittorio Museum einen trockenen Stopp mit toller Aussicht trotz Regen. Nachmittags führt die Tour zum Strand Giunco, wo das Meer wild und rau wirkt. Abends suchen wir Schutz im Cineteatro Cavallera, bevor wir die nasse Rückfahrt antreten, wobei wir stets auf rutschigen Untergrund achten.",
+            "hu": "Reggel óvatosan tekerünk a monumentumhoz. Délben a Torre San Vittorio múzeum nyújt száraz megállót remek kilátással az eső ellenére is. Délután a túra a Giunco strandra vezet, ahol a tenger vad és zord arcát mutatja. Este a Cavallera színházban keresünk menedéket a vizes visszaút előtt, folyamatosan ügyelve a csúszós útburkolatra.",
+            "ro": "Dimineața pedalăm cu atenție către monument. La prânz, Muzeul Torre San Vittorio oferă o oprire uscată cu o vedere excelentă, în ciuda ploii. După-amiaza, traseul duce la plaja Giunco, unde marea își arată fața sălbatică. Seara căutăm adăpost la Cineteatrul Cavallera înainte de drumul de întoarcere umed, fiind atenți la carosabilul alunecos.",
+            "en": "Morning finds us cycling carefully to the monument. At noon, the Torre San Vittorio Museum offers a dry stop with great views despite the rain. In the afternoon, the route leads to Giunco beach, where the sea looks wild and raw. In the evening, we seek shelter at the Cavallera Cineteatro before the wet ride back, always staying alert for slippery roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Carlo Emanuele Terzo",
+                "hu": "Monumento a Carlo Emanuele Terzo",
+                "ro": "Monumento a Carlo Emanuele Terzo",
+                "en": "Monumento a Carlo Emanuele Terzo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem geschützten Ort; achten Sie auf die weißen Markierungen auf dem Asphalt, die bei Nässe extrem glatt sind.",
+                "hu": "Parkolja le kerékpárját egy védettebb helyen; ügyeljen az aszfalton lévő fehér jelzésekre, amelyek nedvesen rendkívül csúszósak.",
+                "ro": "Parcați bicicleta într-un loc protejat; atenție la marcajele albe de pe asfalt, care sunt extrem de alunecoase când sunt ude.",
+                "en": "Park your bike in a sheltered spot; watch out for white road markings on the asphalt, as they become extremely slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Multimediale della Torre San Vittorio",
+                "hu": "Museo Multimediale della Torre San Vittorio",
+                "ro": "Museo Multimediale della Torre San Vittorio",
+                "en": "Museo Multimediale della Torre San Vittorio"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Regen abzuwarten; die Multimediashow ist kurzweilig und man bleibt garantiert trocken während des Besuchs.",
+                "hu": "Ideális hely az eső kivárására; a multimédiás bemutató szórakoztató, és a látogatás alatt garantáltan száraz marad mindenki.",
+                "ro": "Un loc ideal pentru a aștepta oprirea ploii; spectacolul multimedia este distractiv și veți rămâne garantat uscați pe durata vizitei.",
+                "en": "An ideal place to wait out the rain; the multimedia show is engaging and you are guaranteed to stay dry during the entire visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Giunco",
+                "hu": "Spiaggia del Giunco",
+                "ro": "Spiaggia del Giunco",
+                "en": "Spiaggia del Giunco"
+              },
+              "tip_5lang": {
+                "de": "Die Wege zum Strand können schlammig sein; genießen Sie die stürmische Brandung kurz und achten Sie auf sicheren Stand für Ihr Fahrrad.",
+                "hu": "A strandra vezető utak sárosak lehetnek; élvezze rövid ideig a viharos hullámzást, és ügyeljen a kerékpár stabil támasztására.",
+                "ro": "Drumurile spre plajă pot fi noroioase; bucurați-vă scurt de valurile înfuriate și asigurați-vă că bicicleta este parcată stabil.",
+                "en": "The paths to the beach can be muddy; enjoy the stormy surf briefly and ensure your bike is parked securely on solid ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Cineteatro Giuseppe Cavallera",
+                "hu": "Cineteatro Giuseppe Cavallera",
+                "ro": "Cineteatro Giuseppe Cavallera",
+                "en": "Cineteatro Giuseppe Cavallera"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie das prächtige Theater für eine kulturelle Pause im Trockenen; nutzen Sie die Zeit, um Ihre Regenkleidung kurz zu lüften.",
+                "hu": "Lépjen be a pompás színházba egy kulturális pihenőre a szárazon; használja ki az időt esőruházata rövid átszellőztetésére.",
+                "ro": "Intrați în teatrul splendid pentru o pauză culturală la adăpost; folosiți timpul pentru a vă aerisi scurt echipamentul de ploaie.",
+                "en": "Enter the magnificent theatre for a cultural break in the dry; use the time to briefly air out your rain gear indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pietro Apostolo",
+                "hu": "San Pietro Apostolo",
+                "ro": "San Pietro Apostolo",
+                "en": "San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Moment der Einkehr; stellen Sie sicher, dass Ihre Bremsen nach der Fahrt durch den Regen noch voll funktionsfähig sind.",
+                "hu": "A lelki elcsendesedés rövid pillanata; győződjön meg róla, hogy a fékek az esőben való tekerés után is tökéletesen fognak.",
+                "ro": "Un moment scurt de reculegere; asigurați-vă că frânele funcționează perfect după ce ați pedalat prin ploaie.",
+                "en": "A brief moment of reflection; make sure to check that your brakes are fully functional after riding through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Santa Teresa",
+                "hu": "Forte Santa Teresa",
+                "ro": "Forte Santa Teresa",
+                "en": "Forte Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zum Fort ist bei Regen anstrengend und rutschig; fahren Sie langsam bergab und nutzen Sie Schutzbleche an Ihrem Fahrrad.",
+                "hu": "Az erődhöz vezető emelkedő esőben fárasztó és csúszós; ereszkedjen lassan lefelé, és használjon sárvédőt a kerékpárján.",
+                "ro": "Urcarea spre fort este obositoare și alunecoasă pe ploaie; coborâți încet și folosiți apărători de noroi la bicicletă.",
+                "en": "The climb to the fort is strenuous and slippery in the rain; descend slowly and make sure to use mudguards on your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zur Radtour ein. Mittags erkunden wir die Torre San Vittorio, wo die kühle Luft den Blick über die Insel schärft. Nachmittags radeln wir zum Giunco-Strand für einen einsamen Moment am Wintermeer. Da es gegen 17:00 Uhr dunkel wird, planen wir den Rückweg über das Cineteatro und das Fort im letzten Tageslicht, stets gut eingepackt gegen den Fahrtwind.",
+            "hu": "A tiszta téli reggel kerékpározásra hívogat. Délben felfedezzük a Torre San Vittorio-t, ahol a hűvös levegő kitisztítja a kilátást a szigetre. Délután a Giunco strandra tekerünk egy magányos pillanatra a téli tengerparton. Mivel 17:00 körül sötétedik, a visszautat a színház és az erőd érintésével az utolsó fényeknél tervezzük, jól beöltözve.",
+            "ro": "O dimineață senină de iarnă invită la o tură cu bicicleta. La prânz explorăm Torre San Vittorio, unde aerul rece clarifică vederea asupra insulei. După-amiaza pedalăm spre plaja Giunco pentru un moment solitar la malul mării. Deoarece se întunecă în jur de ora 17:00, planificăm întoarcerea prin teatru și fort la ultimele lumini, bine echipați contra vântului.",
+            "en": "A crisp winter morning invites a bike ride. At noon we explore Torre San Vittorio, where the cool air sharpens the views across the island. In the afternoon, we cycle to Giunco beach for a solitary moment by the winter sea. As it gets dark around 17:00, we plan our return via the theatre and fort in the last daylight, wrapped up well against the wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monumento a Carlo Emanuele Terzo",
+                "hu": "Monumento a Carlo Emanuele Terzo",
+                "ro": "Monumento a Carlo Emanuele Terzo",
+                "en": "Monumento a Carlo Emanuele Terzo"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe beim Radfahren am Hafen; die winterliche Meeresbrise lässt die Hände am Lenker schnell auskühlen.",
+                "hu": "Viseljen szélálló kesztyűt a kikötői tekerés közben; a téli tengeri szellő miatt a kezek gyorsan áthűlhetnek a kormányon.",
+                "ro": "Purtați mănuși rezistente la vânt când pedalați în port; briza mării de iarnă face ca mâinile pe ghidon să înghețe rapid.",
+                "en": "Wear windproof gloves while cycling near the harbor; the winter sea breeze can quickly chill your hands on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Multimediale della Torre San Vittorio",
+                "hu": "Museo Multimediale della Torre San Vittorio",
+                "ro": "Museo Multimediale della Torre San Vittorio",
+                "en": "Museo Multimediale della Torre San Vittorio"
+              },
+              "tip_5lang": {
+                "de": "Die Aussichtsplattform ist im Winter oft windig; nutzen Sie den Innenraum des Museums, um sich vor der Weiterfahrt kurz aufzuwärmen.",
+                "hu": "A kilátóterasz télen gyakran szeles; használja a múzeum belső tereit a felmelegedéshez, mielőtt továbbfolytatná az útját.",
+                "ro": "Platforma de observație este adesea vântoasă iarna; folosiți interiorul muzeului pentru a vă încălzi scurt înainte de a pleca mai departe.",
+                "en": "The observation deck is often very windy in winter; use the museum interior to warm up before continuing your cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Giunco",
+                "hu": "Spiaggia del Giunco",
+                "ro": "Spiaggia del Giunco",
+                "en": "Spiaggia del Giunco"
+              },
+              "tip_5lang": {
+                "de": "Erwarten Sie eine menschenleere Kulisse; bringen Sie eine Thermoskanne mit einem warmen Getränk für die Pause am Winterstrand mit.",
+                "hu": "Számítson teljesen néptelen tájra; hozzon magával termoszt meleg itallal a téli tengerparton tartott rövid pihenőhöz.",
+                "ro": "Așteptați-vă la un peisaj pustiu; aduceți un termos cu o băutură caldă pentru pauza de pe plaja de iarnă.",
+                "en": "Expect a completely deserted landscape; bring a thermos with a warm drink for your break on the peaceful winter beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Cineteatro Giuseppe Cavallera",
+                "hu": "Cineteatro Giuseppe Cavallera",
+                "ro": "Cineteatro Giuseppe Cavallera",
+                "en": "Cineteatro Giuseppe Cavallera"
+              },
+              "tip_5lang": {
+                "de": "Ein prächtiger Ort, um der Kälte für eine Weile zu entfliehen; bewundern Sie die Jugendstil-Details in aller Ruhe ohne Sommerhektik.",
+                "hu": "Pompás helyszín, hogy egy időre elmeneküljön a hideg elől; csodálja meg a szecessziós részleteket a nyári nyüzsgés nélkül.",
+                "ro": "Un loc splendid pentru a scăpa de frig pentru o vreme; admirați detaliile Art Nouveau în liniște, fără agitația de vară.",
+                "en": "A magnificent place to escape the cold for a while; admire the Art Nouveau details in peace without the summer hustle."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pietro Apostolo",
+                "hu": "San Pietro Apostolo",
+                "ro": "San Pietro Apostolo",
+                "en": "San Pietro Apostolo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag; das schwindende Licht sorgt für eine mystische Stimmung in den alten Mauern.",
+                "hu": "Látogassa meg a templomot késő délután; a fogyatkozó fény misztikus hangulatot áraszt a patinás, régi falak között.",
+                "ro": "Vizitați biserica după-amiaza târziu; lumina care scade creează o atmosferă mistică între zidurile vechi și venerabile.",
+                "en": "Visit the church in the late afternoon; the fading daylight creates a mystical atmosphere within the ancient, hallowed walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Santa Teresa",
+                "hu": "Forte Santa Teresa",
+                "ro": "Forte Santa Teresa",
+                "en": "Forte Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Besuch vor Einbruch der Dunkelheit um 17:00 Uhr; sorgen Sie für eine gute Beleuchtung an Ihrem Fahrrad für den Rückweg.",
+                "hu": "Fejezze be látogatását a sötétség 17:00 órai beállta előtt; gondoskodjon a kerékpár megfelelő világításáról a visszaúthoz.",
+                "ro": "Finalizați vizita înainte de lăsarea întunericului la ora 17:00; asigurați-vă că aveți lumini bune la bicicletă pentru drumul de întoarcere.",
+                "en": "Finish your visit before darkness falls at 17:00; make sure you have good lighting on your bike for the safe ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kirándulását az északi Santa Teresa erődítménynél kezdi, ahonnan nagyszerű kilátás nyílik, majd autóval elmélyül a Museo Civico gazdag várostörténetében. Délben útvonala a városközpont bájos vallási és történelmi helyszíneihez vezet, amelyeket a rövid távolságok miatt kényelmesen felfedezhet. A délután folyamán egy modern kitérő várja Önt a Torre San Vittorio interaktív multimédiás múzeumában. Végül ezt az eseménydús napot a gyönyörű Spiaggia del Giunco homokos tengerparton pihenheti ki teljes nyugalomban.",
         "ro": "Vă începeți excursia la nordicul Fort Santa Teresa pentru a vă bucura de o vedere panoramică grandioasă, înainte de a vă scufunda cu mașina în istoria bogată de la Museo Civico. La prânz, traseul vă poartă către situri religioase și istorice fermecătoare din centrul orașului, pe care le puteți explora confortabil. O incursiune în modernitate vă așteaptă după-amiaza la muzeul multimedia interactiv de la Torre San Vittorio. În cele din urmă, veți încheia această zi plină de evenimente relaxându-vă în liniște pe frumoasa plajă de nisip Spiaggia del Giunco.",
         "en": "You will start your journey at the northern Forte Santa Teresa to enjoy a grand panoramic view, before driving over to delve into the rich civic history at the local museum. By noon, your route takes you to charming religious and historical sites in the town center, effortlessly explored thanks to short driving distances. A modern detour awaits you in the afternoon at the interactive multimedia museum of Torre San Vittorio. Finally, you will wind down this eventful day in complete tranquility on the beautiful sandy shores of Spiaggia del Giunco."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir bequem zum Forte Santa Teresa, während der Regen gegen die Scheiben prasselt. Mittags bieten die Museen Casa del Duca und Torre San Vittorio perfekte trockene Alternativen. Nachmittags ist die Fahrt durch den Regen sicher im Auto, mit einem kurzen Halt an der Kirche. Abends lassen wir den Tag am Strand Giunco ausklingen, wo wir das Meer vom Auto aus beobachten.",
+            "hu": "Reggel kényelmesen autózunk a Forte Santa Teresa-hoz, miközben az eső kopog a szélvédőn. Délben a Casa del Duca és a Torre San Vittorio múzeumok tökéletes száraz alternatívát nyújtanak. Délután az autóból biztonságosan szemlélhetjük az esős tájat a templom érintésével. Este a Giunco strandon fejezzük be a napot, a tenger morajlását az autó védelméből figyelve.",
+            "ro": "Dimineața conducem confortabil spre Forte Santa Teresa, în timp ce ploaia bate în parbriz. La prânz, muzeele Casa del Duca și Torre San Vittorio oferă alternative perfecte și uscate. După-amiaza, din mașină putem observa în siguranță peisajul ploios, trecând pe la biserică. Seara încheiem ziua la plaja Giunco, privind marea din protecția mașinii.",
+            "en": "Morning finds us driving comfortably to Forte Santa Teresa as rain drums on the windshield. At noon, the Casa del Duca and Torre San Vittorio museums offer perfect dry alternatives. In the afternoon, the car provides a safe way to see the rainy landscape while visiting the church. We end the day at Giunco beach, watching the sea from the comfort of our vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte Santa Teresa",
+                "hu": "Forte Santa Teresa",
+                "ro": "Forte Santa Teresa",
+                "en": "Forte Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; der Weg auf den Mauern ist bei Regen sehr rutschig, tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; a várfalakon vezető út esőben nagyon csúszós, viseljen jó tapadású talpú cipőt.",
+                "ro": "Parcați cât mai aproape de intrare; drumul de pe ziduri este foarte alunecos pe ploaie, purtați pantofi cu talpă aderentă.",
+                "en": "Park as close to the entrance as possible; the path on the walls is very slippery in the rain, so wear shoes with good traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico Casa del Duca",
+                "hu": "Museo Civico Casa del Duca",
+                "ro": "Museo Civico Casa del Duca",
+                "en": "Museo Civico Casa del Duca"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Indoor-Stopp; nutzen Sie die Parkplätze in der Nähe, um den Weg im Regen kurz zu halten und trocken ins Museum zu gelangen.",
+                "hu": "Ideális fedett megálló; használja a közeli parkolóhelyeket, hogy lerövidítse az esőben tett utat és szárazon érkezzen a múzeumba.",
+                "ro": "O oprire ideală la interior; folosiți locurile de parcare din apropiere pentru a scurta drumul prin ploaie și a intra uscați în muzeu.",
+                "en": "An ideal indoor stop; use the nearby parking spots to keep your walk in the rain short and reach the museum comfortably dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madonna dello Schiavo",
+                "hu": "Chiesa Madonna dello Schiavo",
+                "ro": "Chiesa Madonna dello Schiavo",
+                "en": "Chiesa Madonna dello Schiavo"
+              },
+              "tip_5lang": {
+                "de": "Die engen Gassen sind bei Regen mit dem Auto schwierig; parken Sie etwas abseits und nutzen Sie den Regenschirm für die letzten Meter.",
+                "hu": "A szűk utcák esőben autóval nehezen járhatóak; parkoljon kicsit távolabb, és használjon esernyőt az utolsó néhány méteren.",
+                "ro": "Străzile înguste sunt greu de parcurs cu mașina pe ploaie; parcați puțin mai departe și folosiți umbrela pentru ultimii metri.",
+                "en": "The narrow streets can be tricky to navigate by car in the rain; park a bit further away and use an umbrella for the last few yards."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Carlo Emanuele Terzo",
+                "hu": "Monumento a Carlo Emanuele Terzo",
+                "ro": "Monumento a Carlo Emanuele Terzo",
+                "en": "Monumento a Carlo Emanuele Terzo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp aus dem Auto heraus ist möglich; bei Regen ist die Piazza oft leer und bietet gute Sicht auf die Statue.",
+                "hu": "Egy rövid fotómegálló az autóból is lehetséges; esőben a tér gyakran üres, így remek kilátás nyílik a szoborra közvetlen közelről.",
+                "ro": "O scurtă oprire pentru fotografii din mașină este posibilă; pe ploaie, piața este adesea goală, oferind o vedere bună asupra statuii.",
+                "en": "A brief photo stop from the car is possible; in the rain, the square is often empty, providing a clear view of the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Multimediale della Torre San Vittorio",
+                "hu": "Museo Multimediale della Torre San Vittorio",
+                "ro": "Museo Multimediale della Torre San Vittorio",
+                "en": "Museo Multimediale della Torre San Vittorio"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für regnerische Tage; das Museum bietet Schutz und Bildung, während man draußen die stürmische See beobachten kann.",
+                "hu": "Tökéletes választás esős napokra; a múzeum védelmet és ismereteket nyújt, miközben bentről figyelhetjük a kinti viharos tengert.",
+                "ro": "Perfect pentru zilele ploioase; muzeul oferă protecție și cunoștințe, în timp ce din interior puteți observa marea agitată de afară.",
+                "en": "Perfect for rainy days; the museum provides shelter and education while allowing you to observe the stormy sea from indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Giunco",
+                "hu": "Spiaggia del Giunco",
+                "ro": "Spiaggia del Giunco",
+                "en": "Spiaggia del Giunco"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Blick auf die Brandung; die Zufahrtsstraße kann teilweise überflutet sein.",
+                "hu": "Heves esőben maradjon az autóban és élvezze a hullámtörés látványát; a bevezető út helyenként víz alá kerülhet, vezessen óvatosan.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și savurați vederea valurilor; drumul de acces poate fi parțial inundat.",
+                "en": "In heavy rain, stay inside the car and enjoy the view of the surf; the access road might be partially flooded, so drive carefully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintertag beginnt mit einer Fahrt zum Fort im klaren Morgenlicht. Mittags erkunden wir die Museen der Stadt, die im Winter angenehm ruhig sind. Nachmittags besuchen wir die Kirchen und das Denkmal im Zentrum. Da die Sonne gegen 17:00 Uhr untergeht, fahren wir rechtzeitig zum Strand Giunco, um die winterliche Dämmerung in der Wärme des Autos zu erleben.",
+            "hu": "A téli nap autózással indul az erődhöz a tiszta reggeli fényben. Délben a város múzeumait fedezzük fel, amelyek télen kellemesen csendesek. Délután meglátogatjuk a templomokat és a központi emlékművet. Mivel a nap 17:00 körül nyugszik, időben a Giunco strandra hajtunk, hogy a téli szürkületet az autó melegéből élvezzük.",
+            "ro": "Ziua de iarnă începe cu o plimbare spre fort în lumina clară a dimineții. La prânz explorăm muzeele orașului, care sunt plăcut de liniștite iarna. După-amiaza vizităm bisericile și monumentul central. Deoarece soarele apune în jur de ora 17:00, mergem la timp la plaja Giunco pentru a savura amurgul de iarnă din căldura mașinii.",
+            "en": "The winter day begins with a drive to the fort in the clear morning light. At noon, we explore the town's museums, which are pleasantly quiet in winter. In the afternoon, we visit the churches and the central monument. As the sun sets around 17:00, we head to Giunco beach in time to witness the winter twilight from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte Santa Teresa",
+                "hu": "Forte Santa Teresa",
+                "ro": "Forte Santa Teresa",
+                "en": "Forte Santa Teresa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite Sicht in der klaren Winterluft; da es auf den Mauern zieht, sollten Sie eine winddichte Jacke bereithalten.",
+                "hu": "Élvezze a távoli kilátást a tiszta téli levegőben; mivel a várfalakon huzat van, tartson készenlétben egy szélálló kabátot.",
+                "ro": "Bucurați-vă de vederea la distanță în aerul curat de iarnă; deoarece pe ziduri este curent, aveți la îndemână o jachetă anti-vânt.",
+                "en": "Enjoy the long-distance views in the crisp winter air; as it can be drafty on the walls, keep a windproof jacket ready in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Civico Casa del Duca",
+                "hu": "Museo Civico Casa del Duca",
+                "ro": "Museo Civico Casa del Duca",
+                "en": "Museo Civico Casa del Duca"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Tour für eine geschichtliche Pause im Warmen zu unterbrechen; Parkplätze sind im Winter meist direkt vor der Tür frei.",
+                "hu": "Ideális helyszín a túra megszakítására egy történelmi pihenőre a melegben; télen a parkolók többnyire közvetlenül a bejáratnál szabadok.",
+                "ro": "Un loc ideal pentru a întrerupe turul pentru o pauză istorică la căldură; iarna, parcările sunt de obicei libere chiar în fața intrării.",
+                "en": "An ideal spot to pause your tour for a historical break in the warm; parking spaces are usually available right by the door in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa Madonna dello Schiavo",
+                "hu": "Chiesa Madonna dello Schiavo",
+                "ro": "Chiesa Madonna dello Schiavo",
+                "en": "Chiesa Madonna dello Schiavo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche zur stillen Andacht; die Innenstadt ist im Winter sehr ruhig und lässt sich stressfrei mit dem Auto erkunden.",
+                "hu": "Látogassa meg a templomot egy csendes áhítatra; a belváros télen nagyon nyugodt, így stresszmentesen felfedezhető autóval is.",
+                "ro": "Vizitați biserica pentru o clipă de reculegere; centrul orașului este foarte liniștit iarna, permițând explorarea fără stres cu mașina.",
+                "en": "Visit the church for a quiet moment of reflection; the town center is very peaceful in winter, making it easy to explore by car."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento a Carlo Emanuele Terzo",
+                "hu": "Monumento a Carlo Emanuele Terzo",
+                "ro": "Monumento a Carlo Emanuele Terzo",
+                "en": "Monumento a Carlo Emanuele Terzo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal im tiefstehenden Sonnenlicht des Winters; nutzen Sie die kurzen Wege zwischen den Sehenswürdigkeiten im Auto.",
+                "hu": "Csodálja meg az emlékművet a téli alacsony napállás fényeiben; használja ki az autó adta előnyt a látnivalók közötti rövid távokon.",
+                "ro": "Admirați monumentul în lumina soarelui de iarnă; profitați de avantajul mașinii pentru distanțele scurte între obiective.",
+                "en": "Admire the monument in the low winter sunlight; take advantage of the car for the short distances between various points of interest."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Multimediale della Torre San Vittorio",
+                "hu": "Museo Multimediale della Torre San Vittorio",
+                "ro": "Museo Multimediale della Torre San Vittorio",
+                "en": "Museo Multimediale della Torre San Vittorio"
+              },
+              "tip_5lang": {
+                "de": "Die multimediale Ausstellung ist im Winter ein Highlight ohne Wartezeiten; genießen Sie den Rundblick, bevor es draußen zu kühl wird.",
+                "hu": "A multimédiás kiállítás télen várakozás nélküli fénypont; élvezze a körpanorámát, mielőtt odakint túlságosan lehűlne a levegő.",
+                "ro": "Expoziția multimedia este un punct culminant iarna, fără timpi de așteptare; savurați panorama înainte ca aerul să se răcească prea mult.",
+                "en": "The multimedia exhibit is a highlight in winter with no waiting times; enjoy the panoramic views before the air outside gets too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia del Giunco",
+                "hu": "Spiaggia del Giunco",
+                "ro": "Spiaggia del Giunco",
+                "en": "Spiaggia del Giunco"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt vom Strandparkplatz aus; die Winterfarben am Himmel sind oft spektakulär.",
+                "hu": "Figyelje a korai, 17:00 óra körüli naplementét közvetlenül a strand parkolójából; a téli színek az égen gyakran látványosak.",
+                "ro": "Observați apusul timpuriu în jur de ora 17:00 direct din parcarea plajei; culorile de iarnă ale cerului sunt adesea spectaculoase.",
+                "en": "Watch the early sunset around 17:00 directly from the beach parking lot; the winter sky colors are often truly spectacular here."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A nap Halluin történelmi központjában kezdődik, a fenséges Városháza és a békés Saint-Hilaire templom felfedezésével. Délben egy kényelmes sétát teszünk az ikonikus szélmalomhoz. Délután a helyi családbarát rekreációs terek felé vesszük az irányt, élvezve a nyugodt hangulatot. A nap egy gyönyörű naplementével zárul a festői kikötőnél.",
         "ro": "Ziua începe în inima istorică din Halluin, admirând Primăria maiestuoasă și Biserica senină Saint-Hilaire. La amiază urmează o plimbare spre emblematica Moară de vânt, un simbol al trecutului. După-amiaza vă veți îndrepta spre spațiile locale de recreere pentru familii. Ziua se încheie cu o priveliște liniștită la apus la pitorescul port de pe râu.",
         "en": "Your day begins in the historic heart of Halluin, taking in the majestic Town Hall and the serene Saint-Hilaire Church. Midday invites a leisurely stroll to the iconic Halluin Windmill, a testament to the region's agricultural past. In the afternoon, you will head towards the local family recreational spaces. The day ends with a peaceful sunset view at the scenic Marina of Halluin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am Rathaus und suchen Sie Schutz in der ruhigen Saint-Hilaire-Kirche. Trotzen Sie mittags dem Nieselregen zur historischen Windmühle, aber Vorsicht auf nassen Wegen. Verbringen Sie den Nachmittag am Jugendzentrum mit überdachten Bereichen. Beenden Sie den Tag am Yachthafen, wo der Regen eine stimmungsvolle Atmosphäre schafft; Regenschirm nicht vergessen!",
+            "hu": "Kezdje esős reggelét a Városházánál, majd keressen menedéket a békés Saint-Hilaire templomban. Délben dacoljon a szitáló esővel a szélmalomnál, de vigyázzon a csúszós utakon. Délután a fedett ifjúsági központot érdemes felkeresni. Zárja sétáját a kikötőben, ahol az eső hangulatos atmoszférát teremt; tartsa kéznél a masszív esernyőjét!",
+            "ro": "Începeți dimineața ploioasă la Primărie, apoi adăpostiți-vă în liniștita Biserică Saint-Hilaire. La prânz, înfruntați burnița pentru a vedea moara de vânt, având grijă la aleile alunecoase. Petreceți după-amiaza la centrul de tineret cu spații acoperite. Încheiați plimbarea la portul de agrement, unde ploaia creează o atmosferă melancolică; țineți umbrela la îndemână mereu!",
+            "en": "Start your rainy morning at the Town Hall, then quickly find shelter in the peaceful Saint-Hilaire Church. By midday, brave the drizzle to see the historic windmill, taking care on wet paths. Spend the afternoon at the youth site where you can find covered spots. Conclude your wet walk at the marina, where the rain creates a moody atmosphere on the water; just keep your umbrella handy!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Halluin",
+                "hu": "Halluin Városháza",
+                "ro": "Primăria Halluin",
+                "en": "Halluin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klassische bürgerliche Architektur dieses Gebäudes. Betrachten Sie es bei nassem Wetter kurz unter Ihrem Regenschirm und gehen Sie weiter.",
+                "hu": "Csodálja meg az épület klasszikus polgári építészetét. Esős időben érdemes csak gyorsan, egy masszív esernyő alól megtekinteni, mielőtt továbbáll.",
+                "ro": "Admirați arhitectura civică clasică a acestei clădiri. Pe vreme ploioasă, priviți-o rapid de sub o umbrelă rezistentă înainte de a merge mai departe.",
+                "en": "Admire the classic civic architecture of this building. In wet weather, view it quickly from under your sturdy umbrella before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire-Kirche",
+                "hu": "Saint-Hilaire Templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die atemberaubenden Buntglasfenster. Es dient als perfekter trockener Zufluchtsort vor dem starken Platzregen draußen.",
+                "hu": "Fedezze fel a lenyűgöző ólomüveg ablakokat. Ez a hely tökéletes, száraz menedékként szolgál a kinti heves felhőszakadás elől.",
+                "ro": "Explorați vitraliile uimitoare și naosul liniștit. Servește ca un sanctuar uscat perfect pentru a scăpa de ploaia torențială de afară.",
+                "en": "Explore the stunning stained glass and quiet nave. It serves as a perfect dry sanctuary from the heavy downpour outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle von Halluin",
+                "hu": "Halluini Szélmalom",
+                "ro": "Moara de Vânt Halluin",
+                "en": "Halluin Windmill"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Mechanik dieses historischen Bauwerks. Die Holztreppen können bei Regen extrem rutschig sein, also gehen Sie sehr vorsichtig.",
+                "hu": "Ismerje meg e történelmi építmény mechanikáját. A fa külső lépcsők esőben rendkívül csúszósak lehetnek, ezért nagyon óvatosan közlekedjen.",
+                "ro": "Descoperiți mecanismul acestei structuri istorice. Treptele exterioare din lemn pot fi extrem de alunecoase pe ploaie, așa că pășiți cu mare grijă.",
+                "en": "Discover the mechanics of this historic structure. The wooden exterior steps can be extremely slippery in the rain, so tread very carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Jeugdsite Zuidstraat",
+                "hu": "Jeugdsite Zuidstraat",
+                "ro": "Jeugdsite Zuidstraat",
+                "en": "Jeugdsite Zuidstraat"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dynamische Jugendkultur. Halten Sie sich in den überdachten Bereichen auf, um bei plötzlichen Regengüssen völlig trocken zu bleiben.",
+                "hu": "Tapasztalja meg a pezsgő ifjúsági kultúrát ezen a dinamikus helyen. Maradjon a fedett területeken, hogy teljesen száraz maradjon a hirtelen záporok idején.",
+                "ro": "Experimentați cultura tineretului în acest spațiu dinamic. Asigurați-vă că rămâneți în zonele acoperite pentru a sta uscați în timpul averselor bruște.",
+                "en": "Experience the vibrant youth culture at this dynamic community space. Stick to the covered areas to stay completely dry during sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Halluin",
+                "hu": "Halluin Kikötő",
+                "ro": "Portul de Agrement Halluin",
+                "en": "Marina of Halluin"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die sanft schaukelnden Boote. Die Uferwege werden bei Regen ziemlich matschig, daher sind wasserdichte Stiefel ein absolutes Muss.",
+                "hu": "Figyelje meg a kikötőben lágyan ringatózó hajókat. A vízparti ösvények esőzéskor meglehetősen sarasak lesznek, így a vízálló csizma elengedhetetlen.",
+                "ro": "Priviți bărcile care se leagănă ușor. Căile de pe malul apei devin destul de noroioase în timpul ploii, deci cizmele impermeabile sunt o necesitate.",
+                "en": "Watch the boats gently bobbing in the harbor. The waterside paths become quite muddy during rainfall, so sturdy waterproof boots are an absolute necessity."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Winterspaziergang am Rathaus und wärmen Sie sich in der Saint-Hilaire-Kirche auf. Besuchen Sie mittags die Windmühle, aber packen Sie sich gegen den beißenden Wind warm ein. Halten Sie sich am Nachmittag im Jugendzentrum in Bewegung. Beenden Sie den Tag früh am Yachthafen, wo der Sonnenuntergang um 17 Uhr ein magisches Winterlicht auf die Boote wirft. Handschuhe nicht vergessen!",
+            "hu": "Kezdje a ropogós téli sétát a Városházánál, majd melegedjen fel a gyönyörű Saint-Hilaire templomban. Dél körül látogassa meg a szélmalmot, de öltözzön melegen a csípős szél ellen. Délután az ifjúsági központban mozogjon egyet. Fejezze be a napot korán a kikötőben, ahol a 17 órai naplemente varázslatos téli fényt vet a horgonyzó hajókra. Ne felejtse el a termokesztyűjét!",
+            "ro": "Începeți plimbarea de iarnă la Primărie și încălziți-vă în frumoasa Biserică Saint-Hilaire. Pe la prânz, vizitați moara de vânt, dar înfofoliți-vă bine împotriva vântului tăios. După-amiaza, mergeți la centrul de tineret pentru a face mișcare. Încheiați ziua devreme la port, unde apusul de la ora 17:00 aruncă o lumină magică de iarnă peste bărcile ancorate. Nu uitați mănușile termice!",
+            "en": "Begin your crisp winter walk at the Town Hall and warm up inside the beautiful Saint-Hilaire Church. Around noon, visit the iconic windmill, but wrap up warmly against the biting wind. In the afternoon, head to the youth site to keep moving. End your day early at the marina, where the 5 PM sunset casts a magical winter glow over the docked boats. Don't forget your thermal gloves!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Halluin",
+                "hu": "Halluin Városháza",
+                "ro": "Primăria Halluin",
+                "en": "Halluin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die schöne Fassade dieses Bürgerzentrums. Es wird sehr kühl, wenn man draußen steht, also machen Sie ein schnelles Foto und gehen Sie weiter!",
+                "hu": "Vegye szemügyre e polgári központ gyönyörű homlokzatát. Kint állva nagyon hideg lehet, ezért készítsen egy gyors fotót, és haladjon tovább!",
+                "ro": "Observați fațada frumoasă a acestui centru civic. Se face foarte frig stând afară, așa că faceți o fotografie rapidă și continuați să vă mișcați!",
+                "en": "Notice the beautiful facade of this civic hub. It gets very chilly standing outside, so take a quick photo and keep moving to stay warm!"
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire-Kirche",
+                "hu": "Saint-Hilaire Templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die religiöse Kunst. Dieser friedliche Ort ist ideal, um Ihre Hände aufzuwärmen und der eiskalten Winterluft zu entfliehen.",
+                "hu": "Csodálja meg a gyönyörű vallási művészetet. Ez a békés szentély tökéletes hely a kézmelegítésre és a fagyos téli levegő elől való menekülésre.",
+                "ro": "Minunați-vă de arta religioasă. Acest sanctuar liniștit este locul perfect pentru a vă încălzi mâinile și a scăpa de aerul înghețat de iarnă.",
+                "en": "Marvel at the beautiful religious art. This peaceful sanctuary is the perfect spot to warm your hands and escape the freezing winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle von Halluin",
+                "hu": "Halluini Szélmalom",
+                "ro": "Moara de Vânt Halluin",
+                "en": "Halluin Windmill"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie hier mehr über die lokale Mühlengeschichte. Der offene Bereich um die Mühle ist starkem, eisigem Wind ausgesetzt, tragen Sie einen dicken Schal.",
+                "hu": "Tudjon meg többet a helyi malomtörténetről. A malom körüli nyitott terület erős, jeges szélnek van kitéve, ezért viseljen vastag sálat.",
+                "ro": "Aflați despre istoria morăritului local. Zona deschisă din jurul morii este expusă vânturilor puternice și înghețate, așa că purtați un fular gros.",
+                "en": "Learn about local milling history here. The open area around the mill is exposed to strong icy winds, so make sure to wear a very thick scarf."
+              }
+            },
+            {
+              "name": {
+                "de": "Jeugdsite Zuidstraat",
+                "hu": "Jeugdsite Zuidstraat",
+                "ro": "Jeugdsite Zuidstraat",
+                "en": "Jeugdsite Zuidstraat"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie mit der lokalen Gemeinschaft in Kontakt. Bleiben Sie in Bewegung, um sich warm zu halten, da die offenen Betonflächen im Winter extrem kalt werden.",
+                "hu": "Kapcsolódjon be a helyi közösség életébe. Mozogjon folyamatosan, hogy melegen tartsa magát, mivel a nyitott betonfelületek téli délutánokon nagyon hidegek.",
+                "ro": "Interacționați cu comunitatea locală aici. Continuați să vă mișcați pentru a vă încălzi, deoarece zonele deschise din beton devin extrem de reci iarna.",
+                "en": "Engage with the local community at this active youth site. Keep moving to stay warm, as the open concrete areas get extremely brisk during winter afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Halluin",
+                "hu": "Halluin Kikötő",
+                "ro": "Portul de Agrement Halluin",
+                "en": "Marina of Halluin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die nautische Aussicht. Die Sonne geht gegen 17 Uhr unter und bietet eine wunderschöne, aber eisige Dämmerung über den angedockten Booten.",
+                "hu": "Gyönyörködjön a tengeri kilátásban. A nap 17 óra körül nyugszik, ami gyönyörű, de fagyos szürkületet kínál a kikötött hajók felett.",
+                "ro": "Bucurați-vă de priveliștile nautice senine. Soarele apune în jurul orei 17:00, oferind un amurg frumos, dar înghețat, peste bărcile ancorate.",
+                "en": "Take in the serene nautical views from the edge. The sun sets around 5 PM, offering a beautiful but freezing twilight over the docked boats."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel a központban tekerünk, majd elsiklunk a híres szélmalomhoz. A déli órákban az Étang de la tuilerie-hez látogatunk el egy gyönyörű természetközeli kikapcsolódásra. Délután a vízi utakat követve érjük el a nyüzsgő kikötőt. Az este a nyüzsgő Huppel De Pup területére vezet, hogy megkoronázzuk ezt a fantasztikus kerékpáros kalandot.",
         "ro": "Începeți dimineața pedalând prin centru pentru a vedea Primăria, înainte de a aluneca spre faimoasa Moară de vânt. La amiază vizitați Étang de la tuilerie pentru o evadare în natură. După-amiaza, veți urma căile navigabile până la vibrantul port de pe râu. Seara vă aduce în zona plină de viață Huppel De Pup pentru a încheia aventura.",
         "en": "Start your morning pedaling through the center to see the Town Hall and Church before gliding down to the famous Windmill. Midday takes you out to the Étang de la tuilerie for a beautiful nature escape. By afternoon, you will follow the waterways to the vibrant Marina of Halluin. Evening brings you to the lively Huppel De Pup area to cap off a fantastic cycling adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert gute wasserdichte Ausrüstung. Beginnen Sie am Rathaus und der Kirche und radeln Sie dann vorsichtig zur Windmühle. Mittags geht es zum See, wo nasses Laub die Wege rutschig macht. Fahren Sie hinunter zum Yachthafen und beenden Sie den Tag an den gemütlichen Familienorten, um den schlimmsten Nachmittagsschauern im Haus zu entgehen.",
+            "hu": "Az esőben való kerékpározás jó vízálló felszerelést igényel. Kezdje a Városházánál és a templomnál, majd óvatosan tekerjen a szélmalomhoz. Délben irány a tó, ahol a nedves levelek csúszóssá teszik az utat. Guruljon le a kikötőbe, és fejezze be a napot a hangulatos családi helyszíneken, elkerülve a délutáni záporok legjavát a zárt terekben.",
+            "ro": "Mersul pe bicicletă pe ploaie necesită un echipament bun impermeabil. Începeți la Primărie și Biserică, apoi pedalați cu grijă spre moara de vânt. La prânz mergeți la lac, unde frunzele ude fac potecile alunecoase. Coborâți spre port și terminați la locurile primitoare pentru familii, scăpând de cele mai rele averse de după-amiază în interior.",
+            "en": "Cycling in the rain requires good waterproof gear. Start at the Town Hall and Church, then pedal carefully to the windmill. Midday takes you to the lake, where wet leaves make paths slick. Ride down to the marina and finish at the cozy family spots, escaping the worst of the afternoon showers comfortably indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Halluin",
+                "hu": "Halluin Városháza",
+                "ro": "Primăria Halluin",
+                "en": "Halluin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bürgerliche Architektur. Betrachten Sie es bei nassem Wetter kurz, bevor Sie weiterradeln, um nicht zu sehr auszukühlen.",
+                "hu": "Csodálja meg a polgári építészetet. Esős időben érdemes csak gyorsan megtekinteni, mielőtt továbbteker, hogy elkerülje az átázást.",
+                "ro": "Admirați arhitectura civică. Pe vreme ploioasă, priviți clădirea rapid înainte de a pedala mai departe pentru a nu vă uda prea tare.",
+                "en": "Admire the classic civic architecture. In wet weather, view it quickly from your bike before pedaling on to avoid getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire-Kirche",
+                "hu": "Saint-Hilaire Templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Buntglasfenster. Ein perfekter, trockener Zwischenstopp, um sich auf Ihrer verregneten Radtour kurz aufzuwärmen.",
+                "hu": "Fedezze fel az ólomüveg ablakokat. Tökéletes, száraz megállóhely, ahol egy kicsit megpihenhet az esős kerékpártúra során.",
+                "ro": "Explorați vitraliile uimitoare. Un loc uscat perfect pentru a face o pauză scurtă și a vă scutura de ploaie în timpul turului pe bicicletă.",
+                "en": "Explore the stunning stained glass. It serves as a perfect dry pitstop to shake off the rain during your wet cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle von Halluin",
+                "hu": "Halluini Szélmalom",
+                "ro": "Moara de Vânt Halluin",
+                "en": "Halluin Windmill"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Mechanik der Mühle. Seien Sie beim Parken des Fahrrads auf nassem Gras vorsichtig, und meiden Sie die rutschigen Holztreppen.",
+                "hu": "Ismerje meg a malom mechanikáját. Legyen óvatos, amikor a kerékpárt a nedves fűben parkolja le, és kerülje a csúszós falépcsőket.",
+                "ro": "Descoperiți mecanismul morii. Aveți grijă când parcati bicicleta pe iarba udă și evitați treptele exterioare din lemn care sunt foarte alunecoase.",
+                "en": "Discover the mill's mechanics. Be careful when parking your bike on wet grass, and completely avoid the slippery wooden exterior steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la tuilerie",
+                "hu": "Étang de la tuilerie",
+                "ro": "Étang de la tuilerie",
+                "en": "Étang de la tuilerie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Natur des Sees. Unbefestigte Wege verwandeln sich bei Regen in rutschigen Schlamm, bleiben Sie also fest auf den härteren Schotterwegen.",
+                "hu": "Élvezze e békés tó természeti szépségét. A burkolatlan ösvények esőben gyorsan csúszós sárrá változnak, ezért maradjon a keményebb kavicsos utakon.",
+                "ro": "Bucurați-vă de frumusețea naturală a lacului. Traseele nepavate devin rapid noroi alunecos pe ploaie, deci rămâneți ferm pe cărările de pietriș.",
+                "en": "Enjoy the natural beauty of this lake. Unpaved trails quickly turn into slippery mud during the rain, so stick firmly to the harder gravel paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Halluin",
+                "hu": "Halluin Kikötő",
+                "ro": "Portul de Agrement Halluin",
+                "en": "Marina of Halluin"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die sanft schaukelnden Boote. Die Uferwege werden bei Regen matschig, fahren Sie langsam, um nicht wegzurutschen.",
+                "hu": "Figyelje meg a kikötőben ringatózó hajókat. A vízparti ösvények esőzéskor sarasak lesznek, tekerjen lassan, nehogy megcsússzon a kerékpárja.",
+                "ro": "Priviți bărcile ancorate. Căile de pe malul apei devin destul de noroioase în timpul ploii, pedalați încet pentru a preveni alunecarea.",
+                "en": "Watch the boats gently bobbing. The waterside cycling paths become quite muddy during rainfall, so pedal slowly to prevent your tires from slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Huppel De Pup",
+                "hu": "Huppel De Pup",
+                "ro": "Huppel De Pup",
+                "en": "Huppel De Pup"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie dieses familienorientierte Ziel. Es ist der absolut perfekte Rückzugsort, um dem starken Nachmittagsregen zu entkommen.",
+                "hu": "Fedezze fel ezt a családközpontú célpontot. Abszolút tökéletes beltéri menedék, hogy elkerülje a heves délutáni esőzést a biciklitúra végén.",
+                "ro": "Descoperiți această destinație distractivă. Este refugiul perfect la interior pentru a scăpa de ploaia grea de după-amiază după ce ați pedalat.",
+                "en": "Discover this fun family destination. It serves as the absolute perfect indoor retreat to escape the heavy afternoon rain and dry off completely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft beim Radeln ist erfrischend. Die Straßen können morgens am Rathaus frostig sein. Genießen Sie mittags die friedliche Winterlandschaft am See und an der Mühle, aber Vorsicht vor eisigem Wind. Wärmen Sie sich nachmittags an den Jugendplätzen auf, bevor die frühe Abenddämmerung am Yachthafen hereinbricht. Thermo-Fahrradbekleidung ist Pflicht!",
+            "hu": "A ropogós téli levegőn való kerékpározás frissítő. Az utak reggel a Városházánál fagyosak lehetnek. Délben élvezze a békés téli tájat a tónál és a malomnál, de vigyázzon a jeges széllel. Délután melegedjen fel az ifjúsági helyszíneken, mielőtt a korai szürkület beáll a kikötőben. A termo kerékpáros ruházat kötelező!",
+            "ro": "Aerul curat de iarnă pe bicicletă este revigorant. Drumurile pot fi înghețate dimineața la Primărie. La prânz, bucurați-vă de peisajul de iarnă liniștit la lac și moară, dar atenție la vântul tăios. Încălziți-vă după-amiaza la locurile de tineret înainte să cadă amurgul devreme la port. Echipamentul termic este obligatoriu!",
+            "en": "Crisp winter air while biking is refreshing. Roads might be frosty near the Town Hall in the morning. Midday, enjoy the peaceful winter scenery at the lake and windmill, but watch out for icy winds. Warm up at the family spots in the afternoon before the early 5 PM dusk settles over the marina. Thermal cycling gear is a must!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus Halluin",
+                "hu": "Halluin Városháza",
+                "ro": "Primăria Halluin",
+                "en": "Halluin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die schöne Fassade. Der Fahrtwind macht es extrem kalt, also machen Sie nur eine kurze Pause, bevor Sie sich warmradeln.",
+                "hu": "Vegye szemügyre a gyönyörű homlokzatot. A menetszél extrém hideg lehet, ezért csak röviden álljon meg, mielőtt továbbteker, hogy felmelegedjen.",
+                "ro": "Observați fațada frumoasă. Vântul de la pedalat face să fie extrem de frig, așa că faceți doar o scurtă pauză înainte de a merge mai departe.",
+                "en": "Notice the beautiful facade. The cycling wind makes it extremely cold, so only take a brief pause before pedaling on to keep your body warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire-Kirche",
+                "hu": "Saint-Hilaire Templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die religiöse Kunst. Ein perfekter Ort, um abzusteigen und sich drinnen aufzuwärmen, bevor Sie Ihre Wintertour fortsetzen.",
+                "hu": "Csodálja meg a vallási művészetet. Tökéletes hely, hogy leszálljon a bicikliről és bent felmelegedjen, mielőtt folytatná a téli túrát.",
+                "ro": "Minunați-vă de arta religioasă. Un loc perfect pentru a coborî de pe bicicletă și a vă încălzi în interior înainte de a continua turul de iarnă.",
+                "en": "Marvel at the religious art. A perfect spot to dismount your bike and warm up inside before braving the winter chill for the rest of your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle von Halluin",
+                "hu": "Halluini Szélmalom",
+                "ro": "Moara de Vânt Halluin",
+                "en": "Halluin Windmill"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die lokale Mühlengeschichte. Der offene Bereich um die Mühle ist starkem, eisigem Wind ausgesetzt, ziehen Sie die Handschuhe fest.",
+                "hu": "Tudjon meg többet a helyi malomtörténetről. A malom körüli nyitott terület erős, jeges szélnek van kitéve, húzza meg jól a kesztyűjét.",
+                "ro": "Aflați despre istoria morăritului. Zona deschisă din jurul morii este expusă vânturilor puternice și înghețate, strângeți-vă bine mănușile.",
+                "en": "Learn about milling history. The open area around the mill is exposed to strong icy winds, so make sure your cycling gloves are pulled up tight."
+              }
+            },
+            {
+              "name": {
+                "de": "Étang de la tuilerie",
+                "hu": "Étang de la tuilerie",
+                "ro": "Étang de la tuilerie",
+                "en": "Étang de la tuilerie"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frostigen Teich. Die feuchte Winterluft am Wasser ist extrem kalt, daher ist dicke Thermo-Radkleidung hier unerlässlich.",
+                "hu": "Figyelje meg a fagyos tavat. A vízparti nedves téli levegő áthatóan hideg, ezért a vastag termo kerékpáros ruházat itt elengedhetetlen.",
+                "ro": "Observați iazul înghețat. Aerul umed de iarnă de lângă apă este extrem de rece, așa că purtarea straturilor termice pentru ciclism este esențială.",
+                "en": "Observe the quiet, frosty pond. The damp winter air by the water is piercingly cold, so wearing thick thermal cycling layers is absolutely essential."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Halluin",
+                "hu": "Halluin Kikötő",
+                "ro": "Portul de Agrement Halluin",
+                "en": "Marina of Halluin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die nautische Aussicht. Die Sonne geht gegen 17 Uhr unter und bietet eine wunderschöne, aber eisige Dämmerung für Ihre Rückfahrt.",
+                "hu": "Gyönyörködjön a tengeri kilátásban. A nap 17 óra körül nyugszik, gyönyörű, de fagyos szürkületet kínálva a visszaútra, kapcsolja be a lámpákat!",
+                "ro": "Bucurați-vă de priveliștile nautice. Soarele apune în jurul orei 17:00, oferind un amurg frumos, dar înghețat pentru drumul de întoarcere; aprindeți farurile!",
+                "en": "Take in the serene nautical views. The sun sets around 5 PM, offering a beautiful but freezing twilight; make sure your bike lights are turned on!"
+              }
+            },
+            {
+              "name": {
+                "de": "Huppel De Pup",
+                "hu": "Huppel De Pup",
+                "ro": "Huppel De Pup",
+                "en": "Huppel De Pup"
+              },
+              "tip_5lang": {
+                "de": "Ein lebendiger Ort, der Freude bringt. Treten Sie ein, um Ihre frierenden Zehen nach einer langen Winterradtour durch die Stadt aufzutauen.",
+                "hu": "Élénk hely, amely örömet okoz. Lépjen be, hogy felolvassza fagyos lábujjait egy hosszú, városon átívelő téli kerékpározás után.",
+                "ro": "Un loc plin de viață care aduce bucurie. Intrați pentru a vă dezgheța degetele înghețate după un lung ciclu de iarnă prin oraș.",
+                "en": "A lively spot that brings joy. Step inside to thaw your freezing toes after a long winter cycle through the city and enjoy the cozy atmosphere."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autós kirándulás a békés Étang de la tuilerie-nél kezdődik, mielőtt a történelmi szélmalomhoz és a templomhoz hajtanánk. Dél körül a városközpontba érve teszünk egy gyors kitérőt a Városházánál. A délutánt a gyönyörű kikötőben való pihenésnek szenteljük. Ahogy közeledik az este, a családbarát megállók tökéletesen lezárják az utazást.",
         "ro": "Călătoria dvs. cu mașina începe la liniștitul Étang de la tuilerie, înainte de a vă îndrepta spre Moara de vânt istorică. În jurul prânzului, veți naviga în centrul orașului pentru o scurtă oprire la Primărie. După-amiaza este rezervată relaxării la port. Spre seară, opririle pentru familii la Huppel De Pup încheie perfect această călătorie.",
         "en": "Your road trip starts at the peaceful Étang de la tuilerie, setting a tranquil tone before heading to the historic Windmill and Church. Around noon, you will navigate the town center for a quick stop at the Town Hall. The afternoon is reserved for unwinding at the beautiful Marina. As evening approaches, family-friendly stops at Huppel De Pup and AvonTUURKE perfectly conclude the journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Auto ist ideal, um Halluin an einem regnerischen Tag zu erkunden. Fahren Sie morgens zum See und zur Windmühle und steigen Sie nur kurz mit Regenschirm aus. Parken Sie mittags in der Nähe der Kirche und des Rathauses für schnelle Wege nach drinnen. Fahren Sie nachmittags hinunter zum Yachthafen und zu den überdachten Familienzentren und genießen Sie die nasse Stadtlandschaft aus dem Trockenen.",
+            "hu": "Az autó ideális Halluin felfedezéséhez egy esős napon. Reggel vezessen a tóhoz és a szélmalomhoz, csak röviden szálljon ki esernyővel. Délben parkoljon a templom és a városháza közelében, hogy gyorsan bejuthasson. Délután guruljon le a kikötőbe és a fedett családi központokhoz, élvezve a nedves városképet a száraz járművéből.",
+            "ro": "O mașină este ideală pentru a explora Halluin într-o zi ploioasă. Conduceți dimineața la lac și la moara de vânt, ieșind scurt cu o umbrelă. La prânz, parcați lângă biserică și primărie pentru a intra rapid la adăpost. După-amiaza, coborâți spre port și centrele familiale acoperite, bucurându-vă de peisajul umed din vehiculul uscat.",
+            "en": "A car is ideal for exploring Halluin on a rainy day. Drive first to the lake and windmill, stepping out briefly with an umbrella. Midday, park near the church and town hall for quick dashes indoors. Finally, cruise down to the marina and indoor family centers, enjoying the moody, wet city views comfortably from your dry vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Étang de la tuilerie",
+                "hu": "Étang de la tuilerie",
+                "ro": "Étang de la tuilerie",
+                "en": "Étang de la tuilerie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die natürliche Schönheit dieses Sees. Wenn der Regen zu stark ist, parken Sie in der Nähe und betrachten Sie das trübe Wasser aus dem Auto.",
+                "hu": "Élvezze a tó természeti szépségét. Ha túl heves az eső, parkoljon le a közelben, és figyelje a borongós vizet az autó kényelméből.",
+                "ro": "Bucurați-vă de frumusețea naturală a lacului. Dacă ploaia este prea puternică, parcați aproape și priviți apa mohorâtă din confortul mașinii.",
+                "en": "Enjoy the natural beauty of this lake. If the rain is too heavy, park nearby and watch the moody water comfortably from the dry seats of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle von Halluin",
+                "hu": "Halluini Szélmalom",
+                "ro": "Moara de Vânt Halluin",
+                "en": "Halluin Windmill"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Mechanik dieses Bauwerks. Achten Sie beim Aussteigen aus dem Auto auf Pfützen und meiden Sie die rutschigen Außentreppen.",
+                "hu": "Ismerje meg az építmény mechanikáját. Amikor kiszáll az autóból, ügyeljen a tócsákra, és feltétlenül kerülje el a csúszós külső lépcsőket.",
+                "ro": "Descoperiți mecanismul acestei structuri. Când coborâți din mașină, aveți grijă la bălți și evitați treptele exterioare foarte alunecoase.",
+                "en": "Discover the mechanics of this structure. When stepping out of your car, watch out for deep puddles and avoid the extremely slippery exterior steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire-Kirche",
+                "hu": "Saint-Hilaire Templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die wunderschönen Buntglasfenster. Ein kurzer Spurt vom Parkplatz bringt Sie in dieses perfekte, trockene Heiligtum.",
+                "hu": "Fedezze fel a gyönyörű ólomüveg ablakokat. Egy gyors sprint a parkolóból egyenesen ebbe a tökéletes, száraz szentélybe vezet.",
+                "ro": "Explorați vitraliile uimitoare. Un sprint rapid de la locul de parcare vă va duce direct în acest sanctuar uscat și perfect.",
+                "en": "Explore the stunning stained glass. A very quick dash from your parking spot will bring you straight into this perfect, dry sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Halluin",
+                "hu": "Halluin Városháza",
+                "ro": "Primăria Halluin",
+                "en": "Halluin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die klassische bürgerliche Architektur. Bei nassem Wetter reicht ein kurzer Blick vom Bürgersteig unter Ihrem Regenschirm völlig aus.",
+                "hu": "Csodálja meg a klasszikus polgári építészetet. Nedves időben bőven elég egy gyors pillantás a járdáról a masszív esernyője alól.",
+                "ro": "Admirați arhitectura civică clasică. Pe vreme umedă, o privire rapidă de pe trotuar de sub umbrela dumneavoastră este mai mult decât suficientă.",
+                "en": "Admire the classic civic architecture. In wet weather, a very quick view from the sidewalk under your umbrella is perfectly sufficient."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Halluin",
+                "hu": "Halluin Kikötő",
+                "ro": "Portul de Agrement Halluin",
+                "en": "Marina of Halluin"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die schaukelnden Boote. Wenn die Uferwege zu matschig sind, genießen Sie den Blick auf das Wasser direkt von Ihrem geparkten Auto aus.",
+                "hu": "Figyelje meg a ringatózó hajókat. Ha a vízparti ösvények túl sarasak lennének, élvezze a kilátást a vízre közvetlenül a leparkolt autóból.",
+                "ro": "Priviți bărcile ancorate. Dacă căile de pe malul apei sunt prea noroioase, bucurați-vă de priveliștea apei direct din mașina parcată.",
+                "en": "Watch the docked boats. If the waterside paths become excessively muddy, simply enjoy the pleasant water views straight from your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Huppel De Pup",
+                "hu": "Huppel De Pup",
+                "ro": "Huppel De Pup",
+                "en": "Huppel De Pup"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie dieses familienorientierte Ziel. Es dient als perfekter überdachter Rückzugsort, um dem starken Nachmittagsregen zu entkommen.",
+                "hu": "Fedezze fel ezt a családközpontú célpontot. Abszolút tökéletes beltéri menedék, hogy elkerülje a heves délutáni esőzést és mindenkit szórakoztasson.",
+                "ro": "Descoperiți această destinație de familie. Servește ca refugiu interior perfect pentru a scăpa de ploaia grea de după-amiază și a vă distra.",
+                "en": "Discover this family-oriented destination. It serves as the absolute perfect indoor retreat to completely escape the heavy afternoon rain."
+              }
+            },
+            {
+              "name": {
+                "de": "AvonTUURKE",
+                "hu": "AvonTUURKE",
+                "ro": "AvonTUURKE",
+                "en": "AvonTUURKE"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag an diesem spannenden Indoor-Familienort. Eine fantastische trockene Alternative, wenn der Regen draußen einfach nicht nachlässt.",
+                "hu": "Zárja a napot ezen az izgalmas beltéri családi helyszínen. Fantasztikus száraz alternatíva, amikor az eső egyszerűen nem akar elállni odakint.",
+                "ro": "Încheiați ziua la această locație interioară pentru familii. O alternativă uscată fantastică atunci când ploaia pur și simplu nu se oprește afară.",
+                "en": "Wrap up your day at this exciting indoor family venue. It’s a fantastic dry alternative when the heavy rain simply won't let up outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Fahrt durch das winterliche Halluin. Beginnen Sie morgens am frostigen See und besuchen Sie die historische Windmühle. Die Sitzheizung im Auto macht die kühlen Fahrten zwischen Kirche und Rathaus angenehm. Genießen Sie am späten Nachmittag die Lichter am Yachthafen und beenden Sie den Tag in den warmen Familienzentren, bevor es um 17 Uhr dunkel wird.",
+            "hu": "Hangulatos autózás a télies Halluinban. Kezdje a reggelt a fagyos tónál, majd látogassa meg a történelmi szélmalmot. Az autó ülésfűtése kellemessé teszi a templom és a városháza közötti hűvös utakat. Késő délután élvezze a kikötő fényeit, majd fejezze be a napot a meleg családi központokban, mielőtt 17 órakor besötétedik.",
+            "ro": "O plimbare confortabilă cu mașina prin Halluin iarna. Începeți dimineața la iazul înghețat și vizitați moara de vânt istorică. Încălzirea mașinii face ca drumurile scurte între biserică și primărie să fie plăcute. Târziu după-amiaza, bucurați-vă de luminile din port și încheiați ziua la centrele de familie calde înainte de întunericul de la ora 17:00.",
+            "en": "A cozy drive through wintery Halluin. Start your crisp morning at the frosty lake and visit the historic windmill. The car's heating makes the chilly hops between the church and town hall very pleasant. By late afternoon, enjoy the early lights at the marina and wrap up at the warm family centers before it gets completely dark around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Étang de la tuilerie",
+                "hu": "Étang de la tuilerie",
+                "ro": "Étang de la tuilerie",
+                "en": "Étang de la tuilerie"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die frostige Natur. Die feuchte Winterluft am Wasser ist extrem kalt; wärmen Sie sich danach schnell im Auto auf.",
+                "hu": "Figyelje meg a fagyos tavat. A vízparti nedves téli levegő áthatóan hideg; utána gyorsan melegedjen fel a fűtött autóban.",
+                "ro": "Observați iazul înghețat. Aerul umed de iarnă de lângă apă este extrem de rece; încălziți-vă rapid în mașină după vizită.",
+                "en": "Observe the quiet, frosty pond. The damp winter air by the water is piercingly cold, so be sure to blast the car heater once you return."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühle von Halluin",
+                "hu": "Halluini Szélmalom",
+                "ro": "Moara de Vânt Halluin",
+                "en": "Halluin Windmill"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie mehr über die Mühlengeschichte. Der offene Bereich um die Mühle ist starkem, eisigem Wind ausgesetzt, tragen Sie einen Schal.",
+                "hu": "Tudjon meg többet a malomtörténetről. A malom körüli nyitott terület erős, jeges szélnek van kitéve, viseljen jó meleg sálat.",
+                "ro": "Aflați despre istoria morăritului. Zona deschisă din jurul morii este expusă vânturilor puternice și înghețate, purtați un fular gros.",
+                "en": "Learn about milling history here. The open area around the mill is exposed to strong icy winds, so make sure to wear a very thick scarf outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire-Kirche",
+                "hu": "Saint-Hilaire Templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die religiöse Kunst. Dieser friedliche Ort ist ideal, um sich nach einem kalten Spaziergang vom Parkplatz aufzuwärmen.",
+                "hu": "Csodálja meg a vallási művészetet. Ez a békés szentély ideális hely a felmelegedésre a parkolóból tett hideg séta után.",
+                "ro": "Minunați-vă de arta religioasă. Acest sanctuar liniștit este locul ideal pentru a vă încălzi după o scurtă plimbare rece din parcare.",
+                "en": "Marvel at the beautiful religious art. This peaceful sanctuary is the perfect spot to warm up after a brief, cold walk from your parking spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus Halluin",
+                "hu": "Halluin Városháza",
+                "ro": "Primăria Halluin",
+                "en": "Halluin Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die schöne Fassade dieses Zentrums. Da es draußen sehr kühl ist, können Sie die Architektur auch bequem vom warmen Auto aus bewundern.",
+                "hu": "Vegye szemügyre a gyönyörű homlokzatot. Mivel kint nagyon hideg van, a fűtött autóból is kényelmesen megcsodálhatja az építészetet.",
+                "ro": "Observați fațada frumoasă. Deoarece este foarte frig afară, puteți admira arhitectura confortabil din mașina încălzită.",
+                "en": "Notice the beautiful facade. Since it gets very chilly standing outside, you can comfortably admire the architecture straight from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Yachthafen von Halluin",
+                "hu": "Halluin Kikötő",
+                "ro": "Portul de Agrement Halluin",
+                "en": "Marina of Halluin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die nautische Aussicht. Die Sonne geht gegen 17 Uhr unter und bietet eine wunderschöne, eisige Dämmerung; schalten Sie das Autolicht ein.",
+                "hu": "Gyönyörködjön a tengeri kilátásban. A nap 17 óra körül nyugszik, gyönyörű, fagyos szürkületet kínálva; ne felejtse el felkapcsolni a fényszórókat.",
+                "ro": "Bucurați-vă de priveliștile nautice. Soarele apune în jurul orei 17:00, oferind un amurg frumos, înghețat; asigurați-vă că farurile sunt aprinse.",
+                "en": "Take in the serene nautical views. The sun sets around 5 PM, offering a freezing twilight over the boats; ensure your car headlights are on."
+              }
+            },
+            {
+              "name": {
+                "de": "Huppel De Pup",
+                "hu": "Huppel De Pup",
+                "ro": "Huppel De Pup",
+                "en": "Huppel De Pup"
+              },
+              "tip_5lang": {
+                "de": "Ein lebendiger Ort, der Freude bringt. Treten Sie ein, um dem eisigen Winterwetter zu entfliehen und die gemütliche Innenatmosphäre zu genießen.",
+                "hu": "Élénk hely, amely örömet okoz. Lépjen be, hogy elmeneküljön a jeges téli időjárás elől, és élvezze a hangulatos beltéri atmoszférát.",
+                "ro": "Un loc plin de viață care aduce bucurie. Intrați pentru a scăpa de vremea înghețată de iarnă și a vă bucura de atmosfera confortabilă de interior.",
+                "en": "A lively spot that brings joy. Step inside to completely escape the icy winter weather and thoroughly enjoy the cozy indoor atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "AvonTUURKE",
+                "hu": "AvonTUURKE",
+                "ro": "AvonTUURKE",
+                "en": "AvonTUURKE"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Roadtrip hier mit lustigen Aktivitäten. Die Innenraumheizung bietet eine willkommene Erleichterung, wenn der dunkle Winterabend hereinbricht.",
+                "hu": "Fejezze be az autós utazást szórakoztató tevékenységekkel. A benti fűtés nagyon szívesen látott megkönnyebbülés, ahogy a sötét téli este beáll.",
+                "ro": "Finalizați-vă călătoria cu activități distractive. Încălzirea interioară oferă o ușurare binevenită pe măsură ce se instalează seara întunecată de iarnă.",
+                "en": "Finish your road trip with fun activities here. The indoor heating provides a very welcome relief as the dark, cold winter evening sets in."
+              }
+            }
+          ]
+        }
       }
     }
   }

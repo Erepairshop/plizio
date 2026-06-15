@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot a Tancat de sa Torre természetvédelmi területén, majd fedezze fel az Arenal dels Ases rejtett kincsét. A déli napfény a S'Arenal Gran és Petit partjain csábít pihenésre. Délután megismerheti a Punta de sa Bateria történelmét, és megcsodálhatja a Cova Foradada sziklaalakzatait. Sétája a festői Punta de ses Crestesnél ér véget, naplemente kíséretében.",
         "ro": "Începeți ziua înconjurați de natura de la Tancat de sa Torre, înainte de a descoperi bijuteria ascunsă Arenal dels Ases. Soarele amiezii vă invită la relaxare pe S'Arenal Gran și Petit. După-amiaza, veți explora istoria Punta de sa Bateria și veți admira stâncile de la Cova Foradada. Încheiați plimbarea la emblematicul Punta de ses Crestes cu un apus spectaculos.",
         "en": "Start the day surrounded by nature at Tancat de sa Torre before discovering the hidden gem of Arenal dels Ases. The mid-day sun invites you to relax at S'Arenal Gran and S'Arenal Petit. In the afternoon, you will explore Punta de sa Bateria's history and admire the rocky formations at Cova Foradada. End your walking tour at the iconic Punta de ses Crestes for stunning sunset views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nasser Morgen an der Küste, der gute Regenkleidung erfordert. Mittags gibt es neblige Ausblicke auf die Buchten. Nachmittags ist an den felsigen Aussichtspunkten Vorsicht geboten. Abends im Warmen entspannen.",
+            "hu": "Esős reggel a tengerparton, vízálló kabátban fedezzük fel a környéket. Délben párás kilátás nyílik az öblökre. Délután a sziklás kilátóknál óvatos léptekre van szükség. Este melegedjünk fel egy benti helyen.",
+            "ro": "O dimineață umedă explorând coasta, purtând o haină de ploaie bună. La prânz avem vederi cețoase asupra golfurilor. Vântul de după-amiază la punctele de belvedere necesită atenție. Seara ne retragem la căldură.",
+            "en": "A wet morning exploring the coast, wearing a good raincoat. Midday brings misty views over the bays. Afternoon winds at the viewpoints require caution. Evening calls for a warm indoor retreat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tancat de sa Torre",
+                "hu": "Tancat de sa Torre",
+                "ro": "Tancat de sa Torre",
+                "en": "Tancat de sa Torre"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie wasserdichte Schuhe; das historische Anwesen ist schlammig, aber bei Regen sehr stimmungsvoll.",
+                "hu": "Húzzon vízálló bakancsot; a történelmi birtok környéke saras, de az esőben hihetetlenül hangulatos.",
+                "ro": "Purtați cizme impermeabile; zona istorică este noroioasă, dar incredibil de atmosferică în ploaie.",
+                "en": "Wear waterproof boots; the historic estate area is muddy but incredibly atmospheric in the gentle rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Arenal dels Ases",
+                "hu": "Arenal dels Ases",
+                "ro": "Arenal dels Ases",
+                "en": "Arenal dels Ases"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Regenschirm mit; das raue Meer sieht unter dem dunklen, grauen Himmel dramatisch aus.",
+                "hu": "Hozzon egy masszív esernyőt ehhez a kis strandhoz; a viharos tenger drámaian fest a sötét égbolt alatt.",
+                "ro": "Aduceți o umbrelă robustă; marea agitată arată dramatic sub cerul întunecat și greu de ploaie.",
+                "en": "Bring a sturdy umbrella for this small beach; the rough sea looks dramatic under the dark, heavy grey skies."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Gran",
+                "hu": "S'Arenal Gran",
+                "ro": "S'Arenal Gran",
+                "en": "S'Arenal Gran"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen in der Bucht aus sicherer Entfernung; eine gute Windjacke ist hier unerlässlich.",
+                "hu": "Figyelje tisztes távolból, ahogy az eső veri az öblöt; a parti szél miatt egy jó széldzseki elengedhetetlen.",
+                "ro": "Priviți ploaia lovind golful de la distanță; o jachetă de vânt este esențială pentru briza de coastă.",
+                "en": "Watch the rain hit the larger bay from a safe distance; a quality windbreaker is essential for the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Petit",
+                "hu": "S'Arenal Petit",
+                "ro": "S'Arenal Petit",
+                "en": "S'Arenal Petit"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist nass, bleiben Sie auf den Wegen und genießen Sie die ruhige, neblige Bucht ohne Menschenmassen.",
+                "hu": "A homok nedves, maradjon a kövezett részeken, és élvezze a csendes, ködös öblöt a nyári tömeg nélkül.",
+                "ro": "Nisipul este ud, rămâneți pe secțiunile pavate și bucurați-vă de golful liniștit și cețos, fără aglomerație.",
+                "en": "The sand is wet, so stay on the paved sections and enjoy the quiet, misty cove without the usual summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de sa Bateria",
+                "hu": "Punta de sa Bateria",
+                "ro": "Punta de sa Bateria",
+                "en": "Punta de sa Bateria"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den rutschigen Felsen; die alte Batterie bietet wilde Meeresblicke, treten Sie sehr vorsichtig auf.",
+                "hu": "Óvatosan a csúszós sziklákon; a régi üteg helyén vad, esős tengeri kilátás nyílik, lépjen nagyon lassan.",
+                "ro": "Aveți grijă pe stâncile alunecoase; vechea baterie oferă vederi sălbatice spre mare, pășiți cu prudență.",
+                "en": "Be careful on the slippery rocks; the old battery site offers wild, rainy sea views, so step with great caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Cova Foradada",
+                "hu": "Mirador de la Cova Foradada",
+                "ro": "Mirador de la Cova Foradada",
+                "en": "Mirador de la Cova Foradada"
+              },
+              "tip_5lang": {
+                "de": "Der durchlöcherte Fels wirkt im Nebel mystisch, aber halten Sie sich am Geländer fest, der Weg ist glatt.",
+                "hu": "A lyukas szikla misztikus a ködben, de kapaszkodjon erősen a korlátba, mert a kőösvény rendkívül csúszós.",
+                "ro": "Stânca perforată arată mistic în ceață, dar țineți-vă bine de balustradă, deoarece poteca este alunecoasă.",
+                "en": "The pierced rock looks mystical in the mist, but hold onto the railing tightly as the stone path is very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de ses Crestes",
+                "hu": "Punta de ses Crestes",
+                "ro": "Punta de ses Crestes",
+                "en": "Punta de ses Crestes"
+              },
+              "tip_5lang": {
+                "de": "Bei Stürmen gibt es hier starke Winde, werfen Sie einen kurzen Blick auf die Wellen und suchen Sie Schutz.",
+                "hu": "Viharok idején erős szél fúj itt, vessen egy gyors pillantást a hullámokra, majd térjen vissza a menedékbe.",
+                "ro": "Vânturi puternice lovesc aici în timpul furtunilor, aruncați o privire rapidă la valuri, apoi adăpostiți-vă.",
+                "en": "Strong winds often hit this point during storms, take a quick look at the waves, then head back to shelter safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frischer Morgenstart in warmen Schichten. Mittags friedliche Spaziergänge an einsamen Stränden unter klarem Himmel. Nachmittags ist das Licht an den Klippen atemberaubend. Der Sonnenuntergang beginnt schon früh.",
+            "hu": "Friss téli reggel, meleg rétegekbe öltözve indulunk. Délben békés sétákat teszünk az elhagyatott strandokon. Délután a szikláknál csodás a lemenő nap fénye. Este már 5 óra körül sötétedik, jöhet a vacsora.",
+            "ro": "Dimineață răcoroasă, îmbrăcați în straturi calde. La prânz ne bucurăm de plimbări pe plajele pustii. Lumina de după-amiază la stânci este superbă. Seara vine devreme, apusul fiind în jur de ora 17:00.",
+            "en": "Crisp morning start, wrapped in warm layers. Midday offers peaceful walks along deserted beaches under a clear sky. Afternoon golden hour at the cliffs is stunning. Evening sunset hits early around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tancat de sa Torre",
+                "hu": "Tancat de sa Torre",
+                "ro": "Tancat de sa Torre",
+                "en": "Tancat de sa Torre"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an, während Sie die historische ländliche Umgebung in absoluter winterlicher Ruhe erkunden.",
+                "hu": "Öltözzön rétegesen a reggeli hidegben, miközben teljes téli békében fedezi fel a történelmi vidéki környezetet.",
+                "ro": "Îmbrăcați-vă în straturi pentru frigul dimineții în timp ce explorați împrejurimile istorice în liniște deplină.",
+                "en": "Layer up for the morning chill while exploring the historic rural surroundings in absolute winter peace and quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Arenal dels Ases",
+                "hu": "Arenal dels Ases",
+                "ro": "Arenal dels Ases",
+                "en": "Arenal dels Ases"
+              },
+              "tip_5lang": {
+                "de": "Der leere Winterstrand ist perfekt für einen ruhigen Spaziergang; der Sand ist fest und kühl, ideal für eine Pause.",
+                "hu": "Az üres téli strand tökéletes egy csendes sétára; a homok hűvös és szilárd, ideális egy békés pihenőhöz.",
+                "ro": "Plaja goală de iarnă este perfectă pentru o plimbare liniștită; nisipul este ferm, ideal pentru o pauză relaxantă.",
+                "en": "The empty winter beach is perfect for a quiet stroll; the sand is firm and cool, ideal for a peaceful walking break."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Gran",
+                "hu": "S'Arenal Gran",
+                "ro": "S'Arenal Gran",
+                "en": "S'Arenal Gran"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die weite, verlassene Bucht; ein warmer Schal ist gegen die frische Küstenbrise sehr zu empfehlen.",
+                "hu": "Élvezze a széles, elhagyatott öblöt; egy meleg sál erősen ajánlott a frissítő, csípős parti szellő ellen.",
+                "ro": "Bucurați-vă de golful larg și pustiu; o eșarfă caldă este recomandată împotriva brizei revigorante de coastă.",
+                "en": "Enjoy the wide, deserted bay; a warm scarf is highly recommended against the brisk and refreshing coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Petit",
+                "hu": "S'Arenal Petit",
+                "ro": "S'Arenal Petit",
+                "en": "S'Arenal Petit"
+              },
+              "tip_5lang": {
+                "de": "Diese geschützte Bucht fängt die milde Wintersonne ein und ist ein schöner, warmer Ort für eine kurze Rast.",
+                "hu": "Ez a védett öböl felfogja a lágy téli napsütést, így kellemes, meleg helyet biztosít egy rövid délutáni pihenőhöz.",
+                "ro": "Acest golf adăpostit captează soarele blând de iarnă, fiind un loc plăcut și cald pentru o scurtă odihnă.",
+                "en": "This sheltered cove traps some of the gentle winter sun, making it a nice, warm spot for a brief afternoon rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de sa Bateria",
+                "hu": "Punta de sa Bateria",
+                "ro": "Punta de sa Bateria",
+                "en": "Punta de sa Bateria"
+              },
+              "tip_5lang": {
+                "de": "Der klare Winterhimmel bietet atemberaubende Ausblicke auf die historischen Küstenverteidigungen, ideal für Fotos.",
+                "hu": "A tiszta téli égbolt éles, lenyűgöző kilátást nyújt a történelmi partvédelmi építményekre, ideális fotózáshoz.",
+                "ro": "Cerul senin de iarnă oferă vederi uimitoare peste apărările de coastă istorice, perfecte pentru fotografie.",
+                "en": "Clear winter skies offer sharp, stunning views across the historic coastal defenses, perfect for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Cova Foradada",
+                "hu": "Mirador de la Cova Foradada",
+                "ro": "Mirador de la Cova Foradada",
+                "en": "Mirador de la Cova Foradada"
+              },
+              "tip_5lang": {
+                "de": "Die tiefer stehende Wintersonne beleuchtet die Höhle nachmittags perfekt; bringen Sie eine Sonnenbrille mit.",
+                "hu": "Az alacsonyabban járó téli nap délután tökéletesen megvilágítja a barlangot; hozzon napszemüveget a vakító fény ellen.",
+                "ro": "Soarele de iarnă luminează perfect peștera după-amiaza; aduceți ochelari de soare pentru a evita strălucirea.",
+                "en": "The lower winter sun illuminates the cave perfectly in the afternoon; bring sunglasses to avoid the bright glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de ses Crestes",
+                "hu": "Punta de ses Crestes",
+                "ro": "Punta de ses Crestes",
+                "en": "Punta de ses Crestes"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vor 16:30 Uhr hier, um den frühen Sonnenuntergang zu sehen, und kehren Sie vor Einbruch der Dunkelheit um.",
+                "hu": "Érkezzen 16:30 előtt, hogy elkapja a látványos korai naplementét erről a zord pontról, majd induljon vissza.",
+                "ro": "Ajungeți înainte de 16:30 pentru a prinde apusul spectaculos, apoi întoarceți-vă înainte să se întunece.",
+                "en": "Arrive before 16:30 to catch the spectacular early sunset from this rugged point, then head back before it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Először tekerjen el Closos de Ca'n Gaià ősi településéhez, majd frissüljön fel a Cala Marçal széles homokján. Ezután a part felé véve az irányt, nézze meg a Punta de ses Crestes ikonikus világítótornyát. Délután megáll a Punta de sa Bateria történelmi pontján és két gyönyörű homokos öbölnél. A napot egy festői naplementés biciklizéssel zárja a Tancat de sa Torre területén.",
         "ro": "Pedalați mai întâi spre așezarea antică Closos de Ca'n Gaià, urmată de o baie răcoritoare la Cala Marçal. Apoi, mergeți spre coastă pentru a vedea farul iconic de la Punta de ses Crestes și stâncoasa Cova Foradada. După-amiaza include opriri la istorica Punta de sa Bateria și la două golfuri frumoase de nisip. Încheiați cu o plimbare pitorească la asfințit la Tancat de sa Torre.",
         "en": "Pedal first to the ancient Naviform settlement of Closos de Ca'n Gaià, followed by a refreshing swim at the wide sands of Cala Marçal. Next, ride towards the coast to witness the iconic lighthouse at Punta de ses Crestes and the rocky Cova Foradada. Your afternoon includes stops at the historic Punta de sa Bateria and two beautiful sandy coves. Conclude with a scenic twilight ride at Tancat de sa Torre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgenfahrt mit Regenkleidung zu den Ruinen. Mittags radeln wir an nassen Buchten vorbei, Vorsicht auf rutschigen Straßen. Nachmittags erfordern Küstenwinde ein langsameres Tempo. Abends sichere Rückkehr.",
+            "hu": "Reggeli kerékpározás vízálló felszerelésben a romokhoz. Délben esős öblök mellett tekerünk, vigyázva a csúszós utakra. Délután a parti szél miatt lassítunk. Kora este, ahogy romlik a látási viszony, visszatérünk.",
+            "ro": "Plimbare matinală cu echipament impermeabil spre ruine. La prânz pedalăm pe lângă golfuri, cu grijă pe drumurile ude. Vântul de coastă de după-amiază cere un ritm lent. Seara ne întoarcem în siguranță.",
+            "en": "Morning ride with waterproof gear to the ruins. Midday cycling past rainy bays, taking care on wet roads. Afternoon coastal winds demand a slower pace. Evening return as visibility decreases in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Closos de Ca'n Gaià",
+                "hu": "Closos de Ca'n Gaià",
+                "ro": "Closos de Ca'n Gaià",
+                "en": "Closos de Ca'n Gaià"
+              },
+              "tip_5lang": {
+                "de": "Die bronzezeitliche Stätte ist bei Nässe faszinierend, aber achten Sie auf rutschige Steine und Schlamm.",
+                "hu": "A bronzkori helyszín esőben is lenyűgöző, de tolja a biciklit, mert a kövek és a sár rendkívül csúszósak lehetnek.",
+                "ro": "Situl din Epoca Bronzului este fascinant pe ploaie, dar atenție la pietrele alunecoase când împingeți bicicleta.",
+                "en": "The Bronze Age site is fascinating in the wet, but watch out for slippery stones and mud while walking your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Marçal",
+                "hu": "Cala Marçal",
+                "ro": "Cala Marçal",
+                "en": "Cala Marçal"
+              },
+              "tip_5lang": {
+                "de": "Die weite Bucht ist bei Regen dramatisch; bremsen Sie vorsichtig auf der nassen Abfahrt hinunter zum Strand.",
+                "hu": "A széles öböl drámai az esőben; óvatosan fékezzen a nedves aszfaltos lejtőn, amely levezet a strand területéhez.",
+                "ro": "Golful larg este dramatic în ploaie; frânați cu atenție pe coborârea umedă de asfalt care duce la plajă.",
+                "en": "The wide bay is dramatic in the rain; brake carefully on the wet asphalt descent leading down to the beach area."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de ses Crestes",
+                "hu": "Punta de ses Crestes",
+                "ro": "Punta de ses Crestes",
+                "en": "Punta de ses Crestes"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad gut, da die Küstenwinde bei Stürmen stark sein können, und bleiben Sie weg vom Rand.",
+                "hu": "Jól rögzítse a kerékpárt, mert vihar idején erős a szél, és feltétlenül maradjon távol a sziklaszirtek szélétől.",
+                "ro": "Asigurați-vă bine bicicleta, vânturile de coastă pot fi puternice în furtuni, stați departe de marginea stâncii.",
+                "en": "Secure your bike well, as coastal winds can be strong here during rainstorms, and stay away from the cliff edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Cova Foradada",
+                "hu": "Mirador de la Cova Foradada",
+                "ro": "Mirador de la Cova Foradada",
+                "en": "Mirador de la Cova Foradada"
+              },
+              "tip_5lang": {
+                "de": "Die neblige Meeresansicht ist atemberaubend, aber lassen Sie das Rad auf dem Weg und gehen Sie vorsichtig.",
+                "hu": "A ködös tengeri kilátás lenyűgöző, de hagyja a biciklit az ösvényen, és óvatosan sétáljon a csúszós kilátóhoz.",
+                "ro": "Vederea mării cețoase este uimitoare, dar lăsați bicicleta pe potecă și mergeți cu grijă spre belvedere.",
+                "en": "The misty sea view is stunning, but leave your bike safely on the path and walk carefully to the slick viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de sa Bateria",
+                "hu": "Punta de sa Bateria",
+                "ro": "Punta de sa Bateria",
+                "en": "Punta de sa Bateria"
+              },
+              "tip_5lang": {
+                "de": "Verwenden Sie Schutzbleche, um Spritzer zu vermeiden, während Sie zu diesem historischen Aussichtspunkt fahren.",
+                "hu": "Használjon sárvédőt, hogy elkerülje a felverődő vizet ezen a történelmi úton; a vizes aszfalt elég piszkos lehet.",
+                "ro": "Folosiți apărători de noroi pentru a evita stropirea; drumul ud spre acest punct de belvedere poate fi murdar.",
+                "en": "Use proper mudguards to avoid splashing while riding up to this historic viewpoint; the wet road can be messy."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Petit",
+                "hu": "S'Arenal Petit",
+                "ro": "S'Arenal Petit",
+                "en": "S'Arenal Petit"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp unter den Bäumen ist toll, da der Sand zu nass ist, fahren Sie weiter, um warm zu bleiben.",
+                "hu": "Egy gyors fotószünet a fák alatt tökéletes, a homok túl vizes a pihenéshez, mozogjon tovább, hogy melegen maradjon.",
+                "ro": "O oprire rapidă pentru poze sub copaci este perfectă, nisipul este prea ud, mișcați-vă pentru a rămâne cald.",
+                "en": "A quick photo stop under the trees is great, as the sand is too wet for relaxing, keep moving to stay fairly warm."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Gran",
+                "hu": "S'Arenal Gran",
+                "ro": "S'Arenal Gran",
+                "en": "S'Arenal Gran"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an der Promenade; nasses Laub und Sand können dazu führen, dass die Reifen die Haftung verlieren.",
+                "hu": "Lassítson a parti sétányon; a nedves falevelek és a szél hordta homok miatt a gumik könnyen elvesztik a tapadást.",
+                "ro": "Mergeți încet pe promenada plajei; frunzele ude și nisipul adus de vânt pot face ca anvelopele să alunece.",
+                "en": "Ride slowly along the beach promenade; wet leaves and sand blown onto the path can make your tires lose traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Tancat de sa Torre",
+                "hu": "Tancat de sa Torre",
+                "ro": "Tancat de sa Torre",
+                "en": "Tancat de sa Torre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Fahrt an diesem stimmungsvollen Anwesen; wasserdichte Taschen sind heute ein Muss.",
+                "hu": "Fejezze be a vizes túrát ezen a hangulatos birtokon; a vízálló oldaltáska kötelező, hogy a váltóruha száraz maradjon.",
+                "ro": "Încheiați cursa umedă la acest domeniu atmosferic; gențile impermeabile sunt obligatorii pentru hainele uscate.",
+                "en": "End your wet ride at this atmospheric estate; waterproof panniers are a must to keep your spare clothes dry today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Flotte Morgenrunde an der kühlen Luft. Die Mittagssonne wärmt die ruhigen Strände perfekt auf. Nachmittags ist die Küstensicht im Winterlicht kristallklar. Der Abend naht schnell, die Tour früh beenden.",
+            "hu": "Frissítő reggeli tekerés a hűvös levegőn. A déli napsütés kellemesen felmelegíti a csendes strandokat. Délután a parti kilátás kristálytiszta a téli fényben. Az este gyorsan közeledik, 4:30-ra fejezzük be az utat.",
+            "ro": "Ciclism matinal în aerul rece și proaspăt. Soarele de la prânz încălzește plajele liniștite. Vederile de coastă de după-amiază sunt clare în lumina iernii. Seara vine repede, așa că terminăm traseul devreme.",
+            "en": "Brisk morning cycle in the cool, fresh air. Midday sunshine warms the quiet beaches perfectly. Afternoon coastal views are crystal clear in the winter light. Evening approaches fast, so wrap up the ride by 4:30 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Closos de Ca'n Gaià",
+                "hu": "Closos de Ca'n Gaià",
+                "ro": "Closos de Ca'n Gaià",
+                "en": "Closos de Ca'n Gaià"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft ist perfekt, um diese prähistorische Stätte zu erkunden, ohne in der Winterkleidung zu schwitzen.",
+                "hu": "A hűvös reggeli levegő tökéletes a nyitott őskori lelőhely felfedezésére, anélkül, hogy beleizzadna a téli ruhába.",
+                "ro": "Aerul rece al dimineții este perfect pentru a explora situl preistoric fără a transpira în echipamentul de iarnă.",
+                "en": "The cool morning air is perfect for exploring this open prehistoric site without sweating in your winter gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Marçal",
+                "hu": "Cala Marçal",
+                "ro": "Cala Marçal",
+                "en": "Cala Marçal"
+              },
+              "tip_5lang": {
+                "de": "Der leere Winterstrand ist ein toller Ort, um das Fahrrad zu parken und ein warmes Thermosgetränk zu genießen.",
+                "hu": "Az üres téli strand nagyszerű hely arra, hogy leparkolja a biciklit, és igyon egy forró teát a tengerparton.",
+                "ro": "Plaja goală de iarnă este un loc minunat pentru a parca bicicleta și a savura o băutură caldă din termos.",
+                "en": "The empty winter beach is a great spot to park the bike momentarily and enjoy a warm thermos drink by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de ses Crestes",
+                "hu": "Punta de ses Crestes",
+                "ro": "Punta de ses Crestes",
+                "en": "Punta de ses Crestes"
+              },
+              "tip_5lang": {
+                "de": "Die klare, frische Winterluft bietet von diesem erhöhten felsigen Punkt aus eine unglaubliche Sicht über das Meer.",
+                "hu": "A tiszta, csípős téli levegő hihetetlenül éles kilátást biztosít a tengerre erről a magas, sziklás pontról.",
+                "ro": "Aerul clar și rece de iarnă oferă o vizibilitate incredibilă peste mare de pe acest punct stâncos ridicat.",
+                "en": "The clear, crisp winter air provides incredible visibility across the sea from this elevated rocky point."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Cova Foradada",
+                "hu": "Mirador de la Cova Foradada",
+                "ro": "Mirador de la Cova Foradada",
+                "en": "Mirador de la Cova Foradada"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft schöne Schatten durch den durchlöcherten Felsen; eine leichte Windjacke wird hier benötigt.",
+                "hu": "A téli nap hosszú, gyönyörű árnyékokat vet a lyukas sziklán át; amíg itt pihen, jól jön egy könnyű széldzseki.",
+                "ro": "Soarele de iarnă aruncă umbre lungi prin stânca perforată; o jachetă ușoară de vânt este necesară aici.",
+                "en": "Winter sun casts beautiful, long shadows through the pierced rock; a light windbreaker is needed while pausing here."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de sa Bateria",
+                "hu": "Punta de sa Bateria",
+                "ro": "Punta de sa Bateria",
+                "en": "Punta de sa Bateria"
+              },
+              "tip_5lang": {
+                "de": "Eine flotte Fahrt zur Batterie belohnt Sie mit einsamen, weiten Ausblicken unter der tief stehenden Wintersonne.",
+                "hu": "Egy lendületes tekerés az üteghez magányos, lenyűgöző mediterrán kilátással jutalmazza az alacsony téli nap alatt.",
+                "ro": "O cursă rapidă până la baterie vă recompensează cu vederi solitare și ample asupra Mediteranei iarna.",
+                "en": "A brisk ride to the battery rewards you with solitary, sweeping Mediterranean views under the low winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Petit",
+                "hu": "S'Arenal Petit",
+                "ro": "S'Arenal Petit",
+                "en": "S'Arenal Petit"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Wintermeer macht diese kleine Bucht ideal für eine Pause; vergessen Sie Ihre warmen Handschuhe nicht.",
+                "hu": "A nyugodt téli tenger ideálissá teszi ezt a kis öblöt egy békés pihenőhöz; ne felejtse el a meleg kerékpáros kesztyűt.",
+                "ro": "Marea calmă de iarnă face acest mic golf ideal pentru o pauză liniștită; nu uitați mănușile calde de ciclism.",
+                "en": "The calm winter sea makes this small cove ideal for a peaceful mid-ride break; don't forget your warm cycling gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Gran",
+                "hu": "S'Arenal Gran",
+                "ro": "S'Arenal Gran",
+                "en": "S'Arenal Gran"
+              },
+              "tip_5lang": {
+                "de": "An dem großen Strand vorbeizuradeln ist im Winter eine Freude, völlig frei von Menschenmassen und Sommerhitze.",
+                "hu": "Télen öröm eltekerni a nagy strand mellett, teljesen mentes a hatalmas nyári tömegtől és a tikkasztó hőségtől.",
+                "ro": "Pedalarea pe lângă plaja mare este o bucurie iarna, complet liberă de aglomerația de vară și de căldura intensă.",
+                "en": "Cycling past the large beach is a joy in winter, totally free from the heavy summer crowds and intense heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Tancat de sa Torre",
+                "hu": "Tancat de sa Torre",
+                "ro": "Tancat de sa Torre",
+                "en": "Tancat de sa Torre"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt hier, wenn die Schatten über dem alten Anwesen länger werden, um vor dem Dunkeln zu Hause zu sein.",
+                "hu": "Fejezze be itt a túrát, ahogy az esti árnyékok megnyúlnak az öreg birtokon, így még sötétedés előtt hazaér.",
+                "ro": "Terminați cursa aici, pe măsură ce umbrele serii se lungesc, asigurându-vă că ajungeți acasă înainte de întuneric.",
+                "en": "Finish your ride here as the early evening shadows lengthen over the old estate, ensuring you get home before dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +1024,224 @@
         "hu": "Vezessen a lenyűgöző őskori Closos de Ca'n Gaià lelőhelyhez, mielőtt a népszerű Cala Marçal strandon töltené a délelőttöt. Délben elérkezik a Punta de ses Crestes világítótornyához és a Cova Foradada látványos sziklaívéhez. Töltse a délutánt a S'Arenal Gran és az Arenal dels Ases napfényes strandjainál, és fejezze be autós túráját a Tancat de sa Torre-nél.",
         "ro": "Conduceți la fascinantul sit preistoric Closos de Ca'n Gaià înainte de a vă îndrepta spre populara Cala Marçal. La amiază ajungeți la farul Punta de ses Crestes și la spectaculoasa arcadă Cova Foradada. Petreceți după-amiaza trecând de la plajele însorite S'Arenal Gran la Arenal dels Ases, terminând excursia cu mașina la Tancat de sa Torre.",
         "en": "Drive to the fascinating prehistoric site of Closos de Ca'n Gaià before heading down to the popular Cala Marçal for a relaxing morning beach session. Midday brings you to the lighthouse at Punta de ses Crestes and the striking natural arch of Cova Foradada. Spend your afternoon hopping between the sun-drenched beaches of S'Arenal Gran and Arenal dels Ases, ending the road trip at Tancat de sa Torre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Gemütliche Morgenfahrt zu den historischen Stätten. Mittags beobachten wir die stürmischen Buchten aus dem warmen Auto. Nachmittags kurze Regenpausen für Klippenfotos nutzen. Abends vorsichtig fahren.",
+            "hu": "Kényelmes reggeli autózás a történelmi helyszínekhez. Délben a meleg autóból figyelhetjük a viharos öblöket. Délután az esőszünetek tökéletesek egy gyors fotóra a szikláknál. Este óvatos vezetés a vizes utakon.",
+            "ro": "O plimbare confortabilă dimineața spre siturile istorice. La prânz privim golfurile furtunoase din mașina caldă. Pauzele de ploaie de după-amiază sunt perfecte pentru poze. Seara conducem prudent pe ploaie.",
+            "en": "A cozy morning drive to the historic sites. Midday allows viewing the stormy bays directly from the warm car. Afternoon breaks in the rain are perfect for quick cliff photos. Evening driving carefully on slick roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Closos de Ca'n Gaià",
+                "hu": "Closos de Ca'n Gaià",
+                "ro": "Closos de Ca'n Gaià",
+                "en": "Closos de Ca'n Gaià"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Ruinen und bringen Sie einen Regenschirm mit; die nassen Steine sehen toll aus.",
+                "hu": "Parkoljon közel a romokhoz, és vigyen esernyőt; az ősi, nedves kövek lenyűgözően néznek ki a menedék alól.",
+                "ro": "Parcați aproape de ruine și aduceți o umbrelă; pietrele antice ude arată uimitor de sub adăpostul dumneavoastră.",
+                "en": "Park close to the ruins and bring a good umbrella; the ancient wet stones look striking from under your shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Marçal",
+                "hu": "Cala Marçal",
+                "ro": "Cala Marçal",
+                "en": "Cala Marçal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die stürmischen Wellen direkt aus der Gemütlichkeit Ihres beheizten Autos.",
+                "hu": "Kényelmesen élvezheti a viharos, becsapódó hullámok drámai látványát közvetlenül a fűtött autó kényelméből.",
+                "ro": "Puteți savura vederea dramatică a valurilor furtunoase direct din confortul mașinii dumneavoastră încălzite.",
+                "en": "You can easily enjoy the dramatic view of the stormy, crashing waves directly from the comfort of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de ses Crestes",
+                "hu": "Punta de ses Crestes",
+                "ro": "Punta de ses Crestes",
+                "en": "Punta de ses Crestes"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz aus, um den wilden Wind an den Klippen zu spüren, und ziehen Sie sich dann ins warme Auto zurück.",
+                "hu": "Szálljon ki egy pillanatra, hogy érezze a vad szelet a sziklákon, majd rögtön vonuljon vissza a meleg autóba.",
+                "ro": "Ieșiți scurt pentru a simți vântul sălbatic pe stânci, apoi retrageți-vă imediat în mașina caldă pentru a vă usca.",
+                "en": "Step out briefly to feel the wild wind on the cliffs, then retreat to the warm car immediately to dry off safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Cova Foradada",
+                "hu": "Mirador de la Cova Foradada",
+                "ro": "Mirador de la Cova Foradada",
+                "en": "Mirador de la Cova Foradada"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf dem Weg vom Parkplatz zum Aussichtspunkt; der schlammige Weg und die Felsen sind rutschig.",
+                "hu": "Legyen nagyon óvatos a parkolótól a kilátóig vezető úton; a saras ösvény és a sziklák rendkívül csúszósak.",
+                "ro": "Fiți foarte precauți mergând de la parcare la punctul de belvedere; poteca noroioasă și stâncile alunecă.",
+                "en": "Be very cautious walking from the parking spot to the viewpoint; the muddy path and rocks are exceptionally slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Gran",
+                "hu": "S'Arenal Gran",
+                "ro": "S'Arenal Gran",
+                "en": "S'Arenal Gran"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie vom Parkplatz aus, wie der Regen über die große Bucht zieht, bei eingeschalteter Heizung.",
+                "hu": "Nézze, ahogy az eső végigsöpör a nagy öblön a közeli parkolóból, miközben megy a fűtés és halkan szól a zene.",
+                "ro": "Priviți cum ploaia traversează golful larg din zona de parcare, cu căldura pornită și muzica în surdină.",
+                "en": "Watch the rain sweep across the large bay from the nearby parking area with the heater on and music playing softly."
+              }
+            },
+            {
+              "name": {
+                "de": "Arenal dels Ases",
+                "hu": "Arenal dels Ases",
+                "ro": "Arenal dels Ases",
+                "en": "Arenal dels Ases"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto lässt Sie diesen regengepeitschten Strand in völliger Einsamkeit sehen.",
+                "hu": "Egy gyors kiszaladás az autóból, és teljes magányban láthatja ezt az eső áztatta, intim strandot.",
+                "ro": "O fugă rapidă din mașină vă permite să vedeți această plajă intimă, bătută de ploaie, în totală solitudine.",
+                "en": "A quick dash from the car lets you see this intimate, rain-swept beach in total solitude before getting back inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Tancat de sa Torre",
+                "hu": "Tancat de sa Torre",
+                "ro": "Tancat de sa Torre",
+                "en": "Tancat de sa Torre"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den ländlichen Wegen hierher, da sich bei Regen oft tiefe Pfützen bilden.",
+                "hu": "Vezessen óvatosan az ide vezető vidéki földutakon, mivel esőben gyakran mély tócsák alakulnak ki a birtok körül.",
+                "ro": "Conduceți cu grijă pe drumurile rurale, deoarece adesea se formează bălți adânci lângă moșia istorică în ploaie.",
+                "en": "Drive carefully on the rural dirt roads leading here, as deep puddles often form near the historic estate in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Warme Morgenfahrt zu den alten Steinen. Mittags ist das Parken an den leeren, sonnigen Stränden super einfach. Nachmittags malerische Küstenfahrt unter blauem Himmel. Vor der frühen Dämmerung zurück sein.",
+            "hu": "Meleg reggeli autózás az ősi kövekhez. Délben hihetetlenül könnyű parkolni az elhagyatott, napos strandokon. Délután festői autózás a part mentén, tiszta égbolt alatt. Este 5 óra előtt befejezzük a túrát.",
+            "ro": "Plimbare caldă dimineața spre pietrele antice. Parcarea la prânz este foarte ușoară pe plajele pustii. După-amiaza conducem pe coastă sub un cer senin. Ne încheiem traseul înainte de lăsarea întunericului.",
+            "en": "Warm morning drive to the ancient stones. Midday parking is incredibly easy at the deserted, sunny beaches. Afternoon scenic cruising along the coast under clear skies. Evening wrap-up before the early 5 PM dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Closos de Ca'n Gaià",
+                "hu": "Closos de Ca'n Gaià",
+                "ro": "Closos de Ca'n Gaià",
+                "en": "Closos de Ca'n Gaià"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne hebt das alte Mauerwerk wunderschön hervor; tragen Sie einen warmen Mantel für den kurzen Weg.",
+                "hu": "A téli nap gyönyörűen megvilágítja az ősi köveket; vegyen fel egy meleg kabátot a rövid sétához a parkolóból.",
+                "ro": "Soarele de iarnă evidențiază frumos pietrele antice; purtați o haină caldă pentru scurta plimbare de la mașină.",
+                "en": "The winter sun highlights the ancient stonework beautifully; wear a warm coat for the short walk from your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala Marçal",
+                "hu": "Cala Marçal",
+                "ro": "Cala Marçal",
+                "en": "Cala Marçal"
+              },
+              "tip_5lang": {
+                "de": "Parken ist im Winter unglaublich einfach, sodass Sie stressfrei direkt an den friedlichen Strand gehen können.",
+                "hu": "Télen hihetetlenül egyszerű a parkolás, így stresszmentesen, közvetlenül a békés strandra sétálhat az autóból.",
+                "ro": "Parcarea este incredibil de ușoară iarna, permițându-vă să mergeți direct pe plaja liniștită fără stres.",
+                "en": "Parking is incredibly easy in the winter season, allowing you to walk right onto the peaceful beach without stress."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta de ses Crestes",
+                "hu": "Punta de ses Crestes",
+                "ro": "Punta de ses Crestes",
+                "en": "Punta de ses Crestes"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zu diesem Punkt, um die frische Meeresbrise und die kristallklare Winteraussicht leicht zu genießen.",
+                "hu": "Vezessen fel egészen ehhez a festői ponthoz, hogy könnyedén élvezze a friss tengeri szellőt és a kristálytiszta kilátást.",
+                "ro": "Conduceți până la acest punct pitoresc pentru a vă bucura de briza mării și vederile clare de iarnă asupra oceanului.",
+                "en": "Drive right up to this scenic point to easily enjoy the crisp sea breeze and crystal-clear winter views over the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de la Cova Foradada",
+                "hu": "Mirador de la Cova Foradada",
+                "ro": "Mirador de la Cova Foradada",
+                "en": "Mirador de la Cova Foradada"
+              },
+              "tip_5lang": {
+                "de": "Der niedrige Winkel der Wintersonne macht den durchlöcherten Felsen sehr fotogen; haben Sie eine Sonnenbrille parat.",
+                "hu": "A téli nap alacsony szöge miatt a lyukas szikla rendkívül fotogén; tartsa a napszemüvegét a műszerfalon kéznél.",
+                "ro": "Unghiul mic al soarelui de iarnă face stânca foarte fotogenică; țineți ochelarii de soare la îndemână în mașină.",
+                "en": "The low angle of the winter sun makes the pierced rock highly photogenic; keep sunglasses handy in your car dashboard."
+              }
+            },
+            {
+              "name": {
+                "de": "S'Arenal Gran",
+                "hu": "S'Arenal Gran",
+                "ro": "S'Arenal Gran",
+                "en": "S'Arenal Gran"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie am weiten, leeren Strand und parken Sie in der ruhigen Nebensaison ganz in der Nähe für eine Pause.",
+                "hu": "Sétáljon egyet a hatalmas, üres strandon, és parkoljon könnyedén a közelben a csendes utószezonban.",
+                "ro": "Plimbați-vă pe plaja întinsă și goală, parcând ușor în apropiere în timpul sezonului liniștit pentru o pauză.",
+                "en": "Stroll along the expansive, empty beach and easily park close by during the quiet off-season for a refreshing break."
+              }
+            },
+            {
+              "name": {
+                "de": "Arenal dels Ases",
+                "hu": "Arenal dels Ases",
+                "ro": "Arenal dels Ases",
+                "en": "Arenal dels Ases"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen ruhigen Moment an diesem kleinen Strand; die winterliche Ruhe ist absolut perfekt zum Nachdenken.",
+                "hu": "Élvezze a csendes pillanatokat ezen a kis strandon; a téli nyugalom teljesen tökéletes egy zavartalan elmélkedéshez.",
+                "ro": "Bucurați-vă de un moment liniștit pe această plajă; liniștea de iarnă este absolut perfectă pentru reflecție.",
+                "en": "Enjoy a quiet moment at this small beach; the winter tranquility is absolutely perfect for peaceful, undisturbed reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "Tancat de sa Torre",
+                "hu": "Tancat de sa Torre",
+                "ro": "Tancat de sa Torre",
+                "en": "Tancat de sa Torre"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem frühen Sonnenuntergang an, um das historische Anwesen in warmes, goldenes Licht getaucht zu sehen.",
+                "hu": "Érkezzen biztonságban a korai naplemente előtt, hogy lássa a birtokot meleg, aranyló fényben fürdeni vacsora előtt.",
+                "ro": "Ajungeți înainte de apusul devreme pentru a vedea moșia istorică scăldată în lumină caldă, înainte de cină.",
+                "en": "Arrive safely before the early sunset to see the historic estate bathed in warm, golden light before heading to dinner."
+              }
+            }
+          ]
+        }
       }
     }
   }

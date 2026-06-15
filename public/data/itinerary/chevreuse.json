@@ -137,6 +137,168 @@
         "hu": "A reggel Chevreuse történelmi központjában indul, ahol középkori homlokzatok és bájos templomok várják. Könnyedén elmerülhet a gazdag helyi történelemben. A dél meginvitálja egy kellemes sétára az Yvette folyó romantikus kis hídjai mentén. A délután folyamán a külváros felé haladva egy lenyűgöző, erdővel övezett kastélyt fedezhet fel. Az este egy csendes falu templomában zárul, amely tökéletesen keretbe foglalja a gyalogos túrát.",
         "ro": "Dimineața în Chevreuse începe în centrul istoric, unde fațadele medievale și bisericile fermecătoare vă întâmpină. Vă veți cufunda ușor în istoria locală. Miezul zilei vă invită la o plimbare încântătoare de-a lungul micilor poduri romantice peste râul Yvette. După-amiaza se îndreaptă spre periferie, îndreptându-vă spre un castel magnific înconjurat de pădure. Seara se încheie cu un moment de reflecție la o biserică pitorească de sat, completând călătoria.",
         "en": "Morning in Chevreuse starts in the historic center, where medieval facades and charming churches greet you. You will easily immerse yourself in the rich local history. Midday invites you for a delightful stroll along the romantic little bridges over the Yvette river. The afternoon shifts toward the outskirts as you wander toward a magnificent forest-bound castle. Evening concludes with a final moment of reflection at a quaint village church, rounding out your walking journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen im Chevreuse-Tal beginnt im Schutz der Maison des Bannières. Mittags bieten die dicken Mauern der Saint-Martin-Kirche trockene Zuflucht. Nachmittags spazieren wir unter Regenschirmen entlang der glitschigen Uferwege der Yvette. Der Tag endet im warmen Inneren der Église Saint-Jean-Baptiste, während draußen der Regen sanft auf das Dach trommelt.",
+            "hu": "A Chevreuse-völgyben az esős reggel a Maison des Bannières fedett tereiben kezdődik. Délben a Szent Márton templom vastag falai nyújtanak száraz menedéket. Délután esernyővel járjuk végig az Yvette-parti sétány csúszós köveit. A napot a Keresztelő Szent János templom meghitt csendjében zárjuk, miközben kint elcsendesedik a zápor.",
+            "ro": "O dimineață ploioasă în Valea Chevreuse începe în adăpostul oferit de Maison des Bannières. La prânz, zidurile groase ale Bisericii Saint-Martin oferă un refugiu uscat. După-amiaza, ne plimbăm cu umbrela pe potecile alunecoase de-a lungul râului Yvette. Ziua se încheie în liniștea caldă a Bisericii Saint-Jean-Baptiste, ascultând ploaia de afară.",
+            "en": "A rainy morning in the Chevreuse valley starts within the shelter of the Maison des Bannières. At noon, the thick walls of Saint-Martin Church provide a dry refuge. In the afternoon, walk with an umbrella along the slippery paths of the Yvette river. The day ends in the warm interior of Église Saint-Jean-Baptiste as the rain gently taps on the roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison des Bannières",
+                "hu": "Maison des Bannières",
+                "ro": "Maison des Bannières",
+                "en": "Maison des Bannières"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausstellungen in diesem historischen Fachwerkhaus, um trocken zu bleiben und mehr über das lokale Erbe des Tals zu erfahren.",
+                "hu": "Fedezze fel a kiállításokat ebben a történelmi gerendavázas házban, így szárazon maradhat, miközben megismeri a völgy kulturális örökségét.",
+                "ro": "Vizitați expozițiile din această casă istorică cu bârne pentru a rămâne uscat în timp ce aflați mai multe despre moștenirea locală a văii.",
+                "en": "Visit the exhibitions inside this historic timber-framed house to stay dry while learning about the local heritage of the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum als perfekten Regenschutz und bewundern Sie die Glasfenster, während es draußen stürmt; der Eintritt ist kostenfrei.",
+                "hu": "Használja a belső teret tökéletes esővédőként, és csodálja meg az üvegablakokat, miközben kint tombol a vihar; a belépés ingyenes.",
+                "ro": "Folosiți interiorul ca adăpost perfect împotriva ploii și admirați vitraliile în timp ce afară plouă; intrarea este gratuită.",
+                "en": "Use the interior as a perfect rain shelter and admire the stained glass windows while it storms outside; entry is free of charge."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade des Petits Ponts",
+                "hu": "Promenade des Petits Ponts",
+                "ro": "Promenade des Petits Ponts",
+                "en": "Promenade des Petits Ponts"
+              },
+              "tip_5lang": {
+                "de": "Die kleinen Brücken sind bei Regen sehr rutschig; tragen Sie Schuhe mit gutem Profil und genießen Sie die mystische Stimmung am Fluss.",
+                "hu": "A kis hidak esőben nagyon csúszósak; viseljen tapadós talpú cipőt, és élvezze a folyópart misztikus hangulatát a ködben.",
+                "ro": "Micile poduri sunt foarte alunecoase când plouă; purtați încălțăminte cu aderență bună și bucurați-vă de atmosfera mistică de pe malul râului.",
+                "en": "The small bridges are very slippery in the rain; wear shoes with good grip and enjoy the mystical atmosphere by the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Méridon",
+                "hu": "Méridon kastély",
+                "ro": "Castelul Méridon",
+                "en": "Château de Méridon"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt im Nebel besonders herrschaftlich; halten Sie sich unter den großen Bäumen am Wegrand, um dem stärksten Regen zu entgehen.",
+                "hu": "A kastély a ködben különösen méltóságteljes; maradjon az út menti nagy fák védelmében, hogy elkerülje a legerősebb záporokat.",
+                "ro": "Castelul pare deosebit de maiestuos în ceață; stați sub copacii mari de la marginea drumului pentru a evita ploaia cea mai densă.",
+                "en": "The castle looks particularly majestic in the mist; stay under the large trees along the path to avoid the heaviest rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie spirituelle Ruhe in der stillen Kirche, während Sie Ihre nasse Kleidung kurz ausschütteln und die gotische Architektur genießen.",
+                "hu": "Találjon lelki békét a csendes templomban, miközben lerázza vizes kabátját, és megcsodálja a gótikus építészet részleteit.",
+                "ro": "Găsiți liniște spirituală în biserica tăcută în timp ce vă scuturați hainele ude și admirați detaliile arhitecturii gotice.",
+                "en": "Find spiritual peace in the silent church while you shake off your wet clothes and admire the details of the Gothic architecture."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Luft am Morgen lädt zu einem kurzen Besuch in der Maison des Bannières ein. Mittags wärmen wir uns in der Saint-Martin-Kirche auf. Der Nachmittag gehört dem Schloss Méridon, das im fahlen Winterlicht märchenhaft wirkt. Da die Sonne bereits um 17:00 Uhr untergeht, beenden wir den Spaziergang frühzeitig in der gemütlichen Dorfkirche.",
+            "hu": "A fagyos reggeli levegőben a Maison des Bannières melegében indítjuk a napot. Délben a Szent Márton templom falai között melegszünk fel. A délután a Méridon kastélyé, amely a téli fényben mesebeli látványt nyújt. Mivel a nap már 17:00-kor nyugovóra tér, a sétát korán, a falu meghitt templomában fejezzük be.",
+            "ro": "Aerul înghețat al dimineții ne îndeamnă la o vizită scurtă în Maison des Bannières. La prânz, ne încălzim între zidurile Bisericii Saint-Martin. După-amiaza este dedicată Castelului Méridon, care pare desprins din povești în lumina iernii. Deoarece soarele apune deja la ora 17:00, încheiem plimbarea devreme în biserica satului.",
+            "en": "Frosty morning air invites a quick visit inside the Maison des Bannières. At noon, warm up within the thick walls of Saint-Martin Church. The afternoon belongs to Château de Méridon, which looks fairytale-like in the pale winter light. As the sun sets by 17:00, we finish the walk early in the cozy village church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison des Bannières",
+                "hu": "Maison des Bannières",
+                "ro": "Maison des Bannières",
+                "en": "Maison des Bannières"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier, um der Kälte zu entkommen; das Gebäude ist gut beheizt und bietet spannende Einblicke in die Regionalgeschichte.",
+                "hu": "Kezdje itt a napot, hogy elkerülje a hideget; az épület jól fűtött, és izgalmas betekintést nyújt a régió történelmébe.",
+                "ro": "Începeți aici pentru a scăpa de frig; clădirea este bine încălzită și oferă perspective fascinante asupra istoriei regionale.",
+                "en": "Start here to escape the cold; the building is well-heated and offers exciting insights into the regional history of the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern schützen vor dem eisigen Winterwind; ein idealer Ort für eine kurze meditative Pause im Warmen.",
+                "hu": "A vastag kőfalak hatékonyan védenek a jeges téli szél ellen; ideális hely egy rövid, meditatív pihenőhöz a melegben.",
+                "ro": "Zidurile groase de piatră protejează împotriva vântului înghețat de iarnă; un loc ideal pentru o scurtă pauză meditativă la căldură.",
+                "en": "The thick stone walls protect against the icy winter wind; an ideal place for a short meditative break in the warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade des Petits Ponts",
+                "hu": "Promenade des Petits Ponts",
+                "ro": "Promenade des Petits Ponts",
+                "en": "Promenade des Petits Ponts"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorene Yvette bietet eine tolle Kulisse, aber Vorsicht vor Glatteis auf den Brücken; tragen Sie unbedingt warme Handschuhe.",
+                "hu": "A befagyott Yvette-folyó látványa gyönyörű, de vigyázzon a jegesedésre a hidakon; mindenképpen viseljen meleg kesztyűt.",
+                "ro": "Râul Yvette înghețat oferă un decor superb, dar atenție la gheața de pe poduri; purtați neapărat mănuși groase.",
+                "en": "The frozen Yvette river offers a great backdrop, but watch out for black ice on the bridges; be sure to wear warm gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Méridon",
+                "hu": "Méridon kastély",
+                "ro": "Castelul Méridon",
+                "en": "Château de Méridon"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Besuch vor 16:30 Uhr ein, damit Sie den Schlosspark noch vor Einbruch der Dunkelheit bei Tageslicht sehen können.",
+                "hu": "Tervezze a látogatást 16:30 előttre, hogy még nappali fényben láthassa a kastélyparkot a korai sötétedés előtt.",
+                "ro": "Planificați vizita înainte de ora 16:30 pentru a vedea parcul castelului în lumina zilei înainte de lăsarea întunericului.",
+                "en": "Plan your visit before 16:30 so you can see the castle park in daylight before darkness falls at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss in der Abenddämmerung; die Kerzenbeleuchtung im Inneren sorgt für eine besonders wohlige Winteratmosphäre.",
+                "hu": "Szép lezárása a napnak a szürkületben; a benti gyertyafény különlegesen meghitt téli hangulatot áraszt a látogatóknak.",
+                "ro": "O încheiere frumoasă la amurg; lumina lumânărilor din interior creează o atmosferă de iarnă deosebit de primitoare.",
+                "en": "A beautiful finish at dusk; the candle lighting inside creates a particularly cozy winter atmosphere for visitors."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli kerékpározás a város legrégebbi építményeinek és központi vallási nevezetességeinek felfedezésével indul. Délben suhanjon végig a festői vízi utakon és a bájos kis hidakon egy tökéletes pihenéshez. Délután kikerékpározhat a tágasabb völgybe, hogy felfedezze a fenséges kastélyparkokat. Az este lezárja a kerékpáros kalandot, ahogy elsuhan a békés külváros vidéki kápolnái mellett.",
         "ro": "Plimbarea de dimineață începe prin explorarea celor mai vechi structuri și repere religioase centrale ale orașului. Până la prânz, alunecați de-a lungul căilor pitorești de apă și a podurilor fermecătoare pentru o pauză relaxantă perfectă. După-amiaza, veți pedala spre valea mai largă pentru a descoperi terenurile unui castel majestuos. Seara vă încheie aventura pe bicicletă în timp ce treceți pe lângă capele rurale de la periferia pașnică.",
         "en": "Your morning ride kicks off by exploring the oldest structures and central religious landmarks of the town. Cycling allows you to absorb the history quickly. By midday, glide along the scenic waterway paths and charming little bridges for a perfect relaxing break. In the afternoon, you will pedal out into the wider valley to discover majestic castle grounds. Evening wraps up your cycling adventure as you breeze past rural chapels on the peaceful outskirts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen starten wir die Radtour gut ausgerüstet an der Maison des Bannières. Mittags suchen wir Schutz in den Kirchen von Chevreuse. Die Wege durch das Tal sind nass und erfordern Vorsicht in den Kurven. Nachmittags erreichen wir das Schloss Méridon und beenden die Tour bei der Kapelle, bevor die Sicht schlechter wird.",
+            "hu": "Az eső ellenére jól felszerelve indulunk kerékpárral a Maison des Bannières-től. Délben Chevreuse templomaiban keresünk menedéket. A völgy útjai vizesek, a kanyarokban fokozott óvatosságra van szükség. Délután elérjük a Méridon kastélyt, majd a kápolnánál zárjuk a túrát, mielőtt a látótávolság csökkenne.",
+            "ro": "În ciuda ploii, pornim tura de bicicletă bine echipați de la Maison des Bannières. La prânz, căutăm adăpost în bisericile din Chevreuse. Drumurile prin vale sunt ude și necesită prudență în curbe. După-amiaza ajungem la Castelul Méridon și încheiem tura la capelă înainte ca vizibilitatea să scadă.",
+            "en": "Despite the rain, we start the bike tour well-equipped at Maison des Bannières. At noon, we seek shelter in the churches of Chevreuse. The paths through the valley are wet and require caution in the turns. In the afternoon, we reach Château de Méridon and finish the tour at the chapel before visibility drops."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison des Bannières",
+                "hu": "Maison des Bannières",
+                "ro": "Maison des Bannières",
+                "en": "Maison des Bannières"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad trocken am Eingang und nutzen Sie die Pause, um Ihre Regenbekleidung für die Weiterfahrt zu justieren.",
+                "hu": "Parkolja le kerékpárját száraz helyen a bejáratnál, és használja ki a szünetet esőruházata megigazítására a továbbindulás előtt.",
+                "ro": "Parcați bicicleta la loc uscat la intrare și folosiți pauza pentru a vă ajusta echipamentul de ploaie pentru drum.",
+                "en": "Park your bike in a dry spot at the entrance and use the break to adjust your rain gear for the ride ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, um die Muskeln im Trockenen zu lockern; achten Sie auf den rutschigen Kopfsteinpflasterboden vor dem Portal.",
+                "hu": "Ideális megálló az izmok ellazítására a szárazban; ügyeljen a csúszós macskaköves burkolatra a templom bejárata előtt.",
+                "ro": "O oprire ideală pentru a vă relaxa mușchii la loc uscat; atenție la pavajul alunecos din fața portalului bisericii.",
+                "en": "An ideal stop to loosen your muscles in the dry; watch out for the slippery cobblestones in front of the church portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade des Petits Ponts",
+                "hu": "Promenade des Petits Ponts",
+                "ro": "Promenade des Petits Ponts",
+                "en": "Promenade des Petits Ponts"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie hier besonders langsam, da der schmale Weg bei Nässe tückisch sein kann; genießen Sie den Blick auf den Fluss.",
+                "hu": "Itt haladjon különösen lassan, mert a keskeny út nedvesen csalóka lehet; élvezze a folyóra nyíló kilátást az esőben.",
+                "ro": "Mergeți foarte încet aici, deoarece poteca îngustă poate fi înșelătoare pe ploaie; bucurați-vă de vederea spre râu.",
+                "en": "Ride particularly slowly here as the narrow path can be treacherous when wet; enjoy the view of the river in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Méridon",
+                "hu": "Méridon kastély",
+                "ro": "Castelul Méridon",
+                "en": "Château de Méridon"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Regen schlammig sein; prüfen Sie Ihre Bremsen, bevor Sie die Abfahrt zurück ins Tal antreten.",
+                "hu": "A kastélyhoz vezető feljáró esőben sáros lehet; ellenőrizze a fékeket, mielőtt megkezdi a leereszkedést vissza a völgybe.",
+                "ro": "Urcarea spre castel poate fi noroioasă pe ploaie; verificați frânele înainte de a începe coborârea înapoi în vale.",
+                "en": "The driveway to the castle can be muddy in the rain; check your brakes before starting the descent back into the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-l'Évangéliste",
+                "hu": "János evangélista templom",
+                "ro": "Biserica Saint-Jean-l'Évangéliste",
+                "en": "Église Saint-Jean-l'Évangéliste"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Vordach Schutz vor einem plötzlichen Schauer und bewundern Sie die schlichte Schönheit dieses Sakralbaus.",
+                "hu": "Keressen menedéket az előtető alatt egy hirtelen zápor elől, és csodálja meg az épület letisztult szépségét a völgyben.",
+                "ro": "Căutați adăpost sub streașină în cazul unei averse bruște și admirați frumusețea simplă a acestui lăcaș de cult.",
+                "en": "Seek shelter under the eaves from a sudden shower and admire the simple beauty of this sacred building in the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de l'Assomption",
+                "hu": "Nagyboldogasszony-kápolna",
+                "ro": "Capela Notre-Dame de l'Assomption",
+                "en": "Chapelle Notre-Dame de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Der finale Anstieg lohnt sich für den Ausblick; wischen Sie den Sattel trocken, bevor Sie nach der Besichtigung die Rückreise antreten.",
+                "hu": "Az utolsó emelkedő megéri a kilátásért; törölje szárazra a nyerget, mielőtt a látogatás után elindulna visszafelé.",
+                "ro": "Urcarea finală merită pentru priveliște; ștergeți șaua înainte de a porni pe drumul de întoarcere după vizită.",
+                "en": "The final climb is worth it for the view; wipe your saddle dry before heading back after the visit is complete."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet bei kühler, klarer Luft. Kurze Stopps an historischen Orten helfen, nicht auszukühlen. Mittags genießen wir die Ruhe im Tal. Der Nachmittag führt uns zum Schloss, bevor wir pünktlich zum Sonnenuntergang um 17:00 Uhr die Tour beenden. Achten Sie auf funktionierende Lichter am Fahrrad.",
+            "hu": "A téli kerékpártúra hűvös, tiszta levegőben indul. Rövid megállók a történelmi helyszíneken segítenek, hogy ne hűljünk le túlságosan. Délben élvezzük a völgy nyugalmát. A délután a kastélyhoz vezet, majd pontosan a 17:00-s napnyugtakor fejezzük be a túrát. Ügyeljen a kerékpár lámpáira.",
+            "ro": "Tura de iarnă cu bicicleta începe în aer răcoros și curat. Opririle scurte la locurile istorice ajută la menținerea căldurii corporale. La prânz ne bucurăm de liniștea văii. După-amiaza ne duce la castel, încheind tura fix la apusul de la ora 17:00. Atenție la luminile bicicletei.",
+            "en": "The winter bike tour starts in cool, clear air. Short stops at historical sites help prevent getting too cold. At noon, we enjoy the peace of the valley. The afternoon leads us to the castle before finishing the tour exactly at the 17:00 sunset. Ensure your bike lights are working."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison des Bannières",
+                "hu": "Maison des Bannières",
+                "ro": "Maison des Bannières",
+                "en": "Maison des Bannières"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den beheizten Innenraum für ein erstes Aufwärmen der Finger, bevor Sie die längeren Strecken im Tal in Angriff nehmen.",
+                "hu": "Használja a fűtött belső teret ujjai felmelegítésére, mielőtt nekivágna a völgy hosszabb útszakaszainak a hidegben.",
+                "ro": "Folosiți interiorul încălzit pentru a vă încălzi degetele înainte de a porni pe segmentele mai lungi din vale.",
+                "en": "Use the heated interior to warm up your fingers before tackling the longer stretches of the valley in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "St.-Martin-Kirche",
+                "hu": "Szent Márton templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort für eine Pause; die kühle, aber trockene Luft im Inneren ist angenehmer als der schneidende Winterwind draußen.",
+                "hu": "Szélvédett hely egy pihenőhöz; a benti hűvös, de száraz levegő kellemesebb, mint a kinti metsző téli szél.",
+                "ro": "Un loc ferit de vânt pentru o pauză; aerul răcoros, dar uscat din interior este mai plăcut decât vântul tăios de iarnă.",
+                "en": "A wind-protected place for a break; the cool but dry air inside is more pleasant than the biting winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade des Petits Ponts",
+                "hu": "Promenade des Petits Ponts",
+                "ro": "Promenade des Petits Ponts",
+                "en": "Promenade des Petits Ponts"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Holzplanken der Brücken; fahren Sie vorsichtig und vermeiden Sie abruptes Bremsen auf dem Radweg.",
+                "hu": "Ügyeljen a zúzmarára a hidak fapadlózatán; vezessen óvatosan, és kerülje a hirtelen fékezést a kerékpárúton.",
+                "ro": "Atenție la chiciura de pe scândurile de lemn ale podurilor; conduceți cu grijă și evitați frânarea bruscă pe pistă.",
+                "en": "Watch out for hoarfrost on the wooden planks of the bridges; ride carefully and avoid abrupt braking on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Méridon",
+                "hu": "Méridon kastély",
+                "ro": "Castelul Méridon",
+                "en": "Château de Méridon"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf das Schloss; ein tolles Fotomotiv, aber die Kälte zieht hier schnell ein.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a kastélyra; remek fotótéma, de a hideg itt gyorsan átjárja az embert.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi asupra castelului; un motiv foto excelent, dar frigul se simte repede aici.",
+                "en": "The low winter sun casts long shadows on the castle; a great photo subject, but the cold settles in quickly here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-l'Évangéliste",
+                "hu": "János evangélista templom",
+                "ro": "Biserica Saint-Jean-l'Évangéliste",
+                "en": "Église Saint-Jean-l'Évangéliste"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Stopp zur Besinnung; da es früh dunkel wird, sollten Sie nun Ihre Fahrradbeleuchtung für die letzte Etappe prüfen.",
+                "hu": "Álljon meg egy rövid áhítatra; mivel korán sötétedik, ellenőrizze a kerékpárlámpákat az utolsó szakasz előtt.",
+                "ro": "Faceți o scurtă oprire pentru reculegere; deoarece se întunecă devreme, verificați luminile bicicletei pentru ultima etapă.",
+                "en": "Make a short stop for reflection; as it gets dark early, check your bike lights now for the final stage of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de l'Assomption",
+                "hu": "Nagyboldogasszony-kápolna",
+                "ro": "Capela Notre-Dame de l'Assomption",
+                "en": "Chapelle Notre-Dame de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Tal; ziehen Sie für die Abfahrt eine zusätzliche Schicht gegen den Fahrtwind an.",
+                "hu": "Élvezze a tágas kilátást a téli völgyre; a lefelé útra vegyen fel egy plusz réteget a menetszél ellen.",
+                "ro": "Bucurați-vă de priveliștea largă asupra văii de iarnă; puneți un strat suplimentar de haine pentru coborâre contra vântului.",
+                "en": "Enjoy the wide view over the winter valley; put on an extra layer for the descent to protect against the wind."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a csendes északi szentélyeknél, majd induljon a városközpont felé. A déli szakaszban parkoljon le a történelmi mag közelében, és sétáljon a régi utcákon és a híres kis hidakon. Ebéd után tegyen egy rövid utat az erdős területre, ahol egy hatalmas kastély található. Az este a különös déli templomok látogatásával zárul, amely békés befejezést kínál motoros utazásának.",
         "ro": "Începeți turul cu mașina la sanctuarele liniștite din nord, înainte de a vă îndrepta spre orașul principal. Segmentul de la prânz vă permite să parcați lângă centrul istoric pentru a vă plimba pe străzile vechi și pe celebrele mici poduri. După prânz, faceți o scurtă călătorie spre zona împădurită frumoasă, care prezintă un castel măreț. Seara se încheie cu vizite la bisericile pitorești din sud, oferind un sfârșit liniștit călătoriei dvs. motorizate.",
         "en": "Start your driving tour at the quiet northern sanctuaries, getting a peaceful start to the day before heading into the main town. The midday segment lets you park near the historic core to wander the old streets and the famous little bridges. After lunch, take a quick drive to the beautiful forested area featuring a grand castle and wide landscapes. Evening concludes with visits to the quaint southern churches, offering a serene end to your motorized journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bequem mit dem Auto erkunden wir das verregnete Chevreuse-Tal. Wir starten beim Priorat und fahren zur Kapelle, wobei wir stets nah an den Eingängen parken. Mittags besuchen wir das historische Zentrum. Nachmittags führt die Fahrt zum Schloss Méridon, während die Scheibenwischer den Blick auf die neblige Landschaft freihalten. Ein entspannter Tag trotz des grauen Wetters.",
+            "hu": "Kényelmesen, autóval fedezzük fel az esős Chevreuse-völgyet. A perjelnél kezdünk, majd a kápolnához hajtunk, mindig közel parkolva a bejáratokhoz. Délben a történelmi központot látogatjuk meg. Délután a Méridon kastély felé vesszük az irányt, miközben az ablaktörlő tisztítja a párás tájat. Nyugodt nap a szürke idő ellenére.",
+            "ro": "Explorăm confortabil cu mașina Valea Chevreuse pe ploaie. Începem la mănăstire și conducem spre capelă, parcând mereu aproape de intrări. La prânz vizităm centrul istoric. După-amiaza drumul ne duce la Castelul Méridon, în timp ce ștergătoarele curăță vederea spre peisajul cețos. O zi relaxată în ciuda vremii gri.",
+            "en": "Comfortably by car, we explore the rainy Chevreuse valley. We start at the priory and drive to the chapel, always parking close to the entrances. At noon, we visit the historical center. In the afternoon, the drive leads to Château de Méridon while the wipers clear the view of the misty landscape. A relaxed day despite the gray weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Priorat Saint-Benoît",
+                "hu": "Szent Benedek perjel",
+                "ro": "Mănăstirea Saint-Benoît",
+                "en": "Prieuré Saint-Benoît"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt auf dem Vorplatz, um den Weg im Regen kurz zu halten und die beeindruckende Anlage trocken zu besichtigen.",
+                "hu": "Parkoljon közvetlenül az előtéren, hogy rövid legyen az út az esőben, és szárazon tekinthesse meg a lenyűgöző épületegyüttest.",
+                "ro": "Parcați direct în fața complexului pentru a scurta drumul prin ploaie și a vizita ansamblul impresionant la loc uscat.",
+                "en": "Park directly in the forecourt to keep the walk in the rain short and visit the impressive complex while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de l'Assomption",
+                "hu": "Nagyboldogasszony-kápolna",
+                "ro": "Capela Notre-Dame de l'Assomption",
+                "en": "Chapelle Notre-Dame de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang; nehmen Sie trotzdem einen Schirm mit für den kurzen, aber exponierten Weg zur Kapelle.",
+                "hu": "A parkoló közel van a bejárathoz; ennek ellenére vigyen esernyőt a rövid, de nyitott útszakaszra a kápolnáig.",
+                "ro": "Parcarea este aproape de intrare; totuși, luați o umbrelă pentru drumul scurt, dar expus, până la capelă.",
+                "en": "The parking lot is close to the entrance; nevertheless, take an umbrella for the short but exposed walk to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Bannières",
+                "hu": "Maison des Bannières",
+                "ro": "Maison des Bannières",
+                "en": "Maison des Bannières"
+              },
+              "tip_5lang": {
+                "de": "Im Stadtzentrum kann die Parkplatzsuche bei Regen schwierig sein; nutzen Sie die ausgewiesenen Parkzonen nahe der Hauptstraße.",
+                "hu": "A városközpontban az esőben nehéz lehet parkolót találni; használja a főút közeli kijelölt parkolóhelyeket.",
+                "ro": "În centrul orașului găsirea unui loc de parcare poate fi dificilă pe ploaie; folosiți zonele de parcare marcate de lângă strada principală.",
+                "en": "Parking in the town center can be difficult in the rain; use the designated parking zones near the main road."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade des Petits Ponts",
+                "hu": "Promenade des Petits Ponts",
+                "ro": "Promenade des Petits Ponts",
+                "en": "Promenade des Petits Ponts"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto stehen und machen Sie einen kurzen Spaziergang mit dem Schirm; die Atmosphäre am Fluss ist bei Regen sehr friedlich.",
+                "hu": "Hagyja az autót a közeli parkolóban, és tegyen egy rövid sétát esernyővel; a folyóparti hangulat esőben nagyon békés.",
+                "ro": "Lăsați mașina în parcarea apropiată și faceți o scurtă plimbare cu umbrela; atmosfera de pe malul râului este foarte pașnică pe ploaie.",
+                "en": "Leave the car in the nearby lot and take a short walk with an umbrella; the riverside atmosphere is very peaceful in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Méridon",
+                "hu": "Méridon kastély",
+                "ro": "Castelul Méridon",
+                "en": "Château de Méridon"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Allee langsam hoch, da die Sicht durch den Nebel eingeschränkt sein kann; parken Sie direkt am Rand des Schlossgeländes.",
+                "hu": "Hajtson lassan a fasoron keresztül, mert a köd miatt korlátozott a látótávolság; parkoljon közvetlenül a kastélykert szélén.",
+                "ro": "Conduceți încet pe alee, deoarece vizibilitatea poate fi redusă din cauza ceții; parcați chiar la marginea domeniului castelului.",
+                "en": "Drive slowly up the alley as visibility may be limited by mist; park right at the edge of the castle grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-l'Évangéliste",
+                "hu": "János evangélista templom",
+                "ro": "Biserica Saint-Jean-l'Évangéliste",
+                "en": "Église Saint-Jean-l'Évangéliste"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Trockenen; der Parkplatz vor der Kirche bietet einen schnellen Zugang zum schützenden Innenraum.",
+                "hu": "Rövid megálló a szárazban; a templom előtti parkoló gyors hozzáférést biztosít a védelmet nyújtó belső térhez.",
+                "ro": "O scurtă oprire la loc uscat; parcarea din fața bisericii oferă acces rapid la interiorul protector.",
+                "en": "A quick stop in the dry; the parking area in front of the church provides fast access to the protective interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier und genießen Sie die Wärme des Autos auf der Rückfahrt, nachdem Sie die gotische Ruhe aufgesogen haben.",
+                "hu": "Zárja itt a napot, és élvezze az autó melegét a hazaúton, miután magába szívta a gótikus templom csendjét.",
+                "ro": "Încheiați ziua aici și bucurați-vă de căldura mașinii la întoarcere, după ce ați absorbit liniștea bisericii gotice.",
+                "en": "Finish your day here and enjoy the warmth of the car on the drive back after soaking in the Gothic silence."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto ist das winterliche Chevreuse-Tal ein Genuss. Wir besuchen das Priorat am kühlen Morgen und fahren dann zur Kapelle mit weitem Blick. Mittags schlendern wir kurz durch das Dorf. Der Nachmittag führt uns zum Schloss Méridon, bevor wir vor 17:00 Uhr die letzte Kirche erreichen, wenn die Dämmerung das Tal in blaues Licht taucht.",
+            "hu": "A fűtött autóban élvezet a téli Chevreuse-völgyi kirándulás. A hűvös reggelen meglátogatjuk a perjelt, majd a kápolnához hajtunk a kilátásért. Délben rövid sétát teszünk a faluban. A délután a Méridon kastélyhoz vezet, mielőtt 17:00 előtt elérjük az utolsó templomot a szürkület kék fényében.",
+            "ro": "În mașina încălzită, excursia de iarnă în Valea Chevreuse este o plăcere. Vizităm mănăstirea în dimineața răcoroasă, apoi conducem la capelă pentru priveliște. La prânz facem o scurtă plimbare prin sat. După-amiaza ne duce la Castelul Méridon, ajungând la ultima biserică înainte de ora 17:00.",
+            "en": "In a heated car, the winter Chevreuse valley trip is a delight. We visit the priory in the cool morning, then drive to the chapel for the view. At noon, we take a short walk through the village. The afternoon leads to Château de Méridon before reaching the last church by 17:00 as dusk colors the valley blue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Priorat Saint-Benoît",
+                "hu": "Szent Benedek perjel",
+                "ro": "Mănăstirea Saint-Benoît",
+                "en": "Prieuré Saint-Benoît"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den Besichtigungen; das Priorat ist im Winter besonders ruhig und stimmungsvoll.",
+                "hu": "Használja ki az autó fűtését a látogatások között; a perjel télen különösen csendes és hangulatos helyszín.",
+                "ro": "Profitați de încălzirea din mașină între vizite; mănăstirea este deosebit de liniștită și plină de atmosferă iarna.",
+                "en": "Make use of the car's heater between visits; the priory is especially quiet and atmospheric during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Notre-Dame de l'Assomption",
+                "hu": "Nagyboldogasszony-kápolna",
+                "ro": "Capela Notre-Dame de l'Assomption",
+                "en": "Chapelle Notre-Dame de l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei Frost auf der Zufahrtsstraße zur Kapelle; der Blick über das kahle Wintertal ist von hier oben einmalig.",
+                "hu": "Vigyázzon a jegesedésre a kápolnához vezető úton; a kopár téli völgyre nyíló kilátás innen fentről páratlan.",
+                "ro": "Atenție la îngheț pe drumul de acces spre capelă; priveliștea asupra văii golașe de iarnă este unică de aici de sus.",
+                "en": "Watch out for frost on the access road to the chapel; the view over the bare winter valley from up here is unique."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des Bannières",
+                "hu": "Maison des Bannières",
+                "ro": "Maison des Bannières",
+                "en": "Maison des Bannières"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Ort für die Mittagszeit; genießen Sie die historischen Exponate und wärmen Sie sich gut auf, bevor es weitergeht.",
+                "hu": "Meleg helyszín a déli órákra; élvezze a történelmi kiállításokat, és melegedjen fel alaposan, mielőtt továbbindulna.",
+                "ro": "Un loc cald pentru orele prânzului; bucurați-vă de expozițiile istorice și încălziți-vă bine înainte de a merge mai departe.",
+                "en": "A warm place for lunchtime; enjoy the historical exhibits and warm up thoroughly before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Promenade des Petits Ponts",
+                "hu": "Promenade des Petits Ponts",
+                "ro": "Promenade des Petits Ponts",
+                "en": "Promenade des Petits Ponts"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp an der Yvette; lassen Sie den Motor nicht unnötig laufen und genießen Sie die klare Winterluft am Wasser.",
+                "hu": "Rövid fotómegálló az Yvette-nél; ne járassa feleslegesen a motort, és élvezze a tiszta téli levegőt a vízparton.",
+                "ro": "Scurtă oprire foto la râul Yvette; nu lăsați motorul pornit inutil și bucurați-vă de aerul curat de iarnă de lângă apă.",
+                "en": "A quick photo stop at the Yvette; don't leave the engine idling unnecessarily and enjoy the clear winter air by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Méridon",
+                "hu": "Méridon kastély",
+                "ro": "Castelul Méridon",
+                "en": "Château de Méridon"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände ist früh im Schatten; kommen Sie vor 16:00 Uhr an, um die Architektur im restlichen Tageslicht zu bewundern.",
+                "hu": "A kastélykert korán árnyékba kerül; érkezzen 16:00 előtt, hogy még láthassa az építészetet a maradék nappali fényben.",
+                "ro": "Domeniul castelului intră devreme în umbră; sosiți înainte de ora 16:00 pentru a admira arhitectura în lumina zilei.",
+                "en": "The castle grounds fall into shadow early; arrive before 16:00 to admire the architecture in the remaining daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-l'Évangéliste",
+                "hu": "János evangélista templom",
+                "ro": "Biserica Saint-Jean-l'Évangéliste",
+                "en": "Église Saint-Jean-l'Évangéliste"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Autoscheinwerfer für die Rückfahrt in der einsetzenden Dunkelheit nach diesem letzten spirituellen Stopp.",
+                "hu": "Ellenőrizze az autó fényszóróit a hazatéréshez a beálló sötétségben ez után az utolsó spirituális megálló után.",
+                "ro": "Verificați farurile mașinii pentru drumul spre casă în întunericul ce se lasă după această ultimă oprire spirituală.",
+                "en": "Check your car headlights for the drive home in the gathering darkness after this final spiritual stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Abend; die Beleuchtung der Kirche in der blauen Stunde ist ein wunderbares Motiv zum Abschluss.",
+                "hu": "Élvezze az esti csendet; a templom megvilágítása a kék órában csodálatos látvány a nap zárásaként.",
+                "ro": "Bucurați-vă de liniștea serii; iluminarea bisericii în ora albastră este un motiv minunat pentru finalul zilei.",
+                "en": "Enjoy the evening quiet; the church lighting during the blue hour is a wonderful subject to conclude your day."
+              }
+            }
+          ]
+        }
       }
     }
   }

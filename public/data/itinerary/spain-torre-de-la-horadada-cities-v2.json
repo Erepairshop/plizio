@@ -137,6 +137,168 @@
         "hu": "Sétánkat a város szívében, a bájos Iglesia de la Asunción templomnál kezdjük. A békés reggeli hangulat tökéletesen megadja a nap alaphangját. Ezután leereszkedünk a Playa del Puerto-hoz, hogy élvezzük a jachtkikötő melletti csendes vizet.\nDélben a Playa del Conde-hoz érkezünk, ahol a történelmi őrtorony őrködik a part felett. Kiváló alkalom ez arra, hogy érezzük a puha homokot, és megmártózzunk a frissítő Földközi-tengerben.\nDélután utunk a kiterjedt Playa de los Jesuitas-hoz vezet. A lágy tengeri szellő és a tágas kilátás ideális hellyé teszi egy kényelmes sétához a part mentén.\nAz este közeledtével megérkezünk a sziklás Cala de Rocamarhoz. Az égbolt változó színei gyönyörűen tükröződnek a vízen, nyugodt és festői befejezést nyújtva tengerparti sétánknak.",
         "ro": "Ne începem turul pe jos în inima orașului, la fermecătoarea Iglesia de la Asunción. Atmosfera pașnică a dimineții stabilește tonul perfect. Apoi, coborâm la Playa del Puerto pentru a ne bucura de apele calme de lângă portul de agrement.\nLa amiază ajungem la Playa del Conde, unde turnul istoric de veghe străjuiește coasta. Este un moment excelent pentru a simți nisipul moale și a face o baie în Marea Mediterană răcoroasă.\nDupă-amiaza, drumul nostru ne duce la extinsa Playa de los Jesuitas. Briza blândă a mării și vederile largi deschise fac din acest loc unul ideal pentru o plimbare de-a lungul țărmului.\nOdată cu lăsarea serii, ajungem la stâncoasa Cala de Rocamar. Culorile schimbătoare ale cerului se reflectă frumos pe apă, oferind un final senin și pitoresc plimbării noastre pe coastă.",
         "en": "We start our walking tour in the heart of the town at the lovely Iglesia de la Asunción. The peaceful morning atmosphere sets a perfect tone for the day. Then, we head down to Playa del Puerto to enjoy the calm waters near the marina.\nMidday brings us to Playa del Conde, where the historical watchtower watches over the coast. This is a great time to feel the soft sand and dip into the refreshing Mediterranean Sea.\nIn the afternoon, our path takes us to the expansive Playa de los Jesuitas. The gentle sea breeze and wide open views make it an ideal spot for a leisurely stroll along the shoreline.\nAs evening approaches, we arrive at the rocky Cala de Rocamar. The changing colors of the sky reflect beautifully on the water, providing a serene and picturesque end to our coastal walk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Kirche, einem trockenen Zufluchtsort. Mittags spazieren wir am Hafen, wo die Luft nach Salz und Regen duftet. Nachmittags zeigen sich die Buchten dramatisch unter grauen Wolken. Abends suchen wir Schutz unter den Markisen der Promenade und lauschen dem Rauschen der Wellen, während der Regen auf das Pflaster peitscht und die Steine rutschig macht.",
+            "hu": "A reggel a templom hűvös, száraz falai között indul. Délben a kikötőnél sétálunk, ahol az eső illata keveredik a sós tengeri levegővel. Délután az öblök drámai arcukat mutatják a viharos égbolt alatt. Este a sétány fedett részei alá húzódunk, figyelve a hullámok morajlását és a csúszóssá vált köveket, miközben az eső mossa a part menti utat.",
+            "ro": "Dimineața începe în biserică, un refugiu uscat în fața ploii. La prânz ne plimbăm prin port, unde aerul miroase a sare și a ploaie proaspătă. După-amiaza, golfurile își arată latura dramatică sub norii cenușii. Seara căutăm adăpost sub copertinele falezei, ascultând vuietul valurilor și observând pietrele devenite alunecoase din cauza ploii care spală coasta.",
+            "en": "The morning starts inside the church, a dry sanctuary from the rain. At noon we walk by the harbor, where the scent of rain mixes with the salty sea air. In the afternoon, the coves show their dramatic side under gray clouds. In the evening, we retreat under the promenade awnings, watching the crashing waves and the slippery stones as the rain washes the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de la Asunción",
+                "hu": "Iglesia de la Asunción",
+                "ro": "Iglesia de la Asunción",
+                "en": "Iglesia de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur im trockenen Inneren; die dicken Mauern bieten perfekten Schutz vor den plötzlichen Regenschauern und Windböen der Küste.",
+                "hu": "Csodálja meg a modern építészetet a száraz belső térben; a vastag falak tökéletes menedéket nyújtanak a hirtelen tengerparti záporok és az erős széllökések elől.",
+                "ro": "Admirați arhitectura modernă în interiorul uscat; pereții groși oferă adăpostul perfect împotriva averselor bruște de ploaie și a rafalelor de vânt de pe coastă.",
+                "en": "Admire the modern architecture in the dry interior; the thick walls provide perfect shelter from sudden coastal rain showers and strong gusts of wind during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Puerto",
+                "hu": "Playa del Puerto",
+                "ro": "Playa del Puerto",
+                "en": "Playa del Puerto"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das unruhige Meer von der Sicherheit der Kaimauer aus; tragen Sie rutschfeste Schuhe, da die Steine am Hafen bei Regen extrem glatt werden können.",
+                "hu": "Figyelje meg a felkorbácsolt tengert a móló biztonságából; viseljen csúszásmentes cipőt, mert a kikötő kövei az esőben rendkívül síkossá és veszélyessé válhatnak.",
+                "ro": "Observați marea agitată din siguranța digului; purtați încălțăminte antiderapantă, deoarece pietrele din port pot deveni extrem de alunecoase și periculoase pe ploaie.",
+                "en": "Watch the choppy sea from the safety of the pier; wear non-slip shoes, as the harbor stones can become extremely slick and dangerous when wet from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Conde",
+                "hu": "Playa del Conde",
+                "ro": "Playa del Conde",
+                "en": "Playa del Conde"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des Wachturms Torre de la Horadada im Regen; die dunklen Wolken verleihen dem historischen Bauwerk eine besonders mystische Atmosphäre.",
+                "hu": "Élvezze a Torre de la Horadada őrtorony látványát az esőben; a sötét felhők és a szürke tenger különlegesen misztikus hangulatot kölcsönöznek a történelmi épületnek.",
+                "ro": "Bucurați-vă de vederea turnului de veghe Torre de la Horadada în ploaie; norii întunecați și marea cenușie conferă clădirii istorice o atmosferă mistică aparte.",
+                "en": "Enjoy the sight of the Torre de la Horadada watchtower in the rain; the dark clouds and gray sea lend a particularly mystical atmosphere to the historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de los Jesuitas",
+                "hu": "Playa de los Jesuitas",
+                "ro": "Playa de los Jesuitas",
+                "en": "Playa de los Jesuitas"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den nahen Vordächern und beobachten Sie das Farbspiel des Wassers; der Regen erzeugt faszinierende Muster auf der Meeresoberfläche.",
+                "hu": "Keressen menedéket a közeli előtetők alatt és figyelje a víz színeinek játékát; az esőcseppek lenyűgöző mintákat rajzolnak a tenger felszínére a szürkületben.",
+                "ro": "Căutați adăpost sub streșinile din apropiere și observați jocul culorilor apei; ploaia creează modele fascinante pe suprafața mării în lumina difuză a zilei.",
+                "en": "Seek shelter under nearby overhangs and watch the play of colors in the water; the rain creates fascinating patterns on the sea surface in the dim light."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala de Rocamar",
+                "hu": "Cala de Rocamar",
+                "ro": "Cala de Rocamar",
+                "en": "Cala de Rocamar"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen wirken bei Regen besonders markant; bleiben Sie auf den befestigten Wegen, da der lehmige Boden in Küstennähe sehr rutschig sein kann.",
+                "hu": "A sziklaformációk esőben még karakteresebbek; maradjon a kijelölt utakon, mert a part menti agyagos talaj és a sziklák rendkívül csúszóssá válhatnak a víztől.",
+                "ro": "Formațiunile stâncoase par mai accentuate pe ploaie; rămâneți pe potecile amenajate, deoarece solul argilos și stâncile pot deveni foarte alunecoase de la apă.",
+                "en": "The rock formations look even more striking in the rain; stay on the paved paths, as the clay-like soil and rocks near the coast can become very slippery from water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Kirche. Mittags glitzert die Sonne auf dem leeren Sand, doch der kühle Seewind erfordert eine warme Jacke. Nachmittags genießen wir die friedliche Stille der felsigen Buchten ohne die Sommermassen. Der frühe Sonnenuntergang gegen 17:00 Uhr taucht den Himmel in ein feuriges Orange, bevor die kühle Mittelmeernacht einzieht.",
+            "hu": "Friss téli reggel indul a templomnál. Délben a nap bágyadtan csillog az üres homokon, de a hűvös tengeri szél miatt réteges öltözet szükséges. Délután a sziklás öblök békés csendjét élvezzük a nyári tömeg nélkül. A korai, 17:00 körüli naplemente narancssárgára festi az eget, mielőtt a téli hűvös végleg leszállna a partvidékre.",
+            "ro": "O dimineață răcoroasă de iarnă începe la biserică. La prânz, soarele sclipește pe nisipul pustiu, dar vântul rece al mării impune o jachetă groasă. După-amiaza ne bucurăm de liniștea golfurilor stâncoase, fără aglomerația de vară. Apusul timpuriu de la ora 17:00 colorează cerul în portocaliu intens înainte ca noaptea rece să se lase.",
+            "en": "A crisp winter morning starts at the church. At noon, the sun glitters on the empty sand, but the cool sea breeze requires a warm jacket. In the afternoon, we enjoy the peaceful silence of the rocky coves without the summer crowds. The early sunset around 17:00 colors the sky in fiery orange before the cool Mediterranean night sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Iglesia de la Asunción",
+                "hu": "Iglesia de la Asunción",
+                "ro": "Iglesia de la Asunción",
+                "en": "Iglesia de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Die Ruhe im Inneren ist perfekt zum Aufwärmen; nutzen Sie die milde Mittagssonne auf dem Kirchplatz für ein kurzes Sonnenbad vor dem kühlen Meereswind.",
+                "hu": "A belső csend tökéletes a lelki feltöltődéshez; használja ki a déli nap sugarait a templom téren egy rövid pihenőre a hűvös tengeri szél elől védett helyen.",
+                "ro": "Liniștea din interior este perfectă pentru încălzire; profitați de soarele blând de la prânz în piața bisericii pentru o scurtă pauză ferită de vântul mării.",
+                "en": "The silence inside is perfect for warming up; take advantage of the mild midday sun in the church square for a short rest protected from the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Puerto",
+                "hu": "Playa del Puerto",
+                "ro": "Playa del Puerto",
+                "en": "Playa del Puerto"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über den Hafen bei klarer Winterluft; bringen Sie eine Thermoskanne mit Tee mit, um den Wind am Ende der Mole gemütlich zu trotzen.",
+                "hu": "Élvezze a tiszta téli levegőt és a végtelen kilátást a kikötőben; hozzon egy termosz forró teát, hogy kényelmesen dacolhasson a széllel a móló legvégén is.",
+                "ro": "Bucurați-vă de aerul curat de iarnă și de vederea panoramică din port; aduceți un termos cu ceai fierbinte pentru a înfrunta confortabil vântul la capătul digului.",
+                "en": "Enjoy the clear winter air and the endless view in the harbor; bring a thermos with hot tea to comfortably brave the wind even at the very end of the pier."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Conde",
+                "hu": "Playa del Conde",
+                "ro": "Playa del Conde",
+                "en": "Playa del Conde"
+              },
+              "tip_5lang": {
+                "de": "Der historische Turm bietet eine tolle Kulisse für Winterfotos; die tiefstehende Sonne sorgt für warme Lichttöne auf dem alten Mauerwerk und dem blauen Meer.",
+                "hu": "A történelmi torony kiváló hátteret nyújt a téli fotókhoz; az alacsonyan járó nap meleg fénnyel árasztja el az ősi falakat és a mélykék tengerfelszínt.",
+                "ro": "Turnul istoric oferă un fundal excelent pentru fotografiile de iarnă; soarele jos inundă zidurile vechi și suprafața mării cu o lumină caldă și aurie.",
+                "en": "The historic tower provides an excellent backdrop for winter photos; the low sun floods the ancient walls and the deep blue sea surface with warm, golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de los Jesuitas",
+                "hu": "Playa de los Jesuitas",
+                "ro": "Playa de los Jesuitas",
+                "en": "Playa de los Jesuitas"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer Strandspaziergang ist jetzt besonders erholsam; achten Sie auf die frühen Schatten der Klippen, die den Strand schon ab 16 Uhr abkühlen lassen.",
+                "hu": "Egy magányos séta a parton ilyenkor rendkívül pihentető; ügyeljen a sziklák korai árnyékára, amelyek már délután 4 órától jelentősen lehűtik a homokos partot.",
+                "ro": "O plimbare solitară pe plajă este extrem de relaxantă acum; atenție la umbrele timpurii ale stâncilor, care răcesc semnificativ plaja încă de la ora 16:00.",
+                "en": "A solitary walk on the beach is extremely relaxing now; watch out for the early shadows from the cliffs, which cool down the beach significantly from 4 PM onwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala de Rocamar",
+                "hu": "Cala de Rocamar",
+                "ro": "Cala de Rocamar",
+                "en": "Cala de Rocamar"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang von den Felsen aus; die Winterfarben sind oft intensiver, aber suchen Sie rechtzeitig den Rückweg vor der schnellen Dunkelheit.",
+                "hu": "Nézze meg a naplementét a sziklákról; a téli színek gyakran intenzívebbek, de induljon vissza időben, mielőtt a hirtelen sötétség és a fagyos szél elérné az öblöt.",
+                "ro": "Urmăriți apusul de pe stânci; culorile iernii sunt adesea mai intense, dar întoarceți-vă la timp, înainte ca întunericul brusc și vântul rece să cuprindă golful.",
+                "en": "Watch the sunset from the rocks; winter colors are often more intense, but head back in time before the sudden darkness and freezing wind reach the cove."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandunk a Playa del Mojónnál, egy csendes strandon kezdődik, közvetlenül Murcia határán. A friss reggeli levegő élénkítő, miközben a part mentén a nyüzsgő és népszerű Playa de las Higuericas felé tekerünk.\nDélben rövid időre elhagyjuk a strandot, hogy meglátogassuk a városközpontban található békés Iglesia de la Asunción templomot. Egy kis elmélkedés után tovább tekerünk, hogy felfedezzük a Cala de la Lombriz rejtett varázsát.\nA délutánt a történelemnek szenteljük, amikor felfedezzük a lenyűgöző Mil Palmeras római kőbányát. Itt látható, hogyan bányásztak kőzetet az ókori építők évszázadokkal ezelőtt.\nNapunkat a kiterjedt Playa de las Mil Palmeras-nál fejezzük be. Ez a tökéletes hely a lábak pihentetésére és az aranyóra élvezetére, miközben a nap lenyugszik a Földközi-tenger felett.",
         "ro": "Aventura noastră cu bicicleta începe la Playa del Mojón, o plajă liniștită chiar la granița cu Murcia. Aerul proaspăt este revigorant în timp ce pedalăm spre plina de viață și populara Playa de las Higuericas.\nLa amiază, lăsăm scurt plaja pentru a vizita pașnica Iglesia de la Asunción. După un moment de reflecție, pedalăm mai departe pe coastă pentru a descoperi farmecul ascuns al Cala de la Lombriz.\nDupă-amiaza este dedicată istoriei, explorând fascinanta Carieră Romană Mil Palmeras. Aici puteți vedea cum constructorii antici extrăgeau piatra direct din țărmul stâncos cu secole în urmă.\nNe încheiem ziua la extinsa Playa de las Mil Palmeras. Este locul perfect pentru a vă odihni picioarele și a vă bucura de ora de aur, în timp ce soarele apune peste Marea Mediterană.",
         "en": "Our cycling adventure begins at Playa del Mojón, a peaceful beach right on the border with Murcia. The fresh morning air is invigorating as we pedal along the coast to the lively and popular Playa de las Higuericas.\nBy midday, we leave the beach briefly to visit the peaceful Iglesia de la Asunción in the town center. After a moment of reflection, we cycle further up the coast to discover the hidden charm of Cala de la Lombriz.\nThe afternoon is dedicated to history as we explore the fascinating Mil Palmeras Roman Quarry. Here, you can see how ancient builders extracted stone directly from the rocky shoreline centuries ago.\nWe conclude our day at the expansive Playa de las Mil Palmeras. It is the perfect spot to rest your legs, return the bikes, and enjoy the golden hour as the sun sets over the Mediterranean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Fahrradabenteuer trotzt dem Regen mit wasserfester Ausrüstung. Vormittags radeln wir vorsichtig auf nassen Radwegen entlang der Küste. Mittags bietet die Kirche einen trockenen Stopp. Nachmittags erkunden wir die römischen Ruinen zwischen den Schauern. Der Abend endet mit einer zügigen Fahrt durch Pfützen zurück zum Ausgangspunkt, während der Wind den Regen peitscht.",
+            "hu": "A kerékpáros kaland esőben is folytatódik vízálló felszereléssel. Délelőtt óvatosan haladunk a vizes kerékpárutakon a part mentén. Délben a templom nyújt száraz pihenőt. Délután a római romokat fedezzük fel két zápor között. Az este egy tempós tekeréssel zárul a tócsák között, miközben a szél és az eső mossa az utat visszafelé.",
+            "ro": "Aventura pe bicicletă continuă și pe ploaie cu echipament impermeabil. Dimineața pedalăm cu atenție pe pistele umede de-a lungul coastei. La prânz, biserica oferă un popas uscat. După-amiaza explorăm ruinele romane între două averse. Seara se încheie cu o cursă rapidă printre bălți, în timp ce vântul și ploaia spală drumul la întoarcere.",
+            "en": "The cycling adventure continues in the rain with waterproof gear. In the morning we pedal carefully on the wet bike paths along the coast. At noon, the church provides a dry break. In the afternoon we explore the Roman ruins between showers. The evening ends with a brisk ride through puddles as the wind and rain wash the path back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa del Mojón",
+                "hu": "Playa del Mojón",
+                "ro": "Playa del Mojón",
+                "en": "Playa del Mojón"
+              },
+              "tip_5lang": {
+                "de": "Die Salzseen in der Nähe duften bei Regen intensiv; achten Sie auf den schlammigen Untergrund in Strandnähe, der Ihre Reifen schnell blockieren oder rutschen lassen kann.",
+                "hu": "A közeli sólepárlók illata felerősödik az esőben; ügyeljen a part menti sáros talajra, amely gyorsan eltömítheti a gumikat vagy megcsúsztathatja a kereket.",
+                "ro": "Mirosul salinelor din apropiere se intensifică pe ploaie; atenție la solul noroios de lângă plajă, care poate bloca rapid anvelopele sau poate face roțile să alunece.",
+                "en": "The scent of the nearby salt flats intensifies in the rain; watch out for the muddy ground near the beach, which can quickly clog tires or cause wheels to slip."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de las Higuericas",
+                "hu": "Playa de las Higuericas",
+                "ro": "Playa de las Higuericas",
+                "en": "Playa de las Higuericas"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Holzstegen, diese werden bei Nässe extrem glatt; genießen Sie den Anblick der Wellen, die auf den verlassenen, regennassen Sand prallen.",
+                "hu": "Tekerjen óvatosan a fapadlókon, mert nedvesen rendkívül csúszósak; élvezze a hullámok látványát, ahogy az elhagyatott, eső áztatta homokos partra csapódnak.",
+                "ro": "Pedalați cu atenție pe podețele de lemn, deoarece devin extrem de alunecoase când sunt ude; admirați valurile care se sparg de nisipul pustiu și ud de ploaie.",
+                "en": "Pedal carefully on the wooden boardwalks as they become extremely slippery when wet; enjoy the sight of waves crashing onto the deserted, rain-soaked sandy shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Asunción",
+                "hu": "Iglesia de la Asunción",
+                "ro": "Iglesia de la Asunción",
+                "en": "Iglesia de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad im Schutz der Kirchenmauer; nutzen Sie den Aufenthalt für einen Kleiderwechsel oder um Ihre Ausrüstung für die Weiterfahrt zu trocknen.",
+                "hu": "Parkolja le kerékpárját a templomfal védelmében; használja ki a megállót egy gyors ruhacserére vagy a felszerelése megszárítására a további tekerés előtt.",
+                "ro": "Parcați bicicleta la adăpostul zidului bisericii; profitați de oprire pentru o schimbare rapidă de haine sau pentru a vă usca echipamentul înainte de plecare.",
+                "en": "Park your bike in the shelter of the church wall; use the stop for a quick change of clothes or to dry your gear before continuing your ride in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala de la Lombriz",
+                "hu": "Cala de la Lombriz",
+                "ro": "Cala de la Lombriz",
+                "en": "Cala de la Lombriz"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Bucht bietet bei Regen eine dramatische Kulisse; meiden Sie die steilen Pfade hinunter zum Wasser, da diese jetzt weich und unsicher sind.",
+                "hu": "A kis öböl drámai látványt nyújt az esőben; kerülje a vízhez vezető meredek ösvényeket, mivel a talaj fellazult és veszélyesen csúszós a kerékpárral.",
+                "ro": "Micul golf oferă o priveliște dramatică pe ploaie; evitați potecile abrupte spre apă, deoarece solul este moale și periculos de alunecos pentru bicicletă.",
+                "en": "The small cove offers a dramatic view in the rain; avoid the steep paths down to the water, as the ground is soft and dangerously slippery for your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Mil Palmeras Roman Quarry",
+                "hu": "Mil Palmeras Roman Quarry",
+                "ro": "Mil Palmeras Roman Quarry",
+                "en": "Mil Palmeras Roman Quarry"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steinausgrabungen füllen sich bei Regen mit Wasser, was die Strukturen betont; achten Sie auf den unebenen Boden, der unter Wasser verborgen sein kann.",
+                "hu": "Az ókori kőfejtő mélyedései megtelnek vízzel, ami kiemeli a struktúrákat; vigyázzon az egyenetlen talajra, amelyet a víz elfedhet a kerékpár kerekei elől.",
+                "ro": "Adânciturile vechii cariere se umplu cu apă, evidențiind structurile; atenție la terenul accidentat care poate fi ascuns sub apă în fața roților bicicletei.",
+                "en": "The hollows of the ancient quarry fill with water, highlighting the structures; watch out for uneven ground that may be hidden under water in front of your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de las Mil Palmeras",
+                "hu": "Playa de las Mil Palmeras",
+                "ro": "Playa de las Mil Palmeras",
+                "en": "Playa de las Mil Palmeras"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie die Tour bei einem heißen Getränk in einem der Strandcafés ab; die Sicht auf das stürmische Meer ist vom trockenen Innenraum aus beeindruckend.",
+                "hu": "Zárja a túrát egy forró itallal az egyik parti kávézóban; a viharos tenger látványa a száraz belső térből nézve felejthetetlen és biztonságos befejezés.",
+                "ro": "Încheiați turul cu o băutură caldă într-o cafenea de pe plajă; vederea mării înfuriate din interiorul uscat este o experiență memorabilă și sigură.",
+                "en": "End your tour with a hot drink in a beach cafe; the view of the stormy sea from the dry interior is an unforgettable and safe way to finish your rainy day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour führt durch die klare Mittelmeerluft. Vormittags radeln wir unter strahlend blauem Himmel nach El Mojón. Mittags wärmt uns die Sonne auf dem Weg zur Kirche. Nachmittags erkunden wir die römische Geschichte an der Küste. Der frühe Sonnenuntergang um 17:00 Uhr mahnt zur Eile, während das Licht die Küstenlandschaft in ein sanftes Pastell taucht.",
+            "hu": "A téli kerékpártúra a Földközi-tenger tiszta levegőjén vezet keresztül. Délelőtt ragyogó kék ég alatt tekerünk El Mojón felé. Délben a nap sugarai melegítenek a templomhoz vezető úton. Délután a part menti római történelem nyomait keressük. A korai, 17:00 órai naplemente sietősre fogja a tempót, miközben a fények pasztellszínbe vonják a tájat.",
+            "ro": "Turul de iarnă cu bicicleta trece prin aerul curat al Mediteranei. Dimineața pedalăm sub un cer albastru strălucitor spre El Mojón. La prânz, razele soarelui ne încălzesc în drum spre biserică. După-amiaza căutăm urmele istoriei romane de pe coastă. Apusul timpuriu de la ora 17:00 ne grăbește ritmul, în timp ce lumina îmbracă peisajul în culori pastelate.",
+            "en": "The winter bike tour leads through the clear Mediterranean air. In the morning we pedal under a bright blue sky towards El Mojón. At noon, the sun's rays warm us on the way to the church. In the afternoon we look for traces of Roman history along the coast. The early sunset at 17:00 quickens our pace as the light bathes the landscape in pastel colors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa del Mojón",
+                "hu": "Playa del Mojón",
+                "ro": "Playa del Mojón",
+                "en": "Playa del Mojón"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenbrise ist hier besonders frisch; tragen Sie Handschuhe beim Radfahren, da der Fahrtwind die Hände an der Küste schnell auskühlen lässt.",
+                "hu": "A hűvös reggeli szellő itt különösen friss; viseljen kesztyűt tekerés közben, mert a menetszél a parton gyorsan lehűtheti a kezeit a téli reggeleken.",
+                "ro": "Briza răcoroasă de dimineață este deosebit de proaspătă aici; purtați mănuși când pedalați, deoarece vântul de pe coastă vă poate răci rapid mâinile în diminețile de iarnă.",
+                "en": "The cool morning breeze is especially fresh here; wear gloves while cycling, as the wind along the coast can quickly chill your hands on winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de las Higuericas",
+                "hu": "Playa de las Higuericas",
+                "ro": "Playa de las Higuericas",
+                "en": "Playa de las Higuericas"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg entlang der Dünen bietet tolle Ausblicke auf das weite Meer; genießen Sie die Einsamkeit, aber achten Sie auf Sandverwehungen auf den Wegen.",
+                "hu": "A dűnék menti kerékpárút kiváló kilátást nyújt a végtelen tengerre; élvezze a magányt, de ügyeljen az útra hordott homokra, amely megcsúsztathatja a kerekeket.",
+                "ro": "Pista de biciclete de-a lungul dunelor oferă vederi superbe spre mare; bucurați-vă de liniște, dar atenție la nisipul suflat pe drum, care poate face roțile să alunece.",
+                "en": "The bike path along the dunes offers great views of the wide sea; enjoy the solitude, but watch out for sand blown onto the paths, which can cause wheels to slip."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Asunción",
+                "hu": "Iglesia de la Asunción",
+                "ro": "Iglesia de la Asunción",
+                "en": "Iglesia de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft gegen das Frösteln durch den Wind; die Sonne am Mittag steht genau richtig, um die Fassade in warmes Gold zu tauchen.",
+                "hu": "Egy rövid megálló a belső térben segít átmelegedni a szeles tekerés után; a déli nap sugarai pontosan úgy esnek, hogy arany fénybe vonják a templom homlokzatát.",
+                "ro": "O scurtă oprire în interior ajută la încălzire după pedalarea prin vânt; soarele de la prânz cade exact cât să scalde fațada bisericii într-o lumină aurie.",
+                "en": "A short stop inside helps you warm up after cycling through the wind; the midday sun hits just right to bathe the church facade in warm, golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Cala de la Lombriz",
+                "hu": "Cala de la Lombriz",
+                "ro": "Cala de la Lombriz",
+                "en": "Cala de la Lombriz"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht ist im Winter ein stiller Ort für eine Trinkpause; halten Sie sich in Bewegung, da die Schatten hier im Winter schon früh sehr lang und kühl werden.",
+                "hu": "Az öböl télen csendes hely egy gyors frissítőhöz; maradjon mozgásban, mert az árnyékok itt télen már korán nagyon hosszúak és hűvösek lesznek a sziklák alatt.",
+                "ro": "Golful este un loc liniștit iarna pentru o scurtă hidratare; rămâneți în mișcare, deoarece umbrele de aici devin foarte lungi și reci încă de timpuriu sub stânci.",
+                "en": "The cove is a quiet place in winter for a quick refreshment; keep moving, as the shadows here become very long and cool early in the afternoon under the cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Mil Palmeras Roman Quarry",
+                "hu": "Mil Palmeras Roman Quarry",
+                "ro": "Mil Palmeras Roman Quarry",
+                "en": "Mil Palmeras Roman Quarry"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Spuren im weichen Winterlicht; die Steine speichern kaum Wärme, tragen Sie also Schuhe mit guten Sohlen für den felsigen Untergrund.",
+                "hu": "Fedezze fel az ókori nyomokat a lágy téli fényben; a kövek ilyenkor már nem tárolnak hőt, ezért viseljen vastag talpú cipőt a sziklás terepen való sétához.",
+                "ro": "Explorați urmele antice în lumina blândă a iernii; pietrele nu mai rețin căldura acum, așa că purtați încălțăminte cu talpă groasă pentru plimbarea pe terenul stâncos.",
+                "en": "Explore the ancient traces in the soft winter light; the stones store little heat now, so wear shoes with thick soles for walking on the rocky terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de las Mil Palmeras",
+                "hu": "Playa de las Mil Palmeras",
+                "ro": "Playa de las Mil Palmeras",
+                "en": "Playa de las Mil Palmeras"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, um nicht in der Kälte zu radeln; der Sonnenuntergang über dem Meer ist die beste Belohnung für die winterliche Anstrengung.",
+                "hu": "Fejezze be a túrát 17:00 előtt, hogy elkerülje a sötétben való fagyos tekerést; a tenger feletti naplemente a legjobb jutalom a téli kerékpáros erőfeszítésért.",
+                "ro": "Încheiați turul înainte de ora 17:00 pentru a evita pedalarea prin frigul serii; apusul peste mare este cea mai bună recompensă pentru efortul depus iarna.",
+                "en": "Finish your tour before 5 PM to avoid cycling in the evening chill; the sunset over the sea is the best reward for your winter cycling efforts today."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autós utunkat a gyönyörű Playa de las Mil Palmeras-nál kezdjük, élvezve a pihentető reggelt a hosszú fehér homokos parton. Egy gyors vezetés után a közeli Mil Palmeras római kőbányához érünk.\nDél körül Torre de la Horadada központjába hajtunk, hogy meglátogassuk az Iglesia de la Asunción templomot. Bájos építészete kellemes kulturális szünetet biztosít a napsütés és a homok után.\nDélután dél felé, a Playa de las Villas felé vesszük az irányt. Az út rövid és festői, egy olyan strandhoz vezet, amelyet a nevét adó bájos helyi házak szegélyeznek.\nUtolsó állomásunk az este közeledtével a Playa del Mojón, a város déli szélén. Itt élvezhetjük a békés naplementés sétát a parton, tökéletesen lezárva változatos tengerparti utazásunkat.",
         "ro": "Ne începem călătoria cu mașina la frumoasa Playa de las Mil Palmeras, bucurându-ne de o dimineață relaxantă pe plajă. Un scurt drum ne duce apoi la Cariera Romană Mil Palmeras pentru a descoperi istoria locală.\nÎn jurul prânzului, conducem spre centrul orașului Torre de la Horadada pentru a vizita Iglesia de la Asunción. Arhitectura sa fermecătoare oferă o pauză culturală plăcută de la soare și nisip.\nDupă-amiaza, ne îndreptăm spre sud către Playa de las Villas. Drumul este scurt și pitoresc, ducându-ne la o plajă mărginită de casele locale fermecătoare care îi dau numele.\nUltima noastră oprire, odată cu lăsarea serii, este Playa del Mojón. Aici ne putem bucura de o plimbare pașnică la apus de soare de-a lungul țărmului, încheind perfect călătoria noastră de coastă.",
         "en": "We start our road trip at the beautiful Playa de las Mil Palmeras, enjoying a relaxing morning by the long stretch of white sand. A quick drive then takes us to the nearby Mil Palmeras Roman Quarry to uncover local history.\nAround midday, we drive into the center of Torre de la Horadada to visit the Iglesia de la Asunción. Its charming architecture provides a nice cultural break from the sun and sand.\nIn the afternoon, we cruise south to Playa de las Villas. The drive is short and scenic, leading us to a picturesque beach bordered by the charming local houses that give it its name.\nOur final stop as evening falls is Playa del Mojón at the southern edge of town. Here, we can enjoy a peaceful sunset walk along the shore, ending our varied coastal journey perfectly."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet maximalen Komfort bei Regenwetter. Vormittags fahren wir entlang der Küstenstraße nach Mil Palmeras. Mittags parken wir nah an der Kirche für einen kurzen, trockenen Besuch. Nachmittags beobachten wir den Regen auf den antiken Steinen vom Fenster aus. Der Abend endet mit einer gemütlichen Fahrt entlang der beleuchteten Promenade, sicher geschützt vor dem Wind.",
+            "hu": "Az autós túra maximális kényelmet nyújt esős időben. Délelőtt a part menti úton hajtunk Mil Palmeras felé. Délben a templom közelében parkolunk egy rövid, száraz látogatás erejéig. Délután az autó ablakából figyeljük az esőcseppeket az ókori romokon. Az este a kivilágított sétány menti lassú autózással zárul, biztonságban az erős tengeri széltől.",
+            "ro": "Turul cu mașina oferă confort maxim pe vreme ploioasă. Dimineața conducem pe drumul de coastă spre Mil Palmeras. La prânz parcăm aproape de biserică pentru o vizită scurtă și uscată. După-amiaza observăm stropii de ploaie pe ruinele antice din geamul mașinii. Seara se încheie cu o plimbare lentă de-a lungul falezei iluminate, la adăpost de vânt.",
+            "en": "The car tour offers maximum comfort in rainy weather. In the morning we drive along the coastal road towards Mil Palmeras. At noon we park close to the church for a short, dry visit. In the afternoon we watch the raindrops on the ancient ruins from the car window. The evening ends with a slow drive along the illuminated promenade, safe from the wind."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de las Mil Palmeras",
+                "hu": "Playa de las Mil Palmeras",
+                "ro": "Playa de las Mil Palmeras",
+                "en": "Playa de las Mil Palmeras"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze mit direktem Meerblick; so können Sie das Panorama genießen, während der Regen auf das Dach trommelt und Sie trocken bleiben.",
+                "hu": "Használja a közvetlen tengeri kilátással rendelkező parkolókat; így élvezheti a panorámát, miközben az eső a tetőn kopog, Ön pedig teljesen száraz marad.",
+                "ro": "Folosiți parcările cu vedere directă la mare; astfel vă puteți bucura de panoramă în timp ce ploaia bate în acoperiș, iar dumneavoastră rămâneți uscat.",
+                "en": "Use the parking lots with a direct sea view; this way you can enjoy the panorama while the rain drums on the roof and you stay completely dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Mil Palmeras Roman Quarry",
+                "hu": "Mil Palmeras Roman Quarry",
+                "ro": "Mil Palmeras Roman Quarry",
+                "en": "Mil Palmeras Roman Quarry"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen liegen nah an der Straße; ein kurzer Ausstieg lohnt sich, da der nasse Stein die Meißelspuren der Römer deutlicher hervortreten lässt.",
+                "hu": "Az ásatások közel vannak az úthoz; érdemes egy rövid időre kiszállni, mivel a vizes kőfelületeken az ókori rómaiak vésésnyomai sokkal élesebben kirajzolódnak.",
+                "ro": "Săpăturile sunt aproape de drum; merită să coborâți pentru scurt timp, deoarece pe piatra umedă urmele dălților romanilor sunt mult mai vizibile și clare.",
+                "en": "The excavations are close to the road; it's worth getting out briefly, as the wet stone makes the ancient Roman chisel marks stand out much more clearly."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Asunción",
+                "hu": "Iglesia de la Asunción",
+                "ro": "Iglesia de la Asunción",
+                "en": "Iglesia de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Haupteingangs, um den Regenweg kurz zu halten; im Inneren ist es warm und trocken, ideal für eine Pause bei schlechtem Wetter.",
+                "hu": "Parkoljon a főbejárat közelében, hogy lerövidítse az utat az esőben; odabent meleg és száraz idő fogadja, ami ideális egy pihenőhöz rossz idő esetén.",
+                "ro": "Parcați lângă intrarea principală pentru a scurta drumul prin ploaie; în interior este cald și uscat, ideal pentru o pauză în caz de vreme nefavorabilă.",
+                "en": "Park near the main entrance to keep the walk in the rain short; inside it is warm and dry, ideal for a break during bad weather on your coastal tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de las Villas",
+                "hu": "Playa de las Villas",
+                "ro": "Playa de las Villas",
+                "en": "Playa de las Villas"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Wellen von der Uferstraße aus; bei Regen sind die Farben des Meeres besonders intensiv und das Auto bietet den besten Windschutz.",
+                "hu": "Figyelje a hullámokat a part menti útról; esőben a tenger színei különösen intenzívek, és az autó nyújtja a legjobb védelmet a metsző tengeri szél ellen.",
+                "ro": "Observați valurile de pe drumul de coastă; pe ploaie, culorile mării sunt deosebit de intense, iar mașina oferă cea mai bună protecție împotriva vântului.",
+                "en": "Watch the waves from the coastal road; in the rain, the sea colors are particularly intense, and the car provides the best protection against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Mojón",
+                "hu": "Playa del Mojón",
+                "ro": "Playa del Mojón",
+                "en": "Playa del Mojón"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt vorbei an den Salzwiesen ist bei Regen sehr atmosphärisch; achten Sie auf Pfützen auf der Fahrbahn, die nach heftigen Güssen tief sein können.",
+                "hu": "A sólepárlók melletti autózás esőben nagyon hangulatos; ügyeljen az úttesten kialakuló tócsákra, amelyek a heves záporok után meglepően mélyek lehetnek.",
+                "ro": "Drumul pe lângă saline este foarte atmosferic pe ploaie; atenție la bălțile de pe carosabil, care pot fi surprinzător de adânci după averselor puternice.",
+                "en": "Driving past the salt flats is very atmospheric in the rain; watch out for puddles on the roadway, which can be surprisingly deep after heavy downpours."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Spritztour verbindet malerische Aussichten mit behaglicher Wärme. Vormittags gleiten wir bei strahlendem Licht entlang der Küste von Mil Palmeras. Mittags besuchen wir die Kirche im Schutz der milden Wintersonne. Nachmittags genießen wir die Fahrt vorbei an den einsamen Stränden. Der frühe Sonnenuntergang um 17:00 Uhr lässt sich perfekt vom warmen Fahrzeug aus beobachten.",
+            "hu": "A téli autós kirándulás a festői kilátást ötvözi a kellemes melegséggel. Délelőtt ragyogó fények mellett autózunk a part mentén Mil Palmeras felé. Délben a templomot keressük fel a gyenge téli napsütésben. Délután az elhagyatott strandok látványát élvezzük a fűtött utastérből. A korai, 17:00 órai naplementét tökéletesen végignézhetjük az autóból.",
+            "ro": "Excursia de iarnă cu mașina îmbină priveliștile pitorești cu căldura plăcută. Dimineața conducem pe lângă coastă spre Mil Palmeras sub o lumină strălucitoare. La prânz vizităm biserica sub soarele blând de iarnă. După-amiaza ne bucurăm de vederea plajelor pustii din mașina încălzită. Apusul timpuriu de la ora 17:00 poate fi urmărit perfect din vehicul.",
+            "en": "The winter car trip combines scenic views with cozy warmth. In the morning we drive along the coast towards Mil Palmeras under bright lights. At noon we visit the church in the mild winter sun. In the afternoon we enjoy the sight of the deserted beaches from the heated cabin. The early sunset at 17:00 can be watched perfectly from the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Playa de las Mil Palmeras",
+                "hu": "Playa de las Mil Palmeras",
+                "ro": "Playa de las Mil Palmeras",
+                "en": "Playa de las Mil Palmeras"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und spiegelt sich herrlich im Meer; ein kurzer Strandspaziergang ist erfrischend, danach wartet das warme Auto auf Sie.",
+                "hu": "A téli nap alacsonyan jár és gyönyörűen tükröződik a tengeren; egy rövid séta a parton frissítő, utána pedig jól esik visszatérni a fűtött utastérbe.",
+                "ro": "Soarele de iarnă este jos și se reflectă superb în mare; o scurtă plimbare pe plajă este revigorantă, după care este plăcut să reveniți în mașina încălzită.",
+                "en": "The winter sun is low and reflects beautifully on the sea; a short walk on the beach is refreshing, and then it feels good to return to the heated car interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Mil Palmeras Roman Quarry",
+                "hu": "Mil Palmeras Roman Quarry",
+                "ro": "Mil Palmeras Roman Quarry",
+                "en": "Mil Palmeras Roman Quarry"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am Nachmittag für das beste Fotolicht; die Schatten betonen die antiken Schnittkanten im Stein unter dem klaren Winterhimmel.",
+                "hu": "Látogasson el ide délután a legjobb fotó fényekért; az árnyékok kiemelik az antik vágási éleket a sziklában a tiszta téli égbolt alatt a part mentén.",
+                "ro": "Vizitați acest loc după-amiaza pentru cea mai bună lumină foto; umbrele scot în evidență marginile antice de tăiere din stâncă sub cerul senin de iarnă.",
+                "en": "Visit this place in the afternoon for the best photo lighting; the shadows emphasize the ancient cut edges in the rock under the clear winter sky along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Asunción",
+                "hu": "Iglesia de la Asunción",
+                "ro": "Iglesia de la Asunción",
+                "en": "Iglesia de la Asunción"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist es am wärmsten auf dem Platz vor der Kirche; genießen Sie die Architektur, bevor Sie die Küstenfahrt im komfortablen Auto fortsetzen.",
+                "hu": "Délben a legmelegebb a templom előtti tér a napsütésben; élvezze az építészetet, mielőtt folytatná a kényelmes autózást a part menti panorámaúton.",
+                "ro": "La prânz este cel mai cald în piața din fața bisericii; bucurați-vă de arhitectură înainte de a continua drumul confortabil cu mașina pe șoseaua de coastă.",
+                "en": "At noon it is warmest in the square in front of the church; enjoy the architecture before continuing your comfortable drive along the scenic coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de las Villas",
+                "hu": "Playa de las Villas",
+                "ro": "Playa de las Villas",
+                "en": "Playa de las Villas"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen tollen Rundumblick; nutzen Sie die klare Sicht im Winter für Fernaufnahmen der Küste, ohne das warme Fahrzeug zu verlassen.",
+                "hu": "A parkolóból kiváló körpanoráma nyílik; használja ki a tiszta téli látási viszonyokat a távoli partvidék fotózásához anélkül, hogy kiszállna az autóból.",
+                "ro": "Parcarea oferă o vedere panoramică excelentă; profitați de vizibilitatea clară de iarnă pentru a fotografia coasta îndepărtată fără a coborî din mașină.",
+                "en": "The parking lot offers an excellent panoramic view; take advantage of the clear winter visibility to photograph the distant coastline without leaving your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa del Mojón",
+                "hu": "Playa del Mojón",
+                "ro": "Playa del Mojón",
+                "en": "Playa del Mojón"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang bequem vom Auto aus; das Farbspiel über den Salzseen und dem Meer ist im Winter besonders dramatisch und warm.",
+                "hu": "Figyelje a naplementét kényelmesen az autóból; a színek játéka a sólepárlók és a tenger felett télen különösen drámai és meleg árnyalatokban pompázik.",
+                "ro": "Urmăriți apusul confortabil din mașină; jocul de culori peste saline și mare este deosebit de dramatic și cald în tonuri în timpul lunilor de iarnă.",
+                "en": "Watch the sunset comfortably from the car; the play of colors over the salt flats and the sea is particularly dramatic and warm in tones during winter months."
+              }
+            }
+          ]
+        }
       }
     }
   }

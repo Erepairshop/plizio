@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi templom felfedezésével, mielőtt az Audresselles kavicsos partjaira indulna. A dél telve lesz a második világháborús múzeum mélyreható történelmével. Töltse a délutánt a bájos Szent Mihály-templom felé sétálva. Zárja a napot a Fort Mahon part menti védműveinek felfedezésével, miközben az esti nap lenyugszik a tenger felett.",
         "ro": "Începeți dimineața explorând biserica locală, înainte de a vă îndrepta spre țărmurile cu pietriș ale Plajei Audresselles. Amiaza vă invită să descoperiți istoria profundă a Muzeului Celui de-al Doilea Război Mondial. Petreceți după-amiaza rătăcind spre fermecătoarea Biserică Saint-Michel. Încheiați-vă ziua explorând apărarea de coastă a Fortului Mahon la apus.",
         "en": "Start your morning exploring the resilient Church of Saint-Jean-Baptiste before heading to the pebble shores of Audresselles Beach. Midday invites you to dive into the profound history of the World War II Museum. Spend your afternoon wandering to the charming Church of Saint-Michel. Conclude your day trip by exploring the coastal defenses of Fort Mahon as the evening sun sets over the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie morgens geschützt in der Kirche, bevor Sie den windigen, verregneten Strand erleben. Mittags bietet das spannende Weltkriegsmuseum eine perfekte Zuflucht vor den Küstenschauern. Am Nachmittag erkunden Sie eine weitere Kirche und gehen vorsichtig über nasse Wege zum Fort Mahon. Den feuchten Abend lassen Sie am besten drinnen in einer gemütlichen lokalen Taverne ausklingen.",
+            "hu": "Kezdje a reggelt a templom menedékében, majd tegyen egy frissítő sétát az eső áztatta, drámai tengerparton. Délben a lenyűgöző második világháborús múzeum nyújt tökéletes menedéket a záporok elől. Délután látogasson el egy másik templomba, és óvatosan sétáljon el a vizes utakon a Fort Mahonhoz. Az esős estét egy hangulatos helyi fogadóban érdemes tölteni.",
+            "ro": "Începeți dimineața la adăpost în biserică, înainte de o plimbare pe plaja bătută de ploaie. La prânz, fascinantul muzeu al Doilea Război Mondial oferă un refugiu perfect din calea averselor. După-amiaza, vizitați o altă biserică și mergeți cu grijă pe potecile umede spre Fort Mahon. Încheiați seara ploioasă la interior, într-o tavernă locală primitoare.",
+            "en": "Start your morning seeking shelter in the historic church before a brisk, wet walk along the dramatic, rain-swept beach. Midday offers refuge inside the fascinating WWII museum, escaping the coastal downpours. In the afternoon, visit another charming church and carefully navigate the wet paths to Fort Mahon. Conclude the wet evening indoors at a cozy local coastal tavern."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schöne Architektur im Trockenen; bringen Sie einen guten Regenschirm für den nassen Fußweg zum nächsten Ziel mit.",
+                "hu": "Csodálja meg a szép építészetet szárazon maradva; a kinti sétához és a következő állomáshoz vigyen egy jó, szélálló esernyőt.",
+                "ro": "Admirați arhitectura frumoasă la adăpost; luați o umbrelă rezistentă la vânt pentru plimbarea pe jos către următoarea destinație.",
+                "en": "Admire the beautiful architecture while staying dry inside; bring a sturdy umbrella for the wet walk to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Audresselles",
+                "hu": "Audresselles strand",
+                "ro": "Plaja din Audresselles",
+                "en": "Audresselles Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die dramatischen Wellen im Regen; wasserdichte Schuhe sind unerlässlich, da der Sand sehr nass und weich wird.",
+                "hu": "Nézze a drámai, becsapódó hullámokat esőben; a vízálló cipő elengedhetetlen, mivel a homok nagyon nedves és süppedős.",
+                "ro": "Urmăriți valurile dramatice în timpul ploii; încălțămintea impermeabilă este esențială pe nisipul extrem de ud și moale.",
+                "en": "Watch the dramatic crashing waves during the rain; waterproof shoes are absolutely essential for navigating the wet sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Zweiten Weltkriegs",
+                "hu": "Második Világháborús Múzeum",
+                "ro": "Muzeul Celui de-al Doilea Război Mondial",
+                "en": "World War II Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historischen Ausstellungen komplett drinnen; dies ist der perfekte trockene Zufluchtsort bei starkem Regen.",
+                "hu": "Fedezze fel a kiterjedt történelmi kiállításokat zárt térben; ez a tökéletes száraz menedék a hirtelen jött felhőszakadások idején.",
+                "ro": "Explorați expozițiile istorice complet la interior; acesta este refugiul uscat perfect în timpul ploilor torențiale bruște.",
+                "en": "Explore the extensive historical exhibits entirely indoors; this is the perfect dry refuge during sudden coastal downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Church of Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die kunstvollen Buntglasfenster im Inneren; treten Sie besonders vorsichtig auf den rutschigen Steinweg zum Eingang.",
+                "hu": "Nézze meg a bonyolult ólomüveg ablakokat; lépjen rendkívül óvatosan a bejárathoz vezető csúszós, nedves kövezett úton.",
+                "ro": "Admirați vitraliile complicate la interior; pășiți cu mare grijă pe aleea de piatră alunecoasă care duce spre intrarea bisericii.",
+                "en": "See the intricate stained glass windows inside; step very carefully on the slippery, wet stone path leading to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Mahon",
+                "hu": "Fort Mahon",
+                "ro": "Fort Mahon",
+                "en": "Fort Mahon"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die beeindruckende Festung; bleiben Sie auf den gepflasterten Flächen, um Schlamm um die Mauern herum zu vermeiden.",
+                "hu": "Figyelje meg a lenyűgöző erődítményt; maradjon a szilárd burkolatú területeken, hogy elkerülje a sárban való csúszkálást a falaknál.",
+                "ro": "Observați impresionanta fortăreață; rămâneți strict pe zonele pavate pentru a evita noroiul abundent din jurul zidurilor.",
+                "en": "Observe the impressive fortress exterior; stick closely to the paved areas to avoid the heavy mud forming around the walls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den klaren Wintermorgen in der historischen Kirche und genießen Sie die frostige Schönheit des leeren Strandes. Mittags wärmen Sie sich im fesselnden Weltkriegsmuseum auf. Wenn die frühe Dämmerung einsetzt, besuchen Sie die zweite Kirche und bewundern das Fort Mahon im schwindenden Winterlicht. Genießen Sie einen gemütlichen, warmen Abend drinnen.",
+            "hu": "Kezdje a csípős téli reggelt a történelmi templom felfedezésével és az üres, dércsípte strand zord szépségével. Délben melegedjen fel a lenyűgöző második világháborús múzeumban. A korai sötétedés közeledtével látogassa meg a második templomot, és csodálja meg a Fort Mahon sziluettjét a halványuló téli égen. Töltsön egy hangulatos, meleg estét zárt térben.",
+            "ro": "Începeți dimineața geroasă de iarnă explorând biserica istorică și frumusețea înghețată a plajei pustii. La prânz, încălziți-vă în interiorul captivantului muzeu. Odată cu amurgul timpuriu, vizitați a doua biserică și admirați silueta Fortului Mahon pe cerul estompat de iarnă. Bucurați-vă de o seară caldă și confortabilă la interior.",
+            "en": "Begin your crisp winter morning exploring the historic church and enjoying the stark, frost-kissed beauty of the empty beach. Midday brings you indoors to the engaging WWII museum to warm up. As the early twilight approaches, visit the second church and admire Fort Mahon's imposing silhouette against the fading winter sky. Enjoy a cozy, warm evening indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie die vom winterlichen Morgenlicht erhellten Steindetails; ziehen Sie sich warm an, da alte Kirchen sehr zugig sein können.",
+                "hu": "Figyelje meg a téli reggeli fényben fürdő kőrészleteket; öltözzön meleg rétegekbe, mert az öreg templomok nagyon huzatosak lehetnek.",
+                "ro": "Observați detaliile din piatră luminate de soarele blând de iarnă; îmbrăcați-vă gros, deoarece bisericile vechi pot fi răcoroase.",
+                "en": "Notice the stone details illuminated by winter morning light; dress in warm layers as old historic churches can be quite drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Audresselles",
+                "hu": "Audresselles strand",
+                "ro": "Plaja din Audresselles",
+                "en": "Audresselles Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang in der winterlichen Stille; eine winddichte Jacke ist gegen die eiskalte Seebrise Pflicht.",
+                "hu": "Tegyél egy frissítő sétát a békés téli magányban; vastag, szélálló kabát kötelező a fagyos, tengeri szél elleni védelemhez.",
+                "ro": "Faceți o plimbare rapidă pentru a vă bucura de solitudinea iernii; purtați o jachetă rezistentă pentru vântul înghețat de la mare.",
+                "en": "Take a brisk walk to enjoy the peaceful winter solitude; wear a heavy windproof jacket against the biting cold sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Zweiten Weltkriegs",
+                "hu": "Második Világháborús Múzeum",
+                "ro": "Muzeul Celui de-al Doilea Război Mondial",
+                "en": "World War II Museum"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die lokale Geschichte kennen und wärmen Sie sich auf; die beheizten Säle sind eine willkommene Pause von der Kälte draußen.",
+                "hu": "Ismerje meg a helyi történelmet, miközben felmelegszik; a fűtött termek nagyon kellemes szünetet nyújtanak a kinti hideg elől.",
+                "ro": "Aflați istoria locală în timp ce vă încălziți; galeriile încălzite oferă o pauză extrem de binevenită de la frigul aspru de afară.",
+                "en": "Learn about local WWII history while warming up inside; the heated galleries offer a much-needed, welcome break from the outdoor chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Church of Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre; besuchen Sie die Kirche vor 16:00 Uhr, da die sehr frühe Dämmerung die Gehwege dunkel macht.",
+                "hu": "Értékelje a csendes hangulatot; feltétlenül látogasson el 16:00 előtt, mert a korai téli sötétedés miatt a járdák hamar elsötétülnek.",
+                "ro": "Apreciați atmosfera liniștită; vizitați înainte de ora 16:00, deoarece amurgul timpuriu de iarnă întunecă rapid trotuarele din jur.",
+                "en": "Appreciate the quiet atmosphere; aim to visit before 16:00 as the very early winter twilight quickly makes the surrounding paths dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Mahon",
+                "hu": "Fort Mahon",
+                "ro": "Fort Mahon",
+                "en": "Fort Mahon"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Festung bei schwindendem Licht; machen Sie Ihre Fotos frühzeitig, bevor die Sonne gegen 17:00 Uhr komplett untergeht.",
+                "hu": "Csodálja meg az erődöt a fogyó fényben; készítse el fotóit korán, mielőtt a nap 17:00 körül teljesen lemenne a horizonton.",
+                "ro": "Admirați fortăreața în lumina estompată; faceți fotografiile devreme, înainte ca soarele să apună complet în jurul orei 17:00.",
+                "en": "Admire the fortress in the fading light; be sure to take your outdoor photos early before the sun fully sets around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a történelmi helyi templomnál, majd tekerjen le a festői fő strandhoz. Délre kerékpározzon a második világháborús múzeumhoz egy múltbéli utazásra. A délutáni út összeköti a békés Szent Mihály-templomot a Fort Mahon tengerparti erődjével. Zárja az aktív napot északra pedálozva a Casemate 4 hatalmas romjaihoz.",
         "ro": "Începeți turul cu bicicleta la biserica istorică, apoi mergeți pe plaja principală. Până la amiază, pedalați spre Muzeul Războiului pentru o călătorie în trecut. Plimbarea de după-amiază leagă pașnica biserică Saint-Michel de fortăreața Fort Mahon. Încheiați-vă ziua activă pedalând spre nord către ruinele imense ale Casematei 4.",
         "en": "Kick off your cycling tour at the historic local church, then ride down to the picturesque main beach. By midday, cycle towards the expansive World War II Museum for a journey into the past. Your afternoon ride connects the peaceful Church of Saint-Michel with the striking coastal fortress of Fort Mahon. Wrap up your active day by pedaling north to the immense ruins of Casemate 4."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ihre Morgenfahrt beginnt mit einer nassen Brise, von der Kirche zur nebligen Küste. Den Mittagsschauern entkommen Sie am besten im weitläufigen Weltkriegsmuseum. Nachmittags radeln Sie vorsichtig auf rutschigen Küstenstraßen an Saint-Michel und dem Fort vorbei zur letzten Kasematte. Wärmen Sie sich am regnerischen Abend in einem Lokal auf.",
+            "hu": "A reggeli tekerés hűvös, nedves széllel indul a történelmi templomtól a párás partig. A déli záporok elől a legjobb a hatalmas múzeumba menekülni. Délután óvatosan pedálozzon a csúszós parti utakon a Saint-Michel és az erőd mellett az utolsó kazamatáig. Melegedjen fel egy zárt térben az esős és fárasztó este során.",
+            "ro": "Plimbarea matinală începe cu o briză umedă, de la biserica istorică spre țărmul cețos. Aversele de la prânz sunt cel mai bine evitate în imensul muzeu de război. După-amiaza, pedalați cu grijă pe drumurile alunecoase, pe lângă Saint-Michel și fort, ajungând la cazemată. Încălziți-vă la interior în seara ploioasă.",
+            "en": "Your morning ride starts with a wet breeze, taking you from the historic church to the misty shore. Midday showers are best escaped inside the sprawling WWII museum while your bike rests. In the afternoon, pedal carefully on slippery coastal roads past Saint-Michel and the fort, reaching the final casemate. Warm up indoors during the rainy evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den trockenen Innenraum; stellen Sie sicher, dass Ihre Fahrradtaschen wasserdicht verschlossen sind, bevor Sie weiterfahren.",
+                "hu": "Élvezze a száraz belső teret; indulás előtt ellenőrizze, hogy a kerékpáros táskák vízállóan be vannak-e zárva a következő szakaszhoz.",
+                "ro": "Bucurați-vă de interiorul uscat; asigurați-vă că gențile de bicicletă sunt închise etanș și impermeabile înainte de a continua drumul.",
+                "en": "Enjoy the dry interior; make absolutely sure your bike panniers or bags are sealed and waterproof before continuing the wet ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Audresselles",
+                "hu": "Audresselles strand",
+                "ro": "Plaja din Audresselles",
+                "en": "Audresselles Beach"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das raue Meer; schieben Sie Ihr Fahrrad am Strandzugang, da nasser Sand auf dem Pflaster extrem rutschig für Reifen ist.",
+                "hu": "Nézze meg a viharos tengert; tolja a kerékpárt a strandlejárónál, mert a nedves homok a burkolaton nagyon csúszós a gumiknak.",
+                "ro": "Priviți marea agitată; împingeți bicicleta la accesul pe plajă, deoarece nisipul ud pe pavaj este extrem de alunecos pentru anvelope.",
+                "en": "View the rough sea; push your bike near the beach access point as wet sand washed onto the pavement is extremely slippery for tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Zweiten Weltkriegs",
+                "hu": "Második Világháborús Múzeum",
+                "ro": "Muzeul Celui de-al Doilea Război Mondial",
+                "en": "World War II Museum"
+              },
+              "tip_5lang": {
+                "de": "Eine perfekte Pause vom Regen; nehmen Sie Ihren Regenumhang mit hinein, um ihn in den Garderobenbereichen etwas abtropfen zu lassen.",
+                "hu": "Tökéletes szünet az esőből; vigye be a nedves esőgallérját, hogy egy kicsit lecsöpöghessen és megszáradjon az előtérben.",
+                "ro": "O pauză perfectă de la ploaie; luați pelerina de ploaie cu dumneavoastră în interior pentru a o lăsa să se scurgă în zona de la intrare.",
+                "en": "A perfect break from the rain; bring your wet cycling poncho inside to let it drip and dry off slightly in the cloakroom areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Church of Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kleine Kirche; bremsen Sie auf dem Weg hierher sanft, da nasses Kopfsteinpflaster gefährlich glatt sein kann.",
+                "hu": "Csodálja meg a kis templomot; idefelé finoman fékezzen, mivel a nedves macskakő és aszfalt veszélyesen csúszós lehet esőben.",
+                "ro": "Admirați mica biserică; frânați ușor pe drumul încoace, deoarece piatra cubică umedă poate fi periculos de alunecoasă pe ploaie.",
+                "en": "Admire the small church; apply your brakes very gently on the approach here, as wet cobblestones can be dangerously slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Mahon",
+                "hu": "Fort Mahon",
+                "ro": "Fort Mahon",
+                "en": "Fort Mahon"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig an den Festungsmauern entlang; meiden Sie tiefe Pfützen, die Schlaglöcher auf den Wegen verbergen könnten.",
+                "hu": "Tekerjen óvatosan az erődfalak mentén; kerülje ki a mély tócsákat, amelyek kátyúkat rejthetnek az esőtől áztatott utakon.",
+                "ro": "Ciclism cu prudență de-a lungul zidurilor; evitați bălțile adânci, care ar putea ascunde gropi periculoase pe drumurile de acces.",
+                "en": "Ride cautiously along the fortress perimeters; avoid deep puddles entirely, as they might hide tire-damaging potholes on the paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie Todt - Kasematte 4",
+                "hu": "Todt Üteg - 4. Kazamata",
+                "ro": "Bateria Todt - Cazemata 4",
+                "en": "Todt Battery - Casemate 4"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie den Bunker; tragen Sie eine Warnweste für die nasse Rückfahrt, da die Sicht bei Regen deutlich eingeschränkt ist.",
+                "hu": "Fedezze fel a bunkert; viseljen láthatósági mellényt a nedves visszaúthoz, mivel a látási viszonyok esőben jelentősen romlanak.",
+                "ro": "Descoperiți buncărul; purtați o vestă reflectorizantă pentru drumul ud de întoarcere, deoarece vizibilitatea este mult redusă pe ploaie.",
+                "en": "Discover the bunker; wear a high-visibility vest or jacket for the wet ride back, as visibility is significantly reduced during rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie an einem frostigen Morgen und radeln Sie von der Kirche zum wunderschönen winterlichen Strand. Mittags schließen Sie das Rad an und tauen im Weltkriegsmuseum auf. Der Nachmittag erfordert ein flottes Tempo am Fort und der Kasematte vorbei, um dem schwindenden Licht zuvorzukommen. Beenden Sie die kalte Fahrt bis 16:30 Uhr.",
+            "hu": "Induljon egy csípős, fagyos reggelen, kerékpározva a hangulatos templomtól a lenyűgöző téli strandig. Délben zárja le a biciklit, és engedjen fel a lenyűgöző múzeumban. A délután fürge tempót igényel az erőd és a kazamata mellett a sötétedés előtt. Fejezze be a hideg utat 16:30-ig, és keressen egy meleg helyet estére.",
+            "ro": "Porniți într-o dimineață geroasă, pedalând de la biserică spre plaja superbă de iarnă. La prânz, legați bicicleta și dezghețați-vă în muzeul de război. După-amiaza necesită un ritm alert pe lângă fort și cazemată pentru a devansa întunericul. Încheiați cursa rece până la 16:30 și găsiți un loc confortabil pentru seară.",
+            "en": "Set off on a crisp, frosty morning, biking from the charming church to the stark, beautiful winter beach. At midday, lock your bike and thaw out inside the fascinating WWII museum. The afternoon requires a brisk pace past the fort and casemate to beat the fading light. End your chilly winter ride by 16:30 and find a cozy spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Kälte ist spürbar; wärmen Sie Ihre Hände in der Kirche auf und tragen Sie winddichte Handschuhe für die Radfahrt.",
+                "hu": "A reggeli fagy érezhető; melegítse fel a kezét a templomban, és feltétlenül viseljen szélálló kesztyűt a kerékpározáshoz.",
+                "ro": "Frigul dimineții este tăios; încălziți-vă mâinile în biserică și asigurați-vă că purtați mănuși groase pentru pedalat.",
+                "en": "The morning frost is sharp; warm your hands inside the church and be sure to wear heavy windproof gloves for the cycling ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Audresselles",
+                "hu": "Audresselles strand",
+                "ro": "Plaja din Audresselles",
+                "en": "Audresselles Beach"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie den frostigen Sand; achten Sie auf eisige Stellen auf der Uferpromenade, die Ihre Reifen wegrutschen lassen können.",
+                "hu": "Csodálja meg a fagyos homokot; figyeljen a parti sétány jeges foltjaira, amelyek könnyen megcsúsztathatják a kerékpár gumiját.",
+                "ro": "Admirați nisipul înghețat; fiți foarte atenți la peticele de gheață de pe faleză, care pot face ca anvelopele să alunece brusc.",
+                "en": "Marvel at the frosted sand; watch very carefully for icy patches on the promenade that can easily cause your bicycle tires to slip."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Zweiten Weltkriegs",
+                "hu": "Második Világháborús Múzeum",
+                "ro": "Muzeul Celui de-al Doilea Război Mondial",
+                "en": "World War II Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort, um der Winterkälte zu entfliehen; nutzen Sie die Zeit drinnen, um völlig aufzutauen, bevor Sie weiterfahren.",
+                "hu": "Kiváló hely a téli hideg elől való menekülésre; használja ki a benti időt a teljes felengedésre, mielőtt újra nyeregbe szállna.",
+                "ro": "Un loc excelent pentru a scăpa de frigul iernii; folosiți timpul petrecut înăuntru pentru a vă dezgheța complet înainte de a continua.",
+                "en": "An excellent spot to escape the winter chill; use the time indoors to completely thaw out your extremities before riding further."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Church of Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie einen kurzen Halt; schalten Sie bereits jetzt Ihre Fahrradlichter ein, da die tiefe Wintersonne Sie für Autos schlecht sichtbar macht.",
+                "hu": "Tervezzen rövid megállót; már most kapcsolja be a kerékpárlámpákat, mert az alacsony téli nap miatt az autósok rosszul láthatják önt.",
+                "ro": "Faceți o oprire scurtă; aprindeți luminile bicicletei acum, deoarece soarele de iarnă coborât vă face greu de observat de către mașini.",
+                "en": "Plan a brief stop; turn your bicycle lights on now, as the low winter sun glare makes it difficult for passing cars to see you."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Mahon",
+                "hu": "Fort Mahon",
+                "ro": "Fort Mahon",
+                "en": "Fort Mahon"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Festung im goldenen Nachmittagslicht; fahren Sie zügig weiter, da die Temperaturen bei Sonnenuntergang rapide fallen.",
+                "hu": "Nézze meg az erődöt az aranyló délutáni fényben; haladjon tovább tempósan, mivel a hőmérséklet naplemente közeledtével zuhanni kezd.",
+                "ro": "Vedeți fortul în lumina aurie a după-amiezii; continuați să pedalați rapid, deoarece temperaturile scad drastic spre apus.",
+                "en": "See the fort in the golden afternoon light; keep moving at a brisk pace as temperatures drop rapidly as sunset quickly approaches."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie Todt - Kasematte 4",
+                "hu": "Todt Üteg - 4. Kazamata",
+                "ro": "Bateria Todt - Cazemata 4",
+                "en": "Todt Battery - Casemate 4"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie den Betonbau in der Dämmerung; stellen Sie sicher, dass Ihre Scheinwerfer für die dunkle, eiskalte Heimfahrt voll geladen sind.",
+                "hu": "Fedezze fel a betontömböt szürkületkor; győződjön meg róla, hogy a lámpái teljesen fel vannak töltve a sötét, fagyos hazaúthoz.",
+                "ro": "Explorați structura de beton la amurg; asigurați-vă că farurile sunt complet încărcate pentru drumul întunecat și rece spre casă.",
+                "en": "Explore the concrete structure at dusk; make absolutely sure your headlights are fully charged for the dark, freezing ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós túrája a hatalmas Casemate 4-nél és a Todt Üteg Múzeum kiállításainál kezdődik. Délben festői út vezet a falu központjába a templom és a strand megcsodálásához. Délután fedezze fel a háborús múzeum kiterjedt gyűjteményeit és a közeli vallási helyszíneket. Az alkonyat lenyűgöző hátteret biztosít az utolsó állomáshoz, a Fort Mahonhoz.",
         "ro": "Turul cu mașina începe la Casemata 4 și exponatele fascinante ale Muzeului Bateriei Todt. Amiaza oferă o plimbare spre centrul satului pentru a admira biserica și plaja cu pietriș. După-amiază, explorați colecțiile de la Muzeul Războiului și lăcașurile de cult din apropiere. Amurgul oferă un fundal uimitor pentru ultima oprire la Fort Mahon.",
         "en": "Your driving tour begins with the colossal Casemate 4 and the fascinating exhibits of the Todt Battery Museum. Midday offers a scenic drive to the village center to admire the local church and the pebble beach. In the afternoon, explore the extensive collections at the World War II Museum and nearby religious sites. Twilight provides a stunning backdrop for your final stop at Fort Mahon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen mit einer sicheren Fahrt zur Batterie Todt und dem trockenen Museum. Mittags gibt es einen kurzen Stopp an der Kirche, bevor Sie den Strand aus dem warmen Auto betrachten. Der Nachmittag bringt das Weltkriegsmuseum und das Fort. Verbringen Sie den regnerischen Abend entspannt in einem lokalen Restaurant.",
+            "hu": "Kezdje a nedves reggelt a hatalmas Todt üteghez és száraz múzeumához vezető óvatos vezetéssel. Délben tegyen egy rövid kitérőt a templomhoz, mielőtt a meleg autóból nézné az esős strandot. A délután a hatalmas múzeummal és az erőddel folytatódik. Töltse az esős estét egy kényelmes helyi étteremben pihenve.",
+            "ro": "Începeți dimineața ploioasă conducând prudent spre Bateria Todt și muzeul său interior fascinant. La prânz, opriți scurt la biserică, apoi priviți plaja din mașina caldă. După-amiaza continuă cu imensul muzeu al Doilea Război Mondial și fortul. Petreceți seara ploioasă relaxându-vă într-un restaurant local confortabil.",
+            "en": "Begin your wet morning driving safely to the imposing Battery Todt and its fascinating indoor museum. Midday offers a quick, sheltered stop at the church before viewing the rain-swept beach from the warmth of your car. The afternoon continues with the extensive WWII museum and the fort. Spend the rainy evening relaxing at a comfortable local restaurant."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Batterie Todt - Kasematte 4",
+                "hu": "Todt Üteg - 4. Kazamata",
+                "ro": "Bateria Todt - Cazemata 4",
+                "en": "Todt Battery - Casemate 4"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann tiefe Pfützen haben; ziehen Sie im Auto wasserdichte Schuhe an, bevor Sie die massive Betonstruktur erkunden.",
+                "hu": "A parkolóban mély tócsák lehetnek; az autóban vegyen fel vízálló cipőt, mielőtt kiszállna felfedezni a masszív betonszerkezetet.",
+                "ro": "Parcarea poate avea bălți adânci; încălțați-vă cu cizme impermeabile în mașină înainte de a ieși să explorați structura masivă de beton.",
+                "en": "The parking area may have deep puddles; put your waterproof shoes on inside the car before stepping out to explore the concrete structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Batterie Todt",
+                "hu": "Todt Üteg Múzeum",
+                "ro": "Muzeul Bateriei Todt",
+                "en": "Todt Battery Museum"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das riesige Eisenbahngeschütz drinnen; das Innere bietet hervorragenden Schutz vor dem heftigen Küstenregen draußen.",
+                "hu": "Nézze meg a hatalmas vasúti ágyút a zárt térben; a belső tér kiváló védelmet nyújt a kinti heves, parti esőzéssel szemben.",
+                "ro": "Vedeți imensul tun feroviar la interior; muzeul oferă un adăpost excelent împotriva ploii torențiale și a vântului de pe coastă.",
+                "en": "See the immense railway gun indoors; the indoor exhibits provide excellent shelter from the heavy, blowing coastal rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie nah am Eingang; nehmen Sie einen großen Regenschirm aus dem Kofferraum für den kurzen, aber nassen Weg zur Kirchtür.",
+                "hu": "Parkoljon közel a bejárathoz; vegyen elő egy nagy esernyőt a csomagtartóból a rövid, de vizes útra a templom ajtajáig.",
+                "ro": "Parcați aproape de intrare; luați o umbrelă mare din portbagaj pentru scurta, dar uda plimbare până la ușa bisericii.",
+                "en": "Park as close to the entrance as possible; grab a large umbrella from the trunk for the short but very wet walk to the church door."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Audresselles",
+                "hu": "Audresselles strand",
+                "ro": "Plaja din Audresselles",
+                "en": "Audresselles Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmische See bequem aus dem geheizten Auto; das Verlassen des Fahrzeugs bei starkem Wind wird nicht empfohlen.",
+                "hu": "Figyelje a viharos tengert a fűtött autó kényelméből; erős szél és eső esetén nem javasolt kiszállni a járműből a parton.",
+                "ro": "Observați marea furtunoasă din confortul mașinii încălzite; părăsirea vehiculului pe vânt puternic și ploaie nu este recomandată.",
+                "en": "Watch the stormy sea from the comfort of your heated car; leaving the vehicle during heavy wind and rain is not recommended here."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Zweiten Weltkriegs",
+                "hu": "Második Világháborús Múzeum",
+                "ro": "Muzeul Celui de-al Doilea Război Mondial",
+                "en": "World War II Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein weiteres großartiges Indoor-Ziel; legen Sie Ihre nasse Ausrüstung im Auto ab und genießen Sie die trockenen, umfangreichen Ausstellungen.",
+                "hu": "Egy újabb remek benti célpont; hagyja a vizes felszerelést az autóban, és élvezze a száraz, kiterjedt és részletes kiállításokat.",
+                "ro": "O altă destinație excelentă la interior; lăsați echipamentul ud în mașină și bucurați-vă de expozițiile detaliate, la adăpost.",
+                "en": "Another great indoor destination; leave your wettest gear in the car and thoroughly enjoy the dry, extensive historical exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Church of Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das ruhige Innere; achten Sie beim Aussteigen auf rutschiges Laub und Pfützen auf der Straße vor der kleinen Kirche.",
+                "hu": "Látogasson el a csendes belső térbe; kiszálláskor ügyeljen a csúszós falevelekre és a tócsákra az úton a kis templom előtt.",
+                "ro": "Vizitați interiorul liniștit; aveți grijă la frunzele alunecoase și la bălțile de pe drum când coborâți din mașină la această biserică.",
+                "en": "Visit the quiet interior; watch your step for slick fallen leaves and puddles on the road when exiting the car at this small church."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Mahon",
+                "hu": "Fort Mahon",
+                "ro": "Fort Mahon",
+                "en": "Fort Mahon"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht bei Regen aus; die unbefestigten Bereiche rund um das Fort verwandeln sich schnell in tiefen Schlamm.",
+                "hu": "Esőben elég egy rövid fotós megálló; az erőd körüli burkolatlan, füves területek pillanatok alatt mély, csúszós sárrá változnak.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă pe ploaie; zonele nepavate din jurul fortului se transformă rapid în noroi adânc.",
+                "en": "A brief photo stop is sufficient in the rain; the unpaved grassy areas immediately surrounding the fort quickly turn into deep mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am klaren Wintermorgen zur Batterie Todt und ihrem beheizten Museum. Mittags besuchen Sie die schöne Kirche und spazieren kurz am frostigen Strand. Nachmittags tauchen Sie ins Weltkriegsmuseum ein und betrachten das Fort im Sonnenuntergang gegen 16:30 Uhr. Genießen Sie abends ein warmes, herzhaftes Essen drinnen.",
+            "hu": "Vezessen a csípős téli reggelen a Todt üteghez és fűtött múzeumához. Délben látogassa meg a szép templomot, és tegyen egy gyors sétát a zord strandon. Délután merüljön el a II. vh-s múzeumban, és nézze meg az erődöt a lemenő nap fényében 16:30 körül. Fogyasszon el egy meleg, kiadós vacsorát zárt térben ezen az estén.",
+            "ro": "Conduceți în dimineața geroasă spre Bateria Todt și muzeul său încălzit. La prânz, vizitați biserica frumoasă și faceți o plimbare rapidă pe plaja aspră. După-amiaza, pătrundeți în muzeul de război și vedeți fortul la apus în jur de 16:30. Bucurați-vă de o masă caldă și consistentă la interior în această seară.",
+            "en": "Drive through the crisp winter morning to explore Battery Todt's heavy concrete structures and its warmed museum. At midday, visit the beautiful church and take a brisk, chilly walk on the stark beach. In the afternoon, dive into the WWII museum and see the fort against the setting sun around 16:30. Enjoy a warm, hearty meal indoors this evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Batterie Todt - Kasematte 4",
+                "hu": "Todt Üteg - 4. Kazamata",
+                "ro": "Bateria Todt - Cazemata 4",
+                "en": "Todt Battery - Casemate 4"
+              },
+              "tip_5lang": {
+                "de": "Der Beton speichert die Kälte; lassen Sie den Motor beim Parken kurz laufen, um das Auto für die Rückkehr warm zu halten.",
+                "hu": "A beton magába szívja a hideget; parkoláskor hagyja rövid ideig járni a motort, hogy az autó meleg maradjon a visszatéréshez.",
+                "ro": "Betonul absoarbe frigul; lăsați motorul pornit scurt timp la parcare pentru a menține mașina caldă pentru întoarcere.",
+                "en": "The concrete stores the cold intensely; leave your heater running just before stepping out so the car remains warm upon your return."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Batterie Todt",
+                "hu": "Todt Üteg Múzeum",
+                "ro": "Muzeul Bateriei Todt",
+                "en": "Todt Battery Museum"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die erhaltenen Artefakte; das Innenmuseum ist ein hervorragender, temperierter Ort, um der beißenden Winterkälte zu entfliehen.",
+                "hu": "Csodálja meg a fennmaradt leleteket; a belső múzeum kiváló, temperált hely a csípős, kinti téli hideg elől való menedékhez.",
+                "ro": "Minunați-vă de artefactele de război păstrate; muzeul interior este un loc excelent și temperat pentru a scăpa de frigul iernii.",
+                "en": "Marvel at the preserved wartime artifacts; the indoor museum is an excellent, climate-controlled place to escape the biting winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Keresztelő Szent János-templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Church of Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Wintersonne durch die Fenster; ziehen Sie Ihre Mütze und Handschuhe an, da historische Gebäude kaum beheizt sind.",
+                "hu": "Csodálja meg a téli napsütést az ablakokon keresztül; vegyen fel sapkát és kesztyűt, mivel a történelmi épületek alig fűtöttek.",
+                "ro": "Admirați soarele de iarnă prin ferestre; puneți-vă căciula și mănușile, deoarece clădirile istorice sunt rareori încălzite bine.",
+                "en": "Admire the low winter sun through the windows; keep your hat and gloves on, as historic stone buildings are rarely well-heated."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Audresselles",
+                "hu": "Audresselles strand",
+                "ro": "Plaja din Audresselles",
+                "en": "Audresselles Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang am frostigen Ufer; wärmen Sie sich danach sofort im vorgeheizten Auto mit der Sitzheizung auf.",
+                "hu": "Tegyen egy rövid sétát a fagyos parton; utána azonnal melegedjen fel az előfűtött autóban, kihasználva az ülésfűtést.",
+                "ro": "Faceți o scurtă plimbare pe malul înghețat; încălziți-vă imediat după aceea în mașina preîncălzită, pornind încălzirea în scaune.",
+                "en": "Take a short, brisk walk on the frosty shore; warm up immediately afterward inside the pre-heated car, utilizing the seat warmers."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum des Zweiten Weltkriegs",
+                "hu": "Második Világháborús Múzeum",
+                "ro": "Muzeul Celui de-al Doilea Război Mondial",
+                "en": "World War II Museum"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie den kalten Nachmittag in den beheizten Ausstellungsräumen, während Sie mehr über die regionale Kriegsgeschichte erfahren.",
+                "hu": "Töltse a hideg délutánt a fűtött kiállítótermekben, miközben többet tud meg a régió lenyűgöző háborús történelméről és múltjáról.",
+                "ro": "Petreceți după-amiaza rece în sălile de expoziție încălzite, în timp ce învățați mai multe despre istoria războiului din regiune.",
+                "en": "Spend the coldest part of the afternoon exploring the heated exhibition rooms while thoroughly learning about regional wartime history."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Michel",
+                "hu": "Szent Mihály-templom",
+                "ro": "Biserica Saint-Michel",
+                "en": "Church of Saint-Michel"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort im späten Nachmittagslicht; achten Sie beim Parken auf Glatteis am Straßenrand, wenn die Temperaturen wieder sinken.",
+                "hu": "Gyönyörű hely a késő délutáni fényben; parkoláskor ügyeljen a fekete jégre az út szélén, ahogy a hőmérséklet hirtelen süllyedni kezd.",
+                "ro": "Un loc frumos în lumina târzie a după-amiezii; atenție la gheața neagră la marginea drumului când parcați, pe măsură ce se răcește.",
+                "en": "A beautiful spot in the late afternoon light; watch for invisible black ice on the roadside when parking as temperatures drop again."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort Mahon",
+                "hu": "Fort Mahon",
+                "ro": "Fort Mahon",
+                "en": "Fort Mahon"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Fort in der Winterdämmerung; schalten Sie das Abblendlicht Ihres Wagens für die Heimfahrt im Dunkeln ab 17:00 Uhr ein.",
+                "hu": "Nézze meg az erődöt a téli szürkületben; kapcsolja be az autó tompított fényszóróját a 17:00 utáni, sötétben történő hazaúthoz.",
+                "ro": "Priviți fortul în amurgul de iarnă; aprindeți farurile mașinii pentru drumul spre casă pe întuneric, care începe în jur de ora 17:00.",
+                "en": "View the fort in the beautiful winter dusk; ensure your car's headlights are fully on for the dark drive home starting around 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

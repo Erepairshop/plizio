@@ -137,6 +137,168 @@
         "hu": "Sétáját az Igrexa de San Martiño és a közeli Canastro do Cura megtekintésével kezdheti. Délben eléri a Muíño das Marés lenyűgöző árapálymalmait. A délutánt a történelmi Granxa das Salinas felfedezésével töltheti a parti szélben. Zárásként másszon fel az ősi Castro da Croa magaslatára, ahonnan csodálatos panoráma nyílik az egész gyönyörű tájra.",
         "ro": "Începeți plimbarea admirând biserica San Martiño și Canastro do Cura. La prânz, ajungeți la fascinantele mori de maree Muíño das Marés. Petreceți după-amiaza explorând istorica Granxa das Salinas, bucurându-vă de briza mării. Încheiați cu o urcare spre vechea așezare Castro da Croa pentru a admira priveliștile panoramice superbe de la final.",
         "en": "Begin your walking tour by admiring the peaceful Igrexa de San Martiño and the nearby Canastro do Cura. Midday brings you to the fascinating tidal mills of Muíño das Marés. Spend your afternoon exploring the historical Granxa das Salinas, taking in the coastal breeze. Conclude with a climb to the ancient Castro da Croa for lovely panoramic views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der schützenden Kirche San Martiño, während der Regen gegen die alten Mauern trommelt. Mittags bieten die Überdachungen des Canastro do Cura und der Mühle trockene Einblicke in die Geschichte. Am Nachmittag erleben Sie die Granxa das Salinas in einer mystischen Nebelstimmung. Abends beenden Sie die Tour am Castro da Croa, wo die feuchte Erde den Duft Galiciens intensiviert.",
+            "hu": "A reggel a Szent Márton-templom védelmében indul, miközben az eső a régi falakon koppan. Délben a Canastro do Cura és a malom fedett részei nyújtanak menedéket a helyi történelem felfedezéséhez. Délután a Granxa das Salinas ködös, misztikus arcát ismerheti meg. Este a Castro da Croa dombján zárul a nap, ahol a nedves föld illata még intenzívebbé teszi a galíciai táj élményét.",
+            "ro": "Dimineața începe în adăpostul bisericii San Martiño, în timp ce ploaia bate în zidurile vechi. La prânz, acoperișurile de la Canastro do Cura și moară oferă refugiu pentru explorarea istoriei locale. După-amiaza, veți descoperi Granxa das Salinas într-o atmosferă mistică de ceață. Seara se încheie la Castro da Croa, unde pământul umed intensifică parfumul specific al peisajului galician.",
+            "en": "Morning begins in the shelter of San Martiño Church as rain taps against ancient stones. At noon, the coverings of Canastro do Cura and the mill provide refuge while exploring local history. In the afternoon, experience Granxa das Salinas in a mystical, misty atmosphere. The evening ends at Castro da Croa, where the damp earth intensifies the fragrance of the lush Galician landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Martiño de Vilaboa",
+                "hu": "Igrexa de San Martiño de Vilaboa",
+                "ro": "Igrexa de San Martiño de Vilaboa",
+                "en": "Igrexa de San Martiño de Vilaboa"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocken Details im Innenraum, während Sie dem Regen draußen entfliehen; achten Sie beim Betreten auf die glatten Granitstufen am Portal.",
+                "hu": "Csodálja meg a belső tér barokk részleteit, miközben az eső elől menedéket keres; belépéskor ügyeljen a kapu körüli rendkívül csúszós gránitlépcsőkre.",
+                "ro": "Admirați detaliile baroce din interior în timp ce vă adăpostiți de ploaie; aveți grijă la treptele de granit de la intrare, care devin foarte alunecoase.",
+                "en": "Admire the baroque interior details while taking shelter from the rain; be careful on the granite entrance steps which become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Canastro do Cura",
+                "hu": "Canastro do Cura",
+                "ro": "Canastro do Cura",
+                "en": "Canastro do Cura"
+              },
+              "tip_5lang": {
+                "de": "Dieser traditionelle Speicher bietet unter seinem Dach einen guten Fotospot; tragen Sie wasserfeste Schuhe, da das Gras rundherum schnell morastig wird.",
+                "hu": "Ez a hagyományos magtár tető alatt kiváló fotópontot kínál; viseljen vízálló cipőt, mivel a környező fű esőben gyorsan mocsarassá és sárossá válhat.",
+                "ro": "Acest hambar tradițional oferă un loc bun pentru fotografii sub acoperiș; purtați încălțăminte impermeabilă, deoarece iarba din jur devine rapid noroioasă.",
+                "en": "This traditional granary offers a great photo spot under its roof; wear waterproof shoes as the surrounding grass turns muddy quickly in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Muíño das Marés",
+                "hu": "Muíño das Marés",
+                "ro": "Muíño das Marés",
+                "en": "Muíño das Marés"
+              },
+              "tip_5lang": {
+                "de": "Die Gezeitenmühle ist bei Regen besonders stimmungsvoll; nutzen Sie den überdachten Bereich, um die Mechanik zu studieren und die stürmische Bucht zu beobachten.",
+                "hu": "Az árapálymalom esőben különösen hangulatos; használja a fedett részeket a mechanika tanulmányozásához és a viharos öböl látványának biztonságos élvezetéhez.",
+                "ro": "Moara mareică este deosebit de evocatoare pe ploaie; folosiți zona acoperită pentru a studia mecanismele și pentru a observa golful sub norii grei.",
+                "en": "The tide mill is especially atmospheric in the rain; use the covered area to study the mechanics and watch the stormy bay from a dry vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Granxa das Salinas",
+                "hu": "Granxa das Salinas",
+                "ro": "Granxa das Salinas",
+                "en": "Granxa das Salinas"
+              },
+              "tip_5lang": {
+                "de": "Die Salzwiesen wirken im Regen fast unwirklich; ein stabiler Regenschirm ist hier wegen der ungeschützten Lage direkt am Wasser und des Windes unerlässlich.",
+                "hu": "A sós mocsarak esőben szinte irreális látványt nyújtanak; a vízparti, szélnek kitett helyszín miatt egy stabil esernyő vagy viharkabát itt elengedhetetlen.",
+                "ro": "Salinele par aproape ireale în ploaie; o umbrelă rezistentă este esențială aici din cauza locației expuse direct la vântul de pe marginea apei.",
+                "en": "The salt pans look almost surreal in the rain; a sturdy umbrella is essential here due to the exposed location right by the water and the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Croa",
+                "hu": "Castro da Croa",
+                "ro": "Castro da Croa",
+                "en": "Castro da Croa"
+              },
+              "tip_5lang": {
+                "de": "Die archäologische Stätte bietet bei Regen eine dramatische Aussicht; gehen Sie auf den erdigen Pfaden sehr vorsichtig, da diese extrem rutschig sein können.",
+                "hu": "A régészeti lelőhely esőben drámai kilátást nyújt; járjon nagyon óvatosan a földes ösvényeken, mert azok ilyenkor rendkívül csúszóssá válhatnak.",
+                "ro": "Situl arheologic oferă o vedere dramatică pe ploaie; mergeți cu mare grijă pe potecile de pământ, deoarece pot fi extrem de alunecoase și instabile.",
+                "en": "The archaeological site offers a dramatic view in the rain; walk very carefully on the earthen paths as they can become extremely slippery and muddy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an der Kirche von Vilaboa, wo das klare Licht die Architektur betont. Mittags spazieren Sie vorbei am Canastro zur alten Mühle, begleitet von der kühlen Meeresbrise. Am Nachmittag leuchten die Salinas im tiefstehenden Sonnenlicht besonders golden. Da die Sonne gegen 17:00 Uhr untergeht, erreichen Sie das Castro rechtzeitig für ein kurzes, kühles Dämmerungserlebnis.",
+            "hu": "A friss téli reggel a vilaboai templomnál indul, ahol a tiszta fények kiemelik az építészetet. Délben a Canastro és a régi malom felé sétálunk a hűvös tengeri szellőben. Délután a Salinas sós vidéke aranyló színekben játszik az alacsonyan járó napfényben. Mivel a nap 17:00 körül nyugszik, a Castrót még időben elérjük a szürkületi panorámához.",
+            "ro": "O dimineață răcoroasă de iarnă începe la biserica din Vilaboa, unde lumina clară scoate în evidență arhitectura. La prânz, ne plimbăm spre moară în briza rece a mării. După-amiaza, salinele strălucesc în lumina aurie a soarelui care apune rapid. Deoarece soarele apune în jur de ora 17:00, ajungem la Castro la timp pentru panorama din amurg.",
+            "en": "A crisp winter morning starts at Vilaboa church, where the clear light emphasizes the architecture. At noon, walk past the Canastro to the old mill, accompanied by a cool sea breeze. In the afternoon, the Salinas glow in the low winter sunlight. As the sun sets around 17:00, you will reach the Castro just in time for a brief, chilly twilight panorama."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Martiño de Vilaboa",
+                "hu": "Igrexa de San Martiño de Vilaboa",
+                "ro": "Igrexa de San Martiño de Vilaboa",
+                "en": "Igrexa de San Martiño de Vilaboa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die stille Atmosphäre der Kirche zum Aufwärmen; die dicken Steinmauern halten die Kälte, bieten aber Schutz vor dem winterlichen Wind.",
+                "hu": "Használja ki a templom csendes atmoszféráját a bemelegedésre; a vastag kőfalak tartják a hideget, de kiváló védelmet nyújtanak a metsző téli szél ellen.",
+                "ro": "Profitați de atmosfera liniștită a bisericii pentru a vă încălzi; zidurile groase de piatră mențin frigul, dar oferă protecție împotriva vântului de iarnă.",
+                "en": "Take advantage of the quiet atmosphere of the church to warm up; the thick stone walls hold the cold but provide shelter from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Canastro do Cura",
+                "hu": "Canastro do Cura",
+                "ro": "Canastro do Cura",
+                "en": "Canastro do Cura"
+              },
+              "tip_5lang": {
+                "de": "Das graue Gestein des Canastro harmoniert perfekt mit dem winterlichen Licht Galiciens; tragen Sie Schal und Handschuhe für die ungeschützte Begehung.",
+                "hu": "A Canastro szürke kövei tökéletesen harmonizálnak a galíciai téli fényekkel; viseljen sálat és kesztyűt a nyitott területen való nézelődéshez.",
+                "ro": "Piatra cenușie a hambarului armonizează perfect cu lumina de iarnă din Galicia; purtați fular și mănuși pentru vizitarea acestui spațiu deschis.",
+                "en": "The gray stone of the Canastro harmonizes perfectly with the winter light of Galicia; wear a scarf and gloves for this unsheltered outdoor stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Muíño das Marés",
+                "hu": "Muíño das Marés",
+                "ro": "Muíño das Marés",
+                "en": "Muíño das Marés"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Gezeitenbewegungen im klaren Winterwasser; die Luft an der Küste ist sehr schneidend, achten Sie auf winddichte Kleidung an der Bucht.",
+                "hu": "Figyelje meg az árapály mozgását a tiszta téli vízben; a tengerparti levegő ilyenkor metsző, ezért viseljen szélálló ruházatot az öböl mentén.",
+                "ro": "Observați mișcările mareice în apa clară de iarnă; aerul de pe coastă este foarte tăios acum, deci purtați haine rezistente la vânt lângă golf.",
+                "en": "Observe the tidal movements in the clear winter water; the coastal air is very biting now, so ensure you have windproof clothing by the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Granxa das Salinas",
+                "hu": "Granxa das Salinas",
+                "ro": "Granxa das Salinas",
+                "en": "Granxa das Salinas"
+              },
+              "tip_5lang": {
+                "de": "Das flache Sonnenlicht am Nachmittag erzeugt tolle Schatten auf den alten Strukturen; bewegen Sie sich zügig, um bei den sinkenden Temperaturen warm zu bleiben.",
+                "hu": "Az alacsony délutáni napfény csodás árnyékokat vet a régi építményekre; mozogjon tempósan, hogy a süllyedő hőmérséklet mellett is melegen tartsa magát.",
+                "ro": "Lumina slabă de după-amiază creează umbre superbe pe structurile vechi; mișcați-vă rapid pentru a vă menține căldura pe măsură ce temperatura scade.",
+                "en": "The low afternoon sunlight creates wonderful shadows on the old structures; keep moving briskly to stay warm as the temperatures begin to drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Croa",
+                "hu": "Castro da Croa",
+                "ro": "Castro da Croa",
+                "en": "Castro da Croa"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Aufstieg so, dass Sie vor 17:00 Uhr wieder absteigen; die Dämmerung setzt früh ein und die Pfade sind im Dunkeln schwer erkennbar.",
+                "hu": "Úgy tervezze a dombra való feljutást, hogy 17:00 előtt visszaérjen; a szürkület korán beköszönt, és a sötétben az ösvények nehezen követhetőek.",
+                "ro": "Planificați urcarea astfel încât să coborâți înainte de ora 17:00; amurgul se lasă devreme, iar potecile sunt greu de parcurs pe întuneric.",
+                "en": "Plan your ascent to descend before 17:00; twilight sets in early and the uneven paths are difficult to navigate safely in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A kerékpáros nap békésen indul az Enseada de Vilaboa öbölben. Ezután tekerjen a történelmi Casa Grande da Lamela és a bájos Santa Cristina templom felé. Délután egy rövid hegymászás várja a Castro da Croa romjaihoz, majd a történelmi Granxa das Salinas sólepárlók és a lenyűgöző árapálymalmok felfedezésével zárhatja az aktív délutánt.",
         "ro": "Ziua pe bicicletă începe liniștit la golful Enseada de Vilaboa. Pedalați apoi spre conacul istoric Casa Grande da Lamela și fermecătoarea biserică Santa Cristina. După-amiaza vă așteaptă o urcare spre așezarea Castro da Croa, urmată de explorarea vechilor saline Granxa das Salinas și a fascinantelor mori de maree tradiționale.",
         "en": "Your cycling day starts peacefully at the Enseada de Vilaboa bay. You'll then pedal to the historic Casa Grande da Lamela and the charming Santa Cristina church. The afternoon brings a quick hike up to the Castro da Croa settlement, followed by an exploration of the historic Granxa das Salinas salt pans and the fascinating traditional tidal mills."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start an der Enseada führt Sie entlang der Küste, wo die Gischt mit dem Regen verschmilzt. Mittags suchen Sie Schutz bei der Casa Grande und der Kirche von Cobres. Am Nachmittag fordern die nassen Wege zum Castro Ihre Konzentration. Die Tour endet zwischen den Salinas und der Mühle, wo das Wasser von allen Seiten das Bild dieser historischen maritimen Landschaft prägt.",
+            "hu": "Az esős kezdés az Enseada-öbölnél a part mentén vezet, ahol a permet és az eső összeolvad. Délben a Casa Grande és a cobresi templom nyújt menedéket. Délután a Castro felé vezető nedves utak nagyobb koncentrációt igényelnek. A túra a Salinas és a malom között zárul, ahol a víz minden irányból meghatározza e történelmi tengerparti táj képét.",
+            "ro": "Începutul ploios la Enseada vă duce de-a lungul coastei, unde spray-ul mării se îmbină cu ploaia. La prânz, căutați adăpost la Casa Grande și biserica din Cobres. După-amiaza, drumurile umede spre Castro necesită concentrare maximă. Turul se încheie între saline și moară, unde apa definește acest peisaj maritim istoric.",
+            "en": "A rainy start at the Enseada leads you along the coast where sea spray blends with falling rain. At noon, seek shelter at the Casa Grande and the church of Cobres. In the afternoon, the wet paths to the Castro require extra focus. The tour ends between the Salinas and the mill, where water from all sides defines the image of this historic maritime landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enseada de Vilaboa",
+                "hu": "Enseada de Vilaboa",
+                "ro": "Enseada de Vilaboa",
+                "en": "Enseada de Vilaboa"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt bei Regen grau und weit; fahren Sie vorsichtig auf dem nassen Asphalt am Ufer und nutzen Sie Kotflügel gegen das Spritzwasser.",
+                "hu": "Az öböl szürkének és végtelennek tűnik az esőben; óvatosan tekerjen a vizes aszfalton a parton, és használjon sárvédőt a felcsapódó víz ellen.",
+                "ro": "Golful pare gri și vast în ploaie; pedalați cu atenție pe asfaltul umed de pe mal și folosiți aripi la bicicletă împotriva stropirii cu apă.",
+                "en": "The bay looks gray and vast in the rain; cycle carefully on the wet asphalt along the shore and use mudguards against the splashing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Grande da Lamela",
+                "hu": "Casa Grande da Lamela",
+                "ro": "Casa Grande da Lamela",
+                "en": "Casa Grande da Lamela"
+              },
+              "tip_5lang": {
+                "de": "Das herrschaftliche Haus bietet unter seinen Vorsprüngen etwas Schutz; parken Sie Ihr Rad an einem festen Untergrund, um Einsinken im Matsch zu vermeiden.",
+                "hu": "Az úri lak kiszögellései alatt némi védelmet találhat; a biciklit szilárd talajon parkolja le, hogy elkerülje a sárba való süllyedést.",
+                "ro": "Conacul oferă puțin adăpost sub cornișele sale; parcați bicicleta pe un teren solid pentru a evita scufundarea acesteia în noroiul moale.",
+                "en": "The manor house offers some shelter under its overhangs; park your bike on solid ground to avoid it sinking into the soft rainy mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa Cristina de Cobres",
+                "hu": "Igrexa de Santa Cristina de Cobres",
+                "ro": "Igrexa de Santa Cristina de Cobres",
+                "en": "Igrexa de Santa Cristina de Cobres"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenbesuch für eine trockene Pause; achten Sie beim Wiederaufsteigen auf Ihre nassen Bremsbeläge, die bei Nässe verzögert reagieren.",
+                "hu": "Használja ki a templomlátogatást egy száraz pihenőre; induláskor ügyeljen a vizes fékbetétekre, amelyek esőben lassabban és gyengébben fognak.",
+                "ro": "Folosiți vizita la biserică pentru o pauză uscată; la plecare, aveți grijă la plăcuțele de frână umede, care reacționează cu întârziere pe ploaie.",
+                "en": "Use the church visit for a dry break; when restarting, be aware of your wet brake pads, which will have a delayed response in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Croa",
+                "hu": "Castro da Croa",
+                "ro": "Castro da Croa",
+                "en": "Castro da Croa"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann auf nassem Untergrund rutschig sein; wählen Sie einen niedrigen Gang und vermeiden Sie plötzliches Bremsen auf den erdigen Abschnitten.",
+                "hu": "Az emelkedő csúszós lehet a nedves talajon; válasszon alacsony sebességfokozatot, és kerülje a hirtelen fékezést a földes szakaszokon.",
+                "ro": "Urcarea poate fi alunecoasă pe teren umed; alegeți o treaptă de viteză mică și evitați frânarea bruscă pe secțiunile de pământ ud.",
+                "en": "The climb can be slippery on wet ground; choose a low gear and avoid sudden braking on the earthen sections to maintain your balance."
+              }
+            },
+            {
+              "name": {
+                "de": "Granxa das Salinas",
+                "hu": "Granxa das Salinas",
+                "ro": "Granxa das Salinas",
+                "en": "Granxa das Salinas"
+              },
+              "tip_5lang": {
+                "de": "Die offene Lage macht das Treten bei Wind und Regen anstrengender; tragen Sie eine eng anliegende Regenjacke, um den Windwiderstand zu minimieren.",
+                "hu": "A nyitott terep miatt a szélben és esőben való tekerés fárasztóbb; viseljen szűk esőkabátot, hogy minimalizálja a szélellenállást a parton.",
+                "ro": "Locația deschisă face pedalarea prin vânt și ploaie mai obositoare; purtați o jachetă de ploaie strânsă pentru a minimiza rezistența vântului.",
+                "en": "The open location makes pedaling in wind and rain more tiring; wear a snug rain jacket to minimize wind resistance along the exposed shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Muíño das Marés",
+                "hu": "Muíño das Marés",
+                "ro": "Muíño das Marés",
+                "en": "Muíño das Marés"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an der Mühle und trocknen Sie Ihre Ausrüstung; prüfen Sie die Kette nach der Fahrt auf Schmutz und Wasser, um Rost vorzubeugen.",
+                "hu": "Zárja a túrát a malomnál, és szárítsa meg felszerelését; a tekerés után ellenőrizze a láncot, tisztítsa meg a sártól a rozsda megelőzése érdekében.",
+                "ro": "Încheiați turul la moară și uscați-vă echipamentul; verificați lanțul după cursă pentru murdărie și apă pentru a preveni rugina.",
+                "en": "End the tour at the mill and dry your gear; check the chain for dirt and water after the ride to prevent rust from developing overnight."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag an der Enseada beginnt mit erfrischender Kälte. Mittags führt die Route zur Casa Grande und der Kirche von Cobres, wo die Sonne die Granitfassaden wärmt. Der Nachmittag bietet am Castro weite Fernsichten durch die kahle Vegetation. Die Tour endet bei den Salinas und der Mühle im warmen Licht des frühen Sonnenuntergangs gegen 17:00 Uhr.",
+            "hu": "A tiszta téli nap az Enseada-öbölnél frissítő hideggel indul. Délben az útvonal a Casa Grande és a cobresi templom felé vezet, ahol a nap melegíti a gránithomlokzatokat. Délután a Castrónál a ritkább növényzet miatt messzebbre ellátni. A túra a Salinasnál és a malomnál zárul a korai, 17:00 körüli naplemente meleg fényeiben.",
+            "ro": "O zi senină de iarnă la Enseada începe cu un frig revigorant. La prânz, traseul duce la Casa Grande și biserica din Cobres, unde soarele încălzește fațadele. După-amiaza oferă vederi largi de la Castro datorită vegetației rare. Turul se încheie la saline și moară în lumina caldă a apusului devreme de la ora 17:00.",
+            "en": "A clear winter day at the Enseada begins with refreshing cold. At noon, the route leads to the Casa Grande and the church of Cobres, where the sun warms the granite facades. The afternoon offers wide views from the Castro through the sparse vegetation. The tour ends at the Salinas and the mill in the warm light of the early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enseada de Vilaboa",
+                "hu": "Enseada de Vilaboa",
+                "ro": "Enseada de Vilaboa",
+                "en": "Enseada de Vilaboa"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Meeresluft erfordert einen guten Gesichtsschutz; nutzen Sie ein Schlauchtuch, um Ihre Atemwege vor der frostigen Brise am Wasser zu schützen.",
+                "hu": "A hideg tengeri levegő jó arcvédelmet igényel; használjon csősálat, hogy megvédje légutait a vízparti fagyos és metsző szél ellen.",
+                "ro": "Aerul rece al mării necesită o protecție bună a feței; folosiți un fular tip tub pentru a vă proteja căile respiratorii de briza înghețată.",
+                "en": "The cold sea air requires good face protection; use a neck gaiter to protect your airways from the frosty breeze along the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Grande da Lamela",
+                "hu": "Casa Grande da Lamela",
+                "ro": "Casa Grande da Lamela",
+                "en": "Casa Grande da Lamela"
+              },
+              "tip_5lang": {
+                "de": "Die historische Anlage liegt im Winter oft im Schatten; tragen Sie Thermohandschuhe, damit Ihre Finger beim Halten des Lenkers nicht auskühlen.",
+                "hu": "A történelmi épület télen gyakran árnyékban van; viseljen termokesztyűt, hogy ujjai ne hűljenek le teljesen a kormány fogása közben.",
+                "ro": "Complexul istoric este adesea în umbră iarna; purtați mănuși termice pentru ca degetele să nu vă înghețe în timp ce țineți ghidonul.",
+                "en": "The historic site is often in shadow during winter; wear thermal gloves so your fingers don't freeze while gripping the handlebars in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de Santa Cristina de Cobres",
+                "hu": "Igrexa de Santa Cristina de Cobres",
+                "ro": "Igrexa de Santa Cristina de Cobres",
+                "en": "Igrexa de Santa Cristina de Cobres"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief und kann beim Fahren blenden; eine Sonnenbrille ist auch im Winter wichtig, um die Straße zur Kirche sicher im Blick zu haben.",
+                "hu": "A nap alacsonyan jár és tekerés közben vakíthat; a napszemüveg télen is fontos, hogy biztonságosan belássa a templom felé vezető utat.",
+                "ro": "Soarele este jos și vă poate orbi în timp ce pedalați; ochelarii de soare sunt importanți și iarna pentru a vedea clar drumul spre biserică.",
+                "en": "The sun is low and can blind you while cycling; sunglasses are important even in winter to keep a clear view of the road to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro da Croa",
+                "hu": "Castro da Croa",
+                "ro": "Castro da Croa",
+                "en": "Castro da Croa"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann gefroren und hart sein; prüfen Sie Ihren Reifendruck für besseren Grip auf den unebenen Wegen der archäologischen Stätte.",
+                "hu": "A talaj fagyott és kemény lehet; ellenőrizze a guminyomást a jobb tapadás érdekében a régészeti lelőhely egyenetlen és jeges útjain.",
+                "ro": "Solul poate fi înghețat și tare; verificați presiunea în anvelope pentru o aderență mai bună pe potecile denivelate ale sitului arheologic.",
+                "en": "The ground may be frozen and hard; check your tire pressure for better grip on the uneven and potentially icy paths of the archaeological site."
+              }
+            },
+            {
+              "name": {
+                "de": "Granxa das Salinas",
+                "hu": "Granxa das Salinas",
+                "ro": "Granxa das Salinas",
+                "en": "Granxa das Salinas"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne erzeugt hier eine besondere Lichtstimmung; achten Sie auf die Zeit, da die Temperaturen sofort sinken, sobald die Sonne weg ist.",
+                "hu": "A téli nap itt különleges fényhatásokat kelt; figyeljen az időre, mert a hőmérséklet azonnal zuhanni kezd, amint a nap eltűnik a horizontról.",
+                "ro": "Soarele de iarnă creează aici efecte de lumină deosebite; fiți atenți la timp, deoarece temperatura scade brusc imediat ce soarele apune.",
+                "en": "The winter sun creates special lighting effects here; keep track of time as temperatures drop immediately once the sun disappears from view."
+              }
+            },
+            {
+              "name": {
+                "de": "Muíño das Marés",
+                "hu": "Muíño das Marés",
+                "ro": "Muíño das Marés",
+                "en": "Muíño das Marés"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, bevor es dunkel wird; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Heimweg bei Dämmerung funktioniert.",
+                "hu": "Zárja a túrát tempósan, mielőtt besötétedik; győződjön meg róla, hogy a kerékpárvilágítás működik a szürkületben való hazatekeréshez.",
+                "ro": "Încheiați turul rapid înainte de a se întuneca; asigurați-vă că luminile bicicletei funcționează pentru drumul spre casă prin amurg.",
+                "en": "Finish the tour quickly before it gets dark; make sure your bike lights are functional for the ride home in the early winter twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autós túra délelőtt a nyugati fennsíkra összpontosít, a gyönyörű Cotorredondo Nature Parkban kezdve. Ezután mélyen elmerül az őstörténetben, megvizsgálva a lenyűgöző sziklarajzokat és a megalitikus sírokat. Délután visszavezet az út a part felé, ahol megtekinthet egy történelmi kőtemplomot, majd a napot a csendes Enseada de Vilaboa öbölnél pihenve fejezheti be a lemenő nap fényében.",
         "ro": "Turul cu mașina se concentrează dimineața pe zonele înalte vestice, pornind din frumosul Parc Cotorredondo. Apoi, plonjați în preistorie vizitând petroglife fascinante și mai multe morminte megalitice impresionante. După-amiaza, conduceți înapoi spre coastă, opriți la o biserică istorică din piatră și încheiați ziua relaxându-vă lângă apele liniștite ale golfului pitoresc din Vilaboa.",
         "en": "Your driving tour focuses your morning on the western highlands, starting in the beautiful Cotorredondo Nature Park. You'll then dive deep into prehistory, visiting fascinating petroglyphs and multiple impressive megalithic tombs. In the afternoon, drive back toward the scenic coast, stop at a historical stone church, and end the day relaxing by the tranquil waters of the picturesque bay."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im nebligen Cotorredondo Park, wo die Bäume im Regen geheimnisvoll wirken. Mittags besuchen Sie die Petroglyphen und Mámoas; die Nässe lässt die Gravuren im Stein deutlicher hervortreten. Nachmittags fahren Sie zur geschützten Kirche San Martiño. Der Tag endet an der Enseada, wo Sie den Regen auf das Autodach trommeln hören, während Sie auf die Bucht blicken.",
+            "hu": "A nap a ködös Cotorredondo parkban indul, ahol a fák titokzatosak az esőben. Délben a petrogliptákat és mámoákat látogatjuk; a nedvesség miatt a vésetek jobban látszanak a kövön. Délután a védett San Martiño templomhoz autózunk. A nap az Enseada-öbölnél zárul, ahol az autó tetőjén koppanó esőt hallgatva nézzük a szürke víztükröt.",
+            "ro": "Ziua începe în parcul cețos Cotorredondo, unde copacii par misterioși în ploaie. La prânz vizităm petroglifele și dolmenele; umezeala face gravurile mai vizibile pe piatră. După-amiaza conducem spre biserica protejată San Martiño. Ziua se încheie la Enseada, ascultând ploaia pe plafonul mașinii în timp ce privim golful.",
+            "en": "The day starts in the misty Cotorredondo Park, where trees look mysterious in the rain. At noon, visit the petroglyphs and burial mounds; wetness makes the stone carvings stand out more. In the afternoon, drive to the sheltered San Martiño Church. The day ends at the Enseada, watching the gray water while listening to the rain tap on the car roof."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cotorredondo Nature Park",
+                "hu": "Cotorredondo Nature Park",
+                "ro": "Cotorredondo Nature Park",
+                "en": "Cotorredondo Nature Park"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Lago de Castiñeiras aus dem Auto; bei starkem Regen sind die Waldwege matschig, bleiben Sie auf den befestigten Parkplätzen.",
+                "hu": "Élvezze a Castiñeiras-tó látványát az autóból; heves esőben az erdei utak sárosak, maradjon a szilárd burkolatú parkolók közelében.",
+                "ro": "Bucurați-vă de vederea lacului Castiñeiras din mașină; pe ploaie torențială drumurile forestiere sunt noroioase, rămâneți în parcările pavate.",
+                "en": "Enjoy the view of Lake Castiñeiras from your car; in heavy rain, the forest paths are muddy, so stay near the paved parking areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Petróglifos de Pepito Meijón",
+                "hu": "Petróglifos de Pepito Meijón",
+                "ro": "Petróglifos de Pepito Meijón",
+                "en": "Petróglifos de Pepito Meijón"
+              },
+              "tip_5lang": {
+                "de": "Die Felsritzungen sind bei Nässe durch den Kontrast oft besser sichtbar; ein kurzer Sprint vom Parkplatz mit Regenschirm reicht für die Besichtigung aus.",
+                "hu": "A sziklavésetek nedvesen a kontraszt miatt gyakran jobban látszanak; egy rövid sprint az autótól esernyővel bőven elég a megtekintésükhöz.",
+                "ro": "Gravurile în piatră sunt adesea mai vizibile când sunt ude datorită contrastului; un sprint scurt de la mașină cu umbrela este suficient pentru vizită.",
+                "en": "The rock carvings are often more visible when wet due to the contrast; a short dash from the car with an umbrella is enough to view them."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa de Castiñeiras",
+                "hu": "Mámoa de Castiñeiras",
+                "ro": "Mámoa de Castiñeiras",
+                "en": "Mámoa de Castiñeiras"
+              },
+              "tip_5lang": {
+                "de": "Dieses Megalithgrab liegt nah an der Straße; nutzen Sie die kurzen Regenpausen für einen Blick, da das Gelände rundherum sehr rutschig sein kann.",
+                "hu": "Ez a megalitikus sír közel fekszik az úthoz; használja ki a rövid esőszüneteket a megtekintéshez, mivel a terep körülötte nagyon csúszós lehet.",
+                "ro": "Acest mormânt megalitic este aproape de drum; profitați de scurte pauze de ploaie pentru a-l vedea, deoarece terenul din jur poate fi alunecos.",
+                "en": "This megalithic tomb is close to the road; use short breaks in the rain to view it, as the surrounding terrain can become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa do Rei",
+                "hu": "Mámoa do Rei",
+                "ro": "Mámoa do Rei",
+                "en": "Mámoa do Rei"
+              },
+              "tip_5lang": {
+                "de": "Eines der bedeutendsten Denkmäler der Gegend; tragen Sie wasserfeste Schuhe für den kurzen Fußweg vom Auto, da sich Pfützen auf dem Pfad bilden.",
+                "hu": "A környék egyik legjelentősebb emléke; viseljen vízálló cipőt az autótól vezető rövid sétához, mivel tócsák alakulhatnak ki az ösvényen.",
+                "ro": "Unul dintre cele mai importante monumente din zonă; purtați pantofi impermeabili pentru scurta plimbare de la mașină, deoarece se formează bălți.",
+                "en": "One of the most important monuments in the area; wear waterproof shoes for the short walk from the car as puddles form quickly on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa da Pedra Longa",
+                "hu": "Mámoa da Pedra Longa",
+                "ro": "Mámoa da Pedra Longa",
+                "en": "Mámoa da Pedra Longa"
+              },
+              "tip_5lang": {
+                "de": "Der Stein wirkt im Regen dunkel und imposant; halten Sie den Motor für eine kurze Aufwärmpause bereit, wenn Sie von der Besichtigung zurückkommen.",
+                "hu": "A kő esőben sötét és impozáns látványt nyújt; tartsa készenlétben az autót egy rövid bemelegedésre, miután visszatér a nézelődésből.",
+                "ro": "Piatra pare întunecată și impunătoare în ploaie; lăsați mașina pregătită pentru o scurtă încălzire când vă întoarceți de la monument.",
+                "en": "The stone looks dark and imposing in the rain; have the car ready for a quick warm-up session after you return from viewing the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Martiño de Vilaboa",
+                "hu": "Igrexa de San Martiño de Vilaboa",
+                "ro": "Igrexa de San Martiño de Vilaboa",
+                "en": "Igrexa de San Martiño de Vilaboa"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor der Kirche, um trocken ins Innere zu gelangen; die Kirche bietet den perfekten Abschluss für einen regnerischen Kulturtag.",
+                "hu": "Parkoljon közvetlenül a templom előtt, hogy szárazon jusson be; az épület tökéletes befejezést kínál egy esős, kulturális élményekkel teli naphoz.",
+                "ro": "Parcați chiar în fața bisericii pentru a intra uscat; interiorul oferă finalul perfect pentru o zi culturală ploioasă în siguranță.",
+                "en": "Park directly in front of the church to stay dry while entering; the church provides the perfect conclusion to a rainy cultural day."
+              }
+            },
+            {
+              "name": {
+                "de": "Enseada de Vilaboa",
+                "hu": "Enseada de Vilaboa",
+                "ro": "Enseada de Vilaboa",
+                "en": "Enseada de Vilaboa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Meeresoberfläche vom Uferweg aus; schalten Sie die Scheibenwischer ein, um die Sicht nicht zu verlieren.",
+                "hu": "Figyelje az esőcseppek játékát a tenger felszínén a parti útról; tartsa bekapcsolva az ablaktörlőt, hogy ne veszítse el a kilátást az öbölre.",
+                "ro": "Observați jocul picăturilor de ploaie pe suprafața mării de pe drumul de coastă; lăsați ștergătoarele pornite pentru a nu pierde vederea spre golf.",
+                "en": "Watch the play of raindrops on the sea surface from the coastal road; keep your wipers on to maintain a clear view of the misty bay."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt im Cotorredondo Park mit weitem Blick über das winterliche Tal. Mittags erkunden Sie die prähistorischen Mámoas, deren Steine in der kalten Luft scharf gezeichnet sind. Nachmittags besuchen Sie die Kirche San Martiño im goldenen Licht. Da die Sonne gegen 17:00 Uhr untergeht, genießen Sie das Finale an der Enseada in der klaren, kalten Abenddämmerung.",
+            "hu": "A fagyos reggel a Cotorredondo parkban indul, ahonnan pazar kilátás nyílik a téli völgyre. Délben a prahistorikus mámoákat fedezzük fel, melyek kövei élesen rajzolódnak ki a hideg levegőben. Délután az aranyló fényben fürdő San Martiño templomot látogatjuk meg. Mivel a nap 17:00 körül nyugszik, az Enseada-öbölnél már a tiszta, hideg alkonyatban gyönyörködhetünk.",
+            "ro": "O dimineață geroasă începe în parcul Cotorredondo cu o vedere largă asupra văii hibernale. La prânz explorăm dolmenele preistorice, ale căror pietre sunt clar conturate în aerul rece. După-amiaza vizităm biserica San Martiño în lumina aurie. Deoarece soarele apune în jur de ora 17:00, savurăm finalul la Enseada în amurgul rece și senin.",
+            "en": "A frosty morning starts in Cotorredondo Park with wide views over the winter valley. At noon, explore the prehistoric burial mounds, their stones sharply outlined in the cold air. In the afternoon, visit San Martiño Church in the golden light. As the sun sets around 17:00, enjoy the finale at the Enseada in the clear, chilly evening twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cotorredondo Nature Park",
+                "hu": "Cotorredondo Nature Park",
+                "ro": "Cotorredondo Nature Park",
+                "en": "Cotorredondo Nature Park"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht vom Aussichtsturm ist im Winter oft klarer; achten Sie auf mögliche Glätte auf den höher gelegenen Zufahrtsstraßen zum Park.",
+                "hu": "A kilátóból nyíló távoli panoráma télen gyakran tisztább; ügyeljen az esetleges jegesedésre a parkba vezető magasabban fekvő mellékutakon.",
+                "ro": "Vederea panoramică din turn este adesea mai clară iarna; atenție la posibila polei pe drumurile de acces mai înalte spre parc.",
+                "en": "The distant views from the lookout tower are often clearer in winter; watch out for potential icy patches on the higher access roads to the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Petróglifos de Pepito Meijón",
+                "hu": "Petróglifos de Pepito Meijón",
+                "ro": "Petróglifos de Pepito Meijón",
+                "en": "Petróglifos de Pepito Meijón"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne erzeugt lange Schatten, die die Gravuren plastischer wirken lassen; tragen Sie warme Kleidung für den Aufenthalt im Freien.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet, így a vésetek plasztikusabbnak tűnnek; viseljen meleg ruhát a szabadban való tartózkodáshoz.",
+                "ro": "Soarele jos de iarnă creează umbre lungi care fac gravurile să pară mai tridimensionale; purtați haine groase pentru timpul petrecut afară.",
+                "en": "The low winter sun creates long shadows that make the carvings look more three-dimensional; wear warm clothing for your stay outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa de Castiñeiras",
+                "hu": "Mámoa de Castiñeiras",
+                "ro": "Mámoa de Castiñeiras",
+                "en": "Mámoa de Castiñeiras"
+              },
+              "tip_5lang": {
+                "de": "Der Frost auf den Megalithen verleiht dem Ort eine besondere Aura; halten Sie den Besuch kurz, da der Wind hier oben im Winter sehr ungemütlich ist.",
+                "hu": "A megalitokon megülő dér különleges aurát kölcsönöz a helynek; tartsa rövidre a látogatást, mert a szél itt fent télen nagyon barátságtalan lehet.",
+                "ro": "Chiciura de pe megalituri oferă locului o aură specială; vizitați rapid, deoarece vântul aici sus este foarte tăios în timpul iernii.",
+                "en": "The frost on the megaliths gives the place a special aura; keep your visit brief as the wind up here can be very uncomfortable in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa do Rei",
+                "hu": "Mámoa do Rei",
+                "ro": "Mámoa do Rei",
+                "en": "Mámoa do Rei"
+              },
+              "tip_5lang": {
+                "de": "Ein beeindruckendes Zeugnis der Geschichte in der kahlen Winterlandschaft; die Pfade können gefroren sein, achten Sie auf festen Tritt beim Rundgang.",
+                "hu": "A történelem lenyűgöző tanúbizonysága a kopár téli tájban; az ösvények fagyottak lehetnek, ügyeljen a stabil léptekre a körbejárás közben.",
+                "ro": "O mărturie impresionantă a istoriei în peisajul golaș de iarnă; potecile pot fi înghețate, aveți grijă la pașii siguri în timpul vizitei.",
+                "en": "An impressive testimony to history in the barren winter landscape; paths may be frozen, so ensure you have steady footing while walking around."
+              }
+            },
+            {
+              "name": {
+                "de": "Mámoa da Pedra Longa",
+                "hu": "Mámoa da Pedra Longa",
+                "ro": "Mámoa da Pedra Longa",
+                "en": "Mámoa da Pedra Longa"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern die Kälte, vermeiden Sie direktes Berühren ohne Handschuhe; nutzen Sie die Heizung im Auto zwischen den Stopps zur Regeneration.",
+                "hu": "A kövek tárolják a hideget, kerülje a közvetlen érintést kesztyű nélkül; használja az autó fűtését a megállók között a gyors regenerálódáshoz.",
+                "ro": "Pietrele înmagazinează frigul, evitați atingerea lor fără mănuși; folosiți încălzirea din mașină între opriri pentru a vă recupera rapid.",
+                "en": "The stones store the cold, so avoid direct contact without gloves; use the car heater between stops to warm up and regenerate your energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Igrexa de San Martiño de Vilaboa",
+                "hu": "Igrexa de San Martiño de Vilaboa",
+                "ro": "Igrexa de San Martiño de Vilaboa",
+                "en": "Igrexa de San Martiño de Vilaboa"
+              },
+              "tip_5lang": {
+                "de": "Das Innere der Kirche wirkt im winterlichen Nachmittagslicht besonders andächtig; genießen Sie die Stille, bevor Sie zum letzten Stopp am Meer fahren.",
+                "hu": "A templom belseje a téli délutáni fényben különösen áhítatosnak tűnik; élvezze a csendet, mielőtt az utolsó tengerparti állomáshoz indulna.",
+                "ro": "Interiorul bisericii pare deosebit de pios în lumina după-amiezii de iarnă; bucurați-vă de liniște înainte de a merge la ultima oprire la mare.",
+                "en": "The church interior looks especially solemn in the winter afternoon light; enjoy the silence before heading to the final stop by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Enseada de Vilaboa",
+                "hu": "Enseada de Vilaboa",
+                "ro": "Enseada de Vilaboa",
+                "en": "Enseada de Vilaboa"
+              },
+              "tip_5lang": {
+                "de": "Das Licht über der Bucht ist um 17:00 Uhr spektakulär, aber kurz; bleiben Sie für das Farbschauspiel im Auto und genießen Sie die Aussicht im Warmen.",
+                "hu": "Az öböl feletti fények 17:00 körül látványosak, de rövidek; maradjon az autóban a színes játék idejére, és élvezze a kilátást a melegből.",
+                "ro": "Lumina peste golf este spectaculoasă la ora 17:00, dar scurtă; rămâneți în mașină pentru spectacolul culorilor și admirați vederea la căldură.",
+                "en": "The light over the bay is spectacular at 17:00 but brief; stay in the car for the color show and enjoy the scenic view from the warmth."
+              }
+            }
+          ]
+        }
       }
     }
   }

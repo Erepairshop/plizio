@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot egy frissítő úszással a kényelmes patitiri városi strandon, mielőtt a kikötő megtelne élettel.\nMidday: Sétáljon végig a parti ösvényen a Rousoum Gualoshoz, ahol napozhat és ízletes tengeri ebédet fogyaszthat a víz közvetlen közelében.\nAfternoon: Folytassa útját kelet felé a Paraglia Votsi és a Spartines eldugott partjai felé, élvezve a fenyőfák illatát.\nEvening: Fejezze be sétáját a Yialia sziklás öblében, és csodálja meg a parti szélmalom romjait a késő délutáni lágyuló fényben.",
         "ro": "Morning: Începeți ziua cu o baie revigorantă la plaja convenabilă din orașul Patitiri, înainte ca portul să devină aglomerat.\nMidday: Plimbați-vă pe poteca de coastă până la Rousoum Gualos pentru plajă și un prânz delicios cu fructe de mare chiar lângă apă.\nAfternoon: Continuați călătoria spre est, către Paraglia Votsi și țărmurile retrase de la Spartines, bucurându-vă de parfumul pinilor.\nEvening: Încheiați plimbarea în golful stâncos Yialia, admirând ruinele morii de vânt de pe coastă pe măsură ce lumina după-amiezii se atenuează.",
         "en": "Morning: Start your day with a refreshing swim at the convenient Patitiri town beach before the port gets busy.\nMidday: Stroll along the coastal path to Rousoum Gualos for more sunbathing and a delicious seafood lunch right by the water.\nAfternoon: Continue your journey eastwards to Paraglia Votsi and the secluded shores of Spartines, enjoying the scent of pine trees.\nEvening: Conclude your walk at the rocky bay of Yialia, admiring the coastal windmill ruins as the late afternoon light softens."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einem Regenspaziergang am Patitiri-Strand. Mittags geht es nach Rousoum und Votsi; die nassen Küstenwege erfordern rutschfeste Schuhe. Die Nachmittagswanderung nach Spartines bietet dramatische Ausblicke, aber Vorsicht vor Matsch. Beenden Sie den Abend in Yialia in einem überdachten, gemütlichen Unterschlupf.",
+            "hu": "Kezdje a napot egy esernyős reggeli sétával a Patitiri strandon. Délben Rousoum és Votsi felé vegye az irányt; a nedves parti utakon csúszásgátló cipő kell. A délutáni túra Spartinesbe drámai tengeri kilátást nyújt, de vigyázzon a sárral. Este Yialiában keressen egy közeli fedett menedéket, ahol nyugodtan megszáradhat.",
+            "ro": "Începeți dimineața cu o plimbare dramatică pe plaja Patitiri, sub umbrelă. La prânz, mergeți spre Rousoum și Votsi; potecile umede necesită încălțăminte antiderapantă. Drumeția de după-amiază spre Spartines oferă o mare furtunoasă, dar atenție la noroi. Seara la Yialia, găsiți un adăpost acoperit pentru a vă usca.",
+            "en": "Start with a dramatic morning stroll at Patitiri beach under an umbrella. At midday, walk towards Rousoum and Votsi; the wet coastal paths require sturdy, slip-resistant shoes. The afternoon hike to Spartines offers moody sea views, but beware of muddy trails. End your evening at Yialia, finding a nearby sheltered spot to dry off."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patitiri Stadtstrand",
+                "hu": "Patitiri városi strand",
+                "ro": "Plaja orașului Patitiri",
+                "en": "Patitiri town beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen auf das Meer trifft. Bringen Sie einen sturmfesten Regenschirm mit, da die Küstenböen hier stark sein können.",
+                "hu": "Nézze, ahogy az eső a tengerbe hullik. Hozzon erős, szélálló esernyőt, mert a parti széllökések viharok idején meglehetősen erősek lehetnek.",
+                "ro": "Priviți ploaia lovind marea la plaja orașului. Aduceți o umbrelă rezistentă la vânt, deoarece rafalele de coastă pot fi puternice aici.",
+                "en": "Watch the rain hit the sea at the town beach. Bring a sturdy windproof umbrella as coastal gusts can be strong here during sudden storms."
+              }
+            },
+            {
+              "name": {
+                "de": "Rousoum Gualos",
+                "hu": "Rousoum Gualos",
+                "ro": "Rousoum Gualos",
+                "en": "Rousoum Gualos"
+              },
+              "tip_5lang": {
+                "de": "Die Kieselbucht wirkt im Regen unglaublich stimmungsvoll. Tragen Sie wasserdichte Wanderschuhe für die nassen, rutschigen Stufen hinab.",
+                "hu": "A kavicsos öböl esőben hihetetlenül drámai. Viseljen vízálló túracipőt, hogy biztonságosan lejusson a nedves, csúszós lépcsőkön a partra.",
+                "ro": "Golful cu pietriș arată uimitor în ploaie. Purtați bocanci impermeabili pentru a coborî în siguranță treptele umede și alunecoase.",
+                "en": "The pebble cove looks incredibly moody in the rain. Wear waterproof hiking boots to safely navigate the wet, slippery steps leading down."
+              }
+            },
+            {
+              "name": {
+                "de": "Paraglia Votsi",
+                "hu": "Paraglia Votsi",
+                "ro": "Paraglia Votsi",
+                "en": "Paraglia Votsi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die geschützte Bucht sicher. Stellen Sie sich unter die Pinien, um trocken zu bleiben und das graue Wasser zu fotografieren.",
+                "hu": "Élvezze a védett öböl látványát biztonságban. Álljon a fenyők vagy eresz alá, hogy szárazon maradjon a szürke, háborgó víz fotózásakor.",
+                "ro": "Bucurați-vă în siguranță de golful protejat. Stați sub pini sau pe sub streșini pentru a rămâne uscat în timp ce fotografiați apa cenușie.",
+                "en": "Enjoy the sheltered bay views safely. Stand under the pine trees or nearby eaves to stay dry while photographing the grey, turbulent waters."
+              }
+            },
+            {
+              "name": {
+                "de": "Spartines",
+                "hu": "Spartines",
+                "ro": "Spartines",
+                "en": "Spartines"
+              },
+              "tip_5lang": {
+                "de": "Ein wilder Strand, den man heute besser aus der Ferne betrachtet. Die steilen Erdpfade werden sehr schlammig, gehen Sie nur mit Vorsicht.",
+                "hu": "Vad, elzárt strand, amelyet ma jobb tisztes távolból csodálni. A meredek földutak rendkívül sárosak lesznek, csak óvatosan haladjon tovább.",
+                "ro": "O plajă sălbatică, cel mai bine privită de la distanță azi. Cărările abrupte de pământ devin foarte noroioase, înaintați cu mare atenție.",
+                "en": "A wild, secluded beach best viewed from a safe distance today. The steep dirt paths get extremely muddy, so proceed only with extreme caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Yialia",
+                "hu": "Yialia",
+                "ro": "Yialia",
+                "en": "Yialia"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Windmühlenreste im Unwetter. Bringen Sie einen Regenmantel mit und beenden Sie den Spaziergang, um ein Café zu finden.",
+                "hu": "Nézze meg a szélmalom romjait a zord időben. Hozzon megbízható esőkabátot, és siessen a séta végén egy közeli meleg, száraz kávézóba.",
+                "ro": "Vedeți ruinele morii de vânt înfruntând vremea. Luați o pelerină bună și terminați repede plimbarea pentru a găsi o cafenea uscată.",
+                "en": "See the old windmill remains braving the weather. Bring a reliable raincoat and finish your walk quickly to find a warm, dry cafe nearby."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den kühlen Morgen am Patitiri-Strand in warmen Schichten. Mittags bietet der Weg nach Rousoum und Votsi friedlichen Sonnenschein. Nachmittags geht es nach Spartines; die kühle Luft erfrischt beim Aufstieg. Der Abend naht um 17:00 Uhr in Yialia, bringen Sie eine dicke Jacke mit, da es schnell kalt wird.",
+            "hu": "Élvezze a friss, csendes reggelt a Patitiri strandon, meleg rétegekbe öltözve. Délben a Rousoum és Votsi felé tartó séta békés napsütést kínál. Délután túrázzon Spartinesbe; a hűvösebb levegő frissítővé teszi a mászást. Az este 17:00 körül közeleg Yialiában, hozzon vastag kabátot a gyors lehűlés ellen.",
+            "ro": "Bucurați-vă de o dimineață proaspătă la plaja Patitiri, în haine groase. La prânz, plimbarea spre Rousoum și Votsi oferă soare liniștit. După-amiaza, faceți drumeția spre Spartines; aerul rece face urcușul plăcut. Seara vine pe la 17:00 la Yialia, aduceți o geacă groasă pentru că se răcește brusc.",
+            "en": "Enjoy a crisp, quiet morning at Patitiri beach, wrapped in warm layers. At noon, the walk to Rousoum and Votsi offers peaceful sunshine without the crowds. In the afternoon, hike to Spartines; the cooler air makes the climb refreshing. Evening approaches fast by 17:00 at Yialia, so bring a thick jacket as temperatures drop quickly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patitiri Stadtstrand",
+                "hu": "Patitiri városi strand",
+                "ro": "Plaja orașului Patitiri",
+                "en": "Patitiri town beach"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter wunderbar ruhig. Tragen Sie eine dicke Windjacke gegen die eisige Morgenbrise, während Sie die Boote beobachten.",
+                "hu": "A kikötő télen gyönyörűen nyugodt. Viseljen vastag széldzsekit a fagyos reggeli tengeri szellő ellen, miközben a halászhajókat nézi.",
+                "ro": "Portul este minunat de senin iarna. Purtați o geacă de vânt groasă pentru a bloca briza mării în timp ce priviți bărcile.",
+                "en": "The harbor is beautifully serene in winter. Wear a thick windbreaker to block the icy morning sea breezes while watching the fishing boats."
+              }
+            },
+            {
+              "name": {
+                "de": "Rousoum Gualos",
+                "hu": "Rousoum Gualos",
+                "ro": "Rousoum Gualos",
+                "en": "Rousoum Gualos"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für die winterliche Mittagssonne. Die Kieselsteine bleiben kalt, behalten Sie Ihre Thermosocken an, wenn Sie ans Wasser gehen.",
+                "hu": "Tökéletes hely a téli déli napfény élvezetére. A kavicsok hidegek maradnak, ezért tartsa magán a zoknit, ha a vízhez sétál.",
+                "ro": "Un loc perfect pentru soarele de prânz. Pietricelele rămân reci, așa că păstrați șosetele termice dacă mergeți aproape de apă.",
+                "en": "A perfect spot for midday winter sun reflection. The pebbles stay cold, so keep your thermal socks on if you walk close to the waterline."
+              }
+            },
+            {
+              "name": {
+                "de": "Paraglia Votsi",
+                "hu": "Paraglia Votsi",
+                "ro": "Paraglia Votsi",
+                "en": "Paraglia Votsi"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie das kristallklare Winterwasser in der Bucht. Tragen Sie Zwiebellook, da sich dieser geschützte Ort warm anfühlen kann.",
+                "hu": "Örökítse meg az öböl kristálytiszta téli vizét. Öltözzön rétegesen, mert ez a széltől védett hely meglepően melegnek tűnhet a napon.",
+                "ro": "Capturați apele cristaline de iarnă din golf. Îmbrăcați-vă în straturi, deoarece acest loc ferit de vânt poate fi surprinzător de cald.",
+                "en": "Capture the crystal-clear winter waters in the bay. Dress in easily removable layers, as the sheltered spot can feel surprisingly warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Spartines",
+                "hu": "Spartines",
+                "ro": "Spartines",
+                "en": "Spartines"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie völlige Einsamkeit an dieser Bucht. Gehen Sie spätestens um 15:30 Uhr zurück, um die steilen Wege nicht im Dunkeln zu gehen.",
+                "hu": "Élvezze a teljes magányt ebben az eldugott öbölben. Legkésőbb 15:30-kor induljon vissza, hogy elkerülje a sötétben való hegymászást.",
+                "ro": "Bucurați-vă de singurătate absolută aici. Asigurați-vă că porniți înapoi până la 15:30 pentru a nu parcurge traseul abrupt pe întuneric.",
+                "en": "Enjoy complete solitude at this hidden cove. Make sure to start heading back by 15:30 to avoid walking the steep trails in the dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Yialia",
+                "hu": "Yialia",
+                "ro": "Yialia",
+                "en": "Yialia"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Windmühle im schwindenden Nachmittagslicht. Die Temperatur sinkt nach 16:30 Uhr stark, ziehen Sie warme Handschuhe an.",
+                "hu": "Csodálja meg a felújított szélmalmot a halványuló délutáni fényben. A hőmérséklet 16:30 után meredeken esik, vegye elő a legmelegebb kesztyűjét.",
+                "ro": "Admirați moara de vânt în lumina palidă a după-amiezii. Temperatura scade drastic după 16:30, scoateți cele mai groase mănuși.",
+                "en": "Admire the restored windmill in the fading afternoon light. The temperature drops sharply after 16:30, so pull out your warmest gloves."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Morning: Tekerjen egyenesen a patitiri városi strandra, hogy élvezze a nyugodt reggeli tengert a nyüzsgő kikötőváros szívében.\nMidday: Lovagoljon délnyugat felé az olajfaligeteken át a Megalos Mourtias-hoz, amely tökéletes hely úszáshoz és egy tengerparti étkezéshez.\nAfternoon: Ugorjon át a közeli, gyönyörűen kiépítetlen Mikros Mourtias strandra, és gyönyörködjön az érintetlen környező tájban.\nEvening: Fejezze be a kerékpározást Brusitsa és Yialia zord öbleinek felfedezésével, elkapva a késő délutáni napfényt a vízen.",
         "ro": "Morning: Pedați direct către plaja din orașul Patitiri pentru a vă bucura de marea calmă a dimineții chiar în inima orașului-port.\nMidday: Mergeți cu bicicleta spre sud-vest prin plantațiile de măslini până la Megalos Mourtias, un loc perfect pentru înot și masă.\nAfternoon: Faceți o scurtă oprire la plaja învecinată, frumos de neorganizată, Mikros Mourtias, admirând peisajele naturale intacte.\nEvening: Terminați-vă traseul cu bicicleta explorând golfurile accidentate de la Brusitsa și Yialia, surprinzând soarele târziu al după-amiezii.",
         "en": "Morning: Pedal straight to Patitiri town beach to enjoy the calm morning sea right in the heart of the bustling port town.\nMidday: Ride southwest through the olive groves to Megalos Mourtias, a perfect spot for swimming and a relaxed seaside meal.\nAfternoon: Hop over to the nearby, beautifully unorganized Mikros Mourtias Beach, taking in the untouched surrounding landscapes.\nEvening: Finish your cycling loop exploring the rugged coves of Brusitsa and Yialia, catching the late afternoon sun on the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie in Patitiri mit einem wasserdichten Anzug. Mittags erfordert die Fahrt zu den Mourtias-Stränden höchste Vorsicht in nassen Kurven. Nachmittags geht es Richtung Brusitsa und Yialia; der Regen macht die Landschaft saftig grün. Beenden Sie die Tour abends früh bei schlechter Sicht und suchen Sie eine überdachte Veranda auf.",
+            "hu": "Induljon Patitiriből vízálló, láthatósági ruhában. Délben a Mourtias strandok felé a csúszós, nedves kanyarokban fokozott óvatosság kell. Délután tekerjen Brusitsa és Yialia felé; az eső kizöldíti a tájat. Este fejezze be korán a romló látási viszonyok miatt; keressen egy fedett teraszt a kerékpár tárolására és melegedjen fel.",
+            "ro": "Începeți la Patitiri într-un costum impermeabil vizibil. La prânz, drumul spre plajele Mourtias cere maximă prudență pe curbele umede. După-amiaza pedalați spre Brusitsa și Yialia; ploaia face peisajul verde. Seara terminați devreme din cauza vizibilității reduse; găsiți o terasă acoperită pentru a depozita bicicleta și a vă încălzi.",
+            "en": "Start biking at Patitiri in a high-vis waterproof suit. Midday riding to Megalos and Mikros Mourtias requires extreme caution on slippery, wet curves. In the afternoon, push towards Brusitsa and Yialia; the rain makes the landscape lush. By evening, finish early as visibility drops; find a covered veranda to safely store your bike and warm up."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patitiri Stadtstrand",
+                "hu": "Patitiri városi strand",
+                "ro": "Plaja orașului Patitiri",
+                "en": "Patitiri town beach"
+              },
+              "tip_5lang": {
+                "de": "Montieren Sie Schutzbleche, bevor Sie den Hafen verlassen. Der nasse Asphalt wird hier durch Autoöl rutschig, bremsen Sie sanft ab.",
+                "hu": "Szereljen fel sárvédőt a kikötő elhagyása előtt. A nedves aszfalt itt az autók olajától csúszós, ezért már az elejétől finoman fékezzen.",
+                "ro": "Montați apărători înainte de a pleca. Asfaltul umed devine alunecos de la uleiul mașinilor, frânați ușor chiar de la început.",
+                "en": "Equip mudguards before leaving the harbor. The wet asphalt here gets slick with oil from cars, so brake gently right from the start."
+              }
+            },
+            {
+              "name": {
+                "de": "Megalos Mourtias",
+                "hu": "Megalos Mourtias",
+                "ro": "Megalos Mourtias",
+                "en": "Megalos Mourtias"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt ist im Regen extrem rutschig. Fahren Sie langsam und vermeiden Sie abruptes Bremsen auf den nassen Tannennadeln der Straße.",
+                "hu": "A lejtős megközelítés esőben rendkívül csúszós. Haladjon lassan, és kerülje a hirtelen fékezést az utat borító nedves tűleveleken.",
+                "ro": "Coborârea este foarte alunecoasă în ploaie. Mențineți o viteză redusă și evitați frânarea bruscă pe acele de pin umede de pe drum.",
+                "en": "The downhill approach is extremely slippery in the rain. Maintain a low speed and avoid sudden braking on the wet pine needles covering the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikros Mourtias Strand",
+                "hu": "Mikros Mourtias strand",
+                "ro": "Plaja Mikros Mourtias",
+                "en": "Mikros Mourtias Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner, aber schlammiger Stopp. Parken Sie das Rad auf festem Asphalt statt auf weicher Erde und tragen Sie Überschuhe für den Strand.",
+                "hu": "Gyönyörű, de sáros megálló. A kerékpárt szilárd aszfaltra támassza, ne a puha földre, és viseljen cipővédőt a lemenetelhez.",
+                "ro": "O oprire frumoasă, dar noroioasă. Parcați bicicleta pe asfalt solid, nu pe pământ moale, și purtați supraîncălțări pentru plajă.",
+                "en": "A beautiful but muddy stop. Park the bike on solid asphalt rather than soft dirt, and wear overshoes if you want to walk down to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "BRUSITSA",
+                "hu": "BRUSITSA",
+                "ro": "BRUSITSA",
+                "en": "BRUSITSA"
+              },
+              "tip_5lang": {
+                "de": "Ein abgelegener Aussichtspunkt im Nebel. Stellen Sie sicher, dass Ihre Fahrradlichter brennen, da der Regendunst die Sicht stark einschränkt.",
+                "hu": "Félreeső, ködbe burkolózó kilátópont. Gondoskodjon róla, hogy a kerékpárlámpák folyamatosan égjenek, mivel a köd rontja a látási viszonyokat.",
+                "ro": "Un punct panoramic învăluit în ceață. Asigurați-vă că luminile bicicletei sunt mereu aprinse, deoarece ploaia reduce sever vizibilitatea.",
+                "en": "A remote scenic point enveloped in mist. Ensure your bike lights are turned on constantly, as the rainy haze severely reduces visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Yialia",
+                "hu": "Yialia",
+                "ro": "Yialia",
+                "en": "Yialia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die nasse Fahrt an der alten Windmühle. Schließen Sie das Rad unter Bäumen ab und suchen Sie sich drinnen einen heißen Tee.",
+                "hu": "Fejezze be a nedves túrát a történelmi szélmalomnál. Zárja le a biciklit fák alatt, és keressen gyorsan egy benti helyet forró teával.",
+                "ro": "Terminați cursa la moara istorică. Încuiați bicicleta sub copaci și găsiți rapid un loc acoperit pentru a savura un ceai fierbinte.",
+                "en": "End your wet ride by the historic windmill. Lock the bike securely under tree cover and quickly find a nearby indoor spot with hot tea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Radfahren beginnt morgens kühl in Patitiri. Die Mittagsfahrten zu den Mourtias-Stränden lohnen sich bei klarem Himmel ohne Verkehr. Nachmittags hält Sie die Fahrt nach Brusitsa warm. Gegen 16:30 Uhr fallen Schatten und Temperaturen schnell; haben Sie Licht und zusätzliche Schichten für die Rückfahrt bereit.",
+            "hu": "A reggeli kerékpározás hűvösen indul Patitiriben; öltözzön be. A déli utak a Mourtias strandokhoz tiszta téli éggel és forgalom nélkül jutalmaznak. Délután Brusitsa és Yialia felé a tekerés melegen tart. 16:30-ra gyorsan lehűl a levegő, legyen világítása és plusz rétege a biztonságos és meleg visszaútra.",
+            "ro": "Ciclismul matinal începe rece la Patitiri; îmbrăcați-vă bine. Prânzul spre plajele Mourtias oferă cer senin și trafic zero. După-amiaza spre Brusitsa vă menține cald. Pe la 16:30, umbrele serii cad rapid, scăzând temperatura; asigurați-vă că aveți lumini și straturi în plus pentru întoarcere.",
+            "en": "Morning cycling starts crisp at Patitiri; bundle up. Midday rides to Megalos and Mikros Mourtias are rewarding with clear winter skies and zero traffic. Afternoon pedaling to Brusitsa and Yialia keeps you warm. By 16:30, evening shadow falls fast, making the temperature plummet, so ensure you have lights and extra layers for the ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Patitiri Stadtstrand",
+                "hu": "Patitiri városi strand",
+                "ro": "Plaja orașului Patitiri",
+                "en": "Patitiri town beach"
+              },
+              "tip_5lang": {
+                "de": "Atmen Sie die eisige Seeluft. Tragen Sie winddichte Radhandschuhe, da Ihre Finger bei der morgendlichen Abfahrt sonst extrem schnell auskühlen.",
+                "hu": "Kezdje a napot a fagyos tengeri levegővel. Viseljen szélálló kerékpáros kesztyűt, mert az ujjai gyorsan átfagynak a reggeli ereszkedés során.",
+                "ro": "Respirați aerul înghețat al mării. Purtați mănuși de ciclism rezistente la vânt, altfel degetele vă vor îngheța rapid la coborârea matinală.",
+                "en": "Start your ride breathing in the icy, fresh sea air. Wear wind-stopping cycling gloves, as your fingers will freeze quickly on the morning descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Megalos Mourtias",
+                "hu": "Megalos Mourtias",
+                "ro": "Megalos Mourtias",
+                "en": "Megalos Mourtias"
+              },
+              "tip_5lang": {
+                "de": "Der leere Strand bietet winterliche Schönheit. Bringen Sie eine Thermoskanne mit Kaffee mit, da hier im Winter keine Strandbars geöffnet sind.",
+                "hu": "Az üres strand gyönyörű téli hangulatot áraszt. Hozzon magával egy termosz forró kávét, mivel a téli hónapokban nincsenek nyitva strandbárok.",
+                "ro": "Plaja goală oferă o vibrație de iarnă superbă. Aduceți un termos cu cafea caldă, deoarece niciun bar pe plajă nu este deschis iarna.",
+                "en": "The empty beach offers a stark, beautiful winter vibe. Bring a thermos of hot coffee, as there are no open beach bars during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikros Mourtias Strand",
+                "hu": "Mikros Mourtias strand",
+                "ro": "Plaja Mikros Mourtias",
+                "en": "Mikros Mourtias Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille. Die Erdpfade können frostig sein; halten Sie den Reifendruck etwas niedriger für besseren Halt auf Eis.",
+                "hu": "Élvezze az abszolút csendet. A földutak fagyosak lehetnek; tartsa kicsit alacsonyabban a guminyomást a jobb tapadás érdekében a jeges részeken.",
+                "ro": "Bucurați-vă de liniștea absolută. Cărările pot fi înghețate; mențineți presiunea anvelopelor mai mică pentru aderență pe porțiunile de gheață.",
+                "en": "Enjoy the absolute silence. The dirt paths can be firm but frosty; keep your tire pressure slightly lower for better grip on icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "BRUSITSA",
+                "hu": "BRUSITSA",
+                "ro": "BRUSITSA",
+                "en": "BRUSITSA"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für Panoramabilder der winterlichen Ägäis. Tragen Sie ein Fleece, da diese exponierte Landzunge oft von eisigen Winden getroffen wird.",
+                "hu": "Álljon meg panorámafotókért a téli Égei-tengerről. Viseljen meleg polárt a kabát alatt, mert ezt a nyitott fokot metsző hideg szelek érik.",
+                "ro": "Opriți pentru poze panoramice. Purtați un polar călduros sub geacă, deoarece acest promontoriu expus este lovit de vânturi extrem de reci.",
+                "en": "Stop for panoramic photos of the wintery Aegean. Wear a snug fleece under your jacket, as this exposed headland gets biting cold winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Yialia",
+                "hu": "Yialia",
+                "ro": "Yialia",
+                "en": "Yialia"
+              },
+              "tip_5lang": {
+                "de": "Der Wintersonnenuntergang erstrahlt hinter der Windmühle. Seien Sie um 16:00 Uhr hier und schalten Sie das Licht für die dunkle Rückfahrt ein.",
+                "hu": "A téli naplemente lenyűgöző a szélmalom mögött. Érkezzen 16:00-ra, hogy lássa, és azonnal kapcsolja be a lámpákat a sötét visszaúthoz.",
+                "ro": "Apusul de iarnă colorează cerul în spatele morii. Ajungeți la 16:00 pentru a-l vedea și aprindeți luminile pentru întoarcerea pe întuneric.",
+                "en": "The winter sunset paints the sky brilliantly behind the windmill. Arrive by 16:00 to see it, and immediately turn on your lights for the dark ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +769,224 @@
         "hu": "Morning: Vezessen le Paraglia Votsiba, hogy teljes békében tapasztalja meg a festői, fenyőkkel övezett kikötő smaragdzöld vizét.\nMidday: Ugorjon át Rousoum Gualosba és a patitiri városi strandra, ahol változatos úszási lehetőségek és helyi tavernák várják.\nAfternoon: Cirkáljon át a délnyugati partra, hogy meglátogassa a Megalos Mourtias és az eldugott Mikros Mourtias olajfákkal árnyékolt partjait.\nEvening: Fejezze be festői autózását Brusitsa és Yialia zord északi öbleinél, élvezve a lélegzetelállító sziklás tengeri tájakat.",
         "ro": "Morning: Conduceți până la Paraglia Votsi pentru a experimenta apele de smarald ale portului său pitoresc în deplină liniște.\nMidday: Faceți o oprire la Rousoum Gualos și la plaja din Patitiri pentru opțiuni variate de înot și acces la tavernele locale excelente.\nAfternoon: Călătoriți spre coasta de sud-vest pentru a vizita țărmurile umbrite de măslini de la Megalos Mourtias și retrasul Mikros Mourtias.\nEvening: Încheiați-vă plimbarea cu mașina la golfurile accidentate din nord de la Brusitsa și Yialia, bucurându-vă de peisajele stâncoase.",
         "en": "Morning: Drive down to Paraglia Votsi to experience the emerald waters of its picturesque, pine-fringed harbor in complete peace.\nMidday: Hop over to Rousoum Gualos and Patitiri town beach for varied swimming options and excellent access to local tavernas.\nAfternoon: Cruise over to the southwestern coast to visit the olive-shaded shores of Megalos Mourtias and the secluded Mikros Mourtias.\nEvening: End your scenic drive at the rugged northern coves of Brusitsa and Yialia, enjoying the breathtaking rocky seascapes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt nach Votsi und Rousoum bietet Schutz vor dem Regen. Mittags in Patitiri und Megalos Mourtias erfordern nasse Küstenstraßen Vorsicht. Nachmittags bieten Mikros Mourtias und Brusitsa stimmungsvolle, verregnete Ausblicke aus dem Fenster. Abends in Yialia; lassen Sie die Heizung laufen und bewundern Sie das stürmische Meer.",
+            "hu": "A reggeli vezetés Votsi és Rousoum felé menedéket nyújt az eső elől. Délben Patitiriben és a Mourtias strandokon a csúszós parti utak óvatos kanyarodást igényelnek. Délután Mikros Mourtias és Brusitsa felé borongós, eső áztatta kilátás nyílik az ablakból. Este Yialiában járassa a fűtést, miközben a viharos tengert csodálja.",
+            "ro": "Condusul matinal spre Votsi și Rousoum oferă un adăpost confortabil contra ploii. Prânzul la Patitiri și Mourtias necesită prudență pe drumurile umede. După-amiaza spre Mikros Mourtias și Brusitsa oferă priveliști melancolice din mașină. Seara la Yialia; lăsați căldura pornită în timp ce admirați marea furtunoasă.",
+            "en": "Morning driving to Votsi and Rousoum gives you a cozy shelter against the rain. Midday stops at Patitiri and Megalos Mourtias require careful cornering on slick coastal roads. Afternoon drive to Mikros Mourtias and Brusitsa offers moody, rain-swept vistas from your window. Evening arrives at Yialia; simply keep the car heater blasting while admiring the stormy sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paraglia Votsi",
+                "hu": "Paraglia Votsi",
+                "ro": "Paraglia Votsi",
+                "en": "Paraglia Votsi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie oben und blicken Sie auf den Regen in der Bucht. Prüfen Sie Ihre Scheibenwischer, bevor Sie die nasse Straße hinabfahren.",
+                "hu": "Parkoljon le felül, és nézzen le az eső áztatta öbölre. Mielőtt leereszkedik a meredek, vizes úton, ellenőrizze az ablaktörlőket.",
+                "ro": "Parcați sus și priviți ploaia în golf. Asigurați-vă că ștergătoarele funcționează perfect înainte de a coborî drumul abrupt.",
+                "en": "Park near the top and look down at the rain hitting the bay. Ensure your windshield wipers are fully functional before descending the steep, wet road."
+              }
+            },
+            {
+              "name": {
+                "de": "Rousoum Gualos",
+                "hu": "Rousoum Gualos",
+                "ro": "Rousoum Gualos",
+                "en": "Rousoum Gualos"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen Schirm bereit. Der gepflasterte Parkplatz bildet schnell tiefe Pfützen; achten Sie beim Aussteigen darauf, wo Sie hintreten.",
+                "hu": "Tartson esernyőt az autó ajtajánál. A kikövezett parkolóban gyorsan mély tócsák alakulhatnak ki, ezért figyeljen, hová lép kiszálláskor.",
+                "ro": "Țineți o umbrelă la ușă. Parcarea pavată poate forma rapid bălți adânci, așa că aveți grijă unde călcați când ieșiți din mașină.",
+                "en": "Keep an umbrella by the car door. The paved parking area can form deep puddles quickly, so watch where you step when exiting the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Patitiri Stadtstrand",
+                "hu": "Patitiri városi strand",
+                "ro": "Plaja orașului Patitiri",
+                "en": "Patitiri town beach"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist auch im Regen geschäftig. Parken Sie fern der Pierkante, da anlegende Fähren plötzliche, große Wasserspritzer erzeugen.",
+                "hu": "A kikötő esőben is forgalmas. Parkoljon távolabb a móló szélétől, mert a kikötő nagy kompok hirtelen, hatalmas fröcskölést okozhatnak.",
+                "ro": "Portul este aglomerat și pe ploaie. Parcați departe de marginea debarcaderului, deoarece feriboturile pot crea stropi masivi de apă.",
+                "en": "The port is busy even in the rain. Park securely away from the immediate pier edge, as large ferries docking can create massive, sudden splashes."
+              }
+            },
+            {
+              "name": {
+                "de": "Megalos Mourtias",
+                "hu": "Megalos Mourtias",
+                "ro": "Megalos Mourtias",
+                "en": "Megalos Mourtias"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die letzte Strecke langsam. Starkregen spült rutschigen Schlamm und losen Kies auf die Asphaltkurven hinab zum Strand.",
+                "hu": "Lassan vezessen az utolsó szakaszon. A heves eső csúszós sarat és laza kavicsot mos az aszfaltkanyarokba a strand felé.",
+                "ro": "Conduceți încet la final. Ploaia puternică spală noroi alunecos și pietriș liber pe curbele de asfalt care coboară spre plajă.",
+                "en": "Drive slowly on the final approach. Heavy rain washes slippery mud and loose gravel onto the asphalt curves leading down to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikros Mourtias Strand",
+                "hu": "Mikros Mourtias strand",
+                "ro": "Plaja Mikros Mourtias",
+                "en": "Mikros Mourtias Beach"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und hören Sie den Regen. Wenn Sie aussteigen, tragen Sie Gummistiefel, da die unbefestigten Parkplätze schlammig werden.",
+                "hu": "Maradjon az autóban, csak nyissa le résnyire az ablakot. Ha kiszáll, viseljen gumicsizmát, mert a burkolatlan parkolók sártengerré válnak.",
+                "ro": "Stați în mașină și deschideți puțin geamul. Dacă ieșiți, purtați cizme de cauciuc, deoarece locurile de parcare neasfaltate devin noroioase.",
+                "en": "Stay in the car and crack the window to hear the rain. If you step out, wear rubber boots, as the unpaved parking spots turn into thick mud."
+              }
+            },
+            {
+              "name": {
+                "de": "BRUSITSA",
+                "hu": "BRUSITSA",
+                "ro": "BRUSITSA",
+                "en": "BRUSITSA"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher an, um den Nebel zu beobachten. Schalten Sie die Warnblinkanlage ein, da die Sichtweite hier drastisch sinken kann.",
+                "hu": "Húzódjon le biztonságosan, hogy nézze a ködöt. Kapcsolja be az elakadásjelzőt, ha az útpadkán áll meg, mert itt drasztikusan csökken a látótávolság.",
+                "ro": "Trageți pe dreapta în siguranță pentru a privi ceața. Porniți avariile dacă opriți, deoarece vizibilitatea scade drastic aici.",
+                "en": "Pull over safely to watch the mist roll in. Turn on your hazard lights if you stop on the road shoulder, as visibility here drops drastically."
+              }
+            },
+            {
+              "name": {
+                "de": "Yialia",
+                "hu": "Yialia",
+                "ro": "Yialia",
+                "en": "Yialia"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte stürmische Aussichtspunkt. Parken Sie mit Blick auf die Mühle und genießen Sie das wilde Meer aus dem trockenen Auto mit Heizung.",
+                "hu": "A tökéletes viharos kilátópont. Parkoljon a malom felé fordulva, és élvezze a dühös tengert a száraz autóból, miközben megy a páramentesítő.",
+                "ro": "Cel mai bun punct de belvedere pe furtună. Parcați cu fața spre moară și savurați marea furioasă din mașina uscată, cu dezaburirea pornită.",
+                "en": "The ultimate stormy viewpoint. Park facing the windmill and enjoy the furious sea from inside your dry car with the defroster running."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt nach Votsi und Rousoum bietet sonnige Ausblicke aus der warmen Kabine. Mittags bringen Patitiri und Megalos Mourtias winterliche Ruhe auf leere Straßen. Nachmittags fühlen sich Mikros Mourtias und Brusitsa unglaublich friedlich an. Abends um 17:00 Uhr in Yialia; genießen Sie den frühen Sonnenuntergang im beheizten Auto.",
+            "hu": "A reggeli vezetés Votsi és Rousoum felé friss, napfényes kilátást kínál a meleg utastérből. Délben Patitiri és Megalos Mourtias téli nyugalmat hoz az üres utakra. Délután Mikros Mourtias és Brusitsa felfedezése hihetetlenül békés. Yialiában már 17:00-kor leszáll az est; élvezze a korai naplementét a fűtött autóból.",
+            "ro": "Condusul matinal spre Votsi și Rousoum oferă priveliști senine din cabina caldă. Prânzul la Patitiri și Mourtias aduce liniștea iernii pe drumurile goale. După-amiaza spre Mikros Mourtias și Brusitsa este incredibil de senină. Seara vine la 17:00 la Yialia; bucurați-vă de apusul timpuriu din confortul mașinii încălzite.",
+            "en": "Morning driving to Votsi and Rousoum offers crisp, sunlit views from a warm cabin. Midday at Patitiri and Megalos Mourtias brings beautiful winter quietness to the empty roads. Afternoon exploring Mikros Mourtias and Brusitsa feels incredibly serene. Evening falls sharply by 17:00 at Yialia; enjoy the early, vibrant sunset from the comfort of your heated car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Paraglia Votsi",
+                "hu": "Paraglia Votsi",
+                "ro": "Paraglia Votsi",
+                "en": "Paraglia Votsi"
+              },
+              "tip_5lang": {
+                "de": "Öffnen Sie die Fenster für die kühle Winterluft. Auf dem Asphalt in schattigen Bereichen kann Morgenfrost liegen, fahren Sie die Kurve sanft.",
+                "hu": "Tekerje le az ablakokat a friss téli fenyőillatért. Az árnyékos részeken reggeli dér lehet az aszfalton, ezért finoman vegye a lejtős kanyart.",
+                "ro": "Deschideți geamurile pentru aerul rece de pin. Asfaltul poate avea brumă matinală în zonele umbrite, abordați curba în coborâre ușor.",
+                "en": "Roll down the windows to breathe the crisp winter pine air. The asphalt might have morning frost in shaded areas, so take the downhill curve gently."
+              }
+            },
+            {
+              "name": {
+                "de": "Rousoum Gualos",
+                "hu": "Rousoum Gualos",
+                "ro": "Rousoum Gualos",
+                "en": "Rousoum Gualos"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für einen Spaziergang am leeren Winterstrand. Packen Sie einen Schal ein, da die Bucht oft kalte Meeresböen kanalisiert.",
+                "hu": "Álljon meg egy sétára az üres téli strandon. Csomagoljon be vastag sálat, mert az öböl gyakran szélcsatornaként vezeti a hideg tengeri fuvallatokat.",
+                "ro": "Opriți pentru o plimbare pe plaja goală de iarnă. Luați un fular gros, deoarece golful acționează ca o pâlnie pentru rafalele reci de pe mare.",
+                "en": "Stop for a quiet walk on the empty winter beach. Pack a thick scarf, as the bay acts like a wind funnel channeling cold gusts off the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Patitiri Stadtstrand",
+                "hu": "Patitiri városi strand",
+                "ro": "Plaja orașului Patitiri",
+                "en": "Patitiri town beach"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich einen heißen Kaffee in einer ganzjährigen Bäckerei. Das Parken ist im Winter wunderbar einfach, direkt am Wasser.",
+                "hu": "Vegyen egy forró kávét egy egész évben nyitva tartó pékségben. A parkolás télen áldásosan egyszerű, közvetlenül a víz mellett állhat meg.",
+                "ro": "Luați o cafea caldă de la o brutărie deschisă tot anul. Parcarea este incredibil de ușoară iarna, putând opri chiar lângă apă.",
+                "en": "Grab a hot coffee from a year-round bakery before exploring. Parking is blissfully easy in winter, letting you stop right next to the beautiful water."
+              }
+            },
+            {
+              "name": {
+                "de": "Megalos Mourtias",
+                "hu": "Megalos Mourtias",
+                "ro": "Megalos Mourtias",
+                "en": "Megalos Mourtias"
+              },
+              "tip_5lang": {
+                "de": "Das dramatische Winterlicht macht den Strand sehr fotogen. Bewahren Sie eine Decke im Kofferraum auf, wenn Sie die friedlichen Wellen beobachten.",
+                "hu": "A drámai téli fények nagyon fotogénné teszik a strandot. Tartson egy meleg takarót a csomagtartóban, ha le akar ülni nézni a békés hullámokat.",
+                "ro": "Lumina dramatică de iarnă face plaja foarte fotogenică. Țineți o pătură caldă în portbagaj dacă plănuiți să priviți valurile pașnice.",
+                "en": "The dramatic winter lighting makes this beach highly photogenic. Keep a warm blanket in the trunk if you plan to sit and watch the peaceful waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikros Mourtias Strand",
+                "hu": "Mikros Mourtias strand",
+                "ro": "Plaja Mikros Mourtias",
+                "en": "Mikros Mourtias Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein völlig isolierter, friedlicher Winterstopp. Achten Sie auf tiefe, schlammige Schlaglöcher auf dem unbefestigten Parkplatz durch Winterregen.",
+                "hu": "Teljesen elszigetelt, békés téli megálló. Ügyeljen a földes parkolóban a legutóbbi téli esőzések okozta mély, sáros kátyúkra.",
+                "ro": "O oprire de iarnă complet izolată și senină. Atenție la gropile adânci și noroioase de la parcarea neasfaltată, cauzate de ploile de iarnă.",
+                "en": "A completely isolated and serene winter stop. Watch out for deep muddy potholes on the final dirt parking approach caused by recent winter rains."
+              }
+            },
+            {
+              "name": {
+                "de": "BRUSITSA",
+                "hu": "BRUSITSA",
+                "ro": "BRUSITSA",
+                "en": "BRUSITSA"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort nachmittags für unglaubliche winterliche Klarheit. Der Windchill ist hier heftig, steigen Sie nur mit dickem Mantel aus.",
+                "hu": "Látogasson el ide délután a lenyűgöző téli tisztaságért. A szélhőmérséklet itt rendkívül alacsony, ezért csak vastag kabátban szálljon ki.",
+                "ro": "Vizitați după-amiaza pentru o claritate uimitoare. Vântul este feroce la această altitudine, coborâți doar cu o haină foarte groasă.",
+                "en": "Best visited in the afternoon for stunning winter clarity. Wind chills at this elevated point are fierce, so only step out with a heavy coat."
+              }
+            },
+            {
+              "name": {
+                "de": "Yialia",
+                "hu": "Yialia",
+                "ro": "Yialia",
+                "en": "Yialia"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang hinter der Mühle. Stellen Sie sicher, dass Ihre Autobatterie gut ist, da die Heizung lange laufen wird.",
+                "hu": "Kapja el a korai naplementét a szélmalom mögött. Győződjön meg róla, hogy az akkumulátor jó, mert a fűtés valószínűleg sokáig fog menni.",
+                "ro": "Prindeți apusul timpuriu în spatele morii. Asigurați-vă că bateria mașinii este bună, deoarece veți lăsa probabil căldura pornită ceva timp.",
+                "en": "Catch the breathtaking early sunset behind the old windmill. Make sure your car battery is healthy, as you will likely leave the heater on for a while."
+              }
+            }
+          ]
+        }
       }
     }
   }

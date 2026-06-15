@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot az észak-walesi partok hagyományos varázsának megismerésével. Fedezze fel a klasszikus építészetet és a gyönyörűen gondozott kerteket, mielőtt a nyüzsgő szórakozóhelyek felé venné az irányt. A reggeli levegő az Ír-tenger friss illatát hozza, ahogy a város felébred.\n\nAhogy közeledik a dél, merüljön el a családi tengerparti szórakozás szívében. Próbálja ki a retro játéktermi játékokat, hallgassa az érmék csilingelését, és adja át magát a nyaralók vidám zajának. A központi sétány tele van energiával, így csodálatos nosztalgiautazást kínál.\n\nTöltse a délutánt az izgalmas rekreációs élmények felfedezésével. Akár a modern vízicsúszdákon csobban, akár az ikonikus torony felé tekint, a napnak ez a része az aktív kikapcsolódásról és a lenyűgöző tengerparti kilátásról szól minden korosztály számára.\n\nAhogy közeledik az este, találjon nyugalmat a széles, homokos strandok mentén vagy a történelmi tengeri tó partján. A lemenő nap aranyló fényt vet a vízre, békés befejezést nyújtva egy vibráló napnak, amelyet a hullámok lágy, megnyugtató hangja kísér.",
         "ro": "Începeți-vă ziua îmbrățișând farmecul tradițional al coastei nord-galeze. Explorați arhitectura clasică și grădinile frumos îngrijite înainte de a vă îndrepta spre zonele pline de divertisment. Aerul dimineții aduce parfumul proaspăt al Mării Irlandeze în timp ce orașul se trezește.\n\nPe măsură ce se apropie prânzul, intrați în inima distracției de familie la malul mării. Jucați-vă pe aparatele arcade retro, auziți clinchetul monedelor și bucurați-vă de zgomotul vesel al turiștilor. Strada centrală debordează de energie, oferind o încântătoare călătorie nostalgică.\n\nPetreceți-vă după-amiaza cufundându-vă în senzații tari recreative de amploare. Fie că vă stropiți pe toboganele moderne cu apă sau priviți în sus la turnul emblematic, această parte a zilei este despre bucurie activă și priveliști uluitoare asupra coastei.\n\nOdată cu lăsarea serii, găsiți liniștea de-a lungul plajelor largi de nisip sau lângă lacul marin istoric. Soarele la apus aruncă o strălucire aurie peste apă, oferind o concluzie pașnică a unei zile vibrante, însoțită de sunetul blând al valurilor de coastă.",
         "en": "Begin your day embracing the traditional charm of the North Wales coast. Explore classic civic architecture and beautifully curated gardens before heading toward the lively entertainment spots. The morning air brings the crisp scent of the Irish Sea as the town wakes up.\n\nAs midday approaches, transition into the heart of family seaside fun. Engage with retro arcade games, hear the clinking of coins, and embrace the cheerful noise of holidaymakers. The central strip bursts with energy, offering a delightful nostalgia trip.\n\nSpend the afternoon immersing yourself in large-scale recreational thrills. Whether splashing down modern water flumes or looking up at the iconic sky tower, this part of the day is all about active enjoyment and breathtaking views over the sweeping coastline.\n\nAs evening sets in, find tranquility along the wide sandy beaches or by the historic marine lake. The setting sun casts a golden glow over the water, providing a peaceful conclusion to a vibrant day, accompanied by the gentle sound of rolling waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Rhyl beginnt im Schutz des Rathauses, gefolgt von den hellen Lichtern der überdachten Spielhallen. Mittags bietet der SC2-Wasserpark das perfekte tropische Refugium vor dem nasskalten Wetter. Am Nachmittag trotzen wir dem Wind am Sky Tower und beenden den Tag mit einem Blick auf die dramatisch graue Irische See, während die Pfützen die Neonlichter reflektieren.",
+            "hu": "Az esős Rhylben a Városháza környékén kezdünk, majd a fedett játéktermek villogó fényei között lelünk menedéket. Délben az SC2 vízipark trópusi klímája feledteti a kinti zivatart. Délután a Sky Tower mellett sétálunk, figyelve a csúszós járdákra, végül a tengerparti szürkületben gyönyörködünk, ahol az eső áztatta homok különleges látványt nyújt a sötétedő égbolt alatt.",
+            "ro": "O zi ploioasă în Rhyl începe sub protecția primăriei, urmată de luminile strălucitoare ale saloanelor de jocuri acoperite. La prânz, parcul acvatic SC2 oferă refugiul tropical perfect împotriva vremii umede. După-amiaza înfruntăm vântul la Sky Tower și încheiem ziua cu o privire asupra Mării Irlandei, în timp ce bălțile reflectă luminile neon ale falezei.",
+            "en": "A rainy day in Rhyl starts under the shelter of the Town Hall, followed by the bright lights of covered amusement arcades. At noon, the SC2 waterpark provides the perfect tropical refuge from the wet weather. In the afternoon, we brave the wind by the Sky Tower and end the day viewing the dramatic grey Irish Sea, as puddles on the promenade reflect the town's evening neon lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rhyl Town Hall",
+                "hu": "Rhyl Town Hall",
+                "ro": "Rhyl Town Hall",
+                "en": "Rhyl Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die viktorianische Fassade von den überdachten Eingängen aus; das massive Gebäude bietet guten Schutz vor den ersten Regentropfen.",
+                "hu": "Csodálja meg a viktoriánus homlokzatot a fedett bejáratok alól; a masszív épület remek védelmet nyújt az első esőcseppek elől.",
+                "ro": "Admirați fațada victoriană de la intrările acoperite; clădirea masivă oferă o protecție bună împotriva primilor stropi de ploaie.",
+                "en": "Admire the Victorian facade from the covered entrances; the massive building provides good initial shelter from the coastal drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Webbers Amusements",
+                "hu": "Webbers Amusements",
+                "ro": "Webbers Amusements",
+                "en": "Webbers Amusements"
+              },
+              "tip_5lang": {
+                "de": "Diese Spielhalle ist der perfekte Ort, um dem Regen zu entkommen; genießen Sie die klassischen Automaten in einer trockenen, lebhaften Atmosphäre.",
+                "hu": "Ez a játékterem tökéletes hely az eső elöli menekülésre; élvezze a klasszikus automatákat száraz és életteli környezetben.",
+                "ro": "Această sală de jocuri este locul perfect pentru a scăpa de ploaie; bucurați-vă de aparatele clasice într-o atmosferă uscată și plină de viață.",
+                "en": "This arcade is the perfect place to escape the downpour; enjoy the classic machines in a dry, vibrant indoor atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Harkers Amusements",
+                "hu": "Les Harkers Amusements",
+                "ro": "Les Harkers Amusements",
+                "en": "Les Harkers Amusements"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Übergang zwischen den Hallen, um trocken zu bleiben; die Neonlichter wirken bei grauem Regenwetter besonders einladend.",
+                "hu": "Használja ki a termek közötti átjárókat a szárazon maradáshoz; a neonfények különösen hívogatóak a szürke esős időben.",
+                "ro": "Folosiți trecerile dintre săli pentru a rămâne uscat; luminile neon sunt deosebit de primitoare pe vreme ploioasă și gri.",
+                "en": "Utilize the transitions between halls to stay dry; the neon lights look particularly inviting against the grey, rainy backdrop."
+              }
+            },
+            {
+              "name": {
+                "de": "SC2 Waterpark",
+                "hu": "SC2 Waterpark",
+                "ro": "SC2 Waterpark",
+                "en": "SC2 Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Das ultimative Regenziel mit Innenrutschen; bringen Sie rutschfeste Badeschuhe mit, da die Böden im Umkleidebereich nass sein können.",
+                "hu": "A végső esőnapi úti cél beltéri csúszdákkal; hozzon csúszásmentes papucsot, mivel az öltözők környéke ilyenkor vizenyősebb.",
+                "ro": "Destinația supremă pentru zile ploioase, cu tobogane interioare; aduceți papuci antiderapanți, deoarece podelele pot fi umede.",
+                "en": "The ultimate rainy day destination with indoor slides; bring non-slip flip-flops as the changing areas get extra busy when it pours."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sky Tower",
+                "hu": "Rhyl Sky Tower",
+                "ro": "Rhyl Sky Tower",
+                "en": "Rhyl Sky Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den Turm als markanten Orientierungspunkt im Nebel; halten Sie Ihren Regenschirm bei den starken Küstenwinden gut fest.",
+                "hu": "Tekintsen a toronyra mint ködös tájékozódási pontra; tartsa erősen az esernyőjét az erős tengerparti széllökések miatt.",
+                "ro": "Priviți turnul ca pe un punct de reper în ceață; țineți bine umbrela din cauza vântului puternic de pe coastă.",
+                "en": "View the tower as a striking landmark in the mist; hold your umbrella firmly against the strong coastal wind gusts here."
+              }
+            },
+            {
+              "name": {
+                "de": "Drift Park",
+                "hu": "Drift Park",
+                "ro": "Drift Park",
+                "en": "Drift Park"
+              },
+              "tip_5lang": {
+                "de": "Die Skulpturen wirken im Regen fast mystisch; tragen Sie wasserfeste Schuhe, um die Pfützen auf den Gartenwegen zu umgehen.",
+                "hu": "A szobrok szinte misztikusan festenek az esőben; viseljen vízálló cipőt a kerti ösvényeken felgyülemlő tócsák miatt.",
+                "ro": "Sculpturile arată aproape mistic în ploaie; purtați încălțăminte impermeabilă pentru a evita bălțile de pe aleile parcului.",
+                "en": "The sculptures look almost mystical in the rain; wear waterproof shoes to navigate the puddles on the garden pathways safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sands",
+                "hu": "Rhyl Sands",
+                "ro": "Rhyl Sands",
+                "en": "Rhyl Sands"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Spaziergang im Regenmantel zeigt die wilde Seite der Küste; achten Sie auf den rutschigen nassen Sand.",
+                "hu": "Egy rövid, frissítő séta esőkabátban megmutatja a part vad oldalát; vigyázzon a vizes homok csúszós és süppedős részeivel.",
+                "ro": "O scurtă plimbare revigorantă în pelerină arată latura sălbatică a coastei; atenție la nisipul umed care poate fi alunecos.",
+                "en": "A short, bracing walk in a raincoat shows the coast's wild side; watch out for slippery patches of wet sand near the tide line."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintermorgen in Rhyl ist frostig und klar, ideal für einen Besuch im Rathaus. Mittags wärmen wir uns in den Spielhallen auf, während draußen der kalte Wind weht. Der Nachmittag gehört dem SC2-Wasserpark, einem warmen Rückzugsort vor der frühen Dunkelheit. Gegen 17:00 Uhr sinkt die Sonne, und die frostige Promenade glänzt im Mondlicht über der ruhigen, winterlichen See.",
+            "hu": "A téli reggel Rhylben friss és fagyos, tökéletes egy rövid látogatásra a Városházánál. Délben a játéktermek belső melege nyújt menedéket a metsző tengeri szél elől. Délután az SC2 trópusi hősége az igazi kincs a korai sötétedés előtt. 17:00 körül a nap már eltűnik, és a jeges sétány csillogása mellett búcsúzunk a csendes, téli hullámoktól.",
+            "ro": "O dimineață de iarnă în Rhyl este geroasă și senină, ideală pentru o vizită la primărie. La prânz ne încălzim în sălile de jocuri, în timp ce afară suflă vântul rece. După-amiaza aparține parcului acvatic SC2, un refugiu cald înainte de lăsarea serii. În jurul orei 17:00, soarele apune, iar faleza înghețată strălucește sub lumina lunii peste marea liniștită.",
+            "en": "A winter morning in Rhyl is frosty and crisp, ideal for a brisk visit to the Town Hall. At noon, we warm up inside the amusements while the cold wind bites outside. The afternoon belongs to SC2 waterpark, a warm retreat before the early sunset. By 17:00, the sun dips below the horizon, and the frosty promenade gleams under the streetlights by the calm winter sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rhyl Town Hall",
+                "hu": "Rhyl Town Hall",
+                "ro": "Rhyl Town Hall",
+                "en": "Rhyl Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Innere, um sich aufzuwärmen; die historische Architektur wirkt im Winterlicht besonders imposant und scharf gezeichnet.",
+                "hu": "Menjen be az épületbe, hogy felmelegedjen; a történelmi építészet különösen impozáns a tiszta téli fényben.",
+                "ro": "Vizitați interiorul pentru a vă încălzi; arhitectura istorică pare deosebit de impunătoare în lumina clară de iarnă.",
+                "en": "Step inside to warm up briefly; the historical architecture looks particularly imposing and sharp in the crisp winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Webbers Amusements",
+                "hu": "Webbers Amusements",
+                "ro": "Webbers Amusements",
+                "en": "Webbers Amusements"
+              },
+              "tip_5lang": {
+                "de": "Die Wärme der Automaten und die lebhafte Musik lassen die Winterkälte draußen schnell vergessen; ideal für eine Pause zwischendurch.",
+                "hu": "A gépek melege és a vidám zene gyorsan feledteti a kinti téli hideget; ideális egy rövid pihenőre a séták között.",
+                "ro": "Căldura aparatelor și muzica veselă vă fac să uitați rapid de frigul de afară; ideal pentru o pauză între plimbări.",
+                "en": "The heat from the machines and the lively music will make you forget the winter chill; ideal for a mid-morning warming break."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Harkers Amusements",
+                "hu": "Les Harkers Amusements",
+                "ro": "Les Harkers Amusements",
+                "en": "Les Harkers Amusements"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Kontrast zwischen der bunten Innenwelt und dem grauen Meer; Schals und Handschuhe sind beim Verlassen wieder Pflicht.",
+                "hu": "Élvezze a kontrasztot a színes belső világ és a szürke tenger között; kilépéskor a sál és kesztyű ismét kötelező.",
+                "ro": "Bucurați-vă de contrastul dintre lumea colorată din interior și marea gri; fularul și mănușile sunt obligatorii la ieșire.",
+                "en": "Enjoy the contrast between the colorful indoor world and the grey sea; keep your scarf and gloves ready for when you step back out."
+              }
+            },
+            {
+              "name": {
+                "de": "SC2 Waterpark",
+                "hu": "SC2 Waterpark",
+                "ro": "SC2 Waterpark",
+                "en": "SC2 Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Der wärmste Ort der Stadt im Winter; nutzen Sie die heißen Duschen ausgiebig, bevor Sie wieder in die kalte Meeresluft hinausgehen.",
+                "hu": "A város legmelegebb pontja télen; használja ki a forró zuhanyokat, mielőtt újra kilépne a csípős tengeri levegőre.",
+                "ro": "Cel mai cald loc din oraș iarna; profitați de dușurile fierbinți înainte de a ieși din nou în aerul rece al mării.",
+                "en": "The warmest spot in town during winter; enjoy the heated indoor climate and hot showers before facing the biting sea air again."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sky Tower",
+                "hu": "Rhyl Sky Tower",
+                "ro": "Rhyl Sky Tower",
+                "en": "Rhyl Sky Tower"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wird früh beleuchtet; ein tolles Fotomotiv gegen den dunklen Winterhimmel, aber achten Sie auf gefrorene Stellen am Boden.",
+                "hu": "A tornyot korán kivilágítják; remek fotótéma a sötét téli égbolt előtt, de vigyázzon a lefagyott járdaszakaszokra.",
+                "ro": "Turnul este iluminat devreme; un subiect foto grozav pe cerul întunecat de iarnă, dar atenție la porțiunile de gheață de pe jos.",
+                "en": "The tower is illuminated early in winter; it makes for a great photo against the dark sky, but watch for icy patches at its base."
+              }
+            },
+            {
+              "name": {
+                "de": "Drift Park",
+                "hu": "Drift Park",
+                "ro": "Drift Park",
+                "en": "Drift Park"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Bepflanzung hat ihren eigenen Charme; gehen Sie zügig, um warm zu bleiben, und genießen Sie die klare, kalte Luft.",
+                "hu": "A téli növényzetnek megvan a maga bája; sétáljon tempósan, hogy ne fázzon, és élvezze a friss, tiszta téli levegőt.",
+                "ro": "Vegetația de iarnă are propriul farmec; mergeți vioi pentru a vă menține căldura și bucurați-vă de aerul curat și rece.",
+                "en": "The winter planting has its own unique charm; walk briskly to keep warm and enjoy the exceptionally clear coastal air."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sands",
+                "hu": "Rhyl Sands",
+                "ro": "Rhyl Sands",
+                "en": "Rhyl Sands"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang um 17:00 Uhr ist magisch; tragen Sie dicke Thermokleidung, da der Wind am Abend extrem abkühlen kann.",
+                "hu": "A naplemente 17:00 körül varázslatos; viseljen vastag hőtartó ruházatot, mert a szél este drasztikusan lehűti a levegőt.",
+                "ro": "Apusul în jur de ora 17:00 este magic; purtați haine termice groase, deoarece vântul poate răci aerul extrem de mult seara.",
+                "en": "Sunset around 17:00 is magical here; wear heavy thermal layers as the wind chill on the open sand increases sharply after dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kezdje a napot az észak-walesi partok hagyományos varázsának megismerésével. Fedezze fel a klasszikus építészetet és a gyönyörűen gondozott kerteket, mielőtt a nyüzsgő szórakozóhelyek felé venné az irányt. A reggeli levegő az Ír-tenger friss illatát hozza, ahogy a város felébred.\n\nAhogy közeledik a dél, merüljön el a családi tengerparti szórakozás szívében. Próbálja ki a retro játéktermi játékokat, hallgassa az érmék csilingelését, és adja át magát a nyaralók vidám zajának. A központi sétány tele van energiával, így csodálatos nosztalgiautazást kínál.\n\nTöltse a délutánt az izgalmas rekreációs élmények felfedezésével. Akár a modern vízicsúszdákon csobban, akár az ikonikus torony felé tekint, a napnak ez a része az aktív kikapcsolódásról és a lenyűgöző tengerparti kilátásról szól minden korosztály számára.\n\nAhogy közeledik az este, találjon nyugalmat a széles, homokos strandok mentén vagy a történelmi tengeri tó partján. A lemenő nap aranyló fényt vet a vízre, békés befejezést nyújtva egy vibráló napnak, amelyet a hullámok lágy, megnyugtató hangja kísér.",
         "ro": "Începeți-vă ziua îmbrățișând farmecul tradițional al coastei nord-galeze. Explorați arhitectura clasică și grădinile frumos îngrijite înainte de a vă îndrepta spre zonele pline de divertisment. Aerul dimineții aduce parfumul proaspăt al Mării Irlandeze în timp ce orașul se trezește.\n\nPe măsură ce se apropie prânzul, intrați în inima distracției de familie la malul mării. Jucați-vă pe aparatele arcade retro, auziți clinchetul monedelor și bucurați-vă de zgomotul vesel al turiștilor. Strada centrală debordează de energie, oferind o încântătoare călătorie nostalgică.\n\nPetreceți-vă după-amiaza cufundându-vă în senzații tari recreative de amploare. Fie că vă stropiți pe toboganele moderne cu apă sau priviți în sus la turnul emblematic, această parte a zilei este despre bucurie activă și priveliști uluitoare asupra coastei.\n\nOdată cu lăsarea serii, găsiți liniștea de-a lungul plajelor largi de nisip sau lângă lacul marin istoric. Soarele la apus aruncă o strălucire aurie peste apă, oferind o concluzie pașnică a unei zile vibrante, însoțită de sunetul blând al valurilor de coastă.",
         "en": "Begin your day embracing the traditional charm of the North Wales coast. Explore classic civic architecture and beautifully curated gardens before heading toward the lively entertainment spots. The morning air brings the crisp scent of the Irish Sea as the town wakes up.\n\nAs midday approaches, transition into the heart of family seaside fun. Engage with retro arcade games, hear the clinking of coins, and embrace the cheerful noise of holidaymakers. The central strip bursts with energy, offering a delightful nostalgia trip.\n\nSpend the afternoon immersing yourself in large-scale recreational thrills. Whether splashing down modern water flumes or looking up at the iconic sky tower, this part of the day is all about active enjoyment and breathtaking views over the sweeping coastline.\n\nAs evening sets in, find tranquility along the wide sandy beaches or by the historic marine lake. The setting sun casts a golden glow over the water, providing a peaceful conclusion to a vibrant day, accompanied by the gentle sound of rolling waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour durch Rhyl beginnt in den Botanischen Gärten, wo Bäume etwas Schutz bieten. Mittags erreichen wir das Theater über die glatten Promenadenwege. Der Nachmittag wird im SC2-Wasserpark verbracht, um die nasse Kleidung gegen warmes Wasser zu tauschen. Trotz Regen ist die Fahrt am Marine Lake am Abend stimmungsvoll, wenn die Lichter auf der Wasseroberfläche tanzen.",
+            "hu": "A vizes biciklitúra a Botanikus Kertben indul, ahol a fák némi védelmet nyújtanak. Délben a színházhoz érünk a csúszós parti utakon. A délutánt az SC2-ben töltjük, lecserélve a vizes ruhát a medencék melegére. Az eső ellenére a Marine Lake körüli tekerés este hangulatos, ahogy a fények táncolnak a tó fodrozódó felszínén.",
+            "ro": "O plimbare umedă cu bicicleta prin Rhyl începe în Grădina Botanică, unde copacii oferă puțină protecție. La prânz ajungem la teatru pe pistele alunecoase de pe faleză. După-amiaza este petrecută la SC2, schimbând hainele ude cu apa caldă. În ciuda ploii, tura de seară la Marine Lake este atmosferică, cu luminile reflectate în apă.",
+            "en": "A wet bike ride through Rhyl starts in the Botanical Gardens, where trees offer some shelter. By noon, we reach the theatre via the slippery promenade paths. The afternoon is spent at SC2 waterpark, swapping wet gear for warm water. Despite the rain, the evening ride around Marine Lake is atmospheric, with lights dancing on the rippling water's surface."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rhyl Botanical Gardens",
+                "hu": "Rhyl Botanical Gardens",
+                "ro": "Rhyl Botanical Gardens",
+                "en": "Rhyl Botanical Gardens"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter den großen Bäumen Schutz; achten Sie beim Radfahren auf nasses Laub auf den Wegen, das sehr rutschig sein kann.",
+                "hu": "Keressen menedéket a nagy fák alatt; biciklizés közben ügyeljen a vizes levelekre az utakon, mert rendkívül csúszósak lehetnek.",
+                "ro": "Căutați adăpost sub copacii mari; atenție la frunzele ude de pe poteci în timp ce pedalați, deoarece pot fi foarte alunecoase.",
+                "en": "Seek shelter under the large trees; watch out for wet leaves on the paths while cycling, as they can be extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Pavilion Theatre",
+                "hu": "Rhyl Pavilion Theatre",
+                "ro": "Rhyl Pavilion Theatre",
+                "en": "Rhyl Pavilion Theatre"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder; das Café im Inneren ist ein idealer Ort zum Trocknen.",
+                "hu": "Használja a fedett bejárati részt a biciklik leállításához; a belső kávézó ideális hely a ruhák megszárítására.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicletele; cafeneaua din interior este un loc ideal pentru a vă usca.",
+                "en": "Use the covered entrance area to park your bikes; the cafe inside is an ideal spot to dry off and grab a hot drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Promenade",
+                "hu": "Rhyl Promenade",
+                "ro": "Rhyl Promenade",
+                "en": "Rhyl Promenade"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da der Asphalt bei Regen rutschig wird; genießen Sie den weiten Blick auf die aufgewühlte See.",
+                "hu": "Tekerjen óvatosan, mivel az aszfalt esőben csúszóssá válik; élvezze a tágas kilátást a felkavart tengerre.",
+                "ro": "Pedalați cu atenție, deoarece asfaltul devine alunecos la ploaie; bucurați-vă de vederea largă asupra mării agitate.",
+                "en": "Cycle with caution as the asphalt becomes slick in the rain; enjoy the expansive views of the turbulent Irish Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sands",
+                "hu": "Rhyl Sands",
+                "ro": "Rhyl Sands",
+                "en": "Rhyl Sands"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier Regen peitschen; halten Sie die Fahrt kurz und achten Sie auf Sand, der die Bremsleistung beeinträchtigen kann.",
+                "hu": "A szél itt korbácsolhatja az esőt; tartsa röviden a megállót, és ügyeljen a homokra, amely rontja a fékek hatékonyságát.",
+                "ro": "Vântul poate biciui ploaia aici; păstrați oprirea scurtă și atenție la nisipul care poate afecta eficiența frânelor.",
+                "en": "The wind can whip the rain here; keep the stop brief and be aware of sand grit, which can reduce your braking efficiency."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sky Tower",
+                "hu": "Rhyl Sky Tower",
+                "ro": "Rhyl Sky Tower",
+                "en": "Rhyl Sky Tower"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Treffpunkt bei schlechter Sicht; parken Sie unter dem Vordach nahegelegener Gebäude, um die Sättel trocken zu halten.",
+                "hu": "Jó találkozási pont rossz látási viszonyoknál; parkoljon a közeli épületek előteteje alá, hogy a nyereg száraz maradjon.",
+                "ro": "Un punct bun de întâlnire în condiții de vizibilitate redusă; parcați sub streșini pentru a menține șaua uscată.",
+                "en": "A good landmark in poor visibility; try to park under nearby building overhangs to keep your bike seat dry."
+              }
+            },
+            {
+              "name": {
+                "de": "SC2 Waterpark",
+                "hu": "SC2 Waterpark",
+                "ro": "SC2 Waterpark",
+                "en": "SC2 Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine lange Pause vom Regen; schließen Sie die Räder an den vorgesehenen Bügeln gut ab und genießen Sie das warme Wasser.",
+                "hu": "Tökéletes egy hosszú szünetre az eső elől; zárja le a bicikliket a kijelölt tárolóknál, és élvezze a benti meleget.",
+                "ro": "Perfect pentru o pauză lungă de ploaie; încuiați bicicletele la rastelele desemnate și bucurați-vă de apa caldă.",
+                "en": "Perfect for a long break from the rain; lock your bikes securely at the designated racks and enjoy the indoor warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Marine Lake",
+                "hu": "Rhyl Marine Lake",
+                "ro": "Rhyl Marine Lake",
+                "en": "Rhyl Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Der Rundweg ist bei Regen oft menschenleer; nutzen Sie Schutzbleche, um sich vor Spritzwasser auf den unbefestigten Abschnitten zu schützen.",
+                "hu": "A körút esőben gyakran néptelen; használjon sárvédőt a sárosabb szakaszokon felverődő víz ellen.",
+                "ro": "Traseul circular este adesea pustiu pe ploaie; folosiți apărători pentru a vă proteja de stropii de pe porțiunile neasfaltate.",
+                "en": "The loop trail is often deserted in the rain; use mudguards to protect yourself from spray on the unpaved sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen lädt zu einer frostigen Fahrt durch die Botanischen Gärten ein. Mittags bietet das Pavilion Theatre eine kulturelle Aufwärmpause. Nachmittags radeln wir schnell über die Promenade, um vor dem Sonnenuntergang um 17:00 Uhr das SC2 zu erreichen. Der Tag endet am Marine Lake, wo die Räder auf dem gefrorenen Boden knirschen und die Wintervögel in der Dämmerung rufen.",
+            "hu": "A téli reggel fagyos tekerésre hív a Botanikus Kertben. Délben a Pavilion Színház nyújt kulturális pihenőt a hideg elől. Délután tempósan haladunk a sétányon, hogy a 17:00-s naplemente előtt beérjünk az SC2 melegébe. A nap a Marine Lake-nél zárul, ahol a kerekek ropognak a fagyott talajon a szürkületi madárfüttyben.",
+            "ro": "Dimineața de iarnă invită la o plimbare geroasă prin Grădina Botanică. La prânz, Teatrul Pavilion oferă o pauză culturală de încălzire. După-amiaza pedalăm rapid pe faleză pentru a ajunge la SC2 înainte de apusul de la ora 17:00. Ziua se încheie la Marine Lake, unde roțile scârțâie pe solul înghețat în amurg.",
+            "en": "The winter morning invites a frosty ride through the Botanical Gardens. At noon, the Pavilion Theatre offers a cultural warming break. In the afternoon, we cycle briskly along the promenade to reach SC2 before the 17:00 sunset. The day ends at Marine Lake, where tires crunch on the frozen ground and winter birds call in the deepening twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rhyl Botanical Gardens",
+                "hu": "Rhyl Botanical Gardens",
+                "ro": "Rhyl Botanical Gardens",
+                "en": "Rhyl Botanical Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Wege sind wunderschön, aber Vorsicht in schattigen Kurven; tragen Sie warme Handschuhe für einen festen Griff am Lenker.",
+                "hu": "A fagyos utak gyönyörűek, de vigyázzon az árnyékos kanyarokban; viseljen meleg kesztyűt a kormány biztos fogásához.",
+                "ro": "Potecile înghețate sunt superbe, dar atenție la curbele umbrite; purtați mănuși groase pentru o priză bună pe ghidon.",
+                "en": "The frosty paths are beautiful but watch out for ice in shaded corners; wear thermal gloves for a steady grip on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Pavilion Theatre",
+                "hu": "Rhyl Pavilion Theatre",
+                "ro": "Rhyl Pavilion Theatre",
+                "en": "Rhyl Pavilion Theatre"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine warme Pause; prüfen Sie den Veranstaltungskalender für weihnachtliche Aufführungen oder Winter-Pantos.",
+                "hu": "Ideális hely egy meleg pihenőre; ellenőrizze a műsort karácsonyi előadásokért vagy téli családi darabokért.",
+                "ro": "Un loc ideal pentru o pauză caldă; verificați programul pentru spectacole de Crăciun sau piese de teatru de iarnă.",
+                "en": "An ideal spot for a warm break; check the schedule for festive Christmas performances or traditional winter pantos."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Promenade",
+                "hu": "Rhyl Promenade",
+                "ro": "Rhyl Promenade",
+                "en": "Rhyl Promenade"
+              },
+              "tip_5lang": {
+                "de": "Der Seewind ist im Winter schneidend kalt; tragen Sie einen Buff oder Schal über dem Gesicht, um die kalte Luft zu filtern.",
+                "hu": "A tengeri szél télen metszően hideg; viseljen csősálat az arca előtt, hogy megszűrje a jéghideg levegőt tekerés közben.",
+                "ro": "Vântul mării este tăios iarna; purtați un fular peste față pentru a filtra aerul rece în timp ce pedalați.",
+                "en": "The sea breeze is cuttingly cold in winter; wear a face buff or neck warmer to protect your skin from the freezing wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sands",
+                "hu": "Rhyl Sands",
+                "ro": "Rhyl Sands",
+                "en": "Rhyl Sands"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt im Winterlicht weit und leer; vermeiden Sie die Fahrt direkt im nassen Sand, da dieser bei Frost sehr hart wird.",
+                "hu": "A strand téli fényben tágasnak és üresnek tűnik; kerülje a közvetlen tekerést a vizes homokban, mert fagyban nagyon felkeményedik.",
+                "ro": "Plaja pare vastă și goală în lumina iernii; evitați să pedalați direct pe nisipul umed, deoarece devine foarte tare la îngheț.",
+                "en": "The beach looks vast and empty in winter light; avoid cycling directly on wet sand as it can freeze into hard, jarring ridges."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sky Tower",
+                "hu": "Rhyl Sky Tower",
+                "ro": "Rhyl Sky Tower",
+                "en": "Rhyl Sky Tower"
+              },
+              "tip_5lang": {
+                "de": "Bei klarer Winterluft ist die Sicht vom Fuß des Turms hervorragend; nutzen Sie die frühe Dämmerung für Langzeitbelichtungen.",
+                "hu": "A tiszta téli levegőben kiváló a kilátás a torony tövétől; használja ki a korai szürkületet a kivilágított torony fotózásához.",
+                "ro": "În aerul clar de iarnă, vizibilitatea de la baza turnului este excelentă; profitați de amurgul timpuriu pentru fotografii reușite.",
+                "en": "In the clear winter air, visibility from the tower base is excellent; use the early twilight for stunning long-exposure photos."
+              }
+            },
+            {
+              "name": {
+                "de": "SC2 Waterpark",
+                "hu": "SC2 Waterpark",
+                "ro": "SC2 Waterpark",
+                "en": "SC2 Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln im beheizten Pool auf; denken Sie an eine Mütze für den Rückweg, damit der Kopf nach dem Baden nicht auskühlt.",
+                "hu": "Melegítse fel izmait a fűtött medencékben; tegyen el sapkát a hazaútra, nehogy megfázzon a feje a fürdés után a hidegben.",
+                "ro": "Încălziți-vă mușchii în piscinele încălzite; nu uitați căciula pentru drumul de întoarcere, pentru a nu răci după baie.",
+                "en": "Warm your muscles in the heated pools; remember to wear a hat on the ride back to prevent heat loss after swimming."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Marine Lake",
+                "hu": "Rhyl Marine Lake",
+                "ro": "Rhyl Marine Lake",
+                "en": "Rhyl Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie winterliche Zugvögel am See; tragen Sie Reflektoren, da es nach 16:30 Uhr schnell sehr dunkel auf den Wegen wird.",
+                "hu": "Figyelje meg a téli vándormadarakat a tónál; viseljen fényvisszaverőt, mert 16:30 után gyorsan sötétedik az utakon.",
+                "ro": "Observați păsările migratoare de iarnă pe lac; purtați elemente reflectorizante, deoarece se întunecă rapid după ora 16:30.",
+                "en": "Observe winter migratory birds on the lake; wear reflective gear as the paths get dark very quickly after 16:30."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Kezdje a napot az észak-walesi partok hagyományos varázsának megismerésével. Fedezze fel a klasszikus építészetet és a gyönyörűen gondozott kerteket, mielőtt a nyüzsgő szórakozóhelyek felé venné az irányt. A reggeli levegő az Ír-tenger friss illatát hozza, ahogy a város felébred.\n\nAhogy közeledik a dél, merüljön el a családi tengerparti szórakozás szívében. Próbálja ki a retro játéktermi játékokat, hallgassa az érmék csilingelését, és adja át magát a nyaralók vidám zajának. A központi sétány tele van energiával, így csodálatos nosztalgiautazást kínál.\n\nTöltse a délutánt az izgalmas rekreációs élmények felfedezésével. Akár a modern vízicsúszdákon csobban, akár az ikonikus torony felé tekint, a napnak ez a része az aktív kikapcsolódásról és a lenyűgöző tengerparti kilátásról szól minden korosztály számára.\n\nAhogy közeledik az este, találjon nyugalmat a széles, homokos strandok mentén vagy a történelmi tengeri tó partján. A lemenő nap aranyló fényt vet a vízre, békés befejezést nyújtva egy vibráló napnak, amelyet a hullámok lágy, megnyugtató hangja kísér.",
         "ro": "Începeți-vă ziua îmbrățișând farmecul tradițional al coastei nord-galeze. Explorați arhitectura clasică și grădinile frumos îngrijite înainte de a vă îndrepta spre zonele pline de divertisment. Aerul dimineții aduce parfumul proaspăt al Mării Irlandeze în timp ce orașul se trezește.\n\nPe măsură ce se apropie prânzul, intrați în inima distracției de familie la malul mării. Jucați-vă pe aparatele arcade retro, auziți clinchetul monedelor și bucurați-vă de zgomotul vesel al turiștilor. Strada centrală debordează de energie, oferind o încântătoare călătorie nostalgică.\n\nPetreceți-vă după-amiaza cufundându-vă în senzații tari recreative de amploare. Fie că vă stropiți pe toboganele moderne cu apă sau priviți în sus la turnul emblematic, această parte a zilei este despre bucurie activă și priveliști uluitoare asupra coastei.\n\nOdată cu lăsarea serii, găsiți liniștea de-a lungul plajelor largi de nisip sau lângă lacul marin istoric. Soarele la apus aruncă o strălucire aurie peste apă, oferind o concluzie pașnică a unei zile vibrante, însoțită de sunetul blând al valurilor de coastă.",
         "en": "Begin your day embracing the traditional charm of the North Wales coast. Explore classic civic architecture and beautifully curated gardens before heading toward the lively entertainment spots. The morning air brings the crisp scent of the Irish Sea as the town wakes up.\n\nAs midday approaches, transition into the heart of family seaside fun. Engage with retro arcade games, hear the clinking of coins, and embrace the cheerful noise of holidaymakers. The central strip bursts with energy, offering a delightful nostalgia trip.\n\nSpend the afternoon immersing yourself in large-scale recreational thrills. Whether splashing down modern water flumes or looking up at the iconic sky tower, this part of the day is all about active enjoyment and breathtaking views over the sweeping coastline.\n\nAs evening sets in, find tranquility along the wide sandy beaches or by the historic marine lake. The setting sun casts a golden glow over the water, providing a peaceful conclusion to a vibrant day, accompanied by the gentle sound of rolling waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt am Regentag beginnt mit einer Panoramafahrt entlang der Promenade. Mittags parken wir direkt am Pavilion Theatre, um trocken ins Innere zu gelangen. Der Nachmittag wird am Sky Tower und Rathaus verbracht, wobei das Auto als komfortabler Rückzugsort dient. Zum Abschluss besuchen wir die Miniature Railway und den Marine Lake, während die Regentropfen gegen die Scheiben trommeln.",
+            "hu": "Az esős autós nap panorámás kocsikázással indul a sétány mentén. Délben közvetlenül a Pavilion Színháznál parkolunk, hogy szárazon jussunk be. A délutánt a Sky Tower és a Városháza környékén töltjük, az autót kényelmes menedékként használva. Zárásként a kisvasutat és a Marine Lake-et látogatjuk meg, miközben az eső veri a szélvédőt.",
+            "ro": "Călătoria cu mașina în zi de ploaie începe cu o tură panoramică pe faleză. La prânz parcăm chiar lângă Teatrul Pavilion pentru a intra uscați. După-amiaza este petrecută la Sky Tower și primărie, mașina fiind un refugiu confortabil. La final, vizităm calea ferată miniaturală și Marine Lake, în timp ce ploaia bate în parbriz.",
+            "en": "The rainy day car trip begins with a scenic drive along the promenade. At noon, we park directly at the Pavilion Theatre to stay dry. The afternoon is spent near the Sky Tower and Town Hall, using the car as a comfortable retreat between stops. We finish at the Miniature Railway and Marine Lake, watching the rain dance on the windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rhyl Promenade",
+                "hu": "Rhyl Promenade",
+                "ro": "Rhyl Promenade",
+                "en": "Rhyl Promenade"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto; parken Sie in den Buchten mit Meerblick, um die Wellen ohne nass zu werden zu beobachten.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból; parkoljon a tengerre néző öblökben, hogy megfigyelje a hullámokat anélkül, hogy megázna.",
+                "ro": "Bucurați-vă de priveliște direct din mașină; parcați în alveolele cu vedere la mare pentru a observa valurile fără a vă uda.",
+                "en": "Enjoy the sea views directly from your car; park in the bays facing the water to watch the waves without getting wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Pavilion Theatre",
+                "hu": "Rhyl Pavilion Theatre",
+                "ro": "Rhyl Pavilion Theatre",
+                "en": "Rhyl Pavilion Theatre"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Eingang; ideal, um auch bei starkem Regen eine Show oder eine Ausstellung im Trockenen zu besuchen.",
+                "hu": "A parkoló közel van a bejárathoz; ideális, hogy erős esőben is szárazon jussunk el egy előadásra vagy kiállításra.",
+                "ro": "Parcarea este aproape de intrare; ideal pentru a ajunge uscat la un spectacol sau o expoziție chiar și pe ploaie torențială.",
+                "en": "The car park is very close to the entrance; it's ideal for reaching a show or exhibition dry even during heavy coastal downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sky Tower",
+                "hu": "Rhyl Sky Tower",
+                "ro": "Rhyl Sky Tower",
+                "en": "Rhyl Sky Tower"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und machen Sie Fotos aus dem Fenster; bei Regen wirkt der Turm durch die beschlagenen Scheiben fast unwirklich.",
+                "hu": "Parkoljon a közelben és fotózzon az ablakból; esőben a torony szinte szürreálisan fest a párás szélvédőn keresztül.",
+                "ro": "Parcați în apropiere și faceți poze de pe geam; pe ploaie, turnul arată aproape ireal prin parbrizul aburit.",
+                "en": "Park nearby and take photos from your window; in the rain, the tower looks almost surreal through the misted glass."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Town Hall",
+                "hu": "Rhyl Town Hall",
+                "ro": "Rhyl Town Hall",
+                "en": "Rhyl Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Kurze Parkdauer vor dem Gebäude nutzen; bewundern Sie die Details der Architektur, während der Regen die Steinfassade dunkel färbt.",
+                "hu": "Használja ki a rövid parkolási lehetőséget az épület előtt; csodálja meg a részleteket, ahogy az eső sötétre színezi a kőhomlokzatot.",
+                "ro": "Folosiți oprirea scurtă din fața clădirii; admirați detaliile arhitecturale în timp ce ploaia înnegrește fațada de piatră.",
+                "en": "Use the short-stay parking in front; admire the architectural details while the rain darkens the grand stone facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Miniature Railway",
+                "hu": "Rhyl Miniature Railway",
+                "ro": "Rhyl Miniature Railway",
+                "en": "Rhyl Miniature Railway"
+              },
+              "tip_5lang": {
+                "de": "Die überdachten Waggons bieten Schutz während der Fahrt; ein tolles Erlebnis, wenn der Dampf im Regen besonders dicht aufsteigt.",
+                "hu": "A fedett vagonok védelmet nyújtanak utazás közben; remek élmény, ahogy a gőz az esőben különösen sűrűn gomolyog fel.",
+                "ro": "Vagoanele acoperite oferă protecție în timpul călătoriei; o experiență grozavă când aburul se ridică dens prin ploaie.",
+                "en": "The covered carriages provide shelter during the ride; it's a great experience watching the steam rise thickly in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Marine Lake",
+                "hu": "Rhyl Marine Lake",
+                "ro": "Rhyl Marine Lake",
+                "en": "Rhyl Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz am See hat man eine tolle Rundumsicht; beobachten Sie die Wassersportler, die dem Wetter in Neoprenanzügen trotzen.",
+                "hu": "A tó melletti parkolóból remek a körpanoráma; figyelje a vízi sportolókat, akik neoprénben dacolnak az elemekkel.",
+                "ro": "Din parcarea de lângă lac aveți o panoramă excelentă; observați sportivii care înfruntă vremea în costume de neopren.",
+                "en": "The lakeside car park offers great panoramic views; watch the hardy watersports fans braving the elements in their wetsuits."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt führt morgens an der glitzernden Promenade entlang. Mittags wärmen wir uns im Theater bei einer heißen Tasse Tee auf. Nachmittags besuchen wir den Sky Tower und das Rathaus, wobei die Sitzheizung den Komfort erhöht. Pünktlich zum Sonnenuntergang um 17:00 Uhr erreichen wir den Marine Lake, um das goldene Licht über der winterlichen Küste zu bewundern.",
+            "hu": "A téli autós túra reggel a szikrázó sétányon indul. Délben a színházban melegszünk fel egy forró tea mellett. Délután a Sky Tower és a Városháza következik, ahol az ülésfűtés teszi teljessé a kényelmet. Pontosan a 17:00-s naplementére érünk a Marine Lake-hez, hogy lássuk az aranyló fényeket a téli parton.",
+            "ro": "Călătoria de iarnă cu mașina trece dimineața pe lângă faleza sclipitoare. La prânz ne încălzim la teatru cu un ceai fierbinte. După-amiaza vizităm Sky Tower și primăria, încălzirea din scaune sporind confortul. Ajungem la Marine Lake exact pentru apusul de la ora 17:00, admirând lumina aurie peste coasta înghețată.",
+            "en": "The winter car tour starts with a drive along the glittering frosty promenade. At noon, we warm up at the theatre with a hot cup of tea. In the afternoon, we visit the Sky Tower and Town Hall, enjoying the car's heater between stops. We reach Marine Lake right for the 17:00 sunset to watch the golden light hit the winter coastline."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rhyl Promenade",
+                "hu": "Rhyl Promenade",
+                "ro": "Rhyl Promenade",
+                "en": "Rhyl Promenade"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf den Parkplätzen; das Licht der tiefstehenden Wintersonne über dem Meer ist fantastisch für Fotos.",
+                "hu": "Ügyeljen a fagyott foltokra a parkolókban; az alacsonyan járó téli nap fénye a tenger felett fantasztikus a fotózáshoz.",
+                "ro": "Atenție la porțiunile înghețate din parcări; lumina soarelui de iarnă reflectată în mare este fantastică pentru fotografii.",
+                "en": "Watch for icy patches in the parking bays; the low winter sun over the sea creates fantastic lighting for coastal photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Pavilion Theatre",
+                "hu": "Rhyl Pavilion Theatre",
+                "ro": "Rhyl Pavilion Theatre",
+                "en": "Rhyl Pavilion Theatre"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zufluchtsort mit großem Foyer; parken Sie nah am Gebäude, um die Zeit im kalten Seewind zu minimieren.",
+                "hu": "Meleg menedék tágas előtérrel; parkoljon közel az épülethez, hogy minimalizálja a hideg tengeri szélben töltött időt.",
+                "ro": "Un refugiu cald cu un foier spațios; parcați aproape de clădire pentru a minimiza timpul petrecut în vântul rece al mării.",
+                "en": "A warm sanctuary with a spacious foyer; park as close as possible to minimize your time in the freezing coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Sky Tower",
+                "hu": "Rhyl Sky Tower",
+                "ro": "Rhyl Sky Tower",
+                "en": "Rhyl Sky Tower"
+              },
+              "tip_5lang": {
+                "de": "Die Stahlkonstruktion wirkt bei blauem Winterhimmel sehr imposant; nutzen Sie die Parkplätze direkt gegenüber für einen schnellen Blick.",
+                "hu": "Az acélszerkezet lenyűgöző a tiszta téli égbolt előtt; használja a szemközti parkolókat egy gyors, fagymentes megtekintéshez.",
+                "ro": "Structura de oțel este impresionantă pe cerul senin de iarnă; folosiți parcările de vizavi pentru o privire rapidă și caldă.",
+                "en": "The steel structure looks striking against a clear blue winter sky; use the parking right opposite for a quick, warm viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Town Hall",
+                "hu": "Rhyl Town Hall",
+                "ro": "Rhyl Town Hall",
+                "en": "Rhyl Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie kurz, um die Architektur zu bewundern; die umliegenden Cafés bieten heiße Getränke für die Weiterfahrt an.",
+                "hu": "Parkoljon le rövid időre az építészet megcsodálásához; a környező kávézók forró italokat kínálnak az út folytatásához.",
+                "ro": "Parcați scurt pentru a admira arhitectura; cafenelele din jur oferă băuturi fierbinți pentru continuarea călătoriei.",
+                "en": "Park briefly to admire the architecture; nearby cafes offer perfect takeaway hot drinks to keep you warm for the rest of the drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Miniature Railway",
+                "hu": "Rhyl Miniature Railway",
+                "ro": "Rhyl Miniature Railway",
+                "en": "Rhyl Miniature Railway"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die speziellen Santa-Express-Fahrten im Dezember; kleiden Sie sich warm, da die Waggons im Winter sehr auskühlen können.",
+                "hu": "Ellenőrizze a speciális Mikulás-járatokat decemberben; öltözzön rétegesen, mert a vagonok télen hamar lehűlnek.",
+                "ro": "Verificați cursele speciale „Santa Express” în decembrie; îmbrăcați-vă bine, deoarece vagoanele pot fi reci iarna.",
+                "en": "Check for special Santa Express rides in December; dress warmly as the open-sided carriages can get quite chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Rhyl Marine Lake",
+                "hu": "Rhyl Marine Lake",
+                "ro": "Rhyl Marine Lake",
+                "en": "Rhyl Marine Lake"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Sicht auf den Sonnenuntergang; bleiben Sie im Auto und genießen Sie das Farbspiel über dem gefrorenen Ufer.",
+                "hu": "A parkolóból kiváló kilátás nyílik a naplementére; maradjon az autóban és élvezze a színek játékát a fagyos part felett.",
+                "ro": "Parcarea oferă o vedere excelentă spre apus; rămâneți în mașină și bucurați-vă de spectacolul culorilor peste malul înghețat.",
+                "en": "The car park offers premium views of the 17:00 sunset; stay inside and enjoy the colors over the lake's frosty edges."
+              }
+            }
+          ]
+        }
       }
     }
   }

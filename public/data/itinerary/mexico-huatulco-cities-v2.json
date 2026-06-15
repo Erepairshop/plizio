@@ -137,6 +137,168 @@
         "hu": "A reggel a helyi kézműves piac élénk színeivel és illataival kezdődik. A délidő a Fisherman's és a San Andres strandok bájos partjaira viszi egy nyugodt pihenésre. Délután a Punta Paraíso felől tekinthet ki a csendes-óceáni horizontra. Az este a Playa Chahue-n zárul, ahol megfigyelheti, ahogy az égbolt színei átalakulnak a hatalmas homoktenger felett.",
         "ro": "Dimineața începe cu culorile și aromele vibrante ale pieței locale de artizanat. La amiază vă relaxați pe țărmurile fermecătoare ale plajelor Fisherman's și San Andres. După-amiaza, priviți orizontul Pacificului din Punta Paraíso. Seara se încheie la Playa Chahue, unde puteți urmări cum culorile cerului se schimbă deasupra nisipurilor vaste.",
         "en": "Morning begins with the vibrant colors and aromas of the local craft market. Midday takes you to the charming shores of Fisherman's and San Andres beaches for peaceful relaxation. In the afternoon, gaze at the Pacific horizon from Punta Paraíso. The evening concludes at Playa Chahue, where you can watch the colors of the sky shift over the vast sands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt im Kunsthandwerksmarkt, wo man lokale Schätze ohne nass zu werden bestaunen kann. Mittags führt der Weg entlang der Küste; der Regen bringt eine willkommene Abkühlung und einen frischen Duft. Am Nachmittag erreichen wir die Aussichtspunkte, wobei Vorsicht auf den rutschigen Pfaden geboten ist. Der Abend klingt gemütlich in einem überdachten Strandcafé an der Playa Chahue aus.",
+            "hu": "A reggelt a fedett kézműves piacon kezdjük, ahol az eső elől védve böngészhetünk a helyi termékek között. Délben a tengerpart mentén sétálunk, élvezve a felfrissült levegőt és a trópusi eső illatát. Délután a sziklák mentén haladunk a kilátó felé, fokozottan ügyelve a csúszós kövekre. Az este a Playa Chahue egyik hangulatos, tetővel rendelkező bárjában ér minket, ahol szárazon pihenhetünk meg.",
+            "ro": "Dimineața începe la adăpost în piața de meșteșuguri, locul ideal pentru a descoperi arta locală pe timp de ploaie. La prânz, plimbarea pe coastă oferă un aer proaspăt, iar ploaia tropicală creează o atmosferă mistică pe plajă. După-amiaza urcăm spre punctul de observație, fiind atenți la potecile care pot deveni alunecoase. Seara se încheie relaxant sub terasa acoperită a unui local de pe Playa Chahue.",
+            "en": "Start your morning at the covered crafts market, the perfect refuge to admire local artistry while staying dry. By noon, the coastal walk feels refreshing as the rain cools the tropical heat near Fisherman's Beach. Afternoon takes you to the viewpoint; watch your step on the rocks as they can be slippery when wet. Spend the evening under the safety of a palapa roof at Playa Chahue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mercado de artesanias de Santa Cruz Huatulco",
+                "hu": "Mercado de artesanias de Santa Cruz Huatulco",
+                "ro": "Mercado de artesanias de Santa Cruz Huatulco",
+                "en": "Mercado de artesanias de Santa Cruz Huatulco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Markthallen als perfekten Unterschlupf bei Schauern; hier finden Sie handgewebte Textilien und können den Regen bei einem heißen Kaffee abwarten.",
+                "hu": "Használja ki a piac fedett részeit az intenzív záporok idején; ez a legjobb hely a helyi szőttesek megcsodálására, miközben megvárja az eső elálltát.",
+                "ro": "Folosiți zonele acoperite ale pieței ca adăpost perfect în timpul averselor; aici puteți admira textilele țesute manual în timp ce așteptați să treacă ploaia.",
+                "en": "Use the market's covered stalls as a perfect shelter during downpours; it is the best spot to browse hand-woven textiles while waiting for the rain to clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Fisherman's Beach",
+                "hu": "Fisherman's Beach",
+                "ro": "Fisherman's Beach",
+                "en": "Fisherman's Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Fischer beim Sichern ihrer Boote; der feuchte Sand ist fester und lässt sich auch bei Regen mit guten Sandalen leicht bewandern.",
+                "hu": "Figyelje meg a halászokat, ahogy rögzítik csónakjaikat; a nedves homok ilyenkor keményebb és könnyebben járható, de viseljen jól tapadó szandált.",
+                "ro": "Observați pescarii care își asigură bărcile; nisipul umed este mai compact și mai ușor de parcurs, dar asigurați-vă că purtați sandale cu aderență bună.",
+                "en": "Watch the local fishermen securing their boats; the wet sand is firmer and easier to walk on, just ensure you wear sandals with decent grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa San Andres",
+                "hu": "Playa San Andres",
+                "ro": "Playa San Andres",
+                "en": "Playa San Andres"
+              },
+              "tip_5lang": {
+                "de": "Die dramatischen Wolken über dem Meer bieten tolle Fotomotive; suchen Sie Schutz unter den Bäumen, falls der Regen kurzzeitig stärker wird.",
+                "hu": "A tenger feletti drámai felhők kiváló fotótémát nyújtanak; keressen menedéket a fák alatt, ha az eső hirtelen intenzívebbé válna a parton.",
+                "ro": "Norii dramatici de deasupra mării oferă oportunități foto excelente; căutați adăpost sub copaci dacă ploaia devine brusc mai intensă pe plajă.",
+                "en": "The dramatic clouds over the ocean offer great photo opportunities; seek shelter under the trees if the rain briefly intensifies while you are on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Paraíso",
+                "hu": "Punta Paraíso",
+                "ro": "Punta Paraíso",
+                "en": "Punta Paraíso"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen am Aussichtspunkt sind bei Nässe extrem glatt; halten Sie sich an den stabilen Abschnitten und genießen Sie die dunstige Küstenaussicht.",
+                "hu": "A kilátó sziklái nedvesen rendkívül csúszósak; maradjon a stabilabb részeken, és csodálja meg a párás, misztikus partmenti panorámát.",
+                "ro": "Stâncile de la punctul de observație sunt extrem de alunecoase când sunt ude; rămâneți pe secțiunile stabile și admirați panorama de coastă cețoasă.",
+                "en": "The rocks at the viewpoint are extremely slick when wet; stay on the stable sections and enjoy the misty, atmospheric coastal panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Chahue",
+                "hu": "Playa Chahue",
+                "ro": "Playa Chahue",
+                "en": "Playa Chahue"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in einem der Beach Clubs mit überdachter Terrasse; das Rauschen des Regens auf dem Wasser wirkt hier besonders beruhigend.",
+                "hu": "Zárja a napot a strandklubok egyik fedett teraszán; az eső kopogása a tengeren és a tetőn itt különösen nyugtató élményt nyújt.",
+                "ro": "Încheiați ziua la unul dintre cluburile de plajă cu terasă acoperită; sunetul ploii pe mare și pe acoperiș oferă o experiență foarte relaxantă.",
+                "en": "End your day at one of the beach clubs with a covered terrace; the sound of the rain hitting the ocean and the roof is incredibly soothing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Wintermorgen in Huatulco ist ideal für einen Stadtspaziergang ohne die extreme Hitze. Mittags genießen wir die Sonne am Fisherman's Beach, wo die Brise angenehm kühl weht. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir den Nachmittag intensiv für die Küstenpfade. Der Abend endet bei milden Temperaturen mit einem spektakulären Blick auf den frühen Sternenhimmel.",
+            "hu": "A friss téli reggel Huatulcóban tökéletes a városi sétához a tikkasztó hőség nélkül. Délben a Fisherman's Beach-en élvezzük a napsütést, ahol a tengeri szellő kellemesen hűsít. Mivel a nap korán, 17:00 körül nyugszik, a délutánt aktívan töltjük a parton. Az este enyhe marad, így kényelmesen csodálhatjuk meg a korán feltűnő csillagokat a tengerparton.",
+            "ro": "O dimineață răcoroasă de iarnă în Huatulco este ideală pentru explorarea orașului fără căldura extremă de vară. La prânz ne bucurăm de soare pe plajă, unde briza mării este revigorantă. Deoarece soarele apune devreme, în jur de ora 17:00, profităm de după-amiază pe potecile de coastă. Seara rămâne blândă, oferind o priveliște superbă asupra cerului înstelat.",
+            "en": "A crisp winter morning in Huatulco is perfect for walking through town without the intense summer humidity. By noon, enjoy the golden sun at the beach where the breeze feels pleasantly cool. Since the sun sets early around 5 PM, make the most of your afternoon coastal hike. The evening remains mild, ideal for watching the early stars emerge over the bay."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mercado de artesanias de Santa Cruz Huatulco",
+                "hu": "Mercado de artesanias de Santa Cruz Huatulco",
+                "ro": "Mercado de artesanias de Santa Cruz Huatulco",
+                "en": "Mercado de artesanias de Santa Cruz Huatulco"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist die Auswahl an feinen Wollwebereien am größten; kaufen Sie ein leichtes Tuch für die kühleren Abendstunden am Meer.",
+                "hu": "Télen a legszélesebb a választék a finom gyapjúszőttesekből; érdemes beszerezni egy könnyű sálat a hűvösebb tengerparti estékre.",
+                "ro": "Iarna, selecția de țesături fine din lână este cea mai variată; cumpărați un șal ușor pentru orele mai răcoroase de seară de pe malul mării.",
+                "en": "In winter, the selection of fine wool weavings is at its best; consider buying a light wrap for the cooler evening hours by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Fisherman's Beach",
+                "hu": "Fisherman's Beach",
+                "ro": "Fisherman's Beach",
+                "en": "Fisherman's Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter glasklar; nutzen Sie das helle Mittagslicht für Fotos von den bunten Booten vor dem tiefblauen Horizont.",
+                "hu": "A víz télen kristálytiszta; használja ki az erős déli fényt a színes csónakok fotózásához a mélykék horizont előtt.",
+                "ro": "Apa este extrem de clară iarna; profitați de lumina puternică de la prânz pentru a fotografia bărcile colorate pe fundalul orizontului albastru.",
+                "en": "The water is crystal clear in winter; take advantage of the bright midday light to photograph the colorful boats against the deep blue horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa San Andres",
+                "hu": "Playa San Andres",
+                "ro": "Playa San Andres",
+                "en": "Playa San Andres"
+              },
+              "tip_5lang": {
+                "de": "Die milden Temperaturen machen das Sonnenbaden sehr angenehm; achten Sie dennoch auf die UV-Strahlung, die auch im Winter stark sein kann.",
+                "hu": "Az enyhe hőmérséklet miatt a napozás most nagyon kellemes; ennek ellenére ügyeljen az UV-sugárzásra, ami télen is erős maradhat.",
+                "ro": "Temperaturile blânde fac plaja foarte plăcută; totuși, aveți grijă la radiațiile UV, care pot fi puternice chiar și în timpul iernii.",
+                "en": "The mild temperatures make sunbathing very pleasant now; however, still be mindful of UV radiation which remains strong even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Paraíso",
+                "hu": "Punta Paraíso",
+                "ro": "Punta Paraíso",
+                "en": "Punta Paraíso"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr hierher, um das warme Licht der tiefstehenden Wintersonne über den Klippen perfekt einzufangen.",
+                "hu": "Érkezzen ide 16:30 előtt, hogy elcsípje a téli naplemente meleg fényeit, amint megvilágítják a part menti sziklákat.",
+                "ro": "Veniți aici înainte de ora 16:30 pentru a surprinde lumina caldă a soarelui de iarnă care apune peste stâncile de pe coastă.",
+                "en": "Arrive here before 4:30 PM to capture the warm, golden light of the low winter sun illuminating the coastal cliffs."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Chahue",
+                "hu": "Playa Chahue",
+                "ro": "Playa Chahue",
+                "en": "Playa Chahue"
+              },
+              "tip_5lang": {
+                "de": "Sobald die Sonne untergeht, wird es merklich kühler; ein leichter Pullover ist ideal, um das Abendessen am Strand zu genießen.",
+                "hu": "Amint a nap lemegy, a levegő gyorsan hűl; egy vékony pulóver ideális lesz a tengerparti vacsora kényelmes elfogyasztásához.",
+                "ro": "Imediat ce soarele apune, aerul se răcește rapid; un pulover subțire este ideal pentru a savura cina pe plajă în confort.",
+                "en": "As soon as the sun sets, the air cools down quickly; a light sweater is ideal for enjoying a comfortable dinner on the beach."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a helyi piacon, majd tekerjen a népszerű Playa Chahue-hoz. A délidő kontrasztos élményeket kínál, ahogy a La Esperanza hullámaitól az El Tejón nyugalmáig teker. A délután tökéletes egy tengeri ebédszünethez az El Arrocito-n. Fejezze be az aktív napot a fenséges óceáni kilátás megtekintésével a Punta Paraíso-nál.",
         "ro": "Începeți turul cu bicicleta explorând piața locală înainte de a pedala spre populara Playa Chahue. Amiaza oferă experiențe contrastante pe măsură ce vă deplasați de la valurile din La Esperanza la liniștea din El Tejón. După-amiaza este perfectă pentru o gustare marină la El Arrocito. Încheiați ziua activă admirând priveliștea de la Punta Paraíso.",
         "en": "Kick off your cycling tour by browsing the local market before riding to the popular Playa Chahue. Midday offers contrasting experiences as you pedal from the rolling waves of La Esperanza to the tranquil seclusion of El Tejón. The afternoon is perfect for a seafood break at El Arrocito. Finish your active day taking in the majestic ocean views at Punta Paraíso."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen bietet ein dynamisches Abenteuer durch die üppige Natur. Morgens starten wir am Markt, wo wir uns mit Regenponchos ausstatten. Mittags radeln wir vorsichtig auf den asphaltierten Wegen zu den Buchten, da die Straßen rutschig sein können. Am Nachmittag erkunden wir die versteckten Strände unter dem Schutz der Palmen. Der Tag endet mit einer kühlen Brise und einer sicheren Rückfahrt vor der Dämmerung.",
+            "hu": "A bringázás az esőben igazi kaland a buja trópusi természetben. Reggel a piacon kezdünk, ahol beszerezhetünk egy praktikus esőponcsót. Délben óvatosan tekerünk az aszfaltozott utakon az öblök felé, mert az útfelület csúszóssá válhat. Délután a pálmák védelmében fedezzük fel a rejtett strandokat. A napot a felfrissült levegőben, biztonságos tempóban zárjuk.",
+            "ro": "O tură cu bicicleta prin ploaie oferă o aventură dinamică prin natura luxuriantă. Dimineața plecăm de la piață echipați cu pelerine. La prânz pedalăm cu atenție pe drumurile asfaltate spre golfuri, deoarece suprafața poate fi alunecoasă. După-amiaza explorăm plajele ascunse sub protecția palmierilor. Ziua se încheie cu o briză răcoroasă și o întoarcere sigură înainte de lăsarea serii.",
+            "en": "Cycling in the rain offers a dynamic adventure through lush nature. Start your morning at the market to gear up with a rain poncho. By noon, cycle carefully on paved paths toward the bays, as roads can be slippery when wet. Spend the afternoon exploring hidden beaches under the natural shelter of palm trees. End the ride at a steady pace, enjoying the fresh, cooled air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mercado de artesanias de Santa Cruz Huatulco",
+                "hu": "Mercado de artesanias de Santa Cruz Huatulco",
+                "ro": "Mercado de artesanias de Santa Cruz Huatulco",
+                "en": "Mercado de artesanias de Santa Cruz Huatulco"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier nach wasserdichten Taschen für Ihre Wertsachen; die Händler bieten oft praktische Lösungen für Radfahrer bei Regen an.",
+                "hu": "Keressen itt vízhatlan táskákat az értéktárgyai számára; az árusok gyakran kínálnak praktikus megoldásokat kerékpárosoknak esős időre.",
+                "ro": "Căutați aici genți impermeabile pentru obiectele de valoare; comercianții oferă adesea soluții practice pentru bicicliști pe timp de ploaie.",
+                "en": "Look for waterproof bags for your valuables here; vendors often offer practical solutions for cyclists traveling in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Chahue",
+                "hu": "Playa Chahue",
+                "ro": "Playa Chahue",
+                "en": "Playa Chahue"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter einem Vordach und genießen Sie den Anblick der stürmischen Brandung bei einem kühlen Getränk im Trockenen.",
+                "hu": "Parkolja le a bringát egy előtető alatt, és élvezze a viharosabb hullámok látványát egy hűsítő ital mellett, száraz helyen.",
+                "ro": "Parcați bicicleta sub o copertină și bucurați-vă de spectacolul valurilor mai agitate în timp ce savurați o băutură la adăpost.",
+                "en": "Park your bike under a canopy and enjoy the sight of the choppier surf while sipping a cool drink in a dry spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Esperanza",
+                "hu": "Playa La Esperanza",
+                "ro": "Playa La Esperanza",
+                "en": "Playa La Esperanza"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann durch Pfützen führen; prüfen Sie Ihre Bremsen regelmäßig und fahren Sie in Kurven besonders langsam.",
+                "hu": "Az idevezető úton tócsák alakulhatnak ki; rendszeresen ellenőrizze a fékeket, és a kanyarokban tekerjen különösen lassan.",
+                "ro": "Drumul până aici poate avea bălți; verificați frânele regulat și pedalați cu viteză redusă în curbe pentru siguranță maximă.",
+                "en": "The path here might have puddles; check your brakes regularly and cycle particularly slowly around corners for maximum safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa El Tejón",
+                "hu": "Playa El Tejón",
+                "ro": "Playa El Tejón",
+                "en": "Playa El Tejón"
+              },
+              "tip_5lang": {
+                "de": "Diese abgelegene Bucht wirkt im Regen sehr mystisch; nutzen Sie die Palapas am Strand als Unterstand bei schweren Güssen.",
+                "hu": "Ez az eldugott öböl esőben nagyon misztikus; használja a parton lévő nádtetős palapákat menedékként a hevesebb záporok idején.",
+                "ro": "Această plajă retrasă pare foarte mistică pe ploaie; folosiți umbrelele de stuf (palapas) ca adăpost în timpul averselor torențiale.",
+                "en": "This secluded bay looks very mystical in the rain; use the thatched palapas on the beach as shelter during heavier downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa El Arrocito",
+                "hu": "Playa El Arrocito",
+                "ro": "Playa El Arrocito",
+                "en": "Playa El Arrocito"
+              },
+              "tip_5lang": {
+                "de": "Das flache Wasser ist auch bei Regen warm; ein kurzes Bad ist erfrischend, solange kein Gewitter aufzieht.",
+                "hu": "A sekély víz esőben is meleg marad; egy rövid úszás frissítő lehet, feltéve, ha nem közeledik vihar vagy villámlás.",
+                "ro": "Apa puțin adâncă rămâne caldă chiar și pe ploaie; o scurtă baie este revigorantă, atâta timp cât nu se apropie o furtună cu descărcări electrice.",
+                "en": "The shallow water remains warm even in the rain; a quick swim is refreshing, provided there is no sign of lightning or a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Paraíso",
+                "hu": "Punta Paraíso",
+                "ro": "Punta Paraíso",
+                "en": "Punta Paraíso"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren auf den Klippenpfaden bei starkem Wind; genießen Sie den Ausblick stattdessen von einem geschützten Punkt.",
+                "hu": "Erős szélben kerülje a kerékpározást a szikla menti ösvényeken; inkább egy védettebb pontról csodálja meg a háborgó tengert.",
+                "ro": "Evitați pedalatul pe potecile de pe stânci în condiții de vânt puternic; admirați marea agitată dintr-un punct mai protejat.",
+                "en": "Avoid cycling on the cliffside paths during high winds; instead, admire the churning sea from a more sheltered vantage point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühleren Wintertemperaturen sind perfekt für eine ausgiebige Radtour zu den Buchten. Morgens herrscht eine klare Sicht auf die Küstenlandschaft. Mittags können wir längere Strecken zurücklegen, ohne zu überhitzen. Da die Dämmerung früh gegen 17:00 Uhr einsetzt, planen wir die Rückkehr rechtzeitig ein. Der Abend ist mild und ideal für eine entspannte Fahrt zurück zum Ausgangspunkt.",
+            "hu": "A hűvösebb téli hőmérséklet ideális egy hosszabb kerékpártúrához az öblök mentén. Reggel tiszta kilátás nyílik a part menti tájra. Napközben nagyobb távokat is megtehetünk anélkül, hogy kimelegednénk. Mivel a sötétedés korán, 17:00 körül kezdődik, időben tervezzük a visszautat. Az este enyhe, tökéletes a pihentető tekeréshez.",
+            "ro": "Temperaturile mai scăzute de iarnă sunt perfecte pentru o tură lungă cu bicicleta spre golfuri. Dimineața, vizibilitatea asupra coastei este maximă. La prânz putem parcurge distanțe mai mari fără disconfort termic. Deoarece amurgul începe devreme, în jur de ora 17:00, planificăm întoarcerea din timp. Seara blândă este ideală pentru o pedalare relaxată spre punctul de start.",
+            "en": "Cooler winter temperatures are ideal for an extensive bike tour to the various bays. Mornings offer clear views of the coastal landscape. During midday, you can cover longer distances without overheating. Since dusk begins early around 5 PM, plan your return trip accordingly. The evening stays mild, perfect for a relaxed ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mercado de artesanias de Santa Cruz Huatulco",
+                "hu": "Mercado de artesanias de Santa Cruz Huatulco",
+                "ro": "Mercado de artesanias de Santa Cruz Huatulco",
+                "en": "Mercado de artesanias de Santa Cruz Huatulco"
+              },
+              "tip_5lang": {
+                "de": "Decken Sie sich mit lokalen Snacks für die Fahrt ein; im Winter sind die Märkte weniger überlaufen und der Service ist persönlicher.",
+                "hu": "Vásároljon be helyi rágcsálnivalókból az útra; télen a piacok kevésbé zsúfoltak, így nyugodtabban válogathat az áruk között.",
+                "ro": "Faceți provizii de gustări locale pentru drum; iarna piețele sunt mai puțin aglomerate, iar experiența cumpărăturilor este mai relaxată.",
+                "en": "Stock up on local snacks for the ride; in winter, the markets are less crowded, allowing for a more personal and relaxed experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Chahue",
+                "hu": "Playa Chahue",
+                "ro": "Playa Chahue",
+                "en": "Playa Chahue"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den breiten Strand für ein kurzes Picknick; die Wintersonne ist intensiv, aber die Lufttemperatur bleibt angenehm mild.",
+                "hu": "Használja ki a széles partot egy rövid piknikhez; a téli nap ereje még nagy, de a levegő hőmérséklete kellemesen mérsékelt marad.",
+                "ro": "Profitați de plaja lată pentru un scurt picnic; soarele de iarnă este puternic, dar temperatura aerului rămâne plăcut de blândă.",
+                "en": "Take advantage of the wide beach for a quick picnic; the winter sun is strong, but the air temperature stays pleasantly mild."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa La Esperanza",
+                "hu": "Playa La Esperanza",
+                "ro": "Playa La Esperanza",
+                "en": "Playa La Esperanza"
+              },
+              "tip_5lang": {
+                "de": "Die Brandung ist im Winter oft ruhiger; ideal, um nach dem Radeln die Füße im kühlen Pazifik zu erfrischen.",
+                "hu": "A hullámzás télen gyakran nyugodtabb; ideális hely, hogy a kerékpározás után megmártsa a lábát a hűsítő Csendes-óceánban.",
+                "ro": "Valurile sunt adesea mai calme iarna; este locul ideal pentru a vă răcori picioarele în Oceanul Pacific după efortul pedalării.",
+                "en": "The surf is often calmer in winter; it is an ideal spot to cool your feet in the Pacific Ocean after the effort of cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa El Tejón",
+                "hu": "Playa El Tejón",
+                "ro": "Playa El Tejón",
+                "en": "Playa El Tejón"
+              },
+              "tip_5lang": {
+                "de": "Der schattige Weg zum Strand ist im Winter angenehm kühl; bringen Sie ausreichend Wasser mit, da die trockene Luft durstig macht.",
+                "hu": "A partra vezető árnyékos út télen kellemesen hűvös; hozzon magával elég vizet, mert a száraz levegő miatt gyorsabban megszomjazik.",
+                "ro": "Drumul umbros către plajă este plăcut de răcoros iarna; aduceți suficientă apă, deoarece aerul uscat vă poate deshidrata rapid.",
+                "en": "The shaded path to the beach is pleasantly cool in winter; bring plenty of water, as the dry air can make you thirsty more quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa El Arrocito",
+                "hu": "Playa El Arrocito",
+                "ro": "Playa El Arrocito",
+                "en": "Playa El Arrocito"
+              },
+              "tip_5lang": {
+                "de": "Das Schnorcheln ist im Winter aufgrund der hervorragenden Sichtweite besonders lohnenswert; vergessen Sie Ihre Ausrüstung nicht auf dem Rad.",
+                "hu": "A sznorkelezés télen a kiváló látási viszonyok miatt különösen ajánlott; ne felejtse el a felszerelését a biciklin hozni.",
+                "ro": "Snorkelingul este recomandat în special iarna datorită vizibilității excelente; nu uitați să vă aduceți echipamentul pe bicicletă.",
+                "en": "Snorkeling is especially rewarding in winter due to excellent water visibility; don't forget to pack your gear on the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Paraíso",
+                "hu": "Punta Paraíso",
+                "ro": "Punta Paraíso",
+                "en": "Punta Paraíso"
+              },
+              "tip_5lang": {
+                "de": "Da es ab 17:00 Uhr dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung funktioniert, bevor Sie den Rückweg antreten.",
+                "hu": "Mivel 17:00 után gyorsan sötétedik, győződjön meg róla, hogy a kerékpáros lámpái működnek, mielőtt elindulna visszafelé.",
+                "ro": "Deoarece se întunecă rapid după ora 17:00, asigurați-vă că luminile bicicletei funcționează înainte de a porni pe drumul de întoarcere.",
+                "en": "Since it gets dark quickly after 5 PM, make sure your bike lights are functioning properly before starting your ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az utazás a látványos Blow Hole-nál kezdődik, ahol az óceán ereje drámai vízsugarakat hoz létre. A délidőt a Fisherman's strand és a hatalmas Playa Chahue puha homokján töltheti. A délután egy tengerparti autózássá alakul a Manzanilla, Tornillo és Ventura festői öblei között. Pihenjen meg teljesen az érintetlen Playa Secreta partján alkonyatkor.",
         "ro": "Călătoria începe la spectaculosul Blow Hole, unde forțele oceanului creează jeturi dramatice de apă. Amiaza este petrecută relaxându-vă pe nisipurile fine de la Fisherman's Beach și Playa Chahue. După-amiaza devine o excursie pe coastă, trecând prin golfurile pitorești Manzanilla, Tornillo și Ventura. Relaxați-vă complet pe imaculata Playa Secreta la lăsarea serii.",
         "en": "Your drive begins at the spectacular Blow Hole, where ocean forces create dramatic sprays. Midday is spent unwinding on the soft sands of Fisherman's Beach and the expansive Playa Chahue. The afternoon turns into a coastal road trip, hopping between the scenic coves of Manzanilla, Tornillo, and Ventura. Unwind completely at the pristine Playa Secreta at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man bei Regen flexibel und trocken unterwegs. Morgens besuchen wir das Blow Hole, das bei stürmischem Wetter besonders beeindruckend ist. Mittags fahren wir zu den verschiedenen Stränden und können Regenschauer einfach im Wagen abwarten. Am Nachmittag erkunden wir die abgelegeneren Buchten mit direktem Zugang. Der Abend schließt mit einem gemütlichen Dinner, während der Regen draußen auf das Autodach trommelt.",
+            "hu": "Autóval az eső sem akadály, hiszen szárazon és kényelmesen közlekedhetünk. Reggel a Blow Hole-hoz látogatunk, ami viharos időben a leglátványosabb. Délben a különböző strandok között autózunk, a záporokat pedig egyszerűen a kocsiban várhatjuk meg. Délután a távolabbi öblöket fedezzük fel, ahová közvetlen út vezet. Az este egy hangulatos vacsorával zárul, miközben hallgatjuk az eső kopogását.",
+            "ro": "Cu mașina sunteți protejați de ploaie și aveți libertate totală de mișcare. Dimineața vizităm Blow Hole, care devine spectaculos în condiții de mare agitată. La prânz conducem între plaje, putând aștepta trecerea ploii în confortul vehiculului. După-amiaza explorăm golfurile mai îndepărtate cu acces auto facil. Seara se încheie cu o cină relaxantă, în timp ce ploaia cade liniștitor afară.",
+            "en": "Traveling by car keeps you dry and flexible during rainy spells. Start your morning at the Blow Hole, which is most impressive when the sea is rough. By noon, drive between beaches, using the car as a cozy shelter during heavy showers. Spend the afternoon exploring more remote bays with easy road access. Finish the day with a pleasant dinner, enjoying the rhythmic sound of rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Blow Hole",
+                "hu": "Blow Hole",
+                "ro": "Blow Hole",
+                "en": "Blow Hole"
+              },
+              "tip_5lang": {
+                "de": "Regen geht oft mit starkem Wellengang einher; das Blow Hole ist dann besonders aktiv und schießt Wasserfontänen hoch in die Luft.",
+                "hu": "Az esőt gyakran erős hullámzás kíséri; a Blow Hole ilyenkor a legaktívabb, hatalmas vízoszlopokat lőve a magasba.",
+                "ro": "Ploaia este adesea însoțită de valuri puternice; Blow Hole este cel mai activ în aceste momente, aruncând jeturi mari de apă în aer.",
+                "en": "Rain often comes with heavy swells; the Blow Hole is most active then, shooting impressive plumes of water high into the air."
+              }
+            },
+            {
+              "name": {
+                "de": "Fisherman's Beach",
+                "hu": "Fisherman's Beach",
+                "ro": "Fisherman's Beach",
+                "en": "Fisherman's Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den parknahen Zugang, um bei einem plötzlichen Schauer schnell wieder ins trockene Auto zu gelangen.",
+                "hu": "Használja a parthoz közeli parkolót, így egy hirtelen zápor esetén gyorsan visszaérhet a száraz autóba.",
+                "ro": "Folosiți parcarea din apropierea plajei pentru a ajunge rapid înapoi la mașină în cazul unei averse bruște.",
+                "en": "Use the parking area close to the shore to quickly return to the dry car in case of a sudden tropical downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Chahue",
+                "hu": "Playa Chahue",
+                "ro": "Playa Chahue",
+                "en": "Playa Chahue"
+              },
+              "tip_5lang": {
+                "de": "Die asphaltierten Parkplätze sind auch bei Regen sauber; ein idealer Stopp, um die stürmische See aus dem Wageninneren zu beobachten.",
+                "hu": "Az aszfaltozott parkolók esőben is tiszták maradnak; ideális hely megállni és az autó kényelméből nézni a háborgó tengert.",
+                "ro": "Parcările asfaltate rămân curate chiar și pe ploaie; este un loc ideal pentru a observa marea agitată din interiorul mașinii.",
+                "en": "The paved parking lots stay clean even in the rain; it's an ideal spot to watch the stormy sea from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Manzanilla",
+                "hu": "Playa Manzanilla",
+                "ro": "Playa Manzanilla",
+                "en": "Playa Manzanilla"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist hier meist weniger los; genießen Sie die Ruhe der Bucht und achten Sie auf rutschige Zufahrtsstraßen.",
+                "hu": "Esős időben itt általában kisebb a forgalom; élvezze az öböl nyugalmát, de ügyeljen a csúszós bekötőutakra.",
+                "ro": "Pe timp de ploaie este mai puțină aglomerație aici; bucurați-vă de liniștea golfului, dar fiți atenți la drumurile de acces alunecoase.",
+                "en": "Rainy weather means fewer crowds here; enjoy the bay's tranquility, but be cautious on the potentially slippery access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tornillo",
+                "hu": "Playa Tornillo",
+                "ro": "Playa Tornillo",
+                "en": "Playa Tornillo"
+              },
+              "tip_5lang": {
+                "de": "Die Restaurants am Rand bieten überdachte Sitzplätze mit tollem Blick auf den Regen über dem Pazifik.",
+                "hu": "A part menti éttermek fedett teraszokat kínálnak, ahonnan kiváló kilátás nyílik a Csendes-óceán feletti esőre.",
+                "ro": "Restaurantele de pe margine oferă locuri acoperite cu o vedere excelentă asupra ploii de deasupra Oceanului Pacific.",
+                "en": "The nearby restaurants offer covered seating with a great view of the rain falling over the Pacific Ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Ventura",
+                "hu": "Playa Ventura",
+                "ro": "Playa Ventura",
+                "en": "Playa Ventura"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt die Scheibenwischer; die Sicht kann bei tropischen Güssen auf der Küstenstraße stark eingeschränkt sein.",
+                "hu": "Indulás előtt ellenőrizze az ablaktörlőket; trópusi záporok idején a látótávolság jelentősen csökkenhet a parti úton.",
+                "ro": "Verificați ștergătoarele înainte de plecare; vizibilitatea poate fi redusă semnificativ pe drumul de coastă în timpul averselor.",
+                "en": "Check your wipers before driving; visibility can be severely reduced on the coastal road during tropical downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Secreta",
+                "hu": "Playa Secreta",
+                "ro": "Playa Secreta",
+                "en": "Playa Secreta"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigte Zufahrt kann schlammig werden; parken Sie etwas weiter oben, falls Sie kein Allradfahrzeug haben.",
+                "hu": "A burkolatlan bekötőút sárossá válhat; ha nincs összkerékhajtású autója, érdemes kicsit feljebb parkolni.",
+                "ro": "Drumul de acces neasfaltat poate deveni noroios; dacă nu aveți tracțiune integrală, ar fi bine să parcați puțin mai sus.",
+                "en": "The unpaved access road can become muddy; if you don't have a 4WD vehicle, consider parking slightly further up."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter in Huatulco bedeutet angenehme Temperaturen für lange Ausfahrten entlang der Küste. Morgens besuchen wir das Blow Hole bei glasklarem Himmel. Mittags steuern wir verschiedene Buchten an, wobei die Klimaanlage oft ausbleiben kann. Da die Sonne gegen 17:00 Uhr untergeht, erreichen wir die entlegenen Strände am frühen Nachmittag. Der Abend bleibt mild, ideal für eine Rückfahrt unter dem klaren Sternenhimmel.",
+            "hu": "A tél Huatulcóban kellemes hőmérsékletet hoz a hosszú parti autózásokhoz. Reggel a Blow Hole-hoz látogatunk a kristálytiszta égbolt alatt. Napközben több öblöt is felkeresünk, a légkondicionálóra pedig gyakran nincs is szükség. Mivel 17:00 körül naplemente van, a távolabbi strandokat kora délután látogatjuk meg. Az este enyhe marad, tökéletes a csillagos ég alatti autózáshoz.",
+            "ro": "Iarna în Huatulco aduce temperaturi plăcute pentru plimbări lungi cu mașina pe coastă. Dimineața vizităm Blow Hole sub un cer de un albastru clar. La prânz explorăm diverse golfuri, adesea fără a fi nevoie de aer condiționat. Deoarece soarele apune în jur de ora 17:00, vizităm plajele îndepărtate devreme. Seara blândă este ideală pentru întoarcerea sub cerul înstelat.",
+            "en": "Winter in Huatulco brings pleasant temperatures for long scenic drives along the coast. Start your morning at the Blow Hole under crystal-clear skies. During the day, visit multiple bays, often without needing the AC. Since the sun sets around 5 PM, aim to reach the furthest beaches by early afternoon. The evening stays mild, perfect for a drive back under the stars."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Blow Hole",
+                "hu": "Blow Hole",
+                "ro": "Blow Hole",
+                "en": "Blow Hole"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet die beste Sicht auf die Fontänen; bringen Sie eine Sonnenbrille für das helle Morgenlicht mit.",
+                "hu": "A tiszta téli levegőben a legjobb a látótávolság; hozzon napszemüveget az erős reggeli fények ellen a Blow Hole-hoz.",
+                "ro": "Aerul clar de iarnă oferă cea mai bună vizibilitate; aduceți ochelari de soare pentru lumina puternică a dimineții la Blow Hole.",
+                "en": "The clear winter air provides the best visibility; bring sunglasses for the bright morning light reflecting off the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Fisherman's Beach",
+                "hu": "Fisherman's Beach",
+                "ro": "Fisherman's Beach",
+                "en": "Fisherman's Beach"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Parkplätze weniger belegt; ein idealer Zeitpunkt, um frischen Fisch direkt von den Booten zu kaufen.",
+                "hu": "Télen a parkolók kevésbé zsúfoltak; ez a legjobb időszak, hogy friss halat vásároljon közvetlenül a beérkező csónakoktól.",
+                "ro": "Iarna parcările sunt mai puțin aglomerate; este momentul ideal pentru a cumpăra pește proaspăt direct de la bărci.",
+                "en": "In winter, parking lots are less crowded; it is a great time to buy fresh fish directly from the local boats as they arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Chahue",
+                "hu": "Playa Chahue",
+                "ro": "Playa Chahue",
+                "en": "Playa Chahue"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Strand bei milden Temperaturen; die Wintersonne ist perfekt für lange Spaziergänge ohne Sonnenbrandgefahr.",
+                "hu": "Élvezze a tágas partot az enyhe időben; a téli napsütés ideális a hosszú sétákhoz a leégés veszélye nélkül.",
+                "ro": "Bucurați-vă de plaja vastă în condiții de temperatură blândă; soarele de iarnă este perfect pentru plimbări lungi pe nisip.",
+                "en": "Enjoy the vast beach in mild temperatures; the winter sun is perfect for long walks on the sand without the extreme heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Manzanilla",
+                "hu": "Playa Manzanilla",
+                "ro": "Playa Manzanilla",
+                "en": "Playa Manzanilla"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser ist im Winter ruhig und klar; ideal für eine Pause, um die bunte Unterwasserwelt direkt vom Ufer aus zu sehen.",
+                "hu": "A víz télen nyugodt és tiszta; ideális megálló, hogy közvetlenül a partról megcsodálja a színes vízi élővilágot.",
+                "ro": "Apa este calmă și clară iarna; este o oprire ideală pentru a admira viața marină colorată chiar de la mal.",
+                "en": "The water is calm and clear in winter; it is an ideal stop to admire the colorful marine life right from the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Tornillo",
+                "hu": "Playa Tornillo",
+                "ro": "Playa Tornillo",
+                "en": "Playa Tornillo"
+              },
+              "tip_5lang": {
+                "de": "Die Restaurants bieten im Winter oft saisonale Meeresfrüchte-Spezialitäten an; nutzen Sie die entspannte Atmosphäre für einen Lunch.",
+                "hu": "Az éttermek télen gyakran kínálnak szezonális tengeri különlegességeket; használja ki a nyugodt hangulatot egy ebédre.",
+                "ro": "Restaurantele oferă adesea specialități sezoniere de fructe de mare iarna; profitați de atmosfera relaxată pentru a lua prânzul.",
+                "en": "Restaurants often serve seasonal seafood specialties in winter; take advantage of the relaxed atmosphere for a long lunch."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Ventura",
+                "hu": "Playa Ventura",
+                "ro": "Playa Ventura",
+                "en": "Playa Ventura"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch hier bis spätestens 16:00 Uhr, um den Strand noch im vollen Sonnenlicht zu erleben.",
+                "hu": "Tervezze látogatását legkésőbb 16:00-ig, hogy még teljes napsütésben élvezhesse a partot a korai naplemente előtt.",
+                "ro": "Planificați-vă vizita până cel târziu la ora 16:00 pentru a vă bucura de plajă în plin soare înainte de apusul devreme.",
+                "en": "Plan your visit by 4 PM at the latest to enjoy the beach in full sunlight before the early winter sunset begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Secreta",
+                "hu": "Playa Secreta",
+                "ro": "Playa Secreta",
+                "en": "Playa Secreta"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie eine Taschenlampe mit, falls Sie bis zum frühen Sonnenuntergang bleiben; der Weg zurück zum Auto ist im Winter schneller dunkel.",
+                "hu": "Vigyen magával zseblámpát, ha a korai naplementéig marad; a parkolóhoz vezető út télen hamarabb sötétbe borul.",
+                "ro": "Luați o lanternă dacă rămâneți până la apusul devreme; drumul de întoarcere la mașină se întunecă mai repede iarna.",
+                "en": "Take a flashlight if you stay until sunset; the path back to the car gets dark much earlier during the winter months."
+              }
+            }
+          ]
+        }
       }
     }
   }

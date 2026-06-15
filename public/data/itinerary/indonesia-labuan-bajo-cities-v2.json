@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a központi spirituális csomópontok felfedezésével, majd keljen át a nyüzsgő városi hídon. A dél a kikötő felé viszi, ahol a gyönyörű Masjis At Taqwa várja. Délután élvezze a Marina Waterfront modern kényelmét és az óceáni szellőt, valamint a hatalmas Nurul Falaq mecsetet. Végül zárja a napot a lenyűgöző horizont megfigyelésével a naplemente hajóknál.",
         "ro": "Începeți dimineața explorând centrele spirituale centrale, descoperind Biserica Sfântul Duh înainte de a traversa podul orașului. La prânz, îndreptați-vă spre port, vizitând frumoasa Masjis At Taqwa. După-amiaza, bucurați-vă de facilitățile moderne și briza oceanului la Marina Waterfront și de Moscheea Nurul Falaq. Încheiați ziua admirând orizontul de neuitat la bărcile la apus.",
         "en": "Start your morning exploring the central spiritual hubs, discovering the Holy Spirit Church before crossing the bustling town bridge. Midday takes you towards the harbor, visiting the beautiful Masjis At Taqwa. In the afternoon, enjoy the modern amenities and ocean breeze at the Marina Waterfront and the grand Nurul Falaq Mosque. Finally, end your day watching the unforgettable horizon at the Sunset boat area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt mit warmem Tropenregen, der die Kirchenwege erfrischt, aber rutschig macht. Mittags bietet das Hafengebiet an der Marina Schutz unter Vordächern, während man das graue Meer beobachtet. Am Nachmittag sind die großen Moscheen ideale Rückzugsorte vor Schauern. Abends wirkt die Hafenpromenade im Regen mystisch, festes Schuhwerk ist für die nassen Holzstege jedoch unerlässlich.",
+            "hu": "A reggel meleg trópusi esővel indul, ami felfrissíti a levegőt, de a templom körüli utakat csúszóssá teszi. Délben a Marina vízparti fedett részei nyújtanak menedéket a záporok elől. Délután a mecsetek épületei kínálnak száraz pihenőt a séta közben. Este a kikötő fényei megcsillannak a vizes aszfalton, a hajózáshoz pedig elengedhetetlen egy jó minőségű esőkabát a szél és a víz ellen.",
+            "ro": "Dimineața începe cu o ploaie tropicală caldă care reîmprospătează aerul, dar face drumurile spre biserică alunecoase. La prânz, zonele acoperite ale marinei oferă adăpost în timp ce admirați marea. După-amiaza, moscheile mari sunt locuri ideale pentru a rămâne uscat. Seara, luminile portului se reflectă în bălți, creând o atmosferă mistică; o pelerină de ploaie este strict necesară pe barcă.",
+            "en": "The morning starts with warm tropical rain, making the paths to the church fresh but slippery. At noon, the covered sections of the Marina provide shelter while you watch the grey sea. Afternoon showers make the mosques ideal stops to stay dry and admire the architecture. In the evening, the waterfront looks mystical in the mist, but sturdy, non-slip shoes are essential for the wet piers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holy Spirit Church",
+                "hu": "Holy Spirit Church",
+                "ro": "Holy Spirit Church",
+                "en": "Holy Spirit Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte Architektur vom trockenen Innenraum aus; achten Sie auf die extrem glatten Stufen am Eingang bei Nässe.",
+                "hu": "Csodálja meg az egyszerű építészetet a száraz belső térből; vigyázzon a bejárati lépcsőkre, mert esőben rendkívül csúszósak lehetnek.",
+                "ro": "Admirați arhitectura simplă din interiorul uscat; aveți mare grijă la treptele de la intrare, care devin foarte alunecoase când sunt ude.",
+                "en": "Admire the simple architecture from the dry interior; be very careful on the entrance steps as they become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge",
+                "hu": "Bridge",
+                "ro": "Bridge",
+                "en": "Bridge"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Brücke für ein schnelles Foto des aufgewühlten Meeres; halten Sie sich am Geländer fest, da der Bodenbelag tückisch sein kann.",
+                "hu": "Használja a hidat egy gyors fotóhoz a felkavart tengerről; kapaszkodjon a korlátba, mert a burkolat trükkös lehet az esőben.",
+                "ro": "Folosiți podul pentru o fotografie rapidă a mării agitate; țineți-vă de balustradă, deoarece suprafața de mers poate fi înșelătoare.",
+                "en": "Use the bridge for a quick photo of the choppy sea; hold onto the railing as the walking surface can be treacherous in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjis At Taqwa",
+                "hu": "Masjis At Taqwa",
+                "ro": "Masjis At Taqwa",
+                "en": "Masjis At Taqwa"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um einen heftigen Schauer abzuwarten; bitte denken Sie daran, Ihre nassen Schuhe vor dem Betreten draußen zu lassen.",
+                "hu": "Békés hely egy heves zápor kivárására; ne felejtse el a vizes cipőit a bejáratnál hagyni a belső tisztaság megőrzése érdekében.",
+                "ro": "Un loc liniștit pentru a aștepta trecerea unei averse puternice; nu uitați să lăsați încălțămintea udă la intrare înainte de a păși înăuntru.",
+                "en": "A peaceful place to wait out a heavy downpour; remember to leave your wet shoes at the entrance to keep the interior dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kawasan Marina Waterfront Labuan Bajo",
+                "hu": "Kawasan Marina Waterfront Labuan Bajo",
+                "ro": "Kawasan Marina Waterfront Labuan Bajo",
+                "en": "Kawasan Marina Waterfront Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie unter den überdachten Promenadenteilen; meiden Sie die ungeschützten Kanten, da der Wind den Regen peitschen kann.",
+                "hu": "Sétáljon a sétány fedett részei alatt; kerülje a széleket, mert az erős szél könnyen behordhatja az esőt a nyitott részekre.",
+                "ro": "Plimbați-vă pe sub secțiunile acoperite ale promenadei; evitați marginile expuse, deoarece vântul poate sufla ploaia spre interior.",
+                "en": "Walk under the covered sections of the promenade; avoid the exposed edges as the wind can whip the rain inward unexpectedly."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "hu": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "ro": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "en": "Masjid Agung Nurul Falaq Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Die große Kuppel bietet einen majestätischen Anblick im Regen; nutzen Sie die Arkadengänge, um zwischen den Gebäudeteilen zu wechseln.",
+                "hu": "A nagy kupola fenséges látványt nyújt az esőben; használja az árkádos folyosókat a közlekedéshez, hogy szárazon maradjon az épületek közt.",
+                "ro": "Marea cupolă oferă o priveliște maiestuoasă în ploaie; folosiți coridoarele cu arcade pentru a vă deplasa între secțiunile clădirii.",
+                "en": "The grand dome offers a majestic sight in the rain; use the arched walkways to move between building sections and stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset boat",
+                "hu": "Sunset boat",
+                "ro": "Sunset boat",
+                "en": "Sunset boat"
+              },
+              "tip_5lang": {
+                "de": "Die Boote haben oft überdachte Decks, aber bringen Sie eine wasserdichte Tasche für Ihre Elektronik mit, da Spritzwasser unvermeidlich ist.",
+                "hu": "A hajók gyakran fedettek, de hozzon vízhatlan táskát az elektronikának, mert a felcsapó víz és a pára beszivároghat bárhová.",
+                "ro": "Bărcile au adesea punți acoperite, dar aduceți o geantă impermeabilă pentru electronice, deoarece stropii de apă sunt inevitabili.",
+                "en": "Boats often have covered decks, but bring a waterproof bag for electronics as sea spray and humidity are inevitable in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Vormittag bringt eine angenehm kühle Brise, ideal für den Fußweg zur Kirche. Mittags steht die Sonne tief, was die Marina in ein sanftes Licht taucht. Da der Sonnenuntergang bereits gegen 17:00 Uhr einsetzt, muss der Nachmittag effizient genutzt werden. Abends kühlt es am Wasser spürbar ab, weshalb eine leichte Jacke für die Bootsfahrt im frühen Zwielicht empfohlen wird.",
+            "hu": "A reggel frissítő szellőt hoz, ami ideális a templomhoz vezető gyalogúthoz. Délben a nap alacsonyabb szöge lágyabb fénybe vonja a Marina környékét. Mivel a naplemente már 17:00 körül bekövetkezik, a délutánt jól be kell osztani. Este a vízparton érezhetően lehűl a levegő, így a korai szürkületben induló hajózáshoz egy vékony pulóver ajánlott.",
+            "ro": "Dimineața aduce o briză răcoritoare, perfectă pentru plimbarea spre biserică. La prânz, unghiul soarelui scaldă marina într-o lumină blândă. Deoarece apusul are loc deja în jurul orei 17:00, după-amiaza trebuie planificată eficient. Seara se răcește vizibil lângă apă, deci o jachetă subțire este recomandată pentru plimbarea cu barca.",
+            "en": "The morning brings a refreshing breeze, ideal for the walk to the church. At noon, the low winter sun bathes the Marina in soft light. Since sunset occurs early around 17:00, the afternoon schedule must be tight. In the evening, it cools down noticeably near the water, so a light jacket is recommended for the early twilight boat trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Holy Spirit Church",
+                "hu": "Holy Spirit Church",
+                "ro": "Holy Spirit Church",
+                "en": "Holy Spirit Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Morgenluft auf dem Vorplatz; die winterliche Sonne ist weniger intensiv, perfekt für Fotos der Fassade.",
+                "hu": "Élvezze a hűvös reggeli levegőt a téren; a téli nap kevésbé éget, így tökéletes az idő a homlokzat részletes fotózásához.",
+                "ro": "Bucurați-vă de aerul răcoros de dimineață din fața bisericii; soarele de iarnă este mai puțin intens, ideal pentru fotografii.",
+                "en": "Enjoy the cool morning air in the courtyard; the winter sun is less intense, making it perfect for photographing the facade."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge",
+                "hu": "Bridge",
+                "ro": "Bridge",
+                "en": "Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke bietet im Winter eine klare Sicht auf die Inseln; der Wind kann hier stärker wehen, halten Sie Ihren Hut gut fest.",
+                "hu": "A híd télen tiszta kilátást nyújt a távoli szigetekre; a szél itt erősebb lehet, fogja meg jól a kalapját séta közben.",
+                "ro": "Podul oferă o vedere clară asupra insulelor în timpul iernii; vântul poate fi mai puternic aici, asigurați-vă pălăria bine.",
+                "en": "The bridge offers clear views of the islands in winter; the wind can be stronger here, so hold onto your hat while crossing."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjis At Taqwa",
+                "hu": "Masjis At Taqwa",
+                "ro": "Masjis At Taqwa",
+                "en": "Masjis At Taqwa"
+              },
+              "tip_5lang": {
+                "de": "Mittags ist es im Inneren angenehm temperiert; nutzen Sie die Ruhe für eine Pause, bevor die frühe Dämmerung einsetzt.",
+                "hu": "Délben a belső tér hőmérséklete nagyon kellemes; használja ki a csendet egy rövid pihenőre, mielőtt a korai szürkület beállna.",
+                "ro": "La prânz, temperatura din interior este foarte plăcută; profitați de liniște pentru o pauză înainte de amurgul timpuriu.",
+                "en": "At noon, the temperature inside is very pleasant; use the quiet atmosphere for a break before the early twilight begins."
+              }
+            },
+            {
+              "name": {
+                "de": "Kawasan Marina Waterfront Labuan Bajo",
+                "hu": "Kawasan Marina Waterfront Labuan Bajo",
+                "ro": "Kawasan Marina Waterfront Labuan Bajo",
+                "en": "Kawasan Marina Waterfront Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne erzeugt wunderschöne lange Schatten auf der Promenade; ideal für goldene Stunden Fotos schon ab 15:30 Uhr.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a sétányon; ideális hely a „golden hour” fotókhoz már délután fél négytől.",
+                "ro": "Soarele jos creează umbre lungi și frumoase pe promenadă; locul este ideal pentru fotografii în ora de aur încă de la 15:30.",
+                "en": "The low sun creates beautiful long shadows on the promenade; it's an ideal spot for golden hour photos as early as 15:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "hu": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "ro": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "en": "Masjid Agung Nurul Falaq Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie sich das warme Licht des späten Nachmittags auf den weißen Wänden bricht; die kühle Brise macht den Aufenthalt im Freien angenehm.",
+                "hu": "Figyelje meg, ahogy a késő délutáni meleg fény megtörik a fehér falakon; a hűvös szellő kellemessé teszi a kinti tartózkodást.",
+                "ro": "Observați cum lumina caldă de după-amiază se reflectă pe pereții albi; briza răcoroasă face șederea afară foarte plăcută.",
+                "en": "Watch how the warm late afternoon light reflects off the white walls; the cool breeze makes staying outdoors very comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset boat",
+                "hu": "Sunset boat",
+                "ro": "Sunset boat",
+                "en": "Sunset boat"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie unbedingt vor 17:00 Uhr an Bord; der Winterhimmel verfärbt sich schnell und die Temperatur fällt nach dem Untergang rasch.",
+                "hu": "Mindenképpen legyen a fedélzeten 17:00 előtt; a téli égbolt gyorsan színeződik, és naplemente után hirtelen lehűl a levegő.",
+                "ro": "Asigurați-vă că sunteți la bord înainte de ora 17:00; cerul de iarnă se colorează rapid, iar temperatura scade brusc după apus.",
+                "en": "Make sure to be on board before 17:00; the winter sky colors quickly and the temperature drops sharply right after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a kerékpártúrát a pezsgő Pasar Baru piacon, magába szívva a friss reggeli energiákat. A dél kulturális keveredést hoz, ahogy a Szentlélek templom és a modern Marina Waterfront felé teker. A délutánt a Stella Maris templom és a nyüzsgő Pasar Raya piac felfedezésével töltheti. Zárja aktív napját a természetes naplemente kilátópontról nyíló csodálatos panorámával.",
         "ro": "Începeți turul cu bicicleta la piața vibrantă Pasar Baru, respirând energia proaspătă a dimineții. Prânzul aduce un amestec cultural, trecând pe lângă Biserica Sfântul Duh și moderna Marina Waterfront. Petreceți după-amiaza pedalând către Biserica Stella Maris și aglomerata piață Pasar Raya. Încheiați-vă ziua activă cu o priveliște magnifică la punctul de belvedere natural pentru apus.",
         "en": "Kick off your cycling tour at the vibrant Pasar Baru market, breathing in the fresh morning energy. Midday brings a cultural blend, riding past the Holy Spirit Church, the central bridge, and the sleek Marina Waterfront. Spend your afternoon pedaling to the Stella Maris Church and the bustling Pasar Raya. Conclude your active day with a magnificent view at the natural sunset viewpoint."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Märkten, wo der Boden matschig sein kann. Mittags sind die Brückenwege glatt, langsames Fahren ist hier Pflicht. Nachmittags bieten die Gebäude an der Marina einen trockenen Stellplatz für das Rad während einer Pause. Abends erschweren Regen und Gischt die Sicht im Hafen, weshalb eine gute Beleuchtung am Fahrrad entscheidend ist.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a piacokon, ahol a talaj sárossá válhat. Délben a híd burkolata csúszós, itt a lassú tempó kötelező. Délután a Marina épületei biztonságos, fedett helyet kínálnak a bicikli leállításához egy rövid pihenőre. Este az eső és a pára rontja a látási viszonyokat a kikötőben, ezért a jó világítás életmentő lehet.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență în piețe, unde solul devine noroios. La prânz, suprafața podului este alunecoasă, deci viteza redusă este obligatorie. După-amiaza, clădirile din marină oferă un loc uscat pentru a parca bicicleta. Seara, ploaia și vaporii reduc vizibilitatea în port, așa că iluminarea bună a bicicletei este crucială.",
+            "en": "Cycling in the rain requires caution at the markets where the ground can become muddy. At noon, the bridge surface is slick, so slow speed is mandatory. In the afternoon, the Marina buildings offer a dry spot to park your bike during a break. In the evening, rain and mist reduce visibility in the harbor, making good bike lights absolutely essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Baru",
+                "hu": "Pasar Baru",
+                "ro": "Pasar Baru",
+                "en": "Pasar Baru"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem festen Untergrund; der Marktplatz kann bei Regen schnell aufweichen und matschig werden.",
+                "hu": "Parkolja a kerékpárt szilárd burkolaton; a piaci terület esőben gyorsan felázhat és sárossá válhat, ami nehezíti az elindulást.",
+                "ro": "Parcați bicicleta pe o suprafață solidă; zona pieței se poate înmuia rapid și poate deveni noroioasă din cauza ploii.",
+                "en": "Park your bike on a solid surface; the market area can quickly become soft and muddy in the rain, making it hard to restart."
+              }
+            },
+            {
+              "name": {
+                "de": "Holy Spirit Church",
+                "hu": "Holy Spirit Church",
+                "ro": "Holy Spirit Church",
+                "en": "Holy Spirit Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen überdachten Platz für Ihr Rad; nutzen Sie die Zeit in der Kirche, um Ihre Regenbekleidung zu ordnen.",
+                "hu": "Keressen fedett helyet a biciklinek; használja a templomban töltött időt az esőruházat megigazítására és a pihenésre.",
+                "ro": "Căutați un loc acoperit pentru bicicletă; folosiți timpul petrecut în biserică pentru a vă aranja echipamentul de ploaie.",
+                "en": "Find a covered spot for your bike; use your time inside the church to adjust your rain gear and take a dry break."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge",
+                "hu": "Bridge",
+                "ro": "Bridge",
+                "en": "Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie extrem vorsichtig über die Fugen der Brücke; bei Nässe verlieren Reifen hier leicht die Bodenhaftung.",
+                "hu": "Fokozott óvatossággal haladjon át a híd illesztésein; vizes úton a gumik itt könnyen megcsúszhatnak, ne fékezzen hirtelen.",
+                "ro": "Traversați cu extremă prudență îmbinările podului; pe carosabil ud, anvelopele pot pierde ușor aderența în aceste puncte.",
+                "en": "Cross the bridge joints with extreme caution; tires easily lose traction here when wet, so avoid sudden braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Kawasan Marina Waterfront Labuan Bajo",
+                "hu": "Kawasan Marina Waterfront Labuan Bajo",
+                "ro": "Kawasan Marina Waterfront Labuan Bajo",
+                "en": "Kawasan Marina Waterfront Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die glatten Betonflächen der Marina nicht zum schnellen Fahren; der dünne Wasserfilm wirkt wie Schmierseife.",
+                "hu": "Ne hajtson gyorsan a Marina sima betonfelületein; a vékony vízréteg ilyenkor úgy csúszik, mint a kenőszappan.",
+                "ro": "Nu mergeți cu viteză pe suprafețele de beton neted ale marinei; pelicula subțire de apă le face extrem de alunecoase.",
+                "en": "Do not cycle fast on the smooth concrete surfaces of the Marina; the thin film of water acts like soap, making it very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Stella Maris Catolic",
+                "hu": "Stella Maris Catolic",
+                "ro": "Stella Maris Catolic",
+                "en": "Stella Maris Catolic"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Weiterfahrt Ihre Bremsen; der Regen kann die Bremswirkung bei Felgenbremsen deutlich verzögern.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; az eső jelentősen meghosszabbíthatja a féktávot, különösen a hagyományos felnifékeknél.",
+                "ro": "Verificați frânele înainte de a pleca; ploaia poate întârzia semnificativ eficiența frânării, mai ales la frânele pe jantă.",
+                "en": "Check your brakes before moving on; rain can significantly delay braking response, especially with standard rim brakes."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Raya",
+                "hu": "Pasar Raya",
+                "ro": "Pasar Raya",
+                "en": "Pasar Raya"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten; auf dem Marktgelände steht das Wasser oft hoch.",
+                "hu": "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek; a piaci területen az esővíz gyakran megáll a mélyedésekben.",
+                "ro": "Atenție la bălțile care pot ascunde gropi adânci; în zona pieței, apa se acumulează adesea în denivelările solului.",
+                "en": "Watch out for puddles that might hide deep potholes; water often accumulates in hollows around the market area."
+              }
+            },
+            {
+              "name": {
+                "de": "sunset",
+                "hu": "sunset",
+                "ro": "sunset",
+                "en": "sunset"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Aussichtspunkt kann schlammig sein; stellen Sie sicher, dass Ihre Reifen genug Profil für den nassen Anstieg haben.",
+                "hu": "A kilátóhoz vezető út saras lehet; győződjön meg róla, hogy a gumiabroncsok mintázata megfelelő a vizes emelkedőhöz.",
+                "ro": "Drumul spre punctul de observație poate fi noroios; asigurați-vă că anvelopele au profil adecvat pentru urcarea pe ud.",
+                "en": "The path to the viewpoint can be muddy; ensure your bike tires have enough tread for a safe climb on wet surfaces."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist perfekt für eine Radtour, da die kühle Luft die Anstrengung mindert. Mittags brennt die Sonne nicht so heiß, was die Fahrt zwischen den Märkten sehr angenehm macht. Da es bereits um 17:00 Uhr dunkel wird, sollte man den Nachmittag für die längeren Strecken nutzen. Abends wird die Fahrtwindkühlung am Wasser stark, ein leichter Windstopper ist hier Gold wert.",
+            "hu": "A téli reggel tökéletes a biciklizéshez, mert a hűvös levegő csökkenti a fizikai megterhelést. Délben a nap nem éget annyira, így a piacok közötti tekerés rendkívül kellemes. Mivel 17:00-kor sötétedik, a délutánt a hosszabb szakaszokra érdemes hagyni. Este a vízparton a menetszél felerősíti a hűvöset, egy könnyű szélkabát sokat érhet.",
+            "ro": "Dimineața de iarnă este perfectă pentru ciclism, deoarece aerul răcoros reduce efortul fizic. La prânz, soarele nu arde atât de tare, făcând plimbarea între piețe foarte plăcută. Deoarece se întunecă la ora 17:00, planificați segmentele lungi pentru după-amiază. Seara, briza de lângă apă devine rece, deci o jachetă subțire este utilă.",
+            "en": "The winter morning is perfect for cycling as the cool air reduces physical strain. At noon, the sun isn't as scorching, making the ride between markets very pleasant. Since it gets dark by 17:00, use the afternoon for longer distances. In the evening, the wind chill near the water increases, so a light windbreaker is a great asset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Baru",
+                "hu": "Pasar Baru",
+                "ro": "Pasar Baru",
+                "en": "Pasar Baru"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Morgenstunden für den ersten Stopp; die Händler sind aktiv und die Hitze ist noch kein Hindernis.",
+                "hu": "Használja ki a hűvös reggeli órákat az első megállóra; az árusok ilyenkor a legaktívabbak, és a hőség még nem akadály.",
+                "ro": "Profitați de orele răcoroase ale dimineții pentru prima oprire; comercianții sunt activi, iar căldura nu este încă o problemă.",
+                "en": "Take advantage of the cool morning hours for your first stop; vendors are active and the heat isn't an issue yet."
+              }
+            },
+            {
+              "name": {
+                "de": "Holy Spirit Church",
+                "hu": "Holy Spirit Church",
+                "ro": "Holy Spirit Church",
+                "en": "Holy Spirit Church"
+              },
+              "tip_5lang": {
+                "de": "Ein schattiger Parkplatz für Ihr Rad ist im Winter weniger kritisch, aber dennoch ratsam für eine angenehme Weiterfahrt.",
+                "hu": "A kerékpár árnyékos parkolása télen kevésbé kritikus, de mégis ajánlott, hogy a nyereg ne forrósodjon fel a továbbinduláshoz.",
+                "ro": "Parcarea bicicletei la umbră este mai puțin critică iarna, dar totuși recomandată pentru a păstra șaua la o temperatură optimă.",
+                "en": "Parking your bike in the shade is less critical in winter but still advisable to keep the saddle cool for your next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Bridge",
+                "hu": "Bridge",
+                "ro": "Bridge",
+                "en": "Bridge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den frischen Wind auf der Brücke; die Fernsicht auf das Komodo-Archipel ist im Winter oft am besten.",
+                "hu": "Élvezze a friss szelet a hídon; a kilátás a Komodo-szigetekre télen a legtisztább a páramentesebb levegő miatt.",
+                "ro": "Bucurați-vă de vântul proaspăt de pe pod; vizibilitatea spre arhipelagul Komodo este adesea cea mai bună în timpul iernii.",
+                "en": "Enjoy the fresh breeze on the bridge; the distant views of the Komodo archipelago are often clearest during the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kawasan Marina Waterfront Labuan Bajo",
+                "hu": "Kawasan Marina Waterfront Labuan Bajo",
+                "ro": "Kawasan Marina Waterfront Labuan Bajo",
+                "en": "Kawasan Marina Waterfront Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie entspannt an der Marina entlang; die winterliche Nachmittagssonne bietet perfektes Licht für Selfies mit dem Rad.",
+                "hu": "Tekerjen kényelmesen a Marina mentén; a téli délutáni nap tökéletes fényt ad a biciklis szelfikhez a kikötő előtt.",
+                "ro": "Pedalați relaxat de-a lungul marinei; soarele de iarnă de după-amiază oferă lumina perfectă pentru poze cu bicicleta.",
+                "en": "Cycle leisurely along the Marina; the winter afternoon sun provides perfect lighting for selfies with your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Stella Maris Catolic",
+                "hu": "Stella Maris Catolic",
+                "ro": "Stella Maris Catolic",
+                "en": "Stella Maris Catolic"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Trinkpause im Schatten der Kirche; auch wenn es kühler scheint, ist Flüssigkeitszufuhr beim Radeln wichtig.",
+                "hu": "Tartson egy rövid frissítő szünetet a templom árnyékában; bár hűvösebbnek tűnik az idő, a hidratálás tekerés közben fontos.",
+                "ro": "Faceți o scurtă pauză de hidratare la umbra bisericii; deși pare mai răcoare, hidratarea este esențială în timpul ciclismului.",
+                "en": "Take a short hydration break in the shade of the church; even if it feels cooler, staying hydrated while cycling is vital."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Raya",
+                "hu": "Pasar Raya",
+                "ro": "Pasar Raya",
+                "en": "Pasar Raya"
+              },
+              "tip_5lang": {
+                "de": "Besorgen Sie sich lokale Snacks für den bevorstehenden Sonnenuntergang; der Markt ist im Winter am späten Nachmittag sehr lebendig.",
+                "hu": "Vásároljon helyi csemegéket a közelgő naplementéhez; a piac télen késő délután is nagyon vibráló és élettel teli.",
+                "ro": "Cumpărați gustări locale pentru apusul ce urmează; piața este foarte animată și plină de viață după-amiaza târziu.",
+                "en": "Pick up some local snacks for the upcoming sunset; the market is very vibrant and lively in the late winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "sunset",
+                "hu": "sunset",
+                "ro": "sunset",
+                "en": "sunset"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie spätestens um 16:45 Uhr an; die Farben am Winterhimmel verblassen nach 17:15 Uhr sehr schnell zur Dunkelheit.",
+                "hu": "Érkezzen meg legkésőbb 16:45-re; a téli égbolt színei 17:15 után nagyon gyorsan átadják helyüket a sötétségnek.",
+                "ro": "Arribați la ora 16:45 cel târziu; culorile cerului de iarnă se sting foarte repede după ora 17:15, lăsând loc întunericului.",
+                "en": "Arrive by 16:45 at the latest; the winter sky colors fade very quickly into darkness after 17:15, so don't be late."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Kényelmes autózása a Pasar Baru és a központi Szentlélek templom helyi életének felfedezésével kezdődik. Délben Wae Kesambi felé veszi az irányt, majd megvizsgálja a Pasar Raya piac forgatagát. A délután sima utazást kínál a part mentén, megcsodálva a Nurul Falaq mecsetet és a sétányt. Fejezze be utazását egy kellemes pihenéssel az ikonikus naplemente hajók közelében.",
         "ro": "Călătoria confortabilă începe cu o incursiune în viața locală la Pasar Baru și la Biserica centrală Sfântul Duh. În jurul prânzului, conduceți spre Wae Kesambi și explorați tarabele aglomerate din Pasar Raya. După-amiaza oferă o plimbare lină de-a lungul coastei, admirând maiestuoasa Moschee Nurul Falaq. Încheiați-vă călătoria relaxându-vă lângă bărcile emblematice de la apus.",
         "en": "Your comfortable drive begins with a dive into local life at Pasar Baru and the central Holy Spirit Church. Around midday, cruise out to Wae Kesambi to visit the local parish and explore the bustling stalls of Pasar Raya. The afternoon offers a smooth ride along the coast, marveling at the majestic Nurul Falaq Mosque and the waterfront. End your journey relaxing near the iconic Sunset boats."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man ideal vor den tropischen Güssen geschützt, während man komfortabel zwischen den Kirchen und Märkten wechselt. Mittags lässt sich der Regen an der Marina gemütlich aus dem Fenster beobachten. Nachmittags sind die Fahrten durch die Pfützen von Labuan Bajo ein kleines Abenteuer. Abends ist der Transfer zum Boot trocken, auch wenn die See draußen rau sein kann.",
+            "hu": "Az autóval való közlekedés tökéletes védelmet nyújt a trópusi felhőszakadások ellen a templomok és piacok közötti úton. Délben a Marina látványa a lehúzott ablak mellett is élvezhető a száraz utastérből. Délután a városi víztócsákon való átkelés izgalmas kaland a biztonságos kocsiban. Este a kikötőbe való száraz megérkezés garantált, még ha a tenger odakint hullámos is.",
+            "ro": "Mașina oferă protecție perfectă împotriva averselor tropicale în timp ce vă deplasați confortabil între biserici și piețe. La prânz, puteți admira ploaia din marină direct din fereastra mașinii. După-amiaza, condusul prin bălțile din oraș este o mică aventură. Seara, transferul la barcă este uscat, chiar dacă marea poate fi agitată în larg.",
+            "en": "Traveling by car provides perfect protection from tropical downpours while moving comfortably between churches and markets. At noon, you can enjoy the view of the rainy Marina from the dry interior of the vehicle. In the afternoon, driving through the city's puddles is a small adventure in safety. In the evening, a dry transfer to the harbor is guaranteed, even if the sea is rough."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Baru",
+                "hu": "Pasar Baru",
+                "ro": "Pasar Baru",
+                "en": "Pasar Baru"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich so nah wie möglich am Eingang absetzen; die Wege auf dem Markt können bei Regen unter Wasser stehen.",
+                "hu": "Kérje meg a sofőrt, hogy a lehető legközelebb tegye le a bejárathoz; a piaci utak esőben hamar víz alá kerülhetnek.",
+                "ro": "Rugați șoferul să vă lase cât mai aproape de intrare; căile de acces din piață pot fi inundate rapid în timpul ploii.",
+                "en": "Ask the driver to drop you off as close to the entrance as possible; market paths can quickly flood during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Holy Spirit Church",
+                "hu": "Holy Spirit Church",
+                "ro": "Holy Spirit Church",
+                "en": "Holy Spirit Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Moment zwischen zwei Schauern für den kurzen Weg vom Auto zur Kirche; die Stufen sind bei Nässe glatt.",
+                "hu": "Várja meg a két zápor közötti szünetet az autó és a templom közötti rövid úthoz; a lépcsők vizesen nagyon csúsznak.",
+                "ro": "Așteptați o pauză între averse pentru scurtul drum de la mașină la biserică; treptele sunt foarte alunecoase când sunt ude.",
+                "en": "Wait for a break between showers for the short walk from the car to the church; the steps are quite slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi",
+                "hu": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi",
+                "ro": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi",
+                "en": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher bietet tolle Ausblicke auf die verregneten Hügel; halten Sie Ihre Kamera bereit für dramatische Wolkenformationen.",
+                "hu": "Az idevezető út csodás kilátást nyújt az esőáztatta dombokra; tartsa készenlétben a kamerát a drámai felhőalakzatokhoz.",
+                "ro": "Drumul până aici oferă vederi minunate asupra dealurilor plouate; pregătiți camera pentru formațiunile dramatice de nori.",
+                "en": "The drive here offers great views of the rainy hills; keep your camera ready for the dramatic cloud formations over the landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Raya",
+                "hu": "Pasar Raya",
+                "ro": "Pasar Raya",
+                "en": "Pasar Raya"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Einkäufe direkt im Kofferraum verstauen, um sie vor der hohen Luftfeuchtigkeit und dem Regen zu schützen.",
+                "hu": "Kérje meg a sofőrt, hogy a vásárolt holmikat azonnal tegye a csomagtartóba, hogy megvédje azokat a párától és az esőtől.",
+                "ro": "Puneți cumpărăturile direct în portbagaj pentru a le proteja de umiditatea ridicată și de ploaia de afară.",
+                "en": "Have your purchases placed directly in the trunk to protect them from the high humidity and rain during the transfer."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "hu": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "ro": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "en": "Masjid Agung Nurul Falaq Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee ist ein markanter Orientierungspunkt im Nebel; bitten Sie den Fahrer, auf der Straßenseite zum Eingang zu parken.",
+                "hu": "A mecset markáns tájékozódási pont a ködben; kérje a sofőrt, hogy a bejárathoz legközelebbi oldalon álljon meg a kiszálláshoz.",
+                "ro": "Moscheea este un punct de reper clar în ceață; rugați șoferul să oprească pe partea drumului cea mai apropiată de intrare.",
+                "en": "The mosque is a prominent landmark in the mist; ask the driver to pull over on the side closest to the main entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Kawasan Marina Waterfront Labuan Bajo",
+                "hu": "Kawasan Marina Waterfront Labuan Bajo",
+                "ro": "Kawasan Marina Waterfront Labuan Bajo",
+                "en": "Kawasan Marina Waterfront Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang unter dem Regenschirm lohnt sich für die Hafenatmosphäre; das Auto wartet am vereinbarten Treffpunkt im Trockenen.",
+                "hu": "Egy rövid séta esernyővel megéri a kikötői hangulat miatt; az autó a megbeszélt helyen várja majd Önt a száraz pihenőhöz.",
+                "ro": "O scurtă plimbare cu umbrela merită pentru atmosfera portului; mașina vă va aștepta la locul stabilit pentru un transfer uscat.",
+                "en": "A short walk with an umbrella is worth it for the harbor atmosphere; the car will be waiting for you at the agreed spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset boat",
+                "hu": "Sunset boat",
+                "ro": "Sunset boat",
+                "en": "Sunset boat"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich direkt am Pier absetzen, um nasse Füße zu vermeiden; prüfen Sie die Wettervorhersage für die Wellenhöhe vorab.",
+                "hu": "Szálljon ki közvetlenül a mólónál, hogy elkerülje a vizes lábakat; előtte ellenőrizze a hullámzás mértékét az időjárásjelentésben.",
+                "ro": "Coboară direct la debarcader pentru a evita picioarele ude; verifică prognoza pentru înălțimea valurilor înainte de plecare.",
+                "en": "Get dropped off right at the pier to avoid wet feet; check the weather forecast for wave height before boarding the boat."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt durch Labuan Bajo ist dank der milden Temperaturen und klaren Luft besonders aussichtsreich. Mittags ist die Klimaanlage weniger gefordert, was die Fahrt zwischen den Kirchen sehr entspannt macht. Da die Dämmerung früh um 17:00 Uhr einsetzt, sind die Transfers am Nachmittag kurz zu halten. Abends ist der warme Innenraum des Wagens nach dem frühen Sonnenuntergang am Wasser sehr willkommen.",
+            "hu": "A téli autózás Labuan Bajo környékén a kellemes hőmérséklet és a tiszta levegő miatt rendkívül látványos. Délben a klímaberendezés kevésbé terhelt, így a templomok közötti út pihentető. Mivel a szürkület korán, 17:00-kor kezdődik, a délutáni utakat érdemes röviden tartani. Este az autó meleg utastere nagyon hívogató lesz a korai naplemente után a vízparton.",
+            "ro": "Condusul prin Labuan Bajo iarna este spectaculos datorită temperaturilor blânde și aerului curat. La prânz, aerul condiționat este mai puțin solicitat, făcând drumul între biserici relaxant. Deoarece amurgul începe devreme la ora 17:00, planificați călătoriile scurte pentru după-amiază. Seara, interiorul cald al mașinii este binevenit după apusul de pe malul mării.",
+            "en": "Driving through Labuan Bajo in winter is spectacular due to mild temperatures and clear air. At noon, the AC is less strained, making the journey between churches very relaxing. Since twilight starts early at 17:00, afternoon transfers should be kept brief. In the evening, the warm interior of the car is very welcome after the early sunset by the water."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pasar Baru",
+                "hu": "Pasar Baru",
+                "ro": "Pasar Baru",
+                "en": "Pasar Baru"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die beste Auswahl auf dem Markt zu haben; die kühle Morgenbrise ist ideal für einen ersten Rundgang.",
+                "hu": "Induljon korán, hogy a legjobb választékot találja a piacon; a hűvös reggeli szellő ideális az első felfedező körhöz.",
+                "ro": "Porniți devreme pentru a avea cea mai bună selecție în piață; briza răcoroasă de dimineață este ideală pentru prima explorare.",
+                "en": "Start early to find the best selection at the market; the cool morning breeze is ideal for your first exploratory walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Holy Spirit Church",
+                "hu": "Holy Spirit Church",
+                "ro": "Holy Spirit Church",
+                "en": "Holy Spirit Church"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Sonne beleuchtet die Fassade am Vormittag perfekt; nutzen Sie die Zeit für klare, scharfe Architekturaufnahmen.",
+                "hu": "A téli nap délelőtt tökéletesen világítja meg a homlokzatot; használja ki az időt éles és tiszta építészeti fotók készítésére.",
+                "ro": "Soarele de iarnă luminează perfect fațada dimineața; profitați de moment pentru fotografii de arhitectură clare și detaliate.",
+                "en": "The winter sun illuminates the facade perfectly in the morning; take advantage of the light for sharp architectural photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi",
+                "hu": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi",
+                "ro": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi",
+                "en": "Gereja Maria Bunda Segala Bangsa, Wae Kesambi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch die grüne Hügellandschaft; die Sichtweite ist im Winter oft außergewöhnlich gut.",
+                "hu": "Élvezze az autózást a zöldellő dombok között; a látótávolság télen gyakran rendkívüli a páramentesebb levegőnek köszönhetően.",
+                "ro": "Bucurați-vă de drumul printre dealurile verzi; vizibilitatea este adesea extraordinară iarna datorită aerului mai uscat.",
+                "en": "Enjoy the drive through the lush green hills; visibility is often exceptional in winter thanks to the clearer and drier air."
+              }
+            },
+            {
+              "name": {
+                "de": "Pasar Raya",
+                "hu": "Pasar Raya",
+                "ro": "Pasar Raya",
+                "en": "Pasar Raya"
+              },
+              "tip_5lang": {
+                "de": "Der Markt ist am Nachmittag lebhaft, aber kühler als im Sommer; ein idealer Zeitpunkt, um ohne Hitzegefahr zu bummeln.",
+                "hu": "A piac délután is élénk, de hűvösebb, mint nyáron; ideális időpont a nézelődésre a hőguta veszélye nélkül.",
+                "ro": "Piața este animată după-amiaza, dar mai răcoroasă decât vara; este momentul ideal pentru plimbări fără riscul de supraîncălzire.",
+                "en": "The market is lively in the afternoon but cooler than in summer; it's an ideal time to browse without the risk of overheating."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "hu": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "ro": "Masjid Agung Nurul Falaq Labuan Bajo",
+                "en": "Masjid Agung Nurul Falaq Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Licht der Wintersonne lässt die weiße Moschee strahlen; ideal für Fotos kurz vor der einsetzenden frühen Dämmerung.",
+                "hu": "A téli nap lágy fénye ragyogóvá teszi a fehér mecsetet; tökéletes helyszín a fotózáshoz közvetlenül a korai szürkület előtt.",
+                "ro": "Lumina blândă a soarelui de iarnă face moscheea albă să strălucească; este locul ideal pentru poze înainte de amurg.",
+                "en": "The soft winter sun makes the white mosque glow; it's a perfect spot for photography just before the early twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Kawasan Marina Waterfront Labuan Bajo",
+                "hu": "Kawasan Marina Waterfront Labuan Bajo",
+                "ro": "Kawasan Marina Waterfront Labuan Bajo",
+                "en": "Kawasan Marina Waterfront Labuan Bajo"
+              },
+              "tip_5lang": {
+                "de": "Die Marina ist im Winter ein beliebter Ort für den frühen Sonnenuntergang; lassen Sie sich rechtzeitig am Haupteingang absetzen.",
+                "hu": "A Marina télen népszerű hely a korai naplemente megtekintéséhez; kérje meg a sofőrt, hogy időben tegye le a főbejáratnál.",
+                "ro": "Marina este un loc popular iarna pentru a vedea apusul timpuriu; rugați șoferul să vă lase la intrarea principală din timp.",
+                "en": "The Marina is a popular spot in winter for the early sunset; ask your driver to drop you off at the main entrance in good time."
+              }
+            },
+            {
+              "name": {
+                "de": "Sunset boat",
+                "hu": "Sunset boat",
+                "ro": "Sunset boat",
+                "en": "Sunset boat"
+              },
+              "tip_5lang": {
+                "de": "Denken Sie an eine Jacke für den Rückweg nach Sonnenuntergang; die Temperaturen auf dem Wasser sinken im Winter nach 17:30 Uhr merklich.",
+                "hu": "Készítsen be egy kabátot a naplemente utáni útra; a víz felett a hőmérséklet télen 17:30 után érezhetően csökkenni kezd.",
+                "ro": "Pregătiți o jachetă pentru drumul de după apus; temperatura deasupra apei scade vizibil iarna după ora 17:30.",
+                "en": "Prepare a jacket for the return trip after sunset; the temperature over the water drops noticeably in winter after 17:30."
+              }
+            }
+          ]
+        }
       }
     }
   }

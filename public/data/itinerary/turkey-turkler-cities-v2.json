@@ -160,6 +160,196 @@
         "hu": "A reggel az Ismeretlen Rom történelmi maradványai közötti sétával indul, csendes bepillantást nyújtva a múltba. Ezután a színes Türkler Yıldız Lunaparkba indulunk, ahol nosztalgikus pillanatok és izgalmas játékok várnak ránk.",
         "ro": "Dimineața începe cu o plimbare printre vestigiile istorice ale Ruinei Necunoscute, oferind o priveliște tăcută a trecutului. Apoi ne îndreptăm spre Türkler Yıldız Lunapark, plin de culoare, pentru a ne bucura de momente nostalgice și atracții palpitante.",
         "en": "Morning starts with a walk through the historical remnants of the Unknown Ruin, offering a quiet glimpse into the past before the town wakes up. We then move on to enjoy nostalgic moments and thrilling rides at the colorful Türkler Yıldız Lunapark."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen mit festem Schuhwerk bei den Ruinen. Spazieren Sie mittags mit Regenschirm an den Freizeitparks vorbei und suchen Sie überdachte Bereiche. Am Nachmittag bieten die Aquaparks dramatische Küstenausblicke. Beenden Sie den Tag im Regen bei SeAlanya.",
+            "hu": "Kezdd az esős reggelt a romoknál vízálló cipőben. Délben esernyővel sétálj el a vidámparkok mellett, keresve a fedett menedékeket. Délután az élményparkok drámai tengerparti látványt nyújtanak. Zárd a napot a SeAlanya közelében a szitáló esőben.",
+            "ro": "Începeți dimineața ploioasă la ruine cu încălțăminte impermeabilă. La prânz, treceți pe lângă parcurile de distracții cu o umbrelă și căutați adăpost. După-amiaza, parcurile acvatice oferă priveliști dramatice. Încheiați ziua la SeAlanya, privind ploaia.",
+            "en": "Start your wet morning at the ruins, wearing sturdy boots. By noon, navigate past the amusement parks with an umbrella, seeking covered shelters. Afternoon brings you to the aquaparks; focus on the dramatic coastal views. Finish the day watching the rain fall over SeAlanya."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Unbekannte Ruine",
+                "hu": "Ismeretlen Rom",
+                "ro": "Ruina Necunoscută",
+                "en": "Unknown Ruin"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Fundamente vorsichtig, da die Steine im Regen sehr rutschig werden; tragen Sie wasserfestes Schuhwerk.",
+                "hu": "Fedezd fel az ősi alapokat óvatosan, mivel a régi kövek nagyon csúszósak esőben; viselj jól tapadó, vízálló cipőt.",
+                "ro": "Explorați cu atenție fundațiile antice, deoarece pietrele devin alunecoase în ploaie; purtați pantofi aderenți și impermeabili.",
+                "en": "Explore the ancient foundations carefully, as the old stones get very slippery in the rain; wear grippy, waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Türkler Yıldız Lunapark",
+                "hu": "Türkler Yıldız Lunapark",
+                "ro": "Türkler Yıldız Lunapark",
+                "en": "Türkler Yıldız Lunapark"
+              },
+              "tip_5lang": {
+                "de": "Bunte Lichter spiegeln sich schön in Pfützen. Prüfen Sie, ob die Fahrgeschäfte laufen, und tragen Sie einen großen Regenschirm.",
+                "hu": "A színes fények gyönyörűen tükröződnek a tócsákban. Ellenőrizd a játékok működését, és vigyél magaddal egy nagy esernyőt.",
+                "ro": "Luminile colorate se reflectă frumos în bălți. Verificați dacă atracțiile funcționează și luați o umbrelă mare cu dumneavoastră.",
+                "en": "Colorful lights reflect beautifully in puddles. Check if rides are running and carry a large umbrella between attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Ship Aquapark",
+                "hu": "Pirate Ship Aquapark",
+                "ro": "Pirate Ship Aquapark",
+                "en": "Pirate Ship Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das riesige Piratenschiff im Regen; das nasse Holz wirkt unter dem grauen Himmel außergewöhnlich dramatisch.",
+                "hu": "Csodáld meg a hatalmas kalózhajót az esőben; a nedves faanyag rendkívül drámainak hat a szürke égbolt alatt.",
+                "ro": "Admirați nava masivă de pirați prin ploaie; lemnul ud arată excepțional de dramatic sub cerul gri.",
+                "en": "Admire the massive pirate ship structure through the rain; the wet timber looks exceptionally dramatic under gray skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Island Aquapark",
+                "hu": "Pirate Island Aquapark",
+                "ro": "Pirate Island Aquapark",
+                "en": "Pirate Island Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Das tropische Inselthema kontrastiert schön mit dem Regenwetter. Suchen Sie Schutz unter den großen dekorativen Palmenstrukturen.",
+                "hu": "A trópusi sziget téma gyönyörű kontrasztot alkot az esős idővel. Keress menedéket a nagy dekoratív pálmastruktúrák alatt.",
+                "ro": "Tema insulei tropicale contrastează frumos cu vremea ploioasă. Căutați adăpost sub structurile mari de palmieri decorativi.",
+                "en": "The tropical island theme contrasts beautifully with the rainy weather. Seek shelter under the large decorative palm structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropcal Island",
+                "hu": "Tropcal Island",
+                "ro": "Tropcal Island",
+                "en": "Tropcal Island"
+              },
+              "tip_5lang": {
+                "de": "Auch bei strömendem Regen behält dieser Bereich sein üppiges Flair. Bringen Sie einen stabilen Schirm für den Rundgang mit.",
+                "hu": "Ez a terület a zuhogó esőben is megőrzi buja, élettel teli hangulatát. Hozz egy erős esernyőt a kényelmes körbesétáláshoz.",
+                "ro": "Chiar și în ploaie torențială, zona își păstrează senzația luxuriantă. Aduceți o umbrelă robustă pentru a vă plimba confortabil.",
+                "en": "Even in the pouring rain, this area retains a lush, vibrant feel. Bring a sturdy umbrella to walk the perimeter comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya",
+                "hu": "SeAlanya",
+                "ro": "SeAlanya",
+                "en": "SeAlanya"
+              },
+              "tip_5lang": {
+                "de": "Die maritimen Themen sind im Regen faszinierend zu beobachten. Bewahren Sie Ihre Elektronik sicher in einer wasserdichten Tasche auf.",
+                "hu": "A tengeri témákat lenyűgöző esőben is megfigyelni. Tartsd az elektronikát száraz táskában, miközben vizes fotókat készítesz.",
+                "ro": "Temele marine sunt fascinante de observat în ploaie. Păstrați electronicele într-o geantă uscată în timp ce faceți fotografii.",
+                "en": "The marine themes are fascinating to observe in the rain. Keep your electronics safe in a dry bag while snapping wet photos."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen beginnt bei den Ruinen. Mittags genießen Sie die ruhigen Vergnügungsparks ohne Massen. Ziehen Sie sich nachmittags warm an, um die Wasserparks zu erkunden. Die Sonne geht früh um 17:00 Uhr unter und taucht SeAlanya in goldenes Licht.",
+            "hu": "A hűvös téli reggel a békés romoknál indul. Délben élvezd a csendes vidámparki zónát a nyári tömeg nélkül. Kora délután öltözz fel melegen a parkokhoz. A nap korán, 17:00 körül nyugszik, arany fénybe burkolva a SeAlanya partszakaszát.",
+            "ro": "Dimineața de iarnă începe la ruinele pașnice. La prânz, bucurați-vă de zonele de agrement liniștite. După-amiaza, îmbrăcați-vă gros pentru a explora parcurile tematice. Soarele apune devreme pe la 17:00, scăldând SeAlanya într-o lumină de vis.",
+            "en": "A brisk winter morning starts at the peaceful ruins. Around noon, enjoy the quiet amusement areas without summer crowds. As afternoon cools, bundle up to explore the tropical parks. The sun sets early around 17:00, casting golden light over SeAlanya."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Unbekannte Ruine",
+                "hu": "Ismeretlen Rom",
+                "ro": "Ruina Necunoscută",
+                "en": "Unknown Ruin"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winter friedlich. Ziehen Sie sich gegen die Küstenbrise warm an und genießen Sie die ruhige Atmosphäre.",
+                "hu": "A romok télen hihetetlenül békések. Öltözz melegen, viselj aláöltözőt a tengerparti szél ellen, és élvezd a csendet.",
+                "ro": "Ruinele sunt incredibil de pașnice iarna. Îmbrăcați-vă gros împotriva brizei de coastă și bucurați-vă de singurătate.",
+                "en": "The ruins are incredibly peaceful in winter. Dress warmly with thermal layers against the coastal breeze and enjoy the solitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Türkler Yıldız Lunapark",
+                "hu": "Türkler Yıldız Lunapark",
+                "ro": "Türkler Yıldız Lunapark",
+                "en": "Türkler Yıldız Lunapark"
+              },
+              "tip_5lang": {
+                "de": "Der Park bietet nostalgischen Wintercharme. Bringen Sie ein Heißgetränk mit und genießen Sie das Fehlen der sommerlichen Warteschlangen.",
+                "hu": "A park nosztalgikus téli bájjal bír. Hozz magaddal forró italt termoszban, és élvezd, hogy egyáltalán nincsenek sorok.",
+                "ro": "Parcul oferă un farmec nostalgic de iarnă. Aduceți o băutură caldă și bucurați-vă de lipsa totală a cozilor de vară.",
+                "en": "The park offers a nostalgic winter charm. Bring a hot drink in a thermos and enjoy the absolute lack of summer queues."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Ship Aquapark",
+                "hu": "Pirate Ship Aquapark",
+                "ro": "Pirate Ship Aquapark",
+                "en": "Pirate Ship Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das Schiff ohne die übliche Sommerhitze. Eine Windjacke ist wichtig, da es in der Nähe der Rutschen sehr kühl wird.",
+                "hu": "Csodáld meg a hajót a szokásos nyári hőség nélkül. A széldzseki elengedhetetlen, mert a csúszdák közelében nagyon hűvös van.",
+                "ro": "Minunați-vă de structura navei fără căldura verii. O jachetă de vânt este esențială, deoarece este foarte frig lângă tobogane.",
+                "en": "Marvel at the ship structure without the usual summer heat. A windbreaker is essential as it gets very chilly near the slides."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Island Aquapark",
+                "hu": "Pirate Island Aquapark",
+                "ro": "Pirate Island Aquapark",
+                "en": "Pirate Island Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhigen Inselwege. Tragen Sie wärmende Schichten, da die Nähe zu den leeren Becken die Luft kälter macht.",
+                "hu": "Élvezd a csendes szigeti ösvényeket. Viselj termo rétegeket, mivel az üres medencék közelsége hidegebbé teszi a levegőt.",
+                "ro": "Bucurați-vă de cărările liniștite. Purtați haine termice, deoarece proximitatea de bazinele goale face aerul mult mai rece.",
+                "en": "Enjoy the quiet island pathways. Wear thermal layers, as the proximity to the empty water pools makes the air much colder."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropcal Island",
+                "hu": "Tropcal Island",
+                "ro": "Tropcal Island",
+                "en": "Tropcal Island"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Wintersonnenlicht hebt die Inselmerkmale schön hervor. Vergessen Sie keine warme Mütze für die Nachmittagskälte.",
+                "hu": "Az alacsony téli napfény szépen kiemeli a sziget mesterséges elemeit. Ne felejts el egy meleg sapkát a délutáni hideg ellen.",
+                "ro": "Lumina soarelui de iarnă evidențiază frumos caracteristicile insulei. Nu uitați o căciulă călduroasă pentru frigul de după-amiază.",
+                "en": "The low winter sunlight highlights the island's artificial features nicely. Don't forget a warm hat for the afternoon chill."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya",
+                "hu": "SeAlanya",
+                "ro": "SeAlanya",
+                "en": "SeAlanya"
+              },
+              "tip_5lang": {
+                "de": "Ein flotter Spaziergang außen bietet unglaublich frische Winterluft. Die frühe Dämmerung lässt die Anlage warm erstrahlen.",
+                "hu": "Egy tempós séta a külső részen hihetetlenül friss téli levegőt kínál. A korai szürkület miatt a létesítmény melegen világít.",
+                "ro": "O plimbare rapidă prin exterior oferă un aer de iarnă incredibil de proaspăt. Amurgul timpuriu face clădirea să strălucească.",
+                "en": "A brisk walk around the exterior offers incredibly fresh winter air. The early twilight makes the facility glow warmly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "A dél közeledtével a partvidék pezsgő szórakoztatóközpontjai felé vesszük az irányt, kezdve a Mermaid Club hangulatával. Készüljön fel a vízi kalandokra, amint elmerül a kalózos témájú Pirate Ship Aquapark izgalmaiban.",
         "ro": "La amiază ne îndreptăm către centrele de divertisment de pe coastă, începând cu atmosfera vibrantă de la Mermaid Club. Apoi, pregătiți-vă pentru aventuri acvatice în timp ce vă scufundați în entuziasmul tematic al Pirate Ship Aquapark.",
         "en": "Midday takes you towards the coastline's lively entertainment hubs, beginning with the vibrant atmosphere of the Mermaid Club. Then, brace yourself for aquatic adventures as you dive into the maritime-themed excitement at the Pirate Ship Aquapark."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie morgens vorsichtig zu den Ruinen; achten Sie auf rutschigen Schlamm. Fahren Sie mittags im Regenanzug an den Parks vorbei. Nachmittags wirken die Aquaparks im Nebel stimmungsvoll. Beenden Sie die feuchte Fahrt sicher bei SeAlanya.",
+            "hu": "Óvatosan tekerj a romokhoz az esős reggelen, ügyelve a csúszós utakra. Délben esőruhában gurulj el a vidámparkok mellett. Délután az aquaparkok sejtelmesen festenek a ködben. Fejezd be a csúszós utat biztonságban a SeAlanya komplexumnál.",
+            "ro": "Pedalați cu grijă la ruine în această dimineață umedă; atenție la noroi. La prânz, treceți pe lângă parcuri în costum de ploaie. Parcurile acvatice arată dramatic prin ceață. Încheiați cursa alunecoasă în siguranță la SeAlanya.",
+            "en": "Pedal carefully to the ruins this wet morning; watch for slick paths. By noon, ride past the amusement parks in your rain suit. The afternoon aquaparks look moody through the mist. End your slippery ride safely at SeAlanya's seaside complex."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Unbekannte Ruine",
+                "hu": "Ismeretlen Rom",
+                "ro": "Ruina Necunoscută",
+                "en": "Unknown Ruin"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Fundamente vorsichtig, da die Steine im Regen sehr rutschig werden; tragen Sie wasserfestes Schuhwerk.",
+                "hu": "Fedezd fel az ősi alapokat óvatosan, mivel a régi kövek nagyon csúszósak esőben; viselj jól tapadó, vízálló cipőt.",
+                "ro": "Explorați cu atenție fundațiile antice, deoarece pietrele devin alunecoase în ploaie; purtați pantofi aderenți și impermeabili.",
+                "en": "Explore the ancient foundations carefully, as the old stones get very slippery in the rain; wear grippy, waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Türkler Yıldız Lunapark",
+                "hu": "Türkler Yıldız Lunapark",
+                "ro": "Türkler Yıldız Lunapark",
+                "en": "Türkler Yıldız Lunapark"
+              },
+              "tip_5lang": {
+                "de": "Bunte Lichter spiegeln sich schön in Pfützen. Prüfen Sie, ob die Fahrgeschäfte laufen, und tragen Sie einen großen Regenschirm.",
+                "hu": "A színes fények gyönyörűen tükröződnek a tócsákban. Ellenőrizd a játékok működését, és vigyél magaddal egy nagy esernyőt.",
+                "ro": "Luminile colorate se reflectă frumos în bălți. Verificați dacă atracțiile funcționează și luați o umbrelă mare cu dumneavoastră.",
+                "en": "Colorful lights reflect beautifully in puddles. Check if rides are running and carry a large umbrella between attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Mermaid Club",
+                "hu": "Mermaid Club",
+                "ro": "Mermaid Club",
+                "en": "Mermaid Club"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in den überdachten Bereichen Schutz und genießen Sie die Stimmung; eine Regenjacke ist für den Außenbereich unerlässlich.",
+                "hu": "Keress menedéket a fedett részeken és élvezd a borongós tengeri hangulatot; esőkabát viselése kötelező a kinti mozgáshoz.",
+                "ro": "Adăpostiți-vă în zonele acoperite și bucurați-vă de atmosferă; pelerina de ploaie este obligatorie când vă deplasați afară.",
+                "en": "Take shelter in the covered sections and enjoy the moody marine atmosphere; a raincoat is a must when moving around outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Ship Aquapark",
+                "hu": "Pirate Ship Aquapark",
+                "ro": "Pirate Ship Aquapark",
+                "en": "Pirate Ship Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das riesige Piratenschiff im Regen; das nasse Holz wirkt unter dem grauen Himmel außergewöhnlich dramatisch.",
+                "hu": "Csodáld meg a hatalmas kalózhajót az esőben; a nedves faanyag rendkívül drámainak hat a szürke égbolt alatt.",
+                "ro": "Admirați nava masivă de pirați prin ploaie; lemnul ud arată excepțional de dramatic sub cerul gri.",
+                "en": "Admire the massive pirate ship structure through the rain; the wet timber looks exceptionally dramatic under gray skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Island Aquapark",
+                "hu": "Pirate Island Aquapark",
+                "ro": "Pirate Island Aquapark",
+                "en": "Pirate Island Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Das tropische Inselthema kontrastiert schön mit dem Regenwetter. Suchen Sie Schutz unter den großen dekorativen Palmenstrukturen.",
+                "hu": "A trópusi sziget téma gyönyörű kontrasztot alkot az esős idővel. Keress menedéket a nagy dekoratív pálmastruktúrák alatt.",
+                "ro": "Tema insulei tropicale contrastează frumos cu vremea ploioasă. Căutați adăpost sub structurile mari de palmieri decorativi.",
+                "en": "The tropical island theme contrasts beautifully with the rainy weather. Seek shelter under the large decorative palm structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropcal Island",
+                "hu": "Tropcal Island",
+                "ro": "Tropcal Island",
+                "en": "Tropcal Island"
+              },
+              "tip_5lang": {
+                "de": "Auch bei strömendem Regen behält dieser Bereich sein üppiges Flair. Bringen Sie einen stabilen Schirm für den Rundgang mit.",
+                "hu": "Ez a terület a zuhogó esőben is megőrzi buja, élettel teli hangulatát. Hozz egy erős esernyőt a kényelmes körbesétáláshoz.",
+                "ro": "Chiar și în ploaie torențială, zona își păstrează senzația luxuriantă. Aduceți o umbrelă robustă pentru a vă plimba confortabil.",
+                "en": "Even in the pouring rain, this area retains a lush, vibrant feel. Bring a sturdy umbrella to walk the perimeter comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya",
+                "hu": "SeAlanya",
+                "ro": "SeAlanya",
+                "en": "SeAlanya"
+              },
+              "tip_5lang": {
+                "de": "Die maritimen Themen sind im Regen faszinierend zu beobachten. Bewahren Sie Ihre Elektronik sicher in einer wasserdichten Tasche auf.",
+                "hu": "A tengeri témákat lenyűgöző esőben is megfigyelni. Tartsd az elektronikát száraz táskában, miközben vizes fotókat készítesz.",
+                "ro": "Temele marine sunt fascinante de observat în ploaie. Păstrați electronicele într-o geantă uscată în timp ce faceți fotografii.",
+                "en": "The marine themes are fascinating to observe in the rain. Keep your electronics safe in a dry bag while snapping wet photos."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya Seapark",
+                "hu": "SeAlanya Seapark",
+                "ro": "SeAlanya Seapark",
+                "en": "SeAlanya Seapark"
+              },
+              "tip_5lang": {
+                "de": "Die Wasserattraktionen verschmelzen mit der regnerischen Kulisse. Bringen Sie wasserfeste Kleidung für die Besichtigung der Pools mit.",
+                "hu": "A vízi attrakciók zökkenőmentesen beleolvadnak az esős háttérbe. Hozz megbízható vízálló felszerelést a medencék megtekintéséhez.",
+                "ro": "Atracțiile acvatice se îmbină cu fundalul ploios. Aduceți echipament impermeabil solid pentru a vedea confortabil bazinele.",
+                "en": "The water attractions blend seamlessly with the rainy backdrop. Bring solid waterproof gear to comfortably view the large pools."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine frische Winterradtour beginnt bei den Ruinen. Bleiben Sie in Bewegung, während Sie die ruhigen Parks passieren. Das nachmittägliche Radeln erfordert winddichte Kleidung. Erreichen Sie SeAlanya vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A friss téli biciklizés a romoknál indul. Maradj mozgásban, hogy felmelegedj a csendes vidámparkok felé. A délutáni tekerés a vízparton szélálló rétegeket igényel. Érj a SeAlanya parkhoz, mielőtt a korai, 17:00 órás naplemente besötétíti az utat.",
+            "ro": "Ciclismul de iarnă începe la ruine. Continuați să vă mișcați pentru a vă încălzi trecând pe lângă parcuri. Ciclismul de după-amiază necesită haine rezistente la vânt. Ajungeți la SeAlanya înainte ca apusul de la 17:00 să întunece pista.",
+            "en": "A crisp winter morning cycle begins at the ruins. Keep moving to stay warm as you pass the quiet noon amusement areas. Afternoon cycling by the aquaparks requires windproof layers. Reach SeAlanya before the early 17:00 sunset darkens the bike path."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Unbekannte Ruine",
+                "hu": "Ismeretlen Rom",
+                "ro": "Ruina Necunoscută",
+                "en": "Unknown Ruin"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winter friedlich. Ziehen Sie sich gegen die Küstenbrise warm an und genießen Sie die ruhige Atmosphäre.",
+                "hu": "A romok télen hihetetlenül békések. Öltözz melegen, viselj aláöltözőt a tengerparti szél ellen, és élvezd a csendet.",
+                "ro": "Ruinele sunt incredibil de pașnice iarna. Îmbrăcați-vă gros împotriva brizei de coastă și bucurați-vă de singurătate.",
+                "en": "The ruins are incredibly peaceful in winter. Dress warmly with thermal layers against the coastal breeze and enjoy the solitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Türkler Yıldız Lunapark",
+                "hu": "Türkler Yıldız Lunapark",
+                "ro": "Türkler Yıldız Lunapark",
+                "en": "Türkler Yıldız Lunapark"
+              },
+              "tip_5lang": {
+                "de": "Der Park bietet nostalgischen Wintercharme. Bringen Sie ein Heißgetränk mit und genießen Sie das Fehlen der sommerlichen Warteschlangen.",
+                "hu": "A park nosztalgikus téli bájjal bír. Hozz magaddal forró italt termoszban, és élvezd, hogy egyáltalán nincsenek sorok.",
+                "ro": "Parcul oferă un farmec nostalgic de iarnă. Aduceți o băutură caldă și bucurați-vă de lipsa totală a cozilor de vară.",
+                "en": "The park offers a nostalgic winter charm. Bring a hot drink in a thermos and enjoy the absolute lack of summer queues."
+              }
+            },
+            {
+              "name": {
+                "de": "Mermaid Club",
+                "hu": "Mermaid Club",
+                "ro": "Mermaid Club",
+                "en": "Mermaid Club"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Halt, um sich drinnen mit einem Heißgetränk aufzuwärmen. Der winterliche Meerblick aus den Fenstern ist atemberaubend.",
+                "hu": "Tökéletes megálló, hogy felmelegedj egy forró itallal. A klub nagy ablakaiból a téli tenger látványa egészen lenyűgöző.",
+                "ro": "O oprire perfectă pentru a vă încălzi înăuntru cu o băutură fierbinte. Priveliștea mării de iarnă de la ferestre este uimitoare.",
+                "en": "A perfect stop to warm up indoors with a hot beverage. The winter sea views from the large club windows are quite stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Ship Aquapark",
+                "hu": "Pirate Ship Aquapark",
+                "ro": "Pirate Ship Aquapark",
+                "en": "Pirate Ship Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das Schiff ohne die übliche Sommerhitze. Eine Windjacke ist wichtig, da es in der Nähe der Rutschen sehr kühl wird.",
+                "hu": "Csodáld meg a hajót a szokásos nyári hőség nélkül. A széldzseki elengedhetetlen, mert a csúszdák közelében nagyon hűvös van.",
+                "ro": "Minunați-vă de structura navei fără căldura verii. O jachetă de vânt este esențială, deoarece este foarte frig lângă tobogane.",
+                "en": "Marvel at the ship structure without the usual summer heat. A windbreaker is essential as it gets very chilly near the slides."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Island Aquapark",
+                "hu": "Pirate Island Aquapark",
+                "ro": "Pirate Island Aquapark",
+                "en": "Pirate Island Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhigen Inselwege. Tragen Sie wärmende Schichten, da die Nähe zu den leeren Becken die Luft kälter macht.",
+                "hu": "Élvezd a csendes szigeti ösvényeket. Viselj termo rétegeket, mivel az üres medencék közelsége hidegebbé teszi a levegőt.",
+                "ro": "Bucurați-vă de cărările liniștite. Purtați haine termice, deoarece proximitatea de bazinele goale face aerul mult mai rece.",
+                "en": "Enjoy the quiet island pathways. Wear thermal layers, as the proximity to the empty water pools makes the air much colder."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropcal Island",
+                "hu": "Tropcal Island",
+                "ro": "Tropcal Island",
+                "en": "Tropcal Island"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Wintersonnenlicht hebt die Inselmerkmale schön hervor. Vergessen Sie keine warme Mütze für die Nachmittagskälte.",
+                "hu": "Az alacsony téli napfény szépen kiemeli a sziget mesterséges elemeit. Ne felejts el egy meleg sapkát a délutáni hideg ellen.",
+                "ro": "Lumina soarelui de iarnă evidențiază frumos caracteristicile insulei. Nu uitați o căciulă călduroasă pentru frigul de după-amiază.",
+                "en": "The low winter sunlight highlights the island's artificial features nicely. Don't forget a warm hat for the afternoon chill."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya",
+                "hu": "SeAlanya",
+                "ro": "SeAlanya",
+                "en": "SeAlanya"
+              },
+              "tip_5lang": {
+                "de": "Ein flotter Spaziergang außen bietet unglaublich frische Winterluft. Die frühe Dämmerung lässt die Anlage warm erstrahlen.",
+                "hu": "Egy tempós séta a külső részen hihetetlenül friss téli levegőt kínál. A korai szürkület miatt a létesítmény melegen világít.",
+                "ro": "O plimbare rapidă prin exterior oferă un aer de iarnă incredibil de proaspăt. Amurgul timpuriu face clădirea să strălucească.",
+                "en": "A brisk walk around the exterior offers incredibly fresh winter air. The early twilight makes the facility glow warmly."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya Seapark",
+                "hu": "SeAlanya Seapark",
+                "ro": "SeAlanya Seapark",
+                "en": "SeAlanya Seapark"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Route hier, bevor der Sonnenuntergang um 17:00 Uhr die Temperatur senkt. Die Winterruhe verleiht eine heitere Stimmung.",
+                "hu": "Fejezd be az utat itt, mielőtt a 17:00-s naplemente lehűti a levegőt. A téli nyugalom nagyon békés, csendes hangulatot ad a parknak.",
+                "ro": "Terminați traseul aici înainte ca apusul de la 17:00 să scadă temperatura. Calmul iernii oferă parcului o atmosferă foarte senină.",
+                "en": "Finish your route here before the 17:00 sunset drops the temperature. The winter calm gives the park a very serene, quiet vibe."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1019,280 @@
         "hu": "A délután aktív kikapcsolódást hoz a Pirate Island Aquapark hullámaiban és az Adventure Park ügyességi pályáin. Ezt követően találjon egy kis nyugalmat a Tropcal Island szépen gondozott, buja növényzetű ösvényein sétálva.",
         "ro": "După-amiaza se transformă într-o explorare activă cu valurile de la Pirate Island Aquapark și traseele de la Adventure Park. Ulterior, găsiți un scurt moment de liniște plimbându-vă pe aleile frumos amenajate de pe Tropcal Island.",
         "en": "Afternoon shifts to active exploration with splashing waves at Pirate Island Aquapark and agility challenges at Adventure Park. Afterwards, find a brief moment of tranquility strolling through the beautifully landscaped paths of Tropcal Island."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie am regnerischen Morgen zu den Ruinen und prüfen Sie die Scheibenwischer. Parken Sie nah, um schnell in die Parks zu gelangen. Die Küstenfahrt am Nachmittag ist aus dem warmen Auto ideal. Beenden Sie den Tag abends bei SeAlanya.",
+            "hu": "Vezess a romokhoz ezen az esős reggelen, figyelve az ablaktörlőkre. Délben parkolj közel, hogy gyorsan beszaladj a vidámparkokhoz. A délutáni parti út az aquaparkok mellett a fűtött autóból a legjobb. Zárd a napot a SeAlanya parknál.",
+            "ro": "Conduceți la ruine în această dimineață ploioasă. La prânz, parcați aproape pentru a fugi rapid în parcurile de distracții. Drumul de coastă de după-amiază este savurat din cabina caldă. Încheiați la SeAlanya, în timp ce ploaia de seară cade.",
+            "en": "Drive to the ruins this rainy morning, ensuring your wipers work. Park close by noon to dash into the amusement venues. The afternoon coastal drive past the aquaparks is safely enjoyed from a warm cabin. Conclude at SeAlanya as evening rain falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Unbekannte Ruine",
+                "hu": "Ismeretlen Rom",
+                "ro": "Ruina Necunoscută",
+                "en": "Unknown Ruin"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antiken Fundamente vorsichtig, da die Steine im Regen sehr rutschig werden; tragen Sie wasserfestes Schuhwerk.",
+                "hu": "Fedezd fel az ősi alapokat óvatosan, mivel a régi kövek nagyon csúszósak esőben; viselj jól tapadó, vízálló cipőt.",
+                "ro": "Explorați cu atenție fundațiile antice, deoarece pietrele devin alunecoase în ploaie; purtați pantofi aderenți și impermeabili.",
+                "en": "Explore the ancient foundations carefully, as the old stones get very slippery in the rain; wear grippy, waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Türkler Yıldız Lunapark",
+                "hu": "Türkler Yıldız Lunapark",
+                "ro": "Türkler Yıldız Lunapark",
+                "en": "Türkler Yıldız Lunapark"
+              },
+              "tip_5lang": {
+                "de": "Bunte Lichter spiegeln sich schön in Pfützen. Prüfen Sie, ob die Fahrgeschäfte laufen, und tragen Sie einen großen Regenschirm.",
+                "hu": "A színes fények gyönyörűen tükröződnek a tócsákban. Ellenőrizd a játékok működését, és vigyél magaddal egy nagy esernyőt.",
+                "ro": "Luminile colorate se reflectă frumos în bălți. Verificați dacă atracțiile funcționează și luați o umbrelă mare cu dumneavoastră.",
+                "en": "Colorful lights reflect beautifully in puddles. Check if rides are running and carry a large umbrella between attractions."
+              }
+            },
+            {
+              "name": {
+                "de": "Mermaid Club",
+                "hu": "Mermaid Club",
+                "ro": "Mermaid Club",
+                "en": "Mermaid Club"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie in den überdachten Bereichen Schutz und genießen Sie die Stimmung; eine Regenjacke ist für den Außenbereich unerlässlich.",
+                "hu": "Keress menedéket a fedett részeken és élvezd a borongós tengeri hangulatot; esőkabát viselése kötelező a kinti mozgáshoz.",
+                "ro": "Adăpostiți-vă în zonele acoperite și bucurați-vă de atmosferă; pelerina de ploaie este obligatorie când vă deplasați afară.",
+                "en": "Take shelter in the covered sections and enjoy the moody marine atmosphere; a raincoat is a must when moving around outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Ship Aquapark",
+                "hu": "Pirate Ship Aquapark",
+                "ro": "Pirate Ship Aquapark",
+                "en": "Pirate Ship Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das riesige Piratenschiff im Regen; das nasse Holz wirkt unter dem grauen Himmel außergewöhnlich dramatisch.",
+                "hu": "Csodáld meg a hatalmas kalózhajót az esőben; a nedves faanyag rendkívül drámainak hat a szürke égbolt alatt.",
+                "ro": "Admirați nava masivă de pirați prin ploaie; lemnul ud arată excepțional de dramatic sub cerul gri.",
+                "en": "Admire the massive pirate ship structure through the rain; the wet timber looks exceptionally dramatic under gray skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Island Aquapark",
+                "hu": "Pirate Island Aquapark",
+                "ro": "Pirate Island Aquapark",
+                "en": "Pirate Island Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Das tropische Inselthema kontrastiert schön mit dem Regenwetter. Suchen Sie Schutz unter den großen dekorativen Palmenstrukturen.",
+                "hu": "A trópusi sziget téma gyönyörű kontrasztot alkot az esős idővel. Keress menedéket a nagy dekoratív pálmastruktúrák alatt.",
+                "ro": "Tema insulei tropicale contrastează frumos cu vremea ploioasă. Căutați adăpost sub structurile mari de palmieri decorativi.",
+                "en": "The tropical island theme contrasts beautifully with the rainy weather. Seek shelter under the large decorative palm structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Adventure Park",
+                "hu": "Adventure Park",
+                "ro": "Adventure Park",
+                "en": "Adventure Park"
+              },
+              "tip_5lang": {
+                "de": "Die Abenteuerpfade könnten sehr schlammig sein; tragen Sie wasserfeste Stiefel und bleiben Sie auf den gepflasterten Wegen.",
+                "hu": "A kalandösvények és utak nagyon sarasak lehetnek; viselj vízálló csizmát, és maradj biztonságosan a kikövezett kilátóknál.",
+                "ro": "Traseele de aventură ar putea fi foarte noroioase; purtați cizme impermeabile și rămâneți în siguranță pe zonele pavate.",
+                "en": "The adventure trails and paths might be very muddy; wear waterproof boots and stick to the paved observation areas safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropcal Island",
+                "hu": "Tropcal Island",
+                "ro": "Tropcal Island",
+                "en": "Tropcal Island"
+              },
+              "tip_5lang": {
+                "de": "Auch bei strömendem Regen behält dieser Bereich sein üppiges Flair. Bringen Sie einen stabilen Schirm für den Rundgang mit.",
+                "hu": "Ez a terület a zuhogó esőben is megőrzi buja, élettel teli hangulatát. Hozz egy erős esernyőt a kényelmes körbesétáláshoz.",
+                "ro": "Chiar și în ploaie torențială, zona își păstrează senzația luxuriantă. Aduceți o umbrelă robustă pentru a vă plimba confortabil.",
+                "en": "Even in the pouring rain, this area retains a lush, vibrant feel. Bring a sturdy umbrella to walk the perimeter comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya",
+                "hu": "SeAlanya",
+                "ro": "SeAlanya",
+                "en": "SeAlanya"
+              },
+              "tip_5lang": {
+                "de": "Die maritimen Themen sind im Regen faszinierend zu beobachten. Bewahren Sie Ihre Elektronik sicher in einer wasserdichten Tasche auf.",
+                "hu": "A tengeri témákat lenyűgöző esőben is megfigyelni. Tartsd az elektronikát száraz táskában, miközben vizes fotókat készítesz.",
+                "ro": "Temele marine sunt fascinante de observat în ploaie. Păstrați electronicele într-o geantă uscată în timp ce faceți fotografii.",
+                "en": "The marine themes are fascinating to observe in the rain. Keep your electronics safe in a dry bag while snapping wet photos."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya Seapark",
+                "hu": "SeAlanya Seapark",
+                "ro": "SeAlanya Seapark",
+                "en": "SeAlanya Seapark"
+              },
+              "tip_5lang": {
+                "de": "Die Wasserattraktionen verschmelzen mit der regnerischen Kulisse. Bringen Sie wasserfeste Kleidung für die Besichtigung der Pools mit.",
+                "hu": "A vízi attrakciók zökkenőmentesen beleolvadnak az esős háttérbe. Hozz megbízható vízálló felszerelést a medencék megtekintéséhez.",
+                "ro": "Atracțiile acvatice se îmbină cu fundalul ploios. Aduceți echipament impermeabil solid pentru a vedea confortabil bazinele.",
+                "en": "The water attractions blend seamlessly with the rainy backdrop. Bring solid waterproof gear to comfortably view the large pools."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die Winterfahrt zu den Ruinen mit eingeschalteter Heizung. Genießen Sie das einfache Parken an den ruhigen Parks. Die Nachmittagsfahrt bietet klare Aussichten. Kommen Sie vor dem frühen Sonnenuntergang um 17:00 bei SeAlanya an.",
+            "hu": "Kezdd a téli autózást a romoknál a fűtést feltekerve. Élvezd a könnyű déli parkolást a csendes szórakoztató központoknál. A délutáni vezetés tiszta kilátást nyújt. Érkezz a SeAlanya parkhoz a korai 17:00 órás naplemente előtt.",
+            "ro": "Începeți plimbarea de iarnă la ruine cu căldura pornită în mașină. Bucurați-vă de parcarea ușoară la prânz. Conducerea de după-amiază oferă vederi clare. Ajungeți la SeAlanya înainte ca apusul devreme de la 17:00 să aducă întunericul.",
+            "en": "Start your winter drive at the ruins with the car heater on. Enjoy the easy noon parking at the quiet amusement centers. Afternoon cruising past the aquaparks offers crisp, clear views. Arrive at SeAlanya before the early 17:00 sunset gets too dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Unbekannte Ruine",
+                "hu": "Ismeretlen Rom",
+                "ro": "Ruina Necunoscută",
+                "en": "Unknown Ruin"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winter friedlich. Ziehen Sie sich gegen die Küstenbrise warm an und genießen Sie die ruhige Atmosphäre.",
+                "hu": "A romok télen hihetetlenül békések. Öltözz melegen, viselj aláöltözőt a tengerparti szél ellen, és élvezd a csendet.",
+                "ro": "Ruinele sunt incredibil de pașnice iarna. Îmbrăcați-vă gros împotriva brizei de coastă și bucurați-vă de singurătate.",
+                "en": "The ruins are incredibly peaceful in winter. Dress warmly with thermal layers against the coastal breeze and enjoy the solitude."
+              }
+            },
+            {
+              "name": {
+                "de": "Türkler Yıldız Lunapark",
+                "hu": "Türkler Yıldız Lunapark",
+                "ro": "Türkler Yıldız Lunapark",
+                "en": "Türkler Yıldız Lunapark"
+              },
+              "tip_5lang": {
+                "de": "Der Park bietet nostalgischen Wintercharme. Bringen Sie ein Heißgetränk mit und genießen Sie das Fehlen der sommerlichen Warteschlangen.",
+                "hu": "A park nosztalgikus téli bájjal bír. Hozz magaddal forró italt termoszban, és élvezd, hogy egyáltalán nincsenek sorok.",
+                "ro": "Parcul oferă un farmec nostalgic de iarnă. Aduceți o băutură caldă și bucurați-vă de lipsa totală a cozilor de vară.",
+                "en": "The park offers a nostalgic winter charm. Bring a hot drink in a thermos and enjoy the absolute lack of summer queues."
+              }
+            },
+            {
+              "name": {
+                "de": "Mermaid Club",
+                "hu": "Mermaid Club",
+                "ro": "Mermaid Club",
+                "en": "Mermaid Club"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Halt, um sich drinnen mit einem Heißgetränk aufzuwärmen. Der winterliche Meerblick aus den Fenstern ist atemberaubend.",
+                "hu": "Tökéletes megálló, hogy felmelegedj egy forró itallal. A klub nagy ablakaiból a téli tenger látványa egészen lenyűgöző.",
+                "ro": "O oprire perfectă pentru a vă încălzi înăuntru cu o băutură fierbinte. Priveliștea mării de iarnă de la ferestre este uimitoare.",
+                "en": "A perfect stop to warm up indoors with a hot beverage. The winter sea views from the large club windows are quite stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Ship Aquapark",
+                "hu": "Pirate Ship Aquapark",
+                "ro": "Pirate Ship Aquapark",
+                "en": "Pirate Ship Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das Schiff ohne die übliche Sommerhitze. Eine Windjacke ist wichtig, da es in der Nähe der Rutschen sehr kühl wird.",
+                "hu": "Csodáld meg a hajót a szokásos nyári hőség nélkül. A széldzseki elengedhetetlen, mert a csúszdák közelében nagyon hűvös van.",
+                "ro": "Minunați-vă de structura navei fără căldura verii. O jachetă de vânt este esențială, deoarece este foarte frig lângă tobogane.",
+                "en": "Marvel at the ship structure without the usual summer heat. A windbreaker is essential as it gets very chilly near the slides."
+              }
+            },
+            {
+              "name": {
+                "de": "Pirate Island Aquapark",
+                "hu": "Pirate Island Aquapark",
+                "ro": "Pirate Island Aquapark",
+                "en": "Pirate Island Aquapark"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhigen Inselwege. Tragen Sie wärmende Schichten, da die Nähe zu den leeren Becken die Luft kälter macht.",
+                "hu": "Élvezd a csendes szigeti ösvényeket. Viselj termo rétegeket, mivel az üres medencék közelsége hidegebbé teszi a levegőt.",
+                "ro": "Bucurați-vă de cărările liniștite. Purtați haine termice, deoarece proximitatea de bazinele goale face aerul mult mai rece.",
+                "en": "Enjoy the quiet island pathways. Wear thermal layers, as the proximity to the empty water pools makes the air much colder."
+              }
+            },
+            {
+              "name": {
+                "de": "Adventure Park",
+                "hu": "Adventure Park",
+                "ro": "Adventure Park",
+                "en": "Adventure Park"
+              },
+              "tip_5lang": {
+                "de": "Der Winter eignet sich überraschend gut zur Erkundung der Wanderwege. Tragen Sie dicke Handschuhe, um Ihre Hände warm zu halten.",
+                "hu": "A tél meglepően jó a park sétaútjainak felfedezésére. Viselj vastag kesztyűt, hogy melegen tartsd a kezed séta közben.",
+                "ro": "Iarna este surprinzător de bună pentru explorarea traseelor de mers. Purtați mănuși groase pentru a vă menține mâinile calde.",
+                "en": "Winter is surprisingly great for exploring the park's walking trails. Wear thick gloves to keep your hands warm while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Tropcal Island",
+                "hu": "Tropcal Island",
+                "ro": "Tropcal Island",
+                "en": "Tropcal Island"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Wintersonnenlicht hebt die Inselmerkmale schön hervor. Vergessen Sie keine warme Mütze für die Nachmittagskälte.",
+                "hu": "Az alacsony téli napfény szépen kiemeli a sziget mesterséges elemeit. Ne felejts el egy meleg sapkát a délutáni hideg ellen.",
+                "ro": "Lumina soarelui de iarnă evidențiază frumos caracteristicile insulei. Nu uitați o căciulă călduroasă pentru frigul de după-amiază.",
+                "en": "The low winter sunlight highlights the island's artificial features nicely. Don't forget a warm hat for the afternoon chill."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya",
+                "hu": "SeAlanya",
+                "ro": "SeAlanya",
+                "en": "SeAlanya"
+              },
+              "tip_5lang": {
+                "de": "Ein flotter Spaziergang außen bietet unglaublich frische Winterluft. Die frühe Dämmerung lässt die Anlage warm erstrahlen.",
+                "hu": "Egy tempós séta a külső részen hihetetlenül friss téli levegőt kínál. A korai szürkület miatt a létesítmény melegen világít.",
+                "ro": "O plimbare rapidă prin exterior oferă un aer de iarnă incredibil de proaspăt. Amurgul timpuriu face clădirea să strălucească.",
+                "en": "A brisk walk around the exterior offers incredibly fresh winter air. The early twilight makes the facility glow warmly."
+              }
+            },
+            {
+              "name": {
+                "de": "SeAlanya Seapark",
+                "hu": "SeAlanya Seapark",
+                "ro": "SeAlanya Seapark",
+                "en": "SeAlanya Seapark"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Route hier, bevor der Sonnenuntergang um 17:00 Uhr die Temperatur senkt. Die Winterruhe verleiht eine heitere Stimmung.",
+                "hu": "Fejezd be az utat itt, mielőtt a 17:00-s naplemente lehűti a levegőt. A téli nyugalom nagyon békés, csendes hangulatot ad a parknak.",
+                "ro": "Terminați traseul aici înainte ca apusul de la 17:00 să scadă temperatura. Calmul iernii oferă parcului o atmosferă foarte senină.",
+                "en": "Finish your route here before the 17:00 sunset drops the temperature. The winter calm gives the park a very serene, quiet vibe."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi központban indul, a régi cementkemence és a hangulatos Santa Margarida templom felfedezésével. Délben a vidék felé vesszük az irányt, hogy megcsodáljuk a szőlőmunkások ősi kőkunyhóit. Délután felkapaszkodunk a Tossa lenyűgöző középkori várához, ahonnan pazar kilátás nyílik a tájra. Az estét a Tossa de Montbui festői természeti környezetében egy kellemes, levezető sétával zárjuk.",
         "ro": "Dimineața începe în centrul istoric cu vechiul cuptor de ciment și fermecătoarea biserică Santa Margarida. La prânz, vă plimbați spre zona rurală pentru a explora vechile colibe de piatră ale viticultorilor. După-amiaza veți ajunge la fascinantul castel medieval Tossa, care oferă o priveliște minunată. Seara se încheie relaxant în zona naturală pitorească Tossa de Montbui cu o plimbare liniștită.",
         "en": "The morning begins in the historical center, exploring the old cement kiln and the charming Santa Margarida church. By midday, you hike out towards the countryside to admire the ancient stone huts built by early vineyard workers. In the afternoon, you will reach the fascinating medieval Tossa castle, offering sweeping views of the entire region. The evening winds down beautifully with a relaxing stroll through the Tossa de Montbui natural area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an den alten Industrieöfen, wo Regen die Pfade aufweicht. Mittags bietet die Kirche Santa Margarida einen trockenen Zufluchtsort vor dem Guss. Am Nachmittag erfordern die rutschigen Kalksteinfelsen auf dem Weg zur Burg volle Konzentration und festes Schuhwerk. Der Abend auf der Tossa bietet trotz Wolken eine dramatische Aussicht, bevor man im Schutz der Dämmerung absteigt.",
+            "hu": "Reggel az ipari emlékeknél kezdünk, ahol az eső áztatta talaj nehezítheti a haladást. Délben a Santa Margarida templom nyújt fedett menedéket a záporok elől. Délután a vár felé vezető ösvény mészkövei csúszóssá válnak, így a stabil bakancs elengedhetetlen. Este a Tossa-hegyen a felhők drámai látványt nyújtanak a táj felett, de érdemes még a nagy felhőszakadás előtt visszaérni a szállásra.",
+            "ro": "Dimineața începe la vechile cuptoare industriale, unde ploaia înmoaie potecile. La prânz, biserica Santa Margarida oferă un refugiu uscat în fața averselor. După-amiaza, stâncile calcaroase alunecoase spre castel necesită concentrare și încălțăminte aderentă. Seara pe Tossa oferă o priveliște dramatică printre nori, înainte de a coborî rapid pe drumul umed și întunecat.",
+            "en": "The morning starts at the old industrial kilns, where rain softens the paths. At noon, the church of Santa Margarida provides a dry sanctuary from the downpour. In the afternoon, the slippery limestone rocks on the way to the castle require focus and sturdy boots. The evening on Tossa offers a dramatic view through the clouds before descending quickly on the wet, darkening path."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forn de Ciment del Camí del Cementeri",
+                "hu": "Forn de Ciment del Camí del Cementeri",
+                "ro": "Forn de Ciment del Camí del Cementeri",
+                "en": "Forn de Ciment del Camí del Cementeri"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie diesen alten Zementofen im Regen; die massiven Mauern bieten Schutz, aber achten Sie auf den extrem rutschigen Boden durch nassen Staub.",
+                "hu": "Csodálja meg ezt a régi cementkemencét az esőben; a masszív falak védelmet nyújtanak, de ügyeljen a vizes por miatt rendkívül csúszóssá váló talajra.",
+                "ro": "Admirați acest vechi cuptor de ciment pe ploaie; zidurile masive oferă protecție, dar atenție la solul devenit extrem de alunecos din cauza prafului umed.",
+                "en": "Admire this old cement kiln in the rain; the massive walls offer protection, but watch out for the ground which becomes extremely slippery due to wet dust."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Margarida",
+                "hu": "Santa Margarida",
+                "ro": "Santa Margarida",
+                "en": "Santa Margarida"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch der Kirche für eine Pause im Trockenen; bewundern Sie die Schlichtheit, während Sie Ihre Regenbekleidung für den Anstieg richten.",
+                "hu": "Használja ki a templomlátogatást egy száraz pihenőre; csodálja meg az egyszerűségét, miközben felkészíti esőfelszerelését a vár felé vezető emelkedőre.",
+                "ro": "Folosiți vizita la biserică pentru o pauză la uscat; admirați simplitatea structurii în timp ce vă pregătiți echipamentul de ploaie pentru urcare.",
+                "en": "Use the church visit for a dry break; admire its simplicity while preparing your rain gear for the climb up towards the castle ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabanya de Vinya",
+                "hu": "Cabanya de Vinya",
+                "ro": "Cabanya de Vinya",
+                "en": "Cabanya de Vinya"
+              },
+              "tip_5lang": {
+                "de": "Diese Steinhütte bietet einen charmanten, wenn auch engen Unterschlupf bei Schauern; ideal, um die historische Architektur aus nächster Nähe zu prüfen.",
+                "hu": "Ez a kőkunyhó bájos, bár szűkös menedéket nyújt zápor idején; ideális helyszín a történelmi építészet közeli és szárazon történő tanulmányozására.",
+                "ro": "Această colibă de piatră oferă un adăpost fermecător, deși strâmt, în timpul ploii; ideal pentru a studia arhitectura istorică de aproape și la uscat.",
+                "en": "This stone hut offers a charming, albeit cramped, shelter during a shower; it is ideal for studying historical architecture closely while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Barraca de pedra seca 17445",
+                "hu": "Barraca de pedra seca 17445",
+                "ro": "Barraca de pedra seca 17445",
+                "en": "Barraca de pedra seca 17445"
+              },
+              "tip_5lang": {
+                "de": "Die Trockenmauertechnik ist bei Regen besonders gut an der Wasserableitung erkennbar; halten Sie kurz inne, aber meiden Sie tiefen Schlamm am Eingang.",
+                "hu": "A szárazon rakott kőfal technika esőben látszik igazán a vízelvezetésnél; álljon meg egy pillanatra, de kerülje a bejáratnál kialakuló mély sarat.",
+                "ro": "Tehnica pietrei uscate este vizibilă la drenajul apei pe ploaie; opriți-vă pentru un moment, dar evitați noroiul adânc de la intrarea în structură.",
+                "en": "The dry stone technique is best seen during rain through water drainage; stop for a moment, but avoid the deep mud forming at the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Tossa",
+                "hu": "Castell de la Tossa",
+                "ro": "Castell de la Tossa",
+                "en": "Castell de la Tossa"
+              },
+              "tip_5lang": {
+                "de": "Die Burgruine wirkt im Regen mystisch; nutzen Sie die Innenräume als Windschutz und achten Sie auf die nassen Stufen beim Erkunden der Wehrmauern.",
+                "hu": "A várrom esőben misztikus hangulatot áraszt; használja a belső tereket szélfogónak, és ügyeljen a nedves lépcsőkre a védőfalak felfedezése közben.",
+                "ro": "Ruinele castelului emană o atmosferă mistică pe ploaie; folosiți interiorul ca paravan și atenție la treptele umede când explorați zidurile de apărare.",
+                "en": "The castle ruins have a mystical atmosphere in the rain; use the interior as a windbreak and watch the wet steps while exploring the ramparts."
+              }
+            },
+            {
+              "name": {
+                "de": "Tossa de Montbui",
+                "hu": "Tossa de Montbui",
+                "ro": "Tossa de Montbui",
+                "en": "Tossa de Montbui"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick ist bei Regen oft wolkenverhangen, was tolle Fotos ermöglicht; verweilen Sie kurz unter dem Vordach, bevor Sie den Abstieg wagen.",
+                "hu": "A panoráma esőben gyakran felhős, ami remek fotótéma; pihenjen meg röviden az eresz alatt, mielőtt nekivágna a vizes úton való leereszkedésnek.",
+                "ro": "Panorama este adesea acoperită de nori pe ploaie, oferind cadre foto unice; odihniți-vă sub streașină înainte de a începe coborârea pe drumul ud.",
+                "en": "The panorama is often cloudy in the rain, providing unique photo ops; rest briefly under the eaves before starting the descent on the wet path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen an den Zementöfen erfordert warme Schichten. Mittags belebt die kühle Luft die Wanderung zu den Steinhütten, während die tiefstehende Wintersonne lange Schatten wirft. Der Aufstieg zur Burg am Nachmittag sollte zügig erfolgen, um das Gipfelplateau vor dem frühen Sonnenuntergang gegen 17:00 Uhr zu erreichen. Am Abend kühlt es schnell ab, beenden Sie die Tour zeitnah.",
+            "hu": "A fagyos reggelen a mészégető kemencéknél meleg, réteges öltözet szükséges. Délben a hűvös levegő frissítővé teszi a kőkunyhókhoz vezető túrát a téli napsütésben. Délután igyekezni kell a várba, hogy még a korai, 17:00 óra körüli naplemente előtt élvezhessük a panorámát. Este a gyors lehűlés miatt érdemes hamar befejezni a programot.",
+            "ro": "O dimineață geroasă la cuptoarele de ciment necesită haine groase în straturi. La prânz, aerul rece face drumeția spre colibe revigorantă sub soarele palid de iarnă. După-amiaza, grăbiți pasul spre castel pentru a prinde panorama înainte de apusul timpuriu de la ora 17:00. Seara, temperatura scade brusc, așa că încheiați turul cât mai repede.",
+            "en": "A frosty morning at the cement kilns requires warm, layered clothing. At noon, the crisp air makes the hike to the stone huts refreshing under the pale winter sun. In the afternoon, hurry to the castle to enjoy the panorama before the early sunset around 17:00. In the evening, the temperature drops rapidly, so finish the tour promptly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forn de Ciment del Camí del Cementeri",
+                "hu": "Forn de Ciment del Camí del Cementeri",
+                "ro": "Forn de Ciment del Camí del Cementeri",
+                "en": "Forn de Ciment del Camí del Cementeri"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Winterluft lässt den alten Ofen noch monumentaler wirken; tragen Sie Handschuhe, da die Metallgeländer in der Früh oft eiskalt oder bereift sind.",
+                "hu": "A hideg téli levegőben az öreg kemence még monumentálisabbnak tűnik; viseljen kesztyűt, mert a fémkorlátok reggelente gyakran jegesek és fagyosak.",
+                "ro": "Aerul rece de iarnă face vechiul cuptor să pară și mai monumental; purtați mănuși, deoarece balustradele metalice sunt adesea înghețate dimineața.",
+                "en": "The cold winter air makes the old kiln look even more monumental; wear gloves as the metal railings are often icy and frozen in the mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Margarida",
+                "hu": "Santa Margarida",
+                "ro": "Santa Margarida",
+                "en": "Santa Margarida"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche bietet Schutz vor dem beißenden Winterwind; treten Sie kurz ein, um die Stille und die etwas milderen Temperaturen im Inneren zu genießen.",
+                "hu": "A kis templom védelmet nyújt a metsző téli szél ellen; térjen be egy pillanatra, hogy élvezze a csendet és a benti, valamivel enyhébb hőmérsékletet.",
+                "ro": "Mica biserică oferă protecție împotriva vântului tăios de iarnă; intrați pentru un moment pentru a vă bucura de liniște și de temperatura mai blândă.",
+                "en": "The small church offers protection from the biting winter wind; step inside for a moment to enjoy the silence and the slightly milder temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Cabanya de Vinya",
+                "hu": "Cabanya de Vinya",
+                "ro": "Cabanya de Vinya",
+                "en": "Cabanya de Vinya"
+              },
+              "tip_5lang": {
+                "de": "In der Wintersonne leuchten die Kalksteine dieser Hütte besonders hell; nutzen Sie die sonnenzugewandte Seite für eine kurze, wärmende Trinkpause im Freien.",
+                "hu": "A téli napsütésben a kunyhó mészkövei ragyogóan fénylenek; használja a napsütötte oldalt egy rövid, melegítő italos pihenőre a szabadban.",
+                "ro": "În soarele de iarnă, pietrele de calcar ale colibei strălucesc intens; folosiți partea însorită pentru o scurtă pauză de hidratare care să vă încălzească.",
+                "en": "In the winter sun, the limestone of the hut shines brightly; use the sunny side for a short, warming drink break outdoors before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Barraca de pedra seca 17445",
+                "hu": "Barraca de pedra seca 17445",
+                "ro": "Barraca de pedra seca 17445",
+                "en": "Barraca de pedra seca 17445"
+              },
+              "tip_5lang": {
+                "de": "Die trockenen Steine speichern kaum Wärme, daher wirkt es im Inneren oft kälter als draußen; ein kurzer Blick genügt, um die Bauweise zu bewundern.",
+                "hu": "A száraz kövek alig tárolnak hőt, így bent gyakran hidegebb van, mint kint; egy rövid pillantás is elég, hogy megcsodálja a különleges építési módot.",
+                "ro": "Pietrele uscate nu rețin căldura, deci în interior este adesea mai rece decât afară; o privire scurtă e suficientă pentru a admira metoda de construcție.",
+                "en": "The dry stones store little heat, so it is often colder inside than out; a brief look is enough to admire the unique construction method."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Tossa",
+                "hu": "Castell de la Tossa",
+                "ro": "Castell de la Tossa",
+                "en": "Castell de la Tossa"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Burg vor 16:30 Uhr, um das goldene Winterlicht auf den Ruinen zu sehen; ziehen Sie eine extra Weste gegen den starken Gipfelwind an.",
+                "hu": "Érjen a várhoz 16:30 előtt, hogy lássa a romokra eső aranyló téli fényeket; vegyen fel egy extra mellényt az erős csúcshasználati szél ellen.",
+                "ro": "Ajungeți la castel înainte de 16:30 pentru a vedea lumina aurie de iarnă pe ruine; puneți o vestă în plus împotriva vântului puternic de pe creastă.",
+                "en": "Reach the castle before 16:30 to see the golden winter light on the ruins; put on an extra vest against the strong wind on the summit plateau."
+              }
+            },
+            {
+              "name": {
+                "de": "Tossa de Montbui",
+                "hu": "Tossa de Montbui",
+                "ro": "Tossa de Montbui",
+                "en": "Tossa de Montbui"
+              },
+              "tip_5lang": {
+                "de": "Der Winter bietet oft die klarste Fernsicht bis zu den Pyrenäen; beeilen Sie sich mit dem Abstieg, da es nach Sonnenuntergang um 17:00 Uhr schlagartig friert.",
+                "hu": "Télen gyakran a legtisztább a kilátás akár a Pireneusokig is; siessen a leereszkedéssel, mert a 17:00 órai naplemente után hirtelen fagyni kezd.",
+                "ro": "Iarna oferă adesea cea mai clară vedere până la Pirinei; grăbiți coborârea, deoarece după apusul de la ora 17:00 începe să înghețe brusc.",
+                "en": "Winter often offers the clearest views all the way to the Pyrenees; hurry with the descent as it starts to freeze suddenly after the 17:00 sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Indítsa a reggelt egy kerékpártúrával a Santa Margarida templomhoz és a közeli történelmi cementkemencéhez. Dél körül a Castell de la Tossa felé tekerünk, hogy felfedezzük a várromokat és az idilli Font del Salvatge forrást. Délután dél felé haladunk, egészen a távoli Mare de Déu de Collbàs szentélyig. A napot egy frissítő fürdőzéssel zárhatja a városi medencéknél és sportpályáknál.",
         "ro": "Începeți dimineața cu o plimbare cu bicicleta la biserica Santa Margarida și la cuptorul de ciment istoric din apropiere. La prânz, urcați spre Castell de la Tossa pentru a vizita ruinele și izvorul idilic Font del Salvatge. După-amiaza vă conduce spre sud, la biserica izolată Mare de Déu de Collbàs. Încheiați-vă ziua revigorant la piscinele și terenurile de sport municipale.",
         "en": "Start the morning with a crisp bike ride to the Santa Margarida church and the nearby historical cement kiln. Around midday, pedal uphill toward Castell de la Tossa to explore the impressive ruins and the idyllic Font del Salvatge spring. The afternoon takes you further south to the secluded Mare de Déu de Collbàs sanctuary. End your active day feeling completely refreshed at the local municipal pools and sports facilities."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start an der Kirche, wo nasse Pflastersteine Vorsicht beim Anfahren erfordern. Mittags führt die Tour zu den Industrieöfen auf teils schlammigen Wegen. Am Nachmittag verlangt der Anstieg zur Burg bei Regen gute Bremsen und volle Konzentration auf dem rutschigen Asphalt. Der Abend endet an den Sportanlagen, wo Pfützen die Sicht auf den Weg erschweren können.",
+            "hu": "Esős kezdés a templomnál, ahol a vizes kövek óvatosságot igényelnek induláskor. Délben a túra az ipari kemencékhez vezet, néhol sáros utakon. Délután a várba vezető emelkedő esőben jó fékeket és teljes összpontosítást kíván a csúszós aszfalton. Az este a sportpályáknál zárul, ahol a tócsák nehezíthetik az útvonal átláthatóságát.",
+            "ro": "Un început ploios la biserică, unde pietrele ude necesită prudență la pornire. La prânz, turul duce spre cuptoarele industriale pe drumuri parțial noroioase. După-amiaza, urcarea spre castel pe ploaie cere frâne bune și concentrare maximă pe asfaltul alunecos. Seara se încheie la complexul sportiv, unde bălțile pot îngreuna vizibilitatea drumului.",
+            "en": "A rainy start at the church, where wet stones require caution when setting off. At noon, the tour leads to the industrial kilns on partly muddy paths. In the afternoon, the climb to the castle in the rain demands good brakes and full concentration on the slippery asphalt. The evening ends at the sports facilities, where puddles can make the path harder to navigate."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Margarida",
+                "hu": "Santa Margarida",
+                "ro": "Santa Margarida",
+                "en": "Santa Margarida"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihren Reifendruck für bessere Haftung auf nassem Untergrund; die Kirchenmauer bietet einen kurzen Schutz für einen schnellen Check Ihrer Regenkleidung.",
+                "hu": "Ellenőrizze a guminyomást a jobb tapadásért a vizes talajon; a templom fala rövid védelmet nyújt az esőfelszerelés gyors átvizsgálásához.",
+                "ro": "Verificați presiunea în pneuri pentru o aderență mai bună pe carosabil ud; zidul bisericii oferă un scurt adăpost pentru verificarea echipamentului.",
+                "en": "Check your tire pressure for better grip on wet surfaces; the church wall offers a brief shelter for a quick check of your rain gear before riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Forn de Ciment del Camí del Cementeri",
+                "hu": "Forn de Ciment del Camí del Cementeri",
+                "ro": "Forn de Ciment del Camí del Cementeri",
+                "en": "Forn de Ciment del Camí del Cementeri"
+              },
+              "tip_5lang": {
+                "de": "Der Weg hierher kann bei Regen schlammig sein; parken Sie das Rad sicher auf festem Grund und nutzen Sie die Ofenruine als kurzen Regenschutz.",
+                "hu": "Az idevezető út esőben sáros lehet; parkoljon biztonságos, szilárd talajon, és használja a kemence romjait rövid eső elleni menedékként.",
+                "ro": "Drumul până aici poate fi noroios pe ploaie; parcați bicicleta pe teren solid și folosiți ruina cuptorului ca scurt adăpost împotriva ploii.",
+                "en": "The path here can be muddy in the rain; park your bike securely on firm ground and use the kiln ruins as a brief shelter from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Tossa",
+                "hu": "Castell de la Tossa",
+                "ro": "Castell de la Tossa",
+                "en": "Castell de la Tossa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie beim steilen Anstieg niedrige Gänge, um Rutschen zu vermeiden; die Burg bietet oben überdachte Stellen, um kurz durchzuatmen und zu trocknen.",
+                "hu": "A meredek emelkedőn használjon alacsony fokozatot a megcsúszás elkerülésére; a várban talál fedett részeket, ahol kifújhatja magát és megszáradhat.",
+                "ro": "Folosiți viteze inferioare pe urcarea abruptă pentru a evita patinarea; castelul are zone acoperite unde vă puteți odihni și usca puțin echipamentul.",
+                "en": "Use low gears on the steep climb to avoid slipping; the castle has covered areas where you can catch your breath and dry off slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Font del Salvatge",
+                "hu": "Font del Salvatge",
+                "ro": "Font del Salvatge",
+                "en": "Font del Salvatge"
+              },
+              "tip_5lang": {
+                "de": "Die Quelle führt bei Regen viel Wasser, was toll aussieht, aber der Bereich ist sehr rutschig; bleiben Sie auf dem Radweg und meiden Sie das Unterholz.",
+                "hu": "A forrás esőben bővizű, ami remek látvány, de a környék rendkívül csúszós; maradjon a kerékpárúton, és kerülje el a sűrű, vizes aljnövényzetet.",
+                "ro": "Izvorul are mult debit pe ploaie, oferind un spectacol frumos, dar zona este foarte alunecoasă; rămâneți pe pistă și evitați vegetația udă.",
+                "en": "The spring has a high flow during rain, which looks great, but the area is very slippery; stay on the cycle path and avoid the wet undergrowth."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare de Déu de Collbàs",
+                "hu": "Mare de Déu de Collbàs",
+                "ro": "Mare de Déu de Collbàs",
+                "en": "Mare de Déu de Collbàs"
+              },
+              "tip_5lang": {
+                "de": "Der Abstieg zur Kapelle erfordert bei Nässe vorsichtiges Bremsen; nutzen Sie das Vordach der Kirche, um die nasse Brille oder das Visier zu reinigen.",
+                "hu": "A kápolnához való leereszkedés nedves úton óvatos fékezést igényel; használja a templom előtetőjét a vizes szemüveg vagy a sisakrostély letisztítására.",
+                "ro": "Coborârea spre capelă necesită frânare atentă pe carosabil ud; folosiți streașina bisericii pentru a curăța ochelarii sau viziera plină de picături.",
+                "en": "The descent to the chapel requires careful braking on wet roads; use the church porch to clean your wet glasses or helmet visor for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina i pistes municipals",
+                "hu": "Piscina i pistes municipals",
+                "ro": "Piscina i pistes municipals",
+                "en": "Piscina i pistes municipals"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf große Pfützen auf dem Parkplatzgelände, die Schlaglöcher verbergen könnten; das Ziel bietet feste Unterstände, um die Tour trocken zu beenden.",
+                "hu": "Ügyeljen a parkolónál kialakuló nagy tócsákra, amelyek kátyúkat rejthetnek; a célállomás szilárd beállókat kínál a túra száraz befejezéséhez.",
+                "ro": "Atenție la bălțile mari din parcare care pot ascunde gropi; destinația oferă adăposturi solide pentru a încheia turul într-un loc cât mai uscat.",
+                "en": "Watch out for large puddles in the parking area that might hide potholes; the destination offers solid shelters to finish the tour in the dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgenstart mit dem Rad erfordert winddichte Kleidung und Handschuhe. Mittags führt die Route durch die klare Winterluft zu den historischen Stätten, wobei die Sonne kaum wärmt. Der Nachmittag bringt den Anstieg zur Burg, wo man vor dem Sonnenuntergang um 17:00 Uhr die Fernsicht genießen muss. Abends wird es auf dem Rad sehr kalt, achten Sie auf funktionierende Beleuchtung.",
+            "hu": "A hűvös reggeli bringás induláshoz szélálló ruházat és kesztyű kötelező. Délben a túra a tiszta téli levegőben vezet a történelmi helyszínekhez, miközben a nap alig melegít. Délután a várba tartó emelkedő után a 17:00 órai naplemente előtt kell kiélvezni a kilátást. Este a bringán ülve nagyon hideg lesz, figyeljen a lámpákra.",
+            "ro": "Un start răcoros pe bicicletă necesită haine rezistente la vânt și mănuși. La prânz, traseul duce prin aerul curat de iarnă spre siturile istorice, soarele încălzind foarte puțin. După-amiaza aduce urcarea spre castel, unde trebuie să prindeți vederea clară înainte de apusul de la ora 17:00. Seara devine foarte frig pe bicicletă, asigurați-vă că aveți lumini bune.",
+            "en": "A chilly morning start on the bike requires windproof clothing and gloves. At noon, the route leads through the crisp winter air to historical sites, while the sun provides little warmth. The afternoon brings the climb to the castle, where you must enjoy the view before the 17:00 sunset. In the evening, it gets very cold on the bike; ensure your lights are working."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Santa Margarida",
+                "hu": "Santa Margarida",
+                "ro": "Santa Margarida",
+                "en": "Santa Margarida"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine kurze Aufwärmpause; die Steine der Kirche schützen vor dem kalten Fahrtwind, ideal zum Richten der Winterausrüstung.",
+                "hu": "Használja ki a megállót egy rövid bemelegítő pihenőre; a templom falai védenek a hideg menetszéltől, ideális hely a téli felszerelés igazítására.",
+                "ro": "Folosiți oprirea pentru o scurtă pauză de încălzire; zidurile bisericii vă protejează de vântul rece, fiind locul ideal pentru ajustarea echipamentului.",
+                "en": "Use the stop for a short warming break; the church walls protect you from the cold wind, making it the ideal spot to adjust your winter cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Forn de Ciment del Camí del Cementeri",
+                "hu": "Forn de Ciment del Camí del Cementeri",
+                "ro": "Forn de Ciment del Camí del Cementeri",
+                "en": "Forn de Ciment del Camí del Cementeri"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann morgens gefroren sein; parken Sie das Rad vorsichtig auf festem Untergrund und halten Sie sich beim Erkunden an den sonnigen Bereichen.",
+                "hu": "A talaj reggelente fagyos lehet; parkoljon óvatosan a szilárd talajon, és a romok felfedezése közben maradjon a napsütötte részeken.",
+                "ro": "Solul poate fi înghețat dimineața; parcați bicicleta cu atenție pe teren solid și rămâneți în zonele însorite în timp ce explorați ruinele.",
+                "en": "The ground can be frozen in the morning; park your bike carefully on firm ground and stay in the sunny areas while exploring the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Tossa",
+                "hu": "Castell de la Tossa",
+                "ro": "Castell de la Tossa",
+                "en": "Castell de la Tossa"
+              },
+              "tip_5lang": {
+                "de": "Durch die Anstrengung beim Aufstieg wird Ihnen warm, aber oben am Burgplateau zieht es eisig; ziehen Sie sofort eine Windjacke über, wenn Sie anhalten.",
+                "hu": "Az emelkedőn a megerőltetéstől kimelegszik, de a várplatón jeges szél fúj; azonnal vegyen fel szélkabátot, amint megáll a panorámát csodálni.",
+                "ro": "Efortul urcării vă va încălzi, dar pe platoul castelului vântul este înghețat; puneți-vă imediat o jachetă de vânt când vă opriți pentru poze.",
+                "en": "The exertion of the climb will warm you up, but the wind on the castle plateau is icy; put on a windbreaker immediately when you stop for the view."
+              }
+            },
+            {
+              "name": {
+                "de": "Font del Salvatge",
+                "hu": "Font del Salvatge",
+                "ro": "Font del Salvatge",
+                "en": "Font del Salvatge"
+              },
+              "tip_5lang": {
+                "de": "Der Bereich um die Quelle ist im Winter oft schattig und sehr kalt; machen Sie nur einen kurzen Fotostopp, um nicht auszukühlen, und fahren Sie zügig weiter.",
+                "hu": "A forrás környéke télen gyakran árnyékos és rendkívül hideg; csak egy rövid fotómegállót tartsanak, hogy ne hűljenek ki, majd tekerjenek tovább.",
+                "ro": "Zona izvorului este adesea umbrită și foarte rece iarna; faceți doar o scurtă oprire foto pentru a nu vă răci și continuați pedalarea rapid.",
+                "en": "The area around the spring is often shaded and very cold in winter; make only a quick photo stop to avoid getting chilled, then continue riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare de Déu de Collbàs",
+                "hu": "Mare de Déu de Collbàs",
+                "ro": "Mare de Déu de Collbàs",
+                "en": "Mare de Déu de Collbàs"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrt von hier ist lang und der Windchill-Effekt hoch; achten Sie darauf, dass Ihre Finger warm bleiben, um die Bremsen jederzeit sicher zu bedienen.",
+                "hu": "Innen hosszú lejtő következik, ahol a menetszél nagyon hideg; ügyeljen rá, hogy az ujjai melegek maradjanak a fékek biztonságos kezeléséhez.",
+                "ro": "Urmează o coborâre lungă unde vântul este foarte rece; asigurați-vă că degetele rămân calde pentru a putea acționa frânele în siguranță oricând.",
+                "en": "A long descent follows from here, and the wind chill is high; ensure your fingers stay warm enough to operate the brakes safely at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina i pistes municipals",
+                "hu": "Piscina i pistes municipals",
+                "ro": "Piscina i pistes municipals",
+                "en": "Piscina i pistes municipals"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier nach 17:00 Uhr bereits dunkel; nutzen Sie die Parkplatzbeleuchtung, um Ihr Rad sicher zu verstauen oder die Lichter für die Rückfahrt zu prüfen.",
+                "hu": "Télen itt 17:00 után már sötét van; használja a parkoló világítását a kerékpár biztonságos elpakolásához vagy a visszautat segítő lámpák ellenőrzéséhez.",
+                "ro": "Iarna este deja întuneric aici după ora 17:00; folosiți luminile parcării pentru a depozita bicicleta în siguranță sau pentru a verifica farurile.",
+                "en": "In winter it is already dark here after 17:00; use the parking lot lighting to pack your bike securely or check your lights for the return journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A nap kényelmesen indul a történelmi cementkemencénél és a keleti Barraca del Mula Blanca kőkunyhónál. Délben visszatérünk a központba a Santa Margarida templomhoz, majd délre a Collbàs szentélyhez hajtunk. Délután a fenséges Tossa vár várja, amelynek romjai uralják a lenyűgöző tájat. Az este pedig csendes természeti élményeket kínál a gyönyörű Tossa de Montbui területén.",
         "ro": "Ziua începe lejer cu o oprire la cuptorul de ciment istoric și la coliba de piatră estică Barraca del Mula Blanca. La prânz, conduceți înapoi în centru spre biserica Santa Margarida și apoi spre sanctuarul sudic Collbàs. După-amiaza vă așteaptă maiestuosul castel Tossa, ale cărui ruine domină peisajul. Seara oferă experiențe naturale liniștite în superba zonă Tossa de Montbui.",
         "en": "The day starts comfortably with a quick stop at the historic cement kiln and the eastern stone hut Barraca del Mula Blanca. At midday, drive back into the center to visit the Santa Margarida church and then the southern Collbàs sanctuary. The afternoon features the majestic Tossa castle, whose impressive ruins completely dominate the landscape. The evening offers quiet nature experiences in the beautiful Tossa de Montbui area."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt bequem im Auto, während Sie den Zementofen besuchen. Mittags führen die schmalen Straßen zu den Steinhütten, wo Vorsicht bei Aquaplaning geboten ist. Der Nachmittag bringt die Fahrt hinauf zur Burg durch dichten Nebel und Regen; parken Sie vorsichtig auf dem nassen Kies. Abends bietet die Rückfahrt von der Tossa bei eingeschränkter Sicht eine mystische Stimmung.",
+            "hu": "Az esős reggel kényelmesen, autóban indul a cementkemence meglátogatásával. Délben a szűk utak a kőkunyhókhoz vezetnek, ahol figyelni kell a vizes aszfalton való csúszásveszélyre. Délután a várba vezető út ködös és esős lehet; parkoljon óvatosan a nedves murván. Este a Tossáról való leereszkedés korlátozott látási viszonyok mellett misztikus hangulatot áraszt.",
+            "ro": "O dimineață ploioasă începe confortabil în mașină, vizitând cuptorul de ciment. La prânz, drumurile înguste duc spre colibe, unde trebuie atenție la acvaplanare pe asfaltul ud. După-amiaza aduce drumul spre castel prin ceață și ploaie; parcați cu grijă pe pietrișul umed. Seara, coborârea de pe Tossa oferă o atmosferă mistică în condiții de vizibilitate redusă.",
+            "en": "A rainy morning starts comfortably in the car while visiting the cement kiln. At noon, narrow roads lead to the stone huts, where caution is needed regarding aquaplaning on wet asphalt. The afternoon brings the drive up to the castle through fog and rain; park carefully on the wet gravel. In the evening, the descent from Tossa offers a mystical mood with limited visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forn de Ciment del Camí del Cementeri",
+                "hu": "Forn de Ciment del Camí del Cementeri",
+                "ro": "Forn de Ciment del Camí del Cementeri",
+                "en": "Forn de Ciment del Camí del Cementeri"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Denkmal, um im Regen nur kurze Wege zu haben; der Ofen bietet massiven Schutz vor Wind, falls Sie die Struktur genauer prüfen möchten.",
+                "hu": "Parkoljon közel a műemlékhez, hogy az esőben csak keveset kelljen gyalogolnia; a kemence remek védelmet nyújt a szél ellen, ha közelebbről is megnézné.",
+                "ro": "Parcați aproape de monument pentru a merge puțin pe jos prin ploaie; cuptorul oferă protecție masivă contra vântului dacă doriți să vedeți structura de aproape.",
+                "en": "Park close to the monument to minimize walking in the rain; the kiln offers solid protection from the wind if you want to examine the structure closely."
+              }
+            },
+            {
+              "name": {
+                "de": "Barraca del Mula Blanca",
+                "hu": "Barraca del Mula Blanca",
+                "ro": "Barraca del Mula Blanca",
+                "en": "Barraca del Mula Blanca"
+              },
+              "tip_5lang": {
+                "de": "Der Zufahrtsweg kann bei Regen matschig sein; bleiben Sie auf befestigten Stellen und genießen Sie den Anblick der historischen Hütte aus dem trockenen Auto.",
+                "hu": "A bekötőút esőben sáros lehet; maradjon a szilárdabb részeken, és csodálja meg a történelmi kunyhót a száraz autó kényelméből.",
+                "ro": "Drumul de acces poate fi noroios pe ploaie; rămâneți pe porțiunile solide și admirați coliba istorică din confortul mașinii uscate.",
+                "en": "The access road can be muddy in the rain; stay on the firmer sections and admire the historical hut from the comfort of your dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Margarida",
+                "hu": "Santa Margarida",
+                "ro": "Santa Margarida",
+                "en": "Santa Margarida"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenbesuch für eine Pause im Trockenen; die ruhige Atmosphäre im Inneren ist perfekt, um den Regen draußen für einen Moment zu vergessen.",
+                "hu": "Használja ki a templomlátogatást egy száraz szünetre; a benti nyugodt légkör tökéletes arra, hogy egy pillanatra elfelejtse a kinti esőzést.",
+                "ro": "Folosiți vizita la biserică pentru o pauză la uscat; atmosfera liniștită din interior este perfectă pentru a uita pentru un moment de ploaia de afară.",
+                "en": "Use the church visit for a dry break; the calm atmosphere inside is perfect for forgetting the rain outside for a moment while you rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare de Déu de Collbàs",
+                "hu": "Mare de Déu de Collbàs",
+                "ro": "Mare de Déu de Collbàs",
+                "en": "Mare de Déu de Collbàs"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße zur Kapelle erfordert bei Nässe langsame Fahrt; parken Sie so, dass Sie den Regenrinnen ausweichen, die bei Starkregen schnell anschwellen.",
+                "hu": "A kápolnához vezető szűk út nedvesen lassú haladást kíván; úgy parkoljon, hogy kerülje a vízelvezető árkokat, amelyek heves esőben gyorsan megtelhetnek.",
+                "ro": "Drumul îngust spre capelă necesită viteză redusă pe carosabil ud; parcați astfel încât să evitați șanțurile de scurgere care se pot umple rapid la ploaie.",
+                "en": "The narrow road to the chapel requires slow driving when wet; park so as to avoid drainage gullies that can swell quickly during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Tossa",
+                "hu": "Castell de la Tossa",
+                "ro": "Castell de la Tossa",
+                "en": "Castell de la Tossa"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zur Burg kann bei Nebel tückisch sein; nutzen Sie das Parklicht und erkunden Sie die Burgruine vorsichtig auf den glitschigen Außenwegen.",
+                "hu": "A várba vezető feljáró ködben trükkös lehet; használja a ködfényszórót, és a várromot óvatosan fedezze fel a csúszós külső ösvényeken.",
+                "ro": "Urcarea spre castel poate fi înșelătoare pe ceață; folosiți luminile de ceață și explorați ruinele cu atenție pe potecile exterioare alunecoase.",
+                "en": "The driveway to the castle can be tricky in the fog; use your fog lights and explore the castle ruins carefully on the slippery outer paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Tossa de Montbui",
+                "hu": "Tossa de Montbui",
+                "ro": "Tossa de Montbui",
+                "en": "Tossa de Montbui"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wolkenverhangene Aussicht direkt vom Parkplatz aus, falls der Regen zu stark wird; die Rückfahrt erfordert volle Konzentration bei Nässe.",
+                "hu": "Élvezze a felhős panorámát közvetlenül a parkolóból, ha túl erősen esne az eső; a visszautat a vizes úton fokozott figyelemmel tegye meg.",
+                "ro": "Bucurați-vă de panorama printre nori direct din parcare dacă plouă prea tare; drumul de întoarcere pe carosabil ud necesită concentrare maximă.",
+                "en": "Enjoy the cloudy panorama directly from the parking lot if the rain gets too heavy; take the return journey on the wet road with extra care."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt mit der Fahrt zu den Industrieöfen, wo Reif die Landschaft verzaubert. Mittags führt die Tour bequem im beheizten Auto zu den historischen Hütten unter der blassen Sonne. Am Nachmittag erreichen Sie das Burgplateau pünktlich zum Sonnenuntergang um 17:00 Uhr, wenn das Licht am schönsten ist. Der Abend endet mit einer gemütlichen Rückfahrt im warmen Wagen.",
+            "hu": "A tiszta téli reggel a mészégető kemencékhez vezet, ahol a dér varázslatossá teszi a tájat. Délben a túra kényelmesen, a fűtött autóban folytatódik a történelmi kunyhókhoz a bágyadt napsütésben. Délután pontosan a 17:00 órai naplementére érkezik meg a várplatóra, amikor a legszebbek a fények. Az este barátságos hazautazással zárul.",
+            "ro": "O dimineață senină de iarnă începe cu drumul spre cuptoarele de ciment, unde chiciura înfrumusețează peisajul. La prânz, turul continuă confortabil în mașina încălzită spre colibele istorice sub soarele palid. După-amiaza ajungeți pe platoul castelului fix la apusul de la ora 17:00, când lumina este superbă. Seara se încheie cu un drum spre casă relaxant.",
+            "en": "A clear winter morning begins with a drive to the cement kilns, where frost enchants the landscape. At noon, the tour continues comfortably in the heated car to the historical huts under the pale sun. In the afternoon, you reach the castle plateau just in time for the 17:00 sunset, when the light is most beautiful. The evening ends with a cozy drive back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forn de Ciment del Camí del Cementeri",
+                "hu": "Forn de Ciment del Camí del Cementeri",
+                "ro": "Forn de Ciment del Camí del Cementeri",
+                "en": "Forn de Ciment del Camí del Cementeri"
+              },
+              "tip_5lang": {
+                "de": "Die Heizung im Auto sorgt für einen warmen Start; steigen Sie kurz aus, um den Reif auf den alten Steinen zu bewundern, aber achten Sie auf gefrorene Pfützen.",
+                "hu": "Az autó fűtése gondoskodik a meleg kezdésről; szálljon ki egy pillanatra, hogy megcsodálja a zúzmarát az öreg köveken, de ügyeljen a fagyott tócsákra.",
+                "ro": "Căldura din mașină asigură un start plăcut; coborâți scurt pentru a admira chiciura de pe pietrele vechi, dar atenție la bălțile înghețate de pe drum.",
+                "en": "The car's heater ensures a warm start; step out briefly to admire the frost on the old stones, but watch out for frozen puddles on the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Barraca del Mula Blanca",
+                "hu": "Barraca del Mula Blanca",
+                "ro": "Barraca del Mula Blanca",
+                "en": "Barraca del Mula Blanca"
+              },
+              "tip_5lang": {
+                "de": "Die karge Winterlandschaft betont die raue Schönheit der Steinhütte; nutzen Sie die Parkmöglichkeit direkt davor für ein schnelles Foto im kalten Wind.",
+                "hu": "A kopár téli táj kiemeli a kőkunyhó nyers szépségét; használja ki a közvetlen parkolási lehetőséget egy gyors fotó erejéig a hideg szélben.",
+                "ro": "Peisajul arid de iarnă subliniază frumusețea brută a colibei de piatră; folosiți parcarea de lângă monument pentru o poză rapidă în vântul rece.",
+                "en": "The barren winter landscape emphasizes the raw beauty of the stone hut; take advantage of the nearby parking for a quick photo in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Margarida",
+                "hu": "Santa Margarida",
+                "ro": "Santa Margarida",
+                "en": "Santa Margarida"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es in der Kirche oft wärmer als draußen; genießen Sie die Stille und nutzen Sie den Halt, um sich vor der Weiterfahrt kurz aufzuwärmen.",
+                "hu": "Télen a templomban gyakran melegebb van, mint kint; élvezze a csendet, és használja ki a megállót, hogy egy kicsit átmelegedjen a továbbút előtt.",
+                "ro": "Iarna este adesea mai cald în biserică decât afară; bucurați-vă de liniște și folosiți oprirea pentru a vă încălzi puțin înainte de a porni mai departe.",
+                "en": "In winter it is often warmer inside the church than out; enjoy the silence and use the stop to warm up a bit before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Mare de Déu de Collbàs",
+                "hu": "Mare de Déu de Collbàs",
+                "ro": "Mare de Déu de Collbàs",
+                "en": "Mare de Déu de Collbàs"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zur Kapelle bietet tolle Ausblicke auf die winterlichen Täler; parken Sie vorsichtig, da die schattigen Waldwege oft den ganzen Tag glatt bleiben.",
+                "hu": "A kápolnához vezető út remek kilátást nyújt a téli völgyekre; parkoljon óvatosan, mert az árnyékos erdei utak egész nap csúszósak maradhatnak.",
+                "ro": "Drumul spre capelă oferă vederi superbe asupra văilor iarna; parcați cu atenție, deoarece drumurile umbrite de pădure pot rămâne alunecoase toată ziua.",
+                "en": "The drive to the chapel offers great views of the wintry valleys; park carefully as shaded forest roads often stay slippery throughout the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de la Tossa",
+                "hu": "Castell de la Tossa",
+                "ro": "Castell de la Tossa",
+                "en": "Castell de la Tossa"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Parkplatz vor 16:45 Uhr für das beste Licht; der kurze Weg zur Ruine ist bei Frost rutschig, tragen Sie Schuhe mit gutem Profil.",
+                "hu": "Érjen a parkolóba 16:45 előtt a legjobb fényekért; a romokhoz vezető rövid út fagyban csúszós lehet, viseljen jó tapadású talpú cipőt.",
+                "ro": "Ajungeți în parcare înainte de 16:45 pentru cea mai bună lumină; drumul scurt spre ruine poate fi alunecos pe ger, purtați pantofi cu talpă aderentă.",
+                "en": "Reach the parking lot before 16:45 for the best light; the short path to the ruins can be slippery in the frost, so wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Tossa de Montbui",
+                "hu": "Tossa de Montbui",
+                "ro": "Tossa de Montbui",
+                "en": "Tossa de Montbui"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne geht hier spektakulär unter; bleiben Sie bis 17:00 Uhr am Aussichtspunkt und nutzen Sie danach die Autoheizung für die kalte Abfahrt.",
+                "hu": "A téli naplemente innen lenyűgöző látvány; maradjon a kilátónál 17:00-ig, majd élvezze az autó fűtését a hideg hegyi leereszkedés közben.",
+                "ro": "Apusul de iarnă este spectaculos de aici; rămâneți la punctul de belvedere până la ora 17:00, apoi profitați de căldura mașinii la coborâre.",
+                "en": "The winter sunset is spectacular from here; stay at the viewpoint until 17:00, then enjoy the car's heater during the cold mountain descent."
+              }
+            }
+          ]
+        }
       }
     }
   }

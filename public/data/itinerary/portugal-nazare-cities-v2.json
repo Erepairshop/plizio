@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Nazaré aranyhomokos strandján, ahol a helyi élet lüktet. Délben sétáljon végig a történelmi utcákon a régi városházához és a helyi nők emlékművéhez. Délután menjen fel a Sítio negyedbe, élvezze a kilátást a hintáról és a kilátóból. Az este a legendás világítótoronynál ér véget, amelyet a hatalmas óceáni hullámok és a tenger zúgása ölel körbe a naplementében.",
         "ro": "Începeți ziua pe plaja aurie din Nazaré, unde viața locală este vibrantă. La prânz, plimbați-vă pe străzile istorice până la vechea primărie și la monumentul femeilor din Nazaré. După-amiaza urcați în cartierul Sítio, bucurându-vă de vederea de la leagăn și de la punctul de belvedere. Seara se încheie la legendarul far, înconjurat de valurile puternice ale oceanului Atlantic la apus.",
         "en": "Start your day on the golden sands of Nazaré beach, where local life is vibrant. By midday, stroll through the historical streets to the old town hall and the monument to the women of Nazaré. In the afternoon, head up to the Sítio district, enjoying the views from the panoramic swing and the main viewpoint. The evening concludes at the legendary lighthouse, surrounded by powerful crashing waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag am Strand von Nazaré ist geprägt von dramatischer Gischt und dem Rauschen der Wellen. Mittags bietet das Rathaus einen willkommenen Unterschlupf, während man die Architektur bewundert. Am Nachmittag führt der Weg hinauf zum Sítio, wo der Nebel die Klippen mystisch einhüllt. Der Abend endet am Leuchtturm, wo man die Urgewalt des regnerischen Atlantiks hautnah spüren kann.",
+            "hu": "A délelőtt a párás parton kezdődik, ahol az esőfüggöny mögött még hatalmasabbnak tűnnek a hullámok. Délben a városháza környékén keresünk menedéket a záporok elől. Délután a siklóval jutunk fel a ködbe burkolózó Sítio negyedbe, ahol a panorámahinta vizes fája alatt pihenünk meg. Az este a világítótoronynál ér véget, figyelve a szikláknak csapódó vízpermetet és a sötétedő óceánt.",
+            "ro": "Dimineața pe plajă este marcată de stropii de ploaie și sunetul hipnotic al valurilor uriașe. La prânz, Primăria oferă un scurt refugiu vizual înainte de a urca spre monumentele istorice. După-amiaza, ceața coboară peste punctul de belvedere Sítio, oferind un peisaj de basm. Seara se încheie la far, unde vântul și ploaia accentuează puterea brută a oceanului Atlantic.",
+            "en": "The morning on the beach is filled with dramatic sea spray and the sound of crashing waves. At noon, the Town Hall area provides a brief shelter while admiring the local architecture. In the afternoon, mist covers the Sítio cliffs, creating a mystical atmosphere around the monument and swing. The evening ends at the lighthouse, where you can witness the raw power of the rainy Atlantic."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand von Nazaré",
+                "hu": "Nazaré strandja",
+                "ro": "Plaja din Nazaré",
+                "en": "Nazaré Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die gigantischen Wellen von der Uferpromenade aus; die graue Kulisse ist perfekt für Fotos, aber halten Sie einen stabilen Regenschirm gegen die Gischt bereit.",
+                "hu": "Figyeld az óceán erejét a parti sétányról; a szürke égbolt drámai hátteret ad a fotóknak, de tarts készenlétben egy erős esernyőt a hirtelen lecsapó sós vízpermet ellen.",
+                "ro": "Observați valurile gigantice de pe faleză; cerul gri oferă un fundal dramatic pentru fotografii, dar păstrați o umbrelă rezistentă la îndemână împotriva stropilor de mare.",
+                "en": "Watch the massive Atlantic waves from the promenade; the dramatic grey sky makes for incredible photos, but keep a sturdy umbrella ready against the sudden sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Nazaré",
+                "hu": "Nazaré Városháza",
+                "ro": "Primăria din Nazaré",
+                "en": "Nazaré Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Arkaden in der Nähe des Rathauses als Unterschlupf; die nasse Pflasterung spiegelt die historischen Fassaden wunderschön wider, seien Sie jedoch vorsichtig.",
+                "hu": "Használd a városháza környéki árkádokat eső elleni menedékként; a vizes kövezet gyönyörűen tükrözi vissza a homlokzatot, de vigyázz, mert a burkolat ilyenkor csúszós lehet.",
+                "ro": "Folosiți arcadele din apropierea primăriei ca adăpost; pavajul umed reflectă frumos fațadele istorice, dar aveți grijă, deoarece suprafața poate deveni destul de alunecoasă.",
+                "en": "Use the arcades near the town hall as a dry shelter; the wet pavement reflects the historic facades beautifully, but be careful as the tiles can get quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Frau von Nazaré",
+                "hu": "Nazaréi nő emlékműve",
+                "ro": "Monumentul Femeii din Nazaré",
+                "en": "Monument to the Woman of Nazaré"
+              },
+              "tip_5lang": {
+                "de": "Die Bronzestatue wirkt im Regen besonders heroisch; tragen Sie rutschfeste Schuhe, da der Weg zum Denkmal bei Nässe glatt ist und die Sicht oft durch Nebel getrübt wird.",
+                "hu": "A bronzszobor különösen hősiesnek tűnik az esőben; viselj csúszásmentes cipőt, mert az emlékműhöz vezető út síkos, és a kilátást gyakran ködfátyol borítja ilyenkor.",
+                "ro": "Statuia de bronz pare deosebit de eroică în ploaie; purtați pantofi antiderapanți, deoarece drumul este alunecos, iar vizibilitatea este adesea limitată de ceața densă.",
+                "en": "The bronze statue looks particularly heroic in the rain; wear non-slip shoes as the path is slick, and visibility is often softened by the surrounding coastal mist."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramaschaukel Ladeira",
+                "hu": "Ladeira Panorámahinta",
+                "ro": "Leagănul Panoramic Ladeira",
+                "en": "Ladeira Panoramic Swing"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Schaukelerlebnis zwischen zwei Regenschauern; das Holz ist nass, also halten Sie sich gut fest, während Sie den Blick auf die verregnete Unterstadt genießen.",
+                "hu": "Egy rövid hintázás két zápor között; a fa vizes, így kapaszkodj erősen, miközben az eső áztatta alsóváros panorámájában gyönyörködsz a magaslati pontról.",
+                "ro": "O scurtă legănare între două averse; lemnul este ud, deci țineți-vă bine în timp ce admirați panorama orașului de jos spălat de ploaie de la acest punct înalt.",
+                "en": "A quick swing between rain showers; the wood is wet, so hold on tight while you enjoy the panoramic view of the rain-washed lower town from this high vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Sítio",
+                "hu": "Sítio Kilátó",
+                "ro": "Punctul de belvedere Sítio",
+                "en": "Sítio Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie mit der Seilbahn nach oben, um trocken zu bleiben; die Klippe bietet einen dramatischen Blick auf das tobende Meer, auch wenn die Farben im Regen gedämpft sind.",
+                "hu": "Utazz a siklóval a tetőre, hogy száraz maradj; a szikláról drámai kilátás nyílik a tomboló tengerre, még ha az eső miatt a színek kicsit visszafogottabbak is.",
+                "ro": "Urcați cu funicularul pentru a rămâne uscat; faleza oferă o vedere dramatică asupra mării învolburate, chiar dacă culorile sunt mai șterse din cauza ploii persistente.",
+                "en": "Take the funicular to the top to stay dry; the cliff offers a dramatic view of the raging sea, even if the coastal colors are more muted under the rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Nazaré",
+                "hu": "Nazaré Világítótorony",
+                "ro": "Farul din Nazaré",
+                "en": "Nazaré Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der beste Ort, um die Gischt der Riesenwellen zu spüren; eine wasserfeste Kapuze ist unerlässlich, da der Wind den Regen fast waagerecht peitscht.",
+                "hu": "Ez a legjobb hely az óriáshullámok erejének átélésére; egy vízálló kapucni elengedhetetlen, mivel a szél itt szinte vízszintesen hordja az esőt és a sós permetet.",
+                "ro": "Acesta este cel mai bun loc pentru a simți puterea valurilor uriașe; o glugă impermeabilă este esențială, deoarece vântul suflă ploaia aproape orizontal aici.",
+                "en": "This is the prime spot to witness the giant waves; a waterproof hood is essential, as the wind blows the rain and sea spray almost horizontally at this exposed point."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen am menschenleeren Strand weckt die Lebensgeister. Mittags wärmt die tiefstehende Sonne die historischen Plätze von Pederneira und Nazaré. Am Nachmittag genießen wir die kristallklare Sicht vom Sítio, bevor die Dämmerung früh einsetzt. Gegen 17:00 Uhr bewundern wir den Sonnenuntergang am Leuchtturm, eingehüllt in warme Winterkleidung.",
+            "hu": "A tiszta téli reggel friss széllel köszönti a látogatót a néptelen homokos parton. Napközben az alacsonyan járó nap sugarai melengetik a városháza és az emlékművek fehér köveit. Délután a Sítio kilátóból messzire ellátni a kristálytiszta időben. Az este hamar érkezik, így már ötkor a világítótoronynál várjuk a látványos téli naplementét.",
+            "ro": "O dimineață senină de iarnă pe plaja pustie îți revigorează simțurile cu aerul sărat. La prânz, soarele blând luminează piețele istorice, oferind o atmosferă liniștită. După-amiaza, vizibilitatea este maximă de pe stâncile din Sítio în aerul rece și curat. Seara vine devreme, așa că la ora 17:00 ne pregătim pentru un apus spectaculos lângă far.",
+            "en": "A crisp winter morning on the deserted beach invigorates the senses with fresh sea air. By noon, the low winter sun warms the historic squares and monuments of Nazaré. In the afternoon, enjoy crystal-clear views from Sítio before the early twilight sets in. By 5 PM, witness a spectacular sunset at the lighthouse, wrapped in warm winter layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand von Nazaré",
+                "hu": "Nazaré strandja",
+                "ro": "Plaja din Nazaré",
+                "en": "Nazaré Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen friedlichen Spaziergang am fast leeren Strand; die Winterluft ist kühl und erfrischend, tragen Sie also unbedingt eine windfeste Jacke und einen Schal.",
+                "hu": "Élvezd a békés sétát a szinte üres parton; a téli levegő hűvös és frissítő, ezért mindenképpen viselj szélálló kabátot és egy meleg sálat a parti szél ellen.",
+                "ro": "Bucurați-vă de o plimbare liniștită pe plaja aproape goală; aerul de iarnă este răcoros și revigorant, așa că purtați o jachetă rezistentă la vânt și un fular călduros.",
+                "en": "Enjoy a peaceful walk on the nearly empty beach; the winter air is cool and refreshing, so be sure to wear a windproof jacket and a warm scarf against the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus von Nazaré",
+                "hu": "Nazaré Városháza",
+                "ro": "Primăria din Nazaré",
+                "en": "Nazaré Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur in der klaren Wintersonne; die Cafés in der Nähe sind perfekt für eine kurze Pause mit einem heißen Galão, um sich wieder aufzuwärmen.",
+                "hu": "Csodáld meg az épületet a tiszta téli napsütésben; a közeli kávézók tökéletesek egy rövid pihenőre, ahol egy forró itallal felmelegedhetsz a városnézés közben.",
+                "ro": "Admirați arhitectura în soarele clar de iarnă; cafenelele din apropiere sunt perfecte pentru o scurtă pauză cu o băutură fierbinte pentru a vă reîncălzi rapid.",
+                "en": "Admire the architecture in the clear winter sunlight; nearby cafes are perfect for a short break with a hot drink to warm up before continuing your exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Frau von Nazaré",
+                "hu": "Nazaréi nő emlékműve",
+                "ro": "Monumentul Femeii din Nazaré",
+                "en": "Monument to the Woman of Nazaré"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die Traditionen in der kühlen Meeresbrise kennen; das Denkmal bietet im Winter ein tolles Fotomotiv ohne die üblichen Touristenmassen im Hintergrund.",
+                "hu": "Ismerkedj meg a helyi hagyományokkal a hűvös tengeri szélben; az emlékmű télen kiváló fotótéma a szokásos turistaáradat nélkül, tiszta fények mellett.",
+                "ro": "Aflați despre tradițiile locale în briza rece a mării; monumentul oferă un fundal excelent pentru fotografii iarna, fără mulțimile obișnuite de turiști din jur.",
+                "en": "Learn about local traditions in the cool sea breeze; the monument provides a great photo opportunity in winter without the usual tourist crowds in the background."
+              }
+            },
+            {
+              "name": {
+                "de": "Panoramaschaukel Ladeira",
+                "hu": "Ladeira Panorámahinta",
+                "ro": "Leagănul Panoramic Ladeira",
+                "en": "Ladeira Panoramic Swing"
+              },
+              "tip_5lang": {
+                "de": "Schaukeln Sie mit Blick auf die tiefstehende Wintersonne; da es früher dunkel wird, ist dies ein idealer Ort, um das goldene Licht über der Stadt einzufangen.",
+                "hu": "Hintázz az alacsonyan járó téli nap sugaraiban; mivel korábban sötétedik, ez az ideális hely az aranyóra fényeinek megörökítésére a város felett.",
+                "ro": "Legănați-vă în lumina blândă a soarelui de iarnă; deoarece se întunecă mai devreme, acesta este locul ideal pentru a surprinde lumina aurie peste orașul de jos.",
+                "en": "Swing with a view of the low winter sun; since it gets dark earlier, this is an ideal spot to capture the golden hour light over the town below you."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Sítio",
+                "hu": "Sítio Kilátó",
+                "ro": "Punctul de belvedere Sítio",
+                "en": "Sítio Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kristallklare Winterluft für weite Fernblicke; bringen Sie ein Fernglas mit, um die großen Wellen am Praia do Norte noch besser beobachten zu können.",
+                "hu": "Használd ki a kristálytiszta téli levegőt a távoli kilátáshoz; hozz távcsövet, hogy még jobban megfigyelhesd az óriási hullámokat a Praia do Norte partján.",
+                "ro": "Profitați de aerul clar de iarnă pentru vederi la distanță; aduceți un binoclu pentru a observa și mai bine valurile mari de pe plaja Praia do Norte.",
+                "en": "Take advantage of the crystal-clear winter air for distant views; bring binoculars to better observe the massive swells crashing on the Praia do Norte beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Nazaré",
+                "hu": "Nazaré Világítótorony",
+                "ro": "Farul din Nazaré",
+                "en": "Nazaré Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für einen frühen Sonnenuntergang gegen 17:00 Uhr; die Winterstürme bringen oft die größten Wellen hervor, also ziehen Sie sich extrem warm an.",
+                "hu": "Tökéletes hely a korai, 17:00 körüli naplemente megtekintéséhez; a téli viharok hozzák a legnagyobb hullámokat, ezért öltözz fel nagyon melegen a szél ellen.",
+                "ro": "Locul perfect pentru un apus de soare devreme, în jurul orei 17:00; furtunile de iarnă aduc adesea cele mai mari valuri, așa că îmbrăcați-vă foarte gros.",
+                "en": "The perfect spot for an early sunset around 5 PM; winter storms often bring the biggest waves, so dress extremely warmly against the biting Atlantic wind."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Egy frissítő kerékpártúra a régi Pederneira negyedben kezdődik a csendes templom és a történelmi pellengér meglátogatásával. Guruljon le a híres Praia da Nazaré strandhoz egy hosszú ebédszünetre. Délután tekerjen el a lenyűgöző bikaviadal-arénához és csodálja meg az elegáns színházat. Fejezze be a túrát az impozáns világítótoronynál, miközben a friss tengeri szellőt élvezi a nap végén.",
         "ro": "O plimbare revigorantă cu bicicleta începe în vechiul Pederneira, vizitând biserica liniștită și stâlpul istoric. Coborâți apoi la faimoasa plajă din Nazaré pentru o pauză lungă de prânz. După-amiaza, pedalați către impresionanta arenă de tauri și admirați elegantul teatru Chaby Pinheiro. Încheiați turul la impunătorul far, bucurându-vă de briza fantastică a oceanului la asfințit.",
         "en": "A refreshing bike ride begins in ancient Pederneira, visiting the quiet church and historic pillory. Roll down to the famous Praia da Nazaré for a well-deserved midday break. In the afternoon, cycle up to the striking bullring and admire the elegant Chaby Pinheiro theater. Conclude your ride at the imposing lighthouse, taking in the fantastic ocean breeze as the sun begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt durch Nazaré erfordert Vorsicht auf den Kopfsteinpflastergassen von Pederneira. Mittags erreichen wir den Strand, wo die salzige Luft und der Regen das Atmen erfrischen. Am Nachmittag führt die Route zum Theater und zur Arena, die im grauen Licht stolz wirken. Der Tag endet am Leuchtturm, wo wir trotz Nässe den Blick auf die gewaltige Brandung genießen.",
+            "hu": "Az esős kerékpározás óvatosságot igényel Pederneira macskaköves utcáin, ahol a kövek csúszóssá válnak. Délben érjük el a partot, a sós levegő és az eső keveréke felfrissít. Délután a színház és az aréna felé tekerünk, melyek büszkén állnak a szürke fényben. A nap a világítótoronynál zárul, ahol a vizes út ellenére is lenyűgöző az óceán látványa.",
+            "ro": "O plimbare cu bicicleta prin Nazaré necesită prudență pe străzile pavate din Pederneira. La prânz ajungem la plajă, unde amestecul de aer sărat și ploaie este revigorant. După-amiaza, traseul continuă spre teatru și arenă, care par impunătoare în lumina gri. Ziua se încheie la far, unde, în ciuda umezelii, priveliștea valurilor este spectaculoasă.",
+            "en": "Rainy cycling through Nazaré requires caution on the cobblestone streets of Pederneira. By noon, we reach the beach, where the mix of salt air and rain is refreshing. In the afternoon, the route leads to the theater and arena, standing proud in the grey light. The day ends at the lighthouse, where despite the wetness, the view of the surf is truly breathtaking."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Barmherzigkeitskirche Pederneira",
+                "hu": "Pederneira Irgalmasság Temploma",
+                "ro": "Biserica Milostivirii din Pederneira",
+                "en": "Church of Mercy of Pederneira"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und suchen Sie im Vorraum der Kirche Schutz vor dem Regen; bewundern Sie die Stille, während draußen der Regen auf die alten Dächer prasselt.",
+                "hu": "Parkold le biztonságosan a biciklit, és keress menedéket a templom előterében; élvezd a csendet, miközben odakint az eső kopog a régi háztetőkön és az utcán.",
+                "ro": "Parcați bicicleta în siguranță și căutați adăpost în pridvorul bisericii; admirați liniștea în timp ce afară ploaia bate în acoperișurile vechi ale cartierului.",
+                "en": "Park your bike securely and seek shelter in the church porch; enjoy the silence while the rain drums on the old roofs and streets of the historic district."
+              }
+            },
+            {
+              "name": {
+                "de": "Pranger von Pederneira",
+                "hu": "Pederneirai Pellengér",
+                "ro": "Stâlpul din Pederneira",
+                "en": "Pederneira Pillory"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am historischen Denkmal; seien Sie vorsichtig beim Absteigen, da das Kopfsteinpflaster rund um den Pranger bei Regen sehr rutschig sein kann.",
+                "hu": "Gyors megálló a történelmi emlékműnél; légy óvatos a leszálláskor, mert a pellengér körüli macskakő nagyon csúszóssá válhat az eső áztatta időben.",
+                "ro": "O oprire rapidă la monumentul istoric; fiți atenți la coborârea de pe bicicletă, deoarece pavajul din jurul stâlpului poate fi foarte alunecos pe ploaie.",
+                "en": "A quick stop at the historical monument; be careful when dismounting, as the cobblestones around the pillory can be very slippery in the rain-soaked weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Nazaré",
+                "hu": "Nazaré strandja",
+                "ro": "Plaja din Nazaré",
+                "en": "Nazaré Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig am Radweg entlang der Promenade; die Meeresbrise kann bei Regen kühl sein, tragen Sie daher eine gute Regenjacke und wasserfeste Handschuhe.",
+                "hu": "Tekerj óvatosan a sétány menti kerékpárúton; a tengeri szellő esőben hűvös lehet, így viselj jó esőkabátot és vízálló kesztyűt a kényelmesebb haladásért.",
+                "ro": "Mergeți cu atenție pe pista de biciclete de-a lungul falezei; briza mării poate fi rece pe ploaie, așa că purtați o pelerină bună și mănuși impermeabile.",
+                "en": "Cycle carefully on the bike lane along the promenade; the sea breeze can be chilly in the rain, so wear a good raincoat and waterproof gloves for comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Stierkampfarena von Nazaré",
+                "hu": "Nazaré Bikaviadal-aréna",
+                "ro": "Arena de Tauri din Nazaré",
+                "en": "Nazaré Bullring"
+              },
+              "tip_5lang": {
+                "de": "Die Außenmauern der Arena bieten einen guten Windschutz für eine kurze Trinkpause; achten Sie beim Fahren auf Pfützen, die auf dem sandigen Boden entstehen können.",
+                "hu": "Az aréna külső falai jó szélvédelmet nyújtanak egy rövid frissítő szünethez; vezetés közben figyelj a homokos talajon kialakuló tócsákra és a sárra.",
+                "ro": "Zidurile exterioare ale arenei oferă o protecție bună împotriva vântului; fiți atenți la bălțile care se pot forma pe solul nisipos în timpul mersului cu bicicleta.",
+                "en": "The arena's outer walls provide good wind protection for a short break; watch out for puddles that can form on the sandy ground while cycling around the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Chaby Pinheiro Theater",
+                "hu": "Chaby Pinheiro Színház",
+                "ro": "Teatrul Chaby Pinheiro",
+                "en": "Chaby Pinheiro Theater"
+              },
+              "tip_5lang": {
+                "de": "Ein kultureller Akzent an einem grauen Tag; parken Sie unter dem Vordach und bewundern Sie die Fassade des Theaters, die im Regen eine ganz eigene Ästhetik hat.",
+                "hu": "Kulturális színfolt a szürke napon; parkolj az előtető alatt, és csodáld meg a színház homlokzatát, amely az esőben különleges esztétikai élményt nyújt.",
+                "ro": "O pată de cultură într-o zi gri; parcați sub streșină și admirați fațada teatrului, care are o estetică aparte în lumina difuză a zilelor ploioase.",
+                "en": "A cultural touchpoint on a grey day; park under the overhang and admire the theater's facade, which takes on a unique aesthetic in the soft rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Nazaré",
+                "hu": "Nazaré Világítótorony",
+                "ro": "Farul din Nazaré",
+                "en": "Nazaré Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss trotz Regen; halten Sie den Lenker gut fest, wenn Sie die Klippe hinunterfahren, da starke Böen Ihr Fahrrad leicht aus dem Gleichgewicht bringen können.",
+                "hu": "A nap fénypontja az eső ellenére is; fogd erősen a kormányt a lejtőn, mert az erős széllökések könnyen kibillenthetik a biciklit az egyensúlyából a sziklán.",
+                "ro": "Punctul culminant al zilei; țineți bine ghidonul la coborârea spre far, deoarece rafalele puternice de vânt vă pot dezechilibra ușor bicicleta pe faleză.",
+                "en": "The final highlight despite the rain; grip your handlebars firmly as you descend, as strong gusts can easily unbalance your bike on the exposed cliff path."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Winterluft begleitet unsere Radtour von Pederneira zum Strand von Nazaré. Mittags genießen wir die wärmenden Sonnenstrahlen bei den historischen Sehenswürdigkeiten, während der Atlantikwind uns antreibt. Am Nachmittag radeln wir durch das Sítio-Viertel und bewundern das Theater. Der Tag endet früh mit einem glühenden Sonnenuntergang am Leuchtturm gegen 17:00 Uhr.",
+            "hu": "Friss téli levegő kíséri kerékpártúránkat Pederneirából le a nazaréi partra. Délben a melengető napsugarak mellett nézzük meg a történelmi emlékeket, miközben az óceáni szél segít a haladásban. Délután a Sítio negyed utcáin tekerünk a színház felé. A nap hamar zárul, ötkor már a világítótoronynál nézzük a parázsló téli naplementét.",
+            "ro": "Aerul proaspăt de iarnă ne însoțește în turul cu bicicleta de la Pederneira spre plaja din Nazaré. La prânz, ne bucurăm de razele soarelui la obiectivele istorice, în timp ce vântul ne dă energie. După-amiaza pedalăm prin cartierul Sítio spre teatru. Ziua se încheie devreme cu un apus spectaculos la far, în jurul orei 17:00.",
+            "en": "Fresh winter air accompanies our cycling tour from Pederneira down to Nazaré beach. At noon, enjoy the warming sun rays at the historic sites while the Atlantic wind pushes you forward. In the afternoon, cycle through the Sítio district towards the theater. The day ends early with a glowing sunset at the lighthouse around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Barmherzigkeitskirche Pederneira",
+                "hu": "Pederneira Irgalmasság Temploma",
+                "ro": "Biserica Milostivitii din Pederneira",
+                "en": "Church of Mercy of Pederneira"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Tour an diesem ruhigen Ort; die klare Winterluft macht die Farben der Kacheln besonders lebendig, aber ziehen Sie sich für den Start warm an.",
+                "hu": "Indítsd a túrát ezen a békés helyen; a tiszta téli levegőben a csempék színei élénkebbek, de öltözz fel rétegesen, mert az indulásnál még hűvös lehet az idő.",
+                "ro": "Începeți turul în acest loc liniștit; aerul clar de iarnă face culorile plăcilor ceramice mai vii, dar îmbrăcați-vă bine pentru începutul călătoriei.",
+                "en": "Start your tour at this peaceful spot; the clear winter air makes the tile colors extra vivid, but dress in layers as it can be quite chilly when you first set off."
+              }
+            },
+            {
+              "name": {
+                "de": "Pranger von Pederneira",
+                "hu": "Pederneirai Pellengér",
+                "ro": "Stâlpul din Pederneira",
+                "en": "Pederneira Pillory"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um den Blick über die Bucht zu genießen; die tiefe Wintersonne wirft lange, dramatische Schatten auf den Platz rund um den historischen Pranger.",
+                "hu": "Állj meg egy pillanatra, és csodáld meg az öbölre nyíló kilátást; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a történelmi pellengér körüli térre.",
+                "ro": "Opriți-vă pentru a admira vederea asupra golfului; soarele de iarnă proiectează umbre lungi și dramatice pe piața din jurul stâlpului istoric din Pederneira.",
+                "en": "Stop briefly to admire the view over the bay; the low winter sun casts long, dramatic shadows across the square surrounding the historical pillory of Pederneira."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Nazaré",
+                "hu": "Nazaré strandja",
+                "ro": "Plaja din Nazaré",
+                "en": "Nazaré Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren auf der Promenade ist im Winter entspannt, da weniger Fußgänger unterwegs sind; genießen Sie die Brise, aber schützen Sie Ihre Ohren vor dem kalten Wind.",
+                "hu": "A sétányon való biciklizés télen pihentető, mivel kevesebb a gyalogos; élvezd a friss fuvallatot, de védd a füleidet a hideg szél ellen egy meleg sapkával.",
+                "ro": "Mersul pe faleză este relaxant iarna, fiind mai puțini pietoni; bucurați-vă de briză, dar protejați-vă urechile de vântul rece cu o căciulă adecvată.",
+                "en": "Cycling on the promenade is relaxed in winter with fewer pedestrians; enjoy the breeze, but protect your ears from the cold wind with a warm hat or headband."
+              }
+            },
+            {
+              "name": {
+                "de": "Stierkampfarena von Nazaré",
+                "hu": "Nazaré Bikaviadal-aréna",
+                "ro": "Arena de Tauri din Nazaré",
+                "en": "Nazaré Bullring"
+              },
+              "tip_5lang": {
+                "de": "Ein markanter Orientierungspunkt auf Ihrer Route; die Arena wirkt im klaren Winterlicht fast wie eine Festung, ideal für ein schnelles Foto ohne Wartezeit.",
+                "hu": "Jellegzetes tájékozódási pont az útvonalon; az aréna a tiszta téli fényben szinte erődnek tűnik, ideális egy gyors fotóra várakozás és tömeg nélkül.",
+                "ro": "Un reper distinctiv pe traseul dumneavoastră; arena arată aproape ca o cetate în lumina clară de iarnă, fiind ideală pentru o fotografie rapidă fără aglomerație.",
+                "en": "A distinctive landmark on your route; the arena looks almost like a fortress in the clear winter light, perfect for a quick photo without any crowds or waiting."
+              }
+            },
+            {
+              "name": {
+                "de": "Chaby Pinheiro Theater",
+                "hu": "Chaby Pinheiro Színház",
+                "ro": "Teatrul Chaby Pinheiro",
+                "en": "Chaby Pinheiro Theater"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie gemütlich an diesem kulturellen Juwel vorbei; die ruhige Winteratmosphäre im Sítio-Viertel lässt Sie die architektonischen Details noch besser wahrnehmen.",
+                "hu": "Tekerj el kényelmesen e kulturális ékszer mellett; a Sítio negyed csendes téli hangulata lehetővé teszi, hogy még jobban megfigyeld az építészeti részleteket.",
+                "ro": "Treceți cu bicicleta pe lângă această bijuterie culturală; atmosfera liniștită de iarnă din cartierul Sítio vă permite să observați mai bine detaliile arhitecturale.",
+                "en": "Cycle leisurely past this cultural gem; the quiet winter atmosphere in the Sítio district allows you to appreciate the architectural details even more closely."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Nazaré",
+                "hu": "Nazaré Világítótorony",
+                "ro": "Farul din Nazaré",
+                "en": "Nazaré Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Endpunkt für Ihre Wintertour; kommen Sie vor 17:00 Uhr an, um das Farbspiel am Himmel zu erleben, bevor die Kälte nach Sonnenuntergang spürbar zunimmt.",
+                "hu": "Ideális végpont a téli túrához; érkezz meg 17:00 előtt, hogy lásd az ég színjátékát, mielőtt a hideg a naplemente után érezhetően fokozódna a sziklán.",
+                "ro": "Punctul final ideal pentru turul de iarnă; ajungeți înainte de ora 17:00 pentru a vedea culorile cerului, înainte ca frigul să se intensifice după apus.",
+                "en": "The ideal endpoint for your winter tour; arrive before 5 PM to witness the sky's colors, before the cold intensifies noticeably after the sun goes down."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a kora reggelt a Monte de São Bartolomeu hegyen, és csodálja meg a természetet felülről. Vezessen a pederneirai pellengérhez, majd töltse a délelőttöt a strandon. Délután frissítő szórakozás várja a Norparkban, mielőtt a lélegzetelállító Sítio kilátóhoz hajtana. A nap tökéletesen zárul Nazaré világhírű világítótornyánál, ahol a hatalmas hullámok lenyűgöző hátteret biztosítanak.",
         "ro": "Începeți dimineața devreme la Monte de São Bartolomeu pentru a admira natura de sus. Conduceți la stâlpul din Pederneira și petreceți dimineața la plajă. După-amiaza, vă așteaptă distracția în parcul acvatic Norpark, înainte de a conduce la uluitorul punct de belvedere Sítio. Ziua se încheie perfect la farul de renume mondial din Nazaré, pe un fundal spectaculos cu valuri oceanice.",
         "en": "Start your early morning at Monte de São Bartolomeu to admire the nature from above. Drive to the pillory in Pederneira and spend the morning relaxing by Nazaré beach. In the afternoon, enjoy some refreshing fun at Norpark before driving up to the breathtaking Sítio viewpoint. The day ends perfectly at the world-renowned Nazaré lighthouse, featuring a spectacular backdrop of giant ocean waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt bietet den besten Komfort, um Nazaré im Regen zu erkunden. Vormittags fahren wir zum Monte São Bartolomeu, wo der Wald im Regen duftet. Mittags halten wir am Strand und beobachten die Wellen aus dem trockenen Fahrzeug. Nachmittags besuchen wir das Sítio und den Leuchtturm, wobei das Auto als perfekter Rückzugsort vor den heftigen Schauern dient.",
+            "hu": "Az autós túra a legkényelmesebb módja Nazaré felfedezésének szakadó esőben is. Délelőtt a Monte São Bartolomeu felé vesszük az irányt, ahol az erdő illata betölti a párás levegőt. Délben a parton állunk meg, az autó ablakából figyelve a hullámokat. Délután a Sítio negyedet és a világítótornyot keressük fel, az autó biztonságos menedék a záporok elől.",
+            "ro": "O excursie cu mașina oferă cel mai bun confort pentru a explora Nazaré pe ploaie. Dimineața mergem spre Monte São Bartolomeu, unde pădurea miroase proaspăt. La prânz oprim la plajă și privim valurile din interiorul vehiculului uscat. După-amiaza vizităm Sítio și farul, mașina fiind refugiul perfect împotriva averselor bruște și puternice.",
+            "en": "A car trip offers the best comfort for exploring Nazaré in the pouring rain. In the morning, we head to Monte São Bartolomeu, where the forest scent fills the misty air. At noon, we stop by the beach, watching the waves from the dry vehicle. In the afternoon, we visit Sítio and the lighthouse, with the car serving as a safe shelter from heavy showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Naturpark Monte São Bartolomeu",
+                "hu": "Monte São Bartolomeu Természetvédelmi Terület",
+                "ro": "Rezervația Monte São Bartolomeu",
+                "en": "Monte São Bartolomeu Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die mystische Stimmung des Nebelwaldes vom Auto aus; die kurvige Straße bietet tolle Ausblicke, auch wenn die Wanderwege bei Regen matschig sind.",
+                "hu": "Élvezd a ködös erdő misztikus hangulatát az autóból; a kanyargós út nagyszerű kilátást nyújt, még akkor is, ha a gyalogösvények az eső miatt túl sárosak lennének.",
+                "ro": "Bucurați-vă de atmosfera mistică a pădurii de pe drum; șoseaua șerpuitoare oferă priveliști excelente, chiar dacă potecile de drumeție sunt noroioase pe ploaie.",
+                "en": "Enjoy the mystical mood of the misty forest from your car; the winding road offers great views, even if the hiking trails are too muddy during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pranger von Pederneira",
+                "hu": "Pederneirai Pellengér",
+                "ro": "Stâlpul din Pederneira",
+                "en": "Pederneira Pillory"
+              },
+              "tip_5lang": {
+                "de": "Ein bequemer Stopp im historischen Viertel; parken Sie in der Nähe des Aussichtspunkts, um den Regen kurz abzuwarten, bevor Sie zum Denkmal für ein Foto eilen.",
+                "hu": "Kényelmes megálló a történelmi negyedben; parkolj a kilátópont közelében, hogy kivárd az eső végét, mielőtt gyorsan kiszállnál egy fotóra az emlékműnél.",
+                "ro": "O oprire confortabilă în cartierul istoric; parcați aproape de punctul de belvedere pentru a aștepta trecerea ploii înainte de a ieși rapid pentru o fotografie.",
+                "en": "A comfortable stop in the historic district; park near the viewpoint to wait out a heavy shower before hopping out quickly for a photo at the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Nazaré",
+                "hu": "Nazaré strandja",
+                "ro": "Plaja din Nazaré",
+                "en": "Nazaré Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade; so können Sie das Spektakel der tosenden Wellen im Trockenen genießen, während der Regen gegen die Windschutzscheibe peitscht.",
+                "hu": "Parkolj közvetlenül a sétány mellett; így szárazon élvezheted a tomboló hullámok látványát, miközben az eső és a sós permet a szélvédőt mossa.",
+                "ro": "Parcați direct lângă faleză; astfel puteți admira spectacolul valurilor învolburate la căldură, în timp ce ploaia bate cu putere în parbrizul mașinii.",
+                "en": "Park right by the promenade; this way you can enjoy the spectacle of the crashing waves while staying dry, as the rain and spray hit the windshield."
+              }
+            },
+            {
+              "name": {
+                "de": "Norpark Wasserpark",
+                "hu": "Norpark Vízipark",
+                "ro": "Parcul Acvatic Norpark",
+                "en": "Norpark Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Obwohl der Badebetrieb im Regen ruht, bietet die Fahrt dorthin tolle Perspektiven auf die Nordküste; achten Sie auf die oft windgepeitschten Straßen in diesem Bereich.",
+                "hu": "Bár a strandolás esőben szünetel, az odavezető út kiváló rálátást biztosít az északi partra; figyelj az erős szélre, amely itt gyakran belekap az autóba.",
+                "ro": "Deși parcul este închis pentru înot pe ploaie, drumul oferă perspective frumoase asupra coastei de nord; atenție la vântul puternic de pe șoseaua expusă.",
+                "en": "Though swimming is out during rain, the drive there offers great perspectives of the north coast; be mindful of the strong winds often felt on the road here."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Sítio",
+                "hu": "Sítio Kilátó",
+                "ro": "Punctul de belvedere Sítio",
+                "en": "Sítio Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bis zum Parkplatz am Sítio; von dort ist es nur ein kurzer, windiger Weg zur Kante, wo Sie die dramatische Brandung unter der Wolkendecke sehen können.",
+                "hu": "Hajts fel a Sítio parkolójába; onnan csak egy rövid, szeles séta a szikla széle, ahol megcsodálhatod a drámai hullámzást a sötét felhők alatt.",
+                "ro": "Conduceți până la parcarea din Sítio; de acolo e doar o scurtă plimbare vântoasă până la marginea stâncii, unde puteți vedea valurile sub cerul înnorat.",
+                "en": "Drive to the Sítio parking lot; from there, it's just a short, windy walk to the cliff edge where you can admire the dramatic surf under the heavy clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Nazaré",
+                "hu": "Nazaré Világítótorony",
+                "ro": "Farul din Nazaré",
+                "en": "Nazaré Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Ein absolutes Muss bei Regen; bleiben Sie so lange wie möglich im Auto, bis Sie den kurzen Weg zum Leuchtturm sprinten, um die Gischt hautnah zu erleben.",
+                "hu": "Esőben is kötelező látnivaló; maradj az autóban, amíg csak lehet, majd fuss el a toronyig, hogy testközelből érezd a gigantikus hullámok erejét.",
+                "ro": "O vizită obligatorie chiar și pe ploaie; rămâneți în mașină până când sunteți gata să alergați spre far pentru a experimenta forța valurilor gigantice.",
+                "en": "A must-see even in the rain; stay in the car as long as possible before making the quick run to the lighthouse to witness the massive swells up close."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto startet am Monte São Bartolomeu mit weitem Blick über das Land. Mittags erkunden wir Pederneira und den Strand von Nazaré, wo die Wintersonne für angenehme Temperaturen sorgt. Am Nachmittag fahren wir hinauf zum Sítio und genießen die klare Sicht. Gegen 17:00 Uhr parken wir am Leuchtturm, um einen unvergesslichen Sonnenuntergang warm eingepackt zu erleben.",
+            "hu": "A téli autós túra a Monte São Bartolomeu kilátójánál kezdődik, ahonnan messzire ellátni a tiszta időben. Délben Pederneira és a strand következik, ahol a téli nap ereje kellemesebbé teszi a városnézést. Délután a Sítio negyedbe hajtunk a kilátásért. Ötkor már a világítótoronynál parkolunk, hogy meleg ruhában élvezzük a felejthetetlen naplementét.",
+            "ro": "Turul de iarnă cu mașina începe la Monte São Bartolomeu, cu vederi panoramice clare. La prânz explorăm Pederneira și plaja din Nazaré, unde soarele de iarnă creează o atmosferă plăcută. După-amiaza urcăm la Sítio pentru vizibilitate maximă. În jurul orei 17:00 parcăm la far pentru un apus de neuitat, bine protejați de frig.",
+            "en": "The winter car tour starts at Monte São Bartolomeu with clear panoramic views over the countryside. At noon, explore Pederneira and Nazaré beach, where the winter sun makes for pleasant sightseeing. In the afternoon, drive up to Sítio for maximum visibility. Around 5 PM, park at the lighthouse for an unforgettable sunset, well-protected from the cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Naturpark Monte São Bartolomeu",
+                "hu": "Monte São Bartolomeu Természetvédelmi Terület",
+                "ro": "Rezervația Monte São Bartolomeu",
+                "en": "Monte São Bartolomeu Nature Reserve"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für fantastische Fotos von der Spitze; die kühle Luft ist oben besonders frisch, also halten Sie Ihre Jacke für den kurzen Aufstieg bereit.",
+                "hu": "Használd ki a tiszta téli fényeket a csúcsról nyíló panorámafotókhoz; a fenti levegő nagyon hűvös lehet, így legyen kéznél a kabátod a rövid gyalogláshoz.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii panoramice de sus; aerul este foarte rece la înălțime, deci aveți jacheta pregătită pentru scurta urcare.",
+                "en": "Take advantage of the clear winter light for amazing photos from the summit; the air is crisp and cool at the top, so have your jacket ready for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Pranger von Pederneira",
+                "hu": "Pederneirai Pellengér",
+                "ro": "Stâlpul din Pederneira",
+                "en": "Pederneira Pillory"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Stopp im Winter; bewundern Sie den historischen Pranger und den Blick auf den Hafen, während die tiefstehende Sonne den Platz in goldenes Licht taucht.",
+                "hu": "Csendes téli megálló; csodáld meg a történelmi pellengért és a kikötőre nyíló kilátást, miközben az alacsonyan járó nap arany fénybe vonja a teret.",
+                "ro": "O oprire liniștită iarna; admirați stâlpul istoric și vederea spre port în timp ce soarele de după-amiază scaldă întreaga piață într-o lumină aurie.",
+                "en": "A peaceful winter stop; admire the historic pillory and the view over the harbor while the low winter sun bathes the entire square in a beautiful golden light."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Nazaré",
+                "hu": "Nazaré strandja",
+                "ro": "Plaja din Nazaré",
+                "en": "Nazaré Beach"
+              },
+              "tip_5lang": {
+                "de": "Parkplätze sind im Winter leicht zu finden; machen Sie einen Spaziergang im Sand und nutzen Sie das Auto danach, um sich bei laufender Heizung schnell aufzuwärmen.",
+                "hu": "Télen könnyű parkolóhelyet találni a parton; tegyél egy frissítő sétát a homokban, majd használd az autót egy gyors felmelegedésre, mielőtt továbbhajtanál.",
+                "ro": "Locurile de parcare sunt ușor de găsit iarna; faceți o plimbare pe nisip, apoi folosiți mașina pentru a vă reîncălzi rapid înainte de a pleca mai departe.",
+                "en": "Parking is easy to find in winter; take a refreshing walk on the sand, then use the car to warm up quickly with the heater before heading to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Norpark Wasserpark",
+                "hu": "Norpark Vízipark",
+                "ro": "Parcul Acvatic Norpark",
+                "en": "Norpark Waterpark"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter geschlossen, aber die Gegend ist ideal für eine Panoramafahrt; genießen Sie die weite Sicht auf den Atlantik ohne die sommerliche Hitze.",
+                "hu": "A vízipark télen zárva tart, de a környék ideális egy panoráma-autózáshoz; élvezd a végtelen kilátást az Atlanti-óceánra a nyári forróság és tömeg nélkül.",
+                "ro": "Parcul este închis iarna, dar zona este ideală pentru o plimbare panoramică cu mașina; admirați vederea spre ocean fără căldura sau aglomerația din vară.",
+                "en": "The waterpark is closed in winter, but the area is ideal for a scenic drive; enjoy the vast views of the Atlantic without the summer heat or the usual crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Sítio",
+                "hu": "Sítio Kilátó",
+                "ro": "Punctul de belvedere Sítio",
+                "en": "Sítio Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die beste Sicht des Jahres dank der klaren Winterluft; bringen Sie eine Kamera mit Stativ mit, da das Licht am späten Nachmittag für Profi-Aufnahmen perfekt ist.",
+                "hu": "Az év legjobb kilátása a tiszta téli levegőnek köszönhetően; hozz fényképezőgépet, mert a késő délutáni fények tökéletesek a profi felvételek készítéséhez.",
+                "ro": "Cea mai bună vizibilitate din an datorită aerului clar de iarnă; aduceți un aparat foto, deoarece lumina de după-amiază este perfectă pentru fotografii reușite.",
+                "en": "The best views of the year thanks to the clear winter air; bring a camera, as the late afternoon light is perfect for capturing the dramatic coastline below."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm von Nazaré",
+                "hu": "Nazaré Világítótorony",
+                "ro": "Farul din Nazaré",
+                "en": "Nazaré Lighthouse"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie für den Sonnenuntergang gegen 17:00 Uhr; die Winterstürme erzeugen oft gewaltige Gischtwolken, die im Gegenlicht der Sonne spektakulär aussehen.",
+                "hu": "Parkolj le a 17:00 körüli naplementéhez; a téli viharok hatalmas vízpermetet vernek fel, ami a lemenő nap ellenfényében egészen látványos és különleges.",
+                "ro": "Parcați pentru apusul de la ora 17:00; furtunile de iarnă creează adesea nori uriași de stropi care arată spectaculos în lumina soarelui care coboară în ocean.",
+                "en": "Park for the sunset around 5 PM; winter storms often create massive spray clouds that look spectacular in the backlighting of the setting Atlantic sun."
+              }
+            }
+          ]
+        }
       }
     }
   }

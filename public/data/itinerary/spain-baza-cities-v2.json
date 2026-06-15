@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a történelemben elmerülve a magasodó Alcazabánál, majd tekintse meg az ókori ibériai leleteket a régészeti múzeumban. Délben látogasson el az ikonikus Caños Dorados szökőkúthoz és a húspiachoz. A délutánt azzal töltheti, hogy a régi utcákon a békés Iglesia de la Merced felé sétál. Ahogy leszáll az est, pihenjen meg a figyelemre méltóan megőrzött Arab Fürdőben.",
         "ro": "Începeți dimineața scufundat în istorie la impunătoarea Alcazaba, urmată de o privire fascinantă asupra artefactelor iberice de la muzeul arheologic. La prânz veți vizita fântâna Caños Dorados și vechea măcelărie. Petreceți-vă după-amiaza plimbându-vă pe străzile vechi către pașnica Iglesia de la Merced. Odată cu lăsarea serii, relaxați-vă la Băile Arabe extrem de bine conservate.",
         "en": "Begin your morning immersed in history at the towering Alcazaba, followed by a fascinating look at ancient Iberian artifacts in the nearby archaeological museum. Midday brings you to the iconic Caños Dorados fountain and the historic meat market. Spend your afternoon wandering the old streets to the peaceful Iglesia de la Merced. As evening falls, relax at the remarkably preserved Arab Baths."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Alcazaba, wo der Regen die alten Mauern in eine mystische Atmosphäre taucht. Mittags bietet das Archäologische Museum den perfekten trockenen Unterschlupf, um tief in die Geschichte einzutauchen. Am Nachmittag schützen die Innenräume der Arabischen Bäder vor den Schauern. Der Abend endet mit einem kurzen Spaziergang über die glänzenden, nassen Gassen der Altstadt.",
+            "hu": "A reggel az Alcazaba romjai között indul, ahol az eső misztikus ködbe burkolja az ősi falakat. Délben a Régészeti Múzeum fedett terei nyújtanak tökéletes menedéket a záporok elől. Délután az Arab Fürdők belső termei felé vesszük az irányt, élvezve a védett környezetet. Este a kivilágított, vizes macskaköveken csillogó fények teszik hangulatossá a rövid sétát a történelmi központban.",
+            "ro": "Dimineața începe la Alcazaba, unde ploaia conferă ruinelor un aer melancolic și misterios. La prânz, Muzeul Arheologic oferă un adăpost perfect, permițându-vă să explorați istoria fără a vă uda. După-amiaza, Băile Arabe vă întâmpină într-un spațiu protejat și cald. Seara, plimbarea pe străzile pavate și lucioase din centrul vechi este scurtă, dar plină de farmec sub luminile orașului.",
+            "en": "The morning starts at the Alcazaba, where the rain wraps the ancient walls in a mystical atmosphere. At noon, the Archaeological Museum provides the perfect dry shelter to dive deep into history. In the afternoon, the indoor chambers of the Arab Baths protect you from the showers. The evening ends with a short walk through the shiny, wet alleys of the historic center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alcazaba de Baza",
+                "hu": "Alcazaba de Baza",
+                "ro": "Alcazaba de Baza",
+                "en": "Alcazaba de Baza"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Festungsreste mit Vorsicht auf den rutschigen Steinen; der Regen verstärkt den erdigen Duft der Geschichte auf dem Gelände.",
+                "hu": "Tekintse meg az erődítmény maradványait, de ügyeljen a csúszós kövekre; az eső ilyenkor felerősíti a helyszín történelmi, földes illatait.",
+                "ro": "Vizitați resturile fortăreței cu prudență pe pietrele alunecoase; ploaia intensifică mirosul pământiu al istoriei de pe sit.",
+                "en": "View the fortress remains with caution on the slippery stones; the rain enhances the earthy scent of history surrounding the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Baza",
+                "hu": "Baza Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Baza",
+                "en": "Museo Arqueológico de Baza"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen großartigen Innenraum, um die Dama de Baza zu bewundern, während draußen der Regen auf das historische Gebäude prasselt.",
+                "hu": "Használja ki ezt a remek belső teret a Bazai Dáma megcsodálására, miközben odakint az eső kopog a történelmi épület tetején.",
+                "ro": "Profită de acest spațiu interior generos pentru a admira Dama de Baza, în timp ce afară ploaia bate în acoperișul clădirii istorice.",
+                "en": "Take advantage of this great indoor space to admire the Lady of Baza while the rain drums on the roof of the historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente de los Caños Dorados",
+                "hu": "Fuente de los Caños Dorados",
+                "ro": "Fuente de los Caños Dorados",
+                "en": "Fuente de los Caños Dorados"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Brunnen ist ideal; die goldenen Röhren wirken im grauen Regenlicht besonders kontrastreich und fotogen.",
+                "hu": "Egy gyors megálló a kútnál ideális; az aranyozott csövek a szürke esőfényben különösen kontrasztosak és fotogének.",
+                "ro": "O oprire rapidă la fântână este ideală; ciubucurile aurii par deosebit de contrastante și fotogenice în lumina gri de ploaie.",
+                "en": "A quick stop at the fountain is ideal; the golden spouts look particularly contrasting and photogenic in the grey rain light."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiguas Carnicerías",
+                "hu": "Antiguas Carnicerías",
+                "ro": "Antiguas Carnicerías",
+                "en": "Antiguas Carnicerías"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Renaissance-Fassade von einem nahegelegenen Vordach aus, um trocken zu bleiben, während Sie die Details studieren.",
+                "hu": "Csodálja meg a reneszánsz homlokzatot egy közeli előtető alól, hogy szárazon maradjon, miközben a részleteket tanulmányozza.",
+                "ro": "Admirați fațada renascentistă de sub un coronament din apropiere pentru a rămâne uscat în timp ce studiați detaliile arhitecturale.",
+                "en": "Admire the Renaissance facade from under a nearby overhang to stay dry while you study the intricate architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Merced",
+                "hu": "Iglesia de la Merced",
+                "ro": "Iglesia de la Merced",
+                "en": "Iglesia de la Merced"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen und trockenen Rückzugsort; bewundern Sie das barocke Retabel und genießen Sie die Stille vor dem Regen.",
+                "hu": "A templom csendes és száraz menedéket nyújt; csodálja meg a barokk oltárképet és élvezze az eső elől oltalmat adó nyugalmat.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat; admirați retablul baroc și bucurați-vă de liniștea protectoare împotriva ploii.",
+                "en": "The church offers a quiet and dry retreat; admire the Baroque altarpiece and enjoy the peaceful sanctuary away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Arabische Bäder von Baza",
+                "hu": "Bazai Arab Fürdő",
+                "ro": "Băile Arabe din Baza",
+                "en": "Baza Arab Baths"
+              },
+              "tip_5lang": {
+                "de": "Dieses unterirdische Juwel ist der beste Ort bei Regen; die sternförmigen Oberlichter lassen das Regenlicht sanft in die Hallen fallen.",
+                "hu": "Ez a föld alatti ékszerdoboz a legjobb hely esőben; a csillag alakú tetőablakokon át lágyan szűrődik be az esős nappali fény.",
+                "ro": "Această bijuterie subterană este cel mai bun loc pe ploaie; luminatoarele în formă de stea lasă lumina difuză să pătrundă delicat.",
+                "en": "This underground gem is the best place during rain; the star-shaped skylights allow the rainy daylight to filter in softly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen weht ein frischer Wind um die Alcazaba, was die Aussicht auf die Sierra besonders klar macht. Mittags wärmen Sie sich in den Ausstellungsräumen des Museums auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, ist der Nachmittag perfekt für die stimmungsvollen Arabischen Bäder. Der Abend in den kühlen Gassen von Baza erfordert warme Kleidung und verspricht winterliche Ruhe.",
+            "hu": "Reggel friss szél fúj az Alcazaba falai között, ami különösen tisztává teszi a kilátást a Sierrára. Délben a múzeum fűtött kiállítótermeiben melegedhetünk fel. Mivel a nap korán, 17:00 körül lebukik, a délután tökéletes az Arab Fürdők hangulatos látogatásához. A hideg esti órákban Baza utcáin meleg öltözet és téli nyugalom várja az utazót.",
+            "ro": "Dimineața, un vânt proaspăt suflă printre zidurile de la Alcazaba, făcând vederea spre Sierra extrem de clară. La prânz, vă puteți încălzi în sălile muzeului. Deoarece soarele apune devreme, în jur de ora 17:00, după-amiaza este perfectă pentru o vizită la Băile Arabe. Seara pe străzile reci din Baza necesită haine groase și promite o liniște hibernală.",
+            "en": "In the morning, a brisk wind blows around the Alcazaba, making the views of the Sierra exceptionally clear. At noon, warm up in the museum's exhibition rooms. Since the sun sets early around 17:00, the afternoon is perfect for a cozy visit to the Arab Baths. The evening in the chilly streets of Baza requires warm clothing and promises winter tranquility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alcazaba de Baza",
+                "hu": "Alcazaba de Baza",
+                "ro": "Alcazaba de Baza",
+                "en": "Alcazaba de Baza"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine windfeste Jacke für den Rundgang auf den Mauern; der Blick auf die schneebedeckten Gipfel der Umgebung ist im Winter atemberaubend.",
+                "hu": "Viseljen szélálló kabátot a falakon való körbejáráshoz; a környező hegyek havas csúcsaira nyíló kilátás télen lélegzetelállító.",
+                "ro": "Purtați o jachetă rezistentă la vânt pentru turul pe ziduri; vederea spre vârfurile înzăpezite din jur este uluitoare în timpul iernii.",
+                "en": "Wear a windproof jacket for the walk along the walls; the view of the surrounding snow-capped peaks is breathtaking in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Baza",
+                "hu": "Baza Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Baza",
+                "en": "Museo Arqueológico de Baza"
+              },
+              "tip_5lang": {
+                "de": "Das klimatisierte Museum ist ideal, um sich aufzuwärmen; nehmen Sie sich Zeit für die iberischen Schätze in der behaglichen Atmosphäre.",
+                "hu": "A temperált múzeum ideális a felmelegedéshez; szánjon időt az ibériai kincsek felfedezésére a kellemes, védett belső terekben.",
+                "ro": "Muzeul climatizat este ideal pentru a vă încălzi; acordați-vă timp pentru a descoperi comorile iberice în atmosfera confortabilă.",
+                "en": "The climate-controlled museum is ideal for warming up; take your time to explore the Iberian treasures in the cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente de los Caños Dorados",
+                "hu": "Fuente de los Caños Dorados",
+                "ro": "Fuente de los Caños Dorados",
+                "en": "Fuente de los Caños Dorados"
+              },
+              "tip_5lang": {
+                "de": "Das fließende Wasser wirkt in der kalten Luft fast dampfend; ein kurzer Halt reicht aus, um dieses Wahrzeichen im Winterlicht zu fotografieren.",
+                "hu": "A folyó víz a hideg levegőben szinte gőzölgőnek tűnik; egy rövid megálló elég, hogy lefotózza ezt a jelképet a téli fényekben.",
+                "ro": "Apa curgătoare pare aproape aburindă în aerul rece; o scurtă oprire este suficientă pentru a fotografia acest simbol în lumina iernii.",
+                "en": "The flowing water looks almost steaming in the cold air; a short stop is enough to photograph this landmark in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiguas Carnicerías",
+                "hu": "Antiguas Carnicerías",
+                "ro": "Antiguas Carnicerías",
+                "en": "Antiguas Carnicerías"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Renaissance-Details; ein schneller Blick auf das Gebäude lohnt sich auch bei Kälte.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a reneszánsz részletekre; a hidegben is érdemes egy gyors pillantást vetni az épületre.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi pe detaliile renascentiste; merită o privire rapidă asupra clădirii chiar și pe frig.",
+                "en": "The low winter sun casts long shadows on the Renaissance details; it's worth a quick glance at the building even in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de la Merced",
+                "hu": "Iglesia de la Merced",
+                "ro": "Iglesia de la Merced",
+                "en": "Iglesia de la Merced"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; nutzen Sie den Besuch, um innezuhalten und das prächtige Innere in aller Ruhe zu bewundern.",
+                "hu": "A vastag kőfalak kint tartják a metsző hideget; használja ki a látogatást az elcsendesedésre és a pompás belső tér megcsodálására.",
+                "ro": "Zidurile groase de piatră țin frigul afară; profitați de vizită pentru a vă reculege și a admira interiorul magnific în liniște.",
+                "en": "The thick stone walls keep the biting cold outside; use the visit to pause and admire the magnificent interior in total peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Arabische Bäder von Baza",
+                "hu": "Bazai Arab Fürdő",
+                "ro": "Băile Arabe din Baza",
+                "en": "Baza Arab Baths"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Bäder am späten Nachmittag; wenn es draußen dunkel wird, wirkt die Beleuchtung der alten Gewölbe besonders magisch.",
+                "hu": "Látogassa meg a fürdőt késő délután; ahogy odakint sötétedik, az ősi boltozatok megvilágítása különösen mágikus hangulatot áraszt.",
+                "ro": "Vizitați băile spre sfârșitul după-amiezii; pe măsură ce se întunecă afară, iluminarea vechilor bolți pare deosebit de magică.",
+                "en": "Visit the baths in the late afternoon; as it gets dark outside, the lighting of the ancient vaults feels particularly magical."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kerékpáros kalandja a Palacio de los Enríqueznél kezdődik, mielőtt egy frissítő reggeli túrát tenne a Parque de la Alameda zöld ösvényein. Délben tekerjen fel a történelmi Alcazaba erődbe. Délután guruljon el az ikonikus ötsarkos torony és a történelmi arisztokrata paloták mellett. A napot egy kellemes vidéki kerékpározással zárja a távoli Torre Capelhez a lemenő nap fényében.",
         "ro": "Aventura pe bicicletă începe la Palacio de los Enríquez înainte de a vă bucura de o plimbare matinală prin Parque de la Alameda. La prânz, pedalați până la fortăreața Alcazaba. După-amiaza, treceți pe lângă iconicul turn cu cinci colțuri și palatele aristocratice istorice. Încheiați ziua mergând pe bicicletă spre zona rurală pentru a vizita și fotografia impunătorul Torre Capel.",
         "en": "Your cycling adventure starts at the grandiose Palacio de los Enríquez before enjoying a refreshing morning ride through the green pathways of Parque de la Alameda. At midday, pedal up to the historical Alcazaba fortress to uncover Baza's Moorish past. In the afternoon, glide past the iconic five-cornered tower and historic aristocratic palaces. End the day riding out to the rural Torre Capel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour am Morgen erfordert Vorsicht auf den nassen Wegen zum Palast. Mittags bietet der Park zwar etwas Schutz durch Bäume, doch der Boden kann rutschig sein. Am Nachmittag führt die Fahrt durch die historischen Gassen an Türmen vorbei, wobei volle Konzentration auf die Fahrbahn nötig ist. Der Abend schließt mit einer vorsichtigen Rückfahrt bei reflektierenden Lichtern auf dem Asphalt ab.",
+            "hu": "A reggeli biciklizés óvatosságot igényel a palotához vezető vizes utakon. Délben a park fái némi védelmet nyújtanak, de a talaj csúszós lehet. Délután a történelmi utcákon, tornyok mellett tekerve teljes koncentrációra van szükség az útfelület miatt. Az este egy óvatos visszaúttal zárul, miközben az aszfalton megcsillannak a város fényei.",
+            "ro": "Turul cu bicicleta de dimineață necesită prudență pe drumurile umede spre palat. La prânz, parcul oferă ceva protecție prin copaci, dar solul poate fi alunecos. După-amiaza, pedalând pe străzile istorice pe lângă turnuri, este necesară concentrare maximă asupra drumului. Seara se încheie cu o întoarcere precaută, cu luminile reflectându-se pe asfalt.",
+            "en": "The morning bike ride requires caution on the wet paths to the palace. At noon, the park provides some tree cover, but the ground can be slippery. In the afternoon, cycling through historic streets past towers requires full concentration on the road surface. The evening concludes with a careful ride back as city lights reflect on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de los Enríquez",
+                "hu": "Palacio de los Enríquez",
+                "ro": "Palacio de los Enríquez",
+                "en": "Palacio de los Enríquez"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher unter einem Dachvorsprung und bewundern Sie die Renaissance-Architektur, die im Regen besonders edel wirkt.",
+                "hu": "Parkolja le kerékpárját biztonságosan egy ereszkedő alatt, és csodálja meg a reneszánsz építészetet, amely esőben különösen előkelő.",
+                "ro": "Parcați bicicleta în siguranță sub o streașină și admirați arhitectura renascentistă, care arată deosebit de nobilă în ploaie.",
+                "en": "Park your bike safely under an overhang and admire the Renaissance architecture, which looks particularly noble in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de la Alameda",
+                "hu": "Parque de la Alameda",
+                "ro": "Parque de la Alameda",
+                "en": "Parque de la Alameda"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Parkwegen, da das nasse Laub rutschig sein kann; die Bäume bieten einen natürlichen Regenschutz für eine kurze Pause.",
+                "hu": "Hajtson lassan a park útjain, mert a nedves levelek csúszósak lehetnek; a fák természetes esővédelmet nyújtanak egy rövid pihenőhöz.",
+                "ro": "Mergeți încet pe aleile parcului, deoarece frunzele ude pot fi alunecoase; copacii oferă o protecție naturală pentru o scurtă pauză.",
+                "en": "Ride slowly on the park paths as wet leaves can be slippery; the trees provide natural rain protection for a short breather."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazaba de Baza",
+                "hu": "Alcazaba de Baza",
+                "ro": "Alcazaba de Baza",
+                "en": "Alcazaba de Baza"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Rad am Eingang; der Aufstieg zu Fuß ist bei Regen sicherer, um die neblige Aussicht von den Mauern zu genießen.",
+                "hu": "Láncolja le a kerékpárt a bejáratnál; a gyalogos feljutás esőben biztonságosabb, hogy élvezze a várfalakról nyíló ködös panorámát.",
+                "ro": "Asigurați bicicleta la intrare; urcarea pe jos este mai sigură pe ploaie pentru a vă bucura de panorama cețoasă de pe ziduri.",
+                "en": "Lock your bike at the entrance; walking up is safer in the rain to enjoy the misty panoramic views from the fortress walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de las Cinco Esquinas",
+                "hu": "Torre de las Cinco Esquinas",
+                "ro": "Torre de las Cinco Esquinas",
+                "en": "Torre de las Cinco Esquinas"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp am Turm ist ideal; achten Sie beim Absteigen auf den rutschigen Untergrund der historischen Pflasterung.",
+                "hu": "Egy gyors fotómegálló a toronynál ideális; leszálláskor ügyeljen a történelmi burkolat csúszós felületére.",
+                "ro": "O scurtă oprire pentru fotografii la turn este ideală; aveți grijă la coborâre la suprafața alunecoasă a pavajului istoric.",
+                "en": "A quick photo stop at the tower is ideal; when dismounting, watch out for the slippery surface of the historic pavement."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de los Páez de Espinosa",
+                "hu": "Palacio de los Páez de Espinosa",
+                "ro": "Palacio de los Páez de Espinosa",
+                "en": "Palacio de los Páez de Espinosa"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Wappen über dem Portal von einem trockenen Standpunkt aus; der dunkle Stein kontrastiert schön mit dem Regen.",
+                "hu": "Tekintse meg a kapu feletti címert egy száraz pontról; a sötét kőzet gyönyörűen kontrasztos az esős háttérrel.",
+                "ro": "Priviți blazonul de deasupra porții dintr-un punct uscat; piatra întunecată contrastează frumos cu fundalul ploios.",
+                "en": "View the coat of arms above the portal from a dry spot; the dark stone contrasts beautifully with the rainy background."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Pósito de Baza",
+                "hu": "Real Pósito de Baza",
+                "ro": "Real Pósito de Baza",
+                "en": "Real Pósito de Baza"
+              },
+              "tip_5lang": {
+                "de": "Dieses ehemalige Getreidelager wirkt bei Regen besonders robust; ein kurzer Halt bietet Zeit, den Regenponcho nachzujustieren.",
+                "hu": "Ez az egykori magtár esőben különösen robusztusnak tűnik; egy rövid megálló lehetőséget ad az esővédő felszerelés igazítására.",
+                "ro": "Acest fost hambar pare deosebit de robust pe ploaie; o scurtă oprire oferă timp pentru ajustarea echipamentului de protecție.",
+                "en": "This former granary looks particularly robust in the rain; a short stop provides time to adjust your rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Capel",
+                "hu": "Torre Capel",
+                "ro": "Torre Capel",
+                "en": "Torre Capel"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Turm kann schlammig sein; wählen Sie den befestigten Pfad und genießen Sie die dramatische Regenlandschaft über Baza.",
+                "hu": "A toronyhoz vezető út sáros lehet; válassza a szilárd burkolatú ösvényt, és élvezze a drámai esős tájat Baza felett.",
+                "ro": "Drumul spre turn poate fi noroios; alegeți poteca pavată și bucurați-vă de peisajul dramatic de ploaie de deasupra Bazei.",
+                "en": "The path to the tower can be muddy; stick to the paved track and enjoy the dramatic rainy landscape overlooking Baza."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt zum Palast ist bei frischer Winterluft belebend. Im Alameda-Park leuchten die kahlen Bäume im klaren Licht. Mittags führt der Weg bergauf zur Alcazaba, wobei die Bewegung hilft, warm zu bleiben. Da es früh dunkel wird, sollten Sie den Torre Capel vor 17:00 Uhr erreichen. Der Abend endet mit einer zügigen Fahrt durch die kalte, ruhige Stadt zurück zum Startpunkt.",
+            "hu": "A reggeli biciklizés a palotához élénkítő a friss téli levegőben. Az Alameda park kopár fái tisztán ragyognak a téli fényben. Délben az út felfelé vezet az Alcazabához, a mozgás segít melegen maradni. Mivel korán sötétedik, a Torre Capelt érdemes 17:00 előtt elérni. Az este egy gyors tekeréssel zárul a hideg, csendes városon át a kiindulópontig.",
+            "ro": "Cursa de dimineață spre palat este revigorantă în aerul proaspăt de iarnă. În parcul Alameda, copacii golași strălucesc în lumina clară. La prânz, drumul urcă spre Alcazaba, mișcarea ajutându-vă să rămâneți cald. Deoarece se întunecă devreme, ar trebui să ajungeți la Torre Capel înainte de ora 17:00. Seara se încheie cu o cursă rapidă prin orașul rece și liniștit.",
+            "en": "The morning ride to the palace is invigorating in the crisp winter air. In Alameda Park, the bare trees shine in the clear winter light. At noon, the path leads uphill to the Alcazaba; the movement helps you stay warm. Since it gets dark early, reach Torre Capel before 17:00. The evening ends with a brisk ride through the cold, quiet city back to the starting point."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palacio de los Enríquez",
+                "hu": "Palacio de los Enríquez",
+                "ro": "Palacio de los Enríquez",
+                "en": "Palacio de los Enríquez"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe für die Fahrt; bewundern Sie den Palast, dessen Fassade in der tiefstehenden Wintersonne warm leuchtet.",
+                "hu": "Viseljen meleg kesztyűt a tekeréshez; csodálja meg a palotát, melynek homlokzata melegen ragyog az alacsony téli napsütésben.",
+                "ro": "Purtați mănuși groase pentru drum; admirați palatul, a cărui fațadă strălucește cald în soarele jos de iarnă.",
+                "en": "Wear warm gloves for the ride; admire the palace, whose facade glows warmly in the low-angled winter sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque de la Alameda",
+                "hu": "Parque de la Alameda",
+                "ro": "Parque de la Alameda",
+                "en": "Parque de la Alameda"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Luft beim Radeln durch die Alleen; die Wintersonne schafft perfekte Bedingungen für scharfe Landschaftsfotos.",
+                "hu": "Élvezze a tiszta levegőt az utakon tekerve; a téli napsütés tökéletes feltételeket teremt az éles tájképek készítéséhez.",
+                "ro": "Bucurați-vă de aerul curat în timp ce pedalați pe alei; soarele de iarnă creează condiții perfecte pentru fotografii de peisaj clare.",
+                "en": "Enjoy the crisp air while cycling through the avenues; the winter sun creates perfect conditions for sharp landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazaba de Baza",
+                "hu": "Alcazaba de Baza",
+                "ro": "Alcazaba de Baza",
+                "en": "Alcazaba de Baza"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt auf; oben angekommen belohnt Sie eine weite Sicht auf die verschneite Sierra de Baza, die im Winter besonders klar ist.",
+                "hu": "A felfelé menet felmelegíti; felérve tiszta kilátás nyílik a Sierra de Baza havas csúcsaira, ami télen különösen látványos.",
+                "ro": "Urcarea vă va încălzi; odată ajuns sus, veți fi răsplătit cu o vedere clară spre Sierra de Baza înzăpezită, superbă iarna.",
+                "en": "The climb will warm you up; once at the top, you're rewarded with a clear view of the snowy Sierra de Baza, especially striking in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre de las Cinco Esquinas",
+                "hu": "Torre de las Cinco Esquinas",
+                "ro": "Torre de las Cinco Esquinas",
+                "en": "Torre de las Cinco Esquinas"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an diesem markanten Punkt; das Licht am frühen Nachmittag betont die geometrischen Formen des Turms sehr schön.",
+                "hu": "Álljon meg rövid időre ennél a jellegzetes pontnál; a kora délutáni fények szépen kiemelik a torony geometrikus formáit.",
+                "ro": "Opriți-vă scurt în acest punct distinctiv; lumina de după-amiază devreme subliniază frumos formele geometrice ale turnului.",
+                "en": "Stop briefly at this distinctive point; the early afternoon light emphasizes the tower's geometric shapes beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Palacio de los Páez de Espinosa",
+                "hu": "Palacio de los Páez de Espinosa",
+                "ro": "Palacio de los Páez de Espinosa",
+                "en": "Palacio de los Páez de Espinosa"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht, um das Renaissance-Portal zu bewundern; die kühle Luft lässt die historischen Details besonders plastisch wirken.",
+                "hu": "Egy rövid megálló elég a reneszánsz kapu megcsodálásához; a hűvös levegőben a történelmi részletek különösen élethűnek hatnak.",
+                "ro": "O scurtă oprire este suficientă pentru a admira portalul renascentist; aerul rece face detaliile istorice să pară foarte plastice.",
+                "en": "A short stop is enough to admire the Renaissance portal; the cool air makes the historical details look particularly vivid."
+              }
+            },
+            {
+              "name": {
+                "de": "Real Pósito de Baza",
+                "hu": "Real Pósito de Baza",
+                "ro": "Real Pósito de Baza",
+                "en": "Real Pósito de Baza"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt, um die Route zu prüfen; das massive Gebäude bietet Windschatten für eine kurze Trinkpause im Stehen.",
+                "hu": "Használja ki a megállót az útvonal ellenőrzésére; a masszív épület szélárnyékot nyújt egy rövid, álló helyzetű pihenőhöz.",
+                "ro": "Profitați de oprire pentru a verifica traseul; clădirea masivă oferă adăpost împotriva vântului pentru o scurtă pauză de hidratare.",
+                "en": "Use the stop to check your route; the massive building provides wind protection for a short standing break."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Capel",
+                "hu": "Torre Capel",
+                "ro": "Torre Capel",
+                "en": "Torre Capel"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor Sonnenuntergang an; das goldene Licht auf dem Turm und die kühle Brise machen diesen Ort zum idealen Winter-Abschluss.",
+                "hu": "Érkezzen meg naplemente előtt; az arany fények a tornyon és a hűvös szellő tökéletes téli záróélménnyé teszik ezt a helyet.",
+                "ro": "Ajungeți înainte de apus; lumina aurie pe turn și briza răcoroasă fac din acest loc finalul ideal pentru o zi de iarnă.",
+                "en": "Arrive before sunset; the golden light on the tower and the cool breeze make this the ideal winter finale for your ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Vezessen a csendes Ermita de Santa Ritához, hogy békésen kezdje a napot, majd induljon az impozáns Alcazaba erődbe. A délidő arra csábít, hogy felfedezze a régészeti múzeumot, mielőtt meglátogatná az ősi arab fürdőt. A késő délutánt az egyedi tervezésű Villa Manuelában töltheti, és az autós kirándulást a festői Torre Capelnél zárhatja le, ahonnan gyönyörű a kilátás.",
         "ro": "Conduceți la Ermita de Santa Rita pentru a începe ziua pașnic, apoi mergeți la fortăreața Alcazaba. Prânzul vă invită să explorați fascinanta Dama de Baza la muzeul arheologic înainte de a descoperi vechile Băi Arabe. Petreceți după-amiaza târziu la Villa Manuela, cu designul său unic, și încheiați-vă excursia cu mașina la pitorescul Torre Capel în lumina blândă a serii.",
         "en": "Drive to the quiet Ermita de Santa Rita to start your day peacefully, then head to the imposing Alcazaba fortress to delve into local history. Midday invites you to explore the fascinating Dama de Baza at the archaeological museum before discovering the ancient Arab Baths. Spend the late afternoon at the uniquely designed Villa Manuela, and conclude your road trip at the scenic Torre Capel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erreichen Sie die abgelegene Ermita am Morgen trocken und bequem. Mittags bietet die Fahrt zwischen Alcazaba und Museum Schutz vor den stärksten Güssen. Am Nachmittag parken Sie nahe den Arabischen Bädern, um dem Regen zu entkommen. Dank des Fahrzeugs erreichen Sie auch den Torre Capel am späten Nachmittag ohne nass zu werden, während draußen der Regen die Landschaft prägt.",
+            "hu": "Autóval reggel szárazon és kényelmesen érheti el a távolabb eső Ermitát. Délben az Alcazaba és a múzeum közötti út védelmet nyújt a heves záporok elől. Délután érdemes az Arab Fürdők közelében parkolni, hogy elkerülje az esőt. A járműnek köszönhetően késő délután a Torre Capelt is eléri anélkül, hogy bőrig ázna a formálódó esős tájban.",
+            "ro": "Cu mașina, ajungeți la schitul izolat dimineața, uscat și confortabil. La prânz, drumul între Alcazaba și muzeu oferă protecție împotriva ploilor torențiale. După-amiaza, parcați aproape de Băile Arabe pentru a scăpa de ploaie. Datorită vehiculului, ajungeți și la Torre Capel spre seară fără a vă uda, în timp ce afară ploaia modelează peisajul.",
+            "en": "By car, you reach the remote hermitage in the morning dry and comfortably. At noon, the drive between the Alcazaba and the museum offers shelter from heavy showers. In the afternoon, park near the Arab Baths to avoid the rain. Thanks to the vehicle, you can reach Torre Capel in the late afternoon without getting soaked while the rain shapes the landscape outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de Santa Rita",
+                "hu": "Ermita de Santa Rita",
+                "ro": "Ermita de Santa Rita",
+                "en": "Ermita de Santa Rita"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf Baza aus dem warmen Auto heraus, bevor Sie kurz zur Kapelle huschen; der Regen macht die Aussicht dramatisch.",
+                "hu": "Élvezze a kilátást a meleg autóból, mielőtt beszaladna a kápolnába; az eső drámai hangulatot kölcsönöz a panorámának.",
+                "ro": "Bucurați-vă de vedere din mașina caldă înainte de a fugi spre capelă; ploaia oferă o atmosferă dramatică panoramei.",
+                "en": "Enjoy the view from the warm car before dashing to the chapel; the rain lends a dramatic atmosphere to the panoramic vista."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazaba de Baza",
+                "hu": "Alcazaba de Baza",
+                "ro": "Alcazaba de Baza",
+                "en": "Alcazaba de Baza"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; nutzen Sie Regenpausen für einen kurzen Rundgang auf den geschichtsträchtigen Mauern.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; használja ki az esőszüneteket egy rövid sétára a történelmi falakon.",
+                "ro": "Parcați cât mai aproape de intrare; profitați de pauzele de ploaie pentru o scurtă plimbare pe zidurile pline de istorie.",
+                "en": "Park as close as possible to the entrance; use breaks in the rain for a short walk along the history-steeped walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Baza",
+                "hu": "Baza Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Baza",
+                "en": "Museo Arqueológico de Baza"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ideale Zufluchtsort; parken Sie bequem in der Nähe und widmen Sie sich ganz der faszinierenden Dama de Baza.",
+                "hu": "A múzeum ideális menedék; parkoljon kényelmesen a közelben, és szentelje idejét a lenyűgöző Bazai Dáma felfedezésének.",
+                "ro": "Muzeul este refugiul ideal; parcați confortabil în apropiere și dedicați-vă timpul descoperirii fascinantei Dama de Baza.",
+                "en": "The museum is the ideal sanctuary; park conveniently nearby and devote your time to discovering the fascinating Lady of Baza."
+              }
+            },
+            {
+              "name": {
+                "de": "Arabische Bäder von Baza",
+                "hu": "Bazai Arab Fürdő",
+                "ro": "Băile Arabe din Baza",
+                "en": "Baza Arab Baths"
+              },
+              "tip_5lang": {
+                "de": "In den unterirdischen Räumen sind Sie sicher vor dem Wetter; genießen Sie die mystische Atmosphäre, während draußen der Regen fällt.",
+                "hu": "A föld alatti termekben védve van az időjárástól; élvezze a misztikus hangulatot, miközben odakint esik az eső.",
+                "ro": "În sălile subterane sunteți protejat de vreme; bucurați-vă de atmosfera mistică în timp ce afară plouă torențial.",
+                "en": "In the underground chambers, you are protected from the weather; enjoy the mystical atmosphere while the rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Manuela",
+                "hu": "Villa Manuela",
+                "ro": "Villa Manuela",
+                "en": "Villa Manuela"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur vom Wagen aus oder nutzen Sie einen Schirm für einen kurzen Besuch; der Regen betont die Farben der Villa.",
+                "hu": "Tekintse meg az épületet az autóból, vagy használjon esernyőt a rövid látogatáshoz; az eső kiemeli a villa színeit.",
+                "ro": "Priviți arhitectura din mașină sau folosiți o umbrelă pentru o vizită scurtă; ploaia subliniază culorile vilei.",
+                "en": "View the architecture from the car or use an umbrella for a brief visit; the rain accentuates the colors of the villa."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Capel",
+                "hu": "Torre Capel",
+                "ro": "Torre Capel",
+                "en": "Torre Capel"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zum Turm bietet tolle Ausblicke bei jedem Wetter; bleiben Sie im Auto, um die stürmische Landschaft über Baza zu bewundern.",
+                "hu": "A toronyhoz vezető út minden időben remek kilátást nyújt; maradjon az autóban, és csodálja meg a viharos tájat Baza felett.",
+                "ro": "Drumul spre turn oferă vederi superbe pe orice vreme; rămâneți în mașină pentru a admira peisajul furtunos de deasupra Bazei.",
+                "en": "The drive to the tower offers great views in any weather; stay in the car to admire the stormy landscape overlooking Baza."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autofahrt am Morgen zur Ermita bietet einen warmen Start mit Panoramablick auf das winterliche Baza. Mittags nutzen Sie den Wagen, um mühelos zwischen Alcazaba und Museum zu wechseln, ohne der Kälte ausgesetzt zu sein. Am Nachmittag bringt Sie das Auto rechtzeitig vor dem Sonnenuntergang um 17:00 Uhr zur Villa Manuela und zum Torre Capel. Der Abend klingt bei einer gemütlichen Fahrt durch die beleuchtete Stadt aus.",
+            "hu": "A reggeli autózás az Ermitához meleg indítást és panorámát kínál a téli Bazára. Délben a jármű segítségével könnyen mozoghat az Alcazaba és a múzeum között, elkerülve a fagyos szelet. Délután az autóval időben, a 17:00-s naplemente előtt érhet el a Villa Manuelához és a Torre Capelhez. Az este egy kellemes autózással zárul a kivilágított városban.",
+            "ro": "Drumul de dimineață spre schit oferă un început călduros cu o panoramă asupra Bazei hibernale. La prânz, folosiți mașina pentru a vă deplasa ușor între Alcazaba și muzeu, evitând vântul înghețat. După-amiaza, mașina vă duce la timp, înainte de apusul de la ora 17:00, la Villa Manuela și Torre Capel. Seara se încheie cu o plimbare plăcută prin orașul iluminat.",
+            "en": "The morning drive to the hermitage offers a warm start with panoramic views of wintery Baza. At noon, use the car to easily move between the Alcazaba and the museum without facing the cold. In the afternoon, the car gets you to Villa Manuela and Torre Capel in time for the 17:00 sunset. The evening ends with a cozy drive through the illuminated city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ermita de Santa Rita",
+                "hu": "Ermita de Santa Rita",
+                "ro": "Ermita de Santa Rita",
+                "en": "Ermita de Santa Rita"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz für einen Panoramablick; die klare Winterluft bietet eine Sichtweite bis zu den fernen Bergen der Sierra.",
+                "hu": "Használja a parkolót a panoráma élvezetéhez; a tiszta téli levegőben ellátni egészen a Sierra távoli, havas vonulataiig.",
+                "ro": "Folosiți parcarea pentru a vă bucura de panoramă; aerul curat de iarnă oferă vizibilitate până la munții îndepărtați ai Sierrei.",
+                "en": "Use the parking area to enjoy the panorama; the clear winter air allows you to see all the way to the distant Sierra peaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Alcazaba de Baza",
+                "hu": "Alcazaba de Baza",
+                "ro": "Alcazaba de Baza",
+                "en": "Alcazaba de Baza"
+              },
+              "tip_5lang": {
+                "de": "Dank der kurzen Wege vom Parkplatz bleibt Ihnen mehr Zeit für die Mauern; die Wintersonne lässt den Stein der Festung golden leuchten.",
+                "hu": "A parkolótól való rövid távolságnak köszönhetően több ideje marad a falakra; a téli napfény aranybarnára festi az erőd köveit.",
+                "ro": "Datorită distanței scurte de la parcare, aveți mai mult timp pentru ziduri; soarele de iarnă colorează pietrele fortăreței în nuanțe aurii.",
+                "en": "Thanks to the short walk from the parking, you have more time for the walls; the winter sun paints the fortress stones in golden hues."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum von Baza",
+                "hu": "Baza Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Baza",
+                "en": "Museo Arqueológico de Baza"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und genießen Sie die angenehme Wärme im Inneren, während Sie die beeindruckende Dama de Baza in Ruhe studieren.",
+                "hu": "Parkoljon a közelben, és élvezze a benti kellemes meleget, miközben nyugodtan tanulmányozza a lenyűgöző Bazai Dámát.",
+                "ro": "Parcați în apropiere și bucurați-vă de căldura plăcută din interior, în timp ce studiați în liniște impresionanta Dama de Baza.",
+                "en": "Park nearby and enjoy the pleasant warmth inside while you quietly study the impressive Lady of Baza at your leisure."
+              }
+            },
+            {
+              "name": {
+                "de": "Arabische Bäder von Baza",
+                "hu": "Bazai Arab Fürdő",
+                "ro": "Băile Arabe din Baza",
+                "en": "Baza Arab Baths"
+              },
+              "tip_5lang": {
+                "de": "Ein Besuch hier ist perfekt für den kalten Nachmittag; die dicken Gewölbe schaffen eine behagliche und zeitlose Atmosphäre.",
+                "hu": "A látogatás ideális egy hideg délutánon; a vastag boltívek barátságos és időtlen hangulatot árasztanak a téli szürkületben.",
+                "ro": "O vizită aici este ideală într-o după-amiază rece; bolțile groase creează o atmosferă primitoare și atemporală.",
+                "en": "A visit here is ideal for a cold afternoon; the thick vaults create a cozy and timeless atmosphere in the winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Manuela",
+                "hu": "Villa Manuela",
+                "ro": "Villa Manuela",
+                "en": "Villa Manuela"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Details der Villa bequem vom Auto aus, falls es zu windig ist; das Gebäude wirkt im Winterlicht sehr elegant.",
+                "hu": "Tekintse meg a villa részleteit kényelmesen az autóból, ha túl nagy a szél; az épület nagyon elegáns a téli megvilágításban.",
+                "ro": "Admirați detaliile vilei confortabil din mașină dacă este prea mult vânt; clădirea arată foarte elegant în lumina iernii.",
+                "en": "View the villa's details comfortably from the car if it's too windy; the building looks very elegant in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Capel",
+                "hu": "Torre Capel",
+                "ro": "Torre Capel",
+                "en": "Torre Capel"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie pünktlich zum Sonnenuntergang hoch; die Heizung im Wagen macht das Warten auf das perfekte Winterfoto sehr angenehm.",
+                "hu": "Hajtson fel pontosan naplementére; az autó fűtése kényelmessé teszi a várakozást a tökéletes téli fotó elkészítéséhez.",
+                "ro": "Urcați cu mașina exact la apus; căldura din vehicul face așteptarea pentru fotografia perfectă de iarnă foarte plăcută.",
+                "en": "Drive up exactly for sunset; the car's heater makes waiting for the perfect winter photo very comfortable and pleasant."
+              }
+            }
+          ]
+        }
       }
     }
   }

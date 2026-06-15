@@ -160,6 +160,196 @@
         "hu": "Gyalogtúrája a nyüzsgő V. Mohammed téren kezdődik, amely azonnal bevezeti a marokkanói partvidék élettel teli kultúrájába. Egy rövid séta a Miramar térre vezet, ahol a hatalmas Földközi-tenger gyönyörűen feltárul ön előtt.\n\nAhogy a délelőtt melegszik, áthalad a Place Rif andalúz stílusú központján, majd eléri a Playa Quemado aranyhomokját. Ezek a történelmi partok tökéletes helyszínt biztosítanak egy komótos déli pihenéshez és fürdőzéshez.\n\nA délutánt a festői Cornice Morro Viejo felfedezésének szentelheti. Ezen a kanyargós sziklaösvényen haladva lenyűgöző panoráma nyílik az öbölre és a kék tengerrel találkozó zord Rif-hegységre.\n\nA napot Moro Viejo természetes hegyfokán zárja. A naplemente megtekintése ezekről a sziklás kiemelkedésekről mély nyugalommal tölti el, és tökéletesen megkoronázza tengerparti kalandját.",
         "ro": "Turul pietonal începe în vibranta Piață Mohammed V, scufundându-vă imediat în cultura de coastă marocană. O scurtă plimbare duce la Spațiul Miramar, unde imensa Mare Mediterană se deschide frumos în fața dumneavoastră.\n\nPe măsură ce dimineața se încălzește, veți traversa centrul în stil andaluz Place Rif, înainte de a ajunge la nisipul auriu al Playa Quemado. Aceste țărmuri istorice oferă un loc perfect pentru o odihnă plăcută la prânz.\n\nDupă-amiaza este dedicată explorării pitoreștii Cornice Morro Viejo. Urmând această potecă șerpuitoare pe stânci, veți avea parte de priveliști vaste asupra golfului și a Munților Rif care întâlnesc marea albastră.\n\nVă veți încheia ziua pe promontoriul natural Moro Viejo. Privind soarele coborând sub orizont de pe aceste formațiuni stâncoase, veți simți o liniște profundă, încheind perfect această aventură pe coastă.",
         "en": "Your walking tour begins at the vibrant Mohammed V Square, plunging you immediately into the lively Moroccan coastal culture. A short stroll leads to Miramar Space, where the vast Mediterranean Sea opens up beautifully before you.\n\nAs the morning warms up, you will traverse Place Rif's charming Andalusian-style center before reaching the golden sands of Playa Quemado. Here, historic shores provide a perfect spot for a leisurely midday rest and a refreshing swim.\n\nThe afternoon is dedicated to exploring the scenic Cornice Morro Viejo. Following this winding cliffside path offers sweeping vistas of the bay and the rugged Rif Mountains meeting the clear blue sea.\n\nYou will conclude your day at the natural promontory of Moro Viejo. Watching the sun dip below the horizon from these rocky outcrops offers a profound sense of tranquility, perfectly wrapping up your coastal adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Mohammed V Platz Schutz unter den Arkaden der Cafés. Mittags blicken wir auf das graue Meer vom Miramar Space, während der Regen die Klippen peitscht. Nachmittags ist der Abstieg zur Playa Quemado bei Regen dramatisch, erfordert aber feste Sohlen. Abends glänzen die Lichter der Stadt im nassen Asphalt der Place Rif, ein perfekter Moment für ein Foto unter dem Regenschirm.",
+            "hu": "Reggel a V. Mohammed tér körüli árkádok alatt kezdünk, védve az esőtől. Délben a Miramar térről figyeljük a viharos tengert, ahol a felhők drámai hátteret adnak a szikláknak. Délután a Playa Quemado felé vesszük az irányt, de a csúszós lépcsőkön óvatosan haladjunk. Este a kivilágított Place Rif vizes kövei csillognak, a város ilyenkor egy egészen más, melankolikus arcát mutatja.",
+            "ro": "Dimineața începe în Piața Mohammed V, unde arcadele oferă protecție împotriva ploii. La prânz, admirăm marea agitată din Spațiul Miramar, sub un cer dramatic. După-amiaza, coborârea spre Playa Quemado necesită atenție sporită pe treptele umede. Seara, luminile orașului se reflectă în pavajul ud din Place Rif, oferind o atmosferă nostalgică perfectă pentru o plimbare scurtă cu umbrela.",
+            "en": "In the morning, find shelter under the arcades of Mohammed V Square. At noon, witness the dramatic grey sea from Miramar Space as rain hits the cliffs. In the afternoon, the walk to Playa Quemado is atmospheric but requires steady footing on wet paths. By evening, the city lights shimmer on the wet surface of Place Rif, creating a unique, reflective urban landscape under your umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mohammed V Square",
+                "hu": "V. Mohammed tér",
+                "ro": "Piața Mohammed V",
+                "en": "Mohammed V Square"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das bunte Treiben auf dem Platz geschützt unter den Arkaden der Cafés; achten Sie auf den glatten Boden, der bei Nässe sehr rutschig sein kann.",
+                "hu": "Figyelje a tér forgatagát a kávézók árkádjai alól, ahol védve maradhat az esőtől; vigyázzon, mert a díszburkolat nedvesen kifejezetten csúszóssá válik.",
+                "ro": "Observați agitația pieței la adăpostul arcadelor cafenelelor pentru a rămâne uscat; aveți grijă, deoarece pavajul devine foarte alunecos când este ud.",
+                "en": "Watch the bustle of the square from under the shelter of cafe arcades to stay dry while enjoying the atmosphere; be careful as the tiles get very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Miramar Space",
+                "hu": "Miramar tér",
+                "ro": "Spațiul Miramar",
+                "en": "Miramar Space"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf den Hafen von den überdachten Aussichtspunkten; ein starker Wind weht oft Regen von der See herüber, nutzen Sie Windschutz.",
+                "hu": "Élvezze a drámai kikötői kilátást a fedett kilátópontokról; az erős tengeri szél gyakran behordja az esőt, ezért keressen szélvédett sarkot a nézelődéshez.",
+                "ro": "Bucurați-vă de vederea dramatică asupra portului din punctele de observație acoperite; vântul puternic aduce adesea ploaia dinspre mare, folosiți un paravan.",
+                "en": "Enjoy the dramatic harbor views from the covered vantage points; strong sea winds often blow rain inland, so look for a wind-sheltered spot while viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Rif",
+                "hu": "Place Rif",
+                "ro": "Place Rif",
+                "en": "Place Rif"
+              },
+              "tip_5lang": {
+                "de": "Dieser zentrale Ort ist ideal, um kurz in ein Geschäft zu schlüpfen, wenn der Regen stärker wird; die umliegenden Fassaden bieten guten Schutz vor Windböen.",
+                "hu": "Ez a központi hely ideális, hogy beugorjon egy üzletbe, ha felerősödik az eső; a környező homlokzatok jó védelmet nyújtanak a hirtelen feltámadó széllökések ellen.",
+                "ro": "Acest loc central este ideal pentru a intra rapid într-un magazin dacă ploaia se intensifică; fațadele din jur oferă o protecție bună împotriva rafalelor de vânt.",
+                "en": "This central spot is ideal for ducking into a shop if the rain intensifies; the surrounding facades provide good protection against sudden gusts of wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Quemado",
+                "hu": "Playa Quemado",
+                "ro": "Playa Quemado",
+                "en": "Playa Quemado"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit der Bucht bei Regen von der Hotelterrasse aus; der Sand ist fest, aber die Wege zum Strand können durch Schlamm rutschig sein.",
+                "hu": "Tapasztalja meg az öböl vad szépségét esőben a hotel teraszáról; a homok tömör, de a strandra vezető ösvények a sártól csúszóssá válhatnak, legyen óvatos.",
+                "ro": "Experimentați frumusețea brută a golfului pe ploaie de pe terasa hotelului; nisipul este compact, dar potecile spre plajă pot fi alunecoase din cauza noroiului.",
+                "en": "Experience the raw beauty of the bay in the rain from the hotel terrace; the sand is firm, but the paths to the beach can be slippery with mud, so watch your step."
+              }
+            },
+            {
+              "name": {
+                "de": "Cornice Morro Viejo",
+                "hu": "Cornice Morro Viejo",
+                "ro": "Cornice Morro Viejo",
+                "en": "Cornice Morro Viejo"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt vermischt sich hier mit dem Regen, was die Felsen sehr glatt macht; bleiben Sie unbedingt auf den befestigten Wegen hinter dem Geländer.",
+                "hu": "A sós permet itt keveredik az esővel, ami a sziklákat rendkívül síkossá teszi; maradjon mindenképpen a kiépített utakon a korlátok mögötti biztonságban.",
+                "ro": "Spray-ul marin se amestecă aici cu ploaia, făcând stâncile foarte alunecoase; rămâneți neapărat pe potecile amenajate, în siguranță, în spatele balustradelor.",
+                "en": "The sea spray mixes here with the rain, making the rocks extremely slick; stay strictly on the paved paths behind the railings for safety during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Moro viejo",
+                "hu": "Moro viejo",
+                "ro": "Moro viejo",
+                "en": "Moro viejo"
+              },
+              "tip_5lang": {
+                "de": "Der Gipfel bietet eine mystische Aussicht durch die Regenwolken; tragen Sie eine wasserdichte Kapuze, da der Wind hier oben Schirme oft unbrauchbar macht.",
+                "hu": "A csúcs misztikus kilátást nyújt az esőfelhőkön keresztül; viseljen vízálló kapucnit, mivel a fenti szél miatt az esernyő itt gyakran használhatatlanná válik.",
+                "ro": "Vârful oferă o vedere mistică prin norii de ploaie; purtați o glugă impermeabilă, deoarece vântul de sus face adesea umbrelele inutile în acest punct.",
+                "en": "The summit offers a mystical view through the rain clouds; wear a waterproof hood as the wind up here often renders umbrellas useless against the elements."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintersonne am Mohammed V Platz ist mild und angenehm für einen frühen Start. Mittags wandern wir entlang der Klippen bei Miramar, wo die kühle Meeresbrise erfrischend wirkt. Nachmittags erreichen wir Playa Quemado, die im Winter fast menschenleer und friedlich ist. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir das goldene Licht am Morro Viejo rechtzeitig.",
+            "hu": "A téli napsütés a V. Mohammed téren enyhe, ideális a korai kezdéshez. Napközben a Miramar tér sziklái mentén túrázunk, ahol a hűvös tengeri szél frissítően hat. Délután a Playa Quemado strandja fogad minket, amely télen szinte teljesen néptelen és békés. Mivel a nap délután 5 körül már lebukik, a Morro Viejo aranyló fényeit még időben, a sötétedés előtt élvezhetjük.",
+            "ro": "Soarele de iarnă din Piața Mohammed V este blând, perfect pentru un început devreme. La prânz, ne plimbăm de-a lungul stâncilor de la Miramar, unde briza rece a mării este revigorantă. După-amiaza ajungem la Playa Quemado, care iarna este aproape pustie și liniștită. Deoarece soarele apune în jurul orei 17:00, ne bucurăm de lumina aurie de la Morro Viejo la timp.",
+            "en": "The winter sun at Mohammed V Square is mild and pleasant for an early start. At noon, we hike along the cliffs of Miramar where the cool sea breeze feels refreshing. In the afternoon, Playa Quemado awaits, nearly deserted and peaceful in winter. Since the sun sets around 5 PM, we make sure to catch the golden hour light at Morro Viejo before the early evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mohammed V Square",
+                "hu": "V. Mohammed tér",
+                "ro": "Piața Mohammed V",
+                "en": "Mohammed V Square"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mittagssonne auf dem Platz, um Vitamin D zu tanken; die Cafés bieten Sitzplätze in der Sonne, die auch im Winter angenehm warm sind.",
+                "hu": "Használja ki a déli napsütést a téren, hogy D-vitamint gyűjtsön; a kávézók napsütötte székei télen is kellemes meleget adnak a kora délutáni órákban.",
+                "ro": "Profitați de soarele de la prânz din piață pentru a acumula vitamina D; cafenelele oferă locuri la soare care sunt plăcut calde chiar și în timpul iernii.",
+                "en": "Take advantage of the midday sun in the square to soak up some Vitamin D; the cafe seats in the sun remain pleasantly warm even during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Miramar Space",
+                "hu": "Miramar tér",
+                "ro": "Spațiul Miramar",
+                "en": "Miramar Space"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das Mittelmeer ist im Winter besonders klar; ziehen Sie eine winddichte Jacke an, da der Luftzug an der Kante deutlich kühler sein kann.",
+                "hu": "A kilátás a Földközi-tengerre télen különösen tiszta; vegyen fel szélálló dzsekit, mert a szikla szélén a légáramlatok érezhetően hűvösebbek lehetnek.",
+                "ro": "Vederea spre Marea Mediterană este deosebit de clară iarna; purtați o jachetă rezistentă la vânt, deoarece curenții de la margine pot fi mult mai reci.",
+                "en": "The view of the Mediterranean is exceptionally clear in winter; wear a windproof jacket as the drafts at the cliff edge can be significantly cooler now."
+              }
+            },
+            {
+              "name": {
+                "de": "Place Rif",
+                "hu": "Place Rif",
+                "ro": "Place Rif",
+                "en": "Place Rif"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für einen heißen Minztee im Freien; die Wintersonne erreicht den Platz am besten am frühen Nachmittag, bevor die Schatten länger werden.",
+                "hu": "Ideális hely egy forró mentateához a szabadban; a téli nap kora délután éri el legjobban a teret, mielőtt az épületek árnyékai elkezdenének megnyúlni.",
+                "ro": "Un loc ideal pentru un ceai de mentă fierbinte în aer liber; soarele de iarnă ajunge cel mai bine în piață după-amiaza devreme, înainte ca umbrele să crească.",
+                "en": "An ideal spot for a hot mint tea outdoors; the winter sun hits the square best in the early afternoon before the building shadows begin to lengthen."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Quemado",
+                "hu": "Playa Quemado",
+                "ro": "Playa Quemado",
+                "en": "Playa Quemado"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille am Strand ohne die sommerlichen Menschenmassen; bringen Sie eine zusätzliche Schicht Kleidung für den Schatten unter den Felsen mit.",
+                "hu": "Élvezze a strand csendjét a nyári tömeg nélkül; vigyen magával egy extra réteg ruhát, mert a sziklák árnyékában télen gyorsan lehűlhet a levegő.",
+                "ro": "Bucurați-vă de liniștea plajei fără mulțimile de vară; aduceți un strat suplimentar de haine pentru zonele umbrite de sub stânci unde e mai răcoare.",
+                "en": "Enjoy the beach's silence without the summer crowds; bring an extra layer of clothing as it cools down quickly in the shade of the cliffs during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Cornice Morro Viejo",
+                "hu": "Cornice Morro Viejo",
+                "ro": "Cornice Morro Viejo",
+                "en": "Cornice Morro Viejo"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht bietet fantastische Kontraste auf den Felsen; planen Sie den Besuch vor 16:30 Uhr, um das beste Licht nicht zu verpassen.",
+                "hu": "Az alacsonyan járó nap fantasztikus kontrasztokat fest a sziklákra; tervezze a látogatást 16:30 előttre, hogy ne maradjon le a legszebb fényekről.",
+                "ro": "Lumina soarelui la apus oferă contraste fantastice pe stânci; planificați vizita înainte de ora 16:30 pentru a nu rata cea mai bună lumină a zilei.",
+                "en": "The low winter sun creates fantastic contrasts on the rocks; plan your visit before 4:30 PM to avoid missing the best photographic light of the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Moro viejo",
+                "hu": "Moro viejo",
+                "ro": "Moro viejo",
+                "en": "Moro viejo"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, aber oben angekommen kühlt der Wind schnell aus; eine Mütze schützt vor dem kalten Zugwind am Gipfelpunkt.",
+                "hu": "A felfelé menet melegen tartja, de felérve a szél gyorsan lehűti; egy sapka sokat segít a csúcson tapasztalható hideg huzat ellen a téli napokon.",
+                "ro": "Urcarea vă va menține cald, dar odată ajuns sus, vântul vă va răci rapid; o căciulă protejează împotriva curentului rece de pe vârful stâncii.",
+                "en": "The climb will keep you warm, but the wind cools you fast at the top; a beanie or hat is essential against the cold draft at the summit viewpoint."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Induljon el a V. Mohammed térről, élvezze a reggeli nyüzsgést, majd guruljon át a Miramar térre, hogy először csodálhassa meg a csillogó Földközi-tenger lenyűgöző panorámáját.\n\nGuruljon le a Playa Quemado felé, ahol a meleg homok és a nyugodt tenger egy frissítő pihenőre csábít. Ez az ideális helyszín a kikapcsolódásra és az energia feltöltésére a nap legmelegebb szakaszában.\n\nAz utazás a zord partvonal mentén folytatódik Moro Viejo drámai, természetes sziklakiszögelléséhez. Innen kerékpározzon a Matadero strand felé, navigálva e rejtett partszakasz kavicsos öblei között.\n\nFejezze be kerékpáros túráját a békés Playa Cala Bonita strandon. Ez a védett öböl nyugodt vizet és pihentető légkört biztosít, csodálatos környezetet kínálva a festői útvonal lezárásához.",
         "ro": "Porniți pe bicicletă din Piața Mohammed V, bucurându-vă de forfota matinală înainte de a pedala spre Spațiul Miramar pentru primele priveliști vaste ale apelor strălucitoare ale Mediteranei.\n\nCoborâți spre Playa Quemado, unde nisipul cald și marea liniștită vă invită la o pauză revigorantă. Este locul ideal pentru a vă relaxa și a vă reîncărca bateriile în cea mai fierbinte parte a zilei.\n\nPlimbarea continuă de-a lungul coastei stâncoase către Moro Viejo, un promontoriu natural spectaculos. De acolo, pedalați spre Plaja Matadero, navigând printre golfurile pietroase ce presară această porțiune ascunsă.\n\nÎncheiați-vă călătoria pe bicicletă la senina Playa Cala Bonita. Acest golf adăpostit oferă ape calme și o atmosferă relaxantă, fiind cadrul minunat pentru a vă destinde și a reflecta la traseul pitoresc al zilei.",
         "en": "Pedal off from Mohammed V Square, taking in the morning bustle before gliding over to Miramar Space for your first sweeping views of the sparkling Mediterranean waters.\n\nCoast downhill towards Playa Quemado, where the warm sand and calm sea invite you to take a refreshing break. It's the ideal spot to relax and recharge your energy during the hottest part of the day.\n\nYour ride continues along the rugged coastline to Moro Viejo, a dramatic natural outcrop. From there, cycle towards Matadero Beach, navigating the pebble-strewn coves that dot this hidden stretch of shoreline.\n\nFinish your cycling journey at the serene Playa Cala Bonita. This sheltered bay provides calm waters and a relaxing atmosphere, making it a wonderful setting to unwind and reflect on the day's scenic route."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erfordert die Fahrt zum Mohammed V Platz Vorsicht auf den nassen Fliesen. Mittags suchen wir Schutz in der Nähe von Playa Quemado, während der Regen die Bucht in ein mystisches Blau taucht. Nachmittags ist die Fahrt zum Matadero Beach erfrischend, sofern man wasserdichte Kleidung trägt. Wir beenden die Tour früh, da die Sicht bei Regen und einsetzender Dämmerung nachlässt.",
+            "hu": "Reggel a V. Mohammed tér felé tekerve legyünk óvatosak a nedves kövön. Délben a Playa Quemado közelében keresünk menedéket, miközben az eső misztikus kékbe öltözteti az öblöt. Délután a Matadero strand felé vezető út frissítő, ha van megfelelő esőfelszerelésünk. A túrát korábban befejezzük, mert az eső és a szürkület miatt a látási viszonyok gyorsan romlanak.",
+            "ro": "Dimineața, drumul spre Piața Mohammed V necesită prudență pe pavajul umed. La prânz, căutăm adăpost lângă Playa Quemado, în timp ce ploaia îmbracă golful într-un albastru mistic. După-amiaza, tura spre Plaja Matadero este revigorantă cu echipament impermeabil. Încheiem tura devreme, deoarece vizibilitatea scade rapid din cauza ploii și a amurgului.",
+            "en": "In the morning, cycling to Mohammed V Square requires caution on the wet tiles. At noon, seek shelter near Playa Quemado as the rain turns the bay into a mystical blue. The afternoon ride to Matadero Beach is refreshing if you have waterproof gear. Finish the trip early as visibility drops quickly with the combined rain and early evening light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mohammed V Square",
+                "hu": "V. Mohammed tér",
+                "ro": "Piața Mohammed V",
+                "en": "Mohammed V Square"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie scharfes Bremsen auf den nassen Kacheln des Platzes; parken Sie Ihr Rad unter den Vordächern der Geschäfte für eine trockene Pause.",
+                "hu": "Kerülje a hirtelen fékezést a tér nedves burkolatán; parkolja le a kerékpárt az üzletek előtetői alá egy száraz pihenő erejéig az esőben.",
+                "ro": "Evitați frânările bruște pe plăcile umede ale pieței; parcați bicicleta sub copertinele magazinelor pentru o pauză uscată în timpul ploii.",
+                "en": "Avoid sharp braking on the square's wet tiles; park your bike under shop awnings for a dry break to check your map or enjoy the local atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Miramar Space",
+                "hu": "Miramar tér",
+                "ro": "Spațiul Miramar",
+                "en": "Miramar Space"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann bei Regen rutschig sein, fahren Sie mit geringerem Reifendruck für mehr Grip; genießen Sie die Aussicht kurz vom Sattel aus.",
+                "hu": "Az emelkedő esőben csúszós lehet, érdemes kicsit leengedni a guminyomást a jobb tapadásért; élvezze a kilátást rövid ideig a nyeregből figyelve.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie, folosiți o presiune mai mică în pneuri pentru aderență; admirați vederea scurt timp direct din șa.",
+                "en": "The incline can be slippery in the rain; consider lower tire pressure for better grip. Enjoy the view briefly from your saddle before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Quemado",
+                "hu": "Playa Quemado",
+                "ro": "Playa Quemado",
+                "en": "Playa Quemado"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad am befestigten Weg ab, um Schlamm in der Kette zu vermeiden; die Hotelanlage bietet guten Schutz bei plötzlichen Güssen.",
+                "hu": "A kerékpárt a kiépített úton hagyja, hogy elkerülje a sarat a láncban; a közeli hotellétesítmények jó védelmet nyújtanak hirtelen zivatar esetén.",
+                "ro": "Lăsați bicicleta pe drumul pavat pentru a evita noroiul în lanț; facilitățile hoteliere din apropiere oferă protecție bună în caz de aversă bruscă.",
+                "en": "Leave your bike on the paved path to avoid mud in the chain; the nearby hotel facilities offer good protection if a sudden heavy downpour starts."
+              }
+            },
+            {
+              "name": {
+                "de": "Moro viejo",
+                "hu": "Moro viejo",
+                "ro": "Moro viejo",
+                "en": "Moro viejo"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Gipfel ist bei Nässe technisch anspruchsvoll, schieben Sie das Rad lieber an steilen Stellen; die Abfahrt erfordert volle Konzentration.",
+                "hu": "A csúcsra vezető út nedvesen technikás, a meredekebb részeken inkább tolja a bringát; a lefelé út teljes koncentrációt és óvatos fékezést igényel.",
+                "ro": "Drumul spre vârf este tehnic pe umiditate, împingeți bicicleta în zonele abrupte; coborârea necesită concentrare maximă și frânare atentă.",
+                "en": "The path to the summit is technically demanding when wet; walk your bike on steep sections. The descent requires full concentration and careful braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Matadero Beach",
+                "hu": "Matadero strand",
+                "ro": "Plaja Matadero",
+                "en": "Matadero Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Meer wirkt bei Regen wild und eindrucksvoll; achten Sie auf Pfützen, die tiefe Schlaglöcher auf dem Weg zum Strand verbergen könnten.",
+                "hu": "A tenger esőben vadnak és lenyűgözőnek tűnik; ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek az úton a strand felé menet.",
+                "ro": "Marea pare sălbatică și impresionantă pe ploaie; aveți grijă la bălți, care pot ascunde gropi adânci pe drumul spre plajă în timpul turei.",
+                "en": "The sea looks wild and impressive in the rain; watch out for puddles that might hide deep potholes on the road leading down to the beach area."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Cala Bonita",
+                "hu": "Playa Cala Bonita",
+                "ro": "Playa Cala Bonita",
+                "en": "Playa Cala Bonita"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Restaurant am Strand für eine trockene Pause vor der Rückfahrt; die feuchte Meeresluft ist sehr salzhaltig, wischen Sie Ihr Rad danach ab.",
+                "hu": "Használja a parti éttermet egy száraz pihenőre a visszaindulás előtt; a nedves tengeri levegő sós, érdemes áttörölni a bringát a túra végén.",
+                "ro": "Folosiți restaurantul de pe plajă pentru o pauză uscată înainte de întoarcere; aerul marin umed este sărat, ștergeți bicicleta după terminarea turei.",
+                "en": "Use the beach restaurant for a dry break before heading back; the damp sea air is very salty, so wipe down your bike frame after the ride is over."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein zügiger Start am Mohammed V Platz hilft gegen die morgendliche Kühle. Mittags genießen wir die klare Sicht bei Miramar und Playa Quemado, während die Sonne angenehm wärmt. Die Fahrt zum Moro Viejo ist im Winter weniger anstrengend ohne die Sommerhitze. Wir beenden den Tag an der Cala Bonita, um das letzte Tageslicht gegen 17:00 Uhr über dem ruhigen Wasser zu sehen.",
+            "hu": "A V. Mohammed téren tett élénk kezdés segít a reggeli hűvös ellen. Napközben élvezzük a tiszta kilátást a Miramar és Playa Quemado felé, miközben a téli nap kellemesen melegít. A Moro Viejo felé vezető kaptató télen, a nyári hőség nélkül sokkal könnyebb. A napot a Cala Bonita öbölben zárjuk, elcsípve az utolsó fényeket délután 5 körül.",
+            "ro": "Un început energic în Piața Mohammed V ajută împotriva răcorii de dimineață. La prânz ne bucurăm de vizibilitatea clară spre Miramar și Playa Quemado, sub soarele blând. Urcarea spre Moro Viejo este mai puțin obositoare iarna, fără canicula verii. Încheiem ziua la Cala Bonita pentru a vedea ultima lumină în jurul orei 17:00.",
+            "en": "An energetic start at Mohammed V Square helps against the morning chill. At noon, enjoy clear views towards Miramar and Playa Quemado as the sun provides gentle warmth. The ride to Moro Viejo is less taxing in winter without the summer heat. Finish the day at Cala Bonita to catch the last rays of daylight over the calm water around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mohammed V Square",
+                "hu": "V. Mohammed tér",
+                "ro": "Piața Mohammed V",
+                "en": "Mohammed V Square"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Vollfingerhandschuhe, da der Fahrtwind am frühen Morgen noch sehr beißend sein kann; die Sonne wärmt den Platz erst ab 10 Uhr richtig auf.",
+                "hu": "Viseljen hosszú ujjú kesztyűt, mert a menetszél kora reggel még metsző lehet; a nap csak 10 óra után kezdi el igazán felmelegíteni a teret és a környéket.",
+                "ro": "Purtați mănuși cu degete lungi, deoarece vântul de deplasare poate fi tăios dimineața; soarele încălzește cu adevărat piața abia după ora 10 dimineața.",
+                "en": "Wear full-fingered gloves as the wind chill can be biting in the early morning; the sun only starts to properly warm the square after 10 AM in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Miramar Space",
+                "hu": "Miramar tér",
+                "ro": "Spațiul Miramar",
+                "en": "Miramar Space"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft sorgt für eine unglaubliche Fernsicht bis zum Horizont; ein dünnes Stirnband unter dem Helm schützt Ihre Ohren vor dem kalten Küstenwind.",
+                "hu": "A hűvös levegő lenyűgöző távláti kilátást biztosít a horizontig; egy vékony fejpánt a sisak alatt megvédi a fülét a hideg parti széltől tekerés közben.",
+                "ro": "Aerul rece oferă o vizibilitate incredibilă până la orizont; o bentiță subțire sub cască vă va proteja urechile de vântul rece de coastă în timpul turei.",
+                "en": "The cool air provides incredible visibility to the horizon; a thin headband under your helmet will protect your ears from the chilly coastal wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Quemado",
+                "hu": "Playa Quemado",
+                "ro": "Playa Quemado",
+                "en": "Playa Quemado"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für eine Pause in der Sonne; der Strand ist windgeschützt durch die hohen Klippen, was ihn im Winter zum wärmsten Stopp macht.",
+                "hu": "Tökéletes hely egy napsütötte pihenőhöz; a strandot a magas sziklák védik a széltől, így télen ez az egyik legmelegebb állomás a túra során.",
+                "ro": "Un loc perfect pentru o pauză la soare; plaja este protejată de vânt de stâncile înalte, fiind unul dintre cele mai calde puncte iarna pe traseu.",
+                "en": "A perfect spot for a break in the sun; the beach is sheltered from the wind by high cliffs, making it one of the warmest stops during winter rides."
+              }
+            },
+            {
+              "name": {
+                "de": "Moro viejo",
+                "hu": "Moro viejo",
+                "ro": "Moro viejo",
+                "en": "Moro viejo"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bringt den Kreislauf in Schwung; ziehen Sie oben für die Abfahrt eine Weste an, um nicht durch den Schweiß und den Wind auszukühlen.",
+                "hu": "A felfelé vezető út jól felpörgeti a keringést; a csúcson vegyen fel egy mellényt a lejtmenethez, hogy ne fázzon meg az izzadtság és a menetszél miatt.",
+                "ro": "Urcarea vă va pune sângele în mișcare; puneți-vă o vestă pe vârf pentru coborâre, ca să nu răciți din cauza transpirației și a vântului de deplasare.",
+                "en": "The climb will get your circulation going; put on a vest or jacket at the top for the descent to avoid chilling from sweat and the headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Matadero Beach",
+                "hu": "Matadero strand",
+                "ro": "Plaja Matadero",
+                "en": "Matadero Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Küstenlandschaft im Winterlicht; die Wege sind fest und ideal zum Radfahren, da kaum Fußgänger unterwegs sind.",
+                "hu": "Élvezze a vad parti tájat a téli fényekben; az utak szilárdak és ideálisak a kerékpározáshoz, mivel ilyenkor alig akad gyalogos a környéken.",
+                "ro": "Bucurați-vă de peisajul de coastă sălbatic în lumina iernii; drumurile sunt ferme și ideale pentru ciclism, deoarece sunt puțini pietoni acum.",
+                "en": "Enjoy the rugged coastal scenery in the winter light; the paths are firm and ideal for cycling as there are very few pedestrians around this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Cala Bonita",
+                "hu": "Playa Cala Bonita",
+                "ro": "Playa Cala Bonita",
+                "en": "Playa Cala Bonita"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Rückkunft vor Sonnenuntergang ein, da die Temperaturen rapide sinken, sobald die Sonne hinter den Bergen von Al Hoceima verschwindet.",
+                "hu": "Tervezze a visszaérkezést naplemente előttre, mert a hőmérséklet gyorsan esik, amint a nap eltűnik Al Hoceima hegyei mögött a kora esti órákban.",
+                "ro": "Planificați întoarcerea înainte de apus, deoarece temperatura scade rapid imediat ce soarele dispare după munții din Al Hoceima spre seară.",
+                "en": "Plan to finish before sunset, as temperatures drop rapidly once the sun disappears behind the Al Hoceima mountains in the late afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós túráját egy reggeli túrával Los Frailesben, ahol az érintetlen természet találkozik a Földközi-tengerrel. Ezután autózzon be a városközpontba, hogy megtapasztalja a kulturális életet a V. Mohammed téren.\n\nVezessen a Moro Viejo tengerparti szikláihoz a zavartalan óceáni kilátásért. Ezután induljon délre, a Maktoâa strand felé, amely eldugott helyszínként ideális környezetet kínál egy békés déli elvonuláshoz.\n\nA tengerparti autózás nyugat felé folytatódik a gyönyörű Izdhi strandhoz. Itt elmerülhet a drámai sziklafalak látványában és a hullámok megnyugtató hangjában, amelyek az érintetlen homokos partot mossák.\n\nZárja autós utazását a hatalmas Rmod strandon. A lankás, zöld hegyekkel körülvett part fenséges hátteret biztosít a naplemente megtekintéséhez, és felejthetetlen emlékeket garantál a marokkói partvidékről.",
         "ro": "Începeți turul auto cu o drumeție matinală la Los Frailes, unde natura neatinsă întâlnește Mediterana. Apoi, conduceți spre centrul orașului pentru a experimenta inima culturală în Piața Mohammed V.\n\nConduceți către stâncile de coastă de la Moro Viejo pentru a vă bucura de priveliști oceanice neîntrerupte. Apoi, mergeți spre sud spre Plaja Maktoâa, un loc izolat, ideal pentru o retragere liniștită la prânz.\n\nCălătoria pe coastă continuă spre vest până la frumoasa plajă Izdhi. Aici puteți admira peisajul stâncos dramatic și sunetele liniștitoare ale valurilor care lovesc țărmurile nisipoase virgine.\n\nÎncheiați-vă excursia pe vasta plajă Rmod. Înconjurată de munți verzi, aceasta oferă un fundal maiestuos pentru a privi apusul și a surprinde amintiri de neuitat de pe coasta marocană.",
         "en": "Start your driving tour with a morning hike at Los Frailes, where pristine nature meets the Mediterranean. Afterward, cruise into the city center to experience the cultural heart at Mohammed V Square.\n\nDrive out to the coastal cliffs of Moro Viejo to enjoy uninterrupted oceanic views. Then, head south to Maktoâa Beach, a secluded spot offering an ideal setting for a peaceful midday retreat away from the crowds.\n\nYour coastal drive continues westward to the beautiful Izdhi Beach. Here, you can soak in the dramatic cliffside scenery and the soothing sounds of the waves hitting the untouched sandy shores.\n\nConclude your road trip at the expansive Rmod Beach. Surrounded by rolling green mountains, it provides a majestic backdrop for watching the sunset and capturing unforgettable memories of the Moroccan coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren wir zu den nebligen Klippen von Los Frailes, wo der Regen eine mystische Stimmung erzeugt. Mittags parken wir am Mohammed V Platz und genießen die Atmosphäre aus dem trockenen Auto oder einem nahen Café. Nachmittags führen uns die Küstenstraßen zu den Stränden von Maktoâa und Izdhi, die wir bei Regen bequem vom Fenster aus bewundern. Wir beenden den Tag trocken am Rmod Beach.",
+            "hu": "Reggel a ködös Los Frailes sziklákhoz autózunk, ahol az eső misztikus hangulatot teremt. Délben a V. Mohammed téren parkolunk le, a város lüktetését a száraz autóból vagy egy közeli kávézóból figyeljük. Délután a part menti utak a Maktoâa és Izdhi strandokhoz vezetnek, amiket esőben is kényelmesen, az ablakból csodálhatunk. A napot szárazon zárjuk a Rmod strandon.",
+            "ro": "Dimineața conducem spre stâncile cețoase din Los Frailes, unde ploaia creează o atmosferă mistică. La prânz parcăm în Piața Mohammed V și observăm orașul din confortul mașinii sau de la o cafenea. După-amiaza drumurile de coastă ne duc spre plajele Maktoâa și Izdhi, pe care le admirăm de la fereastră. Încheiem ziua la adăpost, pe Plaja Rmod, urmărind valurile.",
+            "en": "In the morning, drive to the misty cliffs of Los Frailes where the rain creates a mystical mood. At noon, park at Mohammed V Square and enjoy the urban pulse from your dry car or a nearby cafe. In the afternoon, the coastal roads lead to Maktoâa and Izdhi beaches, which can be admired comfortably from your window. End the day staying dry at Rmod Beach while watching the waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Los Frailes",
+                "hu": "Los Frailes",
+                "ro": "Los Frailes",
+                "en": "Los Frailes"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie bei Nebel und Regen besonders vorsichtig auf den kurvigen Zufahrtswegen; der Ausblick aus dem Auto auf die raue See ist dennoch spektakulär.",
+                "hu": "Köd és eső esetén vezessen különösen óvatosan a kanyargós bekötőutakon; a kilátás az autóból a vad tengerre így is látványos élményt nyújt.",
+                "ro": "Conduceți cu atenție sporită pe drumurile de acces virajate în caz de ceață și ploaie; vederea spre marea agitată din mașină este totuși spectaculoasă.",
+                "en": "Drive with extra caution on the winding access roads during fog and rain; the view from the car of the rough sea remains spectacular nonetheless."
+              }
+            },
+            {
+              "name": {
+                "de": "Mohammed V Square",
+                "hu": "V. Mohammed tér",
+                "ro": "Piața Mohammed V",
+                "en": "Mohammed V Square"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus unter dem Platz, um trockenen Fußes in die Stadt zu gelangen; bei starkem Regen ist dies der beste Ausgangspunkt für Besorgungen.",
+                "hu": "Használja a tér alatti mélygarázst, hogy száraz lábbal juthasson a városba; erős esőben ez a legjobb kiindulópont a környék felfedezéséhez.",
+                "ro": "Folosiți parcarea subterană de sub piață pentru a ajunge uscat în oraș; în caz de ploaie torențială, acesta este cel mai bun punct de plecare pentru vizite.",
+                "en": "Use the underground parking beneath the square to reach the city dry; during heavy rain, this is the best starting point for exploring nearby shops."
+              }
+            },
+            {
+              "name": {
+                "de": "Moro viejo",
+                "hu": "Moro viejo",
+                "ro": "Moro viejo",
+                "en": "Moro viejo"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht, ohne dass Sie aussteigen müssen; beschlagene Scheiben lassen sich durch die Klimaanlage schnell klären.",
+                "hu": "A parkoló remek kilátást nyújt anélkül, hogy ki kellene szállnia az autóból; a párás ablakokat a légkondicionálóval gyorsan le tudja tisztítani a látványért.",
+                "ro": "Parcarea oferă o vedere excelentă fără a fi nevoie să coborâți din mașină; geamurile aburite pot fi curățate rapid cu ajutorul aerului condiționat.",
+                "en": "The parking area offers a great view without needing to step out; fogged windows can be quickly cleared using the air conditioning for a better look."
+              }
+            },
+            {
+              "name": {
+                "de": "Maktoâa Beach",
+                "hu": "Maktoâa strand",
+                "ro": "Plaja Maktoâa",
+                "en": "Maktoâa Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf große Pfützen auf der Fahrbahn, die Aquaplaning verursachen können; der Strand wirkt im Regen verlassen und wildromantisch.",
+                "hu": "Ügyeljen az úttesten lévő nagy tócsákra, amelyek vízre felúszást okozhatnak; a strand esőben elhagyatott és vadregényes hangulatot áraszt.",
+                "ro": "Atenție la bălțile mari de pe carosabil care pot cauza acvaplanare; plaja pare pustie și sălbatică pe ploaie, oferind un peisaj romantic.",
+                "en": "Watch out for large puddles on the roadway that can cause aquaplaning; the beach looks deserted and wildly romantic in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Izdhi Beach",
+                "hu": "Izdhi strand",
+                "ro": "Plaja Izdhi",
+                "en": "Izdhi Beach"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigten Ränder können durch den Regen aufgeweicht sein, bleiben Sie auf dem Asphalt; genießen Sie die Brandung aus der Sicherheit Ihres Fahrzeugs.",
+                "hu": "A padka az esőtől felázhat, ezért maradjon végig az aszfaltozott úton; élvezze a hullámtörést a gépjármű biztonságos és száraz utasteréből.",
+                "ro": "Marginile drumului pot fi moi din cauza ploii, rămâneți pe asfalt; bucurați-vă de spectacolul valurilor din siguranța vehiculului dumneavoastră.",
+                "en": "The road edges can become soft due to rain, so stay strictly on the asphalt; enjoy the breaking waves from the safety of your dry vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Rmod Beach",
+                "hu": "Rmod strand",
+                "ro": "Plaja Rmod",
+                "en": "Rmod Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um den Tag bei Regen ausklingen zu lassen; das Trommeln der Tropfen auf dem Autodach hat hier am Meer eine beruhigende Wirkung.",
+                "hu": "Szép hely a nap lezárásához esőben is; az esőcseppek kopogása az autó tetőlemezén itt a tengerparton kifejezetten megnyugtató hatású.",
+                "ro": "Un loc frumos pentru a încheia ziua chiar și pe ploaie; sunetul picăturilor de ploaie pe plafonul mașinii are aici, la malul mării, un efect calmant.",
+                "en": "A beautiful place to end the day even in the rain; the sound of raindrops on the car roof here by the sea has a very calming and peaceful effect."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt nach Los Frailes bietet bei klarer Winterluft weite Sichten. Mittags ist das Parken am Mohammed V Platz einfach, und die milde Sonne lädt zu einem kurzen Spaziergang ein. Nachmittags erkunden wir die abgelegenen Strände Maktoâa und Izdhi, wo wir die Einsamkeit im Auto genießen. Den Sonnenuntergang erleben wir gegen 17:00 Uhr am Rmod Beach, bevor es kühl wird.",
+            "hu": "A reggeli Los Frailes-i autózás a tiszta téli levegőben messzi kilátást biztosít. Délben a V. Mohammed téren könnyű a parkolás, az enyhe napsütés pedig rövid sétára csábít. Délután a távoli Maktoâa és Izdhi strandokat fedezzük fel, élvezve a magányt az autó kényelméből. A naplementét délután 5 körül a Rmod strandon nézzük meg, mielőtt hirtelen lehűlne az idő.",
+            "ro": "Drumul de dimineață spre Los Frailes oferă vederi largi în aerul curat de iarnă. La prânz, parcarea în Piața Mohammed V este ușoară, iar soarele blând invită la o scurtă plimbare. După-amiaza explorăm plajele retrase Maktoâa și Izdhi, bucurându-ne de liniște din mașină. Vedem apusul în jurul orei 17:00 pe Plaja Rmod, înainte de lăsarea serii reci.",
+            "en": "The morning drive to Los Frailes offers vast views in the clear winter air. At noon, parking at Mohammed V Square is easy, and the mild sun invites a short stroll. In the afternoon, we explore the remote Maktoâa and Izdhi beaches, enjoying the solitude from the comfort of the car. We catch the sunset around 5 PM at Rmod Beach before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Los Frailes",
+                "hu": "Los Frailes",
+                "ro": "Los Frailes",
+                "en": "Los Frailes"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht reicht im Winter oft bis nach Spanien; bringen Sie ein Fernglas mit, um die Schiffe auf dem glitzernden Mittelmeer besser zu beobachten.",
+                "hu": "A téli távláti kilátás során gyakran ellátni egészen Spanyolországig; hozzon távcsövet, hogy jobban megfigyelhesse a hajókat a csillogó tengeren.",
+                "ro": "Vizibilitatea iarna ajunge adesea până în Spania; aduceți un binoclu pentru a observa mai bine navele pe Marea Mediterană sclipitoare.",
+                "en": "The visibility in winter often stretches all the way to Spain; bring binoculars to better observe the ships on the sparkling Mediterranean Sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Mohammed V Square",
+                "hu": "V. Mohammed tér",
+                "ro": "Piața Mohammed V",
+                "en": "Mohammed V Square"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, damit sich der Innenraum des Autos natürlich aufwärmt; der Platz ist im Winter viel entspannter als in der Hochsaison.",
+                "hu": "Parkoljon a napon, hogy az autó utastere természetes módon felmelegedjen; a tér télen sokkal nyugodtabb és szellősebb, mint a főszezon idején.",
+                "ro": "Parcați la soare pentru ca interiorul mașinii să se încălzească natural; piața este mult mai relaxată iarna decât în timpul sezonului de vârf.",
+                "en": "Park in the sun so the car interior warms up naturally while you explore; the square is much more relaxed in winter than during the peak season."
+              }
+            },
+            {
+              "name": {
+                "de": "Moro viejo",
+                "hu": "Moro viejo",
+                "ro": "Moro viejo",
+                "en": "Moro viejo"
+              },
+              "tip_5lang": {
+                "de": "Ideal für Fotos bei tiefstehender Sonne; prüfen Sie die Scheinwerfer Ihres Autos, da es nach dem Besuch schnell dunkel wird.",
+                "hu": "Ideális helyszín fotózáshoz az alacsonyan járó nap fényében; ellenőrizze az autó fényszóróit, mert a látogatás után hamarosan besötétedik.",
+                "ro": "Locație ideală pentru fotografii în lumina soarelui la apus; verificați farurile mașinii, deoarece se va întuneca rapid după această vizită.",
+                "en": "Ideal for photos in the low winter sun; check your car's headlights before leaving, as it will get dark quickly after this afternoon visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Maktoâa Beach",
+                "hu": "Maktoâa strand",
+                "ro": "Plaja Maktoâa",
+                "en": "Maktoâa Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße ist im Winter fast leer, was das Fahren sehr angenehm macht; ein kurzer Stopp für die frische Meeresluft lohnt sich immer.",
+                "hu": "A part menti út télen szinte üres, ami nagyon kellemessé teszi a vezetést; egy rövid megálló a friss tengeri levegőért mindig megéri itt.",
+                "ro": "Drumul de coastă este aproape gol iarna, ceea ce face condusul foarte plăcut; o scurtă oprire pentru aerul proaspăt al mării merită întotdeauna.",
+                "en": "The coastal road is almost empty in winter, making driving very pleasant; a short stop to breathe in the fresh sea air is always worth it here."
+              }
+            },
+            {
+              "name": {
+                "de": "Izdhi Beach",
+                "hu": "Izdhi strand",
+                "ro": "Plaja Izdhi",
+                "en": "Izdhi Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Ozean; die Heizung im Auto sorgt für Gemütlichkeit, während draußen der kühle Winterwind weht.",
+                "hu": "Élvezze a tágas kilátást az óceánra; az autó fűtése gondoskodik a kényelemről, miközben kint a hűvös téli szél fúj a tengerpart mentén.",
+                "ro": "Bucurați-vă de vederea largă spre ocean; căldura din mașină asigură confortul în timp ce afară suflă vântul rece de iarnă pe malul mării.",
+                "en": "Enjoy the expansive view of the ocean; the car's heater ensures comfort while the cool winter wind blows outside along the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "Rmod Beach",
+                "hu": "Rmod strand",
+                "ro": "Plaja Rmod",
+                "en": "Rmod Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang direkt vom Fahrersitz aus; die Farben am Winterhimmel sind oft intensiver als im staubigen Sommer.",
+                "hu": "Nézze végig a naplementét közvetlenül a vezetőülésből; a téli égbolt színei gyakran sokkal intenzívebbek, mint a poros nyári estéken.",
+                "ro": "Urmăriți apusul direct de la volan; culorile cerului de iarnă sunt adesea mult mai intense decât în serile prăfuite de vară de pe coastă.",
+                "en": "Watch the sunset directly from the driver's seat; the colors in the winter sky are often much more intense than during the dusty summer months."
+              }
+            }
+          ]
+        }
       }
     }
   }

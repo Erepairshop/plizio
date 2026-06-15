@@ -160,6 +160,196 @@
         "hu": "Kezdje manlleui sétáját a Museu de Can Puget-ben, elmélyedve a város gazdag múltjában. Délben csodálja meg a La il·lustració de la llum del món modern hangulatát és a történelmi Al Germà Victori de La Salle-t. Délután fedezze fel a Les Tres Fàbriques lenyűgöző maradványait. Zárja az estét a Serra Sió és Viladomat műemlékeknél, ahol elgondolkodhat a környék örökségén.",
         "ro": "Începeți plimbarea în Manlleu la Museu de Can Puget, explorând trecutul bogat al orașului. La prânz, admirați flerul modern al La il·lustració de la llum del món și istoricul Al Germà Victori de La Salle. După-amiaza, descoperiți rămășițele fascinante ale Les Tres Fàbriques. Încheiați seara reflectând la monumentele Serra Sió și Viladomat, simboluri ale mândriei locale.",
         "en": "Begin your Manlleu walk at the Museu de Can Puget, delving into the town's rich past. By midday, admire the modern flair of La il·lustració de la llum del món and the historical Al Germà Victori de La Salle. In the afternoon, explore the fascinating remnants of Les Tres Fàbriques, the heart of local industry. Conclude the evening reflecting at the Serra Sió and Viladomat monuments."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt geschützt im Can Puget Museum, während der Regen auf die Dächer trommelt. Mittags bieten die Lichtinstallationen im Freien ein besonderes Spiegelspiel auf dem nassen Pflaster. Der Nachmittag führt durch die industrielle Geschichte der Stadt, wobei überdachte Passagen Schutz bieten. Den Abend lassen wir gemütlich ausklingen, während die Stadtlichter im Regen glänzen.",
+            "hu": "A reggel a Can Puget Múzeum falai között indul, menedéket keresve az eső elől. Délben a fényinstallációk különleges látványt nyújtanak a vizes aszfalton tükröződve. Délután az ipari múlt nyomait kutatjuk, ahol a fedett részek alatt pihenhetünk meg. Az estét egy kellemes séta zárja az esernyők alatt, élvezve a város párás, romantikus fényeit a csúszós utcákon.",
+            "ro": "Dimineața începe la adăpost în Muzeul Can Puget, în timp ce ploaia bate în ferestre. La prânz, instalațiile de lumină oferă un spectacol de reflexii pe pavajul umed. După-amiaza explorăm istoria industrială, folosind pasajele acoperite pentru a rămâne uscați. Seara se încheie cu o plimbare liniștită sub umbrelă, admirând luminile orașului reflectate în bălți.",
+            "en": "The morning starts sheltered inside the Can Puget Museum while rain drums on the roof. At noon, the light installations create beautiful reflections on the wet pavement. The afternoon takes us through industrial history, where covered areas provide a welcome break from the drizzle. The evening ends with a cozy stroll under umbrellas, enjoying the misty atmosphere of the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu de Can Puget",
+                "hu": "Museu de Can Puget",
+                "ro": "Museu de Can Puget",
+                "en": "Museu de Can Puget"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume dieses eleganten Gebäudes, um die Kunstsammlung trocken zu genießen. Ein perfekter Rückzugsort bei Regenschauern.",
+                "hu": "Használja ki az elegáns épület belső tereit, hogy szárazon élvezhesse a művészeti gyűjteményt. Tökéletes menedék az esős órákban.",
+                "ro": "Profită de interiorul acestei clădiri elegante pentru a te bucura de colecția de artă la uscat. Un refugiu perfect în timpul ploii.",
+                "en": "Take advantage of the interior of this elegant building to enjoy the art collection while staying dry. A perfect retreat during rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "La il·lustració de la llum del món",
+                "hu": "La il·lustració de la llum del món",
+                "ro": "La il·lustració de la llum del món",
+                "en": "La il·lustració de la llum del món"
+              },
+              "tip_5lang": {
+                "de": "Die Lichtinstallation wirkt bei Regen durch die Reflexionen auf dem nassen Boden fast magisch. Vorsicht vor rutschigen Stellen beim Gehen.",
+                "hu": "A fényinstalláció esőben szinte varázslatos a vizes talajon való tükröződések miatt. Vigyázzon a csúszós kövekre séta közben.",
+                "ro": "Instalația de lumină pare aproape magică în ploaie datorită reflexiilor de pe solul umed. Atenție la zonele alunecoase în timp ce mergi.",
+                "en": "The light installation looks almost magical in the rain due to reflections on the wet ground. Watch out for slippery spots while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Al Germà Victori de La Salle",
+                "hu": "Al Germà Victori de La Salle",
+                "ro": "Al Germà Victori de La Salle",
+                "en": "Al Germà Victori de La Salle"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt im Freien für ein schnelles Foto. Halten Sie Ihren Regenschirm fest, da es an dieser Ecke windig sein kann.",
+                "hu": "Egy rövid megálló a szabadban egy gyors fotó erejéig. Tartsa erősen az esernyőjét, mert ezen a sarkon szeles lehet az idő.",
+                "ro": "O scurtă oprire în aer liber pentru o fotografie rapidă. Ține-ți umbrela bine, deoarece în acest colț poate fi vânt.",
+                "en": "A brief stop outdoors for a quick photo. Hold your umbrella firmly as it can be windy at this corner during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Tres Fàbriques",
+                "hu": "Les Tres Fàbriques",
+                "ro": "Les Tres Fàbriques",
+                "en": "Les Tres Fàbriques"
+              },
+              "tip_5lang": {
+                "de": "Die industriellen Fassaden wirken im grauen Regenlicht besonders dramatisch. Suchen Sie Schutz unter den Dachvorsprüngen der alten Hallen.",
+                "hu": "Az ipari homlokzatok különösen drámaiak a szürke esős fényben. Keressen menedéket a régi csarnokok ereszei alatt.",
+                "ro": "Fațadele industriale par deosebit de dramatice în lumina cenușie a ploii. Caută adăpost sub streșinile vechilor hale.",
+                "en": "The industrial facades look particularly dramatic in the grey rain light. Seek shelter under the eaves of the old halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument a Josep Serra Sió",
+                "hu": "Monument a Josep Serra Sió",
+                "ro": "Monument a Josep Serra Sió",
+                "en": "Monument a Josep Serra Sió"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal glänzt im Regen und bietet ein schönes Motiv. Ein wasserdichtes Case für Ihr Handy ist bei diesem Wetter ratsam.",
+                "hu": "Az emlékmű fényesen csillog az esőben, szép fotótémát nyújtva. Egy vízálló tok a telefonra tanácsos ebben az időben.",
+                "ro": "Monumentul strălucește în ploaie, oferind un motiv frumos pentru fotografii. O husă impermeabilă pentru telefon este recomandată.",
+                "en": "The monument shines in the rain, providing a beautiful photo subject. A waterproof case for your phone is advisable in this weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument als Viladomat",
+                "hu": "Monument als Viladomat",
+                "ro": "Monument als Viladomat",
+                "en": "Monument als Viladomat"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig und suchen Sie eines der nahegelegenen Cafés auf, um sich bei einem heißen Getränk zu trocknen.",
+                "hu": "Fejezze be gyorsan a túrát, és keressen egy közeli kávézót, hogy egy forró ital mellett megszárítkozhasson.",
+                "ro": "Încheie turul rapid și caută una dintre cafenelele din apropiere pentru a te usca cu o băutură caldă.",
+                "en": "Finish the tour quickly and head to one of the nearby cafes to dry off with a hot drink and warm up."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt mit Kultur im warmen Museum. Mittags nutzen wir das klare, kalte Licht für Fotos an den Denkmälern. Der Nachmittag führt uns durch die historische Industriearchitektur, bevor die Sonne gegen 17:00 Uhr früh untergeht. Den Abend verbringen wir in den beleuchteten Gassen, wobei warme Kleidung und Schichten unerlässlich sind.",
+            "hu": "A friss téli reggel kulturális élményekkel indul a fűtött múzeumban. Délben a tiszta, hideg fényt használjuk ki a műemlékek fotózásához. Délután a történelmi ipari épületek között sétálunk, mielőtt a nap korán, 17:00 körül lebukik a horizont alá. Az estét a kivilágított utcákon töltjük, ahol a réteges öltözködés elengedhetetlen a hidegben.",
+            "ro": "O dimineață răcoroasă de iarnă începe cu cultură în muzeul călduros. La prânz profităm de lumina clară și rece pentru fotografii la monumente. După-amiaza ne plimbăm prin arhitectura industrială istorică, înainte ca soarele să apună devreme, în jur de ora 17:00. Seara o petrecem pe străzile iluminate, unde hainele groase sunt esențiale.",
+            "en": "A crisp winter morning starts with culture in the warm museum. At noon, we take advantage of the clear, cold light for photos at the monuments. The afternoon leads us through historic industrial architecture before the sun sets early around 17:00. We spend the evening in the illuminated streets, where warm clothing and layers are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu de Can Puget",
+                "hu": "Museu de Can Puget",
+                "ro": "Museu de Can Puget",
+                "en": "Museu de Can Puget"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf, während Sie die lokale Geschichte erkunden. Die Heizung sorgt für eine angenehme Pause.",
+                "hu": "Melegedjen fel a kiállítótermekben, miközben felfedezi a helyi történelmet. A fűtés kellemes pihenőt biztosít a hideg után.",
+                "ro": "Încălzește-te în sălile de expoziție în timp ce explorezi istoria locală. Încălzirea oferă o pauză plăcută după frig.",
+                "en": "Warm up in the exhibition rooms while exploring local history. The heating provides a comfortable break from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "La il·lustració de la llum del món",
+                "hu": "La il·lustració de la llum del món",
+                "ro": "La il·lustració de la llum del món",
+                "en": "La il·lustració de la llum del món"
+              },
+              "tip_5lang": {
+                "de": "Das moderne Licht wirkt in der frühen Dämmerung besonders intensiv. Tragen Sie Handschuhe, da Sie hier länger im Freien stehen.",
+                "hu": "A modern fények a korai szürkületben különösen intenzívek. Viseljen kesztyűt, mivel itt hosszabb ideig tartózkodik a szabadban.",
+                "ro": "Lumina modernă pare deosebit de intensă în amurgul timpuriu. Poartă mănuși, deoarece vei sta mai mult timp afară aici.",
+                "en": "The modern light looks particularly intense in the early dusk. Wear gloves as you will be outdoors for a while here."
+              }
+            },
+            {
+              "name": {
+                "de": "Al Germà Victori de La Salle",
+                "hu": "Al Germà Victori de La Salle",
+                "ro": "Al Germà Victori de La Salle",
+                "en": "Al Germà Victori de La Salle"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft sorgt für gute Sichtbarkeit der Details. Halten Sie sich durch zügiges Gehen warm zwischen den Stopps.",
+                "hu": "A tiszta téli levegő jó láthatóságot biztosít a részleteknek. Tartsa magát melegen tempós gyaloglással a megállók között.",
+                "ro": "Aerul curat de iarnă asigură o vizibilitate bună a detaliilor. Menține-te cald mergând vioi între opriri.",
+                "en": "The clear winter air ensures good visibility of the details. Keep yourself warm by walking briskly between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Les Tres Fàbriques",
+                "hu": "Les Tres Fàbriques",
+                "ro": "Les Tres Fàbriques",
+                "en": "Les Tres Fàbriques"
+              },
+              "tip_5lang": {
+                "de": "Die alten Backsteinfassaden speichern kaum Wärme; achten Sie auf eine winddichte Jacke bei der Erkundung des Geländes.",
+                "hu": "A régi téglafalak alig tárolnak hőt; ügyeljen a szélálló kabátra a terület felfedezése közben.",
+                "ro": "Vechile fațade de cărămidă abia rețin căldura; ai grijă să porți o jachetă rezistentă la vânt când explorezi zona.",
+                "en": "The old brick facades hold little heat; make sure to wear a windproof jacket while exploring the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument a Josep Serra Sió",
+                "hu": "Monument a Josep Serra Sió",
+                "ro": "Monument a Josep Serra Sió",
+                "en": "Monument a Josep Serra Sió"
+              },
+              "tip_5lang": {
+                "de": "In der tiefstehenden Wintersonne wirft das Denkmal lange Schatten, ideal für künstlerische Fotos. Mütze nicht vergessen!",
+                "hu": "Az alacsonyan járó téli napon az emlékmű hosszú árnyékokat vet, ideális művészi fotókhoz. Ne felejtse otthon a sapkáját!",
+                "ro": "În soarele jos de iarnă, monumentul aruncă umbre lungi, ideal pentru fotografii artistice. Nu uita căciula!",
+                "en": "In the low winter sun, the monument casts long shadows, ideal for artistic photos. Don't forget your hat!"
+              }
+            },
+            {
+              "name": {
+                "de": "Monument als Viladomat",
+                "hu": "Monument als Viladomat",
+                "ro": "Monument als Viladomat",
+                "en": "Monument als Viladomat"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den letzten Stopp vor dem frühen Sonnenuntergang um 17 Uhr. Danach locken die gemütlichen, beheizten Lokale.",
+                "hu": "Élvezze az utolsó megállót a korai, 17 órai naplemente előtt. Utána várják a hangulatos, fűtött helyi vendéglők.",
+                "ro": "Bucură-te de ultima oprire înainte de apusul timpuriu de la ora 17. După aceea, localurile primitoare te așteaptă.",
+                "en": "Enjoy the last stop before the early sunset at 5 PM. Afterwards, the cozy, heated local venues are very inviting."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúrája a Museu Industrial del Ter-nél kezdődik, felfedezve Manlleu folyóparti örökségét. Délben tekerjen az elegáns Can Caseta és a nyugodt Sagrada Família felé. Ahogy a délután kibontakozik, próbálja ki magát egy festői úttal a Serrat de l'Horta és a Serrat de Puigvaquer lankáin. Fejezze be a napot egy kellemes gurulással a José Roqué Parladé emlékműhöz.",
         "ro": "Turul de ciclism începe la Museu Industrial del Ter, descoperind patrimoniul fluvial. La prânz, pedalați spre eleganta Can Caseta și liniștita Sagrada Família. Pe măsură ce se lasă după-amiaza, provocați-vă cu o plimbare pitorească pe Serrat de l'Horta și Serrat de Puigvaquer pentru vederi panoramice. Încheiați ziua relaxant la Monumentul dedicat lui José Roqué Parladé.",
         "en": "Your cycling tour starts at the Museu Industrial del Ter, discovering Manlleu's riverside heritage. By midday, pedal towards the elegant Can Caseta and the tranquil Sagrada Família. As the afternoon unfolds, challenge yourself with a scenic ride up the Serrat de l'Horta and Serrat de Puigvaquer for sweeping views. Finish the day smoothly cycling to the Monument a José Roqué Parladé."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour erfordert Vorsicht auf nassen Wegen, beginnt aber trocken im Ter-Museum. Mittags radeln wir am Fluss entlang, wobei wasserfeste Kleidung wichtig ist. Der Nachmittag bietet Naturerlebnisse im Dunst, bevor wir uns gegen Abend wieder aufwärmen. Achten Sie auf verminderte Bremswirkung und rutschige Kurven auf der gesamten Strecke.",
+            "hu": "Az esős bringázás óvatosságot igényel a vizes utakon, de a Ter Múzeumban szárazon kezdhetünk. Délben a folyó mentén tekerünk, ahol a vízálló ruházat kulcsfontosságú. Délután a természet párás arcát fedezzük fel, mielőtt este felmelegednénk. Ügyeljen a csökkent fékhatásra és a csúszós kanyarokra az egész útvonalon.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile ude, dar începe la uscat în Muzeul Ter. La prânz pedalăm de-a lungul râului, unde hainele impermeabile sunt esențiale. După-amiaza oferă experiențe în natură prin ceață, înainte de a ne încălzi seara. Atenție la frânarea redusă și curbele alunecoase.",
+            "en": "A rainy bike tour requires caution on wet paths but starts dry at the Ter Museum. At noon, we cycle along the river where waterproof clothing is essential. The afternoon offers nature experiences in the mist before warming up towards evening. Be aware of reduced braking power and slippery corners throughout the route."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Industrial del Ter",
+                "hu": "Museu Industrial del Ter",
+                "ro": "Museu Industrial del Ter",
+                "en": "Museu Industrial del Ter"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt, um den ersten Regenschauer im Trockenen abzuwarten und mehr über die Kraft des Wassers zu lernen.",
+                "hu": "Ideális kiindulópont, hogy az első esőt szárazon várjuk meg, és többet tudjunk meg a víz erejéről a kiállításon.",
+                "ro": "Un punct de plecare ideal pentru a aștepta prima ploaie la uscat și pentru a învăța mai multe despre puterea apei.",
+                "en": "An ideal starting point to wait out the first rain shower in the dry and learn more about the power of water."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Caseta",
+                "hu": "Can Caseta",
+                "ro": "Can Caseta",
+                "en": "Can Caseta"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern wirken im Regen sehr atmosphärisch. Prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf nassem Asphalt fortsetzen.",
+                "hu": "A történelmi falak nagyon hangulatosak az esőben. Ellenőrizze a fékeit, mielőtt folytatná az utat a vizes aszfalton.",
+                "ro": "Zidurile istorice par foarte atmosferice în ploaie. Verifică-ți frânele înainte de a continua drumul pe asfaltul umed.",
+                "en": "The historic walls look very atmospheric in the rain. Check your brakes before continuing the ride on wet asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "la Sagrada Família",
+                "hu": "la Sagrada Família",
+                "ro": "la Sagrada Família",
+                "en": "la Sagrada Família"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurzzeitig Schutz im Eingangsbereich der Kirche, falls der Regen stärker wird. Ein besinnlicher Moment im Trockenen.",
+                "hu": "Keressen rövid ideig menedéket a templom bejáratánál, ha elered az eső. Egy elcsendesedő pillanat a szárazon.",
+                "ro": "Caută adăpost pentru scurt timp la intrarea în biserică dacă ploaia se întețește. Un moment de liniște la uscat.",
+                "en": "Seek temporary shelter in the entrance area of the church if the rain intensifies. A peaceful moment in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "serrat de l'Horta",
+                "hu": "serrat de l'Horta",
+                "ro": "serrat de l'Horta",
+                "en": "serrat de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht kann durch Wolken eingeschränkt sein, aber die Natur riecht herrlich frisch. Tragen Sie auffällige Reflektoren.",
+                "hu": "A kilátást korlátozhatják a felhők, de a természet illata csodásan friss. Viseljen feltűnő fényvisszaverőket a párában.",
+                "ro": "Vederea poate fi limitată de nori, dar natura miroase minunat de proaspăt. Poartă reflectorizante vizibile.",
+                "en": "The view may be limited by clouds, but the nature smells wonderfully fresh. Wear visible reflectors in the mist."
+              }
+            },
+            {
+              "name": {
+                "de": "serrat de Puigvaquer",
+                "hu": "serrat de Puigvaquer",
+                "ro": "serrat de Puigvaquer",
+                "en": "serrat de Puigvaquer"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist anstrengend; achten Sie oben darauf, nicht auszukühlen. Eine Regenjacke mit Belüftung ist hier Gold wert.",
+                "hu": "Az emelkedő fárasztó; ügyeljen rá, hogy a csúcson ne hűljön ki. Egy szellőző esőkabát itt aranyat ér.",
+                "ro": "Urcarea este obositoare; ai grijă să nu răcești în vârf. O jachetă de ploaie cu ventilație este de neprețuit aici.",
+                "en": "The climb is strenuous; make sure not to get chilled at the top. A rain jacket with ventilation is worth its weight in gold here."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument a José Roqué Parladé",
+                "hu": "Monument a José Roqué Parladé",
+                "ro": "Monument a José Roqué Parladé",
+                "en": "Monument a José Roqué Parladé"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt und trocknen Sie Ihr Rad gut ab, um Rost zu vermeiden. Zeit für eine heiße Dusche!",
+                "hu": "Fejezze be a tekerést, és törölje át jól a biciklit a rozsda elkerülése végett. Ideje egy forró zuhanynak!",
+                "ro": "Încheie tura și șterge bine bicicleta pentru a evita rugina. Este timpul pentru un duș fierbinte!",
+                "en": "Finish the ride and dry your bike well to avoid rust. Time for a hot shower after this wet journey!"
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Diese winterliche Radtour führt durch die klare Luft des Ter-Tals. Wir starten im beheizten Industriemuseum, um uns aufzuwärmen. Mittags radeln wir durch die kühle Natur, wobei Thermo-Unterwäsche und Windschutz entscheidend sind. Der frühe Sonnenuntergang um 17:00 Uhr mahnt zur Eile auf den Aussichtspunkten. Den Abend schließen wir bei sinkenden Temperaturen zügig ab.",
+            "hu": "Ez a téli kerékpártúra a Ter-völgy friss levegőjén vezet keresztül. A fűtött ipari múzeumban kezdünk, hogy jól bemelegedjünk. Délben a hűvös természetben tekerünk, ahol a hőszigetelő aláöltözet kulcsfontosságú. A korai, 17:00-s naplemente sietteti a nézelődést a kilátóknál. Az estét a süllyedő hőmérséklet mellett gyorsan zárjuk.",
+            "ro": "Această tură cu bicicleta de iarnă trece prin aerul curat al văii Ter. Începem în muzeul industrial încălzit pentru a ne încălzi. La prânz pedalăm prin natura răcoroasă, unde hainele termice sunt decisive. Apusul timpuriu de la ora 17:00 ne îndeamnă la grabă la punctele de belvedere. Încheiem seara rapid pe măsură ce temperatura scade.",
+            "en": "This winter bike tour leads through the clear air of the Ter Valley. We start in the heated industrial museum to warm up. At noon, we cycle through the cool nature where thermal underwear and wind protection are crucial. The early sunset at 17:00 urges us to be quick at the viewpoints. We finish the evening promptly as temperatures drop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Industrial del Ter",
+                "hu": "Museu Industrial del Ter",
+                "ro": "Museu Industrial del Ter",
+                "en": "Museu Industrial del Ter"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme der Innenräume, um die Gelenke aufzuwärmen, bevor Sie die frostige Fahrt fortsetzen. Ein guter Startpunkt.",
+                "hu": "Használja ki a belső terek melegét az ízületek bemelegítésére, mielőtt folytatná a fagyos utat. Kiváló kezdőpont.",
+                "ro": "Profită de căldura interiorului pentru a-ți încălzi articulațiile înainte de a continua drumul înghețat. Un bun punct de plecare.",
+                "en": "Take advantage of the warmth of the interiors to warm up your joints before continuing the frosty ride. A great starting point."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Caseta",
+                "hu": "Can Caseta",
+                "ro": "Can Caseta",
+                "en": "Can Caseta"
+              },
+              "tip_5lang": {
+                "de": "Das Licht der Wintersonne betont die alten Steinstrukturen. Halten Sie die Pausen kurz, um nicht auszukühlen.",
+                "hu": "A téli nap fénye kiemeli a régi kőszerkezeteket. Tartsa röviden a szüneteket, hogy ne hűljön ki a teste.",
+                "ro": "Lumina soarelui de iarnă scoate în evidență vechile structuri de piatră. Menține pauzele scurte pentru a nu răci.",
+                "en": "The light of the winter sun emphasizes the old stone structures. Keep breaks short to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "la Sagrada Família",
+                "hu": "la Sagrada Família",
+                "ro": "la Sagrada Família",
+                "en": "la Sagrada Família"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Halt. Die kühle Luft macht die Atmosphäre noch besinnlicher. Achten Sie auf warme Überschuhe gegen kalte Füße.",
+                "hu": "Békés megálló. A hűvös levegő még elmélyültebbé teszi a hangulatot. Használjon meleg kamáslit a lábak védelmére.",
+                "ro": "O oprire liniștită. Aerul răcoros face atmosfera și mai meditativă. Poartă protecții calde peste pantofi pentru picioare.",
+                "en": "A peaceful stop. The cool air makes the atmosphere even more meditative. Use warm overshoes to prevent cold feet."
+              }
+            },
+            {
+              "name": {
+                "de": "serrat de l'Horta",
+                "hu": "serrat de l'Horta",
+                "ro": "serrat de l'Horta",
+                "en": "serrat de l'Horta"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft am besten. Schützen Sie Ihr Gesicht mit einer Sturmhaube gegen den kalten Fahrtwind.",
+                "hu": "A kilátás télen gyakran a legjobb. Védje arcát maszkkel a hideg menetszél ellen a lejtőkön.",
+                "ro": "Vizibilitatea la distanță este adesea cea mai bună iarna. Protejează-ți fața cu o mască împotriva vântului rece la coborâre.",
+                "en": "The long-distance view is often best in winter. Protect your face with a balaclava against the cold wind on descents."
+              }
+            },
+            {
+              "name": {
+                "de": "serrat de Puigvaquer",
+                "hu": "serrat de Puigvaquer",
+                "ro": "serrat de Puigvaquer",
+                "en": "serrat de Puigvaquer"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor 16:30 Uhr, um das restliche Tageslicht für die Abfahrt zu nutzen. Die Kälte zieht hier oben schnell an.",
+                "hu": "Érje el ezt a pontot 16:30 előtt, hogy maradjon nappali fény a leereszkedéshez. A hideg itt fent gyorsan fokozódik.",
+                "ro": "Ajungi în acest punct înainte de ora 16:30 pentru a folosi lumina zilei la coborâre. Frigul se intensifică rapid aici sus.",
+                "en": "Reach this point before 4:30 PM to use the remaining daylight for the descent. The cold intensifies quickly up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument a José Roqué Parladé",
+                "hu": "Monument a José Roqué Parladé",
+                "ro": "Monument a José Roqué Parladé",
+                "en": "Monument a José Roqué Parladé"
+              },
+              "tip_5lang": {
+                "de": "Ein würdiger Abschluss. Suchen Sie nach der Tour sofort ein warmes Lokal auf, um die Durchblutung wieder anzuregen.",
+                "hu": "Méltó befejezés. A túra után keressen azonnal egy fűtött helyet, hogy felpezsdítse a vérkeringését.",
+                "ro": "Un final pe măsură. După tură, caută imediat un local călduros pentru a-ți stimula circulația sângelui.",
+                "en": "A worthy conclusion. After the tour, immediately find a warm venue to stimulate your blood circulation."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje autós utazását az ősi Sant Esteve de Vila-setrú-nál, mielőtt a La Benvinguda hívogató építményéhez hajtana. A dél a kulturális szívbe vezet a Museu de Can Puget és a Museu Industrial del Ter látogatásával. Délután autózzon délre, hogy megtapasztalja a spirituális Sagrada Famíliát. Este parkoljon le, és sétáljon fel a Serrat de Puigvaquer-re egy gyönyörű naplementéért.",
         "ro": "Începeți călătoria cu mașina la străvechea Sant Esteve de Vila-setrú, înainte de a trece la structura La Benvinguda. Prânzul vă aduce în inima culturală la Museu de Can Puget și Museu Industrial del Ter. După-amiaza, conduceți spre sud pentru a experimenta spirituala Sagrada Família. Când se apropie seara, parcați și urcați pe Serrat de Puigvaquer pentru un apus superb.",
         "en": "Start your driving journey at the ancient Sant Esteve de Vila-setrú before moving to the welcoming La Benvinguda structure. Midday takes you into the cultural heart with visits to Museu de Can Puget and the Museu Industrial del Ter. In the afternoon, drive south to experience the spiritual Sagrada Família. As evening nears, park and walk up the Serrat de Puigvaquer for a beautiful sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Autofahrt schützt vor dem Dauerregen in Manlleu. Vormittags besuchen wir historische Kirchen und Denkmäler, wobei wir fast bis vor die Tür fahren können. Mittags bieten die Museen reichlich Indoor-Programm. Der Nachmittag führt zu Aussichtspunkten, die wir bequem aus dem warmen Wagen genießen, während die Regentropfen auf das Panorama fallen.",
+            "hu": "Egy kényelmes autós túra megvéd a tartós esőtől Manlleuban. Délelőtt történelmi templomokat és műemlékeket látogatunk, ahol szinte az ajtóig hajthatunk. Délben a múzeumok bőséges benti programot kínálnak. Délután a kilátópontokhoz autózunk, amiket a fűtött kocsiból is élvezhetünk, miközben az esőcseppek mintázzák a panorámát.",
+            "ro": "O călătorie confortabilă cu mașina te protejează de ploaia continuă din Manlleu. Dimineața vizităm biserici istorice, unde putem parca aproape de intrare. La prânz, muzeele oferă un program bogat în interior. După-amiaza mergem la puncte de belvedere pe care le savurăm din mașina caldă.",
+            "en": "A comfortable car tour protects you from the continuous rain in Manlleu. In the morning, we visit historic churches and monuments where we can drive almost to the door. At noon, museums offer plenty of indoor activities. The afternoon leads to viewpoints that we enjoy from the warm car while raindrops pattern the panorama."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Esteve de Vila-setrú",
+                "hu": "Sant Esteve de Vila-setrú",
+                "ro": "Sant Esteve de Vila-setrú",
+                "en": "Sant Esteve de Vila-setrú"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um trocken in die Kirche zu gelangen. Die Akustik im Inneren ist bei Regen besonders stimmungsvoll.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy szárazon jusson be a templomba. A belső akusztika esőben különösen hangulatos.",
+                "ro": "Parchează direct la intrare pentru a ajunge uscat în biserică. Acustica din interior este deosebit de atmosferică pe ploaie.",
+                "en": "Park directly at the entrance to get into the church dry. The acoustics inside are particularly atmospheric during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Benvinguda",
+                "hu": "La Benvinguda",
+                "ro": "La Benvinguda",
+                "en": "La Benvinguda"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick kurz aus dem Fenster oder bei einem schnellen Stopp. Achten Sie beim Ein- und Aussteigen auf Pfützen.",
+                "hu": "Élvezze a látványt az ablakból vagy egy gyors megálló során. Ki- és beszálláskor ügyeljen a mélyebb tócsákra.",
+                "ro": "Bucură-te de priveliște pe fereastră sau la o oprire rapidă. Atenție la bălți când urci sau cobori din mașină.",
+                "en": "Enjoy the view from the window or during a quick stop. Watch out for puddles when getting in and out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Can Puget",
+                "hu": "Museu de Can Puget",
+                "ro": "Museu de Can Puget",
+                "en": "Museu de Can Puget"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine längere Pause im Trockenen. Es gibt Parkplätze in der Nähe, so dass Sie kaum nass werden.",
+                "hu": "Ideális hely egy hosszabb szünethez a szárazon. A közelben vannak parkolók, így alig fog megázni a bejutásig.",
+                "ro": "Un loc ideal pentru o pauză mai lungă la uscat. Există parcări în apropiere, așa că ambia vei simți ploaia.",
+                "en": "An ideal place for a longer break in the dry. There are parking spots nearby, so you will hardly get wet going in."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Industrial del Ter",
+                "hu": "Museu Industrial del Ter",
+                "ro": "Museu Industrial del Ter",
+                "en": "Museu Industrial del Ter"
+              },
+              "tip_5lang": {
+                "de": "Erfahren Sie alles über die industrielle Nutzung des Flusses, während draußen der Regen fällt. Ein Highlight für Regentage.",
+                "hu": "Tudjon meg mindent a folyó ipari hasznosításáról, miközben kint esik az eső. Kiváló program borús napokra.",
+                "ro": "Află totul despre utilizarea industrială a râului în timp ce afară plouă. Un punct culminant pentru zilele ploioase.",
+                "en": "Learn everything about the industrial use of the river while it rains outside. A highlight for rainy days in the city."
+              }
+            },
+            {
+              "name": {
+                "de": "la Sagrada Família",
+                "hu": "la Sagrada Família",
+                "ro": "la Sagrada Família",
+                "en": "la Sagrada Família"
+              },
+              "tip_5lang": {
+                "de": "Die schlichte Architektur wirkt im Regenlicht sehr ernst und würdevoll. Ein kurzer Gang mit Regenschirm lohnt sich dennoch.",
+                "hu": "Az egyszerű építészet az esős fényben nagyon komoly és méltóságteljes. Egy rövid séta esernyővel megéri a látványt.",
+                "ro": "Arhitectura simplă pare foarte serioasă și demnă în lumina ploii. O scurtă plimbare cu umbrela merită totuși.",
+                "en": "The simple architecture looks very serious and dignified in the rain light. A short walk with an umbrella is still worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "serrat de Puigvaquer",
+                "hu": "serrat de Puigvaquer",
+                "ro": "serrat de Puigvaquer",
+                "en": "serrat de Puigvaquer"
+              },
+              "tip_5lang": {
+                "de": "Die beste Aussicht bei Regen: Bleiben Sie einfach im Auto sitzen und genießen Sie den Blick über das neblige Tal.",
+                "hu": "A legjobb kilátás esőben: maradjon egyszerűen az autóban, és élvezze a kilátást a párás, ködös völgyre.",
+                "ro": "Cea mai bună vedere pe ploaie: rămâi pur și simplu în mașină și bucură-te de priveliștea peste valea cețoasă.",
+                "en": "The best view in the rain: simply stay in the car and enjoy the look over the misty valley from the warmth."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Wagen erkunden wir das winterliche Manlleu. Vormittags besuchen wir historische Orte, wobei die kurzen Wege zwischen Auto und Sehenswürdigkeit ideal bei Kälte sind. Mittags wärmen wir uns in den Museen auf. Da es bereits um 17:00 Uhr dunkel wird, planen wir die Aussichtspunkte für den frühen Nachmittag ein, um das klare Winterlicht zu nutzen.",
+            "hu": "A fűtött autóban fedezzük fel a téli Manlleut. Délelőtt történelmi helyeket látogatunk, ahol az autó és a látnivaló közti rövid táv ideális a hidegben. Délben a múzeumokban melegedünk fel. Mivel már 17:00-kor sötétedik, a kilátópontokat kora délutánra tervezzük, hogy kihasználjuk a tiszta téli fényeket.",
+            "ro": "Explorăm Manlleu de iarnă în mașina încălzită. Dimineața vizităm locuri istorice, distanțele scurte fiind ideale pe frig. La prânz ne încălzim în muzee. Deoarece se întunecă deja la ora 17:00, planificăm punctele de belvedere pentru după-amiaza devreme, pentru a folosi lumina clară.",
+            "en": "In the heated car, we explore winter Manlleu. In the morning, we visit historic sites where the short distances between the car and attractions are ideal in the cold. At noon, we warm up in museums. Since it gets dark by 5 PM, we plan the viewpoints for early afternoon to use the clear winter light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Sant Esteve de Vila-setrú",
+                "hu": "Sant Esteve de Vila-setrú",
+                "ro": "Sant Esteve de Vila-setrú",
+                "en": "Sant Esteve de Vila-setrú"
+              },
+              "tip_5lang": {
+                "de": "Die alte Kirche wirkt in der klaren Winterluft sehr markant. Lassen Sie die Heizung im Wagen laufen für den nächsten Abschnitt.",
+                "hu": "A régi templom nagyon markáns a tiszta téli levegőben. Hagyja menni a fűtést a kocsiban a következő szakasz előtt.",
+                "ro": "Vechia biserică pare foarte marcantă în aerul curat de iarnă. Lasă încălzirea pornită în mașină pentru următoarea etapă.",
+                "en": "The old church looks very striking in the clear winter air. Keep the heater running in the car for the next segment."
+              }
+            },
+            {
+              "name": {
+                "de": "La Benvinguda",
+                "hu": "La Benvinguda",
+                "ro": "La Benvinguda",
+                "en": "La Benvinguda"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp. Die tiefstehende Sonne sorgt für tolle Lichteffekte auf dem Mauerwerk. Halten Sie die Handschuhe bereit.",
+                "hu": "Egy gyors fotómegálló. Az alacsonyan járó nap remek fényhatásokat kelt a falakon. Tartsa készenlétben a kesztyűjét.",
+                "ro": "O oprire rapidă pentru fotografii. Soarele jos creează efecte de lumină grozave pe zidărie. Ține mănușile la îndemână.",
+                "en": "A quick photo stop. The low sun creates great light effects on the stonework. Keep your gloves ready for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Can Puget",
+                "hu": "Museu de Can Puget",
+                "ro": "Museu de Can Puget",
+                "en": "Museu de Can Puget"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause. Die Räume sind gut temperiert und bieten Schutz vor dem eisigen Wind.",
+                "hu": "Használja a múzeumlátogatást bemelegítő pihenőnek. A termek jól temperáltak és védelmet nyújtanak a jeges szél ellen.",
+                "ro": "Folosește vizita la muzeu ca o pauză de încălzire. Sălile sunt bine încălzite și oferă protecție împotriva vântului rece.",
+                "en": "Use the museum visit as a warm-up break. The rooms are well-tempered and offer protection from the icy winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Industrial del Ter",
+                "hu": "Museu Industrial del Ter",
+                "ro": "Museu Industrial del Ter",
+                "en": "Museu Industrial del Ter"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Industriegeschichte im Warmen. Parkplätze direkt am Fluss ermöglichen einen komfortablen Zugang.",
+                "hu": "Fedezze fel az ipartörténetet a melegben. Közvetlenül a folyó melletti parkolók kényelmes bejutást tesznek lehetővé.",
+                "ro": "Descoperă istoria industrială la căldură. Parcarea direct lângă râu permite un acces confortabil la intrare.",
+                "en": "Discover industrial history in the warmth. Parking right by the river allows for comfortable access to the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "la Sagrada Família",
+                "hu": "la Sagrada Família",
+                "ro": "la Sagrada Família",
+                "en": "la Sagrada Família"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am frühen Nachmittag, wenn die Sonne noch etwas Kraft hat. Ein ruhiger Ort zum Innehalten.",
+                "hu": "Látogassa meg a templomot kora délután, amikor a napnak még van némi ereje. Nyugodt hely az elcsendesedéshez.",
+                "ro": "Vizitează biserica după-amiaza devreme, când soarele mai are puțină putere. Un loc liniștit pentru reculegere.",
+                "en": "Visit the church in the early afternoon when the sun still has some strength. A quiet place for reflection."
+              }
+            },
+            {
+              "name": {
+                "de": "serrat de Puigvaquer",
+                "hu": "serrat de Puigvaquer",
+                "ro": "serrat de Puigvaquer",
+                "en": "serrat de Puigvaquer"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den Sonnenuntergang um 17:00 Uhr. Genießen Sie das Farbspiel über den Pyrenäen aus dem warmen Auto.",
+                "hu": "A tökéletes hely a 17:00-s naplementéhez. Élvezze a Pireneusok feletti színjátékot a fűtött autó kényelméből.",
+                "ro": "Locul perfect pentru apusul de la ora 17:00. Bucură-te de jocul de culori peste Pirinei din mașina caldă.",
+                "en": "The perfect spot for the 5 PM sunset. Enjoy the play of colors over the Pyrenees from the comfort of your warm car."
+              }
+            }
+          ]
+        }
       }
     }
   }

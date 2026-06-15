@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a történelmi Saint-Jacques templomnál, élvezve a nyugodt falusi hangulatot a szűk utcákon.\n\nDélben elérkezik a Château de Pouzauges lenyűgöző romjaihoz, amelyek középkori hátteret kínálnak.\n\nDélután élvezze a családi izgalmakat a Tyrolienne drótkötélpályán.\n\nZárja a napot egy békés alkonyati sétával a Bois de la Folie buja lombkoronája alatt.",
         "ro": "Începeți dimineața la biserica istorică Saint-Jacques, bucurându-vă de atmosfera senină a satului vechi.\n\nLa amiază ajungeți la ruinele impunătoare ale Château de Pouzauges, care oferă un fundal medieval uimitor.\n\nDupă-amiaza, bucurați-vă de senzații tari în familie la tiroliană.\n\nÎncheiați ziua cu o plimbare liniștită de seară prin coronamentul luxuriant al Bois de la Folie.",
         "en": "Start your morning at the historic Saint-Jacques Church, soaking in the serene village atmosphere before wandering the lanes.\n\nMidday brings you to the imposing ruins of Château de Pouzauges, offering a stunning medieval backdrop.\n\nIn the afternoon, enjoy family thrills at the Tyrolienne zipline.\n\nConclude your day with a peaceful twilight stroll through the lush canopy of Bois de la Folie."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen geschützt in den historischen Kirchen. Mittags sollten Sie bei den Burgruinen vorsichtig sein, da die Wege rutschig werden. Nachmittags ist der Wald nass, bringen Sie wasserfeste Kleidung mit. Beenden Sie den regnerischen Tag gemütlich drinnen.",
+            "hu": "Reggel húzódjon be a történelmi templomokba. Délben óvatosan járja be a várromokat, mert a füves ösvények csúszósak. Délután az erdő vizes, így a vízálló felszerelés és a csizma elengedhetetlen. Zárja a napot egy meleg itallal a fedél alatt.",
+            "ro": "Începeți dimineața la adăpost în bisericile istorice. La prânz, vizitați ruinele castelului cu grijă, deoarece potecile devin alunecoase. După-amiaza, pădurea este udă, purtați echipament impermeabil. Încheiați ziua la căldură, în interior.",
+            "en": "Start in the morning sheltering in the historic churches. By noon, navigate carefully to the castle ruins as paths get slippery. In the afternoon, the woods are wet, so bring waterproof gear and boots. Finish the day with a warm drink indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster im Trockenen; bringen Sie einen Regenschirm für den kurzen Weg zur nächsten Kirche mit.",
+                "hu": "Csodálja meg az üvegablakokat szárazon; vigyen esernyőt a következő templomhoz vezető rövid sétához.",
+                "ro": "Admirați vitraliile stând la uscat; luați o umbrelă pentru scurta plimbare spre următoarea biserică.",
+                "en": "Admire the stained glass while staying dry; bring an umbrella for the short walk to the next church."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-du-Vieux-Pouzauges",
+                "hu": "Notre-Dame-du-Vieux-Pouzauges templom",
+                "ro": "Biserica Notre-Dame-du-Vieux-Pouzauges",
+                "en": "Church of Notre-Dame-du-Vieux-Pouzauges"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die alten Wandmalereien im Inneren; die Steinböden können feucht sein, tragen Sie griffige Schuhe.",
+                "hu": "Nézze meg az ősi falfestményeket; a kőpadló nedves lehet, ezért viseljen jól tapadó cipőt.",
+                "ro": "Priviți picturile murale antice; podelele din piatră pot fi umede, așa că purtați încălțăminte cu aderență.",
+                "en": "Look at the ancient murals inside; the stone floors can be damp, so wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Pouzauges",
+                "hu": "Pouzauges kastély",
+                "ro": "Castelul Pouzauges",
+                "en": "Pouzauges Castle"
+              },
+              "tip_5lang": {
+                "de": "Die mittelalterliche Festung wirkt im Regen dramatisch, aber achten Sie auf Ihre Schritte auf den nassen grasbewachsenen Hängen.",
+                "hu": "A középkori erőd drámai az esőben, de ügyeljen a lépéseire a nedves, egyenetlen füves lejtőkön.",
+                "ro": "Fortăreața medievală este dramatică în ploaie, dar aveți grijă la pași pe pantele cu iarbă umede și inegale.",
+                "en": "The medieval fortress is dramatic in the rain, but watch your step on the wet, uneven grassy slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Seilrutsche Tyrolienne",
+                "hu": "Tyrolienne drótkötélpálya",
+                "ro": "Tiroliana Tyrolienne",
+                "en": "Zipline Tyrolienne"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie eine wasserdichte Jacke mit, wenn Sie die Seilrutsche bei leichtem Regen nutzen; prüfen Sie, ob der Betrieb ruht.",
+                "hu": "Hozzon vízálló dzsekit, ha enyhe esőben is használná a pályát; erős esőzéskor a működés szünetelhet.",
+                "ro": "Aduceți o jachetă impermeabilă dacă folosiți tiroliana pe ploaie ușoară; verificați dacă operațiunile sunt întrerupte.",
+                "en": "Bring a reliable waterproof jacket if you still plan to use the zipline in light rain; check if operations are paused."
+              }
+            },
+            {
+              "name": {
+                "de": "Bois de la Folie",
+                "hu": "Bois de la Folie",
+                "ro": "Bois de la Folie",
+                "en": "Bois de la Folie"
+              },
+              "tip_5lang": {
+                "de": "Das Blätterdach bietet etwas Schutz, aber die Wege werden schnell matschig; wasserdichte Stiefel sind hier unerlässlich.",
+                "hu": "A lombkorona ad némi fedezéket, de az ösvények hamar sarasak lesznek; a vízálló csizma itt elengedhetetlen.",
+                "ro": "Coroana copacilor oferă o oarecare acoperire, dar potecile devin noroioase; cizmele impermeabile sunt absolut esențiale aici.",
+                "en": "The tree canopy offers some cover, but trails turn muddy quickly; waterproof boots are absolutely essential here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Morgen machen das historische Zentrum magisch, aber kühl. Der Mittag bietet klare Ausblicke von der Burg. Nachmittags wird es im Wald schnell kalt, da die Sonne gegen 17:00 Uhr untergeht. Packen Sie sich warm ein.",
+            "hu": "A fagyos reggelek varázslatossá, de csípőssé teszik a központot. Délben tiszta kilátás nyílik a várból. Délután az erdőben gyorsan lehűl a levegő, a nap 17:00 körül nyugszik. Öltözzön fel nagyon melegen.",
+            "ro": "Diminețile geroase fac centrul istoric magic, dar friguros. Prânzul oferă vederi clare de la castel. După-amiaza în pădure se face frig rapid, deoarece soarele apune devreme, în jur de 17:00. Îmbrăcați-vă gros.",
+            "en": "Frosty mornings make the historic center magical but chilly. Midday offers clear, crisp views from the castle. The afternoon in the woods gets cold fast as the sun drops early around 17:00. Wrap up warmly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den ruhigen Morgen im Inneren; tragen Sie dicke Schichten, da alte Steingebäude nicht beheizt sind.",
+                "hu": "Élvezze a csendes reggelt bent; viseljen vastag rétegeket, mert a régi kőépületekben nincs fűtés.",
+                "ro": "Bucurați-vă de dimineața liniștită înăuntru; purtați haine groase, deoarece clădirile vechi din piatră nu au încălzire.",
+                "en": "Enjoy the quiet morning inside; wear thick layers as old stone buildings lack heating in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-du-Vieux-Pouzauges",
+                "hu": "Notre-Dame-du-Vieux-Pouzauges templom",
+                "ro": "Biserica Notre-Dame-du-Vieux-Pouzauges",
+                "en": "Church of Notre-Dame-du-Vieux-Pouzauges"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie, wie das tiefe Winterlicht das Innere erhellt; behalten Sie Ihre Handschuhe beim Erkunden an.",
+                "hu": "Figyelje meg, hogyan világítja meg az alacsony téli fény a belső teret; tartsa magán a kesztyűt a hideg templomban.",
+                "ro": "Observați cum lumina de iarnă luminează interiorul; păstrați mănușile pe mâini în timp ce explorați.",
+                "en": "Notice how the low winter light illuminates the interior; keep your gloves on while exploring the cold church."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Pouzauges",
+                "hu": "Pouzauges kastély",
+                "ro": "Castelul Pouzauges",
+                "en": "Pouzauges Castle"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche Panoramablick vom Bergfried ist atemberaubend; hüten Sie sich vor eisigen Stellen auf den Wegen.",
+                "hu": "A téli panoráma a várból lenyűgöző; ügyeljen a jeges foltokra a szeles, kitett kőösvényeken.",
+                "ro": "Priveliștea de iarnă de pe donjon este uimitoare; feriți-vă de peticele de gheață de pe potecile de piatră.",
+                "en": "The panoramic winter view from the keep is stunning; beware of icy patches on the exposed stone paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Seilrutsche Tyrolienne",
+                "hu": "Tyrolienne drótkötélpálya",
+                "ro": "Tiroliana Tyrolienne",
+                "en": "Zipline Tyrolienne"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Schichten, wenn Sie in der Kälte rutschen; der Betrieb könnte eingeschränkt sein, prüfen Sie das vorab.",
+                "hu": "Öltözzön szélálló rétegekbe a hidegben való csúszáshoz; a téli nyitvatartás korlátozott lehet, előbb ellenőrizze.",
+                "ro": "Purtați haine rezistente la vânt dacă vă dați cu tiroliana pe frig; operațiunile pot fi limitate, verificați disponibilitatea.",
+                "en": "Dress in windproof layers if ziplining in the cold; operations might be limited, so double-check availability first."
+              }
+            },
+            {
+              "name": {
+                "de": "Bois de la Folie",
+                "hu": "Bois de la Folie",
+                "ro": "Bois de la Folie",
+                "en": "Bois de la Folie"
+              },
+              "tip_5lang": {
+                "de": "Ein flotter Winterspaziergang ist erfrischend, aber beenden Sie ihn vor 17:00 Uhr, wenn es dunkel und eiskalt wird.",
+                "hu": "Egy fürge téli séta a csupasz fák között frissítő, de fejezze be 17:00 előtt, amikor besötétedik és fagyos lesz.",
+                "ro": "O plimbare de iarnă printre copacii goi este revigorantă, dar terminați înainte de 17:00, când se întunecă și îngheață.",
+                "en": "A brisk winter walk through the bare trees is refreshing, but finish before 17:00 when it gets dark and freezing."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandja egy friss reggeli utazással kezdődik a Lac de l'Espérance frissítő partjaihoz.\n\nDélben hegynek fel indul a híres Moulins du Terrier Marteau szélmalmai felé.\n\nTöltsön egy buja délutánt a Bois de la Folie körüli erdei ösvények felfedezésével.\n\nAhogy közeledik az este, tekerjen el a hatalmas Château de Pouzauges mellett a templomok felé.",
         "ro": "Aventura pe bicicletă începe cu o plimbare revigorantă de dimineață până la țărmurile Lac de l'Espérance.\n\nLa amiază urcați spre emblematicele mori de vânt Moulins du Terrier Marteau.\n\nPetreceți o după-amiază luxuriantă explorând traseele naturale din jurul Bois de la Folie.\n\nPe măsură ce se lasă seara, pedalați pe lângă mărețul Château de Pouzauges spre oraș.",
         "en": "Your cycling adventure starts with a crisp morning ride to the refreshing shores of Lac de l'Espérance.\n\nMidday takes you uphill to the iconic windmills of Moulins du Terrier Marteau.\n\nSpend a lush afternoon exploring the woodland trails around Bois de la Folie.\n\nAs evening approaches, pedal past the mighty Château de Pouzauges and finish at the village churches."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Regenfahrt erfordert gute Schutzbleche und Jacke. Der Morgen am See ist neblig. Mittags im Wald bedeutet Schlamm, Wege zur Burg werden rutschig. Der Nachmittag bietet die Chance, sich in den Kirchen abzutrocknen.",
+            "hu": "Esős bringázáshoz sárvédő és vízálló dzseki kell. Reggel a tó ködös. Délben az erdő saras, a várhoz vezető utak csúsznak. A délutáni ereszkedés után a történelmi templomokban megszáradhat.",
+            "ro": "O plimbare pe ploaie necesită aripi bune. Dimineața la lac este cețoasă. La prânz în pădure e noroi, iar drumurile spre castel devin alunecoase. Coborârea de după-amiază oferă șansa de a vă usca în biserici.",
+            "en": "A rainy ride requires good fenders and a waterproof jacket. Morning by the lake is misty. Midday in the woods means mud, and roads to the castle get slippery. Afternoon descent offers a chance to dry off in the churches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "See der Espérance",
+                "hu": "Espérance tó",
+                "ro": "Lacul Espérance",
+                "en": "Lake of Espérance"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel über dem See ist fotogen, aber die gepflasterten Radwege können bei Nässe recht rutschig sein.",
+                "hu": "A tó feletti köd nagyon fotogén esőben, de a burkolt kerékpárutak nedvesen eléggé csúszósak lehetnek.",
+                "ro": "Ceața de pe lac este fotogenică pe ploaie, dar pistele asfaltate pot fi destul de alunecoase.",
+                "en": "The mist over the lake is highly photogenic in the rain, but the paved cycle paths can be quite slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühlen Terrier Marteau",
+                "hu": "Terrier Marteau szélmalmok",
+                "ro": "Morile de vânt Terrier Marteau",
+                "en": "Terrier Marteau Windmills"
+              },
+              "tip_5lang": {
+                "de": "Starker Wind und Regen machen die Hügelkuppe atmosphärisch; suchen Sie kurzen Schutz unter den Dachüberständen.",
+                "hu": "Az erős szél és eső hangulatossá teszi a dombtetőt; rögzítse a biciklit, és keressen menedéket az ereszek alatt.",
+                "ro": "Vânturile puternice și ploaia fac dealul atmosferic; asigurați bicicleta și căutați adăpost scurt sub streșini.",
+                "en": "Strong winds and rain make the hilltop atmospheric; secure your bike and seek brief shelter under the eaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Bois de la Folie",
+                "hu": "Bois de la Folie",
+                "ro": "Bois de la Folie",
+                "en": "Bois de la Folie"
+              },
+              "tip_5lang": {
+                "de": "Radwege verwandeln sich bei Platzregen in schlammige Pisten, was äußerste Vorsicht und geeignete Reifen erfordert.",
+                "hu": "A kerékpáros ösvények felhőszakadáskor saras sávokká válnak, ami rendkívüli óvatosságot és jó gumikat igényel.",
+                "ro": "Traseele de ciclism devin noroioase în timpul ploilor, necesitând precauție extremă și anvelope adecvate.",
+                "en": "Cycling trails turn into muddy tracks during downpours, requiring extreme caution and suitable tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Pouzauges",
+                "hu": "Pouzauges kastély",
+                "ro": "Castelul Pouzauges",
+                "en": "Pouzauges Castle"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie früh auf dem nassen Kopfsteinpflaster zur Burg; der graue Himmel bietet eine stimmungsvolle Kulisse.",
+                "hu": "Fékezzen időben a várhoz vezető nedves macskaköveken; a drámai szürke égbolt borongós hátteret ad a várnak.",
+                "ro": "Frânați devreme pe piatra cubică umedă care duce la castel; cerul cenușiu oferă un fundal dramatic.",
+                "en": "Brake early on the wet cobblestones leading to the castle; the dramatic grey skies provide a moody backdrop."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-du-Vieux-Pouzauges",
+                "hu": "Notre-Dame-du-Vieux-Pouzauges templom",
+                "ro": "Biserica Notre-Dame-du-Vieux-Pouzauges",
+                "en": "Church of Notre-Dame-du-Vieux-Pouzauges"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine willkommene Pause vom Regen, um die historischen Wandmalereien in diesem Heiligtum zu bewundern.",
+                "hu": "Tartson egy kis szünetet az esőben, és csodálja meg a történelmi falfestményeket ebben a védett szentélyben.",
+                "ro": "Luați o pauză binevenită de la ploaie pentru a admira picturile murale istorice din acest sanctuar adăpostit.",
+                "en": "Take a welcome break from the rain to admire the historic murals in this quiet, sheltered sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher und wärmen Sie sich im Inneren auf, bevor Sie Ihre regnerische Fahrt beenden.",
+                "hu": "Parkolja le vizes biciklijét, és lépjen be, hogy felmelegedjen a templomban az utazás befejezése előtt.",
+                "ro": "Parcați bicicleta udă și intrați pentru a vă încălzi și a admira arhitectura istorică înainte de a termina.",
+                "en": "Park your wet bike safely and step inside to warm up and admire the historic architecture before ending your ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine frostige Morgenfahrt ein. Der Aufstieg zu den Mühlen wärmt auf, Abfahrten sind eiskalt. Das Nachmittagslicht schwindet schnell. Besuchen Sie die Burg vor dem Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Öltözzön be a csípős reggeli tekeréshez. A malmokhoz vezető emelkedő felmelegít, de a lejtők fagyosak. A délutáni fény hamar elhalványul. Érjen a várhoz a 17:00 órás naplemente és a jegesedés előtt.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală. Urcarea spre mori vă încălzește, dar coborârile sunt înghețate. Lumina scade repede. Vizitați castelul înainte de apusul de la 17:00 și apariția gheții pe drum.",
+            "en": "Bundle up for a crisp morning ride. The climb to the windmills warms you up, but descents are freezing. Afternoon sunlight fades quickly. Visit the castle and churches before the 17:00 sunset and icy roads set in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "See der Espérance",
+                "hu": "Espérance tó",
+                "ro": "Lacul Espérance",
+                "en": "Lake of Espérance"
+              },
+              "tip_5lang": {
+                "de": "Der See hat oft eine schöne Schicht Morgenfrost; tragen Sie Thermohandschuhe, um Ihre Hände warm zu halten.",
+                "hu": "A tavat gyakran gyönyörű reggeli dér borítja; viseljen termo kesztyűt, hogy melegen tartsa a kezét a kormányon.",
+                "ro": "Lacul are adesea un strat frumos de chiciură dimineața; purtați mănuși termice pentru a vă menține mâinile calde.",
+                "en": "The lake has a beautiful layer of morning frost; wear thermal gloves to keep your hands warm on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühlen Terrier Marteau",
+                "hu": "Terrier Marteau szélmalmok",
+                "ro": "Morile de vânt Terrier Marteau",
+                "en": "Terrier Marteau Windmills"
+              },
+              "tip_5lang": {
+                "de": "Die exponierte Hügelkuppe ist im Winter bitterkalt; machen Sie schnelle Fotos der Silhouetten und bleiben Sie in Bewegung.",
+                "hu": "A kitett dombtetőn télen metsző hideg van; készítsen gyors fotókat a malmokról, és mozogjon, hogy felmelegedjen.",
+                "ro": "Dealul expus este foarte friguros iarna; faceți poze rapide siluetelor și continuați să vă mișcați pentru a vă încălzi.",
+                "en": "The exposed hilltop is biting cold in winter; take quick photos of the striking silhouettes and keep moving to stay warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Bois de la Folie",
+                "hu": "Bois de la Folie",
+                "ro": "Bois de la Folie",
+                "en": "Bois de la Folie"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume lassen viel Wintersonne durch; achten Sie auf versteckte Eisflächen in den schattigen Bereichen des Weges.",
+                "hu": "A csupasz fák beengedik a téli napsütést; tekerjen óvatosan, és ügyeljen a rejtett jégfoltokra az ösvény árnyékos részein.",
+                "ro": "Copacii goi lasă să pătrundă soarele de iarnă; atenție la peticele ascunse de gheață din zonele umbrite ale traseului.",
+                "en": "The bare trees let in lovely winter sunshine; watch out for hidden ice patches in the shaded areas of the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Pouzauges",
+                "hu": "Pouzauges kastély",
+                "ro": "Castelul Pouzauges",
+                "en": "Pouzauges Castle"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg wärmt auf, aber der hohe Aussichtspunkt ist sehr windig; genießen Sie die klare Aussicht auf die Landschaft.",
+                "hu": "Az emelkedő felmelegít, de a magas kilátópont nagyon szeles; élvezze a tiszta kilátást a téli bocage tájra.",
+                "ro": "Urcarea vă va încălzi, dar punctul de observație este foarte vântos; bucurați-vă de priveliștile clare ale bocajului.",
+                "en": "The climb will warm you up, but the high vantage point is very windy; enjoy the crisp views of the bocage."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-du-Vieux-Pouzauges",
+                "hu": "Notre-Dame-du-Vieux-Pouzauges templom",
+                "ro": "Biserica Notre-Dame-du-Vieux-Pouzauges",
+                "en": "Church of Notre-Dame-du-Vieux-Pouzauges"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine halten die Kälte, aber es ist ein friedlicher Stopp, um die Beine windgeschützt auszuruhen.",
+                "hu": "A régi kövek tartják a hideget, de ez egy békés megálló, hogy kipihenje a lábát a metsző téli széltől védve.",
+                "ro": "Pietrele vechi mențin frigul, dar este o oprire pașnică pentru a vă odihni picioarele feriți de vântul tăios de iarnă.",
+                "en": "The old stones hold the cold, but it is a peaceful stop to rest your legs out of the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihren Besuch so, dass Sie das Nachmittagslicht einfangen, und fahren Sie vor der Dunkelheit um 17:00 Uhr heim.",
+                "hu": "Időzítse látogatását úgy, hogy elkapja a délutáni fényt az ablakokon, és a 17:00 órás sötétedés előtt induljon haza.",
+                "ro": "Programați vizita pentru a prinde lumina după-amiezii prin ferestre, asigurându-vă că plecați înainte de 17:00.",
+                "en": "Time your visit to catch the afternoon light through the windows, making sure to ride home before the 17:00 darkness."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Kezdje az utat a Le Puy Crapaud felé egy lélegzetelállító reggeli panorámáért a vendée-i régió felett.\n\nDélben hajtson be a városközpontba, hogy megcsodálja a történelmi Saint-Jacques templomot és a kastélyt.\n\nDélután tegyen egy gyors kirándulást a Moulins du Terrier Marteau örökségi szélmalmaihoz.\n\nZárja a napot a Lac de l'Espérance-nál, figyelve a víz lenyűgöző tükröződését alkonyatkor.",
         "ro": "Începeți traseul cu mașina urcând spre Le Puy Crapaud pentru o panoramă de dimineață uluitoare asupra regiunii.\n\nLa amiază, conduceți în centrul orașului pentru a admira biserica istorică Saint-Jacques și castelul.\n\nDupă-amiaza, faceți o scurtă călătorie până la morile de patrimoniu Moulins du Terrier Marteau.\n\nÎncheiați-vă ziua la Lac de l'Espérance, privind crepusculul liniștit reflectat pe apa lacului.",
         "en": "Begin your drive ascending to Le Puy Crapaud for a breathtaking morning panorama over the whole region.\n\nBy midday, cruise into the town center to admire the historic Saint-Jacques Church and the castle.\n\nIn the afternoon, take a quick scenic trip to the heritage windmills of Moulins du Terrier Marteau.\n\nWrap up your daytrip at Lac de l'Espérance, watching the beautiful twilight reflect on the calm water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgennebel verhüllt den Gipfel, fahren Sie vorsichtig. Steigen Sie für trockene Besuche in den Kirchen ins Zentrum ab. Mittags bei Burg und Mühlen sind Schirme nötig. Der Nachmittag am See ist aus dem Auto am schönsten.",
+            "hu": "Reggeli köd borítja a csúcsot, vezessen óvatosan. Ereszkedjen le a száraz, beltéri templomi látogatásokhoz. Délben a várnál és a malmoknál esernyő kell. A délutánt a tónál a legjobb a meleg autóból, védve élvezni.",
+            "ro": "Ceața matinală învăluie vârful, conduceți cu grijă. Coborâți pentru vizite uscate în biserici. La prânz, la castel și mori, e nevoie de umbrelă. După-amiaza la lac e cel mai bine savurată din mașina caldă.",
+            "en": "Morning mists shroud the high peak, so drive carefully. Descend for dry, indoor visits at the historic churches. Midday at the castle and windmills requires umbrellas. Afternoon by the lake is best enjoyed from your warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gipfel Le Puy Crapaud",
+                "hu": "Le Puy Crapaud csúcs",
+                "ro": "Vârful Le Puy Crapaud",
+                "en": "Le Puy Crapaud Peak"
+              },
+              "tip_5lang": {
+                "de": "Der Panoramablick kann durch Wolken verdeckt sein; fahren Sie langsam auf den kurvigen, nassen Straßen.",
+                "hu": "A panorámát felhők takarhatják; vezessen lassan a hegyi kanyargós utakon, amelyek nedvesen erősen csúszósak.",
+                "ro": "Priveliștea panoramică poate fi ascunsă de nori; conduceți încet pe drumurile șerpuite care devin alunecoase.",
+                "en": "The panoramic view may be obscured by clouds; drive slowly on the winding roads which get slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und huschen Sie hinein, um die trockene Architektur abseits des Nieselregens zu genießen.",
+                "hu": "Parkoljon a közelben, és siessen be, hogy élvezze a száraz belső teret és az építészetet a szitáló eső elől.",
+                "ro": "Parcați aproape și grăbiți-vă înăuntru pentru a vă bucura de interiorul uscat și de arhitectură, departe de ploaie.",
+                "en": "Park nearby and dash inside to enjoy the dry interior and impressive architecture away from the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Pouzauges",
+                "hu": "Pouzauges kastély",
+                "ro": "Castelul Pouzauges",
+                "en": "Pouzauges Castle"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen stabilen Schirm für den kurzen Weg vom Parkplatz mit, da das Burggelände Wind und Regen ausgesetzt ist.",
+                "hu": "Hozzon erős esernyőt a parkolóból való rövid sétához, mivel a vár területe nyitott, és ki van téve a szélnek és esőnek.",
+                "ro": "Aduceți o umbrelă robustă pentru scurta plimbare de la parcare, deoarece terenul castelului este expus la vânt.",
+                "en": "Bring a sturdy umbrella for the short walk from the parking lot, as the castle grounds are exposed to the wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühlen Terrier Marteau",
+                "hu": "Terrier Marteau szélmalmok",
+                "ro": "Morile de vânt Terrier Marteau",
+                "en": "Terrier Marteau Windmills"
+              },
+              "tip_5lang": {
+                "de": "Die Hügelkuppe fängt den meisten Regen ab; genießen Sie die Aussicht aus dem Auto oder steigen Sie nur kurz mit Regenkleidung aus.",
+                "hu": "A dombtető kapja a legtöbb esőt; élvezze a kilátást a fűtött autóból, vagy lépjen ki röviden jó esőruhában.",
+                "ro": "Dealul primește cea mai multă ploaie; bucurați-vă de priveliște din mașină sau ieșiți scurt cu echipament de ploaie.",
+                "en": "The hilltop catches the worst of the rain and wind; enjoy the view from the car or step out briefly with good rain gear."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Espérance",
+                "hu": "Espérance tó",
+                "ro": "Lacul Espérance",
+                "en": "Lake of Espérance"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen sollten Sie eher eine langsame Fahrt um den See machen, als zu laufen, und die Nebelstimmung genießen.",
+                "hu": "Ha erős az eső, séta helyett tegyen egy lassú, festői körutat a tó körül autóval, élvezve a ködös hangulatot.",
+                "ro": "Dacă plouă tare, faceți o plimbare lentă cu mașina în jurul perimetrului în loc să mergeți pe jos, savurând ceața.",
+                "en": "If the rain is heavy, take a scenic slow drive around the perimeter rather than walking, enjoying the misty atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Straßen erfordern morgens vorsichtiges Fahren. Der Mittag bietet klare, kalte Ausblicke bei Kirchen und Burg. Nachmittags beißt der Wind an den Mühlen. Beenden Sie die Tour am See vor der Dämmerung um 17:00 Uhr.",
+            "hu": "A fagyos utak óvatos reggeli vezetést igényelnek a csúcsra. A dél tiszta, hideg kilátást nyújt a templomoknál és a várnál. Délutánra a szél felerősödik a malmoknál. Fejezze be a tónál a 17:00 órás szürkület előtt.",
+            "ro": "Drumurile geroase cer condus atent dimineața spre vârf. Prânzul oferă vederi clare și reci la biserici și castel. După-amiaza vântul mușcă la mori. Terminați la lac înainte ca amurgul de la 17:00 să aducă gheață.",
+            "en": "Frosty roads demand careful morning driving up to the peak. Midday offers clear, cold views at the town's churches and castle. By afternoon, the wind bites at the windmills. Finish at the lake before the early 17:00 dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gipfel Le Puy Crapaud",
+                "hu": "Le Puy Crapaud csúcs",
+                "ro": "Vârful Le Puy Crapaud",
+                "en": "Le Puy Crapaud Peak"
+              },
+              "tip_5lang": {
+                "de": "Morgenfrost macht die Zufahrt knifflig; aber die klare Winterluft bietet eine unglaubliche Sicht vom Gipfel.",
+                "hu": "A reggeli fagy megnehezíti a feljutást; de a ropogós téli levegő hihetetlen látási viszonyokat biztosít a csúcsról.",
+                "ro": "Gheața matinală face drumurile dificile; dar aerul rece de iarnă oferă o vizibilitate incredibilă de la vârf.",
+                "en": "Morning frost makes access roads tricky; but the crisp winter air offers incredible visibility from the top across the region."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist unbeheizt, behalten Sie Ihren Wintermantel an, während Sie die ruhige Atmosphäre der Steinkirche bewundern.",
+                "hu": "A belső tér fűtetlen, így tartsa magán a vastag téli kabátot, miközben megcsodálja a kőtemplom békés hangulatát.",
+                "ro": "Interiorul este neîncălzit, păstrați paltonul în timp ce admirați atmosfera liniștită și pașnică a bisericii de piatră.",
+                "en": "The interior is unheated, so keep your winter coat on while admiring the quiet, peaceful atmosphere of the stone church."
+              }
+            },
+            {
+              "name": {
+                "de": "Burg Pouzauges",
+                "hu": "Pouzauges kastély",
+                "ro": "Castelul Pouzauges",
+                "en": "Pouzauges Castle"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie vorsichtig auf dem frostigen Gras um die Ruinen; das tiefe Winterlicht ist perfekt zum Fotografieren der Steinmauern.",
+                "hu": "Sétáljon óvatosan a romok körüli dérlepte füvön; az alacsony téli fény tökéletes a kőfalak és a táj fotózásához.",
+                "ro": "Mergeți cu grijă pe iarba înghețată din jurul ruinelor; lumina de iarnă este perfectă pentru a fotografia zidurile.",
+                "en": "Walk carefully on the frost-covered grass around the ruins; the low winter light is perfect for photographing the stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmühlen Terrier Marteau",
+                "hu": "Terrier Marteau szélmalmok",
+                "ro": "Morile de vânt Terrier Marteau",
+                "en": "Terrier Marteau Windmills"
+              },
+              "tip_5lang": {
+                "de": "Der Windchill auf diesem Hügel ist hoch; steigen Sie für ein schnelles Foto aus, bevor Sie ins warme Auto zurückkehren.",
+                "hu": "A szélhőmérséklet jelentős ezen a kitett dombon; lépjen ki egy gyors fotóra, mielőtt visszatérne a meleg, fűtött autóba.",
+                "ro": "Frigul este semnificativ pe acest deal expus; ieșiți pentru o fotografie rapidă înainte de a vă întoarce în mașina caldă.",
+                "en": "The wind chill is significant on this exposed hill; step out for a quick, bracing photo before returning to the warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "See der Espérance",
+                "hu": "Espérance tó",
+                "ro": "Lacul Espérance",
+                "en": "Lake of Espérance"
+              },
+              "tip_5lang": {
+                "de": "Die Nachmittagssonne wirft schöne Reflexionen auf das Wasser; beenden Sie Ihren Besuch bis 17:00 Uhr, bevor die Temperatur fällt.",
+                "hu": "Az alacsony délutáni nap gyönyörű tükröződéseket vet a vízre; fejezze be a látogatást 17:00-ig a rohamos lehűlés előtt.",
+                "ro": "Soarele de după-amiază aruncă reflexii frumoase pe apă; încheiați vizita până la 17:00 înainte ca temperatura să scadă.",
+                "en": "The low afternoon sun casts beautiful reflections on the water; wrap up your visit by 17:00 before the temperature drops sharply."
+              }
+            }
+          ]
+        }
       }
     }
   }

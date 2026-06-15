@@ -183,6 +183,224 @@
         "hu": "Kezdje a napot a nyüzsgő fedett piacon, vásároljon friss helyi finomságokat, majd sétáljon el a történelmi városháza mellett, és térjen be a békés St David's templomba.",
         "ro": "Începeți ziua bucurându-vă de atmosfera plină de viață a pieței acoperite, apoi plimbați-vă pe lângă Primăria istorică și intrați în liniștita biserică St David.",
         "en": "Start your day soaking in the bustling atmosphere of the indoor market, picking up fresh local treats, before strolling past the historic Town Hall and stepping into the serene St David's Church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag in der geschützten Neath-Markthalle, wo das lokale Treiben auch bei Regen lebendig bleibt. Mittags bieten die historischen Mauern von St. David einen ruhigen Rückzugsort. Nachmittags ist die Gwyn Hall das perfekte kulturelle Versteck vor dem walisischen Wetter. Den Abend lassen wir trotz Nieselregen bei einem stimmungsvollen Spaziergang am Kanal ausklingen.",
+            "hu": "Kezdje a napot a fedett Neath piacon, ahol az élet akkor is pezseg, ha odakint esik az eső. Délben a városháza és a Szent Dávid-templom nyújt menedéket a városnézés közben. Délután a Gwyn Hall modern belső tereiben vághat bele a kulturális programokba. Az estét a csatorna menti séta zárja, amely esőben is különleges, párás atmoszférát áraszt.",
+            "ro": "Începeți ziua în piața acoperită din Neath, unde viața locală pulsează chiar și în ciuda ploii galeze. La prânz, zidurile istorice ale bisericii Sf. David oferă un refugiu liniștit. După-amiaza, Gwyn Hall este ascunzătoarea culturală perfectă pentru a scăpa de vremea urâtă. Seara se încheie cu o plimbare atmosferică pe malul canalului, sub protecția umbrelei.",
+            "en": "Start your day at the covered Neath Market, where local life thrives despite the Welsh drizzle. Midday offers shelter within the historic St David's Church during your city tour. In the afternoon, Gwyn Hall serves as the perfect cultural escape from the rain. The evening concludes with an atmospheric walk along the canal, which takes on a misty charm in the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Neath Market",
+                "hu": "Neath Piac",
+                "ro": "Piața Neath",
+                "en": "Neath Market"
+              },
+              "tip_5lang": {
+                "de": "Die historische Markthalle bietet ein trockenes Refugium, um lokale Spezialitäten wie Welshcakes zu probieren; perfekt, um den Regenschirm kurz zu schließen.",
+                "hu": "A történelmi fedett piac tökéletes menedék az eső elől, ahol megkóstolhatja a helyi süteményeket; ideális hely az esernyő rövid idejű pihentetésére.",
+                "ro": "Piața istorică acoperită oferă un refugiu uscat pentru a gusta specialități locale; este locul perfect pentru a strânge umbrela pentru o vreme.",
+                "en": "The historic indoor market provides a dry sanctuary to sample local delicacies like welshcakes; it is the perfect spot to close your umbrella for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Town Hall",
+                "hu": "Neath Városháza",
+                "ro": "Primăria Neath",
+                "en": "Neath Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die viktorianische Fassade aus dem Schutz der gegenüberliegenden Arkaden, um trotz des Regens die architektonischen Details zu genießen.",
+                "hu": "Csodálja meg a viktoriánus homlokzatot a szemközti árkádok védelméből, így az eső ellenére is élvezheti az építészeti részleteket.",
+                "ro": "Admirați fațada victoriană din adăpostul arcadelor de vizavi, pentru a vă bucura de detaliile arhitecturale în ciuda ploii persistente.",
+                "en": "Admire the Victorian facade from the shelter of nearby shop awnings to enjoy the architectural details despite the persistent Welsh rain."
+              }
+            },
+            {
+              "name": {
+                "de": "St David's Church",
+                "hu": "Szent Dávid-templom",
+                "ro": "Biserica Sfântul David",
+                "en": "St David's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die stille Atmosphäre der Kirche für eine Pause im Trockenen und achten Sie auf die bunten Glasfenster, die bei Regen grau wirken.",
+                "hu": "Használja ki a templom csendes atmoszféráját egy száraz pihenőre, és figyelje meg a színes üvegablakokat, amelyek esőben különleges fényt kapnak.",
+                "ro": "Profitați de atmosfera liniștită a bisericii pentru un popas la uscat și observați vitraliile colorate care capătă o lumină aparte pe ploaie.",
+                "en": "Take advantage of the church's peaceful atmosphere for a dry break and observe the stained glass windows that glow uniquely during a storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Castle",
+                "hu": "Neath Várbörtöne",
+                "ro": "Castelul Neath",
+                "en": "Neath Castle"
+              },
+              "tip_5lang": {
+                "de": "Die alten Steine der Ruine können bei Nässe extrem rutschig sein; tragen Sie festes Schuhwerk und bleiben Sie unbedingt auf den Kieswegen.",
+                "hu": "A romok ősi kövei nedvesen rendkívül csúszósak lehetnek; viseljen stabil cipőt, és feltétlenül maradjon a kijelölt kavicsos ösvényeken.",
+                "ro": "Pietrele vechi ale ruinelor pot fi extrem de alunecoase când sunt ude; purtați încălțăminte stabilă și rămâneți neapărat pe potecile cu pietriș.",
+                "en": "The ancient stones of the ruins can be extremely slippery when wet; wear sturdy footwear and be sure to stay on the designated gravel paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Gwyn Hall",
+                "hu": "Gwyn Hall",
+                "ro": "Gwyn Hall",
+                "en": "Gwyn Hall"
+              },
+              "tip_5lang": {
+                "de": "Dieses moderne Kulturzentrum ist der ideale Ort für einen langen Nachmittag im Warmen; besuchen Sie das Café oder schauen Sie sich einen Film an.",
+                "hu": "Ez a modern kulturális központ ideális hely egy hosszú, meleg délutánhoz; látogasson el a kávézóba vagy nézzen meg egy filmet az eső elől.",
+                "ro": "Acest centru cultural modern este locul ideal pentru o după-amiază lungă la căldură; vizitați cafeneaua sau vizionați un film pentru a evita ploaia.",
+                "en": "This modern cultural hub is the ideal location for a long afternoon in the warmth; visit the cafe or catch a movie while escaping the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Gardens",
+                "hu": "Viktória Kertek",
+                "ro": "Grădinile Victoria",
+                "en": "Victoria Gardens"
+              },
+              "tip_5lang": {
+                "de": "Der Musikpavillon bietet begrenzten Schutz vor Schauern; genießen Sie den Anblick der frisch gewaschenen Blumenbeete unter einem großen Schirm.",
+                "hu": "A zenepavilon korlátozott védelmet nyújt a záporok ellen; élvezze a frissen mosott virágágyások látványát egy nagy esernyő alól.",
+                "ro": "Pavilionul muzical oferă adăpost limitat împotriva averselor; bucurați-vă de vederea straturilor de flori proaspăt spălate de sub o umbrelă mare.",
+                "en": "The bandstand offers limited shelter from showers; enjoy the sight of the freshly washed flower beds from beneath a large, sturdy umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Canal",
+                "hu": "Neath-csatorna",
+                "ro": "Canalul Neath",
+                "en": "Neath Canal"
+              },
+              "tip_5lang": {
+                "de": "Der Treppelweg kann bei Regen matschig sein; achten Sie auf Pfützen und genießen Sie die mystische Stimmung des Nebels über dem Wasser.",
+                "hu": "A vontatóút esőben sáros lehet; ügyeljen a tócsákra, és élvezze a víz felett lebegő köd misztikus hangulatát a séta során.",
+                "ro": "Calea de remorcare poate fi noroioasă pe ploaie; aveți grijă la bălți și bucurați-vă de atmosfera mistică a ceții care plutește peste apă.",
+                "en": "The towpath can be muddy in the rain; watch out for puddles and enjoy the mystical atmosphere of the mist hovering over the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Neath im winterlichen Glanz, beginnend mit einem heißen Getränk am Markt. Mittags wärmt die Sonne die historischen Steinmauern der Stadt. Am Nachmittag bietet die Gwyn Hall eine gemütliche Zuflucht vor der Kälte. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir den frühen Abend bei der festlichen Beleuchtung am Kanal.",
+            "hu": "Fedezze fel Neath-t téli fényekben, kezdve egy forró itallal a piacon. Délben a gyenge napsütés megvilágítja a város történelmi kőfalait. Délután a Gwyn Hall nyújt meghitt menedéket a hideg elől. Mivel a nap 17:00 körül nyugszik, az estét a csatorna menti ünnepi fények teszik varázslatossá.",
+            "ro": "Descoperiți Neath în lumina iernii, începând cu o băutură fierbinte la piață. La prânz, soarele palid luminează zidurile de piatră ale orașului. După-amiaza, Gwyn Hall oferă un refugiu primitor împotriva frigului. Deoarece soarele apune în jur de ora 17:00, seara este înfrumusețată de luminile festive de pe canal.",
+            "en": "Experience Neath in winter's glow, starting with a hot drink at the market. At midday, the low sun illuminates the town's historic stone walls. In the afternoon, Gwyn Hall provides a cozy refuge from the cold. As the sun sets around 5 PM, enjoy the early evening amidst the festive lighting along the canal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Neath Market",
+                "hu": "Neath Piac",
+                "ro": "Piața Neath",
+                "en": "Neath Market"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich eine Portion heiße Erbsen oder frisches Gebäck, um sich für den Winterspaziergang aufzuwärmen; der Markt ist herrlich dekoriert.",
+                "hu": "Vegyen egy adag forró ételt vagy friss süteményt, hogy felmelegedjen a téli sétához; a piac ilyenkor gyönyörű ünnepi díszben pompázik.",
+                "ro": "Luați o porție de mâncare fierbinte sau produse de patiserie proaspete pentru a vă încălzi; piața este decorată superb de sărbători.",
+                "en": "Pick up a portion of hot food or fresh pastries to warm up for your winter walk; the market is beautifully decorated for the season."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Town Hall",
+                "hu": "Neath Városháza",
+                "ro": "Primăria Neath",
+                "en": "Neath Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Das Rathaus wirkt im klaren Winterlicht besonders majestätisch; halten Sie Ausschau nach dem großen Weihnachtsbaum, der oft davor steht.",
+                "hu": "A városháza a tiszta téli fényben különösen fenségesen mutat; keresse a nagy karácsonyfát, amelyet gyakran az épület előtt állítanak fel.",
+                "ro": "Primăria arată deosebit de maiestuos în lumina clară a iernii; căutați bradul mare de Crăciun care este adesea amplasat în fața clădirii.",
+                "en": "The Town Hall looks particularly majestic in the clear winter light; look out for the large Christmas tree often placed in front of it."
+              }
+            },
+            {
+              "name": {
+                "de": "St David's Church",
+                "hu": "Szent Dávid-templom",
+                "ro": "Biserica Sfântul David",
+                "en": "St David's Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte gut ab; besuchen Sie einen Wintergottesdienst oder ein Konzert, um die Akustik im Warmen zu erleben.",
+                "hu": "A vastag kőfalak jól távol tartják a hideget; látogasson el egy téli istentiszteletre vagy koncertre, hogy melegben élvezze az akusztikát.",
+                "ro": "Zidurile groase de piatră țin frigul la distanță; participați la o slujbă de iarnă sau la un concert pentru a experimenta acustica la căldură.",
+                "en": "The thick stone walls keep the chill out; attend a winter service or concert to experience the acoustics in a relatively warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Castle",
+                "hu": "Neath Várbörtöne",
+                "ro": "Castelul Neath",
+                "en": "Neath Castle"
+              },
+              "tip_5lang": {
+                "de": "Bei Frost wirken die Ruinen wie aus einem Märchen; tragen Sie Thermokleidung, da der Wind in den offenen Mauern sehr schneidend sein kann.",
+                "hu": "Fagyos időben a romok olyanok, mintha egy meséből léptek volna elő; viseljen termoruhát, mert a szél metsző lehet a nyitott falak között.",
+                "ro": "Pe timp de îngheț, ruinele par desprinse dintr-un basm; purtați haine termice, deoarece vântul poate fi tăios între zidurile deschise.",
+                "en": "In frosty weather, the ruins look like something out of a fairy tale; wear thermal layers as the wind can be biting through the open walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Gwyn Hall",
+                "hu": "Gwyn Hall",
+                "ro": "Gwyn Hall",
+                "en": "Gwyn Hall"
+              },
+              "tip_5lang": {
+                "de": "Die beste Zeit für einen Besuch ist der späte Nachmittag, wenn es draußen dunkel wird und das beleuchtete Gebäude eine einladende Wärme ausstrahlt.",
+                "hu": "A legjobb látogatási idő a késő délután, amikor kint sötétedni kezd, és a kivilágított épület hívogató meleget áraszt a látogatóknak.",
+                "ro": "Cel mai bun moment pentru vizită este după-amiaza târziu, când începe să se întunece, iar clădirea iluminată emană o căldură primitoare.",
+                "en": "The best time to visit is late afternoon as it gets dark outside and the illuminated building radiates an inviting warmth to visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Gardens",
+                "hu": "Viktória Kertek",
+                "ro": "Grădinile Victoria",
+                "en": "Victoria Gardens"
+              },
+              "tip_5lang": {
+                "de": "Ohne Laub bieten die Bäume weite Sichtachsen; nutzen Sie die kurzen Sonnenstunden für einen zügigen Spaziergang, um warm zu bleiben.",
+                "hu": "Lombok nélkül a fák tágasabb kilátást engednek; használja ki a rövid napsütéses órákat egy gyors sétára, hogy mozgásban maradjon.",
+                "ro": "Fără frunziș, copacii oferă vederi mai largi; profitați de puținele ore de soare pentru o plimbare rapidă pentru a vă menține cald.",
+                "en": "Without foliage, the trees offer wider views; take advantage of the short sunny hours for a brisk walk to keep your body temperature up."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Canal",
+                "hu": "Neath-csatorna",
+                "ro": "Canalul Neath",
+                "en": "Neath Canal"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp vor 16:30 Uhr ein, um das letzte Tageslicht auf dem Wasser zu sehen, bevor die winterliche Dunkelheit den Pfad einhüllt.",
+                "hu": "Tervezze ezt a megállót 16:30 előttre, hogy láthassa az utolsó fényeket a vízen, mielőtt a téli sötétség teljesen beborítja az ösvényt.",
+                "ro": "Planificați această oprire înainte de ora 16:30 pentru a vedea ultimele lumini pe apă, înainte ca întunericul iernii să cuprindă poteca.",
+                "en": "Plan this stop before 4:30 PM to catch the last light reflecting on the water before the winter darkness fully envelops the towpath."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Tekerjen el a Neath Apátság nagyszerű romjaihoz, fedezze fel a kolostor maradványait, mielőtt végigcirkálna a közeli csatorna festői és sík vontatóösvényein.",
         "ro": "Pedalați până la ruinele grandioase ale Abației Neath, explorând rămășițele monahale înainte de a vă deplasa de-a lungul potecilor pitorești ale canalului din apropiere.",
         "en": "Pedal your way to the grand ruins of Neath Abbey, exploring its vast monastic remains before cruising along the flat, picturesque towpaths of the nearby Neath Canal."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine regnerische Radtour zu den Ruinen der Abtei bietet dramatische Ausblicke unter grauem Himmel. Mittags ist Vorsicht auf dem glatten Kanalweg geboten. Am Nachmittag suchen wir Schutz in den Gärten von Neath Castle. Abends beenden wir die Tour zügig, bevor die Sicht bei starkem Regen schlechter wird.",
+            "hu": "Az esős kerékpártúra az apátság romjaihoz drámai kilátást nyújt a szürke égbolt alatt. Délben fokozott óvatosság ajánlott a csúszós csatornaparton. Délután a várkert védelmében pihenhetünk meg. Este érdemes gyorsan befejezni a túrát, mielőtt a látási viszonyok az esőben romlanak.",
+            "ro": "O tură cu bicicleta pe ploaie spre ruinele abației oferă vederi dramatice sub cerul cenușiu. La prânz, este necesară prudență sporită pe malul canalului. După-amiaza, căutăm adăpost în grădinile castelului. Seara, încheiem tura rapid înainte ca vizibilitatea să scadă din cauza ploii.",
+            "en": "A rainy bike tour to the abbey ruins offers dramatic views under grey skies. At midday, extra caution is needed on the slippery canal towpath. In the afternoon, we seek shelter in the castle gardens. In the evening, it's best to finish the tour quickly before visibility decreases in the heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Neath Abbey",
+                "hu": "Neath Apátság",
+                "ro": "Abația Neath",
+                "en": "Neath Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken bei Regen besonders düster und fotogen; parken Sie Ihr Rad auf festem Untergrund, um nicht im Schlamm steckenzubleiben.",
+                "hu": "A romok esőben különösen komorak és fotogének; parkolja le a bringát szilárd talajon, hogy elkerülje a sárba ragadást a területen.",
+                "ro": "Ruinele par deosebit de sumbre și fotogenice pe ploaie; parcați bicicleta pe teren solid pentru a evita împotmolirea în noroi.",
+                "en": "The ruins look particularly somber and photogenic in the rain; park your bike on firm ground to avoid getting stuck in the mud nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Canal",
+                "hu": "Neath-csatorna",
+                "ro": "Canalul Neath",
+                "en": "Neath Canal"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf dem Pfad, das sehr rutschig sein kann; fahren Sie langsam und nutzen Sie Schutzbleche gegen das Spritzwasser.",
+                "hu": "Ügyeljen a nedves levelekre az ösvényen, mert nagyon csúszósak lehetnek; lassítson le, és használjon sárvédőt a felcsapódó víz ellen.",
+                "ro": "Aveți grijă la frunzele ude de pe potecă, pot fi foarte alunecoase; încetiniți și folosiți apărători de noroi împotriva apei împroșcate.",
+                "en": "Watch out for wet leaves on the path which can be very slippery; slow down and use mudguards against the splashing water from the puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Gardens",
+                "hu": "Viktória Kertek",
+                "ro": "Grădinile Victoria",
+                "en": "Victoria Gardens"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die großen Bäume für einen kurzen Stopp im Trockenen; prüfen Sie Ihre Bremsen, da nasse Felgen einen längeren Bremsweg haben.",
+                "hu": "Használja a nagy fákat egy rövid száraz pihenőhöz; ellenőrizze a fékeket, mert a nedves felniken hosszabb a fékút a parkon belül.",
+                "ro": "Folosiți copacii mari pentru un scurt popas la uscat; verificați frânele, deoarece jantele ude măresc distanța de frânare în parc.",
+                "en": "Use the large trees for a brief dry break; check your brakes as wet rims lead to a longer braking distance while cycling through the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Castle",
+                "hu": "Neath Várbörtöne",
+                "ro": "Castelul Neath",
+                "en": "Neath Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss kann bei Regen anstrengend und rutschig sein; schieben Sie das Rad lieber über die nassen Kopfsteinpflasterabschnitte.",
+                "hu": "A várhoz vezető út esőben fárasztó és csúszós lehet; inkább tolja a kerékpárt a nedves macskaköves szakaszokon a biztonság érdekében.",
+                "ro": "Urcarea spre castel poate fi obositoare și alunecoasă pe ploaie; mai bine împingeți bicicleta pe porțiunile cu pavaj umed pentru siguranță.",
+                "en": "The climb to the castle can be tiring and slippery in the rain; consider pushing your bike over wet cobblestone sections for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnoll Estate",
+                "hu": "Gnoll Birtok",
+                "ro": "Domeniul Gnoll",
+                "en": "Gnoll Estate"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege können sehr matschig werden; wählen Sie die asphaltierten Hauptwege, um die Kleidung vor unnötigem Schmutz zu bewahren.",
+                "hu": "Az erdei utak nagyon sárosak lehetnek; válassza az aszfaltozott főutakat, hogy megvédje ruházatát a szükségtelen sárfelverődéstől.",
+                "ro": "Potecile din pădure pot fi foarte noroioase; alegeți drumurile principale asfaltate pentru a vă proteja hainele de noroiul excesiv.",
+                "en": "The woodland trails can get very muddy; stick to the paved main paths to protect your clothing from excessive dirt and splashing."
+              }
+            },
+            {
+              "name": {
+                "de": "The Fish Pond",
+                "hu": "A Halastó",
+                "ro": "Iazul cu Pești",
+                "en": "The Fish Pond"
+              },
+              "tip_5lang": {
+                "de": "Der Teich wirkt im Regen geheimnisvoll, aber der Uferweg ist oft aufgeweicht; halten Sie Abstand zum Wasserrand, um nicht auszurutschen.",
+                "hu": "A tó esőben titokzatos, de a parti út gyakran felázik; tartson biztonságos távolságot a vízparttól, hogy elkerülje a megcsúszást.",
+                "ro": "Iazul pare misterios pe ploaie, dar poteca de pe mal este adesea moale; păstrați distanța de marginea apei pentru a nu aluneca.",
+                "en": "The pond looks mysterious in the rain, but the lakeside path is often soft; keep a safe distance from the water's edge to avoid slipping."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die frische Winterluft bei einer Tour zur Abtei von Neath. Mittags glitzert der Frost auf den Wegen entlang des Kanals. Nachmittags nutzen wir die tiefstehende Sonne für Fotos am Schloss. Da es früh dunkel wird, beenden wir den Tag am Fish Pond, bevor die Temperaturen unter den Gefrierpunkt sinken.",
+            "hu": "Élvezze a friss téli levegőt a Neath-i apátsághoz vezető túra során. Délben a zúzmara csillog a csatorna menti utakon. Délután használja ki az alacsonyan járó nap fényeit a várnál. Mivel korán sötétedik, fejezze be a napot a halastónál, mielőtt a hőmérséklet fagypont alá süllyed.",
+            "ro": "Bucurați-vă de aerul proaspăt de iarnă în timpul turei spre abație. La prânz, chiciura strălucește pe potecile de-a lungul canalului. După-amiaza, profitați de soarele jos pentru fotografii la castel. Deoarece se întunecă devreme, încheiați ziua la iaz înainte ca temperaturile să scadă sub îngheț.",
+            "en": "Enjoy the crisp winter air during a cycling tour to Neath Abbey. At midday, frost glistens on the paths along the canal. In the afternoon, take advantage of the low sun for photos at the castle. Since it gets dark early, finish the day at the fish pond before temperatures drop below freezing."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Neath Abbey",
+                "hu": "Neath Apátság",
+                "ro": "Abația Neath",
+                "en": "Neath Abbey"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der Fahrtwind an der Abtei sehr kalt sein kann; die kahlen Ruinen wirken im Winterlicht sehr beeindruckend.",
+                "hu": "Viseljen meleg kesztyűt, mert a menetszél az apátságnál nagyon hideg lehet; a kopár romok a téli fényben rendkívül lenyűgözőek.",
+                "ro": "Purtați mănuși groase, deoarece curentul de aer poate fi foarte rece la abație; ruinele golașe sunt impresionante în lumina iernii.",
+                "en": "Wear warm gloves as the wind chill while cycling to the abbey can be very cold; the bare ruins look impressive in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Canal",
+                "hu": "Neath-csatorna",
+                "ro": "Canalul Neath",
+                "en": "Neath Canal"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen, besonders im Schatten der Bäume; fahren Sie vorsichtig und vermeiden Sie plötzliches Bremsen auf dem Pfad.",
+                "hu": "Ügyeljen a jeges foltokra, különösen a fák árnyékában; vezessen óvatosan, és kerülje a hirtelen fékezést a csatorna menti ösvényen.",
+                "ro": "Aveți grijă la porțiunile înghețate, mai ales la umbra copacilor; conduceți cu prudență și evitați frânarea bruscă pe potecă.",
+                "en": "Watch out for icy patches, especially in the shade of trees; ride cautiously and avoid sudden braking on the canal towpath."
+              }
+            },
+            {
+              "name": {
+                "de": "Victoria Gardens",
+                "hu": "Viktória Kertek",
+                "ro": "Grădinile Victoria",
+                "en": "Victoria Gardens"
+              },
+              "tip_5lang": {
+                "de": "Der Park ist im Winter oft menschenleer; nutzen Sie die kurzen Sonnenstunden für eine Runde, aber achten Sie auf gefrorene Pfützen auf den Wegen.",
+                "hu": "A park télen gyakran néptelen; használja ki a rövid napsütéses órákat egy körre, de ügyeljen a befagyott tócsákra az utakon.",
+                "ro": "Parcul este adesea pustiu iarna; profitați de puținele ore de soare pentru o tură, dar aveți grijă la bălțile înghețate de pe alei.",
+                "en": "The park is often deserted in winter; use the short sunny hours for a loop, but watch out for frozen puddles on the garden paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Castle",
+                "hu": "Neath Várbörtöne",
+                "ro": "Castelul Neath",
+                "en": "Neath Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände schließt im Winter oft früher; planen Sie Ihren Besuch vor 15:30 Uhr ein, um nicht vor verschlossenen Toren zu stehen.",
+                "hu": "A vár területe télen gyakran korábban bezár; tervezze látogatását 15:30 előttre, hogy ne álljon zárt kapuk előtt a hidegben.",
+                "ro": "Domeniul castelului se închide adesea mai devreme iarna; planificați vizita înainte de ora 15:30 pentru a nu găsi porțile închise.",
+                "en": "The castle grounds often close earlier in winter; plan your visit before 3:30 PM to avoid finding the gates closed in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnoll Estate",
+                "hu": "Gnoll Birtok",
+                "ro": "Domeniul Gnoll",
+                "en": "Gnoll Estate"
+              },
+              "tip_5lang": {
+                "de": "Die weiten Rasenflächen können gefroren sein; bleiben Sie auf den befestigten Wegen, um einen sicheren Halt für Ihre Reifen zu gewährleisten.",
+                "hu": "A tágas gyepek fagyottak lehetnek; maradjon a szilárd burkolatú utakon, hogy biztos tapadást garantáljon a gumiabroncsoknak.",
+                "ro": "Pajiștile largi pot fi înghețate; rămâneți pe drumurile pavate pentru a asigura o aderență sigură pentru anvelopele bicicletei.",
+                "en": "The wide lawns can be frozen; stay on the paved paths to ensure a secure grip for your tires while cycling through the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "The Fish Pond",
+                "hu": "A Halastó",
+                "ro": "Iazul cu Pești",
+                "en": "The Fish Pond"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser kann im Winter teilweise gefroren sein, was toll aussieht; beenden Sie die Tour hier, bevor es nach 16:30 Uhr richtig kalt wird.",
+                "hu": "A víz télen részben befagyhat, ami remek látvány; fejezze be itt a túrát, mielőtt 16:30 után hirtelen lehűlne a levegő a tó körül.",
+                "ro": "Apa poate fi parțial înghețată iarna, oferind un aspect deosebit; încheiați tura aici înainte ca aerul să se răcească brusc după 16:30.",
+                "en": "The water may be partially frozen in winter, which looks great; finish your tour here before the air chills rapidly after 4:30 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "Autózzon ki, hogy szemtanúja legyen az Aberdulais vízesés és ipari öröksége zúgó vizeinek, majd tegyen egy rövid kirándulást a Neath Apátság romjaihoz.",
         "ro": "Conduceți pentru a asista la apele învolburate ale cascadelor Aberdulais și la moștenirea sa industrială, urmate de o scurtă excursie la Abația Neath.",
         "en": "Drive out to witness the thundering waters of Aberdulais Falls and its industrial heritage, followed by a short trip to marvel at the impressive medieval remains of Neath Abbey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt zu den Aberdulais Falls ist bei Regen spektakulär, da die Wasserfälle besonders kraftvoll sind. Mittags besuchen wir die Abtei, geschützt durch kurze Wege vom Parkplatz. Der Nachmittag gehört dem überdachten Markt in Neath. Den Tag beschließen wir mit einer Panoramafahrt zum Cefn-Cwrt Reservoir, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Az autóút az Aberdulais vízeséshez esőben a legjobb, mert ilyenkor a leglátványosabb a vízhozam. Délben az apátságot keressük fel, kihasználva a parkoló közelségét. A délutánt a fedett Neath piacon töltjük. A napot a Cefn-Cwrt víztározóhoz vezető panorámaúttal zárjuk, miközben az eső veri az autó ablakát.",
+            "ro": "O călătorie cu mașina la cascadele Aberdulais este spectaculoasă pe ploaie, debitul apei fiind maxim. La prânz vizităm abația, beneficiind de distanța scurtă de la parcare. După-amiaza aparține pieței acoperite din Neath. Încheiem ziua cu un drum panoramic spre rezervorul Cefn-Cwrt, în timp ce ploaia bate în geamuri.",
+            "en": "A car trip to Aberdulais Falls is spectacular in the rain as the waterfalls are at their most powerful. At midday, we visit the abbey, taking advantage of the short walk from the parking. The afternoon is spent at the covered Neath Market. We end the day with a scenic drive to Cefn-Cwrt Reservoir while the rain drums against the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aberdulais Falls",
+                "hu": "Aberdulais Vízesés",
+                "ro": "Cascadele Aberdulais",
+                "en": "Aberdulais Falls"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen sind die Fälle am beeindruckendsten; tragen Sie wasserfeste Kleidung für den kurzen Weg vom Besucherzentrum zur Aussichtsplattform.",
+                "hu": "Heves esőzéskor a leglátványosabb a vízesés; viseljen vízhatlan ruhát a látogatóközpont és a kilátóterasz közötti rövid séta során.",
+                "ro": "Cascadele sunt cele mai impresionante în timpul ploilor abundente; purtați haine impermeabile pentru scurta plimbare până la platformă.",
+                "en": "The falls are most impressive during heavy rain; wear waterproof clothing for the short walk from the visitor center to the viewing platform."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Abbey",
+                "hu": "Neath Apátság",
+                "ro": "Abația Neath",
+                "en": "Neath Abbey"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahen Parkplatz für einen schnellen Besuch der Ruinen zwischen zwei Schauern; die dunklen Steine wirken bei Nässe sehr imposant.",
+                "hu": "Használja a közeli parkolót az apátság gyors meglátogatásához két zápor között; a sötét kövek esőben rendkívül impozánsan mutatnak.",
+                "ro": "Folosiți parcarea apropiată pentru o vizită rapidă la abație între două averse; pietrele întunecate arată impunător când sunt ude.",
+                "en": "Use the nearby parking for a quick visit to the abbey ruins between showers; the dark stones look very imposing when they are wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Market",
+                "hu": "Neath Piac",
+                "ro": "Piața Neath",
+                "en": "Neath Market"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkhäuser in der Nähe, so dass Sie fast trocken zum Markt gelangen können; ideal, um lokale Produkte ohne Zeitdruck einzukaufen.",
+                "hu": "A közelben több parkolóház is található, így szinte szárazon juthat el a piacra; ideális helyi termékek vásárlására időnyomás nélkül.",
+                "ro": "Există parcări etajate în apropiere, astfel încât puteți ajunge la piață aproape uscat; ideal pentru a cumpăra produse locale fără grabă.",
+                "en": "There are multi-storey car parks nearby, allowing you to reach the market almost dry; ideal for buying local products without any time pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnoll Estate",
+                "hu": "Gnoll Birtok",
+                "ro": "Domeniul Gnoll",
+                "en": "Gnoll Estate"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den Parkplatzwegen, da sich dort bei Regen tiefe Pfützen bilden können; genießen Sie das Grün vom Auto aus.",
+                "hu": "Vezessen óvatosan a parkolóhoz vezető utakon, mert esőben mély tócsák alakulhatnak ki; élvezze a zöld környezetet az autó ablakából.",
+                "ro": "Conduceți cu atenție pe drumurile spre parcare, deoarece se pot forma bălți adânci; bucurați-vă de verdeață din confortul mașinii.",
+                "en": "Drive carefully on the estate roads as deep puddles can form in the rain; enjoy the lush green surroundings from the comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Cefn-Cwrt Reservoir",
+                "hu": "Cefn-Cwrt Víztározó",
+                "ro": "Rezervorul Cefn-Cwrt",
+                "en": "Cefn-Cwrt Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht vom höhergelegenen Reservoir ist bei nebligem Regenwetter sehr mystisch; bleiben Sie im Auto und genießen Sie das Panorama.",
+                "hu": "A magasan fekvő víztározótól nyíló kilátás ködös, esős időben nagyon misztikus; maradjon az autóban, és onnan csodálja a panorámát.",
+                "ro": "Priveliștea de la rezervorul situat la înălțime este mistică pe vreme cețoasă; rămâneți în mașină și admirați panorama de la adăpost.",
+                "en": "The view from the high-level reservoir is very mystical in misty, rainy weather; stay in your car and enjoy the panorama from the shelter."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre winterliche Spritztour an den Aberdulais Falls, wo das Wasser im Morgenfrost glitzert. Mittags bietet die Abtei von Neath eine historische Kulisse im klaren Winterlicht. Nachmittags decken wir uns am Markt mit Wintervorräten ein. Den Sonnenuntergang erleben wir am Cefn-Cwrt Reservoir, bevor wir die Heizung im Auto voll aufdrehen.",
+            "hu": "Kezdje téli autós kirándulását az Aberdulais vízesésnél, ahol a víz csillog a reggeli fagyban. Délben a Neath-i apátság nyújt történelmi díszletet a tiszta téli fényben. Délután a piacon tankolhatunk fel téli finomságokkal. A naplementét a Cefn-Cwrt víztározónál nézzük meg, mielőtt bekapcsoljuk a fűtést az autóban.",
+            "ro": "Începeți excursia de iarnă cu mașina la cascadele Aberdulais, unde apa strălucește în înghețul dimineții. La prânz, abația oferă un decor istoric în lumina clară a iernii. După-amiaza, ne aprovizionăm cu delicatese de iarnă de la piață. Vedem apusul la rezervorul Cefn-Cwrt înainte de a porni încălzirea la maxim.",
+            "en": "Start your winter drive at Aberdulais Falls, where the water glistens in the morning frost. At midday, Neath Abbey provides a historic backdrop in the clear winter light. In the afternoon, we stock up on winter treats at the market. We experience the sunset at Cefn-Cwrt Reservoir before turning up the heating in the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Aberdulais Falls",
+                "hu": "Aberdulais Vízesés",
+                "ro": "Cascadele Aberdulais",
+                "en": "Aberdulais Falls"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können bei Frost glatt sein; genießen Sie den Anblick der teilweise gefrorenen Vegetation rund um die Fälle bei einem kurzen Stopp.",
+                "hu": "Fagyos időben az utak csúszósak lehetnek; csodálja meg a vízesés körüli részben fagyott növényzetet egy rövid megálló során.",
+                "ro": "Potecile pot fi alunecoase pe timp de îngheț; admirați vegetația parțial înghețată din jurul cascadelor în timpul unei scurte opriri.",
+                "en": "The paths can be slippery in frost; admire the sight of the partially frozen vegetation around the falls during a brief stop at the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Abbey",
+                "hu": "Neath Apátság",
+                "ro": "Abația Neath",
+                "en": "Neath Abbey"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind im Winter oft sehr ruhig; nutzen Sie die Zeit für stimmungsvolle Fotos, aber achten Sie auf Glatteis auf dem Parkplatz.",
+                "hu": "A romok télen gyakran nagyon csendesek; használja ki az időt hangulatos fotókra, de ügyeljen a jegesedésre a parkoló területén.",
+                "ro": "Ruinele sunt adesea foarte liniștite iarna; profitați de timp pentru fotografii atmosferice, dar aveți grijă la gheața din parcare.",
+                "en": "The ruins are often very quiet in winter; use the time for atmospheric photos, but watch out for black ice in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Neath Market",
+                "hu": "Neath Piac",
+                "ro": "Piața Neath",
+                "en": "Neath Market"
+              },
+              "tip_5lang": {
+                "de": "Der Markt ist ein toller Ort, um lokale Winterprodukte wie Honig oder warme Suppen zu kaufen; ideal, um dem kalten Wind kurz zu entfliehen.",
+                "hu": "A piac remek hely helyi téli termékek, például méz vagy meleg levesek vásárlására; ideális a hideg szél elől való rövid menekülésre.",
+                "ro": "Piața este un loc minunat pentru a cumpăra produse locale de iarnă, cum ar fi mierea sau supele calde; ideal pentru a scăpa de vântul rece.",
+                "en": "The market is a great place to buy local winter products like honey or warm soups; ideal for a short escape from the biting cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Gnoll Estate",
+                "hu": "Gnoll Birtok",
+                "ro": "Domeniul Gnoll",
+                "en": "Gnoll Estate"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf den befestigten Flächen, da die Wiesen im Winter oft tiefgründig und weich sind; ein kurzer Spaziergang hält den Kreislauf in Schwung.",
+                "hu": "Parkoljon a szilárd burkolatú helyeken, mert a gyepek télen gyakran mélyek és puhák; egy rövid séta segít frissen tartani a keringést.",
+                "ro": "Parcați pe suprafețele pavate, deoarece pajiștile sunt adesea moi iarna; o scurtă plimbare vă va ajuta să vă mențineți circulația activă.",
+                "en": "Park on the paved areas as the lawns are often soft in winter; a short brisk walk will help keep your circulation going in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Cefn-Cwrt Reservoir",
+                "hu": "Cefn-Cwrt Víztározó",
+                "ro": "Rezervorul Cefn-Cwrt",
+                "en": "Cefn-Cwrt Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt kann bei Schnee oder Eis schwierig sein; kommen Sie rechtzeitig vor Sonnenuntergang gegen 16:15 Uhr an, um die beste Sicht zu haben.",
+                "hu": "Havas vagy jeges időben a feljutás nehéz lehet; érkezzen meg jóval naplemente előtt, 16:15 körül a legjobb látási viszonyok érdekében.",
+                "ro": "Accesul poate fi dificil în caz de zăpadă sau îngheț; sosiți înainte de apus, în jur de 16:15, pentru a beneficia de cea mai bună vizibilitate.",
+                "en": "Access can be difficult in snow or ice; arrive well before sunset around 4:15 PM for the best visibility and safe driving conditions."
+              }
+            }
+          ]
+        }
       }
     }
   }

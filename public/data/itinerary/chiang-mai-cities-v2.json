@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Wat Phra Singh aranytornyainak és a Wat Pha Bong lenyűgöző fafaragásainak felfedezésével az óváros szívében.\n\nDélben sétáljon át a Wat Si Koet és a Wat Chai Phrakiat békés udvaraira, ahol elmélyülhet a hagyományos helyi Lanna építészet szépségeiben.\n\nDélután csodálja meg a fenséges Wat Chedi Luang romjait, egy hatalmas pagodát, amely Chiang Mai ősi dicsőségéről és történelméről mesél.\n\nZárja sétáját a Három Királyok Emlékművénél, élvezve a történelmi hangulatot, ahogy az esti fények megvilágítják a régi városfalakat.",
         "ro": "Începeți dimineața admirând turlele aurii ale templului Wat Phra Singh și sculpturile complexe de la Wat Pha Bong, în inima orașului vechi.\n\nLa prânz, plimbați-vă prin curțile liniștite de la Wat Si Koet și Wat Chai Phrakiat, cufundându-vă în arhitectura tradițională locală Lanna.\n\nDupă-amiaza vă poartă spre ruinele maiestuoase ale Wat Chedi Luang, o pagodă uriașă care spune poveștile vechiului Chiang Mai și gloria sa.\n\nÎncheiați turul la Monumentul celor Trei Regi, bucurându-vă de atmosfera istorică în timp ce lumina serii îmbrățișează zidurile antice.",
         "en": "Begin your morning marveling at the golden spires of Wat Phra Singh and the intricate carvings of Wat Pha Bong in the heart of the Old City.\n\nBy midday, wander to the serene grounds of Wat Si Koet and Wat Chai Phrakiat, immersing yourself in local Lanna architecture and peaceful courtyards.\n\nThe afternoon leads you to the majestic ruins of Wat Chedi Luang, a massive pagoda that tells stories of ancient Chiang Mai and its former glory.\n\nConclude your walking tour near the Three Kings Monument, soaking in the historical ambiance as the evening light paints the ancient city walls."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in der Altstadt beginnt unter den schützenden Dächern der Tempel. Mittags bietet der Spaziergang unter dem Schirm stimmungsvolle Reflexionen auf dem nassen Pflaster. Am Nachmittag glänzt der Platz am Denkmal im Regenlicht. Der Abend ist feucht und kühl, die Lichter der Stadt spiegeln sich magisch in den Pfützen der schmalen Gassen.",
+            "hu": "Az esős reggel az óvárosban a templomok védelmező tetői alatt kezdődik. Délben az esernyős séta során a vizes aszfalton megcsillanó fények különleges hangulatot árasztanak. Délután az emlékmű előtti tér ragyog a páratelt levegőben. Az este hűvös és nyirkos, a város fényei varázslatosan tükröződnek a szűk utcák tócsáiban.",
+            "ro": "O dimineață ploioasă în orașul vechi începe sub acoperișurile protectoare ale templelor. La prânz, plimbarea sub umbrelă oferă reflexii atmosferice pe pavajul umed. După-amiaza, piața monumentului strălucește în lumina ploii. Seara este umedă și răcoroasă, luminile orașului oglindindu-se magic în bălțile de pe străzile înguste.",
+            "en": "A rainy morning in the old city begins under the protective eaves of the temples. At noon, walking with an umbrella offers atmospheric reflections on the wet pavement. In the afternoon, the square at the monument glows in the rain-washed light. The evening is damp and cool, with city lights reflecting magically in the puddles of narrow alleys."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Phra Singh",
+                "hu": "Wat Phra Singh",
+                "ro": "Wat Phra Singh",
+                "en": "Wat Phra Singh"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Wandmalereien im Inneren der Haupthalle, während Sie den Schauer abwarten; Vorsicht auf den Steinstufen, sie sind bei Regen extrem rutschig.",
+                "hu": "Csodálja meg a főcsarnok belső falfestményeit, miközben megvárja a zápor végét; legyen óvatos a kőlépcsőkön, mert esőben rendkívül csúszóssá válnak.",
+                "ro": "Admirați picturile murale din interiorul halei principale în timp ce așteptați trecerea ploii; atenție pe treptele de piatră, sunt extrem de alunecoase când plouă.",
+                "en": "Admire the interior murals of the main hall while waiting for the shower to pass; be careful on the stone steps as they become extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Pha Bong",
+                "hu": "Wat Pha Bong",
+                "ro": "Wat Pha Bong",
+                "en": "Wat Pha Bong"
+              },
+              "tip_5lang": {
+                "de": "Dieser kleine Tempel bietet schnellen Schutz vor plötzlichem Regen; nutzen Sie die Zeit, um die feinen Holzschnitzereien unter dem schmalen Dachvorsprung zu betrachten.",
+                "hu": "Ez a kis templom gyors menedéket nyújt a hirtelen eső elől; használja ki az időt a finom fafaragások megtekintésére a keskeny tetőpárkány védelmében.",
+                "ro": "Acest mic templu oferă un adăpost rapid împotriva ploii bruște; folosiți timpul pentru a vedea sculpturile fine în lemn sub streașina îngustă a acoperișului.",
+                "en": "This small temple offers quick shelter from sudden rain; use the time to view the fine wood carvings under the narrow eaves of the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Si Koet",
+                "hu": "Wat Si Koet",
+                "ro": "Wat Si Koet",
+                "en": "Wat Si Koet"
+              },
+              "tip_5lang": {
+                "de": "Die ruhige Atmosphäre wird durch das Trommeln des Regens auf das Ziegeldach verstärkt; tragen Sie wasserfeste Schuhe für den Weg über den oft überfluteten Hof.",
+                "hu": "A nyugodt légkört fokozza az eső kopogása a cseréptetőkön; viseljen vízálló cipőt a templomudvaron való átkeléshez, ahol gyakran megáll a víz.",
+                "ro": "Atmosfera liniștită este accentuată de ropotul ploii pe acoperișul de țiglă; purtați încălțăminte impermeabilă pentru curtea templului adesea inundată.",
+                "en": "The peaceful atmosphere is enhanced by the drumming of rain on the tile roof; wear waterproof shoes for crossing the often flooded temple courtyard."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chai Phrakiat",
+                "hu": "Wat Chai Phrakiat",
+                "ro": "Wat Chai Phrakiat",
+                "en": "Wat Chai Phrakiat"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht im prächtigen Innenraum, wenn der Monsunregen einsetzt; die goldenen Statuen leuchten im gedimmten Licht des bewölkten Himmels besonders hell.",
+                "hu": "Keressen menedéket a pompás belső térben a monszun idején; az aranyozott szobrok különösen fényesen ragyognak a felhős égbolt tompa fényeiben.",
+                "ro": "Căutați refugiu în interiorul splendid când începe ploaia musonică; statuile aurite strălucesc intens în lumina difuză a cerului înnorat.",
+                "en": "Seek refuge in the splendid interior when monsoon rain starts; the gilded statues shine particularly brightly in the dim light of the cloudy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chedi Luang",
+                "hu": "Wat Chedi Luang",
+                "ro": "Wat Chedi Luang",
+                "en": "Wat Chedi Luang"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Ruinen wirken bei grauem Himmel besonders dramatisch; bleiben Sie unter den Arkaden der modernen Gebetshalle, um trocken zu bleiben.",
+                "hu": "A hatalmas romok különösen drámai hatást keltenek a szürke égbolt alatt; maradjon a modern imacsarnok árkádjai alatt, hogy szárazon megússza a záport.",
+                "ro": "Ruinele masive par deosebit de dramatice sub cerul gri; stați sub arcadele halei moderne de rugăciune pentru a rămâne uscați în timpul ploii.",
+                "en": "The massive ruins look particularly dramatic under grey skies; stay under the arcades of the modern prayer hall to keep dry during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Drei-Könige-Denkmal",
+                "hu": "Három Királyok Emlékműve",
+                "ro": "Monumentul celor Trei Regi",
+                "en": "Three Kings Monument"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche des nahegelegenen Kulturzentrums für Fotos ohne Regentropfen auf der Linse; der nasse Platz spiegelt die Statuen wunderschön.",
+                "hu": "Használja a közeli kulturális központ fedett részeit a fotózáshoz, hogy ne legyen vizes a lencse; a vizes tér gyönyörűen tükrözi vissza a szobrokat.",
+                "ro": "Folosiți zonele acoperite ale centrului cultural din apropiere pentru fotografii; piața umedă reflectă frumos statuile celor trei regi fondatori.",
+                "en": "Use the covered areas of the nearby cultural center for photos; the wet square reflects the statues of the three founding kings beautifully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft macht den Spaziergang durch Chiang Mai äußerst angenehm. Mittags wärmt die sanfte Wintersonne, ohne zu heiß zu sein. Am Nachmittag taucht das tiefe Sonnenlicht die Tempel in Gold. Ab 17:00 Uhr sinken die Temperaturen spürbar; ein leichter Pullover ist für den frühen Abend in der Altstadt nun unverzichtbar.",
+            "hu": "A hűvös reggeli levegő rendkívül kellemessé teszi a sétát Chiang Maiban. Délben a lágy téli napsütés melenget, de nem éget. Délután az alacsonyan járó nap aranyba öltözteti a templomokat. 17:00 után a hőmérséklet érezhetően csökken; egy vékony pulóver elengedhetetlen az óvárosi estéhez.",
+            "ro": "Aerul răcoros al dimineții face plimbarea prin Chiang Mai extrem de plăcută. La prânz, soarele blând de iarnă încălzește fără a fi prea fierbinte. După-amiaza, lumina joasă a soarelui îmbracă templele în aur. După ora 17:00, temperaturile scad sesizabil; un pulover subțire este indispensabil pentru seara în oraș.",
+            "en": "The cool morning air makes walking through Chiang Mai extremely pleasant. At noon, the gentle winter sun warms without being too hot. In the afternoon, the low sunlight bathes the temples in gold. After 17:00, temperatures drop noticeably; a light sweater is now essential for the early evening in the old city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Phra Singh",
+                "hu": "Wat Phra Singh",
+                "ro": "Wat Phra Singh",
+                "en": "Wat Phra Singh"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Brise im weitläufigen Tempelgarten; das klare Winterlicht bringt die Details der Lanna-Architektur ohne störenden Dunst perfekt zur Geltung.",
+                "hu": "Élvezze a hűvös szellőt a tágas templomkertben; a tiszta téli fényben a Lanna építészet részletei párásodás nélkül, tökéletesen érvényesülnek.",
+                "ro": "Bucurați-vă de briza răcoroasă în grădina spațioasă a templului; lumina clară de iarnă scoate în evidență detaliile arhitecturii Lanna fără ceața obișnuită.",
+                "en": "Enjoy the cool breeze in the spacious temple garden; the clear winter light brings out the details of Lanna architecture perfectly without the usual haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Pha Bong",
+                "hu": "Wat Pha Bong",
+                "ro": "Wat Pha Bong",
+                "en": "Wat Pha Bong"
+              },
+              "tip_5lang": {
+                "de": "Der morgendliche Nebel verleiht diesem kleinen Heiligtum eine mystische Aura; die kühlen Temperaturen machen die Erkundung der Außenanlagen sehr erholsam.",
+                "hu": "A reggeli pára misztikus aurát kölcsönöz ennek a kis szentélynek; a hűvös hőmérséklet miatt a külső részek felfedezése is pihentető élmény.",
+                "ro": "Ceața matinală oferă acestui mic sanctuar o aură mistică; temperaturile scăzute fac explorarea zonelor exterioare foarte relaxantă.",
+                "en": "The morning mist gives this small sanctuary a mystical aura; the cool temperatures make exploring the outdoor areas very relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Si Koet",
+                "hu": "Wat Si Koet",
+                "ro": "Wat Si Koet",
+                "en": "Wat Si Koet"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet den Innenhof sanft; nutzen Sie das angenehme Wetter für eine längere Rast auf den Bänken im Freien, bevor es abends abkühlt.",
+                "hu": "A téli nap lágyan világítja meg a belső udvart; használja ki a kellemes időt egy hosszabb pihenőre a kinti padokon, mielőtt este lehűlne a levegő.",
+                "ro": "Soarele de iarnă luminează blând curtea interioară; profitați de vremea plăcută pentru o odihnă lungă pe băncile de afară înainte de răcirea serii.",
+                "en": "The winter sun illuminates the inner courtyard gently; use the pleasant weather for a long rest on the outdoor benches before it cools down at night."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chai Phrakiat",
+                "hu": "Wat Chai Phrakiat",
+                "ro": "Wat Chai Phrakiat",
+                "en": "Wat Chai Phrakiat"
+              },
+              "tip_5lang": {
+                "de": "Das glänzende Dach reflektiert das klare Sonnenlicht der Trockenzeit; der Verzicht auf Klimatisierung ist dank der natürlichen Winterkühle im Inneren kein Problem.",
+                "hu": "A csillogó tető visszaveri a száraz évszak tiszta napsütését; a légkondicionálás hiánya a belső terekben a természetes téli hűvösség miatt egyáltalán nem zavaró.",
+                "ro": "Acoperișul strălucitor reflectă lumina clară a sezonului uscat; absența aerului condiționat nu este o problemă datorită răcorii naturale de iarnă din interior.",
+                "en": "The shiny roof reflects the clear sunlight of the dry season; the lack of air conditioning inside is no issue thanks to the natural winter coolness."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chedi Luang",
+                "hu": "Wat Chedi Luang",
+                "ro": "Wat Chedi Luang",
+                "en": "Wat Chedi Luang"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruine am späten Nachmittag, wenn die Schatten länger werden; ziehen Sie sich nach Sonnenuntergang warm an, da der Wind hier oft auffrischt.",
+                "hu": "Késő délután látogassa meg a romokat, amikor a fények nyúlni kezdenek; naplemente után öltözzön fel melegen, mert itt gyakran feltámad a hűvös szél.",
+                "ro": "Vizitați ruina la sfârșitul după-amiezii, când umbrele se lungesc; îmbrăcați-vă gros după apus, deoarece vântul tinde să se intensifice aici.",
+                "en": "Visit the ruin in the late afternoon as the shadows lengthen; dress warmly after sunset as the wind often picks up around the massive structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Drei-Könige-Denkmal",
+                "hu": "Három Királyok Emlékműve",
+                "ro": "Monumentul celor Trei Regi",
+                "en": "Three Kings Monument"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist im Winter ein beliebter Treffpunkt für Einheimische; kommen Sie vor 17:00 Uhr, um das Denkmal noch im Tageslicht ohne die Abendkälte zu sehen.",
+                "hu": "A tér télen a helyiek kedvelt találkozóhelye; érkezzen 17:00 előtt, hogy még nappali fényben lássa az emlékművet az esti lehűlés előtt.",
+                "ro": "Piața este un loc popular de întâlnire pentru localnici iarna; veniți înainte de ora 17:00 pentru a vedea monumentul la lumina zilei, fără frigul serii.",
+                "en": "The square is a popular meeting spot for locals in winter; arrive before 17:00 to see the monument in daylight without the evening chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje kerékpártúráját a lenyűgöző Wat Lok Molee templomnál, amely híres a hatalmas sztúpájáról és a reggeli fényben fürdő, díszes tíkfa pavilonjairól.\n\nKerekezzen dél felé a csendesebb Wat Chiang Yuen és Wat Chomphu felé, ahol megtapasztalhatja a helyiek hitét és az észak-thai építészet csodáit.\n\nTöltse a délutánt a történelmi Három Királyok Emlékművénél, a királyság egykori központjában, ahol szinte megelevenedik a város gazdag öröksége.\n\nFejezze be az utat a Wat Chedi Luangnál az este közeledtével, amikor a magasba nyúló, földrengés sújtotta torony drámai látványt nyújt a szürkületben.",
         "ro": "Începeți traseul cu bicicleta la impresionantul Wat Lok Molee, renumit pentru stupa sa masivă și pavilioanele din lemn de tec ce strălucesc dimineața.\n\nPedalați la prânz spre mai liniștitele Wat Chiang Yuen și Wat Chomphu, pentru a experimenta spiritualitatea locală și detaliile nord-thailandeze.\n\nPetreceți după-amiaza la istoricul Monument al celor Trei Regi, fostul centru al regatului, unde patrimoniul bogat al orașului prinde viață.\n\nFinalizați plimbarea la Wat Chedi Luang la lăsarea serii, când turla impunătoare și avariată de cutremur arată spectaculos pe cerul amurgului.",
         "en": "Kick off your cycling journey at the striking Wat Lok Molee, known for its massive stupa and intricate teak wood pavilions glowing in the morning light.\n\nPedal towards midday to the less-visited Wat Chiang Yuen and Wat Chomphu, experiencing authentic local worship and stunning northern Thai details.\n\nSpend your afternoon at the historic Three Kings Monument square, the former center of the kingdom, where the city's rich heritage comes alive.\n\nFinish the ride at Wat Chedi Luang as evening falls, when the towering, earthquake-damaged spire looks beautifully dramatic against the twilight sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Auf zwei Rädern durch das regnerische Chiang Mai zu fahren, erfordert Vorsicht und gute Regenkleidung. Vormittags gleiten Sie durch die feuchten Straßen zu den Tempeln im Norden. Mittags laden überdachte Hallen zur Rast ein, während der Regen prasselt. Nachmittags spiegelt sich die Stadt im Wasser. Abends sorgen nasse Fahrbahnen für rutschige Kurven, fahren Sie langsam.",
+            "hu": "Két keréken az esős Chiang Maiban óvatosságot és jó esőruházatot igényel a túra. Délelőtt a nedves utcákon siklik az északi templomok felé. Délben a fedett csarnokok hívogatnak pihenőre, miközben az eső kopog. Délután a város visszatükröződik a vizen. Este a vizes úttest miatt a kanyarok csúszósak, hajtson lassan és figyelmesen.",
+            "ro": " Mersul pe două roți prin Chiang Mai pe ploaie necesită prudență și haine impermeabile. Dimineața, alunecați pe străzile umede spre templele din nord. La prânz, halele acoperite vă invită la odihnă în timp ce ploaia cade. După-amiaza, orașul se oglindește în apă. Seara, carosabilul umed face curbele alunecoase, conduceți încet.",
+            "en": "Cycling through rainy Chiang Mai requires caution and good rain gear. In the morning, glide through wet streets toward the northern temples. At noon, covered halls invite you to rest while the rain drums down. In the afternoon, the city reflects in the water. In the evening, wet surfaces make corners slippery, so ride slowly and carefully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Lok Molee",
+                "hu": "Wat Lok Molee",
+                "ro": "Wat Lok Molee",
+                "en": "Wat Lok Molee"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Bäumen und suchen Sie Schutz im dunklen Teakholztempel; die Ziegelsteine im Hof werden bei Nässe sehr rutschig.",
+                "hu": "Parkolja le a biciklit a fák alatt, és keressen menedéket a sötét teafa templomban; az udvar téglái nedvesen nagyon csúszóssá válnak.",
+                "ro": "Parcați bicicleta sub copaci și căutați adăpost în templul din lemn de tec; cărămizile din curte devin foarte alunecoase când sunt ude.",
+                "en": "Park your bike under the trees and seek shelter in the dark teak temple; the bricks in the courtyard become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chiang Yuen",
+                "hu": "Wat Chiang Yuen",
+                "ro": "Wat Chiang Yuen",
+                "en": "Wat Chiang Yuen"
+              },
+              "tip_5lang": {
+                "de": "Die weiße Pagode wirkt im Regen besonders rein; nutzen Sie den überdachten Eingangsbereich, um Ihre Karte oder Ihr Handy trocken zu prüfen.",
+                "hu": "A fehér pagoda az esőben különösen tisztának hat; használja a fedett bejáratot, hogy szárazon ellenőrizze a térképet vagy a telefonját.",
+                "ro": "Pagoda albă pare deosebit de pură în ploaie; folosiți zona de intrare acoperită pentru a verifica harta sau telefonul la uscat.",
+                "en": "The white pagoda looks particularly pure in the rain; use the covered entrance area to check your map or phone while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chomphu",
+                "hu": "Wat Chomphu",
+                "ro": "Wat Chomphu",
+                "en": "Wat Chomphu"
+              },
+              "tip_5lang": {
+                "de": "Der goldene Chedi glänzt auch bei grauem Himmel; achten Sie beim Absteigen auf den oft schlammigen Untergrund am Straßenrand.",
+                "hu": "Az arany cserépből készült cedi szürke égbolt mellett is ragyog; figyeljen a leszálláskor az út szélén gyakran előforduló sáros részekre.",
+                "ro": "Chedi-ul auriu strălucește chiar și sub cerul gri; aveți grijă la coborâre la zonele adesea noroioase de pe marginea drumului.",
+                "en": "The golden chedi shines even under grey skies; watch out for often muddy spots on the roadside when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Drei-Könige-Denkmal",
+                "hu": "Három Királyok Emlékműve",
+                "ro": "Monumentul celor Trei Regi",
+                "en": "Three Kings Monument"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über den glatten Platz zum Denkmal; das nahegelegene Museum bietet trockene Stellplätze für Fahrräder während eines starken Schauers.",
+                "hu": "Hajtson óvatosan a sima téren az emlékműhöz; a közeli múzeum száraz parkolóhelyet kínál a bicikliknek egy heves zápor idejére.",
+                "ro": "Conduceți cu atenție pe piața netedă către monument; muzeul din apropiere oferă locuri de parcare uscate pentru biciclete în timpul unei ploi torențiale.",
+                "en": "Ride carefully across the smooth square to the monument; the nearby museum offers dry parking spots for bikes during heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chedi Luang",
+                "hu": "Wat Chedi Luang",
+                "ro": "Wat Chedi Luang",
+                "en": "Wat Chedi Luang"
+              },
+              "tip_5lang": {
+                "de": "Die riesige Struktur bietet Schutz vor Wind, aber wenig vor direktem Regen; nutzen Sie die Zeit für eine Radinspektion unter der Tempelüberdachung.",
+                "hu": "A hatalmas építmény védelmet nyújt a szél ellen, de keveset a közvetlen eső ellen; használja az időt a bicikli ellenőrzésére a templomtető alatt.",
+                "ro": "Structura uriașă oferă protecție împotriva vântului, dar puțină împotriva ploii; folosiți timpul pentru o verificare a bicicletei sub acoperiș.",
+                "en": "The giant structure provides shelter from wind but little from direct rain; use the time for a quick bike check under the temple's roofed areas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter ist die beste Art, Chiang Mai zu erkunden, da die Hitze ausbleibt. Vormittags weht ein frischer Wind durch die Speichen. Mittags ist die Sonne angenehm warm auf dem Rücken. Am Nachmittag werfen die Pagoden lange Schatten auf die Wege. Ab 17:00 Uhr wird es auf dem Rad schnell kalt, eine windfeste Jacke ist nun unverzichtbar.",
+            "hu": "A téli biciklizés a legjobb módja Chiang Mai felfedezésének, mivel elmarad a hőség. Délelőtt friss szél fúj a küllők között. Délben a nap kellemesen melegíti a hátunkat. Délután a pagodák hosszú árnyékot vetnek az utakra. 17:00 után a biciklin ülve gyorsan lehűl az idő, egy szélálló dzseki ilyenkor már kötelező.",
+            "ro": "Ciclismul de iarnă este cel mai bun mod de a explora Chiang Mai, deoarece căldura lipsește. Dimineața, un vânt proaspăt suflă printre spițe. La prânz, soarele este plăcut pe spate. După-amiaza, pagodele aruncă umbre lungi pe poteci. După ora 17:00, se face repede frig pe bicicletă, o jachetă rezistentă la vânt este indispensabilă.",
+            "en": "Winter cycling is the best way to explore Chiang Mai as the intense heat is gone. In the morning, a fresh breeze blows through the spokes. At noon, the sun is pleasantly warm on your back. In the afternoon, pagodas cast long shadows over the paths. After 17:00, it gets cold quickly on the bike, so a windproof jacket is essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Lok Molee",
+                "hu": "Wat Lok Molee",
+                "ro": "Wat Lok Molee",
+                "en": "Wat Lok Molee"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft im schattigen Garten ist im Winter perfekt; parken Sie Ihr Rad in der Sonne, damit der Sattel für die Weiterfahrt angenehm warm bleibt.",
+                "hu": "Az árnyékos kert hűvös levegője télen tökéletes; parkolja a biciklit a napon, hogy a nyereg kellemesen meleg maradjon a továbbinduláshoz.",
+                "ro": "Aerul răcoros din grădina umbrită este perfect iarna; parcați bicicleta la soare pentru ca șaua să rămână caldă pentru continuarea drumului.",
+                "en": "The cool air in the shaded garden is perfect in winter; park your bike in the sun so the seat stays pleasantly warm for your onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chiang Yuen",
+                "hu": "Wat Chiang Yuen",
+                "ro": "Wat Chiang Yuen",
+                "en": "Wat Chiang Yuen"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die weiße Pagode unter dem stahlblauen Winterhimmel; die harten Kontraste machen dies zum idealen Zeitpunkt für Fotos.",
+                "hu": "Élvezze a tiszta kilátást a fehér pagodára az acélkék téli égbolt alatt; az erős kontrasztok miatt ez az ideális időpont a fotózáshoz.",
+                "ro": "Bucurați-vă de vederea clară a pagodei albe sub cerul albastru de iarnă; contrastele puternice fac din acesta momentul ideal pentru fotografii.",
+                "en": "Enjoy the clear view of the white pagoda under the steel-blue winter sky; the sharp contrasts make this the ideal time for photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chomphu",
+                "hu": "Wat Chomphu",
+                "ro": "Wat Chomphu",
+                "en": "Wat Chomphu"
+              },
+              "tip_5lang": {
+                "de": "Der goldene Chedi leuchtet in der intensiven Wintersonne besonders hell; nutzen Sie die kühle Witterung für einen entspannten Spaziergang um die Anlage.",
+                "hu": "Az arany cedi különösen fényesen ragyog az intenzív téli napsütésben; használja ki a hűvös időt egy pihentető sétára a templom körül.",
+                "ro": "Chedi-ul auriu strălucește deosebit de tare în soarele intens de iarnă; profitați de vremea răcoroasă pentru o plimbare relaxată în jurul complexului.",
+                "en": "The golden chedi shines extra brightly in the intense winter sun; take advantage of the cool weather for a relaxed walk around the complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Drei-Könige-Denkmal",
+                "hu": "Három Királyok Emlékműve",
+                "ro": "Monumentul celor Trei Regi",
+                "en": "Three Kings Monument"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben auf dem Platz in der milden Mittagssonne; decken Sie Ihr Rad ab, wenn Sie länger bleiben, da die Abendfeuchtigkeit früh einsetzt.",
+                "hu": "Figyelje a tér nyüzsgését a kora délutáni napsütésben; takarja le a biciklit, ha tovább marad, mert az esti pára korán lecsapódik.",
+                "ro": "Observați agitația din piață în soarele blând de la prânz; acoperiți bicicleta dacă stați mai mult, deoarece umiditatea serii apare devreme.",
+                "en": "Observe the bustle in the square in the mild noon sun; cover your bike if staying longer, as evening humidity sets in early."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Chedi Luang",
+                "hu": "Wat Chedi Luang",
+                "ro": "Wat Chedi Luang",
+                "en": "Wat Chedi Luang"
+              },
+              "tip_5lang": {
+                "de": "Die Ziegelruine speichert die Wärme des Tages und gibt sie am kühler werdenden Nachmittag ab; perfekt für eine letzte Pause vor dem Sonnenuntergang.",
+                "hu": "A téglaromok tárolják a nappali hőt, és a hűvösödő délutánon adják le; tökéletes helyszín egy utolsó pihenőre a naplemente előtt.",
+                "ro": "Ruina de cărămidă stochează căldura zilei și o eliberează după-amiaza răcoroasă; perfect pentru o ultimă pauză înainte de apus.",
+                "en": "The brick ruins store the day's heat and release it during the cooling afternoon; a perfect spot for a final break before sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Indítsa az utazást a Chiang Mai Nemzeti Múzeumban, ahol a csendes délelőtt folyamán elmerülhet a Lanna Királyság gazdag történelmében és kultúrájában.\n\nDélben utazzon tovább az ikonikus Wat Lok Molee és a központi Három Királyok Emlékműve felé, megcsodálva az ősi város lenyűgöző építészetét.\n\nDélután fedezze fel a terület vallási sokszínűségét a forgalmas utcák között megbúvó, történelmi jelentőségű Baan Haw mecset meglátogatásával.\n\nZárja az estét a San Pa Koi mecsetnél, élvezve a nyüzsgő helyi környék hangulatát, mielőtt visszatérne a kényelmes szálláshelyére pihenni.",
         "ro": "Începeți călătoria la Muzeul Național Chiang Mai, aprofundând istoria și cultura bogată a Regatului Lanna în timpul dimineții liniștite.\n\nLa prânz, conduceți spre emblematicul Wat Lok Molee și centralul Monument al celor Trei Regi, observând evoluția arhitecturală a vechiului oraș.\n\nDupă-amiaza, explorați diversitatea spirituală a zonei vizitând moscheea istorică Baan Haw, ascunsă printre străzile pline de viață și culoare.\n\nÎncheiați seara la Moscheea San Pa Koi, bucurându-vă de atmosfera vibrantă a cartierului local înainte de a vă retrage spre locul de cazare.",
         "en": "Start your drive at the Chiang Mai National Museum, diving into the deep history and rich culture of the Lanna Kingdom during the tranquil morning.\n\nBy midday, cruise to the iconic Wat Lok Molee and the central Three Kings Monument, witnessing the grand architectural evolution of the ancient city.\n\nIn the afternoon, explore the spiritual diversity of the area by visiting the historically significant Baan Haw Mosque tucked away in bustling streets.\n\nWrap up your evening at the San Pa Koi Mosque, enjoying the vibrant local neighborhood atmosphere before heading back to your comfortable accommodation."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto bietet trockenen Komfort und Schutz vor plötzlichen Monsunschauern in Chiang Mai. Vormittags entgehen Sie dem Regen in den klimatisierten Räumen des Nationalmuseums. Mittags parken Sie nah an den Tempeleingängen. Nachmittags ist die Sicht durch den Starkregen oft eingeschränkt. Abends glänzen die Lichter der Stadt auf den nassen Straßen durch das Autofenster.",
+            "hu": "Az autó száraz kényelmet és védelmet nyújt a hirtelen monszun záporok elől Chiang Maiban. Délelőtt a Nemzeti Múzeum légkondicionált termeiben kerülheti el az esőt. Délben parkoljon a templombejáratok közelében. Délután a látási viszonyok a heves eső miatt korlátozottak lehetnek. Este a város fényei az ablakon át nézve csillognak a vizes utakon.",
+            "ro": "Mașina oferă confort și protecție împotriva ploilor musonice bruște din Chiang Mai. Dimineața, evitați ploaia în sălile cu aer condiționat ale Muzeului Național. La prânz, parcați aproape de intrările templelor. După-amiaza, vizibilitatea poate fi limitată din cauza ploii torențiale. Seara, luminile orașului strălucesc pe străzile umede prin geamul mașinii.",
+            "en": "The car provides dry comfort and protection from sudden monsoon showers in Chiang Mai. In the morning, escape the rain in the air-conditioned halls of the National Museum. At noon, park close to the temple entrances. In the afternoon, visibility may be limited by heavy rain. In the evening, the city lights shimmer on wet roads seen through the window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiang Mai Nationalmuseum",
+                "hu": "Chiang Mai Nemzeti Múzeum",
+                "ro": "Muzeul Național Chiang Mai",
+                "en": "Chiang Mai National Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Parkplatz und verbringen Sie die regnerische Zeit in den Innenräumen mit wertvollen Artefakten; ein idealer Ort für starke Schauer.",
+                "hu": "Használja a fedett parkolót, és töltse az esős időt a belső termek értékes műtárgyai között; ideális helyszín heves záporok idején.",
+                "ro": "Folosiți parcarea acoperită și petreceți timpul ploios printre artefactele valoroase din interior; un loc ideal pentru ploi torențiale.",
+                "en": "Use the covered parking and spend the rainy period among the valuable artifacts inside; an ideal spot during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lok Molee",
+                "hu": "Wat Lok Molee",
+                "ro": "Wat Lok Molee",
+                "en": "Wat Lok Molee"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Auto am Eingang ab, um den Weg durch den Regen zum Haupttempel zu verkürzen; die dunklen Holzschnitzereien wirken bei Bewölkung mystisch.",
+                "hu": "Álljon meg az autóval a bejáratnál, hogy lerövidítse az utat az esőben a főtemplomig; a sötét fafaragások misztikus hatást keltenek felhős időben.",
+                "ro": "Opriți mașina la intrare pentru a sccurta drumul prin ploaie către templul principal; sculpturile în lemn închis la culoare par mistice pe vreme înnorată.",
+                "en": "Stop the car at the entrance to shorten the walk through the rain to the main temple; the dark wood carvings look mystical in cloudy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Drei-Könige-Denkmal",
+                "hu": "Három Királyok Emlékműve",
+                "ro": "Monumentul celor Trei Regi",
+                "en": "Three Kings Monument"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal bequem aus dem geparkten Wagen, falls es zu stark regnet; das nahegelegene Kulturzentrum bietet trockene Ausstellungsräume.",
+                "hu": "Tekintse meg az emlékművet kényelmesen a parkoló autóból, ha túl erősen esne; a közeli kulturális központ száraz kiállítótereket kínál.",
+                "ro": "Vedeți monumentul confortabil din mașina parcată dacă plouă prea tare; centrul cultural din apropiere oferă spații de expoziție uscate.",
+                "en": "View the monument comfortably from your parked car if it's raining too hard; the nearby cultural center offers dry exhibition spaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Baan Haw Moschee",
+                "hu": "Baan Haw Mecset",
+                "ro": "Moscheea Baan Haw",
+                "en": "Baan Haw Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Moschee liegt in einer schmalen Gasse; achten Sie beim Aussteigen aus dem Auto auf tiefe Pfützen und nutzen Sie einen stabilen Regenschirm.",
+                "hu": "A mecset egy szűk utcában található; kiszálláskor ügyeljen a mély tócsákra, és használjon stabil esernyőt a bejárathoz vezető rövid úton.",
+                "ro": "Moscheea este situată pe o stradă îngustă; la coborâre, aveți grijă la bălțile adânci și folosiți o umbrelă stabilă pentru drumul scurt spre intrare.",
+                "en": "The mosque is located in a narrow street; watch out for deep puddles when getting out of the car and use a sturdy umbrella for the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pa Koi Moschee",
+                "hu": "San Pa Koi Mecset",
+                "ro": "Moscheea San Pa Koi",
+                "en": "San Pa Koi Mosque"
+              },
+              "tip_5lang": {
+                "de": "Der überdachte Bereich bietet Schutz vor dem Regen, während Sie die Architektur bewundern; parken Sie vorsichtig am oft schlammigen Straßenrand.",
+                "hu": "A fedett rész védelmet nyújt az eső elől, miközben megcsodálja az építészetet; parkoljon óvatosan az út mentén, ahol gyakran sár gyűlik össze.",
+                "ro": "Zona acoperită oferă protecție împotriva ploii în timp ce admirați arhitectura; parcați cu atenție pe marginea drumului adesea noroioasă.",
+                "en": "The covered area provides shelter from the rain while you admire the architecture; park carefully along the often muddy roadside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Das Reisen mit dem Auto im Winter ermöglicht es, den harten Kontrast zwischen kühler Morgenluft und warmer Mittagssonne bequem zu steuern. Vormittags genießen Sie die klare Sicht ohne Smog. Mittags ist das Auto angenehm klimatisiert. Am Nachmittag leuchten die Denkmäler im tiefstehenden Licht. Ab 17:00 Uhr sinken die Temperaturen schnell, das Auto bleibt Ihr warmer Rückzugsort.",
+            "hu": "A téli autós utazás kényelmesen hidalja át a hűvös reggeli levegő és a meleg déli napsütés közötti különbséget. Délelőtt élvezze a tiszta kilátást füstköd nélkül. Délben az autó kellemesen temperált. Délután az emlékművek ragyognak az alacsony napfényben. 17:00 után a hőmérséklet gyorsan csökken, az autó meleg menedék marad.",
+            "ro": "Călătoria cu mașina iarna vă permite să gestionați confortabil contrastul dintre aerul rece de dimineață și soarele cald de la prânz. Dimineața, bucurați-vă de vederea clară. La prânz, mașina este plăcut climatizată. După-amiaza, monumentele strălucesc în lumina joasă. După ora 17:00, temperaturile scad rapid, mașina rămânând un refugiu cald.",
+            "en": "Traveling by car in winter allows you to comfortably manage the contrast between cool morning air and warm noon sun. In the morning, enjoy the clear views without smog. At noon, the car is pleasantly air-conditioned. In the afternoon, the monuments glow in the low sunlight. After 17:00, temperatures drop rapidly, and the car remains your warm sanctuary."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiang Mai Nationalmuseum",
+                "hu": "Chiang Mai Nemzeti Múzeum",
+                "ro": "Muzeul Național Chiang Mai",
+                "en": "Chiang Mai National Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am kühlen Vormittag; die Außenanlagen sind jetzt besonders schön zu begehen, bevor die Mittagssonne an Kraft gewinnt.",
+                "hu": "Látogassa meg a múzeumot a hűvös délelőttön; a külső parkrészek most különösen szépek egy sétához, mielőtt a déli nap ereje megnőne.",
+                "ro": "Vizitați muzeul în dimineața răcoroasă; zonele exterioare sunt acum deosebit de frumoase pentru o plimbare înainte ca soarele de la prânz să prindă putere.",
+                "en": "Visit the museum during the cool morning; the outdoor grounds are particularly beautiful to walk through now before the noon sun gets stronger."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Lok Molee",
+                "hu": "Wat Lok Molee",
+                "ro": "Wat Lok Molee",
+                "en": "Wat Lok Molee"
+              },
+              "tip_5lang": {
+                "de": "Das dunkle Holz des Tempels absorbiert die Wärme der Wintersonne; nutzen Sie die Parkplätze im Halbschatten, um die kühle Atmosphäre der Anlage zu bewahren.",
+                "hu": "A templom sötét fája elnyeli a téli nap melegét; használja a félárnyékos parkolóhelyeket, hogy megőrizze a komplexum hűvös hangulatát.",
+                "ro": "Lemnul închis al templului absoarbe căldura soarelui de iarnă; folosiți locurile de parcare la semiumbră pentru a păstra atmosfera răcoroasă a ansamblului.",
+                "en": "The dark wood of the temple absorbs the warmth of the winter sun; use the semi-shaded parking spots to preserve the cool atmosphere of the complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Drei-Könige-Denkmal",
+                "hu": "Három Királyok Emlékműve",
+                "ro": "Monumentul celor Trei Regi",
+                "en": "Three Kings Monument"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am späten Nachmittag in der Nähe, um das Denkmal im goldenen Licht zu sehen; nach 17:00 Uhr wird es auf dem offenen Platz schnell zugig.",
+                "hu": "Parkoljon a közelben késő délután, hogy aranyló fényben lássa az emlékművet; 17:00 után a nyitott téren gyorsan feltámad a hűvös szél.",
+                "ro": "Parcați în apropiere după-amiaza târziu pentru a vedea monumentul în lumină aurie; după ora 17:00, în piața deschisă se face repede curent.",
+                "en": "Park nearby in the late afternoon to see the monument in golden light; after 17:00, the open square gets drafty and cold quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Baan Haw Moschee",
+                "hu": "Baan Haw Mecset",
+                "ro": "Moscheea Baan Haw",
+                "en": "Baan Haw Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die hölzerne Struktur strahlt im Winter eine natürliche Wärme aus; nutzen Sie die Parkmöglichkeiten an der Hauptstraße, um Staus in den engen Gassen zu vermeiden.",
+                "hu": "A faszerkezet télen természetes melegséget áraszt; használja a főúti parkolóhelyeket, hogy elkerülje a dugókat a szűk utcákban.",
+                "ro": "Structura de lemn emană o căldură naturală iarna; folosiți locurile de parcare de pe drumul principal pentru a evita blocajele de pe străzile înguste.",
+                "en": "The wooden structure radiates natural warmth in winter; use parking on the main road to avoid traffic jams in the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "San Pa Koi Moschee",
+                "hu": "San Pa Koi Mecset",
+                "ro": "Moscheea San Pa Koi",
+                "en": "San Pa Koi Mosque"
+              },
+              "tip_5lang": {
+                "de": "Der offene Gebetsraum ist dank der winterlichen Temperaturen auch ohne Ventilatoren angenehm; parken Sie direkt vor dem Tor für einen kurzen Zugang.",
+                "hu": "A nyitott imatér a téli hőmérsékletnek köszönhetően ventilátorok nélkül is kellemes; parkoljon közvetlenül a kapu előtt a gyors bejutás érdekében.",
+                "ro": "Sala de rugăciune deschisă este plăcută chiar și fără ventilatoare datorită temperaturilor de iarnă; parcați chiar în fața porții pentru acces rapid.",
+                "en": "The open prayer hall is pleasant even without fans thanks to winter temperatures; park right in front of the gate for quick access."
+              }
+            }
+          ]
+        }
       }
     }
   }

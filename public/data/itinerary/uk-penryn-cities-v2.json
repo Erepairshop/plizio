@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Penryn szívében, a Városháza és a Múzeum felfedezésével. A délidő békés pihenést kínál a Perharin Parkban, majd látogasson el a St Gluvias templomhoz. A délutánt a hangulatos gránit rakpartokon sétálva töltheti. Zárja a napot a legendás Glasney College lenyűgöző romjainak felfedezésével.",
         "ro": "Începeți în inima orașului Penryn admirând arhitectura și istoria la Primărie și Muzeu. Amiaza vă oferă o pauză pașnică în Parcul Perharin, urmată de o vizită la biserica St Gluvias. Petreceți după-amiaza rătăcind pe cheiurile atmosferice din granit. Încheiați ziua explorând ruinele legendare ale Colegiului Glasney.",
         "en": "Start in the heart of Penryn admiring the civic architecture and rich history of the Town Hall and Museum. Midday offers a peaceful break in Perharin Park followed by a visit to the riverside St Gluvias Church. Spend the afternoon wandering the atmospheric granite quays. Conclude your day exploring the legendary Glasney College Ruins."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit Nieselregen am Rathaus, die Pflastersteine sind rutschig. Mittags bietet das Museum den perfekten trockenen Zufluchtsort. Am Nachmittag wirken der Park und die Kirche im Nebel fast mystisch. Der Abend am Kai endet mit Spiegelungen der Lichter in den Pfützen; wasserfeste Schuhe sind heute ein Muss für den gemütlichen Abschluss.",
+            "hu": "A reggel szemerkélő esővel indul a városháza körül, a macskakövek csúszósak. Délben a múzeum nyújt tökéletes száraz menedéket a felfedezéshez. Délután a park és a templom környéke misztikus ködbe burkolózik. Az este a rakparton zárul, ahol a fények megcsillannak a tócsákban; a vízálló cipő ma elengedhetetlen a kényelmes sétához.",
+            "ro": "Dimineața începe cu burniță lângă primărie, iar pavajul este alunecos. La prânz, muzeul oferă refugiul uscat perfect pentru explorare. După-amiaza, parcul și biserica par mistice în ceață. Seara se încheie la chei, unde luminile se oglindesc în bălți; încălțămintea impermeabilă este obligatorie astăzi pentru o plimbare confortabilă.",
+            "en": "The morning begins with drizzle around the town hall, and the cobblestones are slippery. At noon, the museum provides the perfect dry refuge for exploration. In the afternoon, the park and church area are shrouded in mystical mist. The evening ends at the quay, where lights glimmer in the puddles; waterproof shoes are essential today for a comfortable walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penryn Town Hall",
+                "hu": "Penryn Városháza",
+                "ro": "Primăria Penryn",
+                "en": "Penryn Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter dem Schutz der Arkaden und achten Sie auf die rutschigen Stufen bei Nässe.",
+                "hu": "Csodálja meg az építészetet az árkádok védelme alatt, és ügyeljen a csúszós lépcsőkre a nedves időben.",
+                "ro": "Admirați arhitectura sub protecția arcadelor și aveți grijă la treptele alunecoase pe vreme umedă.",
+                "en": "Admire the architecture under the protection of the arches and watch out for slippery steps in the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Penryn Museum",
+                "hu": "Penryn Múzeum",
+                "ro": "Muzeul Penryn",
+                "en": "Penryn Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regen für einen ausgiebigen Besuch der lokalen Exponate im trockenen und warmen Innenraum.",
+                "hu": "Használja ki az esőt a helyi kiállítások alapos megtekintésére a száraz és meleg belső terekben.",
+                "ro": "Profită de ploaie pentru o vizită detaliată a exponatelor locale în interiorul uscat și călduros.",
+                "en": "Take advantage of the rain for a thorough visit to the local exhibits in the dry and warm interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Perharin Park",
+                "hu": "Perharin Park",
+                "ro": "Parcul Perharin",
+                "en": "Perharin Park"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein, halten Sie sich an die befestigten Pfade unter den schützenden Bäumen.",
+                "hu": "Az utak sarasak lehetnek, maradjon a burkolt ösvényeken a védelmet nyújtó fák lombjai alatt.",
+                "ro": "Potecile pot fi noroioase, rămâneți pe traseele pavate sub coroana protectoare a copacilor.",
+                "en": "Paths can be muddy, stay on the paved trails under the protective canopy of the trees."
+              }
+            },
+            {
+              "name": {
+                "de": "St Gluvias Church",
+                "hu": "St Gluvias Templom",
+                "ro": "Biserica St Gluvias",
+                "en": "St Gluvias Church"
+              },
+              "tip_5lang": {
+                "de": "Die alte Kirche bietet eine friedliche Atmosphäre und Schutz vor den schwersten Regengüssen des Tages.",
+                "hu": "A régi templom békés atmoszférát és menedéket nyújt a nap leghevesebb záporai elől.",
+                "ro": "Biserica veche oferă o atmosferă liniștită și adăpost împotriva celor mai puternice averse ale zilei.",
+                "en": "The old church provides a peaceful atmosphere and shelter from the day's heaviest showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Penryn Quay",
+                "hu": "Penryn Rakpart",
+                "ro": "Penryn Quay",
+                "en": "Penryn Quay"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen wirkt bei Regen besonders dramatisch; tragen Sie eine windfeste Jacke gegen die Brise vom Wasser.",
+                "hu": "A kikötő esőben különösen drámai; viseljen szélálló kabátot a víz felől érkező hűvös fuvallatok ellen.",
+                "ro": "Portul pare deosebit de dramatic în ploaie; purtați o jachetă rezistentă la vânt împotriva brizelor de pe apă.",
+                "en": "The harbor looks especially dramatic in the rain; wear a windproof jacket against the breeze from the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Glasney College",
+                "hu": "Glasney College Romjai",
+                "ro": "Ruinele Colegiului Glasney",
+                "en": "Glasney College Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen im Nebel sind sehr fotogen, aber achten Sie auf den rutschigen Untergrund zwischen den Steinen.",
+                "hu": "A ködös romok rendkívül fotogének, de ügyeljen a csúszós talajra a történelmi kövek között.",
+                "ro": "Ruinele în ceață sunt foarte fotogenice, dar aveți grijă la solul alunecos dintre pietrele istorice.",
+                "en": "The misty ruins are very photogenic, but watch your footing on the slippery ground between the stones."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Rathaus erfordert warme Schichten. Mittags wärmen wir uns im Museum auf, während die Wintersonne tief steht. Am Nachmittag besuchen wir den Park und die Kirche, bevor um 17:00 Uhr die Dunkelheit einsetzt. Der Abend am Hafen ist kalt, aber die beleuchteten Fenster der Stadt sorgen für eine gemütliche Winterstimmung.",
+            "hu": "Fagyos reggel a városháza előtt, réteges öltözet szükséges. Délben a múzeumban melegszünk fel, miközben a téli nap alacsonyan jár. Délután a park és a templom következik, mielőtt 17:00-kor beáll a sötétség. Az este a kikötőben hideg, de a város kivilágított ablakai barátságos téli hangulatot árasztanak.",
+            "ro": "O dimineață geroasă în fața primăriei necesită haine groase. La prânz ne încălzim în muzeu, în timp ce soarele de iarnă stă jos. După-amiaza vizităm parcul și biserica înainte ca întunericul să se lase la ora 17:00. Seara în port este rece, dar ferestrele iluminate ale orașului creează o atmosferă caldă de iarnă.",
+            "en": "A frosty morning in front of the town hall requires warm layers. At noon, we warm up in the museum while the winter sun stays low. In the afternoon, the park and church follow before darkness sets in at 17:00. The evening at the harbor is cold, but the town's lit windows radiate a cozy winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penryn Town Hall",
+                "hu": "Penryn Városháza",
+                "ro": "Primăria Penryn",
+                "en": "Penryn Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der historischen Fassade im klaren Winterlicht und tragen Sie Handschuhe gegen den Frost.",
+                "hu": "Élvezze a történelmi homlokzat látványát a tiszta téli fényben, és viseljen kesztyűt a fagy ellen.",
+                "ro": "Bucurați-vă de vederea fațadei istorice în lumina clară de iarnă și purtați mănuși împotriva gerului.",
+                "en": "Enjoy the view of the historic facade in the clear winter light and wear gloves against the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Penryn Museum",
+                "hu": "Penryn Múzeum",
+                "ro": "Muzeul Penryn",
+                "en": "Penryn Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ideale Ort, um der Kälte zu entfliehen und mehr über die lokale Kultur zu erfahren.",
+                "hu": "A múzeum ideális hely a hideg elől való menekülésre és a helyi kultúra mélyebb megismerésére.",
+                "ro": "Muzeul este locul ideal pentru a scăpa de frig și pentru a învăța mai multe despre cultura locală.",
+                "en": "The museum is the ideal place to escape the cold and learn more about the local culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Perharin Park",
+                "hu": "Perharin Park",
+                "ro": "Parcul Perharin",
+                "en": "Perharin Park"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang, um warm zu bleiben, und bewundern Sie den Reif auf den Gräsern.",
+                "hu": "Tegyen egy tempós sétát, hogy melegen tartsa magát, és csodálja meg a zúzmarát a fűszálakon.",
+                "ro": "Faceți o plimbare vioaie pentru a vă menține cald și admirați chiciura de pe firele de iarbă.",
+                "en": "Take a brisk walk to keep warm and admire the hoarfrost on the blades of grass."
+              }
+            },
+            {
+              "name": {
+                "de": "St Gluvias Church",
+                "hu": "St Gluvias Templom",
+                "ro": "Biserica St Gluvias",
+                "en": "St Gluvias Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte, bleiben Sie in Bewegung und genießen Sie die stille Winterruhe.",
+                "hu": "A vastag kőfalak tartják a hideget, maradjon mozgásban és élvezze a csendes téli nyugalmat.",
+                "ro": "Zidurile groase de piatră mențin frigul, rămâneți în mișcare și bucurați-vă de liniștea iernii.",
+                "en": "The thick stone walls hold the cold, so keep moving and enjoy the quiet winter tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Penryn Quay",
+                "hu": "Penryn Rakpart",
+                "ro": "Penryn Quay",
+                "en": "Penryn Quay"
+              },
+              "tip_5lang": {
+                "de": "Die Meeresbrise ist im Winter schneidend; schützen Sie Ihr Gesicht mit einem Schal vor der Kälte.",
+                "hu": "A tengeri szellő télen metsző; védje arcát sállal a hideg ellen a rakparton tett séta közben.",
+                "ro": "Briza mării este tăioasă iarna; protejați-vă fața cu un fular împotriva frigului în timpul plimbării.",
+                "en": "The sea breeze is biting in winter; protect your face with a scarf against the cold while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Glasney College",
+                "hu": "Glasney College Romjai",
+                "ro": "Ruinele Colegiului Glasney",
+                "en": "Glasney College Ruins"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen vor 16:30 Uhr, um das letzte Tageslicht zwischen den alten Mauern einzufangen.",
+                "hu": "Látogassa meg a romokat 16:30 előtt, hogy elcsípje az utolsó nappali fényeket az ódon falak között.",
+                "ro": "Vizitați ruinele înainte de ora 16:30 pentru a surprinde ultima lumină a zilei între zidurile vechi.",
+                "en": "Visit the ruins before 16:30 to catch the last daylight between the ancient walls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a kerékpározást a városközpontban, a Városházánál és a Múzeumnál. Délben tekerjen el a Glasney College romjaihoz, mielőtt a békés College Reservoir felé venné az irányt. Délután fedezze fel a modern egyetemi kampusz kontrasztját. Zárja az utazást egy gyönyörű tekeréssel az elbűvölő Enys Gardens felé.",
         "ro": "Începeți plimbarea în centrul orașului la Primărie și Muzeu. Până la amiază, pedalați spre ruinele atmosferice ale Colegiului Glasney înainte de a vă îndrepta spre College Reservoir. După-amiaza, explorați campusul universitar modern. Încheiați călătoria cu o plimbare frumoasă către fermecătoarele grădini Enys.",
         "en": "Kick off your ride in the town centre at the historic Town Hall and Museum. By midday, cycle to the atmospheric Glasney College Ruins before heading to the peaceful College Reservoir. In the afternoon, explore the contrast of the modern university campus. Wrap up the journey with a beautiful ride to the enchanting Enys Gardens."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt am Rathaus; Vorsicht auf den glatten Straßen. Das Museum bietet eine trockene Pause. Am Nachmittag führt der Weg zum Stausee durch den Regen, was eine gute Ausrüstung erfordert. Der Campus bietet moderne Unterstände, bevor die Tour in den feuchten Gärten von Enys endet. Schutzbleche sind heute Ihre besten Freunde.",
+            "hu": "Vizes kerékpártúra indul a városházától; óvatosan a csúszós utakon. A múzeum száraz pihenőt kínál. Délután az út a víztározóhoz esőben vezet, ami jó felszerelést igényel. A kampusz modern fedett részeket kínál, mielőtt a túra a párás Enys kertekben zárulna. A sárvédő ma a legjobb barátja lesz.",
+            "ro": "O tură cu bicicleta pe ploaie începe de la primărie; atenție pe drumurile alunecoase. Muzeul oferă un popas uscat. După-amiaza, drumul spre rezervor trece prin ploaie, necesitând echipament bun. Campusul oferă zone acoperite moderne înainte ca tura să se încheie în grădinile Enys. Apărătorile de noroi sunt cei mai buni prieteni astăzi.",
+            "en": "A wet bike ride starts at the town hall; be careful on the slippery roads. The museum offers a dry break. In the afternoon, the route to the reservoir leads through rain, requiring good gear. The campus offers modern sheltered areas before the tour ends in the misty Enys Gardens. Mudguards will be your best friends today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penryn Town Hall",
+                "hu": "Penryn Városháza",
+                "ro": "Primăria Penryn",
+                "en": "Penryn Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start auf dem nassen Kopfsteinpflaster rund um das historische Gebäude.",
+                "hu": "Indulás előtt ellenőrizze a fékeit a történelmi épület körüli nedves macskaköveken.",
+                "ro": "Verificați frânele înainte de plecare pe pavajul umed din jurul clădirii istorice.",
+                "en": "Check your brakes before starting on the wet cobblestones around the historic building."
+              }
+            },
+            {
+              "name": {
+                "de": "Penryn Museum",
+                "hu": "Penryn Múzeum",
+                "ro": "Muzeul Penryn",
+                "en": "Penryn Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie die Zeit im Museum, um Ihre Kleidung für die Weiterfahrt zu trocknen.",
+                "hu": "Parkolja le biztonságosan a biciklit, és használja a múzeumi időt ruházata megszárítására a folytatás előtt.",
+                "ro": "Parcați bicicleta în siguranță și folosiți timpul la muzeu pentru a vă usca hainele înainte de a continua.",
+                "en": "Park your bike safely and use the time in the museum to dry your clothes before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Glasney College",
+                "hu": "Glasney College Romjai",
+                "ro": "Ruinele Colegiului Glasney",
+                "en": "Glasney College Ruins"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist hier oft weich; schieben Sie Ihr Rad am besten ein kurzes Stück über das nasse Gras.",
+                "hu": "A talaj itt gyakran felázik; a legjobb, ha rövid távon tolja a kerékpárt a nedves fűben.",
+                "ro": "Solul este adesea moale aici; cel mai bine este să împingeți bicicleta pe iarbă pe o distanță scurtă.",
+                "en": "The ground is often soft here; it's best to push your bike for a short distance in the wet grass."
+              }
+            },
+            {
+              "name": {
+                "de": "College Reservoir",
+                "hu": "College Víztározó",
+                "ro": "College Reservoir",
+                "en": "College Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die Uferwege sind bei Regen matschig; achten Sie auf eine sichere Fahrweise auf den unbefestigten Abschnitten.",
+                "hu": "A parti utak esőben sarasak; ügyeljen a biztonságos haladásra a nem burkolt szakaszokon.",
+                "ro": "Potecile de pe mal sunt noroioase în ploaie; aveți grijă la deplasarea în siguranță pe secțiunile neasfaltate.",
+                "en": "Lakeside paths are muddy in the rain; pay attention to safe riding on the unpaved sections."
+              }
+            },
+            {
+              "name": {
+                "de": "University of Exeter Penryn Campus",
+                "hu": "University of Exeter Penryn Kampusz",
+                "ro": "Campusul Universitar Exeter Penryn",
+                "en": "University of Exeter Penryn Campus"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer auf dem Campus und wärmen Sie sich kurz in einem der Gebäude auf.",
+                "hu": "Használja a kampusz fedett kerékpártárolóit, és melegedjen fel egy kicsit az egyik épületben.",
+                "ro": "Folosiți suporturile de biciclete acoperite din campus și încălziți-vă puțin într-una dintre clădiri.",
+                "en": "Use the covered bike racks on campus and warm up for a bit in one of the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Enys Gardens",
+                "hu": "Enys Kertek",
+                "ro": "Grădinile Enys",
+                "en": "Enys Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten sind bei Regen sehr grün, aber die Wege können rutschig sein; radeln Sie vorsichtig zum Eingang.",
+                "hu": "A kertek esőben üdék, de az utak csúszósak lehetnek; tekerjen óvatosan a bejáratig.",
+                "ro": "Grădinile sunt verzi în ploaie, dar drumurile pot fi alunecoase; pedalați cu grijă până la intrare.",
+                "en": "The gardens are lush in the rain, but the paths can be slippery; cycle carefully to the entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kalter Wintermorgen auf dem Rad fordert warme Handschuhe und helle Lichter. Nach dem Museumsbesuch geht es durch die klare Luft zum Stausee. Der Campus bietet eine willkommene Pause im Warmen. Da es bereits um 17:00 Uhr dunkel wird, endet die Tour in den Enys Gardens rechtzeitig. Achten Sie auf mögliche eisige Stellen auf den ländlichen Wegen.",
+            "hu": "Hideg téli reggel a nyeregben, meleg kesztyű és lámpák szükségesek. A múzeumlátogatás után a tiszta levegőn tekerünk a víztározóhoz. A kampusz meleg szünetet kínál. Mivel 17:00-kor már sötétedik, az Enys kertekben időben zárjuk a túrát. Ügyeljen az esetleges jeges foltokra a vidéki utakon.",
+            "ro": "O dimineață rece de iarnă în șa necesită mănuși groase și lumini bune. După muzeu, pedalăm prin aerul curat spre rezervor. Campusul oferă o pauză caldă binevenită. Deoarece se întunecă la ora 17:00, încheiem tura la grădinile Enys din timp. Atenție la zonele înghețate pe drumurile rurale.",
+            "en": "A cold winter morning in the saddle requires warm gloves and bright lights. After the museum visit, we cycle through the crisp air to the reservoir. The campus offers a welcome warm break. As it gets dark by 17:00, we end the tour at Enys Gardens in good time. Watch out for potential icy patches on rural roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penryn Town Hall",
+                "hu": "Penryn Városháza",
+                "ro": "Primăria Penryn",
+                "en": "Penryn Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie langsam, um sich an die winterlichen Straßenverhältnisse rund um das Rathaus zu gewöhnen.",
+                "hu": "Kezdjen lassan, hogy hozzászokjon a téli útviszonyokhoz a városháza környékén.",
+                "ro": "Începeți încet pentru a vă obișnui cu condițiile de drum de iarnă din jurul primăriei.",
+                "en": "Start slowly to get used to the winter road conditions around the town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Penryn Museum",
+                "hu": "Penryn Múzeum",
+                "ro": "Muzeul Penryn",
+                "en": "Penryn Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Wärme des Museums, um Ihre Finger vor der Weiterfahrt zum Stausee wieder aufzuwärmen.",
+                "hu": "Használja ki a múzeum melegét, hogy felmelegítse ujjait, mielőtt továbbindul a víztározó felé.",
+                "ro": "Folosiți căldura muzeului pentru a vă încălzi degetele înainte de a pleca spre rezervor.",
+                "en": "Take advantage of the museum's warmth to warm up your fingers before heading to the reservoir."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Glasney College",
+                "hu": "Glasney College Romjai",
+                "ro": "Ruinele Colegiului Glasney",
+                "en": "Glasney College Ruins"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die geschichtsträchtigen Ruinen im winterlichen Frost zu bewundern.",
+                "hu": "Egy rövid megálló is elég, hogy megcsodálja a történelmi romokat a téli zúzmarában.",
+                "ro": "Un scurt popas este suficient pentru a admira ruinele pline de istorie în gerul iernii.",
+                "en": "A short stop is enough to admire the history-steeped ruins in the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "College Reservoir",
+                "hu": "College Víztározó",
+                "ro": "College Reservoir",
+                "en": "College Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Schicht, da es am offenen Wasser im Winter deutlich kälter sein kann.",
+                "hu": "Viseljen szélálló réteget, mert a nyílt vízparton télen jóval hidegebb lehet az idő.",
+                "ro": "Purtați un strat rezistent la vânt, deoarece lângă apa deschisă iarna poate fi mult mai frig.",
+                "en": "Wear a windproof layer, as it can be significantly colder by the open water in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "University of Exeter Penryn Campus",
+                "hu": "University of Exeter Penryn Kampusz",
+                "ro": "Campusul Universitar Exeter Penryn",
+                "en": "University of Exeter Penryn Campus"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradlichter für die letzte Etappe der Tour voll funktionsfähig sind.",
+                "hu": "Győződjön meg róla, hogy a bicikli lámpái tökéletesen működnek a túra utolsó szakaszához.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează perfect pentru ultima etapă a turei.",
+                "en": "Make sure your bike lights are fully functional for the final leg of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Enys Gardens",
+                "hu": "Enys Kertek",
+                "ro": "Grădinile Enys",
+                "en": "Enys Gardens"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der schlafenden Gärten, bevor die Dämmerung gegen 17:00 Uhr einsetzt.",
+                "hu": "Élvezze az alvó kertek nyugalmát, mielőtt 17:00 körül beállna a szürkület.",
+                "ro": "Bucurați-vă de liniștea grădinilor adormite înainte ca amurgul să se lase în jurul orei 17:00.",
+                "en": "Enjoy the tranquility of the sleeping gardens before dusk sets in around 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Kezdje a reggelt a vízparton, a Penryn Quaynél, mielőtt felfedezné a Glasney College romjait. Vezessen fel a csodálatos Enys Gardensbe egy békés déli pihenőre. A délután elviszi a nyüzsgő egyetemi kampuszra és a festői College Reservoirhoz. Zárja a napot a naplemente megtekintésével a hatalmas Stithians Reservoirnál.",
         "ro": "Începeți dimineața la Penryn Quay înainte de a explora ruinele istorice ale Colegiului Glasney. Conduceți până la grădinile magnifice Enys pentru o retragere pașnică la amiază. După-amiaza vă aduce în campusul universitar vibrant și la pitorescul College Reservoir. Încheiați ziua admirând apusul de soare la Stithians Reservoir.",
         "en": "Start your morning by the water at Penryn Quay before exploring the nearby historic ruins of Glasney College. Drive up to the magnificent Enys Gardens for a peaceful midday retreat. The afternoon brings you to the vibrant local university campus and the scenic College Reservoir. End the day watching the sunset at Stithians Reservoir."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am Kai, wo der Regen auf die Scheiben trommelt. Die Ruinen wirken im Grau besonders geschichtsträchtig. Mittags erkunden wir die Enys Gardens mit dem Regenschirm, bevor der Campus moderne Architektur bietet. Der Tag endet an den Stauseen, wo Nebelschwaden über das Wasser ziehen. Eine perfekte Tour, um Penryn gemütlich vom trockenen Auto aus zu entdecken.",
+            "hu": "A túra a rakparton indul, miközben az eső az ablakon kopog. A romok a szürkeségben különösen ódonnak hatnak. Délben esernyővel járjuk be az Enys kerteket, majd a kampusz következik. A nap a víztározóknál zárul, ahol ködfoltok úsznak a víz felett. Tökéletes mód Penryn felfedezésére a száraz autó kényelméből.",
+            "ro": "Călătoria începe la chei, cu ploaia bătând în geamuri. Ruinele par deosebit de vechi în nuanțele de gri. La prânz explorăm grădinile Enys cu umbrela, apoi urmează campusul. Ziua se încheie la rezervoare, unde ceața plutește peste apă. O modalitate perfectă de a descoperi Penryn din confortul mașinii uscate.",
+            "en": "The tour starts at the quay while rain drums on the windows. The ruins look particularly ancient in the grey light. At noon, we explore Enys Gardens with an umbrella, followed by the campus. The day ends at the reservoirs, where mist floats over the water. A perfect way to discover Penryn from the comfort of a dry car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penryn Quay",
+                "hu": "Penryn Rakpart",
+                "ro": "Penryn Quay",
+                "en": "Penryn Quay"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treiben im Hafen bequem vom Auto aus, bevor Sie für ein kurzes Foto aussteigen.",
+                "hu": "Figyelje a kikötői nyüzsgést kényelmesen az autóból, mielőtt kiszállna egy gyors fotóra.",
+                "ro": "Observați agitația din port confortabil din mașină înainte de a coborî pentru o fotografie rapidă.",
+                "en": "Watch the harbor bustle comfortably from the car before stepping out for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Glasney College",
+                "hu": "Glasney College Romjai",
+                "ro": "Ruinele Colegiului Glasney",
+                "en": "Glasney College Ruins"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nutzen Sie eine Regenpause für einen kurzen Rundgang durch die mystischen Ruinen.",
+                "hu": "Parkoljon a közelben, és használjon ki egy esőszünetet a misztikus romok rövid körbejárására.",
+                "ro": "Parcați în apropiere și profitați de o pauză de ploaie pentru un scurt tur al ruinelor mistice.",
+                "en": "Park nearby and take advantage of a break in the rain for a short tour of the mystical ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Enys Gardens",
+                "hu": "Enys Kertek",
+                "ro": "Grădinile Enys",
+                "en": "Enys Gardens"
+              },
+              "tip_5lang": {
+                "de": "Die üppige Vegetation ist bei Regen herrlich; bringen Sie festes Schuhwerk für die Waldwege mit.",
+                "hu": "A dús növényzet esőben csodás; hozzon magával strapabíró lábbelit az erdei utakhoz.",
+                "ro": "Vegetația luxuriantă este minunată în ploaie; aduceți încălțăminte rezistentă pentru potecile din pădure.",
+                "en": "The lush vegetation is wonderful in the rain; bring sturdy footwear for the forest paths."
+              }
+            },
+            {
+              "name": {
+                "de": "University of Exeter Penryn Campus",
+                "hu": "University of Exeter Penryn Kampusz",
+                "ro": "Campusul Universitar Exeter Penryn",
+                "en": "University of Exeter Penryn Campus"
+              },
+              "tip_5lang": {
+                "de": "Der Campus ist gut mit dem Auto erreichbar; nutzen Sie die modernen Cafés als trockenen Zwischenstopp.",
+                "hu": "A kampusz autóval könnyen megközelíthető; használja a modern kávézókat száraz pihenőként.",
+                "ro": "Campusul este ușor accesibil cu mașina; folosiți cafenelele moderne ca popas uscat.",
+                "en": "The campus is easily accessible by car; use the modern cafes as a dry stopover."
+              }
+            },
+            {
+              "name": {
+                "de": "College Reservoir",
+                "hu": "College Víztározó",
+                "ro": "College Reservoir",
+                "en": "College Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Wasser direkt vom Parkplatz aus, wenn der Regen zu stark wird.",
+                "hu": "Élvezze a kilátást a vízre közvetlenül a parkolóból, ha az eső túlságosan eleredne.",
+                "ro": "Bucurați-vă de vederea spre apă direct din parcare dacă ploaia devine prea puternică.",
+                "en": "Enjoy the view of the water directly from the parking lot if the rain becomes too heavy."
+              }
+            },
+            {
+              "name": {
+                "de": "Stithians Reservoir",
+                "hu": "Stithians Víztározó",
+                "ro": "Stithians Reservoir",
+                "en": "Stithians Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die weite Wasserfläche wirkt im Regen dramatisch; eine windfeste Jacke ist für den kurzen Gang zum Ufer ratsam.",
+                "hu": "A tágas vízfelület esőben drámai; szélálló kabát ajánlott a parthoz tett rövid sétához.",
+                "ro": "Suprafața vastă de apă este dramatică în ploaie; o jachetă rezistentă la vânt este recomandată.",
+                "en": "The vast water surface is dramatic in the rain; a windproof jacket is advised for the short walk to the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen beginnt am Kai mit Frost auf den Booten. Die Ruinen und Gärten strahlen in der tiefstehenden Sonne eine besondere Ruhe aus. Mittags bietet der Campus eine belebte Pause. Da die Dunkelheit gegen 17:00 Uhr einsetzt, erreichen wir das Stithians Reservoir rechtzeitig für den Wintersonnenuntergang. Im warmen Auto lässt sich die Landschaft optimal genießen.",
+            "hu": "Tiszta téli reggel indul a rakparton, fagyos hajókkal. A romok és kertek különleges nyugalmat árasztanak az alacsony napfényben. Délben a kampusz nyüzsgő szünetet kínál. Mivel 17:00 körül sötétedik, a Stithians víztározóhoz időben érkezünk a téli naplementére. A fűtött autóban ülve a táj látványa is élvezetesebb.",
+            "ro": "O dimineață senină de iarnă începe la chei, cu promoroacă pe bărci. Ruinele și grădinile emană o liniște deosebită în lumina soarelui. La prânz, campusul oferă o pauză animată. Deoarece se întunecă în jur de 17:00, ajungem la Stithians la timp pentru apus. Din mașina încălzită, peisajul este mult mai plăcut.",
+            "en": "A clear winter morning starts at the quay with frost on the boats. The ruins and gardens radiate a special calm in the low sunlight. At noon, the campus offers a lively break. As it gets dark around 17:00, we reach Stithians Reservoir in time for the winter sunset. Enjoying the landscape is much more pleasant from a heated car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Penryn Quay",
+                "hu": "Penryn Rakpart",
+                "ro": "Penryn Quay",
+                "en": "Penryn Quay"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Morgenlicht für Fotos vom gefrorenen Kai, bevor die Heizung im Auto Sie wieder wärmt.",
+                "hu": "Használja ki a tiszta reggeli fényt a fagyos rakpart fotózásához, mielőtt az autó fűtése újra felmelegítené.",
+                "ro": "Folosiți lumina clară a dimineții pentru fotografii cu cheiul înghețat înainte ca încălzirea mașinii să vă reîncălzească.",
+                "en": "Use the clear morning light for photos of the frozen quay before the car's heater warms you up again."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruinen des Glasney College",
+                "hu": "Glasney College Romjai",
+                "ro": "Ruinele Colegiului Glasney",
+                "en": "Glasney College Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Steine wirken im Winterfrost sehr imposant; halten Sie den Besuch kurz und knackig.",
+                "hu": "A történelmi kövek nagyon impozánsak a téli fagyban; tartson egy rövid, de tartalmas látogatást.",
+                "ro": "Pietrele istorice arată foarte impunător în gerul iernii; faceți o vizită scurtă dar plină de însemnătate.",
+                "en": "The historic stones look very impressive in the winter frost; keep the visit short and focused."
+              }
+            },
+            {
+              "name": {
+                "de": "Enys Gardens",
+                "hu": "Enys Kertek",
+                "ro": "Grădinile Enys",
+                "en": "Enys Gardens"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Struktur der Gärten; ein Schal ist für den Spaziergang unerlässlich.",
+                "hu": "Csodálja meg a kertek téli szerkezetét; egy sál elengedhetetlen a szabadtéri sétához.",
+                "ro": "Admirați structura de iarnă a grădinilor; un fular este esențial pentru plimbarea în aer liber.",
+                "en": "Admire the winter structure of the gardens; a scarf is essential for the outdoor walk."
+              }
+            },
+            {
+              "name": {
+                "de": "University of Exeter Penryn Campus",
+                "hu": "University of Exeter Penryn Kampusz",
+                "ro": "Campusul Universitar Exeter Penryn",
+                "en": "University of Exeter Penryn Campus"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Gebäuden, um die Wege im kalten Wind so kurz wie möglich zu halten.",
+                "hu": "Parkoljon közel az épületekhez, hogy a hideg szélben a lehető legrövidebb ideig kelljen gyalogolnia.",
+                "ro": "Parcați aproape de clădiri pentru ca drumul pe jos în vântul rece să fie cât mai scurt posibil.",
+                "en": "Park close to the buildings to keep the walking distance in the cold wind as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "College Reservoir",
+                "hu": "College Víztározó",
+                "ro": "College Reservoir",
+                "en": "College Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Wasser spiegelt die Wintersonne; bleiben Sie im Wagen, um die Aussicht ohne Kälte zu genießen.",
+                "hu": "A nyugodt víz tükrözi a téli napot; maradjon az autóban, hogy hideg nélkül élvezhesse a kilátást.",
+                "ro": "Apa liniștită reflectă soarele de iarnă; rămâneți în mașină pentru a vă bucura de vedere fără frig.",
+                "en": "The calm water reflects the winter sun; stay in the car to enjoy the view without the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Stithians Reservoir",
+                "hu": "Stithians Víztározó",
+                "ro": "Stithians Reservoir",
+                "en": "Stithians Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Ankunft gegen 16:30 Uhr, um den malerischen Sonnenuntergang über dem Wasser zu erleben.",
+                "hu": "Tervezze érkezését 16:30 környékére, hogy átélje a festői naplementét a víz felett.",
+                "ro": "Planificați sosirea în jurul orei 16:30 pentru a surprinde apusul pitoresc peste apă.",
+                "en": "Plan your arrival around 16:30 to experience the picturesque sunset over the water."
+              }
+            }
+          ]
+        }
       }
     }
   }

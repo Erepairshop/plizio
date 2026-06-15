@@ -160,6 +160,196 @@
         "hu": "Sétánkat Vada történelmi szívében kezdjük, belépünk a gyönyörű Chiesa di San Leopoldo Re-be, majd felfedezzük az impozáns Torre di Vada-t és a békés Madonna nevezetességet.\nA dél közeledtével a város kulturális oldala felé vesszük az irányt, és a Teatro L'Ordigno-ban töltünk egy kis időt, magunkba szívva a kreatív helyi hangulatot, mielőtt a part felé vennénk az irányt.\nA délután a tengeri szellőnek van szentelve a Punto Azzurro 1-nél, ahol a hullámok nyugtató hangja tökéletes természetes hátteret biztosít a jól megérdemelt pihenéshez.\nKellemes napunkat a lenyűgöző Dune Mosse-nál zárjuk, sétálva az ikonikus homokdűnék mentén, miközben az esti fény gyönyörű, meleg árnyalatokkal festi meg a tirrén partot.",
         "ro": "Începem turul nostru pietonal în inima istorică a Vadei, intrând în frumoasa Chiesa di San Leopoldo Re înainte de a descoperi impunătorul Torre di Vada și pașnicul reper Madonna.\nPe măsură ce se apropie amiaza, ne îndreptăm spre latura culturală a orașului petrecând timp la Teatro L'Ordigno, absorbind atmosfera creativă locală înainte de a ne îndrepta spre țărm.\nDupă-amiaza este dedicată brizei mării la Punto Azzurro 1, unde sunetele liniștitoare ale valurilor oferă un cadru natural perfect pentru o relaxare bine meritată.\nÎncheiem ziua noastră relaxantă la uimitoarea Dune Mosse, plimbându-ne de-a lungul dunelor iconice de nisip în timp ce lumina serii pictează coasta tireniană în nuanțe calde.",
         "en": "We begin our walking tour in the historic heart of Vada, stepping into the beautiful Chiesa di San Leopoldo Re before discovering the imposing Torre di Vada and the peaceful Madonna landmark.\nAs midday approaches, we transition towards the cultural side of the town by spending time at Teatro L'Ordigno, absorbing the creative local atmosphere before heading toward the shore.\nThe afternoon is dedicated to the sea breeze at Punto Azzurro 1, where the soothing sounds of the waves provide a perfect natural backdrop for some well-deserved relaxation.\nWe conclude our leisurely day at the stunning Dune Mosse, walking along the iconic sand dunes as the evening light paints the Tyrrhenian coast in beautiful, warm hues."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Vada beginnt geschützt in der neoklassizistischen Kirche. Mittags bietet das Theater einen trockenen Rückzugsort für Kulturfreunde. Am Nachmittag trotzen wir dem Nieselregen an der Küste, wo die Wellen dramatisch gegen das Ufer schlagen. Abends reflektieren die nassen Gassen das sanfte Licht der Straßenlaternen, während wir uns durch die feuchte Meeresluft bewegen.",
+            "hu": "A reggeli eső elől a templom hűvös, de száraz falai között lelünk menedéket. Délben a színház kulturális tere nyújt tökéletes oltalmat az égi áldás elől. Délután a tengerparti szélben az esernyő kötelező, a dűnék látványa ilyenkor is drámai és megkapó. Estére a vizes aszfalton megcsillanó fények kísérnek minket végig a párás kikötő felől a csendes utcákon.",
+            "ro": "O dimineață ploioasă în Vada începe la adăpostul zidurilor bisericii neoclasice. La prânz, teatrul oferă un refugiu cultural uscat și primitor. După-amiaza înfruntăm burnița pe coastă, unde valurile se sparg dramatic de țărm sub cerul gri. Seara, străzile ude reflectă luminile calde ale felinarelor, creând o atmosferă melancolică în aerul sărat și umed.",
+            "en": "A rainy morning in Vada begins sheltered within the neoclassical church's walls. By noon, the theatre provides a dry cultural sanctuary from the downpour. In the afternoon, we brave the drizzle at the coast, where waves crash dramatically against the shore. Evening brings shimmering reflections on wet pavements as we walk through the misty, salt-scented sea air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Leopoldo Re",
+                "hu": "Chiesa di San Leopoldo Re",
+                "ro": "Chiesa di San Leopoldo Re",
+                "en": "Chiesa di San Leopoldo Re"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die Innendekoration, während es draußen regnet; die hohen Decken bieten einen trockenen und friedlichen Ort, um den Schauer abzuwarten.",
+                "hu": "Csodálja meg a belső freskókat, miközben kint elered az eső; a vastag falak tökéletes menedéket nyújtanak a hirtelen jött felhőszakadás idején.",
+                "ro": "Admirați decorațiunile interioare în timp ce afară plouă; tavanul înalt oferă un spațiu uscat și liniștit pentru a aștepta trecerea norilor grei.",
+                "en": "Admire the interior decorations while it rains outside; the high ceilings provide a dry and peaceful space to wait out the passing heavy shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Vada",
+                "hu": "Torre di Vada",
+                "ro": "Torre di Vada",
+                "en": "Torre di Vada"
+              },
+              "tip_4lang": {
+                "de": "Der mittelalterliche Turm wirkt im Regen besonders trutzig; nutzen Sie die umliegenden Arkaden für ein trockenes Foto dieses historischen Wahrzeichens.",
+                "hu": "A középkori torony különösen zord képet fest az esőben; használja a közeli árkádokat egy száraz fotó elkészítéséhez erről a történelmi jelképről.",
+                "ro": "Turnul medieval pare deosebit de impunător în ploaie; folosiți arcadele din apropiere pentru o fotografie uscată a acestui simbol istoric local.",
+                "en": "The medieval tower looks particularly imposing in the rain; use the nearby arcades for a dry photo of this historic landmark against the grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Madonna",
+                "hu": "Madonna",
+                "ro": "Madonna",
+                "en": "Madonna"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Halt an dieser Statue ist auch bei Regen lohnenswert; achten Sie auf den rutschigen Sockel und halten Sie Ihren Regenschirm gut fest.",
+                "hu": "Egy rövid megálló ennél a szobornál esőben is érdemes; ügyeljen a csúszós talapzatra és tartsa erősen az esernyőjét a feltámadó szélben.",
+                "ro": "O scurtă oprire la această statuie merită chiar și pe ploaie; aveți grijă la soclul alunecos și țineți bine umbrela în vântul care se întețește.",
+                "en": "A brief stop at this statue is worthwhile even in the rain; watch out for the slippery pedestal and hold your umbrella firmly in the rising wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro L'Ordigno",
+                "hu": "Teatro L'Ordigno",
+                "ro": "Teatro L'Ordigno",
+                "en": "Teatro L'Ordigno"
+              },
+              "tip_4lang": {
+                "de": "Dieser kulturelle Ort ist die beste Rettung vor einem Wolkenbruch; genießen Sie das Ambiente im Inneren und informieren Sie sich über lokale Aufführungen.",
+                "hu": "Ez a kulturális helyszín a legjobb mentőöv egy felhőszakadás idején; élvezze a belső hangulatot és tájékozódjon a helyi előadásokról a szárazban.",
+                "ro": "Acest loc cultural este cea mai bună salvare în timpul unei ploi torențiale; bucurați-vă de atmosfera interioară și aflați despre spectacolele locale.",
+                "en": "This cultural venue is the best rescue during a downpour; enjoy the indoor atmosphere and learn about local performances while staying perfectly dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Punto Azzurro 1",
+                "hu": "Punto Azzurro 1",
+                "ro": "Punto Azzurro 1",
+                "en": "Punto Azzurro 1"
+              },
+              "tip_4lang": {
+                "de": "Die Küstenstation bietet einen teilweisen Wetterschutz; beobachten Sie das graue Meer geschützt vor dem Wind unter dem Vordach der Anlage.",
+                "hu": "A tengerparti állomás részleges védelmet nyújt az időjárás ellen; figyelje a szürke tengert a szél elől védve, az épület előtetője alatt állva.",
+                "ro": "Stația de pe coastă oferă o protecție parțială împotriva intemperiilor; observați marea gri feriți de vânt, stând sub streașina clădirii.",
+                "en": "The coastal station offers partial protection from the weather; observe the grey sea sheltered from the wind while standing under the facility's eaves."
+              }
+            },
+            {
+              "name": {
+                "de": "Dune Mosse",
+                "hu": "Dune Mosse",
+                "ro": "Dune Mosse",
+                "en": "Dune Mosse"
+              },
+              "tip_4lang": {
+                "de": "Die Dünenlandschaft ist bei Regen sehr sandig und feucht; tragen Sie wasserfeste Schuhe, um den Strandabschnitt ohne nasse Füße zu erkunden.",
+                "hu": "A dűnék környéke esőben nagyon homokos és nedves; viseljen vízálló cipőt, hogy vizes lábak nélkül fedezhesse fel ezt a különleges partszakaszt.",
+                "ro": "Zona dunelor este foarte nisipoasă și umedă pe ploaie; purtați încălțăminte impermeabilă pentru a explora această secțiune de plajă fără picioare ude.",
+                "en": "The dune area is very sandy and damp in the rain; wear waterproof shoes to explore this unique stretch of beach without getting your feet wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen in Vada beginnt mit klarer Luft und einem Besuch der warmen Kirche. Mittags wärmt die blasse Sonne die Piazza, während wir uns zügig bewegen. Der Nachmittag führt uns zum Strand, wo die Kälte vom Meer her weht. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den frühen, purpurnen Abendhimmel bei einem heißen Getränk im Zentrum.",
+            "hu": "A friss téli reggel Vada szívében tiszta levegővel és a templom melengető látogatásával indul. Délben a halvány napsütés épp csak átmelegíti a főteret, miközben tempósan haladunk. A délutáni séta a partra visz, ahol a tenger felől metsző hideg fúj. Mivel a nap 17:00 körül nyugszik, a korai bíborvörös alkonyt már a központban, egy forró ital mellett élvezzük.",
+            "ro": "O dimineață răcoroasă de iarnă în Vada începe cu aer curat și o vizită la biserica primitoare. La prânz, soarele palid încălzește piața în timp ce ne mișcăm rapid. După-amiaza ne duce spre plajă, unde frigul suflă tăios dinspre mare. Deoarece soarele apune în jur de ora 17:00, savurăm amurgul purpuriu în centru, cu o băutură fierbinte.",
+            "en": "A crisp winter morning in Vada starts with clear air and a visit to the inviting church. At noon, the pale sun barely warms the main square as we walk briskly. The afternoon stroll leads to the beach, where a biting chill blows from the sea. Since the sun sets around 5 PM, we enjoy the early purple twilight in the center with a hot drink in hand."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Leopoldo Re",
+                "hu": "Chiesa di San Leopoldo Re",
+                "ro": "Chiesa di San Leopoldo Re",
+                "en": "Chiesa di San Leopoldo Re"
+              },
+              "tip_4lang": {
+                "de": "Die dicken Steinmauern halten die Kälte draußen; genießen Sie die spirituelle Wärme des Innenraums, bevor Sie Ihre Winterwanderung fortsetzen.",
+                "hu": "A vastag kőfalak kint tartják a metsző hideget; élvezze a belső tér spirituális melegét, mielőtt folytatná téli felfedező sétáját a városban.",
+                "ro": "Zidurile groase de piatră țin frigul afară; bucurați-vă de căldura spirituală a interiorului înainte de a vă continua plimbarea de iarnă prin oraș.",
+                "en": "The thick stone walls keep the biting cold outside; enjoy the spiritual warmth of the interior before continuing your winter exploration walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Vada",
+                "hu": "Torre di Vada",
+                "ro": "Torre di Vada",
+                "en": "Torre di Vada"
+              },
+              "tip_4lang": {
+                "de": "Der Turm bietet im Winter ein klares Fotomotiv ohne Touristenmassen; ziehen Sie sich warm an, da der Wind hier oben besonders kräftig wehen kann.",
+                "hu": "A torony télen tiszta fotótémát kínál a turistaáradat nélkül; öltözzön rétegesen, mert a tenger felőli szél itt különösen erősen fújhat.",
+                "ro": "Turnul oferă iarna un subiect foto clar, fără mase de turiști; îmbrăcați-vă bine, deoarece vântul dinspre mare poate sufla foarte tare aici.",
+                "en": "The tower offers a clear photo subject in winter without the tourist crowds; dress in layers, as the sea wind can blow especially strong here."
+              }
+            },
+            {
+              "name": {
+                "de": "Madonna",
+                "hu": "Madonna",
+                "ro": "Madonna",
+                "en": "Madonna"
+              },
+              "tip_4lang": {
+                "de": "Die kleine Statue wirkt im harten Winterlicht fast ätherisch; ein kurzer Halt genügt, um die Ruhe des fast menschenleeren Platzes zu genießen.",
+                "hu": "A kis szobor a kemény téli fényben szinte éterinek hat; egy rövid megálló is elég, hogy élvezze a szinte néptelen tér különleges nyugalmát.",
+                "ro": "Mica statuie pare aproape eterică în lumina aspră a iernii; o scurtă oprire este suficientă pentru a savura liniștea pieței aproape pustii.",
+                "en": "The small statue looks almost ethereal in the harsh winter light; a brief stop is enough to enjoy the unique peace of the nearly deserted square."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro L'Ordigno",
+                "hu": "Teatro L'Ordigno",
+                "ro": "Teatro L'Ordigno",
+                "en": "Teatro L'Ordigno"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Nachmittag für einen Besuch im beheizten Theater; es ist der ideale Ort, um sich aufzuwärmen und lokale Kultur hautnah zu erleben.",
+                "hu": "Használja ki a délutánt a fűtött színház meglátogatására; ez az ideális hely az átmelegedésre és a helyi kultúra közeli megismerésére a hidegben.",
+                "ro": "Profitați de după-amiază pentru a vizita teatrul încălzit; este locul ideal pentru a vă încălzi și a experimenta cultura locală de aproape.",
+                "en": "Take advantage of the afternoon to visit the heated theatre; it's the ideal place to warm up and experience local culture up close in the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Punto Azzurro 1",
+                "hu": "Punto Azzurro 1",
+                "ro": "Punto Azzurro 1",
+                "en": "Punto Azzurro 1"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne geht hier spektakulär unter; bringen Sie eine Thermoskanne mit Tee mit, um den frostigen Ausblick auf das Meer zu genießen.",
+                "hu": "A téli naplemente lenyűgöző látvány innen; hozzon magával egy termosz forró teát, hogy élvezhesse a fagyos, de gyönyörű kilátást a tengerre.",
+                "ro": "Apusul de iarnă oferă o priveliște uluitoare de aici; aduceți un termos cu ceai fierbinte pentru a vă bucura de vederea înghețată spre mare.",
+                "en": "The winter sunset is a stunning sight from here; bring a thermos of hot tea to enjoy the frosty but beautiful view over the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Dune Mosse",
+                "hu": "Dune Mosse",
+                "ro": "Dune Mosse",
+                "en": "Dune Mosse"
+              },
+              "tip_4lang": {
+                "de": "Wandern Sie durch die Dünen, bevor die Dunkelheit um 17:00 Uhr hereinbricht; die sandigen Pfade sind im Winter fest und gut begehbar.",
+                "hu": "Sétáljon át a dűnéken, mielőtt 17:00 körül leszáll a sötétség; a homokos ösvények télen keményebbek és jól járhatók egy frissítő túrához.",
+                "ro": "Plimbați-vă prin dune înainte ca întunericul să se lase în jur de ora 17:00; potecile nisipoase sunt mai ferme iarna și bune pentru o drumeție.",
+                "en": "Walk through the dunes before darkness falls around 5 PM; the sandy paths are firmer in winter and great for a refreshing late afternoon hike."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpáros kalandját a lenyűgöző Chiesa di San Leopoldo Re-nél és a történelmi Torre di Vada-nál, majd tekerjen a szárazföld felé, hogy felfedezze Vada Volaterrana ősi gyökereit.\nDél körül visszatekerünk a partra, hogy élvezzük a nyüzsgő tengeri energiát a La Lanterna-nál, amely tökéletes arra, hogy kifújjuk magunkat és nézzük a csillogó tengert.\nA délutáni kerékpározás a gyönyörű partvonal mentén folytatódik a Sole Mare felé, ahol közvetlenül a víz mellett pihenhet és élvezheti a csodálatos toszkán parti napsütést.\nFejezze be az útitervet egy könnyed tekeréssel a történelmi Ponte di Pietrabianca felé, amely egy nyugodt hely, ahol a halványuló fény tökéletesen kiemeli a környező természeti tájat.",
         "ro": "Începeți aventura pe bicicletă la impresionanta Chiesa di San Leopoldo Re și istoricul Torre di Vada înainte de a pedala spre interior pentru a descoperi rădăcinile Vada Volaterrana.\nÎn jurul prânzului, ne întoarcem spre coastă pentru a ne bucura de energia maritimă vibrantă la La Lanterna, un loc perfect pentru a vă trage sufletul și a privi marea sclipitoare.\nPlimbarea de după-amiază continuă de-a lungul frumoasei coaste până la Sole Mare, permițându-vă să vă relaxați chiar lângă apă și să absorbiți soarele minunat al coastei toscane.\nTerminați itinerariul cu o pedalare ușoară către istoricul Ponte di Pietrabianca, un loc liniștit unde lumina palidă evidențiază perfect peisajul natural înconjurător.",
         "en": "Kick off your cycling adventure at the impressive Chiesa di San Leopoldo Re and the historical Torre di Vada before pedaling inland to uncover the ancient roots of Vada Volaterrana.\nAround noon, we ride back toward the coast to enjoy the vibrant maritime energy at La Lanterna, perfect for catching your breath and watching the sparkling sea.\nThe afternoon ride continues along the beautiful shoreline to Sole Mare, allowing you to relax right by the water and soak up the wonderful Tuscan coastal sunshine.\nFinish the itinerary with a gentle pedal to the historic Ponte di Pietrabianca, a tranquil spot where the fading light perfectly highlights the surrounding natural landscape."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den rutschigen Straßen von Vada. Morgens starten wir geschützt bei der Kirche, bevor wir zügig zum Turm radeln. Mittags suchen wir Schutz in Küstennähe, wo der Wind den Regen peitscht. Am Nachmittag verkürzen wir die Etappen zwischen den Ruinen, um nicht völlig durchnässt zu werden. Abends reflektieren die Pfützen die Lichter der Stadt.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Vada csúszós útjain. Reggel a templom oltalmában kezdünk, majd gyorsan a toronyhoz tekerünk. Délben a part mentén keresünk fedezéket, ahol a szél korbácsolja az esőt. Délután lerövidítjük a romok közötti szakaszokat, hogy elkerüljük a teljes ázást. Estére a tócsákban tükröződnek vissza a város fényei a sárvédők alatt.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile alunecoase din Vada. Dimineața începem la adăpostul bisericii, apoi pedalăm rapid spre turn. La prânz căutăm refugiu lângă coastă, unde vântul biciuiește ploaia. După-amiaza scurtăm etapele între ruine pentru a evita udarea completă. Seara, bălțile reflectă luminile orașului sub roțile bicicletei.",
+            "en": "Cycling in the rain requires caution on Vada's slippery roads. We start under the church's protection in the morning, then pedal quickly to the tower. At noon, we seek shelter near the coast where wind whips the rain. In the afternoon, we shorten the stretches between ruins to avoid getting soaked. By evening, puddles reflect the city lights beneath our mudguards."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Leopoldo Re",
+                "hu": "Chiesa di San Leopoldo Re",
+                "ro": "Chiesa di San Leopoldo Re",
+                "en": "Chiesa di San Leopoldo Re"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie Ihr Rad sicher im Trockenen und nutzen Sie die Zeit für eine Innenbesichtigung, während der stärkste Regen draußen abklingt.",
+                "hu": "Parkolja le kerékpárját biztonságos, száraz helyen, és használja ki az időt a belső tér megtekintésére, amíg a legerősebb eső odakint alábbhagy.",
+                "ro": "Parcați bicicleta într-un loc sigur și uscat și folosiți timpul pentru a vizita interiorul până când ploaia torențială se mai potolește afară.",
+                "en": "Park your bike safely in a dry spot and use the time to visit the interior while the heaviest rain subsides outside before you continue."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Vada",
+                "hu": "Torre di Vada",
+                "ro": "Torre di Vada",
+                "en": "Torre di Vada"
+              },
+              "tip_4lang": {
+                "de": "Die Ziegelsteine des Turms glänzen im Regen; halten Sie nur kurz für ein Foto an und achten Sie auf den rutschigen Untergrund beim Absteigen.",
+                "hu": "A torony téglái fényesen csillognak az esőben; csak rövid időre álljon meg egy fotóra, és ügyeljen a csúszós talajra a leszálláskor.",
+                "ro": "Cărămizile turnului strălucesc în ploaie; opriți-vă doar scurt pentru o fotografie și aveți grijă la solul alunecos când coborâți de pe bicicletă.",
+                "en": "The tower's bricks gleam in the rain; stop only briefly for a photo and be careful of the slippery ground when dismounting from your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Vada Volaterrana",
+                "hu": "Vada Volaterrana",
+                "ro": "Vada Volaterrana",
+                "en": "Vada Volaterrana"
+              },
+              "tip_4lang": {
+                "de": "Die antiken Ausgrabungen können bei Regen schlammig sein; bleiben Sie auf den befestigten Wegen und tragen Sie unbedingt eine wasserfeste Regenhose.",
+                "hu": "Az ókori ásatások területe esőben sáros lehet; maradjon a kövezett utakon, és mindenképpen viseljen vízálló esőnadrágot a tekeréshez.",
+                "ro": "Zona săpăturilor antice poate fi noroioasă pe ploaie; rămâneți pe potecile pavate și purtați neapărat pantaloni de ploaie impermeabili.",
+                "en": "The ancient excavations can be muddy in the rain; stay on the paved paths and be sure to wear waterproof rain pants for your cycling trip."
+              }
+            },
+            {
+              "name": {
+                "de": "La Lanterna",
+                "hu": "La Lanterna",
+                "ro": "La Lanterna",
+                "en": "La Lanterna"
+              },
+              "tip_4lang": {
+                "de": "Dieser Küstenpunkt ist sehr exponiert; suchen Sie bei heftigen Böen Schutz im Gebäude und prüfen Sie Ihre Bremsen nach der Fahrt durch Pfützen.",
+                "hu": "Ez a tengerparti pont nagyon kitett az elemeknek; heves széllökések esetén keressen menedéket, és ellenőrizze a fékeket a tócsák után.",
+                "ro": "Acest punct de pe coastă este foarte expus; în caz de rafale puternice căutați refugiu în clădire și verificați frânele după ce treceți prin bălți.",
+                "en": "This coastal point is very exposed; seek shelter in the building during heavy gusts and check your brakes after riding through deep puddles."
+              }
+            },
+            {
+              "name": {
+                "de": "Sole Mare",
+                "hu": "Sole Mare",
+                "ro": "Sole Mare",
+                "en": "Sole Mare"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die stürmische See zu bewundern; wischen Sie Ihren Sattel vor der Weiterfahrt gut ab, um trocken zu bleiben.",
+                "hu": "Egy rövid megálló elég a viharos tenger megcsodálásához; alaposan törölje le a nyerget a továbbindulás előtt, hogy száraz maradjon a nadrágja.",
+                "ro": "O scurtă oprire este suficientă pentru a admira marea agitată; ștergeți bine șaua înainte de a pleca mai departe pentru a rămâne uscat.",
+                "en": "A brief stop is enough to admire the stormy sea; wipe your saddle thoroughly before moving on to keep your trousers as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte di Pietrabianca",
+                "hu": "Ponte di Pietrabianca",
+                "ro": "Ponte di Pietrabianca",
+                "en": "Ponte di Pietrabianca"
+              },
+              "tip_4lang": {
+                "de": "Die weiße Brücke kann bei Nässe sehr glatt sein; fahren Sie besonders langsam darüber und nutzen Sie das Licht an Ihrem Fahrrad für bessere Sicht.",
+                "hu": "A fehér híd felülete nedvesen nagyon csúszós lehet; hajtson át rajta különösen lassan, és használja a kerékpár lámpáit a jobb láthatóságért.",
+                "ro": "Suprafața podului alb poate fi foarte alunecoasă când este udă; traversați-l foarte încet și folosiți luminile bicicletei pentru vizibilitate.",
+                "en": "The white bridge's surface can be very slippery when wet; cross it extra slowly and use your bike lights for better visibility in the grey rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Vada bietet klare Sicht und frischen Wind. Morgens wärmt die Bewegung beim Treten zur Kirche auf. Mittags nutzen wir die hellen Stunden am Hafen, bevor die Kälte gegen 15:00 Uhr zunimmt. Am Nachmittag erkunden wir die historischen Ruinen in der tiefstehenden Sonne. Da es um 17:00 Uhr dunkel wird, beenden wir die Tour rechtzeitig mit warmer Kleidung.",
+            "hu": "A téli kerékpározás Vada környékén tiszta kilátást és friss szelet kínál. Reggel a tekerés mozgása hamar felmelegít a templom felé menet. Délben kihasználjuk a világos órákat a kikötőben, mielőtt 15:00 után hirtelen lehűlne az idő. Délután az ókori romokat fedezzük fel az alacsonyan járó napfényben. Mivel 17:00-kor sötétedik, a túrát időben, réteges öltözetben zárjuk.",
+            "ro": "Ciclismul de iarnă în jurul Vadei oferă vederi clare și vânt proaspăt. Dimineața, mișcarea pedalării vă va încălzi rapid în drum spre biserică. La prânz profităm de orele luminoase în port, înainte ca frigul să se intensifice după ora 15:00. După-amiaza explorăm ruinele antice în lumina joasă a soarelui. Deoarece se întunecă la 17:00, încheiem turul la timp.",
+            "en": "Winter cycling around Vada offers clear views and a fresh breeze. In the morning, the motion of pedaling quickly warms you up on the way to the church. At noon, we take advantage of the bright hours at the harbor before the chill increases after 3 PM. Afternoon is for exploring ruins in the low sun. As it gets dark by 5 PM, we finish the tour early with warm layers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Leopoldo Re",
+                "hu": "Chiesa di San Leopoldo Re",
+                "ro": "Chiesa di San Leopoldo Re",
+                "en": "Chiesa di San Leopoldo Re"
+              },
+              "tip_4lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort für eine kurze Pause; tragen Sie Handschuhe, um Ihre Finger beim Radfahren vor dem kalten Fahrtwind zu schützen.",
+                "hu": "A templom szélvédett helyet kínál egy rövid pihenőre; viseljen kesztyűt, hogy megvédje ujjait a hideg menetszéltől a kerékpározás közben.",
+                "ro": "Biserica oferă un loc ferit de vânt pentru o scurtă pauză; purtați mănuși pentru a vă proteja degetele de vântul rece în timp ce pedalați.",
+                "en": "The church offers a wind-sheltered spot for a short break; wear gloves to protect your fingers from the cold headwind while cycling between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Vada",
+                "hu": "Torre di Vada",
+                "ro": "Torre di Vada",
+                "en": "Torre di Vada"
+              },
+              "tip_4lang": {
+                "de": "Der Turm steht majestätisch im harten Winterlicht; ein Schlauchschal schützt Ihren Hals vor der eisigen Brise, die hier direkt vom Meer herüberweht.",
+                "hu": "A torony fenségesen fest a kemény téli fényben; egy csősál megvédi a nyakát a jeges fuvallattól, amely itt közvetlenül a tenger felől érkezik.",
+                "ro": "Turnul arată maiestuos în lumina aspră a iernii; un fular circular vă va proteja gâtul de briza înghețată care vine direct dinspre mare.",
+                "en": "The tower looks majestic in the harsh winter light; a neck warmer will protect you from the icy breeze that blows here directly from the open sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Vada Volaterrana",
+                "hu": "Vada Volaterrana",
+                "ro": "Vada Volaterrana",
+                "en": "Vada Volaterrana"
+              },
+              "tip_4lang": {
+                "de": "Im Winter sind die Ruinen ohne störendes Laub besser erkennbar; achten Sie auf die gefrorenen Stellen auf den Wegen zwischen den Ausgrabungen.",
+                "hu": "Télen a romok a zavaró lombozat nélkül jobban kivehetők; ügyeljen a fagyos foltokra az ásatások közötti utakon, amikor leszáll a bicikliről.",
+                "ro": "Iarna, ruinele sunt mai vizibile fără frunzișul deranjant; aveți grijă la porțiunile înghețate de pe potecile dintre săpături când coborâți.",
+                "en": "In winter, the ruins are more visible without the distracting foliage; watch out for frozen patches on the paths between the excavations when walking."
+              }
+            },
+            {
+              "name": {
+                "de": "La Lanterna",
+                "hu": "La Lanterna",
+                "ro": "La Lanterna",
+                "en": "La Lanterna"
+              },
+              "tip_4lang": {
+                "de": "Der Blick auf das winterliche Meer ist hier besonders weit; bewegen Sie Ihre Zehen regelmäßig in den Schuhen, um die Durchblutung bei Kälte zu fördern.",
+                "hu": "A kilátás a téli tengerre innen különösen tágas; mozgassa rendszeresen a lábujjait a cipőben, hogy serkentse a vérkeringést a nagy hidegben.",
+                "ro": "Vederea spre marea de iarnă este deosebit de amplă aici; mișcați-vă degetele de la picioare în pantofi pentru a stimula circulația pe frig.",
+                "en": "The view of the winter sea is especially wide here; move your toes regularly in your shoes to stimulate circulation during the biting cold ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Sole Mare",
+                "hu": "Sole Mare",
+                "ro": "Sole Mare",
+                "en": "Sole Mare"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe am Strand ohne Sommertrubel; eine winddichte Jacke ist hier ein Muss, da der Wind ungehindert über das flache Land pfeift.",
+                "hu": "Élvezze a strand nyugalmát a nyári nyüzsgés nélkül; egy szélálló dzseki itt kötelező, mivel a szél akadálytalanul süvít át a sík vidéken.",
+                "ro": "Bucurați-vă de liniștea plajei fără agitația verii; o jachetă rezistentă la vânt este obligatorie, deoarece vântul suflă nestingherit pe câmpie.",
+                "en": "Enjoy the beach's peace without the summer bustle; a windproof jacket is a must here as the wind whistles unobstructed across the flat coastal land."
+              }
+            },
+            {
+              "name": {
+                "de": "Ponte di Pietrabianca",
+                "hu": "Ponte di Pietrabianca",
+                "ro": "Ponte di Pietrabianca",
+                "en": "Ponte di Pietrabianca"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie die Tour vor 17:00 Uhr, um nicht in die winterliche Dunkelheit zu geraten; die weiße Brücke reflektiert das letzte Licht des Tages.",
+                "hu": "Zárja a túrát 17:00 előtt, hogy elkerülje a téli sötétséget; a fehér híd szépen veri vissza a nap utolsó fényeit a csatorna felett.",
+                "ro": "Încheiați turul înainte de ora 17:00 pentru a evita întunericul iernii; podul alb reflectă frumos ultimele lumini ale zilei peste canal.",
+                "en": "Finish your tour before 5 PM to avoid the winter darkness; the white bridge reflects the day's last light beautifully over the quiet canal."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje autós utazását a szárazföldi kincsek felfedezésével, induljon a bájos Ponte di Pietrabianca-tól, majd merüljön el Vada Volaterrana lenyűgöző romjaiban.\nVezessen vissza a városközpontba, hogy elmerüljön a helyi kultúrában a Teatro L'Ordigno-ban, amelyet egy gyors látogatás követ a közeli történelmi Torre di Vada-nál.\nDélután tegye tiszteletét a Chiesa di San Leopoldo Re-nél, mielőtt végighajt a festői tengerparti úton, hogy pihenjen és gyönyörködjön a kilátásban a Punto Azzurro 2-nél.\nA tökéletes befejezés érdekében autózzon el az Il tesorino-hoz, egy csodálatos természeti helyhez, ahol teljes nyugalomban lazíthat és nézheti a naplementét a nyugodt víz felett.",
         "ro": "Începeți călătoria cu mașina explorând comorile din interior, începând cu fermecătorul Ponte di Pietrabianca și apoi aprofundând ruinele fascinante de la Vada Volaterrana.\nConduceți înapoi spre centrul orașului pentru a vă scufunda în cultura locală la Teatro L'Ordigno, urmată de o vizită rapidă la istoricul Torre di Vada din apropiere.\nDupă-amiaza, aduceți un omagiu la Chiesa di San Leopoldo Re înainte de a conduce pe drumul de coastă pitoresc pentru a vă relaxa și admira priveliștea la Punto Azzurro 2.\nPentru o concluzie perfectă, conduceți până la Il tesorino, un minunat loc natural unde vă puteți relaxa și privi apusul peste apele liniștite într-o seninătate completă.",
         "en": "Start your road trip by exploring the inland treasures, beginning with the charming Ponte di Pietrabianca and then delving into the fascinating ruins of Vada Volaterrana.\nDrive back towards the town center to immerse yourself in local culture at Teatro L'Ordigno, followed by a quick visit to the nearby historical Torre di Vada.\nIn the afternoon, pay respects at the Chiesa di San Leopoldo Re before driving down the scenic coastal road to relax and take in the beautiful views at Punto Azzurro 2.\nFor the perfect conclusion, drive out to Il tesorino, a wonderful natural spot where you can unwind and watch the sun set over the calm waters in complete serenity."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Vada auch bei Regen komfortabel zu erkunden. Morgens erreichen wir trocken die historische Brücke, während die Scheibenwischer den Takt vorgeben. Mittags parken wir direkt am Theater für eine kulturelle Pause im Trockenen. Der Nachmittag führt uns zu den Küstenpunkten, die wir bequem aus dem warmen Fahrzeug beobachten können. Abends glänzen die Küstenstraßen im Scheinwerferlicht.",
+            "hu": "Autóval Vada esőben is kényelmesen felfedezhető. Reggel szárazon érjük el a történelmi hidat, miközben az ablaktörlők adják az ütemet. Délben közvetlenül a színháznál parkolunk egy kulturális pihenőre a szárazban. A délután a tengerparti pontokhoz vezet, melyeket kényelmesen, a meleg járműből is megcsodálhatunk. Estére a parti utak fényesen csillognak a fényszórók fényében.",
+            "ro": "Cu mașina, Vada poate fi explorată confortabil chiar și pe ploaie. Dimineața ajungem uscați la podul istoric, în timp ce ștergătoarele dau ritmul. La prânz parcăm direct lângă teatru pentru o pauză culturală la adăpost. După-amiaza ne duce la punctele de coastă, pe care le putem admira confortabil din vehiculul cald. Seara, drumurile de coastă strălucesc sub faruri.",
+            "en": "By car, Vada is comfortable to explore even in the rain. In the morning, we reach the historic bridge dry while the wipers set the pace. At noon, we park directly by the theatre for a dry cultural break. The afternoon leads to coastal spots, which we can admire comfortably from the warm vehicle. By evening, the coastal roads shimmer brightly under the headlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte di Pietrabianca",
+                "hu": "Ponte di Pietrabianca",
+                "ro": "Ponte di Pietrabianca",
+                "en": "Ponte di Pietrabianca"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Parkplatz in der Nähe, um die Brücke bei Regen kurz zu besichtigen; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "Használja a közeli parkolót, hogy esőben is megtekinthesse a hidat; kiszálláskor ügyeljen az útmenti mély tócsákra és a sárra.",
+                "ro": "Folosiți parcarea din apropiere pentru a vedea podul chiar și pe ploaie; aveți grijă la bălțile adânci de la marginea drumului când coborâți.",
+                "en": "Use the nearby parking to view the bridge even in the rain; watch out for deep roadside puddles and mud when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Vada Volaterrana",
+                "hu": "Vada Volaterrana",
+                "ro": "Vada Volaterrana",
+                "en": "Vada Volaterrana"
+              },
+              "tip_4lang": {
+                "de": "Die Ausgrabungsstätte ist bei Regen weitläufig; ein Regenschirm ist für den kurzen Fußweg vom Parkplatz zu den Ruinen absolut notwendig.",
+                "hu": "Az ásatási terület esőben kiterjedt és vizes; egy esernyő elengedhetetlen a parkolótól a romokig tartó rövid gyalogúthoz a sárban.",
+                "ro": "Zona de săpături este întinsă și umedă pe ploaie; o umbrelă este esențială pentru scurta plimbare de la parcare până la ruine prin noroi.",
+                "en": "The excavation site is extensive and wet in the rain; an umbrella is essential for the short walk from the parking area to the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro L'Ordigno",
+                "hu": "Teatro L'Ordigno",
+                "ro": "Teatro L'Ordigno",
+                "en": "Teatro L'Ordigno"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken ins Innere zu gelangen; das Theater ist der perfekte Ort, um einen Regenschauer abzuwarten.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy szárazon jusson be; a színház tökéletes helyszín egy nagyobb felhőszakadás átvészelésére.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în interior; teatrul este locul perfect pentru a aștepta trecerea unei ploi torențiale.",
+                "en": "Park as close to the entrance as possible to stay dry; the theatre is the perfect venue to wait out a heavy downpour in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Vada",
+                "hu": "Torre di Vada",
+                "ro": "Torre di Vada",
+                "en": "Torre di Vada"
+              },
+              "tip_4lang": {
+                "de": "Betrachten Sie den historischen Turm bequem durch die Windschutzscheibe; bei Regen wirkt das Mauerwerk besonders dunkel und geschichtsträchtig.",
+                "hu": "Tekintse meg a történelmi tornyot kényelmesen a szélvédőn keresztül; esőben a falazat különösen sötétnek és történelemhűnek hat a szürkeségben.",
+                "ro": "Admirați turnul istoric confortabil prin parbriz; pe ploaie, zidăria pare deosebit de întunecată și plină de istorie în lumina gri.",
+                "en": "View the historic tower comfortably through the windshield; in the rain, the stonework looks particularly dark and historic against the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Leopoldo Re",
+                "hu": "Chiesa di San Leopoldo Re",
+                "ro": "Chiesa di San Leopoldo Re",
+                "en": "Chiesa di San Leopoldo Re"
+              },
+              "tip_4lang": {
+                "de": "Die Kirche bietet einen trockenen Rückzugsort im Stadtzentrum; nutzen Sie die Zeit für eine ruhige Innenbesichtigung, während es draußen regnet.",
+                "hu": "A templom száraz menedéket nyújt a városközpontban; használja ki az időt egy csendes belső látogatásra, amíg odakint szakad az eső.",
+                "ro": "Biserica oferă un refugiu uscat în centrul orașului; profitați de timp pentru o vizită interioară liniștită cât timp afară plouă torențial.",
+                "en": "The church provides a dry retreat in the town center; use the time for a quiet indoor visit while it is pouring with rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Punto Azzurro 2",
+                "hu": "Punto Azzurro 2",
+                "ro": "Punto Azzurro 2",
+                "en": "Punto Azzurro 2"
+              },
+              "tip_4lang": {
+                "de": "Vom Parkplatz aus haben Sie einen guten Blick auf die Küste; bleiben Sie im Auto und genießen Sie die dramatische Stimmung des regnerischen Meeres.",
+                "hu": "A parkolóból jó kilátás nyílik a partra; maradjon az autóban, és élvezze a reggel óta tartó esős tengerpart drámai hangulatát és színeit.",
+                "ro": "Din parcare aveți o vedere bună spre coastă; rămâneți în mașină și bucurați-vă de atmosfera dramatică a mării ploioase de dimineață.",
+                "en": "From the parking lot, you have a good view of the coast; stay in the car and enjoy the dramatic mood and colors of the rainy morning sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Il tesorino",
+                "hu": "Il tesorino",
+                "ro": "Il tesorino",
+                "en": "Il tesorino"
+              },
+              "tip_4lang": {
+                "de": "Dieser abgelegene Ort ist mit dem Auto am besten erreichbar; die unbefestigten Wege können schlammig sein, fahren Sie daher besonders vorsichtig.",
+                "hu": "Ez a távolabbi hely autóval érhető el a legjobban; a nem aszfaltozott utak sárosak lehetnek, ezért hajtson különösen óvatosan a sárban.",
+                "ro": "Acest loc mai îndepărtat este cel mai accesibil cu mașina; drumurile neasfaltate pot fi noroioase, deci conduceți cu atenție sporită prin noroi.",
+                "en": "This more remote spot is best reached by car; the unpaved roads can be muddy, so drive extra carefully through the wet patches and sludge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour durch Vada garantiert Wärme und Flexibilität. Morgens gleiten wir zur weißen Brücke, während die Heizung für Wohlbefinden sorgt. Mittags erkunden wir die antiken Ruinen und kehren schnell ins warme Auto zurück. Der Nachmittag gehört der Kultur im beheizten Theater. Da es um 17:00 Uhr dunkel wird, genießen wir den frühen Sonnenuntergang bequem von der Küstenstraße aus.",
+            "hu": "A téli autós túra Vada környékén garantálja a meleget és a rugalmasságot. Reggel a fehér hídhoz gurulunk, miközben a fűtés gondoskodik a kényelemről. Délben felfedezzük az ókori romokat, majd gyorsan visszatérünk a meleg autóba. A délután a kultúráé a fűtött színházban. Mivel 17:00-kor sötétedik, a korai naplementét kényelmesen, a parti útról élvezzük.",
+            "ro": "Un tur de iarnă cu mașina prin Vada garantează căldură și flexibilitate. Dimineața mergem spre podul alb, în timp ce căldura din mașină asigură confortul. La prânz explorăm ruinele antice și revenim rapid în vehiculul cald. După-amiaza este dedicată culturii la teatrul încălzit. Deoarece se întunecă la 17:00, savurăm apusul timpuriu de pe drumul de coastă.",
+            "en": "A winter car tour around Vada guarantees warmth and flexibility. In the morning, we glide to the white bridge while the heater ensures comfort. At noon, we explore the ancient ruins then return quickly to the warm car. The afternoon belongs to culture in the heated theatre. As it gets dark by 5 PM, we enjoy the early sunset comfortably from the coastal road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ponte di Pietrabianca",
+                "hu": "Ponte di Pietrabianca",
+                "ro": "Ponte di Pietrabianca",
+                "en": "Ponte di Pietrabianca"
+              },
+              "tip_4lang": {
+                "de": "Die weiße Brücke glänzt im klaren Winterlicht; ein kurzer Stopp für Fotos lohnt sich, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A fehér híd fehéren ragyog a tiszta téli fényben; egy rövid megálló a fotókhoz megéri, mielőtt visszatérne az autó melegébe.",
+                "ro": "Podul alb strălucește în lumina clară a iernii; o scurtă oprire pentru fotografii merită înainte de a vă reîntoarce la căldura mașinii.",
+                "en": "The white bridge gleams brightly in the clear winter light; a short stop for photos is worth it before returning to the warmth of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Vada Volaterrana",
+                "hu": "Vada Volaterrana",
+                "ro": "Vada Volaterrana",
+                "en": "Vada Volaterrana"
+              },
+              "tip_4lang": {
+                "de": "Das weitläufige Gelände ist im Winter oft windig; parken Sie strategisch, um die Laufwege zu den interessantesten Ausgrabungen kurz zu halten.",
+                "hu": "A tágas terület télen gyakran szeles; parkoljon stratégiai helyre, hogy a legérdekesebb ásatásokhoz vezető gyalogút a lehető legrövidebb legyen.",
+                "ro": "Zona vastă este adesea vântoasă iarna; parcați strategic pentru a menține cât mai scurte drumurile pe jos spre cele mai interesante săpături.",
+                "en": "The spacious grounds are often windy in winter; park strategically to keep the walking paths to the most interesting excavations as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatro L'Ordigno",
+                "hu": "Teatro L'Ordigno",
+                "ro": "Teatro L'Ordigno",
+                "en": "Teatro L'Ordigno"
+              },
+              "tip_4lang": {
+                "de": "Das beheizte Theater ist im Winter ein Highlight; genießen Sie das kulturelle Programm in gemütlicher Wärme mitten in der kalten Jahreszeit.",
+                "hu": "A fűtött színház igazi fénypont télen; élvezze a kulturális programokat barátságos melegben, távol a kinti fagyos szél kényelmetlenségeitől.",
+                "ro": "Teatrul încălzit este un punct forte iarna; bucurați-vă de programul cultural la o căldură primitoare, departe de disconfortul vântului rece.",
+                "en": "The heated theatre is a real highlight in winter; enjoy the cultural programs in cozy warmth, far from the discomfort of the freezing wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre di Vada",
+                "hu": "Torre di Vada",
+                "ro": "Torre di Vada",
+                "en": "Torre di Vada"
+              },
+              "tip_4lang": {
+                "de": "Der Parkplatz bietet einen tollen Blick auf den Turm; ideal für ein schnelles Winterfoto, ohne das behagliche Auto verlassen zu müssen.",
+                "hu": "A közeli parkolóból remek kilátás nyílik a toronyra; ideális egy gyors téli fotóhoz anélkül, hogy huzamosabb időre el kellene hagynia az autót.",
+                "ro": "Parcarea oferă o vedere excelentă asupra turnului; ideal pentru o fotografie rapidă de iarnă fără a fi nevoie să părăsiți mașina prea mult timp.",
+                "en": "The parking area offers a great view of the tower; ideal for a quick winter photo without having to leave the comfort of the car for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Leopoldo Re",
+                "hu": "Chiesa di San Leopoldo Re",
+                "ro": "Chiesa di San Leopoldo Re",
+                "en": "Chiesa di San Leopoldo Re"
+              },
+              "tip_4lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag; die dicken Mauern speichern die Restwärme des Tages und bieten einen besinnlichen Rückzugsort.",
+                "hu": "Látogassa meg a templomot késő délután; a vastag falak jól tartják a nap melegét, és meghitt, csendes menedéket nyújtanak a téli szürkületben.",
+                "ro": "Vizitați biserica după-amiaza târziu; zidurile groase păstrează bine căldura zilei și oferă un refugiu intim și liniștit în amurgul iernii.",
+                "en": "Visit the church in the late afternoon; the thick walls retain the day's warmth and offer a cozy, quiet retreat during the winter twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Punto Azzurro 2",
+                "hu": "Punto Azzurro 2",
+                "ro": "Punto Azzurro 2",
+                "en": "Punto Azzurro 2"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den Sonnenuntergang um 17:00 Uhr direkt aus dem Auto; der Blick auf das winterliche Meer ist bei klarer Sicht atemberaubend weit.",
+                "hu": "Élvezze a 17:00 körüli naplementét közvetlenül az autóból; a kilátás a téli tengerre tiszta időben lélegzetelállítóan tágas és színes.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 direct din mașină; vederea spre marea de iarnă este uluitor de amplă și colorată pe timp senin.",
+                "en": "Enjoy the sunset around 5 PM directly from the car; the view of the winter sea is breathtakingly wide and colorful in clear weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Il tesorino",
+                "hu": "Il tesorino",
+                "ro": "Il tesorino",
+                "en": "Il tesorino"
+              },
+              "tip_4lang": {
+                "de": "Die Anfahrt durch die winterliche Landschaft ist malerisch; nutzen Sie die Sitzheizung, um nach einem kurzen Spaziergang schnell wieder aufzuwärmen.",
+                "hu": "Az út a téli tájon át festői szépségű; használja az ülésfűtést, hogy egy rövid, frissítő séta után gyorsan újra átmelegedjen az autóban.",
+                "ro": "Drumul prin peisajul de iarnă este pitoresc; folosiți încălzirea în scaune pentru a vă reîncălzi rapid în mașină după o scurtă plimbare revigorantă.",
+                "en": "The drive through the winter landscape is picturesque; use the seat heaters to warm up quickly in the car after a short, refreshing walk outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

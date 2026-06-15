@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy tiszteletteljes sétával a hősi temetőben, élvezve a friss levegőt és a csendes elmélkedést. Délben elmerülhet a regionális történelemben és a gyarmati építészetben, ahogy a város felébred. A délután békés szemlélődésre vált a helyi katolikus templom hűs árnyékában. Végül zárja az estét a hagyományos táncritmusokba merülve, megragadva Mataram valódi kulturális lüktetését.",
         "ro": "Începeți dimineața cu o plimbare respectuoasă prin cimitirul eroilor, bucurându-vă de aerul proaspăt și de reflecția liniștită. La prânz, vă veți scufunda în istoria regională și arhitectura colonială pe măsură ce orașul se trezește. După-amiaza se transformă într-o contemplare pașnică în biserica catolică locală, oferind umbră răcoroasă. În cele din urmă, încheiați-vă seara cufundându-vă în ritmuri de dans tradițional.",
         "en": "Start your morning with a respectful stroll through the heroes' cemetery, embracing the crisp air and quiet reflection. By midday, you'll be diving into regional history and colonial architecture as the city wakes up around you. The afternoon shifts to peaceful contemplation in the local Catholic church, offering cool shade. Finally, cap off your evening by immersing yourself in traditional dance rhythms, capturing the true cultural heartbeat of Mataram."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mataram im Regen wirkt mystisch, erfordert aber gute Vorbereitung. Der Morgen beginnt grau, die Straßen glänzen. Mittags suchen wir Schutz in Sakralbauten, während schwere Güsse niedergehen. Nachmittags kühlt es angenehm ab, doch die Gehwege bleiben tückisch glatt. Der Abend endet in der feuchten Wärme der Stadt, wobei die Lichter der Denkmäler in den Pfützen auf der Straße tanzen.",
+            "hu": "Mataram esőben misztikus arcát mutatja, de felkészültséget igényel. A reggel szürke, az utak csillognak. Délben a templomok adnak menedéket a trópusi zivatar elől. Délután a levegő friss, de a járdák csúszósak maradnak. Az este párás melegben zárul, a műemlékek fényei visszatükröződnek az úttest tócsáiban, miközben az eső illata betölti a várost.",
+            "ro": "Mataram în ploaie pare mistic, dar necesită pregătire. Dimineața începe gri, cu străzi strălucitoare. La prânz căutăm adăpost în lăcașurile de cult în timpul averselor tropicale. După-amiaza se răcorește, dar trotuarele rămân alunecoase. Seara se încheie în căldura umedă a orașului, luminile monumentelor reflectându-se în bălțile de pe carosabil.",
+            "en": "Mataram in the rain feels mystical but requires preparation. The morning starts grey with glistening streets. At noon, we seek shelter in sacred buildings during heavy tropical downpours. The afternoon cools down pleasantly, though sidewalks remain treacherously slippery. The evening ends in humid warmth, with monument lights dancing in the puddles on the road."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Makam Pahlawan Nasional",
+                "hu": "Makam Pahlawan Nasional",
+                "ro": "Makam Pahlawan Nasional",
+                "en": "Makam Pahlawan Nasional"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Gräber der Helden unter einem stabilen Regenschirm; achten Sie auf die moosigen Pfade, die bei Nässe sehr rutschig werden können.",
+                "hu": "Látogassa meg a hősök sírjait egy erős esernyővel; ügyeljen a mohás ösvényekre, amelyek nedves időben rendkívül csúszóssá válhatnak.",
+                "ro": "Vizitați mormintele eroilor sub o umbrelă rezistentă; atenție la potecile cu mușchi, care pot deveni foarte alunecoase când sunt ude.",
+                "en": "Visit the heroes' graves under a sturdy umbrella; watch out for the mossy paths, which can become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Kencana Warsa Mandika",
+                "hu": "Kencana Warsa Mandika",
+                "ro": "Kencana Warsa Mandika",
+                "en": "Kencana Warsa Mandika"
+              },
+              "tip_5lang": {
+                "de": "Diese historische Stätte bietet wenig Überdachung; nutzen Sie die kurzen Regenpausen für Fotos und tragen Sie unbedingt wasserfeste Schuhe.",
+                "hu": "Ez a történelmi helyszín kevés fedett részt kínál; használja ki a rövid esőszüneteket a fotózáshoz, és viseljen vízálló cipőt.",
+                "ro": "Acest sit istoric oferă puțin adăpost; profitați de scurtele pauze de ploaie pentru fotografii și purtați neapărat încălțăminte impermeabilă.",
+                "en": "This historical site offers little overhead cover; use short breaks in the rain for photos and be sure to wear waterproof shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen General Majoor P.P.H. Van Ham",
+                "hu": "Monumen General Majoor P.P.H. Van Ham",
+                "ro": "Monumen General Majoor P.P.H. Van Ham",
+                "en": "Monumen General Majoor P.P.H. Van Ham"
+              },
+              "tip_5lang": {
+                "de": "Das Denkmal steht im Freien; betrachten Sie es aus der Nähe und suchen Sie bei plötzlichem Guss Schutz unter den nahen Bäumen oder Vordächern.",
+                "hu": "Az emlékmű a szabadban áll; nézze meg közelebbről, hirtelen felhőszakadás esetén pedig keressen menedéket a közeli fák vagy ereszek alatt.",
+                "ro": "Monumentul este în aer liber; priviți-l de aproape și căutați adăpost sub copacii sau streșinile din apropiere în caz de aversă bruscă.",
+                "en": "The monument is outdoors; view it closely and seek shelter under nearby trees or eaves in case of a sudden heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santa Maria Immaculata, Mataram",
+                "hu": "Gereja Santa Maria Immaculata, Mataram",
+                "ro": "Gereja Santa Maria Immaculata, Mataram",
+                "en": "Gereja Santa Maria Immaculata, Mataram"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist der ideale Ort, um dem Regen zu entfliehen; genießen Sie die stille Architektur im Trockenen, während es draußen stürmt.",
+                "hu": "A templom ideális hely az eső elől való menekülésre; élvezze a csendes építészetet a szárazban, miközben kint tombol a vihar.",
+                "ro": "Biserica este locul ideal pentru a scăpa de ploaie; bucurați-vă de arhitectura liniștită la adăpost, în timp ce afară plouă torențial.",
+                "en": "The church is the perfect place to escape the rain; enjoy the quiet architecture in the dry while the storm rages outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanggar Tari Pharamitha",
+                "hu": "Sanggar Tari Pharamitha",
+                "ro": "Sanggar Tari Pharamitha",
+                "en": "Sanggar Tari Pharamitha"
+              },
+              "tip_5lang": {
+                "de": "Im Tanzstudio bleiben Sie trocken; bewundern Sie die kulturellen Vorführungen und nutzen Sie die Zeit, um Ihre Regenkleidung kurz zu lüften.",
+                "hu": "A táncstúdióban szárazon maradhat; csodálja meg a kulturális előadásokat, és használja ki az időt esőruházata rövid kiszellőztetésére.",
+                "ro": "În studioul de dans veți rămâne uscați; admirați spectacolele culturale și profitați de timp pentru a vă aerisi puțin hainele de ploaie.",
+                "en": "You will stay dry in the dance studio; admire the cultural performances and use the time to briefly air out your rain gear."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der 'Winter' in Mataram bringt mildere Luft und klare Sicht. Der Morgen ist erfrischend kühl, perfekt für den Fußmarsch. Mittags steht die Sonne hoch, doch die Hitze ist weniger drückend. Am Nachmittag taucht das goldene Licht die Stadt in warme Farben, bevor die Dämmerung bereits gegen 17:00 Uhr einsetzt. Der Abend wird schnell kühl, ideal für gemütliche Stunden im Innenbereich.",
+            "hu": "A mataram-i „tél” enyhébb levegőt és tiszta látási viszonyokat hoz. A reggel frissítően hűvös, tökéletes a sétához. Délben a nap magasan jár, de a hőség kevésbé fojtogató. Délután az arany fények meleg színekbe öltöztetik a várost, mielőtt 17:00 körül leszáll az est. Az este gyorsan lehűl, ideális a benti, meghitt programokhoz.",
+            "ro": "„Iarna” în Mataram aduce aer mai blând și vizibilitate clară. Dimineața este revigorant de răcoroasă, perfectă pentru mers pe jos. La prânz soarele e sus, dar căldura este mai puțin sufocantă. După-amiaza lumina aurie îmbracă orașul în culori calde înainte de apusul de la ora 17:00. Seara se răcește rapid, fiind ideală pentru momente relaxante la interior.",
+            "en": "The 'winter' in Mataram brings milder air and clear visibility. The morning is refreshingly cool, perfect for walking. At noon, the sun is high, but the heat is less oppressive. In the afternoon, golden light bathes the city in warm colors before dusk sets in around 5:00 PM. The evening cools down quickly, ideal for cozy indoor activities."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Makam Pahlawan Nasional",
+                "hu": "Makam Pahlawan Nasional",
+                "ro": "Makam Pahlawan Nasional",
+                "en": "Makam Pahlawan Nasional"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühle Morgenluft für einen respektvollen Spaziergang; die klare Wintersonne bietet hervorragendes Licht für Fotos der Denkmäler.",
+                "hu": "Használja ki a hűvös reggeli levegőt egy tiszteletteljes sétára; a tiszta téli napsütés kiváló fényeket biztosít az emlékművek fotózásához.",
+                "ro": "Profitați de aerul răcoros al dimineții pentru o plimbare respectuoasă; soarele clar de iarnă oferă o lumină excelentă pentru poze cu monumentele.",
+                "en": "Take advantage of the cool morning air for a respectful walk; the clear winter sun provides excellent light for photographing the monuments."
+              }
+            },
+            {
+              "name": {
+                "de": "Kencana Warsa Mandika",
+                "hu": "Kencana Warsa Mandika",
+                "ro": "Kencana Warsa Mandika",
+                "en": "Kencana Warsa Mandika"
+              },
+              "tip_5lang": {
+                "de": "Die Mittagssonne ist auch im Winter stark; tragen Sie eine leichte Jacke für den Schatten, da die Temperaturen hier angenehm moderat bleiben.",
+                "hu": "A déli nap télen is erős; viseljen könnyű kabátot az árnyékos részeken, mivel a hőmérséklet itt kellemesen mérsékelt marad.",
+                "ro": "Soarele de la prânz este puternic și iarna; purtați o jachetă ușoară pentru umbră, deoarece temperaturile rămân plăcut moderate aici.",
+                "en": "The midday sun is strong even in winter; wear a light jacket for the shade as temperatures here remain pleasantly moderate."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumen General Majoor P.P.H. Van Ham",
+                "hu": "Monumen General Majoor P.P.H. Van Ham",
+                "ro": "Monumen General Majoor P.P.H. Van Ham",
+                "en": "Monumen General Majoor P.P.H. Van Ham"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal am frühen Nachmittag, um die langen Schatten zu nutzen; eine dünne Schicht Kleidung schützt vor der kühleren Brise.",
+                "hu": "Látogassa meg az emlékművet kora délután, hogy kihasználja a hosszú árnyékokat; egy vékony réteg ruha védelmet nyújt a hűvösebb szellő ellen.",
+                "ro": "Vizitați monumentul după-amiaza devreme pentru a profita de umbrele lungi; un strat subțire de haine vă protejează de briza mai rece.",
+                "en": "Visit the monument in the early afternoon to take advantage of the long shadows; a thin layer of clothing protects against the cooler breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santa Maria Immaculata, Mataram",
+                "hu": "Gereja Santa Maria Immaculata, Mataram",
+                "ro": "Gereja Santa Maria Immaculata, Mataram",
+                "en": "Gereja Santa Maria Immaculata, Mataram"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen warmen, friedlichen Rückzugsort; achten Sie darauf, vor dem frühen Sonnenuntergang um 17:00 Uhr wieder im Freien zu sein.",
+                "hu": "A templom meleg, békés menedéket nyújt; ügyeljen rá, hogy a korai, 17:00-kor bekövetkező naplemente előtt érjen vissza a szabadba.",
+                "ro": "Biserica oferă un refugiu cald și liniștit; aveți grijă să ieșiți înapoi în aer liber înainte de apusul devreme de la ora 17:00.",
+                "en": "The church offers a warm, peaceful retreat; make sure to head back outside before the early sunset at 5:00 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Sanggar Tari Pharamitha",
+                "hu": "Sanggar Tari Pharamitha",
+                "ro": "Sanggar Tari Pharamitha",
+                "en": "Sanggar Tari Pharamitha"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Vorführung in der gemütlichen Atmosphäre des Studios; nehmen Sie für den Heimweg in der Dunkelheit eine wärmere Schicht mit.",
+                "hu": "Élvezze az előadást a stúdió barátságos légkörében; a sötétben történő hazaúthoz vigyen magával egy melegebb ruhadarabot.",
+                "ro": "Bucurați-vă de spectacol în atmosfera primitoare a studioului; luați o haină mai groasă pentru drumul spre casă prin întuneric.",
+                "en": "Enjoy the performance in the cozy atmosphere of the studio; bring a warmer layer for the walk back in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa el kerékpáros kalandját a helyi kakasviadalok élénk és hagyományos légkörének megtekintésével rögtön a reggel kezdetén. Ahogy a nap felmelegszik, tekerjen át az ünnepélyes történelmi helyszíneken. Délután fedezze fel az állami múzeum kiterjedt gyűjteményeit, ahol tudást és légkondicionált megkönnyebbülést is talál. Zárja a napot a fenséges katolikus plébánián, visszatekintve kétkerekű utazására.",
         "ro": "Începeți aventura cu bicicleta asistând la atmosfera vibrantă și tradițională a luptelor locale de cocoși chiar de dimineață. Pe măsură ce ziua se încălzește, pedalați prin siturile istorice solemne pentru a onora eroii trecutului. După-amiaza, explorați colecțiile vaste ale muzeului de stat, găsind atât cunoaștere, cât și o ușurare aerisită. Încheiați-vă ziua la maiestuoasa parohie catolică, reflectând asupra călătoriei pe două roți.",
         "en": "Kickstart your cycling adventure by witnessing the vibrant and traditional atmosphere of local cockfighting right as the morning begins. As the day warms up, cycle through the solemn historical sites to honor Mataram's past heroes and legacy. In the afternoon, explore the extensive collections of the state museum, finding both knowledge and air-conditioned relief. Wind down your day at the majestic Catholic parish, reflecting on your two-wheeled journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen von Mataram erfordert Konzentration und Regenzeug. Der Morgen startet mit nassem Asphalt. Mittags verwandeln sich die Straßen oft in kleine Bäche, was das Vorankommen erschwert. Nachmittags lässt der Guss nach, doch Pfützen verbergen Schlaglöcher. Der Abend ist schwül; die Fahrt durch die Stadt bei beleuchteten, regennassen Straßen hat einen ganz eigenen Reiz.",
+            "hu": "A kerékpározás Mataram esős utcáin koncentrációt és esőruhát igényel. A reggel nedves aszfalttal indul. Délben az utcák gyakran kis patakokká változnak, ami nehezíti a haladást. Délután alábbhagy a zápor, de a tócsák kátyúkat rejthetnek. Az este fülledt; a kivilágított, esőtől ázott városon keresztül tekerni különleges élményt nyújt.",
+            "ro": "Mersul pe bicicletă în ploaia din Mataram necesită concentrare și pelerină. Dimineața începe cu asfalt ud. La prânz, străzile se transformă adesea în mici pârâie, îngreunând înaintarea. După-amiaza ploaia se domolește, dar bălțile ascund gropi. Seara este zăpuseală; plimbarea prin orașul iluminat și ud are un farmec aparte.",
+            "en": "Cycling in Mataram's rain requires concentration and rain gear. The morning starts with wet asphalt. At noon, streets often turn into small streams, making progress difficult. The afternoon sees the rain easing, but puddles hide potholes. The evening is muggy; riding through the illuminated, rain-soaked city has a unique appeal."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cock fighting",
+                "hu": "Kakasviadal (Cock fighting)",
+                "ro": "Lupte de cocoși",
+                "en": "Cock fighting"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie unter dem Arenadach Schutz; parken Sie Ihr Fahrrad sicher im Trockenen, da der Boden um die Arena sehr schlammig werden kann.",
+                "hu": "Keressen menedéket az aréna teteje alatt; parkolja le kerékpárját biztonságos, száraz helyen, mert az aréna körüli talaj sáros lehet.",
+                "ro": "Căutați adăpost sub acoperișul arenei; parcați bicicleta într-un loc uscat și sigur, deoarece solul din jurul arenei poate deveni noroios.",
+                "en": "Seek shelter under the arena roof; park your bike securely in a dry spot, as the ground around the arena can get very muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Makam Pahlawan Nasional",
+                "hu": "Makam Pahlawan Nasional",
+                "ro": "Makam Pahlawan Nasional",
+                "en": "Makam Pahlawan Nasional"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den glatten Zufahrten; die Anlage ist weitläufig, daher ist ein Poncho beim Erkunden der Denkmäler unverzichtbar.",
+                "hu": "Óvatosan közlekedjen a csúszós bejáratoknál; a terület hatalmas, ezért egy poncsó nélkülözhetetlen az emlékművek felfedezéséhez.",
+                "ro": "Conduceți cu atenție pe căile de acces alunecoase; complexul este vast, așa că un poncho este esențial pentru explorarea monumentelor.",
+                "en": "Ride carefully on the slippery access paths; the grounds are extensive, so a poncho is indispensable while exploring the monuments."
+              }
+            },
+            {
+              "name": {
+                "de": "Kencana Warsa Mandika",
+                "hu": "Kencana Warsa Mandika",
+                "ro": "Kencana Warsa Mandika",
+                "en": "Kencana Warsa Mandika"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf stehendes Wasser auf den Wegen; parken Sie das Rad in der Nähe eines Unterstands, um bei Schauern schnell reagieren zu können.",
+                "hu": "Ügyeljen az utakon megálló vízre; parkoljon egy fedett rész közelében, hogy a hirtelen záporoknál gyorsan védett helyre kerülhessen.",
+                "ro": "Atenție la apa acumulată pe drumuri; parcați bicicleta lângă un adăpost pentru a putea reacționa rapid în cazul unei averse.",
+                "en": "Watch out for standing water on the paths; park the bike near a shelter to be able to react quickly to sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santa Maria Immaculata",
+                "hu": "Gereja Santa Maria Immaculata",
+                "ro": "Gereja Santa Maria Immaculata",
+                "en": "Gereja Santa Maria Immaculata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Rades; im Inneren finden Sie einen trockenen Ort für eine kurze Verschnaufpause.",
+                "hu": "Használja a fedett bejárati részt a kerékpár tárolására; odabent száraz helyet talál egy rövid pihenőhöz az eső elől.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta; în interior veți găsi un loc uscat pentru o scurtă pauze de odihnă.",
+                "en": "Use the covered entrance area to park your bike; inside, you'll find a dry spot for a short break from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Negeri NTB",
+                "hu": "Museum Negeri NTB",
+                "ro": "Museum Negeri NTB",
+                "en": "Museum Negeri NTB"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der perfekte Stopp bei starkem Regen; erkunden Sie die Exponate ausgiebig im Trockenen, während Ihr Rad sicher im Ständer steht.",
+                "hu": "A múzeum tökéletes megálló heves esőzéskor; fedezze fel alaposan a kiállításokat a szárazban, miközben kerékpárja biztonságban pihen.",
+                "ro": "Muzeul este oprirea perfectă în caz de ploaie torențială; explorați exponatele la adăpost în timp ce bicicleta stă în siguranță.",
+                "en": "The museum is the perfect stop during heavy rain; explore the exhibits thoroughly in the dry while your bike stays safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Katolik Santo Antonius Padua",
+                "hu": "Gereja Katolik Santo Antonius Padua",
+                "ro": "Gereja Katolik Santo Antonius Padua",
+                "en": "Gereja Katolik Santo Antonius Padua"
+              },
+              "tip_5lang": {
+                "de": "Der Abendregen macht die Straßen dunkel und glatt; prüfen Sie Ihre Fahrradbeleuchtung und genießen Sie die ruhige Abendstimmung in der Kirche.",
+                "hu": "Az esti eső sötétté és csúszóssá teszi az utakat; ellenőrizze a világítást, és élvezze a templom nyugodt esti hangulatát.",
+                "ro": "Ploaia de seară face drumurile întunecate și alunecoase; verificați luminile bicicletei și bucurați-vă de atmosfera liniștită din biserică.",
+                "en": "The evening rain makes the roads dark and slippery; check your bike lights and enjoy the peaceful evening atmosphere in the church."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintermonate bieten ideale Radbedingungen in Mataram durch angenehme Temperaturen. Der Morgen ist klar und kühl, perfekt für längere Strecken. Mittags brennt die Sonne weniger, was das Fahren erleichtert. Ab 16:30 Uhr färbt sich der Himmel dramatisch, da die Sonne um 17:00 Uhr sinkt. Der Abend wird schnell frisch, sodass eine leichte Jacke auf dem Rad nötig wird.",
+            "hu": "A téli hónapok ideális kerékpáros körülményeket kínálnak Mataramban a kellemes hőmérsékletnek köszönhetően. A reggel tiszta és hűvös. Délben a nap kevésbé éget, ami megkönnyíti a haladást. 16:30-tól az égbolt drámai színeket ölt, ahogy a nap 17:00-kor lebukik. Az este gyorsan lehűl, így a biciklin szükség lesz egy könnyű kabátra.",
+            "ro": "Lunile de iarnă oferă condiții ideale pentru ciclism în Mataram datorită temperaturilor plăcute. Dimineața este clară și răcoroasă. La prânz soarele nu arde atât de tare, facilitând pedalatul. De la 16:30 cerul capătă culori dramatice, soarele apunând la 17:00. Seara se face răcoare rapid, fiind necesară o jachetă ușoară pe bicicletă.",
+            "en": "The winter months offer ideal cycling conditions in Mataram due to pleasant temperatures. The morning is clear and cool. At noon, the sun burns less intensely, making riding easier. From 4:30 PM, the sky turns dramatic as the sun sets at 5:00 PM. The evening cools down fast, making a light jacket necessary on the bike."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cock fighting",
+                "hu": "Kakasviadal (Cock fighting)",
+                "ro": "Lupte de cocoși",
+                "en": "Cock fighting"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die lebhafte Atmosphäre im kühleren Wintermorgen; parken Sie das Rad im Schatten, damit der Sattel nicht zu heiß wird.",
+                "hu": "Élvezze a pezsgő hangulatot a hűvösebb téli reggelen; parkolja a biciklit árnyékba, hogy a nyereg ne forrósodjon fel túlságosan.",
+                "ro": "Bucurați-vă de atmosfera plină de viață în dimineața răcoroasă de iarnă; parcați bicicleta la umbră ca să nu se încingă șaua.",
+                "en": "Enjoy the lively atmosphere in the cooler winter morning; park your bike in the shade so the seat doesn't get too hot."
+              }
+            },
+            {
+              "name": {
+                "de": "Makam Pahlawan Nasional",
+                "hu": "Makam Pahlawan Nasional",
+                "ro": "Makam Pahlawan Nasional",
+                "en": "Makam Pahlawan Nasional"
+              },
+              "tip_5lang": {
+                "de": "Die weite Anlage lässt sich bei den milden Wintertemperaturen wunderbar mit dem Rad erkunden; nutzen Sie das klare Licht für Panoramafotos.",
+                "hu": "A hatalmas terület a tiszta, enyhe téli hőmérsékletben kiválóan bejárható kerékpárral; használja ki a tiszta fényeket panorámaképekhez.",
+                "ro": "Complexul vast poate fi explorat minunat cu bicicleta la temperaturile blânde de iarnă; profitați de lumina clară pentru poze panoramice.",
+                "en": "The vast grounds are wonderful to explore by bike in the mild winter temperatures; use the clear light for panoramic photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kencana Warsa Mandika",
+                "hu": "Kencana Warsa Mandika",
+                "ro": "Kencana Warsa Mandika",
+                "en": "Kencana Warsa Mandika"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause im Halbschatten; die trockene Winterluft macht das Treten leichter, aber vergessen Sie nicht, genug Wasser zu trinken.",
+                "hu": "Tartson egy rövid pihenőt a félárnyékban; a száraz téli levegő megkönnyíti a tekerést, de ne felejtsen el elegendő vizet inni.",
+                "ro": "Faceți o scurtă pauză la semiumbră; aerul uscat de iarnă face pedalatul mai ușor, dar nu uitați să beți destulă apă.",
+                "en": "Take a short break in the partial shade; the dry winter air makes pedaling easier, but don't forget to drink enough water."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Santa Maria Immaculata",
+                "hu": "Gereja Santa Maria Immaculata",
+                "ro": "Gereja Santa Maria Immaculata",
+                "en": "Gereja Santa Maria Immaculata"
+              },
+              "tip_5lang": {
+                "de": "Die kühlen Kirchenmauern bieten eine willkommene Erfrischung nach der Fahrt; planen Sie die Weiterfahrt vor der frühen Abenddämmerung ein.",
+                "hu": "A templom hűvös falai felüdülést nyújtanak a tekerés után; tervezze meg a továbbindulást a korai esti szürkület előtt.",
+                "ro": "Zidurile răcoroase ale bisericii oferă o revigorare binevenită după drum; planificați plecarea înainte de amurgul devreme.",
+                "en": "The cool church walls offer a welcome refreshment after the ride; plan to continue your journey before the early evening dusk."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Negeri NTB",
+                "hu": "Museum Negeri NTB",
+                "ro": "Museum Negeri NTB",
+                "en": "Museum Negeri NTB"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie die Nachmittagshitze in den klimatisierten Räumen des Museums; Ihr Rad steht sicher im Außenbereich, während Sie Kultur genießen.",
+                "hu": "Töltse a délutáni hőséget a múzeum légkondicionált termeiben; kerékpárja biztonságban várja kint, miközben Ön a kultúrát élvezi.",
+                "ro": "Petreceți căldura după-amiezii în sălile climatizate ale muzeului; bicicleta stă în siguranță afară în timp ce vă bucurați de cultură.",
+                "en": "Spend the afternoon heat in the museum's air-conditioned rooms; your bike will be safe outside while you enjoy the culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Gereja Katolik Santo Antonius Padua",
+                "hu": "Gereja Katolik Santo Antonius Padua",
+                "ro": "Gereja Katolik Santo Antonius Padua",
+                "en": "Gereja Katolik Santo Antonius Padua"
+              },
+              "tip_5lang": {
+                "de": "Da es bereits um 17:00 Uhr dunkel wird, beenden Sie Ihre Tour hier; die Abendkühle macht den Rückweg angenehm, erfordert aber Licht.",
+                "hu": "Mivel már 17:00-kor sötétedik, itt fejezze be a túrát; az esti hűvös kellemessé teszi a hazautat, de világításra szükség lesz.",
+                "ro": "Deoarece se întunecă deja la ora 17:00, încheiați turul aici; răcoarea serii face drumul de întoarcere plăcut, dar necesită lumini.",
+                "en": "Since it gets dark at 5:00 PM, finish your tour here; the evening coolness makes the ride back pleasant but requires lights."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autózzon ki a csodálatos Narmada vízi palotához kora reggel, hogy felfedezze királyi medencéit, mielőtt a tömeg megérkezik. Délben a járműve egy bájos helyi művészeti boltba viszi, ahol tökéletes autentikus ajándéktárgyakra vadászhat. Töltse a délutánt a sziget örökségének mélyreható megismerésével a múzeumban és a történelmi kínai épületben. Az estéje egy festői autózással csúcsosodik ki a Bukit Munci-ra egy látványos naplementéhez.",
         "ro": "Conduceți până la magnificul palat al apelor Narmada dimineața devreme pentru a explora piscinele sale regale înainte să ajungă mulțimile. La prânz, vehiculul vă duce la un magazin fermecător de artă locală. Petreceți-vă după-amiaza scufundându-vă adânc în patrimoniul insulei la muzeu și la clădirea istorică chineză. Seara culminează cu o plimbare pitorească pe Bukit Munci pentru a prinde un apus de soare panoramic spectaculos.",
         "en": "Drive out to the magnificent Narmada water palace early in the morning to explore its royal pools before the crowds arrive. By midday, your vehicle takes you to a charming local art shop where you can hunt for perfect authentic souvenirs. Spend your afternoon diving deep into the island's heritage at the museum and the historic Chinese building. Your evening culminates with a scenic drive up Bukit Munci to catch a spectacular panoramic sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Das Auto ist bei Regen in Mataram die beste Wahl. Der Morgen beginnt mit schlechter Sicht durch die Gischt. Mittags prasselt der Regen laut auf das Autodach, während wir trocken von Ziel zu Ziel gelangen. Nachmittags sind einige Straßenabschnitte überflutet; defensives Fahren ist Pflicht. Der Abend ist dank Klimaanlage im Wagen komfortabel, während draußen die Welt im Regen versinkt.",
+            "hu": "Az autó a legjobb választás esőben Mataramban. A reggel rossz látási viszonyokkal indul a felverődő víz miatt. Délben az eső hangosan kopog a tetőn, miközben mi szárazon jutunk el egyik helyről a másikra. Délután egyes útszakaszok víz alá kerülhetnek; az óvatos vezetés kötelező. Az este a kocsiban kényelmes a klíma miatt, miközben kint elmerül a világ az esőben.",
+            "ro": "Mașina este cea mai bună alegere pe ploaie în Mataram. Dimineața începe cu vizibilitate redusă din cauza apei pulverizate. La prânz ploaia răpăie pe plafon în timp ce ajungem uscați la destinații. După-amiaza unele porțiuni de drum pot fi inundate; condusul defensiv este obligatoriu. Seara este confortabilă în mașină datorită climatizării, în timp ce afară plouă torențial.",
+            "en": "The car is the best choice during rain in Mataram. The morning begins with poor visibility due to road spray. At noon, rain drums loudly on the roof while we travel dry from place to place. In the afternoon, some road sections may be flooded; defensive driving is a must. The evening is comfortable inside the car thanks to air conditioning while the world outside is soaked."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Narmada",
+                "hu": "Narmada",
+                "ro": "Narmada",
+                "en": "Narmada"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; die Gartenwege können bei Regen sehr rutschig und schlammig sein.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást; a kerti utak esőben nagyon csúszósak és sárosak lehetnek.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; aleile din grădină pot fi foarte alunecoase și noroioase pe timp de ploaie.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; the garden paths can be very slippery and muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "rismunika astuti art shop",
+                "hu": "rismunika astuti art shop",
+                "ro": "rismunika astuti art shop",
+                "en": "rismunika astuti art shop"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort zum Verweilen bei Schauern; stöbern Sie in aller Ruhe im trockenen Innenraum nach Kunsthandwerk und Souvenirs.",
+                "hu": "Tökéletes hely a tartózkodásra záporok idején; böngésszen nyugodtan a száraz belső térben a kézműves termékek és szuvenírek között.",
+                "ro": "Un loc perfect pentru a zăbovi în timpul averselor; răsfoiți în tihnă artizanatul și suvenirurile în interiorul uscat.",
+                "en": "A perfect place to linger during showers; browse for handicrafts and souvenirs in peace within the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Negeri NTB",
+                "hu": "Museum Negeri NTB",
+                "ro": "Museum Negeri NTB",
+                "en": "Museum Negeri NTB"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsparkplatz; verbringen Sie die regenreichste Zeit des Tages zwischen den faszinierenden kulturellen Schätzen der Insel.",
+                "hu": "Használja a múzeum parkolóját; töltse a nap legesősebb részét a sziget lenyűgöző kulturális kincsei között, teljesen szárazon.",
+                "ro": "Folosiți parcarea muzeului; petreceți cea mai ploioasă parte a zilei printre fascinantele comori culturale ale insulei, la adăpost.",
+                "en": "Use the museum parking lot; spend the rainiest part of the day among the island's fascinating cultural treasures, completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Gedung Hok Kian Kong Hwee",
+                "hu": "Gedung Hok Kian Kong Hwee",
+                "ro": "Gedung Hok Kian Kong Hwee",
+                "en": "Gedung Hok Kian Kong Hwee"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude bietet Schutz vor den Elementen; bewundern Sie die Architektur von innen und warten Sie den nächsten Regenschauer im Trockenen ab.",
+                "hu": "Az épület védelmet nyújt az elemekkel szemben; csodálja meg az építészetet belülről, és várja meg a következő zápor végét a szárazban.",
+                "ro": "Clădirea oferă protecție împotriva elementelor; admirați arhitectura din interior și așteptați sfârșitul următoarei averse la adăpost.",
+                "en": "The building provides protection from the elements; admire the architecture from the inside and wait out the next shower in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Bukit Munci",
+                "hu": "Bukit Munci",
+                "ro": "Bukit Munci",
+                "en": "Bukit Munci"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt den Hügel hinauf erfordert bei Regen Vorsicht; genießen Sie den dramatischen Ausblick auf die regenverhangene Stadt direkt aus dem Auto.",
+                "hu": "A dombra való feljutás esőben óvatosságot igényel; élvezze a drámai kilátást az esőbe burkolózott városra közvetlenül az autóból.",
+                "ro": "Drumul spre deal necesită prudență pe ploaie; bucurați-vă de priveliștea dramatică asupra orașului acoperit de ploaie direct din mașină.",
+                "en": "The drive up the hill requires caution in the rain; enjoy the dramatic view of the rain-shrouded city directly from your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist Mataram mit dem Auto besonders entspannt zu erkunden. Der Morgen ist klar und bietet weite Sichten. Mittags sorgt die Klimaanlage für Komfort, obwohl die Sonne milder ist. Am späten Nachmittag taucht das Licht alles in Gold, perfekt für die Fahrt zum Hügel vor 17:00 Uhr. Der Abend wird kühl; das Auto bietet Schutz vor der frischen Brise nach Sonnenuntergang.",
+            "hu": "Télen Mataram felfedezése autóval különösen pihentető. A reggel tiszta, messzire el lehet látni. Délben a klíma gondoskodik a kényelemről, bár a nap enyhébb. Késő délután a fények mindent aranyba vonnak, tökéletes az út a dombhoz 17:00 előtt. Az este lehűl; az autó védelmet nyújt a naplemente utáni friss szellő ellen.",
+            "ro": "Iarna, explorarea Mataramului cu mașina este deosebit de relaxantă. Dimineața este clară, cu vizibilitate mare. La prânz climatizarea asigură confortul, deși soarele este mai blând. După-amiaza târziu lumina transformă totul în aur, perfect pentru drumul spre deal înainte de 17:00. Seara se răcește; mașina oferă protecție contra brizei reci.",
+            "en": "In winter, exploring Mataram by car is especially relaxing. The morning is clear with long-distance views. At noon, the air conditioning ensures comfort, though the sun is milder. Late afternoon light turns everything to gold, perfect for the drive to the hill before 5:00 PM. The evening cools down; the car provides protection from the fresh breeze after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Narmada",
+                "hu": "Narmada",
+                "ro": "Narmada",
+                "en": "Narmada"
+              },
+              "tip_5lang": {
+                "de": "Die weitläufigen Gärten sind im milden Winterlicht besonders fotogen; planen Sie den Besuch am Vormittag ein, wenn die Luft noch herrlich frisch ist.",
+                "hu": "A kiterjedt kertek a lágy téli fényben különösen fotogének; tervezze a látogatást délelőttre, amikor a levegő még kellemesen friss.",
+                "ro": "Grădinile vaste sunt deosebit de fotogenice în lumina blândă de iarnă; planificați vizita dimineața, când aerul este încă revigorant.",
+                "en": "The extensive gardens are particularly photogenic in the mild winter light; plan your visit for the morning when the air is still wonderfully fresh."
+              }
+            },
+            {
+              "name": {
+                "de": "rismunika astuti art shop",
+                "hu": "rismunika astuti art shop",
+                "ro": "rismunika astuti art shop",
+                "en": "rismunika astuti art shop"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klimatisierten Shop für eine Pause von der trockenen Mittagssonne; die Farben der Kunstwerke leuchten im hellen Winterlicht besonders klar.",
+                "hu": "Használja a légkondicionált boltot egy kis pihenőre a száraz déli napsütés elől; a műalkotások színei a téli fényben különösen élénkek.",
+                "ro": "Folosiți magazinul climatizat pentru o pauză de la soarele uscat de la prânz; culorile operelor de artă sunt foarte vii în lumina clară de iarnă.",
+                "en": "Use the air-conditioned shop for a break from the dry midday sun; the colors of the artworks shine especially brightly in the clear winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Negeri NTB",
+                "hu": "Museum Negeri NTB",
+                "ro": "Museum Negeri NTB",
+                "en": "Museum Negeri NTB"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den frühen Nachmittag; die kühlen Hallen bieten Komfort, bevor Sie sich für den Sonnenuntergang wieder auf den Weg machen.",
+                "hu": "Ideális helyszín kora délutánra; a hűvös termek kényelmet nyújtanak, mielőtt újra útra kelne a naplemente megtekintéséhez.",
+                "ro": "Un loc ideal pentru după-amiaza devreme; sălile răcoroase oferă confort înainte de a pleca din nou la drum pentru apus.",
+                "en": "An ideal spot for the early afternoon; the cool halls provide comfort before you head out again for the sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Gedung Hok Kian Kong Hwee",
+                "hu": "Gedung Hok Kian Kong Hwee",
+                "ro": "Gedung Hok Kian Kong Hwee",
+                "en": "Gedung Hok Kian Kong Hwee"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne am Nachmittag erzeugt tolle Lichteffekte an der Fassade; parken Sie bequem in der Nähe für einen kurzen Fotostopp.",
+                "hu": "A délutáni alacsony napállás nagyszerű fényhatásokat hoz létre a homlokzaton; parkoljon kényelmesen a közelben egy rövid fotószünetre.",
+                "ro": "Soarele de după-amiază creează efecte de lumină superbe pe fațadă; parcați confortabil în apropiere pentru o scurtă oprire foto.",
+                "en": "The low afternoon sun creates great light effects on the facade; park conveniently nearby for a quick photo stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Bukit Munci",
+                "hu": "Bukit Munci",
+                "ro": "Bukit Munci",
+                "en": "Bukit Munci"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie unbedingt vor 17:00 Uhr an, um den frühen Sonnenuntergang zu sehen; im Winter ist die Fernsicht vom Hügel über das Meer oft am besten.",
+                "hu": "Mindenképpen érkezzen meg 17:00 előtt, hogy lássa a korai naplementét; télen a dombról a tengerre nyíló kilátás gyakran ilyenkor a legtisztább.",
+                "ro": "Ajungeți neapărat înainte de 17:00 pentru a vedea apusul devreme; iarna, vizibilitatea de pe deal spre mare este adesea cea mai bună.",
+                "en": "Be sure to arrive before 5:00 PM to see the early sunset; in winter, the long-distance view from the hill over the sea is often at its best."
+              }
+            }
+          ]
+        }
       }
     }
   }

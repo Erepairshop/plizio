@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Dahab kulturális szívének felfedezésével, az élénk piacoktól a lenyűgöző mecsetekig. Délben induljon a tengerparti csodák felé, élvezve a kristálytiszta vizet és a víz alatti tájakat. Ahogy a délután halad, fedezze fel a történelmi romokat és kikötőket, amelyek formálták a régiót. Végül zárja az estét egy békés naplementés sétával a lágy homokos partokon, élvezve a Vörös-tenger nyugodt szellőjét.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Dahab, de la piețe pline de viață la moschei impresionante. La prânz, îndreptați-vă spre minunile de coastă, bucurându-vă de apele cristaline și peisajele subacvatice unice. Pe măsură ce după-amiaza avansează, descoperiți ruinele istorice care au modelat regiunea. În cele din urmă, încheiați seara cu o plimbare liniștită la apus de-a lungul malurilor nisipoase, sub briza blândă a Mării Roșii.",
         "en": "Start your morning exploring the cultural heart of Dahab, from lively local markets to stunning mosques. By midday, transition towards the coastal wonders, taking time to enjoy the crystal-clear waters and unique underwater landscapes. As the afternoon progresses, uncover the historical ruins and historical ports that shaped the region. Finally, wind down the evening with a peaceful sunset walk along the gentle sandy shores, enjoying the calm Red Sea breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Markt unter Planen Schutz, während der Regen die Farben der Waren kräftiger erscheinen lässt. Mittags suchen wir an der Küste zwischen den Schauern nach Unterstand. Nachmittags erkunden wir die historischen Stätten, wobei der nasse Stein eine besondere Atmosphäre schafft. Den Abend verbringen wir in einem überdachten Strandcafé, während der Regen auf das Meer prasselt.",
+            "hu": "Reggel a piac ponyvái alatt találunk menedéket, ahol az eső illata keveredik a fűszerekével. Délben a tengerparti sétányon haladunk, figyelve a csúszós kövekre a záporok között. Délután a mecset és a kikötő kőfalai nyújtanak védelmet a nedvesség elől. Az estét egy fedett vízparti teraszon zárjuk, hallgatva a tenger és az eső megnyugtató neszét a sötétedő Dahabban.",
+            "ro": "Dimineața piața oferă adăpost sub copertine, în timp ce ploaia face culorile mărfurilor să pară mai intense. La prânz explorăm coasta între averse, căutând refugiu în cafenelele de pe mal. După-amiaza siturile istorice capătă o atmosferă aparte pe fundalul ploii deșertice. Seara ne retragem într-un local acoperit de pe plajă, privind cum picăturile se pierd în valurile mării.",
+            "en": "In the morning, the market's awnings provide shelter while the rain intensifies the scents of spices and fabrics. At noon, we navigate the coastal path between showers, cautious of slippery tiles. Afternoon visits to stone structures offer dry spots to admire the stormy sea. The evening concludes in a covered beachside lounge, enjoying the rare sight of rain falling over the Gulf of Aqaba."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freitagsmarkt",
+                "hu": "Pénteki piac",
+                "ro": "Piața de vineri",
+                "en": "Friday market"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den großen Sonnensegeln der Händler; bei Regen ist der Markt weniger überfüllt, aber achten Sie auf Pfützen auf den unebenen Wegen.",
+                "hu": "Keressen menedéket az árusok nagy ponyvái alatt; esőben a piac kevésbé zsúfolt, de ügyeljen a sárra és a tócsákra a burkolatlan utakon a bazár területén.",
+                "ro": "Căutați adăpost sub prelatele mari ale comercianților; piața este mai puțin aglomerată pe ploaie, dar atenție la noroiul de pe drumurile neasfaltate.",
+                "en": "Seek shelter under the large vendor awnings; the market is less crowded in the rain, but watch for deep puddles and mud on the unpaved paths between stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Eel Garden",
+                "hu": "Angolna Kert",
+                "ro": "Grădina Anghilelor",
+                "en": "Eel Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf das aufgewühlte Meer ist spektakulär; nutzen Sie die überdachten Terrassen der nahen Cafés, um trocken zu bleiben und den Wellengang zu beobachten.",
+                "hu": "A felkorbácsolt tenger látványa lenyűgöző; használja a közeli kávézók fedett teraszait, hogy szárazon maradva figyelhesse a hullámokat és a szürke horizontot.",
+                "ro": "Vederea mării agitate este spectaculoasă; folosiți terasele acoperite ale cafenelelor din apropiere pentru a rămâne uscați în timp ce observați valurile mari.",
+                "en": "The view of the agitated sea is spectacular; use the covered terraces of nearby cafes to stay dry while observing the waves and the grey desert horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm",
+                "hu": "Világítótorony",
+                "ro": "Farul",
+                "en": "Light House"
+              },
+              "tip_5lang": {
+                "de": "Der gepflasterte Weg hier wird bei Nässe extrem rutschig; tragen Sie Schuhe mit gutem Grip und halten Sie sich fern von der Brandungszone bei starkem Wind.",
+                "hu": "A kövezett sétány itt rendkívül csúszóssá válik az esőtől; viseljen tapadós talpú cipőt, és maradjon távol a hullámtörőktől az erős szél és a vízpermet miatt.",
+                "ro": "Faleza pavată devine extrem de alunecoasă din cauza ploii; purtați încălțăminte cu aderență bună și evitați zona de dig în caz de vânt puternic și valuri.",
+                "en": "The paved promenade here becomes extremely slippery when wet; wear high-grip shoes and stay clear of the splash zone during periods of high wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Nabatäischer Hafen",
+                "hu": "Nabateus kikötő",
+                "ro": "Portul Nabateean",
+                "en": "Nabataens Port"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen bieten kaum Schutz, aber die umliegenden Mauern können als Windfang dienen; bringen Sie ein festes Cape für die Erkundung der Ausgrabungen mit.",
+                "hu": "Az ókori romok kevés védelmet nyújtanak, de a falmaradványok szélfogóként szolgálhatnak; hozzon vízhatlan köpenyt a szabadtéri régészeti terület bejárásához.",
+                "ro": "Ruinele antice oferă puțin adăpost, dar zidurile pot servi ca paravan împotriva vântului; aduceți o pelerină rezistentă pentru explorarea sitului arheologic.",
+                "en": "The ancient ruins offer little shelter, but the wall remnants can serve as windbreaks; bring a sturdy poncho for exploring the open archaeological site."
+              }
+            },
+            {
+              "name": {
+                "de": "Al Hoda Moschee",
+                "hu": "Al Hoda Mecset",
+                "ro": "Moscheea Al Hoda",
+                "en": "Al Hoda Mosque"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur von den Arkaden aus, die trockenen Boden bieten; die Moschee wirkt im grauen Licht besonders erhaben und friedlich.",
+                "hu": "Csodálja meg az építészetet az árkádok alól, amelyek száraz menedéket nyújtanak; a mecset a szürke fényben különösen fenséges és nyugodt hangulatot áraszt.",
+                "ro": "Admirați arhitectura de sub arcadele care oferă un sol uscat; moscheea pare deosebit de grandioasă și liniștită sub lumina gri a cerului înnorat.",
+                "en": "Admire the architecture from beneath the arcades which offer dry ground; the mosque feels particularly majestic and peaceful under the muted grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Christina Beach",
+                "hu": "Christina Beach",
+                "ro": "Christina Beach",
+                "en": "Christina Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in einer der Beduinen-Hütten am Strand; der Regen, der auf die Palmwedeldächer trommelt, sorgt für ein unvergessliches akustisches Erlebnis.",
+                "hu": "Keressen menedéket az egyik tengerparti beduin kunyhóban; a pálmalevél tetőn kopogó eső hangja felejthetetlen és pihentető akusztikus élményt nyújt a parton.",
+                "ro": "Refugiați-vă într-o colibă beduină de pe plajă; sunetul ploii care bate în acoperișul din frunze de palmier oferă o experiență acustică relaxantă și rară.",
+                "en": "Take cover in one of the beachside Bedouin huts; the sound of rain drumming on the palm-frond roofs provides a unique and relaxing acoustic desert experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintermorgen beginnt frisch auf dem Markt, ideal für einen Spaziergang ohne die Sommerhitze. Mittags wärmt die sanfte Sonne die Küstenwege, perfekt für lange Erkundungen. Nachmittags nutzen wir das goldene Licht an der Moschee, bevor die Kühle einsetzt. Da die Sonne gegen 17:00 Uhr untergeht, suchen wir uns früh einen gemütlichen Ort mit Windschutz für den Abend.",
+            "hu": "A hűvös téli reggel frissen indul a piacon, ideális a sétához a perzselő hőség nélkül. Délben a lágy napsütés kellemesen melegíti a tengerparti utakat a hosszú felfedezéshez. Délután a mecsetnél élvezzük az aranyló fényeket, mielőtt a hőmérséklet hirtelen csökkenni kezdene. Mivel a nap 17:00 körül nyugszik, korán keressünk szélvédett, barátságos helyet az estére.",
+            "ro": "Dimineața răcoroasă de iarnă începe proaspăt în piață, fiind ideală pentru plimbare fără arșița verii. La prânz, soarele blând încălzește potecile de pe coastă pentru explorări lungi. După-amiaza profităm de lumina aurie la moschee înainte ca frigul să se instaleze. Deoarece soarele apune pe la 17:00, căutăm devreme un loc primitor și ferit de vânt pentru seară.",
+            "en": "The cool winter morning starts fresh at the market, ideal for walking without the scorching summer heat. At noon, the gentle sun warms the coastal paths, perfect for extended exploration. Afternoon light at the mosque is golden and soft before the temperature drops. As sunset is around 17:00, we find a cozy, wind-sheltered spot early to enjoy the crisp desert evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Freitagsmarkt",
+                "hu": "Pénteki piac",
+                "ro": "Piața de vineri",
+                "en": "Friday market"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die milden Temperaturen zum Stöbern; probieren Sie einen heißen Beduinentee, um sich in der frischen Morgenluft aufzuwärmen.",
+                "hu": "Élvezze az enyhe hőmérsékletet a nézelődéshez; kóstoljon meg egy forró beduin teát az árusoknál, hogy bemelegedjen a friss reggeli levegőn.",
+                "ro": "Bucurați-vă de temperaturile blânde pentru cumpărături; încercați un ceai beduin fierbinte pentru a vă încălzi în aerul proaspăt al dimineții.",
+                "en": "Enjoy the mild temperatures for browsing; try a hot Bedouin tea from a local vendor to warm up in the crisp, refreshing morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Eel Garden",
+                "hu": "Angolna Kert",
+                "ro": "Grădina Anghilelor",
+                "en": "Eel Garden"
+              },
+              "tip_5lang": {
+                "de": "Das Licht für Fotos ist im Winter klarer; nutzen Sie die Mittagsstunden, wenn das Wasser noch von der Sonne gewärmt wird, falls Sie die Füße abkühlen wollen.",
+                "hu": "A téli fények tisztábbak a fotózáshoz; használja ki a déli órákat, amikor a víz még tartja a nap melegét, ha esetleg megmártaná a lábát a parton.",
+                "ro": "Lumina pentru fotografii este mai clară iarna; profitați de orele prânzului, când apa este încă încălzită de soare, dacă doriți să vă răcoriți picioarele.",
+                "en": "The winter light is much clearer for photography; take advantage of the noon hours when the water still holds some sun warmth if you want to dip your feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm",
+                "hu": "Világítótorony",
+                "ro": "Farul",
+                "en": "Light House"
+              },
+              "tip_5lang": {
+                "de": "Hier weht oft ein kühler Nordwind; eine leichte Jacke ist ratsam, auch wenn die Sonne scheint, da der Windchill am Meer deutlich spürbar ist.",
+                "hu": "Itt gyakran fúj a hűvös északi szél; egy könnyű dzseki tanácsos, még napsütésben is, mert a tengerparton a hőérzet jóval alacsonyabb a szél miatt.",
+                "ro": "Aici suflă adesea un vânt răcoros din nord; o jachetă ușoară este recomandată chiar dacă e soare, deoarece vântul scade mult temperatura resimțită.",
+                "en": "A cool north wind often blows here; a light jacket is advisable even in the sun, as the wind chill by the sea can be quite significant in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Nabatäischer Hafen",
+                "hu": "Nabateus kikötő",
+                "ro": "Portul Nabateean",
+                "en": "Nabataens Port"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine speichern die Mittagswärme; ein idealer Ort für ein Picknick in der Sonne, bevor diese hinter den Bergen verschwindet.",
+                "hu": "Az antik kövek jól tárolják a déli napsütés melegét; ideális hely egy napsütötte piknikhez, mielőtt a nap korán eltűnne a hegyek mögött.",
+                "ro": "Pietrele antice rețin căldura soarelui de la prânz; un loc ideal pentru un picnic la soare înainte ca acesta să dispară după munți.",
+                "en": "The ancient stones soak up the midday sun; it's an ideal spot for a sunny picnic before the sun disappears behind the mountains in the early afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Al Hoda Moschee",
+                "hu": "Al Hoda Mecset",
+                "ro": "Moscheea Al Hoda",
+                "en": "Al Hoda Mosque"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Moschee kurz vor dem frühen Sonnenuntergang; das weiße Minarett leuchtet im weichen Winterlicht besonders intensiv gegen den blauen Himmel.",
+                "hu": "Látogassa meg a mecsetet közvetlenül a korai naplemente előtt; a fehér minaret a lágy téli fényben ragyogóan emelkedik ki a kék égboltból.",
+                "ro": "Vizitați moscheea chiar înainte de apusul devreme; minaretul alb strălucește intens în lumina blândă de iarnă pe fundalul cerului albastru.",
+                "en": "Visit the mosque just before the early sunset; the white minaret glows intensely in the soft winter light against the deep blue Egyptian sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Christina Beach",
+                "hu": "Christina Beach",
+                "ro": "Christina Beach",
+                "en": "Christina Beach"
+              },
+              "tip_5lang": {
+                "de": "Nach 16:30 Uhr sinken die Temperaturen schnell; stellen Sie sicher, dass Sie warme Kleidung dabei haben, um die dämmerige Strandatmosphäre genießen zu können.",
+                "hu": "16:30 után a hőmérséklet gyorsan csökken; győződjön meg róla, hogy van önnél meleg réteg, hogy élvezhesse a szürkületi tengerparti hangulatot.",
+                "ro": "După ora 16:30 temperaturile scad rapid; asigurați-vă că aveți haine groase la îndemână pentru a vă bucura de atmosfera de pe plajă la amurg.",
+                "en": "After 16:30, the temperature drops rapidly; ensure you have warm layers ready to comfortably enjoy the twilight beach atmosphere and the stars."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje a reggelt Dahab kulturális szívének felfedezésével, az élénk piacoktól a lenyűgöző mecsetekig. Délben induljon a tengerparti csodák felé, élvezve a kristálytiszta vizet és a víz alatti tájakat. Ahogy a délután halad, fedezze fel a történelmi romokat és kikötőket, amelyek formálták a régiót. Végül zárja az estét egy békés naplementés sétával a lágy homokos partokon, élvezve a Vörös-tenger nyugodt szellőjét.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Dahab, de la piețe pline de viață la moschei impresionante. La prânz, îndreptați-vă spre minunile de coastă, bucurându-vă de apele cristaline și peisajele subacvatice unice. Pe măsură ce după-amiaza avansează, descoperiți ruinele istorice care au modelat regiunea. În cele din urmă, încheiați seara cu o plimbare liniștită la apus de-a lungul malurilor nisipoase, sub briza blândă a Mării Roșii.",
         "en": "Start your morning exploring the cultural heart of Dahab, from lively local markets to stunning mosques. By midday, transition towards the coastal wonders, taking time to enjoy the crystal-clear waters and unique underwater landscapes. As the afternoon progresses, uncover the historical ruins and historical ports that shaped the region. Finally, wind down the evening with a peaceful sunset walk along the gentle sandy shores, enjoying the calm Red Sea breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten vorsichtig bei leichtem Regen an der Moschee, wobei wir die rutschigen Straßen meiden. Mittags radeln wir zum Markt, wo wir das Fahrrad unterstellen und uns aufwärmen. Nachmittags erkunden wir die Küste, stets bereit, bei stärkeren Güssen in Cafés zu flüchten. Der Abend endet ruhig im Süden, während wir die seltene nasse Wüstenluft auf dem Rückweg genießen.",
+            "hu": "Óvatosan indulunk a mecsettől szemerkélő esőben, kerülve a csúszós aszfaltot. Délben a piachoz tekerünk, ahol fedett helyen hagyjuk a bringát a zápor idejére. Délután a part mentén haladunk, készen arra, hogy bármikor egy kávézóba meneküljünk a felhőszakadás elől. Az este délen ér minket, élvezve a ritka nedves sivatagi levegőt a hazafelé úton.",
+            "ro": "Pornim cu atenție de la moschee pe o ploaie ușoară, evitând porțiunile de drum alunecoase. La prânz pedalăm spre piață, unde lăsăm bicicleta la adăpost pentru un timp. După-amiaza explorăm coasta, gata să ne refugiem în cafenele la orice aversă mai serioasă. Seara se încheie în sud, savurând aerul umed al deșertului pe drumul de întoarcere.",
+            "en": "We start cautiously from the mosque in light rain, avoiding slippery asphalt patches. At noon, we cycle to the market, parking the bike under cover during the heaviest showers. Afternoon riding along the coast requires focus on the wet tiles, with frequent cafe stops to dry off. The evening ends in the south, breathing in the rare scent of wet desert air on the ride back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Große Moschee",
+                "hu": "Nagymecset",
+                "ro": "Marea Moschee",
+                "en": "Big Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Einfahrt zur Moschee kann bei Regen sehr glatt sein; steigen Sie vom Rad ab und schieben Sie es auf den gepflasterten Flächen, um Stürze zu vermeiden.",
+                "hu": "A mecset bejárata esőben nagyon csúszós lehet; szálljon le a bicikliről és tolja a kövezett részeken, hogy elkerülje az eséseket és sérüléseket.",
+                "ro": "Intrarea la moschee poate fi foarte alunecoasă pe ploaie; coborâți de pe bicicletă și împingeți-o pe zonele pavate pentru a evita accidentele.",
+                "en": "The mosque entrance area can be very slick when wet; dismount and walk your bike on the paved sections to avoid falls and stay safe in the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Freitagsmarkt",
+                "hu": "Pénteki piac",
+                "ro": "Piața de vineri",
+                "en": "Friday market"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad an einem überdachten Platz; der Markt ist ein guter Ort, um den stärksten Regen bei einem heißen Getränk abzuwarten.",
+                "hu": "Láncolja le a kerékpárját egy fedett helyen; a piac kiváló pont, hogy egy forró ital mellett megvárja a hevesebb záporok elvonulását a város felett.",
+                "ro": "Asigurați bicicleta într-un loc acoperit; piața este un loc bun pentru a aștepta trecerea ploii torențiale în timp ce savurați o băutură caldă.",
+                "en": "Secure your bike in a covered spot; the market is an excellent place to wait out the heaviest downpours while enjoying a hot local drink indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Eel Garden",
+                "hu": "Angolna Kert",
+                "ro": "Grădina Anghilelor",
+                "en": "Eel Garden"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Eel Garden hat einige Schlaglöcher, die sich nun mit Wasser füllen; fahren Sie langsam, um die Tiefe der Pfützen nicht zu unterschätzen.",
+                "hu": "Az Angolna Kerthez vezető úton sok a kátyú, amik most megteltek vízzel; haladjon lassan, hogy ne becsülje alá a tócsák mélységét tekerés közben.",
+                "ro": "Drumul spre Eel Garden are gropi care acum sunt pline cu apă; pedalați încet pentru a nu subestima adâncimea bălților de pe traseu.",
+                "en": "The path to Eel Garden has several potholes now filled with water; ride slowly to avoid misjudging the depth of puddles on the unpaved road sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm",
+                "hu": "Világítótorony",
+                "ro": "Farul",
+                "en": "Light House"
+              },
+              "tip_5lang": {
+                "de": "Die Strandpromenade ist für Radfahrer bei Regen riskant; nutzen Sie die parallel verlaufenden Nebenstraßen, die weniger glatte Oberflächen haben.",
+                "hu": "A tengerparti sétány esőben veszélyes a bicikliseknek; használja a párhuzamos mellékutcákat, ahol a burkolat kevésbé csúszós a nedvességtől.",
+                "ro": "Faleza este riscantă pentru bicicliști pe timp de ploaie; folosiți străzile secundare paralele, care au suprafețe mai puțin alunecoase decât faleza.",
+                "en": "The beachfront promenade is risky for cyclists in the rain; use the parallel backstreets which have less slippery surfaces than the main walkway tiles."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagona",
+                "hu": "Lagona",
+                "ro": "Lagona",
+                "en": "Lagona"
+              },
+              "tip_5lang": {
+                "de": "Der Sand am Ufer wird durch den Regen fester, was das Schieben des Rads erleichtert; genießen Sie den dramatischen Anblick der dunklen Wolken über dem Meer.",
+                "hu": "A parti homok az esőtől tömörebbé válik, ami megkönnyíti a bicikli tolását; élvezze a sötét felhők drámai látványát a tenger felett a lagúnánál.",
+                "ro": "Nisipul de pe mal devine mai compact din cauza ploii, facilitând împingerea bicicletei; admirați vederea dramatică a norilor negri de deasupra mării.",
+                "en": "The shore sand becomes firmer with the rain, making it easier to push your bike; enjoy the dramatic sight of storm clouds gathering over the lagoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Inseln",
+                "hu": "A Szigetek",
+                "ro": "Insulele",
+                "en": "The Islands"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem Rückweg auf herabfließendes Wasser von den Bergen; die Straßen können plötzlich von Schlamm bedeckt sein, fahren Sie vorausschauend.",
+                "hu": "A visszaúton figyeljen a hegyekből lefolyó vízre; az utak hirtelen sárossá válhatnak, ezért tekerjen fokozott figyelemmel és mérsékelt sebességgel.",
+                "ro": "La întoarcere, atenție la apa care se scurge de pe munți; drumurile pot fi brusc acoperite de noroi, așa că pedalați cu maximă prudență.",
+                "en": "On the way back, watch for runoff water from the mountains; roads can suddenly become muddy, so ride with foresight and maintain a steady pace."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein perfekter Tag für eine Radtour beginnt unter der strahlenden Wintersonne an der Moschee. Mittags radeln wir entspannt zum Markt, ohne ins Schwitzen zu kommen. Nachmittags folgen wir der Küstenlinie nach Süden, wobei uns die kühle Brise erfrischt. Da es früh dunkel wird, planen wir die Rückfahrt von den Inseln rechtzeitig vor Sonnenuntergang, um nicht im Kalten zu radeln.",
+            "hu": "Tökéletes nap a tekeréshez a ragyogó téli napsütésben, kezdve a mecsetnél. Délben kényelmesen eljutunk a piacra anélkül, hogy megizzadnánk a melegtől. Délután a part mentén haladunk dél felé, miközben a hűvös szellő frissít minket. Mivel korán sötétedik, a visszautat a szigetektől még naplemente előttre tervezzük, hogy elkerüljük a hirtelen lehűlést.",
+            "ro": "O zi perfectă pentru bicicletă începe sub soarele strălucitor de iarnă la moschee. La prânz pedalăm relaxat spre piață fără a transpira din cauza căldurii. După-amiaza urmăm linia coastei spre sud, briza răcoroasă fiind foarte revigorantă. Deoarece se întunecă devreme, planificăm întoarcerea de la Insule înainte de apus pentru a nu pedala în frig.",
+            "en": "A perfect day for cycling begins under the bright winter sun at the mosque. At noon, we pedal leisurely to the market without breaking a sweat in the mild air. The afternoon ride south along the coast is refreshed by a cool breeze. Since it gets dark early, we plan the return from The Islands well before sunset to avoid riding in the chilly evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Große Moschee",
+                "hu": "Nagymecset",
+                "ro": "Marea Moschee",
+                "en": "Big Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet eine fantastische Sicht auf das Minarett; nutzen Sie den Vormittag für Fotos, wenn die Sonne ideal für die Architektur steht.",
+                "hu": "A tiszta téli levegő fantasztikus kilátást nyújt a minaretre; használja ki a délelőttöt a fotózásra, amikor a napállás ideális az épület részleteihez.",
+                "ro": "Aerul clar de iarnă oferă o vizibilitate fantastică asupra minaretului; profitați de dimineață pentru poze, când soarele pune în valoare arhitectura.",
+                "en": "The clear winter air offers fantastic visibility of the minaret; use the morning for photos when the sun is at the ideal angle for the white architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Freitagsmarkt",
+                "hu": "Pénteki piac",
+                "ro": "Piața de vineri",
+                "en": "Friday market"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen Fahrradständer in der Sonne; der Markt ist im Winter belebt, aber angenehm kühl für einen längeren Aufenthalt bei den Ständen.",
+                "hu": "Keressen egy napsütötte biciklitárolót; a piac télen is élénk, de kellemesen hűvös a hosszabb nézelődéshez és a helyi áruk felfedezéséhez az árusoknál.",
+                "ro": "Căutați un loc de parcare pentru biciclete la soare; piața este animată iarna, dar plăcut de răcoroasă pentru o oprire prelungită la tarabe.",
+                "en": "Find a bike rack in the sun; the market is lively in winter but stays pleasantly cool for a longer stroll among the various local artisan stalls."
+              }
+            },
+            {
+              "name": {
+                "de": "Eel Garden",
+                "hu": "Angolna Kert",
+                "ro": "Grădina Anghilelor",
+                "en": "Eel Garden"
+              },
+              "tip_5lang": {
+                "de": "Ideal für eine Pause in der Sonne; die Cafés hier bieten oft Decken an, falls der Seewind beim Sitzen etwas zu frisch wird.",
+                "hu": "Ideális egy napsütötte pihenőhöz; az itteni kávézókban gyakran adnak pokrócot, ha a tengeri szél túl frissé válna az ücsörgés közben a parton.",
+                "ro": "Ideal pentru o pauză la soare; cafenelele de aici oferă adesea pături dacă briza mării devine prea rece în timp ce vă odihniți după pedalat.",
+                "en": "Ideal for a break in the sun; the seaside cafes here often offer blankets if the sea breeze becomes a bit too fresh while you are sitting outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Leuchtturm",
+                "hu": "Világítótorony",
+                "ro": "Farul",
+                "en": "Light House"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Fußgänger, die die Wintersonne auf der Promenade genießen; das Radfahren ist hier bei den milden Temperaturen besonders entspannt.",
+                "hu": "Figyeljen a gyalogosokra, akik a téli napsütést élvezik a sétányon; a biciklizés az enyhe hőmérsékletben itt különösen pihentető és látványos.",
+                "ro": "Atenție la pietonii care se bucură de soarele de iarnă pe faleză; pedalatul aici în temperaturile blânde este extrem de relaxant și plăcut.",
+                "en": "Watch out for pedestrians enjoying the winter sun on the promenade; cycling here in the mild temperatures is exceptionally relaxing and scenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagona",
+                "hu": "Lagona",
+                "ro": "Lagona",
+                "en": "Lagona"
+              },
+              "tip_5lang": {
+                "de": "Ein windanfälliges Gebiet; treten Sie kräftiger in die Pedale, wenn der Winterwind von vorne kommt, und genießen Sie die klare Sicht auf die Berge.",
+                "hu": "Ez egy szélérzékeny terület; tekerjen erősebben, ha szembeszél fúj, de élvezze a hegyek kristálytiszta látványát a lagúna túlpartján.",
+                "ro": "O zonă expusă vântului; pedalați mai cu forță dacă vântul de iarnă bate din față și bucurați-vă de vederea clară a munților din depărtare.",
+                "en": "This is a wind-prone area; you might need to pedal harder if the winter wind is against you, but enjoy the crystal-clear mountain views across the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Inseln",
+                "hu": "A Szigetek",
+                "ro": "Insulele",
+                "en": "The Islands"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie sich spätestens um 16:30 Uhr auf den Rückweg; sobald die Sonne sinkt, kühlt es beim Fahren durch den Fahrtwind merklich ab.",
+                "hu": "Legkésőbb 16:30-kor induljon vissza; amint a nap süllyedni kezd, a menetszél miatt tekerés közben jelentősen hűvösebbnek fogja érezni a levegőt.",
+                "ro": "Porniți înapoi cel târziu la 16:30; imediat ce soarele începe să apună, temperatura resimțită în timp ce pedalați va scădea considerabil.",
+                "en": "Start your return journey by 16:30 at the latest; as soon as the sun dips, the wind chill while riding will make it feel significantly colder."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Kezdje a reggelt Dahab kulturális szívének felfedezésével, az élénk piacoktól a lenyűgöző mecsetekig. Délben induljon a tengerparti csodák felé, élvezve a kristálytiszta vizet és a víz alatti tájakat. Ahogy a délután halad, fedezze fel a történelmi romokat és kikötőket, amelyek formálták a régiót. Végül zárja az estét egy békés naplementés sétával a lágy homokos partokon, élvezve a Vörös-tenger nyugodt szellőjét.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Dahab, de la piețe pline de viață la moschei impresionante. La prânz, îndreptați-vă spre minunile de coastă, bucurându-vă de apele cristaline și peisajele subacvatice unice. Pe măsură ce după-amiaza avansează, descoperiți ruinele istorice care au modelat regiunea. În cele din urmă, încheiați seara cu o plimbare liniștită la apus de-a lungul malurilor nisipoase, sub briza blândă a Mării Roșii.",
         "en": "Start your morning exploring the cultural heart of Dahab, from lively local markets to stunning mosques. By midday, transition towards the coastal wonders, taking time to enjoy the crystal-clear waters and unique underwater landscapes. As the afternoon progresses, uncover the historical ruins and historical ports that shaped the region. Finally, wind down the evening with a peaceful sunset walk along the gentle sandy shores, enjoying the calm Red Sea breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen die Fahrt vorsichtig bei den Grotte, wo der Regen die Felsen dunkel färbt. Mittags meiden wir tiefe Schluchten wegen möglicher Sturzfluten und bleiben in Küstennähe. Nachmittags besuchen wir die Moschee und den Hafen, wobei das Auto als perfekter Rückzugsort vor den Schauern dient. Den Abend verbringen wir im beleuchteten Süden, während der Regen gegen die Scheiben trommelt.",
+            "hu": "Óvatosan kezdjük az utat a Barlangnál, ahol az eső sötétre festi a sziklákat. Délben kerüljük a mély szurdokokat a hirtelen áradások veszélye miatt, és a parthoz közel maradunk. Délután a mecsetet és a kikötőt látogatjuk meg, az autó pedig tökéletes menedék a záporok között. Az estét a kivilágított déli részen töltjük, miközben az eső dobol a szélvédőn.",
+            "ro": "Începem călătoria cu prudență la Grotă, unde ploaia înnegrește stâncile. La prânz evităm canioanele adânci din cauza riscului de viituri și rămânem aproape de coastă. După-amiaza vizităm moscheea și portul, mașina fiind refugiul perfect între averse. Seara ne prinde în zona de sud luminată, în timp ce ploaia bate ritmic în parbriz.",
+            "en": "We begin the drive cautiously at the Grotto, where rain turns the desert rocks into dark silhouettes. At noon, we avoid deep canyons due to flash flood risks, sticking to coastal roads. Afternoon visits to the mosque and port use the car as a dry base between downpours. The evening is spent in the south, watching the desert rain wash the dusty streets from the warmth of the car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grotte",
+                "hu": "Barlang",
+                "ro": "Grota",
+                "en": "grotto"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf herabfallende Steine an den Hängen bei Regen; parken Sie das Auto in sicherem Abstand zu steilen Felswänden, um Risiken zu minimieren.",
+                "hu": "Esőben figyeljen a lejtőkről lehulló kövekre; parkoljon biztonságos távolságra a meredek sziklafalaktól, hogy elkerülje az esetleges kőomlásokat.",
+                "ro": "Atenție la pietrele care pot cădea de pe versanți în timpul ploii; parcați mașina la o distanță sigură de pereții stâncoși abrupți.",
+                "en": "Watch out for falling rocks from the slopes during rain; park your car at a safe distance from steep rock faces to minimize any potential risk."
+              }
+            },
+            {
+              "name": {
+                "de": "Canyon",
+                "hu": "Canyon",
+                "ro": "Canyon",
+                "en": "Canyon"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie bei Regen nicht tief in den Canyon hinein; Sturzfluten können in der Wüste sehr plötzlich auftreten, bleiben Sie in Fahrzeugnähe für einen schnellen Aufbruch.",
+                "hu": "Esőben ne menjen mélyen a kanyonba; a sivatagban a villámáradások hirtelen jönnek, maradjon a jármű közelében, hogy szükség esetén gyorsan távozhasson.",
+                "ro": "Nu intrați adânc în canion dacă plouă; viiturile pot apărea brusc în deșert, deci rămâneți aproape de mașină pentru o plecare rapidă în caz de urgență.",
+                "en": "Do not venture deep into the canyon if it rains; flash floods can occur very suddenly in the desert, so stay near the vehicle for a quick departure."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee",
+                "hu": "Nagymecset",
+                "ro": "Marea Moschee",
+                "en": "Big Mosque"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Eingang, um den Weg im Regen kurzzuhalten; die Sicht auf die Berge dahinter ist bei Wolken besonders dramatisch.",
+                "hu": "Használja a közvetlenül a bejárat előtti parkolót, hogy lerövidítse az esőben megtett utat; a háttérben lévő hegyek látványa felhős időben drámai.",
+                "ro": "Folosiți parcarea direct din fața intrării pentru a scurta drumul prin ploaie; vederea munților din spate este deosebit de dramatică sub nori.",
+                "en": "Use the parking area directly in front of the entrance to keep your walk in the rain short; the mountain backdrop looks exceptionally dramatic under storm clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Nabatäischer Hafen",
+                "hu": "Nabateus kikötő",
+                "ro": "Portul Nabateean",
+                "en": "Nabataens Port"
+              },
+              "tip_5lang": {
+                "de": "Die unbefestigte Zufahrt kann schlammig und rutschig sein; fahren Sie langsam und vermeiden Sie tiefe Wasseransammlungen, um nicht steckenzubleiben.",
+                "hu": "A burkolatlan bekötőút sáros és csúszós lehet az esőtől; haladjon lassan és kerülje a mélyebb pocsolyákat, hogy ne akadjon el az autóval.",
+                "ro": "Drumul de acces neasfaltat poate fi noroios și alunecos; conduceți încet și evitați acumulările mari de apă pentru a nu rămâne blocați cu mașina.",
+                "en": "The unpaved access road can be muddy and slippery; drive slowly and avoid deep water pools to ensure you don't get the vehicle stuck in the soft mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Christina Beach",
+                "hu": "Christina Beach",
+                "ro": "Christina Beach",
+                "en": "Christina Beach"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto und genießen Sie den Blick auf das regnerische Meer, wenn es zu stark schüttet; die Brandung wirkt im Regen kraftvoller.",
+                "hu": "Maradjon az autóban és élvezze az esős tenger látványát, ha túl erősen esne; a hullámtörés ilyenkor sokkal erőteljesebbnek és vadabbnak tűnik.",
+                "ro": "Rămâneți în mașină și admirați marea pe ploaie dacă aversa este prea puternică; valurile par mult mai viguroase și sălbatice sub ploaie.",
+                "en": "Stay inside the car and enjoy the view of the rainy sea if it pours too hard; the surf appears much more powerful and wild during a desert storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagona",
+                "hu": "Lagona",
+                "ro": "Lagona",
+                "en": "Lagona"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund und meiden Sie weiche Sandstellen, die durch den Regen tückisch werden können; die Lagune bietet ein seltenes Farbspiel bei Bewölkung.",
+                "hu": "Parkoljon szilárd talajon és kerülje a puha homokos részeket, amik az esőtől csalókák lehetnek; a lagúna színei felhős időben különlegesek és ritkák.",
+                "ro": "Parcați pe teren solid și evitați zonele cu nisip moale care pot deveni înșelătoare din cauza ploii; laguna oferă un joc de culori rar sub nori.",
+                "en": "Park on solid ground and avoid soft sand patches which can become treacherous when wet; the lagoon offers rare and unique color shifts under cloudy skies."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Inseln",
+                "hu": "A Szigetek",
+                "ro": "Insulele",
+                "en": "The Islands"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht beim Fahren kann durch den Regen und aufgewirbelten Staub eingeschränkt sein; schalten Sie das Licht ein und fahren Sie besonders defensiv zurück.",
+                "hu": "A látási viszonyok az eső és a felvert por miatt romolhatnak; kapcsolja be a fényszórókat és vezessen fokozott óvatossággal a városba menet.",
+                "ro": "Vizibilitatea poate fi redusă din cauza ploii și a prafului ridicat; aprindeți farurile și conduceți preventiv pe drumul de întoarcere spre oraș.",
+                "en": "Visibility can be reduced by rain and kicked-up dust; turn on your headlights and drive defensively on the journey back to the city center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autofahrt beginnt bei angenehmen Temperaturen an der Grotte. Mittags nutzen wir die milde Sonne für kurze Wanderungen im Canyon, ohne die Sommerhitze fürchten zu müssen. Nachmittags besuchen wir die Küstenorte, wobei wir die Heizung für die Fahrten zwischen den Stopps nicht brauchen. Gegen 17:00 Uhr genießen wir den Sonnenuntergang bequem vom Wagen aus, bevor die Nachtluft abkühlt.",
+            "hu": "A téli autós túra kellemes hőmérsékletben indul a Barlangnál. Délben kihasználjuk az enyhe napsütést egy rövid kanyontúrához a tikkasztó hőség nélkül. Délután a tengerparti helyszíneket keressük fel, élvezve a friss levegőt az ablakon át. 17:00 körül kényelmesen, az autóból nézzük végig a naplementét, mielőtt a sivatagi éjszaka hidege megérkezne.",
+            "ro": "Călătoria de iarnă cu mașina începe la temperaturi plăcute la Grotă. La prânz profităm de soarele blând pentru scurte drumeții în canion fără arșița verii. După-amiaza vizităm locurile de pe coastă, savurând aerul proaspăt prin geamul mașinii. Pe la 17:00 admirăm apusul confortabil din mașină înainte ca aerul nopții să devină rece.",
+            "en": "The winter driving tour starts in pleasant temperatures at the Grotto. At noon, we take advantage of the mild sun for short canyon hikes without the summer heat. Afternoon visits to coastal spots are delightful with the fresh air through the windows. Around 17:00, we enjoy the sunset comfortably from the car before the desert night air turns chilly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Grotte",
+                "hu": "Barlang",
+                "ro": "Grota",
+                "en": "grotto"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen speichern die Wärme der Wintersonne; ein kurzer Spaziergang außerhalb des Wagens ist jetzt sehr angenehm und weniger anstrengend als im Sommer.",
+                "hu": "A sziklák jól tárolják a téli napsütés melegét; egy rövid séta az autón kívül most nagyon kellemes és sokkal kevésbé fárasztó, mint a nyári hőségben.",
+                "ro": "Stâncile rețin căldura soarelui de iarnă; o scurtă plimbare în afara mașinii este acum foarte plăcută și mult mai puțin obositoare decât vara.",
+                "en": "The rocks soak up the warmth of the winter sun; a short stroll outside the car is very pleasant now and much less exhausting than in the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Canyon",
+                "hu": "Canyon",
+                "ro": "Canyon",
+                "en": "Canyon"
+              },
+              "tip_5lang": {
+                "de": "Ideal für Erkundungen zu Fuß, da die Temperaturen im Canyon im Winter perfekt sind; parken Sie das Auto so, dass es bei der Rückkehr noch in der Sonne steht.",
+                "hu": "Ideális a gyalogos felfedezéshez, mert a kanyonban a hőmérséklet télen tökéletes; úgy parkoljon, hogy az autó a visszatéréskor még napsütésben legyen.",
+                "ro": "Ideal pentru explorare pe jos, deoarece temperaturile din canion sunt perfecte iarna; parcați mașina astfel încât să rămână la soare până la întoarcere.",
+                "en": "Ideal for exploring on foot as the canyon temperatures are perfect in winter; park your car so it stays in the sun for a warm welcome when you return."
+              }
+            },
+            {
+              "name": {
+                "de": "Große Moschee",
+                "hu": "Nagymecset",
+                "ro": "Marea Moschee",
+                "en": "Big Mosque"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und beleuchtet die Moschee prachtvoll; nutzen Sie den frühen Nachmittag für die besten Lichtverhältnisse für Ihre Aufnahmen.",
+                "hu": "A téli nap alacsonyan jár és pompásan világítja meg a mecsetet; használja ki a kora délutánt a legjobb fényviszonyokhoz a fotói elkészítéséhez.",
+                "ro": "Soarele de iarnă este jos pe cer și luminează splendid moscheea; profitați de după-amiaza devreme pentru cele mai bune condiții de lumină pentru poze.",
+                "en": "The winter sun sits low, illuminating the mosque beautifully; take advantage of the early afternoon for the best lighting conditions for your architectural shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Nabatäischer Hafen",
+                "hu": "Nabateus kikötő",
+                "ro": "Portul Nabateean",
+                "en": "Nabataens Port"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Hafen kann im Winter kühl sein; lassen Sie das Auto als Windschutz stehen, während Sie die historischen Ruinen in Meeresnähe besichtigen.",
+                "hu": "A kikötőnél a szél télen hűvös lehet; használja az autót szélfogóként, miközben a tenger közeli történelmi romokat és a kilátást vizsgálja meg.",
+                "ro": "Vântul în port poate fi rece iarna; folosiți mașina ca paravan împotriva vântului în timp ce vizitați ruinele istorice de lângă mare.",
+                "en": "The wind at the port can be chilly in winter; use the car as a windbreak while you examine the historical ruins and the view near the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Christina Beach",
+                "hu": "Christina Beach",
+                "ro": "Christina Beach",
+                "en": "Christina Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Cafés hier sind im Winter gemütlich; parken Sie nah am Strand, um bei Bedarf schnell warme Kleidung aus dem Kofferraum holen zu können.",
+                "hu": "Az itteni kávézók télen is hívogatóak; parkoljon közel a parthoz, hogy szükség esetén gyorsan elővehesse a meleg ruhákat a csomagtartóból.",
+                "ro": "Cafenelele de aici sunt primitoare iarna; parcați aproape de plajă pentru a putea lua rapid haine mai groase din portbagaj dacă este nevoie.",
+                "en": "The beachside cafes are cozy in winter; park close to the shore so you can quickly grab warmer layers from the trunk as the afternoon cools down."
+              }
+            },
+            {
+              "name": {
+                "de": "Lagona",
+                "hu": "Lagona",
+                "ro": "Lagona",
+                "en": "Lagona"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort für den Sonnenuntergang im Wagen; die tiefstehende Sonne spiegelt sich im ruhigen Winterwasser der Lagune besonders schön wider.",
+                "hu": "Tökéletes helyszín a naplemente megtekintéséhez az autóból; az alacsonyan járó nap különösen szépen tükröződik a lagúna nyugodt téli vizében.",
+                "ro": "Locul perfect pentru a vedea apusul din mașină; soarele jos se reflectă superb în apele liniștite ale lagunei în timpul după-amiezelor de iarnă.",
+                "en": "The perfect spot for watching the sunset from your car; the low sun reflects beautifully on the calm winter waters of the lagoon during the golden hour."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Inseln",
+                "hu": "A Szigetek",
+                "ro": "Insulele",
+                "en": "The Islands"
+              },
+              "tip_5lang": {
+                "de": "Da es nach 17:00 Uhr schnell dunkel wird, ist die Rückfahrt im Auto komfortabel; schalten Sie die Heizung ein, sobald die Wüstenkälte spürbar wird.",
+                "hu": "Mivel 17:00 után gyorsan sötétedik, az autós visszaút kényelmes; kapcsolja be a fűtést, amint a sivatagi éjszaka hidege érezhetővé válik a város felé.",
+                "ro": "Deoarece se întunecă repede după 17:00, întoarcerea cu mașina este confortabilă; porniți căldura imediat ce frigul deșertului devine sesizabil.",
+                "en": "Since it gets dark quickly after 17:00, the drive back is comfortable; turn on the heater as soon as the desert night chill starts to settle in."
+              }
+            }
+          ]
+        }
       }
     }
   }

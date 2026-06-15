@@ -160,6 +160,196 @@
         "hu": "A séta a Baie de Locquirec lélegzetelállító panorámájával kezdődik, amely a friss tengeri levegővel azonnal felébreszti az érzékeket. A vízpartot követve megérkezik a történelmi Église Saint-Jacques-hoz, ahol az ősi kövek a tengeri örökségről mesélnek.\n\nDélben sétáljon le a Plage du Port strandjához, hogy elmerüljön a kikötő élénk hangulatában. A ringatózó halászhajók és a homokos part kiváló hátteret biztosítanak egy ebédhez vagy egy kellemes tengerparti sétához a rakparton.\n\nA délután a félsziget parti varázsának mélyebb felfedezésére invitálja Önt. Megtekintheti a Plage de Porz ar Villiec homokos öblét, majd érezheti az óceán nyers erejét és frissítő szellőjét a gyönyörű Plage de la Palud partján.\n\nAz este közeledtével fejezze be sétáját a Plage de la Roche Tombée-nél. A drámai, zord sziklaalakzatok, amelyeket a halványuló napfény fürdet, felejthetetlen és békés lezárást nyújtanak ennek az igazán magával ragadó breton kalandnak.",
         "ro": "Turul pietonal începe cu panoramele uluitoare ale Baie de Locquirec, trezindu-vă simțurile cu aerul proaspăt. Urmând faleza, veți ajunge la istorica biserică Église Saint-Jacques, unde moștenirea maritimă locală vorbește prin pietrele antice.\n\nLa prânz, coborâți spre Plage du Port pentru a vă bucura de atmosfera plină de viață. Bărcile de pescuit ce se leagănă și nisipul fin oferă un fundal vibrant pentru un prânz la malul mării sau o plimbare relaxantă de-a lungul cheiului.\n\nDupă-amiaza vă invită să explorați farmecul coastei peninsulei. Veți descoperi golful cu nisip Plage de Porz ar Villiec înainte de a simți briza proaspătă a oceanului pe plaja deschisă și frumos expusă a Plage de la Palud.\n\nPe măsură ce se apropie seara, încheiați plimbarea la Plage de la Roche Tombée. Formațiunile stâncoase dramatice scăldate în lumina palidă a apusului creează un final de neuitat și liniștit pentru această frumoasă aventură bretonă.",
         "en": "Your walking tour begins with the breathtaking panoramas of the Baie de Locquirec, gently waking up the senses with the crisp sea air. Following the waterfront, you'll arrive at the historic Église Saint-Jacques, where local maritime heritage speaks through ancient stones.\n\nBy midday, stroll down to Plage du Port to soak in the lively harbor atmosphere. The bobbing fishing boats and sheltered sands provide a vibrant backdrop for a seaside lunch or a relaxing coastal promenade along the quay.\n\nThe afternoon invites you deeper into the peninsula's coastal charm. You will discover the charming sandy cove of Plage de Porz ar Villiec before feeling the raw ocean breeze at the beautifully exposed Plage de la Palud.\n\nAs evening approaches, conclude your walk at Plage de la Roche Tombée. The dramatic, rugged rock formations bathed in the fading light create an unforgettable and peaceful end to your immersive Breton adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit einem nebligen Spaziergang entlang der Bucht, wo die Gezeiten auch im Regen faszinieren. Mittags bietet die Kirche Saint-Jacques einen trockenen Rückzugsort voller Geschichte. Nachmittags erkunden wir die wilden Strände unter einem dramatischen grauen Himmel, bevor wir den Tag in einem gemütlichen Hafenbistro bei heißem Tee ausklingen lassen, während der Regen prasselt.",
+            "hu": "A reggel ködös sétával indul az öböl mentén, ahol az árapály esőben is lenyűgöző látvány. Délben a Saint-Jacques templom nyújt száraz és történelmi menedéket a zápor elől. Délután a vadpartokat fedezzük fel a drámai szürke égbolt alatt, majd a napot egy kikötői bisztróban zárjuk egy forró tea mellett, hallgatva az ablakon kopogó esőt.",
+            "ro": "Dimineața începe cu o plimbare cețoasă de-a lungul golfului, unde mareele sunt fascinante chiar și pe ploaie. La prânz, biserica Saint-Jacques oferă un refugiu uscat și istoric. După-amiaza explorăm plajele sălbatice sub un cer gri dramatic, apoi încheiem ziua într-un bistro din port cu un ceai fierbinte, ascultând ploaia bătând în geam.",
+            "en": "The morning begins with a misty walk along the bay, where the tides are fascinating even in the rain. At noon, Saint-Jacques Church provides a dry and historical refuge. In the afternoon, we explore the wild beaches under a dramatic grey sky, then end the day in a harbor bistro with hot tea, listening to the rain drumming on the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baie de Locquirec",
+                "hu": "Baie de Locquirec",
+                "ro": "Baie de Locquirec",
+                "en": "Baie de Locquirec"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Wolken über der Bucht; tragen Sie wasserfeste Wanderschuhe, da die ufernahen Wege bei Regen rutschig und schlammig sein können.",
+                "hu": "Figyelje a felhők játékát az öböl felett; viseljen vízálló túrabakancsot, mivel a parti ösvények esőben csúszósak és sárosak lehetnek.",
+                "ro": "Observați jocul norilor deasupra golfului; purtați bocanci de drumeție impermeabili, deoarece potecile de coastă pot fi alunecoase și noroioase pe ploaie.",
+                "en": "Watch the play of clouds over the bay; wear waterproof hiking boots as the coastal paths can be slippery and muddy during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques",
+                "hu": "Église Saint-Jacques",
+                "ro": "Église Saint-Jacques",
+                "en": "Église Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Regenschauer, um die prächtigen Deckengemälde im Inneren zu bewundern; der stille, trockene Kirchenraum ist der ideale Ort für eine meditative Pause.",
+                "hu": "Használja ki az esőt a belső tér pompás mennyezeti festményeinek megcsodálására; a csendes, száraz templomhajó ideális hely egy meditatív pihenőre.",
+                "ro": "Profitați de ploaie pentru a admira splendidele picturi de pe tavanul interior; nava liniștită și uscată a bisericii este locul ideal pentru o pauză meditativă.",
+                "en": "Take advantage of the rain to admire the magnificent ceiling paintings inside; the quiet, dry nave is an ideal place for a meditative break."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Port",
+                "hu": "Plage du Port",
+                "ro": "Plage du Port",
+                "en": "Plage du Port"
+              },
+              "tip_5lang": {
+                "de": "Die Fischerboote wirken im Regen besonders pittoresk; suchen Sie bei starkem Guss Schutz unter den Markisen der nahegelegenen Cafés direkt am Kai.",
+                "hu": "A halászhajók különösen festőiek az esőben; heves zápor esetén keressen menedéket a közeli kávézók napellenzői alatt közvetlenül a rparton.",
+                "ro": "Bărcile de pescuit sunt deosebit de pitorești în ploaie; în caz de aversă puternică, căutați adăpost sub copertinele cafenelelor din apropiere, chiar pe chei.",
+                "en": "The fishing boats look particularly picturesque in the rain; in case of a heavy downpour, seek shelter under the awnings of nearby cafes right on the quay."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Porz ar Villiec",
+                "hu": "Plage de Porz ar Villiec",
+                "ro": "Plage de Porz ar Villiec",
+                "en": "Plage de Porz ar Villiec"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Brandung an den Felsen, die bei Regen sehr dramatisch wirkt; ein stabiler Ostfriesennerz schützt Sie hier optimal vor dem Wind.",
+                "hu": "Tapasztalja meg a szikláknak csapódó hullámok látványát, ami esőben rendkívül drámai; egy masszív esőkabát itt optimális védelmet nyújt a szél ellen.",
+                "ro": "Experimentați spectacolul valurilor care se sparg de stânci, extrem de dramatic pe ploaie; o pelerină de ploaie robustă vă oferă aici protecție optimă.",
+                "en": "Experience the sight of waves crashing against the rocks, which is extremely dramatic in the rain; a sturdy raincoat provides optimal protection here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Palud",
+                "hu": "Plage de la Palud",
+                "ro": "Plage de la Palud",
+                "en": "Plage de la Palud"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im feuchten Sand nach ausgewaschenen Muscheln, die im Regen glänzen; achten Sie auf die Flut, die bei Tiefdruckgebieten oft schneller steigt.",
+                "hu": "Keressen a nedves homokban kimosott kagylókat, amelyek csillognak az esőben; figyeljen az árapályra, ami alacsony légnyomásnál gyakran gyorsabban emelkedik.",
+                "ro": "Căutați scoici spălate în nisipul umed, care strălucesc în ploaie; fiți atenți la flux, care crește adesea mai repede în condiții de presiune scăzută.",
+                "en": "Look for washed-up shells in the wet sand that glisten in the rain; pay attention to the tide, which often rises faster during low-pressure systems."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roche Tombée",
+                "hu": "Plage de la Roche Tombée",
+                "ro": "Plage de la Roche Tombée",
+                "en": "Plage de la Roche Tombée"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an diesem abgelegenen Ort; nach dem Spaziergang empfiehlt sich ein heißes Bad, um die klamme Kälte der bretonischen See zu vertreiben.",
+                "hu": "Élvezze a magányt ezen a távoli helyen; a séta után ajánlott egy forró fürdő, hogy elűzze a breton tenger nyirkos hidegét a csontjaiból.",
+                "ro": "Bucurați-vă de singurătate în acest loc retras; după plimbare, se recomandă o baie fierbinte pentru a alunga umezeala rece a mării bretone.",
+                "en": "Enjoy the solitude in this remote spot; after the walk, a hot bath is recommended to dispel the damp chill of the Breton sea from your bones."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft sorgt am Morgen für eine weite Sicht über den Ärmelkanal. Mittags bietet die Kirche eine andächtige Stille und Schutz vor dem Wind. Am Nachmittag erleben wir die raue Schönheit der Küste im sanften Winterlicht, bevor die Sonne bereits gegen 17:00 Uhr untergeht. Den Abend verbringen wir gemütlich am Kaminfeuer in einer lokalen Herberge mit regionalen Spezialitäten.",
+            "hu": "A tiszta téli levegő reggel messzi kilátást biztosít a La Manche-csatornára. Délben a templom áhítatos csendet és védelmet nyújt a metsző szél ellen. Délután a partvidék nyers szépségét élvezzük a lágy téli fényekben, mielőtt a nap 17:00 körül lenyugszik. Az estét egy helyi fogadó kandallója mellett töltjük, regionális különlegességeket kóstolva.",
+            "ro": "Aerul curat de iarnă oferă dimineața o vizibilitate largă peste Canalul Mânecii. La prânz, biserica oferă o liniște pioasă și protecție împotriva vântului tăios. După-amiaza ne bucurăm de frumusețea crudă a coastei în lumina blândă de iarnă, înainte ca soarele să apună în jurul orei 17:00. Seara o petrecem lângă șemineul unei pensiuni locale.",
+            "en": "The clear winter air provides wide views over the English Channel in the morning. At noon, the church offers prayerful silence and protection from the biting wind. In the afternoon, we enjoy the raw beauty of the coast in soft winter light before the sun sets around 5:00 PM. We spend the evening by the fireplace of a local inn, tasting regional specialties."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Baie de Locquirec",
+                "hu": "Baie de Locquirec",
+                "ro": "Baie de Locquirec",
+                "en": "Baie de Locquirec"
+              },
+              "tip_5lang": {
+                "de": "Die Bucht wirkt im Winterlicht fast silbern; ziehen Sie sich nach dem Zwiebelprinzip an, um gegen den eisigen Seewind gewappnet zu sein.",
+                "hu": "Az öböl szinte ezüstösnek tűnik a téli fényben; öltözködjön rétegesen, hogy felkészüljön a jeges tengeri szélre a nyílt parton.",
+                "ro": "Golful pare aproape argintiu în lumina iernii; îmbrăcați-vă în straturi pentru a fi pregătiți împotriva vântului înghețat de mare pe coasta deschisă.",
+                "en": "The bay looks almost silvery in the winter light; dress in layers to be prepared for the icy sea wind on the open coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques",
+                "hu": "Église Saint-Jacques",
+                "ro": "Église Saint-Jacques",
+                "en": "Église Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe abseits der Touristenmassen; bringen Sie ein Sitzkissen mit, da die historischen Holzbänke im Winter sehr kalt sein können.",
+                "hu": "Élvezze a nyugalmat a turistahadaktól távol; vigyen magával egy ülőpárnát, mivel a történelmi fapadok télen nagyon hidegek lehetnek.",
+                "ro": "Bucurați-vă de liniște departe de masele de turiști; aduceți o pernă de scaun, deoarece băncile istorice din lemn pot fi foarte reci iarna.",
+                "en": "Enjoy the tranquility away from the tourist crowds; bring a seat cushion, as the historical wooden benches can be very cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Port",
+                "hu": "Plage du Port",
+                "ro": "Plage du Port",
+                "en": "Plage du Port"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen ist im Winter angenehm leer; nutzen Sie die kurzen Wege zwischen den Kais, um sich schnell wieder in ein beheiztes Café zu retten.",
+                "hu": "A kikötő télen kellemesen üres; használja ki a rakpartok közötti rövid távolságokat, hogy gyorsan egy fűtött kávézóba menekülhessen a hideg elől.",
+                "ro": "Portul este plăcut de gol iarna; profitați de distanțele scurte între chei pentru a vă putea refugia rapid într-o cafenea încălzită.",
+                "en": "The harbor is pleasantly empty in winter; take advantage of the short distances between the quays to quickly duck into a heated cafe."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de Porz ar Villiec",
+                "hu": "Plage de Porz ar Villiec",
+                "ro": "Plage de Porz ar Villiec",
+                "en": "Plage de Porz ar Villiec"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne sorgt für fantastische Fotomotive an den Klippen; achten Sie auf glatte Stellen auf den Treppen, die zum Strand führen.",
+                "hu": "Az alacsonyan járó nap fantasztikus fotótémákat kínál a szikláknál; ügyeljen a jeges foltokra a strandra vezető lépcsőkön.",
+                "ro": "Soarele jos oferă motive fotografice fantastice la stânci; aveți grijă la porțiunile înghețate de pe scările care duc spre plajă.",
+                "en": "The low sun provides fantastic photo opportunities at the cliffs; watch out for icy patches on the stairs leading down to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Palud",
+                "hu": "Plage de la Palud",
+                "ro": "Plage de la Palud",
+                "en": "Plage de la Palud"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Winterspaziergang regt den Kreislauf an; packen Sie eine Thermoskanne mit heißem Kakao ein, um sich unterwegs aufzuwärmen.",
+                "hu": "Egy tempós téli séta serkenti a keringést; csomagoljon egy termoszt forró kakaóval, hogy útközben is felmelegedhessen a parton.",
+                "ro": "O plimbare vioaie de iarnă stimulează circulația; luați un termos cu cacao fierbinte pentru a vă încălzi pe parcurs pe plajă.",
+                "en": "A brisk winter walk stimulates circulation; pack a thermos with hot cocoa to warm up along the way on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Roche Tombée",
+                "hu": "Plage de la Roche Tombée",
+                "ro": "Plage de la Roche Tombée",
+                "en": "Plage de la Roche Tombée"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bizarren Eisformationen, die sich bei Frost an den Felsen bilden können; kehren Sie vor 17:00 Uhr zurück, bevor es dunkel wird.",
+                "hu": "Csodálja meg a bizarr jégalakzatokat, amelyek fagy esetén a sziklákon képződhetnek; térjen vissza 17:00 előtt, mielőtt teljesen besötétedik.",
+                "ro": "Admirați formațiunile bizare de gheață care se pot forma pe stânci în caz de îngheț; întoarceți-vă înainte de ora 17:00, înainte de lăsarea întunericului.",
+                "en": "Admire the bizarre ice formations that can form on the rocks during frost; return before 5:00 PM before it gets completely dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Indítsa kerékpártúráját a csodálatos Plage des Sables-Blancs strandon, hagyva, hogy a friss tengeri szellő felfrissítse. Hamarosan a város történelmi szívébe pedálozva megcsodálhatja az Église Saint-Jacques lenyűgöző ősi építészetét.\n\nDél körül guruljon le a Plage du Port-hoz, hogy a színes kikötő mellett megpihenjen. A partvonal mentén továbbhaladva a Baie de Locquirec lélegzetelállító kilátásai lenyűgöző és zavartalan tengeri panorámát nyújtanak a kerékpárosoknak.\n\nDélután az útvonal dél felé vezet a figyelemre méltó Thermes du Hogolo romjaihoz, ahol az ősi gallo-román fürdők a múlt történeteit suttogják. A kerékpározás itt hihetetlenül kellemes élmény a természet lágy ölén.\n\nAhogy a nap csendesen a végéhez közeledik, egy rövid út elvezeti a Plage des Roches d'Argent strandjához. Az ezüstös sziklák megragadják az aranyló fényeket, nyugodt helyet kínálva a parti felfedezés aktív napjának lezárásához.",
         "ro": "Începeți traseul cu bicicleta la magnifica Plage des Sables-Blancs, lăsând briza proaspătă să vă revigoreze. Curând, veți pedala în inima istorică a orașului pentru a vă minuna de arhitectura impresionantă a bisericii Église Saint-Jacques.\n\nÎn jurul prânzului, coborâți spre Plage du Port pentru a vă odihni lângă portul colorat. Continuând de-a lungul liniei de coastă, priveliștile uluitoare ale Baie de Locquirec oferă o panoramă marină uimitoare și neîntreruptă a naturii.\n\nDupă-amiaza, traseul se îndreaptă spre sud către remarcabilele Thermes du Hogolo, unde ruinele băilor galo-romane șoptesc povești de istorie. Ciclismul aici îmbină perfect farmecul istoric cu frumusețea naturală a țărmului stâncos.\n\nPe măsură ce ziua se încheie liniștit, o scurtă plimbare vă duce la Plage des Roches d'Argent. Stâncile cu nuanțe argintii captează lumina aurie, oferind un loc liniștit pentru a reflecta asupra unei zile active de explorare de coastă.",
         "en": "Kick off your cycling route at the magnificent Plage des Sables-Blancs, letting the fresh sea breeze invigorate you. Soon, you will pedal into the historic heart of the town to marvel at the impressive architecture of Église Saint-Jacques.\n\nAround midday, glide down to Plage du Port to rest by the colorful harbor and watch the gentle ebb and flow of the boats. Continuing along the coastline, the breathtaking vistas of the Baie de Locquirec provide a stunning, uninterrupted panorama.\n\nIn the afternoon, your route heads south to the remarkable Thermes du Hogolo, where ancient Gallo-Roman bath ruins whisper tales of history. The cycling here is pleasant and perfectly blends historical intrigue with the natural beauty of the shoreline.\n\nAs the day gently winds down, a short ride brings you to Plage des Roches d'Argent. The striking silver-tinged rocks catch the golden light, offering a tranquil place to dismount and reflect on an active day of coastal exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour startet mit einer Fahrt zu den Sables-Blancs, wobei wir auf asphaltierten Wegen bleiben. Mittags bietet die Kirche Saint-Jacques den perfekten trockenen Stopp. Am Nachmittag radeln wir entlang der Bucht zu den römischen Thermen, wobei wir auf rutschiges Laub achten. Der Tag endet mit einer schnellen Fahrt zurück, gefolgt von einer heißen Dusche und bretonischem Cidre im Warmen.",
+            "hu": "A biciklitúra a Sables-Blancs felé indul, szigorúan az aszfaltozott utakon maradva az esőben. Délben a Saint-Jacques templom tökéletes száraz megálló. Délután az öböl mentén tekerünk a római termákhoz, figyelve a csúszós levelekre az úton. A nap gyors hazatekeréssel zárul, amit egy forró zuhany és melengető breton cider követ.",
+            "ro": "Turul cu bicicleta începe spre Sables-Blancs, rămânând strict pe drumurile asfaltate pe ploaie. La prânz, biserica Saint-Jacques este oprirea uscată perfectă. După-amiaza pedalăm de-a lungul golfului spre termele romane, atenți la frunzele alunecoase de pe drum. Ziua se încheie cu o întoarcere rapidă, urmată de un duș fierbinte și cidru breton.",
+            "en": "The bike tour starts towards Sables-Blancs, staying strictly on paved roads in the rain. At noon, Saint-Jacques Church is the perfect dry stop. In the afternoon, we pedal along the bay to the Roman baths, watching out for slippery leaves on the road. The day ends with a quick ride back, followed by a hot shower and warming Breton cider."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage des Sables-Blancs",
+                "hu": "Plage des Sables-Blancs",
+                "ro": "Plage des Sables-Blancs",
+                "en": "Plage des Sables-Blancs"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da nasse Felgen den Bremsweg verlängern; der Strand wirkt im Regen mystisch und verlassen.",
+                "hu": "Indulás előtt ellenőrizze a fékeket, mert a nedves felnik meghosszabbítják a féktávot; a strand esőben misztikus és elhagyatott látványt nyújt.",
+                "ro": "Verificați frânele înainte de plecare, deoarece jantele umede prelungesc distanța de frânare; plaja oferă o priveliște mistică și pustie pe ploaie.",
+                "en": "Check your brakes before departing, as wet rims extend the braking distance; the beach offers a mystical and deserted sight in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques",
+                "hu": "Église Saint-Jacques",
+                "ro": "Église Saint-Jacques",
+                "en": "Église Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter dem Vordach ab und nutzen Sie die Pause, um Ihre Regenbekleidung zu lüften und die Kunstwerke im Inneren zu bestaunen.",
+                "hu": "Támassza le a kerékpárt az előtető alatt, és használja ki a szünetet az esőruházat szellőztetésére és a belső műalkotások megtekintésére.",
+                "ro": "Parcați bicicleta sub copertină și folosiți pauza pentru a vă aerisi hainele de ploaie și pentru a admira operele de artă din interior.",
+                "en": "Park your bike under the overhang and use the break to air out your rain gear and admire the artworks inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Port",
+                "hu": "Plage du Port",
+                "ro": "Plage du Port",
+                "en": "Plage du Port"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie beim Radfahren die rutschigen Metallschienen im Hafenbereich; die nassen Pflastersteine erfordern Ihre volle Konzentration.",
+                "hu": "Kerülje el a csúszós fém síneket a kikötői területen; a nedves macskaköveken való tekerés teljes koncentrációt igényel.",
+                "ro": "Evitați șinele metalice alunecoase din zona portului; pedalatul pe pavajul umed necesită concentrare maximă.",
+                "en": "Avoid slippery metal tracks in the harbor area; cycling on the wet cobblestones requires your full concentration."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie de Locquirec",
+                "hu": "Baie de Locquirec",
+                "ro": "Baie de Locquirec",
+                "en": "Baie de Locquirec"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße bietet auch bei Regen tolle Ausblicke; achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+                "hu": "A parti út esőben is remek kilátást nyújt; ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek az aszfalton.",
+                "ro": "Drumul de coastă oferă priveliști excelente chiar și pe ploaie; fiți atenți la bălți, care pot ascunde gropi adânci în asfalt.",
+                "en": "The coastal road offers great views even in the rain; watch out for puddles that could hide deep potholes in the asphalt."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes du Hogolo",
+                "hu": "Thermes du Hogolo",
+                "ro": "Thermes du Hogolo",
+                "en": "Thermes du Hogolo"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauern saugen den Regen auf und verfärben sich dunkel; betreten Sie die Ausgrabungsstätte vorsichtig, da die alten Steine sehr glatt sind.",
+                "hu": "Az antik falak felszívják az esőt és sötét tónust öltenek; óvatosan lépjen az ásatási területre, mert a régi kövek rendkívül csúszósak.",
+                "ro": "Zidurile antice absorb ploaia și capătă o nuanță închisă; pășiți cu grijă în situl arheologic, deoarece pietrele vechi sunt extrem de alunecoase.",
+                "en": "The ancient walls absorb the rain and turn dark; step carefully into the excavation site as the old stones are extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Roches d'Argent",
+                "hu": "Plage des Roches d'Argent",
+                "ro": "Plage des Roches d'Argent",
+                "en": "Plage des Roches d'Argent"
+              },
+              "tip_5lang": {
+                "de": "Die 'Silberfelsen' glänzen im Regen besonders intensiv; verstauen Sie Ihre Kamera in einer wasserdichten Tasche für den Transport auf dem Gepäckträger.",
+                "hu": "Az „Ezüst-sziklák” különösen intenzíven csillognak az esőben; tartsa a fényképezőgépét vízhatlan táskában a csomagtartón való szállítás közben.",
+                "ro": "„Stâncile de argint” strălucesc deosebit de intens în ploaie; păstrați aparatul foto într-o geantă impermeabilă în timpul transportului pe portbagaj.",
+                "en": "The 'Silver Rocks' glisten particularly intensely in the rain; keep your camera in a waterproof bag while transporting it on the bike rack."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dicken Handschuhen radeln wir am Wintermorgen zu den Sables-Blancs, wo uns eine frische Brise erwartet. Die Mittagsrast in der Kirche bietet Schutz vor dem beißenden Wind. Nachmittags führt die Tour entlang der stillen Küste zu den Thermen, immer das Licht des frühen Sonnenuntergangs im Blick. Der Abend gehört dem Aufwärmen bei einer kräftigen Fischsuppe in einer gemütlichen Hafenbar.",
+            "hu": "Vastag kesztyűben tekerünk a téli reggelen a Sables-Blancs felé, ahol friss szellő fogad minket. A déli pihenő a templomban védelmet nyújt a metsző szél elől. Délután a túra a csendes part mentén vezet a termákhoz, figyelve a korai naplemente fényeit. Az este a felmelegedésé egy laktató halleves mellett egy hangulatos kikötői bárban.",
+            "ro": "Cu mănuși groase pedalăm în dimineața de iarnă spre Sables-Blancs, unde ne așteaptă o briză proaspătă. Pauza de prânz la biserică oferă protecție împotriva vântului tăios. După-amiaza turul continuă pe coasta liniștită spre terme, urmărind lumina apusului timpuriu. Seara este dedicată încălzirii cu o supă de pește consistentă.",
+            "en": "With thick gloves, we cycle on the winter morning towards Sables-Blancs, where a fresh breeze awaits us. The noon break at the church provides protection from the biting wind. In the afternoon, the tour continues along the quiet coast to the baths, keeping an eye on the early sunset lights. The evening is dedicated to warming up with a hearty fish soup in a cozy harbor bar."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage des Sables-Blancs",
+                "hu": "Plage des Sables-Blancs",
+                "ro": "Plage des Sables-Blancs",
+                "en": "Plage des Sables-Blancs"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Luft ist herrlich erfrischend beim Radeln; tragen Sie eine winddichte Mütze unter dem Helm, um den Wärmeverlust über den Kopf zu minimieren.",
+                "hu": "A hideg levegő remekül felfrissíti tekerés közben; viseljen szélálló sapkát a sisak alatt, hogy minimalizálja a fején keresztüli hőveszteséget.",
+                "ro": "Aerul rece este minunat de revigorant în timpul pedalatului; purtați o căciulă rezistentă la vânt sub cască pentru a minimiza pierderea de căldură.",
+                "en": "The cold air is wonderfully refreshing while cycling; wear a windproof cap under your helmet to minimize heat loss through your head."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques",
+                "hu": "Église Saint-Jacques",
+                "ro": "Église Saint-Jacques",
+                "en": "Église Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den windgeschützten Vorraum der Kirche, um kurz die eingefrorenen Finger zu bewegen; der Innenraum strahlt eine würdevolle Winterstille aus.",
+                "hu": "Használja a templom szélvédett előcsarnokát az elgémberedett ujjak átmozgatására; a belső tér méltóságteljes téli csendet áraszt.",
+                "ro": "Folosiți vestibulul bisericii ferit de vânt pentru a vă mișca degetele amorțite; interiorul emană o liniște demnă de iarnă.",
+                "en": "Use the wind-sheltered vestibule of the church to briefly move frozen fingers; the interior exudes a dignified winter silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Port",
+                "hu": "Plage du Port",
+                "ro": "Plage du Port",
+                "en": "Plage du Port"
+              },
+              "tip_5lang": {
+                "de": "Kettenöl wird bei Kälte zäher; ein kurzer Check des Antriebs im Hafen stellt sicher, dass Sie für den Rest der Tour keine mechanischen Probleme haben.",
+                "hu": "A láncolaj hidegben sűrűbbé válik; egy gyors ellenőrzés a kikötőben biztosítja, hogy a túra hátralévő részében ne legyenek mechanikai problémái.",
+                "ro": "Uleiul de lanț devine mai vâscos la frig; o scurtă verificare a transmisiei în port vă asigură că nu veți avea probleme mecanice în restul turului.",
+                "en": "Chain oil becomes more viscous in the cold; a quick check of the drivetrain in the harbor ensures you won't have mechanical problems for the rest of the tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie de Locquirec",
+                "hu": "Baie de Locquirec",
+                "ro": "Baie de Locquirec",
+                "en": "Baie de Locquirec"
+              },
+              "tip_5lang": {
+                "de": "Der Radweg entlang der Bucht kann bei Frost stellenweise glatt sein; reduzieren Sie in Kurven die Geschwindigkeit und fahren Sie vorausschauend.",
+                "hu": "Az öböl menti kerékpárút fagy esetén helyenként csúszós lehet; kanyarokban csökkentse a sebességet, és közlekedjen fokozott elővigyázatossággal.",
+                "ro": "Pista de biciclete de-a lungul golfului poate fi alunecoasă pe alocuri în caz de îngheț; reduceți viteza în curbe și conduceți preventiv.",
+                "en": "The bike path along the bay can be slippery in places during frost; reduce speed in curves and cycle with extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes du Hogolo",
+                "hu": "Thermes du Hogolo",
+                "ro": "Thermes du Hogolo",
+                "en": "Thermes du Hogolo"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Ruinen; planen Sie Ihren Aufenthalt so, dass Sie noch vor Einbruch der Dämmerung aufbrechen.",
+                "hu": "Az alacsony téli nap hosszú árnyékokat vet a romokra; úgy tervezze az itt tartózkodást, hogy még a szürkület beállta előtt útnak indulhasson.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste ruine; planificați-vă șederea astfel încât să porniți la drum înainte de lăsarea amurgului.",
+                "en": "The low winter sun casts long shadows on the ruins; plan your stay so that you can set off before twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage des Roches d'Argent",
+                "hu": "Plage des Roches d'Argent",
+                "ro": "Plage des Roches d'Argent",
+                "en": "Plage des Roches d'Argent"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht lässt den Glimmerschiefer der Felsen magisch funkeln; treten Sie zügig in die Pedale, um vor dem Sonnenuntergang um 17:00 Uhr zurück zu sein.",
+                "hu": "A téli fényben mágikusan csillog a sziklák csillámpalája; tekerjen tempósan, hogy a 17:00 órai naplemente előtt visszaérjen a városba.",
+                "ro": "Lumina iernii face ca mica-șistul stâncilor să strălucească magic; pedalați vioi pentru a vă întoarce în oraș înainte de apusul de la ora 17:00.",
+                "en": "The winter light makes the mica schist of the rocks sparkle magically; pedal briskly to be back in town before the 5:00 PM sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +871,224 @@
         "hu": "Autós túrája a pezsgő Plage du Moulin de la Rive-nél kezdődik, ahol lenyűgöző nyugati hullámok fogadják. Innen egy festői út vezet a szárazföld belsejébe a nyugodt és történelmi Notre-Dame de Linguez kápolnához.\n\nDélben induljon vissza a part felé, hogy élvezze a csendes belső öböl látványát a Plage du Fond de la Baie strandján. A nyugodt tempó lehetővé teszi a változó árapály megfigyelését, mielőtt az ősi Thermes du Hogolo romokhoz hajtana.\n\nA délután folyamán panorámás autózás várja a gyönyörű Baie de Locquirec partja mentén. Ezután parkoljon le a városközpont közelében, hogy megcsodálja a kulturális örökséget őrző, lenyűgöző Église Saint-Jacques kőfalait.\n\nAhogy a nap kezd lemenni, tegyen egy utolsó utat a Plage de la Palud strandhoz. A nyílt tengerre néző partszakasz látványos part menti kilátást és tökéletes természeti színházat kínál a lenyugvó nap ragyogó színeinek megcsodálásához.",
         "ro": "Traseul auto începe la plaja captivantă Plage du Moulin de la Rive, unde valurile impresionante vă întâmpină. De acolo, o călătorie pitorească vă duce spre interior la capela istorică și liniștită Notre-Dame de Linguez.\n\nLa prânz, conduceți înapoi spre coastă pentru a vă bucura de priveliștile interioare la Plage du Fond de la Baie. Ritmul relaxat vă permite să apreciați mareele înainte de a vizita vechile ruine ale Thermes du Hogolo.\n\nDupă-amiaza se desfășoară cu drumuri panoramice de-a lungul frumoasei Baie de Locquirec. Apoi veți parca aproape de centrul orașului pentru a admira moștenirea culturală păstrată în cadrul impunătoarei biserici Église Saint-Jacques.\n\nPe măsură ce soarele începe să coboare, faceți o ultimă călătorie spre Plage de la Palud. Având vedere la mare deschisă, această plajă oferă priveliști spectaculoase și un teatru natural perfect pentru a savura culorile amurgului.",
         "en": "Your driving itinerary sets off at the exhilarating Plage du Moulin de la Rive, where the impressive western waves greet you. From there, a scenic drive takes you inland to the serene and historic Notre-Dame de Linguez chapel.\n\nBy midday, navigate back toward the coast to enjoy the tranquil inner bay views at Plage du Fond de la Baie. The relaxed pace allows you to fully appreciate the shifting tides before proceeding to the ancient Thermes du Hogolo ruins.\n\nThe afternoon unfolds with panoramic drives alongside the beautiful Baie de Locquirec. You will then park near the town center to admire the steadfast stone walls and cultural heritage preserved within Église Saint-Jacques.\n\nAs the sun begins its descent, take a final drive out to Plage de la Palud. Overlooking the open sea, this exposed beach offers spectacular coastal vistas and the perfect natural theater to enjoy the brilliant colors of the twilight sky."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour bietet den Vorteil, Locquirec trocken zu erkunden. Wir starten am Moulin de la Rive und nutzen den Wagen als mobilen Unterschlupf. Mittags besuchen wir die Kapelle und die Thermen, wobei wir die kurzen Sprints durch den Regen mit Sitzheizung belohnen. Der Nachmittag führt uns zur Bucht und zur Kirche, bevor wir den Tag bei einer Panoramafahrt entlang der Küstenstraße im Trockenen beenden.",
+            "hu": "Az autós túra előnye, hogy Locquirecet szárazon fedezhetjük fel. A Moulin de la Rive-nél kezdünk, az autót mobil menedékként használva. Délben meglátogatjuk a kápolnát és a termákat, az esőben megtett rövid sprinteket ülésfűtéssel jutalmazva. A délután az öbölhöz és a templomhoz vezet, majd a napot egy panorámás tengerparti autózással zárjuk, védve az elemektől.",
+            "ro": "Avantajul turului cu mașina este explorarea uscată a orașului Locquirec. Începem la Moulin de la Rive, folosind mașina ca adăpost mobil. La prânz vizităm capela și termele, recompensând scurtul sprint prin ploaie cu încălzirea în scaune. După-amiaza ne duce la golf și la biserică, apoi încheiem ziua cu o plimbare panoramică pe coastă, la adăpost.",
+            "en": "The advantage of the car tour is exploring Locquirec while staying dry. We start at Moulin de la Rive, using the car as a mobile shelter. At noon, we visit the chapel and the baths, rewarding the short sprints through the rain with seat heating. The afternoon leads us to the bay and the church, then we end the day with a panoramic coastal drive, sheltered from the elements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage du Moulin de la Rive",
+                "hu": "Plage du Moulin de la Rive",
+                "ro": "Plage du Moulin de la Rive",
+                "en": "Plage du Moulin de la Rive"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean und genießen Sie das Schauspiel der Brandung bei Regen gemütlich vom Beifahrersitz aus.",
+                "hu": "Parkoljon az óceánra néző helyen, és élvezze a hullámverés látványát az esőben, kényelmesen az anyósülésről figyelve a természetet.",
+                "ro": "Parcați cu fața la ocean și bucurați-vă de spectacolul valurilor pe ploaie, confortabil de pe scaunul pasagerului din mașină.",
+                "en": "Park facing the ocean and enjoy the spectacle of the surf in the rain, comfortably watching nature from the passenger seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de Linguez chapel",
+                "hu": "Notre-Dame de Linguez chapel",
+                "ro": "Notre-Dame de Linguez chapel",
+                "en": "Notre-Dame de Linguez chapel"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle liegt etwas abgelegen; der kurze Weg vom Parkplatz zum Eingang ist bei Regen durch dichte Bäume teilweise geschützt.",
+                "hu": "A kis kápolna kissé kieső helyen található; a parkolótól a bejáratig vezető rövid utat esőben a sűrű fák részben védik a víztől.",
+                "ro": "Mica capelă este situată într-un loc puțin retras; scurtul drum de la parcare la intrare este parțial protejat de copacii deși pe ploaie.",
+                "en": "The small chapel is located in a somewhat remote spot; the short path from the parking lot to the entrance is partially sheltered by dense trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Fond de la Baie",
+                "hu": "Plage du Fond de la Baie",
+                "ro": "Plage du Fond de la Baie",
+                "en": "Plage du Fond de la Baie"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen wirkt das Wattenmeer besonders melancholisch; nutzen Sie den Wagen, um die Kleidung trocken zu halten, während Sie die Aussicht genießen.",
+                "hu": "Esőben az öböl alja különösen melankolikus; használja az autót, hogy szárazon tartsa ruházatát, miközben a változó tájat figyeli.",
+                "ro": "Pe ploaie, fundul golfului pare deosebit de melancolic; folosiți mașina pentru a vă păstra hainele uscate în timp ce admirați peisajul.",
+                "en": "In the rain, the bottom of the bay looks particularly melancholic; use the car to keep your clothes dry while watching the changing landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes du Hogolo",
+                "hu": "Thermes du Hogolo",
+                "ro": "Thermes du Hogolo",
+                "en": "Thermes du Hogolo"
+              },
+              "tip_5lang": {
+                "de": "Direkt am Standort gibt es Parkmöglichkeiten; achten Sie beim Aussteigen auf tiefe Pfützen im unbefestigten Bodenbereich der Ausgrabung.",
+                "hu": "Közvetlenül a helyszínnél van parkolási lehetőség; kiszálláskor ügyeljen a mély tócsákra az ásatás körüli burkolatlan talajon.",
+                "ro": "Există posibilități de parcare direct la fața locului; la coborâre, fiți atenți la bălțile adânci de pe solul neamenajat din jurul sitului.",
+                "en": "Parking is available directly at the site; watch out for deep puddles on the unpaved ground around the excavation when getting out."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie de Locquirec",
+                "hu": "Baie de Locquirec",
+                "ro": "Baie de Locquirec",
+                "en": "Baie de Locquirec"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam entlang der Uferstraße, da Aquaplaning-Gefahr bestehen kann; die Scheibenwischer bieten Ihnen ein ständig neues Panorama.",
+                "hu": "Vezessen lassan a parti úton, mert fennáll a vízenfutás veszélye; az ablaktörlők mozgása közben folyamatosan változó panoráma tárul ön elé.",
+                "ro": "Conduceți încet pe drumul de coastă, deoarece există risc de acvaplanare; ștergătoarele vă oferă o panoramă care se schimbă constant.",
+                "en": "Drive slowly along the coastal road as there is a risk of aquaplaning; the windshield wipers provide you with a constantly changing panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques",
+                "hu": "Église Saint-Jacques",
+                "ro": "Église Saint-Jacques",
+                "en": "Église Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Im Zentrum von Locquirec finden Sie meist Parkplätze direkt bei der Kirche; perfekt für einen schnellen, trockenen Zugang zur Kultur.",
+                "hu": "Locquirec központjában általában közvetlenül a templomnál talál parkolót; tökéletes a gyors és száraz hozzáféréshez a helyi kultúrához.",
+                "ro": "În centrul orașului Locquirec găsiți de obicei parcare chiar lângă biserică; perfect pentru un acces rapid și uscat la cultura locală.",
+                "en": "In the center of Locquirec, you can usually find parking directly at the church; perfect for quick and dry access to the local culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Palud",
+                "hu": "Plage de la Palud",
+                "ro": "Plage de la Palud",
+                "en": "Plage de la Palud"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf die raue See aus dem beheizten Auto; die salzige Luft dringt auch durch die Lüftungsschlitze.",
+                "hu": "Zárja a napot a vad tenger látványával a fűtött autóból; a sós tengeri levegő az autó szellőzőnyílásain keresztül is érezhető.",
+                "ro": "Încheiați ziua cu vederea mării agitate din mașina încălzită; aerul sărat al mării se simte chiar și prin fantele de ventilație.",
+                "en": "End the day with a view of the wild sea from the heated car; the salty sea air can be felt even through the car's ventilation vents."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Autotour beginnt am Moulin de la Rive, wo der Wind die Gischt hochpeitscht. Mittags besuchen wir die Kapelle und die Thermen, wobei wir die angenehme Wärme im Fahrzeuginneren genießen. Nachmittags erkunden wir die Bucht und die Kirche im klaren Licht der tiefstehenden Sonne. Da es bereits um 17:00 Uhr dunkel wird, beenden wir den Tag mit einer gemütlichen Fahrt durch das beleuchtete Dorf.",
+            "hu": "A téli autós túra a Moulin de la Rive-nél kezdődik, ahol a szél magasra korbácsolja a tajtékot. Délben meglátogatjuk a kápolnát és a termákat, élvezve a jármű kellemes melegét. Délután az öböl és a templom következik az alacsonyan járó nap tiszta fényében. Mivel 17:00-kor már sötétedik, a napot egy hangulatos autózással zárjuk a kivilágított faluban.",
+            "ro": "Turul de iarnă cu mașina începe la Moulin de la Rive, unde vântul ridică spuma mării. La prânz vizităm capela și termele, bucurându-ne de căldura plăcută din vehicul. După-amiaza explorăm golful și biserica în lumina clară a soarelui jos. Deoarece se întunecă deja la ora 17:00, încheiem ziua cu o plimbare prin satul iluminat.",
+            "en": "The winter car tour begins at Moulin de la Rive, where the wind whips up the sea spray. At noon, we visit the chapel and the baths, enjoying the pleasant warmth inside the vehicle. In the afternoon, we explore the bay and the church in the clear light of the low sun. Since it gets dark by 5:00 PM, we end the day with a cozy drive through the lit village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage du Moulin de la Rive",
+                "hu": "Plage du Moulin de la Rive",
+                "ro": "Plage du Moulin de la Rive",
+                "en": "Plage du Moulin de la Rive"
+              },
+              "tip_5lang": {
+                "de": "Die Wellen sind im Winter oft höher; lassen Sie den Motor kurz laufen, um die Scheiben von innen beschlagfrei zu halten.",
+                "hu": "A hullámok télen gyakran magasabbak; járassa kicsit a motort, hogy az ablakok belülről páramentesek maradjanak a megfigyelés alatt.",
+                "ro": "Valurile sunt adesea mai înalte iarna; lăsați motorul să meargă puțin pentru a menține geamurile dezaburite în interior în timpul observației.",
+                "en": "The waves are often higher in winter; let the engine run for a bit to keep the windows fog-free from the inside during observation."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame de Linguez chapel",
+                "hu": "Notre-Dame de Linguez chapel",
+                "ro": "Notre-Dame de Linguez chapel",
+                "en": "Notre-Dame de Linguez chapel"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wirkt der Ort besonders friedlich; achten Sie auf den schmalen Zufahrtswegen auf mögliche Glätte durch gefrorenes Laub.",
+                "hu": "Télen a hely különösen békésnek tűnik; a szűk bekötőutakon ügyeljen a megfagyott levelek okozta esetleges csúszásveszélyre.",
+                "ro": "Iarna, locul pare deosebit de liniștit; pe drumurile înguste de acces, fiți atenți la posibila polei cauzată de frunzele înghețate.",
+                "en": "In winter, the place looks particularly peaceful; watch out for potential slipperiness from frozen leaves on the narrow access roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Fond de la Baie",
+                "hu": "Plage du Fond de la Baie",
+                "ro": "Plage du Fond de la Baie",
+                "en": "Plage du Fond de la Baie"
+              },
+              "tip_5lang": {
+                "de": "Die weite Fläche der Bucht glüht bei Sonnenuntergang; parken Sie so, dass Sie die Wärme der letzten Sonnenstrahlen im Auto einfangen.",
+                "hu": "Az öböl tágas síksága ragyog a naplementében; úgy parkoljon, hogy az autóban ülve befoghassa az utolsó napsugarak melegét.",
+                "ro": "Suprafața vastă a golfului strălucește la apus; parcați astfel încât să captați căldura ultimelor raze de soare în interiorul mașinii.",
+                "en": "The vast expanse of the bay glows at sunset; park so that you can catch the warmth of the last sunbeams inside the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Thermes du Hogolo",
+                "hu": "Thermes du Hogolo",
+                "ro": "Thermes du Hogolo",
+                "en": "Thermes du Hogolo"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann bei Frost sehr hart und uneben sein; der kurze Weg vom Auto zu den Ruinen erfordert festes Schuhwerk mit gutem Grip.",
+                "hu": "A talaj fagy esetén nagyon kemény és egyenetlen lehet; az autótól a romokig vezető rövid út stabil, jó tapadású lábbelit igényel.",
+                "ro": "Solul poate fi foarte dur și denivelat în caz de îngheț; scurtul drum de la mașină la ruine necesită încălțăminte stabilă cu aderență bună.",
+                "en": "The ground can be very hard and uneven during frost; the short path from the car to the ruins requires stable footwear with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Baie de Locquirec",
+                "hu": "Baie de Locquirec",
+                "ro": "Baie de Locquirec",
+                "en": "Baie de Locquirec"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick auf die winterliche Halbinsel; die Heizung sorgt für Wohlbefinden, während draußen der eisige Wind peitscht.",
+                "hu": "Élvezze a panorámát a téli félszigetre; a fűtés gondoskodik a kényelemről, miközben odakint az északi szél korbácsolja a vizet.",
+                "ro": "Bucurați-vă de panorama peninsulei hibernale; încălzirea vă asigură confortul în timp ce afară vântul înghețat biciuiește apa.",
+                "en": "Enjoy the panorama of the winter peninsula; the heater ensures comfort while the biting north wind whips the water outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jacques",
+                "hu": "Église Saint-Jacques",
+                "ro": "Église Saint-Jacques",
+                "en": "Église Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche am späten Nachmittag, wenn das Licht durch die Fenster bricht; im Auto wartet danach die wohlige Wärme auf Sie.",
+                "hu": "Látogassa meg a templomot késő délután, amikor a fény áttör az ablakokon; az autóban utána kellemes meleg várja önt.",
+                "ro": "Vizitați biserica după-amiaza târziu, când lumina pătrunde prin ferestre; în mașină vă așteaptă apoi căldura reconfortantă.",
+                "en": "Visit the church in the late afternoon when the light breaks through the windows; the cozy warmth of the car awaits you afterward."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Palud",
+                "hu": "Plage de la Palud",
+                "ro": "Plage de la Palud",
+                "en": "Plage de la Palud"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet eine tolle Aussicht auf den Sonnenuntergang gegen 17:00 Uhr; ideal, um den Tag entspannt und warm ausklingen zu lassen.",
+                "hu": "A parkolóból remek kilátás nyílik a 17:00 körüli naplementére; ideális hely a nap nyugodt és meleg befejezéséhez az autóban.",
+                "ro": "Parcarea oferă o vedere excelentă asupra apusului în jurul orei 17:00; locul ideal pentru a încheia ziua relaxat și la căldură în mașină.",
+                "en": "The parking lot offers a great view of the sunset around 5:00 PM; an ideal spot to end the day relaxed and warm inside the car."
+              }
+            }
+          ]
+        }
       }
     }
   }

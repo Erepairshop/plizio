@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a híres Font del Lleó-nál, érezve a geotermikus vizek melegét. Csak egy kőhajításnyira lépjen be az elegáns Balneari Riu-ba, hogy felfedezze a fürdőtörténetet.\n\nDélben csodálja meg a Can Mussenya építészetét, mielőtt a Banys Termals El Safareig felé veszi az irányt. Itt a helyiekhez hasonlóan pihenhet a terápiás vizekben.\n\nDélután fedezze fel az Antic Safareig-et, a hagyományos mosóházat, amely a mindennapokat mutatja be. Lenyűgöző bepillantás a múltba a modern kényelem előtt.\n\nSétáját a Museu Sagales-ben fejezze be. Töltse az estét a régi buszok megcsodálásával, ezzel lezárva a Caldes de Montbui gazdag örökségének szentelt napot.",
         "ro": "Începeți dimineața la celebra Font del Lleó, simțind căldura apelor geotermale. La o aruncătură de băț, intrați în elegantul Balneari Riu pentru a descoperi istoria balneară.\n\nLa prânz, admirați arhitectura Can Mussenya înainte de a vă îndrepta spre Banys Termals El Safareig. Aici, vă puteți relaxa în apele terapeutice la fel ca localnicii.\n\nDupă-amiaza, descoperiți Antic Safareig, spălătoria tradițională care evidențiază viața de zi cu zi. Este o privire fascinantă în trecutul comunității.\n\nÎncheiați turul la Museu Sagales. Petreceți seara admirând autobuzele de epocă, încheind o zi perfectă dedicată patrimoniului din Caldes de Montbui.",
         "en": "Start your morning at the famous Font del Lleó, feeling the heat of the geothermal waters. Just a stone's throw away, step into the elegant Balneari Riu to uncover the spa history.\n\nBy midday, admire the classic architecture of Can Mussenya before heading to the Banys Termals El Safareig. Here, you can soak in the therapeutic waters and truly relax like the locals.\n\nIn the afternoon, discover the Antic Safareig, the traditional washhouse that highlights daily historic life. It’s a fascinating glimpse into the community's past before modern conveniences.\n\nConclude your walking tour at the Museu Sagales. Spend the evening marveling at the vintage buses, wrapping up a perfect day dedicated to the heritage of Caldes de Montbui."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der morgendliche Spaziergang beginnt am dampfenden Löwenbrunnen, dessen heißes Wasser im Regen besonders mystisch wirkt. Mittags bieten die historischen Thermalbäder einen warmen und trockenen Rückzugsort vor den Schauern. Am Nachmittag erkunden wir die überdachten Waschhäuser und Museen der Stadt. Der Abend klingt in der gemütlichen Altstadt aus, wo sich die Lichter in den Pfützen spiegeln.",
+            "hu": "A reggeli séta a gőzölgő oroszlános kútnál indul, melynek forró vize az esőben különösen misztikus látványt nyújt. Délben a történelmi termálfürdők nyújtanak meleg és száraz menedéket a záporok elől. Délután a város fedett mosóházait és múzeumait fedezzük fel. Az este a hangulatos óvárosban ér véget, ahol az utcai lámpák fényei csillognak a vizes macskaköveken.",
+            "ro": "Plimbarea de dimineață începe la fântâna cu lei, a cărei apă fierbinte pare mistică în ploaie. La prânz, băile termale istorice oferă un refugiu cald și uscat împotriva averselor. După-amiaza explorăm spălătoriile acoperite și muzeele orașului. Seara se încheie în centrul vechi primitor, unde luminile stradale se reflectă frumos în bălțile de pe străzile pietruite.",
+            "en": "The morning walk starts at the steaming lion fountain, where the hot water looks especially mystical in the rain. At noon, historical thermal baths provide a warm and dry refuge from the showers. In the afternoon, we explore the town's covered washhouses and museums. The evening ends in the cozy old town, where streetlights reflect beautifully in the puddles on the cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Font del Lleó",
+                "hu": "Font del Lleó",
+                "ro": "Font del Lleó",
+                "en": "Font del Lleó"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der heiße Dampf im Regen aufsteigt; halten Sie sich unter den Arkaden trocken und achten Sie auf den rutschigen Boden rund um das Brunnenbecken.",
+                "hu": "Nézze meg, hogyan száll fel a forró gőz az esőben; húzódjon az árkádok alá, és vigyázzon a kút körüli kövekre, mert vizesen rendkívül csúszósak lehetnek.",
+                "ro": "Observați cum se ridică aburul fierbinte în ploaie; adăpostiți-vă sub arcade și aveți grijă la pavajul din jurul fântânii, care devine foarte alunecos când este ud.",
+                "en": "Watch the hot steam rise through the raindrops; stay dry under the nearby arches and be careful as the stones around the fountain become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneari Riu",
+                "hu": "Balneari Riu",
+                "ro": "Balneari Riu",
+                "en": "Balneari Riu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das heiße Thermalwasser, während es draußen regnet; die historischen Innenräume bieten perfekten Schutz und Entspannung vor dem ungemütlichen Wetter.",
+                "hu": "Élvezze a forró termálvizet, miközben odakint esik; a történelmi belső terek tökéletes védelmet és relaxációt nyújtanak a barátságtalan időjárás elől.",
+                "ro": "Bucurați-vă de apa termală fierbinte în timp ce afară plouă; interioarele istorice oferă protecție și relaxare perfectă împotriva vremii nefavorabile.",
+                "en": "Enjoy the hot thermal water while it rains outside; the historic interiors provide perfect shelter and relaxation away from the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Mussenya",
+                "hu": "Can Mussenya",
+                "ro": "Can Mussenya",
+                "en": "Can Mussenya"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade dieses historischen Gebäudes kurz im Vorbeigehen; nutzen Sie einen Regenschirm, da dieser Stopp im Freien liegt, bevor Sie zum nächsten Ziel eilen.",
+                "hu": "Csodálja meg e történelmi épület homlokzatát egy rövid megálló során; használjon esernyőt, mivel ez a pont nyitott téren van, mielőtt továbbhaladna a fedett fürdőhöz.",
+                "ro": "Admirați fațada acestei clădiri istorice în trecere; folosiți o umbrelă, deoarece această oprire este în aer liber, înainte de a grăbi pasul spre următoarea destinație.",
+                "en": "Admire the facade of this historic building during a quick stop; keep your umbrella ready as this spot is outdoors before you head to the next indoor location."
+              }
+            },
+            {
+              "name": {
+                "de": "Banys Termals El Safareig",
+                "hu": "Banys Termals El Safareig",
+                "ro": "Banys Termals El Safareig",
+                "en": "Banys Termals El Safareig"
+              },
+              "tip_5lang": {
+                "de": "Das Baden im warmen Außenbecken im sanften Regen ist ein magisches Erlebnis; bringen Sie rutschfeste Sandalen für den nassen Bereich außerhalb des Beckens mit.",
+                "hu": "A meleg vizű kültéri medencében fürödni szemerkélő esőben varázslatos élmény; vigyen csúszásmentes papucsot a medencén kívüli vizes felületekre.",
+                "ro": "Baia în piscina exterioară cu apă caldă în timp ce plouă ușor este o experiență magică; purtați papuci antiderapanți pentru zonele umede din afara bazinului.",
+                "en": "Bathing in the warm outdoor pool during gentle rain is a magical experience; bring non-slip sandals for the wet areas outside the pool."
+              }
+            },
+            {
+              "name": {
+                "de": "Antic Safareig",
+                "hu": "Antic Safareig",
+                "ro": "Antic Safareig",
+                "en": "Antic Safareig"
+              },
+              "tip_5lang": {
+                "de": "Dieses alte Waschhaus ist überdacht und bietet einen wunderbaren Einblick in die Geschichte; genießen Sie die trockene Atmosphäre und das Plätschern des warmen Wassers.",
+                "hu": "Ez a régi mosóház fedett, így kiváló bepillantást nyújt a múltba az eső elől védve; élvezze a száraz környezetet és a meleg víz megnyugtató csobogását.",
+                "ro": "Această spălătorie veche este acoperită, oferind o privire excelentă în istorie ferită de ploaie; bucurați-vă de atmosfera uscată și de susurul apei calde.",
+                "en": "This old washhouse is covered, offering an excellent glimpse into history while staying dry; enjoy the sheltered atmosphere and the sound of warm running water."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Sagales",
+                "hu": "Museu Sagales",
+                "ro": "Museu Sagales",
+                "en": "Museu Sagales"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ideale Abschluss für einen Regentag; verbringen Sie hier viel Zeit im Trockenen und bewundern Sie die beeindruckende Sammlung alter Fahrzeuge.",
+                "hu": "A múzeum ideális lezárása egy esős napnak; töltsön itt hosszabb időt a szárazban, és csodálja meg a régi járművek lenyűgöző gyűjteményét.",
+                "ro": "Muzeul este finalul ideal pentru o zi ploioasă; petreceți mai mult timp la adăpost admirând colecția impresionantă de vehicule vechi.",
+                "en": "The museum is the ideal finish for a rainy day; spend plenty of time indoors admiring the impressive collection of vintage vehicles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist der Dampf des Löwenbrunnens besonders dicht. Die Thermalbäder sind im Winter ein Muss, um den Körper aufzuwärmen. Da es bereits gegen 17:00 Uhr dunkel wird, nutzen wir das helle Tageslicht für die historischen Gebäude und ziehen uns am späten Nachmittag in die beheizten Museen zurück. Ein wärmender Tee in einem lokalen Café rundet den Tag ab.",
+            "hu": "Egy tiszta téli reggelen az oroszlános kút gőze különösen sűrűnek tűnik a hidegben. A termálfürdők télen elengedhetetlenek a test felmelegítéséhez. Mivel 17:00 körül sötétedik, a világos órákat a történelmi épületekre szánjuk, majd délután a fűtött múzeumba húzódunk. Egy melengető tea egy helyi kávézóban tökéletes zárása a napnak.",
+            "ro": "Într-o dimineață senină de iarnă, aburul de la fântâna cu lei pare extrem de dens. Băile termale sunt esențiale iarna pentru a încălzi corpul. Deoarece se întunecă în jur de ora 17:00, folosim orele de lumină pentru clădirile istorice, iar după-amiaza ne retragem în muzeul încălzit. Un ceai cald la o cafenea locală este finalul perfect al zilei.",
+            "en": "On a crisp winter morning, the steam from the lion fountain appears exceptionally thick in the cold air. Thermal baths are essential in winter to warm up your body. Since it gets dark around 17:00, we use the daylight hours for historic buildings, then retreat to heated museums in the afternoon. A warming tea at a local cafe is the perfect end to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Font del Lleó",
+                "hu": "Font del Lleó",
+                "ro": "Font del Lleó",
+                "en": "Font del Lleó"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände am 74 Grad heißen Wasser, das in der Winterluft stark dampft; tragen Sie Schichten, um sich nach der Wärme des Brunnens vor der Kälte zu schützen.",
+                "hu": "Melegítse fel a kezét a 74 fokos víznél, amely a téli levegőben intenzíven gőzölög; öltözzön rétegesen, hogy a kút melege után ne fázzon a hűvös utcákon.",
+                "ro": "Încălziți-vă mâinile la apa de 74 de grade care aburește intens în aerul iernii; îmbrăcați-vă în straturi pentru a vă proteja de frig după ce plecați de lângă fântână.",
+                "en": "Warm your hands near the 74-degree water that steams intensely in the winter air; wear layers to stay comfortable when moving away from the fountain's warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneari Riu",
+                "hu": "Balneari Riu",
+                "ro": "Balneari Riu",
+                "en": "Balneari Riu"
+              },
+              "tip_5lang": {
+                "de": "Das Thermalbad ist im Winter ein wahres Paradies; das heiße Wasser entspannt die Muskeln nach einem Spaziergang in der kühlen Winterluft der Stadt.",
+                "hu": "A termálfürdő télen igazi paradicsom; a forró víz segít ellazítani az izmokat a hűvös téli levegőben tett városi séta után.",
+                "ro": "Băile termale sunt un adevărat paradis iarna; apa fierbinte ajută la relaxarea mușchilor după o plimbare în aerul rece al orașului.",
+                "en": "The thermal spa is a true paradise in winter; the hot water helps relax your muscles after a walk in the crisp winter air of the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Mussenya",
+                "hu": "Can Mussenya",
+                "ro": "Can Mussenya",
+                "en": "Can Mussenya"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die mittelalterlichen Details in der tiefstehenden Wintersonne; halten Sie den Stopp kurz, um nicht auszukühlen, bevor Sie zur nächsten Station gehen.",
+                "hu": "Csodálja meg a középkori részleteket az alacsonyan járó téli napsütésben; tartsa röviden a megállót, hogy ne hűljön ki, mielőtt a következő fűtött helyszínre ér.",
+                "ro": "Admirați detaliile medievale în lumina joasă a soarelui de iarnă; faceți o oprire scurtă pentru a nu îngheța înainte de a ajunge la următoarea locație încălzită.",
+                "en": "Admire the medieval details in the low-angled winter sun; keep the stop brief to avoid catching a chill before moving to the next heated indoor spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Banys Termals El Safareig",
+                "hu": "Banys Termals El Safareig",
+                "ro": "Banys Termals El Safareig",
+                "en": "Banys Termals El Safareig"
+              },
+              "tip_5lang": {
+                "de": "Das warme Wasser im Freien bei kühlen Temperaturen ist ein Highlight; bringen Sie einen dicken Bademantel mit, damit Sie beim Verlassen des Beckens nicht frieren.",
+                "hu": "A szabadtéri meleg víz a hűvös hőmérsékletben igazi fénypont; vigyen magával vastag fürdőköpenyt, hogy ne fázzon meg, amikor kiszáll a medencéből.",
+                "ro": "Apa caldă în aer liber la temperaturi scăzute este un punct culminant; aduceți un halat gros pentru a nu vă fi frig când ieșiți din bazin.",
+                "en": "The outdoor warm water in cool temperatures is a highlight; bring a thick bathrobe to stay warm immediately after getting out of the pool."
+              }
+            },
+            {
+              "name": {
+                "de": "Antic Safareig",
+                "hu": "Antic Safareig",
+                "ro": "Antic Safareig",
+                "en": "Antic Safareig"
+              },
+              "tip_5lang": {
+                "de": "Selbst im Winter fließt hier warmes Wasser durch das historische Waschhaus; ein faszinierender Ort, der durch die aufsteigende Wärme eine angenehme Atmosphäre bietet.",
+                "hu": "Még télen is meleg víz folyik át ezen a történelmi mosóházon; lenyűgöző helyszín, amely a felszálló hőnek köszönhetően kellemesebb klímát nyújt a hidegben.",
+                "ro": "Chiar și iarna, apa caldă curge prin această spălătorie istorică; un loc fascinant care oferă o atmosferă plăcută datorită căldurii ce se ridică din apă.",
+                "en": "Even in winter, warm water flows through this historic washhouse; a fascinating spot that offers a pleasant microclimate thanks to the rising heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Sagales",
+                "hu": "Museu Sagales",
+                "ro": "Museu Sagales",
+                "en": "Museu Sagales"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den späten Nachmittag für das beheizte Museum, da es draußen bereits dunkel und kälter wird; die alten Busse sind in der Halle gut geschützt zu besichtigen.",
+                "hu": "Használja ki a késő délutánt a fűtött múzeumban, mivel odakint már sötétedik és hűvösebb van; a régi buszok a csarnokban védett helyen tekinthetők meg.",
+                "ro": "Profită de după-amiaza târzie în muzeul încălzit, deoarece afară se întunecă și se face mai frig; autobuzele vechi pot fi văzute la adăpost în interiorul halei.",
+                "en": "Utilize the late afternoon for the heated museum as it gets dark and colder outside; the vintage buses are well-protected and comfortable to view indoors."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a kerékpáros napot a Museu Sagales-ben a közlekedéstörténet felfedezésével, majd tekerjen a közeli Antic Safareig-hez a reggeli fényben.\n\nDél körül tekerjen a bugyogó Font del Lleó-hoz, és látogassa meg a Balneari Riu-t. Ezek a megállók megragadják a város termálforrás-kultúráját.\n\nDélután hagyja maga mögött a központot, és tekerjen nyugat felé a Jaciment arqueològic felé. Fedezze fel a romokat, majd célozza meg a Turó de la Torre Roja-t.\n\nFejezze be kalandját azzal, hogy felteker a Sant Martí de Pascol-hoz. Élvezze a békés légkört és a kilátást, ahogy az este leszáll a katalán tájra.",
         "ro": "Începeți ziua de ciclism la Museu Sagales, explorând istoria transportului, apoi pedalați până la Antic Safareig pentru a vedea spălătoria istorică.\n\nÎn jurul prânzului, mergeți la Font del Lleó și vizitați luxosul Balneari Riu. Aceste opriri surprind perfect esența culturii izvoarelor termale.\n\nDupă-amiaza, lăsați centrul orașului și pedalați spre Jaciment arqueològic. Descoperiți ruine antice înainte de plimbarea spre Turó de la Torre Roja.\n\nÎncheiați aventura pedalând până la seninul Sant Martí de Pascol. Bucurați-vă de atmosfera liniștită și de vederile frumoase pe înserate.",
         "en": "Kick off your cycling day at the Museu Sagales, exploring transportation history, then pedal to the nearby Antic Safareig to see the historic washhouse.\n\nAround noon, ride up to the bubbling Font del Lleó and visit the luxurious Balneari Riu. These stops perfectly capture the essence of the town's spring culture.\n\nIn the afternoon, leave the town center behind and cycle west towards the Jaciment arqueològic. Uncover ancient ruins before tackling the Turó de la Torre Roja.\n\nFinish your adventure by cycling up to the serene Sant Martí de Pascol. Enjoy the peaceful atmosphere and beautiful views as evening settles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt am überdachten Museum, um den ersten Schauern zu entgehen. Auf nassen Straßen radeln wir vorsichtig zum Thermalzentrum. Mittags wärmen wir uns in den Thermalbädern auf. Die Fahrt zum Jaciment Arqueològic erfordert bei Regen gute Kleidung und Vorsicht auf unbefestigten Wegen. Der Tag endet mit einer gemütlichen Fahrt zurück ins Stadtzentrum.",
+            "hu": "A kerékpártúra a fedett múzeumnál indul, hogy elkerüljük az első záporokat. A vizes utakon óvatosan tekerünk a termálközpont felé. Délben a fürdőkben melegszünk fel. A Jaciment Arqueològic felé tartó út esőben jó felszerelést és óvatosságot igényel a földutakon. A nap egy kényelmes, városközpontba tartó tekeréssel zárul.",
+            "ro": "Turul cu bicicleta începe la muzeul acoperit pentru a evita primele averse. Pe străzile ude pedalăm cu grijă spre centrul termal. La prânz ne încălzim în băi. Drumul spre Jaciment Arqueològic necesită echipament bun și prudență pe drumurile neasfaltate în caz de ploaie. Ziua se încheie cu o pedalare relaxată înapoi spre centrul orașului.",
+            "en": "The bike tour starts at the sheltered museum to avoid the first showers. We cycle carefully on wet roads toward the thermal center. At noon, we warm up in the baths. The ride to Jaciment Arqueològic requires good rain gear and caution on unpaved paths. The day concludes with a comfortable ride back to the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Sagales",
+                "hu": "Museu Sagales",
+                "ro": "Museu Sagales",
+                "en": "Museu Sagales"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie hier, um trocken zu bleiben; es gibt Fahrradständer in der Nähe, aber sichern Sie Ihr Rad an einem Ort, der etwas Windschutz bietet.",
+                "hu": "Kezdje itt a napot, hogy száraz maradjon; a közelben vannak kerékpártárolók, de próbálja szélvédett helyen lezárni a biciklit az esőben.",
+                "ro": "Începeți aici pentru a rămâne uscat; există rastele pentru biciclete în apropiere, dar asigurați bicicleta într-un loc protejat de vânt.",
+                "en": "Start here to stay dry; there are bike racks nearby, but try to lock your bike in a spot that offers some wind protection during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Antic Safareig",
+                "hu": "Antic Safareig",
+                "ro": "Antic Safareig",
+                "en": "Antic Safareig"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, geschützter Stopp; das warme Wasser im Becken dampft herrlich, wenn kühler Regen auf die Umgebung fällt.",
+                "hu": "Rövid, védett megálló; a medence meleg vize csodásan gőzölög, amikor a hűvös eső eléri a környéket.",
+                "ro": "O oprire scurtă și protejată; apa caldă din bazin aburește minunat atunci când ploaia rece cade în jur.",
+                "en": "A brief, sheltered stop; the warm water in the basin steams beautifully when cool rain falls on the surrounding area."
+              }
+            },
+            {
+              "name": {
+                "de": "Font del Lleó",
+                "hu": "Font del Lleó",
+                "ro": "Font del Lleó",
+                "en": "Font del Lleó"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das glatte Kopfsteinpflaster rund um den Platz; der heiße Brunnen bietet eine kurze Gelegenheit, die klammen Hände aufzuwärmen.",
+                "hu": "Vigyázzon a csúszós macskakövekre a téren; a forró kút kiváló alkalom arra, hogy rövid időre felmelegítse elgémberedett kezeit.",
+                "ro": "Atenție la pavajul alunecos din piață; fântâna fierbinte oferă o ocazie scurtă de a vă încălzi mâinile amorțite de ploaie.",
+                "en": "Be careful of the slippery cobblestones in the square; the hot fountain offers a quick chance to warm up your cold hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneari Riu",
+                "hu": "Balneari Riu",
+                "ro": "Balneari Riu",
+                "en": "Balneari Riu"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und genießen Sie die Wärme; die heißen Quellen sind die perfekte Belohnung für eine Fahrt durch den Regen.",
+                "hu": "Parkolja le biztonságosan a biciklit, és élvezze a meleget; a forró források tökéletes jutalmat jelentenek az esőben való tekerés után.",
+                "ro": "Parcați bicicleta în siguranță și bucurați-vă de căldură; izvoarele fierbinți sunt recompensa perfectă după pedalarea prin ploaie.",
+                "en": "Park your bike securely and enjoy the warmth; the hot springs are the perfect reward after cycling through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic",
+                "hu": "Jaciment arqueològic",
+                "ro": "Jaciment arqueològic",
+                "en": "Jaciment arqueològic"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann hier bei Regen schlammig sein; tragen Sie Schuhe mit gutem Profil und fahren Sie auf den markierten Wegen besonders vorsichtig.",
+                "hu": "A talaj itt sáros lehet az esőben; viseljen jó tapadású cipőt, és tekerjen különösen óvatosan a kijelölt ösvényeken.",
+                "ro": "Terenul poate fi noroios aici din cauza ploii; purtați încălțăminte cu aderență bună și pedalați cu mare atenție pe potecile marcate.",
+                "en": "The ground can be muddy here in the rain; wear shoes with good grip and cycle extra carefully on the designated paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó de la Torre Roja",
+                "hu": "Turó de la Torre Roja",
+                "ro": "Turó de la Torre Roja",
+                "en": "Turó de la Torre Roja"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist auch bei Wolken dramatisch; achten Sie beim Abstieg auf die Bremsen, da die Wege durch Nässe an Griffigkeit verlieren.",
+                "hu": "A kilátás felhős időben is drámai; a leereszkedésnél figyeljen a fékekre, mivel az utak a nedvesség miatt veszítenek a tapadásukból.",
+                "ro": "Priveliștea este dramatică chiar și cu nori; la coborâre aveți grijă la frâne, deoarece drumurile devin alunecoase din cauza umezelii.",
+                "en": "The view is dramatic even with clouds; pay attention to your brakes during the descent as the paths lose grip when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Martí de Pascol",
+                "hu": "Sant Martí de Pascol",
+                "ro": "Sant Martí de Pascol",
+                "en": "Sant Martí de Pascol"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Vordach der Kirche für eine kurze Pause im Trockenen, bevor Sie die letzte Etappe zurück in die Stadt antreten.",
+                "hu": "Használja a templom előtetőjét egy rövid száraz pihenőre, mielőtt megkezdi az utolsó szakaszt vissza a városba.",
+                "ro": "Folosiți pridvorul bisericii pentru o scurtă pauză la uscat înainte de a începe ultima etapă de întoarcere în oraș.",
+                "en": "Use the church porch for a short dry break before starting the final stretch back to the town center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Radtour in der frischen Winterluft beginnt am Museum. Die historischen Plätze wirken in der klaren Luft sehr ruhig. Mittags ist das Aufwärmen in den Thermen ein Muss für jeden Radfahrer. Die Fahrt in die Natur bietet weite Ausblicke, erfordert aber gute Handschuhe gegen den Fahrtwind. Da es früh dunkel wird, planen wir die Rückkehr für 16:30 Uhr ein.",
+            "hu": "A reggeli kerékpározás a friss téli levegőben a múzeumnál indul. A történelmi terek a tiszta levegőben nagyon nyugodtnak tűnnek. Délben a termálfürdőben való felmelegedés kötelező minden bringásnak. A természetbe vezető út tágas kilátást nyújt, de jó kesztyűt igényel a menetszél ellen. Mivel korán sötétedik, a visszatérést 16:30-ra tervezzük.",
+            "ro": "Pedalarea de dimineață în aerul proaspăt de iarnă începe la muzeu. Piețele istorice par foarte liniștite în aerul curat. La prânz, încălzirea la termale este obligatorie pentru orice biciclist. Drumul în natură oferă vederi largi, dar necesită mănuși bune împotriva vântului. Deoarece se întunecă devreme, planificăm întoarcerea pentru ora 16:30.",
+            "en": "The morning ride in the fresh winter air starts at the museum. The historic squares look very peaceful in the clear air. At noon, warming up in the thermal baths is a must for every cyclist. The trip into nature offers wide views but requires good gloves against the wind chill. Since it gets dark early, we plan to be back by 16:30."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museu Sagales",
+                "hu": "Museu Sagales",
+                "ro": "Museu Sagales",
+                "en": "Museu Sagales"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizte Ausstellungshalle, bevor Sie sich wieder in die Kälte wagen; die Bewegung beim Radfahren hilft, die Körpertemperatur zu halten.",
+                "hu": "Élvezze a fűtött kiállítóteret, mielőtt újra kimerészkedne a hidegbe; a kerékpározás közbeni mozgás segít fenntartani a testhőt.",
+                "ro": "Bucurați-vă de sala de expoziție încălzită înainte de a ieși din nou în frig; mișcarea în timpul pedalării ajută la menținerea temperaturii corpului.",
+                "en": "Enjoy the heated exhibition hall before venturing back into the cold; the physical activity of cycling will help maintain your body temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Antic Safareig",
+                "hu": "Antic Safareig",
+                "ro": "Antic Safareig",
+                "en": "Antic Safareig"
+              },
+              "tip_5lang": {
+                "de": "Das warme Wasser erzeugt in der kühlen Winterluft einen schönen Nebeleffekt; ein toller Ort für ein kurzes Foto ohne vom Rad steigen zu müssen.",
+                "hu": "A meleg víz a hűvös téli levegőben gyönyörű ködfátylat képez; remek helyszín egy gyors fotóhoz anélkül, hogy le kellene szállnia a bringáról.",
+                "ro": "Apa caldă creează un efect frumos de ceață în aerul rece de iarnă; un loc excelent pentru o fotografie rapidă fără a fi nevoie să coborâți de pe bicicletă.",
+                "en": "The warm water creates a beautiful mist effect in the cool winter air; a great spot for a quick photo without having to get off your bike for long."
+              }
+            },
+            {
+              "name": {
+                "de": "Font del Lleó",
+                "hu": "Font del Lleó",
+                "ro": "Font del Lleó",
+                "en": "Font del Lleó"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die natürliche Wärme des Brunnens, um kalte Finger wieder beweglich zu machen; die 74 Grad sind im Winter ein wahrer Segen.",
+                "hu": "Használja ki a kút természetes hőjét, hogy a kihűlt ujjait újra átmozgassa; a 74 fokos víz télen igazi áldás a kerékpárosoknak.",
+                "ro": "Folosiți căldura naturală a fântânii pentru a vă dezmorți degetele înghețate; apa de 74 de grade este o adevărată binecuvântare iarna.",
+                "en": "Take advantage of the fountain's natural heat to regain mobility in cold fingers; the 74-degree water is a true blessing in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneari Riu",
+                "hu": "Balneari Riu",
+                "ro": "Balneari Riu",
+                "en": "Balneari Riu"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Pause ein, um den Körper tiefenwirksam aufzuwärmen; die Thermalkur ist die beste Vorbereitung auf die Weiterfahrt.",
+                "hu": "Tervezzen ide hosszabb pihenőt, hogy a teste mélyen átmelegedjen; a termálvizes kúra a legjobb felkészülés a túra folytatásához.",
+                "ro": "Planificați o pauză mai lungă aici pentru a vă încălzi corpul în profunzime; cura termală este cea mai bună pregătire pentru continuarea drumului.",
+                "en": "Plan a longer break here to thoroughly warm up your body; the thermal treatment is the best preparation for the rest of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic",
+                "hu": "Jaciment arqueològic",
+                "ro": "Jaciment arqueològic",
+                "en": "Jaciment arqueològic"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist im Winter meist fest gefroren oder trocken, was das Radfahren erleichtert; genießen Sie die klare Sicht auf die Ruinen.",
+                "hu": "A talaj télen gyakran fagyott vagy száraz, ami megkönnyíti a tekerést; élvezze a tiszta kilátást a romokra a hűvös időben.",
+                "ro": "Terenul este de obicei înghețat sau uscat iarna, ceea ce ușurează pedalarea; bucurați-vă de vizibilitatea clară asupra ruinelor.",
+                "en": "The ground is often frozen or dry in winter, making cycling easier; enjoy the clear views of the ruins in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó de la Torre Roja",
+                "hu": "Turó de la Torre Roja",
+                "ro": "Turó de la Torre Roja",
+                "en": "Turó de la Torre Roja"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne bietet ein tolles Licht für Panoramafotos; ziehen Sie eine winddichte Jacke an, da es auf dem Gipfel deutlich kühler sein kann.",
+                "hu": "A téli napsütés kiváló fényeket ad a panorámafotókhoz; vegyen fel szélálló dzsekit, mert a dombtetőn jóval hűvösebb lehet a szél miatt.",
+                "ro": "Soarele de iarnă oferă o lumină excelentă pentru fotografii panoramice; purtați o jachetă rezistentă la vânt, deoarece pe vârf poate fi mult mai frig.",
+                "en": "The winter sun provides great light for panoramic photos; wear a windproof jacket as it can be significantly cooler on the hilltop due to the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Martí de Pascol",
+                "hu": "Sant Martí de Pascol",
+                "ro": "Sant Martí de Pascol",
+                "en": "Sant Martí de Pascol"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche zur Zeit des frühen Sonnenuntergangs; das goldene Licht auf dem Stein ist im Winter besonders beeindruckend.",
+                "hu": "Látogassa meg a templomot a korai naplemente idején; a köveken megcsillanó aranyló fény télen különösen lenyűgöző látványt nyújt.",
+                "ro": "Vizitați biserica la ora apusului timpuriu; lumina aurie pe piatră este deosebit de impresionantă în timpul iernii.",
+                "en": "Visit the church around the early sunset; the golden light reflecting on the stone is particularly impressive during the winter months."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje autózást keleten a Pinedes del Castellet-ben egy frissítő sétával. Röviddel ezután vezessen a Turó Gros-hoz a lenyűgöző reggeli kilátásért a völgyek felett.\n\nDélre érkezzen meg Caldes de Montbui szívébe. Parkoljon le, hogy felfedezze a Font del Lleó-t, és lépjen be a történelmi Balneari Riu-ba, elmerülve a helyi fürdőörökségben.\n\nA kora délutánt töltse pihenéssel a Banys Termals El Safareig-ben. Később pattanjon autóba, hogy meglátogassa a Jaciment arqueològic-ot az ősi romok között.\n\nAhogy közeledik az este, vezessen fel a békés Sant Martí de Pascol-hoz. Végül zárja le a napot egy frissítő úszással a Piscines-ben, élvezve a nyüzsgő helyi hangulatot.",
         "ro": "Începeți traseul spre est la Pinedes del Castellet pentru o plimbare revigorantă. La scurt timp, conduceți spre Turó Gros pentru a surprinde vederi uimitoare de dimineață.\n\nConduceți în inima orașului Caldes de Montbui până la prânz. Parcați mașina pentru a explora emblematica Font del Lleó și intrați în istoricul Balneari Riu.\n\nPetreceți prima parte a după-amiezii relaxându-vă la Banys Termals El Safareig. Mai târziu, urcați în mașină pentru a vizita Jaciment arqueològic, pășind înapoi în timp.\n\nPe măsură ce se apropie seara, conduceți până la seninul Sant Martí de Pascol. În cele din urmă, încheiați-vă ziua cu o baie revigorantă la Piscines.",
         "en": "Start your scenic drive east at Pinedes del Castellet for a refreshing nature walk. Shortly after, drive to Turó Gros to capture stunning morning views over the sweeping valleys.\n\nDrive into the heart of Caldes de Montbui by midday. Park your car to explore the iconic Font del Lleó and step into the historic Balneari Riu, immersing yourself in the local spa legacy.\n\nSpend your early afternoon relaxing at the Banys Termals El Safareig. Later, hop back in the car to visit the Jaciment arqueològic, stepping back in time among the ancient ruins.\n\nAs evening approaches, drive up to the serene Sant Martí de Pascol. Finally, wind down your perfect day with a refreshing swim at the Piscines, enjoying the vibrant local atmosphere."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour beginnt in den bewaldeten Pinedes, wo der Regen einen herrlichen Duft verströmt. Mit dem Auto erreichen wir bequem die Aussichtspunkte und das Stadtzentrum. Mittags entspannen wir in den überdachten Thermen. Nachmittags besuchen wir die archäologischen Stätten, wobei das Auto als trockener Rückzugsort dient. Der Tag endet an den Piscines, perfekt für Indoor-Wellness bei Regen.",
+            "hu": "A túra a fenyvesekben indul, ahol az eső csodás illatot áraszt. Autóval kényelmesen elérjük a kilátókat és a városközpontot. Délben a fedett termálfürdőkben lazítunk. Délután a régészeti lelőhelyeket látogatjuk meg, az autó pedig száraz menedékként szolgál a megállók között. A nap a Piscines-nél zárul, ami tökéletes beltéri wellness-helyszín esőben.",
+            "ro": "Turul începe în pădurile de pini, unde ploaia emană un parfum minunat. Cu mașina ajungem confortabil la punctele de belvedere și în centru. La prânz ne relaxăm în băile termale acoperite. După-amiaza vizităm siturile arheologice, mașina servind ca refugiu uscat între opriri. Ziua se încheie la Piscines, locația perfectă pentru wellness de interior pe ploaie.",
+            "en": "The tour starts in the pine forests, where the rain brings out a wonderful scent. By car, we easily reach the viewpoints and the town center. At noon, we relax in the covered thermal baths. In the afternoon, we visit the archaeological sites, with the car serving as a dry refuge between stops. The day ends at the Piscines, perfect for indoor wellness during rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pinedes del Castellet",
+                "hu": "Pinedes del Castellet",
+                "ro": "Pinedes del Castellet",
+                "en": "Pinedes del Castellet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft des nassen Pinienwaldes vom Auto aus oder bei einem kurzen Spaziergang mit Schirm; die Wege können bei Regen etwas rutschig sein.",
+                "hu": "Élvezze a vizes fenyőerdő illatát az autóból vagy egy rövid esernyős séta során; az utak esőben kissé csúszósak lehetnek.",
+                "ro": "Bucurați-vă de parfumul pădurii de pini ude din mașină sau în timpul unei scurte plimbări cu umbrela; potecile pot fi puțin alunecoase din cauza ploii.",
+                "en": "Enjoy the scent of the wet pine forest from the car or during a short walk with an umbrella; be careful as the paths can be a bit slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó Gros",
+                "hu": "Turó Gros",
+                "ro": "Turó Gros",
+                "en": "Turó Gros"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig zum Gipfel, da die Sicht bei Regen eingeschränkt sein kann; das Auto bietet einen warmen Platz, um die Wolken über dem Tal zu beobachten.",
+                "hu": "Vezessen óvatosan a csúcs felé, mivel az esőben korlátozott lehet a látótávolság; az autó meleg helyet kínál a völgy feletti felhők megfigyeléséhez.",
+                "ro": "Conduceți cu prudență spre vârf, deoarece vizibilitatea poate fi limitată de ploaie; mașina oferă un loc cald pentru a observa norii deasupra văii.",
+                "en": "Drive carefully to the summit as visibility may be limited during the rain; the car provides a warm spot to watch the clouds moving over the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Font del Lleó",
+                "hu": "Font del Lleó",
+                "ro": "Font del Lleó",
+                "en": "Font del Lleó"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des historischen Zentrums; der kurze Weg zum dampfenden Brunnen lohnt sich auch bei Regen für ein schnelles Foto.",
+                "hu": "Parkoljon a történelmi központ közelében; a gőzölgő kúthoz vezető rövid séta esőben is megéri egy gyors fotó erejéig.",
+                "ro": "Parcați aproape de centrul istoric; scurta plimbare până la fântâna care aburește merită chiar și pe ploaie pentru o fotografie rapidă.",
+                "en": "Park near the historic center; the short walk to the steaming fountain is worth it even in the rain for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneari Riu",
+                "hu": "Balneari Riu",
+                "ro": "Balneari Riu",
+                "en": "Balneari Riu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten der Therme und tauchen Sie in das heiße Wasser ein; ein perfekter Zufluchtsort vor dem nassen Wetter draußen.",
+                "hu": "Használja ki a fürdő parkolási lehetőségét, és merüljön el a forró vízben; tökéletes menedék a kinti vizes időjárás elől.",
+                "ro": "Profită de parcarea băii și scufundă-te în apa fierbinte; un refugiu perfect împotriva vremii umede de afară.",
+                "en": "Take advantage of the spa's parking and dive into the hot water; it's a perfect sanctuary from the wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Banys Termals El Safareig",
+                "hu": "Banys Termals El Safareig",
+                "ro": "Banys Termals El Safareig",
+                "en": "Banys Termals El Safareig"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihre Regenkleidung im Auto und genießen Sie das warme Bad; das Erlebnis im Freien ist bei Regen besonders stimmungsvoll.",
+                "hu": "Hagyja az esőkabátot az autóban, és élvezze a meleg fürdőt; a szabadtéri élmény esőben különösen hangulatos.",
+                "ro": "Lăsați pelerina de ploaie în mașină și bucurați-vă de baia caldă; experiența în aer liber este deosebit de atmosferică pe ploaie.",
+                "en": "Leave your rain gear in the car and enjoy the warm bath; the outdoor experience is especially atmospheric during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic",
+                "hu": "Jaciment arqueològic",
+                "ro": "Jaciment arqueològic",
+                "en": "Jaciment arqueològic"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ruinen zügig und nutzen Sie das Auto als Basis; halten Sie festes Schuhwerk bereit, falls die Wege aufgeweicht sind.",
+                "hu": "Tekintse meg gyorsan a romokat, és használja az autót bázisként; legyen kéznél vízálló cipő, ha az utak feláztak volna.",
+                "ro": "Vizitați ruinele rapid și folosiți mașina ca bază; aveți pregătită încălțăminte rezistentă în cazul în care potecile sunt noroioase.",
+                "en": "Tour the ruins quickly and use the car as your base; have sturdy, waterproof shoes ready in case the paths are soft and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Martí de Pascol",
+                "hu": "Sant Martí de Pascol",
+                "ro": "Sant Martí de Pascol",
+                "en": "Sant Martí de Pascol"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Aussichtspunkt, der auch bei Regen gut mit dem Auto erreichbar ist; genießen Sie den Blick auf die nasse Landschaft durch das Fenster.",
+                "hu": "Szép kilátópont, amely esőben is jól megközelíthető autóval; élvezze a vizes táj látványát az autóablakon keresztül.",
+                "ro": "Un punct de belvedere frumos, ușor accesibil cu mașina și pe ploaie; bucurați-vă de vederea peisajului umed prin fereastra mașinii.",
+                "en": "A beautiful viewpoint easily accessible by car even in the rain; enjoy the view of the wet landscape through the car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscines",
+                "hu": "Piscines",
+                "ro": "Piscines",
+                "en": "Piscines"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Trockenen; nutzen Sie die beheizten Innenbecken, um den Tag entspannt ausklingen zu lassen, während es draußen regnet.",
+                "hu": "Tökéletes befejezés száraz helyen; használja a fűtött beltéri medencéket, hogy nyugodtan zárja a napot, miközben odakint esik.",
+                "ro": "Finalul perfect la adăpost; folosiți piscinele interioare încălzite pentru a încheia ziua relaxat în timp ce afară plouă.",
+                "en": "The perfect finish in a dry place; use the heated indoor pools to end the day in relaxation while it rains outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour mit dem Auto startet in den klaren Pinedes. Die Aussichtspunkte Turó Gros bieten im Winter eine weite Sicht über Katalonien. Mittags wärmen wir uns im historischen Stadtzentrum und in den Thermalbädern auf. Da die Sonne gegen 17:00 Uhr untergeht, besuchen wir die Außenstellen am frühen Nachmittag. Der Tag endet gemütlich im beheizten Schwimmbadkomplex der Stadt.",
+            "hu": "A téli autós túra a tiszta levegőjű fenyvesekben indul. A Turó Gros kilátópontról télen messzire ellátni Katalónia felett. Délben a történelmi városközpontban és a termálfürdőkben melegszünk fel. Mivel a nap 17:00 körül lebukik, a távolabbi helyszíneket kora délután látogatjuk meg. A nap a város fűtött uszodakomplexumában zárul.",
+            "ro": "Turul de iarnă cu mașina începe în pădurile de pini cu aer curat. Punctul de belvedere Turó Gros oferă o vedere largă peste Catalonia în timpul iernii. La prânz ne încălzim în centrul istoric și în băile termale. Deoarece soarele apune în jur de ora 17:00, vizităm locațiile exterioare după-amiaza devreme. Ziua se încheie la complexul de piscine încălzite.",
+            "en": "The winter car tour starts in the crisp pine forests. The Turó Gros viewpoint offers vast views over Catalonia in the clear winter air. At noon, we warm up in the historic town center and the thermal baths. Since the sun sets around 17:00, we visit the outdoor sites in the early afternoon. The day ends comfortably at the town's heated pool complex."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pinedes del Castellet",
+                "hu": "Pinedes del Castellet",
+                "ro": "Pinedes del Castellet",
+                "en": "Pinedes del Castellet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Winterluft bei einem kurzen Spaziergang; das Auto bleibt in der Nähe zum Aufwärmen, falls es zu kalt wird.",
+                "hu": "Élvezze a friss téli levegőt egy rövid séta során; az autó a közelben marad, így bármikor visszatérhet melegedni, ha lehűlne az idő.",
+                "ro": "Bucurați-vă de aerul proaspăt de iarnă în timpul unei scurte plimbări; mașina rămâne aproape pentru a vă încălzi dacă devine prea frig.",
+                "en": "Enjoy the fresh winter air during a short walk; the car stays nearby so you can warm up quickly if it gets too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó Gros",
+                "hu": "Turó Gros",
+                "ro": "Turó Gros",
+                "en": "Turó Gros"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter durch die klare Luft am besten; bringen Sie ein heißes Getränk im Auto mit, um die Aussicht ohne Frieren zu genießen.",
+                "hu": "A távoli kilátás télen a legjobb a tiszta levegő miatt; vigyen magával forró italt az autóban, hogy fázás nélkül élvezhesse a panorámát.",
+                "ro": "Vizibilitatea la distanță este cea mai bună iarna datorită aerului curat; aduceți o băutură caldă în mașină pentru a savura priveliștea fără a îngheța.",
+                "en": "Long-distance visibility is best in winter due to the clear air; bring a hot drink in the car to enjoy the panoramic view without getting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Font del Lleó",
+                "hu": "Font del Lleó",
+                "ro": "Font del Lleó",
+                "en": "Font del Lleó"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie zentrumsnah und nutzen Sie den heißen Brunnen als natürliche Heizung während Ihres Rundgangs durch die winterlichen Gassen.",
+                "hu": "Parkoljon a központ közelében, és használja a forró kutat természetes fűtőtestként a téli utcákon tett körsétája során.",
+                "ro": "Parcați aproape de centru și folosiți fântâna fierbinte ca un radiator natural în timpul plimbării prin străduțele de iarnă.",
+                "en": "Park near the center and use the hot fountain as a natural heater during your stroll through the wintry streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Balneari Riu",
+                "hu": "Balneari Riu",
+                "ro": "Balneari Riu",
+                "en": "Balneari Riu"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine ausgiebige Thermalpause; das historische Ambiente ist im Winter besonders behaglich und wärmend.",
+                "hu": "Kényeztesse magát egy kiadós termálvizes pihenővel; a történelmi környezet télen különösen otthonos és melengető.",
+                "ro": "Răsfățați-vă cu o pauză termală prelungită; ambianța istorică este deosebit de primitoare și călduroasă iarna.",
+                "en": "Treat yourself to a generous thermal break; the historic ambiance is particularly cozy and warming during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Banys Termals El Safareig",
+                "hu": "Banys Termals El Safareig",
+                "ro": "Banys Termals El Safareig",
+                "en": "Banys Termals El Safareig"
+              },
+              "tip_5lang": {
+                "de": "Der Dampf über dem Außenbecken ist im Winter ein faszinierendes Schauspiel; nutzen Sie die beheizten Umkleiden, um sich schnell wieder warm anzuziehen.",
+                "hu": "A kültéri medence feletti gőzoszlop télen lenyűgöző látvány; használja a fűtött öltözőket, hogy gyorsan és melegen felöltözhessen a fürdő után.",
+                "ro": "Aburul de deasupra bazinului exterior este un spectacol fascinant iarna; folosiți vestiarele încălzite pentru a vă îmbrăca rapid și călduros.",
+                "en": "The steam rising over the outdoor pool is a fascinating sight in winter; use the heated changing rooms to dry off and dress warmly quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Jaciment arqueològic",
+                "hu": "Jaciment arqueològic",
+                "ro": "Jaciment arqueològic",
+                "en": "Jaciment arqueològic"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungen am frühen Nachmittag, solange die Wintersonne noch scheint und die Temperaturen am höchsten sind.",
+                "hu": "Látogassa meg az ásatásokat kora délután, amíg még süt a téli nap, és a hőmérséklet a legmagasabb a nap folyamán.",
+                "ro": "Vizitați excavațiile după-amiaza devreme, cât timp soarele de iarnă încă strălucește și temperaturile sunt la nivelul maxim.",
+                "en": "Visit the excavations in the early afternoon while the winter sun is still shining and temperatures are at their highest for the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Martí de Pascol",
+                "hu": "Sant Martí de Pascol",
+                "ro": "Sant Martí de Pascol",
+                "en": "Sant Martí de Pascol"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt vor 16:30 Uhr, um den Sonnenuntergang über den Bergen zu erleben, bevor es schnell abkühlt.",
+                "hu": "Érkezzen ide 16:30 előtt, hogy lássa a naplementét a hegyek felett, mielőtt a levegő gyorsan lehűlne az este közeledtével.",
+                "ro": "Ajungeți în acest punct înainte de ora 16:30 pentru a vedea apusul peste munți înainte ca aerul să se răcească rapid.",
+                "en": "Reach this spot before 16:30 to catch the sunset over the mountains before the temperature drops quickly as evening approaches."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscines",
+                "hu": "Piscines",
+                "ro": "Piscines",
+                "en": "Piscines"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Wintertag im warmen Wasser der Innenbecken ausklingen; die Anlage ist gut beheizt und bietet Komfort bis zum Abend.",
+                "hu": "Zárja a téli napot a beltéri medencék meleg vizében; a létesítmény jól fűtött, és kényelmet nyújt egészen az esti órákig.",
+                "ro": "Încheiați ziua de iarnă în apa caldă a piscinelor interioare; facilitatea este bine încălzită și oferă confort până seara.",
+                "en": "End the winter day in the warm water of the indoor pools; the facility is well-heated and offers comfort until late in the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Dolomitokat bemutató edukációs prezentációval, majd pihenjen egyet a közeli Dolaondes rekreációs központban. Dél körül csodálja meg a hagyományos régi faházakat, majd látogasson el a lenyűgöző Chiesa del Sacro Cuore di Gesù templomba. A délutánt töltse a történelmi Madonna della Neve templom felfedezésével, végül zárja a napot egy kulturális programmal a Gran Tobia Teater falai között.",
         "ro": "Începeți dimineața învățând despre munții Dolomiți la prezentarea educațională, apoi relaxați-vă la complexul recreațional Dolaondes. La amiază, admirați arhitectura tradițională a vechilor case din lemn și vizitați superba biserică Sacro Cuore di Gesù. Petreceți după-amiaza explorând istorica biserică Madonna della Neve, încheind ziua cu o experiență culturală de neuitat la teatrul Gran Tobia.",
         "en": "Start your morning by learning about the mighty Dolomites at the educational presentation before heading to the nearby Dolaondes complex for some relaxing recreational time. As midday approaches, admire the traditional architecture of the old wooden houses before visiting the stunning Chiesa del Sacro Cuore di Gesù. Spend your afternoon at the historic Chiesa della Madonna della Neve and finish with an immersive cultural experience at the Gran Tobia Teater."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Canazei zeigt bei Regen eine mystische Seite. Am Morgen betrachten wir kurz die Geologie, bevor wir im Dolaondes-Zentrum Zuflucht suchen. Mittags spazieren wir unter dem Regenschirm zu den historischen Holzhäusern und Kirchen, die im nassen Glanz stehen. Den Nachmittag verbringen wir geschützt im Gran Tobia Theater, um die lokale Kultur ohne Sorge um das Wetter zu genießen.",
+            "hu": "Canazei esőben is tartogat csodákat, bár a szabadtéri programok rövidebbek. Reggel a kőzetbemutatót nézzük meg gyorsan, majd a Dolaondes wellness központba menekülünk a víz elől. Délben az ódon faházak és templomok között sétálunk esernyővel, élvezve a friss hegyi levegőt. A délutánt a Gran Tobia Színház fedett biztonságában zárjuk, ahol a kultúra melegít fel minket.",
+            "ro": "Canazei pe ploaie oferă o atmosferă mistică și liniștită. Dimineața admirăm rapid rocile Dolomitilor, apoi ne refugiem la centrul Dolaondes pentru relaxare acvatică. La prânz, explorăm casele vechi de lemn și bisericile sub protecția umbrelei. După-amiaza este dedicată Teatrului Gran Tobia, un spațiu cultural primitor care ne ferește de intemperiile de afară.",
+            "en": "Canazei in the rain has a mystical charm. In the morning, we take a quick look at the geological display before seeking refuge in the Dolaondes wellness center. At noon, we stroll among old wooden houses and churches with umbrellas, enjoying the damp mountain air. We spend the afternoon protected in the Gran Tobia Theater, soaking up local culture away from the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Prezentacja edukacyjna - skały Dolomitów",
+                "hu": "Prezentacja edukacyjna - skały Dolomitów",
+                "ro": "Prezentacja edukacyjna - skały Dolomitów",
+                "en": "Prezentacja edukacyjna - skały Dolomitów"
+              },
+              "tip_5lang": {
+                "de": "Die Infotafeln bieten ein wenig Schutz; nutzen Sie die Zeit, um die Entstehung der bleichen Berge zu verstehen, während der Regen die Farben der Steine intensiviert.",
+                "hu": "Az információs táblák alatt védelmet találunk; érdemes megfigyelni, hogyan élénkül meg a kőzetek színe az esőben, miközben a Dolomitok kialakulásáról tanulunk.",
+                "ro": "Panourile informative oferă puțin adăpost; profitați de ocazie pentru a învăța despre formarea munților, în timp ce ploaia intensifică nuanțele naturale ale rocilor.",
+                "en": "The info boards provide some shelter; use the time to learn about the formation of the pale mountains as the rain intensifies the natural colors of the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolaondes",
+                "hu": "Dolaondes",
+                "ro": "Dolaondes",
+                "en": "Dolaondes"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel an Regentagen; genießen Sie die beheizten Innenbecken und den Wellnessbereich, bringen Sie aber rutschfeste Sandalen für die nassen Fliesen mit.",
+                "hu": "A tökéletes esőnapi célpont; élvezze a fűtött benti medencéket és a wellness részleget, de vigyen magával csúszásgátló papucsot a vizes kövezet miatt.",
+                "ro": "Destinația ideală pentru zilele ploioase; bucurați-vă de piscinele interioare încălzite, dar nu uitați sandalele antiderapante pentru zonele cu gresie umedă.",
+                "en": "The perfect rainy day destination; enjoy the heated indoor pools and wellness area, but remember to bring non-slip sandals for the wet tiled floors."
+              }
+            },
+            {
+              "name": {
+                "de": "Old wooden houses",
+                "hu": "Old wooden houses",
+                "ro": "Old wooden houses",
+                "en": "Old wooden houses"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die dunkle Textur des nassen Holzes von den überstehenden Dächern aus; die engen Gassen bieten einen gewissen Schutz vor dem Wind.",
+                "hu": "Csodálja meg a nedves fa sötét textúráját az ereszalják védelméből; a szűk utcák némi szélfogót is jelentenek a csapadékos időben való séta során.",
+                "ro": "Admirați textura închisă a lemnului ud de sub streșinile proeminente; străzile înguste oferă o oarecare protecție împotriva vântului în timpul plimbării.",
+                "en": "Admire the dark texture of the wet wood from under the overhanging eaves; the narrow streets offer some wind protection during your rainy walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore di Gesù",
+                "hu": "Chiesa del Sacro Cuore di Gesù",
+                "ro": "Chiesa del Sacro Cuore di Gesù",
+                "en": "Chiesa del Sacro Cuore di Gesù"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort der Stille und Trockenheit; betrachten Sie die modernen Glasfenster, die auch bei grauem Himmel ein sanftes Licht in den Innenraum werfen.",
+                "hu": "A nyugalom és a szárazság szigete; nézze meg a modern üvegablakokat, amelyek szürke égbolt mellett is lágy fényt árasztanak a templom belsejében.",
+                "ro": "Un loc de liniște și uscăciune; admirați vitraliile moderne care permit luminii difuze să pătrundă în interior chiar și atunci când cerul este gri.",
+                "en": "An island of peace and dryness; look at the modern stained glass windows that let soft light into the interior even when the sky is overcast."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna della Neve",
+                "hu": "Chiesa della Madonna della Neve",
+                "ro": "Chiesa della Madonna della Neve",
+                "en": "Chiesa della Madonna della Neve"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kirche bietet einen intimen Rückzugsort; schütteln Sie Ihren Schirm draußen gut ab, um den historischen Holzboden im Inneren zu schonen.",
+                "hu": "A kis templom meghitt menedéket nyújt; rázza le alaposan az esernyőjét kint, hogy óvja a benti történelmi fapadlót a nedvességtől.",
+                "ro": "Această biserică mică oferă un refugiu intim; scuturați bine umbrela afară pentru a proteja podeaua istorică de lemn din interior.",
+                "en": "This small church offers an intimate retreat; shake your umbrella well outside to protect the historic wooden floor inside from moisture."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Tobia Teater",
+                "hu": "Gran Tobia Teater",
+                "ro": "Gran Tobia Teater",
+                "en": "Gran Tobia Teater"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Abschluss im Trockenen; genießen Sie kulturelle Vorführungen in gemütlicher Atmosphäre und lassen Sie den Regentag entspannt ausklingen.",
+                "hu": "A tökéletes befejezés szárazon; élvezze a kulturális előadásokat a barátságos légkörben, és zárja pihentetően az esős napot a színházban.",
+                "ro": "Finalul perfect la adăpost; bucurați-vă de spectacolele culturale într-o atmosferă primitoare și încheiați ziua ploioasă relaxându-vă în interior.",
+                "en": "The perfect dry finish; enjoy cultural performances in a cozy atmosphere and end your rainy day relaxing inside the theater complex."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Canazei verwandelt sich im Winter in ein Schneemärchen. Morgens erkunden wir die frostigen Felsformationen und wärmen uns anschließend im Dolaondes auf. Mittags bestaunen wir die verschneiten Holzhäuser im Ortskern. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir die beleuchteten Kirchen am späten Nachmittag und beenden den Tag gemütlich im Gran Tobia Theater.",
+            "hu": "Canazei télen igazi hófödte meseország. Reggel a deres kőzeteket csodáljuk meg, majd a Dolaondes melegében engedünk fel. Délben a hóval borított faházak között sétálunk a faluban. Mivel a nap 17:00 körül nyugszik, a délutánt a kivilágított templomok látogatására szánjuk, majd az estét a Gran Tobia Színház kulturális melegében töltjük.",
+            "ro": "Canazei se transformă iarna într-un tărâm de poveste înzăpezit. Dimineața explorăm formațiunile stâncoase înghețate, apoi ne încălzim la Dolaondes. La prânz, admirăm casele de lemn acoperite de zăpadă. Deoarece soarele apune în jur de ora 17:00, vizităm bisericile luminate după-amiaza, încheind ziua la căldura culturală a Teatrului Gran Tobia.",
+            "en": "Canazei transforms into a snowy fairy tale in winter. In the morning, we explore the frosty rock formations, then warm up at Dolaondes. At noon, we admire the snow-covered wooden houses in the center. As the sun sets around 17:00, we visit the illuminated churches in the late afternoon and end the day in the cultural warmth of the Gran Tobia Theater."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Prezentacja edukacyjna - skały Dolomitów",
+                "hu": "Prezentacja edukacyjna - skały Dolomitów",
+                "ro": "Prezentacja edukacyjna - skały Dolomitów",
+                "en": "Prezentacja edukacyjna - skały Dolomitów"
+              },
+              "tip_5lang": {
+                "de": "Die Felsmuster wirken unter einer dünnen Schneeschicht besonders plastisch; tragen Sie warme Handschuhe, um die Infotafeln in Ruhe lesen zu können.",
+                "hu": "A kőzetminták különösen látványosak egy vékony hóréteg alatt; viseljen meleg kesztyűt, hogy kényelmesen végigolvashassa a kinti táblákat.",
+                "ro": "Modelele rocilor par tridimensionale sub un strat subțire de zăpadă; purtați mănuși groase pentru a putea citi panourile informative în tihnă.",
+                "en": "The rock patterns look especially striking under a thin layer of snow; wear warm gloves so you can read the outdoor boards comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolaondes",
+                "hu": "Dolaondes",
+                "ro": "Dolaondes",
+                "en": "Dolaondes"
+              },
+              "tip_5lang": {
+                "de": "Ein Highlight im Winter; das warme Wasser bildet einen herrlichen Kontrast zur kalten Außenluft, ideal zum Aufwärmen nach dem morgendlichen Frost.",
+                "hu": "Téli csúcspont; a meleg víz csodás kontrasztot alkot a kinti fagyos levegővel, ideális hely a felmelegedésre a reggeli séta után.",
+                "ro": "Un punct culminant iarna; apa caldă oferă un contrast superb cu aerul rece de afară, fiind locul ideal pentru a vă încălzi după gerul dimineții.",
+                "en": "A winter highlight; the warm water provides a wonderful contrast to the freezing outdoor air, ideal for warming up after the morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Old wooden houses",
+                "hu": "Old wooden houses",
+                "ro": "Old wooden houses",
+                "en": "Old wooden houses"
+              },
+              "tip_5lang": {
+                "de": "Die verschneiten Dächer wirken wie aus einem Märchenbuch; achten Sie auf Eiszapfen, die von den Rändern hängen können, und tragen Sie feste Schuhe.",
+                "hu": "A hófödte tetők olyanok, mintha egy mesekönyvből léptek volna elő; ügyeljen a jégcsapokra az ereszeknél, és viseljen csúszásmentes téli bakancsot.",
+                "ro": "Acoperișurile înzăpezite par desprinse dintr-o carte de povești; atenție la țurțurii de gheață de la margini și purtați încălțăminte stabilă.",
+                "en": "The snow-covered roofs look like something out of a storybook; watch out for icicles hanging from the edges and wear sturdy winter boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore di Gesù",
+                "hu": "Chiesa del Sacro Cuore di Gesù",
+                "ro": "Chiesa del Sacro Cuore di Gesù",
+                "en": "Chiesa del Sacro Cuore di Gesù"
+              },
+              "tip_5lang": {
+                "de": "Der Innenraum ist angenehm temperiert; nutzen Sie den Besuch für eine kurze Aufwärmpause und bewundern Sie die weihnachtliche Dekoration im Winter.",
+                "hu": "A templombelső kellemesen temperált; használja a látogatást egy rövid melegedőre, és csodálja meg a téli időszakra jellemző díszítést.",
+                "ro": "Interiorul are o temperatură plăcută; folosiți vizita pentru o scurtă pauză de încălzire și admirați decorațiunile specifice perioadei de iarnă.",
+                "en": "The interior is pleasantly tempered; use the visit for a short warm-up break and admire the winter decorations inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Madonna della Neve",
+                "hu": "Chiesa della Madonna della Neve",
+                "ro": "Chiesa della Madonna della Neve",
+                "en": "Chiesa della Madonna della Neve"
+              },
+              "tip_5lang": {
+                "de": "Ihr Name 'Maria im Schnee' ist im Winter Programm; die kleine Kapelle wirkt in der weißen Landschaft besonders andächtig und malerisch.",
+                "hu": "A neve (Havas Boldogasszony) télen válik igazán hitelessé; a kis kápolna a fehér tájban különösen áhítatos és festői látványt nyújt.",
+                "ro": "Numele său, 'Sfânta Maria a Zăpezii', este foarte potrivit iarna; mica capelă arată extrem de pitoresc în mijlocul peisajului alb.",
+                "en": "Its name 'Our Lady of the Snow' is very fitting in winter; the small chapel looks especially pious and picturesque in the white landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Tobia Teater",
+                "hu": "Gran Tobia Teater",
+                "ro": "Gran Tobia Teater",
+                "en": "Gran Tobia Teater"
+              },
+              "tip_5lang": {
+                "de": "Wenn es draußen früh dunkel wird, bietet das Theater eine warme, festliche Atmosphäre; der ideale Ort, um den Winterabend bei Kultur zu genießen.",
+                "hu": "Amikor kint korán sötétedik, a színház meleg és ünnepi hangulatot áraszt; ideális hely a téli este kulturális élményekkel teli lezárásához.",
+                "ro": "Când afară se întunecă devreme, teatrul oferă o atmosferă caldă și festivă; este locul ideal pentru a încheia seara de iarnă cu evenimente culturale.",
+                "en": "When it gets dark early outside, the theater offers a warm, festive atmosphere; the ideal spot to end your winter evening with culture."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A biciklis nap a Ladin Múzeumban kezdődik, ahol megismerheti a helyi örökséget, majd látogasson el a bájos Santi Giacomo e Filippo templomba. Délben tekerjen el a Gran Tobia színházhoz, ahol elmerülhet a regionális kultúrában. Délután induljon vissza a központ felé, nézze meg a Sacro Cuore templomot, a kőzetbemutatót és a híres faházakat. Zárja az aktív napot egy békés kerékpározással a csendes Sant'Antonio templomhoz.",
         "ro": "Ziua de ciclism începe la Muzeul Ladin, oferind o incursiune în patrimoniul local, urmată de o oprire la fermecătoarea biserică Santi Giacomo e Filippo. Pedalați spre teatrul Gran Tobia pentru o doză de cultură regională la prânz. După-amiaza, întoarceți-vă în centru pentru a vedea biserica Sacro Cuore, prezentarea rocilor și vechile case din lemn. Încheiați ziua activă cu o plimbare liniștită spre biserica Sant'Antonio.",
         "en": "Your cycling day starts at the Ladin Museum, offering a deep dive into local heritage, followed by a quick stop at the charming Santi Giacomo e Filippo church. Ride smoothly toward the Gran Tobia Teater for a midday dose of regional culture and history. In the afternoon, pedal back towards the town center to see the Sacro Cuore church, the educational presentation, and the iconic old wooden houses. Conclude your active day with a peaceful evening ride to the serene Sant'Antonio church."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Bergstraßen. Wir beginnen im Museo Ladin, um die nasseste Zeit drinnen zu verbringen. Mittags radeln wir vorsichtig zu den Kirchen und zum Gran Tobia Theater, wobei wir auf rutschigen Asphalt achten. Der Nachmittag führt uns zu den Holzhäusern, bevor wir die Tour sicher beenden und uns in einer warmen Unterkunft trocknen.",
+            "hu": "A kerékpározás esőben óvatosságot igényel a hegyi utakon. A Museo Ladinban kezdünk, hogy a legvizesebb órákat fedett helyen töltsük. Délben óvatosan tekerünk a templomokhoz és a színházhoz, figyelve a csúszós aszfaltra. A délutánt a faházaknál fejezzük be, mielőtt biztonságban visszatérnénk a szállásra megszárítkozni.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile montane. Începem la Museo Ladin pentru a petrece orele cele mai umede în interior. La prânz, pedalăm cu grijă spre biserici și teatru, atenți la asfaltul alunecos. După-amiaza ne conduce spre casele de lemn, înainte de a încheia turul în siguranță pentru a ne usca la cazare.",
+            "en": "Cycling in the rain requires caution on mountain roads. We start at Museo Ladin to spend the wettest hours indoors. At noon, we pedal carefully to the churches and theater, watching out for slippery asphalt. The afternoon leads us to the wooden houses before safely ending the tour to dry off at our accommodation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "hu": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "ro": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "en": "Museo Ladin de Fascia, Il Casino di Bersaglio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Eingangsbereich; das Museum bietet stundenlangen Schutz vor dem Regen und faszinierende Einblicke in die Ladiner Kultur.",
+                "hu": "Parkolja le a bringát biztonságosan a bejáratnál; a múzeum órákon át védelmet nyújt az eső elől és érdekes betekintést a ladin kultúrába.",
+                "ro": "Parcați bicicleta în siguranță la intrare; muzeul oferă ore întregi de protecție împotriva ploii și perspective fascinante asupra culturii ladine.",
+                "en": "Park your bike safely at the entrance; the museum offers hours of protection from the rain and fascinating insights into Ladin culture."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Giacomo e Filippo",
+                "hu": "Chiesa dei Santi Giacomo e Filippo",
+                "ro": "Chiesa dei Santi Giacomo e Filippo",
+                "en": "Chiesa dei Santi Giacomo e Filippo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den nassen, glatten Boden; die Kirche bietet einen ruhigen Ort, um den vorbeiziehenden Regen kurz abzuwarten.",
+                "hu": "Ügyeljen a vizes, csúszós talajra a leszálláskor; a templom csendes helyet kínál, hogy rövid ideig megvárjuk az esőfelhők elvonulását.",
+                "ro": "Atenție la solul umed și alunecos când coborâți de pe bicicletă; biserica oferă un loc liniștit pentru a aștepta trecerea ploii.",
+                "en": "Watch out for the wet, slippery ground when dismounting; the church offers a quiet place to wait briefly for the rain clouds to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Tobia Teater",
+                "hu": "Gran Tobia Teater",
+                "ro": "Gran Tobia Teater",
+                "en": "Gran Tobia Teater"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort für eine längere Pause; nutzen Sie die überdachten Bereiche des Komplexes, um die Ausrüstung kurz zu lüften und zu trocknen.",
+                "hu": "Nagyszerű hely egy hosszabb pihenőre; használja a komplexum fedett részeit a felszerelés rövid szellőztetésére és megszárítására.",
+                "ro": "Un loc excelent pentru o pauză mai lungă; folosiți zonele acoperite ale complexului pentru a aerisi și usca puțin echipamentul ud.",
+                "en": "A great spot for a longer break; use the covered areas of the complex to briefly air out and dry your cycling gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore di Gesù",
+                "hu": "Chiesa del Sacro Cuore di Gesù",
+                "ro": "Chiesa del Sacro Cuore di Gesù",
+                "en": "Chiesa del Sacro Cuore di Gesù"
+              },
+              "tip_5lang": {
+                "de": "Zentral gelegen und leicht erreichbar; die Kirche bietet Schutz, falls ein plötzlicher Schauer Ihre Weiterfahrt durch den Ort unterbricht.",
+                "hu": "Központi fekvésű és könnyen elérhető; a templom védelmet nyújt, ha egy hirtelen zápor félbeszakítaná a kerékpározást a falun keresztül.",
+                "ro": "Situată central și ușor accesibilă; biserica oferă adăpost în cazul în care o ploaie bruscă vă întrerupe deplasarea prin localitate.",
+                "en": "Centrally located and easily accessible; the church provides shelter if a sudden downpour interrupts your ride through the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Prezentacja edukacyjna - skały Dolomitów",
+                "hu": "Prezentacja edukacyjna - skały Dolomitów",
+                "ro": "Prezentacja edukacyjna - skały Dolomitów",
+                "en": "Prezentacja edukacyjna - skały Dolomitów"
+              },
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp im Regen; betrachten Sie die Gesteine im nassen Zustand, wenn ihre Struktur besonders deutlich hervortritt, und fahren Sie dann weiter.",
+                "hu": "Csak egy rövid megálló az esőben; nézze meg a kőzeteket nedvesen, amikor a szerkezetük élesebben látszik, majd tekerjen tovább a fedett helyek felé.",
+                "ro": "Doar o scurtă oprire în ploaie; observați rocile când sunt ude, deoarece structura lor devine mai vizibilă, apoi continuați drumul spre zone acoperite.",
+                "en": "Just a short stop in the rain; observe the rocks when wet, as their structure becomes more distinct, then move on towards covered areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Old wooden houses",
+                "hu": "Old wooden houses",
+                "ro": "Old wooden houses",
+                "en": "Old wooden houses"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über das Kopfsteinpflaster, das bei Nässe sehr rutschig sein kann; die historischen Fassaden wirken im Regen sehr atmosphärisch.",
+                "hu": "Hajtson óvatosan a macskaköveken, amelyek nedvesen nagyon csúszhatnak; a történelmi homlokzatok rendkívül hangulatosak az esős időben.",
+                "ro": "Pedalați cu grijă pe piatra cubică, ce poate fi foarte alunecoasă pe ploaie; fațadele istorice au un aspect foarte atmosferic când sunt ude.",
+                "en": "Ride carefully over the cobblestones, which can be very slippery when wet; the historic facades look very atmospheric in rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Stopp vor der Heimfahrt; nutzen Sie den Kircheneingang, um die Regenkleidung für das letzte Stück Weg noch einmal festzuzurren.",
+                "hu": "Az utolsó megálló a hazatekerés előtt; használja a templombejáratot az esőruházat igazítására az út utolsó szakasza előtt.",
+                "ro": "Ultima oprire înainte de întoarcere; folosiți intrarea bisericii pentru a vă ajusta echipamentul de ploaie pentru ultima parte a drumului.",
+                "en": "The final stop before heading back; use the church entrance to adjust your rain gear for the last stretch of the ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterbiking in Canazei ist erfrischend, erfordert aber gute Schutzkleidung gegen den Frost. Wir starten beim Museo Ladin, um uns aufzuwärmen. Mittags führt die Tour durch die verschneite Landschaft zum Gran Tobia Theater. Da die Sonne gegen 17:00 Uhr untergeht, planen wir die Kirchenbesuche für das schwindende Tageslicht ein und beenden die Fahrt, bevor die Kälte anzieht.",
+            "hu": "A téli kerékpározás Canazeiben frissítő, de jó védőruházatot igényel a fagy ellen. A Museo Ladinban kezdünk a felmelegedés jegyében. Délben a havas tájon keresztül tekerünk a Gran Tobia Színházhoz. Mivel a nap 17:00-kor nyugszik, a templomlátogatásokat a fogyatkozó fényben tervezzük meg, és befejezzük a kört, mielőtt beállna az esti hideg.",
+            "ro": "Ciclismul de iarnă în Canazei este revigorant, dar necesită echipament de protecție bun împotriva gerului. Începem la Museo Ladin pentru a ne încălzi. La prânz, turul ne poartă prin peisajul înzăpezit spre Teatrul Gran Tobia. Deoarece soarele apune la ora 17:00, planificăm vizitele la biserici înainte de lăsarea serii și încheiem cursa înainte de îngheț.",
+            "en": "Winter biking in Canazei is refreshing but requires good protective gear against the frost. We start at Museo Ladin to keep warm. At noon, the tour takes us through the snowy landscape to the Gran Tobia Theater. As the sun sets at 17:00, we plan the church visits for the fading daylight and finish the ride before the evening chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "hu": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "ro": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "en": "Museo Ladin de Fascia, Il Casino di Bersaglio"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt im Winter; wärmen Sie sich in den Ausstellungsräumen auf, bevor Sie die kalte Bergluft auf dem Rad wieder spüren.",
+                "hu": "Ideális kiindulópont télen; melegedjen fel a kiállítótermekben, mielőtt újra a nyeregbe pattanva érezné a hideg hegyi levegőt.",
+                "ro": "Un punct de plecare ideal iarna; încălziți-vă în sălile de expoziție înainte de a simți din nou aerul rece de munte pe bicicletă.",
+                "en": "An ideal starting point in winter; warm up in the exhibition rooms before heading out into the cold mountain air on your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa dei Santi Giacomo e Filippo",
+                "hu": "Chiesa dei Santi Giacomo e Filippo",
+                "ro": "Chiesa dei Santi Giacomo e Filippo",
+                "en": "Chiesa dei Santi Giacomo e Filippo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen auf dem Weg zur Kirche; das historische Gebäude wirkt im Schnee besonders ruhig und ehrwürdig.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a templomhoz vezető úton; a történelmi épület a hóban különösen békés és méltóságteljes látvány.",
+                "ro": "Atenție la porțiunile înghețate de pe drumul spre biserică; clădirea istorică arată extrem de liniștită și venerabilă în mijlocul zăpezii.",
+                "en": "Watch out for potential icy patches on the way to the church; the historic building looks especially peaceful and venerable in the snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Tobia Teater",
+                "hu": "Gran Tobia Teater",
+                "ro": "Gran Tobia Teater",
+                "en": "Gran Tobia Teater"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Komplex für eine Aufwärmpause bei heißem Tee; die moderne Architektur bildet einen spannenden Kontrast zur winterlichen Natur.",
+                "hu": "Használja a komplexumot egy melegedő pihenőre egy forró tea mellett; a modern építészet izgalmas kontrasztot alkot a téli természettel.",
+                "ro": "Folosiți complexul pentru o pauză de încălzire cu un ceai fierbinte; arhitectura modernă oferă un contrast interesant cu natura hibernală.",
+                "en": "Use the complex for a warm-up break with a hot tea; the modern architecture provides an exciting contrast to the winter nature."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa del Sacro Cuore di Gesù",
+                "hu": "Chiesa del Sacro Cuore di Gesù",
+                "ro": "Chiesa del Sacro Cuore di Gesù",
+                "en": "Chiesa del Sacro Cuore di Gesù"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort; bewundern Sie die Details der Fassade, während Sie kurz anhalten, um Ihre Handschuhe zu richten.",
+                "hu": "A templom szélvédett helyet kínál; csodálja meg a homlokzat részleteit, miközben megáll egy pillanatra megigazítani a kesztyűjét.",
+                "ro": "Biserica oferă un loc ferit de vânt; admirați detaliile fațadei în timp ce vă opriți pentru o clipă să vă aranjați mănușile.",
+                "en": "The church offers a spot sheltered from the wind; admire the facade details while stopping for a moment to adjust your gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Prezentacja edukacyjna - skały Dolomitów",
+                "hu": "Prezentacja edukacyjna - skały Dolomitów",
+                "ro": "Prezentacja edukacyjna - skały Dolomitów",
+                "en": "Prezentacja edukacyjna - skały Dolomitów"
+              },
+              "tip_5lang": {
+                "de": "Der Frost betont die Strukturen der Gesteinsproben; machen Sie ein schnelles Foto und setzen Sie die Fahrt fort, um nicht auszukühlen.",
+                "hu": "A zúzmara kiemeli a kőzetminták szerkezetét; készítsen egy gyors fotót, majd tekerjen tovább, hogy ne hűljön ki a teste a megálló alatt.",
+                "ro": "Chiciura subliniază structurile mostrelor de rocă; faceți o fotografie rapidă și continuați drumul pentru a nu vă răci corpul în timpul popasului.",
+                "en": "The frost highlights the structures of the rock samples; take a quick photo and continue riding to prevent your body from cooling down."
+              }
+            },
+            {
+              "name": {
+                "de": "Old wooden houses",
+                "hu": "Old wooden houses",
+                "ro": "Old wooden houses",
+                "en": "Old wooden houses"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie helle Kleidung oder nutzen Sie Licht, da es in den engen Gassen zwischen den Holzhäusern im Winter früher dämmert.",
+                "hu": "Viseljen világos ruhát vagy használjon világítást, mivel a faházak közötti szűk utcákban télen korábban kezdődik a szürkület.",
+                "ro": "Purtați haine reflectorizante sau folosiți lumini, deoarece amurgul se instalează mai devreme pe străzile înguste dintre casele de lemn.",
+                "en": "Wear bright clothing or use lights, as twilight begins earlier in the narrow streets between the wooden houses in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio",
+                "hu": "Chiesa di Sant'Antonio",
+                "ro": "Chiesa di Sant'Antonio",
+                "en": "Chiesa di Sant'Antonio"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Abschluss in der Abenddämmerung; schalten Sie für die letzte Etappe unbedingt Ihr Fahrradlicht ein, da die Sicht nun rasch abnimmt.",
+                "hu": "Szép lezárás a szürkületben; az út utolsó szakaszára mindenképpen kapcsolja be a kerékpárlámpát, mert a látási viszonyok gyorsan romlanak.",
+                "ro": "Un final frumos în amurg; porniți neapărat luminile bicicletei pentru ultima etapă, deoarece vizibilitatea scade rapid acum.",
+                "en": "A beautiful finish in the twilight; be sure to turn on your bike lights for the last leg as visibility decreases rapidly now."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Reggel vezessen a Guides de Fassa központhoz, majd merüljön el a helyi kultúrában az átfogó Ladin Múzeumban. Dél körül parkoljon le a Gran Tobia színház közelében, hogy megcsodálja a régió művészeti örökségét és a kőzetbemutatót. Délután kocsikázzon el a festői, régi, törött fahídhoz néhány egyedi fotó kedvéért. Végül vezessen fel a Col di Rosc hegyre, és élvezze a Dolomitokra nyíló látványos panorámát.",
         "ro": "Conduceți dimineața la centrul Guides de Fassa, apoi cufundați-vă în cultura locală la Muzeul Ladin. La amiază, parcați lângă teatrul Gran Tobia pentru a aprecia moștenirea artistică, înainte de a vedea prezentarea educațională a rocilor. După-amiaza, conduceți până la vechiul pod de lemn rupt pentru câteva fotografii unice. În cele din urmă, urcați cu mașina până la Col di Rosc pentru a savura priveliști panoramice spectaculoase.",
         "en": "Drive out in the morning to the Guides de Fassa center, then immerse yourself in local culture at the comprehensive Ladin Museum. Around midday, park near the Gran Tobia Teater to appreciate the region's artistic heritage before checking out the educational rock presentation. Spend your afternoon driving to the picturesque old broken wooden bridge for some unique photos. Finally, drive up to Col di Rosc to enjoy spectacular panoramic sunset views over the Dolomites."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Canazei auch bei Regen komfortabel zu erkunden. Morgens besuchen wir die Bergführer und das Museum, wobei wir die kurzen Wege im Trockenen genießen. Mittags parken wir bequem am Gran Tobia Theater für ein kulturelles Programm. Nachmittags fahren wir zu den Felsformationen und der Holzbrücke, bevor wir den Tag am Col di Rosc bei dramatischer Wolkenstimmung beenden.",
+            "hu": "Autóval Canazei esőben is kényelmesen felfedezhető. Reggel a hegyi vezetőket és a múzeumot keressük fel, kihasználva a rövid sétákat a szárazban. Délben kényelmesen parkolunk a Gran Tobia Színháznál egy kulturális programra. Délután a kőzetekhez és a fahídhoz autózunk, majd a napot a Col di Roscnál zárjuk a drámai felhőjáték mellett.",
+            "ro": "Cu mașina, Canazei poate fi explorat confortabil chiar și pe ploaie. Dimineața vizităm ghizii montani și muzeul, profitând de scurtele deplasări la adăpost. La prânz parcăm comod la Teatrul Gran Tobia pentru un program cultural. După-amiaza conducem spre rocile Dolomitilor și podul de lemn, încheind ziua la Col di Rosc admirând norii dramatici.",
+            "en": "By car, Canazei can be comfortably explored even in the rain. In the morning, we visit the mountain guides and the museum, taking advantage of the short dry walks. At noon, we park conveniently at the Gran Tobia Theater for a cultural program. In the afternoon, we drive to the rocks and the wooden bridge, ending the day at Col di Rosc with dramatic cloud views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Guides de Fassa",
+                "hu": "Guides de Fassa",
+                "ro": "Guides de Fassa",
+                "en": "Guides de Fassa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor dem Büro; die Bergführer geben Ihnen wertvolle Tipps für Aktivitäten, die auch bei schlechtem Wetter sicher sind.",
+                "hu": "Használja az iroda előtti parkolót; a hegyi vezetők értékes tanácsokat adnak olyan tevékenységekhez, amelyek rossz időben is biztonságosak.",
+                "ro": "Folosiți parcarea din fața biroului; ghizii montani vă vor oferi sfaturi valoroase despre activități care sunt sigure chiar și pe vreme rea.",
+                "en": "Use the parking lot right in front of the office; the mountain guides will give you valuable tips for activities that are safe even in bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "hu": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "ro": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "en": "Museo Ladin de Fascia, Il Casino di Bersaglio"
+              },
+              "tip_5lang": {
+                "de": "Das Museum verfügt über gute Parkmöglichkeiten; verbringen Sie den Vormittag geschützt im Inneren und tauchen Sie tief in die Geschichte des Tals ein.",
+                "hu": "A múzeumnál jó parkolási lehetőség van; töltse a délelőttöt fedett helyen, és merüljön el mélyen a völgy történelmének megismerésében.",
+                "ro": "Muzeul dispune de locuri bune de parcare; petreceți dimineața la adăpost în interior și aprofundați istoria fascinantă a văii.",
+                "en": "The museum has good parking facilities; spend the morning protected inside and dive deep into the fascinating history of the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Tobia Teater",
+                "hu": "Gran Tobia Teater",
+                "ro": "Gran Tobia Teater",
+                "en": "Gran Tobia Teater"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Komplex, um trocken ins Theater zu gelangen; die vielfältigen Innenbereiche bieten ideale Unterhaltung während langer Regenschauer.",
+                "hu": "Parkoljon közvetlenül a komplexumnál, hogy szárazon jusson be a színházba; a változatos belső terek ideális kikapcsolódást nyújtanak a hosszú záporok alatt.",
+                "ro": "Parcați direct la complex pentru a intra în teatru fără a vă uda; spațiile interioare variate oferă divertisment ideal în timpul ploilor prelungite.",
+                "en": "Park right at the complex to enter the theater dry; the diverse indoor spaces offer ideal entertainment during long rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Prezentacja edukacyjna - skały Dolomitów",
+                "hu": "Prezentacja edukacyjna - skały Dolomitów",
+                "ro": "Prezentacja edukacyjna - skały Dolomitów",
+                "en": "Prezentacja edukacyjna - skały Dolomitów"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt mit dem Auto in der Nähe; betrachten Sie die Gesteine kurz im Regen und genießen Sie die klare Luft des Fassa-Tals.",
+                "hu": "Gyors megálló a közelben leparkolt autóval; nézze meg a kőzeteket röviden az esőben, és élvezze a Fassa-völgy friss, tiszta levegőjét.",
+                "ro": "O oprire rapidă cu mașina parcată în apropiere; observați scurt rocile în ploaie și bucurați-vă de aerul proaspăt și curat al văii Fassa.",
+                "en": "A quick stop with the car parked nearby; observe the rocks briefly in the rain and enjoy the fresh, clean air of the Fassa Valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Old broken bridge (wooden)",
+                "hu": "Old broken bridge (wooden)",
+                "ro": "Old broken bridge (wooden)",
+                "en": "Old broken bridge (wooden)"
+              },
+              "tip_5lang": {
+                "de": "Das nasse Holz wirkt besonders dunkel und rustikal; achten Sie beim Aussteigen auf rutschigen Untergrund am Straßenrand nahe der Brücke.",
+                "hu": "A nedves fa különösen sötétnek és rusztikusnak hat; kiszálláskor ügyeljen a csúszós talajra az út szélén a híd közelében.",
+                "ro": "Lemnul ud pare extrem de închis la culoare și rustic; atenție la solul alunecos de la marginea drumului când coborâți lângă pod.",
+                "en": "The wet wood looks particularly dark and rustic; watch out for slippery ground at the roadside when getting out near the bridge."
+              }
+            },
+            {
+              "name": {
+                "de": "Col di Rosc",
+                "hu": "Col di Rosc",
+                "ro": "Col di Rosc",
+                "en": "Col di Rosc"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig bei Nebel oder tiefhängenden Wolken; der Blick aus dem Autofenster auf die verregnete Bergwelt ist dennoch beeindruckend.",
+                "hu": "Vezessen óvatosan ködben vagy alacsonyan lógó felhők esetén; az autó ablakából nyíló kilátás az esős hegyvidékre így is lenyűgöző élmény.",
+                "ro": "Conduceți cu prudență în caz de ceață sau nori joși; priveliștea de la fereastra mașinii asupra munților ploioși este totuși impresionantă.",
+                "en": "Drive carefully in case of fog or low-hanging clouds; the view from the car window of the rainy mountains is still an impressive experience."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto maximale Flexibilität in Canazei. Wir starten beim Museo Ladin, um die morgendliche Kälte drinnen zu überbrücken. Mittags fahren wir zum Gran Tobia Theater und genießen die warme Atmosphäre. Da es bereits gegen 17:00 Uhr dunkelt, besuchen wir die Sehenswürdigkeiten im Tal am Nachmittag und krönen den Tag mit einer Panoramafahrt zum Col di Rosc.",
+            "hu": "Télen az autó maximális rugalmasságot nyújt Canazeiben. A Museo Ladinnál kezdünk, hogy a reggeli hideget fedett helyen töltsük. Délben a Gran Tobia Színházhoz hajtunk, élvezve a benti meleg hangulatot. Mivel 17:00 körül már sötétedik, a völgy látnivalóit délután nézzük meg, a napot pedig egy panorámás autózással koronázzuk meg a Col di Rosc felé.",
+            "ro": "Iarna, mașina oferă flexibilitate maximă în Canazei. Începem la Museo Ladin pentru a evita frigul dimineții în interior. La prânz conducem spre Teatrul Gran Tobia, bucurându-ne de atmosfera caldă. Deoarece se întunecă în jur de ora 17:00, vizităm atracțiile văii după-amiaza și încheiem ziua cu o cursă panoramică spre Col di Rosc.",
+            "en": "In winter, the car provides maximum flexibility in Canazei. We start at Museo Ladin to bridge the morning cold indoors. At noon, we drive to the Gran Tobia Theater, enjoying the warm indoor atmosphere. Since it gets dark around 17:00, we visit the valley's sights in the afternoon and crown the day with a panoramic drive towards Col di Rosc."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Guides de Fassa",
+                "hu": "Guides de Fassa",
+                "ro": "Guides de Fassa",
+                "en": "Guides de Fassa"
+              },
+              "tip_5lang": {
+                "de": "Informieren Sie sich hier über die aktuelle Lawinengefahr und Straßenzustände, bevor Sie Ihre winterliche Erkundungstour durch die Pässe fortsetzen.",
+                "hu": "Tájékozódjon itt az aktuális lavinaveszélyről és az útviszonyokról, mielőtt folytatná téli felfedezőútját a hágókon keresztül.",
+                "ro": "Informați-vă aici despre pericolul actual de avalanșă și starea drumurilor înainte de a vă continua explorarea hibernală prin trecători.",
+                "en": "Find out about the current avalanche danger and road conditions here before continuing your winter exploration through the mountain passes."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "hu": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "ro": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+                "en": "Museo Ladin de Fascia, Il Casino di Bersaglio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto für die Fahrt zum Museum; drinnen erwartet Sie eine angenehme Wärme, während Sie die ladinische Geschichte studieren.",
+                "hu": "Használja az autó fűtését a múzeumig tartó úton; bent kellemes meleg várja, miközben elmélyül a ladin történelem tanulmányozásában.",
+                "ro": "Folosiți încălzirea mașinii pentru drumul până la muzeu; în interior vă așteaptă o căldură plăcută în timp ce studiați istoria ladină.",
+                "en": "Use the car heater for the drive to the museum; inside, a pleasant warmth awaits you while you study the Ladin history."
+              }
+            },
+            {
+              "name": {
+                "de": "Gran Tobia Teater",
+                "hu": "Gran Tobia Teater",
+                "ro": "Gran Tobia Teater",
+                "en": "Gran Tobia Teater"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann im Winter vereist sein; parken Sie vorsichtig und genießen Sie dann die kulturelle Vielfalt im gut beheizten Theaterkomplex.",
+                "hu": "A parkoló télen jeges lehet; parkoljon óvatosan, majd élvezze a kulturális sokszínűséget a jól fűtött színházi komplexumban.",
+                "ro": "Parcarea poate fi înghețată iarna; parcați cu atenție și apoi bucurați-vă de diversitatea culturală în complexul teatral bine încălzit.",
+                "en": "The parking lot can be icy in winter; park carefully and then enjoy the cultural diversity in the well-heated theater complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Prezentacja edukacyjna - skały Dolomitów",
+                "hu": "Prezentacja edukacyjna - skały Dolomitów",
+                "ro": "Prezentacja edukacyjna - skały Dolomitów",
+                "en": "Prezentacja edukacyjna - skały Dolomitów"
+              },
+              "tip_5lang": {
+                "de": "Die Gesteine glitzern im Winterlicht oft magisch; machen Sie einen kurzen Fotostopp, bevor Sie die wohlige Wärme Ihres Fahrzeugs wieder aufsuchen.",
+                "hu": "A kőzetek gyakran varázslatosan csillognak a téli fényben; tegyen egy rövid fotómegállót, mielőtt visszatérne gépjárműve barátságos melegébe.",
+                "ro": "Rocile sclipesc adesea magic în lumina iernii; faceți o scurtă oprire pentru fotografii înainte de a reveni la căldura vehiculului dumneavoastră.",
+                "en": "The rocks often glitter magically in the winter light; take a short photo stop before returning to the cozy warmth of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Old broken bridge (wooden)",
+                "hu": "Old broken bridge (wooden)",
+                "ro": "Old broken bridge (wooden)",
+                "en": "Old broken bridge (wooden)"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, auf dem Brückenholz zu laufen, da es bei Frost extrem glatt ist; betrachten Sie das Bauwerk sicher vom Ufer oder der Straße aus.",
+                "hu": "Kerülje a hídon való járást, mert fagyban rendkívül csúszós; tekintse meg az építményt biztonságosan a partról vagy az út széléről.",
+                "ro": "Evitați să mergeți pe lemnul podului, deoarece este extrem de alunecos pe îngheț; observați structura în siguranță de pe mal sau de la drum.",
+                "en": "Avoid walking on the bridge wood as it is extremely slippery in frost; observe the structure safely from the bank or the roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Col di Rosc",
+                "hu": "Col di Rosc",
+                "ro": "Col di Rosc",
+                "en": "Col di Rosc"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur mit Winterausrüstung hoch; der Sonnenuntergang über den schneebedeckten Gipfeln ist ein unvergesslicher Abschluss Ihrer Autotour.",
+                "hu": "Csak téli felszereléssel hajtson fel; a naplemente a hófödte csúcsok felett felejthetetlen lezárása lesz az autós túrájának.",
+                "ro": "Urcați doar cu echipament de iarnă; apusul de soare peste vârfurile înzăpezite este o încheiere de neuitat a turului dumneavoastră cu mașina.",
+                "en": "Drive up only with winter equipment; the sunset over the snow-covered peaks will be an unforgettable end to your car tour."
+              }
+            }
+          ]
+        }
       }
     }
   }

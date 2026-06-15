@@ -137,6 +137,168 @@
         "hu": "Kezdje egy frissítő reggellel a kör alakú Alun-Alun parkban, élvezve Malang hűvös éghajlatát.\n\nDélben szembesülhet a függetlenség történelmével a tankemlékműnél és az Inggil Múzeum gazdag kulturális tárgyaival.\n\nTöltse a délutánt azzal, hogy átsétál a hangulatos helyi Nja' Abbas Akub galériába.\n\nZárja a napot a város gyarmati vasúti örökségének felfedezésével a Stoomtram múzeumban.",
         "ro": "Începeți cu o dimineață răcoroasă în parcul circular Alun-Alun, bucurându-vă de climatul plăcut al orașului Malang.\n\nLa prânz veți descoperi istoria independenței la monumentul tancului și artefactele culturale bogate ale Muzeului Inggil.\n\nPetreceți-vă după-amiaza plimbându-vă spre fermecătoarea galerie locală Nja' Abbas Akub.\n\nÎncheiați ziua scufundându-vă în moștenirea feroviară colonială a orașului la muzeul Stoomtram.",
         "en": "Start with a refreshing morning at the circular Alun-Alun park, embracing Malang's cool climate.\n\nMidday brings you face-to-face with independence history at the tank monument and the rich cultural artifacts of Museum Inggil.\n\nSpend your afternoon wandering to the charming local gallery of Nja' Abbas Akub.\n\nEnd the day diving into the city's colonial railway heritage at the Stoomtram museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen am Alun-Alun mit einem stabilen Regenschirm für tropische Schauer. Mittags bieten die Museen trockene Zufluchtsorte zur Erkundung der lokalen Geschichte. Nachmittags sind die Wege zwischen den Galerien kurz; nutzen Sie die überdachten Kolonialarkaden. Abends entspannen Sie in einem gemütlichen Museum und meiden die nassen, dunklen Straßen der Stadt.",
+            "hu": "Reggel a főtéren kezdünk, készüljön esernyővel a hirtelen trópusi záporokra. Délben a múzeumok nyújtanak száraz menedéket a helyi történelem felfedezéséhez. Délután a galériák közötti séta rövid, használja a koloniális épületek fedett árkádjait. Este egy barátságos beltéri múzeumban zárjuk a napot, elkerülve a vizes utcákat és a párás, sötétedő várost.",
+            "ro": "Începeți dimineața în Alun-Alun cu o umbrelă solidă pentru așvăraiele tropicale. La prânz, muzeele oferă refugii uscate pentru a explora istoria locală. După-amiaza, distanțele dintre galerii sunt scurte; folosiți arcadele coloniale acoperite. Seara, relaxați-vă într-un muzeu confortabil, evitând străzile umede și întunecate ale orașului.",
+            "en": "Start your morning at the Alun-Alun with a sturdy umbrella ready for tropical downpours. By noon, museums provide dry havens for exploring local history. In the afternoon, the walks between galleries are short; use the covered colonial-style walkways. Spend your evening in a cozy indoor museum setting, avoiding the wet streets and humid air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alun-Alun Bundar Malang",
+                "hu": "Alun-Alun Bundar Malang",
+                "ro": "Alun-Alun Bundar Malang",
+                "en": "Alun-Alun Bundar Malang"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den Lotusteich unter Ihrem Schirm; der zentrale Pavillon bietet schnellen Schutz, falls der tropische Regen morgens stärker wird.",
+                "hu": "Csodálja meg a lótuszos tavat az esernyője alól; a központi pavilon kiváló menedéket nyújt, ha a trópusi eső felerősödne a reggeli séta közben.",
+                "ro": "Admirați iazul cu nufăr sub umbrelă; foișorul central oferă un adăpost rapid dacă ploaia tropicală se intensifică în timpul plimbării de dimineață.",
+                "en": "Admire the lotus pond under your umbrella; the central gazebo offers a quick shelter if the tropical rain intensifies during your morning walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Patung Tank Tentara",
+                "hu": "Patung Tank Tentara",
+                "ro": "Patung Tank Tentara",
+                "en": "Patung Tank Tentara"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp am Denkmal; die nahen Bäume bieten etwas Schutz, aber halten Sie Ihre Regenjacke für den schnellen Wechsel geschlossen.",
+                "hu": "Gyors fotómegálló az emlékműnél; a közeli fák adnak némi takarást, de tartsa zárva az esőkabátját a hirtelen lezúduló csapadék miatt.",
+                "ro": "O scurtă oprire foto la monument; copacii din apropiere oferă puțin adăpost, dar păstrați pelerina de ploaie închisă pentru schimbările rapide.",
+                "en": "A quick photo stop at the monument; nearby trees provide some cover, but keep your raincoat zipped up for the frequent tropical cloudbursts."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Inggil",
+                "hu": "Museum Inggil",
+                "ro": "Museum Inggil",
+                "en": "Museum Inggil"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Zufluchtsort vor dem Regen, wo Sie das Erbe von Malang erkunden können, während Sie völlig trocken und entspannt bleiben.",
+                "hu": "Tökéletes menedék az eső elől, ahol Malang örökségét fedezheti fel, miközben teljesen szárazon és kényelemben marad a hangulatos termekben.",
+                "ro": "Un refugiu perfect împotriva ploii, unde puteți explora moștenirea orașului Malang, rămânând complet uscat și relaxat în interiorul istoric.",
+                "en": "A perfect refuge from the rain where you can explore Malang's heritage while staying completely dry and comfortable in the atmospheric rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Galery Nja' Abbas Akub",
+                "hu": "Galery Nja' Abbas Akub",
+                "ro": "Galery Nja' Abbas Akub",
+                "en": "Galery Nja' Abbas Akub"
+              },
+              "tip_5lang": {
+                "de": "Diese Innengalerie ist ein Heiligtum für Kunstliebhaber bei Sturm; beobachten Sie den Regen durch die Fenster, während Sie die Werke bewundern.",
+                "hu": "Ez a beltéri galéria a művészetkedvelők szentélye vihar idején; nézze az esőt az ablakon át, miközben a helyi alkotók munkáit csodálja.",
+                "ro": "Această galerie interioară este un sanctuar pentru iubitorii de artă în timpul furtunii; priviți ploaia prin ferestre în timp ce admirați operele.",
+                "en": "This indoor gallery is a sanctuary for art lovers during a storm; watch the rain through the windows while admiring the unique local artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Malang Stoomtram Maatschappij",
+                "hu": "Malang Stoomtram Maatschappij",
+                "ro": "Malang Stoomtram Maatschappij",
+                "en": "Malang Stoomtram Maatschappij"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren nassen Spaziergang hier; die historischen Innenexponate sind der beste Ort, um den abendlichen Nieselregen abzuwarten.",
+                "hu": "Fejezze be itt a vizes sétát; a történelmi beltéri kiállítások a legjobb helyszínt kínálják az esti szemerkélő eső megvárásához.",
+                "ro": "Încheiați plimbarea umedă aici; exponatele istorice de interior sunt cel mai bun loc pentru a aștepta trecerea burniței de seară.",
+                "en": "End your wet walk here; the historical indoor exhibits are the best place to wait out the evening drizzle in a fascinating railway setting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die frische Morgenluft am zentralen Platz; eine leichte Jacke ist ideal für das Kolonialviertel. Mittags bieten die Museen eine warme Atmosphäre, bevor die Sonne früh untergeht. Da es bereits um 17:00 Uhr dunkel wird, nutzen Sie das Nachmittagslicht in den Galerien. Abends erzeugen die Lichter der Stadt eine nostalgische Stimmung in den Museen.",
+            "hu": "Élvezze a friss reggeli levegőt a főtéren; egy könnyű dzseki tökéletes a koloniális negyed felfedezéséhez. Délben a múzeumok meleg menedéket nyújtanak, mielőtt a nap korán lebukik. Mivel 17:00-kor már sötétedik, használja ki a délutáni fényeket a galériákban. Este a város fényei nosztalgikus hangulatot árasztanak a múzeumlátogatáshoz.",
+            "ro": "Bucurați-vă de aerul proaspăt de dimineață în piața centrală; o jachetă ușoară este ideală pentru cartierul colonial. La prânz, muzeele oferă o atmosferă caldă înainte ca soarele să apună. Deoarece se întunecă deja la ora 17:00, profitați de lumina după-amiezii în galerii. Seara, luminile orașului creează o stare nostalgică.",
+            "en": "Enjoy the crisp morning air at the central square; a light jacket is perfect for exploring the colonial district. By noon, museums provide a warm refuge before the sun sets early. Since darkness falls at 17:00, make the most of the afternoon light in the galleries. In the evening, the city lights create a nostalgic atmosphere for indoor museum visits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Alun-Alun Bundar Malang",
+                "hu": "Alun-Alun Bundar Malang",
+                "ro": "Alun-Alun Bundar Malang",
+                "en": "Alun-Alun Bundar Malang"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenluft ist hier erfrischend kühl; ein Spaziergang um den Brunnen ist perfekt, solange die milde Wintersonne noch tief steht.",
+                "hu": "A reggeli levegő frissítően hűvös itt; egy séta a szökőkút körül tökéletes, amíg a szelíd téli nap még alacsonyan jár a horizonton.",
+                "ro": "Aerul de dimineață este răcoritor aici; o plimbare în jurul fântânii este perfectă cât timp soarele blând de iarnă este încă jos.",
+                "en": "The morning air is refreshingly cool here; a walk around the fountain is perfect while the mild winter sun is still low in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Patung Tank Tentara",
+                "hu": "Patung Tank Tentara",
+                "ro": "Patung Tank Tentara",
+                "en": "Patung Tank Tentara"
+              },
+              "tip_5lang": {
+                "de": "Das Metall des Panzers wirkt im kühlen Licht fast silbern; ideal für Fotos ohne die grelle Mittagssonne, bevor es abkühlt.",
+                "hu": "A tank féme szinte ezüstösen csillog a hűvös fényben; ideális fotózáshoz a déli hőség nélkül, mielőtt délután hirtelen lehűlne az idő.",
+                "ro": "Metalul tancului pare aproape argintiu în lumina rece; ideal pentru fotografii fără soarele puternic, înainte ca temperatura să scadă.",
+                "en": "The tank's metal looks almost silvery in the cool morning light; ideal for photos without the harsh glare, before the afternoon chill sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Inggil",
+                "hu": "Museum Inggil",
+                "ro": "Museum Inggil",
+                "en": "Museum Inggil"
+              },
+              "tip_5lang": {
+                "de": "Das warme Interieur des Museums ist mittags sehr einladend; genießen Sie die traditionelle Atmosphäre als Schutz vor dem Wind.",
+                "hu": "A múzeum meleg belső tere délidőben nagyon hívogató; élvezze a tradicionális hangulatot, amely védelmet nyújt a hűvösebb téli széltől.",
+                "ro": "Interiorul cald al muzeului este foarte primitor la prânz; bucurați-vă de atmosfera tradițională care oferă protecție împotriva vântului rece.",
+                "en": "The museum's warm interior is very inviting at noon; enjoy the traditional atmosphere that provides a cozy shield from the cooler winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Galery Nja' Abbas Akub",
+                "hu": "Galery Nja' Abbas Akub",
+                "ro": "Galery Nja' Abbas Akub",
+                "en": "Galery Nja' Abbas Akub"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Galerie am frühen Nachmittag, um das goldene Licht zu nutzen, bevor die Sonne um 17:00 Uhr schnell verschwindet.",
+                "hu": "Látogassa meg a galériát kora délután, hogy kihasználja az aranyló fényeket, mielőtt a nap 17:00-kor hirtelen eltűnik a látóhatárról.",
+                "ro": "Vizitați galeria după-amiaza devreme pentru a profita de lumina aurie, înainte ca soarele să dispară rapid la ora 17:00.",
+                "en": "Visit the gallery in the early afternoon to catch the golden light on the artworks before the sun disappears rapidly at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Malang Stoomtram Maatschappij",
+                "hu": "Malang Stoomtram Maatschappij",
+                "ro": "Malang Stoomtram Maatschappij",
+                "en": "Malang Stoomtram Maatschappij"
+              },
+              "tip_5lang": {
+                "de": "Wenn es früh dunkel wird, leuchten die Innenräume des Museums gemütlich; ein idealer Ort, um den Wintertag geschützt zu beenden.",
+                "hu": "Ahogy korán sötétedik, a múzeum belső terei barátságosan világítanak; ideális helyszín a téli nap befejezéséhez a hideg elől védve.",
+                "ro": "Pe măsură ce se întunecă devreme, interioarele muzeului luminează primitor; un loc ideal pentru a încheia ziua de iarnă la adăpost.",
+                "en": "As it gets dark early, the museum interiors glow invitingly; it is an ideal place to end your winter day protected from the evening chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen el a nap kezdetén a Candi Ketawanggede ősi romjaihoz, mielőtt felfedezné az akadémiai örökséget az egyetemi múzeumban.\n\nA dél a Brawijaya katonai történelmének és az Alun-Alun parkban tett pihentető szünetnek van fenntartva.\n\nAhogy a délután estébe hajlik, merüljön el a jávai régiségekben az Inggilnél.\n\nZárja a túrát csodálatos vintage dallamokkal a város egyedülálló Zenei Múzeumában.",
         "ro": "Pedalați la începutul zilei la ruinele antice Candi Ketawanggede înainte de a explora moștenirea academică la muzeul universitar.\n\nPrânzul este rezervat istoriei militare de la Brawijaya și unei pauze relaxante la Alun-Alun.\n\nPe măsură ce după-amiaza se transformă în seară, cufundați-vă în antichitățile javaneze la Inggil.\n\nÎncheiați turul cu melodii vintage minunate la unicul Muzeu al Muzicii din oraș.",
         "en": "Pedal off your day at the ancient ruins of Candi Ketawanggede before exploring the academic heritage at the university museum.\n\nMidday is reserved for the stark military history at Brawijaya and a relaxing break at Alun-Alun.\n\nAs afternoon turns to evening, immerse yourself in Javanese antiquities at Inggil.\n\nFinish the tour with wonderful vintage tunes at the city's unique Music Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf rutschigen Straßen zu den Ruinen. Mittags bieten Campus-Museen Schutz zum Trocknen der Ausrüstung. Die Wege sind nass, aber die kühle Luft ist erfrischend. Verbringen Sie den Nachmittag in großen Hallen wie dem Brawijaya Museum. Beenden Sie die Tour im Musikmuseum, wo Ihre Fahrräder sicher im Trockenen stehen können.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a csúszós utakon a romok felé. Délben az egyetemi múzeumok nyújtanak menedéket a felszerelés megszárításához. Az utak vizesek, de a hűvös levegő frissítő. Töltse a délutánt a Brawijaya múzeum hatalmas csarnokaiban. A túrát a zenemúzeumban zárja, ahol a kerékpárok fedett helyen várhatják a végét.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile alunecoase spre ruine. La prânz, muzeele din campus oferă adăpost pentru uscarea echipamentului. Drumurile sunt ude, dar aerul răcoros este revigorant. Petreceți după-amiaza în halele mari ale Muzeului Brawijaya. Încheiați turul la muzeul muzicii, unde bicicletele pot sta la loc uscat.",
+            "en": "Cycling in the rain requires caution on slippery roads towards the ruins. By noon, campus museums provide shelter to dry off your gear. The roads are wet, but the cool air is refreshing for active riders. Spend the afternoon in large halls like Brawijaya Museum. End your tour at the music museum, where your bikes can be parked safely under cover."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Candi Ketawanggede",
+                "hu": "Candi Ketawanggede",
+                "ro": "Candi Ketawanggede",
+                "en": "Candi Ketawanggede"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf rutschige Steine an den Ruinen; die antike Stätte wirkt im Nebel mystisch, erfordert aber festes Schuhwerk beim Gehen.",
+                "hu": "Vigyázzon a csúszós kövekre a romoknál; az ősi helyszín misztikusnak tűnik a ködben, de szilárd lábbeli szükséges a biztonságos járáshoz.",
+                "ro": "Atenție la pietrele alunecoase de la ruine; situl antic pare mistic în ceață, dar necesită încălțăminte solidă pentru o deplasare sigură.",
+                "en": "Be careful of slippery stones around the ruins; the ancient site looks mystical in the mist but requires firm footing while walking around."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Universitas Negeri Malang",
+                "hu": "Museum Universitas Negeri Malang",
+                "ro": "Museum Universitas Negeri Malang",
+                "en": "Museum Universitas Negeri Malang"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den Vordächern des Campus und trocknen Sie sich ab, während Sie die kulturellen Sammlungen durchstöbern.",
+                "hu": "Parkoljon le a kerékpárral az egyetemi előtetők alatt, és szárítkozzon meg, miközben a kulturális gyűjteményeket böngészi a szárazon.",
+                "ro": "Parcați bicicleta sub streșinile campusului și uscați-vă în timp ce răsfoiți colecțiile culturale în interiorul primitor și uscat.",
+                "en": "Park your bike under the campus eaves and dry off while browsing the academic and cultural collections in the dry university building."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Brawijaya",
+                "hu": "Museum Brawijaya",
+                "ro": "Museum Brawijaya",
+                "en": "Museum Brawijaya"
+              },
+              "tip_5lang": {
+                "de": "Die großen Innenhallen sind ideal für Radfahrer, die eine Pause von der Feuchtigkeit brauchen; erkunden Sie die Geschichte im Trockenen.",
+                "hu": "A hatalmas belső csarnokok ideálisak a pihenéshez; fedezze fel a hadtörténeti kiállítást, amíg a biciklis felszerelése megszárad a tető alatt.",
+                "ro": "Halele interioare mari sunt ideale pentru bicicliștii care au nevoie de o pauză de la umiditate; explorați istoria militară la loc uscat.",
+                "en": "The large indoor halls are ideal for cyclists needing a break from the humidity; explore military history while your gear dries under the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Alun-Alun Bundar Malang",
+                "hu": "Alun-Alun Bundar Malang",
+                "ro": "Alun-Alun Bundar Malang",
+                "en": "Alun-Alun Bundar Malang"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können glatt sein, drosseln Sie also Ihr Tempo; nutzen Sie das Denkmal als Treffpunkt, falls der Himmel sich öffnet.",
+                "hu": "Az utak síkosak lehetnek, ezért lassítson a tempón; használja a központi emlékművet találkozási pontként, ha hirtelen eleredne az eső.",
+                "ro": "Căile pot fi alunecoase, deci reduceți viteza; folosiți monumentul central ca punct de întâlnire dacă cerul se deschide brusc spre ploaie.",
+                "en": "The paths can be slick, so slow down your pace; use the central monument as a meeting point if the sky opens up during your cycling trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Inggil",
+                "hu": "Museum Inggil",
+                "ro": "Museum Inggil",
+                "en": "Museum Inggil"
+              },
+              "tip_5lang": {
+                "de": "Dieser traditionelle Raum bietet eine warme Atmosphäre und ein festes Dach; ein guter Ort, um sich vor der letzten Etappe zu sammeln.",
+                "hu": "Ez a tradicionális tér meleg hangulatot és szilárd tetőt kínál; nagyszerű hely az újracsoportosításhoz az út utolsó szakasza előtt.",
+                "ro": "Acest spațiu tradițional oferă o atmosferă caldă și un acoperiș solid; un loc bun pentru a vă regrupa înainte de ultima etapă a traseului.",
+                "en": "This traditional space offers a warm atmosphere and a solid roof; it’s a great spot to regroup and warm up before the final leg of your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Musik Indonesia",
+                "hu": "Museum Musik Indonesia",
+                "ro": "Museum Musik Indonesia",
+                "en": "Museum Musik Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Ein musikalisches Refugium zum Abschluss; die Innenausstellungen sind vor dem Regen sicher und die Akustik ist bei Regen hervorragend.",
+                "hu": "Zenei menedék a nap végére; a beltéri kiállítások védettek a felhőszakadástól, és az akusztika kiváló az eső kopogása mellett is.",
+                "ro": "Un refugiu muzical pentru final; exponatele interioare sunt ferite de potop, iar acustica este excelentă chiar și când plouă afară.",
+                "en": "A musical sanctuary to end the day; the indoor displays are safe from the downpour and the acoustics are great while rain taps on the roof."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Radtour in der kühlen Morgenluft bei den Ruinen; Schichten sind der Schlüssel zum Komfort. Mittags wärmt die Sonne, aber in den Museen bleibt es angenehm. Planen Sie Ihre Route so, dass Sie das Brawijaya Museum vor dem frühen Sonnenuntergang erreichen. Abends fällt die Temperatur bei Einbruch der Dunkelheit um 17:00 Uhr schnell ab, also beenden Sie die Tour im Warmen.",
+            "hu": "Kezdje a biciklitúrát a friss reggeli levegőben a romoknál; a réteges öltözködés a kulcs a kényelemhez. Délben a nap melenget, de a múzeumokban kellemes marad az idő. Tervezze úgy az utat, hogy a Brawijaya múzeumba a korai naplemente előtt érjen. Este a hőmérséklet gyorsan esik 17:00-kor, zárja a napot meleg helyen.",
+            "ro": "Începeți tura cu bicicleta în aerul rece de dimineață la ruine; straturile de haine sunt cheia confortului. La prânz soarele încălzește, dar în muzee rămâne plăcut. Planificați ruta pentru a ajunge la Muzeul Brawijaya înainte de apusul devreme. Seara, temperatura scade rapid la ora 17:00, deci încheiați tura la căldură.",
+            "en": "Start your bike tour in the crisp morning air at the ruins; layering is key for comfort while riding. By noon, the sun warms up, but museums remain pleasantly cool. Plan your route to reach the Brawijaya Museum before the early sunset. In the evening, the temperature drops quickly at 17:00, so finish your ride in a warm indoor setting."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Candi Ketawanggede",
+                "hu": "Candi Ketawanggede",
+                "ro": "Candi Ketawanggede",
+                "en": "Candi Ketawanggede"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenbrise ist an den Ruinen kühl; tragen Sie Schichten, da sich die Temperatur auf dem offenen Gelände schnell ändern kann.",
+                "hu": "A reggeli szellő hűvös a romoknál; viseljen réteges öltözetet, mert a hőmérséklet gyorsan változhat a nyílt terepen való tekeréskor.",
+                "ro": "Briza de dimineață este rece la ruine; purtați haine stratificate, deoarece temperatura se poate schimba rapid pe terenul deschis.",
+                "en": "The morning breeze is cool at the ruins; wear layers, as the temperature can change quickly while cycling on open ground in the winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Universitas Negeri Malang",
+                "hu": "Museum Universitas Negeri Malang",
+                "ro": "Museum Universitas Negeri Malang",
+                "en": "Museum Universitas Negeri Malang"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um sich mittags aufzuwärmen; die akademische Umgebung ist ruhig und bietet Schutz vor dem kalten Winterwind.",
+                "hu": "Nagyszerű hely a felmelegedéshez délidőben; az akadémiai környezet csendes, és védelmet nyújt a metsző téli széllel szemben.",
+                "ro": "Un loc excelent pentru a vă încălzi la prânz; mediul academic este liniștit și oferă protecție împotriva vântului rece de iarnă.",
+                "en": "A great place to warm up at noon; the academic environment is quiet and provides a solid shield against the biting winter wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Brawijaya",
+                "hu": "Museum Brawijaya",
+                "ro": "Museum Brawijaya",
+                "en": "Museum Brawijaya"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Nachmittagslicht für Fotos im Freien, bevor Sie hineingehen, um die Sammlung in der Wärme zu erkunden.",
+                "hu": "Használja ki a szelíd délutáni fényeket a kültéri fotókhoz, mielőtt bemenne a gyűjteményt felfedezni a múzeum meleg belső tereibe.",
+                "ro": "Profitați de lumina blândă de după-amiază pentru fotografii în exterior, înainte de a intra să explorați colecția la căldură.",
+                "en": "Make use of the mild afternoon light for outdoor photos before heading inside to explore the military collection in a warmer setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Alun-Alun Bundar Malang",
+                "hu": "Alun-Alun Bundar Malang",
+                "ro": "Alun-Alun Bundar Malang",
+                "en": "Alun-Alun Bundar Malang"
+              },
+              "tip_5lang": {
+                "de": "Der Platz ist am späten Nachmittag belebt, aber kühl; ein schneller Halt hier ist perfekt, bevor die Sonne um 17:00 Uhr untergeht.",
+                "hu": "A tér késő délután forgalmas, de hűvös; egy gyors megálló itt tökéletes, mielőtt a nap 17:00-kor végleg lebukna a látóhatáron.",
+                "ro": "Piața este animată dar rece după-amiaza târziu; o oprire rapidă aici este perfectă înainte ca soarele să apună la ora 17:00.",
+                "en": "The square is busy but cool in the late afternoon; a quick stop here is perfect before the sun sets at 17:00 and the air chills further."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Inggil",
+                "hu": "Museum Inggil",
+                "ro": "Museum Inggil",
+                "en": "Museum Inggil"
+              },
+              "tip_5lang": {
+                "de": "Wenn die Dämmerung früh einsetzt, ist die Atmosphäre hier besonders gemütlich; wärmen Sie sich auf, bevor Sie zum letzten Ziel radeln.",
+                "hu": "Ahogy korán beköszönt a szürkület, a hangulat itt különösen meghitt; melegedjen fel, mielőtt az utolsó állomáshoz tekerne a hűvösben.",
+                "ro": "Pe măsură ce amurgul vine devreme, atmosfera aici este foarte primitoare; încălziți-vă înainte de a pedala spre ultima destinație.",
+                "en": "As dusk arrives early, the atmosphere here is especially cozy; warm up inside before cycling to your final destination in the cool evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Musik Indonesia",
+                "hu": "Museum Musik Indonesia",
+                "ro": "Museum Musik Indonesia",
+                "en": "Museum Musik Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Wintertour in diesem warmen, melodischen Hafen; die Innenbeleuchtung schafft eine wunderbare Stimmung nach Sonnenuntergang.",
+                "hu": "Zárja a téli túrát ebben a meleg, dallamos menedékben; a belső világítás csodás hangulatot teremt a korai naplemente után.",
+                "ro": "Încheiați tura de iarnă în acest refugiu cald și melodic; iluminarea interioară creează o stare minunată după apusul devreme.",
+                "en": "Finish your winter tour in this warm, melodic haven; the indoor lighting creates a wonderful atmosphere after the early sunset at 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "Az utazás északon, Ketawanggede ősi történelmével kezdődik, majd a Sattar és a Reenactor múzeumok meghitt helyi örökségével folytatódik.\n\nA dél a Brawijaya ismert katonai kiállításait és az ikonikus Alun-Alun parkban tett pihentető látogatást kínálja.\n\nDélután fedezze fel a gyarmati villamosokat és a város békés templomi építészetét.\n\nA nap dallamosan zárul a páratlan Zenei Múzeum időutazásával.",
         "ro": "Conducerea începe în nord cu istoria antică a Ketawanggede, trecând la moștenirea locală intimă la muzeele Sattar și Reenactor.\n\nPrânzul prezintă renumitele expoziții militare Brawijaya și o ședere relaxantă la iconicul Alun-Alun.\n\nDupă-amiaza, descoperiți tramvaiele coloniale și arhitectura pașnică a bisericii din oraș.\n\nZiua se încheie melodic cu o călătorie în timp la unicul Muzeu al Muzicii.",
         "en": "Your drive begins in the north with the ancient history of Ketawanggede, moving to intimate local heritage at the Sattar and Reenactor museums.\n\nMidday features the renowned Brawijaya military exhibits and a relaxing stay at the iconic Alun-Alun.\n\nIn the afternoon, discover the colonial trams and the city's peaceful church architecture.\n\nThe day concludes melodically with a trip through time at the unique Music Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Tour bequem von Ihrem Auto aus, während der Regen auf das Dach prasselt. Die Museen sind perfekt für einen nassen Tag, da sie fast nahtlosen Zugang vom Parkplatz bieten. Die Straßen von Malang können bei Starkregen überflutet sein, planen Sie also etwas mehr Zeit ein. Verbringen Sie den Abend in den überdachten religiösen und kulturellen Stätten der Stadt.",
+            "hu": "Élvezze a túrát kényelmesen az autóból, miközben az eső kopog a tetőn. A múzeumok tökéletesek egy vizes napon, mivel szinte közvetlen bejutást kínálnak a parkolóból. Malang utcái elönthetők hirtelen esőnél, ezért számoljon extra idővel. Töltse az estét a város fedett vallási és kulturális helyszínein, távol a sártól.",
+            "ro": "Bucurați-vă de tur confortabil din mașină, în timp ce ploaia bate în plafon. Muzeele sunt perfecte pentru o zi umedă, oferind acces aproape direct din parcare. Străzile din Malang pot fi inundate la ploi torențiale, deci planificați timp extra. Petreceți seara în locurile religioase și culturale acoperite ale orașului.",
+            "en": "Enjoy the tour comfortably from your car while the rain taps on the roof. Museums are perfect for a wet day as they offer nearly seamless access from the parking areas. Malang's streets can flood during heavy rain, so allow extra travel time between stops. Spend your evening in the city's covered religious and cultural sites, away from the mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Candi Ketawanggede",
+                "hu": "Candi Ketawanggede",
+                "ro": "Candi Ketawanggede",
+                "en": "Candi Ketawanggede"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um nass werden zu vermeiden; der nasse Stein schafft eine schöne, reflektierende Atmosphäre für Fotos.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az elázást; a vizes kövek gyönyörű, tükröződő felületet és különleges hangulatot adnak a fotókhoz.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia; piatra umedă creează o atmosferă frumoasă și reflectorizantă pentru fotografii deosebite.",
+                "en": "Park close to the entrance to minimize rain exposure; the wet stone creates a beautiful, reflective atmosphere for unique photos from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Haji Muhammad Sattar (MHMS)",
+                "hu": "Museum Haji Muhammad Sattar (MHMS)",
+                "ro": "Museum Haji Muhammad Sattar (MHMS)",
+                "en": "Museum Haji Muhammad Sattar (MHMS)"
+              },
+              "tip_5lang": {
+                "de": "Ein nahtloser Übergang vom Auto zur Kultur; bleiben Sie trocken, während Sie mehr über das islamische Erbe und lokale Artefakte erfahren.",
+                "hu": "Zökkenőmentes átmenet az autóból a kultúrába; maradjon szárazon, miközben megismeri az iszlám örökséget és a helyi leleteket a beltérben.",
+                "ro": "O tranziție lină de la mașină la cultură; rămâneți uscat în timp ce aflați mai multe despre moștenirea islamică și artefactele locale din interior.",
+                "en": "A seamless transition from car to culture; stay dry while learning about Islamic heritage and local artifacts in the well-sheltered building."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Reenactor Ngalam",
+                "hu": "Museum Reenactor Ngalam",
+                "ro": "Museum Reenactor Ngalam",
+                "en": "Museum Reenactor Ngalam"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Innenausstellungen sind ideal für Regentage; erleben Sie Geschichte, ohne draußen nass oder schlammig zu werden.",
+                "hu": "A beltéri történelmi kiállítások ideálisak esős napokra; tanúja lehet a történelemnek anélkül, hogy kint elázna vagy sáros lenne a cipője.",
+                "ro": "Exponatele istorice de interior sunt ideale pentru zilele ploioase; puteți vedea istoria prin viu grai fără a vă uda sau a vă murdări afară.",
+                "en": "The indoor historical reenactment displays are perfect for rainy weather; you can witness history come alive without getting wet or muddy outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Brawijaya",
+                "hu": "Museum Brawijaya",
+                "ro": "Museum Brawijaya",
+                "en": "Museum Brawijaya"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Nähe des Museums zur Straße für einfachen Zugang; das riesige Innere bietet viel Platz, um dem Regen zu entkommen.",
+                "hu": "Használja ki a múzeum közelségét az úthoz a könnyű bejutásért; a hatalmas belső tér bőséges helyet kínál az eső elől való meneküléshez.",
+                "ro": "Folosiți proximitatea muzeului față de drum pentru acces ușor; interiorul vast oferă mult spațiu pentru a scăpa de ploaia de afară.",
+                "en": "Use the museum's proximity to the road for easy access; the vast interior provides plenty of space to escape the rain and explore in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Alun-Alun Bundar Malang",
+                "hu": "Alun-Alun Bundar Malang",
+                "ro": "Alun-Alun Bundar Malang",
+                "en": "Alun-Alun Bundar Malang"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Kreisverkehr aus Ihrem Fahrzeug oder machen Sie einen kurzen Gang zum Zentrum mit einem stabilen Schirm.",
+                "hu": "Élvezze a körforgalom látványát a járműből, vagy tegyen egy gyors, határozott sétát a központba egy strapabíró esernyővel felszerelkezve.",
+                "ro": "Bucurați-vă de vederea sensului giratoriu din vehicul sau faceți o plimbare scurtă până în centru cu o umbrelă rezistentă la vânt.",
+                "en": "Enjoy the view of the roundabout from your vehicle or take a quick, braced walk to the center with a sturdy umbrella to see the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Malang Stoomtram Maatschappij",
+                "hu": "Malang Stoomtram Maatschappij",
+                "ro": "Malang Stoomtram Maatschappij",
+                "en": "Malang Stoomtram Maatschappij"
+              },
+              "tip_5lang": {
+                "de": "Diese historische Stätte ist größtenteils überdacht; ein großartiger Halt, um im Trockenen mehr über das alte Bahnsystem zu erfahren.",
+                "hu": "Ez a történelmi helyszín nagyrészt fedett; nagyszerű megálló, hogy szárazon ismerje meg a régi vasúti rendszert és a gőzmozdonyokat.",
+                "ro": "Acest sit istoric este în mare parte acoperit; o oprire excelentă pentru a afla despre vechiul sistem feroviar fără a fi afectat de ploaie.",
+                "en": "This historical site is mostly covered; it's a great stop to learn about the old rail system and steam trams while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "GKT Jemaat 1",
+                "hu": "GKT Jemaat 1",
+                "ro": "GKT Jemaat 1",
+                "en": "GKT Jemaat 1"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur lässt sich am besten vom trockenen Inneren bewundern; treten Sie ein für einen Moment der Stille abseits des Sturms.",
+                "hu": "A templom építészete a belső térből is lenyűgöző; térjen be egy pillanatra a csendes menedékbe, hogy elkerülje a kinti felhőszakadást és a sárt.",
+                "ro": "Arhitectura este cel mai bine apreciată din interiorul uscat; intrați pentru un moment de liniște departe de furtuna și zgomotul de afară.",
+                "en": "The architecture is best appreciated from the dry interior; step inside for a moment of quiet reflection away from the storm and the wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Musik Indonesia",
+                "hu": "Museum Musik Indonesia",
+                "ro": "Museum Musik Indonesia",
+                "en": "Museum Musik Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Regentour in diesem melodischen Hafen; die Sammlung ist umfangreich und vollständig vor den Elementen geschützt.",
+                "hu": "Fejezze be az esős túrát ebben a dallamos menedékben; a gyűjtemény kiterjedt és teljes mértékben védett az elemekkel szemben a beltérben.",
+                "ro": "Încheiați turul ploios în acest paradis melodic; colecția este vastă și complet protejată de intemperii în interiorul primitor.",
+                "en": "Finish your rainy tour in this melodic haven; the indoor collection is extensive and completely protected from the elements in the museum rooms."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Tour in der kühlen Morgenluft bei den Tempelruinen. Bis Mittag bieten die Museen eine warme Umgebung, während die Sonne tief steht. Die Nachmittagsbesuche sind so getaktet, dass Sie den frühen Sonnenuntergang um 17:00 Uhr schlagen. Verbringen Sie Ihren Abend im gemütlichen Musikmuseum und genießen Sie die Stimmung der beleuchteten Straßen vom Auto aus.",
+            "hu": "Kezdje a reggelt a templomromok hűvös levegőjén. Délre a múzeumok meleg és informatív környezetet biztosítanak, amíg a nap alacsonyan jár. A délutáni látogatások úgy vannak időzítve, hogy megelőzzék a korai, 17:00 órai naplementét. Töltse az estét a barátságos zenemúzeumban, élvezve a kivilágított Malang hangulatát az autó kényelméből.",
+            "ro": "Începeți dimineața în aerul rece al ruinelor templului. Până la prânz, muzeele oferă un mediu cald cât timp soarele stă jos. Vizitele de după-amiază sunt programate pentru a prinde apusul devreme de la ora 17:00. Petreceți seara în muzeul muzicii, bucurându-vă de străzile luminate din confortul mașinii.",
+            "en": "Start your morning in the cool air of the temple ruins. By noon, the museums provide a warm and informative environment as the sun stays low. Afternoon visits are timed to beat the early sunset at 17:00. Spend your evening in the cozy, well-lit music museum, enjoying the nostalgic vibe of Malang's illuminated streets from the comfort of your car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Candi Ketawanggede",
+                "hu": "Candi Ketawanggede",
+                "ro": "Candi Ketawanggede",
+                "en": "Candi Ketawanggede"
+              },
+              "tip_5lang": {
+                "de": "Die Morgenluft an den Ruinen ist erfrischend; nutzen Sie das klare Winterlicht für Fotos, bevor Sie in Ihr warmes Auto zurückkehren.",
+                "hu": "A reggeli levegő frissítő a romoknál; használja ki a tiszta téli fényeket a fotózáshoz, mielőtt visszatérne a fűtött autó kényelmébe.",
+                "ro": "Aerul de dimineață la ruine este revigorant; profitați de lumina clară de iarnă pentru fotografii, înainte de a reveni în mașina caldă.",
+                "en": "The morning air at the ruins is refreshing; make use of the clear winter light for photos before returning to the comfort of your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Haji Muhammad Sattar (MHMS)",
+                "hu": "Museum Haji Muhammad Sattar (MHMS)",
+                "ro": "Museum Haji Muhammad Sattar (MHMS)",
+                "en": "Museum Haji Muhammad Sattar (MHMS)"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Zwischenstopp mittags; die Innenausstellungen bieten einen großartigen Einblick in die Geschichte, geschützt vor dem kühlen Wind.",
+                "hu": "Meleg köztes megálló délidőben; a beltéri kiállítások nagyszerű betekintést nyújtanak a történelembe, védve a kinti hűvös széltől.",
+                "ro": "O oprire caldă la prânz; exponatele interioare oferă o perspectivă excelentă asupra istoriei, ferite de vântul rece de iarnă de afară.",
+                "en": "A warm stop at noon; the indoor exhibits offer great insight into history while providing a solid shield from the cool winter wind outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Reenactor Ngalam",
+                "hu": "Museum Reenactor Ngalam",
+                "ro": "Museum Reenactor Ngalam",
+                "en": "Museum Reenactor Ngalam"
+              },
+              "tip_5lang": {
+                "de": "Die detaillierten Szenen wirken im sanften Nachmittagslicht besonders lebendig; ein gemütlicher Ort, um die Zeit vor dem frühen Sonnenuntergang zu verbringen.",
+                "hu": "A részletes jelenetek különösen élénknek tűnnek a lágy délutáni fényben; barátságos hely az időtöltésre a korai naplemente előtt.",
+                "ro": "Scenele detaliate par deosebit de vii în lumina blândă de după-amiază; un loc primitor pentru a petrece timpul înainte de apusul devreme.",
+                "en": "The detailed scenes look particularly vivid in the soft afternoon light; a cozy place to spend time before the sun sets early at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Brawijaya",
+                "hu": "Museum Brawijaya",
+                "ro": "Museum Brawijaya",
+                "en": "Museum Brawijaya"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Museum am frühen Nachmittag, um die Exponate im Freien zu sehen, bevor es um 17:00 Uhr schnell dunkel und kühler wird.",
+                "hu": "Látogassa meg a múzeumot kora délután, hogy lássa a szabadtéri kiállításokat, mielőtt 17:00-kor gyorsan besötétedik és lehűl a levegő.",
+                "ro": "Vizitați muzeul după-amiaza devreme pentru a vedea exponatele în aer liber, înainte ca la ora 17:00 să se întunece rapid și să se răcească.",
+                "en": "Visit the museum in the early afternoon to see the outdoor exhibits before it gets dark and the temperature drops quickly at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Alun-Alun Bundar Malang",
+                "hu": "Alun-Alun Bundar Malang",
+                "ro": "Alun-Alun Bundar Malang",
+                "en": "Alun-Alun Bundar Malang"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Denkmal im goldenen Licht der Wintersonne kurz vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+                "hu": "Élvezze az emlékmű látványát a téli nap aranyló fényében, közvetlenül a korai, 17:00 órai naplemente és a lehűlés előtt.",
+                "ro": "Bucurați-vă de vederea monumentului în lumina aurie a soarelui de iarnă, chiar înainte de apusul devreme de la ora 17:00.",
+                "en": "Enjoy the view of the monument in the golden winter sunlight just before the early sunset at 17:00 and the subsequent temperature drop."
+              }
+            },
+            {
+              "name": {
+                "de": "Malang Stoomtram Maatschappij",
+                "hu": "Malang Stoomtram Maatschappij",
+                "ro": "Malang Stoomtram Maatschappij",
+                "en": "Malang Stoomtram Maatschappij"
+              },
+              "tip_5lang": {
+                "de": "Die beleuchteten Züge wirken in der frühen Dämmerung fast magisch; wärmen Sie sich im Inneren auf, während der Wintertag zu Ende geht.",
+                "hu": "A kivilágított vonatok szinte varázslatosnak tűnnek a korai szürkületben; melegedjen fel odabent, ahogy a téli nap a végéhez közeledik.",
+                "ro": "Trenurile iluminate par aproape magice în amurgul devreme; încălziți-vă în interior pe măsură ce ziua de iarnă se apropie de sfârșit.",
+                "en": "The illuminated trains look almost magical in the early dusk; warm up inside the museum building as the winter day draws to a close."
+              }
+            },
+            {
+              "name": {
+                "de": "GKT Jemaat 1",
+                "hu": "GKT Jemaat 1",
+                "ro": "GKT Jemaat 1",
+                "en": "GKT Jemaat 1"
+              },
+              "tip_5lang": {
+                "de": "Das warme Licht im Inneren der Kirche ist am späten Nachmittag sehr einladend; ein ruhiger Ort zum Aufwärmen vor dem Abend.",
+                "hu": "A templom belső terének meleg fényei hívogatóak késő délután; csendes hely a felmelegedéshez az esti programok megkezdése előtt.",
+                "ro": "Luminile calde din interiorul bisericii sunt primitoare după-amiaza târziu; un loc liniștit pentru încălzire înainte de lăsarea serii.",
+                "en": "The warm lights inside the church are very inviting in the late afternoon; it is a quiet, peaceful place to warm up before the evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Musik Indonesia",
+                "hu": "Museum Musik Indonesia",
+                "ro": "Museum Musik Indonesia",
+                "en": "Museum Musik Indonesia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Tag in dieser warmen, musikalischen Umgebung; die Sammlung bietet eine großartige Beschäftigung für den frühen dunklen Abend.",
+                "hu": "Zárja a napot ebben a meleg, zenei környezetben; a gyűjtemény nagyszerű elfoglaltságot kínál a korán sötétedő téli estén.",
+                "ro": "Încheiați ziua în acest mediu muzical cald; colecția oferă o activitate excelentă pentru seara de iarnă care vine devreme.",
+                "en": "Finish your day in this warm, musical environment; the collection offers a great indoor activity for the early dark winter evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

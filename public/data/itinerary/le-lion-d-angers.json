@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Le Lion-d'Angers szívében, a városházánál, és szívja magába a békés hangulatot. Egy nagyon rövid séta elvezeti a történelmi Saint-Martin templomhoz, amely tökéletes hely az elmélkedésre. A levegő friss és az utcák csendesek.\n\nAhogy közeledik a dél, fókuszáljon a város lovas lelkére, és látogasson el a híres Hippodrome-ba. A pályák körüli séta meghozza az étvágyat. Ezután a kiterjedt Isle Briand Park a természet ölelését kínálja, amely ideális egy nyugodt szünethez.\n\nA délutánt a régió gazdag lovas történelmének szenteljük a Haras national de l'Isle Briand-ban. Itt igazán értékelheti a francia lótenyésztés örökségét egy lenyűgöző környezetben. A fenséges környezet maradandó benyomást kelt.\n\nZárja gyalogtúráját a Château de l'Isle Briand-nál, amely csak egy kőhajításnyira van. A késő délutáni fény tökéletesen megvilágítja a kastély falait, emlékezetes és pihentető befejezést kínálva egy, a helyi örökségben elmerülő napnak.",
         "ro": "Începeți dimineața în inima orașului Le Lion-d'Angers la primăria locală, absorbind atmosfera pașnică. O plimbare foarte scurtă vă aduce la biserica istorică Saint-Martin, un loc perfect pentru reflecție. Aerul este proaspăt, iar străzile sunt liniștite.\n\nPe măsură ce se apropie prânzul, schimbați accentul pe sufletul ecvestru al orașului vizitând faimosul Hipodrom. O plimbare în jurul pistelor vă face poftă de mâncare. Apoi, parcul expansiv Isle Briand oferă îmbrățișarea naturii, ideal pentru o pauză senină.\n\nDupă-amiaza este dedicată istoriei ecvestre bogate a regiunii la Haras national de l'Isle Briand. Aici puteți aprecia profund moștenirea creșterii cailor francezi într-un cadru uimitor. Mediul maiestuos lasă o impresie de durată.\n\nÎncheiați-vă turul pe jos la Château de l'Isle Briand, aflat la doar o aruncătură de băț. Lumina după-amiezii târzii iluminează perfect zidurile castelului, oferind un final memorabil și relaxant unei zile complet cufundate în moștenirea locală.",
         "en": "Start your morning in the heart of Le Lion-d'Angers at the local town hall, absorbing the peaceful morning vibe. A very short stroll brings you to the historic Saint-Martin Church, a perfect place to reflect. The air is fresh and the streets are quiet.\n\nAs midday approaches, shift your focus to the equestrian soul of the town by visiting the famous Hippodrome. Enjoying a walk around the tracks builds an appetite. Next, the expansive Isle Briand Park offers nature's embrace, ideal for a serene break.\n\nThe afternoon is dedicated to the region's rich equine history at the Haras national de l'Isle Briand. Here you can deeply appreciate the heritage of French horse breeding in a stunning setting. The majestic environment leaves a lasting impression.\n\nConclude your walking tour at the Château de l'Isle Briand, just a stone's throw away. The late afternoon light perfectly illuminates the castle walls, offering a memorable and relaxing end to a day fully immersed in the local heritage."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir am Rathaus, wobei der Regenschirm unser ständiger Begleiter im Nieselregen sein wird. Mittags bietet die Kirche Saint-Martin Schutz vor dem Wetter; ihre Innenräume sind beeindruckend. Nachmittags geht es zum Park und zum Gestüt, wo die überdachten Bereiche der Ställe helfen, trocken zu bleiben. Abends beenden wir den Tag am Schloss, bevor Dunkelheit und Nässe die Oberhand gewinnen.",
+            "hu": "Reggel a városháza környékén kezdünk, ahol az esernyőnk a legjobb barátunk lesz a szemerkélő esőben. Délben a Saint-Martin templom nyújt menedéket a zord idő elől, belső terei lenyűgözőek. Délután az Isle Briand park és a ménes felé vesszük az irányt, ahol az istállók fedett részei segítenek szárazon maradni. Este a kastély falai között zárjuk a napot, mielőtt a sötétség és a víz teljesen átveszi az uralmat.",
+            "ro": "Dimineața începem la primărie, unde umbrela va fi cel mai bun prieten al nostru în ploaia măruntă. La prânz, biserica Saint-Martin oferă adăpost de vremea rea; interioarele sale sunt impresionante. După-amiaza ne îndreptăm spre parc și herghelie, unde zonele acoperite ale grajdurilor ne ajută să rămânem uscați. Seara încheiem ziua la castel, înainte ca întunericul și apa să pună stăpânire pe tot.",
+            "en": "In the morning, we start at the town hall, where your umbrella will be your best friend in the drizzling rain. At noon, Saint-Martin Church provides shelter from the inclement weather; its interiors are stunning. In the afternoon, we head towards the park and the stud farm, where the covered areas of the stables help you stay dry. In the evening, we finish at the castle before the rain takes over."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie du Lion-d'Angers",
+                "hu": "Mairie du Lion-d'Angers",
+                "ro": "Mairie du Lion-d'Angers",
+                "en": "Mairie du Lion-d'Angers"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade unter dem Schutz Ihres Schirms und halten Sie sich für plötzliche Windböen auf dem Platz bereit.",
+                "hu": "Csodálja meg a városháza homlokzatát az esernyője alól, és tartsa kéznél, mert a szél felerősödhet a nyílt tereken.",
+                "ro": "Admirați fațada primăriei de sub umbrelă și fiți pregătit, deoarece vântul se poate intensifica în spațiile deschise.",
+                "en": "Admire the town hall facade from under your umbrella; stay prepared as the wind can pick up in the open square."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist der perfekte Zufluchtsort vor dem Regen; genießen Sie die bunten Glasfenster, während Sie auf trockeneres Wetter warten.",
+                "hu": "A templom tökéletes menedék az eső elől; élvezze a színes üvegablakok látványát, amíg kint eláll az égi áldás.",
+                "ro": "Biserica este refugiul perfect împotriva ploii; admirați vitraliile colorate în timp ce așteptați ca vremea să se domolească.",
+                "en": "The church is a perfect sanctuary from the rain; admire the stained glass windows while waiting for the weather to clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Hippodrome du Lion d'Angers",
+                "hu": "Hippodrome du Lion d'Angers",
+                "ro": "Hippodrome du Lion d'Angers",
+                "en": "Hippodrome du Lion d'Angers"
+              },
+              "tip_5lang": {
+                "de": "Die Tribünen bieten Schutz; beobachten Sie die neblige Rennbahn und stellen Sie sich das Spektakel eines Renntages vor.",
+                "hu": "A lelátók védelmet nyújtanak; figyelje a ködös versenypályát, és képzelje el a versenyek izgalmát a szakadó esőben.",
+                "ro": "Tribunele oferă protecție; observați pista cețoasă și imaginați-vă emoția unei zile de curse prin ploaia deasă.",
+                "en": "The stands offer shelter; watch the misty track and imagine the excitement of race day through the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Park l'Isle Briand",
+                "hu": "Isle Briand Park",
+                "ro": "Parcul Isle Briand",
+                "en": "Isle Briand Park"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie wegen der Rutschgefahr auf den befestigten Wegen und genießen Sie den frischen Duft des regennassen Parks.",
+                "hu": "A csúszásveszély miatt maradjon a kövezett utakon, és élvezze az eső utáni friss földillatot a hatalmas parkban.",
+                "ro": "Rămâneți pe aleile pavate pentru a evita alunecarea și bucurați-vă de mirosul proaspăt al parcului după ploaie.",
+                "en": "Stay on the paved paths to avoid slipping and enjoy the fresh scent of the rain-washed park and the lush greenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Haras national de l'Isle Briand",
+                "hu": "Haras national de l'Isle Briand",
+                "ro": "Haras national de l'Isle Briand",
+                "en": "Haras national de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Die Innenbesichtigung der Ställe ist ideal bei Regen; entdecken Sie die Pferde und die Geschichte im trockenen Inneren.",
+                "hu": "Az istállók belső látogatása ideális esőben; ismerje meg a lovakat és a történelmet a száraz épületek falai között.",
+                "ro": "Vizitarea grajdurilor este ideală pe ploaie; descoperiți caii și istoria locală în interiorul primitor și uscat.",
+                "en": "Indoor stable tours are ideal for rainy days; discover the horses and history while staying dry inside the historic walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Isle Briand",
+                "hu": "Château de l'Isle Briand",
+                "ro": "Château de l'Isle Briand",
+                "en": "Château de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt unter dem grauen Himmel dramatisch; achten Sie auf den rutschigen Boden beim Fotografieren am Eingang.",
+                "hu": "A kastély drámai hatást kelt a szürke ég alatt; vigyázzon a csúszós kövekre, amikor fotókat készít a főbejáratnál.",
+                "ro": "Castelul pare dramatic sub cerul gri; aveți grijă la pietrele alunecoase când faceți fotografii la intrarea principală.",
+                "en": "The castle looks dramatic under the grey sky; watch out for slippery stones when taking photos near the main entrance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens starten wir bei eisiger Kälte am Rathaus; es ist ratsam, sich gegen den frostigen Wind schichtweise zu kleiden. Mittags bietet das stille Innere der Kirche etwas Aufwärmung, bevor wir zur riesigen Rennbahn weiterziehen. Nachmittags machen wir einen belebenden Spaziergang durch die kahlen Bäume des Parks zum Gestüt. Abends geht die Sonne früh, gegen 17 Uhr, hinter dem Schloss unter.",
+            "hu": "Reggel csípős hidegben indulunk a városházától, érdemes rétegesen öltözködni a fagyos szél ellen. Délben a templom csendes belsője nyújt egy kis felmelegedést, mielőtt továbbsétálnánk a hatalmas lóversenypálya felé. Délután a park kopár fái között teszünk egy élénkítő sétát a ménesig, élvezve a téli napsütést. Este a nap korán, már 17 óra körül lebukik a kastély mögött.",
+            "ro": "Dimineața începem în frigul tăios de la primărie; merită să vă îmbrăcați în straturi împotriva vântului înghețat. La prânz, interiorul liniștit al bisericii oferă puțină căldură înainte de a continua spre hipodromul imens. După-amiaza facem o plimbare revigorantă printre copacii golași ai parcului până la herghelie. Seara, soarele apune devreme, deja în jurul orei 17:00, în spatele castelului.",
+            "en": "In the morning, we start in the biting cold at the town hall; it's worth dressing in layers against the frosty wind. At noon, the quiet interior of the church offers a bit of warmth before we move on towards the massive racecourse. In the afternoon, we take an invigorating walk through the bare trees of the park to the stud farm. In the evening, the sun sets early, around 17:00, behind the castle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie du Lion-d'Angers",
+                "hu": "Mairie du Lion-d'Angers",
+                "ro": "Mairie du Lion-d'Angers",
+                "en": "Mairie du Lion-d'Angers"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den frostigen Morgen am Rathaus; tragen Sie warme Handschuhe, wenn Sie Karten oder Handys im Freien nutzen.",
+                "hu": "Kezdje a fagyos reggelt a városházánál; viseljen meleg kesztyűt, ha a térképet vagy a telefonját a szabadban használja.",
+                "ro": "Începeți dimineața geroasă la primărie; purtați mănuși groase dacă folosiți harta sau telefonul în aer liber.",
+                "en": "Start your frosty morning at the town hall; wear warm gloves if you need to use maps or phones outdoors in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche finden Sie spirituelle Wärme; genießen Sie die Stille, während Sie sich kurz vom eisigen Wind erholen.",
+                "hu": "A templom falai között belső melegségre lelhet; élvezze a csendet, miközben kicsit megpihen a jeges szél elől.",
+                "ro": "În interiorul bisericii veți găsi o căldură spirituală; bucurați-vă de liniște în timp ce vă adăpostiți de vântul înghețat.",
+                "en": "Inside the church, you will find spiritual warmth; enjoy the silence while taking a brief break from the icy wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Hippodrome du Lion d'Angers",
+                "hu": "Hippodrome du Lion d'Angers",
+                "ro": "Hippodrome du Lion d'Angers",
+                "en": "Hippodrome du Lion d'Angers"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Rennbahn kann beißend sein; eine windfeste Jacke ist ein Muss für diesen weiten, offenen Raum.",
+                "hu": "A szél a versenypályán metsző lehet; egy szélálló kabát kötelező darab ezen a hatalmas, nyitott területen.",
+                "ro": "Vântul de pe hipodrom poate fi tăios; o jachetă rezistentă la vânt este obligatorie pentru acest spațiu larg deschis.",
+                "en": "The wind across the racecourse can be biting; a windproof jacket is a must for exploring this vast, open area."
+              }
+            },
+            {
+              "name": {
+                "de": "Park l'Isle Briand",
+                "hu": "Isle Briand Park",
+                "ro": "Parcul Isle Briand",
+                "en": "Isle Briand Park"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie zügig, um warm zu bleiben, und bewundern Sie die kahlen Äste, die weite Ausblicke auf den Fluss ermöglichen.",
+                "hu": "Lépkedjen tempósan, hogy melegen tartsa magát, és csodálja meg a kopár ágak közül nyíló kilátást a folyóra.",
+                "ro": "Mergeți vioi pentru a vă menține căldura și admirați ramurile golașe care permit vederi largi spre râu.",
+                "en": "Walk briskly to stay warm and admire the bare branches that allow for wider views of the river landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Haras national de l'Isle Briand",
+                "hu": "Haras national de l'Isle Briand",
+                "ro": "Haras national de l'Isle Briand",
+                "en": "Haras national de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Die Ställe sind im Winter belebt; die Nähe der Pferde schafft eine gemütliche Atmosphäre an kalten Tagen.",
+                "hu": "A ménes istállói télen is élettel telik; a lovak közelsége meghitt hangulatot áraszt a fagyos napokon.",
+                "ro": "Grajdurile sunt pline de viață iarna; apropierea cailor creează o atmosferă primitoare în zilele geroase.",
+                "en": "The stables remain lively in winter; the presence of the horses creates a cozy atmosphere on cold days."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Isle Briand",
+                "hu": "Château de l'Isle Briand",
+                "ro": "Château de l'Isle Briand",
+                "en": "Château de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne geht früh unter, also nutzen Sie das letzte Tageslicht für Fotos von der winterlichen Schlossfassade.",
+                "hu": "A nap korán lebukik, így használja ki az utolsó fényeket a téli kastélyhomlokzat lefényképezéséhez.",
+                "ro": "Soarele apune devreme, așa că profitați de ultima lumină pentru fotografii cu fațada de iarnă a castelului.",
+                "en": "The sun sets early, so make the most of the last daylight for photos of the winter castle facade."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +481,168 @@
         "hu": "Kezdje a kerékpáros napot a Saint-Martin templomnál, élvezve a reggeli nyugalmat, mielőtt nyeregbe pattan. Egy gyors út egyenesen a Hippodrome-hoz visz, ahol körbetekerheti a területet, és magába szívhatja a versenypálya nyitott atmoszféráját.\n\nDélben a Haras national de l'Isle Briand buja területére érkezik. A birtok ösvényein való kerékpározás öröm, és lehetővé teszi a hatalmas ménes könnyű felfedezését. Szánjon időt a friss levegő és a gyönyörű táj élvezetére az út során.\n\nA lovas létesítmények felfedezése után tekerjen át a közeli Château de l'Isle Briand-hoz. A gyönyörű építészet fantasztikus hátteret biztosít a pihenéshez és feltöltődéshez. A sík ösvények a kerékpározást erőfeszítés nélkülivé és élvezetessé teszik.\n\nAz utolsó szakaszon tegyen egy festői utazást a Château de l'Hommeau felé. A városból a vidékre változó táj frissítő. A naplemente színeinek megfigyelése e történelmi vidéki kastély felett tökéletes, nyugodt befejezést nyújt az aktív napnak.",
         "ro": "Începeți-vă ziua de ciclism la Biserica Saint-Martin, bucurându-vă de liniștea dimineții înainte de a urca pe bicicletă. O plimbare rapidă vă duce direct la Hipodrom, unde puteți pedala pe perimetru și vă puteți bucura de atmosfera deschisă a hipodromului.\n\nLa prânz ajungeți pe terenurile luxuriante ale Haras national de l'Isle Briand. Ciclismul pe aleile domeniului este o bucurie, permițându-vă să explorați cu ușurință vasta herghelie. Făceți-vă timp pentru a vă bucura de aerul curat și de peisajele frumoase.\n\nDupă explorarea facilităților ecvestre, pedalați spre Château de l'Isle Briand din apropiere. Arhitectura frumoasă oferă un fundal fantastic în timp ce vă odihniți și vă reîncărcați. Cărările plate fac ciclismul fără efort și extrem de plăcut.\n\nPentru ultima etapă, faceți o plimbare pitorească până la Château de l'Hommeau. Peisajul în schimbare de la oraș la mediul rural este revigorant. Privind nuanțele apusului de soare peste acest castel rural istoric oferă un final perfect și senin.",
         "en": "Kick off your cycling day at the Saint-Martin Church, enjoying the morning tranquility before hopping on your bike. A quick ride takes you straight to the Hippodrome, where you can cycle around the perimeter and soak in the expansive, open atmosphere of the racecourse.\n\nMidday brings you to the lush grounds of the Haras national de l'Isle Briand. Cycling through the estate paths is a joy, allowing you to easily explore the vast stud farm. Take your time to enjoy the crisp air and beautiful scenery along the way.\n\nAfter exploring the equestrian facilities, pedal over to the nearby Château de l'Isle Briand. The beautiful architecture makes for a fantastic backdrop as you rest and recharge. The flat paths make the cycling effortless and highly enjoyable.\n\nFor the final stretch, take a scenic ride out to the Château de l'Hommeau. The changing landscape from town to countryside is refreshing. Watching the sunset hues over this historic rural castle provides a perfect, serene finish to your active day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine ruhige Atmosphäre. Wir starten an der Kirche und fahren zum Gestüt, wobei wir Pfützen meiden. Mittags nutzen wir die überdachten Bereiche des Schlosses für eine Pause. Die Fahrt endet am Schloss Hommeau, während der Regen die Landschaft in ein sanftes Grau taucht.",
+            "hu": "Az esős kerékpározás óvatosságot igényel, de különleges nyugalmat áraszt. A templomtól indulva a ménes felé tekerünk, kerülgetve a tócsákat. Délben a kastély fedett részeit használjuk pihenésre. A túra a Château de l'Hommeau-nál ér véget, miközben az eső szürke fátylat borít a tájra.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență, dar oferă o atmosferă liniștită. Pornim de la biserică spre herghelie, evitând bălțile. La prânz, folosim zonele acoperite ale castelului pentru o pauză. Traseul se încheie la Castelul Hommeau, în timp ce ploaia îmbracă peisajul într-un gri fin.",
+            "en": "Cycling in the rain requires caution but offers a unique tranquility. We start at the church and pedal towards the stud farm, avoiding puddles. At noon, we use the covered areas of the castle for a break. The tour ends at Château de l'Hommeau as the rain drapes the landscape in a soft grey veil."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad unter ein Dach, damit der Sattel trocken bleibt, während Sie das Kircheninnere besichtigen.",
+                "hu": "Hagyja a biciklit fedett tárolóban, hogy a nyereg száraz maradjon, amíg ön a templom belsejét csodálja.",
+                "ro": "Lăsați bicicleta sub un adăpost pentru ca șaua să rămână uscată în timp ce vizitați interiorul bisericii.",
+                "en": "Leave your bike under a cover so the seat stays dry while you admire the church's impressive interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Hippodrome du Lion d'Angers",
+                "hu": "Hippodrome du Lion d'Angers",
+                "ro": "Hippodrome du Lion d'Angers",
+                "en": "Hippodrome du Lion d'Angers"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können rutschig sein; drosseln Sie in den Kurven das Tempo und genießen Sie die neblige Aussicht auf die Bahn.",
+                "hu": "Az utak csúszóssá válhatnak; lassítson a kanyarokban és élvezze a lóversenypálya ködös, melankolikus látványát.",
+                "ro": "Drumurile pot deveni alunecoase; încetiniți în curbe și bucurați-vă de vederea cețoasă asupra hipodromului.",
+                "en": "The paths can be slippery; slow down in the turns and enjoy the misty, melancholic view of the racecourse."
+              }
+            },
+            {
+              "name": {
+                "de": "Haras national de l'Isle Briand",
+                "hu": "Haras national de l'Isle Briand",
+                "ro": "Haras national de l'Isle Briand",
+                "en": "Haras national de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Schutzbleche sind bei Regen sehr ratsam; das Gestüt bietet viele überdachte Gänge für eine trockene Besichtigung.",
+                "hu": "A sárvédő használata erősen ajánlott; a ménes számos fedett folyosót kínál a száraz látogatáshoz.",
+                "ro": "Apărătorile de noroi sunt recomandate; herghelia oferă multe coridoare acoperite pentru o vizită la adăpost de ploaie.",
+                "en": "Mudguards are highly recommended; the stud farm offers many covered corridors for a dry visit even during showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Isle Briand",
+                "hu": "Château de l'Isle Briand",
+                "ro": "Château de l'Isle Briand",
+                "en": "Château de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasses Laub auf den Wegen zum Schloss; die alten Mauern wirken im Regen noch geschichtsträchtiger.",
+                "hu": "Figyeljen a vizes levelekre a kastélyhoz vezető úton; a falak látványa az esőben még középkoribb hangulatot áraszt.",
+                "ro": "Atenție la frunzele ude pe drumul spre castel; zidurile vechi par și mai pline de istorie sub ploaie.",
+                "en": "Watch out for wet leaves on the paths to the castle; the old walls look even more historic in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Hommeau",
+                "hu": "Château de l'Hommeau",
+                "ro": "Château de l'Hommeau",
+                "en": "Château de l'Hommeau"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht kann durch den Regen eingeschränkt sein; das elegante Schloss wird mystisch aus dem Dunst auftauchen.",
+                "hu": "A látótávolság korlátozott lehet; az elegáns kastély sejtelmesen, szinte misztikusan bukkan majd elő a párából.",
+                "ro": "Vizibilitatea poate fi redusă din cauza ploii; castelul elegant va apărea misterios din ceața densă.",
+                "en": "Visibility may be limited by rain; the elegant castle will emerge mysteriously from the damp mist at the finish."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Radtour führt uns durch die winterliche Anjou-Landschaft. Wir wärmen uns in der Kirche auf, bevor wir über das offene Gelände der Rennbahn radeln. Der Besuch im Gestüt bietet eine willkommene Pause vom kalten Wind. Die Tour endet bei früh einsetzender Dämmerung am festlich wirkenden Schloss Hommeau.",
+            "hu": "A fagyos kerékpártúra a téli Anjou vidéken vezet keresztül. A templomban melegszünk fel, mielőtt a versenypálya nyílt területén tekernénk át. A ménesnél tett látogatás kellemes pihenőt nyújt a hideg szél elől. A túra a korai szürkületben ér véget a méltóságteljes Château de l'Hommeau-nál.",
+            "ro": "Turul înghețat cu bicicleta ne poartă prin regiunea Anjou iarna. Ne încălzim în biserică înainte de a pedala prin spațiul deschis al hipodromului. Vizita la herghelie oferă o pauză binevenită de vântul rece. Turul se încheie în amurgul timpuriu la maiestuosul Castel Hommeau.",
+            "en": "The frosty bike tour takes us through the winter landscapes of Anjou. We warm up in the church before cycling across the open grounds of the racecourse. The visit to the stud farm offers a welcome break from the cold wind. The tour ends at early dusk at the majestic Château de l'Hommeau."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im Inneren auf, bevor Sie wieder dem eisigen Fahrtwind trotzen; achten Sie auf eine sichere Radabstellung.",
+                "hu": "Melegedjen át a belső térben, mielőtt újra szembeszállna a jeges menetszéllel; ügyeljen a bicikli biztonságos lezárására.",
+                "ro": "Încălziți-vă în interior înainte de a înfrunta din nou vântul înghețat; asigurați-vă că bicicleta este bine parcată.",
+                "en": "Warm up inside the church before facing the icy wind again; make sure your bike is securely locked nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Hippodrome du Lion d'Angers",
+                "hu": "Hippodrome du Lion d'Angers",
+                "ro": "Hippodrome du Lion d'Angers",
+                "en": "Hippodrome du Lion d'Angers"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie beim Radeln über das freie Feld einen Gesichtsschutz oder Schal gegen den beißenden Winterwind.",
+                "hu": "Viseljen arcmaszkot vagy sálat a tekeréshez a nyílt terepen, hogy megvédje arcát a metsző téli széltől.",
+                "ro": "Purtați o mască sau un fular pentru a vă proteja fața de vântul tăios de iarnă în timp ce pedalați în câmp deschis.",
+                "en": "Wear a face mask or scarf to protect against the biting winter wind while cycling across the open racecourse area."
+              }
+            },
+            {
+              "name": {
+                "de": "Haras national de l'Isle Briand",
+                "hu": "Haras national de l'Isle Briand",
+                "ro": "Haras national de l'Isle Briand",
+                "en": "Haras national de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Die Ställe sind deutlich wärmer als die Außenluft; nutzen Sie die Zeit hier, um sich für die nächste Etappe aufzuwärmen.",
+                "hu": "Az istállók érezhetően melegebbek a kinti levegőnél; használja ki az időt a felmelegedésre a következő szakasz előtt.",
+                "ro": "Grajdurile sunt mult mai calde decât aerul de afară; profitați de timp pentru a vă încălzi înainte de următoarea etapă.",
+                "en": "The stables are noticeably warmer than the outside air; use your time here to regain heat before the next cycling leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Isle Briand",
+                "hu": "Château de l'Isle Briand",
+                "ro": "Château de l'Isle Briand",
+                "en": "Château de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Das Licht schwindet nach 16:30 Uhr schnell; erreichen Sie das Schloss rechtzeitig, um die Aussicht noch genießen zu können.",
+                "hu": "A fények 16:30 után gyorsan fogynak; érjen a kastélyhoz időben, hogy még élvezhesse a téli panorámát.",
+                "ro": "Lumina scade rapid după ora 16:30; ajungeți la castel la timp pentru a vă putea bucura de panorama de iarnă.",
+                "en": "Light fades quickly after 16:30; reach the castle early enough to enjoy the view before the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de l'Hommeau",
+                "hu": "Château de l'Hommeau",
+                "ro": "Château de l'Hommeau",
+                "en": "Château de l'Hommeau"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf dem gefrorenen Boden im Park vorsichtig; das beleuchtete Schloss bietet einen majestätischen Abschluss.",
+                "hu": "Óvatosan tekerjen a park fagyos talaján; a kivilágított kastély méltóságteljes zárása lesz a téli napnak.",
+                "ro": "Pedalați cu atenție pe solul înghețat din parc; castelul iluminat oferă un final maiestuos zilei de iarnă.",
+                "en": "Cycle carefully on the frozen ground in the park; the illuminated castle provides a majestic end to your winter journey."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Kezdje autós útvonalát a festői Château de l'Hommeau-nál, kissé a városközponton kívül. Miután megcsodálta a rusztikus varázsát, vezessen Le Lion-d'Angers szívébe, hogy meglátogassa a történelmi Saint-Martin templomot, amely a közeli parkolókkal könnyen megközelíthető.\n\nVezessen el a Haras national de l'Isle Briand hatalmas birtokához. Az autó nyújtotta kényelem lehetővé teszi, hogy gyorsan átváltson a város vallási örökségéről a mélyen gyökerező lovaskultúrára, elegendő időt hagyva a kiterjedt terület felfedezésére.\n\nTartson észak felé Montreuil-sur-Maine irányába, és álljon meg röviden a festői Mairie-nél. Egy rövid ugrásra található az Église Saint-Pierre, ahol csendes pillanatokat élvezhet a bájos, hagyományos építészet megcsodálásával.\n\nFejezze be autós utazását a lenyűgöző Château de la Touche-nál. Az autózás megkönnyíti ennek a némileg elszigetelt birtoknak az elérését. Élvezze a békés, dombos vidéki környezetet a nap végén, visszagondolva a régió látnivalóinak változatos túrájára.",
         "ro": "Începeți-vă itinerariul cu mașina la pitorescul Château de l'Hommeau, ușor în afara centrului orașului. După ce i-ați admirat farmecul rustic, conduceți în inima orașului Le Lion-d'Angers pentru a vizita istorica Biserică Saint-Martin, cu parcare în apropiere.\n\nConduceți până la vastul domeniu al Haras national de l'Isle Briand. Confortul unei mașini vă permite să treceți rapid de la moștenirea religioasă la cultura sa ecvestră, oferindu-vă timp suficient pentru a explora terenurile întinse.\n\nÎndreptați-vă spre nord spre Montreuil-sur-Maine, oprindu-vă scurt la primăria pitorească. La un pas distanță se află Église Saint-Pierre, unde vă puteți bucura de un moment liniștit admirând arhitectura sa fermecătoare, tradițională.\n\nÎncheiați-vă călătoria la impresionantul Château de la Touche. Conducerea face ușor de ajuns la acest domeniu oarecum retras. Bucurați-vă de împrejurimile rurale pașnice pe măsură ce ziua se încheie, reflectând la un tur divers al punctelor de atracție.",
         "en": "Begin your driving itinerary at the picturesque Château de l'Hommeau, slightly outside the town center. After admiring its rustic charm, drive into the heart of Le Lion-d'Angers to visit the historic Saint-Martin Church, easily accessible with nearby parking available.\n\nDrive down to the vast estate of the Haras national de l'Isle Briand. The convenience of a car allows you to quickly transition from the town's religious heritage to its deep-rooted equestrian culture, giving you ample time to explore the expansive grounds.\n\nHead north towards Montreuil-sur-Maine, stopping briefly at the quaint Mairie to appreciate the local village layout. A short hop away is the Église Saint-Pierre, where you can enjoy a quiet moment admiring its charming, traditional architecture.\n\nFinish your road trip at the impressive Château de la Touche. Driving makes reaching this somewhat secluded estate easy. Enjoy the peaceful, rolling countryside surroundings as the day winds down, reflecting on a diverse tour of the region's highlights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir die Region bequem und trocken. Wir besuchen Schlösser und Kirchen und nutzen die kurzen Wege zwischen Parkplatz und Sehenswürdigkeit. Mittags bietet das Gestüt viele überdachte Möglichkeiten. Abends erreichen wir das Schloss de la Touche, während der Regen gegen die Scheiben trommelt und die Atmosphäre gemütlich macht.",
+            "hu": "Autóval kényelmesen és szárazon fedezzük fel a környéket. Kastélyokat és templomokat látogatunk, kihasználva a parkolók és a látnivalók közelségét. Délben a ménes kínál fedett programokat. Este a Château de la Touche-hoz érünk, miközben az eső a szélvédőn kopog, meghitt hangulatot teremtve.",
+            "ro": "Cu mașina explorăm regiunea confortabil și fără să ne udăm. Vizităm castele și biserici, profitând de distanțele scurte de la parcare. La prânz, herghelia oferă multe opțiuni acoperite. Seara ajungem la Castelul de la Touche, în timp ce ploaia bate în parbriz, creând o atmosferă primitoare.",
+            "en": "By car, we explore the region comfortably and stay dry. We visit castles and churches, making the most of the short distances from parking spots. At noon, the stud farm offers many covered options. In the evening, we reach Château de la Touche as the rain drums on the windshield, creating a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de l'Hommeau",
+                "hu": "Château de l'Hommeau",
+                "ro": "Château de l'Hommeau",
+                "en": "Château de l'Hommeau"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und eilen Sie zum Eingang; die prachtvollen Innenräume lassen das schlechte Wetter schnell vergessen.",
+                "hu": "Parkoljon közel a bejárathoz és siessen be; a pazar belső terek hamar elfeledtetik önnel a kinti barátságtalan időt.",
+                "ro": "Parcați aproape și grăbiți-vă spre intrare; interioarele somptuoase vă vor face să uitați rapid de vremea urâtă de afară.",
+                "en": "Park close and head straight for the entrance; the ornate interiors will make you forget the bad weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie einen Parkplatz in der Nähe, um kaum nass zu werden; die Stille im Inneren ist ideal für eine entspannte Pause.",
+                "hu": "Használjon közeli parkolót, hogy alig érje az eső; a benti csend és nyugalom ideális egy pihentető megállóra.",
+                "ro": "Folosiți o parcare din apropiere pentru a nu vă uda; liniștea din interior este ideală pentru o pauză relaxantă.",
+                "en": "Use a nearby parking spot to minimize your time in the rain; the quiet interior is ideal for a relaxing break."
+              }
+            },
+            {
+              "name": {
+                "de": "Haras national de l'Isle Briand",
+                "hu": "Haras national de l'Isle Briand",
+                "ro": "Haras national de l'Isle Briand",
+                "en": "Haras national de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Das Besucherzentrum ist perfekt bei Regen; die überdachten Wege zwischen den Ställen garantieren eine trockene Besichtigung.",
+                "hu": "A látogatóközpont tökéletes esőben; az istállók közötti fedett utak garantálják a száraz és érdekes nézelődést.",
+                "ro": "Centrul de vizitare este perfect pe ploaie; aleile acoperite dintre grajduri garantează o vizită uscată și interesantă.",
+                "en": "The visitor center is perfect for rain; the covered walkways between stables ensure a dry and informative experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Montreuil-sur-Maine",
+                "hu": "Mairie de Montreuil-sur-Maine",
+                "ro": "Mairie de Montreuil-sur-Maine",
+                "en": "Mairie de Montreuil-sur-Maine"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie für ein schnelles Foto unter dem Schirm; der offene Platz bietet wenig Schutz vor peitschendem Regen.",
+                "hu": "Csak egy gyors fotóra álljon meg az esernyője alatt; a nyílt tér kevés védelmet nyújt a metsző eső ellen.",
+                "ro": "Opriți-vă doar pentru o fotografie rapidă sub umbrelă; spațiul deschis oferă puțină protecție împotriva ploii dese.",
+                "en": "Stop only for a quick photo under your umbrella; the open square offers little protection from the driving rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Das Kircheninnere ist ein gemütlicher Rückzugsort; lauschen Sie dem Regen auf dem Dach, während Sie die Kunstwerke betrachten.",
+                "hu": "A templom belső tere meghitt menedék; hallgassa az eső kopogását a tetőn, miközben a műalkotásokat tanulmányozza.",
+                "ro": "Interiorul bisericii este un refugiu primitor; ascultați ploaia bătând în acoperiș în timp ce studiați operele de artă.",
+                "en": "The church interior is a cozy retreat; listen to the rain on the roof while you study the beautiful local artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Touche",
+                "hu": "Château de la Touche",
+                "ro": "Château de la Touche",
+                "en": "Château de la Touche"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf nassen Straßen; am Ziel bleibt das Schloss auch bei starkem Regen ein herrschaftlicher Anblick.",
+                "hu": "Vezessen óvatosan a vizes utakon; a célhoz érve a kastély látványa szakadó esőben is fejedelmi élmény marad.",
+                "ro": "Conduceți cu atenție pe drumurile ude; la destinație, castelul rămâne o priveliște maiestuoasă chiar și pe ploaie torențială.",
+                "en": "Drive cautiously on wet roads; upon arrival, the castle remains a majestic sight even through heavy rainfall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Spritztour führt uns durch die frostige Anjou-Region. Vom warmen Auto aus genießen wir die Aussicht auf Schlösser und den fernen Fluss. Kurze Besichtigungen in Kirchen und im Gestüt frischen uns auf. Der Tag endet bei einsetzender Dunkelheit am Schloss de la Touche, das in der Abenddämmerung besonders festlich wirkt.",
+            "hu": "A téli autós túra a fagyos Anjou vidéken vezet keresztül. A fűtött autóból élvezzük a kastélyok és a távoli folyó látványát. A templomokban és a ménesnél tett rövid látogatások felfrissítenek. A nap a sötétedés beálltával ér véget a Château de la Touche-nál, amely az alkonyatban ünnepi díszben tündököl.",
+            "ro": "Turul cu mașina pe timp de iarnă ne poartă prin regiunea înghețată Anjou. Din mașina încălzită admirăm castelele și râul în depărtare. Vizitele scurte la biserici și la herghelie ne reîmprospătează. Ziua se încheie la lăsarea întunericului la Castelul de la Touche, care pare festiv în amurg.",
+            "en": "The winter driving tour takes us through the frosty Anjou region. From the warm car, we enjoy views of castles and the distant river. Brief visits to churches and the stud farm refresh us. The day ends as darkness falls at Château de la Touche, which looks particularly festive in the evening twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de l'Hommeau",
+                "hu": "Château de l'Hommeau",
+                "ro": "Château de l'Hommeau",
+                "en": "Château de l'Hommeau"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Tag, indem Sie aus dem warmen Auto in die Geschichte eintauchen; der reifbedeckte Garten ist ein herrlicher Anblick.",
+                "hu": "Kezdje a napot a fűtött autóból kiszállva a történelemben; a dérlepte kert látványa az ablakokból is varázslatos.",
+                "ro": "Începeți ziua coborând din mașina caldă direct în istorie; grădina acoperită de brumă este o priveliște minunată.",
+                "en": "Start your day by stepping out of your warm car into history; the frost-covered gardens are a sight to behold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Trotz der Kühle im Inneren wärmt der spirituelle Anblick; vergessen Sie nicht, die Autoheizung für die nächste Fahrt wieder zu nutzen.",
+                "hu": "A benti hűvös ellenére a látvány melengeti a lelket; ne felejtse el visszakapcsolni az autó fűtését a következő szakasz előtt.",
+                "ro": "În ciuda frigului din interior, priveliștea vă va încălzi sufletul; nu uitați să reporniți căldura în mașină pentru drum.",
+                "en": "Despite the chill inside, the spiritual sight is warming; remember to restart the car heater for the next short drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Haras national de l'Isle Briand",
+                "hu": "Haras national de l'Isle Briand",
+                "ro": "Haras national de l'Isle Briand",
+                "en": "Haras national de l'Isle Briand"
+              },
+              "tip_5lang": {
+                "de": "Die Pferde sind im Winter beeindruckend und die Ställe bieten Schutz vor Wind; kehren Sie zum Auto zurück, bevor Sie auskühlen.",
+                "hu": "A ménes lovai télen is lenyűgözőek, az istállókban pedig nincs szél; siessen vissza a járműhöz, mielőtt teljesen átfagyna.",
+                "ro": "Caii hergheliei sunt impresionanți iarna, iar grajdurile oferă adăpost de vânt; reveniți la mașină înainte de a îngheța.",
+                "en": "The horses are impressive in winter and the stables offer shelter from the wind; return to your vehicle before you get too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie de Montreuil-sur-Maine",
+                "hu": "Mairie de Montreuil-sur-Maine",
+                "ro": "Mairie de Montreuil-sur-Maine",
+                "en": "Mairie de Montreuil-sur-Maine"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Gang vom Parkplatz zum Rathaus erfrischt; in der kalten Luft wirken die Konturen des Gebäudes besonders scharf.",
+                "hu": "A városháza környéke télen is rendezett, a rövid séta felfrissíti; a hideg levegőben az épület kontúrjai élesebbek.",
+                "ro": "O scurtă plimbare de la parcare la primărie vă va reîmprospăta; în aerul rece, contururile clădirii sunt foarte clare.",
+                "en": "The town hall area is well-maintained in winter; a short walk from your car will refresh you in the crisp, cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre",
+                "hu": "Saint-Pierre templom",
+                "ro": "Biserica Saint-Pierre",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das warme Auto nach dem Besuch; das Winterlicht durch die Glasfenster schafft eine besondere Stimmung in der Kirche.",
+                "hu": "Élvezze a meleg autót a látogatás után; a téli fények a színes üvegeken át különleges hangulatot árasztanak a templomban.",
+                "ro": "Bucurați-vă de mașina caldă după vizită; lumina de iarnă prin vitralii creează o atmosferă specială în biserică.",
+                "en": "Enjoy the warm car after your visit; winter light through the stained glass creates a unique atmosphere inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Touche",
+                "hu": "Château de la Touche",
+                "ro": "Château de la Touche",
+                "en": "Château de la Touche"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie bei früher Dunkelheit auf die Straßenverhältnisse; das Schloss ist beleuchtet vor dem Nachthimmel am schönsten.",
+                "hu": "A korai sötétedés miatt ügyeljen az útviszonyokra; a kastély kivilágítva a legszebb az éjszakai égbolt előtt.",
+                "ro": "Atenție la starea drumului pe întuneric; castelul iluminat este cel mai frumos pe fundalul cerului de noapte.",
+                "en": "Be mindful of road conditions as darkness falls early; the castle is most beautiful when illuminated against the night sky."
+              }
+            }
+          ]
+        }
       }
     }
   }

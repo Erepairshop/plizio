@@ -183,6 +183,224 @@
         "hu": "Gyalogos túránkat a történelmi központban kezdjük, megcsodálva Laredo nagyszerű városházáját és nemesi palotáit. Ahogy a nap melegszik, felfedezzük Santa Catalina vallási örökségét, mielőtt elmerülnénk V. Károly császár történetében. Magunk mögött hagyva a várost, felmászunk a tengerparti erődítmények felé. A nap a festői La Atalaya csúcsán ér véget csodás naplementével.",
         "ro": "Începem turul nostru pe jos în centrul istoric, admirând marea primărie și palatele nobile din Laredo. Pe măsură ce ziua se încălzește, explorăm moștenirea religioasă înainte de a ne scufunda în istoria regală. Lăsând orașul în urmă, urcăm spre fortificațiile de coastă pentru a descoperi fascinantele ruine. Ziua se încheie la pitorescul vârf La Atalaya cu o panoramă de neuitat.",
         "en": "We start our walking tour in the historic center, admiring the grand Ayuntamiento and noble palaces of Laredo. As the day warms up, we explore the religious heritage at Santa Catalina before diving into the history of Emperor Charles V. Leaving the town behind, we hike up toward the coastal fortifications. The day ends at the scenic summit of La Atalaya, offering an unforgettable sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Laredo zeigt sich im Regen melancholisch-schön, wobei die Arkaden der Altstadt perfekten Schutz bieten. Mittags nutzen wir die Museen als trockene Zufluchtsorte voller Geschichte. Am Nachmittag sind die Wege zum Fort rutschig, daher ist festes Schuhwerk unerlässlich. Am Abend glänzen die nassen Gassen der Puebla Vieja wunderschön im Laternenlicht.",
+            "hu": "Az esős Laredo melankolikus arcát mutatja, az óváros árkádjai alatt azonban szárazon sétálhatunk. Délben a múzeumok kínálnak tökéletes menedéket a parti záporok elől. Délután a várba vezető ösvények sárosak lehetnek, így vízálló cipő viselése erősen ajánlott. Este a nedves macskaköveken megcsillanó fények különleges hangulatot árasztanak a történelmi negyedben.",
+            "ro": "Laredo pe ploaie are un farmec melancolic, arcadele centrului vechi oferind adăpost ideal pentru plimbare. La prânz, muzeele devin refugii perfecte pentru a explora istoria fără a ne uda. După-amiaza, potecile spre fort pot fi alunecoase, deci încălțămintea impermeabilă este necesară. Seara, străzile umede din Puebla Vieja strălucesc sub lumina felinarelor.",
+            "en": "Rainy Laredo offers a moody atmosphere where the old town's arches provide excellent shelter for walkers. At noon, take advantage of indoor museums to stay dry while diving into local history. In the afternoon, paths to the fort get slippery, so waterproof boots are highly recommended. By evening, the wet cobblestones reflect the city lights beautifully."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Laredo",
+                "hu": "Ayuntamiento de Laredo",
+                "ro": "Ayuntamiento de Laredo",
+                "en": "Ayuntamiento de Laredo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter den schützenden Arkaden des Rathauses, die einen trockenen Platz für Fotos bieten.",
+                "hu": "Csodálja meg az építészetet a városháza védelmet nyújtó árkádjai alól, amelyek száraz helyet biztosítanak a fotózáshoz.",
+                "ro": "Admirați arhitectura sub arcadele protectoare ale primăriei, care oferă un loc uscat pentru fotografii și observație.",
+                "en": "Admire the architecture from under the town hall's protective arches, which offer a dry spot for taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Palacio de la Familia De la Mar",
+                "hu": "Casa Palacio de la Familia De la Mar",
+                "ro": "Casa Palacio de la Familia De la Mar",
+                "en": "Casa Palacio de la Familia De la Mar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefen Türstürze dieses Palastes als kurzen Unterstand bei plötzlichen Regenschauern in den engen Gassen.",
+                "hu": "Használja a palota mély szemöldökfáit rövid menedékként a hirtelen záporok idején a szűk óvárosi utcákban sétálva.",
+                "ro": "Folosiți ancadramentele adânci ale palatului ca scurt adăpost în timpul averselor bruște pe străzile înguste vechi.",
+                "en": "Use the palace's deep lintels as a short shelter during sudden showers while navigating the narrow old streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Condestable de Castilla",
+                "hu": "Casa del Condestable de Castilla",
+                "ro": "Casa del Condestable de Castilla",
+                "en": "Casa del Condestable de Castilla"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die heraldischen Schilde schnell; der Stein glänzt bei Regen besonders schön, aber die Gasse ist eng.",
+                "hu": "Vessen egy gyors pillantást a heraldikai pajzsokra; a kő esőben szebben csillog, de az utca itt nagyon szűkös.",
+                "ro": "Priviți rapid scuturile heraldice; piatra strălucește mai frumos în ploaie, dar aleea este foarte strâmtă aici.",
+                "en": "Take a quick look at the heraldic shields; the stone glistens beautifully in the rain, but the alley is very narrow."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa Catalina",
+                "hu": "Iglesia de Santa Catalina",
+                "ro": "Iglesia de Santa Catalina",
+                "en": "Iglesia de Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet eine andächtige, trockene Pause; achten Sie auf den rutschigen Boden am Eingangsbereich.",
+                "hu": "Ez a templom áhítatos és száraz pihenőt kínál; ügyeljen a bejárati résznél a nedvességtől csúszós padlóra.",
+                "ro": "Această biserică oferă o pauză pioasă și uscată; atenție la podeaua alunecoasă de la intrare din cauza umidității.",
+                "en": "This church offers a prayerful and dry break; watch out for the floor which gets slippery near the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Último desembarco de Carlos V",
+                "hu": "Último desembarco de Carlos V",
+                "ro": "Último desembarco de Carlos V",
+                "en": "Último desembarco de Carlos V"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um dem Regen zu entfliehen und drinnen tief in die kaiserliche Geschichte Laredos einzutauchen.",
+                "hu": "Tökéletes hely az eső elől való menekülésre és a beltéri elmélyülésre Laredo császári történelmében.",
+                "ro": "Locul perfect pentru a scăpa de ploaie și a te scufunda în istoria imperială a Laredoului în interior.",
+                "en": "The perfect place to escape the rain and immerse yourself indoors in the imperial history of Laredo."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte El Rastrillar",
+                "hu": "Fuerte El Rastrillar",
+                "ro": "Fuerte El Rastrillar",
+                "en": "Fuerte El Rastrillar"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den unebenen Festungswegen; tragen Sie wasserfeste Schuhe mit Profil für den schlammigen Untergrund.",
+                "hu": "Vigyázat az erőd egyenetlen ösvényein; viseljen profilozott talpú vízálló cipőt a saras talaj miatt.",
+                "ro": "Atenție pe potecile inegale ale cetății; purtați pantofi impermeabili cu talpă aderentă pentru terenul noroios.",
+                "en": "Careful on the fort's uneven paths; wear waterproof shoes with good grip for the muddy ground conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "La Atalaya",
+                "hu": "La Atalaya",
+                "ro": "La Atalaya",
+                "en": "La Atalaya"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist die Sicht oft dramatisch; suchen Sie Schutz unter den Bäumen, um die raue See sicher zu beobachten.",
+                "hu": "Esőben a kilátás gyakran drámai; keressen menedéket a fák alatt a háborgó tenger biztonságos megfigyeléséhez.",
+                "ro": "Pe ploaie, vederea este adesea dramatică; căutați adăpost sub copaci pentru a observa marea agitată în siguranță.",
+                "en": "In the rain, the view is often dramatic; seek shelter under the trees to observe the rough sea safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Laredo ist mild, aber windig, was eine warme Jacke für die Küstenspaziergänge erfordert. Den Vormittag verbringen wir in den windgeschützten Gassen der Altstadt. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir die Aussichtspunkte für den frühen Nachmittag. Abends laden die beheizten Cafés im Zentrum zur gemütlichen Einkehr ein.",
+            "hu": "A tél Laredóban enyhe, de szeles, így egy meleg kabát elengedhetetlen a parti sétákhoz. A délelőttöt az óváros szélvédett utcáiban töltjük. Mivel a nap már 17:00 körül lemegy, a kilátópontokat kora délutánra érdemes tervezni. Este a központ fűtött kávézói hívogatnak egy kis melengető pihenőre.",
+            "ro": "Iarna în Laredo este blândă, dar vântoasă, necesitând o jachetă călduroasă pentru plimbările pe coastă. Petrecem dimineața pe străzile ferite de vânt ale centrului vechi. Deoarece soarele apune în jur de ora 17:00, planificăm punctele de belvedere devreme. Seara, cafenelele încălzite din centru ne invită la relaxare.",
+            "en": "Winter in Laredo is mild yet breezy, calling for a warm jacket during coastal walks. Spend the morning in the wind-sheltered alleys of the old town. Since the sun sets around 17:00, plan your viewpoints for the early afternoon. In the evening, the heated cafes in the center offer a cozy retreat from the cooling air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ayuntamiento de Laredo",
+                "hu": "Ayuntamiento de Laredo",
+                "ro": "Ayuntamiento de Laredo",
+                "en": "Ayuntamiento de Laredo"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier mit einem heißen Kaffee in der Nähe, um sich aufzuwärmen, bevor Sie die kalte Brise am Platz erkunden.",
+                "hu": "Kezdjen itt egy közeli forró kávéval, hogy felmelegedjen, mielőtt felfedezné a téren fújó hűvös szeleket.",
+                "ro": "Începeți aici cu o cafea fierbinte în apropiere pentru a vă încălzi înainte de a explora briza rece din piață.",
+                "en": "Start here with a hot coffee nearby to warm up before exploring the chilly breeze in the main square."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Palacio de la Familia De la Mar",
+                "hu": "Casa Palacio de la Familia De la Mar",
+                "ro": "Casa Palacio de la Familia De la Mar",
+                "en": "Casa Palacio de la Familia De la Mar"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern strahlen Kälte ab; halten Sie sich in den sonnigen Abschnitten der Gasse auf, um warm zu bleiben.",
+                "hu": "A masszív kőfalak ontják a hideget; próbáljon az utca naposabb részein maradni, hogy ne fázzon meg.",
+                "ro": "Zidurile masive de piatră emană frig; stați în secțiunile însorite ale aleii pentru a vă menține temperatura corpului.",
+                "en": "The massive stone walls radiate cold; try to stay in the sunny sections of the alley to keep warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Condestable de Castilla",
+                "hu": "Casa del Condestable de Castilla",
+                "ro": "Casa del Condestable de Castilla",
+                "en": "Casa del Condestable de Castilla"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp in der schattigen Gasse; ziehen Sie Handschuhe an, wenn Sie die Details der Fassade fotografieren.",
+                "hu": "Gyors megálló az árnyékos utcában; húzzon kesztyűt, ha le akarja fotózni a homlokzat apró részleteit.",
+                "ro": "O oprire rapidă pe aleea umbrită; puneți-vă mănușile dacă doriți să fotografiați detaliile fațadei.",
+                "en": "A quick stop in the shaded alley; put your gloves on if you plan to photograph the facade's details."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa Catalina",
+                "hu": "Iglesia de Santa Catalina",
+                "ro": "Iglesia de Santa Catalina",
+                "en": "Iglesia de Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es drinnen oft kühler als draußen; behalten Sie Ihren Mantel während der Besichtigung an.",
+                "hu": "Télen bent gyakran hűvösebb van, mint kint; ne vegye le a kabátját a templomlátogatás teljes ideje alatt.",
+                "ro": "Iarna, în interior este adesea mai rece decât afară; nu vă dați jos haina pe durata vizitării bisericii.",
+                "en": "In winter, it's often colder inside than out; keep your coat on throughout your entire visit to the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Último desembarco de Carlos V",
+                "hu": "Último desembarco de Carlos V",
+                "ro": "Último desembarco de Carlos V",
+                "en": "Último desembarco de Carlos V"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Ausstellungsräume, die im Winter eine angenehme Abwechslung zum Küstenwind bieten.",
+                "hu": "Élvezze a fűtött kiállítótereket, amelyek télen kellemes felüdülést nyújtanak a parti szél elől.",
+                "ro": "Bucurați-vă de spațiile de expoziție încălzite, care oferă o relaxare plăcută față de vântul de pe coastă iarna.",
+                "en": "Enjoy the heated exhibition spaces, which provide a pleasant break from the coastal wind in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte El Rastrillar",
+                "hu": "Fuerte El Rastrillar",
+                "ro": "Fuerte El Rastrillar",
+                "en": "Fuerte El Rastrillar"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Fort vor 16 Uhr, um das letzte Tageslicht zu nutzen, bevor die Schatten der Ruinen lang werden.",
+                "hu": "Látogassa meg az erődöt 16 óra előtt, hogy kihasználja az utolsó fényeket, mielőtt a romok árnyékai megnyúlnának.",
+                "ro": "Vizitați fortul înainte de ora 16 pentru a profita de ultima lumină, înainte ca umbrele ruinelor să se lungească.",
+                "en": "Visit the fort before 4 PM to catch the last daylight before the ruins' shadows grow long."
+              }
+            },
+            {
+              "name": {
+                "de": "La Atalaya",
+                "hu": "La Atalaya",
+                "ro": "La Atalaya",
+                "en": "La Atalaya"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne geht hier spektakulär über dem Meer unter; bringen Sie eine Thermoskanne für den Sonnenuntergang mit.",
+                "hu": "A téli nap spektakulárisan nyugszik itt a tenger felett; hozzon magával termoszt a naplemente megtekintéséhez.",
+                "ro": "Soarele de iarnă apune spectaculos aici peste mare; aduceți un termos pentru a viziona apusul în confort.",
+                "en": "The winter sun sets spectacularly over the sea here; bring a thermos to enjoy the sunset comfortably."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kerékpáros kalandunk a királyi történelemben való elmerüléssel kezdődik a múzeumban, majd gyors megálló a közeli nevezetességeknél. A tengerparti ösvényeken haladunk a kilátók felé, gyönyörködve a sziklák és az óceáni hullámok drámai találkozásában. Az útvonal a történelmi ágyúkhoz visz, majd feltekerünk a La Atalaya-hoz. Az utazást a Playa de la Salvé-hoz tett szellős utazással fejezzük be.",
         "ro": "Aventura noastră cu bicicleta începe prin scufundarea în istoria regală la muzeu, urmată de o oprire rapidă la reperele din apropiere. Călărim de-a lungul potecilor de coastă spre punctele de belvedere, admirând întâlnirea dramatică a stâncilor și a valurilor. Traseul ne duce la tunurile istorice înainte de a pedala până la La Atalaya. Încheiem călătoria cu o plimbare spre Playa de la Salvé.",
         "en": "Our cycling adventure begins by immersing ourselves in royal history at the museum, followed by a quick stop at the nearby landmarks. We ride along the coastal paths towards the viewpoints, taking in the dramatic meeting of steep cliffs and ocean waves. The route takes us to the historic cannons before pedaling up to La Atalaya. We finish the trip with a breezy ride to Playa de la Salvé to unwind."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren in Laredo bei Regen erfordert Vorsicht auf den glatten Pflastersteinen der Altstadt. Wir starten trocken im Museum und nutzen Regenpausen für kurze Fahrten zwischen den Sehenswürdigkeiten. Am Nachmittag meiden wir steile, nasse Wege und konzentrieren uns auf asphaltierte Abschnitte. Ein Schutzblech und gute Regenkleidung sind heute Ihre besten Freunde.",
+            "hu": "Az esős Laredóban való kerékpározás óvatosságot igényel az óváros csúszós kövein. A napot a múzeumban kezdjük, és az esőszüneteket használjuk ki a látnivalók közötti gyors áttekerésre. Délután kerüljük a meredek, vizes utakat, inkább az aszfaltozott részeken maradjunk. A sárvédő és a jó esőkabát ma a legjobb barátja lesz.",
+            "ro": "Mersul cu bicicleta în Laredo pe ploaie necesită prudență pe pietrele alunecoase ale centrului vechi. Începem la adăpost în muzeu și profităm de pauzele de ploaie pentru deplasări scurte. După-amiaza evităm drumurile abrupte și ude, preferând asfaltul. Apărătorile de noroi și hainele de ploaie bune sunt esențiale astăzi.",
+            "en": "Cycling in Laredo during rain demands caution on the slippery cobblestones of the old quarter. Start dry at the museum and use gaps in the rain for quick rides between sights. In the afternoon, avoid steep, wet paths and stick to paved sections. Fenders and high-quality rain gear will be your best companions today."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Último desembarco de Carlos V",
+                "hu": "Último desembarco de Carlos V",
+                "ro": "Último desembarco de Carlos V",
+                "en": "Último desembarco de Carlos V"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem überdachten Ort, während Sie die Ausstellung besuchen, um den Sattel trocken zu halten.",
+                "hu": "Parkolja le kerékpárját fedett helyen, amíg a kiállítást nézi, hogy a nyereg száraz maradjon a következő útra.",
+                "ro": "Parcați bicicleta într-un loc acoperit în timp ce vizitați expoziția pentru a păstra șaua uscată pentru drum.",
+                "en": "Park your bike in a covered spot while visiting the exhibition to keep your saddle dry for the next leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Condestable de Castilla",
+                "hu": "Casa del Condestable de Castilla",
+                "ro": "Casa del Condestable de Castilla",
+                "en": "Casa del Condestable de Castilla"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in dieser engen Gasse extrem langsam; die nassen Steine sind tückisch und sehr rutschig für Reifen.",
+                "hu": "Hajtson rendkívül lassan ebben a szűk utcában; a vizes kövek csalókák és nagyon csúszósak a gumiknak.",
+                "ro": "Mergeți extrem de încet pe această alee strâmtă; pietrele ude sunt înșelătoare și foarte alunecoase pentru anvelope.",
+                "en": "Ride extremely slowly in this narrow alley; the wet stones are deceptive and very slippery for bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa Catalina",
+                "hu": "Iglesia de Santa Catalina",
+                "ro": "Iglesia de Santa Catalina",
+                "en": "Iglesia de Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Kirchenbesuch für eine längere Regenpause; die massiven Mauern bieten Schutz vor Wind und Nässe.",
+                "hu": "Használja ki a templomlátogatást egy hosszabb esőszünetre; a masszív falak védelmet nyújtanak a szél és a víz ellen.",
+                "ro": "Folosiți vizita la biserică pentru o pauză de ploaie mai lungă; zidurile masive oferă protecție contra vântului.",
+                "en": "Use the church visit for a longer rain break; the massive walls provide great protection from wind and wetness."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de El",
+                "hu": "Mirador de El",
+                "ro": "Mirador de El",
+                "en": "Mirador de El"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Regen anstrengend und rutschig; prüfen Sie Ihre Bremsen gründlich vor der Abfahrt ins Tal.",
+                "hu": "A felfelé út esőben fárasztó és csúszós; alaposan ellenőrizze a fékeit a völgybe való leereszkedés előtt.",
+                "ro": "Urcarea este obositoare și alunecoasă pe ploaie; verificați-vă frânele temeinic înainte de a coborî spre vale.",
+                "en": "The climb is tiring and slippery in the rain; check your brakes thoroughly before descending back to the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Batería de cañones",
+                "hu": "Batería de cañones",
+                "ro": "Batería de cañones",
+                "en": "Batería de cañones"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, auf den grasbewachsenen Flächen direkt neben den Kanonen zu fahren, da diese extrem matschig sind.",
+                "hu": "Kerülje a füves területeken való biciklizést közvetlenül az ágyúk mellett, mivel azok ilyenkor rendkívül sárosak.",
+                "ro": "Evitați să pedalați pe zonele cu iarbă direct lângă tunuri, deoarece acestea sunt extrem de noroioase acum.",
+                "en": "Avoid cycling on the grassy areas directly next to the cannons, as they become extremely muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Atalaya",
+                "hu": "La Atalaya",
+                "ro": "La Atalaya",
+                "en": "La Atalaya"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und gehen Sie die letzten Meter zu Fuß, um Stürze auf dem nassen Fels zu vermeiden.",
+                "hu": "Támassza le biztonságosan a biciklijét, és az utolsó métereket tegye meg gyalog, elkerülve az eséseket a vizes sziklán.",
+                "ro": "Parcați bicicleta în siguranță și parcurgeți ultimii metri pe jos pentru a evita căzăturile pe stânca umedă.",
+                "en": "Park your bike securely and walk the last few meters to avoid falls on the wet, rocky terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Salvé",
+                "hu": "Playa de la Salvé",
+                "ro": "Playa de la Salvé",
+                "en": "Playa de la Salvé"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nur auf dem asphaltierten Radweg entlang der Promenade; Sand am Reifen ist bei Nässe besonders gefährlich.",
+                "hu": "Csak az aszfaltozott kerékpárúton haladjon a sétány mentén; a vizes gumira ragadó homok nagyon veszélyes lehet.",
+                "ro": "Mergeți doar pe pista de biciclete asfaltată de-a lungul falezii; nisipul pe anvelope este periculos pe ud.",
+                "en": "Stick to the paved bike path along the promenade; wet sand on tires is particularly dangerous for stability."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Laredo mit dem Rad im Winter bietet klare Luft und leere Wege, erfordert aber Windschutz und Handschuhe. Vormittags nutzen wir die milde Sonne an der Küste. Da es ab 17:00 Uhr dunkel wird, stellen wir sicher, dass die Fahrradbeleuchtung funktioniert. Der späte Nachmittag gehört der Promenade, wo wir das Licht genießen, bevor wir uns in einem Café aufwärmen.",
+            "hu": "Laredo télen kerékpárral friss levegőt és üres utakat kínál, de szélálló ruházat és kesztyű szükséges. Délelőtt a part menti enyhe napsütést élvezzük. Mivel 17:00 után sötétedik, ellenőrizze a kerékpár lámpáit. A késő délutánt a sétányon töltjük a fényeket csodálva, majd egy meleg kávézóban pihenünk meg.",
+            "ro": "Laredo cu bicicleta iarna oferă aer curat și drumuri libere, dar necesită protecție contra vântului și mănuși. Dimineața profităm de soarele blând pe coastă. Deoarece se întunecă după ora 17:00, verificați luminile bicicletei. După-amiaza târziu este pentru faleză, înainte de a ne încălzi la o cafenea.",
+            "en": "Cycling Laredo in winter offers crisp air and empty paths, but windproof gear and gloves are essential. Enjoy the mild morning sun along the coast. Since it gets dark after 17:00, ensure your bike lights are working. Spend the late afternoon on the promenade enjoying the golden light before retreating to a warm cafe."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Último desembarco de Carlos V",
+                "hu": "Último desembarco de Carlos V",
+                "ro": "Último desembarco de Carlos V",
+                "en": "Último desembarco de Carlos V"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch, um Ihre Hände aufzuwärmen; die Innentemperatur ist angenehmer als der Fahrtwind draußen.",
+                "hu": "Használja ki a látogatást a kezei felmelegítésére; a benti hőmérséklet sokkal kellemesebb, mint kint a menetszélben.",
+                "ro": "Folosiți vizita pentru a vă încălzi mâinile; temperatura interioară este mult mai plăcută decât vântul de afară.",
+                "en": "Use this visit to warm up your hands; the indoor temperature is much more pleasant than the wind chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Condestable de Castilla",
+                "hu": "Casa del Condestable de Castilla",
+                "ro": "Casa del Condestable de Castilla",
+                "en": "Casa del Condestable de Castilla"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Kältestrahlung in den schattigen Gassen; halten Sie den Stopp kurz, um nicht auszukühlen.",
+                "hu": "Ügyeljen a hidegre az árnyékos utcákban; tartsa röviden a megállót, hogy ne hűljön ki túlságosan a teste.",
+                "ro": "Atenție la frigul din aleile umbrite; păstrați oprirea scurtă pentru a nu vă răci prea tare corpul în pauză.",
+                "en": "Watch out for the cold in the shaded alleys; keep the stop brief to prevent your body temperature from dropping."
+              }
+            },
+            {
+              "name": {
+                "de": "Iglesia de Santa Catalina",
+                "hu": "Iglesia de Santa Catalina",
+                "ro": "Iglesia de Santa Catalina",
+                "en": "Iglesia de Santa Catalina"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist im Winter ein ruhiger Ort, aber ziehen Sie sich warm an, da die Steinmauern die Kälte speichern.",
+                "hu": "A templom télen csendes hely, de öltözzön fel jól, mert a kőfalak ilyenkor nagyon tartják a hideget.",
+                "ro": "Biserica este un loc liniștit iarna, dar îmbrăcați-vă bine deoarece zidurile de piatră rețin frigul puternic.",
+                "en": "The church is a quiet spot in winter, but dress warmly as the stone walls retain a lot of cold during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador de El",
+                "hu": "Mirador de El",
+                "ro": "Mirador de El",
+                "en": "Mirador de El"
+              },
+              "tip_5lang": {
+                "de": "Oben zieht es im Winter stark; ein Halstuch schützt Sie vor dem beißenden Wind während der kurzen Fotopause.",
+                "hu": "Fent télen erősen fúj a szél; egy sál megvédi a metsző széltől a rövid fotószünet alatt.",
+                "ro": "Sus vântul bate puternic iarna; un fular vă va proteja de curentul tăios în timpul scurtei pauze pentru poze.",
+                "en": "It gets very windy at the top in winter; a neck warmer will protect you from the biting wind during photo breaks."
+              }
+            },
+            {
+              "name": {
+                "de": "Batería de cañones",
+                "hu": "Batería de cañones",
+                "ro": "Batería de cañones",
+                "en": "Batería de cañones"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Licht für Fotos, aber tragen Sie Handschuhe, da das Metall der Kanonen eiskalt ist.",
+                "hu": "Élvezze a tiszta fényeket a fotózáshoz, de viseljen kesztyűt, mert az ágyúk féme ilyenkor jéghideg.",
+                "ro": "Bucurați-vă de lumina clară pentru poze, dar purtați mănuși deoarece metalul tunurilor este înghețat.",
+                "en": "Enjoy the clear light for photos, but wear gloves as the metal of the cannons is ice-cold in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "La Atalaya",
+                "hu": "La Atalaya",
+                "ro": "La Atalaya",
+                "en": "La Atalaya"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie den Rückweg vor 17:00 Uhr ein, da die unbeleuchteten Wege bei Dämmerung für Radfahrer gefährlich sind.",
+                "hu": "Tervezze a visszautat 17:00 előttre, mert a kivilágítatlan utak szürkületben veszélyesek a kerékpárosoknak.",
+                "ro": "Planificați întoarcerea înainte de ora 17:00, deoarece drumurile neluminate sunt periculoase la amurg pentru bicicliști.",
+                "en": "Plan your return before 5 PM, as the unlit paths become dangerous for cyclists once twilight sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de la Salvé",
+                "hu": "Playa de la Salvé",
+                "ro": "Playa de la Salvé",
+                "en": "Playa de la Salvé"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind an der Salvé kann sehr stark sein; treten Sie kräftig in die Pedale und nutzen Sie den Rückenwind.",
+                "hu": "A téli szél a Salvé-parton nagyon erős lehet; tekerjen erősen, és próbálja kihasználni a hátszelet a sétányon.",
+                "ro": "Vântul de iarnă pe plaja Salvé poate fi foarte puternic; pedalați cu forță și folosiți vântul din spate pe faleză.",
+                "en": "Winter winds at Salvé beach can be very strong; pedal hard and try to use the tailwind along the promenade."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Autós túránkat látványos légi kilátással kezdjük az Alto de Laredo-ból, majd leereszkedünk a történelmi belvárosba. Központilag parkolva felfedezzük a nyüzsgő városháza teret és a lenyűgöző palotákat. Egy rövid autóút a tengerparti magaslatokra visz minket, ahol a katonai ütegek romjai között sétálunk. A nap egy festői utazással zárul a Playa de Aira békés partjainál.",
         "ro": "Începem turul cu mașina cu vederi aeriene spectaculoase de la Alto de Laredo înainte de a coborî în zona istorică a orașului. Parcând central, explorăm piața vibrantă a primăriei și arhitectura impunătoare a palatelor. O scurtă călătorie cu mașina ne aduce pe înălțimile coastei, unde ne plimbăm printre ruinele forturilor. Ziua se încheie cu o croazieră pitorească spre Playa de Aira.",
         "en": "We kick off our driving tour with spectacular aerial views from the Alto de Laredo before descending into the historic downtown area. Parking centrally, we explore the vibrant city hall square and the stately architecture of the palaces. A short drive brings us to the coastal heights, where we wander among the ruins of old military batteries. The day concludes with a scenic cruise over to Playa de Aira."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Laredo bei Regen am komfortabelsten, da Sie trocken zwischen den Highlights pendeln können. Wir starten am Aussichtspunkt, wo wir das Wetterradar prüfen. Mittags parken wir nah am Zentrum für kurze Wege zu den historischen Gebäuden. Nachmittags ist die Fahrt zum Fort sicher, solange wir auf befestigten Straßen bleiben. Abends genießen wir die Aussicht bequem vom Fahrersitz.",
+            "hu": "Autóval Laredo esőben is kényelmes, hiszen szárazon közlekedhet a látnivalók között. A napot a kilátónál kezdjük, figyelve az időjárást. Délben parkoljon a központ közelében, hogy lerövidítse a gyaloglást a történelmi épületekig. Délután az erőd felé vezető út biztonságos az aszfalton. Este az autóból is élvezheti a parti fényeket a szélvédő mögül.",
+            "ro": "Cu mașina, Laredo pe ploaie este foarte confortabil, permițându-vă să rămâneți uscat între obiective. Începem la belvedere, verificând prognoza. La prânz parcăm aproape de centru pentru a minimiza mersul pe jos prin ploaie. După-amiaza drumul spre fort este sigur pe asfalt. Seara ne bucurăm de luminile coastei direct din confortul scaunului.",
+            "en": "Car travel is the best way to see Laredo in the rain, keeping you dry between highlights. Start at the viewpoint to check the weather conditions. At noon, park close to the center to minimize walking distance to historic sites. In the afternoon, the drive to the fort is safe on paved roads. By evening, enjoy the coastal views comfortably from behind your windshield."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador del Alto de Laredo",
+                "hu": "Mirador del Alto de Laredo",
+                "ro": "Mirador del Alto de Laredo",
+                "en": "Mirador del Alto de Laredo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem Auto; die beschlagenen Scheiben lassen sich mit der Lüftung schnell klären.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból; a bepárásodott ablakokat a szellőzéssel gyorsan le tudja tisztítani.",
+                "ro": "Bucurați-vă de panoramă direct din mașină; geamurile aburite se curăță rapid cu ajutorul ventilației pornite.",
+                "en": "Enjoy the panorama directly from your car; cleared fogged windows quickly using the vehicle's ventilation system."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Laredo",
+                "hu": "Ayuntamiento de Laredo",
+                "ro": "Ayuntamiento de Laredo",
+                "en": "Ayuntamiento de Laredo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie einen Parkplatz in der Tiefgarage, um bei der Ankunft im historischen Zentrum komplett trocken zu bleiben.",
+                "hu": "Keressen parkolóhelyet a mélygarázsban, hogy a történelmi központba érkezve teljesen szárazon maradhasson.",
+                "ro": "Căutați un loc de parcare în garajul subteran pentru a rămâne complet uscat la sosirea în centrul istoric.",
+                "en": "Look for a parking spot in the underground garage to stay completely dry when arriving in the historic center."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Palacio de la Familia De la Mar",
+                "hu": "Casa Palacio de la Familia De la Mar",
+                "ro": "Casa Palacio de la Familia De la Mar",
+                "en": "Casa Palacio de la Familia De la Mar"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Passagiere direkt vor dem Gebäude aussteigen, um ihnen den Fußweg durch den strömenden Regen zu ersparen.",
+                "hu": "Engedje ki az utasokat közvetlenül az épület előtt, hogy megkímélje őket a szakadó esőben való gyaloglástól.",
+                "ro": "Lăsați pasagerii să coboare direct în fața clădirii pentru a-i scuti de mersul prin ploaia torențială.",
+                "en": "Drop off passengers directly in front of the building to save them from walking through the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte El Rastrillar",
+                "hu": "Fuerte El Rastrillar",
+                "ro": "Fuerte El Rastrillar",
+                "en": "Fuerte El Rastrillar"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der schmalen Straße zum Fort; bei Regen ist die Sicht eingeschränkt und die Fahrbahn glatt.",
+                "hu": "Vezessen óvatosan az erőd felé vezető keskeny úton; esőben a látótávolság korlátozott, az úttest pedig csúszós.",
+                "ro": "Conduceți cu atenție pe drumul îngust spre fort; în ploaie vizibilitatea este redusă, iar carosabilul este umed.",
+                "en": "Drive carefully on the narrow road to the fort; in the rain, visibility is limited and the road surface is slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Batería de cañones",
+                "hu": "Batería de cañones",
+                "ro": "Batería de cañones",
+                "en": "Batería de cañones"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; nutzen Sie den Scheibenwischer auf höchster Stufe für einen klaren Blick auf die Bucht.",
+                "hu": "Rövid megálló egy fotóra; használja az ablaktörlőt a legmagasabb fokozaton, hogy tiszta rálátást kapjon az öbölre.",
+                "ro": "O scurtă oprire pentru o poză; folosiți ștergătoarele la maximum pentru a avea o vedere clară asupra golfului.",
+                "en": "A brief stop for a photo; use your wipers at maximum speed to get a clear view of the bay from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Aira",
+                "hu": "Playa de Aira",
+                "ro": "Playa de Aira",
+                "en": "Playa de Aira"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Brechen der Wellen sicher aus dem warmen Auto; der Parkplatz bietet eine tolle Sicht auf die Gischt.",
+                "hu": "Figyelje a hullámtörést biztonságban a meleg autóból; a parkoló remek rálátást biztosít a tengeri permetre.",
+                "ro": "Observați spargerea valurilor în siguranță din mașina caldă; parcarea oferă o vedere excelentă asupra spumei mării.",
+                "en": "Watch the breaking waves safely from your warm car; the parking area offers a great view of the sea spray."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliche Autofahrten in Laredo sind ideal, um die weiten Küstenpanoramen windgeschützt zu erleben. Vormittags nutzen wir die klare Sicht von den Höhenzügen. Mittags sorgt die Autoheizung für Komfort zwischen den Besichtigungen im Zentrum. Da es um 17:00 Uhr dunkelt, planen wir die Strandfahrt für das goldene Licht davor ein. Abends parken wir bequem direkt an den beleuchteten Plätzen.",
+            "hu": "A téli autózás Laredóban ideális a tágas parti panoráma szélvédett megtekintéséhez. Délelőtt a tiszta látási viszonyokat használjuk ki a magaslatokon. Délben az autó fűtése biztosítja a kényelmet a belvárosi séták között. Mivel 17:00-kor sötétedik, a tengerparti utat a meleg fények idejére tervezzük. Este kényelmesen parkolhatunk közvetlenül a kivilágított tereknél.",
+            "ro": "Călătoriile cu mașina iarna în Laredo sunt ideale pentru a vedea panoramele costiere ferit de vânt. Dimineața profităm de vizibilitatea clară de pe înălțimi. La prânz, căldura din mașină asigură confortul între vizite. Deoarece se întunecă la ora 17:00, planificăm drumul la plajă pentru lumina aurie. Seara parcăm direct lângă piețele iluminate.",
+            "en": "Winter drives in Laredo are ideal for experiencing vast coastal panoramas while shielded from the wind. Enjoy clear morning views from the heights. At noon, the car's heater provides comfort between your walks in the city center. Since it gets dark at 17:00, plan your beach drive for the golden hour. In the evening, park conveniently right by the illuminated squares."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador del Alto de Laredo",
+                "hu": "Mirador del Alto de Laredo",
+                "ro": "Mirador del Alto de Laredo",
+                "en": "Mirador del Alto de Laredo"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft ist extrem klar; nutzen Sie die Heizung, während Sie den Panoramablick über die frostige Bucht genießen.",
+                "hu": "A téli levegő rendkívül tiszta; használja a fűtést, miközben gyönyörködik a jeges fuvallatú öböl panorámájában.",
+                "ro": "Aerul de iarnă este extrem de clar; folosiți încălzirea în timp ce admirați panorama golfului înghețat.",
+                "en": "The winter air is extremely clear; keep the heater on while enjoying the panoramic view over the frosty bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Ayuntamiento de Laredo",
+                "hu": "Ayuntamiento de Laredo",
+                "ro": "Ayuntamiento de Laredo",
+                "en": "Ayuntamiento de Laredo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Sonne, damit sich das Auto natürlich aufheizt, während Sie das historische Rathaus besichtigen.",
+                "hu": "Parkoljon napos helyen, hogy az autó természetes módon felmelegedjen, amíg Ön a történelmi városházát nézi meg.",
+                "ro": "Parcați la soare pentru ca mașina să se încălzească natural în timp ce vizitați primăria istorică.",
+                "en": "Park in a sunny spot so the car heats up naturally while you are visiting the historic town hall."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Palacio de la Familia De la Mar",
+                "hu": "Casa Palacio de la Familia De la Mar",
+                "ro": "Casa Palacio de la Familia De la Mar",
+                "en": "Casa Palacio de la Familia De la Mar"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Ausstieg für Fotos; lassen Sie den Motor nicht unnötig laufen, aber genießen Sie die Wärme bei der Rückkehr.",
+                "hu": "Rövid kiszállás a fotókhoz; ne járassa feleslegesen a motort, de élvezze a meleget, amikor visszatér az autóba.",
+                "ro": "Coborâre scurtă pentru poze; nu lăsați motorul pornit inutil, dar bucurați-vă de căldură la întoarcere.",
+                "en": "Briefly hop out for photos; don't leave the engine idling unnecessarily, but enjoy the warmth upon your return."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuerte El Rastrillar",
+                "hu": "Fuerte El Rastrillar",
+                "ro": "Fuerte El Rastrillar",
+                "en": "Fuerte El Rastrillar"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie den Reifendruck vor der Fahrt zum Fort, da Kälte diesen beeinflussen kann; die Straße ist steil und fest.",
+                "hu": "Ellenőrizze a guminyomást az erőd felé indulás előtt, mert a hideg befolyásolhatja; az út meredek és stabil.",
+                "ro": "Verificați presiunea în pneuri înainte de drumul spre fort, deoarece frigul o poate afecta; drumul e abrupt.",
+                "en": "Check your tire pressure before heading to the fort, as cold can affect it; the road is steep but solid."
+              }
+            },
+            {
+              "name": {
+                "de": "Batería de cañones",
+                "hu": "Batería de cañones",
+                "ro": "Batería de cañones",
+                "en": "Batería de cañones"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Windschutz beim Fotografieren der Kanonen; der Winterwind ist hier oben oft sehr beißend.",
+                "hu": "Használja az autót szélfogóként az ágyúk fotózásakor; a téli szél itt fent gyakran nagyon metsző tud lenni.",
+                "ro": "Folosiți mașina ca paravan contra vântului când pozați tunurile; vântul de iarnă este foarte tăios aici sus.",
+                "en": "Use the car as a windbreak while photographing the cannons; the winter wind is often very biting up here."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Aira",
+                "hu": "Playa de Aira",
+                "ro": "Playa de Aira",
+                "en": "Playa de Aira"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um die winterliche Brandung im letzten Tageslicht zu sehen, bevor es schnell abkühlt.",
+                "hu": "Érkezzen 17:00 előtt, hogy lássa a téli hullámverést az utolsó fényben, mielőtt a levegő gyorsan lehűlne.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea valurile de iarnă în ultima lumină, înainte ca totul să se răcească.",
+                "en": "Arrive before 5 PM to see the winter surf in the last daylight before the temperature drops rapidly."
+              }
+            }
+          ]
+        }
       }
     }
   }

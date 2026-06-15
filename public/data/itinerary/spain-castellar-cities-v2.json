@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Castellar del Vallès gazdag örökségének felfedezésével. A friss reggeli levegő tökéletes a történelmi nevezetességek és régi templomok bejárásához, miközben e bájos katalán kisváros békés atmoszférája finoman felébreszti érzékeit.\n\nAhogy a nap egyre magasabbra hág, merüljön el a helyi kultúrában a múzeumokon és építészeti gyöngyszemeken keresztül. Keressen egy árnyékos padot, ahol megpihenhet, magába szívhatja a hiteles hangulatot, és élvezheti a közeli pékségek finomságait.\n\nA délután a természeté és a kikapcsolódásé. Legyen szó régi malmok felfedezéséről vagy a frissítő vizes parkok élvezetéről, a város változatos tájai ideális helyszínt kínálnak a pihenésre a meleg spanyol éghajlat kellemes napsütésében.\n\nZárja a felfedezést, ahogy az alkonyat leszáll a városra. A kulturális helyszínek megtelnek élettel a helyi művészeteknek köszönhetően. Tekintsen vissza a napra egy esti sétával, megcsodálva az utcai lámpák fényében fürdőző ősi kőépületeket.",
         "ro": "Începeți ziua scufundându-vă în bogata moștenire a orașului Castellar del Vallès. Aerul dimineții este perfect pentru a explora repere istorice, lăsând atmosfera pașnică a acestui fermecător oraș catalan să vă trezească ușor simțurile la viață.\n\nPe măsură ce soarele urcă, pătrundeți mai adânc în cultura locală prin muzee și bijuterii arhitecturale. Găsiți o piațetă primitoare pentru a vă odihni puțin, absorbind vibrația autentică și poate gustând ceva de la o brutărie din apropiere.\n\nDupă-amiaza vă invită la natură și recreere. Fie că descoperiți mori vechi sau vă bucurați de parcurile acvatice răcoroase, peisajele variate ale orașului oferă cadrul ideal pentru a vă relaxa și a vă bucura de clima caldă tipic spaniolă.\n\nÎncheiați-vă explorarea pe măsură ce se lasă amurgul. Locațiile culturale prind viață cu arta locală. Reflectați asupra descoperirilor zilei cu o plimbare relaxată de seară, admirând cum clădirile antice din piatră strălucesc sub felinare.",
         "en": "Start your day by immersing yourself in the rich heritage of Castellar del Vallès. The morning air is perfect for exploring historical landmarks and old churches, letting the peaceful atmosphere of this lovely Catalan town gently wake your senses.\n\nAs the sun climbs, delve deeper into the local culture through museums and significant architectural gems. Find a cozy plaza or a shaded bench to rest for a moment, absorbing the authentic vibe and perhaps grabbing a light snack from a nearby bakery.\n\nThe afternoon invites a shift towards nature and recreation. Whether discovering old mills or enjoying the refreshing public water parks, the town's varied landscapes offer an ideal setting to unwind and enjoy the warm Spanish climate.\n\nWrap up your exploration as dusk settles over the town. The cultural venues come alive with local art and theater. Reflect on the day's discoveries with a relaxed evening walk, admiring how the ancient stone buildings glow under the streetlights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz in der Kapelle vor dem Guss. Mittags bieten die Museen trockene Räume voller lokaler Kultur. Nachmittags spazieren wir vorsichtig über glatte Wege zum Theater. Abends genießen wir das Trommeln des Regens unter dem sicheren Dach des Kulturzentrums und lassen den Tag entspannt ausklingen, während wir im Trockenen die gemütliche Atmosphäre genießen.",
+            "hu": "Reggel a Capella de Montserrat falai között bújunk el az eső elől. Délben múzeumlátogatással folytatjuk, ahol a fedett termekben biztonságban vagyunk a sártól. Délután a színházi negyed felé vesszük az irányt, kerülve a csúszós utcaköveket. Este egy kulturális központban fejezzük be a napot, ahol a tető alatt hallgatjuk a kopogó esőt és élvezzük a száraz belső teret.",
+            "ro": "Începeți dimineața ploioasă la adăpostul Capelei Montserrat. La prânz, refugiul în muzee oferă protecție împotriva umezelii și o doză de cultură. După-amiaza, atenție la pavajul alunecos spre teatru. Seara se încheie confortabil la interior, ascultând ploaia dintr-un centru cultural protejat, unde atmosfera rămâne caldă și primitoare în ciuda vremii de afară.",
+            "en": "Start the rainy morning inside the chapel's sturdy walls. At noon, seek refuge in local museums where art keeps you dry and inspired. In the afternoon, watch your step on slippery cobblestones heading to the theatre. End the evening safely indoors, listening to the rain from a cozy cultural spot, enjoying the dry and vibrant atmosphere of the local community center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capella de Montserrat",
+                "hu": "Capella de Montserrat",
+                "ro": "Capella de Montserrat",
+                "en": "Capella de Montserrat"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bescheidene Architektur dieser Kapelle, die an Regentagen einen friedlichen, trockenen Rückzugsort bietet; nehmen Sie einen stabilen Regenschirm mit.",
+                "hu": "Csodálja meg a kápolna puritán építészetét, amely esős napokon békés és száraz menedéket nyújt; vigyen magával egy strapabíró esernyőt a rövid sétához.",
+                "ro": "Admirați arhitectura modestă a acestei capele, care oferă un refugiu liniștit și uscat în zilele ploioase; luați cu voi o umbrelă rezistentă pentru acest drum.",
+                "en": "Admire the modest architecture of this chapel, which provides a peaceful and dry retreat on rainy days; bring a sturdy umbrella for the short walk from the street."
+              }
+            },
+            {
+              "name": {
+                "de": "Enric Aguilar",
+                "hu": "Enric Aguilar",
+                "ro": "Enric Aguilar",
+                "en": "Enric Aguilar"
+              },
+              "tip_5lang": {
+                "de": "Diese Galerie schützt Sie vor dem Guss, während Sie lokale Kunstwerke betrachten; nutzen Sie den Innenraum, um Ihre Kleidung kurz zu trocknen und sich aufzuwärmen.",
+                "hu": "Ez a galéria megvédi Önt a felhőszakadástól, miközben helyi műalkotásokat nézeget; használja ki a belső teret, hogy ruhái megszáradjanak a következő megálló előtt.",
+                "ro": "Această galerie vă protejează de ploaie în timp ce admirați operele de artă locale; folosiți spațiul interior pentru a vă usca hainele înainte de următoarea oprire.",
+                "en": "This gallery protects you from the downpour while viewing local artworks; use the indoor space to dry your clothes briefly before heading to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu l'Antoni",
+                "hu": "Museu l'Antoni",
+                "ro": "Museu l'Antoni",
+                "en": "Museu l'Antoni"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die historischen Exponate in der Sicherheit dieses Gebäudes, weit weg von Pfützen; wasserfeste Schuhe sind ratsam, da der Eingangsbereich nass sein kann.",
+                "hu": "Fedezze fel a történelmi kiállításokat az épület biztonságában, távol a tócsáktól; vízálló cipő ajánlott, mivel a bejárati rész csúszós és vizes lehet az esőben.",
+                "ro": "Descoperiți exponatele istorice în siguranța acestei clădiri, departe de bălți; se recomandă încălțăminte impermeabilă, deoarece intrarea poate fi umedă și alunecoasă.",
+                "en": "Explore the historical exhibits in the safety of this building, far from the puddles; waterproof shoes are advised as the entrance area might be wet and slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Balena. Jocs d'aigua",
+                "hu": "Platja de la Balena. Jocs d'aigua",
+                "ro": "Platja de la Balena. Jocs d'aigua",
+                "en": "Platja de la Balena. Jocs d'aigua"
+              },
+              "tip_5lang": {
+                "de": "Die Wasserspiele sind bei Regen weniger belebt, aber der Park wirkt im grauen Licht fast magisch; tragen Sie eine Regenjacke mit Kapuze gegen den seitlichen Wind.",
+                "hu": "A vízi játékok esőben kevésbé forgalmasak, de a park a szürke fényben szinte varázslatos; viseljen kapucnis esőkabátot az oldalszél és a csapkodó eső ellen.",
+                "ro": "Jocurile de apă sunt mai puțin populate pe ploaie, dar parcul pare aproape magic în lumina gri; purtați o pelerină de ploaie cu glugă împotriva vântului lateral.",
+                "en": "The water games are less busy in the rain, but the park looks almost magical in the grey light; wear a hooded raincoat against the lateral wind and drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "ETC. Esbart Teatral Castellar",
+                "hu": "ETC. Esbart Teatral Castellar",
+                "ro": "ETC. Esbart Teatral Castellar",
+                "en": "ETC. Esbart Teatral Castellar"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag bei einer Vorstellung im Trockenen und genießen Sie die lebendige Kulturszene; prüfen Sie vorher, ob es eine Garderobe für nasse Mäntel gibt.",
+                "hu": "Zárja a napot egy előadással a száraz színházteremben, élvezve a vibráló kulturális életet; ellenőrizze, van-e ruhatár a vizes kabátok és esernyők számára.",
+                "ro": "Încheiați ziua cu un spectacol în sala de teatru uscată, bucurându-vă de viața culturală vibrantă; verificați dacă există garderobă pentru haine și umbrele ude.",
+                "en": "End the day with a performance in the dry theater hall, enjoying the vibrant cultural life; check beforehand if there is a cloakroom for wet coats and umbrellas."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Den frostigen Morgen beginnen wir in der Stille der Kapelle. Mittags wärmen wir uns in den beheizten Museumsräumen nach dem Spaziergang auf. Nachmittags beeilen wir uns wegen des frühen Sonnenuntergangs gegen 17:00 Uhr. Den Abend verbringen wir bei kulturellen Darbietungen in angenehmer Wärme, während draußen die kalte Winternacht über das Vallès-Tal hereinbricht.",
+            "hu": "A friss téli reggelt a kápolna csendjében indítjuk. Délben a helyi múzeumok fűtött tereiben melegszünk fel a séta után. Délután sietünk a következő állomásra, mert a nap már 5 óra körül lebukik a horizont mögé. Az estét a színház kulturális melegében töltjük, réteges öltözetben élvezve a helyi miliőt a korai sötétedés ellenére.",
+            "ro": "Începeți dimineața geroasă în liniștea capelei ferite de vânt. La prânz, încălziți-vă în sălile muzeelor după o plimbare revigorantă prin frig. După-amiaza, grăbiți pasul deoarece soarele apune devreme, în jur de ora 17:00. Seara se petrece în confortul termic al instituțiilor culturale locale, bucurându-vă de atmosfera de iarnă.",
+            "en": "Begin a crisp winter morning in the quiet, sheltered chapel. At midday, warm up inside heated museum halls after your brisk walk in the cold. In the afternoon, reach your destination quickly as the sun sets early around 5 PM. Spend the evening enjoying local culture in a well-heated indoor setting while the winter night settles over the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Capella de Montserrat",
+                "hu": "Capella de Montserrat",
+                "ro": "Capella de Montserrat",
+                "en": "Capella de Montserrat"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle strahlt im Winter eine besondere Ruhe aus, kann aber im Inneren recht kühl sein; tragen Sie eine dicke Jacke, da die Steinmauern die Kälte speichern.",
+                "hu": "A kápolna télen különleges nyugalmat áraszt, de belül hűvös lehet; viseljen vastag kabátot, mert a kőfalak ilyenkor télen tartják és sugározzák a hideget.",
+                "ro": "Capela emană o liniște deosebită iarna, dar poate fi răcoroasă în interior; purtați o jachetă groasă, deoarece pereții de piatră rețin frigul în acest sezon.",
+                "en": "The chapel radiates a special calm in winter, but can be quite cool inside; wear a thick jacket as the stone walls tend to hold the cold during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Enric Aguilar",
+                "hu": "Enric Aguilar",
+                "ro": "Enric Aguilar",
+                "en": "Enric Aguilar"
+              },
+              "tip_5lang": {
+                "de": "Diese Galerie bietet eine wunderbare Gelegenheit, Kunst in beheizten Räumen zu entdecken; tragen Sie warme Schichten, da der Eingangsbereich oft zugig sein kann.",
+                "hu": "Ez a galéria remek lehetőség a művészet felfedezésére fűtött környezetben; öltözzön rétegesen, mert a bejáratnál hűvös huzat lehet a téli szél miatt.",
+                "ro": "Această galerie oferă o oportunitate excelentă de a descoperi arta locală în spații încălzite; purtați haine groase deoarece zona de intrare poate fi răcoroasă.",
+                "en": "This gallery offers a great opportunity to discover art in heated spaces; wear warm layers as the entrance area can be drafty due to the cold winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu l'Antoni",
+                "hu": "Museu l'Antoni",
+                "ro": "Museu l'Antoni",
+                "en": "Museu l'Antoni"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um sich zwischen den Spaziergängen aufzuwärmen; achten Sie auf den frühen Lichteinfall, der die Exponate im Winter sanft beleuchtet.",
+                "hu": "Használja ki a múzeumlátogatást a séták közötti felmelegedésre; figyelje meg a téli napfény lágy beesését, amely különleges megvilágítást ad a kiállított tárgyaknak.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi între plimbări; observați cum lumina slabă a iernii luminează delicat exponatele prin ferestrele înalte ale clădirii.",
+                "en": "Use the museum visit to warm up between walks; notice how the soft winter sunlight delicately illuminates the exhibits through the building's large windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Platja de la Balena. Jocs d'aigua",
+                "hu": "Platja de la Balena. Jocs d'aigua",
+                "ro": "Platja de la Balena. Jocs d'aigua",
+                "en": "Platja de la Balena. Jocs d'aigua"
+              },
+              "tip_5lang": {
+                "de": "Der Wasserspielplatz ist im Winter trocken, bietet aber eine weite Sicht auf das Umland; ein warmer Schal ist hier bei der offenen Brise unverzichtbar.",
+                "hu": "A bálnás játszótér vízi játékai télen szünetelnek, de a park látványa így is különleges; egy meleg sál elengedhetetlen a nyílt terepen fújó hideg szél miatt.",
+                "ro": "Locul de joacă cu apă este uscat iarna, dar oferă o priveliște largă asupra împrejurimilor; un fular gros este indispensabil aici din cauza brizei reci.",
+                "en": "The water playground is dry in winter but offers a wide view of the surroundings; a warm scarf is indispensable here due to the biting wind in the open area."
+              }
+            },
+            {
+              "name": {
+                "de": "ETC. Esbart Teatral Castellar",
+                "hu": "ETC. Esbart Teatral Castellar",
+                "ro": "ETC. Esbart Teatral Castellar",
+                "en": "ETC. Esbart Teatral Castellar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Abend in der warmen Theateratmosphäre, bevor Sie den Heimweg antreten; Handschuhe für den Weg nach draußen in die Nacht nicht vergessen.",
+                "hu": "Élvezze az estét a színház melegében, mielőtt elindulna hazafelé a sötétben; ne felejtse el a kesztyűt, amikor az előadás után kilép a fagyos éjszakába.",
+                "ro": "Bucurați-vă de seară în atmosfera caldă a teatrului înainte de a pleca spre casă; nu uitați mănușile când ieșiți în noaptea rece după spectacol.",
+                "en": "Enjoy the evening in the warm theater atmosphere before heading home in the dark; don't forget your gloves when stepping out into the freezing night after the show."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a napot Castellar del Vallès gazdag örökségének felfedezésével. A friss reggeli levegő tökéletes a történelmi nevezetességek és régi templomok bejárásához, miközben e bájos katalán kisváros békés atmoszférája finoman felébreszti érzékeit.\n\nAhogy a nap egyre magasabbra hág, merüljön el a helyi kultúrában a múzeumokon és építészeti gyöngyszemeken keresztül. Keressen egy árnyékos padot, ahol megpihenhet, magába szívhatja a hiteles hangulatot, és élvezheti a közeli pékségek finomságait.\n\nA délután a természeté és a kikapcsolódásé. Legyen szó régi malmok felfedezéséről vagy a frissítő vizes parkok élvezetéről, a város változatos tájai ideális helyszínt kínálnak a pihenésre a meleg spanyol éghajlat kellemes napsütésében.\n\nZárja a felfedezést, ahogy az alkonyat leszáll a városra. A kulturális helyszínek megtelnek élettel a helyi művészeteknek köszönhetően. Tekintsen vissza a napra egy esti sétával, megcsodálva az utcai lámpák fényében fürdőző ősi kőépületeket.",
         "ro": "Începeți ziua scufundându-vă în bogata moștenire a orașului Castellar del Vallès. Aerul dimineții este perfect pentru a explora repere istorice, lăsând atmosfera pașnică a acestui fermecător oraș catalan să vă trezească ușor simțurile la viață.\n\nPe măsură ce soarele urcă, pătrundeți mai adânc în cultura locală prin muzee și bijuterii arhitecturale. Găsiți o piațetă primitoare pentru a vă odihni puțin, absorbind vibrația autentică și poate gustând ceva de la o brutărie din apropiere.\n\nDupă-amiaza vă invită la natură și recreere. Fie că descoperiți mori vechi sau vă bucurați de parcurile acvatice răcoroase, peisajele variate ale orașului oferă cadrul ideal pentru a vă relaxa și a vă bucura de clima caldă tipic spaniolă.\n\nÎncheiați-vă explorarea pe măsură ce se lasă amurgul. Locațiile culturale prind viață cu arta locală. Reflectați asupra descoperirilor zilei cu o plimbare relaxată de seară, admirând cum clădirile antice din piatră strălucesc sub felinare.",
         "en": "Start your day by immersing yourself in the rich heritage of Castellar del Vallès. The morning air is perfect for exploring historical landmarks and old churches, letting the peaceful atmosphere of this lovely Catalan town gently wake your senses.\n\nAs the sun climbs, delve deeper into the local culture through museums and significant architectural gems. Find a cozy plaza or a shaded bench to rest for a moment, absorbing the authentic vibe and perhaps grabbing a light snack from a nearby bakery.\n\nThe afternoon invites a shift towards nature and recreation. Whether discovering old mills or enjoying the refreshing public water parks, the town's varied landscapes offer an ideal setting to unwind and enjoy the warm Spanish climate.\n\nWrap up your exploration as dusk settles over the town. The cultural venues come alive with local art and theater. Reflect on the day's discoveries with a relaxed evening walk, admiring how the ancient stone buildings glow under the streetlights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vorsicht auf nassen Straßen beim Start am Morgen. Mittags bieten Burgen und Kapellen festen Schutz vor plötzlichen Schauern. Nachmittags fahren wir langsam an der alten Mühle vorbei, um Aquaplaning auf dem Laub zu vermeiden. Den Abend lassen wir sicher am Hallenbad ausklingen, wo der Regen auf die großen Fenster trommelt.",
+            "hu": "Vizes aszfalton indul a reggeli tekerés, sárvédő és esőkabát használata kötelező. Délben a várromok és templomok falai adnak ideiglenes menedéket a záporok elől. Délután a Molí d'en Busquets környékén óvatosan kanyarodunk a csúszós falevelek miatt. A napot a városi uszodánál zárjuk, ahol az eső már nem zavarja a látványt.",
+            "ro": "Atenție la drumurile umede la plecarea de dimineață. La prânz, castelele și capelele oferă adăpost solid împotriva ploilor bruște. După-amiaza, pedalați încet pe lângă moara veche pentru a evita derapajele pe frunzele ude. Seara se încheie în siguranță lângă piscina municipală, unde ploaia bate ritmic în ferestre.",
+            "en": "Be careful on wet roads when starting in the morning. At midday, castles and chapels provide solid shelter from sudden showers. In the afternoon, cycle slowly past the old mill to avoid skidding on wet leaves. End the evening safely near the municipal pool, where you can watch the rain drum against the large windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Viena",
+                "hu": "Viena",
+                "ro": "Viena",
+                "en": "Viena"
+              },
+              "tip_5lang": {
+                "de": "Dieses Denkmal ist bei Regen oft menschenleer, was tolle Fotos ermöglicht; achten Sie auf den rutschigen Sockel beim Absteigen vom Fahrrad.",
+                "hu": "Ez a monumentális helyszín esőben gyakran néptelen, ami remek fotózási lehetőség; ügyeljen a csúszós talapzatra, amikor leszáll a kerékpárról.",
+                "ro": "Acest monument este adesea pustiu pe ploaie, oferind ocazii excelente pentru fotografii; atenție la soclul alunecos când coborâți de pe bicicletă.",
+                "en": "This monument is often deserted in the rain, allowing for great photos; watch out for the slippery plinth when dismounting from your bicycle."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Clasquerí",
+                "hu": "Castell de Clasquerí",
+                "ro": "Castell de Clasquerí",
+                "en": "Castell de Clasquerí"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern der Burg bieten perfekten Schutz bei einem Wolkenbruch; parken Sie das Rad an einer geschützten Stelle, um den Sattel trocken zu halten.",
+                "hu": "A vár vastag falai tökéletes menedéket nyújtanak egy hirtelen felhőszakadás esetén; parkolja a kerékpárt védett helyre, hogy az ülése száraz maradjon.",
+                "ro": "Zidurile groase ale castelului oferă un adăpost perfect în caz de furtună; parcați bicicleta într-un loc ferit pentru a păstra șaua uscată pe durata vizitei.",
+                "en": "The castle's thick walls provide perfect shelter during a sudden downpour; park your bike in a sheltered spot to keep the seat dry while you explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Esteve de Castellar Vell",
+                "hu": "Sant Esteve de Castellar Vell",
+                "ro": "Sant Esteve de Castellar Vell",
+                "en": "Sant Esteve de Castellar Vell"
+              },
+              "tip_5lang": {
+                "de": "Die alte Kirche wirkt im Regen besonders mystisch und bietet einen überdachten Eingang; prüfen Sie Ihre Bremsen, da die Abfahrt dorthin nun steiler wirkt.",
+                "hu": "A régi templom esőben különösen misztikus, és fedett bejárattal rendelkezik; ellenőrizze a fékeket, mert a lejtő ilyenkor veszélyesebben csúszik.",
+                "ro": "Vechea biserică pare deosebit de mistică pe ploaie și are un portic acoperit; verificați frânele, deoarece panta spre biserică devine foarte alunecoasă.",
+                "en": "The old church looks particularly mystical in the rain and features a covered porch; check your brakes as the slope down there becomes quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Busquets",
+                "hu": "Molí d'en Busquets",
+                "ro": "Molí d'en Busquets",
+                "en": "Molí d'en Busquets"
+              },
+              "tip_5lang": {
+                "de": "In der Nähe der Mühle können sich große Pfützen bilden, die tiefer sind als sie scheinen; halten Sie Abstand zum Bachrand, da der Boden aufgeweicht ist.",
+                "hu": "A malom közelében nagy tócsák alakulhatnak ki, amelyek mélyebbnek tűnhetnek; tartson távolságot a patak partjától, mert a talaj ilyenkor fellazulhat.",
+                "ro": "Lângă moară se pot forma bălți mari care par mai adânci decât sunt în realitate; păstrați distanța față de malul pârâului, deoarece solul este înmuiat.",
+                "en": "Large puddles can form near the mill, looking deeper than they actually are; stay away from the stream bank as the ground becomes soft and unstable."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Das Schwimmbad ist der ideale Ort, um sich nach einer nassen Tour wieder aufzuwärmen; verstauen Sie Ihre nasse Kleidung in wasserdichten Beuteln im Rucksack.",
+                "hu": "Az uszoda ideális hely a felmelegedésre egy vizes túra után; a vizes ruhákat és sárvédő nélküli táskákat érdemes vízhatlan zsákba tenni a biciklin.",
+                "ro": "Piscina este locul ideal pentru a vă încălzi după o tură umedă; puneți hainele ude în saci impermeabili în rucsac pentru a nu uda restul lucrurilor.",
+                "en": "The pool is the ideal place to warm up after a wet bike tour; store your wet clothes in waterproof bags in your backpack to keep other items dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "In der beißenden Morgenbrise sind Handschuhe beim Radfahren unverzichtbar. Mittags ruhen wir zwischen historischen Mauern und genießen die klare Winterluft und den sanften Sonnenschein. Nachmittags spüren wir die Kälte und eilen vor dem frühen Zwielicht zum Ziel. Den Abend beenden wir am beleuchteten Stadtpark bei frostiger, aber erfrischender Luft.",
+            "hu": "A csípős reggeli szélben jól jön a kesztyű és a maszk a kerékpáron. Délben a történelmi falak között pihenünk, élvezve a tiszta téli leveőt és a lágy napsütést. Délután már érezhető a lehűlés, így igyekszünk a cél felé a korai szürkületben. Estére a kivilágított városi parknál fejezzük be a hideg, de frissítő túrát.",
+            "ro": "În briza mușcătoare a dimineții, mănușile sunt indispensabile pe bicicletă. La prânz ne odihnim între ziduri istorice, bucurându-ne de aerul curat și soarele blând. După-amiaza simțim frigul și grăbim pasul spre destinație înainte de amurgul timpuriu. Seara se încheie în parcul luminat, într-un aer rece dar revigorant.",
+            "en": "In the biting morning breeze, gloves and a face mask are essential while cycling. At midday, rest between historical walls, enjoying the clear winter air and soft sunshine. In the afternoon, the cooling is noticeable, so we hurry towards the goal in the early twilight. End the evening at the illuminated park in frosty but refreshing air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Viena",
+                "hu": "Viena",
+                "ro": "Viena",
+                "en": "Viena"
+              },
+              "tip_5lang": {
+                "de": "Die klare Wintersonne lässt dieses Monument hell erstrahlen; ziehen Sie windfeste Kleidung an, da der Platz im Winter oft ungeschützt gegen den Nordwind liegt.",
+                "hu": "A tiszta téli napsütésben ragyog ez a monumentális helyszín; viseljen szélálló ruházatot, mert a tér ilyenkor védtelen az északi széllel szemben.",
+                "ro": "Soarele curat de iarnă face acest monument să strălucească; purtați haine rezistente la vânt, deoarece piața este expusă vântului de nord în acest sezon.",
+                "en": "The clear winter sun makes this monument shine brightly; wear windproof clothing as the square is often unprotected against the north wind in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Clasquerí",
+                "hu": "Castell de Clasquerí",
+                "ro": "Castell de Clasquerí",
+                "en": "Castell de Clasquerí"
+              },
+              "tip_5lang": {
+                "de": "Die Burg wirkt vor dem kahlen Winterhimmel besonders majestätisch; halten Sie die Pausen kurz, damit Ihre Muskeln während der Besichtigung nicht auskühlen.",
+                "hu": "A vár a kopár téli égbolt előtt különösen fenséges látvány; tartsa röviden a pihenőket, hogy az izmai ne hűljenek ki a nézelődés közben.",
+                "ro": "Castelul pare maiestuos pe fundalul cerului golaș de iarnă; păstrați pauzele scurte pentru ca mușchii să nu se răcească în timpul vizitei la exterior.",
+                "en": "The castle looks majestic against the bare winter sky; keep your breaks short so your muscles don't cool down too much while you explore the grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Esteve de Castellar Vell",
+                "hu": "Sant Esteve de Castellar Vell",
+                "ro": "Sant Esteve de Castellar Vell",
+                "en": "Sant Esteve de Castellar Vell"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Wanderwege hier ruhiger, aber achten Sie auf gefrorene Stellen in den Senken; Reflektoren am Rad sind wichtig für die frühe Dämmerung.",
+                "hu": "Télen az utak itt csendesebbek, de ügyeljen a fagypont alatti foltokra a mélyedésekben; a fényvisszaverők fontosak a korai szürkület miatt.",
+                "ro": "Iarna drumurile sunt mai liniștite aici, dar atenție la zonele înghețate din adâncituri; reflectorizantele sunt esențiale din cauza amurgului timpuriu.",
+                "en": "In winter, the roads here are quieter, but watch out for frozen patches in the hollows; reflectors on your bike are essential due to the early twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí d'en Busquets",
+                "hu": "Molí d'en Busquets",
+                "ro": "Molí d'en Busquets",
+                "en": "Molí d'en Busquets"
+              },
+              "tip_5lang": {
+                "de": "Das fließende Wasser des Bachs wirkt bei Frost besonders klar; tragen Sie Überschuhe, um Ihre Füße vor dem kalten Spritzwasser der Straße zu schützen.",
+                "hu": "A patak folyó vize fagyos időben különösen tisztának tűnik; viseljen kamáslit, hogy megvédje lábát az útról felverődő jéghideg víztől és sártól.",
+                "ro": "Apa curgătoare a pârâului pare foarte clară pe timp de îngheț; purtați protecții de încălțăminte pentru a vă feri picioarele de apa rece de pe drum.",
+                "en": "The flowing water of the stream looks particularly clear in freezing weather; wear overshoes to protect your feet from cold splashes from the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Piscina Municipal",
+                "hu": "Piscina Municipal",
+                "ro": "Piscina Municipal",
+                "en": "Piscina Municipal"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um sich nach der Kälte zu regenerieren; bringen Sie eine Thermoskanne mit warmem Tee für die letzte Etappe Ihrer winterlichen Tour mit.",
+                "hu": "Tökéletes hely a regenerálódásra a hideg után; vigyen magával termoszban meleg teát a téli túra utolsó szakaszához, hogy belülről is melegedjen.",
+                "ro": "Un loc perfect pentru recuperare după frigul îndurat; aduceți un termos cu ceai cald pentru ultima etapă a turei voastre de iarnă prin oraș.",
+                "en": "A perfect place to recover after the cold; bring a thermos with warm tea for the last leg of your winter tour to keep your core temperature up."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Kezdje a napot Castellar del Vallès gazdag örökségének felfedezésével. A friss reggeli levegő tökéletes a történelmi nevezetességek és régi templomok bejárásához, miközben e bájos katalán kisváros békés atmoszférája finoman felébreszti érzékeit.\n\nAhogy a nap egyre magasabbra hág, merüljön el a helyi kultúrában a múzeumokon és építészeti gyöngyszemeken keresztül. Keressen egy árnyékos padot, ahol megpihenhet, magába szívhatja a hiteles hangulatot, és élvezheti a közeli pékségek finomságait.\n\nA délután a természeté és a kikapcsolódásé. Legyen szó régi malmok felfedezéséről vagy a frissítő vizes parkok élvezetéről, a város változatos tájai ideális helyszínt kínálnak a pihenésre a meleg spanyol éghajlat kellemes napsütésében.\n\nZárja a felfedezést, ahogy az alkonyat leszáll a városra. A kulturális helyszínek megtelnek élettel a helyi művészeteknek köszönhetően. Tekintsen vissza a napra egy esti sétával, megcsodálva az utcai lámpák fényében fürdőző ősi kőépületeket.",
         "ro": "Începeți ziua scufundându-vă în bogata moștenire a orașului Castellar del Vallès. Aerul dimineții este perfect pentru a explora repere istorice, lăsând atmosfera pașnică a acestui fermecător oraș catalan să vă trezească ușor simțurile la viață.\n\nPe măsură ce soarele urcă, pătrundeți mai adânc în cultura locală prin muzee și bijuterii arhitecturale. Găsiți o piațetă primitoare pentru a vă odihni puțin, absorbind vibrația autentică și poate gustând ceva de la o brutărie din apropiere.\n\nDupă-amiaza vă invită la natură și recreere. Fie că descoperiți mori vechi sau vă bucurați de parcurile acvatice răcoroase, peisajele variate ale orașului oferă cadrul ideal pentru a vă relaxa și a vă bucura de clima caldă tipic spaniolă.\n\nÎncheiați-vă explorarea pe măsură ce se lasă amurgul. Locațiile culturale prind viață cu arta locală. Reflectați asupra descoperirilor zilei cu o plimbare relaxată de seară, admirând cum clădirile antice din piatră strălucesc sub felinare.",
         "en": "Start your day by immersing yourself in the rich heritage of Castellar del Vallès. The morning air is perfect for exploring historical landmarks and old churches, letting the peaceful atmosphere of this lovely Catalan town gently wake your senses.\n\nAs the sun climbs, delve deeper into the local culture through museums and significant architectural gems. Find a cozy plaza or a shaded bench to rest for a moment, absorbing the authentic vibe and perhaps grabbing a light snack from a nearby bakery.\n\nThe afternoon invites a shift towards nature and recreation. Whether discovering old mills or enjoying the refreshing public water parks, the town's varied landscapes offer an ideal setting to unwind and enjoy the warm Spanish climate.\n\nWrap up your exploration as dusk settles over the town. The cultural venues come alive with local art and theater. Reflect on the day's discoveries with a relaxed evening walk, admiring how the ancient stone buildings glow under the streetlights."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Vom Auto aus bleibt der Blick auf den Puig Capçut erreichbar, auch wenn die Wolken tief hängen. Mittags fahren wir direkt vor die Kirchentüren, um den Regen zu meiden. Nachmittags bietet das Schloss durch die beschlagene Windschutzscheibe einen mystischen Anblick. Abends begleiten die Scheibenwischer den Rhythmus unserer historischen Reise durch das nasse Vallès.",
+            "hu": "Autóval a kilátópont is elérhető marad, bár a felhők alacsonyan szállnak. Délben a templomok és udvarok bejáratáig hajtunk, minimalizálva az esőben töltött időt. Délután a vár látképe a párás szélvédőn át is misztikus élményt nyújt. Estére a város szélére érünk, ahol az ablaktörlők ritmusa kíséri a történelmi utazást a vizes utakon.",
+            "ro": "Din mașină, vederea spre Puig Capçut rămâne accesibilă chiar dacă norii sunt joși. La prânz conducem până la ușa bisericilor pentru a evita ploaia. După-amiaza, castelul oferă o vedere mistică prin parbrizul aburit. Seara, ștergătoarele acompaniază ritmul călătoriei noastre istorice prin peisajul ud al regiunii.",
+            "en": "From the car, the view of Puig Capçut remains accessible even with low clouds. At midday, drive right up to the church doors to minimize time spent in the rain. In the afternoon, the castle offers a mystical sight through the foggy windshield. In the evening, the wipers accompany the rhythm of our historical journey through the wet valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puig Capçut",
+                "hu": "Puig Capçut",
+                "ro": "Puig Capçut",
+                "en": "Puig Capçut"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Panorama aus dem Auto, wenn der Regen zu stark wird; prüfen Sie den Reifendruck für die kurvige, nasse Auffahrt zum Gipfel.",
+                "hu": "Élvezze a panorámát az autóból, ha az eső túl erőssé válik; ellenőrizze a guminyomást a kanyargós, vizes emelkedő előtt a biztonságos tapadásért.",
+                "ro": "Bucurați-vă de panoramă din mașină dacă ploaia devine prea puternică; verificați presiunea pneurilor pentru urcarea sinuoasă și umedă spre vârf.",
+                "en": "Enjoy the panorama from the car if the rain becomes too heavy; check your tire pressure for the winding, wet climb to the summit for better grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de la Barata",
+                "hu": "Molí de la Barata",
+                "ro": "Molí de la Barata",
+                "en": "Molí de la Barata"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Aussteigen reicht, um dieses Denkmal zu bewundern; parken Sie auf befestigtem Grund, um nicht im aufgeweichten Boden stecken zu bleiben.",
+                "hu": "Egy rövid kiszállás is elég, hogy megcsodálja ezt az emlékművet; parkoljon szilárd burkolaton, hogy ne akadjon el a felázott, sáros talajon.",
+                "ro": "O scurtă coborâre din mașină este suficientă pentru a admira monumentul; parcați pe teren consolidat pentru a nu rămâne blocat în noroiul de pe margini.",
+                "en": "A short exit from the car is enough to admire this monument; park on firm ground to avoid getting stuck in the softened, muddy soil nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Feliu del Racó",
+                "hu": "Església de Sant Feliu del Racó",
+                "ro": "Església de Sant Feliu del Racó",
+                "en": "Església de Sant Feliu del Racó"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet einen wunderbaren, trockenen Ort für eine kurze Pause; nutzen Sie die Parkplätze in direkter Nähe zum Haupteingang.",
+                "hu": "Ez a templom csodálatos, száraz helyszín egy rövid pihenőhöz; használja a főbejárathoz legközelebb eső parkolóhelyeket az eső elkerülésére.",
+                "ro": "Această biserică oferă un loc uscat și minunat pentru o scurtă pauză; folosiți locurile de parcare din imediata apropiere a intrării principale.",
+                "en": "This church offers a wonderful, dry location for a short break; use the parking spaces closest to the main entrance to avoid getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Borrell",
+                "hu": "Can Borrell",
+                "ro": "Can Borrell",
+                "en": "Can Borrell"
+              },
+              "tip_5lang": {
+                "de": "Der historische Hof wirkt im Regen besonders atmosphärisch; achten Sie beim Fahren auf dem Zufahrtsweg auf tiefere Wasserlachen und Schlaglöcher.",
+                "hu": "A történelmi udvar esőben különösen hangulatos látványt nyújt; vezetés közben ügyeljen a mélyebb tócsákra és kátyúkra a bekötőúton.",
+                "ro": "Curtea istorică are o atmosferă deosebită pe ploaie; în timp ce conduceți pe drumul de acces, atenție la bălțile adânci și gropile ascunse.",
+                "en": "The historic courtyard looks particularly atmospheric in the rain; while driving on the access road, watch out for deep puddles and hidden potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Clasquerí",
+                "hu": "Castell de Clasquerí",
+                "ro": "Castell de Clasquerí",
+                "en": "Castell de Clasquerí"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie einen tollen Blick auf die Wehrtürme; ein kleiner Taschenschirm ist nützlich für den kurzen Weg vom Auto zum Tor.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a védőtornyokra; egy kis táskaesernyő hasznos lesz az autótól a kapuig tartó rövid sétához.",
+                "ro": "Din parcare aveți o vedere excelentă asupra turnurilor de apărare; o umbrelă mică de buzunar este utilă pentru drumul scurt de la mașină la poartă.",
+                "en": "From the parking lot, you have a great view of the defensive towers; a small pocket umbrella is useful for the short walk from the car to the gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Esteve de Castellar Vell",
+                "hu": "Sant Esteve de Castellar Vell",
+                "ro": "Sant Esteve de Castellar Vell",
+                "en": "Sant Esteve de Castellar Vell"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Straße hierher kann bei Regen rutschig sein; schalten Sie das Abblendlicht ein, da die Sichtverhältnisse im Tal oft eingeschränkt sind.",
+                "hu": "Az ide vezető keskeny út esőben csúszós lehet; kapcsolja be a tompított fényszórót, mert a látási viszonyok a völgyben ilyenkor korlátozottak.",
+                "ro": "Drumul îngust spre acest loc poate fi alunecos pe ploaie; aprindeți faza scurtă, deoarece vizibilitatea în vale este adesea limitată în acest sezon.",
+                "en": "The narrow road here can be slippery in the rain; turn on your dipped headlights as visibility in the valley is often restricted during heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Vom Komfort des geheizten Autos aus fahren wir zum eisigen Gipfel des Puig Capçut. Mittags spazieren wir kurz zwischen alten Mühlen und Kirchen, bevor wir schnell ins warme Innere zurückkehren. Nachmittags färbt der Sonnenuntergang die Burgmauern orange, noch bevor die Dunkelheit einsetzt. Den Tag beenden wir bei sinkender Kälte an der Stadtkirche.",
+            "hu": "A fűtött autó kényelméből indulunk a Puig Capçut jeges csúcsa felé. Délben a régi malmok és templomok között sétálunk rövideket, gyorsan visszatérve a meleg utastérbe. Délután a téli naplemente narancssárgára festi a várfalakat, még a sötétedés előtt. A napot a városi templomnál zárjuk, ahogy a téli éjszaka hidege leszáll.",
+            "ro": "Din confortul mașinii încălzite pornim spre vârful înghețat Puig Capçut. La prânz facem scurte plimbări între mori și biserici, revenind rapid în habitaclul cald. După-amiaza, apusul de iarnă colorează zidurile castelului în portocaliu înainte de lăsarea întunericului. Ziua se încheie la biserica orașului, pe măsură ce frigul se intensifică.",
+            "en": "From the comfort of the heated car, we head towards the icy peak of Puig Capçut. At midday, take short walks between old mills and churches before quickly returning to the warm interior. In the afternoon, the winter sunset paints the castle walls orange before darkness falls. End the day at the town church as the winter night cold settles in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Puig Capçut",
+                "hu": "Puig Capçut",
+                "ro": "Puig Capçut",
+                "en": "Puig Capçut"
+              },
+              "tip_5lang": {
+                "de": "Das Panorama ist im Winter dank der klaren Luft am weitesten; fahren Sie vorsichtig, da in schattigen Kurven mit Straßenglätte zu rechnen ist.",
+                "hu": "A panoráma télen a legtisztább a páramentes levegőnek köszönhetően; vezessen óvatosan, mert az árnyékos kanyarokban jegesedés várható az úton.",
+                "ro": "Panorama este cea mai clară iarna datorită aerului curat; conduceți cu prudență, deoarece în curbele umbrite se poate forma polei pe șosea.",
+                "en": "The panorama is clearest in winter thanks to the humidity-free air; drive carefully as icing can be expected on the road in shaded curves."
+              }
+            },
+            {
+              "name": {
+                "de": "Molí de la Barata",
+                "hu": "Molí de la Barata",
+                "ro": "Molí de la Barata",
+                "en": "Molí de la Barata"
+              },
+              "tip_5lang": {
+                "de": "Die alte Mühle wirkt in der kargen Winterlandschaft sehr kontrastreich; lassen Sie den Motor nicht unnötig laufen, während Sie für ein Foto aussteigen.",
+                "hu": "A régi malom a kopár téli tájban nagyon kontrasztos látványt nyújt; ne hagyja feleslegesen járni a motort, amíg kiszáll egy gyors fotó erejéig.",
+                "ro": "Moara veche oferă un contrast puternic în peisajul golaș de iarnă; nu lăsați motorul pornit inutil cât timp coborâți pentru o fotografie rapidă.",
+                "en": "The old mill provides a stark contrast in the bare winter landscape; don't leave the engine running unnecessarily while you step out for a quick photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Església de Sant Feliu del Racó",
+                "hu": "Església de Sant Feliu del Racó",
+                "ro": "Església de Sant Feliu del Racó",
+                "en": "Església de Sant Feliu del Racó"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte, aber das Innere ist windgeschützt; parken Sie so, dass Sie die Wintersonne als natürliche Heizung nutzen können.",
+                "hu": "A vastag kőfalak tartják a hideget, de a belső tér szélvédett; parkoljon úgy, hogy a téli napfény természetes fűtésként érje az autót, amíg bent van.",
+                "ro": "Pereții groși de piatră rețin frigul, dar interiorul este ferit de vânt; parcați astfel încât soarele de iarnă să bată în mașină pentru a o menține caldă.",
+                "en": "The thick stone walls hold the cold, but the interior is protected from the wind; park so the winter sun hits the car to keep it naturally warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Can Borrell",
+                "hu": "Can Borrell",
+                "ro": "Can Borrell",
+                "en": "Can Borrell"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Frost tückisch sein, achten Sie auf Eis in den Spurrillen; eine Decke im Auto sorgt für Gemütlichkeit bei der Weiterfahrt.",
+                "hu": "A bekötőút fagyos időben trükkös lehet, ügyeljen a jégre a keréknyomokban; egy takaró az autóban fokozza a kényelmet a továbbutazás során.",
+                "ro": "Drumul de acces poate fi înșelător pe timp de îngheț, atenție la gheața din făgașe; o pătură în mașină sporește confortul în timpul deplasării.",
+                "en": "The access road can be tricky in freezing weather, watch out for ice in the ruts; a blanket in the car adds comfort during the onward journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Clasquerí",
+                "hu": "Castell de Clasquerí",
+                "ro": "Castell de Clasquerí",
+                "en": "Castell de Clasquerí"
+              },
+              "tip_5lang": {
+                "de": "Im Winter sind die Details der Architektur ohne Laub an den Bäumen besser sichtbar; achten Sie auf die kurze Tageslichtdauer bei Ihrer Zeitplanung.",
+                "hu": "Télen az építészet részletei a fák lombkoronája nélkül jobban láthatóak; ügyeljen a rövid nappalokra és a korai sötétedésre az időbeosztásnál.",
+                "ro": "Iarna, detaliile arhitecturale sunt mai vizibile fără frunzișul copacilor; țineți cont de durata scurtă a zilei când vă planificați timpul de vizită.",
+                "en": "In winter, architectural details are more visible without the tree foliage; keep the short daylight hours in mind when planning your visit time."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Esteve de Castellar Vell",
+                "hu": "Sant Esteve de Castellar Vell",
+                "ro": "Sant Esteve de Castellar Vell",
+                "en": "Sant Esteve de Castellar Vell"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet fantastisches Licht für Aufnahmen der alten Kirche; stellen Sie sicher, dass Ihre Scheibenwaschanlage Frostschutz enthält.",
+                "hu": "Az alacsonyan járó nap fantasztikus fényeket ad a régi templom fotózásához; győződjön meg róla, hogy a szélvédőmosó folyadék fagyálló-e.",
+                "ro": "Soarele jos oferă o lumină fantastică pentru fotografierea vechii biserici; asigurați-vă că lichidul de parbriz conține antigel pentru această tură.",
+                "en": "The low sun provides fantastic light for photographing the old church; make sure your windshield washer fluid contains antifreeze for the trip."
+              }
+            }
+          ]
+        }
       }
     }
   }

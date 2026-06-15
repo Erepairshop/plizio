@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Mèze déli kápolnáinak szellemi örökségével. Délben sétáljon északra, hogy elmerüljön az impresszív gallo-román villa történelmében. Délután pihenjen meg a kikötőben, figyelje a hajókat és élvezze a tengeri hangulatot. Este a túrát a Chapelle Notre-Dame-nál fejezheti be, ahogy az aranyóra bevilágítja az egész várost.",
         "ro": "Începeți ziua explorând moștenirea spirituală a orașului Mèze la capelele din sud. La amiază, plimbați-vă spre nord pentru a vă cufunda în istoria vilei galo-romane. După-amiaza, relaxați-vă la Portul Mèze, urmărind bărcile și bucurându-vă de atmosfera maritimă. Seara, încheiați turul la Chapelle Notre-Dame în timp ce lumina caldă a apusului învăluie întregul oraș.",
         "en": "Start the day exploring Mèze's spiritual heritage at the southern chapels. Midday, walk northwards to immerse yourself in history at the impressive Gallo-Roman Villa. In the afternoon, relax by the Port of Mèze, watching the boats and enjoying the lively maritime atmosphere. Conclude your walking tour in the evening at Chapelle Notre-Dame as the golden hour illuminates the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen in der Chapelle des Pénitents und Saint-Hilaire. Mittags bietet das überdachte Museum der gallo-römischen Villa perfekten Schutz. Verbringen Sie den Nachmittag mit einem Regenschirm am Hafen. Beenden Sie den Tag in der Chapelle Notre-Dame im Trockenen.",
+            "hu": "Esős reggelét kezdje a Chapelle des Pénitents és a Saint-Hilaire templomok fedett nyugalmában. Délben a Prés Bas gallo-román villa múzeuma nyújt tökéletes menedéket. Délután sétáljon egy nagy esernyővel a kikötőben. Este a Chapelle Notre-Dame falai között lelhet békére a parti szitálás elől.",
+            "ro": "Începeți dimineața ploioasă la Chapelle des Pénitents și Saint-Hilaire, la adăpost. La prânz, muzeul acoperit al Vilei galo-romane oferă refugiul perfect. Petreceți după-amiaza la port cu o umbrelă rezistentă. Încheiați la Chapelle Notre-Dame pentru a scăpa de burnița de coastă.",
+            "en": "Begin your rainy morning at the Chapelle des Pénitents and Saint-Hilaire, staying mostly indoors. Midday offers the perfect shelter at the Gallo-Roman Villa's covered museum. Spend the afternoon by the port with a sturdy umbrella. Conclude at Chapelle Notre-Dame to escape the coastal drizzle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle des Pénitents",
+                "hu": "Chapelle des Pénitents",
+                "ro": "Chapelle des Pénitents",
+                "en": "Chapelle des Pénitents"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenarchitektur im Trockenen; seien Sie jedoch vorsichtig, da die alten Steinböden am Eingang bei Regen sehr rutschig werden können.",
+                "hu": "Csodálja meg a belső építészetet, miközben szárazon marad; vigyázzon, mert az ősi kőpadló a bejárat közelében esőben nagyon csúszóssá válhat.",
+                "ro": "Admirați arhitectura interioară la adăpost; aveți grijă, deoarece podelele vechi din piatră pot fi destul de alunecoase lângă intrare în timpul ploii.",
+                "en": "Admire the intricate interior architecture while staying dry; just be careful, as the ancient stone floors can be quite slippery near the entrance in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire Kirche",
+                "hu": "Saint-Hilaire templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit für die Buntglasfenster und das ruhige Kirchenschiff, um den plötzlichen Schauern zu entkommen und den Regenschirm abzuputzen.",
+                "hu": "Szánjon időt a gyönyörű ólomüvegek felfedezésére a hirtelen záporok elől menekülve, esernyőjét a masszív faajtóknál hagyva becsepegés ellen.",
+                "ro": "Explorați vitraliile frumoase și naosul liniștit pentru a scăpa de aversele bruște, scuturând umbrela la ușile masive din lemn înainte de a intra.",
+                "en": "Take your time exploring the beautiful stained glass and peaceful nave to escape the sudden showers, shaking off your umbrella at the sturdy wooden doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Prés Bas",
+                "hu": "Prés Bas gallo-román villa",
+                "ro": "Vila galo-romană Prés Bas",
+                "en": "Gallo-Roman Villa of Prés Bas"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der perfekte Halt an Regentagen: Erkunden Sie die antiken Mosaike und die vollständig überdachten archäologischen Ausstellungen in aller Ruhe.",
+                "hu": "Ez a tökéletes esős napi program: fedezze fel a lenyűgöző ókori mozaikokat és a teljesen fedett régészeti kiállítást a saját, kényelmes tempójában.",
+                "ro": "Oprirea perfectă pentru o zi ploioasă: explorați mozaicurile antice și expozițiile arheologice complet acoperite în propriul ritm, departe de ploaie.",
+                "en": "This is the perfect rainy day stop: take your time to explore the ancient mosaics and fully covered archaeological exhibits at your own comfortable pace."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Mèze",
+                "hu": "Mèze kikötője",
+                "ro": "Portul Mèze",
+                "en": "Port of Mèze"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Regentropfen auf der Lagune, aber tragen Sie unbedingt einen robusten Regenmantel gegen den starken, unberechenbaren Küstenwind.",
+                "hu": "Figyelje egy védett helyről, ahogy az esőcseppek a lagúna vizébe hullanak, de viseljen erős esőkabátot a kiszámíthatatlan, hűvös parti szél ellen.",
+                "ro": "Priviți picăturile de ploaie lovind apele lagunei, dar asigurați-vă că purtați o haină de ploaie rezistentă împotriva vântului de coastă puternic.",
+                "en": "Watch the mesmerizing raindrops hit the lagoon waters from under shelter, but make sure to wear a sturdy raincoat against the strong, unpredictable coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame",
+                "hu": "Chapelle Notre-Dame",
+                "ro": "Chapelle Notre-Dame",
+                "en": "Chapelle Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Ort, um Ihren Spaziergang zu beenden; das Eintreten bietet sofortige Erleichterung vom anhaltenden Küstennieselregen und der feuchten Luft.",
+                "hu": "Hangulatos szentély a séta befejezéséhez; a belépés azonnali és örömteli felüdülést kínál a kitartó parti szitálás és a nyirkos időjárás elől.",
+                "ro": "Un sanctuar confortabil pentru a încheia plimbarea; pășind înăuntru veți simți o ușurare imediată de la burnița de coastă persistentă și umiditate.",
+                "en": "A cozy sanctuary to elegantly end your walk; stepping inside offers immediate and welcome relief from the persistent coastal drizzle and damp atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt an den historischen Kapellen. Mittags wärmen Sie sich in der gallo-römischen Villa auf. Der Nachmittag bringt schönes Winterlicht in den ruhigen Hafen. Beenden Sie Ihren Spaziergang an der Chapelle Notre-Dame, bevor der frühe Sonnenuntergang Kälte bringt.",
+            "hu": "A csípős téli reggel a történelmi kápolnák felfedezésével indul. Délben a fűtött gallo-román villa kiállításán melegedhet fel. Délután a kikötő csendes, téli fényeiben gyönyörködhet. Fejezze be a sétát a Chapelle Notre-Dame-nál, mielőtt a korai naplemente elhozza a fagyos estét.",
+            "ro": "O dimineață de iarnă geroasă începe la capelele istorice. La prânz vă încălziți explorând Vila galo-romană. După-amiaza aduce o lumină de iarnă superbă în portul liniștit. Încheiați plimbarea la Chapelle Notre-Dame înainte ca apusul timpuriu să aducă frigul serii.",
+            "en": "A crisp winter morning starts at the historic chapels. Midday warms up as you explore the indoor Gallo-Roman Villa. The afternoon brings beautiful winter light to the quiet port. Wrap up your walk at Chapelle Notre-Dame before the early sunset brings a sudden chill around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chapelle des Pénitents",
+                "hu": "Chapelle des Pénitents",
+                "ro": "Chapelle des Pénitents",
+                "en": "Chapelle des Pénitents"
+              },
+              "tip_5lang": {
+                "de": "Die Steinwände speichern die Winterkälte, behalten Sie also Ihren Mantel an, während Sie die historische religiöse Kunst im Inneren bewundern.",
+                "hu": "A vastag kőfalak megtartják a téli hideget, így érdemes magán tartania a kabátot, miközben megcsodálja a bent található történelmi vallási művészetet.",
+                "ro": "Pereții de piatră rețin frigul iernii, așa că păstrați haina pe dumneavoastră în timp ce admirați arta religioasă istorică din interior.",
+                "en": "The thick stone walls hold the winter chill, so keep your heavy coat on while taking time to admire the historical religious art preserved inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire Kirche",
+                "hu": "Saint-Hilaire templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Winteratmosphäre und das weiche Licht, das durch die Fenster fällt und sich perfekt für stimmungsvolle Fotografien eignet.",
+                "hu": "Élvezze a csendes téli atmoszférát és az ablakokon átszűrődő lágy fényeket, amelyek tökéletes feltételeket teremtenek a hangulatos fotózáshoz.",
+                "ro": "Bucurați-vă de atmosfera liniștită de iarnă și de lumina blândă care se filtrează prin ferestre, perfectă pentru fotografii atmosferice.",
+                "en": "Enjoy the quiet winter atmosphere and soft, low-angled lighting filtering through the stained glass windows, perfect for atmospheric photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Prés Bas",
+                "hu": "Prés Bas gallo-román villa",
+                "ro": "Vila galo-romană Prés Bas",
+                "en": "Gallo-Roman Villa of Prés Bas"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in dieser faszinierenden archäologischen Stätte auf und entdecken Sie antike römische Mosaike ohne die sommerlichen Touristenmassen.",
+                "hu": "Melegedjen fel ebben a lenyűgöző régészeti térben, és fedezze fel az ókori római mozaikokat a nyári turistaáradat okozta zsúfoltság nélkül.",
+                "ro": "Încălziți-vă în acest sit arheologic fascinant, descoperind mozaicuri romane antice fără aglomerația turiștilor din timpul verii.",
+                "en": "Warm up inside this fascinating archaeological site, taking your time to discover the ancient Roman mosaics without the bustling summer crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Mèze",
+                "hu": "Mèze kikötője",
+                "ro": "Portul Mèze",
+                "en": "Port of Mèze"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht über der Lagune ist atemberaubend; packen Sie sich warm ein gegen die schneidende Brise, die vom eisigen Wasser herüberweht.",
+                "hu": "A téli fények a lagúna felett lélegzetelállítóak; öltözzön fel melegen a jeges víz felől érkező, csípős szél ellen a kikötői séta során.",
+                "ro": "Lumina iernii peste lagună este uimitoare; înfofoliți-vă bine împotriva brizei tăioase care vine de pe apa rece a mării.",
+                "en": "The crisp winter light over the lagoon is stunning; just be sure to wrap up warmly against the biting breeze coming straight off the icy water."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Notre-Dame",
+                "hu": "Chapelle Notre-Dame",
+                "ro": "Chapelle Notre-Dame",
+                "en": "Chapelle Notre-Dame"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier, während die frühe Winterdämmerung naht, und genießen Sie die friedliche und nachdenkliche Atmosphäre der Umgebung.",
+                "hu": "Fejezze be a sétát itt, ahogy a korai téli szürkület közeledik, és adja át magát a környék békés, elmélyült és csendes atmoszférájának.",
+                "ro": "Terminați-vă turul aici pe măsură ce se apropie amurgul timpuriu de iarnă, oferind o atmosferă pașnică și plină de reflecție.",
+                "en": "Finish your walking tour here as the early winter dusk approaches, offering a profoundly peaceful and reflective atmosphere before night falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel kerékpározzon a csendes külvárosba, hogy meglátogassa az ősi északi kápolnákat. Délben guruljon le a kikötőbe, majd fedezze fel a kiterjedt gallo-román romokat. Délután tekerjen tovább délre a Saint-Hilaire templomhoz az óváros hangulatos utcáin keresztül. Este a túrát a látványos Thau-lagúnánál zárja, amely tökéletes a pihenésre egy aktív nap után.",
         "ro": "Dimineața, pedalați spre periferia liniștită pentru a vizita capelele vechi din nord. La amiază, coborâți spre port și apoi descoperiți ruinele extinse ale vilei galo-romane. După-amiaza, continuați spre sud către Biserica Saint-Hilaire, trecând prin străzile fermecătoare ale orașului vechi. Seara, încheiați plimbarea la spectaculoasa Lagună Thau.",
         "en": "Pedal in the morning to the quiet outskirts to visit the ancient chapels in the north. Midday, cycle down to the lively port and then discover the sprawling Gallo-Roman Villa ruins. In the afternoon, continue south to Saint-Hilaire Church, experiencing the charming streets of the old town. End your ride in the evening at the spectacular Thau Lagoon, perfect for unwinding."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht! Morgenfahrt zu historischen Kapellen. Mittags am Hafen und in der gallo-römischen Villa abtrocknen. Nachmittags nasse Fahrt nach Saint-Hilaire und zur Thau-Lagune. Tragen Sie helle, wasserdichte Kleidung!",
+            "hu": "Az esőben való biciklizés óvatosságot igényel! Reggeli tekerés a kápolnákhoz. Délben szárítkozzon meg a kikötőben és a villában. Délután nedves út a Saint-Hilaire-hez és a Thau-lagúnához. Viseljen feltűnő, vízálló ruházatot!",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență! Dimineața pedalați spre capele. La prânz vă uscați la port și Vila galo-romană. După-amiaza cursă umedă spre Saint-Hilaire și Laguna Thau. Purtați haine impermeabile vizibile!",
+            "en": "Cycling in the rain requires extra care! Morning ride to the historic chapels. Midday stops at the port and Gallo-Roman Villa to dry off indoors. Afternoon wet ride to Saint-Hilaire and Thau Lagoon. Always wear bright, waterproof gear!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "hu": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "ro": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "en": "Ancienne chapelle de Notre-Dame-de-Pallas"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ausgangspunkt für einen kurzen Unterstand; schalten Sie Ihre Fahrradlichter wegen der schlechten Sicht im starken Regen unbedingt ein.",
+                "hu": "Jó kiindulópont rövid menedékhez; a heves esőzés okozta rossz látási viszonyok miatt feltétlenül kapcsolja be a kerékpár lámpáit az úton.",
+                "ro": "Un punct bun de plecare pentru a căuta un scurt adăpost; țineți luminile bicicletei aprinse din cauza vizibilității reduse în ploaie.",
+                "en": "A good starting point to seek brief shelter; keep your bike lights securely turned on due to noticeably low visibility in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Cécile",
+                "hu": "Église Sainte-Cécile",
+                "ro": "Église Sainte-Cécile",
+                "en": "Église Sainte-Cécile"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz ein, um Ihre nasse Brille abzuputzen und die Architektur zu bewundern, bevor Sie sich wieder auf den rutschigen Sattel schwingen.",
+                "hu": "Lépjen be egy pillanatra, hogy letörölje a vizes szemüvegét és megcsodálja az építészetet, mielőtt visszapattanna a csúszós nyeregbe.",
+                "ro": "Intrați scurt pentru a vă șterge ochelarii și a admira arhitectura înainte de a vă urca înapoi în șaua udă.",
+                "en": "Briefly step inside to wipe off your wet glasses and admire the architecture before bravely getting back into the cold, slippery saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Mèze",
+                "hu": "Mèze kikötője",
+                "ro": "Portul Mèze",
+                "en": "Port of Mèze"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig beim Radfahren an den nassen Kais; steigen Sie ab und schieben Sie Ihr Fahrrad über das sehr rutschige Kopfsteinpflaster.",
+                "hu": "Legyen óvatos a nedves rakparton való tekeréskor; szálljon le, és tolja a kerékpárt a rendkívül csúszós macskaköveken a vízpart mentén.",
+                "ro": "Fiți atenți când pedalați pe cheiurile umede; descălecați și împingeți bicicleta de-a lungul pietrelor cubice foarte alunecoase.",
+                "en": "Be extremely careful cycling on the wet quays; it is best to dismount and walk your bike slowly along the slippery cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Prés Bas",
+                "hu": "Prés Bas gallo-román villa",
+                "ro": "Vila galo-romană Prés Bas",
+                "en": "Gallo-Roman Villa of Prés Bas"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Fahrrad unter den Bäumen ab und verbringen Sie eine gute Stunde damit, sich drinnen abzutrocknen und römische Geschichte zu erleben.",
+                "hu": "Zárja le a biciklit a fák alatt, és töltsön el egy jó órát bent a szárazon, miközben a római történelem lenyűgöző emlékeiben gyönyörködik.",
+                "ro": "Legați bicicleta sub copaci și petreceți o oră bună uscându-vă în interior în timp ce admirați istoria romană antică.",
+                "en": "Lock your wet bike securely under the trees and spend a good hour comfortably drying off inside while admiring ancient Roman history."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire Kirche",
+                "hu": "Saint-Hilaire templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Straßen hierher erfordern vorsichtiges Bremsen; nutzen Sie das ruhige Kirchenschiff als friedlichen Zufluchtsort vor dem Sturm.",
+                "hu": "Az ide vezető nedves utakon óvatosan kell fékezni; használja a templom csendes hajóját békés menedékként az odakinti vihar elől.",
+                "ro": "Drumurile umede care duc aici necesită frânare prudentă; folosiți naosul liniștit ca pe un refugiu pașnic din calea furtunii.",
+                "en": "The wet roads leading here require cautious and early braking; use the quiet nave as a peaceful, dry refuge from the coastal storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Thau Lagune",
+                "hu": "Thau-lagúna",
+                "ro": "Laguna Thau",
+                "en": "Thau Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel über der Lagune ist wunderschön, aber die Wege werden sehr schlammig, also bleiben Sie unbedingt auf den gepflasterten Uferabschnitten.",
+                "hu": "A lagúna feletti köd gyönyörű, de az ösvények nagyon sarassá válnak az esőben, ezért feltétlenül maradjon a kikövezett partszakaszokon.",
+                "ro": "Ceața deasupra lagunei este frumoasă, dar potecile devin noroioase, așa că respectați cu strictețe secțiunile pavate de-a lungul malului.",
+                "en": "The mist over the lagoon is beautifully moody, but the unpaved paths get very muddy, so safely stick to the paved sections along the shore."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Flottes winterliches Radfahren durch Mèze. Beginnen Sie mit historischen Kapellen. Mittags am Hafen und in der Villa unter klarem Himmel. Nachmittagsfahrt zur Lagune. Beenden Sie die Tour früh, bevor es gegen 17 Uhr dunkel und frierend kalt wird.",
+            "hu": "Frissítő téli biciklizés Mèze-ben. Kezdje a történelmi kápolnákkal. Délben a kikötő és a villa tiszta égbolt alatt várja. Délutáni tekerés a lagúnához. Fejezze be korán, mielőtt délután 5 körül besötétedik és fagypont alá süllyed a hőmérséklet.",
+            "ro": "Ciclism alert de iarnă prin Mèze. Începeți cu capelele. La prânz portul și Vila sub cerul senin. Plimbare de după-amiază spre lagună. Terminați devreme, înainte să se întunece și să înghețe în jurul orei 17:00.",
+            "en": "Brisk winter cycling through Mèze. Start with historic chapels. Midday at the port and Villa under crisp skies. Afternoon ride to the lagoon. Finish early before it gets dark and freezing around 5 PM, taking extra care on the chilly descent."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "hu": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "ro": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "en": "Ancienne chapelle de Notre-Dame-de-Pallas"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost macht den Weg magisch; tragen Sie unbedingt Thermohandschuhe, um Ihre Hände beim Radfahren in dieser Kälte warm zu halten.",
+                "hu": "A reggeli dér varázslatossá teszi az utat; viseljen vastag termo kesztyűt, hogy melegen tartsa a kezét a fagyos menetszélben tekerve.",
+                "ro": "Gerul dimineții face traseul magic; purtați mănuși termice pentru a vă menține mâinile calde în timp ce pedalați pe această vreme rece.",
+                "en": "The delicate morning frost makes the path magical; wear thermal gloves to keep your hands and fingers warm while riding in this cold weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Sainte-Cécile",
+                "hu": "Église Sainte-Cécile",
+                "ro": "Église Sainte-Cécile",
+                "en": "Église Sainte-Cécile"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause, um Ihre frierenden Finger aufzuwärmen, während Sie dieses schöne Wahrzeichen in der frischen Winterluft erkunden.",
+                "hu": "Tartson egy rövid pihenőt, hogy felmelegítse elgémberedett ujjait, miközben a friss téli levegőn felfedezi ezt a szép építészeti emléket.",
+                "ro": "Luați o scurtă pauză pentru a vă încălzi degetele în timp ce explorați acest reper minunat în aerul rece de iarnă.",
+                "en": "Take a short, well-deserved break to warm your freezing fingers while exploring this lovely historic landmark in the crisp, cold winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von Mèze",
+                "hu": "Mèze kikötője",
+                "ro": "Portul Mèze",
+                "en": "Port of Mèze"
+              },
+              "tip_5lang": {
+                "de": "Die Boote sehen im klaren Winterlicht markant aus; packen Sie sich dick ein gegen die kalte Brise, die vom Hafen herüberweht.",
+                "hu": "A csónakok lenyűgözően mutatnak a tiszta téli fényben; öltözzön fel rétegesen a kikötő felől fújó, csontig hatoló hideg szél ellen.",
+                "ro": "Bărcile arată impresionant în lumina clară de iarnă; înfofoliți-vă bine împotriva brizei reci care vine dinspre portul deschis.",
+                "en": "The docked boats look striking in the clear winter light; make sure to bundle up tightly against the cold breeze coming off the open harbor."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Prés Bas",
+                "hu": "Prés Bas gallo-román villa",
+                "ro": "Vila galo-romană Prés Bas",
+                "en": "Gallo-Roman Villa of Prés Bas"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie eine dringend benötigte Pause drinnen zum Auftauen, während Sie die gut erhaltenen antiken römischen Artefakte in Ruhe erkunden.",
+                "hu": "Élvezze a fűtött belső tér nyújtotta felengedést, miközben kényelmesen, tömeg nélkül fedezi fel a jó állapotban fennmaradt római leleteket.",
+                "ro": "Bucurați-vă de o pauză atât de necesară în interior pentru a vă dezgheța, în timp ce explorați artefactele romane antice bine conservate.",
+                "en": "Enjoy a much-needed indoor break to physically thaw out while exploring the exceptionally well-preserved ancient Roman artifacts in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hilaire Kirche",
+                "hu": "Saint-Hilaire templom",
+                "ro": "Biserica Saint-Hilaire",
+                "en": "Saint-Hilaire Church"
+              },
+              "tip_5lang": {
+                "de": "Radfahren Sie in den Schatten besonders vorsichtig wegen möglicher Eisflächen und genießen Sie die friedliche Winterstille in der Kirche.",
+                "hu": "Óvatosan tekerjen az árnyékos részeken a lehetséges jégfoltok miatt, bent pedig élvezze a templom falai közötti békés téli csendet.",
+                "ro": "Pedalați cu grijă pe eventualele petice de gheață din zonele umbrite și bucurați-vă de liniștea pașnică de iarnă din interiorul bisericii.",
+                "en": "Cycle extremely carefully on any invisible icy patches lingering in the shadows, and enjoy the tranquil winter silence inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Thau Lagune",
+                "hu": "Thau-lagúna",
+                "ro": "Laguna Thau",
+                "en": "Thau Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie Ihre Fahrt so, dass Sie die goldene Stunde über dem Wasser einfangen, aber fahren Sie bald zurück, da die Temperaturen rapide fallen.",
+                "hu": "Időzítse úgy az utat, hogy elkapja az aranyórát a víz felett, de induljon vissza hamar, mert szürkületkor a hőmérséklet hirtelen lezuhan.",
+                "ro": "Planificați-vă cursa pentru a prinde ora de aur deasupra apei, dar întoarceți-vă curând, deoarece temperaturile scad rapid la amurg.",
+                "en": "Time your ride perfectly to catch the golden hour over the water, but head back soon as temperatures drop remarkably fast at early dusk."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Reggel vezessen egyenesen a Thau-lagúnához egy nyugodt kezdésért, majd álljon meg a Chapelle des Pénitents-nél. Délben induljon északra a gallo-román villához, hogy elmélyedjen a régió ókori múltjában. Délután röviden csodálja meg az Église Saint-Hippolyte épületét. Este vezessen az eldugott Ancienne chapelle de Notre-Dame-de-Pallas-hoz egy békés befejezésért.",
         "ro": "Conduceți dimineața direct la Laguna Thau pentru un început liniștit, urmat de o oprire la Chapelle des Pénitents. La amiază, îndreptați-vă spre nord către vila galo-romană pentru o incursiune profundă în trecut. După-amiaza, admirați pe scurt Église Saint-Hippolyte. Seara, conduceți către retrasa Ancienne chapelle de Notre-Dame-de-Pallas pentru un final pașnic.",
         "en": "Drive directly to Thau Lagoon in the morning for a tranquil start, followed by a stop at Chapelle des Pénitents. Midday, head north to the Gallo-Roman Villa for a deep dive into the region's ancient past. In the afternoon, briefly admire Église Saint-Hippolyte before exploring the area. Drive to the secluded Ancienne chapelle de Notre-Dame-de-Pallas in the evening for a peaceful end."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie sicher an der regnerischen Küste. Morgen an der Thau-Lagune und der Chapelle des Pénitents. Mittags in der überdachten gallo-römischen Villa. Nachmittags kurze Fahrten zu Kirchen. Halten Sie Regenschirme im Kofferraum bereit!",
+            "hu": "Vezessen biztonságosan az esős parton. A reggelt a Thau-lagúnánál és a Chapelle des Pénitents-nél töltse. Délben a fedett gallo-román villa nyújt programot. Délután rövid utak a templomokhoz. Tartson esernyőt a csomagtartóban!",
+            "ro": "Conduceți în siguranță pe coasta ploioasă. Dimineața la Laguna Thau și Chapelle des Pénitents. La prânz în Vila galo-romană acoperită. După-amiaza scurte drumuri către biserici. Păstrați umbrelele la îndemână în portbagaj!",
+            "en": "Drive safely along the rainy coast. Morning at Thau Lagoon and Chapelle des Pénitents. Midday at the fully covered Gallo-Roman Villa. Afternoon short scenic drives to local churches. Always keep umbrellas handy in the trunk!"
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thau Lagune",
+                "hu": "Thau-lagúna",
+                "ro": "Laguna Thau",
+                "en": "Thau Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den dramatischen stürmischen Himmel über dem Wasser bequem von Ihrem Auto aus oder gehen Sie mit einem stabilen Regenschirm hinaus.",
+                "hu": "Figyelje a drámai, viharos eget a víz felett a fűtött autó kényelméből, vagy merészkedjen ki egy perc erejéig egy masszív esernyővel.",
+                "ro": "Priviți cerul furtunos și dramatic deasupra apei din confortul mașinii dumneavoastră sau ieșiți afară cu o umbrelă robustă.",
+                "en": "Watch the beautifully dramatic stormy skies over the water right from the comfort of your warm car or step out with a sturdy, windproof umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pénitents",
+                "hu": "Chapelle des Pénitents",
+                "ro": "Chapelle des Pénitents",
+                "en": "Chapelle des Pénitents"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe, um Ihre Zeit im Regen zu minimieren, und treten Sie schnell ein, um das trockene, historische Heiligtum zu genießen.",
+                "hu": "Parkoljon a lehető legközelebb, hogy minimálisra csökkentse az esőben töltött időt, és lépjen be gyorsan a száraz, történelmi szentélybe.",
+                "ro": "Parcați în apropiere pentru a minimiza timpul petrecut în ploaie și intrați rapid pentru a vă bucura de sanctuarul istoric uscat.",
+                "en": "Park as close as possible to minimize your time walking in the rain, and step quickly inside to enjoy the dry, historical stone sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Prés Bas",
+                "hu": "Prés Bas gallo-román villa",
+                "ro": "Vila galo-romană Prés Bas",
+                "en": "Gallo-Roman Villa of Prés Bas"
+              },
+              "tip_5lang": {
+                "de": "Die perfekte Attraktion für Regentage: einfaches Parken und ein vollständig überdachtes Museum mit unglaublichen antiken Mosaiken.",
+                "hu": "Tökéletes program esős napokra: kényelmes parkolás és egy teljesen fedett múzeum, amely lenyűgöző ókori mozaikokat mutat be a látogatóknak.",
+                "ro": "Atracția perfectă pentru zilele ploioase: parcare ușoară și un muzeu complet acoperit care prezintă mozaicuri antice incredibile.",
+                "en": "The absolute perfect rainy day attraction: easy close parking and a fully covered museum showcasing incredible, colorful ancient Roman mosaics."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Hippolyte",
+                "hu": "Église Saint-Hippolyte",
+                "ro": "Église Saint-Hippolyte",
+                "en": "Église Saint-Hippolyte"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Auto ermöglicht es Ihnen, dieses Wahrzeichen zu bewundern, ohne im heftigen Platzregen völlig durchnässt zu werden.",
+                "hu": "Egy gyors futás az autótól lehetővé teszi, hogy megcsodálja ezt a mérföldkövet anélkül, hogy teljesen elázna a hirtelen lezúduló záporban.",
+                "ro": "Un sprint scurt de la mașină vă permite să admirați acest reper istoric fără a vă uda complet în ploaia torențială de afară.",
+                "en": "A quick, brave dash from the parked car lets you comfortably admire this landmark architecture without getting too soaked in the heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "hu": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "ro": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "en": "Ancienne chapelle de Notre-Dame-de-Pallas"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Straßen können sehr rutschig sein, fahren Sie also langsam; genießen Sie die launische, regengepeitschte Atmosphäre dieser alten Kapelle.",
+                "hu": "A nedves utak nagyon csúszósak lehetnek, ezért vezessen lassan; élvezze ennek a régi kápolnának a szeszélyes, eső áztatta, borongós hangulatát.",
+                "ro": "Drumurile umede pot fi alunecoase, așa că rostiți încet; bucurați-vă de atmosfera capricioasă, măturată de ploaie, a acestei vechi capele.",
+                "en": "The wet country roads can be quite slick, so drive slowly; enjoy the moody, rain-swept atmosphere of this deeply historic isolated chapel."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Gemütliche winterliche Autotour. Morgen an der friedlichen Thau-Lagune und den Kapellen. Mittags römische Ruinen drinnen entdecken. Nachmittag in Saint-Hippolyte. Beenden Sie die Tour früh vor der Dunkelheit um 17 Uhr.",
+            "hu": "Kényelmes, téli autós túra. A reggelt a békés Thau-lagúnánál és a kápolnáknál tölti. Délben római romok fedezhetők fel bent a melegben. Délután a Saint-Hippolyte következik. Fejezze be korán, mielőtt 5-kor besötétedik.",
+            "ro": "Excursie confortabilă de iarnă cu mașina. Dimineața la pașnica Lagună Thau și capele. La prânz descoperiți ruinele romane în interior. După-amiaza la Saint-Hippolyte. Încheiați călătoria înainte de întunericul de la ora 17:00.",
+            "en": "A cozy winter driving tour begins at the peaceful Thau Lagoon. Midday brings you indoors to discover the ancient Roman ruins. The afternoon light beautifully highlights Saint-Hippolyte. Finish before the early 5 PM darkness sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Thau Lagune",
+                "hu": "Thau-lagúna",
+                "ro": "Laguna Thau",
+                "en": "Thau Lagoon"
+              },
+              "tip_5lang": {
+                "de": "Der winterliche Vogelzug ist spektakulär; kurbeln Sie das Fenster für ein Foto herunter, ohne der klirrenden Kälte allzu lange trotzen zu müssen.",
+                "hu": "A téli madárvonulás látványos; húzza le az ablakot egy fotó erejéig anélkül, hogy hosszan dacolnia kellene a kinti csontig hatoló hideggel.",
+                "ro": "Migrația păsărilor de iarnă este spectaculoasă; lăsați geamul jos pentru o fotografie fără a înfrunta frigul mușcător de afară.",
+                "en": "The winter bird migrations are spectacular; easily roll down the car window for a perfect photo without having to brave the biting coastal cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle des Pénitents",
+                "hu": "Chapelle des Pénitents",
+                "ro": "Chapelle des Pénitents",
+                "en": "Chapelle des Pénitents"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung ist toll zwischen den Stopps, aber tragen Sie drinnen einen dicken Mantel, da diese alten Steingebäude sehr kühl bleiben.",
+                "hu": "Az autó fűtése remek a megállók között, de bent is viseljen vastag kabátot, mivel ezek a vastag falú, régi kőépületek nagyon hűvösek maradnak.",
+                "ro": "Căldura mașinii este excelentă între opriri, dar purtați o haină groasă, deoarece aceste clădiri vechi din piatră rămân foarte reci în interior.",
+                "en": "The car heater is wonderfully comforting between stops, but wear a thick winter coat as these old stone buildings stay remarkably chilly inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Gallo-römische Villa Prés Bas",
+                "hu": "Prés Bas gallo-román villa",
+                "ro": "Vila galo-romană Prés Bas",
+                "en": "Gallo-Roman Villa of Prés Bas"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich gründlich in dieser archäologischen Innenausstellung auf und genießen Sie das Fehlen von Touristenmassen während der Wintersaison.",
+                "hu": "Melegedjen fel alaposan ebben a beltéri régészeti kiállításban, és élvezze, hogy a téli szezonban elkerülheti a nyári turisták zajos tömegét.",
+                "ro": "Încălziți-vă bine în această expoziție arheologică interioară, bucurându-vă de lipsa aglomerației pe parcursul sezonului rece de iarnă.",
+                "en": "Warm up thoroughly in this spacious indoor archaeological exhibit, enjoying the peaceful, quiet lack of large crowds during the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Hippolyte",
+                "hu": "Église Saint-Hippolyte",
+                "ro": "Église Saint-Hippolyte",
+                "en": "Église Saint-Hippolyte"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schöne, tiefstehende Wintersonne, die die Fassade beleuchtet, bevor die Schatten am frühen Nachmittag länger werden.",
+                "hu": "Csodálja meg a gyönyörű, alacsonyan járó téli napfényt, amely megvilágítja a homlokzatot, mielőtt a kora délutáni árnyékok hosszabbra nyúlnak.",
+                "ro": "Admirați frumosul soare de iarnă aflat jos, care luminează fațada înainte ca umbrele de la începutul după-amiezii să se lungească mult.",
+                "en": "Catch the beautifully vibrant, low winter sun illuminating the church facade perfectly before the early afternoon shadows begin to rapidly lengthen."
+              }
+            },
+            {
+              "name": {
+                "de": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "hu": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "ro": "Ancienne chapelle de Notre-Dame-de-Pallas",
+                "en": "Ancienne chapelle de Notre-Dame-de-Pallas"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt hier vor der Dämmerung; achten Sie auf frühen Frost auf den kleinen Landstraßen, die zurück in die Stadt führen.",
+                "hu": "Fejezze be az autózást itt még szürkület előtt; ügyeljen a kora esti fagyos foltokra a városba visszavezető csendes, vidéki utakon.",
+                "ro": "Terminați-vă turul cu mașina aici înainte de amurg; atenție la înghețul timpuriu apărut pe drumurile de țară care se întorc spre oraș.",
+                "en": "Finish your scenic driving tour right here before dusk; keep a sharp watch out for early frost on the dark country roads heading back to town."
+              }
+            }
+          ]
+        }
       }
     }
   }

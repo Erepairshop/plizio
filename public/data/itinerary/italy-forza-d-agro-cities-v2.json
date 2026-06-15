@@ -160,6 +160,196 @@
         "hu": "A reggel a nyüzsgő történelmi központban kezdődik, ahol felfedezzük az építészeti varázst és a falu arculatát meghatározó ősi templomokat. A telet a mozi történetének és a normann vár elsöprő kilátást nyújtó impozáns romjainak felfedezésével töltjük. A délután folyamán a rejtett örökségi helyszínek kerülnek előtérbe, csendes sikátorokon keresztül. Az este békés elmélkedéssel zárul a Jón-tengerre nézve.",
         "ro": "Dimineața începe în centrul istoric vibrant, absorbind farmecul arhitectural și descoperind bisericile antice. La amiază explorăm istoria cinematografică și ruinele impunătoare ale castelului normand care oferă o panoramă uimitoare. După-amiaza face tranziția către locurile de patrimoniu ascunse, plimbându-ne pe străduțele liniștite. Seara se încheie cu reflecții pașnice, privind spre Marea Ionică.",
         "en": "Morning begins in the vibrant historic center, soaking in the architectural charm and discovering the ancient churches that define the village. Midday is spent exploring cinematic history and the imposing ruins of the Norman castle with sweeping views. The afternoon transitions to finding the hidden heritage spots, winding down through the quiet alleys. Evening concludes with peaceful reflections overlooking the Ionian Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen hüllen Wolken das Dorf in ein mystisches Gewand; tragen Sie festes Schuhwerk für die glitschigen Pflastersteine. Mittags bieten die massiven Mauern der Kirchen sicheren Schutz vor Regenschauern und laden zum Verweilen ein. Am Nachmittag wirkt das Schloss unter dem grauen Himmel besonders imposant über dem Meer. Am Abend reflektieren die nassen Gassen das warme Licht der Laternen.",
+            "hu": "Reggel a borgo ködös utcái misztikus hangulatot árasztanak; viseljünk vízálló cipőt a fényesre koptatott, ilyenkor csúszós macskaköveken. Délben a templomok vastag falai nyújtanak tökéletes menedéket a záporok elől. Délután a vár romjai között a szürke égbolt és a tenger drámai látványt nyújt. Estére a vizes aszfalton megcsillanó fények kísérnek minket a párás levegőben a falu csendes sikátoraiban.",
+            "ro": "Dimineața, străzile borgo-ului sunt învăluite într-o ceață mistică; purtați încălțăminte antiderapantă pe pietrele cubice alunecoase. La prânz, bisericile istorice oferă un adăpost perfect împotriva averselor sub arcadele lor sfinte. După-amiaza, ruinele castelului oferă o priveliște dramatică asupra mării sub cerul plumburiu. Seara, luminile satului se reflectă în asfaltul ud, creând o ambianță melancolică.",
+            "en": "In the morning, the village streets are shrouded in a mystical mist; wear waterproof shoes as the polished cobblestones can be slippery. At noon, the thick walls of the historic churches provide the perfect sanctuary from rain showers. In the afternoon, the castle ruins offer a dramatic view of the sea under grey skies. By evening, the village lights glisten on the wet surfaces of the borgo."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "hu": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "ro": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "en": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\""
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den mittelalterlichen Torbögen des Dorfes, um das Panorama auch bei Regen sicher zu genießen, und achten Sie auf rutschige Steinstufen.",
+                "hu": "Keressünk menedéket a falu középkori boltíves kapui alatt, ahonnan esőben is biztonságban csodálhatjuk a panorámát, de ügyeljünk a csúszós kőlépcsőkre.",
+                "ro": "Căutați adăpost sub arcadele medievale ale satului pentru a admira panorama în siguranță chiar și pe ploaie, fiind atenți la treptele de piatră alunecoase.",
+                "en": "Seek shelter under the medieval archways of the village to enjoy the panorama safely even in the rain, and be careful on the slippery stone steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Santissima Trinità",
+                "hu": "Chiesa della Santissima Trinità",
+                "ro": "Chiesa della Santissima Trinità",
+                "en": "Chiesa della Santissima Trinità"
+              },
+              "tip_5lang": {
+                "de": "Das Innere dieser Kirche ist der ideale Ort, um einen heftigen Regenschauer abzuwarten und dabei die barocke Kunst in aller Ruhe zu bewundern.",
+                "hu": "A templom belső tere ideális hely egy hirtelen zápor átvészelésére, miközben a kopogó eső hangja mellett zavartalanul csodálhatjuk meg a barokk művészeti kincseket.",
+                "ro": "Interiorul acestei biserici este locul ideal pentru a aștepta trecerea unei averse, admirând în liniște arta barocă în timp ce ploaia bate în geamuri.",
+                "en": "The interior of this church is the ideal place to wait out a rain shower while quietly admiring the Baroque art as the rain patters against the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Santissima Annunziata",
+                "hu": "Chiesa della Santissima Annunziata",
+                "ro": "Chiesa della Santissima Annunziata",
+                "en": "Chiesa della Santissima Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für eine ausführliche Besichtigung der prunkvollen Altäre; der dicke Stein hält die Feuchtigkeit draußen und sorgt für Stille.",
+                "hu": "Használjuk ki az esős időt a pompás oltárok részletes megtekintésére; a vastag kőfalak kint tartják a nedvességet és méltóságteljes csendet biztosítanak.",
+                "ro": "Folosiți pauza de ploaie pentru o vizită detaliată a altarelor splendide; pereții groși de piatră țin umezeala afară și oferă o liniște solemnă.",
+                "en": "Use the rainy interval for a detailed visit to the splendid altars; the thick stone walls keep the dampness out and provide a dignified silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Padrino",
+                "hu": "Casa del Padrino",
+                "ro": "Casa del Padrino",
+                "en": "Casa del Padrino"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade wirkt im Regen besonders melancholisch und erinnert an klassische Filmszenen; ein großer Schirm ist für das Foto vor dem Haus unerlässlich.",
+                "hu": "A ház homlokzata az esőben különösen melankolikus, a klasszikus filmjeleneteket idézi; egy nagy esernyő elengedhetetlen a ház előtti fotózáshoz.",
+                "ro": "Fațada casei pare deosebit de melancolică în ploaie, amintind de scenele clasice de film; o umbrelă mare este esențială pentru o fotografie în fața casei.",
+                "en": "The facade of the house looks particularly melancholy in the rain, evoking classic film scenes; a large umbrella is essential for a photo in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Forza d'Agrò",
+                "hu": "Castello di Forza d'Agrò",
+                "ro": "Castello di Forza d'Agrò",
+                "en": "Castello di Forza d'Agrò"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg zum Schloss kann bei Nässe beschwerlich sein; tragen Sie Schuhe mit gutem Profil für die unebenen Pfade und genießen Sie den wolkenverhangenen Blick.",
+                "hu": "A várba vezető út nedves időben nehézkes lehet; viseljünk bordázott talpú cipőt az egyenetlen ösvényeken és élvezzük a felhőkbe burkolózó kilátást.",
+                "ro": "Urcarea spre castel poate fi dificilă pe timp umed; purtați pantofi cu talpă aderentă pentru potecile denivelate și bucurați-vă de vederea spre mare printre nori.",
+                "en": "The climb to the castle can be tricky in wet weather; wear shoes with good grip for the uneven paths and enjoy the cloud-shrouded coastal view."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico lavatorio Forzese",
+                "hu": "Antico lavatorio Forzese",
+                "ro": "Antico lavatorio Forzese",
+                "en": "Antico lavatorio Forzese"
+              },
+              "tip_5lang": {
+                "de": "Das plätschernde Wasser des alten Waschplatzes harmoniert perfekt mit dem Regen; die Überdachung bietet hier einen trockenen Platz für eine kurze Pause.",
+                "hu": "Az antik mosoda csobogó vize tökéletes harmóniában van az esővel; a tető alatt szárazon pihenhetünk meg egy rövid ideig a séta végén.",
+                "ro": "Apa clipocindă a vechii spălătorii este în armonie perfectă cu ploaia; acoperișul oferă un loc uscat pentru o scurtă pauză la finalul plimbării.",
+                "en": "The splashing water of the ancient laundry matches the rain perfectly; the roof provides a dry spot for a short rest at the end of your walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am Morgen weckt die frische, kühle Bergluft die Sinne; die tiefstehende Sonne wirft lange Schatten auf die alten Mauern. Mittags wärmen die milden Strahlen die Plätze des Dorfes, ideal für einen klaren Blick bis nach Kalabrien. Am Nachmittag kann der Wind am Schloss auffrischen, ziehen Sie sich daher warm an. Gegen 17:00 Uhr beginnt die Dämmerung und taucht den Borgo in ein goldenes Licht.",
+            "hu": "Reggel a friss, hűvös hegyi levegő ébreszti fel a falut; a kőházak falai között hosszan nyúlnak el az árnyékok, érdemes rétegesen öltözni. Délben a téli nap sugarai kellemesen melegítik az óvárost. Délután a vár felé kaptatva a szél felerősödhet, de a kilátás ilyenkor a legtisztább. Estére, ahogy ötkor besötétedik, a borgo sárgás fényei barátságos hangulatot árasztanak.",
+            "ro": "Dimineața, aerul proaspăt și răcoros de munte trezește simțurile; soarele jos proiectează umbre lungi pe zidurile vechi, deci îmbrăcați-vă în straturi. La prânz, razele blânde încălzesc piețele satului, oferind o vizibilitate clară spre Calabria. După-amiaza, vântul poate fi tăios la castel, dar priveliștea merită efortul. Seara, în jurul orei 17:00, amurgul transformă satul într-un loc magic.",
+            "en": "In the morning, the crisp mountain air awakens the senses; the low sun casts long shadows across the ancient stone walls, so dress in layers. At noon, mild winter rays warm the village squares, offering crystal-clear views toward Calabria. In the afternoon, the wind can pick up at the castle, but the clarity of the air is unmatched. By 5 PM, dusk settles in, turning the borgo into a golden haven."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "hu": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "ro": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "en": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\""
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison; ein warmer Schal schützt Sie vor der frischen Meeresbrise, während Sie die leeren Gassen erkunden.",
+                "hu": "Élvezzük a főszezonon kívüli nyugalmat; egy meleg sál megvéd a tenger felől érkező friss szellőtől, miközben felfedezzük az üres sikátorokat.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului; o eșarfă groasă vă va proteja de briza rece a mării în timp ce explorați ulițele pustii.",
+                "en": "Enjoy the tranquility of the off-season; a warm scarf will protect you from the fresh sea breeze as you explore the empty alleys."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Santissima Trinità",
+                "hu": "Chiesa della Santissima Trinità",
+                "ro": "Chiesa della Santissima Trinità",
+                "en": "Chiesa della Santissima Trinità"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet im Winter eine andächtige Stille; im Inneren ist es oft wärmer als draußen in den windigen Gassen des Bergdorfes.",
+                "hu": "A templom télen áhítatos csendet nyújt; a belső tér gyakran melegebb, mint a hegyi falu szeles utcái, így tökéletes egy rövid pihenőre.",
+                "ro": "Biserica oferă o liniște pioasă iarna; interiorul este adesea mai cald decât străzile vântoase ale satului de munte, fiind perfectă pentru un popas.",
+                "en": "The church offers a prayerful silence in winter; the interior is often warmer than the windy streets of the mountain village, perfect for a short rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa della Santissima Annunziata",
+                "hu": "Chiesa della Santissima Annunziata",
+                "ro": "Chiesa della Santissima Annunziata",
+                "en": "Chiesa della Santissima Annunziata"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Details der Fassade im klaren Winterlicht; die niedrige Sonne bringt die Textur des Kalksteins besonders schön zur Geltung.",
+                "hu": "Csodáljuk meg a homlokzat részleteit a tiszta téli fényben; az alacsonyan járó nap különösen szépen kiemeli a mészkő textúráját és faragványait.",
+                "ro": "Admirați detaliile fațadei în lumina clară de iarnă; soarele jos pune în evidență textura calcarului și sculpturile într-un mod spectaculos.",
+                "en": "Admire the details of the facade in the clear winter light; the low sun highlights the texture of the limestone and carvings beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Padrino",
+                "hu": "Casa del Padrino",
+                "ro": "Casa del Padrino",
+                "en": "Casa del Padrino"
+              },
+              "tip_5lang": {
+                "de": "Ohne die Touristenmassen des Sommers können Sie hier in aller Ruhe Fotos machen; tragen Sie Handschuhe für das Hantieren mit der Kamera.",
+                "hu": "A nyári turistatömeg nélkül itt teljes nyugalomban fotózhatunk; viseljünk vékony kesztyűt, hogy kényelmesen kezelhessük a fényképezőgépet a hidegben.",
+                "ro": "Fără mulțimile de turiști din vară, puteți face fotografii în liniște deplină; purtați mănuși subțiri pentru a manevra camera confortabil în frig.",
+                "en": "Without the summer crowds, you can take photos here in total peace; wear thin gloves to handle your camera comfortably in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Forza d'Agrò",
+                "hu": "Castello di Forza d'Agrò",
+                "ro": "Castello di Forza d'Agrò",
+                "en": "Castello di Forza d'Agrò"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht vom Schloss ist im Winter am besten; eine winddichte Jacke ist wegen der exponierten Lage auf dem Gipfel unbedingt erforderlich.",
+                "hu": "A kilátás a várból télen a legtisztább; egy szélálló dzseki elengedhetetlen a csúcs kitett fekvése és az erős tengeri szél miatt.",
+                "ro": "Vizibilitatea de la castel este maximă iarna; o jachetă rezistentă la vânt este obligatorie din cauza locației expuse și a vântului puternic de pe culme.",
+                "en": "The visibility from the castle is at its peak in winter; a windproof jacket is essential due to the exposed location and strong sea winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico lavatorio Forzese",
+                "hu": "Antico lavatorio Forzese",
+                "ro": "Antico lavatorio Forzese",
+                "en": "Antico lavatorio Forzese"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour rechtzeitig vor Sonnenuntergang um 17 Uhr; das kalte Wasser des Waschplatzes erinnert an die harten Winter vergangener Zeiten.",
+                "hu": "Fejezzük be a túrát időben a 17 órás naplemente előtt; a mosoda hideg vize a régi idők kemény teleire és a helyiek szívósságára emlékeztet.",
+                "ro": "Încheiați turul la timp înainte de apusul de la ora 17:00; apa rece a spălătoriei amintește de iernile aspre de odinioară și de dârzenia localnicilor.",
+                "en": "Finish your tour in time before the 5 PM sunset; the cold water of the laundry recalls the harsh winters of old and the resilience of locals."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Utunkat a gyönyörű dombtetői faluban kezdjük, megcsodálva az ikonikus tereket és a klasszikus filmes helyszíneket. Délben a történelmi erődítményhez érkezünk, majd izgalmas ereszkedés következik a tengerparti ipari emlékek felé. A délutánt a parti barlangok és a zord partvonal felfedezésének szenteljük. Az este a tengerparti pihenésre invitál a mediterrán hullámok hangjával.",
         "ro": "Ne începem cursa în frumosul sat de pe colină, admirând piețele iconice și locațiile cinematografice clasice. Amiaza ne aduce la fortăreața istorică înainte de o coborâre antrenantă spre relicvele industriale de pe coastă. După-amiaza este dedicată explorării peșterilor de coastă și țărmului stâncos. Seara ne invită la relaxare pe plajă, bucurându-ne de sunetul mării Mediterane.",
         "en": "We start our ride in the beautiful hilltop village, taking in the iconic squares and classic cinematic locations. Midday brings us to the historic hilltop fortress before an exhilarating descent towards the coastal industrial relics. The afternoon is dedicated to exploring coastal caves and the rugged shoreline. Evening invites relaxation by the beach, enjoying the calming sound of the Mediterranean waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mit feuchten Straßen; reduzieren Sie den Reifendruck für besseren Grip auf dem Asphalt. Mittags bietet das Dorf Schutz, während Sie die historische Architektur erkunden. Am Nachmittag sind die Küstenwege windig, tragen Sie eine hochwertige Regenjacke. Am Abend glänzt die Küstenstraße unter den Lichtern, fahren Sie vorsichtig bei eingeschränkter Sicht.",
+            "hu": "Reggel nedves aszfalton indul a túra; csökkentsük kicsit a guminyomást a jobb tapadás érdekében a kanyargós hegyi utakon. Délben a falu ódon falai között találunk menedéket a záporok elől. Délután a part menti szél felerősödhet, viseljünk minőségi esőkabátot. Estére a parti út fényei megcsillannak a vizes úton, óvatosan hajtsunk a romló látási viszonyok között.",
+            "ro": "Dimineața începe pe asfalt umed; reduceți ușor presiunea în anvelope pentru o aderență mai bună pe drumurile sinuoase de munte. La prânz, zidurile vechi ale satului oferă protecție împotriva averselor. După-amiaza, vântul de coastă se intensifică, deci purtați o pelerină de ploaie de calitate. Seara, luminile drumului de coastă sclipesc pe carosabilul ud, circulați cu prudență.",
+            "en": "The morning starts on damp asphalt; slightly lower your tire pressure for better grip on the winding mountain roads. At noon, the ancient village walls provide shelter from the passing showers. In the afternoon, coastal winds can strengthen, so wear a high-quality raincoat. By evening, the coastal road lights shimmer on the wet road; ride cautiously as visibility decreases."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "hu": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "ro": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "en": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\""
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter einem Dachvorsprung und erkunden Sie den Ort zu Fuß, da die steilen Gassen bei Regen sehr rutschig für Reifen sind.",
+                "hu": "Parkoljuk le a kerékpárt egy eresz alatt és gyalogosan fedezzük fel a központot, mert a meredek sikátorok esőben túl csúszósak a gumiknak.",
+                "ro": "Parcați bicicleta sub o streșină și explorați centrul pe jos, deoarece ulițele abrupte sunt foarte alunecoase pentru anvelope pe timp de ploaie.",
+                "en": "Park your bike under an eave and explore the center on foot, as the steep alleys are too slippery for tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Padrino",
+                "hu": "Casa del Padrino",
+                "ro": "Casa del Padrino",
+                "en": "Casa del Padrino"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; achten Sie beim Absteigen auf den glatten Untergrund vor dem Gebäude und halten Sie die Bremsen trocken.",
+                "hu": "Egy rövid megálló a fotóhoz; leszálláskor ügyeljünk a csúszós talajra a ház előtt, és tartsuk szárazon a fékfelületeket a biztonságos induláshoz.",
+                "ro": "O scurtă oprire pentru fotografie; atenție la solul alunecos din fața casei la coborare și păstrați suprafețele de frânare uscate pentru siguranță.",
+                "en": "A quick stop for a photo; be careful of the slippery ground in front of the house when dismounting and keep your brake surfaces dry for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Forza d'Agrò",
+                "hu": "Castello di Forza d'Agrò",
+                "ro": "Castello di Forza d'Agrò",
+                "en": "Castello di Forza d'Agrò"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Schloss erfordert bei Nässe volle Konzentration; nutzen Sie die niedrigen Gänge und meiden Sie metallene Schachtdeckel.",
+                "hu": "A várba vezető emelkedő esőben teljes koncentrációt igényel; használjunk alacsony fokozatot és kerüljük a fémes csatornafedeleket a kanyarokban.",
+                "ro": "Urcarea spre castel pe ploaie necesită concentrare maximă; folosiți viteze inferioare și evitați capacele metalice de canal în curbe.",
+                "en": "The climb to the castle in the rain requires full concentration; use low gears and avoid metal manhole covers in the turns."
+              }
+            },
+            {
+              "name": {
+                "de": "Fornaci in calce di zolla",
+                "hu": "Fornaci in calce di zolla",
+                "ro": "Fornaci in calce di zolla",
+                "en": "Fornaci in calce di zolla"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Öfen bieten wenig Schutz; planen Sie den Aufenthalt kurz und nutzen Sie wasserfeste Taschen für Ihre Ausrüstung.",
+                "hu": "A történelmi kemencék kevés védelmet nyújtanak; tervezzünk rövid látogatást és használjunk vízálló táskákat a felszerelésünk védelmére.",
+                "ro": "Cuptoarele istorice oferă puțin adăpost; planificați o vizită scurtă și folosiți genți impermeabile pentru a vă proteja echipamentul.",
+                "en": "The historic kilns offer little shelter; plan a short visit and use waterproof bags to protect your gear from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Carmelo",
+                "hu": "Grotta del Carmelo",
+                "ro": "Grotta del Carmelo",
+                "en": "Grotta del Carmelo"
+              },
+              "tip_5lang": {
+                "de": "Die Grotte ist ein natürlicher Unterstand; nutzen Sie diesen Ort, um sich kurz abzutrocknen, bevor Sie die Abfahrt zur Küste antreten.",
+                "hu": "A barlang természetes óvóhely; használjuk ki ezt a helyet egy kis száradásra, mielőtt megkezdenénk a leereszkedést a tengerpart felé.",
+                "ro": "Grota este un adăpost natural; folosiți acest loc pentru a vă usca puțin înainte de a începe coborârea spre țărmul mării.",
+                "en": "The cave is a natural shelter; use this spot to dry off a bit before starting the descent toward the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Forza d'Agrò Beach",
+                "hu": "Forza d'Agrò Beach",
+                "ro": "Forza d'Agrò Beach",
+                "en": "Forza d'Agrò Beach"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist der Strand verlassen; meiden Sie sandige Abschnitte mit dem Rad und prüfen Sie Ihre Beleuchtung für den Rückweg im trüben Licht.",
+                "hu": "Esőben a strand elhagyatott; kerüljük a homokos részeket kerékpárral és ellenőrizzük a világítást a szürkületben való visszatéréshez.",
+                "ro": "Pe ploaie plaja este pustie; evitați porțiunile cu nisip cu bicicleta și verificați luminile pentru întoarcerea prin amurgul cenușiu.",
+                "en": "In the rain, the beach is deserted; avoid sandy sections with the bike and check your lights for the return journey in the grey dusk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Morgen ideal für den Anstieg; die kühle Luft verhindert Überhitzung beim Treten. Mittags steht die Sonne tief und blendet in den Abfahrten, tragen Sie eine gute Sonnenbrille. Am Nachmittag sinken die Temperaturen schnell, sobald die Sonne hinter den Bergen verschwindet. Beenden Sie die Tour vor 17 Uhr, um nicht in der Kälte und Dunkelheit fahren zu müssen.",
+            "hu": "Friss reggel, ideális az emelkedőkhöz; a hűvös levegő megakadályozza a túlhevülést tekerés közben. Délben az alacsonyan járó nap vakíthat a lejtőkön, viseljünk jó napszemüveget. Délután a hőmérséklet gyorsan süllyed, amint a nap a hegyek mögé bukik. Fejezzük be a túrát 17 óra előtt, hogy elkerüljük a hideget és a sötétet.",
+            "ro": "O dimineață răcoroasă, ideală pentru urcări; aerul rece previne supraîncălzirea în timpul pedalării. La prânz, soarele jos poate fi orbitor pe coborâri, deci purtați ochelari de soare buni. După-amiaza, temperaturile scad rapid imediat ce soarele dispare după munți. Încheiați turul înainte de ora 17:00 pentru a evita frigul și întunericul.",
+            "en": "A crisp morning, ideal for the climbs; the cool air prevents overheating while pedaling up the slopes. At noon, the low sun can be blinding on descents, so wear good sunglasses. In the afternoon, temperatures drop quickly once the sun dips behind the mountains. Finish your ride before 5 PM to avoid the biting cold and darkness."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "hu": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "ro": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "en": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die kühlen Temperaturen für den steilen Anstieg zum Dorf; warme Handschuhe sind für die anschließende Abfahrt unerlässlich.",
+                "hu": "Használjuk ki a hűvös időt a faluba vezető meredek emelkedőhöz; a későbbi leereszkedéshez viszont elengedhetetlen a meleg kesztyű.",
+                "ro": "Profită de temperaturile scăzute pentru urcarea abruptă spre sat; totuși, mănușile groase sunt esențiale pentru coborârea ce va urma.",
+                "en": "Take advantage of the cool weather for the steep climb to the village; however, warm gloves are essential for the subsequent descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa del Padrino",
+                "hu": "Casa del Padrino",
+                "ro": "Casa del Padrino",
+                "en": "Casa del Padrino"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im klaren Winterlicht; die Steine speichern kaum Wärme, bleiben Sie also in Bewegung, um nicht auszukühlen.",
+                "hu": "Rövid megálló a tiszta téli fényben; a kövek ilyenkor nem tárolják a hőt, ezért maradjunk mozgásban, hogy ne hűljünk ki a nézelődés alatt.",
+                "ro": "O scurtă oprire în lumina clară de iarnă; pietrele nu rețin căldura acum, așa că rămâneți în mișcare pentru a nu îngheța în timp ce priviți.",
+                "en": "A short stop in the clear winter light; the stones don't hold heat now, so keep moving to stay warm while taking in the sights."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Forza d'Agrò",
+                "hu": "Castello di Forza d'Agrò",
+                "ro": "Castello di Forza d'Agrò",
+                "en": "Castello di Forza d'Agrò"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf den Ätna ist im Winter oft schneebedeckt und besonders klar; ziehen Sie für die Rast auf dem Gipfel eine zusätzliche Schicht an.",
+                "hu": "A kilátás az Etnára télen gyakran havas és különösen tiszta; a csúcson tartott pihenőhöz vegyünk fel egy plusz réteg ruhát a szél ellen.",
+                "ro": "Vederea spre Etna este adesea înzăpezită și clară iarna; puneți un strat suplimentar de haine pentru popasul de pe culme împotriva vântului.",
+                "en": "The view of Etna is often snowy and exceptionally clear in winter; put on an extra layer for the rest stop at the peak against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Fornaci in calce di zolla",
+                "hu": "Fornaci in calce di zolla",
+                "ro": "Fornaci in calce di zolla",
+                "en": "Fornaci in calce di zolla"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die alten Öfen zügig; im Schatten der Hügel kann es hier deutlich kälter sein als oben im sonnigen Dorfzentrum.",
+                "hu": "Tekintsük meg gyorsan a régi kemencéket; a dombok árnyékában itt jóval hidegebb lehet, mint fent a napos faluközpontban.",
+                "ro": "Vizitați rapid vechile cuptoare; în umbra dealurilor poate fi mult mai frig aici decât sus, în centrul însorit al satului.",
+                "en": "Visit the old kilns quickly; in the shadow of the hills, it can be significantly colder here than up in the sunny village center."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta del Carmelo",
+                "hu": "Grotta del Carmelo",
+                "ro": "Grotta del Carmelo",
+                "en": "Grotta del Carmelo"
+              },
+              "tip_5lang": {
+                "de": "Die Grotte schützt vor dem kalten Wind; nutzen Sie den Halt, um die Bremsen und Reifen für die letzte Etappe zur Küste zu prüfen.",
+                "hu": "A barlang védelmet nyújt a hideg szél ellen; használjuk ki a megállót a fékek és gumik ellenőrzésére a tengerparti utolsó szakasz előtt.",
+                "ro": "Grota oferă protecție împotriva vântului rece; folosiți oprirea pentru a verifica frânele și pneurile înainte de ultima etapă spre țărm.",
+                "en": "The cave provides shelter from the cold wind; use the stop to check your brakes and tires before the final leg to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Forza d'Agrò Beach",
+                "hu": "Forza d'Agrò Beach",
+                "ro": "Forza d'Agrò Beach",
+                "en": "Forza d'Agrò Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue winterliche See; da es früh dunkel wird, sollten Sie spätestens um 16:30 Uhr die Rückreise mit Licht antreten.",
+                "hu": "Élvezzük a vad téli tengert; mivel korán sötétedik, legkésőbb 16:30-kor induljunk vissza, és győződjünk meg róla, hogy működnek a lámpák.",
+                "ro": "Bucurați-vă de marea sălbatică de iarnă; deoarece se întunecă devreme, porniți înapoi cel târziu la 16:30 și asigurați-vă că aveți lumini.",
+                "en": "Enjoy the wild winter sea; as it gets dark early, start your return by 4:30 PM at the latest and make sure your lights are functioning."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "A reggeli autózás Forza d'Agrò magaslataira bevezet minket a falu híres szépségébe és az ősi vár impozáns maradványaiba. Délben mélyebben elmerülünk a történelemben a hagyományos mosóház meglátogatásával. A délutáni út kanyargós festői utakon vezet le a drámai tengerparti nevezetességekhez. Este egy csendes partszakaszra vonulunk vissza, hogy tökéletesen lezárjuk a napot.",
         "ro": "O plimbare matinală spre înălțimile din Forza d'Agrò ne dezvăluie frumusețea sa renumită și rămășițele impunătoare ale castelului său antic. La amiază pătrundem mai adânc în istorie vizitând spălătoria tradițională. Traseul de după-amiază ne duce pe drumuri pitorești și șerpuite către reperele dramatice ale coastei. Seara ne găsește retrăgându-ne pe o porțiune liniștită de plajă, la apus.",
         "en": "A morning drive to the heights of Forza d'Agrò introduces us to its renowned beauty and the imposing remnants of its ancient castle. Midday allows us to delve deeper into its history by visiting the traditional washhouse hidden in the upper village. The afternoon drive takes us down winding scenic roads to the dramatic coastal landmarks. Evening finds us retreating to a quiet stretch of beach, letting the day fade perfectly."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen ist perfekt für die Fahrt ins Bergdorf; genießen Sie die Aussicht aus dem trockenen Auto. Mittags bieten die Kirchen im Ort ideale überdachte Ziele. Am Nachmittag führt die Fahrt zur Küste über teils rutschige Serpentinen, fahren Sie vorsichtig. Am Abend sorgt das Lichtspiel des Regens auf der Küstenstraße für eine romantische Atmosphäre bei der Rückfahrt.",
+            "hu": "Az esős reggel tökéletes a hegyi faluba való felhajtáshoz; élvezzük a kilátást a száraz autóból. Délben a falu templomai ideális fedett célpontok a záporok alatt. Délután a tengerparti út szerpentinjein óvatosan vezessünk a csúszós aszfalton. Estére az esőcseppeken megcsillanó parti fények romantikus hangulatot árasztanak a visszavezető úton.",
+            "ro": "O dimineață ploioasă este perfectă pentru a urca spre satul de munte; admirați peisajul din confortul mașinii. La prânz, bisericile din sat sunt destinații ideale sub acoperiș. După-amiaza, conduceți cu prudență pe serpentinele alunecoase spre coastă. Seara, jocul de lumini pe parbriz de-a lungul coastei creează o atmosferă romantică la întoarcere.",
+            "en": "A rainy morning is perfect for driving up to the mountain village; enjoy the views from the dry comfort of your car. At noon, the village churches are ideal indoor destinations during the showers. In the afternoon, drive carefully on the slippery serpentines toward the coast. By evening, the rain-kissed coastal lights create a romantic atmosphere on your return journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "hu": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "ro": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "en": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nahe dem Zentrum, um die Laufwege im Regen kurz zu halten, und nehmen Sie einen stabilen Regenschirm mit.",
+                "hu": "Használjuk a központhoz közeli parkolót, hogy minimalizáljuk az esőben megtett utat, és tartsunk a kocsiban egy strapabíró esernyőt.",
+                "ro": "Folosiți parcarea de lângă centru pentru a minimiza mersul pe jos prin ploaie și aveți la îndemână o umbrelă rezistentă în mașină.",
+                "en": "Use the parking lot near the center to minimize walking in the rain, and keep a sturdy umbrella ready in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Forza d'Agrò",
+                "hu": "Castello di Forza d'Agrò",
+                "ro": "Castello di Forza d'Agrò",
+                "en": "Castello di Forza d'Agrò"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie das Schloss bei einer Regenpause; der Weg vom Parkplatz ist kurz, aber die Steine können tückisch glatt sein.",
+                "hu": "A várat egy esőszünetben keressük fel; a parkolótól rövid az út, de a kőburkolat ilyenkor csalókán csúszós lehet, lépjünk óvatosan.",
+                "ro": "Vizitați castelul în timpul unei pauze de ploaie; drumul de la parcare este scurt, dar pietrele pot fi înșelător de alunecoase.",
+                "en": "Visit the castle during a break in the rain; the path from the parking is short, but the stones can be treacherously slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico lavatorio Forzese",
+                "hu": "Antico lavatorio Forzese",
+                "ro": "Antico lavatorio Forzese",
+                "en": "Antico lavatorio Forzese"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Regen, da der Waschplatz überdacht ist; parken Sie so nah wie möglich, um nicht nass zu werden.",
+                "hu": "Ideális megálló esőben, mivel a mosoda fedett; parkoljunk a lehető legközelebb a bejárathoz, hogy elkerüljük az elázást a rövid úton.",
+                "ro": "O oprire ideală pe ploaie, deoarece spălătoria este acoperită; parcați cât mai aproape pentru a evita să vă udați pe drumul scurt.",
+                "en": "An ideal stop in the rain as the laundry is covered; park as close as possible to avoid getting wet on the short walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta di Sant'Alessio",
+                "hu": "Grotta di Sant'Alessio",
+                "ro": "Grotta di Sant'Alessio",
+                "en": "Grotta di Sant'Alessio"
+              },
+              "tip_5lang": {
+                "de": "Die Grotte bietet natürlichen Schutz vor den Elementen; genießen Sie das Tosen des Meeres bei Regen aus der Sicherheit der Höhle.",
+                "hu": "A barlang természetes védelmet nyújt az elemekkel szemben; élvezzük a tenger zúgását esős időben a sziklák biztonságos oltalma alól.",
+                "ro": "Grota oferă protecție naturală împotriva elementelor; bucurați-vă de vuietul mării pe ploaie din siguranța oferită de stânci.",
+                "en": "The cave provides natural protection from the elements; enjoy the roar of the sea during the rain from the safety of the rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Fondaco Parrino Beach",
+                "hu": "Fondaco Parrino Beach",
+                "ro": "Fondaco Parrino Beach",
+                "en": "Fondaco Parrino Beach"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die dramatische Brandung vom Auto aus; die Zufahrt kann bei Starkregen schlammig sein, bleiben Sie auf befestigten Wegen.",
+                "hu": "Csodáljuk meg a drámai hullámzást az autó ablakából; a lehajtó nagy esőben sáros lehet, ezért maradjunk a szilárd útburkolaton.",
+                "ro": "Admirați valurile dramatice din interiorul mașinii; drumul de acces poate fi noroios pe ploaie torențială, deci rămâneți pe porțiunile asfaltate.",
+                "en": "Admire the dramatic surf from the comfort of your car; the access road can be muddy in heavy rain, so stick to the paved sections."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen lädt zur Panoramafahrt ein; die Heizung sorgt für Komfort, während draußen die frische Bergluft weht. Mittags leuchtet der Kalkstein des Dorfes in der tiefstehenden Sonne besonders hell. Am Nachmittag ist die Fernsicht vom Schloss bis zum Ätna atemberaubend klar. Nach dem frühen Sonnenuntergang um 17 Uhr glitzern die Lichter der Küstenorte wie Perlenketten.",
+            "hu": "A tiszta téli reggel panorámaautózásra hív; a fűtés kényelmet ad, miközben kint friss hegyi levegő fúj. Délben a falu mészkőfalai fehéren világítanak az alacsony napfényben. Délután a kilátás a vártól az Etnáig lélegzetelállítóan tiszta. A korai, 17 órás naplemente után a parti települések fényei gyöngysorként csillognak a sötétben.",
+            "ro": "O dimineață senină de iarnă invită la o plimbare panoramică; căldura din mașină oferă confort în timp ce afară adie aerul rece de munte. La prânz, zidurile de calcar strălucesc sub soarele jos. După-amiaza, vizibilitatea de la castel spre Etna este uluitor de clară. După apusul de la ora 17:00, luminile coastei sclipesc ca niște șiraguri de perle.",
+            "en": "A clear winter morning invites a scenic drive; the car's heater ensures comfort while the fresh mountain air blows outside. At noon, the village's limestone walls glow brightly in the low sun. In the afternoon, the view from the castle to Mount Etna is breathtakingly clear. After the early 5 PM sunset, the coastal lights sparkle like strings of pearls in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "hu": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "ro": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\"",
+                "en": "Forza d'Agrò - Nella lista \"I Borghi più Belli d'Italia\""
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leichter einen Parkplatz nahe dem Tor; genießen Sie den Spaziergang durch den Borgo in der klaren, kühlen Luft.",
+                "hu": "Télen sokkal könnyebben találunk parkolót a városkapu közelében; élvezzük a sétát a borgo területén a friss és tiszta téli levegőben.",
+                "ro": "Iarna găsiți mult mai ușor loc de parcare lângă poarta orașului; bucurați-vă de plimbarea prin sat în aerul proaspăt și curat de iarnă.",
+                "en": "In winter, you'll find parking near the city gate much more easily; enjoy the walk through the borgo in the fresh, crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Forza d'Agrò",
+                "hu": "Castello di Forza d'Agrò",
+                "ro": "Castello di Forza d'Agrò",
+                "en": "Castello di Forza d'Agrò"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt zum Parkplatz unterhalb des Schlosses ist im Winter stressfrei; tragen Sie eine warme Jacke für den windigen Weg zur Ruine.",
+                "hu": "A vár alatti parkolóba való feljutás télen stresszmentes; viseljünk meleg kabátot a romokhoz vezető szeles úton a tökéletes panorámáért.",
+                "ro": "Urcarea spre parcarea de sub castel este relaxantă iarna; purtați o jachetă groasă pentru drumul vântos spre ruine și panorama perfectă.",
+                "en": "Driving to the parking lot below the castle is stress-free in winter; wear a warm coat for the windy path to the ruins and the perfect panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Antico lavatorio Forzese",
+                "hu": "Antico lavatorio Forzese",
+                "ro": "Antico lavatorio Forzese",
+                "en": "Antico lavatorio Forzese"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp ist ideal; im Winter wirkt der Ort besonders authentisch und verlassen, was tolle, ungestörte Fotos ermöglicht.",
+                "hu": "Egy gyors megálló ideális; télen a helyszín különösen hitelesnek és elhagyatottnak tűnik, ami zavartalan és hangulatos fotózást tesz lehetővé.",
+                "ro": "O oprire rapidă este ideală; iarna, locația pare deosebit de autentică și pustie, permițând fotografii reușite fără a fi deranjați.",
+                "en": "A quick stop is ideal; in winter, the site feels particularly authentic and deserted, allowing for great, undisturbed photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta di Sant'Alessio",
+                "hu": "Grotta di Sant'Alessio",
+                "ro": "Grotta di Sant'Alessio",
+                "en": "Grotta di Sant'Alessio"
+              },
+              "tip_5lang": {
+                "de": "Die Grotte ist im Winter ein ruhiger Rückzugsort; beachten Sie die kurzen Tageslichtstunden und planen Sie den Besuch vor 16 Uhr ein.",
+                "hu": "A barlang télen csendes menedék; vegyük figyelembe a rövid nappalokat, és a látogatást tervezzük 16 óra előtti időpontra.",
+                "ro": "Grota este un refugiu liniștit iarna; țineți cont de zilele scurte și planificați vizita înainte de ora 16:00 pentru a avea lumină.",
+                "en": "The cave is a quiet retreat in winter; keep in mind the short daylight hours and plan your visit before 4 PM for the best light."
+              }
+            },
+            {
+              "name": {
+                "de": "Fondaco Parrino Beach",
+                "hu": "Fondaco Parrino Beach",
+                "ro": "Fondaco Parrino Beach",
+                "en": "Fondaco Parrino Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang über dem Meer um 17 Uhr direkt vom Strand aus; die winterliche Brandung ist oft kraftvoll und beeindruckend.",
+                "hu": "Élvezzük a 17 órás naplementét közvetlenül a tengerpartról; a téli hullámverés gyakran erőteljes és lenyűgöző látványt nyújt a kocsiból is.",
+                "ro": "Bucurați-vă de apusul de la ora 17:00 direct de pe plajă; valurile de iarnă sunt adesea puternice și oferă un spectacol impresionant.",
+                "en": "Enjoy the 5 PM sunset directly from the beach; the winter surf is often powerful and provides an impressive sight from your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

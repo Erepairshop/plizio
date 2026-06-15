@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a Városházánál, majd sétáljon el a Saint-Martin templomhoz. A csendes utcák finoman ébresztik a várost.\n\nA csúcspont az ókori színházban várja, ahol mélyen elmerülhet a római történelemben. A létesítmény hatalmas mérete egyszerűen lenyűgöző.\n\nEgy csendes séta a Chapelle Saint-Symphorien felé a belső elmélyülés és a természet közelségének csodálatos pillanatát kínálja.\n\nZárja a napot a lenyűgöző Bains de Courcelles-nél, ahol az ókor visszhangja ott időz az aranyszínű alkonyatban és békés nyugalmat áraszt.",
         "ro": "Începeți-vă ziua la Primărie înainte de a vă plimba spre Biserica Saint-Martin. Străzile liniștite trezesc ușor orașul.\n\nPunctul culminant vă așteaptă la teatrul antic, unde vă cufundați în istoria romană. Dimensiunea sitului este pur și simplu impresionantă.\n\nO plimbare liniștită spre Chapelle Saint-Symphorien vă oferă un moment de reflecție interioară în mijlocul unei naturi extrem de pașnice.\n\nÎncheiați ziua la fascinantele Bains de Courcelles, unde ecoul antichității persistă subtil în amurgul auriu și aduce o pace profundă.",
         "en": "Start your day at the Town Hall before walking over to Saint-Martin Church. The quiet streets gently awaken the historic town.\n\nThe highlight awaits at the ancient theater, where you dive deep into Roman history. The massive scale of the site is simply impressive.\n\nA quiet walk towards Chapelle Saint-Symphorien offers you a beautiful moment of inner reflection surrounded by peaceful nature.\n\nEnd your day at the fascinating Bains de Courcelles, where the echo of antiquity lingers gently in the beautiful golden dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren nassen Tag am Rathaus und suchen Sie Zuflucht in der Kirche Saint-Martin. Trotzen Sie dem Regen am antiken Theater mit einem Regenschirm. Wärmen Sie sich in der Nähe der Kapelle auf und beenden Sie die Tour an den römischen Bädern. Tragen Sie wasserfeste Schuhe für die rutschigen Wege.",
+            "hu": "Kezdje az esős napot a városházánál, majd keressen menedéket a Saint-Martin templomban. Dacoljon a záporokkal az ókori színháznál egy nagy esernyővel. Melegedjen fel a kápolnánál, és fejezze be a sétát a római fürdőknél. Vízálló cipő ajánlott a saras, csúszós utakon.",
+            "ro": "Începeți ziua ploioasă la Primărie, apoi căutați refugiu în Biserica Saint-Martin. Înfruntați ploile la teatrul antic cu o umbrelă robustă. Încălziți-vă lângă capelă și terminați la băile romane, purtând cizme impermeabile pentru potecile noroioase și alunecoase.",
+            "en": "Start your wet day at the Town Hall, then seek refuge in Saint-Martin Church. Brave the showers at the ancient theater with a sturdy umbrella. Warm up near the chapel and finish at the Roman baths, wearing waterproof boots for the muddy, slippery paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mandeure Town Hall",
+                "hu": "Mandeure Town Hall",
+                "ro": "Mandeure Town Hall",
+                "en": "Mandeure Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Fassade unter einem Regenschirm. Der Platz davor kann bei Nässe etwas rutschig sein.",
+                "hu": "Csodálja meg a történelmi homlokzatot egy esernyő alól, mielőtt továbbindul. A tér vizesen kissé csúszós lehet.",
+                "ro": "Admirați fațada istorică sub o umbrelă înainte de a merge mai departe. Piața poate fi alunecoasă când este udă.",
+                "en": "Admire the historic facade under an umbrella before moving on. The square can get a bit slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Church",
+                "hu": "Saint-Martin Church",
+                "ro": "Saint-Martin Church",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie in die Kirche ein, um dem Regen zu entkommen, und bewundern Sie das friedliche Innere im Trockenen.",
+                "hu": "Lépjen be a templomba, hogy menedéket találjon az eső elől, és csodálja meg a békés belső teret szárazon.",
+                "ro": "Pășiți în biserică pentru a scăpa de ploaie și admirați interiorul liniștit. Este un refugiu uscat perfect.",
+                "en": "Step inside the church to escape the rain and admire the peaceful interior. It’s a perfect dry refuge."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre antique de Mandeure",
+                "hu": "Théâtre antique de Mandeure",
+                "ro": "Théâtre antique de Mandeure",
+                "en": "Théâtre antique de Mandeure"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine werden bei Regen extrem rutschig. Tragen Sie griffige Schuhe und nehmen Sie einen großen Schirm mit.",
+                "hu": "Az ókori kövek rendkívül csúszósak lesznek esőben. Viseljen tapadós cipőt és vigyen magával egy nagy esernyőt.",
+                "ro": "Pietrele antice devin foarte alunecoase pe ploaie. Purtați încălțăminte cu aderență și luați o umbrelă mare.",
+                "en": "The ancient stones get extremely slippery in the rain. Wear grippy shoes and bring a large umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Symphorien",
+                "hu": "Chapelle Saint-Symphorien",
+                "ro": "Chapelle Saint-Symphorien",
+                "en": "Chapelle Saint-Symphorien"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei einem starken Schauer kurzen Schutz unter dem Vordach der Kapelle oder den umliegenden Bäumen.",
+                "hu": "Egy erős zápor esetén keressen rövid menedéket a kápolna előtetője vagy a környező fák alatt.",
+                "ro": "Căutați un scurt adăpost sub pridvorul capelei sau sub copaci dacă începe o ploaie torențială.",
+                "en": "Seek brief shelter under the chapel's porch or the surrounding trees if there's a heavy downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Bains de Courcelles",
+                "hu": "Bains de Courcelles",
+                "ro": "Bains de Courcelles",
+                "en": "Bains de Courcelles"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich die antiken Thermalbäder vor, während Sie die feuchten, schlammigen archäologischen Wege erkunden.",
+                "hu": "Képzelje el az ókori termálfürdőket, miközben a nedves, saras régészeti ösvényeken navigál.",
+                "ro": "Imaginați-vă băile termale antice în timp ce explorați potecile arheologice umede și noroioase.",
+                "en": "Imagine the ancient thermal baths while you navigate the wet, muddy archaeological paths."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein zügiger Morgenspaziergang beginnt am Rathaus, bevor Sie die Kirche besuchen. Das römische Theater ist in der Kälte wunderschön; packen Sie sich in warme Schichten ein. Verbringen Sie den Nachmittag an der Kapelle und den Bädern, bevor die Sonne gegen 17:00 Uhr untergeht.",
+            "hu": "Egy frissítő reggeli séta a városházától indul a templom felé. A római színház rideg és gyönyörű a hidegben; öltözzön meleg rétegekbe. A délutánt a kápolnánál és a fürdőknél töltheti, mielőtt a nap 17:00 körül korán lemenne.",
+            "ro": "O plimbare matinală revigorantă începe la primărie înainte de a vizita biserica. Teatrul roman este frumos în frig; îmbrăcați-vă în straturi calde. Petreceți după-amiaza la capelă și la băi înainte ca soarele să apună devreme, în jur de 17:00.",
+            "en": "A brisk morning walk starts at the civic center before visiting the church. The Roman theater is stark and beautiful in the cold; bundle up in warm layers. Spend the afternoon at the chapel and baths before the sun sets early around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mandeure Town Hall",
+                "hu": "Mandeure Town Hall",
+                "ro": "Mandeure Town Hall",
+                "en": "Mandeure Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto in der kalten Luft, um Ihren klaren Winterspaziergang durch die Stadt zu beginnen.",
+                "hu": "Készítsen egy gyors fotót a hideg levegőn, hogy elindítsa frissítő téli sétáját a városban.",
+                "ro": "Faceți o fotografie rapidă în aerul rece pentru a începe plimbarea dvs. revigorantă de iarnă.",
+                "en": "Take a quick photo in the cold air to start your crisp winter walk through the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Church",
+                "hu": "Saint-Martin Church",
+                "ro": "Saint-Martin Church",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger, aber kühler Ort; behalten Sie Ihren Mantel an, während Sie das historische Innere betrachten.",
+                "hu": "Egy csendes, de hűvös hely; tartsa magán a kabátját, miközben a történelmi belső teret vizsgálja.",
+                "ro": "Un loc liniștit, dar răcoros; păstrați haina pe dumneavoastră în timp ce priviți interiorul istoric.",
+                "en": "A quiet but drafty spot; keep your winter coat on while viewing the historic interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre antique de Mandeure",
+                "hu": "Théâtre antique de Mandeure",
+                "ro": "Théâtre antique de Mandeure",
+                "en": "Théâtre antique de Mandeure"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sehen im Frost dramatisch aus. Ziehen Sie sich warm an, da es hier sehr offen und windig ist.",
+                "hu": "A romok drámaian néznek ki a fagyban. Öltözzön fel melegen, mivel ez egy nagyon nyitott és szeles terület.",
+                "ro": "Ruinele arată dramatic în îngheț. Îmbrăcați-vă gros, deoarece este un spațiu foarte deschis și vântos.",
+                "en": "The ruins look dramatic in the frost. Wrap up warmly as it's a very open and windy area."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Symphorien",
+                "hu": "Chapelle Saint-Symphorien",
+                "ro": "Chapelle Saint-Symphorien",
+                "en": "Chapelle Saint-Symphorien"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort in der Winterkälte. Der Weg kann vereist sein, treten Sie also vorsichtig auf.",
+                "hu": "Békés hely a téli hidegben. Az ösvény jeges lehet, ezért lépjen nagyon óvatosan.",
+                "ro": "Un loc pașnic în frigul iernii. Poteca poate fi acoperită de gheață, așa că pășiți cu atenție.",
+                "en": "A peaceful spot in the winter chill. The path may be icy, so step carefully as you approach."
+              }
+            },
+            {
+              "name": {
+                "de": "Bains de Courcelles",
+                "hu": "Bains de Courcelles",
+                "ro": "Bains de Courcelles",
+                "en": "Bains de Courcelles"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die alten Bäder, wenn die Dämmerung naht; die tiefstehende Wintersonne wirft lange Schatten.",
+                "hu": "Fedezze fel a régi fürdőket, ahogy közeledik a szürkület; az alacsony téli nap hosszú árnyékokat vet.",
+                "ro": "Explorați vechile băi pe măsură ce se apropie amurgul; soarele de iarnă creează umbre lungi.",
+                "en": "Explore the old baths as dusk approaches; the low winter sun creates beautiful long shadows."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kerékpározzon az élettel teli Városházától a történelmi Saint-Martin templomhoz, élvezve a friss reggeli levegőt a rövid utakon.\n\nAz út a Chapelle Saint-Symphorien-hez és az impozáns ókori színházhoz vezet, amely egy tökéletes történelmi időutazás.\n\nAz Église Saint-Pierre et Saint-Paul megtekintése után kényelmesen elkarikázik a Bains de Courcelles római romjaihoz egy rövid pihenőre.\n\nA modern Centre culturel polyvalent gyönyörű kulturális befejezése a történelmi Mandeure-ben tett izgalmas kerékpártúrának.",
         "ro": "Pedalați de la Primărie spre istorica Biserică Saint-Martin, bucurându-vă de aerul răcoros al dimineții pe traseele scurte.\n\nTraseul vă duce la Chapelle Saint-Symphorien și apoi la impunătorul teatru antic, o rută perfectă prin epoci și istorii diverse.\n\nDupă vizitarea Église Saint-Pierre et Saint-Paul, pedalați relaxat spre ruinele romane de la Bains de Courcelles.\n\nModernul Centre culturel polyvalent reprezintă un final cultural frumos al turului dumneavoastră cu bicicleta prin Mandeure.",
         "en": "Cycle from the lively Town Hall to the historic Saint-Martin Church, enjoying the crisp morning air along the short, easy routes.\n\nThe path leads you to Chapelle Saint-Symphorien and onward to the imposing ancient theater, a perfect route through various eras.\n\nAfter visiting the Église Saint-Pierre et Saint-Paul, enjoy a relaxed ride to the Roman ruins of the Bains de Courcelles.\n\nThe modern Centre culturel polyvalent provides a beautiful cultural conclusion to your cycling tour through historic Mandeure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf rutschigen Straßen. Besuchen Sie die Kirche als Schutz und fahren Sie vorsichtig zum Theater. Beenden Sie den Tag im Kulturzentrum, wo Sie sich drinnen trocknen können. Nutzen Sie gute Schutzbleche und Regenkleidung.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a csúszós utakon. Húzódjon be a templomba, majd óvatosan tekerjen a színházhoz. Fejezze be a napot a kulturális központban, ahol bent megszáradhat. Használjon sárvédőt és esőruhát.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile alunecoase. Vizitați biserica pentru adăpost, apoi pedalați atent spre teatru. Terminați la centrul cultural unde vă puteți usca înăuntru. Folosiți apărători de noroi și pelerine.",
+            "en": "Cycling in the rain requires caution on slippery roads. Visit the church for shelter, then carefully ride to the theater. Finish at the cultural center where you can dry off indoors. Use good mudguards and waterproof cycling gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mandeure Town Hall",
+                "hu": "Mandeure Town Hall",
+                "ro": "Mandeure Town Hall",
+                "en": "Mandeure Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Überprüfen Sie hier Ihre Fahrradbremsen, bevor Sie auf den nassen Straßen von Mandeure starten.",
+                "hu": "Ellenőrizze itt a kerékpár fékjeit, mielőtt elindulna Mandeure nedves utcáin.",
+                "ro": "Verificați frânele bicicletei aici înainte de a porni pe străzile umede din Mandeure.",
+                "en": "Check your bike brakes here before starting your ride on the wet streets of Mandeure."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Church",
+                "hu": "Saint-Martin Church",
+                "ro": "Saint-Martin Church",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um Ihre Brille abzuwischen und sich eine Weile vor dem stetigen Regen auszuruhen.",
+                "hu": "Jó hely arra, hogy letörölje a szemüvegét, és pihenjen egy kicsit a folyamatos eső elől.",
+                "ro": "Un loc bun pentru a vă șterge ochelarii și a vă odihni puțin de ploaia constantă.",
+                "en": "A good place to wipe your glasses and rest for a while from the steady rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Symphorien",
+                "hu": "Chapelle Saint-Symphorien",
+                "ro": "Chapelle Saint-Symphorien",
+                "en": "Chapelle Saint-Symphorien"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig bei nassem Laub auf den Wegen rund um das Gelände der Kapelle.",
+                "hu": "Legyen óvatos a nedves falevelekkel a kápolna körüli ösvényeken, nagyon csúszósak lehetnek.",
+                "ro": "Fiți atenți la frunzele umede de pe potecile din jurul domeniului capelei.",
+                "en": "Be extremely careful of the wet leaves on the paths around the chapel grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre antique de Mandeure",
+                "hu": "Théâtre antique de Mandeure",
+                "ro": "Théâtre antique de Mandeure",
+                "en": "Théâtre antique de Mandeure"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihr Fahrrad auf gepflasterten Flächen, da das Gras bei Regen sehr schlammig ist.",
+                "hu": "Hagyja a kerékpárt a burkolt felületeken, mivel a fű nagyon saras az esőben.",
+                "ro": "Lăsați bicicleta pe zonele pavate, deoarece iarba este foarte noroioasă pe ploaie.",
+                "en": "Keep your bike on the paved sections as the grass and ruins are very muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Eine weitere trockene Zuflucht, um sich während Ihrer nassen Radtour aufzuwärmen.",
+                "hu": "Egy újabb száraz menedék, ahol felmelegedhet a nedves kerékpártúra során.",
+                "ro": "Un alt refugiu uscat pentru a vă încălzi în timpul turului dumneavoastră umed cu bicicleta.",
+                "en": "Another dry refuge to warm up and dry off slightly during your wet cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Bains de Courcelles",
+                "hu": "Bains de Courcelles",
+                "ro": "Bains de Courcelles",
+                "en": "Bains de Courcelles"
+              },
+              "tip_5lang": {
+                "de": "Die römischen Ruinen sind im Regen atmosphärisch; achten Sie auf nasse, rutschige Steine beim Gehen.",
+                "hu": "A római romok hangulatosak esőben; séta közben ügyeljen a nedves, csúszós kövekre.",
+                "ro": "Ruinele romane sunt pline de atmosferă pe ploaie; atenție la pietrele umede când vă plimbați.",
+                "en": "The Roman ruins are atmospheric in the rain; watch your step on wet, slippery stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre culturel polyvalent",
+                "hu": "Centre culturel polyvalent",
+                "ro": "Centre culturel polyvalent",
+                "en": "Centre culturel polyvalent"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer, trockener Innenraum, um Ihre feuchte Radtour durch Mandeure zu beenden.",
+                "hu": "Egy meleg, száraz beltéri hely, ahol befejezheti a nedves kerékpáros túrát Mandeure-ben.",
+                "ro": "Un spațiu interior cald și uscat pentru a încheia turul dumneavoastră umed cu bicicleta.",
+                "en": "Finally, a warm, dry indoor space to comfortably end your damp cycling tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich für eine kühle Fahrt gut ein. Die klare Luft hebt die Ruinen hervor. Stellen Sie sicher, dass Sie Fahrradlichter haben, da die Fahrt gegen 17:00 Uhr endet. Vorsicht vor Eisflächen auf schattigen Wegen.",
+            "hu": "Öltözzön fel melegen a kerékpározáshoz. A csípős levegő kiemeli a romokat. Legyen jó lámpája, mivel az út 17:00 körül, sötétedéskor ér véget. Ügyeljen az árnyékos részeken a jeges foltokra.",
+            "ro": "Îmbrăcați-vă bine pentru o plimbare răcoroasă. Aerul rece scoate în evidență ruinele. Asigurați-vă că aveți lumini, deoarece cursa se termină la apus, în jur de 17:00. Atenție la gheața de pe potecile umbrite.",
+            "en": "Wrap up well for a chilly ride. The crisp air makes the ruins stand out. Make sure you have bike lights, as your ride finishes around early sunset at 17:00. Beware of icy patches on shaded paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mandeure Town Hall",
+                "hu": "Mandeure Town Hall",
+                "ro": "Mandeure Town Hall",
+                "en": "Mandeure Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Fahrt zügig, um sich in der kühlen Wintermorgenluft aufzuwärmen.",
+                "hu": "Kezdje a túrát tempósan, hogy felmelegedjen a hűvös téli reggeli levegőben.",
+                "ro": "Începeți cursa în ritm alert pentru a vă încălzi în aerul rece al dimineții de iarnă.",
+                "en": "Start your ride briskly to warm up your muscles in the chilly winter morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Martin Church",
+                "hu": "Saint-Martin Church",
+                "ro": "Saint-Martin Church",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad vorsichtig; der Kircheneingang könnte durch Morgenfrost rutschig sein.",
+                "hu": "Óvatosan parkolja le a kerékpárt; a templom bejárata csúszós lehet a reggeli fagytól.",
+                "ro": "Parcați bicicleta cu grijă; intrarea bisericii ar putea fi alunecoasă din cauza brumei matinale.",
+                "en": "Park your bike carefully; the church entrance might be slippery with morning frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Symphorien",
+                "hu": "Chapelle Saint-Symphorien",
+                "ro": "Chapelle Saint-Symphorien",
+                "en": "Chapelle Saint-Symphorien"
+              },
+              "tip_5lang": {
+                "de": "Das frostige Morgenlicht trifft die Kapelle wunderschön; ein kurzer, kühler Fotostopp.",
+                "hu": "A fagyos reggeli fény gyönyörűen megvilágítja a kápolnát; egy gyors, hűvös fotószünet.",
+                "ro": "Lumina înghețată a dimineții lovește frumos capela; o scurtă și răcoroasă oprire foto.",
+                "en": "Frosty morning light hits the chapel beautifully; a quick, chilly photo stop before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre antique de Mandeure",
+                "hu": "Théâtre antique de Mandeure",
+                "ro": "Théâtre antique de Mandeure",
+                "en": "Théâtre antique de Mandeure"
+              },
+              "tip_5lang": {
+                "de": "Der offene Raum ist windig; ziehen Sie Ihren Schal hoch, während Sie die alten Stufen erkunden.",
+                "hu": "A nyitott tér szeles; húzza fel a sálját, miközben felfedezi az ősi lépcsőket.",
+                "ro": "Spațiul deschis este vântos; ridicați-vă fularul în timp ce explorați treptele antice.",
+                "en": "The open space is windy; pull up your scarf while exploring the ancient steps off the bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur in der Kälte, bevor Sie zu Ihrem nächsten Ziel aufbrechen.",
+                "hu": "Csodálja meg az építészetet a hidegben, mielőtt a következő úti célhoz tekerne.",
+                "ro": "Admirați arhitectura în frig înainte de a vă îndrepta spre următoarea destinație.",
+                "en": "Admire the sturdy architecture in the cold before heading to your next cycling destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Bains de Courcelles",
+                "hu": "Bains de Courcelles",
+                "ro": "Bains de Courcelles",
+                "en": "Bains de Courcelles"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie zügig, da die Kälte des späten Nachmittags einsetzt und die Sonne tiefer sinkt.",
+                "hu": "Gyorsan fedezze fel, ahogy a késő délutáni hideg beáll, és a nap egyre lejjebb ereszkedik.",
+                "ro": "Explorați rapid, deoarece frigul după-amiezii se instalează și soarele coboară.",
+                "en": "Explore quickly as the late afternoon cold sets in and the sun drops lower in the sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre culturel polyvalent",
+                "hu": "Centre culturel polyvalent",
+                "ro": "Centre culturel polyvalent",
+                "en": "Centre culturel polyvalent"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, warmer Innenabschluss, da die Sonne früh untergeht und die Temperaturen sinken.",
+                "hu": "Tökéletes, meleg beltéri befejezés, mivel a nap korán lenyugszik, és a hőmérséklet leesik.",
+                "ro": "Un final perfect la interior cald, deoarece soarele apune devreme și temperaturile scad.",
+                "en": "Perfect warm indoor finish to your ride as the sun sets early and temperatures drop sharply."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Autóval kényelmesen eljut a Városházától az ókori színházhoz, hogy a reggeli csendben megcsodálja ezt a hatalmas és lenyűgöző műemléket.\n\nA Belvédère fantasztikus kilátást kínál, mielőtt meglátogatja a történelmi templomokat és egy rövid utazást tesz a kápolnához.\n\nA Doubs partjára tett utazás frissítő természetet hoz, amelyet egy izgalmas felfedezőút követ a Bains de Courcelles lenyűgöző romjainál.\n\nA nap kényelmesen ér véget a kulturális központban, ahol kiállítások és helyi események modern formában mutatják be a régió örökségét.",
         "ro": "Conduceți confortabil de la Primărie la teatrul antic pentru a admira imensul monument în liniștea profundă a dimineții.\n\nBelvédère oferă priveliști fantastice înainte de a vizita bisericile istorice și de a face o scurtă plimbare cu mașina până la capelă.\n\nO plimbare pe malurile râului Doubs aduce natură revigorantă, urmată de o explorare interesantă la Bains de Courcelles.\n\nZiua se încheie relaxant la centrul cultural, unde expozițiile reflectă modern moștenirea istorică bogată a întregii regiuni.",
         "en": "Drive comfortably from the Town Hall straight to the ancient theater to admire the massive monument in the quiet morning light.\n\nThe Belvédère offers fantastic views before you visit historic churches and take a short drive over to the charming local chapel.\n\nA drive to the banks of the Doubs brings refreshing nature, followed by an exciting exploration at the ancient Bains de Courcelles.\n\nThe day ends in a relaxed way at the cultural center, where local exhibitions playfully modernize the rich historical heritage of the region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem zwischen den Sehenswürdigkeiten und bleiben Sie trocken. Machen Sie kurze Ausflüge zum Freilufttheater und Aussichtspunkt mit einem großen Regenschirm. Die Flussufer sind bei Regen stimmungsvoll. Beenden Sie den Tag drinnen im Kulturzentrum.",
+            "hu": "Vezessen kényelmesen a látnivalók között, szárazon maradva. Tegyen gyors sétákat a szabadtéri színháznál és a kilátónál egy nagy esernyővel. A folyópart hangulatos az esőben. Zárja a napot bent a kulturális központban.",
+            "ro": "Conduceți confortabil între atracții rămânând uscat. Faceți ieșiri scurte la teatrul în aer liber și la belvedere cu o umbrelă mare. Malurile râului sunt melancolice. Încheiați ziua înăuntru la centrul cultural ferit de intemperii.",
+            "en": "Drive between sights comfortably while staying dry. Make quick dashes outside for the open-air theater and belvedere with a large umbrella. The river banks are moody in the rain. End the day indoors at the cultural center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mandeure Town Hall",
+                "hu": "Mandeure Town Hall",
+                "ro": "Mandeure Town Hall",
+                "en": "Mandeure Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und machen Sie einen kurzen Spurt, um das Rathaus ohne nass zu werden zu sehen.",
+                "hu": "Parkoljon a közelben, és tegyen egy gyors sétát, hogy megnézze a városházát anélkül, hogy elázna.",
+                "ro": "Parcați aproape și faceți o cursă rapidă pentru a vedea primăria fără a vă uda.",
+                "en": "Park nearby and make a quick dash to see the civic center without getting too wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre antique de Mandeure",
+                "hu": "Théâtre antique de Mandeure",
+                "ro": "Théâtre antique de Mandeure",
+                "en": "Théâtre antique de Mandeure"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen großen Schirm mit; die offenen Ruinen bieten keinen Schutz vor dem Platzregen.",
+                "hu": "Hozzon egy nagy esernyőt; a nyitott romok nem nyújtanak menedéket a felhőszakadás elől.",
+                "ro": "Aduceți o umbrelă mare; ruinele deschise nu oferă adăpost împotriva ploii torențiale.",
+                "en": "Bring a large umbrella; the open ruins offer absolutely no shelter from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère de Mandeure",
+                "hu": "Belvédère de Mandeure",
+                "ro": "Belvédère de Mandeure",
+                "en": "Belvédère de Mandeure"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht könnte durch tiefe Wolken verdeckt sein, bietet aber eine wunderschön melancholische Atmosphäre.",
+                "hu": "A kilátást eltakarhatják az alacsony felhők, de gyönyörűen melankolikus hangulatot áraszt.",
+                "ro": "Priveliștea ar putea fi ascunsă de nori joși, dar oferă o atmosferă frumos de melancolică.",
+                "en": "The view might be obscured by low clouds, but it offers a beautifully moody, atmospheric panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regen zu vermeiden, und genießen Sie das trockene Innere.",
+                "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt, és élvezze a száraz belső teret.",
+                "ro": "Parcați aproape de intrare pentru a evita ploaia și bucurați-vă de interiorul uscat.",
+                "en": "Park close to the entrance to avoid the rain; enjoy the completely dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Symphorien",
+                "hu": "Chapelle Saint-Symphorien",
+                "ro": "Chapelle Saint-Symphorien",
+                "en": "Chapelle Saint-Symphorien"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt nach oben könnte rutschig sein; genießen Sie die regengewaschene Außenansicht vom Auto aus.",
+                "hu": "A felfelé vezető út csúszós lehet; élvezze az eső áztatta külsőt az autóból.",
+                "ro": "Drumul în sus poate fi alunecos; bucurați-vă de exteriorul spălat de ploaie din mașină.",
+                "en": "The drive up might be slick; enjoy the rain-washed exterior, perhaps even from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Banks of the Doubs",
+                "hu": "Banks of the Doubs",
+                "ro": "Banks of the Doubs",
+                "en": "Banks of the Doubs"
+              },
+              "tip_5lang": {
+                "de": "Der Fluss fließt hoch und schnell; beobachten Sie ihn sicher aus dem Auto oder vom gepflasterten Weg.",
+                "hu": "A folyó vízállása magas; figyelje biztonságosan az autóból vagy a burkolt útról.",
+                "ro": "Râul curge rapid și este umflat; priviți-l în siguranță din mașină sau de pe o alee pavată.",
+                "en": "The river flows high and fast; watch it safely from the car or a solid paved path."
+              }
+            },
+            {
+              "name": {
+                "de": "Bains de Courcelles",
+                "hu": "Bains de Courcelles",
+                "ro": "Bains de Courcelles",
+                "en": "Bains de Courcelles"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Bäder sind etwas schlammig; tragen Sie feste Stiefel, wenn Sie das Auto verlassen.",
+                "hu": "Az ókori fürdők kissé sarasak; viseljen strapabíró csizmát, amikor kiszáll az autóból.",
+                "ro": "Băile antice sunt puțin noroioase; purtați cizme rezistente când părăsiți mașina.",
+                "en": "The ancient baths are a bit muddy; wear sturdy waterproof boots when leaving the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre culturel polyvalent",
+                "hu": "Centre culturel polyvalent",
+                "ro": "Centre culturel polyvalent",
+                "en": "Centre culturel polyvalent"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag drinnen, komplett trocken und geschützt vor dem schlechten Wetter.",
+                "hu": "Zárja a napot bent, teljesen szárazon és védve a rossz időjárástól.",
+                "ro": "Încheiați ziua înăuntru, complet uscați și feriți de vremea rea.",
+                "en": "End the day inside, completely dry and well-sheltered from the bad weather outdoors."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine gemütliche Fahrt durch das winterliche Mandeure. Die Aussichtspunkte sind atemberaubend, aber kalt; nutzen Sie die Autoheizung zwischen den Stopps. Erreichen Sie das Kulturzentrum vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Achten Sie auf vereiste Straßen.",
+            "hu": "Élvezze a hangulatos autózást a téli Mandeure-ben. A kilátók lenyűgözőek, de hidegek, használja az autó fűtését a megállók között. Érjen a kulturális központhoz a korai, 17:00 órai naplemente előtt. Vigyázzon a jeges utakra.",
+            "ro": "Bucurați-vă de o plimbare confortabilă cu mașina prin Mandeure pe timp de iarnă. Punctele de belvedere sunt uimitoare, dar reci, folosiți încălzirea. Ajungeți la centrul cultural înainte de apusul de la 17:00. Atenție la drumurile înghețate.",
+            "en": "Enjoy a cozy drive through wintery Mandeure. The viewpoints are stunning but cold, so use the car heater heavily between stops. Reach the cultural center before the early sunset around 17:00. Watch out for icy road conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mandeure Town Hall",
+                "hu": "Mandeure Town Hall",
+                "ro": "Mandeure Town Hall",
+                "en": "Mandeure Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein komfortabler Start aus Ihrem warmen Auto, um das winterliche Stadtzentrum zu sehen.",
+                "hu": "Kényelmes kezdés a meleg autóból, hogy megnézze a téli városközpontot.",
+                "ro": "Un început confortabil din mașina caldă pentru a vedea centrul de iarnă al orașului.",
+                "en": "A very comfortable start from your warm car to easily see the wintery town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre antique de Mandeure",
+                "hu": "Théâtre antique de Mandeure",
+                "ro": "Théâtre antique de Mandeure",
+                "en": "Théâtre antique de Mandeure"
+              },
+              "tip_5lang": {
+                "de": "Es ist hier sehr ungeschützt; behalten Sie Ihren schweren Mantel an, wenn Sie aus dem Auto steigen.",
+                "hu": "Nagyon nyitott terület; tartsa magán a vastag kabátot, amikor kiszáll az autóból.",
+                "ro": "Este un loc foarte expus; păstrați-vă haina groasă când coborâți din mașină.",
+                "en": "It’s very exposed here; leave your heavy winter coat on when stepping out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvédère de Mandeure",
+                "hu": "Belvédère de Mandeure",
+                "ro": "Belvédère de Mandeure",
+                "en": "Belvédère de Mandeure"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist bei Winterwinden eiskalt, aber das frostige Panorama ist den Stopp wert.",
+                "hu": "A kilátó fagyos a téli szelekben, de a zúzmarás panoráma megéri a megállót.",
+                "ro": "Punctul de belvedere este înghețat de vânturile de iarnă, dar panorama merită oprirea.",
+                "en": "The viewpoint is freezing in winter winds, but the stunning frosty panorama is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Pierre et Saint-Paul",
+                "hu": "Église Saint-Pierre et Saint-Paul",
+                "ro": "Église Saint-Pierre et Saint-Paul",
+                "en": "Église Saint-Pierre et Saint-Paul"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiges, kühles Heiligtum; schätzen Sie die historische Atmosphäre, bevor Sie ins Auto zurückkehren.",
+                "hu": "Csendes, hűvös szentély; értékelje a történelmi hangulatot, mielőtt visszatér a fűtött autóba.",
+                "ro": "Un sanctuar liniștit și răcoros; apreciați atmosfera istorică înainte de a reveni la mașină.",
+                "en": "A quiet, chilly sanctuary; appreciate the historic atmosphere before returning to the heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Symphorien",
+                "hu": "Chapelle Saint-Symphorien",
+                "ro": "Chapelle Saint-Symphorien",
+                "en": "Chapelle Saint-Symphorien"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Blitzeis auf der kleinen Straße, die zur winterlichen Kapelle führt.",
+                "hu": "Vigyázzon a tükörjégre a téli kápolnához vezető kis úton.",
+                "ro": "Atenție la gheața neagră de pe drumul mic care duce spre capela de iarnă.",
+                "en": "Watch out for black ice on the small, shaded road leading to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Banks of the Doubs",
+                "hu": "Banks of the Doubs",
+                "ro": "Banks of the Doubs",
+                "en": "Banks of the Doubs"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser sieht eiskalt aus; genießen Sie einen kurzen Spaziergang an den frostigen Ufern.",
+                "hu": "A víz jéghidegnek tűnik; élvezze a rövid sétát a fagyos partokon.",
+                "ro": "Apa arată înghețată; bucurați-vă de o scurtă plimbare pe malurile acoperite de brumă.",
+                "en": "The water looks freezing; enjoy a brisk, short walk along the beautiful frosty banks."
+              }
+            },
+            {
+              "name": {
+                "de": "Bains de Courcelles",
+                "hu": "Bains de Courcelles",
+                "ro": "Bains de Courcelles",
+                "en": "Bains de Courcelles"
+              },
+              "tip_5lang": {
+                "de": "Eine schnelle Erkundung der Ruinen, bevor die Sonne zu tief sinkt und es extrem kalt wird.",
+                "hu": "A romok gyors felfedezése, mielőtt a nap túl mélyre süllyedne, és rendkívül hideg lenne.",
+                "ro": "O explorare rapidă a ruinelor înainte ca soarele să coboare prea mult și să se facă foarte frig.",
+                "en": "A quick exploration of the ruins before the sun dips too low and temperatures plummet."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre culturel polyvalent",
+                "hu": "Centre culturel polyvalent",
+                "ro": "Centre culturel polyvalent",
+                "en": "Centre culturel polyvalent"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer kultureller Rückzugsort, um Ihren Tag zu beenden, da die Dunkelheit im Winter früh hereinbricht.",
+                "hu": "Egy meleg kulturális menedék a nap zárásaként, mivel télen korán sötétedik.",
+                "ro": "Un refugiu cultural cald pentru a vă încheia ziua, deoarece întunericul cade devreme iarna.",
+                "en": "A warm cultural retreat to finish your day comfortably as winter darkness falls early."
+              }
+            }
+          ]
+        }
       }
     }
   }

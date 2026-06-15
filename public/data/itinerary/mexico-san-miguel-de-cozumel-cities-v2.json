@@ -137,6 +137,168 @@
         "hu": "A reggel Cozumelben a csillogó vízparton, a történelmi Monunento a Las Águilas-nál kezdődik. A friss tengeri szellő elkíséri a híres búvárközpontokhoz, ahol közelebbről is megismerheti a víz alatti világot.\n\nDélben a város kreatív lelkébe csöppenhet. A Galeria Azul lenyűgöző üvegművészete magával ragadja, és kényelmes nézelődésre hívja a látogatókat.\n\nA délután a mexikói hagyományok jegyében telik. Egy rövid séta elviszi a Los cinco soles színes, élettel teli kézműves boltjába.\n\nKéső délután kényelmesen lezárhatja a napot, miközben a frissen beszerzett kincsekben gyönyörködik és átadja magát a karibi hangulatnak.",
         "ro": "Dimineața în Cozumel începe la apele sclipitoare de lângă istoricul Monunento a Las Águilas. Briza proaspătă vă însoțește spre centrele de scufundări, unde veți descoperi magia lumii subacvatice.\n\nLa prânz, vă scufundați în sufletul creativ al orașului. Galeria Azul vă atrage cu arta sa uimitoare din sticlă și vă invită la o explorare relaxantă a frumosului.\n\nDupă-amiaza este dedicată în întregime tradițiilor mexicane. O scurtă plimbare vă duce la rafturile colorate și pline de viață de la Los cinco soles.\n\nSpre seară, puteți încheia ziua într-o notă relaxantă, admirând comorile achiziționate și savurând atmosfera caraibiană autentică.",
         "en": "Morning in Cozumel starts by the sparkling waters at the historic Monunento a Las Águilas. The fresh breeze accompanies you to renowned dive centers where the magic of the ocean comes alive.\n\nBy midday, you immerse yourself in the city's creative soul. The stunning glass artistry at Galeria Azul provides a perfect, relaxing visual escape.\n\nThe afternoon is entirely dedicated to authentic Mexican culture. A short walk brings you to the vibrant and colorful displays at Los cinco soles.\n\nAs evening approaches, you can gently wind down your day, admiring your newfound local treasures while soaking in the unforgettable Caribbean vibe."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Küstenwind beherrscht den Morgen, halten Sie den Besuch am Denkmal kurz. Bis zum Mittag erreicht tropischer Regen die Stadt, die überdachten Veranden der Tauchschulen bieten Schutz. Verbringen Sie den Nachmittag in der Galeria Azul, wo bunte Glaskunst ablenkt. Am Abend lässt der Regen nach und Sie können unter den trockenen Arkaden von Los Cinco Soles in Ruhe stöbern.",
+            "hu": "Reggel a parton a szél az úr, így a Monumentónál csak egy gyors fotót készítsünk. Délre a trópusi eső eléri a várost, ilyenkor a búvárközpontok fedett teraszai nyújtanak menedéket. Délután a Galéria Azul belső tereiben, a színes üvegek között vészeljük át a zivatart. Estére az eső csendesedik, a Los Cinco Soles árkádjai alatt szárazon válogathatunk a termékek között.",
+            "ro": "Vântul de coastă domină dimineața, deci vizitați Monumentul rapid. Până la prânz, ploaia tropicală lovește orașul, transformând terasele acoperite ale centrelor de scufundări în adăposturi. Petreceți după-amiaza în interiorul Galeria Azul, unde arta sticlei colorate vă va încânta. Seara, ploaia se potolește, permițându-vă să răsfoiți artizanatul sub arcadele uscate de la Los Cinco Soles.",
+            "en": "The coastal wind rules the morning, so keep your visit to the Monument brief. By noon, tropical rain hits the city, making the covered porches of dive centers ideal shelters. Spend the afternoon inside Galeria Azul, where colorful glass art distracts from the storm. As the rain eases in the evening, browse local crafts under the dry, protective arches of Los Cinco Soles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monunento a Las Águilas",
+                "hu": "Monunento a Las Águilas",
+                "ro": "Monunento a Las Águilas",
+                "en": "Monunento a Las Águilas"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Adlerstatuen zwischen den Schauern; die Gischt macht das Pflaster extrem rutschig, tragen Sie daher Schuhe mit sehr gutem Profil für einen sicheren Halt.",
+                "hu": "Tekintse meg a monumentális sas-szobrokat két zápor között; a tengerparti szélben a kövezet rendkívül csúszóssá válhat, így viseljen tapadós talpú cipőt a biztonság érdekében.",
+                "ro": "Admirați statuile de vulturi între reprizele de ploaie; vaporii de apă fac pavajul extrem de alunecos, așa că purtați încălțăminte cu aderență ridicată pentru siguranță.",
+                "en": "View the monumental eagle statues between showers; the coastal spray makes the pavement extremely slippery, so wear shoes with excellent grip for your safety and balance."
+              }
+            },
+            {
+              "name": {
+                "de": "Barefoot dive center",
+                "hu": "Barefoot dive center",
+                "ro": "Barefoot dive center",
+                "en": "Barefoot dive center"
+              },
+              "tip_5lang": {
+                "de": "Die überdachten Bereiche bieten hervorragenden Schutz vor plötzlichen Güssen; beobachten Sie die Kraft des stürmischen Meeres aus einer sicheren und trockenen Entfernung.",
+                "hu": "A búvárközpont fedett részei kiváló menedéket nyújtanak a hirtelen lezúduló zivatar elől; figyelje a viharos tenger erejét egy biztonságos és száraz távolságból.",
+                "ro": "Zonele acoperite ale centrului oferă un adăpost excelent împotriva averselor bruște; observați forța mării agitate de la o distanță sigură și uscată în interior.",
+                "en": "The dive center's covered areas provide excellent shelter from sudden downpours; observe the power of the stormy sea from a safe, dry, and comfortable distance indoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Magic Scuba",
+                "hu": "Blue Magic Scuba",
+                "ro": "Blue Magic Scuba",
+                "en": "Blue Magic Scuba"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Ausrüstung im Trockenen zu prüfen; nutzen Sie die geräumigen Innenräume, um Ihren nächsten Tauchgang trotz des Regenwetters entspannt zu planen.",
+                "hu": "Kiváló hely a felszerelés alapos ellenőrzésére esős időben is; a tágas belső terekben szárazon maradva kényelmesen tervezheti meg a következő izgalmas merülését.",
+                "ro": "Un loc ideal pentru a verifica echipamentul la adăpost; folosiți spațiile interioare generoase pentru a vă planifica următoarea scufundare în ciuda vremii ploioase.",
+                "en": "A perfect spot to check your gear thoroughly while staying dry; use the spacious indoor areas to plan your next underwater adventure comfortably despite the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Azul",
+                "hu": "Galeria Azul",
+                "ro": "Galeria Azul",
+                "en": "Galeria Azul"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort für einen regnerischen Nachmittag, um Glaskunst zu bewundern; das massive Gebäude bietet perfekten Schutz vor dem peitschenden Wind und dem starken Regen.",
+                "hu": "Az esős délután legjobb helyszíne, ahol fedett helyen csodálhatja meg az üvegművészetet; az épület tökéletesen véd a csapkodó szél és a hirtelen zivatarok ellen.",
+                "ro": "Cel mai bun loc pentru o după-amiază ploioasă pentru a admira arta sticlei; clădirea masivă oferă protecție perfectă împotriva vântului puternic și a ploii torențiale.",
+                "en": "The ultimate indoor spot for a rainy afternoon to admire glass art; the sturdy building offers complete protection from the whipping wind and heavy tropical rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Los cinco soles",
+                "hu": "Los cinco soles",
+                "ro": "Los cinco soles",
+                "en": "Los cinco soles"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag in diesem weitläufigen Geschäft; die überdachten Gänge des Innenhofs eignen sich hervorragend für stimmungsvolle Fotos, ohne nass zu werden.",
+                "hu": "Zárja a napot a tágas és fedett üzletben, ahol szárazon válogathat; az udvar fedett folyosói kiválóak fotózáshoz a szakadó eső és a zivatar ideje alatt is.",
+                "ro": "Încheiați ziua în acest magazin spațios și acoperit; coridoarele protejate ale curții sunt excelente pentru fotografii deosebite fără a vă uda în timpul ploii.",
+                "en": "End the day in this spacious and fully covered shop; the covered courtyard walkways are fantastic for taking photos while remaining completely dry during the storm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen macht den Spaziergang zu den Küstenstatuen belebend, eine leichte Jacke ist jedoch wichtig. Mittags ist die Sonne warm genug, um an den Tauchzentren das klare Wasser zu genießen. Den Nachmittag verbringt man am besten im einladenden Licht der Galeria Azul. Da die Sonne gegen 17 Uhr untergeht, endet der Abend im beleuchteten Innenhof von Los Cinco Soles.",
+            "hu": "A friss téli reggelen élénkítő a séta a parti szobrokig, de egy könnyű kardigán elengedhetetlen. Délben a nap sugarai még melengetőek a búvárközpontoknál, ahol a kristálytiszta vizet csodálhatjuk. Délután a Galéria Azul hívogató fényei között tölthetjük az időt. Mivel a nap már 17 óra körül lebukik, az estét a Los Cinco Soles kivilágított udvarán zárjuk.",
+            "ro": "O dimineață răcoroasă de iarnă face plimbarea către statui revigorantă, dar o jachetă ușoară este necesară. La prânz, soarele este destul de cald pentru a admira apa cristalină de lângă mare. După-amiaza este petrecută cel mai bine printre luminile de la Galeria Azul. Deoarece soarele apune devreme la ora 17:00, încheiem seara în curtea luminată de la Los Cinco Soles.",
+            "en": "A crisp winter morning makes the walk to the coastal statues refreshing, but a light jacket is essential. By noon, the sun is still warm enough near the dive centers to enjoy the clear water views. Afternoon is best spent among the inviting lights of Galeria Azul. Since the sun sets early around 5 PM, we wrap up the evening in the lit courtyard of Los Cinco Soles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monunento a Las Águilas",
+                "hu": "Monunento a Las Águilas",
+                "ro": "Monunento a Las Águilas",
+                "en": "Monunento a Las Águilas"
+              },
+              "tip_5lang": {
+                "de": "Wintermorgen an der Küste sind kühl, tragen Sie eine leichte Jacke; das klare Licht ist perfekt für scharfe und detaillierte Fotos der Adlerstatuen direkt am Meer.",
+                "hu": "A téli reggelek hűvösek a parton, így viseljen könnyű dzsekit; a tiszta fények tökéletesek a monumentális sas-szobrok részletgazdag és éles fotózásához a parton.",
+                "ro": "Diminețile de iarnă sunt răcoroase pe coastă, purtați o jachetă ușoară; lumina clară este perfectă pentru fotografii detaliate ale statuilor de vulturi de lângă mare.",
+                "en": "Winter mornings are chilly on the coast, so wear a light jacket; the sharp, clear light is perfect for high-detail photos of the monumental eagle statues by the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Barefoot dive center",
+                "hu": "Barefoot dive center",
+                "ro": "Barefoot dive center",
+                "en": "Barefoot dive center"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser bleibt mild, aber ein warmes Handtuch ist beim Verlassen wichtig; die Sicht unter Wasser ist an Wintertagen oft außergewöhnlich gut und klar.",
+                "hu": "A víz ilyenkor is kellemes, de a partra kijövetelkor a szél miatt jól jön egy meleg törölköző; a téli napokon a víz alatti látótávolság gyakran kristálytiszta.",
+                "ro": "Apa rămâne blândă, dar un prosop cald este esențial la ieșire din cauza brizelor; vizibilitatea subacvatică este adesea excepțională în zilele senine de iarnă.",
+                "en": "The water remains mild, but a warm towel is essential when stepping out due to the breeze; underwater visibility is often exceptionally clear on calm winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Blue Magic Scuba",
+                "hu": "Blue Magic Scuba",
+                "ro": "Blue Magic Scuba",
+                "en": "Blue Magic Scuba"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milden Temperaturen für die Vorbereitung; im Winter ist es weniger überlaufen, was eine sehr persönliche Beratung bei der Tauchgangsplanung ermöglicht.",
+                "hu": "Használja ki az enyhe téli időt a felkészülésre; ilyenkor kevesebb a turista a szigeten, így több figyelmet kaphat a merülés alapos megtervezéséhez az oktatóktól.",
+                "ro": "Profită de temperaturile blânde pentru pregătire; iarna este mai puțin aglomerat pe insulă, permițând o planificare mult mai personalizată a scufundărilor tale.",
+                "en": "Take advantage of the mild winter temperatures for prep; it's less crowded in winter, allowing for a more personalized diving plan with the instructors' full attention."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Azul",
+                "hu": "Galeria Azul",
+                "ro": "Galeria Azul",
+                "en": "Galeria Azul"
+              },
+              "tip_5lang": {
+                "de": "Die warmen Töne der Glaskunst wirken an kurzen Wintertagen besonders einladend; besuchen Sie die Galerie unbedingt vor dem frühen Sonnenuntergang gegen 17 Uhr.",
+                "hu": "Az üvegművészet meleg tónusai a rövid téli napokon különösen hívogatóak; érdemes ide még a korai, délután öt óra körüli naplemente előtt mindenképpen ellátogatni.",
+                "ro": "Tonurile calde ale artei în sticlă sunt foarte primitoare în zilele scurte de iarnă; vizitați galeria înainte de apusul soarelui de la ora 17:00 pentru cele mai bune culori.",
+                "en": "The warm tones of the glass art are especially inviting on short winter days; be sure to visit the gallery before the early sunset at 5 PM for the best experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Los cinco soles",
+                "hu": "Los cinco soles",
+                "ro": "Los cinco soles",
+                "en": "Los cinco soles"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Beleuchtung am Abend; die kühleren Temperaturen machen das Stöbern im Freien viel angenehmer als in der drückenden Hitze des Sommers.",
+                "hu": "Élvezze az esti ünnepi kivilágítást; a hűvösebb téli hőmérséklet sokkal kellemesebbé teszi a nézelődést a kertben, mint a nyári időszak fojtogató hősége.",
+                "ro": "Bucurați-vă de iluminarea festivă de seară; temperaturile mai scăzute fac răsfoirea în aer liber mult mai plăcută decât în căldura sufocantă a verii tropicale.",
+                "en": "Enjoy the festive evening lighting; the cooler winter temperatures make browsing the courtyard much more pleasant than in the stifling heat of the tropical summer."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A nap aktívan indul a Mirador Puerto de Abrigo csodás kilátójából. A friss levegő felkészíti a Hunab Ku misztikus, történelmi atmoszférájának befogadására.\n\nDélben kényelmes tempóban teker végig az utcákon, hogy elérje a Los cinco soles színkavalkádját, majd a történelmi emlékműnél tartson egy rövid pihenőt.\n\nA délután folyamán még jobban elmerülhet a helyi mindennapokban. A Domo Bachilleresnél megtapasztalhatja Cozumel közösségének igazi lüktetésését.\n\nA túra kényelmesen zárul a Cruise Dock Shops forgatagában. A tenger lágy morajlásával a háttérben jólesően gondolhat vissza a nap élményeire.",
         "ro": "Ziua începe activ cu o priveliște magnifică de la Mirador Puerto de Abrigo. Aerul proaspăt vă pregătește pentru atmosfera mistică și istorică de la Hunab Ku.\n\nLa prânz, pedalați liniștit pe străzi și ajungeți la Los cinco soles, o adevărată sărbătoare a simțurilor, urmată de o scurtă oprire istorică la monument.\n\nDupă-amiaza vă aduce mai aproape de viața locală autentică. La Domo Bachilleres veți simți pulsul adevărat al comunității calde din Cozumel.\n\nTurul se încheie relaxant la magazinele terminalului de croazieră. Cu sunetul blând al mării pe fundal, veți putea rememora impresiile minunate ale zilei.",
         "en": "The day starts actively with a magnificent view from the Mirador Puerto de Abrigo. The fresh air beautifully sets up the mystical atmosphere at Hunab Ku.\n\nAround midday, you cycle leisurely through the streets to reach the vibrant Los cinco soles, followed by a brief historical pause at the monument.\n\nThe afternoon draws you deeper into authentic local life. At Domo Bachilleres, you can truly feel the vibrant heartbeat of Cozumel's community.\n\nYour tour concludes comfortably at the bustling Cruise Dock Shops. With the gentle sound of the sea in the background, reflect on a day well spent."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Hafen ist stürmisch, die Sicht auf das Meer aber dramatisch. Mittags bieten die Bäume bei Hunab Ku natürlichen Schutz gegen den Regen. Am Nachmittag radeln wir flink zwischen den Monumenten und finden Schutz unter dem Domo Bachilleres. Der Tag endet sicher in den überdachten Passagen am Kreuzfahrthafen, wo wir trocken rasten können.",
+            "hu": "A reggel a kikötőnél viharos, de a tenger látványa drámai. Délben a Hunab Ku sűrű lombjai természetes esernyőként védenek a zápor elől. Délután gyorsan tekerünk a szobrok között, és a Domo Bachilleres alatt találunk tartós menedéket. A napot a hajóállomás fedett üzletsorai között zárjuk, ahol a kerékpárokat is szárazon parkolhatjuk le.",
+            "ro": "Dimineața în port este furtunoasă, dar vederea mării este dramatică. La prânz, copacii de la Hunab Ku oferă o umbrelă naturală împotriva ploii. După-amiaza pedalăm rapid între monumente și găsim adăpost sub Domo Bachilleres. Ziua se încheie în siguranță în zonele acoperite de la terminal, unde putem lăsa bicicletele la uscat.",
+            "en": "Morning at the harbor is stormy, but the sea views are dramatic. By noon, the thick canopy at Hunab Ku provides a natural umbrella against the rain. In the afternoon, we cycle quickly between monuments and find lasting shelter under Domo Bachilleres. The day ends safely in the covered shopping arcades at the cruise terminal, where bikes stay dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Puerto de Abrigo",
+                "hu": "Mirador Puerto de Abrigo",
+                "ro": "Mirador Puerto de Abrigo",
+                "en": "Mirador Puerto de Abrigo"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist auch bei Regen beeindruckend, aber die Wege sind tückisch rutschig; tragen Sie unbedingt eine windfeste Regenjacke beim Radfahren am Meer.",
+                "hu": "A kilátó szeles esőben is lenyűgöző látványt nyújt, de az utak csúszósak lehetnek; mindenképpen viseljen masszív, szélálló esőkabátot a biztonságos kerékpározáshoz.",
+                "ro": "Punctul de belvedere este impresionant chiar și pe ploaie, dar drumurile sunt înșelător de alunecoase; purtați o pelerină rezistentă la vânt în timp ce pedalați pe coastă.",
+                "en": "The viewpoint is stunning even in the rain, but paths can be treacherously slippery; wear a sturdy, windproof raincoat while cycling along the coast for protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Hunab Ku",
+                "hu": "Hunab Ku",
+                "ro": "Hunab Ku",
+                "en": "Hunab Ku"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die historische Stätte unter dem schützenden Blätterdach; achten Sie beim Abstellen des Rades unbedingt auf den sehr schlammigen und tiefen Untergrund.",
+                "hu": "Fedezze fel a történelmi helyszínt a fák lombjai alatt, melyek némi védelmet nyújtanak; a kerékpár leállításakor fokozottan ügyeljen a felázott, mély és sáros talajra.",
+                "ro": "Explorați situl istoric sub coronamentul protector al copacilor; aveți mare grijă la solul noroios și adânc atunci când parcați bicicleta pentru vizitarea ruinelor.",
+                "en": "Explore the historical site under the protective tree canopy; watch out for very muddy and deep ground when parking your bike to visit the ruins during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Los cinco soles",
+                "hu": "Los cinco soles",
+                "ro": "Los cinco soles",
+                "en": "Los cinco soles"
+              },
+              "tip_5lang": {
+                "de": "Die Arkaden bieten einen trockenen Durchgang für Radfahrer; nutzen Sie die Zeit für eine entspannte Pause, während der stärkste Guss direkt über der Stadt vorüberzieht.",
+                "hu": "Az árkádok száraz átjárót biztosítanak a kerékpárosoknak; használja ki az időt egy pihenőre, amíg a legerősebb zápor elvonul a város és a tengerpart felett.",
+                "ro": "Arcadele oferă o trecere uscată pentru bicicliști; folosiți timpul pentru o pauză relaxată în timp ce trece cea mai puternică rafală de ploaie peste oraș și terminal.",
+                "en": "The arcades provide a dry passage for cyclists; use the time for a relaxed break while the heaviest downpour passes directly over the city and the harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Monunento a Las Águilas",
+                "hu": "Monunento a Las Águilas",
+                "ro": "Monunento a Las Águilas",
+                "en": "Monunento a Las Águilas"
+              },
+              "tip_5lang": {
+                "de": "Nur ein kurzer Stopp für ein Foto im Regen; achten Sie auf tiefe Pfützen auf dem Radweg, die deutlich gefährlicher sein könnten, als sie zunächst für Sie aussehen.",
+                "hu": "Csak egy rövid megálló egy fotóra az esőben; ügyeljen a kerékpárúton lévő tócsákra, amelyek sokkal mélyebbek és veszélyesebbek lehetnek a vártnál a sár miatt.",
+                "ro": "Doar o scurtă oprire pentru o fotografie în ploaie; atenție la bălțile adânci de pe pistă care pot fi mult mai periculoase decât par la prima vedere pe bicicletă.",
+                "en": "A quick stop for a photo in the rain; watch out for deep puddles on the bike path that might be significantly more dangerous than they initially appear to be."
+              }
+            },
+            {
+              "name": {
+                "de": "Domo Bachilleres Cozumel",
+                "hu": "Domo Bachilleres Cozumel",
+                "ro": "Domo Bachilleres Cozumel",
+                "en": "Domo Bachilleres Cozumel"
+              },
+              "tip_5lang": {
+                "de": "Unter der riesigen Kuppel sind Sie und Ihr Rad völlig vor Regen geschützt; ein idealer Ort, um die Karte im Trockenen zu prüfen und kurzzeitig zu verschnaufen.",
+                "hu": "A hatalmas dóm alatt Ön és a kerékpárja is teljesen védve van az esőtől, így zavartalanul élvezheti a kultúrát; ideális hely egy hosszabb pihenőre és a térkép átnézésére.",
+                "ro": "Sub cupola uriașă, tu și bicicleta sunteți complet protejați de ploaie; un loc ideal pentru a verifica harta la adăpost și pentru a vă odihni puțin picioarele.",
+                "en": "Under the massive dome, you and your bike are completely protected from rain; an ideal spot to check your map while dry and take a quick breath between rides."
+              }
+            },
+            {
+              "name": {
+                "de": "Cruise Dock Shops",
+                "hu": "Cruise Dock Shops",
+                "ro": "Cruise Dock Shops",
+                "en": "Cruise Dock Shops"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie sehr vorsichtig auf den glatten Flächen; die überdachten Gehwege ermöglichen es Ihnen, die Läden ohne nassen Fuß zu besuchen und Souvenirs zu wählen.",
+                "hu": "Tekerjen óvatosan a csúszós kövezett felületeken; a fedett járdák lehetővé teszik, hogy száraz lábbal látogassa meg az üzleteket és válogasson az ajándékok között.",
+                "ro": "Pedalați cu mare atenție pe suprafețele pavate alunecoase; trotuarele acoperite vă permit să vizitați magazinele fără a vă uda picioarele în timp ce alegeți suveniruri.",
+                "en": "Ride very carefully on the slippery paved surfaces; the covered walkways allow you to visit the shops without getting your feet wet while browsing for local souvenirs."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenbrise am Hafen ist perfekt für eine Radtour ohne Hitze. Mittags wärmt die Sonne die historischen Stätten auf, was Hunab Ku zum idealen Stopp macht. Am Nachmittag genießen wir die milde Luft bei den Denkmälern. Da es bereits gegen 17 Uhr dunkel wird, beenden wir unsere Tour unter den Lichtern des Hafens bei angenehmer Kühle.",
+            "hu": "A kikötői hűvös reggeli szellő tökéletes egy kerékpártúrához a hőség nélkül. Délben a nap már kellemesen melegíti a történelmi helyszíneket, így Hunab Ku ideális pihenő. Délután a monumentális szobrok körül élvezzük az enyhe időt. Mivel 17 óra körül sötétedik, a túrát a hajóállomás esti fényei alatt, kellemes hűvösben zárjuk.",
+            "ro": "Briza răcoroasă de dimineață din port este perfectă pentru o plimbare cu bicicleta. La prânz, soarele încălzește siturile istorice, făcând din Hunab Ku o oprire ideală. După-amiaza ne bucurăm de aerul blând în jurul monumentelor. Deoarece se întunecă la ora 17:00, încheiem turul sub luminile portului de croazieră în deplin confort.",
+            "en": "The cool morning breeze at the harbor is perfect for a bike ride without the heat. By noon, the sun warms the historical sites, making Hunab Ku an ideal stop. In the afternoon, we enjoy the mild air around the monuments. Since it gets dark around 5 PM, we finish our tour under the lights of the cruise terminal in comfort."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Puerto de Abrigo",
+                "hu": "Mirador Puerto de Abrigo",
+                "ro": "Mirador Puerto de Abrigo",
+                "en": "Mirador Puerto de Abrigo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die klare Winterluft für weite Panoramablicke; tragen Sie beim Radfahren am Wasser unbedingt eine leichte, winddichte Schicht gegen die kühle Meeresbrise.",
+                "hu": "Használja ki a tiszta téli levegőt a távoli panorámához; a vízparti tekeréshez viseljen egy könnyű, szélálló felső réteget a hűvös, tenger felől fújó szél ellen.",
+                "ro": "Profită de aerul limpede de iarnă pentru vederi panoramice vaste; purtați un strat ușor rezistent la vânt în timp ce pedalați pe mal împotriva brizelor răcoroase.",
+                "en": "Take advantage of the clear winter air for distant panoramas; wear a light, windproof layer while cycling along the waterfront against the cool and steady sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Hunab Ku",
+                "hu": "Hunab Ku",
+                "ro": "Hunab Ku",
+                "en": "Hunab Ku"
+              },
+              "tip_5lang": {
+                "de": "Das milde Winterklima macht die Erkundung der Außenanlagen sehr angenehm; die tiefstehende Sonne wirft im Winter dramatische Schatten auf die beeindruckenden Ruinen.",
+                "hu": "Az enyhe téli klíma nagyon kellemessé teszi a szabadtéri felfedezést; az alacsonyan járó nap télen drámai árnyékokat vet a különleges és látványos romokra a területen.",
+                "ro": "Clima blândă de iarnă face explorarea sitului în aer liber foarte plăcută; soarele jos proiectează umbre dramatice peste ruinele impresionante în timpul după-amiezii.",
+                "en": "The mild winter climate makes outdoor exploration very pleasant; the low sun casts dramatic shadows over the impressive ruins during the crisp and sunny afternoons."
+              }
+            },
+            {
+              "name": {
+                "de": "Los cinco soles",
+                "hu": "Los cinco soles",
+                "ro": "Los cinco soles",
+                "en": "Los cinco soles"
+              },
+              "tip_5lang": {
+                "de": "Ein guter Ort, um sich bei einer Pause aufzuwärmen; im Winter sind die Gärten hier besonders gepflegt und bieten eine wunderbare Kulisse für Ihre Urlaubsfotos.",
+                "hu": "Kiváló hely egy pihenőre, ha a parti szellő túl hűvössé válna; télen a kertek itt különösen gondozottak és színpompás hátteret biztosítanak a fotózáshoz a túra alatt.",
+                "ro": "Un loc bun pentru a te încălzi în timpul unei pauze; iarna, grădinile de aici sunt foarte bine întreținute și oferă un decor superb pentru fotografiile de vacanță.",
+                "en": "A good place to warm up during a ride break; in winter, the gardens here are especially well-maintained and provide a wonderful backdrop for your holiday photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Monunento a Las Águilas",
+                "hu": "Monunento a Las Águilas",
+                "ro": "Monunento a Las Águilas",
+                "en": "Monunento a Las Águilas"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht perfekt für Fotos ohne harte Schatten; ziehen Sie nach dem Radeln Ihre Jacke sofort wieder an, um beim Stehen am Meer nicht auszukühlen.",
+                "hu": "A téli napállás tökéletes a fotózáshoz éles árnyékok nélkül; a tekerés utáni megálláskor vegye vissza a kabátját a hirtelen lehűlés elkerülése érdekében a parton.",
+                "ro": "Soarele de iarnă este perfect pentru fotografii fără umbre dure; puneți-vă jacheta înapoi când vă opriți pentru a nu răci din cauza vântului de pe malul mării.",
+                "en": "The winter sun is perfect for photos without harsh shadows; put your jacket back on when stopping by the shore to avoid catching a chill from the constant sea wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Domo Bachilleres Cozumel",
+                "hu": "Domo Bachilleres Cozumel",
+                "ro": "Domo Bachilleres Cozumel",
+                "en": "Domo Bachilleres Cozumel"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden hier oft lokale Veranstaltungen statt; die geschützte Lage unter dem Dom bietet eine angenehme Temperatur für eine kurze Verschnaufpause beim Radeln.",
+                "hu": "Télen gyakran tartanak itt érdekes helyi rendezvényeket; a dóm alatti védett terület kellemes hőmérsékletet és nyugalmat biztosít egy rövid pihenéshez a túra során.",
+                "ro": "Iarna au loc adesea evenimente locale interesante aici; zona protejată de sub dom oferă o temperatură plăcută pentru o scurtă pauză de odihnă în timpul plimbării.",
+                "en": "Interesting local events are often held here in winter; the protected area under the dome provides a pleasant temperature and calm for a short rest during your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Cruise Dock Shops",
+                "hu": "Cruise Dock Shops",
+                "ro": "Cruise Dock Shops",
+                "en": "Cruise Dock Shops"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Atmosphäre bei Sonnenuntergang gegen 17 Uhr; die Beleuchtung der Geschäfte ist im Winter besonders spektakulär und lädt zum Verweilen ein.",
+                "hu": "Élvezze a hangulatos légkört a 17 óra körüli naplementekor; az üzletek kivilágítása télen különösen látványos és hívogató a túra kényelmes befejezéséhez a kikötőben.",
+                "ro": "Bucurați-vă de atmosfera primitoare la apus, în jurul orei 17:00; iluminatul magazinelor este spectaculos iarna și vă invită să petreceți mai mult timp în zonă.",
+                "en": "Enjoy the cozy atmosphere at sunset around 5 PM; the lighting of the shops is particularly spectacular in winter and invites you to stay and enjoy the harbor views."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Autós túrája látványosan indul a Mirador Puerto de Abrigo kilátójából, ahonnan a tenger végtelenje tárul elénk. A kényelmes út hamar a művészi Galeria Azulhoz vezet.\n\nDélben nyugodtan krúzolhat a festői part mentén, miközben rövid fotószünetet tart a történelmi Monunento a Las Águilas-nál.\n\nA kora délután remek alkalmat kínál arra, hogy a Cozumel Bar Hop Tour találkozóhelyénél érdeklődjön az izgalmas szigettúrák felől.\n\nA kirándulás tökéletes lezárást kap a Playa Caletitán. Parkoljon le közvetlenül a vízparton, és élvezze a késő délutáni, meleg karibi napsütést.",
         "ro": "Excursia dumneavoastră cu mașina începe spectaculos la Mirador Puerto de Abrigo, cu vedere la marea deschisă. Drumul confortabil vă duce rapid la artistica Galeria Azul.\n\nLa prânz, conduceți relaxat de-a lungul coastei și faceți o oprire foto la istoricul Monunento a Las Águilas.\n\nÎnceputul după-amiezii oferă o oportunitate excelentă de a afla mai multe despre tururile insulei la punctul de întâlnire Cozumel Bar Hop Tour.\n\nExcursia își găsește sfârșitul perfect la Playa Caletita. Parcați chiar lângă apă și bucurați-vă de soarele cald al Caraibelor în după-amiaza târzie.",
         "en": "Your road trip begins spectacularly at Mirador Puerto de Abrigo with expansive ocean views. The easy drive quickly leads you to the highly artistic Galeria Azul.\n\nAround midday, you cruise relaxedly along the scenic coastline, making a quick photo stop at the historic Monunento a Las Águilas.\n\nThe early afternoon provides a great opportunity to stop by the Cozumel Bar Hop Tour gathering spot to gather ideas for future island adventures.\n\nThe excursion concludes perfectly at Playa Caletita. Park right next to the water and bask in the warm, late afternoon Caribbean sun."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt zum Hafen beginnt bei Regen, aber im Auto bleiben Sie trocken. Mittags bewundern wir die Glaskunst in der Galeria Azul, während draußen der Sturm tobt. Nach einem kurzen Blick auf das Adlerdenkmal führt uns die Tour zu gemütlichen Bars. Der Tag endet am Strand von Caletita, wo wir das tosende Meer sicher durch die Fenster des Restaurants beobachten.",
+            "hu": "A kikötőhöz vezető út esőben kezdődik, de az autóban szárazon maradhatunk. Délben a Galéria Azul üvegcsodáit csodáljuk, miközben kint tombol a vihar. A Monumentóhoz csak egy rövid pillantást vetünk, majd a túra fedett bárok felé vezet. A napot a Playa Caletita partján zárjuk, ahol az étterem ablakából biztonságban nézhetjük a tengert.",
+            "ro": "Drumul spre port începe pe ploaie, dar în mașină rămâneți uscați. La prânz admirăm arta sticlei la Galeria Azul în timp ce afară e furtună. După o scurtă privire la monumentul vulturilor, turul ne duce spre baruri acoperite. Ziua se încheie la Playa Caletita, unde observăm marea agitată în siguranță de la fereastra restaurantului.",
+            "en": "The drive to the harbor starts in the rain, but you stay dry inside the car. By noon, we admire glass art at Galeria Azul while the storm rages outside. After a brief look at the eagle monument, the tour leads to cozy covered bars. The day ends at Playa Caletita, where we watch the crashing waves safely through the restaurant's large windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Puerto de Abrigo",
+                "hu": "Mirador Puerto de Abrigo",
+                "ro": "Mirador Puerto de Abrigo",
+                "en": "Mirador Puerto de Abrigo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Aussicht direkt aus dem Auto; parken Sie unbedingt auf befestigtem Grund, um das Festfahren im Matsch und die Verschmutzung des Fahrzeugs zu vermeiden.",
+                "hu": "Élvezze a kilátást közvetlenül az autóból, ha túl erősen esne az eső; parkoljon aszfaltozott részen a sár és az elakadás elkerülése érdekében a tengerparti úton.",
+                "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă torențial; parcați pe teren stabilizat pentru a evita noroiul și riscul de a rămâne blocat pe drumul de coastă.",
+                "en": "Enjoy the view directly from the car if it rains too hard; be sure to park on paved ground to avoid mud and the risk of getting stuck on the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Azul",
+                "hu": "Galeria Azul",
+                "ro": "Galeria Azul",
+                "en": "Galeria Azul"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp bei Regen, da der Eingang nah an den Parkplätzen liegt; die bunten Kunstwerke hellen auch die trübsten und grauesten Regentage auf der Insel auf.",
+                "hu": "Ideális megálló esőben, mivel a bejárat közel van a parkolóhelyekhez; a színes műalkotások a legborúsabb és legszürkébb esős napokat is azonnal feldobják a szigeten.",
+                "ro": "O oprire ideală pe ploaie, deoarece intrarea este aproape de locurile de parcare; arta colorată înveselește chiar și cele mai mohorâte zile ploioase de pe insulă.",
+                "en": "An ideal stop in the rain as the entrance is very close to parking; the colorful glass artworks brighten up even the gloomiest and greyest rainy days on the island."
+              }
+            },
+            {
+              "name": {
+                "de": "Monunento a Las Águilas",
+                "hu": "Monunento a Las Águilas",
+                "ro": "Monunento a Las Águilas",
+                "en": "Monunento a Las Águilas"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie eine Regenpause für ein schnelles Foto; parken Sie so nah wie möglich an der Statue für eine sehr schnelle Rückkehr zum schützenden und trockenen Fahrzeug.",
+                "hu": "Használja ki az esőmentes pillanatokat egy gyors fotóra; parkoljon a szoborhoz a lehető legközelebb a gyors és száraz visszatéréshez a viharos szélben is az autóhoz.",
+                "ro": "Profită de o pauză de ploaie pentru o fotografie rapidă; parcați cât mai aproape de statuie pentru a reveni rapid la mașină în caz că ploaia reîncepe brusc.",
+                "en": "Take advantage of a break in the rain for a quick photo; park as close to the statue as possible for a very fast return to the car if the downpour starts again."
+              }
+            },
+            {
+              "name": {
+                "de": "Cozumel Bar Hop Tour",
+                "hu": "Cozumel Bar Hop Tour",
+                "ro": "Cozumel Bar Hop Tour",
+                "en": "Cozumel Bar Hop Tour"
+              },
+              "tip_5lang": {
+                "de": "Die meisten Stopps bieten überdachte Parkplätze oder sehr kurze Wege zum Eingang; genießen Sie die tropische Atmosphäre im sicheren und trockenen Inneren der Bars.",
+                "hu": "A legtöbb megálló fedett parkolót vagy nagyon rövid bejáratot kínál; élvezze a trópusi hangulatot a bárok biztonságos és száraz védelmében a tengerpart mentén.",
+                "ro": "Majoritatea opririlor oferă parcare acoperită sau acces foarte scurt; bucurați-vă de atmosfera tropicală la adăpost în interiorul barurilor de-a lungul coastei.",
+                "en": "Most stops offer covered parking or very short access to the entrance; enjoy the tropical atmosphere while staying dry and safe inside the bars along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Caletita",
+                "hu": "Playa Caletita",
+                "ro": "Playa Caletita",
+                "en": "Playa Caletita"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie das Meer direkt vom Auto aus sehen können; das Restaurant bietet einen sicheren Hafen bei stürmischem und ungemütlichem Küstenwetter.",
+                "hu": "Parkoljon úgy, hogy az autóból is lássa a tengert; az étterem belső része biztonságos menedéket nyújt a viharos parti szélben és a szakadó trópusi esőben is a parton.",
+                "ro": "Parcați astfel încât să puteți vedea marea direct din mașină; interiorul restaurantului oferă un adăpost sigur împotriva vântului și a ploii torențiale de pe coastă.",
+                "en": "Park so you can see the sea directly from your car; the restaurant's interior provides a safe haven from the stormy coastal wind and heavy rain while you watch the waves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Fahrt entlang der Küste ist bei milden Wintertemperaturen herrlich. Mittags leuchtet die Galeria Azul im klaren Winterlicht besonders schön. Nach dem Besuch der Denkmäler führt die Tour zu den besten Bars. Da die Sonne bereits um 17 Uhr untergeht, genießen wir das goldene Licht am Strand von Caletita, bevor wir den Tag gemütlich beenden.",
+            "hu": "A reggeli autózás a part mentén az enyhe téli hőmérsékletben csodálatos. Délben a Galéria Azul üvegei különösen szépen csillognak a tiszta téli fényben. A Monumentó látogatása után a túra a sziget legjobb bárjaihoz vezet. Mivel a nap már 17 órakor lebukik, a Playa Caletita partján élvezzük az utolsó aranysugarakat a nap végén.",
+            "ro": "Drumul de dimineață de-a lungul coastei este minunat la temperaturile blânde de iarnă. La prânz, Galeria Azul strălucește în lumina clară. După vizitarea monumentelor, turul ne duce la cele mai bune baruri de pe insulă. Deoarece soarele apune deja la ora 17:00, ne bucurăm de lumina aurie la Playa Caletita la sfârșitul zilei.",
+            "en": "The morning drive along the coast is wonderful in the mild winter temperatures. By noon, Galeria Azul shines beautifully in the clear winter light. After visiting the monuments, the tour leads to the island's best bars. Since the sun sets by 5 PM, we enjoy the golden light at Playa Caletita before ending the day cozy and relaxed."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mirador Puerto de Abrigo",
+                "hu": "Mirador Puerto de Abrigo",
+                "ro": "Mirador Puerto de Abrigo",
+                "en": "Mirador Puerto de Abrigo"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft besser; nutzen Sie die Heizung des Autos kurzzeitig, falls der morgendliche Seewind auf dem Parkplatz zu kühl für Sie sein sollte.",
+                "hu": "A kilátás télen gyakran tisztább, mint nyáron; használja az autó fűtését, ha a reggeli tengerparti szél a parkolóban túl hűvösnek bizonyulna a kiszálláshoz.",
+                "ro": "Vizibilitatea la distanță este adesea mai bună iarna; folosiți încălzirea mașinii dacă briza de dimineață de pe mal este prea rece pentru a coborî confortabil.",
+                "en": "Distanced visibility is often better in winter than summer; use the car's heater briefly if the morning sea breeze feels too chilly for stepping out comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Galeria Azul",
+                "hu": "Galeria Azul",
+                "ro": "Galeria Azul",
+                "en": "Galeria Azul"
+              },
+              "tip_5lang": {
+                "de": "Das warme Ambiente im Inneren ist im Winter besonders einladend; parken Sie direkt vor dem Gebäude, um die milde und frische Brise nach dem Besuch zu genießen.",
+                "hu": "A belső tér meleg hangulata télen különösen hívogató; parkoljon közvetlenül az épület előtt, hogy kihasználja az enyhe és friss szellőt a látogatás után a parton.",
+                "ro": "Ambianța caldă din interior este foarte primitoare iarna; parcați chiar în fața clădirii pentru a profita de briza blândă și proaspătă de după vizitarea galeriei.",
+                "en": "The warm indoor ambiance is especially inviting in winter; park directly in front of the building to enjoy the mild and fresh breeze after your gallery visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Monunento a Las Águilas",
+                "hu": "Monunento a Las Águilas",
+                "ro": "Monunento a Las Águilas",
+                "en": "Monunento a Las Águilas"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne sorgt für dramatisches Licht an den Adlerstatuen; eine leichte Jacke schützt Sie effektiv vor dem hűvösen Wind direkt am Wasser.",
+                "hu": "Az alacsonyan járó téli nap drámai fényt vet a sas-szobrokra; egy könnyű dzseki hatékonyan megvédi Önt a hűvös, tenger felől fújó széltől a szobrok megtekintésekor.",
+                "ro": "Soarele jos de iarnă oferă o lumină dramatică statuilor; o jachetă ușoară vă va proteja eficient de vântul răcoros care bate dinspre mare în timp ce faceți poze.",
+                "en": "The low winter sun provides dramatic light on the eagle statues; a light jacket will protect you effectively from the cool sea wind while you take photos outdoors."
+              }
+            },
+            {
+              "name": {
+                "de": "Cozumel Bar Hop Tour",
+                "hu": "Cozumel Bar Hop Tour",
+                "ro": "Cozumel Bar Hop Tour",
+                "en": "Cozumel Bar Hop Tour"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden Sie leichter Parkplätze; genießen Sie Ihre kühlen Getränke bei den moderaten Außentemperaturen, die das Hop-Erlebnis deutlich angenehmer machen.",
+                "hu": "Télen sokkal könnyebb parkolóhelyet találni a népszerű megállóknál; élvezze a hűvös italokat a mérsékelt külső hőmérséklet mellett, ami kellemesebbé teszi a túrát.",
+                "ro": "Iarna este mai ușor să găsești locuri de parcare; bucurați-vă de băuturi reci la temperaturi exterioare moderate, ceea ce face experiența turului mult mai plăcută.",
+                "en": "In winter, it's easier to find parking at popular stops; enjoy your cool drinks while the moderate outside temperatures make the hop experience much more pleasant."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa Caletita",
+                "hu": "Playa Caletita",
+                "ro": "Playa Caletita",
+                "en": "Playa Caletita"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17 Uhr direkt vom Strand aus; die intensiven Winterfarben am Himmel sind an diesem Küstenabschnitt unübertroffen.",
+                "hu": "Nézze meg a korai, 17 óra körüli naplementét közvetlenül a partról; az intenzív téli égbolt színei ezen a parti szakaszon semmivel sem összehasonlíthatóak.",
+                "ro": "Urmăriți apusul timpuriu de la ora 17:00 direct de pe plajă; culorile intense ale cerului de iarnă pe această porțiune de coastă sunt cu adevărat de neegalat.",
+                "en": "Watch the early sunset around 5 PM directly from the beach; the intense winter colors in the sky along this coastal stretch are truly unmatched and breathtaking."
+              }
+            }
+          ]
+        }
       }
     }
   }

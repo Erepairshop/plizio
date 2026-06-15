@@ -183,6 +183,224 @@
         "hu": "Morning: Kezdje a napot Plougonvelin szívében az elegáns Église Saint-Gwenael megcsodálásával, majd sétáljon a part felé. A reggeli szellő az ősi Nécropole néolithique-hez vezeti, elmerülve Bretagne gazdag történelmében.\nMidday: Folytassa parti sétáját a Batterie haute de 270mm felé. A fénypont a Fort de Bertheaume szigeti erődje, amely lélegzetelállító kilátást és tengerészeti történeteket kínál a déli felfedezéshez.\nAfternoon: Lassítson a tempón a Plage du Perzel homokján egy jól megérdemelt pihenőre. Egy rövid séta elvezeti a csendesebb plage des trois curés-hez, ahol a hullámok nyugodt aláfestést nyújtanak a délutánhoz.\nEvening: Zárja a sétát a tágas Plage du Trez-Hir-en. Élvezze a halványuló fényt az óceán felett, talán egy tengerparti finomsággal kísérve, miközben a nap lenyugszik a gyönyörű breton tengerparton.",
         "ro": "Morning: Începeți în inima orașului Plougonvelin cu biserica Église Saint-Gwenael, apoi mergeți spre coastă. Briza dimineții vă ghidează către Nécropole néolithique, scufundându-vă în istoria bogată a Bretaniei.\nMidday: Continuați plimbarea de coastă spre Batterie haute de 270mm. Atracția principală este Fort de Bertheaume, o fortăreață insulară ce oferă vederi uluitoare și povești maritime pentru explorarea de la prânz.\nAfternoon: Relaxați-vă ritmul la Plage du Perzel pentru o pauză binemeritată. O scurtă plimbare vă duce la liniștita plage des trois curés, unde valurile ritmice oferă o coloană sonoră senină pentru după-amiază.\nEvening: Încheiați-vă călătoria pe jos la Plage du Trez-Hir. Bucurați-vă de lumina slabă de peste ocean, poate savurând o gustare pe malul mării în timp ce soarele apune pe frumoasa coastă bretonă.",
         "en": "Morning: Start in the heart of Plougonvelin, admiring the elegant Église Saint-Gwenael before walking towards the coastline. The morning breeze guides you to the ancient Nécropole néolithique, immersing you in Brittany's rich, layered history.\nMidday: Continue your coastal walk to discover the formidable Batterie haute de 270mm. The highlight awaits at the Fort de Bertheaume, an island fortress offering breathtaking views and fascinating maritime tales to fuel your midday exploration.\nAfternoon: Relax your pace as you descend to the Plage du Perzel for a well-deserved rest. A short stroll leads to the quieter plage des trois curés, where the rhythmic waves provide a serene soundtrack for a peaceful afternoon by the sea.\nEvening: Conclude your walking journey at the expansive Plage du Trez-Hir. Enjoy the fading light over the ocean, perhaps grabbing a seaside treat as the sun sets, wrapping up a perfect day of exploration on the beautiful Breton coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag geschützt in der Saint-Gwenael Kirche. Der Weg zur Nekropole kann bei Regen schlammig sein, tragen Sie also festes Schuhwerk. Mittags bieten die historischen Batterien und das Fort de Bertheaume guten Unterschlupf vor den Schauern. Am Nachmittag genießen Sie die raue, regnerische Atmosphäre an den Stränden, bevor Sie den Tag in der Nähe der Küste gemütlich ausklingen lassen.",
+            "hu": "Kezdje a napot a Saint-Gwenael templom védelmében. A nekropoliszhoz vezető út esőben sáros lehet, így vízálló cipő ajánlott. Délben az erődítmények és a Fort de Bertheaume belső terei nyújtanak menedéket a záporok elől. Délután élvezze a drámai tengerparti látványt a Trez-Hir strandon, majd a korai sötétedés előtt keressen egy meleg helyet a faluban.",
+            "ro": "Începeți ziua la adăpost în Biserica Saint-Gwenael. Drumul spre necropolă poate fi noroios pe ploaie, deci purtați încălțăminte impermeabilă. La prânz, bateriile istorice și Fort de Bertheaume oferă refugiu împotriva averselor. După-amiaza, admirați atmosfera dramatică a plajelor sub cerul cenușiu, înainte de a încheia ziua într-un loc primitor lângă țărm.",
+            "en": "Start your day sheltered inside Saint-Gwenael Church. The path to the necropolis can be muddy in the rain, so waterproof boots are recommended. At midday, the historical batteries and Fort de Bertheaume provide good cover from the showers. In the afternoon, enjoy the moody coastal atmosphere at the beaches before finishing your walk as the light fades."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Gwenael",
+                "hu": "Église Saint-Gwenael",
+                "ro": "Église Saint-Gwenael",
+                "en": "Église Saint-Gwenael"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur im Trockenen und nutzen Sie die Stille für eine besinnliche Pause, während draußen der Regen auf die alten Fenster prasselt.",
+                "hu": "Csodálja meg a belső építészetet szárazon, és használja ki a csendet egy békés pihenőre, miközben az eső a régi ablakokon kopog.",
+                "ro": "Admirați arhitectura interioară la uscat și profitați de liniște pentru o pauză relaxantă, în timp ce ploaia bate în ferestrele vechi.",
+                "en": "Admire the interior architecture while staying dry, and use the silence for a peaceful break as the rain taps against the ancient windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Nécropole néolithique",
+                "hu": "Nécropole néolithique",
+                "ro": "Nécropole néolithique",
+                "en": "Nécropole néolithique"
+              },
+              "tip_5lang": {
+                "de": "Die Steine wirken im Regen besonders mystisch, aber achten Sie auf den rutschigen Boden und bleiben Sie für besseren Halt auf den markierten Pfaden.",
+                "hu": "A kövek az esőben különösen misztikusnak tűnnek, de ügyeljen a csúszós talajra, és a jobb tapadás érdekében maradjon a kijelölt ösvényeken.",
+                "ro": "Pietrele par deosebit de mistice în ploaie, dar aveți grijă la solul alunecos și rămâneți pe potecile marcate pentru o aderență mai bună.",
+                "en": "The stones look particularly mystical in the rain, but watch out for slippery ground and stay on the marked paths for better footing."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie haute de 270mm",
+                "hu": "Batterie haute de 270mm",
+                "ro": "Batterie haute de 270mm",
+                "en": "Batterie haute de 270mm"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Betonbunker als natürlichen Regenschutz und erkunden Sie die militärische Geschichte, ohne nass zu werden.",
+                "hu": "Használja a masszív betonbunkereket természetes esővédőként, és fedezze fel a hadtörténetet anélkül, hogy megázna a szabad ég alatt.",
+                "ro": "Folosiți buncărele masive de beton ca protecție naturală împotriva ploii și explorați istoria militară fără a vă uda prea tare.",
+                "en": "Use the massive concrete bunkers as natural rain cover and explore the military history without getting soaked in the open air."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Bertheaume",
+                "hu": "Fort de Bertheaume",
+                "ro": "Fort de Bertheaume",
+                "en": "Fort de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Der Felsenweg kann bei Nässe extrem glatt sein; halten Sie sich unbedingt an den Geländern fest und genießen Sie die tosende Gischt unter Ihnen.",
+                "hu": "A sziklaút nedvesen rendkívül csúszós lehet; mindenképpen kapaszkodjon a korlátokba, és élvezze az Ön alatt tajtékzó hullámokat az esőben.",
+                "ro": "Poteca de pe stâncă poate fi extrem de alunecoasă când este udă; țineți-vă bine de balustrade și admirați valurile înspumate de sub voi.",
+                "en": "The rock path can be extremely slippery when wet; be sure to hold onto the railings and enjoy the churning foam of the waves below you."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Perzel ou de Bertheaume",
+                "hu": "Plage du Perzel ou de Bertheaume",
+                "ro": "Plage du Perzel ou de Bertheaume",
+                "en": "Plage du Perzel ou de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Strandspaziergang lohnt sich für die frische Meeresluft; suchen Sie danach Schutz unter den Felsvorsprüngen am Rand der Bucht.",
+                "hu": "Egy rövid strandparti séta megéri a friss tengeri levegőért; utána keressen menedéket az öböl szélén található sziklakiszögellések alatt.",
+                "ro": "O scurtă plimbare pe plajă merită pentru aerul curat de mare; apoi căutați adăpost sub stâncile de la marginea golfului.",
+                "en": "A short beach walk is worth it for the fresh sea air; afterwards, seek shelter under the rock overhangs at the edge of the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "plage des trois curés",
+                "hu": "plage des trois curés",
+                "ro": "plage des trois curés",
+                "en": "plage des trois curés"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie der Regen auf die Meeresoberfläche trifft, und nehmen Sie einen stabilen Regenschirm mit, da der Wind hier stark wehen kann.",
+                "hu": "Figyelje meg, hogyan csapódik az eső a tenger felszínére, és hozzon magával stabil esernyőt, mert a szél itt nagyon erősen fújhat.",
+                "ro": "Observați cum ploaia lovește suprafața mării și aduceți o umbrelă rezistentă, deoarece vântul poate sufla foarte puternic aici.",
+                "en": "Watch how the rain hits the sea surface and bring a sturdy umbrella, as the wind can blow quite strongly in this exposed spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Trez-Hir",
+                "hu": "Plage du Trez-Hir",
+                "ro": "Plage du Trez-Hir",
+                "en": "Plage du Trez-Hir"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour in einem der nahen Cafés, um sich bei einem heißen Getränk aufzuwärmen und den Blick auf das graue Meer zu genießen.",
+                "hu": "Fejezze be a túrát a közeli kávézók egyikében, melegedjen fel egy forró itallal, és élvezze a kilátást a szürke, viharos tengerre.",
+                "ro": "Încheiați turul într-una dintre cafenelele din apropiere pentru a vă încălzi cu o băutură fierbinte și a admira marea cenușie.",
+                "en": "End the tour in one of the nearby cafes to warm up with a hot drink and enjoy the view of the gray, stormy sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie die frische Winterluft in Plougonvelin. Der Morgen beginnt ruhig an der Kirche, gefolgt von einer historischen Entdeckungstour. Da es bereits gegen 17:00 Uhr dunkel wird, sollten Sie den Nachmittag am Fort de Bertheaume verbringen, wenn das Licht am dramatischsten ist. Die leeren Strände bieten eine friedliche Stille, die ideal für einen klaren Winterausklang ist.",
+            "hu": "Élje át a friss téli levegőt Plougonvelinben. A reggel csendesen indul a templomnál, majd történelmi felfedezőút következik. Mivel 17:00 körül sötétedik, a délutánt töltse a Fort de Bertheaume-nál, amikor a fények a legdrámaibbak. Az üres strandok békés nyugalmat árasztanak, ami ideális egy tiszta téli nap lezárásához.",
+            "ro": "Experimentați aerul proaspăt de iarnă în Plougonvelin. Dimineața începe liniștit la biserică, urmată de o explorare istorică. Deoarece se întunecă în jurul orei 17:00, petreceți după-amiaza la Fort de Bertheaume când lumina este cea mai dramatică. Plajele pustii oferă o liniște deplină, ideală pentru finalul unei zile senine de iarnă.",
+            "en": "Experience the crisp winter air in Plougonvelin. The morning starts quietly at the church, followed by a historical exploration. Since it gets dark around 17:00, spend the afternoon at Fort de Bertheaume when the light is most dramatic. The empty beaches offer a peaceful silence, ideal for ending a clear winter day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Gwenael",
+                "hu": "Église Saint-Gwenael",
+                "ro": "Église Saint-Gwenael",
+                "en": "Église Saint-Gwenael"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet im Winter eine andächtige Stille; tragen Sie warme Schichten, da es in den alten Steinmauern recht kühl sein kann.",
+                "hu": "A templom télen áhítatos csendet áraszt; viseljen meleg rétegeket, mert a régi kőfalak között meglehetősen hűvös lehet.",
+                "ro": "Biserica oferă o liniște pioasă iarna; purtați haine groase, deoarece în interiorul zidurilor vechi de piatră poate fi destul de frig.",
+                "en": "The church offers a prayerful silence in winter; wear warm layers as it can be quite chilly inside the ancient stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Nécropole néolithique",
+                "hu": "Nécropole néolithique",
+                "ro": "Nécropole néolithique",
+                "en": "Nécropole néolithique"
+              },
+              "tip_5lang": {
+                "de": "Das flache Winterlicht hebt die Konturen der antiken Steine besonders hervor; ideal für stimmungsvolle Fotos ohne Touristenmassen.",
+                "hu": "Az alacsony téli fény különösen kiemeli az ősi kövek körvonalait; ideális hangulatos fotókhoz a turistaáradat nélkül.",
+                "ro": "Lumina slabă de iarnă evidențiază contururile pietrelor antice; ideal pentru fotografii atmosferice fără mulțimile de turiști.",
+                "en": "The low winter light highlights the contours of the ancient stones; ideal for atmospheric photos without the tourist crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie haute de 270mm",
+                "hu": "Batterie haute de 270mm",
+                "ro": "Batterie haute de 270mm",
+                "en": "Batterie haute de 270mm"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Meer; ein windgeschützter Platz hinter den Mauern schützt vor der kalten Brise.",
+                "hu": "Élvezze a tágas kilátást a téli tengerre; a falak mögötti szélvédett helyek megóvják a jeges fuvallatoktól a nézelődés közben.",
+                "ro": "Bucurați-vă de vederea largă asupra mării de iarnă; un loc ferit de vânt în spatele zidurilor vă va proteja de briza rece.",
+                "en": "Enjoy the wide view over the winter sea; a spot sheltered from the wind behind the walls will protect you from the cold breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Bertheaume",
+                "hu": "Fort de Bertheaume",
+                "ro": "Fort de Bertheaume",
+                "en": "Fort de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Fort früh am Nachmittag, um die goldene Stunde vor Sonnenuntergang für einen spektakulären Blick auf den Ozean zu nutzen.",
+                "hu": "Látogassa meg az erődöt kora délután, hogy kihasználja a naplemente előtti aranyórát a látványos óceáni kilátáshoz.",
+                "ro": "Vizitați fortul la începutul după-amiezii pentru a profita de ora de aur înainte de apus pentru o vedere spectaculoasă la ocean.",
+                "en": "Visit the fort early in the afternoon to take advantage of the golden hour before sunset for a spectacular view of the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Perzel ou de Bertheaume",
+                "hu": "Plage du Perzel ou de Bertheaume",
+                "ro": "Plage du Perzel ou de Bertheaume",
+                "en": "Plage du Perzel ou de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter fast menschenleer; ein perfekter Ort für einen meditativen Spaziergang, um den Kopf in der Kälte frei zu bekommen.",
+                "hu": "A strand télen szinte néptelen; tökéletes hely egy meditatív sétához, hogy a hidegben felfrissülve kitisztítsa a fejét.",
+                "ro": "Plaja este aproape pustie iarna; un loc perfect pentru o plimbare meditativă pentru a vă limpezi mintea în aerul rece.",
+                "en": "The beach is almost deserted in winter; a perfect place for a meditative walk to clear your head in the refreshing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "plage des trois curés",
+                "hu": "plage des trois curés",
+                "ro": "plage des trois curés",
+                "en": "plage des trois curés"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf den Zugangswegen; festes Schuhwerk mit Profil ist für diesen kleinen Klippenabstieg im Winter ratsam.",
+                "hu": "Ügyeljen a fagyott foltokra a bevezető utakon; a téli sziklaoldali lejutáshoz mindenképpen bordázott talpú, stabil cipőt válasszon.",
+                "ro": "Aveți grijă la porțiunile înghețate de pe căile de acces; încălțămintea stabilă cu talpă profilată este recomandată pentru coborâre.",
+                "en": "Watch out for frozen patches on the access paths; sturdy boots with good grip are advisable for this small cliff descent in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Trez-Hir",
+                "hu": "Plage du Trez-Hir",
+                "ro": "Plage du Trez-Hir",
+                "en": "Plage du Trez-Hir"
+              },
+              "tip_5lang": {
+                "de": "Wenn die Sonne untergeht, bietet die Promenade ein schönes Winterpanorama; wärmen Sie danach Ihre Hände an einem heißen Tee in der Nähe.",
+                "hu": "Amikor lemegy a nap, a sétány gyönyörű téli panorámát nyújt; utána melegítse fel kezeit egy forró teával a közeli helyek egyikén.",
+                "ro": "Când soarele apune, promenada oferă o panoramă frumoasă de iarnă; apoi încălziți-vă mâinile cu un ceai fierbinte în apropiere.",
+                "en": "As the sun sets, the promenade offers a beautiful winter panorama; afterwards, warm your hands with a hot tea in a nearby place."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -383,6 +601,252 @@
         "hu": "Morning: Kezdje a kerékpáros kalandot a Centre Kéraudy-nál, majd tekerjen el az Église Saint-Gwenael mellett. Irány a part, ahol megcsodálhatja a Vieil Amer Balise Nord-ot a reggeli égbolt hátterében.\nMidday: Kerékpározzon a drámai partvonal mentén a Batterie Basse felé. Zárja le a biciklit, és fedezze fel gyalog a Fort de Bertheaume-ot, élvezve a zord breton táj panorámáját.\nAfternoon: Tekerjen a Plage du Perzel-hez egy pihentető szünetre, majd guruljon a parti ösvényeken a nyüzsgő Plage du Trez-Hir-ig. A frissítő tengeri szellő igazán élénkítővé teszi a délutánt.\nEvening: Zárja a napot egy festői túrával a szárazföld belseje felé, a Jardin du Vaéré-hez. Sétáljon a történelmi kertekben naplementekor, felidézve a dinamikus kerékpáros túra emlékeit.",
         "ro": "Morning: Începeți aventura cu bicicleta la Centre Kéraudy, apoi mergeți pe lângă Église Saint-Gwenael. Pedalați spre coastă pentru a vedea Vieil Amer Balise Nord pe cerul dimineții.\nMidday: Pedalați de-a lungul coastei dramatice spre Batterie Basse. Blocați-vă bicicleta pentru a descoperi impresionantul Fort de Bertheaume pe jos, bucurându-vă de priveliștile peisajului aspru.\nAfternoon: Mergeți spre Plage du Perzel pentru o pauză relaxantă, apoi coborâți pe potecile de coastă spre Plage du Trez-Hir. Briza mării face ca plimbarea de după-amiază să fie revigorantă.\nEvening: Încheiați ziua cu o plimbare pitorească spre interiorul orașului, spre Jardin du Vaéré. Plimbați-vă prin grădinile istorice la apus, reflectând la un tur dinamic prin Plougonvelin.",
         "en": "Morning: Kick off your biking adventure at the Centre Kéraudy, then ride through town past the historic Église Saint-Gwenael. Pedal towards the coast to spot the Vieil Amer Balise Nord against the morning sky.\nMidday: Cycle along the dramatic shoreline to explore the Batterie Basse de 95mm. Lock your bike to discover the impressive Fort de Bertheaume on foot, enjoying sweeping views of the rugged Breton landscape.\nAfternoon: Saddle up and ride to the Plage du Perzel for a relaxing break, then cruise along the coastal paths to the lively Plage du Trez-Hir. The refreshing sea breeze makes the afternoon ride truly invigorating.\nEvening: Conclude your day with a scenic inland ride to the lush Jardin du Vaéré. Stroll through the historic gardens as the sun sets, reflecting on a dynamic and fulfilling biking tour around Plougonvelin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf nassen Straßen. Starten Sie im Centre Kéraudy, das Schutz und Kultur bietet. Fahren Sie langsam zur Kirche und zu den Batterien, da die Küstenwege rutschig sein können. Kurze Etappen zwischen den Sehenswürdigkeiten halten Sie in Bewegung, während das Fort de Bertheaume eine längere, trockene Pause ermöglicht, bevor es zum Trez-Hir geht.",
+            "hu": "Egy esős kerékpártúra óvatosságot igényel a vizes utakon. Kezdjen a Centre Kéraudy-ban, amely védelmet és kultúrát kínál. Tekerjen lassan a templomhoz és az erődökhöz, mert a parti utak csúszósak lehetnek. A látnivalók közötti rövid szakaszok mozgásban tartják, míg a Fort de Bertheaume hosszabb, száraz pihenőt tesz lehetővé.",
+            "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile ude. Începeți la Centre Kéraudy, care oferă adăpost și cultură. Pedalați încet spre biserică și baterii, deoarece drumurile de coastă pot fi alunecoase. Etapele scurte între obiective vă mențin în mișcare, în timp ce Fort de Bertheaume permite o pauză uscată.",
+            "en": "A bike tour in the rain requires caution on wet roads. Start at Centre Kéraudy, which offers shelter and culture. Cycle slowly to the church and batteries, as coastal paths can be slippery. Short stages between sights keep you moving, while Fort de Bertheaume allows for a longer, dry break before heading to Trez-Hir."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centre Kéraudy",
+                "hu": "Centre Kéraudy",
+                "ro": "Centre Kéraudy",
+                "en": "Centre Kéraudy"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen modernen Kulturraum als perfekten Startpunkt, um sich über lokale Veranstaltungen zu informieren, während Sie das Ende eines Schauers abwarten.",
+                "hu": "Használja ezt a modern kulturális teret tökéletes kiindulópontként, ahol tájékozódhat a helyi eseményekről, amíg megvárja egy zápor végét.",
+                "ro": "Folosiți acest spațiu cultural modern ca punct de plecare perfect pentru a afla despre evenimentele locale în timp ce așteptați oprirea ploii.",
+                "en": "Use this modern cultural space as a perfect starting point to find out about local events while you wait for a rain shower to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gwenael",
+                "hu": "Église Saint-Gwenael",
+                "ro": "Église Saint-Gwenael",
+                "en": "Église Saint-Gwenael"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad sicher unter einem Vordach und treten Sie ein, um die Ruhe der Kirche als trockenen Zwischenstopp auf Ihrer Tour zu genießen.",
+                "hu": "Parkolja le kerékpárját biztonságban egy előtető alatt, és lépjen be, hogy élvezze a templom nyugalmát száraz pihenőként a túra során.",
+                "ro": "Parcați bicicleta în siguranță sub un baldachin și intrați pentru a vă bucura de liniștea bisericii ca o oprire uscată în turul dumneavoastră.",
+                "en": "Park your bike safely under an overhang and step inside to enjoy the church's tranquility as a dry stopover on your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieil Amer Balise Nord",
+                "hu": "Vieil Amer Balise Nord",
+                "ro": "Vieil Amer Balise Nord",
+                "en": "Vieil Amer Balise Nord"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie nur ein schnelles Foto von dieser Landmarke; die salzige Gischt im Regen kann das Fahrradmetall angreifen, wischen Sie es später ab.",
+                "hu": "Csak egy gyors fotót készítsen erről a jelzőről; az esős sós permet kikezdheti a bicikli fémrészeit, ezért később törölje át a vázat.",
+                "ro": "Faceți doar o fotografie rapidă acestui punct de reper; vaporii sărați pe ploaie pot afecta metalul bicicletei, ștergeți-l mai târziu.",
+                "en": "Just take a quick photo of this landmark; the salty spray in the rain can affect bike metal, so be sure to wipe down the frame later."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie Basse de 95mm",
+                "hu": "Batterie Basse de 95mm",
+                "ro": "Batterie Basse de 95mm",
+                "en": "Batterie Basse de 95mm"
+              },
+              "tip_5lang": {
+                "de": "Die Bunker bieten eine großartige Gelegenheit, das Fahrrad kurz abzustellen und die historischen Anlagen im Schutz der dicken Mauern zu besichtigen.",
+                "hu": "A bunkerek nagyszerű lehetőséget kínálnak a bicikli rövid leállítására és a történelmi létesítmények megtekintésére a vastag falak védelmében.",
+                "ro": "Buncărele oferă o oportunitate excelentă de a lăsa scurt bicicleta și de a vizita facilitățile istorice la adăpostul zidurilor groase.",
+                "en": "The bunkers offer a great opportunity to briefly park the bike and view the historical facilities under the protection of the thick walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Bertheaume",
+                "hu": "Fort de Bertheaume",
+                "ro": "Fort de Bertheaume",
+                "en": "Fort de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie nicht mit dem Rad über die Brücke, sondern lassen Sie es am Eingang stehen; die nassen Metallteile der Brücke sind für Reifen extrem rutschig.",
+                "hu": "Ne hajtson át biciklivel a hídon, hagyja a bejáratnál; a híd nedves fémrészei rendkívül csúszósak lehetnek a gumik számára az esőben.",
+                "ro": "Nu mergeți cu bicicleta peste pod, lăsați-o la intrare; părțile metalice umede ale podului sunt extrem de alunecoase pentru anvelope.",
+                "en": "Do not ride the bike across the bridge, leave it at the entrance; the bridge's wet metal parts are extremely slippery for tires in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Perzel ou de Bertheaume",
+                "hu": "Plage du Perzel ou de Bertheaume",
+                "ro": "Plage du Perzel ou de Bertheaume",
+                "en": "Plage du Perzel ou de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die befestigten Wege oberhalb des Strandes, um Matsch zu vermeiden und dennoch den Blick auf die regenverhangene Bucht zu genießen.",
+                "hu": "Használja a strand feletti szilárd burkolatú utakat, hogy elkerülje a sarat, és mégis élvezhesse a kilátást az eső áztatta öbölre.",
+                "ro": "Folosiți căile pavate de deasupra plajei pentru a evita noroiul și totuși să vă bucurați de vederea spre golful acoperit de ploaie.",
+                "en": "Use the paved paths above the beach to avoid mud and still enjoy the view of the rain-drenched bay from a safe distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Trez-Hir",
+                "hu": "Plage du Trez-Hir",
+                "ro": "Plage du Trez-Hir",
+                "en": "Plage du Trez-Hir"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie eine überdachte Fahrradabstellmöglichkeit und wärmen Sie sich in einem der Cafés an der Promenade auf, bevor Sie die Tour beenden.",
+                "hu": "Keressen fedett biciklitárolót, és melegedjen fel a sétány egyik kávézójában, mielőtt befejezné a túrát az eső után.",
+                "ro": "Căutați un loc de parcare acoperit pentru biciclete și încălziți-vă la una dintre cafenelele de pe promenadă înainte de a termina turul.",
+                "en": "Look for covered bike parking and warm up in one of the cafes on the promenade before finishing your tour after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin du Vaéré",
+                "hu": "Jardin du Vaéré",
+                "ro": "Jardin du Vaéré",
+                "en": "Jardin du Vaéré"
+              },
+              "tip_5lang": {
+                "de": "Die Gartenwege können rutschig sein; schieben Sie Ihr Rad lieber ein Stück und genießen Sie die üppige grüne Optik der Pflanzen im Regen.",
+                "hu": "A kerti utak csúszósak lehetnek; inkább tolja a biciklit egy darabon, és élvezze a növények dús zöld látványát az eső áztatta kertben.",
+                "ro": "Potecile din grădină pot fi alunecoase; mai bine împingeți bicicleta pe o porțiune și bucurați-vă de aspectul verde luxuriant al plantelor.",
+                "en": "Garden paths can be slippery; better to push your bike for a bit and enjoy the lush green look of the plants in the rain-soaked garden."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in der Bretagne ist erfrischend, erfordert aber warme Kleidung und Windschutz. Nutzen Sie den Vormittag für kulturelle Stopps im Centre Kéraudy und an der Kirche. Die Küstenstraße bietet atemberaubende, klare Ausblicke, doch die Kälte zieht schnell ein. Beenden Sie Ihre Tour am späten Nachmittag, bevor die Dämmerung gegen 17:00 Uhr die Sicht erschwert.",
+            "hu": "A téli kerékpározás Bretagne-ban felfrissítő, de meleg ruházatot és szélvédelmet igényel. Használja a délelőttöt kulturális megállókra a Centre Kéraudy-ban és a templomnál. A parti út lélegzetelállító, tiszta kilátást nyújt, de a hideg gyorsan bekúszik. Fejezze be a túrát késő délután, mielőtt a szürkület 17:00 körül rontaná a látási viszonyokat.",
+            "ro": "Ciclismul de iarnă în Bretania este revigorant, dar necesită haine groase și protecție împotriva vântului. Folosiți dimineața pentru opriri culturale. Drumul de coastă oferă vederi clare uluitoare, dar frigul se instalează repede. Terminați turul după-amiaza târziu, înainte ca amurgul de la ora 17:00 să îngreuneze vizibilitatea.",
+            "en": "Winter cycling in Brittany is refreshing but requires warm clothing and wind protection. Use the morning for cultural stops at Centre Kéraudy and the church. The coastal road offers breathtaking, clear views, but the cold sets in quickly. Finish your tour in the late afternoon before dusk at 17:00 makes visibility difficult."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Centre Kéraudy",
+                "hu": "Centre Kéraudy",
+                "ro": "Centre Kéraudy",
+                "en": "Centre Kéraudy"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich vor der Abfahrt aufzuwärmen; prüfen Sie hier den Wetterbericht für eventuelle Frostwarnungen auf Ihrer Route.",
+                "hu": "Ideális hely a bemelegítésre indulás előtt; ellenőrizze itt az időjárás-jelentést az útvonalán várható esetleges fagyriasztások miatt.",
+                "ro": "Un loc ideal pentru a vă încălzi înainte de plecare; verificați prognoza meteo aici pentru eventuale alerte de îngheț pe traseu.",
+                "en": "An ideal place to warm up before departure; check the weather report here for any frost warnings on your planned cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gwenael",
+                "hu": "Église Saint-Gwenael",
+                "ro": "Église Saint-Gwenael",
+                "en": "Église Saint-Gwenael"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte, aber der windgeschützte Innenraum bietet eine kurze, ruhige Pause von der winterlichen Brise.",
+                "hu": "A vastag kőfalak tartják a hideget, de a szélvédett belső tér rövid, csendes pihenőt kínál a téli jeges fuvallatok elől.",
+                "ro": "Zidurile groase de piatră mențin frigul, dar interiorul ferit de vânt oferă o scurtă pauză liniștită de briza iernii.",
+                "en": "The thick stone walls hold the cold, but the wind-sheltered interior offers a short, quiet break from the biting winter breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieil Amer Balise Nord",
+                "hu": "Vieil Amer Balise Nord",
+                "ro": "Vieil Amer Balise Nord",
+                "en": "Vieil Amer Balise Nord"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich auf starken, kalten Wind an diesem exponierten Punkt ein; ein schneller Fotostopp reicht, bevor Sie zügig weiterfahren.",
+                "hu": "Készüljön fel az erős, hideg szélre ezen a kitett ponton; egy gyors fotómegálló elég, mielőtt tempósan továbbhaladna a hidegben.",
+                "ro": "Pregătiți-vă pentru vânt puternic și rece în acest punct expus; o oprire rapidă pentru poze este suficientă înainte de a continua.",
+                "en": "Prepare for strong, cold wind at this exposed point; a quick photo stop is enough before moving on briskly in the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie Basse de 95mm",
+                "hu": "Batterie Basse de 95mm",
+                "ro": "Batterie Basse de 95mm",
+                "en": "Batterie Basse de 95mm"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Mauern wirken im frostigen Winterlicht besonders markant; halten Sie Ihre Hände in Handschuhen warm, während Sie erkunden.",
+                "hu": "A történelmi falak a fagyos téli fényben különösen karakteresek; tartsa a kezeit kesztyűben melegen, miközben a területet fedezi fel.",
+                "ro": "Zidurile istorice par deosebit de marcante în lumina înghețată de iarnă; păstrați-vă mâinile calde în mănuși în timp ce explorați.",
+                "en": "The historical walls look particularly striking in the frosty winter light; keep your hands warm in gloves while you explore the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Bertheaume",
+                "hu": "Fort de Bertheaume",
+                "ro": "Fort de Bertheaume",
+                "en": "Fort de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke kann bei Frost extrem glatt sein; schieben Sie Ihr Rad vorsichtig zum Eingang und genießen Sie die klare Sicht bis zum Horizont.",
+                "hu": "A híd fagy esetén rendkívül csúszós lehet; óvatosan tolja a biciklit a bejárathoz, és élvezze a tiszta kilátást a horizontig.",
+                "ro": "Podul poate fi extrem de alunecos în caz de îngheț; împingeți cu grijă bicicleta până la intrare și admirați vederea clară.",
+                "en": "The bridge can be extremely slippery in case of frost; carefully push your bike to the entrance and enjoy the clear view to the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Perzel ou de Bertheaume",
+                "hu": "Plage du Perzel ou de Bertheaume",
+                "ro": "Plage du Perzel ou de Bertheaume",
+                "en": "Plage du Perzel ou de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Blicke über die Bucht; treten Sie kräftig in die Pedale, um Ihren Körper auf Temperatur zu halten.",
+                "hu": "A tiszta téli levegő messzi kilátást tesz lehetővé az öböl felett; pedálozzon tempósan, hogy testhőmérsékletét szinten tartsa.",
+                "ro": "Aerul curat de iarnă permite vederi îndepărtate peste golf; pedalați cu putere pentru a vă menține temperatura corpului ridicată.",
+                "en": "The clear winter air allows for far-reaching views over the bay; pedal briskly to keep your body temperature up in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Trez-Hir",
+                "hu": "Plage du Trez-Hir",
+                "ro": "Plage du Trez-Hir",
+                "en": "Plage du Trez-Hir"
+              },
+              "tip_5lang": {
+                "de": "Wenn Sie am späten Nachmittag ankommen, genießen Sie die Ruhe des leeren Strandes, bevor Sie sich für den Heimweg warm einpacken.",
+                "hu": "Ha késő délután érkezik, élvezze az üres strand nyugalmát, mielőtt jól felöltözve elindulna hazafelé a téli estében.",
+                "ro": "Dacă ajungeți după-amiaza târziu, bucurați-vă de liniștea plajei pustii înainte de a vă îmbrăca gros pentru drumul spre casă.",
+                "en": "If you arrive in the late afternoon, enjoy the silence of the empty beach before wrapping up warm for the ride back home."
+              }
+            },
+            {
+              "name": {
+                "de": "Jardin du Vaéré",
+                "hu": "Jardin du Vaéré",
+                "ro": "Jardin du Vaéré",
+                "en": "Jardin du Vaéré"
+              },
+              "tip_5lang": {
+                "de": "Die winterliche Gartenruhe ist ideal für einen entspannten Abschluss; achten Sie auf tiefstehende Äste, die im Wind schwanken können.",
+                "hu": "A téli kerti nyugalom ideális egy ellazult befejezéshez; ügyeljen az alacsonyan lógó ágakra, amelyek a szélben lengedezhetnek.",
+                "ro": "Liniștea grădinii de iarnă este ideală pentru un final relaxat; aveți grijă la crengile joase care se pot balansa în vânt.",
+                "en": "The winter garden tranquility is ideal for a relaxed finish; watch out for low-hanging branches that might sway in the wind."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -560,6 +1024,224 @@
         "hu": "Morning: Kezdje a festői autózást a Jardin du Vaéré-nél egy békés sétával. Ezután vezessen Plougonvelin szívébe, és ismerje meg a helyi kultúrát a Centre Kéraudy-ban és az Église Saint-Gwenael-nél.\nMidday: Navigáljon a zord tengerpart felé, megállva a Vieil Amer Balise Sud-nál fotózni. Folytassa a partmenti utat a Batterie haute de 270mm-hez, elmélyedve a stratégiai partvonal katonai történelmében.\nAfternoon: Parkoljon le a lenyűgöző Fort de Bertheaume közelében, és töltse a kora délutánt a szigeti erődítmények felfedezésével. A drámai sziklák és a hullámok felejthetetlen hangulatot teremtenek.\nEvening: Vezessen el a népszerű Plage du Trez-Hir-hez egy pihentető estéért. Sétáljon a nyüzsgő sétányon, miközben a nap lenyugszik az óceán felett, megkoronázva ezt a csodálatos autós túrát.",
         "ro": "Morning: Începeți la Jardin du Vaéré cu o plimbare liniștită dimineața. Apoi, conduceți în inima orașului Plougonvelin pentru a experimenta cultura la Centre Kéraudy și biserica Église Saint-Gwenael.\nMidday: Navigați spre coasta aspră, oprindu-vă la Vieil Amer Balise Sud pentru fotografii. Continuați drumul spre Batterie haute de 270mm, absorbind istoria militară profundă a acestui țărm.\nAfternoon: Parcați lângă Fort de Bertheaume și petreceți după-amiaza explorând fortificațiile insulei. Stâncile dramatice și valurile creează o atmosferă de neuitat a rezistenței bretone.\nEvening: Conduceți spre Plage du Trez-Hir pentru o seară relaxată. Plimbați-vă pe faleza vibrantă în timp ce soarele apune peste ocean, încheind o excursie frumoasă pe coastă.",
         "en": "Morning: Start your scenic drive at the tranquil Jardin du Vaéré, enjoying a peaceful morning walk. Then, drive into the heart of Plougonvelin to experience the local culture at Centre Kéraudy and Église Saint-Gwenael.\nMidday: Navigate toward the rugged coast, pausing at the Vieil Amer Balise Sud for photos. Continue your coastal drive to the Batterie haute de 270mm, absorbing the deep military history of this strategic shoreline.\nAfternoon: Park near the magnificent Fort de Bertheaume and spend the early afternoon exploring its island fortifications. The dramatic cliffs and crashing waves create an unforgettable atmosphere of Breton resilience.\nEvening: Drive over to the popular Plage du Trez-Hir for a relaxed evening. Stroll along the vibrant promenade as the sun sets over the ocean, capping off a beautifully seamless road trip across Plougonvelin."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden Sie Plougonvelin auch bei starkem Regen komfortabel. Starten Sie im Jardin du Vaéré, wo Sie zwischen den Schauern kurze Spaziergänge machen können. Die Fahrt zum Fort de Bertheaume führt entlang der dramatischen Küste, während Sie im trockenen Wagen sitzen. Beenden Sie den Tag am Trez-Hir, wo Parkplätze nah am Strand den Zugang bei Regen erleichtern.",
+            "hu": "Autóval erős esőben is kényelmesen felfedezheti Plougonvelint. Kezdjen a Jardin du Vaéré-ben, ahol a záporok között tehet rövid sétákat. Az út a Fort de Bertheaume-hoz a drámai part mentén vezet, miközben Ön a száraz autóban ül. A napot a Trez-Hirnél fejezze be, ahol a strandközeli parkolók megkönnyítik a kijutást az esőben is.",
+            "ro": "Cu mașina puteți explora Plougonvelin confortabil chiar și pe ploaie abundentă. Începeți la Jardin du Vaéré, unde puteți face scurte plimbări între averse. Drumul spre Fort de Bertheaume trece pe lângă coasta dramatică în timp ce stați în mașina uscată. Încheiați ziua la Trez-Hir, unde parcările aproape de plajă facilitează accesul.",
+            "en": "By car, you can explore Plougonvelin comfortably even in heavy rain. Start at Jardin du Vaéré, where you can take short walks between showers. The drive to Fort de Bertheaume takes you along the dramatic coastline while you stay dry inside. End the day at Trez-Hir, where parking close to the beach makes access easier during the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jardin du Vaéré",
+                "hu": "Jardin du Vaéré",
+                "ro": "Jardin du Vaéré",
+                "en": "Jardin du Vaéré"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen kurz im Auto sitzen und genießen Sie den Blick auf das üppige Grün, bevor Sie eine regenfreie Phase nutzen.",
+                "hu": "Erős esőben maradjon kicsit az autóban, és élvezze a dús zöld látványt, mielőtt kihasználna egy esőmentes időszakot a sétára.",
+                "ro": "În caz de ploaie abundentă, stați puțin în mașină și admirați verdele luxuriant înainte de a profita de o pauză între averse.",
+                "en": "In case of heavy rain, stay in the car for a moment and enjoy the lush green view before taking advantage of a rain-free window."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Kéraudy",
+                "hu": "Centre Kéraudy",
+                "ro": "Centre Kéraudy",
+                "en": "Centre Kéraudy"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Stopp mit Parkplätzen direkt vor der Tür; ideal, um lokale Kunst und Kultur wetterunabhängig zu erleben.",
+                "hu": "Tökéletes száraz megálló közvetlenül az épület előtt található parkolóval; ideális a helyi művészet és kultúra megismeréséhez az esőben.",
+                "ro": "O oprire uscată perfectă, cu locuri de parcare chiar în față; ideal pentru a experimenta arta și cultura locală indiferent de vreme.",
+                "en": "A perfect dry stop with parking spaces right in front of the door; ideal for experiencing local art and culture regardless of the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gwenael",
+                "hu": "Église Saint-Gwenael",
+                "ro": "Église Saint-Gwenael",
+                "en": "Église Saint-Gwenael"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe des Eingangs, um schnell ins trockene Innere zu gelangen und die sakrale Atmosphäre bei Regengeräuschen zu genießen.",
+                "hu": "Parkoljon a bejárat közelében, hogy gyorsan a száraz belső térbe érjen, és élvezze a szakrális hangulatot az eső kopogása mellett.",
+                "ro": "Parcați aproape de intrare pentru a ajunge rapid în interiorul uscat și bucurați-vă de atmosfera sacră acompaniată de sunetul ploii.",
+                "en": "Park near the entrance to quickly get inside the dry interior and enjoy the sacred atmosphere accompanied by the sound of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieil Amer Balise Sud",
+                "hu": "Vieil Amer Balise Sud",
+                "ro": "Vieil Amer Balise Sud",
+                "en": "Vieil Amer Balise Sud"
+              },
+              "tip_5lang": {
+                "de": "Diese Landmarke lässt sich wunderbar vom Beifahrersitz aus betrachten, sodass Sie für das Panorama gar nicht erst aussteigen müssen.",
+                "hu": "Ez a jelzőtorony nagyszerűen látható az anyósülésről is, így a panoráma kedvéért ki sem kell szállnia a szakadó esőben.",
+                "ro": "Acest punct de reper poate fi observat minunat de pe scaunul pasagerului, deci nu trebuie să coborâți pentru a vedea panorama.",
+                "en": "This landmark can be seen perfectly from the passenger seat, so you don't even have to get out of the car to enjoy the coastal panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie haute de 270mm",
+                "hu": "Batterie haute de 270mm",
+                "ro": "Batterie haute de 270mm",
+                "en": "Batterie haute de 270mm"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten direkt an den historischen Stätten für einen kurzen, regenfesten Erkundungsgang durch die Betonbunker.",
+                "hu": "Használja a közvetlenül a történelmi helyszínek melletti parkolót egy rövid, esőbiztos felfedezéshez a masszív betonbunkerek között.",
+                "ro": "Folosiți locurile de parcare direct de lângă siturile istorice pentru o scurtă explorare la adăpost prin buncărele de beton.",
+                "en": "Use the parking facilities directly at the historical sites for a short, rain-proof exploration tour through the concrete bunkers."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Bertheaume",
+                "hu": "Fort de Bertheaume",
+                "ro": "Fort de Bertheaume",
+                "en": "Fort de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Der Weg vom Parkplatz zum Fort ist kurz; nehmen Sie dennoch einen Regenschirm mit, da der Wind an der Küste den Regen peitschen kann.",
+                "hu": "A parkolótól az erődig vezető út rövid; vigyen magával esernyőt, mert a tengerparti szél vízszintesen is fújhatja az esőt.",
+                "ro": "Drumul de la parcare la fort este scurt; totuși, luați o umbrelă, deoarece vântul de pe coastă poate face ploaia să bată cu putere.",
+                "en": "The walk from the parking lot to the fort is short; still, take an umbrella as the coastal wind can whip the rain quite strongly."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Trez-Hir",
+                "hu": "Plage du Trez-Hir",
+                "ro": "Plage du Trez-Hir",
+                "en": "Plage du Trez-Hir"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Promenade, um das stürmische Meer aus der Wärme des Autos zu beobachten oder schnell in ein Café zu flüchten.",
+                "hu": "Parkoljon közvetlenül a sétánynál, hogy az autó melegéből nézhesse a viharos tengert, vagy gyorsan befuthasson egy közeli kávézóba.",
+                "ro": "Parcați direct pe promenadă pentru a observa marea înfuriată din căldura mașinii sau pentru a vă adăposti rapid într-o cafenea.",
+                "en": "Park right on the promenade to watch the stormy sea from the warmth of the car or to quickly duck into a nearby seaside cafe."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Autotour bietet die perfekte Mischung aus Komfort und Sightseeing. Beginnen Sie im ruhigen Jardin du Vaéré, bevor Sie kulturelle Zentren besuchen. Die Küstenstraße ist im Winter leer und bietet klare Sichten auf den Atlantik. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie Ihren Besuch am Fort de Bertheaume für den frühen Nachmittag ein, um das beste Licht zu nutzen.",
+            "hu": "Egy téli autós túra a kényelem és a városnézés tökéletes keverékét nyújtja. Kezdjen a csendes Jardin du Vaéré-ben, mielőtt kulturális központokat látogatna meg. A parti út télen üres, és tiszta kilátást nyújt az Atlanti-óceánra. Mivel a nap 17:00 körül lemegy, a Fort de Bertheaume látogatását kora délutánra tervezze.",
+            "ro": "Un tur cu mașina iarna oferă amestecul perfect de confort și vizitare. Începeți la liniștita Jardin du Vaéré înainte de a vizita centrele culturale. Drumul de coastă este gol iarna și oferă vederi clare. Deoarece soarele apune în jurul orei 17:00, planificați vizita la fort pentru începutul după-amiezii.",
+            "en": "A winter car tour offers the perfect mix of comfort and sightseeing. Start at the quiet Jardin du Vaéré before visiting cultural centers. The coastal road is empty in winter and offers clear views of the Atlantic. Since the sun sets around 17:00, plan your visit to Fort de Bertheaume for the early afternoon to get the best light."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jardin du Vaéré",
+                "hu": "Jardin du Vaéré",
+                "ro": "Jardin du Vaéré",
+                "en": "Jardin du Vaéré"
+              },
+              "tip_5lang": {
+                "de": "Der Garten ist im Winter friedlich; ein kurzer Spaziergang an der frischen Luft belebt, bevor Sie die Heizung im Auto wieder genießen.",
+                "hu": "A kert télen nagyon békés; egy rövid séta a friss levegőn felfrissíti, mielőtt újra élvezné az autó fűtését a következő szakaszon.",
+                "ro": "Grădina este liniștită iarna; o scurtă plimbare în aerul curat vă va revigora înainte de a vă bucura din nou de căldura din mașină.",
+                "en": "The garden is peaceful in winter; a short walk in the fresh air is invigorating before you enjoy the car's heating again."
+              }
+            },
+            {
+              "name": {
+                "de": "Centre Kéraudy",
+                "hu": "Centre Kéraudy",
+                "ro": "Centre Kéraudy",
+                "en": "Centre Kéraudy"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen warmen Kulturraum, um sich aufzuwärmen und Ausstellungen zu sehen, während draußen der kalte Winterwind weht.",
+                "hu": "Látogasson el ebbe a meleg kulturális térbe, hogy felmelegedjen és kiállításokat nézzen, miközben odakint fúj a hideg téli szél.",
+                "ro": "Vizitați acest spațiu cultural călduros pentru a vă încălzi și a vedea expoziții în timp ce afară suflă vântul rece de iarnă.",
+                "en": "Visit this warm cultural space to warm up and see exhibitions while the cold winter wind blows outside in the coastal village."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gwenael",
+                "hu": "Église Saint-Gwenael",
+                "ro": "Église Saint-Gwenael",
+                "en": "Église Saint-Gwenael"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet im Winter eine besondere Stille; parken Sie direkt davor, um den Aufenthalt in der Kälte so kurz wie möglich zu halten.",
+                "hu": "A templom télen különleges csendet áraszt; parkoljon közvetlenül előtte, hogy a hidegben való tartózkodást a lehető legrövidebbre fogja.",
+                "ro": "Biserica oferă o liniște deosebită iarna; parcați chiar în față pentru a menține expunerea la frig cât mai scurtă posibil.",
+                "en": "The church offers a special silence in winter; park right in front to keep your time spent in the cold as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Vieil Amer Balise Sud",
+                "hu": "Vieil Amer Balise Sud",
+                "ro": "Vieil Amer Balise Sud",
+                "en": "Vieil Amer Balise Sud"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf den Ozean durch die Windschutzscheibe; im Winter ist die Sicht oft klarer als zu jeder anderen Jahreszeit.",
+                "hu": "Élvezze a tágas óceáni kilátást a szélvédőn keresztül; télen a látótávolság gyakran sokkal tisztább, mint az év bármely más szakában.",
+                "ro": "Bucurați-vă de vederea largă la ocean prin parbriz; iarna vizibilitatea este adesea mai clară decât în orice alt anotimp.",
+                "en": "Enjoy the wide ocean view through the windshield; in winter, visibility is often clearer than at any other time of the year."
+              }
+            },
+            {
+              "name": {
+                "de": "Batterie haute de 270mm",
+                "hu": "Batterie haute de 270mm",
+                "ro": "Batterie haute de 270mm",
+                "en": "Batterie haute de 270mm"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Außenanlagen zügig und nutzen Sie die Bunker als Windschutz, bevor Sie in den Komfort Ihres beheizten Wagens zurückkehren.",
+                "hu": "Fedezze fel gyorsan a kültéri részeket, és használja a bunkereket szélvédőként, mielőtt visszatérne fűtött autója kényelmébe.",
+                "ro": "Explorați rapid facilitățile exterioare și folosiți buncărele ca protecție împotriva vântului înainte de a vă întoarce în mașina încălzită.",
+                "en": "Explore the outdoor facilities briskly and use the bunkers as windbreaks before returning to the comfort of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Fort de Bertheaume",
+                "hu": "Fort de Bertheaume",
+                "ro": "Fort de Bertheaume",
+                "en": "Fort de Bertheaume"
+              },
+              "tip_5lang": {
+                "de": "Das Fort wirkt im tiefstehenden Sonnenlicht des Nachmittags majestätisch; achten Sie beim Aussteigen auf eventuelle Glätte am Boden.",
+                "hu": "Az erőd fenségesen mutat a délutáni alacsony napfényben; kiszálláskor ügyeljen az esetleges jegesedésre a parkoló talaján.",
+                "ro": "Fortul arată maiestuos în lumina slabă a după-amiezii; aveți grijă la eventualul polei de pe jos când coborâți din mașină.",
+                "en": "The fort looks majestic in the low afternoon sunlight; watch out for any ice on the ground when getting out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage du Trez-Hir",
+                "hu": "Plage du Trez-Hir",
+                "ro": "Plage du Trez-Hir",
+                "en": "Plage du Trez-Hir"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den Sonnenuntergang gegen 17:00 Uhr; genießen Sie das Farbspiel über dem Meer, bevor es Zeit für ein gemütliches Abendessen ist.",
+                "hu": "Ideális hely a 17:00 körüli naplementéhez; élvezze a színek játékát a tenger felett, mielőtt ideje lenne egy kellemes vacsorának.",
+                "ro": "Un loc ideal pentru apusul de la ora 17:00; bucurați-vă de jocul de culori deasupra mării înainte de a merge la o cină plăcută.",
+                "en": "An ideal place for the sunset around 17:00; enjoy the play of colors over the sea before it's time for a cozy winter dinner."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a központi templomok felfedezésével, a békés Sainte-Marie-val kezdve. Délben tegyen egy kényelmes sétát a történelmi Sainte-Assise kastélyhoz, hogy megcsodálja az építészetet. A délután Saint-Fargeau és a csendes Saint-Blaise meglátogatásával folytatódik. Töltse az estét pihenéssel a bájos helyi városközpontban egy fárasztó felfedezőnap után.",
         "ro": "Începeți dimineața explorând bisericile centrale, începând cu liniștita Sainte-Marie. La prânz, faceți o plimbare spre istoricul Castel Sainte-Assise pentru a-i admira arhitectura grandioasă. După-amiaza continuă cu vizite la Saint-Fargeau și liniștita Saint-Blaise. Petreceți-vă seara relaxându-vă în fermecătorul centru local al orașului după o zi plină.",
         "en": "Start your morning exploring the central churches, beginning with the peaceful Sainte-Marie. By midday, take a leisurely stroll to the historic Sainte-Assise Castle to admire its grand architecture. The afternoon continues with visits to Saint-Fargeau and the quiet Saint-Blaise. Spend your evening relaxing in the charming local town center after exploring."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen mit der Erkundung lokaler Kirchen und suchen Sie Schutz in ihren Friedensschiffen. Mittags steht ein vorsichtiger Spaziergang zum Schloss an, ein stabiler Regenschirm ist Pflicht. Der Nachmittag geht in historischen Kapellen weiter, ideal bei Schauern. Beenden Sie den nassen Tag sicher drinnen und bewundern Sie die Architektur.",
+            "hu": "Esős reggelünket a helyi templomok felfedezésével kezdjük, menedéket keresve a békés hajókban. Délben óvatos séta következik a kastélyhoz, az erős esernyő kötelező. A délutánt történelmi kápolnákban töltjük, amelyek kiválóak a záporok átvészelésére. A nedves napot biztonságosan, zárt térben zárjuk, megcsodálva a csodás építészetet.",
+            "ro": "Începeți dimineața ploioasă explorând bisericile locale, căutând adăpost în naosurile lor pașnice. La prânz faceți o plimbare atentă spre castel, așa că o umbrelă rezistentă este esențială. După-amiaza continuă cu capele istorice, perfecte pentru a evita aversele. Încheiați ziua umedă în siguranță, reflectând la arhitectura superbă.",
+            "en": "Start the rainy morning exploring the local churches, seeking shelter inside their peaceful naves. Midday involves a careful walk to the castle, so a sturdy umbrella is essential. The afternoon continues with historic chapels, perfect for dodging heavy showers. Conclude the wet day safely indoors, reflecting on the damp but beautiful architecture."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-Mère-de-Dieu",
+                "hu": "Sainte-Marie-Mère-de-Dieu templom",
+                "ro": "Biserica Sainte-Marie-Mère-de-Dieu",
+                "en": "Church of Sainte-Marie-Mère-de-Dieu"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfarben unter dem grauen Himmel; lassen Sie Ihren Regenschirm am Eingang, um Tropfen im historischen Heiligtum zu vermeiden.",
+                "hu": "Csodálja meg a szürke ég által felerősített ólomüveg színeit; hagyja esernyőjét a bejáratnál, hogy elkerülje a történelmi szentély becsepegését.",
+                "ro": "Admirați culorile vitraliilor amplificate de cerul gri; țineți umbrela la intrare pentru a evita scurgerea apei în sanctuarul istoric.",
+                "en": "Admire the stained glass colors amplified by the grey sky; keep your umbrella near the entrance to avoid dripping inside the historic sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Zuflucht vor dem Regen in diesem ruhigen Ort; die Steinböden können mit nassen Schuhen rutschig werden, also treten Sie vorsichtig auf.",
+                "hu": "Keressen menedéket az eső elől ezen a csendes helyen; a kőpadló csúszóssá válhat a nedves cipőktől, ezért lépkedjen nagyon óvatosan.",
+                "ro": "Găsiți refugiu de ploaie în acest spațiu liniștit; podelele de piatră pot deveni alunecoase cu pantofii uzi, așa că pășiți cu mare grijă.",
+                "en": "Find refuge from the rain in this quiet sanctuary; the stone floors can get quite slippery with wet shoes, so tread carefully inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sainte-Assise",
+                "hu": "Sainte-Assise Kastély",
+                "ro": "Castelul Sainte-Assise",
+                "en": "Sainte-Assise Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schlossgelände ist bei Regen schlammig, also betrachten Sie die Fassade von befestigten Wegen aus und bleiben Sie unter Ihrer wasserdichten Kapuze.",
+                "hu": "A kastély kertje esőben sáros, ezért a fenséges homlokzatot a burkolt utakról csodálja, és maradjon a vízálló kapucnija alatt.",
+                "ro": "Terenul castelului este noroios pe ploaie, așa că admirați fațada grandioasă de pe aleile pavate și stați sub gluga impermeabilă.",
+                "en": "The castle grounds are muddy in the rain, so focus on the grand exterior from the paved paths and stay dry under your waterproof hood."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Saint-Fargeau",
+                "hu": "Saint-Fargeau templom",
+                "ro": "Biserica Saint-Fargeau",
+                "en": "Saint-Fargeau Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie drinnen Schutz, um den historischen Altar zu schätzen; nutzen Sie die Zeit, um sich vor dem nächsten nassen Spaziergang abzutrocknen.",
+                "hu": "Húzódjon be a történelmi oltár megtekintéséhez; használja ki az időt arra, hogy megszáradjon a következő rövid, esős séta előtt.",
+                "ro": "Căutați adăpost înăuntru pentru a aprecia altarul istoric; folosiți acest timp pentru a vă usca înainte de următoarea scurtă plimbare umedă.",
+                "en": "Seek shelter inside to appreciate the historic altar; use this time to warm up and dry off completely before the next short, wet walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Blaise",
+                "hu": "Saint-Blaise templom",
+                "ro": "Biserica Saint-Blaise",
+                "en": "Church of Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhigen Regengeräusche auf dem Dach; es ist der perfekte trockene Ort, um Ihre nasse Wandertour friedlich zu beenden.",
+                "hu": "Élvezze az esőcseppek nyugtató kopogását a tetőn; ez a tökéletes száraz hely a nedves gyalogtúra békés befejezéséhez.",
+                "ro": "Bucurați-vă de sunetul liniștit al ploii pe acoperiș; este locul uscat perfect pentru a încheia pașnic turul dumneavoastră pietonal umed.",
+                "en": "Enjoy the serene, rain-pattered roof sounds here; it is the absolute perfect dry spot to peacefully conclude your wet-weather walking tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Winterspaziergang, indem Sie sich in historischen Kirchen aufwärmen. Mittags führt ein Spaziergang zum Schlossgut, wo kahle Bäume klare Sicht bieten. Das Nachmittagslicht schwindet gegen 16 Uhr schnell und wirft ein goldenes Leuchten. Beenden Sie die Tour früh, warm eingepackt gegen die Abendkälte.",
+            "hu": "Kezdje a csípős téli sétát a reggeli történelmi templomokban való felmelegedéssel. Délben élénk séta következik a kastélybirtokhoz, ahol a kopasz fák tiszta kilátást nyújtanak. A délutáni fény hamar elhalványul. Fejezze be a túrát korán, mielőtt a sötétedés és az esti fagy beáll, meleg rétegekbe burkolózva.",
+            "ro": "Începeți plimbarea de iarnă încălzindu-vă în bisericile istorice. Prânzul aduce o plimbare vioaie spre castel, unde copacii goi oferă vederi clare. Lumina după-amiezii se stinge repede în jur de ora 16:00. Terminați turul devreme, odată cu lăsarea întunericului, bine înveliți în straturi calde împotriva frigului.",
+            "en": "Begin your crisp winter walk by warming up inside the morning's historic churches. Midday brings a brisk stroll to the castle estate, where bare trees offer clear views. Afternoon light fades quickly around 4 PM, casting a golden glow. Finish the tour early as dusk settles, wrapped securely in warm layers against the evening chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-Mère-de-Dieu",
+                "hu": "Sainte-Marie-Mère-de-Dieu templom",
+                "ro": "Biserica Sainte-Marie-Mère-de-Dieu",
+                "en": "Church of Sainte-Marie-Mère-de-Dieu"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost macht die Steinstufen rutschig, treten Sie vorsichtig auf, während Sie die kalte Winterluft und das wärmende Innere genießen.",
+                "hu": "A reggeli fagy csúszóssá teszi a kőlépcsőket, lépkedjen óvatosan, miközben élvezi a friss téli levegőt és a klasszikus belső tér melegét.",
+                "ro": "Gerul dimineții face treptele de piatră alunecoase; pășiți cu grijă, bucurându-vă de aerul rece de iarnă și de interiorul cald.",
+                "en": "The morning frost makes the stone steps slippery, so step carefully while enjoying the crisp winter air and the warming beauty of the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um dem beißenden Wind zu entkommen; die feierliche Winteratmosphäre hebt die zeitlose Schönheit dieser Gemeinde hervor.",
+                "hu": "Lépjen be, hogy elmeneküljön a metsző szél elől; az ünnepélyes téli hangulat kiemeli e helyi plébánia időtlen szépségét.",
+                "ro": "Intrați pentru a scăpa de vântul tăios; atmosfera solemnă de iarnă subliniază frumusețea atemporală a acestei parohii locale.",
+                "en": "Step inside to escape the biting winter wind; the solemn seasonal atmosphere wonderfully highlights the timeless beauty of this local parish."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sainte-Assise",
+                "hu": "Sainte-Assise Kastély",
+                "ro": "Castelul Sainte-Assise",
+                "en": "Sainte-Assise Castle"
+              },
+              "tip_5lang": {
+                "de": "Ohne Sommerlaub zeigt das Schloss seine volle Größe; packen Sie sich dick ein gegen die kalte Brise, die über das Gelände fegt.",
+                "hu": "Nyári lombozat nélkül a kastély megmutatja teljes méretét; öltözzön be melegen a birtokon végigsöprő hideg szél ellen.",
+                "ro": "Fără frunzișul de vară, castelul își dezvăluie scara completă; înfofoliți-vă bine împotriva brizei reci care mătură terenul.",
+                "en": "Without summer foliage, the castle reveals its full architectural scale; bundle up tightly against the cold breeze sweeping across the open grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Saint-Fargeau",
+                "hu": "Saint-Fargeau templom",
+                "ro": "Biserica Saint-Fargeau",
+                "en": "Saint-Fargeau Church"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Wintersonne beleuchtet das Kirchenschiff wunderschön; behalten Sie Ihre Handschuhe an, bis Sie vollständig drinnen sind.",
+                "hu": "Az alacsony téli nap gyönyörűen megvilágítja a főhajót az ablakokon keresztül; tartsa magán a kesztyűt, amíg teljesen be nem ér.",
+                "ro": "Soarele de iarnă iluminează frumos naosul prin ferestre; țineți mănușile pe mâini până când sunteți complet înăuntru.",
+                "en": "The low winter sun beautifully illuminates the nave through the windows; keep your gloves on until you are fully inside the heavy doors."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Blaise",
+                "hu": "Saint-Blaise templom",
+                "ro": "Biserica Saint-Blaise",
+                "en": "Church of Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor der Dämmerung an, um die Fassade im schwindenden Licht zu sehen; im kühlen Inneren sollten Sie Ihren warmen Mantel geschlossen halten.",
+                "hu": "Érkezzen alkonyat előtt, hogy lássa a homlokzatot a halványuló fényben; a hűvös belső tér miatt tartsa összehúzva a meleg kabátját.",
+                "ro": "Ajungeți înainte de amurg pentru a vedea fațada în lumina slabă; interiorul răcoros înseamnă că ar trebui să țineți haina caldă încheiată.",
+                "en": "Arrive before dusk to see the historic facade in the fading winter light; the chilly interior means you should keep your warm coat zipped up."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpáros napot a Saint-Blaise templomnál, élvezve a friss reggeli levegőt. Délben érje el a csodálatos Sainte-Assise kastélyt és a központi templomokat. A délutáni túra délre, a Notre-Dame de Corbeil-hez, majd keletre, a Saint-Denis-hez vezet. Fejezze be az aktív napot egy jól megérdemelt pihenéssel a csendes utcákon.",
         "ro": "Începeți-vă ziua de ciclism la Biserica Saint-Blaise, bucurându-vă de aerul dimineții. La prânz ajungeți la magnificul Castel Sainte-Assise și bisericile centrale. Plimbarea de după-amiază vă duce spre sud la Notre-Dame de Corbeil și la est la Saint-Denis. Încheiați-vă ziua activă cu o odihnă bine meritată pe străzile liniștite.",
         "en": "Kick off your cycling day at Église Saint-Blaise, enjoying the crisp morning air as you pedal towards the town's center. Midday brings you to the magnificent Sainte-Assise Castle and the central churches. Your afternoon ride takes you south to Notre-Dame de Corbeil and east to Saint-Denis. Conclude your active day with a well-deserved rest in the quiet streets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Morgenfahrt erfordert Schutzbleche zwischen den historischen Heiligtümern. Mittags ist Vorsicht auf rutschigem Laub am Schloss geboten. Die Nachmittagsschauer wartet man am besten in den großen Kirchen ab. Beenden Sie die feuchte Fahrt vorsichtig mit gut sichtbarem Licht.",
+            "hu": "A nedves reggeli tekeréshez sárvédő kell a szentélyek között. Délben az útvonal óvatosságot igényel a csúszós levelek miatt a kastélynál. A délutáni záporokat a legjobb a templomokban átvészelni. Fejezze be a nyirkos utat óvatosan, bekapcsolt lámpákkal.",
+            "ro": "O plimbare umedă de dimineață necesită apărători de noroi între sanctuare. La prânz, traseul spre castel cere prudență pe frunzele alunecoase. Aversele de după-amiază se așteaptă cel mai bine în biserici. Încheiați călătoria umedă cu luminile aprinse.",
+            "en": "A wet morning ride requires good mudguards as you pedal between historic sanctuaries. At noon, the route to the castle demands caution on slippery leaves. Afternoon showers are best waited out inside the grand churches. End the damp ride carefully with your bike lights shining bright."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Blaise",
+                "hu": "Saint-Blaise templom",
+                "ro": "Biserica Saint-Blaise",
+                "en": "Church of Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre nasse Fahrt hier, schütteln Sie Ihr Regencape in der Veranda ab, bevor Sie das ruhige, historische Innere bewundern.",
+                "hu": "Kezdje itt a nedves utat, rázza le az esőköpenyét a tornácon, mielőtt megcsodálná a csendes, történelmi belső teret.",
+                "ro": "Începeți plimbarea umedă aici, scuturându-vă pelerina de ploaie în verandă înainte de a admira interiorul liniștit și istoric.",
+                "en": "Start your wet ride here, shaking off your rain cape in the porch before admiring the quiet, historic interior safely away from the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Saint-Fargeau",
+                "hu": "Saint-Fargeau templom",
+                "ro": "Biserica Saint-Fargeau",
+                "en": "Saint-Fargeau Church"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf dem nassen Kopfsteinpflaster; das geschützte Kirchenschiff bietet eine kurze Pause vom ständigen Nieselregen.",
+                "hu": "Fékezzen óvatosan a nedves macskaköveken; a védett főhajó rövid felüdülést kínál a folyamatos szitáló esőből.",
+                "ro": "Frânați cu grijă pe pietrele umede la sosire; naosul adăpostit oferă un scurt răgaz de la burnița continuă de afară.",
+                "en": "Brake very carefully on the wet cobblestones arriving here; the sheltered nave offers a brief respite from the continuous, chilling drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sainte-Assise",
+                "hu": "Sainte-Assise Kastély",
+                "ro": "Castelul Sainte-Assise",
+                "en": "Sainte-Assise Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Radwege werden schlammig, also bewundern Sie die Fassade von der Hauptstraße aus und tragen Sie gut sichtbare Regenkleidung.",
+                "hu": "A kerékpárutak sárossá válnak, ezért a főútról csodálja a homlokzatot, és viseljen jól látható, vízálló ruházatot.",
+                "ro": "Pistele de biciclete devin noroioase, așa că admirați fațada de pe drumul principal purtând echipament de ploaie cu vizibilitate ridicată.",
+                "en": "Cycling paths around the estate get muddy, so admire the grand facade from the main road while wearing highly visible waterproof gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-Mère-de-Dieu",
+                "hu": "Sainte-Marie-Mère-de-Dieu templom",
+                "ro": "Biserica Sainte-Marie-Mère-de-Dieu",
+                "en": "Church of Sainte-Marie-Mère-de-Dieu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie dieses trockene Heiligtum, um sich aufzuwärmen; das düstere Regenlicht verleiht dem Buntglas ein einzigartiges Leuchten.",
+                "hu": "Használja ezt a száraz szentélyt a felmelegedésre; a borús esős fény egyedi, hangulatos ragyogást ad az ólomüvegnek.",
+                "ro": "Folosiți acest sanctuar uscat pentru a vă încălzi; lumina slabă a ploii conferă vitraliilor o strălucire unică și misterioasă.",
+                "en": "Use this dry sanctuary to wipe your cycling glasses and warm up; the dim rainy light gives the stained glass a unique, moody glow."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Corbeil",
+                "hu": "Notre-Dame de Corbeil templom",
+                "ro": "Biserica Notre-Dame de Corbeil",
+                "en": "Church of Notre-Dame de Corbeil"
+              },
+              "tip_5lang": {
+                "de": "Nasses Wetter verleiht den Ruinen eine mysteriöse Aura; parken Sie sicher, da der umliegende Boden recht weich und schlammig werden kann.",
+                "hu": "A nedves időjárás titokzatos aurát kölcsönöz a romoknak; parkolja le biztonságosan a kerékpárt, mert a talaj puha és saras lehet.",
+                "ro": "Vremea umedă adaugă o aură misterioasă acestor ruine; parcați bicicleta în siguranță, deoarece pământul din jur poate deveni noroios.",
+                "en": "Wet weather adds a mysterious aura to these ruins; park your bike securely as the surrounding ground may become quite soft and muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Church of Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre feuchte Fahrt in dieser einladenden Kirche; stellen Sie sicher, dass Ihre Lichter für die dunkle Heimfahrt voll geladen sind.",
+                "hu": "Fejezze be nyirkos útját ebben a barátságos templomban; győződjön meg róla, hogy a lámpái fel vannak töltve a sötét, esős hazaútra.",
+                "ro": "Încheiați plimbarea umedă în această biserică primitoare; asigurați-vă că luminile bicicletei sunt încărcate pentru drumul întunecat de întoarcere.",
+                "en": "Conclude your damp ride in this welcoming church; ensure your bike lights are fully charged and active for the dark, rainy ride back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für eine frostige Morgenfahrt. Die Mittagssonne bietet wenig Wärme, treten Sie kräftig in die Pedale. Die Nachmittagsroute führt durch kahle Alleen. Erreichen Sie die letzten Ziele vor 17 Uhr, da die frühe Winterdämmerung Minustemperaturen bringt.",
+            "hu": "Öltözzön fel melegen a fagyos reggeli kerékpározáshoz. A déli nap kevés meleget ad, tekerjen intenzíven a kastély felé. A délutáni útvonal kopasz fasorokon vezet. Érje el az utolsó célokat 17 óra előtt, mivel a korai sötétedés fagyos hőmérsékletet hoz.",
+            "ro": "Înfofoliți-vă pentru o pedalare matinală geroasă. Soarele de prânz oferă puțină căldură, așa că pedalați viguros. Traseul de după-amiază trece prin alei goale. Ajungeți la ultimele opriri înainte de ora 17, deoarece amurgul devreme aduce temperaturi de îngheț.",
+            "en": "Wrap up warmly for a frosty morning cycle. The midday sun offers little warmth, so keep moving vigorously towards the castle. The afternoon route takes you through leafless avenues. Arrive at final stops before 5 PM, as the early winter dusk brings freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Blaise",
+                "hu": "Saint-Blaise templom",
+                "ro": "Biserica Saint-Blaise",
+                "en": "Church of Saint-Blaise"
+              },
+              "tip_5lang": {
+                "de": "Frost bedeutet, Kurven langsam zu nehmen; wärmen Sie Ihre frierenden Finger drinnen auf, während Sie die religiöse Kunst bewundern.",
+                "hu": "A dér miatt vegye be lassan a kanyarokat; melegítse fel fagyos ujjait odabent, miközben megcsodálja a vallási művészetet.",
+                "ro": "Gerul înseamnă să luați curbele încet; încălziți-vă degetele înghețate înăuntru în timp ce admirați arta religioasă clasică.",
+                "en": "Frost on the roads means taking corners slowly; warm your frozen fingers inside while admiring the classic religious art and architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche von Saint-Fargeau",
+                "hu": "Saint-Fargeau templom",
+                "ro": "Biserica Saint-Fargeau",
+                "en": "Saint-Fargeau Church"
+              },
+              "tip_5lang": {
+                "de": "Das Radfahren hält Sie warm, aber das steinerne Innere ist kühl, also behalten Sie Ihre Thermoschichten beim Erkunden an.",
+                "hu": "A téli tekerés melegen tartja, de a kőbelső hűvös, ezért tartsa magán a termo rétegeket a felfedezés során.",
+                "ro": "Ciclismul de iarnă vă va ține de cald, dar interiorul de piatră este răcoros, așa că păstrați straturile termice în timpul explorării.",
+                "en": "The brisk winter cycling will keep you warm, but the stone interior is quite chilly, so keep your thermal layers on while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sainte-Assise",
+                "hu": "Sainte-Assise Kastély",
+                "ro": "Castelul Sainte-Assise",
+                "en": "Sainte-Assise Castle"
+              },
+              "tip_5lang": {
+                "de": "Kahle Winteräste bieten freie Sicht auf das Schloss; achten Sie auf versteckte Eisflächen auf den schattigen Radwegen in der Nähe.",
+                "hu": "A csupasz téli ágak akadálytalan kilátást nyújtanak a kastélyra; vigyázzon a rejtett jégfoltokra a közeli árnyékos kerékpárutakon.",
+                "ro": "Crengile goale oferă o vedere neobstrucționată a castelului; feriți-vă de peticele de gheață ascunse pe pistele de biciclete umbrite.",
+                "en": "Bare winter branches provide an unobstructed view of the castle; beware of hidden ice patches on the deeply shaded cycle paths nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-Mère-de-Dieu",
+                "hu": "Sainte-Marie-Mère-de-Dieu templom",
+                "ro": "Biserica Sainte-Marie-Mère-de-Dieu",
+                "en": "Church of Sainte-Marie-Mère-de-Dieu"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das kalte Winterlicht durch die Fenster; ein kurzer Stopp hilft, dem beißenden Gegenwind für einen Moment zu entkommen.",
+                "hu": "Élvezze az ablakokon beáramló zord téli fényt; egy gyors megálló segít egy pillanatra elmenekülni a metsző szembeszél elől.",
+                "ro": "Bucurați-vă de lumina aspră de iarnă care intră prin ferestre; o oprire rapidă aici vă ajută să scăpați pentru scurt timp de vântul rece.",
+                "en": "Enjoy the stark winter light streaming through the historic windows; a quick stop here helps you escape the biting headwind for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Corbeil",
+                "hu": "Notre-Dame de Corbeil templom",
+                "ro": "Biserica Notre-Dame de Corbeil",
+                "en": "Church of Notre-Dame de Corbeil"
+              },
+              "tip_5lang": {
+                "de": "Die historische Stätte wirkt in der kalten Luft markant; tragen Sie einen dicken Schal, da der offene Bereich wenig Windschutz bietet.",
+                "hu": "A történelmi helyszín lenyűgöző a hideg levegőben; viseljen vastag sálat, mivel a nyitott terület kevés szélvédelmet nyújt.",
+                "ro": "Situl istoric arată impresionant în aerul rece de iarnă; purtați o eșarfă groasă deoarece zona deschisă oferă puțină protecție la vânt.",
+                "en": "The historical site looks striking in the crisp winter air; wear a thick scarf as the open exterior area offers extremely little wind protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Church of Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Versuchen Sie, vor dem frühen Sonnenuntergang um 17 Uhr anzukommen; das schwindende Licht schafft eine ruhige Atmosphäre zum Abschluss.",
+                "hu": "Próbáljon meg a 17 óra körüli korai naplemente előtt megérkezni; a halványuló fény békés légkört teremt a fagyos túra lezárásához.",
+                "ro": "Încercați să ajungeți înainte de apusul de la ora 17:00; lumina care se stinge creează o atmosferă senină pentru a încheia turul rece.",
+                "en": "Aim to arrive before the early sunset around 5 PM; the fading light creates a serene atmosphere to end your chilly, ambitious bike tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az autós túra a legészakibb látnivalóknál, a Saint-Ferréol és a Saint-Sulpice templomoknál kezdődik. Délben a lenyűgöző Sainte-Assise kastélyra és a központi templomokra összpontosít. Délután vezessen délre a Notre-Dame de Corbeil-hez, mielőtt a Saint-Denis-nél fejezné be. Zárja a napot egy pihentető autózással a környéken.",
         "ro": "Turul dumneavoastră auto începe la cele mai nordice atracții, explorând Saint-Ferréol și Saint-Sulpice. La prânz vă concentrați pe impresionantul Castel Sainte-Assise și pe bisericile centrale. După-amiaza, conduceți spre sud la Notre-Dame de Corbeil înainte de a termina la Saint-Denis. Încheiați ziua cu o plimbare relaxantă.",
         "en": "Your driving tour begins at the northernmost sights, exploring Saint-Ferréol and Saint-Sulpice in the morning light. Midday focuses on the impressive Sainte-Assise Castle and the cluster of central churches. In the afternoon, drive south to Notre-Dame de Corbeil before concluding at Saint-Denis. Finish with a relaxing drive through the countryside."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem durch den Morgenregen und steigen Sie für die Kirchen kurz mit Schirm aus. Mittags kann der Verkehr zum Schloss stocken, aber die Heizung hält Sie trocken. Verbringen Sie den Nachmittag drinnen. Fahren Sie abends sicher, da Regen die Sicht einschränkt.",
+            "hu": "Vezessen kényelmesen a reggeli esőben, csak egy esernyővel kiszállva a templomokhoz. Délben a forgalom lelassulhat a kastély felé, de a fűtés szárazon tartja. A délutánt a történelmi belső terekben töltse. Vezessen haza biztonságosan a rossz látási viszonyok között.",
+            "ro": "Conduceți confortabil prin ploaia matinală, coborând scurt cu umbrela. La prânz traficul poate fi lent spre castel, dar încălzirea vă ține uscat. Petreceți după-amiaza explorând interioarele istorice. Conduceți prudent la final, deoarece ploaia reduce vizibilitatea seara.",
+            "en": "Drive comfortably through the morning rain, stepping out briefly under an umbrella for the churches. Midday traffic might slow you down towards the castle, but the heater keeps you dry. Spend the wet afternoon exploring interiors. Finish safely as rain heavily reduces evening visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Ferréol",
+                "hu": "Saint-Ferréol templom",
+                "ro": "Biserica Saint-Ferréol",
+                "en": "Church of Saint-Ferréol"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um die Zeit im strömenden Regen zu minimieren; die historische Kirche bietet einen trockenen, friedlichen Start.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja az esőben töltött időt; a történelmi templom száraz, békés kezdést kínál az útnak.",
+                "ro": "Parcați aproape de intrare pentru a minimiza timpul petrecut în ploaie; biserica istorică oferă un început uscat și pașnic al călătoriei.",
+                "en": "Park close to the entrance to minimize your time in the downpour; the historic church offers a dry, peaceful start to your rainy road trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Sulpice",
+                "hu": "Saint-Sulpice templom",
+                "ro": "Biserica Saint-Sulpice",
+                "en": "Church of Saint-Sulpice"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Schirm für den Sprint vom Auto bereit; das Geräusch des Regens auf dem alten Dach verstärkt die feierliche Stimmung.",
+                "hu": "Készítse elő esernyőjét a sprinthez az autóból; az öreg tetőn doboló heves eső hangja fokozza az ünnepélyes hangulatot.",
+                "ro": "Țineți umbrela la îndemână pentru fuga de la mașină; sunetul ploii abundente pe acoperișul vechi adaugă la starea solemnă.",
+                "en": "Keep your umbrella handy for the quick dash from the car; the profound sound of heavy rain against the old roof adds to the solemn mood."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sainte-Assise",
+                "hu": "Sainte-Assise Kastély",
+                "ro": "Castelul Sainte-Assise",
+                "en": "Sainte-Assise Castle"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des nassen Schlosses aus dem beheizten Auto oder trotzen Sie den schlammigen Wegen mit festen Regenstiefeln.",
+                "hu": "Élvezze a nedves kastély fenséges látványát a fűtött autóból, vagy vágjon neki a sáros utaknak erős gumicsizmában.",
+                "ro": "Bucurați-vă de vederea castelului umed din confortul mașinii încălzite sau înfruntați cărările noroioase cu cizme rezistente.",
+                "en": "Enjoy the majestic view of the wet castle from the comfort of your heated car, or bravely tackle the muddy paths with sturdy rain boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-Mère-de-Dieu",
+                "hu": "Sainte-Marie-Mère-de-Dieu templom",
+                "ro": "Biserica Sainte-Marie-Mère-de-Dieu",
+                "en": "Church of Sainte-Marie-Mère-de-Dieu"
+              },
+              "tip_5lang": {
+                "de": "Der graue Himmel lässt das Innere noch mehr wie einen Zufluchtsort wirken; Vorsicht vor rutschigem nassem Laub auf dem Parkplatz.",
+                "hu": "A szürke, esős égbolt miatt a belső tér még inkább menedéknek tűnik; vigyázzon a csúszós, nedves levelekre a parkolóban.",
+                "ro": "Cerul ploios face ca interiorul să pară un adevărat refugiu; aveți grijă la frunzele umede și alunecoase din zona de parcare.",
+                "en": "The grey, rainy skies make the interior feel even more like a safe haven; beware of exceptionally slippery wet leaves in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Schütteln Sie Ihren nassen Mantel ab, bevor Sie eintreten; das feuchte Wetter lässt das alte Mauerwerk noch historischer riechen.",
+                "hu": "Rázza le a nedves kabátot belépés előtt; a nyirkos időjárás miatt az ősi kőfalak gazdag történelmi illatot árasztanak.",
+                "ro": "Scuturați-vă haina umedă înainte de a intra; vremea umedă face ca piatra antică să miroasă și mai profund a istorie.",
+                "en": "Shake off your wet coat before entering this quiet space; the damp outdoor weather makes the ancient stonework smell richly historic."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Corbeil",
+                "hu": "Notre-Dame de Corbeil templom",
+                "ro": "Biserica Notre-Dame de Corbeil",
+                "en": "Church of Notre-Dame de Corbeil"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht der Stätte ein dramatisches Aussehen; fahren Sie vorsichtig, da die ländlichen Straßen hier leicht überfluten können.",
+                "hu": "Az eső drámai megjelenést kölcsönöz a helyszínnek; vezessen óvatosan, mivel a közeli vidéki utak enyhén elárasztódhatnak.",
+                "ro": "Ploaia oferă acestui sit un aspect dramatic; conduceți cu prudență, deoarece drumurile rurale din apropiere se pot inunda ușor.",
+                "en": "The heavy rain gives this site a very dramatic, moody appearance; drive carefully as the nearby rural roads can flood slightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Church of Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie hier Ihren nassen Roadtrip; schließen Sie Ihren Schirm auf der überdachten Veranda, bevor Sie das warme Schiff betreten.",
+                "hu": "Fejezze be itt esős autóútját; használja a fedett tornácot az esernyő összecsukására, mielőtt belépne a meleg hajóba.",
+                "ro": "Încheiați aici călătoria ploioasă; folosiți pridvorul acoperit pentru a închide umbrela înainte de a păși în naosul cald și primitor.",
+                "en": "End your rainy road trip here; perfectly utilize the covered porch to close your umbrella before stepping into the warm, inviting nave."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autoheizung ist Ihr bester Freund auf dieser frostigen Tour. Mittags bieten sich klare, kalte Ausblicke beim Fahren zum Schlossgut. Der Nachmittag ist perfekt für den Winter, da man zwischen geschützten Stätten hüpft. Fahren Sie sicher zurück, da frühe Dunkelheit und eisige Straßen auftreten.",
+            "hu": "Az autófűtés a legjobb barátja ezen a fagyos túrán. Délben tiszta, hideg kilátás nyílik a kastélyhoz vezető úton. A délutáni útiterv tökéletes a télre, védett történelmi helyszínek között ugrálva. Vezessen biztonságosan, ahogy a korai sötétség és a jeges utak megjelennek.",
+            "ro": "Încălzirea mașinii este cel mai bun prieten pe acest traseu geros. Prânzul oferă vederi clare, dar reci, spre castel. După-amiaza este perfectă pentru iarnă, sărind între situri istorice adăpostite. Conduceți înapoi în siguranță, odată cu lăsarea întunericului devreme și apariția gheții.",
+            "en": "The car heater is your best friend on this freezing morning tour. Midday offers clear but cold views as you drive towards the castle. The afternoon itinerary is perfect for winter, hopping quickly between sheltered historic sites. Drive back safely as early nightfall and icy roads appear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Ferréol",
+                "hu": "Saint-Ferréol templom",
+                "ro": "Biserica Saint-Ferréol",
+                "en": "Church of Saint-Ferréol"
+              },
+              "tip_5lang": {
+                "de": "Das Auto wärmt Sie auf, aber das steinerne Innere der Kirche erfordert, dass Sie Ihren dicken Wintermantel anbehalten.",
+                "hu": "Az autó felmelegíti, de a templom kőből épült belső tere megköveteli, hogy magán tartsa a vastag téli kabátot.",
+                "ro": "Mașina vă încălzește, dar interiorul de piatră al bisericii necesită să vă păstrați haina groasă de iarnă pe dumneavoastră.",
+                "en": "The car warms you up perfectly, but the church's stone interior requires keeping your thick winter coat zipped tight during the visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Sulpice",
+                "hu": "Saint-Sulpice templom",
+                "ro": "Biserica Saint-Sulpice",
+                "en": "Church of Saint-Sulpice"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Blitzeis auf dem Parkplatz; die kalte Winterluft lässt die historische Architektur scharf hervortreten.",
+                "hu": "Vigyázzon a tükörjégre a parkolóban; a friss téli levegő élesen kiemeli a történelmi építészetet.",
+                "ro": "Atenție la gheața neagră din parcare; aerul proaspăt de iarnă face ca arhitectura istorică să iasă în evidență.",
+                "en": "Watch out carefully for dangerous black ice in the parking lot; the crisp winter air makes the historic architecture stand out sharply."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Sainte-Assise",
+                "hu": "Sainte-Assise Kastély",
+                "ro": "Castelul Sainte-Assise",
+                "en": "Sainte-Assise Castle"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss sieht vom Winterfrost umgeben atemberaubend aus; genießen Sie die ungestörte Sicht durch die kahlen Bäume aus Ihrem warmen Auto.",
+                "hu": "A kastély lenyűgöző a téli fagyban; élvezze a kopasz fákon keresztüli akadálytalan kilátást meleg autójából.",
+                "ro": "Castelul arată uimitor înconjurat de gerul iernii; bucurați-vă de vederea neobstrucționată prin copacii goi din vehiculul dumneavoastră cald.",
+                "en": "The massive castle looks absolutely stunning surrounded by winter frost; enjoy the unobstructed view through bare trees from your warm vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Sainte-Marie-Mère-de-Dieu",
+                "hu": "Sainte-Marie-Mère-de-Dieu templom",
+                "ro": "Biserica Sainte-Marie-Mère-de-Dieu",
+                "en": "Church of Sainte-Marie-Mère-de-Dieu"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie nur kurz in die beißende Kälte, um die Kirche zu betreten, wo die tiefe Wintersonne schöne Schatten wirft.",
+                "hu": "Csak addig lépjen ki a metsző hidegbe, amíg beér a templomba, ahol az alacsony téli nap gyönyörű belső árnyékokat hoz létre.",
+                "ro": "Pășiți în frigul tăios doar cât să intrați în biserică, unde soarele coborât de iarnă creează umbre interioare frumoase.",
+                "en": "Step out into the biting cold just long enough to swiftly enter the church, where the low winter sun creates beautiful indoor shadows."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-l'Assomption",
+                "hu": "Notre-Dame-de-l'Assomption templom",
+                "ro": "Biserica Notre-Dame-de-l'Assomption",
+                "en": "Church of Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Durch die kurzen Tage erwischen Sie hier das goldene Nachmittagslicht; halten Sie den Motor für die nächste kurze Fahrt warm.",
+                "hu": "A rövid nappalok miatt itt kapja el a délutáni aranyórát; tartsa melegen a motort a következő rövid útra.",
+                "ro": "Zilele scurte înseamnă că veți prinde aici ora de aur a după-amiezii; păstrați motorul cald pentru următoarea călătorie scurtă.",
+                "en": "The extremely short days mean you will perfectly catch the afternoon golden hour here; keep the engine slightly warm for the next short drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de Corbeil",
+                "hu": "Notre-Dame de Corbeil templom",
+                "ro": "Biserica Notre-Dame de Corbeil",
+                "en": "Church of Notre-Dame de Corbeil"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Winterbesuch ist am besten, da das offene Gelände eisigen Winden ausgesetzt ist; packen Sie sich dick ein.",
+                "hu": "Egy gyors téli látogatás a legjobb, mivel a nyitott történelmi terület ki van téve a fagyos szeleknek; öltözzön be nagyon melegen.",
+                "ro": "O vizită scurtă de iarnă este cea mai bună, deoarece terenurile deschise sunt expuse vânturilor înghețate; înfofoliți-vă înainte de a ieși.",
+                "en": "A lightning-fast winter visit is best as the open historical grounds are fully exposed to freezing winds; bundle up tightly before leaving the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Denis",
+                "hu": "Saint-Denis templom",
+                "ro": "Biserica Saint-Denis",
+                "en": "Church of Saint-Denis"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie an, wenn die frühe Winterdämmerung gegen 17 Uhr einsetzt; die beleuchtete Fassade empfängt Sie warm vor der kalten Heimfahrt.",
+                "hu": "Érkezzen meg a korai, 17 óra körüli téli sötétedés idején; a kivilágított homlokzat melegen üdvözli a sötét, fagyos hazaút előtt.",
+                "ro": "Ajungeți chiar la lăsarea întunericului de iarnă, în jur de ora 17; fațada iluminată vă întâmpină călduros înaintea drumului rece spre casă.",
+                "en": "Arrive securely just as the early winter dusk settles around 5 PM; the illuminated facade welcomes you warmly before your dark, chilly drive home."
+              }
+            }
+          ]
+        }
       }
     }
   }

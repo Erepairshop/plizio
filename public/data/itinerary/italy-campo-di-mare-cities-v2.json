@@ -137,6 +137,168 @@
         "hu": "Kezdje a sétát a természetes Spiaggia Libera strandon, ahol élvezheti a reggeli tengeri szellőt. Dél körül sétáljon végig az élettel teli parton az Il Quadrifoglio és az Ocean Surf Beach felé, élvezve a napfényt. Délután az út a Palude di Torre Flavia békés természetvédelmi területére vezet. A napot a festői Torre Flavia toronyromjainál zárhatja, miközben a tenger morajlását hallgatja.",
         "ro": "Începeți plimbarea la plaja publică naturală Spiaggia Libera pentru a vă bucura de briza proaspătă a mării. La prânz, plimbați-vă de-a lungul coastei pline de viață până la Il Quadrifoglio și Ocean Surf Beach pentru relaxare. După-amiaza, traseul vă duce în liniștita rezervație naturală Palude di Torre Flavia. Ziua se încheie la ruinele pitorești ale turnului istoric Torre Flavia de pe mal.",
         "en": "Start your walk at the natural Spiaggia Libera, enjoying the fresh morning sea breeze along the peaceful shore. By midday, stroll down the lively coast to Il Quadrifoglio and Ocean Surf Beach to soak up the sun and vibrant atmosphere. In the afternoon, the path leads into the tranquil Palude di Torre Flavia nature reserve. The day concludes at the picturesque ruins of Torre Flavia by the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Spaziergang im Regen am Campo di Mare bietet eine mystische Atmosphäre. Der Vormittag beginnt an der Küste, wo das Rauschen der Wellen den Regen übertönt. Mittags suchen wir Schutz in überdachten Bereichen, um das graue Meer zu beobachten. Am Nachmittag erkunden wir das Sumpfgebiet, das im Nebel versinkt. Den Abend lassen wir bei der Melodie der Tropfen auf dem Wasser ausklingen.",
+            "hu": "A Campo di Mare esőben is különleges élményt nyújt. Reggel a tengerparton kezdünk, ahol a hullámok morajlása elnyomja az eső kopogását. Délben fedett helyen pihenünk meg, figyelve a szürke horizontot. Délután a mocsárvidék ködös, titokzatos arcát fedezzük fel, ügyelve a csúszós ösvényekre. Az estét a vízparti nyugalomban zárjuk, élvezve az eső illatát és a tenger morajlását.",
+            "ro": "O plimbare prin ploaie în Campo di Mare oferă o atmosferă mistică. Dimineața începe pe coastă, unde sunetul valurilor acoperă picăturile de ploaie. La prânz căutăm adăpost în zone acoperite pentru a observa marea gri. După-amiaza explorăm mlaștina care se scufundă în ceață. Seara se încheie cu melodia ploii pe apă, într-o liniște deplină și o atmosferă deosebit de relaxantă.",
+            "en": "A rainy walk in Campo di Mare offers a mystical atmosphere. The morning starts on the coast, where the sound of waves drowns out the rain. At noon, we seek shelter in covered areas to watch the grey sea. In the afternoon, we explore the marshland as it sinks into the mist, being careful of slippery paths. We end the evening with the melody of raindrops on the water in total peace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "spiaggia libera",
+                "hu": "spiaggia libera",
+                "ro": "spiaggia libera",
+                "en": "spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das dramatische graue Meer unter dem Regen; bringen Sie einen windfesten Regenschirm mit, da die Küstenwinde hier bei schlechtem Wetter sehr kräftig wehen können.",
+                "hu": "Csodáld meg a drámai szürke tengert az esőben; hozz szélálló esernyőt, mert a tengerparti szél viharos lehet, de a látvány kárpótol a nedves időjárásért a parton.",
+                "ro": "Observați marea gri dramatică sub ploaie; aduceți o umbrelă rezistentă la vânt, deoarece vânturile de coastă pot fi foarte puternice aici în timpul vremii nefavorabile.",
+                "en": "Watch the dramatic grey sea under the rain; bring a windproof umbrella as the coastal winds can be very strong here during bad weather, but the view is worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Quadrifoglio",
+                "hu": "Il Quadrifoglio",
+                "ro": "Il Quadrifoglio",
+                "en": "Il Quadrifoglio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachte Terrasse für eine Pause; es ist der ideale Ort, um dem starken Regen zu entkommen und dabei den Blick auf den verregneten Strand zu genießen.",
+                "hu": "Használd a fedett teraszt egy rövid pihenőre; ez a tökéletes hely, hogy menedéket találj a heves eső elől, miközben az elnéptelenedett, eső áztatta strandot figyeled.",
+                "ro": "Folosiți terasa acoperită pentru o pauză; este locul ideal pentru a scăpa de ploaia torențială în timp ce vă bucurați de vederea plajei pustii sub picăturile de apă.",
+                "en": "Use the covered terrace for a break; it is the ideal spot to escape the heavy rain while enjoying the view of the empty, rain-soaked beach from a dry vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Ocean Surf Beach",
+                "hu": "Ocean Surf Beach",
+                "ro": "Ocean Surf Beach",
+                "en": "Ocean Surf Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Surfer, die dem Regen trotzen; der Nebel über dem Wasser bietet eine einzigartige, melancholische Kulisse für Fotos. Tragen Sie wasserfeste Schuhe im Sand.",
+                "hu": "Nézd meg az esővel dacoló szörfösöket; a víz feletti köd egyedülálló, melankolikus hátteret kínál a fotókhoz. Viselj vízhatlan cipőt, mert a homok ilyenkor mélyebb.",
+                "ro": "Urmăriți surferii care înfruntă ploaia; ceața de deasupra apei oferă un fundal unic și melancolic pentru fotografii. Purtați încălțăminte impermeabilă pe nisipul ud.",
+                "en": "Watch the surfers braving the rain; the mist over the water offers a unique, melancholic backdrop for photos. Wear waterproof shoes as the wet sand is quite deep."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento naturale Palude di Torre Flavia",
+                "hu": "Monumento naturale Palude di Torre Flavia",
+                "ro": "Monumento naturale Palude di Torre Flavia",
+                "en": "Monumento naturale Palude di Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Vogelbeobachtung ist im Regen großartig, aber bleiben Sie auf den Holzstegen, um dem tiefen Schlamm zu entgehen. Die feuchte Luft macht die Farben der Natur intensiver.",
+                "hu": "A madármegfigyelés esőben is kiváló, de maradj a fapallókon, hogy elkerüld a mély sarat. A párás levegőben a természet színei sokkal élénkebbek és mélyebbek.",
+                "ro": "Observarea păsărilor este excelentă pe ploaie, dar rămâneți pe pontoanele de lemn pentru a evita noroiul adânc. Aerul umed face culorile naturii mult mai intense.",
+                "en": "Birdwatching is great in the rain, but stay on the wooden boardwalks to avoid the deep mud. The humid air makes the natural colors appear much more vivid and intense."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Flavia",
+                "hu": "Torre Flavia",
+                "ro": "Torre Flavia",
+                "en": "Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken vor einem stürmischen Himmel majestätisch; seien Sie vorsichtig auf den rutschigen Felsen in der Nähe des Turms. Ein Regenponcho schützt hier vor Gischt.",
+                "hu": "A romok fenségesen mutatnak a viharos égbolt előtt; légy óvatos a torony melletti csúszós sziklákon. Egy esőponcsó jól jöhet a felcsapó sós permet ellen is.",
+                "ro": "Ruinele arată maiestuos pe fundalul unui cer furtunos; fiți atenți pe stâncile alunecoase de lângă turn. O pelerină de ploaie vă va proteja de spray-ul mării.",
+                "en": "The ruins look majestic against a stormy sky; be careful on the slippery rocks near the tower. A rain poncho will protect you from both rain and sea spray here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Campo di Mare ist ruhig und erfrischend. Ein morgendlicher Strandspaziergang bei klarer Luft belebt die Sinne. Mittags genießen wir die Stille der Küste, fernab der Sommermassen. Am Nachmittag erkunden wir das Marschland im goldenen Winterlicht. Da die Sonne gegen 17:00 Uhr untergeht, planen wir den Abschluss am Turm bei einem spektakulären Sonnenuntergang.",
+            "hu": "A téli Campo di Mare csendes és felfrissítő. A reggeli tengerparti séta a tiszta levegőn élénkíti az érzékeket. Napközben a part magányát élvezzük, távol a nyári tömegtől. Délután az aranyló téli fényekben fedezzük fel a mocsárvidéket. Mivel a nap 17:00 körül nyugszik, a nap végét a toronynál tervezzük, ahol a naplemente látványa lenyűgöző.",
+            "ro": "Iarna în Campo di Mare este liniștită și revigorantă. O plimbare matinală pe plajă în aerul curat revigorează simțurile. La prânz ne bucurăm de liniștea coastei, departe de aglomerație. După-amiaza explorăm mlaștina în lumina aurie a iernii. Deoarece soarele apune în jurul orei 17:00, planificăm finalul la turn cu un apus spectaculos.",
+            "en": "Winter in Campo di Mare is quiet and refreshing. A morning beach walk in the crisp air invigorates the senses. At noon, we enjoy the solitude of the coast, away from summer crowds. In the afternoon, we explore the marshland in the golden winter light. Since sunset is around 5 PM, we plan the finale at the tower with a spectacular view."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "spiaggia libera",
+                "hu": "spiaggia libera",
+                "ro": "spiaggia libera",
+                "en": "spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie die kalte Meeresbrise; tragen Sie einen dicken Schal, um sich vor dem Wind zu schützen. Die Einsamkeit des Strandes bietet im Winter eine seltene Ruhe.",
+                "hu": "Érezd a hideg tengeri szellőt; viselj vastag sálat, hogy védekezz a szél ellen. A strand téli magánya ritka békét és tökéletes kikapcsolódást nyújt a sétálóknak.",
+                "ro": "Simțiți briza rece a mării; purtați un fular gros pentru a vă proteja de vânt. Singurătatea plajei oferă o liniște rară în timpul iernii, ideală pentru relaxare.",
+                "en": "Feel the cold sea breeze; wear a thick scarf to protect yourself from the wind. The solitude of the beach offers a rare peace and quiet during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Quadrifoglio",
+                "hu": "Il Quadrifoglio",
+                "ro": "Il Quadrifoglio",
+                "en": "Il Quadrifoglio"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Ausruhen; genießen Sie die Gelassenheit der Küste. Achten Sie auf warme Schichten, da die Temperaturen im Schatten der Gebäude schnell sinken können.",
+                "hu": "Csendes hely a pihenésre; élvezd a part nyugalmát. Figyelj a réteges öltözködésre, mert az épületek árnyékában télen gyorsan lehűlhet a levegő a tenger felől.",
+                "ro": "Un loc liniștit pentru odihnă; bucurați-vă de seninătatea coastei. Atenție la straturile calde, deoarece temperaturile pot scădea rapid la umbra clădirilor.",
+                "en": "A quiet place to rest; enjoy the serenity of the coast. Pay attention to warm layers, as temperatures can drop quickly in the shade of the buildings in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ocean Surf Beach",
+                "hu": "Ocean Surf Beach",
+                "ro": "Ocean Surf Beach",
+                "en": "Ocean Surf Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die wilderen Winterwellen; der Mangel an Menschenmassen macht den Strand zu einem privaten Refugium. Perfekt für einen meditativen Moment in der Kälte.",
+                "hu": "Figyeld meg a vadabb téli hullámokat; a tömeg hiánya miatt a strand egy privát menedéknek tűnik. Tökéletes hely egy meditatív pillanatra a friss, hideg levegőn.",
+                "ro": "Observați valurile mai sălbatice de iarnă; lipsa aglomerației face ca plaja să pară un refugiu privat. Perfect pentru un moment meditativ în aerul rece de coastă.",
+                "en": "Observe the wilder winter waves; the lack of crowds makes the beach feel like a private sanctuary. Perfect for a meditative moment in the fresh, cold coastal air."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento naturale Palude di Torre Flavia",
+                "hu": "Monumento naturale Palude di Torre Flavia",
+                "ro": "Monumento naturale Palude di Torre Flavia",
+                "en": "Monumento naturale Palude di Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie nach überwinternden Flamingos; bringen Sie ein Fernglas mit und ziehen Sie Thermokleidung für das offene Feld an. Das Licht ist hier am Nachmittag magisch.",
+                "hu": "Keresd az itt telelő flamingókat; hozz távcsövet és viselj hőtartó ruházatot a nyílt terepen. A fények délután különösen varázslatosak a mocsaras területen.",
+                "ro": "Căutați flamingo care iernează aici; aduceți binoclu și îmbrăcați haine termice pentru câmpul deschidere. Lumina este magică aici în timpul după-amiezii.",
+                "en": "Look for wintering flamingos; bring binoculars and wear thermal clothing for the open field. The light is magical here in the late afternoon during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Flavia",
+                "hu": "Torre Flavia",
+                "ro": "Torre Flavia",
+                "en": "Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Sonnenuntergang hinter dem alten Turm um 17 Uhr; das Winterlicht ist außergewöhnlich scharf. Machen Sie sich bereit für einen schnellen Temperaturabfall.",
+                "hu": "Nézd meg a naplementét az ősi torony mögött délután 5-kor; a téli fény kivételesen éles és szép. Készülj fel a napnyugta utáni gyors hőmérséklet-csökkenésre.",
+                "ro": "Urmăriți apusul de soare în spatele turnului antic la ora 17:00; lumina de iarnă este excepțional de clară. Pregătiți-vă pentru o scădere rapidă a temperaturii.",
+                "en": "Watch the sunset behind the ancient tower at 5 PM; the winter light is exceptionally sharp and beautiful. Be prepared for a quick temperature drop after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Indítsa kerékpártúráját a San Francesco templomnál, mielőtt leereszkedne a tengerparthoz. Délben érje el a strandokat és a tengerészeti központot, ahol tarthat egy frissítő pihenőt. Délután tekerjen végig a gyönyörű parti tájon a Palude di Torre Flavia lenyűgöző madárvilága felé. A túrát a régi toronyromnál fejezze be, ahonnan csodálatos kilátás nyílik a végtelen, kék tengerre.",
         "ro": "Începeți turul cu bicicleta la biserica San Francesco înainte de a pedala spre coastă. La prânz ajungeți la plaje și la centrul nautic, perfecte pentru o pauză revigorantă. După-amiaza, mergeți prin peisajul de coastă superb spre fascinanta rezervație naturală Palude di Torre Flavia. Încheiați turul la vechiul turn în ruină, bucurându-vă de priveliștea mării albastre nesfârșite.",
         "en": "Kick off your bike tour at the San Francesco church in town before pedaling down to the breezy coast. By midday, reach the lovely beaches and the nautical center, taking a refreshing seaside break. In the afternoon, ride through the gorgeous coastal landscape towards the fascinating Torre Flavia nature reserve. End the tour at the ancient tower ruins, overlooking the vast, deep blue sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht am Campo di Mare. Der Vormittag beginnt an der Kirche, gefolgt von einer Fahrt zum Meer auf nassen Straßen. Mittags machen wir Pausen an überdachten Marine-Clubs. Am Nachmittag führt der Weg durch die feuchte Natur zur Torre Flavia. Der Abend endet mit glitzernden Reflexionen der Straßenlaternen auf dem Asphalt.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Campo di Marén. A reggel a templomnál kezdődik, majd vizes utakon tekerünk a tenger felé. Délben fedett hajókluboknál pihenünk meg. Délután a nedves természetben vezet az utunk a Torre Flavia felé. Az este az aszfalton csillogó utcai fények tükröződésével és a friss eső illatával zárul.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență în Campo di Mare. Dimineața începe la biserică, urmată de o plimbare spre mare pe drumuri ude. La prânz facem pauze la cluburile nautice acoperite. După-amiaza drumul duce prin natura umedă spre Torre Flavia. Seara se încheie cu reflexiile sclipitoare ale luminilor stradale pe asfalt.",
+            "en": "Cycling in the rain requires caution in Campo di Mare. The morning starts at the church, followed by a ride to the sea on wet roads. At noon, we take breaks at covered nautical clubs. In the afternoon, the path leads through damp nature towards Torre Flavia. The evening ends with the sparkling reflections of streetlights on the asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Francesco",
+                "hu": "Chiesa di San Francesco",
+                "ro": "Chiesa di San Francesco",
+                "en": "Chiesa di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Tour unter dem schützenden Portal der Kirche; prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen starten. Die Kirche bietet einen trockenen Startpunkt.",
+                "hu": "Kezezd a túrát a templom védelmező kapuja alatt; ellenőrizd a fékeidet, mielőtt a vizes utakra indulsz. A templom kertje biztonságos és száraz kiindulópont.",
+                "ro": "Începeți turul sub portalul protector al bisericii; verificați frânele înainte de a porni pe drumurile ude. Biserica oferă un punct de plecare uscat și liniștit.",
+                "en": "Start the tour under the protective portal of the church; check your brakes before starting on the wet roads. The church grounds offer a safe and dry starting point."
+              }
+            },
+            {
+              "name": {
+                "de": "spiaggia libera",
+                "hu": "spiaggia libera",
+                "ro": "spiaggia libera",
+                "en": "spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die sandigen Wege direkt am Wasser; der Sand ist nass sehr schwer zu befahren. Bleiben Sie auf den befestigten Pfaden und genießen Sie den Blick auf das Meer.",
+                "hu": "Kerüld a homokos utakat közvetlenül a víznél; a vizes homokban nagyon nehéz tekerni. Maradj a szilárd burkolatú ösvényeken, és onnan élvezd a tengeri kilátást.",
+                "ro": "Evitați potecile nisipoase direct lângă apă; nisipul ud este foarte greu de parcurs cu bicicleta. Rămâneți pe potecile pavate și bucurați-vă de vederea mării.",
+                "en": "Avoid sandy paths directly by the water; wet sand is very difficult to cycle through. Stay on the paved paths and enjoy the sea view from a safer distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Associazione Nautica Campo di Mare",
+                "hu": "Associazione Nautica Campo di Mare",
+                "ro": "Associazione Nautica Campo di Mare",
+                "en": "Associazione Nautica Campo di Mare"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach des Nautikclubs; der Klang des Regens auf den Booten ist sehr beruhigend. Ideal, um die Regenausrüstung für die Weiterfahrt zu richten.",
+                "hu": "Keress menedéket a hajóklub előtetője alatt; a hajókon kopogó eső hangja nagyon nyugtató. Ideális hely az esőruházat igazítására a túra folytatása előtt.",
+                "ro": "Căutați adăpost sub copertina clubului nautic; sunetul ploii pe bărci este foarte relaxant. Ideal pentru a vă ajusta echipamentul de ploaie înainte de plecare.",
+                "en": "Seek shelter under the canopy of the nautical club; the sound of rain on the boats is very soothing. Ideal for adjusting your rain gear before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento naturale Palude di Torre Flavia",
+                "hu": "Monumento naturale Palude di Torre Flavia",
+                "ro": "Monumento naturale Palude di Torre Flavia",
+                "en": "Monumento naturale Palude di Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Holzstegen, da diese bei Nässe extrem rutschig sein können. Schutzbleche am Rad sind hier unerlässlich, um nicht völlig durchnässt zu werden.",
+                "hu": "Tekerj lassan a fapallókon, mert nedvesen rendkívül csúszósak lehetnek. A sárvédő elengedhetetlen a biciklin, hogy ne ázz el teljesen a felcsapódó víztől.",
+                "ro": "Mergeți încet pe pontoanele de lemn, deoarece acestea pot fi extrem de alunecoase când sunt ude. Apărătorile de noroi sunt esențiale pentru a nu vă uda complet.",
+                "en": "Ride slowly on the wooden boardwalks as they can be extremely slippery when wet. Mudguards are essential here to keep you from getting completely soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Flavia",
+                "hu": "Torre Flavia",
+                "ro": "Torre Flavia",
+                "en": "Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihr Rad an einem festen Punkt an und gehen Sie das letzte Stück zum Turm vorsichtig zu Fuß. Die Aussicht auf den Regen über dem Meer ist von hier fantastisch.",
+                "hu": "Zárd le a biciklit egy stabil ponthoz, és az utolsó szakaszt a toronyhoz óvatosan, gyalog tedd meg. A tenger feletti eső látványa innen fantasztikus és drámai.",
+                "ro": "Blocați bicicleta într-un punct fix și parcurgeți ultima porțiune până la turn cu atenție, pe jos. Vederea ploii peste mare este fantastică de aici.",
+                "en": "Lock your bike to a fixed point and walk the last stretch to the tower carefully. The view of the rain over the sea is fantastic and dramatic from this spot."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winter-Radtouren am Campo di Mare sind erfrischend und windig. Der Vormittag startet bei der Kirche mit einer Tour durch die klaren Küstenstraßen. Mittags rasten wir an der windgeschützten Marina. Am Nachmittag radeln wir im sanften Winterlicht zum Naturschutzgebiet. Da es früh dunkel wird, beenden wir die Tour rechtzeitig bei Sonnenuntergang mit warmen Handschuhen.",
+            "hu": "A téli kerékpártúrák Campo di Marén frissítőek és szelesek. A reggel a templomtól indul a tiszta parti utakon keresztül. Napközben a szélvédett kikötőnél pihenünk meg. Délután a lágy téli fényekben tekerünk a természetvédelmi terület felé. Mivel korán sötétedik, a túrát időben, naplementekor zárjuk, vastag kesztyűt viselve.",
+            "ro": "Tururile cu bicicleta iarna în Campo di Mare sunt revigorante și bătute de vânt. Dimineața începe la biserică cu un tur pe drumurile de coastă clare. La prânz ne odihnim la marina protejată de vânt. După-amiaza pedalăm spre rezervația naturală în lumina blândă a iernii. Deoarece se întunecă devreme, încheiem turul la apus.",
+            "en": "Winter bike tours in Campo di Mare are refreshing and windy. The morning starts at the church with a tour through clear coastal roads. At noon, we rest at the wind-sheltered marina. In the afternoon, we cycle towards the nature reserve in the soft winter light. Since it gets dark early, we finish the tour at sunset wearing warm gloves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Francesco",
+                "hu": "Chiesa di San Francesco",
+                "ro": "Chiesa di San Francesco",
+                "en": "Chiesa di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie die Fahrt mit einer Besichtigung des kühlen Kircheninneren; tragen Sie Thermo-Lagen, um gegen den kalten Fahrtwind gewappnet zu sein. Die Luft ist hier sehr klar.",
+                "hu": "Kezezd a napot a templom hűvös belső terének megtekintésével; viselj hőtartó rétegeket, hogy védekezz a hideg menetszél ellen. A reggeli levegő itt rendkívül tiszta.",
+                "ro": "Începeți plimbarea cu o vizită în interiorul răcoros al bisericii; purtați straturi termice pentru a vă proteja de vântul rece. Aerul este foarte curat aici dimineața.",
+                "en": "Start the ride with a visit to the cool church interior; wear thermal layers to protect yourself from the cold wind while cycling. The morning air is exceptionally clear."
+              }
+            },
+            {
+              "name": {
+                "de": "spiaggia libera",
+                "hu": "spiaggia libera",
+                "ro": "spiaggia libera",
+                "en": "spiaggia libera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die leeren Wege am Strand; die kalte Luft macht das Treten leichter. Tragen Sie eine winddichte Jacke, da der Seewind im Winter sehr bissig sein kann.",
+                "hu": "Élvezd az üres utakat a strand mellett; a hideg levegőben könnyebb a tekerés. Viselj szélálló kabátot, mert a tengeri szél télen nagyon csípős és fagyos lehet.",
+                "ro": "Bucurați-vă de drumurile goale de lângă plajă; aerul rece face pedalarea mai ușoară. Purtați o jachetă rezistentă la vânt, deoarece briza mării poate fi tăioasă iarna.",
+                "en": "Enjoy the empty paths by the beach; the cold air makes pedaling feel easier. Wear a windproof jacket as the sea breeze can be very biting and chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Associazione Nautica Campo di Mare",
+                "hu": "Associazione Nautica Campo di Mare",
+                "ro": "Associazione Nautica Campo di Mare",
+                "en": "Associazione Nautica Campo di Mare"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause und genießen Sie die Wintersonne im Hafen; die Boote im Winterschlaf bieten ein tolles Fotomotiv. Halten Sie die Hände in den Taschen warm.",
+                "hu": "Tarts egy rövid szünetet és élvezd a téli napsütést a kikötőben; a téli álmot alvó hajók remek fotótémát kínálnak. Tartsd melegen a kezeidet a zsebeidben a pihenő alatt.",
+                "ro": "Faceți o scurtă pauză și bucurați-vă de soarele de iarnă în port; bărcile în hibernare oferă un subiect foto excelent. Păstrați-vă mâinile calde în buzunare în timpul pauzei.",
+                "en": "Take a short break and enjoy the winter sun in the harbor; the boats in winter storage offer a great photo opportunity. Keep your hands warm in your pockets during the rest."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento naturale Palude di Torre Flavia",
+                "hu": "Monumento naturale Palude di Torre Flavia",
+                "ro": "Monumento naturale Palude di Torre Flavia",
+                "en": "Monumento naturale Palude di Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie vorsichtig zum Aussichtspunkt; die tiefstehende Wintersonne kann blenden. Die Palude ist ein wichtiger Winterrastplatz für viele seltene Vogelarten.",
+                "hu": "Tekerj óvatosan a kilátópont felé; az alacsonyan járó téli nap elvakíthat. A mocsár fontos téli pihenőhely számos ritka madárfaj számára, hozz távcsövet.",
+                "ro": "Pedalați cu atenție spre punctul de belvedere; soarele de iarnă jos vă poate orbi. Mlaștina este un loc important de odihnă iarna pentru multe specii de păsări rare.",
+                "en": "Cycle carefully towards the viewpoint; the low winter sun can be blinding. The marsh is an important winter resting place for many rare bird species, bring binoculars."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Flavia",
+                "hu": "Torre Flavia",
+                "ro": "Torre Flavia",
+                "en": "Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier pünktlich zum Sonnenuntergang um 17 Uhr; die Farben sind im Winter intensiver. Denken Sie an Licht am Fahrrad für den Rückweg in der Dämmerung.",
+                "hu": "Zárd a túrát pontosan a 17 órai naplementekor; a színek télen sokkal intenzívebbek. Ne felejtsd el bekapcsolni a kerékpárlámpákat a szürkületi visszútra.",
+                "ro": "Încheiați turul aici exact la apusul de soare de la ora 17:00; culorile sunt mai intense iarna. Nu uitați de luminile bicicletei pentru drumul de întoarcere.",
+                "en": "Finish your tour here exactly at the 5 PM sunset; the colors are more intense in winter. Don't forget to turn on your bike lights for the ride back in the twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,195 @@
         "hu": "Kezdje a napot nyugodtan a San Francesco templomnál, majd autózzon kényelmesen a Six Beach House-hoz. Délben a Zelio Beach és a Da Ezio alla Torretta csábít hosszas napozásra és finom ebédekre. A délutánt a Palude di Torre Flavia vizenyős területének felfedezésére szánhatja, ahol ritka madarakat figyelhet meg. Végül a Torre Flavia romjai kínálnak festői, emlékezetes tengerparti kilátást.",
         "ro": "Începeți ziua la liniștita biserică San Francesco, apoi conduceți confortabil spre Six Beach House. La amiază, plajele Zelio și Da Ezio alla Torretta vă invită la plajă și la o pauză culinară. După-amiaza este dedicată explorării rezervației naturale Palude di Torre Flavia, ideală pentru observarea păsărilor. La final, ruinele turnului Torre Flavia oferă priveliști costiere de neuitat.",
         "en": "Start your day peacefully at the San Francesco church before driving comfortably to Six Beach House. At midday, Zelio Beach and Da Ezio alla Torretta invite you for extensive sunbathing and a pleasant lunch. The afternoon is dedicated to exploring the serene Palude di Torre Flavia wetland, perfect for birdwatching. Finally, the historic Torre Flavia offers stunning coastal views to end the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt im Regen am Campo di Mare ist entspannt und trocken. Der Vormittag beginnt mit der Besichtigung der Kirche, gefolgt von einer Fahrt entlang der Küstenstraße. Mittags genießen wir die Aussicht auf das stürmische Meer aus dem warmen Auto. Am Nachmittag besuchen wir das Naturschutzgebiet, bevor wir den Tag bei der Torre Flavia im sanften Regenschleier beenden.",
+            "hu": "Az esős autóút Campo di Marén kényelmes és száraz élmény. A reggel a templom megtekintésével indul, majd a tengerparti úton autózunk végig. Délben a viharos tenger látványát a meleg autóból élvezzük. Délután a természetvédelmi területet keressük fel, majd a napot a Torre Flaviánál zárjuk az esőfüggönyön keresztül feltáruló különleges kilátással.",
+            "ro": "O călătorie cu mașina prin ploaie în Campo di Mare este relaxată și uscată. Dimineața începe cu vizitarea bisericii, urmată de o plimbare de-a lungul drumului de coastă. La prânz ne bucurăm de vederea mării furtunoase din mașina caldă. După-amiaza vizităm rezervația naturală înainte de a încheia ziua la Torre Flavia în vălul de ploaie.",
+            "en": "A car trip in the rain at Campo di Mare is relaxed and dry. The morning starts with visiting the church, followed by a drive along the coastal road. At noon, we enjoy the view of the stormy sea from the warm car. In the afternoon, we visit the nature reserve before ending the day at Torre Flavia with a unique view through the rain curtain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Francesco",
+                "hu": "Chiesa di San Francesco",
+                "ro": "Chiesa di San Francesco",
+                "en": "Chiesa di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt vor der Kirche; so gelangen Sie trocken ins Innere. Die Kirche bietet eine friedliche Atmosphäre, während draußen der Regen auf das Dach prasselt.",
+                "hu": "Parkolj közvetlenül a templom előtt; így szárazon juthatsz be az épületbe. A templom békés hangulatot áraszt, miközben kint az eső kopog a tetőn és az autó ablakán.",
+                "ro": "Parcați chiar în fața bisericii; astfel veți ajunge uscați în interior. Biserica oferă o atmosferă liniștită în timp ce afară ploaia bate în acoperiș și în geamuri.",
+                "en": "Park directly in front of the church; this way you can get inside while staying dry. The church offers a peaceful atmosphere while the rain drums on the roof outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Six Beach House",
+                "hu": "Six Beach House",
+                "ro": "Six Beach House",
+                "en": "Six Beach House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das verregnete Meer von einem Fensterplatz aus; es ist der perfekte Ort für eine trockene Pause am Strand bei schlechtem Wetter.",
+                "hu": "Élvezd az eső áztatta tenger látványát egy ablak melletti asztaltól; ez a tökéletes hely egy száraz tengerparti szünethez rossz időjárás esetén is a parton.",
+                "ro": "Bucurați-vă de vederea mării plouate de la un loc la fereastră; este locul perfect pentru o pauză uscată la plajă în timpul vremii nefavorabile de pe coastă.",
+                "en": "Enjoy the view of the rain-soaked sea from a window seat; it's the perfect spot for a dry break at the beach during bad weather while listening to the waves."
+              }
+            },
+            {
+              "name": {
+                "de": "Zelio Beach",
+                "hu": "Zelio Beach",
+                "ro": "Zelio Beach",
+                "en": "Zelio Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Eingang, um den Regen zu meiden; beobachten Sie die Wellen, die an den Strand schlagen, bequem aus dem Inneren des Gebäudes.",
+                "hu": "Használd a bejárathoz közeli parkolót, hogy elkerüld az esőt; figyeld a partra csapó hullámokat kényelmesen az épület belsejéből vagy a fedett részekről.",
+                "ro": "Folosiți parcarea aproape de intrare pentru a evita ploaia; observați valurile care se sparg de plajă confortabil din interiorul clădirii sau de pe terasă.",
+                "en": "Use the parking lot close to the entrance to avoid the rain; watch the waves crashing onto the beach comfortably from inside the building or covered areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Da Ezio alla Torretta",
+                "hu": "Da Ezio alla Torretta",
+                "ro": "Da Ezio alla Torretta",
+                "en": "Da Ezio alla Torretta"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für ein langes Mittagessen im Regen; die warme Atmosphäre lässt das graue Wetter draußen vergessen. Parken Sie so nah wie möglich am Eingang.",
+                "hu": "Ideális hely egy hosszú ebédhez az esőben; a meleg hangulat feledteti a kinti szürke időt. Parkolj a lehető legközelebb a bejárathoz a gyors bejutás érdekében.",
+                "ro": "Un loc ideal pentru un prânz lung pe ploaie; atmosfera caldă vă face să uitați de vremea gri de afară. Parcați cât mai aproape de intrare pentru confort.",
+                "en": "An ideal spot for a long lunch in the rain; the warm atmosphere makes you forget the grey weather outside. Park as close to the entrance as possible for ease."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento naturale Palude di Torre Flavia",
+                "hu": "Monumento naturale Palude di Torre Flavia",
+                "ro": "Monumento naturale Palude di Torre Flavia",
+                "en": "Monumento naturale Palude di Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Sie können die Vögel oft direkt aus dem Auto beobachten, wenn der Regen zu stark für einen Spaziergang ist. Nutzen Sie ein Fernglas durch die Autoscheibe.",
+                "hu": "Gyakran közvetlenül az autóból is megfigyelheted a madarakat, ha az eső túl erős a sétához. Használj távcsövet az autó ablakán keresztül a kényelmes leshez.",
+                "ro": "Puteți observa adesea păsările direct din mașină dacă ploaia este prea puternică pentru o plimbare. Folosiți binoclul prin geamul mașinii pentru confort.",
+                "en": "You can often observe the birds directly from the car if the rain is too heavy for a walk. Use binoculars through the car window for a comfortable viewing experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Flavia",
+                "hu": "Torre Flavia",
+                "ro": "Torre Flavia",
+                "en": "Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie am Ende der Straße und genießen Sie den Blick auf den Turm im Regen; die Scheinwerfer des Autos erzeugen eine dramatische Lichtstimmung auf dem Asphalt.",
+                "hu": "Parkolj az út végén és élvezd a torony látványát az esőben; az autó fényszórói drámai fényhatásokat keltenek a vizes aszfalton és a környező területen.",
+                "ro": "Parcați la capătul drumului și bucurați-vă de vederea turnului în ploaie; farurile mașinii creează un efect de lumină dramatic pe asfaltul ud și împrejurimi.",
+                "en": "Park at the end of the road and enjoy the view of the tower in the rain; the car's headlights create a dramatic lighting effect on the wet asphalt and surroundings."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Campo di Mare im Winter mit dem Auto ist komfortabel und malerisch. Der Vormittag startet bei der Kirche, gefolgt von einer Fahrt entlang der menschenleeren Küste. Mittags machen wir Halt an ruhigen Strandabschnitten. Am Nachmittag erkunden wir das Naturschutzgebiet bequem vom Wagen aus. Den Sonnenuntergang um 17 Uhr erleben wir warm eingepackt am Turm.",
+            "hu": "Campo di Mare télen autóval kényelmes és festői utazás. A reggel a templomnál kezdődik, majd a néptelen tengerpart mentén autózunk. Napközben megállunk a csendes strand szakaszoknál. Délután a természetvédelmi területet fedezzük fel az autó melegéből. A 17 órai naplementét a toronynál élvezzük, melegen felöltözve vagy a kocsiból figyelve.",
+            "ro": "Campo di Mare iarna cu mașina este o călătorie confortabilă și pitorească. Dimineața începe la biserică, urmată de o plimbare de-a lungul coastei pustii. La prânz oprim la secțiunile de plajă liniștite. După-amiaza explorăm rezervația naturală din confortul mașinii. Experimentăm apusul de la ora 17:00 la turn.",
+            "en": "Campo di Mare in winter by car is comfortable and scenic. The morning starts at the church, followed by a drive along the deserted coast. At noon, we stop at quiet beach sections. In the afternoon, we explore the nature reserve from the comfort of the car. We experience the 5 PM sunset at the tower, staying warm and cozy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Francesco",
+                "hu": "Chiesa di San Francesco",
+                "ro": "Chiesa di San Francesco",
+                "en": "Chiesa di San Francesco"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre Tour in der Wärme des Autos; die winterliche Landschaft von Campo di Mare wirkt durch die Scheiben poetisch und ruhig. Die Parkplätze sind leer.",
+                "hu": "Kezezd a túrát az autó melegében; Campo di Mare téli tája az ablakokon keresztül nézve költői és nyugodt. A parkolók ilyenkor üresek és könnyen megközelíthetőek.",
+                "ro": "Începeți turul în căldura mașinii; peisajul de iarnă din Campo di Mare pare poetic și liniștit prin geamuri. Parcarea este liberă și ușor de găsit în acest sezon.",
+                "en": "Start your tour in the warmth of the car; the winter landscape of Campo di Mare looks poetic and calm through the windows. Parking lots are empty and accessible."
+              }
+            },
+            {
+              "name": {
+                "de": "Six Beach House",
+                "hu": "Six Beach House",
+                "ro": "Six Beach House",
+                "en": "Six Beach House"
+              },
+              "tip_5lang": {
+                "de": "Hüpfen Sie kurz aus dem Auto für ein Foto am Strand und kehren Sie dann in die Wärme zurück; die Wintersonne glitzert herrlich auf dem kalten Meerwasser.",
+                "hu": "Pattanj ki egy pillanatra az autóból egy fotó erejéig a strandon, majd térj vissza a melegbe; a téli napfény gyönyörűen csillog a hideg tengervízen a parton.",
+                "ro": "Săriți scurt din mașină pentru o fotografie pe plajă și apoi întoarceți-vă la căldură; soarele de iarnă sclipeste minunat pe apa rece a mării în depărtare.",
+                "en": "Hop out of the car briefly for a photo at the beach and then return to the warmth; the winter sun glitters beautifully on the cold seawater at the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Zelio Beach",
+                "hu": "Zelio Beach",
+                "ro": "Zelio Beach",
+                "en": "Zelio Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Atmosphäre der winterlichen Küste; die Parkplätze sind im Winter direkt am Strand verfügbar. Ein kurzer, frischer Spaziergang lohnt sich.",
+                "hu": "Élvezd a téli partvidék békés hangulatát; a parkolók télen közvetlenül a strand mellett is elérhetőek. Egy rövid, frissítő séta a parton mindenképpen megéri.",
+                "ro": "Bucurați-vă de atmosfera liniștită a coastei de iarnă; parcările sunt disponibile direct lângă plajă iarna. O scurtă plimbare revigorantă merită efortul pe nisip.",
+                "en": "Enjoy the peaceful atmosphere of the winter coast; parking lots are available right by the beach in winter. A short, refreshing walk on the sand is well worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Da Ezio alla Torretta",
+                "hu": "Da Ezio alla Torretta",
+                "ro": "Da Ezio alla Torretta",
+                "en": "Da Ezio alla Torretta"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem in der Nähe und genießen Sie ein herzhaftes Winteressen; der Blick auf den Turm ist auch vom Restaurant aus beeindruckend. Wärme tut jetzt gut.",
+                "hu": "Parkolj kényelmesen a közelben és élvezz egy kiadós téli ebédet; a torony látványa az étteremből is lenyűgöző. A benti meleg most különösen jólesik a túra közben.",
+                "ro": "Parcați confortabil în apropiere și bucurați-vă de un prânz copios de iarnă; vederea turnului este impresionantă și din restaurant. Căldura de interior este binevenită.",
+                "en": "Park comfortably nearby and enjoy a hearty winter lunch; the view of the tower is impressive from the restaurant as well. The indoor warmth is very welcome now."
+              }
+            },
+            {
+              "name": {
+                "de": "Monumento naturale Palude di Torre Flavia",
+                "hu": "Monumento naturale Palude di Torre Flavia",
+                "ro": "Monumento naturale Palude di Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt zum Marschland ist kurz; halten Sie die Heizung im Auto bereit für Ihre Rückkehr nach einer kurzen Vogelbeobachtung im kalten Wind. Licht ist fantastisch.",
+                "hu": "Az út a mocsárvidékhez rövid; tartsd készenlétben az autó fűtését, hogy visszatérve a hideg szélben végzett madármegfigyelés után gyorsan felmelegedhess. A fény pazar.",
+                "ro": "Drumul către mlaștină este scurt; aveți încălzirea mașinii pregătită pentru întoarcere după o scurtă observare a păsărilor în vântul rece. Lumina este fantastică.",
+                "en": "The drive to the marsh is short; keep the car heater ready for your return after a short birdwatching session in the cold wind. The winter light here is fantastic."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Flavia",
+                "hu": "Torre Flavia",
+                "ro": "Torre Flavia",
+                "en": "Torre Flavia"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang um 17 Uhr direkt vom Auto aus oder in der Nähe des Wagens; das Licht ist außergewöhnlich scharf und die Farben am Himmel sind leuchtend.",
+                "hu": "Éld át a 17 órai naplementét közvetlenül az autóból vagy a kocsi közelében; a fény kivételesen éles, az égbolt színei pedig ragyogóak a tiszta téli levegőben.",
+                "ro": "Experimentați apusul de la ora 17:00 direct din mașină sau în apropierea ei; lumina este excepțional de clară, iar culorile cerului sunt vibrante în aerul curat de iarnă.",
+                "en": "Experience the 5 PM sunset directly from the car or near the vehicle; the light is exceptionally sharp and the colors in the sky are vibrant in the clear winter air."
+              }
+            }
+          ]
+        }
       }
     }
   }

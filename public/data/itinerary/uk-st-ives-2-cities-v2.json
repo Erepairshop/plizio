@@ -160,6 +160,196 @@
         "hu": "A reggel egy kellemes sétával indul St Ives kanyargós utcáin, ahol történelmi kincseket és a St Ia-templom nyugalmát fedezheti fel. A város művészeti öröksége szinte életre kel a Hepworth Múzeum buja kertjeiben barangolva.\nA dél a Tate modern művészeti alkotásainak megcsodálásával telik, ahol a lenyűgöző tengerparti kilátás tökéletesen kiegészíti a művészetet. Tartson egy frissítő szünetet, és gyönyörködjön az Atlanti-óceán csillogó vizében.\nDélután érezze a Porthmeor Beach puha homokját a talpa alatt, miközben figyeli a hullámokat meglovagló szörfösöket. Ezután egy történelmi pubban tapasztalhatja meg az igazi és szívélyes cornwalli vendéglátást.\nAz este a festői kikötőben köszönt ránk, amely pasztellszínekre festi az eget. Figyelje a halászhajók lágy ringatózását a vízen, és gondoljon vissza erre a tökéletesen kiegyensúlyozott, tengerparti napra.",
         "ro": "Dimineața începe cu o plimbare prin străzile șerpuite din St Ives, descoperind comori istorice și atmosfera liniștită a Bisericii St Ia. Moștenirea artistică prinde viață în timp ce vă plimbați prin grădinile Muzeului Hepworth.\nLa amiază, admirați lucrările contemporane de la Tate, unde priveliștile de coastă completează perfect arta de talie mondială. Savurați o pauză revigorantă, privind apele strălucitoare ale impresionantului Ocean Atlantic.\nDupă-amiază, simțiți nisipul fin de la Porthmeor Beach în timp ce urmăriți surferii pe valuri. Apoi, relaxați-vă într-un pub istoric pentru o gustare tradițională și pentru a simți autentica ospitalitate din regiunea Cornwall.\nSeara coboară peste portul pitoresc din St Ives, colorând cerul în nuanțe pastelate. Priviți legănarea blândă a bărcilor de pescuit în timp ce vă bucurați de amurg, amintindu-vă de o zi perfectă petrecută la malul mării.",
         "en": "Morning begins with a gentle stroll through the winding streets of St Ives, uncovering historical treasures and the tranquil ambiance of St Ia's Church. The artistic legacy of the town comes alive as you wander through the Hepworth Museum gardens.\nMidday invites you to soak up world-class contemporary works at the Tate, where spectacular coastal views perfectly complement the art. Take your time enjoying a refreshing break overlooking the shimmering waters of the Atlantic.\nIn the afternoon, feel the soft sands of Porthmeor Beach underfoot as you watch the surfers ride the rolling waves. A quick hop brings you to a historic pub for a hearty taste of authentic Cornish hospitality.\nEvening descends on the picturesque St Ives Harbour, painting the sky in pastel hues. Watch the gentle bobbing of the fishing boats as you enjoy the lingering twilight and reflect on a perfectly balanced seaside day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der St. Ia-Kirche, deren dicke Mauern idealen Schutz vor dem kühlen Regen bieten. Mittags laden die überdachten Ausstellungen des Barbara Hepworth Museums und der Tate ein, trocken Kunst zu genießen. Nachmittags spazieren wir mit Regenkleidung am Porthmeor Beach, bevor wir im Sloop Inn einkehren. Abends glänzen die Hafenlichter auf dem nassen Kopfsteinpflaster besonders schön.",
+            "hu": "A reggel a St Ia templom vaskos falai közt indul, ahol az eső kopogása csak még meghittebbé teszi a teret. Délben a közeli Barbara Hepworth és Tate múzeumok fedett tárlatai nyújtanak biztos menedéket a csapadék elől. Délután a Porthmeor part szélfútta homokján sétálunk vízálló cipőben, majd a Sloop Inn ódon falai közé menekülünk. Este a kikötő csillogó, vizes macskakövén tükröződő fényeket csodáljuk.",
+            "ro": "Dimineața începe la Biserica St Ia, ale cărei ziduri groase oferă un adăpost excelent împotriva ploii. La prânz, vizitați muzeele Barbara Hepworth și Tate, unde spațiile interioare vă mențin uscat. După-amiaza, o plimbare pe plaja Porthmeor necesită echipament impermeabil, urmată de un popas la The Sloop Inn. Seara, portul strălucește spectaculos sub reflexia luminilor pe pavajul ud și alunecos.",
+            "en": "Start the morning inside the sturdy walls of St Ia's Church, a perfect refuge from the Atlantic rain. At midday, immerse yourself in the covered galleries of the Barbara Hepworth and Tate museums to stay dry. Afternoon brings a brisk walk along Porthmeor Beach in waterproof gear, followed by warmth at The Sloop Inn. Evening ends at the harbour, where lights dance on the wet, rain-slicked cobbles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Ia-Kirche",
+                "hu": "St Ia-templom",
+                "ro": "Biserica St Ia",
+                "en": "St Ia's Church"
+              },
+              "tip_5lang": {
+                "de": "Die massiven mittelalterlichen Mauern bieten perfekten Schutz vor Regenschauern, während man durch die gotischen Fenster den grauen Himmel beobachtet.",
+                "hu": "A masszív középkori kőfalak között tökéletes biztonságban várhatja meg a zápor végét, miközben a gótikus ablakokon át figyeli a kinti esőfüggönyt.",
+                "ro": "Zidurile masive medievale oferă o protecție perfectă împotriva averselor, în timp ce puteți observa ploaia prin ferestrele gotice impresionante.",
+                "en": "The massive medieval stone walls offer perfect protection from sudden downpours, while you watch the rain curtain through the beautiful Gothic windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Barbara Hepworth Museum",
+                "hu": "Barbara Hepworth Múzeum",
+                "ro": "Muzeul Barbara Hepworth",
+                "en": "Barbara Hepworth Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Atelierbereiche, um die Skulpturen im Trockenen zu bewundern, und seien Sie vorsichtig auf den glitschigen Gartenpfaden.",
+                "hu": "Használja ki a fedett műtermi részeket a szobrok megtekintéséhez, a kertben pedig mozogjon nagyon óvatosan a vizes kövek okozta csúszásveszély miatt.",
+                "ro": "Folosiți spațiile acoperite ale atelierului pentru a admira sculpturile la adăpost și aveți mare grijă pe potecile din grădină care devin foarte alunecoase.",
+                "en": "Utilize the covered studio areas to admire the sculptures while staying dry, and take extra care on the garden paths as the stones become very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Tate St Ives",
+                "hu": "Tate St Ives",
+                "ro": "Tate St Ives",
+                "en": "Tate St Ives"
+              },
+              "tip_5lang": {
+                "de": "Die riesigen Fensterfronten bieten einen spektakulären Blick auf das stürmische Meer, während Sie im beheizten Inneren moderne Kunstwerke genießen können.",
+                "hu": "Az épület óriási üvegfalai mögül lenyűgöző látványt nyújt a viharos tenger, miközben ön a fűtött és száraz belső terekben élvezheti a modern művészetet.",
+                "ro": "Ferestrele uriașe oferă o vedere spectaculoasă asupra mării învolburate, în timp ce vă bucurați de arta modernă în interiorul cald și primitor.",
+                "en": "The gallery's vast windows offer a spectacular view of the stormy Atlantic, allowing you to enjoy modern art from the comfort of a warm, dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthmeor Strand",
+                "hu": "Porthmeor tengerpart",
+                "ro": "Plaja Porthmeor",
+                "en": "Porthmeor Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang am Flutsaum erfordert feste Gummistiefel und winddichte Kleidung, da der nasse Sand und die Gischt bei Regen sehr ungemütlich sind.",
+                "hu": "A tengerparti sétához elengedhetetlen a vízálló gumicsizma és a szélálló kabát, mivel az esőben a homok mély és a permet rendkívül hűvös lehet.",
+                "ro": "O plimbare pe malul mării necesită cizme de cauciuc și haine rezistente la vânt, deoarece nisipul ud și stropii de ploaie sunt foarte reci pe vreme rea.",
+                "en": "A beach walk requires sturdy wellies and windproof layers, as the wet sand and salt spray can be quite chilling when the rain starts to fall steadily."
+              }
+            },
+            {
+              "name": {
+                "de": "The Sloop Inn",
+                "hu": "The Sloop Inn",
+                "ro": "The Sloop Inn",
+                "en": "The Sloop Inn"
+              },
+              "tip_5lang": {
+                "de": "Dieser historische Pub ist der ultimative Zufluchtsort; hängen Sie Ihre nassen Sachen an die Haken und wärmen Sie sich unter den dunklen Holzbalken auf.",
+                "hu": "Ez a történelmi kocsma a legjobb menedék esőben; akassza vizes holmiját a fogasra, és élvezze a benti meleget az ódon, sötét fagerendák alatt.",
+                "ro": "Acest pub istoric este refugiul suprem; agățați-vă hainele ude în cuier și încălziți-vă sub grinzile vechi de lemn în atmosfera sa primitoare.",
+                "en": "This historic pub is the ultimate rainy-day refuge; hang your wet gear on the hooks and warm up under the dark wooden beams with a local drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von St. Ives",
+                "hu": "St Ives kikötő",
+                "ro": "Portul St Ives",
+                "en": "St Ives Harbour"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Arkaden der Hafengeschäfte und beobachten Sie das Wasser; das nasse Kopfsteinpflaster ist tückisch glatt beim Gehen.",
+                "hu": "Keressen menedéket a kikötői épületek árkádjai alatt; a vizes macskakő ilyenkor rendkívül síkos, ezért mindenképpen lassan és óvatosan lépkedjen.",
+                "ro": "Căutați adăpost sub arcadele clădirilor din port; pavajul ud este extrem de înșelător și alunecos, așa că mergeți încet și cu multă atenție.",
+                "en": "Seek shelter under the eaves of the harbour buildings while watching the boats; the wet cobblestones are treacherously slick, so walk very carefully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt in der andächtigen Ruhe der St. Ia-Kirche. Mittags bieten die beheizten Räume des Barbara Hepworth Museums und der Tate St Ives wohlige Wärme gegen die Küstenkälte. Nachmittags erkunden wir in dicken Schichten den Porthmeor Beach, bevor wir uns am Kamin im Sloop Inn aufwärmen. Abends sorgt der frühe Sonnenuntergang um 17 Uhr für magisches Licht im Hafen.",
+            "hu": "A hűvös téli reggelt a St Ia templom szakrális csendjében kezdjük. Délben a Barbara Hepworth stúdió fűtött terei és a Tate modern galériája nyújtanak meleget a kinti fagy ellen. Délután a Porthmeor part dűnéi között sétálunk rétegesen felöltözve, mielőtt a Sloop Inn kandallója mellé ülnénk. Este a korai, 17 órai naplemente után a kikötő fényei varázsolják el a látogatókat.",
+            "ro": "Începeți o dimineață răcoroasă de iarnă în liniștea Bisericii St Ia. La prânz, încălziți-vă în galeriile muzeelor Barbara Hepworth și Tate, evitând vântul tăios de coastă. După-amiaza, bucurați-vă de peisajul de la Porthmeor bine înfofoliți, înainte de a găsi căldura unui șemineu la The Sloop Inn. Seara, apusul devreme de la ora 17:00 transformă portul într-un loc magic, plin de lumini.",
+            "en": "Begin a crisp winter morning in the hallowed peace of St Ia's Church. Midday is best spent in the heated halls of the Barbara Hepworth Museum and Tate St Ives, escaping the coastal chill. In the afternoon, brave the wind at Porthmeor Beach with extra layers before retreating to the hearth at The Sloop Inn. By 5 PM, the early sunset transforms the harbour into a twinkling winter wonderland."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St. Ia-Kirche",
+                "hu": "St Ia-templom",
+                "ro": "Biserica St Ia",
+                "en": "St Ia's Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die winterliche Kälte draußen; genießen Sie die andächtige Stille und die kunstvollen Holzschnitzereien im Inneren.",
+                "hu": "A vastag kőfalak jól kirekesztik a téli szelet; élvezze a szakrális csendet és a belső tér művészi fafaragásait a fűtetlen, de szélvédett templomban.",
+                "ro": "Zidurile groase de piatră țin la distanță vântul tăios de iarnă; bucurați-vă de liniștea profundă și de sculpturile în lemn detaliate din interior.",
+                "en": "The thick stone walls provide a break from the winter wind; enjoy the hallowed silence and the intricate woodwork inside this sheltered sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Barbara Hepworth Museum",
+                "hu": "Barbara Hepworth Múzeum",
+                "ro": "Muzeul Barbara Hepworth",
+                "en": "Barbara Hepworth Museum"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das beheizte Atelier, um mehr über Hepworths Arbeit zu erfahren, während die winterliche Gartenlandschaft eine ganz eigene, kahle Ästhetik bietet.",
+                "hu": "Látogasson el a fűtött műterembe, ahol megismerheti Hepworth munkásságát, míg a téli kert kopár szépsége különleges, tiszta esztétikai élményt nyújt.",
+                "ro": "Vizitați atelierul încălzit pentru a afla mai multe despre munca artistei, în timp ce grădina de iarnă oferă o estetică austeră și fascinantă.",
+                "en": "Visit the heated studio to learn about Hepworth's life and work, while the winter garden provides a unique, stark aesthetic that highlights the bronze forms."
+              }
+            },
+            {
+              "name": {
+                "de": "Tate St Ives",
+                "hu": "Tate St Ives",
+                "ro": "Tate St Ives",
+                "en": "Tate St Ives"
+              },
+              "tip_5lang": {
+                "de": "Die hellen, warmen Galerien sind der perfekte Ort, um der Winterkälte zu entfliehen und das weiche, nordische Licht Cornwalls im Inneren zu erleben.",
+                "hu": "A világos, meleg galériák tökéletes helyszínt biztosítanak a téli hideg elöli meneküléshez, miközben bentről élvezheti Cornwall lágy téli fényeit.",
+                "ro": "Galeriile luminoase și calde sunt locul ideal pentru a scăpa de frigul iernii, oferind o perspectivă superbă asupra luminii blânde de coastă.",
+                "en": "The bright, warm galleries are the perfect place to escape the winter chill while experiencing Cornwall's famous soft light through the high windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Porthmeor Strand",
+                "hu": "Porthmeor tengerpart",
+                "ro": "Plaja Porthmeor",
+                "en": "Porthmeor Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie mehrere Schichten Kleidung gegen den beißenden Seewind und genießen Sie die spektakulären Winterwellen, die hier oft besonders hoch schlagen.",
+                "hu": "Viseljen több réteg ruhát a metsző tengeri szél ellen, és csodálja meg a látványos téli hullámokat, amelyek ilyenkor gyakran hatalmasra csapnak.",
+                "ro": "Purtați mai multe straturi de haine împotriva vântului tăios de mare și admirați valurile spectaculoase de iarnă care lovesc malul cu putere.",
+                "en": "Wear multiple layers against the biting sea breeze and admire the spectacular winter swells that often produce much larger waves during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "The Sloop Inn",
+                "hu": "The Sloop Inn",
+                "ro": "The Sloop Inn",
+                "en": "The Sloop Inn"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie sich einen Platz in der Nähe des Kamins, um die gemütliche Winterstimmung zu genießen, bevor die Sonne am frühen Nachmittag untergeht.",
+                "hu": "Igyekezzen helyet találni a kandalló közelében, hogy átélje a hamisítatlan téli hangulatot, mielőtt a nap korán, délután eltűnik a horizont mögött.",
+                "ro": "Încercați să găsiți un loc lângă șemineu pentru a vă bucura de atmosfera caldă de iarnă, înainte ca soarele să apună devreme sub linia orizontului.",
+                "en": "Try to snag a seat near the fireplace to soak in the cozy winter atmosphere before the sun sets early in the afternoon, plunging the town into twilight."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von St. Ives",
+                "hu": "St Ives kikötő",
+                "ro": "Portul St Ives",
+                "en": "St Ives Harbour"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie nach Sonnenuntergang um 17 Uhr am Kai entlang, wenn die winterliche Beleuchtung den Hafen in ein besonders festliches Licht taucht.",
+                "hu": "Sétáljon végig a mólón a 17 órai naplemente után, amikor a téli díszkivilágítás különleges, ünnepi fénybe öltözteti az egész kikötő környékét.",
+                "ro": "Plimbați-vă de-a lungul cheiului după apusul de la ora 17:00, când iluminatul de iarnă transformă întregul port într-un peisaj festiv și magic.",
+                "en": "Walk along the quay after the 5 PM sunset, when the winter lights transform the harbour into a festive scene reflecting off the dark, calm waters."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "A reggel egy frissítő tekeréssel indul a pálmafákkal övezett Porthminster Beach felé. Szívja magába a sós levegőt, mielőtt a város történelmi központjába kerekezne, hogy megcsodálja a St Ia-templom lenyűgöző építészetét.\nA delet a nyüzsgő kikötő körüli tekeréssel töltheti, figyelve a hajókat. Parkolja le kerékpárját az ikonikus Sloop Inn közelében, és töltődjön fel egy hagyományos cornwalli ebéddel a helyi történelem századai között.\nDélután egy festői emelkedő vár a pici St Nicholas-kápolnához, amely elsöprő tengerparti panorámával jutalmazza meg az erőfeszítést. Innen sima az út a Tate-be, ahol zseniális modern művészeti kiállításokban merülhet el.\nAz este közeledtével a híres Leach Pottery felé veszi az irányt, amely a brit stúdiókerámia szülőhelye. A kézműves műhely csendes zümmögése gyönyörű, elgondolkodtató befejezést nyújt az aktív és kulturális napnak.",
         "ro": "Dimineața începe cu o cursă revigorantă spre nisipurile mărginite de palmieri ale plajei Porthminster. Respirați aerul sărat înainte de a pedala în inima istorică a orașului pentru a admira arhitectura bisericii St Ia.\nLa amiază, pedalați în jurul portului vibrant din St Ives, privind bărcile. Parcați bicicleta lângă faimosul Sloop Inn pentru a vă reîncărca bateriile cu un prânz tradițional din Cornwall în mijlocul istoriei locale.\nDupă-amiaza aduce o urcare pitorească spre mica capelă St Nicholas, recompensându-vă cu vederi panoramice ample. De acolo, o scurtă coborâre vă duce la Tate pentru a explora minunatele expoziții de artă contemporană.\nSeara se apropie în timp ce pedalați spre faimoasa Leach Pottery, locul de naștere al ceramicii de studio britanice. Zgomotul liniștit al atelierului meșteșugăresc oferă un sfârșit perfect pentru o zi activă și culturală.",
         "en": "Your morning starts with an invigorating ride to the palm-fringed sands of Porthminster Beach. Take a deep breath of the salty air before pedaling into the historic heart of the town to admire the intricate architecture of St Ia's Church.\nMidday is perfectly spent weaving around the vibrant St Ives Harbour, watching the fishing boats come and go. Park your bike near the iconic Sloop Inn to recharge with a traditional Cornish lunch amidst centuries of local history.\nAfternoon brings a scenic climb to the tiny St Nicholas Chapel, rewarding your effort with sweeping panoramic coastal views. From there, it's a smooth ride down to the Tate to immerse yourself in brilliant contemporary art exhibitions.\nEvening approaches as you cycle out towards the renowned Leach Pottery, the birthplace of British studio ceramics. The quiet hum of the artisan workshop provides a beautifully reflective end to a day of active cultural exploration."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt am Porthminster Beach, wo man die Boote im Dunst sieht. Vormittags bietet die St. Ia-Kirche eine trockene Pause. Mittags geht es zum Sloop Inn, um sich aufzuwärmen. Nachmittags fordern die St. Nicholas Kapelle und die Tate Konzentration auf nassen Wegen. Der Tag endet im Leach Pottery Museum, wo man den Regen draußen vergessen kann.",
+            "hu": "Az esős bringás nap a Porthminster parton indul, ahol a ködbe vesző tájat csodálhatjuk. Délelőtt a St Ia templom ad száraz pihenőt. Ebédidőben a Sloop Inn felé vesszük az irányt melegedni. Délután a St Nicholas-kápolna és a Tate felé a vizes utakon óvatosan haladunk. A napot a Leach Pottery múzeumban zárjuk, ahol teljesen védve vagyunk az esőtől.",
+            "ro": "O zi ploioasă cu bicicleta începe la plaja Porthminster, privind bărcile prin ceață. Dimineața, Biserica St Ia oferă o pauză uscată. La prânz, ne îndreptăm spre Sloop Inn pentru a ne încălzi. După-amiaza, drumul spre Capela St Nicholas și Tate necesită atenție pe asfaltul ud. Ziua se încheie la Leach Pottery, unde puteți uita de ploaia de afară.",
+            "en": "A rainy cycling day starts at Porthminster Beach, watching boats through the mist. Mid-morning, St Ia's Church offers a dry break. For lunch, head to the Sloop Inn to dry off. Afternoon rides to St Nicholas Chapel and the Tate require focus on wet roads. The tour concludes at Leach Pottery Museum, where you can escape the downpour in the sheltered galleries."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthminster Strand",
+                "hu": "Porthminster tengerpart",
+                "ro": "Plaja Porthminster",
+                "en": "Porthminster Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Strand; der nasse Asphalt kann auf dem Weg nach unten sehr rutschig sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a parthoz vezető lejtőn; a vizes aszfalt rendkívül csúszós lehet a lefelé vezető úton.",
+                "ro": "Verificați frânele înainte de a coborî spre plajă; asfaltul ud poate fi foarte alunecos pe porțiunile de drum în pantă.",
+                "en": "Check your brakes before heading down to the beach; the wet asphalt can be very slippery on the descent toward the shoreline."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Ia-Kirche",
+                "hu": "St Ia-templom",
+                "ro": "Biserica St Ia",
+                "en": "St Ia's Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den massiven Kircheneingang als schnellen Unterstand, um die Regenkleidung zu ordnen, bevor Sie das kunstvolle Innere besichtigen.",
+                "hu": "Használja a templom masszív bejáratát gyors menedékként, hogy rendezze esőfelszerelését, mielőtt megtekintené a belső faragásokat.",
+                "ro": "Folosiți intrarea masivă a bisericii ca adăpost rapid pentru a vă aranja echipamentul de ploaie înainte de a vizita interiorul.",
+                "en": "Use the massive church entrance as a quick shelter to adjust your rain gear before heading inside to admire the intricate carvings."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von St. Ives",
+                "hu": "St Ives kikötő",
+                "ro": "Portul St Ives",
+                "en": "St Ives Harbour"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie extrem vorsichtig über das Kopfsteinpflaster am Kai; die Steine sind bei Nässe für schmale Reifen sehr gefährlich.",
+                "hu": "Közlekedjen rendkívül óvatosan a kikötői macskakövön; a vizes kövek a keskeny gumik számára nagyon veszélyesek és csúszósak.",
+                "ro": "Mergeți cu mare atenție pe pavajul din port; pietrele ude sunt foarte periculoase și alunecoase pentru anvelopele înguste de bicicletă.",
+                "en": "Ride with extreme caution over the harbour cobblestones; the wet stones are very dangerous and slippery for thin bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "The Sloop Inn",
+                "hu": "The Sloop Inn",
+                "ro": "The Sloop Inn",
+                "en": "The Sloop Inn"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab und genießen Sie die trockene Wärme des Pubs, während der Regen gegen die Scheiben peitscht.",
+                "hu": "Parkolja le kerékpárját egy szélvédett helyen, és élvezze a pub belső melegét, miközben kint az eső veri az ablakokat.",
+                "ro": "Parcați bicicleta într-un loc ferit și bucurați-vă de căldura din interiorul pub-ului în timp ce ploaia bate în ferestre.",
+                "en": "Park your bike in a sheltered spot and enjoy the dry warmth of the pub while the rain lashes against the historic window panes."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Nicholas Kapelle",
+                "hu": "St Nicholas-kápolna",
+                "ro": "Capela St Nicholas",
+                "en": "St Nicholas Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der Hügel zur Kapelle ist bei Wind und Regen exponiert; tragen Sie eine gute Regenjacke, um oben nicht auszukühlen.",
+                "hu": "A kápolnához vezető domb szeles és esős időben nagyon kitett; viseljen jó esőkabátot, hogy a tetőn ne hűljön ki a várakozás alatt.",
+                "ro": "Dealul spre chapelă este foarte expus la vânt și ploaie; purtați o jachetă impermeabilă bună pentru a nu răci în timp ce admirați priveliștea.",
+                "en": "The hill to the chapel is very exposed to wind and rain; wear a high-quality waterproof jacket to avoid getting chilled at the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Tate St Ives",
+                "hu": "Tate St Ives",
+                "ro": "Tate St Ives",
+                "en": "Tate St Ives"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in den Ständern und nutzen Sie die Garderobe für Ihre nassen Sachen, bevor Sie die Ausstellungen erkunden.",
+                "hu": "Helyezze el kerékpárját a tárolókban, és használja a ruhatárat a vizes holmiknak, mielőtt elmerülne a modern tárlatokban.",
+                "ro": "Lăsați bicicleta în suporturi și folosiți garderoba pentru hainele ude înainte de a explora expozițiile de artă modernă.",
+                "en": "Lock your bike in the stands and use the cloakroom for your wet layers before exploring the galleries and enjoying the cafe view."
+              }
+            },
+            {
+              "name": {
+                "de": "Leach Pottery",
+                "hu": "Leach Pottery",
+                "ro": "Leach Pottery",
+                "en": "Leach Pottery"
+              },
+              "tip_5lang": {
+                "de": "Die Werkstätten sind ein wunderbarer trockener Abschluss; achten Sie auf die schlammigen Wege zum Eingang bei starkem Regen.",
+                "hu": "A fazekasműhelyek csodálatos száraz záróhelyszínek; figyeljen a bejárathoz vezető sáros utakra a heves esőzés idején.",
+                "ro": "Atelierele de olărit sunt o destinație finală uscată minunată; atenție la potecile noroioase spre intrare în timpul ploilor torențiale.",
+                "en": "The pottery workshops are a wonderful dry final destination; watch out for muddy paths leading to the entrance during heavy rainfall."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag mit dem Rad beginnt am Porthminster Beach mit frischer Meeresbrise. Vormittags wärmt ein kurzer Stopp in der St. Ia-Kirche auf. Mittags erkunden wir den Hafen und kehren ins Sloop Inn ein. Nachmittags geht es hinauf zur Kapelle für den Winterausblick. Da es um 17 Uhr dunkel wird, besuchen wir die Tate und das Leach Pottery Museum im warmen Licht.",
+            "hu": "Tiszta téli nap kerékpáron a Porthminster parton friss tengeri széllel. Délelőtt egy rövid megálló a St Ia templomban segít átmelegedni. Ebédkor a kikötőt fedezzük fel, majd a Sloop Innbe menekülünk a hideg elől. Délután a kápolnához tekerünk a kilátásért. Mivel 17 órakor sötétedik, a Tate és a Leach Pottery meleg fényei közt zárjuk a napot.",
+            "ro": "O zi senină de iarnă pe bicicletă începe la Porthminster cu o briză proaspătă. Dimineața, o scurtă oprire la Biserica St Ia ajută la încălzire. La prânz explorăm portul și ne refugiem la Sloop Inn. După-amiaza urcăm la chapelă pentru priveliște. Deoarece se întunecă la ora 17:00, încheiem ziua la Tate și Leach Pottery.",
+            "en": "A crisp winter cycling day starts at Porthminster Beach with a fresh sea breeze. Mid-morning, a short stop at St Ia's Church helps you thaw out. For lunch, explore the harbour and retreat to the Sloop Inn. Afternoon rides take you to the chapel for winter views. As it gets dark by 5 PM, conclude at the warm Tate and Leach Pottery Museum."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Porthminster Strand",
+                "hu": "Porthminster tengerpart",
+                "ro": "Plaja Porthminster",
+                "en": "Porthminster Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Handschuhe, da der kalte Fahrtwind am Strand Ihre Finger beim Schalten schnell auskühlen kann.",
+                "hu": "Viseljen meleg kesztyűt, mert a hideg menetszél a parton gyorsan lehűtheti az ujjait váltás és fékezés közben.",
+                "ro": "Purtați mănuși groase, deoarece vântul rece de pe plajă vă poate îngheța degetele rapid în timp ce pedalați.",
+                "en": "Wear warm gloves, as the cold sea wind can quickly numb your fingers while shifting gears and braking along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Ia-Kirche",
+                "hu": "St Ia-templom",
+                "ro": "Biserica St Ia",
+                "en": "St Ia's Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine kurze Aufwärmpause vom Radfahren; die windgeschützte Architektur bietet sofortige Erleichterung.",
+                "hu": "Ideális helyszín egy rövid melegedő szünetre a tekerés közben; a szélvédett épület azonnali enyhülést kínál a hideg után.",
+                "ro": "Un loc ideal pentru o scurtă pauză de încălzire în timpul pedalatului; arhitectura ferită de vânt oferă o ușurare imediată.",
+                "en": "An ideal spot for a short warming break while cycling; the wind-sheltered architecture offers immediate relief from the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Hafen von St. Ives",
+                "hu": "St Ives kikötő",
+                "ro": "Portul St Ives",
+                "en": "St Ives Harbour"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht im Hafen, aber achten Sie auf rutschige Stellen durch gefrorene Gischt auf dem Kai.",
+                "hu": "Élvezze a tiszta téli fényeket a kikötőben, de ügyeljen a fagyott tengeri permet okozta csúszós foltokra a mólón.",
+                "ro": "Bucurați-vă de lumina clară de iarnă din port, dar atenție la zonele alunecoase cauzate de îngheț pe marginea cheiului.",
+                "en": "Enjoy the crisp winter light in the harbour, but watch out for slippery patches caused by frozen sea spray on the quay."
+              }
+            },
+            {
+              "name": {
+                "de": "The Sloop Inn",
+                "hu": "The Sloop Inn",
+                "ro": "The Sloop Inn",
+                "en": "The Sloop Inn"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich am Kamin auf, bevor Sie die letzte Etappe antreten; die gemütliche Atmosphäre gibt neue Energie für den Winterwind.",
+                "hu": "Melegedjen fel a kandallónál, mielőtt elindulna az utolsó szakaszra; a barátságos légkör új energiát ad a téli szélben.",
+                "ro": "Încălziți-vă la șemineu înainte de a porni pe ultima etapă; atmosfera primitoare vă va oferi energie nouă pentru drum.",
+                "en": "Warm up by the fireplace before tackling the final leg of your ride; the cozy atmosphere provides fresh energy against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "St. Nicholas Kapelle",
+                "hu": "St Nicholas-kápolna",
+                "ro": "Capela St Nicholas",
+                "en": "St Nicholas Chapel"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg hält Sie warm, aber oben ist der Wind schneidend; ziehen Sie eine zusätzliche Schicht an, um die Aussicht zu genießen.",
+                "hu": "A felfelé tekerés melegen tartja, de fent a szél metsző lehet; vegyen fel egy extra réteget a kilátás élvezetéhez.",
+                "ro": "Urcarea vă va ține de cald, dar sus vântul poate fi tăios; puneți un strat în plus pe voi pentru a admira priveliștea.",
+                "en": "The climb will keep you warm, but the wind at the top is biting; put on an extra layer to comfortably enjoy the winter panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Tate St Ives",
+                "hu": "Tate St Ives",
+                "ro": "Tate St Ives",
+                "en": "Tate St Ives"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den späten Nachmittag für die warmen Galerien, während draußen das Tageslicht langsam im winterlichen Meer versinkt.",
+                "hu": "Használja ki a késő délutánt a meleg galériákban, miközben kint a nappali fény lassan elvész a téli tengerben.",
+                "ro": "Profitați de după-amiaza târzie în galeriile călduroase, în timp ce lumina zilei se pierde în marea de iarnă de afară.",
+                "en": "Spend the late afternoon in the warm galleries while the daylight outside slowly fades into the deep blue of the winter sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Leach Pottery",
+                "hu": "Leach Pottery",
+                "ro": "Leach Pottery",
+                "en": "Leach Pottery"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Abschluss im Warmen; beachten Sie, dass es nach 17 Uhr dunkel wird und Sie funktionierende Lichter am Rad brauchen.",
+                "hu": "Tökéletes befejezés a melegben; vegye figyelembe, hogy 17 óra után sötétedik, így működő lámpákra lesz szüksége a kerékpáron.",
+                "ro": "O încheiere perfectă la căldură; rețineți că se întunecă după ora 17:00, deci veți avea nevoie de lumini funcționale la bicicletă.",
+                "en": "A perfect warm finish; keep in mind that it gets dark after 5 PM, so you will definitely need functioning lights on your bike for the return."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +876,168 @@
         "hu": "A reggel békésen indul a Carbis Bay Beach védett partjainál, ahol a csendes vizek nyugalmat árasztanak. A lenyűgöző tengerparti szépség után egy rövid autóút a Leach Pottery inspiráló kemencéihez vezet.\nDélben a partról a Bussow-víztározó körüli buja zöld ösvényekre váltunk. Tegyen egy kellemes sétát a víz partján, élvezve a gazdag természeti tájat és a nyüzsgő városközpontból való kellemes kiszakadást.\nA délután a természeti témát folytatja a békés Nance-tavak meglátogatásával. Egyszerűen csak figyelje meg a gazdag helyi vadvilágot ebben a rejtett oázisban, amely igazi öröm a természet szerelmeseinek és a fotósoknak.\nAz este visszavonzza a partra egy nagyszerű fináléra a Tate St Ives-be. Tapasztalja meg a lenyűgöző modern művészetet, párosulva az Atlanti-óceán feletti csodálatos naplementével, így lezárva a változatos autós napot.",
         "ro": "Dimineața începe pașnic pe țărmurile protejate ale plajei Carbis Bay, unde apele calme invită la relaxare. După ce v-ați bucurat de frumusețea coastei, un scurt drum cu mașina vă duce la cuptoarele inspirate de la Leach Pottery.\nLa amiază, treceți de la coastă la potecile verzi și luxuriante din jurul rezervorului Bussow. Faceți o plimbare plăcută pe malul apei, bucurându-vă de peisajul natural bogat și de evadarea binevenită din aglomerația urbană.\nDupă-amiaza continuă cu o vizită relaxantă la liniștitele lacuri Nance. Observați pur și simplu fauna locală diversă prosperând în această oază ascunsă, o bucurie absolută pentru toți iubitorii de natură și pasionații de fotografie.\nSeara vă readuce pe coastă pentru un final grandios la Tate St Ives. Experimentați arta modernă uimitoare alături de priveliștile magnifice ale apusului peste Oceanul Atlantic, încheind perfect o zi variată cu mașina.",
         "en": "Morning gets off to a serene start at the sheltered shores of Carbis Bay Beach, where calm waters invite peaceful reflection. After enjoying the pristine coastal beauty, a short drive brings you to the inspiring kilns of Leach Pottery.\nMidday shifts from the coast to the lush green inland paths surrounding Bussow Reservoir. Take a pleasant hike around the water's edge, enjoying the rich natural scenery and the welcome escape from the bustling town center.\nThe afternoon continues the natural theme with a relaxing visit to the tranquil Nance Lakes. Cast a line or simply watch the diverse local wildlife thrive in this hidden oasis, an absolute joy for nature lovers and photographers alike.\nEvening draws you back towards the coast for a grand finale at the Tate St Ives. Experience striking modern art paired with magnificent sunset views over the Atlantic Ocean, rounding off an adventurous and varied driving day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag im Auto beginnt an der Carbis Bay, wo wir die Brandung aus dem trockenen Innenraum beobachten. Vormittags besuchen wir das Leach Pottery Museum. Mittags geht es zum Bussow-Stausee, um die dramatische Regenlandschaft zu sehen. Nachmittags fahren wir zu den Nance-Seen und beenden den Tag in der Tate St Ives, sicher geschützt vor dem nassen Wetter.",
+            "hu": "Az esős autós nap a Carbis Bay-nél indul, ahol a száraz utastérből figyelhetjük a hullámverést. Délelőtt a Leach Pottery múzeumot keressük fel. Délben a Bussow-víztározóhoz hajtunk a drámai tájért. Délután a Nance-tavak vidékét járjuk be, majd a napot a Tate St Ives-ben zárjuk, teljesen védve az áztató esőtől.",
+            "ro": "O zi ploioasă cu mașina începe la Carbis Bay, privind valurile din interiorul uscat al vehiculului. Dimineața vizităm Leach Pottery. La prânz mergem la rezervorul Bussow pentru peisajul dramatic. După-amiaza explorăm zona lacurilor Nance și încheiem ziua la Tate St Ives, fiind protejați de vremea umedă.",
+            "en": "A rainy day by car starts at Carbis Bay, watching the surf from the dry interior of your vehicle. Mid-morning, visit the Leach Pottery Museum. Midday takes you to Bussow Reservoir for dramatic rain-swept views. Afternoon involves a drive to Nance Lakes, concluding at Tate St Ives, where you remain perfectly sheltered from the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carbis Bay Strand",
+                "hu": "Carbis Bay tengerpart",
+                "ro": "Plaja Carbis Bay",
+                "en": "Carbis Bay Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um die Wellen im Trockenen zu genießen; achten Sie beim Aussteigen auf tiefe Pfützen am Parkplatz.",
+                "hu": "Parkoljon tengerre néző helyen, hogy a száraz autóban élvezze a hullámokat; kiszálláskor ügyeljen a mély pocsolyákra a parkolóban.",
+                "ro": "Parcați cu fața spre mare pentru a admira valurile din mașină; atenție la bălțile adânci din parcare când coborâți din vehicul.",
+                "en": "Park facing the ocean to enjoy the waves from the comfort of your car; watch out for deep puddles in the parking area when stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "Leach Pottery",
+                "hu": "Leach Pottery",
+                "ro": "Leach Pottery",
+                "en": "Leach Pottery"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind komplett überdacht; nutzen Sie den Regenschirm für den kurzen Weg vom Parkplatz zum historischen Eingang.",
+                "hu": "A kiállítóterek teljesen fedettek; használjon esernyőt a parkolótól a történelmi bejáratig vezető rövid, de vizes úton.",
+                "ro": "Spațiile expoziționale sunt complet acoperite; folosiți o umbrelă pentru drumul scurt de la parcare până la intrarea istorică.",
+                "en": "The exhibition spaces are fully covered; use an umbrella for the short walk from the parking area to the historic entrance to stay dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Bussow-Stausee",
+                "hu": "Bussow-víztározó",
+                "ro": "Rezervorul Bussow",
+                "en": "Bussow Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die schmalen Zufahrtswege können bei starkem Regen matschig sein; fahren Sie vorsichtig und meiden Sie unbefestigte Randstreifen.",
+                "hu": "A keskeny hozzájáró utak heves esőzéskor sárosak lehetnek; vezessen óvatosan, és kerülje a burkolatlan útpadkára való ráhajtást.",
+                "ro": "Drumurile înguste de acces pot fi noroioase în timpul ploilor; conduceți cu atenție și evitați marginile neasfaltate ale drumului.",
+                "en": "The narrow access roads can become muddy during heavy rain; drive cautiously and avoid pulling onto unpaved verges to stay safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Nance-Seen",
+                "hu": "Nance-tavak",
+                "ro": "Lacurile Nance",
+                "en": "Nance Lakes (Bottom Lake)"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Seenlandschaft durch die Scheiben; die Uferwege sind bei Regen sehr rutschig und erfordern festes Schuhwerk.",
+                "hu": "Élvezze a nyugodt tóparti tájat az autó ablakain keresztül; a parti utak esőben nagyon csúszósak és jó túrabakancsot igényelnek.",
+                "ro": "Admirați peisajul liniștit al lacului prin geamurile mașinii; potecile de pe mal sunt foarte alunecoase și necesită încălțăminte adecvată.",
+                "en": "Enjoy the tranquil lakeside scenery through your car windows; the shoreline paths are very slippery in the rain and require waterproof boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Tate St Ives",
+                "hu": "Tate St Ives",
+                "ro": "Tate St Ives",
+                "en": "Tate St Ives"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Parkhaus und den kurzen Fußweg zur Tate; im Inneren können Sie den restlichen Regentag bei Kunst und Kaffee verbringen.",
+                "hu": "Használja a közeli parkolót és a rövid sétát a Tate-hez; bent a nap hátralévő részét művészet és egy forró kávé mellett töltheti.",
+                "ro": "Folosiți parcarea din apropiere pentru acces rapid la Tate; în interior puteți petrece restul zilei admirând arta la adăpost.",
+                "en": "Use the nearby parking and take the short walk to the Tate; inside, you can spend the rest of the rainy day enjoying art and a warm coffee."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag im Auto beginnt an der Carbis Bay mit Blick auf das frostige Meer. Vormittags wärmen wir uns im Leach Pottery Museum auf. Mittags führt die Fahrt zum Bussow-Stausee für die klare Winterluft. Nachmittags besuchen wir die Nance-Seen und beenden den Tag in der beheizten Tate St Ives, bevor es um 17 Uhr dunkel wird und die Stadtlichter angehen.",
+            "hu": "A téli autós nap a Carbis Bay-nél indul, kilátással a fagyos tengerre. Délelőtt a Leach Pottery múzeum melegében töltjük az időt. Délben a Bussow-víztározóhoz hajtunk a tiszta téli levegőért. Délután a Nance-tavakat keressük fel, majd a fűtött Tate-ben zárjuk a napot, mielőtt 17 órakor kigyúlnak a város fényei.",
+            "ro": "O zi de iarnă cu mașina începe la Carbis Bay cu o vedere spre marea înghețată. Dimineața ne încălzim la Leach Pottery. La prânz mergem la rezervorul Bussow pentru aerul curat. După-amiaza vizităm lacurile Nance și încheiem ziua la Tate, înainte ca luminile orașului să se aprindă la ora 17:00.",
+            "en": "A winter day by car starts at Carbis Bay with views of the frosty Atlantic. Mid-morning, warm up inside the Leach Pottery Museum. Midday takes you to Bussow Reservoir for crisp winter air and clear views. Afternoon visits to Nance Lakes are followed by a finish at the heated Tate St Ives, just as the city lights twinkle after the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Carbis Bay Strand",
+                "hu": "Carbis Bay tengerpart",
+                "ro": "Plaja Carbis Bay",
+                "en": "Carbis Bay Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung, während Sie den Blick auf die leere Winterbucht genießen; der Strand ist im Winter herrlich einsam.",
+                "hu": "Használja az ülésfűtést, miközben az üres téli öböl látványában gyönyörködik; a tengerpart ilyenkor csodálatosan elhagyatott és békés.",
+                "ro": "Folosiți încălzirea în scaune în timp ce admirați golful pustiu de iarnă; plaja este minunat de liniștită în acest sezon.",
+                "en": "Use your car's heater while enjoying the view of the empty winter bay; the beach is wonderfully solitary and peaceful during this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Leach Pottery",
+                "hu": "Leach Pottery",
+                "ro": "Leach Pottery",
+                "en": "Leach Pottery"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Galerien bieten eine willkommene Pause von der Kälte; bewundern Sie die Keramik in der gemütlichen Atmosphäre des Museums.",
+                "hu": "A fűtött galériák örömteli pihenőt nyújtanak a hideg ellen; csodálja meg a kerámiákat a múzeum barátságos, meleg atmoszférájában.",
+                "ro": "Galeriile încălzite oferă o pauză binemeritată de la frig; admirați obiectele din ceramică în atmosfera primitoare a muzeului.",
+                "en": "The heated galleries offer a welcome break from the coastal cold; admire the pottery in the museum's cozy and warm atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Bussow-Stausee",
+                "hu": "Bussow-víztározó",
+                "ro": "Rezervorul Bussow",
+                "en": "Bussow Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche überfrierende Nässe auf den schattigen Zufahrtsstraßen zum Stausee; fahren Sie bei Frost besonders vorsichtig.",
+                "hu": "Ügyeljen a lehetséges jegesedésre a víztározóhoz vezető árnyékos utakon; fagyos időben közlekedjen különösen óvatosan az autóval.",
+                "ro": "Atenție la posibila gheață pe drumurile de acces umbrite spre rezervor; conduceți cu mare prudență în condiții de îngheț.",
+                "en": "Watch out for potential icy patches on the shaded access roads leading to the reservoir; drive with extra caution in freezing conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Nance-Seen",
+                "hu": "Nance-tavak",
+                "ro": "Lacurile Nance",
+                "en": "Nance Lakes (Bottom Lake)"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne spiegelt sich wunderschön im Wasser; bleiben Sie für Fotos in der Nähe des Autos, um nicht auszukühlen.",
+                "hu": "Az alacsonyan járó téli nap gyönyörűen tükröződik a vízen; a fotózáshoz maradjon az autó közelében, hogy ne hűljön ki a szélben.",
+                "ro": "Soarele de iarnă se reflectă superb în apă; rămâneți aproape de mașină pentru fotografii ca să nu vă pătrundă frigul.",
+                "en": "The low winter sun reflects beautifully off the water; stay near your car for photos to avoid getting chilled by the lakeside wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Tate St Ives",
+                "hu": "Tate St Ives",
+                "ro": "Tate St Ives",
+                "en": "Tate St Ives"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Warmen, während es draußen um 17 Uhr dunkel wird; die beleuchtete Galerie bietet einen sicheren Hafen.",
+                "hu": "Zárja a napot a melegben, miközben kint 17 órakor sötétedik; a kivilágított galéria biztonságos menedéket nyújt a téli estén.",
+                "ro": "Încheiați ziua la căldură în timp ce afară se întunecă la ora 17:00; galeria iluminată oferă un refugiu sigur pe seară.",
+                "en": "Finish your day in the warmth as it gets dark outside by 5 PM; the illuminated gallery provides a cozy haven against the winter night."
+              }
+            }
+          ]
+        }
       }
     }
   }

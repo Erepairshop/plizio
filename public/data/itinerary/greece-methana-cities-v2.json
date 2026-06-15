@@ -137,6 +137,168 @@
         "hu": "Gyalogtúránkat a tengerparton kezdjük, élvezve a lágy reggeli szellőt a Nisaki strandon, mielőtt elmerülnénk a közeli Akropolisz mély történelmében.\n\nDél körül az ösvény a szárazföld belsejébe vezet, hogy megcsodáljuk az ősi malmot és az impozáns Throni tornyot, amelyek felfedik Methana mezőgazdasági múltját.\n\nA délutánt a kiterjedt ókori farm felfedezésének szenteljük, ahol igazán átérezhetjük a mindennapi vidéki ritmusokat, amelyek egykor e félszigetet jellemezték.\n\nAz este közeledtével visszatekintünk az évezredes történelmet gyalogosan átszelő napunkra, és befejezzük festői túránkat Methana gyönyörű vulkáni tájain.",
         "ro": "Începem plimbarea noastră la malul mării, bucurându-ne de briza blândă a dimineții la plaja Nisaki, înainte de a ne scufunda în istoria profundă a vechii Akropolis.\n\nÎn jurul prânzului, traseul ne duce spre interior pentru a admira moara antică și impozantul turn Throni, dezvăluind trecutul agricol al peninsulei Methana.\n\nDupă-amiaza este dedicată explorării vastei ferme antice, unde putem simți cu adevărat ritmurile rurale de zi cu zi care au animat această peninsulă cu mult timp în urmă.\n\nPe măsură ce se apropie seara, reflectăm asupra unei zile petrecute traversând milenii de istorie pe jos, încheind traseul nostru pitoresc prin peisajele vulcanice din Methana.",
         "en": "We start our walking journey by the sea, enjoying the gentle morning breeze at Nisaki Beach before delving into the profound history of the nearby Akropolis.\n\nAround midday, the trail leads us inland to marvel at the ancient mill and the imposing Throni tower, revealing Methana's strategic and agricultural past.\n\nThe afternoon is dedicated to exploring the expansive ancient farm site, where we can truly sense the everyday rural rhythms that animated this peninsula long ago.\n\nAs evening approaches, we reflect on a day spent traversing millennia of history on foot, concluding our scenic trek through the beautiful volcanic landscapes of Methana."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erleben Sie den Nisaki-Strand unter dramatischen Wolken, während die Wellen gegen die Küste schlagen. Mittags erkunden Sie die Akropolis, wobei die nassen Steine eine besondere Atmosphäre schaffen. Am Nachmittag führen die Wege zur antiken Mühle und zum Throni-Turm, die im Regen mystisch wirken. Abends kehren Sie nach Methana zurück und genießen die frische, regnerische Meeresluft unter einem schützenden Schirm.",
+            "hu": "Reggel a Nisaki strand szürke kavicsai és a morajló tenger különleges, melankolikus hangulatot árasztanak az esőben. Délben az Akropolisz romjai között a vizes kövek csillogása egyedi látványt nyújt, de az út csúszós lehet. Délután az ősi malom és a Throni torony felé vesszük az irányt, ahol a sár miatt óvatosan kell haladni. Este a város kikötőjének fényeiben, esernyő alatt zárjuk a napot a friss levegőn.",
+            "ro": "Dimineața experimentați plaja Nisaki sub nori dramatici, în timp ce valurile se sparg de țărmul stâncos. La prânz explorați Akropolis, unde pietrele umede creează o atmosferă specială și mistică. După-amiaza, potecile către moara antică și turnul Throni oferă vederi spectaculoase, deși drumul poate fi noroios. Seara vă întoarceți în Methana pentru a vă bucura de aerul sărat al mării sub o umbrelă protectoare.",
+            "en": "In the morning, experience Nisaki Beach under dramatic clouds as waves crash against the shore. At noon, explore the Akropolis where the wet stones create a unique, mystical atmosphere. During the afternoon, the paths to the ancient mill and Throni tower offer spectacular views, though the trails may be muddy. In the evening, return to Methana to enjoy the fresh, rainy sea air under a protective umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nisaki-Strand",
+                "hu": "Nisaki strand",
+                "ro": "Plaja Nisaki",
+                "en": "Nisaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Schönheit des Meeres von den kleinen Unterständen aus; bringen Sie eine windfeste Regenjacke mit, da die Böen am Ufer recht kräftig ausfallen können.",
+                "hu": "Élvezd a tenger zord szépségét a parton található kis beülők oltalma alól; hozz szélálló esőkabátot, mert a parton a széllökések ilyenkor igen erősek lehetnek.",
+                "ro": "Bucurați-vă de frumusețea aspră a mării din micile adăposturi de pe mal; aduceți o jachetă de ploaie rezistentă la vânt, deoarece rafalele pot fi destul de puternice pe coastă.",
+                "en": "Enjoy the raw beauty of the sea from the small shelters along the shore; bring a windproof raincoat as the gusts can be quite strong on the waterfront during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Akropolis",
+                "hu": "Akropolisz",
+                "ro": "Akropolis",
+                "en": "Akropolis"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Mauern wirken im Regen besonders imposant; tragen Sie unbedingt griffige Wanderschuhe, da die Kalksteinstufen bei Nässe extrem rutschig und gefährlich werden können.",
+                "hu": "Az ősi falak esőben különösen impozáns látványt nyújtanak; mindenképpen tapadós talpú túracipőt viselj, mert a mészkő lépcsők nedvesen rendkívül csúszósak és veszélyesek.",
+                "ro": "Zidurile antice par deosebit de impunătoare pe ploaie; purtați neapărat încălțăminte de drumeție cu aderență, deoarece treptele de calcar devin extrem de alunecoase la umezeală.",
+                "en": "The ancient walls look particularly imposing in the rain; be sure to wear high-grip hiking shoes, as the limestone steps can become extremely slippery and dangerous when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Mühle",
+                "hu": "Ősi malom",
+                "ro": "Moara antică",
+                "en": "Ancient mill"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mauern der alten Mühle als kurzen Unterstand vor dem Regen; achten Sie auf den Boden ringsherum, der schnell aufweicht und sehr matschig werden kann.",
+                "hu": "Használd a régi malom falait rövid menedékként az eső elől; ügyelj a környező talajra, amely esőben gyorsan felázik és nagyon sárossá, csúszóssá válhat a romok mentén.",
+                "ro": "Folosiți zidurile vechii mori ca un scurt adăpost împotriva ploii; aveți grijă la solul din jur, care se înmoaie repede și poate deveni foarte noroios în timpul precipitațiilor.",
+                "en": "Use the walls of the old mill as a brief shelter from the rain; watch the ground around the ruins, which softens quickly and can become very muddy and slippery during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Turm Throni",
+                "hu": "Throni ősi torony",
+                "ro": "Turnul antic Throni",
+                "en": "Ancient tower Throni"
+              },
+              "tip_5lang": {
+                "de": "Der Turm bietet einen dramatischen Blick auf die graue Ägäis; halten Sie Ihre Kamera unter einer Schutzhülle bereit, um die düstere, geschichtsträchtige Stimmung perfekt einzufangen.",
+                "hu": "A torony drámai kilátást nyújt a szürke Égei-tengerre; tartsd a fényképezőgépedet védőtokban, hogy tökéletesen megörökíthesd ezt a baljós, történelemmel átitatott hangulatot.",
+                "ro": "Turnul oferă o vedere dramatică asupra Egeei cenușii; păstrați aparatul foto sub o husă de protecție pentru a surprinde perfect această atmosferă sumbră și plină de istorie.",
+                "en": "The tower offers a dramatic view of the gray Aegean Sea; keep your camera under a protective cover to perfectly capture this somber, history-steeped atmosphere in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Farmstätte",
+                "hu": "Ősi farm",
+                "ro": "Ferma antică",
+                "en": "Ancient farm site"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ruinen vorsichtig, da das Gelände uneben ist; ein Taschenschirm ist hier praktischer als eine sperrige Regenjacke, um die Details der Steine aus der Nähe zu betrachten.",
+                "hu": "Óvatosan fedezd fel a romokat, mivel a terep egyenetlen; egy összecsukható esernyő itt praktikusabb lehet a részletek megtekintéséhez, mint egy vastag, merev esőkabát.",
+                "ro": "Explorați ruinele cu atenție, deoarece terenul este denivelat; o umbrelă de buzunar este mai practică aici decât o pelerină voluminoasă pentru a vedea detaliile pietrelor de aproape.",
+                "en": "Explore the ruins carefully as the terrain is uneven; a compact umbrella might be more practical here than a bulky raincoat for observing the stone details closely up close."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter beginnt der Tag am Nisaki-Strand mit einer kühlen Brise und kristallklarem Licht. Mittags führt die Wanderung zur Akropolis, wo die milde Wintersonne die Steine angenehm erwärmt. Der Nachmittag gehört der antiken Mühle und dem Throni-Turm, bevor das Licht gegen 16:30 Uhr weicher wird. Da die Sonne bereits um 17:00 Uhr untergeht, endet der Spaziergang rechtzeitig in der gemütlichen Atmosphäre des Ortes.",
+            "hu": "Télen a nap a Nisaki strandon hűvös szellővel és kristálytiszta fénnyel indul. Délben az Akropolisz felé vesszük az irányt, ahol a szelíd téli napsütés kellemesen melengeti a romokat. A délután az ősi malomé és a Throni toronyé, mielőtt a fények 16:30 körül lágyabbá válnának. Mivel a nap már 17:00-kor nyugovóra tér, a séta időben véget ér a falu meghitt kávézóinak közelében.",
+            "ro": "Iarna, ziua începe la plaja Nisaki cu o briză răcoroasă și o lumină de o claritate deosebită. La prânz, drumeția spre Akropolis este plăcută sub soarele blând care încălzește pietrele antice. După-amiaza este dedicată morii și turnului Throni, înainte ca lumina să devină difuză spre ora 16:30. Deoarece soarele apune deja la ora 17:00, plimbarea se încheie devreme în sat.",
+            "en": "In winter, the day starts at Nisaki Beach with a cool breeze and crystal-clear light. At noon, the hike to the Akropolis is pleasant under the mild winter sun warming the ancient stones. The afternoon is dedicated to the ancient mill and Throni tower before the light softens around 4:30 PM. Since the sun sets as early as 5:00 PM, the walk ends early in the cozy atmosphere of the town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nisaki-Strand",
+                "hu": "Nisaki strand",
+                "ro": "Plaja Nisaki",
+                "en": "Nisaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am fast menschenleeren Strand; tragen Sie mehrere Schichten Kleidung, da der Wind vom Meer im Winter deutlich kälter weht als im Landesinneren.",
+                "hu": "Élvezd a nyugalmat a szinte teljesen üres strandon; öltözz rétegesen, mert a tenger felől fújó szél télen jóval hidegebb, mint a félsziget belső, védettebb területein.",
+                "ro": "Bucurați-vă de liniștea plajei aproape pustii; purtați mai multe straturi de haine, deoarece vântul de pe mare suflă mult mai rece iarna decât în interiorul peninsulei.",
+                "en": "Enjoy the tranquility of the almost deserted beach; dress in layers because the wind blowing from the sea is significantly colder in winter than in the sheltered inland areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Akropolis",
+                "hu": "Akropolisz",
+                "ro": "Akropolis",
+                "en": "Akropolis"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für fantastische Fotos ohne Touristenmassen; bringen Sie eine Thermoskanne mit warmem Tee mit, um sich bei den Pausen zwischen den Ruinen zu wärmen.",
+                "hu": "Használd ki a tiszta téli fényeket fantasztikus fotókhoz turisták nélkül; vigyél magaddal egy termoszt meleg teával, hogy felmelegedhess a romok közötti pihenők során.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii fantastice fără mulțimi; aduceți un termos cu ceai cald pentru a vă încălzi în timpul pauzelor dintre ruinele antice.",
+                "en": "Take advantage of the clear winter light for fantastic photos without the crowds; bring a thermos with warm tea to warm up during breaks among the ancient ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Mühle",
+                "hu": "Ősi malom",
+                "ro": "Moara antică",
+                "en": "Ancient mill"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft im Winter lange, malerische Schatten auf die alten Steine; planen Sie diesen Stopp vor 15:30 Uhr ein, bevor das Gelände im Schatten der Berge liegt.",
+                "hu": "Az alacsonyan járó nap télen hosszú, festői árnyékokat vet a régi kövekre; tervezd ezt a megállót 15:30 előttre, mielőtt a terület a hegyek korai árnyékába kerülne.",
+                "ro": "Soarele jos aruncă iarna umbre lungi și pitorești pe pietrele vechi; planificați această oprire înainte de ora 15:30, înainte ca terenul să intre în umbra munților.",
+                "en": "The low winter sun casts long, picturesque shadows on the old stones; plan this stop before 3:30 PM, before the area falls into the early shadows of the surrounding mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Turm Throni",
+                "hu": "Throni ősi torony",
+                "ro": "Turnul antic Throni",
+                "en": "Ancient tower Throni"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der ideale Ort für den Sonnenuntergang; seien Sie spätestens um 16:45 Uhr hier, um das goldene Licht auf den Mauern zu erleben, bevor die Kälte nach Einbruch der Dunkelheit zunimmt.",
+                "hu": "Ez az ideális hely a naplemente megtekintéséhez; érkezz legkésőbb 16:45-re, hogy lásd az aranyló fényeket a falakon, mielőtt a sötétedés után hirtelen lehűlne a levegő.",
+                "ro": "Acesta este locul ideal pentru apus; fiți aici cel târziu la 16:45 pentru a vedea lumina aurie pe ziduri, înainte ca frigul să se intensifice după lăsarea întunericului.",
+                "en": "This is the ideal spot for sunset; arrive by 4:45 PM at the latest to see the golden light on the walls before the temperature drops sharply after the sun goes down."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Farmstätte",
+                "hu": "Ősi farm",
+                "ro": "Ferma antică",
+                "en": "Ancient farm site"
+              },
+              "tip_5lang": {
+                "de": "Die Vegetation ist im Winter weniger dicht, was die Sicht auf die Fundamente erleichtert; tragen Sie eine Mütze gegen den kühlen Wind, der hier über die offenen Hänge fegt.",
+                "hu": "A vegetáció télen ritkább, így könnyebben kivehetők az ősi alapfalak; viselj sapkát a hűvös szél ellen, amely ezen a nyitott domboldalon gyakran felerősödik.",
+                "ro": "Vegetația este mai rară iarna, ceea ce facilitează vizibilitatea fundațiilor; purtați o căciulă împotriva vântului rece care suflă peste pantele deschise ale sitului.",
+                "en": "Vegetation is sparser in winter, making the ancient foundations easier to see; wear a hat against the cool wind that often picks up across these open hillsides."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kerékpáros kalandunk északon kezdődik, ahol a lenyűgöző mükénéi ásatásokat és a római fürdőket fedezzük fel, amíg a reggeli levegő még friss és hűvös.\n\nA déli tekerés elvisz minket az impozáns római farmhoz és a Loutesa ciszternákhoz, amelyek az ókori vízgazdálkodást mutatják be a zord terep szívében.\n\nA délutáni tekerés során ereszkedünk az ősi farm felé, ahonnan panorámás kilátás nyílik a Szaróni-öbölre, miközben a félsziget kanyargós útjain navigálunk.\n\nKerékpártúránkat az impozáns Throni toronynál fejezzük be, ahol a késő délutáni nap hosszú árnyékokat vet, tökéletesen kiemelve az ősi őrtorony köveit.",
         "ro": "Aventura noastră cu bicicleta începe în nord, explorând fascinantele săpături miceniene și băile romane, în timp ce aerul dimineții rămâne proaspăt și răcoros.\n\nCiclismul de la amiază ne aduce la impresionanta fermă romană și la cisternele Loutesa, prezentând managementul antic al apei chiar în inima terenului accidentat.\n\nPlimbarea de după-amiază coboară ușor spre ferma antică, oferind vederi panoramice ale Golfului Saronic în timp ce navigăm pe drumurile șerpuitoare ale peninsulei.\n\nÎncheiem turul nostru cu bicicleta la turnul Throni, unde soarele târziu al după-amiezii aruncă umbre lungi, evidențiind perfect pietrele acestui turn antic.",
         "en": "Our cycling adventure begins in the north, exploring the fascinating Mycenean excavations and Roman baths while the morning air remains crisp and cool.\n\nMidday pedaling brings us to the impressive Roman farming site and Loutesa cisterns, showcasing ancient water management right in the heart of the rugged terrain.\n\nThe afternoon ride gently descends toward the ancient farm site, offering panoramic views of the Saronic Gulf as we navigate the winding roads of the peninsula.\n\nWe conclude our biking tour at the imposing Throni tower, where the late afternoon sun casts long shadows, perfectly highlighting the stones of this ancient watchtower."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag beginnt an den mykenischen Ausgrabungen unter grauem Himmel. Die Fahrt zu den römischen Bädern erfordert bei Nässe Vorsicht auf den Straßen. Mittags erkunden Sie die Farmstätten, wo der Regen die Landschaft in sattes Grün taucht. Am Nachmittag radeln Sie zu den Zisternen und beenden den Tag am Throni-Turm, während Sie auf die schlüpfrigen Oberflächen der Asphaltstraßen achten.",
+            "hu": "A kerékpáros nap a mükénéi ásatásoknál indul szürke égbolt alatt. A római fürdőkhöz vezető út óvatosságot igényel a nedves aszfalton. Délben a farmokat keressük fel, ahol az eső mélyzöldre festi a tájat. Délután a ciszternákhoz tekerünk, majd a Throni toronynál zárjuk a túrát, folyamatosan figyelve a csúszós útfelületekre és a lassabb féktávolságokra.",
+            "ro": "Ziua de ciclism începe la săpăturile miceniene sub un cer cenușiu. Drumul către băile romane necesită prudență pe asfaltul umed. La prânz explorăm fermele, unde ploaia transformă peisajul într-un verde intens. După-amiaza pedalăm spre cisterne și încheiem ziua la turnul Throni, fiind atenți la suprafețele alunecoase ale drumurilor în pantă.",
+            "en": "The cycling day starts at the Mycenean excavations under a gray sky. The ride to the Roman baths requires caution on wet asphalt. At noon, we visit the farms where the rain paints the landscape in deep green. In the afternoon, we pedal to the cisterns and end the tour at the Throni tower, keeping a constant eye on slippery road surfaces and longer braking distances."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mykenische Ausgrabungen",
+                "hu": "Mükénéi ásatások",
+                "ro": "Săpături miceniene",
+                "en": "Mycenean excavations"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; die Ausgrabungen bieten kaum Schutz, daher ist eine hochwertige Regenjacke für Radfahrer bei diesem Stopp absolut unerlässlich.",
+                "hu": "Indulás előtt ellenőrizd a fékeket; az ásatásoknál nincs fedett rész, így egy jó minőségű kerékpáros esőkabát elengedhetetlen ennél a megállónál az esőben.",
+                "ro": "Verificați frânele înainte de plecare; situl nu oferă adăpost, așa că o jachetă de ploaie de calitate pentru bicicliști este absolut esențială la această oprire.",
+                "en": "Check your brakes before setting off; the excavations offer little shelter, so a high-quality cycling raincoat is absolutely essential for this stop in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Bäder",
+                "hu": "Római fürdők",
+                "ro": "Băile romane",
+                "en": "Roman baths"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind bei Regen rutschig; stellen Sie Ihr Rad sicher auf einer ebenen Fläche ab und achten Sie beim Begehen der antiken Steine auf festen Tritt in Ihren Radschuhen.",
+                "hu": "A romok esőben csúszósak; állítsd le a biciklit stabil, sík felületen, és a romok bejárásakor ügyelj a biztos léptekre, főleg ha stoplis kerékpáros cipőt viselsz.",
+                "ro": "Ruinele sunt alunecoase pe ploaie; parcați bicicleta pe o suprafață plană și stabilă și aveți grijă la pași când mergeți pe pietrele antice, mai ales cu pantofi de ciclism.",
+                "en": "The ruins are slippery in the rain; park your bike on a stable, flat surface and ensure steady footing when walking on the ancient stones, especially with cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Farmstätte",
+                "hu": "Római farm",
+                "ro": "Ferma romană",
+                "en": "Roman farming site"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Mauern für einen kurzen Schutz; achten Sie auf Pfützen auf dem Zufahrtsweg, die tiefer sein können als sie aussehen und Ihr Rad blockieren könnten.",
+                "hu": "Használd a falakat rövid védelemként; ügyelj a bekötőúton lévő tócsákra, amelyek mélyebbek lehetnek, mint amilyennek látszanak, és megakaszthatják a kereket.",
+                "ro": "Folosiți zidurile pentru o scurtă protecție; atenție la bălțile de pe drumul de acces, care pot fi mai adânci decât par și vă pot bloca roțile bicicletei.",
+                "en": "Use the walls for brief protection; watch out for puddles on the access path, which can be deeper than they appear and might stall your bike's wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "Loutesa-Zisternen",
+                "hu": "Loutesa ciszternák",
+                "ro": "Cisternele Loutesa",
+                "en": "Loutesa cisterns"
+              },
+              "tip_5lang": {
+                "de": "Die Zisternen füllen sich bei Regen auf natürliche Weise; halten Sie Abstand zum Rand, da die nassen Oberflächen extrem glatt sind und keine Geländer vorhanden sind.",
+                "hu": "A ciszternák esőben természetes módon telnek meg; tarts távolságot a szélüktől, mivel a vizes felületek rendkívül simák, és nincsenek védőkorlátok a romoknál.",
+                "ro": "Cisternele se umplu natural pe ploaie; păstrați distanța de margini, deoarece suprafețele umede sunt extrem de netede și nu există balustrade de protecție.",
+                "en": "The cisterns fill up naturally in the rain; keep your distance from the edges as the wet surfaces are extremely smooth and there are no protective railings around the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Farmstätte",
+                "hu": "Ősi farm",
+                "ro": "Ferma antică",
+                "en": "Ancient farm site"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist hier sehr lehmig; vermeiden Sie es, mit dem Rad zu nah an die Ausgrabungen heranzufahren, um ein Feststecken im Schlamm zu verhindern.",
+                "hu": "A talaj itt nagyon agyagos; kerülje a kerékpárral való túl közeli megközelítést az ásatásokhoz, hogy elkerülje a sárba való beragadást a nedves időben.",
+                "ro": "Solul de aici este foarte lutos; evitați să vă apropiați prea mult cu bicicleta de săpături pentru a preveni blocarea în noroi în timpul ploii.",
+                "en": "The soil here is very clayey; avoid approaching the excavations too closely with your bike to prevent getting stuck in the mud during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Turm Throni",
+                "hu": "Throni ősi torony",
+                "ro": "Turnul antic Throni",
+                "en": "Ancient tower Throni"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Turm kann bei Regen heftig sein; halten Sie Ihren Lenker bei der Anfahrt fest und suchen Sie im Windschatten der Mauern kurz Schutz.",
+                "hu": "A toronynál a szél esőben heves lehet; fogd erősen a kormányt a megközelítéskor, és keress rövid menedéket a falak szélvédett oldalán.",
+                "ro": "Vântul la turn poate fi violent pe ploaie; țineți strâns ghidonul la apropiere și căutați un scurt adăpost în partea ferită de vânt a zidurilor.",
+                "en": "The wind at the tower can be fierce in the rain; hold your handlebars firmly during the approach and seek brief shelter on the leeward side of the walls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour beginnt frisch an den mykenischen Stätten. Die kühle Luft ist beim Radfahren belebend, erfordert aber warme Handschuhe. Mittags wärmt die Sonne bei den römischen Bädern und Farmen. Die Fahrt zu den Zisternen ist im klaren Licht malerisch. Beenden Sie die Tour am Throni-Turm vor 16:45 Uhr, da die Temperaturen sinken, sobald die Sonne hinter den Vulkanbergen verschwindet.",
+            "hu": "A téli túra frissen indul a mükénéi helyszíneken. A hűvös levegő élénkítő tekerés közben, de meleg kesztyűre szükség lesz. Délben a nap kellemesen melegít a római fürdőknél és farmoknál. A ciszternákhoz vezető út a tiszta fényben igen látványos. Fejezd be a túrát a Throni toronynál 16:45 előtt, mert a hőmérséklet gyorsan esik, amint a nap eltűnik a hegyek mögött.",
+            "ro": "Turul de iarnă începe cu prospețime la siturile miceniene. Aerul rece este revigorant în timpul mersului pe bicicletă, dar necesită mănuși calde. La prânz, soarele încălzește plăcut la băile și fermele romane. Drumul spre cisterne este pitoresc în lumina clară. Încheiați turul la turnul Throni înainte de 16:45, deoarece temperatura scade rapid după apus.",
+            "en": "The winter tour starts fresh at the Mycenean sites. The cool air is invigorating while cycling, but warm gloves are a must. At noon, the sun warms pleasantly at the Roman baths and farms. The ride to the cisterns is spectacular in the clear light. Finish the tour at Throni tower before 4:45 PM as the temperature drops quickly once the sun vanishes behind the mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mykenische Ausgrabungen",
+                "hu": "Mükénéi ásatások",
+                "ro": "Săpături miceniene",
+                "en": "Mycenean excavations"
+              },
+              "tip_5lang": {
+                "de": "Die offene Lage macht diesen Stopp im Winter windanfällig; tragen Sie ein winddichtes Gilet über Ihrer Kleidung, um den Oberkörper während der Besichtigung warm zu halten.",
+                "hu": "A nyitott elhelyezkedés miatt ez a megálló télen szeles lehet; viselj szélálló mellényt a ruhád felett, hogy melegen tartsd a felsőtestedet a nézelődés közben.",
+                "ro": "Locația deschisă face ca această oprire să fie vântoasă iarna; purtați o vestă rezistentă la vânt peste haine pentru a vă menține corpul cald în timpul vizitei.",
+                "en": "The open location makes this stop windy in winter; wear a windproof vest over your clothes to keep your core warm while observing the excavations."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Bäder",
+                "hu": "Római fürdők",
+                "ro": "Băile romane",
+                "en": "Roman baths"
+              },
+              "tip_5lang": {
+                "de": "Die Steine speichern die Mittagssonne; nutzen Sie diesen Ort für eine kurze Aufwärmpause, bevor Sie die schattigeren Abschnitte der Strecke in Angriff nehmen.",
+                "hu": "A kövek elraktározzák a déli napsütést; használd ezt a helyet egy rövid bemelegítő pihenőre, mielőtt nekivágnál az útvonal árnyékosabb szakaszainak.",
+                "ro": "Pietrele rețin căldura soarelui de la prânz; folosiți acest loc pentru o scurtă pauză de încălzire înainte de a aborda secțiunile mai umbrite ale traseului.",
+                "en": "The stones store the midday sun; use this spot for a short warm-up break before tackling the shadier sections of the cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Farmstätte",
+                "hu": "Római farm",
+                "ro": "Ferma romană",
+                "en": "Roman farming site"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht ist durch die karge Wintervegetation exzellent; achten Sie auf die Abfahrt danach, da kalte Luft Ihre Reaktionsfähigkeit beim Bremsen leicht verringern kann.",
+                "hu": "A kilátás a ritka téli vegetáció miatt kiváló; figyelj az ezután következő lejtőre, mert a hideg levegő kissé lassíthatja a reakcióidat fékezéskor.",
+                "ro": "Vizibilitatea este excelentă datorită vegetației rare de iarnă; atenție la coborârea care urmează, deoarece aerul rece vă poate reduce ușor reflexele la frânare.",
+                "en": "The view is excellent due to the sparse winter vegetation; pay attention to the descent afterwards, as the cold air can slightly slow your reactions when braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Loutesa-Zisternen",
+                "hu": "Loutesa ciszternák",
+                "ro": "Cisternele Loutesa",
+                "en": "Loutesa cisterns"
+              },
+              "tip_5lang": {
+                "de": "Im Schatten der antiken Mauern kann es deutlich kühler sein; halten Sie den Stopp kurz und bleiben Sie in Bewegung, um Ihre Körpertemperatur stabil zu halten.",
+                "hu": "Az ősi falak árnyékában jóval hűvösebb lehet; tartsd röviden a megállót és maradj mozgásban, hogy testhőmérsékleted ne essen le túlságosan.",
+                "ro": "În umbra zidurilor antice poate fi mult mai răcoare; păstrați oprirea scurtă și rămâneți în mișcare pentru a vă menține temperatura corpului stabilă.",
+                "en": "It can be much cooler in the shadow of the ancient walls; keep the stop short and stay in motion to keep your body temperature stable while visiting the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Farmstätte",
+                "hu": "Ősi farm",
+                "ro": "Ferma antică",
+                "en": "Ancient farm site"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne bietet hier wunderbare Kontraste auf den Steinfundamenten; ziehen Sie sich nach der Besichtigung warm an für die Rückfahrt im kühler werdenden Abendwind.",
+                "hu": "Az alacsonyan járó nap csodálatos kontrasztokat teremt a kőalapokon; a nézelődés után öltözz fel jól a visszaúthoz a hűvösödő esti szélben.",
+                "ro": "Soarele jos oferă contraste minunate pe fundațiile de piatră; îmbrăcați-vă bine după vizită pentru drumul de întoarcere în vântul serii tot mai rece.",
+                "en": "The low sun provides wonderful contrasts on the stone foundations; dress warmly after the visit for the return journey in the increasingly chilly evening wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Turm Throni",
+                "hu": "Throni ősi torony",
+                "ro": "Turnul antic Throni",
+                "en": "Ancient tower Throni"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie den Turm vor dem frühen Sonnenuntergang; das Licht ist magisch, aber denken Sie daran, dass Sie für die Rückfahrt in der Dämmerung funktionierende Lichter am Rad brauchen.",
+                "hu": "Érd el a tornyot a korai naplemente előtt; a fények mágikusak, de ne feledd, hogy a szürkületi visszaúthoz működő lámpákra lesz szükséged a biciklin.",
+                "ro": "Ajungeți la turn înainte de apusul timpuriu; lumina este magică, dar nu uitați că veți avea nevoie de lumini funcționale pe bicicletă pentru întoarcerea în amurg.",
+                "en": "Reach the tower before the early sunset; the light is magical, but remember that you'll need functioning lights on your bike for the return trip in the twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +866,280 @@
         "hu": "Átfogó autós túránkat a pihentető Nisaki strand és az ősi Akropolisz meglátogatásával kezdjük, magunkba szívva a part menti szépséget és a gazdag korai történelmet.\n\nA szárazföld belseje felé haladva célzott megállókat tartunk az ősi malomnál, a Throni toronynál és a hatalmas farmoknál, könnyedén áthidalva a történelmi emlékek közötti távolságot.\n\nA délutáni autózás északra visz minket a Loutesa ciszternákhoz és a római romokhoz, ahol a légkondicionáló frissen tart minket a folyamatos felfedezéshez.\n\nAutós utazásunk az északi csücsök közelében, a római fürdőknél és a mükénéi ásatásoknál ér véget, teljes képet adva Methana régészeti gazdagságáról.",
         "ro": "Începem turul nostru auto vizitând relaxanta plajă Nisaki și vechea Akropolis, absorbind frumusețea de coastă și istoria timpurie bogată a regiunii.\n\nConducând spre interior, facem opriri la moara antică, turnul Throni și vastele ferme, acoperind cu ușurință distanțele dintre aceste fascinante rămășițe istorice.\n\nTraseul de după-amiază ne duce spre nord către cisternele Loutesa și ruinele agricole romane, lăsând aerul condiționat să ne mențină proaspeți pentru explorare.\n\nCălătoria noastră se termină aproape de extremitatea nordică la băile romane și săpăturile miceniene, lăsându-ne cu o imagine completă a bogăției arheologice din Methana.",
         "en": "We kick off our comprehensive driving tour by visiting the relaxing Nisaki Beach and the ancient Akropolis, soaking in the coastal beauty and rich early history.\n\nCruising inland, we make targeted stops at the ancient mill, Throni tower, and vast farm sites, easily bridging the distances between these fascinating historical remnants.\n\nThe afternoon drive takes us north to the impressive Loutesa cisterns and Roman agricultural ruins, letting the air conditioning keep us fresh for exploration.\n\nOur road trip finishes near the northern tip at the Roman baths and Mycenean excavations, leaving us with a complete picture of Methana's diverse archaeological wealth."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf Methana beginnt gemütlich mit der Fahrt zum Nisaki-Strand. Im Auto bleiben Sie trocken, während Sie die Aussicht auf die stürmische See genießen. Die historischen Stätten wie die Akropolis und die Farmen lassen sich gut erkunden, da Sie sich zwischendurch im warmen Fahrzeug aufwärmen können. Der Tag endet sicher im Ort, wobei Sie die kurvigen Straßen bei Nässe vorsichtig befahren.",
+            "hu": "Egy esős nap Methanán kényelmesen indul a Nisaki strandhoz vezető úttal. Az autóban szárazon maradsz, miközben élvezed a viharos tenger látványát. A történelmi helyszínek, mint az Akropolisz és a farmok, jól felfedezhetők, mivel a megállók között az autóban megmelegedhetsz. A nap biztonságban ér véget a faluban, ügyelve a nedves, kanyargós utak lassabb tempójára.",
+            "ro": "O zi ploioasă în Methana începe confortabil cu drumul spre plaja Nisaki. În mașină rămâneți uscați în timp ce admirați marea agitată. Siturile istorice, cum ar fi Akropolis și fermele, pot fi explorate ușor, putându-vă încălzi în vehicul între opriri. Ziua se încheie în siguranță în sat, conducând cu atenție pe drumurile sinuoase și umede.",
+            "en": "A rainy day on Methana starts comfortably with a drive to Nisaki Beach. You stay dry in the car while enjoying the view of the stormy sea. Historical sites like the Akropolis and the farms can be explored easily as you can warm up in the vehicle between stops. The day ends safely in town, driving carefully on the winding, wet roads at a slower pace."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nisaki-Strand",
+                "hu": "Nisaki strand",
+                "ro": "Plaja Nisaki",
+                "en": "Nisaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie auf festem Untergrund nahe der Straße; genießen Sie den Blick auf das aufgepeitschte Meer direkt aus dem Auto, falls der Regen zu stark für einen Spaziergang wird.",
+                "hu": "Parkolj szilárd talajon az út közelében; élvezd a felkorbácsolt tenger látványát közvetlenül az autóból, ha az eső túl intenzívvé válna a parti sétához.",
+                "ro": "Parcați pe teren solid lângă drum; bucurați-vă de vederea mării agitate direct din mașină, în cazul în care ploaia devine prea intensă pentru o plimbare pe plajă.",
+                "en": "Park on solid ground near the road; enjoy the view of the whipped-up sea directly from the car if the rain becomes too intense for a walk along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Akropolis",
+                "hu": "Akropolisz",
+                "ro": "Akropolis",
+                "en": "Akropolis"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie keine Wertsachen sichtbar im Auto; der kurze Aufstieg zur Akropolis ist bei Regen rutschig, nehmen Sie daher einen stabilen Regenschirm für den Weg nach oben mit.",
+                "hu": "Ne hagyj értéket látható helyen az autóban; az Akropoliszhoz vezető rövid emelkedő esőben csúszós, vigyél magaddal egy stabil esernyőt a romok felfedezéséhez.",
+                "ro": "Nu lăsați obiecte de valoare la vedere în mașină; urcarea scurtă spre Akropolis este alunecoasă pe ploaie, așa că luați o umbrelă solidă pentru explorarea ruinelor.",
+                "en": "Do not leave valuables visible in the car; the short climb to the Akropolis is slippery in the rain, so take a sturdy umbrella with you for exploring the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Mühle",
+                "hu": "Ősi malom",
+                "ro": "Moara antică",
+                "en": "Ancient mill"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrzeug am Straßenrand ab; der Boden direkt bei der Mühle kann bei Regen sehr weich sein, nutzen Sie das Auto als Basis für kurze Erkundungstouren.",
+                "hu": "Állítsd le az autót az út szélén; a talaj közvetlenül a malomnál esőben nagyon puha lehet, használd az autót bázisként a rövid felfedező utakhoz a romok körül.",
+                "ro": "Parcați vehiculul pe marginea drumului; solul direct de lângă moară poate fi foarte moale pe ploaie, folosiți mașina ca bază pentru scurte incursiuni la ruine.",
+                "en": "Park your vehicle on the roadside; the ground directly by the mill can be very soft in the rain, so use the car as a base for short explorations around the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Turm Throni",
+                "hu": "Throni ősi torony",
+                "ro": "Turnul antic Throni",
+                "en": "Ancient tower Throni"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Parken auf Steinschlaggefahr bei starkem Regen; der Turm ist nur wenige Schritte vom Auto entfernt, ideal für einen schnellen Fotostopp im Trockenen.",
+                "hu": "Vigyázz a kőomlásveszélyre parkoláskor heves esőzésnél; a torony csak pár lépésre van az autótól, így ideális egy gyors, száraz fotómegállóra a viharban.",
+                "ro": "Atenție la riscul de căderi de pietre când parcați în timpul ploii abundente; turnul este la doar câțiva pași de mașină, ideal pentru o oprire foto rapidă pe ploaie.",
+                "en": "Watch out for potential rockfalls when parking during heavy rain; the tower is only a few steps from the car, ideal for a quick, dry photo stop during the storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Farmstätte",
+                "hu": "Ősi farm",
+                "ro": "Ferma antică",
+                "en": "Ancient farm site"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann schlammig sein; bleiben Sie auf den befestigten Teilen des Weges, um mit dem Wagen nicht steckenzubleiben, und besichtigen Sie die Ruinen zügig.",
+                "hu": "A bekötőút sáros lehet; maradj az út kövezett vagy keményebb részein, hogy ne akadj el az autóval, és csak röviden, gyorsan nézd meg a romokat az esőben.",
+                "ro": "Drumul de acces poate fi noroios; rămâneți pe părțile pavate sau mai dure ale drumului pentru a nu rămâne blocat cu mașina și vizitați ruinele rapid.",
+                "en": "The access road can be muddy; stay on the paved or harder parts of the road to avoid getting the car stuck, and keep your visit to the ruins brief in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Loutesa-Zisternen",
+                "hu": "Loutesa ciszternák",
+                "ro": "Cisternele Loutesa",
+                "en": "Loutesa cisterns"
+              },
+              "tip_5lang": {
+                "de": "Die Zisternen sammeln das Regenwasser; parken Sie vorsichtig am Rand und achten Sie auf die nassen Steine, die bei diesem Stopp besonders glatt und tückisch sind.",
+                "hu": "A ciszternák gyűjtik az esővizet; parkolj óvatosan az út szélén, és ügyelj a vizes kövekre, amelyek ennél a megállónál különösen simák és csalókák lehetnek.",
+                "ro": "Cisternele colectează apa de ploaie; parcați cu atenție pe marginea drumului și aveți grijă la pietrele umede, care sunt deosebit de alunecoase la această oprire.",
+                "en": "The cisterns collect rainwater; park carefully on the roadside and watch out for the wet stones, which are particularly smooth and deceptive at this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Farmstätte",
+                "hu": "Római farm",
+                "ro": "Ferma romană",
+                "en": "Roman farming site"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Fernlicht bei Nebel oder starkem Regen auf der Fahrt hierher; der Stopp bietet schöne Einblicke in die antike Landwirtschaft, auch bei schlechtem Wetter.",
+                "hu": "Használd a ködlámpát vagy tompított fényt sűrű esőben az ideúton; a megálló szép betekintést nyújt az ősi mezőgazdaságba, még kedvezőtlen időjárás esetén is.",
+                "ro": "Folosiți luminile de ceață sau faza scurtă pe ploaie densă în drum spre aici; oprirea oferă o perspectivă frumoasă asupra agriculturii antice, chiar și pe vreme rea.",
+                "en": "Use fog lights or dipped beams in heavy rain on the way here; the stop offers a nice insight into ancient agriculture, even during unfavorable weather conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Bäder",
+                "hu": "Római fürdők",
+                "ro": "Băile romane",
+                "en": "Roman baths"
+              },
+              "tip_5lang": {
+                "de": "Direkt an der Straße gelegen, ist dieser Stopp ideal bei Regen; besichtigen Sie die Bäder kurz und wärmen Sie sich danach sofort wieder im trockenen Auto auf.",
+                "hu": "Közvetlenül az út mellett található, így ez a megálló ideális esőben; nézd meg gyorsan a fürdőket, majd utána azonnal melegedj fel a száraz és fűtött autóban.",
+                "ro": "Situat direct lângă drum, acest punct este ideal pe ploaie; vizitați rapid băile și apoi încălziți-vă imediat în mașina uscată și încălzită.",
+                "en": "Located directly by the road, this stop is ideal for rainy weather; observe the baths quickly and then warm up immediately in your dry, heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Mykenische Ausgrabungen",
+                "hu": "Mükénéi ásatások",
+                "ro": "Săpături miceniene",
+                "en": "Mycenean excavations"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungsstätte ist exponiert; parken Sie so nah wie möglich am Eingang, um die Zeit im Regen zu minimieren, während Sie die beeindruckenden Ruinen bestaunen.",
+                "hu": "Az ásatási terület nyitott; parkolj a lehető legközelebb a bejárathoz, hogy minimalizáld az esőben töltött időt, miközben megcsodálod a lenyűgöző romokat.",
+                "ro": "Situl este expus; parcați cât mai aproape de intrare pentru a minimiza timpul petrecut în ploaie în timp ce admirați ruinele miceniene impresionante.",
+                "en": "The excavation site is exposed; park as close to the entrance as possible to minimize time in the rain while admiring the impressive Mycenean ruins."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Rundfahrt mit dem Auto bietet den Komfort, Methanas Schätze bei milden Temperaturen zu entdecken. Die Fahrt zum Nisaki-Strand und zur Akropolis ist im klaren Winterlicht besonders schön. Da es im Fahrzeug warm ist, stören die kühlen Außentemperaturen bei den Besichtigungen der antiken Mühlen und Farmen nicht. Der Tag endet rechtzeitig vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli autós körút kényelmes lehetőséget kínál Methana kincseinek felfedezésére enyhe hőmérséklet mellett. A Nisaki strandhoz és az Akropoliszhoz vezető út a tiszta téli fényben különösen látványos. Mivel az autóban meleg van, a hűvös kinti levegő nem zavaró a malmok és farmok megtekintésekor. A nap időben, a korai, 17:00-as naplemente előtt biztonságban ér véget a faluban.",
+            "ro": "Un tur cu mașina pe timp de iarnă oferă confortul de a descoperi comorile din Methana la temperaturi blânde. Drumul spre plaja Nisaki și Akropolis este spectaculos în lumina clară de iarnă. Deoarece în mașină este cald, aerul rece de afară nu este deranjant în timpul vizitării morilor și fermelor. Ziua se încheie la timp, înainte de apusul devreme de la ora 17:00.",
+            "en": "A winter car tour offers the comfort of discovering Methana's treasures at mild temperatures. The drive to Nisaki Beach and the Akropolis is particularly spectacular in the clear winter light. Since it's warm in the car, the cool outside air isn't bothersome when visiting the mills and farms. The day ends in good time before the early sunset at 5:00 PM back in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nisaki-Strand",
+                "hu": "Nisaki strand",
+                "ro": "Plaja Nisaki",
+                "en": "Nisaki Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne glitzert herrlich auf dem Wasser; genießen Sie einen kurzen Spaziergang am leeren Strand und nutzen Sie die Sitzheizung Ihres Autos für die Weiterfahrt.",
+                "hu": "A téli napfény gyönyörűen csillog a vízen; tegyél egy rövid sétát az üres strandon, majd használd az autó ülésfűtését a továbbinduláskor a felmelegedéshez.",
+                "ro": "Soarele de iarnă sclipește superb pe apă; faceți o scurtă plimbare pe plaja pustie și folosiți încălzirea în scaune a mașinii pentru continuarea drumului.",
+                "en": "The winter sun glitters beautifully on the water; take a short walk on the deserted beach and then use your car's seat heating to warm up as you continue your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Akropolis",
+                "hu": "Akropolisz",
+                "ro": "Akropolis",
+                "en": "Akropolis"
+              },
+              "tip_5lang": {
+                "de": "Das klare Licht sorgt für eine exzellente Fernsicht bis nach Athen; bringen Sie ein Fernglas mit und verstauen Sie es sicher im Handschuhfach nach Ihrem Besuch.",
+                "hu": "A tiszta fény kiváló távlati kilátást biztosít egészen Athénig; hozz magaddal távcsövet, és tárold biztonságosan a kesztyűtartóban a romok meglátogatása után.",
+                "ro": "Lumina clară oferă o vizibilitate excelentă până la Atena; aduceți un binoclu și păstrați-l în siguranță în torpedou după vizitarea ruinelor antice.",
+                "en": "The clear light provides excellent long-distance views as far as Athens; bring binoculars and store them safely in the glove compartment after visiting the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Mühle",
+                "hu": "Ősi malom",
+                "ro": "Moara antică",
+                "en": "Ancient mill"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne betont die Textur der alten Steine; parken Sie direkt am Rand, um die kühle Brise zu minimieren, während Sie kurz die Umgebung erkunden.",
+                "hu": "Az alacsonyan járó nap kiemeli a régi kövek textúráját; parkolj közvetlenül az út szélén, hogy minimalizáld a hűvös szélnek való kitettséget a rövid séta alatt.",
+                "ro": "Soarele jos accentuează textura pietrelor vechi; parcați chiar pe marginea drumului pentru a minimiza expunerea la briza rece în timpul scurtei explorări.",
+                "en": "The low sun emphasizes the texture of the old stones; park right on the roadside to minimize exposure to the cool breeze during your short exploration of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiker Turm Throni",
+                "hu": "Throni ősi torony",
+                "ro": "Turnul antic Throni",
+                "en": "Ancient tower Throni"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für Fotos in der goldenen Stunde; achten Sie darauf, dass Ihre Autobatterie bei Kälte fit ist, falls Sie länger mit Licht für Fotos stehen bleiben.",
+                "hu": "Tökéletes helyszín az aranyóra fotóihoz; ügyelj rá, hogy az autó akkumulátora rendben legyen a hidegben, ha hosszabb ideig állsz meg világítás mellett fotózni.",
+                "ro": "Locație perfectă pentru fotografii la ora aurie; asigurați-vă că bateria mașinii este în stare bună pe frig, dacă opriți mai mult timp cu luminile aprinse.",
+                "en": "A perfect location for golden hour photos; make sure your car battery is in good condition for the cold weather if you stop for a longer time with lights on for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Farmstätte",
+                "hu": "Ősi farm",
+                "ro": "Ferma antică",
+                "en": "Ancient farm site"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Strukturen sind im Winter ohne Laub besser sichtbar; nutzen Sie die Wärme der Klimaanlage, um sich nach der Besichtigung der Hänge schnell aufzuwärmen.",
+                "hu": "Az ősi struktúrák télen, lombkorona nélkül jobban láthatóak; használd a fűtést az autóban, hogy gyorsan felmelegedj a domboldali nézelődés után.",
+                "ro": "Structurile antice sunt mai vizibile iarna fără frunziș; folosiți căldura aerului condiționat pentru a vă încălzi rapid după vizitarea versantului.",
+                "en": "The ancient structures are more visible in winter without foliage; use the car's heater to warm up quickly after exploring the hillside ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Loutesa-Zisternen",
+                "hu": "Loutesa ciszternák",
+                "ro": "Cisternele Loutesa",
+                "en": "Loutesa cisterns"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am schmalen Weg; im Winter ist die Luft hier oft sehr still, was die Atmosphäre bei den Zisternen besonders andächtig und ruhig macht.",
+                "hu": "Parkolj óvatosan a keskeny úton; télen a levegő itt gyakran teljesen mozdulatlan, ami a ciszternák környékét különösen áhítatossá és csendessé teszi.",
+                "ro": "Parcați cu atenție pe drumul îngust; iarna aerul este adesea foarte liniștit aici, ceea ce face atmosfera de la cisterne deosebit de pioasă și calmă.",
+                "en": "Park carefully on the narrow path; in winter, the air here is often very still, making the atmosphere around the cisterns particularly solemn and quiet."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Farmstätte",
+                "hu": "Római farm",
+                "ro": "Ferma romană",
+                "en": "Roman farming site"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne beleuchtet die Farmstätte ideal für Architekturaufnahmen; halten Sie den Motor nicht unnötig im Leerlauf während Ihrer kurzen Besichtigung.",
+                "hu": "Az alacsonyan járó téli nap ideálisan világítja meg a farmot az építészeti fotókhoz; ne járassa feleslegesen a motort alapjáraton a rövid nézelődés alatt.",
+                "ro": "Soarele jos de iarnă luminează ideal ferma pentru fotografii de arhitectură; nu lăsați motorul pornit inutil la ralanti în timpul scurtei vizite.",
+                "en": "The low winter sun illuminates the farm site ideally for architectural photography; avoid leaving the engine idling unnecessarily during your brief visit to the ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Römische Bäder",
+                "hu": "Római fürdők",
+                "ro": "Băile romane",
+                "en": "Roman baths"
+              },
+              "tip_5lang": {
+                "de": "Die Lage direkt an der Straße ermöglicht eine schnelle Besichtigung ohne langes Frieren; ideal für einen kurzen historischen Stopp auf dem Weg zurück in den Ort.",
+                "hu": "Az út menti elhelyezkedés lehetővé teszi a gyors megtekintést felesleges fázás nélkül; ideális egy rövid történelmi megállóra a faluba visszavezető úton.",
+                "ro": "Locația lângă drum permite o vizitare rapidă fără a îngheța inutil; ideal pentru o scurtă oprire istorică pe drumul de întoarcere în sat.",
+                "en": "The roadside location allows for a quick visit without unnecessary freezing; ideal for a short historical stop on the way back to the village."
+              }
+            },
+            {
+              "name": {
+                "de": "Mykenische Ausgrabungen",
+                "hu": "Mükénéi ásatások",
+                "ro": "Săpături miceniene",
+                "en": "Mycenean excavations"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort als krönenden Abschluss vor Sonnenuntergang; das goldene Licht auf den Zyklopenmauern ist im Winter von unvergleichlicher Schönheit.",
+                "hu": "Látogasd meg ezt a helyet a naplemente előtti koronaként; a ciklop falakra vetülő aranyfény télen páratlan szépségű látványt nyújt a látogatóknak.",
+                "ro": "Vizitați acest loc ca punct culminant înainte de apus; lumina aurie pe zidurile ciclopice este de o frumusețe de neegalat în timpul iernii.",
+                "en": "Visit this site as the crowning finale before sunset; the golden light hitting the cyclopean walls is of incomparable beauty during the winter months."
+              }
+            }
+          ]
+        }
       }
     }
   }

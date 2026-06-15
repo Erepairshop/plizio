@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt izgalmas digitális kalandokkal a MultiWorld és a Game House termeiben. A délidő visszarepíti az időben, ahogy elhalad a Halle Grenette mellett és belép a templomba. Délután fedezze fel a Musée de Bourgoin-Jallieu lenyűgöző textilipari kiállításait. Ahogy leszáll az este, élvezze a retró játékokat a Borne To Be A Life-nál, mielőtt a színházhoz érne.",
         "ro": "Începeți dimineața cu aventuri digitale captivante la MultiWorld și Game House. Prânzul vă aduce înapoi în timp, plimbându-vă pe lângă Halle Grenette și Biserica Saint-Jean-Baptiste. Petreceți după-amiaza explorând expozițiile fascinante de textile la Muzeul din Bourgoin-Jallieu. Seara, bucurați-vă de jocurile retro de la Borne To Be A Life înainte de a trece pe lângă Teatru.",
         "en": "Start your morning with exciting digital adventures at MultiWorld and Game House. Midday brings you back in time as you stroll past the historic Halle Grenette and enter the serene Église Saint-Jean-Baptiste. Spend your afternoon exploring the fascinating textile exhibits at the Musée de Bourgoin-Jallieu. As evening falls, enjoy retro games at Borne To Be A Life before passing the Théâtre."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag mit spannenden Indoor-Aktivitäten, um dem Regen zu entgehen. Mittags bietet das Stadtzentrum kurze Wege zwischen historischen Gebäuden. Am Nachmittag laden Museen und Theater zum Verweilen im Trockenen ein. Der Abend klingt gemütlich in der beleuchteten Altstadt aus, wobei die nassen Gassen einen besonderen Glanz versprühen.",
+            "hu": "Kezdje a napot izgalmas beltéri programokkal, elkerülve az égi áldást. Délben a városközpont rövid sétatávolságai segítenek szárazon maradni a történelmi falak között. Délután a múzeum és a színház kínál tökéletes menedéket. Az este a kivilágított, vizes aszfalton tükröződő fények között zárul, ami különleges hangulatot áraszt.",
+            "ro": "Începeți ziua cu activități captivante în interior pentru a evita ploaia. La prânz, centrul orașului oferă distanțe scurte între clădirile istorice. După-amiaza, muzeele și teatrele vă invită să stați la adăpost. Seara se încheie plăcut în centrul vechi iluminat, unde străzile umede reflectă luminile orașului într-un mod deosebit.",
+            "en": "Start your day with exciting indoor activities to stay dry. At noon, the short walking distances in the city center make it easy to hop between historic sites. In the afternoon, the local museum and theater provide the perfect refuge. The evening ends with the charming glow of city lights reflecting off the wet pavement in the old town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "MultiWorld - VR Experience",
+                "hu": "MultiWorld - VR Élmény",
+                "ro": "MultiWorld - Experiență VR",
+                "en": "MultiWorld - VR Experience"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in virtuelle Welten ein, während es draußen regnet; idealer Start im Trockenen, bringen Sie für den kurzen Weg danach einen stabilen Schirm mit.",
+                "hu": "Merüljön el a virtuális valóságban, miközben odakint esik; tökéletes fedett kezdés, a következő rövid szakaszhoz pedig készítsen elő egy strapabíró esernyőt.",
+                "ro": "Explorați lumi virtuale în timp ce afară plouă; este un început ideal la adăpost, iar pentru drumul scurt de după, asigurați-vă că aveți o umbrelă rezistentă.",
+                "en": "Dive into virtual worlds while it rains outside; a perfect indoor start, and remember to keep a sturdy umbrella handy for the short walk to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Game House",
+                "hu": "Game House",
+                "ro": "Game House",
+                "en": "Game House"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die große Spielauswahl im warmen Innenraum; ein toller Ort für Familien bei Regen, achten Sie beim Verlassen auf rutschige Pflastersteine vor der Tür.",
+                "hu": "Élvezze a hatalmas játékválasztékot a meleg belső térben; kiváló családi menedék esőben, távozáskor ügyeljen a bejárat előtti csúszós macskakövekre.",
+                "ro": "Bucurați-vă de selecția vastă de jocuri în interiorul călduros; un loc excelent pentru familii pe ploaie, atenție la pavajul alunecos de la ieșire.",
+                "en": "Enjoy a vast selection of games in a cozy indoor setting; a great family refuge during rain, just watch out for slippery cobblestones when leaving the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle Grenette",
+                "hu": "Halle Grenette",
+                "ro": "Halle Grenette",
+                "en": "Halle Grenette"
+              },
+              "tip_5lang": {
+                "de": "Diese historische Markthalle bietet kurzzeitig Schutz vor Schauern; bewundern Sie die Architektur unter dem Dach und nutzen Sie die Passage als trockenen Durchgang.",
+                "hu": "Ez a történelmi vásárcsarnok rövid ideig védelmet nyújt a záporok elől; csodálja meg az építészetet a tető alatt, és használja a csarnokot száraz átjáróként.",
+                "ro": "Această hală istorică oferă un scurt adăpost împotriva averselor; admirați arhitectura sub acoperiș și folosiți pasajul ca o trecere uscată spre centru.",
+                "en": "This historic market hall offers brief shelter from the showers; admire the roof's architecture and use the space as a dry passage toward the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste Templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein Ort der Ruhe und des Schutzes; betrachten Sie die Glasfenster im gedämpften Regenlicht, was eine besonders andächtige Atmosphäre schafft.",
+                "hu": "A templom a nyugalom és a védelem helyszíne; nézze meg a színes üvegablakokat a tompa esőfényben, ami különlegesen áhítatos hangulatot teremt a belső térben.",
+                "ro": "Biserica este un loc de liniște și adăpost; priviți vitraliile în lumina difuză a ploii, ceea ce creează o atmosferă deosebit de contemplativă în interior.",
+                "en": "The church is a place of peace and shelter; view the stained-glass windows in the muted rainy light, which creates a uniquely solemn atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de Bourgoin-Jallieu",
+                "hu": "Bourgoin-Jallieu Múzeum",
+                "ro": "Muzeul din Bourgoin-Jallieu",
+                "en": "Musée de Bourgoin-Jallieu"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie hier eine längere Zeit, um die Textilgeschichte zu entdecken; die Garderobe ist ideal, um nasse Mäntel und Schirme vor dem Rundgang abzugeben.",
+                "hu": "Töltsön itt hosszabb időt a textilipar történetének felfedezésével; a ruhatár tökéletes a vizes kabátok és esernyők leadására a tárlatvezetés előtt.",
+                "ro": "Petreceți mai mult timp aici descoperind istoria textilă; garderoba este ideală pentru a lăsa hainele ude și umbrelele înainte de a începe vizita.",
+                "en": "Spend an extended period here exploring the textile history; the cloakroom is perfect for dropping off wet coats and umbrellas before starting your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Borne To Be A Life",
+                "hu": "Borne To Be A Life",
+                "ro": "Borne To Be A Life",
+                "en": "Borne To Be A Life"
+              },
+              "tip_5lang": {
+                "de": "Ein Paradies für Retro-Gamer im Trockenen; nutzen Sie die Pause vom Regen für eine Runde an den Automaten, während draußen der Wind die Pfützen peitscht.",
+                "hu": "A retró játékok paradicsoma fedett helyen; használja ki az esőmentes szünetet egy körre az automatáknál, miközben odakint a szél korbácsolja a tócsákat.",
+                "ro": "Un paradis pentru gamerii retro, la adăpost; profitați de pauza de la ploaie pentru o rundă la aparate, în timp ce afară vântul agită bălțile.",
+                "en": "A paradise for retro gamers indoors; take advantage of the break from the rain for a round at the machines while the wind whips the puddles outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre Jean-Vilar",
+                "hu": "Jean-Vilar Színház",
+                "ro": "Teatrul Jean-Vilar",
+                "en": "Théâtre Jean-Vilar"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss in kultureller Wärme; genießen Sie die Architektur des Foyers und prüfen Sie vor dem Heimweg, ob der Regen etwas nachgelassen hat.",
+                "hu": "A nap kulturális és meleg lezárása; gyönyörködjön az előcsarnok építészetében, és mielőtt hazaindulna, ellenőrizze, csendesedett-e már kint az eső.",
+                "ro": "Finalul perfect în căldură culturală; admirați arhitectura foaierului și verificați dacă ploaia s-a mai potolit înainte de a pleca spre casă.",
+                "en": "A cultural and cozy conclusion to the day; admire the foyer's architecture and check if the rain has eased up before making your final way home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erleben Sie Bourgoin-Jallieu im winterlichen Gewand mit Fokus auf gemütliche Innenräume. Die klare Luft am Morgen belebt, während mittags die kurzen Wege zwischen den Sehenswürdigkeiten ideal sind. Da es bereits gegen 17:00 Uhr dunkel wird, verschiebt sich das Geschehen früh in warme Kulturstätten. Warme Kleidung und feste Schuhe sind für die frostigen Abschnitte unerlässlich.",
+            "hu": "Fedezze fel Bourgoin-Jallieu téli arcát a hangsúlyt a barátságos belső terekre helyezve. A reggeli friss levegő élénkítő, délben pedig a látnivalók közelsége segít elkerülni a tartós hideget. Mivel 17:00 körül sötétedik, a programok korán a fűtött kulturális helyszínekre tolódnak. A fagyos szakaszokhoz meleg réteges öltözet és bélelt cipő elengedhetetlen.",
+            "ro": "Descoperiți fața de iarnă a orașului Bourgoin-Jallieu, punând accent pe spațiile interioare primitoare. Aerul proaspăt de dimineață este revigorant, iar la prânz proximitatea obiectivelor ajută la evitarea frigului prelungit. Deoarece se întunecă în jur de ora 17:00, activitățile se mută devreme în locurile culturale încălzite. Hainele groase și încălțămintea izolată sunt esențiale.",
+            "en": "Discover the winter side of Bourgoin-Jallieu with a focus on cozy indoor spaces. The crisp morning air is invigorating, while at noon, the proximity of sights helps minimize time in the cold. Since it gets dark around 5:00 PM, the action shifts early to heated cultural venues. Warm layered clothing and insulated shoes are essential for the frosty walking segments."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "MultiWorld - VR Experience",
+                "hu": "MultiWorld - VR Élmény",
+                "ro": "MultiWorld - Experiență VR",
+                "en": "MultiWorld - VR Experience"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie aktiv im warmen Studio; die VR-Brillen lassen Sie die Kälte draußen vergessen, aber behalten Sie Ihre Jacke für den Wechsel bereit.",
+                "hu": "Kezdjen aktívan a fűtött stúdióban; a VR-szemüveg elfeledteti a kinti hideget, de tartsa készenlétben a kabátját a következő állomásig tartó sétához.",
+                "ro": "Începeți activ în studioul încălzit; ochelarii VR vă vor face să uitați de frigul de afară, dar păstrați haina la îndemână pentru scurta ieșire.",
+                "en": "Start actively in the heated studio; the VR headsets will make you forget the cold outside, but keep your coat ready for the walk between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Game House",
+                "hu": "Game House",
+                "ro": "Game House",
+                "en": "Game House"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Rückzugsort vor dem Winterwind; wärmen Sie sich bei einer Partie Gesellschaftsspiele auf, bevor Sie den Weg in Richtung Markt fortsetzen.",
+                "hu": "Csodálatos menedék a téli szél elől; melegedjen fel egy társasjáték mellett, mielőtt folytatná útját a belvárosi piac irányába a friss levegőn.",
+                "ro": "Un refugiu minunat împotriva vântului de iarnă; încălziți-vă cu un joc de societate înainte de a continua drumul spre piața centrală.",
+                "en": "A wonderful retreat from the winter wind; warm up over a board game before continuing your walk toward the central market in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle Grenette",
+                "hu": "Halle Grenette",
+                "ro": "Halle Grenette",
+                "en": "Halle Grenette"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Metallstruktur dieser historischen Halle; im Winter ist die Luft hier kühl, also bleiben Sie in Bewegung, während Sie die Details betrachten.",
+                "hu": "Csodálja meg a történelmi csarnok fémszerkezetét; télen itt hűvös a levegő, ezért maradjon mozgásban, miközben az építészeti részleteket böngészi.",
+                "ro": "Admirați structura metalică a acestei hale istorice; iarna aerul este rece aici, așa că rămâneți în mișcare în timp ce observați detaliile arhitecturale.",
+                "en": "Admire the metal structure of this historic hall; in winter, the air is chilly here, so stay active while browsing the architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste Templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten den eisigen Wind fern; genießen Sie die Stille und die Kerzenwärme im Inneren, die eine besonders heimelige Atmosphäre verbreitet.",
+                "hu": "A vastag falak távol tartják a jeges szelet; élvezze a csendet és a gyertyák fényét, ami különlegesen otthonos és békés hangulatot áraszt odabent.",
+                "ro": "Zidurile groase țin la distanță vântul înghețat; bucurați-vă de liniște și de căldura lumânărilor, care creează o atmosferă primitoare în interior.",
+                "en": "The thick walls keep the icy wind at bay; enjoy the silence and the warmth of the candles, which create a particularly cozy and peaceful atmosphere inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de Bourgoin-Jallieu",
+                "hu": "Bourgoin-Jallieu Múzeum",
+                "ro": "Muzeul din Bourgoin-Jallieu",
+                "en": "Musée de Bourgoin-Jallieu"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Museum ist der ideale Ort für den Nachmittag; erkunden Sie die Textilausstellung und nutzen Sie die Wärme, um neue Energie zu tanken.",
+                "hu": "A fűtött múzeum az ideális helyszín a délután eltöltésére; fedezze fel a textilkiállítást, és használja ki a meleget az energiaraktárai feltöltésére.",
+                "ro": "Muzeul încălzit este locul ideal pentru a petrece după-amiaza; explorați expoziția textilă și profitați de căldură pentru a vă reîncărca bateriile.",
+                "en": "The heated museum is the ideal spot to spend the afternoon; explore the textile exhibition and take advantage of the warmth to recharge your energy."
+              }
+            },
+            {
+              "name": {
+                "de": "Borne To Be A Life",
+                "hu": "Borne To Be A Life",
+                "ro": "Borne To Be A Life",
+                "en": "Borne To Be A Life"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie sich von den blinkenden Automaten aufwärmen; ein lebhafter Ort, wenn es draußen dämmert, perfekt um die Zeit bis zum Abendprogramm zu überbrücken.",
+                "hu": "Hagyja, hogy a villódzó játékgépek felmelegítsék; vidám helyszín, amikor odakint már sötétedik, tökéletes az esti program előtti várakozáshoz.",
+                "ro": "Lăsați aparatele strălucitoare să vă încălzească spiritul; un loc plin de viață când afară începe să se înnopteze, perfect pentru a trece timpul.",
+                "en": "Let the flashing arcade machines warm you up; a lively spot as dusk settles outside, perfect for bridging the time before your evening plans."
+              }
+            },
+            {
+              "name": {
+                "de": "Théâtre Jean-Vilar",
+                "hu": "Jean-Vilar Színház",
+                "ro": "Teatrul Jean-Vilar",
+                "en": "Théâtre Jean-Vilar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die festliche Beleuchtung des Theaters in der früh einsetzenden Dunkelheit; ein warmer und eleganter Ort, um den Wintertag stilvoll abzuschließen.",
+                "hu": "Élvezze a színház ünnepi kivilágítását a korán leszálló sötétségben; meleg és elegáns helyszín a téli nap stílusos és kényelmes lezárásához.",
+                "ro": "Bucurați-vă de iluminatul festiv al teatrului în întunericul care coboară devreme; un loc cald și elegant pentru a încheia ziua de iarnă cu stil.",
+                "en": "Enjoy the theater's festive lighting in the early darkness; a warm and elegant venue to conclude your winter day in style and comfort."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Tekerjen a kora reggeli órákban a Krapa Park friss levegőjén és hatalmas zöldterületein. Délben guruljon be a nyüzsgő központba a Game House-hoz, majd csodálja meg a Halle Grenette épületét. A délutánt a templom csendjének és a múzeum történelmi kiállításainak szentelje. Fejezze be az utat a Stade Pierre-Rajon stadionnál, hogy magába szívja a helyi sportélet lüktetését.",
         "ro": "Pedalați în primele ore bucurându-vă de aerul proaspăt și verdeața parcului Krapa. Călătoriți în centrul aglomerat la prânz pentru Game House și admirați Halle Grenette. După-amiaza este rezervată pentru liniștea din Biserica Saint-Jean-Baptiste și istoria din Muzeu. Încheiați plimbarea lângă Stade Pierre-Rajon pentru a simți energia sportivă locală vibrând.",
         "en": "Pedal away the early hours enjoying the fresh air and expansive greenery of Krapa Park. Ride into the bustling center midday to hit the Game House and marvel at the architecture of Halle Grenette. Your afternoon is reserved for quiet reflection in the Église Saint-Jean-Baptiste and historical deep-dives at the Museum. Finish the ride down by Stade Pierre-Rajon to soak up local sports vibes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine erfrischende Perspektive. Starten Sie im Park, wo die Bäume ersten Schutz bieten. Mittags geht es zügig zu den Indoor-Zielen im Zentrum. Die Wege können rutschig sein, daher ist eine defensive Fahrweise wichtig. Mit guter Regenbekleidung wird der Weg zwischen den Museen und Hallen zum kleinen Abenteuer.",
+            "hu": "A kerékpározás esőben óvatosságot igényel, de frissítő élményt nyújt. Kezdjen a parkban, ahol a fák némi védelmet adnak. Délben haladjon tempósan a belvárosi fedett célpontok felé. Az utak csúszósak lehetnek, ezért a defenzív vezetés kulcsfontosságú. Megfelelő esőruházattal a múzeumok és csarnokok közötti út is kisebb kalanddá válik.",
+            "ro": "O plimbare cu bicicleta pe ploaie necesită prudență, dar oferă o perspectivă revigorantă. Începeți în parc, unde copacii oferă o primă protecție. La prânz, pedalați rapid spre destinațiile acoperite din centru. Drumurile pot fi alunecoase, deci condusul defensiv este esențial. Cu echipament adecvat, drumul între muzee devine o mică aventură.",
+            "en": "Cycling in the rain requires caution but offers a refreshing perspective. Start in the park, where trees provide some cover. At noon, ride briskly toward the indoor destinations in the center. Paths can be slippery, so defensive riding is crucial. With good rain gear, the transit between museums and halls becomes a small urban adventure."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Krapa Park",
+                "hu": "Krapa Park",
+                "ro": "Parcul Krapa",
+                "en": "Krapa Park"
+              },
+              "tip_5lang": {
+                "de": "Die Wege im Park sind bei Regen oft weich; fahren Sie vorsichtig unter den Bäumen und genießen Sie den Duft der feuchten Natur, bevor es ins Zentrum geht.",
+                "hu": "A park ösvényei esőben gyakran feláznak; tekerjen óvatosan a fák alatt, és élvezze a nedves természet illatát, mielőtt a városközpont felé indulna.",
+                "ro": "Potecile din parc sunt adesea moi pe ploaie; pedalați cu atenție sub copaci și bucurați-vă de mirosul naturii umede înainte de a pleca spre centru.",
+                "en": "The park paths can get soft in the rain; cycle carefully under the trees and enjoy the scent of damp nature before heading into the city center."
+              }
+            },
+            {
+              "name": {
+                "de": "Game House",
+                "hu": "Game House",
+                "ro": "Game House",
+                "en": "Game House"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher und trocken ab; nutzen Sie die Pause, um Ihre Kleidung zu richten und sich im Spielehaus bei trockener Unterhaltung aufzuwärmen.",
+                "hu": "Parkolja le a bringát biztonságos, fedett helyen; használja ki a szünetet a ruházata rendezésére és a száraz szórakozásra a játékok házában.",
+                "ro": "Parcați bicicleta într-un loc sigur și uscat; profitați de pauză pentru a vă aranja hainele și pentru a vă relaxa cu jocurile din interior.",
+                "en": "Park your bike in a secure, dry spot; use the break to adjust your gear and warm up with some indoor entertainment at the house of games."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle Grenette",
+                "hu": "Halle Grenette",
+                "ro": "Halle Grenette",
+                "en": "Halle Grenette"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Bereich für einen kurzen Check der Bremsen; die Halle bietet Radfahrern einen idealen trockenen Stopp mitten in der Stadt.",
+                "hu": "Használja a fedett területet a fékek gyors ellenőrzésére; a csarnok ideális száraz megállót kínál a kerékpárosoknak a város kellős közepén.",
+                "ro": "Folosiți zona acoperită pentru o scurtă verificare a frânelor; hala oferă bicicliștilor un popas uscat ideal chiar în inima orașului.",
+                "en": "Use the sheltered area for a quick brake check; the hall provides cyclists with an ideal dry stop right in the heart of the city."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste Templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Ein Ort für eine besinnliche Pause; achten Sie auf die nassen Markierungen auf der Straße vor der Kirche, die beim Absteigen rutschig sein können.",
+                "hu": "Helyszín egy elmélyült pihenőhöz; ügyeljen a templom előtti útfestésekre, amelyek leszálláskor az esőtől rendkívül csúszóssá válhatnak.",
+                "ro": "Un loc pentru o pauză de reflecție; atenție la marcajele rutiere umede din fața bisericii, care pot fi alunecoase la descălecare.",
+                "en": "A place for a contemplative break; watch out for wet road markings in front of the church, which can be very slippery when dismounting your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de Bourgoin-Jallieu",
+                "hu": "Bourgoin-Jallieu Múzeum",
+                "ro": "Muzeul din Bourgoin-Jallieu",
+                "en": "Musée de Bourgoin-Jallieu"
+              },
+              "tip_5lang": {
+                "de": "Das Museum bietet Schutz für Sie und Inspiration für den Geist; prüfen Sie die Fahrradständer in der Nähe auf eine regengeschützte Position für Ihr Rad.",
+                "hu": "A múzeum védelmet nyújt Önnek és inspirációt az elmének; keressen a közelben olyan kerékpártárolót, ami védettebb az esőtől a bringája számára.",
+                "ro": "Muzeul oferă adăpost pentru dumneavoastră și inspirație pentru minte; căutați rasteluri de biciclete în apropiere care sunt mai protejate de ploaie.",
+                "en": "The museum offers shelter for you and inspiration for the mind; look for bike racks nearby that might be better shielded from the rain for your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Stade Pierre-Rajon",
+                "hu": "Pierre-Rajon Stadion",
+                "ro": "Stadionul Pierre-Rajon",
+                "en": "Stade Pierre-Rajon"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Stadion führt über offene Straßen; fahren Sie bei Pfützen vorsichtig und nutzen Sie die Tribünenüberdachung, um sich vor der Rückfahrt zu sammeln.",
+                "hu": "A stadionhoz vezető út nyitott szakaszokon halad; tekerjen óvatosan a tócsák környékén, és használja a lelátó fedett részét a visszaindulás előtti pihenőhöz.",
+                "ro": "Drumul spre stadion trece prin zone deschise; pedalați cu grijă prin bălți și folosiți copertina tribunelor pentru a vă reculege înainte de drumul de întoarcere.",
+                "en": "The route to the stadium crosses open areas; cycle carefully around puddles and use the grandstand's cover to regroup before heading back."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Radfahren im Winter in Bourgoin-Jallieu ist bei klarer, kalter Luft besonders belebend. Starten Sie im Park, wobei Sie auf gefrorene Stellen achten sollten. Mittags führt die Tour schnell zu den warmen kulturellen Zielen im Zentrum. Da es früh dunkel wird, ist eine gute Beleuchtung am Fahrrad zwingend erforderlich. Tragen Sie winddichte Kleidung und Handschuhe, um die Fahrt genießen zu können.",
+            "hu": "A téli biciklizés Bourgoin-Jallieu-ben a tiszta, hideg levegőben különösen élénkítő. Kezdjen a parkban, figyelve a lefagyott szakaszokra. Napközben a túra gyorsan a belvárosi fűtött kulturális célpontok felé veszi az irányt. Mivel korán sötétedik, a jó világítás elengedhetetlen. Viseljen szélálló ruházatot és kesztyűt, hogy élvezni tudja a tekerést.",
+            "ro": "Mersul cu bicicleta iarna în Bourgoin-Jallieu este revigorant în aerul rece și curat. Începeți în parc, fiind atenți la porțiunile înghețate. În timpul zilei, turul se îndreaptă rapid spre obiectivele culturale încălzite din centru. Deoarece se întunecă devreme, iluminarea bună este obligatorie. Purtați haine rezistente la vânt și mănuși.",
+            "en": "Winter cycling in Bourgoin-Jallieu is especially invigorating in the crisp, cold air. Start in the park, keeping an eye out for icy patches. During the day, the tour heads quickly toward the heated cultural spots in the center. Since darkness falls early, functional bike lights are mandatory. Wear windproof clothing and gloves to keep the ride enjoyable."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Krapa Park",
+                "hu": "Krapa Park",
+                "ro": "Parcul Krapa",
+                "en": "Krapa Park"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Morgenluft im Park ist herrlich; fahren Sie auf den befestigten Wegen, um Rutschgefahr auf gefrorenem Laub oder Gras zu vermeiden.",
+                "hu": "A fagyos reggeli levegő a parkban csodálatos; maradjon a szilárd burkolatú utakon, hogy elkerülje a csúszásveszélyt a jeges avaron vagy a fűben.",
+                "ro": "Aerul înghețat de dimineață în parc este minunat; pedalați pe aleile pavate pentru a evita riscul de alunecare pe frunzele înghețate sau iarbă.",
+                "en": "The frosty morning air in the park is wonderful; stick to the paved paths to avoid slipping on frozen leaves or grass while you ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Game House",
+                "hu": "Game House",
+                "ro": "Game House",
+                "en": "Game House"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Inneren auf; die Spielpause ist ideal, um die Durchblutung zu fördern, bevor Sie die Fahrt durch die kühle Stadt fortsetzen.",
+                "hu": "Melegítse fel a kezeit odabent; a játékszünet tökéletes a vérkeringés serkentésére, mielőtt folytatná a tekerést a hűvös városon keresztül.",
+                "ro": "Încălziți-vă mâinile în interior; pauza de joc este ideală pentru a vă stimula circulația înainte de a continua drumul prin orașul răcoros.",
+                "en": "Warm up your hands inside; the gaming break is perfect for getting your circulation going again before continuing your ride through the chilly city."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle Grenette",
+                "hu": "Halle Grenette",
+                "ro": "Halle Grenette",
+                "en": "Halle Grenette"
+              },
+              "tip_5lang": {
+                "de": "Ein schattiger Ort im Winter, also halten Sie den Stopp kurz; bewundern Sie die Struktur im Vorbeifahren oder nutzen Sie sie als windgeschützten Punkt.",
+                "hu": "Télen ez egy árnyékos és hűvös hely, ezért tartsa rövidre a megállót; csodálja meg a szerkezetet menet közben, vagy használja szélvédett pontként.",
+                "ro": "Un loc umbros și răcoros iarna, așa că faceți un popas scurt; admirați structura din mers sau folosiți-o ca punct de adăpost împotriva vântului.",
+                "en": "A shady and cool spot in winter, so keep your stop brief; admire the structure as you pass or use it as a wind-shielded point for a quick map check."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste Templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die friedliche Wärme der Kirche für eine Pause; stellen Sie sicher, dass Ihre Finger warm genug sind, um die Bremsen sicher zu bedienen.",
+                "hu": "Használja ki a templom békés melegét egy pihenőre; győződjön meg róla, hogy az ujjai elég melegek a fékek biztonságos kezeléséhez a továbbinduláskor.",
+                "ro": "Profitați de căldura pașnică a bisericii pentru o pauză; asigurați-vă că degetele sunt suficient de calde pentru a acționa frânele în siguranță la plecare.",
+                "en": "Take advantage of the church's peaceful warmth for a rest; ensure your fingers are warm enough to safely operate the brakes when you set off again."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de Bourgoin-Jallieu",
+                "hu": "Bourgoin-Jallieu Múzeum",
+                "ro": "Muzeul din Bourgoin-Jallieu",
+                "en": "Musée de Bourgoin-Jallieu"
+              },
+              "tip_5lang": {
+                "de": "Ein kulturelles Highlight im Warmen; da die Sonne im Winter früh untergeht, ist das Museum der perfekte Ort, um den späten Nachmittag zu verbringen.",
+                "hu": "Kulturális csúcspont a melegben; mivel télen korán nyugszik a nap, a múzeum tökéletes helyszín a késő délután tartalmas eltöltéséhez.",
+                "ro": "Un punct culminant cultural la căldură; deoarece soarele apune devreme iarna, muzeul este locul perfect pentru a petrece după-amiaza târzie.",
+                "en": "A cultural highlight in the warmth; as the sun sets early in winter, the museum is the perfect place to spend the late afternoon hours meaningfully."
+              }
+            },
+            {
+              "name": {
+                "de": "Stade Pierre-Rajon",
+                "hu": "Pierre-Rajon Stadion",
+                "ro": "Stadionul Pierre-Rajon",
+                "en": "Stade Pierre-Rajon"
+              },
+              "tip_5lang": {
+                "de": "Der Abschluss bei Dämmerung; schalten Sie Ihre Lichter ein und genießen Sie die kühle Brise auf dem Heimweg nach diesem sportlichen Tag.",
+                "hu": "Zárás szürkületben; kapcsolja be a világítást a biciklin, és élvezze a hűvös szellőt a hazaúton ezen az aktív sportos napon.",
+                "ro": "Finalul la amurg; aprindeți luminile bicicletei și bucurați-vă de briza răcoroasă în drum spre casă după această zi sportivă activă.",
+                "en": "Finishing at dusk; switch on your bike lights and enjoy the cool breeze on your way home after this active and athletic winter day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +899,196 @@
         "hu": "Autózzon ki korán a Lac Mort békés partjaihoz és a Jublet buja környezetéhez egy nyugodt napindításért. Délben induljon a város felé, hogy kinyújtóztassa végtagjait a Krapa Parkban. Töltse a délutánt a helyi örökség felfedezésével a Múzeumban, majd haladjon el a Halle Grenette mellett. Zárja a napot a Stade Pierre-Rajon közelében egy energiával teli estéért.",
         "ro": "Conduceți devreme spre malurile liniștite ale Lacului Mort și verdeața din Jublet pentru o dimineață calmă. Îndreptați-vă spre oraș la prânz pentru a vă relaxa la Parcul Krapa, prietenos cu familiile. Petreceți după-amiaza descoperind patrimoniul local la Muzeul din Bourgoin-Jallieu și trecând pe lângă Halle Grenette. Încheiați-vă ziua lângă Stade Pierre-Rajon pentru un final energic.",
         "en": "Drive out early to the peaceful shores of Lac Mort and the lush surroundings of Jublet for a tranquil morning start. Head towards the city midday to stretch your legs at the family-friendly Krapa Park. Spend your afternoon diving into local heritage at the Musée de Bourgoin-Jallieu and passing by the Halle Grenette. Wrap up your day near Stade Pierre-Rajon for an energetic evening finish."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Bourgoin-Jallieu auch bei Regen komfortabel zu erkunden. Beginnen Sie an den Seen in der Umgebung, wo der Regen die Landschaft mystisch wirken lässt. Mittags parken Sie bequem in Zentrumsnähe für die Indoor-Attraktionen. Die kurzen Wege vom Parkplatz zum Museum minimieren die Zeit im Freien. Genießen Sie die Fahrt durch die glänzenden, nassen Straßen der Region.",
+            "hu": "Autóval Bourgoin-Jallieu esőben is kényelmesen felfedezhető. Kezdjen a környékbeli tavaknál, ahol az eső misztikus hangulatot kölcsönöz a tájnak. Délben parkoljon kényelmesen a központ közelében a beltéri látnivalókhoz. A parkolótól a múzeumig tartó rövid szakaszok minimálisra csökkentik a kint töltött időt. Élvezze a kocsikázást a régió csillogó, vizes útjain.",
+            "ro": "Cu mașina, Bourgoin-Jallieu poate fi explorat confortabil chiar și pe ploaie. Începeți la lacurile din zonă, unde ploaia oferă peisajului o notă mistică. La prânz, parcați comod lângă centru pentru atracțiile de interior. Distanțele scurte de la parcare la muzeu minimizează timpul petrecut afară. Bucurați-vă de condus pe drumurile lucioase și umede ale regiunii.",
+            "en": "By car, Bourgoin-Jallieu is comfortable to explore even in the rain. Start at the nearby lakes, where the rain gives the landscape a mystical feel. At noon, park conveniently near the center for the indoor attractions. The short walks from the parking spots to the museums minimize your time in the rain. Enjoy the drive through the region's glistening, wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lac Mort",
+                "hu": "Lac Mort",
+                "ro": "Lac Mort",
+                "en": "Lac Mort"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf dem See vom Auto aus; ein kurzer Spaziergang am Ufer lohnt sich nur mit wasserfester Kleidung und gutem Profil.",
+                "hu": "Figyelje az esőcseppek játékát a tavon a kényelmes autóból; a parton tett rövid séta csak vízálló ruházatban és jól tapadó talpú cipőben ajánlott.",
+                "ro": "Observați jocul picăturilor de ploaie pe lac din confortul mașinii; o scurtă plimbare pe mal merită doar cu haine impermeabile și încălțăminte aderentă.",
+                "en": "Watch the play of raindrops on the lake from the comfort of your car; a short stroll on the shore is only recommended with waterproof gear and good soles."
+              }
+            },
+            {
+              "name": {
+                "de": "Jublet",
+                "hu": "Jublet",
+                "ro": "Jublet",
+                "en": "Jublet"
+              },
+              "tip_5lang": {
+                "de": "Die natürliche Umgebung wirkt im Regen besonders intensiv; nutzen Sie die Aussichtspunkte, die mit dem Auto erreichbar sind, um trocken die Natur zu genießen.",
+                "hu": "A természeti környezet esőben különösen intenzív élményt nyújt; keresse az autóval megközelíthető kilátópontokat, hogy szárazon élvezhesse a tájat.",
+                "ro": "Cadrul natural pare deosebit de intens pe ploaie; folosiți punctele de observație accesibile cu mașina pentru a vă bucura de natură fără a vă uda.",
+                "en": "The natural surroundings feel especially intense in the rain; use the viewpoints accessible by car to enjoy the scenery while staying dry inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Krapa Park",
+                "hu": "Krapa Park",
+                "ro": "Parcul Krapa",
+                "en": "Krapa Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um schnell ins Grüne und zurück zu kommen; bei starkem Regen bieten die dichten Baumkronen einen natürlichen Schirm.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy gyorsan kiérjen a zöldbe és vissza; heves esőben a sűrű lombok természetes esernyőként szolgálnak a sétához.",
+                "ro": "Parcați chiar la intrare pentru a ajunge rapid în natură și înapoi; în caz de ploaie torențială, coroanele dese ale copacilor oferă o umbrelă naturală.",
+                "en": "Park right at the entrance to get in and out of the greenery quickly; in heavy rain, the dense tree canopy acts as a natural umbrella for your stroll."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de Bourgoin-Jallieu",
+                "hu": "Bourgoin-Jallieu Múzeum",
+                "ro": "Muzeul din Bourgoin-Jallieu",
+                "en": "Musée de Bourgoin-Jallieu"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie ein zentrumsnahes Parkhaus für einen trockenen Weg; das Museum ist die perfekte Flucht vor dem Wetter mit faszinierenden Einblicken in die Textilkunst.",
+                "hu": "Használjon egy belvárosi parkolóházat a szárazabb út érdekében; a múzeum tökéletes menekülés az időjárás elől, lenyűgöző betekintéssel a textiliparba.",
+                "ro": "Folosiți o parcare acoperită din centru pentru un drum uscat; muzeul este evadarea perfectă de vremea rea, oferind perspective fascinante asupra textilelor.",
+                "en": "Use a central parking garage for a drier walk to the entrance; the museum is the perfect escape from the weather with fascinating textile art displays."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle Grenette",
+                "hu": "Halle Grenette",
+                "ro": "Halle Grenette",
+                "en": "Halle Grenette"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Halt für ein Foto der beeindruckenden Halle; da das Parken direkt davor schwierig sein kann, nutzen Sie die kurzen Laufwege vom nahen Parkplatz.",
+                "hu": "Rövid megálló egy fotóra a lenyűgöző csarnoknál; mivel közvetlenül előtte nehéz parkolni, használja ki a közeli parkolótól vezető rövid sétautat.",
+                "ro": "O scurtă oprire pentru o fotografie a halei impresionante; deoarece parcarea direct în față poate fi dificilă, folosiți distanțele scurte de la parcarea vecină.",
+                "en": "A quick stop for a photo of the impressive hall; since parking directly in front is tough, take advantage of the short walking distance from a nearby lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Stade Pierre-Rajon",
+                "hu": "Pierre-Rajon Stadion",
+                "ro": "Stadionul Pierre-Rajon",
+                "en": "Stade Pierre-Rajon"
+              },
+              "tip_5lang": {
+                "de": "Das Stadion verfügt über gute Parkmöglichkeiten; besichtigen Sie die Anlage und nutzen Sie die überdachten Bereiche, falls der Regen beim Aussteigen zunimmt.",
+                "hu": "A stadion jó parkolási lehetőségekkel rendelkezik; nézze meg a létesítményt, és használja a fedett részeket, ha kiszálláskor épp rákezdene az eső.",
+                "ro": "Stadionul dispune de locuri bune de parcare; vizitați baza sportivă și folosiți zonele acoperite dacă ploaia se întețește când coborâți din mașină.",
+                "en": "The stadium has good parking facilities; tour the site and make use of the covered areas if the rain picks up when you step out of the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autotour durch das winterliche Bourgoin-Jallieu bietet Wärme und Flexibilität. Starten Sie an den frostigen Seen, die im Winterlicht besonders ruhig wirken. Mittags erreichen Sie zügig die kulturellen Highlights im Stadtkern, ohne lange der Kälte ausgesetzt zu sein. Da es gegen 17:00 Uhr dunkel wird, genießen Sie die beleuchtete Stadt aus dem warmen Fahrzeug. Achten Sie auf mögliche Glätte auf den Landstraßen.",
+            "hu": "Az autós túra a téli Bourgoin-Jallieu-ben meleget és rugalmasságot kínál. Kezdjen a fagyos tavaknál, amelyek a téli fényben különösen nyugodtak. Napközben gyorsan elérheti a városközpont kulturális pontjait, elkerülve a tartós hideget. Mivel 17:00 körül sötétedik, a kivilágított várost a fűtött autóból is megcsodálhatja. Ügyeljen az esetleges jegesedésre a vidéki utakon.",
+            "ro": "Turul cu mașina prin Bourgoin-Jallieu pe timp de iarnă oferă căldură și flexibilitate. Începeți la lacurile înghețate, care par foarte liniștite în lumina iernii. În timpul zilei, ajungeți rapid la punctele culturale din centru, evitând frigul. Deoarece se întunecă în jur de 17:00, admirați orașul iluminat din mașina încălzită. Atenție la polei pe drumurile rurale.",
+            "en": "A car tour through winterly Bourgoin-Jallieu provides warmth and flexibility. Start at the frosty lakes, which appear especially serene in the winter light. During the day, reach the city center's cultural highlights quickly without prolonged exposure to the cold. Since it gets dark around 5:00 PM, enjoy the lit-up city from your heated vehicle. Watch out for potential ice on rural roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lac Mort",
+                "hu": "Lac Mort",
+                "ro": "Lac Mort",
+                "en": "Lac Mort"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Stille am See; ein kurzer Gang am Ufer belebt, aber kehren Sie schnell ins warme Auto zurück, bevor die Kälte durchzieht.",
+                "hu": "Élvezze a téli csendet a tónál; egy rövid parti séta felfrissít, de térjen vissza gyorsan a meleg autóba, mielőtt teljesen átfagyna a hideg szélben.",
+                "ro": "Bucurați-vă de liniștea iernatică la lac; o scurtă plimbare pe mal vă va revigora, dar întoarceți-vă repede în mașina caldă înainte să vă pătrundă frigul.",
+                "en": "Enjoy the winter stillness at the lake; a brief walk on the shore is refreshing, but head back to the warm car before the cold wind gets through."
+              }
+            },
+            {
+              "name": {
+                "de": "Jublet",
+                "hu": "Jublet",
+                "ro": "Jublet",
+                "en": "Jublet"
+              },
+              "tip_5lang": {
+                "de": "Die Landschaft wirkt im Frost wie verzaubert; nutzen Sie die Parkplätze mit Aussicht, um die winterliche Natur komfortabel aus dem Inneren zu bewundern.",
+                "hu": "A táj a zúzmarától elvarázsoltnak tűnik; használja a kilátással rendelkező parkolóhelyeket, hogy a téli természetet kényelmesen, odabentről csodálhassa meg.",
+                "ro": "Peisajul pare vrăjit sub îngheț; folosiți parcările cu vedere panoramică pentru a admira natura de iarnă confortabil din interiorul mașinii.",
+                "en": "The landscape looks enchanted in the frost; use the parking spots with views to admire the winter nature comfortably from inside your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Krapa Park",
+                "hu": "Krapa Park",
+                "ro": "Parcul Krapa",
+                "en": "Krapa Park"
+              },
+              "tip_5lang": {
+                "de": "Ein Winterspaziergang zwischen den kahlen Bäumen hat seinen Reiz; achten Sie auf glatte Stellen auf den Wegen und nutzen Sie die Sitzheizung danach.",
+                "hu": "A kopasz fák közötti téli séta különleges élmény; ügyeljen a csúszós szakaszokra az ösvényeken, és használja ki az ülésfűtést a visszaérkezéskor.",
+                "ro": "O plimbare de iarnă printre copacii golași are farmecul ei; atenție la porțiunile alunecoase de pe alei și folosiți încălzirea în scaune la întoarcere.",
+                "en": "A winter walk among the bare trees has its own charm; watch out for slippery patches on the paths and enjoy the seat heating upon your return."
+              }
+            },
+            {
+              "name": {
+                "de": "Musée de Bourgoin-Jallieu",
+                "hu": "Bourgoin-Jallieu Múzeum",
+                "ro": "Muzeul din Bourgoin-Jallieu",
+                "en": "Musée de Bourgoin-Jallieu"
+              },
+              "tip_5lang": {
+                "de": "Idealer Stopp für den kalten Nachmittag; parken Sie nah am Eingang, um zügig ins beheizte Gebäude zu gelangen und die Textilkunst zu bewundern.",
+                "hu": "Ideális megálló a hideg délutánon; parkoljon közel a bejárathoz, hogy gyorsan bejusson a fűtött épületbe megcsodálni a textilipar remekműveit.",
+                "ro": "Popas ideal pentru o după-amiază rece; parcați aproape de intrare pentru a ajunge rapid în clădirea încălzită și a admira arta textilă.",
+                "en": "An ideal stop for a cold afternoon; park close to the entrance to get quickly into the heated building and admire the fascinating textile art."
+              }
+            },
+            {
+              "name": {
+                "de": "Halle Grenette",
+                "hu": "Halle Grenette",
+                "ro": "Halle Grenette",
+                "en": "Halle Grenette"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist es hier oft zugig, also bleiben Sie für die Besichtigung warm eingepackt; der historische Kern wirkt bei tiefstehender Sonne besonders edel.",
+                "hu": "Télen itt gyakran huzatos az idő, ezért maradjon jól felöltözve a látogatás alatt; a történelmi mag az alacsony téli napfényben különösen nemes látvány.",
+                "ro": "Iarna aici este adesea curent, așa că rămâneți bine înfofoliți în timpul vizitei; centrul istoric arată deosebit de nobil în lumina joasă a soarelui.",
+                "en": "In winter it’s often drafty here, so stay bundled up during your visit; the historic core looks especially elegant in the low-angled winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Stade Pierre-Rajon",
+                "hu": "Pierre-Rajon Stadion",
+                "ro": "Stadionul Pierre-Rajon",
+                "en": "Stade Pierre-Rajon"
+              },
+              "tip_5lang": {
+                "de": "Der Abschluss bei früh einsetzender Dunkelheit; genießen Sie die Fahrt zurück durch die beleuchtete Stadt und achten Sie auf die Temperaturanzeige im Auto.",
+                "hu": "Zárás a korán leszálló sötétségben; élvezze a visszautat a kivilágított városon át, és figyelje a külső hőmérséklet-kijelzőt az esetleges fagy miatt.",
+                "ro": "Finalul în întunericul ce coboară devreme; bucurați-vă de drumul înapoi prin orașul iluminat și urmăriți indicatorul de temperatură exterioară din mașină.",
+                "en": "Concluding as darkness falls early; enjoy the drive back through the illuminated city and keep an eye on your car's outside temperature display for frost."
+              }
+            }
+          ]
+        }
       }
     }
   }

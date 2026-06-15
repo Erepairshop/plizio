@@ -160,6 +160,196 @@
         "hu": "A reggel a történelmi központban indul a Castello Svevo meglátogatásával, amely Porto Recanati múltjába vezet. Délben a part mentén sétálunk, élvezve a Beach Gallery és a Nemesio e Carlo tengerparti hangulatát. Délután a helyi halászati hagyományokat fedezzük fel a tengerészeti múzeumban. A napot a Franco Fontanella múzeum művészeti kincseivel és egy kellemes sétával zárjuk.",
         "ro": "Dimineața începe în centrul istoric la Castello Svevo, descoperind rădăcinile orașului Porto Recanati. La prânz, ne plimbăm de-a lungul coastei vibrante, oprindu-ne la Beach Gallery și Nemesio e Carlo pentru relaxare. După-amiaza este dedicată tradiției maritime la Muzeul Mării și Pescuitului. Ziua se încheie liniștit explorând colecțiile de artă și istorie de la Franco Fontanella.",
         "en": "The morning starts in the historic center at Castello Svevo, discovering the roots of Porto Recanati. By midday, we stroll along the lively coast, stopping at Beach Gallery and Nemesio e Carlo for seaside relaxation. The afternoon is dedicated to maritime traditions at the Museum of the Sea and Fishing. We end the day admiring the art and heritage collections at Franco Fontanella."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Schutz des Castello Svevo, wo die Pinakothek trockene Unterhaltung bietet. Mittags suchen wir Zuflucht in der Stille der San Giovanni Kirche. Am Nachmittag vertiefen wir uns im Meeresmuseum in die lokale Geschichte, während draußen der Regen auf die Adria peitscht. Den Abend lassen wir bei einem kurzen Spaziergang unter dem Regenschirm an der glänzenden Promenade ausklingen.",
+            "hu": "Reggel a Castello Svevo vastag falai és a képtár nyújtanak menedéket a szemerkélő eső elől. Délben a közeli templom csendjében és fedett belső terében pihenünk meg. Délután a tengerészeti múzeum gazdag tárlata ideális program, amíg a vihar tombol. Estére a vizes aszfalton tükröződő fények mellett, ernyővel a kézben csodáljuk meg a morajló tengerparti látványt.",
+            "ro": "Dimineața începe la adăpostul Castello Svevo, unde galeria de artă oferă un refugiu cultural perfect. La prânz, vizităm interiorul liniștit al bisericii San Giovanni. După-amiaza este dedicată muzeului maritim, un spațiu vast și acoperit, ideal pentru orele ploioase. Seara se încheie cu o plimbare scurtă pe faleză, unde sunetul ploii se împletește cu cel al valurilor Adriaticii.",
+            "en": "The morning starts inside the sturdy walls of Castello Svevo, where the art gallery keeps you dry. At noon, find shelter in the peaceful atmosphere of San Giovanni church. Spend the rainy afternoon exploring the extensive indoor exhibits of the Maritime Museum. End the day with a brief walk along the glistening promenade, enjoying the dramatic rainy seascape under your umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für die Pinakothek im Obergeschoss; der Innenhof bietet schnellen Schutz bei plötzlichen Schauern.",
+                "hu": "Használja ki az esős időt a felső emeleti képtár felfedezésére; a belső udvar gyors menedéket nyújt a hirtelen záporok elől.",
+                "ro": "Profitați de ploaie pentru a vizita pinacoteca de la etaj; curtea interioară oferă adăpost rapid în caz de aversă bruscă.",
+                "en": "Take advantage of the rain to explore the upper-floor gallery; the inner courtyard provides quick shelter from sudden Adriatic showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Pause; bewundern Sie die Kunstwerke im Inneren, während Sie auf das Ende des Regens warten.",
+                "hu": "Ideális helyszín egy száraz pihenőre; csodálja meg a belső műalkotásokat, miközben várja a csapadék elálltát.",
+                "ro": "Un loc ideal pentru o pauză uscată; admirați operele de artă din interior în timp ce așteptați să se oprească ploaia.",
+                "en": "An ideal spot for a dry break; admire the interior artworks while waiting for the rain to clear over the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach Gallery",
+                "hu": "Beach Gallery",
+                "ro": "Beach Gallery",
+                "en": "Beach Gallery"
+              },
+              "tip_5lang": {
+                "de": "Der Weg dorthin ist kurz, aber windig; tragen Sie eine wetterfeste Jacke, um die Aussicht auf die aufgewühlte See zu genießen.",
+                "hu": "Az út rövid, de szeles; viseljen vízálló kabátot, hogy élvezhesse a felkorbácsolt tenger látványát a partról.",
+                "ro": "Drumul este scurt, dar vântos; purtați o jachetă impermeabilă pentru a savura vederea mării agitate de pe faleză.",
+                "en": "The walk is short but windy; wear a waterproof jacket to enjoy the view of the churning sea from the promenade."
+              }
+            },
+            {
+              "name": {
+                "de": "Nemesio e Carlo",
+                "hu": "Nemesio e Carlo",
+                "ro": "Nemesio e Carlo",
+                "en": "Nemesio e Carlo"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf dem glatten Pflaster auf Ihre Schritte und nutzen Sie einen stabilen Regenschirm gegen die Küstenböen.",
+                "hu": "Vigyázzon lépteire a csúszós kövezeten, és használjon erős esernyőt a tengerparti széllökések ellen.",
+                "ro": "Atenție la pași pe pavajul alunecos și folosiți o umbrelă rezistentă împotriva rafalelor de vânt de pe coastă.",
+                "en": "Watch your step on the slippery pavement and use a sturdy umbrella against the coastal wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del mare e della pesca",
+                "hu": "Museo del mare e della pesca",
+                "ro": "Museo del mare e della pesca",
+                "en": "Museo del mare e della pesca"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight für Regentage; verbringen Sie hier viel Zeit im Trockenen und lernen Sie alles über die lokale Fischerei.",
+                "hu": "Az esős napok fénypontja; töltsön itt hosszabb időt szárazon, megismerve a helyi halászat minden csínját-bínját.",
+                "ro": "Punctul culminant al zilelor ploioase; petreceți mult timp la adăpost învățând despre tradițiile locale de pescuit.",
+                "en": "The highlight for rainy days; spend plenty of time indoors learning about the fascinating local fishing traditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Franco Fontanella",
+                "hu": "Franco Fontanella",
+                "ro": "Franco Fontanella",
+                "en": "Franco Fontanella"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie Ihre Tour in dieser geschützten Galerie ab; klopfen Sie Ihre nasse Kleidung am Eingang gut ab.",
+                "hu": "Zárja a túrát ebben a védett galériában; rázza le alaposan a vizes ruházatot a bejáratnál a kényelem érdekében.",
+                "ro": "Încheiați turul în această galerie protejată; scuturați bine hainele ude la intrare pentru un confort sporit.",
+                "en": "Finish your tour in this sheltered gallery; give your wet gear a good shake at the entrance for extra comfort."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Castello Svevo belebt die Sinne mit kühler Meeresluft. Mittags wärmen wir uns in der Kirche San Giovanni auf, bevor wir nachmittags das beheizte Meeresmuseum besuchen. Da die Sonne bereits um 17:00 Uhr untergeht, genießen wir die blaue Stunde an der menschenleeren Küste und kehren dann in die gemütliche Altstadt zurück.",
+            "hu": "A friss téli reggel a Castello Svevónál élénkítő tengeri széllel indul. Délben a San Giovanni templom meleg belső tere nyújt pihenőt, majd délután a fűtött tengerészeti múzeumban kalandozunk. Mivel a nap már 17:00 körül lemegy, a szürkületi fényekben csodáljuk meg az elcsendesedett partot, mielőtt visszatérnénk a városba.",
+            "ro": "O dimineață răcoroasă de iarnă la Castello Svevo revigorează simțurile cu aerul sărat al mării. La prânz ne încălzim în biserica San Giovanni, iar după-amiaza explorăm muzeul maritim încălzit. Deoarece soarele apune deja în jur de ora 17:00, savurăm ora albastră pe faleza pustie înainte de a ne retrage în orașul primitor.",
+            "en": "A crisp winter morning at Castello Svevo invigorates the senses with cool Adriatic air. Warm up inside San Giovanni church at noon before spending the afternoon in the heated Maritime Museum. As the sun sets around 5 PM, enjoy the twilight colors on the quiet shore before returning to the cozy town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern schützen gut vor dem kalten Wind; tragen Sie Schal und Handschuhe für den Blick von den Zinnen.",
+                "hu": "A vastag falak jól védenek a hideg széltől; viseljen sálat és kesztyűt, ha felmegy a bástyákhoz a kilátásért.",
+                "ro": "Zidurile groase protejează bine de vântul rece; purtați fular și mănuși pentru a admira vederea de pe metereze.",
+                "en": "The thick walls provide great shelter from the wind; wear a scarf and gloves for the view from the battlements."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Die friedliche, windstille Atmosphäre im Inneren ist perfekt, um die Kälte draußen für einen Moment zu vergessen.",
+                "hu": "A békés, szélvédett belső tér tökéletes arra, hogy egy pillanatra elfelejtse a kinti metsző téli hideget.",
+                "ro": "Atmosfera liniștită și ferită de vânt din interior este perfectă pentru a uita o clipă de frigul tăios de afară.",
+                "en": "The peaceful, windless interior is the perfect place to briefly forget the biting winter chill outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach Gallery",
+                "hu": "Beach Gallery",
+                "ro": "Beach Gallery",
+                "en": "Beach Gallery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die melancholische Schönheit des Winterstrandes; eine warme Thermoskanne mit Tee ist hier ein Muss.",
+                "hu": "Élvezze a téli tengerpart melankolikus szépségét; egy meleg teával teli termosz itt igazi kincs lehet.",
+                "ro": "Bucurați-vă de frumusețea melancolică a plajei iarna; un termos cu ceai cald este accesoriul ideal aici.",
+                "en": "Enjoy the melancholic beauty of the winter beach; carrying a thermos with hot tea is a great idea here."
+              }
+            },
+            {
+              "name": {
+                "de": "Nemesio e Carlo",
+                "hu": "Nemesio e Carlo",
+                "ro": "Nemesio e Carlo",
+                "en": "Nemesio e Carlo"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und blendet oft; eine Sonnenbrille hilft trotz der Kälte beim Spaziergang am Meer.",
+                "hu": "A téli nap alacsonyan jár és gyakran vakít; egy napszemüveg a hideg ellenére is hasznos a tengerparti sétánál.",
+                "ro": "Soarele de iarnă este jos și adesea orbitor; ochelarii de soare sunt utili pe faleză în ciuda temperaturilor scăzute.",
+                "en": "The winter sun hangs low and can be blinding; sunglasses are useful for the coastal walk despite the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del mare e della pesca",
+                "hu": "Museo del mare e della pesca",
+                "ro": "Museo del mare e della pesca",
+                "en": "Museo del mare e della pesca"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für den späten Nachmittag, um der Kälte zu entkommen, bevor die Dämmerung früh einsetzt.",
+                "hu": "Ideális helyszín késő délutánra, hogy elmeneküljön a hideg elől, mielőtt a korai sötétség leszállna.",
+                "ro": "Locul ideal pentru după-amiaza târzie, oferind refugiu împotriva frigului înainte ca întunericul să se lase devreme.",
+                "en": "The perfect late afternoon spot to escape the chill before the early winter darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Franco Fontanella",
+                "hu": "Franco Fontanella",
+                "ro": "Franco Fontanella",
+                "en": "Franco Fontanella"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag vor Sonnenuntergang (ca. 17:00 Uhr), wenn die Temperaturen an der Küste spürbar sinken.",
+                "hu": "Fejezze be a napot naplemente előtt (kb. 17:00), mert ilyenkor a hőmérséklet hirtelen és jelentősen lecsökken.",
+                "ro": "Încheiați vizita înainte de apus (aprox. ora 17:00), când temperaturile pe coastă încep să scadă brusc.",
+                "en": "Finish your day before sunset (around 5 PM), as temperatures on the coast drop significantly once it gets dark."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kerékpártúránk a lenyűgöző Castello Svevo-tól a közeli Keresztelő Szent János-templomig vezet. Délben a Tengerészeti Múzeum felfedezése után a Beach Gallery partján pihenünk meg egy kicsit. Délután dél felé tekerünk, ahol a kikötő pezsgő élete vár ránk. A nap fénypontja az ókori Potentia régészeti területének megtekintése, amely különleges történelmi élményt nyújt alkonyatkor.",
         "ro": "Călătoria pe bicicletă începe de la impunătorul Castello Svevo până la Biserica San Giovanni Battista. La prânz, explorăm Muzeul Mării înainte de a ne relaxa pe plaja însorită de la Beach Gallery. După-amiaza, pedalăm spre sud către zona portuară animată Alaggio Imbarcazioni da Riporto. Ziua culminează cu vizitarea sitului arheologic roman Potentia în lumina blândă a serii.",
         "en": "Our cycling tour starts from the imposing Castello Svevo to the nearby Church of San Giovanni Battista. At midday, we explore the Museum of the Sea before taking a sunny break at Beach Gallery. In the afternoon, we pedal south toward the lively marina at Alaggio Imbarcazioni da Riporto. The day culminates with a visit to the ancient Roman archaeological site of Potentia in the evening light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine vorsichtige Radtour startet am Castello Svevo, wo wir die Räder trocken parken können. Mittags radeln wir kurz zur Kirche, bevor wir den Nachmittag im weitläufigen Meeresmuseum verbringen. Trotz Regen bietet die Küstenstraße eine einzigartige Stimmung, sofern man Schutzbleche und gute Regenkleidung nutzt, um Porto Recanati flexibel zu erkunden.",
+            "hu": "Óvatos biciklis túra indul a Castello Svevónál, ahol fedett helyen hagyhatjuk a kerékpárokat. Délben rövid tekerés következik a templomig, majd a délutánt a tengerészeti múzeumban töltjük. Az eső ellenére a parti út különleges hangulatot áraszt, ha van sárvédőnk és jó esőruhánk a város felfedezéséhez.",
+            "ro": "O tură prudentă cu bicicleta începe la Castello Svevo, unde putem parca bicicletele la adăpost. La prânz pedalăm scurt spre biserică, apoi petrecem după-amiaza la muzeul maritim. În ciuda ploii, drumul de coastă oferă o atmosferă unică, cu condiția să aveți apărători de noroi și echipament impermeabil bun.",
+            "en": "A cautious bike tour starts at Castello Svevo, where bikes can be parked under cover. At noon, take a short ride to the church before spending the afternoon at the Maritime Museum. Despite the rain, the coastal road has a unique vibe, provided you have mudguards and good waterproof gear to explore flexibly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad in Wandnähe, um den Sattel trocken zu halten, während Sie die inneren Galerien besuchen.",
+                "hu": "Parkoljon a falak közelében, hogy szárazon tartsa a nyerget, amíg bent a galériákat böngészi.",
+                "ro": "Parcați bicicleta aproape de ziduri pentru a menține șaua uscată în timp ce vizitați galeriile interioare.",
+                "en": "Park your bike close to the walls to keep the saddle dry while you browse the galleries inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Bremsen auf dem nassen Kopfsteinpflaster vor der Kirche; die Steine können extrem rutschig sein.",
+                "hu": "Vigyázzon a fékezéssel a templom előtti vizes macskakövön; a kövek rendkívül csúszósak lehetnek esőben.",
+                "ro": "Atenție la frânare pe pavajul umed din fața bisericii; pietrele pot deveni extrem de alunecoase când plouă.",
+                "en": "Be careful when braking on the wet cobblestones in front of the church; the stones can be extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del mare e della pesca",
+                "hu": "Museo del mare e della pesca",
+                "ro": "Museo del mare e della pesca",
+                "en": "Museo del mare e della pesca"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Stopp, um die Räder sicher abzustellen und sich bei einem längeren Museumsbesuch aufzuwärmen.",
+                "hu": "Tökéletes megálló a kerékpárok biztonságos elhelyezésére és egy hosszabb, száraz múzeumi barangolásra.",
+                "ro": "O oprire perfectă pentru a lăsa bicicletele în siguranță și pentru o vizită prelungită la muzeu, feriți de ploaie.",
+                "en": "A perfect stop to park the bikes safely and warm up during a longer indoor museum exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach Gallery",
+                "hu": "Beach Gallery",
+                "ro": "Beach Gallery",
+                "en": "Beach Gallery"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie bei starkem Regen die direkt am Wasser liegenden Wege, da Gischt und Sand die Sicht behindern können.",
+                "hu": "Erős esőben kerülje a közvetlenül a víz melletti utakat, mert a permet és a homok ronthatja a látási viszonyokat.",
+                "ro": "Evitați potecile de lângă apă în caz de ploaie torențială, deoarece spuma mării și nisipul pot reduce vizibilitatea.",
+                "en": "Avoid paths right by the water during heavy rain, as sea spray and sand can impair your visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaggio Imbarcazioni da Riporto",
+                "hu": "Alaggio Imbarcazioni da Riporto",
+                "ro": "Alaggio Imbarcazioni da Riporto",
+                "en": "Alaggio Imbarcazioni da Riporto"
+              },
+              "tip_5lang": {
+                "de": "Die Slipanlage ist bei Nässe sehr rutschig; bleiben Sie auf den befestigten Wegen oberhalb des Strandes.",
+                "hu": "A hajórámpa vizesen nagyon csúszós; maradjon a part feletti szilárd burkolatú utakon a biztonság kedvéért.",
+                "ro": "Rampa de bărci este foarte alunecoasă pe timp de ploaie; rămâneți pe drumurile pavate de deasupra plajei.",
+                "en": "The boat ramp is very slippery when wet; stay on the paved paths above the beach for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Potentia",
+                "hu": "Area Archeologica di Potentia",
+                "ro": "Area Archeologica di Potentia",
+                "en": "Area Archeologica di Potentia"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie auf den unbefestigten Wegen der Ausgrabungsstätte wasserfeste Schuhe, da sich schnell Pfützen bilden.",
+                "hu": "Viseljen vízálló cipőt az ásatási terület fövenyes útjain, mivel esőben gyorsan tócsák és sár alakulhat ki.",
+                "ro": "Purtați încălțăminte impermeabilă pe cărările sitului, deoarece se pot forma rapid bălți și noroi în caz de ploaie.",
+                "en": "Wear waterproof shoes on the unpaved paths of the archaeological site, as puddles and mud form quickly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein zügiger Start am Castello Svevo hilft gegen die Winterkälte. Wir radeln mittags durch die ruhigen Gassen zur Kirche und nachmittags zum Meeresmuseum. Die Radwege entlang der Küste sind im Winter leer und bieten weite Ausblicke, doch wegen des frühen Sonnenuntergangs um 17:00 Uhr sollten wir die archäologische Stätte rechtzeitig erreichen, bevor es dunkel wird.",
+            "hu": "A Castello Svevónál induló gyors tempó segít elűzni a téli hideget. Délben a csendes utcákon át tekerünk a templomhoz, délután pedig a múzeumot célozzuk meg. A tengerparti bringautak télen üresek, de a korai, 17:00-s naplemente miatt időben el kell érnünk a régészeti parkot, mielőtt ránk sötétedik.",
+            "ro": "Un start energic la Castello Svevo ajută la combaterea frigului de iarnă. Pedalăm la prânz pe străzile liniștite spre biserică, iar după-amiaza vizităm muzeul. Pistele de biciclete sunt libere iarna, dar din cauza apusului devreme de la ora 17:00, trebuie să ajungem la situl arheologic înainte de lăsarea serii.",
+            "en": "A brisk start at Castello Svevo helps beat the winter chill. Cycle through quiet streets to the church at noon, then head to the museum. The coastal bike paths are empty in winter, offering great views, but with the 5 PM sunset, make sure to reach the archaeological site in plenty of time before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind beim Radfahren an der Küste unerlässlich, um die Hände vor dem kalten Fahrtwind zu schützen.",
+                "hu": "A tengerparti bringázáshoz elengedhetetlen a meleg kesztyű, hogy óvja kezeit a metsző menetszéltől.",
+                "ro": "Mănușile groase sunt esențiale pentru ciclismul pe coastă, protejând mâinile de vântul tăios în timpul deplasării.",
+                "en": "Warm gloves are essential for coastal cycling to protect your hands from the biting winter wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für ein kurzes Aufwärmen im windgeschützten Innenraum, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Használja ki ezt a megállót egy rövid felmelegedésre a szélvédett belső térben, mielőtt továbbtekerne.",
+                "ro": "Folosiți această oprire pentru o scurtă încălzire în interiorul ferit de vânt înainte de a continua drumul.",
+                "en": "Use this stop for a quick warm-up in the wind-sheltered interior before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del mare e della pesca",
+                "hu": "Museo del mare e della pesca",
+                "ro": "Museo del mare e della pesca",
+                "en": "Museo del mare e della pesca"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Pause im Warmen; nehmen Sie sich Zeit für die Exponate im beheizten Gebäude.",
+                "hu": "Tökéletes helyszín egy hosszabb pihenőre a melegben; szánjon időt a kiállításokra a fűtött épületben.",
+                "ro": "Locul perfect pentru o pauză lungă la căldură; acordați timp exponatelor în clădirea bine încălzită.",
+                "en": "The perfect spot for a longer break in the warmth; take your time with the exhibits inside the heated building."
+              }
+            },
+            {
+              "name": {
+                "de": "Beach Gallery",
+                "hu": "Beach Gallery",
+                "ro": "Beach Gallery",
+                "en": "Beach Gallery"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Jacke; der Wind vom Meer kann im Winter auf dem Fahrrad sehr ungemütlich werden.",
+                "hu": "Viseljen szélálló kabátot; a tengerről érkező szél télen kerékpározás közben nagyon barátságtalan tud lenni.",
+                "ro": "Purtați o jachetă rezistentă la vânt; briza mării poate deveni foarte tăioasă iarna în timp ce pedalați.",
+                "en": "Wear a windproof jacket; the sea breeze can be very harsh during winter cycling along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Alaggio Imbarcazioni da Riporto",
+                "hu": "Alaggio Imbarcazioni da Riporto",
+                "ro": "Alaggio Imbarcazioni da Riporto",
+                "en": "Alaggio Imbarcazioni da Riporto"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif oder Eis auf den Wegen in der Nähe des Wassers, besonders in den frühen Morgenstunden.",
+                "hu": "Ügyeljen a dérre vagy jégre a víz közeli utakon, különösen a kora reggeli órákban a csúszásveszély miatt.",
+                "ro": "Atenție la brumă sau gheață pe potecile de lângă apă, mai ales în primele ore ale dimineții.",
+                "en": "Watch out for frost or ice on the paths near the water, especially during the early morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Potentia",
+                "hu": "Area Archeologica di Potentia",
+                "ro": "Area Archeologica di Potentia",
+                "en": "Area Archeologica di Potentia"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf funktionierende Fahrradbeleuchtung, da der Rückweg nach dem Besuch oft schon in der Dämmerung liegt.",
+                "hu": "Ellenőrizze a kerékpárlámpákat, mivel a látogatás utáni visszaút gyakran már szürkületben történik.",
+                "ro": "Verificați luminile bicicletei, deoarece drumul de întoarcere după vizită va fi probabil pe înserat.",
+                "en": "Check your bike lights, as the ride back after your visit will likely be in the twilight or dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Az utazás északnyugaton indul a csendes Chiesa dei Santi Cuori megtekintésével, majd a Tengerészeti Múzeum következik. Délben a központba hajtunk, ahol a Castello Svevo és a Keresztelő Szent János-templom vár minket. Délután a Franco Fontanella múzeum kiállításait csodáljuk meg. A nap zárásaként a város déli peremén fekvő ókori római település, Potentia romjait fedezzük fel.",
         "ro": "Traseul auto începe în nord-vest la liniștita Biserică a Sfintelor Inimi, urmată de Muzeul Mării. La prânz, vizităm impresionantul Castello Svevo și Biserica San Giovanni Battista din centrul orașului. După-amiaza o petrecem admirând colecțiile de la Muzeul Franco Fontanella. Finalizăm excursia cu o vizită memorabilă la situl arheologic roman Potentia de la marginea sudică.",
         "en": "The drive begins in the northwest at the peaceful Church of the Sacred Hearts, followed by the Museum of the Sea. At midday, we visit the impressive Castello Svevo and the charming Church of San Giovanni Battista. We spend the afternoon admiring the exhibits at the Franco Fontanella museum. The trip wraps up with a memorable visit to the Roman archaeological site of Potentia."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Regentag beginnt entspannt mit der Fahrt zur nördlichen Kirche. Mittags parken wir bequem direkt am Meeresmuseum, um trocken zu bleiben. Der Nachmittag gehört dem Castello und der Altstadt, wobei das Auto als perfekter Rückzugsort zwischen den Stopps dient. Trotz des schlechten Wetters erreichen wir die archäologische Stätte sicher und komfortabel, bevor wir den Tag beenden.",
+            "hu": "Az esős nap kényelmesen indul az autóban az északi templom felé. Délben közvetlenül a tengerészeti múzeumnál parkolunk, így teljesen szárazon jutunk be. A délután a kastélyé és a belvárosé, ahol az autó tökéletes menedék a megállók között. A rossz idő ellenére biztonságosan és komfortosan érjük el a régészeti parkot a nap végén.",
+            "ro": "Ziua ploioasă începe relaxat cu o călătorie spre biserica din nord. La prânz parcăm confortabil chiar lângă muzeul maritim pentru a rămâne uscați. După-amiaza aparține castelului și centrului, mașina fiind refugiul perfect între opriri. În ciuda vremii rele, ajungem la situl arheologic în siguranță înainte de finalul zilei.",
+            "en": "The rainy day begins comfortably by car, heading to the northern church. At noon, park right by the Maritime Museum to stay completely dry. Spend the afternoon at the castle and town center, using the car as a cozy retreat between stops. Despite the weather, you'll reach the archaeological site safely and comfortably to end your tour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Cuori di Gesù e Maria",
+                "hu": "Chiesa dei Santi Cuori di Gesù e Maria",
+                "ro": "Chiesa dei Santi Cuori di Gesù e Maria",
+                "en": "Chiesa dei Santi Cuori di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Kirche, um den Weg im Regen so kurz wie möglich zu halten.",
+                "hu": "Használja a közvetlenül a templom előtti parkolót, hogy az esőben megtett séta a lehető legrövidebb legyen.",
+                "ro": "Utilizați parcarea direct din fața bisericii pentru a minimiza timpul petrecut afară în ploaie.",
+                "en": "Use the parking lot directly in front of the church to keep your walk in the rain as short as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del mare e della pesca",
+                "hu": "Museo del mare e della pesca",
+                "ro": "Museo del mare e della pesca",
+                "en": "Museo del mare e della pesca"
+              },
+              "tip_5lang": {
+                "de": "Es gibt ausreichend Parkmöglichkeiten in der Nähe; ideal für einen ausgiebigen Museumsbesuch bei starkem Regen.",
+                "hu": "Bőséges parkolási lehetőség van a közelben; ideális egy alapos múzeumlátogatáshoz szakadó esőben is.",
+                "ro": "Există suficiente locuri de parcare în apropiere; ideal pentru o vizită lungă la muzeu când plouă torențial.",
+                "en": "There is ample parking nearby; perfect for an extensive museum visit even during heavy downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in den blauen Zonen der Umgebung; achten Sie beim Aussteigen auf Pfützen in den historischen Gassen.",
+                "hu": "Parkoljon a környező kék zónákban; kiszálláskor ügyeljen a mélyebb tócsákra a történelmi szűk utcákban.",
+                "ro": "Parcați în zonele albastre din jur; atenție la bălți când coborâți din mașină pe străzile istorice înguste.",
+                "en": "Park in the surrounding blue zones; watch out for deep puddles when getting out of the car in narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht beim Einparken kann durch Regen behindert sein; nutzen Sie die Parkplätze am Rande der Fußgängerzone.",
+                "hu": "A parkoláskor a kilátás korlátozott lehet az eső miatt; használja a sétálóövezet szélén lévő helyeket.",
+                "ro": "Vizibilitatea la parcare poate fi redusă din cauza ploii; folosiți locurile de la marginea zonei pietonale.",
+                "en": "Visibility while parking might be limited by rain; use the spots at the edge of the pedestrian zone."
+              }
+            },
+            {
+              "name": {
+                "de": "Franco Fontanella",
+                "hu": "Franco Fontanella",
+                "ro": "Franco Fontanella",
+                "en": "Franco Fontanella"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren Regenschirm im Kofferraum griffbereit, da der Weg vom Parkplatz zur Galerie kurz, aber offen ist.",
+                "hu": "Tartsa esernyőjét kéznél a csomagtartóban, mert a parkolótól a galériáig vezető út rövid, de fedetlen.",
+                "ro": "Țineți umbrela la îndemână în portbagaj, deoarece drumul de la parcare la galerie este scurt, dar expus.",
+                "en": "Keep your umbrella handy in the trunk, as the path from the parking spot to the gallery is short but open."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Potentia",
+                "hu": "Area Archeologica di Potentia",
+                "ro": "Area Archeologica di Potentia",
+                "en": "Area Archeologica di Potentia"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der Küstenstraße; bei Starkregen kann es zu Aquaplaning und schlechter Sicht kommen.",
+                "hu": "Vezessen óvatosan a parti úton; heves esőzéskor vízátfolyások és rossz látási viszonyok alakulhatnak ki.",
+                "ro": "Conduceți cu prudență pe drumul de coastă; ploaia torențială poate cauza acvaplanare și vizibilitate redusă.",
+                "en": "Drive carefully on the coastal road; heavy rain can cause aquaplaning and very poor visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kühle Wintertag beginnt gemütlich im beheizten Auto auf dem Weg zur Kirche im Norden. Mittags und nachmittags genießen wir die Wärme in den Museen und Kirchen von Porto Recanati. Dank des Autos sind wir flexibel und können die archäologische Stätte rechtzeitig vor dem frühen Sonnenuntergang um 17:00 Uhr besuchen und danach komfortabel im Warmen zurückkehren.",
+            "hu": "A hűvös téli nap kényelmesen, a fűtött autóban indul az északi templom felé. Délben és délután a város múzeumaiban és templomaiban élvezzük a meleget. Az autónak köszönhetően rugalmasak vagyunk, így még a korai, 17:00-s naplemente előtt odaérünk a régészeti parkhoz, majd fűtött utastérben térhetünk pihenni.",
+            "ro": "Ziua răcoroasă de iarnă începe confortabil în mașina încălzită spre biserica din nord. La prânz și după-amiazza ne bucurăm de căldura muzeelor și bisericilor. Datorită mașinii, suntem flexibili și ajungem la situl arheologic înainte de apusul devreme de la ora 17:00, revenind apoi rapid la adăpost.",
+            "en": "The chilly winter day starts cozily in your heated car on the way to the northern church. Spend your midday and afternoon enjoying the warmth of the town's museums and churches. Thanks to the car, you're flexible enough to reach the archaeological site before the 5 PM sunset and return in comfort afterward."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa dei Santi Cuori di Gesù e Maria",
+                "hu": "Chiesa dei Santi Cuori di Gesù e Maria",
+                "ro": "Chiesa dei Santi Cuori di Gesù e Maria",
+                "en": "Chiesa dei Santi Cuori di Gesù e Maria"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Straßenglätte am frühen Morgen; das Auto bietet hier den sichersten Weg zum Ziel.",
+                "hu": "Ügyeljen az esetleges reggeli lefagyásokra az utakon; az autó a legbiztonságosabb módja a cél elérésének.",
+                "ro": "Atenție la posibila polei pe carosabil dimineața devreme; mașina este cea mai sigură cale către destinație.",
+                "en": "Watch out for potential early morning frost on the roads; the car is the safest way to reach this site."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del mare e della pesca",
+                "hu": "Museo del mare e della pesca",
+                "ro": "Museo del mare e della pesca",
+                "en": "Museo del mare e della pesca"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto zwischen den Stopps, um nach dem Spaziergang am windigen Hafen schnell aufzutauen.",
+                "hu": "Használja az autó fűtését a megállók között, hogy a szeles kikötői séta után gyorsan felmelegedjen.",
+                "ro": "Folosiți căldura din mașină între opriri pentru a vă încălzi rapid după plimbarea prin portul vântos.",
+                "en": "Use the car's heater between stops to warm up quickly after your walk around the windy harbor area."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello Svevo",
+                "hu": "Castello Svevo",
+                "ro": "Castello Svevo",
+                "en": "Castello Svevo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang; die Winterbrise an den Mauern des Castello kann besonders schneidend sein.",
+                "hu": "Parkoljon minél közelebb a bejárathoz; a téli szél a kastély falainál különösen metsző tud lenni.",
+                "ro": "Parcați cât mai aproape de intrare; briza iernii lângă zidurile castelului poate fi deosebit de tăioasă.",
+                "en": "Park as close to the entrance as possible; the winter breeze by the castle walls can be particularly biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Giovanni Battista",
+                "hu": "Chiesa di San Giovanni Battista",
+                "ro": "Chiesa di San Giovanni Battista",
+                "en": "Chiesa di San Giovanni Battista"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp in der Wärme der Kirche ist ideal, bevor Sie den Weg zu den südlicheren Zielen fortsetzen.",
+                "hu": "Egy rövid megálló a templom melegében ideális, mielőtt folytatná útját a délebbi úticélok felé.",
+                "ro": "O scurtă oprire la căldura bisericii este ideală înainte de a continua drumul spre destinațiile din sud.",
+                "en": "A brief stop in the warmth of the church is ideal before continuing your drive to the southern sites."
+              }
+            },
+            {
+              "name": {
+                "de": "Franco Fontanella",
+                "hu": "Franco Fontanella",
+                "ro": "Franco Fontanella",
+                "en": "Franco Fontanella"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter einfacher; genießen Sie den Luxus, fast direkt vor der Galerie zu halten.",
+                "hu": "Télen sokkal egyszerűbb a parkolás; élvezze, hogy szinte közvetlenül a galéria előtt állhat meg autójával.",
+                "ro": "Găsirea unui loc de parcare este mai ușoară iarna; bucurați-vă de luxul de a opri chiar lângă galerie.",
+                "en": "Finding a parking spot is much easier in winter; enjoy the luxury of stopping almost directly in front."
+              }
+            },
+            {
+              "name": {
+                "de": "Area Archeologica di Potentia",
+                "hu": "Area Archeologica di Potentia",
+                "ro": "Area Archeologica di Potentia",
+                "en": "Area Archeologica di Potentia"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Rückfahrt vor Einbruch der Dunkelheit (17:00 Uhr) ein, um die Küstenlandschaft noch sehen zu können.",
+                "hu": "Tervezze a visszautat a sötétség beállta (17:00) elé, hogy láthassa még a téli tengerparti tájat vezetés közben.",
+                "ro": "Planificați drumul de întoarcere înainte de lăsarea întunericului (ora 17:00) pentru a vedea peisajul de coastă.",
+                "en": "Plan your drive back before total darkness at 5 PM to catch the last light over the winter coastline."
+              }
+            }
+          ]
+        }
       }
     }
   }

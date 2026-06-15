@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a régészeti múzeumban, ahol megismerkedhet a Soconusco régió gazdag múltjával. Ezután sétáljon át a Convivencia parkba egy pihentető délelőttre. Délben a központi Parque Bicentenario tökéletes helyszínt biztosít egy kis feltöltődésre a városi nyüzsgésben. Délután tekintse meg a színes és ikonikus virágórát, majd zárja a napot a modern Fuente Atzacua lenyűgöző építészetének megcsodálásával.",
         "ro": "Începeți ziua la muzeul arheologic pentru a descoperi istoria profundă a regiunii Soconusco. Apoi, mergeți la parcul Convivencia pentru o dimineață relaxantă. La prânz, Parque Bicentenario central oferă o pauză perfectă în mijlocul vieții urbane. După-amiaza, faceți o plimbare spre ceasul floral colorat și iconic. Încheiați ziua admirând arhitectura modernă și impresionantă a fântânii Fuente Atzacua.",
         "en": "Start your day at the archaeological museum to uncover the deep history of the Soconusco region. Next, head to Convivencia park for a relaxing morning stroll. At midday, the central Parque Bicentenario offers a perfect rest spot amidst the vibrant city life. In the afternoon, walk towards the colorful and iconic floral clock. Conclude your day by admiring the modern architecture of the Fuente Atzacua before heading back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Tag im Soconusco-Museum, um den morgendlichen Schauern zu entgehen. Mittags bietet die Convivencia dichte Bäume, aber ein Schirm ist ratsam. Am Nachmittag erfordert der Parque Bicentenario Vorsicht auf glatten Wegen. Der Abend endet aufgrund der hohen Luftfeuchtigkeit und möglicher Regengüsse am besten in einem der überdachten Cafés in der Nähe der Fuente Atzacua.",
+            "hu": "Kezdje a reggelt a múzeumban, elkerülve az égi áldást. Délben a Convivencia fái némi védelmet nyújtanak, de az esernyő kötelező. Délután a Parque Bicentenario kövezetén vigyázzon a csúszós felületekre. Az este a trópusi záporok miatt hamarabb véget ér, érdemes a Fuente Atzacua környékén egy fedett helyre húzódni a séta végén, ahol biztonságban megvárhatja az eső végét.",
+            "ro": "Începeți dimineața la muzeu pentru a evita aversa matinală. La prânz, copacii din Convivencia oferă adăpost, dar umbrela este indispensabilă. După-amiaza, Parque Bicentenario necesită atenție sporită pe pavajul alunecos. Seara se încheie mai devreme din cauza ploilor tropicale, fiind recomandat să găsiți un refugiu acoperit lângă Fuente Atzacua pentru a finaliza traseul la uscat.",
+            "en": "Start your morning at the museum to avoid the early showers. At noon, the trees at Convivencia provide some cover, but an umbrella is essential. In the afternoon, watch your step on slippery paths in Parque Bicentenario. The evening ends early due to tropical downpours; it is best to find a covered spot near Fuente Atzacua to finish your walk safely and stay dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum von Soconusco",
+                "hu": "Soconusco Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Soconusco",
+                "en": "Archaeological Museum of Soconusco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume, um die Maya-Artefakte im Trockenen zu bewundern; ein Regenschirm für den Weg vom Eingang zum Taxi ist bei plötzlichem Guss sehr nützlich.",
+                "hu": "Használja ki a belső tereket a maja leletek megtekintéséhez, miközben kint esik; egy esernyő a bejárattól a közlekedési eszközig jól jöhet a hirtelen záporban.",
+                "ro": "Profitați de spațiile interioare pentru a admira artefactele mayașe la uscat; o umbrelă pentru drumul de la intrare spre transport este utilă în caz de aversă.",
+                "en": "Take advantage of the indoor galleries to admire Mayan artifacts while it rains outside; an umbrella for the walk from the entrance is handy during sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Convivencia",
+                "hu": "Convivencia",
+                "ro": "Convivencia",
+                "en": "Convivencia"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Pavillons, wenn es regnet; die Wege können schlammig sein, daher sind wasserfeste Schuhe für diesen erholsamen Spaziergang ideal.",
+                "hu": "Keressen menedéket a pavilonok alatt, ha elered az eső; az utak sárosak lehetnek, ezért a vízálló lábbeli viselése ajánlott ezen a pihentető sétán.",
+                "ro": "Căutați adăpost sub pavilioane dacă începe ploaia; aleile pot fi noroioase, așa că încălțămintea impermeabilă este ideală pentru această plimbare relaxantă.",
+                "en": "Seek shelter under the pavilions if the rain starts; the paths can get muddy, so wearing waterproof footwear is highly recommended for this recreational walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Bicentenario",
+                "hu": "Parque Bicentenario",
+                "ro": "Parque Bicentenario",
+                "en": "Parque Bicentenario"
+              },
+              "tip_5lang": {
+                "de": "Die glänzenden Oberflächen sind bei Nässe extrem rutschig; nutzen Sie die überdachten Arkaden in der Nähe, um die moderne Architektur des Parks sicher zu sehen.",
+                "hu": "A fényes burkolatok vizesen rendkívül csúszósak; használja a közeli fedett árkádokat, hogy biztonságban megcsodálhassa a park modern építészeti megoldásait.",
+                "ro": "Suprafețele lucioase sunt extrem de alunecoase când sunt ude; folosiți arcadele acoperite din apropiere pentru a admira arhitectura modernă a parcului în siguranță.",
+                "en": "The polished surfaces are extremely slippery when wet; use the nearby covered walkways to safely admire the park's modern architecture during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Reloj Floral",
+                "hu": "Reloj Floral",
+                "ro": "Reloj Floral",
+                "en": "Reloj Floral"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto bei Regen; halten Sie Ihr Handy unter einem Plastikschutz, da die Blumen bei Feuchtigkeit besonders intensiv und frisch leuchten.",
+                "hu": "Csak egy gyors fotó erejéig álljon meg az esőben; tartsa a telefonját védett helyen, mert a virágok a nedvességtől különösen élénk és friss színben pompáznak.",
+                "ro": "Opriți-vă doar pentru o fotografie rapidă în ploaie; protejați telefonul cu o husă, deoarece florile par mult mai vii și proaspete sub stropii de apă.",
+                "en": "Stop only for a quick photo in the rain; keep your phone protected as the flowers look particularly vibrant and fresh when glistening with raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente Atzacua",
+                "hu": "Fuente Atzacua",
+                "ro": "Fuente Atzacua",
+                "en": "Fuente Atzacua"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung spiegelt sich wunderschön in den Pfützen; beobachten Sie das Wasserspiel von einem nahegelegenen Vordach aus, um trocken zu bleiben und Wind zu meiden.",
+                "hu": "A fények gyönyörűen tükröződnek a tócsákban; figyelje a vízsugarakat egy közeli előtető alól, hogy száraz maradjon és elkerülje a szél okozta nedvességet.",
+                "ro": "Luminile se reflectă superb în bălți; observați jocul de apă de sub un baldachin din apropiere pentru a rămâne uscat și a evita rafalele de vânt umed.",
+                "en": "The lights reflect beautifully in the puddles; watch the water display from a nearby overhang to stay dry and avoid the damp wind at the end of the day."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die milden Wintertemperaturen am Morgen im Museum. Mittags ist die Sonne weniger intensiv, perfekt für einen Aufenthalt in der Convivencia. Der Nachmittag im Parque Bicentenario ist ideal, bevor die Sonne gegen 17:00 Uhr untergeht. Planen Sie die Fuente Atzacua für die frühe Dämmerung ein und tragen Sie eine leichte Jacke für den kühleren Abend in Tapachula.",
+            "hu": "Élvezze a múzeumban a kellemes reggeli hűvöst. Délben a nap kevésbé éget, ideális az idő a Convivencia parkban. A délutáni séta a Parque Bicentenario-ban tökéletes, mielőtt 17:00 körül lemegy a nap. A Fuente Atzacua látogatását időzítse a korai szürkületre, és viseljen könnyű réteget a Tapachulában szokatlanul friss téli estén.",
+            "ro": "Bucurați-vă de temperaturile blânde de iarnă dimineața la muzeu. La prânz, soarele este mai puțin intens, perfect pentru Convivencia. După-amiaza în Parque Bicentenario este ideală înainte ca soarele să apună în jurul orei 17:00. Vizitați Fuente Atzacua la amurgul timpuriu și purtați o jachetă subțire pentru seara răcoroasă din Tapachula.",
+            "en": "Enjoy the mild winter morning temperatures at the museum. At noon, the sun is less intense, making Convivencia very pleasant. An afternoon stroll in Parque Bicentenario is perfect before the sunset at 17:00. Time your visit to Fuente Atzacua for the early twilight and bring a light jacket for the refreshingly cool winter evening in Tapachula."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum von Soconusco",
+                "hu": "Soconusco Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Soconusco",
+                "en": "Archaeological Museum of Soconusco"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Morgenluft im Winter macht den Besuch angenehm; nutzen Sie das weiche Licht der tiefstehenden Sonne für Fotos der Außenfassade vor dem Rundgang.",
+                "hu": "A téli reggeli hűvös levegő kellemessé teszi a látogatást; használja ki az alacsony napállás puha fényeit a külső homlokzat fotózásához a túra előtt.",
+                "ro": "Aerul răcoros de dimineață face vizita foarte plăcută; profitați de lumina caldă a soarelui de iarnă pentru a fotografia fațada înainte de a intra în muzeu.",
+                "en": "The cool winter morning air makes the visit very pleasant; use the soft light of the low sun to photograph the exterior facade before starting your tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Convivencia",
+                "hu": "Convivencia",
+                "ro": "Convivencia",
+                "en": "Convivencia"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ein Picknick in der Mittagssonne, die im Winter nicht zu heiß brennt; suchen Sie sich einen sonnigen Platz auf dem Rasen, um die Wärme zu genießen.",
+                "hu": "Tökéletes hely egy piknikhez a déli napsütésben, ami télen nem éget; keressen egy napos helyet a gyepen, hogy kiélvezze a kellemes nappali meleget.",
+                "ro": "Loc perfect pentru un picnic sub soarele de prânz, care iarna nu arde; căutați un loc însorit pe iarbă pentru a vă bucura de căldura plăcută a zilei.",
+                "en": "Perfect for a picnic in the midday sun, which isn't too hot in winter; find a sunny spot on the grass to soak up the pleasant daytime warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Bicentenario",
+                "hu": "Parque Bicentenario",
+                "ro": "Parque Bicentenario",
+                "en": "Parque Bicentenario"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Platz am Nachmittag; die Wintersonne taucht die Brunnen in ein goldenes Licht, ideal für Porträts kurz vor dem frühen Sonnenuntergang.",
+                "hu": "Élvezze a tágas teret délután; a téli nap aranyfénybe öltözteti a szökőkutakat, ami ideális portrék készítéséhez közvetlenül a korai naplemente előtt.",
+                "ro": "Bucurați-vă de spațiul larg după-amiaza; soarele de iarnă scaldă fântânile într-o lumină aurie, ideală pentru portrete chiar înainte de apusul timpuriu.",
+                "en": "Enjoy the wide space in the afternoon; the winter sun bathes the fountains in golden light, ideal for portraits just before the early 5 PM sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Reloj Floral",
+                "hu": "Reloj Floral",
+                "ro": "Reloj Floral",
+                "en": "Reloj Floral"
+              },
+              "tip_5lang": {
+                "de": "Im Winter blühen hier oft andere saisonale Sorten; besuchen Sie die Uhr spätestens um 16:30 Uhr, um die Details noch bei vollem Tageslicht sehen zu können.",
+                "hu": "Télen gyakran más szezonális virágfajták nyílnak itt; látogassa meg az órát legkésőbb 16:30-ig, hogy még teljes nappali fényben láthassa a részleteket.",
+                "ro": "Iarna înfloresc adesea alte varietăți sezoniere; vizitați ceasul cel târziu la ora 16:30 pentru a vedea detaliile în plină lumină naturală.",
+                "en": "In winter, different seasonal flower varieties often bloom here; visit the clock by 4:30 PM at the latest to see the details in full daylight."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente Atzacua",
+                "hu": "Fuente Atzacua",
+                "ro": "Fuente Atzacua",
+                "en": "Fuente Atzacua"
+              },
+              "tip_5lang": {
+                "de": "Da es früh dunkel wird, leuchtet die Fontäne schon ab 17:30 Uhr prächtig; eine dünne Jacke schützt Sie vor der Brise, die abends am Wasser spürbar wird.",
+                "hu": "Mivel korán sötétedik, a szökőkút már 17:30-tól pompásan világít; egy vékony dzseki megvédi a vízparton este érezhető hűvös fuvallattól a séta végén.",
+                "ro": "Deoarece se întunecă devreme, fântâna luminează superb de la 17:30; o jachetă subțire vă va proteja de briza răcoroasă de lângă apă la finalul zilei.",
+                "en": "Since it gets dark early, the fountain lights up beautifully by 5:30 PM; a light jacket will protect you from the cool evening breeze near the water."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a soconuscói régészeti múzeumban tett kulturális látogatással. Tekerjen tovább a Convivencia parkba, és élvezze a város zöld oázisát. A delet a nyüzsgő Parque Bicentenarioban tölti, ahol magába szívhatja a helyi hangulatot. Délután tekerjen el a lenyűgöző Fuente Atzacua szökőkúthoz, majd pihenjen meg Castejón zöldterületein. A tartalmas nap a híres és színpompás virágóránál ér véget kellemes környezetben.",
         "ro": "Începeți turul cu bicicleta cu o incursiune culturală la muzeul arheologic din Soconusco. Pedalați spre parcul Convivencia și bucurați-vă de oaza verde a orașului. Prânzul este petrecut în vibrantul Parque Bicentenario, unde veți simți atmosfera locală. După-amiaza, mergeți la impresionanta Fuente Atzacua și relaxați-vă în zonele verzi din Castejón. Ziua se încheie liniștit la faimosul ceas floral.",
         "en": "Start your bike tour with deep cultural insights at the archaeological museum of Soconusco. Pedal over to Convivencia park and enjoy the city's green oasis. Midday is spent in the lively Parque Bicentenario, absorbing the local atmosphere. In the afternoon, ride to the impressive Fuente Atzacua and relax in the lush, green surroundings of Castejón. The day gracefully concludes at the famous floral clock landmark."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig zum Museum, um trocken zu starten. Mittags sind die Wege in der Convivencia durch Regen rutschig, reduzieren Sie Ihr Tempo. Am Nachmittag bietet die Fahrt zur Fuente Atzacua eine Abkühlung, aber ein Regenponcho ist bei den plötzlichen Güssen unentbehrlich. Beenden Sie die Tour am Reloj Floral, bevor die Sicht bei starkem Regen und Dämmerung zu schlecht wird.",
+            "hu": "Óvatosan tekerjen a múzeumig a száraz kezdésért. Délben a Convivencia útjai az esőtől csúszósak lehetnek, lassítson a kanyarokban. Délután a Fuente Atzacua felé vezető út hűsítő, de a hirtelen záporok ellen egy esőponcsó nélkülözhetetlen. Fejezze be a túrát a Reloj Floralnál, mielőtt a látási viszonyok a sűrű eső és a szürkület miatt túlságosan leromlanának.",
+            "ro": "Pedalați cu atenție spre muzeu pentru un start uscat. La prânz, aleile din Convivencia pot fi alunecoase din cauza ploii, încetiniți în curbe. După-amiaza, drumul spre Fuente Atzacua este răcoritor, dar o pelerină de ploaie este indispensabilă. Încheiați turul la Reloj Floral înainte ca vizibilitatea să scadă prea mult din cauza ploii dense și a serii.",
+            "en": "Cycle carefully to the museum for a dry start. At noon, the paths in Convivencia can be slippery from the rain; slow down in corners. In the afternoon, the ride to Fuente Atzacua is refreshing, but a poncho is essential against sudden showers. Finish your tour at Reloj Floral before visibility drops too much due to the heavy rain and dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum von Soconusco",
+                "hu": "Soconusco Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Soconusco",
+                "en": "Archaeological Museum of Soconusco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad an einem überdachten Platz; nutzen Sie die Zeit drinnen, um die Maya-Kultur zu studieren, während draußen der erste Regenguss niedergeht.",
+                "hu": "Parkolja le a kerékpárt egy fedett helyen; használja ki a bent töltött időt a maja kultúra tanulmányozására, amíg odakint elvonul az első reggeli zápor.",
+                "ro": "Parcați bicicleta într-un loc acoperit; folosiți timpul petrecut în interior pentru a studia cultura mayașă în timp ce afară trece prima ploaie matinală.",
+                "en": "Park your bike in a covered spot; use your time indoors to study Mayan culture while the first morning shower passes outside the museum walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Convivencia",
+                "hu": "Convivencia",
+                "ro": "Convivencia",
+                "en": "Convivencia"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht vor tief hängenden nassen Ästen auf den Radwegen; die asphaltierten Strecken bieten besseren Halt als die aufgeweichten Grasflächen am Wegrand.",
+                "hu": "Vigyázzon a kerékpárutakra lógó vizes ágakkal; az aszfaltozott szakaszok jobb tapadást biztosítanak, mint az út menti felázott füves területek a parkban.",
+                "ro": "Atenție la ramurile umede deasupra pistelor de biciclete; secțiunile asfaltate oferă aderență mai bună decât zonele cu iarbă îmbibată cu apă de pe margini.",
+                "en": "Watch out for low-hanging wet branches over the bike paths; the paved sections offer better grip than the waterlogged grassy areas along the park edges."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Bicentenario",
+                "hu": "Parque Bicentenario",
+                "ro": "Parque Bicentenario",
+                "en": "Parque Bicentenario"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie frühzeitig auf den glatten Fliesen des Parks; die überdachten Bereiche eignen sich gut für eine kurze Pause, um den Regenponcho nachzujustieren.",
+                "hu": "Fékezzen időben a park csúszós burkolatain; a fedett részek kiválóan alkalmasak egy rövid pihenőre, hogy megigazítsa esővédő felszerelését a folytatás előtt.",
+                "ro": "Frânați din timp pe pavajul alunecos al parcului; zonele acoperite sunt excelente pentru o scurtă pauză pentru a vă ajusta pelerina de ploaie înainte de drum.",
+                "en": "Brake early on the park's slippery tiles; the covered areas are great for a short break to adjust your rain gear before continuing your cycling tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente Atzacua",
+                "hu": "Fuente Atzacua",
+                "ro": "Fuente Atzacua",
+                "en": "Fuente Atzacua"
+              },
+              "tip_5lang": {
+                "de": "Die Gischt der Fontäne vermischt sich mit dem Regen; tragen Sie eine Sportbrille, um trotz der Nässe und des Winds eine klare Sicht auf die Straße zu behalten.",
+                "hu": "A szökőkút permete keveredik az esővel; viseljen sportnapszemüveget, hogy a nedvesség és a szél ellenére is tiszta maradjon a látása az úton tekerés közben.",
+                "ro": "Pulverizarea fântânii se amestecă cu ploaia; purtați ochelari sport pentru a menține vizibilitatea clară pe drum, în ciuda umezelii și a vântului la pedalat.",
+                "en": "The fountain spray mixes with the rain; wear sports glasses to maintain clear visibility on the road despite the dampness and wind while cycling."
+              }
+            },
+            {
+              "name": {
+                "de": "Castejón",
+                "hu": "Castejón",
+                "ro": "Castejón",
+                "en": "Castejón"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier einen geschützten Unterstand für Ihr Rad; der Ort wirkt bei Regen sehr atmosphärisch, aber achten Sie auf Pfützen in den tiefer liegenden Zonen.",
+                "hu": "Keressen itt egy védett beállót a biciklinek; a hely esőben nagyon hangulatos, de ügyeljen a mélyebben fekvő részeken kialakuló nagyobb tócsákra az úton.",
+                "ro": "Căutați un adăpost protejat pentru bicicletă; locul are o atmosferă deosebită pe ploaie, dar atenție la bălțile mari din zonele mai joase ale traseului.",
+                "en": "Look for a sheltered spot for your bike here; the place is very atmospheric in the rain, but watch out for large puddles forming in the lower areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Reloj Floral",
+                "hu": "Reloj Floral",
+                "ro": "Reloj Floral",
+                "en": "Reloj Floral"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt zügig, da das Licht bei Regen schnell schwindet; prüfen Sie Ihre Fahrradbeleuchtung, um sicher durch den nassen Abendverkehr zu kommen.",
+                "hu": "Fejezze be gyorsan a tekerést, mert esőben hamar sötétedik; ellenőrizze a lámpákat, hogy biztonságban hazajusson a vizes esti forgalomban a városban.",
+                "ro": "Încheiați rapid plimbarea, deoarece lumina scade repede pe ploaie; verificați luminile bicicletei pentru a ajunge în siguranță prin traficul de seară.",
+                "en": "Finish your ride promptly as light fades fast in the rain; check your bike lights to ensure a safe return through the wet evening city traffic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Nutzen Sie die kühle Wintermorgenbrise für die Fahrt zum Museum. Mittags ist das Radeln in der Convivencia bei milder Sonne ein Vergnügen. Der Nachmittag führt Sie entspannt zum Parque Bicentenario und zur Fuente Atzacua. Da es gegen 17:00 Uhr dunkel wird, schalten Sie rechtzeitig Ihr Licht ein, wenn Sie zum Reloj Floral fahren, und genießen Sie die frische Abendluft.",
+            "hu": "Használja ki a hűvös téli reggeli szellőt a múzeumig tartó úton. Délben a tekerés a Convivenciában a lágy napsütésben igazi élvezet. A délutáni szakasz pihentetően vezet a Parque Bicentenario-hoz és a Fuente Atzacuához. Mivel 17:00 körül sötétedik, kapcsolja be időben a lámpákat a Reloj Floral felé, és élvezze a friss esti levegőt.",
+            "ro": "Profitați de briza răcoroasă de iarnă pentru drumul spre muzeu. La prânz, pedalatul în Convivencia sub soarele blând este o plăcere. După-amiaza vă conduce relaxat spre Parque Bicentenario și Fuente Atzacua. Deoarece se întunecă în jur de ora 17:00, aprindeți luminile la timp spre Reloj Floral și bucurați-vă de aerul proaspăt de seară.",
+            "en": "Take advantage of the cool winter morning breeze for your ride to the museum. At noon, cycling in Convivencia under the mild sun is a pure delight. The afternoon section leads you relaxingly to Parque Bicentenario and Fuente Atzacua. Since it gets dark around 5 PM, turn on your lights early for Reloj Floral and enjoy the fresh evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum von Soconusco",
+                "hu": "Soconusco Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Soconusco",
+                "en": "Archaeological Museum of Soconusco"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Startpunkt, da die Temperaturen im Winter morgens perfekt für sportliche Aktivität sind; schließen Sie Ihr Rad sicher im Schatten der Bäume ab.",
+                "hu": "Ideális kiindulópont, mivel télen a reggeli hőmérséklet tökéletes az aktív mozgáshoz; zárja le a biciklit biztonságosan a fák árnyékosabb oldalán.",
+                "ro": "Punct de plecare ideal, deoarece iarna temperaturile matinale sunt perfecte pentru mișcare; încuiați bicicleta în siguranță la umbra pomilor din jur.",
+                "en": "An ideal starting point as winter morning temperatures are perfect for cycling; lock your bike securely in the shaded area near the museum entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Convivencia",
+                "hu": "Convivencia",
+                "ro": "Convivencia",
+                "en": "Convivencia"
+              },
+              "tip_5lang": {
+                "de": "Die Wege sind trocken und gut befahrbar; nutzen Sie die Wintersonne für eine Pause auf den Bänken, um die angenehme Wärme ohne die übliche Hitze zu genießen.",
+                "hu": "Az utak szárazak és jól járhatóak; használja ki a téli napsütést egy pihenőre a padokon, élvezze a kellemes meleget a szokásos hőség nélkül a parkban.",
+                "ro": "Aleile sunt uscate și ușor de parcurs; profitați de soarele de iarnă pentru o pauză pe bănci, savurând căldura plăcută fără arșița obișnuită a zonei.",
+                "en": "The paths are dry and easy to navigate; use the winter sun for a break on the benches to enjoy the pleasant warmth without the usual tropical heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Bicentenario",
+                "hu": "Parque Bicentenario",
+                "ro": "Parque Bicentenario",
+                "en": "Parque Bicentenario"
+              },
+              "tip_5lang": {
+                "de": "Am Nachmittag ist der Platz belebt, aber angenehm kühl; radeln Sie langsam durch die Fußgängerzonen und genießen Sie das klare Licht für Fotos der Fassaden.",
+                "hu": "Délután a tér élettel teli, de kellemesen hűvös; tekerjen lassan a gyalogos zónákban, és használja ki a tiszta fényeket a homlokzatok fotózásához.",
+                "ro": "După-amiaza piața este animată, dar plăcut răcoroasă; pedalați încet prin zonele pietonale și profitați de lumina clară pentru fotografii cu fațadele.",
+                "en": "In the afternoon, the square is lively but pleasantly cool; cycle slowly through the pedestrian zones and use the clear light for photos of the buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Fuente Atzacua",
+                "hu": "Fuente Atzacua",
+                "ro": "Fuente Atzacua",
+                "en": "Fuente Atzacua"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Stopp kurz vor Sonnenuntergang, um die Farbenpracht zu sehen; die Winterdämmerung bietet hier spektakuläre Lichteffekte für Radfahrer.",
+                "hu": "Látogasson el ide közvetlenül naplemente előtt a szép színekért; a téli szürkület látványos fényhatásokat kínál a kerékpárosoknak a víz mellett.",
+                "ro": "Vizitați acest punct chiar înainte de apus pentru culori deosebite; amurgul de iarnă oferă efecte de lumină spectaculoase pentru bicicliști lângă apă.",
+                "en": "Visit this stop just before sunset for beautiful colors; the winter twilight offers spectacular light effects for cyclists riding near the water feature."
+              }
+            },
+            {
+              "name": {
+                "de": "Castejón",
+                "hu": "Castejón",
+                "ro": "Castejón",
+                "en": "Castejón"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine letzte Pause; da die Sonne im Winter früh sinkt, sollten Sie hier nicht zu lange verweilen, um noch vor der Dunkelheit weiterzufahren.",
+                "hu": "Nyugodt hely egy utolsó pihenőhöz; mivel a nap télen korán nyugszik, ne időzzön itt túl sokat, hogy még sötétedés előtt tovább tudjon indulni az úton.",
+                "ro": "Un loc liniștit pentru o ultimă pauză; deoarece soarele apune devreme iarna, nu zăboviți prea mult pentru a pleca mai departe înainte de lăsarea serii.",
+                "en": "A quiet spot for a final break; since the sun sets early in winter, don't linger too long so you can continue your ride before it gets completely dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Reloj Floral",
+                "hu": "Reloj Floral",
+                "ro": "Reloj Floral",
+                "en": "Reloj Floral"
+              },
+              "tip_5lang": {
+                "de": "Die Uhr ist im Winter oft weihnachtlich oder saisonal geschmückt; nutzen Sie das Restlicht um 17:00 Uhr, bevor Sie Ihre Beleuchtung für den Heimweg prüfen.",
+                "hu": "Az óra télen gyakran ünnepi díszben tündököl; használja ki a maradék fényt 17:00 körül, mielőtt ellenőrizné a lámpákat a hazaúthoz a hűvös estében.",
+                "ro": "Ceasul este adesea decorat festiv iarna; profitați de lumina reziduală în jur de ora 17:00 înainte de a verifica luminile pentru drumul de întoarcere.",
+                "en": "The clock is often festively decorated in winter; take advantage of the remaining light around 5 PM before checking your lights for the cool ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +774,168 @@
         "hu": "Az autós kirándulás a régészeti múzeumban tett lenyűgöző időutazással indul a múltba. Vezessen a központba, hogy megtapasztalja a nyüzsgő Parque Bicentenario hangulatát. Délben kocsival a hatalmas Feria Mesoamericana területére érkezik, ahol felfedezheti a vásártér különleges atmoszféráját. Délután irány a természet a festői Palma Sola felé. Zárja ezt az eseménydús napot egy frissítő fürdőzéssel a fantasztikus Yolonam víziparkban.",
         "ro": "Excursia cu mașina începe cu o călătorie fascinantă în trecut la muzeul arheologic. Conduceți spre centru pentru a experimenta animatul Parque Bicentenario. La prânz, mașina vă duce la vasta Feria Mesoamericana pentru a vă bucura de atmosfera complexului. După-amiaza, ieșiți în natură spre pitoreasca Palma Sola. Încheiați această zi plină de evenimente cu o baie răcoritoare în apele din Parque Acuático Yolonam.",
         "en": "The car trip begins with a fascinating journey into the past at the archaeological museum. Drive shortly to the center to experience the lively Parque Bicentenario. At midday, your vehicle takes you to the expansive Feria Mesoamericana to soak up the vast fairground atmosphere. In the afternoon, drive out into nature towards picturesque Palma Sola. End this eventful day with a refreshing swim at Parque Acuático Yolonam."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie bequem zum Museum, um den starken Regenfällen am Morgen zu entgehen. Mittags bietet der Parque Bicentenario gute Parkmöglichkeiten in der Nähe von überdachten Bereichen. Die Fahrt zur Feria Mesoamericana und nach Palma Sola schützt Sie vor den heftigen Nachmittagsgüssen. Beenden Sie den Tag im Yolonam-Park, wo Sie die tropische Atmosphäre sicher aus dem Auto genießen können.",
+            "hu": "Autózzon kényelmesen a múzeumig, elkerülve a heves reggeli esőzéseket. Délben a Parque Bicentenario környékén keressen fedett parkolót a látogatáshoz. A Feria Mesoamericana és Palma Sola felé vezető út megvédi a délutáni záporoktól a kocsiban. Fejezze be a napot a Yolonam parkban, ahol a trópusi hangulatot az autó biztonságából is élvezheti a hazaút előtt.",
+            "ro": "Conduceți confortabil spre muzeu pentru a evita ploile torențiale de dimineață. La prânz, Parque Bicentenario oferă opțiuni de parcare aproape de zonele acoperite. Drumul spre Feria Mesoamericana și Palma Sola vă protejează de aversele de după-amiază. Încheiați ziua la parcul Yolonam, unde puteți savura atmosfera tropicală din siguranța mașinii înainte de plecare.",
+            "en": "Drive comfortably to the museum to avoid the heavy morning rains. At noon, look for parking near covered areas at Parque Bicentenario. The drive to Feria Mesoamericana and Palma Sola keeps you dry during the intense afternoon showers. End your day at Yolonam park, where you can enjoy the tropical atmosphere from the safety of your car before heading back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum von Soconusco",
+                "hu": "Soconusco Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Soconusco",
+                "en": "Archaeological Museum of Soconusco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um bei Starkregen trocken ins Gebäude zu gelangen; die Ausstellungen im Inneren sind der beste Zufluchtsort heute.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy heves esőben is szárazon jusson be; a benti kiállítások a legjobb menedéket nyújtják a mai napon.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în interior în caz de ploaie torențială; expozițiile sunt cel mai bun refugiu pentru ziua de azi.",
+                "en": "Park as close to the entrance as possible to stay dry during heavy rain; the indoor exhibits offer the best shelter from the morning weather today."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Bicentenario",
+                "hu": "Parque Bicentenario",
+                "ro": "Parque Bicentenario",
+                "en": "Parque Bicentenario"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht bei der Einfahrt in Parklücken, da Pfützen die Tiefe von Schlaglöchern verbergen können; ein kurzer Lauf unter die Arkaden hält Sie beim Aussteigen trocken.",
+                "hu": "Vigyázzon a parkolóba álláskor, mert a tócsák elrejthetik az út hibáit; egy gyors futás az árkádok alá segít szárazon maradni a kiszállás után a parknál.",
+                "ro": "Atenție la parcare, deoarece bălțile pot ascunde gropile din asfalt; o fugă rapidă sub arcade vă va ajuta să rămâneți uscat după ce coborâți din mașină.",
+                "en": "Be careful when parking as puddles can hide potholes; a quick run to the covered walkways will help you stay dry after stepping out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Feria Mesoamericana",
+                "hu": "Feria Mesoamericana",
+                "ro": "Feria Mesoamericana",
+                "en": "Feria Mesoamericana"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Fahrtzeit zur Klimatisierung und Entfeuchtung des Autos; das weitläufige Gelände ist bei Regen am besten von den asphaltierten Zufahrten aus zu sehen.",
+                "hu": "Használja az utazási időt az autó páramentesítésére; a tágas területet esőben a legjobb az aszfaltozott bejárók felől megtekinteni a kényelmes kocsiból.",
+                "ro": "Folosiți timpul de condus pentru dezaburirea mașinii; zona vastă se vede cel mai bine pe ploaie de pe drumurile asfaltate, din confortul automobilului.",
+                "en": "Use your driving time to dehumidify the car; the vast grounds are best viewed from the paved access roads from the comfort of your vehicle during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palma Sola",
+                "hu": "Palma Sola",
+                "ro": "Palma Sola",
+                "en": "Palma Sola"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei Sturm windig sein; genießen Sie den Blick auf die raue Natur durch die Scheiben und halten Sie für Fotos nur an sicheren Stellen.",
+                "hu": "A part menti út viharban szeles lehet; élvezze a zord természet látványát az ablakon keresztül, és csak biztonságos helyen álljon meg fotózni a parton.",
+                "ro": "Drumul de coastă poate fi vântos în timpul furtunii; admirați natura sălbatică prin geam și opriți doar în locuri sigure pentru fotografii pe mal.",
+                "en": "The coastal road can be windy during storms; enjoy the sight of wild nature through the windows and stop only in safe spots for photos along the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuático Yolonam",
+                "hu": "Parque Acuático Yolonam",
+                "ro": "Parque Acuático Yolonam",
+                "en": "Parque Acuático Yolonam"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vorab die Öffnungszeiten bei Regen; oft ist es ruhiger, und Sie können die üppige Vegetation im feuchten Klima bewundern, ohne nass zu werden.",
+                "hu": "Ellenőrizze az eső miatti nyitvatartást; ilyenkor gyakran nyugodtabb a hely, és megcsodálhatja a dús vegetációt a párás klímában anélkül, hogy megázna.",
+                "ro": "Verificați programul în caz de ploaie; adesea este mai liniște și puteți admira vegetația luxuriantă în climatul umed fără a vă uda prea tare afară.",
+                "en": "Check the opening hours during rain; it's often quieter, and you can admire the lush vegetation in the humid climate without getting too wet outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie den Wintermorgen mit einer Fahrt zum Museum bei klarem Himmel. Mittags ist der Parque Bicentenario ein angenehmer Stopp ohne die extreme Sommerhitze. Die Fahrt zur Feria Mesoamericana und nach Palma Sola bietet tolle Aussichten im weichen Winterlicht. Da es um 17:00 Uhr dunkel wird, planen Sie den Yolonam-Park rechtzeitig ein, um den Sonnenuntergang auf dem Rückweg zu erleben.",
+            "hu": "Indítsa a téli reggelt egy autózással a múzeumig a tiszta égbolt alatt. Délben a Parque Bicentenario kellemes megálló az extrém nyári hőség nélkül. A Feria Mesoamericana és Palma Sola felé vezető út csodás kilátást nyújt a lágy téli fényekben. Mivel 17:00-kor sötétedik, tervezze a Yolonam parkot időben, hogy a naplementét a hazaúton láthassa.",
+            "ro": "Începeți dimineața de iarnă cu o plimbare spre muzeu sub cerul senin. La prânz, Parque Bicentenario este o oprire plăcută fără căldura extremă de vară. Drumul spre Feria Mesoamericana și Palma Sola oferă vederi superbe în lumina blândă de iarnă. Deoarece se întunecă la ora 17:00, planificați vizita la Yolonam din timp pentru apus.",
+            "en": "Start your winter morning with a drive to the museum under clear skies. At noon, Parque Bicentenario is a pleasant stop without the extreme summer heat. The drive to Feria Mesoamericana and Palma Sola offers great views in the soft winter light. Since it gets dark at 5 PM, schedule Yolonam park early to enjoy the sunset on your way back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Archäologisches Museum von Soconusco",
+                "hu": "Soconusco Régészeti Múzeum",
+                "ro": "Muzeul Arheologic din Soconusco",
+                "en": "Archaeological Museum of Soconusco"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne im Winter ist ideal für Außenaufnahmen des Gebäudes; parken Sie im Schatten, um die Kühle im Wageninneren für die nächste Etappe zu bewahren.",
+                "hu": "A téli reggeli napsütés ideális az épület külső fotózásához; parkoljon árnyékba, hogy megőrizze az autó belső hűvösségét a következő útszakaszra.",
+                "ro": "Soarele de dimineață iarna este ideal pentru fotografii exterioare; parcați la umbră pentru a menține răcoarea în interiorul mașinii pentru următoarea etapă.",
+                "en": "The winter morning sun is ideal for exterior shots of the building; park in the shade to keep the car interior cool for your next leg of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Bicentenario",
+                "hu": "Parque Bicentenario",
+                "ro": "Parque Bicentenario",
+                "en": "Parque Bicentenario"
+              },
+              "tip_5lang": {
+                "de": "Im Winter ist der Park mittags sehr belebt; nutzen Sie die Klimaanlage für kurze Pausen zwischen den Spaziergängen, um sich von der direkten Sonne zu erholen.",
+                "hu": "Télen a park délben nagyon életteli; használja a légkondicionálót rövid pihenőkre a séták között, hogy felfrissüljön a közvetlen napsütés után a kocsiban.",
+                "ro": "Iarna parcul este foarte animat la prânz; folosiți aerul condiționat pentru scurte pauze între plimbări, pentru a vă răcori după soarele direct de afară.",
+                "en": "In winter, the park is very lively at noon; use the car's AC for short breaks between strolls to refresh yourself from the direct midday sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Feria Mesoamericana",
+                "hu": "Feria Mesoamericana",
+                "ro": "Feria Mesoamericana",
+                "en": "Feria Mesoamericana"
+              },
+              "tip_5lang": {
+                "de": "Die weite Landschaft wirkt im klaren Winterlicht besonders eindrucksvoll; halten Sie an den Aussichtspunkten für Panoramafotos der umliegenden Berge an.",
+                "hu": "A tágas táj a tiszta téli fényben különösen lenyűgöző; álljon meg a kilátópontoknál, hogy panorámaképeket készítsen a környező hegyekről a kocsi mellől.",
+                "ro": "Peisajul vast pare deosebit de impresionant în lumina clară de iarnă; opriți la punctele de belvedere pentru fotografii panoramice cu munții din jur.",
+                "en": "The vast landscape looks particularly impressive in the clear winter light; pull over at viewpoints for panoramic photos of the surrounding mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Palma Sola",
+                "hu": "Palma Sola",
+                "ro": "Palma Sola",
+                "en": "Palma Sola"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt am Meer ist im Winter sehr angenehm bei offenem Fenster; genießen Sie die frische Meeresbrise, bevor Sie pünktlich zum Sonnenuntergang um 17:00 Uhr aufbrechen.",
+                "hu": "A tengerparti autózás télen nagyon kellemes nyitott ablaknál; élvezze a friss tengeri szellőt, mielőtt pontban 17:00-kor elindulna a naplemente idején.",
+                "ro": "Condusul pe malul mării este foarte plăcut iarna cu geamul deschis; savurați briza proaspătă înainte de a pleca fix la ora 17:00, la apusul soarelui.",
+                "en": "Driving by the sea is very pleasant in winter with the windows down; enjoy the fresh sea breeze before heading out exactly at 5 PM during the sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Acuático Yolonam",
+                "hu": "Parque Acuático Yolonam",
+                "ro": "Parque Acuático Yolonam",
+                "en": "Parque Acuático Yolonam"
+              },
+              "tip_5lang": {
+                "de": "Nach 16:00 Uhr sinken die Temperaturen spürbar; nutzen Sie die Sitzheizung oder eine Jacke für den Rückweg, wenn die feuchte Luft am Abend kühler wird.",
+                "hu": "16:00 után a hőmérséklet érezhetően süllyed; használja az ülésfűtést vagy vigyen kabátot a hazaúthoz, amikor az esti párás levegő lehűl a parknál.",
+                "ro": "După ora 16:00 temperaturile scad vizibil; folosiți încălzirea în scaune sau purtați o jachetă pentru drumul de întoarcere când aerul serii se răcește.",
+                "en": "After 4 PM, temperatures drop noticeably; use the seat heaters or bring a jacket for the drive back when the evening humid air cools down at the park."
+              }
+            }
+          ]
+        }
       }
     }
   }

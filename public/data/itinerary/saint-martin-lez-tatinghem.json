@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy békés sétával a Maison du Rivage mellett, élvezve a vízre nyíló kilátást.\n\nFolytassa útját a közeli Saint-Martin templomhoz, elmerülve a csendes vallási légkörben.\n\nDélután sétáljon fel a történelmi Manoir de la Rouge-Clef-hez, felfedezve annak örökségét.\n\nFejezze be sétáját a Moulin de l'Aile-nél és a lenyűgöző Maison du Marais-nál egy helyi kultúrával teli estére.",
         "ro": "Începeți dimineața cu o plimbare liniștită pe lângă Maison du Rivage, bucurându-vă de priveliște.\n\nContinuați spre biserica Saint-Martin, scufundându-vă în atmosfera religioasă înainte de prânz.\n\nDupă-amiaza, mergeți la istoricul Manoir de la Rouge-Clef, explorând patrimoniul său.\n\nÎncheiați turul la Moulin de l'Aile și impresionanta Maison du Marais pentru o seară plină de cultură locală.",
         "en": "Begin your morning with a peaceful stroll by the Maison du Rivage, enjoying the water views.\n\nContinue to the nearby Saint-Martin Church, soaking in the quiet religious atmosphere before lunch.\n\nIn the afternoon, walk up to the historic Manoir de la Rouge-Clef, exploring its heritage.\n\nConclude your walking tour at the Moulin de l'Aile and the impressive Maison du Marais for an evening of local culture."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am Maison du Rivage. Mittags finden Sie in der historischen Kirche Saint-Martin Schutz vor den Tropfen. Nachmittags bewundern Sie das Manoir und die Mühle unter dem schützenden Regenschirm. Beenden Sie den Tag völlig trocken im Maison du Marais und entdecken Sie die Sumpfgebiete.",
+            "hu": "Esős reggelét a Maison du Rivage-nál kezdje. Délben keressen biztos menedéket a történelmi Saint-Martin templomban. Délután esernyő alól csodálja meg a Manoir de la Rouge-Clef-et és a Moulin de l'Aile-t. A napot a száraz Maison du Marais-ban zárja, kényelmesen felfedezve a helyi mocsárvilágot.",
+            "ro": "Începeți dimineața ploioasă la Maison du Rivage. La prânz, adăpostiți-vă în istorica biserică Saint-Martin. După-amiaza, admirați Manoir de la Rouge-Clef și Moulin de l'Aile sub umbrelă. Încheiați ziua la interior, la Maison du Marais, descoperind mlaștinile locale la uscat și la cald.",
+            "en": "Start your rainy morning at Maison du Rivage. By noon, seek shelter in the historic Saint-Martin Church. In the afternoon, admire the Manoir de la Rouge-Clef and Moulin de l'Aile from under your umbrella. End your wet day indoors at the Maison du Marais, discovering local marshlands while staying perfectly dry."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Rivage",
+                "hu": "Maison du Rivage",
+                "ro": "Maison du Rivage",
+                "en": "Maison du Rivage"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Uferarchitektur; bringen Sie einen stabilen Regenschirm mit, da der Wind den Regen verstärkt.",
+                "hu": "Csodálja meg a vízparti építészetet; hozzon erős esernyőt, mert a folyami szél felerősíti a zuhogó esőt.",
+                "ro": "Admirați arhitectura riverană; aduceți o umbrelă rezistentă din cauza brizei care întețește ploaia rece.",
+                "en": "Admire the waterfront architecture; bring a sturdy umbrella as the river breeze makes the rain feel heavier here."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Buntglasfenster; die dicken Steinmauern bieten hervorragenden Schutz vor starken Regengüssen.",
+                "hu": "Lépjen be a lenyűgöző ólomüvegekért; a vastag kőfalak kiváló menedéket nyújtanak a kinti esőzések elől.",
+                "ro": "Intrați pentru vitralii; pereții groși de piatră oferă un adăpost excelent împotriva ploii torențiale.",
+                "en": "Step inside to admire the stained glass; the thick stone walls provide excellent shelter from the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Rouge-Clef",
+                "hu": "Manoir de la Rouge-Clef",
+                "ro": "Manoir de la Rouge-Clef",
+                "en": "Manoir de la Rouge-Clef"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die elegante Fassade; tragen Sie unbedingt wasserdichte Schuhe, da die Wege schnell schlammig werden.",
+                "hu": "Figyelje meg a történelmi kúria elegáns homlokzatát; viseljen vízálló cipőt a gyorsan sarassá váló ösvények miatt.",
+                "ro": "Observați fațada elegantă a conacului; purtați încălțăminte impermeabilă, cărările devin foarte noroioase repede.",
+                "en": "Observe the elegant facade of this historic manor; wear waterproof shoes as the surrounding paths get muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de l'Aile",
+                "hu": "Moulin de l'Aile",
+                "ro": "Moulin de l'Aile",
+                "en": "Moulin de l'Aile"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die alte Mühle an; der Regen sorgt für Stimmung, aber Vorsicht beim Treten auf rutschigem Holz.",
+                "hu": "Nézze meg a régi malom szerkezetét; az eső hangulatos, de óvatosan lépkedjen a nedves, csúszós faelemeken.",
+                "ro": "Vedeți moara veche; ploaia adaugă o atmosferă melancolică, dar pășiți cu mare grijă pe lemnul alunecos.",
+                "en": "View the old mill mechanisms; rain adds a moody atmosphere, but step carefully on the slippery wooden parts."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Marais de Saint-Omer",
+                "hu": "Maison du Marais de Saint-Omer",
+                "ro": "Maison du Marais de Saint-Omer",
+                "en": "Maison du Marais de Saint-Omer"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Indoor-Ausstellungen; der perfekte warme, trockene Rückzugsort an einem nassen Nachmittag.",
+                "hu": "Töltsön órákat a benti mocsár-kiállítások felfedezésével; tökéletes száraz menedék egy nedves nap végén.",
+                "ro": "Explorați expozițiile interioare; este refugiul perfect cald și uscat pentru a încheia o după-amiază umedă.",
+                "en": "Spend hours exploring the indoor marshland exhibits; it's the perfect warm, dry retreat to end a wet afternoon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für einen Winterspaziergang ab Maison du Rivage. Wärmen Sie sich mittags in der Kirche Saint-Martin auf. Das Nachmittagslicht fällt wunderschön auf das Herrenhaus und die Mühle, bevor die Sonne um 17:00 Uhr untergeht. Enden Sie im warmen Maison du Marais.",
+            "hu": "Öltözzön fel melegen egy fagyos téli sétához a Maison du Rivage-nál kezdve. Melegedjen fel a Saint-Martin templomban. A délutáni fény gyönyörűen megvilágítja a kúriát és a malmot a korai, 17:00 órás naplemente előtt. Zárja a napot a Maison du Marais benti kiállításainál.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare de iarnă pornind de la Maison du Rivage. Încălziți-vă în biserica Saint-Martin. Lumina după-amiezii cade frumos pe conac și moară înainte de apusul devreme la 17:00. Încheiați cu expozițiile interioare fascinante de la Maison du Marais.",
+            "en": "Wrap up warm for a crisp winter walk starting at Maison du Rivage. Warm up inside Saint-Martin Church around midday. The afternoon light beautifully hits Manoir de la Rouge-Clef and Moulin de l'Aile before the early 17:00 sunset. End with the fascinating indoor exhibits at Maison du Marais."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison du Rivage",
+                "hu": "Maison du Rivage",
+                "ro": "Maison du Rivage",
+                "en": "Maison du Rivage"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die eisige Flusslandschaft; ziehen Sie sich warm an, denn der Winterwind kann hier sehr beißend sein.",
+                "hu": "Élvezze a fagyos folyami kilátást; öltözzön vastagon, mert a víz felől fújó téli szél meglehetősen csípős lehet.",
+                "ro": "Bucurați-vă de priveliștile înghețate; îmbrăcați-vă gros, vântul de iarnă de pe apă poate fi foarte tăios.",
+                "en": "Enjoy the frosty river views; dress in thick layers as the winter wind coming off the water can be biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die winterliche Atmosphäre; es ist unbeheizt, also behalten Sie die Handschuhe bei der Besichtigung an.",
+                "hu": "Csodálja meg a békés téli hangulatot; fűtetlen az épület, így tartsa magán a kesztyűt az oltárok megtekintésekor.",
+                "ro": "Admirați ambianța senină de iarnă; este neîncălzit, deci păstrați-vă mănușile în timp ce priviți altarele istorice.",
+                "en": "Admire the serene winter ambiance inside; it's unheated, so keep your gloves on while viewing the intricate altars."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Rouge-Clef",
+                "hu": "Manoir de la Rouge-Clef",
+                "ro": "Manoir de la Rouge-Clef",
+                "en": "Manoir de la Rouge-Clef"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die kahlen Winterbäume des Herrenhauses; die tiefstehende Sonne wirft herrliche, lange Schatten.",
+                "hu": "Fotózza le a kúria csupasz téli fáit; az alacsony szögben sütő nap hosszú árnyékokat vet, tökéletes téli fotókhoz.",
+                "ro": "Fotografiați copacii goi de iarnă ai conacului; soarele coborât aruncă umbre lungi, perfect pentru fotografii.",
+                "en": "Photograph the manor's bare winter trees; the low sun casts long shadows, making it perfect for winter photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de l'Aile",
+                "hu": "Moulin de l'Aile",
+                "ro": "Moulin de l'Aile",
+                "en": "Moulin de l'Aile"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die historischen Mühlräder; Frost überzieht oft die Struktur, achten Sie genau auf den eisigen Boden.",
+                "hu": "Nézze meg a történelmi malomkereket; a dér gyakran bevonja a szerkezetet, óvatosan lépjen a jeges talajon.",
+                "ro": "Vedeți roțile istorice ale morii; înghețul acoperă adesea structura, pășiți cu grijă pe solul alunecos și înghețat.",
+                "en": "See the historic mill wheels; frost often coats the structure, so step carefully on the icy surrounding grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Marais de Saint-Omer",
+                "hu": "Maison du Marais de Saint-Omer",
+                "ro": "Maison du Marais de Saint-Omer",
+                "en": "Maison du Marais de Saint-Omer"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie das Sumpf-Ökosystem kennen; dieses beheizte Museum ist ideal für den dunklen, kalten Spätnachmittag.",
+                "hu": "Ismerje meg a mocsári ökoszisztémát; ez a fűtött múzeum a legjobb hely a sötét, fagyos késő délutáni órákra.",
+                "ro": "Aflați despre ecosistemul mlaștinii; acest muzeu încălzit e perfect pentru după-amiaza întunecată și rece.",
+                "en": "Learn about the marsh ecosystem; this heated museum is the best place to spend the dark, chilly late afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +499,252 @@
         "hu": "Kezdje kerékpáros utazását a Saint-Jacques templomnál, érezve a friss reggeli szellőt.\n\nLovagoljon a városközpont felé, hogy megcsodálja a Saint-Martin templomot és a festői Maison du Rivage-t.\n\nDélután tekerjen az elegáns Manoir de la Rouge-Clef és a Château de Saubruit felé.\n\nFejezze be a napot az Église Notre-Dame mellett elhaladva, és pihenjen a Maison du Marais-ban.",
         "ro": "Începeți călătoria cu bicicleta la Biserica Saint-Jacques, simțind briza proaspătă a dimineții.\n\nMergeți spre centrul orașului pentru a admira Biserica Saint-Martin și pitoreasca Maison du Rivage.\n\nPetreceți după-amiaza pedalând spre elegantul Manoir de la Rouge-Clef și Château de Saubruit.\n\nÎncheiați ziua trecând pe lângă Église Notre-Dame și relaxându-vă complet la Maison du Marais.",
         "en": "Kick off your cycling journey at Saint-Jacques Church, feeling the crisp morning breeze.\n\nRide towards the town center to admire Saint-Martin Church and the scenic Maison du Rivage.\n\nSpend your afternoon pedaling to the elegant Manoir de la Rouge-Clef and Château de Saubruit.\n\nFinish the day by passing Église Notre-Dame de la Bonne Fin and relaxing at Maison du Marais."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie an diesem regnerischen Morgen vorsichtig ab Saint-Jacques. Machen Sie Pausen drinnen bei Saint-Martin. Nachmittagsschauer erfordern eine vorsichtige Fahrt zum Château. Beenden Sie die nasse Reise mit Schutz in Notre-Dame, der Mühle und dem trockenen Maison du Marais.",
+            "hu": "Óvatosan tekerjen ezen az esős reggelen a Saint-Jacques-tól kezdve. Tartson benti szüneteket a templomnál. Délután óvatosan pedálozzon a Saubruit kastélyhoz. Zárja a nedves utat biztos menedéket keresve a Notre-Dame, a malom és végül a száraz Maison du Marais épületeiben.",
+            "ro": "Pedați cu grijă în această dimineață ploioasă de la Saint-Jacques. Faceți pauze interioare la Saint-Martin. Ploile de după-amiază cer o cursă prudentă spre castel. Încheiați călătoria umedă căutând adăpost la Notre-Dame, moară și în final la confortabilul Maison du Marais.",
+            "en": "Cycle carefully this rainy morning starting at Saint-Jacques. Take indoor breaks at Saint-Martin and Maison du Rivage. Afternoon showers mean a cautious ride to the Château. Conclude the wet journey by seeking shelter at Notre-Dame, the mill, and finally the dry Maison du Marais."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur; schütteln Sie Ihre Regenkleidung im Vorbau ab, bevor Sie das Heiligtum betreten.",
+                "hu": "Csodálja meg a robusztus építészetet; rázza le vizet az esőkabátjáról a tornácon, mielőtt belép a szentélybe.",
+                "ro": "Admirați arhitectura robustă; scuturați-vă haina de ploaie în pridvor înainte de a intra în sanctuarul cald.",
+                "en": "Admire the robust architecture; shake off your rain gear in the porch before entering this peaceful sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Kirchenschiff; ein perfekter trockener Halt, um den nassen Fahrradsattel kurz abzuwischen.",
+                "hu": "Nézze meg a lenyűgöző főhajót; tökéletes száraz megálló a felmelegedésre és a nedves bicikliülés letörlésére.",
+                "ro": "Vedeți naosul impresionant; un popas uscat perfect pentru a vă încălzi și a șterge șaua udă a bicicletei.",
+                "en": "View the impressive nave; it’s a perfect dry stop to warm up and wipe down your wet bike seat before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Rivage",
+                "hu": "Maison du Rivage",
+                "ro": "Maison du Rivage",
+                "en": "Maison du Rivage"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das malerische Flussufer; achten Sie besonders auf rutschige nasse Blätter auf dem Radweg am Wasser.",
+                "hu": "Élvezze a festői vízpartot; tekerjen lassan, és ügyeljen a csúszós, nedves falevelekre a víz melletti kerékpárúton.",
+                "ro": "Bucurați-vă de malul pitoresc; atenție mare la frunzele ude și alunecoase de pe pista de biciclete de lângă apă.",
+                "en": "Enjoy the scenic riverfront; watch out carefully for slippery wet leaves on the bike path running alongside the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Rouge-Clef",
+                "hu": "Manoir de la Rouge-Clef",
+                "ro": "Manoir de la Rouge-Clef",
+                "en": "Manoir de la Rouge-Clef"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das Anwesen; bremsen Sie deutlich früher, da das Kopfsteinpflaster im Regen sehr rutschig wird.",
+                "hu": "Fedezze fel a birtokot; fékezzen a szokásosnál sokkal korábban, mert a macskaköves felhajtó csúszik az esőben.",
+                "ro": "Explorați domeniul; frânați mai devreme, deoarece pavajul cu piatră cubică devine foarte alunecos pe timp de ploaie.",
+                "en": "Explore the estate grounds; brake earlier than usual as the cobblestone approaches get extremely slick in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saubruit",
+                "hu": "Château de Saubruit",
+                "ro": "Château de Saubruit",
+                "en": "Château de Saubruit"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das imposante Schloss; dicker Regen kann die Sicht trüben, schalten Sie Ihr helles Fahrradlicht ein.",
+                "hu": "Bámulja meg a kastélyt; az eső miatt sűrű köd ereszkedhet le, így kapcsolja be a biciklilámpát a biztonságért.",
+                "ro": "Priviți profilul grandios al castelului; ploaia deasă poate estompa vederea, aprindeți luminile bicicletei pentru siguranță.",
+                "en": "Gaze at the castle's grand profile; thick mist and rain can obscure views, so turn on your bike lights for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de la Bonne Fin",
+                "hu": "Notre-Dame de la Bonne Fin templom",
+                "ro": "Biserica Notre-Dame de la Bonne Fin",
+                "en": "Church of Notre-Dame de la Bonne Fin"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie drinnen ruhige Reflexion; nutzen Sie diesen überdachten Schutz vor plötzlichen, starken Regengüssen.",
+                "hu": "Csendes elmélkedés várja bent; használja ezt a masszív fedett menedéket a hirtelen délutáni felhőszakadások elől.",
+                "ro": "Găsiți o reflecție liniștită înăuntru; folosiți acest adăpost pentru a scăpa de ploile torențiale bruște de după-amiază.",
+                "en": "Find quiet reflection inside; use this solid roofed shelter to escape any sudden, heavy afternoon downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de l'Aile",
+                "hu": "Moulin de l'Aile",
+                "ro": "Moulin de l'Aile",
+                "en": "Moulin de l'Aile"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die alte Mühle an; das nasse Holz ist heimtückisch, also schieben Sie Ihr Fahrrad hier am besten.",
+                "hu": "Tekintse meg a történelmi malmot; a nedves idő miatt a fa platformok trükkösek, mindenképpen tolja a biciklit.",
+                "ro": "Verificați moara istorică; lemnul ud este extrem de înșelător, așa că e mult mai bine să vă împingeți bicicleta aici.",
+                "en": "Check out the historic mill; the wet conditions make the wooden platforms tricky, so walk your bike here to be safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Marais de Saint-Omer",
+                "hu": "Maison du Marais de Saint-Omer",
+                "ro": "Maison du Marais de Saint-Omer",
+                "en": "Maison du Marais de Saint-Omer"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Indoor-Sumpfausstellung; ein hervorragender trockener Zufluchtsort zum Abschluss der nassen Tour.",
+                "hu": "Fedezze fel a benti mocsárkiállítást; kiváló száraz menedék a nedves kerékpáros kaland kényelmes lezárására.",
+                "ro": "Descoperiți expoziția interioară; un refugiu excelent și uscat pentru a încheia confortabil o aventură ploioasă.",
+                "en": "Discover the indoor marsh exhibition; an excellent completely dry haven to end your wet cycling adventure comfortably."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie winddichte Schichten an für eine frische Morgenfahrt. Radeln Sie zügig, um warm zu bleiben, mit Stopps an der Kirche und dem Anwesen. Die Sonne geht bis 17:00 Uhr schnell unter, nutzen Sie also Ihr Licht auf dem Weg zum Schloss und beenden Sie den Tag im warmen Maison du Marais.",
+            "hu": "Vegyen fel szélálló rétegeket a frissítő reggeli tekeréshez. Haladjon tempósan a bemelegedéshez, megállva a templomoknál és a kúriánál. A nap 17:00-kor már lenyugszik, így kapcsolja be lámpáit a kastély felé, és melegedjen fel a nap legvégén a fűtött Maison du Marais-ban.",
+            "ro": "Puneți straturi rezistente la vânt pentru o cursă matinală revigorantă. Pedați alert pentru a vă încălzi, oprind la conac. Soarele apune rapid la 17:00, așa că folosiți luminile spre castel și biserici, încheind ziua rece în călduroasa și primitoarea Maison du Marais.",
+            "en": "Gear up with windproof layers for a bracing morning ride. Pedal briskly to stay warm, stopping at Saint-Martin and the manor. The afternoon sun fades fast by 17:00, so use your lights reaching the castle and churches, ending perfectly in the fully heated Maison du Marais."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur; tragen Sie dicke Handschuhe, da der kalte Metalllenker die Finger frieren lässt.",
+                "hu": "Csodálja meg az építészetet; viseljen vastag kesztyűt, mert a hideg kormány nagyon gyorsan lefagyasztja az ujjait.",
+                "ro": "Minunați-vă de arhitectură; purtați mănuși groase, ghidonul rece de metal vă poate îngheța rapid degetele expuse.",
+                "en": "Marvel at the stunning architecture; wear thick gloves as gripping cold handlebars here can quickly freeze your fingers."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das historische Innere; ein sehr guter Ort für leichte Dehnübungen, um die Beinmuskeln warm zu halten.",
+                "hu": "Fedezze fel a történelmi belső teret; remek hely egy kis óvatos nyújtásra, hogy melegen tartsa az izmait a hidegben.",
+                "ro": "Explorați interioarele istorice; un loc foarte bun pentru întinderi ușoare ca să vă mențineți mușchii calzi în frig.",
+                "en": "Explore the historical interiors; it’s a great spot to do some light stretching to keep your muscles properly warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Rivage",
+                "hu": "Maison du Rivage",
+                "ro": "Maison du Rivage",
+                "en": "Maison du Rivage"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Winterblick auf den Fluss; achten Sie auf gefährliches Glatteis auf schattigen Teilen des Radwegs.",
+                "hu": "Élvezze a friss téli kilátást a folyóra; vezessen óvatosan, és ügyeljen a fekete jégre a kerékpárút árnyékos részein.",
+                "ro": "Bucurați-vă de priveliștile de iarnă ale râului; atenție la gheața neagră invizibilă de pe porțiunile umbrite ale pistei.",
+                "en": "Enjoy crisp winter views of the river; watch out for treacherous black ice patches on the shaded parts of the cycle path."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Rouge-Clef",
+                "hu": "Manoir de la Rouge-Clef",
+                "ro": "Manoir de la Rouge-Clef",
+                "en": "Manoir de la Rouge-Clef"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie das Anwesen im Winterlicht; treten Sie stetig weiter, da zu langes Stehenbleiben Sie rasch auskühlt.",
+                "hu": "Fotózza le az elegáns birtokot téli fényben; tekerjen egyenletesen, mert a hosszú egy helyben állástól gyorsan kihűl.",
+                "ro": "Fotografiați domeniul elegant în lumina iernii; pedalați constant, o oprire mult prea lungă vă răcește organismul rapid.",
+                "en": "Photograph the elegant estate in winter light; keep pedaling steadily as stopping for too long cools you down fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saubruit",
+                "hu": "Château de Saubruit",
+                "ro": "Château de Saubruit",
+                "en": "Château de Saubruit"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das beeindruckende Schloss; die Dämmerung beginnt früh, schalten Sie rechtzeitig Ihr Rücklicht ein.",
+                "hu": "Nézze meg a lenyűgöző kastélyt a szürke égen; a szürkület korán kezdődik, győződjön meg róla, hogy a hátsó lámpa ég.",
+                "ro": "Vedeți castelul impresionant pe cerul gri; amurgul începe devreme, asigurați-vă că lumina din spate e aprinsă și clară.",
+                "en": "See the impressive château against the grey sky; twilight starts early, make sure your rear light is turned on and visible."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de la Bonne Fin",
+                "hu": "Notre-Dame de la Bonne Fin templom",
+                "ro": "Biserica Notre-Dame de la Bonne Fin",
+                "en": "Church of Notre-Dame de la Bonne Fin"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diese ruhige Kirche; genießen Sie eine kurze Erholung von den beißenden Winterwinden am Spätnachmittag.",
+                "hu": "Lépjen be ebbe a csendes templomba; tökéletes, rövid felüdülés a csípős, késő délutáni téli, fagyos szelek elől.",
+                "ro": "Pășiți în această biserică liniștită; un scurt și plăcut răgaz de la vânturile tăioase de iarnă de la sfârșitul zilei.",
+                "en": "Step into this quiet church; it offers a brief, welcome respite from the biting late-afternoon winter headwinds."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de l'Aile",
+                "hu": "Moulin de l'Aile",
+                "ro": "Moulin de l'Aile",
+                "en": "Moulin de l'Aile"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den gefrorenen Charme der alten Mühle; steigen Sie ab, um nicht auf frostigem Pflaster auszurutschen.",
+                "hu": "Csodálja meg a régi malom fagyott varázsát; szálljon le a nyeregből, hogy elkerülje az elcsúszást a fagyos köveken.",
+                "ro": "Admirați farmecul înghețat al vechii mori; descălecați din șa pentru a evita alunecarea pe pietrele acoperite cu brumă.",
+                "en": "Admire the frozen charm of the old mill; dismount completely and walk to avoid slipping on the frosty paving stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Marais de Saint-Omer",
+                "hu": "Maison du Marais de Saint-Omer",
+                "ro": "Maison du Marais de Saint-Omer",
+                "en": "Maison du Marais de Saint-Omer"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem Museum komplett auf; die perfekte beheizte Aktivität nach einem kalten Winterradtag.",
+                "hu": "Melegedjen fel teljesen ebben a fűtött kiállítótérben; tökéletes program sötétedés után egy hideg kerékpáros napon.",
+                "ro": "Încălziți-vă complet în acest spațiu încălzit; activitatea perfectă la lăsarea întunericului după o zi rece pe bicicletă.",
+                "en": "Warm up entirely in this heated exhibition space; the perfect dark-hour activity after a freezing cold cycling day."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "Kezdje a festői autózást a Saint-Jacques templomnál, könnyen parkolva a közelben a megtekintéshez.\n\nVezessen a hatalmas Maison du Marais-hoz, a telet az interaktív vizes élőhelyi kiállításoknak szentelve.\n\nDélután könnyedén ugráljon a Moulin de l'Aile, a Maison du Rivage és a Saint-Martin templom között.\n\nFejezze be az autós utat a Manoir de la Rouge-Clef és a Château de Saubruit történelmi birtokainak meglátogatásával.",
         "ro": "Începeți plimbarea pitorească la Biserica Saint-Jacques, parcând cu ușurință în apropiere.\n\nConduceți până la vasta Maison du Marais, dedicându-vă prânzul expozițiilor interactive ale zonelor umede.\n\nDupă-amiaza, treceți cu ușurință între Moulin de l'Aile, Maison du Rivage și biserica Saint-Martin.\n\nÎncheiați excursia vizitând domeniile istorice Manoir de la Rouge-Clef și frumosul Château de Saubruit.",
         "en": "Start your scenic drive at Saint-Jacques Church, easily parking nearby to admire its architecture.\n\nDrive to the expansive Maison du Marais, dedicating your midday to the interactive wetland exhibits.\n\nIn the afternoon, easily hop between Moulin de l'Aile, Maison du Rivage, and Saint-Martin Church.\n\nConclude the road trip by visiting the historic estates of Manoir de la Rouge-Clef and Château de Saubruit."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an diesem regnerischen Morgen sicher zu Saint-Jacques und trocknen Sie sich danach im Maison du Marais ab. Mittags gibt es kurze nasse Stopps an der Mühle. Nachmittags vorsichtig an der Kirche und dem Herrenhaus parken. Beenden Sie die verregnete Fahrt geschützt am Château de Saubruit.",
+            "hu": "Vezessen óvatosan ezen az esős reggelen a Saint-Jacques-hoz, majd száradjon meg a tágas Maison du Marais-ban. Délben tegyen rövid megállókat a malomnál. Délután óvatosan parkoljon a csúszós kúriánál. Zárja a vizes, autós utazást a Notre-Dame és a Saubruit kastély megtekintésével.",
+            "ro": "Conduceți în siguranță spre Saint-Jacques, apoi uscați-vă la imensa Maison du Marais. Prânzul aduce opriri scurte și umede la moară. După-amiaza, parcați cu mare grijă la biserică și la conac. Încheiați plimbarea ploioasă cu mașina la Notre-Dame și la uimitorul Château de Saubruit.",
+            "en": "Drive safely this rainy morning to Saint-Jacques, then dry off comfortably inside Maison du Marais. Midday brings short, wet stops at the mill. In the afternoon, park carefully at the slippery church and manor lots. Conclude the rainy driving journey at Notre-Dame and Château de Saubruit."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Schätzen Sie die detaillierten Steinmetzarbeiten; parken Sie so nah wie möglich, um nicht völlig nass zu werden.",
+                "hu": "Értékelje a részletes kőfaragásokat; parkoljon a lehető legközelebb, hogy elkerülje a teljes elázást a bejáratig tartó úton.",
+                "ro": "Apreciați detaliile din piatră; parcați cât mai aproape posibil cu mașina pentru a nu vă uda leoarcă până la intrare.",
+                "en": "Appreciate the detailed stonework; park your car as close as possible to avoid getting drenched on your way to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Marais de Saint-Omer",
+                "hu": "Maison du Marais de Saint-Omer",
+                "ro": "Maison du Marais de Saint-Omer",
+                "en": "Maison du Marais de Saint-Omer"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in die Sumpfgeschichte ein; perfektes Timing, um den starken Morgenregen gemütlich im Museum zu meiden.",
+                "hu": "Merüljön el a mocsár történetében bent; tökéletes időzítés, hogy elkerülje a heves reggeli esőt egy nagy, száraz múzeumban.",
+                "ro": "Scufundați-vă în istoria mlaștinilor la interior; un moment perfect pentru a evita ploaia grea de dimineață într-un muzeu uscat.",
+                "en": "Dive into the rich marsh history indoors; it's perfect timing to avoid the heavy morning rain inside a large, dry museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de l'Aile",
+                "hu": "Moulin de l'Aile",
+                "ro": "Moulin de l'Aile",
+                "en": "Moulin de l'Aile"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die historische Mühle; lassen Sie den Motor mit Heizung laufen, falls der Regenguss gerade zu stark ist.",
+                "hu": "Figyelje meg a történelmi malmot; hagyja járni a motort a fűtéssel, ha a felhőszakadás túl intenzív a kiszálláshoz.",
+                "ro": "Observați caracteristicile istorice ale morii; lăsați motorul pornit cu căldura dacă ploaia este pur și simplu prea intensă.",
+                "en": "Observe the historical mill features; keep the car engine running with the heater on if the downpour is too intense to step out."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Rivage",
+                "hu": "Maison du Rivage",
+                "ro": "Maison du Rivage",
+                "en": "Maison du Rivage"
+              },
+              "tip_5lang": {
+                "de": "Blicken Sie vom Ufer aufs Wasser; der peitschende Regen lässt die gesamte Landschaft aus dem Auto dramatisch wirken.",
+                "hu": "Nézzen ki a vízre a part kényelméből; a zuhogó eső csodálatosan drámaivá teszi a tájat az autóból szemlélve.",
+                "ro": "Priviți apa din confortul malului; ploaia puternică face ca peisajul să arate minunat de dramatic văzut din mașină.",
+                "en": "Look out over the water from the comfort of the shore; the driving rain makes the landscape look wonderfully dramatic from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das ruhige Kirchenschiff; Schirmständer sind meistens nahe der Veranda für Ihre tropfenden Regenschirme.",
+                "hu": "Fedezze fel a békés főhajót; az esernyőtartók általában a tornác közelében vannak a nehéz esőcseppek lerázására.",
+                "ro": "Explorați naosul liniștit; suporturile pentru umbrele sunt de obicei lângă pridvor, perfecte pentru a lăsa umbrelele ude.",
+                "en": "Explore the peaceful nave; umbrella stands are usually located near the porch, perfect for shaking off those heavy raindrops."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Rouge-Clef",
+                "hu": "Manoir de la Rouge-Clef",
+                "ro": "Manoir de la Rouge-Clef",
+                "en": "Manoir de la Rouge-Clef"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die Fassade; der unbefestigte Parkplatz wird sehr schlammig, steigen Sie äußerst vorsichtig aus.",
+                "hu": "Fotózza le a kúria homlokzatát; a burkolatlan parkoló gyorsan nagyon saras lesz, óvatosan szálljon ki a járműből.",
+                "ro": "Fotografiați fațada conacului; parcarea nepavată devine foarte noroioasă la ploaie, așa că coborâți cu grijă din mașină.",
+                "en": "Photograph the manor's facade; the unpaved parking area gets very muddy quickly, so step out of your vehicle with care."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de la Bonne Fin",
+                "hu": "Notre-Dame de la Bonne Fin templom",
+                "ro": "Biserica Notre-Dame de la Bonne Fin",
+                "en": "Church of Notre-Dame de la Bonne Fin"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in diesem Gebäude; ein zuverlässiger Schutz, während Sie auf das Ende der Schauer warten.",
+                "hu": "Keressen menedéket ebben a csendes épületben; megbízható szilárd tető, amíg várja a délutáni esősávok elvonulását.",
+                "ro": "Căutați sanctuar în această clădire; un adăpost solid pe care vă puteți baza în timp ce așteptați să treacă ploile de după-amiază.",
+                "en": "Seek sanctuary inside this quiet building; it provides reliable solid shelter while you wait for the afternoon rain bands to pass."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saubruit",
+                "hu": "Château de Saubruit",
+                "ro": "Château de Saubruit",
+                "en": "Château de Saubruit"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie das Anwesen durch den Nebel; verwenden Sie beim Abfahren die Nebelscheinwerfer, wenn der Regen die Sicht nimmt.",
+                "hu": "Nézze meg a hatalmas birtokot ködös időben; távozáskor használja a ködlámpát, ha az esti eső lerontja a látási viszonyokat.",
+                "ro": "Vedeți moșia grandioasă prin ceață; folosiți neapărat proiectoarele de ceață la plecare dacă ploaia de seară reduce vizibilitatea.",
+                "en": "See the grand estate through misty conditions; use your car's fog lights when departing if the evening rain severely reduces visibility."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine warme Autofahrt ab Saint-Jacques. Verbringen Sie den kalten Vormittag zum Aufwärmen im Museum. Nach schnellen Fotostopps an Mühle und Fluss aus dem warmen Auto, fahren Sie zum Herrenhaus. Erreichen Sie das große Schloss noch vor der eiskalten Dämmerung um 17:00 Uhr.",
+            "hu": "Élvezze a kellemesen fűtött autózást a Saint-Jacques-tól. Töltse a hideg délelőttöt a tágas Maison du Marais-ban felmelegedve. Gyors fotómegállók után a malomnál és a folyónál, irány a templom. Érje el a kastélyt még a 17:00 órás szürkület előtt, mielőtt a hőmérséklet drasztikusan lezuhan.",
+            "ro": "Bucurați-vă de o plimbare încălzită de la Saint-Jacques. Petreceți dimineața rece încălzindu-vă bine la Maison du Marais. După scurte opriri foto la moară și râu din mașină, mergeți la biserică. Ajungeți la castel chiar înainte ca amurgul de la 17:00 să scadă drastic și periculos temperaturile.",
+            "en": "Enjoy a cozy, heated drive starting at Saint-Jacques. Spend the cold mid-morning warming up inside Maison du Marais. After quick photo stops at the mill and river, head to Saint-Martin and the manor. Reach the beautiful Château just before the 17:00 twilight drops temperatures drastically."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jacques",
+                "hu": "Saint-Jacques templom",
+                "ro": "Biserica Saint-Jacques",
+                "en": "Saint-Jacques Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie das Interieur; wärmen Sie Ihren dicken Mantel mit der Autoheizung vor, bevor Sie in die frostige Luft treten.",
+                "hu": "Csodálja meg a belső teret; használja az autó fűtését a kabát előmelegítésére, mielőtt kilép a kinti fagyos reggeli levegőre.",
+                "ro": "Minunați-vă de interiorul complicat; folosiți încălzirea mașinii pentru a vă preîncălzi haina înainte de a ieși în aerul înghețat.",
+                "en": "Marvel at the intricate interior; actively use the car heater to pre-warm your heavy coat before stepping out into the frosty morning air."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Marais de Saint-Omer",
+                "hu": "Maison du Marais de Saint-Omer",
+                "ro": "Maison du Marais de Saint-Omer",
+                "en": "Maison du Marais de Saint-Omer"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Ausstellungen; es ist hervorragend beheizt und bietet eine willkommene Flucht vor den eisigen Temperaturen.",
+                "hu": "Járja be a kiterjedt természetkiállításokat; kiválóan fűtött épület, így kényelmes menekülést nyújt a kinti fagyos hőmérséklet elől.",
+                "ro": "Vizitați expozițiile ample de natură; muzeul este excelent încălzit, oferind o evadare confortabilă de la temperaturile de afară.",
+                "en": "Tour the extensive nature exhibits; it's excellently heated inside, providing a comfortable, lengthy escape from the freezing temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Moulin de l'Aile",
+                "hu": "Moulin de l'Aile",
+                "ro": "Moulin de l'Aile",
+                "en": "Moulin de l'Aile"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die Windmühle; auf Pfützen bildet sich schnell Eis, laufen Sie nach dem Parken sehr vorsichtig.",
+                "hu": "Fotózza le az öreg szélmalmot a téli égen; a közeli tócsákon gyakran jég képződik, óvatosan sétáljon az autóból kiszállva.",
+                "ro": "Fotografiați vechea moară de vânt pe cerul de iarnă; adesea se formează gheață alunecoasă pe bălți, pășiți cu mare grijă după parcare.",
+                "en": "Photograph the old windmill against the winter sky; solid ice often forms on nearby puddles, so walk cautiously after parking the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Rivage",
+                "hu": "Maison du Rivage",
+                "ro": "Maison du Rivage",
+                "en": "Maison du Rivage"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die schneebedeckten Ufer; lassen Sie das Auto kurz laufen, um danach direkt wieder ins Warme steigen zu können.",
+                "hu": "Élvezze a hófödte folyópartokat; rövid megállónál hagyja járni a motort, hogy a fotózás után azonnal visszaugorhasson a melegbe.",
+                "ro": "Bucurați-vă de malurile râului pudrate cu zăpadă; lăsați motorul pornit pentru a sări rapid înapoi la căldura vehiculului după vizionare.",
+                "en": "Enjoy the serene, snow-dusted riverbanks if lucky; keep the car running slightly to hop right back into the welcoming warmth after viewing."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Saint-Martin Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den historischen Altar; die dicken Steinmauern fangen die Kälte ein, behalten Sie Schal und Mütze drinnen auf.",
+                "hu": "Csodálja meg a történelmi oltárt; a vastag kőfalak bent tartják a hideget, így tartsa magán a meleg sálat és a sapkát bent is.",
+                "ro": "Admirați altarul istoric; pereții groși de piatră captează tot frigul, așa că păstrați-vă eșarfa și căciula pe cap în timpul explorării.",
+                "en": "Admire the historical altar; the thick stone walls trap the bitter cold, so be sure to keep your scarf and winter hat on while exploring inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Manoir de la Rouge-Clef",
+                "hu": "Manoir de la Rouge-Clef",
+                "ro": "Manoir de la Rouge-Clef",
+                "en": "Manoir de la Rouge-Clef"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die großartige Architektur; die Straßen hierher können durch Frost sehr rutschig sein, fahren Sie mit dem Auto langsam.",
+                "hu": "Nézze meg a nagyszerű építészetet a friss téli levegőben; az ide vezető utak rendkívül csúszósak lehetnek a fagytól, vezessen nagyon lassan.",
+                "ro": "Vedeți arhitectura grandioasă; drumurile din zonă pot fi extrem de alunecoase din cauza înghețului invizibil, așa că conduceți foarte încet.",
+                "en": "See the grand architecture in the crisp winter air; rural roads leading up here can be highly slippery with frost, so drive your vehicle slowly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame de la Bonne Fin",
+                "hu": "Notre-Dame de la Bonne Fin templom",
+                "ro": "Biserica Notre-Dame de la Bonne Fin",
+                "en": "Church of Notre-Dame de la Bonne Fin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhige Atmosphäre bei Sonnenuntergang; das schwindende Licht wirft jetzt wunderschöne Schatten auf den Frost.",
+                "hu": "Szívja be a csendes hangulatot, ahogy a téli nap lemegy; a csökkenő, hideg fény gyönyörű, hosszú árnyékokat vet a téli tájra.",
+                "ro": "Bucurați-vă de ambianța liniștită în timp ce soarele apune devreme; lumina în scădere aruncă umbre spectaculoase și frumoase peisajului de iarnă.",
+                "en": "Take in the quiet ambiance as the low sun begins to set; the fast-diminishing light casts beautiful, elongated shadows across the chilly winter landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saubruit",
+                "hu": "Château de Saubruit",
+                "ro": "Château de Saubruit",
+                "en": "Château de Saubruit"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie das beeindruckende Schloss in der Dämmerung; um 17:00 Uhr ist es stockdunkel, ein dramatischer letzter warmer Stopp.",
+                "hu": "Tanúja lehet a lenyűgöző kastélynak szürkületkor; 17:00-ra már teljesen besötétedik, ezáltal drámai végső megállót kínálva a fűtött autóból.",
+                "ro": "Asistați la impresionantul castel la amurgul timpuriu; se întunecă complet până la ora 17:00, fiind o oprire finală dramatică și caldă din mașină.",
+                "en": "Witness the impressive castle at dusk; the dark cold sets in completely by 17:00, making it a highly dramatic final stop to your heated drive."
+              }
+            }
+          ]
+        }
       }
     }
   }

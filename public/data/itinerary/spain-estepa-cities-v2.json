@@ -183,6 +183,224 @@
         "hu": "Kezdje a reggelt Estepa történelmi szívének felfedezésével, és gyönyörködjön a lenyűgöző panorámában az ősi erődhegyről. A békés hangulat azonnal magával ragadja.\n\nDélben merüljön el a régió gazdag kulturális örökségében. Sétáljon végig a fenséges palotákon és szakrális tereken, amelyek az andalúz nemesség fényűzését tárják elénk.\n\nA délutánt szentelje a város híresen édes örökségének. Sétáljon át a bájos tereken, mielőtt felfedezné a helyi édességek készítésének kézműves titkait.\n\nZárja a napot Estepa legendás csokoládé- és mantecado-hagyományainak megismerésével. Ez egy tökéletes, ízletes befejezése ennek az emlékezetes utazásnak.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Estepa, admirând priveliștile panoramice ample de pe vechiul deal al fortăreței. Atmosfera liniștită dă tonul zilei.\n\nLa prânz, scufundați-vă în bogăția culturală a regiunii. Plimbați-vă prin palate mărețe și spații sacre care dezvăluie opulența nobilimii andaluze de altădată.\n\nPetreceți după-amiaza descoperind faimoasa moștenire dulce a orașului. Plimbați-vă prin piețe fermecătoare înainte de a afla secretele artizanale ale dulciurilor locale.\n\nÎncheiați-vă ziua savurând tradițiile legendare de ciocolată și mantecado din Estepa. Este concluzia perfectă, plină de savoare, a unei călătorii de neuitat.",
         "en": "Start your morning exploring the historic heart of Estepa by taking in the sweeping panoramic views from the ancient fortress hill. The peaceful atmosphere sets the tone.\n\nAt midday, immerse yourself in the rich cultural tapestry of the region. Wander through grand palaces and sacred spaces that reveal the opulence of Andalusian nobility.\n\nSpend the afternoon shifting gears towards the town's famously sweet heritage. Stroll through charming plazas before uncovering the artisanal secrets of local confections.\n\nWrap up your day indulging in Estepa’s legendary chocolate and mantecado traditions. It's the perfect, flavorful conclusion to an unforgettable journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den regnerischen Morgen am Hügel San Cristóbal mit wasserfesten Schuhen und flüchten Sie dann ins Museum. Mittags bietet das archäologische Museum trockenen Schutz und spannende Geschichte während der Schauer. Nachmittags locken die warmen Innenräume des Palastes und der Süßwarenmuseen. Beenden Sie den Abend gemütlich im Schokoladenmuseum, geschützt vor dem Regen.",
+            "hu": "Esős reggelen óvatosan sétálj fel a San Cristóbal-hegyre, majd keress menedéket a szakrális művészetek termei között. Délben a régészeti múzeum fedett kiállításai nyújtanak száraz és tartalmas időtöltést a záporok elől. Délután a helyi palota és az édességmúzeumok meleg, benti programjai várnak. Az estét zárd a csokoládémúzeumban, kóstolóval melegedve a kinti eső elől.",
+            "ro": "Începeți dimineața ploioasă pe dealul San Cristóbal cu mare grijă pe alei, apoi refugiați-vă în muzeul de artă sacră. La prânz, muzeul arheologic oferă un adăpost uscat perfect pentru a evita aversele de ploaie. După-amiaza vă așteaptă vizite interioare la palatul nobiliar și la fabricile de dulciuri. Încheiați seara la căldură, savurând ciocolată locală în timp ce plouă afară.",
+            "en": "Start your rainy morning on the San Cristóbal hill, stepping carefully on wet paths, then quickly retreat to the sacred art indoors. By midday, shelter in the archaeological museum's fascinating galleries while the rain passes. Afternoon brings cozy indoor visits to the noble palaces and sweet factories. Conclude the evening indoors, enjoying local chocolates as the rain falls outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hügel San Cristóbal",
+                "hu": "San Cristóbal-hegy",
+                "ro": "Dealul San Cristóbal",
+                "en": "San Cristóbal Hill"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die neblige Aussicht, aber tragen Sie rutschfeste Schuhe, da die Wege bei Nässe rutschig sind.",
+                "hu": "Élvezd a párás kilátást a hegyről, de viselj csúszásmentes cipőt, mert a köves utak esőben nagyon síkosak.",
+                "ro": "Admirați priveliștile învăluite de ceață, dar purtați încălțăminte antiderapantă, deoarece cărările sunt alunecoase la ploaie.",
+                "en": "Enjoy the misty views from the hill, but wear sturdy, non-slip shoes as the paths can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Sakrale Kunst",
+                "hu": "Szakrális Művészetek Múzeuma",
+                "ro": "Muzeul de Artă Sacră",
+                "en": "Museum of Sacred Art"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Rückzugsort, um das religiöse Erbe zu bewundern, während Sie die Morgenschauer abwarten.",
+                "hu": "Tökéletes száraz menedék, ahol nyugodtan megcsodálhatod a vallási örökséget, amíg elvonulnak a reggeli záporok.",
+                "ro": "Un refugiu uscat perfect unde puteți admira în liniște moștenirea religioasă în timp ce așteptați să treacă ploile.",
+                "en": "A perfect dry retreat where you can safely admire the religious heritage while waiting out the morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Platz Hermanas de la Cruz",
+                "hu": "Hermanas de la Cruz tér",
+                "ro": "Piața Hermanas de la Cruz",
+                "en": "Hermanas de la Cruz Square"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie kurz am Platz; bringen Sie einen stabilen Regenschirm mit, da es hier kaum Unterstände gibt.",
+                "hu": "Csak rövid időre állj meg a térnél; legyen nálad stabil esernyő, mert itt szinte egyáltalán nincs fedett menedék.",
+                "ro": "Faceți o scurtă pauză pe piață; purtați o umbrelă robustă, deoarece aici nu există adăposturi acoperite.",
+                "en": "Pause briefly to see the convent facade; carry a sturdy umbrella as the square offers very little overhead shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Padre Martín Recio",
+                "hu": "Padre Martín Recio Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Padre Martín Recio",
+                "en": "Padre Martín Recio Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die spannenden archäologischen Ausstellungen im Trockenen und entfliehen Sie so dem Regenwetter.",
+                "hu": "Fedezd fel a gazdag beltéri régészeti kiállításokat, amelyek kiváló menedéket és lenyűgöző történelmet nyújtanak az esőben.",
+                "ro": "Explorați expozițiile arheologice interioare, oferind un adăpost excelent și o istorie fascinantă departe de ploaie.",
+                "en": "Explore the rich indoor archaeological exhibits, offering excellent shelter and fascinating history away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast der Markgrafen von Cerverales",
+                "hu": "Cerverales Márkik Palotája",
+                "ro": "Palatul Marchizilor de Cerverales",
+                "en": "Palace of the Marquises of Cerverales"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das barocke Interieur dieses Palastes, ein wunderbarer Ort im Innenbereich, der Sie trocken hält.",
+                "hu": "Csodáld meg a palota gyönyörű barokk belső tereit, amely tökéletes beltéri programot és szárazságot biztosít.",
+                "ro": "Admirați interioarele baroce rafinate ale acestui palat, o escapadă interioară frumoasă care vă menține uscați.",
+                "en": "Admire the exquisite baroque interiors of this palace, a beautiful indoor escape that keeps you dry and entertained."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantecado-Museum",
+                "hu": "Mantecado Múzeum",
+                "ro": "Muzeul Mantecado",
+                "en": "Mantecado Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich beim süßen Duft des Backens auf; die Innenräume sind ideal, um der feuchten Kälte zu entfliehen.",
+                "hu": "Melegedj fel a sütemények édes illatában; a beltéri tárlat ideális a nedves, hűvös délutáni időjárás elkerülésére.",
+                "ro": "Încălziți-vă înconjurați de aroma dulce a coptului; expozițiile interioare sunt ideale pentru a scăpa de frigul umed.",
+                "en": "Warm up surrounded by the sweet aroma of baking; the indoor exhibits are ideal for escaping the damp afternoon chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum",
+                "hu": "Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei",
+                "en": "Chocolate Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang mit heißer Schokolade im Trockenen und entdecken Sie die Geschichte des Kakaos.",
+                "hu": "Zárd az esős sétát egy forró csokoládéval a meleg benti térben, megismerve a kakaó történetét egy kényelmes helyen.",
+                "ro": "Încheiați plimbarea ploioasă cu o ciocolată caldă în interior, descoperind istoria cacaoului într-un cadru uscat.",
+                "en": "Conclude your rainy walk with rich, hot chocolate indoors, discovering the history of cocoa in a cozy, dry setting."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Trotzen Sie dem klaren Wintermorgen mit einem flotten Spaziergang auf den Hügel und genießen Sie die weite Sicht. Mittags wärmen Sie sich in den gemütlichen Museen auf und entdecken die Geschichte der Stadt. Nachmittags locken warme Paläste und süße Traditionen, die perfekt zum Winter passen. Gegen 17:00 Uhr wird es dunkel, beenden Sie den Tag also im Warmen.",
+            "hu": "Kezdd a csípős téli reggelt egy frissítő sétával a hegyre, élvezve a tiszta levegőt és a messzire nyúló kilátást. Délben térj be a fűtött múzeumokba melegedni, miközben elmélyedsz a történelemben. Délután a paloták és a téli édességek világa vár, melyek igazi vigaszt nyújtanak. A nap 17:00 körül korán lebukik, így az estét töltsd benti, meleg környezetben.",
+            "ro": "Înfruntați dimineața geroasă cu o plimbare rapidă pe deal, bucurându-vă de priveliști clare în aerul rece de iarnă. La prânz, intrați în muzeele încălzite pentru a vă dezmorți în timp ce explorați patrimoniul local. După-amiaza aduce vizite la palate și tradiții dulci de iarnă. Soarele apune devreme în jur de 17:00, așa că încheiați ziua în interior, la căldură.",
+            "en": "Brave the crisp winter morning with a brisk walk up the hill, enjoying clear views in the cold air. By noon, step into the cozy museums to warm up while delving into the town's rich heritage. Afternoon shifts focus to the grand palaces and sweet traditions, perfect for winter comfort. Evening falls early around 17:00, so end your day indoors with a hot chocolate."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hügel San Cristóbal",
+                "hu": "San Cristóbal-hegy",
+                "ro": "Dealul San Cristóbal",
+                "en": "San Cristóbal Hill"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich warm an gegen den Wind auf dem Hügel, wo die Winterluft eine atemberaubend klare Fernsicht bietet.",
+                "hu": "Öltözz meleg, szélálló rétegekbe a hegytetőn fújó szél miatt, a téli levegő kristálytiszta panorámát biztosít.",
+                "ro": "Îmbrăcați-vă în straturi calde pentru vântul de pe deal, unde aerul de iarnă oferă o panoramă uimitor de clară.",
+                "en": "Dress in warm layers for the brisk wind at the hilltop, where winter air offers stunningly clear panoramic views."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Sakrale Kunst",
+                "hu": "Szakrális Művészetek Múzeuma",
+                "ro": "Muzeul de Artă Sacră",
+                "en": "Museum of Sacred Art"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im Inneren auf, während Sie sich Zeit nehmen, die religiösen Artefakte in gemütlicher Umgebung zu bewundern.",
+                "hu": "Lépj be melegedni a fűtött terekbe, miközben kényelmes, nyugodt környezetben fedezed fel az aprólékos vallási tárgyakat.",
+                "ro": "Intrați pentru a vă încălzi mâinile în timp ce admirați artefactele religioase complexe într-un mediu confortabil.",
+                "en": "Step inside to warm your hands while taking time to appreciate the intricate religious artifacts in a cozy environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Platz Hermanas de la Cruz",
+                "hu": "Hermanas de la Cruz tér",
+                "ro": "Piața Hermanas de la Cruz",
+                "en": "Hermanas de la Cruz Square"
+              },
+              "tip_5lang": {
+                "de": "Wickeln Sie sich einen Schal um, wenn Sie diesen windigen Platz überqueren, bevor Sie zum nächsten warmen Ort gehen.",
+                "hu": "Tekerd fel jó alaposan a sálad, amíg átkelsz ezen a nyitott, szeles téren, mielőtt a következő fűtött célpont felé veszed az irányt.",
+                "ro": "Înfășurați-vă bine cu un fular când traversați această piață deschisă și vântoasă înainte de a merge mai departe.",
+                "en": "Wrap a scarf tightly as you cross this open, breezy square before heading to your next indoor destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Padre Martín Recio",
+                "hu": "Padre Martín Recio Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Padre Martín Recio",
+                "en": "Padre Martín Recio Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Räume dieses Museums, ein toller Ort am Mittag, um den sinkenden Wintertemperaturen zu entfliehen.",
+                "hu": "Élvezd a múzeum fűtött termeit, amely kiváló déli menedék a kinti, egyre csökkenő téli hőmérsékletek elől.",
+                "ro": "Bucurați-vă de camerele încălzite ale acestui muzeu, un loc excelent la prânz pentru a scăpa de temperaturile reci de afară.",
+                "en": "Enjoy the heated rooms of this museum, a great midday spot to escape the dropping outdoor winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast der Markgrafen von Cerverales",
+                "hu": "Cerverales Márkik Palotája",
+                "ro": "Palatul Marchizilor de Cerverales",
+                "en": "Palace of the Marquises of Cerverales"
+              },
+              "tip_5lang": {
+                "de": "Die Steinmauern können drinnen kühl sein, behalten Sie also den Mantel an, während Sie die barocken Räume bewundern.",
+                "hu": "A kőfalak belül is ontják a hideget, így tartsd magadon a kabátot, miközben a gyönyörű barokk szobákat csodálod.",
+                "ro": "Zidurile de piatră pot fi reci în interior, așa că păstrați haina pe dumneavoastră în timp ce admirați camerele baroce.",
+                "en": "The stone walls can be chilly inside, so keep your coat on as you marvel at the beautifully preserved baroque rooms."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantecado-Museum",
+                "hu": "Mantecado Múzeum",
+                "ro": "Muzeul Mantecado",
+                "en": "Mantecado Museum"
+              },
+              "tip_5lang": {
+                "de": "Der Winter ist die traditionelle Zeit für diese Süßigkeiten; genießen Sie die festliche Atmosphäre und die Backdüfte.",
+                "hu": "A tél a hagyományos szezonja ezeknek az édességeknek; élvezd a meleg, ünnepi hangulatot és a friss sültek illatát.",
+                "ro": "Iarna este sezonul tradițional pentru aceste dulciuri; bucurați-vă de atmosfera caldă, festivă și de mirosul de copt.",
+                "en": "Winter is the traditional season for these sweet treats; enjoy the warm, festive atmosphere and fresh baking smells."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum",
+                "hu": "Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei",
+                "en": "Chocolate Museum"
+              },
+              "tip_5lang": {
+                "de": "Wenn gegen 17:00 Uhr die Sonne untergeht, beenden Sie den Tag perfekt mit einer heißen Tasse Schokolade im Warmen.",
+                "hu": "Ahogy 17:00 körül közeledik a naplemente, fejezd be a téli napot egy gazdag, gőzölgő forró csokoládéval a fűtött belső térben.",
+                "ro": "Pe măsură ce soarele apune pe la 17:00, încheiați-vă ziua de iarnă cu o cană fierbinte de ciocolată caldă în interior.",
+                "en": "As sunset approaches around 17:00, finish your winter day perfectly with a rich, steaming cup of hot cocoa indoors."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +578,224 @@
         "hu": "Kezdje a reggelt Estepa történelmi szívének felfedezésével, és gyönyörködjön a lenyűgöző panorámában az ősi erődhegyről. A békés hangulat azonnal magával ragadja.\n\nDélben merüljön el a régió gazdag kulturális örökségében. Sétáljon végig a fenséges palotákon és szakrális tereken, amelyek az andalúz nemesség fényűzését tárják elénk.\n\nA délutánt szentelje a város híresen édes örökségének. Sétáljon át a bájos tereken, mielőtt felfedezné a helyi édességek készítésének kézműves titkait.\n\nZárja a napot Estepa legendás csokoládé- és mantecado-hagyományainak megismerésével. Ez egy tökéletes, ízletes befejezése ennek az emlékezetes utazásnak.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Estepa, admirând priveliștile panoramice ample de pe vechiul deal al fortăreței. Atmosfera liniștită dă tonul zilei.\n\nLa prânz, scufundați-vă în bogăția culturală a regiunii. Plimbați-vă prin palate mărețe și spații sacre care dezvăluie opulența nobilimii andaluze de altădată.\n\nPetreceți după-amiaza descoperind faimoasa moștenire dulce a orașului. Plimbați-vă prin piețe fermecătoare înainte de a afla secretele artizanale ale dulciurilor locale.\n\nÎncheiați-vă ziua savurând tradițiile legendare de ciocolată și mantecado din Estepa. Este concluzia perfectă, plină de savoare, a unei călătorii de neuitat.",
         "en": "Start your morning exploring the historic heart of Estepa by taking in the sweeping panoramic views from the ancient fortress hill. The peaceful atmosphere sets the tone.\n\nAt midday, immerse yourself in the rich cultural tapestry of the region. Wander through grand palaces and sacred spaces that reveal the opulence of Andalusian nobility.\n\nSpend the afternoon shifting gears towards the town's famously sweet heritage. Stroll through charming plazas before uncovering the artisanal secrets of local confections.\n\nWrap up your day indulging in Estepa’s legendary chocolate and mantecado traditions. It's the perfect, flavorful conclusion to an unforgettable journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht; starten Sie langsam zum Hügel auf rutschigen Wegen und suchen Sie dann Schutz im Museum. Mittags radeln Sie vorsichtig zwischen Palästen und Museen. Den Nachmittagsschauern entgehen Sie am besten bei ausgiebigen Besuchen in den Süßwarenmuseen. Beenden Sie die Fahrt sicher und wärmen Sie sich beim Schokoladen-Tasting auf.",
+            "hu": "Az esőben való bringázás óvatosságot igényel; lassan indulj a hegy felé a csúszós utakon, majd keress gyors benti menedéket. Délben óvatosan tekerj a paloták és múzeumok között, a biztonságot tartva szem előtt. A délutáni záporokat az édességmúzeumok felfedezésével vészelheted át. Este tekerj haza biztonságban, a csokikóstoló melegével a szívedben.",
+            "ro": "Ciclismul pe ploaie necesită prudență; porniți încet spre deal pe drumurile alunecoase, apoi căutați rapid adăpost în interior. La prânz, pedalați cu grijă între muzee și palate, punând siguranța pe primul loc. Aversele de după-amiază pot fi evitate petrecând timp în muzeele dulciurilor. Încheiați cursa de seară în siguranță la căldură.",
+            "en": "Riding in the rain requires caution; start carefully towards the hill on wet, slippery paths, then seek quick refuge indoors. By noon, cycle slowly between the sacred art and the noble palaces, prioritizing safety over speed. The afternoon showers are best avoided by spending ample time in the sweet museums. Conclude your evening safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hügel San Cristóbal",
+                "hu": "San Cristóbal-hegy",
+                "ro": "Dealul San Cristóbal",
+                "en": "San Cristóbal Hill"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie früh auf den nassen Abfahrten; die Aussicht ist stimmungsvoll, aber die Reifenhaftung bei Regen geringer.",
+                "hu": "Fékezz korán a meredek, vizes lejtőkön; a panoráma hangulatos, de a gumik tapadása esőben jelentősen csökken.",
+                "ro": "Frânați devreme pe coborârile ude; priveliștea este dramatică, dar aderența anvelopelor scade mult la ploaie.",
+                "en": "Brake early on the steep, wet descents; the panoramic views are moody, but tire grip is significantly reduced in rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Sakrale Kunst",
+                "hu": "Szakrális Művészetek Múzeuma",
+                "ro": "Muzeul de Artă Sacră",
+                "en": "Museum of Sacred Art"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad möglichst unter und trocknen Sie sich drinnen ab, während Sie die religiösen Kunstwerke erkunden.",
+                "hu": "Ha lehet, parkold le a bringát fedett helyen, és szárítkozz meg odabent, miközben a vallási műalkotásokat böngészed.",
+                "ro": "Parcați bicicleta la adăpost, dacă e posibil, și uscați-vă înăuntru în timp ce explorați operele de artă religioasă.",
+                "en": "Park your bike in a sheltered spot if possible, and dry off inside while exploring the fascinating religious artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Platz Hermanas de la Cruz",
+                "hu": "Hermanas de la Cruz tér",
+                "ro": "Piața Hermanas de la Cruz",
+                "en": "Hermanas de la Cruz Square"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über das nasse Kopfsteinpflaster und bewundern Sie das Kloster nur kurz im strömenden Regen.",
+                "hu": "Óvatosan tekerj a vizes macskaköveken; csak röviden csodáld meg a kolostort, hogy ne ázz el túlságosan a záporban.",
+                "ro": "Pedalați cu grijă pe pietrele ude de aici; admirați mănăstirea pe scurt fără a sta prea mult în ploaie.",
+                "en": "Ride carefully over the wet paving stones here; admire the convent briefly without stopping too long in the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast des Markgrafen del Oro",
+                "hu": "Marques del Oro Palota",
+                "ro": "Palatul Marchizului del Oro",
+                "en": "Palace of the Marquis del Oro"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad gut ab und genießen Sie die Pracht des Palastes, ein perfekter trockener Zufluchtsort vor Schauern.",
+                "hu": "Zárd le biztonságosan a biciklit, és élvezd a palota pompáját odabent, ami tökéletes száraz menedék a záporok elől.",
+                "ro": "Legați bine bicicleta și bucurați-vă de splendoarea interioară a palatului, un refugiu uscat perfect din calea ploii.",
+                "en": "Lock your bike securely and enjoy the indoor splendor of the palace, a perfect dry haven from the unpredictable showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast der Markgrafen von Cerverales",
+                "hu": "Cerverales Márkik Palotája",
+                "ro": "Palatul Marchizilor de Cerverales",
+                "en": "Palace of the Marquises of Cerverales"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer toller Stopp im Trockenen; prüfen Sie Ihre Regenkleidung, bevor Sie nach dem Besuch wieder aufsitzen.",
+                "hu": "Újabb remek benti program; mielőtt újra nyeregbe pattansz, ellenőrizd, hogy az esőruházatod megfelelően zár-e.",
+                "ro": "Încă o oprire interioară excelentă; asigurați-vă că echipamentul de ploaie este bine închis înainte de a urca iar în șa.",
+                "en": "Another great indoor stop; ensure your rain gear is tightly fastened before getting back on the saddle after this visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantecado-Museum",
+                "hu": "Mantecado Múzeum",
+                "ro": "Muzeul Mantecado",
+                "en": "Mantecado Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre klammen Hände an frischem Gebäck; dieses Museum bietet nassen Radlern tollen Schutz und süße Belohnungen.",
+                "hu": "Melegítsd át nedves kezeidet egy friss süteménnyel; ez a múzeum remek menedéket és édes jutalmat nyújt a bringásoknak.",
+                "ro": "Încălziți-vă mâinile umede cu o prăjitură proaspătă; acest muzeu oferă un adăpost excelent bicicliștilor pe ploaie.",
+                "en": "Warm your damp hands holding a fresh pastry; this museum provides excellent shelter and sweet rewards for rainy cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum",
+                "hu": "Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei",
+                "en": "Chocolate Museum"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die nasse Fahrt mit heißer Schokolade; sorgen Sie für helle Lichter für die regnerische, dunkle Heimfahrt.",
+                "hu": "Zárd a nedves túrát egy forró csokival; hazafelé gondoskodj róla, hogy a bringalámpák a rossz látási viszonyok közt is látszanak.",
+                "ro": "Încheiați cursa cu ciocolată caldă la interior; asigurați-vă că luminile bicicletei sunt vizibile pe ploaie spre casă.",
+                "en": "End your wet ride with hot chocolate indoors; make sure your bike lights are fully visible for the rainy, low-visibility ride home."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft sorgt für eine erfrischende Fahrt am Morgen; radeln Sie den Hügel hinauf, um sich vor den Museen aufzuwärmen. Mittags fahren Sie zügig zwischen den historischen Palästen und wärmen Ihre Hände bei den Stopps im Inneren. Der Nachmittag bringt gemütliche Backdüfte in den Museen. Bei Sonnenuntergang um 17:00 Uhr sollten Sie die Tour im Warmen beenden.",
+            "hu": "A csípős téli levegő frissítő reggeli tekerést ígér; pedálozz fel a hegyre, hogy felmelegedj, mielőtt a szakrális művészetet bejárod. Délben lendületesen tekerj a történelmi paloták között, a benti megállókat kihasználva a kezeid felmelegítésére. Délután a helyi múzeumok téli süteményillata vár. Mivel a nap 17:00 körül lenyugszik, fejezd be korán a bringázást a melegben.",
+            "ro": "Aerul rece de iarnă oferă o cursă revigorantă dimineața; pedalați pe deal pentru a vă pune sângele în mișcare înainte de vizite. La prânz, pedalați rapid între palatele istorice, folosind opririle interioare pentru a vă încălzi mâinile. După-amiaza aduce mirosul prăjiturilor de iarnă la muzee. Cu apusul la 17:00, terminați cursa devreme și relaxați-vă la căldură.",
+            "en": "Crisp winter air makes for an invigorating morning ride; pedal up the hill to get your blood pumping before exploring the sacred art. By midday, cycle briskly between the historic palaces, using the indoor stops to warm your hands. The afternoon brings the comforting smells of winter baking at the local museums. With sunset at 17:00, finish your ride early indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hügel San Cristóbal",
+                "hu": "San Cristóbal-hegy",
+                "ro": "Dealul San Cristóbal",
+                "en": "San Cristóbal Hill"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe für den Aufstieg; die winterliche Aussicht von oben ist karg und atemberaubend klar.",
+                "hu": "Viselj szélálló bringás kesztyűt a szeles mászáshoz; a fenti téli kilátás zord, de lenyűgözően tiszta.",
+                "ro": "Purtați mănuși de ciclism rezistente la vânt la urcare; priveliștea de iarnă de sus este impresionant de clară.",
+                "en": "Wear windproof cycling gloves for the breezy ascent; the winter views from the top are stark and stunningly clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Sakrale Kunst",
+                "hu": "Szakrális Művészetek Múzeuma",
+                "ro": "Muzeul de Artă Sacră",
+                "en": "Museum of Sacred Art"
+              },
+              "tip_5lang": {
+                "de": "Entfliehen Sie der beißenden Kälte im Inneren; die Erkundung der Artefakte lässt Ihre Muskeln im Warmen entspannen.",
+                "hu": "Lépj be a csípős hideg elől; a műtárgyak felfedezése kiváló módja az izmok fűtött térben történő pihentetésének.",
+                "ro": "Intrați pentru a scăpa de frigul pătrunzător; explorarea artefactelor vă va ajuta să relaxați mușchii într-un spațiu încălzit.",
+                "en": "Step inside to escape the biting cold; exploring the artifacts is a great way to let your muscles relax in a heated space."
+              }
+            },
+            {
+              "name": {
+                "de": "Platz Hermanas de la Cruz",
+                "hu": "Hermanas de la Cruz tér",
+                "ro": "Piața Hermanas de la Cruz",
+                "en": "Hermanas de la Cruz Square"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie den Schal hoch, wenn Sie diesen offenen Platz überqueren; halten Sie nur kurz, um die Architektur zu bewundern.",
+                "hu": "Húzd fel magasra a sálad, miközben áttekersz ezen a nyitott téren; csak egy pillanatra állj meg gyönyörködni az épületben.",
+                "ro": "Țineți gulerul ridicat sus când traversați această piață expusă; opriți-vă scurt pentru a admira arhitectura.",
+                "en": "Keep your winter collar pulled up high while crossing this exposed square; pause briefly to admire the architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast des Markgrafen del Oro",
+                "hu": "Marques del Oro Palota",
+                "ro": "Palatul Marchizului del Oro",
+                "en": "Palace of the Marquis del Oro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen schönen Stopp im Inneren, um sich aufzuwärmen; Radfahren im Winter erfordert regelmäßige warme Pausen.",
+                "hu": "Használd ki ezt a gyönyörű benti megállót a felmelegedésre; a téli tekeréshez gyakori, fűtött szünetek kellenek a komfort érdekében.",
+                "ro": "Folosiți această oprire interioară pentru a vă încălzi; ciclismul de iarnă necesită pauze frecvente la căldură pentru confort.",
+                "en": "Use this beautiful indoor stop to regain your warmth; winter cycling requires frequent, cozy breaks to stay comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast der Markgrafen von Cerverales",
+                "hu": "Cerverales Márkik Palotája",
+                "ro": "Palatul Marchizilor de Cerverales",
+                "en": "Palace of the Marquises of Cerverales"
+              },
+              "tip_5lang": {
+                "de": "Die Steinhallen speichern die Winterkälte, behalten Sie also warme Kleidung an, während Sie barocke Details bewundern.",
+                "hu": "A kőtermek megtartják a téli hideget, így tartsd magadon a rétegeket, miközben a barokk részleteket tanulmányozod.",
+                "ro": "Sălile de piatră mențin frigul iernii, așa că păstrați straturile groase în timp ce admirați detaliile baroce.",
+                "en": "The stone halls hold the winter chill, so keep your base layers on as you admire the impressive baroque detailing."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantecado-Museum",
+                "hu": "Mantecado Múzeum",
+                "ro": "Muzeul Mantecado",
+                "en": "Mantecado Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die Hochsaison für Mantecados! Genießen Sie die festliche, belebte Atmosphäre und die Wärme der Öfen drinnen.",
+                "hu": "Ez a mantecado főszezonja! Élvezd a nyüzsgő, ünnepi benti hangulatot és a kemencék árasztotta melegséget.",
+                "ro": "Acesta este sezonul de vârf pentru mantecados! Bucurați-vă de atmosfera festivă din interior și de căldura cuptoarelor.",
+                "en": "This is the high season for mantecados! Enjoy the festive, bustling indoor atmosphere and the warmth of the ovens."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum",
+                "hu": "Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei",
+                "en": "Chocolate Museum"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich vor dem frühen Sonnenuntergang um 17:00 Uhr mit heißer Schokolade auf; schalten Sie Lichter ein.",
+                "hu": "Melegedj fel forró csokival a 17:00 órai naplemente előtt; szerelj erős lámpákat a biciklire a sötét hazautazáshoz.",
+                "ro": "Încălziți-vă cu ciocolată înainte de apusul de la 17:00; echipați-vă bicicleta cu lumini puternice spre casă.",
+                "en": "Warm up with hot chocolate as the early 17:00 sunset approaches; equip your bike with bright lights for the dark ride home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +950,196 @@
         "hu": "Kezdje a reggelt Estepa történelmi szívének felfedezésével, és gyönyörködjön a lenyűgöző panorámában az ősi erődhegyről. A békés hangulat azonnal magával ragadja.\n\nDélben merüljön el a régió gazdag kulturális örökségében. Sétáljon végig a fenséges palotákon és szakrális tereken, amelyek az andalúz nemesség fényűzését tárják elénk.\n\nA délutánt szentelje a város híresen édes örökségének. Sétáljon át a bájos tereken, mielőtt felfedezné a helyi édességek készítésének kézműves titkait.\n\nZárja a napot Estepa legendás csokoládé- és mantecado-hagyományainak megismerésével. Ez egy tökéletes, ízletes befejezése ennek az emlékezetes utazásnak.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Estepa, admirând priveliștile panoramice ample de pe vechiul deal al fortăreței. Atmosfera liniștită dă tonul zilei.\n\nLa prânz, scufundați-vă în bogăția culturală a regiunii. Plimbați-vă prin palate mărețe și spații sacre care dezvăluie opulența nobilimii andaluze de altădată.\n\nPetreceți după-amiaza descoperind faimoasa moștenire dulce a orașului. Plimbați-vă prin piețe fermecătoare înainte de a afla secretele artizanale ale dulciurilor locale.\n\nÎncheiați-vă ziua savurând tradițiile legendare de ciocolată și mantecado din Estepa. Este concluzia perfectă, plină de savoare, a unei călătorii de neuitat.",
         "en": "Start your morning exploring the historic heart of Estepa by taking in the sweeping panoramic views from the ancient fortress hill. The peaceful atmosphere sets the tone.\n\nAt midday, immerse yourself in the rich cultural tapestry of the region. Wander through grand palaces and sacred spaces that reveal the opulence of Andalusian nobility.\n\nSpend the afternoon shifting gears towards the town's famously sweet heritage. Stroll through charming plazas before uncovering the artisanal secrets of local confections.\n\nWrap up your day indulging in Estepa’s legendary chocolate and mantecado traditions. It's the perfect, flavorful conclusion to an unforgettable journey."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen ist perfekt, um direkt zu den Palästen zu fahren und vom Auto schnell in die trockenen Räume zu schlüpfen. Mittags bietet das Museum eine trockene Reise in die Vergangenheit, bevor es auf den nebligen Hügel geht. Nachmittags entkommen Sie dem Dauerregen in den Süßwarenmuseen. Beenden Sie den Abend gemütlich im Trockenen mit lokalen Schokoladen.",
+            "hu": "Az esős reggel tökéletes arra, hogy egyből a palotákhoz vezess, gyorsan átszaladva az autóból a száraz, történelmi terekbe. Délben a régészeti múzeum nyújt fedett programot, mielőtt a ködös hegyre hajtanál. Délután az édességmúzeumok fűtött kiállításai nyújtanak menedéket a kitartó eső elől. Az esős estét zárd kényelmesen, benti csokoládékóstolóval.",
+            "ro": "O dimineață ploioasă este perfectă pentru a conduce direct la palate, intrând rapid din mașină în interioarele uscate. La prânz aveți un traseu acoperit prin muzeul arheologic înainte de a urca scurt pe dealul cețos. După-amiaza, scăpați de ploaie explorând muzeele dulciurilor. Încheiați seara confortabil, în interior, cu delicatese locale de ciocolată.",
+            "en": "A rainy morning is perfect for driving directly to the grand palaces, stepping quickly from your car into the dry interiors. Midday offers an indoor journey through the archaeological museum before braving a brief, scenic drive up the misty hill. In the afternoon, escape the persistent rain by exploring the sweet museums. Finish your evening comfortably indoors with chocolate."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palast des Markgrafen del Oro",
+                "hu": "Marques del Oro Palota",
+                "ro": "Palatul Marchizului del Oro",
+                "en": "Palace of the Marquis del Oro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie möglichst nah und bringen Sie einen Regenschirm für den kurzen Sprint in die trockenen, prunkvollen Innenräume mit.",
+                "hu": "Parkolj minél közelebb szabályosan, és legyen nálad esernyő arra a rövid sprintre, amíg beérsz a pompás, száraz belső térbe.",
+                "ro": "Parcați cât mai aproape posibil și luați o umbrelă pentru scurta alergare spre interioarele opulente și uscate.",
+                "en": "Park as close as legally possible and bring a sturdy umbrella for the short dash to the dry, opulent interiors."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast der Markgrafen von Cerverales",
+                "hu": "Cerverales Márkik Palotája",
+                "ro": "Palatul Marchizilor de Cerverales",
+                "en": "Palace of the Marquises of Cerverales"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Unterschlupf; Vorsicht vor rutschigem Kopfsteinpflaster auf dem Weg vom parkenden Auto zum Eingang.",
+                "hu": "Kiváló beltéri menedék; ügyelj a csúszós macskakövekre, miközben a parkoló autóból a bejárat felé sétálsz.",
+                "ro": "Adăpost interior excelent; atenție la pietrele cubice alunecoase când mergeți de la mașina parcată până la intrare.",
+                "en": "Excellent indoor shelter; beware of slippery cobblestones when walking from your parked car to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Padre Martín Recio",
+                "hu": "Padre Martín Recio Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Padre Martín Recio",
+                "en": "Padre Martín Recio Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort, um starke Schauer abzuwarten; die Ausstellungen im Inneren schützen Sie komplett vor dem trüben Wetter.",
+                "hu": "Remek hely a heves záporok átvészelésére; a beltéri tárlat teljes védelmet nyújt a kinti komor, esős időjárás ellen.",
+                "ro": "Un loc perfect pentru a aștepta trecerea averselor; expozițiile interioare vă protejează complet de vremea mohorâtă.",
+                "en": "A great place to wait out the heavy downpours; the indoor exhibits keep you entirely protected from the gloomy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Hügel San Cristóbal",
+                "hu": "San Cristóbal-hegy",
+                "ro": "Dealul San Cristóbal",
+                "en": "San Cristóbal Hill"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig die nassen Straßen hinauf; steigen Sie nur aus, wenn der Regen für die neblige Aussicht kurz aufhört.",
+                "hu": "Vezess óvatosan a vizes, szerpentines úton; a kilátás ködös, az autóból csak akkor szállj ki, ha az eső épp alábbhagy.",
+                "ro": "Conduceți cu grijă pe drumurile ude; coborâți din mașină doar dacă ploaia se oprește scurt pentru panoramă.",
+                "en": "Drive carefully up the wet, winding roads; the view from the car is misty, so step out only if the rain briefly stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantecado-Museum",
+                "hu": "Mantecado Múzeum",
+                "ro": "Muzeul Mantecado",
+                "en": "Mantecado Museum"
+              },
+              "tip_5lang": {
+                "de": "Vergessen Sie das trübe Wetter, wenn Sie dieses warme, aromatische Museum betreten – ein perfekter Rückzugsort.",
+                "hu": "Felejtsd el a komor időjárást, amint belépsz ebbe a meleg, illatos múzeumba, mely tökéletes menedék egy esős délutánra.",
+                "ro": "Uitați de vremea mohorâtă când pășiți în acest muzeu cald și aromat, refugiul perfect pentru o după-amiază ploioasă.",
+                "en": "Forget the gloomy weather as you step inside this warm, aromatic museum, a perfect rainy afternoon retreat."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum",
+                "hu": "Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei",
+                "en": "Chocolate Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Komfort an einem Regentag bei einer Schokoladenverkostung, bevor Sie die nasse Rückfahrt antreten.",
+                "hu": "Élvezd a tökéletes esős napi kényelmet egy benti csokikóstolóval, mielőtt nekivágnál a nedves hazautazásnak.",
+                "ro": "Bucurați-vă de confortul zilei ploioase cu o degustare de ciocolată înainte de a conduce pe ploaie spre cazare.",
+                "en": "Enjoy the ultimate rainy day comfort with an indoor chocolate tasting before making the wet drive back to your accommodation."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Lassen Sie die Autoheizung am frostigen Wintermorgen an, während Sie bequem zwischen den großen Palästen fahren. Mittags erkunden Sie die Geschichte in warmen Museen, bevor Sie auf den kühlen, windigen Hügel fahren. Der Nachmittag ist den Süßwarenfabriken gewidmet, die perfekt zum Winter passen. Gegen 17:00 Uhr wird es dunkel, beenden Sie den Tag früh mit heißem Kakao.",
+            "hu": "Fűtsd be az autót a fagyos téli reggelen, miközben kényelmesen hajtasz az arisztokrata paloták között. Délben a múzeum melegében barangolhatsz a történelemben, mielőtt a szeles, hideg hegyre vezetnél a tiszta kilátásért. A délutánt a híres édességgyárak meleg, téli programjainak szenteld. Mivel 17:00 órakor már sötétedik, zárd a napot egy forró kakaóval.",
+            "ro": "Păstrați căldura pornită în mașină într-o dimineață geroasă în timp ce conduceți confortabil între palatele aristocratice. La prânz explorați istoria în interiorul încălzit al muzeului înainte de a urca cu mașina pe dealul friguros. După-amiaza este dedicată fabricilor locale de dulciuri, perfecte iarna. La apusul de pe la 17:00, încheiați ziua devreme cu cacao fierbinte.",
+            "en": "Keep the car heater on during a frosty winter morning as you drive comfortably between the grand aristocratic palaces. At noon, step inside the museum to explore history in a warm environment before driving up the chilly, wind-swept hill for crisp views. The afternoon is dedicated to the famous local sweet factories, perfectly suited for winter. With sunset at 17:00, finish the day early."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palast des Markgrafen del Oro",
+                "hu": "Marques del Oro Palota",
+                "ro": "Palatul Marchizului del Oro",
+                "en": "Palace of the Marquis del Oro"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie den Tag in diesem historischen Gebäude; ein dicker Mantel wird empfohlen, da die Steinräume zugig sein können.",
+                "hu": "Kezdd a napot ebben a történelmi épületben; a meleg kabát ajánlott, mert a hatalmas kőtermek meglehetősen huzatosak lehetnek.",
+                "ro": "Începeți ziua explorând această clădire; se recomandă o haină groasă, deoarece camerele mari de piatră pot fi răcoroase.",
+                "en": "Start the day exploring this historic building; a warm coat is still advised as the grand stone rooms can be quite drafty."
+              }
+            },
+            {
+              "name": {
+                "de": "Palast der Markgrafen von Cerverales",
+                "hu": "Cerverales Márkik Palotája",
+                "ro": "Palatul Marchizilor de Cerverales",
+                "en": "Palace of the Marquises of Cerverales"
+              },
+              "tip_5lang": {
+                "de": "Die barocken Details lassen sich am besten genießen, wenn man weiß, dass das beheizte Auto in der Nähe wartet.",
+                "hu": "A barokk részleteket sokkal jobb úgy élvezni, hogy tudod: a felfűtött autó a közelben vár a következő megállóra.",
+                "ro": "Detaliile baroce sunt mai bine savurate știind că mașina încălzită vă așteaptă aproape pentru următoarea oprire.",
+                "en": "The intricate baroque details are best enjoyed knowing your heated car is parked nearby waiting for the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum Padre Martín Recio",
+                "hu": "Padre Martín Recio Régészeti Múzeum",
+                "ro": "Muzeul Arheologic Padre Martín Recio",
+                "en": "Padre Martín Recio Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie Ihren dicken Wintermantel im Auto; das Innere des Museums ist für einen gemütlichen Besuch mittags gut beheizt.",
+                "hu": "Akár a kocsiban is hagyhatod a vastag téli kabátot; a múzeum belső tere kellemesen fűtött a déli látogatáshoz.",
+                "ro": "Lăsați haina groasă în mașină dacă doriți; interiorul muzeului este bine încălzit pentru o vizită confortabilă la prânz.",
+                "en": "Leave your heavy winter coat in the car if you prefer; the museum interior is well-heated for a comfortable midday visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Hügel San Cristóbal",
+                "hu": "San Cristóbal-hegy",
+                "ro": "Dealul San Cristóbal",
+                "en": "San Cristóbal Hill"
+              },
+              "tip_5lang": {
+                "de": "Öffnen Sie die Fenster für frische Winterluft und klare Fotos, ohne zu lange im beißenden Wind stehen zu müssen.",
+                "hu": "Húzd le az ablakot egy kis frissítő téli levegőért és a tiszta fotókért, így nem kell sokáig a metsző szélben állnod.",
+                "ro": "Deschideți geamurile pentru aerul rece de iarnă și fotografii clare, fără a sta prea mult în vântul tăios.",
+                "en": "Roll down the windows for a bracing blast of winter air and crystal-clear photos without standing too long in the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Mantecado-Museum",
+                "hu": "Mantecado Múzeum",
+                "ro": "Muzeul Mantecado",
+                "en": "Mantecado Museum"
+              },
+              "tip_5lang": {
+                "de": "Dies ist die traditionelle Winterzeit für diese Süßigkeiten; treten Sie aus der Kälte in eine warme Umgebung voller Backdüfte.",
+                "hu": "Ez az édességek hagyományos téli szezonja; lépj be a hidegből a nyüzsgő, meleg és édes süteményillatú környezetbe.",
+                "ro": "Acesta este sezonul de iarnă tradițional pentru aceste dulciuri; pășiți din frig într-un mediu cald plin de arome dulci.",
+                "en": "This is the traditional winter season for these sweets; step from the cold into a bustling, warm environment full of sweet baking aromas."
+              }
+            },
+            {
+              "name": {
+                "de": "Schokoladenmuseum",
+                "hu": "Csokoládémúzeum",
+                "ro": "Muzeul Ciocolatei",
+                "en": "Chocolate Museum"
+              },
+              "tip_5lang": {
+                "de": "Wenn die Sonne um 17:00 Uhr untergeht, krönen Sie den Winterausflug mit heißer Schokolade, bevor Sie im Dunkeln fahren.",
+                "hu": "Mivel 17:00 körül lemegy a nap, koronázd meg a téli autózást egy gőzölgő forró csokival, mielőtt a sötétben hazavezetnél.",
+                "ro": "Odată cu apusul de la 17:00, încheiați plimbarea de iarnă cu o cană de ciocolată fierbinte înainte de a conduce acasă pe întuneric.",
+                "en": "With sunset arriving near 17:00, cap off your winter road trip with a steaming cup of hot chocolate before driving back in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

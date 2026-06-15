@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt Martos történelmi szívében, a régi ferences kolostor tizenhatodik századi kapujánál. Délben kapaszkodjon fel a Miradorhoz a csodás kilátásért, majd fedezze fel a várat. A délutánt a Santa Marta templom lenyűgöző építészetének szentelje. Zárja az estét az ikonikus Fuente de la Villa kútnál, élvezve a nyugodt andalúz hangulatot.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Martos, la poarta vechii mănăstiri franciscane. La amiază, urcați spre Mirador pentru a admira livezile de măslini și castelul. Petreceți după-amiaza admirând arhitectura bisericii Santa Marta și absorbind cultura locală. Încheiați seara relaxant la faimoasa fântână Fuente de la Villa.",
         "en": "Begin your morning exploring the historic heart of Martos, focusing on the 16th-century Franciscan gateway. By midday, climb up towards the Mirador to enjoy sweeping views of the olive groves before discovering the majestic castle keep. Spend your afternoon admiring the intricate architecture of the Santa Marta church. Conclude your evening at the Fuente de la Villa."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter dem schützenden Barockportal von San Francisco. Mittags bietet der Aussichtspunkt trotz Regen eine mystische Sicht auf das neblige Umland, während feste Sohlen auf den nassen Steinen wichtig sind. Den Nachmittag verbringen wir in den dicken Mauern des Turms und der Kirche. Der Abend klingt ruhig an der Villa-Quelle aus, wo das Regenprasseln die Stille untermalt.",
+            "hu": "A reggel a San Francisco kapu barokk ívei alatt indul, védelmet nyújtva az eső elől. Délben a kilátó ködös, drámai panorámát kínál az olajfaligetekre; ügyeljünk a csúszós macskakövekre. A délutánt az öregtorony és a templom belső tereiben töltjük, távol a záportól. Az este a Villa kútjánál ér véget, ahol az eső kopogása különleges hangulatot áraszt.",
+            "ro": "Dimineața începe sub arcadele baroce de la San Francisco, oferind adăpost împotriva burniței. La prânz, punctul de belvedere dezvăluie un peisaj mistic peste livezile de măslini; atenție la pavajul umed. După-amiaza este dedicată turnului și bisericii, refugii perfecte împotriva ploii. Seara se încheie liniștit la fântâna Vilei, unde sunetul ploii completează atmosfera.",
+            "en": "Morning starts under the Baroque arches of San Francisco, offering grand shelter from the drizzle. By noon, the viewpoint reveals a dramatic, misty landscape of olive trees, though the path requires careful footing. The afternoon is spent inside the Tower of Homage and Santa Marta Church, where the rain becomes a distant hum. Evening settles softly by the Villa Fountain under your umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Barockes Portal des San Francisco",
+                "hu": "San Francisco kolostor barokk kapuja",
+                "ro": "Poarta barocă San Francisco",
+                "en": "Baroque Portal of San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die feinen Steinhauerarbeiten direkt unter dem schützenden Torbogen; idealer Ort, um die Regenjacke in Ruhe festzuzurren.",
+                "hu": "Csodálja meg a finom kőfaragásokat közvetlenül a védelmet nyújtó kapualj alatt; ideális hely az esőkabát megigazítására a séta előtt.",
+                "ro": "Admirați sculpturile fine în piatră direct sub arcada protectoare; este locul ideal pentru a vă ajusta pelerina de ploaie în liniște.",
+                "en": "Admire the fine stonework while standing directly under the protective archway; it is the perfect spot to adjust your raincoat before moving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt",
+                "hu": "Kilátó",
+                "ro": "Punct de belvedere",
+                "en": "Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der Nebel über den Olivenhainen erzeugt eine fast magische Stimmung; achten Sie auf den Stufen auf rutschfeste Sohlen und festen Halt.",
+                "hu": "Az olajfaligetek feletti köd mágikus hangulatot áraszt; a lépcsőkön használja a korlátot és ügyeljen a csúszós, vizes felületekre.",
+                "ro": "Ceața peste livezile de măslini creează o atmosferă magică; pe trepte folosiți balustrada și aveți grijă la suprafețele umede și alunecoase.",
+                "en": "The mist over the olive groves creates a magical atmosphere; use the handrails on the steps and be careful of slippery, wet surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgturm der Villa",
+                "hu": "A villa öregtornya",
+                "ro": "Turnul Castelului",
+                "en": "Tower of Homage"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungsräume im Inneren, die eine trockene Zeitreise ermöglichen; die massiven Mauern halten jedes Unwetter draußen.",
+                "hu": "Fedezze fel a belső kiállítótereket, amelyek száraz időutazást kínálnak; a masszív falak minden vihart és esőt megbízhatóan kívül tartanak.",
+                "ro": "Explorați spațiile expoziționale din interior care oferă o călătorie în timp la adăpost; zidurile masive țin ploaia afară cu succes.",
+                "en": "Explore the indoor exhibition spaces which offer a dry journey through time; the massive walls reliably keep any storm and rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marta Kirche",
+                "hu": "Santa Marta templom",
+                "ro": "Biserica Santa Marta",
+                "en": "Church of Santa Marta"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille und die religiöse Kunst in diesem prachtvollen Innenraum; klopfen Sie den Schirm vor dem Eintreten gut draußen ab.",
+                "hu": "Élvezze a csendet és a vallási művészetet ebben a pompás belső térben; belépés előtt alaposan rázza le az esernyőjét a bejáratnál.",
+                "ro": "Bucurați-vă de liniște și artă religioasă în acest interior splendid; înainte de a intra, scuturați bine umbrela la poartă.",
+                "en": "Enjoy the silence and religious art in this splendid interior; remember to shake your umbrella thoroughly at the entrance before going in."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum San Juan de Dios",
+                "hu": "San Juan de Dios kulturális terem",
+                "ro": "Sala culturală San Juan de Dios",
+                "en": "San Juan de Dios Cultural Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Ort für eine kulturelle Pause im Trockenen; nutzen Sie die Zeit, um die Geschichte Martos' ohne nasse Füße zu studieren.",
+                "hu": "Kiváló helyszín egy kulturális pihenőhöz szárazon; használja ki az időt Martos történelmének tanulmányozására, amíg odakint esik.",
+                "ro": "Un loc excelent pentru o pauză culturală la uscat; profitați de timp pentru a studia istoria orașului Martos în timp ce afară plouă.",
+                "en": "An excellent spot for a cultural break in the dry; use the time to study the history of Martos while waiting for the rain to stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa-Brunnen",
+                "hu": "A Villa kútja",
+                "ro": "Fântâna Vilei",
+                "en": "Fountain of the Villa"
+              },
+              "tip_5lang": {
+                "de": "Das Wasser des Brunnens vermischt sich mit dem Regen zu einer beruhigenden Kulisse; wasserfeste Schuhe sind für diesen Platz unerlässlich.",
+                "hu": "A kút vize és az eső kopogása megnyugtató háttérzajt alkot; a tér kövezete vizesen csúszhat, így viseljen jól tapadó talpú lábbelit.",
+                "ro": "Apa fântânii și sunetul ploii creează un fundal relaxant; pavajul pieței poate fi alunecos, așa că purtați încălțăminte cu talpă aderentă.",
+                "en": "The fountain's water and the patter of rain create a soothing backdrop; the square's pavement can be slippery, so wear shoes with good grip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am San Francisco Portal weckt die Lebensgeister. Mittags wärmt die tiefstehende andalusische Sonne am Aussichtspunkt, während die klare Luft weite Sichten ermöglicht. Nachmittags bieten der Turm und die Kirche kühlen, aber windgeschützten Aufenthalt. Ab 17:00 Uhr sinken die Temperaturen rasch; der Abend am Brunnen erfordert warme Kleidung.",
+            "hu": "A friss téli reggel a San Francisco kapunál életerővel tölti fel az utazót. Délben a kilátónál az alacsonyan járó andalúz nap melenget, a tiszta levegő pedig távoli panorámát enged. Délután a torony és a templom szélvédett belső tereit keressük fel. 17:00 után a hőmérséklet hirtelen csökken, a kútnál töltött estéhez már vastag kabát és sál szükséges.",
+            "ro": "O dimineață răcoroasă de iarnă la San Francisco vă trezește simțurile. La prânz, soarele andaluz de joasă altitudine vă încălzește la belvedere, oferind vizibilitate maximă. După-amiaza căutăm interiorul protejat al turnului și al bisericii. După ora 17:00 temperaturile scad brusc; seara la fântână necesită haine groase și un fular călduros.",
+            "en": "A crisp winter morning at San Francisco Portal energizes the soul. By noon, the low Andalusian sun warms the viewpoint, offering exceptionally clear views. Afternoon is best for visiting the wind-sheltered tower and church. Temperatures drop quickly after 17:00; an evening at the fountain requires warm layers and a scarf."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Barockes Portal des San Francisco",
+                "hu": "San Francisco kolostor barokk kapuja",
+                "ro": "Poarta barocă San Francisco",
+                "en": "Baroque Portal of San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Die Morgensonne beleuchtet den Stein in einem warmen Goldton; ziehen Sie sich warm an, da es in den schmalen Gassen zugig sein kann.",
+                "hu": "A reggeli napfény meleg arany tónusban világítja meg a követ; öltözzön rétegesen, mert a szűk utcákban hűvös huzat várható.",
+                "ro": "Soarele de dimineață luminează piatra într-un ton auriu cald; îmbrăcați-vă în straturi, deoarece pe străzile înguste poate fi curent.",
+                "en": "The morning sun illuminates the stone in a warm golden tone; dress in layers as narrow streets can be quite draughty in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt",
+                "hu": "Kilátó",
+                "ro": "Punct de belvedere",
+                "en": "Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Winterluft ist extrem klar und bietet eine Sicht bis zu den fernen Gipfeln; ein heißer Tee aus der Thermoskanne ist hier perfekt.",
+                "hu": "A téli levegő rendkívül tiszta, így a távoli hegycsúcsokig is ellátni; egy termosz meleg tea tökéletes kísérő ezen a ponton.",
+                "ro": "Aerul de iarnă este extrem de clar, oferind vizibilitate până la vârfurile îndepărtate; un termos cu ceai cald este companionul ideal aici.",
+                "en": "The winter air is extremely clear, offering views as far as the distant peaks; a thermos of hot tea is a perfect companion at this spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgturm der Villa",
+                "hu": "A villa öregtornya",
+                "ro": "Turnul Castelului",
+                "en": "Tower of Homage"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm, und oben angekommen schützt die Brüstung vor dem Wind; genießen Sie das weiche Winterlicht für Fotos.",
+                "hu": "A felfelé vezető út mozgásban tart, a tetőn pedig a bástyafalak védenek a széltől; használja ki a lágy téli fényeket a fotózáshoz.",
+                "ro": "Urcarea vă va ține de cald, iar sus zidurile vă protejează de vânt; profitați de lumina blândă de iarnă pentru fotografii superbe.",
+                "en": "The climb will keep you warm, and once at the top, the battlements protect you from the wind; use the soft winter light for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marta Kirche",
+                "hu": "Santa Marta templom",
+                "ro": "Biserica Santa Marta",
+                "en": "Church of Santa Marta"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern speichern die Kälte, aber es ist windstill; bewundern Sie das Altarbild in der feierlichen, ruhigen Winteratmosphäre.",
+                "hu": "A vastag falak őrzik a hideget, de bent teljes a szélcsend; csodálja meg a főoltárt a templom ünnepi és nyugodt téli áhítatában.",
+                "ro": "Zidurile groase păstrează frigul, dar în interior nu adie vântul; admirați altarul principal în atmosfera solemnă de iarnă.",
+                "en": "The thick walls retain the cold, but it's completely windless inside; admire the altarpiece in the solemn and quiet winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum San Juan de Dios",
+                "hu": "San Juan de Dios kulturális terem",
+                "ro": "Sala culturală San Juan de Dios",
+                "en": "San Juan de Dios Cultural Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen geschlossenen Raum, um sich kurz aufzuwärmen; die Ausstellungen lenken wunderbar von den sinkenden Temperaturen ab.",
+                "hu": "Használja ki ezt a zárt teret egy rövid felmelegedésre; a kiállítások remekül elterelik a figyelmet a kinti csökkenő hőmérsékletről.",
+                "ro": "Folosiți acest spațiu închis pentru o scurtă încălzire; expozițiile distrag atenția de la temperaturile scăzute de afară.",
+                "en": "Take advantage of this enclosed space for a quick warm-up; the exhibitions are a great distraction from the dropping outdoor temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa-Brunnen",
+                "hu": "A Villa kútja",
+                "ro": "Fântâna Vilei",
+                "en": "Fountain of the Villa"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 17:30 Uhr an diesem Brunnen; ziehen Sie Mütze und Handschuhe an, wenn die Sonne weg ist.",
+                "hu": "Élje át a korai, 17:30 körüli naplementét a kútnál; amint lemegy a nap, vegye fel a sapkát és a kesztyűt a hirtelen lehűlés miatt.",
+                "ro": "Priviți apusul timpuriu în jurul orei 17:30 lângă fântână; puneți-vă căciula și mănușile imediat ce soarele dispare din cauza frigului.",
+                "en": "Experience the early sunset around 17:30 at this fountain; put on your hat and gloves as soon as the sun disappears to stay warm."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Kezdje a biciklis reggelt a fenséges Pilar de la Fuente Nueva emlékművénél. Délben tekerjen el a szép regionalista kúriák mellett a Régészeti Múzeumig. Délután kapaszkodjon fel a várhoz és az elegáns Santa Marta templomhoz a lenyűgöző látványért. Ahogy közeledik az este, guruljon le a San Amador templomhoz a fények megcsodálásához.",
         "ro": "Începeți dimineața pe bicicletă la maiestuosul Pilar de la Fuente Nueva. La amiază, treceți pe lângă frumoasele conace regionaliste spre Muzeul de Arheologie. După-amiaza, pedalați spre castel și biserica Santa Marta pentru priveliști uimitoare. Odată cu lăsarea serii, coborâți la biserica San Amador pentru a vă bucura de asfințitul andaluz.",
         "en": "Start your cycling morning at the majestic Pilar de la Fuente Nueva monument. Midday brings you past beautiful regionalist mansions to the Archaeological Museum for ancient history. In the afternoon, pedal up toward the castle and the elegant Santa Marta church for breathtaking sights. As evening falls, roll down to San Amador church to soak in the fading light."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Radtag startet vorsichtig am Fuente Nueva Pfeiler. Mittags bietet das Museum eine willkommene Pause vom Regen. Die Route führt über nasse Asphaltstraßen, die erhöhte Aufmerksamkeit beim Bremsen erfordern. Nachmittags besuchen wir geschützte Kirchen und den Turm. Der Abend endet am San Amador, wobei reflektierende Kleidung bei schlechter Sicht unerlässlich ist.",
+            "hu": "A kerékpáros nap óvatosan indul a Fuente Nueva oszlopnál. Délben a múzeum nyújt menedéket a zápor elől. Az útvonal vizes aszfalton vezet, ami fokozott figyelmet igényel a fékezéskor. Délután fedett templomokat és a tornyot látogatjuk meg. Az este a San Amador templomnál zárul, a láthatóság miatt ilyenkor a fényvisszaverő ruházat kötelező.",
+            "ro": "Ziua pe bicicletă începe cu prudență la stâlpul Fuente Nueva. La prânz, muzeul oferă un refugiu binevenit. Traseul trece pe asfalt umed, ceea ce necesită atenție sporită la frânare. După-amiaza vizităm biserici protejate și turnul. Seara se încheie la San Amador; purtați îmbrăcăminte reflectorizantă pentru vizibilitate redusă pe ploaie.",
+            "en": "The cycling day starts cautiously at the Fuente Nueva pillar. By noon, the museum provides a welcome shelter from the showers. The route follows wet asphalt roads, requiring extra care when braking. Afternoon is spent at protected churches and the tower. Evening ends at San Amador; reflective gear is essential for the low visibility conditions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pilar de la Fuente Nueva",
+                "hu": "Pilar de la Fuente Nueva",
+                "ro": "Pilar de la Fuente Nueva",
+                "en": "Pilar de la Fuente Nueva"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie hier Ihre Bremsen auf dem nassen Untergrund; die historische Quelle bietet kurzzeitigen Schutz unter den Vorsprüngen.",
+                "hu": "Ellenőrizze itt a fékeit a vizes talajon; a történelmi kút környékén rövid időre menedéket találhat az eső elől a kiugrók alatt.",
+                "ro": "Verificați frânele pe terenul umed; zona din jurul fântânii istorice oferă adăpost temporar sub cornișe în caz de ploaie.",
+                "en": "Check your brakes on the wet ground here; the historic fountain area offers temporary shelter under the ledges during a downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Regionalistisches Haus",
+                "hu": "Regionalista ház",
+                "ro": "Casă regionalistă",
+                "en": "Regionalist House"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade kurz vom Rad aus, ohne lange im Regen zu stehen; achten Sie auf rutschige Gullydeckel in der Fahrspur.",
+                "hu": "Csodálja meg a homlokzatot röviden a nyeregből, ne álljon sokat az esőben; ügyeljen a csúszós csatornafedelekre az úttesten.",
+                "ro": "Admirați fațada scurt de pe bicicletă fără a sta mult în ploaie; aveți grijă la gurile de canal alunecoase de pe carosabil.",
+                "en": "Admire the facade briefly from your bike to avoid staying in the rain; watch out for slippery manhole covers on the road surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und nutzen Sie den Museumsbesuch als ausgedehnte Trockenpause; bewundern Sie die römischen Mosaike drinnen.",
+                "hu": "Parkolja le biztonságosan a biciklit, és használja a múzeumi látogatást egy hosszú, száraz pihenőre; csodálja meg a római mozaikokat.",
+                "ro": "Parcați bicicleta în siguranță și folosiți vizita la muzeu pentru o pauză lungă la uscat; admirați mozaicurile romane din interior.",
+                "en": "Park your bike securely and use the museum visit for an extended dry break; admire the Roman mosaics and artifacts in the shelter."
+              }
+            },
+            {
+              "name": {
+                "de": "Barockes Portal des San Francisco",
+                "hu": "San Francisco kolostor barokk kapuja",
+                "ro": "Poarta barocă San Francisco",
+                "en": "Baroque Portal of San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Torbogen für einen schnellen Check Ihrer Regenbekleidung; die Steinmetzarbeiten wirken im Regen besonders kontrastreich.",
+                "hu": "Használja a kapualjat az esőruházat gyors ellenőrzésére; a kőfaragások az esőben különösen kontrasztosnak és sötétnek tűnnek.",
+                "ro": "Folosiți arcada porții pentru o verificare rapidă a echipamentului de ploaie; sculpturile par mai contrastante în lumina ploioasă.",
+                "en": "Use the archway for a quick check of your rain gear; the stonework looks particularly contrasting and dark in the rainy light."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marta Kirche",
+                "hu": "Santa Marta templom",
+                "ro": "Biserica Santa Marta",
+                "en": "Church of Santa Marta"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Fahrrad fest an und treten Sie ein, um die prachtvolle Innenausstattung im Trockenen zu bewundern; idealer Regenschutz.",
+                "hu": "Zárja le biztonságosan a biciklit és lépjen be a belső térbe; a templom tökéletes védelmet nyújt egy hirtelen jött nagyobb zápor ellen.",
+                "ro": "Încuiați bicicleta în siguranță și intrați; interiorul bisericii oferă protecție perfectă împotriva unei averse bruște de ploaie.",
+                "en": "Lock your bike securely and step inside; the church provides perfect protection against a sudden downpour while you enjoy the art."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgturm der Villa",
+                "hu": "A villa öregtornya",
+                "ro": "Turnul Castelului",
+                "en": "Tower of Homage"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg ist auf nassem Pflaster anstrengend, aber der Innenraum des Turms belohnt Sie mit trockenem, historischem Ambiente.",
+                "hu": "A felfelé vezető út vizes köveken fárasztó, de a torony belső terei száraz, történelmi környezettel jutalmazzák a kitartását.",
+                "ro": "Urcarea pe pietre umede este obositoare, dar interiorul turnului vă recompensează cu un mediu istoric uscat și interesant.",
+                "en": "The climb on wet stones is taxing, but the tower's interior rewards your persistence with a dry, historic environment to explore."
+              }
+            },
+            {
+              "name": {
+                "de": "San Amador Kirche",
+                "hu": "San Amador templom",
+                "ro": "Biserica San Amador",
+                "en": "Church of San Amador"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour hier und achten Sie beim Absteigen auf rutschigen Untergrund; nutzen Sie Ihre Fahrradbeleuchtung bei Regen.",
+                "hu": "Fejezze be itt a túrát, leszálláskor ügyeljen a csúszós talajra; esőben a rossz látási viszonyok miatt használja a lámpákat.",
+                "ro": "Încheiați turul aici și aveți grijă la solul alunecos când coborâți; folosiți luminile bicicletei din cauza vizibilității reduse.",
+                "en": "End your tour here and be careful of slippery ground when dismounting; use your bike lights due to the poor visibility in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start mit dem Rad am Fuente Nueva Pfeiler. Mittags wärmt die Sonne beim Besuch des Regionalistischen Hauses und des Museums. Da die Luft trocken und kalt ist, empfiehlt sich Funktionskleidung gegen den Fahrtwind. Der Nachmittag an der Santa Marta Kirche und dem Turm bietet klare Weitsichten. Der Abend bricht früh an; am San Amador ist gute Beleuchtung wichtig.",
+            "hu": "Hűvös reggeli rajt a Fuente Nueva oszlopnál. Délben a nap melenget a Regionalista háznál és a múzeumnál tett látogatás során. Mivel a levegő száraz és hideg, a menetszél ellen technikai ruházat ajánlott. A délután a Santa Marta templomnál és a toronynál tiszta panorámát kínál. Az este korán érkezik, a San Amador templomnál már fontos a jó világítás.",
+            "ro": "Start răcoros la stâlpul Fuente Nueva. La prânz, soarele vă încălzește în timpul vizitei la casa regionalistă și la muzeu. Aerul fiind rece, se recomandă haine tehnice împotriva vântului. După-amiaza la biserica Santa Marta și la turn oferă o panoramă clară. Seara vine devreme; la biserica San Amador aveți nevoie de un sistem de iluminare bun.",
+            "en": "A chilly morning start by bike at the Fuente Nueva pillar. By noon, the sun warms you during visits to the Regionalist House and museum. Since the air is cold, technical gear is recommended against the wind. The afternoon at Santa Marta Church and the tower offers clear views. Evening arrives early; good lighting is essential at San Amador."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pilar de la Fuente Nueva",
+                "hu": "Pilar de la Fuente Nueva",
+                "ro": "Pilar de la Fuente Nueva",
+                "en": "Pilar de la Fuente Nueva"
+              },
+              "tip_5lang": {
+                "de": "Die Kühle am Morgen erfordert Handschuhe für den Start; bewundern Sie die Monumentalität der Renaissance-Quelle im klaren Licht.",
+                "hu": "A reggeli hűvös időben kesztyű javasolt az induláshoz; csodálja meg a reneszánsz kút monumentalitását a tiszta téli fényben.",
+                "ro": "În răcoarea dimineții se recomandă mănuși pentru start; admirați monumentalitatea fântânii renascentiste în lumina clară de iarnă.",
+                "en": "In the cool morning, gloves are recommended for starting; admire the monumentality of the Renaissance fountain in the clear light."
+              }
+            },
+            {
+              "name": {
+                "de": "Regionalistisches Haus",
+                "hu": "Regionalista ház",
+                "ro": "Casă regionalistă",
+                "en": "Regionalist House"
+              },
+              "tip_5lang": {
+                "de": "Die Fassade leuchtet in der Mittagssonne besonders schön; halten Sie nur kurz an, um nicht durch den kalten Wind auszukühlen.",
+                "hu": "A homlokzat a déli napsütésben különösen szépen ragyog; csak rövid időre álljon meg, hogy ne hűljön le a hideg menetszélben.",
+                "ro": "Fațada strălucește deosebit de frumos în soarele de la prânz; opriți-vă doar scurt pentru a nu vă răci în vântul rece.",
+                "en": "The facade shines beautifully in the midday sun; stop only briefly to avoid getting too cold from the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch, um Ihre Hände und Füße aufzuwärmen; die Innentemperatur ist angenehm für eine ausgiebige Besichtigung.",
+                "hu": "Használja ki a múzeumi látogatást a kezek és lábak felmelegítésére; a belső hőmérséklet kellemes egy hosszabb nézelődéshez.",
+                "ro": "Folosiți vizita la muzeu pentru a vă încălzi mâinile și picioarele; temperatura interioară este plăcută pentru o vizită lungă.",
+                "en": "Use the museum visit to warm up your hands and feet; the indoor temperature is pleasant for an extensive look at the exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Barockes Portal des San Francisco",
+                "hu": "San Francisco kolostor barokk kapuja",
+                "ro": "Poarta barocă San Francisco",
+                "en": "Baroque Portal of San Francisco"
+              },
+              "tip_5lang": {
+                "de": "Das tiefstehende Sonnenlicht betont die barocken Reliefs; tragen Sie ein Stirnband unter dem Helm gegen die Kälte an den Ohren.",
+                "hu": "Az alacsonyan járó napfény kiemeli a barokk domborműveket; viseljen vékony fülvédőt a sisak alatt a hideg szél elleni védelemért.",
+                "ro": "Lumina soarelui de joasă altitudine subliniază reliefurile baroce; purtați o bandană sub cască pentru a vă proteja urechile.",
+                "en": "The low sunlight emphasizes the Baroque reliefs; wear a thin headband under your helmet to protect your ears from the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Santa Marta Kirche",
+                "hu": "Santa Marta templom",
+                "ro": "Biserica Santa Marta",
+                "en": "Church of Santa Marta"
+              },
+              "tip_5lang": {
+                "de": "Das Kircheninnere ist ein windstiller Rückzugsort; bewundern Sie die Details in Ruhe, bevor die Sonne am Nachmittag tiefer sinkt.",
+                "hu": "A templom belső tere szélvédett menedék; csodálja meg a részleteket nyugodtan, mielőtt a nap délután még lejjebb ereszkedne.",
+                "ro": "Interiorul bisericii este un refugiu ferit de vânt; admirați detaliile în liniște înainte ca soarele să apună mai mult după-amiaza.",
+                "en": "The church interior is a wind-sheltered sanctuary; admire the details calmly before the sun begins to set further in the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgturm der Villa",
+                "hu": "A villa öregtornya",
+                "ro": "Turnul Castelului",
+                "en": "Tower of Homage"
+              },
+              "tip_5lang": {
+                "de": "Der Blick über die schneefreien Olivenhaine bis zu den fernen Sierras ist im Winter am klarsten; oben ist es oft sehr windig.",
+                "hu": "A hótalan olajfaligetek feletti kilátás a távoli Sierrákig télen a legtisztább; a torony tetején gyakran erős szél fúj.",
+                "ro": "Priveliștea peste livezile de măslini până la Sierras este cea mai clară iarna; în vârful turnului vântul suflă adesea cu putere.",
+                "en": "The view over the olive groves to the distant Sierras is clearest in winter; it is often very windy at the top of the tower."
+              }
+            },
+            {
+              "name": {
+                "de": "San Amador Kirche",
+                "hu": "San Amador templom",
+                "ro": "Biserica San Amador",
+                "en": "Church of San Amador"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour vor 18:00 Uhr, da es danach sehr schnell kalt wird; prüfen Sie Ihre Beleuchtung für den Heimweg im Dunkeln.",
+                "hu": "Fejezze be a túrát 18:00 előtt, mert utána hirtelen lehűl a levegő; ellenőrizze a lámpákat a sötétben való hazatéréshez.",
+                "ro": "Încheiați turul înainte de ora 18:00 deoarece temperatura scade brusc; verificați luminile pentru drumul spre casă pe întuneric.",
+                "en": "Finish the tour before 18:00 as it gets cold very quickly afterwards; check your lights for the journey home in the dark."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -537,6 +945,252 @@
         "hu": "A reggeli autózás az ókeresztény templomnál indul, mielőtt a Pilar de la Fuente Nueva felé venné az irányt. Délben látogassa meg a színházat és a Régészeti Múzeum kiállításait. A délután a felsővárosé, ahol felfedezheti az öregtornyot és a kilátót. Az este tökéletesen zárul a történelmi Fuente de la Villa kútnál, a hangulatos utcák ölelésében.",
         "ro": "Călătoria de dimineață începe la Biserica Paleocreștină, înainte de a vă îndrepta spre grandiosul Pilar de la Fuente Nueva. La amiază vizitați teatrul local și Muzeul de Arheologie. După-amiaza este rezervată orașului de sus, unde explorați turnul castelului și admirați priveliștile de la Mirador. Seara se încheie perfect la istorica fântână Fuente de la Villa.",
         "en": "Your morning drive begins at the fascinating Paleochristian Church before heading to the grand Pilar de la Fuente Nueva. Midday allows you to visit the local theater and immerse yourself in artifacts at the Archaeological Museum. The afternoon is reserved for the spectacular upper town, exploring the castle keep and admiring the views from the Mirador. Evening concludes at the Fuente de la Villa."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Autotour beginnt entspannt an der frühchristlichen Kirche. Mittags bieten das Theater und das Museum ideale, regensichere Aufenthalte. Bei den Fahrten durch die Stadt ist auf Aquaplaning und schlechte Sicht zu achten. Nachmittags genießen wir die Aussicht vom Auto aus. Der Abend klingt im trockenen San Juan de Dios Saal und am beleuchteten Brunnen stimmungsvoll aus.",
+            "hu": "Az autós túra kényelmesen indul az ókeresztény templomnál. Délben a színház és a múzeum ideális, esőmentes helyszíneket kínál. A városi utakon vezessen óvatosan a vizes aszfalton és a rosszabb látási viszonyok között. Délután a kilátónál akár az autóból is gyönyörködhet. Az este a száraz San Juan de Dios teremben és a megvilágított kútnál ér véget.",
+            "ro": "Turul cu mașina începe relaxat la biserica paleocreștină. La prânz, teatrul și muzeul oferă opriri ideale ferite de ploaie. Conduceți cu atenție pe drumurile umede din oraș din cauza vizibilității reduse. După-amiaza vă puteți bucura de belvedere chiar din mașină. Seara se încheie în sala San Juan de Dios și la fântâna iluminată.",
+            "en": "The car tour begins comfortably at the Paleochristian church. By noon, the theater and museum provide ideal, rain-proof stops. Drive carefully through the city due to wet roads and reduced visibility. In the afternoon, enjoy the views even from inside the car. The evening ends at the dry San Juan de Dios Hall and the beautifully lit fountain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Frühchristliche Kirche",
+                "hu": "Ókeresztény templom",
+                "ro": "Biserica Paleocreștină",
+                "en": "Paleochristian Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; bewundern Sie die antiken Fundamente in der trockenen Stille.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást; csodálja meg az antik alapokat a templom száraz csendjében.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; admirați fundațiile antice în liniștea uscată a bisericii.",
+                "en": "Park as close to the entrance as possible to avoid getting wet; admire the ancient foundations in the dry silence of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Pilar de la Fuente Nueva",
+                "hu": "Pilar de la Fuente Nueva",
+                "ro": "Pilar de la Fuente Nueva",
+                "en": "Pilar de la Fuente Nueva"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die Renaissance-Quelle zu sehen; lassen Sie die Scheibenwischer auf Intervall, um freie Sicht zu behalten.",
+                "hu": "Egy rövid megálló is elég a reneszánsz kút megtekintéséhez; hagyja az ablaktörlőt szakaszos üzemmódon a tiszta kilátás érdekében.",
+                "ro": "O oprire scurtă este suficientă pentru a vedea fântâna; lăsați ștergătoarele pe modul intermitent pentru o vizibilitate clară.",
+                "en": "A short stop is enough to see the Renaissance fountain; keep your wipers on intermittent mode to maintain a clear view of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Theater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um dem Regen für eine Stunde zu entfliehen; die moderne Architektur bietet einen tollen Kontrast zum grauen Himmel.",
+                "hu": "Tökéletes helyszín, hogy egy órára elmeneküljön az eső elől; a modern építészet remek kontrasztot alkot a kinti szürke égbolttal.",
+                "ro": "Locul perfect pentru a scăpa de ploaie timp de o oră; arhitectura modernă oferă un contrast excelent cu cerul gri de afară.",
+                "en": "A perfect spot to escape the rain for an hour; the modern architecture provides a great contrast to the grey sky outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Museum für eine ausgiebige Besichtigung im Trockenen; Parkplätze befinden sich meist in bequemer Gehdistanz.",
+                "hu": "Használja ki a múzeumot egy alapos, száraz nézelődésre; a parkolóhelyek kényelmes sétatávolságra találhatók a bejárattól.",
+                "ro": "Profitați de muzeu pentru o vizită detaliată la uscat; locurile de parcare se află la o distanță de mers pe jos de intrare.",
+                "en": "Take advantage of the museum for a thorough visit in the dry; parking spaces are usually within a comfortable walking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt",
+                "hu": "Kilátó",
+                "ro": "Punct de belvedere",
+                "en": "Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick direkt aus dem Auto, falls es zu stark regnet; die Nebelschwaden über den Tälern sind sehr fotogen.",
+                "hu": "Élvezze a panorámát közvetlenül az autóból, ha túl erősen esne az eső; a völgyek feletti ködfoltok rendkívül fotogének.",
+                "ro": "Bucurați-vă de panoramă direct din mașină dacă plouă prea tare; fâșiile de ceață de deasupra văilor sunt foarte fotogenice.",
+                "en": "Enjoy the panoramic view directly from your car if it rains too hard; the patches of mist over the valleys are very photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgturm der Villa",
+                "hu": "A villa öregtornya",
+                "ro": "Turnul Castelului",
+                "en": "Tower of Homage"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die engen Zufahrtswege bei Nässe; im Inneren des Turms sind Sie sicher vor dem Regen und können Geschichte erleben.",
+                "hu": "Ügyeljen a szűk bekötőutakra vizes időben; a torony belsejében biztonságban lesz az esőtől, miközben átéli a történelmet.",
+                "ro": "Atenție la drumurile de acces înguste pe timp de ploaie; în interiorul turnului veți fi feriți de ploaie în timp ce explorați istoria.",
+                "en": "Be careful on the narrow access roads in wet weather; inside the tower, you'll be safe from the rain while experiencing history."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum San Juan de Dios",
+                "hu": "San Juan de Dios kulturális terem",
+                "ro": "Sala culturală San Juan de Dios",
+                "en": "San Juan de Dios Cultural Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer kultureller Stopp im Trockenen; nutzen Sie die Zeit für die Ausstellung, während das Auto sicher geparkt ist.",
+                "hu": "Egy újabb kulturális megálló szárazon; használja ki az időt a kiállítás megtekintésére, amíg az autó biztonságban parkol.",
+                "ro": "O altă oprire culturală la uscat; profitați de timp pentru a vedea expoziția în timp ce mașina este parcată în siguranță.",
+                "en": "Another cultural stop in the dry; take your time to see the exhibition while the car is parked safely nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa-Brunnen",
+                "hu": "A Villa kútja",
+                "ro": "Fântâna Vilei",
+                "en": "Fountain of the Villa"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit einem Blick auf den Brunnen im Regen; achten Sie beim Aussteigen auf tiefe Pfützen am Fahrbahnrand.",
+                "hu": "Zárja a napot a kút látványával az esőben; kiszálláskor ügyeljen az útszéli mélyebb tócsákra és a csúszós útpadkára.",
+                "ro": "Încheiați ziua cu vederea fântânii pe timp de ploaie; la coborâre, aveți grijă la bălțile adânci de la marginea drumului.",
+                "en": "End the day with the sight of the fountain in the rain; be careful of deep puddles at the roadside when getting out of the car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Autotour startet angenehm geheizt an der frühchristlichen Kirche. Mittags laden das Theater und das Museum zum Verweilen in gut temperierten Räumen ein. Die klare Wintersonne bietet beim Fahren tolle Lichtspiele auf den Olivenhügeln. Nachmittags ist die Aussicht vom Turm besonders weit. Da es ab 17:30 Uhr dunkel und kalt wird, ist die Tour im Auto ideal.",
+            "hu": "A túra kellemesen fűtött autóban indul az ókeresztény templomnál. Délben a színház és a múzeum jól temperált terei hívogatnak hosszabb látogatásra. A tiszta téli napsütés vezetés közben gyönyörű fényjátékot vet az olajfaligetekre. Délután a toronyból a kilátás különösen messzire nyúlik. Mivel 17:30 után sötét és hideg lesz, az autós túra ideális választás.",
+            "ro": "Turul începe într-o mașină încălzită la biserica paleocreștină. La prânz, teatrul și muzeul vă invită în spații bine temperate. Soarele clar de iarnă creează jocuri de lumină superbe pe dealurile cu măslini în timp ce conduceți. După-amiaza, vizibilitatea de la turn este maximă. Deoarece se face frig după 17:30, turul cu mașina este ideal.",
+            "en": "The tour starts in a comfortably heated car at the Paleochristian church. By noon, the theater and museum offer well-tempered spaces for long visits. The clear winter sun creates beautiful light effects on the olive hills as you drive. Afternoon views from the tower are exceptionally far. As it gets dark and cold after 17:30, a car tour is the ideal choice."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Frühchristliche Kirche",
+                "hu": "Ókeresztény templom",
+                "ro": "Biserica Paleocreștină",
+                "en": "Paleochristian Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Sitzheizung zwischen den Stopps; die Kirche bietet eine andächtige, wenn auch kühle Atmosphäre im Wintermorgen.",
+                "hu": "Használja az ülésfűtést a megállók között; a templom áhítatos, bár téli reggeleken kissé hűvös légkört áraszt a látogatóknak.",
+                "ro": "Folosiți încălzirea în scaune între opriri; biserica oferă o atmosferă pioasă, deși destul de răcoroasă în diminețile de iarnă.",
+                "en": "Use the seat heating between stops; the church offers a devout, albeit somewhat chilly, atmosphere on winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Pilar de la Fuente Nueva",
+                "hu": "Pilar de la Fuente Nueva",
+                "ro": "Pilar de la Fuente Nueva",
+                "en": "Pilar de la Fuente Nueva"
+              },
+              "tip_5lang": {
+                "de": "Das Renaissance-Monument wirkt im klaren Winterlicht besonders scharfkantig; lassen Sie den Motor nicht unnötig im Leerlauf laufen.",
+                "hu": "A reneszánsz emlékmű a tiszta téli fényben különösen éles kontúrokkal látszik; ne járassa feleslegesen a motort a megálló alatt.",
+                "ro": "Monumentul renascentist apare cu contururi foarte clare în lumina iernii; nu lăsați motorul pornit inutil în timpul opririi.",
+                "en": "The Renaissance monument looks particularly sharp in the clear winter light; avoid idling your engine unnecessarily during the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Städtisches Theater",
+                "hu": "Városi Színház",
+                "ro": "Teatrul Municipal",
+                "en": "Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Heizung des Theaters ist ein Segen an kalten Tagen; bewundern Sie das Design, während Sie sich komplett aufwärmen.",
+                "hu": "A színház modern fűtése áldás a hideg napokon; csodálja meg a designt, miközben lehetősége van teljesen felmelegedni bent.",
+                "ro": "Încălzirea modernă a teatrului este o binecuvântare în zilele reci; admirați designul în timp ce aveți ocazia să vă încălziți.",
+                "en": "The theater's modern heating is a blessing on cold days; admire the design while taking the opportunity to warm up completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Archäologisches Museum",
+                "hu": "Régészeti Múzeum",
+                "ro": "Muzeul de Arheologie",
+                "en": "Archaeological Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für die Mittagszeit, da es drinnen angenehm warm ist; Parkplätze sind auch im Winter meist nah und gut erreichbar.",
+                "hu": "Ideális helyszín a déli órákra, mert bent kellemes meleg van; a parkolók télen is közel és jól elérhetően találhatók.",
+                "ro": "Un loc ideal pentru orele prânzului, deoarece în interior este cald; parcările sunt aproape și ușor accesibile chiar și iarna.",
+                "en": "An ideal spot for midday as it's pleasantly warm inside; parking is usually close and easily accessible even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt",
+                "hu": "Kilátó",
+                "ro": "Punct de belvedere",
+                "en": "Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht auf die Sierras ist im Winter unschlagbar; bleiben Sie im Auto und genießen Sie den Blick bei laufender Heizung.",
+                "hu": "A kilátás a Sierrákra télen verhetetlen a tiszta levegő miatt; maradjon az autóban és élvezze a panorámát bekapcsolt fűtés mellett.",
+                "ro": "Priveliștea spre Sierras este imbatabilă iarna datorită aerului curat; rămâneți în mașină și savurați panorama cu căldura pornită.",
+                "en": "The view of the Sierras is unbeatable in winter due to the clear air; stay in the car and enjoy the panorama with the heater on."
+              }
+            },
+            {
+              "name": {
+                "de": "Burgturm der Villa",
+                "hu": "A villa öregtornya",
+                "ro": "Turnul Castelului",
+                "en": "Tower of Homage"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich vor dem Aussteigen warm an, da der Wind am Turm eisig sein kann; die winterliche Beleuchtung ist ideal für Fotos.",
+                "hu": "Kiszállás előtt öltözzön fel jól, mert a szél a toronynál jeges lehet; a téli megvilágítás tökéletes a várról készített fotókhoz.",
+                "ro": "Îmbrăcați-vă bine înainte de a coborî, deoarece vântul la turn poate fi înghețat; lumina de iarnă este perfectă pentru fotografii.",
+                "en": "Dress warmly before getting out, as the wind at the tower can be icy; the winter lighting is perfect for photos of the fortress."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum San Juan de Dios",
+                "hu": "San Juan de Dios kulturális terem",
+                "ro": "Sala culturală San Juan de Dios",
+                "en": "San Juan de Dios Cultural Hall"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den geschützten Raum für einen letzten kulturellen Input vor dem Abend; die Innentemperatur lädt zum Verweilen ein.",
+                "hu": "Használja ki a védett belső teret egy utolsó kulturális programra este előtt; a belső hőmérséklet hívogató a nézelődéshez.",
+                "ro": "Folosiți spațiul interior protejat pentru un ultim program cultural înainte de seară; temperatura interioară este primitoare.",
+                "en": "Take advantage of the protected interior for one last cultural stop before evening; the indoor temperature is very inviting."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa-Brunnen",
+                "hu": "A Villa kútja",
+                "ro": "Fântâna Vilei",
+                "en": "Fountain of the Villa"
+              },
+              "tip_5lang": {
+                "de": "Nach Sonnenuntergang wird es im Auto am gemütlichsten; betrachten Sie den beleuchteten Brunnen kurz bei einem warmen Getränk.",
+                "hu": "Naplemente után az autóban a legkellemesebb; tekintse meg a megvilágított kutat egy meleg ital társaságában a túra végén.",
+                "ro": "După apus, în mașină este cel mai plăcut; priviți fântâna iluminată cu o băutură caldă în mână la finalul turului.",
+                "en": "After sunset, the car is the cosiest place to be; view the illuminated fountain while enjoying a hot drink at the tour's end."
+              }
+            }
+          ]
+        }
       }
     }
   }

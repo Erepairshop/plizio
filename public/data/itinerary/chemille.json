@@ -160,6 +160,196 @@
         "hu": "Kezdje a napot Chemillé szívében, fedezze fel a pompás templomot és a történelmi kastélyromokat, amelyek gazdag múltról mesélnek.\n\nFolytassa sétáját a Camifolia botanikus kertbe, ahol gyógynövények között pihenhet, és teljes mértékben élvezheti a természetet.\n\nDélután fedezze fel a L'Arbre à Fil kulturális helyszínt, és csodálja meg a bájos Saint-Pierre templomot egyedülálló, békés hangulatával.\n\nZárja a napot kényelmesen a Le Val d'Hyrôme birtokon, sétáljon végig a történelmi területen, és élvezze a régió esti nyugalmát.",
         "ro": "Începeți-vă ziua în inima orașului Chemillé, explorând biserica magnifică și ruinele istorice ale castelului care spun povestea unui trecut bogat.\n\nContinuați plimbarea spre grădina botanică Camifolia, unde vă puteți relaxa printre plante medicinale și vă puteți bucura din plin de natură.\n\nDupă-amiaza descoperiți situl cultural L'Arbre à Fil și admirați fermecătoarea biserică Saint-Pierre cu atmosfera sa unică și pașnică.\n\nÎncheiați ziua confortabil la Le Val d'Hyrôme, plimbați-vă prin complexul istoric și bucurați-vă de liniștea serii din regiune.",
         "en": "Start your day in the heart of Chemillé, exploring the magnificent church and the historical castle ruins that tell the story of a rich past.\n\nContinue your walk to the Camifolia botanical garden, where you can relax among medicinal plants and fully enjoy the beauty of nature.\n\nIn the afternoon, discover the cultural site L'Arbre à Fil and admire the charming Saint-Pierre Church with its uniquely peaceful atmosphere.\n\nEnd the day comfortably at Le Val d'Hyrôme, stroll through the historic grounds, and enjoy the evening tranquility of the region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen geschützt in der Kirche, während der Regen gegen die Fenster prasselt. Mittags bieten die Gartenpavillons Schutz, doch die Wege zur Burgruine können rutschig sein. Am Nachmittag ist das Kulturzentrum der ideale Ort, um dem Dauerregen zu entfliehen und Kunst im Trockenen zu genießen. Abends wirkt das Hyrôme-Tal im Nebel mystisch, erfordert aber festes, wasserdichtes Schuhwerk.",
+            "hu": "A reggelt kezdje a templom oltalmában, miközben az eső kopog a tetőn. Délben a kert pavilonjai nyújtanak menedéket, de a várromokhoz vezető út csúszós lehet. Délután a kulturális központ a legjobb választás, hogy szárazon élvezze a helyi kiállításokat. Este a ködbe burkolózó Hyrôme-völgy látványa lenyűgöző, de a vízálló bakancs és az esernyő elengedhetetlen a sárban.",
+            "ro": "Începeți dimineața la adăpost în biserică, în timp ce ploaia bate în geamuri. La prânz, pavilioanele grădinii oferă refugiu, dar cărările spre ruinele castelului pot fi alunecoase. După-amiaza, centrul cultural este locul ideal pentru a scăpa de ploaie și a explora arta la uscat. Seara, valea Hyrôme pare mistică în ceață, dar necesită încălțăminte impermeabilă solidă.",
+            "en": "Start your morning sheltered in the church as the rain drums against the windows. At noon, the garden pavilions provide cover, but the paths to the castle ruins can be slippery. In the afternoon, the cultural center is the perfect spot to escape the downpour and enjoy art in the dry. By evening, the Hyrôme valley looks mystical in the mist, but sturdy waterproof boots are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame la Neuve Church",
+                "hu": "Notre-Dame la Neuve Church",
+                "ro": "Notre-Dame la Neuve Church",
+                "en": "Notre-Dame la Neuve Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille im Kirchenschiff, um dem Regen zu entkommen, und bewundern Sie die Details der Architektur ganz in Ruhe.",
+                "hu": "Használja ki a templom belső terének nyugalmát az eső elől menekülve, és csodálja meg az építészeti részleteket szárazon.",
+                "ro": "Profitați de liniștea din naos pentru a scăpa de ploaie și admirați detaliile arhitecturale în deplină liniște.",
+                "en": "Take advantage of the peace inside the nave to escape the rain and admire the architectural details in total comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Chemillé Castle Ruins",
+                "hu": "Chemillé Castle Ruins",
+                "ro": "Chemillé Castle Ruins",
+                "en": "Chemillé Castle Ruins"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie vorsichtig auf den nassen Steinen der Ruine; die Aussicht auf die glänzenden Dächer der Stadt lohnt sich trotz des Wetters.",
+                "hu": "Legyen óvatos a romok nedves kövein; a város fénylő tetőire nyíló kilátás az eső ellenére is megéri a sétát.",
+                "ro": "Aveți grijă pe pietrele ude ale ruinelor; priveliștea asupra acoperișurilor lucioase ale orașului merită efortul în ciuda vremii.",
+                "en": "Be careful on the wet stones of the ruins; the view of the city's glistening rooftops is worth the effort despite the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Camifolia Garden",
+                "hu": "Camifolia Garden",
+                "ro": "Camifolia Garden",
+                "en": "Camifolia Garden"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie die überdachten Bereiche der Heilpflanzenausstellung auf, wo Sie die Düfte der Natur auch bei Regen intensiv wahrnehmen können.",
+                "hu": "Keresse fel a gyógynövény-kiállítás fedett részeit, ahol az esőben még intenzívebben érezheti a természet illatait.",
+                "ro": "Căutați zonele acoperite ale expoziției de plante medicinale, unde puteți simți aromele naturii intens chiar și pe ploaie.",
+                "en": "Visit the covered areas of the medicinal plant exhibition where you can experience nature's scents intensely even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Arbre à Fil",
+                "hu": "L'Arbre à Fil",
+                "ro": "L'Arbre à Fil",
+                "en": "L'Arbre à Fil"
+              },
+              "tip_5lang": {
+                "de": "Dieser kulturelle Raum ist der perfekte Zufluchtsort; genießen Sie die Ausstellungen, während draußen der Regen die Stadt wäscht.",
+                "hu": "Ez a kulturális tér tökéletes menedék; élvezze a kiállításokat, miközben kint az eső mossa a várost.",
+                "ro": "Acest spațiu cultural este refugiul perfect; bucurați-vă de expoziții în timp ce afară ploaia spală orașul.",
+                "en": "This cultural space is the perfect sanctuary; enjoy the exhibitions while the rain washes the city outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Die Vorhalle bietet einen schnellen Schutz vor plötzlichen Schauern; treten Sie ein, um die warmen Farben der Glasfenster zu sehen.",
+                "hu": "Az előcsarnok gyors védelmet nyújt a hirtelen záporok elől; lépjen be, hogy lássa az üvegablakok meleg színeit.",
+                "ro": "Pridvorul oferă protecție rapidă împotriva averselor bruște; intrați pentru a vedea culorile calde ale vitraliilor.",
+                "en": "The porch offers quick shelter from sudden showers; step inside to see the warm colors of the stained glass windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Val d'Hyrôme",
+                "hu": "Le Val d'Hyrôme",
+                "ro": "Le Val d'Hyrôme",
+                "en": "Le Val d'Hyrôme"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich an die befestigten Wege im Tal, da der Boden aufweichen kann; der Blick auf den Fluss ist im Regen besonders dramatisch.",
+                "hu": "Tartsa magát a kövezett utakhoz a völgyben, mert a talaj felázhat; a folyó látványa esőben különösen drámai.",
+                "ro": "Rămâneți pe potecile pavate din vale, deoarece solul poate deveni noroios; vederea râului este dramatică pe ploaie.",
+                "en": "Stick to the paved paths in the valley as the ground can get muddy; the view of the river is particularly dramatic in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Kirche, ziehen Sie sich warm an für den Fußweg. Mittags liegt eine ruhige Kälte über den Schlossruinen, die im fahlen Licht besonders imposant wirken. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Gärten früh besuchen. Den späten Nachmittag verbringen Sie am besten in den beheizten Innenräumen der kulturellen Stationen.",
+            "hu": "A téli reggel frissen indul a templomnál, öltözzön rétegesen a sétához. Délben csendes hideg üli meg a várromokat, melyek a fakó fényben különösen impozánsak. Mivel a nap 17:00 körül nyugszik, érdemes korán ellátogatni a kertekbe. A késő délutánt töltse a kulturális megállók fűtött belső tereiben, élvezve a helyi vendégszeretetet.",
+            "ro": "Dimineața de iarnă începe proaspăt la biserică; îmbrăcați-vă bine pentru plimbare. La prânz, un frig liniștit stăpânește ruinele castelului, care par impunătoare în lumina palidă. Deoarece soarele apune în jur de ora 17:00, vizitați grădinile devreme. Petreceți după-amiaza târzie în spațiile interioare încălzite ale stațiilor culturale.",
+            "en": "The winter morning starts fresh at the church; dress warmly for the walk. At noon, a quiet chill hangs over the castle ruins, which look particularly imposing in the pale light. Since the sun sets around 17:00, you should visit the gardens early. Spend the late afternoon in the heated interiors of the cultural stops to stay cozy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Notre-Dame la Neuve Church",
+                "hu": "Notre-Dame la Neuve Church",
+                "ro": "Notre-Dame la Neuve Church",
+                "en": "Notre-Dame la Neuve Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern bieten Schutz vor dem Winterwind; bewundern Sie die Krippe, falls Sie zur Weihnachtszeit kommen.",
+                "hu": "A vastag kőfalak védelmet nyújtanak a téli szél elől; ha karácsony környékén jár itt, csodálja meg a betlehemi jászolt.",
+                "ro": "Zidurile groase de piatră oferă protecție împotriva vântului de iarnă; admirați ieslea dacă vizitați în perioada Crăciunului.",
+                "en": "The thick stone walls provide shelter from the winter wind; admire the nativity scene if you visit during the Christmas season."
+              }
+            },
+            {
+              "name": {
+                "de": "Chemillé Castle Ruins",
+                "hu": "Chemillé Castle Ruins",
+                "ro": "Chemillé Castle Ruins",
+                "en": "Chemillé Castle Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die frostigen Mauern der Ruine wirken im Winterlicht wie aus einem Märchen; tragen Sie Handschuhe beim Erklimmen der Aussichtspunkte.",
+                "hu": "A romok fagyos falai a téli fényben mesebelien hatnak; viseljen kesztyűt, amikor felkapaszkodik a kilátópontokra.",
+                "ro": "Zidurile înghețate ale ruinelor par de basm în lumina iernii; purtați mănuși când urcați spre punctele de belvedere.",
+                "en": "The frosty walls of the ruins look like a fairytale in the winter light; wear gloves when climbing to the viewpoints."
+              }
+            },
+            {
+              "name": {
+                "de": "Camifolia Garden",
+                "hu": "Camifolia Garden",
+                "ro": "Camifolia Garden",
+                "en": "Camifolia Garden"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die winterharte Flora und genießen Sie die klare Luft; die geometrischen Formen des Gartens kommen ohne Blätter gut zur Geltung.",
+                "hu": "Fedezze fel a télálló flórát és élvezze a tiszta levegőt; a kert mértani formái levelek nélkül is jól érvényesülnek.",
+                "ro": "Descoperiți flora rezistentă la iarnă și bucurați-vă de aerul curat; formele geometrice ale grădinii ies în evidență fără frunze.",
+                "en": "Discover the winter-hardy flora and enjoy the crisp air; the garden's geometric shapes stand out beautifully without leaves."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Arbre à Fil",
+                "hu": "L'Arbre à Fil",
+                "ro": "L'Arbre à Fil",
+                "en": "L'Arbre à Fil"
+              },
+              "tip_5lang": {
+                "de": "Ein wunderbarer Ort zum Aufwärmen am Nachmittag; nutzen Sie die kulturelle Atmosphäre für eine Pause vom Winterwetter.",
+                "hu": "Csodálatos hely a délutáni felmelegedéshez; használja ki a kulturális atmoszférát egy kis szünetre a téli hidegben.",
+                "ro": "Un loc minunat pentru a vă încălzi după-amiaza; profitați de atmosfera culturală pentru o pauză de la frigul iernii.",
+                "en": "A wonderful place to warm up in the afternoon; take advantage of the cultural atmosphere for a break from the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor Sonnenuntergang um 17 Uhr, wenn das schwindende Licht die Atmosphäre im Inneren vertieft.",
+                "hu": "Látogasson el a templomba röviddel a 17 órai naplemente előtt, amikor a fogyó fény elmélyíti a belső tér hangulatát.",
+                "ro": "Vizitați biserica cu puțin timp înainte de apusul de la ora 17:00, când lumina slabă accentuează atmosfera din interior.",
+                "en": "Visit the church shortly before the 17:00 sunset, when the fading light deepens the interior atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Val d'Hyrôme",
+                "hu": "Le Val d'Hyrôme",
+                "ro": "Le Val d'Hyrôme",
+                "en": "Le Val d'Hyrôme"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang durch das gefrorene Tal bietet stille Naturerlebnisse; achten Sie auf glatte Stellen an den Flussufern.",
+                "hu": "Egy séta a fagyott völgyben csendes természetélményt nyújt; ügyeljen a jeges foltokra a folyópart mentén.",
+                "ro": "O plimbare prin valea înghețată oferă o experiență liniștită în natură; atenție la porțiunile înghețate de pe malul râului.",
+                "en": "A walk through the frozen valley offers a quiet nature experience; watch out for icy patches along the riverbanks."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -360,6 +550,252 @@
         "hu": "Pattanjon kerékpárra, és fedezze fel a kastélyromokat, valamint a Notre-Dame la Neuve templomot a város nyüzsgő központjában.\n\nAz út tovább vezet a gyönyörű Camifolia kerthez és a kreatív L'Arbre à Fil térhez, amelyek ideális helyszínek egy inspiráló pihenéshez.\n\nFedezze fel a Saint-Pierre templomot, és tekerjen a fenséges Le Val d'Hyrôme felé, hogy mélyebben elmerüljön a környék történelmi örökségében.\n\nEste kerékpározzon el a távoli L'Écho és Salbœuf kastélyokhoz, ahol egy látványos kulissza előtt élvezheti a naplementét.",
         "ro": "Urcați-vă pe bicicletă și explorați ruinele castelului, precum și biserica Notre-Dame la Neuve în centrul plin de viață al orașului.\n\nPlimbarea vă duce mai departe la frumoasa grădină Camifolia și la spațiul creativ L'Arbre à Fil, locuri ideale pentru o pauză inspiratoare.\n\nExplorați biserica Saint-Pierre și pedalați către maiestuosul Le Val d'Hyrôme pentru a pătrunde mai adânc în moștenirea istorică a zonei.\n\nSeara pedalați spre castelele izolate L'Écho și Salbœuf, unde puteți experimenta apusul soarelui pe un fundal spectaculos.",
         "en": "Hop on your bike and explore the castle ruins as well as the Notre-Dame la Neuve Church in the bustling center of the town.\n\nThe ride takes you further to the beautiful Camifolia garden and the creative space L'Arbre à Fil, ideal places for an inspiring break.\n\nExplore the Saint-Pierre Church and ride towards the majestic Le Val d'Hyrôme to delve deeper into the area's rich historical heritage.\n\nIn the evening, cycle to the secluded castles of L'Écho and Salbœuf, where you can experience the sunset against a spectacular backdrop."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den glatten Straßen von Chemillé. Starten Sie morgens bei den Ruinen, aber bremsen Sie frühzeitig vor Kurven. Mittags bieten die Kirchen trockene Pausenstopps für Radfahrer. Nachmittags ist die Fahrt zum Hyrôme-Tal durch den Regen erfrischend, sofern Sie wasserfeste Kleidung tragen. Beenden Sie die Tour vor der Dunkelheit wegen der Sichtverhältnisse.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel Chemillé csúszós útjain. Kezdjen reggel a romoknál, de fékezzen időben a kanyarok előtt. Délben a templomok száraz pihenőt kínálnak a kerékpárosoknak. Délután a Hyrôme-völgy felé vezető út frissítő az esőben, ha van vízálló ruházata. A látási viszonyok miatt fejezze be a túrát sötétedés előtt.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile alunecoase din Chemillé. Începeți dimineața la ruine, dar frânați din timp înainte de curbe. La prânz, bisericile oferă opriri uscate pentru bicicliști. După-amiaza, drumul spre valea Hyrôme este revigorant în ploaie, dacă aveți haine impermeabile. Încheiați turul înainte de lăsarea întunericului.",
+            "en": "Cycling in the rain requires caution on the slippery streets of Chemillé. Start in the morning at the ruins, but brake early before turns. At noon, the local churches offer dry rest stops for cyclists. In the afternoon, the ride to the Hyrôme valley is refreshing in the rain, provided you have waterproof gear. Finish your tour before dark due to low visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chemillé Castle Ruins",
+                "hu": "Chemillé Castle Ruins",
+                "ro": "Chemillé Castle Ruins",
+                "en": "Chemillé Castle Ruins"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher am Fuß der Ruine; die nassen Pflastersteine können für Fahrradschuhe sehr rutschig sein.",
+                "hu": "Parkolja le biztonságosan a biciklijét a romok lábánál; a nedves macskakövek a kerékpáros cipőknek nagyon csúszósak lehetnek.",
+                "ro": "Parcați bicicleta în siguranță la baza ruinelor; pietrele cubice ude pot fi foarte alunecoase pentru pantofii de ciclism.",
+                "en": "Park your bike safely at the base of the ruins; the wet cobblestones can be very slippery for cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame la Neuve Church",
+                "hu": "Notre-Dame la Neuve Church",
+                "ro": "Notre-Dame la Neuve Church",
+                "en": "Notre-Dame la Neuve Church"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften und die historische Stille des Innenraums zu genießen.",
+                "hu": "Ideális hely a vízálló ruházat rövid átszellőztetésére és a belső tér történelmi csendjének élvezetére.",
+                "ro": "Un loc ideal pentru a aerisi scurt hainele de ploaie și pentru a vă bucura de liniștea istorică a interiorului.",
+                "en": "An ideal spot to briefly air out your rain gear and enjoy the historic silence of the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Camifolia Garden",
+                "hu": "Camifolia Garden",
+                "ro": "Camifolia Garden",
+                "en": "Camifolia Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Gartenwege sind gut befestigt, aber achten Sie auf Pfützen; die Pflanzen glänzen im Regen besonders schön.",
+                "hu": "A kerti utak jól kiépítettek, de ügyeljen a tócsákra; a növények az esőben különösen szépen fénylenek.",
+                "ro": "Potecile din grădină sunt bine amenajate, dar atenție la bălți; plantele strălucesc deosebit de frumos în ploaie.",
+                "en": "The garden paths are well-maintained, but watch out for puddles; the plants glisten beautifully in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Arbre à Fil",
+                "hu": "L'Arbre à Fil",
+                "ro": "L'Arbre à Fil",
+                "en": "L'Arbre à Fil"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für eine längere Trockenpause; der kulturelle Austausch lässt Sie das schlechte Wetter vergessen.",
+                "hu": "Használja ki a megállót egy hosszabb száraz pihenőre; a kulturális élmény elfeledteti Önnel a rossz időt.",
+                "ro": "Folosiți oprirea pentru o pauză mai lungă la uscat; schimbul cultural vă va face să uitați de vremea rea.",
+                "en": "Use this stop for a longer dry break; the cultural exchange will make you forget about the bad weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Die Nähe zum Stadtzentrum macht diesen Stopp zu einem praktischen Schutzpunkt bei plötzlichen Wolkenbrüchen.",
+                "hu": "A városközpont közelsége miatt ez a megálló praktikus menedékhely hirtelen felhőszakadások idején.",
+                "ro": "Apropierea de centrul orașului face din această oprire un punct de adăpost practic în caz de averse bruște.",
+                "en": "The proximity to the town center makes this stop a practical shelter during sudden cloudbursts."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Val d'Hyrôme",
+                "hu": "Le Val d'Hyrôme",
+                "ro": "Le Val d'Hyrôme",
+                "en": "Le Val d'Hyrôme"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den kurvigen Wegen ins Tal; der Fluss führt bei Regen oft mehr Wasser und wirkt wilder.",
+                "hu": "Vezessen óvatosan a völgybe vezető kanyargós utakon; esőben a folyó gyakran több vizet szállít és vadabbnak tűnik.",
+                "ro": "Conduceți cu prudență pe drumurile șerpuite spre vale; râul are adesea un debit mai mare și pare mai sălbatic pe ploaie.",
+                "en": "Ride carefully on the winding paths into the valley; the river often carries more water and looks wilder in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Écho",
+                "hu": "L'Écho",
+                "ro": "L'Écho",
+                "en": "L'Écho"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht hier aus; die dunklen Regenwolken bilden einen tollen Kontrast zur Architektur.",
+                "hu": "Egy rövid fotómegálló is elég itt; a sötét esőfelhők remek kontrasztot alkotnak az épülettel.",
+                "ro": "O scurtă oprire pentru fotografii este suficientă aici; norii negri de ploaie creează un contrast excelent cu arhitectura.",
+                "en": "A short photo stop is enough here; the dark rain clouds provide a great contrast to the architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Salbœuf",
+                "hu": "Salbœuf",
+                "ro": "Salbœuf",
+                "en": "Salbœuf"
+              },
+              "tip_5lang": {
+                "de": "Die letzte Etappe kann anstrengend sein; achten Sie auf spritzendes Wasser von vorbeifahrenden Fahrzeugen.",
+                "hu": "Az utolsó szakasz fárasztó lehet; ügyeljen az elhaladó járművek által felvert vízre.",
+                "ro": "Ultima etapă poate fi obositoare; atenție la apa împroșcată de vehiculele care trec pe lângă dumneavoastră.",
+                "en": "The final stretch can be tiring; watch out for splashing water from passing vehicles."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Chemillé bietet klare Sichten und frische Luft. Starten Sie morgens warm eingepackt bei den Ruinen. Mittags ist die Kälte in den Gärten spürbar, planen Sie daher kurze Intervalle ein. Da es ab 17:00 Uhr dunkel wird, sollten Sie Ihre Lichter am Fahrrad prüfen. Die Tour endet am besten mit einem Besuch der beheizten Schlösser und Kirchen im Stadtgebiet.",
+            "hu": "A téli kerékpározás Chemillében tiszta kilátást és friss levegőt kínál. Induljon reggel melegen felöltözve a romoktól. Délben a hideg érezhető a kertekben, ezért tervezzen rövid szakaszokat. Mivel 17:00-tól sötétedik, ellenőrizze a kerékpár lámpáit. A túrát legcélszerűbb a város fűtött kastélyainak és templomainak meglátogatásával zárni.",
+            "ro": "Ciclismul de iarnă în Chemillé oferă priveliști clare și aer proaspăt. Începeți dimineața bine înfofoliți la ruine. La prânz, frigul este sesizabil în grădini, așa că planificați intervale scurte. Deoarece se întunecă de la ora 17:00, verificați luminile bicicletei. Turul se încheie cel mai bine cu vizitarea castelelor și bisericilor încălzite.",
+            "en": "Winter cycling in Chemillé offers clear views and fresh air. Start in the morning bundled up warmly at the ruins. At noon, the cold is noticeable in the gardens, so plan for short intervals. Since it gets dark from 17:00, check your bike lights. The tour best ends with a visit to the heated castles and churches in the urban area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chemillé Castle Ruins",
+                "hu": "Chemillé Castle Ruins",
+                "ro": "Chemillé Castle Ruins",
+                "en": "Chemillé Castle Ruins"
+              },
+              "tip_5lang": {
+                "de": "Die kalte Morgenluft macht die Aussicht besonders weit; tragen Sie eine winddichte Jacke für die Abfahrt.",
+                "hu": "A hideg reggeli levegőben különösen messzire ellátni; viseljen szélálló kabátot a lejtőkhöz.",
+                "ro": "Aerul rece al dimineții face priveliștea deosebit de clară; purtați o jachetă rezistentă la vânt pentru coborâre.",
+                "en": "The cold morning air makes the view particularly far-reaching; wear a windproof jacket for the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame la Neuve Church",
+                "hu": "Notre-Dame la Neuve Church",
+                "ro": "Notre-Dame la Neuve Church",
+                "en": "Notre-Dame la Neuve Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Innenraum für eine kurze Aufwärmpause, bevor Sie die Fahrt durch das winterliche Stadtgebiet fortsetzen.",
+                "hu": "Használja ki a belső teret egy rövid felmelegedésre, mielőtt folytatná az utat a téli városrészen keresztül.",
+                "ro": "Folosiți interiorul pentru o scurtă pauză de încălzire înainte de a continua drumul prin orașul înghețat.",
+                "en": "Use the interior for a short warm-up break before continuing your ride through the wintry urban area."
+              }
+            },
+            {
+              "name": {
+                "de": "Camifolia Garden",
+                "hu": "Camifolia Garden",
+                "ro": "Camifolia Garden",
+                "en": "Camifolia Garden"
+              },
+              "tip_5lang": {
+                "de": "Der Garten ist im Winter ruhig und leer; ideal für eine meditative Radpause zwischen den kahlen Beeten.",
+                "hu": "A kert télen csendes és üres; ideális egy meditatív pihenőre a kopár ágyások között.",
+                "ro": "Grădina este liniștită și goală iarna; ideală pentru o pauză meditativă între straturile de plante golașe.",
+                "en": "The garden is quiet and empty in winter; ideal for a meditative cycling break among the bare flowerbeds."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Arbre à Fil",
+                "hu": "L'Arbre à Fil",
+                "ro": "L'Arbre à Fil",
+                "en": "L'Arbre à Fil"
+              },
+              "tip_5lang": {
+                "de": "Dies ist der wärmste Punkt Ihrer Tour; gönnen Sie sich Zeit, um die Finger wieder beweglich zu machen.",
+                "hu": "Ez a túra legmelegebb pontja; adjon magának időt, hogy ujjai újra mozgékonyak legyenek a hideg után.",
+                "ro": "Acesta este cel mai călduros punct al turului; acordați-vă timp pentru a vă recăpăta mobilitatea degetelor.",
+                "en": "This is the warmest point of your tour; give yourself time to get your fingers moving again after the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Das frühe Abendlicht verleiht der Kirche einen goldenen Schimmer; stellen Sie sicher, dass Ihre Fahrradbeleuchtung aktiv ist.",
+                "hu": "A kora esti fény aranyos csillogást kölcsönöz a templomnak; győződjön meg róla, hogy a kerékpárvilágítása be van kapcsolva.",
+                "ro": "Lumina serii timpurii oferă bisericii o strălucire aurie; asigurați-vă că luminile bicicletei sunt active.",
+                "en": "The early evening light gives the church a golden glow; make sure your bike lighting is active."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Val d'Hyrôme",
+                "hu": "Le Val d'Hyrôme",
+                "ro": "Le Val d'Hyrôme",
+                "en": "Le Val d'Hyrôme"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Holzbrücken im Tal; die winterliche Flusslandschaft ist ein tolles Motiv für Fotos.",
+                "hu": "Ügyeljen a zúzmarára a völgy fahidain; a téli folyóparti táj remek téma a fotózáshoz.",
+                "ro": "Atenție la chiciura de pe podurile de lemn din vale; peisajul fluvial de iarnă este un motiv excelent pentru fotografii.",
+                "en": "Watch out for hoarfrost on the wooden bridges in the valley; the wintry river landscape is a great subject for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Écho",
+                "hu": "L'Écho",
+                "ro": "L'Écho",
+                "en": "L'Écho"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft lässt das Schloss besonders scharf hervortreten; perfekt für einen schnellen Halt ohne langes Absteigen.",
+                "hu": "A tiszta téli levegőben a kastély különösen élesen rajzolódik ki; tökéletes egy gyors megállóra hosszú leszállás nélkül.",
+                "ro": "Aerul curat de iarnă face castelul să iasă în evidență foarte clar; perfect pentru o oprire rapidă fără a coborî prea mult timp.",
+                "en": "The clear winter air makes the castle stand out very sharply; perfect for a quick stop without staying off the bike too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Salbœuf",
+                "hu": "Salbœuf",
+                "ro": "Salbœuf",
+                "en": "Salbœuf"
+              },
+              "tip_5lang": {
+                "de": "Die Kälte nimmt zum Abend hin zu; beenden Sie die Fahrt zügig, um nicht auszukühlen.",
+                "hu": "A hideg fokozódik az este közeledtével; fejezze be a túrát tempósan, hogy ne hűljön ki.",
+                "ro": "Frigul se intensifică spre seară; încheiați drumul rapid pentru a nu vă răci prea tare.",
+                "en": "The cold intensifies towards evening; finish your ride promptly to avoid getting too chilled."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -583,6 +1019,280 @@
         "hu": "Autós utazása a történelmi romokkal és a lenyűgöző Notre-Dame la Neuve templommal kezdődik, mielőtt a vidéki zöldbe indulna.\n\nEgy Camifolia kertben tett séta és a L'Arbre à Fil meglátogatása után az autó rugalmassága nyugodt továbbutazást biztosít a városon keresztül.\n\nVezessen könnyedén a Saint-Pierre templomhoz és a Le Val d'Hyrôme kastélyhoz, ahol testközelből tapasztalhatja meg a régió gazdag történelmét.\n\nZárja túráját a L'Écho, Salbœuf és végül a Château de la Sorinière kastélyok meglátogatásával, ami ideális a nap festői befejezéséhez.",
         "ro": "Călătoria cu mașina începe cu ruinele istorice și impresionanta biserică Notre-Dame la Neuve, înainte de a pleca spre verdeața rurală.\n\nDupă o plimbare în grădina Camifolia și o vizită la L'Arbre à Fil, flexibilitatea mașinii oferă o călătorie relaxantă prin oraș.\n\nConduceți fără efort la biserica Saint-Pierre și la castelul Le Val d'Hyrôme, unde puteți experimenta direct istoria bogată a regiunii.\n\nÎncheiați turul cu vizite la castelele L'Écho, Salbœuf și în final Château de la Sorinière, ideal pentru un final de zi pitoresc.",
         "en": "Your drive begins with the historical ruins and the impressive Notre-Dame la Neuve Church before heading into the rural greenery.\n\nAfter a stroll in the Camifolia garden and a visit to L'Arbre à Fil, the car's flexibility offers a relaxed onward journey through the town.\n\nDrive effortlessly to the Saint-Pierre Church and the Le Val d'Hyrôme castle, where you can experience the region's rich history firsthand.\n\nConclude your tour with visits to the castles L'Écho, Salbœuf, and finally Château de la Sorinière, ideal for a picturesque end to the day."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist Chemillé auch bei starkem Regen komfortabel zu erkunden. Starten Sie morgens trocken an den Ruinen und nutzen Sie die kurzen Wege zwischen den Parkplätzen. Mittags können Sie die Kirchen ohne Sorge vor Nässe besuchen. Die Route zum Château de la Sorinière am Abend ist bei Regen besonders stimmungsvoll. Achten Sie auf Aquaplaning auf den Landstraßen.",
+            "hu": "Autóval Chemillé még heves esőzésben is kényelmesen felfedezhető. Induljon reggel szárazon a romoktól, kihasználva a parkolók közötti rövid távolságokat. Délben a templomokat az elázás veszélye nélkül látogathatja. Az esti út a Château de la Sorinière-hez esőben különösen hangulatos. Ügyeljen a vízátfolyásokra az országutakon.",
+            "ro": "Cu mașina, Chemillé poate fi explorat confortabil chiar și pe ploaie torențială. Începeți dimineața la uscat la ruine și profitați de distanțele scurte dintre parcări. La prânz, puteți vizita bisericile fără grija umezelii. Traseul spre Château de la Sorinière de seară este deosebit de atmosferic pe ploaie. Atenție la acvaplanare pe drumurile județene.",
+            "en": "By car, Chemillé is comfortable to explore even in heavy rain. Start your morning dry at the ruins, taking advantage of short distances between parking spots. At noon, you can visit the churches without worrying about getting soaked. The evening route to Château de la Sorinière is particularly atmospheric in the rain. Watch out for hydroplaning on the country roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chemillé Castle Ruins",
+                "hu": "Chemillé Castle Ruins",
+                "ro": "Chemillé Castle Ruins",
+                "en": "Chemillé Castle Ruins"
+              },
+              "tip_5lang": {
+                "de": "Ein Parkplatz befindet sich in direkter Nähe; so können Sie die Ruinen auch bei kurzen Regenpausen schnell besichtigen.",
+                "hu": "Közvetlen közelben található parkoló; így a romokat az eső rövidebb szüneteiben is gyorsan megnézheti.",
+                "ro": "Există o parcare în imediata apropiere; astfel puteți vizita ruinele rapid în timpul scurtelor pauze de ploaie.",
+                "en": "A parking lot is located in the immediate vicinity; this allows you to quickly visit the ruins during short breaks in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame la Neuve Church",
+                "hu": "Notre-Dame la Neuve Church",
+                "ro": "Notre-Dame la Neuve Church",
+                "en": "Notre-Dame la Neuve Church"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Regenschirm im Auto bereit; der Weg vom Parkplatz zum Kircheneingang ist kurz, aber ungeschützt.",
+                "hu": "Tartsa készenlétben az esernyőt az autóban; az út a parkolótól a templomig rövid, de fedetlen.",
+                "ro": "Aveți umbrela pregătită în mașină; drumul de la parcare la intrarea în biserică este scurt, dar neprotejat.",
+                "en": "Keep your umbrella ready in the car; the walk from the parking lot to the church entrance is short but unsheltered."
+              }
+            },
+            {
+              "name": {
+                "de": "Camifolia Garden",
+                "hu": "Camifolia Garden",
+                "ro": "Camifolia Garden",
+                "en": "Camifolia Garden"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Hauptparkplatz und konzentrieren Sie sich auf die überdachten Schaugewächshäuser des Gartens.",
+                "hu": "Használja a főparkolót, és koncentráljon a kert fedett bemutató üvegházaira.",
+                "ro": "Folosiți parcarea principală și concentrați-vă pe serele de prezentare acoperite ale grădinii.",
+                "en": "Use the main parking lot and focus on the garden's covered exhibition greenhouses."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Arbre à Fil",
+                "hu": "L'Arbre à Fil",
+                "ro": "L'Arbre à Fil",
+                "en": "L'Arbre à Fil"
+              },
+              "tip_5lang": {
+                "de": "Das Kulturzentrum bietet ausreichend Parkmöglichkeiten in der Nähe; ideal für einen längeren Aufenthalt im Trockenen.",
+                "hu": "A kulturális központ közelében elegendő parkolóhely áll rendelkezésre; ideális egy hosszabb száraz tartózkodáshoz.",
+                "ro": "Centrul cultural oferă suficiente locuri de parcare în apropiere; ideal pentru o ședere mai lungă la uscat.",
+                "en": "The cultural center offers ample parking nearby; ideal for a longer stay in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Stadtzentrum; die Kirche ist ein hervorragender Orientierungspunkt bei schlechter Sicht durch Regen.",
+                "hu": "Parkoljon a városközpontban; a templom kiváló tájékozódási pont, ha az eső miatt rosszak a látási viszonyok.",
+                "ro": "Parcați în centrul orașului; biserica este un punct de reper excelent în caz de vizibilitate redusă din cauza ploii.",
+                "en": "Park in the town center; the church is an excellent landmark when visibility is poor due to rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Val d'Hyrôme",
+                "hu": "Le Val d'Hyrôme",
+                "ro": "Le Val d'Hyrôme",
+                "en": "Le Val d'Hyrôme"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Tal aus dem warmen Auto, bevor Sie für einen kurzen Spaziergang am Fluss aussteigen.",
+                "hu": "Élvezze a völgyre nyíló kilátást a meleg autóból, mielőtt kiszállna egy rövid folyóparti sétára.",
+                "ro": "Bucurați-vă de priveliștea asupra văii din mașina caldă înainte de a coborî pentru o scurtă plimbare pe malul râului.",
+                "en": "Enjoy the view of the valley from your warm car before stepping out for a short walk by the river."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Écho",
+                "hu": "L'Écho",
+                "ro": "L'Écho",
+                "en": "L'Écho"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen etwas matschig sein; bleiben Sie auf den befestigten Parkflächen am Rand.",
+                "hu": "Az odavezető út esőben kissé sáros lehet; maradjon a szélen található kövezett parkolóhelyeken.",
+                "ro": "Accesul poate fi puțin noroios pe ploaie; rămâneți în zonele de parcare pavate de la margine.",
+                "en": "The access road can be a bit muddy in the rain; stay on the paved parking areas at the edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Salbœuf",
+                "hu": "Salbœuf",
+                "ro": "Salbœuf",
+                "en": "Salbœuf"
+              },
+              "tip_5lang": {
+                "de": "Die Beleuchtung des Schlosses spiegelt sich bei Regen wunderbar in den Pfützen auf der Fahrbahn.",
+                "hu": "A kastély díszkivilágítása esőben csodálatosan tükröződik az úttesten lévő tócsákban.",
+                "ro": "Iluminatul castelului se reflectă minunat în bălțile de pe carosabil atunci când plouă.",
+                "en": "The castle lighting reflects beautifully in the puddles on the roadway when it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Sorinière",
+                "hu": "Château de la Sorinière",
+                "ro": "Château de la Sorinière",
+                "en": "Château de la Sorinière"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt hierher führt über Landstraßen; passen Sie Ihre Geschwindigkeit der nassen Fahrbahn an.",
+                "hu": "Az idevezető út országutakon halad; igazítsa sebességét a nedves útfelülethez.",
+                "ro": "Drumul până aici trece prin zone rurale; adaptați viteza la suprafața umedă a carosabilului.",
+                "en": "The drive here takes you along country roads; adjust your speed to the wet road surface."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter bietet das Auto den besten Schutz vor der beißenden Kälte in Chemillé. Starten Sie morgens gemütlich an den Ruinen und genießen Sie die Sitzheizung zwischen den Stopps. Mittags leuchten die Gärten in winterlicher Stille, während Sie bequem davor parken können. Da die Sonne um 17:00 Uhr untergeht, ist die abendliche Fahrt zu den beleuchteten Schlössern besonders sicher und warm.",
+            "hu": "Télen az autó nyújtja a legjobb védelmet a metsző hideg ellen Chemillében. Induljon reggel kényelmesen a romoktól, és élvezze az ülésfűtést a megállók között. Délben a kertek téli csendben tündökölnek, miközben kényelmesen megállhat előttük. Mivel a nap 17:00-kor nyugszik, az esti út a kivilágított kastélyokhoz különösen biztonságos és meleg.",
+            "ro": "Iarna, mașina oferă cea mai bună protecție împotriva frigului tăios din Chemillé. Începeți dimineața confortabil la ruine și bucurați-vă de încălzirea în scaune între opriri. La prânz, grădinile strălucesc în liniștea iernii, în timp ce puteți parca comod în față. Deoarece soarele apune la ora 17:00, drumul de seară spre castelele iluminate este sigur și călduros.",
+            "en": "In winter, the car provides the best protection against the biting cold in Chemillé. Start your morning comfortably at the ruins and enjoy the seat heating between stops. At noon, the gardens glow in winter silence while you can park conveniently in front. Since the sun sets at 17:00, the evening drive to the illuminated castles is particularly safe and warm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chemillé Castle Ruins",
+                "hu": "Chemillé Castle Ruins",
+                "ro": "Chemillé Castle Ruins",
+                "en": "Chemillé Castle Ruins"
+              },
+              "tip_5lang": {
+                "de": "Der nahegelegene Parkplatz ermöglicht einen schnellen Besuch ohne langes Frieren im Winterwind.",
+                "hu": "A közeli parkoló lehetővé teszi a gyors látogatást anélkül, hogy hosszan fagyoskodna a téli szélben.",
+                "ro": "Parcarea din apropiere permite o vizită rapidă fără a îngheța mult timp în vântul de iarnă.",
+                "en": "The nearby parking lot allows for a quick visit without long exposure to the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Notre-Dame la Neuve Church",
+                "hu": "Notre-Dame la Neuve Church",
+                "ro": "Notre-Dame la Neuve Church",
+                "en": "Notre-Dame la Neuve Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt an der Kirche; die Innenraumtemperatur ist angenehmer als die frostige Außenluft.",
+                "hu": "Parkoljon közvetlenül a templomnál; a belső hőmérséklet kellemesebb, mint a kinti fagyos levegő.",
+                "ro": "Parcați direct lângă biserică; temperatura din interior este mai plăcută decât aerul înghețat de afară.",
+                "en": "Park right by the church; the interior temperature is more pleasant than the frosty outside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Camifolia Garden",
+                "hu": "Camifolia Garden",
+                "ro": "Camifolia Garden",
+                "en": "Camifolia Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne lässt den Garten oft in klarem Licht erscheinen; perfekt für Fotos direkt nach dem Aussteigen.",
+                "hu": "A téli napfényben a kert gyakran tiszta fényben úszik; tökéletes fotózáshoz közvetlenül kiszállás után.",
+                "ro": "Soarele de iarnă face ca grădina să apară adesea într-o lumină clară; perfect pentru fotografii imediat după ce coborâți.",
+                "en": "The winter sun often makes the garden appear in clear light; perfect for photos right after stepping out."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Arbre à Fil",
+                "hu": "L'Arbre à Fil",
+                "ro": "L'Arbre à Fil",
+                "en": "L'Arbre à Fil"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen warmen Stopp für eine ausgiebige Pause vom Fahren und Erkunden.",
+                "hu": "Használja ki ezt a meleg megállót egy alapos pihenőre a vezetés és a felfedezés között.",
+                "ro": "Folosiți această oprire călduroasă pentru o pauză binemeritată de la condus și explorat.",
+                "en": "Take advantage of this warm stop for a substantial break from driving and exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Pierre Church",
+                "hu": "Saint-Pierre Church",
+                "ro": "Saint-Pierre Church",
+                "en": "Saint-Pierre Church"
+              },
+              "tip_5lang": {
+                "de": "Im Winter wird es früh dunkel; die beleuchtete Fassade der Kirche ist ein schöner Anblick bei der Vorbeifahrt.",
+                "hu": "Télen korán sötétedik; a templom kivilágított homlokzata szép látvány, amikor elhajt mellette.",
+                "ro": "Iarna se întunecă devreme; fațada iluminată a bisericii este o priveliște frumoasă în timp ce treceți pe lângă ea.",
+                "en": "In winter it gets dark early; the illuminated facade of the church is a beautiful sight as you drive by."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Val d'Hyrôme",
+                "hu": "Le Val d'Hyrôme",
+                "ro": "Le Val d'Hyrôme",
+                "en": "Le Val d'Hyrôme"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Straßenglätte in der Nähe des Wassers; die winterliche Talsicht ist vom Auto aus herrlich.",
+                "hu": "Ügyeljen az esetleges jegesedésre a víz közelében; a téli völgy látványa az autóból is lenyűgöző.",
+                "ro": "Atenție la posibila polei în apropierea apei; vederea văii în haine de iarnă este superbă din mașină.",
+                "en": "Watch out for possible icy roads near the water; the wintry valley view is magnificent from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Écho",
+                "hu": "L'Écho",
+                "ro": "L'Écho",
+                "en": "L'Écho"
+              },
+              "tip_5lang": {
+                "de": "Das Schloss wirkt in der kargen Winterlandschaft besonders stolz; halten Sie kurz für ein stimmungsvolles Foto.",
+                "hu": "A kastély a kopár téli tájban különösen büszkén fest; álljon meg egy pillanatra egy hangulatos fotó kedvéért.",
+                "ro": "Castelul pare deosebit de mândru în peisajul sterp de iarnă; opriți scurt pentru o fotografie plină de atmosferă.",
+                "en": "The castle looks particularly proud in the barren winter landscape; stop briefly for an atmospheric photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Salbœuf",
+                "hu": "Salbœuf",
+                "ro": "Salbœuf",
+                "en": "Salbœuf"
+              },
+              "tip_5lang": {
+                "de": "Die Abenddämmerung am Schloss ist im Winter sehr kurz; planen Sie Ihre Ankunft vor 16:30 Uhr ein.",
+                "hu": "A kastélynál az alkonyat télen nagyon rövid; tervezze az érkezést 16:30 előttre.",
+                "ro": "Amurgul la castel este foarte scurt iarna; planificați sosirea înainte de ora 16:30.",
+                "en": "The twilight at the castle is very short in winter; plan to arrive before 16:30."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Sorinière",
+                "hu": "Château de la Sorinière",
+                "ro": "Château de la Sorinière",
+                "en": "Château de la Sorinière"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt den Frostschutz; die Fahrt durch die ländliche Umgebung ist im Winter sehr idyllisch.",
+                "hu": "Indulás előtt ellenőrizze a fagyállót; a vidéki környezeten való áthaladás télen nagyon idilli.",
+                "ro": "Verificați antigelul înainte de plecare; drumul prin împrejurimile rurale este foarte idilic iarna.",
+                "en": "Check your antifreeze before leaving; the drive through the rural surroundings is very idyllic in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a reggelt Montaigu-Vendée gazdag múltjának felfedezésével. Csodálja meg a lenyűgöző építészeti remekműveket, a fenséges kastélyokat és a szakrális épületeket, amelyek mind e bájos francia település történelmi jelentőségéről tanúskodnak a látogatóknak.\n\nMidday: A déli órákban a város idillien zöldellő parkjai és festői terei jól megérdemelt pihenésre csábítanak. Élvezze a nyugodt atmoszférát a természet lágy ölén, miközben egy könnyed piknikkel frissíti fel magát, és átadja magát a helyi hangulat varázsának.\n\nAfternoon: A délután a családi szórakozásé és a rejtett kincseké. Látogasson el olyan izgalmas szabadidős központokba, amelyek kicsiket és nagyokat egyaránt elvarázsolnak, vagy fedezze fel a város kevésbé ismert történelmi emlékhelyeit, távol a turisták zajától.\n\nEvening: Zárja a napot a lenyűgöző történelmi hidak egyikének felkeresésével. A lemenő nap lágy fénye meleg aranyba öltözteti az ősi kőszerkezeteket, így tökéletes, romantikus hátteret biztosítva ahhoz, hogy nyugodtan visszagondolhasson a nap felejthetetlen élményeire.",
         "ro": "Morning: Începeți dimineața cu o incursiune în trecutul bogat al localității Montaigu-Vendée. Explorați capodopere arhitecturale impresionante, castele mărețe și clădiri sacre care stau mărturie importanței istorice a acestei comunități franceze pline de farmec autentic.\n\nMidday: La orele amiezii, parcurile idilice și piețele pitorești ale orașului vă invită la o pauză bine meritată. Bucurați-vă de atmosfera relaxantă în mijlocul naturii, în timp ce vă revigorați cu un mic picnic și asimilați frumusețea împrejurimilor locale liniștite.\n\nAfternoon: După-amiaza este dedicată divertismentului în familie și comorilor ascunse. Vizitați centre de agrement captivante care îi încântă pe copii și adulți deopotrivă, sau explorați locuri istorice mai retrase, departe de traseele turistice aglomerate obișnuite.\n\nEvening: Încheiați ziua cu o excursie la podurile istorice impresionante din împrejurimi. Lumina blândă a soarelui de seară învăluie vechile structuri de piatră într-o strălucire caldă, oferind un cadru absolut perfect pentru a reflecta asupra experiențelor memorabile adunate.",
         "en": "Morning: Start your morning with a journey into the rich past of Montaigu-Vendée. Explore impressive architectural masterpieces, majestic castles, and sacred buildings that bear witness to the profound historical significance of this incredibly charming French community.\n\nMidday: At midday, the idyllic parks and picturesque squares of the town invite you to take a well-deserved break. Enjoy the relaxed atmosphere amidst the lush greenery while refreshing yourself with a light picnic and fully soaking in the charming local surroundings.\n\nAfternoon: The afternoon is all about family entertainment and discovering hidden treasures. Visit exciting leisure centers that delight both children and adults alike, or venture out to explore more secluded historical sites away from the usual bustling tourist crowds.\n\nEvening: Conclude your amazing day with a trip to the impressive historical bridges nearby. The gentle evening sun bathes the ancient stone structures in a warm, golden glow, providing the absolute perfect backdrop to quietly reflect on all your wonderful new memories."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen mit einem Regenschirm an der Burgruine.\n\nMittags finden Sie Schutz in der Église Saint-Jean-Baptiste und im Maison.\n\nNachmittags steht ein regnerischer Spaziergang durch den Parc du Val d'Asson an; wasserdichte Schuhe tragen.\n\nBeenden Sie den Abend trocken im Ludi Planet.",
+            "hu": "Kezdje az esős reggelt a kastély romjainál egy erős esernyővel.\n\nDélben keressen menedéket a csodás Église Saint-Jean-Baptiste-ban és a Maisonban.\n\nDélután tegyen egy szitáló sétát a Parc du Val d'Assonban; viseljen vízálló cipőt.\n\nAz estét szárazon, benti szórakozással zárhatja a Ludi Planetben.",
+            "ro": "Începeți dimineața umedă la ruinele castelului cu o umbrelă robustă.\n\nLa prânz, găsiți adăpost în frumoasa Église Saint-Jean-Baptiste și în Maison.\n\nDupă-amiaza aduce o plimbare pe burniță prin Parc du Val d'Asson; purtați pantofi impermeabili.\n\nÎncheiați seara la uscat, cu distracție la Ludi Planet.",
+            "en": "Start your wet morning at the Château ruins with a sturdy umbrella.\n\nBy midday, find shelter inside the stunning Église Saint-Jean-Baptiste and the Maison.\n\nAfternoon brings a drizzly walk through Parc du Val d'Asson; wear waterproof shoes.\n\nEnd the evening staying dry with indoor entertainment at Ludi Planet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Montaigu",
+                "hu": "Château de Montaigu",
+                "ro": "Château de Montaigu",
+                "en": "Château de Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die alten Burgruinen und ihre Geschichte, aber achten Sie bei Regenschauern auf die rutschigen nassen Steine.",
+                "hu": "Fedezze fel az ősi kastélyromokat és történelmét, de esőben nagyon ügyeljen a csúszós és nedves kövekre lépéskor.",
+                "ro": "Explorați vechile ruine ale castelului și istoria lor, dar aveți grijă la pietrele umede și alunecoase în timpul ploii.",
+                "en": "Explore the ancient castle ruins and their intriguing history, but watch your step on the slippery wet stones during rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Église Saint-Jean-Baptiste",
+                "ro": "Église Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die bunten Fenster und das friedliche Innere dieser Kirche, die einen perfekten trockenen Zufluchtsort vor Platzregen bietet.",
+                "hu": "Csodálja meg a gyönyörű ólomüvegeket és a templom békés belső terét, amely tökéletes száraz menedéket nyújt a hirtelen záporok elől.",
+                "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici, care oferă un refugiu uscat perfect împotriva averselor.",
+                "en": "Admire the beautiful stained glass and peaceful interior of this church, which offers a perfect dry refuge from the sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des associations",
+                "hu": "Maison des associations",
+                "ro": "Maison des associations",
+                "en": "Maison des associations"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Architektur dieses historischen Herrenhauses von innen, ein toller Ort, um im Trockenen das lokale Erbe zu studieren.",
+                "hu": "Fedezze fel e történelmi kúria építészeti részleteit belülről, ami kiváló hely arra, hogy szárazon maradva ismerje meg a helyi örökséget.",
+                "ro": "Descoperiți detaliile arhitecturale ale acestui conac istoric din interior, un loc minunat pentru a sta la uscat studiind moștenirea.",
+                "en": "Discover the architectural details of this historic manor from the inside, a great spot to stay warm and dry while learning local heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Val d'Asson",
+                "hu": "Parc du Val d'Asson",
+                "ro": "Parc du Val d'Asson",
+                "en": "Parc du Val d'Asson"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die üppig grünen Parkwege, wo der Regen die natürlichen Düfte verstärkt, aber tragen Sie eine wasserdichte Jacke.",
+                "hu": "Sétáljon a buja zöld park ösvényein, ahol az eső felerősíti a természet illatait, de gondoskodjon egy teljesen vízálló kabátról.",
+                "ro": "Plimbați-vă pe aleile verzi ale parcului, unde ploaia intensifică mirosurile naturii, dar asigurați-vă că aveți o jachetă impermeabilă.",
+                "en": "Stroll through the lush green park pathways where the rain enhances the natural scents, but ensure your jacket is fully waterproof."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludi Planet",
+                "hu": "Ludi Planet",
+                "ro": "Ludi Planet",
+                "en": "Ludi Planet"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie die ganze Familie hier spannende Indoor-Spiele genießen, völlig isoliert vom düsteren und nassen Wetter draußen.",
+                "hu": "Hagyja, hogy az egész család élvezze az izgalmas benti játékokat és tevékenységeket, teljesen elszigetelve a kinti borús, nedves időjárástól.",
+                "ro": "Lăsați întreaga familie să se bucure de jocuri de interior aici, complet izolată de vremea mohorâtă și umedă de afară.",
+                "en": "Let the whole family enjoy exciting indoor games and activities here, completely insulated from the gloomy wet weather outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für den morgendlichen Spaziergang zur Burg.\n\nMittags können Sie sich in der Kirche und im Maison aufwärmen.\n\nUnternehmen Sie nachmittags einen Spaziergang durch den Park, bevor die Sonne früh untergeht.\n\nVerbringen Sie den Abend gemütlich im Ludi Planet, fernab vom Winterfrost.",
+            "hu": "Öltözzön fel melegen a reggeli sétához a történelmi kastélyhoz.\n\nDélben melegedjen fel az Église Saint-Jean-Baptiste és a Maison falai között.\n\nDélután tegyen egy frissítő sétát a parkban a korai naplemente előtt.\n\nAz estét töltse kényelmesen, benti melegben a Ludi Planetben, távol a fagyoktól.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare matinală spre castelul istoric.\n\nLa prânz, încălziți-vă în interiorul bisericii Saint-Jean-Baptiste și al Maison.\n\nDupă-amiaza, faceți o plimbare revigorantă prin parc înainte de apusul devreme.\n\nPetreceți seara confortabil în interior la Ludi Planet, departe de ger.",
+            "en": "Bundle up for a brisk morning walk to the historic Château.\n\nBy midday, warm your hands inside the Église Saint-Jean-Baptiste and the Maison.\n\nIn the afternoon, take a crisp stroll through Parc du Val d'Asson before the early sunset.\n\nSpend your evening comfortably indoors at Ludi Planet away from the winter frost."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Château de Montaigu",
+                "hu": "Château de Montaigu",
+                "ro": "Château de Montaigu",
+                "en": "Château de Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die imposanten Burgmauern vor dem blassen Winterhimmel, aber tragen Sie dicke Thermokleidung gegen den eisigen Wind.",
+                "hu": "Fotózza le az impozáns romfalakat a drámai, halvány téli égbolt előtt, de viseljen vastag termo rétegeket a fagyos szelek ellen.",
+                "ro": "Fotografiați zidurile în ruină pe fundalul unui cer de iarnă dramatic, dar purtați straturi termice groase împotriva vântului înghețat.",
+                "en": "Photograph the imposing ruined walls against a dramatic pale winter sky, but dress in thick thermal layers to block the freezing winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Église Saint-Jean-Baptiste",
+                "ro": "Église Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die feierliche Architektur und nutzen Sie den geschlossenen, zugluftfreien Raum, um sich beim kalten Spaziergang aufzuwärmen.",
+                "hu": "Szánjon egy percet az ünnepélyes építészet megcsodálására, és használja a zárt, huzatmentes teret, hogy felmelegítse kezeit a hideg sétán.",
+                "ro": "Admirați arhitectura solemnă și folosiți spațiul închis, fără curenți de aer, pentru a vă încălzi mâinile în timpul plimbării reci.",
+                "en": "Take a moment to appreciate the solemn architecture and use the enclosed, draft-free space to warm your hands during the cold walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison des associations",
+                "hu": "Maison des associations",
+                "ro": "Maison des associations",
+                "en": "Maison des associations"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Details des Herrenhauses und treten Sie ein, um der beißenden Kälte bei einer friedlichen historischen Tour zu entkommen.",
+                "hu": "Tekintse meg a kúria jól megőrzött részleteit, és lépjen be, hogy elmeneküljön a harapós kinti hideg elől egy békés történelmi túrára.",
+                "ro": "Vedeți detaliile structurale ale conacului, intrând pentru a scăpa de frigul mușcător de afară în timpul unui tur istoric liniștit.",
+                "en": "View the well-preserved structural details of the manor, stepping inside to escape the biting outdoor chill for a peaceful historical tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Val d'Asson",
+                "hu": "Parc du Val d'Asson",
+                "ro": "Parc du Val d'Asson",
+                "en": "Parc du Val d'Asson"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Schönheit der frostbedeckten Bäume, aber beenden Sie den Spaziergang vor 17 Uhr, wenn die Temperatur sinkt.",
+                "hu": "Élvezze a dérlepte fák zord, békés szépségét, de feltétlenül fejezze be a sétát délután 5 előtt, amikor a hőmérséklet drasztikusan esik.",
+                "ro": "Bucurați-vă de frumusețea liniștită a copacilor acoperiți de brumă, dar terminați plimbarea înainte de ora 17, când temperatura scade.",
+                "en": "Enjoy the stark, peaceful beauty of the frost-covered trees, but finish your walk before 5 PM when the temperature drops drastically."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludi Planet",
+                "hu": "Ludi Planet",
+                "ro": "Ludi Planet",
+                "en": "Ludi Planet"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren kühlen Tag in diesem beheizten Indoor-Center, das nach Sonnenuntergang eine gemütliche Atmosphäre für Familien bietet.",
+                "hu": "Zárja a hűvös napot ebben a fűtött beltéri központban, amely élénk és hangulatos légkört biztosít a családi szórakozáshoz naplemente után.",
+                "ro": "Încheiați ziua rece la acest centru de interior încălzit, oferind o atmosferă vibrantă și confortabilă pentru familie după apus.",
+                "en": "Conclude your chilly day at this heated indoor center, providing a vibrant and cozy atmosphere for family entertainment after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Kezdje a reggelt Montaigu-Vendée gazdag múltjának felfedezésével. Csodálja meg a lenyűgöző építészeti remekműveket, a fenséges kastélyokat és a szakrális épületeket, amelyek mind e bájos francia település történelmi jelentőségéről tanúskodnak a látogatóknak.\n\nMidday: A déli órákban a város idillien zöldellő parkjai és festői terei jól megérdemelt pihenésre csábítanak. Élvezze a nyugodt atmoszférát a természet lágy ölén, miközben egy könnyed piknikkel frissíti fel magát, és átadja magát a helyi hangulat varázsának.\n\nAfternoon: A délután a családi szórakozásé és a rejtett kincseké. Látogasson el olyan izgalmas szabadidős központokba, amelyek kicsiket és nagyokat egyaránt elvarázsolnak, vagy fedezze fel a város kevésbé ismert történelmi emlékhelyeit, távol a turisták zajától.\n\nEvening: Zárja a napot a lenyűgöző történelmi hidak egyikének felkeresésével. A lemenő nap lágy fénye meleg aranyba öltözteti az ősi kőszerkezeteket, így tökéletes, romantikus hátteret biztosítva ahhoz, hogy nyugodtan visszagondolhasson a nap felejthetetlen élményeire.",
         "ro": "Morning: Începeți dimineața cu o incursiune în trecutul bogat al localității Montaigu-Vendée. Explorați capodopere arhitecturale impresionante, castele mărețe și clădiri sacre care stau mărturie importanței istorice a acestei comunități franceze pline de farmec autentic.\n\nMidday: La orele amiezii, parcurile idilice și piețele pitorești ale orașului vă invită la o pauză bine meritată. Bucurați-vă de atmosfera relaxantă în mijlocul naturii, în timp ce vă revigorați cu un mic picnic și asimilați frumusețea împrejurimilor locale liniștite.\n\nAfternoon: După-amiaza este dedicată divertismentului în familie și comorilor ascunse. Vizitați centre de agrement captivante care îi încântă pe copii și adulți deopotrivă, sau explorați locuri istorice mai retrase, departe de traseele turistice aglomerate obișnuite.\n\nEvening: Încheiați ziua cu o excursie la podurile istorice impresionante din împrejurimi. Lumina blândă a soarelui de seară învăluie vechile structuri de piatră într-o strălucire caldă, oferind un cadru absolut perfect pentru a reflecta asupra experiențelor memorabile adunate.",
         "en": "Morning: Start your morning with a journey into the rich past of Montaigu-Vendée. Explore impressive architectural masterpieces, majestic castles, and sacred buildings that bear witness to the profound historical significance of this incredibly charming French community.\n\nMidday: At midday, the idyllic parks and picturesque squares of the town invite you to take a well-deserved break. Enjoy the relaxed atmosphere amidst the lush greenery while refreshing yourself with a light picnic and fully soaking in the charming local surroundings.\n\nAfternoon: The afternoon is all about family entertainment and discovering hidden treasures. Visit exciting leisure centers that delight both children and adults alike, or venture out to explore more secluded historical sites away from the usual bustling tourist crowds.\n\nEvening: Conclude your amazing day with a trip to the impressive historical bridges nearby. The gentle evening sun bathes the ancient stone structures in a warm, golden glow, providing the absolute perfect backdrop to quietly reflect on all your wonderful new memories."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die feuchte Fahrt im Park und prüfen Sie Ihre Schutzbleche.\n\nMittags erkunden Sie die Burg und suchen Schutz in der Kirche.\n\nDer Nachmittag im Ludi Planet bietet die perfekte Flucht vor Schauern.\n\nAm Abend radeln Sie vorsichtig vorbei an der Kapelle zur rutschigen Brücke Sénard.",
+            "hu": "Kezdje a nedves tekerést a parkban, ügyelve a sárvédők megfelelő állapotára.\n\nDélben fedezze fel a kastélyt, majd keressen száraz menedéket a templomban.\n\nA Ludi Planet benti délutánja tökéletes menedék a záporok elől.\n\nEste óvatosan pedálozzon a kápolna mellett a csúszós Sénard hídig.",
+            "ro": "Începeți cursa umedă în parc, asigurându-vă că bicicleta are apărători.\n\nLa prânz, explorați castelul și căutați adăpost uscat în biserică.\n\nDupă-amiaza la Ludi Planet oferă o evadare perfectă de averse.\n\nSeara pedalați cu atenție pe lângă Capelă spre podul alunecos Sénard.",
+            "en": "Start your damp ride at Parc du Val d'Asson, ensuring your bike has mudguards.\n\nMidday, lock up to explore the Château and seek dry shelter in the Église.\n\nAfternoon fun at Ludi Planet provides a perfect escape from heavy showers.\n\nEvening calls for careful pedaling past Chapelle de la Senardière to the slippery Sénard Bridge."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc du Val d'Asson",
+                "hu": "Parc du Val d'Asson",
+                "ro": "Parc du Val d'Asson",
+                "en": "Parc du Val d'Asson"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie auf den Wegen und genießen Sie das vom Regen gewaschene Grün, aber bremsen Sie früh, da nasse Blätter rutschig sind.",
+                "hu": "Tekerjen a festői ösvényeken az esőmosta növényzetben, de fékezzen időben, mert a nedves, faleveles utak igen csúszósak lehetnek.",
+                "ro": "Pedalați pe potecile pitorești bucurându-vă de verdeața spălată de ploaie, dar frânați devreme deoarece frunzele umede sunt alunecoase.",
+                "en": "Pedal along the scenic paths enjoying the rain-washed greenery, but brake early as the wet leaf-covered trails can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montaigu",
+                "hu": "Château de Montaigu",
+                "ro": "Château de Montaigu",
+                "en": "Château de Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Ruinen mit einem Regenschutz über dem Rucksack und meiden Sie die moosigen Steine, die bei Regen tückisch werden.",
+                "hu": "Fedezze fel a középkori romokat esővédővel a hátizsákján, elkerülve a mohás köveket, amelyek heves esőzések idején veszélyessé válnak.",
+                "ro": "Descoperiți ruinele cu o husă de ploaie pe rucsac, evitând pietrele acoperite de mușchi care devin periculoase în timpul ploii.",
+                "en": "Discover the medieval ruins with a rain cover on your backpack, avoiding the mossy stones which become treacherous during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Église Saint-Jean-Baptiste",
+                "ro": "Église Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad und treten Sie ein, um den Altar zu bewundern, während Sie diesen ruhigen Ort nutzen, um Ihre Regenkleidung zu trocknen.",
+                "hu": "Parkolja le a kerékpárt, és lépjen be megcsodálni az oltárt; használja ezt a csendes teret, hogy egy kicsit megszárítsa az esőruháit.",
+                "ro": "Parcați bicicleta și intrați pentru a admira altarul, folosind acest spațiu liniștit pentru a vă usca echipamentul de ploaie câteva minute.",
+                "en": "Park your bike and step inside to marvel at the altar, utilizing this quiet space to dry off your rain gear for a few moments."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludi Planet",
+                "hu": "Ludi Planet",
+                "ro": "Ludi Planet",
+                "en": "Ludi Planet"
+              },
+              "tip_5lang": {
+                "de": "Gönnen Sie sich eine Pause in diesem Indoor-Spielplatz, lassen Sie die nassen Räder draußen und genießen Sie trockene Familienerholung.",
+                "hu": "Tartson egy jól megérdemelt pihenőt ebben a benti játszóházban, kint hagyva a nedves bringákat a teljesen száraz családi kikapcsolódásért.",
+                "ro": "Luați o pauză la acest loc de joacă interior, lăsând bicicletele ude afară pentru a vă bucura de recreere în familie complet la uscat.",
+                "en": "Take a well-deserved break at this indoor playground, leaving your wet bikes outside to enjoy hours of completely dry family recreation."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Senardière",
+                "hu": "Chapelle de la Senardière",
+                "ro": "Chapelle de la Senardière",
+                "en": "Chapelle de la Senardière"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Äußere dieser kleinen Kapelle, aber seien Sie beim Absteigen vorsichtig, da die schlammigen Stellen keinen Halt bieten.",
+                "hu": "Csodálja meg e kis kápolna bájos külsejét, de legyen különösen óvatos a leszálláskor, mivel a környező saras részek csúszósak.",
+                "ro": "Admirați exteriorul fermecător al acestei mici capele, dar fiți precaut la coborâre, deoarece zonele noroioase din jur sunt alunecoase.",
+                "en": "Admire the charming exterior of this small chapel, but be extra cautious when dismounting as the surrounding muddy patches lack traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Sénard Bridge",
+                "hu": "Sénard Bridge",
+                "ro": "Sénard Bridge",
+                "en": "Sénard Bridge"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie diese historische Brücke, aber fahren Sie auf dem nassen Kopfsteinpflaster ein gleichmäßiges Tempo, um nicht wegzurutschen.",
+                "hu": "Keljen át ezen a történelmi hídon a megáradt folyó felett, egyenletes, lassú tempót tartva a nedves macskaköveken a megcsúszás elkerülésére.",
+                "ro": "Traversați acest pod istoric, menținând un ritm lent și constant pe piatra cubică umedă pentru a preveni deraparea bicicletei.",
+                "en": "Cross this historic bridge to view the swollen river below, maintaining a steady slow pace on the wet cobblestones to prevent skidding."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre frostige Radtour im Park mit Thermohandschuhen.\n\nMittags wärmen Sie sich bei der Burg und in der Kirche auf.\n\nDer Nachmittag bringt Freude im Ludi Planet und einen Stopp an der Kapelle.\n\nBeenden Sie die Tour an der Brücke vor 17:00 Uhr, um vor Einbruch der Dunkelheit heimzukehren.",
+            "hu": "Kezdje fagyos biciklitúráját a parkban termokesztyűt viselve.\n\nDélben melegedjen fel a kastély körüli séta és a templomlátogatás során.\n\nA délután benti vidámságot hoz a Ludi Planetben és egy rövid kápolnai megállót.\n\nZárja útját a Sénard hídnál 17:00 előtt, hogy sötétedés előtt hazaérjen.",
+            "ro": "Începeți turul cu bicicleta înghețat în parc, purtând mănuși termice.\n\nLa prânz, încălziți-vă la castel și în interiorul bisericii.\n\nDupă-amiaza aduce bucurie la Ludi Planet și o scurtă oprire la Capelă.\n\nÎncheiați la Podul Sénard înainte de ora 17:00 pentru a ajunge acasă pe lumină.",
+            "en": "Begin your frosty bike tour at Parc du Val d'Asson wearing thermal gloves.\n\nMidday, warm up while walking around the Château and inside the Église.\n\nAfternoon brings indoor cheer at Ludi Planet and a brief stop at the Chapelle.\n\nConclude at Sénard Bridge before 17:00 to safely ride home before dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parc du Val d'Asson",
+                "hu": "Parc du Val d'Asson",
+                "ro": "Parc du Val d'Asson",
+                "en": "Parc du Val d'Asson"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch die Winterluft und genießen Sie die gefrosteten Landschaften, aber hüten Sie sich vor Eis auf den schattigen Radwegen.",
+                "hu": "Tekerjen a friss téli levegőn és élvezze a dérlepte tájat, de óvakodjon az árnyékos kerékpárutakon megbúvó jégfoltoktól.",
+                "ro": "Mergeți prin aerul curat de iarnă și bucurați-vă de peisajele înghețate, dar feriți-vă de peticele de gheață de pe pistele umbrite.",
+                "en": "Ride through the crisp winter air and enjoy the frosted landscapes, but beware of hidden ice patches on the shaded cycle paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montaigu",
+                "hu": "Château de Montaigu",
+                "ro": "Château de Montaigu",
+                "en": "Château de Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das historische Burggelände, während Sie Ihr Rad schieben, um warm zu bleiben, und tragen Sie dicke Schichten gegen den Wind.",
+                "hu": "Járja be a történelmi kastélyt, kerékpárját tolva, hogy mozgásban maradjon; viseljen vastag rétegeket a hideg szél ellen.",
+                "ro": "Explorați terenul castelului mergând pe lângă bicicletă pentru a vă încălzi, purtând haine groase pentru a combate vântul rece.",
+                "en": "Explore the historical castle grounds while walking your bike to keep the blood flowing, wearing thick layers to fight the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-Baptiste",
+                "hu": "Église Saint-Jean-Baptiste",
+                "ro": "Église Saint-Jean-Baptiste",
+                "en": "Église Saint-Jean-Baptiste"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die religiösen Kunstwerke und nutzen Sie die massiven Mauern, um der Kälte zu entfliehen und Ihre Hände aufzutauen.",
+                "hu": "Csodálja meg a vallási alkotásokat, kihasználva a templom vastag falait, hogy menedéket találjon a hideg elől és felengedjenek a kezei.",
+                "ro": "Admirați arta religioasă înăuntru, folosind zidurile solide ale bisericii pentru a scăpa de frig și a vă dezgheța mâinile.",
+                "en": "Admire the serene religious artwork inside, using the church's solid walls to escape the biting outdoor chill and thaw your frozen hands."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludi Planet",
+                "hu": "Ludi Planet",
+                "ro": "Ludi Planet",
+                "en": "Ludi Planet"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad sicher ab und genießen Sie beheizte Indoor-Aktivitäten, um sich für die letzte Winteretappe zu stärken.",
+                "hu": "Zárja le biztonságosan a bringát kint, és élvezze a fűtött, energikus benti programokat, hogy feltöltődjön a téli tekerés utolsó szakaszára.",
+                "ro": "Legați bicicleta afară și bucurați-vă de activități energice la interior pentru a vă revitaliza pentru ultima etapă de ciclism.",
+                "en": "Lock up safely outside and enjoy heated, energetic indoor activities to revitalize yourself for the final winter cycling leg."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Senardière",
+                "hu": "Chapelle de la Senardière",
+                "ro": "Chapelle de la Senardière",
+                "en": "Chapelle de la Senardière"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Architektur der Kapelle und schalten Sie Ihre Fahrradlichter ein, da der Winternachmittag bereits dunkler wird.",
+                "hu": "Figyelje meg az eldugott kápolna finom építészetét, de kapcsolja be a kerékpárlámpákat, mivel a téli délután egyre sötétebb lesz.",
+                "ro": "Observați arhitectura acestei capele, asigurându-vă că luminile bicicletei sunt aprinse pe măsură ce după-amiaza de iarnă se întunecă.",
+                "en": "Observe the delicate architecture of this solitary chapel, ensuring your bike lights are switched on as the winter afternoon grows dim."
+              }
+            },
+            {
+              "name": {
+                "de": "Sénard Bridge",
+                "hu": "Sénard Bridge",
+                "ro": "Sénard Bridge",
+                "en": "Sénard Bridge"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie den majestätischen Fluss von der Brücke und beenden Sie die Route, bevor es völlig dunkel wird und die Temperaturen stürzen.",
+                "hu": "Tekintse meg a fenséges folyót az erős hídról, még a teljes sötétség beállta és a hőmérséklet drasztikus zuhanása előtt befejezve útját.",
+                "ro": "Vedeți râul maiestuos de pe podul robust, terminând traseul înainte să se lase întunericul complet și temperaturile să scadă.",
+                "en": "View the majestic river from the sturdy bridge, completing your route before complete darkness falls and temperatures plummet."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Morning: Kezdje a reggelt Montaigu-Vendée gazdag múltjának felfedezésével. Csodálja meg a lenyűgöző építészeti remekműveket, a fenséges kastélyokat és a szakrális épületeket, amelyek mind e bájos francia település történelmi jelentőségéről tanúskodnak a látogatóknak.\n\nMidday: A déli órákban a város idillien zöldellő parkjai és festői terei jól megérdemelt pihenésre csábítanak. Élvezze a nyugodt atmoszférát a természet lágy ölén, miközben egy könnyed piknikkel frissíti fel magát, és átadja magát a helyi hangulat varázsának.\n\nAfternoon: A délután a családi szórakozásé és a rejtett kincseké. Látogasson el olyan izgalmas szabadidős központokba, amelyek kicsiket és nagyokat egyaránt elvarázsolnak, vagy fedezze fel a város kevésbé ismert történelmi emlékhelyeit, távol a turisták zajától.\n\nEvening: Zárja a napot a lenyűgöző történelmi hidak egyikének felkeresésével. A lemenő nap lágy fénye meleg aranyba öltözteti az ősi kőszerkezeteket, így tökéletes, romantikus hátteret biztosítva ahhoz, hogy nyugodtan visszagondolhasson a nap felejthetetlen élményeire.",
         "ro": "Morning: Începeți dimineața cu o incursiune în trecutul bogat al localității Montaigu-Vendée. Explorați capodopere arhitecturale impresionante, castele mărețe și clădiri sacre care stau mărturie importanței istorice a acestei comunități franceze pline de farmec autentic.\n\nMidday: La orele amiezii, parcurile idilice și piețele pitorești ale orașului vă invită la o pauză bine meritată. Bucurați-vă de atmosfera relaxantă în mijlocul naturii, în timp ce vă revigorați cu un mic picnic și asimilați frumusețea împrejurimilor locale liniștite.\n\nAfternoon: După-amiaza este dedicată divertismentului în familie și comorilor ascunse. Vizitați centre de agrement captivante care îi încântă pe copii și adulți deopotrivă, sau explorați locuri istorice mai retrase, departe de traseele turistice aglomerate obișnuite.\n\nEvening: Încheiați ziua cu o excursie la podurile istorice impresionante din împrejurimi. Lumina blândă a soarelui de seară învăluie vechile structuri de piatră într-o strălucire caldă, oferind un cadru absolut perfect pentru a reflecta asupra experiențelor memorabile adunate.",
         "en": "Morning: Start your morning with a journey into the rich past of Montaigu-Vendée. Explore impressive architectural masterpieces, majestic castles, and sacred buildings that bear witness to the profound historical significance of this incredibly charming French community.\n\nMidday: At midday, the idyllic parks and picturesque squares of the town invite you to take a well-deserved break. Enjoy the relaxed atmosphere amidst the lush greenery while refreshing yourself with a light picnic and fully soaking in the charming local surroundings.\n\nAfternoon: The afternoon is all about family entertainment and discovering hidden treasures. Visit exciting leisure centers that delight both children and adults alike, or venture out to explore more secluded historical sites away from the usual bustling tourist crowds.\n\nEvening: Conclude your amazing day with a trip to the impressive historical bridges nearby. The gentle evening sun bathes the ancient stone structures in a warm, golden glow, providing the absolute perfect backdrop to quietly reflect on all your wonderful new memories."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie die regnerische Fahrt beim Maison, dann fahren Sie zur Burg.\n\nMittags parken Sie beim Ludi Planet für ausgiebigen Indoor-Spaß.\n\nDer Nachmittag führt Sie zur Kapelle und Église Notre-Dame, nur kurze Sprints vom Auto entfernt.\n\nDer Abend endet am Rathaus und der Brücke Sénard; achten Sie auf Pfützen.",
+            "hu": "Kezdje esős reggeli autózását a Maisonnál, majd óvatosan hajtson a kastélyhoz.\n\nDélben parkoljon a Ludi Planet közelében egy kiadós benti szórakozáshoz.\n\nA délután a kápolnához és az Église Notre-Dame-hoz viszi, rövid sprintekkel az autóból.\n\nAz este a városházánál és a Sénard hídnál ér véget; figyeljen a tócsákra.",
+            "ro": "Începeți traseul de dimineață la Maison, apoi conduceți prudent la Castel.\n\nLa prânz, parcați lângă Ludi Planet pentru distracție interioară departe de ploaie.\n\nDupă-amiaza vă duce la Capelă și Biserica Notre-Dame, cu sprinturi scurte de la mașină.\n\nSeara se încheie la Primărie și Podul Sénard; atenție la bălți.",
+            "en": "Start your rainy morning drive at the Maison, then cautiously drive to the Château.\n\nMidday, park near Ludi Planet for extensive indoor fun away from the heavy rain.\n\nAfternoon takes you to the Chapelle and Église Notre-Dame with short dashes from the car.\n\nEvening ends with quick stops at the Mairie and Sénard Bridge; watch for puddles."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison des associations",
+                "hu": "Maison des associations",
+                "ro": "Maison des associations",
+                "en": "Maison des associations"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die historische Architektur im Inneren und parken Sie so nah wie möglich, um sich den morgendlichen Schauern zu entziehen.",
+                "hu": "Csodálja meg a kúria benti történelmi építészetét, és parkoljon a lehető legközelebb, hogy minimalizálja az esőben töltött időt.",
+                "ro": "Admirați arhitectura istorică din interiorul conacului, parcând cât mai aproape posibil pentru a minimiza expunerea la ploile matinale.",
+                "en": "Marvel at the historical architecture inside the manor, parking as close as possible to minimize your exposure to the relentless morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montaigu",
+                "hu": "Château de Montaigu",
+                "ro": "Château de Montaigu",
+                "en": "Château de Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die Burgruinen an, aber holen Sie einen großen Regenschirm aus dem Kofferraum, bevor Sie den schlammigen Weg vom Parkplatz gehen.",
+                "hu": "Tekintse meg az impozáns kastélyromokat, de kapjon fel egy nagy esernyőt a csomagtartóból a saras parkolói megközelítés előtt.",
+                "ro": "Explorați ruinele castelului, dar luați o umbrelă mare din portbagaj înainte de a naviga pe poteca noroioasă de la parcare.",
+                "en": "Check out the imposing castle ruins, but grab a large umbrella from the trunk before navigating the muddy approach from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludi Planet",
+                "hu": "Ludi Planet",
+                "ro": "Ludi Planet",
+                "en": "Ludi Planet"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie Stunden in diesem riesigen Indoor-Unterhaltungszentrum und halten Sie die Familie trocken und glücklich, während es draußen gießt.",
+                "hu": "Töltsön órákat ebben a hatalmas benti szórakoztató központban, ahol az egész család teljesen száraz és boldog marad, míg kint ömlik az eső.",
+                "ro": "Petreceți ore întregi în acest centru masiv de divertisment interior, menținând familia uscată și fericită în timp ce afară toarnă cu găleata.",
+                "en": "Spend hours enjoying this massive indoor entertainment center, keeping the whole family totally dry and happy while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Senardière",
+                "hu": "Chapelle de la Senardière",
+                "ro": "Chapelle de la Senardière",
+                "en": "Chapelle de la Senardière"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Kapelle bequem vom Auto aus, wenn der Regen zu stark ist, oder steigen Sie kurz in wasserdichten Stiefeln aus.",
+                "hu": "Szemlélje meg a kápolna bájos homlokzatát az autó kényelméből, ha nagyon esik, vagy pattanjon ki röviden vízálló cipőben.",
+                "ro": "Priviți fațada fermecătoare a capelei din confortul mașinii dacă ploaia este prea deasă, sau ieșiți scurt în cizme impermeabile.",
+                "en": "View the chapel's charming facade quickly from the comfort of your car if the rain is too heavy, or step out briefly in waterproof boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diese prächtige Kirche, um ihr friedliches Ambiente zu entdecken, und finden Sie einen warmen, trockenen Hafen vor dem Regen.",
+                "hu": "Lépjen be ebbe a csodálatos templomba, hogy felfedezze békés hangulatát, és meleg, száraz menedéket találjon a felhőszakadások elől.",
+                "ro": "Intrați în această biserică magnifică pentru a descoperi ambianța sa pașnică, găsind un refugiu cald și uscat împotriva ploilor torențiale.",
+                "en": "Enter this magnificent church to discover its peaceful ambiance and elaborate decorations, finding a warm and dry haven from the downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Boufféré",
+                "hu": "Mairie déléguée de Boufféré",
+                "ro": "Mairie déléguée de Boufféré",
+                "en": "Mairie déléguée de Boufféré"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses elegante städtische Wahrzeichen vom Straßenrand aus; hüten Sie sich vor tiefen Pfützen am Bordstein beim Anhalten.",
+                "hu": "Figyelje meg ezt az elegáns önkormányzati épületet az út széléről; vigyázzon a járdaszegélyeknél kialakuló mély tócsákra félreálláskor.",
+                "ro": "Observați acest reper municipal elegant de pe marginea drumului; feriți-vă de bălțile adânci din apropierea bordurilor la parcare.",
+                "en": "Observe this elegant municipal landmark from the roadside; beware of deep puddles forming near the curbs when pulling over your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Sénard Bridge",
+                "hu": "Sénard Bridge",
+                "ro": "Sénard Bridge",
+                "en": "Sénard Bridge"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das mittelalterliche Brückendesign, und lassen Sie die Autoheizung an, um Ihre feuchten Mäntel nach dem Aussteigen zu trocknen.",
+                "hu": "Csodálja meg az esőtől megduzzadt vizek felett átívelő hidat, járassa az autófűtést, hogy kiszárítsa nedves kabátjait a kiszállás után.",
+                "ro": "Admirați designul medieval al podului, menținând încălzirea mașinii pornită pentru a usca hainele umede după ce ați ieșit afară.",
+                "en": "Admire the sturdy medieval bridge design over the rain-swollen waters, keeping the car heater on to dry your damp coats after stepping out."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterfahrt beim Maison und verlassen Sie sich auf die Autoheizung.\n\nMittags trotzen Sie der Kälte an der Burg und fahren dann ins warme Ludi Planet.\n\nNachmittagsbesuche der Kirchen erfordern dicke Mäntel trotz der Fahrt.\n\nBeenden Sie die Tour am Rathaus und der Brücke, und fahren Sie vorsichtig auf eisigen Straßen.",
+            "hu": "Kezdje téli autózását a Maisonnál, az autó fűtésére támaszkodva a megállók között.\n\nDélben dacoljon a hideggel a kastélynál, majd irány a meleg Ludi Planet.\n\nA délutáni kápolna- és templomlátogatáshoz az autózás ellenére is vastag kabát kell.\n\nZárjon a városházánál és a hídnál naplemente körül, óvatosan vezetve a jeges utakon.",
+            "ro": "Începeți traseul de iarnă la Maison, bazându-vă pe căldura mașinii.\n\nLa prânz, înfruntați frigul la Castel, apoi îndreptați-vă spre căldura Ludi Planet.\n\nVizitele după-amiază la biserici necesită haine groase în ciuda mașinii.\n\nÎncheiați la Primărie și Pod pe la apus, conducând prudent pe drumurile înghețate.",
+            "en": "Kick off your winter drive at the Maison, relying on car heat between stops.\n\nMidday, brave the cold at the Château, then head straight to Ludi Planet's warmth.\n\nAfternoon visits to the Chapelle and Église require heavy coats despite the drive.\n\nConclude at the Mairie and Sénard Bridge around sunset, driving safely on icy roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Maison des associations",
+                "hu": "Maison des associations",
+                "ro": "Maison des associations",
+                "en": "Maison des associations"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Innenräume dieses schönen Anwesens, während der Entfroster Ihres Autos arbeitet, während Sie eine schnelle Wintertour machen.",
+                "hu": "Csodálja meg e gyönyörű birtok belső tereit, hagyja, hogy a szélvédőfűtés dolgozzon, miközben élvez egy gyors téli bejárást.",
+                "ro": "Admirați interioarele grandioase ale acestei proprietăți, lăsând dezaburirea mașinii să-și facă treaba în timp ce faceți un scurt tur de iarnă.",
+                "en": "Admire the stately interiors of this beautiful estate, letting your vehicle’s defroster clear the windshield while you enjoy a quick winter tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Montaigu",
+                "hu": "Château de Montaigu",
+                "ro": "Château de Montaigu",
+                "en": "Château de Montaigu"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie durch die frostigen Ruinen, aber ziehen Sie Ihre Thermokleidung fest zu, bevor Sie das warme Auto verlassen.",
+                "hu": "Járja be a fagyos romokat a lenyűgöző téli tájban, de húzza fel jól a termo rétegek cipzárjait, mielőtt kiszállna a meleg autóból.",
+                "ro": "Plimbați-vă printre ruinele înghețate și fotografiați peisajul aspru, dar închideți bine fermoarul hainelor termice înainte de a ieși din mașină.",
+                "en": "Wander the frosty ruins and capture incredible photos of the stark landscape, but zip up your thermal layers tightly before leaving the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Ludi Planet",
+                "hu": "Ludi Planet",
+                "ro": "Ludi Planet",
+                "en": "Ludi Planet"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der Kälte, um beheizte Indoor-Attraktionen zu erleben und die Kinder in gemütlicher Umgebung ihre Energie abbauen zu lassen.",
+                "hu": "Lépjen ki teljesen a hidegből, hogy fantasztikus, fűtött benti attrakciókat próbáljon ki, ahol a gyerekek hangulatos környezetben vezethetik le energiáikat.",
+                "ro": "Ieșiți complet din frig pentru a experimenta atracții fantastice încălzite, lăsând copiii să-și consume energia într-un mediu confortabil.",
+                "en": "Step out of the cold completely to experience fantastic heated indoor attractions, letting the children burn off energy in a cozy environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle de la Senardière",
+                "hu": "Chapelle de la Senardière",
+                "ro": "Chapelle de la Senardière",
+                "en": "Chapelle de la Senardière"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie kurz an, um dieses religiöse Denkmal umgeben von Winterfrost zu fotografieren. Achten Sie auf eine zuverlässige Autobatterie in der Kälte.",
+                "hu": "Álljon félre röviden egy fotó erejéig e bájos, fagylepte vallási műemléknél, ügyelve arra, hogy az autó akkumulátora bírja a nagy hideget.",
+                "ro": "Trageți pe dreapta pentru a fotografia acest monument religios fermecător înconjurat de brumă, asigurându-vă că bateria mașinii rezistă la frig.",
+                "en": "Pull over briefly to photograph this charming religious monument surrounded by winter frost, ensuring your car battery stays reliable in the chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Notre-Dame-de-l'Assomption",
+                "hu": "Église Notre-Dame-de-l'Assomption",
+                "ro": "Église Notre-Dame-de-l'Assomption",
+                "en": "Église Notre-Dame-de-l'Assomption"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie diese große, stille Kirche, um ihre architektonische Schönheit zu betrachten und eine Pause von den eisigen Winden zu genießen.",
+                "hu": "Lépjen be ebbe a hatalmas, csendes templomba, hogy megcsodálja építészeti szépségét, élvezve a kinti fagyos szelektől való menedéket.",
+                "ro": "Intrați în această biserică mare și tăcută pentru a-i privi frumusețea arhitecturală, savurând pauza de la vânturile înghețate de afară.",
+                "en": "Step inside this large and silent church to gaze at its architectural beauty, relishing the break from the freezing outdoor winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Mairie déléguée de Boufféré",
+                "hu": "Mairie déléguée de Boufféré",
+                "ro": "Mairie déléguée de Boufféré",
+                "en": "Mairie déléguée de Boufféré"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die saubere Architektur des Rathauses, wenn das Nachmittagslicht schwindet, und achten Sie auf Eis auf dem Parkplatz.",
+                "hu": "Nézze meg alaposan a városháza letisztult építészetét a gyengülő délutáni fényekben, vigyázva a parkolóban lévő alattomos jégfoltokra.",
+                "ro": "Priviți arhitectura îngrijită a primăriei pe măsură ce lumina după-amiezii dispare, având grijă să nu alunecați pe gheața din parcare.",
+                "en": "Look closely at the town hall's neat architecture as the afternoon light fades, taking care not to slip on ice patches in the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Sénard Bridge",
+                "hu": "Sénard Bridge",
+                "ro": "Sénard Bridge",
+                "en": "Sénard Bridge"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie diese Struktur zur goldenen Stunde kurz vor Einbruch der Dunkelheit und achten Sie auf Winterreifen für die Heimfahrt.",
+                "hu": "Keljen át ezen a kőépítményen az alkonyat előtti aranyórában, megbizonyosodva arról, hogy abroncsai megfelelő téli tapadással rendelkeznek.",
+                "ro": "Traversați această structură din piatră la ora de aur chiar înainte de amurg, asigurându-vă că anvelopele au aderență de iarnă adecvată.",
+                "en": "Cross this stone structure during the golden hour just before dusk, ensuring your tires have adequate winter grip before you drive home."
+              }
+            }
+          ]
+        }
       }
     }
   }

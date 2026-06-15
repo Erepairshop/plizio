@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a Moulin-Neuf kert nyugodt szépségében elmerülve, mielőtt a kiterjedt dűnék felé venné az irányt. Délben Tréompan drámai tengerparti tájaihoz érkezik. A délutánt a helyi strandok szélfútta partjain és homokos szakaszain bolyongva töltheti. Ahogy leszáll az est, találjon békét Porzhig ar Rouanez zord öbleinél.",
         "ro": "Începeți dimineața scufundat în frumusețea senină a Grădinii Moulin-Neuf înainte de a vă îndrepta spre dunele întinse. La amiază ajungeți la peisajele dramatice de coastă din Tréompan. Petreceți după-amiaza rătăcind pe țărmurile bătute de vânt și plajele locale. Pe măsură ce se lasă seara, găsiți liniștea la golfurile accidentate din Porzhig ar Rouanez.",
         "en": "Start your morning immersed in the serene beauty of Moulin-Neuf Garden before heading towards the expansive dunes. Midday brings you to the dramatic coastal landscapes of Tréompan. Spend your afternoon wandering the windswept shorelines and sandy stretches of the local beaches. As evening falls, find peace at the rugged coves of Porzhig ar Rouanez."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag in Ploudalmézeau beginnt geschützt im Garten, wo die Bäume den ersten Guss abfangen. Mittags fordern der Wind und die nassen Dünen Ihre Ausrüstung heraus. Nachmittags erleben Sie die raue, graue Pracht der bretonischen Küste. Am Abend kehren Sie durchnässt, aber belebt vom Salz der Luft zurück, wenn die Dämmerung in den grauen Wolken verschwindet.",
+            "hu": "Az esős nap a kert védettebb részein indul, ahol a fák lombja felfogja a cseppeket. Délben a szél és a vizes dűnék próbára teszik a felszerelést. Délután a breton partvidék zord, szürke pompáját élvezheti a szakadó esőben. Estére a sós pára és a nedvesség teljesen átjárja a ruhát, így érdemes korán fedett helyre vonulni a szürkület elől.",
+            "ro": "O zi ploioasă în Ploudalmézeau începe la adăpostul grădinii, unde copacii opresc primii stropi. La prânz, vântul și dunele umede vă provoacă echipamentul. După-amiaza, experimentați splendoarea cenușie și aspră a coastei bretone. Seara, vă întoarceți uzi, dar înviorați de sarea din aer, pe măsură ce amurgul dispare în norii grei.",
+            "en": "A rainy day in Ploudalmézeau starts sheltered in the garden, where trees catch the first drops. At noon, the wind and wet dunes challenge your gear. In the afternoon, experience the rugged, grey splendor of the Breton coast. By evening, you return soaked but invigorated by the salt air, as twilight fades into the heavy grey clouds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moulin-Neuf Garten",
+                "hu": "Moulin-Neuf kert",
+                "ro": "Grădina Moulin-Neuf",
+                "en": "Moulin-Neuf Garden"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichte Bepflanzung als natürlichen Regenschutz; wasserfeste Schuhe sind auf den schlammigen Wegen im Garten heute ein absolutes Muss.",
+                "hu": "Használja a sűrű növényzetet természetes esernyőként; a sárga felázott kerti utakon a vízálló túrabakancs ma elengedhetetlen viselet.",
+                "ro": "Folosiți vegetația densă ca protecție naturală împotriva ploii; încălțămintea impermeabilă este obligatorie pe potecile noroioase de astăzi.",
+                "en": "Use the dense planting as natural rain cover; waterproof shoes are an absolute must on the muddy garden paths today."
+              }
+            },
+            {
+              "name": {
+                "de": "Tréompan-Dünen",
+                "hu": "Tréompan dűnék",
+                "ro": "Dunele Tréompan",
+                "en": "Tréompan Dunes"
+              },
+              "tip_5lang": {
+                "de": "Der Wind treibt den Regen hier peitschend vor sich her; tragen Sie eine eng anliegende Kapuze, damit sie bei den starken Böen nicht vom Kopf fliegt.",
+                "hu": "A szél itt korbácsolja az esőt; viseljen szorosan záródó kapucnit, hogy az erős széllökések ne fújják le a fejéről a dűnék között.",
+                "ro": "Vântul mână ploaia cu putere aici; purtați o glugă strânsă pentru a preveni smulgerea ei de către rafalele puternice printre dune.",
+                "en": "The wind whips the rain here; wear a tight-fitting hood to prevent it from being blown off your head by the strong gusts among the dunes."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer von Tréompan",
+                "hu": "Tréompan part",
+                "ro": "Țărmul Tréompan",
+                "en": "Grève de Tréompan"
+              },
+              "tip_5lang": {
+                "de": "Die glitschigen Algen auf den Steinen sind bei Regen besonders tückisch; bleiben Sie auf den festen Sandabschnitten, um nicht auszurutschen.",
+                "hu": "Az esőben a köveken lévő algák különösen csúszósak; maradjon a keményebb homokos részeken, hogy elkerülje a veszélyes eséseket.",
+                "ro": "Algele alunecoase de pe pietre sunt deosebit de înșelătoare pe ploaie; rămâneți pe secțiunile de nisip ferm pentru a evita alunecarea.",
+                "en": "The slippery algae on the rocks are especially treacherous in the rain; stick to the firm sand sections to avoid slipping."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Tréompan",
+                "hu": "Tréompan strand",
+                "ro": "Plaja Tréompan",
+                "en": "Plage de Tréompan"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie kurzzeitig Schutz hinter den Felsformationen am Rand; beobachten Sie das Spiel der Wellen im Regen aus einer windgeschützten Nische.",
+                "hu": "Keressen rövid menedéket a szélső sziklaalakzatok mögött; figyelje a hullámok játékát az esőben egy szélvédett mélyedésből.",
+                "ro": "Căutați adăpost temporar în spatele formațiunilor stâncoase; observați jocul valurilor în ploaie dintr-o nișă ferită de vânt.",
+                "en": "Seek temporary shelter behind the rock formations at the edge; watch the waves in the rain from a wind-protected niche."
+              }
+            },
+            {
+              "name": {
+                "de": "Porzhig ar Rouanez",
+                "hu": "Porzhig ar Rouanez",
+                "ro": "Porzhig ar Rouanez",
+                "en": "Porzhig ar Rouanez"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist hier sehr aufgeweicht; nutzen Sie die erhöhten Aussichtspunkte vorsichtig, da die Grasnarbe am Rand leicht nachgeben kann.",
+                "hu": "A talaj itt erősen felázott; az emelt kilátópontokat óvatosan közelítse meg, mert a fűvel borított szél könnyen megcsúszhat.",
+                "ro": "Solul este foarte moale aici; folosiți punctele de observație cu prudență, deoarece marginea înierbată poate ceda ușor sub picioare.",
+                "en": "The ground is very soft here; use the elevated viewpoints carefully, as the grassy edge can easily give way in the wet weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit frostigem Reif im Garten. Die kühle Brise an den Dünen macht die Luft kristallklar. Am Nachmittag taucht die tiefstehende Sonne die Strände in ein goldenes, kaltes Licht. Gegen 17:00 Uhr sinkt die Sonne bereits unter den Horizont, und die Kälte zieht rasch an, was den Tag zu einem kurzen, aber intensiven Naturerlebnis macht.",
+            "hu": "A téli reggel zúzmarás csillogással indul a kertben. A dűnék felett átfújó hűvös szél kristálytisztává teszi a levegőt. Délután a laposan beeső napsugarak arany, de hideg fénybe vonják a partot. 17:00 körül a nap már a horizont alá bukik, és a fagy gyorsan visszatér, rövidre, de intenzívre fogva a kirándulást.",
+            "ro": "Dimineața de iarnă începe cu promoroacă în grădină. Briza rece de la dune face aerul de o claritate cristalină. După-amiaza, soarele jos scaldă plajele într-o lumină aurie, dar rece. În jurul orei 17:00, soarele coboară deja sub orizont, iar frigul se instalează rapid, făcând ziua scurtă, dar intensă.",
+            "en": "The winter morning starts with frosty rime in the garden. The cool breeze at the dunes makes the air crystal clear. In the afternoon, the low sun bathes the beaches in a golden, cold light. Around 17:00, the sun already sinks below the horizon, and the cold sets in quickly, making for a short but intense day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moulin-Neuf Garten",
+                "hu": "Moulin-Neuf kert",
+                "ro": "Grădina Moulin-Neuf",
+                "en": "Moulin-Neuf Garden"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf den Brücken; die winterliche Stille im Garten ist perfekt für Naturbeobachtungen bei klarem Frostwetter.",
+                "hu": "Ügyeljen a hidakon az esetleges jegesedésre; a kert téli csendje tökéletes a madármegfigyeléshez a tiszta, fagyos időben.",
+                "ro": "Atenție la porțiunile înghețate de pe poduri; liniștea hibernală a grădinii este perfectă pentru observarea naturii pe vreme geroasă.",
+                "en": "Watch out for icy spots on the bridges; the winter silence in the garden is perfect for nature observation in clear, frosty weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Tréompan-Dünen",
+                "hu": "Tréompan dűnék",
+                "ro": "Dunele Tréompan",
+                "en": "Tréompan Dunes"
+              },
+              "tip_5lang": {
+                "de": "Der schneidende Winterwind erfordert Ohrenschutz; die Dünenlandschaft wirkt im Winterlicht besonders weitläufig und fast menschenleer.",
+                "hu": "A metsző téli szél miatt viseljen fülvédőt vagy sapkát; a dűnék látványa a téli fényben különösen tágasnak és szinte érintetlennek tűnik.",
+                "ro": "Vântul tăios de iarnă necesită protecție pentru urechi; peisajul dunelor pare deosebit de vast și aproape pustiu în lumina de iarnă.",
+                "en": "The biting winter wind requires ear protection; the dune landscape looks particularly vast and almost deserted in the winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Ufer von Tréompan",
+                "hu": "Tréompan part",
+                "ro": "Țărmul Tréompan",
+                "en": "Grève de Tréompan"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist oft hart gefroren, was das Gehen erleichtert; tragen Sie Thermosocken, da die Kälte vom Boden her schnell in die Füße zieht.",
+                "hu": "A homok gyakran keményre van fagyva, ami megkönnyíti a járást; viseljen termozoknit, mert a talaj felől gyorsan áthűlhet a lába.",
+                "ro": "Nisipul este adesea înghețat, ceea ce ușurează mersul; purtați șosete termice, deoarece frigul de la sol pătrunde rapid prin încălțăminte.",
+                "en": "The sand is often frozen hard, making walking easier; wear thermal socks as the cold from the ground quickly seeps into your feet."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Tréompan",
+                "hu": "Tréompan strand",
+                "ro": "Plaja Tréompan",
+                "en": "Plage de Tréompan"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die tiefstehende Wintersonne für Fotos; der Kontrast zwischen dem kalten Blau des Meeres und dem frostigen Ufer ist einzigartig.",
+                "hu": "Használja ki a lapos téli napsütést fotózáshoz; a tenger hideg kékje és a fagyos part közötti kontraszt ilyenkor a legszebb.",
+                "ro": "Profitați de soarele jos de iarnă pentru fotografii; contrastul dintre albastrul rece al mării și malul înghețat este unic.",
+                "en": "Enjoy the low winter sun for photography; the contrast between the cold blue of the sea and the frosty shore is unique now."
+              }
+            },
+            {
+              "name": {
+                "de": "Porzhig ar Rouanez",
+                "hu": "Porzhig ar Rouanez",
+                "ro": "Porzhig ar Rouanez",
+                "en": "Porzhig ar Rouanez"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Besuch vor 16:30 Uhr, um nicht von der Dunkelheit überrascht zu werden; der Abstieg kann bei Frost gefährlich glatt sein.",
+                "hu": "Fejezze be a látogatást 16:30 előtt, hogy ne érje váratlanul a sötétedés; a lejtős részek fagyban veszélyesen csúszósak lehetnek.",
+                "ro": "Încheiați vizita înainte de 16:30 pentru a nu fi surprins de întuneric; coborârea poate fi periculos de alunecoasă pe timp de îngheț.",
+                "en": "Finish your visit before 16:30 to avoid being caught by darkness; the descent can be dangerously slippery during frost."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen el a Moulin-Neuf buja zöldjéből, hogy érezze a friss reggeli óceáni szellőt a Tréompan dűnéknél. Délre festői kikötők és rejtett sziklás öblök között fog ugrálni. A délután Kerdéniel nyugodt homokján töltött pihentető pillanatokkal jutalmazza erőfeszítéseit. Zárja a napot a történelemről elmélkedve a hatalmas Amoco Cadiz horgonynál naplementekor.",
         "ro": "Pedați departe de verdeața luxuriantă a Moulin-Neuf pentru a simți briza proaspătă a oceanului la Dunele Tréompan. La prânz, veți face salturi între porturi pitorești și golfuri stâncoase ascunse. După-amiaza vă răsplătește efortul cu momente de relaxare pe nisipurile calme din Kerdéniel. Încheiați ziua reflectând asupra istoriei lângă ancora masivă Amoco Cadiz.",
         "en": "Pedal away from the lush greenery of Moulin-Neuf to feel the fresh morning ocean breeze at the Tréompan Dunes. By midday, you'll be hopping between picturesque harbors and hidden rocky coves. The afternoon rewards your effort with relaxing moments on the calm sands of Kerdéniel. End the day reflecting on history by the massive Amoco Cadiz Anchor at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen verlangt nach guter Kleidung und Vorsicht. Der Morgen im Garten bietet Schutz durch die Bäume, doch die Wege sind rutschig. Mittags kämpfen Sie gegen den Wind an der Küste. Am Nachmittag gleiten Sie über nasse Straßen zu historischen Ankern. Der Tag endet früh, wenn die Nässe die Kette und Ihre Ausdauer fordert.",
+            "hu": "Az esős kerékpártúra jó öltözetet és óvatosságot igényel. A reggel a kertben védettebb, de az utak csúszósak. Délben a tengerparti széllel kell megküzdeni a nyeregben. Délután vizes aszfalton gurulhat a történelmi horgonyhoz. A nap hamar véget ér, ahogy a nedvesség kikezdi a láncot és a kitartást is.",
+            "ro": "O tură cu bicicleta pe ploaie necesită îmbrăcăminte bună și prudență. Dimineața în grădină oferă protecție, dar drumurile sunt alunecoase. La prânz, luptați cu vântul pe coastă. După-amiaza, rulați pe asfaltul ud spre ancora istorică. Ziua se încheie devreme, când umezeala solicită lanțul și rezistența.",
+            "en": "A bike tour in the rain demands good clothing and caution. The morning in the garden provides some cover, but paths are slippery. At noon, you fight the wind on the coast. In the afternoon, glide over wet roads to the historical anchor. The day ends early as the dampness challenges both the chain and your endurance."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moulin-Neuf Garten",
+                "hu": "Moulin-Neuf kert",
+                "ro": "Grădina Moulin-Neuf",
+                "en": "Moulin-Neuf Garden"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie auf den befestigten Wegen langsam, da nasses Laub extrem rutschig ist; suchen Sie bei Schauern unter den großen Platanen Schutz.",
+                "hu": "Haladjon lassan a burkolt utakon, mert a vizes levelek rendkívül csúszósak; zápor esetén keressen menedéket a nagy platánfák alatt.",
+                "ro": "Mergeți încet pe aleile pavate, deoarece frunzele ude sunt extrem de alunecoase; în caz de aversă, căutați adăpost sub platanii mari.",
+                "en": "Ride slowly on paved paths as wet leaves are extremely slippery; seek shelter under the large plane trees during heavy showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Tréompan-Dünen",
+                "hu": "Tréompan dűnék",
+                "ro": "Dunele Tréompan",
+                "en": "Tréompan Dunes"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die tiefen Sandwege, die nun schlammig sind; bleiben Sie auf den Schotterpisten und achten Sie auf Pfützen, die Löcher verdecken.",
+                "hu": "Kerülje a mély homokos utakat, amelyek most sárosak; maradjon a kavicsos sávokon, és ügyeljen a lyukakat elrejtő tócsákra.",
+                "ro": "Evitați potecile cu nisip adânc, acum noroioase; rămâneți pe drumurile cu pietriș și atenție la bălțile care pot ascunde gropi.",
+                "en": "Avoid deep sandy paths that are now muddy; stick to the gravel tracks and watch out for puddles hiding potential potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Porzhig ar Rouanez",
+                "hu": "Porzhig ar Rouanez",
+                "ro": "Porzhig ar Rouanez",
+                "en": "Porzhig ar Rouanez"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zum Ufer; die Gischt mischt sich mit dem Regen und macht die Griffe und Felgen heute sehr nass.",
+                "hu": "Ellenőrizze a fékeket a partra ereszkedés előtt; a sós pára és az eső keveréke miatt a fékkarok és a felnik ma nagyon nedvesek lesznek.",
+                "ro": "Verificați frânele înainte de coborârea spre țărm; amestecul de aerosoli și ploaie face manetele și jantele foarte ude astăzi.",
+                "en": "Check your brakes before descending to the shore; the salt spray mixes with the rain, making grips and rims very wet today."
+              }
+            },
+            {
+              "name": {
+                "de": "Pors Gaillion",
+                "hu": "Pors Gaillion",
+                "ro": "Pors Gaillion",
+                "en": "Pors Gaillion"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Hafenmauer als Windschutz beim Abstellen der Räder; ein kurzes Unterstellen am Hafen hilft, die schlimmste Nässe abzuwarten.",
+                "hu": "Használja a kikötői falat szélfogóként a kerékpárok leállításakor; egy rövid várakozás a kikötőben segít átvészelni a leghevesebb esőt.",
+                "ro": "Folosiți zidul portului ca paravan împotriva vântului când parcați bicicletele; un scurt popas în port ajută la evitarea celei mai mari umidități.",
+                "en": "Use the harbor wall as a windbreak when parking the bikes; a short stop at the harbor helps wait out the heaviest rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kerdéniel",
+                "hu": "Kerdéniel strand",
+                "ro": "Plaja Kerdéniel",
+                "en": "Plage de Kerdéniel"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann heute matschig sein; stellen Sie das Rad auf festem Untergrund ab, um ein Einsinken des Seitenständers zu verhindern.",
+                "hu": "A parkoló ma sáros lehet; állítsa a kerékpárt szilárd talajra, hogy megelőzze az oldaltámasz sárba süllyedését és a dőlést.",
+                "ro": "Parcarea poate fi noroioasă astăzi; lăsați bicicleta pe o suprafață fermă pentru a preveni scufundarea cricului în noroi.",
+                "en": "The parking area may be muddy today; park your bike on firm ground to prevent the kickstand from sinking into the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Amoco Cadiz Anker",
+                "hu": "Amoco Cadiz horgony",
+                "ro": "Ancora Amoco Cadiz",
+                "en": "Amoco Cadiz Anchor"
+              },
+              "tip_5lang": {
+                "de": "Das Metall des Ankers glänzt im Regen besonders stark; wischen Sie die Bremsflanken nach der Tour ab, um Korrosion durch das Salzwasser zu vermeiden.",
+                "hu": "A horgony féme különösen csillog az esőben; a túra után törölje át a felniket, hogy megelőzze a sós víz okozta korróziót.",
+                "ro": "Metalul ancorei strălucește intens în ploaie; ștergeți jantele după tură pentru a preveni coroziunea cauzată de apa sărată.",
+                "en": "The anchor's metal shines brightly in the rain; wipe down your rims after the tour to prevent corrosion from the saltwater spray."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Klarer Himmel und kalte Luft machen diese Wintertour zu einem Erlebnis für Hartgesottene. Der Morgen ist frostig, die Reifen greifen gut auf dem harten Boden. Mittags wärmt die Sonne nur schwach an der Küste. Ab 16:30 Uhr sinken die Temperaturen rapide. Sorgen Sie für gute Beleuchtung, da die Dunkelheit im Winter sehr plötzlich über die flache Landschaft hereinbricht.",
+            "hu": "A tiszta égbolt és a hideg levegő igazi kihívássá teszi ezt a téli kerékpártúrát. A reggel fagyos, a gumik jól tapadnak a kemény talajon. Délben a nap csak gyengén melegít a parton. 16:30 után a hőmérséklet hirtelen zuhanni kezd. Ügyeljen a jó világításra, mert a sötétség váratlanul tör rá a sík tájra.",
+            "ro": "Cerul senin și aerul rece fac din această tură de iarnă o experiență pentru cei rezistenți. Dimineața este geroasă, anvelopele aderă bine pe solul tare. La prânz, soarele încălzește slab pe coastă. După ora 16:30, temperaturile scad brusc. Asigurați-vă un iluminat bun, deoarece întunericul vine repede.",
+            "en": "Clear skies and cold air make this winter tour an experience for the hardy. The morning is frosty, and tires grip well on the hard ground. At noon, the sun warms only faintly on the coast. After 16:30, temperatures drop rapidly. Ensure good lighting as darkness falls very suddenly over the flat landscape in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moulin-Neuf Garten",
+                "hu": "Moulin-Neuf kert",
+                "ro": "Grădina Moulin-Neuf",
+                "en": "Moulin-Neuf Garden"
+              },
+              "tip_5lang": {
+                "de": "Warme Handschuhe sind für die Abfahrt aus dem Garten wichtig; genießen Sie die klare, fast staubfreie Winterluft unter den kahlen Bäumen.",
+                "hu": "A kertből való induláshoz elengedhetetlen a meleg kesztyű; élvezze a tiszta, pormentes téli levegőt a kopár ágak alatt gurulva.",
+                "ro": "Mănușile groase sunt importante pentru plecarea din grădină; bucurați-vă de aerul curat de iarnă sub ramurile desfrunzite.",
+                "en": "Warm gloves are important for the ride out of the garden; enjoy the clear, dust-free winter air under the bare branches."
+              }
+            },
+            {
+              "name": {
+                "de": "Tréompan-Dünen",
+                "hu": "Tréompan dűnék",
+                "ro": "Dunele Tréompan",
+                "en": "Tréompan Dunes"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf dem Radweg zu den Dünen kann eisig sein; ein Multifunktionstuch vor dem Gesicht schützt heute effektiv vor dem kalten Fahrtwind.",
+                "hu": "A dűnék felé vezető úton jeges lehet a szél; egy arc elé húzott csősál ma hatékonyan véd a fagyos menetszél ellen tekerés közben.",
+                "ro": "Vântul pe drumul spre dune poate fi înghețat; o eșarfă multifuncțională pe față vă protejează eficient de curentul rece de aer.",
+                "en": "The wind on the path to the dunes can be icy; a neck gaiter pulled over your face effectively protects against the cold wind today."
+              }
+            },
+            {
+              "name": {
+                "de": "Porzhig ar Rouanez",
+                "hu": "Porzhig ar Rouanez",
+                "ro": "Porzhig ar Rouanez",
+                "en": "Porzhig ar Rouanez"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie sich regelmäßig, um nicht auszukühlen; die Aussicht auf die winterliche Bucht belohnt die Anstrengung im kalten Sattel.",
+                "hu": "Mozogjon rendszeresen, hogy ne hűljön ki a várakozás alatt; a téli öböl látványa bőségesen kárpótolja a fagyos nyeregben töltött időért.",
+                "ro": "Mișcați-vă regulat pentru a nu îngheța; vederea asupra golfului hibernal răsplătește efortul depus în șaua rece a bicicletelei.",
+                "en": "Move regularly to keep warm during stops; the view of the winter bay rewards the effort spent in the cold saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Pors Gaillion",
+                "hu": "Pors Gaillion",
+                "ro": "Pors Gaillion",
+                "en": "Pors Gaillion"
+              },
+              "tip_5lang": {
+                "de": "Der Hafen wirkt im Winter sehr friedlich; nutzen Sie die Zeit für einen kurzen, schnellen Marsch zu Fuß, um die Durchblutung der Zehen zu fördern.",
+                "hu": "A kikötő télen rendkívül békés; használja ki az időt egy rövid, tempós sétára, hogy javítsa lábujjaiban a vérkeringést.",
+                "ro": "Portul pare foarte liniștit iarna; profitați de timp pentru o scurtă plimbare vioară pe jos, pentru a stimula circulația în degete.",
+                "en": "The harbor is very peaceful in winter; use the time for a short, brisk walk to stimulate circulation in your toes."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Kerdéniel",
+                "hu": "Kerdéniel strand",
+                "ro": "Plaja Kerdéniel",
+                "en": "Plage de Kerdéniel"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am frühen Nachmittag ist hier spektakulär; bleiben Sie nicht zu lange im Stehen, da der Bodenfrost die Wärme schnell entzieht.",
+                "hu": "A kora délutáni fények itt lenyűgözőek; ne álljon túl sokáig egy helyben, mert a talajmenti fagy gyorsan elszívja a hőt.",
+                "ro": "Lumina de după-amiază devreme este spectaculoasă aici; nu stați prea mult pe loc, deoarece înghețul solului extrage rapid căldura.",
+                "en": "The early afternoon light is spectacular here; don't stand still for too long as the ground frost quickly draws out your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Amoco Cadiz Anker",
+                "hu": "Amoco Cadiz horgony",
+                "ro": "Ancora Amoco Cadiz",
+                "en": "Amoco Cadiz Anchor"
+              },
+              "tip_5lang": {
+                "de": "Checken Sie Ihre Lichter vor der Rückfahrt; das kalte Metall des Ankers ist ein beeindruckendes Fotomotiv vor dem frühen Sonnenuntergang.",
+                "hu": "Ellenőrizze a lámpákat a visszaindulás előtt; a horgony hideg fémje lenyűgöző fotótéma a korai naplemente fényében.",
+                "ro": "Verificați luminile înainte de plecare; metalul rece al ancorei este un subiect foto impresionant înainte de apusul timpuriu.",
+                "en": "Check your lights before heading back; the cold metal of the anchor makes for an impressive photo subject before the early sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Az autózás a helyi kertekben tett békés sétával kezdődik, mielőtt az Amoco Cadiz történelmi helyszínére navigálna. Délben lélegzetelállító kilátás nyílik a Château történelmi strandjához közeli sziklákról. A délután festői part menti vezetésre hív a gyönyörű dűnék mellett. Zárja breton autós utazását a hullámokkal küzdő szörfösök megfigyelésével Penfoulban.",
         "ro": "Călătoria dvs. începe cu o plimbare liniștită prin grădinile locale înainte de a naviga către site-ul istoric solemn Amoco Cadiz. La prânz se dezvăluie priveliști uluitoare de pe stâncile accidentate din apropierea plajei Château. După-amiaza este destinată condusului pitoresc pe coastă alături de dune frumoase. Încheiați excursia privindu-i pe surferi la Penfoul.",
         "en": "Your drive begins with a peaceful stroll through local gardens before navigating to the solemn historical site of the Amoco Cadiz. Midday unveils breathtaking vistas from the rugged cliffs near Château's historic beach. The afternoon is meant for scenic coastal driving alongside beautiful dunes and shoreline paths. Wrap up your Breton road trip watching surfers tackle the waves at Penfoul."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die wilde Bretagne bequem vom Fahrersitz aus. Der Morgen beginnt mit einem Spaziergang im geschützten Garten. Mittags fahren Sie zur Küste, wo der Regen gegen die Scheiben peitscht. Die historische Stätte des Amoco Cadiz wirkt bei Sturm besonders bedrückend und real. Der Tag endet an stürmischen Buchten, während Sie im trockenen Auto dem Prasseln lauschen.",
+            "hu": "Élvezze a vad Bretagne-t kényelmesen, a vezetőülésből. A reggel a védettebb kertben tett sétával indul. Délben a part felé veszi az irányt, ahol az eső a szélvédőhöz csapódik. Az Amoco Cadiz emlékhelye viharos időben különösen megrázó és valóságos. A nap viharos öblök mentén zárul, miközben a száraz autóban hallgatja a kopogó esőt.",
+            "ro": "Bucurați-vă de Bretania sălbatică din confortul mașinii. Dimineața începe cu o plimbare în grădina protejată. La prânz, conduceți spre coastă, unde ploaia bate în parbriz. Situl istoric Amoco Cadiz pare deosebit de impresionant pe furtună. Ziua se încheie lângă golfuri agitate, ascultând ropotul ploii din interiorul uscat al mașinii.",
+            "en": "Enjoy wild Brittany from the comfort of your driver's seat. The morning starts with a walk in the sheltered garden. At noon, head to the coast where rain lashes against the windshield. The Amoco Cadiz site feels especially poignant and real in stormy weather. The day ends by tempestuous bays while you listen to the rain from inside the dry car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moulin-Neuf Garten",
+                "hu": "Moulin-Neuf kert",
+                "ro": "Grădina Moulin-Neuf",
+                "en": "Moulin-Neuf Garden"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um trockenen Fußes in den Garten zu kommen; die Wege sind asphaltiert, aber Pfützen können tief sein.",
+                "hu": "Parkoljon közel a bejárathoz, hogy száraz lábbal érjen a kertbe; az utak aszfaltozottak, de a tócsák mélyek lehetnek.",
+                "ro": "Parcați aproape de intrare pentru a ajunge cu picioarele uscate în grădină; aleile sunt asfaltate, dar bălțile pot fi adânci.",
+                "en": "Park close to the entrance to reach the garden with dry feet; the paths are paved, but puddles can be deceptively deep."
+              }
+            },
+            {
+              "name": {
+                "de": "Amoco Cadiz Anker",
+                "hu": "Amoco Cadiz horgony",
+                "ro": "Ancora Amoco Cadiz",
+                "en": "Amoco Cadiz Anchor"
+              },
+              "tip_5lang": {
+                "de": "Lesen Sie die Informationstafeln kurz und kehren Sie dann ins Auto zurück; die dramatische Wolkenstimmung passt perfekt zur tragischen Geschichte.",
+                "hu": "Olvassa el gyorsan az információs táblákat, majd térjen vissza az autóba; a drámai felhők tökéletesen illenek a tragikus történethez.",
+                "ro": "Citiți rapid panourile informative și reveniți în mașină; atmosfera dramatică a norilor se potrivește perfect cu povestea tragică.",
+                "en": "Read the information boards briefly and return to the car; the dramatic cloud mood fits the tragic history of the site perfectly."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Château",
+                "hu": "Château strand",
+                "ro": "Plaja Château",
+                "en": "Plage du Château"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung direkt vom Parkplatz aus; das Auto bietet heute die beste Aussichtsplattform ohne nass zu werden.",
+                "hu": "Figyelje a hullámtörést közvetlenül a parkolóból; ma az autó kínálja a legjobb kilátást anélkül, hogy teljesen elázna.",
+                "ro": "Observați valurile direct din parcare; mașina oferă astăzi cea mai bună platformă de observare fără a vă uda.",
+                "en": "Watch the surf directly from the parking lot; the car serves as the best observation platform today without getting you soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Trémazan",
+                "hu": "Trémazan strand",
+                "ro": "Plaja Trémazan",
+                "en": "Plage de Trémazan"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken unter instabilen Bäumen bei starkem Wind; ein kurzer Sprint zum Ufer lohnt sich für die salzige Brise.",
+                "hu": "Erős szélben kerülje a bizonytalan fák alatti parkolást; egy rövid sprint a partig megéri a friss, sós szellőért.",
+                "ro": "Evitați parcarea sub copaci instabili în caz de vânt puternic; un scurt sprint până la mal merită pentru briza sărată.",
+                "en": "Avoid parking under unstable trees during high winds; a short sprint to the shore is worth it for the invigorating salty breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Tréompan-Dünen",
+                "hu": "Tréompan dűnék",
+                "ro": "Dunele Tréompan",
+                "en": "Tréompan Dunes"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraße kann bei Starkregen überspült sein; fahren Sie vorsichtig durch Senken, da das Wasser hier schlecht abfließt.",
+                "hu": "Heves esőzéskor a bekötőutat víz boríthatja; vezessen óvatosan a mélyedésekben, mert itt lassan folyik el a csapadék.",
+                "ro": "Drumul de acces poate fi inundat în caz de ploaie torențială; conduceți cu prudență prin zonele joase, apa se scurge greu aici.",
+                "en": "The access road may be flooded during heavy rain; drive carefully through hollows as water drains slowly in this area."
+              }
+            },
+            {
+              "name": {
+                "de": "Penfoul",
+                "hu": "Penfoul",
+                "ro": "Penfoul",
+                "en": "Penfoul"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um den Tag im Wagen ausklingen zu lassen; die großen Glasfronten der Windschutzscheibe rahmen das stürmische Meer perfekt ein.",
+                "hu": "Ideális hely a nap lezárására az autóban; a szélvédő nagy üvegfelülete tökéletesen keretezi a viharos tenger látványát.",
+                "ro": "Un loc ideal pentru a încheia ziua în mașină; suprafața mare a parbrizului înrămează perfect marea agitată.",
+                "en": "An ideal place to end the day in your car; the large expanse of the windshield frames the stormy sea perfectly."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Wintertour beginnt im frostigen Garten. Mit der Heizung im Rücken erkunden Sie die dramatische Nordküste des Finistère. Mittags leuchtet der Amoco-Cadiz-Anker in der tiefstehenden Sonne. Der Nachmittag führt Sie zu weiten Stränden, bevor Sie gegen 17:00 Uhr den Sonnenuntergang über dem Atlantik erleben und die Heimreise im Warmen antreten.",
+            "hu": "Egy barátságos téli autózás indul a fagyos kertben. A fűtést élvezve fedezheti fel Finistère északi partvidékének drámai szépségét. Délben az Amoco Cadiz horgonya csillog a laposan beeső napfényben. Délután tágas strandok várják, mielőtt 17:00 körül átélné az Atlanti-óceán feletti naplementét a meleg autóból.",
+            "ro": "O tură de iarnă confortabilă începe în grădina înghețată. Cu căldura pornită, explorați coasta nordică dramatică a regiunii Finistère. La prânz, ancora Amoco Cadiz strălucește în soarele jos. După-amiaza vă poartă spre plaje vaste, înainte de a vedea apusul peste Atlantic în jur de ora 17:00.",
+            "en": "A cozy winter tour starts in the frosty garden. With the heater on, explore the dramatic northern coast of Finistère. At noon, the Amoco Cadiz anchor gleams in the low sun. The afternoon takes you to vast beaches before experiencing the sunset over the Atlantic around 17:00 from your warm car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Moulin-Neuf Garten",
+                "hu": "Moulin-Neuf kert",
+                "ro": "Grădina Moulin-Neuf",
+                "en": "Moulin-Neuf Garden"
+              },
+              "tip_5lang": {
+                "de": "Die Scheiben können morgens stark vereist sein; planen Sie Zeit zum Freikratzen ein, um die klare Sicht auf die winterliche Anlage zu genießen.",
+                "hu": "Reggel a szélvédő erősen jeges lehet; hagyjon időt a jégmentesítésre, hogy tisztán láthassa a kert téli pompáját.",
+                "ro": "Parbrizul poate fi foarte înghețat dimineața; alocați timp pentru dezghețare pentru a vă bucura de vederea clară asupra grădinii.",
+                "en": "The windshield may be heavily iced in the morning; allow time for scraping to enjoy the clear view of the winter grounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Amoco Cadiz Anker",
+                "hu": "Amoco Cadiz horgony",
+                "ro": "Ancora Amoco Cadiz",
+                "en": "Amoco Cadiz Anchor"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für detailreiche Fotos des riesigen Ankers; die Kälte lässt die Metallstrukturen besonders scharf wirken.",
+                "hu": "Használja ki a tiszta téli fényt a hatalmas horgony részletgazdag fotózásához; a hidegben a fémstruktúrák különösen élesnek tűnnek.",
+                "ro": "Folosiți lumina clară de iarnă pentru fotografii detaliate ale ancorei uriașe; frigul face structurile metalice să pară foarte clare.",
+                "en": "Take advantage of the clear winter light for detailed photos of the huge anchor; the cold makes the metal structures look very sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Château",
+                "hu": "Château strand",
+                "ro": "Plaja Château",
+                "en": "Plage du Château"
+              },
+              "tip_5lang": {
+                "de": "Die Straßen zum Strand können bei Frost stellenweise glatt sein; fahren Sie in den schattigen Kurven besonders vorausschauend.",
+                "hu": "A strandhoz vezető utak fagyban helyenként csúszósak lehetnek; az árnyékos kanyarokban vezessen különösen előrelátóan.",
+                "ro": "Drumurile spre plajă pot fi alunecoase pe alocuri în caz de îngheț; conduceți cu prudență sporită în curbele umbrite.",
+                "en": "The roads to the beach can be slippery in spots during frost; drive with extra caution in the shaded curves."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand von Trémazan",
+                "hu": "Trémazan strand",
+                "ro": "Plaja Trémazan",
+                "en": "Plage de Trémazan"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang am Flutsaum weckt die Lebensgeister; danach ist die Sitzheizung im Auto die beste Belohnung für den Ausflug.",
+                "hu": "Egy rövid séta a hullámverésnél felfrissíti a testet; utána az autó ülésfűtése lesz a legjobb jutalom a kirándulásért.",
+                "ro": "O scurtă plimbare la marginea apei vă va înviora; după aceea, încălzirea în scaune va fi cea mai bună recompensă pentru ieșire.",
+                "en": "A short walk by the shoreline will invigorate you; afterwards, the car's heated seats will be the best reward for the excursion."
+              }
+            },
+            {
+              "name": {
+                "de": "Tréompan-Dünen",
+                "hu": "Tréompan-Dünen",
+                "ro": "Dunele Tréompan",
+                "en": "Tréompan Dunes"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie den Reifendruck im Auge, da er bei Kälte sinkt; der Sand der Dünen wirkt im Winterfrost fast wie eine Mondlandschaft.",
+                "hu": "Figyelje a guminyomást, mert hidegben csökkenhet; a dűnék homokja a téli fagyban szinte holdbéli tájnak tűnik.",
+                "ro": "Monitorizați presiunea în anvelope, deoarece scade la frig; nisipul dunelor pare aproape un peisaj lunar în gerul iernii.",
+                "en": "Keep an eye on tire pressure as it drops in the cold; the sand of the dunes looks almost like a lunar landscape in the winter frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Penfoul",
+                "hu": "Penfoul",
+                "ro": "Penfoul",
+                "en": "Penfoul"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für den winterlichen Sonnenuntergang um 17:00 Uhr; genießen Sie das Farbspektrum über dem Ozean bei laufender Heizung.",
+                "hu": "Tökéletes hely a téli naplemente megtekintéséhez 17:00-kor; élvezze az óceán feletti színeket a fűtött autó kényelméből.",
+                "ro": "Locul perfect pentru apusul de iarnă la ora 17:00; bucurați-vă de spectacolul culorilor deasupra oceanului cu căldura pornită.",
+                "en": "The perfect spot for the winter sunset at 17:00; enjoy the spectrum of colors over the ocean from the warmth of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

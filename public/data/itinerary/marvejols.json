@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a királyi történelem magába szívásával IV. Henrik szobránál, majd keljen át a középkori Porte de Soubeyran kapun. A dél csendes pillanatot hoz a Notre-Dame-de-la-Carce templomban. Délután fedezze fel a Besoin de Berc ház részleteit és a lenyűgöző Porte du Thérond-t. Fejezze be történelmi sétáját este a robusztus Porte de Chanelles-nél.",
         "ro": "Începeți dimineața absorbind istoria regală la Statuia lui Henric al IV-lea, înainte de a trece prin Porte de Soubeyran. Amiaza aduce un moment de calm în Biserica Notre-Dame-de-la-Carce. După-amiaza, explorați detaliile arhitecturale ale Casei Besoin de Berc și impunătoarea Porte du Thérond. Încheiați plimbarea istorică seara la robusta Porte de Chanelles.",
         "en": "Start your morning absorbing the regal history at the Statue of Henri IV before crossing through the medieval Porte de Soubeyran. Midday brings a calm moment of reflection inside the magnificent Church of Notre-Dame-de-la-Carce. In the afternoon, explore the architectural details of the Besoin de Berc House and the imposing Porte du Thérond. Conclude at the robust Porte de Chanelles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt an der Statue Heinrichs IV., wobei die Torbögen Schutz vor dem Regen bieten. Mittags lädt die Kirche zur trockenen Besichtigung ein. Am Nachmittag erkunden wir die historischen Tore, während das nasse Kopfsteinpflaster die Gassen glänzen lässt. Der Abend endet in der mystischen Atmosphäre der regennassen Altstadt, in der das Licht der Laternen stimmungsvoll reflektiert wird.",
+            "hu": "A reggelt IV. Henrik szobránál indítjuk, az eső elől a középkori kapuk boltívei alatt keresve menedéket. Délben a templom csendes, száraz belső tere nyújt pihenőt. Délután a Thérond és Chanelles kapuk között sétálunk, figyelve a csúszós macskakövekre. Este a város sötétedő, esőtől fénylő utcái különleges, misztikus hangulatot árasztanak a történelmi falak között.",
+            "ro": "Dimineața începe la statuia lui Henric al IV-lea, unde arcadele porților oferă adăpost împotriva ploii. La prânz, biserica invită la o vizită uscată. După-amiaza explorăm porțile istorice, în timp ce pavajul umed face străzile să strălucească. Seara se încheie în atmosfera mistică a orașului vechi udat de ploaie, unde lumina felinarelor se reflectă spectaculos pe piatră.",
+            "en": "The morning starts at the statue of Henri IV, with the medieval archways providing shelter from the rain. At noon, the church offers a dry sanctuary for quiet reflection. In the afternoon, we explore the historic gates as the wet cobblestones glisten underfoot. The evening ends in the mystical atmosphere of the rain-soaked old town, where streetlights reflect beautifully on the stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue von Heinrich IV",
+                "hu": "IV. Henrik szobra",
+                "ro": "Statuia lui Henric al IV-lea",
+                "en": "Statue of Henri IV"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Bronzestatue aus dem Schutz eines nahen Hauseingangs; das nasse Metall glänzt im Regen besonders eindrucksvoll.",
+                "hu": "Csodálja meg a bronzszobrot egy közeli kapualj védelméből; a nedves fém különleges fénnyel csillog az esős időben.",
+                "ro": "Admirați statuia de bronz la adăpostul unei intrări din apropiere; metalul umed strălucește deosebit de frumos în ploaie.",
+                "en": "Admire the bronze statue from the shelter of a nearby doorway; the wet metal glistens with a unique shine in the rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Soubeyran",
+                "hu": "Porte de Soubeyran",
+                "ro": "Porte de Soubeyran",
+                "en": "Porte de Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den massiven Torbogen als natürlichen Regenschirm; hier können Sie in Ruhe die Karte prüfen, ohne nass zu werden.",
+                "hu": "Használja a hatalmas boltívet természetes esernyőként; itt nyugodtan ellenőrizheti az útvonalat anélkül, hogy megázna.",
+                "ro": "Folosiți arcada masivă ca pe o umbrelă naturală; este locul perfect pentru a verifica harta fără a vă uda în ploaie.",
+                "en": "Use the massive archway as a natural umbrella; it is a perfect spot to check your map while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Carce",
+                "hu": "Notre-Dame-de-la-Carce templom",
+                "ro": "Biserica Notre-Dame-de-la-Carce",
+                "en": "Church of Notre-Dame-de-la-Carce"
+              },
+              "tip_5lang": {
+                "de": "Das Innere ist der ideale Zufluchtsort; genießen Sie die Glasmalereien, die gegen den grauen Himmel besonders dramatisch wirken.",
+                "hu": "A templom belső tere ideális menedék; élvezze az üvegablakokat, amelyek a szürke égbolt előtt még drámaibb látványt nyújtanak.",
+                "ro": "Interiorul este refugiul ideal; admirați vitraliile care par și mai dramatice pe fundalul cerului gri de afară.",
+                "en": "The interior is the ideal refuge; enjoy the stained glass windows, which look even more dramatic against the grey sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus Besoin de Berc",
+                "hu": "Besoin de Berc ház",
+                "ro": "Casa Besoin de Berc",
+                "en": "Besoin de Berc House"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Renaissance-Details unter einem Regenschirm; die feuchten Steine offenbaren Texturen, die sonst kaum auffallen.",
+                "hu": "Szemlélje meg a reneszánsz részleteket esernyő alól; a nedves kőzet olyan textúrákat mutat meg, amik szárazon rejtve maradnak.",
+                "ro": "Observați detaliile renascentiste de sub umbrelă; piatra umedă dezvăluie texturi care altfel sunt greu de observat pe uscat.",
+                "en": "Observe the Renaissance details from under your umbrella; the damp stone reveals textures that are barely visible when dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte du Thérond",
+                "hu": "Porte du Thérond",
+                "ro": "Porte du Thérond",
+                "en": "Porte du Thérond"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf dem Kopfsteinpflaster rund um das Tor, da es bei Nässe rutschig wird; feste Schuhe mit gutem Profil sind hier wichtig.",
+                "hu": "Vigyázzon a kapu körüli macskaköveken, mert nedvesen csúszóssá válnak; a jó tapadású talpú cipő elengedhetetlen itt.",
+                "ro": "Atenție pe pavajul din jurul porții, deoarece devine alunecos când este ud; încălțămintea cu talpă aderentă este esențială aici.",
+                "en": "Watch your step on the cobblestones around the gate as they become slippery when wet; wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Chanelles",
+                "hu": "Porte de Chanelles",
+                "ro": "Porte de Chanelles",
+                "en": "Porte de Chanelles"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Verteidigungsmauern wirken im Regen besonders trutzig; ein kurzer Sprint zum nächsten Café beendet den Rundgang trocken.",
+                "hu": "A vaskos védőfalak még zordabbnak tűnnek az esőben; egy rövid vágta a legközelebbi kávézóig szárazon zárja a túrát.",
+                "ro": "Zidurile masive de apărare par și mai impunătoare în ploaie; o scurtă fugă până la cea mai apropiată cafenea încheie turul.",
+                "en": "The massive defensive walls look even more imposing in the rain; a quick dash to the nearest cafe completes the tour dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt an der Statue, wo wir uns dick eingepackt auf den Weg machen. Mittags bietet die Kirche Notre-Dame einen windgeschützten Ort der Ruhe. Am Nachmittag erkunden wir die historischen Tore im weichen Winterlicht. Da die Sonne gegen 17:00 Uhr untergeht, hüllt die frühe Dämmerung die Stadt in ein warmes Licht, während wir uns auf den gemütlichen Abend vorbereiten.",
+            "hu": "A csípős téli reggelen IV. Henrik szobránál indulunk, rétegesen felöltözve vágunk neki a városnak. Délben a templom vastag falai között keresünk szélvédett menedéket. Délután a történelmi kapukat járjuk be a puha téli fényekben. Mivel 17 óra körül sötétedik, a korai alkonyat meghitt fénybe vonja a várost a nap végére.",
+            "ro": "O dimineață geroasă începe la statuie, unde pornim la drum bine înfofoliți. La prânz, biserica Notre-Dame oferă un loc liniștit și ferit de vânt. După-amiaza explorăm porțile istorice în lumina blândă a iernii. Deoarece soarele apune în jurul orei 17:00, amurgul timpuriu îmbracă orașul într-o lumină caldă spre finalul zilei.",
+            "en": "A frosty morning begins at the statue, where we set off well-wrapped against the cold. At noon, the Church of Notre-Dame provides a wind-sheltered place for a break. In the afternoon, we explore the historic gates in the soft winter light. As the sun sets around 17:00, the early twilight bathes the town in a cozy glow to end the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue von Heinrich IV",
+                "hu": "IV. Henrik szobra",
+                "ro": "Statuia lui Henric al IV-lea",
+                "en": "Statue of Henri IV"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto vom frostigen König, bevor die Kälte in die Finger kriecht; Handschuhe sind heute Ihr bester Freund.",
+                "hu": "Készítsen egy gyors fotót a fagyos királyról, mielőtt a hideg átjárná az ujjait; a kesztyű ma a legjobb barátja lesz.",
+                "ro": "Faceți o poză rapidă cu regele înghețat înainte ca frigul să vă pătrundă în degete; mănușile sunt cel mai bun prieten astăzi.",
+                "en": "Take a quick photo of the frosty king before the cold bites your fingers; gloves are your best friend during this visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Soubeyran",
+                "hu": "Porte de Soubeyran",
+                "ro": "Porte de Soubeyran",
+                "en": "Porte de Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Die hohen Steinmauern brechen den kalten Winterwind; nutzen Sie diesen Moment, um Ihren Schal für den weiteren Weg festzuziehen.",
+                "hu": "A magas kőfalak megtörik a hideg téli szelet; használja ki ezt a pillanatot, hogy szorosabbra húzza sálját a folytatás előtt.",
+                "ro": "Zidurile înalte de piatră sparg vântul rece de iarnă; profitați de acest moment pentru a vă aranja fularul înainte de drum.",
+                "en": "The tall stone walls break the cold winter wind; take this moment to adjust your scarf before continuing your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Carce",
+                "hu": "Notre-Dame-de-la-Carce templom",
+                "ro": "Biserica Notre-Dame-de-la-Carce",
+                "en": "Church of Notre-Dame-de-la-Carce"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Mauern halten die Kälte draußen; ein wunderbarer Ort, um sich kurz aufzuwärmen und die Stille zu genießen.",
+                "hu": "A vastag falak kint tartják a metsző hideget; csodálatos hely egy rövid felmelegedéshez és a csend élvezetéhez.",
+                "ro": "Zidurile groase țin frigul afară; este un loc minunat pentru a vă încălzi puțin și pentru a vă bucura de liniște.",
+                "en": "The thick walls keep out the biting cold; it is a wonderful place to warm up briefly and enjoy the peaceful silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Haus Besoin de Berc",
+                "hu": "Besoin de Berc ház",
+                "ro": "Casa Besoin de Berc",
+                "en": "Besoin de Berc House"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Fassade im klaren Winterlicht, das die architektonischen Details besonders scharf hervorhebt.",
+                "hu": "Szemlélje meg a homlokzatot a tiszta téli fényben, amely különösen élesen emeli ki az építészeti részleteket.",
+                "ro": "Admirați fațada în lumina clară a iernii, care scoate în evidență detaliile arhitecturale cu o claritate deosebită.",
+                "en": "Observe the facade in the clear winter light, which highlights the architectural details with exceptional sharpness."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte du Thérond",
+                "hu": "Porte du Thérond",
+                "ro": "Porte du Thérond",
+                "en": "Porte du Thérond"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisstellen im Schatten des Tors; gehen Sie langsam und genießen Sie den Anblick der historischen Steine.",
+                "hu": "Ügyeljen az esetleges jeges foltokra a kapu árnyékában; haladjon lassan, és élvezze a történelmi kövek látványát.",
+                "ro": "Atenție la eventualele porțiuni cu gheață la umbra porții; mergeți încet și bucurați-vă de vederea pietrelor istorice.",
+                "en": "Watch out for potential icy patches in the shadow of the gate; walk slowly and enjoy the sight of the historic stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Chanelles",
+                "hu": "Porte de Chanelles",
+                "ro": "Porte de Chanelles",
+                "en": "Porte de Chanelles"
+              },
+              "tip_5lang": {
+                "de": "Da es nun dämmert, wirken die Tore wie Wächter der Zeit; beeilen Sie sich, ein warmes Getränk in einer nahen Bar zu finden.",
+                "hu": "Mivel már alkonyodik, a kapuk az idő őreinek tűnnek; igyekezzen keresni egy forró italt a közeli bárok egyikében.",
+                "ro": "Cum se lasă amurgul, porțile par niște străjeri ai timpului; grăbiți-vă să găsiți o băutură caldă într-un bar din apropiere.",
+                "en": "As twilight falls, the gates look like guardians of time; head to a nearby bar for a warm drink to finish your tour."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje kerékpártúráját a történelmi Enfants helyszínen, majd tekerjen le IV. Henrik szobrához. A dél a fenséges Porte de Soubeyran kapun és a nyugodt Notre-Dame-de-la-Carce templomon át vezet. Töltse a délutánt dél felé pedálozva, hogy megcsodálja a masszív Porte de Chanelles-t. Zárja aktív napját egy békés estével a Domaine de Saint-Lambert birtokon.",
         "ro": "Începeți turul cu bicicleta la situl istoric Enfants, apoi pedalați pentru a saluta Statuia lui Henric al IV-lea. Amiaza vă duce prin maiestuoasa Porte de Soubeyran și la Biserica Notre-Dame-de-la-Carce. Petreceți-vă după-amiaza pedalând spre sud pentru a admira Porte de Chanelles. Încheiați-vă ziua activă cu o seară liniștită explorând domeniul Saint-Lambert.",
         "en": "Kick off your cycling tour in the northern outskirts at the historic Enfants site, then ride down to greet the Statue of Henri IV. Midday takes you through the majestic Porte de Soubeyran and to the serene Church of Notre-Dame-de-la-Carce. Spend your afternoon pedaling south to marvel at the massive Porte de Chanelles. Wind down your active day with a peaceful evening exploring Domaine de Saint-Lambert."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Tour beginnt am Enfants Denkmal, wobei wir uns auf regennassen Wegen vorsichtig bewegen. Mittags bietet die Kirche Schutz für eine Pause. Am Nachmittag radeln wir zum Domaine de Saint-Lambert, wobei wir besonders auf rutschige Kurven achten. Regenbekleidung ist heute unerlässlich, um die herbe Schönheit der Lozère-Landschaft im Regen zu genießen.",
+            "hu": "Frissítő túra indul az Enfants műemléknél, óvatosan haladva a vizes utakon. Délben a templom nyújt menedéket a pihenőhöz. Délután a Domaine de Saint-Lambert felé tekerünk, külön figyelve a csúszós kanyarokra. Az esőruházat ma elengedhetetlen, hogy élvezhessük Lozère vidékének vad szépségét az esőben is.",
+            "ro": "O tură revigorantă începe la Monumentul Enfants, pedalând cu grijă pe drumurile ude. La prânz, biserica oferă adăpost pentru o pauză. După-amiaza pedalăm spre Domaine de Saint-Lambert, fiind atenți la curbele alunecoase. Echipamentul de ploaie este esențial astăzi pentru a ne bucura de frumusețea zonei Lozère.",
+            "en": "A refreshing tour begins at the Enfants Monument, cycling carefully on wet roads. At noon, the church provides shelter for a break. In the afternoon, we head towards Domaine de Saint-Lambert, paying extra attention to slippery curves. Rain gear is essential today to enjoy the raw beauty of the Lozère region despite the downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enfants Denkmal",
+                "hu": "Enfants műemlék",
+                "ro": "Monumentul Enfants",
+                "en": "Enfants Monument"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen, bevor Sie losfahren; das Denkmal im Regen wirkt melancholisch und kraftvoll zugleich.",
+                "hu": "Ellenőrizze a fékeit indulás előtt; a műemlék az esőben egyszerre tűnik melankolikusnak és erőt sugárzónak.",
+                "ro": "Verificați frânele înainte de a pleca; monumentul în ploaie pare în același timp melancolic și plin de forță.",
+                "en": "Check your brakes before setting off; the monument in the rain appears both melancholic and powerful at once."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue von Heinrich IV",
+                "hu": "IV. Henrik szobra",
+                "ro": "Statuia lui Henric al IV-lea",
+                "en": "Statue of Henri IV"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; achten Sie beim Absteigen auf das glatte Pflaster unter den Reifen.",
+                "hu": "Rövid megálló egy fotóra; leszálláskor ügyeljen a gumik alatt lévő sima, csúszós burkolatra.",
+                "ro": "O scurtă oprire pentru o fotografie; aveți grijă la pavajul alunecos sub roți când coborâți de pe bicicletă.",
+                "en": "A short stop for a photo; be careful of the smooth, slippery pavement under your tires when dismounting."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Soubeyran",
+                "hu": "Porte de Soubeyran",
+                "ro": "Porte de Soubeyran",
+                "en": "Porte de Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie einen starken Schauer unter dem Torbogen ab; die historische Kulisse bietet einen trockenen Unterstand für Radfahrer.",
+                "hu": "Várjon meg egy hevesebb záport a boltív alatt; a történelmi díszlet száraz menedéket nyújt a kerékpárosoknak.",
+                "ro": "Așteptați trecerea unei averse sub arcadă; acest cadru istoric oferă un adăpost uscat pentru bicicliști.",
+                "en": "Wait out a heavy shower under the archway; the historic setting provides a dry shelter for cyclists."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Carce",
+                "hu": "Notre-Dame-de-la-Carce templom",
+                "ro": "Biserica Notre-Dame-de-la-Carce",
+                "en": "Church of Notre-Dame-de-la-Carce"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie die Pause im Trockenen, um Ihre Regenjacke kurz auszuschütteln.",
+                "hu": "Támassza le biztonságosan a biciklijét, és használja ki a száraz pihenőt, hogy kirázza az esőkabátját.",
+                "ro": "Parcați bicicleta în siguranță și profitați de pauza la adăpost pentru a vă scutura puțin pelerina de ploaie.",
+                "en": "Park your bike securely and use the dry break to shake out your raincoat and rest for a few minutes."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Chanelles",
+                "hu": "Porte de Chanelles",
+                "ro": "Porte de Chanelles",
+                "en": "Porte de Chanelles"
+              },
+              "tip_5lang": {
+                "de": "Passieren Sie das Tor langsam; bei Nässe können sich hier kleine Pfützen bilden, die den Untergrund rutschig machen.",
+                "hu": "Lassan haladjon át a kapun; nedves időben kis tócsák képződhetnek itt, amelyek csúszóssá teszik az aljzatot.",
+                "ro": "Treceți încet prin poartă; pe vreme umedă se pot forma mici bălți care fac suprafața destul de alunecoasă.",
+                "en": "Pass through the gate slowly; in wet weather, small puddles can form, making the ground quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Saint-Lambert",
+                "hu": "Domaine de Saint-Lambert",
+                "ro": "Domaine de Saint-Lambert",
+                "en": "Domaine de Saint-Lambert"
+              },
+              "tip_5lang": {
+                "de": "Der Parkweg kann weich sein; fahren Sie vorsichtig und genießen Sie den Anblick des Schlosses im Regen-Dunst.",
+                "hu": "A parki út felázhat; tekerjen óvatosan, és élvezze a kastély látványát az esős párában.",
+                "ro": "Aleea din parc poate fi moale; pedalați cu atenție și bucurați-vă de vederea castelului prin ceața ploii.",
+                "en": "The park path can get soft; cycle carefully and enjoy the sight of the castle through the misty rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen auf zwei Rädern beginnt am Enfants Denkmal. Mittags wärmen wir uns kurz an der Kirche auf, bevor wir weiter durch die historische Stadt radeln. Am Nachmittag erreichen wir das Domaine de Saint-Lambert im tiefstehenden Winterlicht. Wir beenden die Tour rechtzeitig vor Sonnenuntergang um 17:00 Uhr, wenn die Temperaturen schnell sinken und die Winterkälte spürbar wird.",
+            "hu": "Hűvös reggel két keréken az Enfants műemléknél. Délben röviden felmelegszünk a templomnál, mielőtt tovább tekernénk a történelmi városon át. Délután a Domaine de Saint-Lambert-hez érünk az alacsony téli napfényben. A túrát időben, a 17 órai naplemente előtt fejezzük be, amikor a hőmérséklet gyorsan süllyedni kezd.",
+            "ro": "O dimineață răcoroasă pe două roți începe la Monumentul Enfants. La prânz ne încălzim puțin la biserică înainte de a continua prin orașul istoric. După-amiaza ajungem la Domaine de Saint-Lambert în lumina joasă a iernii. Încheiem tura la timp, înainte de apusul de la ora 17:00, când temperaturile scad brusc.",
+            "en": "A cool morning on two wheels starts at the Enfants Monument. At noon, we briefly warm up near the church before cycling further through the historic town. In the afternoon, we reach Domaine de Saint-Lambert in the low winter sunlight. We finish the tour well before the 17:00 sunset, as temperatures drop rapidly afterward."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enfants Denkmal",
+                "hu": "Enfants műemlék",
+                "ro": "Monumentul Enfants",
+                "en": "Enfants Monument"
+              },
+              "tip_5lang": {
+                "de": "Dicke Handschuhe sind beim Radfahren ein Muss; die klare Winterluft macht die Sicht auf das Denkmal besonders scharf.",
+                "hu": "A vastag kesztyű kötelező kerékpározáskor; a tiszta téli levegő különösen élessé teszi a kilátást a műemlékre.",
+                "ro": "Mănușile groase sunt obligatorii la pedalat; aerul curat de iarnă face vederea monumentului extrem de clară.",
+                "en": "Thick gloves are a must for winter cycling; the clear air makes the view of the monument exceptionally sharp."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue von Heinrich IV",
+                "hu": "IV. Henrik szobra",
+                "ro": "Statuia lui Henric al IV-lea",
+                "en": "Statue of Henri IV"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp; halten Sie sich durch ständiges Treten warm, während Sie die historische Statue bewundern.",
+                "hu": "Gyors megálló; tartsa melegen magát folyamatos tekeréssel, miközben megcsodálja a történelmi szobrot.",
+                "ro": "O oprire rapidă; mențineți-vă căldura pedalând constant în timp ce admirați statuia istorică.",
+                "en": "A quick stop; keep yourself warm by pedaling consistently while you admire the historic statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Soubeyran",
+                "hu": "Porte de Soubeyran",
+                "ro": "Porte de Soubeyran",
+                "en": "Porte de Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif am Boden im Schatten des Tors; bremsen Sie vorsichtig, bevor Sie den Torbogen passieren.",
+                "hu": "Ügyeljen a zúzmarára a földön a kapu árnyékos oldalán; fékezzen óvatosan, mielőtt áthaladna a boltív alatt.",
+                "ro": "Atenție la chiciura de pe jos în zonele umbrite ale porții; frânați cu grijă înainte de a trece pe sub arcadă.",
+                "en": "Watch out for frost on the ground in shaded areas of the gate; brake gently before passing under the archway."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Carce",
+                "hu": "Notre-Dame-de-la-Carce templom",
+                "ro": "Biserica Notre-Dame-de-la-Carce",
+                "en": "Church of Notre-Dame-de-la-Carce"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die windgeschützte Kirche für eine kurze Dehnpause, um die Glieder in der Kälte beweglich zu halten.",
+                "hu": "Használja ki a szélvédett templomot egy rövid nyújtásra, hogy a végtagjai mozgékonyak maradjanak a hidegben.",
+                "ro": "Folosiți biserica ferită de vânt pentru o scurtă pauză de stretching, menținându-vă articulațiile mobile în frig.",
+                "en": "Use the wind-sheltered church for a quick stretching break to keep your limbs mobile in the winter cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Chanelles",
+                "hu": "Porte de Chanelles",
+                "ro": "Porte de Chanelles",
+                "en": "Porte de Chanelles"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht tief; achten Sie auf Blendung beim Fahren durch die historischen Gassen.",
+                "hu": "A nap alacsonyan jár; ügyeljen a vakító fényre, amikor a történelmi szűk utcákon teker keresztül.",
+                "ro": "Soarele este jos; atenție la reflexiile orbitoare când pedalați prin străduțele înguste și istorice.",
+                "en": "The sun is low; watch out for glaring light when cycling through the narrow historic streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Saint-Lambert",
+                "hu": "Domaine de Saint-Lambert",
+                "ro": "Domaine de Saint-Lambert",
+                "en": "Domaine de Saint-Lambert"
+              },
+              "tip_5lang": {
+                "de": "Die Gärten wirken im Winter kahl, aber majestätisch; ein letztes Foto, bevor Sie sich auf den Heimweg ins Warme machen.",
+                "hu": "A kertek télen kopárnak, de fenségesnek tűnnek; egy utolsó fotó, mielőtt elindulna haza a melegbe.",
+                "ro": "Grădinile par golașe iarna, dar maiestoase; o ultimă fotografie înainte de a porni spre casă, la căldură.",
+                "en": "The gardens look bare in winter but remain majestic; take one last photo before heading home to the warmth."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autós utazása a történelmi Enfants nevezetességnél kezdődik, majd egy rövid városi ugrás következik a Porte de Soubeyranhoz. A dél tökéletes a Notre-Dame-de-la-Carce templom felfedezésére, mielőtt a Domaine de Saint-Lambert-hez hajtana. Töltsön el egy nyugodt délutánt a Mascoussel szabadtéri részein. Zárja a napot egy festői autózással a csendes Chapelle Saint-Jeanhoz.",
         "ro": "Excursia auto începe la reperul istoric Enfants, urmată de o scurtă oprire în oraș pentru a vedea Porte de Soubeyran. Amiaza este perfectă pentru o vizită la Biserica Notre-Dame-de-la-Carce, înainte de a conduce la Domaine de Saint-Lambert. Petreceți o după-amiază relaxantă în spațiile deschise de la Mascoussel. Încheiați ziua cu o plimbare pitorească până la liniștita Chapelle Saint-Jean.",
         "en": "Your road trip begins with a drive to the historic Enfants landmark, followed by a quick hop into town to see the impressive Porte de Soubeyran. Midday is perfect for a short walk to the beautiful Church of Notre-Dame-de-la-Carce before driving to the grand Domaine de Saint-Lambert. Spend a leisurely afternoon enjoying the outdoor spaces at Mascoussel. End your day driving to the tranquil Chapelle Saint-Jean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein entspannter Tag beginnt am Enfants Denkmal, wobei das Auto uns trocken von Ort zu Ort bringt. Mittags besuchen wir die Kirche im historischen Zentrum. Am Nachmittag führt uns die Fahrt zum Domaine de Saint-Lambert und weiter nach Mascoussel, während der Regen gegen die Scheiben trommelt. Wir beenden den Tag an der Chapelle Saint-Jean mit einem weiten Blick über das vernebelte Tal.",
+            "hu": "Pihentető nap indul az Enfants műemléknél, az autó szárazon juttat el egyik ponttól a másikig. Délben a történelmi központ templomát látogatjuk meg. Délután a Domaine de Saint-Lambert és Mascoussel felé autózunk, miközben az eső kopog a szélvédőn. A napot a Chapelle Saint-Jean-nál zárjuk, ahonnan ködös kilátás nyílik a völgyre.",
+            "ro": "O zi relaxantă începe la Monumentul Enfants, mașina purtându-ne la uscat de la un obiectiv la altul. La prânz vizităm biserica din centrul istoric. După-amiaza conducem spre Domaine de Saint-Lambert și Mascoussel, în timp ce ploaia bate în geamuri. Încheiem ziua la Chapelle Saint-Jean, cu o priveliște cețoasă asupra văii.",
+            "en": "A relaxing day begins at the Enfants Monument, with the car keeping us dry as we move between sites. At noon, we visit the church in the historic center. In the afternoon, we drive to Domaine de Saint-Lambert and Mascoussel while the rain drums on the windshield. We end the day at Chapelle Saint-Jean with a misty view over the valley."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enfants Denkmal",
+                "hu": "Enfants műemlék",
+                "ro": "Monumentul Enfants",
+                "en": "Enfants Monument"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz nah am Denkmal, um nur kurz durch den Regen zum Monument zu sprinten.",
+                "hu": "Használja a műemlékhez közeli parkolót, hogy csak röviden kelljen az esőben futnia a látnivalóig.",
+                "ro": "Folosiți parcarea de lângă monument pentru a alerga doar puțin prin ploaie până la obiectiv.",
+                "en": "Use the parking area close to the monument to minimize your time walking through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Soubeyran",
+                "hu": "Porte de Soubeyran",
+                "ro": "Porte de Soubeyran",
+                "en": "Porte de Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Das Parken im Zentrum kann schwierig sein; suchen Sie sich eine Lücke und nutzen Sie das Tor als trockenen Treffpunkt.",
+                "hu": "A központban nehéz lehet a parkolás; keressen egy szabad helyet, és használja a kaput száraz találkozópontként.",
+                "ro": "Parcarea în centru poate fi dificilă; căutați un loc liber și folosiți poarta ca punct de întâlnire uscat.",
+                "en": "Parking in the center can be tricky; find a spot and use the gate as a dry meeting point for your group."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Carce",
+                "hu": "Notre-Dame-de-la-Carce templom",
+                "ro": "Biserica Notre-Dame-de-la-Carce",
+                "en": "Church of Notre-Dame-de-la-Carce"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp, wenn es draußen schüttet; die Kirche bietet Ruhe und Schutz vor dem nasskalten Wetter.",
+                "hu": "Ideális megálló, ha kint szakad az eső; a templom nyugalmat és védelmet nyújt a barátságtalan időben.",
+                "ro": "O oprire ideală când plouă torențial; biserica oferă liniște și protecție împotriva vremii de afară.",
+                "en": "An ideal stop when it's pouring outside; the church offers peace and protection from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Saint-Lambert",
+                "hu": "Domaine de Saint-Lambert",
+                "ro": "Domaine de Saint-Lambert",
+                "en": "Domaine de Saint-Lambert"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick des Schlosses bequem aus dem Auto, falls der Regen zu stark für einen Spaziergang ist.",
+                "hu": "Élvezze a kastély látványát kényelmesen az autóból, ha az eső túl erős lenne egy kiadós sétához.",
+                "ro": "Admirați castelul confortabil din mașină în cazul în care ploaia este prea puternică pentru o plimbare.",
+                "en": "Enjoy the view of the castle from the comfort of your car if the rain is too heavy for a walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Mascoussel",
+                "hu": "Mascoussel",
+                "ro": "Mascoussel",
+                "en": "Mascoussel"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann bei Regen etwas matschig sein; fahren Sie langsam und achten Sie auf Pfützen am Wegrand.",
+                "hu": "A behajtó út esőben kissé sáros lehet; vezessen lassan, és ügyeljen az útmenti tócsákra.",
+                "ro": "Drumul de acces poate fi noroios pe ploaie; conduceți încet și aveți grijă la bălțile de pe margine.",
+                "en": "The access road can be a bit muddy in the rain; drive slowly and watch out for puddles along the way."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean",
+                "hu": "Chapelle Saint-Jean",
+                "ro": "Chapelle Saint-Jean",
+                "en": "Chapelle Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf Marvejols im Regendunst ist spektakulär; bleiben Sie im Auto und genießen Sie das Panorama.",
+                "hu": "A kilátás Marvejols-ra az esős párában látványos; maradjon az autóban, és élvezze a panorámát.",
+                "ro": "Priveliștea asupra orașului Marvejols în ceața ploii este spectaculoasă; rămâneți în mașină și admirați panorama.",
+                "en": "The view over Marvejols in the misty rain is spectacular; stay in the car and enjoy the panoramic scene."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Wintertag beginnt am Enfants Denkmal, wobei die Autoheizung für Komfort sorgt. Mittags besuchen wir die Kirche im historischen Kern. Am Nachmittag führt die Fahrt zum Domaine de Saint-Lambert und weiter nach Mascoussel. Wir beenden den Ausflug an der Chapelle Saint-Jean genau zum Sonnenuntergang um 17:00 Uhr, wenn das Tal in kühles Blau getaucht wird.",
+            "hu": "Kellemes téli nap indul az Enfants műemléknél, az autó fűtése gondoskodik a kényelemről. Délben a történelmi mag templomát látogatjuk meg. Délután a Domaine de Saint-Lambert és Mascoussel felé autózunk. A kirándulást a Chapelle Saint-Jean-nál zárjuk pontban a 17 órai naplementekor, amikor a völgy hűvös kékbe öltözik.",
+            "ro": "O zi plăcută de iarnă începe la Monumentul Enfants, căldura din mașină asigurând tot confortul. La prânz vizităm biserica din nucleul istoric. După-amiaza conducem spre Domaine de Saint-Lambert și Mascoussel. Încheiem excursia la Chapelle Saint-Jean exact la apusul de la ora 17:00, când valea capătă nuanțe reci de albastru.",
+            "en": "A pleasant winter day begins at the Enfants Monument, with the car's heater providing comfort. At noon, we visit the church in the historic core. In the afternoon, the drive leads to Domaine de Saint-Lambert and Mascoussel. We end the trip at Chapelle Saint-Jean exactly at the 17:00 sunset, when the valley is bathed in cool blue tones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Enfants Denkmal",
+                "hu": "Enfants műemlék",
+                "ro": "Monumentul Enfants",
+                "en": "Enfants Monument"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um das Auto warm zu halten, während Sie für ein schnelles Foto aussteigen.",
+                "hu": "Hagyja járni a motort egy pillanatra, hogy melegen tartsa az autót, amíg kiszáll egy gyors fotóra.",
+                "ro": "Lăsați motorul pornit pentru un moment ca să mențineți căldura în mașină cât timp coborâți pentru o poză rapidă.",
+                "en": "Keep the car warm while you hop out for a quick photo; the winter light makes the monument stand out beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Porte de Soubeyran",
+                "hu": "Porte de Soubeyran",
+                "ro": "Porte de Soubeyran",
+                "en": "Porte de Soubeyran"
+              },
+              "tip_5lang": {
+                "de": "Die Altstadt ist eng; parken Sie etwas außerhalb und genießen Sie den kurzen, erfrischenden Gang durch das historische Tor.",
+                "hu": "Az óváros szűk; parkoljon kicsit távolabb, és élvezze a rövid, frissítő sétát a történelmi kapun keresztül.",
+                "ro": "Centrul vechi este îngust; parcați puțin mai departe și bucurați-vă de o scurtă plimbare revigorantă prin poartă.",
+                "en": "The old town is narrow; park a bit further away and enjoy a short, refreshing walk through the historic gate."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame-de-la-Carce",
+                "hu": "Notre-Dame-de-la-Carce templom",
+                "ro": "Biserica Notre-Dame-de-la-Carce",
+                "en": "Church of Notre-Dame-de-la-Carce"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen Ort zum Innehalten, bevor Sie zurück in das geheizte Auto steigen.",
+                "hu": "A templom csendes helyet kínál az elmélkedéshez, mielőtt visszaszállna a jól felfűtött autóba.",
+                "ro": "Biserica oferă un loc liniștit pentru reculegere înainte de a vă întoarce în mașina bine încălzită.",
+                "en": "The church offers a quiet place for reflection before you head back to the warmth of your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Domaine de Saint-Lambert",
+                "hu": "Domaine de Saint-Lambert",
+                "ro": "Domaine de Saint-Lambert",
+                "en": "Domaine de Saint-Lambert"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenbedingungen auf dem Weg zum Schloss; bei Frost können die Nebenstraßen glatt sein.",
+                "hu": "Ellenőrizze az útviszonyokat a kastély felé; fagy esetén a mellékutak igencsak csúszósak lehetnek.",
+                "ro": "Verificați starea drumului spre castel; în caz de îngheț, drumurile secundare pot fi destul de alunecoase.",
+                "en": "Check the road conditions on your way to the castle; in case of frost, side roads can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Mascoussel",
+                "hu": "Mascoussel",
+                "ro": "Mascoussel",
+                "en": "Mascoussel"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Einsamkeit dieses Ortes; die kühle Luft lässt die Landschaft besonders weit erscheinen.",
+                "hu": "Élvezze a hely téli magányát; a hűvös levegő miatt a táj különösen tágasnak és távolinak tűnik.",
+                "ro": "Bucurați-vă de liniștea hibernală a acestui loc; aerul rece face ca peisajul să pară extrem de vast.",
+                "en": "Enjoy the winter solitude of this place; the crisp air makes the surrounding landscape feel vast and open."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Saint-Jean",
+                "hu": "Chapelle Saint-Jean",
+                "ro": "Chapelle Saint-Jean",
+                "en": "Chapelle Saint-Jean"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie rechtzeitig vor 17:00 Uhr an, um den Sonnenuntergang über den verschneiten oder frostigen Hügeln zu sehen.",
+                "hu": "Érkezzen meg időben 17:00 előtt, hogy láthassa a naplementét a havas vagy zúzmarás dombok felett.",
+                "ro": "Ajungeți din timp, înainte de ora 17:00, pentru a vedea apusul peste dealurile înghețate sau înzăpezite.",
+                "en": "Arrive before 17:00 to catch the sunset over the frosty or snow-dusted hills surrounding the town."
+              }
+            }
+          ]
+        }
       }
     }
   }

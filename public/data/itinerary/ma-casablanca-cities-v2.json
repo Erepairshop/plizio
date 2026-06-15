@@ -137,6 +137,168 @@
         "hu": "Reggelünket a nyüzsgő Egyesült Nemzetek terén kezdjük, Casablanca szívében. A delet az Abderrahman Slaoui Alapítványban töltjük, ahol elmerülünk a marokkói művészet történetében. Délután a Parc de la Ligue Arabe egy békés, pálmafákkal árnyékolt oázist kínál a sétához. Az estét a Villa des Arts kiállításainak felfedezésével és a Twin Center megcsodálásával töltjük.",
         "ro": "Dimineața noastră începe în Piața Națiunilor Unite, inima aglomerată a orașului Casablanca. La prânz explorăm Fundația Abderrahman Slaoui pentru a admira frumoasa istorie a artei marocane. După-amiaza, Parcul Ligii Arabe ne oferă o oază liniștită, cu palmieri, perfectă pentru o plimbare. Seara vizităm expozițiile contemporane de la Villa des Arts și admirăm faimosul Twin Center.",
         "en": "Our morning begins at the vibrant United Nations Square, the bustling heart of Casablanca. Midday is spent at the Abderrahman Slaoui Foundation to immerse ourselves in magnificent Moroccan art history. In the afternoon, the Parc de la Ligue Arabe offers a peaceful, palm-shaded oasis for a relaxing stroll. We spend the evening exploring contemporary exhibits at Villa des Arts and admiring the iconic Twin Center."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am UN-Platz, wo die Art-Déco-Fassaden im Regen glänzen. Wir flüchten schnell in die trockenen Museumsräume. Mittags bietet die Fondation Slaoui perfekten Schutz vor den Schauern. Der Parkbesuch fällt kürzer aus, unter den Bäumen findet man jedoch etwas Schutz. Nachmittags erkunden wir die Villa des Arts. Abends genießen wir den Ausblick aus dem trockenen Twin Center.",
+            "hu": "A reggel az Egyesült Nemzetek terén indul, ahol az Art Deco homlokzatok csillognak az esőben. Gyorsan behúzódunk a múzeum száraz termeibe. Délben a Slaoui Alapítvány nyújt menedéket a záporok elől. A parki séta rövidebb lesz, de a fák alatt némi védelmet találunk. Délután a Villa des Arts tárlatait nézzük meg. Este a Twin Center tornyaiból csodáljuk a vizes várost.",
+            "ro": "Dimineața începe în Piața Națiunilor Unite, unde fațadele Art Deco strălucesc în ploaie. Ne refugiem rapid în muzeu. La prânz, Fundația Slaoui oferă protecție perfectă împotriva averselor. Vizita în parc este mai scurtă, dar copacii oferă puțin adăpost. După-amiaza explorăm Villa des Arts. Seara, ne bucurăm de priveliștea orașului ud din turnurile uscate Twin Center.",
+            "en": "Morning starts at UN Square, where Art Deco facades glisten in the rain. We quickly retreat into dry museum galleries. At noon, the Slaoui Foundation provides perfect shelter from showers. The park visit is shorter, though trees offer some cover. In the afternoon, we explore Villa des Arts. In the evening, we enjoy the view of the wet city from the dry Twin Center towers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platz der Vereinten Nationen",
+                "hu": "Egyesült Nemzetek tere",
+                "ro": "Piața Națiunilor Unite",
+                "en": "United Nations Square"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur unter den Arkaden. Vorsicht, die hellen Fliesen auf dem Platz werden bei Nässe sehr rutschig.",
+                "hu": "Csodálja meg a modern építészetet az árkádok alól. Vigyázat, a tér világos járólapjai esőben rendkívül csúszóssá válnak.",
+                "ro": "Admirați arhitectura modernă de sub arcade. Atenție, plăcile deschise la culoare din piață devin foarte alunecoase pe ploaie.",
+                "en": "Admire the modern architecture from under the arcades. Be careful, the light-colored tiles on the square become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Fondation Abderrahman Slaoui",
+                "hu": "Abderrahman Slaoui Alapítvány Múzeuma",
+                "ro": "Muzeul Fundației Abderrahman Slaoui",
+                "en": "Abderrahman Slaoui Foundation Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Rückzugsort vor dem Regen mit einer tollen Plakatsammlung. Nutzen Sie die Garderobe für Ihre nassen Regenschirme.",
+                "hu": "Ideális menedék az eső elől, remek plakátgyűjteménnyel. Használja a ruhatárat a vizes esernyők biztonságos elhelyezésére.",
+                "ro": "Un refugiu ideal împotriva ploii, cu o colecție grozavă de afișe. Folosiți garderoba pentru a lăsa umbrelele ude la intrare.",
+                "en": "An ideal retreat from the rain with a great poster collection. Use the cloakroom to store your wet umbrellas safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Park der Arabischen Liga",
+                "hu": "Arab Liga Parkja",
+                "ro": "Parcul Ligii Arabe",
+                "en": "Arab League Park"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie auf den asphaltierten Wegen, um Pfützen zu vermeiden. Die Palmenalleen wirken bei grauem Himmel besonders dramatisch.",
+                "hu": "Sétáljon az aszfaltozott utakon a tócsák elkerülése végett. A pálmafasorok a szürke égbolt alatt különösen drámai látványt nyújtanak.",
+                "ro": "Mergeți pe aleile asfaltate pentru a evita bălțile. Aleile cu palmiere arată deosebit de dramatic sub cerul gri de ploaie.",
+                "en": "Walk on the paved paths to avoid puddles. The palm-lined avenues look particularly dramatic under the grey, rainy sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa des Arts",
+                "hu": "Villa des Arts",
+                "ro": "Villa des Arts",
+                "en": "Villa des Arts"
+              },
+              "tip_5lang": {
+                "de": "Diese weiße Villa ist ein eleganter Ort für moderne Kunst im Trockenen. Genießen Sie die ruhige Atmosphäre, während es draußen regnet.",
+                "hu": "Ez a fehér villa elegáns helyszín a modern művészethez, fedett környezetben. Élvezze a nyugodt légkört, miközben kint esik az eső.",
+                "ro": "Această vilă albă este un loc elegant pentru artă modernă la adăpost. Bucurați-vă de atmosfera calmă în timp ce afară plouă.",
+                "en": "This white villa is an elegant spot for modern art indoors. Enjoy the calm atmosphere inside while it is raining outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Twin Center",
+                "hu": "Twin Center",
+                "ro": "Twin Center",
+                "en": "Twin Center"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im Einkaufszentrum oder im Café ganz oben. Der Blick auf die stürmische Atlantikküste ist absolut sehenswert.",
+                "hu": "Zárja a napot a bevásárlóközpontban vagy a legfelső kávézóban. A viharos atlanti partvidék látványa innen felejthetetlen.",
+                "ro": "Încheiați ziua în centrul comercial sau la cafeneaua de sus. Vederea spre coasta atlantică furtunoasă merită toți banii.",
+                "en": "End the day in the shopping mall or the top-floor cafe. The view of the stormy Atlantic coast is absolutely worth seeing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist kühl, aber oft sonnig. Wir starten am UN-Platz und genießen die milde Brise. Mittags wärmen wir uns in den gut beheizten Ausstellungsräumen der Museen auf. Im Park ist die Luft erfrischend sauber. Da die Sonne gegen 17:00 Uhr untergeht, planen wir den Besuch der Villa des Arts früher ein. Den Abend verbringen wir im beleuchteten Twin Center.",
+            "hu": "A téli reggel hűvös, de gyakran napos. Az UN-térnél kezdünk, élvezve az enyhe szellőt. Délben a múzeumok jól fűtött kiállítótermeiben melegszünk fel. A parkban a levegő frissítően tiszta. Mivel a nap 17:00 körül nyugszik, a Villa des Arts-t korábban ejtjük útba. Az estét a kivilágított Twin Center tornyai között töltjük.",
+            "ro": "Dimineața de iarnă este răcoroasă, dar adesea însorită. Începem în Piața ONU, bucurându-ne de briza blândă. La prânz ne încălzim în sălile bine încălzite ale muzeelor. În parc aerul este revigorant. Deoarece soarele apune pe la 17:00, vizităm Villa des Arts mai devreme. Seara o petrecem în zona luminată de la Twin Center.",
+            "en": "The winter morning is cool but often sunny. We start at UN Square, enjoying the mild breeze. At noon, we warm up in the well-heated museum galleries. In the park, the air is refreshingly clean. Since the sun sets around 17:00, we visit Villa des Arts earlier. We spend the evening among the illuminated Twin Center towers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Platz der Vereinten Nationen",
+                "hu": "Egyesült Nemzetek tere",
+                "ro": "Piața Națiunilor Unite",
+                "en": "United Nations Square"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten gegen die kühle Morgenbrise. Die Wintersonne steht tief und bietet fantastisches Licht für Architekturfotos.",
+                "hu": "Öltözzön rétegesen a hűvös reggeli szél ellen. A téli nap alacsonyan jár, ami fantasztikus fényeket ad az építészeti fotókhoz.",
+                "ro": "Purtați haine în straturi contra brizei matinale. Soarele de iarnă este jos, oferind o lumină fantastică pentru fotografii.",
+                "en": "Wear layers against the cool morning breeze. The winter sun is low, providing fantastic light for architectural photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Fondation Abderrahman Slaoui",
+                "hu": "Abderrahman Slaoui Alapítvány Múzeuma",
+                "ro": "Muzeul Fundației Abderrahman Slaoui",
+                "en": "Abderrahman Slaoui Foundation Museum"
+              },
+              "tip_5lang": {
+                "de": "Die warmen Innenräume sind im Winter sehr einladend. Schauen Sie sich die filigranen Schmuckstücke im goldenen Winterlicht an.",
+                "hu": "A meleg belső terek télen nagyon csalogatóak. Nézze meg a filigrán ékszereket, amelyek ragyognak az aranyló téli fényben.",
+                "ro": "Interioarele calde sunt foarte primitoare iarna. Admirați bijuteriile filigranate în lumina aurie a soarelui de iarnă.",
+                "en": "The warm interiors are very inviting in winter. Check out the filigree jewelry that shines in the golden winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Park der Arabischen Liga",
+                "hu": "Arab Liga Parkja",
+                "ro": "Parcul Ligii Arabe",
+                "en": "Arab League Park"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für einen zügigen Spaziergang in der frischen Luft. Genießen Sie die Ruhe, da im Winter weniger Touristen unterwegs sind.",
+                "hu": "Tökéletes helyszín egy tempós sétához a friss levegőn. Élvezze a nyugalmat, hiszen télen jóval kevesebb a turista a környéken.",
+                "ro": "Perfect pentru o plimbare rapidă în aerul proaspăt. Bucurați-vă de liniște, deoarece sunt mai puțini turiști pe timp de iarnă.",
+                "en": "Perfect for a brisk walk in the fresh air. Enjoy the tranquility, as there are much fewer tourists around during winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa des Arts",
+                "hu": "Villa des Arts",
+                "ro": "Villa des Arts",
+                "en": "Villa des Arts"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Galerie vor 16:30 Uhr, um das natürliche Licht zu nutzen. Die weißen Wände reflektieren das Winterlicht wunderschön.",
+                "hu": "Látogasson el ide 16:30 előtt, hogy kihasználja a természetes fényeket. A fehér falak gyönyörűen verik vissza a téli nap sugarait.",
+                "ro": "Vizitați galeria înainte de 16:30 pentru a profita de lumina naturală. Pereții albi reflectă superb lumina slabă de iarnă.",
+                "en": "Visit the gallery before 16:30 to make the most of the natural light. The white walls reflect the winter sun rays beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Twin Center",
+                "hu": "Twin Center",
+                "ro": "Twin Center",
+                "en": "Twin Center"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter früh; seien Sie gegen 17:00 Uhr hier, um das Lichtermeer der Stadt von oben zu sehen.",
+                "hu": "A napnyugta télen korán van; legyen itt 17:00 körül, hogy fentről láthassa a város kigyúló fényeinek tengerét.",
+                "ro": "Apusul este devreme iarna; fiți aici pe la ora 17:00 pentru a vedea marea de lumini a orașului de la înălțime.",
+                "en": "Sunset is early in winter; be here around 17:00 to see the sea of city lights flickering on from above."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli biciklitúra az Attarik Alapítvány tudományos kiállításaival indul. Délben a gyönyörű Beth El Zsinagógához tekerünk, majd a nyüzsgő Egyesült Nemzetek terére. Délután kulturális szünetet tartunk az Abderrahman Slaoui Múzeumban, és felfedezzük az orosz ortodox templomot. Az este közeledtével a zöldellő Murdoch Park ösvényein lazítunk és pihenjük ki a nap fáradalmait.",
         "ro": "Turul matinal cu bicicleta începe la Fundația Attarik, plină de expoziții științifice fascinante. La prânz pedalăm spre superba Sinagogă Beth El și mai departe spre Piața Națiunilor Unite. În timpul după-amiezii ne bucurăm de o pauză culturală la Muzeul Abderrahman Slaoui și vizităm biserica ortodoxă rusă. Seara ne relaxăm pe aleile înverzite și liniștite din pitorescul Parc Murdoch.",
         "en": "The morning cycling tour kicks off at the Attarik Foundation with its fascinating science exhibits. By midday, we pedal to the beautiful Beth El Synagogue and onwards to the lively United Nations Square. During the afternoon, we enjoy a cultural break at the Abderrahman Slaoui Museum and discover the Russian Orthodox Church. Evening arrives as we unwind gently in the lush, green pathways of Murdoch Park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf Casablancas glatten Straßen. Wir starten bei der Attarik Foundation und nutzen Museen als Stopps. Mittags führt die Tour zur Beth-El-Synagoge, wo wir kurz pausieren. Der UN-Platz und die Fondation Slaoui bieten Schutz vor den Schauern. Die russische Kirche ist ein stiller Rückzugsort, bevor wir die Tour im feuchten Murdoch Park beenden.",
+            "hu": "A kerékpározás esőben óvatosságot igényel Casablanca csúszós útjain. Az Attarik Alapítványnál kezdünk, a múzeumokat pihenőnek használva. Délben a Beth El zsinagóga felé vesszük az irányt. Az UN-tér és a Slaoui Alapítvány menedéket nyújt a záporok elől. Az orosz templom csendes búvóhely, mielőtt a túrát a párás Murdoch Parkban zárnánk.",
+            "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile alunecoase din Casablanca. Începem la Fundația Attarik, folosind muzeele ca popasuri. La prânz mergem spre Sinagoga Beth El. Piața ONU și Fundația Slaoui oferă adăpost contra ploii. Biserica rusă este un refugiu liniștit înainte de a încheia turul în parcul Murdoch umed.",
+            "en": "Cycling in the rain requires caution on Casablanca's slippery roads. We start at the Attarik Foundation, using museums as stops. At noon, we head to Beth El Synagogue. UN Square and the Slaoui Foundation provide shelter from showers. The Russian church is a quiet hideout before ending the tour in the damp Murdoch Park."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Attarik Foundation",
+                "hu": "Attarik Alapítvány",
+                "ro": "Fundația Attarik",
+                "en": "Attarik Foundation"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad nah am Eingang unter dem Dachvorsprung. Drinnen erfahren Sie Spannendes über Meteoriten, während es regnet.",
+                "hu": "Parkolja le kerékpárját az bejárat közelében, az eresztető alatt. Bent izgalmas dolgokat tudhat meg a meteoritokról az esőben.",
+                "ro": "Parcați bicicleta aproape de intrare sub streșină. În interior veți afla lucruri fascinante despre meteoriți în timp ce plouă.",
+                "en": "Park your bike close to the entrance under the eaves. Inside you will learn exciting things about meteorites while it rains."
+              }
+            },
+            {
+              "name": {
+                "de": "Beth-El-Synagoge",
+                "hu": "Beth El Zsinagóga",
+                "ro": "Sinagoga Beth El",
+                "en": "Beth El Synagogue"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die glatten Markierungslinien auf der Straße vor der Synagoge. Das prächtige Interieur lässt Sie das graue Wetter vergessen.",
+                "hu": "Figyeljen a csúszós felfestésekre az úton a zsinagóga előtt. A pompás belső tér feledteti Önnel a kinti szürke, esős időjárást.",
+                "ro": "Atenție la marcajele alunecoase de pe drumul din fața sinagogii. Interiorul magnific vă va face să uitați de vremea gri de afară.",
+                "en": "Watch out for slippery road markings in front of the synagogue. The magnificent interior will make you forget the grey weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Platz der Vereinten Nationen",
+                "hu": "Egyesült Nemzetek tere",
+                "ro": "Piața Națiunilor Unite",
+                "en": "United Nations Square"
+              },
+              "tip_5lang": {
+                "de": "Überqueren Sie die Straßenbahnschienen im rechten Winkel, um Stürze zu vermeiden. Die Arkaden bieten Platz für eine kurze Regenpause.",
+                "hu": "A villamossíneken derékszögben haladjon át, hogy elkerülje az esést. Az árkádok alatt kényelmesen megállhat egy rövid esőszünetre.",
+                "ro": "Traversați șinele de tramvai în unghi drept pentru a evita căzăturile. Arcadele oferă spațiu pentru o scurtă pauză de ploaie.",
+                "en": "Cross the tram tracks at a right angle to avoid slipping. The arcades provide ample space for a quick break from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Fondation Abderrahman Slaoui",
+                "hu": "Abderrahman Slaoui Alapítvány Múzeuma",
+                "ro": "Muzeul Fundației Abderrahman Slaoui",
+                "en": "Abderrahman Slaoui Foundation Museum"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad sicher ab und trocknen Sie Ihre Ausrüstung. Die Ausstellungen bieten eine perfekte, einstündige Pause vom Regen.",
+                "hu": "Zárja le biztonságosan a biciklit, és szárítsa meg a felszerelését. A kiállítások tökéletes egyórás kikapcsolódást nyújtanak.",
+                "ro": "Încuiați bicicleta în siguranță și uscați-vă echipamentul. Expozițiile oferă o pauză perfectă de o oră departe de ploaie.",
+                "en": "Lock your bike securely and dry your gear. The exhibitions offer a perfect one-hour break from the outdoor rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Russische orthodoxe Kirche der Entschlafung",
+                "hu": "Szenderedés orosz ortodox templom",
+                "ro": "Biserica Ortodoxă Rusă Adormirea Maicii Domnului",
+                "en": "Russian Orthodox Church of the Dormition"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Wände leuchten auch bei Regen. Ein kurzer Besuch im Inneren wärmt die Seele, bevor es zurück auf den nassen Sattel geht.",
+                "hu": "A fehér falak esőben is világítanak. Egy rövid belső látogatás melengeti a lelket, mielőtt visszatérne a vizes nyeregbe.",
+                "ro": "Pereții albi strălucesc chiar și pe ploaie. O scurtă vizită în interior vă va încălzi sufletul înainte de a reveni în șaua udă.",
+                "en": "The white walls glow even in the rain. A short visit inside warms the soul before getting back onto the wet bike saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Murdoch Park",
+                "hu": "Murdoch Park",
+                "ro": "Parcul Murdoch",
+                "en": "Murdoch Park"
+              },
+              "tip_5lang": {
+                "de": "Die Parkwege können matschig sein; bleiben Sie auf den Hauptwegen. Das frische Grün der Pflanzen ist nach dem Regen besonders intensiv.",
+                "hu": "A park ösvényei sárosak lehetnek; maradjon a főutakon. A növények friss zöldje az eső után különösen intenzív látványt nyújt.",
+                "ro": "Potecile din parc pot fi noroioase; rămâneți pe aleile principale. Verdele proaspăt al plantelor este intens după ploaie.",
+                "en": "Park paths can be muddy; stay on the main paved ways. The fresh green of the plants is especially intense after the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Casablanca ist erfrischend bei kühlen 15 Grad. Morgens starten wir an der Attarik Foundation. Die Tour zur Beth-El-Synagoge hält uns in Bewegung. Mittags ist der UN-Platz belebt, und die Museen bieten gemütliche Pausen. Da es um 17:00 Uhr dunkel wird, beenden wir die Tour rechtzeitig im Murdoch Park, um die Abenddämmerung sicher zu erleben.",
+            "hu": "A téli biciklizés Casablancában frissítő a hűvös, 15 fokos időben. Reggel az Attarik Alapítványnál kezdünk. A túra a Beth El zsinagógához mozgásban tart minket. Délben az UN-tér élettel teli, a múzeumok pedig kellemes pihenőt adnak. Mivel 17:00-kor sötétedik, a túrát időben zárjuk a Murdoch Parkban.",
+            "ro": "Mersul pe bicicletă iarna în Casablanca este revigorant la 15 grade. Dimineața începem la Fundația Attarik. Traseul spre Sinagoga Beth El ne ține în mișcare. La prânz Piața ONU este plină de viață, iar muzeele oferă pauze plăcute. Deoarece se întunecă la ora 17:00, încheiem turul la timp în parcul Murdoch.",
+            "en": "Winter cycling in Casablanca is refreshing at a cool 15 degrees. In the morning, we start at Attarik Foundation. The route to Beth El Synagogue keeps us moving. At noon, UN Square is lively, and museums offer cozy breaks. Since it gets dark at 17:00, we end the tour early in Murdoch Park for safety."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Attarik Foundation",
+                "hu": "Attarik Alapítvány",
+                "ro": "Fundația Attarik",
+                "en": "Attarik Foundation"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Windschutz auf dem Fahrrad, da die Seeluft im Winter kühl ist. Das Museum ist am Morgen angenehm ruhig und warm.",
+                "hu": "Viseljen szélkabátot a kerékpáron, mert a tengeri levegő télen hűvös. A múzeum reggel kellemesen csendes és jól fűtött.",
+                "ro": "Purtați o jachetă contra vântului, briza mării fiind rece iarna. Muzeul este plăcut de liniștit și cald dimineața.",
+                "en": "Wear a windbreaker on the bike as the sea air is cool in winter. The museum is pleasantly quiet and warm in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Beth-El-Synagoge",
+                "hu": "Beth El Zsinagóga",
+                "ro": "Sinagoga Beth El",
+                "en": "Beth El Synagogue"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für ein Aufwärmen im Inneren. Das bunte Glas der Fenster wirkt in der tiefstehenden Wintersonne wunderbar.",
+                "hu": "Használja ki a megállót egy belső bemelegedésre. Az ablakok színes üvegei csodásan festenek az alacsonyan járó téli napsütésben.",
+                "ro": "Folosiți oprirea pentru a vă încălzi în interior. Vitraliile ferestrelor arată minunat în lumina joasă a soarelui de iarnă.",
+                "en": "Use the stop for a quick warm-up inside. The stained glass of the windows looks wonderful in the low-standing winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Platz der Vereinten Nationen",
+                "hu": "Egyesült Nemzetek tere",
+                "ro": "Piața Națiunilor Unite",
+                "en": "United Nations Square"
+              },
+              "tip_5lang": {
+                "de": "Ein belebter Knotenpunkt, perfekt für eine kurze Trinkpause. Das Licht auf den weißen Gebäuden ist im Winter besonders klar.",
+                "hu": "Forgalmas csomópont, tökéletes egy rövid frissítő szünethez. A fehér épületekre vetülő fény télen különösen tiszta és éles.",
+                "ro": "Un nod aglomerat, perfect pentru o scurtă pauză de hidratare. Lumina pe clădirile albe este deosebit de clară iarna.",
+                "en": "A busy hub, perfect for a short hydration break. The light reflecting off the white buildings is especially clear in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum der Fondation Abderrahman Slaoui",
+                "hu": "Abderrahman Slaoui Alapítvány Múzeuma",
+                "ro": "Muzeul Fundației Abderrahman Slaoui",
+                "en": "Abderrahman Slaoui Foundation Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Kälte für eine Weile zu vergessen. Genießen Sie die Kunstwerke in der ruhigen Winteratmosphäre.",
+                "hu": "Ideális helyszín, hogy egy időre elfelejtse a kinti hideget. Élvezze a műalkotásokat a nyugodt, téli hangulatban.",
+                "ro": "Un loc ideal pentru a uita de frig pentru o vreme. Bucurați-vă de operele de artă în atmosfera liniștită de iarnă.",
+                "en": "An ideal place to forget the cold for a while. Enjoy the artworks in the calm and quiet winter atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Russische orthodoxe Kirche der Entschlafung",
+                "hu": "Szenderedés orosz ortodox templom",
+                "ro": "Biserica Ortodoxă Rusă Adormirea Maicii Domnului",
+                "en": "Russian Orthodox Church of the Dormition"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur wirkt im klaren Winterlicht fast surreal. Achten Sie auf die kurzen Öffnungszeiten während der Wintermonate.",
+                "hu": "Az építészet szinte szürreálisan hat a tiszta téli fényben. Ügyeljen a téli hónapokban jellemző rövidebb nyitvatartási időre.",
+                "ro": "Arhitectura pare aproape ireală în lumina clară de iarnă. Atenție la programul mai scurt în lunile de iarnă.",
+                "en": "The architecture looks almost surreal in the clear winter light. Pay attention to the shorter opening hours during winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Murdoch Park",
+                "hu": "Murdoch Park",
+                "ro": "Parcul Murdoch",
+                "en": "Murdoch Park"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Fahrt vor Sonnenuntergang (ca. 17:00 Uhr). Die Abendluft kühlt schnell ab, sobald die Sonne weg ist.",
+                "hu": "Fejezze be a túrát napnyugta előtt (kb. 17:00). Az esti levegő gyorsan lehűl, amint a nap eltűnik a látóhatárról.",
+                "ro": "Încheiați plimbarea înainte de apus (cca. 17:00). Aerul de seară se răcește rapid imediat ce soarele apune.",
+                "en": "Finish your ride before sunset (around 17:00). The evening air cools down very quickly as soon as the sun disappears."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -491,6 +843,252 @@
         "hu": "A reggeli autós felfedezés a VI. Mohammed Színháznál kezdődik, majd a zöldellő Murdoch Parkba hajtunk. Délben megcsodáljuk az egyedi orosz ortodox templomot, és a Galerie Nadarban megkezdjük művészeti körutunkat. A délutánt a művészetnek és természetnek szenteljük a Parc du Vélodrome, a L'Atelier 21 és a Loft Art Gallery érintésével. Az estét a lenyűgöző Beth El Zsinagóga elegáns díszítésének megcsodálásával töltjük.",
         "ro": "Explorarea matinală cu mașina începe la Teatrul Mohammed VI, apoi conducem spre verdele Parc Murdoch. La prânz admirăm biserica ortodoxă rusă și începem turul de artă la Galeria Nadar. După-amiaza este dedicată artei și naturii, cu vizite la Parcul Vélodrome, L'Atelier 21 și Loft Art Gallery. Seara o petrecem admirând decorațiunile elegante ale superbei Sinagogi Beth El.",
         "en": "Morning exploration by car starts at the Mohammed VI Theater, then we drive to the lush Murdoch Park. Midday is spent marveling at the unique Russian Orthodox Church and starting our art tour at Galerie Nadar. The afternoon is dedicated to art and nature, visiting Parc du Vélodrome, L'Atelier 21, and the Loft Art Gallery. We spend the evening admiring the elegant decorations at the stunning Beth El Synagogue."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist man in Casablanca bei Regen bestens geschützt, muss aber mit Staus rechnen. Wir starten am Mohammed VI Theater. Mittags besuchen wir den Murdoch Park zwischen den Schauern. Die Museen wie Galerie Nadar bieten ideale Indoor-Stopps. Den Nachmittag verbringen wir in den Galerien L'Atelier 21 und Loft. Abends fahren wir entspannt zur Beth-El-Synagoge.",
+            "hu": "Autóval Casablancában esőben is védve vagyunk, de számolni kell a dugókkal. A VI. Mohammed színháznál kezdünk. Délben a Murdoch Parkot két zápor között látogatjuk meg. A múzeumok, mint a Galerie Nadar, ideális fedett megállók. A délutánt az L'Atelier 21 és a Loft galériákban töltjük. Este kényelmesen gurulunk a Beth El zsinagógához.",
+            "ro": "Cu mașina ești protejat de ploaie în Casablanca, dar așteaptă-te la trafic greu. Începem la Teatrul Mohammed VI. La prânz vizităm parcul Murdoch între averse. Muzeele precum Galeria Nadar sunt popasuri ideale la interior. După-amiaza o petrecem în galeriile L'Atelier 21 și Loft. Seara conducem relaxați spre Sinagoga Beth El.",
+            "en": "By car, you are well-protected from rain in Casablanca, but expect traffic jams. We start at Mohammed VI Theater. At noon, we visit Murdoch Park between showers. Museums like Galerie Nadar offer ideal indoor stops. We spend the afternoon at L'Atelier 21 and Loft galleries. In the evening, we drive comfortably to Beth El Synagogue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Theater Mohammed VI",
+                "hu": "VI. Mohammed Színház",
+                "ro": "Teatrul Mohammed VI",
+                "en": "Mohammed VI Theater"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor, um nicht nass zu werden. Bewundern Sie die imposante Fassade bequem aus dem Autofenster.",
+                "hu": "Parkoljon közvetlenül az épület előtt, hogy elkerülje az esőt. Csodálja meg az impozáns homlokzatot kényelmesen az autóablakból.",
+                "ro": "Parcați chiar în față pentru a nu vă uda. Admirați fațada impunătoare confortabil, direct de la geamul mașinii.",
+                "en": "Park right in front to avoid getting wet. Admire the imposing facade comfortably from your car window."
+              }
+            },
+            {
+              "name": {
+                "de": "Murdoch Park",
+                "hu": "Murdoch Park",
+                "ro": "Parcul Murdoch",
+                "en": "Murdoch Park"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht bei Regen aus. Die grünen Alleen wirken durch die nasse Fahrbahn im Parkbereich besonders frisch.",
+                "hu": "Esőben egy rövid megálló is elég. A zöld fasorok a vizes úttest mellett a park környékén különösen frissnek tűnnek.",
+                "ro": "O oprire scurtă este suficientă pe ploaie. Aleile verzi par foarte proaspete pe lângă carosabilul ud din zona parcului.",
+                "en": "A short stop is enough in the rain. The green avenues look particularly fresh next to the wet road in the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Russische orthodoxe Kirche der Entschlafung",
+                "hu": "Szenderedés orosz ortodox templom",
+                "ro": "Biserica Ortodoxă Rusă Adormirea Maicii Domnului",
+                "en": "Russian Orthodox Church of the Dormition"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken in tiefen Pfützen am Straßenrand. Die Kirche ist ein friedlicher Ort, um dem Prasseln des Regens zu lauschen.",
+                "hu": "Kerülje a mély tócsákban való parkolást az út szélén. A templom békés helyszín, ahol hallgathatja az eső kopogását.",
+                "ro": "Evitați parcarea în bălțile adânci de la marginea drumului. Biserica este un loc liniștit unde puteți asculta ropotul ploii.",
+                "en": "Avoid parking in deep puddles at the roadside. The church is a peaceful spot to listen to the rhythmic pitter-patter of rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Nadar",
+                "hu": "Galerie Nadar",
+                "ro": "Galeria Nadar",
+                "en": "Galerie Nadar"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Ort, um das Auto abzustellen und moderne Kunst trocken zu genießen. Die Beleuchtung drinnen ist bei grauem Wetter toll.",
+                "hu": "Tökéletes hely az autó leállítására és a művészet szárazon való élvezésére. A benti világítás remek a szürke időben.",
+                "ro": "Locul perfect pentru a opri mașina și a savura arta la adăpost. Iluminatul interior este excelent pe vreme gri.",
+                "en": "Perfect spot to park the car and enjoy modern art while staying dry. The indoor lighting is great during grey weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Vélodrome",
+                "hu": "Parc du Vélodrome",
+                "ro": "Parcul Vélodrome",
+                "en": "Parc du Vélodrome"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz. Ein kurzer Spaziergang zwischen den Schauern bietet eine willkommene Abwechslung zum Fahren.",
+                "hu": "Használja a kiépített parkolót. Egy rövid séta a záporok között kellemes kikapcsolódást nyújt az autóban ülés után.",
+                "ro": "Folosiți parcarea amenajată. O scurtă plimbare între averse oferă o pauză binevenită de la condus.",
+                "en": "Use the designated parking lot. A short walk between showers offers a welcome change from sitting in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Atelier 21",
+                "hu": "L'Atelier 21",
+                "ro": "L'Atelier 21",
+                "en": "L'Atelier 21"
+              },
+              "tip_5lang": {
+                "de": "Kostenloses Parken ist in der Nähe oft schwierig; nutzen Sie die Zeit für einen intensiven Galeriebesuch im Trockenen.",
+                "hu": "A környéken néha nehéz parkolni; szánjon bőséges időt a galéria megtekintésére a kényelmes, fedett belső térben.",
+                "ro": "Parcarea gratuită este adesea dificilă în zonă; alocați timp pentru o vizită intensă în galeria protejată de ploaie.",
+                "en": "Free parking can be difficult nearby; spend ample time enjoying the gallery's collection in the dry interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Loft Art Gallery",
+                "hu": "Loft Art Gallery",
+                "ro": "Loft Art Gallery",
+                "en": "Loft Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein toller letzter Galerie-Stopp. Das moderne Ambiente wirkt besonders einladend, wenn es draußen ungemütlich regnet.",
+                "hu": "Remek utolsó galéria-megálló. A modern környezet különösen hívogató, amikor kint barátságtalan, esős az idő.",
+                "ro": "O ultimă oprire excelentă la galerie. Ambianța modernă pare foarte primitoare când afară plouă neîncetat.",
+                "en": "A great final gallery stop. The modern atmosphere feels especially inviting when it is unpleasantly rainy outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Beth-El-Synagoge",
+                "hu": "Beth El Zsinagóga",
+                "ro": "Sinagoga Beth El",
+                "en": "Beth El Synagogue"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Aussteigen vor Pfützen. Das Licht der Kronleuchter im Inneren schafft eine warme, trockene Atmosphäre.",
+                "hu": "Vigyázzon a kiszállásnál a tócsákra. A benti csillárok fénye meleg és száraz környezetet teremt az esős este előtt.",
+                "ro": "Atenție la bălți când coborâți din mașină. Lumina candelabrelor din interior creează o atmosferă caldă și uscată.",
+                "en": "Watch out for puddles when getting out of the car. The chandelier light inside creates a warm, dry atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Casablanca im Winter mit dem Auto zu erkunden, ist dank der milden Temperaturen sehr angenehm. Wir starten am Mohammed VI Theater im klaren Morgenlicht. Mittags machen wir Pausen in den Parks, solange die Wintersonne wärmt. Die Museen und Galerien bieten am Nachmittag angenehme Rückzugsorte. Da es um 17:00 Uhr dunkelt, genießen wir die beleuchtete Stadt auf dem Weg zur Synagoge.",
+            "hu": "Casablanca felfedezése télen autóval nagyon kényelmes az enyhe hőmérsékletnek köszönhetően. A VI. Mohammed színháznál kezdünk a tiszta reggeli fényben. Délben a parkokban pihenünk, amíg a téli nap melegít. A múzeumok és galériák délután kellemes menedéket adnak. Mivel 17:00-kor sötétedik, a kivilágított várost élvezzük a zsinagóga felé menet.",
+            "ro": "Explorarea orașului Casablanca iarna cu mașina este foarte plăcută datorită temperaturilor blânde. Începem la Teatrul Mohammed VI în lumina clară a dimineții. La prânz facem pauze în parcuri cât soarele de iarnă încă încălzește. Muzeele și galeriile oferă refugii plăcute după-amiaza. Deoarece se întunecă la 17:00, admirăm orașul luminat spre sinagogă.",
+            "en": "Exploring Casablanca in winter by car is very comfortable thanks to the mild temperatures. We start at Mohammed VI Theater in the clear morning light. At noon, we take breaks in the parks while the winter sun warms. Museums and galleries offer pleasant retreats in the afternoon. Since it gets dark at 17:00, we enjoy the illuminated city en route to the synagogue."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Theater Mohammed VI",
+                "hu": "VI. Mohammed Színház",
+                "ro": "Teatrul Mohammed VI",
+                "en": "Mohammed VI Theater"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht auf die Architektur am kühlen Morgen. Die Heizung im Auto sorgt für einen gemütlichen Start in den Tag.",
+                "hu": "Élvezze a tiszta rálátást az épületre a hűvös reggelen. Az autó fűtése gondoskodik a nap kellemes és kényelmes kezdetéről.",
+                "ro": "Bucurați-vă de vederea clară asupra arhitecturii în dimineața răcoroasă. Căldura din mașină asigură un început de zi confortabil.",
+                "en": "Enjoy the clear view of the architecture on a cool morning. The car's heater ensures a cozy and comfortable start to your day."
+              }
+            },
+            {
+              "name": {
+                "de": "Murdoch Park",
+                "hu": "Murdoch Park",
+                "ro": "Parcul Murdoch",
+                "en": "Murdoch Park"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie im Schatten, falls die Wintersonne das Auto zu stark aufheizt. Ein kurzer Spaziergang in der frischen Luft ist belebend.",
+                "hu": "Parkoljon árnyékos helyen, ha a téli nap túlmelegítené az autót. Egy rövid séta a friss levegőn rendkívül élénkítő hatású.",
+                "ro": "Parcați la umbră dacă soarele de iarnă încinge prea tare mașina. O scurtă plimbare în aerul curat este revigorantă.",
+                "en": "Park in the shade if the winter sun heats up the car too much. A short walk in the fresh, clean air is very invigorating."
+              }
+            },
+            {
+              "name": {
+                "de": "Russische orthodoxe Kirche der Entschlafung",
+                "hu": "Szenderedés orosz ortodox templom",
+                "ro": "Biserica Ortodoxă Rusă Adormirea Maicii Domnului",
+                "en": "Russian Orthodox Church of the Dormition"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Mauern reflektieren das Winterlicht perfekt. Ein kurzer, stiller Besuch bietet eine gute Pause vom Stadtverkehr.",
+                "hu": "A fehér falak tökéletesen verik vissza a téli fényeket. Egy rövid, csendes látogatás jó pihenőt kínál a városi forgalom után.",
+                "ro": "Zidurile albe reflectă perfect lumina de iarnă. O vizită scurtă și liniștită oferă o pauză bună de la traficul urban.",
+                "en": "The white walls reflect the winter light perfectly. A short, quiet visit offers a good break from the city's busy traffic."
+              }
+            },
+            {
+              "name": {
+                "de": "Galerie Nadar",
+                "hu": "Galerie Nadar",
+                "ro": "Galeria Nadar",
+                "en": "Galerie Nadar"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Tageslicht am frühen Nachmittag für die Kunstwerke. Drinnen ist es angenehm temperiert und ruhig.",
+                "hu": "Használja ki a kora délutáni természetes fényeket a műalkotásokhoz. Bent a hőmérséklet kellemes, a légkör pedig nyugodt.",
+                "ro": "Profitate de lumina zilei la începutul după-amiezii pentru exponate. În interior temperatura este plăcută și atmosfera calmă.",
+                "en": "Make use of the early afternoon daylight to view the artworks. Inside, it is pleasantly tempered and very peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc du Vélodrome",
+                "hu": "Parc du Vélodrome",
+                "ro": "Parcul Vélodrome",
+                "en": "Parc du Vélodrome"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für eine Pause, bevor die Sonne gegen 17:00 Uhr sinkt. Die Winterfarben der Pflanzen sind hier besonders subtil.",
+                "hu": "Tökéletes pihenőhely, mielőtt a nap 17:00 körül ereszkedni kezdene. A növények téli színei itt különösen finomak.",
+                "ro": "Perfect pentru o pauză înainte ca soarele să apună pe la ora 17:00. Culorile de iarnă ale plantelor sunt foarte subtile aici.",
+                "en": "Perfect for a break before the sun starts to set around 17:00. The winter colors of the plants are particularly subtle here."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Atelier 21",
+                "hu": "L'Atelier 21",
+                "ro": "L'Atelier 21",
+                "en": "L'Atelier 21"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie rechtzeitig, bevor der Berufsverkehr am späten Nachmittag zunimmt. Die Galerie bietet einen warmen, kulturellen Stopp.",
+                "hu": "Parkoljon le időben, mielőtt a késő délutáni csúcsforgalom beindulna. A galéria meleg, kulturális kikapcsolódást nyújt.",
+                "ro": "Parcați din timp, înainte ca traficul de vârf de după-amiază să crească. Galeria oferă un popas cultural cald.",
+                "en": "Park early before the late afternoon rush hour picks up. The gallery offers a warm, high-quality cultural stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Loft Art Gallery",
+                "hu": "Loft Art Gallery",
+                "ro": "Loft Art Gallery",
+                "en": "Loft Art Gallery"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die moderne Kunst, während draußen die Dämmerung einsetzt. Ein gemütlicher Ort vor der Rückfahrt zum Hotel.",
+                "hu": "Élvezze a modern művészetet, miközben kint elkezdődik a szürkület. Kellemes helyszín a szállodába való visszatérés előtt.",
+                "ro": "Bucurați-vă de arta modernă în timp ce afară se lasă amurgul. Un loc plăcut înainte de drumul de întoarcere spre hotel.",
+                "en": "Enjoy the modern art as dusk begins to settle outside. A cozy place to spend time before driving back to your hotel."
+              }
+            },
+            {
+              "name": {
+                "de": "Beth-El-Synagoge",
+                "hu": "Beth El Zsinagóga",
+                "ro": "Sinagoga Beth El",
+                "en": "Beth El Synagogue"
+              },
+              "tip_5lang": {
+                "de": "Nach 17:00 Uhr ist es dunkel; die beleuchtete Synagoge ist ein herrlicher Anblick. Parkplätze sind am Abend einfacher zu finden.",
+                "hu": "17:00 után már sötét van; a kivilágított zsinagóga gyönyörű látvány. Este általában könnyebb parkolóhelyet találni a közelben.",
+                "ro": "După ora 17:00 este deja întuneric; sinagoga iluminată este o priveliște superbă. Seara e mai ușor de găsit loc de parcare.",
+                "en": "It is dark after 17:00; the illuminated synagogue is a magnificent sight. Parking is usually easier to find in the evening."
+              }
+            }
+          ]
+        }
       }
     }
   }

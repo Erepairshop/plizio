@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Cërriktől délre a Kashaj-tónál, szívja magába a friss reggeli levegőt, miközben a tükörsima vízfelszínt figyeli. A lágy fények tökéletes indulást biztosítanak.\nDél közeledtével sétáljon az Ulzës- és a Katundit-tó felé. A csendes ösvények rusztikus bájt és békés környezetet kínálnak egy könnyed, természetben elköltött piknikhez.\nDélután kövesse a Miloshit-tóhoz vezető ösvényeket. A táj kitárul, dombokat és változatos növényvilágot tárva elénk, amelyeket a lemenő nap gyönyörűen kiemel.\nZárja a gyalogtúrát a Bicit-tónál. Az esti hangulat itt hihetetlenül békés, csendes elmélyülést kínálva a vízparton, mielőtt lassan visszaindulna a szállására.",
         "ro": "Începeți ziua la sud de Cërrik, la Lacul Kashaj, respirând aerul proaspăt în timp ce observați suprafața apei ca o oglindă. Lumina blândă oferă un start perfect.\nSpre prânz, plimbați-vă spre Lacul Ulzës și Lacul Katundit. Cărările liniștite oferă un farmec rustic și un cadru pașnic pentru un picnic ușor, împachetat în mijlocul naturii.\nDupă-amiaza, urmați traseele spre Lacul Miloshit. Peisajul se deschide, prezentând dealuri ondulate și o floră diversă, frumos evidențiate de soarele care coboară.\nÎncheiați drumeția la Lacul Bicit. Atmosfera de seară este incredibil de senină, oferind un moment de reflecție liniștită la malul apei înainte de a vă întoarce încet.",
         "en": "Begin your day south of Cërrik at Lake Kashaj, breathing in the fresh morning air while observing the mirror-like water surface. The gentle morning light makes for a perfect start.\nAs midday approaches, stroll towards Lake Ulzës and Lake Katundit. The quiet paths between these lakes offer rustic charm and a peaceful setting for a light, packed picnic in nature.\nIn the afternoon, follow the trails to Lake Miloshit. The landscape opens up, presenting rolling hills and diverse flora that are beautifully highlighted by the lowering sun.\nEnd your walking tour at Lake Bicit. The evening atmosphere here is incredibly serene, offering a quiet moment of reflection by the water before you slowly make your way back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Kashaj-See, wo Nebel den Wasserspiegel mystisch verhüllt. Mittags wandern wir an den Seen Ulzës und Katundit entlang; der Schlamm erschwert den Weg, doch der Duft der Natur ist erfrischend. Nachmittags bietet der Miloshit-See durch das Spiel der Regentropfen einen besonderen Anblick. Abends beenden wir die Tour am Bicit-See, bevor stärkerer Regen einsetzt.",
+            "hu": "Esős reggel a Kashaj-tónál, ahol a köd misztikus fátylat von a víz fölé. Délben az Ulzës és Katundit tavak mentén haladunk, a sár nehezíti a járást, de a természet illata frissítő. Délután a Miloshit-tónál a vízcseppek játéka a felszínen különleges látvány. Este a Bicit-tónál fejezzük be a túrát, mielőtt a nagyobb felhőszakadás megérkezne az elszürkült dombok közé.",
+            "ro": "O dimineață ploioasă la Lacul Kashaj, unde ceața așterne un văl mistic peste apă. La prânz ne plimbăm pe lângă lacurile Ulzës și Katundit; noroiul îngreunează drumul, dar mirosul naturii este revigorant. După-amiaza la Lacul Miloshit, jocul picăturilor pe suprafață este o priveliște unică. Încheiem turul la Lacul Bicit seara, înainte ca ploaia torențială să cuprindă dealurile.",
+            "en": "A rainy morning at Lake Kashaj, where mist drapes a mystical veil over the water. By noon, we walk along Lake Ulzës and Katundit; the mud makes the path heavy, but the scent of nature is refreshing. In the afternoon at Lake Miloshit, the dance of raindrops on the surface is a unique sight. We conclude the tour at Lake Bicit in the evening, just as heavier rain moves into the grey hills."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kashaj-See",
+                "hu": "Kashaj-tó",
+                "ro": "Lacul Kashaj",
+                "en": "Lake Kashaj"
+              },
+              "tip_5lang": {
+                "de": "Der neblige Ufersaum wirkt heute besonders geheimnisvoll; tragen Sie unbedingt wasserfeste Wanderschuhe, da die Uferpfade bei Regen extrem schlammig werden.",
+                "hu": "A ködbe vesző tópart látványa lenyűgöző; viseljen magas szárú gumicsizmát, mert a part menti ösvények ilyenkor mélyen feláznak és csúszóssá válnak.",
+                "ro": "Malul lacului pierdut în ceață este fascinant; purtați cizme impermeabile, deoarece potecile de pe mal devin foarte noroioase și alunecoase pe timp de ploaie.",
+                "en": "The misty shoreline looks incredibly mysterious today; be sure to wear waterproof hiking boots as the lakeside paths become very muddy and slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulzës-See",
+                "hu": "Ulzës-tó",
+                "ro": "Lacul Ulzës",
+                "en": "Lake Ulzës"
+              },
+              "tip_5lang": {
+                "de": "Das Klopfen des Regens auf der Wasseroberfläche erzeugt eine beruhigende Melodie; suchen Sie bei starken Güssen unter den dichten Bäumen am Nordufer Schutz.",
+                "hu": "A víz felszínén kopogó eső nyugtató hangot ad; keressen menedéket a sűrűbb fák alatt, ha felerősödne a zápor a tó északi részénél a túra során.",
+                "ro": "Ropotul ploii pe suprafața apei creează o melodie liniștitoare; căutați adăpost sub copacii deși de pe malul nordic dacă aversele devin prea puternice.",
+                "en": "The sound of rain tapping on the water's surface creates a calming melody; seek shelter under the thick trees on the north bank if the downpour intensifies."
+              }
+            },
+            {
+              "name": {
+                "de": "Katundit-See",
+                "hu": "Katundit-tó",
+                "ro": "Lacul Katundit",
+                "en": "Lake Katundit"
+              },
+              "tip_5lang": {
+                "de": "Das satte Grün der umliegenden Hügel leuchtet im Regen besonders intensiv; seien Sie vorsichtig auf den Grashängen, da diese bei Nässe tückisch glatt sind.",
+                "hu": "A tavat körülölelő dombok zöldje ilyenkor még intenzívebb; legyen óvatos a lejtős részeken, mert a fű nedvesen rendkívül csúszós és veszélyes lehet.",
+                "ro": "Verdele dealurilor din jur este mai intens pe ploaie; aveți grijă pe pantele înclinate, deoarece iarba udă devine extrem de alunecoasă și periculoasă.",
+                "en": "The lush green of the surrounding hills is even more intense in the rain; be careful on the slopes, as wet grass can be treacherous and very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Miloshit-See",
+                "hu": "Miloshit-tó",
+                "ro": "Lacul Miloshit",
+                "en": "Lake Miloshit"
+              },
+              "tip_5lang": {
+                "de": "Die Reflexion des grauen Himmels verleiht dem See eine dramatische Atmosphäre; nutzen Sie eine Regenhülle für Ihren Rucksack, um Ihre Kameraausrüstung zu schützen.",
+                "hu": "A szürke égbolt tükröződése drámai hangulatot kölcsönöz a víznek; használjon esővédő huzatot a hátizsákján, hogy megvédje értékeit a hirtelen csapadéktól.",
+                "ro": "Reflexia cerului cenușiu oferă lacului o atmosferă dramatică; folosiți o husă impermeabilă pentru rucsac pentru a vă proteja obiectele de valoare de umiditate.",
+                "en": "The reflection of the grey sky gives the lake a dramatic atmosphere; use a rain cover for your backpack to protect your valuables from the sudden rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Bicit-See",
+                "hu": "Bicit-tó",
+                "ro": "Lacul Bicit",
+                "en": "Lake Bicit"
+              },
+              "tip_5lang": {
+                "de": "Die Stille am See wird nur vom sanften Regen unterbrochen; bleiben Sie auf den befestigten Wegstücken, um am Ende der Tour nicht im tiefen Morast zu versinken.",
+                "hu": "A tó körüli csendet csak az eső hangja töri meg; érdemes a kövezett útszakaszon maradni, hogy elkerülje a sártengert a túra befejezése előtt.",
+                "ro": "Liniștea din jurul lacului este întreruptă doar de sunetul ploii; rămâneți pe porțiunile de drum pavate pentru a evita noroiul adânc spre finalul turei.",
+                "en": "The silence around the lake is only broken by the sound of rain; stay on the paved sections of the path to avoid getting stuck in deep mud at the end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen am Kashaj-See mit kristallklarer Luft. Mittags genießen wir an den Seen Ulzës und Katundit die winterliche Ruhe und das schwache Sonnenlicht. Nachmittags taucht die frühe Dämmerung den Miloshit-See in goldenes Licht. Am Bicit-See bricht die Dunkelheit schnell herein, und wir beenden die Wanderung unter dem Sternenhimmel bei klirrender Kälte.",
+            "hu": "Fagyos reggel a Kashaj-tónál, a kristálytiszta levegőben messzire ellátni. Délben az Ulzës és Katundit tavaknál a jeges szél ellenére is élvezzük a csendet és a téli nap gyenge fényét. Délután a Miloshit-tónál a korai naplemente aranyba vonja a tájat. Mire a Bicit-tóhoz érünk, a sötétség gyorsan leszáll, így a túrát a csillagos ég alatt zárjuk.",
+            "ro": "O dimineață geroasă la Lacul Kashaj, cu aer cristalinc și vizibilitate mare. La prânz, la lacurile Ulzës și Katundit, ne bucurăm de liniștea iernii și de lumina slabă a soarelui. După-amiaza, apusul timpuriu scaldă Lacul Miloshit în nuanțe aurii. La Lacul Bicit, întunericul se lasă rapid, încheind drumeția sub cerul înstelat și un frig pătrunzător.",
+            "en": "A frosty morning at Lake Kashaj, with crystal-clear air offering long views. At noon by Lakes Ulzës and Katundit, we enjoy the winter silence and weak sunlight despite the icy wind. In the afternoon at Lake Miloshit, the early sunset bathes the landscape in gold. By the time we reach Lake Bicit, darkness falls quickly, ending the hike under a starry sky in biting cold."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kashaj-See",
+                "hu": "Kashaj-tó",
+                "ro": "Lacul Kashaj",
+                "en": "Lake Kashaj"
+              },
+              "tip_5lang": {
+                "de": "Das teilweise gefrorene Ufer ist ein seltener Anblick; nehmen Sie eine Thermoskanne mit heißem Tee mit, da es am offenen Ufer kaum windgeschützte Rastplätze gibt.",
+                "hu": "A befagyott szélű víztükör látványa felejthetetlen; vigyen magával forró teát, mert a nyitott tóparton nincs szélvédett hely a hosszabb pihenéshez.",
+                "ro": "Malul parțial înghețat este o priveliște rară; luați un termos cu ceai fierbinte, deoarece pe malul deschis nu există locuri de odihnă ferite de vânt.",
+                "en": "The partially frozen shoreline is a rare sight; bring a thermos with hot tea, as there are few wind-sheltered spots for resting along the open lakeshore."
+              }
+            },
+            {
+              "name": {
+                "de": "Ulzës-See",
+                "hu": "Ulzës-tó",
+                "ro": "Lacul Ulzës",
+                "en": "Lake Ulzës"
+              },
+              "tip_5lang": {
+                "de": "Durch das fehlende Laub hat man einen freien Blick auf die umliegenden Berge; tragen Sie windfeste Kleidung, da die kalten Fallwinde hier besonders spürbar sind.",
+                "hu": "A kopár ágak között jobban rálátni a környező hegyekre; viseljen szélálló kabátot, mivel a völgyben ilyenkor felerősödnek a hideg téli légáramlatok.",
+                "ro": "Lipsa frunzișului oferă o vedere clară spre munții din jur; purtați haine rezistente la vânt, deoarece curenții reci de aer sunt foarte puternici în vale.",
+                "en": "The lack of foliage offers a clear view of the surrounding mountains; wear windproof clothing, as the cold winter air currents are particularly strong in the valley."
+              }
+            },
+            {
+              "name": {
+                "de": "Katundit-See",
+                "hu": "Katundit-tó",
+                "ro": "Lacul Katundit",
+                "en": "Lake Katundit"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange, beeindruckende Schatten; planen Sie Ihren Aufenthalt so, dass Sie vor dem plötzlichen Temperaturabfall bei Sonnenuntergang aufbrechen.",
+                "hu": "A téli napfény éles árnyékokat vet a domboldalakra; figyeljen az időre, mert a naplemente után a hőmérséklet pillanatok alatt fagypont alá eshet.",
+                "ro": "Soarele slab de iarnă proiectează umbre lungi pe dealuri; planificați vizita astfel încât să plecați înainte ca temperatura să scadă brusc după apus.",
+                "en": "The low winter sun casts long, impressive shadows on the hills; time your visit to leave before the temperature drops sharply after the sun goes down."
+              }
+            },
+            {
+              "name": {
+                "de": "Miloshit-See",
+                "hu": "Miloshit-tó",
+                "ro": "Lacul Miloshit",
+                "en": "Lake Miloshit"
+              },
+              "tip_5lang": {
+                "de": "Die unbewegte Wasserfläche ist ideal für winterliche Landschaftsfotos; nutzen Sie Touchscreen-Handschuhe, um Ihre Hände beim Fotografieren vor dem Frost zu schützen.",
+                "hu": "A mozdulatlan víztükör tökéletes a téli fotózáshoz; használjon érintőképernyős kesztyűt, hogy ne kelljen a fagyban levennie azt a képek készítésekor.",
+                "ro": "Suprafața nemișcată a apei este ideală pentru fotografii de iarnă; folosiți mănuși compatibile cu ecranele tactile pentru a vă proteja mâinile de ger.",
+                "en": "The still water surface is perfect for winter landscape photography; use touchscreen gloves to keep your hands protected from the frost while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Bicit-See",
+                "hu": "Bicit-tó",
+                "ro": "Lacul Bicit",
+                "en": "Lake Bicit"
+              },
+              "tip_5lang": {
+                "de": "In der frühen Dämmerung wirken die Uferkonturen fast magisch; nehmen Sie eine Taschenlampe mit, da der Rückweg nach 17 Uhr bereits in völliger Dunkelheit liegt.",
+                "hu": "A korai szürkületben a tó körvonalai misztikussá válnak; legyen önnél elemlámpa, mert a visszavezető út 17 óra után már teljes sötétségbe borul.",
+                "ro": "În amurgul timpuriu, conturul malurilor devine magic; aveți la voi o lanternă, deoarece drumul de întoarcere după ora 17 este în întuneric total.",
+                "en": "In the early twilight, the contours of the shore look magical; carry a flashlight with you as the return path will be in total darkness after 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "A kerékpáros kaland a Shalësit-víztározónál kezdődik. A friss reggeli levegő és a korai halászok látványa autentikus, élénkítő kezdést biztosít az egész napos utazáshoz.\nDél körül tekerjen az árnyékos utakon Xibrakës és a Thatë-tó felé. A változó környezet és a szezonális vizek rengeteg természeti érdekességet kínálnak a déli felfedezéshez.\nA délutáni útvonal a Kashtës és Godes nyugodt partjai mellett halad el. A vizeken átsuhanó aranyló fény kiváló hátteret biztosít a földutakon való kerékpározáshoz.\nFejezze be a napot a Komnecit és végül a Kashaj-tó felé kanyarogva. A víz feletti békés esti ragyogás gyönyörű és hálás lezárása a nyeregben töltött hosszú napnak.",
         "ro": "Aventura pe bicicletă începe la Rezervorul Shalësit. Aerul proaspăt matinal și vederea pescarilor timpurii creează un start autentic și revigorant pentru traseul tău.\nPână la prânz, pedalează pe potecile umbrite spre Xibrakës și Lacul Thatë. Mediul schimbător și apele sezoniere oferă multă fascinație naturală pentru explorarea de prânz.\nTraseul de după-amiază te poartă pe lângă malurile liniștite de la Kashtës și Godes. Lumina aurie de pe apă reprezintă un fundal excelent în timp ce pedalezi pe drumuri de pământ.\nÎncheie ziua mergând spre Komnecit și Lacul Kashaj. Strălucirea senină a serii peste apă oferă un final frumos și plin de satisfacții pentru o zi lungă petrecută în șa.",
         "en": "Your cycling adventure begins at the Shalësit Reservoir. The crisp morning air and the sight of early local fishermen create an authentic, invigorating start to your ride.\nBy midday, pedal through the shaded paths toward Xibrakës and Lake Thatë. The changing environment and seasonal waters offer plenty of natural intrigue for your midday exploration.\nThe afternoon route takes you past the calm shores of Kashtës and Godes. The golden light sweeping across these waters makes for an excellent backdrop as you cycle along dirt paths.\nFinish the day weaving through the fields to Komnecit and finally Lake Kashaj. The serene evening glow over the water provides a beautiful, rewarding end to a long day on the saddle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein herausfordernder Start am Shalësit-Stausee, wo der Regen die Wege aufweicht. Mittags erreichen wir Xibrakës und Lake Thatë; die Reifen verlieren auf dem schlammigen Untergrund leicht an Grip. Nachmittags radeln weiter nach Kashtës und Godes, während der Sprühregen die Sicht einschränkt. Den Tag beenden wir erschöpft, aber zufrieden nach der Tour über Komnecit und Kashaj.",
+            "hu": "Kihívásokkal teli kezdés a Shalësit-víztározónál, ahol az eső feláztatja az utakat. Délben érjük el Xibrakës-t és a Thatë-tavat; a gumik könnyen megcsúsznak a sáros talajon. Délután Kashtës és Godes felé tekerünk tovább, miközben a szemerkélő eső rontja a látási viszonyokat. A napot fáradtan, de elégedetten zárjuk a Komnecit és Kashaj tavak érintése után.",
+            "ro": "Un început plin de provocări la Shalësit, unde ploaia înmoaie drumurile. La prânz ajungem la Xibrakës și Lacul Thată; anvelopele pierd ușor aderența pe solul noroios. După-amiaza pedalăm spre Kashtăs și Godes, în timp ce burnița reduce vizibilitatea. Încheiem ziua obosiți, dar mulțumiți după ce am trecut pe la lacurile Komnecit și Kashaj.",
+            "en": "A challenging start at Shalësit Reservoir, where rain softens the tracks. By noon we reach Xibrakës and Lake Thatë; tires easily lose grip on the muddy ground. In the afternoon we cycle towards Kashtës and Godes, while the drizzle reduces visibility. We end the day exhausted but satisfied after passing Lakes Komnecit and Kashaj."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Shalësit-Stausee",
+                "hu": "Shalësit-víztározó",
+                "ro": "Rezervorul Shalësit",
+                "en": "Shalësit Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Der Boden ist hier sehr lehmig und wird bei Regen extrem rutschig; reduzieren Sie den Reifendruck leicht, um auf den nassen Pfaden mehr Traktion zu haben.",
+                "hu": "A talaj itt agyagos és esőben rendkívül csúszóssá válik; csökkentse kissé a guminyomást, hogy jobb tapadást érjen el a nedves, sáros ösvényeken.",
+                "ro": "Solul este argilos și devine extrem de alunecos pe ploaie; reduceți puțin presiunea în anvelope pentru o aderență mai bună pe potecile umede.",
+                "en": "The ground here is clayey and becomes extremely slippery in the rain; slightly reduce tire pressure for better traction on the wet and muddy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Xibrakës-Stausee",
+                "hu": "Xibrakës-víztározó",
+                "ro": "Rezervorul Xibrakës",
+                "en": "Xibrakës Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Regenwolken hängen tief über dem Damm und schaffen eine besondere Kulisse; tragen Sie eine wasserdichte Radhose, um sich vor dem hochspritzenden Schlamm zu schützen.",
+                "hu": "Az esőfelhők alacsonyan szállnak a gát felett, különleges látványt nyújtva; viseljen vízálló nadrágot, hogy megvédje magát a kerekek által felcsapott sártól.",
+                "ro": "Norii de ploaie plutesc jos deasupra barajului, oferind o priveliște unică; purtați pantaloni impermeabili pentru a vă proteja de noroiul împroșcat de roți.",
+                "en": "Rain clouds hang low over the dam, providing a unique sight; wear waterproof cycling trousers to protect yourself from the mud splashed by the wheels."
+              }
+            },
+            {
+              "name": {
+                "de": "Thatë-See",
+                "hu": "Thatë-tó",
+                "ro": "Lacul Thatë",
+                "en": "Lake Thatë"
+              },
+              "tip_5lang": {
+                "de": "Die Abfahrten zum See sind bei Nässe technisch anspruchsvoll; prüfen Sie vorab Ihre Bremsbeläge, da der Sand auf den Wegen den Verschleiß bei Regen erhöht.",
+                "hu": "A tóhoz vezető lejtők nedvesen technikásak és nehezen tarthatóak; ellenőrizze a fékbetéteket, mert a homokos sár ilyenkor gyorsabban koptatja azokat.",
+                "ro": "Coborârile spre lac sunt tehnice și dificile pe carosabil umed; verificați plăcuțele de frână, deoarece noroiul nisipos le uzează mult mai rapid acum.",
+                "en": "The descents to the lake are technical and difficult when wet; check your brake pads beforehand, as the sandy mud increases wear during rainy rides."
+              }
+            },
+            {
+              "name": {
+                "de": "Kashtës-See",
+                "hu": "Kashtës-tó",
+                "ro": "Lacul Kashtës",
+                "en": "Lake Kashtës"
+              },
+              "tip_5lang": {
+                "de": "Das Ufer bietet bei Regen kaum Schutz, wirkt aber sehr friedlich; montieren Sie unbedingt Schutzbleche an Ihrem Fahrrad, um den Rücken trocken zu halten.",
+                "hu": "A tópart esőben kevés menedéket nyújt, de nagyon békés; mindenképpen szereljen fel sárvédőket a kerékpárra, hogy hátát szárazon tartsa a tekerés alatt.",
+                "ro": "Malul lacului oferă puțin adăpost pe ploaie, dar este foarte liniștit; montați neapărat aripi la bicicletă pentru a vă menține spatele uscat în timpul mersului.",
+                "en": "The lakeshore offers little shelter in the rain but is very peaceful; definitely install mudguards on your bike to keep your back dry during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Godes-See",
+                "hu": "Godes-tó",
+                "ro": "Lacul Godes",
+                "en": "Lake Godes"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad um den See ist von Pfützen übersät und verlangt volle Konzentration; tragen Sie gelbe oder klare Brillengläser, um trotz des grauen Lichts Hindernisse zu sehen.",
+                "hu": "A tó körüli ösvény tele van tócsákkal és nagy koncentrációt igényel; viseljen sárga lencsés szemüveget, hogy a szürke fényben is jól lássa az akadályokat.",
+                "ro": "Poteca din jurul lacului este plină de bălți și necesită concentrare; purtați ochelari cu lentile galbene pentru a vedea obstacolele clar în lumina gri.",
+                "en": "The path around the lake is full of puddles and requires focus; wear yellow-lensed glasses to see obstacles clearly even in the flat, grey light."
+              }
+            },
+            {
+              "name": {
+                "de": "Komnecit-See",
+                "hu": "Komnecit-tó",
+                "ro": "Lacul Komnecit",
+                "en": "Lake Komnecit"
+              },
+              "tip_5lang": {
+                "de": "Die Feuchtigkeit lässt die Farben der umliegenden Vegetation leuchten; wischen Sie die Felgen regelmäßig trocken, um die Bremsleistung bei Felgenbremsen zu erhalten.",
+                "hu": "A nedvesség kiemeli a környező növényzet színeit; felnifék esetén rendszeresen húzza meg a féket, hogy letisztítsa a vizet a tapadófelületről.",
+                "ro": "Umiditatea scoate în evidență culorile vegetației din jur; în cazul frânelor pe jantă, acționați-le periodic pentru a curăța apa de pe suprafața de contact.",
+                "en": "The moisture highlights the colors of the surrounding vegetation; for rim brakes, squeeze them periodically to clear water from the braking surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Kashaj-See",
+                "hu": "Kashaj-tó",
+                "ro": "Lacul Kashaj",
+                "en": "Lake Kashaj"
+              },
+              "tip_5lang": {
+                "de": "Der letzte Stopp bietet eine mystische Regenstimmung am Wasser; reinigen Sie Kette und Schaltung direkt nach der Tour, um Rostschäden durch den Matsch zu vermeiden.",
+                "hu": "Az utolsó állomás misztikus esős hangulatot áraszt a víznél; a túra után közvetlenül tisztítsa meg a láncot és a váltót, hogy elkerülje a sár okozta rozsdát.",
+                "ro": "Ultima oprire oferă o atmosferă mistică de ploaie lângă apă; curățați lanțul și schimbătorul imediat după tură pentru a evita rugina cauzată de noroi.",
+                "en": "The last stop offers a mystical rainy mood by the water; clean the chain and derailleurs right after the tour to avoid rust damage caused by the mud."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein eiskalter Morgen am Shalësit-Stausee, wo der Boden steinhart gefroren ist. Mittags bei Xibrakës und Lake Thatë hält uns das stetige Treten gegen den kalten Wind warm. Nachmittags erreichen wir Kashtës und Godes im schwindenden Sonnenlicht. Am Komnecit- und Kashaj-See bricht die Dunkelheit ein, während wir die letzten Kilometer unter dem klaren Sternenhimmel zurücklegen.",
+            "hu": "Jéghideg reggel a Shalësit-víztározónál, ahol a talaj kőkeményre fagyott. Délben Xibrakës és a Thatë-tó felé a folyamatos tekerés tart minket melegen a hideg szélben. Délután Kashtës és Godes tavait már a fogyatkozó napsütésben érjük el. A Komnecit és Kashaj tavaknál ránk sötétedik, miközben az utolsó kilométereket a tiszta csillagos ég alatt tesszük meg.",
+            "ro": "O dimineață înghețată la Shalësit, unde solul este tare ca piatra. La prânz, spre Xibrakës și Lacul Thată, pedalarea continuă ne menține calzi împotriva vântului tăios. După-amiaza ajungem la lacurile Kashtăs și Godes în lumina slabă a soarelui. La Komnecit și Kashaj se lasă întunericul, parcurgând ultimii kilometri sub cerul senin și înstelat.",
+            "en": "An ice-cold morning at Shalësit Reservoir, where the ground is frozen rock-hard. At noon towards Xibrakës and Lake Thatë, steady pedaling keeps us warm against the biting wind. In the afternoon we reach Lakes Kashtës and Godes in the fading sunlight. At Lakes Komnecit and Kashaj, darkness falls as we complete the last kilometers under a clear starry sky."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Shalësit-Stausee",
+                "hu": "Shalësit-víztározó",
+                "ro": "Rezervorul Shalësit",
+                "en": "Shalësit Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Pfützen glitzern in der Morgensonne; tragen Sie warme Überschuhe, da der Fahrtwind die Zehen bei Temperaturen um den Gefrierpunkt schnell auskühlt.",
+                "hu": "A fagyott tócsák csillognak a reggeli napsütésben; viseljen meleg kamáslit, mert a menetszél fagypont környékén nagyon gyorsan lehűti a lábujjakat.",
+                "ro": "Bălțile înghețate sclipesc în soarele dimineții; purtați protecții termice pentru pantofi, deoarece vântul răcește rapid degetele la temperaturi de îngheț.",
+                "en": "Frozen puddles glisten in the morning sun; wear warm overshoes, as the wind chill quickly cools your toes when temperatures are near freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Xibrakës-Stausee",
+                "hu": "Xibrakës-víztározó",
+                "ro": "Rezervorul Xibrakës",
+                "en": "Xibrakës Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterwetter bietet eine exzellente Fernsicht über den Stausee; nutzen Sie Fleece-Handschuhe unter Ihren Radhandschuhen für maximale Wärmeisolierung.",
+                "hu": "A tiszta téli idő kiváló tálátást biztosít a víztározó felett; használjon polár bélést a kerékpáros kesztyű alatt a maximális hőszigetelés érdekében.",
+                "ro": "Vremea senină de iarnă oferă o vizibilitate excelentă peste baraj; folosiți mănuși de polar sub cele de ciclism pentru o izolare termică maximă.",
+                "en": "The clear winter weather provides excellent long-distance views over the reservoir; use fleece liners under your cycling gloves for maximum insulation."
+              }
+            },
+            {
+              "name": {
+                "de": "Thatë-See",
+                "hu": "Thatë-tó",
+                "ro": "Lacul Thatë",
+                "en": "Lake Thatë"
+              },
+              "tip_5lang": {
+                "de": "Der Name 'Trockener See' passt gut zur spröden Winterlandschaft; schützen Sie Ihr Gesicht mit einer Sturmhaube oder Fettcreme vor der beißenden Kälte bei Abfahrten.",
+                "hu": "A 'Száraz-tó' név jól illik a kopár téli tájhoz; védje arcát balaclava maszkkal vagy zsíros krémmel a lejtőkön tapasztalható metsző hideg ellen.",
+                "ro": "Numele de 'Lacul Secat' se potrivește bine peisajului sterp de iarnă; protejați-vă fața cu o mască sau cremă grasă împotriva gerului tăios pe coborâri.",
+                "en": "The name 'Dry Lake' fits the barren winter landscape well; protect your face with a balaclava or rich cream against the biting cold on the descents."
+              }
+            },
+            {
+              "name": {
+                "de": "Kashtës-See",
+                "hu": "Kashtës-tó",
+                "ro": "Lacul Kashtës",
+                "en": "Lake Kashtës"
+              },
+              "tip_5lang": {
+                "de": "Das Schilf am Ufer ist von Raureif überzogen und bietet ein tolles Fotomotiv; halten Sie die Pausen kurz, damit Ihre Muskulatur nicht zu stark auskühlt.",
+                "hu": "A part menti nádast zúzmara borítja, ami remek fotótéma; tartsa röviden a pihenőket, hogy az izomzata ne hűljön ki túlságosan a hidegben.",
+                "ro": "Stufărișul de pe mal este acoperit de chiciură, fiind un subiect foto excelent; păstrați pauzele scurte pentru ca musculatura să nu se răcească prea tare.",
+                "en": "The reeds along the shore are covered in hoarfrost, making for a great photo; keep breaks short so your muscles don't cool down too much in the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Godes-See",
+                "hu": "Godes-tó",
+                "ro": "Lacul Godes",
+                "en": "Lake Godes"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann auf gefrorenen Flächen stark blenden; tragen Sie eine Sportbrille mit UV-Schutz, um auch im Winter Ihre Augen zu entlasten.",
+                "hu": "Az alacsonyan járó nap erősen vakíthat a fagyott felületeken; viseljen UV-szűrős sportnapszemüveget, hogy télen is kímélje a szemét a tükröződéstől.",
+                "ro": "Soarele jos poate fi orbitor pe suprafețele înghețate; purtați ochelari de sport cu protecție UV pentru a vă proteja ochii de reflexiile puternice.",
+                "en": "The low sun can be quite blinding on frozen surfaces; wear sports sunglasses with UV protection to ease eye strain from winter reflections."
+              }
+            },
+            {
+              "name": {
+                "de": "Komnecit-See",
+                "hu": "Komnecit-tó",
+                "ro": "Lacul Komnecit",
+                "en": "Lake Komnecit"
+              },
+              "tip_5lang": {
+                "de": "Das Ufer wirkt im Winterlicht fast unwirklich still; achten Sie auf Akkulaufzeiten Ihres Handys oder GPS-Geräts, da Kälte die Batterien extrem schnell leert.",
+                "hu": "A tópart a téli fényben szinte hihetetlenül csendes; figyeljen a telefon vagy GPS akkumulátorára, mert a hidegben rendkívül gyorsan lemerülnek.",
+                "ro": "Malul lacului pare ireal de liniștit în lumina iernii; aveți grijă la bateria telefonului sau a GPS-ului, deoarece gerul o descarcă extrem de rapid.",
+                "en": "The lakeshore feels incredibly quiet in the winter light; keep an eye on your phone or GPS battery, as cold temperatures drain them very quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kashaj-See",
+                "hu": "Kashaj-tó",
+                "ro": "Lacul Kashaj",
+                "en": "Lake Kashaj"
+              },
+              "tip_5lang": {
+                "de": "Die Tour endet unter dem beeindruckenden Winterhimmel; schalten Sie frühzeitig Ihre Beleuchtung ein, da die Sichtbarkeit im Wald bereits ab 16 Uhr abnimmt.",
+                "hu": "A túra az impozáns téli égbolt alatt ér véget; kapcsolja be időben a világítást, mert az erdei szakaszokon már 16 órától jelentősen romlik a láthatóság.",
+                "ro": "Turul se încheie sub cerul impresionant de iarnă; aprindeți luminile din timp, deoarece vizibilitatea în zonele împădurite scade mult după ora 16.",
+                "en": "The tour ends under an impressive winter sky; turn on your lights early, as visibility in wooded sections drops significantly after 4 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje a festői autózást a Shalësit-víztározónál, ahogy a reggeli köd felszáll. A Cërrikből induló rövid út gyorsan elmeríti Önt a régió buja, nyugodt természeti szépségében.\nAhogy a nap melegszik, navigáljon a vidéki utakon a Xibrakës- és Gjatë-tavakhoz. Ezek a kanyargós vizek kiváló déli megállóhelyeket biztosítanak egy rövid sétához és az ebédhez.\nDélután fedezze fel a központi Dumrea-tavakat, mint a Strehës, a Thatë és a Kashtës. Minden megálló egy újabb ökológiai arcát mutatja meg ennek a tavakban gazdag régiónak.\nZárja az autós túrát a Godes- és Miloshit-tavaknál. A tágas víz felett lilára és narancssárgára színeződő égbolt látványa mélyen pihentető estét nyújt a visszautazás előtt.",
         "ro": "Începeți plimbarea pitorească la Rezervorul Shalësit pe măsură ce ceața matinală se ridică. Scurta distanță din Cërrik vă cufundă rapid în frumusețea naturală luxuriantă a regiunii.\nPe măsură ce ziua se încălzește, navigați pe drumurile rurale spre lacurile Xibrakës și Gjatë. Aceste ape oferă puncte excelente de oprire la prânz pentru o scurtă plimbare și prânz.\nÎn timpul după-amiezii, explorați lacurile centrale Dumrea, precum Strehës, Thatë și Kashtës. Fiecare oprire dezvăluie o altă fațetă ecologică a acestei regiuni bogate în lacuri.\nÎncheiați excursia la lacurile Godes și Miloshit. Privind cum cerul devine purpuriu și portocaliu peste apa întinsă creează o seară profund relaxantă înainte de a conduce înapoi.",
         "en": "Start your scenic drive at the Shalësit Reservoir as the morning mist lifts. The short drive from Cërrik quickly immerses you in the region's lush, tranquil natural beauty.\nAs the day warms up, navigate the rural roads to the Xibrakës and Gjatë lakes. These winding water bodies provide excellent midday stopping points for a quick stroll and a packed lunch.\nDuring the afternoon, explore the central Dumrea lakes like Strehës, Thatë, and Kashtës. Each stop reveals a different ecological facet of this remarkably lake-rich Albanian region.\nWrap up your road trip at the Godes and Miloshit lakes. Watching the sky turn purple and orange over the expansive water makes for a deeply relaxing evening before driving back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Start im Auto am Shalësit-Stausee, während der Regen gegen die Scheiben trommelt. Mittags erkunden wir Xibrakës, Gjatë und Strehës; die Ausblicke aus dem trockenen Innenraum sind entspannend. Nachmittags folgen wir der Route zu den Seen Thatë, Kashtës und Godes. Die Tour endet am Miloshit-See, während die Dämmerung in den wolkenverhangenen Hügeln einsetzt.",
+            "hu": "Kényelmes kezdés az autóban a Shalësit-víztározónál, miközben az eső a szélvédőn kopog. Délben Xibrakës, Gjatë és Strehës tavait fedezzük fel; a kilátás a száraz utastérből igazán pihentető. Délután Thatë, Kashtës és Godes tavait érintjük a kijelölt úton. A túra a Miloshit-tónál ér véget, miközben a szürkület leszáll a felhőkbe burkolózó dombok közé.",
+            "ro": "Un început confortabil în mașină la Shalësit, în timp ce ploaia bate în parbriz. La prânz explorăm lacurile Xibrakës, Gjată și Strehăs; priveliștile din interiorul uscat al mașinii sunt relaxante. După-amiaza urmăm ruta spre lacurile Thată, Kashtăs și Godes. Turul se încheie la Lacul Miloshit, în timp ce amurgul se lasă peste dealurile acoperite de nori.",
+            "en": "A cozy start in the car at Shalësit Reservoir while rain drums against the windshield. At noon we explore Xibrakës, Gjatë, and Strehës; the views from the dry interior are truly relaxing. In the afternoon we follow the route to Lakes Thatë, Kashtës, and Godes. The tour ends at Lake Miloshit as twilight settles over the cloud-shrouded hills."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Shalësit-Stausee",
+                "hu": "Shalësit-víztározó",
+                "ro": "Rezervorul Shalësit",
+                "en": "Shalësit Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz kann bei starkem Regen sehr schlammig sein; parken Sie das Fahrzeug auf festem Untergrund, um ein Festfahren im weichen Lehmboden zu vermeiden.",
+                "hu": "A parkolóhely heves esőzéskor sárossá válhat; parkoljon szilárdabb talajon, hogy elkerülje a sárba ragadást a puha agyagos talajon.",
+                "ro": "Parcarea poate deveni foarte noroioasă pe ploaie torențială; parcați pe un teren solid pentru a evita împotmolirea în solul argilos moale.",
+                "en": "The parking area can become very muddy during heavy rain; park on firm ground to avoid getting stuck in the soft, clay-like soil."
+              }
+            },
+            {
+              "name": {
+                "de": "Xibrakës-Stausee",
+                "hu": "Xibrakës-víztározó",
+                "ro": "Rezervorul Xibrakës",
+                "en": "Xibrakës Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die Wassermassen des Stausees wirken im Regen imposant; nutzen Sie die beheizten Außenspiegel, um trotz der hohen Luftfeuchtigkeit eine klare Sicht nach hinten zu haben.",
+                "hu": "A víztározó víztömege impozáns látvány esőben; használja a fűtött visszapillantó tükröket, hogy a magas páratartalom ellenére is jól lásson hátra.",
+                "ro": "Masa de apă a barajului este impresionantă pe ploaie; folosiți oglinzile încălzite pentru a avea o vizibilitate clară în spate în ciuda umidității mari.",
+                "en": "The massive volume of water in the reservoir is impressive in the rain; use heated mirrors to maintain a clear rear view despite the high humidity."
+              }
+            },
+            {
+              "name": {
+                "de": "Gjatë-See",
+                "hu": "Gjatë-tó",
+                "ro": "Lacul Gjatë",
+                "en": "Lake Gjatë"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum See bietet tolle Panoramen durch die Seitenscheiben; halten Sie die Klimaanlage auf Entfrostungs-Modus, damit die Fenster im Auto nicht beschlagen.",
+                "hu": "A tóhoz vezető út remek panorámát kínál az ablakokon keresztül; tartsa a légkondicionálót páramentesítő módban, hogy a szélvédők ne párásodjanak el.",
+                "ro": "Drumul spre lac oferă panorame frumoase prin geamuri; țineți aerul condiționat pe modul dezaburire pentru ca geamurile să nu se aburească în interior.",
+                "en": "The road to the lake offers great panoramas through the windows; keep the air conditioning on defrost mode to prevent the windows from fogging up."
+              }
+            },
+            {
+              "name": {
+                "de": "Strehës-See",
+                "hu": "Strehës-tó",
+                "ro": "Lacul Strehës",
+                "en": "Lake Strehës"
+              },
+              "tip_5lang": {
+                "de": "Der Name 'Strehës' bedeutet 'Schutz', was bei Regen sehr passend ist; bleiben Sie bei kurzen Schauern im Auto und genießen Sie die Aussicht bei Musik.",
+                "hu": "A 'Strehës' név jelentése 'menedék', ami esőben igen találó; maradjon az autóban a záporok alatt, és élvezze a kilátást egy kis zene kíséretében.",
+                "ro": "Numele 'Strehăs' înseamnă 'adăpost', foarte potrivit pe ploaie; rămâneți în mașină în timpul averselor și admirați priveliștea ascultând muzică.",
+                "en": "The name 'Strehës' means 'shelter', which is very fitting in the rain; stay in the car during downpours and enjoy the view with some music."
+              }
+            },
+            {
+              "name": {
+                "de": "Thatë-See",
+                "hu": "Thatë-tó",
+                "ro": "Lacul Thatë",
+                "en": "Lake Thatë"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen bilden sich auf dem See interessante Wellenmuster; achten Sie beim Ein- und Aussteigen auf tiefe Pfützen direkt neben den Fahrzeugtüren.",
+                "hu": "Esőben érdekes hullámminták alakulnak ki a tó felszínén; vigyázzon a kiszállásnál a mély tócsákra közvetlenül az autó ajtaja mellett.",
+                "ro": "Pe ploaie se formează modele de valuri interesante pe suprafața lacului; atenție la bălțile adânci de lângă portieră atunci când coborâți din mașină.",
+                "en": "Interesting wave patterns form on the lake surface in the rain; watch out for deep puddles right next to the car doors when getting in or out."
+              }
+            },
+            {
+              "name": {
+                "de": "Kashtës-See",
+                "hu": "Kashtës-tó",
+                "ro": "Lacul Kashtës",
+                "en": "Lake Kashtës"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann durch den Regen ausgewaschen sein; fahren Sie langsam über unbefestigte Abschnitte, um Unterbodenschäden durch versteckte Steine zu vermeiden.",
+                "hu": "Az eső kimoshatja a bekötőutat; haladjon lassan a burkolatlan szakaszokon, hogy elkerülje a sár alatti kövek okozta sérüléseket az autó alján.",
+                "ro": "Ploaia poate spăla drumul de acces; conduceți încet pe secțiunile neasfaltate pentru a evita deteriorarea șasiului din cauza pietrelor ascunse.",
+                "en": "The access road may be washed out by the rain; drive slowly on unpaved sections to avoid damage to the undercarriage from hidden stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Godes-See",
+                "hu": "Godes-tó",
+                "ro": "Lacul Godes",
+                "en": "Lake Godes"
+              },
+              "tip_5lang": {
+                "de": "Der See wirkt bei grauem Himmel sehr melancholisch und ruhig; stellen Sie sicher, dass Ihre Scheibenwischerblätter für eine gute Sicht einwandfrei funktionieren.",
+                "hu": "A tó szürke égbolt mellett nagyon melankolikus és nyugodt; ellenőrizze az ablaktörlő lapátokat, hogy a folyamatos esőben is jó legyen a kilátás.",
+                "ro": "Lacul pare melancolic și liniștit sub cerul gri; asigurați-vă că lamelele ștergătoarelor funcționează perfect pentru o vizibilitate optimă pe ploaie.",
+                "en": "The lake looks very melancholic and calm under grey skies; ensure your wiper blades are in good condition for clear visibility in the continuous rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Miloshit-See",
+                "hu": "Miloshit-tó",
+                "ro": "Lacul Miloshit",
+                "en": "Lake Miloshit"
+              },
+              "tip_5lang": {
+                "de": "Zum Abschluss bietet sich ein letzter Blick auf die nebligen Hügel; prüfen Sie vor der Heimfahrt die Beleuchtung, da Regen die Sichtbarkeit im Verkehr mindert.",
+                "hu": "Befejezésként vessen egy utolsó pillantást a ködös dombokra; ellenőrizze a világítást a hazaút előtt, mert az eső rontja a láthatóságot a forgalomban.",
+                "ro": "La final, aruncați o ultimă privire spre dealurile cețoase; verificați luminile înainte de plecare, deoarece ploaia scade vizibilitatea în trafic.",
+                "en": "To finish, take one last look at the misty hills; check your lights before the drive home, as rain reduces visibility for other drivers in traffic."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer, kalter Wintermorgen im Auto am Shalësit-Stausee. Mittags führt uns der Weg nach Xibrakës, Gjatë und Strehës; die Sitzheizung macht die Fahrt durch die frostige Landschaft besonders angenehm. Nachmittags besuchen wir Thatë, Kashtës und Godes im schwindenden Tageslicht. Die Tour endet bei Miloshit, während die ersten Sterne über den dunklen Bergen erscheinen.",
+            "hu": "Tiszta, hideg téli reggel az autóban a Shalësit-víztározónál. Délben az út Xibrakës, Gjatë és Strehës tavaihoz vezet; az ülésfűtés kényelmessé teszi az utazást a fagyos tájon. Délután Thatë, Kashtës és Godes tavait látogatjuk meg a fogyatkozó nappali fényben. A túra a Miloshit-tónál ér véget, miközben az első csillagok feltűnnek a sötét hegyek felett.",
+            "ro": "O dimineață de iarnă senină și rece în mașină la Shalësit. La prânz, drumul ne duce la lacurile Xibrakës, Gjată și Strehăs; scaunele încălzite fac călătoria prin peisajul înghețat foarte plăcută. După-amiaza vizităm Thată, Kashtăs și Godes în lumina slabă a zilei. Turul se încheie la Miloshit, în timp ce primele stele apar deasupra munților întunecați.",
+            "en": "A clear, cold winter morning in the car at Shalësit Reservoir. At noon, the road leads to Xibrakës, Gjatë, and Strehës; heated seats make the drive through the frosty landscape very comfortable. In the afternoon we visit Thatë, Kashtës, and Godes in the fading daylight. The tour ends at Miloshit as the first stars appear over the dark mountains."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Shalësit-Stausee",
+                "hu": "Shalësit-víztározó",
+                "ro": "Rezervorul Shalësit",
+                "en": "Shalësit Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Eiskristalle glitzern am Ufer des Stausees; lassen Sie den Motor nicht unnötig im Stand laufen, sondern nutzen Sie die Standheizung, falls vorhanden, zum Vorwärmen.",
+                "hu": "Jégkristályok csillognak a víztározó partján; ne járassa feleslegesen a motort álló helyzetben, használja az autó fűtését a belső tér melegen tartására.",
+                "ro": "Cristale de gheață sclipesc pe malul barajului; nu lăsați motorul să meargă inutil la ralanti, folosiți încălzirea auxiliară dacă mașina este dotată cu ea.",
+                "en": "Ice crystals glisten on the reservoir shore; don't leave the engine idling unnecessarily, use the car's heating system to keep the interior warm during stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Xibrakës-Stausee",
+                "hu": "Xibrakës-víztározó",
+                "ro": "Rezervorul Xibrakës",
+                "en": "Xibrakës Reservoir"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht über das Wasser ist im Winter phänomenal; achten Sie bei Temperaturen um den Gefrierpunkt auf mögliche Glätte auf der schattigen Zufahrtsstraße.",
+                "hu": "A kilátás a víz felett télen fenomenális; figyeljen az esetleges jegesedésre az árnyékos bekötőúton, amikor a hőmérséklet fagypont környékén mozog.",
+                "ro": "Vizibilitatea peste apă este fenomenală iarna; atenție la posibilele porțiuni cu polei pe drumul de acces umbrit când temperatura este aproape de îngheț.",
+                "en": "The long-distance view over the water is phenomenal in winter; watch out for potential icy patches on shaded access roads when temperatures are near freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Gjatë-See",
+                "hu": "Gjatë-tó",
+                "ro": "Lacul Gjatë",
+                "en": "Lake Gjatë"
+              },
+              "tip_5lang": {
+                "de": "Die karge Landschaft wirkt vom Auto aus wie ein Kunstwerk; prüfen Sie den Frostschutz in der Scheibenwaschanlage, damit das Wischwasser nicht auf dem Glas gefriert.",
+                "hu": "A kopár táj az autóból nézve olyan, mint egy műalkotás; ellenőrizze a fagyállót a szélvédőmosóban, hogy a folyadék ne fagyjon rá az üvegre menet közben.",
+                "ro": "Peisajul sterp pare o operă de artă văzut din mașină; verificați antigelul din lichidul de parbriz pentru ca acesta să nu înghețe pe geam în timpul mersului.",
+                "en": "The barren landscape looks like a work of art from the car; check the antifreeze in your windshield washer fluid so it doesn't freeze on the glass while driving."
+              }
+            },
+            {
+              "name": {
+                "de": "Strehës-See",
+                "hu": "Strehës-tó",
+                "ro": "Lacul Strehës",
+                "en": "Lake Strehës"
+              },
+              "tip_5lang": {
+                "de": "Der zugefrorene Rand des Sees bietet ein schönes Motiv; tragen Sie eine Sonnenbrille, um die Reflexion der tiefstehenden Sonne auf der Eisfläche abzumildern.",
+                "hu": "A tó befagyott széle szép látványt nyújt; viseljen napszemüveget, hogy tompítsa az alacsonyan járó nap fényének tükröződését a jéggel borított felületekről.",
+                "ro": "Marginea înghețată a lacului oferă o imagine frumoasă; purtați ochelari de soare pentru a diminua reflexia soarelui jos pe suprafețele acoperite de gheață.",
+                "en": "The frozen edge of the lake offers a beautiful view; wear sunglasses to soften the glare of the low sun reflecting off the ice-covered surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Thatë-See",
+                "hu": "Thatë-tó",
+                "ro": "Lacul Thatë",
+                "en": "Lake Thatë"
+              },
+              "tip_5lang": {
+                "de": "Die Stille der winterlichen Natur ist hier tief spürbar; achten Sie auf den Reifendruck, da dieser bei sinkenden Temperaturen im Winter oft etwas abfällt.",
+                "hu": "A téli természet csendje itt mélyen átérezhető; ügyeljen a gumiabroncsok nyomására, mivel a hidegben a levegő sűrűbbé válik és a nyomás csökkenhet.",
+                "ro": "Liniștea naturii de iarnă se simte profund aici; verificați presiunea în anvelope, deoarece aceasta scade adesea odată cu scăderea temperaturii iarna.",
+                "en": "The silence of the winter nature is deeply felt here; check your tire pressure, as it often drops slightly when temperatures fall during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Kashtës-See",
+                "hu": "Kashtës-tó",
+                "ro": "Lacul Kashtës",
+                "en": "Lake Kashtës"
+              },
+              "tip_5lang": {
+                "de": "Raureif bedeckt die Gräser rund um den See; bleiben Sie im Fahrzeug, wenn der Wind zu stark auffrischt, und genießen Sie die klare Sicht durch die Scheiben.",
+                "hu": "Zúzmara borítja a füvet a tó körül; maradjon a járműben, ha a szél felerősödik, és élvezze a tiszta kilátást a szélvédőn keresztül a meleg utastérből.",
+                "ro": "Chiciura acoperă iarba din jurul lacului; rămâneți în mașină dacă vântul se întețește și bucurați-vă de vederea clară prin parbriz din interiorul cald.",
+                "en": "Hoarfrost covers the grass around the lake; stay in the vehicle if the wind picks up and enjoy the clear view through the windows from the warm cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Godes-See",
+                "hu": "Godes-tó",
+                "ro": "Lacul Godes",
+                "en": "Lake Godes"
+              },
+              "tip_5lang": {
+                "de": "Das Ufer wirkt im Winterlicht fast monochrom; schalten Sie bei der Weiterfahrt das Abblendlicht ein, da die Sichtverhältnisse im Winter oft diffus sind.",
+                "hu": "A tópart a téli fényben szinte monokróm hatású; kapcsolja be a tompított fényszórót a továbbhaladáshoz, mert télen a látási viszonyok gyakran csalókák.",
+                "ro": "Malul lacului pare aproape monocrom în lumina iernii; aprindeți faza scurtă pentru restul drumului, deoarece vizibilitatea este adesea difuză iarna.",
+                "en": "The lakeshore looks almost monochromatic in the winter light; turn on your low-beam headlights for the drive, as winter lighting conditions are often flat."
+              }
+            },
+            {
+              "name": {
+                "de": "Miloshit-See",
+                "hu": "Miloshit-tó",
+                "ro": "Lacul Miloshit",
+                "en": "Lake Miloshit"
+              },
+              "tip_5lang": {
+                "de": "Die Tour endet im sanften Licht der blauen Stunde; achten Sie auf den Batteriezustand Ihres Autos, da Kälte die Startleistung im Winter stark beansprucht.",
+                "hu": "A túra a kék óra lágy fényeiben ér véget; ügyeljen az autó akkumulátorának állapotára, mivel a hideg megterheli azt az indítások során a téli napokon.",
+                "ro": "Turul se încheie în lumina blândă a 'orei albastre'; atenție la starea bateriei mașinii, deoarece gerul o solicită mult la pornire în zilele de iarnă.",
+                "en": "The tour ends in the soft light of the blue hour; keep an eye on your car's battery condition, as cold weather puts extra strain on it during winter starts."
+              }
+            }
+          ]
+        }
       }
     }
   }

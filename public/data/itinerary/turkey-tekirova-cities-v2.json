@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt az ókori amfiteátrumban, magába szívva a békés tengerparti hangulatot. Délben tegyen egy pihentető sétát a nyitott koncertkertben és a helyi állatkertben. A délután a Kleopátra-strand érintetlen homokjára hívogat egy frissítő úszásra. Zárja a napot a lenyűgöző ókori romok felfedezésével, miközben a nap lassan lebukik a Földközi-tenger horizontján.",
         "ro": "Începeți dimineața explorând vechiul amfiteatru, bucurându-vă de atmosfera senină a coastei. La amiază, faceți o plimbare relaxantă prin zona grădinii deschise și parcul zoologic local. După-amiaza vă invită pe nisipurile imaculate ale plajei Kleopatra pentru o baie răcoritoare. Încheiați ziua urcând spre ruinele antice fascinante, în timp ce soarele apune peste Marea Mediterană.",
         "en": "Start your morning exploring the ancient Amphitheatre, soaking in the serene coastal atmosphere. By midday, make your way to the open garden area and the local zoo for a relaxing stroll. The afternoon invites you to the pristine sands of Kleopatra Beach for a refreshing swim. Conclude your day hiking up to the fascinating ancient ruins as the sun begins to set over the Mediterranean."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Spaziergang am Amphitheater, achten Sie auf rutschige Steine. Erkunden Sie mittags den Konzertbereich und Tierpark mit einem robusten Regenschirm. Nachmittags bietet der Kleopatra-Strand dramatische Meeresblicke im Nebel. Beenden Sie den Tag in den antiken Ruinen; wasserdichte Schuhe sind für schlammige Wege unerlässlich.",
+            "hu": "Kezdd az esős sétát az ókori Amfiteátrumban, vigyázva a csúszós köveken. Délben fedezd fel a koncertkertet és az Állatkertet egy erős esernyővel. Kora délután a Kleopátra-strand párás, drámai tengerparti látványt nyújt. Zárd a napot az ősi romoknál; mindenképp vízálló cipőt viselj a sáros ösvények miatt.",
+            "ro": "Începe plimbarea ploioasă la Amfiteatru, pășind cu grijă pe pietrele alunecoase. La prânz, explorează grădina de concerte și parcul zoologic cu o umbrelă rezistentă. După-amiaza, plaja Kleopatra oferă o vedere dramatică, acoperită de ceață. Încheie ziua la ruinele antice; poartă bocanci impermeabili, deoarece potecile devin noroioase.",
+            "en": "Start your rainy walk at the ancient Amphitheatre, carefully stepping on wet stones. By midday, enjoy the open concert area and Zoo Park with a sturdy umbrella. Spend the afternoon exploring the misty Kleopatra Beach, enjoying the dramatic sea views. Conclude your day navigating the ancient ruins; wear waterproof boots as the paths get quite muddy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Steinreihen im dramatischen Regen, aber treten Sie vorsichtig auf, da die nassen historischen Stufen extrem rutschig sind.",
+                "hu": "Csodáld meg az ősi kőlépcsőket az eső drámai fényében, de lépj nagyon óvatosan, mert a történelmi kövek nedvesen rendkívül csúszósak.",
+                "ro": "Admiră treptele antice din piatră în ploaia dramatică, dar pășește cu mare atenție deoarece pietrele istorice sunt foarte alunecoase la umezeală.",
+                "en": "Admire the ancient stone tiers in the dramatic rain, but step carefully as the historic viewing steps are exceptionally slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Konzertbereich im Freien",
+                "hu": "Szabadtéri koncertkert",
+                "ro": "Grădina deschisă pentru concerte",
+                "en": "Open garden concert area"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den stimmungsvollen Garten und das Prasseln des Regens; ein guter Regenmantel und Schirm halten Sie beim Erkunden trocken.",
+                "hu": "Élvezd a kert hangulatos atmoszféráját a leveleken kopogó esővel; hozz magaddal egy jó esőkabátot, hogy száraz maradj séta közben.",
+                "ro": "Bucură-te de atmosfera grădinii ascultând ploaia pe frunze; adu o pelerină bună de ploaie pentru a rămâne uscat în timpul vizitei printre alei.",
+                "en": "Experience the atmospheric garden listening to the rain fall on the leaves; bring a good raincoat and umbrella to stay dry while exploring."
+              }
+            },
+            {
+              "name": {
+                "de": "Tierpark",
+                "hu": "Állatkert",
+                "ro": "Parcul Zoologic",
+                "en": "Zoo Park"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Tiere, die unter Bäumen Schutz suchen; nutzen Sie einen breiten Regenschirm für die schlammigen Pfade und nasse Natur.",
+                "hu": "Figyeld meg a fák alatt eső elől menedéket kereső állatokat; használj esernyőt, hogy kényelmesen közlekedj a természetes saras ösvényeken.",
+                "ro": "Observă animalele care se adăpostesc de ploaie sub copacii deși; folosește o umbrelă mare pentru a te deplasa confortabil pe aleile noroioase.",
+                "en": "Observe the animals sheltering from the heavy rain under the trees; use a large umbrella to navigate the muddy natural pathways comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra-Strand",
+                "hu": "Kleopátra-strand",
+                "ro": "Plaja Kleopatra",
+                "en": "Kleopatra Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen flotten Spaziergang am nassen Ufer und genießen Sie die Wellen; tragen Sie zwingend wind- und wasserfeste Kleidung.",
+                "hu": "Tegyél egy frissítő sétát a nedves parton, élvezve a morajló hullámokat; feltétlenül viselj szélálló és teljesen vízálló ruházatot a part mentén.",
+                "ro": "Fă o plimbare revigorantă pe țărmul umed și bucură-te de valurile puternice; asigură-te că porți îmbrăcăminte impermeabilă și rezistentă la vânt.",
+                "en": "Take a brisk walk along the moody, wet shoreline and enjoy the crashing waves; make sure to wear reliable wind-resistant waterproof clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Ruinen",
+                "hu": "Ókori romok",
+                "ro": "Ruine antice",
+                "en": "Ruins"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die faszinierenden historischen Überreste inmitten von Regenpfützen; robuste, wasserdichte Stiefel sind hier unerlässlich.",
+                "hu": "Fedezd fel a lenyűgöző történelmi maradványokat a friss esőpocsolyák között; a masszív, magas szárú vízálló bakancs itt elengedhetetlen.",
+                "ro": "Explorează vestigiile istorice fascinante înconjurate de bălți proaspete de ploaie; bocancii impermeabili rezistenți sunt absolut esențiali aici.",
+                "en": "Explore the fascinating historical remnants surrounded by fresh rain puddles; sturdy waterproof hiking boots are absolutely essential here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren winterlichen Spaziergang am Amphitheater in warmen Schichten. Mittags schlendern Sie durch den ruhigen Konzertbereich und Tierpark an der frischen Luft. Verbringen Sie den frühen Nachmittag am friedlichen Kleopatra-Strand. Beenden Sie die Tour bei den antiken Ruinen vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
+            "hu": "Kezdd a csípős téli sétát az Amfiteátrumban, meleg rétegekbe öltözve. Délben sétálj a csendes koncertkertben és az Állatkertben a friss levegőn. Kora délután látogass el a békés Kleopátra-strandra, amely tökéletes egy frissítő téli sétához. Zárd a napot az ősi romoknál a korai, 17:00 órás sötétedés és lehűlés előtt.",
+            "ro": "Începe plimbarea de iarnă la Amfiteatru, îmbrăcat în straturi călduroase. La prânz, plimbă-te prin grădina de concerte liniștită și parcul zoologic. Petrece începutul după-amiezii pe plaja pașnică Kleopatra, perfectă pentru o plimbare revigorantă. Finalizează la ruinele antice înainte ca apusul timpuriu de la ora 17:00 să aducă un frig pătrunzător.",
+            "en": "Kick off your crisp winter walk at the Amphitheatre wrapped in warm layers. At midday, stroll through the quiet concert area and the Zoo Park, enjoying the cool, fresh air. Spend the early afternoon at the peaceful Kleopatra Beach, perfect for a brisk winter walk. Finish at the ancient ruins before the early 17:00 sunset brings a deep chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Stehen Sie im Zentrum des Amphitheaters, um die Größe zu erfassen; die Wintermorgenluft ist frisch, ein dicker warmer Schal wird stark empfohlen.",
+                "hu": "Állj a hatalmas amfiteátrum közepére, és csodáld meg a méreteit; a téli reggeli levegő csípős, így egy vastag, meleg sál erősen ajánlott.",
+                "ro": "Stai în centrul mărețului amfiteatru pentru a-i aprecia dimensiunea; aerul dimineții de iarnă este rece, deci o eșarfă groasă este recomandată.",
+                "en": "Stand in the center of the grand amphitheatre to appreciate its scale; the winter morning air is crisp, so a thick warm scarf is highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Konzertbereich im Freien",
+                "hu": "Szabadtéri koncertkert",
+                "ro": "Grădina deschisă pentru concerte",
+                "en": "Open garden concert area"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie über die leeren Wintergartenwege für einen friedlichen Rückzug; tragen Sie eine Windjacke gegen die eiskalte Brise auf dem Platz.",
+                "hu": "Sétálj az üres téli kerti ösvényeken a békés nyugalomért; viselj vastag szélkabátot, mivel a nyitott tér kevés menedéket nyújt a hideg szél ellen.",
+                "ro": "Plimbă-te pe aleile goale ale grădinii de iarnă pentru o retragere pașnică; poartă o jachetă de vânt, spațiul deschis oferind puțin adăpost iarna.",
+                "en": "Wander the empty winter garden paths for a peaceful retreat; wear a windbreaker as the open outdoor space offers little shelter from the cold breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Tierpark",
+                "hu": "Állatkert",
+                "ro": "Parcul Zoologic",
+                "en": "Zoo Park"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die Winterbewohner des Parks in ruhiger Atmosphäre; halten Sie Ihre Hände beim Fotografieren der Tiere mit dicken Handschuhen warm.",
+                "hu": "Nézd meg a park téli lakóit csendes atmoszférában; tartsd melegen a kezeidet vastag kesztyűvel, miközben fotózod az állatokat a hidegben.",
+                "ro": "Vezi rezidenții de iarnă ai parcului într-o atmosferă liniștită; păstrează-ți mâinile calde cu mănuși groase în timp ce fotografiezi animalele.",
+                "en": "See the park's winter residents in a quiet atmosphere; keep your hands nicely warm with thick gloves while taking photos of the animals outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra-Strand",
+                "hu": "Kleopátra-strand",
+                "ro": "Plaja Kleopatra",
+                "en": "Kleopatra Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die ruhigen, leeren Winterstrände; die Meeresbrise ist beißend, daher ist eine dicke Isolierjacke für diesen Uferspaziergang ein Muss.",
+                "hu": "Élvezd a békés, tömeg nélküli téli tengerparti kilátást; a tengeri szél csípős, így a vastag bélelt kabát kötelező ehhez a parti sétához.",
+                "ro": "Bucură-te de vederea senină a plajei de iarnă, fără aglomerație; briza mării este aspră, deci o geacă groasă izolată este absolut obligatorie aici.",
+                "en": "Enjoy the serene, crowd-free winter beach views; the ocean breeze is biting, so a thick insulated jacket is an absolute must for this shoreline walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Ruinen",
+                "hu": "Ókori romok",
+                "ro": "Ruine antice",
+                "en": "Ruins"
+              },
+              "tip_5lang": {
+                "de": "Wandern Sie im weichen Winterlicht durch die stillen antiken Steine; planen Sie, vor 17:00 Uhr zu gehen, da die Temperaturen stark fallen.",
+                "hu": "Barangolj a csendes ősi kövek között a lágy téli fényben; tervezz úgy, hogy 17:00 előtt távozol, mert naplemente után a hőmérséklet hirtelen esik.",
+                "ro": "Rătăcește printre pietrele antice tăcute în lumina blândă a iernii; planifică să pleci înainte de 17:00, deoarece temperaturile scad brusc după apus.",
+                "en": "Wander through the silent ancient stones in the soft winter light; plan to leave before 17:00 as temperatures drop sharply right after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpáros túráját a központi amfiteátrumtól, mielőtt a Rixy szórakoztató komplexum felé venné az irányt. Délben tekerjen az ókori romokhoz, majd élvezze a Takhtaly hegyi kilátást. Délután guruljon le a nyitott kertbe, hogy magába szívja a kultúrát. Zárja aktív napját a lenyűgöző Kleopátra-strand hűsítő vizének partján pihenve.",
         "ro": "Începeți turul cu bicicleta la amfiteatrul central înainte de a vă îndrepta spre complexul Rixy. La amiază, pedalați spre ruinele antice, iar apoi admirați peisajele montane dramatice de la punctul de belvedere Takhtaly. După-amiaza, coborâți spre grădina deschisă. Încheiați-vă ziua activă relaxându-vă lângă apele liniștitoare ale uimitoarei plaje Kleopatra.",
         "en": "Kick off your cycling tour at the central Amphitheatre before heading to the Rixy entertainment complex. As midday approaches, pedal towards the ancient ruins to uncover local history. After taking in the dramatic mountain views from the Takhtaly viewpoint, cruise down to the open garden. End your active day relaxing by the calming waters of the stunning Kleopatra Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre nasse Radtour am Amphitheater, bremsen Sie sanft auf nassen Straßen. Vormittags fahren Sie in heller Regenkleidung zum Rixy-Amphitheater und den Ruinen. Nachmittags geht es zum Tahtali-Aussichtspunkt und Konzertbereich; achten Sie auf rutschige Schlammstellen. Beenden Sie die Fahrt am Kleopatra-Strand und trocknen Sie Ihre Fahrradkette danach.",
+            "hu": "Kezdd a nedves biciklitúrát az Amfiteátrumnál, óvatosan fékezve a vizes utakon. Késő délelőtt tekerj a Rixy Amfiteátrumhoz és a romokhoz élénk színű esőkabátban a láthatóságért. Kora délután a Tahtali kilátó és a koncertkert következik; vigyázz a csúszós sárfoltokra. Zárd a saras túrát a Kleopátra-strandnál, utána szárítsd meg a láncot.",
+            "ro": "Începe turul umed pe bicicletă la Amfiteatru, frânând ușor pe drumurile ude. Târziu dimineața, pedalează spre Amfiteatrul Rixy și Ruine purtând echipament de ploaie luminos pentru vizibilitate. După-amiaza ajungi la punctul de belvedere Tahtali și grădina de concerte; atenție la noroiul alunecos. Încheie la plaja Kleopatra, asigurându-te că usuci lanțul bicicletei.",
+            "en": "Begin your wet biking tour at the Amphitheatre, braking gently on wet roads. By late morning, ride to Rixy Amphitheatre and the Ruins wearing bright rain gear for visibility. Early afternoon takes you to the Tahtali viewpoint and the concert area; watch for slick muddy patches. Conclude your rainy ride at Kleopatra Beach, making sure to dry your bike chain afterwards."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause an der antiken Struktur; stellen Sie das Fahrrad unter einen Baum und gehen Sie vorsichtig auf den nassen Aussichtspunkten.",
+                "hu": "Tarts egy gyors pihenőt az ősi építménynél; hagyd a biciklit egy fa alatt, és lépkedj óvatosan a nedves, rendkívül csúszós kilátópontokon.",
+                "ro": "Fă o pauză rapidă pentru a vedea structura antică; lasă bicicleta asigurată sub un copac și pășește cu grijă pe zonele umede și alunecoase.",
+                "en": "Take a quick break to see the ancient structure; leave your bike secured under a tree and step carefully on the wet, slippery viewing areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Rixy-Amphitheater",
+                "hu": "Rixy Amfiteátrum",
+                "ro": "Amfiteatrul Rixy",
+                "en": "Rixy Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich diesen modernen Veranstaltungsort an; die gepflasterten Wege sind super zum Radfahren, vermeiden Sie jedoch scharfe Kurven im Regen.",
+                "hu": "Nézd meg ezt a modern előadóteret; a környék burkolt útjai kiválóak kerékpározáshoz, de kerüld a hirtelen kanyarodást az esős aszfalton.",
+                "ro": "Vezi această locație modernă de spectacole; aleile pavate din jur sunt excelente pentru ciclism, dar evită complet virajele bruște pe ploaie.",
+                "en": "Check out this modern performance venue; the paved paths around it are excellent for cycling, but avoid making sharp turns on the wet surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Ruinen",
+                "hu": "Ókori romok",
+                "ro": "Ruine antice",
+                "en": "Ruins"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie an den historischen Steinen vorbei; die Wege werden schlammig und rutschig, senken Sie den Reifendruck leicht für besseren Halt.",
+                "hu": "Tekerj el a lenyűgöző történelmi kövek mellett; az ösvények itt sárosak és csúszósak, ezért engedj ki egy kis guminyomást a jobb tapadásért.",
+                "ro": "Pedalează pe lângă pietrele istorice captivante; traseele devin noroioase și alunecoase, deci scade ușor presiunea în anvelope pentru o mai bună aderență.",
+                "en": "Cycle past the captivating historical stones; the dirt trails here become muddy and slick, so lower your tire pressure slightly for better grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Takhtaly",
+                "hu": "Takhtaly kilátópont",
+                "ro": "Punct de belvedere Takhtaly",
+                "en": "View of Tahtali and the road"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für das dramatische, wolkenbedeckte Bergpanorama an; schließen Sie Ihren Regenmantel gut, da der Wind den Regen stark antreibt.",
+                "hu": "Állj meg a drámai, felhőbe burkolózó hegyi panorámáért; húzd be az esőkabátod cipzárját, mert a szél erősen az arcodba fújja az esőt.",
+                "ro": "Oprește-te pentru panorama montană dramatică, acoperită de nori; ține pelerina de ploaie închisă bine, deoarece vântul bate ploaia puternic aici.",
+                "en": "Pause for the dramatic, cloud-covered mountain panorama; keep your raincoat zipped tight as the wind here drives the rain quite hard against you."
+              }
+            },
+            {
+              "name": {
+                "de": "Konzertbereich im Freien",
+                "hu": "Szabadtéri koncertkert",
+                "ro": "Grădina deschisă pentru concerte",
+                "en": "Open garden concert area"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch die ruhigen Grünflächen und genießen Sie den frischen Regenduft; nutzen Sie Schutzbleche, um keinen Schlamm aufzuwirbeln.",
+                "hu": "Tekerj át a csendes zöld területeken, élvezve a friss esőillatot; mindenképp használj sárvédőt a biciklin, hogy elkerüld a hátad összecsapását.",
+                "ro": "Pedalează prin spațiile verzi liniștite bucurându-te de mirosul de ploaie; folosește aripile bicicletei pentru a evita stropirea cu noroi pe spate.",
+                "en": "Ride through the quiet green spaces enjoying the fresh rain scent; use your bike fenders to avoid splashing heavy mud directly onto your back."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra-Strand",
+                "hu": "Kleopátra-strand",
+                "ro": "Plaja Kleopatra",
+                "en": "Kleopatra Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Fahrt mit dem Klang brechender Wellen; decken Sie Ihren Sattel wasserdicht ab, während Sie am stürmischen Wasser spazieren.",
+                "hu": "Zárd a vizes túrát a morajló hullámok hangjával; fedd le a nyerget egy vízálló táskával, amíg a viharos, hűvös víz közelében sétálsz.",
+                "ro": "Încheie cursa umedă cu sunetul valurilor izbindu-se de țărm; acoperă șaua bicicletei cu o husă impermeabilă în timp ce te plimbi lângă apa furtunoasă.",
+                "en": "Finish your wet ride with the sound of crashing waves; cover your bike seat with a waterproof bag while you walk near the stormy, moody water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihre Winterradtour am Amphitheater mit Thermokleidung und winddichten Handschuhen. Mittags wärmt Sie die Fahrt zum Rixy-Amphitheater und den Ruinen in der kühlen Luft. Nach dem Mittagessen bieten der Tahtali-Aussichtspunkt und der Garten klare Ausblicke. Beenden Sie die Reise am Kleopatra-Strand vor 16:30 Uhr, um nicht nach 17:00 Uhr im Dunkeln zu fahren.",
+            "hu": "Kezdd a téli kerékpározást az Amfiteátrumnál thermo rétegekben és szélálló kesztyűben. Délben a Rixy Amfiteátrumhoz és a romokhoz tekerés melegen tart a csípős levegőn. Ebéd után a Tahtali kilátó és a kert tiszta, éles kilátást nyújt. Fejezd be a túrát a Kleopátra-strandnál 16:30-ra, hogy elkerüld a sötétben tekerést a 17:00 órás naplemente után.",
+            "ro": "Începe ciclul de iarnă la Amfiteatru purtând straturi termice și mănuși anti-vânt. La prânz, pedalatul către Amfiteatrul Rixy și ruine te menține cald în aerul rece. După prânz, punctul Tahtali și grădina oferă priveliști clare, izbitoare. Terminți călătoria la plaja Kleopatra până la 16:30 pentru a evita pedalatul pe întuneric după apusul de la 17:00.",
+            "en": "Start your crisp winter cycle at the Amphitheatre wearing thermal layers and windproof gloves. By midday, pedaling to Rixy Amphitheatre and the ruins keeps you warm in the chilly air. After lunch, the Tahtali viewpoint and garden area offer clear, striking views. End your journey at Kleopatra Beach by 16:30 to avoid cycling in the dark after the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die frostgekühlten antiken Steine früh am Tag; eine Thermo-Radmütze unter dem Helm ist wichtig, um die Körperwärme zu halten.",
+                "hu": "Nézd meg a dércsípte ősi köveket a nap elején; egy thermo kerékpáros sapka a sisakod alatt elengedhetetlen a testhőmérséklet megtartásához.",
+                "ro": "Vezi pietrele antice atinse de brumă dimineața devreme; o cască termică de ciclism purtată sub casca ta este crucială pentru a reține căldura corpului.",
+                "en": "See the frost-kissed ancient stones early in the day; a proper thermal cycling cap underneath your helmet is crucial for retaining body heat here."
+              }
+            },
+            {
+              "name": {
+                "de": "Rixy-Amphitheater",
+                "hu": "Rixy Amfiteátrum",
+                "ro": "Amfiteatrul Rixy",
+                "en": "Rixy Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die moderne Architektur im klaren Winterlicht; treten Sie stetig weiter, um Ihre Körpertemperatur im kalten Gegenwind zu halten.",
+                "hu": "Csodáld meg a modern építészetet a tiszta téli fényben; tekerj egyenletesen, hogy fenntartsd a testhőmérsékletedet a csípős, hideg ellenszélben.",
+                "ro": "Admiră arhitectura modernă în lumina clară de iarnă; continuă să pedalezi constant pentru a-ți menține temperatura corpului în vântul rece din față.",
+                "en": "Admire the modern architecture in the crisp, clear winter light; keep pedaling steadily to maintain your core body temperature in the cold headwind."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Ruinen",
+                "hu": "Ókori romok",
+                "ro": "Ruine antice",
+                "en": "Ruins"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie ruhig zwischen den historischen Überresten; die Wintersonne steht tief, tragen Sie eine polarisierte Sonnenbrille gegen die Blendung.",
+                "hu": "Tekerj csendben a kiterjedt történelmi maradványok között; a téli nap alacsonyan jár, ezért viselj polarizált napszemüveget a vakító fény ellen.",
+                "ro": "Pedalează liniștit printre numeroasele vestigii istorice; soarele de iarnă este jos, deci poartă ochelari de soare polarizați pentru a evita strălucirea.",
+                "en": "Cycle quietly among the extensive historical remains; the winter sun sits very low, so definitely wear polarized sunglasses to avoid the harsh glare."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Takhtaly",
+                "hu": "Takhtaly kilátópont",
+                "ro": "Punct de belvedere Takhtaly",
+                "en": "View of Tahtali and the road"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den klaren Blick auf den schneebedeckten Berg; ziehen Sie eine Windjacke an, bevor Sie ein Foto machen, da es hier extrem kühl wird.",
+                "hu": "Élvezd a hófödte hegy tiszta, akadálytalan látványát; vegyél fel egy szélkabátot fotózás előtt, mert ezen a magasan fekvő ponton nagyon hideg van.",
+                "ro": "Bucură-te de vederea clară și neobstrucționată a muntelui înzăpezit; adaugă o jachetă de vânt înainte de a face o fotografie, deoarece se face foarte frig.",
+                "en": "Enjoy the crisp, unobstructed view of the snow-capped mountain; layer up with a sturdy windbreaker before taking a photo, as it gets extremely chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Konzertbereich im Freien",
+                "hu": "Szabadtéri koncertkert",
+                "ro": "Grădina deschisă pentru concerte",
+                "en": "Open garden concert area"
+              },
+              "tip_5lang": {
+                "de": "Gleiten Sie durch die kahlen Winterbäume und genießen Sie die Stille; die Wege können versteckte Eisflächen haben, kurven Sie daher sehr vorsichtig.",
+                "hu": "Suhanj át a csupasz téli fák között, élvezve a mély csendet; a burkolt utakon rejtett jégfoltok lehetnek, ezért nagyon finoman és lassan kanyarodj.",
+                "ro": "Alunecă prin copacii goi de iarnă bucurându-te de tăcerea profundă; aleile pavate pot avea petice de gheață ascunse, deci ia curbele foarte ușor.",
+                "en": "Glide through the bare winter trees enjoying the profound silence; the paved paths can have hidden dangerous ice patches, so take corners very gently."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra-Strand",
+                "hu": "Kleopátra-strand",
+                "ro": "Plaja Kleopatra",
+                "en": "Kleopatra Beach"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Radtag an der einsamen Küste; schalten Sie Ihr Fahrradlicht früh ein, da die Sicht um 17:00 Uhr bei Sonnenuntergang schnell abnimmt.",
+                "hu": "Zárd a kerékpáros napot a kietlen, gyönyörű partvonalon; kapcsold fel a biciklilámpákat korán, mivel a látási viszonyok 17:00 felé rendkívül gyorsan romlanak.",
+                "ro": "Încheie ziua de ciclism pe țărmul pustiu și frumos; aprinde luminile bicicletei devreme, deoarece vizibilitatea scade rapid odată cu apropierea apusului de la 17:00.",
+                "en": "End your cycling day by the desolate, beautiful shoreline; turn your bike lights on early since visibility drops incredibly fast as the 17:00 sunset approaches."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdje autós túráját a helyi amfiteátrumok hármasának felfedezésével, megcsodálva az ókori és a modern üdülőközponti színpadokat egyaránt. Délben barangoljon a történelmi romoknál, majd hajtson fel a Takhtaly kilátóhoz a fenséges délutáni panorámáért. Egy rövid kulturális kerti megálló után zárja a napot a gyönyörű Kleopátra-strand finom homokján lazítva.",
         "ro": "Începeți turul cu mașina explorând triada de amfiteatre locale, admirând atât rădăcinile antice, cât și scenele moderne. La amiază, îndreptați-vă spre ruinele istorice, apoi conduceți până la punctul de belvedere Takhtaly pentru peisaje superbe. După o oprire culturală la grădina deschisă, încheiați-vă plimbarea relaxându-vă pe malurile superbe ale plajei Kleopatra.",
         "en": "Begin your driving tour by exploring the triad of local amphitheatres, admiring both ancient roots and modern resort stages. Midday takes you off the beaten path to wander the historic ruins. Drive up to the Takhtaly viewpoint for sweeping afternoon vistas, followed by a cultural stop at the open garden. Finish your scenic drive unwinding on the beautiful shores of Kleopatra Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie im Morgenregen vorsichtig zum historischen Amphitheater und Amfiteatr. Vormittags bieten das Rixy-Amphitheater und die Ruinen tolle Fotospots aus dem trockenen Auto. Die Nachmittagsfahrt am Tahtali-Aussichtspunkt und dem Garten vorbei erfordert zusätzlichen Bremsweg. Enden Sie am Kleopatra-Strand mit einem schnellen Foto, bevor Sie ins trockene Auto zurückkehren.",
+            "hu": "Vezess óvatosan a reggeli esőben a történelmi Amfiteátrumhoz és Amfiteatr-hoz. Késő délelőtt a Rixy Amfiteátrum és a romok kiváló fotózási pontokat kínálnak egyenesen a meleg, száraz autóból. A délutáni vezetés a Tahtali kilátó és a kert felé extra fékutat igényel. A Kleopátra-strandnál egy gyors fotó erejéig ugorj ki a száraz utastérből.",
+            "ro": "Condu cu grijă prin ploaia dimineții spre istoricele Amfiteatru și Amfiteatr. Târziu dimineața, Amfiteatrul Rixy și ruinele oferă locuri excelente de poze direct din mașina caldă. Condusul după-amiezii pe lângă punctul Tahtali și grădină necesită o distanță de frânare mai mare. Încheie la plaja Kleopatra, ieșind scurt pentru o poză înainte de a te întoarce la uscat.",
+            "en": "Drive carefully through the morning rain to the historic Amphitheatre and Amfiteatr. By late morning, Rixy Amphitheatre and the Ruins offer excellent photo spots directly from your warm, dry car. The afternoon drive past Tahtali viewpoint and the garden area requires extra braking distance. End at Kleopatra Beach, dashing out for a quick photo before retreating to the dry cabin."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die antike Architektur durch verregnete Fenster; bringen Sie einen großen Schirm mit, wenn Sie die extrem nassen Stufen begehen wollen.",
+                "hu": "Csodáld meg az ősi építészetet az esőverte ablakokon át; vigyél egy hatalmas esernyőt, ha a nagyon csúszós szabadtéri lépcsőkön szeretnél sétálni.",
+                "ro": "Minunează-te de arhitectura antică prin ferestrele bătute de ploaie; adu o umbrelă mare dacă intenționezi să mergi pe treptele exterioare foarte alunecoase.",
+                "en": "Marvel at the ancient architecture through the rain-streaked windows; bring an oversized umbrella if you plan to carefully walk the slick outdoor steps."
+              }
+            },
+            {
+              "name": {
+                "de": "Amfiteatr",
+                "hu": "Amfiteatr",
+                "ro": "Amfiteatr",
+                "en": "Amfiteatr"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie diese zweite historische Stätte bequem vom Fahrersitz aus; lassen Sie Ihre Scheibenwischer auf höchster Stufe für beste Sicht auf die Ruinen.",
+                "hu": "Fedezd fel ezt a második történelmi helyszínt egyenesen a vezetőülés kényelméből; hagyd az ablaktörlőket magas fokozaton a legjobb kinti látási viszonyokért.",
+                "ro": "Descoperă acest al doilea sit istoric direct din confortul scaunului șoferului; ține ștergătoarele de parbriz la viteză mare pentru cea mai bună vizibilitate spre ruine.",
+                "en": "Discover this secondary historical site right from the comfort of the driver's seat; keep your windshield wipers on high for the absolute best visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Rixy-Amphitheater",
+                "hu": "Rixy Amfiteátrum",
+                "ro": "Amfiteatrul Rixy",
+                "en": "Rixy Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den beeindruckenden modernen Ort; auf dem Parkplatz können sich tiefe Pfützen bilden, parken Sie vorsichtig und nutzen Sie Gummistiefel.",
+                "hu": "Figyeld meg az impozáns modern helyszínt; a parkolóban mély tócsák gyűlhetnek össze, ezért parkolj óvatosan, és csak vízálló bakancsban szállj ki.",
+                "ro": "Observă locația modernă impresionantă; în parcare se pot acumula bălți adânci, deci parchează cu grijă și coboară purtând încălțăminte total impermeabilă.",
+                "en": "Observe the impressive modern venue; the parking area can easily accumulate deep water puddles, so park carefully and step out wearing waterproof boots."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Ruinen",
+                "hu": "Ókori romok",
+                "ro": "Ruine antice",
+                "en": "Ruins"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam an den antiken Steinen vorbei; kurbeln Sie das Fenster für ein Foto herunter, aber lassen Sie die Heizung laufen, um trocken zu bleiben.",
+                "hu": "Vezess lassan a lenyűgöző ősi kövek mellett; húzd le az ablakot egy gyors fotó erejéig, de hagyd folyamatosan bekapcsolva a fűtést, hogy teljesen száraz maradj.",
+                "ro": "Condu încet pe lângă pietrele antice fascinante; coboară geamul pentru o fotografie rapidă, dar ține încălzirea pornită pentru a rămâne complet uscat și cald.",
+                "en": "Drive slowly past the fascinating ancient stones; roll down the window for a quick photo but keep the car heater running on high to stay completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Takhtaly",
+                "hu": "Takhtaly kilátópont",
+                "ro": "Punct de belvedere Takhtaly",
+                "en": "View of Tahtali and the road"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sicher an, um die Regenwolken um den Berg zu sehen; stellen Sie sicher, dass Ihre Warnblinkanlage wegen der sehr schlechten Sicht eingeschaltet ist.",
+                "hu": "Húzódj le biztonságosan, hogy lásd a hegyet ölelő drámai esőfelhőket; győződj meg róla, hogy az elakadásjelződ be van kapcsolva a viharos, rossz látási viszonyok miatt.",
+                "ro": "Trage pe dreapta în siguranță pentru a vedea norii de ploaie îmbrățișând muntele; asigură-te că luminile de avarie sunt aprinse din cauza vizibilității extrem de scăzute.",
+                "en": "Pull over safely to see the dramatic heavy rain clouds hugging the mountain; make sure your hazard lights are fully on due to extreme low visibility conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Konzertbereich im Freien",
+                "hu": "Szabadtéri koncertkert",
+                "ro": "Grădina deschisă pentru concerte",
+                "en": "Open garden concert area"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das üppige, nasse Grün vom Straßenrand aus; nutzen Sie die Klimaanlage des Autos, um beschlagene Fenster schnell und effizient zu klären.",
+                "hu": "Nézd meg a buja, nedves növényzetet kényelmesen az út széléről; használd az autó klímáját az ablakok gyors páramentesítésére a festői esős vezetés folytatása előtt.",
+                "ro": "Privește verdeața luxuriantă și umedă direct de la marginea drumului; folosește AC-ul mașinii pentru a dezaburi rapid și eficient geamurile înainte de a continua.",
+                "en": "Look at the lush, wet greenery from the roadside; use the car's AC to defog your inner windows rapidly before continuing your scenic, rainy coastal drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra-Strand",
+                "hu": "Kleopátra-strand",
+                "ro": "Plaja Kleopatra",
+                "en": "Kleopatra Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in Ufernähe und beobachten Sie die Sturmwellen aus dem warmen Fahrzeug; packen Sie eine heiße Thermoskanne für die dramatische Aussicht ein.",
+                "hu": "Parkolj a part közelében, és nézd a viharos hullámok becsapódását a meleg járműből; vigyél magaddal egy forró kávés termoszt a hangulatos tengeri kilátáshoz.",
+                "ro": "Parchează aproape de țărm și privește valurile de furtună din interiorul vehiculului tău cald; adu un termos fierbinte pentru a savura confortabil priveliștea melancolică.",
+                "en": "Park near the shore and watch the storm waves crash onto the beach from inside your warm vehicle; pack a hot thermos to perfectly enjoy the moody ocean view."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihr Winter-Roadtrip beginnt am majestätischen Amphitheater und Amfiteatr in der frischen Morgenluft. Mittags fahren Sie bequem mit Heizung zum Rixy-Amphitheater und den Ruinen. Die Nachmittagsfahrt bietet kristallklare Winterblicke auf den Berg Tahtali. Beenden Sie den Tag bis 16:30 Uhr am Kleopatra-Strand, um vor dem dunklen Sonnenuntergang um 17:00 Uhr zurückzukehren.",
+            "hu": "A téli autós utazás a fenséges Amfiteátrumnál és Amfiteatr-nál kezdődik a csípős reggeli levegőn. Délben kényelmesen vezess a Rixy Amfiteátrumhoz és a romokhoz bekapcsolt fűtéssel. A délutáni vezetés kristálytiszta téli kilátást nyújt a Tahtali hegyre. Fejezd be a napot a Kleopátra-strandnál 16:30-ra, biztosítva a biztonságos visszatérést a 17:00 órás sötétedés előtt.",
+            "ro": "Excursia de iarnă cu mașina începe la mărețele Amfiteatru și Amfiteatr în aerul rece al dimineții. La prânz, condu confortabil spre Amfiteatrul Rixy și Ruine cu încălzirea pornită. Condusul după-amiezii oferă vederi de iarnă clare spre muntele Tahtali. Încheie ziua la plaja Kleopatra până la 16:30, asigurând o întoarcere sigură înainte de apusul întunecat de la 17:00.",
+            "en": "Your winter road trip starts at the majestic Amphitheatre and Amfiteatr in the crisp morning air. By noon, drive comfortably to Rixy Amphitheatre and the Ruins, keeping the heater on. The afternoon drive provides crystal clear winter views of Tahtali mountain. Wrap up the day at Kleopatra Beach by 16:30, ensuring you return safely before the dark 17:00 winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Amphitheater",
+                "hu": "Amfiteátrum",
+                "ro": "Amfiteatru",
+                "en": "Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz aus, um den Frost an der antiken Struktur zu bewundern; starten Sie Ihr Auto vorher fern, um schnell in eine wunderbar warme Kabine zurückzukehren.",
+                "hu": "Szállj ki röviden megcsodálni a deret az ősi építményen; indítsd be az autót távirányítóval előre, hogy gyorsan visszatérhess a csodásan meleg utastérbe.",
+                "ro": "Ieși scurt pentru a admira bruma înghețată pe structura antică; pornește mașina de la distanță în prealabil pentru a te întoarce rapid într-o cabină minunat de caldă.",
+                "en": "Step out briefly to admire the frost on the ancient structure; remote-start your car beforehand so you can quickly return to a wonderfully warm heated cabin."
+              }
+            },
+            {
+              "name": {
+                "de": "Amfiteatr",
+                "hu": "Amfiteatr",
+                "ro": "Amfiteatr",
+                "en": "Amfiteatr"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie dieses zweite Theater, ohne die Wärme Ihres Fahrzeugs zu verlassen; Wintermorgen können hier sehr kalt sein, tragen Sie sicherheitshalber dicke Schichten.",
+                "hu": "Nézd meg ezt a második színházat anélkül, hogy elhagynád a jármű melegét; a téli reggelek itt rendkívül hidegek lehetnek, ezért biztos, ami biztos, öltözz vastag rétegekbe.",
+                "ro": "Vezi acest al doilea teatru fără a părăsi căldura vehiculului tău; diminețile de iarnă pot fi excepțional de reci aici, așa că îmbracă-te în straturi groase pentru siguranță.",
+                "en": "See this second theatre without leaving the absolute warmth of your vehicle; winter mornings can be exceptionally cold here, so dress in thick layers just in case."
+              }
+            },
+            {
+              "name": {
+                "de": "Rixy-Amphitheater",
+                "hu": "Rixy Amfiteátrum",
+                "ro": "Amfiteatrul Rixy",
+                "en": "Rixy Amphitheatre"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den modernen Veranstaltungsort in der Wintersonne; das Parken in der Nebensaison ist einfach, Sie können fast direkt zum besten Aussichtspunkt vorfahren.",
+                "hu": "Értékeld a modern helyszínt a csípős téli napsütésben; szezonon kívül roppant könnyű a parkolás, így szinte egyenesen a legjobb kilátóponthoz hajthatsz az autóval.",
+                "ro": "Apreciază locația modernă iluminată în soarele aspru de iarnă; parcarea este ușoară în extrasezon, permițându-ți să tragi cu mașina chiar la cel mai bun punct de belvedere.",
+                "en": "Appreciate the modern venue illuminated in the crisp winter sun; parking is very easy in the off-season, letting you pull your car right up to the very best viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Antike Ruinen",
+                "hu": "Ókori romok",
+                "ro": "Ruine antice",
+                "en": "Ruins"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antike Stätte im Wissen, dass ein beheizter Sitz im Auto auf Sie wartet; das Winterlicht wirft tolle dramatische Schatten für Fotos.",
+                "hu": "Fedezd fel a kiterjedt ókori helyszínt tudva, hogy egy fűtött ülés vár rád az autóban; az éles téli fény elképesztő árnyékokat hoz létre a kövek között a fotózáshoz.",
+                "ro": "Explorează situl antic întins știind că te așteaptă un scaun încălzit în mașină; lumina tăioasă de iarnă creează umbre dramatice uimitoare pentru fotografii printre pietre.",
+                "en": "Explore the sprawling ancient site knowing a heated car seat waits for you; the sharp winter light creates amazing dramatic shadows for photography right among the stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Takhtaly",
+                "hu": "Takhtaly kilátópont",
+                "ro": "Punct de belvedere Takhtaly",
+                "en": "View of Tahtali and the road"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie die schneebedeckten Gipfel vom Halteplatz aus; hüten Sie sich in den frostigen Wintermonaten vor extrem gefährlichem Glatteis auf den Bergstraßen.",
+                "hu": "Fotózd le a lenyűgöző hófödte csúcsokat a kijelölt pihenőből; óvakodj a rendkívül veszélyes tükörjégtől a kanyargós hegyi utakon a fagyos, hideg téli hónapokban.",
+                "ro": "Captează vârfurile uimitoare acoperite de zăpadă din zona de oprire; ferește-te de gheața neagră extrem de periculoasă pe drumurile montane în lunile geroase de iarnă.",
+                "en": "Capture the stunning snow-capped peaks from the designated pull-off; beware of exceptionally dangerous black ice on the mountain roads during the freezing winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Konzertbereich im Freien",
+                "hu": "Szabadtéri koncertkert",
+                "ro": "Grădina deschisă pentru concerte",
+                "en": "Open garden concert area"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch die ruhige, ruhende Landschaft und genießen Sie die Winteratmosphäre; prüfen Sie oft den Reifendruck, da extrem kalte Luft ihn stark senken kann.",
+                "hu": "Vezess át a csendes, alvó tájon, élvezve a békés téli atmoszférát; rendszeresen ellenőrizd a guminyomást, mivel a dermesztően hideg levegő gyorsan csökkentheti azt.",
+                "ro": "Condu prin peisajul liniștit, adormit, bucurându-te de atmosfera pașnică de iarnă; verifică presiunea în anvelope, deoarece aerul foarte rece le poate dezumfla rapid.",
+                "en": "Drive through the quiet, dormant landscape enjoying the peaceful winter atmosphere; thoroughly check your tire pressure as the freezing cold air can deflate them rapidly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kleopatra-Strand",
+                "hu": "Kleopátra-strand",
+                "ro": "Plaja Kleopatra",
+                "en": "Kleopatra Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf den Ozean für den Wintersonnenuntergang; planen Sie die Rückfahrt streng vor 17:00 Uhr, wenn die Küste sofort in völlige Dunkelheit gehüllt wird.",
+                "hu": "Parkolj az óceán felé nézve, hogy lásd a gyönyörű téli naplementét; tervezd a visszautat a szállodába szigorúan 17:00 előtt, amikor teljes, mély sötétség borul a partra.",
+                "ro": "Parchează cu fața spre ocean pentru a privi frumosul apus de iarnă; planifică-ți drumul de întoarcere strict înainte de 17:00, când întunericul complet și brusc cade peste coastă.",
+                "en": "Park facing the ocean to watch the beautiful winter sunset; absolutely plan your drive back to your hotel before 17:00 when complete, sudden darkness falls over the coast."
+              }
+            }
+          ]
+        }
       }
     }
   }

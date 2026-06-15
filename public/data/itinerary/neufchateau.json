@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Neufchâteau kulturális központjában, a történelmi színháznál, majd látogasson el a békés Saint-Christophe templomba. A déli órákban a Mazarine Művészeti Galéria várja a helyi alkotók remekműveivel. Délután csodálja meg a Saint-Nicolas templom ősi köveit, elmélyedve a páratlan építészeti nagyságban. Az este közeledtével zárja utazását a lenyűgöző Meurger kilátónál, élvezve az eléje táruló csodás panorámát.",
         "ro": "Începeți dimineața explorând inima culturală a orașului Neufchâteau la teatrul istoric, înainte de a păși în liniștita Biserică Saint-Christophe. La amiază vizitați Galeria de Artă Mazarine, o comoară a creativității locale. După-amiaza, admirați pietrele antice ale Bisericii Saint-Nicolas și lăsați-vă impresionați de grandoarea arhitecturală. Spre seară, încheiați călătoria la uimitorul Punct de Vedere Meurger.",
         "en": "Start your morning exploring the cultural heart of Neufchâteau at the historic theater, before stepping into the peaceful Saint-Christophe Church. Midday brings you to the Mazarine Art Gallery, a treasure trove of local creativity and history. In the afternoon, marvel at the ancient stones of Saint-Nicolas Church, soaking in the architectural grandeur. As evening nears, end your journey at the stunning Point de Vue du Meurger, watching the sunset paint the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen trocken im Stadttheater. Mittags bieten die historische Kirche Saint-Christophe und die Kunstgalerie Mazarine perfekten Schutz vor den Schauern. Am Nachmittag besuchen Sie die Kirche Saint-Nicolas und wagen sich zum Aussichtspunkt Meurger, falls der Regen nachlässt. Lassen Sie den Abend gemütlich in einem Café ausklingen.",
+            "hu": "Kezdje az esős reggelt szárazon a városi színházban. Délben a történelmi Saint-Christophe templom és a közeli Mazarine galéria nyújt menedéket a záporok elől. Délután fedezze fel a Saint-Nicolas templomot, majd csökkenő esőben a Meurger kilátót. Az estét töltse egy hangulatos kávézóban, hogy átmelegedjen a vizes séta után.",
+            "ro": "Începeți dimineața ploioasă la adăpost în teatrul municipal. La prânz, biserica istorică Saint-Christophe și galeria Mazarine oferă un refugiu perfect. După-amiaza, vizitați biserica Saint-Nicolas, apoi punctul de belvedere Meurger dacă ploaia se mai domolește. Petreceți seara relaxându-vă într-o cafenea primitoare pentru a vă încălzi.",
+            "en": "Start your morning at the municipal theater to escape the rain. By noon, explore the historic Saint-Christophe Church and the nearby art gallery, keeping dry. In the afternoon, visit Saint-Nicolas Church before heading to the Meurger viewpoint if the rain eases up. Spend your evening cozying up in a local café to warm up after your wet walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stadttheater Neufchâteau",
+                "hu": "Neufchâteau Városi Színház",
+                "ro": "Teatrul Municipal Neufchâteau",
+                "en": "Neufchâteau Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schöne klassische Architektur des Theaters; das große überdachte Foyer ist der perfekte trockene Zufluchtsort vor dem starken Morgenregen.",
+                "hu": "Csodálja meg a színház gyönyörű klasszikus építészetét; a nagy, fedett előcsarnok tökéletes, száraz menedék a kora reggeli, heves esőzések elől.",
+                "ro": "Admirați frumoasa arhitectură clasică a teatrului municipal; foaierul său mare acoperit este un sanctuar uscat perfect pentru a scăpa de ploaia matinală.",
+                "en": "Admire the beautiful classic architecture of the municipal theater; its large covered foyer is the perfect dry sanctuary to escape the heavy morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe Templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Saint-Christophe Church"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die beeindruckenden Buntglasfenster und Steinsäulen dieser historischen Kirche, die einen friedlichen, trockenen Rückzugsort bieten.",
+                "hu": "Fedezze fel a történelmi templom lenyűgöző ólomüveg ablakait és kőoszlopait, amelyek békés és teljesen száraz menedéket nyújtanak a nedves időben.",
+                "ro": "Explorați vitraliile uimitoare și stâlpii de piatră din această biserică istorică, oferind un refugiu pașnic și complet uscat de vremea umedă.",
+                "en": "Explore the stunning stained glass windows and stone pillars inside this historic church, offering a peaceful, completely dry retreat from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstgalerie Mazarine",
+                "hu": "Mazarine Művészeti Galéria",
+                "ro": "Galeria de Artă Mazarine",
+                "en": "Galerie d’art de la Mazarine"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie viel Zeit mit den lokalen Kunstausstellungen in dieser wunderbar warmen Galerie, während draußen der Regen ununterbrochen fällt.",
+                "hu": "Töltsön elegendő időt a helyi művészeti kiállítások megcsodálásával ebben a meleg galériában, miközben kint folyamatosan szakad az eső.",
+                "ro": "Petreceți suficient timp apreciind expozițiile de artă locală în această galerie minunat de caldă, în timp ce ploaia continuă să cadă afară.",
+                "en": "Spend plenty of time appreciating local art exhibits in this wonderfully warm, indoor gallery while the rain continues to fall persistently outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas Templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie im Kirchenschiff Schutz, um die Gewölbedecken zu bestaunen, aber schütteln Sie unbedingt Ihren nassen Regenschirm vor dem Eintreten ab.",
+                "hu": "Húzódjon be a főhajóba a lenyűgöző boltívek és fafaragások közé, de ne felejtse el alaposan lerázni a vizes esernyőjét belépés előtt.",
+                "ro": "Adăpostiți-vă în naos pentru a admira tavanele boltite și sculpturile, dar nu uitați să scuturați umbrela udă înainte de a intra.",
+                "en": "Take shelter inside the nave to marvel at the vaulted ceilings and intricate woodwork, but remember to shake off your wet umbrella before entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Meurger",
+                "hu": "Meurger Kilátó",
+                "ro": "Punctul de Vedere Meurger",
+                "en": "Point de Vue du Meurger"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatische, neblige Aussicht auf das Tal, aber tragen Sie wasserfeste, feste Schuhe, da die Wanderwege extrem rutschig sind.",
+                "hu": "Élvezze a völgy drámai, ködös látványát fentről, de feltétlenül viseljen masszív, vízálló cipőt, mivel a sétautak rendkívül csúszósak lehetnek.",
+                "ro": "Bucurați-vă de priveliștile dramatice și cețoase ale văii, dar asigurați-vă că purtați cizme impermeabile, deoarece potecile vor fi foarte alunecoase.",
+                "en": "Enjoy the dramatic, misty views of the valley from the top, but be sure to wear sturdy, waterproof boots as the walking paths will be very slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren klaren Wintermorgen im warmen Stadttheater. Mittags bieten die schöne Kirche Saint-Christophe und die gemütliche Mazarine-Galerie eine Pause von der Kälte. Erkunden Sie nachmittags die Kirche Saint-Nicolas und gehen Sie pünktlich zum frühen Sonnenuntergang um 17:00 Uhr zum Aussichtspunkt Meurger. Beenden Sie den kalten Tag mit einem Heißgetränk.",
+            "hu": "Kezdje a csípős téli reggelt a színház melegében. Délben a gyönyörű Saint-Christophe templom és a hangulatos Mazarine galéria kínál pihenőt a hideg elől. Délután fedezze fel a Saint-Nicolas templomot, majd érjen a Meurger kilátóhoz a korai, 17:00 órás naplemente idejére. Zárja a fagyos napot egy forró itallal a városban.",
+            "ro": "Începeți dimineața de iarnă la teatrul municipal, bucurându-vă de interiorul său cald. La prânz, biserica Saint-Christophe și galeria Mazarine oferă un răgaz excelent de la frig. După-amiaza, explorați biserica Saint-Nicolas și mergeți la punctul de belvedere Meurger pentru apusul timpuriu de la 17:00. Încheiați ziua geroasă cu o băutură caldă.",
+            "en": "Start your crisp winter morning at the theater, enjoying its warm interior. At noon, the beautiful Saint-Christophe Church and the cozy Mazarine Art Gallery offer excellent respites from the cold. In the afternoon, explore Saint-Nicolas Church before heading to the Meurger Viewpoint just in time for the early 17:00 sunset. Conclude your chilly day with a hot drink in town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stadttheater Neufchâteau",
+                "hu": "Neufchâteau Városi Színház",
+                "ro": "Teatrul Municipal Neufchâteau",
+                "en": "Neufchâteau Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das reiche kulturelle Ambiente im großen Saal des Theaters, ein ideal beheizter und einladender Ort für den Start am Wintermorgen.",
+                "hu": "Szívja magába a színház nagytermének kulturális hangulatát, amely tökéletes, jól fűtött helyszín a téli felfedezőút kényelmes indításához.",
+                "ro": "Admirați ambianța culturală bogată a sălii mari a teatrului, un loc perfect încălzit și primitor pentru a începe explorarea dimineții de iarnă.",
+                "en": "Take in the rich cultural ambiance of the theater's grand hall, a perfectly heated and welcoming spot to comfortably start your winter morning exploration."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe Templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Saint-Christophe Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die faszinierenden historischen Artefakte der Steinkirche, aber ziehen Sie sich warm an, da alte Gebäude ziemlich kühl sein können.",
+                "hu": "Csodálja meg a kőtemplom történelmi leleteit, de mindenképp öltözzön melegen, mert a régi középkori épületekben meglehetősen hűvös lehet.",
+                "ro": "Admirați artefactele istorice fascinante din această biserică uimitoare, dar îmbrăcați-vă gros, deoarece clădirile medievale pot fi destul de reci.",
+                "en": "Admire the fascinating historical artifacts inside this stunning stone church, though dress warmly as historical medieval buildings can be quite chilly."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstgalerie Mazarine",
+                "hu": "Mazarine Művészeti Galéria",
+                "ro": "Galeria de Artă Mazarine",
+                "en": "Galerie d’art de la Mazarine"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich gründlich auf, während Sie sich in dieser sehr gut beheizten, einladenden Galerie faszinierende zeitgenössische Kunstwerke ansehen.",
+                "hu": "Melegedjen fel alaposan, miközben ráérősen böngészi a lenyűgöző kortárs műalkotásokat ebben a kivételesen jól fűtött, hívogató kiállítótérben.",
+                "ro": "Încălziți-vă bine în timp ce vă acordați timp pentru a admira opere de artă contemporană în acest spațiu de galerie primitor și excepțional de bine încălzit.",
+                "en": "Warm up thoroughly while taking your time browsing fascinating contemporary artworks in this exceptionally well-heated, inviting gallery space."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas Templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie das ruhige Kirchenschiff dieser historischen Kirche und genießen Sie die friedliche Winteratmosphäre sicher abgeschirmt vor dem beißenden Wind.",
+                "hu": "Fedezze fel e történelmi templom békés főhajóját és oltárait, élvezve a nyugodt téli atmoszférát a metsző hideg széltől teljesen védve.",
+                "ro": "Explorați naosul liniștit al acestei biserici istorice, bucurându-vă de atmosfera pașnică de iarnă în siguranță, departe de vântul tăios.",
+                "en": "Explore the serene nave and beautiful altars of this historic church, enjoying the peaceful winter atmosphere safely away from the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Meurger",
+                "hu": "Meurger Kilátó",
+                "ro": "Punctul de Vedere Meurger",
+                "en": "Point de Vue du Meurger"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie unbedingt vor 16:30 Uhr an, um die spektakulären Farben der goldenen Stunde über der Schneelandschaft vor Sonnenuntergang zu sehen.",
+                "hu": "Törekedjen arra, hogy 16:30 előtt érkezzen, hogy megcsodálhassa a havas táj feletti aranyóra színeit, mielőtt a korai téli naplemente besötétíti a völgyet.",
+                "ro": "Încercați să ajungeți înainte de 16:30 pentru a prinde culorile spectaculoase peste peisajul înzăpezit înainte ca apusul timpuriu de iarnă să întunece valea.",
+                "en": "Aim to arrive before 16:30 to catch the spectacular golden hour colors over the snowy landscape before the early winter sunset darkens the valley."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját a békés Chapelle du Saint-Esprit-nél, mielőtt eltekerne a lenyűgöző Városi Színházhoz. A déli órákban fedezze fel a Saint-Christophe és a Saint-Nicolas templomok lenyűgöző szakrális építészetét. Délután hódítsa meg a lankás emelkedőt a lélegzetelállító Meurger kilátóig. Fejezze be kerékpáros kalandját a Saint-Martin templomnál, megörökítve a csendes esti hangulatot.",
         "ro": "Începeți plimbarea cu bicicleta la liniștita Capelă a Sfântului Duh, înainte de a pedala spre Teatrul Municipal. La amiază vă îndreptați spre Saint-Christophe și Saint-Nicolas pentru a descoperi arhitectura sacră. După-amiaza, urcați pantele line pentru a ajunge la uimitorul Punct de Vedere Meurger. Încheiați aventura pe două roți la Biserica Saint-Martin, bucurându-vă de ambianța liniștită a serii.",
         "en": "Kick off your ride at the serene Chapelle du Saint-Esprit before pedaling to the grand Municipal Theater for a dose of culture. Midday takes you gracefully to Saint-Christophe and Saint-Nicolas, offering a deep dive into the town’s sacred architecture. In the afternoon, conquer the gentle slopes to reach the breathtaking Meurger Viewpoint. Finish your cycling adventure at Église Saint-Martin, capturing the quiet evening ambiance."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre verregnete Fahrt an der Heilig-Geist-Kapelle und fahren Sie zum Stadttheater. Mittags bieten die Kirchen Saint-Christophe und Saint-Nicolas Schutz. Radeln Sie nachmittags vorsichtig zum Aussichtspunkt Meurger und enden Sie an der Kirche Saint-Martin. Achten Sie auf nasses Kopfsteinpflaster und rutschiges Laub.",
+            "hu": "Kezdje az esős bringázást a Szentlélek kápolnánál, majd tekerjen a színházhoz. Délben a Saint-Christophe és Saint-Nicolas templomok nyújtanak menedéket. Délután óvatosan tekerjen fel a Meurger kilátóhoz, és zárja a napot a Saint-Martin templomnál. Nagyon vigyázzon a csúszós macskakövekre és a nedves falevelekre!",
+            "ro": "Începeți cursa umedă la Capela Sfântului Duh, apoi mergeți la teatru. La prânz, vizitați bisericile Saint-Christophe și Saint-Nicolas pentru adăpost. După-amiaza, pedalați cu grijă spre belvederea Meurger și încheiați la biserica Saint-Martin. Fiți extrem de prudenți pe pavajul alunecos și frunzele umede.",
+            "en": "Start your wet morning ride at the Chapel of the Holy Spirit, then head to the municipal theater. By noon, visit the Saint-Christophe and Saint-Nicolas churches for indoor shelter. In the afternoon, carefully bike up to the Meurger viewpoint for moody landscapes, and finish at Saint-Martin Church. Be extremely cautious of slippery cobblestones and wet leaves throughout your journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Heilig-Geist-Kapelle",
+                "hu": "Szentlélek Kápolna",
+                "ro": "Capela Sfântului Duh",
+                "en": "Chapelle du Saint-Esprit"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie vorübergehend Schutz unter den Dachüberständen der Kapelle, bevor Sie sich wieder tapfer auf die nassen und rutschigen Straßen wagen.",
+                "hu": "Keressen átmeneti menedéket a kápolna eresze alatt, és csodálja meg szépségét, mielőtt újra nekivág a vizes és csúszós kerékpáros utcáknak.",
+                "ro": "Căutați un refugiu temporar sub streașina capelei și admirați frumusețea sa înainte de a înfrunta cu curaj străzile umede și alunecoase.",
+                "en": "Seek temporary refuge under the chapel's eaves and admire its quiet beauty before bravely facing the wet and slippery cycling streets again."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadttheater Neufchâteau",
+                "hu": "Neufchâteau Városi Színház",
+                "ro": "Teatrul Municipal Neufchâteau",
+                "en": "Neufchâteau Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und betreten Sie das trockene Foyer des Theaters, um die große Treppe zu bewundern und dem Dauerregen zu entkommen.",
+                "hu": "Parkolja le a bringát biztonságosan, és lépjen be a színház száraz előcsarnokába, hogy megmeneküljön a kitartó kora reggeli esőzés elől.",
+                "ro": "Parcați bicicleta în siguranță și intrați în foaierul uscat al teatrului pentru a admira scara grandioasă și a scăpa de ploaia persistentă.",
+                "en": "Park your bike safely and step inside the theater's dry, welcoming foyer to appreciate its grand staircase and escape the persistent morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe Templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Saint-Christophe Church"
+              },
+              "tip_5lang": {
+                "de": "Die massiven Steinmauern der Kirche halten die feuchte Kälte ab; prüfen Sie unbedingt, ob Ihre Fahrradbremsen auf der nassen Anfahrt gut funktionieren.",
+                "hu": "A templom masszív kőfalai távol tartják a nyirkos hideget; a vizes megközelítés miatt mindenképpen ellenőrizze a fékek megfelelő működését.",
+                "ro": "Zidurile masive de piatră ale bisericii țin la distanță frigul umed; asigurați-vă că frânele bicicletei funcționează excepțional pe drumul ud.",
+                "en": "The church’s massive stone walls keep the damp chill out perfectly; ensure your bike brakes work exceptionally well on the wet approach route."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas Templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die beeindruckenden Holzschnitzereien; trocknen Sie Ihre Ausrüstung kurz, bevor Sie sich wieder in den leichten Nieselregen begeben.",
+                "hu": "Fedezze fel a lenyűgöző fafaragásokat; szárítsa meg egy picit a kerékpáros felszerelését, mielőtt újra kimegy a szitáló, kellemetlen esőbe.",
+                "ro": "Descoperiți sculpturile uimitoare din lemn; alocați-vă un moment pentru a vă usca echipamentul de ciclism înainte de a ieși înapoi în burniță.",
+                "en": "Discover the stunning woodcarvings inside the nave; take a moment to dry your cycling gear slightly before heading back out into the drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Meurger",
+                "hu": "Meurger Kilátó",
+                "ro": "Punctul de Vedere Meurger",
+                "en": "Point de Vue du Meurger"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den mystischen Nebel über dem Tal, aber schieben Sie Ihr Rad auf den schlammigen und extrem rutschigen Wegen nach oben.",
+                "hu": "Élvezze a völgy feletti misztikus ködöt, de mindenképp szálljon le, és óvatosan tolja a kerékpárt a felfelé vezető sáros, csúszós ösvényeken.",
+                "ro": "Bucurați-vă de ceața mistică peste vale, dar descălecați și împingeți bicicleta cu grijă pe traseele noroioase și extrem de alunecoase.",
+                "en": "Enjoy the mystical fog rolling over the valley, but dismount and walk your bike carefully on the muddy, extremely slippery trails leading to the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre nasse Fahrt an diesem architektonischen Juwel; die geräumige Veranda bietet einen trockenen Ort, um Ihr Fahrrad bequem abzuwischen.",
+                "hu": "Zárja a vizes túrát ezen építészeti gyöngyszemnél; a tágas tornáca utolsó, védett, száraz helyet kínál a nedves kerékpár kényelmes letörléséhez.",
+                "ro": "Încheiați cursa umedă admirând această bijuterie arhitecturală; pridvorul său spațios oferă un loc uscat final pentru a șterge confortabil bicicleta.",
+                "en": "Conclude your wet ride by marveling at this architectural gem; its spacious porch offers a final dry spot to comfortably wipe down your bicycle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ziehen Sie sich für eine winterliche Radtour warm an und starten Sie an der Heilig-Geist-Kapelle. Mittags wärmen Sie sich im Theater und in der Kirche Saint-Christophe auf. Nachmittags besuchen Sie Saint-Nicolas, radeln dann vor der frühen Dämmerung um 17:00 Uhr zum Aussichtspunkt Meurger und beenden die Tour an der Kirche Saint-Martin.",
+            "hu": "Öltözzön fel melegen a téli bringázáshoz a Szentlélek kápolnánál kezdve. Délben a színház és a Saint-Christophe templom kiváló arra, hogy felmelegítse a kezét. Délután nézze meg a Saint-Nicolas templomot, majd érjen a Meurger kilátóhoz a korai, 17:00-s szürkület előtt. Zárja gyorsan a túrát a Saint-Martin templomnál.",
+            "ro": "Îmbrăcați-vă gros pentru o plimbare de iarnă, începând la Capela Sfântului Duh. La prânz, vizitați teatrul și biserica Saint-Christophe pentru a vă încălzi mâinile. După-amiaza, opriți-vă la Saint-Nicolas, apoi pedalați spre Meurger înainte de amurgul de la 17:00. Încheiați cursa rapid la biserica Saint-Martin, deoarece se lasă frigul.",
+            "en": "Bundle up for a brisk winter cycle, starting at the Chapel of the Holy Spirit. By noon, visit the municipal theater and Saint-Christophe Church to warm up your hands. In the afternoon, stop by Saint-Nicolas Church, then bike to the Meurger Viewpoint just before the early 17:00 twilight. Finish your ride quickly at Saint-Martin Church as temperatures drop for the evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Heilig-Geist-Kapelle",
+                "hu": "Szentlélek Kápolna",
+                "ro": "Capela Sfântului Duh",
+                "en": "Chapelle du Saint-Esprit"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die zarten Buntglasfenster; tragen Sie dicke Handschuhe, da der Morgenfrost den metallischen Fahrradlenker eiskalt macht.",
+                "hu": "Vessen egy pillantást a finom ólomüveg ablakokra; viseljen vastag kesztyűt, mert a reggeli fagytól a fém kormány nagyon jéghideg lesz.",
+                "ro": "Aruncați o privire la vitraliile delicate; purtați mănuși foarte groase, deoarece gerul matinal face ghidonul metalic extrem de rece.",
+                "en": "Take a quick look at the delicate stained glass; wear exceptionally thick gloves as the morning frost makes the metal handlebars freezing cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Stadttheater Neufchâteau",
+                "hu": "Neufchâteau Városi Színház",
+                "ro": "Teatrul Municipal Neufchâteau",
+                "en": "Neufchâteau Municipal Theater"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie direkt ins beheizte Theaterfoyer, um wieder Gefühl in die kalten Zehen zu bekommen und die lebhaften Ausstellungen zu bewundern.",
+                "hu": "Lépjen be azonnal a fűtött színházi előcsarnokba, hogy felolvadjanak a lábujjai, és élvezze a bent megtekinthető élénk kulturális kiállításokat.",
+                "ro": "Pășiți imediat în foaierul încălzit al teatrului pentru a vă recăpăta simțurile în degetele reci și pentru a admira exponatele culturale vibrante.",
+                "en": "Step immediately into the heated theater foyer to restore feeling in your cold toes and admire the vibrant cultural displays happening inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe Templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Saint-Christophe Church"
+              },
+              "tip_5lang": {
+                "de": "Die dicken mittelalterlichen Mauern versprühen Wintercharme; nutzen Sie den Moment hier, um sich vollständig vor dem eisigen Seitenwind zu schützen.",
+                "hu": "A vastag középkori falak csendes téli bájjal bírnak; töltsön itt egy percet, hogy teljesen menedéket találjon a metsző, fagyos oldalszél elől.",
+                "ro": "Zidurile medievale groase au un farmec solemn de iarnă; acordați-vă un moment aici pentru a vă adăposti complet de vânturile tăioase de iarnă.",
+                "en": "The thick medieval walls hold a quiet, solemn winter charm; take a moment here to shield yourself entirely from the biting winter crosswinds."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas Templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie um den gut erhaltenen Chor; lassen Sie Ihre Thermokleidung geschlossen, da alte Steinkirchen selten eine starke Heizung haben.",
+                "hu": "Sétáljon körbe a gyönyörűen megőrzött kórusrészen; hagyja magán jól bezárva a termo réteget, mert a történelmi templomokban ritkán van fűtés.",
+                "ro": "Plimbați-vă prin zona corului frumos conservată; mențineți-vă hainele termice închise, deoarece bisericile istorice din piatră au rareori încălzire.",
+                "en": "Walk around the beautifully preserved choir area; keep your thermal layers fully zipped, as historic stone churches rarely have strong heating."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Meurger",
+                "hu": "Meurger Kilátó",
+                "ro": "Punctul de Vedere Meurger",
+                "en": "Point de Vue du Meurger"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie kräftig den frostigen Hügel hinauf, um vor 16:30 Uhr anzukommen und sich mit einem Panoramablick auf den frühen Sonnenuntergang zu belohnen.",
+                "hu": "Küzdjön meg a deres emelkedővel, hogy 16:30-ra felérjen, és jutalmazza meg kerékpáros erőfeszítését a korai naplemente éles panorámájával.",
+                "ro": "Urcați cu forță dealul înghețat pentru a ajunge în vârf până la 16:30, recompensând efortul cu o vedere panoramică clară a apusului de iarnă.",
+                "en": "Push hard up the frosty hill to reach the summit by 16:30, rewarding your cycling effort with a crisp, panoramic view of the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Radtag und bewundern Sie die leuchtende Fassade der Kirche, gerade wenn die frühe Winternacht komplett über die Stadt hereinbricht.",
+                "hu": "Zárja a kihívást jelentő bringás napot a templom homlokzatának megcsodálásával, pontosan akkor, amikor a korai téli éjszaka rátelepszik a városra.",
+                "ro": "Încheiați ziua de ciclism admirând fațada iluminată a bisericii, chiar în momentul în care noaptea de iarnă începe să cadă complet peste oraș.",
+                "en": "Finish your challenging cycling day admiring the glowing facade of the church just as the early winter night begins to fall completely over the town."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Autós túráját a Sainte-Ursule templomnál kezdje, majd vegye az irányt a történelmi Chapelle du Saint-Esprit felé. Délben parkoljon le a központban, hogy felfedezze a Mazarine Galériát és a Saint-Christophe templomot. Délután megcsodálhatja a lenyűgöző Saint-Nicolas és Saint-Martin templomokat. Végül vezessen fel a Meurger kilátóhoz, és élvezze a lenyűgöző esti panorámát.",
         "ro": "Începeți turul cu mașina la Biserica Sainte-Ursule, o bijuterie arhitecturală, apoi vizitați istorica Capelă a Sfântului Duh. La amiază, parcați în centru pentru a explora Galeria de Artă Mazarine și Biserica Saint-Christophe. După-amiaza vă invită să admirați bisericile impresionante Saint-Nicolas și Saint-Martin. La final, conduceți spre Punctul de Vedere Meurger pentru o panoramă magnifică de seară.",
         "en": "Begin your driving tour at Église Sainte-Ursule, a quiet architectural gem, then head to the historic Chapelle du Saint-Esprit. By midday, park near the center to explore the captivating Mazarine Art Gallery and the nearby Saint-Christophe Church. The afternoon invites you to marvel at the impressive Saint-Nicolas and Saint-Martin churches. Finally, drive up to the Meurger Viewpoint for a sweeping evening panorama."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre Fahrt am regnerischen Morgen an der Kirche Sainte-Ursule und fahren Sie dann zur Heilig-Geist-Kapelle. Mittags bieten die Mazarine-Galerie und Saint-Christophe kulturelles Eintauchen im Trockenen. Nachmittags besuchen Sie Saint-Nicolas und Saint-Martin. Fahren Sie schließlich vorsichtig zum Aussichtspunkt Meurger und nutzen Sie das Auto als regensicheren Unterschlupf.",
+            "hu": "Kezdje az esős autós túrát a Sainte-Ursule templomnál, majd ugorjon át a Szentlélek kápolnához. Délben a Mazarine galéria és a Saint-Christophe templom tökéletes beltéri programot nyújt. Délután nézze meg a Saint-Nicolas és Saint-Martin templomokat. Végül vezessen óvatosan a Meurger kilátóhoz, ahonnan autójából, esőtől védve élvezheti a borongós panorámát.",
+            "ro": "Începeți dimineața ploioasă la Biserica Sainte-Ursule, apoi mergeți la Capela Sfântului Duh. La prânz, Galeria Mazarine și biserica Saint-Christophe oferă o imersiune culturală excelentă în interior. După-amiaza, vizitați bisericile Saint-Nicolas și Saint-Martin. Conduceți cu grijă spre belvederea Meurger, folosind mașina ca adăpost pentru a admira priveliștile.",
+            "en": "Start your rainy morning drive at Sainte-Ursule Church, then easily hop over to the Chapel of the Holy Spirit. By noon, the Mazarine Gallery and Saint-Christophe Church provide excellent indoor cultural immersion while you stay completely dry. In the afternoon, visit Saint-Nicolas and Saint-Martin churches. Finally, drive carefully to the Meurger Viewpoint, using your car as a cozy, rain-proof shelter to enjoy the moody views."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Ursule",
+                "hu": "Sainte-Ursule Templom",
+                "ro": "Biserica Sainte-Ursule",
+                "en": "Église Sainte-Ursule"
+              },
+              "tip_5lang": {
+                "de": "Eilen Sie schnell vom Auto ins ruhige Innere; durch das nahe Parken müssen Sie bei dem starken Morgenregen kaum den Regenschirm aufspannen.",
+                "hu": "Szaladjon át az autóból a csendes belső térbe; a kényelmes közeli parkolás miatt alig kell kinyitnia az esernyőjét a heves reggeli esőzésben.",
+                "ro": "Fugiți rapid din mașină pentru a admira interiorul liniștit; parcarea aproape înseamnă că abia trebuie să deschideți umbrela în ploaia abundentă.",
+                "en": "Dash quickly from your car to admire the quiet interior; parking close by means you hardly have to open your umbrella in the heavy morning rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Heilig-Geist-Kapelle",
+                "hu": "Szentlélek Kápolna",
+                "ro": "Capela Sfântului Duh",
+                "en": "Chapelle du Saint-Esprit"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie sich die Steindetails vom Eingang aus an, ein kurzer, aber sehr lohnender Halt, auch wenn es draußen ungemütlich und stark regnet.",
+                "hu": "Tekintse meg a kápolna bájos kőrészleteit a bejárattól; rövid, de nagyon is megéri a megálló még akkor is, ha kint éppen szakad az eső.",
+                "ro": "Admirați detaliile din piatră de la intrare, o oprire scurtă, dar foarte valoroasă, chiar și atunci când plouă torențial afară.",
+                "en": "View the charming stone details of the chapel from the entrance, a brief but highly worthwhile stop even when the rain is pouring heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstgalerie Mazarine",
+                "hu": "Mazarine Művészeti Galéria",
+                "ro": "Galeria de Artă Mazarine",
+                "en": "Galerie d’art de la Mazarine"
+              },
+              "tip_5lang": {
+                "de": "Verlieren Sie sich in farbenfrohen Kunstwerken in dieser trockenen Galerie, die Sie vollständig vor dem trüben und nassen Wetter draußen schützt.",
+                "hu": "Merüljön el a színes műalkotásokban ebben a kényelmesen száraz galériában, teljesen védve a kinti komor, kellemetlen és nedves időjárástól.",
+                "ro": "Pierdeți-vă printre operele de artă colorate în această galerie uscată, complet ferită de vremea mohorâtă și umedă de afară.",
+                "en": "Lose yourself in colorful local artworks inside this bright, comfortably dry gallery, completely sheltered from the gloomy and wet weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe Templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Saint-Christophe Church"
+              },
+              "tip_5lang": {
+                "de": "Der hallende Steinraum und die Buntglasfenster sorgen für eine magische Atmosphäre, während der starke Regen laut auf das Dach prasselt.",
+                "hu": "A visszhangzó kőtér és a ragyogó ólomüveg varázslatos hangulatot áraszt, miközben a heves eső hangosan és folyamatosan dobol a fejünk feletti tetőn.",
+                "ro": "Spațiul rezonant de piatră și vitraliile oferă o atmosferă magică, în timp ce sunetul ploii torențiale bate continuu pe acoperiș.",
+                "en": "The echoing stone space and vibrant stained glass provide a magical atmosphere as the loud sound of heavy rain drums continuously on the roof above."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas Templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie vorsichtig auf die nassen Steinstufen, um das beeindruckende Altarbild zu bewundern und den kalten Schauern am Nachmittag zu entgehen.",
+                "hu": "Lépjen nagyon óvatosan a vizes kőlépcsőkön belépéskor, hogy megcsodálja az oltárképet, és elmeneküljön a délutáni elhúzódó, hideg záporok elől.",
+                "ro": "Pășiți cu mare grijă pe treptele ude de piatră la intrare pentru a admira retablul impresionant și a scăpa de aversele reci ale după-amiezii.",
+                "en": "Step very carefully on the wet stone steps as you enter to admire the impressive altarpiece and escape the lingering, cold showers of the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die schöne Architektur dieses Wahrzeichens; Sie können die Fassade sogar bequem aus der trockenen Wärme Ihres Autos betrachten.",
+                "hu": "Élvezze a helyi nevezetesség gyönyörű történelmi építészetét; a homlokzatát akár a száraz, kényelmes parkoló autójából is kényelmesen megfigyelheti.",
+                "ro": "Bucurați-vă de arhitectura istorică frumoasă a acestui punct de reper; puteți chiar observa fațada din căldura uscată a mașinii parcate.",
+                "en": "Enjoy the beautiful historic architecture of this local landmark; you can even comfortably observe its facade from the dry warmth of your parked car."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Meurger",
+                "hu": "Meurger Kilátó",
+                "ro": "Punctul de Vedere Meurger",
+                "en": "Point de Vue du Meurger"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Fenster nur minimal herunter, um tolle Fotos vom dramatischen, verregneten Tal zu machen, ohne sich oder Ihr Auto einzuweichen.",
+                "hu": "Csak annyira húzza le az ablakot, hogy készítsen néhány csodás fotót a drámai, eső áztatta völgyről anélkül, hogy ön vagy az autója bőrig ázna.",
+                "ro": "Coborâți geamurile doar cât să faceți poze uimitoare ale văii dramatice, bătute de ploaie, fără a vă uda pe dumneavoastră sau mașina.",
+                "en": "Roll down your windows just enough to snap some amazing photos of the dramatic, rain-swept valley below without getting yourself or your car soaked."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ihre winterliche Autotour beginnt an der Kirche Sainte-Ursule; lassen Sie die Heizung an, während Sie zur Kapelle fahren. Mittags bieten die Galerie Mazarine und Saint-Christophe fantastische, warme Haltepunkte. Nachmittags besuchen Sie Saint-Nicolas und Saint-Martin mit dem Komfort der Sitzheizung dazwischen. Fahren Sie rechtzeitig zum Aussichtspunkt Meurger, um gegen 17:00 Uhr den Sonnenuntergang über der frostigen Landschaft zu sehen.",
+            "hu": "A téli autós túra a Sainte-Ursule templomnál kezdődik, a Szentlélek kápolna felé tartva hagyja bekapcsolva a fűtést. Délben a Mazarine galéria és a Saint-Christophe templom fantasztikus, meleg megállókat kínál. Délután látogassa meg a Saint-Nicolas és Saint-Martin templomokat, kiélvezve az ülésfűtés kényelmét. Vezessen a Meurger kilátóhoz pont időben, hogy 17:00 körül láthassa a naplementét a deres táj felett.",
+            "ro": "Turul de iarnă cu mașina începe la Biserica Sainte-Ursule, păstrând căldura pornită în timp ce mergeți la Capelă. La amiază, Galeria Mazarine și Saint-Christophe oferă opriri calde fantastice. După-amiaza, vizitați bisericile Saint-Nicolas și Saint-Martin cu confortul scaunelor încălzite. Conduceți la belvederea Meurger exact la timp pentru a vedea apusul în jurul orei 17:00 peste peisajul înghețat.",
+            "en": "Your winter driving tour begins at Sainte-Ursule Church, keeping the heater on as you hop to the Chapel of the Holy Spirit. By midday, the Mazarine Gallery and Saint-Christophe Church offer fantastic, warm indoor stops. In the afternoon, visit Saint-Nicolas and Saint-Martin churches with the comfort of heated seats in between. Drive to the Meurger Viewpoint just in time to see the sun set around 17:00 over the frosted landscape."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Sainte-Ursule",
+                "hu": "Sainte-Ursule Templom",
+                "ro": "Biserica Sainte-Ursule",
+                "en": "Église Sainte-Ursule"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie den Morgen in dieser friedlichen Kirche; achten Sie beim Aussteigen extrem auf rutschige Eisflächen auf dem nahegelegenen Parkplatz.",
+                "hu": "Kezdje a reggelt e békés templom megcsodálásával; kiszálláskor rendkívüli módon ügyeljen a csúszós, jeges foltokra a közeli parkoló területén.",
+                "ro": "Începeți dimineața admirând această biserică pașnică; fiți extrem de precauți la peticele de gheață alunecoase din parcare când coborâți.",
+                "en": "Start your morning by admiring this peaceful church; be extremely cautious of slippery icy patches in the nearby parking area as you step outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Heilig-Geist-Kapelle",
+                "hu": "Szentlélek Kápolna",
+                "ro": "Capela Sfântului Duh",
+                "en": "Chapelle du Saint-Esprit"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen kurzen Spaziergang am Kapellengelände und atmen Sie die frische Winterluft, bevor Sie eifrig ins warme Auto zurückkehren.",
+                "hu": "Tegyen egy gyors sétát a bájos kápolna körül, szívja be a friss téli levegőt, mielőtt lelkesen visszatérne a meleg és kényelmes autójába.",
+                "ro": "Bucurați-vă de o scurtă plimbare pe terenul fermecător, respirând aerul proaspăt de iarnă înainte de a vă întoarce nerăbdător la confortul mașinii.",
+                "en": "Enjoy a quick stroll around the charming chapel grounds, breathing in the crisp winter air before eagerly returning to the comfort of your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Kunstgalerie Mazarine",
+                "hu": "Mazarine Művészeti Galéria",
+                "ro": "Galeria de Artă Mazarine",
+                "en": "Galerie d’art de la Mazarine"
+              },
+              "tip_5lang": {
+                "de": "Legen Sie Ihren dicken Wintermantel ab und entspannen Sie sich, während Sie regionale Kunstwerke in diesem wunderbar beheizten Raum bewundern.",
+                "hu": "Vegye le a nehéz télikabátot, és lazítson, miközben regionális műalkotásokat csodál meg ebben a csodásan fűtött, hívogató kiállítótérben.",
+                "ro": "Scoateți-vă haina groasă de iarnă și relaxați-vă în timp ce admirați operele de artă regionale în acest spațiu de expoziție minunat încălzit.",
+                "en": "Take off your heavy winter coat and relax while admiring regional artworks in this wonderfully heated and welcoming indoor exhibition space."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Christophe",
+                "hu": "Saint-Christophe Templom",
+                "ro": "Biserica Saint-Christophe",
+                "en": "Saint-Christophe Church"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die kunstvollen Steinsäulen und leuchtenden Fenster, die einen markanten, warmen Kontrast zum grauen Winterhimmel draußen bilden.",
+                "hu": "Csodálja meg a kőoszlopokat és a ragyogó ólomüveget odabent, amely lenyűgöző és meleg kontrasztot alkot a kinti szürke, hideg téli éggel.",
+                "ro": "Admirați stâlpii de piatră și vitraliile strălucitoare din interior, care creează un contrast izbitor și cald cu cerul cenușiu de iarnă de afară.",
+                "en": "Marvel at the intricate stone pillars and glowing stained glass inside, which create a striking and warm contrast to the gray winter skies outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Nicolas",
+                "hu": "Saint-Nicolas Templom",
+                "ro": "Biserica Saint-Nicolas",
+                "en": "Saint-Nicolas Church"
+              },
+              "tip_5lang": {
+                "de": "Das historische Innere wirkt im Winter feierlich; tragen Sie sehr dicke Socken, da die uralten Steinböden außergewöhnlich kalt werden.",
+                "hu": "A történelmi belső tér télen gyönyörűen ünnepélyes; viseljen nagyon vastag zoknit, mert az ősi kőpadlók kivételesen hidegek tudnak lenni.",
+                "ro": "Interiorul istoric se simte frumos și solemn iarna; asigurați-vă că purtați șosete foarte groase, deoarece podelele antice devin excepțional de reci.",
+                "en": "The historic interior feels beautifully solemn in winter; make sure to wear very thick socks as the ancient stone floors get exceptionally cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Martin",
+                "hu": "Saint-Martin Templom",
+                "ro": "Biserica Saint-Martin",
+                "en": "Église Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die eleganten Linien dieser Kirche; das Parken ist im Winter sehr einfach und gibt Ihnen mehr Zeit für das Gebäude in Ruhe.",
+                "hu": "Csodálja meg e templom elegáns építészeti vonalait; télen nagyon könnyű a parkolás, így bőségesen jut ideje az épület nyugodt értékelésére.",
+                "ro": "Admirați liniile arhitecturale elegante ale acestei biserici; parcarea este foarte ușoară iarna, oferindu-vă timp suplimentar pentru a aprecia clădirea.",
+                "en": "Admire the elegant architectural lines of this church; parking is very easy in winter, giving you extra time to appreciate the building in peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtspunkt Meurger",
+                "hu": "Meurger Kilátó",
+                "ro": "Punctul de Vedere Meurger",
+                "en": "Point de Vue du Meurger"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie kurz vor 17:00 Uhr hoch, um bequem aus der Wärme Ihres Autos zu beobachten, wie die Sonne hinter der frostigen Landschaft untergeht.",
+                "hu": "Hajtson fel a dombra pont 17:00 előtt, hogy kényelmesen, a járműve melegéből nézhesse végig, ahogy a téli nap lebukik a fagyos táj mögött.",
+                "ro": "Conduceți pe deal chiar înainte de 17:00 pentru a privi confortabil cum soarele de iarnă apune în spatele peisajului înghețat, din căldura mașinii.",
+                "en": "Drive up the hill just before 17:00 to comfortably watch the winter sun dip behind the frost-covered landscape directly from the warmth of your vehicle."
+              }
+            }
+          ]
+        }
       }
     }
   }

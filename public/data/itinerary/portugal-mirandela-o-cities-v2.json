@@ -137,6 +137,168 @@
         "hu": "Gyalogtúránkat Macedo de Cavaleiros szívében, a városházánál kezdjük. A reggeli levegő frissessége kísér, miközben elsőként a Martim Gonçalves Múzeum izgalmas történelmi anyagát fedezzük fel.\n\nKora délután kényelmesen átsétálunk a Szakrális Művészetek Múzeumába. A belváros közelsége miatt könnyű a séta. Később a helyi parkban pihenünk meg, ami ideális családok számára is.\n\nA délután az ókori múlté. Ellátogatunk a Városi Régészeti Múzeumba, ahol a lenyűgöző leletek feltárják ennek a portugál régiónak a gazdag és mélyreható történelmi gyökereit.\n\nSétánk a késő délutáni fények lágyulásával ér véget. Úgy távozunk a múzeumból, hogy igazán értékeljük ennek a bájos észak-portugáliai városnak a lenyűgöző kulturális örökségét.",
         "ro": "Începem turul nostru pietonal în inima orașului Macedo de Cavaleiros. Aerul dimineții ne salută în timp ce vizităm primăria, urmată de o scufundare în istorie la Muzeul Martim Gonçalves.\n\nPe măsură ce se apropie amiaza, ne plimbăm spre Muzeul de Artă Sacră. Centrul compact permite un ritm relaxat. Apoi facem o pauză plăcută în parcul pieței, perfect pentru familii și odihnă.\n\nDupă-amiaza este dedicată trecutului antic. Vizităm Muzeul Municipal de Arheologie, unde artefacte fascinante scot la iveală istoria profundă a acestei frumoase regiuni portugheze.\n\nTurul se încheie pe măsură ce lumina după-amiezii târzii se domolește. Părăsim muzeul cu o apreciere profundă pentru bogatul patrimoniu cultural ascuns în acest fermecător oraș din nord.",
         "en": "We start our walking tour in the heart of Macedo de Cavaleiros. The morning air greets us as we visit the local administration building, followed by our first dive into history at the Martim Gonçalves Museum.\n\nAs midday approaches, we stroll to the Museum of Sacred Art. The compact town center allows for a relaxed pace. We then take a pleasant break at the local market park, perfect for resting.\n\nThe afternoon is dedicated to the ancient past. We visit the Municipal Museum of Archaeology, where fascinating artifacts vividly reveal the deep history of this historic Portuguese region.\n\nOur walking tour concludes as the late afternoon light softens. We leave the museum with a profound appreciation for the rich cultural heritage tucked within this charming northern Portuguese town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren regnerischen Morgen am Rathaus, bevor Sie im historischen Museum Zuflucht suchen. Mittags bietet das Museum für sakrale Kunst einen weiteren absolut trockenen Hafen. Nachmittags ist der Spielplatz zwar nass, aber in der Nähe gibt es überdachte Marktbereiche. Beenden Sie den Tag geschützt im Archäologiemuseum, während es draußen weiter regnet.",
+            "hu": "Kezdje az esős reggelt az önkormányzatnál, majd keressen menedéket a történelmi múzeumban. Délben a szakrális művészeti múzeum nyújt újabb teljesen száraz kikötőt. Délután a játszótér nedves lehet, de a piacon találhat fedett részeket. Zárja a napot az eső elől tökéletesen védve, a régészeti múzeum falai között.",
+            "ro": "Începeți dimineața ploioasă la primărie înainte de a vă refugia în muzeul de istorie. La prânz, muzeul de artă sacră oferă un alt adăpost complet uscat. După-amiaza, locul de joacă poate fi umed, dar găsiți ușor zone acoperite în apropiere. Încheiați ziua la adăpost în muzeul de arheologie, în timp ce ploaia continuă.",
+            "en": "Start your wet morning at the local council building before seeking refuge in the history museum. By noon, the sacred art museum offers another completely dry haven. In the afternoon, the market's playground might be damp, but you can easily find covered spots nearby. End the day sheltered in the archaeology museum as the rain continues outside."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Junta de Freguesia de Macedo de Cavaleiros",
+                "hu": "Junta de Freguesia de Macedo de Cavaleiros",
+                "ro": "Junta de Freguesia de Macedo de Cavaleiros",
+                "en": "Junta de Freguesia de Macedo de Cavaleiros"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die beeindruckende Fassade des Rathauses kurz unter Ihrem Regenschirm, da sie nur wenig Schutz bietet, bevor Sie zu trockeneren Innenräumen weitergehen.",
+                "hu": "Vessen egy gyors pillantást az impozáns homlokzatra az esernyője alól, mivel csak kevés menedéket nyújt, mielőtt szárazabb, teljesen fedett helyekre indulna tovább.",
+                "ro": "Aruncați o privire rapidă la fațada impresionantă a primăriei de sub umbrelă, deoarece oferă un adăpost limitat înainte de a vă îndrepta spre locații interioare uscate.",
+                "en": "Take a quick look at the impressive facade of the council building from under your umbrella, as it offers limited shelter before you move on to drier indoor locations."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Museu Martim Gonçalves de Macedo",
+                "hu": "Municipal Museu Martim Gonçalves de Macedo",
+                "ro": "Municipal Museu Martim Gonçalves de Macedo",
+                "en": "Municipal Museu Martim Gonçalves de Macedo"
+              },
+              "tip_5lang": {
+                "de": "Dieses Innenraummuseum ist perfekt für einen Regentag; nehmen Sie sich Zeit, die lokale Geschichte zu erkunden, während Sie darauf warten, dass der Schauer vorüberzieht.",
+                "hu": "Ez a beltéri múzeum tökéletes választás egy esős napra; nyugodtan fedezze fel a helyi történelmet, miközben várja, hogy odakint elálljon a heves zápor.",
+                "ro": "Acest muzeu interior este perfect pentru o zi ploioasă; faceți-vă timp să explorați istoria locală în timp ce așteptați să treacă aversa de ploaie de afară.",
+                "en": "This indoor museum is absolutely perfect for a rainy day; take your time exploring the local history while comfortably waiting for the heavy showers to pass by."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Arte Sacra",
+                "hu": "Museu de Arte Sacra",
+                "ro": "Museu de Arte Sacra",
+                "en": "Museu de Arte Sacra"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie wunderbar trocken und genießen Sie die ruhige Atmosphäre dieser sakralen Kunstsammlung, eine hervorragende Zuflucht vor dem anhaltenden Regen.",
+                "hu": "Maradjon teljesen szárazon, és élvezze a vallási művészeti gyűjtemény békés hangulatát, amely kiváló és nyugtató menedék a kint tartósan zuhogó eső elől.",
+                "ro": "Rămâneți uscat și bucurați-vă de atmosfera senină a acestei colecții de artă religioasă, o evadare excelentă în interior din calea ploii persistente.",
+                "en": "Keep comfortably dry and enjoy the serene atmosphere of this beautiful religious art collection, serving as a great indoor escape from the persistent rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil do Mercado",
+                "hu": "Parque Infantil do Mercado",
+                "ro": "Parque Infantil do Mercado",
+                "en": "Parque Infantil do Mercado"
+              },
+              "tip_5lang": {
+                "de": "Der Spielplatzbereich könnte ziemlich nass und rutschig sein, bringen Sie also Gummistiefel mit oder suchen Sie einfach Schutz unter den Dächern des nahen Marktes.",
+                "hu": "A szabadtéri játszótér nedves és csúszós lehet, ezért hozzon gumicsizmát, vagy egyszerűen keressen menedéket a szorosan mellette lévő fedett piacon.",
+                "ro": "Locul de joacă poate fi destul de umed și alunecos, așa că aduceți cizme de ploaie adecvate sau căutați pur și simplu adăpost în zona pieței acoperite din apropiere.",
+                "en": "The outdoor playground might be quite wet and slippery, so be sure to bring proper rain boots or simply seek shelter in the nearby covered market area."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "hu": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "ro": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "en": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren regnerischen Stadtrundgang in diesem faszinierenden archäologischen Museum, wo Sie es warm haben und komplett vor dem schlechten Wetter geschützt sind.",
+                "hu": "Fejezze be az esős városi sétát ebben a lenyűgöző régészeti múzeumban, kényelemben és teljesen védve a kinti barátságtalan, nedves időjárástól.",
+                "ro": "Încheiați plimbarea ploioasă în interiorul acestui fascinant muzeu arheologic, stând confortabil și complet ferit de vremea rea de pe străzile orașului.",
+                "en": "Finish your rainy walking tour inside this fascinating archaeological museum, keeping perfectly comfortable and completely completely out of the bad weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den kalten Wintermorgen am Rathaus und wärmen Sie sich rasch im Museum auf. Mittags erwartet Sie das gemütlich beheizte Museum für sakrale Kunst. Packen Sie die Kinder nachmittags für den Spielplatz warm in dicke Schichten ein. Beenden Sie den kühlen Tag vor dem frühen Sonnenuntergang gegen 17:00 Uhr sicher im Archäologiemuseum.",
+            "hu": "Indítsa a csípős téli reggelt az önkormányzatnál, majd melegedjen fel a múzeumban. Délben a fűtött szakrális művészeti múzeum várja. Öltöztesse fel rétegesen a gyerekeket a délutáni szabadtéri játszóterezéshez. Zárja a hűvös napot a régészeti múzeumban, még a korai, 17:00 óra körüli naplemente és a sötétedés előtt.",
+            "ro": "Începeți dimineața geroasă de iarnă la primărie, apoi încălziți-vă rapid în muzeul de istorie. La prânz vizitați confortabilul muzeu de artă sacră. Îmbrăcați copiii în straturi groase pentru locul de joacă. Încheiați ziua la muzeul de arheologie înainte de apusul devreme, care are loc în jurul orei 17:00.",
+            "en": "Kick off your crisp winter morning at the local council, then quickly warm up inside the history museum. Midday brings a cozy visit to the heated sacred art museum. Bundle up the kids in thick layers for a brisk afternoon stop at the playground. Finish the chilly day at the archaeology museum just before the early sunset around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Junta de Freguesia de Macedo de Cavaleiros",
+                "hu": "Junta de Freguesia de Macedo de Cavaleiros",
+                "ro": "Junta de Freguesia de Macedo de Cavaleiros",
+                "en": "Junta de Freguesia de Macedo de Cavaleiros"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft, während Sie die architektonischen Details des Gebäudes betrachten, bevor Sie wegen der Kälte schnell weitergehen.",
+                "hu": "Élvezze a tiszta, ropogós téli levegőt, miközben megcsodálja az épület építészeti részleteit, mielőtt a hideg szél miatt gyorsan tovább indulna.",
+                "ro": "Bucurați-vă de aerul curat de iarnă în timp ce admirați detaliile arhitecturale ale clădirii, înainte de a vă mișca rapid din cauza frigului tăios.",
+                "en": "Enjoy the crisp, fresh winter air while taking in the architectural details of the building before quickly moving along due to the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Museu Martim Gonçalves de Macedo",
+                "hu": "Municipal Museu Martim Gonçalves de Macedo",
+                "ro": "Municipal Museu Martim Gonçalves de Macedo",
+                "en": "Municipal Museu Martim Gonçalves de Macedo"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der Kälte in dieses wunderbar beheizte Museum ein und tauchen Sie in die Geschichte ein, während sich Ihre Hände und Füße langsam wieder aufwärmen.",
+                "hu": "Lépjen be a fagyos hidegből ebbe a kellemesen fűtött múzeumba, és merüljön el a történelemben, miközben a kezei és lábai lassan újra felmelegednek.",
+                "ro": "Intrați din frig în acest muzeu minunat încălzit și cufundați-vă în istorie în timp ce mâinile și picioarele vi se încălzesc încet din nou.",
+                "en": "Step out of the freezing cold into this wonderfully heated museum, immersing yourself in local history while your hands and feet slowly warm up again."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Arte Sacra",
+                "hu": "Museu de Arte Sacra",
+                "ro": "Museu de Arte Sacra",
+                "en": "Museu de Arte Sacra"
+              },
+              "tip_5lang": {
+                "de": "Eine fantastische und warme Anlaufstelle am Mittag; ziehen Sie Ihre dicke Winterjacke aus und bewundern Sie die heilige Kunst in einer gemütlichen Atmosphäre.",
+                "hu": "Fantasztikus és meleg megálló délben; vegye le a vastag téli kabátot, és csodálja meg a lenyűgöző szakrális művészetet igazán barátságos, kényelmes környezetben.",
+                "ro": "O oprire fantastică și caldă la prânz; dați jos haina groasă de iarnă și admirați arta sacră într-o atmosferă extrem de confortabilă și relaxantă.",
+                "en": "A fantastic and comfortably warm midday stop; take off your heavy winter coat and admire the sacred art in a truly cozy and relaxing atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Infantil do Mercado",
+                "hu": "Parque Infantil do Mercado",
+                "ro": "Parque Infantil do Mercado",
+                "en": "Parque Infantil do Mercado"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann hier am Nachmittag recht schneidend sein; stellen Sie sicher, dass alle Mützen und Schals tragen, wenn die Kinder sich kurz austoben.",
+                "hu": "A szél délutánra meglehetősen metszővé válhat ezen a nyitott téren; győződjön meg róla, hogy mindenkin van sapka és sál a rövid játékidő alatt.",
+                "ro": "Vântul poate fi destul de tăios aici după-amiaza; asigurați-vă că toată lumea poartă căciuli și fulare când copiii se joacă scurt afară.",
+                "en": "The wind can be quite biting here in the late afternoon; make sure everyone is wearing warm hats and scarves if the kids want a quick play session."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "hu": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "ro": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "en": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Zuflucht in diesem Museum, wenn die Temperaturen am späten Nachmittag sinken, und beenden Sie Ihren Besuch rechtzeitig vor der frühen Dunkelheit.",
+                "hu": "Keressen menedéket ebben a múzeumban, amikor a késő délutáni hőmérséklet meredeken zuhanni kezd, és fejezze be a látogatást a korai sötétedés előtt.",
+                "ro": "Căutați refugiu în acest muzeu când temperaturile scad brusc la sfârșitul după-amiezii și încheiați vizita la timp, înainte de întunericul timpuriu.",
+                "en": "Seek warm refuge in this museum as late afternoon temperatures begin to plummet, finishing your educational visit safely before the early winter darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpártúránkat az izgalmas Régészeti Múzeumnál kezdjük. Miután elmélyedtünk az ókorban, kényelmesen elkarikázunk a központban található közeli Szakrális Művészetek Múzeumához.\n\nDélben a várostörténeti utunk a Martim Gonçalves Múzeumhoz vezet. A rövid központi távolságok tökéletesek arra, hogy kerékpárral mindent könnyedén és nyugodtan felfedezzünk.\n\nDélután elhagyjuk a városközpontot, és a történelmi Pelourinho emlékműhöz pedálozunk. Innen az út egyre zöldebbé válik, és élvezhetjük a régió tágas és gyönyörű vidéki tájait.\n\nA túra a festői Barragem da Carvalheira víztározónál ér véget. Itt leparkolhatjuk a kerékpárokat, pihenhetünk a vízparton, és teljes mértékben kiélvezhetjük a természet békéjét.",
         "ro": "Începem turul cu bicicleta la fascinantul Muzeu de Arheologie. După ce ne scufundăm în antichitate, pedalăm confortabil către Muzeul de Artă Sacră din apropiere, aflat în centru.\n\nLa prânz, traseul ne poartă mai departe prin istoria orașului la Muzeul Martim Gonçalves. Distanțele scurte din centru sunt ideale pentru a explora totul relaxat pe două roți.\n\nDupă-amiaza lăsăm centrul orașului în urmă și mergem cu bicicleta spre monumentul istoric Pelourinho. De acolo, plimbarea devine mai naturală și ne bucurăm de peisajele deschise.\n\nTurul se încheie la pitorescul baraj Barragem da Carvalheira. Aici putem parca bicicletele, ne putem relaxa lângă apă și ne putem bucura din plin de atmosfera liniștită a naturii.",
         "en": "We start our cycling tour at the fascinating Museum of Archaeology. After delving into antiquity, we comfortably pedal to the nearby Museum of Sacred Art in the town center.\n\nAt midday, our path leads us further through local history to the Martim Gonçalves Museum. The short distances in the center are ideal for exploring everything relaxedly on a bicycle.\n\nIn the afternoon, we leave the town center behind and cycle to the historic Pelourinho monument. From there, the ride becomes closer to nature as we enjoy the open regional landscapes.\n\nThe tour ends at the picturesque Barragem da Carvalheira reservoir. Here we can park our bikes, relax by the water, and fully embrace the peaceful atmosphere of the great outdoors."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig, da nasses Kopfsteinpflaster für Radfahrer extrem rutschig ist. Mittags bieten die Museen eine trockene Zuflucht vor den Schauern. Nachmittags erfordert das Radfahren wasserdichte Kleidung und gute Bremsen. Beenden Sie Ihre Tour am Stausee, wo die neblige Atmosphäre atemberaubend, aber unbestreitbar nass ist.",
+            "hu": "Kezdje a napot óvatosan, mivel a nedves macskakő rendkívül csúszós a kerékpárosoknak. Délben a múzeumok száraz menedéket nyújtanak. Délután a tekeréshez elengedhetetlen a vízálló ruházat és a jó fék. Zárja a túrát a víztározónál, ahol a ködös, párás hangulat gyönyörű, bár kétségtelenül meglehetősen nedves.",
+            "ro": "Începeți cu atenție, deoarece piatra cubică umedă este alunecoasă pentru bicicliști. La prânz, muzeele oferă un refugiu uscat. După-amiaza, mersul pe bicicletă necesită haine impermeabile. Încheiați turul la lacul de acumulare, unde atmosfera cețoasă este uimitoare, dar incontestabil de umedă.",
+            "en": "Start carefully, as wet cobblestones are extremely slippery for cyclists. By noon, indoor museums provide a much-needed dry refuge. In the afternoon, cycling requires high-quality waterproof gear and caution. End your evening ride at the reservoir, where the moody, misty atmosphere is stunning but undeniably damp."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "hu": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "ro": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "en": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie Ihre nasse Fahrt mit einer trockenen Tour durch das Museum und bereiten Sie Ihre Regenkleidung vor, bevor Sie die rutschigen Radwege bezwingen.",
+                "hu": "Kezdje a nedves túrát egy teljesen száraz beltéri múzeumi sétával, és igazítsa meg az esőruházatát, mielőtt nekivágna a csúszós kerékpárutaknak.",
+                "ro": "Începeți călătoria umedă cu un tur interior în muzeu și pregătiți-vă echipamentul de ploaie înainte de a înfrunta pistele de biciclete alunecoase.",
+                "en": "Start your wet ride with an indoor archaeological tour to stay completely dry, preparing your rain gear before braving the slippery cycling paths ahead."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Arte Sacra",
+                "hu": "Museu de Arte Sacra",
+                "ro": "Museu de Arte Sacra",
+                "en": "Museu de Arte Sacra"
+              },
+              "tip_5lang": {
+                "de": "Ein weiterer großartiger Unterstand; parken Sie Ihr Fahrrad sicher und schütteln Sie den Regen ab, während Sie die faszinierenden religiösen Exponate bewundern.",
+                "hu": "Újabb nagyszerű fedett menedék; parkolja le biztonságosan a kerékpárt, rázza le magáról az esőt, és csodálja meg a lenyűgöző vallási kiállításokat.",
+                "ro": "Un alt adăpost excelent; parcați bicicleta în siguranță și scuturați-vă de ploaie în timp ce admirați exponatele religioase fascinante din interior.",
+                "en": "Another great indoor shelter; park your bike safely and thoroughly shake off the rain while admiring the fascinating religious exhibits inside the gallery."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Museu Martim Gonçalves de Macedo",
+                "hu": "Municipal Museu Martim Gonçalves de Macedo",
+                "ro": "Municipal Museu Martim Gonçalves de Macedo",
+                "en": "Municipal Museu Martim Gonçalves de Macedo"
+              },
+              "tip_5lang": {
+                "de": "Dieses trockene Museum bietet eine Pause vom Regen; stellen Sie sicher, dass Ihre Taschen wasserdicht sind, bevor Sie Ihre Fahrt draußen fortsetzen.",
+                "hu": "Ez a száraz múzeum fantasztikus szünetet nyújt az esőzésben; ellenőrizze, hogy a kerékpáros táskái vízállóak-e a következő nyitott szakasz előtt.",
+                "ro": "Acest muzeu uscat oferă o pauză de la ploaie; asigurați-vă că bagajele bicicletei sunt impermeabile înainte de a continua călătoria prin oraș.",
+                "en": "This completely dry museum offers a fantastic break from the rain; make sure your bike bags are waterproofly sealed for the next outdoor leg of your trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho",
+                "hu": "Pelourinho",
+                "ro": "Pelourinho",
+                "en": "Pelourinho"
+              },
+              "tip_5lang": {
+                "de": "Bremsen Sie vorsichtig auf den nassen Steinen rund um dieses historische Monument und machen Sie ein schnelles Foto unter dem dramatisch dunklen Himmel.",
+                "hu": "Fékezzen nagyon óvatosan a nedves macskaköveken a történelmi emlékmű körül, és készítsen egy gyors fényképet a drámaian borús, sötét égbolt alatt.",
+                "ro": "Frânați cu mare grijă pe pietrele umede din jurul acestui monument istoric, făcând o fotografie rapidă sub cerul dramatic și întunecat de deasupra.",
+                "en": "Carefully apply your brakes on the wet cobblestones around this monument, taking a very quick photo under the dramatically gloomy and dark rain clouds."
+              }
+            },
+            {
+              "name": {
+                "de": "Barragem da Carvalheira",
+                "hu": "Barragem da Carvalheira",
+                "ro": "Barragem da Carvalheira",
+                "en": "Barragem da Carvalheira"
+              },
+              "tip_5lang": {
+                "de": "Die Wege am Stausee sind schlammig und rutschig; tragen Sie einen guten Regenmantel und genießen Sie die neblige, kühle Atmosphäre direkt am Wasser.",
+                "hu": "A víztározó körüli utak sarasak és nagyon csúszósak; viseljen jó esőkabátot, és élvezze a párás, hűvös, misztikus hangulatot közvetlenül a vízparton.",
+                "ro": "Potecile de la lac sunt noroioase și alunecoase; purtați o pelerină bună și bucurați-vă de atmosfera cețoasă și răcoroasă chiar lângă apă.",
+                "en": "The reservoir paths are muddy and quite slippery; wear a sturdy raincoat and safely enjoy the moody, misty, and cool atmosphere directly over the water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihre kühle Radtour dick eingepackt gegen den morgendlichen Wind. Mittagsstopps in beheizten Museen sind perfekt, um Körperwärme zu tanken. Nachmittags benötigen Sie zusätzliche Thermoschichten, wenn die Temperatur schnell fällt. Beenden Sie Ihre Fahrt am Stausee pünktlich zum wunderschönen, aber eiskalten frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "Kezdje a hűvös kerékpártúrát vastagon beöltözve a reggeli szél ellen. A déli megállók a fűtött múzeumokban tökéletesek a testhőmérséklet helyreállítására. Délután extra termo rétegekre lesz szükség, ahogy a hőmérséklet csökken. Zárja a tekerést a víztározónál pont a gyönyörű, de jéghideg, korai, 17:00 órás naplemente idején.",
+            "ro": "Începeți plimbarea rece cu bicicleta bine înfofoliți împotriva vântului de dimineață. Opririle de la prânz în muzee încălzite sunt perfecte pentru a vă restabili temperatura. După-amiaza aveți nevoie de straturi termice suplimentare. Încheiați la lac la timp pentru apusul frumos, dar înghețat, de la ora 17:00.",
+            "en": "Begin your chilly winter ride bundled up securely against the cold morning wind. Midday stops at heated museums are perfect for restoring your body heat. In the afternoon, wrap up with extra thermal layers as the temperature drops. Conclude your ride by the reservoir just in time for the beautiful, but freezing, early 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "hu": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "ro": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "en": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Muskeln in diesem Museum auf, bevor Sie dem eiskalten Winterwind auf Ihrem Fahrrad durch die stillen Straßen der Stadt trotzen.",
+                "hu": "Melegítse be izmait ebben a kellemes múzeumban, mielőtt dacolna a jéghideg téli széllel a kerékpárján, a város csendes utcáin haladva.",
+                "ro": "Încălziți-vă mușchii în interiorul acestui muzeu înainte de a înfrunta vântul înghețat de iarnă pe bicicletă prin străzile liniștite ale orașului.",
+                "en": "Warm up your cycling muscles safely inside this museum before properly facing the crisp and freezing winter wind on your bicycle out on the streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu de Arte Sacra",
+                "hu": "Museu de Arte Sacra",
+                "ro": "Museu de Arte Sacra",
+                "en": "Museu de Arte Sacra"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Halt, um Ihre Körperwärme wiederherzustellen; genießen Sie die Kunstwerke, bevor Sie Ihre kühle Winterfahrt im Freien fortsetzen.",
+                "hu": "Kényelmes, fűtött megálló a testhőmérséklet helyreállítására; élvezze a műalkotásokat, mielőtt folytatná a meglehetősen hűvös téli utazást.",
+                "ro": "O oprire confortabilă pentru a vă restabili căldura corpului; bucurați-vă de operele de artă înainte de a continua plimbarea rece de iarnă.",
+                "en": "A wonderfully cozy stop to completely restore your body heat; enjoy the sacred art before continuing your increasingly chilly winter bicycle ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Museu Martim Gonçalves de Macedo",
+                "hu": "Municipal Museu Martim Gonçalves de Macedo",
+                "ro": "Municipal Museu Martim Gonçalves de Macedo",
+                "en": "Municipal Museu Martim Gonçalves de Macedo"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie etwas mehr Zeit im beheizten Inneren dieses Museums, um während des immer kälter werdenden Nachmittags absolut komfortabel zu bleiben.",
+                "hu": "Töltsön el egy kis extra időt a múzeum fűtött belső terében, hogy az egyre hidegebbé váló délután során is maximálisan kényelmesen érezze magát.",
+                "ro": "Petreceți timp suplimentar în interiorul încălzit al acestui muzeu istoric pentru a rămâne confortabil în timpul după-amiezii din ce în ce mai reci.",
+                "en": "Spend a little extra time in the comfortably heated interior of this history museum to stay thoroughly warm during the rapidly cooling winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho",
+                "hu": "Pelourinho",
+                "ro": "Pelourinho",
+                "en": "Pelourinho"
+              },
+              "tip_5lang": {
+                "de": "Der Wind kann an diesem offenen Platz scharf sein; machen Sie einen schnellen Schnappschuss und fahren Sie zügig weiter, um nicht auszukühlen.",
+                "hu": "A szél rendkívül metsző lehet ezen a nyitott téren; készítsen egy gyors fotót, és azonnal tekerjen tovább, hogy melegen tartsa az izmait.",
+                "ro": "Vântul poate fi foarte aspru în această piață deschisă; faceți o fotografie rapidă și continuați să pedalați rapid pentru a vă menține cald.",
+                "en": "The harsh wind can be incredibly sharp around this completely open square; take a quick snapshot and keep moving swiftly to maintain your body heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Barragem da Carvalheira",
+                "hu": "Barragem da Carvalheira",
+                "ro": "Barragem da Carvalheira",
+                "en": "Barragem da Carvalheira"
+              },
+              "tip_5lang": {
+                "de": "Atemberaubende Sonnenuntergänge erwarten Sie um 17:00 Uhr, aber die Brise am See ist eiskalt, also tragen Sie unbedingt sehr dicke Fahrradhandschuhe.",
+                "hu": "Lélegzetelállító naplemente várja 17:00 órakor, de a tóparti szellő fagyos, ezért feltétlenül viseljen nagyon vastag, bélelt kerékpáros kesztyűt.",
+                "ro": "Apusuri uimitoare vă așteaptă la 17:00, dar briza lacului este pur și simplu înghețată, așa că purtați neapărat mănuși groase de ciclism.",
+                "en": "Breathtaking winter sunset views vividly await at 17:00, but the lakeside breeze is utterly freezing, so absolutely ensure you wear thick cycling gloves."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autós kirándulásunkat a városi Régészeti Múzeumnál kezdjük, ahol mélyebb bepillantást nyerünk a múltba. Egy rövid vezetés után a Martim Gonçalves Múzeum kiállításait fedezzük fel.\n\nDélben elhagyjuk a központot, és a történelmi Pelourinho emlékműhöz hajtunk. Az autó segítségével könnyedén áthidaljuk a távolságokat, így több idő marad a város nevezetességeire.\n\nA délután a természet hívószaváé. A Barragem da Carvalheira víztározóhoz utazunk, amelynek nyugodt környezete kellemes kontrasztot nyújt a városi építészettel szemben.\n\nAz estét a lenyűgöző Albufeira do Azibo partjainál töltjük. Ez a gyönyörű természetvédelmi terület a tökéletes helyszín a nap lezárására és a madárvilág megfigyelésére.",
         "ro": "Începem excursia noastră cu mașina la Muzeul Municipal de Arheologie, unde obținem o perspectivă profundă asupra trecutului. O scurtă plimbare ne duce apoi la Muzeul Martim Gonçalves.\n\nLa prânz, părăsim centrul și conducem către istoricul Pelourinho. Cu mașina, acoperim fără efort distanțele și avem mai mult timp la dispoziție pentru a admira reperele orașului.\n\nDupă-amiaza ne atrage în marea natură. Conducem la Barragem da Carvalheira, un baraj liniștit care oferă o schimbare binevenită față de arhitectura strict urbană explorată anterior.\n\nNe petrecem seara la spectaculosul Albufeira do Azibo. Această zonă naturală magnifică este locul perfect pentru a încheia ziua într-un mod relaxat și pentru a observa păsările.",
         "en": "We start our driving tour at the Municipal Museum of Archaeology, gaining deep insights into the region's ancient past. A brief drive then takes us to the Martim Gonçalves Museum.\n\nAt midday, we leave the immediate center and drive to the historic Pelourinho. Traveling by car effortlessly bridges the distances, giving us more time to appreciate the town's key landmarks.\n\nThe afternoon draws us out into sweeping nature. We drive to the Barragem da Carvalheira, a tranquil reservoir that offers a very welcome contrast to the urban architecture we explored earlier.\n\nWe spend our evening at the spectacular Albufeira do Azibo. This magnificent natural protected area is the absolute perfect place to wind down the day and observe local birdlife."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen ist ideal, um bequem zwischen überdachten Attraktionen zu fahren. Mittags können Sie direkt vom Auto in trockene Museen springen. Nachmittags erfordern nasse Landstraßen vorsichtiges Fahren, aber das Auto hält Sie warm. Beenden Sie den Abend am See und genießen Sie die dramatischen Sturmwolken sicher von Ihrem Sitz aus.",
+            "hu": "Az esős reggel ideális a fedett látványosságok közötti kényelmes autózáshoz. Délben közvetlenül a kocsiból ugorhat be a száraz múzeumokba. Délután a nedves vidéki utak óvatos vezetést igényelnek, de az autó melegen tartja. Zárja az estét a tónál, ahonnan az ülésből csodálhatja a drámai viharfelhőket.",
+            "ro": "O dimineață ploioasă este ideală pentru a conduce între atracții acoperite. La prânz, puteți sări ușor din mașină în muzeele uscate. După-amiaza, drumurile rurale umede necesită o conducere atentă. Încheiați seara la lac, bucurându-vă de norii dramatici de furtună direct de pe scaunul confortabil.",
+            "en": "A rainy morning is absolutely perfect for driving between covered attractions. By midday, you can easily hop right from your car into completely dry local museums. In the afternoon, wet rural roads require very careful driving. Finish the evening by the lake, enjoying the dramatic storm clouds safely from your warm seat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "hu": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "ro": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "en": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie ganz nah am Eingang, um den Regen zu vermeiden; dieses Museum ist ein fantastischer, trockener Start für Ihre gemütliche Autotour.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje a heves esőt; ez a beltéri múzeum fantasztikus és száraz kezdete az autós túrának.",
+                "ro": "Parcați foarte aproape de intrare pentru a evita ploaia; acest muzeu este un început fantastic și complet uscat pentru turul dumneavoastră auto.",
+                "en": "Park your vehicle as close to the entrance as possible to firmly avoid the rain; this indoor museum is a fantastic, completely dry start to your driving tour."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Museu Martim Gonçalves de Macedo",
+                "hu": "Municipal Museu Martim Gonçalves de Macedo",
+                "ro": "Municipal Museu Martim Gonçalves de Macedo",
+                "en": "Municipal Museu Martim Gonçalves de Macedo"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Ihren Regenschirm für den kurzen Weg vom Auto bereit; verbringen Sie dann ausreichend Zeit trocken in dieser historischen Ausstellung.",
+                "hu": "Tartsa kéznél az esernyőjét az autótól vezető rövid sétához; majd töltsön el elegendő időt teljesen szárazon ebben a történelmi kiállításban.",
+                "ro": "Păstrați umbrela la îndemână pentru scurta plimbare de la mașină; apoi petreceți timp suficient în condiții uscate în această expoziție istorică.",
+                "en": "Keep your umbrella very handy for the short, wet walk from the car; then happily spend ample time completely dry inside this grand historical exhibition."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho",
+                "hu": "Pelourinho",
+                "ro": "Pelourinho",
+                "en": "Pelourinho"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie das Autofenster für einen Blick auf das Denkmal hinunter, da die umliegenden Steine bei starkem Regen extrem rutschig werden können.",
+                "hu": "Húzza le az autó ablakát, hogy biztonságosan megnézze az emlékművet, mivel a környező kövek a heves esőzésben rendkívül csúszóssá válhatnak.",
+                "ro": "Deschideți geamul mașinii pentru o scurtă privire la acest monument, deoarece pietrele din jur devin extrem de alunecoase pe vreme ploioasă.",
+                "en": "Simply roll down the car window for a safe, quick look at this historic monument, as the surrounding cobblestones get extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Barragem da Carvalheira",
+                "hu": "Barragem da Carvalheira",
+                "ro": "Barragem da Carvalheira",
+                "en": "Barragem da Carvalheira"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Straßen; der Blick auf den fallenden Regen über dem massiven Staudamm ist vom Auto aus dramatisch und fotogen.",
+                "hu": "Vezessen nagyon óvatosan a nedves vidéki utakon; a hatalmas gát felett zuhogó eső látványa egyenesen az autóból rendkívül drámai és fotogén.",
+                "ro": "Conduceți cu mare grijă pe drumurile umede; priveliștea ploii căzând peste barajul masiv este foarte dramatică și fotogenică din interiorul mașinii.",
+                "en": "Drive very carefully on the wet rural roads; the view of the heavy rain falling over the massive dam is quite dramatic and safely photogenic from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira do Azibo",
+                "hu": "Albufeira do Azibo",
+                "ro": "Albufeira do Azibo",
+                "en": "Albufeira do Azibo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie den stürmischen, regengepeitschten See direkt aus dem Komfort Ihres Autos und beenden Sie so Ihre nasse Reise gemütlich im Trockenen.",
+                "hu": "Csodálja meg a viharos, eső áztatta tavat közvetlenül az autója kényelméből, ami igazán meghitt, száraz lezárást ad ennek a nedves utazásnak.",
+                "ro": "Admirați lacul furtunos și bătut de ploaie direct din confortul mașinii, aducând un sfârșit extrem de confortabil și uscat călătoriei dumneavoastră.",
+                "en": "Quietly admire the stormy, rain-swept lake directly from the warm comfort of your parked car, bringing a perfectly cozy and dry end to your wet journey."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie Ihren frostigen Morgen in einem beheizten Auto, was das kalte Wetter angenehm macht. Mittags besuchen Sie Museen, wo Sie Ihren Wintermantel ablegen können. Wenn der Nachmittag abkühlt, ist die Autoheizung Ihr bester Freund. Beenden Sie den Tag, indem Sie den Sonnenuntergang um 17:00 Uhr über dem eisigen See bequem von Ihrem Fahrzeug aus bewundern.",
+            "hu": "Kezdje a fagyos reggelt a fűtött autóban, ami könnyen elviselhetővé teszi a hideget. Délben látogasson el a múzeumokba, ahol leveheti a télikabátot. Ahogy a délután hűl, az autó fűtése a legjobb barátja lesz. Zárja a napot a jéghideg tó feletti, 17:00 órás naplemente megcsodálásával, a jármű kényelméből.",
+            "ro": "Începeți dimineața geroasă într-o mașină încălzită, făcând vremea rece ușor de gestionat. Prânzul aduce vizite la muzee unde vă puteți da jos haina. Pe măsură ce după-amiaza se răcește, căldura din mașină este cel mai bun prieten. Încheiați ziua admirând apusul de la 17:00 peste lacul înghețat, din mașină.",
+            "en": "Start your frosty morning in a fully heated car, making the freezing weather easily manageable. Noon brings visits to warm indoor museums where you can comfortably take off your heavy winter coat. As the afternoon cools, the car heater is your best friend. Finish the day admiring the 17:00 sunset over the icy lake from your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "hu": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "ro": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+                "en": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo"
+              },
+              "tip_5lang": {
+                "de": "Verlassen Sie die wohlige Wärme Ihres Autos für dieses faszinierende Museum, ein perfekt gemütlicher Start in einen bitterkalten Wintermorgen.",
+                "hu": "Hagyja el autója kellemes melegét ezért a lenyűgöző beltéri múzeumért, amely tökéletesen hangulatos kezdete egy igazán fagyos téli reggelnek.",
+                "ro": "Părăsiți căldura mașinii pentru acest fascinant muzeu interior, un început perfect și absolut confortabil pentru o dimineață rece de iarnă.",
+                "en": "Briefly leave the wonderful warmth of your car for this fascinating indoor museum, providing a perfectly cozy start to a bitterly cold winter morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipal Museu Martim Gonçalves de Macedo",
+                "hu": "Municipal Museu Martim Gonçalves de Macedo",
+                "ro": "Municipal Museu Martim Gonçalves de Macedo",
+                "en": "Municipal Museu Martim Gonçalves de Macedo"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in diesem lokalen Museum gründlich auf; die gut beheizten Räume bieten eine willkommene Pause von der frostigen Außenluft.",
+                "hu": "Melegedjen fel alaposan ebben a helyi múzeumban; a kiválóan fűtött termek nagyszerű, pihentető menedéket nyújtanak a kinti fagyos, csípős levegő elől.",
+                "ro": "Încălziți-vă bine în acest muzeu local; camerele excelent încălzite oferă un răgaz fantastic din calea aerului înghețat de afară.",
+                "en": "Warm yourself up thoroughly inside this comprehensive local museum; the well-heated rooms confidently offer a great respite from the freezing outdoor air."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho",
+                "hu": "Pelourinho",
+                "ro": "Pelourinho",
+                "en": "Pelourinho"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie kurz in die klare Winterluft hinaus, um die Steinsäule zu bewundern, und kehren Sie dann ganz schnell in Ihr gut beheiztes Fahrzeug zurück.",
+                "hu": "Lépjen ki egy rövid pillanatra a ropogós téli levegőre, csodálja meg az oszlopot, majd térjen vissza sietve a kiválóan fűtött járművébe.",
+                "ro": "Ieșiți scurt în aerul rece de iarnă pentru a admira stâlpul de piatră, apoi întoarceți-vă extrem de rapid la vehiculul dumneavoastră bine încălzit.",
+                "en": "Step out very briefly into the crisp winter air to properly admire the stone pillar, then quickly return to the absolute comfort of your heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Barragem da Carvalheira",
+                "hu": "Barragem da Carvalheira",
+                "ro": "Barragem da Carvalheira",
+                "en": "Barragem da Carvalheira"
+              },
+              "tip_5lang": {
+                "de": "Der Stausee sieht im winterlichen Licht atemberaubend aus; achten Sie jedoch unbedingt auf tückische Eisflächen, wenn der späte Nachmittag stark abkühlt.",
+                "hu": "A víztározó lenyűgözően fest az éles téli fényben; de feltétlenül ügyeljen a veszélyes jégfoltokra az utakon, ahogy a késő délután drasztikusan lehűl.",
+                "ro": "Lacul arată absolut uimitor în lumina iernii; cu toate acestea, fiți foarte atenți la peticele de gheață periculoase pe măsură ce după-amiaza se răcește.",
+                "en": "The reservoir looks truly stunning in the harsh winter light; however, rigidly beware of dangerous icy patches on the roads as the late afternoon swiftly cools down."
+              }
+            },
+            {
+              "name": {
+                "de": "Albufeira do Azibo",
+                "hu": "Albufeira do Azibo",
+                "ro": "Albufeira do Azibo",
+                "en": "Albufeira do Azibo"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang um 17:00 Uhr, der sich auf dem kalten Wasser spiegelt; lassen Sie die Autoheizung für maximalen Komfort laufen.",
+                "hu": "Kapja el a korai, 17:00 órás naplementét, amely gyönyörűen tükröződik a hideg tó vizén; járassa az autó fűtését a maximális kényelem és meleg érdekében.",
+                "ro": "Prindeți apusul devreme de la 17:00 reflectându-se pe apele reci ale lacului; lăsați căldura mașinii pornită pentru un confort termic absolut maxim.",
+                "en": "Safely catch the early 17:00 sunset beautifully reflecting off the freezing cold lake waters; simply keep the car heater running quietly for maximum cozy comfort."
+              }
+            }
+          ]
+        }
       }
     }
   }

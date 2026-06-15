@@ -137,6 +137,168 @@
         "hu": "A reggel az érintetlen Nai Harn strandon kezdődik, amely tökéletes bevezetést nyújt a déli part természeti szépségébe. Délben egy rövid séta elviszi a Windmill kilátóhoz, ahonnan pazar óceáni panoráma nyílik. A délután a lenyűgöző virágos tájakra és a színes zátonyok közötti víz alatti sznorkelezésre fókuszál. Végül a nap látványosan zárul a Phromthep-foknál, várva az ikonikus naplementét az Andamán-tenger horizontján.",
         "ro": "Dimineața începe la superba plajă Nai Harn, o introducere perfectă în frumusețea naturală a coastei sudice. La prânz, o scurtă plimbare vă duce la Windmill Viewpoint, oferind panorame ample ale oceanului. După-amiaza se concentrează pe peisajele florale vibrante și pe o aventură subacvatică cu snorkeling printre recifele colorate. În cele din urmă, ziua se încheie spectaculos la Capul Phromthep, așteptând apusul iconic deasupra orizontului Mării Andaman.",
         "en": "Your morning starts at the pristine Nai Harn Beach, offering a perfect introduction to the southern coast's natural beauty. By midday, a short walk brings you to the elevated heights of the Windmill Viewpoint, providing sweeping ocean panoramas. The afternoon focuses on vibrant floral scenery and an underwater snorkeling adventure among the colorful reefs. Finally, the day concludes spectacularly at Phromthep Cape, waiting for the iconic sunset to dip below the Andaman horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen am Nai Harn Beach mit einem guten Regenschirm, da das Meer stürmisch sein kann. Mittags bietet der Weg zum Windmill Viewpoint üppige, regennasse Natur, achten Sie auf rutschige Pfade. Nachmittags ist die Aussicht oft in dramatische Wolken gehüllt, ein Poncho ist Pflicht. Abends am Phromthep Cape können Regenschauer schnelle Unterschlupfsuche erfordern.",
+            "hu": "Kezdje a reggelt a Nai Harn strandon egy jó esernyővel, mert a tenger viharos lehet. Délben a Windmill kilátó felé vezető út eső áztatta természetet kínál, vigyázzon a csúszós ösvényeken! Délután a kilátást gyakran drámai felhők borítják, az esőköpeny kötelező. Este a Phromthep-foknál egy gyors zápor miatt érdemes a fák alatt menedéket keresni.",
+            "ro": "Începeți dimineața la plaja Nai Harn cu o umbrelă, deoarece marea poate fi agitată. La prânz, drumul spre punctul de belvedere Windmill oferă o natură luxuriantă sub ploaie, atenție la potecile alunecoase! După-amiaza priveliștea este adesea învăluită în nori dramatici. Seara, la Capul Phromthep, o aversă vă poate forța să căutați rapid un adăpost.",
+            "en": "Start your morning at Nai Harn Beach with a sturdy umbrella, as the sea can be rough. At noon, the walk to Windmill Viewpoint offers lush, rain-soaked nature, but watch out for slippery paths. By afternoon, the coastal views are often wrapped in dramatic clouds, making a poncho essential. In the evening at Phromthep Cape, sudden showers may require quick shelter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nai Harn Beach",
+                "hu": "Nai Harn strand",
+                "ro": "Plaja Nai Harn",
+                "en": "Nai Harn Beach"
+              },
+              "tip_5lang": {
+                "de": "Das stürmische Meer bietet ein dramatisches Fotomotiv, aber schwimmen Sie auf keinen Fall bei roter Flagge. Tragen Sie wasserfeste Schuhe für den Strand.",
+                "hu": "A viharos tenger drámai fotótémát kínál, de piros zászlónál soha ne fürödjön. Viseljen masszív, vízálló cipőt a parti sétához, hogy száraz maradjon.",
+                "ro": "Marea agitată oferă un cadru dramatic, dar nu înotați sub nicio formă dacă steagul roșu este arborat. Purtați încălțăminte impermeabilă pentru explorare.",
+                "en": "The stormy sea provides a dramatic photo opportunity, but never swim if red flags are up. Wear sturdy waterproof shoes to keep your feet dry while walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill Viewpoint",
+                "hu": "Windmill kilátó",
+                "ro": "Punctul de belvedere Windmill",
+                "en": "Windmill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist auch bei Regen beeindruckend, allerdings gibt es hier kaum Unterstände. Ein stabiler Regenschirm oder Poncho ist hier absolut Pflicht.",
+                "hu": "A tengeri kilátás esőben is lenyűgöző, bár itt alig találni menedéket a záporok elől. Egy strapabíró esernyő vagy esőkabát mindenképpen kötelező viselet.",
+                "ro": "Priveliștea rămâne impresionantă și pe ploaie, deși nu prea există adăposturi aici. O pelerină de ploaie sau o umbrelă robustă este absolut necesară.",
+                "en": "The ocean view is impressive even in the rain, though there are very few shelters available here. A sturdy umbrella or a quality raincoat is an absolute must."
+              }
+            },
+            {
+              "name": {
+                "de": "Nai Harn und Windmill Viewpoint zwischen Blumen",
+                "hu": "Nai Harn és Windmill kilátó virágok között",
+                "ro": "Nai Harn și Windmill Viewpoint printre flori",
+                "en": "Nai Harn and Windmill Viewpoint among Flowers"
+              },
+              "tip_5lang": {
+                "de": "Die regennassen Blütenfarben leuchten intensiv, doch die schmalen Pfade können extrem rutschig sein. Gehen Sie sehr vorsichtig und tragen Sie Profilsohlen.",
+                "hu": "Az eső áztatta trópusi virágok színei intenzíven ragyognak, de a keskeny ösvények rendkívül csúszósak. Lépjen nagyon óvatosan, és viseljen csúszásgátló cipőt.",
+                "ro": "Culorile florilor ude strălucesc intens sub picături, dar potecile înguste pot fi extrem de alunecoase. Pășiți cu mare atenție și purtați tălpi aderente.",
+                "en": "The rain-soaked floral colors shine intensely, but the narrow dirt paths can become extremely slippery. Walk with great caution and wear shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Riff-Schnorchelplatz",
+                "hu": "Zátonyi sznorkelező hely",
+                "ro": "Punct de snorkeling la recif",
+                "en": "Reef Snorkelling Spot"
+              },
+              "tip_5lang": {
+                "de": "Bei Starkregen ist das Wasser oft trübe und der Wellengang gefährlich stark. Beobachten Sie das Riff lieber sicher und trocken vom nassen Ufer aus.",
+                "hu": "Heves esőben a tengervíz gyakran zavaros és a hullámzás erős. Inkább csak a nedves partról, biztonságos távolságból figyelje a zátonyt, ne menjen a vízbe.",
+                "ro": "Pe ploaie puternică, apa este adesea tulbure și valurile sunt periculoase. Observați reciful în siguranță doar de pe țărmul ud, fără a intra în mare.",
+                "en": "In heavy rain, the sea water is often cloudy with dangerously strong waves. It is much better to safely observe the reef from the wet shoreline instead."
+              }
+            },
+            {
+              "name": {
+                "de": "Phromthep Cape",
+                "hu": "Phromthep-fok",
+                "ro": "Capul Phromthep",
+                "en": "Phromthep Cape"
+              },
+              "tip_5lang": {
+                "de": "Die dunklen Gewitterwolken über dem Meer sind spektakulär. Suchen Sie bei Blitzschlag sofort das nahegelegene Restaurant mit festem Dach als Schutz auf.",
+                "hu": "A tenger feletti sötét viharfelhők lenyűgözően látványosak. Villámlás esetén azonnal keressen biztonságos menedéket a közeli, fedett tetővel rendelkező étteremben.",
+                "ro": "Norii întunecați de furtună deasupra mării sunt spectaculoși. În caz de fulgere, căutați imediat adăpost în restaurantul acoperit din imediata apropiere.",
+                "en": "The dark storm clouds gathering over the sea are truly spectacular. In case of lightning, immediately seek a safe shelter in the nearby covered restaurant."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Morgen am Nai Harn Beach ist angenehm kühl, perfekt für einen ausgedehnten Spaziergang ohne Hitze. Mittags bietet der Aufstieg zum Windmill Viewpoint klare Luft und hervorragende Fernsicht. Nachmittags leuchten die Blumen in den sanften Sonnenstrahlen besonders intensiv, packen Sie eine leichte Jacke ein. Abends am Phromthep Cape sollten Sie früh eintreffen, da die Sonne schon gegen 17:00 Uhr untergeht.",
+            "hu": "A reggel a Nai Harn strandon kellemesen hűvös, tökéletes egy hosszú sétára a hőség nélkül. Délben a Windmill kilátóhoz vezető út tiszta levegőt és kiváló látási viszonyokat kínál. Délután a virágok különösen élénken ragyognak a lágy napsütésben, vigyen magával egy vékony pulóvert. Este a Phromthep-foknál érdemes korán érkezni, mert a nap már 17:00 körül lenyugszik.",
+            "ro": "Dimineața la plaja Nai Harn este plăcut de răcoroasă, perfectă pentru o plimbare lungă fără zăpușeală. La prânz, urcarea spre punctul de belvedere Windmill oferă aer curat și vizibilitate excelentă. După-amiaza, florile strălucesc intens în lumina blândă a soarelui, luați o jachetă ușoară. Seara, la Capul Phromthep, sosiți devreme deoarece soarele apune în jur de ora 17:00.",
+            "en": "Morning at Nai Harn Beach is pleasantly cool, perfect for a long walk without the tropical heat. At noon, the climb to Windmill Viewpoint offers crisp air and excellent visibility. In the afternoon, the flowers shine brightly in the soft winter sun, so pack a light jacket. In the evening at Phromthep Cape, make sure to arrive early as the sun sets around 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Nai Harn Beach",
+                "hu": "Nai Harn strand",
+                "ro": "Plaja Nai Harn",
+                "en": "Nai Harn Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die milde Brise am Morgen. Das Wasser ist herrlich erfrischend, packen Sie jedoch eine leichte Jacke für den kühlen Winterwind ein.",
+                "hu": "Élvezze az enyhe reggeli szellőt. A víz csodálatosan frissítő, de a hűvös téli szél miatt érdemes egy vékony dzsekit is bekészíteni a hátizsákba.",
+                "ro": "Bucurați-vă de briza blândă a dimineții. Apa este minunat de revigorantă, dar luați o jachetă subțire pentru vântul rece de iarnă de pe coastă.",
+                "en": "Enjoy the mild morning breeze on the shore. The water is wonderfully refreshing, but pack a light jacket to protect against the cool winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill Viewpoint",
+                "hu": "Windmill kilátó",
+                "ro": "Punctul de belvedere Windmill",
+                "en": "Windmill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet die absolut beste Sicht bis zu den Nachbarinseln. Ein leichtes langärmliges Hemd schützt hervorragend vor kühlen Böen.",
+                "hu": "A tiszta téli levegő a legjobb kilátást nyújtja a szomszédos szigetekre. Egy hosszú ujjú ing nagyszerűen véd a dombtetőn fújó hűvös széllökések ellen.",
+                "ro": "Aerul curat de iarnă oferă cea mai bună vizibilitate spre insulele vecine. O cămașă ușoară cu mâneci lungi vă protejează de rafalele reci de pe deal.",
+                "en": "Crisp winter air offers the absolute best visibility of the neighboring islands. A light long-sleeved shirt protects well against cool coastal gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Nai Harn und Windmill Viewpoint zwischen Blumen",
+                "hu": "Nai Harn és Windmill kilátó virágok között",
+                "ro": "Nai Harn și Windmill Viewpoint printre flori",
+                "en": "Nai Harn and Windmill Viewpoint among Flowers"
+              },
+              "tip_5lang": {
+                "de": "Tropische Blüten halten sich in den kühleren Wintermonaten deutlich länger frisch. Tragen Sie geschlossene Schuhe, da der Boden morgens taufeucht ist.",
+                "hu": "A trópusi virágok a hűvösebb téli hónapokban sokkal tovább maradnak frissek. Viseljen zárt cipőt, mivel a talaj reggelente gyakran harmatos és hűvös.",
+                "ro": "Florile tropicale rămân proaspete mai mult timp în lunile mai reci de iarnă. Purtați pantofi închiși, deoarece pământul este adesea plin de rouă.",
+                "en": "Tropical blooms stay fresh noticeably longer in the cooler winter months. Wear closed shoes as the ground is often heavily dewy and cool in the mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Riff-Schnorchelplatz",
+                "hu": "Zátonyi sznorkelező hely",
+                "ro": "Punct de snorkeling la recif",
+                "en": "Reef Snorkelling Spot"
+              },
+              "tip_5lang": {
+                "de": "Das ruhige Wasser ist im Winter besonders klar für Schnorchler. Nach dem Schwimmen wärmt ein großes Handtuch schnell im frischen, kühlen Ozeanwind.",
+                "hu": "A nyugodt víz télen különösen tiszta a sznorkelezéshez. Úszás után egy vastag törölköző nagyon gyorsan felmelegít a friss, hűvös óceáni szélben.",
+                "ro": "Apa calmă este deosebit de limpede iarna pentru snorkeling. După înot, un prosop mare și gros vă încălzește rapid în vântul proaspăt al oceanului.",
+                "en": "The calm water is exceptionally clear for snorkeling during winter. After swimming, a large thick towel warms you up quickly in the fresh ocean breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Phromthep Cape",
+                "hu": "Phromthep-fok",
+                "ro": "Capul Phromthep",
+                "en": "Phromthep Cape"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang ist im Winter farbintensiv, findet aber schon früh um 17:00 Uhr statt. Nehmen Sie unbedingt eine warme Schicht für den Abend mit.",
+                "hu": "A naplemente télen elképesztően színpompás, de már korán, 17:00 órakor bekövetkezik. Vigyen magával egy extra meleg réteget a szeles, hűvös estére.",
+                "ro": "Apusul este intens colorat iarna, dar are loc devreme, în jur de ora 17:00. Luați neapărat cu dumneavoastră un strat cald de haine pentru seara rece.",
+                "en": "The sunset is intensely colored in winter but happens early around 17:00. Make sure to bring an extra warm layer for the increasingly breezy evening."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját a nyugodt reggeli hullámokkal a rejtett Laem Ka strandon. Délben a nyüzsgő Rawai móló mellett teker el, mielőtt elérné a Nai Harn strand makulátlan homokját egy pihentető szünetre. A délután egy enyhe emelkedőt tartogat a Windmill kilátóhoz, amely hűsítő szellővel és lélegzetelállító tengeri kilátással jutalmazza meg fáradozásait. Az este közeledtével a fenséges Phromthep-fokhoz kerekezik a lenyűgöző alkonyati látványosságért.",
         "ro": "Începeți călătoria pe bicicletă cu valurile liniștite de dimineață la ascunsa Laem Ka Strand. La prânz, veți pedala pe lângă animatul dig Rawai înainte de a ajunge la nisipurile imaculate ale plajei Nai Harn. După-amiaza implică o urcare ușoară către Windmill Viewpoint, răsplătindu-vă eforturile cu o briză răcoroasă și priveliști marine uluitoare. Seara se apropie în timp ce pedalați spre maiestuosul Cap Phromthep pentru spectacolul final al crepusculului.",
         "en": "Kick off your cycling journey with the calm morning waves at the hidden Laem Ka Strand. By midday, you'll pedal past the lively Rawai Pier before reaching the immaculate sands of Nai Harn Beach for a relaxing break. The afternoon involves a gentle climb up to the Windmill Viewpoint, rewarding your efforts with a cooling breeze and breathtaking sea vistas. Evening approaches as you cycle out to the majestic Phromthep Cape to witness the ultimate twilight spectacle."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen startet mit einer rutschigen Fahrt zum Laem Ka Strand, fahren Sie langsam! Mittags am Rawai Pier wehen Regenschauer über das Meer, ein Regencape ist ideal. Nachmittags zum Nai Harn Beach erfordern nasse Straßen erhöhte Bremsbereitschaft. Abends am Phromthep Cape parken Sie das Rad sicher und suchen Sie beim Gewitter sofort eine überdachte Bar auf.",
+            "hu": "A reggel csúszós kerékpározással indul a Laem Ka strandra, haladjon lassan! Délben a Rawai mólónál záporok söpörnek végig, az esőköpeny ideális. Délután a Nai Harn felé a vizes utak óvatos fékezést igényelnek. Este a Phromthep-foknál parkolja le a bringát, és vihar esetén azonnal keressen egy fedett bárt.",
+            "ro": "Dimineața începe cu un drum alunecos spre plaja Laem Ka, conduceți încet! La prânz, la digul Rawai, aversele mătură marea, o pelerină este ideală. După-amiaza spre Nai Harn, drumurile ude necesită frânare atentă. Seara, la Capul Phromthep, parcați bicicleta și căutați imediat un bar acoperit în caz de furtună.",
+            "en": "The morning starts with a slippery ride to Laem Ka Beach, pedal slowly! At noon by Rawai Pier, rain showers sweep across the sea, making a rain cape ideal. In the afternoon towards Nai Harn, wet roads require cautious braking. By evening at Phromthep Cape, park your bike safely and seek a covered bar if a storm hits."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Laem Ka Strand",
+                "hu": "Laem Ka strand",
+                "ro": "Plaja Laem Ka",
+                "en": "Laem Ka Strand"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist fest durch den starken Regen, gut zum Spazieren. Schützen Sie Ihren Fahrradsattel unbedingt mit einer robusten Plastiktüte vor Nässe.",
+                "hu": "Az eső miatt a homok szépen összeállt, így könnyű sétálni rajta. Védje a kerékpár nyergét egy vastag nejlonzacskóval az érkező hirtelen záporok ellen.",
+                "ro": "Nisipul este ferm din cauza ploii puternice, excelent pentru plimbări. Protejați neapărat șaua bicicletei cu o pungă de plastic rezistentă.",
+                "en": "The sand is firm from the heavy rain, making it ideal for walking. Always protect your bicycle saddle with a sturdy plastic bag against sudden showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Rawai Beach und Pier",
+                "hu": "Rawai strand és móló",
+                "ro": "Plaja și digul Rawai",
+                "en": "Rawai Beach and Pier"
+              },
+              "tip_5lang": {
+                "de": "Die Fischerboote schaukeln dramatisch im Regen. Das betonierte Pier ist bei Nässe extrem rutschig, steigen Sie ab und schieben Sie Ihr Fahrrad lieber.",
+                "hu": "A halászhajók drámaian ringatóznak az esőben. A betonozott móló nedvesen rendkívül csúszós, sokkal biztonságosabb, ha ezen a szakaszon tolja a kerékpárt.",
+                "ro": "Bărcile de pescari se leagănă dramatic în ploaie. Digul betonat este extrem de alunecos când este ud, mai bine descălecați și împingeți bicicleta.",
+                "en": "The fishing boats rock dramatically in the rain. The concrete pier is extremely slippery when wet, so it's much safer to dismount and walk your bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Nai Harn Beach",
+                "hu": "Nai Harn strand",
+                "ro": "Plaja Nai Harn",
+                "en": "Nai Harn Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den Bäumen bei starken Monsunschauern. Fahren Sie langsam, da große Pfützen auf der Straße tiefe Schlaglöcher verdecken können.",
+                "hu": "Keressen menedéket a vastag fák alatt erős monszunzáporkor. Vezessen nagyon lassan, mert a hatalmas tócsák az úton mély és veszélyes kátyúkat takarhatnak.",
+                "ro": "Căutați adăpost sub copaci în timpul averselor musonice puternice. Conduceți încet, deoarece bălțile mari de pe drum pot ascunde gropi adânci.",
+                "en": "Seek shelter under the large trees during heavy monsoon downpours. Ride slowly, as large puddles on the coastal road can easily hide deep potholes."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill Viewpoint",
+                "hu": "Windmill kilátó",
+                "ro": "Punctul de belvedere Windmill",
+                "en": "Windmill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Graue Regenwolken bieten einen starken Kontrast zum Hügel. Fahrradbremsen können bei Nässe stark nachlassen, testen Sie diese vor der steilen Abfahrt.",
+                "hu": "A szürke esőfelhők erős kontrasztot alkotnak a zöld dombbal. A fékek nedvesen jelentősen veszíthetnek erejükből, a meredek lejtő előtt tesztelje őket.",
+                "ro": "Norii gri de ploaie oferă un contrast puternic cu dealul verde. Frânele pot ceda semnificativ când sunt ude, testați-le înainte de coborârea abruptă.",
+                "en": "Grey rain clouds offer a stark contrast to the green hill. Bicycle brakes can lose serious effectiveness when wet, so test them before the steep descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Phromthep Cape",
+                "hu": "Phromthep-fok",
+                "ro": "Capul Phromthep",
+                "en": "Phromthep Cape"
+              },
+              "tip_5lang": {
+                "de": "Dunkle Regenfronten über dem Ozean sind ein faszinierender Anblick. Tragen Sie auffällige und reflektierende Regenkleidung für eine sichere Rückfahrt.",
+                "hu": "Az óceán feletti sötét esőfrontok lenyűgöző látványt nyújtanak. Viseljen feltűnő, fényvisszaverő esőruházatot a biztonságos sötétedés utáni hazaúthoz.",
+                "ro": "Fronturile întunecate de ploaie peste ocean sunt o priveliște fascinantă. Purtați haine de ploaie vizibile și reflectorizante pentru o întoarcere sigură.",
+                "en": "Dark rain fronts sweeping over the ocean are a fascinating sight. Wear high-visibility, reflective rain gear to ensure a safe ride back in the rainy dusk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine kühle Morgenbrise begleitet Ihre Radtour zum Laem Ka Strand, perfekt für Anstiege. Mittags am Rawai Pier ist das Licht ideal für Fotos ohne Hitzeflimmern. Nachmittags radeln Sie angenehm temperiert zum Nai Harn Beach, eine leichte Windjacke ist empfehlenswert. Abends am Phromthep Cape sollten Sie vor 17:00 Uhr ankommen, da die Sonne früh untergeht.",
+            "hu": "Hűvös reggeli szellő kíséri a Laem Ka strandhoz vezető utat, tökéletes az emelkedőkhöz. Délben a Rawai mólónál a fény ideális fotózáshoz, hőhullámok nélkül. Délután kellemes hőmérsékletben tekerhet a Nai Harn felé, egy szélkabát ajánlott. Este a Phromthep-fokhoz 17:00 előtt érkezzen meg az éles korai sötétedés miatt.",
+            "ro": "O briză răcoroasă vă însoțește pe bicicletă spre plaja Laem Ka, perfectă pentru urcări. La prânz, la digul Rawai, lumina este ideală pentru fotografii fără caniculă. După-amiaza pedalați la o temperatură plăcută spre Nai Harn, se recomandă o jachetă. Seara sosiți la Capul Phromthep înainte de ora 17:00 din cauza întunericului.",
+            "en": "A cool morning breeze accompanies your ride to Laem Ka Beach, perfect for the inclines. At noon by Rawai Pier, the crisp light is ideal for photos without heat haze. In the afternoon, pedal comfortably to Nai Harn Beach, though a windbreaker is recommended. In the evening at Phromthep Cape, arrive before 17:00 before early darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Laem Ka Strand",
+                "hu": "Laem Ka strand",
+                "ro": "Plaja Laem Ka",
+                "en": "Laem Ka Strand"
+              },
+              "tip_5lang": {
+                "de": "Das kühle Ozeanwasser lädt zur Erfrischung nach der anstrengenden Radtour ein. Nehmen Sie ein trockenes Wechselshirt für den zugigen Rückweg mit.",
+                "hu": "A hűvös óceánvíz tökéletes felfrissülést kínál a kerékpározás után. Vigyen magával egy száraz cserepólót a szelesebb visszaútra a megfázás elkerülésére.",
+                "ro": "Apa rece a oceanului vă invită la o răcorire după plimbarea obositoare cu bicicleta. Luați un tricou de schimb uscat pentru drumul de întoarcere bătut de vânt.",
+                "en": "The cool ocean water invites you for a quick dip after the strenuous ride. Bring a dry spare shirt to change into for the breezy, cool ride back."
+              }
+            },
+            {
+              "name": {
+                "de": "Rawai Beach und Pier",
+                "hu": "Rawai strand és móló",
+                "ro": "Plaja și digul Rawai",
+                "en": "Rawai Beach and Pier"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft lässt das Meer tiefblau leuchten. Tragen Sie beim Gehen über das lange Pier eine leichte Jacke, da der Seewind hier sehr stark zieht.",
+                "hu": "A tiszta téli levegőben a tenger csodás mélykék színben ragyog. Viseljen vékony dzsekit a hosszú mólón sétálva, mert a nyitott tengeri szél itt nagyon erős.",
+                "ro": "Aerul curat de iarnă face ca marea să strălucească într-un albastru profund. Purtați o jachetă ușoară pe digul lung, deoarece briza mării trage foarte tare aici.",
+                "en": "The crisp winter air makes the sea glow deep blue. Wear a light jacket when walking along the long open pier, as the sea breeze pulls very strongly here."
+              }
+            },
+            {
+              "name": {
+                "de": "Nai Harn Beach",
+                "hu": "Nai Harn strand",
+                "ro": "Plaja Nai Harn",
+                "en": "Nai Harn Beach"
+              },
+              "tip_5lang": {
+                "de": "Der feine Sand ist angenehm kühl und nicht brennend heiß. Packen Sie einen warmen Pullover in die Fahrradtasche, falls Sie nach dem Schwimmen frieren.",
+                "hu": "A finom homok kellemesen hűvös, egyáltalán nem égeti a talpat. Csomagoljon be egy meleg pulóvert a kerékpárostáskába, ha úszás után esetleg fázna a szélben.",
+                "ro": "Nisipul fin este plăcut de rece și nu arde la tălpi. Împachetați un pulover cald în geanta de bicicletă în caz că vă este frig după o baie în mare.",
+                "en": "The fine sand is pleasantly cool and definitely not scorching hot. Pack a warm sweater in your pannier just in case you feel chilly after a winter swim."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill Viewpoint",
+                "hu": "Windmill kilátó",
+                "ro": "Punctul de belvedere Windmill",
+                "en": "Windmill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Der stetige Winterwind ist absolut ideal, um die namensgebenden Windräder in Aktion zu sehen. Ein Windbreaker macht den Aufenthalt hier oben viel angenehmer.",
+                "hu": "Az állandó téli szél teljesen ideális, hogy a névadó szélturbinákat gyors mozgásban lássa. Egy széldzseki sokkal kellemesebbé teszi a dombtetőn való nézelődést.",
+                "ro": "Vântul constant de iarnă este absolut ideal pentru a vedea morile de vânt în acțiune. O jachetă de vânt face șederea aici sus mult mai confortabilă.",
+                "en": "The steady winter wind is absolutely ideal for seeing the namesake windmills in action. A windbreaker makes staying up here to admire the view much more comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Phromthep Cape",
+                "hu": "Phromthep-fok",
+                "ro": "Capul Phromthep",
+                "en": "Phromthep Cape"
+              },
+              "tip_5lang": {
+                "de": "Ein spektakulärer Wintersonnenuntergang wartet, aber schon gegen 17:00 Uhr. Stellen Sie sicher, dass Ihr Fahrradlicht für die steile Rückfahrt funktioniert.",
+                "hu": "Látványos téli naplemente várja a fotósokat, de már 17:00 körül elkezdődik. Ellenőrizze, hogy a kerékpár lámpája tökéletesen működik-e a sötét lejtőkön.",
+                "ro": "Vă așteaptă un apus spectaculos de iarnă, dar deja în jur de ora 17:00. Asigurați-vă că lumina bicicletei funcționează pentru întoarcerea abruptă.",
+                "en": "A spectacular winter sunset awaits photographers, but it happens around 17:00. Ensure your bicycle lights are fully charged for the dark, steep ride back."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Induljon egy tengerparti autózásra, amely a Laem Ka strand elzárt reggeli varázsával kezdődik. Ahogy közeledik a dél, álljon meg röviden a Rawai strandon, majd telepedjen le a gyönyörű Nai Harn parton. A délután festői kilátókat és egy frissítő sznorkelezést hoz a közeli tiszta zátonyvizekben. Fejezze be autós túráját a Phromthep-foknál, és élvezze a felejthetetlen aranyórát, amint a nap a tengerbe süllyed.",
         "ro": "Porniți într-o plimbare pe coastă, începând cu farmecul matinal retras al plajei Laem Ka Strand. La prânz, opriți-vă scurt la Rawai Beach pentru o privire asupra bărcilor locale, înainte de a vă relaxa pe frumoasele țărmuri ale Nai Harn. După-amiaza aduce puncte de belvedere pitorești și o sesiune revigorantă de snorkeling în apele limpezi ale recifului. Încheiați turul la Capul Phromthep, bucurându-vă de o oră de aur de neuitat.",
         "en": "Embark on a coastal drive starting with the secluded morning charm of Laem Ka Strand. As midday rolls around, stop briefly at Rawai Beach for a glimpse of local boat life before settling down on the beautiful shores of Nai Harn. The afternoon brings scenic viewpoints and an invigorating snorkeling session in the clear reef waters nearby. Finish the driving tour at Phromthep Cape, enjoying an unforgettable golden hour as the sun sinks into the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen fahren Sie im trockenen Auto zum Laem Ka Strand, packen Sie dennoch den Regenschirm aus. Mittags bietet das Rawai Pier dramatische Wolken, die Sie sicher durch beschlagene Scheiben betrachten können. Nachmittags am Windmill Viewpoint ist die kurvige Straße oft rutschig, fahren Sie vorsichtig! Abends am Phromthep Cape können Sie den Regenschauer gemütlich vom Fahrersitz aus beobachten.",
+            "hu": "Reggel száraz autóval indul a Laem Ka strandra, de az esernyőt ne felejtse el elővenni. Délben a Rawai móló drámai felhőket kínál, amiket biztonságosan nézhet a párás ablakok mögül. Délután a Windmill kilátó kanyargós útja csúszós, vezessen óvatosan! Este a Phromthep-foknál a kényelmes vezetőülésből is megfigyelheti a lezúduló záport.",
+            "ro": "Dimineața conduceți uscat spre plaja Laem Ka, dar nu uitați umbrela. La prânz, digul Rawai oferă nori dramatici, admirați-i în siguranță din mașină. După-amiaza, drumul virajat spre punctul de belvedere Windmill este adesea alunecos, conduceți cu grijă! Seara, la Capul Phromthep, puteți urmări aversa confortabil de pe scaunul șoferului.",
+            "en": "In the morning, you drive dryly to Laem Ka Beach, but don't forget your umbrella. At noon, Rawai Pier offers dramatic clouds that you can safely watch through foggy windows. By afternoon, the winding road to Windmill Viewpoint is often slippery, so drive carefully! In the evening at Phromthep Cape, watch the downpour comfortably from your driver's seat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Laem Ka Strand",
+                "hu": "Laem Ka strand",
+                "ro": "Plaja Laem Ka",
+                "en": "Laem Ka Strand"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie kurze Regenpausen für einen schnellen Strandbesuch. Nehmen Sie zusätzliche Handtücher mit ins Auto, um nasse Sitze bei der Weiterfahrt zu vermeiden.",
+                "hu": "Használja ki a rövid esőszüneteket egy gyors tengerparti sétára. Vigyen plusz törölközőket az autóba, hogy megelőzze a nedves, kényelmetlen üléseket.",
+                "ro": "Folosiți pauzele scurte de ploaie pentru o vizită rapidă la plajă. Luați prosoape suplimentare în mașină pentru a evita scaunele umede la drumul următor.",
+                "en": "Take full advantage of brief breaks in the rain for a quick beach stroll. Bring extra towels into the car to avoid soaking your seats before driving on."
+              }
+            },
+            {
+              "name": {
+                "de": "Rawai Beach und Pier",
+                "hu": "Rawai strand és móló",
+                "ro": "Plaja și digul Rawai",
+                "en": "Rawai Beach and Pier"
+              },
+              "tip_5lang": {
+                "de": "Die vielen überdachten Fischrestaurants bieten tollen Schutz vor Platzregen. Das Ein- und Ausparken erfordert bei Nässe und beschlagenen Scheiben gute Sicht.",
+                "hu": "A számos fedett halétterem remek menedéket nyújt a hirtelen felhőszakadások elől. A szűk helyeken történő parkolás esős, párás időben fokozott figyelmet igényel.",
+                "ro": "Numeroasele restaurante de pește acoperite oferă protecție excelentă împotriva averselor. Parcarea necesită o vizibilitate bună pe vreme umedă și geamuri aburite.",
+                "en": "The many covered seafood restaurants offer great shelter from sudden downpours. Parking in tight spots during wet and foggy conditions requires extra caution."
+              }
+            },
+            {
+              "name": {
+                "de": "Nai Harn Beach",
+                "hu": "Nai Harn strand",
+                "ro": "Plaja Nai Harn",
+                "en": "Nai Harn Beach"
+              },
+              "tip_5lang": {
+                "de": "Schwimmen ist bei starkem Monsunregen gefährlich, bewundern Sie die großen Wellen lieber vom sicheren Auto aus. Schalten Sie unbedingt die Nebelscheinwerfer ein.",
+                "hu": "Úszni erős monszunesőben életveszélyes, inkább a biztonságos autóból csodálja a hatalmas hullámokat. Használja a ködlámpát a heves tengerparti záporokban.",
+                "ro": "Înotul pe timp de ploaie musonică puternică este periculos, mai bine admirați valurile mari din siguranța mașinii. Porniți neapărat farurile de ceață.",
+                "en": "Swimming is highly dangerous during heavy monsoon rains; better to admire the huge waves from your safe car. Use your fog lights during coastal downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill Viewpoint",
+                "hu": "Windmill kilátó",
+                "ro": "Punctul de belvedere Windmill",
+                "en": "Windmill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei Starkregen im trockenen Fahrzeug sitzen und genießen Sie das Naturschauspiel. Der Erdparkplatz kann extrem rutschig und tief matschig werden.",
+                "hu": "Maradjon a száraz járműben heves esőzés esetén, és kényelmesen élvezze a természet játékát. A földes parkoló rendkívül csúszós és mélyen sáros lehet ilyenkor.",
+                "ro": "Rămâneți în vehiculul uscat în timpul ploilor torențiale și bucurați-vă de spectacolul naturii. Parcarea de pământ poate deveni extrem de alunecoasă și noroioasă.",
+                "en": "Stay comfortably inside your dry vehicle during heavy rain and enjoy the natural spectacle. The dirt parking area can become extremely slippery and deeply muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Riff-Schnorchelplatz",
+                "hu": "Zátonyi sznorkelező hely",
+                "ro": "Punct de snorkeling la recif",
+                "en": "Reef Snorkelling Spot"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei aufziehendem Gewitter sofort Ihr Auto auf. Trübes, aufgewühltes Regenwasser macht das sichere Schnorcheln heute leider völlig unmöglich.",
+                "hu": "Közelgő vihar és villámlás esetén azonnal térjen vissza az autójához. A felkavart, zavaros esővíz ma sajnos teljesen lehetetlenné teszi a biztonságos sznorkelezést.",
+                "ro": "Căutați imediat mașina dacă se apropie o furtună cu fulgere. Apa de ploaie tulbure și agitată face snorkeling-ul sigur complet imposibil astăzi din păcate.",
+                "en": "Return to your car immediately if a thunderstorm approaches. Churned up, murky rainwater unfortunately makes safe snorkeling completely impossible today."
+              }
+            },
+            {
+              "name": {
+                "de": "Phromthep Cape",
+                "hu": "Phromthep-fok",
+                "ro": "Capul Phromthep",
+                "en": "Phromthep Cape"
+              },
+              "tip_5lang": {
+                "de": "Der Regen taucht das Kap in eine mystische, fotogene Stimmung. Packen Sie einen großen Regenschirm ein, um vom großen Parkplatz trocken zum Aussichtsdeck zu gelangen.",
+                "hu": "A szitáló eső misztikus, fotogén hangulatba öltözteti a fokot. Vigyen magával egy nagy esernyőt, hogy szárazon jusson el a hatalmas parkolóból a nyitott kilátóteraszig.",
+                "ro": "Ploaia învăluie capul într-o atmosferă mistică și fotogenică. Luați o umbrelă mare pentru a ajunge uscat din parcarea mare la platforma de observare deschisă.",
+                "en": "The steady rain casts a mystical, highly photogenic mood over the cape. Pack a large umbrella to walk comfortably from the huge parking lot to the open viewing deck."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der sonnige Wintermorgen am Laem Ka Strand ist ideal für einen Spaziergang ohne starke Klimaanlage. Mittags am Rawai Pier ist die klare Luft perfekt für weite Ausblicke, öffnen Sie die Fenster. Nachmittags zum Windmill Viewpoint blendet die tief stehende Sonne, vergessen Sie Ihre Sonnenbrille nicht. Abends am Phromthep Cape müssen Sie früh parken, da das Licht bereits um 17:00 Uhr schwindet.",
+            "hu": "A napos téli reggel a Laem Ka strandon ideális egy sétára klímaberendezés nélkül. Délben a Rawai mólónál a tiszta levegő tökéletes a távoli kilátáshoz, tekerje le az ablakot. Délután a Windmill kilátó felé az alacsonyan járó nap vakíthat, ne feledje a napszemüveget! Este a Phromthep-foknál parkoljon le korán, mert 17:00-kor sötétedik.",
+            "ro": "Dimineața însorită de iarnă la plaja Laem Ka este ideală pentru plimbări fără aer condiționat. La prânz, la digul Rawai, aerul curat este perfect pentru priveliști îndepărtate. După-amiaza spre punctul de belvedere Windmill soarele de iarnă orbește, nu uitați ochelarii. Seara, parcați devreme la Capul Phromthep, lumina scade deja la ora 17:00.",
+            "en": "The sunny winter morning at Laem Ka Beach is ideal for a stroll without maxing out the AC. At noon by Rawai Pier, the clear air is perfect for distant views, so roll down the windows. In the afternoon towards Windmill Viewpoint, the low winter sun can be blinding, so wear sunglasses. In the evening at Phromthep Cape, park early as light fades by 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Laem Ka Strand",
+                "hu": "Laem Ka strand",
+                "ro": "Plaja Laem Ka",
+                "en": "Laem Ka Strand"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Start in den Tag mit klarem Himmel. Lassen Sie die Autoklimaanlage auf einer niedrigen Stufe, die Winterluft draußen ist bereits wunderbar erfrischend.",
+                "hu": "Nyugodt napkezdet gyönyörű, tiszta égbolttal. Hagyja az autó klímaberendezését alacsony fokozaton, a kinti téli levegő is csodálatosan frissítő és kellemes.",
+                "ro": "Un început de zi liniștit, cu cer senin superb. Lăsați aerul condiționat al mașinii la nivel scăzut, aerul de iarnă de afară este deja minunat de revigorant.",
+                "en": "A peaceful start to the day with gorgeous clear skies. Keep the car's AC on a low setting, as the outside winter air is already wonderfully refreshing."
+              }
+            },
+            {
+              "name": {
+                "de": "Rawai Beach und Pier",
+                "hu": "Rawai strand és móló",
+                "ro": "Plaja și digul Rawai",
+                "en": "Rawai Beach and Pier"
+              },
+              "tip_5lang": {
+                "de": "Das tiefblaue Wintermeer bildet einen tollen Kontrast zu den Booten. Parken Sie trotzdem im Schatten, denn auch die milde Wintersonne heizt geschlossene Autos auf.",
+                "hu": "A mélykék téli tenger remek kontrasztot alkot a halászhajókkal. Mindenképpen árnyékban parkoljon, mert a látszólag enyhe téli nap is forróra melegítheti a zárt autókat.",
+                "ro": "Marea albastră de iarnă formează un contrast minunat cu bărcile. Parcați la umbră, deoarece chiar și soarele blând de iarnă încălzește puternic mașinile închise.",
+                "en": "The deep blue winter sea forms a brilliant contrast with the boats. Park in the shade, as even the seemingly mild winter sun can severely heat up closed cars."
+              }
+            },
+            {
+              "name": {
+                "de": "Nai Harn Beach",
+                "hu": "Nai Harn strand",
+                "ro": "Plaja Nai Harn",
+                "en": "Nai Harn Beach"
+              },
+              "tip_5lang": {
+                "de": "Die angenehm kühle Brise lädt zu einem langen Spaziergang ein. Packen Sie eine dünne Jacke für die malerische Weiterfahrt mit komplett geöffneten Fenstern ein.",
+                "hu": "A kellemesen hűvös szellő hosszú parti sétára csábít. Csomagoljon be egy vékony dzsekit a csomagtartóba, ha teljesen lehúzott ablakokkal szeretne tovább autózni.",
+                "ro": "Briza plăcut de răcoroasă vă invită la o plimbare lungă pe plajă. Luați o jachetă subțire pentru călătoria pitorească cu geamurile mașinii complet deschise.",
+                "en": "The pleasantly cool breeze invites you for a long beach walk. Pack a light jacket in the trunk if you plan to enjoy the scenic drive with the windows completely down."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill Viewpoint",
+                "hu": "Windmill kilátó",
+                "ro": "Punctul de belvedere Windmill",
+                "en": "Windmill Viewpoint"
+              },
+              "tip_5lang": {
+                "de": "Die tief stehende Nachmittagssonne sorgt für magische Lichtverhältnisse. Benutzen Sie unbedingt die Sonnenblende im Auto bei der extrem kurvigen Auffahrt zum Hügel.",
+                "hu": "Az alacsonyan járó téli délutáni nap varázslatos fényviszonyokat teremt. Mindenképpen használja a napellenzőt az autóban a rendkívül kanyargós, emelkedő hegyi úton.",
+                "ro": "Soarele de iarnă de după-amiază creează condiții de lumină magice. Folosiți neapărat parasolarul mașinii pe drumul extrem de curbat și abrupt la urcarea pe deal.",
+                "en": "The low winter afternoon sun creates magical golden lighting conditions. Be absolutely sure to use your car's sun visor on the extremely winding uphill drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Riff-Schnorchelplatz",
+                "hu": "Zátonyi sznorkelező hely",
+                "ro": "Punct de snorkeling la recif",
+                "en": "Reef Snorkelling Spot"
+              },
+              "tip_5lang": {
+                "de": "Die Sicht unter Wasser ist im ruhigen Winter phänomenal gut. Wärmen Sie sich nach dem ausgiebigen Schnorcheln gemütlich bei leicht eingeschalteter Autoheizung auf.",
+                "hu": "A víz alatti látótávolság a csendes téli hónapokban elképesztően jó. Hosszú sznorkelezés után melegedjen fel kényelmesen a lágyan bekapcsolt autófűtéssel.",
+                "ro": "Vizibilitatea sub apă este fenomenal de bună în iarna liniștită. Încălziți-vă confortabil cu încălzirea mașinii ușor pornită după o sesiune lungă de snorkeling.",
+                "en": "Underwater visibility is phenomenally good during the calm winter months. Warm yourself up comfortably by slightly turning on the car heater after a long snorkel."
+              }
+            },
+            {
+              "name": {
+                "de": "Phromthep Cape",
+                "hu": "Phromthep-fok",
+                "ro": "Capul Phromthep",
+                "en": "Phromthep Cape"
+              },
+              "tip_5lang": {
+                "de": "Der Wintersonnenuntergang ist farbintensiv, aber schon vor 17:30 Uhr komplett vorbei. Fahren Sie rechtzeitig los, um in der Dämmerung sicher zurückzukehren.",
+                "hu": "A téli naplemente lenyűgözően színpompás, de már 17:30 előtt teljesen véget ér. Induljon el időben a parkolóból, hogy a szürkületben is biztonságosan vezessen haza.",
+                "ro": "Apusul de iarnă este intens colorat, dar se termină complet înainte de ora 17:30. Plecați din parcare la timp pentru a vă întoarce în siguranță la amurg.",
+                "en": "The winter sunset is stunningly intensely colored but completely over before 17:30. Leave the parking lot on time to ensure a safe drive back in the darkening dusk."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt New Romney örökségének felfedezésével a Szent Miklós-templomnál és a történelmi városházánál. Délben tegyen egy kellemes sétát a Daglish Close-on a gyönyörű partvonal felé. Délután csodálja meg a La Manche csatorna hatalmas kiterjedését a Littlestone-i tengerfalról. Zárja kellemes gyalogtúráját egy esti sétával a festői Littlestone Golf Club környékén.",
         "ro": "Începeți dimineața descoperind moștenirea orașului New Romney la Biserica Sf. Nicolae și Primăria istorică. La prânz, bucurați-vă de o plimbare plăcută prin Daglish Close spre coasta frumoasă. După-amiaza, admirați întinderea vastă a Canalului Mânecii de pe zidul maritim Littlestone. Încheiați-vă turul relaxant de mers pe jos cu o plimbare de seară în jurul pitorescului club de golf.",
         "en": "Begin your morning discovering the heritage of New Romney at St Nicholas Church and the historic Town Hall. By midday, enjoy a pleasant walk through Daglish Close towards the beautiful coastline. In the afternoon, marvel at the vast expanse of the English Channel from the Littlestone Sea Wall. Conclude your gentle walking tour with an evening stroll around the scenic Littlestone Golf Club."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt grau unter den schützenden Mauern von St. Nicholas. Mittags führt der Weg durch den Regen zum Rathaus, während die Küstenbrise am Nachmittag am Littlestone Sea Wall kräftig weht. Den Abend lassen wir trocken und gemütlich im Golfclub ausklingen, weit weg von den Pfützen.",
+            "hu": "A nap a Szent Miklós-templom védelmező falai között indul az eső elől menekülve. Délben a városháza felé vesszük az irányt esernyőkkel, délután pedig a tengerparti széllel dacolunk a gátnál. Az estét a golfklub fedett kényelmében zárjuk, ahol végre megszárítkozhatunk.",
+            "ro": "Ziua începe sub protecția zidurilor Bisericii Sf. Nicolae, feriți de stropii grei. La prânz ne îndreptăm spre primărie cu umbrelele pregătite, iar după-amiaza înfruntăm briza umedă la digul Littlestone. Seara se încheie plăcut la clubul de golf, la adăpost de vremea capricioasă.",
+            "en": "The day starts under the protective stone of St Nicholas as the rain falls. By noon, we dodge puddles toward the Town Hall, and afternoon brings a wet, bracing breeze at the Sea Wall. The evening concludes in the dry comfort of the Golf Club, safely away from the coastal damp."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Nicholas Church",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "St Nicholas Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die normannischen Bögen im trockenen Innenraum und nutzen Sie die schwere Kirchentür als perfekten Schutz vor dem ersten starken Regenschauer des Morgens.",
+                "hu": "Csodálja meg a normann boltíveket a száraz belső térben, és használja a súlyos templomkaput tökéletes menedékként a reggeli első heves zivatar elől.",
+                "ro": "Admirați arcadele normande în interiorul uscat și folosiți ușa grea a bisericii ca adăpost perfect împotriva primei averse puternice de ploaie din această dimineață.",
+                "en": "Admire the Norman arches in the dry interior and use the heavy church door as a perfect sanctuary from the first heavy morning rain shower while exploring the history."
+              }
+            },
+            {
+              "name": {
+                "de": "New Romney Town Hall",
+                "hu": "New Romney Városháza",
+                "ro": "Primăria New Romney",
+                "en": "New Romney Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto der Fassade unter Ihrem Regenschirm; der Vorsprung bietet einen kleinen trockenen Platz, um die Architektur kurz im Detail zu studieren.",
+                "hu": "Készítsen egy gyors fotót a homlokzatról az esernyője alól; a bejárat feletti párkány kis száraz helyet kínál, hogy rövid ideig megfigyelhesse az építészeti részleteket.",
+                "ro": "Faceți o fotografie rapidă a fațadei sub umbrelă; pervazul intrării oferă un mic spațiu uscat pentru a studia scurt detaliile arhitecturale în ciuda vremii umede.",
+                "en": "Take a quick photo of the facade from under your umbrella; the entrance ledge offers a small dry spot to briefly study the architectural details despite the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Daglish Close",
+                "hu": "Daglish Close",
+                "ro": "Daglish Close",
+                "en": "Daglish Close"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf die rutschigen Wege in der Grünanlage und tragen Sie wasserfeste Schuhe, da sich auf dem Rasen bei diesem Wetter schnell große Pfützen bilden können.",
+                "hu": "Ügyeljen a csúszós utakra a zöldterületen, és viseljen vízálló cipőt, mivel a fűben ilyenkor gyorsan nagy tócsák alakulhatnak ki, ami megnehezíti a rövid sétát.",
+                "ro": "Atenție la potecile alunecoase din zona verde și purtați încălțăminte impermeabilă, deoarece pe iarbă se pot forma rapid bălți mari în această perioadă cu precipitații.",
+                "en": "Watch out for slippery paths in the green area and wear waterproof shoes, as large puddles can quickly form on the grass during this rainy spell, hindering walking."
+              }
+            },
+            {
+              "name": {
+                "de": "Littlestone Sea Wall",
+                "hu": "Littlestone-i tengerfal",
+                "ro": "Zidul maritim Littlestone",
+                "en": "Littlestone Sea Wall"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich vom Rand fern, da die Brandung Gischt über die Mauer peitschen kann; eine windfeste Regenjacke ist hier wegen des starken Küstenwindes absolut notwendig.",
+                "hu": "Tartsa távol magát a peremtől, mert a hullámverés vizet csaphat a falra; egy szélálló esőkabát itt elengedhetetlen a viharos tengerparti szél és a csapadék miatt.",
+                "ro": "Stați departe de margine, deoarece valurile pot arunca apă peste zid; o jachetă de ploaie rezistentă la vânt este absolut necesară aici din cauza vântului puternic de coastă.",
+                "en": "Stay away from the edge as the surf can whip spray over the wall; a windproof raincoat is absolutely necessary here due to the strong coastal wind and driving rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Littlestone Golf Club",
+                "hu": "Littlestone Golf Club",
+                "ro": "Littlestone Golf Club",
+                "en": "Littlestone Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich im Clubhaus bei einem heißen Getränk auf und genießen Sie den Blick auf die verregneten Grüns durch die großen, sicheren Panoramafenster.",
+                "hu": "Szárítkozzon meg a klubházban egy forró ital mellett, és élvezze a kilátást az eső áztatta pályákra a nagy, biztonságos panorámaablakokon keresztül a nap végén.",
+                "ro": "Uscați-vă în club la o băutură caldă și bucurați-vă de priveliștea terenurilor plouate prin ferestrele panoramice mari și sigure, feriți de umezeala de afară.",
+                "en": "Dry off in the clubhouse with a hot drink and enjoy the view of the rain-soaked greens through the large, secure panoramic windows at the end of your walking tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Stille empfängt uns morgens an der St. Nicholas Church. Ein kurzer, zügiger Gang zum Rathaus hält uns warm, bevor wir nachmittags die raue Winterbrise am Meer spüren. Sobald die Sonne gegen 17:00 Uhr untergeht, lockt die wohlige Wärme des Golfclubs für einen entspannten Abschluss im Dunkeln.",
+            "hu": "Deres csend fogad minket reggel a Szent Miklós-templomnál. Egy rövid, élénk séta a városházához segít bemelegedni, mielőtt délután megéreznénk a tenger nyers téli szelét. Amint a nap 17:00 körül lemegy, a golfklub barátságos melege hívogat egy kellemes esti pihenőre a sötétben.",
+            "ro": "O liniște geroasă ne întâmpină dimineața la Biserica Sf. Nicolae. O plimbare scurtă și vioaie spre primărie ne încălzește înainte de a simți briza aspră a iernii la mare. După apusul de la ora 17:00, căldura clubului de golf ne atrage pentru un final relaxat în întuneric.",
+            "en": "Frosty silence greets us at St Nicholas Church this morning. A brisk walk to the Town Hall keeps us moving, before we face the raw winter breeze by the sea. As the sun sets around 17:00, the welcoming warmth of the Golf Club beckons for a cozy finish in the early evening dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Nicholas Church",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "St Nicholas Church"
+              },
+              "tip_5lang": {
+                "de": "Behalten Sie Ihre Handschuhe auch im Inneren an, da die alten Steinmauern die Winterkälte stark speichern; die frostige Atmosphäre macht den Besuch jedoch besonders ruhig.",
+                "hu": "Tartsa magán a kesztyűt a belső térben is, mivel a régi kőfalak erősen tartják a téli hideget; a fagyos hangulat ugyanakkor különlegesen békéssé teszi a látogatást.",
+                "ro": "Păstrați-vă mănușile chiar și în interior, deoarece zidurile vechi de piatră rețin puternic frigul iernii; atmosfera geroasă face însă vizita deosebit de liniștită.",
+                "en": "Keep your gloves on even inside, as the ancient stone walls retain the winter chill strongly; however, the frosty atmosphere makes the visit exceptionally peaceful."
+              }
+            },
+            {
+              "name": {
+                "de": "New Romney Town Hall",
+                "hu": "New Romney Városháza",
+                "ro": "Primăria New Romney",
+                "en": "New Romney Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie den Aufenthalt im Freien kurz, um die Kälte zu vermeiden, und bewundern Sie die winterliche Dekoration, die dem historischen Gebäude oft einen festlichen Glanz verleiht.",
+                "hu": "Tartsa rövidre a kinti tartózkodást a hideg elkerülése érdekében, és csodálja meg a téli díszítést, amely gyakran ünnepi fényt kölcsönöz a történelmi épületnek.",
+                "ro": "Limitați staționarea în aer liber pentru a evita frigul și admirați decorațiunile de iarnă care oferă adesea o strălucire festivă acestei clădiri istorice din centrul orașului.",
+                "en": "Keep your outdoor stay brief to avoid the chill and admire the winter decorations that often give a festive glow to the historic building in the town center."
+              }
+            },
+            {
+              "name": {
+                "de": "Daglish Close",
+                "hu": "Daglish Close",
+                "ro": "Daglish Close",
+                "en": "Daglish Close"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Anblick der kahlen, gefrorenen Bäume gegen den klaren Winterhimmel, aber achten Sie auf vereiste Stellen auf den schattigen Wegen des kleinen Parks.",
+                "hu": "Élvezze a kopár, jeges fák látványát a tiszta téli égbolt előtt, de ügyeljen a jeges foltokra a kis park árnyékos ösvényein, amelyek csúszósak lehetnek.",
+                "ro": "Bucurați-vă de vederea copacilor înghețați pe fundalul cerului senin de iarnă, dar fiți atenți la porțiunile cu gheață de pe potecile umbrite ale micului parc local.",
+                "en": "Enjoy the sight of the bare, frozen trees against the clear winter sky, but watch out for icy patches on the shaded paths of the small park which can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Littlestone Sea Wall",
+                "hu": "Littlestone-i tengerfal",
+                "ro": "Zidul maritim Littlestone",
+                "en": "Littlestone Sea Wall"
+              },
+              "tip_5lang": {
+                "de": "Der eisige Wind vom Ärmelkanal ist im Winter extrem schneidend; tragen Sie mehrere Schichten Kleidung und einen Schal, um den dramatischen Meerblick sicher zu genießen.",
+                "hu": "A La Manche csatorna felől fújó jeges szél télen rendkívül metsző; viseljen több réteg ruhát és sálat, hogy biztonságosan élvezhesse a drámai tengeri kilátást.",
+                "ro": "Vântul înghețat dinspre Canalul Mânecii este extrem de tăios iarna; purtați mai multe straturi de haine și un fular pentru a savura în siguranță vederea dramatică a mării.",
+                "en": "The icy wind from the English Channel is extremely biting in winter; wear multiple layers and a scarf to safely enjoy the dramatic sea view without freezing."
+              }
+            },
+            {
+              "name": {
+                "de": "Littlestone Golf Club",
+                "hu": "Littlestone Golf Club",
+                "ro": "Littlestone Golf Club",
+                "en": "Littlestone Golf Club"
+              },
+              "tip_5lang": {
+                "de": "Kehren Sie vor Einbruch der frühen Dunkelheit ein, um sich bei einer warmen Mahlzeit aufzuwärmen und den Kontrast zwischen dem kalten Abend und der Gastfreundschaft zu spüren.",
+                "hu": "Térjen be a korai sötétedés előtt, hogy egy meleg étellel felmelegedjen, és érezze a kontrasztot a hideg este és a benti vendégszeretet között a séta végén.",
+                "ro": "Intrați înainte de lăsarea întunericului pentru a vă încălzi cu o masă caldă și simțiți contrastul dintre seara rece și ospitalitatea de interior la finalul traseului.",
+                "en": "Head inside before the early darkness falls to warm up with a hot meal and feel the contrast between the cold evening and the indoor hospitality at the end of your day."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros kalandját a Szent Miklós-templomnál, mielőtt elindulna a lenyűgöző Littlestone-i tengerfalhoz. A dél a Greatstone strand hatalmas területére vezeti, amely tökéletes egy frissítő szünetre. Töltse a délutánt a Greatstone-dűnék változatos vadvilágának felfedezésével. Zárja aktív napját egy pihentető esti tekeréssel és a naplemente megtekintésével a Broomhill Sandsen.",
         "ro": "Începeți aventura pe bicicletă la Biserica Sf. Nicolae înainte de a vă îndrepta spre impresionantul zid maritim Littlestone. Prânzul vă aduce la plaja vastă Greatstone, perfectă pentru o pauză. Petreceți după-amiaza explorând viața sălbatică diversă la Dunele Greatstone. Încheiați ziua activă cu o plimbare relaxantă de seară și poate privind apusul la Broomhill Sands.",
         "en": "Start your cycling adventure at St Nicholas Church before heading out to the stunning Littlestone Sea Wall. Midday brings you to the expansive Greatstone beach, perfect for a refreshing break. Spend your afternoon exploring the diverse wildlife at the Greatstone Dunes. End your active day with a relaxing evening ride and perhaps a quiet moment watching the sunset at Broomhill Sands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radtour beginnt an der Kirche, wo wir kurz Schutz suchen. Über den glitschigen Sea Wall geht es mittags nach Greatstone, während der Regen die Dünen in Schlamm verwandelt. Den Nachmittag verbringen wir kämpfend gegen den Wind bei Broomhill Sands, bevor wir völlig durchnässt, aber zufrieden die Tour beenden.",
+            "hu": "Egy vizes kerékpártúra indul a templomnál, ahol rövid menedéket keresünk. A csúszós tengerparti gáton át tekerünk délben Greatstone felé, miközben az eső sárra változtatja a dűnéket. A délutánt a széllel küzdve töltjük Broomhill Sands-nél, mielőtt teljesen ázottan, de elégedetten befejeznénk a kört.",
+            "ro": "O tură umedă cu bicicleta începe la biserică, unde căutăm un scurt refugiu. Pedalam pe digul alunecos spre Greatstone la prânz, în timp ce ploaia transformă dunele în noroi. După-amiaza o petrecem luptând cu vântul la Broomhill Sands, înainte de a termina tura uzi, dar satisfăcuți.",
+            "en": "A wet cycling tour kicks off at the church, offering a brief shelter. We pedal along the slippery Sea Wall toward Greatstone at noon, as rain turns the dunes muddy. The afternoon is spent battling the wind at Broomhill Sands before finishing the ride completely soaked but satisfied."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Nicholas Church",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "St Nicholas Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter dem Portal ab, um den Sattel trocken zu halten, während Sie kurz die historischen Details der Fassade im Schutz der Mauer bewundern.",
+                "hu": "Állítsa le kerékpárját a kapualj alatt, hogy a nyereg száraz maradjon, miközben rövid ideig megcsodálja a homlokzat történelmi részleteit a falak védelmében.",
+                "ro": "Lăsați bicicleta sub portal pentru a păstra șaua uscată în timp ce admirați scurt detaliile istorice ale fațadei sub protecția zidurilor bisericii vechi.",
+                "en": "Park your bike under the porch to keep the saddle dry while you briefly admire the historic details of the facade under the protection of the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Littlestone Sea Wall",
+                "hu": "Littlestone-i tengerfal",
+                "ro": "Zidul maritim Littlestone",
+                "en": "Littlestone Sea Wall"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da die Promenade bei Nässe sehr rutschig sein kann; vermeiden Sie Pfützen, die tiefer sein könnten, als sie auf den ersten Blick erscheinen.",
+                "hu": "Tekerjen óvatosan, mivel a sétány nedvesen nagyon csúszós lehet; kerülje a tócsákat, amelyek mélyebbek lehetnek, mint amilyennek első pillantásra tűnnek a gáton.",
+                "ro": "Pedalați cu prudență, deoarece faleza poate fi foarte alunecoasă când este udă; evitați bălțile care ar putea fi mai adânci decât par la prima vedere pe dig.",
+                "en": "Ride carefully as the promenade can be very slippery when wet; avoid puddles that might be deeper than they first appear while cycling along the sea wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Greatstone beach",
+                "hu": "Greatstone strand",
+                "ro": "Plaja Greatstone",
+                "en": "Greatstone beach"
+              },
+              "tip_5lang": {
+                "de": "Der Sand ist bei Regen fester und besser befahrbar, aber der starke Wind kann das Vorwärtskommen erschweren; eine eng anliegende Regenjacke ist hier ein Muss.",
+                "hu": "A homok esőben tömörebb és jobban biciklizhető, de az erős szél megnehezítheti a haladást; egy szorosan illeszkedő esőkabát itt kötelező viselet a parton.",
+                "ro": "Nisipul este mai ferm și mai ușor de parcurs pe ploaie, dar vântul puternic poate îngreuna înaintarea; o jachetă de ploaie strânsă pe corp este obligatorie aici.",
+                "en": "The sand is firmer and easier to cycle on in the rain, but strong winds can make progress difficult; a snug raincoat is a must-have while on the beach front."
+              }
+            },
+            {
+              "name": {
+                "de": "Greatstone Dunes",
+                "hu": "Greatstone-dűnék",
+                "ro": "Dunele Greatstone",
+                "en": "Greatstone Dunes"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie die schmalen Pfade, die bei Dauerregen zu schlammigen Rutschbahnen werden; bleiben Sie auf den befestigten Wegen am Rand, um Ihre Reifen zu schonen.",
+                "hu": "Kerülje a szűk ösvényeket, amelyek tartós esőben sáros csúszdává válnak; maradjon a szegélyezett utakon a dűnék szélén, hogy kímélje a kerékpár gumiabroncsait.",
+                "ro": "Evitați potecile înguste care devin tobogane de noroi pe ploaie persistentă; rămâneți pe drumurile amenajate de la marginea dunelor pentru a proteja anvelopele.",
+                "en": "Avoid narrow paths that turn into muddy slides during persistent rain; stay on the paved routes at the edge of the dunes to protect your tires and safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Broomhill Sands",
+                "hu": "Broomhill Sands",
+                "ro": "Broomhill Sands",
+                "en": "Broomhill Sands"
+              },
+              "tip_5lang": {
+                "de": "Säubern Sie Ihr Fahrrad nach der Tour sofort von salzigem Schlamm und Sand; das raue Regenwetter am offenen Meer ist besonders fordernd für die Mechanik.",
+                "hu": "A túra után azonnal tisztítsa meg a kerékpárt a sós sártól és homoktól; a nyílt tenger melletti zord esős idő különösen megterhelő a mechanikus alkatrészeknek.",
+                "ro": "Curățați bicicleta imediat după tură de noroiul sărat și nisip; vremea aspră cu ploaie de lângă mare este deosebit de solicitantă pentru componentele mecanice.",
+                "en": "Clean your bike immediately after the ride from salty mud and sand; the harsh rainy weather by the open sea is especially demanding for the mechanical parts."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kalte Wintermorgenluft beißt beim Start an der Kirche. Über den windgepeitschten Sea Wall erreichen wir Greatstone, wo das Licht der tiefstehenden Sonne die leeren Strände beleuchtet. Die Fahrt durch die Dünen ist frostig, und bei Broomhill Sands müssen wir uns beeilen, bevor die Dunkelheit uns einholt.",
+            "hu": "A hideg téli reggeli levegő harapós a templomnál indulva. A szeles tengerparti gáton át érjük el Greatstone-t, ahol az alacsonyan járó nap fénye megvilágítja az üres strandokat. A dűnéken átvezető út fagyos, és Broomhill Sands-nél sietnünk kell, mielőtt utolér minket a sötétség.",
+            "ro": "Aerul rece al dimineții de iarnă este tăios la plecarea de la biserică. Trecând de digul bătut de vânt ajungem la Greatstone, unde lumina soarelui jos luminează plajele pustii. Drumul prin dune este înghețat, iar la Broomhill Sands trebuie să grăbim pasul înainte de întuneric.",
+            "en": "The cold winter morning air is biting as we start at the church. Over the windswept Sea Wall we reach Greatstone, where the low sun illuminates the empty beaches. The ride through the dunes is frosty, and at Broomhill Sands we must hurry before the early darkness catches us."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "St Nicholas Church",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "St Nicholas Church"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Start in die eiskalte Tour; nutzen Sie den Windschutz der massiven Kirchenwände, um Ihre Ausrüstung ein letztes Mal zu prüfen und warm zu bleiben.",
+                "hu": "Csendes kezdés a jéghideg túrához; használja a masszív templomfalak szélvédelmét, hogy utoljára ellenőrizze felszerelését és melegen tartsa magát az indulás előtt.",
+                "ro": "Un început liniștit pentru tura geroasă; folosiți protecția zidurilor masive ale bisericii pentru a vă verifica echipamentul și a rămâne calzi înainte de plecare.",
+                "en": "A quiet start to the freezing tour; use the wind protection of the massive church walls to check your gear one last time and stay warm before heading out."
+              }
+            },
+            {
+              "name": {
+                "de": "Littlestone Sea Wall",
+                "hu": "Littlestone-i tengerfal",
+                "ro": "Zidul maritim Littlestone",
+                "en": "Littlestone Sea Wall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine Gesichtsmaske oder einen Schlauchschal gegen den eisigen Küstenwind; die Meeresgischt kann bei diesen Temperaturen schnell an den Geländern gefrieren.",
+                "hu": "Viseljen arcmaszkot vagy csősálat a jeges tengerparti szél ellen; a tengeri permet ilyen hőmérséklet mellett gyorsan ráfagyhat a korlátokra és az útra.",
+                "ro": "Purtați o mască facială sau un fular tip tub împotriva vântului înghețat; vaporii sărați pot îngheța rapid pe balustrade și pe drum la aceste temperaturi scăzute.",
+                "en": "Wear a face mask or neck warmer against the icy coastal wind; the sea spray can quickly freeze on railings and paths at these low winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Greatstone beach",
+                "hu": "Greatstone strand",
+                "ro": "Plaja Greatstone",
+                "en": "Greatstone beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten, leeren Horizont im klaren Winterlicht, aber bleiben Sie in Bewegung, um die Blutzirkulation in Ihren gefrorenen Fingern aufrechtzuerhalten.",
+                "hu": "Élvezze a tágas, üres horizontot a tiszta téli fényben, de maradjon folyamatos mozgásban, hogy fenntartsa a vérkeringést a megfagyott ujjaiban a parton.",
+                "ro": "Bucurați-vă de orizontul vast și pustiu în lumina clară de iarnă, dar rămâneți în mișcare constantă pentru a menține circulația sângelui în degetele înghețate.",
+                "en": "Enjoy the vast, empty horizon in the clear winter light, but keep moving constantly to maintain blood circulation in your frozen fingers while on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Greatstone Dunes",
+                "hu": "Greatstone-dűnék",
+                "ro": "Dunele Greatstone",
+                "en": "Greatstone Dunes"
+              },
+              "tip_5lang": {
+                "de": "Da die Sonne früh untergeht, stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert; die Schatten in den Dünen werden am späten Nachmittag sehr lang und dunkel.",
+                "hu": "Mivel a nap korán nyugszik, győződjön meg róla, hogy a kerékpáros világítás működik; a dűnék közötti árnyékok késő délután már nagyon hosszúak és sötétek.",
+                "ro": "Deoarece soarele apune devreme, asigurați-vă că luminile bicicletei funcționează; umbrele dintre dune devin foarte lungi și întunecate la sfârșitul după-amiezii.",
+                "en": "Since the sun sets early, ensure your bike lights are working; the shadows in the dunes become very long and dark by late afternoon, making navigation harder."
+              }
+            },
+            {
+              "name": {
+                "de": "Broomhill Sands",
+                "hu": "Broomhill Sands",
+                "ro": "Broomhill Sands",
+                "en": "Broomhill Sands"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour zügig, da die Temperaturen nach Sonnenuntergang drastisch fallen; eine Thermoskanne mit Tee in der Tasche ist der beste Retter nach der Rückkehr.",
+                "hu": "Fejezze be gyorsan a túrát, mivel a hőmérséklet naplemente után drasztikusan leesik; egy termosz meleg tea a táskában a legjobb mentőöv a visszaérkezés után.",
+                "ro": "Încheiați tura rapid, deoarece temperaturile scad drastic după apus; un termos cu ceai cald în rucsac este cel mai bun salvator după ce terminați traseul.",
+                "en": "Finish the tour quickly as temperatures drop drastically after sunset; a thermos of hot tea in your bag is the best lifesaver after completing this winter ride."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autós túrája a helyi történelem mélyreható megismerésével kezdődik a Romney Marsh Múzeumban. Ebéd előtt csodálja meg az ősi Szent Miklós-templomot a város szívében. A dél a The Ship Innbe viszi, ahol hagyományos tengeri vendégszeretet és finom ételek várják. Töltse a délutánt a Littlestone-i tengerfal kilátásával, majd élvezze a gyönyörű tengerparti estét a Broomhill Sandsen.",
         "ro": "Turul dumneavoastră cu mașina începe cu scufundări adânci în istoria locală la Muzeul Romney Marsh. Înainte de prânz, admirați vechea Biserică Sf. Nicolae în inima orașului. Prânzul vă duce la The Ship Inn pentru ospitalitate maritimă și mâncare delicioasă. Petreceți după-amiaza admirând priveliștile de la zidul maritim Littlestone, apoi bucurați-vă de o seară de coastă la Broomhill Sands.",
         "en": "Your driving tour begins with deep dives into local history at the Romney Marsh Museum. Before lunch, admire the ancient St Nicholas Church in the heart of town. Midday takes you to The Ship Inn for some traditional maritime hospitality and delicious food. Spend the afternoon taking in the views at Littlestone Sea Wall, then enjoy a beautiful coastal evening at Broomhill Sands."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im trockenen Auto lässt sich das Romney Marsh Museum trotz Dauerregen wunderbar erkunden. Nach einem kurzen, nassen Sprint zur Kirche wärmen wir uns beim Mittagessen im The Ship Inn auf. Den Nachmittag verbringen wir geschützt bei der Fahrt entlang des Sea Wall und Broomhill Sands, während die Scheibenwischer den Takt angeben.",
+            "hu": "A száraz autóban ülve a Romney Marsh Múzeum a tartós eső ellenére is remekül felfedezhető. Egy rövid, vizes sprint után a templomhoz, a The Ship Innben melegszünk fel ebéd közben. A délutánt védetten töltjük a tengerparti gát és Broomhill Sands mentén autózva, miközben az ablaktörlők adják az ütemet.",
+            "ro": "În mașina uscată, Muzeul Romney Marsh poate fi explorat minunat în ciuda ploii persistente. După un sprint scurt și umed spre biserică, ne încălzim la prânz la The Ship Inn. După-amiaza o petrecem protejați conducând pe lângă dig și Broomhill Sands, în timp ce ștergătoarele dau ritmul.",
+            "en": "Inside the dry car, Romney Marsh Museum is wonderful to explore despite the persistent rain. After a short, wet sprint to the church, we warm up over lunch at The Ship Inn. The afternoon is spent protected while driving along the Sea Wall and Broomhill Sands, with wipers keeping the beat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Romney Marsh Museum",
+                "hu": "Romney Marsh Múzeum",
+                "ro": "Muzeul Romney Marsh",
+                "en": "Romney Marsh Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um den Vormittag bei schwerem Regen im Trockenen zu verbringen; das Museum bietet ausreichend überdachte Exponate zur lokalen Geschichte.",
+                "hu": "Tökéletes helyszín, hogy a délelőttöt heves esőzés esetén is szárazon töltse; a múzeum számos fedett kiállítást kínál a helyi történelemről a látogatóknak.",
+                "ro": "Locul perfect pentru a petrece dimineața la adăpost în caz de ploaie abundentă; muzeul oferă numeroase exponate acoperite despre istoria locală fascinantă.",
+                "en": "The perfect place to spend the morning in the dry during heavy rain; the museum offers plenty of indoor exhibits on local history for visitors to enjoy safely."
+              }
+            },
+            {
+              "name": {
+                "de": "St Nicholas Church",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "St Nicholas Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden, und genießen Sie die klangvolle Akustik des Regens auf dem alten Bleidach im Inneren.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást, és élvezze az eső kopogásának hangulatos akusztikáját a templom ősi ólomtetőjén a belső térben.",
+                "ro": "Parcați cât mai aproape de intrare pentru a evita umezeala și bucurați-vă de acustica plăcută a ploii pe acoperișul vechi de plumb în timp ce sunteți în interior.",
+                "en": "Park as close to the entrance as possible to avoid getting wet and enjoy the atmospheric acoustics of the rain hitting the ancient lead roof while you are inside."
+              }
+            },
+            {
+              "name": {
+                "de": "The Ship Inn",
+                "hu": "The Ship Inn",
+                "ro": "The Ship Inn",
+                "en": "The Ship Inn"
+              },
+              "tip_5lang": {
+                "de": "Setzen Sie sich ans Fenster und beobachten Sie den Regen über dem Marschland, während Sie ein herzhaftes, warmes Mittagessen in der gemütlichen Atmosphäre des Pubs genießen.",
+                "hu": "Üljön az ablak mellé, és nézze a mocsárvidék felett szakadó esőt, miközben egy kiadós, meleg ebédet fogyaszt el a pub barátságos és óvdon hangulatú belső terében.",
+                "ro": "Așezați-vă lângă fereastră și priviți ploaia peste mlaștini în timp ce savurați un prânz cald și consistent în atmosfera primitoare a acestui han istoric.",
+                "en": "Sit by the window and watch the rain over the marshlands while enjoying a hearty, warm lunch in the welcoming atmosphere of this historic pub during your break."
+              }
+            },
+            {
+              "name": {
+                "de": "Littlestone Sea Wall",
+                "hu": "Littlestone-i tengerfal",
+                "ro": "Zidul maritim Littlestone",
+                "en": "Littlestone Sea Wall"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Sturm einfach im Auto; die Aussicht auf die tobende See durch die Windschutzscheibe ist dramatisch und Sie bleiben dabei völlig trocken.",
+                "hu": "Heves vihar esetén maradjon egyszerűen az autóban; a dühöngő tenger látványa a szélvédőn keresztül drámai, és Ön közben teljesen száraz marad a gát mentén.",
+                "ro": "În caz de furtună puternică, rămâneți pur și simplu în mașină; vederea mării înfuriate prin parbriz este dramatică și veți rămâne complet uscați în siguranță.",
+                "en": "In case of a heavy storm, simply stay in the car; the view of the raging sea through the windshield is dramatic and you stay completely dry while parked."
+              }
+            },
+            {
+              "name": {
+                "de": "Broomhill Sands",
+                "hu": "Broomhill Sands",
+                "ro": "Broomhill Sands",
+                "en": "Broomhill Sands"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz bietet einen tollen Blick auf die Küste; ideal, um den stürmischen Ozean zu beobachten, ohne die Heizung Ihres Fahrzeugs verlassen zu müssen.",
+                "hu": "A parkoló nagyszerű kilátást nyújt a partra; ideális a viharos óceán megfigyeléséhez anélkül, hogy el kellene hagynia a járműve kellemes fűtését a nap végén.",
+                "ro": "Parcarea oferă o vedere excelentă spre coastă; este ideală pentru a observa oceanul furtunos fără a fi nevoie să părăsiți căldura mașinii la finalul zilei.",
+                "en": "The parking area offers a great view of the coast; ideal for observing the stormy ocean without having to leave the comfort of your car's heating at day's end."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Heizung läuft auf Hochtouren, während wir morgens das Romney Marsh Museum besuchen. Die frostige Kirche und das festliche Mittagessen im The Ship Inn sind Höhepunkte des kurzen Wintertages. Nachmittags genießen wir die tiefstehende Sonne am Sea Wall bequem vom Fahrersitz aus, bevor es bei Broomhill Sands dunkel wird.",
+            "hu": "A fűtés maximális fokozaton üzemel, miközben reggel meglátogatjuk a Romney Marsh Múzeumot. A fagyos templom és az ünnepi ebéd a The Ship Innben a rövid téli nap fénypontjai. Délután a tengerparti gátnál az alacsonyan járó napot élvezzük a vezetőülés kényelméből, mielőtt Broomhill Sands-nél besötétedne.",
+            "ro": "Încălzirea funcționează la maximum în timp ce vizităm dimineața Muzeul Romney Marsh. Biserica înghețată și prânzul festiv la The Ship Inn sunt punctele forte ale zilei scurte de iarnă. După-amiaza savurăm soarele jos la dig din confortul mașinii înainte de întuneric.",
+            "en": "The heater is on full blast as we visit the Romney Marsh Museum this morning. The frosty church and festive lunch at The Ship Inn are highlights of the short winter day. In the afternoon, we enjoy the low sun at the Sea Wall from the comfort of the driver's seat before darkness falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Romney Marsh Museum",
+                "hu": "Romney Marsh Múzeum",
+                "ro": "Muzeul Romney Marsh",
+                "en": "Romney Marsh Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude ist gut beheizt und bietet an einem kalten Wintermorgen eine faszinierende Reise in die Vergangenheit, weit weg von der eisigen Außenluft.",
+                "hu": "Az épület jól fűtött, és egy hideg téli reggelen lenyűgöző utazást kínál a múltba, távol a kinti jeges levegőtől és a fagyos mocsárvilágtól.",
+                "ro": "Clădirea este bine încălzită și oferă o călătorie fascinantă în trecut într-o dimineață rece de iarnă, departe de aerul înghețat de afară și de mlaștini.",
+                "en": "The building is well-heated and offers a fascinating journey into the past on a cold winter morning, far away from the freezing outside air and marshlands."
+              }
+            },
+            {
+              "name": {
+                "de": "St Nicholas Church",
+                "hu": "Szent Miklós-templom",
+                "ro": "Biserica Sf. Nicolae",
+                "en": "St Nicholas Church"
+              },
+              "tip_5lang": {
+                "de": "Die alte Steinkirche wirkt im Winterlicht besonders stimmungsvoll; nutzen Sie die kurzen Wege vom Parkplatz, um die Kälteeinwirkung zu minimieren.",
+                "hu": "Az ősi kőtemplom a téli fényben különösen hangulatosnak tűnik; használja a parkolóból vezető rövid utat, hogy minimalizálja a hidegnek való kitettséget.",
+                "ro": "Biserica veche de piatră pare deosebit de atmosferică în lumina iernii; folosiți potecile scurte din parcare pentru a minimiza expunerea la frigul de afară.",
+                "en": "The ancient stone church looks particularly atmospheric in the winter light; use the short paths from the parking lot to minimize exposure to the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "The Ship Inn",
+                "hu": "The Ship Inn",
+                "ro": "The Ship Inn",
+                "en": "The Ship Inn"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich am Kamin auf und genießen Sie die lokale Gastfreundschaft; im Winter ist der Pub der beste Ort, um neue Energie für den Nachmittag zu tanken.",
+                "hu": "Melegedjen fel a kandalló mellett, és élvezze a helyi vendégszeretetet; télen a pub a legjobb hely, hogy újult erővel töltődjön fel a délutáni program előtt.",
+                "ro": "Încălziți-vă lângă șemineu și bucurați-vă de ospitalitatea locală; iarna, hanul este cel mai bun loc pentru a vă reîncărca energiile pentru restul zilei.",
+                "en": "Warm up by the fireplace and enjoy the local hospitality; in winter, the pub is the best place to recharge your energy before the afternoon coastal drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Littlestone Sea Wall",
+                "hu": "Littlestone-i tengerfal",
+                "ro": "Zidul maritim Littlestone",
+                "en": "Littlestone Sea Wall"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht über dem Ärmelkanal ist bei Sonnenuntergang spektakulär; genießen Sie das Panorama durch das Fenster, da es draußen oft sehr windig und frostig ist.",
+                "hu": "A La Manche csatorna feletti téli fény naplementekor látványos; élvezze a panorámát az ablakon keresztül, mivel kint gyakran nagyon szeles és fagyos az idő.",
+                "ro": "Lumina de iarnă peste Canalul Mânecii este spectaculoasă la apus; bucurați-vă de panoramă prin fereastră, deoarece afară este adesea foarte vântos și geros.",
+                "en": "The winter light over the English Channel is spectacular at sunset; enjoy the panorama through the window, as it is often very windy and frosty outside on the wall."
+              }
+            },
+            {
+              "name": {
+                "de": "Broomhill Sands",
+                "hu": "Broomhill Sands",
+                "ro": "Broomhill Sands",
+                "en": "Broomhill Sands"
+              },
+              "tip_5lang": {
+                "de": "Kurze Gänge am Strand sind vor dem frühen Dunkelwerden am besten; achten Sie auf die Temperaturanzeige im Auto, da es nach 16:30 Uhr schnell kälter wird.",
+                "hu": "A rövid tengerparti séták a legjobb választások a korai sötétedés előtt; figyelje az autó hőmérőjét, mivel 16:30 után már nagyon gyorsan hűl a levegő.",
+                "ro": "Scurtele plimbări pe plajă sunt cele mai bune înainte de întunericul timpuriu; urmăriți termometrul mașinii, deoarece după ora 16:30 se răcește foarte repede.",
+                "en": "Short walks on the beach are best before the early darkness falls; watch the car's temperature display as it cools down very quickly after 16:30 in winter."
+              }
+            }
+          ]
+        }
       }
     }
   }

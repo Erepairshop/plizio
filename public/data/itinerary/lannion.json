@@ -137,6 +137,168 @@
         "hu": "A nap a történelmi központban indul, ahol favázas házak adják Lannion bájos hangulatát. Délben felfedezheti a vallási remekműveket és az impozáns lépcsőket, amelyek lenyűgöző kilátást nyújtanak. A délután egy pihentető séta jegyében telik a Le Léguer folyó mentén. Este a festői környezetet egy helyi kávézó teraszáról is megcsodálhatja, miközben a város lassan elcsendesedik a folyó partján.",
         "ro": "Ziua începe în centrul istoric, unde casele cu structură din lemn definesc atmosfera fermecătoare din Lannion. La prânz, explorați capodoperele religioase și scările impunătoare care oferă o priveliște uimitoare de sus. După-amiaza este dedicată unei plimbări relaxante de-a lungul râului Le Léguer. Seara vă puteți bucura de peisajul pitoresc și liniștit la una dintre cafenelele locale de pe mal.",
         "en": "The day begins in the historic center, where half-timbered houses define the charming atmosphere of Lannion. Around midday, you will explore the religious masterpieces and the imposing staircases offering breathtaking views. The afternoon is dedicated to a relaxing walk along the scenic river Le Léguer. In the evening, enjoy the picturesque and tranquil backdrop from a local riverside cafe as the day winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die Place du Centre unter dem Schutz der Arkaden. Mittags bieten die historischen Kirchen trockene Zuflucht und spirituelle Ruhe. Am Nachmittag steigen Sie vorsichtig die nassen Granitstufen von Brélévenez hinauf, wo der Nebel eine mystische Atmosphäre schafft. Abends spiegelt sich das Stadtlicht malerisch in den Pfützen entlang des Flusses Le Léguer wider.",
+            "hu": "Reggel az árkádok alatt bújva fedezzük fel a főteret. Délben a történelmi templomok nyújtanak száraz menedéket és csendes elmélyülést. Délután óvatosan másszuk meg Brélévenez nedves gránitlépcsőit, ahol a köd misztikus hangulatot áraszt. Este a város fényei festőien tükröződnek a Le Léguer folyó menti tócsákban, miközben az eső kopog a háztetőkön.",
+            "ro": "Dimineața explorați Place du Centre sub protecția arcadelor. La prânz, bisericile istorice oferă un refugiu uscat și liniște spirituală. După-amiaza, urcați cu grijă treptele de granit umede din Brélévenez, unde ceața creează o atmosferă mistică. Seara, luminile orașului se reflectă pitoresc în bălțile de-a lungul râului Le Léguer, sub sunetul liniștitor al ploii.",
+            "en": "In the morning, explore Place du Centre protected by the ancient arcades. At noon, the historic churches provide dry refuge and spiritual peace. In the afternoon, carefully climb the wet granite steps of Brélévenez, where the mist creates a mystical atmosphere. In the evening, the city lights reflect picturesquely in the puddles along the Le Léguer river as rain falls."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place du Centre",
+                "hu": "Place du Centre",
+                "ro": "Place du Centre",
+                "en": "Place du Centre"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die Fachwerkhäuser unter Ihrem Regenschirm; das nasse Kopfsteinpflaster kann sehr rutschig sein, tragen Sie daher feste Schuhe mit gutem Profil.",
+                "hu": "Csodálja meg a favázas házakat az esernyő alól; a nedves macskakő rendkívül csúszós lehet, ezért viseljen bordázott talpú, vízálló lábbelit a biztonság érdekében.",
+                "ro": "Admirați casele cu structură din lemn de sub umbrelă; pavajul umed poate fi foarte alunecos, așa că purtați încălțăminte cu talpă aderentă pentru siguranță.",
+                "en": "Admire the half-timbered houses from under your umbrella; the wet cobblestones can be very slippery, so wear sturdy waterproof shoes with good grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-du-Baly",
+                "hu": "Église Saint-Jean-du-Baly",
+                "ro": "Église Saint-Jean-du-Baly",
+                "en": "Église Saint-Jean-du-Baly"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie diesen prächtigen Ort als perfekten Regenschutz und bewundern Sie die bunten Glasfenster, während draußen der typisch bretonische Regen fällt.",
+                "hu": "Használja ezt a pompás helyszínt tökéletes eső elleni menedékként, és csodálja meg a színes üvegablakokat, miközben odakint a tipikus breton eső esik.",
+                "ro": "Folosiți această locație splendidă ca refugiu perfect împotriva ploii și admirați vitraliile colorate în timp ce afară cade ploaia tipică bretonă.",
+                "en": "Use this magnificent site as a perfect rain shelter and admire the colorful stained glass windows while the typical Breton rain falls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de Brélévenez",
+                "hu": "Église de Brélévenez",
+                "ro": "Église de Brélévenez",
+                "en": "Église de Brélévenez"
+              },
+              "tip_4lang": {
+                "de": "Diese Kirche auf dem Hügel bietet trockenen Unterschlupf; genießen Sie die romanische Architektur und den Blick auf die regenverhangene Stadt von der Vorhalle.",
+                "hu": "Ez a dombtetőn álló templom száraz menedéket nyújt; élvezze a román stílusú építészetet és a kilátást az esőbe burkolózó városra a templom előcsarnokából.",
+                "ro": "Această biserică din vârful dealului oferă un adăpost uscat; bucurați-vă de arhitectura romanică și de vederea asupra orașului acoperit de ploaie din pridvor.",
+                "en": "This hilltop church offers a dry sanctuary; enjoy the Romanesque architecture and the view of the rain-shrouded city from the shelter of the porch."
+              }
+            },
+            {
+              "name": {
+                "de": "Escalier de Brélévenez",
+                "hu": "Escalier de Brélévenez",
+                "ro": "Escalier de Brélévenez",
+                "en": "Escalier de Brélévenez"
+              },
+              "tip_4lang": {
+                "de": "Steigen Sie die 140 Stufen langsam hinauf; der Granit glänzt im Regen wunderschön, ist aber tückisch glatt. Halten Sie sich am Handlauf fest.",
+                "hu": "Lassan másszon fel a 140 lépcsőfokon; a gránit csodásan csillog az esőben, de csalókán csúszós. Mindenképpen kapaszkodjon a korlátba haladás közben.",
+                "ro": "Urcați cele 140 de trepte încet; granitul strălucește frumos în ploaie, dar este înșelător de alunecos. Țineți-vă bine de balustradă în timpul urcării.",
+                "en": "Climb the 140 steps slowly; the granite shines beautifully in the rain but is treacherously slick. Ensure you hold onto the handrail while ascending."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Léguer",
+                "hu": "Le Léguer",
+                "ro": "Le Léguer",
+                "en": "Le Léguer"
+              },
+              "tip_4lang": {
+                "de": "Der Fluss wirkt bei grauem Himmel besonders dramatisch; wandern Sie auf den befestigten Uferwegen, um Matsch zu vermeiden und die Aussicht zu genießen.",
+                "hu": "A folyó különösen drámai látványt nyújt a szürke égbolt alatt; maradjon a kiépített part menti utakon, hogy elkerülje a sarat és élvezze a kilátást.",
+                "ro": "Râul oferă o priveliște deosebit de dramatică sub cerul gri; rămâneți pe potecile pavate de pe mal pentru a evita noroiul și a vă bucura de peisaj.",
+                "en": "The river looks particularly dramatic under grey skies; stick to the paved riverside paths to avoid mud while enjoying the atmospheric water views."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens liegt oft Reif auf den alten Dächern des Zentrums. Mittags wärmen Sie sich in den dicken Mauern der Kirchen auf, wo die Stille besonders intensiv ist. Am Nachmittag nutzen Sie das klare Winterlicht für Fotos auf der Treppe, bevor es gegen 17 Uhr dunkel wird. Den Abend verbringen Sie bei einem warmen Getränk in der Nähe des Hafens, während die Winterbrise weht.",
+            "hu": "Reggel gyakran dér borítja a központ ősi tetőit. Délben a templomok vastag falai között melegedhetünk fel, ahol a csend ilyenkor különösen mély. Délután használjuk ki a tiszta téli fényeket a lépcsősoron, mielőtt 17 óra körül leszáll az éj. Az estét töltsük egy forró ital mellett a kikötő közelében, miközben odakint fúj a téli szél.",
+            "ro": "Dimineața, promoroaca acoperă adesea acoperișurile vechi din centru. La prânz, vă puteți încălzi între zidurile groase ale bisericilor, unde liniștea este profundă. După-amiaza, profitați de lumina clară de iarnă pentru fotografii pe scări, înainte de apusul de la ora 17. Seara, savurați o băutură caldă lângă port în timp ce adie briza rece.",
+            "en": "In the morning, frost often covers the ancient roofs of the center. At noon, warm up within the thick walls of the churches, where the silence is especially deep. In the afternoon, use the clear winter light for photos on the stairs before darkness falls around 5 PM. Spend the evening with a warm drink near the harbor."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place du Centre",
+                "hu": "Place du Centre",
+                "ro": "Place du Centre",
+                "en": "Place du Centre"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die klare Luft am Morgen; die historischen Fassaden wirken im Winterlicht besonders scharf. Tragen Sie Thermokleidung für den längeren Aufenthalt.",
+                "hu": "Élvezze a friss reggeli levegőt; a történelmi homlokzatok különösen élesen látszanak a téli fényben. Viseljen hőtartó ruházatot a hosszabb városnézéshez.",
+                "ro": "Bucurați-vă de aerul proaspăt de dimineață; fațadele istorice par deosebit de clare în lumina iernii. Purtați haine termice pentru o ședere prelungită.",
+                "en": "Enjoy the crisp morning air; the historic facades look particularly sharp in the winter light. Wear thermal layers for a comfortable extended stay."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Jean-du-Baly",
+                "hu": "Église Saint-Jean-du-Baly",
+                "ro": "Église Saint-Jean-du-Baly",
+                "en": "Église Saint-Jean-du-Baly"
+              },
+              "tip_4lang": {
+                "de": "Ein ruhiger Ort, um der Kälte zu entfliehen; das gedimmte Licht im Inneren schafft eine gemütliche Atmosphäre. Mütze und Handschuhe beim Eintreten abnehmen.",
+                "hu": "Csendes hely a hideg elől való menekülésre; a benti tompa fények meghitt hangulatot árasztanak. Belépéskor ne felejtse el levenni a sapkát és a kesztyűt.",
+                "ro": "Un loc liniștit pentru a scăpa de frig; lumina difuză din interior creează o atmosferă primitoare. Nu uitați să vă scoateți căciula și mănușile la intrare.",
+                "en": "A peaceful spot to escape the cold; the dimmed interior lighting creates a cozy atmosphere. Remember to remove your hat and gloves upon entering."
+              }
+            },
+            {
+              "name": {
+                "de": "Église de Brélévenez",
+                "hu": "Église de Brélévenez",
+                "ro": "Église de Brélévenez",
+                "en": "Église de Brélévenez"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie die Details der Portale im tiefstehenden Sonnenlicht; die Kirche ist im Winter meist sehr kühl, behalten Sie also Ihren Mantel an.",
+                "hu": "Csodálja meg a kapuk részleteit az alacsonyan járó téli napsütésben; a templom télen általában igen hűvös, így érdemes a kabátot magunkon hagyni.",
+                "ro": "Admirați detaliile portalurilor în lumina soarelui de iarnă; biserica este de obicei foarte răcoroasă iarna, așa că păstrați haina pe dumneavoastră.",
+                "en": "Admire the portal details in the low winter sun; the church is usually very cool in winter, so keep your coat on while exploring the interior."
+              }
+            },
+            {
+              "name": {
+                "de": "Escalier de Brélévenez",
+                "hu": "Escalier de Brélévenez",
+                "ro": "Escalier de Brélévenez",
+                "en": "Escalier de Brélévenez"
+              },
+              "tip_4lang": {
+                "de": "Der Aufstieg bringt den Kreislauf in Schwung und hält warm; achten Sie jedoch auf Raureif oder Eis auf den Stufen, besonders im Schatten der Häuser.",
+                "hu": "A felfelé menet felpezsdíti a vérkeringést és melegen tart; ügyeljen azonban a dérre vagy jégre a lépcsőkön, különösen a házak árnyékos oldalán.",
+                "ro": "Urcarea vă va pune sângele în mișcare și vă va ține de cald; totuși, atenție la chiciură sau gheață pe trepte, mai ales în umbra caselor.",
+                "en": "The climb will boost your circulation and keep you warm; however, watch out for frost or ice on the steps, especially in the shadows of the houses."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Léguer",
+                "hu": "Le Léguer",
+                "ro": "Le Léguer",
+                "en": "Le Léguer"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang über dem Wasser gegen 17:00 Uhr; die kühle Brise vom Fluss macht einen warmen Schal unverzichtbar.",
+                "hu": "Figyelje meg a korai naplementét a víz felett 17:00 körül; a folyó felől fújó hűvös szellő miatt egy meleg sál elengedhetetlen kellék a sétához.",
+                "ro": "Observați apusul timpuriu peste apă în jurul orei 17:00; briza rece de la râu face ca un fular gros să fie indispensabil pentru această plimbare.",
+                "en": "Watch the early sunset over the water around 5:00 PM; the cool breeze from the river makes a warm scarf essential for this scenic winter walk."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpártúráját a Place du Centre-n, és szívja magába az óváros történelmi energiáját. Délben a kerékpár gyorsan elviszi Brélévenez ikonikus lépcsőihez és a Léguer csendes partjaihoz. A délután rejtett természeti gyöngyszemekhez vezet, mint például a békés Bassin d'Orage és a zöld parkok. Az este kellemes pihenésre és a friss, tiszta breton levegő nyugodt élvezetére csábítja a látogatókat.",
         "ro": "Începeți turul cu bicicleta în Place du Centre și absorbiți energia istorică a orașului vechi. La prânz, bicicleta vă duce rapid la scările emblematice din Brélévenez și pe malurile liniștite ale râului Léguer. După-amiaza vă conduce către perle naturale ascunse, precum Bassin d'Orage și parcurile frumos amenajate. Seara vă invită să vă relaxați pur și simplu și să vă bucurați de briza aerului breton.",
         "en": "Start your bike tour at Place du Centre, soaking in the historic energy of the old town. By midday, your bike swiftly takes you to the iconic Brélévenez stairs and the quiet banks of the Léguer. The afternoon leads you to hidden natural gems like the peaceful Bassin d'Orage and lush green parklands. The evening invites you to simply relax and enjoy the crisp and refreshing Breton air without any rush."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Place du Centre, da das Kopfsteinpflaster bei Nässe rutschig ist. Mittags führt die Tour entlang des Flusses, wo der Regen für eine erfrischende, wenn auch feuchte Fahrt sorgt. Am Nachmittag bietet der Bassin d'Orage ein interessantes Schauspiel der Wasserbewältigung. Beenden Sie den Tag zügig, bevor die Sicht bei einsetzender Dunkelheit und Regen nachlässt.",
+            "hu": "Induljon óvatosan a Place du Centre-ről, mivel a macskakő nedvesen csúszós. Délben a túra a folyó mentén halad, ahol az eső frissítő, bár párás utat biztosít. Délután a Bassin d'Orage látványos képet mutat a víz elvezetéséről. Zárja a napot tempósan, mielőtt a látási viszonyok a sötétedéssel és az esővel jelentősen romlanak.",
+            "ro": "Porniți cu atenție din Place du Centre, deoarece pavajul este alunecos când e ud. La prânz, traseul urmează râul, unde ploaia oferă o cursă răcoritoare, deși umedă. După-amiaza, Bassin d'Orage oferă un spectacol interesant de gestionare a apei. Încheiați ziua rapid, înainte ca vizibilitatea să scadă din cauza întunericului și a ploii.",
+            "en": "Start carefully from Place du Centre, as the cobblestones are slippery when wet. At noon, the tour follows the river, where the rain provides a refreshing ride. In the afternoon, the Bassin d'Orage shows an interesting display of water management. Finish the day briskly before visibility decreases with darkness and rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place du Centre",
+                "hu": "Place du Centre",
+                "ro": "Place du Centre",
+                "en": "Place du Centre"
+              },
+              "tip_4lang": {
+                "de": "Vermeiden Sie scharfe Bremsmanöver auf dem nassen Pflaster; prüfen Sie Ihre Bremsen vor dem Start und tragen Sie eine wasserdichte Regenjacke.",
+                "hu": "Kerülje az erős fékezést a nedves kövön; indulás előtt ellenőrizze a fékeket, és viseljen vízálló esőkabátot a teljes védelem érdekében.",
+                "ro": "Evitați frânările bruște pe pavajul umed; verificați frânele înainte de pornire și purtați o jachetă de ploaie complet impermeabilă.",
+                "en": "Avoid sharp braking on the wet stones; check your brakes before starting and wear a fully waterproof rain jacket for maximum protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Escalier de Brélévenez",
+                "hu": "Escalier de Brélévenez",
+                "ro": "Escalier de Brélévenez",
+                "en": "Escalier de Brélévenez"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Fahrrad sicher unten ab; der Granit der Treppe ist bei Regen extrem rutschig zum Gehen, nutzen Sie festes Schuhwerk.",
+                "hu": "Láncolja le biztonságosan a kerékpárt a lépcső alján; a gránit fokok esőben rendkívül csúszósak a gyalogláshoz, viseljen jó tapadású cipőt.",
+                "ro": "Parcați bicicleta în siguranță la baza scărilor; granitul este extrem de alunecos pentru mersul pe jos în ploaie, folosiți încălțăminte adecvată.",
+                "en": "Park your bike securely at the bottom; the granite of the stairs is extremely slippery for walking in the rain, so use footwear with good traction."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Léguer",
+                "hu": "Le Léguer",
+                "ro": "Le Léguer",
+                "en": "Le Léguer"
+              },
+              "tip_4lang": {
+                "de": "Fahren Sie vorsichtig auf den ufernahen Wegen, da sich Pfützen bilden können; Schutzbleche am Rad sind heute besonders wichtig gegen Spritzwasser.",
+                "hu": "Közlekedjen óvatosan a part menti utakon, mivel tócsák alakulhatnak ki; a sárvédő ma különösen fontos a felcsapódó víz és sár ellen.",
+                "ro": "Mergeți cu atenție pe potecile de pe mal, deoarece se pot forma bălți; apărătorile de noroi sunt esențiale astăzi împotriva apei împroșcate.",
+                "en": "Ride carefully on the riverside paths as puddles can form; mudguards on your bike are especially important today against splashing water."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin d'Orage",
+                "hu": "Bassin d'Orage",
+                "ro": "Bassin d'Orage",
+                "en": "Bassin d'Orage"
+              },
+              "tip_4lang": {
+                "de": "Hier sehen Sie die Funktion des Beckens bei Regen direkt in Aktion; halten Sie Abstand zum Wasserrand, da die Wege durch Schlamm glitschig sein können.",
+                "hu": "Itt közvetlenül láthatja a tározó funkcióját esőben; tartson távolságot a víz szélétől, mivel az utak a sártól sikamlósak lehetnek.",
+                "ro": "Aici puteți vedea funcția bazinului în timpul ploii direct în acțiune; păstrați distanța de marginea apei, deoarece drumurile pot fi alunecoase.",
+                "en": "Here you can see the basin's function in the rain directly in action; keep a safe distance from the water's edge as paths can be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux des Fontaines",
+                "hu": "Aire de Jeux des Fontaines",
+                "ro": "Aire de Jeux des Fontaines",
+                "en": "Aire de Jeux des Fontaines"
+              },
+              "tip_4lang": {
+                "de": "Die Spielplatzgeräte sind nass und nicht benutzbar; nutzen Sie den Ort für eine kurze Verschnaufpause unter einem Baum, bevor Sie zurückfahren.",
+                "hu": "A játszótéri eszközök nedvesek és nem használhatók; használja a helyszínt egy rövid pihenőre egy fa alatt, mielőtt visszatekerne a városba.",
+                "ro": "Echipamentele de joacă sunt ude și inutilizabile; folosiți locația pentru o scurtă pauză sub un copac înainte de a porni înapoi spre oraș.",
+                "en": "The playground equipment is wet and unusable; use the location for a brief rest under a tree before cycling back to the city center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine belebende Wintertour durch Lannion. Morgens sorgt die kalte Luft für klare Sicht im Zentrum. Mittags radeln Sie zügig am Fluss entlang, um warm zu bleiben. Der Nachmittag bietet ruhige Momente am Bassin d'Orage, bevor die Sonne früh hinter den Hügeln verschwindet. Achten Sie darauf, die Tour vor 17 Uhr zu beenden, wenn die Temperaturen schnell sinken.",
+            "hu": "Frissítő téli túra Lannionban. Reggel a hideg levegő tiszta látási viszonyokat biztosít a központban. Délben tekerjen tempósan a folyó mentén, hogy melegen tartsa magát. A délután csendes pillanatokat kínál a Bassin d'Orage-nál, mielőtt a nap korán eltűnik a dombok mögött. Figyeljen rá, hogy 17 óra előtt befejezze az utat.",
+            "ro": "O tură de iarnă revigorantă prin Lannion. Dimineața, aerul rece asigură o vizibilitate clară în centru. La prânz, pedalați rapid de-a lungul râului pentru a vă menține cald. După-amiaza oferă momente liniștite la Bassin d'Orage, înainte ca soarele să dispară devreme. Încheiați tura înainte de ora 17.",
+            "en": "An invigorating winter tour through Lannion. In the morning, the cold air ensures clear views in the center. At noon, cycle briskly along the river to stay warm. The afternoon offers quiet moments at Bassin d'Orage before the sun disappears early. Aim to finish your ride before 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Place du Centre",
+                "hu": "Place du Centre",
+                "ro": "Place du Centre",
+                "en": "Place du Centre"
+              },
+              "tip_4lang": {
+                "de": "Die Kälte ist im historischen Zentrum spürbar; tragen Sie winddichte Handschuhe, um Ihre Finger beim Lenken und Bremsen beweglich zu halten.",
+                "hu": "A hideg érezhető a történelmi központban; viseljen szélálló kesztyűt, hogy ujjai mozgékonyak maradjanak a kormányzáshoz és fékezéshez.",
+                "ro": "Frigul este sesizabil în centrul istoric; purtați mănuși rezistente la vânt pentru a vă menține degetele mobile pentru direcție și frânare.",
+                "en": "The cold is noticeable in the historic center; wear windproof gloves to keep your fingers mobile for steering and braking during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Escalier de Brélévenez",
+                "hu": "Escalier de Brélévenez",
+                "ro": "Escalier de Brélévenez",
+                "en": "Escalier de Brélévenez"
+              },
+              "tip_4lang": {
+                "de": "Lassen Sie das Rad unten stehen; der kurze Fußmarsch nach oben ist ein tolles Workout, um den Körper bei winterlichen Temperaturen aufzuheizen.",
+                "hu": "Hagyja a kerékpárt alul; a rövid séta felfelé kiváló edzés, hogy felmelegítse testét a téli hőmérsékletben. Ügyeljen az esetleges jeges foltokra.",
+                "ro": "Lăsați bicicleta jos; scurta plimbare pe jos este un antrenament excelent pentru a vă încălzi corpul la temperaturile de iarnă.",
+                "en": "Leave the bike at the bottom; the short walk up is a great workout to heat up your body in winter temperatures. Watch for potential icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Léguer",
+                "hu": "Le Léguer",
+                "ro": "Le Léguer",
+                "en": "Le Léguer"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie den weiten Blick über den Fluss; die Luft ist hier oft kälter, daher ist ein Gesichtsschutz oder ein hochgezogener Schal ratsam.",
+                "hu": "Élvezze a tágas kilátást a folyóra; a levegő itt gyakran hidegebb, ezért arcvédő vagy egy magasra húzott sál használata tanácsos tekerés közben.",
+                "ro": "Bucurați-vă de vederea largă peste râu; aerul este adesea mai rece aici, așa că o mască de față sau un fular ridicat este recomandat.",
+                "en": "Enjoy the wide view over the river; the air is often colder here, so a face mask or a high-pulled scarf is advisable while cycling along the bank."
+              }
+            },
+            {
+              "name": {
+                "de": "Bassin d'Orage",
+                "hu": "Bassin d'Orage",
+                "ro": "Bassin d'Orage",
+                "en": "Bassin d'Orage"
+              },
+              "tip_4lang": {
+                "de": "Die Natur wirkt hier im Winter sehr friedlich; halten Sie sich wegen möglicher Glätte auf den Holzstegen fern von den unbefestigten Rändern.",
+                "hu": "A természet itt télen nagyon békés; a fapallókon előforduló csúszásveszély miatt tartsa távol magát a kiépítetlen, sáros szélektől.",
+                "ro": "Natura pare foarte liniștită aici iarna; din cauza posibilei polei pe pasarelele de lemn, stați departe de marginile neamenajate.",
+                "en": "Nature looks very peaceful here in winter; stay away from unpaved edges due to possible slipperiness on wooden paths or frozen mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Aire de Jeux des Fontaines",
+                "hu": "Aire de Jeux des Fontaines",
+                "ro": "Aire de Jeux des Fontaines",
+                "en": "Aire de Jeux des Fontaines"
+              },
+              "tip_4lang": {
+                "de": "Ein kurzer Stopp reicht aus, bevor Sie zur Basis zurückkehren; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für die Rückfahrt bei Dämmerung funktioniert.",
+                "hu": "Egy rövid megálló is elég, mielőtt visszatérne; győződjön meg róla, hogy a kerékpár világítása jól működik a szürkületi visszautazáshoz.",
+                "ro": "O scurtă oprire este suficientă înainte de a vă întoarce; asigurați-vă că luminile bicicletei funcționează bine pentru drumul de întoarcere la amurg.",
+                "en": "A short stop is enough before returning to base; ensure your bike lights are functioning perfectly for the return trip in the gathering twilight."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autós utazása Lannion szívében kezdődik, ahol az építészet és a történelmi templomok azonnal lenyűgözik a látogatót. Délben a város zöldellő peremére hajt, amely tökéletes egy hosszabb természeti pihenőre. A délután jelentősen tovább viszi északra, ahol a régi mosóházak és a partvidék közelsége dominálja a csodás tájat. A nap végül teljes nyugalomban, egy idilli vidéki környezetben ér véget a tenger közelében.",
         "ro": "Călătoria dumneavoastră cu mașina începe în inima orașului Lannion, unde arhitectura și istoria bisericilor vă fascinează instantaneu. La prânz, conduceți spre marginile verzi ale orașului, perfecte pentru o pauză relaxantă în natură. După-amiaza vă poartă considerabil mai la nord, unde spălătoriile vechi și proximitatea coastei domină cu grație peisajul pitoresc. Ziua se încheie relaxant într-un cadru rural uimitor și extrem de liniștit.",
         "en": "Your car journey begins in the heart of Lannion, where majestic architecture and historical churches instantly captivate your attention. By midday, you drive to the green outskirts of the city, perfectly suited for a peaceful and long rest in nature. The afternoon takes you further north, where charming old washhouses and close coastal proximity dominate the scenic landscape. The day ends completely relaxed in a beautiful, idyllic rural setting near the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie Lannion bequem vom Auto aus. Morgens besichtigen Sie die Kirche Saint-Jean-du-Baly, nur einen kurzen Sprung vom Parkplatz entfernt. Mittags bietet die Fahrt zum Escalier de Brélévenez tolle Ausblicke durch die Scheibe. Der Nachmittag führt Sie zu Saint-Hugeon und dem Lavoir, wo Sie die historische Atmosphäre trotz Regen erleben. Der Tag endet sicher am Küstenabschnitt von Le Lenn.",
+            "hu": "Élvezze Lanniont kényelmesen az autóból. Reggel látogasson el a Saint-Jean-du-Baly templomba, csak egy ugrásra a parkolótól. Délben az út a Brélévenez lépcsőhöz remek kilátást nyújt az ablakon át. A délután Saint-Hugeonhoz és a Lavoirhoz vezet, ahol az eső ellenére is átélheti a történelmi hangulatot. A nap biztonságban zárul Le Lenn partján.",
+            "ro": "Bucurați-vă de Lannion confortabil din mașină. Dimineața vizitați biserica Saint-Jean-du-Baly, la doar un pas de parcare. La prânz, drumul spre Escalier de Brélévenez oferă vederi minunate prin parbriz. După-amiaza vă conduce la Saint-Hugeon și Lavoir, unde experimentați atmosfera istorică în ciuda ploii. Ziua se încheie sigur la țărmul Le Lenn.",
+            "en": "Enjoy Lannion comfortably from your car. In the morning, visit Saint-Jean-du-Baly church, just a short hop from the parking lot. At noon, the drive to the Brélévenez steps offers great views through the window. The afternoon leads you to Saint-Hugeon and the Lavoir. The day ends safely at the coastal area of Le Lenn."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Jean-du-Baly",
+                "hu": "Église Saint-Jean-du-Baly",
+                "ro": "Église Saint-Jean-du-Baly",
+                "en": "Église Saint-Jean-du-Baly"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie auf dem nahegelegenen Platz, um den Fußweg im Regen kurz zu halten; die Kirche ist ein idealer, trockener Ort für Kultur bei Schietwetter.",
+                "hu": "Parkoljon a közeli téren, hogy az esőben megtett séta rövid maradjon; a templom ideális, száraz helyszín a kultúrához cudar idő esetén is.",
+                "ro": "Parcați în piața din apropiere pentru a scurta drumul pe jos prin ploaie; biserica este un loc ideal și uscat pentru cultură pe vreme rea.",
+                "en": "Park in the nearby square to keep your walk in the rain short; the church is an ideal, dry location for culture during wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Escalier de Brélévenez",
+                "hu": "Escalier de Brélévenez",
+                "ro": "Escalier de Brélévenez",
+                "en": "Escalier de Brélévenez"
+              },
+              "tip_4lang": {
+                "de": "Fahren Sie bis zum oberen Ende der Treppe, um die Aussicht aus dem trockenen Auto zu genießen, ohne alle 140 nassen Stufen erklimmen zu müssen.",
+                "hu": "Hajtson el a lépcsősor felső végéhez, hogy a száraz autóból élvezhesse a kilátást anélkül, hogy meg kellene másznia mind a 140 nedves fokot.",
+                "ro": "Conduceți până în vârful scărilor pentru a vă bucura de priveliște din mașina uscată, fără a fi nevoie să urcați toate cele 140 de trepte ude.",
+                "en": "Drive to the top of the stairs to enjoy the view from the dry car without having to climb all 140 wet granite steps in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hugeon",
+                "hu": "Saint-Hugeon",
+                "ro": "Saint-Hugeon",
+                "en": "Saint-Hugeon"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten direkt vor Ort; bei starkem Regen ist dieser Stopp kurz und bündig, aber dennoch historisch sehr lohnenswert.",
+                "hu": "Használja ki a közvetlen helyszíni parkolási lehetőséget; heves esőben ez a megálló rövid és lényegre törő, de történelmileg így is megéri.",
+                "ro": "Profitate de locurile de parcare direct la fața locului; în caz de ploaie torențială, această oprire este scurtă, dar merită din punct de vedere istoric.",
+                "en": "Take advantage of the parking right on site; during heavy rain, this stop is brief and concise but still historically very worthwhile to visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Lavoir",
+                "hu": "Lavoir",
+                "ro": "Lavoir",
+                "en": "Lavoir"
+              },
+              "tip_4lang": {
+                "de": "Der historische Waschplatz ist überdacht; Sie können also trotz Regen aussteigen und die Architektur bewundern, ohne nass zu werden.",
+                "hu": "A történelmi mosóhely fedett, így az eső ellenére is kiszállhat megcsodálni az építményt anélkül, hogy bőrig ázna a nézelődés közben.",
+                "ro": "Spălătoria istorică este acoperită; deci puteți coborî din mașină pentru a admira arhitectura fără a vă uda, în ciuda ploii de afară.",
+                "en": "The historic laundry site is covered, so you can step out to admire the architecture without getting soaked despite the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Lenn",
+                "hu": "Le Lenn",
+                "ro": "Le Lenn",
+                "en": "Le Lenn"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das aufgewühlte Meer direkt vom Parkplatz aus; die Brandung wirkt bei Sturm besonders kraftvoll und ist aus dem Auto sicher zu sehen.",
+                "hu": "Figyelje meg a felkavart tengert közvetlenül a parkolóból; a hullámverés viharban különösen erőteljes, és az autóból biztonságosan szemlélhető.",
+                "ro": "Observați marea agitată direct din parcare; valurile par deosebit de puternice în timpul furtunii și pot fi văzute în siguranță din mașină.",
+                "en": "Watch the turbulent sea directly from the parking area; the surf looks especially powerful during a storm and is safe to view from your vehicle."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Entdecken Sie Lannion im Winter mit dem Komfort einer Sitzheizung. Vormittags besuchen Sie die Kirchen im Zentrum. Mittags bietet die Fahrt über die Hügel weite Ausblicke auf die frostige Landschaft. Am Nachmittag erkunden Sie Saint-Hugeon, bevor Sie pünktlich zum Sonnenuntergang am Strand von Le Lenn ankommen. Die beheizte Kabine macht die Tour auch bei Minusgraden zum Vergnügen.",
+            "hu": "Fedezze fel Lanniont télen az ülésfűtés kényelmével. Délelőtt látogasson el a központ templomaiba. Délben a dombokon át vezető út tágas kilátást nyújt a deres tájra. Délután fedezze fel Saint-Hugeont, mielőtt pontosan naplementére megérkezne Le Lenn strandjára. A fűtött utastér a fagyban is élvezetessé teszi a túrát.",
+            "ro": "Descoperiți Lannion iarna cu confortul încălzirii în scaune. Dimineața vizitați bisericile din centru. La prânz, drumul peste dealuri oferă vederi largi asupra peisajului înghețat. După-amiaza explorați Saint-Hugeon, înainte de a ajunge la plaja Le Lenn la apus. Cabina încălzită face tura plăcută chiar și pe ger.",
+            "en": "Discover Lannion in winter with the comfort of heated seats. In the morning, visit the central churches. At noon, the drive over the hills offers wide views of the frosty landscape. In the afternoon, explore Saint-Hugeon before arriving at Le Lenn beach for sunset. The heated car makes the tour enjoyable even in freezing temperatures."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Église Saint-Jean-du-Baly",
+                "hu": "Église Saint-Jean-du-Baly",
+                "ro": "Église Saint-Jean-du-Baly",
+                "en": "Église Saint-Jean-du-Baly"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie die kurzen Wege vom Auto ins Warme; die Kirche ist im Winter ein prachtvoller und ruhiger Rückzugsort. Achten Sie auf glatte Parkplatzflächen.",
+                "hu": "Használja ki a rövid utat az autótól a melegbe; a templom télen pompás és csendes menedék. Ügyeljen a parkoló esetlegesen jeges felületeire.",
+                "ro": "Folosiți distanța scurtă de la mașină la căldură; biserica este un refugiu splendid și liniștit iarna. Atenție la suprafețele alunecoase din parcare.",
+                "en": "Take advantage of the short distance from the car to warmth; the church is a splendid and quiet winter retreat. Watch for icy spots in the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Escalier de Brélévenez",
+                "hu": "Escalier de Brélévenez",
+                "ro": "Escalier de Brélévenez",
+                "en": "Escalier de Brélévenez"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie oben für den besten Blick ohne Anstrengung; die kalte Winterluft macht die Sicht über die Stadt heute besonders klar und weit.",
+                "hu": "Parkoljon fent a legjobb kilátásért megerőltetés nélkül; a hideg téli levegő miatt a város feletti kilátás ma különösen tiszta és messzire nyúló.",
+                "ro": "Parcați sus pentru cea mai bună vedere fără efort; aerul rece de iarnă face ca vizibilitatea asupra orașului să fie deosebit de clară astăzi.",
+                "en": "Park at the top for the best view without exertion; the cold winter air makes the vista over the city particularly clear and far-reaching today."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Hugeon",
+                "hu": "Saint-Hugeon",
+                "ro": "Saint-Hugeon",
+                "en": "Saint-Hugeon"
+              },
+              "tip_4lang": {
+                "de": "Ein schneller Stopp, um die Winterstimmung einzufangen; die frostigen Bäume in der Umgebung bieten tolle Fotomotive direkt vom Wegesrand aus.",
+                "hu": "Gyors megálló a téli hangulat elcsípésére; a környező deres fák remek fotótémát kínálnak közvetlenül az út mellől, mielőtt visszaszállna a fűtött autóba.",
+                "ro": "O oprire rapidă pentru a surprinde atmosfera de iarnă; copacii înghețați din jur oferă subiecte foto excelente chiar de la marginea drumului.",
+                "en": "A quick stop to capture the winter mood; the surrounding frosty trees offer great photo opportunities right from the roadside before getting back in."
+              }
+            },
+            {
+              "name": {
+                "de": "Lavoir",
+                "hu": "Lavoir",
+                "ro": "Lavoir",
+                "en": "Lavoir"
+              },
+              "tip_4lang": {
+                "de": "Bewundern Sie das Steinmetzwerk in der kühlen Winterstille; der Ort wirkt im Winter fast verlassen und bietet eine ganz eigene, friedliche Aura.",
+                "hu": "Csodálja meg a kőfaragást a hűvös téli csendben; a helyszín télen szinte elhagyatottnak tűnik, ami sajátos, békés aurát kölcsönöz a látogatásnak.",
+                "ro": "Admirați lucrările în piatră în liniștea rece a iernii; locația pare aproape părăsită iarna, oferind o aură pașnică cu totul aparte.",
+                "en": "Admire the stonework in the cool winter silence; the site feels almost deserted in winter, offering a unique and peaceful aura for your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Lenn",
+                "hu": "Le Lenn",
+                "ro": "Le Lenn",
+                "en": "Le Lenn"
+              },
+              "tip_4lang": {
+                "de": "Kommen Sie vor 17 Uhr an, um den Wintersonnenuntergang zu erleben; die Farben am Horizont sind bei Kälte oft besonders intensiv und dramatisch.",
+                "hu": "Érkezzen 17 óra előtt, hogy lássa a téli naplementét; a látóhatár színei hidegben gyakran különösen intenzívek és drámaiak a tenger felett.",
+                "ro": "Ajungeți înainte de ora 17 pentru a vedea apusul de iarnă; culorile de la orizont sunt adesea deosebit de intense și dramatice pe vreme rece.",
+                "en": "Arrive before 5 PM to catch the winter sunset; the colors on the horizon are often particularly intense and dramatic during cold winter evenings."
+              }
+            }
+          ]
+        }
       }
     }
   }

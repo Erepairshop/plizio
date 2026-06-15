@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a Cité des Étoiles különleges formáinál, majd utazzon vissza az időben a Château de Saint-Gérald romjainál. Délben látogasson el a békés Église Saint-Nicolas templomba, mielőtt a folyó történelmével ismerkedne. Késő délután tegyen egy sétát a Parc de Normandie fáinak árnyékában, végül zárja a napot a Canal de Givors történelmi partjainál.",
         "ro": "Începeți dimineața admirând unghiurile unice de la Cité des Étoiles, apoi explorați ruinele Château de Saint-Gérald. La prânz, vizitați liniștita biserică Saint-Nicolas înainte de a descoperi istoria fluviului la Maison du Fleuve. Petreceți după-amiaza bucurându-vă de o plimbare pașnică în Parc de Normandie. Încheiați ziua explorând istoricul Canal de Givors.",
         "en": "Start your morning marveling at the unique geometric angles of the Cité des Étoiles, then step back in time at the Château de Saint-Gérald ruins. Midday brings you to the quiet sanctuary of Église Saint-Nicolas before diving into river history at the Maison du Fleuve. Spend your late afternoon enjoying a peaceful walk in Parc de Normandie. End your day exploring the historic Canal de Givors."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit Schirm an der Cité des Étoiles und gehen Sie vorsichtig zur Burgruine. Suchen Sie mittags Schutz in Kirche und Museum. Beenden Sie den Nachmittag mit wasserfester Kleidung am Kanal.",
+            "hu": "Indíts masszív esernyővel a Cité des Étoiles-nál, majd óvatosan nézd meg a csúszós várromot. Délben a templom és a múzeum nyújt száraz menedéket. Délután vízálló felszerelésben sétálj a csatorna mentén.",
+            "ro": "Începeți la Cité des Étoiles cu o umbrelă robustă, apoi mergeți la ruine unde e alunecos. La prânz, biserica și muzeul oferă adăpost. Încheiați după-amiaza de-a lungul canalului cu haine impermeabile.",
+            "en": "Start at Cité des Étoiles with a sturdy umbrella, then head to the ruins where paths get slippery. Seek shelter in the church and museum around noon. End your afternoon along the canal wearing good waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cité des Étoiles",
+                "hu": "Cité des Étoiles",
+                "ro": "Cité des Étoiles",
+                "en": "Cité des Étoiles"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die markante Architektur; bringen Sie einen Regenschirm mit, da die offenen Betonflächen wenig Schutz vor Regen bieten.",
+                "hu": "Csodáld meg a lenyűgöző építészetet; hozz masszív esernyőt, mert a nyitott beton terek alig nyújtanak menedéket a heves eső elől.",
+                "ro": "Admirați arhitectura impresionantă; aduceți o umbrelă robustă, deoarece spațiile deschise din beton oferă puțin adăpost de ploaie.",
+                "en": "Admire the striking architecture; bring a sturdy umbrella as the open concrete spaces offer very little shelter from the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Gérald",
+                "hu": "Château de Saint-Gérald",
+                "ro": "Château de Saint-Gérald",
+                "en": "Château de Saint-Gérald"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die mittelalterlichen Ruinen vorsichtig; die historischen, unebenen Steinwege werden bei Nässe extrem rutschig.",
+                "hu": "Óvatosan fedezd fel a középkori várromokat; a történelmi, egyenetlen kőutak és lépcsők esőben rendkívül csúszóssá és sarassá válnak.",
+                "ro": "Explorați ruinele medievale cu atenție; potecile istorice din piatră și treptele devin extrem de alunecoase și noroioase pe ploaie.",
+                "en": "Explore the medieval ruins carefully; the historic uneven stone paths and steps become extremely slippery and muddy when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um die Glasfenster zu bewundern; sie bietet einen friedlichen, trockenen Zufluchtsort vor dem anhaltenden Regen.",
+                "hu": "Lépj be, hogy megcsodáld az üvegablakokat; békés és teljesen száraz menedéket nyújt a szüntelen kinti felhőszakadás elől.",
+                "ro": "Pășiți înăuntru pentru a admira vitraliile; oferă un refugiu pașnic și complet uscat pentru a vă odihni de ploaia persistentă de afară.",
+                "en": "Step inside to admire the stained glass; it provides a peaceful, completely dry refuge to rest from the persistent outside downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Fleuve Rhône",
+                "hu": "Maison du Fleuve Rhône",
+                "ro": "Maison du Fleuve Rhône",
+                "en": "Maison du Fleuve Rhône"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die Flussgeschichte drinnen; dieses hervorragende Museum ist der perfekte, überdachte Ausflug bei trübem Wetter.",
+                "hu": "Fedezd fel a folyó gazdag történelmét bent; ez a kiváló múzeum tökéletes, teljesen fedett délutáni program a borongós időben.",
+                "ro": "Descoperiți istoria fluvială în interior; acest muzeu excelent este evadarea perfectă, complet acoperită, în zilele cu vreme posomorâtă.",
+                "en": "Discover the rich river history indoors; this excellent museum is the perfect fully covered afternoon escape from the gloomy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Normandie",
+                "hu": "Parc de Normandie",
+                "ro": "Parc de Normandie",
+                "en": "Parc de Normandie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen Spaziergang im Grünen; tragen Sie wasserdichte Schuhe, da die Grasflächen und unbefestigten Wege heute sehr matschig sind.",
+                "hu": "Tegyél egy frissítő sétát a zöldterületeken; viselj vízálló cipőt, mert a füves részek és a földutak ma meglehetősen sarasak lesznek.",
+                "ro": "Bucurați-vă de o plimbare revigorantă; purtați cizme impermeabile, deoarece zonele cu iarbă și potecile de pământ vor fi destul de noroioase.",
+                "en": "Enjoy a brisk walk through the green spaces; wear waterproof boots as the grassy areas and dirt paths will be quite muddy today."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Givors",
+                "hu": "Canal de Givors",
+                "ro": "Canal de Givors",
+                "en": "Canal de Givors"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie am historischen Wasserweg; der Regen sorgt für Stimmung, aber eine gute Regenjacke ist für diese offene Strecke unerlässlich.",
+                "hu": "Sétálj a történelmi vízi úton; az eső hangulatos atmoszférát teremt, de egy jó esőkabát elengedhetetlen ezen a nyílt szakaszon.",
+                "ro": "Plimbați-vă de-a lungul canalului istoric; ploaia adaugă o atmosferă melancolică, dar o pelerină solidă este esențială aici.",
+                "en": "Walk along the historic waterway; the rain adds a moody atmosphere, but a solid raincoat is essential for this exposed stretch."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kühler Morgen an der Cité des Étoiles, gefolgt von kaltem Wind an der Ruine. Wärmen Sie sich mittags in Kirche und Museum auf. Spazieren Sie im Park, bevor es gegen 17 Uhr am Kanal dunkel wird.",
+            "hu": "Csípős reggel a Cité des Étoiles-nál, majd hideg szél a várromnál. Délben melegedj fel a templomban és a múzeumban. Sétálj egyet a parkban, mielőtt 17:00 körül besötétedik a csatorna mellett.",
+            "ro": "Dimineață geroasă la Cité des Étoiles, urmată de vânt rece la ruine. Încălziți-vă la biserică și muzeu la prânz. Plimbați-vă prin parc înainte să se întunece la ora 17:00 pe malul canalului.",
+            "en": "Crisp morning at Cité des Étoiles, followed by chilly winds at the ruins. Warm up in the church and museum at noon. Enjoy a brisk walk in the park before sunset falls by the canal around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cité des Étoiles",
+                "hu": "Cité des Étoiles",
+                "ro": "Cité des Étoiles",
+                "en": "Cité des Étoiles"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie die geometrischen Formen; ziehen Sie sich warm an, da der eisige Winterwind oft durch den Komplex fegt.",
+                "hu": "Csodáld meg a geometriai formákat; öltözz meleg rétegekbe, mert a jeges téli szél gyakran végigsöpör a lakótelepen.",
+                "ro": "Admirați formele geometrice; îmbrăcați-vă în straturi calde, deoarece vântul înghețat de iarnă mătură adesea complexul.",
+                "en": "Marvel at the concrete geometric forms; dress in warm layers as the icy winter wind frequently sweeps through the complex."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Gérald",
+                "hu": "Château de Saint-Gérald",
+                "ro": "Château de Saint-Gérald",
+                "en": "Château de Saint-Gérald"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick von den Ruinen; packen Sie sich warm ein gegen die sehr kalten Winde an dieser erhöhten Position.",
+                "hu": "Élvezd a panorámát a romoktól; burkolózz be jól a nagyon hideg szelek ellen, amelyek ezt a magaslati pontot érik.",
+                "ro": "Admirați vederea panoramică de la ruine; înfofoliți-vă bine împotriva brizei foarte reci care lovește această poziție ridicată.",
+                "en": "Take in the panoramic views from the ruins; bundle up tightly against the very cold breezes that hit this elevated historic position."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Ruhe im stillen Innenraum; er bietet eine gemütliche Pause von der klaren Winterluft, während Sie die Architektur bewundern.",
+                "hu": "Találj nyugalmat a csendes belső térben; hangulatos pihenőt nyújt a csípős téli levegő elől, miközben csodálod az építészetet.",
+                "ro": "Găsiți confort în interiorul liniștit; oferă o pauză confortabilă de la aerul tăios de iarnă, în timp ce admirați arhitectura.",
+                "en": "Find comfort in the quiet interior; it offers a cozy break from the crisp winter air while you admire the historical architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Fleuve Rhône",
+                "hu": "Maison du Fleuve Rhône",
+                "ro": "Maison du Fleuve Rhône",
+                "en": "Maison du Fleuve Rhône"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie das lokale Flussökosystem in einem angenehm beheizten Raum während des kältesten Teils des Wintertages kennen.",
+                "hu": "Ismerd meg a helyi folyami ökoszisztémát egy kényelmesen fűtött térben a téli nap leghidegebb, legzordabb szakaszában.",
+                "ro": "Învățați despre ecosistemul fluvial într-un spațiu încălzit confortabil în timpul celei mai reci părți a zilei de iarnă.",
+                "en": "Learn about the local river ecosystem in a comfortably heated space during the coldest, harshest part of the winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Normandie",
+                "hu": "Parc de Normandie",
+                "ro": "Parc de Normandie",
+                "en": "Parc de Normandie"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie durch die kahlen, frostigen Bäume; das weiche Winterlicht ist schön, aber dicke Handschuhe werden empfohlen.",
+                "hu": "Sétálj a csupasz, deres fák között; a lágy téli fény gyönyörű, de a hideg miatt vastag kesztyű viselése erősen ajánlott.",
+                "ro": "Plimbați-vă printre copacii goi și înghețați; lumina de iarnă este frumoasă, dar mănușile groase sunt recomandate pentru frig.",
+                "en": "Stroll through the bare, frosty trees; the soft winter light is beautiful, but thick gloves are recommended for the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Givors",
+                "hu": "Canal de Givors",
+                "ro": "Canal de Givors",
+                "en": "Canal de Givors"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das eisige Wasser vor dem Sonnenuntergang um 17 Uhr; packen Sie sich für diesen Spaziergang am Ufer gut ein.",
+                "hu": "Élvezd a békés, jeges vizet a korai, 17:00 órás naplemente előtt; öltözz fel jól ehhez a szürkületi sétához a csendes parton.",
+                "ro": "Bucurați-vă de apele înghețate înainte de apusul de la ora 17:00; îmbrăcați-vă bine pentru această plimbare pe malurile liniștite.",
+                "en": "Enjoy the peaceful, icy waters before the early 5 PM sunset; wrap up well for this twilight walk along the quiet banks."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Indítson egy aktív napot az Espace Robert Jaffuelnél, majd kerékpározzon végig a Canal de Givors történelmi nyomvonalán. Délben pihenjen meg a Parc de Normandie zöldjében, és látogasson el a Maison du Fleuve Rhône-ba. Délután tekerjen el az Église Saint-Nicolas és a Cité des Étoiles mellett, majd zárja a napot a magaslati kastélyromoknál.",
         "ro": "Începeți o zi dinamică pe bicicletă la Espace Robert Jaffuel, urmată de o plimbare istorică de-a lungul Canal de Givors. Odihniți-vă la prânz în Parc de Normandie și descoperiți Maison du Fleuve Rhône. După-amiaza, pedalați pe lângă Église Saint-Nicolas către Cité des Étoiles, încheind ziua la ruinele castelului pentru un apus superb.",
         "en": "Kick off a dynamic day cycling starting at Espace Robert Jaffuel, followed by a historical ride tracing the Canal de Givors. Rest midday with a serene break at Parc de Normandie and dive into local heritage at Maison du Fleuve Rhône. As afternoon turns to evening, pedal past Église Saint-Nicolas to the fascinating Cité des Étoiles, concluding at the elevated Château ruins for sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie vorsichtig auf rutschigen Wegen. Radeln Sie mit Schutzblechen zum Kanal und Park. Trocknen Sie sich mittags in Museum und Kirche. Beenden Sie die Tour vorsichtig auf den nassen Steinen.",
+            "hu": "Óvatosan tekerj a csúszós utakon. Sárvédővel menj a csatornához és a parkba. Délben száratkozz meg a múzeumban és a templomban. A vizes köveken vigyázva fejezd be a túrát az építészeti csodáknál.",
+            "ro": "Pedalați cu grijă pe drumurile alunecoase. Folosiți apărători de noroi spre canal și parc. La prânz, uscați-vă în muzeu și biserică. Încheiați la ruine, având grijă la pietrele ude și alunecoase.",
+            "en": "Navigate carefully to avoid slippery paths. Cycle to the canal and park with mudguards. Dry off in the museum and church midday. Finish at the architectural sites with caution on wet stones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Espace Robert Jaffuel",
+                "hu": "Espace Robert Jaffuel",
+                "ro": "Espace Robert Jaffuel",
+                "en": "Espace Robert Jaffuel"
+              },
+              "tip_5lang": {
+                "de": "Beginnen Sie mit Indoor-Aktivitäten; sichern Sie Ihr Fahrrad und entfliehen Sie den starken morgendlichen Regenschauern komplett.",
+                "hu": "Kezdj beltéri tevékenységekkel vagy óvatos sporttal; zárd le a bringát, és menekülj el teljesen a heves reggeli záporok elől.",
+                "ro": "Începeți cu activități de interior; asigurați-vă bicicleta și scăpați complet de aversele puternice de dimineață.",
+                "en": "Begin with some indoor activities or careful sports; secure your bike and fully escape the heavy morning showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Givors",
+                "hu": "Canal de Givors",
+                "ro": "Canal de Givors",
+                "en": "Canal de Givors"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie auf dem historischen Weg; stellen Sie sicher, dass Ihr Rad Schutzbleche für die tiefen Pfützen am Ufer hat.",
+                "hu": "Tekerj a történelmi úton; ügyelj rá, hogy a bicikliden legyen sárvédő a vízparti mély pocsolyák miatt.",
+                "ro": "Pedalați pe poteca istorică; asigurați-vă că bicicleta are apărători de noroi pentru a face față bălților adânci de pe mal.",
+                "en": "Cycle along the historic path; ensure your bike has sturdy mudguards to handle the deep puddles along the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Normandie",
+                "hu": "Parc de Normandie",
+                "ro": "Parc de Normandie",
+                "en": "Parc de Normandie"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie durch die nassen Wege; reduzieren Sie Ihre Geschwindigkeit auf den rutschigen Blättern und genießen Sie den Regenduft.",
+                "hu": "Bringázz a nedves utakon; csökkentsd jelentősen a sebességet a csúszós faleveleken, és élvezd a friss esőillatot.",
+                "ro": "Mergeți pe potecile umede; reduceți semnificativ viteza pe frunzele căzute alunecoase și bucurați-vă de mirosul de ploaie.",
+                "en": "Ride through the wet, lush paths; reduce your speed significantly on the slippery fallen leaves and enjoy the fresh rain scent."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Fleuve Rhône",
+                "hu": "Maison du Fleuve Rhône",
+                "ro": "Maison du Fleuve Rhône",
+                "en": "Maison du Fleuve Rhône"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und trocknen Sie sich drinnen ab, während Sie faszinierende Ausstellungen über das Flussleben erkunden.",
+                "hu": "Parkold le a bringát és száradozz meg bent, miközben a régió gazdag folyami életéről szóló lenyűgöző kiállításokat nézed.",
+                "ro": "Parcați bicicleta și uscați-vă complet înăuntru în timp ce explorați expoziții fascinante despre viața fluvială a regiunii.",
+                "en": "Park your bike and dry off completely inside while exploring fascinating exhibits about the region's rich river life."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine ruhige, trockene Pause in dieser schönen Kirche, bevor Sie dem Nachmittagsregen auf dem Sattel trotzen.",
+                "hu": "Tarts egy csendes, száraz szünetet ebben a gyönyű templomban, mielőtt újra nyeregbe pattansz a délutáni esőben.",
+                "ro": "Luați o pauză liniștită și uscată în această biserică frumoasă înainte de a înfrunta din nou ploaia de după-amiază pe șa.",
+                "en": "Take a quiet, dry pause inside this beautiful church before braving the afternoon rain once more on your saddle."
+              }
+            },
+            {
+              "name": {
+                "de": "Cité des Étoiles",
+                "hu": "Cité des Étoiles",
+                "ro": "Cité des Étoiles",
+                "en": "Cité des Étoiles"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das einzigartige Design vom Sattel aus; achten Sie beim Durchfahren auf die extrem rutschigen Betonflächen.",
+                "hu": "Nézd meg az egyedi városi designt a nyeregből; rendkívül ügyelj a csúszós betonfelületekre, miközben áthaladsz rajta.",
+                "ro": "Vedeți designul urban unic din șa; fiți extrem de atenți la suprafețele de beton alunecoase în timp ce traversați.",
+                "en": "View the unique urban design from your saddle; be extremely mindful of slick concrete surfaces while cycling through."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Gérald",
+                "hu": "Château de Saint-Gérald",
+                "ro": "Château de Saint-Gérald",
+                "en": "Château de Saint-Gérald"
+              },
+              "tip_5lang": {
+                "de": "Schließen Sie das Rad ab und gehen Sie zur Ruine; die nassen mittelalterlichen Steine erfordern heute rutschfestes Schuhwerk.",
+                "hu": "Zárd le biztonságosan a bringát és sétálj fel a romokhoz; a vizes középkori kövek ma csúszásmentes lábbelit igényelnek.",
+                "ro": "Blocați bicicleta în siguranță și urcați la ruine; pietrele medievale ude necesită astăzi încălțăminte robustă, antiderapantă.",
+                "en": "Lock the bike safely and walk up to the ruins; the wet medieval stones require sturdy, non-slip footwear today."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Fahrt mit Thermohandschuhen zum Sportkomplex. Folgen Sie dem eisigen Kanal zum Park. Wärmen Sie sich in Museum und Kirche auf. Erleben Sie den frühen Sonnenuntergang um 17 Uhr an der Burg.",
+            "hu": "Frissítő tekerés termokesztyűben a sportközpontig. Kövesd a fagyos csatornát a parkig. Melegedj fel a múzeumban és a templomban. Csípd el a korai, 17:00 órás naplementét a várromnál.",
+            "ro": "Cursă proaspătă cu mănuși termice spre complexul sportiv. Urmați canalul înghețat până la parc. Încălziți-vă în muzeu și biserică. Prindeți apusul devreme la ora 17:00 lângă ruinele castelului.",
+            "en": "Fresh ride with thermal gloves to the sports complex. Follow the icy canal to the park. Warm up in the heated museum and church. Catch the early 5 PM sunset at the Cité and Château ruins."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Espace Robert Jaffuel",
+                "hu": "Espace Robert Jaffuel",
+                "ro": "Espace Robert Jaffuel",
+                "en": "Espace Robert Jaffuel"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit frischer Energie; tragen Sie Thermohandschuhe, um Ihre Hände heute Morgen am eisigen Lenker warm zu halten.",
+                "hu": "Indítsd a túrát friss energiával; viselj termokesztyűt, hogy melegen tartsd a kezed a jéghideg kormányon ezen a reggelen.",
+                "ro": "Începeți plimbarea cu energie; purtați mănuși termice pentru a vă menține mâinile calde pe ghidonul înghețat în această dimineață.",
+                "en": "Kick off your ride with brisk energy; wear thermal gloves to keep your hands warm on the icy handlebars this morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Givors",
+                "hu": "Canal de Givors",
+                "ro": "Canal de Givors",
+                "en": "Canal de Givors"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie neben dem frostigen Kanal; achten Sie auf gefährliche eisige Stellen auf den schattigen Teilen des Radwegs.",
+                "hu": "Tekerj a deres csatorna mellett; nagyon vigyázz a veszélyes jeges foltokra a kerékpárút árnyékos részein.",
+                "ro": "Pedalați pe lângă canalul înghețat; atenție mare la peticele de gheață periculoase de pe părțile umbrite ale pistei.",
+                "en": "Pedal beside the frosty canal; watch out carefully for dangerous icy patches on the shaded parts of the cycle path."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de Normandie",
+                "hu": "Parc de Normandie",
+                "ro": "Parc de Normandie",
+                "en": "Parc de Normandie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft unter den kahlen Bäumen; eine winddichte Jacke ist für diese offene, kühle Strecke unerlässlich.",
+                "hu": "Élvezd a csípős téli levegőt a csupasz fák között; egy teljesen szélálló dzseki elengedhetetlen ezen a nyitott, hideg szakaszon.",
+                "ro": "Bucurați-vă de aerul proaspăt de iarnă printre copacii goi; o jachetă rezistentă la vânt e esențială pe această porțiune deschisă.",
+                "en": "Enjoy the crisp winter air among the bare trees; a completely windproof jacket is essential for this open, chilly stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Fleuve Rhône",
+                "hu": "Maison du Fleuve Rhône",
+                "ro": "Maison du Fleuve Rhône",
+                "en": "Maison du Fleuve Rhône"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause im beheizten Museum, um mehr über die Rhône zu erfahren und Ihre gefrorenen Zehen aufzutauen.",
+                "hu": "Tarts egy jól megérdemelt pihenőt a fűtött múzeumban, hogy tanulj a Rhône-ról és felolvaszd a lefagyott lábujjaidat.",
+                "ro": "Luați o pauză binemeritată în muzeul complet încălzit pentru a învăța despre Rhône și a vă dezgheța degetele.",
+                "en": "Take a well-deserved break in the fully heated museum to learn about the Rhône and thaw your frozen toes."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur und genießen Sie einen Moment des Schutzes im friedlichen, historischen und etwas wärmeren Kirchenschiff.",
+                "hu": "Állj meg megcsodálni az építészetet, és élvezd a menedéket a békés, történelmi és valamivel melegebb hajóban.",
+                "ro": "Opriți-vă să admirați arhitectura și bucurați-vă de un moment de adăpost în nava pașnică, istorică și ceva mai caldă.",
+                "en": "Stop by to admire the architecture and enjoy a moment of shelter inside the peaceful, historic, and slightly warmer nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Cité des Étoiles",
+                "hu": "Cité des Étoiles",
+                "ro": "Cité des Étoiles",
+                "en": "Cité des Étoiles"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie durch dieses modernistische Wahrzeichen; die tiefstehende Wintersonne wirft markante Schatten auf die Betonfassaden.",
+                "hu": "Tekerj át ezen a modernista látványosságon; az alacsony téli nap hosszú, lenyűgöző árnyékokat vet a betonhomlokzatokra.",
+                "ro": "Pedalați prin acest reper modernist; soarele de iarnă coborât creează umbre lungi și izbitoare pe fațadele complexe din beton.",
+                "en": "Cycle through this modernist landmark; the low winter sun creates long, striking shadows on the intricate concrete facades."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Gérald",
+                "hu": "Château de Saint-Gérald",
+                "ro": "Château de Saint-Gérald",
+                "en": "Château de Saint-Gérald"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour mit einem Aufstieg zur Ruine; kommen Sie vor der frühen Dämmerung um 17 Uhr an, um die beste Aussicht zu haben.",
+                "hu": "Zárásként mássz fel a romokhoz; ügyelj rá, hogy a 17:00 óra körüli korai sötétedés előtt érkezz a legjobb kilátásért.",
+                "ro": "Încheiați cu o urcare la ruine; asigurați-vă că ajungeți înainte de amurgul timpuriu din jurul orei 17:00 pentru cele mai bune priveliști.",
+                "en": "Finish with a climb to the ruins; make sure to arrive before the early twilight around 5 PM for the best views."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Indítsa autós túráját a trambulinparkban, majd vezessen a központba a középkori Château de Saint-Gérald felfedezéséhez. Délben csodálja meg a Cité des Étoiles-t és a Maison du Fleuve Rhône-t. Később látogasson el az Église Saint-Nicolas-hoz, majd hajtson el a Canal de Givors-hoz, és fejezze be a napot az Espace Robert Jaffuelnél.",
         "ro": "Începeți turul auto cu energie la Trampoline Park, apoi conduceți spre centrul orașului pentru a explora Château de Saint-Gérald. La prânz, vedeți moderna Cité des Étoiles și Maison du Fleuve Rhône. Mai târziu, vizitați rapid Église Saint-Nicolas, apoi mergeți la Canal de Givors și încheiați ziua la Espace Robert Jaffuel.",
         "en": "Launch your car tour with energetic fun at the Trampoline Park before driving centrally to explore the medieval Château de Saint-Gérald. Use the midday to see the modern Cité des Étoiles and learn regional waterway history at Maison du Fleuve Rhône. Later, quickly visit Église Saint-Nicolas, then drive up to the Canal de Givors, finishing the day at Espace Robert Jaffuel."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Perfekter Start im Indoor-Trampolinpark. Fahren Sie zur Ruine und Cité des Étoiles. Verbringen Sie den Nachmittag im trockenen Museum und der Kirche, und enden Sie im überdachten Sportzentrum.",
+            "hu": "Tökéletes kezdés a fedett trambulinparkban. Vezess a romokhoz (óvatos séta), majd a Cité des Étoiles-hoz. Délután a száraz múzeum és templom vár, a napot pedig a fedett sportközpontban zárd.",
+            "ro": "Început perfect la parcul de trambuline acoperit. Conduceți la ruine și Cité des Étoiles. Petreceți după-amiaza în muzeul și biserica uscate, terminând ziua la centrul sportiv acoperit.",
+            "en": "Perfect start at the indoor Trampoline Park. Drive to the ruins (careful walking), then see Cité des Étoiles. Spend the afternoon in the dry museum and church, ending indoors at the sports center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trampoline Park",
+                "hu": "Trampoline Park",
+                "ro": "Trampoline Park",
+                "en": "Trampoline Park"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie mit energiegeladenem Indoor-Spaß; es ist die absolut perfekte, wetterfeste Aktivität für einen verregneten Morgen.",
+                "hu": "Kezdd a napot energikus benti szórakozással; ez az abszolút tökéletes, időjárásálló program egy esős reggelen.",
+                "ro": "Începeți ziua cu distracție plină de energie la interior; este activitatea perfectă, ferită de vremea rea, pentru o dimineață ploioasă.",
+                "en": "Start the day with high-energy indoor fun; it's the absolute perfect weather-proof activity for a heavy rainy morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Gérald",
+                "hu": "Château de Saint-Gérald",
+                "ro": "Château de Saint-Gérald",
+                "en": "Château de Saint-Gérald"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe mit großem Regenschirm; die Ruinen sind stimmungsvoll, aber die Steinwege extrem rutschig.",
+                "hu": "Parkolj a közelben és használj nagy esernyőt; a történelmi romok nagyon hangulatosak, de a kőutak hihetetlenül csúszósak lesznek.",
+                "ro": "Parcați aproape și folosiți o umbrelă mare; ruinele istorice sunt pline de atmosferă, dar potecile de piatră vor fi incredibil de alunecoase.",
+                "en": "Park nearby and use a large umbrella; the historic ruins are very atmospheric but the stone paths will be incredibly slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Cité des Étoiles",
+                "hu": "Cité des Étoiles",
+                "ro": "Cité des Étoiles",
+                "en": "Cité des Étoiles"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorbei oder steigen Sie kurz aus, um die einzigartige Architektur zu bewundern, ohne im starken Regen zu nass zu werden.",
+                "hu": "Hajts el mellette, vagy szállj ki röviden megcsodálni az egyedi modernista építészetet anélkül, hogy túlzottan eláznál.",
+                "ro": "Treceți cu mașina sau coborâți scurt pentru a admira arhitectura modernistă unică fără a vă uda prea mult în ploaia abundentă.",
+                "en": "Drive by or briefly step out to admire the unique modernist architecture without getting too wet in the persistent heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Fleuve Rhône",
+                "hu": "Maison du Fleuve Rhône",
+                "ro": "Maison du Fleuve Rhône",
+                "en": "Maison du Fleuve Rhône"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie dieses hervorragende Indoor-Museum über die Flussgeschichte; ein faszinierender Ort, um beim Platzregen trocken zu bleiben.",
+                "hu": "Élvezd ezt a kiváló beltéri múzeumot a folyó történetéről; lenyűgöző hely, ahol teljesen száraz maradhatsz a felhőszakadás alatt.",
+                "ro": "Bucurați-vă de acest muzeu de interior excelent despre istoria râului; un loc fascinant pentru a sta complet uscat în timpul ploii.",
+                "en": "Enjoy this excellent indoor museum about river history; it is a fascinating place to stay completely dry during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie Schutz vor dem Regen in der Kirche und bewundern Sie die wunderschönen Glasfenster in einer vollkommen trockenen Umgebung.",
+                "hu": "Találj meleg menedéket a felhőszakadás elől a templomban, és csodáld meg a gyönyörű ólomüveg részleteket teljesen száraz környezetben.",
+                "ro": "Găsiți un sanctuar cald din calea ploii în interiorul bisericii, admirând detaliile frumoase ale vitraliilor într-un cadru perfect uscat.",
+                "en": "Find warm sanctuary from the downpour inside the church, admiring its beautiful stained glass details in a perfectly dry setting."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Givors",
+                "hu": "Canal de Givors",
+                "ro": "Canal de Givors",
+                "en": "Canal de Givors"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang vom Auto am Wasser; tragen Sie wasserdichte Stiefel, um die extrem matschigen Ufer zu meistern.",
+                "hu": "Tegyél egy rövid sétát az autótól a vízparton; viselj vízálló csizmát, hogy biztonságosan közlekedj a rendkívül saras parton.",
+                "ro": "Faceți o scurtă plimbare de la mașină de-a lungul apei; purtați cizme impermeabile pentru a naviga în siguranță pe malurile noroioase.",
+                "en": "Take a short walk from your car along the water; wear waterproof boots to safely navigate the extremely muddy banks today."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Robert Jaffuel",
+                "hu": "Espace Robert Jaffuel",
+                "ro": "Espace Robert Jaffuel",
+                "en": "Espace Robert Jaffuel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Ausflug mit Hallensport oder Erholung und bleiben Sie bequem außerhalb des andauernden Abendregens.",
+                "hu": "Zárdd a kirándulást beltéri sportokkal vagy pihentető rekreációval, kényelmesen távol maradva a folyamatos esti esőtől.",
+                "ro": "Încheiați călătoria cu sporturi de interior sau recreere relaxantă, stând confortabil departe de ploaia continuă de seară.",
+                "en": "Conclude your trip with indoor sports or relaxing recreation, keeping comfortably out of the continuous evening rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wärmen Sie sich im Trampolinpark auf. Fahren Sie zur kühlen Burgruine und Cité des Étoiles. Genießen Sie das beheizte Museum und die Kirche. Sehen Sie den eisigen Kanal vor der Dämmerung um 17 Uhr.",
+            "hu": "Melegíts be a trambulinparkban. Vezess a fagyos várromhoz és a Cité des Étoiles-hoz. Élvezd a fűtött múzeumot és templomot. Nézd meg a deres csatornát, majd sötétedéskor menj a sportközpontba.",
+            "ro": "Încălziți-vă la trambulină. Conduceți la ruinele reci și Cité des Étoiles. Bucurați-vă de muzeul și biserica încălzite. Vedeți canalul înghețat înainte de a merge la centrul sportiv la lăsarea serii.",
+            "en": "Warm up at the Trampoline Park. Drive to the chilly Château ruins and Cité des Étoiles. Enjoy the heated museum and church. See the frosty canal before heading to the sports center at dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Trampoline Park",
+                "hu": "Trampoline Park",
+                "ro": "Trampoline Park",
+                "en": "Trampoline Park"
+              },
+              "tip_5lang": {
+                "de": "Verbrennen Sie morgendliche Energie drinnen; eine fantastische, warme Möglichkeit, an einem kalten Wintertag aktiv zu bleiben.",
+                "hu": "Vezesd le a reggeli energiát bent; fantasztikus és meleg módja az aktív családi kikapcsolódásnak egy csípős téli napon.",
+                "ro": "Consumați energia dimineții la interior; un mod fantastic și cald de a rămâne activi în familie într-o zi geroasă de iarnă.",
+                "en": "Burn off morning energy indoors; a fantastic and warm way to stay active with the family on a very crisp winter day."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de Saint-Gérald",
+                "hu": "Château de Saint-Gérald",
+                "ro": "Château de Saint-Gérald",
+                "en": "Château de Saint-Gérald"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie dicke Schichten an, bevor Sie das beheizte Auto verlassen; die eisigen Winde um diese hochgelegenen Ruinen sind sehr beißend.",
+                "hu": "Burkolózz vastag rétegekbe, mielőtt kiszállsz a fűtött autóból; a fagyos szelek a magaslati romok körül nagyon harapósak.",
+                "ro": "Îmbrăcați-vă gros înainte de a părăsi mașina încălzită; vânturile înghețate din jurul acestor ruine înalte sunt foarte tăioase.",
+                "en": "Bundle up in thick layers before leaving the heated car; the freezing winds around these elevated ruins are very biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Cité des Étoiles",
+                "hu": "Cité des Étoiles",
+                "ro": "Cité des Étoiles",
+                "en": "Cité des Étoiles"
+              },
+              "tip_5lang": {
+                "de": "Steigen Sie kurz aus, um die markanten Betonstrukturen zu sehen; die frostige Winterluft verleiht dem Ort eine raue, schöne Atmosphäre.",
+                "hu": "Szállj ki röviden megnézni a lenyűgöző betonszerkezeteket; a fagyos téli levegő zord, gyönyörű atmoszférát kölcsönöz a helynek.",
+                "ro": "Coborâți scurt pentru a vedea structurile impresionante din beton; aerul înghețat de iarnă adaugă o atmosferă austeră și frumoasă.",
+                "en": "Step out briefly to see the striking concrete structures; the frosty winter air adds a stark, beautiful atmosphere to the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Maison du Fleuve Rhône",
+                "hu": "Maison du Fleuve Rhône",
+                "ro": "Maison du Fleuve Rhône",
+                "en": "Maison du Fleuve Rhône"
+              },
+              "tip_5lang": {
+                "de": "Ziehen Sie sich in dieses angenehm beheizte Museum zurück, um in den absolut kältesten Nachmittagsstunden mehr über Wasserwege zu lernen.",
+                "hu": "Vonulj vissza ebbe a kényelmesen fűtött múzeumba, hogy tanulj a helyi vizekről a délután legidegebb, legfagyosabb óráiban.",
+                "ro": "Retrageți-vă în acest muzeu confortabil încălzit pentru a afla despre căile navigabile locale în cele mai reci ore ale după-amiezii.",
+                "en": "Retreat to this comfortably heated museum to learn about local waterways during the absolute coldest hours of the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Nicolas",
+                "hu": "Église Saint-Nicolas",
+                "ro": "Église Saint-Nicolas",
+                "en": "Église Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Pausieren Sie in der stillen, kühlen, aber schönen Kirche; das durch die historischen Fenster fallende Winterlicht ist atemberaubend.",
+                "hu": "Tarts szünetet a csendes, hűvös, de gyönyörű templomban; a történelmi ablakokon át beszűrődő alacsony téli fény lenyűgöző.",
+                "ro": "Faceți o pauză în biserica liniștită, răcoroasă, dar frumoasă; lumina de iarnă care intră prin ferestrele istorice este uluitoare.",
+                "en": "Pause inside the quiet, chilly but beautiful church; the low winter light streaming through the historic windows is stunning."
+              }
+            },
+            {
+              "name": {
+                "de": "Canal de Givors",
+                "hu": "Canal de Givors",
+                "ro": "Canal de Givors",
+                "en": "Canal de Givors"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie an den gefrorenen Ufern des Kanals; packen Sie sich sehr warm ein, da die Temperaturen vor Sonnenuntergang schnell fallen.",
+                "hu": "Sétálj a csatorna befagyott szélein; öltözz fel nagyon melegen, mert a hőmérséklet gyorsan zuhan, ahogy a nap lemenni készül.",
+                "ro": "Plimbați-vă pe marginile înghețate ale canalului; îmbrăcați-vă foarte cald, deoarece temperaturile scad rapid când soarele apune.",
+                "en": "Stroll along the frozen edges of the canal; wrap up very warmly as temperatures drop quickly when the sun begins to set."
+              }
+            },
+            {
+              "name": {
+                "de": "Espace Robert Jaffuel",
+                "hu": "Espace Robert Jaffuel",
+                "ro": "Espace Robert Jaffuel",
+                "en": "Espace Robert Jaffuel"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit energiegeladenen Indoor-Aktivitäten, während die frühe Winternacht draußen gegen 17 Uhr schnell hereinbricht.",
+                "hu": "Zárdd a napot energikus benti programokkal, miközben a korai téli éjszaka gyorsan leszáll kint 17:00 óra körül.",
+                "ro": "Încheiați ziua cu activități energice de interior, pe măsură ce noaptea de iarnă se lasă rapid afară, în jurul orei 17:00.",
+                "en": "Finish the day with energetic indoor activities as the early winter night rapidly sets in around 5 PM outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

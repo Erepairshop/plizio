@@ -137,6 +137,168 @@
         "hu": "Morning: Kezdje a napot Hornbæk szívében a hangulatos régi templomnál, és élvezze annak csendes, spirituális nyugalmát.\nMidday: Frissüljön fel a Kurbadetben, mielőtt lesétálna a híres Hornbæk Strand finom, fehér homokos partjára pihenni.\nAfternoon: Folytassa sétáját a festői tengerparton, és nézze meg a hullámokban játszó kutyákat a kijelölt kutyás strandon.\nEvening: Zárja a túrát a Hornbæk Plantage csendes strandján, miközben a lemenő nap fényeiben és a tenger zúgásában gyönyörködik.",
         "ro": "Morning: Începeți ziua în inima orașului Hornbæk la biserica fermecătoare și bucurați-vă de liniștea spirituală.\nMidday: Revigorați-vă la Kurbadet înainte de a vă plimba pe nisipul alb și fin al renumitei plaje Hornbæk Strand.\nAfternoon: Continuați-vă plimbarea de-a lungul coastei și urmăriți câinii jucându-se fericiți pe plaja dedicată lor.\nEvening: Încheiați-vă turul pe plaja liniștită de la Hornbæk Plantage, ascultând sunetul blând al valurilor la apus.",
         "en": "Morning: Start your day in the heart of Hornbæk at the charming old church, soaking in its quiet and spiritual tranquility.\nMidday: Rejuvenate yourself at Kurbadet before strolling down to relax on the fine white sands of the famous Hornbæk Strand.\nAfternoon: Continue your coastal walk and enjoy watching the playful pets run freely at the dedicated local dog beach.\nEvening: Conclude your scenic walking tour at the serene beach by the Hornbæk Plantation as you listen to the gentle waves."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt geschützt in der Hornbæk Kirke. Mittags bietet das Kurbadet die perfekte Zuflucht vor dem Regen. Am Nachmittag erleben Sie die dramatische Küste unter grauem Himmel, bevor der Abend in gemütlicher Atmosphäre ausklingt. Festes Regenzeug ist auf den rutschigen Dünenwegen unerlässlich.",
+            "hu": "A reggel a templom fedett menedékében indul. Délben a Kurbadet wellness részlege kínál tökéletes búvóhelyet a záporok elől. Délután a tengerparti szél és az eső drámai arcát mutatja a tájnak. Este a városka fényei csillognak a nedves köveken. A dűnéken való sétához vízálló cipő és esőkabát kötelező.",
+            "ro": "Dimineața începe la adăpost în biserica locală. La prânz, centrul Kurbadet este refugiul ideal împotriva ploii. După-amiaza, coasta oferă un spectacol dramatic sub cerul gri, iar seara se încheie într-o notă liniștită. Echipamentul impermeabil este esențial pe potecile alunecoase de pe dune.",
+            "en": "The morning starts sheltered inside the local church. At noon, Kurbadet provides the perfect escape from the coastal showers. In the afternoon, the beach shows its dramatic side under rainy skies, followed by a cozy evening. Waterproof gear is essential for the potentially slippery dune paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hornbæk Kirke",
+                "hu": "Hornbæk Kirke",
+                "ro": "Hornbæk Kirke",
+                "en": "Hornbæk Kirke"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Schiffsmodelle im Inneren, während Sie einen Schauer abwarten; die hellen Mauern bieten einen friedlichen Schutz vor dem Nordseeregen.",
+                "hu": "Csodálja meg a benti fogadalmi hajómodelleket, miközben eláll az eső; a fehér falak békés menedéket nyújtanak az északi-tengeri záporok elől.",
+                "ro": "Admirați machetele de nave din interior în timp ce așteptați să treacă ploaia; zidurile albe oferă un adăpost liniștit împotriva vremii nefavorabile.",
+                "en": "Observe the maritime votive ships inside while waiting for the shower to pass; the white walls offer a serene shelter from the North Sea rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Kurbadet",
+                "hu": "Kurbadet",
+                "ro": "Kurbadet",
+                "en": "Kurbadet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Innenbecken und Saunen; es ist der ultimative Rückzugsort an Regentagen, um dem Prasseln der Tropfen auf die Fenster zu lauschen.",
+                "hu": "Élvezze a fűtött belső medencéket és szaunákat; ez a végső menedék esős napokon, ahol a pihenés közben hallgathatja az ablakon kopogó esőcseppeket.",
+                "ro": "Bucurați-vă de piscinele interioare încălzite și de saune; este refugiul suprem în zilele ploioase, unde puteți asculta picăturile de ploaie pe geam.",
+                "en": "Enjoy the heated indoor pools and thermal baths; it's the ultimate rainy day retreat where you can relax while watching the raindrops on the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Strand",
+                "hu": "Hornbæk Strand",
+                "ro": "Hornbæk Strand",
+                "en": "Hornbæk Strand"
+              },
+              "tip_5lang": {
+                "de": "Die windgepeitschten Dünen wirken im Regen mystisch; tragen Sie hochwertige Regenkleidung und beobachten Sie, wie die grauen Wellen ans Ufer schlagen.",
+                "hu": "A szeles dűnék misztikusak az esőben; viseljen minőségi esőruházatot, és figyelje, ahogy a szürke hullámok a partnak csapódnak a sötét égbolt alatt.",
+                "ro": "Dunele bătute de vânt par mistice în ploaie; purtați haine impermeabile de calitate și priviți valurile gri cum se sparg de țărm sub cerul închis.",
+                "en": "The windswept dunes have a unique atmosphere in the rain; wear high-quality waterproof gear and watch the dramatic grey waves hit the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Hundestrand",
+                "hu": "Hornbæk Hundestrand",
+                "ro": "Hornbæk Hundestrand",
+                "en": "Hornbæk Hundestrand"
+              },
+              "tip_5lang": {
+                "de": "Auch im Regen ist die Weite des Strandes erfrischend; halten Sie Abstand zum Wasser, da der nasse Sand schwer und an den Rändern rutschig sein kann.",
+                "hu": "Az esőben is frissítő a tágas part; tartson távolságot a vízszéltől, mert a vizes homok nehéz és a széleken váratlanul csúszóssá válhat.",
+                "ro": "Chiar și în ploaie, plaja deschisă este revigorantă; păstrați distanța față de marginea apei, deoarece nisipul ud poate fi greu și alunecos.",
+                "en": "Even in the rain, the open space is refreshing; keep your distance from the water's edge as the sand can be heavy and slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Stranden ved Hornbæk Plantage",
+                "hu": "Stranden ved Hornbæk Plantage",
+                "ro": "Stranden ved Hornbæk Plantage",
+                "en": "Stranden ved Hornbæk Plantage"
+              },
+              "tip_5lang": {
+                "de": "Die Kiefern bieten einen natürlichen Schutz vor Wind und leichtem Regen; nutzen Sie die Waldpfade statt des Ufers, um etwas trockener zu bleiben.",
+                "hu": "A fenyőfák természetes védelmet nyújtanak a szél és az enyhe eső ellen; a part helyett használja az erdei utakat, hogy valamivel szárazabb maradjon.",
+                "ro": "Pinii oferă o protecție naturală împotriva vântului și a ploii ușoare; folosiți potecile din pădure în loc de țărm pentru a rămâne mai uscat.",
+                "en": "The pine trees offer some natural cover from the wind; use the forest path instead of the shore to stay slightly drier during the downpour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen führt zur Kirche, bevor Sie sich mittags im Spa aufwärmen. Nachmittags genießen Sie das blasse Winterlicht am Strand. Da die Sonne gegen 17:00 Uhr untergeht, endet der Tag früh und gemütlich. Warme Thermalschichten sind für die beißende Meeresbrise unerlässlich.",
+            "hu": "A fagyos reggel a templom nyugalmával kezdődik. Délben a fürdő forró gőze segít átmelegedni a jeges tengerparti séta után. Délután a dűnék közötti téli nap utolsó sugarait élvezhetjük. A 17:00 körüli korai naplemente miatt öltözzön rétegesen a gyorsan hűlő levegő ellen.",
+            "ro": "O dimineață geroasă începe la biserică, urmată de o sesiune de încălzire la spa. După-amiaza oferă o lumină palidă de iarnă pe plajă. Deoarece soarele apune în jur de ora 17:00, ziua se încheie devreme. Hainele termice sunt vitale împotriva brizei înghețate a mării.",
+            "en": "A crisp winter morning leads to the church, followed by a warming session at the spa. Enjoy the pale winter light on the beach in the afternoon. With sunset around 17:00, the day ends early and cozy. Thermal layers are vital against the biting sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hornbæk Kirke",
+                "hu": "Hornbæk Kirke",
+                "ro": "Hornbæk Kirke",
+                "en": "Hornbæk Kirke"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Start; achten Sie darauf, wie die tiefstehende Wintersonne die traditionelle Architektur beleuchtet.",
+                "hu": "A templom szélvédett indítást biztosít; figyelje meg, ahogy az alacsonyan járó téli nap megvilágítja a hagyományos dán építészetet.",
+                "ro": "Biserica oferă un început protejat de vânt; observați cum soarele jos de iarnă luminează arhitectura tradițională daneză a clădirii.",
+                "en": "The church provides a peaceful, wind-protected start to your walk; notice how the low winter sun illuminates the traditional architecture."
+              }
+            },
+            {
+              "name": {
+                "de": "Kurbadet",
+                "hu": "Kurbadet",
+                "ro": "Kurbadet",
+                "en": "Kurbadet"
+              },
+              "tip_5lang": {
+                "de": "Das Highlight im Winter: Die heißen Saunen und Dampfbäder wärmen Sie nach der kalten Seeluft bis in den Kern wieder auf.",
+                "hu": "Ez a téli séta fénypontja; a forró szaunák és gőzfürdők alaposan átmelegítik a testét a hideg tengerparti levegő után.",
+                "ro": "Punctul culminant al iernii: saunele fierbinți și băile de aburi vă vor încălzi complet corpul după aerul rece de la malul mării.",
+                "en": "This is the highlight of a winter walk; the hot saunas and steam rooms will thoroughly warm your core after the cold seaside air."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Strand",
+                "hu": "Hornbæk Strand",
+                "ro": "Hornbæk Strand",
+                "en": "Hornbæk Strand"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die raue Schönheit der gefrorenen Küste; der Strand ist ruhig und mystisch, tragen Sie Thermalschichten gegen den beißenden Wind.",
+                "hu": "Tapasztalja meg a fagyos tengerpart nyers szépségét; a strand ilyenkor csendes, csak viseljen termikus rétegeket a csípős szél ellen.",
+                "ro": "Experimentați frumusețea brută a coastei înghețate; plaja este liniștită, asigurați-vă că purtați straturi termice împotriva vântului tăios.",
+                "en": "Experience the raw beauty of the frozen coast; the beach is quiet and mystical, just be sure to wear thermal layers against the biting wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Hundestrand",
+                "hu": "Hornbæk Hundestrand",
+                "ro": "Hornbæk Hundestrand",
+                "en": "Hornbæk Hundestrand"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Spaziergang ist hier belebend; die frühe Dämmerung erzeugt wunderschöne Farben über dem Kattegat-Meer.",
+                "hu": "Egy tempós séta itt élénkítő a hidegben; a korai szürkület gyönyörű színeket fest a Kattegat-tenger felett, mielőtt teljesen besötétedik.",
+                "ro": "O plimbare vioaie aici este revigorantă în aerul rece; amurgul timpuriu creează culori superbe deasupra mării Kattegat spre seară.",
+                "en": "A brisk walk here is invigorating in the cold air; the early twilight starts to set in, creating beautiful colors over the Kattegat sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Stranden ved Hornbæk Plantage",
+                "hu": "Stranden ved Hornbæk Plantage",
+                "ro": "Stranden ved Hornbæk Plantage",
+                "en": "Stranden ved Hornbæk Plantage"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihren Spaziergang vor 17:00 Uhr, um die Dunkelheit zu vermeiden, da die Waldwege im Winter nicht beleuchtet sind.",
+                "hu": "Fejezze be a sétát 17:00 előtt, hogy elkerülje a sötétedést, mivel az erdei ösvények télen nincsenek kivilágítva.",
+                "ro": "Finalizați plimbarea înainte de ora 17:00 pentru a evita întunericul, deoarece potecile din pădure nu sunt iluminate pe timp de iarnă.",
+                "en": "Complete your walk before 17:00 to avoid the darkness, as the forest paths aren't lit during the winter season."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Morning: Kerekezzen el az ősi Teglhøj halomsírhoz, és merüljön el a régió lenyűgöző történelem előtti múltjában.\nMidday: Tekerjen le a partra, élvezze a nyüzsgő Hornbæk Strandot, és pihenjen egyet a híres Kurbadet fürdőjében.\nAfternoon: Látogasson el a történelmi templomhoz, majd biciklizzen tovább a kutyás strandra a vidám tengerparti hangulatért.\nEvening: Fejezze be kerékpáros kalandját az ültetvény festői strandján, miközben az esti naplemente meleg fénybe öltözteti a tengert.",
         "ro": "Morning: Mergeți cu bicicleta până la vechiul tumul Teglhøj și pătrundeți în istoria preistorică fascinantă a regiunii noastre.\nMidday: Coborâți spre coastă pentru a experimenta plaja plină de viață Hornbæk Strand și relaxați-vă la Kurbadet.\nAfternoon: Vizitați biserica istorică și pedalați până la plaja pentru câini pentru a vă bucura de atmosfera veselă de acolo.\nEvening: Încheiați-vă aventura pe două roți pe plaja pitorească a plantației, în timp ce soarele apune peste marea calmă.",
         "en": "Morning: Cycle out to the ancient Teglhøj burial mound and immerse yourself in the fascinating prehistoric history of the region.\nMidday: Ride down to the beautiful coast to experience the lively Hornbæk Strand and relax your muscles at Kurbadet.\nAfternoon: Visit the historic local church and pedal onwards to the dedicated dog beach to enjoy its cheerful seaside atmosphere.\nEvening: Finish your cycling adventure at the picturesque plantation beach as the evening sun casts a warm glow over the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Start an den Hügeln erfordert Vorsicht auf nassen Wegen. Mittags bietet das Spa Entspannung pur. Am Nachmittag radeln Sie entlang der Küste, wo der Wind den Regen peitscht. Der Tag endet sicher im Ortskern. Achten Sie auf rutschiges Laub und Pfützen auf den Radwegen.",
+            "hu": "Az esős reggel a dombok között óvatosságot igényel a csúszós utakon. Délben a spa kínál pihentető menedéket. Délután a parton tekerve a szél és az eső erejét érezhetjük. A nap biztonságban ér véget. Ügyeljen a vizes levelekre és a tócsákra a kerékpárutakon.",
+            "ro": "Un început ploios printre dealuri necesită prudență pe drumurile umede. La prânz, centrul spa oferă relaxare totală. După-amiaza, pedalatul pe coastă este intens din cauza vântului. Ziua se încheie în siguranță. Atenție la frunzele ude și la bălțile de pe pistele de biciclete.",
+            "en": "A rainy start among the hills requires caution on wet paths. At noon, the spa offers pure relaxation. In the afternoon, cycling along the coast feels intense with the wind-driven rain. The day ends safely. Watch out for slippery leaves and deep puddles on the bike paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teglhøj",
+                "hu": "Teglhøj",
+                "ro": "Teglhøj",
+                "en": "Teglhøj"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg kann bei Regen rutschig sein; nutzen Sie niedrigere Gänge und genießen Sie die neblige Aussicht über die dänische Landschaft.",
+                "hu": "Az emelkedő esőben csúszós lehet; használjon alacsonyabb sebességfokozatot, és élvezze a ködös kilátást a dán táj felett.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie; folosiți trepte de viteză inferioare și bucurați-vă de vederea cețoasă asupra peisajului danez.",
+                "en": "The climb can be slippery in the rain; use lower gears and enjoy the misty views over the Danish countryside from the top."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Strand",
+                "hu": "Hornbæk Strand",
+                "ro": "Hornbæk Strand",
+                "en": "Hornbæk Strand"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den sandigen Uferwegen; der Regen festigt den Sand zwar, macht Holzstege aber extrem gefährlich glatt.",
+                "hu": "Óvatosan tekerjen a homokos parti utakon; az eső ugyan tömöríti a homokot, de a fapallókat veszélyesen csúszóssá teszi.",
+                "ro": "Pedalați cu atenție pe potecile de pe mal; ploaia compactează nisipul, dar face platformele de lemn extrem de alunecoase.",
+                "en": "Cycle carefully on the sandy shore paths; while rain firms up the sand, it makes wooden boardwalks extremely slippery and dangerous."
+              }
+            },
+            {
+              "name": {
+                "de": "Kurbadet",
+                "hu": "Kurbadet",
+                "ro": "Kurbadet",
+                "en": "Kurbadet"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Fahrradständer und wärmen Sie Ihre Muskeln in den Thermalbädern auf, bevor Sie die Fahrt im Regen fortsetzen.",
+                "hu": "Használja a fedett kerékpártárolókat, és melegítse fel izmait a termálfürdőkben, mielőtt folytatná az utat az esőben.",
+                "ro": "Folosiți suporturile de biciclete acoperite și încălziți-vă mușchii în băile termale înainte de a continua drumul prin ploaie.",
+                "en": "Use the covered bike racks and warm up your muscles in the thermal baths before continuing your ride through the coastal rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Kirke",
+                "hu": "Hornbæk Kirke",
+                "ro": "Hornbæk Kirke",
+                "en": "Hornbæk Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, trockener Stopp in der Kirche ist ideal, um die Regenkleidung zu ordnen und die historische Atmosphäre zu genießen.",
+                "hu": "Egy rövid, száraz megálló a templomban ideális az esőruházat megigazításához és a történelmi hangulat élvezetéhez.",
+                "ro": "O scurtă oprire uscată în biserică este ideală pentru a vă aranja echipamentul de ploaie și pentru a vă bucura de istorie.",
+                "en": "A short, dry stop at the church is ideal for adjusting your rain gear and soaking in the historic atmosphere while drying off."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Hundestrand",
+                "hu": "Hornbæk Hundestrand",
+                "ro": "Hornbæk Hundestrand",
+                "en": "Hornbæk Hundestrand"
+              },
+              "tip_5lang": {
+                "de": "Meiden Sie tiefe Pfützen, die Schlaglöcher verbergen könnten; der Wind ist hier am stärksten, halten Sie den Lenker gut fest.",
+                "hu": "Kerülje a mély tócsákat, amelyek kátyúkat rejthetnek; itt a legerősebb a szél, ezért fogja szorosan a kormányt.",
+                "ro": "Evitați bălțile adânci care ar putea ascunde gropi; vântul este cel mai puternic aici, așa că țineți bine de ghidon.",
+                "en": "Avoid deep puddles that might hide potholes; the wind is strongest here, so keep a firm grip on your handlebars at all times."
+              }
+            },
+            {
+              "name": {
+                "de": "Stranden ved Hornbæk Plantage",
+                "hu": "Stranden ved Hornbæk Plantage",
+                "ro": "Stranden ved Hornbæk Plantage",
+                "en": "Stranden ved Hornbæk Plantage"
+              },
+              "tip_5lang": {
+                "de": "Die Waldwege bieten Schutz vor Seitenwinden; fahren Sie langsam, da nasses Laub und Äste die Wege rutschig machen können.",
+                "hu": "Az erdei utak védelmet nyújtanak az oldalszél ellen; haladjon lassan, mivel a vizes levelek és ágak csúszóssá tehetik az utat.",
+                "ro": "Potecile din pădure oferă protecție împotriva vântului; pedalați încet, deoarece frunzele și crengile ude pot face drumul alunecos.",
+                "en": "The forest paths provide shelter from crosswinds; cycle slowly as wet leaves and fallen branches can make the trails quite slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Start an den Hügeln erfordert warme Handschuhe. Mittags wärmen Sie sich im Kurbadet auf. Nachmittags radeln Sie durch die winterliche Küstenlandschaft, bevor die Sonne früh untergeht. Achten Sie auf Glatteis in schattigen Bereichen und tragen Sie helle Kleidung für die frühe Dämmerung.",
+            "hu": "A hűvös reggelhez a dombok között meleg kesztyű szükséges. Délben a Kurbadetben melegedhet fel. Délután a téli tengerparti tájon tekerhet, mielőtt a nap korán lebukik a horizont alá. Ügyeljen a jeges foltokra az árnyékos részeken, és viseljen látható ruházatot.",
+            "ro": "Un început răcoros printre dealuri necesită mănuși groase. La prânz, vă încălziți la Kurbadet. După-amiaza pedalați prin peisajul costier de iarnă înainte de apusul timpuriu. Atenție la gheață în zonele umbrite și purtați haine reflectorizante.",
+            "en": "A chilly start among the hills requires warm gloves. At noon, warm up at Kurbadet. In the afternoon, cycle through the winter coastal landscape before the sun sets early. Watch for black ice in shaded areas and wear bright clothing for visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teglhøj",
+                "hu": "Teglhøj",
+                "ro": "Teglhøj",
+                "en": "Teglhøj"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg bringt den Kreislauf in Schwung; oben angekommen kühlt man schnell aus, also ziehen Sie für die Abfahrt eine Schicht mehr an.",
+                "hu": "Az emelkedő beindítja a keringést; a csúcsra érve azonban gyorsan lehűl az ember, ezért a lejtmenethez vegyen fel még egy réteget.",
+                "ro": "Urcarea vă va pune sângele în mișcare; odată ajuns în vârf, veți răci repede, așa că mai puneți un strat de haine pentru coborâre.",
+                "en": "The climb will get your circulation going; once at the top, you'll cool down fast, so add a layer before starting the descent."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Strand",
+                "hu": "Hornbæk Strand",
+                "ro": "Hornbæk Strand",
+                "en": "Hornbæk Strand"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf festgefrorenem Sand; die Aussicht auf das winterliche Meer ist spektakulär, aber der Wind ist extrem schneidend.",
+                "hu": "Tekerjen óvatosan a megfagyott homokon; a téli tenger látványa látványos, de a szél rendkívül metsző és hideg.",
+                "ro": "Pedalați cu atenție pe nisipul înghețat; vederea mării pe timp de iarnă este spectaculoasă, dar vântul este extrem de tăios.",
+                "en": "Cycle carefully on frozen sand; the views of the winter sea are spectacular, but the wind can be extremely biting and cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Kurbadet",
+                "hu": "Kurbadet",
+                "ro": "Kurbadet",
+                "en": "Kurbadet"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad und genießen Sie die Wärme; die heißen Saunen sind die beste Belohnung für eine Radtour bei winterlichen Temperaturen.",
+                "hu": "Parkolja le a bringát és élvezze a meleget; a forró szaunák a legjobb jutalmat jelentik a téli hőmérsékletben tett tekerés után.",
+                "ro": "Parcați bicicleta și bucurați-vă de căldură; saunele fierbinți sunt cea mai bună recompensă pentru o tură cu bicicleta iarna.",
+                "en": "Park your bike and soak in the heat; the hot saunas are the ultimate reward for cycling in freezing winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Kirke",
+                "hu": "Hornbæk Kirke",
+                "ro": "Hornbæk Kirke",
+                "en": "Hornbæk Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Ort, um sich kurz aufzuwärmen; die dicken Mauern halten die Kälte draußen und bieten einen Moment der Stille.",
+                "hu": "Békés hely egy rövid felmelegedéshez; a vastag falak kint tartják a hideget, és egy pillanatnyi csendet kínálnak az úton.",
+                "ro": "Un loc liniștit pentru a vă încălzi scurt; zidurile groase țin frigul afară și oferă un moment de liniște în timpul călătoriei.",
+                "en": "A peaceful place to warm up briefly; the thick walls keep the cold out and offer a moment of silence during your winter journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Hundestrand",
+                "hu": "Hornbæk Hundestrand",
+                "ro": "Hornbæk Hundestrand",
+                "en": "Hornbæk Hundestrand"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Pfützen auf dem Weg; das Licht der tiefstehenden Sonne am Nachmittag ist ideal für winterliche Fotos.",
+                "hu": "Ügyeljen az úton lévő fagyott tócsákra; az alacsonyan járó délutáni nap fénye tökéletes a téli tengerparti fotókhoz.",
+                "ro": "Atenție la bălțile înghețate de pe drum; lumina soarelui de după-amiază este ideală pentru fotografii superbe de iarnă.",
+                "en": "Watch out for frozen puddles on the path; the low afternoon sun provides perfect lighting for stunning winter coastal photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Stranden ved Hornbæk Plantage",
+                "hu": "Stranden ved Hornbæk Plantage",
+                "ro": "Stranden ved Hornbæk Plantage",
+                "en": "Stranden ved Hornbæk Plantage"
+              },
+              "tip_5lang": {
+                "de": "Kehren Sie vor 16:30 Uhr zurück, da es im Wald schnell dunkel wird; die gefrorenen Nadeln der Kiefern glitzern im Restlicht wunderschön.",
+                "hu": "Térjen vissza 16:30 előtt, mert az erdőben gyorsan sötétedik; a fenyők fagyott tüskéi gyönyörűen csillognak a maradék fényben.",
+                "ro": "Întoarceți-vă înainte de 16:30, deoarece se întunecă repede în pădure; acele înghețate ale pinilor sclipesc frumos în lumină.",
+                "en": "Return before 16:30 as it gets dark quickly in the forest; the frozen pine needles glisten beautifully in the fading light."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Morning: Vezessen el Stenhøj és Teglhøj ősi halomsírjaihoz, hogy felfedezze Hornbæk lenyűgöző történelmi és kulturális gyökereit.\nMidday: Térjen vissza a központba, csodálja meg a régi templomot, és töltsön el néhány pihentető órát a népszerű Hornbæk Strandon.\nAfternoon: Induljon kelet felé a mitikus Odinshyrehøi megmászására, majd látogasson el az ültetvény békés tengerparti szakaszára.\nEvening: Zárja ezt a változatos napot egy frissítő úszással a helyi jól felszerelt uszodában, mielőtt leszállna a nyugodt est.",
         "ro": "Morning: Conduceți la vechile movile funerare Stenhøj și Teglhøj pentru a descoperi fascinantele rădăcini istorice ale orașului Hornbæk.\nMidday: Întoarceți-vă în centru, admirați biserica veche și petreceți câteva ore de relaxare pe faimoasa plajă Hornbæk Strand.\nAfternoon: Mergeți spre est pentru a urca pe miticul Odinshyrehøi, apoi vizitați coasta liniștită a plantației din apropiere.\nEvening: Încheiați această zi plină de evenimente cu o baie revigorantă la piscina locală bine întreținută înainte de lăsarea serii.",
         "en": "Morning: Drive out to the ancient burial mounds of Stenhøj and Teglhøj to discover the fascinating historical roots of Hornbæk.\nMidday: Return to the town center, admire the classic old church, and spend a few relaxing hours on the popular Hornbæk Strand.\nAfternoon: Head east to climb the mythical Odinshyrehøi for great views, then visit the peaceful coastal stretch of the plantation.\nEvening: Round off your eventful day trip with a refreshing swim at the well-maintained local swimming pool before dusk settles."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag voller Geschichte startet an den Hügelgräbern. Mittags bietet die Kirche trockene Besinnlichkeit. Nachmittags genießen Sie die Aussicht auf die stürmische See aus dem Auto heraus, bevor der Tag im beheizten Pool endet. Achten Sie auf Aquaplaning auf den Küstenstraßen bei starkem Regen.",
+            "hu": "Az esős, történelmi nap a sírhalmoknál indul. Délben a templom kínál száraz elcsendesedést. Délután az autóból élvezheti a viharos tenger látványát, mielőtt a nap a fűtött medencénél érne véget. Erős esőben ügyeljen a vízátfolyásokra és a csúszós aszfaltra a parti utakon.",
+            "ro": "O zi ploioasă plină de istorie începe la tumuli. La prânz, biserica oferă liniște la adăpost. După-amiaza, admirați marea furtunoasă din mașină înainte de a încheia ziua la piscina încălzită. Atenție la acvaplanare pe drumurile de coastă în timpul ploii torențiale.",
+            "en": "A rainy day of history starts at the burial mounds. At noon, the church provides dry reflection. In the afternoon, enjoy views of the stormy sea from your car before ending the day at the heated pool. Watch for aquaplaning on coastal roads during heavy rainfall."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stenhøj",
+                "hu": "Stenhøj",
+                "ro": "Stenhøj",
+                "en": "Stenhøj"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorische Stätte wirkt im Regen besonders atmosphärisch; bleiben Sie auf den Wegen, da das Gras um die Steine sehr rutschig sein kann.",
+                "hu": "A prehisztorikus helyszín esőben különösen hangulatos; maradjon az ösvényeken, mert a kövek körüli fű nagyon csúszós lehet.",
+                "ro": "Situl preistoric este foarte atmosferic pe ploaie; rămâneți pe poteci, deoarece iarba din jurul pietrelor poate fi foarte alunecoasă.",
+                "en": "The prehistoric site feels especially atmospheric in the rain; stay on the paths as the grass around the stones can be very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Teglhøj",
+                "hu": "Teglhøj",
+                "ro": "Teglhøj",
+                "en": "Teglhøj"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus haben Sie eine tolle Sicht auf die neblige Landschaft; nutzen Sie ein Fernglas, um Details trotz des Regens zu erkennen.",
+                "hu": "A parkolóból nagyszerű kilátás nyílik a ködös tájra; használjon távcsövet, hogy az eső ellenére is láthassa a távoli részleteket.",
+                "ro": "Din parcare aveți o vedere excelentă asupra peisajului cețos; folosiți un binoclu pentru a vedea detaliile în ciuda ploii.",
+                "en": "Enjoy the misty landscape views right from the parking area; use binoculars to spot coastal details through the rain and fog."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Kirke",
+                "hu": "Hornbæk Kirke",
+                "ro": "Hornbæk Kirke",
+                "en": "Hornbæk Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um dem Regen zu entfliehen; bewundern Sie das schlichte dänische Interieur und die geschichtsträchtigen Schiffsmodelle.",
+                "hu": "Ideális hely az eső elől való menekülésre; csodálja meg a letisztult dán belső teret és a történelmi jelentőségű hajómodelleket.",
+                "ro": "Locul ideal pentru a scăpa de ploaie; admirați interiorul danez simplu și machetele de nave pline de istorie.",
+                "en": "An ideal place to escape the downpour; admire the simple Danish interior and the historic votive ships hanging from the ceiling."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Strand",
+                "hu": "Hornbæk Strand",
+                "ro": "Hornbæk Strand",
+                "en": "Hornbæk Strand"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Wasser, um die stürmische See trocken zu beobachten; der Wind peitscht den Regen hier oft waagerecht über den Strand.",
+                "hu": "Parkoljon közel a vízhez, hogy szárazon figyelhesse a viharos tengert; a szél itt gyakran vízszintesen fújja az esőt a strand felett.",
+                "ro": "Parcați aproape de apă pentru a observa marea înfuriată stând la uscat; vântul suflă adesea ploaia orizontal peste plajă.",
+                "en": "Park near the water to watch the stormy sea while staying dry; the wind often whips the rain horizontally across the beach here."
+              }
+            },
+            {
+              "name": {
+                "de": "Odinshyrehøi",
+                "hu": "Odinshyrehøi",
+                "ro": "Odinshyrehøi",
+                "en": "Odinshyrehøi"
+              },
+              "tip_5lang": {
+                "de": "Der Boden kann bei Nässe aufgeweicht sein; tragen Sie wasserfeste Schuhe für den kurzen Gang vom Auto zum historischen Aussichtspunkt.",
+                "hu": "A talaj nedves időben felázhat; viseljen vízálló cipőt az autótól a történelmi kilátópontig tartó rövid sétához.",
+                "ro": "Solul poate fi moale când este ud; purtați încălțăminte impermeabilă pentru scurta plimbare de la mașină la punctul de observație.",
+                "en": "The ground can be soft and muddy when wet; wear waterproof shoes for the short walk from your car to the historic viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Stranden ved Hornbæk Plantage",
+                "hu": "Stranden ved Hornbæk Plantage",
+                "ro": "Stranden ved Hornbæk Plantage",
+                "en": "Stranden ved Hornbæk Plantage"
+              },
+              "tip_5lang": {
+                "de": "Die Bäume bieten etwas Schutz beim Aussteigen; genießen Sie die frische, regenschwere Waldluft während eines kurzen Sprints zum Ufer.",
+                "hu": "A fák védelmet nyújtanak kiszálláskor; élvezze a friss, esőáztatta erdei levegőt egy rövid, part menti séta során.",
+                "ro": "Copacii oferă protecție la coborârea din mașină; bucurați-vă de aerul curat de pădure în timpul unei scurte plimbări spre țărm.",
+                "en": "The trees provide some shelter when getting out of the car; enjoy the fresh, rain-heavy forest air during a quick dash to the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Swimming Pool",
+                "hu": "Swimming Pool",
+                "ro": "Swimming Pool",
+                "en": "Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Wasser ist der perfekte Abschluss für einen nasskalten Tag; entspannen Sie sich, während der Regen auf das Dach trommelt.",
+                "hu": "A fűtött víz tökéletes befejezése egy hűvös napnak; lazítson a medencében, miközben hallgatja a tetőn kopogó esőt.",
+                "ro": "Apa încălzită este finalul perfect pentru o zi ploioasă; relaxați-vă în piscină în timp ce ploaia bate în acoperiș.",
+                "en": "The heated water is the perfect end to a damp day; relax in the pool while listening to the rain drumming on the roof overhead."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag beginnt an den historischen Stätten. Mittags bietet die Kirche einen Moment der Ruhe. Nachmittags erleben Sie die tiefstehende Sonne über der gefrorenen Küste, bevor es um 17:00 Uhr dunkel wird. Ein beheizter Pool ist der ideale Abschluss für diesen kalten Ausflug.",
+            "hu": "A tiszta téli nap a történelmi helyszíneken kezdődik. Délben a templom kínál egy pillanatnyi nyugalmat. Délután a fagyos part felett alacsonyan járó napot csodálhatja meg, mielőtt 17:00-kor besötétedik. A fűtött medence ideális lezárása a hideg kirándulásnak.",
+            "ro": "O zi senină de iarnă începe la siturile istorice. La prânz, biserica oferă un moment de liniște. După-amiaza admirați soarele jos peste coasta înghețată înainte de întunericul de la ora 17:00. Piscina încălzită este finalul ideal.",
+            "en": "A clear winter day starts at the historic sites. At noon, the church offers a moment of peace. In the afternoon, witness the low sun over the frozen coast before darkness sets in at 17:00. A heated pool is the ideal way to end this cold excursion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Stenhøj",
+                "hu": "Stenhøj",
+                "ro": "Stenhøj",
+                "en": "Stenhøj"
+              },
+              "tip_5lang": {
+                "de": "Die Steine wirken im Frost besonders beeindruckend; achten Sie auf glatte Stellen auf den Pfaden rund um die Grabstätte.",
+                "hu": "A kövek különösen lenyűgözőek a zúzmarában; ügyeljen a jeges foltokra a sírhely körüli ösvényeken a reggeli órákban.",
+                "ro": "Pietrele arată impresionant în îngheț; atenție la porțiunile alunecoase de pe potecile din jurul sitului arheologic.",
+                "en": "The ancient stones look particularly impressive in the frost; watch out for icy patches on the paths around the burial site."
+              }
+            },
+            {
+              "name": {
+                "de": "Teglhøj",
+                "hu": "Teglhøj",
+                "ro": "Teglhøj",
+                "en": "Teglhøj"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick über das winterliche Seeland; die klare kalte Luft sorgt oft für eine außergewöhnliche Fernsicht.",
+                "hu": "Élvezze a tágas kilátást a téli Sjælland felett; a tiszta, hideg levegő gyakran rendkívüli látótávolságot biztosít ilyenkor.",
+                "ro": "Bucurați-vă de vederea largă asupra Seelandei pe timp de iarnă; aerul rece și curat oferă adesea o vizibilitate excepțională.",
+                "en": "Enjoy the expansive views over wintery Zealand; the crisp cold air often provides exceptional visibility for miles around."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Kirke",
+                "hu": "Hornbæk Kirke",
+                "ro": "Hornbæk Kirke",
+                "en": "Hornbæk Kirke"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer und friedlicher Rückzugsort; nutzen Sie die Zeit, um die maritime Geschichte der Region im geschützten Inneren zu erkunden.",
+                "hu": "Meleg és békés menedékhely; használja ki az időt a régió tengerészeti történetének felfedezésére a védett belső térben.",
+                "ro": "Un refugiu cald și liniștit; profitați de timp pentru a explora istoria maritimă a regiunii în interiorul protejat al bisericii.",
+                "en": "A warm and peaceful retreat; take the time to explore the region's maritime history in the sheltered interior of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Hornbæk Strand",
+                "hu": "Hornbæk Strand",
+                "ro": "Hornbæk Strand",
+                "en": "Hornbæk Strand"
+              },
+              "tip_5lang": {
+                "de": "Das Licht am Nachmittag ist im Winter einzigartig; bleiben Sie warm im Auto und genießen Sie das Farbspiel über dem Kattegat.",
+                "hu": "A délutáni fények télen egyedülállóak; maradjon a fűtött autóban, és élvezze a színek játékát a Kattegat-tenger felett.",
+                "ro": "Lumina de după-amiază este unică iarna; rămâneți în mașina încălzită și admirați jocul de culori deasupra mării Kattegat.",
+                "en": "The afternoon light is unique in winter; stay warm in your car and enjoy the play of colors over the Kattegat sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Odinshyrehøi",
+                "hu": "Odinshyrehøi",
+                "ro": "Odinshyrehøi",
+                "en": "Odinshyrehøi"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die gefrorene Landschaft ist den kurzen Gang wert; ziehen Sie sich warm an, da der Wind hier oben sehr kräftig ist.",
+                "hu": "A fagyos tájra nyíló kilátás megéri a rövid sétát; öltözzön fel jól, mert itt fent a szél nagyon erősen fújhat.",
+                "ro": "Vederea asupra peisajului înghețat merită scurta plimbare; îmbrăcați-vă bine, deoarece vântul este foarte puternic aici sus.",
+                "en": "The view over the frozen landscape is worth the short walk; dress warmly as the wind can be very strong at this elevated point."
+              }
+            },
+            {
+              "name": {
+                "de": "Stranden ved Hornbæk Plantage",
+                "hu": "Stranden ved Hornbæk Plantage",
+                "ro": "Stranden ved Hornbæk Plantage",
+                "en": "Stranden ved Hornbæk Plantage"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Kiefernnadeln glitzern wunderschön in der tiefstehenden Sonne; ein kurzer Aufenthalt reicht aus, um die Wintermagie zu spüren.",
+                "hu": "A fagyott fenyőtűk gyönyörűen csillognak az alacsony napfényben; egy rövid megálló is elég, hogy átélje a tél varázsát.",
+                "ro": "Acele de pin înghețate sclipesc frumos în lumina soarelui; o scurtă oprire este suficientă pentru a simți magia iernii.",
+                "en": "The frozen pine needles glisten beautifully in the low sun; even a short stop is enough to feel the magic of the winter season."
+              }
+            },
+            {
+              "name": {
+                "de": "Swimming Pool",
+                "hu": "Swimming Pool",
+                "ro": "Swimming Pool",
+                "en": "Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Der krönende Abschluss: Das warme Wasser entspannt Ihre Glieder nach einem Tag an der frischen, kalten Winterluft.",
+                "hu": "A nap fénypontja: a meleg víz ellazítja a tagjait egy egész napos, friss és hideg téli levegőn töltött kirándulás után.",
+                "ro": "Punctul culminant al zilei: apa caldă vă va relaxa corpul după o zi petrecută în aerul curat și rece de iarnă.",
+                "en": "The perfect finale: the warm water relaxes your body after a full day spent in the fresh, crisp winter air outside."
+              }
+            }
+          ]
+        }
       }
     }
   }

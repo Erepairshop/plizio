@@ -137,6 +137,168 @@
         "hu": "Gyalogos túrája egy frissítő reggeli sétával kezdődik a Parco Villa Pallavicini buja kertjeiben. Délben felfedezheti a helyi vallási örökséget a bájos Oratorio di Santa Chiara-ban és a híres Santuario del Bambin di Praga-ban. Délután egy kicsit feljebb kapaszkodik a békés Nostra Signora delle Olivette-hez. Ahogy leszáll az est, utazását a Molo di Ponente mólónál fejezi be, gyönyörködve a tengerparti naplementében.",
         "ro": "Turul pietonal începe cu o plimbare matinală revigorantă prin grădinile luxuriante ale Parco Villa Pallavicini. La prânz, veți explora moștenirea religioasă la fermecătorul Oratorio di Santa Chiara și la celebrul Santuario del Bambin di Praga. După-amiaza, urcați ușor spre liniștita Nostra Signora delle Olivette. Pe măsură ce se lasă seara, veți încheia călătoria la Molo di Ponente, admirând frumosul apus de soare de pe coastă.",
         "en": "Your walking tour begins with a refreshing morning stroll through the lush gardens of Parco Villa Pallavicini. Midday invites you to explore the local religious heritage at the charming Oratorio di Santa Chiara and the famous Santuario del Bambin di Praga. In the afternoon, you ascend slightly to the serene Nostra Signora delle Olivette. As evening falls, you will conclude your journey at the Molo di Ponente, soaking in the beautiful coastal sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet der Parco Villa Pallavicini unter dichten Baumkronen natürlichen Schutz vor dem Regen. Mittags laden die historischen Oratorien und das Santuario zu einer trockenen, besinnlichen Pause ein. Nachmittags führt der Weg zur Olivette, wo die neblige Küste mystisch wirkt. Abends beschließt ein Blick auf die peitschenden Wellen an der Molo di Ponente unter dem Schirm den Tag.",
+            "hu": "Reggel a park sűrű lombjai alatt keresünk menedéket az eső elől, ahol a friss földillat dominál. Délben az oratóriumok és a kegyhely nyújtanak száraz, meghitt pihenőt a látogatóknak. Délután a párás tengerparti panoráma különleges hangulatot áraszt az Olivette felé. Este az esernyő alól figyelhetjük a Molo di Ponente hullámait, miközben a város fényei megcsillannak a vizes aszfalton.",
+            "ro": "Dimineața, baldachinul dens al parcului oferă un adăpost natural împotriva ploii ușoare. La prânz, oratoriile și sanctuarul vă invită la un popas uscat și liniștit în interior. După-amiaza, drumul spre Olivette dezvăluie o coastă mistică învăluită în ceață. Seara se încheie la Molo di Ponente, admirând forța mării de sub protecția umbrelei, într-o atmosferă melancolică.",
+            "en": "In the morning, the dense tree canopy of the park provides natural shelter from the drizzle. At noon, the historic oratories and the sanctuary offer a dry, peaceful retreat for contemplation. In the afternoon, the walk towards Olivette reveals a mystical, misty coastline. The day ends at Molo di Ponente, watching the crashing waves from under an umbrella as city lights reflect on wet streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Villa Pallavicini",
+                "hu": "Parco Villa Pallavicini",
+                "ro": "Parco Villa Pallavicini",
+                "en": "Parco Villa Pallavicini"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die dichten Baumkronen als natürlichen Schirm und achten Sie auf die rutschigen Kieswege bei Nässe.",
+                "hu": "Használja a sűrű lombkoronákat természetes esernyőként, és ügyeljen a vizes kavicsos utakra a parkban.",
+                "ro": "Folosiți coronamentul dens al copacilor ca umbrelă naturală și aveți grijă la aleile cu pietriș care pot deveni alunecoase.",
+                "en": "Use the dense tree canopy as a natural umbrella and be careful on the gravel paths which can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di Santa Chiara",
+                "hu": "Oratorio di Santa Chiara",
+                "ro": "Oratorio di Santa Chiara",
+                "en": "Oratorio di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist ein perfekter trockener Zufluchtsort; bewundern Sie die Fresken, während es draußen regnet.",
+                "hu": "Ez a hely tökéletes száraz menedék; csodálja meg a freskókat, miközben odakint esik az eső.",
+                "ro": "Acest loc este un refugiu uscat perfect; admirați frescele interioare în timp ce afară plouă torențial.",
+                "en": "This location is a perfect dry refuge; admire the indoor frescoes while it is pouring outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Bambin di Praga",
+                "hu": "Santuario del Bambin di Praga",
+                "ro": "Santuario del Bambin di Praga",
+                "en": "Santuario del Bambin di Praga"
+              },
+              "tip_5lang": {
+                "de": "Der weitläufige Innenraum bietet viel Platz zum Aufwärmen; Vorsicht vor den glatten Stufen am Kircheneingang.",
+                "hu": "A tágas belső tér bőven kínál helyet a pihenésre; vigyázzon a templom bejáratánál lévő csúszós lépcsőkkel.",
+                "ro": "Interiorul spațios oferă mult loc pentru a vă încălzi; atenție la treptele alunecoase de la intrarea în biserică.",
+                "en": "The spacious interior offers plenty of room to warm up; watch out for slippery steps at the church entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Nostra Signora delle Olivette",
+                "hu": "Nostra Signora delle Olivette",
+                "ro": "Nostra Signora delle Olivette",
+                "en": "Nostra Signora delle Olivette"
+              },
+              "tip_5lang": {
+                "de": "Der kleine überdachte Vorraum bietet Schutz; genießen Sie die Aussicht auf das graue Meer durch den Regen.",
+                "hu": "A kis fedett előtér védelmet nyújt; élvezze a szürke tenger látványát az esőfüggönyön keresztül.",
+                "ro": "Micul pridvor acoperit oferă protecție; bucurați-vă de vederea spre marea gri prin perdeaua de ploaie.",
+                "en": "The small covered porch provides protection; enjoy the view of the gray sea through the curtain of rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Molo di Ponente",
+                "hu": "Molo di Ponente",
+                "ro": "Molo di Ponente",
+                "en": "Molo di Ponente"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie festen Stand am Kai, da der Wind Schirme umknicken kann; die Gischt macht die Steine sehr glatt.",
+                "hu": "Álljon stabilan a mólón, mert a szél kifordíthatja az ernyőt; a sós permet nagyon csúszóssá teszi a köveket.",
+                "ro": "Stați bine pe picioare pe dig, deoarece vântul poate răsuci umbrelele; vaporii sărați fac pietrele foarte alunecoase.",
+                "en": "Keep a firm footing on the pier as wind can flip umbrellas; the salt spray makes the stones very slippery."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen in Arenzano ist erfrischend klar und ideal für einen zügigen Spaziergang im Park. Mittags bieten die Kirchen eine angenehme Wärme und Ruhe abseits des Seewindes. Am frühen Nachmittag leuchtet die Stadt in einem sanften Goldton, bevor die Sonne gegen 17:00 Uhr untergeht. Der Abend klingt bei der frühen Dämmerung am Hafen mit einer warmen Jacke gemütlich aus.",
+            "hu": "A téli reggel Arenzanóban frissítően tiszta, ideális egy élénk sétához a pálmák között. Délben a templomok kellemes meleget és nyugalmat árasztanak, védve a tengeri széltől. Kora délután a város lágy aranyfényben úszik, mielőtt 17:00 körül lenyugszik a nap. Az este a kikötőnél, a korai szürkületben, vastag kabátban és a lámpák fényében válik igazán hangulatossá.",
+            "ro": "Dimineața de iarnă în Arenzano este revigorantă, perfectă pentru o plimbare rapidă prin parcul cu palmieri. La prânz, bisericile oferă o căldură plăcută și liniște, departe de vântul tăios al mării. După-amiaza devreme, orașul strălucește în tonuri aurii înainte ca soarele să apună în jur de ora 17:00. Seara se încheie primitor la port, în amurgul timpuriu, cu o haină groasă.",
+            "en": "A winter morning in Arenzano is refreshingly clear, ideal for a brisk walk among the palms. At noon, the churches provide pleasant warmth and silence away from the biting sea wind. In the early afternoon, the city glows in soft golden tones before the sun sets around 17:00. The evening winds down cozily at the harbor during the early twilight, requiring a warm coat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Parco Villa Pallavicini",
+                "hu": "Parco Villa Pallavicini",
+                "ro": "Parco Villa Pallavicini",
+                "en": "Parco Villa Pallavicini"
+              },
+              "tip_5lang": {
+                "de": "Die Kamelien blühen oft schon im Winter; tragen Sie eine Mütze gegen den kühlen Wind in den Schattenzonen.",
+                "hu": "A kaméliák gyakran már télen virágoznak; viseljen sapkát a hűvös szél ellen a park árnyékosabb részein.",
+                "ro": "Cameliile înfloresc adesea chiar și iarna; purtați o căciulă împotriva vântului rece în zonele umbrite.",
+                "en": "Camellias often bloom even in winter; wear a hat against the cool wind in the shaded areas of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Oratorio di Santa Chiara",
+                "hu": "Oratorio di Santa Chiara",
+                "ro": "Oratorio di Santa Chiara",
+                "en": "Oratorio di Santa Chiara"
+              },
+              "tip_5lang": {
+                "de": "Ein windgeschützter Ort, um die Stille zu genießen; die Wintersonne fällt wunderschön durch die Fenster.",
+                "hu": "Szélvédett hely a csend élvezetéhez; a téli napfény gyönyörűen esik be az ablakokon.",
+                "ro": "Un loc ferit de vânt pentru a savura liniștea; soarele de iarnă pătrunde superb prin ferestre.",
+                "en": "A wind-sheltered spot to enjoy the silence; the winter sun hits the windows beautifully."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Bambin di Praga",
+                "hu": "Santuario del Bambin di Praga",
+                "ro": "Santuario del Bambin di Praga",
+                "en": "Santuario del Bambin di Praga"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die berühmte Krippe, ein Highlight im Winter; der Innenraum ist angenehm temperiert.",
+                "hu": "Nézze meg a híres betlehemet, amely a tél fénypontja; a belső tér hőmérséklete kellemesen temperált.",
+                "ro": "Vizitați celebra scenă a nașterii, un punct culminant iarna; interiorul are o temperatură plăcută.",
+                "en": "Visit the famous nativity scene, a winter highlight; the interior is kept at a comfortable temperature."
+              }
+            },
+            {
+              "name": {
+                "de": "Nostra Signora delle Olivette",
+                "hu": "Nostra Signora delle Olivette",
+                "ro": "Nostra Signora delle Olivette",
+                "en": "Nostra Signora delle Olivette"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg hält Sie warm; oben angekommen schützt die Kapelle vor den kalten Böen vom Meer her.",
+                "hu": "A felfelé menet melegen tartja; felérve a kápolna megvédi a tenger felől érkező hideg széllökésektől.",
+                "ro": "Urcarea vă va ține de cald; odată ajunși sus, capela vă protejează de rafalele reci de pe mare.",
+                "en": "The climb up will keep you warm; once at the top, the chapel protects you from cold sea gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Molo di Ponente",
+                "hu": "Molo di Ponente",
+                "ro": "Molo di Ponente",
+                "en": "Molo di Ponente"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den spektakulären Sonnenuntergang um 17:00 Uhr; die Luft ist eisig, aber die Sicht ist kristallklar.",
+                "hu": "Élje át a látványos naplementét 17:00-kor; a levegő jeges, de a kilátás ilyenkor kristálytiszta.",
+                "ro": "Experimentați apusul spectaculos de la ora 17:00; aerul este înghețat, dar vizibilitatea este de cristal.",
+                "en": "Experience the spectacular sunset at 17:00; the air is icy, but the visibility is crystal clear."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Tengerparti kerékpáros utazása a Molo di Ponente frissítő tengeri szellőjével kezdődik. Délben kissé a szárazföld felé veszi az irányt, hogy felfedezze a Santuario del Bambin di Praga szépségét és a Giardini di Villa Maddalena nyugalmát. Délután a lenyűgöző tengerparti ösvényen száguld, elérve a történelmi Punta Bonaparte-t. Az estét egy jól megérdemelt, pihentető vízparti kikapcsolódással zárja a tágas Spiaggia libera Stoppani-n.",
         "ro": "Călătoria de coastă cu bicicleta începe cu briza mării de la Molo di Ponente. La prânz, mergeți ușor spre interior pentru a descoperi frumusețea spirituală de la Santuario del Bambin di Praga și liniștea Giardini di Villa Maddalena. După-amiaza, veți pedala pe superba pistă de coastă, ajungând la istorica Punta Bonaparte. Seara se încheie cu o pauză de relaxare binemeritată la malul apei, la Spiaggia libera Stoppani.",
         "en": "Your coastal cycling journey begins with the refreshing sea breezes at Molo di Ponente. Midday takes you slightly inland to discover the spiritual beauty of Santuario del Bambin di Praga and the leafy tranquility of Giardini di Villa Maddalena. In the afternoon, you will speed along the stunning coastal path, reaching the historic Punta Bonaparte. Evening concludes with a well-deserved, relaxing break by the water at the open Spiaggia libera Stoppani."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Radtag beginnt an der Molo, wo die Gischt mit dem Regen verschmilzt. Das Santuario dient als idealer Pausenstopp zum Trocknen. Die Weiterfahrt durch die Giardini erfordert Vorsicht auf den nassen Wegen. Am Nachmittag bietet Punta Bonaparte dramatische Ausblicke auf das graue Meer. Der Tag endet zügig an der Spiaggia, bevor die Kälte einsetzt.",
+            "hu": "Az esős bringás nap a mólónál indul, ahol a tengeri permet keveredik az esővel. A kegyhely ideális pihenőhely a száradáshoz. A kerékpározás a Giardini területén óvatosságot igényel a vizes utakon. Délután a Punta Bonaparte drámai kilátást nyújt a haragos tengerre. A nap gyorsan véget ér a strandnál, mielőtt a hideg átjárná a ruházatot.",
+            "ro": "O zi ploioasă pe bicicletă începe la dig, unde vaporii mării se contopesc cu ploaia. Sanctuarul servește ca punct de oprire ideal pentru a vă usca. Continuarea prin Giardini necesită prudență pe aleile ude. După-amiaza, Punta Bonaparte oferă vederi dramatice asupra mării cenușii. Ziua se încheie rapid la plajă, înainte ca frigul să se instaleze.",
+            "en": "A rainy cycling day starts at the pier, where sea spray merges with the rain. The sanctuary serves as an ideal break spot to dry off. Continuing through the Giardini requires caution on wet paths. In the afternoon, Punta Bonaparte offers dramatic views of the gray sea. The day ends quickly at the beach before the cold sets into your clothes."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Molo di Ponente",
+                "hu": "Molo di Ponente",
+                "ro": "Molo di Ponente",
+                "en": "Molo di Ponente"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start; die Pflastersteine am Kai sind bei Regen extrem rutschig.",
+                "hu": "Indulás előtt ellenőrizze a fékeket; a móló kövezete esőben rendkívül csúszós és veszélyes.",
+                "ro": "Verificați frânele înainte de plecare; pavajul de pe dig este extrem de alunecos când plouă.",
+                "en": "Check your brakes before starting; the pavement stones on the pier are extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Bambin di Praga",
+                "hu": "Santuario del Bambin di Praga",
+                "ro": "Santuario del Bambin di Praga",
+                "en": "Santuario del Bambin di Praga"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich, um das Fahrrad kurz abzustellen und sich im Inneren aufzuwärmen.",
+                "hu": "Használja a fedett bejárati részt a kerékpár tárolására, és melegedjen fel egy kicsit odabent.",
+                "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta și încălziți-vă puțin în interiorul sanctuarului.",
+                "en": "Use the covered entrance area to park your bike briefly and warm up inside the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Giardini di Villa Maddalena",
+                "hu": "Giardini di Villa Maddalena",
+                "ro": "Giardini di Villa Maddalena",
+                "en": "Giardini di Villa Maddalena"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die Kurven; herabgefallenes Laub macht den Boden in Kombination mit Regen schlüpfrig.",
+                "hu": "Lassan haladjon a kanyarokban; a lehullott levelek az esővel kombinálva síkossá teszik a talajt.",
+                "ro": "Mergeți încet în curbe; frunzele căzute în combinație cu ploaia fac solul foarte alunecos.",
+                "en": "Ride slowly through the curves; fallen leaves combined with rain make the ground very slick."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Bonaparte",
+                "hu": "Punta Bonaparte",
+                "ro": "Punta Bonaparte",
+                "en": "Punta Bonaparte"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie Abstand zur Klippe, da der Wind hier stark böig sein kann; Regenschutzkleidung ist hier Pflicht.",
+                "hu": "Tartson távolságot a sziklaperemtől, mert a szél itt erősen lökhet; az esővédő ruházat itt kötelező.",
+                "ro": "Păstrați distanța față de marginea stâncii, vântul poate fi puternic; pelerina de ploaie este obligatorie.",
+                "en": "Keep your distance from the cliff edge as the wind can be gusty; waterproof gear is essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera Stoppani",
+                "hu": "Spiaggia libera Stoppani",
+                "ro": "Spiaggia libera Stoppani",
+                "en": "Spiaggia libera Stoppani"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht; der Sand klebt bei Regen überall am Rad, reinigen Sie die Kette danach.",
+                "hu": "Egy rövid megálló elég; esőben a homok mindenhová rátapad a bringára, utána tisztítsa meg a láncot.",
+                "ro": "O oprire scurtă e suficientă; nisipul ud se lipește peste tot, curățați lanțul după această tură.",
+                "en": "A short stop is enough; wet sand sticks everywhere on the bike, so clean the chain after this ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Radtour startet frisch am Molo bei kühler Meeresbrise. Ein Besuch im Santuario bietet die nötige Aufwärmpause zur Mittagszeit. Die Fahrt durch die Giardini ist ruhig, da kaum Touristen unterwegs sind. Nachmittags erreicht man Punta Bonaparte im tiefstehenden Sonnenlicht. Beenden Sie die Tour an der Spiaggia vor dem frühen Sonnenuntergang um 17:00 Uhr.",
+            "hu": "A téli bringázás frissen indul a mólónál a hűvös tengeri szélben. A kegyhely látogatása biztosítja a szükséges melegedőt délidőben. A Giardini-n át vezető út nyugodt, mivel alig van turista. Délután a Punta Bonaparte-t az alacsonyan járó nap fényében érjük el. Zárja a túrát a strandnál a korai, 17:00 órai naplemente előtt.",
+            "ro": "Turul cu bicicleta iarna începe revigorant la dig, în briza rece. O vizită la sanctuar oferă pauza de încălzire necesară la prânz. Drumul prin Giardini este liniștit, fiind puțini turiști. După-amiaza se ajunge la Punta Bonaparte în lumina joasă a soarelui. Încheiați turul la plajă înainte de apusul devreme de la 17:00.",
+            "en": "The winter bike tour starts briskly at the pier in the cool sea breeze. A visit to the sanctuary provides a necessary warming break at midday. The ride through the Giardini is peaceful with few tourists around. In the afternoon, you reach Punta Bonaparte in the low sunlight. Finish the tour at the beach before the early sunset at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Molo di Ponente",
+                "hu": "Molo di Ponente",
+                "ro": "Molo di Ponente",
+                "en": "Molo di Ponente"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind am offenen Meer im Winter sehr beißend ist.",
+                "hu": "Viseljen szélálló kesztyűt, mivel a tengerparti menetszél télen nagyon metsző tud lenni.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece curentul de aer pe malul mării este tăios iarna.",
+                "en": "Wear windproof gloves, as the headwind along the open sea is very biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Bambin di Praga",
+                "hu": "Santuario del Bambin di Praga",
+                "ro": "Santuario del Bambin di Praga",
+                "en": "Santuario del Bambin di Praga"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Beine auszuruhen und die Finger im beheizten Kirchenschiff aufzuwärmen.",
+                "hu": "Ideális hely a lábak pihentetésére és az ujjak felmelegítésére a fűtött templomhajóban.",
+                "ro": "Un loc ideal pentru a vă odihni picioarele și a vă încălzi degetele în nava încălzită a bisericii.",
+                "en": "An ideal place to rest your legs and warm up your fingers in the heated church nave."
+              }
+            },
+            {
+              "name": {
+                "de": "Giardini di Villa Maddalena",
+                "hu": "Giardini di Villa Maddalena",
+                "ro": "Giardini di Villa Maddalena",
+                "en": "Giardini di Villa Maddalena"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne kann blenden; tragen Sie eine Sonnenbrille trotz der kühlen Temperaturen.",
+                "hu": "Az alacsonyan járó nap vakíthat; viseljen napszemüveget a hűvös hőmérséklet ellenére is.",
+                "ro": "Soarele jos poate fi orbitor; purtați ochelari de soare în ciuda temperaturilor scăzute.",
+                "en": "The low sun can be blinding; wear sunglasses despite the cool temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Punta Bonaparte",
+                "hu": "Punta Bonaparte",
+                "ro": "Punta Bonaparte",
+                "en": "Punta Bonaparte"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Schattenstellen auf dem Weg, dort kann es deutlich kühler und vereinzelt glatt sein.",
+                "hu": "Ügyeljen az árnyékos szakaszokra az úton, ott lényegesen hűvösebb és néha csúszós lehet.",
+                "ro": "Atenție la porțiunile umbrite de pe drum, acolo poate fi mult mai frig și ocazional alunecos.",
+                "en": "Watch out for shaded spots on the path, where it can be significantly cooler and occasionally slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia libera Stoppani",
+                "hu": "Spiaggia libera Stoppani",
+                "ro": "Spiaggia libera Stoppani",
+                "en": "Spiaggia libera Stoppani"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Stille am leeren Strand; packen Sie Thermoskanne mit Tee für den Tourabschluss ein.",
+                "hu": "Élvezze a csendet az üres strandon; csomagoljon teát a termoszházba a túra lezárásához.",
+                "ro": "Bucurați-vă de liniștea plajei pustii; puneți un termos cu ceai în rucsac pentru finalul turului.",
+                "en": "Enjoy the silence of the empty beach; pack a thermos of tea for the end of your tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autós túrája a Belvedere 2000 és a festői Curvone di Terrarossa lenyűgöző reggeli panorámáival indul. Délben leereszkedik a városba, hogy megcsodálja a spirituális művészetet a Santuario del Bambin di Praga-ban. Délután elmerülhet a Muvita múzeum lenyűgöző ökológiai kiállításaiban. Ahogy közeledik az este, festői autózása a különleges és természetes, zöld növényzettel körülvett Radura degli U.F.O. meglátogatásával zárul.",
         "ro": "Turul cu mașina începe cu panorame matinale ample de la Belvedere 2000 și pitorescul Curvone di Terrarossa. La prânz, veți coborî în oraș pentru a admira arta spirituală de la Santuario del Bambin di Praga. După-amiaza, vă scufundați în exponatele ecologice fascinante de la muzeul Muvita. Pe măsură ce se apropie seara, călătoria pitorească se încheie cu o vizită la ciudata și naturala Radura degli U.F.O., înconjurată de verdeață.",
         "en": "Your driving tour kicks off with sweeping morning panoramas from Belvedere 2000 and the scenic Curvone di Terrarossa. By midday, you will descend into town to admire the spiritual art at the Santuario del Bambin di Praga. In the afternoon, you dive into fascinating ecological exhibits at the Muvita museum. As the evening approaches, your scenic drive concludes with a visit to the quirky and natural Radura degli U.F.O., surrounded by greenery."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt am nebligen Belvedere, wo man die Aussicht oft direkt aus dem Auto genießt. Der Curvone bietet auch bei Regen einen tollen Fotostopp. Mittags ist das Santuario ein sicherer, trockener Hafen. Den Nachmittag verbringt man am besten im Muvita Museum, perfekt geschützt vor dem Wetter. Der Tag endet an der Radura, die im Regen fast außerirdisch wirkt.",
+            "hu": "Az út a ködös Belvedere-nél indul, ahol a kilátást gyakran közvetlenül az autóból élvezhetjük. A Curvone esőben is remek fotómegálló. Délben a kegyhely biztos, száraz menedék. A délutánt a legjobb a Muvita Múzeumban tölteni, tökéletesen védve az időjárástól. A nap a Radura-nál ér véget, amely esőben szinte földönkívüli hangulatot áraszt.",
+            "ro": "Călătoria începe la Belvedere, unde panorama este adesea savurată direct din mașină din cauza ceții. Curvone oferă un popas foto excelent și pe ploaie. La prânz, sanctuarul este un refugiu sigur și uscat. După-amiaza este cel mai bine petrecută la muzeul Muvita, protejat de vreme. Ziua se încheie la Radura, care pare aproape extraterestră sub ploaie.",
+            "en": "The trip starts at the misty Belvedere, where the view is often enjoyed directly from the car. Curvone offers a great photo stop even in the rain. At noon, the sanctuary is a safe, dry haven. The afternoon is best spent at the Muvita Museum, perfectly protected from the weather. The day ends at the Radura, which feels almost extraterrestrial in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Belvedere 2000",
+                "hu": "Belvedere 2000",
+                "ro": "Belvedere 2000",
+                "en": "Belvedere 2000"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie im Auto, wenn der Regen zu stark ist; die Wolken hängen hier oft tief und mystisch.",
+                "hu": "Maradjon az autóban, ha túl erősen esik; a felhők itt gyakran alacsonyan és misztikusan szállnak.",
+                "ro": "Rămâneți în mașină dacă plouă prea tare; norii stau adesea jos aici, creând o atmosferă mistică.",
+                "en": "Stay in the car if the rain is too heavy; the clouds often hang low and mystical here."
+              }
+            },
+            {
+              "name": {
+                "de": "Curvone di Terrarossa",
+                "hu": "Curvone di Terrarossa",
+                "ro": "Curvone di Terrarossa",
+                "en": "Curvone di Terrarossa"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die Kurven vorsichtig an; der Asphalt kann hier bei Nässe durch Salzrückstände rutschig sein.",
+                "hu": "Óvatosan közelítse meg a kanyarokat; az aszfalt a sós lerakódások miatt vizesen nagyon csúszhat.",
+                "ro": "Abordați curbele cu prudență; asfaltul poate fi alunecos aici din cauza reziduurilor de sare.",
+                "en": "Approach the curves carefully; the asphalt can be slippery here when wet due to salt residues."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Bambin di Praga",
+                "hu": "Santuario del Bambin di Praga",
+                "ro": "Santuario del Bambin di Praga",
+                "en": "Santuario del Bambin di Praga"
+              },
+              "tip_5lang": {
+                "de": "Es gibt Parkplätze direkt in der Nähe, so dass Sie nur wenige Meter durch den Regen laufen müssen.",
+                "hu": "Közvetlenül a közelben vannak parkolók, így csak pár métert kell az esőben gyalogolnia.",
+                "ro": "Există locuri de parcare chiar în apropiere, deci va trebui să mergeți doar câțiva metri prin ploaie.",
+                "en": "There are parking spaces right nearby, so you only have to walk a few meters through the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Muvita",
+                "hu": "Muvita",
+                "ro": "Muvita",
+                "en": "Muvita"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel für Regentage; nehmen Sie sich Zeit für die interaktiven Ausstellungen im Trockenen.",
+                "hu": "Ideális célpont esős napokra; szánjon időt az interaktív kiállításokra a száraz épületben.",
+                "ro": "Destinația ideală pentru zilele ploioase; acordați-vă timp pentru expozițiile interactive la adăpost.",
+                "en": "The ideal destination for rainy days; take your time for the interactive exhibits in the dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Radura degli U.F.O.",
+                "hu": "Radura degli U.F.O.",
+                "ro": "Radura degli U.F.O.",
+                "en": "Radura degli U.F.O."
+              },
+              "tip_5lang": {
+                "de": "Die schlammigen Wege zur Lichtung erfordern festes Schuhwerk; bei Starkregen lieber vom Waldrand aus schauen.",
+                "hu": "A tisztáshoz vezető sáros utakhoz túracipő kell; heves esőben inkább csak az erdőszélről nézze.",
+                "ro": "Potecile noroioase necesită încălțăminte solidă; în caz de ploaie torențială, priviți de la marginea pădurii.",
+                "en": "The muddy paths to the clearing require solid footwear; in heavy rain, better look from the forest edge."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Wintertour bietet vom Belvedere aus eine gestochen scharfe Fernsicht über den Golf. Der Curvone leuchtet im klaren Winterlicht. Mittags lädt das Santuario zur Besichtigung der weihnachtlichen Krippe ein. Der Nachmittag im Muvita ist angenehm warm und lehrreich. Bevor die Sonne um 17:00 Uhr sinkt, bietet die Radura einen friedlichen Ort für die dämmernde Winterstimmung.",
+            "hu": "A téli autós túra a Belvedere-től indul, ahonnan tűéles kilátás nyílik az egész öbölre. A Curvone ragyog a tiszta téli fényben. Délben a kegyhely a karácsonyi betlehem megtekintésére hívogat. A délután a Muvita-ban kellemesen meleg és tanulságos. Mielőtt a nap 17:00-kor lenyugszik, a Radura békés helyszínt kínál a téli szürkülethez.",
+            "ro": "Turul de iarnă oferă de la Belvedere o vedere clară asupra întregului golf. Curvone strălucește în lumina curată a iernii. La prânz, sanctuarul vă invită să vedeți ieslea de Crăciun. După-amiaza la Muvita este plăcut de caldă și educativă. Înainte ca soarele să apună la ora 17:00, Radura oferă un loc liniștit pentru amurgul de iarnă.",
+            "en": "The winter car tour offers a razor-sharp long-distance view over the gulf from Belvedere. Curvone glows in the clear winter light. At noon, the sanctuary invites you to see the Christmas nativity scene. The afternoon at Muvita is pleasantly warm and educational. Before the sun sets at 17:00, the Radura offers a peaceful spot for the dawning winter mood."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Belvedere 2000",
+                "hu": "Belvedere 2000",
+                "ro": "Belvedere 2000",
+                "en": "Belvedere 2000"
+              },
+              "tip_5lang": {
+                "de": "Die Luftfeuchtigkeit ist im Winter geringer, was eine unglaubliche Fernsicht bis nach Korsika ermöglichen kann.",
+                "hu": "A páratartalom télen alacsonyabb, ami hihetetlen kilátást tehet lehetővé, akár Korzikáig is ellátni.",
+                "ro": "Umiditatea este mai scăzută iarna, ceea ce poate permite o vizibilitate incredibilă până în Corsica.",
+                "en": "Humidity is lower in winter, which can allow for an incredible long-distance view as far as Corsica."
+              }
+            },
+            {
+              "name": {
+                "de": "Curvone di Terrarossa",
+                "hu": "Curvone di Terrarossa",
+                "ro": "Curvone di Terrarossa",
+                "en": "Curvone di Terrarossa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Licht für Fotos vom Meer, die Farben sind im Winter viel intensiver und kühler.",
+                "hu": "Használja ki a tiszta fényeket a tengeri fotókhoz; a színek télen sokkal intenzívebbek és hűvösebbek.",
+                "ro": "Profitați de lumina clară pentru fotografii cu marea; culorile sunt mult mai intense și reci iarna.",
+                "en": "Take advantage of the clear light for photos of the sea; the colors are much more intense and cool in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Santuario del Bambin di Praga",
+                "hu": "Santuario del Bambin di Praga",
+                "ro": "Santuario del Bambin di Praga",
+                "en": "Santuario del Bambin di Praga"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort, um der Kälte für eine Weile zu entfliehen und die spirituelle Atmosphäre zu genießen.",
+                "hu": "Szép hely, hogy egy időre elmeneküljön a hideg elől, és élvezze a spirituális atmoszférát.",
+                "ro": "Un loc frumos pentru a scăpa de frig o vreme și pentru a vă bucura de atmosfera spirituală.",
+                "en": "A beautiful place to escape the cold for a while and enjoy the spiritual atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Muvita",
+                "hu": "Muvita",
+                "ro": "Muvita",
+                "en": "Muvita"
+              },
+              "tip_5lang": {
+                "de": "Das Gebäude ist gut beheizt; ein perfekter Stopp für den kältesten Teil des Nachmittags.",
+                "hu": "Az épület jól fűtött; tökéletes megálló a délután leghidegebb részében.",
+                "ro": "Clădirea este bine încălzită; o oprire perfectă pentru cea mai rece parte a după-amiezii.",
+                "en": "The building is well heated; a perfect stop for the coldest part of the afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Radura degli U.F.O.",
+                "hu": "Radura degli U.F.O.",
+                "ro": "Radura degli U.F.O.",
+                "en": "Radura degli U.F.O."
+              },
+              "tip_5lang": {
+                "de": "Seien Sie rechtzeitig vor Sonnenuntergang (17:00) zurück am Auto, da es im Wald schnell dunkel wird.",
+                "hu": "Legyen vissza az autónál időben a naplemente (17:00) előtt, mert az erdőben gyorsan sötétedik.",
+                "ro": "Reveniți la mașină înainte de apus (17:00), deoarece în pădure se întunecă foarte repede.",
+                "en": "Be back at the car in time before sunset (17:00), as it gets dark very quickly in the forest."
+              }
+            }
+          ]
+        }
       }
     }
   }

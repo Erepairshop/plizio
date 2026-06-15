@@ -137,6 +137,168 @@
         "hu": "Délelőtt: Kezdje a központban a fehér templom megcsodálásával, majd sétáljon le a védett Baía strandra.\n\nDélben: Sétáljon a Praia Pequenához, ahol az aranyhomok fürdőzésre csábít.\n\nDélután: Irány észak, a Praia Grande, hogy megfigyelje az atlanti hullámokon lovagló szörfösöket.\n\nEste: Zárja a napot a Praia da Cerca Novánál, élvezve a sziklák drámai árnyékait naplementekor.",
         "ro": "Dimineața: Începeți în centru, admirând biserica albă, înainte de a merge la plaja Baía.\n\nPrânz: Plimbați-vă pe potecile de coastă spre Praia Pequena, unde nisipul vă invită la o baie.\n\nDupă-amiaza: Mergeți spre nord la Praia Grande pentru a privi surferii pe valurile Atlanticului.\n\nSeara: Încheiați la Praia da Cerca Nova, bucurându-vă de umbrele stâncilor la apus.",
         "en": "Morning: Start in Porto Covo's center, admiring the whitewashed church before a stroll to the sheltered Baía beach.\n\nMidday: Walk along coastal paths to Praia Pequena, where golden sands invite a refreshing ocean dip.\n\nAfternoon: Head north to the expansive Praia Grande to watch surfers riding Atlantic swells.\n\nEvening: Conclude at Praia da Cerca Nova, enjoying dramatic rock shadows at sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens suchen wir Schutz in der Kirche, während der Regen einsetzt. Mittags bieten die Klippenpfade dramatische Ausblicke auf den grauen Atlantik; halten Sie den Regenschirm fest. Nachmittags wandern wir über den festen, nassen Sand der Praia Grande unter einem nebligen Himmel. Abends leuchten die weißen Dorfstraßen im Regen; finden Sie einen gemütlichen Ort, um dem Rauschen zu lauschen.",
+            "hu": "Reggel a templom falai között találunk menedéket a szemerkélő eső elől. Délben a sziklák mentén sétálva csodáljuk a haragos óceánt; tartsuk erősen az esernyőt a szélben. Délután a Praia Grande végtelen homokja vizesen is jól járható, ha van vízálló cipőnk. Este a falu fehér házai között, egy hangulatos kávézóban pihenhetünk meg a párás parti túra után, hallgatva a távoli hullámverést.",
+            "ro": "Dimineața ne adăpostim în biserică în timp ce ploaia începe să cadă. La prânz, poteca de coastă oferă vederi dramatice ale Atlanticului gri; țineți umbrela strâns. După-amiaza este pentru plimbări pe nisipul ud și ferm de la Praia Grande, sub un cer cețos. Seara, străzile albe ale satului strălucesc în ploaie; găsiți un loc primitor pentru a asculta sunetul liniștitor al valurilor.",
+            "en": "Morning begins with shelter at the church as the rain starts to fall. By noon, the coastal path offers dramatic views of the grey Atlantic; hold your umbrella tight against the wind. Afternoon is for walking the firm, wet sands of Praia Grande under a misty sky. In the evening, the white village streets glow in the rain; find a cozy spot to enjoy the atmospheric sound of the waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Soledade",
+                "hu": "Igreja de Nossa Senhora da Soledade",
+                "ro": "Igreja de Nossa Senhora da Soledade",
+                "en": "Igreja de Nossa Senhora da Soledade"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die schlichte Schönheit des Altars im trockenen Innenraum; die Kirche bietet perfekten Schutz vor plötzlichen Schauern.",
+                "hu": "Csodálja meg az oltár egyszerű szépségét a száraz belső térben; a templom tökéletes menedéket nyújt a hirtelen záporok elől.",
+                "ro": "Admirați frumusețea simplă a altarului în interiorul uscat; biserica oferă adăpostul perfect împotriva averselor bruște de ploaie.",
+                "en": "Admire the simple beauty of the altar in the dry interior; the church provides perfect shelter from sudden coastal showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Baía de Porto Covo",
+                "hu": "Praia da Baía de Porto Covo",
+                "ro": "Praia da Baía de Porto Covo",
+                "en": "Praia da Baía de Porto Covo"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die aufpeitschende Gischt von den Klippen aus; tragen Sie rutschfeste Schuhe auf den nassen Steinstufen zum Strand.",
+                "hu": "Figyelje a felcsapó tajtékot a sziklákról; viseljen csúszásmentes cipőt a strandra vezető nedves kőlépcsőkön a biztonság érdekében.",
+                "ro": "Urmăriți spuma valurilor de pe stânci; purtați încălțăminte antiderapantă pe treptele de piatră umede care duc spre plajă.",
+                "en": "Watch the crashing spray from the cliffs; wear non-slip shoes on the wet stone steps leading down to the beach for safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Pequena",
+                "hu": "Praia Pequena",
+                "ro": "Praia Pequena",
+                "en": "Praia Pequena"
+              },
+              "tip_5lang": {
+                "de": "Die hohen Felsen schützen etwas vor dem Wind; nutzen Sie die regenfesten Aussichtspunkte oberhalb der Bucht für Fotos.",
+                "hu": "A magas sziklák némi védelmet nyújtanak a szél ellen; használja az öböl feletti esővédett kilátópontokat a fotózáshoz.",
+                "ro": "Stâncile înalte oferă o oarecare protecție împotriva vântului; folosiți punctele de observare protejate de deasupra golfului.",
+                "en": "The high rocks offer some protection from the wind; use the rain-sheltered viewpoints above the cove for moody photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Porto Côvo",
+                "hu": "Praia Grande de Porto Côvo",
+                "ro": "Praia Grande de Porto Côvo",
+                "en": "Praia Grande de Porto Côvo"
+              },
+              "tip_5lang": {
+                "de": "Der breite Sandstrand ist ideal für einen stürmischen Spaziergang; achten Sie auf die Flut, die bei Regen schneller zu steigen scheint.",
+                "hu": "A széles homokos part ideális egy viharos sétához; ügyeljen a dagályra, amely esőben és szélben gyorsabbnak tűnhet.",
+                "ro": "Plaja lată de nisip este ideală pentru o plimbare furtunoasă; atenție la flux, care pare să urce mai repede pe timp de ploaie.",
+                "en": "The wide sandy beach is ideal for a bracing walk; watch the tide, which can feel faster during rainy and windy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cerca Nova",
+                "hu": "Praia da Cerca Nova",
+                "ro": "Praia da Cerca Nova",
+                "en": "Praia da Cerca Nova"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den mystischen Blick auf den Ozean im Nebel; wärmen Sie sich danach in einem der nahen Cafés im Dorf auf.",
+                "hu": "Élvezze az óceán misztikus látványát a ködben; a túra után melegedjen fel a falu egyik közeli, barátságos kávézójában.",
+                "ro": "Bucurați-vă de vederea mistică a oceanului în ceață; încălziți-vă apoi într-una dintre cafenelele primitoare din sat.",
+                "en": "Enjoy the mystical view of the ocean in the mist; warm up afterwards in one of the nearby cozy cafés in the village center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und klar, ideal für einen Besuch der Kirche. Mittags wärmt die milde Sonne bei einem Spaziergang entlang der Küstenfelsen. Die Praia Grande wirkt im Winterlicht unendlich weit. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie den Rückweg früh antreten und den Abend bei einem warmen Getränk im Dorf ausklingen lassen.",
+            "hu": "A téli reggel friss és tiszta, ideális a templom csendes meglátogatásához. Délben az enyhe napsütés melenget a parti sziklák menti séta során. A Praia Grande végtelennek tűnik a téli fényekben. Mivel a nap 17:00 körül nyugszik, érdemes korán befejezni a túrát, és az estét egy forró ital mellett, a falu melegében tölteni.",
+            "ro": "Dimineața de iarnă este proaspătă și senină, ideală pentru o vizită la biserică. La prânz, soarele blând vă încălzește în timpul plimbării pe faleză. Praia Grande pare nesfârșită în lumina iernii. Deoarece soarele apune în jur de ora 17:00, începeți drumul de întoarcere devreme și petreceți seara cu o băutură caldă în sat.",
+            "en": "The winter morning is fresh and clear, perfect for a quiet visit to the church. At noon, the mild sun warms you during a walk along the coastal cliffs. Praia Grande feels infinite in the crisp winter light. Since the sun sets around 5 PM, plan to finish your walk early and spend the evening with a warm drink in the village."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Soledade",
+                "hu": "Igreja de Nossa Senhora da Soledade",
+                "ro": "Igreja de Nossa Senhora da Soledade",
+                "en": "Igreja de Nossa Senhora da Soledade"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die Stille der Nebensaison; der Innenraum bietet eine angenehme Wärme im Vergleich zur frischen Meeresbrise draußen.",
+                "hu": "Élje át a főszezonon kívüli csendet; a belső tér kellemes meleget áraszt a kinti friss tengeri széllel szemben.",
+                "ro": "Experimentați liniștea din afara sezonului; interiorul oferă o căldură plăcută față de briza proaspătă a mării de afară.",
+                "en": "Experience the peaceful silence of the off-season; the interior offers a welcome warmth compared to the fresh sea breeze outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Baía de Porto Covo",
+                "hu": "Praia da Baía de Porto Covo",
+                "ro": "Praia da Baía de Porto Covo",
+                "en": "Praia da Baía de Porto Covo"
+              },
+              "tip_5lang": {
+                "de": "Das tiefe Blau des Ozeans ist im Winter besonders intensiv; tragen Sie eine windfeste Jacke für den Aufenthalt an der Bucht.",
+                "hu": "Az óceán mélykék színe télen különösen intenzív; viseljen szélálló kabátot az öböl melletti nézelődéshez.",
+                "ro": "Albastrul profund al oceanului este deosebit de intens iarna; purtați o jachetă rezistentă la vânt pentru vizita în golf.",
+                "en": "The deep blue of the ocean is especially intense in winter; wear a windproof jacket for watching the waves at the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Pequena",
+                "hu": "Praia Pequena",
+                "ro": "Praia Pequena",
+                "en": "Praia Pequena"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an diesem kleinen Juwel; das klare Winterlicht sorgt für fantastische Kontraste auf den Felsen.",
+                "hu": "Élvezze a magányt ennél a kis gyöngyszemnél; a tiszta téli fény fantasztikus kontrasztokat teremt a sziklákon.",
+                "ro": "Bucurați-vă de singurătate la această mică bijuterie; lumina clară de iarnă creează contraste fantastice pe stânci.",
+                "en": "Enjoy the solitude at this small gem; the clear winter light creates fantastic contrasts on the rugged rock formations."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Porto Côvo",
+                "hu": "Praia Grande de Porto Côvo",
+                "ro": "Praia Grande de Porto Côvo",
+                "en": "Praia Grande de Porto Côvo"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen zügigen Strandspaziergang, um warm zu bleiben; die Luft ist im Winter unglaublich rein und erfrischend.",
+                "hu": "Ideális egy tempós tengerparti sétához, hogy mozgásban maradjon; a levegő télen hihetetlenül tiszta és frissítő.",
+                "ro": "Ideal pentru o plimbare rapidă pe plajă pentru a vă menține cald; aerul este incredibil de curat și revigorant iarna.",
+                "en": "Ideal for a brisk beach walk to stay warm; the air is incredibly pure and refreshing during the Alentejo winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cerca Nova",
+                "hu": "Praia da Cerca Nova",
+                "ro": "Praia da Cerca Nova",
+                "en": "Praia da Cerca Nova"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr; die goldenen Farben sind im Winter besonders warm und weich.",
+                "hu": "Figyelje a korai, 17:00 körüli naplementét; az arany színek télen különösen melegek és lágyak a horizonton.",
+                "ro": "Urmăriți apusul timpuriu în jurul orei 17:00; culorile aurii sunt deosebit de calde și moi în timpul iernii.",
+                "en": "Watch the early sunset around 5 PM; the golden colors are particularly warm and soft against the winter horizon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Délelőtt: Tekerjen az északi sziklákhoz, kezdve a napot a Praia do Cerro da Águia drámai kilátásával.\n\nDélben: Haladjon délre a központba, megállva a Praia Grande-nál és a főtéren.\n\nDélután: Hagyja el a falut, és kerékpározzon dél felé a parton a Praia da Engardaceirához.\n\nEste: Zárja a napot a parti erőd romjainak felfedezésével, szemben a titokzatos szigettel.",
         "ro": "Dimineața: Pedalați spre stâncile din nord pentru vederi dramatice la Praia do Cerro da Águia.\n\nPrânz: Mergeți spre sud spre centrul satului, oprindu-vă la Praia Grande și în piață.\n\nDupă-amiaza: Lăsați satul în urmă, pedalând spre sud de-a lungul coastei la Praia da Engardaceira.\n\nSeara: Încheiați explorând ruinele fortului de coastă, vis-a-vis de insula misterioasă.",
         "en": "Morning: Cycle to the rugged northern cliffs, starting your day with dramatic views and fresh air at Praia do Cerro da Águia.\n\nMidday: Pedal south to the village center, stopping at Praia Grande and the main square.\n\nAfternoon: Leave the village behind as you bike further south along the coast to Praia da Engardaceira.\n\nEvening: End by exploring the coastal fort ruins opposite the mysterious island."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht auf den Küstenwegen. Morgens starten wir an den nebligen Klippen, mittags bietet die Dorfkirche eine willkommene trockene Pause. Die Fahrt zur Ilha do Pessegueiro ist atmosphärisch, aber achten Sie auf rutschigen Asphalt. Am späten Nachmittag erreichen wir das Fort, dessen Mauern Schutz vor dem peitschenden Wind und Regen bieten.",
+            "hu": "Az esőben való kerékpározás óvatosságot igényel a parti utakon. Reggel a ködös szikláknál kezdünk, délben pedig a falu temploma nyújt száraz pihenőt. Az Ilha do Pessegueiro felé vezető út hangulatos, de figyeljünk a csúszós aszfaltra. Késő délután érjük el az erődöt, melynek vastag falai védelmet nyújtanak a metsző szél és az eső elől.",
+            "ro": "Ciclismul pe ploaie necesită prudență pe drumurile de coastă. Dimineața începem la stâncile cețoase, iar la prânz biserica din sat oferă o pauză uscată binevenită. Drumul spre Ilha do Pessegueiro este atmosferic, dar atenție la asfaltul alunecos. După-amiaza târziu ajungem la fort, ale cărui ziduri oferă protecție împotriva vântului și ploii.",
+            "en": "Cycling in the rain requires extra care on coastal paths. Start at the misty cliffs in the morning, followed by a dry break at the village church at noon. The ride to Ilha do Pessegueiro is atmospheric, but watch for slippery asphalt. By late afternoon, reach the fort, where the thick stone walls provide shelter from the driving wind and rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia do Cerro da Águia",
+                "hu": "Praia do Cerro da Águia",
+                "ro": "Praia do Cerro da Águia",
+                "en": "Praia do Cerro da Águia"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht auf die raue See ist gewaltig; bremsen Sie auf der nassen Abfahrt zum Aussichtspunkt frühzeitig und vorsichtig.",
+                "hu": "A haragos tenger látványa lenyűgöző; a kilátóhoz vezető nedves lejtőn fékezzen időben és nagyon óvatosan.",
+                "ro": "Vederea mării agitate este impresionantă; frânați devreme și cu atenție pe coborârea umedă spre punctul de belvedere.",
+                "en": "The view of the rough sea is powerful; brake early and carefully on the wet descent to the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Porto Côvo",
+                "hu": "Praia Grande de Porto Côvo",
+                "ro": "Praia Grande de Porto Côvo",
+                "en": "Praia Grande de Porto Côvo"
+              },
+              "tip_5lang": {
+                "de": "Das Prasseln des Regens auf die Wellen ist ein einzigartiges Geräusch; halten Sie Ihr Gepäck mit einer wasserdichten Hülle trocken.",
+                "hu": "Az eső kopogása a hullámokon egyedülálló hangélmény; tartsa felszerelését szárazon egy vízálló táskavédő huzattal.",
+                "ro": "Sunetul ploii peste valuri este o experiență unică; păstrați-vă bagajele uscate cu o husă impermeabilă pentru bicicletă.",
+                "en": "The sound of rain on the waves is a unique experience; keep your gear dry with a waterproof pannier cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Soledade",
+                "hu": "Igreja de Nossa Senhora da Soledade",
+                "ro": "Igreja de Nossa Senhora da Soledade",
+                "en": "Igreja de Nossa Senhora da Soledade"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen trockenen Stopp, um die Kleidung zu richten; die ruhige Atmosphäre hilft, die Kälte des Regens zu vergessen.",
+                "hu": "Használja ki ezt a száraz megállót a ruházata rendezésére; a nyugodt légkör segít elfeledtetni az eső hűvösségét.",
+                "ro": "Folosiți această oprire uscată pentru a vă aranja echipamentul; atmosfera calmă vă ajută să uitați de răceala ploii.",
+                "en": "Use this dry stop to adjust your clothing; the quiet atmosphere helps you forget the chill of the coastal rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Engardaceira",
+                "hu": "Praia da Engardaceira",
+                "ro": "Praia da Engardaceira",
+                "en": "Praia da Engardaceira"
+              },
+              "tip_5lang": {
+                "de": "Ein versteckter Ort, der im Regen wild wirkt; bleiben Sie auf dem befestigten Weg, um Schlamm auf den Reifen zu vermeiden.",
+                "hu": "Rejtett hely, amely esőben vadregényes; maradjon a kövezett úton, hogy elkerülje a sár felverődését a gumikra.",
+                "ro": "Un loc ascuns care pare sălbatic pe ploaie; rămâneți pe drumul pavat pentru a evita noroiul pe anvelope.",
+                "en": "A hidden spot that looks wild in the rain; stay on the paved path to avoid mud buildup on your bike tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Ilha do Pessegueiro",
+                "hu": "Praia da Ilha do Pessegueiro",
+                "ro": "Praia da Ilha do Pessegueiro",
+                "en": "Praia da Ilha do Pessegueiro"
+              },
+              "tip_5lang": {
+                "de": "Die Insel im grauen Dunst ist ein mystisches Fotomotiv; wischen Sie die Linse Ihrer Kamera vor jedem Bild kurz trocken.",
+                "hu": "A szürke párába burkolózó sziget misztikus fotótéma; minden kép előtt törölje szárazra a kamera lencséjét.",
+                "ro": "Insula în mists gri este un subiect foto mistic; ștergeți lentila camerei înainte de fiecare fotografie.",
+                "en": "The island shrouded in grey mist is a mystical photo subject; wipe your camera lens dry before each shot."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte da Ilha do Pessegueiro",
+                "hu": "Forte da Ilha do Pessegueiro",
+                "ro": "Forte da Ilha do Pessegueiro",
+                "en": "Forte da Ilha do Pessegueiro"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die steinernen Gänge, die Schutz vor dem Wetter bieten; die Aussicht auf die tobende See ist von hier sicher.",
+                "hu": "Fedezze fel a kőfolyosókat, melyek védelmet nyújtanak az időjárás elől; a dühöngő tenger látványa innen biztonságos.",
+                "ro": "Explorați coridoarele de piatră care oferă adăpost; vederea mării înfuriate este spectaculoasă și sigură de aici.",
+                "en": "Explore the stone passages that offer shelter from the weather; the view of the raging sea is spectacular from here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren ist belebend, aber kühl. Der Morgen startet frisch an den Klippen, mittags wärmt die Sonne im Dorf. Die Route führt südlich entlang unberührter Strände zur Ilha do Pessegueiro. Da das Licht ab 16:30 Uhr schwindet, schalten Sie die Beleuchtung frühzeitig ein. Das Fort bietet zum Abschluss einen majestätischen Blick auf den frühen winterlichen Sonnenuntergang.",
+            "hu": "A téli kerékpározás frissítő, de hűvös élmény. A reggel a szikláknál indul, délben pedig a falu napsütötte utcáin melegedhetünk fel. Az útvonal dél felé, érintetlen strandok mentén vezet a Pessegueiro-szigetig. Mivel 16:30 után fogyni kezd a fény, kapcsolja be korán a lámpákat. Az erődnél zárjuk a napot a fenséges téli naplemente látványával.",
+            "ro": "Ciclismul de iarnă este revigorant, dar răcoros. Dimineața începe la stânci, iar la prânz vă puteți încălzi pe străzile însorite ale satului. Traseul duce spre sud, de-a lungul plajelor virgine, până la Insula Pessegueiro. Deoarece lumina scade după ora 16:30, aprindeți luminile devreme. Fortul oferă la final o vedere maiestuoasă a apusului de iarnă.",
+            "en": "Winter cycling is invigorating but chilly. Start the fresh morning at the cliffs, then warm up in the sun-drenched village at noon. The route heads south along pristine beaches towards Pessegueiro Island. Since light fades after 4:30 PM, turn on your lights early. End the day at the fort with a majestic view of the early winter sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Praia do Cerro da Águia",
+                "hu": "Praia do Cerro da Águia",
+                "ro": "Praia do Cerro da Águia",
+                "en": "Praia do Cerro da Águia"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht weite Sicht; tragen Sie mehrere Schichten Kleidung, um gegen den kalten Fahrtwind geschützt zu sein.",
+                "hu": "A tiszta téli levegő távoli kilátást enged; viseljen réteges öltözetet, hogy védve legyen a hideg menetszél ellen.",
+                "ro": "Aerul clar de iarnă permite vederi la distanță; purtați mai multe straturi de haine pentru a vă proteja de vântul rece.",
+                "en": "The clear winter air allows for distant views; wear multiple layers to stay protected against the cold wind while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Porto Côvo",
+                "hu": "Praia Grande de Porto Côvo",
+                "ro": "Praia Grande de Porto Côvo",
+                "en": "Praia Grande de Porto Côvo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Leere des weiten Strandes; im Winter ist der Sand fest und ideal für ein kurzes Stück Schieben direkt am Wasser.",
+                "hu": "Élvezze a hatalmas strand ürességét; télen a homok kemény és ideális egy rövid kerékpártoláshoz közvetlenül a vízparton.",
+                "ro": "Bucurați-vă de plaja pustie; iarna nisipul este tare și ideal pentru a merge pe lângă bicicletă chiar la marginea apei.",
+                "en": "Enjoy the emptiness of the vast beach; in winter the sand is firm and ideal for walking your bike briefly by the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Soledade",
+                "hu": "Igreja de Nossa Senhora da Soledade",
+                "ro": "Igreja de Nossa Senhora da Soledade",
+                "en": "Igreja de Nossa Senhora da Soledade"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort zum Aufwärmen im Dorfzentrum; die weißen Mauern reflektieren die tiefstehende Wintersonne besonders hell.",
+                "hu": "Csendes hely a felmelegedéshez a falu központjában; a fehér falak különösen fehéren verik vissza az alacsonyan járó téli napot.",
+                "ro": "Un loc liniștit pentru a vă încălzi în centrul satului; zidurile albe reflectă strălucitor soarele de iarnă de la joasă înălțime.",
+                "en": "A quiet place to warm up in the village center; the whitewashed walls reflect the low winter sun brightly."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Engardaceira",
+                "hu": "Praia da Engardaceira",
+                "ro": "Praia da Engardaceira",
+                "en": "Praia da Engardaceira"
+              },
+              "tip_5lang": {
+                "de": "Die wilde Schönheit der Küste ist im Winter am authentischsten; nutzen Sie Handschuhe, um die Hände am Lenker warm zu halten.",
+                "hu": "A part vad szépsége télen a leghitelesebb; használjon kesztyűt, hogy kezei melegen maradjanak a kormányon a gurulás alatt.",
+                "ro": "Frumusețea sălbatică a coastei este autentică iarna; folosiți mănuși pentru a vă menține mâinile calde pe ghidon.",
+                "en": "The wild beauty of the coast is most authentic in winter; use gloves to keep your hands warm on the handlebars while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Ilha do Pessegueiro",
+                "hu": "Praia da Ilha do Pessegueiro",
+                "ro": "Praia da Ilha do Pessegueiro",
+                "en": "Praia da Ilha do Pessegueiro"
+              },
+              "tip_5lang": {
+                "de": "Die Insel wirkt im Winterlicht majestätisch; machen Sie Ihre Fotos, bevor die Sonne gegen 17:00 Uhr hinter dem Horizont sinkt.",
+                "hu": "A sziget fenséges látványt nyújt a téli fényben; készítse el fotóit, mielőtt a nap 17:00 körül a horizont alá süllyed.",
+                "ro": "Insula arată maiestuos în lumina iernii; faceți fotografii înainte ca soarele să apună sub orizont în jur de ora 17:00.",
+                "en": "The island looks majestic in the winter light; take your photos before the sun sinks below the horizon around 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte da Ilha do Pessegueiro",
+                "hu": "Forte da Ilha do Pessegueiro",
+                "ro": "Forte da Ilha do Pessegueiro",
+                "en": "Forte da Ilha do Pessegueiro"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Punkt für den Sonnenuntergang; packen Sie eine Thermoskanne mit Tee ein, um die Aussicht warm genießen zu können.",
+                "hu": "Ideális pont a naplemente megtekintéséhez; vigyen magával egy termosz teát, hogy melegen élvezhesse a kilátást az erődnél.",
+                "ro": "Locul ideal pentru a vedea apusul; luați un termos cu ceai pentru a vă bucura de priveliște în timp ce vă mențineți cald.",
+                "en": "The ideal spot for sunset viewing; bring a thermos of warm tea to enjoy the fort views while staying cozy."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Délelőtt: Vezessen délre, és fedezze fel a partmenti erődöt, valamint az ókori római nekropoliszt.\n\nDélben: Haladjon északabbra a Praia Selvagem érintetlen strandjához, majd látogassa meg a fehér templomot.\n\nDélután: Folytassa útját a Praia Grande felé egy hosszú délutáni pihenésre az aranyhomokon.\n\nEste: Sétáljon le a Salto strandra, és zárja a napot a fenséges sziklás kilátással.",
         "ro": "Dimineața: Conduceți spre sud pentru a explora impunătoarea fortăreață de coastă și vechea necropolă romană.\n\nPrânz: Mergeți puțin spre nord la frumoasa Praia Selvagem, înainte de a vizita biserica albă.\n\nDupă-amiaza: Continuați la Praia Grande pentru o relaxare lungă pe nisipul auriu.\n\nSeara: Coborâți la plaja Salto, încheind cu o priveliște maiestuoasă de pe stânci.",
         "en": "Morning: Drive to the southern edge of Porto Covo to explore the imposing coastal fortress and ancient Roman necropolis.\n\nMidday: Head slightly north to experience the untouched beauty of Praia Selvagem before visiting the whitewashed church.\n\nAfternoon: Continue to Praia Grande for a long afternoon relaxation on the golden sands.\n\nEvening: Walk down to Salto beach, ending with majestic cliff views."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir die Küste trocken und komfortabel. Morgens bietet das Fort Schutz, während wir die stürmische See beobachten. Die Nekropole wirkt im Regen besonders geschichtsträchtig. Mittags Dashboards am Strand Aussichtspunkte. Die Dorfkirche bietet einen langen, trockenen Aufenthalt. Der Tag endet an den Klippen, wo wir das Wetterdrama sicher aus dem Fahrzeug verfolgen.",
+            "hu": "Autóval kényelmesen és szárazon fedezhetjük fel a partvidéket. Reggel az erőd falai védenek a szél ellen, miközben a viharos tengert nézzük. A nekropolisz kövei esőben még patinásabbak. Délben az autó ablakából csodáljuk a strandokat. A templom hosszas, száraz látogatást kínál. A napot a szikláknál zárjuk, biztonságban figyelve az időjárás drámáját.",
+            "ro": "Cu mașina explorăm coasta confortabil și uscat. Dimineața, fortul oferă protecție în timp ce urmărim marea agitată. Necropola pare plină de istorie sub ploaie. La prânz, admirăm plajele din interiorul mașinii. Biserica din sat oferă o vizită lungă și uscată. Ziua se încheie la stânci, de unde urmărim spectacolul naturii în siguranță.",
+            "en": "By car, explore the coastline comfortably and dry. Spend the morning at the fort, watching the stormy sea from shelter. The necropolis feels even more historic under the rain. At noon, use coastal viewpoints as a base for beach viewing. The village church offers a long, dry indoor visit. End the day at the cliffs, watching the weather drama safely from your vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte da Ilha do Pessegueiro",
+                "hu": "Forte da Ilha do Pessegueiro",
+                "ro": "Forte da Ilha do Pessegueiro",
+                "en": "Forte da Ilha do Pessegueiro"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang und nutzen Sie die Festungsmauern als Windschutz; die Sicht auf die Insel ist bei Regen spektakulär.",
+                "hu": "Parkoljon közel a bejárathoz, és használja az erőd falait szélfogóként; a szigetre nyíló kilátás esőben is látványos.",
+                "ro": "Parcați aproape de intrare și folosiți zidurile fortului ca paravan împotriva vântului; vederea spre insulă este spectaculoasă pe ploaie.",
+                "en": "Park close to the entrance and use the fort walls as a windbreak; the view towards the island is spectacular during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Necrópole do Pessegueiro",
+                "hu": "Necrópole do Pessegueiro",
+                "ro": "Necrópole do Pessegueiro",
+                "en": "Necrópole do Pessegueiro"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zu den Ruinen lohnt sich; der nasse Stein zeigt seine tiefen, antiken Farben besonders deutlich.",
+                "hu": "Egy rövid futás a romokhoz megéri; a vizes kövek ilyenkor mutatják meg leginkább mély, antik színeiket.",
+                "ro": "O scurtă fugă până la ruine merită; piatra umedă își dezvăluie culorile profunde și antice mult mai clar.",
+                "en": "A short dash to the ruins is worth it; the wet stones reveal their deep, ancient colors more vividly in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Selvagem",
+                "hu": "Praia Selvagem",
+                "ro": "Praia Selvagem",
+                "en": "Praia Selvagem"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Brandung aus der Wärme Ihres Autos; die Gischt füllt bei Regen oft die ganze Bucht mit weißem Nebel.",
+                "hu": "Figyelje a hullámtörést az autó melegéből; a tajték esőben gyakran fehér köddel tölti meg az egész öblöt.",
+                "ro": "Urmăriți valurile din căldura mașinii; spuma mării umple adesea întregul golf cu o ceață albă în timpul ploii.",
+                "en": "Watch the surf from the warmth of your car; the spray often fills the entire cove with a white mist during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Soledade",
+                "hu": "Igreja de Nossa Senhora da Soledade",
+                "ro": "Igreja de Nossa Senhora da Soledade",
+                "en": "Igreja de Nossa Senhora da Soledade"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für eine ausgiebige Pause im Trockenen; bewundern Sie die traditionellen portugiesischen Kacheln im Inneren.",
+                "hu": "Ideális hely egy kiadós száraz pihenőhöz; csodálja meg a belső tér hagyományos portugál csempéit (azulejos).",
+                "ro": "Locul ideal pentru o pauză prelungită la adăpost; admirați plăcile de ceramică tradiționale portugheze din interior.",
+                "en": "The ideal spot for an extended dry break; admire the traditional Portuguese tiles (azulejos) inside the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Porto Côvo",
+                "hu": "Praia Grande de Porto Côvo",
+                "ro": "Praia Grande de Porto Côvo",
+                "en": "Praia Grande de Porto Côvo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz oberhalb des Strandes als Aussichtspunkt; halten Sie die Scheibenwischer für klare Sicht auf höchster Stufe.",
+                "hu": "Használja a strand feletti parkolót kilátópontként; tartsa az ablaktörlőt magas fokozaton a tiszta kilátás érdekében.",
+                "ro": "Folosiți parcarea de deasupra plajei ca punct de observație; lăsați ștergătoarele pornite pentru o vedere clară asupra mării.",
+                "en": "Use the parking area above the beach as a viewpoint; keep your wipers on high for a clear view of the grey Atlantic."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia naturista do Salto",
+                "hu": "Praia naturista do Salto",
+                "ro": "Praia naturista do Salto",
+                "en": "Praia naturista do Salto"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, mystischer Blick in die Bucht; bleiben Sie auf dem asphaltierten Bereich, um nicht im nassen Bankett stecken zu bleiben.",
+                "hu": "Rövid, misztikus pillantás az öbölre; maradjon az aszfaltozott részen, hogy ne akadjon el a felázott útpadkán.",
+                "ro": "O scurtă privire mistică în golf; rămâneți pe zona asfaltată pentru a nu rămâne blocat pe acostamentul umed.",
+                "en": "A brief, mystical look into the cove; stay on the paved area to avoid getting stuck on the soft, wet roadside."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Cerro da Águia",
+                "hu": "Praia do Cerro da Águia",
+                "ro": "Praia do Cerro da Águia",
+                "en": "Praia do Cerro da Águia"
+              },
+              "tip_5lang": {
+                "de": "Das Finale mit dramatischem Ozeanblick; achten Sie bei der Abfahrt auf dem nassen Asphalt auf Aquaplaning in den Kurven.",
+                "hu": "A nap zárása drámai óceáni kilátással; a nedves aszfalton való leereszkedéskor ügyeljen a kanyarokban az úttapadásra.",
+                "ro": "Finalul zilei cu o vedere dramatică; atenție la acvaplanare în curbe în timp ce coborâți pe asfaltul umed.",
+                "en": "A final stop with a dramatic ocean view; watch out for hydroplaning in the curves while descending on wet asphalt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine entspannte winterliche Autotour entlang der Küste. Vormittags besuchen wir historische Monumente wie das Fort und die Nekropole im klaren Licht. Mittags bietet das Dorf eine warme Pause. Da die Sonne gegen 17:00 Uhr untergeht, erreichen wir die nördlichen Klippen pünktlich zur Dämmerung. Genießen Sie das Farbspektrum des winterlichen Horizonts bequem vom Fahrersitz aus.",
+            "hu": "Kényelmes téli autós túra a part mentén. Délelőtt a történelmi emlékeket, az erődöt és a nekropoliszt látogatjuk meg a tiszta téli fényben. Délben a falu kínál meleg pihenőt. Mivel a nap 17:00 körül nyugszik, a szürkületre érünk a северi sziklákhoz. Élvezze a téli horizont színeit kényelmesen, az autója vezetőüléséből.",
+            "ro": "Un tur auto de iarnă relaxat de-a lungul coastei. Dimineața vizităm monumentele istorice, fortul și necropola, în lumina clară. La prânz, satul oferă o pauză caldă. Deoarece soarele apune în jur de ora 17:00, ajungem la stâncile din nord chiar la amurg. Bucurați-vă de culorile orizontului de iarnă confortabil, de la volan.",
+            "en": "A relaxed winter car tour along the coast. In the morning, visit historical landmarks like the fort and necropolis in the clear light. At noon, the village provides a warm break. Since the sun sets around 5 PM, reach the northern cliffs just in time for dusk. Enjoy the spectrum of winter horizon colors comfortably from your driver's seat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Forte da Ilha do Pessegueiro",
+                "hu": "Forte da Ilha do Pessegueiro",
+                "ro": "Forte da Ilha do Pessegueiro",
+                "en": "Forte da Ilha do Pessegueiro"
+              },
+              "tip_5lang": {
+                "de": "Das schräge Winterlicht hebt das Mauerwerk hervor; bleiben Sie nah an den Mauern, da der Wind hier im Winter sehr stark sein kann.",
+                "hu": "Az alacsony téli fény kiemeli a falazat részleteit; maradjon a falak közelében, mert a szél itt télen nagyon erős lehet.",
+                "ro": "Lumina de iarnă scoate în evidență detaliile zidăriei; stați aproape de ziduri, deoarece vântul poate fi foarte puternic aici.",
+                "en": "The low winter light highlights the masonry details; stay close to the walls as the wind can be very strong here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Necrópole do Pessegueiro",
+                "hu": "Necrópole do Pessegueiro",
+                "ro": "Necrópole do Pessegueiro",
+                "en": "Necrópole do Pessegueiro"
+              },
+              "tip_5lang": {
+                "de": "Atmosphärische Ruinen unter dem weiten Winterhimmel; die umliegenden Felder leuchten im Winter in einem kräftigen Grün.",
+                "hu": "Hangulatos romok a tágas téli égbolt alatt; a környező mezők ilyenkor élénk zöld színben pompáznak a téli csapadék után.",
+                "ro": "Ruine atmosferice sub cerul vast de iarnă; câmpurile din jur sunt de un verde intens în această perioadă a anului.",
+                "en": "Atmospheric ruins under the vast winter sky; the surrounding fields are vividly green during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Selvagem",
+                "hu": "Praia Selvagem",
+                "ro": "Praia Selvagem",
+                "en": "Praia Selvagem"
+              },
+              "tip_5lang": {
+                "de": "Makelloser Sand und kaltes, türkisfarbenes Wasser; ideal für einen kurzen, erfrischenden Spaziergang an der klaren Luft.",
+                "hu": "Érintetlen homok és hideg, türkizkék víz; ideális egy rövid, frissítő sétához a kristálytiszta téli levegőn.",
+                "ro": "Nisip impecabil și apă rece, turcoaz; ideal pentru o scurtă plimbare revigorantă în aerul curat de iarnă.",
+                "en": "Pristine sand and cold, turquoise water; ideal for a short, bracing walk in the crystal-clear winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Igreja de Nossa Senhora da Soledade",
+                "hu": "Igreja de Nossa Senhora da Soledade",
+                "ro": "Igreja de Nossa Senhora da Soledade",
+                "en": "Igreja de Nossa Senhora da Soledade"
+              },
+              "tip_5lang": {
+                "de": "Das Herz des Dorfes; ein heller und warmer Stopp während des kurzen Wintertages, bevor Sie die Tour fortsetzen.",
+                "hu": "A falu szíve; fényes és meleg megálló a rövid téli nap során, mielőtt folytatná az utat a part mentén.",
+                "ro": "Inima satului; o oprire luminoasă și caldă în timpul scurt al zilei de iarnă, înainte de a continua traseul.",
+                "en": "The heart of the village; a bright and warm stop during the short winter day before continuing your coastal drive."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia Grande de Porto Côvo",
+                "hu": "Praia Grande de Porto Côvo",
+                "ro": "Praia Grande de Porto Côvo",
+                "en": "Praia Grande de Porto Côvo"
+              },
+              "tip_5lang": {
+                "de": "Die Weite der Küste ist im Winter beeindruckend; der Horizont wirkt durch die klare Luft außergewöhnlich nah und scharf.",
+                "hu": "A partvidék tágassága lenyűgöző télen; a láthatár a tiszta levegő miatt kivételesen közelinek és élesnek tűnik.",
+                "ro": "Vastitatea coastei este impresionantă iarna; orizontul pare neobișnuit de aproape și clar datorită aerului curat.",
+                "en": "The vastness of the coast is impressive in winter; the horizon feels exceptionally close and sharp due to the clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia naturista do Salto",
+                "hu": "Praia naturista do Salto",
+                "ro": "Praia naturista do Salto",
+                "en": "Praia naturista do Salto"
+              },
+              "tip_5lang": {
+                "de": "Ruhig und abgelegen im Winter; genießen Sie das rhythmische Geräusch der Dünung bei geöffnetem Autofenster.",
+                "hu": "Csendes és elszigetelt télen; élvezze a hullámzás ritmikus hangját lehúzott autóablak mellett a parkolóból.",
+                "ro": "Liniștit și izolat iarna; bucurați-vă de sunetul ritmic al valurilor cu fereastra mașinii deschisă.",
+                "en": "Quiet and secluded in winter; enjoy the rhythmic sound of the Atlantic swells with your car window down for a moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia do Cerro da Águia",
+                "hu": "Praia do Cerro da Águia",
+                "ro": "Praia do Cerro da Águia",
+                "en": "Praia do Cerro da Águia"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das letzte Licht über den Klippen ein; nach 16:30 Uhr sinkt die Sonne im Winter sehr schnell.",
+                "hu": "Kapja el az utolsó fényeket a sziklák felett; 16:30 után télen a nap nagyon gyorsan bukik a horizont alá.",
+                "ro": "Surprindeți ultima lumină peste stânci; după ora 16:30, soarele apune foarte repede în timpul iernii.",
+                "en": "Catch the last light over the cliffs; after 4:30 PM, the sun drops very quickly below the winter horizon."
+              }
+            }
+          ]
+        }
       }
     }
   }

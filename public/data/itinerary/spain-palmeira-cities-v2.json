@@ -137,6 +137,168 @@
         "hu": "Reggel: Kezdje a központban a templom és a kilátó megtekintésével. Dél: Pihenjen a Praia da Cambra homokján és élvezze a lágy hullámokat. Délután: Sétáljon át a Praia de Supinal nyugodt partjára. Este: Zárja a napot a Praia de Cruces festői naplementéjével.",
         "ro": "Dimineață: Începeți în centru cu biserica și punctul de belvedere. Prânz: Relaxați-vă pe nisipul de la Praia da Cambra, bucurându-vă de valuri. După-amiază: Plimbați-vă spre liniștita Praia de Supinal. Seară: Încheiați ziua la Praia de Cruces cu un apus pitoresc.",
         "en": "Morning: Start your day in the historic heart of Palmeira by admiring its main church before taking in the coastal views at the castle viewpoint. Midday: Stroll south to Praia da Cambra, a beautiful strip of sand where you can relax by the gentle waves. Afternoon: Continue your leisurely walk to Praia de Supinal, enjoying the peaceful atmosphere. Evening: Wrap up at Praia de Cruces with a sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den Morgen in der Kirche San Pedro, die sicheren Schutz vor dem galicischen Regen bietet. Mittags führt der Weg zum Aussichtspunkt Castelo, wo der Nebel über dem Meer eine mystische Atmosphäre schafft. Nachmittags laden die Strände zu einem kurzen, windgepeitschten Spaziergang ein; feste Regenkleidung ist ein Muss. Der Abend endet gemütlich in Hafennähe, während es draußen regnet.",
+            "hu": "Kezdje a reggelt a San Pedro templomban, amely menedéket nyújt a galíciai eső elől. Délben a Castelo kilátóhoz vezet az út, ahol a tenger feletti köd misztikus hangulatot áraszt. Délután a strandok szeles, frissítő sétára csábítanak; a vízálló ruházat és ernyő elengedhetetlen. Az este kellemesen telik a kikötő közeli bárokban, miközben az esőcseppek az ablakon kopognak.",
+            "ro": "Începeți dimineața la biserica San Pedro, care oferă adăpost sigur împotriva ploii galiciene. La prânz, drumul duce la punctul de belvedere Castelo, unde ceața de deasupra mării creează o atmosferă mistică. După-amiaza, plajele vă invită la o plimbare scurtă și răcoritoare; hainele impermeabile sunt obligatorii. Seara se încheie plăcut lângă port, în timp ce afară plouă torențial.",
+            "en": "Start the morning at San Pedro Church, offering safe shelter from the Galician rain. At noon, head to the Castelo viewpoint, where the mist over the sea creates a mystical atmosphere. In the afternoon, the beaches invite a short, windswept walk; sturdy waterproof gear is essential. The evening ends cozily near the harbor area, listening to the raindrops drumming on the windows."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Pedro de Palmeira",
+                "hu": "Igrexa de San Pedro de Palmeira",
+                "ro": "Igrexa de San Pedro de Palmeira",
+                "en": "Igrexa de San Pedro de Palmeira"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die barocke Innenausstattung als Schutz vor dem Regen; achten Sie beim Betreten auf den durch die Nässe extrem rutschigen Steinboden am Kircheneingang.",
+                "hu": "Csodálja meg a barokk belső teret, amely védelmet nyújt az eső elől; belépéskor ügyeljen a nedvesség miatt rendkívül csúszós kőpadlóra a templom bejáratánál.",
+                "ro": "Admirați interiorul baroc ca protecție împotriva ploii; la intrare, aveți grijă la podeaua de piatră care devine extrem de alunecoasă din cauza umezelii de afară.",
+                "en": "Admire the baroque interior as a refuge from the rain; watch out for the stone floor at the church entrance, which becomes extremely slippery when wet from outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Castelo",
+                "hu": "Miradoiro do Castelo",
+                "ro": "Miradoiro do Castelo",
+                "en": "Miradoiro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt bietet auch im Regen einen dramatischen Blick auf das Meer; bleiben Sie auf den befestigten Wegen, da die Felsen bei Nässe sehr gefährlich sind.",
+                "hu": "A kilátó esőben is drámai látványt nyújt a tengerre; maradjon a kijelölt utakon, mert a sziklák nedvesen veszélyesen csúszósak és kiszámíthatatlanok lehetnek.",
+                "ro": "Punctul de belvedere oferă o vedere dramatică asupra mării chiar și pe ploaie; rămâneți pe potecile amenajate, deoarece stâncile umede sunt foarte periculoase.",
+                "en": "The viewpoint offers a dramatic sea view even in the rain; stay on the paved paths as the rocks are dangerously slippery and unpredictable when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cambra",
+                "hu": "Praia da Cambra",
+                "ro": "Praia da Cambra",
+                "en": "Praia da Cambra"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das Rauschen der Brandung unter einem stabilen Schirm; die kleinen Fischerhütten bieten sporadisch Schutz vor plötzlichen, starken Regengüssen am Strand.",
+                "hu": "Élvezze a hullámtörés morajlását egy stabil esernyő alatt; a kis halászkunyhók alkalmi menedéket nyújthatnak a hirtelen lezúduló, erős tengerparti záporok elől.",
+                "ro": "Bucurați-vă de vuietul valurilor sub o umbrelă stabilă; micile colibe de pescari oferă adăpost ocazional împotriva averselor bruște și puternice de pe plajă.",
+                "en": "Enjoy the sound of the breaking waves under a sturdy umbrella; the small fishing huts offer occasional shelter from sudden, heavy coastal downpours on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Supinal",
+                "hu": "Praia de Supinal",
+                "ro": "Praia de Supinal",
+                "en": "Praia de Supinal"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Spaziergang im Regen zeigt die wilde Seite der Küste; tragen Sie wasserfeste Wanderschuhe, um auf dem nassen Sand und den Algen nicht den Halt zu verlieren.",
+                "hu": "Egy rövid séta az esőben feltárja a part vad oldalát; viseljen vízálló túracipőt, hogy ne csússzon el a nedves homokon és a partra mosott hordalékon.",
+                "ro": "O scurtă plimbare prin ploaie dezvăluie latura sălbatică a coastei; purtați bocanci impermeabili pentru a nu aluneca pe nisipul ud și pe algele aduse de valuri.",
+                "en": "A short walk in the rain reveals the wild side of the coast; wear waterproof hiking shoes to avoid slipping on the wet sand and washed-up seaweed."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cruces",
+                "hu": "Praia de Cruces",
+                "ro": "Praia de Cruces",
+                "en": "Praia de Cruces"
+              },
+              "tip_5lang": {
+                "de": "Die Kreuze wirken im Nieselregen besonders melancholisch und fotogen; halten Sie Ihre Kamera unter einem Regenschutz trocken, während Sie das graue Meer festhalten.",
+                "hu": "A keresztek szitáló esőben különösen melankolikusak és fotogének; tartsa a fényképezőgépet esővédő alatt, miközben megörökíti a viharos, szürke tenger látványát.",
+                "ro": "Crucile par deosebit de melancolice și fotogenice în ploaia fină; păstrați aparatul foto sub o protecție uscată în timp ce surprindeți marea gri și agitată.",
+                "en": "The crosses look particularly melancholic and photogenic in the drizzle; keep your camera under a rain cover while capturing the view of the stormy, gray sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem klaren Wintermorgen ist die Luft in Palmeira erfrischend rein. Mittags bietet der Aussichtspunkt weite Sicht über die Ría, doch der Wind ist kalt. Nachmittags sind die Strände leer und friedlich, ideal für ruhige Besinnung. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Dämmerung für einen gemütlichen Rückzug in ein warmes Café im Dorf nutzen.",
+            "hu": "Egy tiszta téli reggelen a levegő Palmeirában frissítően tiszta és élénkítő. Délben a kilátóból messzire ellátni a Ría felett, de a szél metsző lehet. Délután a strandok üresek és békések, ideálisak az elmélyült sétákhoz. Mivel a nap már 17:00 körül lemegy, használja ki a szürkületet, és húzódjon be egy meleg kávézóba a falu központjában.",
+            "ro": "Într-o dimineață senină de iarnă, aerul din Palmeira este revigorant și curat. La prânz, punctul de belvedere oferă o vedere largă peste Ría, dar vântul este rece. După-amiaza, plajele sunt pustii și liniștite, ideale pentru plimbări contemplative. Deoarece soarele apune deja în jur de ora 17:00, profitați de amurg pentru a vă retrage într-o cafenea.",
+            "en": "On a clear winter morning, the air in Palmeira is refreshingly pure and bracing. At noon, the viewpoint offers vast views over the Ría, though the wind can be biting. In the afternoon, the beaches are empty and peaceful, ideal for quiet contemplation. As the sun sets around 17:00, use the twilight to retreat to a warm café in the village center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Pedro de Palmeira",
+                "hu": "Igrexa de San Pedro de Palmeira",
+                "ro": "Igrexa de San Pedro de Palmeira",
+                "en": "Igrexa de San Pedro de Palmeira"
+              },
+              "tip_5lang": {
+                "de": "Die dicken Steinmauern halten die Kälte; tragen Sie mehrere Schichten Kleidung, um die spirituelle Stille der Kirche auch im Winter angenehm genießen zu können.",
+                "hu": "A vastag kőfalak tartják a hideget; öltözzön rétegesen, hogy télen is kényelmesen élvezhesse a templom spirituális csendjét és történelmi hangulatát.",
+                "ro": "Zidurile groase de piatră mențin frigul; îmbrăcați-vă în straturi pentru a vă bucura confortabil de liniștea spirituală a bisericii chiar și în timpul iernii.",
+                "en": "The thick stone walls retain the cold; wear multiple layers of clothing to comfortably enjoy the church's spiritual silence and historic atmosphere in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Castelo",
+                "hu": "Miradoiro do Castelo",
+                "ro": "Miradoiro do Castelo",
+                "en": "Miradoiro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich hervorragend für Fernaufnahmen; nehmen Sie Handschuhe mit, da der kalte Seewind Ihre Hände beim Fotografieren schnell auskühlt.",
+                "hu": "A téli fények kiválóak a tájképekhez; vigyen magával kesztyűt, mert a hideg tengeri szél gyorsan lehűti a kezét a fényképezés és nézelődés közben.",
+                "ro": "Lumina de iarnă este excelentă pentru fotografii de la distanță; luați mănuși, deoarece vântul rece de mare vă va îngheța rapid mâinile în timp ce fotografiați.",
+                "en": "The winter light is excellent for long-distance photography; bring gloves as the cold sea breeze will quickly chill your hands while taking photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Cambra",
+                "hu": "Praia da Cambra",
+                "ro": "Praia da Cambra",
+                "en": "Praia da Cambra"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und spiegelt sich magisch im Wasser; nutzen Sie die Zeit vor 16:30 Uhr für einen Spaziergang, bevor die Kälte nach Sonnenuntergang spürbar wird.",
+                "hu": "A téli nap alacsonyan jár és varázslatosan csillog a vízen; sétáljon 16:30 előtt, mielőtt a naplemente utáni hideg hirtelen érezhetővé válna a parton.",
+                "ro": "Soarele de iarnă este jos și se reflectă magic în apă; profitați de timpul de dinainte de ora 16:30 pentru o plimbare, înainte ca frigul să devină pătrunzător.",
+                "en": "The winter sun sits low and reflects magically on the water; walk before 16:30, before the post-sunset cold becomes suddenly noticeable on the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Supinal",
+                "hu": "Praia de Supinal",
+                "ro": "Praia de Supinal",
+                "en": "Praia de Supinal"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Zugvögel, die im Winter oft an diesem ruhigen Küstenabschnitt rasten; eine Thermoskanne mit warmem Tee macht die Beobachtung am Strand gemütlicher.",
+                "hu": "Figyelje meg a költöző madarakat, amelyek télen gyakran megpihennek ezen a csendes part szakaszon; egy termosz meleg tea még kellemesebbé teszi a nézelődést.",
+                "ro": "Observați păsările migratoare care se odihnesc adesea pe această porțiune liniștită de coastă iarna; un termos cu ceai cald va face șederea pe plajă mai plăcută.",
+                "en": "Observe the migratory birds that often rest on this quiet stretch of coast in winter; a thermos of warm tea will make your stay on the beach much cozier."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cruces",
+                "hu": "Praia de Cruces",
+                "ro": "Praia de Cruces",
+                "en": "Praia de Cruces"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie hier den frühen Sonnenuntergang um 17:00 Uhr hinter den Granitfelsen; eine windfeste Mütze schützt Sie vor den eisigen Böen direkt am offenen Atlantik.",
+                "hu": "Élje át a korai, 17:00 órai naplementét a gránitsziklák mögött; egy szélálló sapka megvédi a fülét a nyílt Atlanti-óceán felől érkező jeges széllökésektől.",
+                "ro": "Experimentați apusul devreme, în jur de ora 17:00, în spatele stâncilor de granit; o căciulă rezistentă la vânt vă va proteja de rafalele înghețate de pe ocean.",
+                "en": "Experience the early sunset around 17:00 behind the granite rocks; a windproof hat will protect you from the icy gusts coming off the open Atlantic Ocean."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Reggel: Kerekezzen át a központon, hogy meglátogassa a templomot és a kilátót. Dél: Kerékpározzon kelet felé a Praia de Banda ó Río és a Praia de Testal érintésével. Délután: Fedezze fel a Vaqueiro és Corna strandokat. Este: Zárja a kerékpáros kalandot a Praia da Illa nyugodt partján.",
         "ro": "Dimineață: Pedalați prin centru pentru a vizita biserica și punctul de belvedere. Prânz: Mergeți cu bicicleta spre est, oprindu-vă la plajele Banda ó Río și Testal. După-amiază: Explorați plajele Vaqueiro și Corna pentru relaxare. Seară: Încheiați aventura la Praia da Illa admirând apusul.",
         "en": "Morning: Pedal through Palmeira’s center to visit the historic church and the scenic viewpoint. Midday: Cycle towards the eastern coastline, stopping at Praia de Banda ó Río and Praia de Testal. Afternoon: Ride further east to explore Praia de Vaqueiro and Praia da Corna. Evening: Conclude your adventure at Praia da Illa with a quiet sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Pflastersteinen von Palmeira. Morgens bietet die Kirche einen trockenen Startpunkt. Mittags erklimmen wir den Aussichtspunkt; die Abfahrt muss langsam erfolgen. Nachmittags folgen wir der Küstenlinie zu den entfernteren Stränden, wo der Wind den Regen peitscht. Den Abend beenden wir bei den Lichtern des Hafens.",
+            "hu": "Az esős biciklitúra óvatosságot igényel Palmeira macskaköves utcáin. Reggel a templom száraz kiindulópontot kínál. Délben másszunk fel a kilátóhoz; a leereszkedésnél fokozottan figyeljünk. Délután a partvonalat követve távolabbi strandokhoz tekerünk, ahol a szél korbácsolja az esőt. Az estét a kikötő fényeinek biztonságában zárjuk.",
+            "ro": "O tură cu bicicleta prin ploaie necesită prudență pe străzile pietruite din Palmeira. Dimineața, biserica oferă un punct de plecare uscat. La prânz, urcăm la belvedere; coborârea trebuie făcută cu viteză redusă. După-amiaza, urmăm linia coastei spre plaje îndepărtate, unde vântul biciuiește ploaia. Încheiem seara la luminile portului.",
+            "en": "A bike tour in the rain requires caution on Palmeira's cobblestone streets. In the morning, the church offers a dry starting point. At noon, climb to the viewpoint; descending must be done slowly. In the afternoon, follow the coastline to distant beaches where the wind whips the rain. End the evening safely among the harbor lights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Pedro de Palmeira",
+                "hu": "Igrexa de San Pedro de Palmeira",
+                "ro": "Igrexa de San Pedro de Palmeira",
+                "en": "Igrexa de San Pedro de Palmeira"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad unter dem Vordach, um den Sattel trocken zu halten; nutzen Sie die Zeit im Inneren, um Ihre Regenkleidung für die Weiterfahrt zu richten.",
+                "hu": "Parkolja biciklijét az előtető alá, hogy az ülés száraz maradjon; használja a bent töltött időt a vízálló ruházat igazítására a továbbhaladás előtt.",
+                "ro": "Parcați bicicleta sub copertină pentru a menține șaua uscată; folosiți timpul petrecut în interior pentru a vă ajusta echipamentul de ploaie înainte de drum.",
+                "en": "Park your bike under the overhang to keep the seat dry; use the time inside to adjust your rain gear properly before continuing the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Castelo",
+                "hu": "Miradoiro do Castelo",
+                "ro": "Miradoiro do Castelo",
+                "en": "Miradoiro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg ist bei Nässe anstrengend, aber die Aussicht lohnt sich; prüfen Sie Ihre Bremsen vor der Abfahrt, da die nassen Wege den Bremsweg deutlich verlängern.",
+                "hu": "Az emelkedő nedves úton fárasztó, de a látvány megéri; ellenőrizze a fékeket a leereszkedés előtt, mert a vizes út jelentősen meghosszabbítja a féktávot.",
+                "ro": "Urcarea pe carosabil umed este obositoare, dar priveliștea merită; verificați frânele înainte de coborâre, deoarece drumul ud prelungește distanța de frânare.",
+                "en": "The climb on wet roads is tiring but the view is worth it; check your brakes before descending as wet paths significantly increase your braking distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Banda ó Río",
+                "hu": "Praia de Banda ó Río",
+                "ro": "Praia de Banda ó Río",
+                "en": "Praia de Banda ó Río"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße kann bei starkem Regen Pfützen bilden; fahren Sie mittig auf dem Weg, um Aquaplaning zu vermeiden und Ihre Füße so trocken wie möglich zu halten.",
+                "hu": "A parti út mentén nagy tócsák alakulhatnak ki; tekerjen az út közepén, hogy elkerülje a felverődő vizet, és próbálja lábait a lehető legszárazabban tartani.",
+                "ro": "Pe drumul de coastă se pot forma bălți mari; pedalați pe centrul potecii pentru a evita acvaplanarea și pentru a vă menține picioarele cât mai uscate posibil.",
+                "en": "Large puddles can form along the coastal path; ride in the center of the path to avoid aquaplaning and try to keep your feet as dry as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Testal",
+                "hu": "Praia de Testal",
+                "ro": "Praia de Testal",
+                "en": "Praia de Testal"
+              },
+              "tip_5lang": {
+                "de": "Der Sand am Wegrand wird bei Regen matschig und rutschig; bleiben Sie auf dem festen Untergrund und meiden Sie die Grasflächen, um nicht mit dem Rad wegzurutschen.",
+                "hu": "Az út menti homok esőben sárossá és csúszóssá válik; maradjon a szilárd talajon, és kerülje a füves részeket, hogy ne csússzon ki a kerékpár kereke.",
+                "ro": "Nisipul de la marginea drumului devine noroios și alunecos pe ploaie; rămâneți pe suprafața solidă și evitați zonele cu iarbă pentru a nu derapa cu bicicleta.",
+                "en": "The sand at the edge of the path becomes muddy and slippery in the rain; stay on the solid ground and avoid grassy areas to prevent your bike from sliding."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Vaqueiro",
+                "hu": "Praia de Vaqueiro",
+                "ro": "Praia de Vaqueiro",
+                "en": "Praia de Vaqueiro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie kleine Regenpausen für Fotos vom aufgewühlten Meer; verstauen Sie Ihr Handy in einer wasserdichten Tasche, da der Salzsprühnebel die Elektronik angreift.",
+                "hu": "Használja ki az esőszüneteket a felkavart tenger fotózására; tartsa telefonját vízhatlan tokban, mert a sós permet károsíthatja az érzékeny elektronikát.",
+                "ro": "Profitați de pauzele dintre averse pentru a fotografia marea agitată; păstrați telefonul într-o husă impermeabilă, deoarece vaporii sărați pot afecta electronicele.",
+                "en": "Use rain breaks to photograph the churned-up sea; keep your phone in a waterproof pouch as the salty spray can damage sensitive electronics during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Corna",
+                "hu": "Praia da Corna",
+                "ro": "Praia da Corna",
+                "en": "Praia da Corna"
+              },
+              "tip_5lang": {
+                "de": "Dieser exponierte Abschnitt ist sehr windanfällig; halten Sie den Lenker bei Böen fest umschlossen und neigen Sie den Oberkörper leicht nach vorne für mehr Stabilität.",
+                "hu": "Ez a nyitott szakasz nagyon szeles; markolja erősen a kormányt a széllökéseknél, és hajoljon előre a kerékpáron a jobb stabilitás és kisebb légellenállás érdekében.",
+                "ro": "Această secțiune expusă este foarte vântoasă; țineți strâns ghidonul la rafale și aplecați-vă ușor în față pentru o mai bună stabilitate pe bicicletă.",
+                "en": "This exposed section is very windy; grip the handlebars firmly during gusts and lean slightly forward for better stability and less wind resistance."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Illa",
+                "hu": "Praia da Illa",
+                "ro": "Praia da Illa",
+                "en": "Praia da Illa"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zum Ende der Bucht kann bei Starkregen überspült sein; suchen Sie sich einen erhöhten Aussichtspunkt und genießen Sie die Naturgewalten aus sicherer Distanz.",
+                "hu": "Az öböl végéhez vezető utat erős esőben víz boríthatja; keressen egy magasabb pontot, és biztonságos távolságból csodálja meg a természet erejét.",
+                "ro": "Drumul spre capătul golfului poate fi inundat în caz de ploaie abundentă; căutați un punct mai înalt și admirați forța naturii de la o distanță sigură.",
+                "en": "The path to the end of the bay can be flooded in heavy rain; find a higher vantage point and admire the forces of nature from a safe distance."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Winterliches Radfahren in Palmeira bietet klare Sicht und leere Wege. Morgens ist die Luft bei der Kirche noch frostig. Mittags wärmt die Sonne am Aussichtspunkt, doch die Abfahrt im Fahrtwind kühlt schnell aus. Nachmittags gleiten wir entlang der ruhigen Strände. Da es ab 17:00 Uhr dunkel wird, sollten Sie sicherstellen, dass Ihre Fahrradbeleuchtung für den Rückweg einwandfrei funktioniert.",
+            "hu": "A téli kerékpározás Palmeirában tiszta látási viszonyokat és üres utakat kínál. Reggel a templomnál még fagyos a levegő. Délben a nap melenget a kilátónál, de a menetszélben gyorsan lehűlhetünk. Délután a csendes strandok mentén gurulunk. Mivel 17:00-kor sötétedik, győződjön meg róla, hogy a kerékpár világítása tökéletesen működik a visszatéréshez.",
+            "ro": "Ciclismul de iarnă în Palmeira oferă vizibilitate clară și drumuri pustii. Dimineața, aerul la biserică este încă înghețat. La prânz, soarele încălzește la belvedere, dar vântul vă poate răci rapid la coborâre. După-amiaza, pedalăm de-a lungul plajelor liniștite. Deoarece se întunecă la ora 17:00, asigurați-vă că luminile bicicletei funcționează perfect.",
+            "en": "Winter cycling in Palmeira offers clear visibility and empty paths. In the morning, the air at the church is still frosty. At noon, the sun warms you at the viewpoint, but the wind chill during descent is sharp. In the afternoon, glide along the quiet beaches. Since it gets dark at 17:00, ensure your bike lights are working perfectly for the return trip."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Pedro de Palmeira",
+                "hu": "Igrexa de San Pedro de Palmeira",
+                "ro": "Igrexa de San Pedro de Palmeira",
+                "en": "Igrexa de San Pedro de Palmeira"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich kurz in der Kirche auf, bevor Sie losfahren; tragen Sie winddichte Handschuhe, um Ihre Finger vor der stechenden Morgenkälte am Lenker zu schützen.",
+                "hu": "Melegedjen fel a templomban az indulás előtt; viseljen szélálló kesztyűt, hogy megvédje ujjait a kormányon a csípős reggeli hidegtől.",
+                "ro": "Încălziți-vă în biserică înainte de plecare; purtați mănuși rezistente la vânt pentru a vă proteja degetele de frigul tăios al dimineții pe ghidon.",
+                "en": "Warm up inside the church before starting your ride; wear windproof gloves to protect your fingers from the biting morning cold on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Castelo",
+                "hu": "Miradoiro do Castelo",
+                "ro": "Miradoiro do Castelo",
+                "en": "Miradoiro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Sicht bis zu den fernen Inseln; ziehen Sie für die folgende Abfahrt eine zusätzliche Windjacke an, um nicht auszukühlen.",
+                "hu": "A tiszta téli levegőben a távoli szigetekig is ellátni; a lefelé útra vegyen fel egy plusz széldzsekit, hogy elkerülje a test lehűlését a menetszélben.",
+                "ro": "Aerul curat de iarnă permite vizibilitatea până la insulele îndepărtate; puneți-vă o jachetă de vânt suplimentară pentru coborâre ca să nu răciți.",
+                "en": "The clear winter air allows views as far as the distant islands; put on an extra windbreaker for the descent to avoid wind chill cooling your body too fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Banda ó Río",
+                "hu": "Praia de Banda ó Río",
+                "ro": "Praia de Banda ó Río",
+                "en": "Praia de Banda ó Río"
+              },
+              "tip_5lang": {
+                "de": "Die Uferpromenade ist im Winter fast menschenleer; genießen Sie die Einsamkeit, aber achten Sie auf gefrorenes Tauwasser an schattigen Stellen des Weges.",
+                "hu": "A vízparti sétány télen szinte teljesen üres; élvezze a magányt, de ügyeljen az árnyékos részeken megfagyott párára vagy vízfoltokra az úton.",
+                "ro": "Promenada de pe mal este aproape pustie iarna; bucurați-vă de singurătate, dar atenție la zonele umbrite unde apa poate îngheța pe carosabil.",
+                "en": "The waterfront promenade is almost deserted in winter; enjoy the solitude, but watch out for frozen dew or wet patches in shaded areas of the path."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Testal",
+                "hu": "Praia de Testal",
+                "ro": "Praia de Testal",
+                "en": "Praia de Testal"
+              },
+              "tip_5lang": {
+                "de": "Der tiefstehende Sonnenstand sorgt für lange Schatten und tolle Kontraste am Strand; tragen Sie eine Sportsonnenbrille, um nicht von der Reflexion im Wasser geblendet zu werden.",
+                "hu": "Az alacsony napállás hosszú árnyékokat és remek kontrasztokat teremt; viseljen sportszemüveget, hogy ne vakítsa el a vízről visszaverődő téli napfény.",
+                "ro": "Soarele jos creează umbre lungi și contraste grozave pe plajă; purtați ochelari de soare sport pentru a nu fi orbit de reflexia luminii în apă.",
+                "en": "The low sun creates long shadows and great contrasts on the beach; wear sports sunglasses to avoid being blinded by the winter sun reflecting off the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Vaqueiro",
+                "hu": "Praia de Vaqueiro",
+                "ro": "Praia de Vaqueiro",
+                "en": "Praia de Vaqueiro"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine kurze Pause und genießen Sie den Anblick der Wellen; Bewegung hält warm, also bleiben Sie nicht zu lange stehen, um die Körperwärme nicht zu verlieren.",
+                "hu": "Tartson egy rövid szünetet és gyönyörködjön a hullámokban; a mozgás tart melegen, így ne álljon meg túl sokáig, hogy ne veszítse el testhőjét a parton.",
+                "ro": "Faceți o scurtă pauză și bucurați-vă de valuri; mișcarea vă menține cald, așa că nu stați pe loc prea mult timp pentru a nu pierde căldura corporală.",
+                "en": "Take a short break and enjoy the view of the waves; movement keeps you warm, so don't stop for too long to avoid losing body heat on the shore."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Corna",
+                "hu": "Praia da Corna",
+                "ro": "Praia da Corna",
+                "en": "Praia da Corna"
+              },
+              "tip_5lang": {
+                "de": "Der Weg ist hier flach und schnell, ideal um die Durchblutung anzuregen; schützen Sie Ihr Gesicht mit einem Tuch vor der eiskalten Meeresluft während der Fahrt.",
+                "hu": "Az út itt sík és gyors, ideális a vérkeringés felpezsdítésére; védje arcát egy kendővel a jéghideg tengeri levegő ellen a tempósabb tekerés közben.",
+                "ro": "Drumul aici este plat și rapid, ideal pentru a stimula circulația; protejați-vă fața cu un fular împotriva aerului înghețat al mării în timpul mersului.",
+                "en": "The path here is flat and fast, ideal for stimulating circulation; protect your face with a buff or scarf against the freezing sea air during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia da Illa",
+                "hu": "Praia da Illa",
+                "ro": "Praia da Illa",
+                "en": "Praia da Illa"
+              },
+              "tip_5lang": {
+                "de": "Gegen 16:30 Uhr färbt sich der Himmel oft rosa und violett; treten Sie nun den Rückweg an, damit Sie Palmeira erreichen, bevor die Dunkelheit um 17:00 Uhr einsetzt.",
+                "hu": "16:30 körül az ég gyakran rózsaszín és lila árnyalatokat ölt; induljon vissza ekkor, hogy még a 17:00 órai sötétedés előtt beérjen Palmeirába.",
+                "ro": "În jur de ora 16:30, cerul capătă adesea nuanțe de roz și violet; porniți înapoi acum pentru a ajunge în Palmeira înainte de lăsarea întunericului la ora 17:00.",
+                "en": "Around 16:30, the sky often turns shades of pink and purple; start your return journey now to reach Palmeira before darkness sets in at 17:00."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Reggel: Autózzon a központba a templom és a kilátó megtekintéséhez. Dél: Látogasson el a nyugati Río Azor és Coroso kiválóan felszerelt strandjaira. Délután: Hajtson beljebb a szárazföldön a Petróglifo da Pedra das Cabras ősi sziklarajzaihoz. Este: Térjen vissza a tengerparthoz, a Praia de Cures békés homokjához.",
         "ro": "Dimineață: Conduceți în centru pentru biserică și belvedere. Prânz: Vizitați plajele vestice Río Azor și Coroso pentru o plimbare relaxantă. După-amiază: Mergeți spre interior pentru a vedea vechiul Petróglifo da Pedra das Cabras. Seară: Întoarceți-vă pe coastă pentru a vă relaxa la Praia de Cures.",
         "en": "Morning: Drive to the center to see Palmeira’s church and viewpoint. Midday: Visit the western beaches of Río Azor and Coroso, offering vast stretches of sand. Afternoon: Drive inland to discover the ancient Petróglifo da Pedra das Cabras. Evening: Return to the coast to relax at Praia de Cures for sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein Regentag in Palmeira lässt sich am besten mit dem Auto erkunden. Morgens parken wir direkt bei der Kirche San Pedro. Mittags bietet der Aussichtspunkt Castelo einen Blick durch die regennassen Scheiben. Nachmittags fahren wir zu den Petroglyphen und entlegenen Stränden, wobei das Auto stets als warmer Rückzugsort dient. Der Abend klingt sicher in der Nähe des Hafens aus.",
+            "hu": "Egy esős nap Palmeirában autóval a legkényelmesebb. Reggel közvetlenül a San Pedro templomnál parkolunk. Délben a Castelo kilátó panorámáját az eső áztatta szélvédő mögül is élvezhetjük. Délután a petroglifákhoz és távolabbi strandokhoz hajtunk, az autó pedig mindig meleg menedékként szolgál. Az estét a kikötő közelében, biztonságban zárjuk.",
+            "ro": "O zi ploioasă în Palmeira este cel mai bine explorată cu mașina. Dimineața parcăm chiar lângă biserica San Pedro. La prânz, punctul de belvedere Castelo oferă o priveliște prin parbrizul udat de ploaie. După-amiaza conducem spre petroglife și plaje îndepărtate, mașina servind mereu ca refugiu cald. Seara se încheie în siguranță lângă port.",
+            "en": "A rainy day in Palmeira is best explored by car. In the morning, we park right by San Pedro Church. At noon, the Castelo viewpoint offers a panorama even through the rain-soaked windshield. In the afternoon, we drive to the petroglyphs and remote beaches, with the car always serving as a warm refuge. The evening ends safely near the harbor area."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Pedro de Palmeira",
+                "hu": "Igrexa de San Pedro de Palmeira",
+                "ro": "Igrexa de San Pedro de Palmeira",
+                "en": "Igrexa de San Pedro de Palmeira"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Eingang, um den Regenweg kurz zu halten; im Inneren können Sie die Ruhe genießen, während draußen der Sturm gegen die alten Mauern peitscht.",
+                "hu": "Parkoljon közel a bejárathoz, hogy minimalizálja az esőben töltött időt; bent élvezze a csendet, miközben kint a vihar veri a templom ódon falait.",
+                "ro": "Parcați aproape de intrare pentru a minimiza timpul petrecut în ploaie; în interior vă puteți bucura de liniște în timp ce afară furtuna bate în zidurile vechi.",
+                "en": "Park close to the entrance to minimize time spent in the rain; enjoy the silence inside while the storm lashes against the church's ancient walls outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Castelo",
+                "hu": "Miradoiro do Castelo",
+                "ro": "Miradoiro do Castelo",
+                "en": "Miradoiro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Bei starkem Regen können Sie die Aussicht direkt aus dem Auto genießen; falls Sie aussteigen, nutzen Sie die asphaltierte Zufahrt, um nicht im Schlamm zu versinken.",
+                "hu": "Heves esőzéskor közvetlenül az autóból is élvezheti a kilátást; ha kiszáll, használja az aszfaltozott feljárót, hogy elkerülje a sárba süllyedést.",
+                "ro": "În caz de ploaie torențială, puteți admira priveliștea direct din mașină; dacă coborâți, folosiți aleea asfaltată pentru a nu vă afunda în noroi.",
+                "en": "In heavy rain, you can enjoy the view directly from the car; if you get out, use the paved access road to avoid getting stuck in the mud nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Río Azor",
+                "hu": "Praia de Río Azor",
+                "ro": "Praia de Río Azor",
+                "en": "Praia de Río Azor"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtsstraßen können bei Regen rutschig sein; fahren Sie vorsichtig und achten Sie auf Pfützen, die tiefer sein könnten, als sie auf den ersten Blick erscheinen.",
+                "hu": "Az odavezető utak esőben csúszósak lehetnek; vezessen óvatosan, és ügyeljen a tócsákra, amelyek mélyebbek lehetnek, mint amilyennek elsőre látszanak.",
+                "ro": "Drumurile de acces pot fi alunecoase pe ploaie; conduceți cu atenție și aveți grijă la bălțile care pot fi mai adânci decât par la prima vedere.",
+                "en": "Access roads can be slippery in the rain; drive carefully and watch out for puddles that might be deeper than they initially appear on the surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Coroso",
+                "hu": "Praia de Coroso",
+                "ro": "Praia de Coroso",
+                "en": "Praia de Coroso"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist groß und bietet gute Wendemöglichkeiten; ein kurzer Sprint zum Strand lohnt sich für ein Foto der dramatischen Wolkenformationen über der Bucht.",
+                "hu": "A parkoló tágas és könnyű manőverezést tesz lehetővé; egy rövid futás a partig megéri egy fotóért az öböl feletti drámai felhőalakzatokról.",
+                "ro": "Parcarea este spațioasă și permite manevrarea ușoară; o scurtă fugă până la plajă merită pentru o fotografie cu norii dramatici de deasupra golfului.",
+                "en": "The parking lot is spacious and allows for easy maneuvering; a short dash to the shore is worth it for a photo of the dramatic clouds over the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Petróglifo da Pedra das Cabras",
+                "hu": "Petróglifo da Pedra das Cabras",
+                "ro": "Petróglifo da Pedra das Cabras",
+                "en": "Petróglifo da Pedra das Cabras"
+              },
+              "tip_5lang": {
+                "de": "Die nassen Felsen lassen die uralten Ritzungen deutlicher hervortreten; tragen Sie wasserfeste Schuhe für den kurzen Fußweg vom Auto zu den historischen Steinen.",
+                "hu": "A nedves sziklákon az ősi vésetek gyakran tisztábban kivehetőek; viseljen vízálló cipőt az autótól a történelmi kövekig vezető rövid gyalogúton.",
+                "ro": "Pe stâncile ude, gravurile antice ies adesea mai clar în evidență; purtați pantofi impermeabili pentru scurta plimbare de la mașină până la pietrele istorice.",
+                "en": "The ancient carvings often stand out more clearly on wet rocks; wear waterproof shoes for the short walk from the car to the historic stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cures",
+                "hu": "Praia de Cures",
+                "ro": "Praia de Cures",
+                "en": "Praia de Cures"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt mit einem Blick auf den stürmischen Ozean; lassen Sie die Fenster leicht geöffnet, damit sie durch die feuchte Kleidung nicht beschlagen.",
+                "hu": "Zárja az utat a viharos óceán látványával; hagyja az ablakokat résnyire nyitva, hogy a nedves ruházat miatt ne párásodjon be az autó szélvédője.",
+                "ro": "Încheiați călătoria cu vederea oceanului învolburat; lăsați geamurile întredeschise pentru ca parbrizul să nu se aburească din cauza hainelor ude.",
+                "en": "End your trip with a view of the stormy ocean; leave the windows slightly cracked to prevent the windshield from fogging up due to damp clothing."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Palmeira verspricht Komfort und tolle Aussichten. Morgens ist das Dorf ruhig, die Parkplatzsuche bei der Kirche ist einfach. Mittags bietet die Fahrt zum Aussichtspunkt klare Horizonte. Nachmittags besuchen wir die Petroglyphen im sanften Winterlicht. Da es um 17:00 Uhr dunkel wird, genießen Sie die beleuchtete Küstenstraße bei der Rückfahrt im geheizten Wagen.",
+            "hu": "Egy téli autós kirándulás Palmeirában kényelmet és pazar kilátást ígér. Reggel a falu csendes, a parkolás a templomnál egyszerű. Délben a kilátóhoz vezető út tiszta horizontot kínál. Délután a petroglifákat látogatjuk meg a lágy téli fényben. Mivel 17:00-kor sötétedik, élvezze a kivilágított parti utat a fűtött autó kényelméből.",
+            "ro": "O excursie de iarnă cu mașina prin Palmeira promite confort și vederi superbe. Dimineața satul este liniștit, parcarea la biserică fiind ușoară. La prânz, drumul spre belvedere oferă orizonturi clare. După-amiaza vizităm petroglifele în lumina blândă a iernii. Deoarece se întunecă la ora 17:00, savurați drumul de coastă din mașina încălzită.",
+            "en": "A winter drive through Palmeira promises comfort and great views. In the morning the village is quiet, making parking at the church very easy. At noon, the drive to the viewpoint offers clear horizons. In the afternoon, visit the petroglyphs in the soft winter light. As it gets dark at 17:00, enjoy the lit coastal road from your heated car."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Igrexa de San Pedro de Palmeira",
+                "hu": "Igrexa de San Pedro de Palmeira",
+                "ro": "Igrexa de San Pedro de Palmeira",
+                "en": "Igrexa de San Pedro de Palmeira"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Auto, um sich nach dem Besuch der kühlen Kirche wieder aufzuwärmen; Parkplätze sind im Winter direkt vor dem Portal reichlich vorhanden.",
+                "hu": "Használja az autó fűtését, hogy felmelegedjen a hűvös templomlátogatás után; télen bőségesen talál parkolóhelyet közvetlenül a templom kapuja előtt.",
+                "ro": "Folosiți încălzirea mașinii pentru a vă încălzi după vizitarea bisericii răcoroase; iarna sunt locuri de parcare din abundență chiar în fața porții.",
+                "en": "Use the car's heater to warm up after visiting the cool church; in winter, parking spaces are plentiful right in front of the main entrance portal."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradoiro do Castelo",
+                "hu": "Miradoiro do Castelo",
+                "ro": "Miradoiro do Castelo",
+                "en": "Miradoiro do Castelo"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter durch die geringe Luftfeuchtigkeit phänomenal; halten Sie eine Decke im Auto bereit, wenn Sie die Aussicht bei abgestelltem Motor genießen.",
+                "hu": "A téli távolsági kilátás a z alacsony páratartalom miatt fenomenális; tartson egy takarót az autóban, ha leállított motorral szeretné élvezni a panorámát.",
+                "ro": "Vizibilitatea la distanță iarna este fenomenală datorită umidității scăzute; țineți o pătură în mașină dacă doriți să savurați panorama cu motorul oprit.",
+                "en": "The long-distance view in winter is phenomenal due to low humidity; keep a blanket in the car if you want to enjoy the panorama with the engine turned off."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Río Azor",
+                "hu": "Praia de Río Azor",
+                "ro": "Praia de Río Azor",
+                "en": "Praia de Río Azor"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Strandspaziergang regt den Kreislauf an; achten Sie darauf, dass keine Wertsachen sichtbar im Auto liegen, auch wenn im Winter weniger Betrieb herrscht.",
+                "hu": "Egy rövid parti séta felpezsdíti a vérkeringést; ügyeljen rá, hogy ne hagyjon értéktárgyat látható helyen az autóban, még ha télen kisebb is a forgalom.",
+                "ro": "O scurtă plimbare pe plajă stimulează circulația; aveți grijă să nu lăsați obiecte de valoare la vedere în mașină, chiar dacă iarna este mai puțin trafic.",
+                "en": "A short beach walk will boost your circulation; make sure no valuables are left visible in the car, even though there is less foot traffic in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Coroso",
+                "hu": "Praia de Coroso",
+                "ro": "Praia de Coroso",
+                "en": "Praia de Coroso"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Strand ohne die sommerlichen Menschenmassen; die Parkplatzbeleuchtung schaltet sich ein, sobald die Sonne gegen 17:00 Uhr untergeht.",
+                "hu": "Élvezze a tágas strandot a nyári tömeg nélkül; a parkoló világítása bekapcsol, amint a nap 17:00 óra körül eltűnik a horizont alatt.",
+                "ro": "Bucurați-vă de plaja largă fără mulțimile de vară; iluminatul parcării se aprinde imediat ce soarele apune în jur de ora 17:00.",
+                "en": "Enjoy the vast beach without the summer crowds; the parking lot lights will turn on as soon as the sun disappears below the horizon around 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Petróglifo da Pedra das Cabras",
+                "hu": "Petróglifo da Pedra das Cabras",
+                "ro": "Petróglifo da Pedra das Cabras",
+                "en": "Petróglifo da Pedra das Cabras"
+              },
+              "tip_5lang": {
+                "de": "Das schräge Winterlicht lässt die Konturen der Felsbilder plastisch wirken; nutzen Sie die Nachmittagsstunden für die besten Fotos der historischen Stätte.",
+                "hu": "A súroló téli fények plasztikusabbá teszik a sziklarajzok körvonalait; használja ki a délutáni órákat a történelmi helyszín legjobb fotózásához.",
+                "ro": "Lumina oblică a iernii face contururile gravurilor rupestre să pară mai plastice; folosiți orele după-amiezii pentru cele mai bune fotografii ale sitului.",
+                "en": "The slanting winter light makes the contours of the rock carvings appear more 3D; use the afternoon hours for the best photos of the historic site."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Cures",
+                "hu": "Praia de Cures",
+                "ro": "Praia de Cures",
+                "en": "Praia de Cures"
+              },
+              "tip_5lang": {
+                "de": "Schauen Sie sich den Sonnenuntergang bequem vom Beifahrersitz aus an; stellen Sie sicher, dass Ihr Abblendlicht für die Rückfahrt durch die dunklen Küstenstraßen bereit ist.",
+                "hu": "Nézze meg a naplementét kényelmesen az anyósülésről; győződjön meg róla, hogy a tompított fényszórók készen állnak a sötét parti utakon való hazatérésre.",
+                "ro": "Priviți apusul confortabil de pe scaunul pasagerului; asigurați-vă că farurile sunt gata pentru drumul de întoarcere pe șoselele de coastă întunecate.",
+                "en": "Watch the sunset comfortably from the passenger seat; ensure your headlights are ready for the return journey through the dark coastal roads after 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

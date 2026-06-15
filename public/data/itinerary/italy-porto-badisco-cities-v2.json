@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot a Geosito delle Rodoliti-nél, majd sétáljon át a Spiaggia di Porto Badisco-hoz.\n\nDélben fedezze fel a Grotta dei Cervi-t, mielőtt a Caletta Porto Russo felé veszi az irányt.\n\nDélután csodálja meg a La Marmitta dei Giganti drámai tengerparti kilátását.\n\nZárja a túrát az Adriai-tenger felejthetetlen panorámájának élvezetével.",
         "ro": "Începeți dimineața la Geosito delle Rodoliti, apoi mergeți la Spiaggia di Porto Badisco.\n\nLa prânz, explorați Grotta dei Cervi înainte de a merge la Caletta Porto Russo.\n\nDupă-amiaza, admirați priveliștile de coastă dramatice de la La Marmitta dei Giganti.\n\nÎncheiați turul bucurându-vă de panoramele adriatice de neuitat de-a lungul coastei.",
         "en": "Start your morning at the Geosito delle Rodoliti, then walk to Spiaggia di Porto Badisco.\n\nMidday, explore the historic Grotta dei Cervi before moving to Caletta Porto Russo.\n\nIn the afternoon, marvel at the dramatic coastal views of La Marmitta dei Giganti.\n\nEnd your tour by taking in the unforgettable Adriatic panoramas along the coast."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens erkunden Sie die Fossilien, die im Regen glänzen und ihre Details offenbaren. Mittags bietet die Bucht von Porto Badisco einen dramatischen Anblick der aufpeitschenden Wellen. Nachmittags wirken die Höhleneingänge in der feuchten Luft besonders mystisch. Abends endet der Tag mit dem Rauschen des Meeres, während Sie in Regenkleidung die raue Schönheit der Küste genießen.",
+            "hu": "Reggel a fosszíliák az esőtől csillogva fedik fel apró részleteiket a sziklákon. Délben a Porto Badisco-öböl drámai látványt nyújt a hullámzó, sötétebb tengerrel. Délután a barlangok környéke a párás levegőben különösen misztikus hangulatot áraszt. Este a napot a tenger morajlása zárja, miközben esőkabátban élvezheti az adriai partvidék nyers és érintetlen szépségét.",
+            "ro": "Dimineața, fosilele strălucesc sub ploaie, dezvăluind detalii minerale fascinante pe stânci. La prânz, golful Porto Badisco oferă o priveliște dramatică a mării agitate sub cerul gri. După-amiaza, zona peșterilor capătă o aură mistică în aerul umed și sărat. Seara se încheie cu sunetul valurilor, savurând frumusețea sălbatică a coastei protejat de o pelerină de ploaie.",
+            "en": "In the morning, the fossils glisten in the rain, revealing intricate details on the rocks. At noon, Porto Badisco bay offers a dramatic view of the churning sea under moody skies. Afternoon brings a mystical atmosphere to the cave areas in the damp, salty air. The evening ends with the roar of the waves, as you enjoy the raw beauty of the coastline protected by your waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Geosito delle Rodoliti",
+                "hu": "Geosito delle Rodoliti",
+                "ro": "Geosito delle Rodoliti",
+                "en": "Geosito delle Rodoliti"
+              },
+              "tip_5lang": {
+                "de": "Die versteinerten Rotalgen sind bei Nässe kontrastreicher sichtbar; nutzen Sie Wanderstöcke, da die Kalksteinfelsen bei Regen extrem rutschig werden können.",
+                "hu": "A megkövesedett vörösalgák nedvesen sokkal kontrasztosabban látszanak; használjon túrabotot, mert a mészkősziklák az esőben rendkívül csúszóssá válhatnak.",
+                "ro": "Algele roșii fosilizate sunt mai vizibile și contrastante când sunt ude; folosiți bețe de trekking, deoarece stâncile calcaroase devin extrem de alunecoase pe ploaie.",
+                "en": "The fossilized red algae are more visible and contrasting when wet; use trekking poles as the limestone rocks can become extremely slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Badisco",
+                "hu": "Spiaggia di Porto Badisco",
+                "ro": "Spiaggia di Porto Badisco",
+                "en": "Spiaggia di Porto Badisco"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Farbspiel des Wassers unter den Regenwolken von den kleinen Unterständen aus und halten Sie Ihre Kamera in einer wasserdichten Hülle bereit.",
+                "hu": "Figyelje meg a víz színeinek játékát az esőfelhők alatt a kis beugrókból, és tartsa fényképezőgépét vízálló tokban a különleges parti fotókhoz.",
+                "ro": "Observați jocul culorilor apei sub norii de ploaie din micile adăposturi naturale și păstrați aparatul foto într-o husă impermeabilă pentru cadre spectaculoase.",
+                "en": "Observe the play of water colors under the rain clouds from small natural shelters and keep your camera in a waterproof case for unique coastal shots."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta dei Cervi",
+                "hu": "Grotta dei Cervi",
+                "ro": "Grotta dei Cervi",
+                "en": "Grotta dei Cervi"
+              },
+              "tip_5lang": {
+                "de": "Spüren Sie die feuchte Geschichte dieses Ortes am abgesperrten Eingang; der Weg hierher erfordert bei Regen festes Schuhwerk mit sehr gutem Profil gegen Rutschen.",
+                "hu": "Érezze a hely nyirkos történelmi hangulatát a lezárt bejáratnál; az idevezető út esőben stabil, mélyen barázdált talpú bakancsot igényel a csúszás elkerülésére.",
+                "ro": "Simțiți istoria umedă a acestui loc la intrarea restricționată; poteca necesită ghete cu talpă aderentă pe ploaie pentru a evita alunecarea pe pământul moale.",
+                "en": "Feel the damp historical atmosphere at the restricted entrance; the path here requires boots with deep tread in the rain to prevent slipping on soft ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Caletta Porto Russo",
+                "hu": "Caletta Porto Russo",
+                "ro": "Caletta Porto Russo",
+                "en": "Caletta Porto Russo"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit der Bucht, während der Regen auf das Meer prasselt; eine gute Regenjacke schützt Sie vor dem kühlen Wind, der oft mit dem Niederschlag kommt.",
+                "hu": "Élvezze az öböl magányát, miközben az eső a tenger felszínén kopog; egy jó esőkabát megvédi a csapadékkal gyakran együtt járó hűvös széltől.",
+                "ro": "Bucurați-vă de singurătatea golfului în timp ce ploaia bate pe suprafața mării; o jachetă impermeabilă bună vă va proteja de vântul rece ce însoțește precipitațiile.",
+                "en": "Enjoy the solitude of the cove while the rain pitter-patters on the sea surface; a good waterproof jacket will shield you from the chilly wind often accompanying rain."
+              }
+            },
+            {
+              "name": {
+                "de": "La Marmitta dei Giganti",
+                "hu": "La Marmitta dei Giganti",
+                "ro": "La Marmitta dei Giganti",
+                "en": "La Marmitta dei Giganti"
+              },
+              "tip_5lang": {
+                "de": "Die glatt geschliffenen Vertiefungen füllen sich mit Regenwasser und wirken wie natürliche Becken; bleiben Sie auf den markierten Pfaden, um nicht auf den nassen Steinen zu stürzen.",
+                "hu": "A simára csiszolt mélyedések megtelnek esővízzel, így természetes medencékként hatnak; maradjon a kijelölt ösvényen, hogy elkerülje az esést a vizes kőfelületeken.",
+                "ro": "Adânciturile netede se umplu cu apă de ploaie, arătând ca niște bazine naturale; rămâneți pe potecile marcate pentru a evita căzăturile pe stâncile ude.",
+                "en": "The smooth hollows fill with rainwater, looking like natural basins; stay on the marked paths to avoid falling on the wet and slick rock surfaces."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen an der Adria bietet eine unglaubliche Fernsicht bis zu den albanischen Bergen. Mittags wärmt die tiefstehende Sonne die geschützten Felsen der Bucht. Nachmittags färbt sich der Himmel früh in Pastelltönen, bevor es gegen 17:00 Uhr dunkel wird. Abends sorgt die kühle Brise für eine erfrischende Atmosphäre, ideal für einen kurzen Spaziergang in warmer Kleidung.",
+            "hu": "A tiszta téli reggelen az Adriáról lenyűgöző kilátás nyílik akár az albán hegyekig is. Délben az alacsonyan járó nap kellemesen melengeti az öböl szélvédett szikláit. Délután az égbolt korán pasztellszínekbe öltözik, mielőtt 17:00 körül leszáll az éj. Este a hűvös tengeri szél frissítő ereje érezhető, amihez elengedhetetlen a réteges, meleg öltözet.",
+            "ro": "O dimineață senină de iarnă la Adriatică oferă o vizibilitate incredibilă până la munții Albaniei. La prânz, soarele blând încălzește stâncile protejate ale golfului. După-amiaza, cerul capătă nuanțe pastelate devreme, înainte ca întunericul să se lase în jur de ora 17:00. Seara, briza rece oferă o atmosferă revigorantă, perfectă pentru o plimbare scurtă cu haine groase.",
+            "en": "A clear winter morning on the Adriatic offers incredible views reaching as far as the Albanian mountains. At noon, the low sun gently warms the sheltered rocks of the bay. In the afternoon, the sky turns to pastel hues early before darkness falls around 5:00 PM. The evening brings a refreshing chill from the sea, making warm, layered clothing essential for your walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Geosito delle Rodoliti",
+                "hu": "Geosito delle Rodoliti",
+                "ro": "Geosito delle Rodoliti",
+                "en": "Geosito delle Rodoliti"
+              },
+              "tip_5lang": {
+                "de": "Das flache Winterlicht hebt die Textur der Fossilien perfekt hervor; tragen Sie windfeste Kleidung, da die Tramontana-Winde an dieser exponierten Stelle kühl wehen können.",
+                "hu": "A lapos téli fények tökéletesen kiemelik a fosszíliák textúráját; viseljen szélálló ruházatot, mert a Tramontana szél ezen a nyitott részen igen metsző lehet.",
+                "ro": "Lumina joasă de iarnă scoate în evidență textura fosilelor; purtați haine rezistente la vânt, deoarece vântul Tramontana poate fi tăios în acest punct expus.",
+                "en": "The low winter light perfectly highlights the texture of the fossils; wear windproof clothing as the Tramontana winds can blow quite cold at this exposed spot."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Badisco",
+                "hu": "Spiaggia di Porto Badisco",
+                "ro": "Spiaggia di Porto Badisco",
+                "en": "Spiaggia di Porto Badisco"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die absolute Stille am Strand ohne die Sommermassen; bringen Sie eine Thermoskanne mit einem heißen Getränk für eine gemütliche Pause im Sand mit.",
+                "hu": "Élvezze a strand abszolút nyugalmát a tömeg nélkül; vigyen magával termoszt forró itallal egy kellemes pihenőhöz a homokban, miközben a tengerben gyönyörködik.",
+                "ro": "Bucurați-vă de liniștea absolută a plajei fără mulțimile de vară; aduceți un termos cu o băutură caldă pentru o pauză relaxantă pe nisip admirând marea.",
+                "en": "Enjoy the absolute silence of the beach without the summer crowds; bring a thermos with a hot drink for a cozy break on the sand while admiring the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta dei Cervi",
+                "hu": "Grotta dei Cervi",
+                "ro": "Grotta dei Cervi",
+                "en": "Grotta dei Cervi"
+              },
+              "tip_5lang": {
+                "de": "Die Umgebung der Höhle wirkt im Winter einsam und archaisch; achten Sie auf den frühen Sonnenuntergang gegen 17:00 Uhr und planen Sie Ihren Rückweg rechtzeitig ein.",
+                "hu": "A barlang környéke télen magányos és archaikus hangulatot áraszt; ügyeljen a korai, 17:00 körüli naplementére, és tervezze meg időben a visszautat.",
+                "ro": "Zona peșterii pare solitară și arhaică iarna; aveți grijă la apusul devreme, în jur de ora 17:00, și planificați drumul de întoarcere din timp.",
+                "en": "The area around the cave feels solitary and archaic in winter; watch out for the early sunset around 5:00 PM and plan your return journey in good time."
+              }
+            },
+            {
+              "name": {
+                "de": "Caletta Porto Russo",
+                "hu": "Caletta Porto Russo",
+                "ro": "Caletta Porto Russo",
+                "en": "Caletta Porto Russo"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Bucht bietet im Winter Schutz vor dem Nordwind; ein idealer Ort für eine kurze Meditation am Wasser, sofern Sie eine isolierende Sitzunterlage dabeihaben.",
+                "hu": "A kis öböl télen is védelmet nyújt az északi szél elől; ideális hely egy rövid meditációhoz a víznél, ha van önnél egy hőszigetelő ülőpárna.",
+                "ro": "Micul golf oferă protecție împotriva vântului de nord chiar și iarna; este un loc ideal pentru o scurtă meditație la malul apei dacă aveți un suport de șezut izolator.",
+                "en": "The small cove offers protection from the north wind even in winter; it's an ideal spot for a short meditation by the water if you have an insulating seat pad."
+              }
+            },
+            {
+              "name": {
+                "de": "La Marmitta dei Giganti",
+                "hu": "La Marmitta dei Giganti",
+                "ro": "La Marmitta dei Giganti",
+                "en": "La Marmitta dei Giganti"
+              },
+              "tip_5lang": {
+                "de": "Die Felsformationen leuchten im goldenen Licht des späten Nachmittags besonders intensiv; tragen Sie eine Mütze und Handschuhe, da es hier oben windig und kühl sein kann.",
+                "hu": "A sziklaalakzatok a késő délutáni aranyfényben különösen intenzíven ragyognak; viseljen sapkát és kesztyűt, mert a sziklaperemen a szél hűvös lehet.",
+                "ro": "Formațiunile stâncoase strălucesc intens în lumina aurie a după-amiezii târzii; purtați căciulă și mănuși, deoarece vântul pe marginea stâncii poate fi rece.",
+                "en": "The rock formations glow intensely in the golden late afternoon light; wear a hat and gloves as the wind on the cliff edge can be quite chilly."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpározást a Spiaggia di Porto Badisco-nál, majd tartson egy rövid pihenőt a Geosito delle Rodoliti-nél.\n\nDélben tekerjen a Grotta dei Cervi-hez, majd haladjon észak felé a parton.\n\nDélután érje el a La Marmitta dei Giganti-t és fedezze fel a Rota te Trappitu malmot.\n\nZárja a napot a Torre Sant'Emiliano lenyűgöző tengeri naplementéjével.",
         "ro": "Începeți ziua de ciclism la Spiaggia di Porto Badisco, urmată de o oprire la Geosito delle Rodoliti.\n\nLa prânz, pedalați spre Grotta dei Cervi, apoi mergeți spre nord de-a lungul coastei spectaculoase.\n\nDupă-amiaza, ajungeți la La Marmitta dei Giganti și descoperiți vechea moară Rota te Trappitu.\n\nÎncheiați ziua la Torre Sant'Emiliano pentru un apus uimitor pe mare.",
         "en": "Begin your cycling day at the Spiaggia di Porto Badisco, followed by a quick stop at Geosito delle Rodoliti.\n\nMidday, pedal to the prehistoric Grotta dei Cervi, then ride northward along the spectacular coast.\n\nIn the afternoon, reach La Marmitta dei Giganti and discover the ancient Rota te Trappitu mill.\n\nEnd the day at Torre Sant'Emiliano for a stunning sunset over the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag auf dem Rad beginnt mit der Fahrt zur menschenleeren Bucht. Mittags glänzen die Küstenfelsen silbern unter dem Nieselregen. Nachmittags fordern die nassen Wege Ihre volle Konzentration, während Sie die salzige, feuchte Luft einatmen. Abends finden Sie Schutz in einer Bar im Dorf, während Sie die nasse Ausrüstung trocknen lassen und die Ruhe genießen.",
+            "hu": "A kerékpáros túra az esőben az üres öböl felé veszi az irányt a reggeli szürkületben. Délben a parti sziklák ezüstösen csillognak a permetező eső alatt. Délután a nedves utak teljes koncentrációt igényelnek, miközben a sós, párás levegőt lélegzi be. Este a faluban keressen egy fedett helyet, ahol megszáríthatja felszerelését és kiélvezheti a nap csendjét.",
+            "ro": "O zi ploioasă pe bicicletă începe cu drumul spre golful pustiu în lumina difuză a dimineții. La prânz, stâncile de coastă strălucesc argintiu sub burniță. După-amiaza, drumurile ude necesită concentrare maximă în timp ce respirați aerul sărat și umed. Seara, găsiți un loc acoperit în sat pentru a vă usca echipamentul și a vă bucura de liniște.",
+            "en": "A rainy bike trip starts towards the empty bay in the dim morning light. At noon, the coastal rocks shimmer silver under the drizzling rain. The afternoon requires full concentration on the wet roads while breathing in the salty, damp air. In the evening, find a sheltered spot in the village to dry your gear and enjoy the day's tranquility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Porto Badisco",
+                "hu": "Spiaggia di Porto Badisco",
+                "ro": "Spiaggia di Porto Badisco",
+                "en": "Spiaggia di Porto Badisco"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Untergrund und tragen Sie Regenüberschuhe, um Ihre Füße beim kurzen Strandspaziergang trocken zu halten.",
+                "hu": "Parkolja le a kerékpárt szilárd talajon, és használjon esőálló kamáslit, hogy lábai szárazak maradjanak a rövid parti séta közben az esőben.",
+                "ro": "Parcați bicicleta pe teren solid și folosiți protecții de ploaie pentru încălțăminte ca să vă păstrați picioarele uscate în timpul plimbării pe mal.",
+                "en": "Park your bike on solid ground and use waterproof shoe covers to keep your feet dry during a short stroll along the shore in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Geosito delle Rodoliti",
+                "hu": "Geosito delle Rodoliti",
+                "ro": "Geosito delle Rodoliti",
+                "en": "Geosito delle Rodoliti"
+              },
+              "tip_5lang": {
+                "de": "Reduzieren Sie den Reifendruck minimal für besseren Grip auf den nassen Zufahrtswegen zu den Fossilien; die Steine sind tückisch glatt bei Regen.",
+                "hu": "Csökkentse minimálisan a guminyomást a jobb tapadás érdekében a fosszíliákhoz vezető vizes úton; a kövek esőben alattomosan csúszósak lehetnek.",
+                "ro": "Reduceți minim presiunea în anvelope pentru o aderență mai bună pe drumul ud spre fosile; pietrele sunt înșelător de alunecoase pe timp de ploaie.",
+                "en": "Slightly reduce tire pressure for better grip on the wet roads leading to the fossils; the stones can be treacherously slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta dei Cervi",
+                "hu": "Grotta dei Cervi",
+                "ro": "Grotta dei Cervi",
+                "en": "Grotta dei Cervi"
+              },
+              "tip_5lang": {
+                "de": "Schützen Sie Ihre Packtaschen mit einer wasserdichten Hülle; die Steigung zur Höhle ist bei Regen rutschig, fahren Sie daher besonders vorsichtig im Sitzen.",
+                "hu": "Védje a kerékpáros táskáit vízálló huzattal; a barlanghoz vezető emelkedő esőben csúszós, ezért üljön a nyeregben a jobb hátsó tapadás érdekében.",
+                "ro": "Protejați bagajele cu o husă impermeabilă; urcarea spre peșteră este alunecoasă pe ploaie, deci pedalați stând în șa pentru o tracțiune mai bună.",
+                "en": "Protect your bike bags with a waterproof cover; the incline to the cave is slippery in the rain, so stay seated in the saddle for better rear traction."
+              }
+            },
+            {
+              "name": {
+                "de": "La Marmitta dei Giganti",
+                "hu": "La Marmitta dei Giganti",
+                "ro": "La Marmitta dei Giganti",
+                "en": "La Marmitta dei Giganti"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie es, direkt mit dem Rad über glatte Felsplatten zu fahren; nutzen Sie Schutzbleche, um sich vor dem aufwirbelnden Schlamm und Wasser zu schützen.",
+                "hu": "Kerülje el, hogy közvetlenül a sima sziklaplatókra hajtson a biciklivel; használjon sárvédőt, hogy megvédje magát a felcsapódó sártól és víztől.",
+                "ro": "Evitați să conduceți bicicleta direct pe plăcile de stâncă netede; folosiți apărători de noroi pentru a vă proteja de apa și noroiul de pe drum.",
+                "en": "Avoid riding your bike directly onto the smooth rock platforms; use mudguards to protect yourself from the splashing mud and water on the trail."
+              }
+            },
+            {
+              "name": {
+                "de": "Rota te Trappitu",
+                "hu": "Rota te Trappitu",
+                "ro": "Rota te Trappitu",
+                "en": "Rota te Trappitu"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie vor der Abfahrt Ihre Bremsen gründlich, da die historischen Pfade bei Regen längere Bremswege erfordern; tragen Sie helle Kleidung für bessere Sichtbarkeit.",
+                "hu": "Indulás előtt alaposan ellenőrizze a fékeket, mert a történelmi ösvények vizesen hosszabb fékutat igényelnek; viseljen élénk színű ruhát a láthatóságért.",
+                "ro": "Verificați frânele înainte de plecare, deoarece potecile istorice necesită o distanță mai mare de frânare pe ploaie; purtați haine reflectorizante.",
+                "en": "Check your brakes thoroughly before starting, as the historic paths require longer braking distances when wet; wear bright colors for better visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Emiliano",
+                "hu": "Torre Sant'Emiliano",
+                "ro": "Torre Sant'Emiliano",
+                "en": "Torre Sant'Emiliano"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Turm kann bei Regen heftig sein; halten Sie den Lenker fest und nutzen Sie die Abfahrt vorsichtig, da Windböen die Stabilität beeinträchtigen können.",
+                "hu": "A toronynál a szél esőben felerősödhet; fogja erősen a kormányt, és óvatosan ereszkedjen le, mert a széllökések kibillenthetik az egyensúlyából.",
+                "ro": "Vântul la turn poate deveni puternic pe ploaie; țineți bine ghidonul și coborâți cu grijă, deoarece rafalele de vânt vă pot destabiliza pe bicicletă.",
+                "en": "The wind at the tower can become strong during rain; grip the handlebars firmly and descend carefully, as gusts can affect your balance on the bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise, während Sie entlang der leeren Küstenstraße radeln. Mittags genießen Sie das milde Sonnenlicht bei einer Pause in einer windgeschützten Bucht. Nachmittags sinken die Temperaturen spürbar, und die tiefstehende Sonne blendet auf dem Asphalt. Abends erreichen Sie den Turm pünktlich zum Sonnenuntergang um 17:00 Uhr, bevor die Kälte der Nacht einsetzt.",
+            "hu": "Reggel friss szellő kíséri az üres parti úton, ahol ilyenkor senki sem zavarja a tekerést. Délben élvezze a lágy napsütést egy szélvédett öbölben tartott pihenő alatt. Délután a hőmérséklet érezhetően süllyed, és az alacsony nap vakíthat az aszfalton. Este érjen a toronyhoz a 17:00 körüli naplementére, mielőtt a téli éjszaka hidege leszállna.",
+            "ro": "Dimineața, o briză rece vă însoțește pe drumul de coastă pustiu, unde nimeni nu vă deranjează. La prânz, bucurați-vă de soarele blând într-un golf ferit de vânt. După-amiaza, temperaturile scad vizibil, iar soarele jos poate fi orbitor pe asfalt. Seara, ajungeți la turn pentru apusul de la ora 17:00, înainte ca frigul nopții să se lase.",
+            "en": "In the morning, a cool breeze accompanies you on the empty coastal road where nothing disturbs your ride. At noon, enjoy the gentle sun during a break in a sheltered cove. In the afternoon, temperatures drop noticeably and the low sun can be blinding on the asphalt. Reach the tower by the 5:00 PM sunset before the winter night chill sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Spiaggia di Porto Badisco",
+                "hu": "Spiaggia di Porto Badisco",
+                "ro": "Spiaggia di Porto Badisco",
+                "en": "Spiaggia di Porto Badisco"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Schichten aus Merinowolle, um warm zu bleiben, wenn Sie am Strand anhalten; der kühle Wind kann den Körper beim Stillstand schnell auskühlen lassen.",
+                "hu": "Viseljen merinó gyapjú rétegeket, hogy melegen tartsa testét a parti megálló alatt; a hűvös szél megálláskor gyorsan elvonhatja a testhőt.",
+                "ro": "Purtați straturi de lână merino pentru a vă menține căldura corporală în timpul popasului; vântul rece vă poate răci rapid corpul când vă opriți.",
+                "en": "Wear merino wool layers to keep your body warm during the beach stop; the cool wind can quickly draw away body heat when you are stationary."
+              }
+            },
+            {
+              "name": {
+                "de": "Geosito delle Rodoliti",
+                "hu": "Geosito delle Rodoliti",
+                "ro": "Geosito delle Rodoliti",
+                "en": "Geosito delle Rodoliti"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie eine klare Sonnenbrille gegen den kalten Fahrtwind und für besseren Kontrast bei der Beobachtung der fossilen Strukturen im hellen Winterlicht.",
+                "hu": "Használjon víztiszta vagy világos lencséjű napszemüveget a hideg menetszél ellen és a fosszíliák jobb megfigyeléséhez az éles téli fényben.",
+                "ro": "Folosiți ochelari cu lentile clare împotriva vântului rece și pentru un contrast mai bun la observarea fosilelor în lumina puternică de iarnă.",
+                "en": "Use clear or light-tinted sunglasses against the cold wind and for better contrast when observing the fossil structures in the bright winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta dei Cervi",
+                "hu": "Grotta dei Cervi",
+                "ro": "Grotta dei Cervi",
+                "en": "Grotta dei Cervi"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe, da die Finger auf dem Radweg zur Höhle bei den kühleren Wintertemperaturen schnell steif werden können.",
+                "hu": "Viseljen szélálló kesztyűt, mert a barlanghoz vezető úton a hűvös téli hőmérsékletben az ujjai gyorsan elgémberedhetnek a kormányon.",
+                "ro": "Purtați mănuși rezistente la vânt, deoarece pe drumul spre peșteră degetele vă pot îngheța rapid din cauza temperaturilor scăzute de iarnă.",
+                "en": "Wear windproof gloves, as your fingers can quickly become stiff on the way to the cave in the cooler winter temperatures while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "La Marmitta dei Giganti",
+                "hu": "La Marmitta dei Giganti",
+                "ro": "La Marmitta dei Giganti",
+                "en": "La Marmitta dei Giganti"
+              },
+              "tip_5lang": {
+                "de": "Die Felsen speichern kaum Wärme, bringen Sie also ein isoliertes Sitzkissen mit, falls Sie die Aussicht länger genießen möchten, ohne auszukühlen.",
+                "hu": "A sziklák télen nem tárolják a hőt, így vigyen magával hőszigetelt ülőpárnát, ha hosszabban szeretne gyönyörködni a kilátásban anélkül, hogy felfázna.",
+                "ro": "Stâncile nu rețin căldura iarna, deci aduceți un suport de șezut izolat dacă doriți să admirați priveliștea mai mult timp fără a răci.",
+                "en": "The rocks don't retain heat in winter, so bring an insulated seat pad if you want to enjoy the view for longer without getting chilled through."
+              }
+            },
+            {
+              "name": {
+                "de": "Rota te Trappitu",
+                "hu": "Rota te Trappitu",
+                "ro": "Rota te Trappitu",
+                "en": "Rota te Trappitu"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf mögliche Eisflächen in schattigen Bereichen der historischen Pfade am frühen Morgen; fahren Sie defensiv und vorausschauend.",
+                "hu": "Figyeljen az esetleges jeges foltokra az árnyékos részeken a kora reggeli órákban a történelmi ösvényeken; tekerjen óvatosan és defenzíven.",
+                "ro": "Atenție la posibilele porțiuni înghețate în zonele umbrite ale potecilor istorice în orele dimineții; pedalați cu prudență și anticipare.",
+                "en": "Watch out for potential icy patches in shaded areas of the historic paths during early morning hours; ride cautiously and defensively."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Emiliano",
+                "hu": "Torre Sant'Emiliano",
+                "ro": "Torre Sant'Emiliano",
+                "en": "Torre Sant'Emiliano"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Dämmerung nach dem Sonnenuntergang um 17:00 Uhr sehr schnell einsetzt.",
+                "hu": "Győződjön meg róla, hogy a kerékpárvilágítása tökéletesen működik, mert a 17:00 órai naplemente után a szürkület rendkívül gyorsan leszáll.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează perfect, deoarece după apusul de la ora 17:00 amurgul se instalează extrem de rapid pe coastă.",
+                "en": "Ensure your bike lights are working perfectly, as twilight sets in extremely quickly after the 5:00 PM sunset on the coastal cliffs."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Indítsa útját a Chiesa della Madonna della Serra és az erődített Masseria Consalvi meglátogatásával.\n\nDélben pihenjen a Caletta Porto Russo-nál, majd nézze meg a Spiaggia di Porto Badisco-t és a Grotta dei Cervi-t.\n\nDélután kövesse a festői parti utat észak felé a La Marmitta dei Giganti-hoz.\n\nZárja az autós túrát a Torre Sant'Emiliano lélegzetelállító panorámájával.",
         "ro": "Începeți călătoria cu liniștea de la Chiesa della Madonna della Serra și fortificata Masseria Consalvi.\n\nLa prânz, relaxați-vă la Caletta Porto Russo, vizitați Spiaggia di Porto Badisco și Grotta dei Cervi.\n\nDupă-amiaza, urmați drumul de coastă spre nord până la La Marmitta dei Giganti.\n\nÎncheiați excursia auto cu vederi panoramice uluitoare de la Torre Sant'Emiliano.",
         "en": "Kick off your drive with the tranquility of Chiesa della Madonna della Serra and the fortified Masseria Consalvi.\n\nMidday, relax at Caletta Porto Russo, visit Spiaggia di Porto Badisco and Grotta dei Cervi.\n\nIn the afternoon, follow the scenic coastal road north to La Marmitta dei Giganti.\n\nConclude your road trip with breathtaking panoramic views from Torre Sant'Emiliano."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens fahren Sie gemütlich zur Kirche, während der Regen gegen die Scheiben trommelt. Mittags bietet die Masseria Consalvi einen geschützten Einblick in die Geschichte. Nachmittags genießen Sie die dramatische Küstenlandschaft bequem aus dem Auto mit kurzen Stopps an den Aussichtspunkten. Abends leuchten die Lichter von Porto Badisco im nassen Asphalt der leeren Straßen.",
+            "hu": "Reggel kényelmesen gurulhat a templomhoz, miközben az eső a szélvédőn kopog. Délben a Masseria Consalvi védett környezetben enged betekintést a helyi történelembe. Délután az autó kényelméből csodálhatja a drámai parti tájat, csak rövid időre kiszállva a kilátópontoknál. Este Porto Badisco fényei tükröződnek az üres utcák vizes aszfaltján.",
+            "ro": "Dimineața conduceți relaxat spre biserică, în timp ce ploaia bate în parbriz. La prânz, Masseria Consalvi oferă o privire protejată asupra istoriei locale. După-amiaza, admirați peisajul dramatic de coastă din confortul mașinii, cu opriri scurte la punctele de belvedere. Seara, luminile din Porto Badisco se reflectă în asfaltul ud al străzilor pustii.",
+            "en": "In the morning, drive comfortably to the church while the rain patters on the windshield. At noon, Masseria Consalvi offers a sheltered glimpse into local history. In the afternoon, admire the dramatic coastal scenery from the comfort of your car, with short stops at viewpoints. In the evening, the lights of Porto Badisco reflect on the wet asphalt of the empty streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Madonna della Serra",
+                "hu": "Chiesa della Madonna della Serra",
+                "ro": "Chiesa della Madonna della Serra",
+                "en": "Chiesa della Madonna della Serra"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um trocken in das Innere zu gelangen; genießen Sie die spirituelle Stille, während draußen der Regen fällt.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy szárazon jusson be a templomba; élvezze a szakrális csendet, miközben odakint dobol az eső.",
+                "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în interior; bucurați-vă de liniștea spirituală în timp ce afară ploaia bate cu putere.",
+                "en": "Park as close to the entrance as possible to reach the interior dry; enjoy the spiritual silence while the rain falls steadily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Masseria Consalvi",
+                "hu": "Masseria Consalvi",
+                "ro": "Masseria Consalvi",
+                "en": "Masseria Consalvi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die massiven Mauern der Masseria als Regenschutz bei der Besichtigung des Außenbereichs; halten Sie einen stabilen Regenschirm gegen Windböen bereit.",
+                "hu": "Használja a masszéria vaskos falait esővédőként a külső részek megtekintésekor; tartson magánál erős vázú esernyőt a hirtelen széllökések ellen.",
+                "ro": "Folosiți zidurile masive ale fermei ca adăpost împotriva ploii când vizitați exteriorul; aveți la îndemână o umbrelă robustă contra rafalelor de vânt.",
+                "en": "Use the thick walls of the masseria as rain cover when viewing the exterior; keep a sturdy umbrella handy against sudden gusts of wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Caletta Porto Russo",
+                "hu": "Caletta Porto Russo",
+                "ro": "Caletta Porto Russo",
+                "en": "Caletta Porto Russo"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und beobachten Sie das Aufschäumen der Wellen; die Parkplätze können bei Nässe etwas schlammig sein.",
+                "hu": "Heves esőben maradjon az autóban, és figyelje a hullámok habzását az öbölben; a parkolóhelyek eső után kissé sárosak és csúszósak lehetnek.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și observați spuma valurilor în golf; locurile de parcare pot deveni noroioase și alunecoase.",
+                "en": "In heavy rain, stay in the car and watch the waves frothing in the cove; the parking areas can become a bit muddy and slippery after the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Badisco",
+                "hu": "Spiaggia di Porto Badisco",
+                "ro": "Spiaggia di Porto Badisco",
+                "en": "Spiaggia di Porto Badisco"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint zum Wasser lohnt sich für das maritime Flair; tragen Sie wasserfeste Schuhe, da sich in den Felsspalten tiefe Pfützen bilden können.",
+                "hu": "Megéri egy rövid sprint a vízig a tengeri hangulatért; viseljen vízálló cipőt, mert a sziklás részeken mély tócsák alakulhatnak ki az esőben.",
+                "ro": "Merită un sprint scurt până la apă pentru atmosfera marină; purtați încălțăminte impermeabilă, deoarece în crăpăturile stâncilor se pot forma bălți adânci.",
+                "en": "A short sprint to the water is worth it for the maritime atmosphere; wear waterproof shoes as deep puddles can form in the rock crevices during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta dei Cervi",
+                "hu": "Grotta dei Cervi",
+                "ro": "Grotta dei Cervi",
+                "en": "Grotta dei Cervi"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie die schmale Straße zur Höhle bei Regen besonders langsam, da das Wasser oft Erde und kleine Steine auf den Asphalt schwemmt.",
+                "hu": "Az esőben különösen lassan hajtson a barlanghoz vezető keskeny úton, mert a víz gyakran hordalékot és apró köveket moshat az aszfaltra.",
+                "ro": "Conduceți foarte încet pe drumul îngust spre peșteră pe timp de ploaie, deoarece apa poate aduce pământ și pietre mici direct pe carosabil.",
+                "en": "Drive very slowly on the narrow road to the cave in the rain, as water can often wash soil and small stones onto the asphalt surface."
+              }
+            },
+            {
+              "name": {
+                "de": "La Marmitta dei Giganti",
+                "hu": "La Marmitta dei Giganti",
+                "ro": "La Marmitta dei Giganti",
+                "en": "La Marmitta dei Giganti"
+              },
+              "tip_5lang": {
+                "de": "Vom Parkplatz aus bietet sich auch bei Regen ein toller Blick; nutzen Sie eine Regenjacke für den kurzen Weg zu den beeindruckenden Felsvertiefungen.",
+                "hu": "A parkolóból esőben is remek a kilátás; vegyen fel esőkabátot a rövid sétához a lenyűgöző sziklamélyedésekig, hogy ne ázzon el a szélben.",
+                "ro": "Din parcare aveți o vedere excelentă chiar și pe ploaie; folosiți o jachetă impermeabilă pentru scurta plimbare până la adânciturile stâncoase.",
+                "en": "The view from the parking area is great even in the rain; wear a raincoat for the short walk to the impressive rock hollows to stay dry in the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Emiliano",
+                "hu": "Torre Sant'Emiliano",
+                "ro": "Torre Sant'Emiliano",
+                "en": "Torre Sant'Emiliano"
+              },
+              "tip_5lang": {
+                "de": "Die Küstenstraße zum Turm kann bei starkem Wind und Regen Gischt auf die Fahrbahn peitschen; achten Sie auf eine gute Sicht und nutzen Sie das Fernlicht.",
+                "hu": "A toronyhoz vezető parti úton az erős szél tengeri permetet verhet az útra; ügyeljen a látási viszonyokra, és használja a fényszórókat esőben.",
+                "ro": "Pe drumul de coastă spre turn, vântul puternic poate arunca vapori sărați pe șosea; atenție la vizibilitate și folosiți farurile pe timp de ploaie.",
+                "en": "On the coastal road to the tower, strong winds can lash sea spray onto the road; watch your visibility and use your headlights in the heavy rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein sonniger Wintermorgen beginnt mit einer Fahrt durch die schlafende Landschaft. Mittags wärmt die Sonne den Innenraum des Wagens, während Sie die Küste entlangfahren. Nachmittags taucht das sanfte Licht die Steine der Masserien in warmes Gold. Abends erleben Sie den spektakulären Sonnenuntergang am Turm gegen 17:00 Uhr, geschützt vor der kühlen Meeresbrise in Ihrem Auto.",
+            "hu": "A napfényes téli reggel az alvó tájon át vezető autózással kezdődik. Délben a nap kellemesen felmelegíti az utasteret a parti úton gurulva. Délután a lágy fények meleg aranyba öltöztetik a masszériák köveit. Este élvezze a látványos naplementét a toronynál 17:00 körül, az autó ablakából figyelve, védve a hűvös tengeri széltől.",
+            "ro": "O dimineață însorită de iarnă începe cu o plimbare prin peisajul adormit. La prânz, soarele încălzește plăcut interiorul mașinii pe drumul de coastă. După-amiaza, lumina blândă îmbracă pietrele fermelor în aur cald. Seara, admirați apusul spectaculos la turn în jur de ora 17:00, protejat de briza rece a mării în mașină.",
+            "en": "A sunny winter morning starts with a drive through the sleeping landscape. At noon, the sun pleasantly warms the car's interior as you cruise along the coast. In the afternoon, the soft light bathes the masseria stones in warm gold. In the evening, enjoy the spectacular sunset at the tower around 5:00 PM, sheltered from the cool sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa della Madonna della Serra",
+                "hu": "Chiesa della Madonna della Serra",
+                "ro": "Chiesa della Madonna della Serra",
+                "en": "Chiesa della Madonna della Serra"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet im Winter einen warmen Rückzugsort; tragen Sie dennoch eine Jacke, da die alten Steinmauern die Kälte speichern können.",
+                "hu": "A templom télen is meghitt és meleg menedéket nyújt; azért viseljen kabátot bent is, mert a régi kőfalak sokáig tartják a téli hideget.",
+                "ro": "Biserica oferă un refugiu cald și liniștit iarna; totuși, purtați o jachetă, deoarece zidurile vechi de piatră pot reține frigul în interior.",
+                "en": "The church offers a cozy and warm refuge in winter; still, wear a jacket as the old stone walls can retain the winter chill for a long time."
+              }
+            },
+            {
+              "name": {
+                "de": "Masseria Consalvi",
+                "hu": "Masseria Consalvi",
+                "ro": "Masseria Consalvi",
+                "en": "Masseria Consalvi"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht eignet sich hervorragend für Architekturfotografie der Masseria; nutzen Sie die beheizten Sitze Ihres Autos für die Fahrt zwischen den Stopps.",
+                "hu": "A téli fények kiválóak a masszéria építészeti fotózásához; használja autója ülésfűtését a megállók közötti úton, hogy komfortosan érezze magát.",
+                "ro": "Lumina de iarnă este excelentă pentru fotografia de arhitectură a fermei; folosiți încălzirea în scaune între opriri pentru a vă menține confortul.",
+                "en": "The winter light is excellent for architectural photography of the masseria; use your car's seat heating between stops to stay comfortable and warm."
+              }
+            },
+            {
+              "name": {
+                "de": "Caletta Porto Russo",
+                "hu": "Caletta Porto Russo",
+                "ro": "Caletta Porto Russo",
+                "en": "Caletta Porto Russo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer und genießen Sie den Ausblick direkt vom Fahrersitz aus, während Sie sich in eine warme Decke kuscheln.",
+                "hu": "Parkoljon tengerre néző pozícióban, és élvezze a kilátást közvetlenül a vezetőülésből, egy meleg takaróba burkolózva a téli szél ellen.",
+                "ro": "Parcați cu fața spre mare și bucurați-vă de priveliște direct de la volan, învelit într-o pătură caldă împotriva vântului rece de iarnă.",
+                "en": "Park facing the sea and enjoy the view directly from the driver's seat, snuggled in a warm blanket against the biting winter wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Porto Badisco",
+                "hu": "Spiaggia di Porto Badisco",
+                "ro": "Spiaggia di Porto Badisco",
+                "en": "Spiaggia di Porto Badisco"
+              },
+              "tip_5lang": {
+                "de": "Der leere Parkplatz ermöglicht stressfreies Ankommen; machen Sie einen kurzen Strandspaziergang und kehren Sie dann in das warme Auto zurück.",
+                "hu": "Az üres parkoló stresszmentes érkezést tesz lehetővé; tegyen egy rövid sétát a parton, majd térjen vissza a jól felmelegített autóba.",
+                "ro": "Parcarea pustie permite o sosire fără stres; faceți o scurtă plimbare pe plajă și apoi întoarceți-vă în mașina bine încălzită.",
+                "en": "The empty parking lot allows for stress-free arrival; take a short walk on the beach and then return to the well-heated interior of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Grotta dei Cervi",
+                "hu": "Grotta dei Cervi",
+                "ro": "Grotta dei Cervi",
+                "en": "Grotta dei Cervi"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf tiefstehendes Wild an den Straßenrändern in der frühen Dämmerung gegen 16:30 Uhr; fahren Sie wachsam auf den unbeleuchteten Wegen.",
+                "hu": "Figyeljen az út mentén felbukkanó vadakra a kora esti szürkületben 16:30 körül; vezessen éberen a kivilágítatlan parti utakon.",
+                "ro": "Atenție la animalele sălbatice de pe marginea drumului în amurgul de la ora 16:30; conduceți cu prudență pe drumurile de coastă neiluminate.",
+                "en": "Watch out for wildlife on the roadside during the early twilight around 4:30 PM; drive vigilantly on the unlit coastal roads near the cave."
+              }
+            },
+            {
+              "name": {
+                "de": "La Marmitta dei Giganti",
+                "hu": "La Marmitta dei Giganti",
+                "ro": "La Marmitta dei Giganti",
+                "en": "La Marmitta dei Giganti"
+              },
+              "tip_5lang": {
+                "de": "Das glasklare Winterwetter sorgt für eine phänomenale Sicht auf die Felsformationen; nehmen Sie eine Thermoskanne für eine kleine Pause am Aussichtspunkt mit.",
+                "hu": "A kristálytiszta téli időjárás fenomenális kilátást biztosít a sziklákra; vigyen magával termoszt egy rövid pihenőhöz a kilátópontnál.",
+                "ro": "Vremea de iarnă extrem de senină oferă o vizibilitate fenomenală asupra stâncilor; luați un termos pentru o scurtă pauză la punctul de belvedere.",
+                "en": "The crystal-clear winter weather provides phenomenal visibility of the rock formations; bring a thermos for a short break at the viewpoint."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre Sant'Emiliano",
+                "hu": "Torre Sant'Emiliano",
+                "ro": "Torre Sant'Emiliano",
+                "en": "Torre Sant'Emiliano"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang um 17:00 Uhr ist das Highlight des Tages; stellen Sie sicher, dass Ihre Autobatterie für die Heizung während des Wartens fit ist.",
+                "hu": "A 17:00 órai naplemente a nap fénypontja; győződjön meg róla, hogy az autó akkumulátora bírja a fűtést a várakozás alatt a toronynál.",
+                "ro": "Apusul de la ora 17:00 este punctul culminant al zilei; asigurați-vă că bateria mașinii rezistă pentru încălzire în timp ce așteptați la turn.",
+                "en": "The 5:00 PM sunset is the highlight of the day; make sure your car battery is in good shape to run the heater while waiting at the tower."
+              }
+            }
+          ]
+        }
       }
     }
   }

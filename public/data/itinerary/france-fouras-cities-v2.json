@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját Fouras szívében a történelmi városházánál, majd csendesedjen el egy pillanatra a Saint-Gaudens templomban. Ismerje meg a múltat a helyi múzeumban. Délután a Grande Plage csábít napozásra, majd a napot a békés Plage Sud partján fejezheti be.",
         "ro": "Începeți plimbarea în inima orașului Fouras la primăria istorică, urmată de un moment de liniște la Biserica Saint-Gaudens. Învățați despre trecut la muzeul regional. După-amiaza, Grande Plage vă invită să vă relaxați la soare, înainte de a încheia ziua pe Plage Sud.",
         "en": "Begin your walk in the heart of Fouras at the historic town hall, followed by a quiet moment at the Saint-Gaudens Church. Learn about the past at the regional museum. In the afternoon, the Grande Plage invites you for some sun, before concluding the day at Plage Sud."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Tag im Rathaus, wo Sie Schutz vor dem ersten Regenschauer finden. Mittags bietet die Kirche Saint-Gaudens eine trockene Zuflucht für Besinnung. Der Nachmittag gehört dem Regionalmuseum, ideal bei nassem Wetter, um tief in die Geschichte einzutauchen. Den Tag lassen Sie mit einem Blick auf das stürmische Meer aus der Ferne ausklingen, während Sie sich unter einem Dach warm halten.",
+            "hu": "Kezdje a napot a városházánál, ahol az épület beugrói védelmet nyújtanak az eső elől. Délben a Saint-Gaudens templom csendes menedéket kínál a kopogó eső elől. A délutánt töltse a Regionális Múzeumban, amely a legjobb fedett program a városban ilyenkor. Este csodálja meg a felkorbácsolt tenger látványát egy védett pontról, élvezve a part menti szürke hullámok drámai játékát.",
+            "ro": "Începeți ziua la Primărie, unde arhitectura vă oferă un prim adăpost împotriva ploii. La prânz, Biserica Saint-Gaudens este refugiul perfect și liniștit în timpul unei averse. După-amiaza este rezervată Muzeului Regional, cea mai bună opțiune de interior pentru a evita vremea umedă. Seara, priviți spectacolul mării agitate de la distanță, asigurându-vă că rămâneți la uscat sub o copertină.",
+            "en": "Start your day at the Town Hall, using its architecture as a first shield against the rain. At noon, Saint-Gaudens Church offers a peaceful, dry sanctuary from the downpour. Spend your afternoon at the Regional Museum, the premier indoor attraction to escape the damp weather. End the day by watching the moody Atlantic waves from a sheltered spot, enjoying the dramatic coastal atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Fouras",
+                "hu": "Fouras Városháza",
+                "ro": "Primăria Fouras",
+                "en": "Fouras Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Fassade von den überdachten Bereichen aus und nutzen Sie die zentrale Lage, um bei plötzlichen Güssen schnell in nahegelegene Gebäude zu flüchten.",
+                "hu": "Csodálja meg a homlokzatot az épület védettebb részeiről, és használja ki a központi helyszínt, hogy hirtelen zápor esetén gyorsan fedett közterületre érhessen.",
+                "ro": "Admirați fațada din zonele acoperite și profitați de locația centrală pentru a ajunge rapid la adăpost în interiorul clădirilor din apropiere în caz de aversă.",
+                "en": "Admire the facade from sheltered vantage points and use the central location to transition quickly between nearby indoor spots during sudden rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gaudens",
+                "hu": "Saint-Gaudens templom",
+                "ro": "Biserica Saint-Gaudens",
+                "en": "Saint-Gaudens Church"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche ist ein wunderbarer Ort für eine trockene Pause; achten Sie beim Betreten unbedingt auf den durch Regenwasser tückisch glatt gewordenen Steinboden.",
+                "hu": "Ez a templom kiváló hely egy csendes és teljesen száraz pihenőre; belépéskor fokozottan ügyeljen a vizes cipők miatt rendkívül csúszóssá vált kövezetre.",
+                "ro": "Această biserică este un loc minunat pentru o pauză uscată; aveți grijă la podeaua de piatră care devine foarte alunecoasă de la apa adusă de încălțăminte.",
+                "en": "This church is a wonderful spot for a dry break; be extremely careful when entering as the stone floor can become very slippery from rainwater on shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Musee Régional de Fouras",
+                "hu": "Fouras-i Regionális Múzeum",
+                "ro": "Muzeul Regional Fouras",
+                "en": "Regional Museum of Fouras"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist der ideale Zufluchtsort; verbringen Sie hier mehr Zeit, um die maritime Geschichte ganz ohne Regenschirm in den beheizten Räumen zu erkunden.",
+                "hu": "A múzeum az ideális menedék; töltsön itt több időt, és fedezze fel a tengerészeti múltat teljesen szárazon, esernyő nélkül a barátságos belső terekben.",
+                "ro": "Muzeul este refugiul ideal; petreceți mai mult timp aici pentru a explora istoria maritimă la adăpost, fără a avea nevoie de umbrelă în spațiile interioare.",
+                "en": "The museum is the ideal refuge; spend extra time here exploring maritime history while staying completely dry and comfortable without needing your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage",
+                "hu": "Grande Plage",
+                "ro": "Plaja Mare (Grande Plage)",
+                "en": "Grande Plage Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf das Meer unter einer wasserdichten Kapuze; die nassen Felsen am Rand können extrem rutschig und bei starkem Wind gefährlich sein.",
+                "hu": "Élvezze a tenger látványát egy vízhatlan kapucnis kabátban; a szélső vizes sziklák rendkívül csúszósak és erős szélben kifejezetten veszélyesek lehetnek.",
+                "ro": "Bucurați-vă de vederea mării sub o pelerină impermeabilă; stâncile umede de la margine pot fi extrem de alunecoase și periculoase când vântul este puternic.",
+                "en": "Enjoy the sea view from under a waterproof hood; be aware that the wet rocks along the edge can be extremely slippery and hazardous in windy conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Sud",
+                "hu": "Plage Sud",
+                "ro": "Plaja Sud",
+                "en": "South Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, frischender Spaziergang im Regen zeigt die wilde Seite der Küste; tragen Sie unbedingt Gummistiefel für den durchgeweichten Boden am Wegesrand.",
+                "hu": "Egy rövid, frissítő séta az esőben megmutatja a part vad oldalát; viseljen gumicsizmát a felázott talaj és a mélyebb tócsák kikerülése érdekében.",
+                "ro": "O scurtă plimbare revigorantă prin ploaie dezvăluie latura sălbatică a coastei; purtați cizme de cauciuc pentru a naviga prin noroi și bălțile adânci.",
+                "en": "A short, refreshing walk in the rain reveals the coast's wild side; wear rubber boots to navigate the muddy paths and puddles along the shore safely."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer frischen Meeresbrise am Rathaus. Mittags wärmt die Stille der Saint-Gaudens Kirche Körper und Seele nach dem Spaziergang. Nutzen Sie die gemütliche Atmosphäre des Museums am frühen Nachmittag, bevor die Sonne gegen 17:00 Uhr untergeht. Den Abend verbringen Sie am besten im Warmen, nachdem Sie den glühenden, frühen Sonnenuntergang genossen haben.",
+            "hu": "A téli reggel friss tengeri szellővel indul a városházánál. Délben a Saint-Gaudens templom csendje melengeti meg a lelket a hideg séta után. Használja ki a múzeum barátságos belső tereit kora délután, mielőtt a nap 17:00 körül lebukik a horizont alá. Az estét töltse egy fűtött helyen, miután megcsodálta a korai, bíborszínű téli naplementét a parton.",
+            "ro": "Dimineața de iarnă începe cu o briză marină proaspătă la Primărie. La prânz, liniștea Bisericii Saint-Gaudens încălzește trupul și sufletul după plimbarea rece. Bucurați-vă de atmosfera primitoare a muzeului devreme după-amiază, înainte ca soarele să apună la ora 17:00. Seara este pentru relaxare la căldură, după ce ați văzut apusul timpuriu.",
+            "en": "A winter morning starts with a crisp sea breeze at the Town Hall. At noon, the silence of Saint-Gaudens Church warms both body and soul after your walk. Enjoy the cozy interiors of the museum in the early afternoon before the sun sets around 17:00. Spend your evening in a warm indoor setting after witnessing the vibrant, early winter sunset over the ocean."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Fouras",
+                "hu": "Fouras Városháza",
+                "ro": "Primăria Fouras",
+                "en": "Fouras Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie hier früh am Morgen, um das klare Winterlicht auf der Architektur zu sehen; ziehen Sie sich mit mehreren Schichten gegen die Kälte warm an.",
+                "hu": "Kezdje itt a napot korán, hogy lássa a tiszta téli fényt az épületen; öltözzön nagyon rétegesen a csípős reggeli tengeri levegő ellen.",
+                "ro": "Începeți ziua devreme pentru a vedea lumina clară de iarnă pe arhitectură; îmbrăcați-vă în straturi groase pentru briza tăioasă de dimineață.",
+                "en": "Start here early to catch the crisp winter light on the architecture; dress in warm layers to handle the biting morning sea breeze effectively."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gaudens",
+                "hu": "Saint-Gaudens templom",
+                "ro": "Biserica Saint-Gaudens",
+                "en": "Saint-Gaudens Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen windgeschützten Ort der Ruhe; die Steinmauern können im Winter kühl sein, behalten Sie Ihren Mantel während des Besuchs lieber an.",
+                "hu": "A templom szélvédett, nyugodt helyet kínál a hidegben; a kőfalak télen hűvösek lehetnek, érdemes a kabátot magán hagyni a látogatás alatt.",
+                "ro": "Biserica oferă un loc liniștit și ferit de vânt; zidurile de piatră pot fi reci iarna, așa că păstrați-vă haina pe dumneavoastră în interior.",
+                "en": "The church offers a peaceful, wind-sheltered spot; the stone walls can be quite chilly in winter, so it's best to keep your coat on while inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Musee Régional de Fouras",
+                "hu": "Fouras-i Regionális Múzeum",
+                "ro": "Muzeul Regional Fouras",
+                "en": "Regional Museum of Fouras"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie in den geheizten Ausstellungsräumen, während es draußen früher dunkel wird; ein idealer Ort, um die Zeit bis zum Sonnenuntergang zu füllen.",
+                "hu": "Időzzön a fűtött kiállítóterekben, miközben odakint korábban sötétedik; tökéletes hely, hogy hasznosan és melegben töltse az időt a naplementéig.",
+                "ro": "Rămâneți în sălile de expoziție încălzite pe măsură ce afară se întunecă mai devreme; un loc ideal pentru a aștepta ora apusului la căldură.",
+                "en": "Linger in the heated exhibition halls as the light begins to fade early outside; it's a perfect place to stay warm until the sun starts to set."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage",
+                "hu": "Grande Plage",
+                "ro": "Plaja Mare (Grande Plage)",
+                "en": "Grande Plage Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Strandspaziergang, um die Körperwärme zu halten; die Wintersonne über dem Meer steht oft tief und kann sehr stark blenden.",
+                "hu": "Tegyen egy tempós sétát a parton, hogy melegen tartsa magát; a téli nap a tenger felett gyakran alacsonyan jár és rendkívül erősen vakíthat.",
+                "ro": "Faceți o plimbare rapidă pe plajă pentru a vă menține căldura; soarele de iarnă de deasupra mării este adesea jos și poate fi foarte orbitor.",
+                "en": "Take a brisk walk along the shore to keep your blood flowing; the winter sun over the sea is often low and can be very dazzling to the eyes."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Sud",
+                "hu": "Plage Sud",
+                "ro": "Plaja Sud",
+                "en": "South Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie hier gegen 17:00 Uhr den Sonnenuntergang; nehmen Sie eine Thermoskanne mit einem heißen Getränk für die klirrende Kälte am Ufer mit.",
+                "hu": "Itt nézze meg a naplementét 17:00 körül; vigyen magával egy termoszt forró itallal a csípős és metsző hideg ellen a nyílt tengerparton.",
+                "ro": "Urmăriți apusul aici în jurul orei 17:00; aduceți un termos cu o băutură caldă pentru a face față frigului pătrunzător de pe malul mării.",
+                "en": "Watch the sunset here around 17:00; bring a thermos with a hot drink to stay warm against the biting coastal cold during the twilight hour."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje kerékpártúráját a városházától a Saint-Gaudens templom felé. Tekerjen tovább a Plage Nord és a La Vierge kilátópont irányába. A csendes Plage de la Vierge után térjen vissza a Grande Plage-ra, majd zárja a napot egy kis kultúrával a Fouras-i Regionális Múzeumban.",
         "ro": "Începeți turul cu bicicleta de la primărie către Biserica Saint-Gaudens. Pedalați spre Plage Nord și punctul de belvedere La Vierge. După o pauză la liniștita Plage de la Vierge, întoarceți-vă la Grande Plage și încheiați cu o vizită culturală la Muzeul Regional.",
         "en": "Start your bike tour at the town hall and ride towards the Saint-Gaudens Church. Continue to Plage Nord and the La Vierge landmark. After resting at the quiet Plage de la Vierge, return to the Grande Plage and finish with some culture at the Regional Museum."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radfahren im Regen erfordert Vorsicht am Rathaus und auf den glatten Wegen zur Kirche. Mittags bietet die Plage Nord eine kurze, windige Pause, bevor Sie den Landmark La Vierge ansteuern. Der Nachmittag führt Sie über nasse Küstenwege zum Museum, wo Sie sich lange aufwärmen können. Achten Sie auf Pfützen und beenden Sie die Tour, bevor die Sicht bei Regen zu schlecht wird.",
+            "hu": "Az esőben való biciklizés óvatosságot igényel a városházánál és a templomhoz vezető csúszós utakon. Délben a Plage Nord szeles pihenőt kínál, mielőtt a La Vierge felé indulna. A délután nedves parti utakon vezet a múzeumhoz, ahol hosszasan felmelegedhet. Ügyeljen a tócsákra, és fejezze be a túrát, mielőtt a látási viszonyok a sűrű esőben túlságosan leromlanának.",
+            "ro": "Ciclismul pe ploaie necesită prudență la Primărie și pe drumurile alunecoase spre biserică. La prânz, Plaja Nord oferă o scurtă pauză vântoasă înainte de a merge spre La Vierge. După-amiaza vă poartă pe poteci umede spre muzeu, unde vă puteți încălzi. Atenție la bălți și încheiați turul înainte ca vizibilitatea să scadă periculos din cauza ploii.",
+            "en": "Cycling in the rain demands extra caution at the Town Hall and on slippery paths to the church. At noon, North Beach offers a brief, windy pause before heading to La Vierge. The afternoon takes you along wet coastal routes to the museum for a long, warm break. Watch out for deep puddles and finish your ride before visibility drops significantly in heavy rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Fouras",
+                "hu": "Fouras Városháza",
+                "ro": "Primăria Fouras",
+                "en": "Fouras Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen; der Platz am Rathaus kann bei Nässe für Fahrradreifen durch den Belag sehr rutschig sein.",
+                "hu": "Indulás előtt ellenőrizze a fékeket az esőben; a városháza előtti tér nedvesen nagyon csúszós lehet a kerékpárgumik számára a burkolat miatt.",
+                "ro": "Verificați frânele înainte de a pleca pe ploaie; piața primăriei poate fi foarte alunecoasă pentru anvelopele de bicicletă din cauza pavajului ud.",
+                "en": "Check your brakes before starting in the rain; the square by the town hall can be very slippery for bike tires when the pavement is wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gaudens",
+                "hu": "Saint-Gaudens templom",
+                "ro": "Biserica Saint-Gaudens",
+                "en": "Saint-Gaudens Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz vor einem Regenschauer; stellen Sie Ihr Rad an einem sicheren Ort ab, da der Bodenbelag hier bei Nässe tückisch sein kann.",
+                "hu": "Keressen itt menedéket egy nagyobb zápor elől; parkolja le a bringát biztonságos helyen, mert a burkolat trükkös és instabil lehet vizesen.",
+                "ro": "Căutați adăpost aici în timpul unei averse; parcați bicicleta într-un loc sigur, deoarece pavajul poate fi înșelător și instabil când este ud.",
+                "en": "Seek shelter here during a heavy downpour; park your bike securely, as the ground surfaces can be tricky and unstable when thoroughly wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Nord",
+                "hu": "Plage Nord",
+                "ro": "Plaja Nord",
+                "en": "North Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Wind ist hier bei Regen oft stark; halten Sie den Lenker fest und meiden Sie die direkt am Wasser liegenden, oft aufgeweichten Wege.",
+                "hu": "A szél itt esőben gyakran felerősödik; tartsa erősen a kormányt, és kerülje a közvetlenül a vízparti, ilyenkor gyakran felázott ösvényeket.",
+                "ro": "Vântul este adesea puternic aici pe ploaie; țineți bine ghidonul și evitați potecile de pe malul apei care pot fi inundate sau instabile.",
+                "en": "The wind often picks up here during rain; keep a firm grip on your handlebars and avoid paths directly by the water that might be flooded."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vierge",
+                "hu": "La Vierge",
+                "ro": "La Vierge",
+                "en": "La Vierge Landmark"
+              },
+              "tip_5lang": {
+                "de": "Ein markanter Punkt, der auch im Regen gut sichtbar ist; achten Sie auf herabfallende Äste bei böigem Küstenwind in der Nähe der Bäume.",
+                "hu": "Jellegzetes pont, amely a szürke esőben is jól látható; fokozottan ügyeljen a lehulló ágakra az erős parti szélben a fák közelében.",
+                "ro": "Un punct de reper vizibil chiar și prin ploaie; atenție la crengile care pot cădea în vântul puternic de coastă în apropierea copacilor de aici.",
+                "en": "A prominent landmark visible even through rain; watch out for falling branches during gusty coastal winds when cycling near the trees here."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Vierge",
+                "hu": "Plage de la Vierge",
+                "ro": "Plaja La Vierge",
+                "en": "La Vierge Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wege hierher können schlammig sein; ein Schutzblech an Ihrem Fahrrad ist jetzt unerlässlich, um Ihre Kleidung einigermaßen trocken zu halten.",
+                "hu": "Az idevezető utak sarasak lehetnek; a sárvédő most elengedhetetlen a biciklin, hogy ruhája viszonylag száraz és tiszta maradjon a túra alatt.",
+                "ro": "Drumurile spre plajă pot fi noroioase; o aripă la bicicletă este esențială acum pentru a vă menține hainele cât de cât uscate și curate.",
+                "en": "The paths here can get muddy; having mudguards on your bike is essential now to keep your clothes relatively dry and clean throughout the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage",
+                "hu": "Grande Plage",
+                "ro": "Plaja Mare (Grande Plage)",
+                "en": "Grande Plage Beach"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der Promenade; bei Regen sammeln sich hier oft tiefe Pfützen, deren Tiefe vom Fahrrad aus schwer einzuschätzen ist.",
+                "hu": "Óvatosan tekerjen a sétányon; esőben gyakran gyűlnek össze mély tócsák, amelyek mélységét a nyeregből ülve nehéz pontosan megbecsülni.",
+                "ro": "Mergeți cu grijă pe faleză; pe ploaie se adună adesea bălți adânci, a căror profunzime este greu de estimat de pe bicicletă în timpul mersului.",
+                "en": "Ride carefully along the promenade; deep puddles often form during rain, and their depth can be difficult to judge while cycling at speed."
+              }
+            },
+            {
+              "name": {
+                "de": "Musee Régional de Fouras",
+                "hu": "Fouras-i Regionális Múzeum",
+                "ro": "Muzeul Regional Fouras",
+                "en": "Regional Museum of Fouras"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel, um nasse Kleidung zu trocknen; parken Sie das Fahrrad unter einem Dachvorsprung und genießen Sie die Wärme der Ausstellungen.",
+                "hu": "A tökéletes végcél, ahol megszáríthatja vizes ruháit; parkolja le a biciklit egy tetőnyúlvány alá, és élvezze a kiállítások melegét.",
+                "ro": "Destinația finală perfectă pentru a vă usca hainele; parcați bicicleta sub o streașină și bucurați-vă de căldura spațiilor de expoziție.",
+                "en": "The perfect final destination to dry off your wet gear; try to park your bike under an overhang and enjoy the warmth of the indoor exhibits."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine Wintertour mit dem Rad bietet klare Luft und leere Wege. Starten Sie dick eingepackt am Rathaus und besuchen Sie die ruhige Kirche. Mittags erreichen Sie die windigen Strände im Norden, bevor Sie zum Landmark La Vierge weiterfahren. Der Nachmittag bringt Sie zur Grande Plage; behalten Sie das Licht im Auge. Beenden Sie die Tour im Museum, bevor es um 17:00 Uhr dunkel wird.",
+            "hu": "A téli kerékpártúra tiszta levegőt és üres utakat kínál. Induljon vastagon felöltözve a városházától, és látogasson el a csendes templomba. Délben érje el az északi szeles strandokat, majd tekerjen tovább a La Vierge felé. A délután a Grande Plage-hoz vezeti; ügyeljen a fogyó fényekre. Zárja a túrát a múzeumban, melegedjen fel, mielőtt 17:00-kor teljesen besötétedik.",
+            "ro": "Un tur cu bicicleta iarna oferă aer curat și drumuri libere. Plecați bine îmbrăcați de la Primărie și vizitați biserica liniștită. La prânz ajungeți la plajele vântoase din nord, apoi pedalați spre La Vierge. După-amiaza vă duce la Grande Plage; atenție la lumina care scade rapid. Încheiați turul la muzeu pentru a vă încălzi înainte de ora 17:00.",
+            "en": "A winter bike tour offers crisp air and wonderfully empty paths. Start warmly dressed at the Town Hall and visit the quiet church. Reach the windy northern beaches at noon, then cycle towards La Vierge. The afternoon leads you to Grande Plage; keep an eye on the fading daylight. Finish your tour at the museum to warm up before total darkness sets in at 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Mairie de Fouras",
+                "hu": "Fouras Városháza",
+                "ro": "Primăria Fouras",
+                "en": "Fouras Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Handschuhe beim Start; die Kälte am Lenker ist am frühen Wintermorgen auf den offenen Plätzen besonders intensiv.",
+                "hu": "Viseljen szélálló kesztyűt az induláshoz; a kormány hidege a kora téli reggelen a nyílt tereken különösen metsző és kellemetlen tud lenni.",
+                "ro": "Purtați mănuși rezistente la vânt pentru început; frigul ghidonului este deosebit de intens în piețele deschise în diminețile reci de iarnă.",
+                "en": "Wear windproof gloves for the start; the cold of the handlebars can be particularly biting in open areas during early winter mornings."
+              }
+            },
+            {
+              "name": {
+                "de": "Église Saint-Gaudens",
+                "hu": "Saint-Gaudens templom",
+                "ro": "Biserica Saint-Gaudens",
+                "en": "Saint-Gaudens Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Aufwärmen im Inneren; achten Sie darauf, dass Ihr Körper durch den kalten Fahrtwind beim Radfahren nicht zu sehr auskühlt.",
+                "hu": "Rövid megálló a benti felmelegedéshez; ügyeljen rá, hogy a menetszél miatt teste ne hűljön ki túlságosan a megállók közötti tekerés alatt.",
+                "ro": "O scurtă oprire pentru a vă încălzi în interior; aveți grijă ca vântul din timpul mersului pe bicicletă să nu vă răcească prea tare corpul.",
+                "en": "A brief stop to warm up inside; make sure your body doesn't get too chilled from the biting wind while cycling between the different stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Nord",
+                "hu": "Plage Nord",
+                "ro": "Plaja Nord",
+                "en": "North Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Winterwind kann hier sehr stark sein; treten Sie kräftig in die Pedale, um die Körpertemperatur auf dem offenen Küstenabschnitt hochzuhalten.",
+                "hu": "A téli szél itt igen erős lehet; tekerjen tempósan, hogy testhőmérséklete ne essen le a nyílt és szeles partszakaszon való áthaladás közben.",
+                "ro": "Vântul de iarnă poate fi foarte puternic aici; pedalați cu viteză constantă pentru a vă menține temperatura corpului ridicată pe malul mării.",
+                "en": "The winter wind can be very strong here; keep a steady, brisk pace to maintain your body heat while on this open and exposed coastal stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "La Vierge",
+                "hu": "La Vierge",
+                "ro": "La Vierge",
+                "en": "La Vierge Landmark"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht bei klarer Winterluft ist fantastisch; halten Sie kurz an, aber bleiben Sie in Bewegung, um bei der Kälte nicht zu schnell zu frieren.",
+                "hu": "A kilátás a tiszta téli levegőben fantasztikus; álljon meg egy pillanatra a fotóhoz, de maradjon mozgásban, hogy ne fázzon meg a szélben.",
+                "ro": "Vederea în aerul clar de iarnă este fantastică; opriți-vă pentru un moment, dar rămâneți în mișcare pentru a nu îngheța în vântul de coastă.",
+                "en": "The views in the clear winter air are fantastic; stop for a quick photo, but keep moving to prevent getting a chill from the coastal breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Vierge",
+                "hu": "Plage de la Vierge",
+                "ro": "Plaja La Vierge",
+                "en": "La Vierge Beach"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf gefrorene Stellen auf den Wegen; im Winter kann Feuchtigkeit auf dem Asphalt oder Sand schnell zu Glatteis führen.",
+                "hu": "Ügyeljen a fagyott foltokra az utakon; télen a nedvesség az aszfalton vagy a tömörödött homokon gyorsan jegessé és veszélyessé válhat.",
+                "ro": "Atenție la porțiunile înghețate de pe drum; iarna, umezeala de pe asfalt sau nisip se poate transforma rapid în gheață foarte periculoasă.",
+                "en": "Watch out for frozen patches on the paths; in winter, moisture on the asphalt or packed sand can quickly turn into dangerous black ice."
+              }
+            },
+            {
+              "name": {
+                "de": "Grande Plage",
+                "hu": "Grande Plage",
+                "ro": "Plaja Mare (Grande Plage)",
+                "en": "Grande Plage Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Sonne steht am Nachmittag tief; tragen Sie eine Sonnenbrille, um trotz der hellen Reflexionen auf dem Meer sicher und ungestört zu fahren.",
+                "hu": "A nap délután alacsonyan jár; viseljen napszemüveget, hogy a vízről visszaverődő éles fény ne zavarja a biztonságos és kényelmes haladást.",
+                "ro": "Soarele este jos după-amiaza; purtați ochelari de soare pentru a vedea drumul clar în ciuda reflexiilor puternice ale apei de pe faleză.",
+                "en": "The sun is low in the afternoon; wear sunglasses to ensure you can see clearly despite the strong and sharp reflections off the sea surface."
+              }
+            },
+            {
+              "name": {
+                "de": "Musee Régional de Fouras",
+                "hu": "Fouras-i Regionális Múzeum",
+                "ro": "Muzeul Regional Fouras",
+                "en": "Regional Museum of Fouras"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr hier an; das Museum ist der perfekte Ort, um den Tag im Warmen zu beenden, wenn draußen die Dämmerung einsetzt.",
+                "hu": "Érkezzen meg 17:00 előtt; a múzeum tökéletes hely, hogy melegben fejezze be a napot, amikor odakint már leszáll a téli alkonyat.",
+                "ro": "Ajungeți aici înainte de ora 17:00; muzeul este locul perfect pentru a încheia ziua la căldură, pe măsură ce afară se lasă amurgul.",
+                "en": "Arrive here before 17:00; the museum is the perfect place to wrap up your day in the warmth as winter twilight begins to set in outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +825,168 @@
         "hu": "Autózzon reggel a Plage de l'Espérance partjára a friss tengeri szellőért. Később irány a Plage Sud, majd a Regionális Múzeum, ahol elmerülhet a helyi történelemben. Délután a Création 2 ouf modern művészete várja, mielőtt a Plage de la Vierge partján búcsúztatná a napot.",
         "ro": "Conduceți dimineața spre Plage de l'Espérance pentru o briză proaspătă, apoi mergeți la Plage Sud și la Muzeul Regional pentru istorie locală. După-amiaza, galeria Création 2 ouf vă oferă artă modernă, înainte de a vă încheia călătoria cu un apus relaxant la Plage de la Vierge.",
         "en": "Drive in the morning to Plage de l'Espérance for a fresh sea breeze. Continue to Plage Sud and the Regional Museum to dive into local history. In the afternoon, the Création 2 ouf gallery offers modern art, before you end your day at the tranquil Plage de la Vierge."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Fahrt entlang der Küste, während der Regen gegen die Scheiben trommelt. Der Vormittag an der Plage de l'Espérance bietet dramatische Ausblicke aus dem trockenen Auto. Mittags und nachmittags sind das Museum und die Galerie ideale Ziele, um dem Wetter zu entfliehen. Beenden Sie den Tag mit einer Fahrt zur Plage de la Vierge, bevor Sie in den gemütlichen Abend starten.",
+            "hu": "Élvezze a tengerparti autózást, miközben az eső a szélvédőn kopog. A délelőtt a Plage de l'Espérance-nál drámai kilátást nyújt a száraz autóból. Délben és délután a Regionális Múzeum és a galéria tökéletes célpontok, hogy elmeneküljön a rossz idő elől. Zárja a napot egy rövid autózással a Plage de la Vierge-hez, mielőtt megkezdené a kényelmes esti pihenőt.",
+            "ro": "Bucurați-vă de drumul de-a lungul coastei în timp ce ploaia bate în parbriz. Dimineața la Plaja Espérance oferă vederi dramatice din mașina uscată. La prânz și după-amiază, Muzeul Regional și galeria sunt destinații ideale pentru a scăpa de ploaie. Încheiați ziua cu o scurtă plimbare cu mașina până la Plaja La Vierge înainte de un program de seară relaxant.",
+            "en": "Enjoy the coastal drive while the rain drums against your windshield. The morning at Espérance Beach offers dramatic sea views from the dry comfort of your car. At noon and afternoon, the Regional Museum and the gallery are ideal spots to escape the wet weather. End the day with a short drive to La Vierge Beach before heading to a cozy evening destination."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de l'Espérance",
+                "hu": "Plage de l'Espérance",
+                "ro": "Plaja Espérance",
+                "en": "Espérance Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer direkt aus Ihrem Fahrzeug; parken Sie so, dass Sie eine gute Sicht haben, ohne im Regen aussteigen zu müssen.",
+                "hu": "Figyelje a viharos tengert közvetlenül a járművéből; parkoljon úgy, hogy jó kilátása legyen anélkül, hogy ki kellene szállnia a szakadó esőbe.",
+                "ro": "Urmăriți marea agitată direct din vehicul; parcați astfel încât să aveți o vedere bună fără a fi nevoie să coborâți afară în ploaia densă.",
+                "en": "Watch the stormy sea directly from your vehicle; park in a spot that offers a great view without the need to step out into the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Sud",
+                "hu": "Plage Sud",
+                "ro": "Plaja Sud",
+                "en": "South Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für ein Foto; nutzen Sie den nahen Parkplatz, um den Weg im Regen so kurz wie möglich zu halten und schnell wieder im Auto zu sein.",
+                "hu": "Csak egy rövid megálló egy fotó erejéig; használja a közeli parkolót, hogy az esőben megtett séta a lehető legrövidebb és leggyorsabb legyen.",
+                "ro": "O scurtă oprire pentru o fotografie; folosiți parcarea din apropiere pentru a menține drumul prin ploaie cât mai scurt și a reveni rapid în mașină.",
+                "en": "A quick stop for a photo; use the nearby parking area to keep your time walking in the rain to an absolute minimum and get back to safety quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Musee Régional de Fouras",
+                "hu": "Fouras-i Regionális Múzeum",
+                "ro": "Muzeul Regional Fouras",
+                "en": "Regional Museum of Fouras"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Auto und verbringen Sie hier viel Zeit im Trockenen; die Ausstellungen sind der beste Ort in der Stadt bei anhaltendem Regen.",
+                "hu": "Parkoljon le, és töltsön itt sok időt szárazon; a kiállítások a legjobb helyszínek a városban, ha tartós és intenzív esővel állunk szemben.",
+                "ro": "Parcați mașina și petreceți mult timp la uscat; expozițiile sunt cel mai bun refugiu din oraș în cazul unei ploi persistente și reci.",
+                "en": "Park your car and spend plenty of time staying dry inside; the exhibitions are the best place to be in town during persistent and heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Création 2 ouf",
+                "hu": "Création 2 ouf",
+                "ro": "Création 2 ouf",
+                "en": "Création 2 ouf Gallery"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diese Galerie, um Kunst im Inneren zu genießen; achten Sie beim Aussteigen auf tiefe Pfützen auf dem unebenen Parkplatzgelände.",
+                "hu": "Látogasson el ebbe a galériába, hogy bent élvezze a művészetet; kiszálláskor ügyeljen az egyenetlen parkolóban összegyűlt mély tócsákra.",
+                "ro": "Vizitați această galerie pentru a vă bucura de artă în interior; atenție la bălțile adânci din parcarea denivelată când coborâți din mașină.",
+                "en": "Visit this gallery to enjoy art indoors; be careful of deep puddles on the uneven parking area when getting out of your vehicle during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Vierge",
+                "hu": "Plage de la Vierge",
+                "ro": "Plaja La Vierge",
+                "en": "La Vierge Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrtswege können bei Regen rutschig sein; fahren Sie langsam und parken Sie auf befestigtem Grund, um auf weichem Boden nicht steckenzubleiben.",
+                "hu": "A bekötőutak csúszósak lehetnek esőben; vezessen lassan, és parkoljon szilárd burkolaton, hogy ne akadjon el a felázott, sáros talajon.",
+                "ro": "Drumurile de acces pot fi alunecoase pe ploaie; conduceți încet și parcați pe teren solid pentru a nu rămâne blocat în noroiul moale.",
+                "en": "Access roads can be slippery in rain; drive slowly and make sure to park on solid ground to avoid getting stuck in the soft, muddy soil."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Erkunden Sie Fouras im Winter bequem mit dem Auto. Der Morgen an der Plage de l'Espérance zeigt die ruhige, frostige Küste. Mittags und nachmittags bieten das Museum und die Galerie warme kulturelle Erlebnisse. Achten Sie auf den Sonnenuntergang gegen 17:00 Uhr an der Plage de la Vierge. Nutzen Sie die Heizung Ihres Wagens, um zwischen den Stopps angenehm warm zu bleiben.",
+            "hu": "Fedezze fel Fourast télen kényelmesen, autóval. A reggel a Plage de l'Espérance-nál a csendes, déres partot mutatja be a látogatóknak. Délben és délután a múzeum és a galéria kínál meleg kulturális élményeket. Figyelje a 17:00 körüli naplementét a Plage de la Vierge-nél, mielőtt befejezné a napot. Használja az autó fűtését a megállók közötti szakaszokon.",
+            "ro": "Explorați Fouras iarna confortabil cu mașina. Dimineața la Plaja Espérance dezvăluie coasta liniștită și înghețată. La prânz și după-amiază, muzeul și galeria oferă experiențe culturale la căldură. Urmăriți apusul în jurul orei 17:00 la Plaja La Vierge înainte de a încheia ziua. Folosiți încălzirea mașinii pentru a rămâne confortabil între opriri.",
+            "en": "Explore Fouras in winter from the comfort of your car. The morning at Espérance Beach reveals the quiet, frosty coastline. At noon and afternoon, the museum and gallery offer warm cultural experiences. Catch the vibrant sunset around 17:00 at La Vierge Beach before wrapping up your day. Use your car's heater to stay warm and cozy between each stop."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Plage de l'Espérance",
+                "hu": "Plage de l'Espérance",
+                "ro": "Plaja Espérance",
+                "en": "Espérance Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplätze können morgens vereist sein; achten Sie auf Glätte beim Aussteigen aus dem warmen Auto für einen kurzen Blick auf das Meer.",
+                "hu": "A parkolók reggel jegesek lehetnek; ügyeljen a csúszásveszélyre, amikor kiszáll a meleg autóból egy gyors, frissítő tengerparti körülnézésre.",
+                "ro": "Parcările pot fi înghețate dimineața; aveți grijă la polei când coborâți din mașina caldă pentru o scurtă privire spre marea rece.",
+                "en": "Parking areas may be icy in the morning; watch your step for black ice when stepping out of your warm car for a quick look at the winter sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage Sud",
+                "hu": "Plage Sud",
+                "ro": "Plaja Sud",
+                "en": "South Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Einsamkeit am Strand; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht gemütlich aus dem Auto genießen.",
+                "hu": "Élvezze a téli magányt a tengerparton; ne járassa feleslegesen a motort, miközben az autóból csodálja a hideg színekben játszó kilátást.",
+                "ro": "Bucurați-vă de singurătatea hibernală de pe plajă; nu lăsați motorul pornit inutil în timp ce admirați vederea de coastă din confortul mașinii.",
+                "en": "Enjoy the winter solitude on the beach; remember not to leave your engine idling unnecessarily while enjoying the coastal view from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Musee Régional de Fouras",
+                "hu": "Fouras-i Regionális Múzeum",
+                "ro": "Muzeul Regional Fouras",
+                "en": "Regional Museum of Fouras"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist gut beheizt; parken Sie direkt davor für minimalen Kontakt mit der Kälte und genießen Sie die maritime Geschichte im Warmen.",
+                "hu": "A múzeum jól fűtött, ideális megálló a felmelegedéshez; parkoljon közvetlenül előtte, hogy csak minimális ideig kelljen a kinti hidegben tartózkodnia.",
+                "ro": "Muzeul este bine încălzit; parcați chiar în față pentru un contact minim cu frigul de afară și bucurați-vă de istoria maritimă la căldură.",
+                "en": "The museum is well-heated; park as close as possible to minimize your exposure to the cold and enjoy the maritime history in a warm environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Création 2 ouf",
+                "hu": "Création 2 ouf",
+                "ro": "Création 2 ouf",
+                "en": "Création 2 ouf Gallery"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Innenraum für Kunstliebhaber; nutzen Sie diesen Stopp am Nachmittag, um der beißenden und kalten Meeresbrise kurz zu entkommen.",
+                "hu": "Hangulatos belsőtér a művészetkedvelőknek; használja ki ezt a megállót délután, hogy elmeneküljön a metsző és hideg tengeri szél elől.",
+                "ro": "Un spațiu interior primitor pentru iubitorii de artă; folosiți această oprire după-amiaza pentru a scăpa de briza tăioasă și rece a mării.",
+                "en": "A cozy indoor space for art lovers; make use of this stop in the afternoon to escape the biting and persistent winter sea breeze for a while."
+              }
+            },
+            {
+              "name": {
+                "de": "Plage de la Vierge",
+                "hu": "Plage de la Vierge",
+                "ro": "Plaja La Vierge",
+                "en": "La Vierge Beach"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang um 17:00 Uhr direkt vom Beifahrersitz aus; so genießen Sie das Farbspektrum ganz ohne in der Kälte zu frieren.",
+                "hu": "Nézze meg a 17:00 órai naplementét közvetlenül az anyósülésről; így fázás nélkül élvezheti a színek pompás játékát a jeges vízen.",
+                "ro": "Urmăriți apusul de la ora 17:00 direct de pe scaunul pasagerului; astfel vă puteți bucura de spectacolul culorilor fără a simți frigul de afară.",
+                "en": "Watch the 17:00 sunset directly from your car seat; this way you can enjoy the beautiful spectrum of colors without feeling the intense winter chill."
+              }
+            }
+          ]
+        }
       }
     }
   }

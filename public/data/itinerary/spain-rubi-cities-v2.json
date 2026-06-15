@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a történelmi városháza elegáns homlokzatának megcsodálásával, majd töltsön el egy csendes pillanatot a román stílusú Sant Pere templomban.\n\nDélben a Castell de Rubí várja, ahol egy ősi erődítmény falai között merülhet el a város lenyűgöző és gazdag történelmében.\n\nDélután fedezze fel az El Celler modernista építészetét és a Teatre La Sala élénk, helyi kulturális hangulatát a városközpontban.\n\nZárja a napot az ókori római romok közötti sétával, elgondolkodva e régió mély, több ezer éves történelmi múltján és örökségén.",
         "ro": "Începeți dimineața explorând primăria istorică, admirând fațada sa elegantă din secolul al XIX-lea, urmată de un moment de liniște la Sant Pere.\n\nLa prânz ajungeți la Castell de Rubí, unde puteți aprofunda istoria locală fascinantă în interiorul unei fortărețe antice uimitoare.\n\nDupă-amiaza, descoperiți arhitectura modernistă de la El Celler și atmosfera culturală vibrantă oferită de Teatre La Sala din centru.\n\nÎncheiați-vă ziua rătăcind prin vechile ruine romane, reflectând la istoria profundă și la patrimoniul incredibil al acestei regiuni.",
         "en": "Begin your morning exploring the historic Ajuntament, enjoying the 19th-century facade, followed by a quiet moment at the Romanesque Sant Pere.\n\nMidday brings you to the Castell de Rubí, where you can delve into fascinating local history within an impressively preserved ancient fortress.\n\nIn the afternoon, dive into the modernist architecture of El Celler and the vibrant local cultural vibe of Teatre La Sala.\n\nConclude your day wandering through the ancient Roman ruins, reflecting on the deep history and incredible heritage of the region."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus, wo die Arkaden Schutz vor dem Regen bieten. Mittags laden die dicken Mauern der Burg und der Kirche ein, die Geschichte Rubís im Trockenen zu erkunden. Am Nachmittag bietet das Theater oder das Kulturzentrum einen warmen Rückzugsort. Abends glänzen die nassen Gassen im Laternenlicht; achten Sie auf rutschige Pflastersteine und nutzen Sie die Passagewege.",
+            "hu": "Reggel a városháza árkádjai alatt kezdünk, védve az esőtől. Délben a vár és a templom fedett terei kínálnak menedéket a történelem felfedezéséhez. Délután a színház előcsarnoka ideális hely a nagyobb zuhé megvárására. Este a vizes aszfalton megcsillannak a város fényei; viseljünk vízálló cipőt a csúszós járdákon, és élvezzük a friss eső illatát a csendes utcákon.",
+            "ro": "Dimineața începe la primărie, unde arcadele oferă adăpost împotriva burniței. La prânz, zidurile groase ale castelului și bisericii vă permit să explorați istoria rămânând uscați. După-amiaza, holul teatrului este locul perfect pentru a aștepta trecerea ploii. Seara, străzile umede strălucesc sub felinare; atenție la pavajul alunecos și folosiți încălțăminte impermeabilă.",
+            "en": "Morning starts at the town hall, where the arches provide shelter from the drizzle. At noon, the thick walls of the castle and church allow you to explore history while staying dry. In the afternoon, the theater lobby is the perfect spot to wait out a downpour. Evening brings a special glow to the wet streets; watch out for slippery stones and ensure you have waterproof footwear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament de Rubí",
+                "hu": "Ajuntament de Rubí",
+                "ro": "Ajuntament de Rubí",
+                "en": "Ajuntament de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die prachtvollen Innenräume des Rathauses und suchen Sie bei starkem Regen Schutz unter den historischen Arkaden des Platzes; ein stabiler Regenschirm ist heute Pflicht.",
+                "hu": "Nézze meg a városháza belső udvarát és a történelmi dokumentumokat, miközben az árkádok alatt védve marad az esőtől; mindenképpen vigyen magával egy strapabíró esernyőt.",
+                "ro": "Vizitați interiorul primăriei și admirați documentele istorice în timp ce vă adăpostiți sub arcadele pieței; nu uitați să aveți la îndemână o umbrelă rezistentă la vânt.",
+                "en": "Visit the interior of the town hall and admire the historical documents while staying protected under the square's arches; be sure to carry a sturdy umbrella today."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Pere de Rubí",
+                "hu": "Sant Pere de Rubí",
+                "ro": "Sant Pere de Rubí",
+                "en": "Sant Pere de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen friedlichen und trockenen Rückzugsort, um die romanischen Details zu bewundern; achten Sie beim Betreten auf die glatten Stufen am Eingangsbereich.",
+                "hu": "A templom békés és száraz menedéket nyújt a román stílusú részletek megcsodálásához; a bejáratnál fokozottan ügyeljen a vizes és csúszós kőlépcsőkre.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat pentru a admira detaliile romanice; aveți mare grijă la treptele de piatră de la intrare care devin foarte alunecoase când plouă.",
+                "en": "The church offers a peaceful and dry refuge to admire its Romanesque details; take extra care on the stone entrance steps which become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rubí",
+                "hu": "Castell de Rubí",
+                "ro": "Castell de Rubí",
+                "en": "Castell de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Regenpause für den Museumsbesuch im Inneren der Burg, wo Sie die lokale Geschichte ohne nass zu werden entdecken können; der Burggraben kann heute sehr schlammig sein.",
+                "hu": "Használja ki az esős időt a vár belső múzeumának felfedezésére, ahol szárazon ismerheti meg a helyi történelmet; a várárok környéke ilyenkor sáros és nehezen járható lehet.",
+                "ro": "Profită de vremea ploioasă pentru a vizita muzeul din interiorul castelului, unde poți descoperi istoria locală la adăpost; zona șanțului de apărare poate fi foarte noroioasă astăzi.",
+                "en": "Take advantage of the rainy weather to explore the museum inside the castle, where you can learn local history while staying dry; the moat area can be very muddy today."
+              }
+            },
+            {
+              "name": {
+                "de": "El Celler",
+                "hu": "El Celler",
+                "ro": "El Celler",
+                "en": "El Celler"
+              },
+              "tip_5lang": {
+                "de": "Dieses modernistische Juwel bietet weitläufige Innenräume zur Besichtigung der alten Weinfässer; vermeiden Sie den Aufenthalt im ungeschützten Innenhof während starker Schauer.",
+                "hu": "Ez a modernista gyöngyszem tágas belső tereket kínál a régi boroshordók megtekintéséhez; heves esőzés idején kerülje a nyitott belső udvaron való tartózkodást.",
+                "ro": "Această bijuterie modernistă oferă spații interioare generoase pentru a vedea vechile butoaie de vin; evitați curtea interioară neacoperită în timpul averselor puternice.",
+                "en": "This modernist gem offers spacious indoor areas to view the old wine vats; avoid staying in the uncovered inner courtyard during heavy rain showers."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre La Sala",
+                "hu": "Teatre La Sala",
+                "ro": "Teatre La Sala",
+                "en": "Teatre La Sala"
+              },
+              "tip_5lang": {
+                "de": "Informieren Sie sich über das aktuelle Programm im warmen Foyer, das ein idealer Ort zum Ausruhen ist; halten Sie Ihre Regenbekleidung an der Garderobe griffbereit.",
+                "hu": "Tájékozódjon az aktuális programokról a fűtött előcsarnokban, amely ideális hely a pihenésre; tartsa készenlétben esőfelszerelését, mert az épület előtt nincs tető.",
+                "ro": "Informați-vă despre programul curent în foierul călduros, care este un loc ideal de odihnă; păstrați pelerina de ploaie la îndemână deoarece nu există copertină afară.",
+                "en": "Check the current program in the warm lobby, which is an ideal place to rest; keep your rain gear ready as there is no covered porch directly outside the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruïnes",
+                "hu": "Ruïnes",
+                "ro": "Ruïnes",
+                "en": "Ruïnes"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die archäologische Stätte nur mit festem, wasserdichtem Schuhwerk, da die Wege aufgeweicht sein können; die Steine sind bei Nässe extrem rutschig.",
+                "hu": "A régészeti lelőhelyet csak zárt, vízálló cipőben látogassa meg, mivel az ösvények felázhatnak; a romok kövei vizesen rendkívüli módon csúsznak.",
+                "ro": "Vizitați situl arheologic doar cu încălțăminte impermeabilă, deoarece potecile pot fi inundate; pietrele ruinelor devin extrem de alunecoase când sunt ude.",
+                "en": "Visit the archaeological site only with waterproof footwear, as the paths can be waterlogged; the ancient stones are extremely slippery when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch am Rathausplatz; die klare Luft bietet beste Sicht. Mittags wärmt ein Besuch im Burgmuseum auf, während man den Blick auf die verschneiten fernen Gipfel genießt. Da es bereits gegen 17:00 Uhr dunkel wird, sollte man den Nachmittag im gemütlichen Celler verbringen. Der Abend endet bei einem heißen Getränk im Zentrum, bevor die Kälte richtig einsetzt.",
+            "hu": "A téli reggel frissen indul a városháza téren; a tiszta levegő kiváló látási viszonyokat biztosít. Délben a vármúzeum fűtött termeiben melegedhetünk fel, miközben a távoli havas csúcsokat nézzük. Mivel 17:00 körül már sötétedik, a délutánt érdemes a Celler épületében tölteni. A napot egy forró itallal zárjuk a központban, mielőtt a hőmérséklet fagypont köré süllyed.",
+            "ro": "Dimineața de iarnă începe cu aer proaspăt în piața primăriei; vizibilitatea este excelentă datorită aerului rece. La prânz, vizita la muzeul castelului vă va încălzi, oferind vederi spre vârfurile muntoase îndepărtate. Deoarece se întunecă în jurul orei 17:00, petreceți după-amiaza în interiorul Celler-ului. Seara se încheie cu o băutură caldă în centru înainte de lăsarea gerului.",
+            "en": "The winter morning starts fresh at the town hall square; the crisp air offers excellent visibility. At noon, a visit to the castle museum will warm you up while offering views of distant snowy peaks. Since it gets dark around 17:00, spend your afternoon in the cozy Celler. The evening ends with a hot drink in the center before the winter chill really sets in."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ajuntament de Rubí",
+                "hu": "Ajuntament de Rubí",
+                "ro": "Ajuntament de Rubí",
+                "en": "Ajuntament de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die winterliche Dekoration auf dem Vorplatz und wärmen Sie sich kurz im Foyer auf; tragen Sie unbedingt Handschuhe für den Weg zum nächsten Stopp.",
+                "hu": "Élvezze a téli díszítést a városháza előtti téren, és melegedjen fel egy kicsit a belső aulában; a következő megállóig tartó sétához mindenképpen vegyen fel kesztyűt.",
+                "ro": "Bucurați-vă de decorațiunile de iarnă din fața primăriei și încălziți-vă puțin în holul interior; purtați mănuși pentru drumul către următoarea destinație.",
+                "en": "Enjoy the winter decorations in front of the town hall and warm up briefly in the inner lobby; be sure to wear gloves for the walk to the next stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Pere de Rubí",
+                "hu": "Sant Pere de Rubí",
+                "ro": "Sant Pere de Rubí",
+                "en": "Sant Pere de Rubí"
+              },
+              "tip_5lang": {
+                "de": "In der Kirche ist es oft kühler als draußen, also behalten Sie Ihren Mantel an; die tiefstehende Wintersonne wirft jedoch wunderschöne Lichter durch die Fenster.",
+                "hu": "A templom belsejében gyakran hűvösebb van, mint odakint, így ne vegye le a kabátját; az alacsonyan járó téli nap azonban csodás fényeket fest az ablakokon át.",
+                "ro": "În interiorul bisericii este adesea mai frig decât afară, așa că nu vă scoateți haina; soarele de iarnă creează însă jocuri de lumină superbe prin ferestre.",
+                "en": "Inside the church, it is often cooler than outside, so keep your coat on; however, the low winter sun casts beautiful light patterns through the windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rubí",
+                "hu": "Castell de Rubí",
+                "ro": "Castell de Rubí",
+                "en": "Castell de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungsräume sind gut beheizt und bieten eine perfekte Flucht vor dem kalten Wind; genießen Sie das klare Panorama von den Burgmauern aus.",
+                "hu": "A kiállítótermek jól fűtöttek, így tökéletes menedéket nyújtanak a hideg szél elől; a várfalakról élvezze a tiszta téli panorámát a közeli hegyekre.",
+                "ro": "Sălile de expoziție sunt bine încălzite, oferind un refugiu perfect împotriva vântului rece; admirați panorama clară de iarnă de pe zidurile castelului.",
+                "en": "The exhibition rooms are well-heated, providing a perfect escape from the cold wind; enjoy the clear winter panorama from the castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "El Celler",
+                "hu": "El Celler",
+                "ro": "El Celler",
+                "en": "El Celler"
+              },
+              "tip_5lang": {
+                "de": "Die massive Steinarchitektur speichert die Kälte, tragen Sie daher dicke Socken; die Innenbeleuchtung schafft im Winter eine besonders gemütliche Atmosphäre.",
+                "hu": "A masszív kőépület jól tartja a hideget, ezért javasolt a vastag zokni viselete; a belső világítás télen különlegesen meghitt hangulatot áraszt.",
+                "ro": "Arhitectura masivă din piatră reține frigul, așa că se recomandă șosete groase; iluminatul interior creează o atmosferă foarte primitoare iarna.",
+                "en": "The massive stone architecture retains the cold, so thick socks are recommended; the indoor lighting creates a particularly cozy atmosphere in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Teatre La Sala",
+                "hu": "Teatre La Sala",
+                "ro": "Teatre La Sala",
+                "en": "Teatre La Sala"
+              },
+              "tip_5lang": {
+                "de": "Ideal für einen Stopp am späten Nachmittag, wenn die Außentemperaturen sinken; prüfen Sie, ob es eine weihnachtliche Aufführung im Programm gibt.",
+                "hu": "Ideális megálló késő délután, amikor a kinti hőmérséklet hirtelen süllyedni kezd; nézze meg, van-e az ünnepi időszakhoz kötődő előadás a műsoron.",
+                "ro": "O oprire ideală după-amiaza târziu, când temperaturile exterioare scad brusc; verificați dacă există spectacole tematice de sărbători în program.",
+                "en": "An ideal stop for the late afternoon when outdoor temperatures drop sharply; check if there are any holiday-themed performances on the schedule."
+              }
+            },
+            {
+              "name": {
+                "de": "Ruïnes",
+                "hu": "Ruïnes",
+                "ro": "Ruïnes",
+                "en": "Ruïnes"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ruinen unbedingt vor Sonnenuntergang um 17:00 Uhr, da es danach schnell dunkel und frostig wird; festes Schuhwerk gegen Bodenkälte ist wichtig.",
+                "hu": "Mindenképpen látogasson el ide a 17:00 órás naplemente előtt, mert utána gyorsan sötét és fagyos lesz; a talajmenti hideg ellen fontos a vastag talpú cipő.",
+                "ro": "Vizitați ruinele neapărat înainte de apusul soarelui de la ora 17:00, deoarece se face repede frig și întuneric; încălțămintea cu talpă groasă este esențială.",
+                "en": "Be sure to visit before the 17:00 sunset, as it gets dark and frosty very quickly afterwards; thick-soled shoes are essential against the cold ground."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Kezdje egy frissítő kerékpározással a történelmi Pont de Can Claveri vízvezetékhez, majd tekerjen a központi városházához, hogy megcsodálja a helyi építészetet.\n\nDélben látogasson el a gyönyörű Sant Pere templomba, mielőtt a Castell de Rubí felé veszi az irányt, hogy elmélyedjen a város lenyűgöző és izgalmas történelmében.\n\nDélután élvezze a csodálatos tájat és a festői kilátást a Mirador camino Can Tiraries kilátópontról, amely tökéletes helyszín a természetfotózáshoz.\n\nFejezze be kerékpáros kalandját alkonyatkor a békés Ermita Sant Muç kápolnánál, ahol a vidéki hagyományok tökéletes harmóniában találkoznak a csenddel.",
         "ro": "Începeți cu o plimbare revigorantă cu bicicleta la apeductul Pont de Can Claveri, apoi pedalați spre primăria centrală pentru a admira arhitectura locală superbă.\n\nLa prânz vizitați frumoasa biserică Sant Pere înainte de a pedala spre Castell de Rubí pentru o scufundare profundă în trecutul istoric fascinant al orașului.\n\nBucurați-vă de după-amiaza admirând peisajele panoramice de la Mirador camino Can Tiraries, un loc perfect și liniștit pentru iubitorii de natură.\n\nTerminați-vă aventura ciclistă la amurg la tranquila Ermita Sant Muç, unde tradiția rurală se împletește perfect cu liniștea absolută a naturii.",
         "en": "Begin with a refreshing morning ride to the historic Pont de Can Claveri aqueduct, then cycle to the central Ajuntament to appreciate the lovely local architecture.\n\nBy midday, visit the beautiful Sant Pere church before pedaling to the imposing Castell de Rubí for a deep and fascinating dive into the town's rich past.\n\nEnjoy the afternoon taking in the scenic landscapes and picturesque views from the Mirador camino Can Tiraries, a perfect spot for nature enthusiasts.\n\nFinish your cycling adventure at dusk at the tranquil Ermita Sant Muç, where enduring rural tradition meets pristine silence in a beautifully serene setting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt am Pont de Can Claveri, wo bei Nässe Vorsicht geboten ist. Die Route führt zum Rathaus und zur Burg, wo man längere Pausen im Trockenen einlegen kann. Mittags sind die Wege durch den Wald oft schlammig, daher empfiehlt sich ein vorsichtiger Fahrstil. Am Abend erreichen Sie Sant Muç; achten Sie auf die Sichtverhältnisse bei Regen und nutzen Sie gute Beleuchtung.",
+            "hu": "A nap a Pont de Can Claveri hídnál indul, ahol vizes időben fokozott figyelem kell. Az útvonal a városháza és a vár felé vezet, ahol hosszabb pihenőket tarthatunk fedett helyen. Délben az erdei utak sárosak lehetnek, így óvatos tempót válasszunk. Este Sant Muç felé haladva ügyeljünk a látási viszonyokra, és használjunk erős kerékpáros lámpákat az esőben.",
+            "ro": "Ziua începe la Pont de Can Claveri, unde este necesară prudență sporită pe carosabil ud. Traseul continuă spre primărie și castel, oferind ocazii pentru pauze lungi la adăpost. La prânz, drumurile forestiere pot fi noroioase, deci adoptați un stil de condus prudent. Seara ajungeți la Sant Muç; atenție la vizibilitatea redusă și folosiți lumini puternice pe ploaie.",
+            "en": "The day starts at Pont de Can Claveri, where caution is needed on wet surfaces. The route leads to the town hall and castle, offering chances for long breaks under cover. At noon, forest paths may be muddy, so maintain a cautious riding style. In the evening, head to Sant Muç; watch the visibility in the rain and ensure your bike lights are working well."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pont de Can Claveri",
+                "hu": "Pont de Can Claveri",
+                "ro": "Pont de Can Claveri",
+                "en": "Pont de Can Claveri"
+              },
+              "tip_5lang": {
+                "de": "Die Brückenoberfläche ist bei Regen extrem rutschig, bremsen Sie daher frühzeitig und vorsichtig; tragen Sie unbedingt eine wasserdichte Regenjacke beim Fahren.",
+                "hu": "A híd felülete esőben rendkívül csúszós, ezért időben és óvatosan fékezzen; tekerés közben feltétlenül viseljen teljesen vízhatlan esőkabátot.",
+                "ro": "Suprafața podului este extrem de alunecoasă pe ploaie, așa că frânați din timp și cu grijă; purtați neapărat o jachetă de ploaie impermeabilă în timp ce pedalați.",
+                "en": "The bridge surface is extremely slippery in the rain, so brake early and carefully; be sure to wear a fully waterproof rain jacket while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Rubí",
+                "hu": "Ajuntament de Rubí",
+                "ro": "Ajuntament de Rubí",
+                "en": "Ajuntament de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter den Arkaden ab, um es vor dem Regen zu schützen, während Sie das Gebäude besichtigen; prüfen Sie Ihre Bremsbeläge nach der Fahrt.",
+                "hu": "A városháza megtekintése idejére láncolja le kerékpárját az árkádok alá, hogy megvédje az esőtől; a vizes út után ellenőrizze a fékbetétek állapotát.",
+                "ro": "Parcați bicicleta sub arcade pentru a o proteja de ploaie în timp ce vizitați clădirea; verificați starea saboților de frână după parcurgerea drumului ud.",
+                "en": "Park your bike under the arches to protect it from the rain while you visit the building; check your brake pads after riding on wet roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Pere de Rubí",
+                "hu": "Sant Pere de Rubí",
+                "ro": "Sant Pere de Rubí",
+                "en": "Sant Pere de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Eingangsbereich der Kirche für eine kurze Trinkpause im Trockenen; achten Sie auf Fußgänger mit Regenschirmen in den schmalen Gassen.",
+                "hu": "Használja a templom fedett bejárati részét egy rövid, száraz frissítő szünetre; a szűk utcákban ügyeljen az esernyővel közlekedő gyalogosokra.",
+                "ro": "Folosiți zona acoperită de la intrarea bisericii pentru o scurtă pauză de hidratare la uscat; atenție la pietonii cu umbrele pe străzile înguste.",
+                "en": "Use the covered entrance area of the church for a short, dry hydration break; watch out for pedestrians with umbrellas in the narrow streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rubí",
+                "hu": "Castell de Rubí",
+                "ro": "Castell de Rubí",
+                "en": "Castell de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie hier eine längere Pause ein, um das Museum zu besuchen, während ein Schauer vorbeizieht; die Auffahrt zur Burg kann bei Nässe rutschig sein.",
+                "hu": "Tervezzen ide hosszabb pihenőt a múzeumlátogatáshoz, amíg elvonul az eső; a várba vezető emelkedő vizesen komoly figyelmet igényel a csúszásveszély miatt.",
+                "ro": "Planificați o pauză mai lungă aici pentru a vizita muzeul în timp ce trece ploaia; urcarea spre castel poate fi dificilă pe carosabil umed.",
+                "en": "Plan a longer break here to visit the museum while a rain shower passes; the climb up to the castle requires extra attention due to slippery conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador camino Can Tiraries",
+                "hu": "Mirador camino Can Tiraries",
+                "ro": "Mirador camino Can Tiraries",
+                "en": "Mirador camino Can Tiraries"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen ist die Fernsicht oft durch Nebel eingeschränkt, was der Landschaft eine mystische Note verleiht; der unbefestigte Weg kann sehr weich und matschig sein.",
+                "hu": "Esőben a kilátást gyakran köd korlátozza, ami misztikus hangulatot ad a tájnak; a nem aszfaltozott út ilyenkor nagyon felázhat és sáros lehet.",
+                "ro": "Pe ploaie, vizibilitatea de la belvedere este adesea limitată de ceață; drumul neasfaltat poate fi foarte moale și plin de noroi în această perioadă.",
+                "en": "In the rain, the view is often limited by fog, giving the landscape a mystical feel; the unpaved path can be very soft and muddy now."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Muç;Ermita Sant Muç",
+                "hu": "Sant Muç;Ermita Sant Muç",
+                "ro": "Sant Muç;Ermita Sant Muç",
+                "en": "Sant Muç;Ermita Sant Muç"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach der Ermita, bevor Sie den Rückweg antreten; achten Sie bei der Abfahrt auf Pfützen, die tiefe Schlaglöcher verbergen können.",
+                "hu": "Keressen menedéket az ermita előtetője alatt, mielőtt elindulna visszafelé; a lejtőn ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek.",
+                "ro": "Căutați adăpost sub streașina ermitei înainte de a porni înapoi; la coborâre, atenție la bălțile care pot ascunde gropi adânci în drum.",
+                "en": "Seek shelter under the hermitage porch before heading back; on the descent, watch out for puddles that might hide deep potholes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag ist ideal für diese Tour, starten Sie aber erst, wenn der Frost von den Wegen gewichen ist. Mittags bietet die Burg eine willkommene Aufwärmpause. Die Auffahrt zum Mirador belohnt Sie mit einer weiten Sicht in der kalten, trockenen Luft. Da die Sonne bereits um 17:00 Uhr untergeht, sollten Sie Sant Muç am frühen Nachmittag erreichen, um nicht in der Dunkelheit radeln zu müssen.",
+            "hu": "A tiszta téli nap ideális erre a túrára, de csak akkor induljon, ha a fagy már felszakadt az utakról. Délben a vár fűtött múzeuma kínál remek lehetőséget a felmelegedésre. A kilátóhoz vezető út végén a hideg, száraz levegőben messzire ellátni. Mivel 17:00-kor már sötétedik, Sant Muçot kora délután érje el, hogy elkerülje az esti hidegben való tekerést.",
+            "ro": "O zi senină de iarnă este ideală pentru acest traseu, dar porniți la drum doar după ce gheața s-a topit de pe șosea. La prânz, castelul oferă o pauză de încălzire binevenită. Urcarea spre belvedere vă răsplătește cu o vizibilitate excelentă în aerul rece. Deoarece soarele apune la 17:00, ajungeți la Sant Muç devreme pentru a evita pedalatul pe întuneric.",
+            "en": "A clear winter day is ideal for this tour, but start only after the frost has cleared from the paths. At noon, the castle museum offers a welcome warming break. The climb to the viewpoint rewards you with vast views in the cold, dry air. Since the sun sets at 17:00, aim to reach Sant Muç in the early afternoon to avoid cycling in the dark."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Pont de Can Claveri",
+                "hu": "Pont de Can Claveri",
+                "ro": "Pont de Can Claveri",
+                "en": "Pont de Can Claveri"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif oder Glatteis auf der Brücke in den frühen Morgenstunden; tragen Sie winddichte Kleidung, da es am Fluss besonders zieht.",
+                "hu": "A kora reggeli órákban ügyeljen a zúzmarára vagy jégfoltokra a hídon; viseljen szélálló ruházatot, mert a folyó mentén erősebben fúj a hideg szél.",
+                "ro": "Atenție la chiciură sau porțiuni de gheață pe pod în primele ore ale dimineții; purtați haine rezistente la vânt, deoarece lângă râu curentul este puternic.",
+                "en": "Watch out for hoarfrost or icy patches on the bridge in the early morning hours; wear windproof clothing as it is particularly breezy by the river."
+              }
+            },
+            {
+              "name": {
+                "de": "Ajuntament de Rubí",
+                "hu": "Ajuntament de Rubí",
+                "ro": "Ajuntament de Rubí",
+                "en": "Ajuntament de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft gegen die Kälte; halten Sie Ihre Trinkflasche am Körper, damit das Wasser nicht zu sehr abkühlt.",
+                "hu": "Egy rövid belső látogatás segít a hideg elleni védekezésben; tartsa a kulacsát a kabátja alatt, hogy a vize ne hűljön le túlságosan.",
+                "ro": "O scurtă vizită în interior vă va ajuta să vă încălziți; păstrați bidonul cu apă aproape de corp pentru a preveni răcirea excesivă a lichidului.",
+                "en": "A short indoor visit helps fight off the cold; keep your water bottle close to your body to prevent the water from getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Pere de Rubí",
+                "hu": "Sant Pere de Rubí",
+                "ro": "Sant Pere de Rubí",
+                "en": "Sant Pere de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Die schattigen Gassen rund um die Kirche können im Winter sehr kalt sein; machen Sie Dehnübungen, um die Durchblutung während der Pause anzuregen.",
+                "hu": "A templom körüli árnyékos utcák télen nagyon hidegek lehetnek; végezzen néhány nyújtó gyakorlatot a pihenő alatt, hogy serkentse a vérkeringését.",
+                "ro": "Străzile umbrite din jurul bisericii pot fi foarte reci iarna; faceți câteva exerciții de stretching în timpul pauzei pentru a stimula circulația.",
+                "en": "The shaded streets around the church can be very cold in winter; do some stretching during your break to stimulate blood circulation."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rubí",
+                "hu": "Castell de Rubí",
+                "ro": "Castell de Rubí",
+                "en": "Castell de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Museumsbereich für eine ausgiebige Pause; der Blick auf die Pyrenäen ist an klaren Wintertagen oft spektakulär.",
+                "hu": "Használja ki a múzeumi rész fűtését egy kiadós pihenőre; a tiszta téli napokon a Pireneusok látványa gyakran lenyűgöző a várfalakról.",
+                "ro": "Profită de încălzirea din zona muzeului pentru o pauză lungă; în zilele senine de iarnă, vederea spre Pirinei de pe ziduri este adesea spectaculoasă.",
+                "en": "Take advantage of the heating in the museum area for a substantial break; on clear winter days, the view of the Pyrenees is often spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Mirador camino Can Tiraries",
+                "hu": "Mirador camino Can Tiraries",
+                "ro": "Mirador camino Can Tiraries",
+                "en": "Mirador camino Can Tiraries"
+              },
+              "tip_5lang": {
+                "de": "Hier oben weht im Winter oft ein scharfer Wind; ziehen Sie eine zusätzliche Schicht an, bevor Sie die Aussicht genießen und wieder abfahren.",
+                "hu": "Itt fent télen gyakran éles szél fúj; vegyen fel egy plusz réteg ruhát, mielőtt megcsodálná a kilátást és elindulna lefelé.",
+                "ro": "Aici sus vântul suflă adesea cu putere iarna; puneți-vă un strat suplimentar de haine înainte de a admira vederea și de a pleca mai departe.",
+                "en": "Up here, a sharp wind often blows in winter; put on an extra layer of clothing before enjoying the view and heading back down."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Muç;Ermita Sant Muç",
+                "hu": "Sant Muç;Ermita Sant Muç",
+                "ro": "Sant Muç;Ermita Sant Muç",
+                "en": "Sant Muç;Ermita Sant Muç"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie diesen Punkt spätestens um 15:30 Uhr, um im hellen Tageslicht zurückzukehren; die Temperaturen fallen nach Sonnenuntergang rapide ab.",
+                "hu": "Legkésőbb 15:30-ra érjen ide, hogy még nappali fényben indulhasson vissza; a hőmérséklet a naplemente után rendkívül gyorsan zuhan.",
+                "ro": "Ajungeți aici cel târziu la ora 15:30 pentru a vă putea întoarce pe lumină; temperaturile scad drastic imediat după apusul soarelui.",
+                "en": "Aim to reach this spot by 15:30 at the latest to return in daylight; temperatures drop very rapidly once the sun starts to set."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autózzon el reggel az Antic Castell de Sant Genís ősi romjaihoz, majd látogasson el a közeli, festői történelmi Ermita kápolnába a nap nyugodt és kellemes indításához.\n\nDélben az út a Turó de Can Pujolhoz vezet, ahol egy frissítő természeti szünetet tarthat, és teljes mértékben élvezheti a gyönyörű zöld környezetet és a csendet.\n\nDélután térjen vissza a városközpontba, hogy felfedezze a lenyűgöző Castell de Rubí erődöt és az El Celler lenyűgöző modernista építészeti mesterművét.\n\nZárja autós túráját egy igazán békés estével a vidéki Ermita Sant Muç kápolnánál, távol a nyüzsgő város zajától, elmélyedve a csendben.",
         "ro": "Conduceți dimineața către rămășițele antice de la Antic Castell de Sant Genís, apoi vizitați istorica Ermita din apropiere pentru a vă începe ziua relaxat.\n\nLa prânz traseul vă duce la Turó de Can Pujol, unde puteți lua o pauză revigorantă în natură și vă puteți bucura pe deplin de împrejurimile verzi și liniștite.\n\nÎntoarceți-vă în centrul orașului după-amiaza pentru a explora fascinantul Castell de Rubí și impresionanta capodoperă arhitecturală modernistă de la El Celler.\n\nÎncheiați-vă turul auto cu o seară pașnică la rurala Ermita Sant Muç, departe de agitația zgomotoasă a orașului, bucurându-vă de tăcere.",
         "en": "Drive out early to the ancient remains of Antic Castell de Sant Genís, then visit the beautifully preserved nearby historic Ermita to start your day in peace.\n\nMidday takes you up to the Turó de Can Pujol, providing a refreshing natural break where you can fully enjoy the quiet and beautifully green surroundings.\n\nReturn to the bustling town center in the afternoon to deeply explore the fascinating Castell de Rubí and the striking modernist masterpiece of El Celler.\n\nWrap up your comprehensive driving tour with a remarkably peaceful evening at the rural Ermita Sant Muç, far removed from the busy center's noise."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Tour im Auto bietet heute den besten Komfort, um Rubís Ruinen und Kirchen trotz Regens zu sehen. Starten Sie an der Ermita de Sant Genís und genießen Sie die kurzen Wege zwischen den Sehenswürdigkeiten. Mittags bietet die Burg ein trockenes Kulturprogramm. Achten Sie auf Aquaplaning auf den Landstraßen. Der Tag endet sicher am Sant Muç, wobei das Auto als perfekter Rückzugsort dient.",
+            "hu": "Az autós túra ma a legkényelmesebb módja Rubí romjainak és templomainak felfedezésének az eső ellenére. Kezdjen Sant Genísnél, és élvezze a látnivalók közötti rövid, száraz utazást. Délben a vár kínál fedett kulturális programot. Ügyeljen a vízátfolyásokra az utakon. A nap biztonságosan zárul Sant Muçnál, ahol az autó tökéletes menedéket nyújt a záporok elől.",
+            "ro": "Turul cu mașina este astăzi cea mai confortabilă modalitate de a vedea ruinele și bisericile din Rubí în ciuda ploii. Începeți la Sant Genís și profitați de drumurile scurte între obiective. La prânz, castelul oferă un program cultural la uscat. Atenție la acvaplanare pe drumurile secundare. Ziua se încheie în siguranță la Sant Muç, mașina fiind refugiul perfect.",
+            "en": "A car tour is the most comfortable way to see Rubí's ruins and churches today despite the rain. Start at Sant Genís and enjoy the short, dry drives between sights. At noon, the castle offers an indoor cultural program. Watch out for aquaplaning on the back roads. The day ends safely at Sant Muç, with your car serving as the perfect sanctuary from the showers."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antic Castell de Sant Genís",
+                "hu": "Antic Castell de Sant Genís",
+                "ro": "Antic Castell de Sant Genís",
+                "en": "Antic Castell de Sant Genís"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Zugangsweg, um den Fußweg im Regen kurz zu halten; die unbefestigten Parkflächen können sehr schlammig sein.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az esőben való gyaloglást; a nem aszfaltozott parkolók ilyenkor nagyon sárosak lehetnek.",
+                "ro": "Parcați cât mai aproape de calea de acces pentru a scurta mersul pe jos prin ploaie; zonele de parcare neasfaltate pot fi foarte noroioase acum.",
+                "en": "Park as close to the access path as possible to shorten your walk in the rain; the unpaved parking areas can be very muddy right now."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Sant Genís",
+                "hu": "Ermita de Sant Genís",
+                "ro": "Ermita de Sant Genís",
+                "en": "Ermita de Sant Genís"
+              },
+              "tip_5lang": {
+                "de": "Die kleine Kapelle bietet bei einem plötzlichen Schauer guten Schutz; achten Sie beim Ein- und Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "A kis kápolna jó menedéket nyújt egy hirtelen zápor esetén; a ki- és beszállásnál ügyeljen az út szélén felgyülemlett mély tócsákra.",
+                "ro": "Mica capelă oferă un adăpost bun în cazul unei averse bruște; atenție la bălțile adânci de la marginea drumului când urcați sau coborâți din mașină.",
+                "en": "The small chapel provides good shelter during a sudden downpour; watch out for deep puddles at the roadside when getting in or out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó de Can Pujol",
+                "hu": "Turó de Can Pujol",
+                "ro": "Turó de Can Pujol",
+                "en": "Turó de Can Pujol"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Ausblick heute lieber kurz aus dem Wagen oder mit einem Regenschirm; die Pfade im Park sind bei Nässe oft rutschig und aufgeweicht.",
+                "hu": "A kilátást ma érdemesebb az autóból vagy esernyővel élvezni; a park ösvényei vizesen gyakran csúszósak és feláztak, így csak óvatosan sétáljon.",
+                "ro": "Bucurați-vă de vedere mai degrabă din mașină sau cu o umbrelă; potecile din parc sunt adesea alunecoase și moi când plouă, deci mergeți cu atenție.",
+                "en": "Better to enjoy the view from your car or with an umbrella today; the park paths are often slippery and waterlogged when wet, so walk carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rubí",
+                "hu": "Castell de Rubí",
+                "ro": "Castell de Rubí",
+                "en": "Castell de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den befestigten Parkplatz in der Nähe für einen trockenen Zugang zum Museum; im Inneren können Sie das Regenwetter entspannt vergessen.",
+                "hu": "Használja a közeli aszfaltozott parkolót a múzeum száraz megközelítéséhez; az épület falai között kényelmesen elfelejtheti a kinti esős időt.",
+                "ro": "Folosiți parcarea asfaltată din apropiere pentru un acces uscat la muzeu; în interior puteți uita de vremea ploioasă în timp ce vizitați expozițiile.",
+                "en": "Use the nearby paved parking lot for dry access to the museum; inside the building, you can comfortably forget about the rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "El Celler",
+                "hu": "El Celler",
+                "ro": "El Celler",
+                "en": "El Celler"
+              },
+              "tip_5lang": {
+                "de": "Parkhäuser in der Innenstadt bieten Schutz für das Fahrzeug; besichtigen Sie die modernistischen Hallen in aller Ruhe, während es draußen regnet.",
+                "hu": "A belvárosi parkolóházak védelmet nyújtanak az autónak; nézze meg nyugodtan a modernista csarnokokat, amíg odakint szakad az eső.",
+                "ro": "Parcările supraetajate din centru oferă protecție pentru mașină; vizitați halele moderniste în liniște în timp ce afară plouă torențial.",
+                "en": "Downtown parking garages provide protection for your car; take your time visiting the modernist halls while it pours outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Muç;Ermita Sant Muç",
+                "hu": "Sant Muç;Ermita Sant Muç",
+                "ro": "Sant Muç;Ermita Sant Muç",
+                "en": "Sant Muç;Ermita Sant Muç"
+              },
+              "tip_5lang": {
+                "de": "Die schmale Zufahrtsstraße erfordert bei Regen wegen möglicher kleiner Steinschläge Vorsicht; parken Sie auf festem Grund unter den Bäumen.",
+                "hu": "A keskeny bekötőút esőben fokozott figyelmet igényel az esetleges apró kőomlások miatt; parkoljon szilárd talajon a fák védelmében.",
+                "ro": "Drumul îngust de acces necesită atenție sporită pe ploaie din cauza posibilelor căderi de pietre; parcați pe teren solid sub protecția copacilor.",
+                "en": "The narrow access road requires extra caution in the rain due to potential minor rockfalls; park on firm ground under the shelter of the trees."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto ist die winterliche Tour durch Rubí besonders angenehm, da man sich zwischen den Stopps immer wieder aufwärmen kann. Die Fernsicht an der Ermita de Sant Genís ist in der klaren Winterluft phänomenal. Mittags bietet die Burg eine beheizte Pause. Da die Dämmerung bereits um 17:00 Uhr einsetzt, ist die Fahrt zum Sant Muç am späten Nachmittag ideal, um die blaue Stunde zu erleben.",
+            "hu": "Autóval a téli túra Rubíban különösen kellemes, hiszen a megállók között bármikor felmelegedhetünk. A Sant Genís kápolnánál a kilátás a tiszta téli levegőben fenomenális. Délben a vár fűtött termei várnak. Mivel 17:00-kor már szürkület van, a Sant Muçhoz vezető út késő délután ideális, hogy még elkapjuk a lemenő nap utolsó fényeit.",
+            "ro": "Cu mașina, turul de iarnă în Rubí este foarte plăcut, deoarece vă puteți încălzi între opriri. Vizibilitatea la Sant Genís este fenomenală în aerul clar de iarnă. La prânz, castelul vă așteaptă cu săli încălzite. Deoarece amurgul începe la 17:00, drumul spre Sant Muç după-amiaza târziu este ideal pentru a prinde ultimele raze de soare.",
+            "en": "By car, a winter tour of Rubí is especially pleasant as you can warm up between stops. The view at Sant Genís is phenomenal in the clear winter air. At noon, the castle's heated rooms await you. Since twilight starts at 17:00, the drive to Sant Muç in the late afternoon is ideal for catching the last light of the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Antic Castell de Sant Genís",
+                "hu": "Antic Castell de Sant Genís",
+                "ro": "Antic Castell de Sant Genís",
+                "en": "Antic Castell de Sant Genís"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie die Ruinen besichtigen; tragen Sie eine warme Mütze, da der Wind hier oben im Winter kräftig weht.",
+                "hu": "Ne járassa feleslegesen a motort, amíg a romokat nézi; viseljen meleg sapkát, mert itt fent a szél télen nagyon erősen fújhat.",
+                "ro": "Nu lăsați motorul pornit inutil în timp ce vizitați ruinele; purtați o căciulă groasă, deoarece vântul poate sufla foarte tare aici sus iarna.",
+                "en": "Don't leave the engine running unnecessarily while viewing the ruins; wear a warm hat, as the wind can blow quite strongly up here in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Ermita de Sant Genís",
+                "hu": "Ermita de Sant Genís",
+                "ro": "Ermita de Sant Genís",
+                "en": "Ermita de Sant Genís"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die tiefstehende Sonne für tolle Fotos der Kapelle; achten Sie beim Parken auf Reifglätte auf den schattigen Abschnitten der Zufahrt.",
+                "hu": "Használja ki az alacsony napállást a kápolna fotózásához; parkoláskor ügyeljen a zúzmarás, csúszós részekre az út árnyékos szakaszain.",
+                "ro": "Profită de soarele jos pentru fotografii superbe ale capelei; la parcare, atenție la porțiunile cu chiciură din zonele umbrite ale drumului.",
+                "en": "Take advantage of the low sun for great photos of the chapel; when parking, watch out for frosty, slippery patches in the shaded sections of the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Turó de Can Pujol",
+                "hu": "Turó de Can Pujol",
+                "ro": "Turó de Can Pujol",
+                "en": "Turó de Can Pujol"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft ermöglicht Sichtweiten bis zum Montserrat-Massiv; machen Sie nur einen kurzen Spaziergang, bevor Sie sich im Auto wieder aufwärmen.",
+                "hu": "A tiszta téli levegőben akár a Montserrat-hegységig is elláthat; tegyen csak egy rövid sétát, mielőtt visszatérne az autóba felmelegedni.",
+                "ro": "Aerul clar de iarnă permite vizibilitatea până la masivul Montserrat; faceți doar o scurtă plimbare înainte de a vă întoarce în mașină la căldură.",
+                "en": "The clear winter air allows you to see as far as the Montserrat massif; take only a short walk before returning to the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Castell de Rubí",
+                "hu": "Castell de Rubí",
+                "ro": "Castell de Rubí",
+                "en": "Castell de Rubí"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist im Winter ein gemütlicher Ort für eine längere Pause; prüfen Sie den Reifendruck Ihres Wagens bei den sinkenden Temperaturen.",
+                "hu": "A múzeum télen barátságos és meleg hely egy hosszabb pihenőre; a süllyedő hőmérséklet mellett ellenőrizze az autó guminyomását is.",
+                "ro": "Muzeul este un loc primitor și cald iarna pentru o pauză lungă; verificați presiunea în pneuri odată cu scăderea temperaturilor exterioare.",
+                "en": "The museum is a cozy and warm place for a long break in winter; check your car's tire pressure as the outdoor temperatures drop."
+              }
+            },
+            {
+              "name": {
+                "de": "El Celler",
+                "hu": "El Celler",
+                "ro": "El Celler",
+                "en": "El Celler"
+              },
+              "tip_5lang": {
+                "de": "Im Winter finden hier oft Abendveranstaltungen statt, die einen Besuch wert sind; stellen Sie die Heizung Ihres Wagens für die Weiterfahrt rechtzeitig ein.",
+                "hu": "Télen gyakran tartanak itt esti rendezvényeket, amelyeket érdemes megnézni; a továbbindulás előtt időben állítsa be az autó fűtését.",
+                "ro": "Iarna se organizează adesea evenimente de seară aici care merită vizitate; porniți căldura în mașină din timp pentru următoarea etapă a drumului.",
+                "en": "In winter, evening events are often held here and are worth checking out; set your car's heater in advance for the next part of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Sant Muç;Ermita Sant Muç",
+                "hu": "Sant Muç;Ermita Sant Muç",
+                "ro": "Sant Muç;Ermita Sant Muç",
+                "en": "Sant Muç;Ermita Sant Muç"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Sonnenuntergang gegen 17:00 Uhr direkt vom Parkplatz aus; schalten Sie für die Rückfahrt im Dunkeln unbedingt die Scheinwerfer ein.",
+                "hu": "Élvezze a naplementét 17:00 körül közvetlenül a parkolóból; a sötétben való visszautazáshoz ne felejtse el bekapcsolni a fényszórókat.",
+                "ro": "Admirați apusul soarelui în jurul orei 17:00 direct din parcare; nu uitați să aprindeți farurile pentru drumul de întoarcere pe întuneric.",
+                "en": "Enjoy the sunset around 17:00 directly from the parking area; don't forget to turn on your headlights for the return trip in the dark."
+              }
+            }
+          ]
+        }
       }
     }
   }

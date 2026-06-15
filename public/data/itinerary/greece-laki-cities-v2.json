@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő sétával a Lebrosos strandra, ahol a kristálytiszta víz csábít. Délben az út a Psile Ammos finom homokjához vezet, amely ideális egy kis pihenésre. Délután fedezze fel a Khokhlakas vad partját és egy lenyűgöző történelmi szélmalmot. Az este az Aigiale romjainál ér véget, ahol naplementekor kényelmesen lezárhatja a tartalmas napot.",
         "ro": "Începeți dimineața cu o plimbare revigorantă către plaja Lebrosos, unde apele clare vă așteaptă. La prânz, traseul vă duce spre nisipul fin de la Psile Ammos, ideal pentru relaxare. După-amiaza explorați țărmul sălbatic de la Khokhlakas și impresionanta moară de vânt istorică. Seara se încheie la ruinele din Aigiale, unde vă puteți bucura de un apus liniștit.",
         "en": "Begin your morning with a refreshing stroll to Lebrosos beach, where the crystal-clear waters invite you in. Around midday, the path leads to the soft sands of Psile Ammos, perfect for a relaxing break. In the afternoon, explore the rugged shoreline of Khokhlakas and discover a fascinating historic windmill. The evening concludes at the ancient ruins of Aigiale, enjoying a peaceful sunset."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie den nassen Morgen in Lebrosos in wasserfester Kleidung am rauen Meer. Mittags geht es nach Psile Ammos und Khokhlakas; Vorsicht auf den rutschigen Küstenpfaden. Am regnerischen Nachmittag bieten die Windmühle und die Aigiale-Ruinen eine mystische Atmosphäre. Beenden Sie den Tag früh an einem gemütlichen, trockenen Ort.",
+            "hu": "Kezdje az esős reggelt a Lebrosos parton, vízálló felszerelésben csodálva a drámai tengert. Délben a Psile Ammos és Khokhlakas következik; óvatosan lépkedjen a csúszós ösvényeken. A nedves délután során a Szélmalom és az Aigiale romok misztikus hangulatot árasztanak. Este keressen egy meleg, fedett helyet a pihenésre.",
+            "ro": "Începeți dimineața ploioasă la Lebrosos, admirând marea dramatică în echipament impermeabil. La prânz, vizitați Psile Ammos și Khokhlakas; pășiți cu grijă pe potecile alunecoase. După-amiaza, Moara de vânt și ruinele Aigiale capătă o atmosferă mistică. Seara, retrageți-vă la un adăpost uscat și cald pentru a vă relaxa.",
+            "en": "Begin your wet morning at Lebrosos, enjoying the dramatic, moody seascapes in waterproof gear. Midday takes you to Psile Ammos and Khokhlakas; tread carefully on the slippery coastal paths. In the rainy afternoon, the historical Windmill and Aigiale ruins offer a mystical atmosphere. Conclude your day early by retreating to a cozy, dry spot indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lebrosos",
+                "hu": "Lebrosos",
+                "ro": "Lebrosos",
+                "en": "Lebrosos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die dramatischen Wellen an diesem einsamen Strand. Tragen Sie unbedingt wasserfeste Schuhe, da der sandige Zugang bei Regen sehr schlammig wird.",
+                "hu": "Élvezze a drámai hullámzást ezen az eldugott tengerparton. Mindenképp viseljen strapabíró, vízálló cipőt, mivel a homokos ösvény esőben nagyon saras lehet.",
+                "ro": "Bucurați-vă de valurile dramatice la această plajă retrasă. Purtați cizme impermeabile rezistente, deoarece aleea nisipoasă devine foarte noroioasă pe ploaie.",
+                "en": "Enjoy the dramatic crashing waves at this beautifully secluded beach. Make sure to wear sturdy waterproof boots, as the sandy approach gets muddy in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Psile Ammos",
+                "hu": "Psile Ammos",
+                "ro": "Psile Ammos",
+                "en": "Psile Ammos"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht der Bucht eine dunkle, mystische Stimmung. Ein stabiler Regenschirm ist ratsam, da es hier absolut keine natürlichen Unterstände gibt.",
+                "hu": "Az eső sötét, misztikus hangulatot kölcsönöz az öbölnek. Erős esernyő vagy esőkabát viselése javasolt, mivel itt egyáltalán nincsenek természetes menedékek.",
+                "ro": "Ploaia conferă golfului o atmosferă întunecată și mistică. O umbrelă robustă este recomandată, deoarece aici nu există absolut deloc adăposturi naturale.",
+                "en": "The rain adds a beautifully dark, mystical atmosphere to the bay. A sturdy umbrella is highly advisable as there are absolutely no natural shelters available here."
+              }
+            },
+            {
+              "name": {
+                "de": "Khokhlakas",
+                "hu": "Khokhlakas",
+                "ro": "Khokhlakas",
+                "en": "Khokhlakas"
+              },
+              "tip_5lang": {
+                "de": "Hören Sie dem beruhigenden Geräusch des Regens auf den Kieselsteinen zu. Gehen Sie sehr vorsichtig, da die nassen Felsen am Ufer extrem rutschig sein können.",
+                "hu": "Hallgassa az eső megnyugtató kopogását a kavicsokon. Sétáljon nagyon óvatosan, mert a parton lévő vizes sziklák és kövek rendkívül csúszósak lehetnek.",
+                "ro": "Ascultați sunetul liniștitor al ploii pe pietricele. Mergeți cu mare atenție, deoarece rocile și pietrele umede de pe mal pot fi extrem de alunecoase.",
+                "en": "Listen to the incredibly soothing sound of rain hitting the pebbles. Walk very carefully, as the wet rocks and stones along the shore can be extremely slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die alte Struktur im nebligen Wetter. Die dicken Steinmauern bieten einen kurzen Windschutz, wenn während des Besuchs ein Schauer aufzieht.",
+                "hu": "Csodálja meg a régi építményt a ködös időben. A vastag kőfalak rövid szélárnyékot és menedéket nyújtanak, ha a látogatás során hirtelen zápor kerekedne.",
+                "ro": "Admirați structura veche pe vreme încețoșată. Zidurile groase de piatră oferă o scurtă protecție împotriva vântului dacă apare o aversă în timpul vizitei.",
+                "en": "Admire the historical structure standing tall in the misty weather. The thick stone walls offer a brief windbreak if a sudden rain shower hits during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Aigiale",
+                "hu": "Aigiale",
+                "ro": "Aigiale",
+                "en": "Aigiale"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen wirken im feuchten Dunst besonders faszinierend. Tragen Sie Schuhe mit gutem Profil, da die alten Steine bei Nässe tückisch glatt sind.",
+                "hu": "Az ősi romok különösen lenyűgözőek a nedves párában. Viseljen jó tapadású cipőt, mivel az évszázados kövek nedvesen meglepően és alattomosan csúsznak.",
+                "ro": "Ruinele antice sunt deosebit de fascinante în ceața umedă. Purtați pantofi cu aderență bună, deoarece pietrele vechi sunt înșelător de netede când sunt ude.",
+                "en": "The ancient ruins look incredibly fascinating in the damp mist. Wear shoes with excellent grip, because the centuries-old stones are deceptively slick when wet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie den frischen Wintermorgen am Strand von Lebrosos in warmen Kleidungsschichten. Die Mittagssonne wärmt sanft beim Spazieren. Erkunden Sie nachmittags die Windmühle und die Aigiale-Ruinen ohne die Sommerhitze. Beenden Sie alles vor dem frühen Sonnenuntergang.",
+            "hu": "Élvezze a friss téli reggelt a Lebrosos parton, réteges és meleg öltözetben. A déli nap kellemes meleget ad a tengerparti sétához. Délután fedezze fel a Szélmalmot és az Aigiale romokat a nyári hőség nélkül. Tervezze befejezni a túrát a korai sötétedés előtt.",
+            "ro": "Bucurați-vă de dimineața geroasă la plaja Lebrosos, îmbrăcându-vă în straturi calde. Soarele de prânz oferă o căldură blândă pentru plimbări. După-amiaza, explorați Moara de vânt și Aigiale fără căldura verii. Terminați înainte de apusul devreme.",
+            "en": "Embrace the crisp winter morning at Lebrosos beach by dressing in warm layers. The midday sun provides a gentle warmth for walking to Psile Ammos and Khokhlakas. In the afternoon, explore the Windmill and Aigiale ruins without the summer heat. Finish before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Lebrosos",
+                "hu": "Lebrosos",
+                "ro": "Lebrosos",
+                "en": "Lebrosos"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die ruhige Einsamkeit des Winterstrandes. Eine winddichte Jacke ist hier unverzichtbar, da die stetige Meeresbrise im Winter sehr beißend wird.",
+                "hu": "Tapasztalja meg a téli tengerpart békés magányát. Egy szélálló kabát itt elengedhetetlen, mivel a folyamatos tengeri szellő télen nagyon harapós lehet.",
+                "ro": "Experimentați singurătatea liniștită a plajei de iarnă. O jachetă rezistentă la vânt este esențială aici, deoarece briza mării devine foarte tăioasă iarna.",
+                "en": "Experience the peaceful solitude of the deserted winter beach. A windproof jacket is absolutely essential here, as the constant sea breeze becomes biting in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Psile Ammos",
+                "hu": "Psile Ammos",
+                "ro": "Psile Ammos",
+                "en": "Psile Ammos"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist perfekt für einen zügigen Winterspaziergang. Die tiefe Wintersonne sorgt für etwas Wärme, aber behalten Sie Mütze und Schal am besten an.",
+                "hu": "Ez a helyszín tökéletes egy tempós, frissítő téli sétához. Az alacsonyan járó téli nap ad némi meleget, de a sapkát és a sálat érdemes magán tartania.",
+                "ro": "Acest loc este perfect pentru o plimbare rapidă de iarnă. Soarele de iarnă oferă puțină căldură, dar cel mai bine este să vă păstrați pălăria și fularul.",
+                "en": "This spot is perfect for a brisk, refreshing winter walk. The low winter sun provides some gentle warmth, but you will definitely want to keep your hat and scarf on."
+              }
+            },
+            {
+              "name": {
+                "de": "Khokhlakas",
+                "hu": "Khokhlakas",
+                "ro": "Khokhlakas",
+                "en": "Khokhlakas"
+              },
+              "tip_5lang": {
+                "de": "Die starken Winterwellen, die auf die Kieselsteine treffen, sind spektakulär. Am Wasser wird es extrem windig, packen Sie sich also besonders warm ein.",
+                "hu": "A kavicsokon megtörő erős téli hullámok látványosak. A vízparton extrém szeles és hideg lehet az idő, ezért öltözzön fel különösen melegen és rétegesen.",
+                "ro": "Valurile puternice de iarnă care se sparg de pietricele sunt spectaculoase. Devine extrem de vântos lângă apă, așa că îmbrăcați-vă deosebit de călduros.",
+                "en": "The strong winter waves crashing on the pebbles create a spectacular sound. It gets extremely windy right by the water, so bundle up with an extra warm layer."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die tiefe Nachmittagssonne wirft wunderbare Schatten für Fotos. An diesem erhöhten Punkt pfeift der Winterwind stark, Handschuhe sind sehr empfehlenswert.",
+                "hu": "Az alacsony délutáni napfény csodás árnyékokat vet fotózáshoz. Ezen a magaslati ponton erősen fütyül a téli szél, a meleg kesztyű viselése erősen ajánlott.",
+                "ro": "Soarele de după-amiază aruncă umbre minunate pentru fotografii. Vântul de iarnă bate cu putere în acest punct înalt, purtarea mănușilor este foarte recomandată.",
+                "en": "The low afternoon winter sun casts beautiful long shadows for photography. The winter wind howls at this elevated point, making thermal gloves highly recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Aigiale",
+                "hu": "Aigiale",
+                "ro": "Aigiale",
+                "en": "Aigiale"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antike Stätte in der kühlen Winterluft. Planen Sie Ihren Besuch gut, damit Sie vor der frühen Dunkelheit gegen 17 Uhr wieder im Ort sind.",
+                "hu": "Fedezze fel az ősi helyszínt a hűvös, tiszta téli levegőben. Tervezze meg jól a látogatást, hogy a korai, 17 óra körüli sötétedés előtt biztonságban visszaérjen.",
+                "ro": "Explorați situl antic în aerul rece de iarnă. Planificați-vă bine vizita, astfel încât să vă întoarceți în oraș înainte de întunericul devreme, în jur de 17:00.",
+                "en": "Explore the fascinating ancient site in the crisp winter air. Pace your visit carefully to ensure you are back in town before the early winter darkness falls around 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a kerékpártúrát a festői szélmalmoknál, majd tekerjen tovább az ősi település felé. Délben érje el a partot a Lebrosos közelében, ahol felfrissülhet a vízben. A délután a Psile Ammos csodálatos strandjaihoz és egy újabb történelmi szélmalomhoz vezet. Zárja a túrát kora este az Aigiale lenyűgöző romjainál egy kellemes tengerparti szellő kíséretében.",
         "ro": "Începeți turul cu bicicleta la morile de vânt pitorești, apoi pedalați spre așezarea veche. La prânz ajungeți pe coastă la Lebrosos, unde vă puteți răcori în apă. După-amiaza vă duce la plajele minunate din Psile Ammos și la o altă moară de vânt istorică. Încheiați traseul seara devreme la ruinele fascinante de la Aigiale, însoțiți de briza mării.",
         "en": "Start your cycling tour at the picturesque row of windmills before pedaling toward the ancient settlement. By midday, reach the coastline near Lebrosos, where you can cool off in the refreshing water. The afternoon takes you to the wonderful beaches of Psile Ammos and another historic windmill. Finish your tour in the early evening at the captivating ruins of Aigiale."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie den nassen Morgen mit einer Fahrt zu den Windmühlen, bremsen Sie früh. Mittags geht es zum Dorf; nutzen Sie Schutzbleche. Die Nachmittagsfahrt nach Aigiale erfordert Vorsicht auf den rutschigen Abfahrten. Wärmen Sie sich abends drinnen auf.",
+            "hu": "Kezdje a nedves reggelt a szélmalmok felé tekerve, de fékezzen időben a csúszós utakon. Délben fedezze fel a falut; sárvédő használata ajánlott. A délutáni tekerés Aigiale felé óvatosságot igényel a lejtőkön. Az estét töltsön egy meleg, fedett helyen.",
+            "ro": "Începeți dimineața umedă pedalând spre morile de vânt, frânând devreme pe drumuri. La prânz, explorați așezarea; folosiți apărători de noroi. După-amiaza spre Aigiale necesită prudență pe curbele alunecoase la vale. Seara, încălziți-vă la interior.",
+            "en": "Start your damp morning riding to the windmills, but brake early on wet roads. Midday explores the old settlement and beaches; use mudguards to stay clean. A wet afternoon ride to Aigiale requires caution on the slick descending curves. Spend your evening warming up indoors."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windmühlen",
+                "hu": "Szélmalmok",
+                "ro": "Morile de vânt",
+                "en": "Windmills"
+              },
+              "tip_5lang": {
+                "de": "Die Mühlen bieten im Regen einen dramatischen Anblick. Fahren Sie langsam bergauf; die Pflastersteine um das Gelände sind extrem rutschig für Fahrradreifen.",
+                "hu": "A malmok esőben is drámai látványt nyújtanak. Tekerjen lassan felfelé; a területet körülvevő macskakövek rendkívül csúszósak lehetnek a kerékpárgumik számára.",
+                "ro": "Morile oferă o priveliște dramatică în ploaie. Urcați încet; pietrele de pavaj din jurul zonei sunt extrem de alunecoase pentru anvelopele de bicicletă.",
+                "en": "The structures offer a dramatic sight in the rain. Ride up slowly; the cobblestones immediately surrounding the area are incredibly slick for narrow bicycle tires."
+              }
+            },
+            {
+              "name": {
+                "de": "Siedlung",
+                "hu": "Település",
+                "ro": "Așezare",
+                "en": "Settlement"
+              },
+              "tip_5lang": {
+                "de": "Die traditionellen Gassen sind charmant, aber bei Nässe gefährlich. Steigen Sie ab und schieben Sie das Rad durch die schmalsten und nassesten Abschnitte.",
+                "hu": "A hagyományos sikátorok bájosak, de nedvesen veszélyesek. Érdemes leszállni, és a legszűkebb, legvizesebb szakaszokon inkább tolni a kerékpárt a biztonságért.",
+                "ro": "Aleile tradiționale sunt fermecătoare, dar periculoase când sunt ude. Coborâți și împingeți bicicleta prin cele mai înguste și umede porțiuni ale satului.",
+                "en": "The traditional alleys are charming but quite hazardous when wet. It is highly recommended to dismount and push your bike through the narrowest, wettest sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Lebrosos",
+                "hu": "Lebrosos",
+                "ro": "Lebrosos",
+                "en": "Lebrosos"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die regnerische Bucht. Achten Sie darauf, Ihre Elektronik in wasserdichten Taschen zu verstauen, während Sie das Fahrrad am Strandzugang parken.",
+                "hu": "Csodálja meg az esős öblöt. Ügyeljen arra, hogy minden elektronikát vízálló táskában tartson, amíg a kerékpárt a tengerparti lejáratnál biztonságosan leparkolja.",
+                "ro": "Admirați golful ploios. Asigurați-vă că vă păstrați electronicele în pungi impermeabile în timp ce parcați bicicleta la intrarea pe plajă.",
+                "en": "Admire the beautiful rainy bay. Make absolutely sure to store your electronics in waterproof dry bags while you park your bike near the exposed beach entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Psile Ammos",
+                "hu": "Psile Ammos",
+                "ro": "Psile Ammos",
+                "en": "Psile Ammos"
+              },
+              "tip_5lang": {
+                "de": "Eine neblige Aussicht über das Wasser. Schließen Sie Ihr Rad gut ab und decken Sie den Sattel mit einer Plastiktüte ab, um ihn während des Halts trocken zu halten.",
+                "hu": "Ködös kilátás a víz felett. Zárja le jól a biciklit, és a nyerget takarja le egy műanyag zacskóval, hogy száraz maradjon, amíg a parton tesz egy rövid sétát.",
+                "ro": "O vedere încețoșată peste apă. Blocați-vă bine bicicleta și acoperiți șaua cu o pungă de plastic pentru a o menține uscată în timpul opririi.",
+                "en": "Enjoy the misty view over the water. Secure your bike properly and cover the saddle with a simple plastic bag to keep it perfectly dry while you stop and explore."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine schnelle Fotopause. Stellen Sie bei dem regnerischen Wetter sicher, dass Ihre Fahrradlichter eingeschaltet sind, da die Sicht oft sehr schlecht ist.",
+                "hu": "Tartson egy gyors fotószünetet. Ebben az esős időben győződjön meg róla, hogy a kerékpár lámpái be vannak kapcsolva, mivel a látási viszonyok jelentősen romlanak.",
+                "ro": "Faceți o pauză rapidă pentru fotografii. Pe vremea ploioasă, asigurați-vă că luminile bicicletei sunt aprinse, deoarece vizibilitatea este adesea foarte slabă.",
+                "en": "Take a quick photo break here. Given the rainy weather, ensure your bike lights are fully turned on to remain visible, as heavy clouds severely reduce visibility."
+              }
+            },
+            {
+              "name": {
+                "de": "Aigiale",
+                "hu": "Aigiale",
+                "ro": "Aigiale",
+                "en": "Aigiale"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind bei Regen atmosphärisch. Fahren Sie auf dem nassen Rückweg in die Stadt besonders in den Kurven extrem langsam, um nicht wegzurutschen.",
+                "hu": "A romok esőben különleges atmoszférájúak. A városba vezető nedves visszaúton haladjon rendkívül lassan, különösen a kanyarokban, nehogy megcsússzon a kerékpár.",
+                "ro": "Ruinele sunt pline de atmosferă pe ploaie. Mergeți extrem de încet pe drumul umed de întoarcere spre oraș, mai ales în curbe, pentru a nu aluneca.",
+                "en": "The ruins are incredibly atmospheric in the rain. Ride extremely slowly on the wet coastal road back to town, paying special attention not to slip on downhill curves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie die kühle Morgenfahrt zu den Windmühlen mit Thermohandschuhen. Mittags ist das Radfahren durch das leere Dorf herrlich ruhig. Die Nachmittagsfahrt nach Aigiale bietet klare Luft. Kehren Sie vor dem starken Temperaturabfall am Abend zurück.",
+            "hu": "Kezdje a hűvös reggeli tekerést a szélmalmokhoz meleg kesztyűben. A déli biciklizés gyönyörűen csendes a kihalt faluban és partokon. A délutáni út Aigiale felé tiszta eget és friss levegőt kínál. Térjen vissza a városba még a kora esti lehűlés előtt.",
+            "ro": "Începeți dimineața răcoroasă pedalând spre morile de vânt cu mănuși termice. La prânz, ciclismul este liniștit prin așezarea goală. Călătoria de după-amiază spre Aigiale oferă aer curat. Întoarceți-vă în oraș înainte ca temperaturile să scadă brusc.",
+            "en": "Start your cool morning ride to the windmills equipped with thermal gloves. Midday cycling is beautifully quiet through the empty settlement and beaches. The afternoon ride to Aigiale offers crisp air and clear skies. Return to town before temperatures drop sharply at early dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windmühlen",
+                "hu": "Szélmalmok",
+                "ro": "Morile de vânt",
+                "en": "Windmills"
+              },
+              "tip_5lang": {
+                "de": "Klare Winterluft sorgt hier für fantastische Fotos. Auf dem Fahrrad wird der Fahrtwind eisig, ziehen Sie also winddichte Handschuhe und ein Stirnband an.",
+                "hu": "A tiszta téli levegő fantasztikus fotókat tesz lehetővé. A kerékpáron a menetszél jéghideg lehet, ezért feltétlenül húzzon szélálló kesztyűt és meleg fejpántot.",
+                "ro": "Aerul curat de iarnă oferă fotografii fantastice aici. Pe bicicletă, vântul de deplasare devine înghețat, așa că purtați mănuși rezistente la vânt și o bentiță.",
+                "en": "The clear winter air makes for fantastic, sharp photos here. The windchill on a bike can be freezing, so strictly rely on windproof gloves and a thermal headband."
+              }
+            },
+            {
+              "name": {
+                "de": "Siedlung",
+                "hu": "Település",
+                "ro": "Așezare",
+                "en": "Settlement"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das authentische, ruhige Winterdorf. Die leeren Steingassen lassen sich jetzt viel entspannter durchfahren als im hektischen Sommermonat.",
+                "hu": "Élvezze az autentikus, csendes téli falut. Az üres kőutcákon most sokkal nyugodtabban és könnyebben áttekerhet, mint a nyári, rendkívül forgalmas hónapokban.",
+                "ro": "Bucurați-vă de satul de iarnă autentic și liniștit. Străzile goale de piatră pot fi acum parcurse mult mai relaxat decât în luna aglomerată de vară.",
+                "en": "Enjoy the highly authentic, quiet winter village atmosphere. The completely empty stone alleys are much more relaxing and easier to cycle through than in the busy summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Lebrosos",
+                "hu": "Lebrosos",
+                "ro": "Lebrosos",
+                "en": "Lebrosos"
+              },
+              "tip_5lang": {
+                "de": "Der einsame Winterstrand ist unglaublich friedlich. Nach dem Absteigen kühlen Sie schnell aus; halten Sie eine isolierende Schicht für diesen Stopp bereit.",
+                "hu": "Az elhagyatott téli part hihetetlenül békés. A kerékpárról leszállva hamar kihűlhet, ezért tartson kéznél egy extra szigetelő réteget erre a pihenőre.",
+                "ro": "Plaja pustie de iarnă este incredibil de pașnică. Vă veți răci rapid după ce coborâți de pe bicicletă; aveți pregătit un strat izolator pentru această oprire.",
+                "en": "The deserted winter beach is incredibly peaceful. Since you will cool down rapidly after dismounting your bike, keep an extra insulating layer handy for this stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Psile Ammos",
+                "hu": "Psile Ammos",
+                "ro": "Psile Ammos",
+                "en": "Psile Ammos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die milde Mittagssonne für einen kurzen Spaziergang. Das Fahrradparken ist im Winter problemlos überall sicher am leeren Strandzugang möglich.",
+                "hu": "Használja ki az enyhe déli napsütést egy rövid sétára. A kerékpár parkolása télen bárhol biztonságosan és könnyedén megoldható az üres tengerparti bejáratnál.",
+                "ro": "Profitați de soarele blând de prânz pentru o scurtă plimbare. Parcarea bicicletelor este posibilă în siguranță oriunde iarna, la intrarea goală pe plajă.",
+                "en": "Take advantage of the mild midday winter sun for a short walk. Bike parking is absolutely hassle-free during winter; just leave it safely at the empty beach entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Ein hervorragender Aussichtspunkt im Winter. Seitenwinde können hier oben das Radfahren erschweren, halten Sie den Lenker bei plötzlichen Böen gut fest.",
+                "hu": "Kiváló kilátóhely télen. Az oldalszél ezen a magasságon megnehezítheti a kerékpározást, tartsa erősen a kormányt hirtelen jövő széllökések esetén.",
+                "ro": "Un punct de belvedere excelent iarna. Vânturile laterale pot îngreuna ciclismul aici sus, țineți ferm ghidonul în cazul rafalelor bruște.",
+                "en": "An excellent vantage point with clear winter visibility. Crosswinds can severely affect handling up here, so grip your handlebars tightly against sudden gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Aigiale",
+                "hu": "Aigiale",
+                "ro": "Aigiale",
+                "en": "Aigiale"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die kühlen Ruinen, aber brechen Sie rechtzeitig auf. Im Winter fallen die Temperaturen rasend schnell, sobald die Sonne gegen 17 Uhr untergeht.",
+                "hu": "Látogassa meg a hűvös romokat, de induljon vissza időben. Télen a hőmérséklet drasztikusan és hirtelen zuhan, amint a nap 17 óra körül lebukik a horizont alá.",
+                "ro": "Vizitați ruinele răcoroase, dar plecați din timp. Iarna, temperaturile scad foarte repede de îndată ce soarele apune în jur de ora 17:00.",
+                "en": "Visit the majestic ruins, but pace yourself to leave in time. Winter temperatures drop extremely sharply and abruptly the moment the early sun sets around 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Az utazás csodálatos kilátással kezdődik a régi szélmalmoknál, majd a történelmi településhez vezet. Délben a Lebrosos és a Khokhlakas strandok hívogatnak egy napos vízparti pihenőre. A délután a történelem jegyében telik a magányos szélmalommal és az Aigiale romjaival. Végül a napot az Ormos Mikri Vichlada békés öblében zárhatja le egy kellemes sétával.",
         "ro": "Călătoria începe cu o priveliște magnifică la vechile mori de vânt și vă duce spre așezarea istorică. La prânz, plajele Lebrosos și Khokhlakas vă atrag pentru o pauză însorită la marginea apei. După-amiaza este dedicată istoriei, vizitând moara de vânt singuratică și ruinele din Aigiale. La final, încheiați ziua relaxându-vă în golful liniștit Ormos Mikri Vichlada.",
         "en": "Your drive begins with magnificent views at the old windmills and takes you to the historic settlement. At midday, the beaches of Lebrosos and Khokhlakas beckon for a sunny waterside break. The afternoon is dedicated to history, featuring the solitary windmill and the impressive ruins of Aigiale. Finally, end your day relaxing peacefully at the quiet bay of Ormos Mikri Vichlada."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie an diesem nassen Morgen vorsichtig zu den Windmühlen und nutzen Sie Nebelscheinwerfer. Mittags halten Sie am Dorf; ein Regenschirm ist nützlich. Die nachmittägliche Küstenfahrt nach Aigiale ist rutschig. Verbringen Sie den Abend drinnen.",
+            "hu": "Vezessen óvatosan a szélmalmokhoz ezen az esős reggelen, ködlámpát használva. Délben a település és a strandok következnek; tartson kéznél esernyőt. A délutáni parti út Aigiale felé festői, de csúszós. Este húzódjon be egy hangulatos, meleg helyre.",
+            "ro": "Conduceți cu grijă spre morile de vânt în această dimineață ploioasă, folosind farurile de ceață. La prânz, păstrați o umbrelă pentru opriri rapide la plaje. Drumul de coastă de după-amiază spre Aigiale este alunecos. Seara, relaxați-vă la interior.",
+            "en": "Drive safely to the windmills this wet morning, using fog lights for visibility. Midday takes you to the settlement and beaches; keep an umbrella handy for quick stops. The rainy afternoon coastal drive to Aigiale is scenic but slick. Retreat indoors for a cozy evening."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windmühlen",
+                "hu": "Szélmalmok",
+                "ro": "Morile de vânt",
+                "en": "Windmills"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie den Hügel vorsichtig hinauf. Die alten Mühlen heben sich dramatisch vom Regen ab, aber der Parkbereich kann ziemlich schlammig und weich sein.",
+                "hu": "Vezessen óvatosan felfelé a dombon. A régi malmok drámaian elütnek az esős égbolttól, de a parkolóterület esőben elég sáros és felázott lehet a járműveknek.",
+                "ro": "Urcați dealul cu grijă. Vechile mori contrastează dramatic cu ploaia, dar zona de parcare poate fi destul de noroioasă și moale.",
+                "en": "Drive carefully up the winding hill. The old mills stand out dramatically against rain clouds, but be aware that the unpaved parking area can become quite muddy."
+              }
+            },
+            {
+              "name": {
+                "de": "Siedlung",
+                "hu": "Település",
+                "ro": "Așezare",
+                "en": "Settlement"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Rand und erkunden Sie die Gassen mit einem großen Regenschirm. Nasse Pflastersteine beim Aussteigen aus dem Auto sind sehr glatt.",
+                "hu": "Parkoljon óvatosan a szélén, és fedezze fel a sikátorokat egy nagy esernyővel. Az autóból kiszállva a vizes macskakövek és lépcsők nagyon csúszósak lehetnek.",
+                "ro": "Parcați cu grijă la margine și explorați aleile cu o umbrelă mare. Pietrele de pavaj umede la ieșirea din mașină sunt foarte alunecoase.",
+                "en": "Park cautiously on the outskirts and explore with a sturdy umbrella. Be especially mindful of incredibly slick wet cobblestones right as you step out of the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Lebrosos",
+                "hu": "Lebrosos",
+                "ro": "Lebrosos",
+                "en": "Lebrosos"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das stürmische Meer gemütlich aus dem warmen Auto heraus, oder wagen Sie mit wasserfesten Jacken einen schnellen Spurt an den nassen Strand.",
+                "hu": "Figyelje a viharos tengert kényelmesen a meleg autóból, vagy vízálló kabátban tegyen egy gyors sprintet, hogy közelről is megnézze a vad és nedves partot.",
+                "ro": "Urmăriți marea furtunoasă confortabil din mașina caldă sau faceți un sprint rapid spre plaja umedă purtând jachete impermeabile.",
+                "en": "Watch the stormy sea from the absolute comfort of your warm car, or brave a quick dash down to the wet sandy beach if you have completely waterproof jackets."
+              }
+            },
+            {
+              "name": {
+                "de": "Khokhlakas",
+                "hu": "Khokhlakas",
+                "ro": "Khokhlakas",
+                "en": "Khokhlakas"
+              },
+              "tip_5lang": {
+                "de": "Das Geräusch von Regen auf den Kieselsteinen ist einmalig. Tragen Sie Schuhe mit viel Grip, um vom Parkplatz rutschfrei über die nassen Steine zu gelangen.",
+                "hu": "Az eső hangja a kavicsokon egyedülálló. Viseljen nagyon jó tapadású cipőt, hogy a parkolóból csúszásmentesen és biztonságosan átjuthasson a vizes köveken.",
+                "ro": "Sunetul ploii pe pietricele este unic. Purtați pantofi cu multă aderență pentru a ajunge din parcare peste pietrele umede fără a aluneca.",
+                "en": "The sound of heavy rain on these pebbles is wonderfully unique. Wear shoes with extreme grip to safely navigate from the parking spot over the wet, slick rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp ist auch bei Regen machbar. Achten Sie auf tiefe Pfützen, die sich schnell auf dem geschotterten Parkbereich vor der Mühle bilden.",
+                "hu": "Egy gyors fotómegálló esőben is kivitelezhető. Ügyeljen a mély tócsákra, amelyek a malom előtti kavicsos parkolóterületen nagyon gyorsan kialakulhatnak.",
+                "ro": "O oprire rapidă pentru fotografii este posibilă și pe ploaie. Atenție la bălțile adânci care se formează rapid pe zona de parcare cu pietriș din fața morii.",
+                "en": "A quick photo stop is highly manageable in the rain. Just watch out for surprisingly deep puddles that tend to form rapidly on the gravel parking area outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aigiale",
+                "hu": "Aigiale",
+                "ro": "Aigiale",
+                "en": "Aigiale"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Ruinen sind im Nebel mystisch. Fahren Sie extrem langsam auf den kurvigen Küstenstraßen hierher, da der Asphalt bei Regen sehr rutschig wird.",
+                "hu": "Az ősi romok a ködben rendkívül misztikusak. Idevezetés közben haladjon extrém lassan a kanyargós parti utakon, mivel az aszfalt esőben rendkívül csúszós.",
+                "ro": "Ruinele antice sunt mistice în ceață. Conduceți extrem de încet pe drumurile de coastă șerpuite de aici, deoarece asfaltul devine foarte alunecos pe ploaie.",
+                "en": "The ancient ruins are intensely mystical in the mist. Drive incredibly slowly on the winding coastal roads to get here, as local asphalt gets famously slick when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Ormos Mikri Vichlada",
+                "hu": "Ormos Mikri Vichlada",
+                "ro": "Ormos Mikri Vichlada",
+                "en": "Ormos Mikri Vichlada"
+              },
+              "tip_5lang": {
+                "de": "Die abgeschiedene Bucht ist bei Sturm wild und wunderschön. Prüfen Sie die unbefestigte Zufahrtsstraße auf Schlamm, bevor Sie den steilen Weg hinabfahren.",
+                "hu": "Az eldugott öböl viharban vad és gyönyörű. Mielőtt lemerészkedne a meredek úton, feltétlenül ellenőrizze a burkolatlan bekötőút állapotát a sár miatt.",
+                "ro": "Golful izolat este sălbatic și frumos pe furtună. Verificați drumul de acces neasfaltat pentru noroi înainte de a coborî pe calea abruptă.",
+                "en": "This secluded bay is completely wild during a storm. Crucially, verify the unpaved access road for deep mud before attempting to drive down the steep decline."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine malerische morgendliche Küstenfahrt zu den Windmühlen ist perfekt bei frischer Winterluft. Mittags können Sie das ruhige Dorf bequem erkunden. Verbringen Sie den Nachmittag bei den Aigiale-Ruinen. Fahren Sie früh zurück, da die Sonne im Winter schon um 17 Uhr untergeht.",
+            "hu": "Egy festői reggeli parti autózás a szélmalmokhoz tökéletes a friss téli levegőben. Délben kényelmesen felfedezheti a csendes falut és partokat. A délutánt az Aigiale romjainak megcsodálásával töltheti. Induljon vissza korán, mivel télen már 5 órakor teljesen besötétedik.",
+            "ro": "O plimbare matinală cu mașina spre morile de vânt este perfectă în aerul rece. La prânz puteți explora confortabil așezarea liniștită și plajele izolate. Petreceți după-amiaza la ruinele Aigiale. Întoarceți-vă devreme, deoarece soarele apune complet până la ora 17:00.",
+            "en": "A scenic morning coastal drive to the windmills is perfect in the crisp winter air. Midday lets you comfortably explore the quiet settlement and isolated beaches. Spend the afternoon marveling at the Aigiale ruins. Head back early, as the sun sets completely by 5 PM in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Windmühlen",
+                "hu": "Szélmalmok",
+                "ro": "Morile de vânt",
+                "en": "Windmills"
+              },
+              "tip_5lang": {
+                "de": "Klare Wintertage bieten von hier endlose Sicht über die Ägäis. Bewahren Sie immer einen warmen Mantel im Auto auf, falls der Wind oben zu stark weht.",
+                "hu": "A tiszta téli napok végtelen kilátást nyújtanak innen az Égei-tengerre. Mindig tartson egy meleg kabátot az autóban, ha a szél túlságosan erősen fújna odafent.",
+                "ro": "Zilele senine de iarnă oferă de aici vederi nesfârșite peste Marea Egee. Păstrați întotdeauna o haină caldă în mașină în cazul în care vântul bate prea tare sus.",
+                "en": "Crystal clear winter days offer endless visibility across the Aegean from here. Keep a warm, thick coat inside the car for when you step out into the howling wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Siedlung",
+                "hu": "Település",
+                "ro": "Așezare",
+                "en": "Settlement"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie authentisches Inselleben ohne Touristenmassen. Die Parkplatzsuche in der Nähe des Zentrums ist im Winter ein absoluter Traum und sehr einfach.",
+                "hu": "Tapasztalja meg az autentikus szigeti életet turistatömegek nélkül. A központ közeli parkolóhely-keresés télen egy abszolút álom, rendkívül gyors és egyszerű.",
+                "ro": "Experimentați viața autentică pe insulă, fără aglomerația de turiști. Găsirea unui loc de parcare în apropierea centrului este un vis absolut iarna și foarte ușor.",
+                "en": "Experience genuine island life without the tourist crowds. Finding parking near the settlement center is an absolute dream in winter, making exploration completely stress-free."
+              }
+            },
+            {
+              "name": {
+                "de": "Lebrosos",
+                "hu": "Lebrosos",
+                "ro": "Lebrosos",
+                "en": "Lebrosos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die raue Winterküste in absoluter Stille. Eine Thermoskanne mit heißem Tee im Auto ist die perfekte Ergänzung für diesen kalten Küstenstopp.",
+                "hu": "Élvezze a zord téli tengerpartot teljes csendben és nyugalomban. Egy termosz forró tea az autóban a legtökéletesebb kiegészítője ennek a hideg parti megállónak.",
+                "ro": "Bucurați-vă de coasta aspră de iarnă în liniște absolută. Un termos cu ceai fierbinte în mașină este completarea perfectă pentru această oprire rece pe coastă.",
+                "en": "Enjoy the rugged winter coastline in absolute, pristine silence. Packing a thermos of hot tea in the car is the absolute perfect addition for this chilly coastal stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Khokhlakas",
+                "hu": "Khokhlakas",
+                "ro": "Khokhlakas",
+                "en": "Khokhlakas"
+              },
+              "tip_5lang": {
+                "de": "Die Winterdünung macht den Kieselstrand laut und dramatisch. Ziehen Sie sich gegen die eisigen Winde gut an, sobald Sie das beheizte Fahrzeug verlassen.",
+                "hu": "A téli hullámzás hangossá és drámaivá teszi a kavicsos partot. Öltözzön fel nagyon melegen a jeges szelek ellen, amint elhagyja a kellemesen fűtött gépjárművet.",
+                "ro": "Hula de iarnă face plaja cu pietriș zgomotoasă și dramatică. Îmbrăcați-vă bine împotriva vânturilor înghețate de îndată ce părăsiți vehiculul încălzit.",
+                "en": "The aggressive winter swell makes the pebble beach incredibly loud and dramatic. Dress heavily against the icy winds the moment you step out of your heated vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Windmill",
+                "hu": "Szélmalom",
+                "ro": "Moara de vânt",
+                "en": "Windmill"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft herrliche Schatten auf die Steinmauern. Sie können praktischerweise direkt nebenan parken und sofort in die Wärme zurückkehren.",
+                "hu": "Az alacsonyan járó téli nap gyönyörű árnyékokat vet a kőfalakra. Praktikus módon közvetlenül mellette parkolhat, így egy fotó után azonnal visszatérhet a melegbe.",
+                "ro": "Soarele de iarnă aruncă umbre frumoase pe zidurile de piatră. Vă puteți parca convenabil chiar alături și vă puteți întoarce imediat la căldură.",
+                "en": "The low winter sun casts beautifully long shadows onto the stone walls. You can conveniently park right next to it, allowing a quick return to the car's warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Aigiale",
+                "hu": "Aigiale",
+                "ro": "Aigiale",
+                "en": "Aigiale"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die antike Stätte in der kühlen Luft, fast ohne andere Menschen. Planen Sie Ihre Abfahrt so, dass Sie noch vor dem Sonnenuntergang um 17 Uhr im Hellen fahren.",
+                "hu": "Fedezze fel az ősi helyszínt a hűvös levegőben, mások nélkül. Úgy tervezze az indulást, hogy még a 17 órai teljes naplemente előtt, világosban vezethessen vissza.",
+                "ro": "Explorați situl antic în aerul rece, aproape fără alți oameni. Planificați-vă plecarea astfel încât să conduceți înapoi la lumină înainte de apusul de la ora 17:00.",
+                "en": "Explore the ancient site in the crisp air with virtually no one else around. Time your departure carefully so you are safely driving back before the 5 PM total sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Ormos Mikri Vichlada",
+                "hu": "Ormos Mikri Vichlada",
+                "ro": "Ormos Mikri Vichlada",
+                "en": "Ormos Mikri Vichlada"
+              },
+              "tip_5lang": {
+                "de": "Ein atemberaubender, isolierter Ort im Winter. Stellen Sie unbedingt sicher, dass Sie wieder auf der Hauptstraße sind, bevor es auf diesen kleinen Wegen komplett dunkel wird.",
+                "hu": "Lélegzetelállító, elszigetelt hely télen. Mindenképpen győződjön meg róla, hogy még azelőtt visszaér a főútra, mielőtt ezeken a kis mellékutakon teljesen besötétedik.",
+                "ro": "Un loc izolat și uluitor iarna. Asigurați-vă că sunteți din nou pe drumul principal înainte să se întunece complet pe aceste mici poteci.",
+                "en": "A stunningly isolated spot in winter. Ensure absolutely that you drive back up to the main paved road long before it gets completely pitch dark on these small dirt tracks."
+              }
+            }
+          ]
+        }
       }
     }
   }

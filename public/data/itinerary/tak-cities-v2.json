@@ -160,6 +160,196 @@
         "hu": "Kezdje a reggelt a helyi történelem felfedezésével a Memorial Múzeumban.\n\nDélben sétáljon végig a történelmi Trok Ban Chin sikátoron és látogassa meg a Wat Phai Lom templomot.\n\nDélután merüljön el a friss élelmiszerek piacának forgatagában, majd tisztelgés a Taksin szentélynél.\n\nEste élvezze a pezsgő éjszakai piacot és a fantasztikus helyi utcai ételeket.",
         "ro": "Începeți dimineața descoperind istoria bogată la Muzeul Memorial Tak.\n\nLa prânz, explorați aleile istorice din Trok Ban Chin și templul liniștit Wat Phai Lom.\n\nDupă-amiaza, pierdeți-vă printre culorile pieței alimentare și vizitați sanctuarul dedicat regelui Taksin.\n\nÎncheiați ziua perfect la piața de noapte, savurând preparate delicioase din bucătăria stradală locală.",
         "en": "Start your morning delving into rich local history at the Tak City Memorial Museum.\n\nAt midday, explore the historical wooden houses of Trok Ban Chin and the serene Wat Phai Lom.\n\nIn the afternoon, immerse yourself in the bustling fresh food market and the majestic Taksin Shrine.\n\nConclude your perfect day at the vibrant night market, tasting an array of delicious local street food."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt im Museum, einem idealen trockenen Ort für den ersten Regenguss. Mittags erkunden wir die historischen Gassen mit dem Regenschirm und suchen in den Tempeln unter den weiten Vordächern Schutz. Am Nachmittag bietet der überdachte Frischemarkt eine trockene Atmosphäre zum Probieren lokaler Spezialitäten. Den Abend lassen wir auf dem Nachtmarkt ausklingen, wo die bunten Lichter stimmungsvoll in den Pfützen auf dem Asphalt reflektieren.",
+            "hu": "A reggelt a múzeumban indítjuk, elkerülve az első záporokat a falak között. Délben a történelmi sikátorban és a templomnál az eresz alatt pihenünk meg, ha eleredne az eső. Délután a fedett piacon kóstolunk helyi ízeket, garantáltan szárazon maradva. Az estét a víztükrös éjszakai piacon zárjuk, ahol a színes fények gyönyörűen megcsillannak a vizes aszfalton és a tócsákban.",
+            "ro": "Dimineața începe la muzeu, un loc uscat ideal pentru prima aversă de ploaie. La prânz explorăm străzile istorice cu umbrela și căutăm adăpost în temple sub streșinile largi. După-amiaza, piața acoperită oferă o atmosferă uscată pentru a gusta specialități locale. Încheiem seara în piața de noapte, unde luminile colorate se reflectă atmosferic în bălțile de pe asfalt.",
+            "en": "The morning begins at the museum, an ideal dry spot during the first downpour. At noon, we explore the historic alleys with umbrellas and seek shelter under the wide eaves of the temples. In the afternoon, the covered fresh market provides a dry atmosphere for tasting local specialties. We end the evening at the night market, where colorful lights reflect beautifully in the puddles on the wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tak City Memorial Museum",
+                "hu": "Tak City Memorial Museum",
+                "ro": "Tak City Memorial Museum",
+                "en": "Tak City Memorial Museum"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Geschichte im Inneren dieses charmanten Gebäudes, das perfekten Schutz vor Regen bietet; nutzen Sie die Zeit für die detaillierten Exponate.",
+                "hu": "Fedezze fel a történelmet a bájos épület belsejében, amely tökéletes menedéket nyújt az eső elől; szánjon időt a részletes kiállítások megtekintésére.",
+                "ro": "Explorați istoria în interiorul acestei clădiri fermecătoare, care oferă protecție perfectă împotriva ploii; acordați timp exponatelor detaliate.",
+                "en": "Explore history inside this charming building that offers perfect protection from the rain; take your time to view the detailed exhibits thoroughly."
+              }
+            },
+            {
+              "name": {
+                "de": "Trok Ban Chin (Ban Chin Alley)",
+                "hu": "Trok Ban Chin (Ban Chin Alley)",
+                "ro": "Trok Ban Chin (Ban Chin Alley)",
+                "en": "Trok Ban Chin (Ban Chin Alley)"
+              },
+              "tip_5lang": {
+                "de": "Spazieren Sie mit einem stabilen Schirm durch die historische Gasse, in der die alten Holzhäuser bei Regen besonders intensiv nach Teakholz duften.",
+                "hu": "Sétáljon végig a történelmi sikátoron egy stabil esernyővel, ahol az öreg faházak esőben különösen intenzív tikfa illatot árasztanak a levegőbe.",
+                "ro": "Plimbați-vă prin aleea istorică cu o umbrelă robustă, unde casele vechi de lemn emană un miros intens de tec atunci când plouă afară.",
+                "en": "Walk through the historic alley with a sturdy umbrella, where the old wooden houses emit an especially intense scent of teak wood in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phai Lom",
+                "hu": "Wat Phai Lom",
+                "ro": "Wat Phai Lom",
+                "en": "Wat Phai Lom"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Tempelarchitektur von der schützenden Galerie aus und achten Sie auf den glatten Boden, der bei Nässe rutschig sein kann.",
+                "hu": "Csodálja meg a templom építészetét a védelmet nyújtó kerengő alól, és ügyeljen a sima kőburkolatra, amely vizesen rendkívül csúszóssá válik.",
+                "ro": "Admirați arhitectura templului de pe galeria protectoare și aveți grijă la podeaua netedă, care poate deveni alunecoasă când este umedă.",
+                "en": "Admire the temple architecture from the protective gallery and watch out for the smooth stone floor, which becomes very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Frischemarkt Tak",
+                "hu": "Tak 3-as számú frissáru-piac",
+                "ro": "Piața de alimente Tak 3",
+                "en": "Tak Municipality 3 Fresh Food Market"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das bunte Markttreiben unter dem sicheren Dach, wo Sie trotz Regen lokale Köstlichkeiten probieren und trocken einkaufen können.",
+                "hu": "Élvezze a nyüzsgő piaci forgatagot a biztonságos tető alatt, ahol az eső ellenére is nyugodtan kóstolhat helyi finomságokat és vásárolhat.",
+                "ro": "Bucurați-vă de agitația pieței sub acoperișul sigur, unde puteți gusta delicatese locale și puteți face cumpărături fără să vă udați.",
+                "en": "Enjoy the vibrant market hustle under the safe roof, where you can taste local delicacies and shop comfortably despite the rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "King Taksin the Great Memorial Shrine",
+                "hu": "King Taksin the Great Memorial Shrine",
+                "ro": "King Taksin the Great Memorial Shrine",
+                "en": "King Taksin the Great Memorial Shrine"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Schrein und nutzen Sie den überdachten Gebetsbereich für einen Moment der Ruhe, während Sie dem Prasseln des Regens lauschen.",
+                "hu": "Látogasson el a szentélyhez, és használja a fedett imatér nyújtotta oltalmat egy csendes percre, miközben hallgatja az eső dobolását.",
+                "ro": "Vizitați sanctuarul și folosiți zona de rugăciune acoperită pentru un moment de liniște, în timp ce ascultați ropotul ploii pe acoperiș.",
+                "en": "Visit the shrine and use the covered prayer area for a moment of peace while listening to the pitter-patter of rain on the roof."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt",
+                "hu": "Éjszakai piac",
+                "ro": "Piața de noapte",
+                "en": "Night market"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie ein leichtes Regencape, um sich flexibel zwischen den Ständen zu bewegen und die reflektierenden Lichter auf dem Asphalt zu bewundern.",
+                "hu": "Viseljen könnyű esőponcsót, hogy rugalmasan mozoghasson az árusok között, és csodálja meg az aszfalton tükröződő esti fényeket.",
+                "ro": "Purtați o pelerină ușoară de ploaie pentru a vă mișca flexibil printre tarabe și admirați luminile serii reflectate pe asfaltul ud.",
+                "en": "Wear a lightweight rain poncho to move flexibly between the stalls and admire the evening lights reflecting on the wet asphalt."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "An einem frischen Wintermorgen starten wir im Museum, wo die milden Temperaturen den Besuch besonders angenehm machen. Mittags spazieren wir entspannt durch Trok Ban Chin und besuchen die Tempel, ohne die sonst übliche Hitze. Am Nachmittag genießen wir die klare Winterluft auf dem Markt, bevor die Sonne bereits gegen 17:30 Uhr untergeht. Der Abend wird kühl, daher ist für den Besuch des Nachtmarktes ein leichter Pullover oder eine Jacke unbedingt zu empfehlen.",
+            "hu": "Friss téli reggelen indul a séta a múzeumban, élvezve a lágyabb napsütést és a kellemes belső hőmérsékletet. Délben a Trok Ban Chin és a templomok felfedezése közben a lágy szellő teszi könnyebbé a gyaloglást. Délután a piacon válogatunk, mielőtt a nap korán, fél hat körül lemenne. Az este hűvösebb lesz, így az éjszakai piacon jól fog esni egy forró helyi leves és egy vékonyabb pulóver.",
+            "ro": "Într-o dimineață răcoroasă de iarnă, pornim de la muzeu, unde temperaturile blânde fac vizita deosebit de plăcută. La prânz ne plimbăm relaxați prin Trok Ban Chin fără căldura obișnuită. După-amiaza ne bucurăm de aerul curat de iarnă în piață, înainte ca soarele să apună deja în jurul orei 17:30. Seara devine răcoroasă, așa că se recomandă un pulover ușor pentru vizita în piața de noapte.",
+            "en": "On a crisp winter morning, we start at the museum where mild temperatures make the visit very pleasant. At noon, we stroll through Trok Ban Chin and visit temples without the usual tropical heat. In the afternoon, enjoy the clear winter air at the market before the sun sets early around 5:30 PM. The evening gets cool, so a light sweater or jacket is highly recommended for the night market."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Tak City Memorial Museum",
+                "hu": "Tak City Memorial Museum",
+                "ro": "Tak City Memorial Museum",
+                "en": "Tak City Memorial Museum"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die kühle Morgenbrise in den Gartenanlagen des Museums; die klare Winterluft sorgt für besonders scharfe Fotomotive des Gebäudes.",
+                "hu": "Élvezze a hűvös reggeli szellőt a múzeum kertjében; a tiszta téli levegő különösen éles és szép fotókat tesz lehetővé az épületről.",
+                "ro": "Bucurați-vă de briza răcoroasă de dimineață în grădinile muzeului; aerul curat de iarnă oferă fotografii deosebit de clare ale clădirii.",
+                "en": "Enjoy the cool morning breeze in the museum gardens; the clear winter air allows for particularly sharp and beautiful photos of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Trok Ban Chin (Ban Chin Alley)",
+                "hu": "Trok Ban Chin (Ban Chin Alley)",
+                "ro": "Trok Ban Chin (Ban Chin Alley)",
+                "en": "Trok Ban Chin (Ban Chin Alley)"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das milde Wetter für einen ausgiebigen Spaziergang; die tiefstehende Wintersonne zaubert lange Schatten auf die historischen Holzwände.",
+                "hu": "Használja ki az enyhe időt egy hosszú sétára; az alacsonyan járó téli nap hosszú árnyékokat és különleges fényeket vet a történelmi fafalakra.",
+                "ro": "Profitați de vremea blândă pentru o plimbare lungă; soarele jos de iarnă proiectează umbre lungi și lumini speciale pe pereții vechi de lemn.",
+                "en": "Take advantage of the mild weather for a long stroll; the low winter sun casts long shadows and special light on the historic wooden walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Phai Lom",
+                "hu": "Wat Phai Lom",
+                "ro": "Wat Phai Lom",
+                "en": "Wat Phai Lom"
+              },
+              "tip_5lang": {
+                "de": "Die angenehmen Temperaturen machen das Barfußlaufen auf den Steinfliesen im Tempelbereich viel komfortabler als in der Sommerhitze.",
+                "hu": "A kellemes hőmérséklet miatt a templom területén a kőlapokon való mezítlábas járás sokkal kényelmesebb, mint a nyári hőségben.",
+                "ro": "Datorită temperaturilor plăcute, mersul desculț pe plăcile de piatră din zona templului este mult mai confortabil decât în căldura verii.",
+                "en": "The pleasant temperatures make walking barefoot on the stone tiles in the temple area much more comfortable than in the summer heat."
+              }
+            },
+            {
+              "name": {
+                "de": "Frischemarkt Tak",
+                "hu": "Tak 3-as számú frissáru-piac",
+                "ro": "Piața de alimente Tak 3",
+                "en": "Tak Municipality 3 Fresh Food Market"
+              },
+              "tip_5lang": {
+                "de": "Probieren Sie die saisonalen Winterfrüchte und genießen Sie die lebhafte Atmosphäre, die bei diesem kühlen Wetter besonders energiegeladen wirkt.",
+                "hu": "Kóstolja meg a szezonális téli gyümölcsöket, és élvezze a nyüzsgő hangulatot, amely ebben a hűvös időben különösen energikusnak hat.",
+                "ro": "Gustați fructele sezoniere de iarnă și bucurați-vă de atmosfera plină de viață, care pare deosebit de energică pe această vreme răcoroasă.",
+                "en": "Taste the seasonal winter fruits and enjoy the lively atmosphere, which feels particularly energetic in this cool weather."
+              }
+            },
+            {
+              "name": {
+                "de": "King Taksin the Great Memorial Shrine",
+                "hu": "King Taksin the Great Memorial Shrine",
+                "ro": "King Taksin the Great Memorial Shrine",
+                "en": "King Taksin the Great Memorial Shrine"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie den Schrein kurz vor Sonnenuntergang, wenn die goldene Stunde die Statue in ein warmes, weiches Licht taucht.",
+                "hu": "Látogasson el a szentélyhez röviddel naplemente előtt, amikor az aranyóra meleg, lágy fénybe öltözteti a király szobrát.",
+                "ro": "Vizitați sanctuarul cu puțin timp înainte de apus, când ora de aur îmbracă statuia regelui într-o lumină caldă și moale.",
+                "en": "Visit the shrine shortly before sunset, when the golden hour bathes the king's statue in a warm, soft winter light."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt",
+                "hu": "Éjszakai piac",
+                "ro": "Piața de noapte",
+                "en": "Night market"
+              },
+              "tip_5lang": {
+                "de": "Holen Sie sich eine dampfende Schüssel lokale Nudelsuppe, um sich an der kühlen Abendluft aufzuwärmen; eine dünne Jacke ist jetzt nötig.",
+                "hu": "Vegyél egy tál gőzölgő helyi tésztalevest, hogy felmelegedjen a hűvös esti levegőn; egy vékony dzseki vagy pulóver ilyenkor már kelleni fog.",
+                "ro": "Luați un bol de supă de tăieței fierbinte pentru a vă încălzi în aerul răcoros al serii; o jachetă subțire este necesară acum.",
+                "en": "Grab a steaming bowl of local noodle soup to warm up in the cool evening air; a thin jacket or sweater will be necessary by now."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +527,224 @@
         "hu": "Tekerjen el reggel a lenyűgöző Narai-emlékműhöz és a közeli békés szentélyhez.\n\nDélben fedezze fel a régi faházakat és töltsön egy kis időt a Városi Múzeumban.\n\nDélután csodálja meg a katolikus építészetet és az arany Wat Mani Banphot templomot.\n\nEste lazítson a nyüzsgő éjszakai piacon, megkóstolva a helyi finomságok széles választékát.",
         "ro": "Pedalați dimineața către monumentul impresionant al regelui Narai și sanctuarul liniștit.\n\nLa prânz, descoperiți casele vechi de lemn și explorați exponatele de la muzeul orașului.\n\nDupă-amiaza, admirați arhitectura catolică și pagodele aurii de la Wat Mani Banphot.\n\nSeara, relaxați-vă la piața de noapte vibrantă, bucurându-vă de cele mai bune preparate stradale.",
         "en": "Cycle in the morning to the impressive Monument of King Narai and the nearby tranquil shrine.\n\nAt midday, discover the historic wooden houses of Trok Ban Chin and explore the local museum.\n\nDuring the afternoon, admire the unique Catholic architecture and the golden Wat Mani Banphot.\n\nSpend your evening relaxing at the night market, sampling the best regional snacks and crafts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den glatten Straßen von Tak. Wir starten bei den Monumenten und suchen bei Schauern unter Tempeldächern Schutz. Die Route führt uns zu Museen und Kirchen, die trockene Pausen ermöglichen. Am Nachmittag radeln wir vorsichtig zum Markt, wo wir das Fahrrad sicher unterstellen können. Der Abend auf dem Nachtmarkt ist trotz Poncho ein Erlebnis, da die Stadt im Regen einen ganz eigenen Glanz entwickelt.",
+            "hu": "Az esős bringázás óvatosságot igényel Tak csúszós útjain. Az emlékművektől indulunk, záporok esetén a templomtetők alatt keresve menedéket. Az útvonal múzeumokhoz és templomokhoz vezet, amelyek száraz pihenőket kínálnak. Délután óvatosan tekerünk a piacra, ahol biztonságos helyen hagyhatjuk a gépet. Az este az éjszakai piacon poncsóban is élmény, ahogy a város fényei megcsillannak az esőben.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență pe străzile alunecoase din Tak. Pornim de la monumente și căutăm adăpost sub acoperișurile templelor în caz de averse. Traseul ne duce la muzee și biserici care oferă pauze uscate. După-amiaza pedalăm cu grijă spre piață, unde putem lăsa bicicleta în siguranță. Seara în piața de noapte este o experiență chiar și cu pelerină, orașul strălucind în ploaie.",
+            "en": "Cycling in the rain requires caution on Tak's slippery streets. We start at the monuments, seeking shelter under temple roofs during showers. The route leads to museums and churches that offer dry breaks. In the afternoon, we cycle carefully to the market where bikes can be parked safely. An evening at the night market is an experience even in a poncho, as the city takes on a unique glow in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monument of King Narai the Great",
+                "hu": "Monument of King Narai the Great",
+                "ro": "Monument of King Narai the Great",
+                "en": "Monument of King Narai the Great"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Absteigen auf den nassen Asphalt rund um das Denkmal; ein kurzes Foto im Regenponcho ist ein originelles Souvenir.",
+                "hu": "Ügyeljen a vizes aszfaltra a bicikliről való leszálláskor az emlékműnél; egy gyors fotó az esőponcsóban igazán eredeti emlék lesz.",
+                "ro": "Aveți grijă la asfaltul umed când coborâți de pe bicicletă la monument; o fotografie rapidă în pelerină este un suvenir original.",
+                "en": "Watch out for the wet asphalt when dismounting your bike at the monument; a quick photo in a rain poncho makes for an original souvenir."
+              }
+            },
+            {
+              "name": {
+                "de": "Sadet Mae nok Iiang Shrine",
+                "hu": "Sadet Mae nok Iiang Shrine",
+                "ro": "Sadet Mae nok Iiang Shrine",
+                "en": "Sadet Mae nok Iiang Shrine"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter dem nächsten Baum oder Vordach und genießen Sie die mystische Stille des Schreins während eines Regenschauers.",
+                "hu": "Parkolja le a bringát a legközelebbi fa vagy eresz alá, és élvezze a szentély misztikus csendjét egy hirtelen jött trópusi zápor idején.",
+                "ro": "Parcați bicicleta sub cel mai apropiat copac sau streșină și bucurați-vă de liniștea mistică a sanctuarului în timpul unei averse.",
+                "en": "Park your bike under the nearest tree or eave and enjoy the mystical silence of the shrine during a sudden tropical downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Trok Ban Chin (Ban Chin Alley)",
+                "hu": "Trok Ban Chin (Ban Chin Alley)",
+                "ro": "Trok Ban Chin (Ban Chin Alley)",
+                "en": "Trok Ban Chin (Ban Chin Alley)"
+              },
+              "tip_5lang": {
+                "de": "Schieben Sie Ihr Fahrrad durch die schmale Gasse, um bei Nässe nicht auf dem Kopfsteinpflaster auszurutschen und die Architektur besser zu sehen.",
+                "hu": "Tolja a kerékpárt a szűk sikátorban, hogy elkerülje a megcsúszást a vizes burkolaton, és jobban szemügyre vehesse a történelmi részleteket.",
+                "ro": "Împingeți bicicleta prin aleea îngustă pentru a evita alunecarea pe pavajul umed și pentru a observa mai bine detaliile istorice.",
+                "en": "Push your bike through the narrow alley to avoid slipping on the wet surface and to better observe the historic architectural details."
+              }
+            },
+            {
+              "name": {
+                "de": "Tak City Memorial Museum",
+                "hu": "Tak City Memorial Museum",
+                "ro": "Tak City Memorial Museum",
+                "en": "Tak City Memorial Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch für eine längere Trockenpause; stellen Sie sicher, dass Ihre Wertsachen im Fahrradkorb wasserdicht verpackt sind.",
+                "hu": "Használja ki a múzeumlátogatást egy hosszabb száraz pihenőre; ellenőrizze, hogy a kerékpárkosárban lévő értékei vízhatlanul vannak-e elcsomagolva.",
+                "ro": "Folosiți vizita la muzeu pentru o pauză lungă și uscată; asigurați-vă că obiectele de valoare din coșul bicicletei sunt ambalate etanș.",
+                "en": "Use the museum visit for a longer dry break; ensure that your valuables in the bike basket are packed in waterproof bags or covers."
+              }
+            },
+            {
+              "name": {
+                "de": "St.Francis Xavier Catholic Church",
+                "hu": "St.Francis Xavier Catholic Church",
+                "ro": "St.Francis Xavier Catholic Church",
+                "en": "St.Francis Xavier Catholic Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet einen ruhigen, trockenen Rückzugsort; prüfen Sie vor der Weiterfahrt den Luftdruck Ihrer Reifen für besseren Grip auf nasser Straße.",
+                "hu": "A templom nyugodt, száraz menedéket nyújt; a továbbindulás előtt ellenőrizze a gumik állapotát a jobb tapadás érdekében a vizes utakon.",
+                "ro": "Biserica oferă un refugiu liniștit și uscat; înainte de a pleca mai departe, verificați presiunea pneurilor pentru o aderență mai bună.",
+                "en": "The church offers a calm, dry sanctuary; before continuing, check your tire pressure for better grip on the wet city roads."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Mani Banphot Worawihan",
+                "hu": "Wat Mani Banphot Worawihan",
+                "ro": "Wat Mani Banphot Worawihan",
+                "en": "Wat Mani Banphot Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den kunstvollen Tempelgebäuden und genießen Sie den Anblick der glänzenden Dächer im Regen; Vorsicht auf den Stufen.",
+                "hu": "Keressen menedéket a díszes templomépületekben, és élvezze a csillogó tetők látványát az esőben; vigyázzon a lépcsőkön, mert csúszhatnak.",
+                "ro": "Căutați adăpost în clădirile ornamentate ale templului și bucurați-vă de vederea acoperișurilor strălucitoare în ploaie; atenție pe trepte.",
+                "en": "Seek shelter in the ornate temple buildings and enjoy the sight of shining roofs in the rain; be careful on the steps as they might be slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt",
+                "hu": "Éjszakai piac",
+                "ro": "Piața de noapte",
+                "en": "Night market"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Rad an einem gut beleuchteten Ort ab und genießen Sie das Streetfood; reflektierende Kleidung erhöht Ihre Sicherheit bei Regen.",
+                "hu": "Parkolja le a bringát jól látható helyen, és élvezze az utcai ételeket; a fényvisszaverő ruházat viselése fokozza a biztonságát az esőben.",
+                "ro": "Parcați bicicleta într-un loc bine luminat și bucurați-vă de mâncarea stradală; hainele reflectorizante vă sporesc siguranța pe ploaie.",
+                "en": "Park your bike in a well-lit area and enjoy the street food; wearing reflective clothing enhances your safety during a rainy evening ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter ist die perfekte Zeit für eine Radtour in Tak, da die Luft kühl und die Sonne mild ist. Wir starten morgens bei den Monumenten und genießen den frischen Wind. Mittags radeln wir mühelos durch die Gassen und besuchen Museen und Kirchen. Am Nachmittag spüren wir die angenehme Brise am Markt, bevor die frühe Dämmerung einsetzt. Für den Abend auf dem Nachtmarkt sollten Radfahrer an Licht am Fahrrad und eine winddichte Weste gegen die kühle Abendluft denken.",
+            "hu": "A tél a tökéletes időszak egy Tak-i kerékpártúrához, mivel a levegő hűvös, a nap pedig csak gyengén süt. Reggel az emlékművektől indulunk, élvezve a friss szelet. Délben könnyedén tekerünk a sikátorok között, múzeumokat és templomokat látogatva. Délután a piacon érezzük a kellemes szellőt, mielőtt a korai szürkület beállna. Az esti piachoz a bringásoknak érdemes lámpával és szélálló mellénnyel készülniük.",
+            "ro": "Iarna este momentul perfect pentru o tură cu bicicleta în Tak, deoarece aerul este răcoros și soarele este blând. Pornim dimineața de la monumente, bucurându-ne de vântul proaspăt. La prânz pedalăm fără efort prin alei, vizitând muzee și biserici. După-amiaza simțim briza plăcută la piață, înainte de amurgul timpuriu. Pentru seară, bicicliștii ar trebui să aibă lumini și o vestă antivânt.",
+            "en": "Winter is the perfect time for a bike tour in Tak, as the air is cool and the sun is mild. We start in the morning at the monuments, enjoying the fresh wind. At noon, we cycle effortlessly through the alleys, visiting museums and churches. In the afternoon, we feel the pleasant breeze at the market before early dusk sets in. For the evening at the night market, cyclists should use bike lights and a windproof vest."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Monument of King Narai the Great",
+                "hu": "Monument of King Narai the Great",
+                "ro": "Monument of King Narai the Great",
+                "en": "Monument of King Narai the Great"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die frische Morgenluft beim Radeln zum Denkmal; die kühlen Temperaturen machen den Start der Tour sehr angenehm.",
+                "hu": "Élvezze a friss reggeli levegőt az emlékműhöz való tekerés közben; a hűvös hőmérséklet nagyon kellemessé teszi a túra kezdetét.",
+                "ro": "Bucurați-vă de aerul proaspăt de dimineață în timp ce pedalați spre monument; temperaturile răcoroase fac începutul turului foarte plăcut.",
+                "en": "Enjoy the fresh morning air while cycling to the monument; the cool temperatures make the start of the tour very pleasant and energizing."
+              }
+            },
+            {
+              "name": {
+                "de": "Sadet Mae nok Iiang Shrine",
+                "hu": "Sadet Mae nok Iiang Shrine",
+                "ro": "Sadet Mae nok Iiang Shrine",
+                "en": "Sadet Mae nok Iiang Shrine"
+              },
+              "tip_5lang": {
+                "de": "Die milde Wintersonne ist ideal für eine Pause am Schrein; nutzen Sie die Zeit für Fotos ohne die grelle Mittagshitze des Sommers.",
+                "hu": "Az enyhe téli napsütés ideális egy rövid pihenőre a szentélynél; használja ki az időt fotózásra a nyári déli hőség nélkül.",
+                "ro": "Soarele blând de iarnă este ideal pentru o pauză la sanctuar; profitați de timp pentru fotografii fără căldura arzătoare a verii.",
+                "en": "The mild winter sun is ideal for a short break at the shrine; take this time for photos without the harsh midday heat of the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Trok Ban Chin (Ban Chin Alley)",
+                "hu": "Trok Ban Chin (Ban Chin Alley)",
+                "ro": "Trok Ban Chin (Ban Chin Alley)",
+                "en": "Trok Ban Chin (Ban Chin Alley)"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie entspannt durch die schattige Gasse, die im Winter besonders einladend wirkt; die kühle Luft hält Sie fit für weitere Entdeckungen.",
+                "hu": "Tekerjen kényelmesen az árnyas sikátorban, amely télen különösen hívogató; a hűvös levegő frissen tartja a további felfedezésekhez.",
+                "ro": "Pedalați relaxat prin aleea umbrită, care este deosebit de primitoare iarna; aerul răcoros vă menține în formă pentru noi descoperiri.",
+                "en": "Cycle relaxedly through the shaded alley, which feels especially inviting in winter; the cool air keeps you fit for further discoveries."
+              }
+            },
+            {
+              "name": {
+                "de": "Tak City Memorial Museum",
+                "hu": "Tak City Memorial Museum",
+                "ro": "Tak City Memorial Museum",
+                "en": "Tak City Memorial Museum"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher im Schatten und genießen Sie die Ausstellungen; im Winter sind die Räume auch ohne Klimaanlage sehr angenehm.",
+                "hu": "Parkolja le a bringát biztonságosan az árnyékban, és élvezze a kiállítást; télen a termek légkondicionálás nélkül is nagyon kellemesek.",
+                "ro": "Parcați bicicleta în siguranță la umbră și bucurați-vă de expoziție; iarna, sălile sunt foarte plăcute chiar și fără aer condiționat.",
+                "en": "Park your bike safely in the shade and enjoy the exhibition; in winter, the rooms are very comfortable even without strong air conditioning."
+              }
+            },
+            {
+              "name": {
+                "de": "St.Francis Xavier Catholic Church",
+                "hu": "St.Francis Xavier Catholic Church",
+                "ro": "St.Francis Xavier Catholic Church",
+                "en": "St.Francis Xavier Catholic Church"
+              },
+              "tip_5lang": {
+                "de": "Die Architektur der Kirche kommt im klaren Winterlicht besonders gut zur Geltung; ein kurzer Halt für ein Foto lohnt sich jetzt sehr.",
+                "hu": "A templom építészete a tiszta téli fényben különösen jól érvényesül; egy rövid megálló egy fotó erejéig most nagyon megéri.",
+                "ro": "Arhitectura bisericii iese în evidență în lumina clară de iarnă; o scurtă oprire pentru o fotografie merită din plin acum.",
+                "en": "The architecture of the church stands out beautifully in the clear winter light; a short stop for a photo is very much worth it now."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Mani Banphot Worawihan",
+                "hu": "Wat Mani Banphot Worawihan",
+                "ro": "Wat Mani Banphot Worawihan",
+                "en": "Wat Mani Banphot Worawihan"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das kühle Wetter, um den Tempelbereich gründlich zu erkunden; die sanfte Brise macht den Aufenthalt im Freien sehr erholsam.",
+                "hu": "Használja ki a hűvös időt a templom alapos felfedezésére; a lágy szellő nagyon pihentetővé teszi a szabadban tartózkodást.",
+                "ro": "Profitați de vremea răcoroasă pentru a explora temeinic templul; briza blândă face ca șederea în aer liber să fie foarte relaxantă.",
+                "en": "Take advantage of the cool weather to explore the temple grounds thoroughly; the gentle breeze makes staying outdoors very relaxing."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt",
+                "hu": "Éjszakai piac",
+                "ro": "Piața de noapte",
+                "en": "Night market"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie unbedingt Ihre Fahrradlichter ein, da es früh dunkel wird; ein heißer Tee am Markt ist der perfekte Abschluss der Tour.",
+                "hu": "Mindenképpen kapcsolja be a kerékpárlámpákat, mivel korán sötétedik; egy forró tea a piacon tökéletes lezárása a túrának.",
+                "ro": "Nu uitați să aprindeți luminile bicicletei, deoarece se întunecă devreme; un ceai fierbinte la piață este finalul perfect al turului.",
+                "en": "Be sure to turn on your bike lights as it gets dark early; a hot tea at the market is the perfect conclusion to your winter cycling tour."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Autózzon fel reggel a Wat Khao Tham barlangtemplomhoz, és élvezze a lenyűgöző kilátást.\n\nDélben látogassa meg a híres Taksin szentélyt, a Wat Bot Mani templomot és a múzeumot.\n\nDélután fedezze fel a történelmi Trok Ban Chin sikátort és a fenséges Narai-emlékművet.\n\nAz estét a vibráló éjszakai piacon zárhatja, csodás helyi ételek kíséretében.",
         "ro": "Conduceți dimineața spre Wat Khao Tham pentru a vă bucura de priveliștile panoramice.\n\nLa prânz, vizitați sanctuarul semnificativ Taksin, templul Wat Bot Mani și muzeul orașului.\n\nDupă-amiaza, explorați aleea istorică Trok Ban Chin și maiestuosul monument al regelui Narai.\n\nÎncununați-vă ziua la piața de noapte, savurând cele mai populare preparate stradale din regiune.",
         "en": "Drive up to Wat Khao Tham in the morning to enjoy sweeping panoramic views of the area.\n\nAt midday, visit the highly revered Taksin Shrine, Wat Bot Mani, and the informative city museum.\n\nIn the afternoon, take a historical walk through Trok Ban Chin and admire the Narai Monument.\n\nCrown your day at the lively night market, sampling a fantastic array of authentic street food."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Tak auch bei starkem Regen komfortabel und trocken. Wir beginnen morgens bei den höher gelegenen Tempeln, wo der Nebel im Regen eine mystische Stimmung erzeugt. Über das Museum und historische Gassen führt uns der Weg zu Monumenten, wobei wir kurze Schauer im Fahrzeug aussitzen können. Am Nachmittag besuchen wir den überdachten Markt und beenden den Tag entspannt auf dem Nachtmarkt, wobei das Auto stets einen sicheren Rückzugsort bietet.",
+            "hu": "Autóval a legnagyobb esőben is kényelmesen és szárazon fedezhetjük fel Tak városát. Reggel a magasabban fekvő templomoknál kezdünk, ahol az esőben felszálló pára misztikus hangulatot áraszt. A múzeumon és történelmi utcákon át vezet utunk, a záporokat pedig a kocsiban ülve várhatjuk meg. Délután a fedett piacot látogatjuk meg, a napot pedig az éjszakai piacon zárjuk, ahol az autó biztos menedék marad.",
+            "ro": "Cu mașina explorăm Tak confortabil și uscat chiar și pe ploaie abundentă. Începem dimineața la templele de pe dealuri, unde ceața creată de ploaie oferă o atmosferă mistică. Drumul ne poartă prin muzeu și străzi istorice spre monumente, putând aștepta trecerea averselor în vehicul. După-amiaza vizităm piața acoperită și încheiem ziua în piața de noapte, mașina fiind mereu un refugiu sigur.",
+            "en": "By car, we explore Tak comfortably and dry even in heavy rain. We begin in the morning at the hilltop temples, where rain-induced mist creates a mystical atmosphere. Our path leads through the museum and historic streets to monuments, allowing us to wait out showers in the vehicle. In the afternoon, we visit the covered market and end the day at the night market, with the car as a constant safe retreat."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Khao Tham",
+                "hu": "Wat Khao Tham",
+                "ro": "Wat Khao Tham",
+                "en": "Wat Khao Tham"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den nebligen Ausblick vom Hügel aus dem Auto heraus und parken Sie so nah wie möglich am Eingang, um trocken zu bleiben.",
+                "hu": "Élvezze a ködös kilátást a dombtetőről az autóból, és parkoljon a lehető legközelebb a bejárathoz, hogy szárazon maradjon a látogatáskor.",
+                "ro": "Bucurați-vă de priveliștea cețoasă de pe deal direct din mașină și parcați cât mai aproape de intrare pentru a rămâne uscat.",
+                "en": "Enjoy the misty view from the hilltop from inside the car and park as close to the entrance as possible to stay dry during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "King Taksin the Great Memorial Shrine",
+                "hu": "King Taksin the Great Memorial Shrine",
+                "ro": "King Taksin the Great Memorial Shrine",
+                "en": "King Taksin the Great Memorial Shrine"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt am Schrein; bei Regen ist die Atmosphäre hier besonders andächtig und die Farben wirken sehr kräftig.",
+                "hu": "Használja a közvetlenül a szentélynél lévő parkolót; esőben az atmoszféra itt különösen áhítatos, a színek pedig nagyon élénknek hatnak.",
+                "ro": "Folosiți parcarea direct de la sanctuar; pe ploaie, atmosfera aici este deosebit de pioasă, iar culorile par foarte intense.",
+                "en": "Use the parking lot directly at the shrine; in the rain, the atmosphere here is particularly solemn and the colors appear very vibrant."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bot Mani Si Bun Rueang",
+                "hu": "Wat Bot Mani Si Bun Rueang",
+                "ro": "Wat Bot Mani Si Bun Rueang",
+                "en": "Wat Bot Mani Si Bun Rueang"
+              },
+              "tip_5lang": {
+                "de": "Der kurze Weg vom Parkplatz zum Tempelgebäude lässt sich auch bei Regen schnell bewältigen; bewundern Sie die glänzenden Mosaike im Inneren.",
+                "hu": "A parkolótól a templomig tartó rövid út esőben is gyorsan megtehető; csodálja meg a belső tér csillogó mozaikjait a szárazban.",
+                "ro": "Drumul scurt de la parcare la templu poate fi parcurs rapid chiar și pe ploaie; admirați mozaicurile strălucitoare din interior.",
+                "en": "The short walk from the parking lot to the temple can be done quickly even in rain; admire the shining interior mosaics while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Tak City Memorial Museum",
+                "hu": "Tak City Memorial Museum",
+                "ro": "Tak City Memorial Museum",
+                "en": "Tak City Memorial Museum"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp für eine längere Regenpause; das Museum bietet ausreichend überdachte Bereiche und spannende kulturelle Einblicke.",
+                "hu": "Ideális megálló egy hosszabb esőszünethez; a múzeum bőséges fedett teret és izgalmas kulturális betekintést kínál a látogatóknak.",
+                "ro": "O oprire ideală pentru o pauză lungă de ploaie; muzeul oferă spații acoperite generoase și perspective culturale fascinante.",
+                "en": "An ideal stop for a longer rain break; the museum offers ample covered space and exciting cultural insights for all visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Trok Ban Chin (Ban Chin Alley)",
+                "hu": "Trok Ban Chin (Ban Chin Alley)",
+                "ro": "Trok Ban Chin (Ban Chin Alley)",
+                "en": "Trok Ban Chin (Ban Chin Alley)"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam durch die angrenzenden Straßen und parken Sie für einen kurzen, regengeschützten Blick in die historische Gasse.",
+                "hu": "Hajtson lassan a környező utcákban, és parkoljon le egy rövid, eső elől védett pillantásra a történelmi jelentőségű sikátorba.",
+                "ro": "Conduceți încet pe străzile adiacente și parcați pentru o privire scurtă, protejată de ploaie, în aleea istorică.",
+                "en": "Drive slowly through the adjacent streets and park for a quick, rain-protected glimpse into the historically significant alley."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument of King Narai the Great",
+                "hu": "Monument of King Narai the Great",
+                "ro": "Monument of King Narai the Great",
+                "en": "Monument of King Narai the Great"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das Denkmal aus dem trockenen Auto heraus oder nutzen Sie eine kurze Regenpause für ein schnelles Foto am Monument.",
+                "hu": "Szemlélje meg az emlékművet a száraz autóból, vagy használjon ki egy rövid esőszünetet egy gyors fotó elkészítéséhez a szobornál.",
+                "ro": "Observați monumentul din mașina uscată sau profitați de o scurtă pauză de ploaie pentru o fotografie rapidă la statuie.",
+                "en": "Observe the monument from the dry car or take advantage of a short break in the rain for a quick photo at the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt",
+                "hu": "Éjszakai piac",
+                "ro": "Piața de noapte",
+                "en": "Night market"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und nutzen Sie das Auto, um Ihre Einkäufe trocken zu verstauen, während Sie die kulinarische Vielfalt genießen.",
+                "hu": "Parkoljon a közelben, és használja az autót a vásárolt holmik szárazon tartására, miközben élvezi a kulináris kínálatot.",
+                "ro": "Parcați în apropiere și folosiți mașina pentru a vă depozita cumpărăturile la uscat, în timp ce savurați oferta culinară.",
+                "en": "Park nearby and use the car to keep your purchases dry while you enjoy the diverse culinary offerings at the market stalls."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im Winter ist das Auto das bequemste Mittel, um die verstreuten Sehenswürdigkeiten von Tak bei angenehmen Temperaturen zu erreichen. Wir starten morgens mit einer Fahrt zum Wat Khao Tham für eine klare Fernsicht. Mittags besuchen wir Monumente und Museen, wobei die Klimaanlage im Auto für konstante Frische sorgt. Am Nachmittag erleben wir den Trubel am Markt, bevor die Sonne früh untergeht. Der Abend auf dem Nachtmarkt ist hűvös, aber das vorgeheizte Auto wartet für eine gemütliche Rückfahrt.",
+            "hu": "Télen az autó a legkényelmesebb módja annak, hogy Tak szétszórt látnivalóit kellemes hőmérsékletben érjük el. Reggel a Wat Khao Thamhoz autózunk a tiszta kilátásért. Délben emlékműveket és múzeumokat látogatunk, miközben a kocsi hűvöse állandó frissességet biztosít. Délután a piaci forgatagot élvezzük a korai naplemente előtt. Az éjszakai piac hűvös lesz, de a kocsi kényelme vár minket a visszaútra.",
+            "ro": "Iarna, mașina este cel mai confortabil mijloc de a ajunge la atracțiile din Tak la temperaturi plăcute. Pornim dimineața spre Wat Khao Tham pentru o vedere clară. La prânz vizităm monumente și muzee, climatizarea mașinii asigurând o prospețime constantă. După-amiaza experimentăm agitația pieței înainte de apusul timpuriu. Piața de noapte va fi răcoroasă, dar confortul mașinii ne așteaptă la întoarcere.",
+            "en": "In winter, the car is the most comfortable way to reach Tak's scattered sights in pleasant temperatures. We start the morning with a drive to Wat Khao Tham for clear views. At noon, we visit monuments and museums while the car's AC ensures constant freshness. In the afternoon, enjoy the market bustle before the early sunset. The night market will be cool, but the car's comfort awaits for your return journey."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Wat Khao Tham",
+                "hu": "Wat Khao Tham",
+                "ro": "Wat Khao Tham",
+                "en": "Wat Khao Tham"
+              },
+              "tip_5lang": {
+                "de": "Die klare Winterluft bietet heute die beste Fernsicht vom Tempelhügel; kommen Sie früh, um die kühle Morgenstimmung voll zu genießen.",
+                "hu": "A tiszta téli levegő ma kínálja a legjobb távlati kilátást a templomdombról; érkezzen korán, hogy élvezze a hűvös reggeli hangulatot.",
+                "ro": "Aerul curat de iarnă oferă astăzi cea mai bună vedere panoramică de pe dealul templului; veniți devreme pentru atmosfera răcoroasă.",
+                "en": "The clear winter air offers the best panoramic views from the temple hill today; arrive early to fully enjoy the cool morning atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "King Taksin the Great Memorial Shrine",
+                "hu": "King Taksin the Great Memorial Shrine",
+                "ro": "King Taksin the Great Memorial Shrine",
+                "en": "King Taksin the Great Memorial Shrine"
+              },
+              "tip_5lang": {
+                "de": "Das milde Licht der Wintersonne lässt die goldenen Details des Schreins prachtvoll leuchten; Parken ist im Winter stressfrei möglich.",
+                "hu": "A téli nap enyhe fénye ragyogóvá teszi a szentély aranyozott részleteit; a parkolás télen teljesen stresszmentesen megoldható.",
+                "ro": "Lumina blândă a soarelui de iarnă face ca detaliile aurii ale sanctuarului să strălucească; parcarea este ușoară și fără stres iarna.",
+                "en": "The mild winter sunlight makes the golden details of the shrine glow magnificently; parking is stress-free and easy during this season."
+              }
+            },
+            {
+              "name": {
+                "de": "Wat Bot Mani Si Bun Rueang",
+                "hu": "Wat Bot Mani Si Bun Rueang",
+                "ro": "Wat Bot Mani Si Bun Rueang",
+                "en": "Wat Bot Mani Si Bun Rueang"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den klimatisierten Komfort Ihres Autos zwischen den Tempelbesuchen, um auch bei direkter Wintersonne erfrischt zu bleiben.",
+                "hu": "Használja ki az autó légkondicionált kényelmét a templomlátogatások között, hogy a közvetlen téli napsütésben is friss maradjon.",
+                "ro": "Profitați de confortul climatizat al mașinii între vizitele la temple pentru a rămâne revigorat chiar și sub soarele direct de iarnă.",
+                "en": "Take advantage of your car's air-conditioned comfort between temple visits to stay refreshed even under the direct winter sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Tak City Memorial Museum",
+                "hu": "Tak City Memorial Museum",
+                "ro": "Tak City Memorial Museum",
+                "en": "Tak City Memorial Museum"
+              },
+              "tip_5lang": {
+                "de": "Verstauen Sie Ihre Jacke im Auto, während Sie das Museum besichtigen; im Gebäude ist es im Winter angenehm warm und windstill.",
+                "hu": "Hagyja a kabátját az autóban, amíg a múzeumot látogatja; az épületben télen kellemesen meleg és szélmentes az időjárás.",
+                "ro": "Lăsați jacheta în mașină în timp ce vizitați muzeul; în interiorul clădirii este plăcut și cald, fără vântul de afară, iarna.",
+                "en": "Leave your jacket in the car while visiting the museum; the interior is pleasantly warm and windless during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "Trok Ban Chin (Ban Chin Alley)",
+                "hu": "Trok Ban Chin (Ban Chin Alley)",
+                "ro": "Trok Ban Chin (Ban Chin Alley)",
+                "en": "Trok Ban Chin (Ban Chin Alley)"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie bequem am Ende der Gasse und genießen Sie einen Spaziergang bei kühler Brise durch dieses historische Viertel von Tak.",
+                "hu": "Parkoljon le kényelmesen a sikátor végén, és élvezze a hűvös szellőben tett sétát Tak ezen történelmi jelentőségű negyedében.",
+                "ro": "Parcați confortabil la capătul aleii și bucurați-vă de o plimbare în briza răcoroasă prin acest cartier istoric din Tak.",
+                "en": "Park comfortably at the end of the alley and enjoy a stroll in the cool breeze through this historically significant district of Tak."
+              }
+            },
+            {
+              "name": {
+                "de": "Monument of King Narai the Great",
+                "hu": "Monument of King Narai the Great",
+                "ro": "Monument of King Narai the Great",
+                "en": "Monument of King Narai the Great"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Denkmal am späten Nachmittag, wenn das weiche Winterlicht ideale Bedingungen für beeindruckende Fotos der Statue bietet.",
+                "hu": "Látogasson el az emlékműhöz késő délután, amikor a lágy téli fények ideális körülményeket teremtenek a szobor fotózásához.",
+                "ro": "Vizitați monumentul după-amiaza târziu, când lumina blândă de iarnă oferă condiții ideale pentru fotografii impresionante.",
+                "en": "Visit the monument in the late afternoon, when the soft winter light provides ideal conditions for impressive photos of the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Nachtmarkt",
+                "hu": "Éjszakai piac",
+                "ro": "Piața de noapte",
+                "en": "Night market"
+              },
+              "tip_5lang": {
+                "de": "Nach dem Marktbesuch ist die kurze Fahrt im warmen Auto zurück zum Hotel besonders angenehm, wenn die Abendluft merklich abkühlt.",
+                "hu": "A piaci látogatás után a rövid út a meleg autóban vissza a szállásra különösen kellemes, ahogy az esti levegő érezhetően lehűl.",
+                "ro": "După vizita la piață, drumul scurt în mașina caldă înapoi la cazare este foarte plăcut, pe măsură ce aerul serii se răcește vizibil.",
+                "en": "After the market visit, the short drive in a warm car back to your accommodation is very pleasant as the evening air cools down significantly."
+              }
+            }
+          ]
+        }
       }
     }
   }

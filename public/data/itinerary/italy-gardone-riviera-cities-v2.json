@@ -160,6 +160,196 @@
         "hu": "A reggel a tóparton indul a Torre San Marco-nál, majd a Parco di Villa Alba zöldjében sétálhat. A déli napfény a városháza és az André Heller Botanikus Kert felfedezésére csábít. Délután merüljön el az Il Vittoriale különc világában és fedezze fel bizarr kincseit. Az este közeledtével érkezik meg a Mausoleo degli Eroihoz, ahonnan békés, tavi panorámában gyönyörködhet.",
         "ro": "Dimineața începe pe malul lacului la Torre San Marco, înainte de o plimbare prin Parco di Villa Alba. Soarele amiezii vă invită să explorați primăria și diversitatea grădinii André Heller. După-amiaza, plonjați în lumea excentrică a Il Vittoriale, descoperindu-i comorile bizare. Seara se lasă pe măsură ce ajungeți la Mausoleo degli Eroi, bucurându-vă de o priveliște liniștită a lacului.",
         "en": "Your morning starts by the lakeshore at Torre San Marco, setting a relaxed pace before strolling through the greenery of Parco di Villa Alba. The midday sun invites you to explore the elegant town hall and the magical botanical diversity of the André Heller Garden. In the afternoon, dive into the eccentric world of Il Vittoriale, discovering its bizarre treasures. Evening falls as you reach the Mausoleo degli Eroi, enjoying a quiet lake view."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen am Gardasee verleiht der Torre San Marco eine mystische Aura. Mittags bieten die historischen Räume des Rathauses und die überdachten Bereiche der Villa Alba Schutz. Der Nachmittag gehört den Museen, wo Sie trocken die Kunst genießen können. Abends glänzen die nassen Gassen im Schein der Laternen, während Sie mit dem Schirm am Ufer flanieren.",
+            "hu": "A borús reggel misztikus hangulatot áraszt a tóparton, az eső elől a Torre San Marco közelében találunk menedéket. Délben a Villa Alba és a városháza fedett terei nyújtanak oltalmat a zápor elől. Délután az André Heller kert és a Vittoriale belső kiállításai tartanak szárazon. Este a lámpafényben megcsillanó vizes aszfalton, esernyővel sétálva zárjuk a napot a sétányon.",
+            "ro": "O dimineață ploioasă la malul lacului oferă o aură mistică turnului Torre San Marco. La prânz, spațiile istorice ale primăriei și zonele acoperite ale Vilei Alba oferă adăpost. După-amiaza este dedicată muzeelor, unde vă puteți bucura de artă la adăpost de ploaie. Seara, străzile umede strălucesc sub lumina felinarelor în timp ce vă plimbați cu umbrela pe faleză.",
+            "en": "A rainy morning by the lake gives Torre San Marco a mystical aura. At noon, the historical rooms of the town hall and the covered areas of Villa Alba provide shelter. The afternoon is dedicated to the museums, where you can enjoy art while staying dry. In the evening, the wet streets shimmer under the lamplight as you stroll along the shore with an umbrella."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre San Marco",
+                "hu": "Torre San Marco",
+                "ro": "Torre San Marco",
+                "en": "Torre San Marco"
+              },
+              "tip_5lang": {
+                "de": "Der Turm wirkt bei Regen besonders dramatisch; tragen Sie rutschfeste Schuhe auf dem nassen Pflaster und halten Sie die Kamera für stimmungsvolle Nebelfotos bereit.",
+                "hu": "A torony esőben különösen drámai látványt nyújt; viseljen csúszásmentes cipőt a vizes köveken, és készítse elő a kamerát a hangulatos, ködös fotókhoz.",
+                "ro": "Turnul arată deosebit de dramatic în ploaie; purtați pantofi antiderapanți pe pavajul umed și pregătiți camera pentru fotografii atmosferice cu ceață.",
+                "en": "The tower looks particularly dramatic in the rain; wear non-slip shoes on the wet pavement and have your camera ready for atmospheric foggy photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Villa Alba",
+                "hu": "Parco di Villa Alba",
+                "ro": "Parco di Villa Alba",
+                "en": "Parco di Villa Alba"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten zwar etwas Schutz, aber bleiben Sie auf den befestigten Wegen, da der Rasen bei Regen sehr schlammig und rutschig werden kann.",
+                "hu": "A sűrű lombkoronák nyújtanak némi védelmet, de maradjon a burkolt utakon, mivel a fű esőben sárossá és rendkívül csúszóssá válhat a park területén.",
+                "ro": "Coroanele dese ale copacilor oferă o oarecare protecție, dar rămâneți pe potecile pavate, deoarece iarba poate deveni foarte noroioasă și alunecoasă pe ploaie.",
+                "en": "The dense tree canopies offer some protection, but stay on the paved paths as the grass can become very muddy and slippery during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Gardone Riviera",
+                "hu": "Municipio di Gardone Riviera",
+                "ro": "Municipio di Gardone Riviera",
+                "en": "Municipio di Gardone Riviera"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch im Rathaus, um sich im trockenen Innenbereich aufzuwärmen und die Architektur zu bewundern, während draußen der Regen auf den See prasselt.",
+                "hu": "Használja ki a városházi látogatást, hogy a száraz belső térben felmelegedjen és megcsodálja az építészetet, miközben kint az eső kopog a tó felszínén.",
+                "ro": "Profită de vizita la primărie pentru a te încălzi în interiorul uscat și pentru a admira arhitectura în timp ce ploaia bate pe suprafața lacului afară.",
+                "en": "Take advantage of the town hall visit to warm up in the dry interior and admire the architecture while the rain patters on the lake surface outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden André Heller",
+                "hu": "Botanical Garden André Heller",
+                "ro": "Botanical Garden André Heller",
+                "en": "Botanical Garden André Heller"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz in den Gewächshäusern, wo Sie exotische Pflanzen im Trockenen bestaunen können, und genießen Sie das Rauschen des Regens in der Vegetation.",
+                "hu": "Keressen menedéket az üvegházakban, ahol szárazon csodálhatja meg az egzotikus növényeket, és élvezze az eső kopogását a dús trópusi lombozaton.",
+                "ro": "Căutați adăpost în sere, unde puteți admira plante exotice la uscat, și bucurați-vă de sunetul ploii care cade pe vegetația luxuriantă.",
+                "en": "Seek shelter in the greenhouses where you can admire exotic plants in the dry, and enjoy the sound of the rain hitting the lush tropical foliage."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Vittoriale degli Italiani",
+                "hu": "Il Vittoriale degli Italiani",
+                "ro": "Il Vittoriale degli Italiani",
+                "en": "Il Vittoriale degli Italiani"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie mehr Zeit in den beeindruckenden Innenräumen des Haupthauses, die reich dekoriert sind und eine perfekte Flucht vor dem nassen Wetter bieten.",
+                "hu": "Töltsön több időt a főépület lenyűgöző, gazdagon díszített belső tereiben, amelyek tökéletes menekülést kínálnak a nedves és hűvös időjárás elől.",
+                "ro": "Petreceți mai mult timp în interioarele impresionante ale casei principale, care sunt bogat decorate și oferă o evadare perfectă de vremea umedă.",
+                "en": "Spend more time in the impressive interiors of the main house, which are richly decorated and offer a perfect escape from the wet and chilly weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo degli Eroi",
+                "hu": "Mausoleo degli Eroi",
+                "ro": "Mausoleo degli Eroi",
+                "en": "Mausoleo degli Eroi"
+              },
+              "tip_5lang": {
+                "de": "Der Aufstieg kann bei Regen rutschig sein; gehen Sie vorsichtig und genießen Sie die dramatische Aussicht auf den wolkenverhangenen See von der Spitze.",
+                "hu": "Az emelkedő esőben csúszós lehet; közlekedjen óvatosan, és élvezze a csúcsról nyíló drámai kilátást a felhőkbe burkolózó, viharos tavon.",
+                "ro": "Urcarea poate fi alunecoasă pe ploaie; mergeți cu atenție și bucurați-vă de vederea dramatică de sus asupra lacului învăluit în nori.",
+                "en": "The climb can be slippery in the rain; walk carefully and enjoy the dramatic view from the top of the lake shrouded in heavy clouds."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen bringt frische Luft und Ruhe nach Gardone. Mittags wärmen Sie sich in einem gemütlichen Café auf, bevor Sie die historischen Stätten besichtigen. Der Nachmittag bietet goldenes Licht für Fotos, doch die Sonne versinkt bereits gegen 17:00 Uhr hinter den Bergen. Abends leuchten die weihnachtlichen Lichter und die kühle Brise lädt zu einem heißen Getränk ein.",
+            "hu": "A tiszta téli reggel friss levegőt és nyugalmat hoz Gardonéba. Délben egy hangulatos kávézóban melegedhetünk fel a történelmi helyszínek bejárása előtt. A délután aranyló fényeket kínál a fotózáshoz, de a nap már 17:00 körül eltűnik a hegyek mögött. Este felgyúlnak az ünnepi fények, és a hűvös szél egy forró ital elfogyasztására csábít a parton.",
+            "ro": "O dimineață senină de iarnă aduce aer proaspăt și liniște în Gardone. La prânz vă încălziți într-o cafenea primitoare înainte de a vizita siturile istorice. După-amiaza oferă lumină aurie pentru fotografii, dar soarele apune deja în jurul orei 17:00 după munți. Seara se aprind luminile festive, iar briza rece vă invită la o băutură caldă pe mal.",
+            "en": "A clear winter morning brings fresh air and tranquility to Gardone. At noon, warm up in a cozy cafe before visiting the historical sites. The afternoon offers golden light for photos, but the sun disappears behind the mountains around 17:00. In the evening, festive lights come on, and the cool breeze invites you for a hot drink by the shore."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre San Marco",
+                "hu": "Torre San Marco",
+                "ro": "Torre San Marco",
+                "en": "Torre San Marco"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne steht tief und bietet fantastisches Licht; ziehen Sie sich warm an, da die Brise vom See her im Winter besonders schneidend sein kann.",
+                "hu": "A téli nap alacsonyan jár, fantasztikus fényeket teremtve; öltözzön rétegesen, mert a tavi szél ilyenkor különösen metsző és hideg lehet.",
+                "ro": "Soarele de iarnă este jos, creând o lumină fantastică; îmbrăcați-vă gros, deoarece briza de pe lac poate fi deosebit de tăioasă și rece acum.",
+                "en": "The winter sun is low, creating fantastic light; dress in layers because the lake breeze can be particularly biting and cold at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Villa Alba",
+                "hu": "Parco di Villa Alba",
+                "ro": "Parco di Villa Alba",
+                "en": "Parco di Villa Alba"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe des winterlichen Parks ohne die Touristenmassen und bewundern Sie die Struktur der kahlen Bäume vor dem blauen Winterhimmel.",
+                "hu": "Élvezze a téli park nyugalmát a turistaáradat nélkül, és csodálja meg a csupasz ágak művészi sziluettjét a tiszta, kék téli égbolt előtt.",
+                "ro": "Bucurați-vă de liniștea parcului de iarnă fără masele de turiști și admirați silueta ramurilor goale pe fundalul cerului senin de iarnă.",
+                "en": "Enjoy the tranquility of the winter park without the tourist crowds and admire the artistic silhouette of bare branches against the clear winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Municipio di Gardone Riviera",
+                "hu": "Municipio di Gardone Riviera",
+                "ro": "Municipio di Gardone Riviera",
+                "en": "Municipio di Gardone Riviera"
+              },
+              "tip_5lang": {
+                "de": "Der Innenbereich ist im Winter angenehm temperiert; nutzen Sie den Halt für eine kurze Aufwärmpause und bewundern Sie die Architektur in aller Stille.",
+                "hu": "A belső terek télen kellemesen temperáltak; használja ki a megállót egy rövid felmelegedésre, és csodálja meg az építészetet a csendes időszakban.",
+                "ro": "Interioarele sunt plăcut temperate iarna; profită de oprire pentru o scurtă încălzire și admiră arhitectura în această perioadă liniștită.",
+                "en": "The interiors are pleasantly tempered in winter; take advantage of the stop for a short warm-up and admire the architecture during this quiet period."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden André Heller",
+                "hu": "Botanical Garden André Heller",
+                "ro": "Botanical Garden André Heller",
+                "en": "Botanical Garden André Heller"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie unbedingt das beheizte Gewächshaus, um die tropische Wärme zu genießen und die exotische Flora auch im tiefsten Winter zu bestaunen.",
+                "hu": "Mindenképpen látogasson el a fűtött üvegházba, hogy élvezze a trópusi meleget és megcsodálja az egzotikus flórát a tél közepén is.",
+                "ro": "Asigurați-vă că vizitați sera încălzită pentru a vă bucura de căldura tropicală și pentru a admira flora exotică chiar și în mijlocul iernii.",
+                "en": "Be sure to visit the heated greenhouse to enjoy the tropical warmth and admire the exotic flora even in the middle of winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Vittoriale degli Italiani",
+                "hu": "Il Vittoriale degli Italiani",
+                "ro": "Il Vittoriale degli Italiani",
+                "en": "Il Vittoriale degli Italiani"
+              },
+              "tip_5lang": {
+                "de": "Die prunkvollen Innenräume bieten eine warme Zuflucht; planen Sie Ihren Besuch so, dass Sie vor dem frühen Sonnenuntergang um 17:00 Uhr fertig sind.",
+                "hu": "A pompás belső terek meleg menedéket nyújtanak; tervezze úgy a látogatást, hogy a korai, 17:00 órai naplemente előtt befejezze a nézelődést.",
+                "ro": "Interioarele somptuoase oferă un refugiu cald; planificați-vă vizita astfel încât să terminați înainte de apusul timpuriu de la ora 17:00.",
+                "en": "The grand interiors provide a warm refuge; plan your visit to finish before the early sunset at 17:00 behind the surrounding mountains."
+              }
+            },
+            {
+              "name": {
+                "de": "Mausoleo degli Eroi",
+                "hu": "Mausoleo degli Eroi",
+                "ro": "Mausoleo degli Eroi",
+                "en": "Mausoleo degli Eroi"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie kurz vor 17:00 Uhr hierher, um den spektakulären Wintersonnenuntergang über dem Gardasee zu erleben, aber vergessen Sie Ihre Handschuhe nicht.",
+                "hu": "Érkezzen nem sokkal 17:00 óra előtt, hogy átélje a látványos téli naplementét a Garda-tó felett, de ne felejtse el otthon a kesztyűjét.",
+                "ro": "Sosiți puțin înainte de ora 17:00 pentru a experimenta spectaculosul apus de iarnă peste lacul Garda, dar nu vă uitați mănușile.",
+                "en": "Arrive shortly before 17:00 to experience the spectacular winter sunset over Lake Garda, but don't forget to wear your warm gloves."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "Tekerjen a tóparton a Torre San Marco-tól indulva, majd pihenjen meg a nyugodt Parco di Villa Alba parkban. A dél egy botanikus utazást tartogat az André Heller Kertben és egy gurulást a Sant'Antonio Abate templomhoz. A délutánt a lenyűgöző Vittoriale komplexumnak szentelheti. Zárja a napot az Il Divino Infante egyedülálló szobrainak megcsodálásával a lemenő nap fényében.",
         "ro": "Pedalați de-a lungul lacului începând de la Torre San Marco, bucurându-vă de dimineață la Parco di Villa Alba. Amiaza vă aduce în Grădina André Heller și la biserica istorică Sant'Antonio Abate. După-amiaza este dedicată complexului excentric Vittoriale. Încheiați ziua admirând sculpturile unice de la Il Divino Infante odată cu lăsarea serii.",
         "en": "Pedal along the lakeside starting from Torre San Marco, taking in the morning breeze before a stop at the tranquil Parco di Villa Alba. Midday features a botanical journey through the André Heller Garden and a short ride to the historic Chiesa di Sant'Antonio Abate. Your afternoon is dedicated to the sprawling, eccentric Vittoriale complex. Conclude the day marveling at the unique sculptures at Il Divino Infante as dusk sets in."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Regnerisches Wetter erfordert beim Radfahren in Gardone Vorsicht. Morgens fahren wir vorsichtig zur Torre San Marco, während die Gischt des Sees hochspritzt. Mittags suchen wir Schutz in Museen, um die Kleidung zu trocknen. Der Nachmittag bietet kurze Etappen zwischen kulturellen Highlights. Abends beenden wir die Tour frühzeitig, bevor die Sicht auf den nassen Straßen abnimmt.",
+            "hu": "Az esős idő óvatosságot igényel a gardonei kerékpározás során. Reggel óvatosan tekerünk a Torre San Marco felé a felverődő vízben. Délben múzeumokban keresünk menedéket, hogy megszárítsuk ruháinkat. A délután rövid szakaszokat kínál a kulturális fénypontok között. Este korán befejezzük a túrát, mielőtt a látási viszonyok romlanának a vizes utakon.",
+            "ro": "Vremea ploioasă necesită prudență în timpul mersului pe bicicletă în Gardone. Dimineața pedalăm cu grijă spre Torre San Marco prin apa stropită. La prânz căutăm adăpost în muzee pentru a ne usca hainele. După-amiaza oferă etape scurte între punctele culturale culminante. Seara încheiem turul devreme înainte ca vizibilitatea pe drumurile ude să scadă.",
+            "en": "Rainy weather requires caution while cycling in Gardone. In the morning, we pedal carefully towards Torre San Marco through the splashing water. At noon, we seek shelter in museums to dry our clothes. The afternoon offers short stages between cultural highlights. In the evening, we finish the tour early before visibility decreases on the wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre San Marco",
+                "hu": "Torre San Marco",
+                "ro": "Torre San Marco",
+                "en": "Torre San Marco"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf das rutschige Kopfsteinpflaster in Turmnähe; bremsen Sie frühzeitig und genießen Sie den dramatischen Blick auf den aufgewühlten See.",
+                "hu": "Ügyeljen a csúszós macskakövekre a torony közelében; fékezzen időben, és élvezze a drámai kilátást a felkavart, hullámzó tóra.",
+                "ro": "Atenție la pavajul alunecos din apropierea turnului; frânați din timp și bucurați-vă de vederea dramatică asupra lacului agitat.",
+                "en": "Watch out for the slippery cobblestones near the tower; brake early and enjoy the dramatic view of the churned-up, wavy lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Villa Alba",
+                "hu": "Parco di Villa Alba",
+                "ro": "Parco di Villa Alba",
+                "en": "Parco di Villa Alba"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad auf festem Untergrund und nutzen Sie die Pavillons als kurzen Unterstand, falls der Regen während der Pause stärker werden sollte.",
+                "hu": "Parkolja le kerékpárját szilárd talajon, és használja a pavilonokat rövid menedékként, ha a pihenő alatt felerősödne az eső.",
+                "ro": "Parcați bicicleta pe un teren solid și folosiți pavilioanele ca adăpost scurt dacă ploaia se intensifică în timpul pauzei.",
+                "en": "Park your bike on solid ground and use the pavilions as a short shelter if the rain intensifies during your rest break."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden André Heller",
+                "hu": "Botanical Garden André Heller",
+                "ro": "Botanical Garden André Heller",
+                "en": "Botanical Garden André Heller"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad unter den Vordächern am Eingang und genießen Sie die tropische Wärme in den Innenbereichen des Gartens fernab vom Regen.",
+                "hu": "Rögzítse kerékpárját a bejáratnál található előtetők alatt, és élvezze a trópusi meleget a kert belső részeiben, távol az esőtől.",
+                "ro": "Asigurați-vă bicicleta sub copertinele de la intrare și bucurați-vă de căldura tropicală în zonele interioare ale grădinii, departe de ploaie.",
+                "en": "Secure your bike under the canopies at the entrance and enjoy the tropical warmth in the inner parts of the garden, far away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio Abate",
+                "hu": "Chiesa di Sant'Antonio Abate",
+                "ro": "Chiesa di Sant'Antonio Abate",
+                "en": "Chiesa di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort für eine trockene Pause; die Kirche bietet Ruhe und Schutz vor dem Wind, während Sie die beeindruckenden Fresken im Inneren bewundern.",
+                "hu": "Ideális hely egy száraz pihenőhöz; a templom nyugalmat és védelmet nyújt a szél elől, miközben megcsodálhatja a belső freskókat.",
+                "ro": "Un loc ideal pentru o pauză uscată; biserica oferă liniște și protecție împotriva vântului în timp ce admirați frescele interioare.",
+                "en": "An ideal place for a dry break; the church offers peace and protection from the wind while you admire the impressive interior frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Vittoriale degli Italiani",
+                "hu": "Il Vittoriale degli Italiani",
+                "ro": "Il Vittoriale degli Italiani",
+                "en": "Il Vittoriale degli Italiani"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie einen längeren Aufenthalt in den Museen ein, um dem Wetter zu entkommen; die Wege zwischen den Gebäuden können bei Regen rutschig sein.",
+                "hu": "Tervezzen hosszabb tartózkodást a múzeumokban, hogy elkerülje az időjárást; az épületek közötti utak esőben csúszósak lehetnek.",
+                "ro": "Planificați o ședere mai lungă în muzee pentru a scăpa de vreme; potecile dintre clădiri pot fi alunecoase când plouă.",
+                "en": "Plan a longer stay in the museums to escape the weather; the paths between the buildings can be slippery during the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Divino Infante",
+                "hu": "Il Divino Infante",
+                "ro": "Il Divino Infante",
+                "en": "Il Divino Infante"
+              },
+              "tip_5lang": {
+                "de": "Dieses Indoor-Museum ist der perfekte Abschluss für einen nassen Tag; parken Sie das Rad sicher und tauchen Sie in die faszinierende Sammlung ein.",
+                "hu": "Ez a fedett múzeum tökéletes zárása egy esős napnak; parkolja le biztonságosan a biciklit, és merüljön el a lenyűgöző gyűjteményben.",
+                "ro": "Acest muzeu interior este încheierea perfectă pentru o zi ploioasă; parcați bicicleta în siguranță și explorați colecția fascinantă.",
+                "en": "This indoor museum is the perfect end to a rainy day; park your bike safely and immerse yourself in the fascinating collection."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Kalte, klare Luft begleitet die morgendliche Radtour entlang des Sees. Mittags stärken wir uns mit einer warmen Suppe, bevor wir die botanischen Highlights besuchen. Die tiefstehende Wintersonne zaubert lange Schatten auf die Wege. Wir beenden die Tour rechtzeitig vor dem Sonnenuntergang um 17:00 Uhr, wenn die Temperaturen schnell sinken und die Dämmerung einsetzt.",
+            "hu": "Hideg, tiszta levegő kíséri a reggeli kerékpártúrát a tó mentén. Délben egy meleg levessel frissülünk fel a botanikai látnivalók megtekintése előtt. Az alacsonyan járó téli nap hosszú árnyékokat vet az utakra. A túrát időben, a 17:00 órai naplemente előtt befejezzük, amikor a hőmérséklet hirtelen zuhanni kezd.",
+            "ro": "Aerul rece și curat însoțește tura de dimineață cu bicicleta de-a lungul lacului. La prânz ne refacem cu o supă caldă înainte de a vizita atracțiile botanice. Soarele jos de iarnă proiectează umbre lungi pe drumuri. Încheiem tura la timp înainte de apusul de la ora 17:00, când temperaturile scad brusc.",
+            "en": "Cold, clear air accompanies the morning bike tour along the lake. At noon, we refresh with a warm soup before visiting the botanical highlights. The low winter sun casts long shadows on the paths. We finish the tour in time before the sunset at 17:00, when temperatures start to drop rapidly."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre San Marco",
+                "hu": "Torre San Marco",
+                "ro": "Torre San Marco",
+                "en": "Torre San Marco"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung und Handschuhe, da der Fahrtwind am Seeufer im Winter besonders kühl ist, trotz der schönen Aussicht.",
+                "hu": "Viseljen szélálló ruházatot és kesztyűt, mivel a tavi szél kerékpározás közben télen különösen hideg, a gyönyörű kilátás ellenére is.",
+                "ro": "Purtați haine rezistente la vânt și mănuși, deoarece curentul de aer pe malul lacului este foarte rece iarna, în ciuda priveliștii frumoase.",
+                "en": "Wear windproof clothing and gloves, as the lake breeze while cycling is particularly cold in winter despite the beautiful views."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco di Villa Alba",
+                "hu": "Parco di Villa Alba",
+                "ro": "Parco di Villa Alba",
+                "en": "Parco di Villa Alba"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um die winterliche Stille zu genießen; die Wege sind fest, aber achten Sie auf gefrorene Stellen am Morgen.",
+                "hu": "Egy rövid megálló is elég a téli csend élvezetéhez; az utak szilárdak, de reggelente ügyeljen az esetlegesen lefagyott szakaszokra.",
+                "ro": "O scurtă oprire este suficientă pentru a savura liniștea iernii; drumurile sunt solide, dar atenție la porțiunile înghețate dimineața.",
+                "en": "A short stop is enough to enjoy the winter silence; the paths are solid, but watch out for any frozen patches in the early morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden André Heller",
+                "hu": "Botanical Garden André Heller",
+                "ro": "Botanical Garden André Heller",
+                "en": "Botanical Garden André Heller"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich im tropischen Treibhaus auf, während Ihr Rad draußen sicher steht; die Farbenpracht ist ein toller Kontrast zum Wintergrau.",
+                "hu": "Melegedjen fel a trópusi üvegházban, miközben kerékpárja kint biztonságban áll; a színek pompája remek kontraszt a téli szürkeséggel szemben.",
+                "ro": "Încălziți-vă în sera tropicală în timp ce bicicleta stă în siguranță afară; explozia de culori este un contrast minunat cu griul iernii.",
+                "en": "Warm up in the tropical greenhouse while your bike stands safely outside; the riot of colors is a great contrast to the winter grayness."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Sant'Antonio Abate",
+                "hu": "Chiesa di Sant'Antonio Abate",
+                "ro": "Chiesa di Sant'Antonio Abate",
+                "en": "Chiesa di Sant'Antonio Abate"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet eine windstille Pause; die kühlen Steinmauern bewahren die Stille, während Sie kurz zur Ruhe kommen, bevor es weitergeht.",
+                "hu": "A templom szélmentes pihenőt kínál; a hűvös kőfalak megőrzik a csendet, miközben rövid ideig megpihenhet, mielőtt folytatná útját.",
+                "ro": "Biserica oferă o pauză ferită de vânt; zidurile reci de piatră păstrează liniștea în timp ce vă odihniți puțin înainte de a continua.",
+                "en": "The church offers a windless break; the cool stone walls preserve the silence while you rest for a short while before continuing your journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Vittoriale degli Italiani",
+                "hu": "Il Vittoriale degli Italiani",
+                "ro": "Il Vittoriale degli Italiani",
+                "en": "Il Vittoriale degli Italiani"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Ausstellungsräume für eine längere Pause; beenden Sie die Besichtigung, bevor die Sonne um 17:00 Uhr untergeht.",
+                "hu": "Használja ki a fűtött kiállítótermeket egy hosszabb pihenőre; fejezze be a látogatást, mielőtt a nap 17:00 órakor lebukik a horizont alá.",
+                "ro": "Folosiți sălile de expoziție încălzite pentru o pauză mai lungă; terminați vizita înainte ca soarele să apună la ora 17:00.",
+                "en": "Take advantage of the heated exhibition rooms for a longer break; finish the tour before the sun dips below the horizon at 17:00."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Divino Infante",
+                "hu": "Il Divino Infante",
+                "ro": "Il Divino Infante",
+                "en": "Il Divino Infante"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte warme Ort zum Abschluss Ihrer Tour; genießen Sie die einzigartige Sammlung im Trockenen und Warmen, bevor es dunkel wird.",
+                "hu": "Tökéletes, meleg hely a túra befejezéséhez; élvezze az egyedülálló gyűjteményt szárazon és melegben, mielőtt teljesen besötétedik.",
+                "ro": "Locul cald perfect pentru a încheia turul; bucurați-vă de colecția unică la căldură și uscat înainte de a se întuneca complet.",
+                "en": "The perfect warm place to end your tour; enjoy the unique collection in the dry and warm before it gets completely dark outside."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autózzon el a csodálatos Palazzo Terzi Martinengo-hoz a reggeli elegáns induláshoz, majd tegyen egy parti utat a Baia del Vento-hoz. A delet a központi Torre San Marco és a buja André Heller Kert felfedezésével töltheti. A teljes délutánt a hatalmas Vittoriale birtok izgalmas történelmének szentelje. Az este egy békés autózásra csábít a domboldalon álló San Bernardo templomhoz.",
         "ro": "Conduceți către magnificul Palazzo Terzi Martinengo pentru a începe dimineața cu eleganță, urmat de o cursă de coastă la Baia del Vento. Bucurați-vă de amiază întorcându-vă la Torre San Marco și Grădina André Heller. Dedicați întreaga după-amiază vastei moșii Vittoriale și istoriei sale dramatice. Seara se încheie cu un drum liniștit spre biserica de pe deal San Bernardo.",
         "en": "Drive down to the magnificent Palazzo Terzi Martinengo to start your morning in noble elegance, followed by a scenic coastal ride to Baia del Vento. Enjoy midday by returning to the central Torre San Marco and wandering through the lush André Heller Garden. Dedicate a full afternoon to the vast Vittoriale estate, experiencing its dramatic history. The evening calls for a serene drive to the hillside Chiesa di San Bernardo."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Bei Regen ist das Auto das ideale Mittel, um Gardone zu erkunden. Morgens fahren wir zum Palazzo Terzi Martinengo, während die Wischer ununterbrochen laufen. Mittags genießen wir den Blick auf den stürmischen See aus einem Restaurantfenster. Der Nachmittag ist für die großen Museen reserviert. Abends leuchten die Lichter der Stadt auf den nassen Straßen besonders hell.",
+            "hu": "Esőben az autó az ideális eszköz Gardone felfedezéséhez. Reggel a Palazzo Terzi Martinengo felé vesszük az irányt, miközben az ablaktörlők folyamatosan járnak. Délben a viharos tó látványát egy étterem ablakából élvezzük. A délutánt a nagy múzeumoknak szenteljük. Este a város fényei különösen fényesen ragyognak a vizes utakon.",
+            "ro": "Pe ploaie, mașina este mijlocul ideal pentru a explora Gardone. Dimineața ne îndreptăm spre Palazzo Terzi Martinengo cu ștergătoarele pornite. La prânz admirăm lacul furtunos de la fereastra unui restaurant. După-amiaza este rezervată marilor muzee. Seara, luminile orașului strălucesc deosebit de puternic pe drumurile ude.",
+            "en": "In the rain, a car is the ideal way to explore Gardone. In the morning, we head to Palazzo Terzi Martinengo with the wipers running constantly. At noon, we enjoy the view of the stormy lake from a restaurant window. The afternoon is dedicated to the large museums. In the evening, the city lights shine especially brightly on the wet roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Terzi Martinengo",
+                "hu": "Palazzo Terzi Martinengo",
+                "ro": "Palazzo Terzi Martinengo",
+                "en": "Palazzo Terzi Martinengo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; der historische Palast bietet eine wunderbare, trockene Atmosphäre bei Regen.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az esőt; a történelmi palota csodálatos, száraz menedéket nyújt a zápor idején.",
+                "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; palatul istoric oferă o atmosferă minunată și uscată în timpul ploii.",
+                "en": "Park as close to the entrance as possible to avoid the rain; the historic palace offers a wonderful, dry atmosphere during the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia del Vento",
+                "hu": "Baia del Vento",
+                "ro": "Baia del Vento",
+                "en": "Baia del Vento"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die Wellen direkt aus dem warmen Auto; ein kurzer Spaziergang mit dem Schirm lohnt sich nur für Abgehärtete.",
+                "hu": "Élvezze a hullámok drámai látványát közvetlenül a meleg autóból; egy rövid esernyős séta csak a legelszántabbaknak ajánlott ilyenkor.",
+                "ro": "Bucurați-vă de vederea dramatică a valurilor direct din mașina caldă; o scurtă plimbare cu umbrela merită doar pentru cei curajoși.",
+                "en": "Enjoy the dramatic view of the waves directly from your warm car; a short walk with an umbrella is only for the most determined visitors."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre San Marco",
+                "hu": "Torre San Marco",
+                "ro": "Torre San Marco",
+                "en": "Torre San Marco"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Fotostopp reicht völlig aus; achten Sie beim Aussteigen auf Pfützen und die Gischt, die vom See her auf die Straße spritzen kann.",
+                "hu": "Egy rövid fotómegálló is bőven elegendő; kiszálláskor ügyeljen a tócsákra és a tó felől az útra felcsapó vízpermetre.",
+                "ro": "O scurtă oprire pentru poze este suficientă; la coborâre, atenție la bălți și la stropii de apă care pot sări de pe lac pe drum.",
+                "en": "A quick photo stop is plenty; when getting out, watch out for puddles and the spray that might splash onto the road from the lake."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden André Heller",
+                "hu": "Botanical Garden André Heller",
+                "ro": "Botanical Garden André Heller",
+                "en": "Botanical Garden André Heller"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe und verbringen Sie die meiste Zeit in den überdachten Kunstbereichen und dem tropischen Gewächshaus.",
+                "hu": "Használja a közeli parkolási lehetőségeket, és töltse ideje nagy részét a fedett művészeti tereken és a trópusi üvegházban.",
+                "ro": "Folosiți parcările din apropiere și petreceți cea mai mare parte a timpului în zonele de artă acoperite și în sera tropicală.",
+                "en": "Use the nearby parking facilities and spend most of your time in the covered art areas and the lush tropical greenhouse."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Vittoriale degli Italiani",
+                "hu": "Il Vittoriale degli Italiani",
+                "ro": "Il Vittoriale degli Italiani",
+                "en": "Il Vittoriale degli Italiani"
+              },
+              "tip_5lang": {
+                "de": "Das weitläufige Gelände erfordert zwischen den Gebäuden einen Schirm; konzentrieren Sie sich auf die prachtvollen Innenräume des Hauses.",
+                "hu": "A kiterjedt birtokon az épületek között szükség lesz esernyőre; összpontosítson a ház belső tereinek pompás látnivalóira.",
+                "ro": "Domeniul vast necesită o umbrelă între clădiri; concentrați-vă pe interioarele somptuoase ale casei principale.",
+                "en": "The extensive estate requires an umbrella between the buildings; focus your visit on the grand interiors of the main house."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Bernardo",
+                "hu": "Chiesa di San Bernardo",
+                "ro": "Chiesa di San Bernardo",
+                "en": "Chiesa di San Bernardo"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt bietet auch bei Regen tolle Ausblicke; die Kirche selbst ist ein ruhiger, trockener Rückzugsort mit historischem Charme.",
+                "hu": "A felfelé vezető út esőben is szép kilátást kínál; a templom pedig egy csendes, száraz menedék történelmi bájjal.",
+                "ro": "Drumul de urcare oferă priveliști frumoase chiar și pe ploaie; biserica este un refugiu liniștit și uscat, cu farmec istoric.",
+                "en": "The drive up offers great views even in the rain; the church itself is a quiet, dry retreat with plenty of historical charm."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Winter in Gardone lässt sich am besten im beheizten Auto genießen. Morgens erkunden wir den Palazzo Terzi Martinengo in der klaren Winterluft. Mittags kehren wir in ein gemütliches Restaurant mit Seeblick ein. Der Nachmittag gehört den kulturellen Schätzen, bevor die Sonne um 17:00 Uhr untergeht. Abends genießen wir die Fahrt durch die festlich beleuchteten Straßen.",
+            "hu": "A gardonei telet a legkellemesebb fűtött autóban élvezni. Reggel a tiszta téli levegőben fedezzük fel a Palazzo Terzi Martinengo épületét. Délben egy tóra néző, barátságos étterembe térünk be. A délutánt a kulturális kincseknek szenteljük, mielőtt a nap 17:00-kor lebukik. Este a díszkivilágításban úszó utcákon kocsikázunk.",
+            "ro": "Iarna în Gardone este cel mai bine savurată într-o mașină încălzită. Dimineața explorăm Palazzo Terzi Martinengo în aerul curat. La prânz ne oprim la un restaurant primitor cu vedere la lac. După-amiaza aparține comorilor culturale, înainte ca soarele să apună la 17:00. Seara ne bucurăm de plimbarea pe străzile luminate festiv.",
+            "en": "Winter in Gardone is best enjoyed in a heated car. In the morning, we explore Palazzo Terzi Martinengo in the crisp winter air. At noon, we stop at a cozy restaurant with a lake view. The afternoon belongs to cultural treasures before the sun sets at 17:00. In the evening, we enjoy driving through the festively lit streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Palazzo Terzi Martinengo",
+                "hu": "Palazzo Terzi Martinengo",
+                "ro": "Palazzo Terzi Martinengo",
+                "en": "Palazzo Terzi Martinengo"
+              },
+              "tip_5lang": {
+                "de": "Profitieren Sie von der einfachen Parkplatzsuche im Winter; der Palast ist ein warmer Ort, um die Geschichte der Region in Ruhe zu entdecken.",
+                "hu": "Használja ki a téli időszak könnyű parkolását; a palota meleg helyszín a régió történelmének nyugodt felfedezéséhez.",
+                "ro": "Profită de parcarea ușoară în timpul iernii; palatul este un loc cald pentru a descoperi istoria regiunii în liniște.",
+                "en": "Take advantage of easy parking in winter; the palace is a warm venue to discover the region's history in total tranquility."
+              }
+            },
+            {
+              "name": {
+                "de": "Baia del Vento",
+                "hu": "Baia del Vento",
+                "ro": "Baia del Vento",
+                "en": "Baia del Vento"
+              },
+              "tip_5lang": {
+                "de": "Die leeren Strände strahlen im Winter eine besondere Ruhe aus; genießen Sie die Aussicht vom Parkplatz aus, ohne das Auto lange verlassen zu müssen.",
+                "hu": "Az üres strandok télen különleges nyugalmat árasztanak; élvezze a kilátást a parkolóból, anélkül, hogy hosszú időre el kellene hagynia az autót.",
+                "ro": "Plajele pustii emană o liniște deosebită iarna; admirați priveliștea din parcare fără a fi nevoie să părăsiți mașina pentru mult timp.",
+                "en": "The empty beaches exude a special calm in winter; enjoy the view from the parking lot without having to leave the car for a long time."
+              }
+            },
+            {
+              "name": {
+                "de": "Torre San Marco",
+                "hu": "Torre San Marco",
+                "ro": "Torre San Marco",
+                "en": "Torre San Marco"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Stopp für ein Foto in der tiefstehenden Wintersonne; die kühle Seebrise wird Sie schnell wieder ins warme Auto locken.",
+                "hu": "Tegyen egy rövid megállót egy fotóra az alacsonyan járó téli napsütésben; a hűvös tavi szél gyorsan visszacsábítja majd a meleg autóba.",
+                "ro": "Faceți o scurtă oprire pentru o poză în soarele jos de iarnă; briza rece a lacului vă va atrage rapid înapoi în mașina caldă.",
+                "en": "Make a quick stop for a photo in the low winter sun; the cool lake breeze will quickly lure you back into your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Botanical Garden André Heller",
+                "hu": "Botanical Garden André Heller",
+                "ro": "Botanical Garden André Heller",
+                "en": "Botanical Garden André Heller"
+              },
+              "tip_5lang": {
+                "de": "Die Gewächshäuser sind im Winter ein absolutes Muss; parken Sie direkt davor, um die tropische Wärme so schnell wie möglich zu erreichen.",
+                "hu": "Az üvegházak télen kötelező látnivalók; parkoljon közvetlenül előttük, hogy a lehető leggyorsabban elérje a trópusi meleget.",
+                "ro": "Serele sunt o vizită obligatorie iarna; parcați chiar în față pentru a ajunge la căldura tropicală cât mai repede posibil.",
+                "en": "The greenhouses are an absolute must in winter; park directly in front to reach the tropical warmth as quickly as possible."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Vittoriale degli Italiani",
+                "hu": "Il Vittoriale degli Italiani",
+                "ro": "Il Vittoriale degli Italiani",
+                "en": "Il Vittoriale degli Italiani"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie genug Zeit für die prachtvollen Innenräume ein; im Winter sind die Museen weniger überlaufen und angenehm beheizt.",
+                "hu": "Tervezzen elég időt a pompás belső terekre; télen a múzeumok kevésbé zsúfoltak és kellemesen fűtöttek.",
+                "ro": "Planificați suficient timp pentru interioarele fastuoase; iarna muzee sunt mai puțin aglomerate și plăcut încălzite.",
+                "en": "Plan enough time for the magnificent interiors; in winter the museums are less crowded and pleasantly heated."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di San Bernardo",
+                "hu": "Chiesa di San Bernardo",
+                "ro": "Chiesa di San Bernardo",
+                "en": "Chiesa di San Bernardo"
+              },
+              "tip_5lang": {
+                "de": "Die Fahrt den Berg hinauf bietet im Winter bei klarer Sicht atemberaubende Panoramen; perfekt für einen Stopp vor dem Sonnenuntergang um 17:00 Uhr.",
+                "hu": "A hegyi út télen, tiszta időben lélegzetelállító panorámát kínál; tökéletes megálló a korai, 17:00 órai naplemente előtt.",
+                "ro": "Drumul spre munte oferă panorame uluitoare iarna pe vreme senină; este o oprire perfectă înainte de apusul de la ora 17:00.",
+                "en": "The drive up the mountain offers breathtaking panoramas in winter on clear days; perfect for a stop before the sunset at 17:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

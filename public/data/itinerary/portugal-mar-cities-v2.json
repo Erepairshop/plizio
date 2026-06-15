@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot az őskori Menir de São Bartolomeu do Mar meglátogatásával. Egy rövid sétával elérheti a hagyományos Cruzeiro de São Bartolomeu kőkeresztet. Délben a Praia de Rio de Moinhos tengerpartja nyújt tökéletes kikapcsolódást a friss levegőn. Később sétáljon el a történelmi Moinho de Vento szélmalomhoz. Zárja a napot a hangulatos Azenha vízimalomnál, élvezve a természet nyugalmát.",
         "ro": "Începeți ziua cu o călătorie în trecut la Menir de São Bartolomeu do Mar. O scurtă plimbare vă duce la tradiționala cruce Cruzeiro de São Bartolomeu. La amiază, Praia de Rio de Moinhos oferă o pauză relaxantă pe litoral. Mai târziu, plimbați-vă până la moara de vânt istorică Moinho de Vento. Încheiați ziua la fermecătoarea moară de apă Azenha, bucurându-vă de liniștea naturii.",
         "en": "Start your day with a journey into the past at the Menir de São Bartolomeu do Mar. A short walk brings you to the traditional Cruzeiro de São Bartolomeu stone cross. By midday, the Praia de Rio de Moinhos beach offers a relaxing break by the ocean. Afterwards, stroll to the historic Moinho de Vento windmill. Conclude your day at the charming Azenha watermill, enjoying the peaceful sounds of nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt mystisch am Menhir im Nieselregen. Mittags führt der Weg zum Cruzeiro, wo der Wind die Wolken peitscht. Am Nachmittag erleben Sie die raue Schönheit des Strandes von Rio de Moinhos unter grauen Wolken. Der Tag endet an den alten Mühlen, während das Wasser der Bäche unter dem Regen anschwillt. Packen Sie eine gute Regenjacke und festes Schuhwerk ein.",
+            "hu": "A reggel misztikus hangulatban indul a menhirnél az esőben. Délben az út a Cruzeiro felé vezet, ahol a szél kergeti a felhőket. Délután a Rio de Moinhos strand vad szépségét élvezheti a szürke ég alatt. A nap a régi malmoknál zárul, miközben a patakok vize megárad az esőtől. Készüljön vízálló kabáttal és tapadós talpú cipővel a csúszós kövek miatt.",
+            "ro": "Dimineața începe mistic la menhir, sub o ploaie ușoară. La prânz, drumul duce spre Cruzeiro, unde vântul alungă norii. După-amiaza, veți descoperi frumusețea aspră a plajei Rio de Moinhos sub un cer plumburiu. Ziua se încheie la vechile mori, în timp ce pârâiele se umflă de ploaie. Asigurați-vă că aveți o pelerină de ploaie și încălțăminte aderentă.",
+            "en": "The morning starts with a mystic vibe at the menhir in the drizzle. At noon, the path leads to the Cruzeiro as the wind whips the clouds. In the afternoon, experience the raw beauty of Rio de Moinhos beach under gray skies. The day ends by the old mills, with streams swelling from the rain. Pack a high-quality raincoat and sturdy boots for the slippery coastal paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menir de São Bartolomeu do Mar",
+                "hu": "Menir de São Bartolomeu do Mar",
+                "ro": "Menir de São Bartolomeu do Mar",
+                "en": "Menir de São Bartolomeu do Mar"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie diesen prähistorischen Monolithen, der im Regen besonders dunkel und geheimnisvoll wirkt; halten Sie einen Schirm gegen den Küstenwind bereit.",
+                "hu": "Csodálja meg ezt a prahistorikus monolitot, amely esőben különösen sötét és titokzatos; tartson készenlétben egy esernyőt a parti szél ellen.",
+                "ro": "Admirați acest monolit preistoric care pare deosebit de întunecat și misterios în ploaie; pregătiți o umbrelă rezistentă pentru vântul de coastă.",
+                "en": "Admire this prehistoric monolith, which looks especially dark and mysterious in the rain; keep an umbrella ready against the gusty coastal winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Cruzeiro de São Bartolomeu",
+                "hu": "Cruzeiro de São Bartolomeu",
+                "ro": "Cruzeiro de São Bartolomeu",
+                "en": "Cruzeiro de São Bartolomeu"
+              },
+              "tip_5lang": {
+                "de": "Dieses religiöse Wahrzeichen bietet einen tollen Fotopunkt bei dramatischem Wolkenhimmel; achten Sie auf die rutschigen Granitstufen am Sockel des Kreuzes.",
+                "hu": "Ez a vallási emlékhely remek fotópont a drámai felhőzet alatt; ügyeljen a kereszt talapzatánál található csúszós gránitlépcsőkre.",
+                "ro": "Acest reper religios oferă un punct foto excelent sub nori dramatici; atenție la treptele de granit alunecoase de la baza crucii.",
+                "en": "This religious landmark offers a great photo spot under dramatic cloud cover; watch out for the slippery granite steps at the base of the cross."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Rio de Moinhos",
+                "hu": "Praia de Rio de Moinhos",
+                "ro": "Praia de Rio de Moinhos",
+                "en": "Praia de Rio de Moinhos"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die tosende Brandung des Atlantiks von einem geschützten Felsen aus; wasserfeste Schuhe sind für den nassen Sand hier unerlässlich.",
+                "hu": "Figyelje az Atlanti-óceán tomboló hullámait egy védett szikla mellől; a vízálló cipő elengedhetetlen a vizes homokban való sétához.",
+                "ro": "Observați valurile furioase ale Atlanticului de lângă o stâncă adăpostită; încălțămintea impermeabilă este esențială pentru nisipul ud de aici.",
+                "en": "Watch the crashing Atlantic waves from a sheltered rock; waterproof shoes are essential for walking on the heavy, wet sand today."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de Vento",
+                "hu": "Moinho de Vento",
+                "ro": "Moinho de Vento",
+                "en": "Moinho de Vento"
+              },
+              "tip_5lang": {
+                "de": "Die Windmühle steht als stolzes Relikt im Regen; nutzen Sie den Dachvorsprung für eine kurze Pause und genießen Sie den Blick auf das graue Meer.",
+                "hu": "A szélmalom büszke ereklyeként áll az esőben; használja az ereszt egy rövid pihenőre, és élvezze a kilátást a szürke tengerre.",
+                "ro": "Moara de vânt stă ca o relicvă mândră în ploaie; folosiți streașina pentru o scurtă pauză și bucurați-vă de vederea spre marea cenușie.",
+                "en": "The windmill stands as a proud relic in the rain; use the roof overhang for a short break and enjoy the view of the moody gray sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Azenha",
+                "hu": "Azenha",
+                "ro": "Azenha",
+                "en": "Azenha"
+              },
+              "tip_5lang": {
+                "de": "Das Rauschen des Wasserrads vermischt sich mit dem Prasseln des Regens; suchen Sie unter den nahen Bäumen Schutz vor den stärksten Schauern.",
+                "hu": "A vízikerék zúgása keveredik az eső kopogásával; keressen menedéket a közeli fák alatt a legerősebb záporok idején.",
+                "ro": "Sunetul roții de apă se îmbină cu ropotul ploii; căutați adăpost sub copacii din apropiere în timpul celor mai puternice averse.",
+                "en": "The sound of the waterwheel mixes with the patter of rain; seek shelter under nearby trees during the heaviest downpours of the afternoon."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen am Menhir weckt die Geister. Mittags wärmt die tiefstehende Sonne den Weg zum Cruzeiro. Der Nachmittag am Strand ist kurz, da die Sonne gegen 17:00 Uhr untergeht und die Kälte vom Meer heraufzieht. Der Abend endet gemütlich in der Nähe der Azenha. Tragen Sie mehrere Schichten Kleidung und genießen Sie die klare, salzige Winterluft Portugals.",
+            "hu": "A friss téli reggel a menhirnél felébreszti az érzékeket. Délben az alacsonyan járó nap melegíti az utat a Cruzeiro felé. A délután a strandon rövid, mivel a nap 17:00 körül lebukik, és a tenger felől megérkezik a hideg. Az este kellemesen zárul az Azenha közelében. Öltözzön rétegesen, és élvezze Portugália tiszta, sós téli levegőjét.",
+            "ro": "O dimineață răcoroasă de iarnă la menhir vă va trezi simțurile. La prânz, soarele blând încălzește drumul spre Cruzeiro. După-amiaza la plajă este scurtă, soarele apunând în jurul orei 17:00, aducând frigul mării. Seara se încheie plăcut lângă Azenha. Purtați haine în mai multe straturi și savurați aerul curat și sărat al iernii.",
+            "en": "A crisp winter morning at the menhir awakens the senses. At noon, the low sun warms the path toward the Cruzeiro. The afternoon at the beach is short, as the sun sets around 17:00 and the sea chill rolls in. The evening ends cozily near the Azenha. Wear multiple layers and enjoy the clear, salty winter air of Portugal’s northern coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menir de São Bartolomeu do Mar",
+                "hu": "Menir de São Bartolomeu do Mar",
+                "ro": "Menir de São Bartolomeu do Mar",
+                "en": "Menir de São Bartolomeu do Mar"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie diesen alten Stein im klaren Winterlicht; ein warmer Schal schützt Sie vor der kalten Brise, die direkt vom Atlantik herüberweht.",
+                "hu": "Fedezze fel ezt az ősi követ a tiszta téli fényben; egy meleg sál megvédi az Atlanti-óceán felől érkező hideg fuvallattól.",
+                "ro": "Explorați această piatră veche în lumina clară a iernii; un fular călduros vă va proteja de briza rece care vine direct dinspre Atlantic.",
+                "en": "Explore this ancient stone in the crisp winter light; a warm scarf will protect you from the cold breeze blowing directly off the Atlantic."
+              }
+            },
+            {
+              "name": {
+                "de": "Cruzeiro de São Bartolomeu",
+                "hu": "Cruzeiro de São Bartolomeu",
+                "ro": "Cruzeiro de São Bartolomeu",
+                "en": "Cruzeiro de São Bartolomeu"
+              },
+              "tip_5lang": {
+                "de": "Das Kreuz wirkt vor dem tiefblauen Winterhimmel majestätisch; nutzen Sie die Mittagssonne für Fotos, bevor die Schatten am Nachmittag lang werden.",
+                "hu": "A kereszt fenségesen mutat a mélykék téli égbolt előtt; használja ki a déli napsütést a fotózáshoz, mielőtt a délutáni árnyékok megnyúlnának.",
+                "ro": "Crucea arată maiestuos pe fundalul cerului albastru de iarnă; profitați de soarele de la prânz pentru poze înainte ca umbrele să se lungească.",
+                "en": "The cross looks majestic against the deep blue winter sky; take advantage of the midday sun for photos before the afternoon shadows lengthen."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Rio de Moinhos",
+                "hu": "Praia de Rio de Moinhos",
+                "ro": "Praia de Rio de Moinhos",
+                "en": "Praia de Rio de Moinhos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen einsamen Winterspaziergang am Ufer; bringen Sie eine Thermoskanne mit Tee mit, um sich gegen den kühlen Seewind zu wappnen.",
+                "hu": "Élvezze a magányos téli sétát a parton; hozzon magával egy termosz meleg teát, hogy védekezzen a hűvös tengeri szél ellen.",
+                "ro": "Bucurați-vă de o plimbare solitară de iarnă pe țărm; aduceți un termos cu ceai cald pentru a vă proteja de vântul răcoros al mării.",
+                "en": "Enjoy a solitary winter stroll along the shore; bring a thermos of hot tea to warm up against the chilly sea wind during your walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Moinho de Vento",
+                "hu": "Moinho de Vento",
+                "ro": "Moinho de Vento",
+                "en": "Moinho de Vento"
+              },
+              "tip_5lang": {
+                "de": "Die Windmühle fängt das letzte goldene Licht des kurzen Tages ein; kommen Sie rechtzeitig vor 16:30 Uhr an, um die beste Beleuchtung zu erleben.",
+                "hu": "A szélmalom elkapja a rövid nap utolsó aranyló fényeit; érkezzen meg 16:30 előtt, hogy a legjobb megvilágításban láthassa az épületet.",
+                "ro": "Moara de vânt captează ultimele lumini aurii ale zilei scurte; ajungeți înainte de ora 16:30 pentru a vedea clădirea în cea mai bună lumină.",
+                "en": "The windmill catches the last golden rays of the short day; arrive before 16:30 to see the structure in the best possible natural light."
+              }
+            },
+            {
+              "name": {
+                "de": "Azenha",
+                "hu": "Azenha",
+                "ro": "Azenha",
+                "en": "Azenha"
+              },
+              "tip_5lang": {
+                "de": "Dieses historische Wasserrad wirkt in der winterlichen Stille sehr friedlich; ziehen Sie eine warme Jacke an, da es in der Nähe des Wassers kühler ist.",
+                "hu": "Ez a történelmi vízikerék békés látvány a téli csendben; vegyen fel meleg kabátot, mert a víz közelében érezhetően hűvösebb a levegő.",
+                "ro": "Această roată de apă istorică oferă o priveliște pașnică; puneți o jachetă groasă, deoarece lângă apă aerul este considerabil mai rece.",
+                "en": "This historic waterwheel is a peaceful sight in the winter silence; wear a heavy jacket as the air is noticeably colder near the flowing water."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kerékpártúrája a lenyűgöző Menir de São Bartolomeu do Mar-nál kezdődik. Tekerjen beljebb a szárazföldön a Mamoa do Rápido 3 őskori helyszínéhez. Délután a Casa Museu Viana de Lima kulturális betekintést nyújt a régióba. A közelben található Centro de Educação Ambiental tovább bővíti természetismeretét. Fejezze be a túrát a Praia de Rio de Moinhos strandján, élvezve a friss óceáni szellőt.",
         "ro": "Turul dvs. cu bicicleta începe la fascinantul Menir de São Bartolomeu do Mar. Pedalați spre interior către situl preistoric Mamoa do Rápido 3. După-amiaza, Casa Museu Viana de Lima oferă perspective culturale. În apropiere, Centro de Educação Ambiental vă îmbogățește cunoștințele despre natură. Încheiați traseul pe plaja Praia de Rio de Moinhos, simțind briza proaspătă a oceanului.",
         "en": "Your cycling tour starts at the fascinating Menir de São Bartolomeu do Mar. Ride further inland to discover the prehistoric site of Mamoa do Rápido 3. In the afternoon, the Casa Museu Viana de Lima provides cultural insights into the region. Nearby, the Centro de Educação Ambiental expands your knowledge of the local ecology. End the ride at Praia de Rio de Moinhos, feeling the fresh ocean breeze."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine abenteuerliche Radtour startet am Menhir im Regen. Mittags fordern die nassen Wege zur Mamoa Ihre Konzentration. Der Nachmittag bietet in den Museen (Casa Museu und Centro) perfekten Schutz vor den Güssen. Der Tag endet mit einer kühlen Fahrt zum Strand. Tragen Sie wasserfeste Kleidung und achten Sie auf rutschige Feldwege und nasse Fahrbahnmarkierungen.",
+            "hu": "Kalandos kerékpártúra indul a menhirnél az esőben. Délben a Mamoa felé vezető nedves utak koncentrációt igényelnek. A délutáni múzeumlátogatások (Casa Museu és Centro) tökéletes menedéket nyújtanak a záporok elől. A nap egy frissítő tekeréssel zárul a strandra. Viseljen vízálló ruházatot, és ügyeljen a csúszós földutakra és az útburkolati jelekre.",
+            "ro": "O tură aventuroasă cu bicicleta începe la menhir pe ploaie. La prânz, drumurile umede spre Mamoa vă vor testa concentrarea. După-amiaza, muzeele (Casa Museu și Centro) oferă adăpostul perfect împotriva averselor. Ziua se încheie cu o plimbare răcoroasă spre plajă. Purtați echipament impermeabil și atenție la potecile noroioase și marcajele alunecoase.",
+            "en": "An adventurous bike tour starts at the menhir in the rain. At noon, the wet trails to the Mamoa require extra focus. The afternoon provides perfect shelter within the museums (Casa Museu and Centro). The day ends with a refreshing ride to the beach. Wear waterproof gear and stay alert for slippery dirt paths and slick road markings along the route."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menir de São Bartolomeu do Mar",
+                "hu": "Menir de São Bartolomeu do Mar",
+                "ro": "Menir de São Bartolomeu do Mar",
+                "en": "Menir de São Bartolomeu do Mar"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie vorsichtig auf dem nassen Asphalt; dieser alte Stein markiert den Beginn einer regnerischen, aber faszinierenden Küstenroute.",
+                "hu": "Induljon óvatosan a nedves aszfalton; ez az ősi kő jelzi egy esős, de lenyűgöző parti útvonal kezdetét.",
+                "ro": "Porniți cu atenție pe asfaltul umed; această piatră veche marchează începutul unui traseu de coastă ploios, dar fascinant.",
+                "en": "Start cautiously on the wet asphalt; this ancient stone marks the beginning of a rainy but fascinating coastal cycling route."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamoa do Rápido 3",
+                "hu": "Mamoa do Rápido 3",
+                "ro": "Mamoa do Rápido 3",
+                "en": "Mamoa do Rápido 3"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zu diesem Grabhügel kann schlammig sein; prüfen Sie Ihre Bremsen vor der Abfahrt und genießen Sie die mystische Atmosphäre im Regen.",
+                "hu": "A sírhalomhoz vezető út saras lehet; ellenőrizze a fékeket indulás előtt, és élvezze a misztikus hangulatot az esőben.",
+                "ro": "Poteca spre acest tumul poate fi noroioasă; verificați frânele înainte de plecare și savurați atmosfera mistică din ploaie.",
+                "en": "The trail to this burial mound can be muddy; check your brakes before departing and enjoy the mystical atmosphere in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Viana de Lima",
+                "hu": "Casa Museu Viana de Lima",
+                "ro": "Casa Museu Viana de Lima",
+                "en": "Casa Museu Viana de Lima"
+              },
+              "tip_5lang": {
+                "de": "Dieses Museum ist der ideale Ort, um sich aufzuwärmen und moderne Architektur zu bewundern, während es draußen kräftig regnet.",
+                "hu": "Ez a múzeum ideális hely a bemelegedésre és a modern építészet megcsodálására, miközben kint intenzíven esik az eső.",
+                "ro": "Acest muzeu este locul ideal pentru a vă încălzi și a admira arhitectura modernă în timp ce afară plouă torențial.",
+                "en": "This museum is the perfect place to warm up and admire modern architecture while it rains heavily outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Educação Ambiental",
+                "hu": "Centro de Educação Ambiental",
+                "ro": "Centro de Educação Ambiental",
+                "en": "Centro de Educação Ambiental"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die interaktiven Ausstellungen als trockenen Zwischenstopp; stellen Sie Ihr Rad an einem überdachten Platz sicher ab.",
+                "hu": "Használja az interaktív kiállításokat száraz pihenőként; parkolja le kerékpárját egy fedett helyen a látogatás idejére.",
+                "ro": "Folosiți expozițiile interactive ca un popas uscat; parcați bicicleta într-un loc acoperit pe durata vizitei.",
+                "en": "Utilize the interactive exhibits as a dry pit stop; make sure to park your bike in a covered area during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Rio de Moinhos",
+                "hu": "Praia de Rio de Moinhos",
+                "ro": "Praia de Rio de Moinhos",
+                "en": "Praia de Rio de Moinhos"
+              },
+              "tip_5lang": {
+                "de": "Der Strand wirkt bei Regen dramatisch; parken Sie auf dem befestigten Weg, um nicht im nassen Sand stecken zu bleiben.",
+                "hu": "A strand drámai látványt nyújt esőben; parkoljon a szilárd burkolatú úton, hogy elkerülje az elakadást a vizes homokban.",
+                "ro": "Plaja arată dramatic pe ploaie; parcați pe drumul pavat pentru a evita blocarea în nisipul ud cu bicicleta.",
+                "en": "The beach looks dramatic in the rain; park on the paved path to avoid getting stuck in the heavy, wet sand with your bike."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Winterfahrt beginnt am Menhir. Mittags erkunden Sie die Mamoa unter strahlendem, aber kühlem Himmel. Der Nachmittag gehört der Kultur in den Museen, bevor die Dämmerung gegen 17:00 Uhr einsetzt. Beenden Sie die Tour am Strand bei Sonnenuntergang. Ziehen Sie winddichte Kleidung und Handschuhe an, da der Fahrtwind im Winter deutlich kälter ist.",
+            "hu": "Frissítő téli tekerés indul a menhirnél. Délben a Mamoát fedezheti fel a ragyogó, de hűvös égbolt alatt. A délután a kultúráé a múzeumokban, mielőtt 17:00 körül leszállna az alkony. Zárja a túrát a strandon a naplementében. Viseljen szélálló ruhát és kesztyűt, mert a menetszél télen jóval hidegebb.",
+            "ro": "O plimbare revigorantă de iarnă începe la menhir. La prânz, explorați Mamoa sub un cer senin, dar rece. După-amiaza este dedicată culturii în muzee, înainte ca amurgul să se lase în jurul orei 17:00. Încheiați tura la plajă la apus. Purtați haine rezistente la vânt și mănuși, deoarece curentul de aer este mult mai rece iarna.",
+            "en": "A refreshing winter ride starts at the menhir. At noon, explore the Mamoa under bright but chilly skies. The afternoon is dedicated to culture in the local museums before dusk falls around 17:00. Finish your tour at the beach during sunset. Wear windproof clothing and gloves, as the wind chill while cycling is significantly sharper in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Menir de São Bartolomeu do Mar",
+                "hu": "Menir de São Bartolomeu do Mar",
+                "ro": "Menir de São Bartolomeu do Mar",
+                "en": "Menir de São Bartolomeu do Mar"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Sicht am Morgen; achten Sie auf Raureif auf den Holzwegen, falls die Nacht besonders kalt war.",
+                "hu": "Élvezze a tiszta reggeli kilátást; ügyeljen a zúzmarára a fapadlókon, ha az éjszaka különösen hideg volt.",
+                "ro": "Bucurați-vă de vizibilitatea clară de dimineață; atenție la chiciura de pe pasarelele de lemn dacă noaptea a fost foarte rece.",
+                "en": "Enjoy the clear morning visibility; watch out for frost on the wooden walkways if the night was particularly cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Mamoa do Rápido 3",
+                "hu": "Mamoa do Rápido 3",
+                "ro": "Mamoa do Rápido 3",
+                "en": "Mamoa do Rápido 3"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne beleuchtet diesen Hügel wunderschön; halten Sie sich durch stetiges Treten warm, da der Ort sehr exponiert ist.",
+                "hu": "A téli nap gyönyörűen megvilágítja ezt a halmot; tartsa magát melegen folyamatos tekeréssel, mivel a helyszín nagyon kitett a szélnek.",
+                "ro": "Soarele de iarnă luminează frumos acest tumul; mențineți-vă calzi pedalând constant, deoarece locul este foarte expus vântului.",
+                "en": "The winter sun illuminates this mound beautifully; keep warm by pedaling steadily as the location is very exposed to the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Viana de Lima",
+                "hu": "Casa Museu Viana de Lima",
+                "ro": "Casa Museu Viana de Lima",
+                "en": "Casa Museu Viana de Lima"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort für eine Pause im Warmen; bewundern Sie das Lichtspiel der tiefstehenden Sonne in den großen Glasfronten.",
+                "hu": "Tökéletes hely egy melegedő pihenőhöz; csodálja meg az alacsonyan járó nap fényjátékát a nagy üvegfelületeken.",
+                "ro": "Un loc perfect pentru o pauză la căldură; admirați jocul de lumini al soarelui pe suprafețele mari de sticlă ale muzeului.",
+                "en": "A perfect spot for a break in the warmth; admire the light play of the low winter sun through the large glass facades."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Educação Ambiental",
+                "hu": "Centro de Educação Ambiental",
+                "ro": "Centro de Educação Ambiental",
+                "en": "Centro de Educação Ambiental"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich in den Ausstellungsräumen auf; planen Sie Ihren Besuch so, dass Sie vor Einbruch der Dunkelheit wieder losfahren.",
+                "hu": "Melegedjen fel a kiállítótermekben; tervezze úgy a látogatást, hogy még sötétedés előtt tovább tudjon indulni.",
+                "ro": "Încălziți-vă în sălile de expoziție; planificați vizita astfel încât să plecați mai departe înainte de lăsarea întunericului.",
+                "en": "Warm up in the exhibition rooms; plan your visit so you can depart before the early winter darkness sets in."
+              }
+            },
+            {
+              "name": {
+                "de": "Praia de Rio de Moinhos",
+                "hu": "Praia de Rio de Moinhos",
+                "ro": "Praia de Rio de Moinhos",
+                "en": "Praia de Rio de Moinhos"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie einen farbenprächtigen Wintersonnenuntergang; schalten Sie für den Rückweg unbedingt Ihre Fahrradbeleuchtung ein.",
+                "hu": "Élje át a színes téli naplementét; a visszaúthoz mindenképpen kapcsolja be a kerékpárvilágítást.",
+                "ro": "Experimentați un apus de iarnă plin de culoare; nu uitați să aprindeți luminile bicicletei pentru drumul de întoarcere.",
+                "en": "Experience a colorful winter sunset at the shore; make sure to turn on your bike lights for the ride back home."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Az autós kirándulás a Torre de Observação Panorâmica de Belinho lélegzetelállító kilátásával indul. Ezt követően hajtson el az őskori Menir de São Bartolomeu do Mar-hoz. Délben fedezze fel az ősi Anta da Portelagem megalitikus sírt. Később a Centro de Educação Ambiental nyújt interaktív környezetvédelmi ismereteket. A nap a Casa Museu Viana de Lima lenyűgöző kulturális kiállításainak megtekintésével zárul.",
         "ro": "Călătoria cu mașina începe cu priveliști fantastice de la Torre de Observação Panorâmica de Belinho. Conduceți apoi spre Menir de São Bartolomeu do Mar preistoric. La amiază, explorați mormântul megalitic antic Anta da Portelagem. Mai târziu, Centro de Educação Ambiental vă oferă cunoștințe ecologice. Ziua se încheie cu o vizită culturală bogată la Casa Museu Viana de Lima.",
         "en": "The road trip begins with fantastic panoramic views from the Torre de Observação Panorâmica de Belinho. Drive shortly after to the prehistoric Menir de São Bartolomeu do Mar. At noon, explore the ancient megalithic tomb of Anta da Portelagem. Later, the Centro de Educação Ambiental offers interactive environmental insights. The day ends with a rich cultural experience at the Casa Museu Viana de Lima."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Küstenlandschaft bequem vom Auto aus. Der Morgen am Aussichtsturm ist kurz und stürmisch. Mittags bietet der Menhir einen mystischen Anblick durch die nassen Scheiben. Der Nachmittag in den Museen ist die perfekte Lösung für Regentage. Der Tag endet sicher und trocken. Achten Sie auf Aquaplaning auf den Küstenstraßen und nutzen Sie die Parkplätze nah an den Eingängen.",
+            "hu": "Élvezze a parti tájat kényelmesen az autóból. A reggel a kilátónál rövid és viharos. Délben a menhir misztikus látványt nyújt a vizes szélvédőn keresztül. A délutáni múzeumlátogatás a tökéletes megoldás az esős napokra. A nap biztonságban és szárazon ér véget. Ügyeljen a vízátfolyásokra a parti utakon, és használja a bejáratokhoz közeli parkolókat.",
+            "ro": "Bucurați-vă de peisajul de coastă din confortul mașinii. Dimineața la turnul de observație este scurtă și furtunoasă. La prânz, menhirul oferă o priveliște mistică prin parbrizul ud. După-amiaza la muzee este soluția perfectă pentru zilele ploioase. Ziua se încheie în siguranță și uscat. Atenție la acvaplanare pe drumurile de coastă.",
+            "en": "Enjoy the coastal scenery comfortably from your car. The morning at the observation tower is short and gusty. At noon, the menhir offers a mystical view through the rain-streaked windows. The afternoon in the museums is the perfect solution for rainy days. The day ends safely and dry. Watch out for aquaplaning on coastal roads and use parking spots close to the entrances."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Observação Panorâmica de Belinho",
+                "hu": "Torre de Observação Panorâmica de Belinho",
+                "ro": "Torre de Observação Panorâmica de Belinho",
+                "en": "Torre de Observação Panorâmica de Belinho"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie bei starkem Regen im Auto und genießen Sie den Panoramablick; der Turm ist sehr exponiert und windanfällig.",
+                "hu": "Heves esőben maradjon az autóban, és onnan élvezze a panorámát; a torony nagyon kitett a szélnek és az esőnek.",
+                "ro": "Rămâneți în mașină în caz de ploaie torențială pentru a admira panorama; turnul este foarte expus vântului puternic.",
+                "en": "Stay in your car during heavy downpours to enjoy the panoramic view; the tower is very exposed and prone to high winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir de São Bartolomeu do Mar",
+                "hu": "Menir de São Bartolomeu do Mar",
+                "ro": "Menir de São Bartolomeu do Mar",
+                "en": "Menir de São Bartolomeu do Mar"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Sprint vom Parkplatz zum Stein lohnt sich; die nasse Oberfläche des Monolithen glänzt wunderschön im diffusen Licht.",
+                "hu": "Megéri egy gyors sprint a parkolótól a kőig; a monolit nedves felülete gyönyörűen csillog a szórt fényben.",
+                "ro": "O scurtă fugă de la parcare până la piatră merită; suprafața umedă a monolitului strălucește frumos în lumina difuză.",
+                "en": "A quick sprint from the parking lot to the stone is worth it; the monolith's wet surface shines beautifully in the diffused light."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Portelagem",
+                "hu": "Anta da Portelagem",
+                "ro": "Anta da Portelagem",
+                "en": "Anta da Portelagem"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie dieses megalithische Grab vom Wegrand aus; halten Sie einen Regenschirm bereit, da der Pfad dorthin rutschig sein kann.",
+                "hu": "Tekintse meg ezt a megalitikus sírt az út széléről; tartson készenlétben esernyőt, mert az odavezető ösvény csúszós lehet.",
+                "ro": "Priviți acest mormânt megalitic de la marginea drumului; pregătiți umbrela, deoarece poteca spre el poate fi alunecoasă.",
+                "en": "View this megalithic tomb from the roadside; keep an umbrella ready as the short path to the site can be quite slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Educação Ambiental",
+                "hu": "Centro de Educação Ambiental",
+                "ro": "Centro de Educação Ambiental",
+                "en": "Centro de Educação Ambiental"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang, um trocken ins Gebäude zu gelangen; drinnen finden Sie spannende Infos zur lokalen Flora und Fauna.",
+                "hu": "Parkoljon közvetlenül a bejáratnál, hogy szárazon jusson be az épületbe; odabent izgalmas infókat talál a helyi élővilágról.",
+                "ro": "Parcați chiar lângă intrare pentru a ajunge uscați în clădire; în interior veți găsi informații fascinante despre fauna locală.",
+                "en": "Park right by the entrance to get into the building dry; inside you will find exciting information about the local wildlife."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Viana de Lima",
+                "hu": "Casa Museu Viana de Lima",
+                "ro": "Casa Museu Viana de Lima",
+                "en": "Casa Museu Viana de Lima"
+              },
+              "tip_5lang": {
+                "de": "Verweilen Sie länger in diesem architektonischen Juwel; es ist der perfekte Rückzugsort, während der Regen gegen die Scheiben trommelt.",
+                "hu": "Időzzön többet ebben az építészeti gyöngyszemben; tökéletes menedék, miközben az eső a hatalmas üvegablakokon kopog.",
+                "ro": "Zăboviți mai mult în această bijuterie arhitecturală; este refugiul perfect în timp ce ploaia bate în ferestrele mari.",
+                "en": "Spend more time in this architectural gem; it is the perfect sanctuary while the rain drums against the large glass windows."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintertag an der Küste erwartet Sie. Der Morgen am Aussichtsturm bietet weite Sichten über den Atlantik. Mittags wärmt die Sonne das Auto während der Fahrt zwischen den prähistorischen Stätten. Der Nachmittag in den beheizten Museen ist sehr angenehm. Denken Sie daran, dass es ab 17:00 Uhr schnell dunkel und deutlich kühler wird. Nutzen Sie die kurzen Tage für intensive Kulturerlebnisse.",
+            "hu": "Tiszta téli nap várja Önt a parton. A reggel a kilátónál messzire nyúló kilátást kínál az Atlanti-óceánra. Délben a nap felmelegíti az autót a prahistorikus helyszínek közötti úton. A délután a fűtött múzeumokban kifejezetten kellemes. Ne feledje, hogy 17:00 után gyorsan sötétedik és lehűl a levegő. Használja ki a rövid napokat az intenzív kulturális élményekre.",
+            "ro": "Vă așteaptă o zi senină de iarnă pe coastă. Dimineața la turn oferă vederi largi peste Atlantic. La prânz, soarele încălzește mașina în timpul drumului între siturile preistorice. După-amiaza în muzeele încălzite este foarte plăcută. Rețineți că după ora 17:00 se întunecă rapid și se răcește. Profitați de zilele scurte pentru cultură.",
+            "en": "A crisp winter day awaits you on the coast. The morning at the tower offers vast views over the Atlantic. At noon, the sun warms the car as you drive between prehistoric sites. The afternoon in the heated museums is very pleasant. Remember that after 17:00 it gets dark quickly and significantly colder. Make the most of the short days for cultural exploration."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Torre de Observação Panorâmica de Belinho",
+                "hu": "Torre de Observação Panorâmica de Belinho",
+                "ro": "Torre de Observação Panorâmica de Belinho",
+                "en": "Torre de Observação Panorâmica de Belinho"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter oft am besten; ziehen Sie sich warm an für den kurzen Aufstieg auf den windigen Turm.",
+                "hu": "A távoli kilátás télen gyakran a legjobb; öltözzön fel melegen a rövid felmenetelhez a szeles toronyba.",
+                "ro": "Vizibilitatea la distanță este adesea cea mai bună iarna; îmbrăcați-vă bine pentru scurta urcare pe turnul vântos.",
+                "en": "Long-distance visibility is often best in winter; dress warmly for the short climb up the windy observation tower."
+              }
+            },
+            {
+              "name": {
+                "de": "Menir de São Bartolomeu do Mar",
+                "hu": "Menir de São Bartolomeu do Mar",
+                "ro": "Menir de São Bartolomeu do Mar",
+                "en": "Menir de São Bartolomeu do Mar"
+              },
+              "tip_5lang": {
+                "de": "Fotografieren Sie den Stein im goldenen Mittagslicht; die kühle Luft lässt die Farben der Umgebung besonders klar erscheinen.",
+                "hu": "Fotózza le a követ az aranyló déli fényben; a hűvös levegő miatt a környező színek különösen tisztának tűnnek.",
+                "ro": "Fotografiați piatra în lumina aurie de la prânz; aerul rece face ca culorile din jur să pară extrem de clare.",
+                "en": "Photograph the stone in the golden midday light; the cool air makes the surrounding colors appear especially vivid and clear."
+              }
+            },
+            {
+              "name": {
+                "de": "Anta da Portelagem",
+                "hu": "Anta da Portelagem",
+                "ro": "Anta da Portelagem",
+                "en": "Anta da Portelagem"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist im Winter herrlich ruhig; nutzen Sie die kurzen Wege vom Auto, um die Megalithkultur ohne Menschenmassen zu erleben.",
+                "hu": "Ez a hely télen csodálatosan csendes; használja ki az autótól vezető rövid utat, hogy tömeg nélkül élje át a megalit kultúrát.",
+                "ro": "Acest loc este minunat de liniștit iarna; profitați de drumul scurt de la mașină pentru a vedea situl fără mulțimi de turiști.",
+                "en": "This site is wonderfully quiet in winter; take advantage of the short walk from your car to experience megalithic culture without crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Centro de Educação Ambiental",
+                "hu": "Centro de Educação Ambiental",
+                "ro": "Centro de Educação Ambiental",
+                "en": "Centro de Educação Ambiental"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich zwischen den Stopps aufzuwärmen; die interaktiven Displays sind auch für einen kurzen Besuch perfekt.",
+                "hu": "Ideális hely a felmelegedésre a megállók között; az interaktív kijelzők egy rövid látogatásra is tökéletesek.",
+                "ro": "Un loc ideal pentru a vă încălzi între opriri; afișajele interactive sunt perfecte chiar și pentru o vizită scurtă.",
+                "en": "An ideal place to warm up between stops; the interactive displays are perfect even for a brief but informative visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Casa Museu Viana de Lima",
+                "hu": "Casa Museu Viana de Lima",
+                "ro": "Casa Museu Viana de Lima",
+                "en": "Casa Museu Viana de Lima"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Besuch für den späten Nachmittag ein; genießen Sie die warme Atmosphäre des Hauses vor der Heimfahrt im Dunkeln.",
+                "hu": "Tervezze ezt a látogatást késő délutánra; élvezze a ház meleg hangulatát a sötétben való hazaút előtt.",
+                "ro": "Planificați această vizită pentru sfârșitul după-amiezii; savurați atmosfera caldă a casei înainte de drumul spre casă pe întuneric.",
+                "en": "Plan this visit for the late afternoon; enjoy the warm atmosphere of the house before your drive home in the early darkness."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt egy frissítő sétával az Ao Mai Phai partján, nyugodt alaphangot adva a napnak. Délidőben az út a Khlong Chak strandhoz és a Nui öböl rejtett zugaihoz vezet. A délután az etikus természetfelfedezésé a Following Giants-nél, ami igazán mély élmény. Zárja a gyalogos túrát a Ba Kan Tiang strandon leereszkedő kora esti fényekben.",
         "ro": "Începeți dimineața cu o plimbare revigorantă pe țărmul Ao Mai Phai. La amiază, poteca vă duce la plaja Khlong Chak și în golfurile retrase de la Nui Bay pentru relaxare. După-amiaza este dedicată explorării etice a naturii la Following Giants. Încheiați-vă călătoria pe jos pe măsură ce seara se lasă peste plaja Ba Kan Tiang.",
         "en": "Begin your morning with a refreshing stroll along the shores of Ao Mai Phai, setting a tranquil tone for the day. As midday approaches, the path leads you to Khlong Chak Beach and the secluded coves of Nui Bay for relaxation. The afternoon is dedicated to ethical nature exploration at Following Giants, a profound experience. Conclude your walking journey as evening falls over Ba Kan Tiang Beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen erfordert Regenmäntel für die dramatische Küste. Mittags bringen Schauer die Notwendigkeit für Schutz. Nachmittags sind Dschungelpfade matschig, Vorsicht. Abends brauchen Sie einen Regenschirm.",
+            "hu": "A reggeli sétához esőkabát kell a drámai parton. Délben heves záporok jönnek, keress menedéket a strandokon. Délután a dzsungel ösvényei sarasak, lépj óvatosan. Este esernyővel indulj vissza.",
+            "ro": "Dimineața necesită pelerine pe coasta dramatică. La prânz ploile abundente cer adăpost la plajă. După-amiaza potecile din junglă sunt noroioase, pașiți cu grijă. Seara aveți nevoie de umbrelă la întoarcere.",
+            "en": "Morning walks require raincoats as the coast is dramatic. Midday brings heavy showers; seek shelter near the beaches. Afternoon paths are muddy, step carefully. Evening needs an umbrella as you head back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Mai Phai",
+                "hu": "Ao Mai Phai",
+                "ro": "Ao Mai Phai",
+                "en": "Ao Mai Phai"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die stürmischen Wellen, aber tragen Sie unbedingt einen stabilen Poncho.",
+                "hu": "Nézd meg a viharos hullámokat a parton, de mindenképp viselj egy strapabíró poncsót.",
+                "ro": "Priviți valurile furtunoase la mal, dar purtați un poncho rezistent la ploaie.",
+                "en": "Watch the stormy waves crash on the shore, but make sure to wear a sturdy poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "Khlong Chak Strand",
+                "hu": "Khlong Chak strand",
+                "ro": "Plaja Khlong Chak",
+                "en": "Khlong Chak Beach"
+              },
+              "tip_5lang": {
+                "de": "Finden Sie bei plötzlichen Schauern trockenen Schutz unter den dichten Strandbäumen.",
+                "hu": "Keress száraz menedéket a sűrű fák alatt a hirtelen záporok elől a parton.",
+                "ro": "Găsiți adăpost uscat sub copaci deși în timpul ploilor bruște pe plajă.",
+                "en": "Find dry cover under the thick trees during sudden showers to enjoy the moody beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Nui Bay Beach",
+                "hu": "Nui Bay strand",
+                "ro": "Nui Bay Beach",
+                "en": "Nui Bay Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Himmel, aber halten Sie Elektronik in wasserdichten Taschen.",
+                "hu": "Élvezd a drámai felhős eget, de tartsd az elektronikát vízhatlan táskában itt.",
+                "ro": "Bucurați-vă de cerul înnorat, dar păstrați electronicele în genți impermeabile aici.",
+                "en": "Enjoy the dramatic overcast sky, but keep your electronics sealed in dry bags here."
+              }
+            },
+            {
+              "name": {
+                "de": "Following Giants",
+                "hu": "Following Giants",
+                "ro": "Following Giants",
+                "en": "Following Giants"
+              },
+              "tip_5lang": {
+                "de": "Die Elefanten lieben den Regen, aber tragen Sie rutschfeste Schuhe für den tiefen Matsch.",
+                "hu": "Az elefántok imádják az esőt, de viselj jól tapadó cipőt a mély sár miatt.",
+                "ro": "Elefanții iubesc ploaia, dar purtați încălțăminte cu aderență pentru noroiul adânc.",
+                "en": "The elephants love the rain, but you must wear shoes with good grip for the deep mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Ba Kan Tiang Beach",
+                "hu": "Ba Kan Tiang strand",
+                "ro": "Plaja Ba Kan Tiang",
+                "en": "Ba Kan Tiang Beach"
+              },
+              "tip_5lang": {
+                "de": "Entspannen Sie unter einer Strandhütte, um im tropischen Regen trocken zu bleiben.",
+                "hu": "Pihenj egy masszív strandkunyhó alatt, hogy teljesen száraz maradj a trópusi esőben.",
+                "ro": "Relaxați-vă sub o colibă de plajă pentru a rămâne uscat în timpul ploii tropicale.",
+                "en": "Relax under a sturdy beach hut to stay perfectly dry as the tropical rain falls down."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frische Morgenluft macht den Strandspaziergang erfrischend. Die Mittagssonne ist mild. Der Nachmittag bringt eine kühlende Brise. Bringen Sie eine warme Schicht für den frühen Sonnenuntergang um 17 Uhr.",
+            "hu": "A friss reggeli levegő élénkítővé teszi a sétát. A déli napsütés enyhe, tökéletes a felfedezésre. Délután hűsítő szellő fúj. Hozz egy meleg réteget a korai, délután 5 órás naplementéhez.",
+            "ro": "Aerul proaspăt al dimineții face plimbarea revigorantă. Soarele amiezii e blând. După-amiaza aduce o briză răcoroasă. Luați un strat cald pentru apusul timpuriu de la ora 17:00.",
+            "en": "Crisp morning air makes the beach walk refreshing. Midday sunshine is mild, perfect for exploring. Afternoon brings a cooling breeze as shadows lengthen. Bring a warm layer for the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Mai Phai",
+                "hu": "Ao Mai Phai",
+                "ro": "Ao Mai Phai",
+                "en": "Ao Mai Phai"
+              },
+              "tip_5lang": {
+                "de": "Die morgendliche Meeresbrise ist kühl, daher ist eine leichte Jacke hier perfekt.",
+                "hu": "A reggeli tengeri szellő meglepően hűvös, így egy könnyű dzsekivel érdemes kezdeni.",
+                "ro": "Briza mării de dimineață este surprinzător de rece, o jachetă ușoară este perfectă.",
+                "en": "The morning sea breeze is surprisingly cool, so starting with a light jacket is perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Khlong Chak Strand",
+                "hu": "Khlong Chak strand",
+                "ro": "Plaja Khlong Chak",
+                "en": "Khlong Chak Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die milde Wintersonne; der weiße Sand ist angenehm warm, nicht zu heiß.",
+                "hu": "Élvezd az enyhe téli napsütést; a fehér homok kellemesen meleg, de egyáltalán nem forró.",
+                "ro": "Bucurați-vă de soarele blând de iarnă; nisipul este plăcut de cald, nu prea fierbinte.",
+                "en": "Enjoy the mild winter sun here; the white sand is pleasantly warm without being too hot."
+              }
+            },
+            {
+              "name": {
+                "de": "Nui Bay Beach",
+                "hu": "Nui Bay strand",
+                "ro": "Nui Bay Beach",
+                "en": "Nui Bay Beach"
+              },
+              "tip_5lang": {
+                "de": "Klarer Winterhimmel bietet tolle Sicht, aber packen Sie Schichten für die kühle Luft ein.",
+                "hu": "A tiszta téli égbolt remek látási viszonyokat ad, de hozz rétegeket a hűlő levegő miatt.",
+                "ro": "Cerul senin de iarnă oferă o vizibilitate uimitoare, dar luați haine groase pentru răcoare.",
+                "en": "Clear winter skies offer amazing visibility, but pack layers as the air cools down quickly."
+              }
+            },
+            {
+              "name": {
+                "de": "Following Giants",
+                "hu": "Following Giants",
+                "ro": "Following Giants",
+                "en": "Following Giants"
+              },
+              "tip_5lang": {
+                "de": "Ein Spaziergang mit den Elefanten ist bei diesen kühleren Temperaturen sehr angenehm.",
+                "hu": "A mentett elefántokkal való séta nagyon kellemes a hűvösebb délutáni hőmérsékletben.",
+                "ro": "Plimbarea cu elefanții este foarte plăcută în aceste temperaturi mai răcoroase de după-amiază.",
+                "en": "Walking with the rescued elephants is very pleasant in these cooler afternoon temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Ba Kan Tiang Beach",
+                "hu": "Ba Kan Tiang strand",
+                "ro": "Plaja Ba Kan Tiang",
+                "en": "Ba Kan Tiang Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang in einer warmen Schicht gegen die Abendkühle.",
+                "hu": "Nézd meg a korai naplementét, miközben egy meleg rétegbe burkolózol a hideg ellen.",
+                "ro": "Priviți apusul timpuriu înfășurat într-un strat cald pentru a combate frigul serii.",
+                "en": "Watch the early spectacular sunset while wrapped in a warm layer to beat the evening chill."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a kerékpártúrát a lágy reggeli szellőben az Ao Mai Phai partján, majd tekerjen a rejtett Nui öböl felé. A delet a megmentett elefántok megfigyelésével töltheti. Délután térjen át a pezsgő Ba Kan Tiang strandra, és lőjön egy fotót a Survivor szobornál. Zárja az aktív utat a dzsungel szélén, játékos majmokat figyelve.",
         "ro": "Începeți turul cu bicicleta în briza dimineții la Ao Mai Phai, înainte de a pedala spre Nui Bay. La prânz veți observa elefanții salvați la Following Giants. După-amiaza, treceți la animata plajă Ba Kan Tiang și faceți o poză la statuia Survivor. Încheiați cursa la marginea junglei urmărind maimuțele sălbatice jucăușe la amurg.",
         "en": "Kick off your cycling tour with the gentle morning breezes at Ao Mai Phai before pedaling towards the hidden Nui Bay Beach. The midday sun is spent thoughtfully observing rescued elephants at Following Giants. By afternoon, transition to the lively Ba Kan Tiang Beach and snap a quick photo at the Survivor statue. End the active ride near the jungle edge watching playful wild monkeys at dusk."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig auf rutschigen Straßen. Mittagschauer erfordern Pausen unter Dächern. Nachmittags fordern matschige Wege Fokus. Die abendliche Rückfahrt ist dunkel; Licht prüfen.",
+            "hu": "Kezdd óvatosan a vizes utakon az utat. Délben gyakran kell fedezékbe húzódni. Délután a saras ösvényeken fókuszálni kell. Az esti visszaút sötét; ellenőrizd a kerékpár lámpáit.",
+            "ro": "Începeți plimbarea umedă cu grijă pe drumuri alunecoase. La prânz opriți des sub adăposturi. După-amiaza concentrați-vă pe trasee noroioase. Seara este întuneric; verificați luminile.",
+            "en": "Start your wet ride carefully on slippery roads. Midday showers mean frequent stops under shelters. Afternoon cycling requires focus on muddy trails. Evening rides back are dark; ensure your lights work."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Mai Phai",
+                "hu": "Ao Mai Phai",
+                "ro": "Ao Mai Phai",
+                "en": "Ao Mai Phai"
+              },
+              "tip_5lang": {
+                "de": "Sichern Sie Ihr Fahrrad wasserdicht, während Sie den Regen über dem Meer beobachten.",
+                "hu": "Tegyél vízálló huzatot a bringára, miközben az óceán feletti esőt nézed.",
+                "ro": "Puneți o husă impermeabilă pe bicicletă în timp ce priviți ploaia peste ocean.",
+                "en": "Secure a waterproof cover for your bike while watching the rain fall over the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Nui Bay Beach",
+                "hu": "Nui Bay strand",
+                "ro": "Nui Bay Beach",
+                "en": "Nui Bay Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Straße hinab ist rutschig, bremsen Sie sanft und tragen Sie einen hellen Regenmantel.",
+                "hu": "Az út lefelé csúszós, fékezz óvatosan és viselj jól látható, világos esőkabátot.",
+                "ro": "Drumul este alunecos, frânați ușor și purtați o pelerină de ploaie vizibilă.",
+                "en": "The road down here is slick, so brake gently and wear a highly visible, bright raincoat."
+              }
+            },
+            {
+              "name": {
+                "de": "Following Giants",
+                "hu": "Following Giants",
+                "ro": "Following Giants",
+                "en": "Following Giants"
+              },
+              "tip_5lang": {
+                "de": "Im nassen Dschungel zu radeln ist schmutzig; packen Sie unbedingt trockene Kleidung ein.",
+                "hu": "A vizes dzsungelben tekerni koszos; mindenképp vigyél magaddal száraz váltóruhát.",
+                "ro": "Ciclismul în jungla umedă este murdar; luați neapărat haine de schimb uscate.",
+                "en": "Cycling the wet jungle path is messy; strongly consider packing a dry change of clothes."
+              }
+            },
+            {
+              "name": {
+                "de": "Ba Kan Tiang Beach",
+                "hu": "Ba Kan Tiang strand",
+                "ro": "Plaja Ba Kan Tiang",
+                "en": "Ba Kan Tiang Beach"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause unter einem Dach, um vor der Weiterfahrt etwas zu trocknen.",
+                "hu": "Tarts egy meleg pihenőt egy kávézó teteje alatt, hogy megszáradj a vizes út folytatása előtt.",
+                "ro": "Luați o pauză caldă sub un acoperiș pentru a vă usca înainte de a continua drumul.",
+                "en": "Take a warm break under a café roof to dry off before continuing your wet riding journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue of Koh Lanta, French TV show (survivor)",
+                "hu": "Koh Lanta szobor",
+                "ro": "Statuia Koh Lanta",
+                "en": "Statue of Koh Lanta, French TV show (survivor)"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Fotostopp; schützen Sie Ihr Handy oder Ihre Kamera vor dem leichten Nieselregen.",
+                "hu": "Gyors fotószünet; tartsd a telefont vagy a kamerát védve a folyamatos szitáló esőtől.",
+                "ro": "Oprire foto scurtă; protejați-vă telefonul sau camera de burnița ușoară.",
+                "en": "Quick photo stop; keep your phone or camera protected from the continuous light drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Wild Monkeys",
+                "hu": "Vadmajmok",
+                "ro": "Maimuțe sălbatice",
+                "en": "Wild Monkeys"
+              },
+              "tip_5lang": {
+                "de": "Affen verstecken sich bei Regen; achten Sie auf die extrem rutschigen Blätter auf dem Weg.",
+                "hu": "A majmok elbújnak a heves záporok elől; vigyázz a rendkívül csúszós levelekre az úton.",
+                "ro": "Maimuțele se ascund de ploaie; aveți grijă la frunzele extrem de alunecoase de pe drum.",
+                "en": "Monkeys hide during heavy downpours; watch out for extremely slippery leaves on the road."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie eine kühle Morgenbrise. Die Mittagssonne ist sanft, Radfahren ist angenehm. Der Nachmittag bietet tolle Aussichten. Die Sonne geht früh unter, warme Jacke einpacken.",
+            "hu": "Élvezd a hűvös reggeli szellőt tekerés közben. A déli nap enyhe, a kerékpározás kényelmes. A délután csodás aranyórás fényeket ad. A nap korán lenyugszik, vigyél meleg kabátot.",
+            "ro": "Bucurați-vă de briza rece a dimineții pe bicicletă. Soarele amiezii e blând pentru ciclism. După-amiaza oferă priveliști la ora de aur. Soarele apune devreme, luați o jachetă caldă.",
+            "en": "Enjoy a cool morning breeze on your ride. The midday sun is gentle, making cycling comfortable. Afternoon rides offer great golden hour views. The sun sets early, so pack a warm jacket."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ao Mai Phai",
+                "hu": "Ao Mai Phai",
+                "ro": "Ao Mai Phai",
+                "en": "Ao Mai Phai"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie bequem in der kühlen Morgenluft und genießen Sie den ruhigen, klaren Strand.",
+                "hu": "Tekerj kényelmesen a hűvös reggeli levegőben, és élvezd a csendes, kristálytiszta strandot.",
+                "ro": "Pedați confortabil în aerul rece al dimineții și bucurați-vă de plaja liniștită.",
+                "en": "Pedal comfortably in the cool morning air and enjoy the quiet, beautifully clear beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Nui Bay Beach",
+                "hu": "Nui Bay strand",
+                "ro": "Nui Bay Beach",
+                "en": "Nui Bay Beach"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne ist herrlich mild, perfekt für eine lange Pause am kühlen Wasser.",
+                "hu": "A téli nap csodásan enyhe, így ez tökéletes egy hosszú pihenőre a hűvös víz mellett.",
+                "ro": "Soarele de iarnă este minunat de blând, perfect pentru o odihnă lungă lângă apa rece.",
+                "en": "The winter sun is wonderfully mild, making this perfect for a long rest by the cool water."
+              }
+            },
+            {
+              "name": {
+                "de": "Following Giants",
+                "hu": "Following Giants",
+                "ro": "Following Giants",
+                "en": "Following Giants"
+              },
+              "tip_5lang": {
+                "de": "Das angenehm kühlere Wetter macht die anspruchsvolle Radtour zu den Elefanten viel einfacher.",
+                "hu": "A kellemesen hűvösebb időjárás sokkal könnyebbé teszi a megerőltető tekerést az elefántokhoz.",
+                "ro": "Vremea plăcut mai rece face ca plimbarea solicitantă cu bicicleta spre elefanți să fie mai ușoară.",
+                "en": "The pleasantly cooler weather makes the demanding bike ride up to the elephants much easier."
+              }
+            },
+            {
+              "name": {
+                "de": "Ba Kan Tiang Beach",
+                "hu": "Ba Kan Tiang strand",
+                "ro": "Plaja Ba Kan Tiang",
+                "en": "Ba Kan Tiang Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort zum Entspannen, bevor die frühe Winterkälte am späten Nachmittag einsetzt.",
+                "hu": "Remek pihentető hely az energiád visszanyerésére, mielőtt a korai téli hideg teljesen beáll.",
+                "ro": "Un loc excelent de relaxare pentru a vă recupera energia înainte de a se lăsa frigul serii.",
+                "en": "A great relaxing spot to recover your energy before the early winter chill sets in completely."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue of Koh Lanta, French TV show (survivor)",
+                "hu": "Koh Lanta szobor",
+                "ro": "Statuia Koh Lanta",
+                "en": "Statue of Koh Lanta, French TV show (survivor)"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie für ein klares Küstenfoto an, wenn das schöne Nachmittagslicht weicher wird.",
+                "hu": "Állj meg egy tiszta, éles parti fotóra, ahogy a gyönyörű délutáni fény kezd lágyulni.",
+                "ro": "Opriți pentru o fotografie clară de coastă, pe măsură ce lumina frumoasă a după-amiezii se înmoaie.",
+                "en": "Stop for a clear, crisp coastal photo as the beautiful afternoon light begins to soften."
+              }
+            },
+            {
+              "name": {
+                "de": "Wild Monkeys",
+                "hu": "Vadmajmok",
+                "ro": "Maimuțe sălbatice",
+                "en": "Wild Monkeys"
+              },
+              "tip_5lang": {
+                "de": "Der kühle Spätnachmittag lockt die Affen an; bringen Sie eine leichte Jacke für die Dämmerung mit.",
+                "hu": "A hűsülő késő délután előcsalogatja a majmokat; hozz egy könnyű dzsekit az alkonyathoz.",
+                "ro": "Răcoarea după-amiezii târzii scoate maimuțele; aduceți o jachetă ușoară odată cu amurgul.",
+                "en": "The cooling late afternoon brings the monkeys out; bring a light jacket as dusk approaches."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen le a déli csücsökbe korán, hogy megcsodálhassa a Laem Ta Not strandot és annak világítótornyát. A déli órák a part menti pihenésről szólnak az Ao Mai Phai, Khlong Chak és Nui öböl mentén. A délután elefántos kalandot és frissítő túrát ígér a vízeséshez. Az autós kirándulás a híres Survivor szobornál tett fotós megállókkal zárul.",
         "ro": "Conduceți dimineața devreme spre sud pentru a explora plaja Laem Ta Not și farul ei maiestuos. La amiază urcați pe coastă, relaxându-vă la Ao Mai Phai, Khlong Chak și Nui Bay. După-amiaza promite aventuri cu elefanți și o drumeție răcoritoare la cascada Khlong Chak. Excursia se încheie cu fotografii la statuia Survivor la apus.",
         "en": "Drive down to the southern tip early to explore Laem Ta Not Beach and its majestic lighthouse in the morning light. Midday brings you up the coast, unwinding at Ao Mai Phai, Khlong Chak, and the beautiful Nui Bay. Your afternoon promises adventure with ethical elephant encounters and a refreshing trek to Khlong Chak Waterfall. Your road trip concludes with photo stops at the Survivor statue."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine morgendliche Fahrt hält Sie trocken. Mittagsregen macht Straßen rutschig; langsam fahren. Nachmittagsstopps erfordern Regenschirme. Abendfahrten sind gemütlich, Vorsicht vor Pfützen.",
+            "hu": "A reggeli vezetés szárazon tart a mosott parton. Délben az utak csúszósak; vezess lassan. Délután esernyős sprintek kellenek. Az esti autózás kényelmes, de vigyázz a tócsákkal.",
+            "ro": "O plimbare de dimineață vă menține uscat. Ploaia de prânz face drumurile alunecoase; conduceți încet. După-amiaza cere umbrele rapide. Seara e confortabilă, dar atenție la inundații.",
+            "en": "A morning drive keeps you dry while the rain washes the coast. Midday rain makes roads slippery; drive slowly. Afternoon stops require quick umbrella dashes. Evening drives are cozy, but watch for flooded patches."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Laem Ta Not Beach",
+                "hu": "Laem Ta Not strand",
+                "ro": "Plaja Laem Ta Not",
+                "en": "Laem Ta Not Beach"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das wilde Meer im trockenen Auto, bevor Sie mit einem Regenschirm aussteigen.",
+                "hu": "Élvezd a vad tengert a száraz autó kényelméből, mielőtt kiszállnál egy esernyővel.",
+                "ro": "Bucurați-vă de marea sălbatică din confortul mașinii uscate înainte de a ieși cu umbrela.",
+                "en": "Enjoy the wild sea from the comfort of your dry car before stepping out with an umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mai Phai",
+                "hu": "Ao Mai Phai",
+                "ro": "Ao Mai Phai",
+                "en": "Ao Mai Phai"
+              },
+              "tip_5lang": {
+                "de": "Warten Sie auf eine Regenpause, bevor Sie für einen kurzen Blick auf die Bucht aussteigen.",
+                "hu": "Várj egy rövid szünetet a heves esőben, mielőtt kiszállnál egy gyors pillantásra az öbölre.",
+                "ro": "Așteptați o scurtă pauză în ploaia torențială înainte de a ieși pentru a vedea golful.",
+                "en": "Wait for a brief break in the heavy rain before stepping out for a quick look at the bay."
+              }
+            },
+            {
+              "name": {
+                "de": "Khlong Chak Strand",
+                "hu": "Khlong Chak strand",
+                "ro": "Plaja Khlong Chak",
+                "en": "Khlong Chak Beach"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie einen großen Regenschirm im Kofferraum für den kurzen, nassen Weg zum Sand bereit.",
+                "hu": "Tarts egy nagy, strapabíró esernyőt a csomagtartóban a rövid, de nedves sétához a homokig.",
+                "ro": "Păstrați o umbrelă mare în portbagaj pentru plimbarea scurtă, dar umedă, până la nisip.",
+                "en": "Keep a large, sturdy umbrella in the trunk for the short but wet walk down to the sand."
+              }
+            },
+            {
+              "name": {
+                "de": "Nui Bay Beach",
+                "hu": "Nui Bay strand",
+                "ro": "Nui Bay Beach",
+                "en": "Nui Bay Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Aussichtspunkt ist im Regen atemberaubend, achten Sie auf die rutschigen nassen Stufen.",
+                "hu": "A kilátó lenyűgöző az esőben, csak vigyázz a lefelé vezető csúszós, nedves lépcsőkre.",
+                "ro": "Punctul de belvedere e uimitor în ploaie, doar aveți grijă la treptele umede și alunecoase.",
+                "en": "The scenic viewpoint is stunning in the rain, just mind the slippery wet steps going down."
+              }
+            },
+            {
+              "name": {
+                "de": "Following Giants",
+                "hu": "Following Giants",
+                "ro": "Following Giants",
+                "en": "Following Giants"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah und tragen Sie Gummistiefel für die schlammigen Elefantenpfade im Dschungel.",
+                "hu": "Parkolj közel, és viselj vízálló gumicsizmát a dzsungel saras elefántösvényeihez.",
+                "ro": "Parcați aproape și purtați cizme de cauciuc impermeabile pentru traseele noroioase de elefanți.",
+                "en": "Park close and wear waterproof rubber boots for the muddy elephant trails in the jungle."
+              }
+            },
+            {
+              "name": {
+                "de": "Khlong Chak Wasserfall",
+                "hu": "Khlong Chak vízesés",
+                "ro": "Cascada Khlong Chak",
+                "en": "Khlong Chak Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Regen lässt den Wasserfall beeindruckend rauschen; Vorsicht auf den nassen Felsen.",
+                "hu": "Az esőtől a vízesés lenyűgözően morajlik; légy nagyon óvatos a nedves, csúszós köveken.",
+                "ro": "Ploaia face cascada să urle impresionant; fiți foarte atenți pe stâncile umede și alunecoase.",
+                "en": "The rain makes the waterfall roar impressively; be very careful on the wet, slippery rocks."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue of Koh Lanta, French TV show (survivor)",
+                "hu": "Koh Lanta szobor",
+                "ro": "Statuia Koh Lanta",
+                "en": "Statue of Koh Lanta, French TV show (survivor)"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto durchs Autofenster, wenn der tropische Platzregen zu stark ist.",
+                "hu": "Készíts egy gyors fotót az ablakon keresztül, ha a trópusi zápor túl heves lenne.",
+                "ro": "Faceți o fotografie rapidă prin geamul mașinii dacă ploaia tropicală este prea puternică.",
+                "en": "Snap a quick photo right through the car window if the tropical downpour is too heavy."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie mit frischen morgendlichen Aussichten. Mittags die Fenster herunterkurbeln. Nachmittagsstopps sind bei milder Sonne angenehm. Fahren Sie früh zurück; Pullover griffbereit halten.",
+            "hu": "Kezdd a vezetést friss reggeli kilátással. Délben tökéletes lehúzni az ablakot. A délutáni megállók kellemesek az enyhe nappal. Indulj vissza korán; legyen kéznél egy meleg pulóver.",
+            "ro": "Începeți plimbarea cu priveliști clare de dimineață. La prânz e perfect să deschideți geamurile. Opririle de după-amiază sunt plăcute. Întoarceți-vă devreme; țineți un pulover la îndemână.",
+            "en": "Start your drive with crisp morning views. Midday offers perfect conditions to roll windows down. Afternoon stops are pleasant with mild sun. Drive back early; keep a warm sweater handy."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Laem Ta Not Beach",
+                "hu": "Laem Ta Not strand",
+                "ro": "Plaja Laem Ta Not",
+                "en": "Laem Ta Not Beach"
+              },
+              "tip_5lang": {
+                "de": "Das Wintermorgenlicht ist perfekt für Fotos; bringen Sie eine leichte warme Schicht nach draußen.",
+                "hu": "A téli reggeli fény abszolút tökéletes a fotózáshoz; vigyél ki egy könnyű meleg réteget.",
+                "ro": "Lumina dimineții de iarnă e perfectă pentru fotografii; aduceți un strat ușor cald afară.",
+                "en": "The winter morning light is absolutely perfect for photos; bring a light warm layer outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Ao Mai Phai",
+                "hu": "Ao Mai Phai",
+                "ro": "Ao Mai Phai",
+                "en": "Ao Mai Phai"
+              },
+              "tip_5lang": {
+                "de": "Kurbeln Sie die Autofenster herunter und genießen Sie die frische, kühle Küstenbrise.",
+                "hu": "Húzd le az autó ablakait, és élvezd a friss, kellemesen hűvös tengerparti szellőt érkezéskor.",
+                "ro": "Deschideți geamurile mașinii și bucurați-vă de briza de coastă proaspătă și plăcut de rece.",
+                "en": "Roll down the car windows and enjoy the fresh, pleasantly cool coastal breeze as you arrive."
+              }
+            },
+            {
+              "name": {
+                "de": "Khlong Chak Strand",
+                "hu": "Khlong Chak strand",
+                "ro": "Plaja Khlong Chak",
+                "en": "Khlong Chak Beach"
+              },
+              "tip_5lang": {
+                "de": "Das milde Winterwetter macht den kurzen Weg vom geparkten Auto zum Strand zu einer reinen Freude.",
+                "hu": "Az enyhe téli időjárás tiszta örömmé teszi a rövid sétát a parkoló autótól a strandig.",
+                "ro": "Vremea blândă de iarnă face din scurta plimbare de la mașina parcată la plajă o bucurie pură.",
+                "en": "The mild winter weather makes the short walk from the parked car to the beach a pure joy."
+              }
+            },
+            {
+              "name": {
+                "de": "Nui Bay Beach",
+                "hu": "Nui Bay strand",
+                "ro": "Nui Bay Beach",
+                "en": "Nui Bay Beach"
+              },
+              "tip_5lang": {
+                "de": "Klarer Winterhimmel macht dies zum perfekten Panorama-Fotostopp ohne den üblichen Dunst.",
+                "hu": "A kristálytiszta téli égbolt tökéletes panorámás fotómegállóvá teszi ezt a szokásos pára nélkül.",
+                "ro": "Cerul senin de iarnă face din acesta oprirea perfectă pentru fotografii panoramice, fără ceață.",
+                "en": "Crystal clear winter skies make this the perfect panoramic photo stop without the usual haze."
+              }
+            },
+            {
+              "name": {
+                "de": "Following Giants",
+                "hu": "Following Giants",
+                "ro": "Following Giants",
+                "en": "Following Giants"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die angenehmen, gemäßigten Temperaturen bei einem Spaziergang mit den Elefanten.",
+                "hu": "Élvezd a nagyon kényelmes, mérsékelt hőmérsékletet, miközben a fenséges elefántokkal sétálsz.",
+                "ro": "Bucurați-vă de temperaturile moderate și confortabile în timp ce vă plimbați cu elefanții majestuoși.",
+                "en": "Enjoy the very comfortable, moderate temperatures while walking with the majestic elephants."
+              }
+            },
+            {
+              "name": {
+                "de": "Khlong Chak Wasserfall",
+                "hu": "Khlong Chak vízesés",
+                "ro": "Cascada Khlong Chak",
+                "en": "Khlong Chak Waterfall"
+              },
+              "tip_5lang": {
+                "de": "Der Dschungelpfad ist angenehm trocken und kühl; perfekte Wanderbedingungen vor Einbruch der Dunkelheit.",
+                "hu": "A dzsungelösvény kényelmesen száraz és hűvös; tökéletes túrázási feltételek sötétedés előtt.",
+                "ro": "Traseul din junglă este confortabil de uscat și răcoros; condiții perfecte de drumeție înainte de amurg.",
+                "en": "The jungle trail is comfortably dry and cool; perfect hiking conditions before dusk arrives."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue of Koh Lanta, French TV show (survivor)",
+                "hu": "Koh Lanta szobor",
+                "ro": "Statuia Koh Lanta",
+                "en": "Statue of Koh Lanta, French TV show (survivor)"
+              },
+              "tip_5lang": {
+                "de": "Fangen Sie das goldene Licht früh ein, kurz vor dem schnellen Temperaturabfall um 17 Uhr.",
+                "hu": "Kapd el a lenyűgöző aranyórás fényeket korán, közvetlenül a délután 5 órás gyors hőmérséklet-esés előtt.",
+                "ro": "Prindeți lumina uimitoare a orei de aur devreme, chiar înainte de scăderea rapidă a temperaturii de la 5 PM.",
+                "en": "Catch the stunning golden hour light early, right before the quick drop in temperature at 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

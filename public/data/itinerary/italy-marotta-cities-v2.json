@@ -137,6 +137,168 @@
         "hu": "Kezdje sétáját az északi sétányon található ikonikus szobrok megcsodálásával, élvezve a friss reggeli tengeri szellőt. Ahogy közeledik a dél, fedezze fel a központ emlékműveit és homokos partjait. A délutánt a napozásnak és a híres strandklubok nyüzsgő atmoszférájának szentelheti. Este lazítson egy békés tengerparti sétával, miközben a lemenő nap színei lassan elhalványulnak.",
         "ro": "Începeți turul admirând statuile iconice de pe promenada nordică, bucurându-vă de briza proaspătă a mării. La prânz, mergeți spre centrul plin de viață pentru a descoperi monumentele locale și țărmurile nisipoase primitoare. Petreceți după-amiaza la soare, bucurându-vă de atmosfera plină de viață a cluburilor de plajă celebre. Seara, relaxați-vă cu o plimbare liniștită pe malul mării.",
         "en": "Start your walking tour by admiring the iconic statues along the northern promenade, taking in the fresh morning sea breeze. As midday approaches, move towards the bustling center to discover local monuments and inviting sandy shores. Spend your afternoon soaking up the sun and enjoying the lively atmosphere at the famous beach clubs. In the evening, unwind with a peaceful seaside stroll as the colors fade."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen in Marotta beginnt mit einem Spaziergang zu den Statuen unter dem Schutz eines Schirms. Mittags suchen wir Zuflucht bei den Denkmälern, während der Regen die Meeresbrise verstärkt. Am Nachmittag beobachten wir die dramatischen Wellen von den überdachten Bereichen der Bagni aus. Der Abend endet mit dem Spiegelspiel der Stadtlichter auf dem nassen Pflaster.",
+            "hu": "Az esős reggel Marottában esernyős sétával indul a szobrok felé, a tenger sós illata ilyenkor a legintenzívebb. Délben az emlékművek környékén keresünk fedett menedéket a záporok elől. Délután a strandok zárt teraszairól csodáljuk a haragos Adriát és a habzó hullámokat. Az este a vizes aszfalton megcsillanó városi fények látványával és friss, tiszta levegővel zárul.",
+            "ro": "O dimineață ploioasă în Marotta începe cu o plimbare spre statui sub protecția umbrelei, simțind mirosul sărat al mării. La prânz căutăm adăpost lângă monumente, admirând reflexiile apei pe piatră. După-amiaza observăm valurile dramatice de sub terasele acoperite ale plajelor. Seara se încheie cu spectacolul luminilor orașului oglindite în asfaltul ud și o atmosferă liniștită.",
+            "en": "A rainy morning in Marotta starts with a walk to the statues under an umbrella, where the salt air feels more intense. At noon, we explore the monuments, seeking brief shelter from the showers. In the afternoon, we watch the dramatic waves from the covered terraces of the beach clubs. The evening concludes with city lights reflecting on the wet pavement and a refreshing sea breeze."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue von Padre Pio",
+                "hu": "Padre Pio szobor",
+                "ro": "Statuia lui Padre Pio",
+                "en": "Statue of Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Statue im weichen Licht des Regens und nutzen Sie die nahen Arkaden als Unterstand, um die spirituelle Atmosphäre trocken zu genießen.",
+                "hu": "Csodálja meg a szobrot az eső lágy fényében, és használja a közeli árkádokat menedékként, hogy szárazon élvezhesse a spirituális helyszín nyugalmát.",
+                "ro": "Admirați statuia în lumina blândă a ploii și folosiți arcadele din apropiere ca adăpost pentru a vă bucura de liniștea locului fără a vă uda.",
+                "en": "Admire the statue in the soft light of the rain and use the nearby archways as shelter to enjoy the spiritual atmosphere while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue des Heiligen Pio von Pietrelcina",
+                "hu": "Pietrelcinai Szent Pio szobra",
+                "ro": "Statuia Sfântului Pio din Pietrelcina",
+                "en": "Statue of St. Pio of Pietrelcina"
+              },
+              "tip_5lang": {
+                "de": "Die Bronzefigur wirkt bei Regen besonders glänzend; halten Sie Ihren Schirm fest, da die Meeresbrise hier oft plötzliche Windböen mit sich bringt.",
+                "hu": "A bronzszobor felülete az esőben különleges fényt kap; tartsa erősen az ernyőjét, mert a tengerparti szél itt gyakran hirtelen felerősödhet.",
+                "ro": "Figura de bronz strălucește spectaculos în ploaie; țineți umbrela bine, deoarece briza mării poate aduce rafale de vânt neașteptate în acest punct.",
+                "en": "The bronze statue looks particularly shiny in the rain; hold your umbrella firmly as the sea breeze often brings sudden gusts of wind here."
+              }
+            },
+            {
+              "name": {
+                "de": "Avis Denkmal",
+                "hu": "Avis Emlékmű",
+                "ro": "Monumentul Avis",
+                "en": "Avis Monument"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das moderne Monument durch den Regenfilter für stimmungsvolle Fotos und achten Sie auf die rutschigen Steinstufen in der Umgebung.",
+                "hu": "Nézze meg a modern emlékművet az esőfüggönyön át a hangulatos fotókért, de vigyázzon a környező kőlépcsőkre, mert vizesen rendkívül csúszósak.",
+                "ro": "Observați monumentul modern prin filtrul ploii pentru fotografii atmosferice și aveți grijă la treptele de piatră care devin foarte alunecoase.",
+                "en": "View the modern monument through the filter of rain for atmospheric photos, and be careful on the stone steps as they become very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 7 Happy Days Beach",
+                "hu": "Bagni 7 Happy Days Strand",
+                "ro": "Bagni 7 Happy Days Beach",
+                "en": "Bagni 7 Happy Days Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das feste Dach der Strandbar, um dem prasselnden Regen zu lauschen und den grauen Horizont der Adria bei einem Heißgetränk zu beobachten.",
+                "hu": "Használja ki a strandbár masszív tetőzetét, hallgassa az eső kopogását, és egy forró ital mellett figyelje az Adria szürke, morajló horizontját.",
+                "ro": "Folosiți acoperișul solid al barului de pe plajă pentru a asculta ploaia și a observa orizontul gri al Adriaticii în timp ce savurați o băutură caldă.",
+                "en": "Take advantage of the beach bar's solid roof to listen to the rain and watch the grey horizon of the Adriatic while enjoying a warm drink."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 5",
+                "hu": "Bagni 5",
+                "ro": "Bagni 5",
+                "en": "Bagni 5"
+              },
+              "tip_5lang": {
+                "de": "Der Strandabschnitt wirkt im Regen mystisch verlassen; suchen Sie Schutz unter den verbleibenden Strukturen und genießen Sie die Einsamkeit am Meer.",
+                "hu": "A strand szakasz az esőben misztikusan elhagyatott; keressen menedéket a megmaradt építmények alatt, és élvezze a tengerparti magányt.",
+                "ro": "Această secțiune de plajă pare mistic de pustie în ploaie; căutați adăpost sub structurile rămase și bucurați-vă de singurătatea la malul mării.",
+                "en": "This beach section looks mystically deserted in the rain; find shelter under the remaining structures and enjoy the solitude by the sea."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Wintermorgen in Marotta lädt zu einem erfrischenden Spaziergang in der kühlen Meeresluft ein. Mittags wärmt die tiefstehende Sonne die historischen Denkmäler. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir den Nachmittag für lange Strandgänge in dicker Kleidung. Der Abend wird früh eingeläutet und bietet eine friedliche Stille fernab des Sommertrubels.",
+            "hu": "A tiszta téli reggel Marottában frissítő sétára hív a hűvös tengeri levegőn. Délben az alacsonyan járó nap bágyadtan világítja meg a történelmi szobrokat. Mivel ötkor már sötétedik, a délutánt vastag ruhába bújva, hosszú parti sétákkal töltjük. Az este korán köszönt be, a nyári nyüzsgés után ilyenkor a csend és a nyugalom uralkodik a parton.",
+            "ro": "O dimineață senină de iarnă în Marotta invită la o plimbare revigorantă în aerul rece al mării. La prânz, soarele palid luminează statuile istorice. Deoarece apusul este la ora 17:00, profităm de după-amiază pentru plimbări lungi pe plajă bine îmbrăcați. Seara vine devreme, oferind o liniște deplină departe de agitația verii.",
+            "en": "A crisp winter morning in Marotta invites a refreshing stroll in the cool sea air. At noon, the low-hanging sun weakly lights up the historical statues. Since the sun sets around 5 PM, we use the afternoon for long beach walks bundled in layers. Evening arrives early, bringing a peaceful silence far from the summer crowds."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Statue von Padre Pio",
+                "hu": "Padre Pio szobor",
+                "ro": "Statuia lui Padre Pio",
+                "en": "Statue of Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine winddichte Jacke, da der kalte Nordwind hier ungehindert weht; das klare Winterlicht bietet jedoch perfekte Sicht für Fotos.",
+                "hu": "Viseljen szélálló kabátot, mert a hideg északi szél itt akadálytalanul fúj; a tiszta téli fények viszont tökéletes láthatóságot adnak a fotózáshoz.",
+                "ro": "Purtați o jachetă rezistentă la vânt, deoarece vântul rece din nord bate puternic aici; lumina clară de iarnă oferă însă o vizibilitate perfectă.",
+                "en": "Wear a windproof jacket as the cold north wind blows unchecked here; however, the clear winter light provides perfect visibility for photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue des Heiligen Pio von Pietrelcina",
+                "hu": "Pietrelcinai Szent Pio szobra",
+                "ro": "Statuia Sfântului Pio din Pietrelcina",
+                "en": "Statue of St. Pio of Pietrelcina"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Denkmal ohne Touristenströme und achten Sie auf den frühen Schattenwurf der umliegenden Gebäude ab 15:30 Uhr.",
+                "hu": "Élvezze az emlékmű nyugalmát a turistahadak nélkül, de figyeljen a környező épületek korai árnyékvetésére, ami már délután fél négykor elkezdődik.",
+                "ro": "Bucurați-vă de liniștea monumentului fără fluxul de turiști și aveți în vedere umbrele lungi lăsate de clădirile din jur încă de la ora 15:30.",
+                "en": "Enjoy the tranquility of the monument without the tourist crowds, but be aware of the early shadows from surrounding buildings starting at 3:30 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Avis Denkmal",
+                "hu": "Avis Emlékmű",
+                "ro": "Monumentul Avis",
+                "en": "Avis Monument"
+              },
+              "tip_5lang": {
+                "de": "Die metallischen Oberflächen fühlen sich bei Frost sehr kalt an; halten Sie die Hände in den Taschen und genießen Sie das Panorama der leeren Küste.",
+                "hu": "A fémes felületek fagyos időben nagyon hidegek; tartsa a kezét a zsebében, és inkább az üres tengerparti panorámát élvezze innen.",
+                "ro": "Suprafețele metalice sunt foarte reci la atingere pe timp de îngheț; țineți mâinile în buzunare și admirați panorama coastei pustii de aici.",
+                "en": "The metallic surfaces feel very cold in freezing weather; keep your hands in your pockets and enjoy the panorama of the empty coastline from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 7 Happy Days Beach",
+                "hu": "Bagni 7 Happy Days Strand",
+                "ro": "Bagni 7 Happy Days Beach",
+                "en": "Bagni 7 Happy Days Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Strand ist im Winter ideal für weite Blicke; kommen Sie spätestens um 16:30 Uhr hierher, um den pastellfarbenen Wintersonnenuntergang zu erleben.",
+                "hu": "A strand télen ideális a távoli kilátáshoz; érkezzen legkésőbb délután fél ötre, hogy elcsípje a pasztellszínű téli naplementét a tenger felett.",
+                "ro": "Plaja este ideală iarna pentru vederi largi; veniți cel târziu la 16:30 pentru a surprinde apusul de iarnă în culori pastelate deasupra mării.",
+                "en": "The beach is ideal in winter for wide views; arrive by 4:30 PM at the latest to catch the pastel-colored winter sunset over the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 5",
+                "hu": "Bagni 5",
+                "ro": "Bagni 5",
+                "en": "Bagni 5"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie sich einen windgeschützten Platz im Sand für eine kurze Rast und genießen Sie die Melancholie der geschlossenen Sonnenschirme.",
+                "hu": "Keressen egy szélvédett helyet a homokban egy rövid pihenőre, és élvezze a bezárt napernyők és a téli tenger melankolikus hangulatát.",
+                "ro": "Găsiți un loc ferit de vânt în nisip pentru o scurtă odihnă și bucurați-vă de atmosfera melancolică a umbrelelor închise și a mării de iarnă.",
+                "en": "Find a wind-sheltered spot in the sand for a short rest and enjoy the melancholy atmosphere of the closed umbrellas and the winter sea."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Tekerjen végig Marotta festői északi partvidékén, a csendes strandoktól a történelmi látnivalókig. Délben kényelmesen guruljon végig a nyüzsgő tengerparti sétányokon, és fedezze fel a helyi emlékműveket. A délután tökéletes arra, hogy felfedezze a különböző strandokat és megkóstolja a helyi finomságokat. Fejezze be kerékpáros túráját a gyönyörű déli partokon, és csodálja meg a naplementét.",
         "ro": "Pedalați pe coasta nordică pitorească, începând cu plajele largi până la atracțiile istorice. La prânz, mergeți de-a lungul promenadelor pline de viață de la plajă pentru a explora monumentele locale. După-amiaza este perfectă pentru a vă deplasa între diverse bagni, degustând delicatese locale. Încheiați călătoria cu bicicleta privind apusul soarelui de pe frumoasele țărmuri sudice.",
         "en": "Pedal along Marotta's scenic northern coastline, starting with the quiet wide beaches and reaching historical sights. By midday, cruise smoothly along the vibrant beach promenades to explore the local memorials and bustling squares. The afternoon is perfect for hopping between various unique bagni, sampling local treats. End your cycling journey watching the sunset from the beautiful southern shores."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenwegen, bietet aber eine erfrischende Perspektive. Morgens radeln wir mit Ponchos zum Strand, mittags erreichen wir die Statuen im Stadtzentrum. Am Nachmittag führt die Route entlang der nassen Uferpromenaden zu den Bagni. Der Abend endet nach einer vorsichtigen Fahrt durch die glänzenden Straßen von Marotta.",
+            "hu": "Az esős kerékpártúra óvatosságot igényel a parti utakon, de frissítő élményt nyújt. Reggel poncsóban tekerünk a strandhoz, délben a városközpont szobraihoz érünk. Délután a vizes sétányokon gurulunk tovább a déli strandok felé, figyelve a csúszós szakaszokra. Az este a csillogó utcákon való óvatos tekerés után ér véget Marotta szívében.",
+            "ro": "O tură cu bicicleta în ploaie necesită prudență pe pistele de coastă, dar oferă o perspectivă revigorantă. Dimineața pedalăm în pelerine spre plajă, iar la prânz ajungem la statuile centrale. După-amiaza traseul continuă pe faleza udă spre plajele din sud. Seara se încheie după o cursă atentă prin străzile strălucitoare ale orașului.",
+            "en": "A bike tour in the rain requires caution on coastal paths but offers a refreshing perspective. In the morning, we cycle in ponchos to the beach, reaching the central statues by noon. Afternoon leads us along the wet promenades toward the southern beaches. The evening ends after a careful ride through the glistening streets of Marotta."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Bagni",
+                "hu": "Bagni Strand",
+                "ro": "Plaja Bagni",
+                "en": "Bagni Beach"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zum nassen Strandweg und nutzen Sie die festen Unterstände für eine kurze, trockene Pause am Meer.",
+                "hu": "Indulás előtt ellenőrizze a fékeket a vizes parti úton való tekeréshez, és használja a szilárd tetőket egy rövid, száraz pihenőre a tenger mellett.",
+                "ro": "Verificați frânele înainte de plecare pentru drumul umed spre plajă și folosiți adăposturile fixe pentru o scurtă pauză uscată la malul mării.",
+                "en": "Check your brakes before setting off on the wet beach path and use the permanent shelters for a short, dry break by the sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue von Padre Pio",
+                "hu": "Padre Pio szobor",
+                "ro": "Statuia lui Padre Pio",
+                "en": "Statue of Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher auf einer ebenen Fläche, da der Boden um die Statue bei Regen rutschig sein kann; nutzen Sie wasserfeste Taschen für Ihre Ausrüstung.",
+                "hu": "Parkolja le a bringát stabil, sík felületen, mert a szobor körüli talaj vizesen csúszhat; használjon vízhatlan táskákat a felszerelése védelmére.",
+                "ro": "Parcați bicicleta pe o suprafață plană, deoarece solul din jurul statuii poate fi alunecos; folosiți genți impermeabile pentru echipamentul dumneavoastră.",
+                "en": "Park your bike on a stable, flat surface as the ground around the statue can be slippery; use waterproof bags to protect your gear."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue des Heiligen Pio von Pietrelcina",
+                "hu": "Pietrelcinai Szent Pio szobra",
+                "ro": "Statuia Sfântului Pio din Pietrelcina",
+                "en": "Statue of St. Pio of Pietrelcina"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie in Kurven besonders vorsichtig; das Denkmal bietet einen guten Orientierungspunkt im Nebel, der oft mit dem Regen einhergeht.",
+                "hu": "Kanyarodáskor legyen különösen óvatos a vizes aszfalton; az emlékmű jó tájékozódási pont az esővel gyakran együtt járó párás időben.",
+                "ro": "Fiți extrem de prudenți în curbe pe asfaltul ud; monumentul este un reper excelent în ceața care însoțește adesea ploaia în această zonă.",
+                "en": "Be extremely cautious when cornering on wet asphalt; the monument serves as a good landmark in the misty weather that often accompanies rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Avis Denkmal",
+                "hu": "Avis Emlékmű",
+                "ro": "Monumentul Avis",
+                "en": "Avis Monument"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht hier aus; decken Sie Ihren Sattel während der Besichtigung ab, damit Sie die Fahrt trocken fortsetzen können.",
+                "hu": "Egy rövid megálló is elég itt; takarja le a nyerget a nézelődés idejére, hogy szárazon folytathassa az utat a következő állomás felé.",
+                "ro": "O scurtă oprire este suficientă aici; acoperiți șaua în timp ce vizitați, pentru a putea continua drumul uscat spre următoarea destinație.",
+                "en": "A short stop is enough here; cover your saddle while looking around so you can continue your ride dry to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 7 Happy Days Beach",
+                "hu": "Bagni 7 Happy Days Strand",
+                "ro": "Bagni 7 Happy Days Beach",
+                "en": "Bagni 7 Happy Days Beach"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die hölzernen Rampen nicht mit dem Rad, da diese extrem rutschig sind; parken Sie auf dem befestigten Weg und genießen Sie den Meerblick.",
+                "hu": "Ne hajtson rá a fa rámpákra a bringával, mert rendkívül csúszósak; parkoljon a kövezett úton, és onnan élvezze a tengeri kilátást.",
+                "ro": "Nu intrați cu bicicleta pe rampele de lemn, deoarece sunt extrem de alunecoase; parcați pe drumul pavat și bucurați-vă de vedere de acolo.",
+                "en": "Do not ride onto the wooden ramps with your bike as they are extremely slippery; park on the paved path and enjoy the sea view from there."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 3 Oasi Beach",
+                "hu": "Bagni 3 Oasi Strand",
+                "ro": "Bagni 3 Oasi Beach",
+                "en": "Bagni 3 Oasi Beach"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie bei starkem Regen unter den Markisen Schutz; die raue See bietet ein faszinierendes Schauspiel, das man auch im Regen genießen kann.",
+                "hu": "Heves esőben keressen menedéket a napellenzők alatt; a háborgó tenger lenyűgöző látványt nyújt, amit esőben is érdemes megcsodálni.",
+                "ro": "În caz de ploaie torențială, căutați adăpost sub copertine; marea agitată oferă un spectacol fascinant care merită admirat chiar și pe ploaie.",
+                "en": "In heavy rain, seek shelter under the awnings; the rough sea provides a fascinating spectacle that is worth admiring even in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 1 Stone Beach",
+                "hu": "Bagni 1 Stone Strand",
+                "ro": "Bagni 1 Stone Beach",
+                "en": "Bagni 1 Stone Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Kieselstrand ist bei Nässe schwer begehbar; bleiben Sie auf dem Radweg und beobachten Sie, wie der Regen die Steine zum Glänzen bringt.",
+                "hu": "A kavicsos strand vizesen nehezen járható; maradjon inkább a kerékpárúton, és figyelje, ahogy az eső gyönyörűen megcsillantja a köveket.",
+                "ro": "Plaja cu pietriș este greu de parcurs pe ud; rămâneți mai degrabă pe pista de biciclete și observați cum ploaia face pietrele să strălucească.",
+                "en": "The pebble beach is difficult to walk on when wet; stay on the bike path instead and watch how the rain makes the stones glisten beautifully."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour in Marotta bietet klare Luft und einsame Wege. Morgens radeln wir warm eingepackt entlang der Küste, während die Sonne langsam aufsteigt. Mittags besuchen wir die Denkmäler im milden Winterlicht. Der Nachmittag gehört den weiten Ausblicken an den südlichen Stränden. Da es ab 17:00 Uhr dunkel wird, beenden wir die Tour rechtzeitig mit eingeschalteter Beleuchtung.",
+            "hu": "A téli kerékpártúra Marottában tiszta levegőt és néptelen utakat kínál. Reggel melegen felöltözve tekerünk a parton, miközben a nap lassan emelkedik. Délben a városi emlékműveket látogatjuk meg a lágy téli fényben. A délután a déli strandok tágas kilátásaié. Mivel ötkor sötétedik, a túrát időben, bekapcsolt lámpákkal fejezzük be a központban.",
+            "ro": "O tură de iarnă cu bicicleta în Marotta oferă aer curat și drumuri pustii. Dimineața pedalăm bine îmbrăcați de-a lungul coastei în timp ce soarele urcă lent. La prânz vizităm monumentele în lumina blândă a iernii. După-amiaza aparține vederilor largi de pe plajele sudice. Deoarece se întunecă la ora 17:00, încheiem tura la timp cu luminile aprinse.",
+            "en": "A winter bike tour in Marotta offers crisp air and deserted paths. In the morning, bundled in warm layers, we cycle along the coast as the sun rises. At noon, we visit the city monuments in the soft winter light. The afternoon belongs to the wide views at the southern beaches. Since it gets dark at 5 PM, we finish the tour on time with lights on."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Bagni",
+                "hu": "Bagni Strand",
+                "ro": "Plaja Bagni",
+                "en": "Bagni Beach"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind; der leere Strand bietet im Winter eine seltene Ruhe für einen Moment des Innehaltens.",
+                "hu": "Viseljen kesztyűt a hideg menetszél ellen; az üres strand télen ritka nyugalmat áraszt, ami tökéletes egy rövid megálláshoz és elcsendesedéshez.",
+                "ro": "Purtați mănuși împotriva vântului rece; plaja goală oferă iarna o liniște rară, perfectă pentru un moment de introspecție și relaxare.",
+                "en": "Wear gloves against the cold wind; the empty beach in winter offers a rare tranquility, perfect for a short stop and quiet contemplation."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue von Padre Pio",
+                "hu": "Padre Pio szobor",
+                "ro": "Statuia lui Padre Pio",
+                "en": "Statue of Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterwetter für scharfe Fernaufnahmen; die Sonne steht tief und erzeugt lange, fotogene Schatten um die Statue.",
+                "hu": "Használja ki a tiszta téli időt az éles tájképekhez; a nap alacsonyan jár, és hosszú, fotogén árnyékokat vet a szobor köré.",
+                "ro": "Profitați de vremea clară de iarnă pentru fotografii clare; soarele este jos pe cer și creează umbre lungi și fotogenice în jurul statuii.",
+                "en": "Take advantage of the clear winter weather for sharp landscape shots; the sun is low, casting long, photogenic shadows around the statue."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue des Heiligen Pio von Pietrelcina",
+                "hu": "Pietrelcinai Szent Pio szobra",
+                "ro": "Statuia Sfântului Pio din Pietrelcina",
+                "en": "Statue of St. Pio of Pietrelcina"
+              },
+              "tip_5lang": {
+                "de": "Die kühle Luft hält Sie wach, aber machen Sie keine zu langen Pausen, um nicht auszukühlen; die Denkmäler sind jetzt ideal ohne Drängeln erreichbar.",
+                "hu": "A hűvös levegő frissen tart, de ne álljon meg túl hosszú ideig, nehogy áthűljön; az emlékművek most tömeg nélkül, kényelmesen megközelíthetők.",
+                "ro": "Aerul rece vă menține activ, dar nu faceți pauze prea lungi pentru a nu vă răci; monumentele sunt acum accesibile fără aglomerație.",
+                "en": "The cool air keeps you alert, but don't stop for too long to avoid getting chilled; the monuments are now easily accessible without crowds."
+              }
+            },
+            {
+              "name": {
+                "de": "Avis Denkmal",
+                "hu": "Avis Emlékmű",
+                "ro": "Monumentul Avis",
+                "en": "Avis Monument"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf eventuelle Reifglätte auf dem Radweg in den schattigen Bereichen hinter dem Denkmal während der frühen Morgenstunden.",
+                "hu": "Ügyeljen az esetleges zúzmarás, csúszós szakaszokra a kerékpárúton az emlékmű mögötti árnyékos részeken a kora reggeli órákban.",
+                "ro": "Atenție la porțiunile cu brumă sau polei de pe pista de biciclete în zonele umbrite din spatele monumentului la orele dimineții.",
+                "en": "Watch out for potential frosty or slippery sections on the bike path in the shaded areas behind the monument during early morning hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 7 Happy Days Beach",
+                "hu": "Bagni 7 Happy Days Strand",
+                "ro": "Bagni 7 Happy Days Beach",
+                "en": "Bagni 7 Happy Days Beach"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor dem Sonnenuntergang um 17:00 Uhr hierher, um das violette Licht über der Adria einzufangen, bevor es schlagartig dunkel wird.",
+                "hu": "Érkezzen ide a délután ötkori naplemente előtt, hogy elkapja az Adria feletti lila fényeket, mielőtt hirtelen teljesen besötétedik.",
+                "ro": "Ajungeți aici înainte de apusul de la ora 17:00 pentru a surprinde luminile violete deasupra Adriaticii înainte de lăsarea întunericului.",
+                "en": "Arrive here before the 5 PM sunset to catch the purple lights over the Adriatic before it suddenly gets completely dark."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 3 Oasi Beach",
+                "hu": "Bagni 3 Oasi Strand",
+                "ro": "Bagni 3 Oasi Beach",
+                "en": "Bagni 3 Oasi Beach"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie die Fahrtgeschwindigkeit moderat, um den eisigen Windchill-Effekt zu minimieren; der weite Horizont ist heute besonders klar.",
+                "hu": "Tartsa a sebességet mérsékelten, hogy csökkentse a jeges szél hűtő hatását; a tágas horizot ma különösen tiszta és messzire ellátni.",
+                "ro": "Mențineți o viteză moderată pentru a reduce efectul de răcire al vântului înghețat; orizontul larg este astăzi deosebit de clar și vizibil.",
+                "en": "Keep your speed moderate to reduce the icy wind chill effect; the wide horizon is especially clear and visible today."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 1 Stone Beach",
+                "hu": "Bagni 1 Stone Strand",
+                "ro": "Bagni 1 Stone Beach",
+                "en": "Bagni 1 Stone Beach"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert, da die Dämmerung im Winter sehr schnell in Dunkelheit übergeht.",
+                "hu": "Győződjön meg róla, hogy a kerékpárlámpák működnek a visszaúthoz, mivel a téli szürkület nagyon gyorsan vált át teljes sötétségbe.",
+                "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere, deoarece amurgul de iarnă trece rapid în întuneric deplin.",
+                "en": "Make sure your bike lights are working for the return trip, as winter twilight turns into complete darkness very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "Autózzon el Marotta tágas északi strandjaihoz, és indítsa a napot egy frissítő tengerparti sétával. Délben látogasson el az ikonikus szobrokhoz és a népszerű központi strandokhoz. Délután induljon délebbre, hogy felfedezze a sziklásabb öblöket és a nyüzsgő tengerparti létesítményeket. Végül parkoljon le a festői Stone Beach közelében, és pihenjen, ahogy a tengerparti nap lassan véget ér.",
         "ro": "Conduceți ușor spre plajele nordice spațioase din Marotta pentru a începe ziua cu o plimbare revigorantă. La prânz, îndreptați-vă spre statuile iconice și popularele stațiuni centrale unde puteți lua masa. După-amiaza, mergeți mai spre sud pentru a explora golfurile stâncoase și facilitățile vibrante de pe litoral. În cele din urmă, parcați lângă pitorescul Stone Beach pentru a vă relaxa la sfârșitul zilei.",
         "en": "Drive easily to Marotta's expansive northern beaches to start your day with a refreshing walk by the sea. By midday, make your way to the iconic statues and popular central beach resorts where you can enjoy lunch. In the afternoon, head further south to explore the rockier coves and vibrant seaside establishments. Finally, park near the picturesque Stone Beach to relax as the coastal day winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine Autofahrt durch das verregnete Marotta bietet Komfort und Panoramablicke ohne nass zu werden. Morgens fahren wir entlang der Küste, während die Scheibenwischer den Rhythmus angeben. Mittags halten wir direkt bei den Statuen für kurze Besichtigungen. Der Nachmittag führt uns zu den verschiedenen Bagni, wo wir das Meer aus dem warmen Inneren beobachten. Der Abend endet gemütlich.",
+            "hu": "Az autós túra az esős Marottában kényelmet és panorámás kilátást kínál anélkül, hogy megáznánk. Reggel a parton autózunk, miközben az ablaktörlők adják az ütemet. Délben közvetlenül a szobrok mellett állunk meg egy rövid nézelődésre. A délután a különböző strandok felé vezet, ahol a meleg autóból figyeljük a tengert. Az este csendes, biztonságos vezetéssel zárul.",
+            "ro": "O excursie cu mașina prin Marotta ploioasă oferă confort și vederi panoramice fără a vă uda. Dimineața conducem de-a lungul coastei, cu ștergătoarele ritmând călătoria. La prânz oprim direct lângă statui pentru scurte vizite. După-amiaza ne duce spre diverse plaje, unde observăm marea din interiorul cald. Seara se încheie confortabil.",
+            "en": "A car tour through rainy Marotta offers comfort and panoramic views without getting wet. In the morning, we drive along the coast as wipers set the rhythm. At noon, we park right by the statues for brief viewings. Afternoon takes us to various beaches, where we watch the sea from the warm interior. The evening ends with a safe, quiet drive through the city."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Bagni",
+                "hu": "Bagni Strand",
+                "ro": "Plaja Bagni",
+                "en": "Bagni Beach"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie mit Blick auf das Meer, um die Regenstimmung im Trockenen zu genießen; die Sicht kann durch die Gischt etwas eingeschränkt sein.",
+                "hu": "Parkoljon a tenger felé fordulva, hogy szárazon élvezhesse az esős hangulatot; a kilátást a felverődő tengeri permet kissé korlátozhatja.",
+                "ro": "Parcați cu fața spre mare pentru a vă bucura de atmosfera ploioasă la adăpost; vizibilitatea poate fi limitată de spray-ul marin ridicat.",
+                "en": "Park facing the sea to enjoy the rainy atmosphere while staying dry; visibility might be slightly limited by the rising sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue von Padre Pio",
+                "hu": "Padre Pio szobor",
+                "ro": "Statuia lui Padre Pio",
+                "en": "Statue of Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Parkplätze in unmittelbarer Nähe, um nur kurz dem Regen ausgesetzt zu sein; die Statue wirkt im nassen Zustand sehr ausdrucksstark.",
+                "hu": "Használja a közvetlen közelben lévő parkolókat, hogy csak rövid ideig kelljen az esőben lennie; a szobor vizesen nagyon kifejező látványt nyújt.",
+                "ro": "Folosiți locurile de parcare din imediata apropiere pentru a minimiza expunerea la ploaie; statuia udă are un aspect foarte expresiv.",
+                "en": "Use the parking spots in the immediate vicinity to minimize time spent in the rain; the statue looks very expressive when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue des Heiligen Pio von Pietrelcina",
+                "hu": "Pietrelcinai Szent Pio szobra",
+                "ro": "Statuia Sfântului Pio din Pietrelcina",
+                "en": "Statue of St. Pio of Pietrelcina"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie beim Aussteigen auf große Pfützen in der Nähe des Bürgersteigs; das Denkmal ist auch gut durch die Seitenscheiben zu betrachten.",
+                "hu": "Kiszálláskor ügyeljen a járdaszegély melletti nagyobb tócsákra; az emlékmű az autó oldalsó ablakaiból is jól megfigyelhető a szakadó esőben.",
+                "ro": "Atenție la bălțile mari de lângă bordură când coborâți din mașină; monumentul poate fi observat bine și prin geamurile laterale pe ploaie.",
+                "en": "Watch out for large puddles near the curb when getting out; the monument can also be viewed well through the side windows in the pouring rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 7 Happy Days Beach",
+                "hu": "Bagni 7 Happy Days Strand",
+                "ro": "Bagni 7 Happy Days Beach",
+                "en": "Bagni 7 Happy Days Beach"
+              },
+              "tip_5lang": {
+                "de": "Idealer Stopp für ein Foto direkt aus dem Auto; die raue Adria bietet im Regen ein großartiges Motiv für Ihre Kamera.",
+                "hu": "Ideális megálló egy fotóhoz közvetlenül az autóból; a háborgó Adria az esőben nagyszerű témát kínál a fényképezőgép számára.",
+                "ro": "Oprire ideală pentru o fotografie direct din mașină; Adriatica agitată oferă un subiect excelent pentru aparatul foto pe timp de ploaie.",
+                "en": "Ideal stop for a photo directly from the car; the rough Adriatic provides a great subject for your camera in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "I Sassisotto",
+                "hu": "I Sassisotto",
+                "ro": "I Sassisotto",
+                "en": "I Sassisotto"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Parkflächen, da unbefestigter Boden bei Dauerregen aufweichen kann; genießen Sie die Aussicht auf die Küste.",
+                "hu": "Maradjon a kövezett parkolóhelyeken, mert a burkolatlan talaj a tartós esőtől felázhat; innen élvezze a partvonalra nyíló kilátást.",
+                "ro": "Rămâneți pe locurile de parcare pavate, deoarece solul neasfaltat se poate înmuia de la ploaie; bucurați-vă de vederea spre linia coastei.",
+                "en": "Stay on paved parking spots as unpaved ground can soften from persistent rain; enjoy the view of the coastline from here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 1 Stone Beach",
+                "hu": "Bagni 1 Stone Strand",
+                "ro": "Bagni 1 Stone Beach",
+                "en": "Bagni 1 Stone Beach"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor kurz laufen, um die Scheiben beschlagfrei zu halten, während Sie das Spiel der Wellen am Kieselstrand beobachten.",
+                "hu": "Járassa a motort rövid ideig, hogy az ablakok páramentesek maradjanak, miközben a kavicsos strandon megtörő hullámokat figyeli.",
+                "ro": "Lăsați motorul pornit scurt timp pentru a dezaburi geamurile în timp ce urmăriți jocul valurilor pe plaja cu pietriș.",
+                "en": "Run the engine briefly to keep the windows fog-free while you watch the play of the waves on the pebble beach."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour durch Marotta nutzt die kurzen Tage optimal aus. Morgens genießen wir die beheizte Kabine auf dem Weg zu den Küstenpunkten. Mittags besichtigen wir die Statuen, wenn die Wintersonne am höchsten steht. Der Nachmittag führt uns zu den einsamen Stränden im Süden für einen schnellen Blick aufs Meer. Da es um 17:00 Uhr dunkel wird, kehren wir früh zurück.",
+            "hu": "A téli autós kirándulás Marottában optimálisan kihasználja a rövid nappalokat. Reggel a fűtött utastér kényelméből élvezzük a parti látványt. Délben a szobrokat látogatjuk meg, amikor a téli nap a legmagasabban jár. A délután a déli, néptelen strandok felé vezet egy gyors tengeri pillantásra. Mivel ötkor sötétedik, korán és biztonságban térünk vissza.",
+            "ro": "O plimbare de iarnă cu mașina prin Marotta profită la maximum de zilele scurte. Dimineața ne bucurăm de interiorul încălzit în drum spre punctele de coastă. La prânz vizităm statuile când soarele de iarnă este cel mai sus. După-amiaza ne conduce spre plajele pustii din sud pentru o privire rapidă spre mare. Deoarece se întunecă la 17:00, ne întoarcem devreme.",
+            "en": "A winter drive through Marotta makes the best of the short days. In the morning, we enjoy the heated cabin on our way to the coastal spots. At noon, we visit the statues when the winter sun is at its highest. Afternoon leads us to the deserted southern beaches for a quick look at the sea. Since it gets dark at 5 PM, we return early and safely."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Strand Bagni",
+                "hu": "Bagni Strand",
+                "ro": "Plaja Bagni",
+                "en": "Bagni Beach"
+              },
+              "tip_5lang": {
+                "de": "Dank des Autos können Sie die Kälte draußen lassen; genießen Sie das klare Winterpanorama des Adriatischen Meeres direkt vom Fahrersitz.",
+                "hu": "Az autónak köszönhetően kint hagyhatja a hideget; élvezze az Adriai-tenger tiszta téli panorámáját közvetlenül a vezetőülésből.",
+                "ro": "Datorită mașinii puteți lăsa frigul afară; bucurați-vă de panorama clară de iarnă a Mării Adriatice direct de pe scaunul șoferului.",
+                "en": "Thanks to the car, you can leave the cold outside; enjoy the clear winter panorama of the Adriatic Sea directly from the driver's seat."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue von Padre Pio",
+                "hu": "Padre Pio szobor",
+                "ro": "Statuia lui Padre Pio",
+                "en": "Statue of Padre Pio"
+              },
+              "tip_5lang": {
+                "de": "Die Parkplatzsuche ist im Winter völlig unproblematisch; nutzen Sie die Zeit für einen kurzen, erfrischenden Gang zur Statue in der klaren Luft.",
+                "hu": "A parkolóhely keresése télen teljesen problémamentes; használja ki az időt egy rövid, frissítő sétára a szoborhoz a tiszta téli levegőn.",
+                "ro": "Găsirea unui loc de parcare este foarte ușoară iarna; profitați de timp pentru o scurtă plimbare revigorantă până la statuie în aerul curat.",
+                "en": "Finding a parking spot is completely hassle-free in winter; use the time for a short, refreshing walk to the statue in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Statue des Heiligen Pio von Pietrelcina",
+                "hu": "Pietrelcinai Szent Pio szobra",
+                "ro": "Statuia Sfântului Pio din Pietrelcina",
+                "en": "Statue of St. Pio of Pietrelcina"
+              },
+              "tip_5lang": {
+                "de": "Das Winterlicht fällt ideal auf das Denkmal; planen Sie diesen Stopp für die Mittagsstunden ein, um die maximale Helligkeit zu nutzen.",
+                "hu": "A téli fények ideálisan esnek az emlékműre; tervezze ezt a megállót a déli órákra, hogy kihasználja a maximális világosságot.",
+                "ro": "Lumina de iarnă cade ideal pe monument; planificați această oprire pentru orele prânzului pentru a profita de luminozitatea maximă.",
+                "en": "The winter light falls ideally on the monument; plan this stop for the midday hours to take advantage of the maximum brightness."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 7 Happy Days Beach",
+                "hu": "Bagni 7 Happy Days Strand",
+                "ro": "Bagni 7 Happy Days Beach",
+                "en": "Bagni 7 Happy Days Beach"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz direkt am Strand ist im Winter fast leer; ideal für einen Stopp, um den Sonnenuntergang gegen 16:45 Uhr im Auto zu erleben.",
+                "hu": "A közvetlenül a strandon lévő parkoló télen szinte üres; ideális megálló, hogy az autóban ülve nézze végül a naplementét délután háromnegyed ötkor.",
+                "ro": "Parcarea direct de pe plajă este aproape goală iarna; ideal pentru o oprire pentru a vedea apusul în mașină în jurul orei 16:45.",
+                "en": "The parking lot directly on the beach is almost empty in winter; ideal for a stop to watch the sunset from your car around 4:45 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "I Sassisotto",
+                "hu": "I Sassisotto",
+                "ro": "I Sassisotto",
+                "en": "I Sassisotto"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Blick auf die leere Küste; eine Thermoskanne mit Tee im Auto macht diesen winterlichen Aussichtspunkt perfekt.",
+                "hu": "Élvezze a tágas kilátást az üres tengerpartra; egy termosz meleg tea az autóban tökéletessé teszi ezt a téli kilátópontot.",
+                "ro": "Bucurați-vă de vederea largă spre coasta pustie; un termos cu ceai cald în mașină face acest punct de observație de iarnă perfect.",
+                "en": "Enjoy the wide view of the empty coastline; a thermos of warm tea in the car makes this winter viewpoint perfect."
+              }
+            },
+            {
+              "name": {
+                "de": "Bagni 1 Stone Beach",
+                "hu": "Bagni 1 Stone Strand",
+                "ro": "Bagni 1 Stone Beach",
+                "en": "Bagni 1 Stone Beach"
+              },
+              "tip_5lang": {
+                "de": "Da es ab 17:00 Uhr schnell dunkel wird, ist dies der letzte helle Punkt der Tour; prüfen Sie Ihre Scheinwerfer für die sichere Rückfahrt.",
+                "hu": "Mivel ötkor gyorsan besötétedik, ez a túra utolsó világos pontja; ellenőrizze a fényszórókat a biztonságos hazavezetéshez.",
+                "ro": "Deoarece se întunecă repede la ora 17:00, acesta este ultimul punct luminos al turului; verificați farurile pentru drumul sigur de întoarcere.",
+                "en": "Since it gets dark quickly at 5 PM, this is the last bright spot of the tour; check your headlights for a safe drive back."
+              }
+            }
+          ]
+        }
       }
     }
   }

@@ -137,6 +137,168 @@
         "hu": "A nap Giovinazzóban a történelmi központban kezdődik, ahol olyan építészeti gyöngyszemek várják, mint a San Domenico templom. Egy rövid séta a kanyargós utcákon elvezeti a fenséges Arco Traianohoz.\n\nDélben a part felé közeledik, és felfedezi a Paludi dei Dinosauri egyedülálló sötét sziklaalakzatait. A friss tengeri szellő itt különösen kellemes és hűsítő a meleg napokon.\n\nA délután a közelmúlt történelmének van szentelve. Kényelmesen sétál a tengerparti sétányon, és jelentős műemlékeket ér el, amelyek a tengeren és a szárazföldön elesett hősökre emlékeztetnek.\n\nKéső délután a háborús áldozatok emlékművénél elmélyülhet a gondolataiban. A lemenő nap lágy fénye felejthetetlen arany fénybe öltözteti ezt a gyönyörű parti várost.",
         "ro": "Ziua în Giovinazzo începe în centrul istoric, unde vă așteaptă bijuterii arhitecturale precum Biserica San Domenico. O scurtă plimbare pe străzile șerpuite vă duce la maiestuosul Arco Traiano.\n\nLa prânz vă apropiați de coastă și descoperiți formațiunile unice de stâncă ale Paludi dei Dinosauri. Briza proaspătă a mării este deosebit de plăcută și răcoroasă aici.\n\nDupă-amiaza este dedicată istoriei recente. Vă plimbați relaxat de-a lungul promenadei de coastă și ajungeți la monumente importante care comemorează pe cei căzuți pe mare și pe uscat.\n\nSpre seară, lăsați impresiile să vă cuprindă la monumentul eroilor de război. Lumina blândă a soarelui la apus învăluie orașul de coastă într-o strălucire aurie, de neuitat.",
         "en": "Your day in Giovinazzo begins in the historic center, where architectural gems like the San Domenico Church await. A short walk through winding streets brings you to the majestic Arco Traiano.\n\nBy midday, you approach the beautiful coastline to discover the unique dark rock formations of the Paludi dei Dinosauri. The fresh sea breeze here provides a wonderful and refreshing atmosphere.\n\nThe afternoon is dedicated to reflecting on recent history. A relaxing stroll along the coastal promenade takes you past significant monuments that commemorate the brave heroes lost at sea and on land.\n\nIn the late afternoon, you can gather your thoughts at the poignant war memorial. The soft, fading light of the setting sun bathes this charming coastal town in a truly unforgettable golden glow."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche San Domenico Schutz vor dem Regen. Mittags führen schmale Gassen zum Trajansbogen, wo die Böden rutschig sein können. Nachmittags peitscht der Wind am Meer, daher ist wetterfeste Kleidung an den Denkmälern Pflicht. Abends spiegeln sich die Lichter der Stadt wunderschön in den nassen Pflastersteinen des Hafens.",
+            "hu": "Reggel a San Domenico templom nyújt menedéket a zápor elől. Délben az óváros kövein óvatosan lépkedjünk az ívek felé, mert a mészkő csúszóssá válik. Délután a tengerparti emlékműveknél a szél felerősödhet, vízálló kabát nélkülözhetetlen. Estére a vizes macskaköveken megcsillanó fények különleges hangulatot adnak a városnak.",
+            "ro": "Dimineața, Biserica San Domenico oferă adăpost împotriva ploii. La prânz, străzile înguste duc spre Arcul lui Traian, unde pavajul poate fi alunecos. După-amiaza, vântul suflă tare pe coastă, deci hainele impermeabile sunt obligatorii la monumente. Seara, luminile orașului se oglindesc superb în pietrele ude din zona portului.",
+            "en": "In the morning, the Church of San Domenico offers a dry refuge from the showers. At noon, navigate the narrow streets carefully as the limestone becomes slippery near the arch. In the afternoon, the wind picks up by the sea monuments, making waterproof gear essential. By evening, the city lights reflect beautifully on the wet cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche San Domenico",
+                "hu": "San Domenico templom",
+                "ro": "Biserica San Domenico",
+                "en": "Church of San Domenico"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den prachtvollen Innenraum als trockenen Rückzugsort vor dem Regen; achten Sie beim Eintreten besonders auf den glatten Marmorboden.",
+                "hu": "Használja a pompás belső teret száraz menedékként az eső elől; belépéskor fokozottan ügyeljen a bejáratnál lévő csúszós márványpadlóra.",
+                "ro": "Folosiți interiorul splendid ca refugiu uscat împotriva ploii; la intrare, aveți mare grijă la podeaua de marmură care devine foarte alunecoasă.",
+                "en": "Use the splendid interior as a dry retreat from the rain; take extra care when entering as the marble floor near the door gets very slippery."
+              }
+            },
+            {
+              "name": {
+                "de": "Trajansbogen",
+                "hu": "Traianus-diadalív",
+                "ro": "Arcul lui Traian",
+                "en": "Trajan's Arch"
+              },
+              "tip_4lang": {
+                "de": "Der Bogen bietet nur kurzen Schutz, bewundern Sie die Details der Steinmetzkunst und tragen Sie Schuhe mit gutem Profil auf dem nassen Pflaster.",
+                "hu": "Az ív csak rövid ideig véd az esőtől, de csodálja meg a kőfaragványok részleteit; viseljen tapadós talpú cipőt a vizes és fényes köveken.",
+                "ro": "Arcul oferă doar un scurt adăpost, așa că admirați detaliile sculpturii și purtați încălțăminte cu aderență bună pe pavajul ud și lucios.",
+                "en": "The arch provides only brief shelter, so admire the stonework details quickly; wear shoes with good grip on the wet and polished stones."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwarze Kieselsteine Paludi dei Dinosauri",
+                "hu": "Paludi dei Dinosauri fekete kavicsok",
+                "ro": "Pietricele negre Paludi dei Dinosauri",
+                "en": "Black Pebbles of Paludi dei Dinosauri"
+              },
+              "tip_4lang": {
+                "de": "Die nassen Kieselsteine glänzen im Regen besonders intensiv; bleiben Sie auf den befestigten Wegen, da die Felsen am Ufer extrem rutschig sind.",
+                "hu": "A vizes kavicsok még intenzívebben csillognak az esőben; maradjon a kijelölt ösvényeken, mert a parti sziklák ilyenkor rendkívül csúszósak.",
+                "ro": "Pietricele ude strălucesc și mai intens în ploaie; rămâneți pe potecile amenajate, deoarece stâncile de pe mal sunt extrem de alunecoase acum.",
+                "en": "The wet pebbles glisten even more intensely in the rain; stay on the paved paths as the coastal rocks are extremely slippery when doused."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Gefallenen auf See",
+                "hu": "Tengeri Áldozatok Emlékműve",
+                "ro": "Monumentul Eroilor Mării",
+                "en": "Monument to the Fallen at Sea"
+              },
+              "tip_4lang": {
+                "de": "Beobachten Sie das aufgewühlte Meer direkt vom Denkmal aus, aber halten Sie Ihren Regenschirm wegen der starken Windböen besonders gut fest.",
+                "hu": "Figyelje meg a felkavart tengert közvetlenül az emlékmű mellől, de az erős széllökések miatt tartsa nagyon szorosan az esernyőjét a parton.",
+                "ro": "Observați marea agitată direct de lângă monument, dar țineți umbrela foarte bine din cauza rafalelor puternice de vânt de pe faleză.",
+                "en": "Observe the churning sea directly from the monument, but hold your umbrella tightly due to the strong wind gusts along the waterfront."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Háborús Emlékmű",
+                "ro": "Monumentul Eroilor de Război",
+                "en": "War Memorial"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie Ihren Spaziergang zügig und suchen Sie eines der nahen Cafés auf, um sich nach der Besichtigung im Trockenen aufzuwärmen.",
+                "hu": "Fejezze be gyorsan a sétát, és keressen egy közeli kávézót, ahol a városnézés után száraz helyen, egy forró ital mellett melegedhet fel.",
+                "ro": "Încheiați rapid plimbarea și căutați o cafenea din apropiere pentru a vă încălzi la adăpost după vizitarea monumentului în ploaie.",
+                "en": "Finish your walk quickly and head to a nearby cafe to warm up indoors with a hot drink after sightseeing in the damp weather."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen ist frisch und klar, ideal für einen Besuch in der Kirche. Mittags wärmt die tiefstehende Sonne die historischen Mauern des Trajansbogens. Nachmittags weht eine kühle Brise vom Adriatischen Meer, die warme Kleidung erfordert. Da die Sonne gegen 17:00 Uhr untergeht, hüllt das frühe Abendlicht die Stadt in goldene Farben.",
+            "hu": "A téli reggel friss és tiszta, ideális a templom csendjéhez. Délben a laposan érkező napfény szépen megvilágítja a Traianus-diadalív köveit. Délután a tenger felől hűvös szél fúj, így a réteges öltözködés elengedhetetlen. Mivel a nap 17:00 körül lebukik, a korai alkonyat aranyba öltözteti az ódon várost.",
+            "ro": "Dimineața de iarnă este răcoroasă și senină, perfectă pentru liniștea bisericii. La prânz, soarele blând luminează frumos zidurile Arcului lui Traian. După-amiaza, briza rece a Adriaticii necesită haine groase. Deoarece soarele apune în jur de ora 17:00, amurgul timpuriu îmbracă orașul în nuanțe aurii.",
+            "en": "The winter morning is crisp and clear, ideal for the quiet of the church. At noon, the low sun beautifully illuminates the stones of Trajan's Arch. In the afternoon, the cool Adriatic breeze requires warm layers. Since the sun sets around 17:00, the early twilight bathes the ancient town in golden hues."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche San Domenico",
+                "hu": "San Domenico templom",
+                "ro": "Biserica San Domenico",
+                "en": "Church of San Domenico"
+              },
+              "tip_4lang": {
+                "de": "Die Kirche bietet eine friedliche Atmosphäre abseits der Winterkälte; genießen Sie die Stille, aber kleiden Sie sich für die kühlen Innenräume warm.",
+                "hu": "A templom békés menedéket nyújt a téli hideg elől; élvezze a csendet, de öltözzön melegen, mert a belső tér ilyenkor is hűvös maradhat.",
+                "ro": "Biserica oferă un refugiu liniștit departe de frigul iernii; bucurați-vă de liniște, dar îmbrăcați-vă bine, deoarece interiorul este răcoros.",
+                "en": "The church provides a peaceful escape from the winter chill; enjoy the silence, but dress warmly as the interior can remain quite cool."
+              }
+            },
+            {
+              "name": {
+                "de": "Trajansbogen",
+                "hu": "Traianus-diadalív",
+                "ro": "Arcul lui Traian",
+                "en": "Trajan's Arch"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie das klare Mittagslicht für Fotos vom Bogen; die tiefstehende Wintersonne wirft dramatische Schatten auf die antiken Inschriften.",
+                "hu": "Használja ki a tiszta déli fényt a diadalív fotózásához; a laposan járó téli nap drámai árnyékokat vet az antik feliratokra és kövekre.",
+                "ro": "Profitați de lumina clară de la prânz pentru fotografii cu arcul; soarele jos de iarnă creează umbre dramatice pe inscripțiile antice.",
+                "en": "Take advantage of the clear midday light for photos of the arch; the low winter sun casts dramatic shadows on the ancient inscriptions."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwarze Kieselsteine Paludi dei Dinosauri",
+                "hu": "Paludi dei Dinosauri fekete kavicsok",
+                "ro": "Pietricele negre Paludi dei Dinosauri",
+                "en": "Black Pebbles of Paludi dei Dinosauri"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Einsamkeit am winterlichen Ufer; der Kontrast zwischen den dunklen Steinen und dem schäumenden Meer ist bei kühler Luft atemberaubend.",
+                "hu": "Élvezze a téli part magányát; a sötét kövek és a habzó tenger közötti kontraszt a hűvös, tiszta levegőben lenyűgöző látványt nyújt.",
+                "ro": "Bucurați-vă de singurătatea țărmului pe timp de iarnă; contrastul dintre pietrele negre și marea înspumată este uimitor în aerul rece.",
+                "en": "Enjoy the solitude of the winter shore; the contrast between the dark pebbles and the foaming sea is breathtaking in the crisp air."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Gefallenen auf See",
+                "hu": "Tengeri Áldozatok Emlékműve",
+                "ro": "Monumentul Eroilor Mării",
+                "en": "Monument to the Fallen at Sea"
+              },
+              "tip_4lang": {
+                "de": "Der Wind am Denkmal ist im Winter schneidend, bringen Sie eine winddichte Jacke mit, um die weite Aussicht auf den Horizont zu genießen.",
+                "hu": "Az emlékműnél a szél télen metsző lehet, hozzon szélálló dzsekit, hogy zavartalanul élvezhesse a végtelen kilátást a horizontra.",
+                "ro": "Vântul de lângă monument poate fi tăios iarna; aduceți o jachetă rezistentă la vânt pentru a admira priveliștea spre orizont.",
+                "en": "The wind by the monument is biting in winter, so bring a windproof jacket to comfortably enjoy the sweeping views of the horizon."
+              }
+            },
+            {
+              "name": {
+                "de": "Kriegerdenkmal",
+                "hu": "Háborús Emlékmű",
+                "ro": "Monumentul Eroilor de Război",
+                "en": "War Memorial"
+              },
+              "tip_4lang": {
+                "de": "Da es bereits früh dunkel wird, sollten Sie diesen Stopp vor 16:30 Uhr planen, um das Denkmal noch im letzten Tageslicht zu sehen.",
+                "hu": "Mivel korán sötétedik, tervezze ezt a megállót 16:30 előttre, hogy az utolsó nappali fényben láthassa az emlékmű részleteit.",
+                "ro": "Deoarece se întunecă devreme, planificați această oprire înainte de 16:30 pentru a vedea monumentul în ultima lumină a zilei.",
+                "en": "As it gets dark early, plan this stop before 16:30 to see the memorial's details in the last remaining daylight of the afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpártúráját az autentikus Circolo ARCI 37-ben, és szívja magába a helyi kultúrát. Ezután tekerjen nyugodtan Giovinazzo történelmi szíve felé a San Domenico templomhoz.\n\nEbéd előtt fedezze fel az ősi Arco Traianót. Ezután az útvonal a csodálatos Adriai-tenger partján vezet a Monaci körüli csendes sziklás szakaszokhoz, amely tökéletes egy rövid pihenőre.\n\nDélután a családbarát Lido Azzurro csábít. Itt rövid időre leteheti a kerékpárokat, hogy lehűljön a frissítő tengervízben, és élvezze a csodálatos mediterrán napsütést.\n\nA nap az elegáns Lido Lafayette-ben ér véget kényelmesen. Kerékpárral könnyedén elérheti ezt a gyönyörű strandklubot, hogy egy koktéllal és a tenger zúgásával ünnepelje a naplementét.",
         "ro": "Începeți turul cu bicicleta la autenticul Circolo ARCI 37 pentru a absorbi cultura locală. Apoi pedalați relaxat spre inima istorică a orașului Giovinazzo către Biserica San Domenico.\n\nÎnainte de prânz explorați anticul Arco Traiano. Traseul vă duce apoi de-a lungul coastei minunate a Adriaticii până la porțiunile stâncoase liniștite din jurul Monaci, ideale pentru o pauză scurtă.\n\nDupă-amiaza vă atrage Lido Azzurro, potrivit pentru familii. Aici vă puteți lăsa bicicletele pentru un scurt timp pentru a vă răcori în apa mării și pentru a vă bucura de soarele mediteranean.\n\nZiua se încheie confortabil la elegantul Lido Lafayette. Cu bicicleta ajungeți cu ușurință la acest club de plajă frumos pentru a sărbători apusul cu un cocktail și sunetul valurilor.",
         "en": "Start your cycling tour at the authentic Circolo ARCI 37 to soak up some vibrant local culture. From there, enjoy a leisurely pedal towards the historic heart of Giovinazzo and the San Domenico Church.\n\nJust before lunch, explore the ancient Arco Traiano. The scenic route then guides you along the stunning Adriatic coast to the tranquil rocky stretches around Monaci, perfect for a short break.\n\nThe afternoon brings you to the welcoming, family-friendly Lido Azzurro. Park your bikes for a while to cool off in the refreshing seawater and bask comfortably in the warm Mediterranean sun.\n\nYour active day concludes pleasantly at the elegant Lido Lafayette. A quick bike ride brings you to this beautiful beach club, where you can celebrate the spectacular sunset with a cool drink."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Am Morgen startet die Tour im ARCI 37, wo man trocken verweilen kann. Mittags erfordert die Fahrt zur Kirche auf nassem Asphalt hohe Konzentration. Nachmittags ist die Küstenstraße zum Strand windig und nass, was den Trip sportlich macht. Abends empfiehlt es sich, die Tour frühzeitig zu beenden, bevor die Sicht im Regen schlechter wird.",
+            "hu": "Reggel a túra az ARCI 37 központban indul, ahol fedett helyen készülhetünk. Délben a templom felé vezető úton, a vizes aszfalton fokozott figyelmet igényel a tekerés. Délután a tengerparti út szeles és vizes, ami sportossá teszi az élményt. Estére javasolt a túra korai befejezése, mielőtt a látótávolság az esőben lecsökken.",
+            "ro": "Dimineața, turul începe la centrul ARCI 37, unde puteți sta la adăpost. La prânz, drumul spre biserică pe asfalt ud necesită o concentrare sporită la pedalat. După-amiaza, drumul de coastă este vântos și umed, oferind o experiență sportivă. Seara, se recomandă încheierea timpurie a turului înainte ca vizibilitatea să scadă din cauza ploii.",
+            "en": "In the morning, start at ARCI 37 where you can stay dry while planning. At noon, cycling towards the church on wet asphalt requires extra concentration. In the afternoon, the coastal road is windy and damp, making for a challenging ride. By evening, it is wise to end the tour early before visibility drops in the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturzentrum ARCI 37",
+                "hu": "ARCI 37 Kulturális Központ",
+                "ro": "Centrul Cultural ARCI 37",
+                "en": "Cultural Center ARCI 37"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie das Zentrum als regensicheren Startpunkt; prüfen Sie hier nochmals Ihre Bremsen, bevor Sie auf die nassen Straßen aufbrechen.",
+                "hu": "Használja a központot esőbiztos kiindulópontként; itt még egyszer ellenőrizze a fékeket, mielőtt kimerészkedne a vizes utcákra.",
+                "ro": "Folosiți centrul ca punct de plecare ferit de ploaie; verificați încă o dată frânele aici înainte de a ieși pe străzile umede.",
+                "en": "Use the center as a rain-safe starting point; check your brakes one last time here before venturing out onto the wet streets."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Domenico",
+                "hu": "San Domenico templom",
+                "ro": "Biserica San Domenico",
+                "en": "Church of San Domenico"
+              },
+              "tip_4lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab und nutzen Sie den Besuch, um im trockenen Kirchenschiff kurz durchzuatmen.",
+                "hu": "Parkolja le a kerékpárt egy védett helyen, és használja ki a látogatást, hogy a száraz templomhajóban egy kicsit kifújja magát.",
+                "ro": "Parcați bicicleta într-un loc protejat și profitați de vizită pentru a vă trage sufletul în naosul uscat al bisericii.",
+                "en": "Park your bike in a sheltered spot and take advantage of the visit to catch your breath inside the dry nave of the church."
+              }
+            },
+            {
+              "name": {
+                "de": "Trajansbogen",
+                "hu": "Traianus-diadalív",
+                "ro": "Arcul lui Traian",
+                "en": "Trajan's Arch"
+              },
+              "tip_4lang": {
+                "de": "Fahren Sie im Bereich des Bogens besonders langsam, da das historische Steinpflaster bei Nässe für Fahrradreifen extrem rutschig ist.",
+                "hu": "A diadalív környékén tekerjen nagyon lassan, mivel a történelmi kőburkolat esőben rendkívül csúszós a kerékpárgumik számára.",
+                "ro": "Pedalați foarte încet în zona arcului, deoarece pavajul istoric de piatră este extrem de alunecos pentru pneuri pe timp de ploaie.",
+                "en": "Cycle very slowly around the arch area, as the historic stone pavement is extremely slippery for bike tires when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Monaci",
+                "hu": "Monaci part",
+                "ro": "Plaja Monaci",
+                "en": "Monaci Beach"
+              },
+              "tip_4lang": {
+                "de": "Die Küstenstraße ist dem Wind ausgesetzt; tragen Sie eine eng anliegende Regenjacke, um den Windwiderstand beim Radeln zu minimieren.",
+                "hu": "A parti út ki van téve a szélnek; viseljen szűkebb esőkabátot, hogy minimalizálja a légellenállást a szeles tekerés közben.",
+                "ro": "Drumul de coastă este expus vântului; purtați o pelerină de ploaie strânsă pe corp pentru a minimiza rezistența la înaintare.",
+                "en": "The coastal road is exposed to the wind; wear a snug rain jacket to minimize wind resistance while cycling in the breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Azzurro",
+                "hu": "Lido Azzurro",
+                "ro": "Lido Azzurro",
+                "en": "Lido Azzurro"
+              },
+              "tip_4lang": {
+                "de": "Machen Sie nur einen kurzen Halt, um das graue Meer zu bewundern, und achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
+                "hu": "Csak rövid megállót tartson a szürke tenger megcsodálására, és ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek az úton.",
+                "ro": "Opriți doar scurt pentru a admira marea gri și aveți grijă la bălți, deoarece pot ascunde gropi adânci pe carosabil.",
+                "en": "Make only a brief stop to admire the gray sea, and watch out for puddles that might hide deep potholes on the road."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Lafayette",
+                "hu": "Lido Lafayette",
+                "ro": "Lido Lafayette",
+                "en": "Lido Lafayette"
+              },
+              "tip_4lang": {
+                "de": "Suchen Sie nach der Tour sofort ein warmes Plätzchen auf, um die nasse Kleidung zu wechseln und sich von der Fahrt zu erholen.",
+                "hu": "A túra után keressen azonnal egy meleg helyet, ahol átöltözhet és kipihenheti a vizes, szeles tekerés fáradalmait.",
+                "ro": "După tur, căutați imediat un loc cald unde să vă schimbați hainele ude și să vă recuperați după pedalatul prin ploaie.",
+                "en": "After the tour, immediately find a warm place to change out of wet clothes and recover from the damp, windy ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Wintermorgen im ARCI 37 ist der perfekte Start. Mittags führt die Radtour zur Kirche, wobei die kalte Luft erfrischend wirkt. Nachmittags ist die Fahrt entlang der Strände bei tiefstehender Sonne malerisch, erfordert aber Handschuhe gegen den Fahrtwind. Da es um 17:00 Uhr dunkel wird, sollte das Ende der Tour im Stadtzentrum liegen.",
+            "hu": "A hűvös téli reggel az ARCI 37 központban tökéletes kezdés. Délben a templomhoz vezető tekerés közben a hideg levegő frissítően hat. Délután a part menti út a laposan járó napfényben festői, de a menetszél miatt kesztyű viselése ajánlott. Mivel 17:00-kor sötétedik, a túra végét érdemes a városközpontba időzíteni.",
+            "ro": "O dimineață răcoroasă de iarnă la ARCI 37 este începutul perfect. La prânz, pedalatul spre biserică în aerul rece este revigorant. După-amiaza, drumul pe lângă plaje sub soarele jos este pitoresc, dar necesită mănuși. Deoarece se întunecă la ora 17:00, finalul turului ar trebui să fie în centrul orașului.",
+            "en": "A cool winter morning at ARCI 37 is the perfect start. At noon, the ride to the church is refreshing in the crisp air. In the afternoon, the coastal route under the low sun is picturesque, but gloves are recommended against the wind chill. Since it gets dark at 17:00, aim to finish the tour back in the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturzentrum ARCI 37",
+                "hu": "ARCI 37 Kulturális Központ",
+                "ro": "Centrul Cultural ARCI 37",
+                "en": "Cultural Center ARCI 37"
+              },
+              "tip_4lang": {
+                "de": "Wärmen Sie sich im Zentrum auf, bevor Sie losfahren, und stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Abend funktioniert.",
+                "hu": "Melegedjen fel a központban indulás előtt, és győződjön meg róla, hogy a kerékpáros világítás tökéletesen működik a korai sötétedés miatt.",
+                "ro": "Încălziți-vă în centru înainte de plecare și asigurați-vă că luminile bicicletei funcționează perfect pentru înserarea timpurie.",
+                "en": "Warm up inside the center before setting off, and ensure your bike lights are fully functional for the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche San Domenico",
+                "hu": "San Domenico templom",
+                "ro": "Biserica San Domenico",
+                "en": "Church of San Domenico"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie den Halt, um die Gliedmaßen aufzuwärmen; das Kircheninnere ist windgeschützt und bietet eine friedliche Winterpause.",
+                "hu": "Használja ki a megállót a végtagjai átmozgatására; a templom belseje szélvédett, és békés pihenőt nyújt a téli túra közben.",
+                "ro": "Profitați de oprire pentru a vă încălzi; interiorul bisericii este ferit de vânt și oferă o pauză liniștită în timpul turului.",
+                "en": "Use this stop to move your limbs and warm up; the church interior is shielded from the wind and offers a peaceful winter break."
+              }
+            },
+            {
+              "name": {
+                "de": "Trajansbogen",
+                "hu": "Traianus-diadalív",
+                "ro": "Arcul lui Traian",
+                "en": "Trajan's Arch"
+              },
+              "tip_4lang": {
+                "de": "Das antike Gestein speichert im Winter kaum Wärme, daher sollten Sie für den Fotostopp am Bogen nicht zu lange stehen bleiben.",
+                "hu": "Az antik kövek télen nem tartják a meleget, ezért a fotómegállónál ne időzzön túl sokat egy helyben, hogy ne fázzon meg a szélben.",
+                "ro": "Pietrele antice nu rețin căldura iarna, așa că nu staționați prea mult la arcul lui Traian pentru a nu vă răci în vântul tăios.",
+                "en": "The ancient stones hold no warmth in winter, so keep your photo stop brief to avoid getting chilled by the persistent sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Strand Monaci",
+                "hu": "Monaci part",
+                "ro": "Plaja Monaci",
+                "en": "Monaci Beach"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne glitzert herrlich auf dem Wasser; tragen Sie einen Schal, um Hals und Gesicht vor dem kalten Meereswind zu schützen.",
+                "hu": "A téli napfény csodásan csillog a vízen; viseljen sálat, hogy védje az arcát és a nyakát a hideg tengeri menetszéltől.",
+                "ro": "Soarele de iarnă strălucește superb pe apă; purtați un fular pentru a vă proteja fața și gâtul de briza rece a mării.",
+                "en": "The winter sun glitters beautifully on the water; wear a scarf to protect your face and neck from the cold coastal wind chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Azzurro",
+                "hu": "Lido Azzurro",
+                "ro": "Lido Azzurro",
+                "en": "Lido Azzurro"
+              },
+              "tip_4lang": {
+                "de": "Achten Sie auf die tiefstehende Sonne, die beim Radfahren blenden kann; eine Sonnenbrille ist auch im Winter auf der Küstenstraße hilfreich.",
+                "hu": "Ügyeljen az alacsonyan járó napra, amely tekerés közben elvakíthat; a napszemüveg télen is hasznos a parti úton.",
+                "ro": "Atenție la soarele jos care vă poate orbi în timp ce pedalați; ochelarii de soare sunt utili pe drumul de coastă chiar și iarna.",
+                "en": "Watch out for the low sun which can blind you while cycling; sunglasses are very helpful on the coastal road even in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Lafayette",
+                "hu": "Lido Lafayette",
+                "ro": "Lido Lafayette",
+                "en": "Lido Lafayette"
+              },
+              "tip_4lang": {
+                "de": "Kommen Sie vor Einbruch der Dunkelheit an; die winterliche Abenddämmerung am Meer ist kurz, aber farbenfroh.",
+                "hu": "Érkezzen meg még a sötétedés előtt; a téli szürkület a tengerparton rövid, de rendkívül látványos és színes.",
+                "ro": "Ajungeți înainte de lăsarea întunericului; amurgul de iarnă pe malul mării este scurt, dar extrem de spectaculos și colorat.",
+                "en": "Arrive before total darkness sets in; the winter twilight at the beach is brief but incredibly scenic and colorful."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autós felfedezőútja a Paludi dei Dinosauri lenyűgöző sziklaképződményeinél kezdődik. Az érintetlen természet drámai kontrasztot alkot a közeli civilizációval és a városi élettel.\n\nRöviddel ezután eléri a tengeri áldozatok lenyűgöző emlékművét. Innen nyugodtan autózhat tovább a Lido Trincea felé, ahol először fürödhet meg a kristálytiszta, frissítő vízben.\n\nA délután az élénk strandkultúráról szól. Látogasson el az energikus L'Arena strandklubba, majd hagyja, hogy magával ragadja a Mikki Beach divatos, fiatalos és nagyon laza hangulata.\n\nMegkoronázásként parkoljon le a Le Mar beach bistrot közelében. Élvezze a kiváló vacsorát közvetlenül a tengerparton, miközben a lemenő nap színesre festi az eget az Adriai-tenger felett.",
         "ro": "Turul dumneavoastră de explorare cu mașina începe la fascinantele formațiuni stâncoase Paludi dei Dinosauri. Natura neatinsă oferă un contrast dramatic cu civilizația din apropiere.\n\nLa scurt timp după aceea ajungeți la impresionantul monument al eroilor căzuți pe mare. De aici conduceți relaxat spre Lido Trincea, unde puteți face o primă baie în apa cristalină.\n\nDupă-amiaza este dedicată în întregime culturii vibrante de plajă. Vizitați energicul L'Arena și apoi lăsați-vă purtați de atmosfera modernă și tânără de la uimitoarea Mikki Beach.\n\nCa o încununare, parcați lângă Le Mar beach bistrot. Bucurați-vă de o cină excelentă direct pe plajă, în timp ce soarele la apus colorează cerul deasupra Mării Adriatice în nuanțe spectaculoase.",
         "en": "Your driving tour begins at the fascinating dark rock formations of the Paludi dei Dinosauri. The rugged, untouched nature here offers a dramatic contrast to the nearby coastal civilization.\n\nShortly after, you arrive at the impressive monument to those lost at sea. From there, take a short drive to Lido Trincea, where you can enjoy your first refreshing dip in the crystal-clear waters.\n\nThe afternoon is all about vibrant local beach culture. You will visit the highly energetic L'Arena before being swept away by the trendy, youthful, and lively atmosphere at the popular Mikki Beach.\n\nFor the grand finale, park your car near the Le Mar beach bistrot. Enjoy an outstanding seafood dinner right on the sandy beach while the setting sun paints the sky over the glorious Adriatic Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt gemütlich im Auto auf dem Weg zu den Paludi dei Dinosauri. Mittags bietet die Fahrt entlang der Küste zum Denkmal Schutz vor den Güssen. Nachmittags lassen sich die Strände bequem vom Wagen aus bewundern, ohne nass zu werden. Abends sorgt die beheizte Fahrt durch die beleuchteten Straßen von Giovinazzo für einen entspannten Abschluss.",
+            "hu": "A borús reggel kényelmesen indul az autóban a Paludi dei Dinosauri felé. Délben a part menti út az emlékműhöz védelmet nyújt a záporok ellen. Délután a strandok látványát a kocsiból is élvezhetjük anélkül, hogy bőrig áznánk. Estére a fűtött autóban ülve, a kivilágított utcákon keresztül fejezhetjük be a városnézést.",
+            "ro": "O dimineață ploioasă începe confortabil în mașină spre Paludi dei Dinosauri. La prânz, drumul pe coastă spre monument oferă protecție împotriva ploii. După-amiaza, puteți admira plajele direct din mașină fără a vă uda. Seara, plimbarea prin orașul luminat, în confortul mașinii încălzite, oferă un final relaxant.",
+            "en": "A rainy morning starts comfortably in the car heading towards Paludi dei Dinosauri. At noon, the coastal drive to the monument keeps you dry during heavy showers. In the afternoon, you can admire the beach views from the car without getting soaked. By evening, touring the illuminated streets in a heated vehicle provides a relaxed finale."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schwarze Kieselsteine Paludi dei Dinosauri",
+                "hu": "Paludi dei Dinosauri fekete kavicsok",
+                "ro": "Pietricele negre Paludi dei Dinosauri",
+                "en": "Black Pebbles of Paludi dei Dinosauri"
+              },
+              "tip_4lang": {
+                "de": "Parken Sie so nah wie möglich am Ufer, um den Kontrast der nassen schwarzen Steine zum Meer kurz und trocken zu bewundern.",
+                "hu": "Parkoljon a lehető legközelebb a parthoz, hogy a vizes fekete kövek és a tenger kontrasztját gyorsan, megázás nélkül is megcsodálhassa.",
+                "ro": "Parcați cât mai aproape de țărm pentru a admira contrastul pietrelor negre ude cu marea rapid, fără a vă uda prea tare.",
+                "en": "Park as close to the shore as possible to admire the contrast of the wet black pebbles against the sea without getting soaked."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Gefallenen auf See",
+                "hu": "Tengeri Áldozatok Emlékműve",
+                "ro": "Monumentul Eroilor Mării",
+                "en": "Monument to the Fallen at Sea"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie das Auto als Windschutz beim Aussteigen; der Regen peitscht hier oft waagerecht vom Meer herüber.",
+                "hu": "Használja az autót szélfogóként kiszálláskor; az eső itt gyakran vízszintesen ver a tenger felől az erős szélben.",
+                "ro": "Folosiți mașina ca paravan împotriva vântului la coborâre; ploaia bate adesea orizontal dinspre mare în această zonă.",
+                "en": "Use the car as a windbreak when getting out; the rain often blows horizontally from the sea here due to strong gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Trincea",
+                "hu": "Lido Trincea",
+                "ro": "Lido Trincea",
+                "en": "Lido Trincea"
+              },
+              "tip_4lang": {
+                "de": "Bleiben Sie bei starkem Regen im Wagen und genießen Sie den Blick auf die Brandung; schalten Sie die Lüftung gegen beschlagene Scheiben ein.",
+                "hu": "Heves esőben maradjon az autóban és élvezze a hullámtörés látványát; kapcsolja be a páramentesítőt a tiszta kilátás érdekében.",
+                "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați valurile; porniți ventilația pentru a preveni aburirea geamurilor.",
+                "en": "In heavy rain, stay inside the car and enjoy the view of the surf; keep the defroster on to ensure a clear view through the glass."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Arena",
+                "hu": "L'Arena",
+                "ro": "L'Arena",
+                "en": "L'Arena"
+              },
+              "tip_4lang": {
+                "de": "Der Parkplatz kann bei Regen schlammig oder rutschig sein; fahren Sie vorsichtig und wählen Sie befestigte Flächen zum Abstellen.",
+                "hu": "A parkoló esőben sáros vagy csúszós lehet; vezessen óvatosan és válassza a szilárdabb felületeket az autó leállításához.",
+                "ro": "Parcarea poate fi noroioasă sau alunecoasă pe ploaie; conduceți cu prudență și alegeți suprafețele pavate pentru a opri.",
+                "en": "The parking area may be muddy or slippery in the rain; drive carefully and choose paved sections to park your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikki Beach",
+                "hu": "Mikki Beach",
+                "ro": "Mikki Beach",
+                "en": "Mikki Beach"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie das Panorama der Küste durch die Scheiben; ein kurzes Foto vom Auto aus spart Ihnen den nassen Weg zum Strand.",
+                "hu": "Élvezze a tengerparti panorámát az ablakokon keresztül; egy gyors fotó az autóból megkíméli önt a vizes homoktól.",
+                "ro": "Bucurați-vă de panorama coastei prin geamurile mașinii; o fotografie rapidă din interior vă scutește de drumul prin ploaie.",
+                "en": "Enjoy the coastal panorama through the windows; a quick photo from inside the car saves you from a wet walk to the beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Mar Strandbistro",
+                "hu": "Le Mar tengerparti bisztró",
+                "ro": "Bistroul de plajă Le Mar",
+                "en": "Le Mar Beach Bistrot"
+              },
+              "tip_4lang": {
+                "de": "Beenden Sie den Tag hier; da das Bistro direkt an der Straße liegt, kommen Sie trockenen Fußes vom Parkplatz zum Eingang.",
+                "hu": "Fejezze be itt a napot; mivel a bisztró az út mellett van, száraz lábbal juthat el a parkolóból a bejáratig.",
+                "ro": "Încheiați ziua aici; deoarece bistroul este lângă drum, puteți ajunge cu picioarele uscate de la parcare până la intrare.",
+                "en": "End your day here; since the bistro is right by the road, you can reach the entrance from the parking lot with dry feet."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt mit einer Panoramafahrt zu den Paludi dei Dinosauri. Mittags wärmt die Sonne den Wagen, während Sie die Küste entlangfahren. Nachmittags sind die Strände leer und friedlich, perfekt für kurze Stopps im warmen Auto. Da die Dämmerung gegen 17:00 Uhr einsetzt, bietet die Rückfahrt einen spektakulären Blick auf den winterlichen Sonnenuntergang.",
+            "hu": "A téli reggel panorámás autózással indul a Paludi dei Dinosauri felé. Délben a nap kellemesen felmelegíti az utasteret a parti út során. Délután a strandok üresek és békések, ideálisak a rövid megállókhoz a fűtött kocsiból. Mivel 17:00 körül alkonyodik, a visszaút látványos naplementét kínál a tenger felett.",
+            "ro": "Dimineața de iarnă începe cu o plimbare panoramică spre Paludi dei Dinosauri. La prânz, soarele încălzește mașina în timp ce rulați pe coastă. După-amiaza, plajele sunt pustii și liniștite, perfecte pentru opriri scurte. Deoarece amurgul vine la ora 17:00, drumul de întoarcere oferă un apus de iarnă spectaculos.",
+            "en": "The winter morning starts with a scenic drive toward Paludi dei Dinosauri. At noon, the sun warms the car as you cruise along the coast. In the afternoon, the beaches are empty and peaceful, ideal for brief stops in a heated cabin. Since twilight starts around 17:00, the return trip offers a spectacular winter sunset over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Schwarze Kieselsteine Paludi dei Dinosauri",
+                "hu": "Paludi dei Dinosauri fekete kavicsok",
+                "ro": "Pietricele negre Paludi dei Dinosauri",
+                "en": "Black Pebbles of Paludi dei Dinosauri"
+              },
+              "tip_4lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der schwarzen Steine; die niedrige Sonne sorgt für exzellente Kontraste auf den glatten Flächen.",
+                "hu": "Használja ki a tiszta téli fényt a fekete kövek fotózásához; az alacsony napállás kiváló kontrasztokat teremt a sima felületeken.",
+                "ro": "Profitați de lumina clară de iarnă pentru fotografii cu pietrele negre; soarele jos creează contraste excelente pe suprafețele netede.",
+                "en": "Take advantage of the clear winter light for photos of the black pebbles; the low sun creates excellent contrasts on the smooth surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Denkmal der Gefallenen auf See",
+                "hu": "Tengeri Áldozatok Emlékműve",
+                "ro": "Monumentul Eroilor Mării",
+                "en": "Monument to the Fallen at Sea"
+              },
+              "tip_4lang": {
+                "de": "Der Meerwind ist im Winter sehr kalt; lassen Sie den Motor kurz laufen, um das Auto vor dem Aussteigen richtig aufzuwärmen.",
+                "hu": "A tengeri szél télen nagyon hideg lehet; melegítse fel jól az utasteret, mielőtt kiszállna megcsodálni az emlékművet.",
+                "ro": "Briza mării este foarte rece iarna; încălziți bine mașina înainte de a coborî pentru a admira monumentul de pe faleză.",
+                "en": "The sea breeze is very cold in winter; ensure the car interior is nice and warm before stepping out to admire the monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Trincea",
+                "hu": "Lido Trincea",
+                "ro": "Lido Trincea",
+                "en": "Lido Trincea"
+              },
+              "tip_4lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison; im Winter finden Sie hier mühelos einen Parkplatz direkt mit Blick auf das kristallklare Wasser.",
+                "hu": "Élvezze a holtszezon nyugalmát; télen könnyedén találhat parkolót közvetlenül a kristálytiszta vízre néző partszakaszon.",
+                "ro": "Bucurați-vă de liniștea din afara sezonului; iarna veți găsi ușor un loc de parcare cu vedere directă spre apa de cristal.",
+                "en": "Enjoy the peace of the off-season; in winter, you will easily find a parking spot with a direct view of the crystal-clear water."
+              }
+            },
+            {
+              "name": {
+                "de": "L'Arena",
+                "hu": "L'Arena",
+                "ro": "L'Arena",
+                "en": "L'Arena"
+              },
+              "tip_4lang": {
+                "de": "Die Wintersonne kann tief stehen und blenden; klappen Sie die Sonnenblende herunter, während Sie den Küstenabschnitt befahren.",
+                "hu": "A téli nap alacsonyan járhat és elvakíthat; használja a napellenzőt, miközben ezen a nyílt parti szakaszon autózik.",
+                "ro": "Soarele de iarnă poate fi jos și vă poate orbi; folosiți parasolarul în timp ce conduceți pe această porțiune deschisă de coastă.",
+                "en": "The winter sun can be low and blinding; use your sun visor while driving along this open stretch of the coastal road."
+              }
+            },
+            {
+              "name": {
+                "de": "Mikki Beach",
+                "hu": "Mikki Beach",
+                "ro": "Mikki Beach",
+                "en": "Mikki Beach"
+              },
+              "tip_4lang": {
+                "de": "Ein idealer Ort für einen kurzen Winterspaziergang am menschenleeren Strand, bevor Sie sich wieder in die Wärme Ihres Autos zurückziehen.",
+                "hu": "Ideális hely egy rövid téli sétához a néptelen tengerparton, mielőtt visszahúzódna az autója melengető kényelmébe.",
+                "ro": "Un loc ideal pentru o scurtă plimbare de iarnă pe plaja pustie, înainte de a vă retrage în căldura mașinii dumneavoastră.",
+                "en": "An ideal spot for a short winter walk on the deserted beach before retreating back into the warmth of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Mar Strandbistro",
+                "hu": "Le Mar tengerparti bisztró",
+                "ro": "Bistroul de plajă Le Mar",
+                "en": "Le Mar Beach Bistrot"
+              },
+              "tip_4lang": {
+                "de": "Planen Sie Ihre Ankunft gegen 16:45 Uhr, um den winterlichen Sonnenuntergang bequem vom Parkplatz oder Bistro aus zu beobachten.",
+                "hu": "Tervezze az érkezést 16:45 körülre, hogy a téli naplementét kényelmesen, a parkolóból vagy a bisztróból szemlélhesse meg.",
+                "ro": "Planificați sosirea în jur de ora 16:45 pentru a observa apusul de iarnă confortabil din parcare sau din interiorul bistroului.",
+                "en": "Plan to arrive around 16:45 to watch the winter sunset comfortably from the parking lot or the warmth of the bistro."
+              }
+            }
+          ]
+        }
       }
     }
   }

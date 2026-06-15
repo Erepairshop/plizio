@@ -160,6 +160,196 @@
         "hu": "A reggel az impozáns Marteau Pilonnal kezdődik, majd a Saint-Henri templom egyedi építészete következik. A délidőt a csodálatos Château de la Verrerie felfedezésének szenteljük. Délután az Académie François Bourdon archívuma várja. Az estét a Parc de la Verrerie és a szomszédos állatpark békés sétája zárja.",
         "ro": "Dimineața începe cu impunătorul Marteau Pilon, urmat de arhitectura unică a Bisericii Saint-Henri. Amiaza este dedicată magnificului Château de la Verrerie. După-amiaza vă invită să explorați arhivele Académie François Bourdon. Seara se încheie cu o plimbare liniștită prin Parc de la Verrerie și parcul de animale adiacent.",
         "en": "Morning starts with the imposing Marteau Pilon, followed by the unique architecture of Saint-Henri Church. Midday is dedicated to the magnificent Château de la Verrerie. Afternoon invites you to explore the archives of Académie François Bourdon. Evening concludes with a peaceful stroll through Parc de la Verrerie and the adjacent animal park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit dem riesigen Marteau Pilon unter dem Schirm und suchen Sie dann Schutz in der Saint-Henri-Kirche. Mittags erkunden Sie die Innenräume des Château de la Verrerie und der Académie. Nachmittags wagen Sie einen nassen Spaziergang im Parc de la Verrerie. Zum Abschluss ein kurzer Besuch im Tierpark im Nieselregen, bevor Sie sich aufwärmen.",
+            "hu": "Kezdje a hatalmas Marteau Pilonnál esernyővel, majd keressen menedéket a Saint-Henri templomban. Délben fedezze fel a Château de la Verrerie és az Académie François Bourdon beltéri kiállításait. Délután tegyen egy esős sétát a Parc de la Verrerie-ben. Végül egy gyors vizit az állatparkban, mielőtt behúzódna egy száraz helyre.",
+            "ro": "Începeți la gigantul Marteau Pilon cu umbrela, apoi refugiați-vă în Biserica Saint-Henri. La prânz, explorați interioarele de la Château de la Verrerie și Académie François Bourdon. După-amiaza, faceți o scurtă plimbare ploioasă prin Parc de la Verrerie. Încheiați cu o vizită rapidă la parcul de animale înainte de a vă usca într-un loc cald.",
+            "en": "Start with the giant Marteau Pilon under your umbrella, then find shelter in Saint-Henri Church. Midday, explore the indoor exhibits of Château de la Verrerie and Académie François Bourdon. In the afternoon, brave the drizzle in Parc de la Verrerie. Wrap up with a quick, wet walk through the Parc animalier before heading to a cozy spot."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marteau Pilon",
+                "hu": "Marteau Pilon",
+                "ro": "Marteau Pilon",
+                "en": "Marteau Pilon"
+              },
+              "tip_5lang": {
+                "de": "Bestaunen Sie diesen riesigen Schmiedehammer, während Sie Ihren Regenschirm gut gegen den Wind festhalten.",
+                "hu": "Csodálja meg ezt az óriási gőzkalapácsot, miközben erősen fogja az esernyőjét a szitáló esőben és a szélben.",
+                "ro": "Admirați acest ciocan industrial uriaș în timp ce vă țineți bine umbrela împotriva vântului și a ploii.",
+                "en": "Marvel at this giant forge hammer while holding your umbrella tight against the wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Henri Church",
+                "hu": "Saint-Henri Church",
+                "ro": "Saint-Henri Church",
+                "en": "Saint-Henri Church"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das neugotische Innere, während Sie sich abtrocknen und Schutz vor dem starken Regen draußen suchen.",
+                "hu": "Csodálja meg a neogótikus belsőt, miközben megszárad és menedéket talál a kinti heves eső elől.",
+                "ro": "Admirați interiorul neogotic în timp ce vă uscați și vă adăpostiți de ploaia puternică de afară.",
+                "en": "Admire the neo-Gothic interior while drying off and sheltering from the heavy rain outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Verrerie",
+                "hu": "Château de la Verrerie",
+                "ro": "Château de la Verrerie",
+                "en": "Château de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die reichen Innenausstellungen der ehemaligen Kristallfabrik, eine perfekte Flucht vor dem nassen Wetter.",
+                "hu": "Fedezze fel az egykori kristálygyár gazdag beltéri kiállításait, ami tökéletes menedék a nedves idő elől.",
+                "ro": "Explorați expozițiile interioare bogate ale fostei fabrici de cristale, o evadare perfectă din vremea umedă.",
+                "en": "Explore the former crystal factory's rich indoor exhibits, a perfect escape from the wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Académie François Bourdon",
+                "hu": "Académie François Bourdon",
+                "ro": "Académie François Bourdon",
+                "en": "Académie François Bourdon"
+              },
+              "tip_5lang": {
+                "de": "Tauchen Sie in diesen trockenen, weitläufigen Archivhallen tief in die technische Vergangenheit von Le Creusot ein.",
+                "hu": "Merüljön el Le Creusot mérnöki múltjában ezekben a száraz, tágas beltéri archívumokban és termekben.",
+                "ro": "Pătrundeți în trecutul ingineresc din Le Creusot în aceste săli de arhivă uscate și spațioase.",
+                "en": "Dive deep into Le Creusot's engineering past in these dry, expansive indoor archive halls."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Verrerie",
+                "hu": "Parc de la Verrerie",
+                "ro": "Parc de la Verrerie",
+                "en": "Parc de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Gehen Sie auf den gepflasterten Wegen, um Schlamm zu vermeiden, und genießen Sie das üppige, regengewaschene Grün.",
+                "hu": "Sétáljon a kövezett ösvényeken, hogy elkerülje a sarat, és élvezze a park buja, esőmosta növényzetét.",
+                "ro": "Plimbați-vă pe aleile pavate pentru a evita noroiul, bucurându-vă de verdeața luxuriantă spălată de ploaie.",
+                "en": "Walk along the paved paths to avoid mud, enjoying the lush, rain-washed greenery of the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc animalier",
+                "hu": "Parc animalier",
+                "ro": "Parc animalier",
+                "en": "Parc animalier"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Tiere im Nieselregen; eine wasserdichte Jacke mit Kapuze ist hier unerlässlich.",
+                "hu": "Gyorsan nézze meg a szívós állatokat a szitáló esőben; itt elengedhetetlen egy kapucnis vízálló kabát.",
+                "ro": "Observați animalele rezistente prin ploaia măruntă; o jachetă impermeabilă cu glugă este esențială aici.",
+                "en": "Quickly spot the resilient animals through the drizzle; a waterproof jacket with a hood is essential here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Packen Sie sich warm ein für den Marteau Pilon und wärmen Sie sich in der Saint-Henri-Kirche auf. Verbringen Sie den kalten Mittag in den Museen Château de la Verrerie und Académie François Bourdon. Machen Sie nachmittags einen frostigen Spaziergang im Parc de la Verrerie. Beenden Sie den Tag im Tierpark vor dem frühen Sonnenuntergang um 17 Uhr.",
+            "hu": "Öltözzön fel melegen a havas Marteau Pilonhoz, majd melegedjen fel a Saint-Henri templomban. A hideg delet töltse a Château de la Verrerie és az Académie François Bourdon ipartörténeti kiállításain. Tegyen egy frissítő délutáni sétát a Parc de la Verrerie-ben. Érjen az állatparkhoz még a korai, délután 5 órás naplemente előtt.",
+            "ro": "Îmbrăcați-vă gros pentru Marteau Pilon, apoi încălziți-vă în Biserica Saint-Henri. Petreceți prânzul rece înăuntru, la Château de la Verrerie și Académie François Bourdon. După-amiaza, faceți o plimbare revigorantă prin Parc de la Verrerie. Finalizați la parcul de animale înainte de lăsarea întunericului, în jur de ora 17:00.",
+            "en": "Bundle up to admire the snowy Marteau Pilon, then warm up inside the quiet Saint-Henri Church. Spend the cold midday indoors discovering industrial history at Château de la Verrerie and Académie François Bourdon. Take a brisk, frosty afternoon walk in Parc de la Verrerie. Finish at the Parc animalier just before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marteau Pilon",
+                "hu": "Marteau Pilon",
+                "ro": "Marteau Pilon",
+                "en": "Marteau Pilon"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie den massiven Industriehammer im Kontrast zum Winterhimmel, aber tragen Sie dicke Handschuhe.",
+                "hu": "Nézze meg a téli éggel kontrasztot alkotó hatalmas ipari kalapácsot, de ne felejtsen el vastag kesztyűt viselni.",
+                "ro": "Vedeți ciocanul industrial masiv contrastând cu cerul de iarnă, dar purtați mănuși groase din cauza frigului.",
+                "en": "See the massive industrial hammer contrasting with the winter sky, but be sure to wear thick, warm gloves."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Henri Church",
+                "hu": "Saint-Henri Church",
+                "ro": "Saint-Henri Church",
+                "en": "Saint-Henri Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände im friedlichen Kirchenschiff dieser historischen Kirche auf, bevor Sie zurück in die Kälte gehen.",
+                "hu": "Melegítse fel a kezét ennek a történelmi templomnak a békés hajójában, mielőtt visszatér a kinti hidegbe.",
+                "ro": "Încălziți-vă mâinile în naosul liniștit al acestei biserici istorice înainte de a ieși din nou în frig.",
+                "en": "Warm your hands in the peaceful nave of this historic church before heading back into the crisp cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Verrerie",
+                "hu": "Château de la Verrerie",
+                "ro": "Château de la Verrerie",
+                "en": "Château de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Entdecken Sie die großzügigen Innenräume und das industrielle Erbe, während Sie den frostigen Temperaturen entgehen.",
+                "hu": "Fedezze fel a pazar belső tereket és az ipari örökséget bent, elkerülve a fagyos hőmérsékletet.",
+                "ro": "Descoperiți interioarele somptuoase și patrimoniul industrial în interior, evitând temperaturile de îngheț.",
+                "en": "Discover the lavish interiors and industrial heritage indoors while avoiding the freezing temperatures outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Académie François Bourdon",
+                "hu": "Académie François Bourdon",
+                "ro": "Académie François Bourdon",
+                "en": "Académie François Bourdon"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie eine Stunde drinnen, um mehr über Metallurgie zu erfahren, und genießen Sie die beheizten Säle.",
+                "hu": "Töltsön el egy órát bent a kohászat tanulmányozásával, élvezve a fűtött termeket a hideg téli délutánon.",
+                "ro": "Petreceți o oră înăuntru învățând despre metalurgie, bucurându-vă de sălile încălzite în după-amiaza rece.",
+                "en": "Spend an hour indoors learning about metallurgy, enjoying the heated halls during the cold afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Verrerie",
+                "hu": "Parc de la Verrerie",
+                "ro": "Parc de la Verrerie",
+                "en": "Parc de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen zügigen Spaziergang durch die kahlen, frostigen Bäume und tragen Sie warme Stiefel.",
+                "hu": "Tegyen egy gyors sétát a csupasz, deres fák között, és viseljen meleg csizmát, hogy ne fagyjon át a lába.",
+                "ro": "Faceți o plimbare rapidă printre copacii goi și înghețați, purtând cizme călduroase pentru a vă menține picioarele confortabile.",
+                "en": "Take a brisk walk through the bare, frosty trees, wearing warm boots to keep your feet comfortable."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc animalier",
+                "hu": "Parc animalier",
+                "ro": "Parc animalier",
+                "en": "Parc animalier"
+              },
+              "tip_5lang": {
+                "de": "Sehen Sie die aktiven Tiere in der klaren Luft, aber kommen Sie früh, bevor die Sonne um 17 Uhr untergeht.",
+                "hu": "Nézze meg a friss levegőn aktív állatokat, de érkezzen korán, mielőtt a nap 5 óra körül hirtelen lemegy.",
+                "ro": "Vedeți animalele active în aerul proaspăt, dar vizitați devreme înainte de apusul soarelui în jur de ora 17:00.",
+                "en": "See the animals active in the crisp air, but visit early before the sun sets completely around 5 PM."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +504,196 @@
         "hu": "A reggeli kerékpározás a történelmi Saint-Henri templomtól az egykori kristálygyár szíve felé indul. Délben a Château és a közeli Académie ipari örökségét fedezzük fel. Délután a buja Parc de la Verrerie és az állatpark nyújt frissítő utazást. Az este fénypontja a festői Parc des Combes felé vezető tekerés.",
         "ro": "Dimineața pedalați de la istorica Biserică Saint-Henri spre inima fostei fabrici de cristal. La amiază descoperiți moștenirea industrială de la Château și Académie. După-amiaza vă permite o plimbare revigorantă prin Parc de la Verrerie și parcul de animale. Seara culminează cu un traseu pitoresc spre Parc des Combes.",
         "en": "Morning pedals off from the historic Saint-Henri Church towards the heart of the former crystal factory. Midday is spent uncovering the industrial legacy at the Château and the nearby Académie. Afternoon allows for a breezy ride through the lush Parc de la Verrerie and animal park. Evening peaks with a scenic cycle up to Parc des Combes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Radeln Sie vorsichtig auf nassen Straßen zur Saint-Henri-Kirche. Mittags trocknen Sie sich im Château de la Verrerie und in der Académie ab. Nachmittags fahren Sie durch den Nieselregen im Parc de la Verrerie und im Tierpark. Enden Sie im Parc des Combes, wo Sie besonders auf rutschige Wege achten müssen.",
+            "hu": "Óvatosan tekerjen a Saint-Henri templomhoz a vizes utakon. Délben parkolja le a bringát, és száradjon meg a Château de la Verrerie és az Académie termeiben. Délután küzdjön meg a szitáló esővel a parkokban. A Parc des Combes-nál fejezze be, fokozottan ügyelve a csúszós ösvényekre.",
+            "ro": "Pedalați cu grijă spre Biserica Saint-Henri pe drumurile ude. La prânz, uscați-vă în Château de la Verrerie și Académie. După-amiaza, înfruntați ploaia măruntă prin Parc de la Verrerie și parcul de animale. Încheiați la Parc des Combes, mergând foarte prudent pe aleile alunecoase.",
+            "en": "Pedal carefully to Saint-Henri Church on wet roads. Midday, park your bike and dry off inside Château de la Verrerie and Académie François Bourdon. In the afternoon, brave the drizzle through Parc de la Verrerie and the animal park. Finish at Parc des Combes, riding cautiously on slippery paths."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Henri Church",
+                "hu": "Saint-Henri Church",
+                "ro": "Saint-Henri Church",
+                "en": "Saint-Henri Church"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad unter und bewundern Sie das Innere, während Sie sich vom starken Regen erholen.",
+                "hu": "Tegye le a kerékpárt egy fedett helyre, és csodálja meg a belsőt, miközben menedéket talál az eső elől.",
+                "ro": "Lăsați bicicleta la adăpost și admirați interiorul în timp ce vă uscați și vă ascundeți de ploaie.",
+                "en": "Park your bike under some cover and admire the interior while drying off and sheltering from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Verrerie",
+                "hu": "Château de la Verrerie",
+                "ro": "Château de la Verrerie",
+                "en": "Château de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Tauschen Sie den Fahrradsattel gegen einen Museumsrundgang und entfliehen Sie dem nassen Wetter.",
+                "hu": "Cserélje le a nedves nyerget egy múzeumi sétára, és meneküljön el a kinti esős időjárás elől.",
+                "ro": "Schimbați șaua bicicletei cu un tur de muzeu și evadați din vremea umedă explorând interiorul.",
+                "en": "Trade the wet bike saddle for a museum tour and escape the wet weather by exploring the indoor exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Académie François Bourdon",
+                "hu": "Académie François Bourdon",
+                "ro": "Académie François Bourdon",
+                "en": "Académie François Bourdon"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diese trockenen Hallen, um sich aufzuwärmen und mehr über die Technikgeschichte zu erfahren.",
+                "hu": "Használja ki ezeket a száraz termeket, hogy felmelegedjen, és többet tudjon meg a mérnöki történelemről.",
+                "ro": "Folosiți aceste săli uscate pentru a vă încălzi și pentru a afla mai multe despre istoria ingineriei.",
+                "en": "Use these dry halls to warm up your muscles and learn more about the deep engineering history here."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Verrerie",
+                "hu": "Parc de la Verrerie",
+                "ro": "Parc de la Verrerie",
+                "en": "Parc de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den asphaltierten Hauptwegen, um zu vermeiden, dass Ihre Reifen im nassen Gras rutschen.",
+                "hu": "Maradjon az aszfaltozott főútvonalakon, hogy elkerülje a gumiabroncsok megcsúszását a nedves fűben és sárban.",
+                "ro": "Rămâneți pe căile principale asfaltate pentru a evita ca anvelopele să alunece pe iarba udă și noroi.",
+                "en": "Stick to the main paved paths to avoid your bike tires slipping in the wet grass and muddy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc animalier",
+                "hu": "Parc animalier",
+                "ro": "Parc animalier",
+                "en": "Parc animalier"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam im Nieselregen, um die Tiere zu sehen, und tragen Sie einen guten Regenponcho.",
+                "hu": "Tekerjen lassan a szitáló esőben, hogy lássa az állatokat; egy jó esőponcsó itt életmentő lehet.",
+                "ro": "Mergeți încet prin ploaia măruntă pentru a vedea animalele și asigurați-vă că purtați un poncho de ploaie.",
+                "en": "Ride slowly through the drizzle to spot the animals, and make sure you're wearing a solid rain poncho."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Combes",
+                "hu": "Parc des Combes",
+                "ro": "Parc des Combes",
+                "en": "Parc des Combes"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie, welche Attraktionen bei Regen geöffnet sind, und bremsen Sie vorsichtig auf den nassen Hügeln.",
+                "hu": "Ellenőrizze a nyitvatartást esőben, és nagyon óvatosan fékezzen a vizes dombokon lefelé haladva.",
+                "ro": "Verificați atracțiile deschise pe ploaie și frânați cu mare grijă pe dealurile și curbele ude.",
+                "en": "Check which attractions are open during rain, and brake very carefully on the wet hills and curves."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einer kalten Fahrt zur Saint-Henri-Kirche. Wärmen Sie sich mittags im Château de la Verrerie und in der Académie auf. Nachmittags brauchen Sie dicke Handschuhe für den Park. Genießen Sie den Tierpark und die Aussicht vom Parc des Combes vor dem frühen Sonnenuntergang um 17 Uhr.",
+            "hu": "Kezdjen egy csípős, hideg tekeréssel a Saint-Henri templomhoz. Délben melegedjen fel a Château de la Verrerie és az Académie termeiben. A délutáni tekeréshez már vastag kesztyű kell. Nézze meg az állatokat és a Parc des Combes-t a korai, 17 órás sötétedés előtt.",
+            "ro": "Începeți cu o plimbare rece spre Biserica Saint-Henri. Încălziți-vă la prânz în Château de la Verrerie și Académie. Ciclismul de după-amiază necesită mănuși groase pentru mâini. Vedeți animalele și atracțiile din Parc des Combes înainte de apusul soarelui la ora 17:00.",
+            "en": "Start with a crisp, cold ride to Saint-Henri Church. Warm up midday inside the grand Château de la Verrerie and Académie. Afternoon cycling through Parc de la Verrerie requires warm gloves. Catch the animals and Parc des Combes views before the early 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Saint-Henri Church",
+                "hu": "Saint-Henri Church",
+                "ro": "Saint-Henri Church",
+                "en": "Saint-Henri Church"
+              },
+              "tip_5lang": {
+                "de": "Tauen Sie Ihre gefrorenen Finger in der ruhigen Kirche nach der ersten kalten Fahrt des Tages auf.",
+                "hu": "Olvassza ki a fagyos ujjait a csendes templomban a nap első, hideg kerékpáros szakasza után.",
+                "ro": "Dezghețați-vă degetele înghețate în biserica liniștită după prima cursă rece a zilei.",
+                "en": "Thaw your frozen fingers in the quiet church after completing the first cold ride of the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Verrerie",
+                "hu": "Château de la Verrerie",
+                "ro": "Château de la Verrerie",
+                "en": "Château de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Rad stehen und genießen Sie die beheizten Räume dieses Schlosses für eine willkommene Pause.",
+                "hu": "Hagyja kint a biciklit, és élvezze a kastély fűtött termeit egy nagyon is üdvözlendő téli szünetre.",
+                "ro": "Lăsați bicicleta afară și bucurați-vă de camerele încălzite ale acestui castel pentru o pauză binevenită.",
+                "en": "Leave the bike outside and enjoy the heated rooms of this grand chateau for a welcome winter break."
+              }
+            },
+            {
+              "name": {
+                "de": "Académie François Bourdon",
+                "hu": "Académie François Bourdon",
+                "ro": "Académie François Bourdon",
+                "en": "Académie François Bourdon"
+              },
+              "tip_5lang": {
+                "de": "Nehmen Sie sich Zeit in den warmen Archiven, um sich zu erholen, bevor Sie wieder in die Kälte radeln.",
+                "hu": "Szánjon időt a meleg archívumokra a pihenésre, mielőtt újra kimerészkedne a hideg levegőre tekerni.",
+                "ro": "Luați-vă timp în arhivele calde pentru a vă recupera înainte de a pedala din nou în frig.",
+                "en": "Take your time in the warm archives to fully recover your core temp before cycling back into the cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Verrerie",
+                "hu": "Parc de la Verrerie",
+                "ro": "Parc de la Verrerie",
+                "en": "Parc de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie winddichte Kleidung, wenn Sie durch die kahlen Bäume radeln, da der Fahrtwind eisig ist.",
+                "hu": "Viseljen szélálló ruházatot, amikor a csupasz fák között teker, mert a menetszél fagyos lehet.",
+                "ro": "Purtați haine rezistente la vânt când pedalați printre copacii goi, deoarece vântul vă va îngheța.",
+                "en": "Wear windproof clothing as you cycle through the bare trees, as the wind chill can be quite biting."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc animalier",
+                "hu": "Parc animalier",
+                "ro": "Parc animalier",
+                "en": "Parc animalier"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die Tiere vom Sattel aus in der klaren Winterluft, bevor es langsam dunkel wird.",
+                "hu": "Figyelje meg az állatokat a nyeregből a tiszta téli levegőn, még mielőtt lassan elkezdene sötétedni.",
+                "ro": "Observați animalele din șa în aerul clar de iarnă, înainte ca lumina să înceapă să scadă.",
+                "en": "Observe the animals from your saddle in the clear winter air before the daylight starts to fade."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Combes",
+                "hu": "Parc des Combes",
+                "ro": "Parc des Combes",
+                "en": "Parc des Combes"
+              },
+              "tip_5lang": {
+                "de": "Schalten Sie Ihr Fahrradlicht ein; die Sonne geht um 17 Uhr unter und die Wege werden schnell dunkel.",
+                "hu": "Kapcsolja be a kerékpárlámpát; a nap 17 órakor lemegy, és a dombvidéki utak gyorsan sötétbe borulnak.",
+                "ro": "Aprindeți farurile bicicletei; soarele apune la 17:00, iar aleile din parc se întunecă rapid.",
+                "en": "Turn on your bike lights; the sun sets around 5 PM and the hilly paths get dark very quickly."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +848,196 @@
         "hu": "A reggel a könnyen megközelíthető monumentális Marteau Pilonnál indul, majd egy rövid autózás következik a Saint-Henri templomhoz. Délben elmerülhet a Château de la Verrerie hatalmas birtokán. Délután az Académie rejtelmeit és a Parc de la Verrerie nyugalmát fedezzük fel. Az estét a Parc des Combes meglátogatása zárja.",
         "ro": "Dimineața începe la monumentalul Marteau Pilon, urmată de o scurtă deplasare cu mașina până la Biserica Saint-Henri. Amiaza vă captivează în domeniul vast de la Château de la Verrerie. După-amiaza explorează arhivele Académie și seninătatea Parc de la Verrerie. Seara se termină cu o cursă plăcută spre Parc des Combes.",
         "en": "Morning kicks off at the monumental Marteau Pilon, easily accessible by car, followed by a short drive to Saint-Henri Church. Midday immerses you in the expansive Château de la Verrerie grounds. Afternoon explores the depths of the Académie and the serenity of Parc de la Verrerie. Evening finishes with a fun drive to Parc des Combes."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zum Marteau Pilon und betrachten Sie ihn bei Starkregen vom Auto aus. Retten Sie sich in die Kirche. Mittags parken Sie nahe Château de la Verrerie und Académie für Indoor-Ausstellungen. Fahren Sie sicher auf nassen Straßen zu den Parks, endend mit überdachten Zielen im Parc des Combes.",
+            "hu": "Vezessen a Marteau Pilonhoz, zuhogó esőben az autóból is jól látható. Szaladjon be a templomba megszáradni. Délben parkoljon a Château de la Verrerie és az Académie közelében a beltéri kiállításokért. Vezessen óvatosan a vizes utakon a parkokig, végül válasszon fedett programot a Parc des Combes-ban.",
+            "ro": "Conduceți la Marteau Pilon, privind din mașină dacă toarnă cu găleata. Fugiți în biserică pentru a vă usca. La prânz, parcați lângă Château de la Verrerie și Académie pentru expoziții interioare. Conduceți prudent pe drumurile ude spre parcuri, terminând la atracțiile acoperite din Parc des Combes.",
+            "en": "Drive to the Marteau Pilon, watching from the car if it pours. Dash into Saint-Henri Church to dry off. Midday, park near Château de la Verrerie and Académie for rich indoor exhibits. Drive safely on wet roads to Parc de la Verrerie, ending at Parc des Combes for sheltered attractions."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marteau Pilon",
+                "hu": "Marteau Pilon",
+                "ro": "Marteau Pilon",
+                "en": "Marteau Pilon"
+              },
+              "tip_5lang": {
+                "de": "Wenn es stark regnet, können Sie diesen riesigen Hammer bequem und trocken aus dem Auto heraus bewundern.",
+                "hu": "Ha nagyon zuhog, ezt a hatalmas kalapácsot akár az autó kényelméből és szárazából is megcsodálhatja.",
+                "ro": "Dacă plouă puternic, puteți admira acest ciocan uriaș din confortul și uscăciunea mașinii dumneavoastră.",
+                "en": "If it is pouring rain, you can easily admire this massive hammer from the warm comfort of your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Henri Church",
+                "hu": "Saint-Henri Church",
+                "ro": "Saint-Henri Church",
+                "en": "Saint-Henri Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und rennen Sie mit dem Regenschirm hinein, um die trockene, ruhige Atmosphäre zu genießen.",
+                "hu": "Parkoljon a közelben, és szaladjon be esernyővel, hogy élvezze a száraz, békés atmoszférát.",
+                "ro": "Parcați în apropiere și alergați cu umbrela înăuntru pentru a vă bucura de atmosfera uscată și liniștită.",
+                "en": "Park close by and make a quick dash inside with your umbrella to enjoy the dry, peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Verrerie",
+                "hu": "Château de la Verrerie",
+                "ro": "Château de la Verrerie",
+                "en": "Château de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Halt an einem Regentag: Verbringen Sie Ihre Zeit drinnen bei den Kristallausstellungen.",
+                "hu": "Kiváló megálló egy esős napon: töltse az idejét bent, fedett helyen a kristálykiállításokat nézve.",
+                "ro": "O oprire excelentă într-o zi ploioasă: petreceți-vă timpul în interior admirând expozițiile de cristale.",
+                "en": "A great stop on a rainy day: spend your time entirely indoors looking at the rich crystal exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Académie François Bourdon",
+                "hu": "Académie François Bourdon",
+                "ro": "Académie François Bourdon",
+                "en": "Académie François Bourdon"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie das Auto auf dem Parkplatz des Schlosses und gehen Sie direkt in diese trockenen Archivhallen.",
+                "hu": "Hagyja az autót a kastély parkolójában, és sétáljon át egyenesen ezekbe a száraz archívumokba.",
+                "ro": "Lăsați mașina în parcarea castelului și mergeți direct în aceste săli uscate de arhivă.",
+                "en": "Leave the car in the chateau's parking lot and walk straight across into these completely dry archives."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Verrerie",
+                "hu": "Parc de la Verrerie",
+                "ro": "Parc de la Verrerie",
+                "en": "Parc de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang mit dem Schirm und kehren Sie schnell zum trockenen Auto zurück.",
+                "hu": "Tegyen egy rövid sétát az esernyővel, majd térjen vissza gyorsan a száraz autó melegébe.",
+                "ro": "Faceți o scurtă plimbare cu umbrela pe alei și întoarceți-vă rapid la mașina dumneavoastră uscată.",
+                "en": "Take a very short walk with your umbrella along the paved paths and quickly return to the dry car."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Combes",
+                "hu": "Parc des Combes",
+                "ro": "Parc des Combes",
+                "en": "Parc des Combes"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den nassen Straßen nach oben und suchen Sie nach überdachten Attraktionen.",
+                "hu": "Vezessen óvatosan felfelé a vizes utakon, és keresse a fedett vagy esőben is élvezhető attrakciókat.",
+                "ro": "Conduceți cu prudență pe drumurile ude în sus și căutați atracțiile acoperite din interiorul parcului.",
+                "en": "Drive cautiously up the wet, winding roads and specifically seek out the covered attractions here."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Fahren Sie zum frostigen Marteau Pilon mit laufender Heizung. Halten Sie an der Kirche und verbringen Sie einen warmen Mittag im Château de la Verrerie und in der Académie. Packen Sie sich nachmittags warm für den Park ein und fahren Sie vor 17 Uhr zum Parc des Combes, um im Hellen anzukommen.",
+            "hu": "Vezessen a deres Marteau Pilonhoz, bekapcsolva hagyva a fűtést. Álljon meg a templomnál, majd töltsön egy meleg delet a Château de la Verrerie és az Académie termeiben. Délután öltözzön fel egy sétához a Parc de la Verrerie-ben, és még az 5 órás sötétedés előtt hajtson a Parc des Combes-hoz.",
+            "ro": "Conduceți la Marteau Pilon cel înghețat, cu căldura pornită. Opriți la biserică, apoi petreceți un prânz cald la Château de la Verrerie și Académie. După-amiaza, îmbrăcați-vă gros pentru o plimbare, conducând spre Parc des Combes înainte de apusul de la ora 17:00.",
+            "en": "Drive to the frosty Marteau Pilon, keeping the heater on. Stop at Saint-Henri Church, then spend a cozy midday inside Château de la Verrerie and Académie François Bourdon. In the afternoon, bundle up for a brisk walk in Parc de la Verrerie, driving to Parc des Combes before the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Marteau Pilon",
+                "hu": "Marteau Pilon",
+                "ro": "Marteau Pilon",
+                "en": "Marteau Pilon"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Anblick an einem Wintermorgen; Sie können ihn im warmen Auto betrachten, ohne zu frieren.",
+                "hu": "Remek látvány egy téli reggelen; akár a fűtött autóból is megtekintheti, anélkül hogy fázna.",
+                "ro": "O priveliște minunată într-o dimineață de iarnă; o puteți viziona din mașina încălzită fără să înghețați.",
+                "en": "A great sight on a winter morning; you can view it from the heated car if you don't want to freeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Saint-Henri Church",
+                "hu": "Saint-Henri Church",
+                "ro": "Saint-Henri Church",
+                "en": "Saint-Henri Church"
+              },
+              "tip_5lang": {
+                "de": "Betreten Sie die Kirche, um sich nach dem ersten Gang ins Freie aufzuwärmen und die Stille zu genießen.",
+                "hu": "Lépjen be a templomba, hogy a kinti fagyos levegő után felmelegedjen, és élvezze a békés csendet.",
+                "ro": "Intrați în biserică pentru a vă încălzi după prima ieșire în aer liber și pentru a vă bucura de liniște.",
+                "en": "Step inside the church to warm up after your first venture out into the crisp, freezing air."
+              }
+            },
+            {
+              "name": {
+                "de": "Château de la Verrerie",
+                "hu": "Château de la Verrerie",
+                "ro": "Château de la Verrerie",
+                "en": "Château de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die beheizten Innenräume dieses historischen Schlosses, ideal für die kältesten Mittagsstunden.",
+                "hu": "Élvezze ennek a történelmi kastélynak a fűtött belső tereit, ami ideális a leghidegebb déli órákban.",
+                "ro": "Bucurați-vă de interioarele încălzite ale acestui castel istoric, ideal pentru cele mai reci ore ale prânzului.",
+                "en": "Enjoy the properly heated interiors of this historic chateau, ideal for the coldest midday hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Académie François Bourdon",
+                "hu": "Académie François Bourdon",
+                "ro": "Académie François Bourdon",
+                "en": "Académie François Bourdon"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie drinnen und lernen Sie die Industriegeschichte im Warmen kennen, bevor es wieder kalt wird.",
+                "hu": "Maradjon bent, és ismerje meg az ipartörténetet a melegben, mielőtt újra kimozdulna a délutáni hidegbe.",
+                "ro": "Rămâneți în interior și învățați despre istoria industrială la căldură, înainte de a ieși din nou în frig.",
+                "en": "Stay indoors and learn about industrial history in the warmth before heading back into the cold afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc de la Verrerie",
+                "hu": "Parc de la Verrerie",
+                "ro": "Parc de la Verrerie",
+                "en": "Parc de la Verrerie"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine dicke Winterjacke für einen zügigen Spaziergang und kehren Sie dann schnell zum Auto zurück.",
+                "hu": "Vegyen fel egy vastag télikabátot egy gyors sétához, majd térjen vissza gyorsan a kényelmes autóhoz.",
+                "ro": "Purtați o jachetă groasă de iarnă pentru o plimbare rapidă și apoi întoarceți-vă rapid la mașina confortabilă.",
+                "en": "Wear a thick winter coat for a brisk walk among the bare trees, then quickly return to the comfortable car."
+              }
+            },
+            {
+              "name": {
+                "de": "Parc des Combes",
+                "hu": "Parc des Combes",
+                "ro": "Parc des Combes",
+                "en": "Parc des Combes"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie den Hügel hinauf und genießen Sie die Aussicht im Hellen, bevor die Sonne um 17 Uhr untergeht.",
+                "hu": "Hajtson fel a dombra, és élvezze a kilátást még világosban, mielőtt a nap délután 5 órakor lemegy.",
+                "ro": "Conduceți pe deal și bucurați-vă de priveliște pe lumină, înainte ca soarele să apună devreme la 17:00.",
+                "en": "Drive up the hill and enjoy the sweeping views in the daylight, before the sun completely sets at 5 PM."
+              }
+            }
+          ]
+        }
       }
     }
   }

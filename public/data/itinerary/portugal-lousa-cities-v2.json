@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt Lousã kulturális szívében, merüljön el a helyi hegyi hagyományokban az Ecomuseumban, majd sétáljon el a történelmi Cine-Teatro mellett.\n\nDélben vegye az irányt a városközpont felé, hogy megcsodálja a történelmi Pelourinho-t, és elmerüljön a pezsgő, ősi utcák egyedülálló hangulatában.\n\nA délutánt a helyi örökség megismerésének szentelje a városi múzeumban, ahol a gazdag régészeti leletek élénk képet festenek a régió múltjáról.\n\nZárja a sétát a szabadtéri amfiteátrumban pihenve, figyelve a helyi élet áramlását, ahogy az esti árnyékok lassan meghosszabbodnak a városban.",
         "ro": "Începeți dimineața explorând inima culturală din Lousã, descoperind tradițiile montane la Ecomuzeu înainte de a vă plimba pe lângă istoricul Cine-Teatro.\n\nLa prânz, îndreptați-vă spre centrul orașului pentru a admira Pelourinho, reflectând asupra rădăcinilor străvechi ale municipalității pe străzile pline de viață.\n\nPetreceți după-amiaza cufundat în patrimoniul local la muzeul municipal, unde descoperirile arheologice conturează un tablou vibrant al trecutului.\n\nÎncheiați turul pietonal relaxându-vă la amfiteatrul în aer liber, privind cum se desfășoară viața locală în timp ce umbrele serii se lungesc peste oraș.",
         "en": "Start your morning exploring the cultural heart of Lousã, diving into local mountain traditions at the Ecomuseu before strolling past the historic Cine-Teatro.\n\nBy midday, head towards the town center to admire the historic Pelourinho, reflecting on the municipality's ancient roots while enjoying the lively streets.\n\nSpend your afternoon deeply immersed in local heritage at the municipal museum, where rich archaeological finds paint a vibrant picture of the region's past.\n\nConclude the walking tour relaxing at the open-air amphitheater, watching the local life unfold as the evening shadows slowly lengthen across the town."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie Ihren Morgen im Ecomuseu, um trocken zu bleiben, während Sie das Erbe von Lousã erkunden. Mittags bietet das Cine-Teatro einen kulturellen Zufluchtsort vor dem grauen Himmel. Am Nachmittag besuchen Sie kurz den Pelourinho, bevor Sie in die weitläufigen Galerien des Stadtmuseums flüchten. Beenden Sie den Tag früh in einem gemütlichen Café, während der Regen auf den Gassen tanzt.",
+            "hu": "Induljon az Ecomuseu fedett tereiben, hogy elkerülje a reggeli záporokat. Délben a Cine-Teatro kínál kulturális menedéket a szürke égbolt elől. Délután látogassa meg gyorsan a Pelourinho-t, majd vonuljon be a Városi Múzeum galériáiba. Zárja a napot egy hangulatos helyen, figyelve a vizes macskakövön tükröződő utcai fényeket, mielőtt az eső intenzívebbé válna.",
+            "ro": "Începeți dimineața în interiorul Ecomuseu pentru a rămâne uscați în timp ce explorați moștenirea locală. La prânz, Cine-Teatro oferă un refugiu cultural împotriva cerului gri. După-amiaza, vizitați rapid Pelourinho înainte de a intra în galeriile extinse ale Muzeului Municipal. Încheiați ziua devreme într-o cafenea primitoare, admirând reflexiile luminilor stradale pe pavajul umed.",
+            "en": "Start your morning inside the Ecomuseu to stay dry while exploring Lousã's heritage. By noon, the Cine-Teatro offers a cultural refuge from the grey skies. In the afternoon, visit the Pelourinho quickly before heading to the extensive galleries of the Municipal Museum. End your day early as the rain intensifies, enjoying the reflection of streetlights on wet cobblestones."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecomuseu da Serra da Lousã",
+                "hu": "Ecomuseu da Serra da Lousã",
+                "ro": "Ecomuseu da Serra da Lousã",
+                "en": "Ecomuseu da Serra da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Ausstellungen zum Bergleben in den Innenräumen; ein idealer Zufluchtsort vor dem Regen während der Besichtigung der Geschichte.",
+                "hu": "Fedezze fel a hegyi életről szóló beltéri kiállításokat; ez a helyszín tökéletes menedéket nyújt az eső elől a helyi történelem megismerése közben.",
+                "ro": "Explorați expozițiile interioare despre viața montană; este refugiul perfect împotriva ploii în timp ce învățați despre istoria locală a regiunii.",
+                "en": "Explore the indoor exhibits about mountain life; it is the perfect shelter from the rain while learning about the fascinating local history."
+              }
+            },
+            {
+              "name": {
+                "de": "Cine-Teatro",
+                "hu": "Cine-Teatro",
+                "ro": "Cine-Teatro",
+                "en": "Cine-Teatro"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie diesen kulturellen Raum für eine Pause im Trockenen; prüfen Sie das lokale Programm, um den Regen bei einer Vorstellung abzuwarten.",
+                "hu": "Használja ezt a kulturális teret egy száraz pihenőre; érdemes ellenőrizni a helyi műsort, hátha egy előadás alatt kényelmesen kivárhatja az esőt.",
+                "ro": "Folosiți acest spațiu cultural pentru o pauză la adăpost; verificați programul local pentru a aștepta trecerea ploii în timpul unui spectacol.",
+                "en": "Use this cultural space for a dry break; check the local schedule to see if you can wait out the rain while enjoying a performance or exhibit."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lousã",
+                "hu": "Pelourinho da Lousã",
+                "ro": "Pelourinho da Lousã",
+                "en": "Pelourinho da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Freien für ein Foto; halten Sie den Regenschirm bereit, da der Platz keinen Schutz vor plötzlichen Schauern bietet.",
+                "hu": "Gyors szabadtéri megálló egy fotó erejéig; tartsa készenlétben az esernyőjét, mivel a tér nem kínál védelmet a hirtelen záporok ellen.",
+                "ro": "O oprire rapidă în aer liber pentru o fotografie; aveți umbrela pregătită, deoarece piața nu oferă protecție împotriva averselor bruște.",
+                "en": "A quick outdoor stop for a photo; have your umbrella ready as the square offers no shelter from sudden downpours during your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "hu": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "ro": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "en": "Museu Municipal Professor Álvaro Viana de Lemos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Kunstsammlungen in den prächtigen Sälen; die weitläufigen Innenräume sind ideal, um sich lange Zeit im Trockenen aufzuhalten.",
+                "hu": "Élvezze a művészeti gyűjteményeket a pompás termekben; a tágas belső terek ideálisak ahhoz, hogy hosszabb időt töltsön el szárazon.",
+                "ro": "Bucurați-vă de colecțiile de artă în sălile splendide; spațiile interioare generoase sunt ideale pentru a petrece mult timp la adăpost.",
+                "en": "Enjoy the art collections in the grand halls; the spacious interior rooms are ideal for spending a long period staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro da Alameda Carlos Reis",
+                "hu": "Anfiteatro da Alameda Carlos Reis",
+                "ro": "Anfiteatro da Alameda Carlos Reis",
+                "en": "Anfiteatro da Alameda Carlos Reis"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Design aus der Ferne oder unter den Arkaden; der nasse Boden kann rutschig sein, seien Sie also vorsichtig beim Gehen.",
+                "hu": "Csodálja meg a dizájnt távolabbról vagy az árkádok alól; a nedves talaj csúszós lehet, ezért legyen óvatos a lépcsők környékén.",
+                "ro": "Admirați designul de la distanță sau de sub arcade; solul umed poate fi alunecos, așa că fiți atenți când mergeți prin zonă.",
+                "en": "Admire the design from a distance or under the nearby arcades; the wet floor can be slippery, so be careful when walking around."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Atmen Sie die frische Winterluft am Morgen beim Ecomuseu ein. Mittags wärmt Sie die Atmosphäre des Cine-Teatro auf. Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie die Außenbesichtigungen am Pelourinho am frühen Nachmittag planen. Verbringen Sie die Dämmerung im Stadtmuseum und genießen Sie danach die festliche Beleuchtung der Stadt bei kühlen Temperaturen.",
+            "hu": "Lélegezze be a friss téli levegőt reggel az Ecomuseu környékén. Délben a Cine-Teatro hangulata melegíti fel a látogatást. Mivel a nap 17:00 körül nyugszik, a Pelourinho megtekintését kora délutánra időzítse. A szürkületet töltse a Városi Múzeumban, majd élvezze a város ünnepi fényeit a hűvös esti levegőben.",
+            "ro": "Respirați aerul proaspăt de iarnă dimineața la Ecomuseu. La prânz, atmosfera de la Cine-Teatro vă va încălzi vizita. Deoarece soarele apune în jur de ora 17:00, planificați vizita la Pelourinho devreme. Petreceți amurgul în Muzeul Municipal, apoi bucurați-vă de luminile festive ale orașului în aerul rece.",
+            "en": "Breathe in the crisp winter air in the morning at the Ecomuseu. At noon, the Cine-Teatro's atmosphere warms up your visit. Since the sun sets around 17:00, schedule your Pelourinho visit for early afternoon. Spend the dusk inside the Municipal Museum, then enjoy the town's festive lights in the cool evening air."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecomuseu da Serra da Lousã",
+                "hu": "Ecomuseu da Serra da Lousã",
+                "ro": "Ecomuseu da Serra da Lousã",
+                "en": "Ecomuseu da Serra da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Schichten, da die Steingebäude im Winter kühl sein können; die Exponate vermitteln ein gemütliches Gefühl alter Zeiten.",
+                "hu": "Viseljen réteges, meleg ruhát, mivel a kőépületek télen hűvösek lehetnek; a kiállítások a régi idők meghitt hangulatát árasztják.",
+                "ro": "Purtați haine groase în straturi, deoarece clădirile din piatră pot fi răcoroase iarna; exponatele evocă atmosfera caldă a vremurilor trecute.",
+                "en": "Wear warm layers as the stone buildings can be chilly in winter; the exhibits provide a cozy glimpse into traditional mountain life."
+              }
+            },
+            {
+              "name": {
+                "de": "Cine-Teatro",
+                "hu": "Cine-Teatro",
+                "ro": "Cine-Teatro",
+                "en": "Cine-Teatro"
+              },
+              "tip_5lang": {
+                "de": "Ein großartiger Ort, um sich zwischen den Spaziergängen aufzuwärmen; genießen Sie das kulturelle Ambiente im beheizten Innenraum.",
+                "hu": "Nagyszerű hely a felmelegedésre a séták között; élvezze a kulturális környezetet a fűtött belső térben a téli délutánon.",
+                "ro": "Un loc excelent pentru a vă încălzi între plimbări; bucurați-vă de ambianța culturală în interiorul încălzit în după-amiaza de iarnă.",
+                "en": "A great spot to warm up between walks; enjoy the cultural ambience in the heated interior during a cold winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lousã",
+                "hu": "Pelourinho da Lousã",
+                "ro": "Pelourinho da Lousã",
+                "en": "Pelourinho da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort im hellen Mittagslicht für beste Fotos; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf den Platz.",
+                "hu": "Látogasson el ide a déli fényben a legjobb fotókért; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a történelmi térre.",
+                "ro": "Vizitați acest loc în lumina amiezii pentru cele mai bune fotografii; soarele jos de iarnă proiectează umbre lungi și dramatice în piață.",
+                "en": "Visit this spot in the bright midday light for the best photos; the low winter sun casts long, dramatic shadows across the historic square."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "hu": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "ro": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "en": "Museu Municipal Professor Álvaro Viana de Lemos"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für den späten Nachmittag, wenn es draußen kälter wird; die Kunstgalerien bieten einen warmen und inspirierenden Rückzugsort.",
+                "hu": "Tökéletes program késő délutánra, amikor kint hűvösebbé válik az idő; a művészeti galériák meleg és inspiráló menedéket nyújtanak.",
+                "ro": "Perfect pentru după-amiaza târzie, când afară se face mai frig; galeriile de artă oferă un refugiu cald și plin de inspirație.",
+                "en": "Perfect for late afternoon when it gets colder outside; the art galleries provide a warm and inspiring sanctuary from the winter chill."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro da Alameda Carlos Reis",
+                "hu": "Anfiteatro da Alameda Carlos Reis",
+                "ro": "Anfiteatro da Alameda Carlos Reis",
+                "en": "Anfiteatro da Alameda Carlos Reis"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie einen kurzen Spaziergang in der Wintersonne, bevor es um 17:00 Uhr dunkel wird; die offene Architektur wirkt im Winterlicht klar.",
+                "hu": "Tegyen egy rövid sétát a téli napsütésben, mielőtt 17:00-kor besötétedik; a nyitott építészet különösen tiszta látványt nyújt ilyenkor.",
+                "ro": "Faceți o scurtă plimbare în soarele de iarnă înainte de lăsarea întunericului la ora 17:00; arhitectura deschisă arată superb în lumina rece.",
+                "en": "Take a short stroll in the winter sun before darkness falls at 17:00; the open architecture looks particularly sharp in the crisp winter light."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje kerékpáros túráját a gasztronómiai múzeumban, ahol a regionális ízek felfedezése tökéletes alaphangot ad a további izgalmas kalandoknak.\n\nKarikázzon be a történelmi központba, pihenjen meg a szabadtéri amfiteátrumnál, majd látogasson el az Ecomuseumba és a régi Pelourinho-hoz.\n\nMiután a városi múzeumban elmerült a helyi történelemben, váltson sebességet, és tekerjen fel a hegyre a zord, ősi palakőből épült erődítményhez.\n\nFejezze be az utat az ikonikus Lousã kastély felfedezésével, amelyet sűrű, zöld erdők vesznek körül, békés menedéket nyújtva a nap végén.",
         "ro": "Începeți călătoria cu bicicleta explorând aromele regionale la muzeul de gastronomie, stabilind un ton delicios pentru aventura care vă așteaptă.\n\nPedalați spre centrul istoric pentru a vă relaxa la amfiteatrul în aer liber, urmat de o vizită culturală la Ecomuzeu și o oprire la Pelourinho.\n\nDupă ce vă cufundați în istorie la muzeul municipal, schimbați viteza și urcați spre fortăreața antică de șist, ascunsă în munți.\n\nTerminați plimbarea explorând emblematicul Castel Lousã, înconjurat de păduri verzi și dense, care oferă o retragere perfectă și liniștită la final de zi.",
         "en": "Kick off your cycling journey by delving into regional flavors at the gastronomy museum, setting a delicious tone for the adventure ahead.\n\nPedal into the historic town center to relax at the open-air amphitheater, followed by a cultural dive at the Ecomuseu and a quick stop at the Pelourinho.\n\nAfter immersing yourself in town history at the municipal museum, shift gears and cycle uphill towards the rugged and ancient schist fortress.\n\nFinish your ride exploring the iconic Lousã Castle, surrounded by dense green forests that offer a perfect, peaceful retreat as the day winds down."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Starten Sie vorsichtig am Gastronomie-Kern, da die Straßen rutschig sein können. Verbringen Sie die Mittagszeit im Schutz der Museen, um dem stärksten Regen zu entgehen. Am Nachmittag radeln Sie zum Pelourinho und beenden die Tour an der Burg, wo der Nebel eine mystische Atmosphäre schafft. Tragen Sie wasserfeste Kleidung und achten Sie auf Bremswege auf nassem Asphalt.",
+            "hu": "Kezdjen óvatosan a gasztronómiai központnál, mivel az utak csúszósak lehetnek. Töltse a délidőt a múzeumok védelmében, hogy elkerülje a heves esőzést. Délután tekerjen a Pelourinho-hoz, és zárja a túrát a várnál, ahol a köd misztikus hangulatot áraszt. Viseljen vízálló ruházatot, és figyeljen a féktávolságra a vizes aszfalton.",
+            "ro": "Începeți cu prudență la centrul gastronomic, deoarece drumurile pot fi alunecoase. Petreceți prânzul la adăpostul muzeelor pentru a evita ploaia torențială. După-amiaza, pedalați spre Pelourinho și încheiați turul la castel, unde ceața creează o atmosferă mistică. Purtați haine impermeabile și aveți grijă la distanța de frânare pe asfaltul ud.",
+            "en": "Start cautiously at the gastronomy hub, as the roads can be slippery. Spend noon sheltered in museums to avoid the heaviest rain. In the afternoon, cycle to the Pelourinho and end the tour at the castle, where the mist creates a mystical atmosphere. Wear waterproof gear and pay attention to braking distances on wet asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "hu": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "ro": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "en": "Núcleo de Gastronomia do Ecomuseu da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Fahrrad im überdachten Bereich; genießen Sie die kulinarischen Ausstellungen, während Sie darauf warten, dass der Regen nachlässt.",
+                "hu": "Parkolja le kerékpárját fedett helyen; élvezze a gasztronómiai kiállításokat, miközben várja, hogy alábbhagyjon a kinti esőzés.",
+                "ro": "Parcați bicicleta într-un loc acoperit; bucurați-vă de expozițiile culinare în timp ce așteptați ca ploaia să se domolească afară.",
+                "en": "Park your bike in a covered area; enjoy the culinary exhibits while waiting for the rain to subside before continuing your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro da Alameda Carlos Reis",
+                "hu": "Anfiteatro da Alameda Carlos Reis",
+                "ro": "Anfiteatro da Alameda Carlos Reis",
+                "en": "Anfiteatro da Alameda Carlos Reis"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren auf den nassen Steinflächen des Amphitheaters; ein kurzer Stopp für ein Foto unter einem nahegelegenen Baum reicht aus.",
+                "hu": "Kerülje a kerékpározást az amfiteátrum nedves kőfelületein; egy rövid fotómegálló egy közeli fa védelmében éppen elegendő lesz.",
+                "ro": "Evitați să pedalați pe suprafețele de piatră umede ale amfiteatrului; o oprire scurtă sub un copac din apropiere este suficientă pentru poze.",
+                "en": "Avoid cycling directly on the amphitheater's wet stone surfaces; a quick photo stop under the shelter of a nearby tree is sufficient."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseu da Serra da Lousã",
+                "hu": "Ecomuseu da Serra da Lousã",
+                "ro": "Ecomuseu da Serra da Lousã",
+                "en": "Ecomuseu da Serra da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um die Ausrüstung zu trocknen; verbringen Sie Zeit im Inneren und lernen Sie die Bergtraditionen im Schutz vor dem Regen kennen.",
+                "hu": "Ideális hely a felszerelés megszárítására; töltsön időt bent, és ismerje meg a hegyi hagyományokat az eső elől védett helyen.",
+                "ro": "Un loc ideal pentru a vă usca echipamentul; petreceți timp în interior și învățați despre tradițiile montane ferit de ploaie.",
+                "en": "An ideal spot to dry off your gear; spend time inside learning about mountain traditions while staying completely sheltered from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lousã",
+                "hu": "Pelourinho da Lousã",
+                "ro": "Pelourinho da Lousã",
+                "en": "Pelourinho da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Die Kopfsteinpflaster rund um den Pelourinho sind bei Nässe extrem rutschig; steigen Sie am besten ab und schieben Sie Ihr Rad ein kurzes Stück.",
+                "hu": "A Pelourinho körüli macskakő vizesen rendkívül csúszós; a biztonság érdekében érdemes leszállni a nyeregből és tolni a kerékpárt.",
+                "ro": "Pavelele din jurul Pelourinho sunt extrem de alunecoase când sunt ude; cel mai bine este să coborâți și să mergeți pe lângă bicicletă.",
+                "en": "The cobblestones around the Pelourinho are extremely slippery when wet; it is best to dismount and walk your bike for a short distance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "hu": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "ro": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "en": "Museu Municipal Professor Álvaro Viana de Lemos"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die lange Besuchszeit, um sich vollständig aufzuwärmen; die Ausstellungen bieten eine willkommene Pause vom anstrengenden Regenwetter.",
+                "hu": "Használja ki a hosszú látogatási időt a teljes felmelegedésre; a kiállítások üdvözlendő szünetet jelentenek a fárasztó esős időben.",
+                "ro": "Profită de timpul lung de vizită pentru a te încălzi complet; expozițiile oferă o pauză binevenită de vremea ploioasă obositoare.",
+                "en": "Take advantage of the long visit time to fully warm up; the indoor exhibits offer a welcome break from the tiring rainy weather outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo da Lousã",
+                "hu": "Castelo da Lousã",
+                "ro": "Castelo da Lousã",
+                "en": "Castelo da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Burg kann bei Regen anstrengend sein; achten Sie auf den Mauern auf den Wind und tragen Sie Schuhe mit sehr gutem Profil.",
+                "hu": "A várhoz vezető emelkedő esőben fárasztó lehet; a falakon ügyeljen az erős szélre, és viseljen jó tapadású talppal ellátott cipőt.",
+                "ro": "Urcarea la castel poate fi obositoare pe ploaie; pe ziduri aveți grijă la vânt și purtați încălțăminte cu aderență foarte bună.",
+                "en": "The climb to the castle can be strenuous in the rain; watch out for wind on the walls and wear shoes with excellent grip for safety."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein kühler Morgen auf dem Rad erfordert windfeste Kleidung. Mittags laden die Museen zu einer Pause im Warmen ein. Da es um 17:00 Uhr dunkel wird, sollten Sie die Burg spätestens um 15:30 Uhr erreichen, um den Sonnenuntergang sicher zu erleben. Genießen Sie die klare Sicht, aber denken Sie an Handschuhe für die kalte Abfahrt zurück ins Tal.",
+            "hu": "A hűvös reggeli tekeréshez szélálló ruházatra lesz szüksége. Délben a múzeumok hívogatnak egy kis melegedésre a kulturális falak között. Mivel 17:00-kor sötétedik, a várat legkésőbb 15:30-ig érje el a biztonságos naplemente-nézéshez. Élvezze a tiszta kilátást, de vigyen kesztyűt a hideg lejtőkhöz.",
+            "ro": "O dimineață răcoroasă pe bicicletă necesită haine rezistente la vânt. La prânz, muzeele vă invită la o pauză caldă între zidurile culturale. Deoarece se întunecă la ora 17:00, ajungeți la castel cel târziu la 15:30. Bucurați-vă de vizibilitatea clară, dar nu uitați mănușile pentru coborârea rece.",
+            "en": "A cool morning ride requires windproof clothing. At noon, museums invite you for a warm break among cultural walls. Since it gets dark at 17:00, reach the castle by 15:30 at the latest for a safe sunset viewing. Enjoy the clear visibility, but remember gloves for the cold descent back to town."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "hu": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "ro": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "en": "Núcleo de Gastronomia do Ecomuseu da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Start in den Tag; die kulinarischen Themen wärmen die Stimmung auf, bevor es wieder in die frische Winterluft geht.",
+                "hu": "Meleg kezdés a naphoz; a gasztronómiai témák felmelegítik a hangulatot, mielőtt újra kimerészkedne a friss téli levegőre.",
+                "ro": "Un început cald de zi; temele gastronomice vă vor încălzi starea de spirit înainte de a ieși din nou în aerul proaspăt de iarnă.",
+                "en": "A warm start to your day; the culinary themes will warm up your mood before you venture out again into the crisp winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro da Alameda Carlos Reis",
+                "hu": "Anfiteatro da Alameda Carlos Reis",
+                "ro": "Anfiteatro da Alameda Carlos Reis",
+                "en": "Anfiteatro da Alameda Carlos Reis"
+              },
+              "tip_5lang": {
+                "de": "Halten Sie sich bei der Besichtigung in Bewegung, um warm zu bleiben; die tiefstehende Wintersonne lässt die Struktur im Park hell erstrahlen.",
+                "hu": "Maradjon mozgásban a nézelődés közben, hogy megőrizze testhőjét; az alacsony téli nap fényében az építmény ragyog a parkban.",
+                "ro": "Rămâneți în mișcare în timp ce vizitați pentru a vă menține căldura; structura strălucește în lumina soarelui de iarnă în parc.",
+                "en": "Keep moving while exploring to maintain your body heat; the structure looks bright and sharp in the low winter afternoon sun."
+              }
+            },
+            {
+              "name": {
+                "de": "Ecomuseu da Serra da Lousã",
+                "hu": "Ecomuseu da Serra da Lousã",
+                "ro": "Ecomuseu da Serra da Lousã",
+                "en": "Ecomuseu da Serra da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen bieten einen guten Schutz vor dem kalten Wind; ideal, um die Muskeln aufzuwärmen, bevor es weiter zur Burg geht.",
+                "hu": "A kiállítások jó védelmet nyújtanak a hideg szél ellen; ideális hely az izmok bemelegítésére, mielőtt továbbtekerne a vár felé.",
+                "ro": "Expozițiile oferă o protecție bună împotriva vântului rece; loc ideal pentru a vă încălzi înainte de a pedala mai departe spre castel.",
+                "en": "The exhibits provide excellent protection from the cold wind; an ideal place to warm up before continuing your ride to the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lousã",
+                "hu": "Pelourinho da Lousã",
+                "ro": "Pelourinho da Lousã",
+                "en": "Pelourinho da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp in der Sonne; die kalte Winterluft sorgt für eine sehr klare Sicht auf die Details des historischen Denkmals.",
+                "hu": "Gyors fotómegálló a napsütésben; a hideg téli levegő rendkívül tiszta rálátást biztosít a történelmi emlékmű apró részleteire.",
+                "ro": "O oprire rapidă pentru poze la soare; aerul rece de iarnă oferă o vizibilitate foarte clară asupra detaliilor monumentului istoric.",
+                "en": "A quick photo stop in the sun; the cold winter air provides exceptional clarity for viewing the details of the historic monument."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "hu": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "ro": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "en": "Museu Municipal Professor Álvaro Viana de Lemos"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die gemütliche Wärme im Inneren; es ist der perfekte Ort, um sich vor dem anstrengenden letzten Anstieg des Tages auszuruhen.",
+                "hu": "Élvezze a benti meghitt meleget; ez a tökéletes hely a pihenésre a nap utolsó, megerőltető emelkedője előtt a vár felé.",
+                "ro": "Bucurați-vă de căldura primitoare din interior; este locul perfect pentru odihnă înainte de ultima urcare solicitantă a zilei.",
+                "en": "Enjoy the welcoming warmth inside; it is the perfect place to rest before the final strenuous climb of the day towards the castle."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo da Lousã",
+                "hu": "Castelo da Lousã",
+                "ro": "Castelo da Lousã",
+                "en": "Castelo da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Burg vor 17:00 Uhr für den Sonnenuntergang; ziehen Sie für die Abfahrt im Schatten der Berge eine zusätzliche Schicht an.",
+                "hu": "Érjen a várhoz 17:00 előtt a naplementére; a hegyek árnyékában zajló lejtmenethez vegyen fel egy extra réteg ruhát a kihűlés ellen.",
+                "ro": "Ajungeți la castel înainte de ora 17:00 pentru apus; puneți o haină în plus pentru coborârea la umbra munților după ce soarele apune.",
+                "en": "Reach the castle before 17:00 for the sunset; put on an extra layer for the descent in the mountain shadows as temperatures drop fast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +866,280 @@
         "hu": "Kezdje autós utazását Lousã kulturális kínálatával: látogasson el az Ecomuseumba, majd kóstoljon meg autentikus helyi ízeket a gasztronómiai központban.\n\nNavigáljon át a hangulatos városközponton, rövid megállókkal a nyüzsgő amfiteátrumnál és a központi teret meghatározó történelmi pellengérnél.\n\nDélután fedezze fel a városi múzeumot, majd vezessen fel a kanyargós hegyi utakon, hogy megcsodálja a völgyre nyíló lenyűgöző panorámát a Gevim kilátóból.\n\nZárja útját a fenséges Lousã kastélynál: élvezze a hintázást a Burgo-nál, mielőtt végignézné a lenyűgöző naplementét a hegytetőn álló kereszttől.",
         "ro": "Începeți excursia cu mașina explorând ofertele culturale din Lousã, de la Ecomuzeu până la aromele locale autentice din centrul gastronomic.\n\nNavigați prin centrul fermecător al orașului, făcând opriri scurte pentru a admira amfiteatrul vibrant și stâlpul istoric ce domină piața centrală.\n\nPetreceți după-amiaza la muzeul municipal, apoi conduceți pe drumurile montane șerpuite pentru a admira panoramele superbe de la punctul de belvedere Gevim.\n\nÎncheiați călătoria la maiestuosul Castel Lousã, bucurându-vă de leagănul Burgo înainte de a privi apusul de la crucea situată pe vârful dealului.",
         "en": "Start your road trip driving through Lousã's rich cultural offerings, beginning with the Ecomuseu before tasting authentic local flavors at the gastronomy hub.\n\nNavigate through the charming town center, taking short stops to admire the vibrant amphitheater and the historic pillory that defines the central square.\n\nSpend your afternoon exploring the comprehensive municipal museum, then drive up the winding mountain roads for stunning valley panoramas at the Gevim viewpoint.\n\nConclude your journey at the majestic Lousã Castle, taking time for a playful moment on the Burgo swing before watching the sunset from the hilltop cross."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto springen Sie bequem und trocken zwischen den Museen hin und her. Mittags genießen Sie die Gastronomie ohne nass zu werden. Am Nachmittag fahren Sie vorsichtig zu den Aussichtspunkten, da Nebel die Sicht bei Gevim einschränken kann. Die Burg wirkt im Regen besonders dramatisch. Parken Sie immer nah an den Eingängen, um unnötige Wege im Regen zu vermeiden.",
+            "hu": "Autóval kényelmesen és szárazon ugrálhat a múzeumok között. Délben élvezze a gasztronómiát anélkül, hogy megázna. Délután vezessen óvatosan a kilátókhoz, mivel a köd korlátozhatja a látási viszonyokat Gevimnél. A vár esőben különösen drámai látványt nyújt. Parkoljon közel a bejáratokhoz, hogy elkerülje a gyaloglást a szakadó esőben.",
+            "ro": "Cu mașina puteți trece confortabil și uscat între muzee. La prânz, bucurați-vă de gastronomie fără să vă udați. După-amiaza, conduceți cu atenție spre punctele de belvedere, deoarece ceața poate limita vizibilitatea la Gevim. Castelul arată deosebit de dramatic pe ploaie. Parcați aproape de intrări pentru a evita mersul prin ploaie.",
+            "en": "By car, you can comfortably jump between museums while staying dry. At noon, enjoy the local gastronomy without getting wet. In the afternoon, drive carefully to the viewpoints, as mist may limit visibility at Gevim. The castle looks particularly dramatic in the rain. Park close to the entrances to avoid unnecessary walking in the downpour."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecomuseu da Serra da Lousã",
+                "hu": "Ecomuseu da Serra da Lousã",
+                "ro": "Ecomuseu da Serra da Lousã",
+                "en": "Ecomuseu da Serra da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt am Eingang; so gelangen Sie trocken in die Ausstellungsräume und können das Bergpanorama geschützt genießen.",
+                "hu": "Parkoljon közvetlenül a bejáratnál; így szárazon juthat be a kiállítótermekbe, és védett helyről csodálhatja meg a hegyi panorámát.",
+                "ro": "Parcați direct la intrare; astfel veți intra uscat în sălile de expoziție și veți putea admira panorama montană de la adăpost.",
+                "en": "Park directly by the entrance; this way you can stay dry while entering the exhibit halls and enjoy the mountain views under cover."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "hu": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "ro": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "en": "Núcleo de Gastronomia do Ecomuseu da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp für Regentage; genießen Sie die kulinarische Geschichte in einem warmen, trockenen Umfeld mit einfachem Parkzugang.",
+                "hu": "Ideális megálló esős napokra; élvezze a gasztronómiai történelmet meleg, száraz környezetben, könnyen elérhető parkolóval.",
+                "ro": "O oprire ideală pentru zilele ploioase; bucurați-vă de istoria culinară într-un mediu cald și uscat, cu parcare ușor accesibilă.",
+                "en": "An ideal stop for rainy days; enjoy the culinary history in a warm, dry environment with very easy parking access right outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro da Alameda Carlos Reis",
+                "hu": "Anfiteatro da Alameda Carlos Reis",
+                "ro": "Anfiteatro da Alameda Carlos Reis",
+                "en": "Anfiteatro da Alameda Carlos Reis"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie ein schnelles Foto aus dem Auto oder unter den Arkaden; die moderne Struktur wirkt im Regen grau und minimalistisch.",
+                "hu": "Készítsen egy gyors fotót az autóból vagy az árkádok alól; a modern építmény esőben szürkés és minimalista hatást kelt.",
+                "ro": "Faceți o fotografie rapidă din mașină sau de sub arcade; structura modernă are un aspect gri și minimalist pe timp de ploaie.",
+                "en": "Take a quick photo from the car or under the nearby arcades; the modern structure has a grey, minimalist feel in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lousã",
+                "hu": "Pelourinho da Lousã",
+                "ro": "Pelourinho da Lousã",
+                "en": "Pelourinho da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Halt am Straßenrand möglich; steigen Sie nur kurz für die Besichtigung aus, da der Platz bei Regen wenig Schutz bietet.",
+                "hu": "Rövid megállás lehetséges az út szélén; csak egy pillanatra szálljon ki, mivel a tér esőben kevés menedéket nyújt a látogatóknak.",
+                "ro": "Oprire scurtă posibilă la marginea drumului; coborâți doar un moment, deoarece piața oferă puțin adăpost pe timp de ploaie.",
+                "en": "A short roadside stop is possible; dismount only briefly for the visit, as the square offers little shelter during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "hu": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "ro": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "en": "Museu Municipal Professor Álvaro Viana de Lemos"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um den stärksten Regen abzuwarten; parken Sie in der Nähe und tauchen Sie stundenlang in die Kunstgeschichte ein.",
+                "hu": "Tökéletes hely a heves eső kivárására; parkoljon a közelben, és merüljön el órákra a művészettörténetben szárazon.",
+                "ro": "Locul perfect pentru a aștepta trecerea ploii; parcați în apropiere și scufundați-vă timp de câteva ore în istoria artei.",
+                "en": "A perfect place to wait out the heaviest rain; park nearby and immerse yourself for hours in art history while staying dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro de Gevim",
+                "hu": "Miradouro de Gevim",
+                "ro": "Miradouro de Gevim",
+                "en": "Miradouro de Gevim"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die nebligen Aussichten direkt aus dem Auto; der Nebel verleiht den Bergen eine geheimnisvolle, fast magische Stimmung.",
+                "hu": "Élvezze a ködös kilátást közvetlenül az autóból; a pára és a felhők titokzatos, szinte varázslatos hangulatot kölcsönöznek a hegyeknek.",
+                "ro": "Bucurați-vă de vederea cețoasă direct din mașină; ceața oferă munților o atmosferă misterioasă, aproape magică, în aceste momente.",
+                "en": "Enjoy the misty views directly from the comfort of your car; the fog gives the mountains a mysterious, almost magical atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo da Lousã",
+                "hu": "Castelo da Lousã",
+                "ro": "Castelo da Lousã",
+                "en": "Castelo da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht beim Gehen auf den nassen Steinen der Burg; nutzen Sie die überdachten Bereiche der Ruine, um das Panorama zu genießen.",
+                "hu": "Legyen óvatos a vár nedves kövein; használja a romok fedettebb részeit a panoráma megtekintéséhez, miközben hallgatja az esőt.",
+                "ro": "Atenție la mersul pe pietrele umede ale castelului; folosiți părțile mai acoperite ale ruinelor pentru a admira panorama montană.",
+                "en": "Be careful when walking on the castle's wet stones; use the more sheltered parts of the ruins to enjoy the mountain panorama safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço do Burgo",
+                "hu": "Baloiço do Burgo",
+                "ro": "Baloiço do Burgo",
+                "en": "Baloiço do Burgo"
+              },
+              "tip_5lang": {
+                "de": "Das Schaukeln im Regen ist ein Erlebnis, aber die Sitze werden nass sein; bringen Sie ein Handtuch oder eine wasserfeste Unterlage mit.",
+                "hu": "Az esőben való hintázás különleges élmény, de az ülés vizes lesz; vigyen magával törölközőt vagy vízálló alátétet a használathoz.",
+                "ro": "Leagănul în ploaie este o experiență aparte, dar scaunul va fi ud; aduceți un prosop sau un suport impermeabil pentru a-l folosi.",
+                "en": "Swinging in the rain is a unique experience, but the seat will be wet; bring a towel or waterproof pad to keep yourself dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Cruz",
+                "hu": "Miradouro da Cruz",
+                "ro": "Miradouro da Cruz",
+                "en": "Miradouro da Cruz"
+              },
+              "tip_5lang": {
+                "de": "Oft hängen die Wolken hier tief; bleiben Sie im Auto für einen ruhigen Moment mit Blick auf das Regenwetter über dem Tal.",
+                "hu": "Itt gyakran alacsonyan szállnak a felhők; maradjon az autóban egy csendes pillanatra, és nézze a völgy feletti esős tájat.",
+                "ro": "Aici norii sunt adesea joși; rămâneți în mașină pentru un moment liniștit, privind peisajul ploios de deasupra văii.",
+                "en": "Clouds often hang low here; stay in your car for a quiet moment, watching the rainy weather sweep across the valley below."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Genießen Sie die Panoramafahrt durch die kühlen Berge in einem beheizten Auto. Mittags bieten die Museen eine kulturelle Pause im Warmen. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie die Aussichtspunkte Gevim und Cruz für den späten Nachmittag ein, um das Winterlicht zu nutzen. Die Burg ist bei Sonnenuntergang besonders fotogen. Beenden Sie den Tag gemütlich in der Stadt.",
+            "hu": "Élvezze a panorámás autózást a hűvös hegyekben a fűtött kocsiból. Délben a múzeumok kínálnak kulturális pihenőt a melegben. Mivel a nap 17:00 körül nyugszik, a Gevim és Cruz kilátókat késő délutánra időzítse a téli fények miatt. A vár naplementekor különösen fotogén. Zárja a napot kényelmesen a városközpontban.",
+            "ro": "Bucurați-vă de drumul panoramic prin munții răcoroși din mașina încălzită. La prânz, muzeele oferă o pauză culturală la căldură. Deoarece soarele apune în jur de ora 17:00, planificați punctele de belvedere Gevim și Cruz pentru după-amiaza târzie. Castelul este deosebit de fotogenic la apus. Încheiați ziua confortabil în centrul orașului.",
+            "en": "Enjoy the scenic drive through the cool mountains from the comfort of your heated car. At noon, museums offer a warm cultural break. Since the sun sets around 17:00, schedule the Gevim and Cruz viewpoints for late afternoon to capture the winter light. The castle is especially photogenic at sunset. End your day comfortably in the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Ecomuseu da Serra da Lousã",
+                "hu": "Ecomuseu da Serra da Lousã",
+                "ro": "Ecomuseu da Serra da Lousã",
+                "en": "Ecomuseu da Serra da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Ein warmer Start in den Tag; die Steingebäude halten die Winterkälte draußen, während Sie die Bergkultur drinnen entdecken.",
+                "hu": "Meleg kezdés a naphoz; a kőépületek kint tartják a téli hideget, miközben Ön bent felfedezi a gazdag hegyi kultúrát.",
+                "ro": "Un început cald de zi; clădirile din piatră țin frigul iernii afară, în timp ce explorați cultura montană bogată în interior.",
+                "en": "A warm start to your day; the stone buildings keep the winter chill out while you explore the rich mountain culture inside."
+              }
+            },
+            {
+              "name": {
+                "de": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "hu": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "ro": "Núcleo de Gastronomia do Ecomuseu da Lousã",
+                "en": "Núcleo de Gastronomia do Ecomuseu da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die herzhafte Winterküche der Region kennen; die Ausstellungen vermitteln ein Gefühl von Wärme und Tradition an kalten Tagen.",
+                "hu": "Ismerje meg a régió kiadós téli konyháját; a kiállítások a melegség és a hagyomány érzését közvetítik a hideg téli napokon.",
+                "ro": "Învățați despre bucătăria consistentă de iarnă a regiunii; expozițiile transmit o senzație de căldură și tradiție în zilele reci.",
+                "en": "Learn about the region's hearty winter cuisine; the exhibits convey a sense of warmth and tradition during cold winter days."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro da Alameda Carlos Reis",
+                "hu": "Anfiteatro da Alameda Carlos Reis",
+                "ro": "Anfiteatro da Alameda Carlos Reis",
+                "en": "Anfiteatro da Alameda Carlos Reis"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort im hellen Mittagslicht; die moderne Architektur steht im klaren Kontrast zum blauen, kalten Winterhimmel.",
+                "hu": "Látogasson el ide a ragyogó déli fényben; a modern építészet tiszta kontrasztban áll a kék, hideg téli égbolttal a parkban.",
+                "ro": "Vizitați acest loc în lumina strălucitoare a amiezii; arhitectura modernă contrastează clar cu cerul albastru și rece de iarnă.",
+                "en": "Visit this spot in the bright midday light; the modern architecture stands in sharp contrast to the blue, cold winter sky."
+              }
+            },
+            {
+              "name": {
+                "de": "Pelourinho da Lousã",
+                "hu": "Pelourinho da Lousã",
+                "ro": "Pelourinho da Lousã",
+                "en": "Pelourinho da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Stopp für ein Foto; die Wintersonne wirft lange Schatten und bringt die Textur des alten Steins wunderschön zur Geltung.",
+                "hu": "Gyors megálló egy fotóra; a téli nap hosszú árnyékokat vet, és gyönyörűen kiemeli a régi kőoszlop történelmi textúráját.",
+                "ro": "O oprire rapidă pentru o poză; soarele de iarnă proiectează umbre lungi și evidențiază frumos textura vechii pietre a monumentului.",
+                "en": "A quick photo stop; the winter sun casts long shadows and beautifully highlights the historic texture of the ancient stone pillar."
+              }
+            },
+            {
+              "name": {
+                "de": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "hu": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "ro": "Museu Municipal Professor Álvaro Viana de Lemos",
+                "en": "Museu Municipal Professor Álvaro Viana de Lemos"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich am Nachmittag aufzuwärmen; genießen Sie die Kunstschätze in der beheizten und ruhigen Museumsatmosphäre.",
+                "hu": "A tökéletes hely a felmelegedésre délután; élvezze a művészeti kincseket a fűtött és csendes múzeumi környezetben a városban.",
+                "ro": "Locul perfect pentru a vă încălzi după-amiaza; bucurați-vă de comorile de artă în mediul încălzit și liniștit al muzeului.",
+                "en": "The perfect place to warm up in the afternoon; enjoy the art treasures in the heated and peaceful museum environment in town."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro de Gevim",
+                "hu": "Miradouro de Gevim",
+                "ro": "Miradouro de Gevim",
+                "en": "Miradouro de Gevim"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht ist im Winter oft klarer; steigen Sie kurz für ein Foto aus und genießen Sie die kühle Brise der Serra da Lousã.",
+                "hu": "A kilátás télen gyakran sokkal tisztább; szálljon ki egy rövid fotóra, és élvezze a Serra da Lousã friss, hűvös szellőjét.",
+                "ro": "Vederea este adesea mai clară iarna; coborâți scurt pentru o poză și bucurați-vă de briza proaspătă a munților Serra da Lousã.",
+                "en": "The view is often much clearer in winter; hop out for a quick photo and enjoy the fresh, cool breeze of the Serra da Lousã."
+              }
+            },
+            {
+              "name": {
+                "de": "Castelo da Lousã",
+                "hu": "Castelo da Lousã",
+                "ro": "Castelo da Lousã",
+                "en": "Castelo da Lousã"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Burg gegen 16:30 Uhr; die untergehende Wintersonne taucht die Mauern in ein warmes, goldenes Licht für perfekte Bilder.",
+                "hu": "Látogassa meg a várat 16:30 körül; a lemenő téli nap meleg, arany fénybe vonja a falakat a tökéletes fényképek készítéséhez.",
+                "ro": "Vizitați castelul în jurul orei 16:30; soarele care apune scaldă zidurile într-o lumină caldă, aurie, perfectă pentru fotografii.",
+                "en": "Visit the castle around 16:30; the setting winter sun bathes the walls in a warm, golden light perfect for memorable photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Baloiço do Burgo",
+                "hu": "Baloiço do Burgo",
+                "ro": "Baloiço do Burgo",
+                "en": "Baloiço do Burgo"
+              },
+              "tip_5lang": {
+                "de": "Ein schöner Ort auch im Winter; da es früh dunkel wird, sollten Sie diesen Stopp direkt nach der Burgbesichtigung machen.",
+                "hu": "Szép hely télen is; mivel korán sötétedik, érdemes ezt a megállót közvetlenül a vár megtekintése utánra időzíteni a fények miatt.",
+                "ro": "Un loc frumos și iarna; deoarece se întunecă devreme, merită să programați această oprire imediat după vizitarea castelului.",
+                "en": "A beautiful spot even in winter; as it gets dark early, schedule this stop immediately after the castle visit for best light."
+              }
+            },
+            {
+              "name": {
+                "de": "Miradouro da Cruz",
+                "hu": "Miradouro da Cruz",
+                "ro": "Miradouro da Cruz",
+                "en": "Miradouro da Cruz"
+              },
+              "tip_5lang": {
+                "de": "Erreichen Sie die Kreuzung vor 17:00 Uhr für den Sonnenuntergang; bleiben Sie wegen des kalten Windes nach dem Foto in Autonähe.",
+                "hu": "Érkezzen meg 17:00 előtt, hogy elkapja a téli naplementét; a hideg szél miatt maradjon a kocsi közelében a gyors fotózás után.",
+                "ro": "Ajungeți înainte de ora 17:00 pentru a vedea apusul; din cauza vântului rece, rămâneți lângă mașină după o sesiune rapidă de poze.",
+                "en": "Reach the cross before 17:00 to catch the winter sunset; due to the cold wind, stay near the car after a quick photo session."
+              }
+            }
+          ]
+        }
       }
     }
   }

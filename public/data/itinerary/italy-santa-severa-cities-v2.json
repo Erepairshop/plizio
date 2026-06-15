@@ -183,6 +183,224 @@
         "hu": "A napja a lenyűgöző Castello di Santa Severa kastélynál kezdődik, tengeri szellő kíséretében. Délelőtt a Museo del Mare tengeri kiállításain és az Antiquarium kincsein ámulhat. A délután folyamán bejárhatja Pyrgi lenyűgöző ásatásait és a történelmi templomokat. Zárásként a festői strandon pihenhet, miközben a lemenő nap sugarai festik meg az eget.",
         "ro": "Ziua începe la impresionantul Castello di Santa Severa, mângâiat de briza mării. Dimineața explorați expozițiile maritime de la Museo del Mare și comorile din Antiquarium. După-amiaza vă conduce prin săpăturile fascinante de la Pyrgi și prin temple istorice. Seara, vă relaxați pe plajă și admirați apusul de soare cu castelul pe fundal.",
         "en": "Your day begins at the impressive Castello di Santa Severa, awakened by the sea breeze. In the morning, immerse yourself in maritime history at the Museo del Mare and the Antiquarium. The afternoon takes you through the fascinating excavations of Pyrgi and ancient temples. Finally, relax on the beach and enjoy a spectacular sunset over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Tag beginnt im geschützten Innenhof der Burg, während der Regen gegen die alten Mauern peitscht. Mittags bieten die Museen trockene Zuflucht und faszinierende Einblicke. Nachmittags erkunden Sie die Ruinen mit festem Schirm, da die antiken Pfade rutschig sein können. Am Abend bietet der stürmische Blick auf das graue Meer von der Küste aus eine dramatische und unvergessliche Kulisse.",
+            "hu": "A napot a vár védett udvarán kezdjük, miközben az eső kopog az ősi falakon. Délben a múzeumok nyújtanak száraz menedéket és izgalmas tárlatokat. Délután a romok felfedezéséhez stabil esernyő kell, mert az antik kövek csúszósak lehetnek. Este a viharos, szürke tenger látványa a partról drámai és felejthetetlen lezárást kínál a vízhatlan ruhában sétálóknak.",
+            "ro": "Ziua începe în curtea protejată a castelului, în timp ce ploaia bate în zidurile vechi. La prânz, muzeele oferă un refugiu uscat și exponate fascinante. După-amiaza, explorarea ruinelor necesită o umbrelă solidă, deoarece potecile antice pot deveni alunecoase. Seara, vederea mării furtunoase de pe coastă oferă un decor dramatic și de neuitat sub protecția hainei impermeabile.",
+            "en": "The day begins in the castle's sheltered courtyard as rain drums against the ancient walls. At noon, the museums provide a dry sanctuary and fascinating indoor exhibits. Afternoon ruins exploration requires a sturdy umbrella, as ancient paths can be slippery when wet. In the evening, the view of the stormy grey sea from the shore offers a dramatic and unforgettable finale for those in waterproof gear."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Santa Severa",
+                "hu": "Castello di Santa Severa",
+                "ro": "Castello di Santa Severa",
+                "en": "Castello di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die überdachten Säle der Burg, um trocken zu bleiben; achten Sie auf die rutschigen Stufen im Außenbereich bei Nässe.",
+                "hu": "Fedezd fel a vár fedett termeit, hogy száraz maradj; esőben különösen ügyelj a külső lépcsők csúszós felületére.",
+                "ro": "Explorează sălile acoperite ale castelului pentru a rămâne uscat; atenție sporită la treptele exterioare care devin alunecoase pe ploaie.",
+                "en": "Explore the castle's covered halls to stay dry; take extra care on the exterior steps which become very slippery in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare e della Navigazione Antica",
+                "hu": "Museo del Mare e della Navigazione Antica",
+                "ro": "Museo del Mare e della Navigazione Antica",
+                "en": "Museo del Mare e della Navigazione Antica"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel bei Regen, da alle Exponate im Innenbereich liegen; nutzen Sie die Zeit für eine detaillierte Besichtigung der Funde.",
+                "hu": "Ideális célpont esőben, mivel minden tárlat fedett helyen van; használd ki az időt a leletek részletes megtekintésére.",
+                "ro": "Destinația ideală pe ploaie, deoarece toate exponatele sunt la interior; profită de timp pentru o vizionare detaliată a descoperirilor.",
+                "en": "The perfect rainy day stop as all exhibits are indoors; take your time to examine the ancient maritime finds in detail."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiquarium Pyrgense",
+                "hu": "Antiquarium Pyrgense",
+                "ro": "Antiquarium Pyrgense",
+                "en": "Antiquarium Pyrgense"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antiken Artefakte im trockenen Innenraum; ein stabiler Regenschirm ist für den kurzen Weg zwischen den Gebäuden nötig.",
+                "hu": "Csodáld meg az antik műtárgyakat a száraz belső térben; a védett épületek közötti rövid úthoz egy stabil esernyő szükséges.",
+                "ro": "Admiră artefactele antice în spațiul interior uscat; o umbrelă solidă este necesară pentru drumul scurt dintre clădiri.",
+                "en": "Admire the ancient artifacts in the dry interior; a sturdy umbrella is needed for the short walk between the sheltered buildings."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti della Porta Alsium",
+                "hu": "Resti della Porta Alsium",
+                "ro": "Resti della Porta Alsium",
+                "en": "Resti della Porta Alsium"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Ruinen zügig und tragen Sie wasserfeste Schuhe, da sich in den Vertiefungen des antiken Bodens Pfützen bilden.",
+                "hu": "Tekintsd meg gyorsan a romokat és viselj vízálló cipőt, mivel az antik talaj mélyedéseiben könnyen megáll az esővíz.",
+                "ro": "Vizitează rapid ruinele și poartă încălțăminte impermeabilă, deoarece în adânciturile solului antic se formează ușor bălți.",
+                "en": "View the ruins briefly and wear waterproof shoes, as puddles quickly form in the depressions of the ancient ground surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyrgi",
+                "hu": "Pyrgi",
+                "ro": "Pyrgi",
+                "en": "Pyrgi"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen wirken im Regen mystisch, aber Vorsicht vor Matsch; halten Sie sich an die befestigten Pfade für besseren Halt.",
+                "hu": "Az ásatások misztikusak az esőben, de vigyázz a sárral; maradj a kijelölt ösvényeken a biztosabb haladás érdekében.",
+                "ro": "Săpăturile par mistice pe ploaie, dar atenție la noroi; rămâi pe potecile stabilite pentru o aderență mai bună la mers.",
+                "en": "The excavations look mystical in the rain, but watch out for mud; stick to the paved paths for better footing and safety."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple B",
+                "hu": "Temple B",
+                "ro": "Temple B",
+                "en": "Temple B"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzes Innehalten an den Fundamenten reicht heute aus; ein Regenponcho schützt Sie am besten vor dem seitlich peitschenden Wind.",
+                "hu": "Egy rövid megálló az alapoknál ma elegendő; egy esőponcsó védi meg legjobban a testet az oldalról fújó nedves széltől.",
+                "ro": "O scurtă oprire la fundații este suficientă astăzi; o pelerină de ploaie te protejează cel mai bine de vântul umed din lateral.",
+                "en": "A brief stop at the foundations is enough today; a rain poncho will best protect you from the driving wind and rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Santa Severa",
+                "hu": "Spiaggia di Santa Severa",
+                "ro": "Spiaggia di Santa Severa",
+                "en": "Spiaggia di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das tosende Meer aus sicherer Entfernung; wasserdichte Kleidung ist hier wegen der aufwirbelnden Gischt unverzichtbar.",
+                "hu": "Élvezd a morajló tengert biztonságos távolságból; a vízálló ruházat itt elengedhetetlen a felcsapó permet és a pára miatt.",
+                "ro": "Bucură-te de marea zgomotoasă de la o distanță sigură; îmbrăcămintea impermeabilă este esențială aici din cauza vaporilor de apă.",
+                "en": "Enjoy the roaring sea from a safe distance; waterproof clothing is essential here due to the salt spray and high humidity."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen am Meer ist klar und erfrischend, ideal für den Burgbesuch in der milden Sonne. Mittags wärmen Sie sich in den Museen auf, während das Licht weicher wird. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten die Ruinen früh besucht werden. Der Abend klingt bei einem kühlen Strandspaziergang aus, wobei die klare Winterluft die Sicht auf den Horizont schärft.",
+            "hu": "A téli reggel a tengerparton frissítő és tiszta, ideális a vár látogatásához a gyenge napsütésben. Délben a múzeumokban melegedhetünk fel, miközben a fények lágyabbá válnak. Mivel a nap már 17:00 körül lemegy, a romokat korán érdemes bejárni. Az este egy hűvös tengerparti sétával zárul, ahol a tiszta téli levegőben élesebb a látóhatár.",
+            "ro": "Dimineața de iarnă la malul mării este revigorantă și senină, ideală pentru vizitarea castelului sub soarele blând. La prânz, ne încălzim în muzee în timp ce lumina devine mai caldă. Deoarece soarele apune deja în jurul orei 17:00, ruinele trebuie vizitate devreme. Seara se încheie cu o plimbare răcoroasă pe plajă, unde aerul curat de iarnă clarifică orizontul.",
+            "en": "The winter morning by the sea is crisp and clear, ideal for visiting the castle in the mild sunlight. At noon, warm up inside the museums as the daylight softens. Since the sun sets around 5:00 PM, the ruins should be visited early to avoid the dark. The evening ends with a brisk beach walk, where the clear winter air sharpens the view of the distant horizon."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Santa Severa",
+                "hu": "Castello di Santa Severa",
+                "ro": "Castello di Santa Severa",
+                "en": "Castello di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die sonnigen Abschnitte im Burghof; tragen Sie eine winddichte Jacke gegen die kühle Meeresbrise an den Mauern.",
+                "hu": "Használd ki a napsütéses pillanatokat a várudvaron; viselj szélálló kabátot a falak mentén fújó hűvös tengeri szellő ellen.",
+                "ro": "Profită de momentele însorite din curtea castelului; poartă o jachetă rezistentă la vânt împotriva brizelor reci de lângă ziduri.",
+                "en": "Make the most of the sunny intervals in the courtyard; wear a windproof jacket against the chilly sea breeze along the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare e della Navigazione Antica",
+                "hu": "Museo del Mare e della Navigazione Antica",
+                "ro": "Museo del Mare e della Navigazione Antica",
+                "en": "Museo del Mare e della Navigazione Antica"
+              },
+              "tip_5lang": {
+                "de": "Die beheizten Ausstellungsräume bieten eine ideale Pause von der Kälte; nehmen Sie sich Zeit für die antiken Schifffahrtsgeschichten.",
+                "hu": "A fűtött kiállítóterek ideális pihenőt nyújtanak a hideg után; szánj időt az antik hajózási történetek alapos megismerésére.",
+                "ro": "Spațiile de expoziție încălzite oferă o pauză ideală de la frig; acordă timp explorării poveștilor navigației antice la căldură.",
+                "en": "The heated exhibition spaces offer an ideal break from the cold; take your time to learn about ancient seafaring history in comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiquarium Pyrgense",
+                "hu": "Antiquarium Pyrgense",
+                "ro": "Antiquarium Pyrgense",
+                "en": "Antiquarium Pyrgense"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe der Nebensaison in den Innenräumen; eine warme Mütze ist beim Verlassen des Gebäudes wegen des Windes ratsam.",
+                "hu": "Élvezd az utószezon nyugalmát a belső terekben; az épület elhagyásakor egy meleg sapka ajánlott az erős tengeri szél miatt.",
+                "ro": "Bucură-te de liniștea extrasezonului în spațiile interioare; la ieșirea din clădire se recomandă o căciulă caldă din cauza vântului.",
+                "en": "Enjoy the off-season tranquility indoors; a warm hat is recommended when leaving the building due to the biting coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Resti della Porta Alsium",
+                "hu": "Resti della Porta Alsium",
+                "ro": "Resti della Porta Alsium",
+                "en": "Resti della Porta Alsium"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:00 Uhr, um das letzte Tageslicht zu nutzen; feste Wanderschuhe schützen vor dem kalten Boden.",
+                "hu": "Látogasd meg ezt a helyet 16:00 előtt, hogy kihasználd az utolsó fényeket; a vastag talpú cipő véd a talaj hidegétől.",
+                "ro": "Vizitează acest loc înainte de ora 16:00 pentru a profita de ultima lumină; încălțămintea cu talpă groasă protejează de frigul solului.",
+                "en": "Visit this site before 4:00 PM to catch the remaining daylight; thick-soled boots will protect your feet from the cold ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyrgi",
+                "hu": "Pyrgi",
+                "ro": "Pyrgi",
+                "en": "Pyrgi"
+              },
+              "tip_5lang": {
+                "de": "Die antike Stadt wirkt im Winterlicht besonders plastisch; ziehen Sie sich nach dem Zwiebelprinzip an, um warm zu bleiben.",
+                "hu": "Az antik város a téli fényekben különlegesen fest; öltözz rétegesen, hogy a nyílt területen is megőrizd a testhőmérsékletedet.",
+                "ro": "Orașul antic arată spectaculos în lumina iernii; îmbracă-te în straturi pentru a-ți menține temperatura corpului în zona deschisă.",
+                "en": "The ancient city looks particularly striking in the winter light; dress in layers to stay warm while exploring the open areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Temple B",
+                "hu": "Temple B",
+                "ro": "Temple B",
+                "en": "Temple B"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie lange Standzeiten im ungeschützten Gelände; ein schneller Rundgang ist bei den winterlichen Temperaturen am angenehmsten.",
+                "hu": "Kerüld a hosszú álldogálást a nyílt, védtelen terepen; a téli hőmérsékletben egy gyors körbejárás a legkellemesebb opció.",
+                "ro": "Evită staționarea prelungită în terenul deschis și neprotejat; un tur rapid este cel mai plăcut la temperaturile de iarnă.",
+                "en": "Avoid standing still for too long in the unsheltered terrain; a brisk walk around the site is best in these winter temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Santa Severa",
+                "hu": "Spiaggia di Santa Severa",
+                "ro": "Spiaggia di Santa Severa",
+                "en": "Spiaggia di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den Sonnenuntergang gegen 17:00 Uhr; bringen Sie eine Thermoskanne mit Tee für die kühle Abendstunde am Strand mit.",
+                "hu": "Éld át a naplementét 17:00 körül; hozz magaddal egy termosz forró teát a hűvös esti tengerparti pillanatokhoz.",
+                "ro": "Experimentează apusul în jurul orei 17:00; adu un termos cu ceai fierbinte pentru momentele răcoroase de seară de pe plajă.",
+                "en": "Watch the sunset around 5:00 PM; bring a thermos of hot tea to stay warm during the chilly evening hour on the beach."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -337,6 +555,196 @@
         "hu": "Aktívan indul a nap a Villa Romana I Grottini ősi romjainál. Egy rövid tekerés elviszi az Il Marinaio pihenőhelyre. Dél körül eléri a lenyűgöző tengerparti kastélyt és a hajózási múzeumot. Pyrgi ősi kikötővárosának felfedezése után a Castrum Carcari erődítmény felé veszi az irányt, ahol egy békés környezetben zárhatja a napot.",
         "ro": "Începeți activ la ruinele Villa Romana I Grottini. O scurtă plimbare vă duce la locul de relaxare Il Marinaio de pe coastă. La prânz ajungeți la impresionantul castel pe malul mării și la muzeul maritim. După ce explorați orașul antic Pyrgi, pedalați spre Castrum Carcari, o fortificație liniștită unde vă veți încheia ziua.",
         "en": "Start actively at the ancient ruins of Villa Romana I Grottini before riding to the relaxing coastal spot of Il Marinaio. Around noon, you will reach the majestic seaside castle and the adjacent maritime museum. After exploring the ancient port of Pyrgi, cycle towards Castrum Carcari, where your day concludes in a peaceful, historic setting."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen auf dem Rad erfordert Vorsicht auf nassen Straßen zu den römischen Villen. Mittags dient das Castello als großzügiger Unterstand vor den Schauern. Nachmittags geht es auf kürzeren Wegen zwischen den Museen weiter, um die Regenzeit zu minimieren. Der Abend endet mit einer vorsichtigen Fahrt zurück, wobei helle Kleidung und gute Beleuchtung bei schlechter Sicht wichtig sind.",
+            "hu": "A reggeli kerékpározás óvatosságot igényel a nedves utakon a római villák felé. Délben a vár tágas udvara nyújt menedéket a záporok elől. Délután rövidebb útvonalakon haladunk a múzeumok között, hogy minimalizáljuk az esőben töltött időt. Az este óvatos visszatekeréssel zárul, ahol a láthatósági mellény és a jó világítás alapfeltétel a rossz látási viszonyok között.",
+            "ro": "Dimineața pe bicicletă necesită prudență pe drumurile umede spre vilele romane. La prânz, castelul servește ca adăpost generos împotriva averselor. După-amiaza continuăm pe trasee mai scurte între muzee pentru a minimiza timpul petrecut în ploaie. Seara se încheie cu o întoarcere atentă, unde vestele reflectorizante și iluminarea bună sunt esențiale în condiții de vizibilitate redusă.",
+            "en": "The morning bike ride requires caution on wet roads leading to the Roman villas. At noon, the castle serves as a spacious shelter from the rain showers. In the afternoon, stick to shorter routes between museums to minimize time spent in the rain. The evening concludes with a careful ride back, making high-visibility gear and good lighting essential in low visibility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Romana \"I Grottini\"",
+                "hu": "Villa Romana \"I Grottini\"",
+                "ro": "Villa Romana \"I Grottini\"",
+                "en": "Villa Romana \"I Grottini\""
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf unbefestigten Wegen auf Schlaglöcher und Pfützen; prüfen Sie Ihre Bremsen vor der Abfahrt auf ihre Wirksamkeit bei Nässe.",
+                "hu": "A kiépítetlen utakon ügyelj a kátyúkra és tócsákra; indulás előtt ellenőrizd a fékek hatékonyságát a nedves felületeken.",
+                "ro": "Atenție la gropi și bălți pe drumurile neamenajate; verifică eficiența frânelor înainte de plecare pe suprafețe umede.",
+                "en": "Watch out for potholes and puddles on unpaved paths; check your brake efficiency on wet surfaces before starting your ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Marinaio",
+                "hu": "Il Marinaio",
+                "ro": "Il Marinaio",
+                "en": "Il Marinaio"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie hier Schutz unter den Markisen; wischen Sie den Sattel vor der Weiterfahrt trocken, um Komfort zu bewahren.",
+                "hu": "Keress menedéket az előtetők alatt; a továbbindulás előtt töröld szárazra a nyerget a kényelmesebb folytatás érdekében.",
+                "ro": "Caută adăpost sub copertine; șterge șaua înainte de a pleca mai departe pentru a menține confortul în timpul mersului.",
+                "en": "Look for shelter under the awnings here; wipe your saddle dry before moving on to maintain comfort for the rest of the trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Santa Severa",
+                "hu": "Castello di Santa Severa",
+                "ro": "Castello di Santa Severa",
+                "en": "Castello di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradständer, falls vorhanden; im Inneren der Burg können Sie sich gut von der Regenfahrt erholen.",
+                "hu": "Használd a fedett kerékpártárolót, ha elérhető; a vár belsejében jól kipihenheted az esős tekerés fáradalmait és megszárítkozhatsz.",
+                "ro": "Folosește suportul de biciclete acoperit dacă este disponibil; în interiorul castelului te poți odihni și usca după drumul prin ploaie.",
+                "en": "Use covered bike parking if available; inside the castle, you can take a good break and dry off from the rainy ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare e della Navigazione Antica",
+                "hu": "Museo del Mare e della Navigazione Antica",
+                "ro": "Museo del Mare e della Navigazione Antica",
+                "en": "Museo del Mare e della Navigazione Antica"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Trockene zu kommen; drinnen sind Sie sicher vor Windböen geschützt.",
+                "hu": "Parkolj minél közelebb a bejárathoz, hogy gyorsan fedett helyre érj; odabent biztos védelmet kapsz az erős széllökések ellen.",
+                "ro": "Parchează cât mai aproape de intrare pentru a ajunge rapid la adăpost; în interior ești protejat de rafalele puternice de vânt.",
+                "en": "Park as close to the entrance as possible to reach shelter quickly; inside, you'll be safely protected from the wind gusts."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyrgi",
+                "hu": "Pyrgi",
+                "ro": "Pyrgi",
+                "en": "Pyrgi"
+              },
+              "tip_5lang": {
+                "de": "Vorsicht auf den Zufahrtswegen, die rutschig sein können; halten Sie Abstand zu anderen Radfahrern bei schlechter Bodenhaftung.",
+                "hu": "Vigyázz a bekötőutakon, amik nagyon csúszósak lehetnek; tarts nagyobb követési távolságot a rossz tapadási viszonyok miatt.",
+                "ro": "Atenție pe drumurile de acces care pot fi foarte alunecoase; păstrează o distanță mai mare între biciclete din cauza aderenței scăzute.",
+                "en": "Be careful on the access roads, which can be very slippery; maintain a greater following distance due to poor traction conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Castrum Carcari",
+                "hu": "Castrum Carcari",
+                "ro": "Castrum Carcari",
+                "en": "Castrum Carcari"
+              },
+              "tip_5lang": {
+                "de": "Ein Regenponcho ist beim Radfahren hier wichtig; achten Sie auf den Winddruck von der Seeseite, der Ihr Rad instabil machen kann.",
+                "hu": "Az esőponcsó elengedhetetlen a tekeréshez; ügyelj a tenger felől fújó szélnyomásra, ami bizonytalanná teheti a kerékpárt.",
+                "ro": "O pelerină de ploaie este esențială pentru pedalat; atenție la presiunea vântului dinspre mare care poate destabiliza bicicleta.",
+                "en": "A rain poncho is essential for cycling here; watch out for crosswinds from the sea that can make your bike unstable."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Radtour in der kühlen Winterluft weckt die Geister auf dem Weg zu den Ruinen. Mittags bietet die Burg Schutz vor dem schneidenden Wind, während Sie die Aussicht genießen. Da es bereits früh dunkel wird, sollten Sie den Rückweg am Nachmittag antreten, solange die Sonne noch tief am Horizont steht. Der Abend endet gemütlich, nachdem Sie die klare, kalte Küstenluft bei der Fahrt tief eingeatmet haben.",
+            "hu": "A reggeli tekerés a hűvös téli levegőben felfrissíti az érzékeket a romok felé vezető úton. Délben a vár védelmet nyújt a metsző szél ellen, miközben élvezzük a kilátást. Mivel korán sötétedik, a visszautat már délután meg kell kezdeni, amíg a nap még látható. Az este kellemesen zárul, miután a tiszta, hideg tengerparti levegőt mélyen belélegeztük az út során.",
+            "ro": "Pedalatul de dimineață în aerul răcoros de iarnă împrospătează simțurile în drum spre ruine. La prânz, castelul oferă protecție împotriva vântului tăios în timp ce ne bucurăm de priveliște. Deoarece se întunecă devreme, drumul de întoarcere trebuie început după-amiaza. Seara se încheie plăcut, după ce am respirat adânc aerul curat și rece de pe coastă în timpul drumului.",
+            "en": "A morning ride in the crisp winter air awakens the senses on the way to the ruins. At noon, the castle provides shelter from the biting wind while you enjoy the views. Since it gets dark early, start your return journey in the afternoon while the sun is still out. The evening ends cozily after breathing in the fresh, cold coastal air during your ride."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Villa Romana \"I Grottini\"",
+                "hu": "Villa Romana \"I Grottini\"",
+                "ro": "Villa Romana \"I Grottini\"",
+                "en": "Villa Romana \"I Grottini\""
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie gefütterte Handschuhe, um Ihre Hände warm zu halten; die offene Lage macht den Ort im Winter recht zugig.",
+                "hu": "Viselj bélelt kesztyűt, hogy melegen tartsd a kezed tekerés közben; a nyitott fekvés miatt télen elég huzatos ez a terület.",
+                "ro": "Poartă mănuși căptușite pentru a-ți menține mâinile calde; din cauza locației deschise, zona este destul de ventilată iarna.",
+                "en": "Wear lined gloves to keep your hands warm while riding; the open location makes this site quite breezy in the winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Il Marinaio",
+                "hu": "Il Marinaio",
+                "ro": "Il Marinaio",
+                "en": "Il Marinaio"
+              },
+              "tip_5lang": {
+                "de": "Eine kurze Pause an einem windgeschützten Platz ist ideal; wärmen Sie sich kurz auf, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Egy rövid pihenő egy szélvédett ponton ideális; melegedj fel egy kicsit, mielőtt folytatnád az utat a hidegben.",
+                "ro": "O scurtă pauză într-un punct ferit de vânt este ideală; încălzește-te puțin înainte de a continua drumul prin frig.",
+                "en": "A brief rest in a wind-sheltered spot is ideal; warm up for a moment before continuing your ride in the cold air."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Santa Severa",
+                "hu": "Castello di Santa Severa",
+                "ro": "Castello di Santa Severa",
+                "en": "Castello di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Burg im klaren Winterlicht; halten Sie sich im Inneren auf, um dem kalten Meereswind zu entkommen.",
+                "hu": "Csodáld meg a várat a tiszta téli fényekben; tölts több időt a belső terekben, hogy elkerüld a metsző tengeri szelet.",
+                "ro": "Admiră castelul în lumina clară a iernii; petrece mai mult timp în spațiile interioare pentru a evita vântul tăios de coastă.",
+                "en": "Admire the castle in the crisp winter light; stay indoors as much as possible to escape the biting coastal winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare e della Navigazione Antica",
+                "hu": "Museo del Mare e della Navigazione Antica",
+                "ro": "Museo del Mare e della Navigazione Antica",
+                "en": "Museo del Mare e della Navigazione Antica"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um die Körpertemperatur wieder zu regulieren; nutzen Sie die Wärme der Museumsräume ausgiebig.",
+                "hu": "Tökéletes helyszín a testhőmérséklet helyreállítására; használd ki a múzeumi terek melegét a továbbindulás előtt.",
+                "ro": "Locația perfectă pentru restabilirea temperaturii corpului; profită de căldura spațiilor muzeale înainte de a pleca.",
+                "en": "A perfect location to restore your body temperature; take full advantage of the museum's warmth before heading back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Pyrgi",
+                "hu": "Pyrgi",
+                "ro": "Pyrgi",
+                "en": "Pyrgi"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne sorgt für lange Schatten und tolle Fotos; bleiben Sie in Bewegung, um nicht auszukühlen.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat és remek fotótémát ad; maradj mozgásban, hogy ne hűlj ki a nyílt terepen.",
+                "ro": "Soarele jos de iarnă oferă umbre lungi și cadre foto superbe; rămâi în mișcare pentru a nu îngheța în spațiul deschis.",
+                "en": "The low winter sun creates long shadows and great photo opportunities; keep moving to stay warm in the open terrain."
+              }
+            },
+            {
+              "name": {
+                "de": "Castrum Carcari",
+                "hu": "Castrum Carcari",
+                "ro": "Castrum Carcari",
+                "en": "Castrum Carcari"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermokleidung für diese Strecke; achten Sie auf die gefühlte Kälte durch den Fahrtwind am späten Nachmittag.",
+                "hu": "Viselj termoöltözetet ezen a szakaszon; ügyelj a menetszél okozta fokozott hidegérzetre a késő délutáni órákban.",
+                "ro": "Poartă haine termice pe această porțiune; atenție la senzația de frig accentuată de vântul de deplasare după-amiaza târziu.",
+                "en": "Wear thermal clothing for this stretch; be aware of the increased wind chill factor while riding in the late afternoon."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +922,224 @@
         "hu": "Autóval először a békés Castrum Carcari erődöt fedezi fel. Ezután a római Villa I Grottini és a festői La Scogliera következik. Kora délután a Castello di Santa Severa parkolójában hagyja az autót, hogy bejárja a kastélyt és a múzeumokat. A tökéletes napot egy lazító séta zárja a gyönyörű, hosszú homokos strandon.",
         "ro": "Cu mașina vizitați mai întâi fortificația retrasă Castrum Carcari. Apoi vă îndreptați spre Villa Romana I Grottini și pitoreasca La Scogliera. După-amiaza, parcați la Castello di Santa Severa pentru a explora pe îndelete castelul și muzeele învecinate. Ziua perfectă se încheie cu o plimbare relaxantă pe plaja largă cu nisip.",
         "en": "Drive first to the remote fortification of Castrum Carcari to start your morning. Next, head to the Roman Villa I Grottini and the picturesque La Scogliera. In the afternoon, park at Castello di Santa Severa to thoroughly explore the castle and its adjacent museums. Your perfect day ends with a relaxing stroll along the wide sandy beach."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt entspannt im trockenen Auto, während der Regen die Landschaft draußen in weiche Töne taucht. Mittags parken Sie bequem nah an der Burg, um nasse Wege zu vermeiden. Nachmittags besuchen Sie die Museen und das Antiquarium ohne Sorgen vor den Schauern. Der Abend endet mit einer gemütlichen Fahrt entlang der Küste, während die Regentropfen auf der Scheibe das Licht der Straßenlampen brechen.",
+            "hu": "A nap kényelmesen indul a száraz autóban, miközben az eső lágy tónusokba öltözteti a kinti tájat. Délben a vár közelében parkolhatunk, elkerülve a hosszú ázást. Délután a múzeumok és az Antiquarium látogatása gondtalan a záporok ellenére is. Az este egy hangulatos tengerparti autózással zárul, miközben az esőcseppek az üvegen megtörik az utcai lámpák fényeit.",
+            "ro": "Ziua începe confortabil în mașina uscată, în timp ce ploaia îmbracă peisajul exterior în tonuri calde. La prânz parcăm aproape de castel, evitând expunerea prelungită la ploaie. După-amiaza vizitarea muzeelor și a Antiquariumului este lipsită de griji în ciuda averselor. Seara se încheie cu o plimbare auto pe coastă, în timp ce picăturile de ploaie de pe geam reflectă luminile stradale.",
+            "en": "The day starts comfortably in a dry car while the rain paints the landscape in soft tones outside. At noon, park conveniently close to the castle to minimize walking in the rain. Afternoon visits to the museums and Antiquarium are worry-free despite the showers. The evening ends with a scenic coastal drive as raindrops on the windshield refract the glow of the streetlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castrum Carcari",
+                "hu": "Castrum Carcari",
+                "ro": "Castrum Carcari",
+                "en": "Castrum Carcari"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz so nah wie möglich am Eingang; halten Sie einen Schirm für den kurzen Weg vom Auto bereit.",
+                "hu": "Használd a bejárathoz legközelebbi parkolóhelyet; készíts elő egy esernyőt az autó és a bejárat közötti rövid szakaszra.",
+                "ro": "Folosește locul de parcare cel mai apropiat de intrare; pregătește o umbrelă pentru distanța scurtă dintre mașină și acces.",
+                "en": "Use the parking space closest to the entrance; have an umbrella ready for the short walk from the car to the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Romana \"I Grottini\"",
+                "hu": "Villa Romana \"I Grottini\"",
+                "ro": "Villa Romana \"I Grottini\"",
+                "en": "Villa Romana \"I Grottini\""
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Parken auf unbefestigten, schlammigen Flächen; bleiben Sie auf dem Asphalt, um nicht steckenzubleiben.",
+                "hu": "Kerüld a parkolást a kiépítetlen, sáros területeken; maradj az aszfalton, hogy elkerüld az elakadást a felázott talajon.",
+                "ro": "Evită parcarea pe suprafețele neamenajate și noroioase; rămâi pe asfalt pentru a evita blocarea în solul îmbibat cu apă.",
+                "en": "Avoid parking on unpaved, muddy areas; stay on the asphalt to prevent getting stuck in the waterlogged ground."
+              }
+            },
+            {
+              "name": {
+                "de": "La Scogliera",
+                "hu": "La Scogliera",
+                "ro": "La Scogliera",
+                "en": "La Scogliera"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Wellen direkt aus dem Auto; die Brandung ist bei Regen besonders beeindruckend zu beobachten.",
+                "hu": "Élvezd a hullámok látványát közvetlenül az autóból; a tenger morajlása esőben különösen lenyűgöző látványt nyújt.",
+                "ro": "Bucură-te de vederea valurilor direct din mașină; spectacolul mării pe ploaie este deosebit de impresionant de privit.",
+                "en": "Enjoy the view of the waves directly from your car; the surf is particularly impressive to watch during a rainstorm."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Santa Severa",
+                "hu": "Castello di Santa Severa",
+                "ro": "Castello di Santa Severa",
+                "en": "Castello di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stop, um sich die Beine zu vertreten und gleichzeitig Schutz im Inneren der dicken Mauern zu finden.",
+                "hu": "Ideális megálló, hogy kicsit átmozgasd magad, miközben a vastag falak között teljes védelmet kapsz az eső elől.",
+                "ro": "O oprire ideală pentru a te dezmorți puțin, beneficiind în același timp de protecția totală a zidurilor groase împotriva ploii.",
+                "en": "An ideal stop to stretch your legs while staying completely protected from the rain within the thick castle walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare e della Navigazione Antica",
+                "hu": "Museo del Mare e della Navigazione Antica",
+                "ro": "Museo del Mare e della Navigazione Antica",
+                "en": "Museo del Mare e della Navigazione Antica"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Zeit im Museum für einen ausgiebigen Besuch; drinnen ist es trocken und klimatisch angenehm.",
+                "hu": "Használd ki az időt egy alapos múzeumlátogatásra; odabent száraz és az időjárástól független, kellemes környezet vár.",
+                "ro": "Profită de timp pentru o vizită amănunțită la muzeu; în interior te așteaptă un mediu uscat și plăcut, indiferent de vreme.",
+                "en": "Take your time for a thorough museum visit; inside, a dry and comfortable environment awaits regardless of the weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiquarium Pyrgense",
+                "hu": "Antiquarium Pyrgense",
+                "ro": "Antiquarium Pyrgense",
+                "en": "Antiquarium Pyrgense"
+              },
+              "tip_5lang": {
+                "de": "Die kurzen Wege zwischen den Gebäuden lassen sich bei Regen gut bewältigen; ein kleiner Taschenschirm ist dennoch ratsam.",
+                "hu": "Az épületek közötti rövid szakaszok esőben is könnyen teljesíthetők; egy kisméretű táskaesernyő azért ajánlott a sétához.",
+                "ro": "Distanțele scurte dintre clădiri sunt ușor de parcurs chiar și pe ploaie; o umbrelă mică de buzunar este totuși recomandată.",
+                "en": "The short distances between buildings are easy to manage even in rain; a small travel umbrella is still recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Santa Severa",
+                "hu": "Spiaggia di Santa Severa",
+                "ro": "Spiaggia di Santa Severa",
+                "en": "Spiaggia di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Wetterspiel über dem Meer bequem vom Fahrersitz aus; so bleiben Sie warm und trocken bei bester Aussicht.",
+                "hu": "Figyeld az időjárás játékát a tenger felett kényelmesen a vezetőülésből; így melegben és szárazon maradsz a legjobb kilátás mellett.",
+                "ro": "Observă jocul vremii deasupra mării confortabil din scaunul șoferului; astfel rămâi la căldură cu cea mai bună priveliște.",
+                "en": "Watch the changing weather over the sea comfortably from the driver's seat; stay warm and dry while enjoying the best views."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen im Auto beginnt mit einer klaren Sicht auf die Küste und angenehmer Wärme im Inneren. Mittags erkunden Sie die Burg und genießen die weiche Wintersonne, bevor Sie ins beheizte Fahrzeug zurückkehren. Da es gegen 17:00 Uhr bereits dämmert, bietet die Fahrt am späten Nachmittag eine magische Atmosphäre. Der Abend endet mit einem kurzen Strandstopp, um die frische Brise zu spüren, bevor die Heizung wieder übernimmt.",
+            "hu": "A téli reggel az autóban tiszta kilátással és kellemes belső meleggel indul a tengerpart mentén. Délben a várat fedezzük fel a lágy napsütésben, majd visszatérünk a fűtött járműbe. Mivel 17:00 körül már szürkül, a késő délutáni autózás varázslatos hangulatot áraszt a fényekben. Az este egy rövid parti megállóval zárul, hogy érezzük a friss szellőt, mielőtt a fűtés újra átveszi a főszerepet.",
+            "ro": "Dimineața de iarnă în mașină începe cu o vedere clară asupra coastei și o căldură plăcută la interior. La prânz explorăm castelul în soarele blând, apoi ne întoarcem în vehiculul încălzit. Deoarece se înserează în jurul orei 17:00, condusul după-amiaza târziu oferă o atmosferă magică. Seara se încheie cu o scurtă oprire pe plajă pentru briza proaspătă, înainte ca încălzirea să preia controlul.",
+            "en": "The winter morning starts with clear coastal views and pleasant warmth inside the car. At noon, explore the castle in the soft sunlight before returning to your heated vehicle. Since dusk falls around 5:00 PM, the late afternoon drive offers a magical atmosphere with the winter lights. The evening ends with a quick beach stop to feel the fresh breeze before the car heater takes over again."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castrum Carcari",
+                "hu": "Castrum Carcari",
+                "ro": "Castrum Carcari",
+                "en": "Castrum Carcari"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie windgeschützt, falls möglich; die winterliche Aussicht auf die Burg von hier oben ist bei klarer Luft fantastisch.",
+                "hu": "Parkolj szélvédett helyen, ha lehetséges; a vártemplom téli látványa innen fentről, a tiszta levegőben egyszerűen fantasztikus.",
+                "ro": "Parchează într-un loc ferit de vânt dacă este posibil; vederea de iarnă asupra castelului de aici, prin aerul curat, este fantastică.",
+                "en": "Park in a wind-sheltered spot if possible; the winter view of the castle from up here is fantastic in the clear air."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Romana \"I Grottini\"",
+                "hu": "Villa Romana \"I Grottini\"",
+                "ro": "Villa Romana \"I Grottini\"",
+                "en": "Villa Romana \"I Grottini\""
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung des Autos zwischen den Besichtigungen; der Weg zu den Ruinen ist kurz, aber im Winter recht kühl.",
+                "hu": "Használd ki az autó fűtését a megállók között; a romokhoz vezető út rövid, de télen elég hűvös lehet a nyílt terepen.",
+                "ro": "Folosește încălzirea mașinii între opriri; drumul spre ruine este scurt, dar iarna poate fi destul de rece în spațiu deschis.",
+                "en": "Make the most of the car's heater between stops; the path to the ruins is short but can be quite chilly in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "La Scogliera",
+                "hu": "La Scogliera",
+                "ro": "La Scogliera",
+                "en": "La Scogliera"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Fotostopp bei tiefstehender Sonne; die winterlichen Farben des Meeres kommen hier besonders gut zur Geltung.",
+                "hu": "Tökéletes fotómegálló az alacsonyan járó napnál; a tenger téli színei itt érvényesülnek a legjobban a délutáni fényben.",
+                "ro": "O oprire foto perfectă sub soarele jos; culorile de iarnă ale mării sunt puse cel mai bine în evidență aici în lumina după-amiezii.",
+                "en": "A perfect photo stop with the low-hanging sun; the winter colors of the sea are best showcased here in the afternoon light."
+              }
+            },
+            {
+              "name": {
+                "de": "Castello di Santa Severa",
+                "hu": "Castello di Santa Severa",
+                "ro": "Castello di Santa Severa",
+                "en": "Castello di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie warme Kleidung für den Rundgang im Freien; die Innenräume der Burg bieten danach eine willkommene Aufwärmpause.",
+                "hu": "Viselj meleg ruhát a szabadtéri vársétához; a belső terek ezután kellemes felmelegedést nyújtanak a téli hideg után.",
+                "ro": "Poartă haine groase pentru plimbarea în exterior; spațiile interioare oferă ulterior o încălzire binevenită după frigul iernii.",
+                "en": "Wear warm clothing for the outdoor castle tour; the indoor spaces will provide a welcome warm-up afterwards."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mare e della Navigazione Antica",
+                "hu": "Museo del Mare e della Navigazione Antica",
+                "ro": "Museo del Mare e della Navigazione Antica",
+                "en": "Museo del Mare e della Navigazione Antica"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Rückzugsort vor dem kalten Wind; genießen Sie die warme Atmosphäre des Museums in aller Ruhe.",
+                "hu": "Ideális menedék a hideg szél elől; élvezd a múzeum meleg és nyugodt légkörét a téli délután során.",
+                "ro": "Refugiul ideal împotriva vântului rece; bucură-te de atmosfera caldă și liniștită a muzeului pe parcursul după-amiezii de iarnă.",
+                "en": "An ideal sanctuary from the cold wind; enjoy the museum's warm and peaceful atmosphere during the winter afternoon."
+              }
+            },
+            {
+              "name": {
+                "de": "Antiquarium Pyrgense",
+                "hu": "Antiquarium Pyrgense",
+                "ro": "Antiquarium Pyrgense",
+                "en": "Antiquarium Pyrgense"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Ausgrabungsstätte, solange das Licht noch ausreicht; im Winter schließt die Dämmerung den Tag früh ab.",
+                "hu": "Látogasd meg a régészeti helyszínt, amíg a fényviszonyok engedik; télen a szürkület korán lezárja a napot.",
+                "ro": "Vizitează situl arheologic cât timp lumina permite; iarna, amurgul încheie ziua foarte devreme.",
+                "en": "Visit the archaeological site while the light permits; in winter, dusk brings an early close to the day."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Santa Severa",
+                "hu": "Spiaggia di Santa Severa",
+                "ro": "Spiaggia di Santa Severa",
+                "en": "Spiaggia di Santa Severa"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie den frühen Sonnenuntergang gegen 17:00 Uhr; die Heizung im Auto sorgt nach dem kurzen Strandgang schnell für Wärme.",
+                "hu": "Éld át a korai naplementét 17:00 körül; az autó fűtése a rövid parti séta után gyorsan visszaadja a komfortérzetet.",
+                "ro": "Experimentează apusul timpuriu în jurul orei 17:00; încălzirea mașinii îți va reda rapid confortul după scurta plimbare pe plajă.",
+                "en": "Experience the early sunset around 5:00 PM; the car heater will quickly restore your comfort after a short beach walk."
+              }
+            }
+          ]
+        }
       }
     }
   }

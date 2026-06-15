@@ -137,6 +137,168 @@
         "hu": "A reggel Rives szívében kezdődik a gyönyörű Saint-Valère templomnál, majd egy rövid sétával eljut a békés Chapelle Blanchet-hez.\n\nDélre eléri az Orgère Parkot, amely ideális zöld terület a pihenésre, mielőtt elmerülne a helyi örökségben a múzeumban.\n\nA délután folyamán a múzeum lenyűgöző, ipari múltat bemutató kiállításait fedezheti fel.\n\nVégül, a nap lezárásaként a séta az Église Saint-Pierre-de-Vérone templomhoz vezet, amely csendes, elmélyült befejezést kínál.",
         "ro": "Dimineața începe în inima orașului Rives la frumoasa Biserică Saint-Valère, urmată de o scurtă plimbare la pașnica Chapelle Blanchet.\n\nLa prânz, veți ajunge în Parcul Orgère, un loc verde ideal pentru a vă relaxa înainte de a explora moștenirea regiunii la muzeu.\n\nDupă-amiaza vă invită să explorați exponatele fascinante ale muzeului care detaliază trecutul industrial.\n\nÎn cele din urmă, pe măsură ce ziua se încheie, o plimbare vă duce la Biserica Saint-Pierre-de-Vérone pentru un final liniștit.",
         "en": "Your morning begins in the heart of Rives at the beautiful Saint-Valère Church, followed by a short walk to the peaceful Chapelle Blanchet to admire local history.\n\nBy midday, you will reach Orgère Park, an ideal green spot to relax before diving into the region's heritage at the Orgère Museum.\n\nThe afternoon invites you to explore the museum's fascinating exhibits detailing the industrial past.\n\nFinally, as the day winds down, a stroll brings you to the Église Saint-Pierre-de-Vérone, offering a quiet, contemplative end to your walking tour."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt in der Stille der Kirchen, die trockenen Schutz vor dem Regen bieten. Mittags durchqueren wir den nassen Orgère-Park, um im Museum Wärme und Kultur zu finden. Der Nachmittag gehört der Architektur, während Regentropfen an die Fenster der Kapellen klopfen. Am Abend spiegeln sich die Lichter der Stadt malerisch in den Pfützen auf dem Weg zum Saint-Pierre-de-Vérone.",
+            "hu": "A reggel a templomok hűvös csendjében indul, ahol menedéket lelünk az eső elől. Délben a nedves Orgère Parkon átvágva a múzeum gazdag gyűjteményében melegszünk fel. A délután az építészeté, miközben az eső kopog a Saint-Pierre-de-Vérone falain. Estére a város fényei csillognak a vizes aszfalton, különleges hangulatot árasztva a hazaúton.",
+            "ro": "Dimineața începe în liniștea bisericilor, care oferă un adăpost uscat împotriva ploii. La prânz traversăm parcul umed Orgère pentru a găsi căldură și cultură în muzeu. După-amiaza este dedicată arhitecturii, în timp ce picăturile de ploaie bat în geamurile capelelor. Seara, luminile orașului se oglindesc pitoresc în bălțile de pe drumul spre Saint-Pierre-de-Vérone.",
+            "en": "The morning starts in the silence of the churches, providing a dry sanctuary from the rain. At noon, we cross the damp Orgère Park to find warmth and culture in the museum's halls. The afternoon is spent admiring architecture while rain taps on the chapel windows. In the evening, city lights shimmer beautifully on the wet pavement as we head toward Saint-Pierre-de-Vérone."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Valère",
+                "hu": "Saint-Valère templom",
+                "ro": "Biserica Saint-Valère",
+                "en": "Saint-Valère Church"
+              },
+              "tip_5lang": {
+                "de": "Diese Kirche bietet einen hervorragenden Unterschlupf; bewundern Sie die Glasmalereien, während draußen der Regen prasselt, und nutzen Sie den Vorraum zum Abtrocknen.",
+                "hu": "Ez a templom kiváló menedéket nyújt; csodálja meg az üvegablakokat, miközben kint dobol az eső, és használja az előteret az esernyők lerázásához.",
+                "ro": "Această biserică oferă un adăpost excelent; admirați vitraliile în timp ce ploaia bate afară și folosiți vestibulul pentru a vă scutura umbrelele.",
+                "en": "This church provides excellent shelter; admire the stained glass windows while the rain drums outside, and use the porch to shake off your umbrella."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Blanchet",
+                "hu": "Chapelle Blanchet",
+                "ro": "Chapelle Blanchet",
+                "en": "Chapelle Blanchet"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist ein friedlicher Ort bei Regen; die Akustik der Tropfen auf dem Dach ist meditativ, tragen Sie jedoch rutschfeste Schuhe für den steilen Zugangsweg.",
+                "hu": "A kápolna békés hely esőben; a tetőn kopogó cseppek hangja meditatív, de viseljen csúszásmentes cipőt a meredek odavezető ösvényen.",
+                "ro": "Capela este un loc liniștit pe ploaie; acustica picăturilor pe acoperiș este meditativă, dar purtați încălțăminte antiderapantă pentru poteca abruptă.",
+                "en": "The chapel is a peaceful spot in the rain; the sound of droplets on the roof is meditative, but wear non-slip shoes for the steep access path."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Park",
+                "hu": "Orgère Park",
+                "ro": "Parcul Orgère",
+                "en": "Orgère Park"
+              },
+              "tip_5lang": {
+                "de": "Die dichten Baumkronen bieten einen natürlichen Schirm; genießen Sie das satte Grün des nassen Grases, aber meiden Sie die unbefestigten, schlammigen Wege.",
+                "hu": "A sűrű lombozat természetes ernyőt tart; élvezze a nedves fű mélyzöld színét, de kerülje a burkolatlan, sárosodó ösvényeket a park mélyén.",
+                "ro": "Coroanele dese ale copacilor oferă o umbrelă naturală; bucurați-vă de verdele intens al ierbii ude, dar evitați potecile neasfaltate care devin noroioase.",
+                "en": "The dense canopy provides a natural umbrella; enjoy the deep green of the wet grass, but avoid the unpaved, muddy paths deep in the park."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Museum",
+                "hu": "Orgère Múzeum",
+                "ro": "Muzeul Orgère",
+                "en": "Orgère Museum"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist die perfekte Flucht vor dem Wetter; nehmen Sie sich Zeit für die Ausstellungen im Trockenen und nutzen Sie die Garderobe für Ihre nassen Mäntel.",
+                "hu": "A múzeum tökéletes menekülés az időjárás elől; szánjon időt a kiállításokra a szárazban, és használja a ruhatárat a nedves kabátok elhelyezésére.",
+                "ro": "Muzeul este evadarea perfectă din fața vremii; acordați-vă timp pentru expoziții la adăpost și folosiți garderoba pentru hainele ude.",
+                "en": "The museum is the perfect escape from the weather; take your time with the exhibits in the dry and use the cloakroom for your wet coats."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre-de-Vérone",
+                "hu": "Saint-Pierre-de-Vérone templom",
+                "ro": "Biserica Saint-Pierre-de-Vérone",
+                "en": "Saint-Pierre-de-Vérone Church"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag geschützt unter den gotischen Bögen; das gedimmte Licht bei Regenwetter verleiht dem Altarraum eine besonders mystische Atmosphäre.",
+                "hu": "Zárja a napot a gótikus ívek védelmében; az esős idő miatti tompa fények különleges, misztikus hangulatot kölcsönöznek a templom belső terének.",
+                "ro": "Încheiați ziua protejat sub arcadele gotice; lumina difuză din timpul ploii oferă interiorului bisericii o atmosferă deosebit de mistică.",
+                "en": "End the day sheltered under the Gothic arches; the dim light during rainy weather gives the interior a particularly mystical atmosphere."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen begrüßt uns an den dicken Mauern von Saint-Valère. Mittags wärmen wir uns nach einem kurzen Spaziergang im winterlichen Park in den beheizten Räumen des Orgère-Museums auf. Die tiefstehende Sonne taucht die Stadt am Nachmittag in goldenes Licht, bevor es gegen 17 Uhr dunkel wird und die gemütliche Abenddämmerung einsetzt.",
+            "hu": "Fagyos reggel köszönt ránk Saint-Valère vastag falai között. Délben a téli parkban tett rövid séta után az Orgère Múzeum fűtött termeiben melegedhetünk fel alaposan. A délutáni alacsony napállás aranyló fénybe vonja a várost, mielőtt 17 óra körül beállna a sötétség és kezdetét venné a hangulatos esti szürkület.",
+            "ro": "O dimineață geroasă ne întâmpină la zidurile groase din Saint-Valère. La prânz, după o scurtă plimbare prin parcul de iarnă, ne încălzim bine în sălile muzeului Orgère. Soarele jos de după-amiază scaldă orașul într-o lumină aurie, înainte ca întunericul să se lase în jur de ora 17:00.",
+            "en": "A frosty morning greets us at the thick walls of Saint-Valère. At noon, after a brief walk through the winter park, we warm up thoroughly in the heated rooms of the Orgère Museum. The low afternoon sun bathes the city in golden light before darkness sets in around 5 PM, marking a cozy dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Valère",
+                "hu": "Saint-Valère templom",
+                "ro": "Biserica Saint-Valère",
+                "en": "Saint-Valère Church"
+              },
+              "tip_5lang": {
+                "de": "Die massive Steinarchitektur hält den kalten Wind ab; tragen Sie eine warme Kopfbedeckung, da die Kirche im Winter trotz des Windschutzes recht kühl bleibt.",
+                "hu": "A masszív kőépület távol tartja a hideg szelet; viseljen meleg sapkát, mivel a templom belső tere a szélvédelem ellenére télen is hűvös maradhat.",
+                "ro": "Arhitectura masivă de piatră oprește vântul rece; purtați o căciulă călduroasă, deoarece interiorul bisericii rămâne destul de răcoros în timpul iernii.",
+                "en": "The massive stone architecture keeps out the cold wind; wear a warm hat as the interior remains quite chilly in winter despite the wind protection."
+              }
+            },
+            {
+              "name": {
+                "de": "Chapelle Blanchet",
+                "hu": "Chapelle Blanchet",
+                "ro": "Chapelle Blanchet",
+                "en": "Chapelle Blanchet"
+              },
+              "tip_5lang": {
+                "de": "Der Ausblick von der Kapelle ist bei klarer Winterluft besonders weit; achten Sie auf überfrierende Nässe auf den Steinstufen, die im Schatten liegen.",
+                "hu": "A kápolnától nyíló kilátás a tiszta téli levegőben különösen messzire nyúlik; ügyeljen a jegesedésre az árnyékban fekvő kőlépcsőkön a feljáratnál.",
+                "ro": "Priveliștea de la capelă este deosebit de vastă în aerul curat de iarnă; atenție la gheața de pe treptele de piatră care stau în umbră la urcare.",
+                "en": "The view from the chapel is especially far-reaching in the clear winter air; watch out for ice on the stone steps that lie in the shade."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Park",
+                "hu": "Orgère Park",
+                "ro": "Parcul Orgère",
+                "en": "Orgère Park"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kahlen Silhouetten der alten Bäume gegen den blauen Winterhimmel; bewegen Sie sich zügig, um bei den niedrigen Temperaturen warm zu bleiben.",
+                "hu": "Csodálja meg az öreg fák kopár sziluettjeit a kék téli égbolt előtt; mozogjon tempósan, hogy a hideg hőmérséklet ellenére is melegen tartsa testét.",
+                "ro": "Admirați siluetele golașe ale copacilor bătrâni pe fundalul cerului albastru de iarnă; mergeți într-un ritm alert pentru a vă menține căldura corporală.",
+                "en": "Admire the bare silhouettes of the old trees against the blue winter sky; move at a brisk pace to stay warm in the low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Museum",
+                "hu": "Orgère Múzeum",
+                "ro": "Muzeul Orgère",
+                "en": "Orgère Museum"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort für eine längere Aufwärmpause; genießen Sie die behagliche Innentemperatur und nutzen Sie das Licht der großen Fenster für die Exponate.",
+                "hu": "A tökéletes hely egy hosszabb melegedő szünethez; élvezze a kellemes benti hőmérsékletet és használja ki a nagy ablakokon beáradó téli fényt.",
+                "ro": "Locul perfect pentru o pauză lungă de încălzire; bucurați-vă de temperatura interioară plăcută și profitați de lumina naturală a ferestrelor mari.",
+                "en": "The perfect spot for a long warming break; enjoy the comfortable indoor temperature and make use of the natural light from the large windows."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre-de-Vérone",
+                "hu": "Saint-Pierre-de-Vérone templom",
+                "ro": "Biserica Saint-Pierre-de-Vérone",
+                "en": "Saint-Pierre-de-Vérone Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Kirche kurz vor Sonnenuntergang um 17 Uhr; die blaue Stunde verleiht der Fassade eine magische Wirkung, bevor es frostig kalt wird.",
+                "hu": "Látogassa meg a templomot nem sokkal a 17 órai napnyugta előtt; a kék óra mágikus hatást kölcsönöz a homlokzatnak, mielőtt beállna a fagyos éjszaka.",
+                "ro": "Vizitați biserica cu puțin timp înainte de apusul soarelui de la ora 17; ora albastră oferă fațadei un efect magic înainte de lăsarea gerului.",
+                "en": "Visit the church shortly before the 5 PM sunset; the blue hour gives the facade a magical effect before the frosty night sets in."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -314,6 +476,224 @@
         "hu": "Kezdje a kerékpártúrát északkeleten az Église Saint-Jean-Baptiste templomnál, mielőtt leereszkedne a központi Saint-Valère templomhoz.\n\nDélben a gyönyörű Orgère Parkon keresztül a múzeumba kerekezik, hogy megismerje a helyi ipart.\n\nA délutáni tekerés történelmi pontokat köt össze, érintve a Saint-Roch templomot és a Grande Fabrique kápolnát.\n\nZárja aktív napját egy festői utazással a Fure völgye felé, ahol a természet és a nyugalom jutalmazza erőfeszítéseit.",
         "ro": "Începeți turul cu bicicleta în nord-est la Biserica Saint-Jean-Baptiste înainte de a coborî spre centrala Biserică Saint-Valère.\n\nPrânzul vă duce prin frumosul Parc Orgère și la muzeu pentru a afla despre industria locală.\n\nPlimbarea de după-amiază conectează puncte istorice, trecând pe la Biserica Saint-Roch și pe la Capela de la Grande Fabrique.\n\nÎncheiați-vă ziua activă cu o plimbare pitorească spre Valea Fure, unde natura vă răsplătește eforturile pe două roți.",
         "en": "Kick off your cycling tour in the northeast at Église Saint-Jean-Baptiste before riding down to the central Saint-Valère Church.\n\nMidday takes you through the beautiful Orgère Park and into the Orgère Museum to learn about local industry.\n\nYour afternoon ride connects historical points, taking you to Église Saint-Roch and the culturally significant Chapelle de la Grande Fabrique.\n\nEnd your active day with a scenic ride towards the Fure Valley, where nature and tranquility reward your cycling efforts."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt auf glatten Straßen Richtung Saint-Jean-Baptiste. Mittags finden wir Schutz im Museum, während wir die Fahrt durch das Fure-Tal für den Nachmittag vorbereiten, wenn der Regen hoffentlich nachlässt. Vorsicht ist bei der Abfahrt auf nassen Wegen geboten, da die Bremswege länger sind und die Sicht eingeschränkt sein kann.",
+            "hu": "A bringatúra csúszós utakon indul Saint-Jean-Baptiste felé. Délben a múzeumban találunk menedéket, miközben a délutáni Fure-völgyi tekerésre készülünk, remélve az eső enyhülését. Legyen óvatos a lejtőkön a vizes talajon, mert a féktávolság megnő és a látási viszonyok korlátozottak lehetnek.",
+            "ro": "Turul pe bicicletă începe pe drumuri alunecoase spre Saint-Jean-Baptiste. La prânz găsim adăpost în muzeu în timp ce ne pregătim pentru tura de după-amiază prin Valea Fure. Atenție sporită la coborârile pe carosabil umed, deoarece distanța de frânare crește și vizibilitatea poate fi redusă.",
+            "en": "The bike tour starts on slippery roads toward Saint-Jean-Baptiste. At noon, we find shelter in the museum while preparing for the afternoon ride through Fure Valley, hoping the rain eases. Exercise caution on descents over wet ground as braking distances increase and visibility may be limited."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter dem Vordach; prüfen Sie Ihre Bremsen nach der Fahrt im Regen und stellen Sie Ihr Rad an einem windgeschützten Ort ab.",
+                "hu": "Keressen menedéket az előtető alatt; ellenőrizze a fékeket az esőben való tekerés után, és állítsa a kerékpárt szélvédett helyre.",
+                "ro": "Căutați adăpost sub streașină; verificați frânele după mersul prin ploaie și parcați bicicleta într-un loc ferit de vânt.",
+                "en": "Seek shelter under the overhang; check your brakes after riding in the rain and park your bike in a spot protected from the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Valère",
+                "hu": "Saint-Valère templom",
+                "ro": "Biserica Saint-Valère",
+                "en": "Saint-Valère Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Pause für ein kurzes Aufwärmen im Inneren; achten Sie auf Pfützen vor dem Eingang, die Ihre Schuhe durchnässen könnten.",
+                "hu": "Használja ki a szünetet egy rövid benti melegedésre; ügyeljen a bejárat előtti tócsákra, amelyek eláztathatják a kerékpáros cipőjét.",
+                "ro": "Profitați de pauză pentru o scurtă încălzire în interior; atenție la bălțile din fața intrării care vă pot uda încălțămintea de ciclism.",
+                "en": "Take advantage of the break for a quick indoor warm-up; watch out for puddles in front of the entrance that could soak your cycling shoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Park",
+                "hu": "Orgère Park",
+                "ro": "Parcul Orgère",
+                "en": "Orgère Park"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie langsam auf den Laubwegen, da diese extrem rutschig sind; die Bäume bieten nur bei leichtem Nieselregen ausreichend Schutz.",
+                "hu": "Hajtson lassan a leveles utakon, mert rendkívül csúszósak; a fák lombkoronája csak enyhe szemerkélés esetén nyújt elegendő védelmet.",
+                "ro": "Mergeți încet pe aleile acoperite cu frunze, deoarece sunt extrem de alunecoase; copacii oferă protecție doar în cazul unei ploi ușoare.",
+                "en": "Ride slowly on the leafy paths as they are extremely slippery; the tree canopy only provides sufficient protection during light drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Museum",
+                "hu": "Orgère Múzeum",
+                "ro": "Muzeul Orgère",
+                "en": "Orgère Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Stopp, um die Regenkleidung zu lüften; nutzen Sie die überdachten Fahrradständer in der Nähe, um Ihr Rad trocken zu halten.",
+                "hu": "Ideális megálló az esőruházat szellőztetésére; használja a közeli fedett kerékpártárolókat, hogy a bringa is szárazon maradjon.",
+                "ro": "Oprirea ideală pentru a vă aerisi hainele de ploaie; folosiți rastelele de biciclete acoperite din apropiere pentru a menține bicicleta uscată.",
+                "en": "The ideal stop to air out your rain gear; use the nearby covered bike racks to keep your cycle dry while you explore the museum."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Roch-et-Saint-Sébastien",
+                "hu": "Saint-Roch-et-Saint-Sébastien templom",
+                "ro": "Biserica Saint-Roch-et-Saint-Sébastien",
+                "en": "Saint-Roch-et-Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kleiner, aber trockener Zufluchtsort; wischen Sie den Sattel vor der Weiterfahrt gründlich ab, um Feuchtigkeit an der Kleidung zu vermeiden.",
+                "hu": "Kicsi, de száraz menedékhely; a továbbindulás előtt alaposan törölje le a nyerget, hogy elkerülje a ruházat átnedvesedését.",
+                "ro": "Un refugiu mic, dar uscat; ștergeți bine șaua înainte de a pleca mai departe pentru a evita umezirea îmbrăcămintei.",
+                "en": "A small but dry refuge; wipe down your saddle thoroughly before continuing to avoid getting moisture on your clothing."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle de la Grande Fabrique",
+                "hu": "Grande Fabrique kápolna",
+                "ro": "Capela de la Grande Fabrique",
+                "en": "Grande Fabrique Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle bietet Schutz bei plötzlichen Schauern; prüfen Sie den Reifendruck, da nasser Asphalt weniger Grip bietet als trockener Untergrund.",
+                "hu": "A kápolna védelmet nyújt a hirtelen záporok elől; ellenőrizze a guminyomást, mert a vizes aszfalt kevesebb tapadást biztosít, mint a száraz.",
+                "ro": "Capela oferă protecție împotriva averselor bruște; verificați presiunea în pneuri, deoarece asfaltul ud oferă mai puțină aderență decât cel uscat.",
+                "en": "The chapel offers protection from sudden showers; check your tire pressure as wet asphalt provides less grip than dry ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Fure-Tal",
+                "hu": "Fure-völgy",
+                "ro": "Valea Fure",
+                "en": "Fure Valley"
+              },
+              "tip_5lang": {
+                "de": "Das Tal ist bei Regen mystisch, aber die Wege können schlammig sein; tragen Sie unbedingt Schutzbleche, um Schmutzspritzer zu minimieren.",
+                "hu": "A völgy esőben misztikus, de az utak sárosak lehetnek; feltétlenül használjon sárvédőt a felverődő kosz és víz minimalizálása érdekében.",
+                "ro": "Valea este mistică pe ploaie, dar drumurile pot fi noroioase; folosiți neapărat aripi la bicicletă pentru a minimiza stropirea cu noroi.",
+                "en": "The valley is mystical in the rain, but paths can be muddy; be sure to use mudguards to minimize splashes of dirt and water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der kalte Fahrtwind erfordert im Winter volle Konzentration auf dem Weg nach Saint-Jean-Baptiste. Mittags ist das Museum ein wichtiger Wärmepunkt, um die eingefrorenen Glieder wieder zu beleben. Die Tour durch das Fure-Tal am Nachmittag zeigt die raue Schönheit der Natur, wobei wir unbedingt vor dem frühen Dunkelwerden um 17 Uhr zurück sein müssen.",
+            "hu": "A hideg menetszél télen teljes koncentrációt igényel Saint-Jean-Baptiste felé. Délben a múzeum kulcsfontosságú melegedőpont az átfagyott végtagok életre keltéséhez. A délutáni Fure-völgyi tekerés a természet nyers szépségét mutatja, de mindenképpen vissza kell érnünk a korai, 17 órai sötétedés előtt.",
+            "ro": "Vântul rece din timpul mersului necesită concentrare maximă spre Saint-Jean-Baptiste. La prânz, muzeul este un punct vital de încălzire pentru a vă dezmorți membrele înghețate. Tura de după-amiază prin Valea Fure arată frumusețea brută a naturii, dar trebuie să ne întoarcem înainte de ora 17:00.",
+            "en": "The cold headwind in winter requires full concentration on the way to Saint-Jean-Baptiste. At noon, the museum is a vital warming point to revive frozen limbs. The afternoon ride through Fure Valley reveals nature's raw beauty, but we must return before the early darkness sets in at 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre Hände kurz auf, bevor Sie die Bremsgriffe wieder bedienen; die kalte Luft kann die Reaktionszeit der Finger beeinträchtigen.",
+                "hu": "Melegítse fel egy kicsit a kezeit, mielőtt újra a fékkarokhoz nyúlna; a hideg levegő lelassíthatja az ujjak reakcióidejét a tekerés során.",
+                "ro": "Încălziți-vă puțin mâinile înainte de a acționa din nou manetele de frână; aerul rece poate afecta timpul de reacție al degetelor în timpul mersului.",
+                "en": "Warm up your hands briefly before operating the brake levers again; the cold air can impair the reaction time of your fingers while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Valère",
+                "hu": "Saint-Valère templom",
+                "ro": "Biserica Saint-Valère",
+                "en": "Saint-Valère Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche bietet Windschatten für eine kurze Trinkpause; nutzen Sie isolierte Trinkflaschen, damit Ihr Wasser nicht eiskalt wird oder gefriert.",
+                "hu": "A templom szélvédett helyet biztosít egy rövid ivószünethez; használjon hőszigetelt kulacsot, hogy a vize ne hűljön le túlságosan vagy ne fagyjon meg.",
+                "ro": "Biserica oferă un loc ferit de vânt pentru o scurtă pauză de hidratare; folosiți bidoane izoterme pentru ca apa să nu înghețe sau să devină prea rece.",
+                "en": "The church provides a wind-protected spot for a quick hydration break; use insulated bottles so your water doesn't get icy cold or freeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Park",
+                "hu": "Orgère Park",
+                "ro": "Parcul Orgère",
+                "en": "Orgère Park"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Raureif auf den Wegen, der die Bodenhaftung verringert; die klare Winterluft bietet jedoch eine fantastische Sicht durch die kahlen Bäume.",
+                "hu": "Ügyeljen az utakon lévő zúzmarára, amely csökkenti a tapadást; a tiszta téli levegő viszont fantasztikus kilátást biztosít a kopár fák között.",
+                "ro": "Atenție la chiciura de pe alei, care reduce aderența; aerul curat de iarnă oferă însă o vizibilitate fantastică printre copacii golași.",
+                "en": "Watch out for frost on the paths which reduces traction; however, the clear winter air offers fantastic visibility through the bare trees."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Museum",
+                "hu": "Orgère Múzeum",
+                "ro": "Muzeul Orgère",
+                "en": "Orgère Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Stopp für ein komplettes Aufwärmen im beheizten Gebäude; kontrollieren Sie Ihre Beleuchtung für den bevorstehenden frühen Abend.",
+                "hu": "Használja ki a megállót egy teljes felmelegedésre a fűtött épületben; ellenőrizze a világítást a hamarosan beköszöntő kora esti sötétség előtt.",
+                "ro": "Profitați de oprire pentru o încălzire completă în clădirea încălzită; verificați luminile bicicletei pentru seara care se instalează devreme.",
+                "en": "Use the stop for a full warm-up in the heated building; check your bike lights for the upcoming early evening darkness."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Roch-et-Saint-Sébastien",
+                "hu": "Saint-Roch-et-Saint-Sébastien templom",
+                "ro": "Biserica Saint-Roch-et-Saint-Sébastien",
+                "en": "Saint-Roch-et-Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt im Schutz der Mauern hilft, die Körpertemperatur zu halten; ziehen Sie eine zusätzliche Schicht an, bevor Sie wieder Fahrt aufnehmen.",
+                "hu": "A falak védelmében tett rövid megálló segít fenntartani a testhőt; vegyen fel egy plusz réteget, mielőtt újra felgyorsulna a hideg szélben.",
+                "ro": "O scurtă oprire sub protecția zidurilor ajută la menținerea temperaturii corpului; puneți-vă un strat suplimentar de haine înainte de a porni iar.",
+                "en": "A short stop in the shelter of the walls helps maintain body temperature; put on an extra layer before picking up speed again in the cold wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle de la Grande Fabrique",
+                "hu": "Grande Fabrique kápolna",
+                "ro": "Capela de la Grande Fabrique",
+                "en": "Grande Fabrique Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle ist im Winter oft ein ruhiger Rückzugsort; achten Sie auf die abnehmende Helligkeit, die die Orientierung auf dem Rad erschweren kann.",
+                "hu": "A kápolna télen gyakran csendes menedék; ügyeljen a csökkenő fényviszonyokra, ami megnehezítheti a tájékozódást a kerékpáron a visszaúton.",
+                "ro": "Capela este adesea un refugiu liniștit în timpul iernii; atenție la luminozitatea scăzută care poate îngreuna orientarea pe bicicletă la întoarcere.",
+                "en": "The chapel is often a quiet retreat in winter; watch out for decreasing light levels which can make navigation on the bike more difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Fure-Tal",
+                "hu": "Fure-völgy",
+                "ro": "Valea Fure",
+                "en": "Fure Valley"
+              },
+              "tip_5lang": {
+                "de": "Die frostige Natur im Tal ist beeindruckend; beeilen Sie sich mit der Rückfahrt, damit Sie nicht in die winterliche Dunkelheit und Kälte geraten.",
+                "hu": "A völgy fagyos természeti képe lenyűgöző; siessen a visszaúttal, hogy ne kerüljön a téli sötétségbe és a hirtelen lehűlő levegőbe.",
+                "ro": "Natura înghețată din vale este impresionantă; grăbiți-vă la întoarcere pentru a nu fi surprins de întunericul și frigul iernii.",
+                "en": "The frosty natural scenery in the valley is impressive; hurry on the return trip so you don't get caught in the winter darkness and cold."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -514,6 +894,252 @@
         "hu": "Kezdje az autós kalandot a feltűnő Saint-Jean-Baptiste templomnál, majd vezessen a központi Saint-Valère templomhoz.\n\nDélben parkoljon le az Orgère Múzeum közelében egy történelmi utazásra, majd haladjon tovább a Saint-Roch templom felé.\n\nA délutánt a nyugati peremvidéken tölti, meglátogatva a Saint-Georges és a Saint-Pierre-de-Vérone templomokat.\n\nAz este közeledtével vezessen el a Grande Fabrique kápolnához, és zárja kulturális túráját a Fure völgyében.",
         "ro": "Începeți aventura auto la impresionanta Biserică Saint-Jean-Baptiste, apoi conduceți confortabil spre Biserica Saint-Valère din centru.\n\nLa prânz, parcați lângă Muzeul Orgère pentru o lecție de istorie, urmată de o scurtă deplasare spre Biserica Saint-Roch.\n\nPetreceți după-amiaza la periferia vestică, vizitând bisericile Saint-Georges și Saint-Pierre-de-Vérone.\n\nOdată cu lăsarea serii, conduceți spre Capela de la Grande Fabrique și încheiați turul cultural explorând pitoreasca Vale Fure.",
         "en": "Start your driving adventure at the striking Église Saint-Jean-Baptiste, then easily navigate to the central Saint-Valère Church.\n\nThe midday segment lets you park near the Orgère Museum for a deep dive into history, followed by a quick drive to Église Saint-Roch.\n\nSpend your afternoon cruising to the western outskirts, visiting Église Saint-Georges and Église Saint-Pierre-de-Vérone.\n\nAs evening approaches, drive down to the Chapelle de la Grande Fabrique and finish your rich cultural tour exploring the scenic Fure Valley."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Mit dem Auto erkunden wir Rives heute gemütlich und trocken. Während es draußen ununterbrochen regnet, genießen wir die Fahrt zwischen den Kirchen und dem Museum. Mittags bietet das Orgère-Museum eine ausgiebige Pause im Trockenen. Der Nachmittag führt uns sicher durch das Fure-Tal, wobei wir die dramatischen Wolkenformationen bequem aus dem Fenster beobachten können.",
+            "hu": "Autóval ma kényelmesen és szárazon fedezzük fel Rives-t. Miközben kint szakadatlanul esik, élvezzük a templomok és a múzeum közötti utat. Délben az Orgère Múzeum bőséges pihenőt kínál a szárazban. A délután biztonságban vezet át a Fure-völgyön, miközben a drámai felhőalakzatokat kényelmesen az ablakból figyelhetjük.",
+            "ro": "Cu mașina explorăm astăzi orașul Rives confortabil și uscați. În timp ce afară plouă neîncetat, ne bucurăm de drumul dintre biserici și muzeu. La prânz, muzeul Orgère oferă o pauză lungă la adăpost. După-amiaza ne conduce în siguranță prin Valea Fure, admirând norii dramatici direct de la fereastră.",
+            "en": "By car, we explore Rives today in comfort and dryness. While it rains incessantly outside, we enjoy the drive between churches and the museum. At noon, the Orgère Museum offers a substantial break in the dry. The afternoon takes us safely through Fure Valley, where we can watch dramatic cloud formations comfortably from the window."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so nah wie möglich am Eingang; nutzen Sie den Schirm nur für die wenigen Meter und genießen Sie den Innenraum ohne Zeitdruck.",
+                "hu": "Parkoljon a lehető legközelebb a bejárathoz; az esernyőt csak arra a néhány méterre használja, és élvezze a belső teret időnyomás nélkül.",
+                "ro": "Parcați cât mai aproape de intrare; folosiți umbrela doar pentru acei câțiva metri și bucurați-vă de interior fără presiunea timpului.",
+                "en": "Park as close to the entrance as possible; use your umbrella only for those few meters and enjoy the interior without any time pressure."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Valère",
+                "hu": "Saint-Valère templom",
+                "ro": "Biserica Saint-Valère",
+                "en": "Saint-Valère Church"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist bei Regen einfach; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand, die sich bei starkem Niederschlag schnell bilden.",
+                "hu": "Az odajutás esőben is egyszerű; kiszálláskor ügyeljen az út menti mély tócsákra, amelyek heves esőzéskor gyorsan kialakulhatnak.",
+                "ro": "Accesul este ușor chiar și pe ploaie; la coborâre, atenție la bălțile adânci de la marginea drumului care se pot forma rapid în timpul ploii.",
+                "en": "Getting there is easy even in the rain; when getting out, watch out for deep puddles at the roadside that can form quickly during heavy rainfall."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Museum",
+                "hu": "Orgère Múzeum",
+                "ro": "Muzeul Orgère",
+                "en": "Orgère Museum"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsparkplatz für einen trockenen Wechsel; im Inneren können Sie sich Zeit lassen, während draußen der stärkste Regen niedergeht.",
+                "hu": "Használja a múzeum parkolóját a száraz váltáshoz; bent nyugodtan elidőzhet, amíg kint a leghevesebb eső zúdul le az égből.",
+                "ro": "Folosiți parcarea muzeului pentru a rămâne uscați; în interior puteți zăbovi cât doriți în timp ce afară plouă torențial.",
+                "en": "Use the museum parking lot for a dry transition; inside you can take your time while the heaviest rain pours down outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Roch-et-Saint-Sébastien",
+                "hu": "Saint-Roch-et-Saint-Sébastien templom",
+                "ro": "Biserica Saint-Roch-et-Saint-Sébastien",
+                "en": "Saint-Roch-et-Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, regengeschützter Stopp; lassen Sie die nasse Kleidung im Auto und genießen Sie die spirituelle Ruhe dieses kleinen Sakralbaus.",
+                "hu": "Rövid, esőtől védett megálló; a nedves ruházatot hagyja az autóban, és élvezze ennek a kis szakrális épületnek a spirituális nyugalmát.",
+                "ro": "O oprire scurtă, protejată de ploaie; lăsați hainele ude în mașină și bucurați-vă de liniștea spirituală a acestui mic lăcaș de cult.",
+                "en": "A short, rain-protected stop; leave your wet outer layers in the car and enjoy the spiritual peace of this small sacred building."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Georges",
+                "hu": "Saint-Georges templom",
+                "ro": "Biserica Saint-Georges",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Die Parkmöglichkeiten in der Nähe erlauben einen schnellen Zugang; bewundern Sie die Fassade aus dem Auto heraus, bevor Sie kurz hineingehen.",
+                "hu": "A közeli parkolási lehetőség gyors bejutást tesz lehetővé; csodálja meg a homlokzatot az autóból, mielőtt egy rövid időre beszaladna.",
+                "ro": "Posibilitățile de parcare din apropiere permit un acces rapid; admirați fațada din mașină înainte de a intra pentru scurt timp.",
+                "en": "Nearby parking allows for quick access; admire the facade from the car before heading inside for a short visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre-de-Vérone",
+                "hu": "Saint-Pierre-de-Vérone templom",
+                "ro": "Biserica Saint-Pierre-de-Vérone",
+                "en": "Saint-Pierre-de-Vérone Church"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt die Farben des alten Gesteins; nutzen Sie die beheizte Lüftung des Autos, um eventuelle Feuchtigkeit von der Kleidung zu trocknen.",
+                "hu": "Az eső felerősíti a régi kövek színeit; használja az autó fűtését a ruházatán maradt esetleges nedvesség gyors megszárításához.",
+                "ro": "Ploaia intensifică culorile pietrei vechi; folosiți ventilația mașinii pentru a usca eventuala umezeală de pe haine între opriri.",
+                "en": "The rain intensifies the colors of the old stone; use the car's heated ventilation to dry any moisture from your clothes between stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle de la Grande Fabrique",
+                "hu": "Grande Fabrique kápolna",
+                "ro": "Capela de la Grande Fabrique",
+                "en": "Grande Fabrique Chapel"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schlechte Sicht bei der Anfahrt durch den Regen; die Kapelle bietet einen wunderbaren, trockenen Ort für stille Gebete.",
+                "hu": "Ügyeljen a rossz látási viszonyokra az esőben való odajutáskor; a kápolna csodálatos, száraz helyszínt biztosít a csendes imádsághoz.",
+                "ro": "Atenție la vizibilitatea redusă în timpul drumului prin ploaie; capela oferă un loc minunat și uscat pentru rugăciune în liniște.",
+                "en": "Watch out for poor visibility while driving through the rain; the chapel offers a wonderful, dry location for quiet prayer."
+              }
+            },
+            {
+              "name": {
+                "de": "Fure-Tal",
+                "hu": "Fure-völgy",
+                "ro": "Valea Fure",
+                "en": "Fure Valley"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Fahrt durch das wolkenverhangene Tal; halten Sie an sicheren Aussichtspunkten an, ohne das warme Auto verlassen zu müssen.",
+                "hu": "Élvezze a felhőkbe burkolózó völgyön át vezető utat; álljon meg a biztonságos kilátópontokon, anélkül, hogy el kellene hagynia a meleg autót.",
+                "ro": "Bucurați-vă de drumul prin valea învăluită în nori; opriți în punctele de observație sigure fără a fi nevoie să părăsiți mașina caldă.",
+                "en": "Enjoy the drive through the cloud-covered valley; pull over at safe viewpoints without having to leave the warmth of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein Wintertag in Rives lässt sich am besten mit dem Auto bewältigen, während die Heizung für Komfort sorgt. Nach dem frostigen Start bei Saint-Jean-Baptiste bietet das Museum mittags die perfekte Gelegenheit zum Aufwärmen. Der Nachmittag im Fure-Tal zeigt glitzernde Landschaften, bevor wir pünktlich zum Sonnenuntergang um 17 Uhr die Tour sicher beenden.",
+            "hu": "Egy téli napot Rives-ben leginkább autóval lehet kényelmesen teljesíteni, miközben a fűtés biztosítja a komfortot. A fagyos reggeli kezdés után a múzeum délben tökéletes alkalmat kínál a felmelegedésre. A délután a Fure-völgyben csillogó tájakat mutat, mielőtt 17 órakor, napnyugtakor biztonságban befejeznénk a túrát.",
+            "ro": "O zi de iarnă în Rives se parcurge cel mai bine cu mașina, în timp ce căldura oferă confortul necesar. După startul geros de la Saint-Jean-Baptiste, muzeul oferă la prânz ocazia perfectă de încălzire. După-amiaza în Valea Fure arată peisaje sclipitoare înainte de a încheia turul în siguranță la apus, ora 17:00.",
+            "en": "A winter day in Rives is best managed by car while the heater ensures comfort. After the frosty start at Saint-Jean-Baptiste, the museum offers the perfect warming opportunity at noon. The afternoon in Fure Valley reveals glistening landscapes before we safely conclude the tour at the 5 PM sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Jean-Baptiste",
+                "hu": "Saint-Jean-Baptiste templom",
+                "ro": "Biserica Saint-Jean-Baptiste",
+                "en": "Saint-Jean-Baptiste Church"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf vereiste Stellen auf dem Parkplatz; im Inneren der Kirche ist es oft kälter als draußen, lassen Sie also den Mantel unbedingt an.",
+                "hu": "Ügyeljen a jeges foltokra a parkolóban; a templom belsejében gyakran hidegebb van, mint kint, ezért feltétlenül hagyja magán a kabátját.",
+                "ro": "Atenție la porțiunile înghețate din parcare; în interiorul bisericii este adesea mai frig decât afară, așa că păstrați-vă haina pe dvs.",
+                "en": "Watch out for icy patches in the parking lot; the interior of the church is often colder than outside, so be sure to keep your coat on."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Valère",
+                "hu": "Saint-Valère templom",
+                "ro": "Biserica Saint-Valère",
+                "en": "Saint-Valère Church"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist bei Winterwetter problemlos; genießen Sie die klare Sicht auf die umliegenden Hügel, die oft mit Raureif oder Schnee bedeckt sind.",
+                "hu": "Az odajutás téli időben is problémamentes; élvezze a tiszta kilátást a környező dombokra, amelyeket gyakran zúzmara vagy hó borít ilyenkor.",
+                "ro": "Accesul este fără probleme în condiții de iarnă; bucurați-vă de vederea clară spre dealurile din jur, care sunt adesea acoperite de chiciură sau zăpadă.",
+                "en": "Getting there is trouble-free in winter weather; enjoy the clear view of the surrounding hills, which are often covered with frost or snow."
+              }
+            },
+            {
+              "name": {
+                "de": "Orgère-Museum",
+                "hu": "Orgère Múzeum",
+                "ro": "Muzeul Orgère",
+                "en": "Orgère Museum"
+              },
+              "tip_5lang": {
+                "de": "Der ideale Ort für eine längere Pause; die gut beheizten Räume laden zum Verweilen ein, während Sie die Kunstwerke im warmen Licht bewundern.",
+                "hu": "Az ideális hely egy hosszabb pihenőhöz; a jól fűtött termek marasztalóak, miközben a műalkotásokat meleg fényben csodálhatja meg.",
+                "ro": "Locul ideal pentru o pauză mai lungă; sălile bine încălzite vă invită să zăboviți în timp ce admirați operele de artă în lumină caldă.",
+                "en": "The ideal place for a longer break; the well-heated rooms invite you to stay while you admire the artworks in the warm light."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Roch-et-Saint-Sébastien",
+                "hu": "Saint-Roch-et-Saint-Sébastien templom",
+                "ro": "Biserica Saint-Roch-et-Saint-Sébastien",
+                "en": "Saint-Roch-et-Saint-Sébastien Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, aber stimmungsvoller Winterstopp; achten Sie auf den Weg zum Eingang, der bei niedrigen Temperaturen glatt sein kann.",
+                "hu": "Rövid, de hangulatos téli megálló; ügyeljen a bejárathoz vezető útra, amely az alacsony hőmérséklet miatt csúszós lehet.",
+                "ro": "O oprire de iarnă scurtă, dar plină de atmosferă; atenție la drumul spre intrare, care poate fi alunecos din cauza temperaturilor scăzute.",
+                "en": "A short but atmospheric winter stop; watch out for the path to the entrance, which can be slippery due to the low temperatures."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Georges",
+                "hu": "Saint-Georges templom",
+                "ro": "Biserica Saint-Georges",
+                "en": "Saint-Georges Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Parkplatz direkt vor der Tür, um die Kältezeit im Freien zu minimieren; die Kirche strahlt im Winter eine besondere Stille aus.",
+                "hu": "Használja a közvetlenül az ajtó előtti parkolót, hogy minimalizálja a kint töltött időt; a templom télen különleges csendet áraszt.",
+                "ro": "Folosiți parcarea chiar din fața ușii pentru a minimiza timpul petrecut în frig; biserica emană o liniște deosebită în timpul iernii.",
+                "en": "Use the parking lot directly in front of the door to minimize time spent in the cold; the church radiates a special silence in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre-de-Vérone",
+                "hu": "Saint-Pierre-de-Vérone templom",
+                "ro": "Biserica Saint-Pierre-de-Vérone",
+                "en": "Saint-Pierre-de-Vérone Church"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort am frühen Nachmittag, wenn die Sonne die Steine erwärmt; achten Sie auf die schnell sinkenden Temperaturen nach 15 Uhr.",
+                "hu": "Látogassa meg kora délután, amikor a nap még melegíti a köveket; ügyeljen a 15 óra után gyorsan süllyedő hőmérsékletre a visszaúton.",
+                "ro": "Vizitați locul după-amiaza devreme, când soarele încă mai încălzește piatra; atenție la temperaturile care scad rapid după ora 15.",
+                "en": "Visit in the early afternoon when the sun still warms the stones; watch out for temperatures dropping rapidly after 3 PM on the return trip."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle de la Grande Fabrique",
+                "hu": "Grande Fabrique kápolna",
+                "ro": "Capela de la Grande Fabrique",
+                "en": "Grande Fabrique Chapel"
+              },
+              "tip_5lang": {
+                "de": "Die Kapelle wirkt im winterlichen Licht sehr besinnlich; prüfen Sie die Straßenzustände für die Weiterfahrt ins Tal, falls es geschneit hat.",
+                "hu": "A kápolna a téli fényben nagyon elmélyült hangulatot áraszt; ellenőrizze az útviszonyokat a völgybe való továbbhaladáshoz, ha havazott.",
+                "ro": "Capela pare foarte contemplativă în lumina iernii; verificați starea drumurilor pentru continuarea spre vale în caz că a nins.",
+                "en": "The chapel feels very contemplative in the winter light; check road conditions for continuing into the valley if it has snowed."
+              }
+            },
+            {
+              "name": {
+                "de": "Fure-Tal",
+                "hu": "Fure-völgy",
+                "ro": "Valea Fure",
+                "en": "Fure Valley"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Fahrt vor 17 Uhr, um nicht im Dunkeln auf eventuell glatten Landstraßen unterwegs zu sein; genießen Sie das winterliche Panorama.",
+                "hu": "Fejezze be az utat 17 óra előtt, hogy ne sötétben autózzon az esetleg jeges országutakon; élvezze a téli panorámát az autó biztonságából.",
+                "ro": "Încheiați drumul înainte de ora 17:00 pentru a nu conduce pe întuneric pe drumurile posibil înghețate; admirați panorama de iarnă din mașină.",
+                "en": "Finish the drive before 5 PM to avoid driving in the dark on potentially icy country roads; enjoy the winter panorama from the safety of your car."
+              }
+            }
+          ]
+        }
       }
     }
   }

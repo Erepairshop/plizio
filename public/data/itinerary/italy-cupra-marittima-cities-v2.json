@@ -137,6 +137,168 @@
         "hu": "A reggel a békés városközpontban, a Chiesa di San Basso templomnál indul. Egy rövid séta elvezet a Museo Archeologico épületéhez, amely a régió legkorábbi lakóinak történetét meséli el az ősi picenus leleteken keresztül.\n\nDélben sétáljon a lélegzetelállító Belvedere Giorgio Calcagno felé, és csodálja meg a kék Adriai-tengerre nyíló végtelen kilátást és a tengerpart szépségét.\n\nA délután a természettel való kapcsolódásra hív a lágyan kanyargó Sentiero Naturalistico mentén, ahol a sós tengeri szélben virágzik a mediterrán növényvilág.\n\nZárja a gyalogtúrát a Chalet La Cuna nyüzsgő tengerparti pontjánál, ahol megpihenhet a homokban, és élvezheti a gyönyörű esti színeket a víz felett.",
         "ro": "Dimineața începe în inima pașnică a orașului la Chiesa di San Basso. O scurtă plimbare vă duce la Museo Archeologico, plin de artefacte antice picene care spun povestea celor mai vechi locuitori ai regiunii fascinante.\n\nLa amiază, mergeți spre uluitorul Belvedere Giorgio Calcagno pentru a admira priveliștile nesfârșite ale Mării Adriatice albastre și a vă bucura de briza proaspătă.\n\nDupă-amiaza vă invită să vă conectați cu natura pe Sentiero Naturalistico, un traseu șerpuit unde flora mediteraneană înflorește în adierea sărată a mării.\n\nÎncheiați turul la Chalet La Cuna, un loc plin de viață pe plajă unde vă puteți relaxa pe nisip și vă puteți bucura de culorile frumoase ale serii peste apă.",
         "en": "Morning begins in the peaceful heart of the town at Chiesa di San Basso, where you can absorb the quiet historical atmosphere. A short stroll leads to the Museo Archeologico, filled with ancient Picene artifacts that tell the story of the region's earliest inhabitants.\n\nBy midday, walk towards the breathtaking Belvedere Giorgio Calcagno to admire the endless views of the blue Adriatic Sea.\n\nThe afternoon invites you to connect with nature along the gently winding Sentiero Naturalistico, where the Mediterranean flora flourishes in the salty sea breeze.\n\nConclude your walking tour at Chalet La Cuna, a lively beach spot where you can relax on the sands and enjoy the beautiful evening colors over the water."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche Schutz vor dem Regen. Mittags vertiefen Sie sich im trockenen Museum in die Geschichte. Nachmittags zeigt sich der Belvedere im Nebel mystisch; achten Sie auf rutschige Pfade. Abends genießen Sie die Atmosphäre im Chalet am Meer, während der Regen gegen die Scheiben trommelt. Ein robuster Regenschirm und wasserfeste Schuhe sind heute Ihre wichtigsten Begleiter.",
+            "hu": "Reggel a templom falai között keressünk menedéket az eső elől. Délben a múzeum fedett tárlatai nyújtanak biztonságos kikapcsolódást. Délután a Belvedere panorámája ködben is misztikus, de a tanösvényen vigyázzon a csúszós talajjal. Estére a tengerparti chalet hangulata a kopogó esővel válik teljessé. Egy jó esőkabát és vízálló cipő elengedhetetlen a mai parti sétához a friss levegőn.",
+            "ro": "Dimineața, biserica oferă adăpost împotriva ploii. La prânz, explorați istoria în muzeul bine protejat. După-amiaza, Belvedere arată mistic în ceață, dar aveți grijă la potecile alunecoase din natură. Seara, bucurați-vă de atmosfera de la chalet, ascultând ploaia care bate în geam. O umbrelă rezistentă și încălțăminte impermeabilă sunt esențiale pentru plimbarea de astăzi pe coastă.",
+            "en": "Morning starts with shelter in the church as the rain falls. At noon, the indoor museum galleries provide a perfect dry escape. In the afternoon, the Belvedere offers a misty, mystical view; take care on slippery natural paths. Evening finds you at the beach chalet, enjoying the sound of rain on the waves. A sturdy umbrella and waterproof boots are essential for today's coastal walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Basso",
+                "hu": "Chiesa di San Basso",
+                "ro": "Chiesa di San Basso",
+                "en": "Chiesa di San Basso"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Interieur, während es draußen regnet; ein Regenschirm ist für den kurzen Weg zum Eingang absolut ratsam.",
+                "hu": "Csodálja meg a belső teret, amíg kint esik; a bejárathoz vezető rövid úton egy esernyő vagy esőkabát nagyon jól jöhet.",
+                "ro": "Admirați interiorul în timp ce plouă afară; o umbrelă este foarte utilă pentru drumul scurt până la intrarea principală.",
+                "en": "Admire the interior while it rains outside; a sturdy umbrella is highly advisable for the short walk to the entrance."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico",
+                "hu": "Museo Archeologico",
+                "ro": "Museo Archeologico",
+                "en": "Museo Archeologico"
+              },
+              "tip_5lang": {
+                "de": "Die Ausstellungen sind ideal für Regentage; nutzen Sie die Zeit für die Details und lassen Sie die nasse Kleidung an der Garderobe.",
+                "hu": "A kiállítások ideálisak esős napokra; szánjon időt a részletekre, és hagyja a vizes kabátot a bejáratnál lévő tartókon.",
+                "ro": "Expozițiile sunt ideale pentru zilele ploioase; acordați timp detaliilor și lăsați hainele umede la intrare pentru confort.",
+                "en": "The exhibits are ideal for rainy days; take your time with the details and leave your wet gear at the entrance area."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Giorgio Calcagno",
+                "hu": "Belvedere Giorgio Calcagno",
+                "ro": "Belvedere Giorgio Calcagno",
+                "en": "Belvedere Giorgio Calcagno"
+              },
+              "tip_5lang": {
+                "de": "Die Aussicht im Regen hat einen besonderen Reiz; tragen Sie Schuhe mit gutem Profil, da die Aussichtsplattform glatt sein kann.",
+                "hu": "Az esőben úszó kilátásnak különleges bája van; viseljen tapadós talpú cipőt, mert a kilátóteraszt csúszóssá teheti a víz.",
+                "ro": "Priveliștea prin ploaie are un farmec aparte; purtați pantofi cu talpă aderentă, deoarece platforma poate deveni alunecoasă.",
+                "en": "The rain-washed view has a unique charm; wear shoes with good grip as the viewing platform can be slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Sentiero Naturalistico",
+                "hu": "Sentiero Naturalistico",
+                "ro": "Sentiero Naturalistico",
+                "en": "Sentiero Naturalistico"
+              },
+              "tip_5lang": {
+                "de": "Der Pfad kann schlammig sein; bleiben Sie auf den befestigten Abschnitten und genießen Sie den Duft des nassen Pinienwaldes.",
+                "hu": "Az ösvény sáros lehet; maradjon a kövezett szakaszokon, és élvezze az eső utáni fenyvesek és sós tengeri levegő illatát.",
+                "ro": "Poteca poate fi noroioasă; rămâneți pe secțiunile pavate și bucurați-vă de mirosul proaspăt al pinilor umezi de ploaie.",
+                "en": "The path can get muddy; stick to the paved sections and enjoy the refreshing scent of wet pines and salty sea air."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalet La Cuna",
+                "hu": "Chalet La Cuna",
+                "ro": "Chalet La Cuna",
+                "en": "Chalet La Cuna"
+              },
+              "tip_5lang": {
+                "de": "Setzen Sie sich ans Fenster und beobachten Sie das stürmische Meer; genießen Sie ein warmes Getränk, während der Wind draußen weht.",
+                "hu": "Üljön az ablak mellé, és figyelje a viharos tengert; élvezzen egy meleg italt, miközben kint fúj a szél és esik az eső.",
+                "ro": "Așezați-vă lângă fereastră și priviți marea agitată; savurați o băutură caldă în timp ce vântul suflă afară cu putere.",
+                "en": "Sit by the window and watch the stormy sea; enjoy a warm beverage while the wind and rain swirl outside the glass."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens weht eine frische Brise von der Adria; die Kirche bietet einen stillen Rückzugsort. Mittags wärmen Sie sich im Museum auf. Nachmittags ist die Fernsicht vom Belvedere kristallklar, doch die Sonne geht bereits gegen 17:00 Uhr unter. Abends kehrt im Chalet winterliche Gemütlichkeit ein. Tragen Sie mehrere Schichten Kleidung, um den kühlen Wind am Strand zu trotzen.",
+            "hu": "Reggel friss adriai szél köszönti a templomnál; a belső csend segít az elmélyülésben. Délben a múzeum fűtött termei nyújtanak menedéket. Délután a panoráma kristálytiszta, de a nap korán, 17 óra körül lebukik. Estére a chalet-ben igazi téli nyugalom fogad. Öltözzön rétegesen, mert a tengerparti szél a hidegben sokkal metszőbbnek tűnik.",
+            "ro": "Dimineața, o briză proaspătă vine dinspre Adriatică; biserica oferă un refugiu liniștit. La prânz, încălziți-vă în sălile muzeului. După-amiaza, vizibilitatea de la Belvedere este clară, dar soarele apune deja în jur de ora 17:00. Seara, la chalet se instalează o liniște hibernală. Purtați haine în straturi pentru a face față vântului tăios de pe plajă.",
+            "en": "Morning brings a crisp Adriatic breeze; the church offers a quiet, spiritual start. At noon, warm up in the heated museum galleries. In the afternoon, views from the Belvedere are crystal clear, but remember sunset is early at 5 PM. Evening brings winter coziness at the beach chalet. Dress in warm layers to withstand the biting coastal wind during your walks."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di San Basso",
+                "hu": "Chiesa di San Basso",
+                "ro": "Chiesa di San Basso",
+                "en": "Chiesa di San Basso"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Stille für eine kurze Meditation; die dicken Mauern halten die Kälte draußen und sorgen für Ruhe.",
+                "hu": "Használja ki a téli csendet egy rövid elmélyülésre; a vastag falak kint tartják a hideg szelet és a külvilág zajait.",
+                "ro": "Profitați de liniștea iernii pentru o scurtă meditație; zidurile groase țin frigul afară și asigură o atmosferă calmă.",
+                "en": "Take advantage of the winter silence for a brief meditation; the thick walls keep the cold wind and outside noise away."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico",
+                "hu": "Museo Archeologico",
+                "ro": "Museo Archeologico",
+                "en": "Museo Archeologico"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter Ort, um der Winterkälte zu entfliehen; planen Sie genug Zeit ein, bevor es draußen dunkel wird.",
+                "hu": "Tökéletes hely a téli hideg elöli menekülésre; tervezzen elég időt a látogatásra, mielőtt kint teljesen besötétedik.",
+                "ro": "Un loc perfect pentru a scăpa de frigul iernii; planificați-vă vizita astfel încât să terminați înainte de lăsarea întunericului.",
+                "en": "A perfect spot to escape the winter chill; plan enough time for your visit before it gets completely dark outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Belvedere Giorgio Calcagno",
+                "hu": "Belvedere Giorgio Calcagno",
+                "ro": "Belvedere Giorgio Calcagno",
+                "en": "Belvedere Giorgio Calcagno"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das klare Winterlicht für Fotos; eine warme Mütze ist wegen des starken Windes an der Klippe ratsam.",
+                "hu": "Élvezze a tiszta téli fényeket a fotózáshoz; egy meleg sapka és sál elengedhetetlen az erős tengerparti szél miatt.",
+                "ro": "Bucurați-vă de lumina clară de iarnă pentru fotografii; o căciulă caldă este recomandată din cauza vântului puternic.",
+                "en": "Enjoy the clear winter light for photography; a warm hat and scarf are essential due to the strong wind on the cliff."
+              }
+            },
+            {
+              "name": {
+                "de": "Sentiero Naturalistico",
+                "hu": "Sentiero Naturalistico",
+                "ro": "Sentiero Naturalistico",
+                "en": "Sentiero Naturalistico"
+              },
+              "tip_5lang": {
+                "de": "Der Weg ist im Winter oft menschenleer; nutzen Sie die Einsamkeit, aber beenden Sie die Runde vor dem frühen Sonnenuntergang.",
+                "hu": "Az ösvény télen gyakran teljesen néptelen; élvezze a magányt, de fejezze be a kört a korai, 17 órai napnyugta előtt.",
+                "ro": "Poteca este adesea pustie iarna; bucurați-vă de singurătate, dar terminați traseul înainte de apusul devreme al soarelui.",
+                "en": "The path is often deserted in winter; enjoy the solitude, but ensure you finish your loop before the early 5 PM sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Chalet La Cuna",
+                "hu": "Chalet La Cuna",
+                "ro": "Chalet La Cuna",
+                "en": "Chalet La Cuna"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einem Espresso auf und beobachten Sie die Fischerboote; im Winter ist die Atmosphäre hier besonders friedlich.",
+                "hu": "Melegedjen fel egy forró kávéval a halászhajókat figyelve; télen a hangulat itt sokkal békésebb és melankolikusabb.",
+                "ro": "Încălziți-vă cu un espresso urmărind bărcile de pescuit; iarna, atmosfera aici este mult mai liniștită și relaxantă.",
+                "en": "Warm up with a hot espresso while watching the fishing boats; in winter, the atmosphere here is much more peaceful."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje kerékpáros napját a helyi kreativitás felfedezésével a Casa Museo Nazzareno Tomassetti-ben. Innen tekerjen északra, hogy felfedezze a figyelemre méltóan fennmaradt Villa romana con ninfeo-t.\n\nA dél a kiterjedt Parco Archeologico Naturalistico-hoz vezet. Itt kényelmesen gurulhat olyan ösvényeken, amelyek gyönyörűen ötvözik az ókori történelmet a csendes természeti környezettel.\n\nDélután látogasson el az Anfiteatro Padre Erminio Martelli-hez. A lenyűgöző építmény lenyűgöző bepillantást enged a klasszikus múltba és a helyi kulturális örökségbe.\n\nKerékpárútja a Museo Malacologico Piceno-nál ér véget, ahol megcsodálhatja a lenyűgöző kagylógyűjteményt, mielőtt egy békés esti tekeréssel visszatérne a kiindulópontra.",
         "ro": "Începeți ziua de ciclism explorând creativitatea la Casa Museo Nazzareno Tomassetti. De acolo, pedalați spre nord pentru a descoperi Villa romana con ninfeo, un sit roman remarcabil de bine conservat.\n\nLa amiază ajungeți în Parco Archeologico Naturalistico. Aici vă puteți plimba pe cărări care îmbină frumos istoria antică cu mediul natural liniștit și relaxant al zonei.\n\nDupă-amiaza, vizitați Anfiteatro Padre Erminio Martelli. Structura sa impresionantă oferă o privire fascinantă asupra trecutului clasic și a patrimoniului cultural local.\n\nCălătoria se termină la Museo Malacologico Piceno, unde puteți admira o colecție uimitor de mare de scoici înainte de o plimbare liniștită de seară spre casă.",
         "en": "Start your cycling day exploring local creativity at Casa Museo Nazzareno Tomassetti, setting an inspiring tone for the morning. From there, pedal north to uncover the remarkably preserved Villa romana con ninfeo.\n\nMidday brings you to the sprawling Parco Archeologico Naturalistico. Here, you can gently ride through pathways that beautifully merge ancient history with the tranquil natural environment.\n\nIn the afternoon, visit the Anfiteatro Padre Erminio Martelli. Its impressive structure offers a fascinating glimpse into the classical past and local cultural heritage.\n\nYour bike journey finishes at the Museo Malacologico Piceno, where you can marvel at an astoundingly large collection of shells before a peaceful evening ride back."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens besuchen Sie das Atelierhaus trocken. Mittags radeln Sie vorsichtig zur Villa romana; die Straßen können rutschig sein. Nachmittags bietet der Archäologiepark im Regen eine herbe Schönheit. Abends lockt das Malakologische Museum als großes Indoor-Finale. Tragen Sie eine vollständige Regenmontur und prüfen Sie Ihre Bremsen vor der Abfahrt auf den nassen Straßen.",
+            "hu": "Reggel az emlékház fedett tereiben kezdünk. Délben óvatosan tekerjen a római villához, mert az utak csúszósak lehetnek az esőben. Délután a régészeti park nyers szépséget mutat a szemerkélő esőben. Estére a Malakológiai Múzeum nyújt tökéletes benti programot. Viseljen teljes esőfelszerelést, és ellenőrizze a fékeket a vizes aszfalton való indulás előtt.",
+            "ro": "Dimineața vizitați casa-muzeu la adăpost. La prânz, pedalați cu atenție spre Villa romana; drumurile pot fi alunecoase pe ploaie. După-amiaza, parcul arheologic oferă o frumusețe austeră sub stropii de apă. Seara, Muzeul Malacologic este finalul perfect de interior. Purtați echipament complet de ploaie și verificați frânele înainte de a porni pe carosabilul umed.",
+            "en": "Morning starts at the indoor museum house. At noon, cycle carefully to the Roman villa; roads can be slippery in the rain. In the afternoon, the archaeological park shows a raw beauty under the raindrops. Evening ends perfectly at the Malacological Museum's vast indoor halls. Wear full rain gear and check your brakes before heading out on the wet coastal asphalt."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Nazzareno Tomassetti",
+                "hu": "Casa Museo Nazzareno Tomassetti",
+                "ro": "Casa Museo Nazzareno Tomassetti",
+                "en": "Casa Museo Nazzareno Tomassetti"
+              },
+              "tip_5lang": {
+                "de": "Die Kunstwerke sind im Haus geschützt; parken Sie Ihr Fahrrad unter dem Dachvorsprung, um den Sattel trocken zu halten.",
+                "hu": "A műalkotások a házon belül védettek; parkolja le kerékpárját az eresz alatt, hogy a nyereg száraz maradjon a látogatás végéig.",
+                "ro": "Operele de artă sunt protejate în interior; parcați bicicleta sub streșină pentru a menține șaua uscată pe durata vizitei.",
+                "en": "The artworks are protected indoors; park your bike under the eaves to keep the saddle dry during your indoor visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana con ninfeo",
+                "hu": "Villa romana con ninfeo",
+                "ro": "Villa romana con ninfeo",
+                "en": "Villa romana con ninfeo"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die überdachten Bereiche der Ausgrabungen; fahren Sie langsam, da die antiken Steine bei Nässe sehr glatt werden.",
+                "hu": "Használja ki az ásatások fedett részeit; tekerjen lassan, mert az antik kövek és az aszfalt nedvesen nagyon csúszóssá válnak.",
+                "ro": "Folosiți zonele acoperite ale săpăturilor; pedalați încet, deoarece pietrele antice devin foarte alunecoase când sunt ude.",
+                "en": "Utilize the covered areas of the excavations; cycle slowly as the ancient stones and asphalt get very slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Archeologico Naturalistico",
+                "hu": "Parco Archeologico Naturalistico",
+                "ro": "Parco Archeologico Naturalistico",
+                "en": "Parco Archeologico Naturalistico"
+              },
+              "tip_5lang": {
+                "de": "Der Park wirkt im Regen melancholisch; ein Fahrradständer unter Bäumen bietet nur wenig Schutz, nutzen Sie die Infotafeln als Unterstand.",
+                "hu": "A park az esőben melankolikus hangulatú; a fák csak kevés védelmet nyújtanak, használja az információs táblákat ideiglenes menedékként.",
+                "ro": "Parcul are o atmosferă melancolică pe ploaie; copacii oferă puțină protecție, folosiți panourile informative ca adăpost temporar.",
+                "en": "The park has a melancholic vibe in the rain; trees offer little shelter, so use the info boards as temporary cover if needed."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Padre Erminio Martelli",
+                "hu": "Anfiteatro Padre Erminio Martelli",
+                "ro": "Anfiteatro Padre Erminio Martelli",
+                "en": "Anfiteatro Padre Erminio Martelli"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für Fotos; achten Sie auf Pfützen in den Kurven, wenn Sie sich dem Amphitheater mit dem Rad nähern.",
+                "hu": "Csak egy rövid megálló a fotókhoz; figyeljen a tócsákra a kanyarokban, amikor biciklivel megközelíti az amfiteátrumot.",
+                "ro": "O oprire scurtă pentru fotografii; atenție la bălțile din curbe când vă apropiați de amfiteatru cu bicicleta.",
+                "en": "Just a quick stop for photos; watch out for deep puddles in the corners as you approach the amphitheater by bike."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Malacologico Piceno",
+                "hu": "Museo Malacologico Piceno",
+                "ro": "Museo Malacologico Piceno",
+                "en": "Museo Malacologico Piceno"
+              },
+              "tip_5lang": {
+                "de": "Die riesige Sammlung bietet stundenlangen Schutz; stellen Sie sicher, dass Ihre Regenkleidung vor dem Eintreten gut abtropfen kann.",
+                "hu": "A hatalmas gyűjtemény órákig tartó védelmet nyújt; rázza le az esővédőt, mielőtt belépne a száraz kiállítótermekbe.",
+                "ro": "Colecția imensă oferă adăpost pentru ore întregi; scuturați bine pelerina de ploaie înainte de a intra în sălile uscate.",
+                "en": "The massive collection offers hours of shelter; make sure to shake off your rain gear before entering the dry galleries."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens ist die Luft beim Radeln eisig, aber erfrischend. Mittags scheint die Wintersonne auf die antiken Steine der Villa. Nachmittags erkunden Sie den Park, bevor der Wind gegen 16:30 Uhr auffrischt. Abends bietet das Malakologische Museum wohlige Wärme zum Abschluss. Tragen Sie winddichte Kleidung und Handschuhe, da der Fahrtwind am Meer im Winter sehr kalt sein kann.",
+            "hu": "Reggel a levegő jeges, de frissítő a kerékpáron. Délben a téli napsütés megvilágítja a római villa antik köveit. Délután fedezze fel a parkot, mielőtt 16:30 körül feltámad a hűvös parti szél. Estére a Malakológiai Múzeum fűtött termei nyújtanak menedéket. Viseljen szélálló ruhát és kesztyűt, mert a menetszél a tengerparton télen rendkívül hideg.",
+            "ro": "Dimineața aerul este înghețat, dar revigorant pe bicicletă. La prânz, soarele de iarnă luminează pietrele antice ale vilei. După-amiaza, explorați parcul înainte ca vântul să se întețească în jur de ora 16:30. Seara, Muzeul Malacologic oferă căldură pentru finalul zilei. Purtați haine rezistente la vânt și mănuși, briza mării fiind tăioasă iarna.",
+            "en": "Morning air is icy but refreshing while cycling. At noon, the winter sun illuminates the ancient stones of the Roman villa. In the afternoon, explore the park before the coastal wind picks up around 4:30 PM. Evening ends with cozy warmth inside the Malacological Museum. Wear windproof gear and gloves, as the headwind along the sea can be very cold in winter."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Casa Museo Nazzareno Tomassetti",
+                "hu": "Casa Museo Nazzareno Tomassetti",
+                "ro": "Casa Museo Nazzareno Tomassetti",
+                "en": "Casa Museo Nazzareno Tomassetti"
+              },
+              "tip_5lang": {
+                "de": "Der Besuch im Warmen ist eine gute Pause; ziehen Sie die Handschuhe erst kurz vor der Weiterfahrt wieder an.",
+                "hu": "A benti látogatás remek pihenő a hideg után; a kesztyűt csak közvetlenül az indulás előtt húzza vissza a kezére.",
+                "ro": "Vizita în interior este o pauză binevenită; puneți-vă mănușile înapoi doar cu puțin timp înainte de a pleca din nou.",
+                "en": "The indoor visit is a great break from the cold; only put your gloves back on right before you start cycling again."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana con ninfeo",
+                "hu": "Villa romana con ninfeo",
+                "ro": "Villa romana con ninfeo",
+                "en": "Villa romana con ninfeo"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Mosaike; ein toller Moment für kontrastreiche Fotos.",
+                "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a mozaikokra; tökéletes pillanat a kontrasztos fotók készítéséhez.",
+                "ro": "Soarele jos de iarnă aruncă umbre lungi peste mozaicuri; este un moment ideal pentru fotografii cu contrast ridicat.",
+                "en": "The low winter sun casts long shadows over the mosaics; it is a great moment for high-contrast photography."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Archeologico Naturalistico",
+                "hu": "Parco Archeologico Naturalistico",
+                "ro": "Parco Archeologico Naturalistico",
+                "en": "Parco Archeologico Naturalistico"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie sich zügig durch den Park, um warm zu bleiben; beachten Sie, dass das Licht im Winter bereits früh schwindet.",
+                "hu": "Mozogjon tempósan a parkban, hogy melegen tartsa magát; vegye figyelembe, hogy télen a fények már korán fogyni kezdenek.",
+                "ro": "Mergeți vioi prin parc pentru a vă menține căldura; rețineți că lumina începe să scadă considerabil încă de devreme.",
+                "en": "Keep a steady pace through the park to stay warm; keep in mind that the natural light fades very early in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Anfiteatro Padre Erminio Martelli",
+                "hu": "Anfiteatro Padre Erminio Martelli",
+                "ro": "Anfiteatro Padre Erminio Martelli",
+                "en": "Anfiteatro Padre Erminio Martelli"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Halt am Amphitheater; die Steine sind im Winter sehr kalt, meiden Sie längeres Sitzen auf den Rängen.",
+                "hu": "Gyors megálló az amfiteátrumnál; a kövek télen nagyon hidegek, kerülje a hosszas ücsörgést a lelátókon.",
+                "ro": "O oprire rapidă la amfiteatru; pietrele sunt foarte reci iarna, evitați să stați așezat pe gradene pentru mult timp.",
+                "en": "A quick stop at the amphitheater; the stones are very cold in winter, so avoid sitting on the tiers for too long."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Malacologico Piceno",
+                "hu": "Museo Malacologico Piceno",
+                "ro": "Museo Malacologico Piceno",
+                "en": "Museo Malacologico Piceno"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie das beheizte Museum in vollen Zügen; es ist der ideale Ort, um sich vor der Rückfahrt ganz aufzuwärmen.",
+                "hu": "Élvezze ki a fűtött múzeum minden szegletét; ez az ideális hely a teljes felmelegedésre a hazatekerés előtt.",
+                "ro": "Bucurați-vă din plin de muzeul încălzit; este locul ideal pentru a vă încălzi complet înainte de drumul de întoarcere.",
+                "en": "Fully enjoy the heated museum; it is the ideal spot to warm up thoroughly before your return cycle trip."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autóútja a Castello di Sant'Andrea festői déli romjainál kezdődik, ahonnan remek kilátás nyílik. Egy rövid út a városközpontba elvezeti a Museo Archeologico épületéhez és kincseihez.\n\nDélben navigáljon kissé északra a Villa romana con ninfeo felé. Az ókori építészet tökéletes hátteret biztosít a régió mély római gyökereinek megértéséhez és felfedezéséhez.\n\nDélután parkoljon le a Parco Archeologico Naturalistico közelében. Tegyen egy kényelmes sétát a zöld régészeti ösvényeken, mielőtt folytatná festői tengerparti útját.\n\nA nap a távoli északi Museo Malacologico Piceno-nál zárul. Merüljön el a világ tengeri biológiai sokféleségében, majd élvezze a pihentető esti autózást a tengerpart mentén.",
         "ro": "Călătoria cu mașina începe la ruinele sudice ale Castello di Sant'Andrea, oferind vederi spectaculoase. Un scurt drum spre centru vă aduce la Museo Archeologico și comorile sale istorice.\n\nLa amiază, navigați ușor spre nord până la Villa romana con ninfeo. Arhitectura antică oferă un fundal perfect pentru a înțelege rădăcinile romane profunde ale acestei regiuni.\n\nDupă-amiaza, parcați lângă Parco Archeologico Naturalistico. Faceți o plimbare relaxantă prin traseele arheologice verzi înainte de a vă continua drumul pitoresc pe coastă.\n\nZiua se încheie la Museo Malacologico Piceno din extremitatea nordică. Pătrundeți în biodiversitatea marină a lumii înainte de a vă bucura de o plimbare relaxantă de seară pe țărm.",
         "en": "Your drive begins at the scenic southern ruins of Castello di Sant'Andrea, offering commanding early morning views. A short drive to the town center brings you to the Museo Archeologico and its rich historical treasures.\n\nBy midday, navigate slightly north to the Villa romana con ninfeo. The ancient architecture provides a perfect backdrop for understanding the deep Roman roots of the region.\n\nIn the afternoon, park near the Parco Archeologico Naturalistico. Take a leisurely stroll through the green archaeological trails before continuing your scenic coastal drive.\n\nThe day concludes at the expansive Museo Malacologico Piceno in the far north. Dive into the world's marine biodiversity before enjoying a relaxed evening drive along the shore."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Fahrt zum Schloss eine tolle Aussicht aus dem trockenen Auto. Mittags ist das Museum der perfekte Zufluchtsort. Nachmittags besuchen Sie die antiken Stätten, wenn der Regen nachlässt. Abends schließt das Malakologische Museum den Tag indoor ab. Nutzen Sie die Parkplätze nah an den Eingängen und halten Sie Ihren Regenschirm im Auto stets griffbereit.",
+            "hu": "Reggel a várba vezető út során az autóból is élvezheti a kilátást, miközben kint esik. Délben a múzeum a tökéletes menedék. Délután látogassa meg az antik helyszíneket, ha alábbhagy a csapadék. Estére a Malakológiai Múzeum zárja a napot fedett helyen. Használja a bejáratokhoz közeli parkolókat, és tartsa az esernyőt mindig elérhető helyen az autóban.",
+            "ro": "Dimineața, drumul spre castel oferă priveliști frumoase din mașina uscată. La prânz, muzeul este refugiul perfect. După-amiaza, vizitați siturile antice când ploaia se mai domolește. Seara, Muzeul Malacologic încheie ziua la interior. Folosiți parcările apropiate de intrări și păstrați umbrela la îndemână în mașină tot timpul.",
+            "en": "Morning drive to the castle offers great views from your dry car. At noon, the museum is the perfect rainy-day refuge. In the afternoon, visit the ancient sites when the rainfall eases up. Evening ends indoors at the Malacological Museum. Use the parking spots closest to the entrances and always keep your umbrella within reach inside the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Sant'Andrea",
+                "hu": "Castello di Sant'Andrea",
+                "ro": "Castello di Sant'Andrea",
+                "en": "Castello di Sant'Andrea"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die Burgruine vom Parkplatz aus, falls der Regen zu stark für einen Spaziergang ist.",
+                "hu": "Élvezze a kilátást a várromokra közvetlenül a parkolóból, ha az eső túl intenzív egy gyalogos sétához.",
+                "ro": "Bucurați-vă de vederea spre ruinele castelului direct din parcare, dacă ploaia este prea intensă pentru o plimbare.",
+                "en": "Enjoy the view of the castle ruins directly from the parking lot if the rain is too heavy for a walk."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico",
+                "hu": "Museo Archeologico",
+                "ro": "Museo Archeologico",
+                "en": "Museo Archeologico"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor; das Museum bietet ein umfassendes Indoor-Programm, das Sie völlig trocken hält.",
+                "hu": "Parkoljon közvetlenül az épület előtt; a múzeum átfogó fedett programot kínál, amely teljesen szárazon tartja Önt.",
+                "ro": "Parcați direct în față; muzeul oferă un program interior cuprinzător care vă va menține complet uscat.",
+                "en": "Park directly in front; the museum offers a comprehensive indoor program that will keep you completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana con ninfeo",
+                "hu": "Villa romana con ninfeo",
+                "ro": "Villa romana con ninfeo",
+                "en": "Villa romana con ninfeo"
+              },
+              "tip_5lang": {
+                "de": "Die Ausgrabungen haben teilweise Überdachungen; ein kurzer Sprint vom Auto reicht aus, um die Mosaike zu sehen.",
+                "hu": "Az ásatások helyszíne részben fedett; az autótól egy rövid futás is elég, hogy megtekintse az antik mozaikokat.",
+                "ro": "Situl are parțial acoperiș; un scurt sprint de la mașină este suficient pentru a vedea mozaicurile antice.",
+                "en": "The excavation site is partially covered; a short dash from the car is enough to see the ancient mosaics."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Archeologico Naturalistico",
+                "hu": "Parco Archeologico Naturalistico",
+                "ro": "Parco Archeologico Naturalistico",
+                "en": "Parco Archeologico Naturalistico"
+              },
+              "tip_5lang": {
+                "de": "Bei Regen sind die Wege glatt; fahren Sie vorsichtig auf den schmalen Zufahrtsstraßen zum Parkgelände.",
+                "hu": "Esőben az utak csúszósak; vezessen óvatosan a park területére vezető keskeny és kanyargós aszfaltutakon.",
+                "ro": "Pe ploaie drumurile sunt alunecoase; conduceți cu prudență pe căile de acces înguste spre zona parcului.",
+                "en": "In the rain, the roads are slippery; drive carefully on the narrow access roads leading to the park area."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Malacologico Piceno",
+                "hu": "Museo Malacologico Piceno",
+                "ro": "Museo Malacologico Piceno",
+                "en": "Museo Malacologico Piceno"
+              },
+              "tip_5lang": {
+                "de": "Ein großes Gebäude mit viel Platz; perfekt, um den Tag entspannt ausklingen zu lassen, ohne nass zu werden.",
+                "hu": "Hatalmas épület rengeteg látnivalóval; tökéletes a nap lezárásához anélkül, hogy bőrig ázna a szabadban.",
+                "ro": "O clădire imensă cu multe exponate; perfectă pentru a încheia ziua relaxat, fără a vă uda deloc afară.",
+                "en": "A huge building with plenty of exhibits; perfect for ending the day relaxed without getting wet outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Morgens genießen Sie die klare Sicht auf die Burg im Winterlicht. Mittags bietet das Museum eine angenehme Wärme. Nachmittags erkunden Sie die Villenanlage, bevor es gegen 17:00 Uhr dunkel wird. Abends ist das Malakologische Museum der ideale Abschluss im Trockenen. Nutzen Sie die Sitzheizung Ihres Autos für die kurzen Fahrten zwischen den winterlichen Highlights.",
+            "hu": "Reggel élvezze a várra nyíló tiszta kilátást a téli fényben. Délben a múzeum kellemes meleget áraszt a látogatóknak. Délután fedezze fel a római villa romjait, mielőtt 17 óra körül teljesen besötétedik. Estére a Malakológiai Múzeum az ideális választás a fűtött belső térben. Használja az autó ülésfűtését a téli látnivalók közötti rövid utazások során.",
+            "ro": "Dimineața bucurați-vă de vederea clară spre castel în lumina iernii. La prânz, muzeul oferă o căldură plăcută vizitatorilor. După-amiaza, explorați ruinele vilei înainte ca întunericul să se lase la ora 17:00. Seara, Muzeul Malacologic este alegerea ideală la interior. Folosiți încălzirea din scaune pentru drumurile scurte între atracții.",
+            "en": "Morning brings clear winter views of the castle ruins. At noon, the museum provides a welcome warmth for visitors. In the afternoon, explore the Roman villa site before darkness falls around 5 PM. Evening ends perfectly at the Malacological Museum's heated galleries. Utilize your car's seat heating for the short drives between these winter highlights."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Castello di Sant'Andrea",
+                "hu": "Castello di Sant'Andrea",
+                "ro": "Castello di Sant'Andrea",
+                "en": "Castello di Sant'Andrea"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen wirken im Winterlicht besonders markant; ziehen Sie sich warm an für den kurzen Weg vom Parkplatz.",
+                "hu": "A romok a téli fényben különösen karakteresek; öltözzön fel melegen a parkolótól a várig tartó rövid sétához.",
+                "ro": "Ruinele par deosebit de marcante în lumina iernii; îmbrăcați-vă gros pentru scurta plimbare din parcare.",
+                "en": "The ruins look particularly striking in the winter light; dress warmly for the short walk from the parking lot."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Archeologico",
+                "hu": "Museo Archeologico",
+                "ro": "Museo Archeologico",
+                "en": "Museo Archeologico"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort zum Aufwärmen; die Ausstellungen sind im Winter oft ruhiger und laden zum Verweilen ein.",
+                "hu": "Ideális hely a felmelegedésre; a kiállítások télen gyakran csendesebbek, így nyugodtan elmerülhet a részletekben.",
+                "ro": "Un loc ideal pentru a vă încălzi; expozițiile sunt adesea mai liniștite iarna, permițând o vizită relaxată.",
+                "en": "An ideal spot to warm up; the exhibits are often quieter in winter, allowing for a very peaceful and detailed visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa romana con ninfeo",
+                "hu": "Villa romana con ninfeo",
+                "ro": "Villa romana con ninfeo",
+                "en": "Villa romana con ninfeo"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie diesen Stopp für den frühen Nachmittag ein, um das beste natürliche Licht auf den Mosaiken zu haben.",
+                "hu": "Ezt a megállót a kora délutáni órákra tervezze, hogy a legjobb természetes fényben láthassa az antik mozaikokat.",
+                "ro": "Planificați această oprire pentru începutul după-amiezii, pentru a avea cea mai bună lumină naturală pe mozaicuri.",
+                "en": "Plan this stop for the early afternoon to enjoy the best natural lighting on the ancient mosaics."
+              }
+            },
+            {
+              "name": {
+                "de": "Parco Archeologico Naturalistico",
+                "hu": "Parco Archeologico Naturalistico",
+                "ro": "Parco Archeologico Naturalistico",
+                "en": "Parco Archeologico Naturalistico"
+              },
+              "tip_5lang": {
+                "de": "Die Naturruhe im Winter ist herrlich; achten Sie auf die Öffnungszeiten, die in der Nebensaison kürzer sein können.",
+                "hu": "A természet téli nyugalma csodálatos; ügyeljen a nyitvatartási időre, amely a szezonon kívül rövidebb lehet.",
+                "ro": "Liniștea naturii iarna este minunată; atenție la programul de vizitare, care poate fi mai scurt în extrasezon.",
+                "en": "The winter peace of nature is wonderful; keep an eye on the opening hours, as they may be shorter in the off-season."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo Malacologico Piceno",
+                "hu": "Museo Malacologico Piceno",
+                "ro": "Museo Malacologico Piceno",
+                "en": "Museo Malacologico Piceno"
+              },
+              "tip_5lang": {
+                "de": "Das beheizte Gebäude ist ein Segen an kalten Winterabenden; genießen Sie die Vielfalt der Muscheln ohne Eile.",
+                "hu": "A fűtött épület igazi áldás a hideg téli estéken; élvezze a kagylók sokszínűségét sietség nélkül, kényelemben.",
+                "ro": "Clădirea încălzită este o binecuvântare în serile reci; bucurați-vă de diversitatea scoicilor fără nicio grabă.",
+                "en": "The heated building is a blessing on cold winter evenings; enjoy the diversity of shells without any hurry."
+              }
+            }
+          ]
+        }
       }
     }
   }

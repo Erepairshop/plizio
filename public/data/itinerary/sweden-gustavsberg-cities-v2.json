@@ -137,6 +137,168 @@
         "hu": "A reggel Gustavsberg történelmi szívében kezdődik, ahol a korai települések egy ipari múlt meséit suttogják. A délidő közelebb hozza Önt a vízhez, követve Farstaviken festői partjait és a téglagyár tartós örökségét. A délután kellemes pihenésre csábít a helyi sziklás strandon, egyensúlyba hozva a történelmet a természet nyugalmával. Az este a klasszikus fa örökségi helyszíneken ér véget, maradandó emlékeket hagyva a szigettenger varázslatos karakteréről.",
         "ro": "Dimineața începe în inima istorică a Gustavsberg, unde așezările timpurii șoptesc povești despre un trecut industrial. Amiaza vă aduce mai aproape de apă, urmărind țărmurile pitorești ale Farstaviken și moștenirea durabilă a fabricii de cărămidă. După-amiaza invită la o pauză relaxantă pe plaja stâncoasă locală, echilibrând istoria cu seninătatea naturală. Seara se încheie la siturile clasice din lemn, lăsându-vă cu amintiri de neuitat despre caracterul fermecător al arhipelagului.",
         "en": "Morning begins in the historic heart of Gustavsberg, where the early settlements whisper tales of an industrial past. Midday brings you closer to the water, tracing the picturesque shores of Farstaviken and the enduring legacy of the brickyard. Afternoon invites a leisurely pause at the local rocky beach, balancing history with natural serenity. Evening concludes at classic wooden heritage sites, leaving you with lasting memories of the archipelago's charming character."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Morgen beginnt zwischen den historischen Ziegelbauten, deren Farben im nassen Zustand intensiver leuchten. Mittags bietet die Bucht von Farstaviken einen mystischen Anblick im Nebel. Am Nachmittag erkunden wir die geschützten Bereiche der alten Industrieanlagen. Der Abend klingt im Hafen aus, wo sich die Lichter in den Pfützen auf dem Pflaster spiegeln.",
+            "hu": "Reggel a történelmi falak között indulunk, ahol az eső illata felerősíti az ipari múlt hangulatát. Délben a Farstaviken párás víztükre melankolikus, de szép látványt nyújt az esernyők alól. Délután a régi téglaépületek nyújtanak némi szélvédelmet, miközben a helyi örökséget kutatjuk. Az este korán köszönt ránk a szürke ég alatt, a kikötő fényei már a vizes kövezeten tükröződnek.",
+            "ro": "O dimineață ploioasă începe printre clădirile istorice de cărămidă, ale căror culori strălucesc mai intens în umezeală. La prânz, golful Farstaviken oferă o priveliște mistică în ceață. După-amiaza explorăm zonele protejate ale vechilor situri industriale. Seara se încheie în port, unde luminile se reflectă în bălțile de pe pavaj, creând o atmosferă liniștită.",
+            "en": "A rainy morning begins among historical brick buildings, their colors glowing intensely in the wet air. At noon, Farstaviken bay offers a mystical sight through the mist. In the afternoon, we explore the sheltered areas of the old industrial sites. The evening winds down at the harbor, where lights reflect in the puddles on the pavement, creating a cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gustavsberg 38:1",
+                "hu": "Gustavsberg 38:1",
+                "ro": "Gustavsberg 38:1",
+                "en": "Gustavsberg 38:1"
+              },
+              "tip_5lang": {
+                "de": "Die roten Ziegel leuchten im Regen besonders stark; tragen Sie wasserfeste Schuhe, da das Kopfsteinpflaster rund um die Ruinen bei Nässe rutschig sein kann.",
+                "hu": "A vörös téglák színe mélyebb az esőben; viseljen vízálló túrabakancsot, mert a romok körüli macskaköves talaj csúszóssá válhat a nedvességtől.",
+                "ro": "Cărămizile roșii strălucesc mai tare în ploaie; purtați încălțăminte impermeabilă, deoarece pavajul din jurul ruinelor poate deveni alunecos când este ud.",
+                "en": "The red bricks glow deeper in the rain; wear waterproof hiking boots as the cobblestones around the ruins can become slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Farstaviken",
+                "hu": "Farstaviken",
+                "ro": "Farstaviken",
+                "en": "Farstaviken"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf die neblige Bucht von einer überdachten Bank aus und nutzen Sie ein Fernglas, um die Vögel im grauen Dunst zu beobachten.",
+                "hu": "Csodálja meg a ködös öböl látványát egy fedett pad alól, és használjon távcsövet a szürke párában úszkáló vízimadarak megfigyeléséhez.",
+                "ro": "Admirați golful încețoșat de sub o bancă acoperită și folosiți binoclul pentru a observa păsările care plutesc prin burnița cenușie a amiezii.",
+                "en": "Admire the misty bay from under a sheltered bench and use binoculars to spot waterfowl floating through the grey afternoon drizzle."
+              }
+            },
+            {
+              "name": {
+                "de": "Tegelbruk",
+                "hu": "Tegelbruk",
+                "ro": "Tegelbruk",
+                "en": "Tegelbruk"
+              },
+              "tip_5lang": {
+                "de": "Die alten Ziegeleiwände bieten guten Windschutz; suchen Sie Schutz unter den Dachvorsprüngen, während Sie die industrielle Textur der Fassaden bewundern.",
+                "hu": "A régi téglafalak jó szélvédelmet nyújtanak; keresse a tető alatti részeket, miközben a homlokzatok ipari textúráját és a múlt emlékeit tanulmányozza.",
+                "ro": "Zidurile vechii fabrici oferă protecție împotriva vântului; căutați adăpost sub streșini în timp ce admirați textura industrială a fațadelor istorice.",
+                "en": "The old brick walls offer good wind protection; seek shelter under the eaves while admiring the industrial texture of these historic facades."
+              }
+            },
+            {
+              "name": {
+                "de": "Badplats Kalsongberget",
+                "hu": "Badplats Kalsongberget",
+                "ro": "Badplats Kalsongberget",
+                "en": "Badplats Kalsongberget"
+              },
+              "tip_5lang": {
+                "de": "Ein dramatischer Ort bei Regen; beobachten Sie das Muster der Tropfen auf dem Wasser und tragen Sie eine hochwertige Regenjacke gegen den Küstenwind.",
+                "hu": "Drámai helyszín esőben; figyelje a vízen táncoló esőcseppek mintázatát, és viseljen minőségi esőkabátot a felerősödő parti szél ellen.",
+                "ro": "Un loc dramatic în ploaie; observați modelul picăturilor pe suprafața apei și purtați o jachetă impermeabilă de calitate împotriva vântului de coastă.",
+                "en": "A dramatic spot in the rain; watch the pattern of raindrops on the water's surface and wear a quality raincoat against the coastal wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustavsberg 76",
+                "hu": "Gustavsberg 76",
+                "ro": "Gustavsberg 76",
+                "en": "Gustavsberg 76"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie die Tour an diesem historischen Punkt und achten Sie auf die moosigen Steine, die bei Nässe glatt sind; ideal für stimmungsvolle Fotos.",
+                "hu": "Zárja a túrát ezen a történelmi ponton, figyelve a mohás kövekre, amelyek nedvesen csúsznak; kiváló helyszín hangulatos, esős fotók készítéséhez.",
+                "ro": "Încheiați turul în acest punct istoric, fiind atenți la pietrele cu mușchi care sunt alunecoase; un loc ideal pentru fotografii atmosferice.",
+                "en": "End your tour at this historic point, watching out for mossy stones that get slippery; an ideal spot for atmospheric rainy photography."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Frostige Luft und schneebedeckte Pfade prägen den Morgen im Keramikviertel. Mittags glitzert das Eis auf der Farstaviken-Bucht im schwachen Sonnenlicht. Am Nachmittag suchen wir die Nähe der warmen Ziegelmauern, bevor die Dämmerung gegen 17:00 Uhr einsetzt. Der Abend wird gemütlich, wenn die Fenster der Ateliers warmes Licht in die verschneiten Straßen werfen.",
+            "hu": "Dermesztő levegő és hóval borított ösvények fogadnak reggel a kerámianegyedben. Délben a jég csillog a Farstaviken öböl felszínén a gyenge téli napsütésben. Délután a meleg téglafalak közelségét keressük, mielőtt 17:00 körül leszáll az éj. Az este meghitté válik, ahogy a műhelyek ablakai meleg fényt árasztanak a havas utcákra.",
+            "ro": "Aerul înghețat și potecile înzăpezite marchează dimineața în cartierul ceramicii. La prânz, gheața sclipeste pe golful Farstaviken în lumina slabă a soarelui. După-amiaza căutăm căldura zidurilor de cărămidă înainte ca întunericul să se lase în jur de ora 17:00. Seara devine primitoare datorită luminilor calde din ateliere.",
+            "en": "Frosty air and snow-covered paths mark the morning in the ceramic district. At noon, ice glitters on Farstaviken bay in the weak winter sunlight. In the afternoon, we stay close to the warm brick walls before darkness falls around 17:00. The evening turns cozy as studio windows cast warm light onto the snowy streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Gustavsberg 38:1",
+                "hu": "Gustavsberg 38:1",
+                "ro": "Gustavsberg 38:1",
+                "en": "Gustavsberg 38:1"
+              },
+              "tip_5lang": {
+                "de": "Die schneebedeckten Ruinen wirken im Winter wie verzaubert; tragen Sie Thermokleidung und feste Winterstiefel für den Gang durch den tiefen Schnee.",
+                "hu": "A hóval borított romok télen varázslatos látványt nyújtanak; viseljen termoruházatot és bélelt bakancsot a mély hóban való biztonságos haladáshoz.",
+                "ro": "Ruinele acoperite de zăpadă par fermecate iarna; purtați haine termice și cizme de iarnă solide pentru a merge prin zăpada adâncă din jur.",
+                "en": "The snow-covered ruins look enchanted in winter; wear thermal layers and solid winter boots for walking through the deep snow around the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Farstaviken",
+                "hu": "Farstaviken",
+                "ro": "Farstaviken",
+                "en": "Farstaviken"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Treibeis in der Bucht; der kalte Seewind kann beißend sein, bringen Sie also eine Thermoskanne mit einem heißen Getränk mit.",
+                "hu": "Figyelje az öbölben úszó jégtáblákat; a jeges tengeri szél metsző lehet, ezért hozzon magával forró teát egy termoszban az átmelegedéshez.",
+                "ro": "Observați gheața care plutește în golf; vântul rece de mare poate fi tăios, așa că aduceți un termos cu o băutură caldă pentru a vă încălzi.",
+                "en": "Watch the floating ice in the bay; the cold sea wind can be biting, so bring a thermos with a hot drink to keep you warm during the stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Tegelbruk",
+                "hu": "Tegelbruk",
+                "ro": "Tegelbruk",
+                "en": "Tegelbruk"
+              },
+              "tip_5lang": {
+                "de": "Die Ziegel speichern auch im Winter eine gewisse Restwärme der Sonne; nutzen Sie die windgeschützten Ecken für eine kurze Rast im Schutz der Mauern.",
+                "hu": "A téglák még télen is megőriznek valamennyit a nap melegéből; használja a szélvédett zugokat egy rövid pihenőre a masszív falak oltalma alatt.",
+                "ro": "Cărămizile păstrează puțină căldură de la soare chiar și iarna; folosiți colțurile ferite de vânt pentru un scurt popas la adăpostul zidurilor masive.",
+                "en": "The bricks retain some residual warmth from the sun even in winter; use the wind-sheltered corners for a brief rest protected by the solid walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Badplats Kalsongberget",
+                "hu": "Badplats Kalsongberget",
+                "ro": "Badplats Kalsongberget",
+                "en": "Badplats Kalsongberget"
+              },
+              "tip_5lang": {
+                "de": "Ein einsamer, friedlicher Ort im Winter; achten Sie auf vereiste Felsen am Ufer und genießen Sie die Stille der gefrorenen schwedischen Schärenlandschaft.",
+                "hu": "Magányos és békés hely télen; ügyeljen a jeges sziklákra a parton, és élvezze a befagyott svéd szigetvilág lenyűgöző, néma nyugalmát.",
+                "ro": "Un loc singuratic și pașnic iarna; atenție la stâncile înghețate de pe mal și bucurați-vă de liniștea peisajului înghețat al arhipelagului suedez.",
+                "en": "A lonely and peaceful spot in winter; watch out for icy rocks on the shore and enjoy the silence of the frozen Swedish archipelago landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustavsberg 76",
+                "hu": "Gustavsberg 76",
+                "ro": "Gustavsberg 76",
+                "en": "Gustavsberg 76"
+              },
+              "tip_5lang": {
+                "de": "Die Dämmerung setzt hier früh ein; stellen Sie sicher, dass Sie bis 16:30 Uhr zurück im beleuchteten Zentrum sind, um den Rückweg sicher zu finden.",
+                "hu": "A szürkület itt korán beköszönt; ügyeljen rá, hogy 16:30-ig érjen vissza a kivilágított központba, hogy biztonságban megtalálja a hazavezető utat.",
+                "ro": "Amurgul se lasă devreme aici; asigurați-vă că vă întoarceți în centrul iluminat până la ora 16:30 pentru a găsi drumul în siguranță pe întuneric.",
+                "en": "Twilight sets in early here; make sure to head back to the illuminated center by 16:30 to find your way safely as the darkness falls."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a reggelt frissítő szellővel, miközben átkel a fenséges Farstabron hídon, üdvözölve az öblöt. Délre elmélyed a város mély ipari történelmében, és megcsodálja a festői Farstaviken kikötőt. A délután egy inspiráló utazássá nyúlik az Artipelag felé, ahol a művészet sűrű fenyőerdőkkel találkozik. Az este egy jól megérdemelt, megnyugtató látogatással jutalmazza aktív napját a modern fedett fürdőben, mielőtt hazatérne.",
         "ro": "Începeți dimineața cu o briză răcoritoare în timp ce traversați maiestuosul Farstabron, salutând golful. Până la amiază, vă aprofundați în istoria industrială a orașului și admirați pitorescul port Farstaviken. După-amiaza se transformă într-o călătorie plină de inspirație la Artipelag, unde arta întâlnește pădurile dese de pini. Seara vă răsplătește ziua activă cu o vizită binemeritată și liniștitoare la băile interioare moderne înainte de a pleca.",
         "en": "Kick off the morning with a refreshing breeze as you cross the majestic Farstabron, greeting the bay. By midday, you're delving into the town's profound industrial history and admiring the scenic Farstaviken harbor. Afternoon stretches into an inspiring journey to Artipelag, where world-class art meets dense pine forests. Evening rewards your active day with a well-deserved, soothing visit to the modern indoor baths before heading home."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine erfrischende Radtour durch den Regen beginnt an der Farstabron. Mittags radeln wir am Ufer der Farstaviken entlang, wo der Asphalt glänzt. Am Nachmittag bietet das Artipelag ein trockenes Ziel für Kunstliebhaber. Den Abend beschließen wir entspannt im Gustavsbergbadet, wo wir uns im warmen Wasser vom Regenwetter erholen können.",
+            "hu": "Frissítő kerékpártúra indul az esőben a Farstabrontól. Délben a Farstaviken partján tekerünk, ahol az aszfalt feketén csillog a víztől. Délután az Artipelag nyújt száraz menedéket és művészeti élményeket. Az estét a Gustavsbergbadetben zárjuk, ahol a meleg medencékben pihenhetjük ki az esős időben tett kirándulás fáradalmait.",
+            "ro": "O tură revigorantă cu bicicleta prin ploaie începe la Farstabron. La prânz pedalăm pe malul golfului Farstaviken, unde asfaltul strălucește. După-amiaza, Artipelag oferă o destinație uscată pentru iubitorii de artă. Încheiem seara relaxați la Gustavsbergbadet, unde ne putem recupera după ploaie în apa caldă.",
+            "en": "A refreshing bike tour through the rain starts at Farstabron. At noon, we cycle along Farstaviken shore where the asphalt glitters with water. In the afternoon, Artipelag provides a dry haven for art lovers. We conclude the evening at Gustavsbergbadet, where warm pools offer a perfect escape from the rainy weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Farstabron",
+                "hu": "Farstabron",
+                "ro": "Farstabron",
+                "en": "Farstabron"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke ist dem Wind ausgesetzt; tragen Sie eine winddichte Regenjacke und achten Sie auf die Dehnungsfugen, die bei Nässe extrem rutschig sind.",
+                "hu": "A híd erősen ki van téve a szélnek; viseljen szélálló esőkabátot, és ügyeljen az illesztésekre, amelyek vizesen rendkívül csúszóssá válnak.",
+                "ro": "Podul este expus vântului; purtați o jachetă de ploaie rezistentă la vânt și atenție la îmbinări, care devin extrem de alunecoase când sunt ude.",
+                "en": "The bridge is very exposed to wind; wear a windproof raincoat and watch out for the expansion joints, which become extremely slippery when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Farstaviken",
+                "hu": "Farstaviken",
+                "ro": "Farstaviken",
+                "en": "Farstaviken"
+              },
+              "tip_5lang": {
+                "de": "Der Uferweg ist flach, aber Pfützen können tief sein; nutzen Sie Schutzbleche am Fahrrad, um Spritzwasser von Ihrer Kleidung fernzuhalten.",
+                "hu": "A parti út sík, de a tócsák mélyek lehetnek; használjon sárvédőt a kerékpáron, hogy megvédje ruházatát a felverődő víztől és sártól.",
+                "ro": "Drumul de pe mal este plat, dar bălțile pot fi adânci; folosiți apărători la bicicletă pentru a vă proteja hainele de apa și noroiul împroșcat.",
+                "en": "The shore path is flat but puddles can be deep; use mudguards on your bike to keep splashing water and mud off your clothes during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustavsberg 38:1",
+                "hu": "Gustavsberg 38:1",
+                "ro": "Gustavsberg 38:1",
+                "en": "Gustavsberg 38:1"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad an einem stabilen Gestell; der Boden bei den Ruinen kann schlammig sein, schieben Sie das Rad daher lieber auf den befestigten Wegen.",
+                "hu": "Parkoljon stabil tárolónál; a romok környéke sáros lehet, ezért inkább tolja a kerékpárt a kijelölt aszfaltozott utakon a biztonság kedvéért.",
+                "ro": "Parcați bicicleta pe un suport stabil; zona ruinelor poate fi noroioasă, așa că e mai bine să împingeți bicicleta pe drumurile pavate.",
+                "en": "Park your bike at a stable rack; the area around the ruins can be muddy, so it's better to push your bike on the paved paths to stay safe."
+              }
+            },
+            {
+              "name": {
+                "de": "Artipelag",
+                "hu": "Artipelag",
+                "ro": "Artipelag",
+                "en": "Artipelag"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den überdachten Fahrradparkplatz und trocknen Sie Ihre Ausrüstung in der Garderobe, während Sie die Indoor-Ausstellungen genießen.",
+                "hu": "Használja a fedett kerékpártárolót, és szárítsa meg felszerelését a ruhatárban, miközben bent élvezi a modern művészeti kiállításokat.",
+                "ro": "Folosiți parcarea acoperită pentru biciclete și lăsați echipamentul la uscat la garderobă în timp ce vizitați expozițiile din interior.",
+                "en": "Use the sheltered bike parking and let your gear dry at the cloakroom while you enjoy the modern art exhibitions indoors away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustavsbergbadet",
+                "hu": "Gustavsbergbadet",
+                "ro": "Gustavsbergbadet",
+                "en": "Gustavsbergbadet"
+              },
+              "tip_5lang": {
+                "de": "Das ideale Ziel nach einer nassen Tour; die warmen Innenbecken sind der perfekte Ort, um die Muskeln aufzuwärmen und den Regen draußen zu vergessen.",
+                "hu": "Ideális célpont egy vizes túra után; a meleg beltéri medencék tökéletesek az izmok átmelegítésére és az esős idő elfeledésére.",
+                "ro": "Destinația ideală după o tură umedă; bazinele interioare calde sunt locul perfect pentru a vă relaxa mușchii și a uita de ploaia de afară.",
+                "en": "The perfect destination after a wet ride; the warm indoor pools are great for warming up your muscles and forgetting about the rain outside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Radtour erfordert warme Kleidung ab der Farstabron. Mittags radeln wir vorsichtig auf geräumten Wegen entlang der Farstaviken. Am Nachmittag bietet das Artipelag einen warmen Zufluchtsort mit Blick auf die vereiste Schärenlandschaft. Der Tag endet im Gustavsbergbadet, wo die Sauna nach der kalten Fahrt für wohlige Wärme sorgt.",
+            "hu": "A téli kerékpártúra meleg rétegeket igényel már a Farstabrontól kezdve. Délben óvatosan haladunk a letakarított utakon a Farstaviken mentén. Délután az Artipelag meleg menedéket nyújt, kilátással a befagyott szigetvilágra. A nap a Gustavsbergbadetben ér véget, ahol a szauna várja a fázós bicikliseket.",
+            "ro": "O tură de iarnă cu bicicleta necesită haine groase încă de la Farstabron. La prânz pedalăm cu grijă pe drumurile curățate de-a lungul Farstaviken. După-amiaza, Artipelag oferă un refugiu cald cu vedere la arhipelagul înghețat. Ziua se termină la Gustavsbergbadet, unde sauna oferă căldura mult dorită.",
+            "en": "A winter bike tour requires warm layers starting from Farstabron. At noon, we cycle carefully on cleared paths along Farstaviken. In the afternoon, Artipelag offers a warm sanctuary with views over the frozen archipelago. The day ends at Gustavsbergbadet, where the sauna awaits cold cyclists for total relaxation."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Farstabron",
+                "hu": "Farstabron",
+                "ro": "Farstabron",
+                "en": "Farstabron"
+              },
+              "tip_5lang": {
+                "de": "Der Wind auf der Brücke kann die gefühlte Temperatur senken; tragen Sie unbedingt eine Gesichtsmaske oder einen Schal und Handschuhe gegen den Frost.",
+                "hu": "A hídon a szél jelentősen csökkenti a hőérzetet; mindenképpen viseljen arcmaszkot vagy sálat és bélelt kesztyűt a fagyos menetszél ellen.",
+                "ro": "Vântul de pe pod scade temperatura resimțită; purtați neapărat o mască de față sau un fular și mănuși groase împotriva gerului tăios.",
+                "en": "The wind on the bridge lowers the perceived temperature; be sure to wear a face mask or scarf and thick gloves against the freezing draft."
+              }
+            },
+            {
+              "name": {
+                "de": "Farstaviken",
+                "hu": "Farstaviken",
+                "ro": "Farstaviken",
+                "en": "Farstaviken"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf schwarzes Eis auf dem Radweg; Spikereifen sind im Winter in Schweden sehr zu empfehlen, um auf den Uferwegen sicher zu bleiben.",
+                "hu": "Ügyeljen a felfagyásokra a kerékpárúton; a szöges gumi erősen ajánlott télen Svédországban, hogy biztonságban maradhasson a parti utakon.",
+                "ro": "Atenție la gheața neagră de pe pistă; anvelopele cu ținte sunt recomandate iarna în Suedia pentru a rămâne în siguranță pe drumurile de pe mal.",
+                "en": "Watch out for black ice on the bike path; studded tires are highly recommended in winter in Sweden to stay safe on the coastal routes."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustavsberg 38:1",
+                "hu": "Gustavsberg 38:1",
+                "ro": "Gustavsberg 38:1",
+                "en": "Gustavsberg 38:1"
+              },
+              "tip_5lang": {
+                "de": "Das Schieben des Rades durch den Schnee kann anstrengend sein; bleiben Sie auf den Hauptwegen und genießen Sie die Stille der weißen Industrieruinen.",
+                "hu": "A kerékpár tolása a hóban fárasztó lehet; maradjon a főutakon, és élvezze a fehérbe öltözött ipari romok különleges, néma csendjét.",
+                "ro": "Împingerea bicicletei prin zăpadă poate fi obositoare; rămâneți pe drumurile principale și bucurați-vă de liniștea ruinelor industriale albe.",
+                "en": "Pushing your bike through the snow can be tiring; stay on the main paths and enjoy the special silence of the white-clad industrial ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Artipelag",
+                "hu": "Artipelag",
+                "ro": "Artipelag",
+                "en": "Artipelag"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann im Winter glatt sein; parken Sie vorsichtig und wärmen Sie sich im Restaurant bei einer heißen Suppe mit Blick auf das Eis auf.",
+                "hu": "A feljáró télen csúszós lehet; parkoljon óvatosan, és melegedjen fel az étteremben egy forró levessel, miközben a befagyott tengert nézi.",
+                "ro": "Rampa de acces poate fi alunecoasă iarna; parcați cu grijă și încălziți-vă în restaurant cu o supă caldă, privind marea înghețată.",
+                "en": "The driveway can be slippery in winter; park carefully and warm up in the restaurant with a hot soup while overlooking the frozen sea."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustavsbergbadet",
+                "hu": "Gustavsbergbadet",
+                "ro": "Gustavsbergbadet",
+                "en": "Gustavsbergbadet"
+              },
+              "tip_5lang": {
+                "de": "Nach der Kälte ist die Sauna hier ein Muss; planen Sie genug Zeit ein, um die Wärme vollständig zu genießen, bevor Sie den Heimweg antreten.",
+                "hu": "A hideg után a szauna kötelező program; tervezzen elég időt a teljes átmelegedésre, mielőtt a sötétedés után elindulna hazafelé.",
+                "ro": "După frig, sauna este obligatorie aici; planificați-vă suficient timp pentru a vă încălzi complet înainte de a pleca spre casă pe întuneric.",
+                "en": "After the cold, the sauna here is a must; plan enough time to warm up completely before heading home after the early winter sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -399,6 +723,168 @@
         "hu": "Autós utazása a nyugodt Velamsundsbadetnél kezdődik, ahol belélegezheti az érintetlen szigettenger levegőjét. A dél közeledtével az északi történelmi negyedeken keresztül navigál. A délután fenséges fordulatot vesz, amint elhalad a klasszikus birtokok, például a Lilla Kårnäs gård mellett. Az este az Artipelagnál köszönt be, amely az élvonalbeli kortárs kultúra és a mély északi természet látványos fúzióját nyújtja.",
         "ro": "Conducerea începe la liniștitul Velamsundsbadet, respirând aerul curat al arhipelagului. Pe măsură ce se apropie amiaza, navigați prin cartierele istorice din nord. După-amiaza ia o turnură regală în timp ce treceți pe lângă moșii clasice precum Lilla Kårnäs gård. Seara coboară la Artipelag, oferind o fuziune spectaculoasă a culturii contemporane de ultimă oră și a naturii nordice profunde.",
         "en": "Your drive begins at the tranquil Velamsundsbadet, breathing in the pristine archipelago air. As midday approaches, navigate through the northern historical quarters, witnessing the town's meticulously preserved brick and wood structures. The afternoon takes a regal turn as you cruise past classic estates like Lilla Kårnäs gård. Evening descends at Artipelag, providing a spectacular fusion of cutting-edge contemporary culture and deep Nordic nature."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine gemütliche Autofahrt durch den Regen beginnt am Velamsundsbadet. Mittags erkunden wir die historischen Stätten von Gustavsberg, während die Scheibenwischer den Rhythmus vorgeben. Am Nachmittag fahren wir über die nassen Landstraßen zum Artipelag. Den Abend genießen wir trocken im Museum, wo das prasselnde Geräusch des Regens auf dem Dach für Atmosphäre sorgt.",
+            "hu": "Kényelmes, esős autós túra indul a Velamsundsbadetnél. Délben Gustavsberg történelmi helyszíneit fedezzük fel, miközben az ablaktörlők ütemesen járnak. Délután a vizes országutakon kanyargunk az Artipelag felé. Az estét a múzeumban töltjük, ahol a tetőn kopogó eső hangja különleges, meghitt hangulatot áraszt a belső terekben.",
+            "ro": "O călătorie relaxantă cu mașina prin ploaie începe la Velamsundsbadet. La prânz explorăm siturile istorice din Gustavsberg, în ritmul ștergătoarelor. După-amiaza conducem pe drumurile ude spre Artipelag. Ne bucurăm de o seară uscată în muzeu, unde sunetul ploii pe acoperiș creează o atmosferă deosebită.",
+            "en": "A comfortable rainy drive starts at Velamsundsbadet. At noon, we explore Gustavsberg's historical sites with windshield wipers keeping a steady rhythm. In the afternoon, we wind through wet country roads toward Artipelag. The evening is spent dry inside the museum, where the sound of rain on the roof adds to the cozy atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Velamsundsbadet",
+                "hu": "Velamsundsbadet",
+                "ro": "Velamsundsbadet",
+                "en": "Velamsundsbadet"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den See aus dem warmen Auto heraus; Parkplätze sind nah am Ufer vorhanden, sodass Sie nur kurz in den Regen müssen.",
+                "hu": "Élvezze a tó látványát a fűtött autóból; a parkolók közel vannak a parthoz, így csak egy rövid ideig kell az esőben tartózkodnia a kilátáshoz.",
+                "ro": "Bucurați-vă de vederea lacului din mașina caldă; parcările sunt aproape de mal, deci veți sta foarte puțin în ploaie pentru a admira peisajul.",
+                "en": "Enjoy the lake view from your warm car; parking spots are close to the shore, so you only need to be out in the rain for a short moment."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustavsberg 72",
+                "hu": "Gustavsberg 72",
+                "ro": "Gustavsberg 72",
+                "en": "Gustavsberg 72"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp für Fotos; halten Sie den Regenschirm bereit, da der Weg vom Parkplatz zu den historischen Markierungen ungeschützt ist.",
+                "hu": "Rövid megálló fotózáshoz; tartsa készenlétben az esernyőt, mivel a parkolótól a történelmi jelzésekig tartó út teljesen nyitott és szeles.",
+                "ro": "O oprire scurtă pentru fotografii; aveți umbrela pregătită, deoarece drumul de la parcare până la marcajele istorice este neprotejat de vânt.",
+                "en": "A brief stop for photos; keep your umbrella ready as the path from the parking lot to the historical markers is fully exposed to the elements."
+              }
+            },
+            {
+              "name": {
+                "de": "Tegelbruk",
+                "hu": "Tegelbruk",
+                "ro": "Tegelbruk",
+                "en": "Tegelbruk"
+              },
+              "tip_5lang": {
+                "de": "Die Ziegelruinen sehen bei grauem Himmel sehr dramatisch aus; nutzen Sie die befestigten Parkflächen, um Matsch an den Schuhen zu vermeiden.",
+                "hu": "A téglaromok nagyon drámaiak a szürke égbolt alatt; használja a kiépített parkolóhelyeket, hogy elkerülje a sár felhordását az autójába.",
+                "ro": "Ruinele de cărămidă arată dramatic sub cerul cenușiu; folosiți locurile de parcare amenajate pentru a evita murdărirea mașinii cu noroi.",
+                "en": "The brick ruins look very dramatic under grey skies; use the designated paved parking areas to avoid getting mud on your shoes and in the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Lilla Kårnäs gård",
+                "hu": "Lilla Kårnäs gård",
+                "ro": "Lilla Kårnäs gård",
+                "en": "Lilla Kårnäs gård"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den schmalen Zufahrtswegen, die bei Regen rutschig sein können; bewundern Sie das alte Anwesen aus dem sicheren Fahrzeug.",
+                "hu": "Vezessen óvatosan a keskeny bekötőutakon, amelyek esőben csúszósak lehetnek; csodálja meg a régi birtokot a biztonságos utastérből.",
+                "ro": "Conduceți cu atenție pe drumurile înguste de acces, care pot fi alunecoase; admirați vechea proprietate din confortul mașinii.",
+                "en": "Drive carefully on the narrow access roads, which can be slippery in the rain; admire the old estate from the safety of your vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "Artipelag",
+                "hu": "Artipelag",
+                "ro": "Artipelag",
+                "en": "Artipelag"
+              },
+              "tip_5lang": {
+                "de": "Die Tiefgarage bietet einen direkten, trockenen Zugang zum Museum; ideal, um den Rest des Tages ohne nasse Kleidung in den Ausstellungen zu verbringen.",
+                "hu": "A mélygarázs közvetlen, száraz bejutást biztosít a múzeumba; ideális helyszín, hogy a nap hátralévő részét vizes ruhák nélkül töltse el.",
+                "ro": "Parcarea subterană oferă acces direct și uscat în muzeu; ideal pentru a petrece restul zilei vizitând expozițiile fără haine ude.",
+                "en": "The underground parking provides direct, dry access to the museum; ideal for spending the rest of the day in exhibitions without wet clothes."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Eine winterliche Spritztour beginnt im verschneiten Velamsund. Mittags gleiten wir über die geräumten Straßen von Värmdö und bewundern die gefrorene Landschaft. Am Nachmittag erreichen wir das Artipelag, wenn das Licht der untergehenden Sonne die Eisflächen färbt. Der Abend endet gemütlich im warmen Auto, während wir durch die festlich beleuchteten Straßen von Gustavsberg zurückfahren.",
+            "hu": "Téli autós kirándulás indul a havas Velamsundnál. Délben Värmdö letakarított útjain siklunk, megcsodálva a zúzmarás tájat. Délután érjük el az Artipelagot, amikor a lemenő nap fénye pasztellszínre festi a jégmezőket. Az este a fűtött autóban ér véget, miközben a díszesen kivilágított Gustavsberg utcáin autózunk.",
+            "ro": "O plimbare de iarnă începe în Velamsundul înzăpezit. La prânz conducem pe drumurile curățate din Värmdö, admirând peisajul înghețat. După-amiaza ajungem la Artipelag, când soarele apune peste câmpurile de gheață. Ziua se termină în mașina caldă, traversând străzile luminate festiv.",
+            "en": "A winter road trip begins in snowy Velamsund. At noon, we glide along Värmdö's cleared roads, admiring the frost-covered landscape. In the afternoon, we reach Artipelag as the setting sun paints the ice fields in pastel colors. The evening ends in the warm car while driving through festively lit streets."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Velamsundsbadet",
+                "hu": "Velamsundsbadet",
+                "ro": "Velamsundsbadet",
+                "en": "Velamsundsbadet"
+              },
+              "tip_5lang": {
+                "de": "Die verschneite Bucht ist ein tolles Fotomotiv; achten Sie beim Parken auf Schneewälle und tragen Sie Winterstiefel für den kurzen Gang zum Wasser.",
+                "hu": "A havas öböl lenyűgöző fotótéma; parkoláskor ügyeljen a hóbuckákra, és viseljen bélelt bakancsot a vízpartig tartó rövid sétához.",
+                "ro": "Golful înzăpezit este o temă foto superbă; atenție la mormanele de zăpadă când parcați și purtați cizme groase pentru scurta plimbare pe mal.",
+                "en": "The snowy bay is a great photo subject; watch out for snow banks when parking and wear winter boots for the short walk to the water's edge."
+              }
+            },
+            {
+              "name": {
+                "de": "Gustavsberg 72",
+                "hu": "Gustavsberg 72",
+                "ro": "Gustavsberg 72",
+                "en": "Gustavsberg 72"
+              },
+              "tip_5lang": {
+                "de": "Die historischen Markierungen sind im weißen Schnee schwerer zu finden; parken Sie sicher am Straßenrand und nutzen Sie eine Taschenlampe bei Dämmerung.",
+                "hu": "A történelmi jelzések nehezebben láthatók a hóban; parkoljon biztonságosan az út szélén, és használjon zseblámpát, ha már szürkül az idő.",
+                "ro": "Marcajele istorice sunt mai greu de găsit în zăpadă; parcați în siguranță pe marginea drumului și folosiți o lanternă dacă s-a înserat deja.",
+                "en": "Historical markers are harder to spot in the snow; park safely at the roadside and use a flashlight if you arrive near the early twilight hours."
+              }
+            },
+            {
+              "name": {
+                "de": "Tegelbruk",
+                "hu": "Tegelbruk",
+                "ro": "Tegelbruk",
+                "en": "Tegelbruk"
+              },
+              "tip_5lang": {
+                "de": "Die Kontraste zwischen roten Ziegeln und weißem Schnee sind im Winter fantastisch; bleiben Sie auf geräumten Flächen, um nicht im Schnee stecken zu bleiben.",
+                "hu": "A vörös téglák és a fehér hó kontrasztja fantasztikus télen; maradjon a letakarított területeken, hogy elkerülje az elakadást a mély hóban.",
+                "ro": "Contrastul dintre cărămizile roșii și zăpada albă este fantastic iarna; rămâneți pe zonele curățate pentru a nu rămâne blocați în zăpadă cu mașina.",
+                "en": "The contrast between red bricks and white snow is fantastic in winter; stay on cleared areas to avoid getting stuck in deep snow with your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Lilla Kårnäs gård",
+                "hu": "Lilla Kårnäs gård",
+                "ro": "Lilla Kårnäs gård",
+                "en": "Lilla Kårnäs gård"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteis auf der Nebenstraße; das Anwesen wirkt unter einer Schneedecke besonders friedlich und zeitlos aus dem fahrwarmen Auto.",
+                "hu": "Ügyeljen a jegesedésre a mellékutakon; a birtok a hótakaró alatt különösen békésnek és időtlennek tűnik a fűtött utastér kényelméből nézve.",
+                "ro": "Atenție la polei pe drumurile secundare; proprietatea pare deosebit de liniștită sub stratul de zăpadă privită din interiorul cald al mașinii.",
+                "en": "Watch out for black ice on the side roads; the estate looks especially peaceful and timeless under a blanket of snow from your warm car."
+              }
+            },
+            {
+              "name": {
+                "de": "Artipelag",
+                "hu": "Artipelag",
+                "ro": "Artipelag",
+                "en": "Artipelag"
+              },
+              "tip_5lang": {
+                "de": "Ein Highlight im Winter; genießen Sie die Architektur und das warme Ambiente, während draußen die Sonne bereits gegen 16:00 Uhr hinter dem Eis untergeht.",
+                "hu": "Téli fénypont; élvezze az építészetet és a meleg belső teret, miközben odakint a nap már 16:00 körül elkezd lebukni a jeges tenger horizontján.",
+                "ro": "Un punct culminant iarna; bucurați-vă de arhitectură și ambianța caldă în timp ce afară soarele apune deja în jurul orei 16:00 peste mare.",
+                "en": "A winter highlight; enjoy the architecture and warm ambiance while outside the sun already begins to set behind the icy sea around 16:00."
+              }
+            }
+          ]
+        }
       }
     }
   }

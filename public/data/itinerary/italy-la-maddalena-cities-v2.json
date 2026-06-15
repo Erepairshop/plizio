@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt La Maddalena történelmi központjában, üdvözölve Maggior Leggero mellszobrát és élvezve a kikötő nyüzsgését. Délben a Santa Maria Maddalena-templomnál lesz, a sziget spirituális szívében, lenyűgöző építészetével. A délutánt a Forte Balbiano felé sétálva töltheti, elmerülve a város katonai múltjában. Zárja a napot egy békés estével a Madonninánál, ahonnan csodás kilátás nyílik a tengerre.",
         "ro": "Începeți dimineața explorând centrul istoric din La Maddalena, admirând Busto Maggior Leggero și atmosfera portului. La prânz, vizitați Biserica Santa Maria Maddalena, inima spirituală a insulei cu arhitectura sa frumoasă. Petreceți după-amiaza plimbându-vă spre Forte Balbiano, descoperind istoria militară a orașului. Încheiați cu o seară liniștită la Madonnina, cu vedere la marea albastră.",
         "en": "Start your morning exploring the historic center of La Maddalena, greeting the Busto Maggior Leggero and enjoying the lively port atmosphere. By midday, you'll be at the Church of Santa Maria Maddalena, the spiritual heart of the island with its beautiful architecture. Spend your afternoon wandering towards Forte Balbiano, soaking in the town's military history. Conclude with a peaceful evening at the Madonnina, overlooking the sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Hafen, wo die Statuen im Regen glänzen. Mittags bietet die Kirche Santa Maria Maddalena einen trockenen Rückzugsort voller Geschichte. Am Nachmittag führt der Weg zum Forte Balbiano, wobei festes Schuhwerk auf den rutschigen Steinen wichtig ist. Den Tag lassen wir im Schutz der Cafés am Hafen ausklingen, während die Wolken über das Meer ziehen.",
+            "hu": "A reggel a kikötőben indul, ahol a mellszobrok az esőben csillognak. Délben a Santa Maria Maddalena templom nyújt száraz menedéket és kulturális élményt. Délután a Forte Balbiano felé vesszük az irányt, de a csúszós parti kövek miatt óvatosan lépkedjünk. Az estét a kikötő egyik fedett kávézójában zárjuk, figyelve a tenger feletti drámai felhőket.",
+            "ro": "Dimineața începe în port, unde busturile strălucesc în ploaie. La prânz, Biserica Santa Maria Maddalena oferă un refugiu uscat și plin de istorie. După-amiaza, drumul spre Forte Balbiano necesită încălțăminte aderentă pe pietrele umede. Seara se încheie la adăpostul cafenelelor din port, privind norii care trec peste mare.",
+            "en": "The morning starts at the harbor where the statues glisten in the rain. At noon, the Church of Santa Maria Maddalena provides a dry sanctuary filled with history. In the afternoon, the walk to Forte Balbiano requires sturdy shoes on slippery stones. We end the day in the shelter of harbor cafes, watching the dramatic clouds move over the sea."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busto Maggior Leggero",
+                "hu": "Maggior Leggero mellszobra",
+                "ro": "Bustul Maggior Leggero",
+                "en": "Busto Maggior Leggero"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie das Denkmal am Hafen, das im Regen besonders markant wirkt; achten Sie auf die glatten Pflastersteine am Wasser.",
+                "hu": "Csodálja meg a kikötői emlékművet, amely esőben különösen karakteres; vigyázzon a vízparti kövek csúszós felületére.",
+                "ro": "Admirați monumentul din port, care pare mai impunător în ploaie; aveți grijă la pavajul alunecos de lângă apă.",
+                "en": "Admire the harbor monument which looks particularly striking in the rain; watch out for the slippery pavement near the water."
+              }
+            },
+            {
+              "name": {
+                "de": "Busto Anita Garibaldi",
+                "hu": "Anita Garibaldi mellszobra",
+                "ro": "Bustul Anita Garibaldi",
+                "en": "Busto Anita Garibaldi"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp bei der Freiheitsheldin; nutzen Sie die umliegenden Arkaden als Unterstand, falls der Regen stärker wird.",
+                "hu": "Gyors megálló a szabadsághősnőnél; használja a közeli árkádokat menedékként, ha eleredne az intenzívebb eső.",
+                "ro": "O scurtă oprire la eroina libertății; folosiți arcadele din apropiere ca adăpost dacă ploaia devine mai intensă.",
+                "en": "A quick stop at the heroine of freedom; use the nearby arcades for shelter if the rain starts to pour harder."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Maddalena",
+                "hu": "Santa Maria Maddalena templom",
+                "ro": "Biserica Santa Maria Maddalena",
+                "en": "Chiesa di Santa Maria Maddalena"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Diözesanmuseum im Inneren, um trocken zu bleiben und die wertvollen Exponate in Ruhe zu studieren.",
+                "hu": "Látogassa meg a belső egyházmegyei múzeumot, hogy szárazon maradjon, és nyugodtan tanulmányozza az értékes kiállítási tárgyakat.",
+                "ro": "Vizitați muzeul diecezan din interior pentru a rămâne uscat și pentru a studia în liniște exponatele valoroase.",
+                "en": "Visit the diocesan museum inside to stay dry and study the valuable exhibits in a peaceful atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Balbiano",
+                "hu": "Balbiano erőd",
+                "ro": "Fortul Balbiano",
+                "en": "Forte Balbiano"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Festungsmauern mit einer Regenjacke; die Aussicht auf die stürmische See ist von hier aus atemberaubend.",
+                "hu": "Fedezze fel az erődfalakat esőkabátban; a viharos tenger látványa innen nézve egészen lenyűgöző és drámai.",
+                "ro": "Explorați zidurile cetății cu o pelerină de ploaie; vederea spre marea învolburată este de aici de-a dreptul uluitoare.",
+                "en": "Explore the fortress walls with a raincoat; the view of the stormy sea from here is absolutely breathtaking and dramatic."
+              }
+            },
+            {
+              "name": {
+                "de": "Madonnina",
+                "hu": "Madonnina",
+                "ro": "Madonnina",
+                "en": "Madonnina"
+              },
+              "tip_5lang": {
+                "de": "Ein stimmungsvoller Abschluss am Hafenbecken; halten Sie den Regenschirm fest, da der Wind hier oft plötzlich zunimmt.",
+                "hu": "Hangulatos zárás a kikötőmedencénél; fogja szorosan az esernyőt, mert a szél itt gyakran hirtelen felerősödhet.",
+                "ro": "Un final atmosferic la bazinul portului; țineți bine umbrela, deoarece vântul se intensifică adesea brusc în această zonă.",
+                "en": "An atmospheric end by the harbor basin; hold your umbrella tight as the wind often picks up suddenly in this area."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die klare Winterluft sorgt für weite Sicht am Hafen. Mittags wärmen wir uns in der geschichtsträchtigen Kirche auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Nachmittagslicht am Forte Balbiano für Fotos. Der Abend wird gemütlich in den beheizten Innenräumen der lokalen Trattorien verbracht, wo wir die winterliche Ruhe der Insel genießen.",
+            "hu": "A tiszta téli levegő távoli kilátást biztosít a kikötőben. Délben a történelmi templomban melegedünk fel. Mivel a nap már 17:00 körül nyugszik, a délutáni aranyórákat a Forte Balbiano falainál használjuk ki fotózásra. Az estét a helyi trattoriák fűtött belső tereiben töltjük, élvezve a sziget csendes, téli nyugalmát.",
+            "ro": "Aerul curat de iarnă oferă o vizibilitate mare în port. La prânz ne încălzim în biserica plină de istorie. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumina aurie a după-amiezii la Forte Balbiano. Seara este petrecută confortabil în interiorul încălzit al tratoriilor locale, savurând liniștea de iarnă a insulei.",
+            "en": "The crisp winter air provides long-range views at the harbor. At noon, we warm up in the historic church. Since the sun sets around 17:00, we use the golden afternoon light at Forte Balbiano for photos. The evening is spent cozily inside heated local trattorias, enjoying the island's quiet winter tranquility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Busto Maggior Leggero",
+                "hu": "Maggior Leggero mellszobra",
+                "ro": "Bustul Maggior Leggero",
+                "en": "Busto Maggior Leggero"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Hafen ohne Sommertouristen; tragen Sie eine winddichte Jacke gegen die kühle Meeresbrise.",
+                "hu": "Élvezze a kikötő nyugalmát a nyári turisták nélkül; viseljen szélálló kabátot a hűvös tengeri szél ellen.",
+                "ro": "Bucurați-vă de liniștea portului fără turiștii de vară; purtați o jachetă rezistentă la vânt împotriva brizelor reci.",
+                "en": "Enjoy the tranquility of the harbor without the summer crowds; wear a windproof jacket against the cool sea breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Busto Anita Garibaldi",
+                "hu": "Anita Garibaldi mellszobra",
+                "ro": "Bustul Anita Garibaldi",
+                "en": "Busto Anita Garibaldi"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie die Statue im weichen Winterlicht; die umliegenden Cafés bieten heiße Schokolade zum Aufwärmen an.",
+                "hu": "Tekintse meg a szobrot a lágy téli fényben; a környező kávézók forró csokoládét kínálnak a felmelegedéshez.",
+                "ro": "Priviți statuia în lumina slabă a iernii; cafenelele din jur oferă ciocolată caldă pentru a vă încălzi.",
+                "en": "View the statue in the soft winter light; the surrounding cafes offer hot chocolate to warm you up."
+              }
+            },
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Maddalena",
+                "hu": "Santa Maria Maddalena templom",
+                "ro": "Biserica Santa Maria Maddalena",
+                "en": "Chiesa di Santa Maria Maddalena"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um der Kälte zu entfliehen; bewundern Sie die prächtige Decke, während Sie sich im Inneren aufwärmen.",
+                "hu": "Ideális hely a hideg elől való menekülésre; csodálja meg a pompás mennyezetet, miközben bent felmelegszik.",
+                "ro": "Un loc ideal pentru a scăpa de frig; admirați tavanul splendid în timp ce vă încălziți în interior.",
+                "en": "An ideal spot to escape the cold; admire the magnificent ceiling while warming up inside the sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Balbiano",
+                "hu": "Balbiano erőd",
+                "ro": "Fortul Balbiano",
+                "en": "Forte Balbiano"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Anlage vor 16:30 Uhr, um das Beste aus dem Tageslicht zu machen; Handschuhe sind bei der Erkundung ratsam.",
+                "hu": "Látogassa meg az erődöt 16:30 előtt, hogy kihasználja a nappali fényt; a falak felfedezéséhez tanácsos kesztyűt viselni.",
+                "ro": "Vizitați fortul înainte de 16:30 pentru a profita de lumina zilei; mănușile sunt recomandate pentru explorarea zidurilor.",
+                "en": "Visit the fort before 16:30 to make the most of the daylight; gloves are advised while exploring the stone walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Madonnina",
+                "hu": "Madonnina",
+                "ro": "Madonnina",
+                "en": "Madonnina"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang über dem Hafen; die winterliche Dämmerung färbt den Himmel in tiefes Violett.",
+                "hu": "Nézze meg a korai naplementét a kikötő felett; a téli szürkület mélylilára festi az eget a tenger felett.",
+                "ro": "Urmăriți apusul timpuriu deasupra portului; amurgul de iarnă colorează cerul în nuanțe de violet profund.",
+                "en": "Watch the early sunset over the harbor; the winter twilight colors the sky in deep shades of violet."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -268,6 +430,168 @@
         "hu": "Kezdje a kerékpártúrát a városközpontban, az elegáns Santa Maria Maddalena templomnál. Délben tekerjen el a Villa Weberhez, hogy megcsodálja történelmi építészetét. A délutánt a festői nyugati parton töltse, felfedezve a zord Forte Teggét és a lenyűgöző Piramide építményét. Ahogy közeledik az este, fedezze fel a gránitbánya drámai sziklaalakzatait.",
         "ro": "Începeți turul cu bicicleta în centrul orașului la eleganta Biserică Santa Maria Maddalena. La prânz, pedalați spre Villa Weber pentru a admira arhitectura sa istorică. Petreceți după-amiaza mergând pe coasta vestică pitorească, descoperind Forte Tegge și structura Piramide. Spre seară, explorați formațiunile dramatice de granit de la Cave di granito.",
         "en": "Kick off your cycling tour in the town center at the elegant Chiesa di Santa Maria Maddalena. By midday, pedal out to Villa Weber to admire its historic architecture away from the crowds. Spend your afternoon riding along the scenic western coast, discovering the rugged Forte Tegge and the striking Piramide structure. As evening approaches, explore the dramatic granite formations at Cave di granito."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Radtour beginnt vorsichtig bei der Kirche, wo wir uns kurz unterstellen. Mittags führt die Strecke zur Villa Weber, wobei wir Pfützen und rutschiges Laub meiden. Am Nachmittag erreichen wir das Forte Tegge; die Granitwege können bei Nässe sehr glatt sein. Wir beenden die Tour frühzeitig, da die Sicht bei Regen abnimmt, und trocknen uns in einer gemütlichen Bar auf dem Rückweg.",
+            "hu": "A kerékpártúra óvatosan indul a templomnál, ahol rövid menedéket találunk. Délben a Villa Weber felé tekerünk, kerülve a tócsákat és a csúszós leveleket. Délután elérjük a Forte Tegge-t; a gránit utak nedvesen nagyon csúszósak lehetnek. Korábban fejezzük be a túrát a romló látási viszonyok miatt, és egy hangulatos bárban száradunk meg visszafelé.",
+            "ro": "Turul cu bicicleta începe cu prudență la biserică, unde ne adăpostim scurt. La prânz, traseul duce spre Villa Weber, evitând bălțile și frunzele alunecoase. După-amiaza ajungem la Forte Tegge; potecile de granit pot fi foarte lucioase când sunt ude. Încheiem turul mai devreme din cauza vizibilității reduse și ne uscăm într-un bar primitor pe drumul de întoarcere.",
+            "en": "The bike tour starts cautiously at the church, where we take brief shelter. At noon, the route leads to Villa Weber, avoiding puddles and slippery leaves. In the afternoon, we reach Forte Tegge; the granite paths can be very slick when wet. We finish the tour early due to decreasing visibility in the rain and dry off in a cozy bar on the way back."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Maddalena",
+                "hu": "Santa Maria Maddalena templom",
+                "ro": "Biserica Santa Maria Maddalena",
+                "en": "Chiesa di Santa Maria Maddalena"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie das Rad sicher und nutzen Sie den Innenraum als Regenpause; prüfen Sie Ihre Bremsen vor der Weiterfahrt.",
+                "hu": "Parkolja le biztonságosan a biciklit, és használja a belső teret esőszünetre; indulás előtt ellenőrizze a fékeket.",
+                "ro": "Parcați bicicleta în siguranță și folosiți interiorul pentru o pauză de ploaie; verificați frânele înainte de a pleca.",
+                "en": "Park your bike securely and use the interior for a rain break; check your brakes thoroughly before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Weber",
+                "hu": "Villa Weber",
+                "ro": "Villa Weber",
+                "en": "Villa Weber"
+              },
+              "tip_5lang": {
+                "de": "Die historische Villa wirkt im Regen mystisch; achten Sie beim Fahren auf dem nassen Asphalt auf die Bodenmarkierungen.",
+                "hu": "A történelmi villa misztikusnak tűnik az esőben; vezetés közben figyeljen a nedves aszfalton lévő útburkolati jelekre.",
+                "ro": "Vila istorică pare mistică în ploaie; aveți grijă la marcajele rutiere de pe asfaltul umed în timp ce pedalați.",
+                "en": "The historic villa looks mystical in the rain; pay attention to road markings on the wet asphalt while riding."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Tegge",
+                "hu": "Tegge erőd",
+                "ro": "Fortul Tegge",
+                "en": "Forte Tegge"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter den massiven Steinmauern; vermeiden Sie steile, unbefestigte Wege rund um die Festung bei Regen.",
+                "hu": "Keressen menedéket a masszív kőfalak alatt; kerülje a meredek, kimosott utakat az erőd körül esős időben.",
+                "ro": "Căutați adăpost sub zidurile masive de piatră; evitați potecile abrupte și neasfaltate din jurul cetății pe ploaie.",
+                "en": "Seek shelter under the massive stone walls; avoid steep, unpaved paths around the fortress during rainy weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Piramide (Tegge)",
+                "hu": "Piramide (Tegge)",
+                "ro": "Piramide (Tegge)",
+                "en": "Piramide (Tegge)"
+              },
+              "tip_5lang": {
+                "de": "Ein schneller Fotostopp; halten Sie Abstand zu den Klippen, da der Wind Böen und Gischt herantragen kann.",
+                "hu": "Gyors fotómegálló; tartson távolságot a szikláktól, mert a szél erős lökéseket és sós permetet hordhat fel.",
+                "ro": "O oprire rapidă pentru poze; păstrați distanța față de stânci, deoarece vântul poate aduce rafale și stropi de mare.",
+                "en": "A quick photo stop; keep your distance from the cliffs as the wind can bring strong gusts and sea spray."
+              }
+            },
+            {
+              "name": {
+                "de": "Cave di granito di Cala Francese",
+                "hu": "Cala Francese gránitbánya",
+                "ro": "Carierele de granit de la Cala Francese",
+                "en": "Cave di granito di Cala Francese"
+              },
+              "tip_5lang": {
+                "de": "Das Granitgelände ist extrem rutschig; steigen Sie vom Rad ab und erkunden Sie die Steinbrüche nur zu Fuß mit Vorsicht.",
+                "hu": "A gránit terep rendkívül csúszós; szálljon le a bicikliről, és csak gyalog, nagy óvatossággal fedezze fel a bányát.",
+                "ro": "Terenul de granit este extrem de alunecos; coborâți de pe bicicletă și explorați carierele doar pe jos, cu mare atenție.",
+                "en": "The granite terrain is extremely slippery; dismount from your bike and explore the quarries only on foot with great caution."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten die Radtour am Vormittag, um die wärmsten Sonnenstunden zu nutzen. Mittags erreichen wir die Villa Weber, umgeben von der stillen Winterlandschaft. Am Nachmittag radeln wir zum Forte Tegge, wo der kühle Wind von See her weht. Da es um 17:00 Uhr dunkel wird, planen wir die Rückkehr zum Hafen für den späten Nachmittag ein und wärmen uns anschließend bei einem lokalen Wein.",
+            "hu": "Délelőtt indítjuk a biciklitúrát, hogy kihasználjuk a legmelegebb napsütéses órákat. Délben érjük el a Villa Webert, a csendes téli táj ölelésében. Délután a Forte Tegge felé tekerünk, ahol hűvös tengeri szél fúj. Mivel 17:00-kor sötétedik, a visszatérést a kikötőbe késő délutánra tervezzük, majd egy helyi borral melegszünk fel.",
+            "ro": "Începem turul cu bicicleta dimineața pentru a profita de cele mai calde ore cu soare. La prânz ajungem la Villa Weber, înconjurată de peisajul liniștit de iarnă. După-amiaza pedalăm spre Forte Tegge, unde bate vântul rece dinspre mare. Deoarece se întunecă la ora 17:00, planificăm întoarcerea în port pentru sfârșitul după-amiezii și ne încălzim cu un vin local.",
+            "en": "We start the bike tour in the morning to take advantage of the warmest sunny hours. At noon, we reach Villa Weber, surrounded by the quiet winter landscape. In the afternoon, we cycle to Forte Tegge where a cool sea wind blows. Since it gets dark at 17:00, we plan our return to the harbor for the late afternoon and warm up with a local wine."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa di Santa Maria Maddalena",
+                "hu": "Santa Maria Maddalena templom",
+                "ro": "Biserica Santa Maria Maddalena",
+                "en": "Chiesa di Santa Maria Maddalena"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Kirche am Morgen; die dicken Mauern speichern die Kälte, bringen Sie also eine warme Schicht Kleidung mit.",
+                "hu": "Látogassa meg a templomot reggel; a vastag falak tárolják a hideget, ezért vigyen magával egy plusz meleg réteget.",
+                "ro": "Vizitați biserica dimineața; zidurile groase rețin frigul, așa că aduceți cu voi un strat suplimentar de haine calde.",
+                "en": "Visit the church in the morning; the thick walls hold the cold, so bring an extra warm layer of clothing with you."
+              }
+            },
+            {
+              "name": {
+                "de": "Villa Weber",
+                "hu": "Villa Weber",
+                "ro": "Villa Weber",
+                "en": "Villa Weber"
+              },
+              "tip_5lang": {
+                "de": "Die Villa liegt oft im Schatten; halten Sie sich beim Radfahren durch Bewegung warm und tragen Sie einen Ohrenschutz.",
+                "hu": "A villa gyakran árnyékban van; tekerés közben tartsa magát melegen mozgással, és viseljen fülvédőt a szél ellen.",
+                "ro": "Vila este adesea în umbră; mențineți-vă cald prin mișcare în timp ce pedalați și purtați protecție pentru urechi.",
+                "en": "The villa is often in the shade; keep warm through movement while cycling and wear ear protection against the wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Tegge",
+                "hu": "Tegge erőd",
+                "ro": "Fortul Tegge",
+                "en": "Forte Tegge"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Panoramablick; der Mistral-Wind kann hier im Winter sehr stark sein, sichern Sie Ihre Ausrüstung gut.",
+                "hu": "Élvezze a panorámát; a Misztrál szél itt télen nagyon erős lehet, rögzítse jól a felszerelését a kerékpáron.",
+                "ro": "Bucurați-vă de panorama; vântul Mistral poate fi foarte puternic aici iarna, asigurați-vă bine echipamentul pe bicicletă.",
+                "en": "Enjoy the panoramic view; the Mistral wind can be very strong here in winter, so secure your equipment on the bike well."
+              }
+            },
+            {
+              "name": {
+                "de": "Piramide (Tegge)",
+                "hu": "Piramide (Tegge)",
+                "ro": "Piramide (Tegge)",
+                "en": "Piramide (Tegge)"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Halt im hellen Winterlicht; die Sonne steht tief und bietet perfekte Bedingungen für kontrastreiche Fotos.",
+                "hu": "Rövid megálló a világos téli fényben; a nap alacsonyan jár, ami tökéletes feltételeket biztosít a kontrasztos fotókhoz.",
+                "ro": "O scurtă oprire în lumina clară de iarnă; soarele este jos, oferind condiții perfecte pentru fotografii contrastante.",
+                "en": "A short stop in the bright winter light; the low sun provides perfect conditions for high-contrast landscape photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Cave di granito di Cala Francese",
+                "hu": "Cala Francese gránitbánya",
+                "ro": "Carierele de granit de la Cala Francese",
+                "en": "Cave di granito di Cala Francese"
+              },
+              "tip_5lang": {
+                "de": "Planen Sie die Besichtigung vor 16:00 Uhr ein, da es in den Senken der Steinbrüche im Winter schnell dämmrig und kühl wird.",
+                "hu": "Tervezze a látogatást 16:00 előttre, mert a bányák mélyedéseiben télen gyorsan alkonyodik és lehűl a levegő.",
+                "ro": "Planificați vizita înainte de ora 16:00, deoarece în adâncurile carierelor se întunecă și se răcește rapid iarna.",
+                "en": "Plan your visit before 16:00, as the hollows of the quarries get dark and chilly very quickly in the winter season."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -422,6 +746,196 @@
         "hu": "Autós túrája a Teatro Primo Longobardo meglátogatásával kezdődik, elmerülve a helyi kultúrában. Délben hajtson fel a Guardia Vecchiához a páratlan panorámáért. Délután fedezze fel a gránitbányák ipari örökségét, majd a partvédelmet a Forte Tegge és San Giorgio erődöknél. Az este egy csendes megállóval zárul a Cippo Corazzata Románál.",
         "ro": "Turul dvs. cu mașina începe la Teatro Primo Longobardo, explorând cultura locală. La prânz, conduceți spre Guardia Vecchia pentru vederi panoramice inegalabile. După-amiaza, descoperiți patrimoniul industrial al carierelor de granit, urmat de istoria apărării la Forte Tegge și San Giorgio. Seara se încheie la Cippo Corazzata Roma.",
         "en": "Your driving tour begins with a visit to the Teatro Primo Longobardo, diving into the local cultural scene. By midday, drive up to Guardia Vecchia for unparalleled panoramic views of the entire archipelago. In the afternoon, discover the industrial heritage at the granite quarries, followed by coastal defense history at Forte Tegge and San Giorgio. Your evening concludes with a reflective stop at the Cippo Corazzata Roma."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Im Auto erkunden wir die Insel wetterunabhängig und starten beim Theater. Mittags genießen wir den Blick von der Guardia Vecchia durch die Scheiben, während der Regen auf das Dach trommelt. Am Nachmittag besuchen wir die Granitbrüche und das Forte Tegge, wobei wir kurze Wege zu den Sehenswürdigkeiten nutzen. Den Tag beenden wir sicher im warmen Wagen auf der Panoramastraße Richtung San Giorgio.",
+            "hu": "Autóval az időjárástól függetlenül fedezzük fel a szigetet, a színháznál kezdve. Délben a Guardia Vecchia kilátását élvezzük az ablakon keresztül, miközben az eső a tetőn kopog. Délután a gránitbányákat és a Forte Tegge-t keressük fel, kihasználva a látnivalókhoz vezető rövid sétákat. A napot biztonságban, a meleg autóban fejezzük be a San Giorgio felé vezető panorámaúton.",
+            "ro": "Cu mașina explorăm insula indiferent de vreme, începând de la teatru. La prânz ne bucurăm de priveliștea de la Guardia Vecchia prin geamuri, în timp ce ploaia bate pe plafon. După-amiaza vizităm carierele și Forte Tegge, profitând de distanțele scurte pe jos până la obiective. Încheiem ziua în siguranță, în mașina caldă, pe drumul panoramic spre San Giorgio.",
+            "en": "By car, we explore the island regardless of the weather, starting at the theater. At noon, we enjoy the view from Guardia Vecchia through the windows while rain drums on the roof. In the afternoon, we visit the quarries and Forte Tegge, taking advantage of the short walks to the sights. We end the day safely in the warm car on the panoramic road towards San Giorgio."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Primo Longobardo",
+                "hu": "Primo Longobardo Színház",
+                "ro": "Teatro Primo Longobardo",
+                "en": "Teatro Primo Longobardo"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie direkt davor und genießen Sie das Kulturprogramm im Trockenen; prüfen Sie die Veranstaltungstermine vorab online.",
+                "hu": "Parkoljon közvetlenül előtte, és élvezze a kulturális programot szárazon; előzetesen ellenőrizze az események időpontját online.",
+                "ro": "Parcați direct în față și bucurați-vă de programul cultural la adăpost; verificați programul evenimentelor online în prealabil.",
+                "en": "Park directly in front and enjoy the cultural program in the dry; check the event schedule online before your visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Guardia Vecchia",
+                "hu": "Guardia Vecchia",
+                "ro": "Guardia Vecchia",
+                "en": "Guardia Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Der höchste Punkt bietet auch bei Regen eine weite Sicht; bleiben Sie bei starkem Wind im Auto und genießen Sie das Panorama.",
+                "hu": "A legmagasabb pont esőben is tágas kilátást nyújt; erős szél esetén maradjon az autóban, és onnan élvezze a panorámát.",
+                "ro": "Cel mai înalt punct oferă o vedere largă chiar și pe ploaie; în caz de vânt puternic, rămâneți în mașină și admirați panorama.",
+                "en": "The highest point offers a wide view even in the rain; in case of strong winds, stay in the car and enjoy the panorama."
+              }
+            },
+            {
+              "name": {
+                "de": "Cave di granito di Cala Francese",
+                "hu": "Cala Francese gránitbánya",
+                "ro": "Carierele de granit de la Cala Francese",
+                "en": "Cave di granito di Cala Francese"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf den unbefestigten Zufahrtswegen; der Granitstaub verwandelt sich bei Regen in rutschigen Schlamm.",
+                "hu": "Vezessen óvatosan a nem aszfaltozott bekötőutakon; a gránitpor esőben csúszós sárra változik, ami próbára teszi a tapadást.",
+                "ro": "Conduceți cu atenție pe drumurile de acces neasfaltate; praful de granit se transformă în noroi alunecos atunci când plouă.",
+                "en": "Drive carefully on the unpaved access roads; the granite dust turns into slippery mud during rain, challenging your grip."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Tegge",
+                "hu": "Tegge erőd",
+                "ro": "Fortul Tegge",
+                "en": "Forte Tegge"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz; die historischen Gebäude bieten Schutz vor kurzen Schauern während der Erkundung.",
+                "hu": "Használja a közeli parkolót; a történelmi épületek menedéket nyújtanak a rövid záporok elől a felfedezés során.",
+                "ro": "Folosiți parcarea din apropiere; clădirile istorice oferă adăpost împotriva averselor scurte în timpul explorării cetății.",
+                "en": "Use the nearby parking lot; the historic buildings provide shelter from short showers during your exploration of the site."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte San Giorgio",
+                "hu": "San Giorgio erőd",
+                "ro": "Fortul San Giorgio",
+                "en": "Forte San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Die Anfahrt ist steil; stellen Sie sicher, dass Ihre Scheibenwischer gut funktionieren, um die Aussicht nicht zu verpassen.",
+                "hu": "Az út ide meredek; győződjön meg róla, hogy az ablaktörlők jól működnek, hogy ne maradjon le a kilátásról az esőben.",
+                "ro": "Drumul până aici este abrupt; asigurați-vă că ștergătoarele funcționează bine pentru a nu rata priveliștea din cauza ploii.",
+                "en": "The drive up is steep; make sure your windshield wipers are working well so you don't miss the view in the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Cippo Corazzata Roma",
+                "hu": "Cippo Corazzata Roma emlékmű",
+                "ro": "Cippo Corazzata Roma",
+                "en": "Cippo Corazzata Roma"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp am Denkmal; bei starkem Regen ist das Mahnmal am besten von der Beifahrerseite aus zu betrachten.",
+                "hu": "Rövid megálló az emlékműnél; heves esőzés esetén a mellszobor legjobban az anyósülés felőli ablakból tekinthető meg.",
+                "ro": "O scurtă oprire la monument; în caz de ploaie torențială, memorialul poate fi observat cel mai bine de pe partea pasagerului.",
+                "en": "A short stop at the monument; in case of heavy rain, the memorial is best viewed from the passenger side window."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die Inselrundfahrt im Winter ist besonders entspannt, da die Straßen leer sind. Vormittags besuchen wir das Theater, mittags den windigen Aussichtspunkt Guardia Vecchia. Wir nutzen die hellen Stunden bis 16:30 Uhr für die Küstenabschnitte bei Cala Francese und Forte Tegge. Nach Sonnenuntergang um 17:00 Uhr fahren wir zurück in den Ort, wo die Lichter der Stadt im Winter eine besinnliche Atmosphäre schaffen.",
+            "hu": "A téli körutazás különösen pihentető, mivel az utak üresek. Délelőtt a színházat látogatjuk meg, délben a szeles Guardia Vecchia kilátópontot. Kihasználjuk a világos órákat 16:30-ig Cala Francese és Forte Tegge parti szakaszainál. A 17:00 órai naplemente után visszatérünk a városba, ahol a fények meghitt téli hangulatot árasztanak.",
+            "ro": "Turul insulei iarna este deosebit de relaxant, deoarece drumurile sunt goale. Dimineața vizităm teatrul, la prânz punctul de observație vântos Guardia Vecchia. Profităm de orele cu lumină până la 16:30 pentru zonele de coastă de la Cala Francese și Forte Tegge. După apusul de la ora 17:00, ne întoarcem în oraș, unde luminile creează o atmosferă liniștită.",
+            "en": "The winter island tour is particularly relaxing as the roads are empty. In the morning we visit the theater, at noon the windy Guardia Vecchia viewpoint. We use the bright hours until 16:30 for the coastal sections at Cala Francese and Forte Tegge. After the 17:00 sunset, we drive back to town where the lights create a peaceful winter atmosphere."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Teatro Primo Longobardo",
+                "hu": "Primo Longobardo Színház",
+                "ro": "Teatro Primo Longobardo",
+                "en": "Teatro Primo Longobardo"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Start im beheizten Gebäude; im Winter gibt es oft spezielle lokale Aufführungen oder Kinotage.",
+                "hu": "Kellemes kezdés a fűtött épületben; télen gyakran vannak különleges helyi előadások vagy mozinapok a színházban.",
+                "ro": "Un început confortabil în clădirea încălzită; iarna au loc adesea spectacole locale speciale sau zile de cinema.",
+                "en": "A cozy start in the heated building; in winter there are often special local performances or movie days at the theater."
+              }
+            },
+            {
+              "name": {
+                "de": "Guardia Vecchia",
+                "hu": "Guardia Vecchia",
+                "ro": "Guardia Vecchia",
+                "en": "Guardia Vecchia"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Fernsicht bis nach Korsika; die Wintersonne lässt das Meer in tiefem Blau erscheinen.",
+                "hu": "Élvezze a tiszta kilátást egészen Korzikáig; a téli napsütésben a tenger mélykék színeiben pompázik a horizonton.",
+                "ro": "Bucurați-vă de vizibilitatea clară până în Corsica; soarele de iarnă face ca marea să pară de un albastru profund.",
+                "en": "Enjoy the clear long-range views all the way to Corsica; the winter sun makes the sea appear in deep shades of blue."
+              }
+            },
+            {
+              "name": {
+                "de": "Cave di granito di Cala Francese",
+                "hu": "Cala Francese gránitbánya",
+                "ro": "Carierele de granit de la Cala Francese",
+                "en": "Cave di granito di Cala Francese"
+              },
+              "tip_5lang": {
+                "de": "Die tiefstehende Sonne wirft lange Schatten in die Brüche; ideal für künstlerische Fotos der historischen Steinarbeiten.",
+                "hu": "Az alacsonyan járó nap hosszú árnyékokat vet a bányákba; ideális a történelmi kőmunkák művészi fotózásához.",
+                "ro": "Soarele jos aruncă umbre lungi în cariere; ideal pentru fotografii artistice ale lucrărilor istorice în piatră.",
+                "en": "The low sun casts long shadows into the quarries; ideal for artistic photos of the historic stonework and structures."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte Tegge",
+                "hu": "Tegge erőd",
+                "ro": "Fortul Tegge",
+                "en": "Forte Tegge"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie die Festung am Nachmittag; das raue Wintermeer bietet eine beeindruckende Kulisse hinter den Mauern.",
+                "hu": "Látogassa meg az erődöt délután; a zord téli tenger lenyűgöző hátteret biztosít a történelmi falak mögött.",
+                "ro": "Vizitați cetatea după-amiaza; marea aspră de iarnă oferă un fundal impresionant în spatele zidurilor groase.",
+                "en": "Visit the fortress in the afternoon; the rough winter sea provides an impressive backdrop behind the ancient walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Forte San Giorgio",
+                "hu": "San Giorgio erőd",
+                "ro": "Fortul San Giorgio",
+                "en": "Forte San Giorgio"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:45 Uhr an, um den Sonnenuntergang über den anderen Inseln des Archipels von oben zu bewundern.",
+                "hu": "Érkezzen meg 16:45 előtt, hogy megcsodálhassa a naplementét a szigetvilág többi szigete felett fentről nézve.",
+                "ro": "Ajungeți înainte de ora 16:45 pentru a admira apusul de soare peste celelalte insule ale arhipelagului de sus.",
+                "en": "Arrive before 16:45 to admire the sunset over the other islands of the archipelago from this elevated vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Cippo Corazzata Roma",
+                "hu": "Cippo Corazzata Roma emlékmű",
+                "ro": "Cippo Corazzata Roma",
+                "en": "Cippo Corazzata Roma"
+              },
+              "tip_5lang": {
+                "de": "Ein besinnlicher Ort in der winterlichen Stille; die kühle Luft unterstreicht die feierliche Atmosphäre des Mahnmals.",
+                "hu": "Meghitt hely a téli csendben; a hűvös levegő még inkább hangsúlyozza az emlékmű ünnepélyes és tiszteletteljes hangulatát.",
+                "ro": "Un loc de meditație în liniștea iernii; aerul rece subliniază atmosfera solemnă a monumentului comemorativ.",
+                "en": "A reflective spot in the winter silence; the cool air emphasizes the solemn and respectful atmosphere of the memorial."
+              }
+            }
+          ]
+        }
       }
     }
   }

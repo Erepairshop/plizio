@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a helyi tengerészeti múzeumban, majd sétáljon el az ikonikus világítótoronyhoz. A déli órákban fedezze fel a tengerpart közeli kellemes pihenőhelyeket. Délután csodálja meg a lenyűgöző római vízvezeték maradványait. Zárja a napot az Ostende strand gyönyörű partján, miközben a nap lassan lenyugszik.",
         "ro": "Începeți dimineața explorând istoria maritimă la muzeul local înainte de a vă îndrepta spre farul iconic. La amiază, plimbați-vă prin zonele de agrement relaxante de lângă țărm. După-amiaza, descoperiți rămășițele impresionante ale apeductului roman. Încheiați-vă ziua relaxându-vă pe frumoasa plajă Ostende, la apus.",
         "en": "Start your morning exploring the rich maritime history at the local museum before moving towards the iconic lighthouse. Midday takes you through relaxing recreational spots near the shore. In the afternoon, discover the impressive Roman aqueduct remnants. Conclude your day unwinding at the beautiful Ostende beach as the sun begins to set."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Vormittag im Museo del Mar, um den ersten Regenschauern in den Ausstellungsräumen zu entgehen. Mittags spazieren wir unter Regenschirmen zur Burg, wobei wir auf den rutschigen Pflastersteinen am Hafen vorsichtig sein müssen. Am Nachmittag bewundern wir das Aquädukt im Dunst des Regens, was der Ruine eine mystische Atmosphäre verleiht. Den Abend lassen wir am Strand von Ostende ausklingen, wo die raue, aufgewühlte See ein beeindruckendes Schauspiel bietet.",
+            "hu": "A reggelt a Museo del Mar fedett termeiben indítjuk, elkerülve az első záporokat a kikötőben. Délben esernyők alatt sétálunk fel a várba, fokozottan ügyelve a csúszós macskakövekre a part mentén. Délután az akvadukt monumentális kövei között teszünk egy frissítő kört a párás, esős időben, ami különleges hangulatot áraszt. Az estét a Playa de Ostende partján zárjuk, ahol a viharos tenger látványa és morajlása kárpótol a nedves időért.",
+            "ro": "Începem dimineața la Museo del Mar pentru a evita primele averse de ploaie în sălile de expoziție. La prânz ne plimbăm sub umbrele spre castel, fiind atenți la pavajul alunecos de deasupra portului. După-amiaza admirăm apeductul în ceața ploii, ceea ce oferă ruinelor o atmosferă mistică și izolată. Încheiem seara pe plaja Ostende, unde marea agitată oferă un spectacol impresionant în ciuda vremii umede și a vântului.",
+            "en": "We start the morning at the Museo del Mar to escape the first rain showers within the indoor exhibitions. At noon, we walk under umbrellas towards the castle, being careful on the slippery cobblestones above the harbor. In the afternoon, we admire the aqueduct through the misty rain, which gives the ruins a mystical atmosphere. We end the evening at Ostende Beach, where the rough, churning sea provides a stunning display despite the wet weather."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mar Calafate",
+                "hu": "Museo del Mar Calafate",
+                "ro": "Museo del Mar Calafate",
+                "en": "Museo del Mar Calafate"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die maritimen Schätze im Museo del Mar, das idealen Schutz vor dem Regen bietet; tragen Sie unbedingt wasserfeste Schuhe für den Weg entlang der Küste.",
+                "hu": "Fedezze fel a tengeri kincseket a Museo del Mar termeiben, amely tökéletes menedéket nyújt az eső elől; viseljen vízálló cipőt a későbbi kikötői sétához a nedves köveken.",
+                "ro": "Explorați comorile maritime în Museo del Mar, care oferă un adăpost ideal împotriva ploii; purtați neapărat încălțăminte impermeabilă pentru plimbarea ulterioară pe coastă.",
+                "en": "Explore the maritime treasures in the Museo del Mar, which provides ideal shelter from the rain; be sure to wear waterproof shoes for the later walk along the wet coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro del castillo de Santa Ana",
+                "hu": "Faro del castillo de Santa Ana",
+                "ro": "Faro del castillo de Santa Ana",
+                "en": "Faro del castillo de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den dramatischen Blick auf die Brandung vom Leuchtturm aus; halten Sie sich an den Geländern fest, da die steinernen Stufen bei Nässe extrem rutschig sind.",
+                "hu": "Élvezze a drámai kilátást a hullámtörésre a világítótoronytól; kapaszkodjon erősen a korlátokba, mert a kőlépcsők esőben rendkívül csúszóssá és veszélyessé válnak.",
+                "ro": "Bucurați-vă de vederea dramatică a valurilor de la far; țineți-vă bine de balustrade, deoarece treptele de piatră devin extrem de alunecoase atunci când sunt ude.",
+                "en": "Enjoy the dramatic view of the crashing waves from the lighthouse; hold onto the railings firmly, as the stone steps become extremely slippery and risky when wet."
+              }
+            },
+            {
+              "name": {
+                "de": "Arenal",
+                "hu": "Arenal",
+                "ro": "Arenal",
+                "en": "Arenal"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie das Spiel der Regentropfen auf der Meeresoberfläche von diesem Aussichtspunkt; ein stabiler Windschutz oder eine gute Regenjacke sind hier unverzichtbar.",
+                "hu": "Figyelje meg az esőcseppek táncát a tenger felszínén erről a kilátópontról; egy szélálló esőkabát itt elengedhetetlen a hirtelen feltámadó tengeri széllökések miatt.",
+                "ro": "Observați jocul picăturilor de ploaie pe suprafața mării din acest punct; o jachetă impermeabilă este indispensabilă aici din cauza rafalelor de vânt de pe coastă.",
+                "en": "Observe the dance of raindrops on the sea surface from this viewpoint; a windproof raincoat is essential here due to the sudden gusts of wind coming from the ocean."
+              }
+            },
+            {
+              "name": {
+                "de": "Acueducto Romano de El Chorrillo",
+                "hu": "Acueducto Romano de El Chorrillo",
+                "ro": "Acueducto Romano de El Chorrillo",
+                "en": "Acueducto Romano de El Chorrillo"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die antike Ingenieurskunst des Aquädukts, das im Regen besonders dunkel und imposant wirkt; achten Sie auf Pfützen auf den unebenen Graswegen rundherum.",
+                "hu": "Csodálja meg az akvadukt ókori mérnöki munkáját, amely esőben különösen sötétnek és monumentálisnak tűnik; kerülje a mély tócsákat az egyenetlen füves ösvényeken.",
+                "ro": "Admirați ingineria antică a apeductului, care pare deosebit de impunător în ploaie; aveți grijă la bălțile adânci de pe potecile ierboase denivelate din jur.",
+                "en": "Admire the ancient engineering of the aqueduct, which looks particularly dark and imposing in the rain; avoid deep puddles on the uneven grassy paths surrounding it."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Ostende o Urdiales",
+                "hu": "Playa de Ostende o Urdiales",
+                "ro": "Playa de Ostende o Urdiales",
+                "en": "Playa de Ostende o Urdiales"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die kraftvolle Energie des Atlantiks bei grauem Himmel am Strand; suchen Sie nach dem Spaziergang Schutz in einer der nahegelegenen überdachten Cafeterien.",
+                "hu": "Tapasztalja meg az Atlanti-óceán erejét a szürke égbolt alatt a parton; a séta után keressen menedéket a közeli fedett kávézók egyikében egy forró ital mellett.",
+                "ro": "Experimentați energia puternică a Atlanticului sub cerul cenușiu de pe plajă; după plimbare, căutați adăpost într-una dintre cafenelele acoperite din apropiere.",
+                "en": "Experience the powerful energy of the Atlantic under gray skies at the beach; after the walk, seek shelter in one of the nearby covered cafes for a warm beverage."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Am klaren Wintermorgen nutzen wir die Wärme im Museo del Mar für einen gemütlichen Start. Mittags wandern wir dick eingepackt zum Leuchtturm, um die kühle, salzige Meeresbrise und die weite Sicht zu genießen. Am Nachmittag besuchen wir das Aquädukt im sanften Licht der tiefstehenden Sonne, bevor es merklich kühler wird. Da die Sonne bereits gegen 17:00 Uhr untergeht, beenden wir unseren Tag mit einem zügigen Marsch entlang der Playa de Ostende im Dämmerschein.",
+            "hu": "A friss téli reggelen a Museo del Mar fűtött tereiben kezdünk, élvezve a nyugodt tárlatvezetést. Délben vastag kabátban sétálunk fel a világítótoronyhoz a metsző, sós tengeri szélben, gyönyörködve a tiszta látóhatárban. Délután az akvaduktot látogatjuk meg a korai naplemente lágy fényeiben, mielőtt a levegő hirtelen lehűlne. Mivel 17:00 körül sötétedik, a napot a Playa de Ostende partján zárjuk az alkonyati fényekben.",
+            "ro": "În dimineața clară de iarnă, folosim căldura din Museo del Mar pentru un început confortabil. La prânz, ne plimbăm bine înfofoliți spre far pentru a ne bucura de briza rece și sărată și de vizibilitatea excelentă. După-amiaza vizităm apeductul în lumina blândă a soarelui care apune devreme, înainte ca temperatura să scadă. Deoarece soarele apune în jurul orei 17:00, ne încheiem ziua cu o plimbare rapidă pe plaja Ostende în amurg.",
+            "en": "On a crisp winter morning, we take advantage of the warmth in the Museo del Mar for a cozy start. At noon, we hike warmly dressed to the lighthouse to enjoy the cool, salty sea breeze and the clear views. In the afternoon, we visit the aqueduct in the soft light of the low-lying sun before it gets significantly colder. Since the sun sets around 17:00, we end our day with a brisk walk along Ostende Beach in the twilight."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Museo del Mar Calafate",
+                "hu": "Museo del Mar Calafate",
+                "ro": "Museo del Mar Calafate",
+                "en": "Museo del Mar Calafate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die beheizten Ausstellungsräume, um sich für den Tag aufzuwärmen; die Wintermorgende am Hafen können ohne die warme Innentemperatur sehr bissig sein.",
+                "hu": "Használja ki a fűtött kiállítótermeket, hogy bemelegedjen a napra; a kikötői téli reggelek metszően hidegek lehetnek a belső terek melege nélkül.",
+                "ro": "Profitați de sălile de expoziție încălzite pentru a vă încălzi pentru restul zilei; diminețile de iarnă în port pot fi foarte tăioase fără căldura interioară.",
+                "en": "Take advantage of the heated exhibition rooms to warm up for the day; winter mornings at the harbor can be biting without the interior warmth to start with."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro del castillo de Santa Ana",
+                "hu": "Faro del castillo de Santa Ana",
+                "ro": "Faro del castillo de Santa Ana",
+                "en": "Faro del castillo de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe und eine Mütze, da der Wind an der Burgmauer im Winter sehr stark ist; die klare Luft bietet jetzt die beste Fernsicht auf das Baskenland.",
+                "hu": "Viseljen kesztyűt és sapkát, mert a szél a várfalnál télen rendkívül erős; a tiszta téli levegő ilyenkor kínálja a legszebb távoli kilátást Baszkföld felé.",
+                "ro": "Purtați mănuși și căciulă, deoarece vântul de lângă zidul castelului este foarte puternic iarna; aerul curat oferă acum cea mai bună vizibilitate spre Țara Bascilor.",
+                "en": "Wear gloves and a hat as the wind by the castle wall is very strong in winter; the clear air now offers the best long-distance views toward the Basque Country."
+              }
+            },
+            {
+              "name": {
+                "de": "Arenal",
+                "hu": "Arenal",
+                "ro": "Arenal",
+                "en": "Arenal"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Ruhe am Aussichtspunkt ohne die Sommermassen; bringen Sie eine Thermoskanne mit einem heißen Getränk mit, um die Kälte beim Stehen zu vertreiben.",
+                "hu": "Élvezze a kilátópont nyugalmát a nyári tömeg nélkül; hozzon magával termoszt forró itallal, hogy elűzze a hideget, miközben a tengeri panorámában gyönyörködik.",
+                "ro": "Bucurați-vă de liniștea punctului de observație fără mulțimile de vară; aduceți un termos cu o băutură caldă pentru a alunga frigul în timp ce admirați marea.",
+                "en": "Enjoy the tranquility of the viewpoint without the summer crowds; bring a thermos with a hot drink to ward off the cold while taking in the winter sea scenery."
+              }
+            },
+            {
+              "name": {
+                "de": "Acueducto Romano de El Chorrillo",
+                "hu": "Acueducto Romano de El Chorrillo",
+                "ro": "Acueducto Romano de El Chorrillo",
+                "en": "Acueducto Romano de El Chorrillo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie das Aquädukt vor 16:00 Uhr, um das goldene Licht zu nutzen; der Boden kann durch den Frost am Morgen hart und stellenweise rutschig sein.",
+                "hu": "Látogassa meg az akvaduktot 16:00 előtt, hogy kihasználja az aranyló fényeket; a talaj a reggeli fagytól kemény és helyenként csúszós lehet az árnyékos részeken.",
+                "ro": "Vizitați apeductul înainte de ora 16:00 pentru a profita de lumina aurie; solul poate fi tare și pe alocuri alunecos din cauza înghețului de dimineață.",
+                "en": "Visit the aqueduct before 16:00 to take advantage of the golden light; the ground can be hard and occasionally slippery from the morning frost in shaded areas."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Ostende o Urdiales",
+                "hu": "Playa de Ostende o Urdiales",
+                "ro": "Playa de Ostende o Urdiales",
+                "en": "Playa de Ostende o Urdiales"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt vom Strand aus; kehren Sie danach schnell ins Stadtzentrum zurück, bevor es frostig wird.",
+                "hu": "Nézze meg a korai, 17:00 körüli naplementét közvetlenül a partról; utána térjen vissza gyorsan a városközpontba, mielőtt a levegő fagypont közelébe hűlne.",
+                "ro": "Priviți apusul devreme, în jurul orei 17:00, direct de pe plajă; după aceea, întoarceți-vă rapid în centrul orașului înainte de a se lăsa gerul serii.",
+                "en": "Watch the early sunset around 17:00 directly from the beach; afterwards, return quickly to the city center before the air temperature drops near freezing."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa kerékpártúráját a lenyűgöző Aurelia-barlangnál, élvezve a reggeli természetet. Tekerjen el az Ostende strandhoz és a tengerészeti múzeumhoz, hogy magába szívja a kultúrát. A dél tökéletes a világítótorony és a napos partok felfedezésére. A délutánt egy kellemes kerékpározás zárja a Cotolino parkban.",
         "ro": "Începeți turul cu bicicleta la fascinanta peșteră Aurelia pentru a vă bucura de natura matinală. Mergeți spre plaja Ostende și muzeul maritim central pentru a simți vibrația culturală. Amiaza este perfectă pentru a explora farul și colțurile însorite ale coastei. După-amiaza se încheie relaxant cu o plimbare prin parcul Cotolino.",
         "en": "Kick off your cycling tour at the fascinating Aurelia cave to embrace the morning nature. Ride smoothly towards Ostende beach and the central maritime museum to soak in the cultural vibe. Midday is perfect for exploring the lighthouse and sunny coastal corners. The afternoon wraps up gracefully with a relaxing ride through Cotolino park."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir starten den Vormittag an der Cueva de Urdiales, die uns natürlichen Schutz bietet, während es draußen regnet. Mittags radeln wir vorsichtig auf den nassen Wegen zur Playa de Ostende und weiter zum Museo del Mar. Am Nachmittag trotzen wir dem Wetter am Leuchtturm, wobei wir auf die Bremswege auf dem glatten Untergrund achten müssen. Den Tag beenden wir mit einer kurzen Tour zum Parque Cotolino, wobei wir die asphaltierten Wege nutzen, um tiefen Matsch zu vermeiden.",
+            "hu": "A reggelt a Cueva de Urdiales barlangjánál kezdjük, amely természetes menedéket nyújt az eső elől. Délben óvatosan tekerünk a vizes utakon a Playa de Ostende felé, majd tovább a tengerészeti múzeumba. Délután a világítótoronynál dacolunk az elemekkel, fokozottan ügyelve a féktávolságra a csúszós talajon. A napot a Parque Cotolino felé zárjuk, az aszfaltozott utakat választva, hogy elkerüljük a mély sarat.",
+            "ro": "Începem dimineața la Cueva de Urdiales, care ne oferă un adăpost natural în timp ce afară plouă. La prânz pedalăm cu atenție pe drumurile ude spre plaja Ostende și mai departe spre muzeu. După-amiaza înfruntăm vremea la far, fiind foarte atenți la distanța de frânare pe suprafețele alunecoase. Încheiem ziua cu o tură scurtă spre Parcul Cotolino, folosind potecile asfaltate pentru a evita noroiul adânc.",
+            "en": "We start the morning at the Cueva de Urdiales, which provides natural shelter while it rains outside. At noon, we pedal carefully on the wet paths towards Ostende Beach and on to the museum. In the afternoon, we brave the weather at the lighthouse, paying close attention to braking distances on the slippery ground. We end the day with a short ride to Cotolino Park, sticking to paved paths to avoid deep mud."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cueva de Urdiales o Aurelia",
+                "hu": "Cueva de Urdiales o Aurelia",
+                "ro": "Cueva de Urdiales o Aurelia",
+                "en": "Cueva de Urdiales o Aurelia"
+              },
+              "tip_5lang": {
+                "de": "Die Höhle bietet tollen Schutz vor Regen, aber der Zugangsweg kann sehr schlammig sein; prüfen Sie Ihre Bremsen, bevor Sie die nasse Abfahrt zurück in die Stadt antreten.",
+                "hu": "A barlang remek védelmet nyújt az eső ellen, de a bejárat környéke sáros lehet; ellenőrizze a fékeket, mielőtt elkezdi a vizes lejtmenetet vissza a városba.",
+                "ro": "Peștera oferă o protecție excelentă împotriva ploii, dar drumul de acces poate fi noroios; verificați frânele înainte de a începe coborârea umedă spre oraș.",
+                "en": "The cave offers great shelter from the rain, but the access path can be very muddy; check your brakes before starting the wet descent back into the town."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Ostende o Urdiales",
+                "hu": "Playa de Ostende o Urdiales",
+                "ro": "Playa de Ostende o Urdiales",
+                "en": "Playa de Ostende o Urdiales"
+              },
+              "tip_5lang": {
+                "de": "Radeln Sie auf der Promenade statt im Sand, um nicht steckenzubleiben; tragen Sie eine neongelbe Regenweste, damit Sie bei schlechter Sicht für Autofahrer gut sichtbar sind.",
+                "hu": "A sétányon tekerjen a homok helyett, hogy ne akadjon el a sárban; viseljen láthatósági esőmellényt, hogy a rossz látási viszonyok között is észrevegyék az autósok.",
+                "ro": "Pedalați pe promenadă în loc de nisip pentru a nu rămâne blocat; purtați o vestă reflectorizantă pentru a fi vizibil șoferilor în condiții de vizibilitate scăzută.",
+                "en": "Ride on the promenade instead of the sand to avoid getting stuck in the mud; wear a high-visibility rain vest to stay visible to drivers in poor conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mar Calafate",
+                "hu": "Museo del Mar Calafate",
+                "ro": "Museo del Mar Calafate",
+                "en": "Museo del Mar Calafate"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Museumsbesuch als ausgiebige Trockenpause für sich und Ihre Ausrüstung; sichern Sie Ihr Fahrrad an einem überdachten Platz in der Nähe des Eingangs.",
+                "hu": "Használja a múzeumi látogatást pihenőnek, hogy megszáradjon a felszerelése; láncolja le a kerékpárt egy fedett helyre a bejárat közelében, hogy ne ázzon tovább.",
+                "ro": "Folosiți vizita la muzeu ca o pauză lungă de uscare pentru echipament; asigurați bicicleta într-un loc acoperit lângă intrare pentru a o proteja de ploaie.",
+                "en": "Use the museum visit as a long drying break for yourself and your gear; secure your bike in a covered spot near the entrance to keep it out of the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro del castillo de Santa Ana",
+                "hu": "Faro del castillo de Santa Ana",
+                "ro": "Faro del castillo de Santa Ana",
+                "en": "Faro del castillo de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Vermeiden Sie das Radfahren direkt auf den Mauern, da diese bei Regen extrem glatt sind; schieben Sie Ihr Rad auf den steileren Abschnitten zum Leuchtturm hoch.",
+                "hu": "Kerülje a közvetlen falakon való tekerést, mert esőben rendkívül csúszósak; a meredekebb szakaszokon inkább tolja a kerékpárt a biztonságos feljutás érdekében.",
+                "ro": "Evitați pedalatul direct pe ziduri, deoarece acestea sunt extrem de alunecoase; împingeți bicicleta pe secțiunile mai abrupte spre far pentru siguranță.",
+                "en": "Avoid riding directly on the walls as they are extremely slippery in the rain; push your bike on the steeper sections to the lighthouse for a safer ascent."
+              }
+            },
+            {
+              "name": {
+                "de": "Solarium",
+                "hu": "Solarium",
+                "ro": "Solarium",
+                "en": "Solarium"
+              },
+              "tip_5lang": {
+                "de": "Dieser Ort ist im Regen ungeschützt, also halten Sie den Aufenthalt kurz; prüfen Sie den Reifendruck, um auf der nassen Fahrbahn besseren Grip zu haben.",
+                "hu": "Ez a hely esőben teljesen védtelen, ezért tartsa rövidre a pihenőt; ellenőrizze a guminyomást, hogy jobb tapadást érjen el a vizes, aszfaltozott útfelületen.",
+                "ro": "Acest loc este neprotejat în ploaie, deci scurtați vizita; verificați presiunea în anvelope pentru a avea o aderență mai bună pe carosabilul umed.",
+                "en": "This spot is unprotected in the rain, so keep the visit short; check your tire pressure to ensure better grip on the wet and slippery road surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Cotolino",
+                "hu": "Parque Cotolino",
+                "ro": "Parque Cotolino",
+                "en": "Parque Cotolino"
+              },
+              "tip_5lang": {
+                "de": "Bleiben Sie auf den befestigten Wegen im Park, um Schlammspritzer zu vermeiden; Schutzbleche am Fahrrad sind bei diesem Wetter absolut notwendig für den Komfort.",
+                "hu": "Maradjon a park kiépített útjain, hogy elkerülje a sárfelcsapódást; a sárvédő használata ebben az időben elengedhetetlen a ruházata tisztán tartásához.",
+                "ro": "Rămâneți pe aleile amenajate din parc pentru a evita stropii de noroi; apărătorile de noroi sunt absolut necesare pe această vreme pentru confortul dvs.",
+                "en": "Stay on the designated paths in the park to avoid mud splashes; fenders on your bike are absolutely necessary in this weather for a comfortable ride."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der Wintermorgen beginnt frisch an der Cueva de Urdiales, wo die kühle Luft uns wachrüttelt. Mittags radeln wir bei strahlendem, aber kaltem Sonnenschein entlang der Playa de Ostende zum Museo del Mar. Am Nachmittag genießen wir die klare Sicht am Leuchtturm und fahren weiter zum Solarium, wobei wir ständig in Bewegung bleiben, um nicht auszukühlen. Da die Dämmerung gegen 17:00 Uhr einsetzt, beenden wir unsere Tour im Parque Cotolino und achten auf die sinkenden Temperaturen nach Sonnenuntergang.",
+            "hu": "A téli reggel frissen indul a Cueva de Urdiales-nél, ahol a hűvös levegő azonnal felébreszt minket. Délben ragyogó, de hideg napsütésben tekerünk a Playa de Ostende mentén a tengerészeti múzeumig. Délután a tiszta látóhatárt élvezzük a világítótoronynál, majd a Solarium felé haladunk, folyamatosan mozogva, hogy ne hűljünk ki. Mivel 17:00 körül sötétedik, a túrát a Parque Cotolino-ban zárjuk, ügyelve a naplemente utáni gyors lehűlésre.",
+            "ro": "Dimineața de iarnă începe proaspăt la Cueva de Urdiales, unde aerul rece ne trezește imediat. La prânz pedalăm sub un soare strălucitor, dar rece, de-a lungul plajei spre muzeu. După-amiaza ne bucurăm de vizibilitatea clară de la far și continuăm spre Solarium, rămânând în mișcare constantă pentru a nu ne răci. Deoarece amurgul începe în jurul orei 17:00, ne încheiem turul în Parcul Cotolino, atenți la scăderea temperaturii.",
+            "en": "The winter morning starts fresh at Cueva de Urdiales, where the cool air wakes us right up. At noon, we cycle in bright but cold sunshine along Ostende Beach to the museum. In the afternoon, we enjoy the clear views at the lighthouse and continue to the Solarium, staying in constant motion to keep warm. Since dusk sets in around 17:00, we finish our tour at Cotolino Park, mindful of the rapid cooling after sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Cueva de Urdiales o Aurelia",
+                "hu": "Cueva de Urdiales o Aurelia",
+                "ro": "Cueva de Urdiales o Aurelia",
+                "en": "Cueva de Urdiales o Aurelia"
+              },
+              "tip_5lang": {
+                "de": "In der Höhle ist die Temperatur konstanter als draußen, aber ziehen Sie sich für die Abfahrt warm an; Thermo-Handschuhe verhindern, dass Ihre Finger am Lenker einfrieren.",
+                "hu": "A barlangban állandóbb a hőmérséklet, de öltözzön fel melegen a lejtmenethez; a thermo-kesztyű megakadályozza, hogy ujjai ráfagyjanak a kormányra a hideg szélben.",
+                "ro": "În peșteră temperatura este mai constantă, dar îmbrăcați-vă gros pentru coborâre; mănușile termice previn înghețarea degetelor pe ghidon în vântul rece.",
+                "en": "Inside the cave, the temperature is more constant, but dress warmly for the ride down; thermal gloves prevent your fingers from freezing on the handlebars."
+              }
+            },
+            {
+              "name": {
+                "de": "Playa de Ostende o Urdiales",
+                "hu": "Playa de Ostende o Urdiales",
+                "ro": "Playa de Ostende o Urdiales",
+                "en": "Playa de Ostende o Urdiales"
+              },
+              "tip_5lang": {
+                "de": "Die Seeluft ist im Winter sehr erfrischend, aber unterschätzen Sie nicht den Windchill-Effekt beim Radfahren; eine winddichte Jacke schützt Sie vor dem Auskühlen.",
+                "hu": "A tengeri levegő télen frissítő, de ne becsülje alá a szél hűtő hatását tekerés közben; egy szélálló dzseki megvédi a testét a gyors kihűléstől a parton.",
+                "ro": "Aerul mării este revigorant iarna, dar nu subestimați efectul de răcire al vântului; o jachetă rezistentă la vânt vă va proteja de frigul tăios de pe coastă.",
+                "en": "The sea air is refreshing in winter, but don't underestimate the wind chill while cycling; a windproof jacket will protect your body from cooling down rapidly."
+              }
+            },
+            {
+              "name": {
+                "de": "Museo del Mar Calafate",
+                "hu": "Museo del Mar Calafate",
+                "ro": "Museo del Mar Calafate",
+                "en": "Museo del Mar Calafate"
+              },
+              "tip_5lang": {
+                "de": "Das Museum ist ein idealer Ort, um die Glieder zwischen den Radetappen aufzuwärmen; parken Sie Ihr Rad in der Sonne, damit der Sattel beim Aufsteigen nicht zu kalt ist.",
+                "hu": "A múzeum ideális hely a végtagok átmelegítésére a két szakasz között; parkoljon a napon, hogy a nyereg ne legyen túl hideg, amikor újra útnak indul a városban.",
+                "ro": "Muzeul este un loc ideal pentru a vă încălzi între etapele de pedalat; parcați bicicleta la soare pentru ca șaua să nu fie prea rece când porniți din nou la drum.",
+                "en": "The museum is an ideal place to warm up your limbs between cycling stretches; park your bike in the sun so the seat isn't too cold when you head back out."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro del castillo de Santa Ana",
+                "hu": "Faro del castillo de Santa Ana",
+                "ro": "Faro del castillo de Santa Ana",
+                "en": "Faro del castillo de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Der Anstieg zur Burg wird Sie aufwärmen, aber oben angekommen kühlt der starke Winterwind schnell aus; halten Sie Ihre Ohren mit einem Stirnband oder Helmüberzug warm.",
+                "hu": "A várba vezető emelkedő segít bemelegedni, de fent a hűvös szélben gyorsan lehűlhet; védje füleit fejpánttal vagy sisak alá vehető vékony sapkával a szél ellen.",
+                "ro": "Urcarea spre castel vă va încălzi, dar odată ajunși sus, vântul rece de iarnă vă poate răci rapid; protejați-vă urechile cu o bandană sau o căciulă sub cască.",
+                "en": "The climb to the castle will warm you up, but the biting winter wind at the top can chill you quickly; protect your ears with a headband or a thin helmet cap."
+              }
+            },
+            {
+              "name": {
+                "de": "Solarium",
+                "hu": "Solarium",
+                "ro": "Solarium",
+                "en": "Solarium"
+              },
+              "tip_5lang": {
+                "de": "Trotz des Namens gibt es im Winter wenig Wärme hier, aber die Lichtverhältnisse sind fantastisch; achten Sie darauf, vor 16:30 Uhr weiterzufahren, um Licht zu haben.",
+                "hu": "A név ellenére télen kevés itt a meleg, de a fények fantasztikusak fotózáshoz; induljon tovább 16:30 előtt, hogy még világosban elérje a következő állomást.",
+                "ro": "În ciuda numelui, iarna este puțină căldură aici, dar lumina este fantastică; asigurați-vă că plecați înainte de 16:30 pentru a avea lumină pe drumul de întoarcere.",
+                "en": "Despite the name, there is little warmth here in winter, but the light is fantastic; be sure to move on before 16:30 to have daylight for the next stretch."
+              }
+            },
+            {
+              "name": {
+                "de": "Parque Cotolino",
+                "hu": "Parque Cotolino",
+                "ro": "Parque Cotolino",
+                "en": "Parque Cotolino"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie Ihre Tour hier pünktlich zum Sonnenuntergang um 17:00 Uhr; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg durch die Stadt funktioniert.",
+                "hu": "Zárja a túrát pontosan a 17:00 órai naplementekor; győződjön meg róla, hogy a kerékpáros világítás működik a városon keresztül vezető hazafelé úthoz.",
+                "ro": "Încheiați turul aici la timp pentru apusul de la ora 17:00; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere prin oraș pe întuneric.",
+                "en": "Finish your tour here just in time for the 17:00 sunset; ensure your bike lights are working for the ride back through the city streets after dark falls."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -445,6 +797,196 @@
         "hu": "Autózzon a történelmi Dombergón viadukthoz egy lenyűgöző napindítóért. Délben másszon fel a Monte Cueto-ra, és fedezze fel az ősi Arcisero romokat a tengerre nyíló kilátással. Délután látogassa meg a Santa Ana világítótornyot és a római vízvezetéket. A festői út a természetes Urdiales barlangnál ér véget.",
         "ro": "Conduceți la viaductul istoric Dombergón pentru un început uimitor. La amiază, urcați pe Monte Cueto și explorați vechile ruine Arcisero cu vedere la mare. După-amiaza, vizitați farul impresionant Santa Ana și apeductul roman. Traseul pitoresc se încheie frumos la peștera naturală Urdiales.",
         "en": "Drive to the historic Dombergón viaduct for a stunning start to your adventure. By midday, hike up Monte Cueto and explore the ancient Arcisero settlement ruins with breathtaking sea views. In the afternoon, visit the impressive Santa Ana lighthouse and the Roman aqueduct. Your scenic drive concludes beautifully at the natural Urdiales cave."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Wir beginnen den Vormittag mit einer Fahrt zum Viaducto de Dombergón, wobei wir die Wischer auf Intervall stellen, um die neblige Sicht zu meistern. Mittags geht es hinauf zum Monte Cueto, wo wir die Aussicht gemütlich vom warmen Auto aus genießen, während der Regen gegen die Scheiben peitscht. Am Nachmittag besuchen wir den Leuchtturm und das Aquädukt, wobei wir versuchen, möglichst nah an den Sehenswürdigkeiten zu parken. Den Tag beenden wir sicher an der Cueva de Urdiales, geschützt im Fahrzeug vor dem anhaltenden Unwetter.",
+            "hu": "A reggelt a Viaducto de Dombergón felé indítjuk, az ablaktörlőket szakaszos üzemmódba állítva a ködös látási viszonyok miatt. Délben felhajtunk a Monte Cueto-ra, ahol a kilátást a meleg autóból élvezzük, miközben az eső a szélvédőt mossa. Délután a világítótornyot és az akvaduktot látogatjuk meg, igyekezve a lehető legközelebb parkolni a bejáratokhoz. A napot a Cueva de Urdiales-nél zárjuk, biztonságban és szárazon maradva a járművünkben a kitartó vihar elől.",
+            "ro": "Începem dimineața cu o călătorie spre Viaductul Dombergón, setând ștergătoarele pe intermitent pentru a gestiona vizibilitatea redusă. La prânz urcăm pe Monte Cueto, unde ne bucurăm de priveliște din mașina caldă în timp ce ploaia bate în geamuri. După-amiaza vizităm farul și apeductul, încercând să parcăm cât mai aproape de obiective. Încheiem ziua la Cueva de Urdiales, protejați în vehicul de furtuna persistentă și de vântul puternic.",
+            "en": "We start the morning with a drive to the Dombergón Viaduct, setting the wipers to intermittent to handle the misty visibility. At noon, we head up to Monte Cueto, where we enjoy the views from the warm car while the rain lashes against the windows. In the afternoon, we visit the lighthouse and the aqueduct, trying to park as close to the sights as possible. We end the day safely at Cueva de Urdiales, sheltered in the vehicle from the persistent storm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Viaducto de Dombergón",
+                "hu": "Viaducto de Dombergón",
+                "ro": "Viaducto de Dombergón",
+                "en": "Viaducto de Dombergón"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig auf der Autobahnbrücke, da Seitenwinde und Gischt die Sicht einschränken; halten Sie einen größeren Sicherheitsabstand zu anderen Fahrzeugen ein.",
+                "hu": "Vezessen óvatosan az autópálya-hídon, mert az oldalszél és a felcsapódó víz rontja a látást; tartson nagyobb követési távolságot az előttünk haladó autóktól.",
+                "ro": "Conduceți cu prudență pe podul de autostradă, deoarece vântul lateral și apa pulverizată reduc vizibilitatea; păstrați o distanță mai mare față de celelalte vehicule.",
+                "en": "Drive carefully on the highway bridge as side winds and spray limit visibility; maintain a larger following distance from other vehicles in the heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Cueto",
+                "hu": "Monte Cueto",
+                "ro": "Monte Cueto",
+                "en": "Monte Cueto"
+              },
+              "tip_5lang": {
+                "de": "Die Auffahrt kann schlüpfrig sein, nutzen Sie den Parkplatz mit der besten Sicht, um das Auto nicht verlassen zu müssen; beschlagene Scheiben mit der Klimaanlage klären.",
+                "hu": "A felfelé vezető út csúszós lehet, keressen olyan parkolóhelyet, ahonnan az autóból is lát; a párásodó szélvédőt a klímaberendezés segítségével tisztítsa meg.",
+                "ro": "Drumul spre culme poate fi alunecos, folosiți parcarea cu cea mai bună vedere pentru a nu părăsi mașina; dezaburiți parbrizul folosind aerul condiționat.",
+                "en": "The drive up can be slippery, so find a parking spot with the best view to avoid leaving the car; clear fogged windows quickly by using the air conditioning."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Cotolino-Arcisero",
+                "hu": "Castro de Cotolino-Arcisero",
+                "ro": "Castro de Cotolino-Arcisero",
+                "en": "Castro de Cotolino-Arcisero"
+              },
+              "tip_5lang": {
+                "de": "Die historische Stätte ist im Regen ungeschützt, schauen Sie sie sich kurz an und nutzen Sie eine Regenjacke; parken Sie auf festem Grund, um nicht im Matsch einzusinken.",
+                "hu": "A történelmi helyszín esőben teljesen védtelen, csak rövid ideig nézelődjön és viseljen esőkabátot; szilárd talajon parkoljon, hogy elkerülje az elakadást a sárban.",
+                "ro": "Situl istoric este neprotejat în ploaie, vizitați-l scurt și purtați o pelerină; parcați pe teren solid pentru a evita împotmolirea mașinii în noroiul moale.",
+                "en": "The historical site is unprotected in the rain, so take a brief look and use a raincoat; park on solid ground to avoid getting stuck in the softening mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Santa Ana",
+                "hu": "Faro de Santa Ana",
+                "ro": "Faro de Santa Ana",
+                "en": "Faro de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Leuchtturm durch die Scheibe; beim Öffnen der Autotür auf Windböen achten, die die Tür unkontrolliert aufschlagen könnten.",
+                "hu": "Élvezze a kilátást a világítótoronyra az ablakon keresztül; az ajtó nyitásakor ügyeljen a szélre, amely hirtelen és kontrollálatlanul kicsaphatja az autó ajtaját.",
+                "ro": "Bucurați-vă de vederea spre far prin geamul mașinii; la deschiderea portierei, atenție la rafalele de vânt care ar putea smulge ușa necontrolat din mână.",
+                "en": "Enjoy the lighthouse view through the window; when opening the car door, watch out for gusts of wind that could blow the door open unexpectedly and forcefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Acueducto Romano de El Chorrillo",
+                "hu": "Acueducto Romano de El Chorrillo",
+                "ro": "Acueducto Romano de El Chorrillo",
+                "en": "Acueducto Romano de El Chorrillo"
+              },
+              "tip_5lang": {
+                "de": "Der Parkplatz ist nah am Denkmal, ideal für einen schnellen Fotostopp im Regen; achten Sie beim Ein- und Aussteigen auf tiefe Pfützen am Straßenrand.",
+                "hu": "A parkoló közel van az emlékműhöz, ideális egy gyors fotómegállóra az esőben; ki- és beszálláskor ügyeljen az út mentén kialakuló mély és csalóka tócsákra.",
+                "ro": "Parcarea este aproape de monument, ideală pentru o oprire rapidă foto în ploaie; la urcarea și coborârea din mașină, atenție la bălțile adânci de la marginea drumului.",
+                "en": "The parking lot is close to the monument, ideal for a quick photo stop in the rain; watch out for deep puddles along the roadside when getting in and out."
+              }
+            },
+            {
+              "name": {
+                "de": "Cueva de Urdiales o Aurelia",
+                "hu": "Cueva de Urdiales o Aurelia",
+                "ro": "Cueva de Urdiales o Aurelia",
+                "en": "Cueva de Urdiales o Aurelia"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als Basis, um die Höhle trocken zu erreichen; prüfen Sie die Wetter-App auf Unwetterwarnungen, bevor Sie auf unbefestigten Straßen parken.",
+                "hu": "Használja az autót bázisként, hogy szárazon érje el a barlangot; ellenőrizze az időjárást, mielőtt nem aszfaltozott részen parkolna a viharos szélben.",
+                "ro": "Folosiți mașina ca bază pentru a ajunge uscat la peșteră; verificați prognoza meteo înainte de a parca pe porțiunile neasfaltate în timpul furtunii.",
+                "en": "Use the car as a base to reach the cave while staying dry; check weather apps for storm warnings before parking on unpaved areas in the wind."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Wir starten den Wintermorgen mit einer Fahrt zum Viaducto de Dombergón, wobei wir die Sitzheizung für extra Komfort nutzen. Mittags erklimmen wir mit dem Wagen den Monte Cueto, um das weite Panorama der schneebedeckten Gipfel in der Ferne zu bewundern. Am Nachmittag besuchen wir den Leuchtturm und das Aquädukt, wobei wir die kurzen Gehwege zwischen Parkplatz und Sehenswürdigkeit schätzen. Da es gegen 17:00 Uhr dunkel wird, beenden wir unsere Tour an der Cueva de Urdiales bei gemütlicher Wärme im Inneren des Fahrzeugs.",
+            "hu": "A téli reggelt a Viaducto de Dombergón felé indítjuk, az ülésfűtést használva az extra kényelemért a hidegben. Délben felhajtunk a Monte Cueto-ra, hogy megcsodáljuk a távoli, hófödte csúcsok panorámáját a tiszta levegőben. Délután a világítótornyot és az akvaduktot keressük fel, értékelve a parkoló és a látnivalók közötti rövid gyalogutat. Mivel 17:00 körül sötétedik, a túrát a Cueva de Urdiales-nél zárjuk az autó barátságos melegében pihenve.",
+            "ro": "Începem dimineața de iarnă cu o călătorie spre Viaductul Dombergón, folosind încălzirea în scaune pentru un confort sporit. La prânz urcăm cu mașina pe Monte Cueto pentru a admira panorama crestelor înzăpezite din depărtare. După-amiaza vizităm farul și apeductul, apreciind distanțele scurte de mers pe jos de la parcare. Deoarece se întunecă în jurul orei 17:00, ne încheiem turul la Cueva de Urdiales în căldura confortabilă a interiorului vehiculului.",
+            "en": "We start the winter morning with a drive to the Dombergón Viaduct, utilizing the seat heating for extra comfort in the cold. At noon, we head up to Monte Cueto to admire the wide panorama of snow-capped peaks in the distance. In the afternoon, we visit the lighthouse and the aqueduct, appreciating the short walks between the parking lot and the sights. Since it gets dark around 17:00, we end our tour at Cueva de Urdiales in the cozy warmth of the vehicle."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Viaducto de Dombergón",
+                "hu": "Viaducto de Dombergón",
+                "ro": "Viaducto de Dombergón",
+                "en": "Viaducto de Dombergón"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Glatteisbildung auf der Brücke bei frostigen Temperaturen; verringern Sie die Geschwindigkeit und vermeiden Sie abruptes Bremsen auf der Fahrbahn.",
+                "hu": "Ügyeljen a jegesedésre a hídon fagyos hőmérséklet esetén; csökkentse a sebességet és kerülje a hirtelen fékezést a csúszóssá váló útfelületen.",
+                "ro": "Atenție la formarea poleiului pe pod la temperaturi de îngheț; reduceți viteza și evitați frânarea bruscă pe suprafața carosabilului.",
+                "en": "Watch out for black ice forming on the bridge in freezing temperatures; reduce your speed and avoid any abrupt braking on the potentially slippery road."
+              }
+            },
+            {
+              "name": {
+                "de": "Monte Cueto",
+                "hu": "Monte Cueto",
+                "ro": "Monte Cueto",
+                "en": "Monte Cueto"
+              },
+              "tip_5lang": {
+                "de": "Die Fernsicht ist im Winter am besten, bringen Sie ein Fernglas mit; prüfen Sie vor der Abfahrt, ob Ihr Frostschutzmittel für die Scheibenwaschanlage ausreicht.",
+                "hu": "A távoli kilátás télen a legtisztább, hozzon magával távcsövet; indulás előtt ellenőrizze, hogy elegendő fagyálló szélvédőmosó folyadék van-e a tartályban.",
+                "ro": "Vizibilitatea la distanță este optimă iarna, aduceți un binoclu; verificați înainte de plecare dacă aveți suficient lichid de parbriz antigel în rezervor.",
+                "en": "Long-distance visibility is best in winter, so bring binoculars; check before leaving if you have enough antifreeze windshield washer fluid in the reservoir."
+              }
+            },
+            {
+              "name": {
+                "de": "Castro de Cotolino-Arcisero",
+                "hu": "Castro de Cotolino-Arcisero",
+                "ro": "Castro de Cotolino-Arcisero",
+                "en": "Castro de Cotolino-Arcisero"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Ruinen; der Boden kann gefroren und uneben sein, tragen Sie daher feste Wanderschuhe für das kurze Stück Fußweg.",
+                "hu": "Használja ki a tiszta téli fényeket a romok fotózásához; a talaj fagyott és egyenetlen lehet, ezért viseljen bakancsot a parkolótól vezető rövid gyalogúton.",
+                "ro": "Folosiți lumina clară de iarnă pentru fotografierea ruinelor; solul poate fi înghețat și denivelat, purtați bocanci pentru scurta plimbare de la parcare.",
+                "en": "Utilize the clear winter light for photos of the ruins; the ground may be frozen and uneven, so wear sturdy boots for the short walk from the parking area."
+              }
+            },
+            {
+              "name": {
+                "de": "Faro de Santa Ana",
+                "hu": "Faro de Santa Ana",
+                "ro": "Faro de Santa Ana",
+                "en": "Faro de Santa Ana"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie so, dass Sie die Gischt am Leuchtturm vom Auto aus sehen können; der starke Wind kann die gefühlte Temperatur drastisch senken beim Aussteigen.",
+                "hu": "Parkoljon úgy, hogy az autóból is lássa a toronynál felcsapó hullámokat; az erős szél drasztikusan csökkentheti a hőérzetet, amikor kiszáll a járműből.",
+                "ro": "Parcați astfel încât să puteți vedea valurile la far din mașină; vântul puternic poate scădea drastic temperatura resimțită atunci când coborâți din vehicul.",
+                "en": "Park so that you can see the spray at the lighthouse from the car; the strong wind can drastically lower the perceived temperature when you step outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Acueducto Romano de El Chorrillo",
+                "hu": "Acueducto Romano de El Chorrillo",
+                "ro": "Acueducto Romano de El Chorrillo",
+                "en": "Acueducto Romano de El Chorrillo"
+              },
+              "tip_5lang": {
+                "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um den Sonnenuntergang nicht zu verpassen; die tiefstehende Sonne bietet wunderbare Kontraste auf den alten Steinen.",
+                "hu": "Látogasson el ide 16:30 előtt, hogy ne maradjon le a naplementéről; az alacsonyan járó nap csodálatos kontrasztokat teremt a régi kövek felületén.",
+                "ro": "Vizitați acest loc înainte de 16:30 pentru a nu rata apusul; soarele care stă jos pe cer oferă contraste minunate pe suprafața pietrelor vechi ale sitului.",
+                "en": "Visit this spot before 16:30 so you don't miss the sunset; the low sun provides wonderful contrasts and shadows on the ancient stones of the structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Cueva de Urdiales o Aurelia",
+                "hu": "Cueva de Urdiales o Aurelia",
+                "ro": "Cueva de Urdiales o Aurelia",
+                "en": "Cueva de Urdiales o Aurelia"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag hier im Warmen; stellen Sie sicher, dass Ihre Autobatterie fit für den Winter ist, falls Sie die Heizung im Stand länger nutzen möchten.",
+                "hu": "Zárja itt a napot a meleg autóban; győződjön meg róla, hogy az akkumulátor bírja a téli üzemet, ha hosszabb ideig használná a fűtést álló helyzetben.",
+                "ro": "Încheiați ziua aici în căldura mașinii; asigurați-vă că bateria este în stare bună pentru iarnă dacă folosiți încălzirea în timp ce staționați mai mult timp.",
+                "en": "End the day here in the warmth of your car; ensure your car battery is in good condition for winter if you plan to use the heater while parked for long."
+              }
+            }
+          ]
+        }
       }
     }
   }

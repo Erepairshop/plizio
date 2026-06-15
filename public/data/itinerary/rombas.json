@@ -137,6 +137,168 @@
         "hu": "Kezdje a napot Rombas nyüzsgő kulturális szívében, majd sétáljon át a békés Saint-Rémi templomhoz.\nFolytassa sétáját a meghitt Chapelle Saint-Jacques felé, mielőtt megcsodálná az ikonikus óratorony történelmi mechanikáját.\nA délután egy festői, hosszabb túrát tartogat a központból a völgy széle felé, miközben a városi nyüzsgés lassan elhalványul.\nZárja a napot egy jutalmazó emelkedővel a Belvédère Tour de Drince-hez, ahol a lenyűgöző naplementés tájkép tökéletes befejezést nyújt.",
         "ro": "Începeți ziua explorând inima culturală din Rombas la centrul local, urmată de o scurtă plimbare până la senina Biserică Saint-Rémi.\nContinuați plimbarea spre intima Capelă Saint-Jacques înainte de a admira mecanica istorică a Turnului cu Ceas.\nDupă-amiaza implică o drumeție pitorească din centrul imediat spre marginea văii, lăsând atmosfera urbană să se estompeze.\nÎncheiați cu o ascensiune plină de satisfacții la Belvédère Tour de Drince, unde priveliștea panoramică la apus oferă un final perfect.",
         "en": "Begin your day exploring Rombas's vibrant cultural heart at the local center, followed by a short walk to the serene Saint-Rémi Church.\nContinue your stroll to the intimate Chapelle Saint-Jacques before marveling at the historic mechanics of the iconic Clock Tower.\nThe afternoon involves a scenic, longer trek out of the immediate center towards the valley's edge, letting the urban atmosphere fade.\nConclude with a rewarding ascent to the Belvédère Tour de Drince, where panoramic sunset views across the landscape offer a perfect end."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Vormittag beginnt im trockenen Kulturraum, ideal um dem Regen zu entfliehen. Mittags bieten die Kirchen Saint-Rémi und Saint-Jacques spirituelle Ruhe und Schutz vor Nässe. Am Nachmittag führt der Weg zum Uhrturm und schließlich zur Tour de Drince, wobei die nasse Natur eine mystische Atmosphäre schafft. Der Abend endet mit dem Blick auf die glänzenden, regennassen Straßen von Rombas.",
+            "hu": "A reggel a Kulturális Tér falai között indul, ahol az eső kopogása csak még meghittebbé teszi a kiállításokat. Délben a Saint-Rémi templom és a kápolna nyújt száraz menedéket. Délután, bár az út a Tour de Drince-hez csúszós lehet, a felhők között megcsillanó táj különleges élmény. Az este a városi fények tükröződésével zárul a vizes aszfalton, egy esernyő kíséretében.",
+            "ro": "Dimineața începe în Spațiul Cultural, locul perfect pentru a evita ploaia. La prânz, bisericile Saint-Rémi și Saint-Jacques oferă un refugiu uscat și liniștit. După-amiaza, drumul spre Turnul Drince este înconjurat de o natură mistică, în ciuda umezelii. Seara se încheie admirând reflexiile luminilor orașului pe străzile umede, protejați de o pelerină de ploaie.",
+            "en": "The morning starts in the dry Cultural Space, ideal for escaping the drizzle. At noon, the churches of Saint-Rémi and Saint-Jacques provide spiritual peace and shelter from the wet. In the afternoon, the path to Tour de Drince offers a mystical atmosphere despite the rain. The evening concludes with views of the city lights reflecting off the wet pavement of Rombas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturraum Rombas",
+                "hu": "Rombas Kulturális Tér",
+                "ro": "Spațiul Cultural Rombas",
+                "en": "Rombas Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Innenräume für die Ausstellungen, während es draußen regnet; vergessen Sie nicht, Ihren Regenschirm am Eingang abzustellen.",
+                "hu": "Használd ki a belső kiállítótereket, amíg kint esik; ne felejtsd el az esernyőtartót használni a bejáratnál a kényelmes nézelődéshez.",
+                "ro": "Vizitați expozițiile interioare în timp ce plouă afară; nu uitați să lăsați umbrela la intrare pentru a explora relaxat spațiul.",
+                "en": "Enjoy the indoor exhibitions while it rains outside; remember to leave your umbrella at the entrance to explore the space comfortably."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Rémi",
+                "hu": "Saint-Rémi templom",
+                "ro": "Biserica Saint-Rémi",
+                "en": "Saint-Rémi Church"
+              },
+              "tip_5lang": {
+                "de": "Die Kirche ist ein hervorragender Zufluchtsort vor Schauern; bewundern Sie die Architektur, während Sie auf eine Regenpause warten.",
+                "hu": "A templom kiváló menedék a záporok elől; csodáld meg az építészeti részleteket, amíg eláll az eső, és élvezd a belső csendet.",
+                "ro": "Biserica este un refugiu excelent împotriva averselor; admirați detaliile arhitecturale în timp ce așteptați să se oprească ploaia.",
+                "en": "The church is an excellent shelter from showers; admire the architectural details while waiting for the rain to stop in silence."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Jacques",
+                "hu": "Saint-Jacques kápolna",
+                "ro": "Capela Saint-Jacques",
+                "en": "Chapelle Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, nasser Spaziergang führt hierher; tragen Sie wasserfeste Schuhe, da der Zugangsweg bei Regen etwas schlammig sein kann.",
+                "hu": "Rövid, esős séta vezet ide; viselj vízálló cipőt, mert a bejárati út sárgás és csúszós lehet a csapadékos időben.",
+                "ro": "O scurtă plimbare prin ploaie vă aduce aici; purtați încălțăminte impermeabilă, deoarece poteca poate deveni noroioasă.",
+                "en": "A short, rainy walk leads here; wear waterproof shoes as the access path can be muddy and slippery in wet weather."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrturm Rombas",
+                "hu": "Rombas Óratorony",
+                "ro": "Turnul cu Ceas Rombas",
+                "en": "Rombas Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Betrachten Sie das historische Mauerwerk, das im Regen dunkler erscheint; ein schneller Fotostopp unter einem Vordach lohnt sich.",
+                "hu": "Nézd meg a történelmi falakat, amik az esőtől sötétebb tónust kapnak; egy gyors fotó az ereszek alól is remekül mutat.",
+                "ro": "Observați zidăria istorică ce pare mai închisă la culoare pe ploaie; o oprire rapidă pentru poze sub o streașină merită.",
+                "en": "Observe the historical masonry which appears darker in the rain; a quick photo stop under an eave is well worth it."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsturm Tour de Drince",
+                "hu": "Tour de Drince Kilátó",
+                "ro": "Turnul de Observație Drince",
+                "en": "Belvédère Tour de Drince"
+              },
+              "tip_5lang": {
+                "de": "Seien Sie extrem vorsichtig auf den Stufen, da sie sehr rutschig sind; die Aussicht auf die nebligen Täler ist jedoch einzigartig.",
+                "hu": "Légy rendkívül óvatos a lépcsőkön, mert nagyon csúszósak; a ködös völgyek látványa viszont kárpótol a nedves körülményekért.",
+                "ro": "Fiți extrem de precauți pe trepte, deoarece sunt foarte alunecoase; totuși, vederea asupra văilor încețoșate este unică.",
+                "en": "Be extremely careful on the steps as they are very slippery; however, the view of the misty valleys is uniquely beautiful."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt im beheizten Kulturraum. Mittags führt der Weg durch die kühle Stadtluft zu den historischen Kirchen, wo die Stille der Jahreszeit spürbar ist. Am Nachmittag steigen wir zur Tour de Drince auf, um den frühen Sonnenuntergang gegen 17:00 Uhr über der frostigen Landschaft zu erleben. Der Abend lädt zu einem zügigen Rückweg in die Wärme ein.",
+            "hu": "Friss téli levegő fogad reggel a Kulturális Térnél, ahol érdemes jól átmelegedni. Délben a város hűvös utcáin át jutunk el a templomokhoz, élvezve a téli csendet. Délután sietnünk kell a Tour de Drince kilátóhoz, hogy még a korai, délután ötkori naplemente előtt lássuk a zúzmarás tájat. Az este hamar leszáll, Rombas fényei barátságosan pislákolnak a hidegben.",
+            "ro": "O dimineață răcoroasă de iarnă începe în Spațiul Cultural încălzit. La prânz, plimbarea prin aerul rece al orașului spre biserici subliniază liniștea sezonului. După-amiaza, urcăm la Turnul Drince pentru a surprinde apusul devreme, în jurul orei 17:00, peste peisajul înghețat. Seara ne îndeamnă la o întoarcere rapidă spre locuri calde.",
+            "en": "A crisp winter morning starts in the heated Cultural Space. At noon, the walk through the cool city air to the churches highlights the season's silence. In the afternoon, we climb to Tour de Drince to catch the early sunset around 17:00 over the frosty landscape. The evening calls for a brisk return to the warmth of the town center."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kulturraum Rombas",
+                "hu": "Rombas Kulturális Tér",
+                "ro": "Spațiul Cultural Rombas",
+                "en": "Rombas Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Der perfekte Ort, um sich am Vormittag aufzuwärmen; genießen Sie die kulturellen Highlights in angenehm temperierter Umgebung.",
+                "hu": "Tökéletes hely a reggeli átmelegedéshez; élvezd a kulturális kiállításokat a kellemesen temperált belső térben, mielőtt továbbindulsz.",
+                "ro": "Locul perfect pentru a vă încălzi dimineața; bucurați-vă de punctele culturale importante într-un mediu cu temperatură plăcută.",
+                "en": "The perfect place to warm up in the morning; enjoy the cultural highlights in a pleasantly tempered indoor environment."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Rémi",
+                "hu": "Saint-Rémi templom",
+                "ro": "Biserica Saint-Rémi",
+                "en": "Saint-Rémi Church"
+              },
+              "tip_5lang": {
+                "de": "Beachten Sie, dass es in alten Kirchen sehr kalt sein kann; behalten Sie Ihren Mantel an, während Sie die Kunstwerke bewundern.",
+                "hu": "Vegyük figyelembe, hogy a régi templomok télen nagyon hidegek; ne vedd le a kabátodat, miközben a művészeti alkotásokat nézed.",
+                "ro": "Rețineți că în bisericile vechi poate fi foarte frig; păstrați-vă haina pe dvs. în timp ce admirați operele de artă.",
+                "en": "Keep in mind that old churches can be very cold in winter; keep your coat on while admiring the religious artworks."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Jacques",
+                "hu": "Saint-Jacques kápolna",
+                "ro": "Capela Saint-Jacques",
+                "en": "Chapelle Saint-Jacques"
+              },
+              "tip_5lang": {
+                "de": "Der Weg zur Kapelle ist bei Frost oft glatt; tragen Sie Schuhe mit gutem Profil für einen sicheren Halt auf dem Boden.",
+                "hu": "A kápolnához vezető út fagyos időben gyakran jeges; viselj bordázott talpú cipőt a biztonságos tapadás érdekében a lejtőn.",
+                "ro": "Drumul spre chapelă este adesea alunecos pe ger; purtați încălțăminte cu talpă aderentă pentru o stabilitate bună pe sol.",
+                "en": "The path to the chapel is often icy in freezing weather; wear shoes with good grip for a secure hold on the ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrturm Rombas",
+                "hu": "Rombas Óratorony",
+                "ro": "Turnul cu Ceas Rombas",
+                "en": "Rombas Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Im Wintermorgenlicht wirkt der Turm besonders imposant; nutzen Sie die klare Luft für scharfe Fotos der historischen Struktur.",
+                "hu": "A téli reggeli fényben a torony különösen impozáns; használd ki a tiszta levegőt a történelmi épület éles fotózásához.",
+                "ro": "În lumina dimineții de iarnă, turnul pare deosebit de impunător; profitați de aerul curat pentru fotografii clare ale structurii.",
+                "en": "In the winter morning light, the tower looks particularly imposing; take advantage of the crisp air for sharp photos of the structure."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsturm Tour de Drince",
+                "hu": "Tour de Drince Kilátó",
+                "ro": "Turnul de Observație Drince",
+                "en": "Belvédère Tour de Drince"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 16:30 Uhr an, um den Sonnenuntergang zu sehen; der Wind oben ist eisig, Handschuhe und Mütze sind unerlässlich.",
+                "hu": "Érkezz meg 16:30 előtt a naplemente megtekintéséhez; a szél fent jeges lehet, a kesztyű és sapka használata elengedhetetlen.",
+                "ro": "Arrive înainte de 16:30 pentru a vedea apusul; vântul sus este înghețat, mănușile și căciula fiind absolut necesare.",
+                "en": "Arrive before 16:30 to catch the sunset; the wind at the top is icy, so gloves and a hat are essential for the view."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Tekerjen el a buja Fond de Saint-Martin parkba egy friss természeti reggelre, majd könnyedén másszon fel a Belvédère kilátóhoz.\nNézze meg a közeli titokzatos Pierre qui tourne követ, majd tekerjen vissza a városközpontba a Saint-Rémi építészetének megcsodálásához.\nTöltse a délutánt a helyi örökség felfedezésével a Kulturális Térben, kihasználva a Rombas központján átvezető kényelmes kerékpárutakat.\nZárja a kerékpártúrát a fenséges Église Saint-Henri templomnál, felszívva a csendes esti hangulatot a vacsora előtt.",
         "ro": "Porniți pe bicicletă spre luxuriantul parc Fond de Saint-Martin, apoi urcați ușor la turnul de observație Belvédère.\nVizitați misterioasa Pierre qui tourne din apropiere, apoi mergeți înapoi spre centru pentru a admira arhitectura bisericii Saint-Rémi.\nPetreceți după-amiaza cufundat în moștenirea locală la Spațiul Cultural, utilizând pistele de biciclete convenabile din centrul Rombas.\nÎncheiați turul pe bicicletă la maiestuoasa Biserică Saint-Henri, absorbind ambianța liniștită a serii înainte de cină.",
         "en": "Pedal out to the lush Fond de Saint-Martin park to enjoy a fresh morning in nature, then easily climb up to the Belvédère viewing tower.\nCheck out the mysterious Pierre qui tourne nearby, then ride back towards the town center to admire the architecture of Saint-Rémi.\nSpend your afternoon immersed in local heritage at the Cultural Space, utilizing the convenient cycling paths through Rombas's core.\nWrap up the cycling tour at the majestic Église Saint-Henri, soaking in the quiet evening ambiance before heading off to dinner."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Trotz Regen bietet der Fond de Saint-Martin eine erfrischende Fahrt durch die Natur. Mittags führt die Route zur Tour de Drince, wo Vorsicht auf nassen Waldwegen geboten ist. Nach einem Halt bei der 'Pierre qui tourne' geht es zurück in die Stadt zu den Kirchen und dem Kulturraum, um sich aufzuwärmen. Der Abend schließt mit einer vorsichtigen Fahrt durch das beleuchtete Rombas.",
+            "hu": "Az eső ellenére a Fond de Saint-Martin frissítő tekerést kínál a természetben. Délben az út a Tour de Drince-hez vezet, ahol óvatosan kell haladni a vizes erdei utakon. A 'Forgó Kő' után visszafelé vesszük az irányt a városi templomok és a Kulturális Tér felé, hogy szárazon folytassuk. Az este egy óvatos tekeréssel zárul a kivilágított, vizes Rombasban.",
+            "ro": "În ciuda ploii, Fond de Saint-Martin oferă o plimbare revigorantă prin natură. La prânz, traseul duce la Turnul Drince, unde este necesară prudență pe drumurile de pădure umede. După o oprire la 'Piatra care se rotește', revenim în oraș spre biserici și Spațiul Cultural. Seara se încheie cu o pedalare atentă prin Rombasul iluminat și ud.",
+            "en": "Despite the rain, Fond de Saint-Martin offers a refreshing ride through nature. At noon, the route leads to Tour de Drince, where caution is needed on wet forest paths. After visiting 'La Pierre qui tourne', head back to the town's churches and Cultural Space to stay dry. The evening ends with a careful ride through the illuminated, wet streets of Rombas."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Park Fond de Saint-Martin",
+                "hu": "Fond de Saint-Martin Park",
+                "ro": "Parcul Fond de Saint-Martin",
+                "en": "Fond de Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Die Wege können matschig sein; Schutzbleche am Fahrrad sind sehr empfehlenswert, um Ihre Kleidung vor Spritzern zu schützen.",
+                "hu": "Az utak sarasak lehetnek; a sárvédő használata erősen ajánlott, hogy megvédd a ruhádat a felverődő víztől és sártól.",
+                "ro": "Potecile pot fi noroioase; aripile la bicicletă sunt recomandate pentru a vă proteja hainele de stropii de noroi.",
+                "en": "Paths can be muddy; fenders on your bike are highly recommended to protect your clothes from splashes and dirt."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsturm Tour de Drince",
+                "hu": "Tour de Drince Kilátó",
+                "ro": "Turnul de Observație Drince",
+                "en": "Belvédère Tour de Drince"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad sicher und achten Sie auf rutschiges Laub am Fuß des Turms; die Aussicht im Regen hat einen ganz eigenen Reiz.",
+                "hu": "Parkolj le biztonságosan, és vigyázz a csúszós levelekre a torony tövében; az esős kilátásnak is megvan a maga különleges hangulata.",
+                "ro": "Parcați bicicleta în siguranță și atenție la frunzele umede la baza turnului; panorama pe ploaie are un farmec aparte.",
+                "en": "Park your bike securely and watch out for slippery leaves at the tower's base; the rainy view has its own unique charm."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pierre qui tourne",
+                "hu": "Forgó Kő (La Pierre qui tourne)",
+                "ro": "Piatra care se Rotește",
+                "en": "La Pierre qui tourne"
+              },
+              "tip_5lang": {
+                "de": "Der Waldpfad hierher ist bei Regen rutschig; fahren Sie langsam und nutzen Sie griffige Reifen für bessere Kontrolle.",
+                "hu": "Az ide vezető erdei ösvény esőben csúszós; haladj lassan és használj jó tapadású gumikat a jobb irányíthatóságért.",
+                "ro": "Poteca de pădure spre acest loc este alunecoasă; pedalați încet și folosiți anvelope cu aderență bună pentru control.",
+                "en": "The forest path here is slippery when wet; ride slowly and use high-grip tires for better control on the slopes."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Rémi",
+                "hu": "Saint-Rémi templom",
+                "ro": "Biserica Saint-Rémi",
+                "en": "Saint-Rémi Church"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Halt für eine Pause im Trockenen; wischen Sie Ihren Sattel ab, bevor Sie die Fahrt fortsetzen.",
+                "hu": "Használd ki a megállót egy száraz pihenőre; töröld le a nyerget, mielőtt folytatnád az utat a következő állomásig.",
+                "ro": "Folosiți această oprire pentru o pauză la uscat; ștergeți șaua bicicletei înainte de a continua drumul prin oraș.",
+                "en": "Use this stop for a dry break; wipe down your saddle before continuing your ride to the next destination."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Rombas",
+                "hu": "Rombas Kulturális Tér",
+                "ro": "Spațiul Cultural Rombas",
+                "en": "Rombas Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Ort, um sich aufzuwärmen und den Regen draußen zu lassen; stellen Sie Ihr Rad an einem überdachten Platz ab.",
+                "hu": "Ideális hely az átmelegedéshez és az eső elkerüléséhez; próbáld fedett helyen hagyni a kerékpárt, ha lehetséges.",
+                "ro": "Un loc ideal pentru a vă încălzi și a lăsa ploaia afară; parcați bicicleta într-un loc acoperit dacă găsiți.",
+                "en": "An ideal place to warm up and leave the rain outside; try to park your bike in a covered area if available."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Henri",
+                "hu": "Saint-Henri templom",
+                "ro": "Biserica Saint-Henri",
+                "en": "Église Saint-Henri"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf nasse Markierungen auf der Straße vor der Kirche; tragen Sie reflektierende Kleidung bei schlechter Sicht.",
+                "hu": "Vigyázz a vizes útburkolati jelekre a templom előtt; viselj fényvisszaverő ruházatot a rossz látási viszonyok között.",
+                "ro": "Atenție la marcajele rutiere umede din fața bisericii; purtați haine reflectorizante în condiții de vizibilitate scăzută.",
+                "en": "Watch out for wet road markings in front of the church; wear reflective clothing for better visibility in the rain."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die frostige Radtour startet am Fond de Saint-Martin. Mittags fordern der Anstieg zur Tour de Drince und der frostige Wind Ihre Ausdauer. Vorbei an der geheimnisvollen 'Pierre qui tourne' führt der Weg in die Stadt, wo Kirchen und der Kulturraum willkommene Wärmestopps bieten. Da es gegen 17:00 Uhr dunkel wird, endet die Tour mit eingeschaltetem Licht bei der Kirche Saint-Henri.",
+            "hu": "A fagyos kerékpártúra a Fond de Saint-Martinnál indul. Délben a Tour de Drince-hez vezető emelkedő és a jeges szél próbára teszi az állóképességet. A titokzatos 'Forgó Kő' után a város felé vesszük az irányt, ahol a templomok és a Kulturális Tér várva várt meleg pihenőket kínálnak. Mivel 17:00 körül sötétedik, a túra lámpafénynél ér véget a Saint-Henri templomnál.",
+            "ro": "Turul pe bicicletă începe la Fond de Saint-Martin. La prânz, urcarea spre Turnul Drince și vântul înghețat vă testează rezistența. După 'Piatra care se rotește', drumul duce în oraș unde bisericile și Spațiul Cultural oferă opriri calde. Deoarece se întunecă în jur de ora 17:00, turul se încheie cu luminile aprinse la biserica Saint-Henri.",
+            "en": "The frosty bike tour starts at Fond de Saint-Martin. At noon, the climb to Tour de Drince and the icy wind test your endurance. Past 'La Pierre qui tourne', head into town where churches and the Cultural Space offer welcome warm stops. As it gets dark around 17:00, the tour ends with lights on at the Saint-Henri Church."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Park Fond de Saint-Martin",
+                "hu": "Fond de Saint-Martin Park",
+                "ro": "Parcul Fond de Saint-Martin",
+                "en": "Fond de Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermohandschuhe gegen den kalten Fahrtwind; die Parkwege können bei Frost stellenweise glatt sein.",
+                "hu": "Viselj termokesztyűt a hideg menetszél ellen; a park útjai a fagy miatt helyenként síkosak lehetnek, óvatosan kanyarodj.",
+                "ro": "Purtați mănuși termice împotriva vântului rece; aleile parcului pot fi înghețate pe alocuri, pedalați cu atenție.",
+                "en": "Wear thermal gloves against the cold wind; park paths can be slippery in places due to frost, so steer carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsturm Tour de Drince",
+                "hu": "Tour de Drince Kilátó",
+                "ro": "Turnul de Observație Drince",
+                "en": "Belvédère Tour de Drince"
+              },
+              "tip_5lang": {
+                "de": "Bewegen Sie sich zügig, um warm zu bleiben; die Aussicht auf die winterlichen Vogesen bei klarer Luft ist spektakulär.",
+                "hu": "Mozogj folyamatosan, hogy melegen tartsd magad; a kilátás a téli tájra a tiszta levegőben ilyenkor a legszebb.",
+                "ro": "Mișcați-vă energic pentru a vă menține căldura; vederea asupra peisajului hibernal în aer curat este spectaculoasă.",
+                "en": "Keep moving briskly to stay warm; the view of the winter landscape in the clear air is spectacular at this time."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pierre qui tourne",
+                "hu": "Forgó Kő (La Pierre qui tourne)",
+                "ro": "Piatra care se Rotește",
+                "en": "La Pierre qui tourne"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf verstecktes Eis unter dem Laub; fahren Sie in den Waldabschnitten besonders kontrolliert und langsam.",
+                "hu": "Figyelj a levelek alatt megbújó jégre; az erdei szakaszokon haladj különösen kontrolláltan és lassan a biztonságért.",
+                "ro": "Atenție la gheața ascunsă sub frunze; pedalați controlat și încet în secțiunile de pădure pentru siguranță.",
+                "en": "Watch out for hidden ice under the fallen leaves; ride in a controlled and slow manner through the forest sections."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Rémi",
+                "hu": "Saint-Rémi templom",
+                "ro": "Biserica Saint-Rémi",
+                "en": "Saint-Rémi Church"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp im Inneren hilft gegen das Auskühlen; prüfen Sie Ihre Beleuchtung für den bevorstehenden frühen Abend.",
+                "hu": "Egy rövid benti pihenő segít a lehűlés ellen; ellenőrizd a lámpáidat a hamarosan beköszöntő sötétség előtt.",
+                "ro": "O scurtă oprire în interior ajută la reîncălzire; verificați luminile bicicletei pentru seara ce se apropie rapid.",
+                "en": "A short stop inside helps against cooling down; check your bike lights for the rapidly approaching early evening."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Rombas",
+                "hu": "Rombas Kulturális Tér",
+                "ro": "Spațiul Cultural Rombas",
+                "en": "Rombas Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie die Heizung im Gebäude, um Ihre Glieder zu lockern; die Ausstellungen bieten eine tolle Abwechslung zum Frost.",
+                "hu": "Használd ki az épület fűtését a végtagjaid átmozgatására; a kiállítások remek kikapcsolódást nyújtanak a hideg után.",
+                "ro": "Folosiți căldura din clădire pentru a vă relaxa articulațiile; expozițiile oferă o pauză excelentă de la ger.",
+                "en": "Use the building's heating to loosen your limbs; the exhibitions provide a great break from the outdoor frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Henri",
+                "hu": "Saint-Henri templom",
+                "ro": "Biserica Saint-Henri",
+                "en": "Église Saint-Henri"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sicher, dass Ihre Reflektoren sauber sind; bei Dämmerung ist gute Sichtbarkeit für Radfahrer lebenswichtig.",
+                "hu": "Győződj meg róla, hogy a prizmáid tiszták; szürkületkor a jó láthatóság életmentő lehet a kerékpárosok számára.",
+                "ro": "Asigurați-vă că reflectorizantele sunt curate; la amurg, vizibilitatea bună este vitală pentru bicicliști.",
+                "en": "Ensure your reflectors are clean; at dusk, being highly visible is life-saving for cyclists on the road."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Vezessen a külvárosba egy nyugodt kezdésért a Fond de Saint-Martin parkban, majd rögtön utána csodálja meg a Belvédère torony kilátását.\nUgorjon át az ősi Pierre qui tourne kőhöz, majd guruljon be a városközpontba, hogy elmerüljön a Kulturális Tér kiállításaiban.\nParkoljon le a központ közelében, és fedezze fel gyalogosan a magasba törő óratornyot és a közeli bájos Chapelle Saint-Nicolas kápolnát.\nFejezze be átfogó autós túráját az Église Saint-Étienne-nél, élvezve a gyönyörűen megőrzött homlokzatot a városi fények kigyulladásakor.",
         "ro": "Conduceți la periferie pentru un început liniștit la Fond de Saint-Martin, urmat rapid de priveliștile impresionante de la turnul Belvédère.\nTreceți să descoperiți antica Pierre qui tourne, apoi conduceți spre centrul urban pentru a vedea expozițiile de la Spațiul Cultural.\nParcați lângă cartierul central pentru a explora pe jos impunătorul Turn cu Ceas și fermecătoarea Capelă Saint-Nicolas.\nÎncheiați-vă turul auto la Biserica Saint-Étienne, bucurându-vă de fațada frumos conservată pe măsură ce orașul se luminează.",
         "en": "Drive to the outskirts for a tranquil start at Fond de Saint-Martin, quickly followed by the impressive sights from the Belvédère tower.\nHop over to uncover the ancient Pierre qui tourne, then cruise into the urban center to engage with exhibitions at the Cultural Space.\nPark near the central district to thoroughly explore the towering Clock Tower and the nearby charming Chapelle Saint-Nicolas on foot.\nEnd your comprehensive driving tour at Église Saint-Étienne, enjoying the beautifully preserved facade as the city lights up."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein regnerischer Tag lässt sich bequem im Auto am Fond de Saint-Martin beginnen. Mittags bietet die Tour de Drince trotz Nässe einen tollen Ausblick, bevor es zur 'Pierre qui tourne' geht. Der Nachmittag gehört dem Kulturraum und dem Uhrturm im Stadtzentrum. Den Abend beschließen wir mit Besuchen der Kapelle Saint-Nicolas und der Kirche Saint-Étienne, geschützt vor dem Wetter.",
+            "hu": "Az esős nap kényelmesen kezdődik az autóban a Fond de Saint-Martinnál. Délben a Tour de Drince a nedvesség ellenére is remek kilátást nyújt, mielőtt a 'Forgó Kőhöz' gurulnánk. A délután a Kulturális Téré és az Óratoronyé a városközpontban. Az estét a Saint-Nicolas kápolna és a Saint-Étienne templom látogatásával zárjuk, az időjárástól védetten.",
+            "ro": "O zi ploioasă începe confortabil în mașină la Fond de Saint-Martin. La prânz, Turnul Drince oferă o vedere excelentă în ciuda umezelii, înainte de a merge la 'Piatra care se rotește'. După-amiaza aparține Spațiului Cultural și Turnului cu Ceas. Încheiem seara vizitând Capela Saint-Nicolas și Biserica Saint-Étienne, protejați de vreme.",
+            "en": "A rainy day starts comfortably in the car at Fond de Saint-Martin. At noon, Tour de Drince offers a great view despite the wetness before driving to 'La Pierre qui tourne'. The afternoon is dedicated to the Cultural Space and the Clock Tower. We conclude the evening with visits to Saint-Nicolas Chapel and Saint-Étienne Church, sheltered from the elements."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Park Fond de Saint-Martin",
+                "hu": "Fond de Saint-Martin Park",
+                "ro": "Parcul Fond de Saint-Martin",
+                "en": "Fond de Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Blick auf den Park aus dem trockenen Auto; nutzen Sie Regenpausen für kurze Spaziergänge am Ufer.",
+                "hu": "Élvezd a park látványát a száraz autóból; használd ki az esőszüneteket rövid sétákra a tóparton, esernyővel a kézben.",
+                "ro": "Bucurați-vă de vederea parcului din mașina uscată; profitați de pauzele de ploaie pentru scurte plimbări pe mal.",
+                "en": "Enjoy the park view from the dry car; take advantage of breaks in the rain for short walks along the lakeside."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsturm Tour de Drince",
+                "hu": "Tour de Drince Kilátó",
+                "ro": "Turnul de Observație Drince",
+                "en": "Belvédère Tour de Drince"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah am Aufgang; achten Sie beim Aussteigen auf rutschigen Untergrund und tragen Sie eine Regenjacke.",
+                "hu": "Parkolj közel a feljáróhoz; kiszálláskor ügyelj a csúszós talajra, és ne felejtsd el felvenni az esőkabátodat.",
+                "ro": "Parcați aproape de intrare; atenție la solul alunecos când coborâți și nu uitați să purtați o jachetă impermeabilă.",
+                "en": "Park close to the entrance; watch out for slippery ground when getting out and make sure to wear a waterproof jacket."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pierre qui tourne",
+                "hu": "Forgó Kő (La Pierre qui tourne)",
+                "ro": "Piatra care se Rotește",
+                "en": "La Pierre qui tourne"
+              },
+              "tip_5lang": {
+                "de": "Die Zufahrt kann schlammig sein; schalten Sie bei schlechter Sicht das Abblendlicht ein, um besser gesehen zu werden.",
+                "hu": "A behajtó út saras lehet; rossz látási viszonyok között kapcsold be a tompított fényszórót a jobb láthatóságért.",
+                "ro": "Drumul de acces poate fi noroios; porniți faza scurtă în condiții de vizibilitate scăzută pentru a fi văzuți mai bine.",
+                "en": "The access road can be muddy; turn on your low beam headlights in poor visibility to be better seen by others."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Rombas",
+                "hu": "Rombas Kulturális Tér",
+                "ro": "Spațiul Cultural Rombas",
+                "en": "Rombas Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den nahegelegenen Parkplatz für einen schnellen Zugang ins Trockene; die Ausstellungen sind ein Regen-Highlight.",
+                "hu": "Használd a közeli parkolót a gyors bejutáshoz a szárazba; a kiállítások remek menedéket nyújtanak az eső elől.",
+                "ro": "Folosiți parcarea din apropiere pentru acces rapid la interior; expozițiile sunt un punct forte pe timp de ploaie.",
+                "en": "Use the nearby parking lot for quick access to the dry interior; the exhibitions are a highlight on a rainy day."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrturm Rombas",
+                "hu": "Rombas Óratorony",
+                "ro": "Turnul cu Ceas Rombas",
+                "en": "Rombas Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp reicht aus, um das Denkmal zu bewundern; halten Sie Ihre Scheibenwischer für die Weiterfahrt bereit.",
+                "hu": "Egy rövid megálló is elég az emlékmű megcsodálásához; tartsd készenlétben az ablaktörlőket a továbbinduláshoz.",
+                "ro": "O oprire scurtă este suficientă pentru a admira monumentul; asigurați-vă că ștergătoarele funcționează bine pentru drum.",
+                "en": "A short stop is enough to admire the monument; keep your windshield wipers ready for the continued drive through town."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Nicolas",
+                "hu": "Saint-Nicolas kápolna",
+                "ro": "Capela Saint-Nicolas",
+                "en": "Chapelle Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie vorsichtig am Straßenrand; ein großer Regenschirm hilft beim kurzen Weg vom Auto zur Kapelle.",
+                "hu": "Parkolj óvatosan az út szélén; egy nagyméretű esernyő jól jön majd az autó és a kápolna közötti rövid úton.",
+                "ro": "Parcați cu atenție pe marginea drumului; o umbrelă mare vă va ajuta pe drumul scurt de la mașină la chapelă.",
+                "en": "Park carefully on the roadside; a large umbrella will be helpful for the short walk from the car to the chapel."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Achten Sie auf Pfützen auf dem Parkplatz; die Kirche bietet einen würdigen und trockenen Abschluss Ihrer Tour.",
+                "hu": "Ügyelj a tócsákra a parkolóban; a templom méltóságteljes és száraz lezárása lesz a mai autós körutazásnak.",
+                "ro": "Atenție la bălțile din parcare; biserica oferă un final demn și uscat pentru turul dvs. de astăzi cu mașina.",
+                "en": "Watch out for puddles in the parking area; the church provides a dignified and dry conclusion to your driving tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die winterliche Fahrt beginnt mit Sitzheizung am Fond de Saint-Martin. Mittags führt die Route zur Tour de Drince für einen Panoramablick auf die kahlen Wälder. Nach dem Besuch der 'Pierre qui tourne' wärmen wir uns im Kulturraum Rombas auf. Da die Sonne gegen 17:00 Uhr untergeht, besuchen wir die Kapelle Saint-Nicolas und die Kirche Saint-Étienne in der blauen Stunde der Dämmerung.",
+            "hu": "A téli autózás ülésfűtéssel indul a Fond de Saint-Martinnál. Délben a Tour de Drince-hez autózunk a kopár erdők panorámájáért. A 'Forgó Kő' megtekintése után a Rombas Kulturális Térben melegszünk fel. Mivel a nap 17:00 körül nyugszik, a Saint-Nicolas kápolnát és a Saint-Étienne templomot már az alkonyat kék órájában látogatjuk meg.",
+            "ro": "Călătoria de iarnă începe cu încălzirea în scaune la Fond de Saint-Martin. La prânz, traseul duce la Turnul Drince pentru o panoramă asupra pădurilor desfrunzite. După vizitarea 'Pietrei care se rotește', ne încălzim la Spațiul Cultural. Deoarece soarele apune în jur de 17:00, vizităm Capela Saint-Nicolas și Biserica Saint-Étienne în ora albastră.",
+            "en": "The winter drive starts with seat heating at Fond de Saint-Martin. At noon, the route leads to Tour de Drince for a panoramic view of the bare forests. After visiting 'La Pierre qui tourne', we warm up at the Rombas Cultural Space. Since the sun sets around 17:00, we visit Saint-Nicolas Chapel and Saint-Étienne Church during the blue hour of dusk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Park Fond de Saint-Martin",
+                "hu": "Fond de Saint-Martin Park",
+                "ro": "Parcul Fond de Saint-Martin",
+                "en": "Fond de Saint-Martin"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das Auto als warme Basis; die frostige Landschaft am See lässt sich so auch bei Kälte wunderbar genießen.",
+                "hu": "Használd az autót meleg bázisként; a fagyos tóparti táj így hidegben is csodálatosan élvezhető marad.",
+                "ro": "Folosiți mașina ca bază caldă; peisajul înghețat de lângă lac poate fi savurat minunat chiar și pe ger.",
+                "en": "Use your car as a warm base; the frosty lakeside landscape can be wonderfully enjoyed even in the biting cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Aussichtsturm Tour de Drince",
+                "hu": "Tour de Drince Kilátó",
+                "ro": "Turnul de Observație Drince",
+                "en": "Belvédère Tour de Drince"
+              },
+              "tip_5lang": {
+                "de": "Lassen Sie den Motor nicht unnötig laufen; ein kurzer, kräftiger Aufstieg zum Turm bringt den Kreislauf in Schwung.",
+                "hu": "Ne járasd feleslegesen a motort; egy rövid, intenzív felmenetel a toronyba jól felpörgeti a vérkeringésedet.",
+                "ro": "Nu lăsați motorul pornit inutil; o urcare scurtă și energică la turn vă va pune sângele în mișcare imediat.",
+                "en": "Do not leave the engine idling unnecessarily; a short, brisk climb to the tower will get your circulation going."
+              }
+            },
+            {
+              "name": {
+                "de": "La Pierre qui tourne",
+                "hu": "Forgó Kő (La Pierre qui tourne)",
+                "ro": "Piatra care se Rotește",
+                "en": "La Pierre qui tourne"
+              },
+              "tip_5lang": {
+                "de": "Prüfen Sie die Straßenbedingungen auf Eis; die Waldwege können im Schatten auch tagsüber gefroren bleiben.",
+                "hu": "Ellenőrizd az útviszonyokat a jég miatt; az erdei utak az árnyékban napközben is fagyottak maradhatnak.",
+                "ro": "Verificați starea drumului pentru gheață; drumurile forestiere pot rămâne înghețate în umbră chiar și ziua.",
+                "en": "Check road conditions for black ice; forest roads can remain frozen in the shade even during the daytime."
+              }
+            },
+            {
+              "name": {
+                "de": "Kulturraum Rombas",
+                "hu": "Rombas Kulturális Tér",
+                "ro": "Spațiul Cultural Rombas",
+                "en": "Rombas Cultural Space"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die wohlige Wärme im Inneren; es ist die beste Zeit des Tages, um in die lokale Kultur einzutauchen.",
+                "hu": "Élvezd a kellemes belső meleget; ez a nap legjobb időszaka, hogy elmerülj a helyi kultúrában és kiállításokban.",
+                "ro": "Bucurați-vă de căldura plăcută din interior; este cel mai bun moment al zilei pentru a explora cultura locală.",
+                "en": "Enjoy the cozy warmth inside; it's the best time of the day to immerse yourself in the local culture and exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Uhrturm Rombas",
+                "hu": "Rombas Óratorony",
+                "ro": "Turnul cu Ceas Rombas",
+                "en": "Rombas Clock Tower"
+              },
+              "tip_5lang": {
+                "de": "Das weiche Winterlicht am Nachmittag betont die Textur des Turms; ideal für stimmungsvolle Architekturfotos.",
+                "hu": "A délutáni lágy téli fény kiemeli a torony textúráját; ideális hangulatos építészeti fotók készítéséhez.",
+                "ro": "Lumina blândă de iarnă de după-amiază scoate în evidență textura turnului; ideal pentru fotografii de arhitectură.",
+                "en": "The soft winter light in the afternoon emphasizes the tower's texture; ideal for atmospheric architectural photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Kapelle Saint-Nicolas",
+                "hu": "Saint-Nicolas kápolna",
+                "ro": "Capela Saint-Nicolas",
+                "en": "Chapelle Saint-Nicolas"
+              },
+              "tip_5lang": {
+                "de": "Bei Einbruch der Dunkelheit ist die Kapelle oft schön beleuchtet; achten Sie beim Parken auf gefrorene Pfützen.",
+                "hu": "Sötétedéskor a kápolna gyakran szépen meg van világítva; parkoláskor ügyelj a befagyott tócsákra az út szélén.",
+                "ro": "La lăsarea întunericului, capela este adesea frumos iluminată; atenție la bălțile înghețate când parcați.",
+                "en": "At dusk, the chapel is often beautifully illuminated; watch out for frozen puddles when parking nearby."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Saint-Étienne",
+                "hu": "Saint-Étienne templom",
+                "ro": "Biserica Saint-Étienne",
+                "en": "Église Saint-Étienne"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag vor der Kälte geschützt in der Kirche; stellen Sie sicher, dass Ihre Autobatterie winterfest ist.",
+                "hu": "Zárd a napot a hidegtől védetten a templomban; győződj meg róla, hogy az autód akkumulátora bírja a téli hideget.",
+                "ro": "Încheiați ziua protejați de frig în biserică; asigurați-vă că bateria mașinii este pregătită pentru iarnă.",
+                "en": "End your day protected from the cold inside the church; ensure your car battery is in good winter condition."
+              }
+            }
+          ]
+        }
       }
     }
   }

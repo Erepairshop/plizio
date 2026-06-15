@@ -137,6 +137,168 @@
         "hu": "A reggel a felsőváros történelmi csodáival, ősi templomok és nevezetességek felfedezésével indul. Délben merüljön el a középkori romok és régészeti kincsek világában. A délután izgalmas madárshow-t kínál egy ősi erődítmény lenyűgöző díszletei között. Zárja ezt az élénk chauvigny-i napot egy kellemes esti sétával a macskaköves hangulatos utcákon.",
         "ro": "Dimineața începe cu minuni istorice în orașul de sus, explorând biserici vechi și repere civice. La prânz, scufundați-vă în ruine medievale și comori arheologice. După-amiaza oferă un spectacol palpitant cu păsări printre zidurile fortărețelor ancestrale. Încheiați ziua în vibrantul Chauvigny cu o plimbare relaxantă de seară pe străduțele pietruite.",
         "en": "Morning begins with historic marvels in the upper town, exploring ancient churches and civic landmarks. By midday, immerse yourself in medieval ruins and archaeological treasures. The afternoon offers a thrilling bird show set against the spectacular backdrop of ancient fortress walls. Conclude your vibrant Chauvigny day with a leisurely evening stroll through the cobbled streets."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt am Rathaus und der Kirche, wo Sie dem Regen entfliehen können. Mittags geht es ins trockene Museum. Nachmittags erkunden Sie das Schloss, bringen Sie einen Regenschirm mit. Der Abend beendet den nassen, aber stimmungsvollen Spaziergang.",
+            "hu": "A reggel a Városházánál és a templomnál indul, ahol menedéket talál az eső elől. Délben a beltéri múzeum nyújt száraz programot. Délután fedezze fel a kastélyt, de hozzon esernyőt. Az este zárja a nedves, de hangulatos sétát.",
+            "ro": "Dimineața începe la Primărie și Biserică, unde puteți scăpa de ploaie. La prânz vizitați muzeul interior. După-amiaza explorați castelul, luați o umbrelă. Seara încheie plimbarea umedă, dar plină de atmosferă.",
+            "en": "Morning starts at the Town Hall and Church, where you can escape the rain. Midday brings you to the indoor museum. Afternoon explores the castle grounds, bring an umbrella. Evening concludes the wet but atmospheric walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Architektur unter einem Regenschirm; Vorsicht auf dem nassen Kopfsteinpflaster.",
+                "hu": "Csodálja meg az építészetet egy esernyő alól; vigyázzon a csúszós macskaköveken.",
+                "ro": "Admirați arhitectura de sub umbrelă; aveți grijă la pietrele cubice alunecoase.",
+                "en": "Admire the architecture from under an umbrella; be careful on the wet cobblestones."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter trockener Zufluchtsort; bewundern Sie die bemalten Säulen und entkommen Sie dem Regenguss.",
+                "hu": "Tökéletes száraz menedék; csodálja meg a festett oszlopokat, miközben elmenekül a zápor elől.",
+                "ro": "Un sanctuar uscat perfect; admirați coloanele pictate în timp ce scăpați de aversă.",
+                "en": "A perfect dry sanctuary; marvel at the painted columns while escaping the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Volkstraditionen und Archäologie",
+                "hu": "Néphagyományok és Régészeti Múzeum",
+                "ro": "Muzeul Tradițiilor Populare și Arheologiei",
+                "en": "Museum of Popular Traditions and Archaeology"
+              },
+              "tip_5lang": {
+                "de": "Verbringen Sie mehr Zeit in den Innenausstellungen, um warm und völlig trocken zu bleiben.",
+                "hu": "Töltsön több időt a beltéri kiállításokon, hogy melegen és teljesen szárazon maradjon.",
+                "ro": "Petreceți mai mult timp explorând expozițiile interioare pentru a rămâne cald și uscat.",
+                "en": "Spend extra time exploring the indoor exhibits to stay warm and completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Harcourt",
+                "hu": "Harcourt-kastély",
+                "ro": "Castelul Harcourt",
+                "en": "Harcourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Ruinen sind bei Regen stimmungsvoll, aber tragen Sie wasserfeste Schuhe für die matschigen Pfade.",
+                "hu": "A romok hangulatosak esőben, de viseljen vízálló cipőt a saras ösvények miatt.",
+                "ro": "Ruinele sunt atmosferice în ploaie, dar purtați încălțăminte impermeabilă pe cărările noroioase.",
+                "en": "The ruins are atmospheric in the rain, but wear sturdy, waterproof shoes for muddy paths."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Riesen des Himmels",
+                "hu": "Az Ég Óriásai",
+                "ro": "Uriașii Cerului",
+                "en": "The Giants of the Sky"
+              },
+              "tip_5lang": {
+                "de": "Die Vogelshow geht bei leichtem Regen weiter; bringen Sie eine Regenjacke statt Schirm mit.",
+                "hu": "A madárshow gyenge esőben is folytatódik; hozzon esőkabátot, mert az esernyő zavarja a kilátást.",
+                "ro": "Spectacolul continuă pe ploaie ușoară; aduceți o pelerină, umbrelele blochează vederea.",
+                "en": "The bird show continues in light rain; bring a good raincoat as umbrellas block views."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frische Wintermorgen beginnt an der Kirche. Mittags bietet das Museum einen warmen Rückzugsort. Nachmittags sehen die Schlossruinen wunderschön aus. Der Abend bricht gegen 17:00 Uhr früh herein, ziehen Sie sich warm an.",
+            "hu": "A friss téli reggel a központban és a templomnál indul. Délben a múzeum nyújt meleg menedéket. Délután a kastélyromok lenyűgözőek. Az este korán, 17:00 körül köszönt be, öltözzön melegen.",
+            "ro": "Plimbarea de iarnă începe la centru și biserică. Prânzul oferă un refugiu cald la muzeu. După-amiaza, ruinele castelului sunt superbe. Seara se lasă devreme, pe la 17:00, îmbrăcați-vă gros.",
+            "en": "Brisk winter morning walk starts at the civic center and church. Midday offers a warm retreat in the museum. Afternoon castle ruins look stark and beautiful. Evening sets in early around 17:00, wrap up warm."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die klare Winterluft; die Steinfassade sieht im tiefen Sonnenlicht toll aus.",
+                "hu": "Élvezze a csípős téli levegőt; a kőhomlokzat lenyűgöző az alacsony napfényben.",
+                "ro": "Bucurați-vă de aerul proaspăt de iarnă; fațada de piatră arată uimitor în lumina joasă.",
+                "en": "Enjoy the crisp winter morning air; the stone facade looks stunning in low sunlight."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie ein, um sich aufzuwärmen und die romanischen Kapitelle in Ruhe zu bewundern.",
+                "hu": "Lépjen be melegedni, és csodálja meg a történelmi román oszlopfőket csendes nyugalomban.",
+                "ro": "Intrați să vă încălziți și să admirați capitelurile romanice istorice în liniște.",
+                "en": "Step inside to warm up and admire the historic Romanesque capitals in quiet peace."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Volkstraditionen und Archäologie",
+                "hu": "Néphagyományok és Régészeti Múzeum",
+                "ro": "Muzeul Tradițiilor Populare și Arheologiei",
+                "en": "Museum of Popular Traditions and Archaeology"
+              },
+              "tip_5lang": {
+                "de": "Ein toller Ort, um die Finger aufzutauen, während Sie die Geschichte im Warmen entdecken.",
+                "hu": "Remek hely az ujjai felmelegítésére, miközben fűtött termekben ismeri meg a történelmet.",
+                "ro": "Un loc excelent pentru a vă dezgheța mâinile în galeriile încălzite ale muzeului.",
+                "en": "A great place to thaw your fingers while discovering local history in heated galleries."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Harcourt",
+                "hu": "Harcourt-kastély",
+                "ro": "Castelul Harcourt",
+                "en": "Harcourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie dicke Schichten; die Schlossruinen sind sehr den kalten Winterwinden ausgesetzt.",
+                "hu": "Öltözzön rétegesen; a kastélyromok nagyon ki vannak téve a fagyos téli szeleknek.",
+                "ro": "Îmbrăcați-vă gros; ruinele castelului sunt foarte expuse la vânturile reci de iarnă.",
+                "en": "Dress in thick layers; the castle ruins are highly exposed to chilly winter winds."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Riesen des Himmels",
+                "hu": "Az Ég Óriásai",
+                "ro": "Uriașii Cerului",
+                "en": "The Giants of the Sky"
+              },
+              "tip_5lang": {
+                "de": "Die Raubvögel sind auch bei Kälte aktiv; packen Sie sich für die Sitzplätze im Freien warm ein.",
+                "hu": "A ragadozó madarak a hidegben is aktívak; öltözzön fel jól a szabadtéri lelátókhoz.",
+                "ro": "Păsările de pradă sunt active în frig; îmbrăcați-vă bine pentru locurile în aer liber.",
+                "en": "The birds of prey are active in the cold; bundle up tightly for the outdoor seating."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Kezdje a napot sportosan a festői hajtánypályán pedálozva. Délben tekerjen be a történelmi központba, ahol román stílusú templomok és lenyűgöző várromok várják, hogy felfedezze őket. Merüljön el a régió régészeti örökségében, mielőtt a napot egy frissítő úszással zárná a helyi uszodában.",
         "ro": "Începeți activ pe șinele pitoreștii drezine. La prânz, pedalați spre centrul istoric unde biserici romanice și ruine fascinante de castel vă așteaptă explorarea. Aprofundați moștenirea arheologică a regiunii, înainte de a încheia ziua cu o baie revigorantă la piscina primitoare a orașului.",
         "en": "Start actively by pedaling along the tracks of the picturesque rail-bike. By midday, cycle into the historic center where Romanesque churches and fascinating castle ruins await your exploration. Delve into the region's archaeological heritage before concluding the day with a refreshing swim at the local pool."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die morgendliche Draisine erfordert Regenkleidung. Mittags bieten Rathaus und Kirche trockene Pausen. Nachmittags balancieren Sie nasse Straßen und warme Innenräume. Der Abend endet im Hallenbad.",
+            "hu": "A reggeli hajtányozáshoz vízálló ruha kell. Délben a városháza és a templom nyújt száraz pihenőt. Délután a kastély és a múzeum egyensúlyozza a vizes utat. Az este a fedett uszodában ér véget.",
+            "ro": "Drezina de dimineață necesită haine de ploaie. La prânz, primăria și biserica oferă un scurt refugiu. După-amiaza combină drumurile ude cu căldura interioară. Seara se termină la piscina interioară.",
+            "en": "Morning rail-bike requires waterproof gear. Midday stops at the town hall and church offer dry respite. Afternoon castle and museum balance wet roads and indoor warmth. Evening ends at the indoor pool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chauvigny Draisinenbahn",
+                "hu": "Chauvigny Hajtány",
+                "ro": "Drezina Chauvigny",
+                "en": "Chauvigny Rail-bike"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Regenkleidung; die Schienen sind rutschig, fahren Sie vorsichtig durch die nasse Landschaft.",
+                "hu": "Viseljen esőruhát; a sínek csúszósak lehetnek, óvatosan tekerjen a vizes tájon.",
+                "ro": "Purtați echipament de ploaie; șinele sunt alunecoase, pedalați cu atenție prin peisajul umed.",
+                "en": "Wear full rain gear; tracks can be slippery, pedal carefully through the wet landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie das Rad ab, schütteln Sie den Regen ab und bewundern Sie das zentrale Gebäude.",
+                "hu": "Parkolja le a biciklit és rázza le az esőt, miközben megcsodálja a központi épületet.",
+                "ro": "Parcați bicicleta și scuturați-vă de ploaie admirând această clădire centrală.",
+                "en": "Park your bike and shake off the rain while admiring this central municipal building."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Trocknen Sie sich in dieser prächtigen Kirche ab und bewundern Sie die feinen Steinarbeiten.",
+                "hu": "Száradjon meg e csodálatos templom belsejében, és csodálja meg a finom kőfaragásokat.",
+                "ro": "Uscați-vă în interiorul acestei biserici magnifice și admirați sculpturile complicate.",
+                "en": "Dry off inside this magnificent church and take time to admire the intricate stonework."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Harcourt",
+                "hu": "Harcourt-kastély",
+                "ro": "Castelul Harcourt",
+                "en": "Harcourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Die Pfade um die Ruinen werden schlammig; passen Sie auf und lassen Sie die Jacke zu.",
+                "hu": "A romok körüli utak sarasak lesznek; figyeljen a lépteire és tartsa bekapcsolva a kabátot.",
+                "ro": "Cărările din jurul ruinelor devin noroioase; fiți atenți și țineți jacheta închisă.",
+                "en": "Paths around the ruins get muddy; watch your step and keep your rain jacket zipped."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Volkstraditionen und Archäologie",
+                "hu": "Néphagyományok és Régészeti Múzeum",
+                "ro": "Muzeul Tradițiilor Populare și Arheologiei",
+                "en": "Museum of Popular Traditions and Archaeology"
+              },
+              "tip_5lang": {
+                "de": "Ein idealer Stopp im Inneren, um Ihre Kleidung komplett zu trocknen, während Sie alles erkunden.",
+                "hu": "Ideális beltéri megálló a ruhák teljes megszárításához, érdekes kiállításokkal.",
+                "ro": "O oprire interioară ideală pentru a vă usca hainele în timp ce explorați expozițiile.",
+                "en": "An ideal indoor stop to completely dry your clothes while exploring fascinating exhibits."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad",
+                "hu": "Uszoda",
+                "ro": "Piscina",
+                "en": "Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Ein perfekter, warmer Abschluss für einen nassen Radtag; genießen Sie das beheizte Wasser.",
+                "hu": "Tökéletes, meleg beltéri befejezés egy esős kerékpáros naphoz; élvezze a fűtött vizet.",
+                "ro": "Un final interior cald și perfect pentru o zi ploioasă de ciclism; bucurați-vă de apă.",
+                "en": "A perfect, warm indoor finish to a rainy cycling day; enjoy the heated water."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Der frostige Morgen beginnt auf der Draisine, treten Sie kräftig. Mittags erfordern Kirche und Schloss warme Schichten. Nachmittags wärmt das Museum. Das abendliche Schwimmen ist gemütlich nach 17:00 Uhr.",
+            "hu": "A fagyos reggel a hajtányon indul, tekerjen a melegedésért. Délben a templom és kastély jó rétegeket igényel. Délután a múzeum fűtött pihenőt ad. Az esti úszás hangulatos a 17:00 órai sötétedés után.",
+            "ro": "Dimineața geroasă începe pe drezină, pedalați ca să vă încălziți. Vizitele de prânz la biserică necesită haine groase. Muzeul oferă o pauză caldă. Înotul de seară e perfect după apusul de la 17:00.",
+            "en": "Frosty morning starts on the rail-bike, pedal to stay warm. Midday visits to the church and castle require good layers. Afternoon museum provides a heated break. Evening swim is cozy as it gets dark by 17:00."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chauvigny Draisinenbahn",
+                "hu": "Chauvigny Hajtány",
+                "ro": "Drezina Chauvigny",
+                "en": "Chauvigny Rail-bike"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Handschuhe und Windbreaker; das Treten hält Sie in der frischen Winterluft warm.",
+                "hu": "Viseljen kesztyűt és széldzsekit; a tekerés melegen tartja a csípős téli levegőben.",
+                "ro": "Purtați mănuși și foiță de vânt; pedalatul vă va încălzi în aerul rece de iarnă.",
+                "en": "Wear gloves and a windbreaker; pedaling will keep you warm in the brisk winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Rathaus",
+                "hu": "Városháza",
+                "ro": "Primăria",
+                "en": "Town Hall"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer Stopp zum Beine vertreten; das historische Gebäude sieht im Frost toll aus.",
+                "hu": "Gyors megálló a lábak kinyújtására; a történelmi épület gyönyörű a dérben.",
+                "ro": "O scurtă oprire pentru a vă dezmorți picioarele; clădirea arată superb în îngheț.",
+                "en": "A quick stop to stretch your legs; the historic building looks beautiful in the frost."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Machen Sie eine Pause vom kalten Wind in diesem ruhigen, historischen Heiligtum.",
+                "hu": "Pihenjen meg a hideg szél elől ebben a csendes, mélyen történelmi szentélyben.",
+                "ro": "Luați o pauză de la vântul rece în interiorul acestui sanctuar istoric liniștit.",
+                "en": "Take a break from the cold wind inside this quiet, deeply historical sanctuary."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Harcourt",
+                "hu": "Harcourt-kastély",
+                "ro": "Castelul Harcourt",
+                "en": "Harcourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Die erhöhten Ruinen fangen den kalten Wind ein, behalten Sie die Mütze auf.",
+                "hu": "A magasan fekvő romok fogják a hideg szelet, tartsa magán a sapkát a kilátáshoz.",
+                "ro": "Ruinele înalte prind vântul rece, așa că țineți căciula pe cap pentru priveliște.",
+                "en": "The elevated ruins catch the cold wind, so keep your hat on while enjoying views."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Volkstraditionen und Archäologie",
+                "hu": "Néphagyományok és Régészeti Múzeum",
+                "ro": "Muzeul Tradițiilor Populare și Arheologiei",
+                "en": "Museum of Popular Traditions and Archaeology"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie Ihre gefrorenen Hände drinnen auf, während Sie über das reiche Erbe lernen.",
+                "hu": "Melegítse fel fagyos kezeit bent, miközben megismeri a régió gazdag örökségét.",
+                "ro": "Încălziți-vă mâinile înghețate înăuntru, învățând despre moștenirea bogată a regiunii.",
+                "en": "Warm up your frozen hands inside while learning about the region's rich heritage."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad",
+                "hu": "Uszoda",
+                "ro": "Piscina",
+                "en": "Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Der beste Weg, einen eisigen Tag zu beenden; entspannen Sie im heißen Wasser nach Sonnenuntergang.",
+                "hu": "A legjobb módja egy fagyos nap befejezésének; lazítson a forró vízben naplemente után.",
+                "ro": "Cel mai bun mod de a încheia o zi geroasă; relaxați-vă în apa fierbinte după apus.",
+                "en": "The best way to end a freezing day; relax in the hot water after the sun sets."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kezdjen nyugodtan az ősi templomoknál, mielőtt kocsival az akciódús hajtánypályára hajtana. Délben a varázslatos felsővárosban merülhet el a római és középkori történelemben. A délután fenséges madarakat és régészeti csodákat ígér, majd a napot egy kellemes csobbanással zárhatja a családbarát uszodában.",
         "ro": "Începeți liniștit la biserici ancestrale, apoi conduceți spre plina de acțiune drezină pe șine. La prânz, aprofundați istoria romanică și medievală în fermecătorul oraș de sus. După-amiaza promite păsări maiestuoase și minuni arheologice, urmate de o seară relaxantă la primitoarea piscină pentru familii.",
         "en": "Start peacefully at ancient churches before driving to the action-packed rail-bike tracks. At midday, dive into Romanesque and medieval history in the charming upper town. The afternoon promises majestic birds and archaeological wonders, followed by a relaxing end to the day at the welcoming family pool."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgendliche Fahrt zur Kirche und Draisine; Scheibenwischer an! Mittags bieten Notre-Dame und Schloss Schutz. Nachmittags warten Vogelshow und Museum. Der Abend endet gemütlich im Hallenbad.",
+            "hu": "Reggeli autózás a templomhoz és hajtányhoz; ablaktörlők bekapcsolva! Délben a Notre-Dame ad menedéket. Délután a madárshow és a beltéri múzeum következik. Az este az uszodában ér véget.",
+            "ro": "Condus de dimineață spre biserică și drezină. La prânz, Notre-Dame și castelul oferă adăpost. După-amiaza aduce spectacolul de păsări și muzeul interior. Seara se termină la piscina acoperită.",
+            "en": "Morning drive to the old church and rail-bike; wipers on! Midday offers shelter in Notre-Dame and the castle. Afternoon features the open bird show and indoor museum. Evening ends comfortably at the indoor pool."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre-les-Églises",
+                "hu": "Saint-Pierre-les-Églises templom",
+                "ro": "Biserica Saint-Pierre-les-Églises",
+                "en": "Saint-Pierre-les-Églises Church"
+              },
+              "tip_5lang": {
+                "de": "Sprinten Sie vom Auto zur Kirche, um die antiken Fresken im Trockenen zu bewundern.",
+                "hu": "Szaladjon az autótól a templomig, hogy szárazon láthassa az ősi freskókat.",
+                "ro": "Fugiți de la mașină la biserică pentru a vedea frescele antice stând complet uscat.",
+                "en": "Dash from the car to the church to see ancient frescoes while staying completely dry."
+              }
+            },
+            {
+              "name": {
+                "de": "Chauvigny Draisinenbahn",
+                "hu": "Chauvigny Hajtány",
+                "ro": "Drezina Chauvigny",
+                "en": "Chauvigny Rail-bike"
+              },
+              "tip_5lang": {
+                "de": "Fährt auch bei leichtem Regen, tragen Sie einen Poncho und genießen Sie die neblige Natur sicher.",
+                "hu": "Gyenge esőben is üzemel, viseljen poncsót és élvezze a ködös vidéket biztonságosan.",
+                "ro": "Funcționează pe ploaie ușoară, purtați un poncho și bucurați-vă de peisajul cețos.",
+                "en": "It operates in light rain, so wear a poncho and enjoy the misty countryside safely."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie in der Nähe und entfliehen Sie den Schauern zwischen den alten Steinsäulen.",
+                "hu": "Parkoljon a közelben, és lépjen be a záporok elől az ősi kőoszlopok közé.",
+                "ro": "Parcați aproape și intrați pentru a scăpa de ploi printre stâlpii antici de piatră.",
+                "en": "Park nearby and step inside to escape the showers among ancient stone pillars."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Harcourt",
+                "hu": "Harcourt-kastély",
+                "ro": "Castelul Harcourt",
+                "en": "Harcourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen Schirm mit; die nassen Steine vom Auto aus sind sehr fotogen.",
+                "hu": "Hozzon esernyőt az autótól való rövid sétához; a vizes kövek nagyon fotogének.",
+                "ro": "Aduceți o umbrelă pentru scurta plimbare de la mașină; pietrele ude sunt fotogenice.",
+                "en": "Bring an umbrella for the short walk from the car; wet stones are very photogenic."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Riesen des Himmels",
+                "hu": "Az Ég Óriásai",
+                "ro": "Uriașii Cerului",
+                "en": "The Giants of the Sky"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie eine Regenjacke; die Freiluft-Vogelshow findet bei fast jedem Wetter statt.",
+                "hu": "Viseljen vízálló kabátot; a szabadtéri madárshow erős vihar kivételével folytatódik.",
+                "ro": "Purtați o jachetă impermeabilă; spectacolul continuă dacă nu e furtună puternică.",
+                "en": "Wear a waterproof jacket; the open-air bird show goes on unless there's a heavy storm."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Volkstraditionen und Archäologie",
+                "hu": "Néphagyományok és Régészeti Múzeum",
+                "ro": "Muzeul Tradițiilor Populare și Arheologiei",
+                "en": "Museum of Popular Traditions and Archaeology"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie einen langen, trockenen und informativen Stopp abseits des starken Regens.",
+                "hu": "Élvezze a hosszú, száraz és informatív megállót, távol a kinti heves esőzéstől.",
+                "ro": "Bucurați-vă de o oprire lungă, uscată și informativă, departe de ploaia de afară.",
+                "en": "Enjoy a long, dry, and informative stop exploring local archaeology away from the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad",
+                "hu": "Uszoda",
+                "ro": "Piscina",
+                "en": "Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Vergessen Sie das miserable Wetter draußen und entspannen Sie im warmen Hallenbad.",
+                "hu": "Felejtse el a kinti zord időjárást, és lazítson a meleg, fedett vízi központban.",
+                "ro": "Uitați de vremea urâtă de afară și relaxați-vă în centrul acvatic interior cald.",
+                "en": "Forget the miserable weather outside and relax in the warm, indoor aquatic center."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Starten Sie früh mit Kirche und Draisine. Mittags sind Kirche und Schloss kühl, aber leer. Das Museum wärmt Sie nachmittags auf. Das abendliche Schwimmen ist ideal nach dem frühen Sonnenuntergang.",
+            "hu": "Kezdjen korán a templommal és hajtánnyal. Délben a kastély csípős, de tömegmentes. Délután a múzeum felmelegíti sötétedés előtt. Az esti úszás ideális a 17:00 órai naplemente után.",
+            "ro": "Începeți devreme cu biserica și drezina. Vizitele de prânz la castel sunt reci, dar fără aglomerație. Muzeul vă încălzește înainte de întuneric. Înotul de seară e ideal după apusul de la 17:00.",
+            "en": "Start early with the historic church and rail-bike. Midday church and castle visits are chilly but crowd-free. Afternoon museum warms you up before dark. Evening indoor swim is ideal after the 17:00 sunset."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Kirche Saint-Pierre-les-Églises",
+                "hu": "Saint-Pierre-les-Églises templom",
+                "ro": "Biserica Saint-Pierre-les-Églises",
+                "en": "Saint-Pierre-les-Églises Church"
+              },
+              "tip_5lang": {
+                "de": "Die Autoheizung ist toll, aber packen Sie sich für den kurzen Fußweg zu den Fresken warm ein.",
+                "hu": "Az autófűtés remek, de öltözzön fel jól a rövid sétához a freskók megtekintéséhez.",
+                "ro": "Încălzirea mașinii e grozavă, dar îmbrăcați-vă gros pentru scurta plimbare spre fresce.",
+                "en": "The car heater is great, but bundle up for the short walk to see the famous frescoes."
+              }
+            },
+            {
+              "name": {
+                "de": "Chauvigny Draisinenbahn",
+                "hu": "Chauvigny Hajtány",
+                "ro": "Drezina Chauvigny",
+                "en": "Chauvigny Rail-bike"
+              },
+              "tip_5lang": {
+                "de": "Packen Sie sich mit Schal und Handschuhen warm ein; die Winterlandschaft ist glasklar.",
+                "hu": "Öltözzön melegen sállal és kesztyűvel; a téli táj a pálya mentén kristálytiszta.",
+                "ro": "Îmbrăcați-vă cald cu eșarfe și mănuși; peisajul de iarnă de-a lungul șinei este clar.",
+                "en": "Wrap up warmly with scarves and gloves; the winter scenery along the track is crisp."
+              }
+            },
+            {
+              "name": {
+                "de": "Kirche Notre-Dame",
+                "hu": "Notre-Dame templom",
+                "ro": "Biserica Notre-Dame",
+                "en": "Notre-Dame Church"
+              },
+              "tip_5lang": {
+                "de": "Treten Sie aus der Kälte in diese ruhige Kirche, um die bemalten Säulen zu bewundern.",
+                "hu": "Lépjen be a hidegből ebbe a békés templomba, hogy megcsodálja a festett oszlopokat.",
+                "ro": "Ieșiți din frig în această biserică senină pentru a admira coloanele faimoase pictate.",
+                "en": "Step out of the cold into this serene church to admire the famous painted columns."
+              }
+            },
+            {
+              "name": {
+                "de": "Schloss Harcourt",
+                "hu": "Harcourt-kastély",
+                "ro": "Castelul Harcourt",
+                "en": "Harcourt Castle"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie sich auf eisige Winde ein, die durch die exponierten Ruinen der Oberstadt fegen.",
+                "hu": "Készüljön fel a felsőváros nyitott romjain átsöprő jeges szelekre és öltözzön vastagon.",
+                "ro": "Fiți pregătiți pentru vânturile înghețate care străbat ruinele expuse ale orașului de sus.",
+                "en": "Be prepared for icy winds sweeping through the exposed ruins of the upper town."
+              }
+            },
+            {
+              "name": {
+                "de": "Die Riesen des Himmels",
+                "hu": "Az Ég Óriásai",
+                "ro": "Uriașii Cerului",
+                "en": "The Giants of the Sky"
+              },
+              "tip_5lang": {
+                "de": "Tragen Sie Thermokleidung für das Freiluft-Amphitheater; die Wintervögel sind spektakulär.",
+                "hu": "Viseljen termo rétegeket a szabadtéri amfiteátrumhoz; a téli madarak látványosak.",
+                "ro": "Purtați haine termice pentru amfiteatrul în aer liber; păsările de iarnă sunt spectaculoase.",
+                "en": "Dress in thermal layers for the outdoor amphitheater; the winter birds are spectacular."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum für Volkstraditionen und Archäologie",
+                "hu": "Néphagyományok és Régészeti Múzeum",
+                "ro": "Muzeul Tradițiilor Populare și Arheologiei",
+                "en": "Museum of Popular Traditions and Archaeology"
+              },
+              "tip_5lang": {
+                "de": "Ein gemütlicher Rückzugsort, um die Füße aufzutauen und die lokale Folklore zu erkunden.",
+                "hu": "Hangulatos menedék a lábak felengedésére, miközben elmélyed a helyi folklórban.",
+                "ro": "Un refugiu confortabil pentru a vă dezgheța picioarele explorând folclorul local.",
+                "en": "A cozy retreat to thaw out your feet while delving into the rich local folklore."
+              }
+            },
+            {
+              "name": {
+                "de": "Schwimmbad",
+                "hu": "Uszoda",
+                "ro": "Piscina",
+                "en": "Swimming Pool"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag im beheizten Pool, perfekt abgestimmt auf den frühen Sonnenuntergang.",
+                "hu": "Zárja a napot a fűtött beltéri medencében, tökéletesen időzítve a korai naplementéhez.",
+                "ro": "Încheiați ziua în piscina încălzită, perfect sincronizată cu apusul devreme de iarnă.",
+                "en": "End the day in the heated indoor pool, perfectly timed for the early winter sunset."
+              }
+            }
+          ]
+        }
       }
     }
   }

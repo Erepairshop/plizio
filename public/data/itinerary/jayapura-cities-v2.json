@@ -137,6 +137,168 @@
         "hu": "A reggel egy spirituális sétával indul Hamadi városrészben, jelentős mecsetek érintésével. Délben a part menti második világháborús emlékek repítenek vissza az időben. Délután a Pantai Hamadi meleg homokján pihenve figyelheti meg a helyiek nyüzsgését. Az estét a békés óceáni szellő és Jayapura gazdag történelmének atmoszférája zárja.",
         "ro": "Dimineața începe cu o plimbare spirituală prin Hamadi, vizitând moscheile proeminente. La prânz veți trece pe lângă rămășițe istorice ale Războiului din Pacific, chiar pe coastă. După-amiaza vă veți relaxa pe nisipurile calde ale Pantai Hamadi, urmărind viața locală. Seara se încheie cu briza oceanului și un sentiment al bogatei istorii a Jayapurei.",
         "en": "Morning begins with a spiritual walk through Hamadi, visiting the prominent mosques. Midday takes you past historical remnants of the Pacific War right by the coast. In the afternoon, you will relax on the warm sands of Pantai Hamadi, watching local life unfold. Evening concludes with peaceful ocean breezes and a sense of Jayapura's rich history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Der Morgen beginnt unter den schützenden Dächern der Moscheen von Hamadi. Mittags suchen wir Zuflucht in den lokalen Märkten, während der tropische Regen auf die Wellblechdächer trommelt. Am Nachmittag bietet der Strand überdachte Hütten, um das graue Meer zu beobachten. Der Abend endet feucht und warm, wobei die beleuchteten Straßen im Regen glänzen und eine mystische Atmosphäre schaffen.",
+            "hu": "A reggelt a Hamadi mecsetek védelmező tetői alatt kezdjük, elkerülve az első záporokat. Délben a helyi piacok fedett árusai között találunk menedéket a trópusi eső elől. Délután a tengerparti kis házikók nyújtanak biztonságot, ahonnan figyelhetjük a morajló hullámokat. Az este párás és esős, a város fényei megcsillannak a vizes aszfalton, különleges hangulatot árasztva a séta végére.",
+            "ro": "Dimineața începe sub acoperișurile protectoare ale moscheilor din Hamadi. La prânz, căutăm refugiu în piețele locale în timp ce ploaia tropicală bate în acoperișurile de tablă. După-amiaza, plaja oferă colibe acoperite pentru a observa marea cenușie în siguranță. Seara se încheie umedă și caldă, străzile luminate strălucind în ploaie și creând o atmosferă mistică și relaxantă.",
+            "en": "The morning starts under the protective roofs of the Hamadi mosques. At noon, we seek refuge in the local markets as tropical rain drums on the corrugated iron roofs. In the afternoon, the beach offers covered huts to observe the grey sea safely. The evening ends humid and rainy, with illuminated streets glistening in the wet, creating a mystical atmosphere for our final walk."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjis Taqwa Hamadi",
+                "hu": "Masjis Taqwa Hamadi",
+                "ro": "Masjis Taqwa Hamadi",
+                "en": "Masjis Taqwa Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kunstvollen Ornamente im trockenen Innenraum, während draußen der Regen fällt; achten Sie auf die nassen Fliesen im Eingangsbereich, da diese extrem rutschig sind.",
+                "hu": "Csodálja meg a belső díszítést a száraz belső térben, miközben kint esik; legyen nagyon óvatos a bejáratnál, mert a vizes csempe rendkívül csúszós és balesetveszélyes lehet ilyenkor.",
+                "ro": "Admirați ornamentele artistice din interiorul uscat în timp ce afară plouă; aveți mare grijă la plăcile de gresie umede de la intrare, deoarece pot fi extrem de alunecoase și periculoase.",
+                "en": "Admire the artistic ornaments in the dry interior while it rains outside; be very careful with the wet tiles at the entrance, as they can be extremely slippery and dangerous today."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Hamidi",
+                "hu": "Masjid Al-Hamidi",
+                "ro": "Masjid Al-Hamidi",
+                "en": "Masjid Al-Hamidi"
+              },
+              "tip_5lang": {
+                "de": "Das große Vordach bietet einen hervorragenden Schutz vor dem plötzlichen Platzregen; nutzen Sie die Zeit für Fotos der Architektur, ohne dass Ihre Ausrüstung nass wird oder Schaden nimmt.",
+                "hu": "A hatalmas előtető kiváló védelmet nyújt a hirtelen zivatar elől; használja ki az időt az építészet fotózására anélkül, hogy a felszerelése elázna vagy bármilyen módon megsérülne.",
+                "ro": "Copertina mare oferă un adăpost excelent împotriva aversei bruște; profitați de timp pentru a fotografia arhitectura fără ca echipamentul dumneavoastră să se ude sau să se deterioreze.",
+                "en": "The large canopy offers excellent shelter from the sudden downpour; use the time to photograph the architecture without your equipment getting wet or being damaged in any way at all."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosque As Syuhada",
+                "hu": "Mosque As Syuhada",
+                "ro": "Mosque As Syuhada",
+                "en": "Mosque As Syuhada"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die friedliche Stille und das Trommeln des Regens auf der Kuppel; ein perfekter Ort, um die Wanderkarte zu prüfen und die nächste Etappe im Trockenen genau zu planen.",
+                "hu": "Élvezze a békés csendet és az eső dobolását a kupolán; tökéletes hely a térkép ellenőrzésére és a következő szakasz szárazon történő megtervezésére, mielőtt újra útnak indulna a városban.",
+                "ro": "Bucurați-vă de liniștea deplină și de sunetul ploii pe cupolă; este locul perfect pentru a verifica harta și pentru a planifica următoarea etapă la adăpost, înainte de a pleca din nou.",
+                "en": "Enjoy the peaceful silence and the drumming of the rain on the dome; it is a perfect spot to check the map and plan the next stage in the dry before setting off into the city again."
+              }
+            },
+            {
+              "name": {
+                "de": "3 WWII rusty tanks",
+                "hu": "3 rozsdás második világháborús tank",
+                "ro": "3 tancuri ruginite Al Doilea Război Mondial",
+                "en": "3 WWII rusty tanks"
+              },
+              "tip_5lang": {
+                "de": "Besichtigen Sie die Panzer schnell zwischen den Regenschauern; das Metall ist bei Nässe sehr rutschig und der Boden kann schlammig sein, tragen Sie daher unbedingt festes Schuhwerk.",
+                "hu": "Nézze meg a tankokat gyorsan két zápor között; a fém vizesen nagyon csúszik, a talaj pedig sáros lehet, ezért mindenképpen viseljen stabil, vízálló lábbelit a látogatás során.",
+                "ro": "Vizitați tancurile rapid între aversele de ploaie; metalul este foarte alunecos când este ud, iar solul poate fi noroios, așa că purtați neapărat încălțăminte stabilă și rezistentă.",
+                "en": "Visit the tanks quickly between rain showers; the metal is very slippery when wet and the ground can be muddy, so be sure to wear stable, waterproof footwear during your short visit."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Hamadi",
+                "hu": "Pantai Hamadi",
+                "ro": "Pantai Hamadi",
+                "en": "Pantai Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Mieten Sie eine kleine Strandhütte (Honai), um das aufgewühlte Meer trocken zu genießen; die salzige Brise ist bei Regen besonders intensiv und erfrischend für die Sinne nach dem Lauf.",
+                "hu": "Béreljen egy kis tengerparti házikót, hogy szárazon élvezhesse a háborgó tengert; a sós szellő esőben különösen intenzív és frissítő, ami remek zárása lehet a vizes városi sétának.",
+                "ro": "Închiriați o mică colibă pe plajă pentru a vă bucura de marea agitată în timp ce stați la uscat; briza sărată este deosebit de intensă și revigorantă atunci când plouă afară pe coastă.",
+                "en": "Rent a small beach hut to enjoy the turbulent sea while staying dry; the salty breeze is especially intense and refreshing during the rain, providing a great end to your wet city walk."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle Morgenluft macht den Aufstieg zu den Sehenswürdigkeiten angenehm. Mittags wärmt die milde Sonne, während wir die Architektur der Moscheen bewundern. Am Nachmittag sinken die Temperaturen spürbar, und wir müssen uns beeilen, da die Sonne bereits um 17:00 Uhr untergeht. Der Abend wird schnell kühl, was perfekt ist, um den Tag in einem warmen lokalen Café gemütlich ausklingen zu lassen.",
+            "hu": "A hűvös reggeli levegő kellemessé teszi a kaptatókat a városi látnivalókhoz. Délben a szelíd napsütés melegíti fel a sétát, miközben a mecsetek építészetében gyönyörködünk. Délután a hőmérséklet érezhetően csökkenni kezd, és sietnünk kell, mert a nap már 17:00-kor nyugovóra tér. Az este gyorsan lehűl, ami tökéletes alkalmat ad arra, hogy egy meleg helyi kávézóban fejezzük be a napot.",
+            "ro": "Aerul răcoros al dimineții face urcușul către obiectivele turistice foarte plăcut. La prânz, soarele blând încălzește plimbarea în timp ce admirăm arhitectura moscheilor. După-amiaza, temperaturile scad vizibil și trebuie să ne grăbim, deoarece soarele apune deja la ora 17:00. Seara devine rapid răcoroasă, fiind momentul perfect pentru a încheia ziua într-o cafenea locală primitoare.",
+            "en": "The cool morning air makes the climb to the city sights very pleasant. At noon, the gentle sun warms the walk while we admire the architecture of the mosques. In the afternoon, temperatures drop noticeably, and we must hurry as the sun sets early at 17:00. The evening becomes cool quickly, making it the perfect time to end the day in a cozy local café with a warm drink."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Masjis Taqwa Hamadi",
+                "hu": "Masjis Taqwa Hamadi",
+                "ro": "Masjis Taqwa Hamadi",
+                "en": "Masjis Taqwa Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie das klare Winterlicht für Fotos der Fassade; die kühleren Temperaturen machen den Aufenthalt im Freien deutlich angenehmer als in der drückenden Sommerhitze von Jayapura.",
+                "hu": "Használja ki a tiszta téli fényt a homlokzat fotózásához; a hűvösebb hőmérséklet sokkal kellemesebbé teszi a kinti tartózkodást, mint Jayapura nyomasztó nyári hősége és páratartalma.",
+                "ro": "Profitați de lumina clară de iarnă pentru a fotografia fațada; temperaturile mai scăzute fac șederea în aer liber mult mai plăcută decât în căldura sufocantă a verii din Jayapura.",
+                "en": "Take advantage of the clear winter light for photos of the facade; the cooler temperatures make staying outdoors much more pleasant than in the oppressive summer heat of Jayapura."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Al-Hamidi",
+                "hu": "Masjid Al-Hamidi",
+                "ro": "Masjid Al-Hamidi",
+                "en": "Masjid Al-Hamidi"
+              },
+              "tip_5lang": {
+                "de": "Ein ruhiger Ort für eine Pause in der milden Mittagssonne; bringen Sie eine leichte Strickjacke mit, da es in den schattigen Korridoren des Gebäudes überraschend kühl werden kann.",
+                "hu": "Csendes hely egy pihenőhöz a szelíd déli napsütésben; hozzon magával egy könnyű kardigánt, mivel az épület árnyékos folyosóin meglepően hűvös lehet a levegő a téli hónapokban.",
+                "ro": "Un loc liniștit pentru o pauză în soarele blând de la prânz; aduceți un cardigan ușor, deoarece pe coridoarele umbrite ale clădirii poate fi surprinzător de răcoare în timpul iernii.",
+                "en": "A quiet place for a break in the gentle midday sun; bring a light cardigan, as it can be surprisingly cool in the shaded corridors of the building during the winter months here."
+              }
+            },
+            {
+              "name": {
+                "de": "Mosque As Syuhada",
+                "hu": "Mosque As Syuhada",
+                "ro": "Mosque As Syuhada",
+                "en": "Mosque As Syuhada"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie, wie das tiefe Sonnenlicht die Kuppel in warme Farben taucht; brechen Sie rechtzeitig zum Strand auf, bevor die Kühle des frühen Abends nach dem Sonnenuntergang eintritt.",
+                "hu": "Figyelje meg, ahogy az alacsonyan járó nap meleg színekbe öltözteti a kupolát; induljon el időben a tengerpart felé, mielőtt a naplemente utáni kora esti lehűlés megérkezne a városba.",
+                "ro": "Observați cum lumina joasă a soarelui scaldă cupola în culori calde; plecați la timp spre plajă înainte ca răcoarea serii timpurii de după apus să se instaleze peste tot în oraș.",
+                "en": "Observe how the low sun bathes the dome in warm colors; set off for the beach in time before the early evening chill sets in after the sunset, which happens quite early in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "3 WWII rusty tanks",
+                "hu": "3 rozsdás második világháborús tank",
+                "ro": "3 tancuri ruginite Al Doilea Război Mondial",
+                "en": "3 WWII rusty tanks"
+              },
+              "tip_5lang": {
+                "de": "Die Geschichte wirkt in der kühlen Luft noch intensiver; machen Sie Ihre Fotos schnell, da das Licht nach 16:30 Uhr rapide schwindet und es ab 17:00 Uhr bereits fast dunkel ist.",
+                "hu": "A történelem még intenzívebbnek tűnik a hűvös levegőben; fotózzon gyorsan, mert 16:30 után a fény gyorsan fogy, 17:00-kor pedig már szinte teljesen sötét van ezen a vidéken télen.",
+                "ro": "Istoria pare și mai intensă în aerul răcoros; faceți fotografiile rapid, deoarece după ora 16:30 lumina dispare repede, iar la ora 17:00 este deja aproape întuneric complet afară.",
+                "en": "History feels even more intense in the cool air; take your photos quickly, as after 16:30 the light fades rapidly, and by 17:00 it is already almost completely dark in this region."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Hamadi",
+                "hu": "Pantai Hamadi",
+                "ro": "Pantai Hamadi",
+                "en": "Pantai Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Der Wind am Wasser kann sehr frisch sein; genießen Sie den frühen Sonnenuntergang in eine warme Decke gehüllt oder ziehen Sie sich rechtzeitig in ein beheiztes Restaurant zurück.",
+                "hu": "A szél a vízparton nagyon friss lehet; élvezze a korai naplementét egy meleg rétegbe burkolózva, vagy vonuljon be időben egy barátságos étterembe a tengerparti sétány mentén.",
+                "ro": "Vântul de lângă apă poate fi foarte proaspăt; bucurați-vă de apusul timpuriu înfășurat într-un strat cald de haine sau retrageți-vă la timp într-un restaurant primitor de pe faleză.",
+                "en": "The wind by the water can be very fresh; enjoy the early sunset wrapped in a warm layer of clothing, or retreat in time to a welcoming restaurant along the coastal promenade."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "A reggeli kerékpározás a városi tábla panorámájával indul, majd a grandiózus építészeti örökségek felé ereszkedik. A déli tekerés történelmi negyedeken és lenyűgöző háborús relikviákon vezet át. Délután a tengerparti szellő frissíti fel a Pantai Hamadi strandján. A nap egy drámai és látványos átkeléssel zárul a Youtefa-híd lenyűgöző piros ívei alatt.",
         "ro": "Turul de dimineață cu bicicleta începe cu vederi panoramice de la semnul orașului și coboară spre marea moștenire arhitecturală. Ciclismul de la prânz vă poartă prin districte istorice și relicve de război. După-amiaza aduce o briză de coastă la plaja Pantai Hamadi. Ziua dumneavoastră se încheie dramatic cu o plimbare peste magnificele arcade roșii ale Podului Youtefa.",
         "en": "Your morning cycling starts with high panoramic views from the city sign and descends into the grand architectural heritage of the city. Midday pedaling leads you through historic districts and haunting war relics. Afternoon brings a coastal breeze as you relax at Pantai Hamadi beach. Your day concludes dramatically with a ride over the magnificent red arches of the Youtefa Bridge."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Die Fahrt beginnt vorsichtig auf den rutschigen Straßen zum City Sign. Mittags bietet die Masjid Raya einen großen trockenen Bereich für eine Pause vom Regen. Am Nachmittag radeln wir durch Pfützen nach Hamadi, wo wir unter Markisen Schutz suchen. Der Abend auf der Youtefa-Brücke ist windig und nass, bietet aber einen dramatischen Blick auf die regnerische Bucht von Jayapura.",
+            "hu": "A túra óvatosan indul a csúszós utakon a város felirata felé. Délben a Masjid Raya hatalmas, száraz területe nyújt pihenőt az eső elől a bicikliseknek. Délután tócsákon át kerekezünk Hamadi felé, ahol az árusok ponyvái alatt pihenünk meg. Az este a Youtefa-hídon szeles és vizes, de drámai kilátást nyújt a Jayapura-öbölre a szakadó esőben, ami felejthetetlen élmény.",
+            "ro": "Călătoria începe cu prudență pe străzile alunecoase spre semnul orașului. La prânz, Masjid Raya oferă o zonă mare și uscată pentru o pauză de ploaie. După-amiaza pedalăm prin bălți spre Hamadi, unde căutăm adăpost sub copertinele vânzătorilor. Seara pe podul Youtefa este vântoasă și umedă, dar oferă o vedere dramatică asupra golfului Jayapura în timpul ploii torențiale.",
+            "en": "The ride starts cautiously on the slippery roads towards the city sign. At noon, Masjid Raya offers a large dry area for a break from the rain for cyclists. In the afternoon, we pedal through puddles towards Hamadi, resting under the vendors' awnings. The evening on the Youtefa Bridge is windy and wet, but offers a dramatic view of the Jayapura Bay in the pouring rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jayapura City Sign",
+                "hu": "Jayapura City Sign",
+                "ro": "Jayapura City Sign",
+                "en": "Jayapura City Sign"
+              },
+              "tip_5lang": {
+                "de": "Die Straße hierher ist bei Regen extrem rutschig; prüfen Sie unbedingt Ihre Bremsen vor der Abfahrt und fahren Sie langsam, um Unfälle auf dem nassen Asphalt zu vermeiden.",
+                "hu": "Az idevezető út esőben rendkívül csúszós; feltétlenül ellenőrizze a fékeit indulás előtt, és haladjon lassan, hogy elkerülje a baleseteket a vizes és veszélyes aszfalton.",
+                "ro": "Drumul până aici este extrem de alunecos când plouă; verificați-vă neapărat frânele înainte de plecare și conduceți încet pentru a evita accidentele pe asfaltul ud și periculos.",
+                "en": "The road here is extremely slippery when it rains; be sure to check your brakes before departing and ride slowly to avoid accidents on the wet and dangerous asphalt surface today."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya",
+                "hu": "Masjid Raya",
+                "ro": "Masjid Raya",
+                "en": "Masjid Raya"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den massiven Eingangsbereich, um Ihre Regenbekleidung zu ordnen; der Innenhof ist auch bei Regen wunderschön und bietet viele überdachte Plätze für eine trockene Pause.",
+                "hu": "Használja ki a hatalmas bejárati részt az esővédő ruházat rendbetételére; a belső udvar esőben is gyönyörű, és számos fedett helyet kínál egy teljesen száraz pihenőhöz a túra alatt.",
+                "ro": "Folosiți zona masivă de intrare pentru a vă aranja îmbrăcămintea de ploaie; curtea interioară este frumoasă chiar și pe ploaie și oferă multe locuri acoperite pentru o pauză uscată.",
+                "en": "Use the massive entrance area to organize your rain gear; the inner courtyard is beautiful even in the rain and offers many covered spots for a completely dry break during the ride."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjis Taqwa Hamadi",
+                "hu": "Masjis Taqwa Hamadi",
+                "ro": "Masjis Taqwa Hamadi",
+                "en": "Masjis Taqwa Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab; die Moschee ist ein idealer Zwischenstopp, um schweren Regen abzuwarten, bevor Sie die Fahrt entlang der Küste fortsetzen.",
+                "hu": "Parkolja le kerékpárját egy védett helyen; a mecset ideális megállóhely a heves esőzés kivárására, mielőtt folytatná az utat a part mentén a következő látnivaló felé a városban.",
+                "ro": "Parcați bicicleta într-un loc protejat; moscheea este un loc de oprire ideal pentru a aștepta trecerea ploii abundente înainte de a continua drumul de-a lungul coastei spre oraș.",
+                "en": "Park your bike in a protected spot; the mosque is an ideal stopover to wait out heavy rain before continuing your journey along the coast towards the next city attraction today."
+              }
+            },
+            {
+              "name": {
+                "de": "3 WWII rusty tanks",
+                "hu": "3 rozsdás második világháborús tank",
+                "ro": "3 tancuri ruginite Al Doilea Război Mondial",
+                "en": "3 WWII rusty tanks"
+              },
+              "tip_5lang": {
+                "de": "Der Boden um die Panzer kann sehr schlammig und weich sein; parken Sie Ihr Rad auf festem Untergrund und halten Sie den Besuch kurz, um nicht völlig durchnässt zu werden.",
+                "hu": "A tankok körüli talaj nagyon sáros és puha lehet; parkolja le a bringát szilárd talajon, és tartsa rövidre a látogatást, hogy ne ázzon el teljesen a nyílt terepen a szakadó esőben.",
+                "ro": "Solul din jurul tancurilor poate fi foarte noroios și moale; parcați bicicleta pe teren solid și limitați vizita pentru a nu vă uda complet în câmp deschis în timpul ploii.",
+                "en": "The ground around the tanks can be very muddy and soft; park your bike on solid ground and keep the visit short to avoid getting completely soaked in the open field during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Hamadi",
+                "hu": "Pantai Hamadi",
+                "ro": "Pantai Hamadi",
+                "en": "Pantai Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Suchen Sie Schutz unter einem der Verkaufsstände; der Anblick des Regens, der auf den Ozean trifft, ist sehr beruhigend, während man im Trockenen einen Snack genießt.",
+                "hu": "Keressen menedéket az egyik árus bódéja alatt; az óceánra hulló eső látványa nagyon megnyugtató, miközben szárazon élvezhet egy helyi falatot a biciklis túra ezen pihenőpontján.",
+                "ro": "Căutați adăpost sub taraba unui vânzător; vederea ploii care cade peste ocean este foarte liniștitoare în timp ce vă bucurați de o gustare locală la acest punct de oprire al turului.",
+                "en": "Seek shelter under one of the vendor stalls; the sight of the rain falling on the ocean is very soothing while you enjoy a local snack at this rest point of your cycling tour today."
+              }
+            },
+            {
+              "name": {
+                "de": "Youtefa Bridge",
+                "hu": "Youtefa-híd",
+                "ro": "Podul Youtefa",
+                "en": "Youtefa Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die roten Bögen heben sich dramatisch vom grauen Himmel ab; achten Sie auf starken Seitenwind und Spritzwasser von vorbeifahrenden Autos, wenn Sie die Brücke bei Regen überqueren.",
+                "hu": "A vörös ívek drámaian kiemelkednek a szürke égboltból; ügyeljen az erős oldalszélre és az elhaladó autók által felvert vízre, amikor esőben kel át a hídon a túra végén.",
+                "ro": "Arcurile roșii ies în evidență dramatic pe cerul gri; atenție la vântul lateral puternic și la apa împroșcată de mașinile care trec atunci când traversați podul pe ploaie la final.",
+                "en": "The red arches stand out dramatically against the grey sky; watch out for strong crosswinds and spray from passing cars when crossing the bridge in the rain at the end of your tour."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein erfrischender Start am Morgen bei kühlen Brisen am City Sign. Die Fahrt zur Masjid Raya ist aufgrund der milderen Temperaturen weniger anstrengend. Nachmittags genießen wir die klare Sicht auf die Bucht, müssen aber das Tempo erhöhen, da die Sonne um 17:00 Uhr untergeht. Die Überquerung der Youtefa-Brücke bei Sonnenuntergang ist das Highlight, bevor die Abendkälte einsetzt.",
+            "hu": "Frissítő reggeli kezdés a hűvös szélben a város feliratánál. A túra a Masjid Raya felé a enyhébb hőmérsékletnek köszönhetően sokkal kevésbé megterhelő. Délután élvezzük a tiszta kilátást az öbölre, de növelnünk kell a tempót, mert a nap már 17:00-kor lemegy. A Youtefa-hídon való átkelés naplementekor a csúcspont, mielőtt beállna a metsző esti hideg a parton.",
+            "ro": "Un început de dimineață revigorant în vântul răcoros de la semnul orașului. Călătoria spre Masjid Raya este mult mai puțin obositoare datorită temperaturilor blânde. După-amiaza ne bucurăm de vederea clară asupra golfului, dar trebuie să mărim ritmul deoarece soarele apune la 17:00. Traversarea podului Youtefa la apus este punctul culminant înainte de instalarea frigului.",
+            "en": "A refreshing morning start in the cool breeze at the city sign. The ride to Masjid Raya is much less taxing thanks to the milder temperatures. In the afternoon, we enjoy clear views of the bay, but must pick up the pace as the sun sets at 17:00. Crossing the Youtefa Bridge at sunset is the highlight before the sharp evening cold sets in by the coast."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Jayapura City Sign",
+                "hu": "Jayapura City Sign",
+                "ro": "Jayapura City Sign",
+                "en": "Jayapura City Sign"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie früh, um die sanfte Morgensonne einzufangen; der Aufstieg mit dem Fahrrad ist bei den kühleren Wintertemperaturen viel weniger schweißtreibend als im Sommer.",
+                "hu": "Induljon korán, hogy elkapja a szelíd reggeli napsütést; a kerékpáros felkapaszkodás a hűvösebb téli hőmérsékletben sokkal kevésbé megterhelő, mint a fojtogató nyári hőségben.",
+                "ro": "Porniți devreme pentru a surprinde soarele blând al dimineții; urcarea cu bicicleta este mult mai puțin solicitantă la temperaturile răcoroase de iarnă decât în căldura verii.",
+                "en": "Start early to catch the gentle morning sun; the climb by bike is much less taxing in the cooler winter temperatures than in the suffocating summer heat and high humidity levels here."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjid Raya",
+                "hu": "Masjid Raya",
+                "ro": "Masjid Raya",
+                "en": "Masjid Raya"
+              },
+              "tip_5lang": {
+                "de": "Die weißen Mauern strahlen im klaren Winterlicht besonders hell; nehmen Sie sich einen Moment Zeit, um die frische Brise im weitläufigen Innenhof der Moschee zu genießen.",
+                "hu": "A fehér falak különösen fehéren ragyognak a tiszta téli fényben; szánjon egy pillanatot arra, hogy kiélvezze a friss szellőt a mecset tágas belső udvarán a biciklis túra közben.",
+                "ro": "Pereții albi strălucesc deosebit de tare în lumina clară de iarnă; acordați-vă un moment pentru a vă bucura de briza proaspătă în curtea interioară spațioasă a moscheii în timpul turului.",
+                "en": "The white walls shine especially brightly in the clear winter light; take a moment to enjoy the fresh breeze in the spacious courtyard of the mosque during your cycling tour today."
+              }
+            },
+            {
+              "name": {
+                "de": "Masjis Taqwa Hamadi",
+                "hu": "Masjis Taqwa Hamadi",
+                "ro": "Masjis Taqwa Hamadi",
+                "en": "Masjis Taqwa Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Ein friedlicher Zwischenstopp, bevor es zur Küste geht; die tiefstehende Sonne erzeugt lange, wunderschöne Schatten für Fotos, die nur in den Wintermonaten so möglich sind.",
+                "hu": "Békés megálló, mielőtt a part felé venné az irányt; az alacsonyan járó nap hosszú, gyönyörű árnyékokat vet a fotókhoz, ami csak a téli hónapokban élvezhető ilyen formában.",
+                "ro": "O oprire liniștită înainte de a vă îndrepta spre coastă; soarele jos creează umbre lungi și frumoase pentru fotografii, care pot fi admirate doar în lunile de iarnă în acest mod.",
+                "en": "A peaceful stop before heading towards the coast; the low sun creates long, beautiful shadows for photos, which can only be enjoyed in this specific way during the winter months."
+              }
+            },
+            {
+              "name": {
+                "de": "3 WWII rusty tanks",
+                "hu": "3 rozsdás második világháborús tank",
+                "ro": "3 tancuri ruginite Al Doilea Război Mondial",
+                "en": "3 WWII rusty tanks"
+              },
+              "tip_5lang": {
+                "de": "Das kühle Wetter ist perfekt für die Erkundung der Relikte im Freien; achten Sie auf den frühen Sonnenuntergang um 17:00 Uhr, um sicher zur nächsten Etappe weiterfahren zu können.",
+                "hu": "A hűvös idő tökéletes a szabadtéri ereklyék felfedezéséhez; ügyeljen a korai, 17:00-kor bekövetkező naplementére, hogy biztonságban folytathassa útját a következő szakasz felé.",
+                "ro": "Vremea răcoroasă este perfectă pentru a explora relicvele în aer liber; atenție la apusul timpuriu de la ora 17:00, pentru a putea continua drumul în siguranță spre etapa următoare.",
+                "en": "The cool weather is perfect for exploring the outdoor relics; be mindful of the early sunset at 17:00 to ensure you can continue safely to the next stage of your journey in time."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Hamadi",
+                "hu": "Pantai Hamadi",
+                "ro": "Pantai Hamadi",
+                "en": "Pantai Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie ein warmes Getränk am Ufer; der Winterwind kann überraschend scharf sein, behalten Sie also Ihre Jacke an, während Sie den weiten Blick auf den Pazifik genießen.",
+                "hu": "Élvezzen egy meleg italt a parton; a téli szél meglepően metsző lehet, ezért hagyja magán a kabátját, miközben a Csendes-óceánra nyíló pazar kilátást csodálja a pihenő alatt.",
+                "ro": "Bucurați-vă de o băutură caldă pe malul mării; vântul de iarnă poate fi surprinzător de tăios, așa că păstrați-vă geaca pe dumneavoastră în timp ce admirați vederea spre Pacific.",
+                "en": "Enjoy a warm drink by the shore; the winter wind can be surprisingly sharp, so keep your jacket on while you admire the expansive view of the Pacific Ocean during your break here."
+              }
+            },
+            {
+              "name": {
+                "de": "Youtefa Bridge",
+                "hu": "Youtefa-híd",
+                "ro": "Podul Youtefa",
+                "en": "Youtefa Bridge"
+              },
+              "tip_5lang": {
+                "de": "Der Sonnenuntergang über der Bucht ist um 17:00 Uhr spektakulär; beenden Sie Ihre Fahrt hier, bevor die Temperatur nach Einbruch der Dunkelheit rapide sinkt und es zu kalt wird.",
+                "hu": "A naplemente az öböl felett 17:00-kor lenyűgöző; fejezze be itt a túrát, mielőtt a hőmérséklet a sötétség beállta után gyorsan zuhanni kezdene, és túl hideg lenne a tekeréshez.",
+                "ro": "Apusul peste golf la ora 17:00 este spectaculos; încheiați turul aici înainte ca temperatura să scadă rapid după lăsarea întunericului și să devină prea frig pentru pedalat.",
+                "en": "The sunset over the bay at 17:00 is spectacular; finish your ride here before the temperature drops rapidly after dark and it becomes too cold for comfortable cycling on the coast."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggeli autózás a buja zöld növényzet és frissítő kávé mellett indul, amit a történelmi Base-G Beach tengerparti útja követ. A délidőt Pápua történelmének felfedezése tölti ki a katonai múzeumban és a panorámakilátóban. Délután Hamadi nyüzsgő partjainál pihenheti ki magát a hullámokat hallgatva. Az este látványos utazást tartogat a Youtefa-híd vörös ívein át egyenesen a békés öbölhöz.",
         "ro": "Traseul de dimineață începe cu o cafea răcoritoare în verdeață, urmat de o plimbare spre istorica Base-G Beach. Prânzul este dedicat istoriei la muzeul militar și vederilor panoramice. După-amiaza, veți coborî pe țărmul plin de viață din Hamadi pentru relaxare la malul mării. Seara oferă o plimbare spectaculoasă peste arcadele roșii ale podului spre golful senin.",
         "en": "The morning drive starts with refreshing coffee amidst lush greenery, followed by a coastal ride to the historic Base-G Beach. Midday is dedicated to deep dives into Papua’s history at the military museum and panoramic skyline views. In the afternoon, you will cruise down to the bustling shoreline of Hamadi for seaside relaxation. Evening delivers a spectacular drive over the red arches of Youtefa Bridge to the serene bay beyond."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein gemütlicher Start im 81 Cafe, während die Wolken durch das Tal ziehen. Mittags beobachten wir die Brandung am Base-G Beach sicher vom Auto aus. Den Nachmittag verbringen wir trocken im Museum, gefolgt von nebligen Panoramaausblicken vom City Sign. Der Abend endet mit einer Fahrt über die Youtefa-Brücke, wobei die Lichter der Stadt im Regen romantisch verschwimmen.",
+            "hu": "Kellemes kezdés a 81 Cafe-ban, miközben a felhők átvonulnak a völgy felett. Délben a Base-G Beach hullámait a biztonságos autóból figyeljük. A délutánt szárazon töltjük a múzeumban, majd ködös panorámában gyönyörködünk a város feliratától. Az este a Youtefa-hídon való átkeléssel zárul, ahol a város fényei romantikusan elmosódnak a szakadó esőben, hangulatos lezárást adva.",
+            "ro": "Un început plăcut la 81 Cafe, în timp ce norii trec peste vale. La prânz, observăm valurile de la Base-G Beach din siguranța mașinii. După-amiaza o petrecem la uscat în muzeu, urmată de vederi panoramice cețoase de la semnul orașului. Seara se încheie cu o traversare a podului Youtefa, unde luminile orașului se estompează romantic în ploaie, creând un cadru deosebit.",
+            "en": "A pleasant start at 81 Cafe as clouds roll through the valley. At noon, we watch the waves at Base-G Beach from the safety of the car. The afternoon is spent dry in the museum, followed by misty panoramic views from the city sign. The evening ends with a drive across the Youtefa Bridge, where the city lights blur romantically in the rain, providing a cozy finish to the day."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "81 Cafe",
+                "hu": "81 Cafe",
+                "ro": "81 Cafe",
+                "en": "81 Cafe"
+              },
+              "tip_5lang": {
+                "de": "Perfekter Zufluchtsort am regnerischen Morgen; genießen Sie den Blick auf die Berge bei einem heißen Kaffee, während die Wolken mystisch durch das Tal unter Ihnen ziehen.",
+                "hu": "Tökéletes menedék egy esős reggelen; élvezze a hegyekre nyíló kilátást egy forró kávé mellett, miközben a felhők misztikusan vonulnak át az Ön alatt elterülő mély völgy felett.",
+                "ro": "Refugiul perfect pentru o dimineață ploioasă; bucurați-vă de vederea spre munți la o cafea fierbinte, în timp ce norii trec mistic prin valea care se întinde sub dumneavoastră.",
+                "en": "Perfect rainy morning hideout; enjoy the mountain view with a hot coffee while the clouds roll mystically through the valley below you, creating a very unique and cozy atmosphere."
+              }
+            },
+            {
+              "name": {
+                "de": "Base-G Beach",
+                "hu": "Base-G Beach",
+                "ro": "Base-G Beach",
+                "en": "Base-G Beach"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie die gewaltigen Wellen sicher aus einer Strandhütte; halten Sie Ihren Regenschirm bereit für den kurzen Weg vom Parkplatz, da der Wind hier sehr stark sein kann.",
+                "hu": "Figyelje meg a hatalmas hullámokat biztonságosan egy tengerparti házikóból; tartsa készenlétben az esernyőjét a parkolótól tartó rövid útra, mert a szél itt gyakran felerősödik.",
+                "ro": "Observați valurile uriașe în siguranță dintr-o colibă de pe plajă; țineți umbrela la îndemână pentru scurtul drum de la parcare, deoarece vântul de aici poate fi adesea foarte puternic.",
+                "en": "Watch the powerful waves safely from a beach hut; keep your umbrella ready for the short walk from the parking area, as the wind here can often pick up significantly during rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Sarwo Edhie Wibowo - Kodam XVII Cendrawasih",
+                "hu": "Sarwo Edhie Wibowo Múzeum",
+                "ro": "Muzeul Sarwo Edhie Wibowo",
+                "en": "Museum Sarwo Edhie Wibowo - Kodam XVII Cendrawasih"
+              },
+              "tip_5lang": {
+                "de": "Der beste Ort, um einen regnerischen Mittag zu verbringen; bleiben Sie trocken, während Sie tief in die lokale Militärgeschichte eintauchen und die umfangreichen Exponate bestaunen.",
+                "hu": "A legjobb hely egy esős délidő eltöltésére; maradjon szárazon, miközben elmerül a helyi katonai történelemben, és megcsodálja a múzeum gazdag és rendkívül érdekes kiállítási tárgyait.",
+                "ro": "Cel mai bun loc pentru a petrece o amiază ploioasă; rămâneți la uscat în timp ce explorați istoria militară locală și admirați exponatele bogate și interesante ale muzeului.",
+                "en": "The best place to spend a rainy midday; stay dry while diving deep into the local military history and admiring the extensive and interesting exhibits housed within the museum walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Jayapura City Sign",
+                "hu": "Jayapura City Sign",
+                "ro": "Jayapura City Sign",
+                "en": "Jayapura City Sign"
+              },
+              "tip_5lang": {
+                "de": "Die Stadt wirkt durch den Nebel fast magisch; bleiben Sie für die besten Panoramafotos einfach im Auto, um nicht nass zu werden und trotzdem die weite Aussicht zu genießen.",
+                "hu": "A város szinte varázslatosnak tűnik a ködön keresztül; a legjobb panorámafotókhoz maradjon az autóban, így nem ázik el, de mégis gyönyörködhet a lábai előtt elterülő kilátásban.",
+                "ro": "Orașul pare aproape magic prin ceață; pentru cele mai bune fotografii panoramice, rămâneți în mașină, astfel nu vă veți uda, dar vă veți bucura totuși de vederea largă din față.",
+                "en": "The city looks almost magical through the mist; for the best panoramic photos, just stay in the car to avoid getting wet while still enjoying the wide view stretching out before you."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Hamadi",
+                "hu": "Pantai Hamadi",
+                "ro": "Pantai Hamadi",
+                "en": "Pantai Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie nah an den Fischständen; genießen Sie den frischen Fang des Tages, während Sie dem tropischen Regen lauschen, der rhythmisch auf das Dach der Markthalle trommelt.",
+                "hu": "Parkoljon közel a halárusok standjaihoz; élvezze a nap friss fogását, miközben a trópusi eső ritmikus dobolását hallgatja a vásárcsarnok tetején, ami igazán hangulatos élmény.",
+                "ro": "Parcați aproape de standurile pescarilor; bucurați-vă de captura proaspătă a zilei în timp ce ascultați ploaia tropicală bătând ritmic pe acoperișul halei, o experiență autentică.",
+                "en": "Park close to the seafood stalls; enjoy the fresh catch of the day while listening to the tropical rain drumming rhythmically on the roof of the market hall, a very atmospheric experience."
+              }
+            },
+            {
+              "name": {
+                "de": "Youtefa Bridge",
+                "hu": "Youtefa-híd",
+                "ro": "Podul Youtefa",
+                "en": "Youtefa Bridge"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig über die ikonische rote Brücke; die Sicht kann bei starkem Regen eingeschränkt sein, aber die Architektur bleibt auch bei grauem Wetter absolut beeindruckend.",
+                "hu": "Vezessen óvatosan az ikonikus vörös hídon; erős esőben a látótávolság korlátozott lehet, de az építészet még szürke időben is lenyűgöző látványt nyújt az autóból figyelve.",
+                "ro": "Conduceți cu atenție pe podul roșu iconic; în caz de ploaie abundentă, vizibilitatea poate fi limitată, dar arhitectura rămâne absolut impresionantă chiar și pe vreme gri și închisă.",
+                "en": "Drive carefully across the iconic red bridge; in heavy rain, visibility may be limited, but the architecture remains absolutely impressive even in grey weather as you watch from the car."
+              }
+            },
+            {
+              "name": {
+                "de": "Yautefa Bay",
+                "hu": "Yautefa-öböl",
+                "ro": "Golful Yautefa",
+                "en": "Yautefa Bay"
+              },
+              "tip_5lang": {
+                "de": "Beenden Sie den Tag mit Blick auf die neblige Bucht; die Spiegelung der Stadtlichter im Regen auf der Wasseroberfläche ist besonders romantisch und ein toller Abschluss der Fahrt.",
+                "hu": "Zárja a napot a ködös öbölre nyíló kilátással; a városi fények tükröződése a vizes felületeken és a vízen különösen romantikus látványt nyújt a túra utolsó állomásán az autóban.",
+                "ro": "Încheiați ziua cu o vedere spre golful cețos; reflexia luminilor orașului pe suprafețele umede și pe apă este deosebit de romantică la ultima oprire a turului, din confortul mașinii.",
+                "en": "End the day with a view of the misty bay; the reflection of city lights on the wet surfaces and water is especially romantic at the final stop of the tour from the comfort of your car."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein warmer Kaffee im 81 Cafe zum Start in den kühlen Wintermorgen. Ein erfrischender Spaziergang am Base-G Beach folgt, bevor wir die Mittagszeit im klimatisierten Museum verbringen. Wir erreichen das City Sign vor dem frühen Sonnenuntergang um 17:00 Uhr, um die weite Sicht zu genießen. Der Tag endet mit einer Fahrt über die beleuchtete Brücke, während die Autoheizung für Behaglichkeit sorgt.",
+            "hu": "Meleg kávé a 81 Cafe-ban a hűvös téli reggel indításaként. Egy frissítő séta következik a Base-G Beach-en, mielőtt a délidőt a múzeum kellemes belső terében töltenénk. A város feliratához még a korai, 17:00-s naplemente előtt érkezünk, hogy élvezhessük a tiszta kilátást. A nap az kivilágított hídon való átkeléssel zárul, miközben az autó fűtése gondoskodik a kényelemről.",
+            "ro": "O cafea caldă la 81 Cafe pentru a începe dimineața răcoroasă de iarnă. Urmează o plimbare revigorantă pe Base-G Beach, înainte de a petrece prânzul în interiorul muzeului. Ajungem la semnul orașului înainte de apusul timpuriu de la ora 17:00, pentru a ne bucura de vederea clară. Ziua se încheie cu o traversare pe podul iluminat, în timp ce căldura din mașină oferă confort.",
+            "en": "A warm coffee at 81 Cafe to start the cool winter morning. A refreshing stroll at Base-G Beach follows before we spend the midday period inside the comfortable museum. We reach the city sign before the early sunset at 17:00 to enjoy the clear winter views. The day ends with a drive across the illuminated bridge while the car's heater ensures comfort as the air cools."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "81 Cafe",
+                "hu": "81 Cafe",
+                "ro": "81 Cafe",
+                "en": "81 Cafe"
+              },
+              "tip_5lang": {
+                "de": "Wärmen Sie sich mit einer lokalen Röstung auf; die Bergluft ist im Winter kristallklar und bietet die beste Fernsicht des ganzen Jahres über das Tal bis hin zum Ozean.",
+                "hu": "Melegedjen fel egy helyi pörkölésű kávéval; a hegyi levegő télen kristálytiszta, és az év legjobb távoli kilátását kínálja a völgyön keresztül egészen a távoli óceán kékjéig.",
+                "ro": "Încălziți-vă cu o cafea locală; aerul de munte este cristalizat iarna și oferă cea mai bună vedere la distanță din tot anul, peste vale până la albastrul îndepărtat al oceanului.",
+                "en": "Warm up with a local brew; the mountain air is crystal clear in winter and offers the best long-distance visibility of the entire year across the valley to the distant ocean blue."
+              }
+            },
+            {
+              "name": {
+                "de": "Base-G Beach",
+                "hu": "Base-G Beach",
+                "ro": "Base-G Beach",
+                "en": "Base-G Beach"
+              },
+              "tip_5lang": {
+                "de": "Ein zügiger Strandspaziergang ist jetzt besonders belebend; die Wintersonne ist weniger intensiv, sodass Sie länger ohne die drückende Hitze am Wasser verweilen können.",
+                "hu": "Egy tempós tengerparti séta most különösen élénkítő; a téli nap kevésbé intenzív, így hosszabb ideig tartózkodhat a víznél anélkül, hogy a nyomasztó hőség és pára zavarná a pihenést.",
+                "ro": "O plimbare rapidă pe plajă este acum deosebit de revigorantă; soarele de iarnă este mai puțin intens, astfel încât puteți sta mai mult lângă apă fără ca arșița și umiditatea să vă deranjeze.",
+                "en": "A brisk beach walk is especially invigorating now; the winter sun is less intense, so you can stay by the water longer without the oppressive heat and humidity levels of the summer."
+              }
+            },
+            {
+              "name": {
+                "de": "Museum Sarwo Edhie Wibowo - Kodam XVII Cendrawasih",
+                "hu": "Sarwo Edhie Wibowo Múzeum",
+                "ro": "Muzeul Sarwo Edhie Wibowo",
+                "en": "Museum Sarwo Edhie Wibowo - Kodam XVII Cendrawasih"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die angenehme Innentemperatur des Museums; es ist ein hervorragender Ort, um der frischen Mittagspfise im Winter für eine Weile zu entkommen und Geschichte zu erleben.",
+                "hu": "Élvezze a múzeum kellemes belső hőmérsékletét; kitűnő hely, hogy egy időre elmeneküljön a friss téli déli szél elől, miközben lenyűgöző történelmi emlékeket fedez fel a tárlatokon.",
+                "ro": "Bucurați-vă de temperatura interioară plăcută a muzeului; este un loc excelent pentru a scăpa pentru o vreme de vântul răcoros de iarnă, în timp ce descoperiți amintiri istorice fascinante.",
+                "en": "Enjoy the comfortable indoor temperature of the museum; it is an excellent spot to escape the fresh winter midday breeze for a while while discovering fascinating historical memories."
+              }
+            },
+            {
+              "name": {
+                "de": "Jayapura City Sign",
+                "hu": "Jayapura City Sign",
+                "ro": "Jayapura City Sign",
+                "en": "Jayapura City Sign"
+              },
+              "tip_5lang": {
+                "de": "Kommen Sie vor 17:00 Uhr an, um den Übergang der Stadt in die Nacht zu sehen; der Winterhimmel färbt sich oft in tiefem Violett, was ein spektakuläres Fotomotiv darstellt.",
+                "hu": "Érkezzen 17:00 előtt, hogy lássa a város éjszakai fénybe öltözését; a téli égbolt gyakran mélylilára színeződik, ami látványos és különleges fotótémát kínál az ide látogatóknak.",
+                "ro": "Sosiți înainte de ora 17:00 pentru a vedea cum orașul se îmbracă în lumini de noapte; cerul de iarnă devine adesea violet închis, oferind un subiect fotografic spectaculos și deosebit.",
+                "en": "Arrive before 17:00 to see the city transition into night; the winter sky often turns a deep purple, offering a spectacular and unique photo subject for all visitors at this vantage point."
+              }
+            },
+            {
+              "name": {
+                "de": "Pantai Hamadi",
+                "hu": "Pantai Hamadi",
+                "ro": "Pantai Hamadi",
+                "en": "Pantai Hamadi"
+              },
+              "tip_5lang": {
+                "de": "Der Fischmarkt ist am Abend sehr lebhaft; der perfekte Ort für ein herzhaftes Abendessen, bevor die Temperaturen nach dem frühen Sonnenuntergang spürbar in den kühlen Bereich sinken.",
+                "hu": "A halpiac este nagyon élénk; tökéletes hely egy kiadós vacsorához, mielőtt a hőmérséklet a korai naplemente után érezhetően a hűvös tartományba süllyedne a tengerparti sétányon.",
+                "ro": "Piața de pește este foarte animată seara; locul perfect pentru o cină copioasă înainte ca temperatura să scadă vizibil în zona răcoroasă după apusul timpuriu pe faleza mării.",
+                "en": "The fish market is very lively in the evening; it is the perfect spot for a hearty dinner before the temperature drops noticeably into the cool range after the early winter sunset."
+              }
+            },
+            {
+              "name": {
+                "de": "Youtefa Bridge",
+                "hu": "Youtefa-híd",
+                "ro": "Podul Youtefa",
+                "en": "Youtefa Bridge"
+              },
+              "tip_5lang": {
+                "de": "Die Brücke ist nach dem frühen Sonnenuntergang wunderschön beleuchtet; sie eignet sich hervorragend für eine abendliche Fahrt, bei der man die kühle Luft und die Lichter genießen kann.",
+                "hu": "A híd a korai naplemente után gyönyörűen ki van világítva; kiválóan alkalmas egy esti autózáshoz, ahol a hűvös levegőt és a kivilágított öböl látványát egyaránt élvezheti az autóban.",
+                "ro": "Podul este iluminat frumos după apusul timpuriu; este ideal pentru o plimbare de seară cu mașina, unde vă puteți bucura atât de aerul răcoros, cât și de vederea golfului iluminat festiv.",
+                "en": "The bridge is beautifully lit after the early sunset; it is ideal for an evening drive where you can enjoy both the cool air and the sight of the festively illuminated bay from your car."
+              }
+            },
+            {
+              "name": {
+                "de": "Yautefa Bay",
+                "hu": "Yautefa-öböl",
+                "ro": "Golful Yautefa",
+                "en": "Yautefa Bay"
+              },
+              "tip_5lang": {
+                "de": "Letzte Ausblicke auf die dunkle Bucht; die kühle Luft lässt die Heizung im Auto nach diesem langen Wintertag besonders willkommen erscheinen, während die Stadtlichter in der Ferne funkeln.",
+                "hu": "Utolsó pillantások a sötét öbölre; a hűvös levegő miatt az autó fűtése különösen jólesik a hosszú téli nap végén, miközben a távoli város fényei szikráznak a sötét éjszakában.",
+                "ro": "Ultimele priviri asupra golfului întunecat; din cauza aerului răcoros, căldura din mașină este deosebit de binevenită la finalul zilei lungi de iarnă, în timp ce luminile orașului scânteiază.",
+                "en": "Final views of the dark bay; the cool air makes the car's heater feel especially welcome at the end of this long winter day while the distant city lights sparkle in the dark night sky."
+              }
+            }
+          ]
+        }
       }
     }
   }

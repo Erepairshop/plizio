@@ -137,6 +137,168 @@
         "hu": "A reggel a központban indul a modern plébániatemplom megtekintésével, majd a történelem előtti Dolmen Argentina Graziadei felé sétálunk. Délben kiérünk a partra, és rálépünk a Le Maldive del Salento legendás fehér homokjára. Délután átváltunk a Le Cinque Vele prémium strandjára a sekély jón vizekben. Az este a Spiaggia di Pescoluse fő strandján tett hosszú, pihentető sétával zárul, miközben a nap lassan leereszkedik.",
         "ro": "Dimineața începe în centru, cu biserica parohială modernă, înainte de a merge la anticul Dolmen Argentina Graziadei pentru o notă de preistorie. La prânz ajungem pe coastă, pășind pe nisipul alb de la Le Maldive del Salento. După-amiaza aduce o tranziție la Le Cinque Vele pentru o experiență de plajă premium în apele ioniene. Seara se încheie cu o plimbare relaxantă de-a lungul plajei principale Spiaggia di Pescoluse la apus.",
         "en": "Morning starts in the town center, checking out the modern parish church before walking to the ancient Dolmen Argentina Graziadei for a touch of prehistory. Midday is all about reaching the coastline, stepping onto the legendary white sands of Le Maldive del Salento. Afternoon brings a transition to Le Cinque Vele for a premium beach experience in the shallow, clear Ionian waters. Evening concludes with a long, relaxing stroll along the main Spiaggia di Pescoluse as the sun begins to lower over the horizon."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Morgens bietet die Kirche einen trockenen Start. Mittags am Dolmen ist der Boden durch den Regen rutschig, daher ist Vorsicht geboten. Nachmittags wirken die berühmten Strände unter den grauen Wolken melancholisch und weitläufig. Den Abend lässt man am besten bei prasselndem Regen in Meeresnähe ausklingen, während man den dramatischen Wellen der Adria zuschaut.",
+            "hu": "Reggel a templom nyújt száraz kezdést a napnak. Délben a Dolmennél az eső miatt csúszós a talaj, ezért óvatosság ajánlott. Délután a híres strandok melankolikusnak és tágasnak tűnnek a szürke felhők alatt. Az estét a legjobb a tenger közelében, az eső kopogását hallgatva zárni, miközben a drámai hullámokat figyeli az ember.",
+            "ro": "Dimineața, biserica oferă un început uscat zilei. La prânz, lângă dolmen, solul este alunecos din cauza ploii, așa că se recomandă prudență. După-amiaza, plajele faimoase par melancolice și vaste sub norii gri. Seara se încheie cel mai bine lângă mare, ascultând ropotul ploii și privind valurile dramatice ale Adriaticii.",
+            "en": "In the morning, the church offers a dry start to the day. At noon by the dolmen, the ground is slippery due to the rain, so caution is advised. In the afternoon, the famous beaches look melancholy and vast under the grey clouds. The evening is best spent near the sea, listening to the patter of rain while watching the dramatic waves."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa del Beato Giovanni XXIII",
+                "hu": "Chiesa del Beato Giovanni XXIII",
+                "ro": "Chiesa del Beato Giovanni XXIII",
+                "en": "Chiesa del Beato Giovanni XXIII"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die beeindruckende moderne Architektur im trockenen Innenraum; prüfen Sie vorab die Öffnungszeiten, um den stärksten Regen in Ruhe abzuwarten.",
+                "hu": "Csodálja meg a lenyűgöző modern építészetet a száraz belső térben; előre ellenőrizze a nyitvatartást, hogy a legnagyobb záport nyugodtan bent várhassa meg.",
+                "ro": "Admirați arhitectura modernă impresionantă în interiorul uscat; verificați programul în avans pentru a aștepta ploaia torențială în liniște și siguranță.",
+                "en": "Admire the impressive modern architecture in the dry interior; check the opening hours in advance to wait out the heaviest rain in peace and comfort."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen Argentina Graziadei",
+                "hu": "Dolmen Argentina Graziadei",
+                "ro": "Dolmen Argentina Graziadei",
+                "en": "Dolmen Argentina Graziadei"
+              },
+              "tip_5lang": {
+                "de": "Die antiken Steine glänzen geheimnisvoll im Regen, aber der Pfad dorthin ist oft schlammig; festes, wasserdichtes Schuhwerk ist für diesen Stopp unerlässlich.",
+                "hu": "Az ősi kövek titokzatosan csillognak az esőben, de az oda vezető út gyakran sáros; a stabil, vízálló lábbeli elengedhetetlen ehhez a különleges megállóhoz.",
+                "ro": "Pietrele antice strălucesc misterios în ploaie, dar poteca este adesea noroioasă; încălțămintea impermeabilă este esențială pentru această oprire specială.",
+                "en": "The ancient stones glisten mysteriously in the rain, but the path there is often muddy; sturdy, waterproof footwear is essential for this unique stop."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Maldive del Salento",
+                "hu": "Le Maldive del Salento",
+                "ro": "Le Maldive del Salento",
+                "en": "Le Maldive del Salento"
+              },
+              "tip_5lang": {
+                "de": "Erleben Sie die dramatische Brandung bei Regen direkt am Ufer; bringen Sie einen großen Schirm mit, da es am weiten Sandstrand kaum natürlichen Unterstand gibt.",
+                "hu": "Tapasztalja meg a drámai hullámzást esőben közvetlenül a parton; hozzon egy nagy esernyőt, mert a tágas homokos strandon alig van természetes menedékhely.",
+                "ro": "Experimentați valurile dramatice în ploaie direct pe mal; aduceți o umbrelă mare, deoarece pe plaja lungă de nisip există puține adăposturi naturale.",
+                "en": "Experience the dramatic surf in the rain right on the shore; bring a large umbrella as there is very little natural shelter on the wide sandy beach."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Cinque Vele",
+                "hu": "Le Cinque Vele",
+                "ro": "Le Cinque Vele",
+                "en": "Le Cinque Vele"
+              },
+              "tip_5lang": {
+                "de": "Der Blick auf das wolkenverhangene Meer ist faszinierend; suchen Sie Schutz unter den festen Pavillons, falls der Wind während des Schauers kräftig auffrischt.",
+                "hu": "A felhőkbe burkolózott tenger látványa lenyűgöző; keressen menedéket a fix pavilonok alatt, ha a szél a zápor idején hirtelen és erősen feltámadna.",
+                "ro": "Vederea mării acoperite de nori este fascinantă; căutați adăpost sub pavilioanele fixe în cazul în care vântul se intensifică puternic în timpul ploii.",
+                "en": "The view of the cloud-covered sea is fascinating; seek shelter under the fixed pavilions if the wind picks up significantly during the rain shower."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Pescoluse",
+                "hu": "Spiaggia di Pescoluse",
+                "ro": "Spiaggia di Pescoluse",
+                "en": "Spiaggia di Pescoluse"
+              },
+              "tip_5lang": {
+                "de": "Ein Strandspaziergang im Regen reinigt die Sinne ungemein; achten Sie auf den Gezeitenstand, da der nasse Sand schwerer zu begehen ist als im trockenen Zustand.",
+                "hu": "Egy esős tengerparti séta rendkívül megtisztítja az elmét; figyeljen az apály-dagályra, mert a vizes homokban sokkal nehezebb haladni, mint szárazon.",
+                "ro": "O plimbare pe plajă în ploaie curăță mintea; atenție la flux și reflux, deoarece nisipul ud este mult mai greu de parcurs decât atunci când este uscat.",
+                "en": "A rainy beach walk is incredibly cleansing for the senses; pay attention to the tide, as wet sand is much harder to walk on than when it's dry."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frischer Wintermorgen beginnt besinnlich in der modernen Kirche. Mittags wärmt die Sonne nur schwach beim Besuch der antiken Monumente in der offenen Landschaft. Der Nachmittag am Strand ist oft windig, aber durch die klare Luft sehr belebend. Da die Sonne gegen 17:00 Uhr untergeht, endet der Tag früh in gemütlicher Ruhe.",
+            "hu": "Friss téli reggel indul elmélyülten a modern templomban. Délben a nap csak gyengén melegít a nyílt tájon található ősi műemlékek látogatása közben. A délután a strandon gyakran szeles, de a tiszta levegő miatt nagyon élénkítő. Mivel a nap 17:00 körül lebukik, a nap korán, meghitt nyugalomban ér véget.",
+            "ro": "O dimineață răcoroasă de iarnă începe contemplativ în biserica modernă. La prânz, soarele încălzește slab în timpul vizitei monumentelor antice din peisajul deschis. După-amiaza la plajă este adesea vântoasă, dar foarte revigorantă datorită aerului curat. Deoarece soarele apune pe la ora 17:00, ziua se termină devreme.",
+            "en": "A crisp winter morning begins contemplatively in the modern church. At noon, the sun warms only faintly during a visit to the ancient monuments in the open landscape. The afternoon at the beach is often windy but very invigorating due to the clear air. As the sun sets around 5 PM, the day ends early in cozy tranquility."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa del Beato Giovanni XXIII",
+                "hu": "Chiesa del Beato Giovanni XXIII",
+                "ro": "Chiesa del Beato Giovanni XXIII",
+                "en": "Chiesa del Beato Giovanni XXIII"
+              },
+              "tip_5lang": {
+                "de": "Die moderne Stille der Kirche ist im Winter besonders spürbar; wärmen Sie sich im Inneren kurz auf, bevor Sie Ihren winterlichen Marsch an der Küste fortsetzen.",
+                "hu": "A templom modern csendje télen különösen érezhető; melegedjen fel egy kicsit bent, mielőtt folytatná téli menetelését a tengerpart mentén.",
+                "ro": "Liniștea modernă a bisericii este resimțită în mod special iarna; încălziți-vă puțin în interior înainte de a vă continua marșul de iarnă pe coastă.",
+                "en": "The modern silence of the church is especially palpable in winter; warm up inside briefly before continuing your winter march along the coast."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen Argentina Graziadei",
+                "hu": "Dolmen Argentina Graziadei",
+                "ro": "Dolmen Argentina Graziadei",
+                "en": "Dolmen Argentina Graziadei"
+              },
+              "tip_5lang": {
+                "de": "Das klare Winterlicht beleuchtet die antiken Steinstrukturen perfekt; tragen Sie unbedingt windfeste Kleidung für die Erkundung in der offenen Landschaft.",
+                "hu": "A tiszta téli fény tökéletesen megvilágítja az ősi kőszerkezeteket; mindenképpen viseljen szélálló ruházatot a nyílt tájon való felfedezéshez.",
+                "ro": "Lumina clară de iarnă luminează perfect structurile de piatră antice; purtați neapărat haine rezistente la vânt pentru explorarea în peisajul deschis.",
+                "en": "The clear winter light illuminates the ancient stone structures perfectly; be sure to wear windproof clothing for exploring the open landscape."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Maldive del Salento",
+                "hu": "Le Maldive del Salento",
+                "ro": "Le Maldive del Salento",
+                "en": "Le Maldive del Salento"
+              },
+              "tip_5lang": {
+                "de": "Die verlassene Weite des Strandes bietet im Winter tiefe Ruhe; ein heißer Tee in der Thermoskanne macht die kühle Winterbrise am Ufer deutlich erträglicher.",
+                "hu": "A strand elhagyatott tágassága télen mély nyugalmat kínál; egy forró tea a termoszból sokkal elviselhetőbbé teszi a hűvös téli szellőt a parton.",
+                "ro": "Întinderea pustie a plajei oferă o liniște profundă iarna; un ceai fierbinte din termos face briza rece a iernii de pe mal mult mai suportabilă.",
+                "en": "The deserted expanse of the beach offers deep peace in winter; a hot tea from a thermos makes the cool winter breeze on the shore much more bearable."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Cinque Vele",
+                "hu": "Le Cinque Vele",
+                "ro": "Le Cinque Vele",
+                "en": "Le Cinque Vele"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie die Einsamkeit an diesem sonst so belebten Ort; achten Sie unbedingt auf den frühen Sonnenuntergang gegen 17:00 Uhr für den Rückweg.",
+                "hu": "Élvezze a magányt ezen az amúgy oly forgalmas helyen; a visszautat tervezve mindenképpen ügyeljen a korai naplementére 17:00 óra körül.",
+                "ro": "Bucurați-vă de singurătate în acest loc de altfel atât de aglomerat; atenție la apusul timpuriu în jurul orei 17:00 pentru drumul de întoarcere.",
+                "en": "Enjoy the solitude at this otherwise busy spot; be sure to watch out for the early sunset around 5 PM when planning your return journey."
+              }
+            },
+            {
+              "name": {
+                "de": "Spiaggia di Pescoluse",
+                "hu": "Spiaggia di Pescoluse",
+                "ro": "Spiaggia di Pescoluse",
+                "en": "Spiaggia di Pescoluse"
+              },
+              "tip_5lang": {
+                "de": "Perfekt für ausgedehnte Wanderungen bei kühler Luft; die tiefstehende Wintersonne bietet wunderbare Fotomotive direkt am weiten Meeresufer.",
+                "hu": "Tökéletes hosszú sétákhoz a hűvös levegőn; az alacsonyan járó téli nap csodálatos fotótémákat kínál közvetlenül a tágas tengerparton.",
+                "ro": "Perfect pentru plimbări lungi în aerul răcoros; soarele jos de iarnă oferă oportunități foto minunate direct pe malul vast al mării.",
+                "en": "Perfect for long walks in the cool air; the low winter sun offers wonderful photo opportunities directly on the vast seashore."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Indítsa a reggelt a helyi templom felfedezésével, mielőtt észak felé kerékpározna a lenyűgöző Masseria Don Cesare történelmi épületeihez. A dél a múltba vezet az Apiario Valentini és az ősi halomsírok felé. Délután váltson tempót, és tekerjen le a Lido Marirò strandjára egy hűsítő italra a nyüzsgő tengerparton. Az este egy lágy kerékpározással köszönt be a Le Cinque Vele felé, magába szívva a tengerparti alkonyt.",
         "ro": "Începeți dimineața explorând parohia locală înainte de a pedala spre nord până la istorica Masseria Don Cesare. Prânzul vă conduce mai adânc în trecut la Apiario Valentini și la antica necropolă cu tumuli de la Salve. După-amiaza schimbați ritmul pedalând spre Lido Marirò pentru a vă răcori cu o băutură pe litoral. Seara vine cu o plimbare ușoară cu bicicleta la Le Cinque Vele, bucurându-vă de amurgul de pe coastă.",
         "en": "Start the morning exploring the local parish before cycling slightly north to the impressive historic Masseria Don Cesare for rural architecture. Midday leads you further into the past at the Apiario Valentini and the ancient Necropoli a Tumuli di Salve. Afternoon shifts gears as you pedal down to Lido Marirò to cool off and grab a vibrant seaside drink. Evening arrives with a gentle bike ride to Le Cinque Vele, soaking in the coastal twilight before finishing the day's route."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine nasse Radfahrt beginnt im ruhigen Ort. Vorsicht auf den Landwegen zur Masseria, da diese bei Regen rutschig oder leicht schlammig sein können. Der Besuch beim Apiario bietet eine willkommene Pause im Trockenen. Abends kehrt man vorsichtig über die glänzenden, nassen Straßen zurück, während der Regen leise auf den Helm trommelt.",
+            "hu": "Vizes biciklitúra indul a csendes faluban. Óvatosan a Masseria felé vezető utakon, mert esőben csúszósak vagy enyhén sárosak lehetnek. Az Apiario látogatása üdvözlendő szünetet kínál a szárazon. Este óvatosan térünk vissza a csillogó, vizes utakon, miközben az eső halkan kopog a bukósisakon.",
+            "ro": "O plimbare umedă cu bicicleta începe în satul liniștit. Atenție pe drumurile spre Masseria, deoarece pot fi alunecoase sau ușor noroioase în caz de ploaie. Vizita la Apiario oferă o pauză binevenită la adăpost. Seara ne întoarcem cu grijă pe străzile ude și strălucitoare, în timp ce ploaia bate ușor în cască.",
+            "en": "A wet bike ride starts in the quiet village. Be careful on the country roads to the Masseria, as they can be slippery or slightly muddy in the rain. Visiting the Apiario offers a welcome break in the dry. In the evening, return carefully over the glistening, wet roads while the rain taps gently on your helmet."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa del Beato Giovanni XXIII",
+                "hu": "Chiesa del Beato Giovanni XXIII",
+                "ro": "Chiesa del Beato Giovanni XXIII",
+                "en": "Chiesa del Beato Giovanni XXIII"
+              },
+              "tip_5lang": {
+                "de": "Starten Sie Ihre Tour hier, um im Trockenen zu bleiben; prüfen Sie den Reifendruck, da nasse Straßen deutlich weniger Grip bieten als trockene Fahrbahnen.",
+                "hu": "Indítsa innen a túrát, hogy szárazon maradjon; ellenőrizze a guminyomást, mivel a vizes utak jóval kevésbé tapadnak, mint a száraz útfelületek.",
+                "ro": "Începeți turul aici pentru a rămâne la adăpost; verificați presiunea în anvelope, deoarece drumurile ude oferă mult mai puțină aderență decât cele uscate.",
+                "en": "Start your tour here to stay dry; check your tire pressure as wet roads offer significantly less grip than dry road surfaces."
+              }
+            },
+            {
+              "name": {
+                "de": "Masseria Don Cesare",
+                "hu": "Masseria Don Cesare",
+                "ro": "Masseria Don Cesare",
+                "en": "Masseria Don Cesare"
+              },
+              "tip_5lang": {
+                "de": "Historischer Charme unter grauen Wolken; meiden Sie unbefestigte Seitenwege, die durch den Regen tiefgründig und für Räder schwer passierbar sein könnten.",
+                "hu": "Történelmi báj szürke felhők alatt; kerülje a burkolatlan mellékutakat, amelyek az esőtől mélyek és a biciklik számára nehezen járhatóak lehetnek.",
+                "ro": "Farmec istoric sub nori gri; evitați drumurile laterale nepaveate, care pot deveni adânci din cauza ploii și greu de parcurs cu bicicleta.",
+                "en": "Historical charm under grey skies; avoid unpaved side paths that could be deep and difficult for bikes to navigate due to the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Apiario Valentini",
+                "hu": "Apiario Valentini",
+                "ro": "Apiario Valentini",
+                "en": "Apiario Valentini"
+              },
+              "tip_5lang": {
+                "de": "Lernen Sie die faszinierende Imkerei kennen, während es draußen regnet; parken Sie das Rad sicher auf befestigtem Untergrund, um ein Einsinken zu vermeiden.",
+                "hu": "Ismerje meg a lenyűgöző méhészetet, miközben kint esik; parkolja a biciklit biztonságosan szilárd talajon, hogy elkerülje az elsüllyedést a sárban.",
+                "ro": "Învățați despre apicultura fascinantă în timp ce afară plouă; parcați bicicleta în siguranță pe o suprafață solidă pentru a evita scufundarea în noroi.",
+                "en": "Learn about the fascinating beekeeping while it rains outside; park your bike safely on solid ground to prevent it from sinking into the mud."
+              }
+            },
+            {
+              "name": {
+                "de": "Necropoli a Tumuli di Salve",
+                "hu": "Necropoli a Tumuli di Salve",
+                "ro": "Necropoli a Tumuli di Salve",
+                "en": "Necropoli a Tumuli di Salve"
+              },
+              "tip_5lang": {
+                "de": "Die antike Archäologie im Regen wirkt beinahe mystisch; tragen Sie einen Regenponcho, um beim Erkunden der Hügel beide Hände fest am Lenker zu haben.",
+                "hu": "Az ősi régészet az esőben szinte misztikusnak hat; viseljen esőponcsót, hogy a sírhalmok felfedezése közben mindkét keze szabadon maradhasson.",
+                "ro": "Arheologia antică în ploaie pare aproape mistică; purtați o pelerină de ploaie pentru a avea ambele mâini libere în timp ce explorați tumulii.",
+                "en": "Ancient archaeology in the rain feels almost mystical; wear a rain poncho so you can keep both hands free while exploring the burial mounds."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Marirò",
+                "hu": "Lido Marirò",
+                "ro": "Lido Marirò",
+                "en": "Lido Marirò"
+              },
+              "tip_5lang": {
+                "de": "Ein kurzer, erfrischender Halt am Meer trotz Nässe; achten Sie auf plötzliche Windböen, die das Radfahren an der offenen Küste stark erschweren können.",
+                "hu": "Egy rövid, frissítő megálló a tengerparton a nedvesség ellenére; figyeljen a hirtelen széllökésekre, amik a nyílt parton nehezíthetik a biciklizést.",
+                "ro": "O scurtă oprire revigorantă la mare în ciuda umidității; atenție la rafalele bruște de vânt care pot îngreuna mult ciclismul pe coastă.",
+                "en": "A short, refreshing stop by the sea despite the wet; watch out for sudden wind gusts that can make cycling on the open coast very difficult."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Cinque Vele",
+                "hu": "Le Cinque Vele",
+                "ro": "Le Cinque Vele",
+                "en": "Le Cinque Vele"
+              },
+              "tip_5lang": {
+                "de": "Abschluss der Radtour bei Meeresrauschen und Regen; verstauen Sie Ihre technische Ausrüstung unbedingt wasserdicht für den letzten Teil des Rückwegs.",
+                "hu": "A biciklitúra zárása tengerzúgással és esővel; mindenképpen pakolja el technikai felszerelését vízhatlanul a visszautat utolsó szakaszára.",
+                "ro": "Încheierea turului cu bicicleta cu sunetul mării și ploaie; depozitați neapărat echipamentul tehnic în mod etanș pentru ultima parte a drumului.",
+                "en": "Closing the bike tour with the sound of the sea and rain; be sure to pack your technical gear waterproof for the last part of the return trip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Die kühle, klare Winterluft macht das Radfahren am Morgen sehr erfrischend. Mittags bieten die historischen Stätten wenig Schutz vor dem Wind, daher ist warme, winddichte Kleidung wichtig. Die tiefstehende Sonne am Nachmittag sorgt für goldenes Licht auf den Wegen. Beenden Sie die Tour vor dem frühen Dunkelwerden gegen 17:00 Uhr.",
+            "hu": "A hűvös, tiszta téli levegő nagyon frissítővé teszi a biciklizést reggel. Délben a történelmi helyszínek kevés védelmet nyújtanak a szél ellen, ezért a meleg, szélálló ruházat fontos. A délutáni alacsony nap aranyfénybe öltözteti az utakat. Fejezze be a túrát a korai sötétedés előtt, 17:00 körül.",
+            "ro": "Aerul rece și curat de iarnă face ciclismul de dimineață foarte revigorant. La prânz, siturile istorice oferă puțină protecție împotriva vântului, așa că hainele groase sunt importante. Soarele de după-amiază oferă o lumină aurie drumurilor. Încheiați turul înainte de lăsarea întunericului, în jurul orei 17:00.",
+            "en": "The cool, clear winter air makes cycling in the morning very refreshing. At noon, historical sites offer little protection from the wind, so warm, windproof clothing is important. The low afternoon sun provides golden light on the paths. Finish the tour before it gets dark early around 5 PM."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Chiesa del Beato Giovanni XXIII",
+                "hu": "Chiesa del Beato Giovanni XXIII",
+                "ro": "Chiesa del Beato Giovanni XXIII",
+                "en": "Chiesa del Beato Giovanni XXIII"
+              },
+              "tip_5lang": {
+                "de": "Nutzen Sie den Besuch zum Aufwärmen am Morgen; tragen Sie warme Handschuhe, um die Hände beim Radfahren in der kühlen Winterluft beweglich zu halten.",
+                "hu": "Használja ki a látogatást a reggeli bemelegítésre; viseljen meleg kesztyűt, hogy a hűvös téli levegőben is mozgékonyan tartsa kezeit tekerés közben.",
+                "ro": "Profitați de vizită pentru a vă încălzi dimineața; purtați mănuși groase pentru a vă păstra mâinile flexibile în timp ce pedalați în aerul rece.",
+                "en": "Use the visit to warm up in the morning; wear warm gloves to keep your hands flexible while cycling in the cool winter air."
+              }
+            },
+            {
+              "name": {
+                "de": "Masseria Don Cesare",
+                "hu": "Masseria Don Cesare",
+                "ro": "Masseria Don Cesare",
+                "en": "Masseria Don Cesare"
+              },
+              "tip_5lang": {
+                "de": "Klare Sicht auf das beeindruckende historische Mauerwerk; nutzen Sie die Mittagssonne für eine kurze Verschnaufpause im schützenden Windschatten der Mauern.",
+                "hu": "Tiszta kilátás a lenyűgöző történelmi falakra; használja ki a déli napsütést egy rövid pihenőre a falak védelmező szélárnyékában.",
+                "ro": "Vedere clară asupra zidăriei istorice impresionante; profitați de soarele de la prânz pentru o scurtă pauză la adăpostul protector al zidurilor.",
+                "en": "Clear view of the impressive historical masonry; take advantage of the midday sun for a short breather in the protective lee of the walls."
+              }
+            },
+            {
+              "name": {
+                "de": "Apiario Valentini",
+                "hu": "Apiario Valentini",
+                "ro": "Apiario Valentini",
+                "en": "Apiario Valentini"
+              },
+              "tip_5lang": {
+                "de": "Ein interessanter Einblick in die Winterruhe der Bienen; halten Sie sich jedoch nicht zu lange unbeweglich im Freien auf, um nicht zu stark auszukühlen.",
+                "hu": "Érdekes betekintés a méhek téli nyugalmába; azonban ne tartózkodjon túl sokáig mozdulatlanul a szabadban, hogy elkerülje a túlzott lehűlést.",
+                "ro": "O perspectivă interesantă asupra repausului de iarnă al albinelor; totuși, nu stați nemișcat în aer liber prea mult timp pentru a nu vă răci prea tare.",
+                "en": "An interesting insight into the bees' winter rest; however, do not stay motionless outdoors for too long to avoid getting too cold."
+              }
+            },
+            {
+              "name": {
+                "de": "Necropoli a Tumuli di Salve",
+                "hu": "Necropoli a Tumuli di Salve",
+                "ro": "Necropoli a Tumuli di Salve",
+                "en": "Necropoli a Tumuli di Salve"
+              },
+              "tip_5lang": {
+                "de": "Die Grabhügel wirken in der klaren Wintersonne sehr erhaben; achten Sie auf den Untergrund, der an schattigen Stellen morgens noch gefroren sein kann.",
+                "hu": "A sírhalmok nagyon méltóságteljesek a tiszta téli napsütésben; ügyeljen a talajra, amely az árnyékos helyeken reggelente még fagyos lehet.",
+                "ro": "Tumulii par foarte impunători în soarele clar de iarnă; atenție la sol, care poate fi încă înghețat dimineața în locurile umbrite.",
+                "en": "The burial mounds look very majestic in the clear winter sun; watch out for the ground, which may still be frozen in shaded areas in the morning."
+              }
+            },
+            {
+              "name": {
+                "de": "Lido Marirò",
+                "hu": "Lido Marirò",
+                "ro": "Lido Marirò",
+                "en": "Lido Marirò"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Stopp für die frische Meeresbrise; da die Wintersonne früh untergeht, planen Sie die Rückfahrt unbedingt rechtzeitig vor dem Dunkelwerden um 17 Uhr.",
+                "hu": "Rövid megálló a friss tengeri szellőért; mivel a téli nap korán nyugszik, a visszautat mindenképpen tervezze meg időben, a 17 órai sötétedés előtt.",
+                "ro": "Scurtă oprire pentru briza proaspătă a mării; deoarece soarele apune devreme, planificați drumul de întoarcere înainte de lăsarea serii, la ora 17.",
+                "en": "Short stop for the fresh sea breeze; as the winter sun sets early, be sure to plan your return trip well before it gets dark at 5 PM."
+              }
+            },
+            {
+              "name": {
+                "de": "Le Cinque Vele",
+                "hu": "Le Cinque Vele",
+                "ro": "Le Cinque Vele",
+                "en": "Le Cinque Vele"
+              },
+              "tip_5lang": {
+                "de": "Ein letzter Blick auf den winterlichen Strand; beeilen Sie sich mit dem Rad, bevor die spürbare Abendkühle direkt nach dem Sonnenuntergang einsetzt.",
+                "hu": "Utolsó pillantás a téli strandra; siessen a biciklivel, mielőtt a naplemente után azonnal beállna az érezhető esti lehűlés.",
+                "ro": "O ultimă privire asupra plajei de iarnă; grăbiți-vă cu bicicleta înainte de lăsarea frigului serii imediat după apusul soarelui.",
+                "en": "A last look at the winter beach; hurry with your bike before the noticeable evening chill sets in immediately after sunset."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "A reggel egy lenyűgöző autózással indul az ősi halomsírokhoz és egy rövid megállóval az Apiario Valentini méhészetnél. A dél a kulturális ösvényt folytatja a Masseria Don Cesare, majd a Dolmen Argentina Graziadei impozáns megalitjai felé. A délután a tiszta pihenésbe vált, ahogy leparkol a Calòma közelében, és élvezi a Papeete Salentino hangulatát. Az este elegánsan zárul a Seychelles del Salento egzotikus partjainál a naplementét figyelve.",
         "ro": "Dimineața începe cu un drum fascinant către necropola antică și o scurtă oprire la istoricul Apiario Valentini. La prânz continuați traseul cultural la Masseria Don Cesare, urmat de megaliții de la Dolmen Argentina Graziadei. După-amiaza trece la relaxare pură, parcând lângă Calòma și experimentând atmosfera plină de viață de la Papeete Salentino. Seara se încheie frumos pe țărmurile exotice din Seychelles del Salento.",
         "en": "Morning kicks off with a fascinating drive to the ancient Necropoli a Tumuli di Salve and a quick stop at the historical Apiario Valentini. Midday continues the cultural trail at Masseria Don Cesare, followed by the impressive megaliths of Dolmen Argentina Graziadei. Afternoon transitions to pure relaxation as you park near Calòma and experience the lively atmosphere at Papeete Salentino. Evening winds down gracefully on the exotic shores of Seychelles del Salento to watch the colors change over the Ionian Sea."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Eine bequeme Fahrt führt trotz Dauerregen zu den archäologischen Ausgrabungen. Die Wege zwischen den Stopps sind kurz, aber Parkplätze können durch Pfützen rutschig sein. Nachmittags genießt man den dramatischen Blick auf das stürmische Meer ganz entspannt aus dem trockenen Auto. Der Tag endet ruhig und sicher, während die Scheibenwischer den Regen bändigen.",
+            "hu": "Kényelmes autózás vezet a tartós eső ellenére a régészeti ásatásokhoz. A megállók közötti utak rövidek, de a parkolók a tócsák miatt csúszósak lehetnek. Délután a viharos tenger drámai látványát teljesen ellazulva élvezhetjük a száraz autóból. A nap nyugodtan és biztonságosan zárul, miközben az ablaktörlők küzdenek az esővel.",
+            "ro": "O călătorie confortabilă duce spre săpăturile arheologice în ciuda ploii continue. Drumurile între opriri sunt scurte, dar parcările pot fi alunecoase din cauza bălților. După-amiaza vă puteți bucura de vederea mării furtunoase din mașina uscată. Ziua se termină liniștit și în siguranță, în timp ce ștergătoarele îmblânzesc ploaia.",
+            "en": "A comfortable drive leads to the archaeological excavations despite the continuous rain. The paths between stops are short, but parking lots can be slippery due to puddles. In the afternoon, enjoy the dramatic view of the stormy sea while relaxing in your dry car. The day ends quietly and safely as the wipers manage the rain."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necropoli a Tumuli di Salve",
+                "hu": "Necropoli a Tumuli di Salve",
+                "ro": "Necropoli a Tumuli di Salve",
+                "en": "Necropoli a Tumuli di Salve"
+              },
+              "tip_5lang": {
+                "de": "Eine Besichtigung ist bequem vom Auto aus möglich; tragen Sie jedoch wasserfeste Schuhe für den kurzen, eventuell schlammigen Fußweg direkt zu den Tumuli.",
+                "hu": "A megtekintés kényelmesen megoldható az autóból; azonban viseljen vízálló cipőt a tumulusokhoz vezető rövid, esetleg sáros gyalogúthoz.",
+                "ro": "Vizualizarea este posibilă confortabil din mașină; totuși, purtați pantofi impermeabili pentru drumul scurt și eventual noroios până la tumuli.",
+                "en": "Viewing is comfortably possible from the car; however, wear waterproof shoes for the short, possibly muddy walk directly to the tumuli."
+              }
+            },
+            {
+              "name": {
+                "de": "Apiario Valentini",
+                "hu": "Apiario Valentini",
+                "ro": "Apiario Valentini",
+                "en": "Apiario Valentini"
+              },
+              "tip_5lang": {
+                "de": "Ein trockener Zwischenstopp für Naturfreunde; parken Sie so nah wie möglich am Eingang, um beim kurzen Weg ins Innere des Apiario nicht nass zu werden.",
+                "hu": "Száraz pihenő a természetbarátoknak; parkoljon a lehető legközelebb a bejárathoz, hogy ne ázzon meg az Apiario belsejébe vezető rövid úton.",
+                "ro": "O oprire uscată pentru iubitorii de natură; parcați cât mai aproape de intrare pentru a nu vă uda pe drumul scurt spre interiorul Apiario.",
+                "en": "A dry stopover for nature lovers; park as close to the entrance as possible to avoid getting wet on the short walk inside the Apiario."
+              }
+            },
+            {
+              "name": {
+                "de": "Masseria Don Cesare",
+                "hu": "Masseria Don Cesare",
+                "ro": "Masseria Don Cesare",
+                "en": "Masseria Don Cesare"
+              },
+              "tip_5lang": {
+                "de": "Die alten Mauern trotzen dem Regen seit Jahrhunderten; nutzen Sie das Auto als sichere Basis für Ihre kurzen Erkundungsgänge rund um das Anwesen.",
+                "hu": "A régi falak évszázadok óta dacolnak az esővel; használja az autót biztonságos bázisként a birtok körüli rövid felfedező utakhoz.",
+                "ro": "Zidurile vechi înfruntă ploaia de secole; folosiți mașina ca bază sigură pentru scurte explorări în jurul proprietății.",
+                "en": "The old walls have defied the rain for centuries; use the car as a safe base for your short exploration trips around the estate."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen Argentina Graziadei",
+                "hu": "Dolmen Argentina Graziadei",
+                "ro": "Dolmen Argentina Graziadei",
+                "en": "Dolmen Argentina Graziadei"
+              },
+              "tip_5lang": {
+                "de": "Mystische Atmosphäre im prasselnden Regen; halten Sie die Kamera unbedingt trocken, wenn Sie für ein schnelles Erinnerungsfoto kurz aus dem Wagen steigen.",
+                "hu": "Misztikus hangulat a kopogó esőben; mindenképpen tartsa szárazon a kamerát, ha rövid időre kiszáll a kocsiból egy gyors emlékkép kedvéért.",
+                "ro": "Atmosferă mistică în ploaia torențială; păstrați camera uscată neapărat dacă coborâți scurt din mașină pentru o fotografie de amintire.",
+                "en": "Mystical atmosphere in the pitter-patter of rain; be sure to keep your camera dry if you step out of the car briefly for a quick souvenir photo."
+              }
+            },
+            {
+              "name": {
+                "de": "Calòma",
+                "hu": "Calòma",
+                "ro": "Calòma",
+                "en": "Calòma"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den weiten Ausblick auf das Meer aus dem trockenen Fahrzeug; die Gischt spritzt bei starkem Regen und Wind oft besonders spektakulär hoch.",
+                "hu": "Élvezze a tágas kilátást a tengerre a száraz járműből; a tenger permete erős esőben és szélben gyakran különösen látványosan csap fel.",
+                "ro": "Bucurați-vă de vederea mării din vehiculul uscat; spuma mării sare adesea spectaculos de sus în caz de ploaie puternică și vânt.",
+                "en": "Enjoy the wide view of the sea from the dry vehicle; the sea spray often splashes up particularly spectacularly in heavy rain and wind."
+              }
+            },
+            {
+              "name": {
+                "de": "Papeete Salentino",
+                "hu": "Papeete Salentino",
+                "ro": "Papeete Salentino",
+                "en": "Papeete Salentino"
+              },
+              "tip_5lang": {
+                "de": "Kurzer Halt für ein stürmisches Strandpanorama; achten Sie beim Öffnen der Autotür unbedingt auf den starken Seitenwind, der hier an der Küste weht.",
+                "hu": "Rövid megálló egy viharos strandpanorámáért; az autóajtó nyitásakor mindenképpen ügyeljen az erős oldalszélre, amely itt a parton fúj.",
+                "ro": "Scurtă oprire pentru o panoramă furtunoasă a plajei; atenție la vântul lateral puternic care bate aici pe coastă când deschideți ușa mașinii.",
+                "en": "Short stop for a stormy beach panorama; be sure to watch out for the strong side wind blowing here on the coast when opening the car door."
+              }
+            },
+            {
+              "name": {
+                "de": "Seychelles del Salento",
+                "hu": "Seychelles del Salento",
+                "ro": "Seychelles del Salento",
+                "en": "Seychelles del Salento"
+              },
+              "tip_5lang": {
+                "de": "Abschluss des Tages am berühmten Strand im Regen; die Reflexionen der Lichter auf dem nassen Asphalt bieten ein wunderbares und ungewöhnliches Fotomotiv.",
+                "hu": "A nap zárása a híres strandon esőben; a fények tükröződése a vizes aszfalton csodálatos és szokatlan fotótémát kínál a látogatóknak.",
+                "ro": "Încheierea zilei pe celebra plajă în ploaie; reflexiile luminilor pe asfaltul ud oferă un subiect foto minunat și neobișnut vizitatorilor.",
+                "en": "Closing the day at the famous beach in the rain; the reflections of the lights on the wet asphalt offer a wonderful and unusual photo motif."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Im beheizten Auto geht es am Morgen entspannt zu den archäologischen Schätzen der Region. Mittags ist das Licht perfekt für Fotos, solange die Wintersonne noch hell genug scheint. Die Küstenabschnitte sind im Winter friedlich verlassen. Da es früh dunkel wird, bleibt abends nach dem Ausflug genug Zeit für ein gemütliches warmes Getränk.",
+            "hu": "Fűtött autóban indulunk el reggel a régió régészeti kincsei felé. Délben a fények tökéletesek a fotózáshoz, amíg a téli nap elég világosan süt. A parti szakaszok télen békésen elhagyatottak. Mivel korán sötétedik, a kirándulás után este bőven marad idő egy meghitt, meleg ital elfogyasztására.",
+            "ro": "În mașina încălzită pornim dimineața spre comorile arheologice ale regiunii. La prânz, lumina este perfectă pentru fotografii cât timp soarele de iarnă strălucește. Zonele de coastă sunt pustii și liniștite iarna. Deoarece se întunecă devreme, rămâne destul timp seara pentru o băutură caldă.",
+            "en": "In a heated car, we head out in the morning to the archaeological treasures of the region. At noon, the light is perfect for photos as long as the winter sun shines brightly enough. The coastal areas are peacefully deserted in winter. As it gets dark early, there's plenty of time for a cozy warm drink after the excursion."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Necropoli a Tumuli di Salve",
+                "hu": "Necropoli a Tumuli di Salve",
+                "ro": "Necropoli a Tumuli di Salve",
+                "en": "Necropoli a Tumuli di Salve"
+              },
+              "tip_5lang": {
+                "de": "Archäologie im weichen Winterlicht; die Heizung im Auto sorgt zwischen den verschiedenen Stopps für eine wohlige Wärme und Entspannung bei der Fahrt.",
+                "hu": "Régészet lágy téli fényben; az autó fűtése kellemes meleget és ellazulást biztosít a különböző megállók közötti vezetés során.",
+                "ro": "Arheologie în lumina blândă de iarnă; încălzirea din mașină asigură o căldură plăcută și relaxare în timpul condusului între diversele opriri.",
+                "en": "Archaeology in soft winter light; the car's heater provides cozy warmth and relaxation during the drive between the various stops."
+              }
+            },
+            {
+              "name": {
+                "de": "Apiario Valentini",
+                "hu": "Apiario Valentini",
+                "ro": "Apiario Valentini",
+                "en": "Apiario Valentini"
+              },
+              "tip_5lang": {
+                "de": "Einblicke in die Natur während der kalten Jahreszeit; tragen Sie eine warme Mütze für den kurzen Fußweg vom Parkplatz bis zum Eingang des Gebäudes.",
+                "hu": "Betekintés a természetbe a hideg évszakban; viseljen meleg sapkát a parkolótól az épület bejáratáig tartó rövid gyalogúthoz.",
+                "ro": "O perspectivă asupra naturii în timpul sezonului rece; purtați o căciulă groasă pentru drumul scurt de la parcare până la intrarea în clădire.",
+                "en": "Insights into nature during the cold season; wear a warm hat for the short walk from the parking lot to the entrance of the building."
+              }
+            },
+            {
+              "name": {
+                "de": "Masseria Don Cesare",
+                "hu": "Masseria Don Cesare",
+                "ro": "Masseria Don Cesare",
+                "en": "Masseria Don Cesare"
+              },
+              "tip_5lang": {
+                "de": "Historische Pracht ganz ohne die Sommerhitze; genießen Sie die tiefe Ruhe, da im Winter kaum Touristen an diesem geschichtsträchtigen Ort unterwegs sind.",
+                "hu": "Történelmi pompa a nyári hőség nélkül; élvezze a mély nyugalmat, mivel télen alig vannak turisták ezen a történelmi jelentőségű helyen.",
+                "ro": "Splendoare istorică fără căldura verii; bucurați-vă de liniștea profundă, deoarece iarna sunt puțini turiști în acest loc plin de istorie.",
+                "en": "Historical splendor without the summer heat; enjoy the deep peace as there are hardly any tourists at this historic site in winter."
+              }
+            },
+            {
+              "name": {
+                "de": "Dolmen Argentina Graziadei",
+                "hu": "Dolmen Argentina Graziadei",
+                "ro": "Dolmen Argentina Graziadei",
+                "en": "Dolmen Argentina Graziadei"
+              },
+              "tip_5lang": {
+                "de": "Die prähistorische Stätte wirkt im Winter zeitlos; achten Sie beim Aussteigen aus dem Auto unbedingt auf eventuell festgefrorenen oder glatten Boden.",
+                "hu": "A prehisztorikus helyszín télen időtlennek hat; a kocsiból való kiszálláskor mindenképpen ügyeljen az esetlegesen fagyott vagy csúszós talajra.",
+                "ro": "Situl preistoric pare atemporal iarna; la coborârea din mașină, atenție neapărat la solul eventual înghețat sau alunecos.",
+                "en": "The prehistoric site feels timeless in winter; when getting out of the car, be sure to watch out for any frozen or slippery ground."
+              }
+            },
+            {
+              "name": {
+                "de": "Calòma",
+                "hu": "Calòma",
+                "ro": "Calòma",
+                "en": "Calòma"
+              },
+              "tip_5lang": {
+                "de": "Friedlicher Blick auf das winterliche Ionische Meer; ein Fernglas im Handschuhfach hilft Ihnen, die einsamen, weiten Meereshorizonte besser zu erkunden.",
+                "hu": "Békés kilátás a téli Jón-tengerre; a kesztyűtartóban lévő távcső segít jobban felfedezni az elhagyatott, tágas tengeri horizontokat.",
+                "ro": "Vedere pașnică asupra mării Ionice iarna; un binoclu în torpedou vă va ajuta să explorați mai bine orizonturile marine vaste și pustii.",
+                "en": "Peaceful view of the winter Ionian Sea; binoculars in the glove compartment will help you better explore the lonely, vast sea horizons."
+              }
+            },
+            {
+              "name": {
+                "de": "Papeete Salentino",
+                "hu": "Papeete Salentino",
+                "ro": "Papeete Salentino",
+                "en": "Papeete Salentino"
+              },
+              "tip_5lang": {
+                "de": "Der Strand gehört Ihnen im Winter fast allein; nutzen Sie das parkende Auto als praktischen Windschutz für ein paar schnelle, stimmungsvolle Fotos.",
+                "hu": "A strand télen szinte csak az Öné; használja a parkoló autót praktikus szélfogóként néhány gyors és hangulatos fotó elkészítéséhez.",
+                "ro": "Plaja este aproape doar a dumneavoastră iarna; folosiți mașina parcată ca paravan practic pentru câteva fotografii rapide și pline de atmosferă.",
+                "en": "The beach is almost all yours in winter; use the parked car as a practical windbreak for a few quick, atmospheric photos."
+              }
+            },
+            {
+              "name": {
+                "de": "Seychelles del Salento",
+                "hu": "Seychelles del Salento",
+                "ro": "Seychelles del Salento",
+                "en": "Seychelles del Salento"
+              },
+              "tip_5lang": {
+                "de": "Ein magischer Abschluss direkt vor dem Sonnenuntergang um 17 Uhr; die kühle Meeresluft ist nach der Fahrt im geheizten Auto sehr erfrischend.",
+                "hu": "Varázslatos zárás közvetlenül a 17 órai naplemente előtt; a hűvös tengeri levegő a fűtött autóban való utazás után kifejezetten frissítő.",
+                "ro": "Un final magic chiar înainte de apusul soarelui de la ora 17; aerul rece al mării este foarte revigorant după călătoria în mașina încălzită.",
+                "en": "A magical conclusion right before the sunset at 5 PM; the cool sea air is very refreshing after the ride in the heated car."
+              }
+            }
+          ]
+        }
       }
     }
   }

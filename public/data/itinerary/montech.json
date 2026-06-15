@@ -137,6 +137,168 @@
         "hu": "Kezdje a reggelt a békés montech-i kikötőben, elmerülve a hajózási hangulatban. Délben sétáljon az árnyékos Garonne-csatorna mentén a történelmi vízi lejtőhöz. Délután fedezze fel a régi papírgyárak lenyűgöző ipari örökségét. Ahogy közeledik az este, tegyen egy hosszú, csendes sétát a nyugodt Agre-erdőben, tökéletesen zárva a természet és a történelem e csodás napját.",
         "ro": "Începeți dimineața în portul liniștit din Montech, bucurându-vă de atmosfera maritimă. La prânz, plimbați-vă de-a lungul Canalului Garonne către panta de apă istorică. Petreceți după-amiaza descoperind moștenirea industrială fascinantă de la vechile fabrici de hârtie. Pe măsură ce se lasă seara, o plimbare lungă în pădurea Agre încheie o zi perfectă de natură și istorie locală.",
         "en": "Start your morning at the tranquil Port of Montech, soaking in the maritime atmosphere. By midday, wander along the shaded Canal de Garonne to the historic Water Slope. Spend your afternoon discovering the industrial heritage at the Paper Mills. As evening approaches, enjoy a long, peaceful walk into the serene Agre Forest, concluding a perfect day of nature and local history."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie am Hafen und genießen Sie die atmosphärischen Regentropfen. Mittags spazieren Sie am Kanal entlang zum beeindruckenden Wasserkeil, geschützt durch Ihren Regenschirm. Der Nachmittag bietet einen Einblick in die historischen Papiermühlen. Beenden Sie den Tag im Wald von Agre mit wasserfesten Schuhen.",
+            "hu": "Kezdjen a kikötőben, élvezve a víztükrön kopogó esőcseppeket. Délben sétáljon a csatorna mentén a lenyűgöző vízi lejtőhöz esernyővel a kézben. A délután bepillantást enged az ipari papírgyárak történelmébe. Zárja a napot az Agre-erdőben, ahol mindenképpen vízálló cipőre lesz szüksége.",
+            "ro": "Începeți la port, bucurându-vă de picăturile de ploaie pe apă. La prânz, plimbați-vă de-a lungul canalului spre impresionanta pantă de apă cu o umbrelă. După-amiaza oferă o privire adăpostită asupra fabricilor istorice de hârtie. Încheiați cu o plimbare în pădurea Agre, unde bocancii impermeabili sunt esențiali.",
+            "en": "Start at the port, enjoying the atmospheric raindrops on the water. By midday, walk along the canal to marvel at the impressive water slope under your umbrella. The afternoon offers a sheltered look at the historic paper mills. End with a brisk walk in the Agre Forest, where waterproof boots are essential."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Montech",
+                "hu": "Montech kikötője",
+                "ro": "Portul Montech",
+                "en": "Port of Montech"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf den Kanalbooten, aber seien Sie vorsichtig auf den rutschigen Holzstegen.",
+                "hu": "Nézze, ahogy az eső táncol a hajókon, de vigyázzon a csúszós fa stégeken.",
+                "ro": "Priviți ploaia dansând pe bărcile de pe canal, dar atenție la pontoanele alunecoase.",
+                "en": "Watch the rain dance on the canal boats, but be careful on the slippery wooden docks."
+              }
+            },
+            {
+              "name": {
+                "de": "Garonne-Kanal",
+                "hu": "Garonne-csatorna",
+                "ro": "Canalul Garonne",
+                "en": "Canal de Garonne"
+              },
+              "tip_5lang": {
+                "de": "Der baumgesäumte Weg bietet ein natürliches Blätterdach, halten Sie dennoch Ihren Schirm bereit.",
+                "hu": "A fás ösvény természetes lombkoronát nyújt, de tartsa kéznél az esernyőt a záporok ellen.",
+                "ro": "Cărarea împădurită oferă un baldachin natural, dar țineți umbrela la îndemână pentru averse.",
+                "en": "The tree-lined path offers some natural canopy, but keep your umbrella handy against sudden downpours."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserkeil Montech",
+                "hu": "Montech vízi lejtő",
+                "ro": "Panta de apă din Montech",
+                "en": "Montech Water Slope"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die Mechanik dieses Schiffshebewerks; die Betonstrukturen bieten Schutz bei starkem Regen.",
+                "hu": "Csodálja meg a hajóemelő mechanikáját; a masszív betonszerkezetek menedéket adnak esőben.",
+                "ro": "Admirați mecanica acestui lift pentru bărci; structurile sale de beton oferă adăpost în timpul ploii.",
+                "en": "Admire the massive mechanics of this boat lift; its concrete structures offer shelter during heavy rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühlen Montech",
+                "hu": "Montech papírgyárak",
+                "ro": "Fabricile de hârtie Montech",
+                "en": "Montech Paper Mills"
+              },
+              "tip_5lang": {
+                "de": "Erkunden Sie die Architektur der alten Mühlen, die an stürmischen Tagen hervorragenden Windschutz bieten.",
+                "hu": "Fedezze fel a régi malmok építészetét, amelyek kiváló szélvédelmet nyújtanak viharos napokon.",
+                "ro": "Explorați arhitectura vechilor mori, care oferă un paravan excelent în zilele furtunoase.",
+                "en": "Explore the robust architecture of the old mills, which provide an excellent windbreak on stormy days."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Agre",
+                "hu": "Agre-erdő",
+                "ro": "Pădurea Agre",
+                "en": "Agre Forest"
+              },
+              "tip_5lang": {
+                "de": "Genießen Sie den Duft feuchter Erde; wasserfeste Schuhe sind für die schlammigen Wege unerlässlich.",
+                "hu": "Élvezze a nedves avar illatát, de mindenképp viseljen vízálló cipőt a saras ösvényeken.",
+                "ro": "Bucurați-vă de mirosul pământului umed; purtați cizme impermeabile pentru traseele noroioase.",
+                "en": "Enjoy the intense scent of damp earth and pine, wearing waterproof boots for muddy trails."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein klarer Morgen beginnt am ruhigen Hafen. Mittags hält Sie ein zügiger Spaziergang am Garonne-Kanal warm, bevor Sie den Wasserkeil besichtigen. Das Nachmittagslicht fällt wunderschön auf die Papiermühlen. Packen Sie sich warm ein für den Waldspaziergang, da der Sonnenuntergang gegen 17:00 Uhr Kälte bringt.",
+            "hu": "A csípős reggel a csendes kikötőben indul. Délben egy tempós séta a csatorna mentén felmelegít a vízi lejtő megtekintése előtt. A délutáni fény gyönyörűen megvilágítja a papírgyárakat. Öltözzön melegen az erdei sétához, mivel a nap 17:00 körül nyugszik, és gyorsan lehűl a levegő.",
+            "ro": "O dimineață geroasă începe la port. La prânz, o plimbare rapidă pe canal vă încălzește înainte de a vedea Panta de Apă. Lumina după-amiezii luminează frumos fabricile de hârtie. Îmbrăcați-vă gros pentru plimbarea în pădure, deoarece apusul vine în jur de 17:00 și se face frig.",
+            "en": "A crisp morning starts at the serene port. By midday, a brisk walk along the Garonne Canal keeps you warm before seeing the historic Water Slope. The afternoon light beautifully hits the old paper mills. Wrap up warmly for a late afternoon forest walk, as sunset arrives around 17:00, bringing a sharp chill."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Montech",
+                "hu": "Montech kikötője",
+                "ro": "Portul Montech",
+                "en": "Port of Montech"
+              },
+              "tip_5lang": {
+                "de": "Der Morgenfrost auf den Booten ist fotogen; tragen Sie warme Handschuhe beim Fotografieren.",
+                "hu": "A csónakokon lévő zúzmara nagyon fotogén; viseljen meleg kesztyűt fotózáskor.",
+                "ro": "Înghețul matinal de pe bărci este foarte fotogenic; purtați mănuși calde când faceți poze.",
+                "en": "The morning frost on the moored boats is highly photogenic; wear warm gloves while taking pictures."
+              }
+            },
+            {
+              "name": {
+                "de": "Garonne-Kanal",
+                "hu": "Garonne-csatorna",
+                "ro": "Canalul Garonne",
+                "en": "Canal de Garonne"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume öffnen den Blick, aber der Wind ist eisig; ein dicker Schal wird empfohlen.",
+                "hu": "A kopasz fák szélesebb kilátást nyújtanak, de a szél csípős lehet, így vastag sál ajánlott.",
+                "ro": "Copacii fără frunze deschid priveliștea, dar vântul poate fi tăios; o eșarfă groasă este recomandată.",
+                "en": "The leafless trees open up wider views of the landscape, but the wind can be biting, so a thick scarf is recommended."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserkeil Montech",
+                "hu": "Montech vízi lejtő",
+                "ro": "Panta de apă din Montech",
+                "en": "Montech Water Slope"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die gefrorene Stille des Wasserkeils und tragen Sie thermische Schichten gegen die Zugluft.",
+                "hu": "Csodálja meg a mechanikus vízi lejtő megfagyott csendjét, és viseljen réteges termo ruházatot a hideg huzat ellen.",
+                "ro": "Admirați liniștea înghețată a pantei mecanice, asigurându-vă că aveți haine termice împotriva curentului.",
+                "en": "Marvel at the frozen stillness of the mechanical water slope, making sure you have thermal layers on against the cold draft."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühlen Montech",
+                "hu": "Montech papírgyárak",
+                "ro": "Fabricile de hârtie Montech",
+                "en": "Montech Paper Mills"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne wirft dramatische Schatten auf das Mauerwerk; bringen Sie eine Thermoskanne für ein heißes Getränk mit.",
+                "hu": "A téli nap hosszú, drámai árnyékokat vet a téglafalakra; hozzon magával egy termosz forró italt.",
+                "ro": "Soarele de iarnă aruncă umbre dramatice pe cărămidă; aduceți un termos pentru o băutură caldă aici.",
+                "en": "The winter sun casts long, dramatic shadows on the brickwork; bring a hot flask to enjoy a warm drink here."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Agre",
+                "hu": "Agre-erdő",
+                "ro": "Pădurea Agre",
+                "en": "Agre Forest"
+              },
+              "tip_5lang": {
+                "de": "Der ruhige Winterwald ist magisch, aber achten Sie auf die frühe Dunkelheit gegen 17 Uhr und nehmen Sie eine Taschenlampe mit.",
+                "hu": "A csendes téli erdő varázslatos, de ügyeljen a korai sötétedésre, és tartson magánál zseblámpát.",
+                "ro": "Pădurea liniștită de iarnă este magică, dar fiți atenți la întunericul timpuriu din jur de ora 17:00.",
+                "en": "The quiet winter forest is magical, but be mindful of the early darkness around 5 PM and keep a flashlight handy."
+              }
+            }
+          ]
+        }
       }
     },
     "bike": {
@@ -291,6 +453,196 @@
         "hu": "Reggel tekerjen ki Montech nyüzsgő kikötőjéből, élvezve a csatorna friss szellőjét. Délben a lenyűgöző vízi lejtő és a történelmi papírgyárak mellett vezet az útja. Délután kerekezzen el a Bressols-tó festői partjaira egy megérdemelt pihenőre. Zárja az estét egy kellemes biciklizéssel a varázslatos Agre-erdőben, tökéletesen ötvözve a történelmi felfedezést a szabadtéri kalanddal.",
         "ro": "Pedalați dimineața din portul animat Montech, savurând briza proaspătă a canalului. La prânz, treceți pe lângă panta de apă fascinantă și vechile fabrici de hârtie. După-amiaza, mergeți rapid spre malurile pitorești ale Lacului Bressols pentru o pauză relaxantă. Încheiați seara cu o plimbare ușoară în pădurea fermecătoare Agre, combinând istoria cu aventura în natură.",
         "en": "Cycle out from the bustling Port of Montech in the morning, enjoying the fresh canal breeze. Midday brings you past the marvelous Water Slope and historic Paper Mills. In the afternoon, pedal swiftly to the pristine shores of Lac de Bressols for a scenic break. Finish your evening with a gentle ride into the enchanting Agre Forest, blending historical exploration with outdoor adventure."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Ein nebliger Morgen am Hafen erfordert Vorsicht beim Radfahren. Fahren Sie mittags langsam am Kanal, da die Wege rutschig sind. Nachmittags erkunden Sie den Wasserkeil und die Mühlen mit Regenjacke. Beenden Sie den Tag am See und im Wald; gute Schutzbleche sind hier wichtig.",
+            "hu": "Ködös reggel a kikötőben, ahol a biciklizés extra óvatosságot igényel. Délben óvatosan tekerjen a csatorna mentén, mert az utak csúszósak. Délután vízálló kabátban fedezze fel a vízi lejtőt. A napot a tónál és az erdőben zárja, győződjön meg a sárvédők meglétéről.",
+            "ro": "O dimineață cețoasă începe la port, unde pedalatul necesită atenție. Mergeți cu grijă de-a lungul canalului la prânz, drumul e alunecos. După-amiaza, explorați Panta de Apă și morile cu o pelerină de ploaie. Încheiați la lac și pădure, asigurându-vă că bicicleta are apărători de noroi.",
+            "en": "A misty morning starts at the port, where biking requires extra care. Ride carefully along the canal at midday as paths can be slick. In the afternoon, explore the Water Slope and old mills with a rain jacket. Finish the day riding around the lake and forest, making sure your bike has good mudguards."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Montech",
+                "hu": "Montech kikötője",
+                "ro": "Portul Montech",
+                "en": "Port of Montech"
+              },
+              "tip_5lang": {
+                "de": "Regen über dem Hafen schafft eine stimmungsvolle Reflexion; achten Sie auf nasse Holzbretter.",
+                "hu": "Az eső a kikötőben hangulatos tükröződést teremt; vigyázzon a gumikkal a nedves fadeszkákon.",
+                "ro": "Ploaia peste port creează o reflexie melancolică; atenție la anvelope pe scândurile ude.",
+                "en": "Rain over the port creates a moody reflection; watch your tires on the wet wooden boards."
+              }
+            },
+            {
+              "name": {
+                "de": "Garonne-Kanal",
+                "hu": "Garonne-csatorna",
+                "ro": "Canalul Garonne",
+                "en": "Canal de Garonne"
+              },
+              "tip_5lang": {
+                "de": "Der nasse Leinpfad erfordert mäßige Geschwindigkeit; eine gut sichtbare, wasserdichte Radjacke ist unerlässlich.",
+                "hu": "A nedves vontatóút mérsékelt sebességet igényel; egy jól látható, vízálló kerékpáros kabát elengedhetetlen.",
+                "ro": "Drumul de remorcare ud necesită viteză moderată; o jachetă de ciclism impermeabilă vizibilă este esențială.",
+                "en": "The wet towpath requires moderate speed; a high-visibility waterproof cycling jacket is essential here."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserkeil Montech",
+                "hu": "Montech vízi lejtő",
+                "ro": "Panta de apă din Montech",
+                "en": "Montech Water Slope"
+              },
+              "tip_5lang": {
+                "de": "Die Betonstruktur bietet eine kurze, trockene Pause, um Ihre Fahrradbremsen bei Nässe zu überprüfen.",
+                "hu": "Az impozáns betonszerkezet rövid, száraz pihenőt biztosít, hogy ellenőrizze a fékeket nedves időben.",
+                "ro": "Structura de beton oferă un scurt răgaz uscat pentru a vă verifica frânele bicicletei în condiții de umezeală.",
+                "en": "The imposing concrete structure provides a brief, dry respite to check your bike brakes in the wet conditions."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühlen Montech",
+                "hu": "Montech papírgyárak",
+                "ro": "Fabricile de hârtie Montech",
+                "en": "Montech Paper Mills"
+              },
+              "tip_5lang": {
+                "de": "Parken Sie Ihr Rad unter den breiten Vordächern der Mühlen und wischen Sie den Sattel trocken.",
+                "hu": "Parkoljon le az öreg malmok széles ereszei alatt, és törölje szárazra a nyerget indulás előtt.",
+                "ro": "Parcați bicicleta sub streșinile late ale vechilor mori și ștergeți șaua înainte de a continua.",
+                "en": "Park your bike under the broad eaves of the old mills and wipe your saddle dry before continuing."
+              }
+            },
+            {
+              "name": {
+                "de": "Bressols-See",
+                "hu": "Bressols-tó",
+                "ro": "Lacul Bressols",
+                "en": "Lac de Bressols"
+              },
+              "tip_5lang": {
+                "de": "Der neblige See ist sehr atmosphärisch, aber die umliegenden Feldwege werden schlammig, fahren Sie vorsichtig.",
+                "hu": "A ködös tó hihetetlenül hangulatos, de a környező földutak sarassá válnak, így tekerjen óvatosan.",
+                "ro": "Lacul cețos este incredibil de atmosferic, dar cărările de pământ devin noroioase, așa că pedalați cu grijă.",
+                "en": "The misty lake is incredibly atmospheric, but the surrounding dirt paths turn to mud, so ride carefully."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Agre",
+                "hu": "Agre-erdő",
+                "ro": "Pădurea Agre",
+                "en": "Agre Forest"
+              },
+              "tip_5lang": {
+                "de": "Das Blätterdach hält leichten Regen ab, aber nasse Blätter erfordern etwas weniger Reifendruck für mehr Grip.",
+                "hu": "A lombozat felfogja a szitálást, de a nedves levelek miatt érdemes csökkenteni a guminyomást a tapadáshoz.",
+                "ro": "Baldachinul pădurii oprește ploaia ușoară, dar frunzele ude necesită o presiune mai mică în anvelope pentru aderență.",
+                "en": "The forest canopy keeps off light rain, but wet leaves on the cycle trails demand lower tire pressure for grip."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einer frostigen Morgenradtour am Hafen. Mittags wärmt Sie das Fahren entlang des Kanals auf. Genießen Sie nachmittags die karge Schönheit des Wasserkeils und der Mühlen. Ihre Tour endet am See und Wald, genau wenn die Sonne früh untergeht – Fahrradlichter sind wichtig!",
+            "hu": "Kezdje a napot egy fagyos reggeli tekeréssel a kikötőben. Délben a csatorna menti kerékpározás tökéletesen felmelegít. Délután élvezze a vízi lejtő és a malmok zord szépségét. A túra a tó és az erdő mellett ér véget a korai naplementében, ezért a kerékpárlámpa kötelező.",
+            "ro": "Începeți cu o pedalare geroasă de dimineață la port. Mersul pe bicicletă de-a lungul canalului la prânz vă încălzește. După-amiaza, bucurați-vă de frumusețea austeră a Pantei de Apă și a morilor. Cursa se termină la lac și pădure, la apusul timpuriu, luminile bicicletei fiind cruciale.",
+            "en": "Start with a frosty morning cycle at the port, feeling the crisp winter air. Midday riding along the canal warms you up perfectly. In the afternoon, enjoy the stark beauty of the Water Slope and paper mills. Your ride ends near the lake and forest, arriving just as the sun sets early, so bicycle lights are crucial."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Montech",
+                "hu": "Montech kikötője",
+                "ro": "Portul Montech",
+                "en": "Port of Montech"
+              },
+              "tip_5lang": {
+                "de": "Der gefrorene Nebel ist wunderschön; tragen Sie Thermo-Radhandschuhe, um Ihre Finger warm und bremsbereit zu halten.",
+                "hu": "A fagyos reggeli köd gyönyörű; viseljen termo kerékpáros kesztyűt, hogy az ujjai melegek és mozgékonyak maradjanak.",
+                "ro": "Ceața înghețată de dimineață este frumoasă; purtați mănuși termice pentru a vă menține degetele calde pentru frânare.",
+                "en": "The frozen morning mist is beautiful; wear thermal cycling gloves to keep your fingers warm and nimble for braking."
+              }
+            },
+            {
+              "name": {
+                "de": "Garonne-Kanal",
+                "hu": "Garonne-csatorna",
+                "ro": "Canalul Garonne",
+                "en": "Canal de Garonne"
+              },
+              "tip_5lang": {
+                "de": "Die klare Wintersicht auf den Kanal ist spektakulär; eine winddichte Jacke gegen die kühle Brise ist ein Muss.",
+                "hu": "A csatornára nyíló tiszta téli kilátás látványos; egy szélálló kabát elengedhetetlen a hűvös szél ellen.",
+                "ro": "Priveliștile clare de iarnă pe canal sunt spectaculoase; o jachetă rezistentă la vânt este o necesitate.",
+                "en": "The clear winter views down the canal are spectacular; a windproof jacket is a must against the chilling breeze."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserkeil Montech",
+                "hu": "Montech vízi lejtő",
+                "ro": "Panta de apă din Montech",
+                "en": "Montech Water Slope"
+              },
+              "tip_5lang": {
+                "de": "Die Maschinen heben sich vom Winterhimmel ab; steigen Sie vorsichtig ab, da schattige Wege vereist sein können.",
+                "hu": "Nézze meg a téli égbolttal kontrasztos gépezetet; szálljon le óvatosan, mert az árnyékos betonutak jegesek lehetnek.",
+                "ro": "Vedeți mașinăriile pe cerul de iarnă; descălecați cu grijă, deoarece cărările umbrite de beton pot fi înghețate.",
+                "en": "See the machinery stark against the winter sky; dismount carefully as the shaded concrete paths may have icy patches."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühlen Montech",
+                "hu": "Montech papírgyárak",
+                "ro": "Fabricile de hârtie Montech",
+                "en": "Montech Paper Mills"
+              },
+              "tip_5lang": {
+                "de": "Die Industrieruinen wirken dramatisch bei tiefstehender Sonne; halten Sie sich mit einer Thermoschicht warm.",
+                "hu": "Az ipari romok drámaian festenek az alacsony napfényben; tartsa melegen testét egy termo alsóréteggel a pihenő alatt.",
+                "ro": "Ruinele industriale arată dramatic în soarele jos; mențineți-vă corpul cald cu un strat de bază termic aici.",
+                "en": "The industrial ruins look dramatic in the low sun; keep your core warm with a thermal base layer while pausing here."
+              }
+            },
+            {
+              "name": {
+                "de": "Bressols-See",
+                "hu": "Bressols-tó",
+                "ro": "Lacul Bressols",
+                "en": "Lac de Bressols"
+              },
+              "tip_5lang": {
+                "de": "Der teilweise zugefrorene See ist ruhig; überprüfen Sie Ihr Fahrradlicht, da der Abend schnell naht.",
+                "hu": "A részben befagyott tó békés; ellenőrizze a kerékpár lámpáit, ahogy az este gyorsan közeledik.",
+                "ro": "Lacul parțial înghețat este liniștit; verificați luminile bicicletei deoarece seara se apropie repede.",
+                "en": "The partially frozen lake is tranquil; check your bike's dynamo or battery lights as evening approaches fast."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Agre",
+                "hu": "Agre-erdő",
+                "ro": "Pădurea Agre",
+                "en": "Agre Forest"
+              },
+              "tip_5lang": {
+                "de": "Die kahlen Bäume bieten eine karge Winterlandschaft; stellen Sie sicher, dass Ihr Vorderlicht hell genug für die dunklen Wege ist.",
+                "hu": "A kopasz fák zord téli tájat kínálnak; gondoskodjon erős első lámpáról a sötétedő ösvényeken való navigáláshoz.",
+                "ro": "Copacii goi oferă un peisaj aspru de iarnă; asigurați-vă că farul frontal este suficient de puternic pentru trasee.",
+                "en": "The bare trees offer a stark winter landscape; ensure your front light is bright enough to navigate the darkening trails."
+              }
+            }
+          ]
+        }
       }
     },
     "car": {
@@ -468,6 +820,224 @@
         "hu": "Kora reggel vezessen a központi kikötőből a csodálatos vízi lejtőhöz. Délben fedezze fel a Le grand Saulous és az Ancienne gravière békés tájait a városon kívül. Délután pihenjen meg a Lac de La Gravette nyugodt vizeinél. Ahogy leszáll az est, parkoljon le az Agre-erdő közelében egy utolsó megnyugtató sétára, kényelmesen bejárva Montech legszebb természeti kincseit.",
         "ro": "Conduceți dimineața devreme de la port spre panta de apă magnifică. La prânz, vizitați peisajele liniștite de la Le grand Saulous și Ancienne gravière. În timpul după-amiezii, relaxați-vă lângă apele senine ale Lacului La Gravette. Odată cu lăsarea serii, parcați lângă pădurea Agre pentru o ultimă plimbare liniștitoare, explorând minunile naturale din jurul orașului Montech.",
         "en": "Drive from the central Port to the magnificent Water Slope early in the morning. Midday takes you further to the tranquil landscapes of Le grand Saulous and the Ancienne gravière. During the afternoon, relax by the serene waters of Lac de La Gravette. As evening falls, park near the Agre Forest for a final calming stroll, experiencing the best natural gems around Montech by car."
+      },
+      "variants": {
+        "rainy": {
+          "narrative_4lang": {
+            "de": "Beginnen Sie mit einem geschützten Blick aus dem Auto auf den regnerischen Hafen. Fahren Sie mittags zum Wasserkeil und den Mühlen; nutzen Sie einen Schirm für kurze Wege. Der Nachmittag führt durch neblige Landschaften zu ehemaligen Kiesgruben und einem mystischen See. Beenden Sie den Tag mit einer langsamen Fahrt durch den nassen Wald.",
+            "hu": "Kezdjen a kikötő esős látványával az autó védelméből. Délben hajtson a vízi lejtőhöz és a malmokhoz, esernyővel a rövid sétákhoz. A délután ködös tájakon át egykori kavicsbányákhoz és egy esőben misztikus tóhoz vezet. Zárja a napot egy lassú, festői autózással a nedves Agre-erdőben.",
+            "ro": "Începeți cu o vedere adăpostită a portului ploios din mașină. La prânz, conduceți spre Panta de Apă și mori, folosind umbrela pentru opriri scurte. După-amiaza vă poartă prin peisaje cețoase spre foste cariere și un lac mistic. Încheiați cu un condus lent prin pădurea umedă Agre.",
+            "en": "Start with a sheltered view of the rainy port from your car. By midday, drive to the Water Slope and paper mills, using your umbrella for short hops. The afternoon takes you through misty landscapes to former gravel pits and a lake, looking mystical in the rain. Conclude with a scenic, slow drive through the wet Agre Forest."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Montech",
+                "hu": "Montech kikötője",
+                "ro": "Portul Montech",
+                "en": "Port of Montech"
+              },
+              "tip_5lang": {
+                "de": "Beobachten Sie den Regen auf dem Kanal aus dem warmen Auto; das Parken in der Nähe der Docks ist meist einfach.",
+                "hu": "Nézze a csatornát verő esőt a meleg autóból; a dokkokhoz közeli parkolás általában egyszerű.",
+                "ro": "Priviți ploaia pe canal din căldura mașinii; parcarea aproape de docuri este de obicei ușoară.",
+                "en": "Watch the rain patterning the canal from the warmth of your car; parking close to the docks is usually easy."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserkeil Montech",
+                "hu": "Montech vízi lejtő",
+                "ro": "Panta de apă din Montech",
+                "en": "Montech Water Slope"
+              },
+              "tip_5lang": {
+                "de": "Bringen Sie einen robusten Regenschirm mit, wenn Sie aussteigen, um diese riesige Wassermaschine zu bewundern.",
+                "hu": "Hozzon magával masszív esernyőt, amikor kiszáll az autóból, hogy megcsodálja ezt a hatalmas vízi gépezetet.",
+                "ro": "Aduceți o umbrelă robustă când ieșiți din mașină pentru a admira această uriașă mașinărie pe apă.",
+                "en": "Bring a sturdy umbrella when stepping out of the car to marvel at this huge waterway machine despite the downpour."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühlen Montech",
+                "hu": "Montech papírgyárak",
+                "ro": "Fabricile de hârtie Montech",
+                "en": "Montech Paper Mills"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verleiht den Ruinen eine historische Stimmung; huschen Sie vom Auto zu den überdachten Torbögen.",
+                "hu": "Az eső történelmi hangulatot kölcsönöz a romoknak; szaladjon át a parkolóból a fedett árkádok alá.",
+                "ro": "Ploaia adaugă un aer istoric ruinelor; alergați de la mașina parcată la arcadele acoperite.",
+                "en": "The rain adds a moody, historic feel to the old ruins; dash from your parked car to the covered archways."
+              }
+            },
+            {
+              "name": {
+                "de": "Le grand Saulous",
+                "hu": "Le grand Saulous",
+                "ro": "Le grand Saulous",
+                "en": "Le grand Saulous"
+              },
+              "tip_5lang": {
+                "de": "Der Regen verstärkt das satte Grün; bleiben Sie im Auto bei leicht geöffnetem Fenster, um den Regen zu hören.",
+                "hu": "Az eső felerősíti a természet élénk zöldjét; maradjon az autóban résnyire nyitott ablakkal, és hallgassa az esőt.",
+                "ro": "Ploaia amplifică verdele bogat al acestui loc; rămâneți în mașină cu geamul întredeschis pentru a o auzi.",
+                "en": "The rain amplifies the rich greens of this nature spot; stay in the car with the windows slightly down to hear the rain."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Kiesgrube",
+                "hu": "Egykori kavicsbánya",
+                "ro": "Fosta carieră de pietriș",
+                "en": "Ancienne gravière"
+              },
+              "tip_5lang": {
+                "de": "Das Kiesgelände kann schlammig werden und Pfützen bilden; richtige Gummistiefel sind beim Aussteigen wichtig.",
+                "hu": "A kavicsos terep sárossá válhat, nagy tócsákkal; a megfelelő gumicsizma elengedhetetlen, ha kiszáll.",
+                "ro": "Terenul cu pietriș poate deveni foarte noroios; cizmele de ploaie sunt esențiale dacă ieșiți din vehicul.",
+                "en": "The gravel terrain can get very muddy and pooled with water; proper rain boots are essential if you exit the vehicle."
+              }
+            },
+            {
+              "name": {
+                "de": "La Gravette See",
+                "hu": "La Gravette-tó",
+                "ro": "Lacul La Gravette",
+                "en": "Lac de La Gravette"
+              },
+              "tip_5lang": {
+                "de": "Der Regen auf der Seeoberfläche ist faszinierend; genießen Sie die Aussicht direkt aus dem Auto mit eingeschalteter Heizung.",
+                "hu": "A tó felszínét verő eső hipnotikus; élvezze a kilátást egyenesen a bekapcsolt fűtésű autóból.",
+                "ro": "Ploaia lovind suprafața lacului este fascinantă; bucurați-vă de priveliște direct din mașină cu căldura pornită.",
+                "en": "The rain striking the lake surface is mesmerizing; enjoy the view directly from your car with the heater on."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Agre",
+                "hu": "Agre-erdő",
+                "ro": "Pădurea Agre",
+                "en": "Agre Forest"
+              },
+              "tip_5lang": {
+                "de": "Fahren Sie vorsichtig, da nasses Laub die Straßen rutschig macht, und genießen Sie die dunklen, regennassen Baumstämme.",
+                "hu": "Vezessen óvatosan, mert a nedves levelek csúszóssá teszik az utat, és élvezze bentről az eső áztatta fatörzseket.",
+                "ro": "Conduceți cu grijă, frunzele ude fac drumul alunecos, și admirați trunchiurile întunecate și ude din interior.",
+                "en": "Drive carefully as wet leaves make the forest roads slippery, enjoying the dark, rain-soaked tree trunks from inside."
+              }
+            }
+          ]
+        },
+        "winter": {
+          "narrative_4lang": {
+            "de": "Ein frostiger Morgen beginnt am Hafen mit einer warmen Fahrt. Erkunden Sie mittags den Wasserkeil und die Mühlen in der klaren Luft. Die Nachmittagsfahrt offenbart ruhige Winterseen und ehemalige Kiesgruben. Beenden Sie den Tag mit einer Fahrt durch den kahlen Wald von Agre, bevor der frühe Sonnenuntergang gegen 17:00 Uhr die Straßen verdunkelt.",
+            "hu": "Fagyos reggel indul a kikötőben egy kellemesen meleg autózással. Délben fedezze fel a vízi lejtőt és a papírgyárakat a csípős levegőn. A délutáni út békés téli tavakat és egykori kavicsbányákat tár elénk. Zárja a napot egy autózással a kopasz Agre-erdőben, még a 17:00 órás korai naplemente előtt.",
+            "ro": "O dimineață geroasă începe la port cu un condus cald. La prânz, explorați Panta de Apă și morile de hârtie în aerul rece. Condusul de după-amiază dezvăluie lacuri de iarnă liniștite și foste cariere. Încheiați cu o plimbare prin pădurea goală Agre înainte de apusul timpuriu de la 17:00.",
+            "en": "A frosty morning begins at the port with a warm drive. Midday, explore the impressive Water Slope and historic paper mills, stepping out into the crisp air. The afternoon drive reveals tranquil winter lakes and former gravel pits. Conclude the day with a drive through the bare, atmospheric Agre Forest before the early 17:00 sunset darkens the roads."
+          },
+          "stops": [
+            {
+              "name": {
+                "de": "Hafen von Montech",
+                "hu": "Montech kikötője",
+                "ro": "Portul Montech",
+                "en": "Port of Montech"
+              },
+              "tip_5lang": {
+                "de": "Die vereisten Kanalränder sind im Winterlicht atemberaubend; trinken Sie heißen Kaffee in Ihrem beheizten Auto.",
+                "hu": "A csatorna jeges szélei lenyűgözőek a téli fényben; igyon egy termosz forró kávét a fűtött autóban.",
+                "ro": "Marginile înghețate ale canalului sunt uimitoare iarna; beți o cafea fierbinte din termos în mașina încălzită.",
+                "en": "The iced-over edges of the canal are stunning in winter light; bring a thermos of hot coffee to enjoy in your heated car."
+              }
+            },
+            {
+              "name": {
+                "de": "Wasserkeil Montech",
+                "hu": "Montech vízi lejtő",
+                "ro": "Panta de apă din Montech",
+                "en": "Montech Water Slope"
+              },
+              "tip_5lang": {
+                "de": "Bewundern Sie die kolossale, im Winter eingefrorene Technik; tragen Sie einen dicken Mantel gegen den Wind.",
+                "hu": "Csodálja meg a téli időben megdermedt kolosszális mérnöki alkotást; vegyen fel vastag kabátot a szél ellen.",
+                "ro": "Admirați ingineria colosală înghețată în timp; purtați o haină groasă la ieșirea din mașină din cauza vântului.",
+                "en": "Marvel at the colossal engineering frozen in winter time; wear a thick coat when leaving the car as the wind sweeps here."
+              }
+            },
+            {
+              "name": {
+                "de": "Papiermühlen Montech",
+                "hu": "Montech papírgyárak",
+                "ro": "Fabricile de hârtie Montech",
+                "en": "Montech Paper Mills"
+              },
+              "tip_5lang": {
+                "de": "Die Wintersonne betont die Backsteinstrukturen; wärmen Sie Ihre Hände in den Taschen, während Sie die Ruinen erkunden.",
+                "hu": "A téli nap kiemeli a nyers tégla textúrákat; melegítse a kezét a zsebében, miközben a fagyos romokat kutatja.",
+                "ro": "Soarele de iarnă accentuează texturile de cărămidă; încălziți-vă mâinile în buzunare explorând ruinele reci.",
+                "en": "The winter sun enhances the stark brick textures; warm your hands in your pockets while exploring the chilly ruins."
+              }
+            },
+            {
+              "name": {
+                "de": "Le grand Saulous",
+                "hu": "Le grand Saulous",
+                "ro": "Le grand Saulous",
+                "en": "Le grand Saulous"
+              },
+              "tip_5lang": {
+                "de": "Die frostbedeckten Pflanzen schaffen eine magische Winterszene; perfekt für einen Fotostopp, bevor es zurück ins Warme geht.",
+                "hu": "A dérlepte növények varázslatos téli tájat alkotnak; tökéletes egy gyors fotóhoz, mielőtt visszatér a meleg járműbe.",
+                "ro": "Plantele acoperite de chiciură creează o scenă magică; perfect pentru o poză înainte de a vă retrage la căldură.",
+                "en": "The frost-covered plants create a magical winter scene; perfect for a quick photo stop before retreating to the vehicle's warmth."
+              }
+            },
+            {
+              "name": {
+                "de": "Ehemalige Kiesgrube",
+                "hu": "Egykori kavicsbánya",
+                "ro": "Fosta carieră de pietriș",
+                "en": "Ancienne gravière"
+              },
+              "tip_5lang": {
+                "de": "Die gefrorenen Pfützen knirschen befriedigend; achten Sie auf warme Schuhe mit dicken Sohlen.",
+                "hu": "A befagyott tócsák ropognak a láb alatt a kavicson; mindenképpen viseljen meleg, vastag talpú csizmát.",
+                "ro": "Bălțile înghețate scârțâie satisfăcător; asigurați-vă că purtați cizme calde cu talpă groasă.",
+                "en": "The frozen puddles over the gravel crunch satisfyingly underfoot; make sure you wear warm, thick-soled boots."
+              }
+            },
+            {
+              "name": {
+                "de": "La Gravette See",
+                "hu": "La Gravette-tó",
+                "ro": "Lacul La Gravette",
+                "en": "Lac de La Gravette"
+              },
+              "tip_5lang": {
+                "de": "Der Winternebel über dem kalten See ist unglaublich friedlich; genießen Sie die stille Schönheit, ohne auszusteigen.",
+                "hu": "A hideg tó felett lebegő téli köd hihetetlenül békés; élvezze a csendes szépséget anélkül, hogy ki kellene szállnia.",
+                "ro": "Ceața de iarnă deasupra lacului rece este pașnică; bucurați-vă de frumusețea tăcută fără a ieși din mașină.",
+                "en": "The winter mist hanging over the cold lake is incredibly peaceful; enjoy the silent beauty without needing to step outside."
+              }
+            },
+            {
+              "name": {
+                "de": "Wald von Agre",
+                "hu": "Agre-erdő",
+                "ro": "Pădurea Agre",
+                "en": "Agre Forest"
+              },
+              "tip_5lang": {
+                "de": "Kahle Bäume bedeuten gute Sicht im Wald; schalten Sie die Scheinwerfer früh ein, da die tiefe Sonne schnell verschwindet.",
+                "hu": "A kopasz fák jó átláthatóságot jelentenek; kapcsolja be korán a fényszórókat, ahogy a nap az erdőhatár mögé bukik.",
+                "ro": "Copacii goi înseamnă vizibilitate bună; aprindeți farurile devreme deoarece soarele coboară repede în spatele pădurii.",
+                "en": "Winter bare trees mean high visibility through the forest; turn on your headlights early as the low sun drops behind the timberline."
+              }
+            }
+          ]
+        }
       }
     }
   }
